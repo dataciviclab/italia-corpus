@@ -1,23 +1,85 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1973 n. 800
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1964 n. 1015
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1973 n. 800
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1964 n. 1015
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Pisa approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche della statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 23. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di "Diritto dei Paesi afro-asiatici" L'insegnamento complementare di "Diritto coloniale" e' soppresso.
+
+Art. 28, relativo alle propedeuticita' del corso di laurea in Scienze politiche e' abrogato e sostituito dal seguente:
+
+Gli studenti iscritti per la laurea in Scienze politiche non possono sostenere gli esami degli insegnamenti di Diritto internazionale, Diritto amministrativo, Diritto del lavoro, Dottrina dello Stato, e Istituzioni di diritto e procedura penale prima di aver superato gli esami di Istituzioni di diritto pubblico e di Istituzioni di diritto privato; di Diritto costituzionale italiano e comparato e di legislazione del lavoro, prima di aver superato l'esame di Istituzioni di diritto pubblico; di Politica economica e finanziaria, prima di aver superato l'esame di Economia politica.
+
+Art. 67. - All'elenco degli Istituti annessi alla Facolta' di medicina e chirurgia e' aggiunto quello di Clinica ortopedica.
+
+L'Istituto di Anatomia ed istologia patologica assume la denominazione di "Istituto di Anatomia ed istologia patologica Antonio Cesaris Demel".
+
+Art. 105. - E' abrogato e sostituito dal seguente:
+
+"Gli Istituti scientifici della Facolta' di farmacia sono:
+
+1) Istituto di chimica farmaceutica e tossicologica;
+
+2) Istituto di chimica organica".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta Ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 14 agosto 1964
+
+Per il Presidente della Repubblica
+
+Il Presidente del Senato
+
+MERZAGORA
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 22 ottobre 1964 Atti del Governo, registro n. 187, foglio n. 148 - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Pisa approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifiche della statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -25,24 +87,27 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 23. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di "Diritto dei Paesi afro-asiatici" L'insegnamento complementare di "Diritto coloniale" e' soppresso.  
+Art. 28, relativo alle propedeuticita' del corso di laurea in Scienze politiche e' abrogato e sostituito dal seguente:  
   
-Art. 49 - all'elenco degli istituti annessi alla facolta' di lingue e letterature straniere sono aggiunti i seguenti:  
-Istituto di filologia romanza;  
-Laboratorio di linguistica.  
-  
-Art. 73, relativo agli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali, e' modificato nel senso che l'istituto e museo di zoologia e anatomia comparata muta la denominazione in quello di: "Istituto di zoologia e anatomia comparata" ed inoltre e' creato il seguente:  
-Museo di zoologia e anatomia comparata.  
+Gli studenti iscritti per la laurea in Scienze politiche non possono sostenere gli esami degli insegnamenti di Diritto internazionale, Diritto amministrativo, Diritto del lavoro, Dottrina dello Stato, e Istituzioni di diritto e procedura penale prima di aver superato gli esami di Istituzioni di diritto pubblico e di Istituzioni di diritto privato; di Diritto costituzionale italiano e comparato e di legislazione del lavoro, prima di aver superato l'esame di Istituzioni di diritto pubblico; di Politica economica e finanziaria, prima di aver superato l'esame di Economia politica.  
+Art. 67. - All'elenco degli Istituti annessi alla Facolta' di medicina e chirurgia e' aggiunto quello di Clinica ortopedica.  
+L'Istituto di Anatomia ed istologia patologica assume la denominazione di "Istituto di Anatomia ed istologia patologica Antonio Cesaris Demel".  
+Art. 105. - E' abrogato e sostituito dal seguente:  
+"Gli Istituti scientifici della Facolta' di farmacia sono:  
+1) Istituto di chimica farmaceutica e tossicologica;  
+2) Istituto di chimica organica".  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta Ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 settembre 1973
+### Dato a Roma, addi' 14 agosto 1964
 
-LEONE MALFATTI
+Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 12 dicembre 1973
+Registrato alla Corte dei conti, addi' 22 ottobre 1964
 
-Atti di Governo, registro n. 262, foglio n. 79. - CARUSO
+Atti del Governo, registro n. 187, foglio n. 148 - VILLA

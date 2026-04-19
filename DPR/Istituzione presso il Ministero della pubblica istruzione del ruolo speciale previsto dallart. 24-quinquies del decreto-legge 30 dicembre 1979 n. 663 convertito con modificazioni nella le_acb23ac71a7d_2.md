@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1982 n. 1195
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1982 n. 1201
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1982 n. 1195
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1982 n. 1201
 ==============================================================
 
 Istituzione presso il Ministero della pubblica istruzione del ruolo speciale previsto dall'art. 24-quinquies del decreto-legge 30 dicembre 1979, n. 663, convertito, con modificazioni, nella legge 29 febbraio 1980, n. 33, e relativa dotazione organica.
@@ -10,7 +10,7 @@ Istituzione presso il Ministero della pubblica istruzione del ruolo speciale pre
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Visto l'[art. 24-quinquies del decreto-legge 30 dicembre 1979, n. 663](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-12-30;663~art24quinquies), nel testo introdotto dall'art. 1 della legge di conversione 29 febbraio 1980, n. 33, con le integrazioni di cui all'[art. 21 della legge 20 marzo 1980, n. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-03-20;75~art21), che prevede l'inquadramento in distinti ruoli speciali del personale degli enti pubblici interessati a provvedimenti di soppressione, scorporo o riforma, nonche' di quello destinato ai ruoli unici di cui al [decreto del Presidente della Repubblica 24 luglio 1977, n. 618](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-07-24;618), in base a leggi speciali, che non abbia trovato collocazione presso gli enti pubblici di cui alla tabella A della [legge 20 marzo 1975, n. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70), ovvero che abbia esercitato la facolta' di opzione nei termini previsti dall'art. 21 della citata [legge 20 marzo 1980, n. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-03-20;75);
+Visto l'[art. 24-quinquies del decreto-legge 30 dicembre 1979, n. 663](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-12-30;663~art24quinquies), nel testo introdotto dall'art. 1 della legge di conversione 29 febbraio 1980, n. 33, con le integrazioni di cui all'[art. 21 della legge 20 marzo 1980, n. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-03-20;75~art21), che prevede l'inquadramento in distinti ruoli speciali del personale degli enti pubblici interessati a provvedimenti di soppressione, scorporo o riforma, nonche' di quello comunque destinato ai ruoli unici di cui al [decreto del Presidente della Repubblica 24 luglio 1977, n. 618](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-07-24;618), in base a leggi speciali, che non abbia trovato collocazione presso gli enti pubblici di cui alla tabella A della [legge 20 marzo 1975, n. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70), ovvero che abbia esercitato la facolta' di opzione nei termini previsti dall'art. 21 della citata [legge 20 marzo 1980, n. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-03-20;75);
 
 Visti i [decreti del Presidente della Repubblica 24 luglio 1977, n. 616](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-07-24;616) e [n. 618](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-07-24;618);
 
@@ -28,9 +28,7 @@ Visto l'[art. 1 del decreto del Presidente della Repubblica 16 ottobre 1979, n. 
 
 Visto il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-01-10;3), e successive modificazioni;
 
-Visto il [decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-12-28;1077);
-
-Visto il [decreto del Presidente della Repubblica 30 giugno 1972, n. 748](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-06-30;748), e successive modificazioni;
+Visti i [decreti del Presidente della Repubblica 28 dicembre 1970, n. 1077](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-12-28;1077) e [n. 1078](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-12-28;1078);
 
 Vista la [legge 11 luglio 1980, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312);
 
@@ -49,27 +47,26 @@ Art. 1
 ------
 
   
-In attesa che si provveda alla rideterminazione, per ogni qualifica, delle dotazioni organiche delle singole amministrazioni statali, in attuazione del disposto degli [articoli 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312~art5) e [133 della legge 11 luglio 1980, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312~art133), e' istituito presso il Ministero della pubblica istruzione, con decorrenza 1 gennaio 1981, il ruolo speciale previsto dall'[art. 24-quinquies del decreto-legge 30 dicembre 1979, n. 663](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-12-30;663~art24quinquies), convertito, con modificazioni, nella [legge 29 febbraio 1980, n. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-29;33).  
+In attesa che si provveda alla rideterminazione, per ogni qualifica, delle dotazioni organiche dei ruoli del personale non docente delle Universita', degli istituti di istruzione universitaria e degli osservatori astronomici e Vesuviano, in attuazione del disposto dell'[art. 87 della legge 11 luglio 1980, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312~art87), e' istituito presso il Ministero della pubblica istruzione, con decorrenza 1 gennaio 1981, il ruolo speciale previsto dall'[art. 24-quinquies del decreto-legge 30 dicembre 1979, n. 663](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-12-30;663~art24quinquies), convertito, con modificazioni, nella [legge 29 febbraio 1980, n. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-29;33).  
 
 Art. 2
 ------
 
   
 La dotazione organica del ruolo speciale di cui al precedente articolo e' fissata nella tabella allegata al presente decreto.  
-Nel ruolo speciale e' inquadrato il personale di cui al [terzo comma dell'art. 24-quinquies del decreto-legge 30 dicembre 1979, n. 663](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-12-30;663~art24quinquies-com3), convertito, con modificazioni, nella [legge 29 febbraio 1980, n. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-29;33), come integrato dall'[art. 21 della legge 20 marzo 1980, n. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-03-20;75~art21), assegnato agli uffici centrali e periferici del Ministero.  
+Nel ruolo speciale e' inquadrato il personale di cui al [terzo comma dell'art. 24-quinquies del decreto-legge 30 dicembre 1979, n. 663](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-12-30;663~art24quinquies-com3), convertito, con modificazioni, nella [legge 29 febbraio 1980, n. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-29;33), come integrato dall'[art. 21 della legge 20 marzo 1980, n. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-03-20;75~art21), assegnato alle Universita', agli istituti di istruzione universitaria, agli osservatori astronomici e vesuviano.  
 
 Art. 3
 ------
 
   
-  
-L'inquadramento nel ruolo speciale e' effettuato, con decorrenza 1° gennaio 1981 o con decorrenze successive in conseguenza dell'entrata in vigore di ulteriori provvedimenti di soppressione, scorporo o riforma di enti pubblici, con decreto del Ministro della pubblica istruzione, nelle qualifiche previste nell'allegata tabella, sulla base della disciplina generale e delle tabelle di equiparazione fissate con il decreto del Presidente del Consiglio dei Ministri 7 febbraio 1981.   
+L'inquadramento nel ruolo speciale e' effettuato, con decorrenza 1 gennaio 1981 o con decorrenze successive in conseguenza dell'entrata in vigore di ulteriori provvedimenti di soppressione, scorporo o riforma di enti pubblici, con decreto del Ministro della pubblica istruzione, nelle qualifiche previste nella tabella allegata, sulla base della disciplina generale e delle tabelle di equiparazione fissate con il decreto del Presidente del Consiglio dei Ministri 7 febbraio 1981.  
 
 Art. 4
 ------
 
   
-Al personale inquadrato nel ruolo speciale istituito con il presente decreto si applicano le disposizioni sul trattamento giuridico ed economico di attivita' di servizio nonche' quello di previdenza, e di quiescenza vigenti per i dipendenti civili dello Stato.  
+Al personale inquadrato nel ruolo speciale istituito con il presente decreto si applicano le disposizioni sul trattamento giuridico ed economico di attivita' di servizio nonche' quello di previdenza e di quiescenza vigenti per i dipendenti civili dello Stato.  
 
 Art. 5
 ------
@@ -78,58 +75,33 @@ Art. 5
 Con successivi decreti del Presidente della Repubblica potranno essere apportate modifiche alla tabella allegata al presente decreto in conseguenza della necessita' di inquadramenti da effettuarsi in applicazione del decreto del Presidente del Consiglio dei Ministri 7 febbraio 1981 in qualifiche diverse o nella stessa tabella non previste, nonche' in relazione al compimento di processi di mobilita' connessi all'attuazione delle leggi di soppressione, scorporo o riforma degli enti pubblici, non definiti alla data di emanazione del presente decreto.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo, di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Dato a Roma, addi' 30 giugno 1982
 
 PERTINI BODRATO - ANDREATTA
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 1 aprile 1983
+Registrato alla Corte dei conti, addi' 25 ottobre 1983
 
-Registro n. 22 Istruzione, foglio n. 337
+Registro n. 67 Istruzione, foglio n. 44
 
 Tabella
 
+ TABELLA   
   
-  
-TABELLA  
-QUALIFICA E DOTAZIONE ORGANICA DEL PERSONALE DEL RUOLO SPECIALE DEL MINISTERO DELLA PUBBLICA ISTRUZIONE  
-  
-  
-Posizioni giuridiche Posizione Dotazione nell'ente di provenienza nell'ordinamento statale organica  
---------------------------------------------------------------------  
-Dirigente Primo dirigente 3  
---------------------------------------------------------------------  
-Collaboratore amministrativo 8ª qualifica funzionale 1  
-con 9 anni e 6 mesi di  
-anzianita' nella qualifica  
---------------------------------------------------------------------  
-Direttore di sezione \  
-Assistente coordinatore |  
-Assistente amministrativo con |  
-13 anni di anzianita' nella |  
-qualifica > 7ª qualifica funzionale 5 Segretario principale con 13 anni|  
-di anzianita' nella carriera |  
-Segretario principale con 5 anni |  
-di anzianita' nella qualifica /  
---------------------------------------------------------------------  
-Segretario 6ª qualifica funzionale 2  
---------------------------------------------------------------------  
-Archivista dattilografo con 13 \  
-anni di anzianita' nella |  
-qualifica |  
-Archivista dattilografo livello > 5ª qualifica funzionale 5 differenziato |  
-Coadiutore principale con 5 anni |  
-di anzianita' nella qualifica /  
---------------------------------------------------------------------  
-Archivista dattilografo 4ª qualifica funzionale 1  
---------------------------------------------------------------------  
-Agente tecnico livello \  
-differenziato > 3ª qualifica funzionale 2  
-Commesso livello differenziato /  
+QUALIFICHE E DOTAZIONE ORGANICA DEL PERSONALE DEL RUOLO SPECIALE DEL MINISTERO DELLA PUBBLICA ISTRUZIONE - RUOLO DEL PERSONALE NON DOCENTE DELLE UNIVERSITA', DEGLI ISTITUTI DI ISTRUZIONE   
+UNIVERSITARIA, DEGLI OSSERVATORI ASTRONOMICI E VESUVIANO.   
   
   
   
+
+|  |  |  |
+| --- | --- | --- |
+| Posizioni giuridiche nell'ente di provenienza | Posizioni nell'ordinamento statale | Dotazione organica |
+| Terza categoria .. n. 1 | IV qualifica funzionale | 1 |
+| Operai specializzati "1 | IV qualifica funzionale | 1 |
+| Operai qualificati . "3 | III qualifica funzionale | 3 |
+| Quarta categoria . . "1 | II qualifica funzionale | 1 |

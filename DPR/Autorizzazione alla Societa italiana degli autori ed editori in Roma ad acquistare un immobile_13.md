@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 novembre 1982 n. 996
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 557
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 novembre 1982 n. 996
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 557
+=============================================================
 
 Autorizzazione alla Societa' italiana degli autori ed editori, in Roma, ad acquistare un immobile.
 --------------------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione alla Societa' italiana degli autori ed editori, in Roma, ad acqui
 Art. 1
 ------
 
-N.
+n.
 
-996. Decreto del Presidente della Repubblica 23 novembre 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana degli autori ed editori - SIAE, in Roma, viene autorizzata ad acquistare, come da atto 25 gennaio 1980, n. 17606 di repertorio, del dott. Umberto Caprara, notaio in Vicenza, ed atto rettificativo dello stesso notaio 17 settembre 1980, n. 18648 di repertorio, al convenuto prezzo di L. 61.600.000, un immobile sito in Vicenza, via del Quartiere n. 8 comprendente pei la piena proprieta' un appartamento al piano rialzato distinto nel nuovo catasto edilizio urbano alla sezione A, foglio III, mappale 395 sub 1 - via del Quartiere n. 8 p.t., e per 69/1000 di comproprieta' sull'area di pertinenza del fabbricato e sulle parti comuni e per 69/85 di 85,595/1000 di comproprieta' della centrale elettrica al piano seminterrato, mappale 395 sub 18 p.St.; immobile valutato da perizia estimativa di parte L. 64.720.000.  
+557. Decreto del Presidente della Repubblica 17 maggio 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana degli autori ed editori (SIAE), in Roma, viene autorizzata ad acquistare, al complessivo prezzo di L. 270.000.000, un immobile sito in Bologna, via Misa, 34, costituito da un appartamento al 3° piano, composto di ingresso, cinque camere, cucina e bagno oltre un vano di cantina nonche' un vano ad uso autorimessa privata, distinto nel nuovo catasto edilizio urbano al foglio 215 (gia' 106) con i mappali 1438 sub 51, p. 3-51, e 1438 sub 126, p. 51, immobile valutato da perizia estimativa di parte in L. 297.579.000 e ritenuto congruo dall'ufficio tecnico erariale di Bologna per l'importo di L. 270.000.000, come da atto in data 21 gennaio 1982, n. 96469 di repertorio, a rogito dott. Antonio Stame, notaio in Bologna.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 12 gennaio 1983  
-Registro n. 1 Presidenza, foglio n. 52
+Visto, il Guardasigilli: ROGNONI  
+Registrato alla Corte dei conti, addi' 11 settembre 1986  
+Registro n. 9 Presidenza, foglio n. 31

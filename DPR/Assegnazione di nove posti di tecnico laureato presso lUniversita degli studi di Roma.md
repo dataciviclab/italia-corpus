@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1983 n. 818
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1982 n. 643
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1983 n. 818
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1982 n. 643
 =============================================================
 
 Assegnazione di nove posti di tecnico laureato presso l'Universita' degli studi di Roma.
@@ -12,10 +12,16 @@ Art. 1
 
 N.
 
-818. Decreto del Presidente della Repubblica 1 agosto 1983, col quale, sulla proposta del Ministro della pubblica istruzione, nove posti disponibili nel ruolo dei tecnici laureati vengono assegnati all'Universita' di Roma come segue:  
+643. Decreto del Presidente della Repubblica 14 maggio 1982, col quale, sulla proposta del Ministro della pubblica istruzione, nove posti disponibili nel ruolo dei tecnici laureati vengono assegnati all'Universita' di Roma come segue:  
   
-Facolta' di medicina e chirurgia:  
-istituto di chimica biologica . . . . . . . . . . . . . . . . posti 1 istituto di farmacologia. . . . . . . . . . . . . . . . . . . posti 1 istituto di anestesiologia e rianimazione . . . . . . . . . . posti 1 istituto di clinica dermatologica . . . . . . . . . . . . . . posti 2 istituto di clinica delle malattie infettive e tropicali. . . posti 2 istituto di II clinica neurologica. . . . . . . . . . . . . . posti 1 istituto policattedra di urologia . . . . . . . . . . . . . . posti 1   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 18 gennaio 1984  
-Registro n. 2 Istruzione, foglio n. 211
+Facolta' di economia e commercio:  
+istituto di merceologia . . . . . . . . . . . . . . . . . . . posti 1 istituto di matematica finanziaria. . . . . . . . . . . . . . posti 1 Facolta' di medicina e chirurgia:  
+istituto di chirurgia del cuore e grossi vasi  
+(per le esigenze della seconda cattedra di malattie  
+dell'apparato cardiovascolare). . . . . . . . . . . . . . . . posti 1 istituto di anatomia umana normale  
+(per le esigenze della terza cattedra). . . . . . . . . . . . posti 1 istituto di ematologia. . . . . . . . . . . . . . . . . . . . posti 1 istituto di psichiatria (per le esigenze  
+della quinta cattedra). . . . . . . . . . . . . . . . . . . . posti 1 istituto di terapia medica sistematica. . . . . . . . . . . . posti 1 istituto di clinica ortopedica (per le  
+esigenze della seconda cattedra). . . . . . . . . . . . . . . posti 1 istituto di seconda clinica ostetrica e ginecologica. . . . . posti 1   
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 2 settembre 1982  
+Registro n. 104 Istruzione, foglio n. 261

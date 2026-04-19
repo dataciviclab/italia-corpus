@@ -1,43 +1,72 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1963 n. 548
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 858
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1963 n. 548
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 858
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 51. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di "Topografia dell'Italia antica", "Paleografia greca", "Protostoria euroasiatica", "Filologia celtica", "Storia delle scoperte e delle esplorazioni geografiche", "Estetica", "Storia dell'arte bizantina", "Storia dell'arte barbarica", "Storia dell'architettura", e "Storia dell'arte e della cultura artistica nord-americana".  
-Art. 52. - Agli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti quelli di "Filosofia del linguaggio" e "Storia della filosofia moderna e contemporanea".  
+Gli articoli 253, 254, 256, 257, relativi alla scuola di perfezionamento in scienza e tecnica delle piante medicinali, annessa alla facolta' di farmacia, sono sostituiti dai seguenti:  
+Art. 253. - Alla facolta' di farmacia e' annessa una scuola di specializzazione in scienza e tecnica delle piante medicinali.  
+La scuola si propone di preparare un personale specializzato atto a coprire l'ufficio di esperto erborista provinciale e ad assumere incarichi dirigenziali presso enti pubblici e privati nel campo di pertinenza.  
+Art. 254. - Possono essere ammessi alla scuola i laureati in chimica e tecnologia farmaceutiche, in farmacia, in chimica e farmacia, i laureati in scienze agrarie ed in scienze forestali, i laureati in scienze naturali e in scienze biologiche.  
+Art. 256. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) complementi di botanica farmaceutica;  
+2) genetica, con speciale riguardo alle piante medicinali ed aromatiche (semestrale);  
+3) botanica fitognostica ed erboristica;  
+4) ecologia e fitogeografia con speciale riguardo alle piante medicinali ed aromatiche (semestrale);  
+5) complementi di agronomia e tecnica delle coltivazioni delle piante medicinali ed aromatiche;  
+6) patologia delle piante medicinali ed aromatiche;  
+7) complementi di chimica organica vegetale.  
+2° Anno:  
+8) farmacognosia generale e speciale;  
+9) farmacologia speciale delle droghe;  
+10) tecnica farmaceutica speciale per le preparazioni ricavate da droghe o da derivati di droghe;  
+11) industria e commercio erboristico;  
+12) analisi delle piante medicinali;  
+13) identificazione di costituenti delle piante medicinali.  
+Art. 257. - I corsi sono integrati da esercitazioni pratiche da erborizzazioni in campagna e da gite di istruzione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 febbraio 1943
+### Dato a Roma, addi' 31 ottobre 1979
 
-SEGNI GUI
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 24 aprile 1963
+Registrato alla Corte dei conti, addi' 20 marzo 1980
 
-Atti del Governo, registro n. 168, foglio n. 41. - VILLA
+Registro n. 24 Istruzione, foglio n. 159

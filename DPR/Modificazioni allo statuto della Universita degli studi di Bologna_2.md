@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 ottobre 1952 n. 4541
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1963 n. 943
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 ottobre 1952 n. 4541
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1963 n. 943
+=============================================================
 
 Modificazioni allo statuto della Universita' degli studi di Bologna.
 --------------------------------------------------------------------
@@ -10,13 +10,15 @@ Modificazioni allo statuto della Universita' degli studi di Bologna.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita', degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regi decreti 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-12;2227); [4 settembre 1930, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-09-04;1312); [1 ottobre 1931, n. 1778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1778); [27 ottobre 1932, n. 2092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2092); [6 dicembre 1934, n. 2394](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2394); [1 ottobre 1936, n. 2502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2502); [12 maggio 1939, n. 1315](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-05-12;1315); [5 ottobre 1939, n. 1644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1644); [11 luglio 1941, n. 848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-07-11;848); [11 luglio 1942, n. 928](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-11;928) e [24 ottobre 1942, n. 1595; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1595) [16 maggio 1947, n. 694; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-05-16;694) [22 febbraio 1948, n. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-02-22;414); [30 luglio 1950, n. 1268](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-30;1268); [31 ottobre 1950, n. 1307](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1307); [5 agosto 1951, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-05;1311) e [27 ottobre 1951, n. 1792](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1792);
+Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227) e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933 n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -28,208 +30,217 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita', degli studi di Bologna approvato e modificato con i decreti sopraindicati, ulteriormente modificato come appresso:
 
-Attuale art. 43. - Agli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:
+Art. 50. - Agli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti i seguenti:
 
-30. Epigrafia greca;
+Filosofia della religione;
 
-31. Papirologia;
+Storia della filosofia moderna e contemporanea;
 
-32. Filologia iranica;
+Sociologia.
 
-33. Ebraico e lingue semitiche comparate;
+Filosofia della Scienza.
 
-34. Lingua e letteratura araba;
+Art. 85. - Per la parte relativa agli insegnamenti complementari del corso di laurea in Chimica e' modificata come segue:
 
-35. Numismatica;
+Insegnamenti complementari per l'indirizzo organico-biologico:
 
-36. Lingua e letteratura neo-greca;
+1) Chimica organica superiore;
 
-37. Lingua e letteratura albanese;
+2) Elettrochimica organica con esercitazioni;
 
-38. Lingua, letteratura e storia cinese;
+3) Chimica organica applicata;
 
-39. Lingua, letteratura e storia giapponese;
+4) Chimica nucleare con esercitazioni;
 
-40. Storia delle religioni;
+5) Chimica quantistica;
 
-41. Agricologia cristiana.
+6) Strutturistica chimica;
 
-42. Storia della musica;
+7) Spettroscopia molecolare;
 
-43. Letteratura delle tradizioni popolari.
+8) Storia della dottrina chimico-organica;
 
-Gli articoli 126-135 sono abrogati e sostituiti dai seguenti:
+9) Chimica degli alti polimeri;
 
-Corso di perfezionamento negli studi aziendali e professionali.
+10) Chimica bromatologica con esercitazioni;
 
-Art. 126. - Alla Facolta' di economia e commercio e' annesso un corso di perfezionamento negli studi aziendali e professionali.
+11) Esercitazioni tecniche e sintesi speciali organiche;
 
-Art. 127. - Il corso ha lo scopo di valorizzare gli studi compiuti presso detta Facolta' orientando i laureati, nel modo piu' efficiente, alla direzione ed agli impieghi presso le imprese industriali, commerciali ed agricole e presso le aziende pubbliche, nonche' all'esercizio della professione di "dottore commercialista".
+12) Chimica biologica (corso speciale per chimici) 13) Chimica farmaceutica;
 
-Art. 128. - Al corso possono accedere i laureati in economia e commercio.
+14) Farmacologia;
 
-Art. 129. - Il corso ha la durata di un anno.
+15) Chimica delle fermentazioni;
 
-Art. 130. - Il corso ha un direttore, un vice-direttore, un Consiglio direttivo ed un Corpo di docenti.
+16) Chimica agraria;
 
-Il direttore ed il vice-direttore sono nominati dal rettore della Universita' di Bologna, per un biennio, ed alla scadenza possono essere confermati nell'ufficio rispettivo. La nomina del direttore e' fatta su proposta del Consiglio della facolta' di economia e commercio e quella del vice-direttore su proposta del direttore.
+17) Scienza dell'alimentazione;
 
-Il Consiglio direttivo e' composto di tutti i docenti del corso che siano professori ordinari o straordinari nelle Universita' della Repubblica, compresi il direttore ed il vice-direttore.
+18) Fisiologia generale (corso speciale per chimici);
 
-Art. 131. - Le lezioni sono tenute da docenti nominati dal rettore dell'Universita' di Bologna su proposta del direttore del corso.
+19) Microchimica preparativa:
 
-Art. 132. - Le materie di insegnamento presso il corso di perfezionamento sono le seguenti:
+20) Didattica chimica:
 
-1. Economia applicata alle aziende industriali, commerciali ed agricole;
+21) Chimica delle sostanze organiche naturali;
 
-2. Gestione tecnico-amministrativa delle aziende;
+22) Fotochimica;
 
-3. Statistica economica e degli affari;
+23) Tecnica della informazione chimica;
 
-4. Ragioneria e tecnica professionale;
+24) Complementi di chimica.
 
-5. Economia dei trasporti;
+Insegnamenti complementari per l'indirizzo inorganico - chimico - fisico:
 
-6. Organizzazione scientifica del lavoro;
+1) Chimica teorica;
 
-7. Diritto amministrativo;
+2) Chimica inorganica superiore;
 
-8. Legislazione del lavoro, della cooperazione e assistenza sociale;
+3) Elettrochimica;
 
-9. Diritto processuale e fallimentare;
+4) Scienza dei metalli;
 
-10. Diritto e procedura tributaria.
+5) Geochimica (corso speciale per chimici);
 
-Saranno tenute conferenze sui problemi dell'emigrazione.
+6) Chimica inorganica applicata;
 
-Art. 133. - L'esame finale del corso di perfezionamento negli studi aziendali e professionali al quale gli iscritti possono presentarsi dopo avere superato tutti gli esami di profitto, consiste nella discussione su un tema scritto svolto dai candidati, approvato dai docenti, con svolgimento monografico su una delle materie di insegnamento, e sara' sostenuto dai candidati di fronte a una Commissione composta di sette membri e presieduta dal direttore del corso.
+7) Spettroscopia;
 
-Gli iscritti al termine del corso, conseguiranno un certificato di frequenza e di esame.
+8) Misure elettriche (corso speciale per chimici);
 
-Art. 134. - La tassa di iscrizione e frequenza e la sopratassa di esami saranno stabilite annualmente dal Consiglio direttivo con l'approvazione del rettore dell'Universita' di Bologna.
+9) Radiochimica;
 
-Art. 133. - I proventi del corso sono costituiti:
+10) Chimica fisica dello stato solido;
 
-a) dalle tasse di iscrizione e frequenza e sopratassa di esami;
+11) Chimica fisica tecnica;
 
-b) dai contributi ministeriali;
+12) Storia della dottrina chimico-inorganica;
 
-c) dai contributi, sovvenzioni, fondazioni di imprese ed enti vari che il Consiglio direttivo decida di accogliere.
+13) Strumentazione didattica da laboratorio;
 
-Dopo l'attuale art. 178 sono aggiunti i seguenti nuovi articoli relativi all'istituzione di un "corso di perfezionamento in ingegneria ceramica" con il conseguente spostamento della numerazione degli articoli successivi.
+14) Chimica colloidale e delle interfasi;
 
-V. - Corso di perfezionamento in ingegneria ceramica.
+15) Chimica isotopica;
 
-Art. 179. - Il corso ha la durata di un anno.
+16) Cinetica chimica;
 
-Art. 180. - Il direttore del corso e' nominato dal Consiglio della facolta' e si intende confermato anno per anno salvo contrario provvedimento.
+17) Esercitazioni di tecniche e sintesi speciali inorganiche;
 
-Art. 181. - Possono essere iscritti al corso di perfezionamento in ingegneria ceramica i laureati in ingegneria.
+18) Chimica dei composti elemento-organici;
 
-Art. 182. - Le materie di studio per gli iscritti al corso sono le seguenti:
+19) Cristallochimica inorganica;
 
-a) chimica dei prodotti ceramici;
+20) Chimica macromolecolare;
 
-b) tecnologia della ceramica;
+21) Storia delle teorie chimiche.
 
-c) impianti industriali ceramici;
+Nello stesso art. 85 vengono soppressi i due capoversi relativi agli insegnamenti di Analisi matematica, Geometria analitica con elementi di Proiettiva e Meccanica razionale con elementi di Statica grafica.
 
-d) applicazione dei prodotti ceramici all'elettrotecnica.
+Nello stesso articolo il comma relativo agli esami di laurea ed i due successivi sono abrogati e sostituiti dai seguenti:
 
-Art. 183. - Tali materie saranno integrate da cicli di conferenze di carattere monografico.
+"Per essere ammessi all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali prescritti per il triennio di applicazione ed almeno in sette da lui scelti fra i complementari dell'indirizzo seguito ed aver sostenuto un esame di cultura generale che non ha carattere eliminatorio.
 
-Lo svolgimento degli insegnamenti e' accompagnato da esercitazioni di laboratorio con eventuali periodi di pratica presso laboratori e stabilimenti industriali.
+La scelta degli insegnamenti complementari e' impegnativa; va effettuata all'inizio del triennio di studi di applicazione; deve essere approvata dalla Facolta' e variata soltanto in casi eccezionali subordinatamente al parere favorevole della Facolta'".
 
-Art. 184. - Gli iscritti che non abbiano nel loro curriculum di studio superato un esame di chimica industriale saranno tenuti a superare una prova suppletiva di tale materia.
+Art. 116. - Il primo comma e' abrogato e sostituito dal seguente:
 
-Art. 185. - Gli iscritti che al termine del corso avranno superato gli esami di profitto in tutti gli insegnamenti elencati all'art. 182 ed avranno inoltre superato una prova pratica e discusso una dissertazione scelta sui materie oggetto del corso, conseguiranno un certificato di frequenza e di esame.
+"Alla Facolta' di Agraria sono ammessi: il Centro agrario sperimentale di Cadriano ed il Podere sperimentale di Corticella, presso il quale hanno anche sede la Stazione provinciale di avicoltura e l'apiario".
 
-Art. 186. - Tutte le prove d'esame sono sostenute innanzi a Commissioni nominate dal direttore del corso.
+Art. 117. - E' modificato nel senso che l'insegnamento complementare di "Miglioramento genetico delle piante agrarie" da semestrale diventa annuale.
 
-La discussione sulla dissertazione finale e' sostenuta innanzi ad una Commissione presieduta del direttore del corso e composta dal preside della Facolta' di ingegneria, dai docenti del corso e da cultori della materia in numero complessivo di sette membri.
+Art. 126, relativo agli insegnamenti del corso di laurea in Medicina veterinaria e' modificato nel senso che al secondo comma vengono aggiunti i seguenti periodi:
 
-Dopo l'art. 284 vengono aggiunti i seguenti nuovi articoli, relativi alla istituzione di una scuola di perfezionamento in anestesia.
+"L'insegnamento biennale di Patologia generale e Anatomia, patologica comporta due esami distinti e due distinte votazioni.
 
-XX. - Scuola di perfezionamento in anestesia.
+L'insegnamento biennale di Fisiologia generale e speciale degli animali domestici e Chimica biologica comporta due distinti esami e due distinte votazioni".
 
-Art. 285. - La scuola di perfezionamento in anestesia conferisce il titolo di "specialista in anestesia".
+Dopo l'art. 197 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della
 
-Art. 286. - L'ammissione viene concessa ai candidati laureati in medicina e chirurgia che abbiano compiuto tre anni di tirocinio post-laurea in chirurgia generale, presso una clinica universitaria, o presso un reparto chirurgico di un istituto ospedaliero.
+Scuola di specializzazione in Chimica analitica
 
-Il numero dei posti per anno di corso viene determinato ogni anno dal Consiglio della scuola su parere del Consiglio della facolta'.
+Art. 198. - Alla Facolta' di Scienze matematiche, fisiche e naturali della Universita' di Bologna e' annessa la Scuola di specializzazione didattico-professionale in Chimica analitica che si propone la preparazione di personale specializzato nelle tecniche della moderna Chimica analitica, con speciale riguardo alle loro applicazioni.
 
-Gli anni di studio per conseguire il diploma sono due.
+Art. 199. - La Scuola e' retta da un direttore, nominato dal rettore su designazione della Facolta' di Il direttore dura in carica due anni, puo' essere riconfermato ed e' coadiuvato da un Consiglio costituito dai professori di ruolo che vi tengono insegnamenti.
 
-Art. 287. - Le materie obbligatorie sono:
+Art. 200. - Alla Scuola possono iscriversi i laureati delle Facolta' di Chimica industriale, Scienze matematiche, fisiche e naturali, Farmacia, Ingegneria, Agraria, Medicina e chirurgia, Medicina veterinaria, Economia e commercio.
 
-1. Anatomia umana;
+Gli allievi saranno invitati, a giudizio del Consiglio della Scuola, a sostenere un colloquio concernente gli studi seguiti.
 
-2. Fisiologia umana;
+Art. 201. - La durata degli studi e' di due anni.
 
-3. Farmacologia;
+Art. 202. - I corsi della Scuola comprendono le seguenti materie:
 
-4. Tecnica degli esami endoscopici;
+1° Anno:
 
-5. Tecnica anestesiologica generale e speciale;
+Chimica analitica generale I;
 
-6. Cure pre e post-operatorie e rianimazione.
+Due corsi semestrali con esercizi a scelta;
 
-Art. 288. - Le materie elencate all'articolo precedente sono cosi' distribuite nei due anni di studio:
+Esame finale del primo anno integrato con prove pratiche.
 
-1° anno:
+2° Anno:
 
-1. Anatomia umana;
+Chimica analitica generale II;
 
-2. Fisiologia umana;
+Due corsi semestrali con esercizi a scelta
 
-3. Tecnica degli esami endoscopici;
+Esame finale del secondo anno integrato con prove pratiche.
 
-4. Tecnica anestesiologica generale e speciale;
+Elenco dei corsi semestrali con esercizi:
 
-5. Cure pre e post-operatorie e rianimazione.
+Tecniche cromatografiche;
 
-2° anno:
+Tecniche elettrochimiche;
 
-1. Farmacologia;
+Tecniche ottiche;
 
-2. Tecnica anestesiologica generale e speciale;
+Tecniche radiochimiche;
 
-3. Cure pre e post-operatorie e rianimazione.
+Tecniche roentgenografiche ed elettroniche;
 
-Art. 289. - Gli allievi hanno l'obbligo di frequentare le lezioni, le visite cliniche, le esercitazioni, gli ambulatori, nonche' di prestare, se richiesti, servizio nell'Istituto come medici interni, estendendo storie cliniche e praticando le ricerche di laboratorio durante l'anno accademico e le vacanze annuali.
+Tecniche spettrofotometriche;
 
-L'insegnamento avra' carattere eminentemente pratico e sperimentale.
+Tecniche e spettroscopia di massa.
 
-Art. 290. - L'esame di profitto si sostiene alla fine dei due anni di corso e si estende a tutte le materie di insegnamento.
+I predetti corsi saranno integrati con esercitazioni pratiche di laboratorio, con dimostrazioni e cicli di conferenze; ciascun anno il Consiglio della Scuola predispone il programma dei corsi.
 
-In un manifesto annuale della clinica chirurgica vengono esposte ogni anno le norme dettagliate riguardanti i vari insegnamenti.
+Art. 203. La Scuola funziona con i proventi delle tasse degli iscritti, ha sede presso l'Istituto chimico della Facolta' e si vale degli insegnamenti impartiti da personale insegnante e in servizio presso le Universita' o altre Scuole dello Stato, scelto dal Consiglio direttivo della Scuola di specializzazione in Chimica analitica.
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Art. 204. - Il Consiglio di amministrazione della Universita' stabilira' su proposta del Consiglio della Facolta', l'ammontare delle tasse, che gli iscritti sono tenuti a pagare.
 
-Dato a Roma, addi' 3 ottobre 1952
+Art. 205. - La Scuola rilascia un diploma di "Specialista in Chimica analitica" facendo menzione del settore di specializzazione.
 
-EINAUDI
+Art. 207, relativo al corso di perfezionamento sulle proprieta' fisiche della materia vivente e' modificato nel senso che il secondo comma e' abrogato e sostituito dai seguente:
+
+"La durata del corso e' di due anni accademici. Gli iscritti a ciascun corso non possono superare il numero di sei. Essi hanno l'obbligo di frequentare regolarmente, per il biennio, uno degli Istituti della Facolta' di Scienze o della Facolta' di Medicina e chirurgia nei quali si tengono le lezioni, elaborandovi la tesi di perfezionamento".
+
+Il presente decreto, munito del sigillo di Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque e spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 29 maggio 1963
 
 SEGNI
 
-Visto, il Guardasigilli: ZOLI
+GUI
+
+Visto, il Guardasigilli: BOSCO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 22 aprile 1953 Atti del Governo, registro n. 76, foglio n. 41. - PALLA
+alla Corte dei conti, addi 12 luglio 1963 Atti del Governo, registro n. 171, foglio n. 122. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita', degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regi decreti 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-12;2227); [4 settembre 1930, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-09-04;1312); [1 ottobre 1931, n. 1778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1778); [27 ottobre 1932, n. 2092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2092); [6 dicembre 1934, n. 2394](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2394); [1 ottobre 1936, n. 2502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2502); [12 maggio 1939, n. 1315](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-05-12;1315); [5 ottobre 1939, n. 1644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1644); [11 luglio 1941, n. 848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-07-11;848); [11 luglio 1942, n. 928](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-11;928) e [24 ottobre 1942, n. 1595; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1595) [16 maggio 1947, n. 694; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-05-16;694) [22 febbraio 1948, n. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-02-22;414); [30 luglio 1950, n. 1268](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-30;1268); [31 ottobre 1950, n. 1307](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1307); [5 agosto 1951, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-05;1311) e [27 ottobre 1951, n. 1792](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1792);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933 n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -237,113 +248,126 @@ Sulla proposta del Ministro per la pubblica istruzione;
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita', degli studi di Bologna approvato e modificato con i decreti sopraindicati, ulteriormente modificato come appresso:  
   
-Attuale art. 43. - Agli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
-30. Epigrafia greca;  
-31. Papirologia;  
-32. Filologia iranica;  
-33. Ebraico e lingue semitiche comparate;  
-34. Lingua e letteratura araba;  
-35. Numismatica;  
-36. Lingua e letteratura neo-greca;  
-37. Lingua e letteratura albanese;  
-38. Lingua, letteratura e storia cinese;  
-39. Lingua, letteratura e storia giapponese;  
-40. Storia delle religioni;  
-41. Agricologia cristiana.  
-42. Storia della musica;  
-43. Letteratura delle tradizioni popolari.  
-Gli articoli 126-135 sono abrogati e sostituiti dai seguenti:  
+Art. 50. - Agli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti i seguenti:  
+Filosofia della religione;  
+Storia della filosofia moderna e contemporanea;  
+Sociologia.  
+Filosofia della Scienza.  
   
-Corso di perfezionamento negli studi aziendali e professionali.  
+Art. 85. - Per la parte relativa agli insegnamenti complementari del corso di laurea in Chimica e' modificata come segue:  
   
-Art. 126. - Alla Facolta' di economia e commercio e' annesso un corso di perfezionamento negli studi aziendali e professionali.  
-Art. 127. - Il corso ha lo scopo di valorizzare gli studi compiuti presso detta Facolta' orientando i laureati, nel modo piu' efficiente, alla direzione ed agli impieghi presso le imprese industriali, commerciali ed agricole e presso le aziende pubbliche, nonche' all'esercizio della professione di "dottore commercialista".  
-Art. 128. - Al corso possono accedere i laureati in economia e commercio.  
-Art. 129. - Il corso ha la durata di un anno.  
-Art. 130. - Il corso ha un direttore, un vice-direttore, un Consiglio direttivo ed un Corpo di docenti.  
-Il direttore ed il vice-direttore sono nominati dal rettore della Universita' di Bologna, per un biennio, ed alla scadenza possono essere confermati nell'ufficio rispettivo. La nomina del direttore e' fatta su proposta del Consiglio della facolta' di economia e commercio e quella del vice-direttore su proposta del direttore.  
-Il Consiglio direttivo e' composto di tutti i docenti del corso che siano professori ordinari o straordinari nelle Universita' della Repubblica, compresi il direttore ed il vice-direttore.  
-Art. 131. - Le lezioni sono tenute da docenti nominati dal rettore dell'Universita' di Bologna su proposta del direttore del corso.  
-Art. 132. - Le materie di insegnamento presso il corso di perfezionamento sono le seguenti:  
-1. Economia applicata alle aziende industriali, commerciali ed agricole;  
-2. Gestione tecnico-amministrativa delle aziende;  
-3. Statistica economica e degli affari;  
-4. Ragioneria e tecnica professionale;  
-5. Economia dei trasporti;  
-6. Organizzazione scientifica del lavoro;  
-7. Diritto amministrativo;  
-8. Legislazione del lavoro, della cooperazione e assistenza sociale;  
-9. Diritto processuale e fallimentare;  
-10. Diritto e procedura tributaria.  
-Saranno tenute conferenze sui problemi dell'emigrazione.  
-Art. 133. - L'esame finale del corso di perfezionamento negli studi aziendali e professionali al quale gli iscritti possono presentarsi dopo avere superato tutti gli esami di profitto, consiste nella discussione su un tema scritto svolto dai candidati, approvato dai docenti, con svolgimento monografico su una delle materie di insegnamento, e sara' sostenuto dai candidati di fronte a una Commissione composta di sette membri e presieduta dal direttore del corso.  
-Gli iscritti al termine del corso, conseguiranno un certificato di frequenza e di esame.  
-Art. 134. - La tassa di iscrizione e frequenza e la sopratassa di esami saranno stabilite annualmente dal Consiglio direttivo con l'approvazione del rettore dell'Universita' di Bologna.  
-Art. 133. - I proventi del corso sono costituiti:  
-a) dalle tasse di iscrizione e frequenza e sopratassa di esami;  
-b) dai contributi ministeriali;  
-c) dai contributi, sovvenzioni, fondazioni di imprese ed enti vari che il Consiglio direttivo decida di accogliere.  
-Dopo l'attuale art. 178 sono aggiunti i seguenti nuovi articoli relativi all'istituzione di un "corso di perfezionamento in ingegneria ceramica" con il conseguente spostamento della numerazione degli articoli successivi.  
+Insegnamenti complementari per l'indirizzo organico-biologico:  
+1) Chimica organica superiore;  
+2) Elettrochimica organica con esercitazioni;  
+3) Chimica organica applicata;  
+4) Chimica nucleare con esercitazioni;  
+5) Chimica quantistica;  
+6) Strutturistica chimica;  
+7) Spettroscopia molecolare;  
+8) Storia della dottrina chimico-organica;  
+9) Chimica degli alti polimeri;  
+10) Chimica bromatologica con esercitazioni;  
+11) Esercitazioni tecniche e sintesi speciali organiche;  
+12) Chimica biologica (corso speciale per chimici) 13) Chimica farmaceutica;  
+14) Farmacologia;  
+15) Chimica delle fermentazioni;  
+16) Chimica agraria;  
+17) Scienza dell'alimentazione;  
+18) Fisiologia generale (corso speciale per chimici);  
+19) Microchimica preparativa:  
+20) Didattica chimica:  
+21) Chimica delle sostanze organiche naturali;  
+22) Fotochimica;  
+23) Tecnica della informazione chimica;  
+24) Complementi di chimica.  
   
-V. - Corso di perfezionamento in ingegneria ceramica.  
+Insegnamenti complementari per l'indirizzo inorganico - chimico - fisico:  
+1) Chimica teorica;  
+2) Chimica inorganica superiore;  
+3) Elettrochimica;  
+4) Scienza dei metalli;  
+5) Geochimica (corso speciale per chimici);  
+6) Chimica inorganica applicata;  
+7) Spettroscopia;  
+8) Misure elettriche (corso speciale per chimici);  
+9) Radiochimica;  
+10) Chimica fisica dello stato solido;  
+11) Chimica fisica tecnica;  
+12) Storia della dottrina chimico-inorganica;  
+13) Strumentazione didattica da laboratorio;  
+14) Chimica colloidale e delle interfasi;  
+15) Chimica isotopica;  
+16) Cinetica chimica;  
+17) Esercitazioni di tecniche e sintesi speciali inorganiche;  
+18) Chimica dei composti elemento-organici;  
+19) Cristallochimica inorganica;  
+20) Chimica macromolecolare;  
+21) Storia delle teorie chimiche.  
   
-Art. 179. - Il corso ha la durata di un anno.  
-Art. 180. - Il direttore del corso e' nominato dal Consiglio della facolta' e si intende confermato anno per anno salvo contrario provvedimento.  
-Art. 181. - Possono essere iscritti al corso di perfezionamento in ingegneria ceramica i laureati in ingegneria.  
-Art. 182. - Le materie di studio per gli iscritti al corso sono le seguenti:  
-a) chimica dei prodotti ceramici;  
-b) tecnologia della ceramica;  
-c) impianti industriali ceramici;  
-d) applicazione dei prodotti ceramici all'elettrotecnica.  
-Art. 183. - Tali materie saranno integrate da cicli di conferenze di carattere monografico.  
-Lo svolgimento degli insegnamenti e' accompagnato da esercitazioni di laboratorio con eventuali periodi di pratica presso laboratori e stabilimenti industriali.  
-Art. 184. - Gli iscritti che non abbiano nel loro curriculum di studio superato un esame di chimica industriale saranno tenuti a superare una prova suppletiva di tale materia.  
-Art. 185. - Gli iscritti che al termine del corso avranno superato gli esami di profitto in tutti gli insegnamenti elencati all'art. 182 ed avranno inoltre superato una prova pratica e discusso una dissertazione scelta sui materie oggetto del corso, conseguiranno un certificato di frequenza e di esame.  
-Art. 186. - Tutte le prove d'esame sono sostenute innanzi a Commissioni nominate dal direttore del corso.  
-La discussione sulla dissertazione finale e' sostenuta innanzi ad una Commissione presieduta del direttore del corso e composta dal preside della Facolta' di ingegneria, dai docenti del corso e da cultori della materia in numero complessivo di sette membri.  
-Dopo l'art. 284 vengono aggiunti i seguenti nuovi articoli, relativi alla istituzione di una scuola di perfezionamento in anestesia.  
+Nello stesso art. 85 vengono soppressi i due capoversi relativi agli insegnamenti di Analisi matematica, Geometria analitica con elementi di Proiettiva e Meccanica razionale con elementi di Statica grafica.  
+Nello stesso articolo il comma relativo agli esami di laurea ed i due successivi sono abrogati e sostituiti dai seguenti:  
+"Per essere ammessi all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali prescritti per il triennio di applicazione ed almeno in sette da lui scelti fra i complementari dell'indirizzo seguito ed aver sostenuto un esame di cultura generale che non ha carattere eliminatorio.  
+La scelta degli insegnamenti complementari e' impegnativa; va effettuata all'inizio del triennio di studi di applicazione; deve essere approvata dalla Facolta' e variata soltanto in casi eccezionali subordinatamente al parere favorevole della Facolta'".  
   
-XX. - Scuola di perfezionamento in anestesia.  
+Art. 116. - Il primo comma e' abrogato e sostituito dal seguente:  
+"Alla Facolta' di Agraria sono ammessi: il Centro agrario sperimentale di Cadriano ed il Podere sperimentale di Corticella, presso il quale hanno anche sede la Stazione provinciale di avicoltura e l'apiario".  
   
-Art. 285. - La scuola di perfezionamento in anestesia conferisce il titolo di "specialista in anestesia".  
-Art. 286. - L'ammissione viene concessa ai candidati laureati in medicina e chirurgia che abbiano compiuto tre anni di tirocinio post-laurea in chirurgia generale, presso una clinica universitaria, o presso un reparto chirurgico di un istituto ospedaliero.  
-Il numero dei posti per anno di corso viene determinato ogni anno dal Consiglio della scuola su parere del Consiglio della facolta'.  
-Gli anni di studio per conseguire il diploma sono due.  
-Art. 287. - Le materie obbligatorie sono:  
-1. Anatomia umana;  
-2. Fisiologia umana;  
-3. Farmacologia;  
-4. Tecnica degli esami endoscopici;  
-5. Tecnica anestesiologica generale e speciale;  
-6. Cure pre e post-operatorie e rianimazione.  
-Art. 288. - Le materie elencate all'articolo precedente sono cosi' distribuite nei due anni di studio:  
-1° anno:  
-1. Anatomia umana;  
-2. Fisiologia umana;  
-3. Tecnica degli esami endoscopici;  
-4. Tecnica anestesiologica generale e speciale;  
-5. Cure pre e post-operatorie e rianimazione.  
-2° anno:  
-1. Farmacologia;  
-2. Tecnica anestesiologica generale e speciale;  
-3. Cure pre e post-operatorie e rianimazione.  
-Art. 289. - Gli allievi hanno l'obbligo di frequentare le lezioni, le visite cliniche, le esercitazioni, gli ambulatori, nonche' di prestare, se richiesti, servizio nell'Istituto come medici interni, estendendo storie cliniche e praticando le ricerche di laboratorio durante l'anno accademico e le vacanze annuali.  
-L'insegnamento avra' carattere eminentemente pratico e sperimentale.  
-Art. 290. - L'esame di profitto si sostiene alla fine dei due anni di corso e si estende a tutte le materie di insegnamento.  
-In un manifesto annuale della clinica chirurgica vengono esposte ogni anno le norme dettagliate riguardanti i vari insegnamenti.  
+Art. 117. - E' modificato nel senso che l'insegnamento complementare di "Miglioramento genetico delle piante agrarie" da semestrale diventa annuale.  
   
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Dato a Roma, addi' 3 ottobre 1952
-
-EINAUDI SEGNI
-
-Visto, il Guardasigilli: ZOLI
-
-Registrato alla Corte dei conti, addi' 22 aprile 1953
-
-Atti del Governo, registro n. 76, foglio n. 41. - PALLA
+Art. 126, relativo agli insegnamenti del corso di laurea in Medicina veterinaria e' modificato nel senso che al secondo comma vengono aggiunti i seguenti periodi:  
+"L'insegnamento biennale di Patologia generale e Anatomia, patologica comporta due esami distinti e due distinte votazioni.  
+L'insegnamento biennale di Fisiologia generale e speciale degli animali domestici e Chimica biologica comporta due distinti esami e due distinte votazioni".  
+Dopo l'art. 197 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della  
+  
+Scuola di specializzazione in Chimica analitica  
+  
+Art. 198. - Alla Facolta' di Scienze matematiche, fisiche e naturali della Universita' di Bologna e' annessa la Scuola di specializzazione didattico-professionale in Chimica analitica che si propone la preparazione di personale specializzato nelle tecniche della moderna Chimica analitica, con speciale riguardo alle loro applicazioni.  
+  
+Art. 199. - La Scuola e' retta da un direttore, nominato dal rettore su designazione della Facolta' di Il direttore dura in carica due anni, puo' essere riconfermato ed e' coadiuvato da un Consiglio costituito dai professori di ruolo che vi tengono insegnamenti.  
+  
+Art. 200. - Alla Scuola possono iscriversi i laureati delle Facolta' di Chimica industriale, Scienze matematiche, fisiche e naturali, Farmacia, Ingegneria, Agraria, Medicina e chirurgia, Medicina veterinaria, Economia e commercio.  
+Gli allievi saranno invitati, a giudizio del Consiglio della Scuola, a sostenere un colloquio concernente gli studi seguiti.  
+  
+Art. 201. - La durata degli studi e' di due anni.  
+  
+Art. 202. - I corsi della Scuola comprendono le seguenti materie:  
+1° Anno:  
+Chimica analitica generale I;  
+Due corsi semestrali con esercizi a scelta;  
+Esame finale del primo anno integrato con prove pratiche.  
+  
+2° Anno:  
+Chimica analitica generale II;  
+Due corsi semestrali con esercizi a scelta  
+Esame finale del secondo anno integrato con prove pratiche.  
+Elenco dei corsi semestrali con esercizi:  
+Tecniche cromatografiche;  
+Tecniche elettrochimiche;  
+Tecniche ottiche;  
+Tecniche radiochimiche;  
+Tecniche roentgenografiche ed elettroniche;  
+Tecniche spettrofotometriche;  
+Tecniche e spettroscopia di massa.  
+I predetti corsi saranno integrati con esercitazioni pratiche di laboratorio, con dimostrazioni e cicli di conferenze; ciascun anno il Consiglio della Scuola predispone il programma dei corsi.  
+  
+Art. 203. La Scuola funziona con i proventi delle tasse degli iscritti, ha sede presso l'Istituto chimico della Facolta' e si vale degli insegnamenti impartiti da personale insegnante e in servizio presso le Universita' o altre Scuole dello Stato, scelto dal Consiglio direttivo della Scuola di specializzazione in Chimica analitica.  
+  
+Art. 204. - Il Consiglio di amministrazione della Universita' stabilira' su proposta del Consiglio della Facolta', l'ammontare delle tasse, che gli iscritti sono tenuti a pagare.  
+  
+Art. 205. - La Scuola rilascia un diploma di "Specialista in Chimica analitica" facendo menzione del settore di specializzazione.  
+  
+Art. 207, relativo al corso di perfezionamento sulle proprieta' fisiche della materia vivente e' modificato nel senso che il secondo comma e' abrogato e sostituito dai seguente:  
+"La durata del corso e' di due anni accademici. Gli iscritti a ciascun corso non possono superare il numero di sei. Essi hanno l'obbligo di frequentare regolarmente, per il biennio, uno degli Istituti della Facolta' di Scienze o della Facolta' di Medicina e chirurgia nei quali si tengono le lezioni, elaborandovi la tesi di perfezionamento".  
+  
+Il presente decreto, munito del sigillo di Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque e spetti di osservarlo e di farlo osservare.  
+  
+Dato a Roma, addi' 29 maggio 1963  
+  
+SEGNI  
+  
+GUI   
+Visto, il Guardasigilli: BOSCO  
+Registrato alla Corte dei conti, addi 12 luglio 1963  
+Atti del Governo, registro n. 171, foglio n. 122. - VILLA  

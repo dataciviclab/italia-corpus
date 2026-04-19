@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1971 n. 1091
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 gennaio 1972 n. 82
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1971 n. 1091
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 gennaio 1972 n. 82
+=============================================================
 
 Autorizzazione all'Associazione di previdenza fra i sacerdoti, con sede in Firenze, ad accettare una eredita'.
 --------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1091. Decreto del Presidente della Repubblica 4 giugno 1971, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Associazione di previdenza fra i sacerdoti, con sede in Firenze, viene autorizzata ad accettare l'eredita' disposta dalla defunta signora Maddalena Magnaghi Municchi, con testamento olografo in data 9 maggio 1962, pubblicato con verbale del 17 febbraio 1970, n. 3183 di repertorio a rogito dott. Vincenzo Ferro, notaio in Pistoia, costituita da un quartiere di abitazione sito in Firenze, via Ciro Menotti n. 31, piano secondo, da due poderi, con scorte e bestiami, denominati "Piani" e "S. Luigi" in comune di Terranova Bracciolini con annessi piazzale, fabbricato adibito a tinaio, granaio, scala e viottolo nonche' da titoli nominativi e al portatore dall'inventariato valore - in die mortis - di L. 11.961.262.  
+82. Decreto del Presidente della Repubblica 31 gennaio 1972, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Associazione di previdenza fra i sacerdoti, con sede in Firenze, viene autorizzata ad accettare l'eredita' disposta dal defunto prof. Francesco Torricini, costituita da due quartieri ubicati rispettivamente in Firenze, via Piagentina, 31 ed in Vada (Livorno), via Matteotti, 1 terreno nonche' da un crocefisso d'avorio con custodia, come da testamento olografo in data 20 ottobre 1967, pubblicato con verbale dell'8 maggio 1969, n. 78660 di rep., a rogito dott. Raimondo Polirpo, notaio in Vinci.  
   
-Visto, il Guardasigilli: COLOMBO  
-Registrato alla Corte dei conti, addi' 10 dicembre 1971  
-Atti del Governo, registro n. 245, foglio n. 120. - CARUSO
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 20 marzo 1972  
+Atti del Governo, registro n. 247, foglio n. 139. - VALENTINI

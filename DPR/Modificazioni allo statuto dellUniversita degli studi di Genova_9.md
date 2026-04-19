@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1188
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1955 n. 623
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1188
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1955 n. 623
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
@@ -12,12 +12,11 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con i [regi decreti 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2846); [25 ottobre 1928, n. 3510](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1928-10-25;3510); [31 ottobre 1929, n. 2396](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1929-10-31;2396); [30 ottobre 1930, n. 1859](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1859); [1 ottobre 1931, n. 1371](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-01;1371); [27 ottobre 1932, n. 2086](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-10-27;2086); [6 dicembre 1934, n. 2281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-06;2281); [1 ottobre 1936, n. 24747](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;24747); [20 aprile 1939, n. 1086](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-04-20;1086); [16 marzo 1942, n. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-03-16;324); [5 settembre 1942, n. 1236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-09-05;1236); [24 ottobre 1942, n. 1671 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1671) [2 novembre 1948, n. 1505](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-11-02;1505); [30 ottobre 1949, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1058); [4 luglio 1950, n. 1255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-04;1255); [31 ottobre 1950, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1312); [31 agosto 1951, n. 1102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-31;1102); [18 giugno 1954, n. 754](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-18;754) e [26 ottobre 1954, n. 1251](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-26;1251);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -25,45 +24,19 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 59. - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:  
-Analisi biologiche;  
-Biologia molecolare;  
-Citologia;  
-Ecologia animale;  
-Embriologia degli invertebrati;  
-Embriologia e morfologia sperimentale;  
-Etologia.  
-Art. 60. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:  
-Analisi biologiche;  
-Biologia molecolare;  
-Citologia;  
-Ecologia animale;  
-Embriologia degli invertebrati;  
-Embriologia e morfologia sperimentale;  
-Etologia.  
-Art. 61. - All'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti:  
-Analisi mineralogiche;  
-Mineralogia dei sedimenti;  
-Geochimica applicata;  
-Petrotettonica;  
-Petrografia delle rocce sedimentarie;  
-Rilevamento geologico;  
-Geologia marina;  
-Geotecnica;  
-Geologia del sottosuolo;  
-Petrologia.  
+Art. 30. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di:  
+22) "Filologia bizantina".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1970
+### Dato a Roma, addi' 11 aprile 1955
 
-SARAGAT MISASI
+EINAUDI ERMINI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DE PIETRO
 
-Registrato alla Corte dei conti, addi' 14 gennaio 1971
+Registrato alla Corte dei conti, addi' 1 agosto 1955
 
-Atti del Governo, registro n. 240, foglio n. 45. - CARUSO
+Atti del Governo, registro n. 92, foglio n. 3. - CARLOMAGNO

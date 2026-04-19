@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1985 n. 191
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1976 n. 149
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1985 n. 191
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1976 n. 149
+============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un legato.
 -------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-191. Decreto del Presidente della Repubblica 12 febbraio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 30.000.000, disposto dal sig. Cassini Ugo con testamento olografo 8 ottobre 1981, pubblicato in data 20 aprile 1983, n. 792/578 di repertorio, a rogito dott. Panico Maria Rosa, notaio in Sanremo, registrato a Sanremo in data 9 maggio 1983 al n. 2264.  
+149. Decreto del Presidente della Repubblica 6 marzo 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato disposto dal sig. Ambrogio Galli con testamento olografo a rogito dott. Giuseppe Gambaro, notaio in Cremona, pubblicato il 4 luglio 1970, n. 13295/7107 di repertorio ed ivi registrato il 17 luglio 1970, n. 2024 di repertorio, volume 290.1.3.510, consistente nel valore di un decimo netto dell'azienda agricola "Lamma", con scorte vive e morte, della superficie di Ha 70.18.70, sita nel comune di Sabbioneta (Mantova).  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 2 maggio 1985  
-Registro n. 4 Presidenza, foglio n. 90
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 20 aprile 1976  
+Atti di Governo, registro n. 5, foglio n. 19

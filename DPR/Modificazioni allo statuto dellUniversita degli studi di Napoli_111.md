@@ -1,233 +1,110 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1980 n. 1232
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1082
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1980 n. 1232
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1082
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio universitario nazionale nei suoi pareri;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Lo statuto dell'Universita' di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Dopo l'art. 560, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione, presso la prima facolta' di medicina e chirurgia, della scuola di specializzazione in oncologia.  
+Decreta:   
   
-Scuola di specializzazione in oncologia  
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Art. 561. - La scuola di specializzazione in oncologia ha sede presso l'istituto di patologia generale e conferisce il diploma di specialista in oncologia.  
-Art. 562. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
-Art. 563. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto all'inizio del corso il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente.  
-Art. 564. - La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazione.  
-Art. 565. - Il numero massimo degli allievi e' di venti per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi.  
-Art. 566. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 567. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-patologia generale dei tumori I;  
-oncologia sperimentale I;  
-anatomia ed istologia patologica dei tumori I;  
-epidemiologia dei tumori;  
-cancerogenesi ambientale e professionale e prevenzione primaria;  
-immunologia dei tumori.  
-2° Anno:  
-patologia generale dei tumori II;  
-oncologia sperimentale II;  
-anatomia ed istologia patologica dei tumori II;  
-citodiagnostica dei tumori;  
-prevenzione clinica e tecniche diagnostiche e di laboratorio;  
-radiodiagnostica dei tumori;  
-oncologia medica I;  
-oncologia chirurgica I.  
-3° Anno:  
-oncologia medica II;  
-oncologia chirurgica II;  
-radioterapia dei tumori;  
-oncologia dell'apparato genitale femminile;  
-oncologia pediatrica;  
-principi di riabilitazione oncologica;  
-organizzazione della lotta contro i tumori.  
-La scuola provvede ad organizzare seminari e conferenze su specifici argomenti ad integrazione di quelli elencati nello statuto.  
-Art. 568. - La frequenza alle lezioni, alle esercitazioni pratiche, seminari e conferenze organizzate dalla scuola e' obbligatoria per l'ammissione agli esami. Il superamento degli esami di ciascuno anno e' condizione indispensabile per l'iscrizione all'anno successivo.  
-Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.  
-Art. 569. - Al termine del triennio per ottenere il diploma i candidati devono presentare una dissertazione scritta su un argomento attinente alla specializzazione.  
-
-Art. 2
-------
-
+Dopo l'art. 330 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di perfezionamento nelle ricerche storico-giuridiche presso la facolta' di giurisprudenza.   
   
-Gli articoli 618, 619, 620, 621, relativi alla scuola di specializzazione in ortopedia e traumatologia della seconda facolta' di medicina e chirurgia, che muta la denominazione in ortopedia, sono soppressi e sostituiti dai seguenti;  
+Scuola di perfezionamento nelle ricerche storico-giuridiche   
   
-Scuola di specializzazione in ortopedia  
-  
-Art. 618. - La scuola di specializzazione in ortopedia ha sede presso la clinica ortopedica della seconda facolta' di medicina e chirurgia e conferisce il diploma di specialista in ortopedia. La scuola comprende un insegnamento teorico e pratico.  
-Art. 619. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.  
-La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni.  
-Il numero massimo degli allievi e' di sei per anno di corso e complessivamente di trenta iscritti per l'intero corso di studi.  
-L'ammissione al corso avviene per titoli ed esami.  
-Art. 620. - Le materie d'insegnamento sono le seguenti:  
-1° Anno:  
-Insegnamento pratico:  
-chirurgia generale;  
-pronto soccorso generale;  
-fisioterapia.  
-Insegnamento teorico:  
-anatomia dell'apparato locomotore;  
-fisiologia dell'apparato locomotore;  
-semeiotica ortopedica;  
-nozioni di chirurgia generale;  
-bioingegneria dell'apparato locomotore I.  
-2° Anno:  
-Insegnamento pratico:  
-chirurgia generale (con frequenza eventuale in reparti specialistici interessanti per l'apparato locomotore);  
-reparti di pronto soccorso traumatologico;  
-reparti di ortopedia e traumatologia.  
-Insegnamento teorico:  
-anatomia ed istologia patologica dell'apparato locomotore I; patologia dell'apparato locomotore I;  
-clinica ortopedica I;  
-traumatologia dell'apparato locomotore I;  
-radiologia I;  
-nozioni di chirurgia d'urgenza e pronto soccorso;  
-bioingegneria dell'apparato locomotore II.  
-3° Anno:  
-Insegnamento pratico:  
-reparti di ortopedia e traumatologia (in particolare sale di degenza e sale gessi).  
-Insegnamento teorico:  
-anatomia ed istologia patologica dell'apparato locomotore II; patologia dell'apparato locomotore II;  
-clinica ortopedica II;  
-traumatologia dell'apparato locomotore II;  
-radiologia II;  
-tecnica operatoria I;  
-apparatoterapia e tecnica degli apparecchi gessati;  
-elementi di reumatologia.  
-4° Anno:  
-Insegnamento pratico:  
-reparti di ortopedia e traumatologia (frequenza nei reparti operatori).  
-Insegnamento teorico:  
-patologia dell'apparato locomotore III;  
-clinica ortopedica III;  
-traumatologia dell'apparato locomotore III;  
-tecnica operatoria II;  
-fisiokinesiterapia I;  
-neuropatologia dell'apparato locomotore ed elettrodiagnostica;  
-nozioni di medicina legale.  
-5° Anno:  
-Insegnamento pratico:  
-reparti di ortopedia e traumatologia (frequenza nei reparti operatori);  
-officine ortopediche.  
-Insegnamento teorico:  
-patologia dell'apparato locomotore IV;  
-clinica ortopedica IV;  
-traumatologia dell'apparato locomotore IV;  
-tecnica operatoria III;  
-fisiokinesiterapia II.  
-Art. 621. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
-Alla fine di ogni corso gli iscritti per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.  
-Al termine del corso di studi per il conseguimento del diploma di specialista in ortopedia gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
-
-Art. 3
-------
-
-  
-Dopo l'art. 652, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione, presso la seconda facolta' di medicina e chirurgia, della scuola di specializzazione in patologia generale.  
-  
-Scuola di specializzazione in patologia generale  
-  
-Art. 653. - La scuola di specializzazione in patologia generale ha sede presso l'istituto di patologia generale della seconda facolta' di medicina e chirurgia dell'Universita' di Napoli. Il corso degli studi ha la durata di quattro anni, suddiviso in due bienni.  
-La durata complessiva del corso di studi non e' suscettibile di abbreviazioni.  
-La frequenza alla scuola e' obbligatoria.  
-Gli allievi che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le singole prove di esame.  
-Art. 654. - Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia, ai quali, dopo aver superato l'esame finale sara' rilasciato il diploma di specialista in patologia generale. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.  
-Art. 655. - Alla scuola stessa vengono ammessi i laureati in medicina veterinaria, in scienze biologiche, in scienze naturali, in farmacia, in chimica e tecnologia farmaceutiche, ai quali, dopo aver superato l'esame finale, sara' rilasciato il diploma di specialista in patologia generale con indirizzo tecnico.  
-Art. 656. - L'ammissione al corso di specializzazione avviene per titoli ed esami.  
-Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.  
-Art. 657. - Le materie di insegnamento sono le seguenti:  
-  
-I BIENNIO  
-(Propedeutico)  
-  
-1° Anno:  
-1) istituzioni di patologia generale;  
-2) patologia delle infezioni;  
-3) epidemiologia e patologia ambientale;  
-4) immunologia;  
-5) parassitologia e diagnostica parassitologica.  
-2° Anno:  
-6) radiobiologia e patologia da radiazioni;  
-7) oncologia generale;  
-8) immunopatologia e analisi immunologiche;  
-9) analisi chimicocliniche;  
-10) fisiopatologia generale I corso (metabolismo e sistema endocrino).  
-  
-II BIENNIO  
-(conseguimento per il diploma di specialista in patologia generale)   
-3° Anno:  
-11) diagnostica di laboratorio di citopatologia e citogenetica;  
-12) diagnostica di laboratorio di batteriologia e virologia;  
-13) fisiopatologia generale II corso (termoregolazione, sistema cardiocircolatorio, sangue ed organi emopoietici).  
-4° Anno:  
-14) diagnostica oncologica;  
-15) diagnostica istopatologica;  
-16) diagnostica ultrastrutturale;  
-17) fisiopatologia generale III corso (fegato, sistema digerente, renale, respiratorio).  
-  
-II BIENNIO  
-(conseguimento per il diploma di specialista in patologia generale con indirizzo tecnico)  
-  
-3° Anno:  
-11) tecniche di batteriologia;  
-12) tecniche di virologia;  
-13) tecniche di citologia e citogenetica.  
-4° Anno:  
-14) statistica e biometria;  
-15) colture in vitro: aspetti biologici e applicativi;  
-16) tecniche ematologiche;  
-17) tecniche istologiche ed ultrastrutturali.  
-Art. 658. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
-Art. 659. - Il direttore, puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola che siano tenuti corsi complementari e conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola stessa.  
-Art. 660. - Per conseguire il relativo diploma di specializzazione, al termine del corso quadriennale, oltre ad aver superato tutti gli esami delle singole materie, e' obbligatorio sostenere l'esame finale su una dissertazione scritta, preferibilmente di carattere sperimentale.  
+Art. 331. - La scuola di perfezionamento nelle ricerche storico-giuridiche ha lo scopo di promuovere l'approfondimento dello studio del metodo storico, quale mezzo di valutazione esegetica degli ordinamenti e delle norme loro congruenti, per la migliore formazione dello spirito critico del giurista; di giovare efficacemente alla inclinazione storica dei giovani, che mirano ad una positiva ricerca del diritto nelle realta' sociali del tempo in cui si e' svolto, ed offrire un valido strumento di scienza a chi voglia avviarsi alla carriera archivistica.   
+Art. 332. - La scuola e' diretta e rappresentata da un docente ordinario o fuori ruolo di storia del diritto italiano della facolta' di giurisprudenza eletto per un triennio a maggioranza assoluta di voti da parte del consiglio della scuola, che provvede anche alla elezione di un vice direttore scelto tra i suoi membri. Entrambi sono rieleggibili.   
+Art. 333. - La scuola conferisce il diploma di specializzazione in ricerche storico-giuridiche.   
+Art. 334. - Sono ammessi alla scuola i laureati in giurisprudenza, in lettere, in filosofia, in scienze politiche, in economia e commercio che all'atto della iscrizione abbiano previamente superato i tre seguenti esami della facolta' di giurisprudenza:   
+1) Storia del diritto romano;   
+2) Istituzioni di diritto romano;   
+3) Storia del diritto italiano.   
+Nella eventualita' che gli iscritti non abbiano sostenuto i tre predetti esami, od alcuno di essi, la loro iscrizione e' condizionata al superamento di prove integranti, con puro valore interno relativo alle suddette discipline in tempi e modi fissati dal consiglio della scuola d'accordo con gli interessati.   
+Art. 335. - Gli iscritti alla scuola sono tenuti a pagare le tasse, soprattasse e contributi secondo quanto stabilito per gli studenti della facolta' di giurisprudenza e la tassa di diploma nella misura di lire seimila ai sensi dell'[art. 7 della legge 18 dicembre 1951, n.   
+1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).   
+Sono tenuti, altresi', a pagare un contributo speciale nella misura che sara' determinata annualmente dal consiglio d'amministrazione, su proposta del direttore della scuola.   
+Art. 336. - Il corso della scuola ha la durata di due anni. Il numero, degli iscritti e' di cinquanta per ogni anno.   
+Art. 337. - Sono insegnamenti fondamentali della scuola:   
+1) Archivistica;   
+2) Paleografia giuridica e diplomatica;   
+3) Euristica delle fonti giuridiche e critica del testo;   
+4) Latino medioevale;   
+5) Storia degli ordinamenti medioevali e moderni;   
+6) Storia del diritto penale medioevale e moderno;   
+7) Storia del diritto canonico;   
+8) Storia del diritto privato medioevale e moderno;   
+9) Storia del diritto marittimo medioevale e moderno;   
+10) Storia dell'economia medioevale e moderna;   
+11) Esegesi delle fonti del diritto italiano medioevale e moderno (biennale).   
+Sono insegnamenti facoltativi della scuola:   
+1) Greco bizantino;   
+2) Storia medioevale;   
+3) Storia moderna;   
+4) Storia del diritto bizantino con particolare riguardo all'Italia;   
+5) Storia del diritto mussulmano con particolare riguardo all'Italia.   
+Art. 338. - Per conseguire il diploma gli iscritti debbono:   
+A) aver seguito i corsi la cui frequenza e' obbligatoria e superato gli esami assegnati a ciascun anno secondo il seguente piano di studi:   
+1° Anno:   
+1) Archivistica;   
+2) Paleografia giuridica e diplomatica;   
+3) Euristica delle fonti giuridiche e critica del testo;   
+4) Latino medioevale;   
+5) Storia degli ordinamenti italiani medioevali e moderni;   
+6) Storia del diritto privato medioevale e moderno;   
+7) Esegesi delle fonti del diritto italiano medioevale e moderno (I).   
+2° Anno:   
+1) Storia del diritto canonico;   
+2) Storia del diritto penale medioevale e moderno;   
+3) Storia dell'economia medioevale e moderna;   
+4) Storia del diritto marittimo medioevale e moderno;   
+5) Esegesi delle fonti del diritto italiano medioevale e moderno (II).   
+Gli iscritti, inoltre, debbono aver frequentato i corsi e superato gli esami di due materie facoltative a loro scelta, sostenendone le prove in anno e sessione a loro gradimento.   
+B) aver apprestato l'edizione critica di un testo giuridico o economico, medioevale o moderno, oppure di una serie di documenti della medesima natura su descritta, corredandola di una introduzione scientifica metodologicamente valida a darne il dovuto risalto storico.   
+La discussione del lavoro scritto e' sottoposta alla previa autorizzazione del direttore della scuola; assunta relazione scritta di due relatori che hanno seguito lo sviluppo del lavoro stesso e ne accertano responsabilmente il valore scientifico. La definitiva pubblicazione del lavoro sara' effettuata nell'apposita collana della scuola.   
+Art. 339. - Gli iscritti alla scuola, che abbiano superato da non oltre un quadriennio nella facolta' di loro provenienza esami di materie del corso della scuola, possono rivolgere domanda al direttore della scuola per conseguire l'esonero completo o parziale degli esami sulle materie stesse, purche' ne diano documentata prova ed abbiano conseguito una votazione superiore ai 24/30.   
+Gli iscritti alla scuola, che abbiano conseguito tale esonero potranno, su loro domanda, che verra' esaminata dal consiglio della scuola, essere ammessi a frequentare taluni corsi di lezioni del secondo anno.   
+Art. 340. - Particolari corsi di lezioni o singole lezioni su specifiche materie del tutto attinenti al tipo della scuola e al concreto indirizzo degli studi potranno essere affidati a studiosi specialisti.   
+Tali corsi di lezione non costituiscono materia di esame, ma potranno avviare veri e propri seminari con discussione degli argomenti trattati da parte degli iscritti alla scuola, che avranno l'obbligo di intervenirvi.   
+La formazione di tali speciali corsi potra' essere organizzata anche su richiesta degli iscritti alla scuola al direttore, che ne fara' oggetto di deliberazione al consiglio della scuola.   
+Art. 341. - Il consiglio della scuola si compone dei professori incaricati degli insegnamenti fondamentali ed e' presieduto dal direttore, che lo convoca.   
+La convocazione del consiglio della scuola puo' essere richiesta dalla meta' piu' uno dei professori che ne fanno parte.   
+Gli incarichi d'insegnamento vengono conferiti dal rettore su designazione del direttore della scuola, sentito il parere del consiglio della scuola.   
+Art. 342. - Il direttore della scuola ha compiti di indirizzo, di coordinamento ed organizzazione dei programmi riflettenti le attivita' didattica e scientifica della scuola, sentito il parere del consiglio della scuola.   
+Art. 343. - Le commissioni per gli esami di profitto vengono nominate dal direttore della scuola con un numero minimo di tre membri di materie fra loro affini. Le commissioni per gli esami di diploma, nominate dal direttore della scuola, sono composte di sei membri oltre il direttore della scuola.   
+Art. 344. - Le pubblicazioni che saranno giudicate dalla commissione di diploma degne della speciale valutazione della "menzione onorevole" potranno, essere premiate, ove sia possibile disporne, di un particolare premio. Le modalita' per il conferimento di tale premio saranno fissate e rese note prima dell'inizio di ciascun anno accademico dal direttore della scuola, dopo averne trattato con il consiglio della scuola.   
+Art. 345. - Al termine di ogni biennio il direttore della scuola, raccolti i ragguagli dei singoli professori sull'attivita' didattica e sulla partecipazione degli iscritti alla vita della scuola, trasmettera' al rettore e al preside della facolta' di giurisprudenza una relazione che assommera' i risultati raggiunti e le nuove iniziative programmate.   
+Disposizione transitoria   
+Nella fase istitutiva, organizzativa e consolidatrice della scuola, la direzione della medesima, per mandato della facolta' di giurisprudenza, e' affidata per il primo triennio al docente ordinario della I cattedra di storia del diritto italiano della facolta' stessa, che ne ha assunto l'iniziativa.   
+Il direttore, in tale triennio, procedera' direttamente a designare al rettore i nomi dei professori incaricati dell'insegnamento delle discipline in corso per il loro legale conferimento.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 dicembre 1980
+### Dato a Roma, addi' 31 ottobre 1972
 
-PERTINI - BODRATO
+LEONE SCALFARO
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 17 ottobre 1981
+Registrato alla Corte dei conti, addi' 9 marzo 1973
 
-Registro n. 96 Istruzione, foglio n. 355
+Atti di Governo, registro n. 256, foglio n. 58. - VALENTINI

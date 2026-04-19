@@ -1,136 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1974 n. 780
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1963 n. 620
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1974 n. 780
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1963 n. 620
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 122 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunto il corso di specializzazione in neonatologia.
-
-Art. 222 - all'elenco degli insegnamenti del terzo anno di corso della scuola di specializzazione in oncologia e' aggiunto il seguente:
-
-Radiologia (diagnostica e terapia dei tumori).
-
-L'art. 237 e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in igiene e medicina preventiva e' stabilito in venticinque per ogni anno di corso.
-
-L'art. 246, relativo alla scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio, e' integrato con il seguente comma:
-
-"I medici che abbiano gia' conseguito la specializzazione in tisiologia e che vengano ammessi al terzo anno della scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio, contrariamente a quanto disposto dalle norme generali, dovranno pagare i contributi di laboratorio soltanto per il terzo anno".
-
-Dopo l'art. 275, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione del corso di specializzazione in neonatologia.
-
-Corso di specializzazione in neonatologia
-
-Art. 276. - E' istituito presso la facolta' di medicina e chirurgia dell'Universita' di Genova un corso di specializzazione in neonatologia. Il corso ha fini di aggiornamento sul piano teorico, ma soprattutto di perfezionamento clinico-pratico nell'ambito della neonatologia. La durata del corso e' annuale.
-
-Possono essere ammessi al corso gli aspiranti laureati in medicina e chirurgia in possesso di un titolo di specializzazione in pediatria (o clinica pediatrica) o puericultura conseguito presso una scuola di specializzazione di durata almeno biennale.
-
-I candidati sono tenuti a sostenere un colloquio preliminare di ammissione, dinnanzi ad una commissione formata a mente delle disposizioni generali che regolano le scuole di specializzazione della facolta' di medicina e chirurgia dell'Universita' di Genova.
-
-Il numero degli ammessi al corso e' di dieci.
-
-Art. 277. - La direzione del corso e' attribuita al direttore dell'istituto di puericultura, coadiuvato da un consiglio direttivo.
-
-Di questo debbono in ogni caso far parte, purche' professori di ruolo, il direttore dello istituto di clinica ostetrica e ginecologica, il direttore dell'istituto di clinica pediatrica ed eventualmente i direttori di altri istituti aventi stretta attinenza con le discipline ostetriche e pediatriche, i quali collaboreranno all'insegnamento e presso i cui istituti si esplichera' una parte dell'attivita' degli allievi.
-
-Art. 278. - Le materie di insegnamento sono le seguenti:
-
-1) Clinica della gravidanza, del parto normale ed a rischio;
-
-2) Fisiopatologia e teratologia embrio-fetale;
-
-3) Genetica della patologia cromosomica e delle malattie metaboliche congenite;
-
-4) Fisiologia neonatale;
-
-5) Immunologia neonatale;
-
-6) Biochimica neonatale;
-
-7) Farmacologia neonatale;
-
-8) Patologia neonatale;
-
-9) Diagnostica radiologica neonatale;
-
-10) Tecniche di laboratorio (con riferimento alla fisiologia e patologia neonatali);
-
-11) Assistenza al neonato sano ed ammalato;
-
-12) Clinica e terapia neonatali;
-
-13) Rianimazione e cure intensive neonatali;
-
-14) Affezioni chirurgiche del neonato;
-
-15) Anatomia patologica del feto e del neonato;
-
-16) Evoluzione ed esiti della patologia feto-neonatale.
-
-Gli insegnamenti verranno impartiti attraverso lezioni, seminari, discussioni cliniche e integrati da conferenze su argomenti specialistici pertinenti a problemi di neonatologia.
-
-Art. 279. - L'allievo dovra' ottemperare all'internato obbligatorio quotidiano per almeno quattro ore giornaliere per la durata di dieci mesi. In tale periodo egli esplichera' attivita' in sala parto e nelle diverse sezioni e servizi interni ed esterni di assistenza e cura al neonato.
-
-Art. 280. - Alla fine del corso, l'allievo, che abbia seguito regolarmente il corso medesimo, in base a quanto stabilito dall'articolo precedente, e' tenuto a superare un esame globale di profitto con prove teoriche e pratiche, dinnanzi ad una commissione proposta dal direttore del corso ed approvata dal preside della facolta' di medicina e chirurgia, della quale fanno parte, oltre al direttore del corso, in funzione di presidente, docenti del corso.
-
-Superato l'esame finale del corso, l'allievo sosterra' l'esame di diploma, che potra' essere costituito anche da una dissertazione orale, su un argomento di attualita' in campo neonatologico; la commissione di esame di diploma e' stabilita in ossequio alle disposizioni generali che regolano le scuole di specializzazione della facolta' di medicina e chirurgia dell'Universita' di Genova, e comprendera' obbligatoriamente i direttori delle cliniche ostetrica e ginecologica e pediatrica della Universita'.
-
-All'allievo risultato idoneo, verra' rilasciato il diploma di specialista in neonatologia, valido a tutti gli effetti di legge.
-
-Art. 281. - Le norme per l'iscrizione, per gli esami, per le tasse, ecc. sono quelle generali per le scuole di specializzazione e di perfezionamento contenute negli articoli da 122 a 137 dello statuto dell'Universita'.
-
-Norma transitoria
-
-Per il primo anno di attivita', potranno essere iscritti in soprannumero, sempre sulla base di esami e titoli e comunque in numero non superiore a dieci, gli specialisti in pediatria od in puericultura, che prestino servizio da almeno un anno in sezioni neonatali o per immaturi.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 22 febbraio 1974
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 27 gennaio 1975 Atti di Governo, registro n. 8, foglio n. 46
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846) e successivi;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto-legge 20 giugno 1935 n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
@@ -140,57 +24,35 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 122 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunto il corso di specializzazione in neonatologia.  
-Art. 222 - all'elenco degli insegnamenti del terzo anno di corso della scuola di specializzazione in oncologia e' aggiunto il seguente:  
   
-Radiologia (diagnostica e terapia dei tumori).  
-L'art. 237 e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in igiene e medicina preventiva e' stabilito in venticinque per ogni anno di corso.  
-L'art. 246, relativo alla scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio, e' integrato con il seguente comma:  
-"I medici che abbiano gia' conseguito la specializzazione in tisiologia e che vengano ammessi al terzo anno della scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio, contrariamente a quanto disposto dalle norme generali, dovranno pagare i contributi di laboratorio soltanto per il terzo anno".  
-Dopo l'art. 275, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione del corso di specializzazione in neonatologia.  
-Corso di specializzazione in neonatologia  
-Art. 276. - E' istituito presso la facolta' di medicina e chirurgia dell'Universita' di Genova un corso di specializzazione in neonatologia. Il corso ha fini di aggiornamento sul piano teorico, ma soprattutto di perfezionamento clinico-pratico nell'ambito della neonatologia. La durata del corso e' annuale.  
-Possono essere ammessi al corso gli aspiranti laureati in medicina e chirurgia in possesso di un titolo di specializzazione in pediatria (o clinica pediatrica) o puericultura conseguito presso una scuola di specializzazione di durata almeno biennale.  
-I candidati sono tenuti a sostenere un colloquio preliminare di ammissione, dinnanzi ad una commissione formata a mente delle disposizioni generali che regolano le scuole di specializzazione della facolta' di medicina e chirurgia dell'Universita' di Genova.  
-Il numero degli ammessi al corso e' di dieci.  
-Art. 277. - La direzione del corso e' attribuita al direttore dell'istituto di puericultura, coadiuvato da un consiglio direttivo.  
-Di questo debbono in ogni caso far parte, purche' professori di ruolo, il direttore dello istituto di clinica ostetrica e ginecologica, il direttore dell'istituto di clinica pediatrica ed eventualmente i direttori di altri istituti aventi stretta attinenza con le discipline ostetriche e pediatriche, i quali collaboreranno all'insegnamento e presso i cui istituti si esplichera' una parte dell'attivita' degli allievi.  
-Art. 278. - Le materie di insegnamento sono le seguenti:  
-1) Clinica della gravidanza, del parto normale ed a rischio;  
-2) Fisiopatologia e teratologia embrio-fetale;  
-3) Genetica della patologia cromosomica e delle malattie metaboliche congenite;  
-4) Fisiologia neonatale;  
-5) Immunologia neonatale;  
-6) Biochimica neonatale;  
-7) Farmacologia neonatale;  
-8) Patologia neonatale;  
-9) Diagnostica radiologica neonatale;  
-10) Tecniche di laboratorio (con riferimento alla fisiologia e patologia neonatali);  
-11) Assistenza al neonato sano ed ammalato;  
-12) Clinica e terapia neonatali;  
-13) Rianimazione e cure intensive neonatali;  
-14) Affezioni chirurgiche del neonato;  
-15) Anatomia patologica del feto e del neonato;  
-16) Evoluzione ed esiti della patologia feto-neonatale.  
-Gli insegnamenti verranno impartiti attraverso lezioni, seminari, discussioni cliniche e integrati da conferenze su argomenti specialistici pertinenti a problemi di neonatologia.  
-Art. 279. - L'allievo dovra' ottemperare all'internato obbligatorio quotidiano per almeno quattro ore giornaliere per la durata di dieci mesi. In tale periodo egli esplichera' attivita' in sala parto e nelle diverse sezioni e servizi interni ed esterni di assistenza e cura al neonato.  
-Art. 280. - Alla fine del corso, l'allievo, che abbia seguito regolarmente il corso medesimo, in base a quanto stabilito dall'articolo precedente, e' tenuto a superare un esame globale di profitto con prove teoriche e pratiche, dinnanzi ad una commissione proposta dal direttore del corso ed approvata dal preside della facolta' di medicina e chirurgia, della quale fanno parte, oltre al direttore del corso, in funzione di presidente, docenti del corso.  
-Superato l'esame finale del corso, l'allievo sosterra' l'esame di diploma, che potra' essere costituito anche da una dissertazione orale, su un argomento di attualita' in campo neonatologico; la commissione di esame di diploma e' stabilita in ossequio alle disposizioni generali che regolano le scuole di specializzazione della facolta' di medicina e chirurgia dell'Universita' di Genova, e comprendera' obbligatoriamente i direttori delle cliniche ostetrica e ginecologica e pediatrica della Universita'.  
-All'allievo risultato idoneo, verra' rilasciato il diploma di specialista in neonatologia, valido a tutti gli effetti di legge.  
-Art. 281. - Le norme per l'iscrizione, per gli esami, per le tasse, ecc. sono quelle generali per le scuole di specializzazione e di perfezionamento contenute negli articoli da 122 a 137 dello statuto dell'Universita'.  
-Norma transitoria  
-Per il primo anno di attivita', potranno essere iscritti in soprannumero, sempre sulla base di esami e titoli e comunque in numero non superiore a dieci, gli specialisti in pediatria od in puericultura, che prestino servizio da almeno un anno in sezioni neonatali o per immaturi.  
+Dopo l'art. 229 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola, di specializzazione in Microbiologia medica.  
+  
+Scuola di specializzazione in Microbiologia medica  
+  
+Art. 280 - Presso l'Istituto di microbiologia e' istituita la Scuola di specializzazione in Microbiologia medica che ha lo scopo di conferire la necessaria competenza teorica e pratica ai laureati in Medicina e chirurgia, o in scienze biologiche, i quali intendono conseguire il diploma di specializzazione in Microbiologia medica.  
+La scuola ha la durata di due anni. Ad essa possono iscriversi i laureati in Medicina e chirurgia o in Scienze biologiche.  
+Le norme per l'iscrizione, per gli esami, le tasse, ecc. sono quelle generali per le Scuole di specializzazione e di perfezionamento riferite negli articoli da 88 a 104 dello statuto di questa Universita'.  
+Art. 231. - Gli insegnamenti impartiti nella suddetta scuola sono i seguenti:  
+Biologia degli schizomiceti e accertamento diagnostico delle malattie e eziologia batterica;  
+Biologia dei virus e accertamento diagnostico delle malattie a eziologia virale;  
+Biologia delle Rickettsie e accertamento diagnostico delle rickettsiosi;  
+Immunologia, reazioni immunitarie e loro utilizzazione in campo diagnostico e terapeutico.  
+Il numero e la distribuzione delle ore di lezioni sono fissati dal direttore della Scuola al principio di ogni anno accademico.  
+Avranno inoltre luogo esercitazioni pratiche delle materie oggetto di insegnamento.  
+Il numero massimo dei posti per detta Scuola e' fissato in dieci per ogni anno.  
+Art. 232. - Al termine del secondo anno gli allievi che hanno frequentato il corso saranno ammessi all'esame di diploma, consistente nella presentazione e discussione di una tesi scritta di argomento pertinente alla microbiologia, in una prova orale teorica e in una prova pratica.  
+Agli allievi che hanno ottenuto l'approvazione nell'esame di diploma, sara' rilasciato il diploma di specializzazione in "Microbiologia medica" valido a tutti gli effetti di legge.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque, spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 febbraio 1974
+### Dato a Roma, addi' 14 marzo 1963
 
-LEONE MALFATTI
+SEGNI GUI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 27 gennaio 1975
+Registrato alla Corte dei conti, addi' 29 aprile 1963
 
-Atti di Governo, registro n. 8, foglio n. 46
+Atti del Governo, registro n. 168, foglio n. 97. - VILLA

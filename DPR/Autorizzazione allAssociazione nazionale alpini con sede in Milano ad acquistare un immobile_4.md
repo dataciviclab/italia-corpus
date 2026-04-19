@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 novembre 1973 n. 865
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1971 n. 12
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 novembre 1973 n. 865
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1971 n. 12
+=============================================================
 
 Autorizzazione all'Associazione nazionale alpini, con sede in Milano, ad acquistare un immobile.
 ------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-865. Decreto del Presidente della Repubblica 3 novembre 1973, col quale, sulla proposta del Ministro per la difesa, l'Associazione nazionale alpini, con sede in Milano, viene autorizzata ad acquistare, per adibirlo a sede della dipendente sezione di Conegliano (Treviso), dai signori Curto Guido, Vallomy Giacomo, Travaini Francesco, Battistella Alfredo e Mason Giovanni, al prezzo di lire cinque milioni, il fabbricato con annesso terreno sito nel comune di Conegliano, via Beccaruzzi n. 7, allibrato nel catasto fabbricati di quel comune alla sezione E, foglio IV, mappale n. 457 (sub 1, 2, 3 e 4) e nel catasto terreni del comune stesso alla sezione E, foglio IV, mappale n. 458.  
+12. Decreto del Presidente della Repubblica 9 gennaio 1971, col quale, sulla proposta del Ministro per la difesa, l'Associazione nazionale alpini, con sede in Milano, viene autorizzata ad acquistare, per adibirlo a sede della redazione del periodico sociale L'Alpino", dai signori Terragni Antonietta ved. Mariani e Mariani Luigia, Giuseppe e Maria, al prezzo di lire venti milioni, l'appartamento situato al primo piano, (secondo fuori terra) del fabbricato che sorge in Milano, via Marsala n. 9, composto di tre vani oltre doppi servizi e disimpegni (con annesso un vano cantina nel sotterraneo) e contraddistinto, nel cessato catasto fabbricati di Milano, sezione citta', con il mappale 78, sub. 11.  
   
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 22 dicembre 1973  
-Atti di Governo, registro n. 263, foglio n. 16. - CARUSO
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 15 febbraio 1971  
+Atti del Governo, registro n. 240, foglio n. 184. - GRECO

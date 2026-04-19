@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 857
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1978 n. 989
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 857
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1978 n. 989
+===============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-857. Decreto del Presidente della Repubblica 22 settembre 1981, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato, consistente in un terreno della superficie di mq 200, sito in comune di Ronago (Como), localita' Valmulini, destinato all'ampliamento della caserma della guardia di finanza, disposta dal dott. Francesco Ambrosoli con atto 22 giugno 1978, n. 45189/16099 di repertorio, a rogito dott. Achille Pedraglio, notaio in Como.  
+989. Decreto del Presidente della Repubblica 5 dicembre 1978, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione della donazione a favore dello Stato e, per esso, della biblioteca statale di Lucca, disposta dal prof. Gaetano Campetti con atto di donazione pubblicato in data 1 febbraio 1978, n. 939/416 di repertorio a rogito dott. Massimo Barsanti, notaio in Lucca, consistente nel registro manoscritto "Cronaca Buonfigli" di complessive carte 256.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 12 gennaio 1982  
-Registro n. 2 Finanze, foglio n. 128
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 7 febbraio 1979  
+Registro n. 1 Beni culturali, foglio n. 232

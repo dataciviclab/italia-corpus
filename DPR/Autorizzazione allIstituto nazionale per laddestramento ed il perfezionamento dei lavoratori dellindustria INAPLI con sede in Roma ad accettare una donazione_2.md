@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1964 n. 294
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1964 n. 288
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1964 n. 294
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1964 n. 288
 ============================================================
 
 Autorizzazione all'Istituto nazionale per l'addestramento ed il perfezionamento dei lavoratori dell'industria (INAPLI), con sede in Roma, ad accettare una donazione.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-294. Decreto del Presidente della Repubblica 13 marzo 1964, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Istituto nazionale per l'addestramento e il perfezionamento dei lavoratori dell'industria (INAPLI), con sede in Roma, viene autorizzato ad accettare la donazione disposta dal comune di Novi Ligure (Alessandria), consistente in due lotti di terreno fabbricativo da adibire esclusivamente per la costruzione di un Centro di addestramento professionale, come da atto di donazione per notar Mario Borghero, rep. n. 17563, raccolta n. 5404 dell'8 febbraio 1962.  
+288. Decreto del Presidente della Repubblica 13 marzo 1964, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Istituto nazionale per l'addestramento ed il perfezionamento dei lavoratori dell'industria (INAPLI), con sede in Roma, viene autorizzato ad accettare la donazione disposta dal comune di Cervignano del Friuli (Udine), consistente in un terreno edificatorio da adibire esclusivamente per la costruzione di un Centro di addestramento professionale, come da atto di donazione per notar Nicolo' Quarantotto, rep. n. 11894, fascicolo 6430 del 22 ottobre 1957.  
   
 Visto, il Guardasigilli: REALE  
 Registrato alla Corte dei conti, addi' 6 maggio 1964  
-Atti del Governo, registro n. 183, foglio n. 61. - VILLA
+Atti del Governo, registro n. 183, foglio n. 60. - VILLA

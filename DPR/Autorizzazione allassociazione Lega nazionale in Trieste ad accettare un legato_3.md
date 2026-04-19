@@ -1,19 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1976 n. 763
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 novembre 1986 n. 1060
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1976 n. 763
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 novembre 1986 n. 1060
+================================================================
 
-Autorizzazione all'associazione "Lega nazionale", in Trieste, ad accettare un legato.
--------------------------------------------------------------------------------------
+Autorizzazione all'associazione Lega nazionale, in Trieste, ad accettare un legato.
+-----------------------------------------------------------------------------------
 
 Art. 1
 ------
 
-N.
+n.
 
-763. Decreto del Presidente della Repubblica 16 luglio 1976, col quale, sulla proposta del Ministro per i beni culturali e ambientali, l'associazione "Lega nazionale", in Trieste, viene autorizzata ad accettare il legato disposto dalla sig.ra Maria Spigolotto vedova Franelli con testamento olografo 28 ottobre 1965, pubblicato il 9 marzo 1970, n. 117.771/5536 di repertorio, a rogito dott. Giovanni Tomasi, notaio in Trieste, consistente in una parte di un immobile sito in Trieste, via Crispi, 73, e via Farneto, 4, con l'onere di adibirlo ad asilo educativo e a ritrovo per ragazzi bisognosi.  
+1060. Decreto del Presidente della Repubblica 17 novembre 1986, col quale, sulla proposta del Ministro per i beni culturali e ambientali, l'associazione Lega nazionale, in Trieste, viene autorizzata ad accettare il legato, consistente nella somma di L. 5.000.000, piu' gli interessi maturati, disposto dalla sig.ra Gemma Bernardis ved. Mosetti con testamento pubblico 4 aprile 1979, n. 12/1 di repertorio, a rogito dott. Medardo Samengo, notaio in Trieste, registrato con atto 7 febbraio 1985, n. 107047/761 di repertorio, a rogito medesimo notaio, registrato a Trieste in data 13 febbraio 1985 al n. 485.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 12 novembre 1976  
-Registro n. 10 Beni culturali, foglio n. 287
+Visto, il Guardasigilli: ROGNONI  
+Registrato alla Corte dei conti, addi' 25 marzo 1987  
+Registro n. 8 Beni culturali, foglio n. 225

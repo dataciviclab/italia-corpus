@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1965 n. 1257
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1979 n. 775
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1965 n. 1257
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1979 n. 775
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Macerata.
 --------------------------------------------------------------------
@@ -10,236 +10,75 @@ Modificazioni allo statuto dell'Universita' degli studi di Macerata.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Macerata approvato con [regio decreto 20 aprile 1939, numero 1074](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1074) e modificato con [regio decreto 17 ottobre 1941, n. 1206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1206) e successive modificazioni;
+Veduto lo statuto dell'Universita' di Macerata, approvato con [regio decreto 20 aprile 1939, n. 1074](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1074) e modificato con [regio decreto 17 ottobre 1941, n. 1206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1206), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Macerata e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla
+-----
 
-Decreta:
+proposta del Ministro della pubblica istruzione; Decreta:
 
-Lo statuto dell'Universita' degli studi di Macerata, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Articolo unico
+--------------
 
-Gli articoli dal 18 al 23 relativi all'istituto di esercitazioni giuridiche annesso alla Facolta' di giurisprudenza sono abrogati e sostituiti dai seguenti nuovi articoli con il conseguente spostamento della numerazione degli articoli successivi.
+Scuola di specializzazione in medicina legale e delle assicurazioni
 
-TITOLO IV
-
-Istituto di esercitazioni giuridiche
-
-Art. 18. - E' costituito presso la Facolta' di giurisprudenza un Istituto di esercitazioni giuridiche aventi i seguenti scopi generali:
-
-a) organizzare corsi di specializzazione e addestramento professionale;
-
-b) curare la pubblicazione di opere giuridiche;
-
-c) funzionare come seminario ai sensi dell'art. 23 del regolamento generale universitario;
-
-d) promuovere qualsiasi altra iniziativa culturale nel campo delle scienze giuridiche, come l'organizzazione di congressi, corsi, cicli di conferenze, incontri dibattiti, ecc. L'istituto ha autonomia amministrativa e dispone, a norma dell'[art. 53 del testo unico 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art53), dei fondi ad esso assegnati, nonche' degli eventuali proventi ricavati dallo svolgimento della sua attivita' ai sensi delle vigenti leggi.
-
-Art. 19. - Il Consiglio della Facolta' di giurisprudenza elegge nel suo seno un direttore ed un vice direttore dell'istituto, che durano in carica un anno e sono rieleggibili.
-
-Spetta al direttore fissare anno per anno, su conforme parere del Consiglio di Facolta', il programma dei lavori dell'Istituto.
-
-Art. 20. - Prestano la loro opera nell'Istituto i professori ufficiali e le altre persone di riconosciuta competenza che vengono prescelte dal Consiglio di Facolta'.
-
-Art. 21. - Sono ammessi a frequentare l'Istituto gli studenti iscritti al corso di Giurisprudenza, nonche' i laureati in Giurisprudenza da non oltre due anni.
-
-Ad ogni corso non possono essere iscritti piu' di quindici alunni salvo apposita deliberazione del Consiglio. Qualora i richiedenti superino il numero di quindici, il direttore delibera quali tra i richiedenti debbono essere ammessi.
-
-Art. 22. - Agli alunni che abbiano frequentato con diligenza uno o piu' corsi, prendendo parte alle esercitazioni che ne formano oggetto, viene rilasciato dal direttore dell'istituto, in base a relazione dei rispettivi docenti, un certificato che deve essere controfirmato dal preside della Facolta'.
-
-Art. 23. - L'Istituto puo' bandire concorsi a premio tra gli alunni iscritti, con norme da determinarsi dal direttore.
-
-Il direttore, sentito il Consiglio della Facolta', puo' deliberare la stampa dei lavori degli alunni che ne siano meritevoli, negli "Annali" dell'Universita'.
-
-Art. 24. - All'istituto e' annessa una biblioteca retta da un apposito regolamento emanato dal preside su proposta della Facolta'.
-
-Art. 25. - Presso la Facolta' sono inoltre costituiti i seguenti Istituti speciali:
-
-1) Istituto di diritto privato;
-
-2) Istituto di diritto pubblico e processuale civile;
-
-3) Istituto di diritto romano;
-
-4) Istituto di storia, filosofia del diritto e diritto ecclesiastico;
-
-5) Istituto del diritto del lavoro e della previdenza sociale;
-
-6) Istituto di diritto e procedura penale;
-
-7) Istituto di diritto internazionale pubblico e privato;
-
-8) Istituto di economia e finanza.
-
-Ogni Istituto avra' autonomia amministrativa ai sensi dell'[art. 53 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art53) e disporra' di locali propri.
-
-Dopo l'art. 25 sono aggiunti i seguenti nuovi articoli relativi alla creazione dell'Istituto di medicina legale e delle assicurazioni con il conseguente spostamento della numerazione degli articoli successivi.
-
-Istituto di medicina legale e delle assicurazioni
-
-Art. 26. - Alla Facolta' di giurisprudenza e' annesso l'Istituto di medicina legale e delle assicurazioni.
-
-L'Istituto dispone, a norma dell'[art. 53 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art53), dei fondi ad esso assegnati e puo' eseguire le prestazioni a pagamento di cui all'articolo 49 dello stesso testo unico.
-
-Art. 27. - L'istituto di medicina legale ha compiti didattici e di ricerca scientifica. A tale effetto tra l'altro:
-
-a) promuove ricerche di Medicina sociale e di Patologia professionale con particolare riguardo alle regioni delle Marche e degli Abruzzi;
-
-b) da all'insegnamento teorico delle discipline medico-legali indirizzo dimostrativo sperimentale per l'addestramento dei giovani nella pratica forense;
-
-c) organizza corsi di lezioni e di esercitazioni pratiche in medicina legale per laureati in Giurisprudenza o in Medicina, e chirurgia.
-
-Art. 28. - La scelta e la durata dei corsi viene stabilita dal direttore dell'Istituto sentito il parere della Facolta', e le lezioni sono impartite dal direttore dell'Istituto, da professori ufficiali della Facolta' giuridica, da liberi docenti, o da altre persone di riconosciuta competenza.
-
-Alla fine di ogni corso, a coloro che hanno frequentato con assiduita' uno o piu' corsi, viene rilasciato, su proposta del direttore dell'Istituto, un attestato di frequenza controfirmato dal rettore dell'Universita'.
-
-Art. 29. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di:
-
-31) Filologia medioevale ed umanistica;
-
-32) Letteratura italiana moderna e contemporanea;
-
-33) Storia contemporanea.
-
-Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere moderne (ind. europeo) e' aggiunto quello di "Letteratura anglo-americana.
-
-Agli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti quelli di:
-
-17) Filosofia della storia;
-
-18) Filosofia delle religioni.
-
-Dopo l'art. 29 e' aggiunto il seguente nuovo articolo relativo alla creazione di alcuni Istituti annessi alla Facolta' di lettere e filosofia.
-
-Art. 30. - Presso la Facolta' di lettere e filosofia sono costituiti i seguenti Istituti:
-
-1) Istituto di filologia e storia antica;
-
-2) Istituto di filologia e storia medioevale;
-
-3) Istituto di filologia e storia moderna;
-
-4) Istituto di filosofia;
-
-5) Istituto di lingue e letterature straniere.
-
-Ogni istituto avra' autonomia amministrativa ai sensi dell'[art. 53 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art53) e disporra' di locali propri.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 8 ottobre 1965
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 12 novembre 1965 Atti del Governo, registro n. 198, foglio n. 19. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Macerata approvato con [regio decreto 20 aprile 1939, numero 1074](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1074) e modificato con [regio decreto 17 ottobre 1941, n. 1206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1206) e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Art. 36-bis. - Presso la facolta' di giurisprudenza e' istituita una scuola di specializzazione in medicina legale e delle assicurazioni. Ad essa possono iscriversi i laureati in medicina e chirurgia, giurisprudenza, scienze politiche, nonche', su autorizzazione della direzione della scuola, anche i laureati di altre facolta'.  
+La scuola svolge un corso della durata di tre anni sui seguenti insegnamenti che costituiscono oggetto degli esami speciali:  
+1° Anno:  
+medicina legale generale;  
+disciplina della responsabilita' penale;  
+diritto matrimoniale civile e canonico;  
+disciplina della responsabilita' civile;  
+tecnica e diagnostica anatomo-patologica generale e medico-legale;  
+traumatologia medico-legale;  
+semiotica medico-legale.  
+2° Anno:  
+medicina legale penalistica;  
+deontologia medica;  
+neuropsichiatria medico-legale;  
+elementi di medicina criminalistica e di medicina penitenziaria;  
+indagini di sopralluogo;  
+identificazione.  
+3° Anno:  
+medicina legale civilistica e canonistica;  
+tossicologia medico-legale;  
+tecniche di laboratorio medico-legale ed ematologia forense;  
+ostetricia e ginecologia forense;  
+elementi di legislazione del lavoro;  
+medicina delle assicurazioni e medicina legale militare e pensionistica civile;  
+elementi di medicina del lavoro.  
+Dopo il superamento di tutti gli esami e la discussione di una tesi originale, presentata per iscritto, su argomento attinente a materie oggetto del corso, verra' rilasciato il diploma di specializzazione in medicina legale e delle assicurazioni.  
+La scuola e' retta da un comitato composto dal preside della facolta' di giurisprudenza, che lo presiede; e da due professori, tra cui il direttore dell'istituto di medicina legale, al quale spetta la funzione di direttore della scuola, sempre che sia professore di ruolo; altrimenti il consiglio di facolta' nomina direttore un professore di ruolo.  
+Le tasse e soprattasse per la iscrizione alla scuola di specializzazione in medicina legale e delle assicurazioni sono fissate nel modo seguente:  
   
-Decreta:   
-  
-Lo statuto dell'Universita' degli studi di Macerata, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-Gli articoli dal 18 al 23 relativi all'istituto di esercitazioni giuridiche annesso alla Facolta' di giurisprudenza sono abrogati e sostituiti dai seguenti nuovi articoli con il conseguente spostamento della numerazione degli articoli successivi.   
-  
-TITOLO IV   
-Istituto di esercitazioni giuridiche   
-  
-Art. 18. - E' costituito presso la Facolta' di giurisprudenza un Istituto di esercitazioni giuridiche aventi i seguenti scopi generali:   
-a) organizzare corsi di specializzazione e addestramento professionale;   
-b) curare la pubblicazione di opere giuridiche;   
-c) funzionare come seminario ai sensi dell'art. 23 del regolamento generale universitario;   
-d) promuovere qualsiasi altra iniziativa culturale nel campo delle scienze giuridiche, come l'organizzazione di congressi, corsi, cicli di conferenze, incontri dibattiti, ecc. L'istituto ha autonomia amministrativa e dispone, a norma dell'[art. 53 del testo unico 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art53), dei fondi ad esso assegnati, nonche' degli eventuali proventi ricavati dallo svolgimento della sua attivita' ai sensi delle vigenti leggi.   
-Art. 19. - Il Consiglio della Facolta' di giurisprudenza elegge nel suo seno un direttore ed un vice direttore dell'istituto, che durano in carica un anno e sono rieleggibili.   
-Spetta al direttore fissare anno per anno, su conforme parere del Consiglio di Facolta', il programma dei lavori dell'Istituto.   
-Art. 20. - Prestano la loro opera nell'Istituto i professori ufficiali e le altre persone di riconosciuta competenza che vengono prescelte dal Consiglio di Facolta'.   
-Art. 21. - Sono ammessi a frequentare l'Istituto gli studenti iscritti al corso di Giurisprudenza, nonche' i laureati in Giurisprudenza da non oltre due anni.   
-Ad ogni corso non possono essere iscritti piu' di quindici alunni salvo apposita deliberazione del Consiglio. Qualora i richiedenti superino il numero di quindici, il direttore delibera quali tra i richiedenti debbono essere ammessi.   
-Art. 22. - Agli alunni che abbiano frequentato con diligenza uno o piu' corsi, prendendo parte alle esercitazioni che ne formano oggetto, viene rilasciato dal direttore dell'istituto, in base a relazione dei rispettivi docenti, un certificato che deve essere controfirmato dal preside della Facolta'.   
-Art. 23. - L'Istituto puo' bandire concorsi a premio tra gli alunni iscritti, con norme da determinarsi dal direttore.   
-Il direttore, sentito il Consiglio della Facolta', puo' deliberare la stampa dei lavori degli alunni che ne siano meritevoli, negli "Annali" dell'Universita'.   
-Art. 24. - All'istituto e' annessa una biblioteca retta da un apposito regolamento emanato dal preside su proposta della Facolta'.   
-Art. 25. - Presso la Facolta' sono inoltre costituiti i seguenti Istituti speciali:   
-1) Istituto di diritto privato;   
-2) Istituto di diritto pubblico e processuale civile;   
-3) Istituto di diritto romano;   
-4) Istituto di storia, filosofia del diritto e diritto ecclesiastico;   
-5) Istituto del diritto del lavoro e della previdenza sociale;   
-6) Istituto di diritto e procedura penale;   
-7) Istituto di diritto internazionale pubblico e privato;   
-8) Istituto di economia e finanza.   
-Ogni Istituto avra' autonomia amministrativa ai sensi dell'[art. 53 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art53) e disporra' di locali propri.   
-Dopo l'art. 25 sono aggiunti i seguenti nuovi articoli relativi alla creazione dell'Istituto di medicina legale e delle assicurazioni con il conseguente spostamento della numerazione degli articoli successivi.   
-  
-Istituto di medicina legale e delle assicurazioni   
-  
-Art. 26. - Alla Facolta' di giurisprudenza e' annesso l'Istituto di medicina legale e delle assicurazioni.   
-L'Istituto dispone, a norma dell'[art. 53 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art53), dei fondi ad esso assegnati e puo' eseguire le prestazioni a pagamento di cui all'articolo 49 dello stesso testo unico.   
-Art. 27. - L'istituto di medicina legale ha compiti didattici e di ricerca scientifica. A tale effetto tra l'altro:   
-a) promuove ricerche di Medicina sociale e di Patologia professionale con particolare riguardo alle regioni delle Marche e degli Abruzzi;   
-b) da all'insegnamento teorico delle discipline medico-legali indirizzo dimostrativo sperimentale per l'addestramento dei giovani nella pratica forense;   
-c) organizza corsi di lezioni e di esercitazioni pratiche in medicina legale per laureati in Giurisprudenza o in Medicina, e chirurgia.   
-Art. 28. - La scelta e la durata dei corsi viene stabilita dal direttore dell'Istituto sentito il parere della Facolta', e le lezioni sono impartite dal direttore dell'Istituto, da professori ufficiali della Facolta' giuridica, da liberi docenti, o da altre persone di riconosciuta competenza.   
-Alla fine di ogni corso, a coloro che hanno frequentato con assiduita' uno o piu' corsi, viene rilasciato, su proposta del direttore dell'Istituto, un attestato di frequenza controfirmato dal rettore dell'Universita'.   
-Art. 29. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di:   
-31) Filologia medioevale ed umanistica;   
-32) Letteratura italiana moderna e contemporanea;   
-33) Storia contemporanea.   
-Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere moderne (ind. europeo) e' aggiunto quello di "Letteratura anglo-americana.   
-Agli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti quelli di:   
-17) Filosofia della storia;   
-18) Filosofia delle religioni.   
-Dopo l'art. 29 e' aggiunto il seguente nuovo articolo relativo alla creazione di alcuni Istituti annessi alla Facolta' di lettere e filosofia.   
-Art. 30. - Presso la Facolta' di lettere e filosofia sono costituiti i seguenti Istituti:   
-1) Istituto di filologia e storia antica;   
-2) Istituto di filologia e storia medioevale;   
-3) Istituto di filologia e storia moderna;   
-4) Istituto di filosofia;   
-5) Istituto di lingue e letterature straniere.   
-Ogni istituto avra' autonomia amministrativa ai sensi dell'[art. 53 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art53) e disporra' di locali propri.   
+1) tassa annuale di iscrizione . . . . . . . . . . . . . . L. 150.000 2) soprattassa annuale di esame. . . . . . . . . . . . . . . L. 5.000 3) soprattassa esame diploma . . . . . . . . . . . . . . . . L. 5.000 4) tassa diploma . . . . . . . . . . . . . . . . . . . . . . L. 6.000 5) tassa fuori corso. . . . . . . . . . . . . . . . . . . . L. 10.000   
+I suddetti introiti sono integrati ai fini del funzionamento della scuola, da un contributo dell'Universita' e da quelli eventuali di altri enti o privati.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 ottobre 1965
+### Dato a Roma, addi' 30 ottobre 1979
 
-SARAGAT GUI
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 12 novembre 1965
+Registrato alla Corte dei conti, addi' 14 febbraio 1980
 
-Atti del Governo, registro n. 198, foglio n. 19. - VILLA
+Registro n. 10 Istruzione, foglio n. 394

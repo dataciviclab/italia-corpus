@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1970 n. 543
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1964 n. 110
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1970 n. 543
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1964 n. 110
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -10,216 +10,177 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), Riconvertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla risposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 118 e con il conseguente spostamento della numerazione degli articoli successivi e' inserito il seguente nuovo articolo relativo alla istituzione del corso di laurea in "Chimica e tecnologia farmaceutiche" annesso alla facolta' di farmacia.
+Art. 16. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di:
 
-Laurea in chimica e tecnologia farmaceutiche
+17) Organizzazione internazionale.
 
-Art. 119. - Titolo di ammissione e' quello previsto dalle vigenti disposizioni di legge.
+Dopo l'art. 206, e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Odontoiatria e stomatologia.
 
-La durata del corso degli studi per il conseguimento della laurea in chimica e tecnologia farmaceutiche e' di cinque anni, diviso in un biennio ed un triennio.
+Scuola di specializzazione in Odontoiatria e stomatologia
 
-Materie di insegnamento:
+Art. 207. - E' istituita la Scuola di specializzazione in Odontoiatria e stomatologia.
 
-Insegnamenti fondamentali:
+La Scuola e' sottoposta alle regolamentazioni generali fissate dallo statuto delle Scuole di specializzazione annesse alla Facolta' di medicina e chirurgia dell'Universita' degli studi di Parma.
 
-Biennio:
+Art. 208. - La durata del corso degli studi per il conseguimento del diploma di specialista in Odontoiatria e stomatologia e' di 2 anni.
 
-1) Analisi chimico farmaceutica I (analisi qualitativa); \* 2) Anatomia umana;
+Sono ammessi alla Scuola i laureati in Medicina e chirurgia e l'iscrizione per ogni anno accademico e' limitata a quindici allievi.
 
-\* 3) Botanica farmaceutica;
+Art. 209. Le materie di insegnamento sono cosi' ripartite:
 
-\* 4) Chimica fisica;
+1° anno:
 
-\* 5) Chimica generale ed inorganica;
+1) Embriologia, Anatomia, Istologia e Fisiologia orale;
 
-\*\* 6) Chimica organica;
+2) Anatomia e istologia patologica;
 
-\* 7) Fisica;
+3) Microbiologia e igiene orale;
 
-8) Fisiologia generale;
+4) Patologia speciale e semeiotica della bocca e dei denti;
 
-\* 9) Istituzioni di matematiche;
+5) Chirurgia orale-dentale e anestesiologia;
 
-10) Microbiologia e igiene.
+6) Odontoiatria conservatrice;
 
-Triennio:
+7) Ortognatodonzia (I);
 
-11) Analisi chimico farmaceutica II (analisi
+8) Protesi fissa e odontotecnica (I) 9) Protesi mobile e odontotecnica (I) 10) Radiologia dentale.
 
-quantitativa);
+2° anno:
 
-12) Analisi chimico farmaceutica III (analisi dei
+1) Clinica stomatologica;
 
-medicamenti);
+2) Odontoiatria conservatrice;
 
-\* 13) Biochimica applicata;
+3) Ortognatodonzia (II);
 
-\* 14) Chimica biologica;
+4) Protesi fissa e odontotecnica (II)
 
-\* 15) Chimica degli alimenti;
+5) Protesi mobile e odontotecnica (II)
 
-\* 16) Chimica farmaceutica applicata;
+6) Chirurgia Maxillo-facciale;
 
-\* 17) Chimica farmaceutica e tossicologica I;
+7) Parodontologia;
 
-\* 18) Chimica farmaceutica e tossicologica II;
+8) Radiologia stomatologica.
 
-\*\* 19) Chimica organica II;
+Art. 210. - Durante gli anni del corso saranno tenute anche lezioni e conferenze di carattere complementare su argomenti di Medicina e chirurgia generale, di Pediatria, di Dermatologia, di Otorinolaringoiatria, di Oculistica di Medicina legale, ecc.
 
-\* 20) Farmacologia e farmacognosia;
+L'insegnamento teorico sara' integrato da esercitazioni pratiche delle varie discipline.
 
-21) Impianti dell'industria farmaceutica;
+Art. 211. - Alla fine di ciascun anno di corso gli allievi dovranno sostenere un esame di profitto teorico e pratico sulle materie che sono state oggetto di insegnamento.
 
-22) Laboratorio di preparazione estrattiva e sintetica dei
+Art. 212. - Per il conseguimento del diploma di specialista in Odontoiatria e stomatologia l'allievo dovra' presentare e discutere una dissertazione scritta su un argomento della specialita', e superare una prova tecnica dinnanzi alla apposita Commissione.
 
-farmaci;
+Art. 213. - Gli iscritti, durante i due anni di corso, hanno l'obbligo della frequenza a tutti gli insegnamenti teorici e pratici impartiti, nonche' agli internati stabiliti dal direttore.
 
-23) Metodi fisici in chimica organica;
+Art. 214. - Gli insegnanti della Scuola sono scelti fra i docenti del corso di laurea in Medicina e chirurgia. Per taluni particolari insegnamenti il direttore della Scuola puo' avvalersi di docenti di altra Facolta' o di esperti nella materia.
 
-24) Saggi e dosaggi farmacologici;
-
-\* 25) Tecnica e legislazione farmaceutica.
-
-Insegnamenti complementari:
-
-\* Complementi di chimica tossicologica;
-
-\* Chimica delle fermentazioni;
-
-\* Chimica delle sostanze naturali;
-
-Microchimica;
-
-Chimica dei prodotti dietetici;
-
-Chimica dei prodotti cosmetici;
-
-\* Strutturistica chimica.
-
-Le materie segnate con un asterisco sono comuni alla laurea in farmacia; quelle segnate con due asterischi sono comuni alla laurea in chimica.
-
-Per ottenere l'iscrizione al terzo anno lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per i due anni precedenti.
-
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato tutti gli esami dei corsi fondamentali e almeno due esami a scelta fra i corsi complementari.
-
-La prova di laurea comporta la discussione di una tesi sperimentale.
+Di uno stesso insegnamento genericamente indicato nell'elenco di cui all'art. 209 possono venire incaricati piu' docenti aventi specifica competenza nelle diverse parti del programma.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 18 maggio 1970
+Dato a Roma, addi' 18 febbraio 1964
 
-SARAGAT
+SEGNI
 
-MISASI
+GUI
 
 Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 24 luglio 1970 Atti del Governo, registro n. 236, foglio n. 179. - IZZI
+alla Corte dei conti, addi' 18 marzo 1964 Atti del Governo, registro n. 182, foglio n. 48. - VILLA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla risposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), Riconvertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 118 e con il conseguente spostamento della numerazione degli articoli successivi e' inserito il seguente nuovo articolo relativo alla istituzione del corso di laurea in "Chimica e tecnologia farmaceutiche" annesso alla facolta' di farmacia.   
+Art. 16. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di:  
+17) Organizzazione internazionale.  
+Dopo l'art. 206, e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Odontoiatria e stomatologia.  
   
-Laurea in chimica e tecnologia farmaceutiche   
+Scuola di specializzazione in Odontoiatria e stomatologia  
   
-Art. 119. - Titolo di ammissione e' quello previsto dalle vigenti disposizioni di legge.   
-La durata del corso degli studi per il conseguimento della laurea in chimica e tecnologia farmaceutiche e' di cinque anni, diviso in un biennio ed un triennio.   
-Materie di insegnamento:   
-Insegnamenti fondamentali:   
-Biennio:   
-1) Analisi chimico farmaceutica I (analisi qualitativa); \* 2) Anatomia umana;   
-\* 3) Botanica farmaceutica;   
-\* 4) Chimica fisica;   
-\* 5) Chimica generale ed inorganica;   
-\*\* 6) Chimica organica;   
-\* 7) Fisica;   
-8) Fisiologia generale;   
-\* 9) Istituzioni di matematiche;   
-10) Microbiologia e igiene.   
-Triennio:   
-11) Analisi chimico farmaceutica II (analisi   
-quantitativa);   
-12) Analisi chimico farmaceutica III (analisi dei   
-medicamenti);   
-\* 13) Biochimica applicata;   
-\* 14) Chimica biologica;   
-\* 15) Chimica degli alimenti;   
-\* 16) Chimica farmaceutica applicata;   
-\* 17) Chimica farmaceutica e tossicologica I;   
-\* 18) Chimica farmaceutica e tossicologica II;   
-\*\* 19) Chimica organica II;   
-\* 20) Farmacologia e farmacognosia;   
-21) Impianti dell'industria farmaceutica;   
-22) Laboratorio di preparazione estrattiva e sintetica dei   
-farmaci;   
-23) Metodi fisici in chimica organica;   
-24) Saggi e dosaggi farmacologici;   
-\* 25) Tecnica e legislazione farmaceutica.   
-Insegnamenti complementari:   
-\* Complementi di chimica tossicologica;   
-\* Chimica delle fermentazioni;   
-\* Chimica delle sostanze naturali;   
-Microchimica;   
-Chimica dei prodotti dietetici;   
-Chimica dei prodotti cosmetici;   
-\* Strutturistica chimica.   
-Le materie segnate con un asterisco sono comuni alla laurea in farmacia; quelle segnate con due asterischi sono comuni alla laurea in chimica.   
-Per ottenere l'iscrizione al terzo anno lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per i due anni precedenti.   
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato tutti gli esami dei corsi fondamentali e almeno due esami a scelta fra i corsi complementari.   
-La prova di laurea comporta la discussione di una tesi sperimentale.   
+Art. 207. - E' istituita la Scuola di specializzazione in Odontoiatria e stomatologia.  
+La Scuola e' sottoposta alle regolamentazioni generali fissate dallo statuto delle Scuole di specializzazione annesse alla Facolta' di medicina e chirurgia dell'Universita' degli studi di Parma.  
+Art. 208. - La durata del corso degli studi per il conseguimento del diploma di specialista in Odontoiatria e stomatologia e' di 2 anni.  
+Sono ammessi alla Scuola i laureati in Medicina e chirurgia e l'iscrizione per ogni anno accademico e' limitata a quindici allievi.  
+Art. 209. Le materie di insegnamento sono cosi' ripartite:  
+1° anno:  
+1) Embriologia, Anatomia, Istologia e Fisiologia orale;  
+2) Anatomia e istologia patologica;  
+3) Microbiologia e igiene orale;  
+4) Patologia speciale e semeiotica della bocca e dei denti;  
+5) Chirurgia orale-dentale e anestesiologia;  
+6) Odontoiatria conservatrice;  
+7) Ortognatodonzia (I);  
+8) Protesi fissa e odontotecnica (I) 9) Protesi mobile e odontotecnica (I) 10) Radiologia dentale.  
+2° anno:  
+1) Clinica stomatologica;  
+2) Odontoiatria conservatrice;  
+3) Ortognatodonzia (II);  
+4) Protesi fissa e odontotecnica (II)  
+5) Protesi mobile e odontotecnica (II)  
+6) Chirurgia Maxillo-facciale;  
+7) Parodontologia;  
+8) Radiologia stomatologica.  
+Art. 210. - Durante gli anni del corso saranno tenute anche lezioni e conferenze di carattere complementare su argomenti di Medicina e chirurgia generale, di Pediatria, di Dermatologia, di Otorinolaringoiatria, di Oculistica di Medicina legale, ecc.  
+L'insegnamento teorico sara' integrato da esercitazioni pratiche delle varie discipline.  
+Art. 211. - Alla fine di ciascun anno di corso gli allievi dovranno sostenere un esame di profitto teorico e pratico sulle materie che sono state oggetto di insegnamento.  
+Art. 212. - Per il conseguimento del diploma di specialista in Odontoiatria e stomatologia l'allievo dovra' presentare e discutere una dissertazione scritta su un argomento della specialita', e superare una prova tecnica dinnanzi alla apposita Commissione.  
+Art. 213. - Gli iscritti, durante i due anni di corso, hanno l'obbligo della frequenza a tutti gli insegnamenti teorici e pratici impartiti, nonche' agli internati stabiliti dal direttore.  
+Art. 214. - Gli insegnanti della Scuola sono scelti fra i docenti del corso di laurea in Medicina e chirurgia. Per taluni particolari insegnamenti il direttore della Scuola puo' avvalersi di docenti di altra Facolta' o di esperti nella materia.  
+Di uno stesso insegnamento genericamente indicato nell'elenco di cui all'art. 209 possono venire incaricati piu' docenti aventi specifica competenza nelle diverse parti del programma.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 maggio 1970
+### Dato a Roma, addi' 18 febbraio 1964
 
-SARAGAT MISASI
+SEGNI GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 24 luglio 1970
+Registrato alla Corte dei conti, addi' 18 marzo 1964
 
-Atti del Governo, registro n. 236, foglio n. 179. - IZZI
+Atti del Governo, registro n. 182, foglio n. 48. - VILLA

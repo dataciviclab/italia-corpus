@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 148
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 521
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 148
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 521
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in 
 Roma, ad accettare una eredita'.
@@ -13,8 +13,8 @@ Art. 1
 
 N.
 
-148. Decreto del Presidente della Repubblica 26 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dal sig. Fallabrino Giuseppe, a favore del pio Istituto don Gnocchi, con testamento olografo 16 dicembre 1971, pubblicato a rogito dott. Giovanni Saguato, notaio in Imperia, in data 27 aprile 1977, n. 48024 di repertorio e n. 6560 di fascicolo, registrato ad Imperia il 5 maggio 1977 al n. 1516, consistente in beni mobili ed immobili del valore, al netto delle passivita', di L. 131.974.984.  
+521. Decreto del Presidente della Repubblica 17 maggio 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' consistente nella quota di meta' di un immobile sito in Milano, via Varese, 14, distinto nel nuovo catasto edilizio urbano alla partita 75764, foglio 311, particelle 205-207-209, valore attribuito con perizia di parte L. 460.000.000, elevato dall'ufficio tecnico erariale di Milano a L. 800.000.000, quota 1/2 = L. 400.000.000; passivita' come da inventario, L. 1.815.400, restano L. 398.184.600, disposta dalla sig.ra Airaghi Agnese a favore dell'istituto "Mutilatini don Gnocchi", che si identifica con la fondazione "Pro juventute De Carlo Gnocchi" come risulta dal verbale del consiglio di amministrazione della fondazione stessa in data 16 gennaio 1984, con testamento olografo 5 giugno 1970, pubblicato con atto 9 maggio 1983, n. 41256 di repertorio e n. 4829 di raccolta, a rogito dott. Alberto Roncoroni, notaio in Milano, registrato a Milano il 30 maggio 1983 dal n. 13213.   
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 31 marzo 1982  
-Registro n. 3 Presidenza, foglio n. 119
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 14 agosto 1986   
+Registro n. 8 Presidenza, foglio n. 117

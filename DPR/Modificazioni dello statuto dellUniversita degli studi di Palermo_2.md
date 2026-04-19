@@ -1,141 +1,75 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1948 n. 1431
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1969 n. 274
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1948 n. 1431
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1969 n. 274
+============================================================
 
 Modificazioni dello statuto dell'Universita' degli studi di Palermo.
 --------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Visto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con i [regi decreti 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2240); [31 ottobre 1929, n. 2477](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1929-10-31;2477); [30 ottobre 1930, n. 1844](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1844); [1 ottobre 1931, n. 1379](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1379); [20 ottobre 1932, n. 1806](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-20;1806); [26 ottobre 1933, n. 1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1933-10-26;1991); [6 dicembre 1934, n. 2430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2430); [1 ottobre 1936, n. 2449](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2449); [23 giugno 1939, n. 1167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-06-23;1167); [27 aprile 1942, n. 485](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;485); [11 luglio 1942, n. 922](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-11;922); [5 settembre 1942, n. 1429, e con il decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-09-05;1429) [13 luglio 1947, n. 826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-07-13;826);
-
-Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Visto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Viste le proposte relative allo stato dell'Universita' anzidetta;
-
-Considerata la particolare necessita' delle modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica, istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati e' cosi' ulteriormente modificato:
-
-Dopo l'art. 112 vengono aggiunti i seguenti nuovi articoli:
-
-Scuola di specializzazione in otorinolaringoiatria:
-
-Art. 113. - Alla scuola che ha sede nel Policlinico della Feliciuzza nei locali della clinica otorinolaringoiatrica vengono ammessi i laureati in medicina, e chirurgia. Il corso ha la durata di tre anni.
-
-Il numero degli iscritti alla scuola non puo' essere superiore a tre per ogni anno.
-
-Art. 114. - Sono materie di insegnamento:
-
-1) patologia e clinica, otorinolaringoiatrica (triennale);
-
-2) clinica malattie infettive in rapporto alla otorinolaringoiatria (annuale);
-
-3) clinica radiologica, in rapporto alla otorinolaringoiatria (annuale);
-
-4) clinica oculistica in rapporto alla otorinolaringoiatria (annuale);
-
-5) clinica pediatrica in rapporto alla otorinolaringoiatria (annuale);
-
-6) clinica neuropatologica in rapporto alla otorinolaringoiatria (annuale);
-
-7) fonetica biologica (annuale);
-
-8) istologia patologica in rapporto alla otorinolaringoiatria (annuale);
-
-9) medicina operatoria in rapporto alla otorinolaringoiatria (annuale);
-
-10) anatomia e fisiologia dell'orecchio (annuale);
-
-11) semiologia otorinolaringoiatrica (triennale);
-
-12) esercitazioni cliniche (triennale).
-
-Le materie di insegnamento sono cosi' ripartite:
-
-1° anno: Anatomia e fisiologia dell'orecchio e del naso - Fonetica - Patologia e clinica otorinolaringoiatrica. - Esercitazioni cliniche - Istologia patologica - Clinica malattie infettive - Semiologia otorinolaringoiatrica - Medicina operatoria.
-
-2° anno: Clinica radiologica - Clinica oculistica - Clinica pediatrica e clinica neuropatologica in rapporto alla specialita' - Patologia e clinica otorinolaringoiatrica - Semiologia otorinolaringoiatrica ed esercitazioni cliniche.
-
-3° anno: Patologia e clinica otorinolaringoiatrica - Semiologia otorinolaringoiatrica ed esercitazioni cliniche.
-
-Art. 115. - Per le modalita' valgono le norme delle altre scuole di specializzazione esistenti presso questa Universita'.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 28 ottobre 1948
-
-EINAUDI
-
-GONELLA
-
-Visto il Guardasigilli: GRASSI
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 13 dicembre 1948 Atti del Governo, registro n. 25, foglio n. 87. - CARLOMAGNO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Visto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con i [regi decreti 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2240); [31 ottobre 1929, n. 2477](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1929-10-31;2477); [30 ottobre 1930, n. 1844](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1844); [1 ottobre 1931, n. 1379](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1379); [20 ottobre 1932, n. 1806](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-20;1806); [26 ottobre 1933, n. 1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1933-10-26;1991); [6 dicembre 1934, n. 2430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2430); [1 ottobre 1936, n. 2449](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2449); [23 giugno 1939, n. 1167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-06-23;1167); [27 aprile 1942, n. 485](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;485); [11 luglio 1942, n. 922](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-11;922); [5 settembre 1942, n. 1429, e con il decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-09-05;1429) [13 luglio 1947, n. 826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-07-13;826);  
-Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Visto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Viste le proposte relative allo stato dell'Universita' anzidetta;  
-Considerata la particolare necessita' delle modifiche proposte;  
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica, istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati e' cosi' ulteriormente modificato:  
-Dopo l'art. 112 vengono aggiunti i seguenti nuovi articoli:  
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Scuola di specializzazione in otorinolaringoiatria:  
+Art. 24. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia e' aggiunto quello di:  
+18) Sociologia.  
+Dopo l'art. 33 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente nuovo articolo relativo alla istituzione dell'istituto di filologia latina annesso alla facolta' di lettere e filosofia.  
   
-Art. 113. - Alla scuola che ha sede nel Policlinico della Feliciuzza nei locali della clinica otorinolaringoiatrica vengono ammessi i laureati in medicina, e chirurgia. Il corso ha la durata di tre anni.  
-Il numero degli iscritti alla scuola non puo' essere superiore a tre per ogni anno.  
-Art. 114. - Sono materie di insegnamento:  
-1) patologia e clinica, otorinolaringoiatrica (triennale);  
-2) clinica malattie infettive in rapporto alla otorinolaringoiatria (annuale);  
-3) clinica radiologica, in rapporto alla otorinolaringoiatria (annuale);  
-4) clinica oculistica in rapporto alla otorinolaringoiatria (annuale);  
-5) clinica pediatrica in rapporto alla otorinolaringoiatria (annuale);  
-6) clinica neuropatologica in rapporto alla otorinolaringoiatria (annuale);  
-7) fonetica biologica (annuale);  
-8) istologia patologica in rapporto alla otorinolaringoiatria (annuale);  
-9) medicina operatoria in rapporto alla otorinolaringoiatria (annuale);  
-10) anatomia e fisiologia dell'orecchio (annuale);  
-11) semiologia otorinolaringoiatrica (triennale);  
-12) esercitazioni cliniche (triennale).  
-Le materie di insegnamento sono cosi' ripartite:  
-1° anno: Anatomia e fisiologia dell'orecchio e del naso - Fonetica - Patologia e clinica otorinolaringoiatrica. - Esercitazioni cliniche - Istologia patologica - Clinica malattie infettive - Semiologia otorinolaringoiatrica - Medicina operatoria.  
-2° anno: Clinica radiologica - Clinica oculistica - Clinica pediatrica e clinica neuropatologica in rapporto alla specialita' - Patologia e clinica otorinolaringoiatrica - Semiologia otorinolaringoiatrica ed esercitazioni cliniche.  
-3° anno: Patologia e clinica otorinolaringoiatrica - Semiologia otorinolaringoiatrica ed esercitazioni cliniche.  
-Art. 115. - Per le modalita' valgono le norme delle altre scuole di specializzazione esistenti presso questa Universita'.  
+Istituto di filologia latina.  
+  
+Art. 34. - Alla cattedra di letteratura latina della facolta' di lettere dell'Universita' di Palermo e' annesso l'istituto di filologia latina.  
+L'istituto ha lo scopo di coordinare e di potenziare l'insegnamento della letteratura latina e delle discipline ad essa afferenti.  
+L'istituto ha sede nei locali della facolta' di lettere e filosofia dell'Universita' di Palermo.  
+La direzione dell'istituto di filologia latina spetta al titolare della cattedra di letteratura latina.  
+Presso l'istituto prestano servizio gli assistenti, i borsisti e i tecnici attualmente in servizio o che comunque vengano assunti dalla cattedra di letteratura latina.  
+Per il raggiungimento dei propri fini l'istituto dispone del materiale didattico e scientifico appropriato e di una propria biblioteca, da costituirsi quest'ultima con un fondo di libri gia' esistenti e con singoli donatevi a scambi.  
+Con la dotazione assegnata all'istituto dal consiglio di amministrazione dell'universita', nonche' con eventuali contributi di altri enti o istituzioni, l'istituto di filologia latina potra' provvedere alle proprie attivita' scientifiche e didattiche.  
+Art. 89. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:  
+18) Sociologia;  
+19) Economia montana e forestale (semestrale);  
+20) Storia dell'agricoltura (semestrale);  
+21) Politica agraria e comparata (semestrale);  
+22) Lotta biologica (semestrale);  
+23) Entomologia forestale (semestrale);  
+24) Chimica delle fermentazioni (semestrale);  
+25) Chimica e tecnologia degli alimenti (semestrale);  
+26) Biochimica;  
+27) Alimentazione del bestiame;  
+28) Agrumicoltura;  
+29) Propagazione delle piante e tecnica vivaistica (semestrale);.  
+30) Meccanizzazione dell'agricoltura (semestrale);  
+31) Virologia (semestrale);  
+32) Metodologia sperimentale agraria (semestrale);  
+33) Genetica agraria.  
+Nello stesso corso di laurea gli insegnamenti complementari di: viticoltura, orticoltura e floricoltura; alpicoltura e selvicoltura; avicoltura e coniglicoltura da semestrali passano annuali.  
+Art. 93, relativo alle propedeuticita' della facolta' di agraria e' modificato nel senso che e' aggiunta la seguente norma:  
+c) "l'esame di zootecnica generale sia reso propedeutico rispetto a quello di zootecnica speciale".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1948
+### Dato a Roma, addi' 31 marzo 1969
 
-EINAUDI GONELLA Visto il Guardasigilli: GRASSI
+SARAGAT FERRARI AGGRADI
 
-Registrato alla Corte dei conti, addi' 13 dicembre 1948
+Visto, il Guardasigilli: GAVA
 
-Atti del Governo, registro n. 25, foglio n. 87. - CARLOMAGNO
+Registrato alla Corte dei conti, addi' 3 giugno 1969
+
+Atti del Governo, registro n. 227, foglio n. 6. - GRECO

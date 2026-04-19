@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1952 n. 1217
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1952 n. 4518
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1952 n. 1217
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1952 n. 4518
+================================================================
 
 Autorizzazione all'Universita' di Bologna ad accettare una donazione.
 ---------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1217. Decreto del Presidente della Repubblica 31 luglio 1952, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Bologna viene autorizzata ad accettare la donazione della somma di L. 500.000 nominali, in titoli di Stato 5% e di lire 4790 in contanti, disposta in suo favore dal prof. Tullio Ascarelli con atto pubblico amministrativo in data 1 febbraio 1949 per l'istituzione di un premio di studio biennale da denominarsi "Premio Libero Bodaro'" e da conferirsi ad uno studente o laureato della Facolta' di giurisprudenza dell'Universita' stessa per uno studio che abbia per oggetto problemi ed istituti di uno o piu' tra i sistemi giuridici del continente americano o problemi della emigrazione italiana nel continente americano.  
+4518. Decreto del Presidente della Repubblica 27 dicembre 1952, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Bologna viene autorizzata ad accettare la donazione di lire 910.000 nominali, in titoli di Stato 5%, disposta in suo favore dalla sig.ra Anna Jacchia d'Ajutolo e dalle figlie dott.sse Valeria Jacchia e Adriana Jacchia in Olivo, con atti pubblici amministrativi rispettivamente in data 28 ottobre 1947, n. 254 e 8 marzo 1951, n. 281, per l'istituzione di una borsa di studio da intitolarsi "Borsa di studio avv. Mario Jacchia" e da conferirsi annualmente ad uno studente dell'ultimo anno di giurisprudenza dell'Universita' medesima, che risulti vincitore nel concorso su argomento di diritto civile e che sia di modesta famiglia, cittadino italiano o del territorio di Trieste, di nazionalita' italiana, e che abbia riportato la votazione di almeno 27/30 nell'esame di diritto civile.  
   
 Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 17 settembre 1952  
-Atti del Governo, registro n. 58, foglio n. 23. - FRASCA
+Registrato alla Corte dei conti, addi' 17 marzo 1953  
+Atti del Governo, registro n. 75, foglio n. 94. - PALLA

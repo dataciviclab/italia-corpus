@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 luglio 1973 n. 563
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 dicembre 1972 n. 964
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 luglio 1973 n. 563
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 dicembre 1972 n. 964
+===============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, con sede in Roma, ad acquistare un immobile.
 -------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-563. Decreto del Presidente della Repubblica 17 luglio 1973, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede in Roma, viene autorizzata ad acquistare, dalla societa' Impresa Patuzzo di Patuzzo Emilio, Giancarlo e C., con sede in Verona, un appartamento composto di quattro vani, ingresso e servizi, al piano rialzato, e di un vano ad uso cantina al piano scantinato, situato nel fabbricato condominiale denominato "Condominio Carlo Montanari", ubicato in Verona, via Interrato Acqua Morta n. 4, al prezzo di L. 12.240.000, da destinare a sede della locale sezione interprovinciale.  
+964. Decreto del Presidente della Repubblica 6 dicembre 1972, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede in Roma, viene autorizzata ad acquistare dalla signora Maria Alessandrina Ursitti, vedova Romano, al convenuto prezzo di L. 9.200.000, un appartamento al 1° piano, composto di vani sei e accessori, sito in Foggia, via Gorizia, 48.  
   
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 17 settembre 1973  
-Atti di Governo, registro n. 260, foglio n. 29. - VALENTINI
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 23 gennaio 1973  
+Atti di Governo, registro n. 255, foglio n. 62. - VALENTINI

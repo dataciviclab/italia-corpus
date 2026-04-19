@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 luglio 1979 n. 600
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 aprile 1977 n. 401
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 luglio 1979 n. 600
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 aprile 1977 n. 401
 =============================================================
 
 Modificazioni alle circoscrizioni territoriali della Marina mercantile.
@@ -14,7 +14,7 @@ Visto il [decreto del Presidente della Repubblica 9 agosto 1956, n. 1250](http:/
 
 Visto l'[art. 16 del codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art16), approvato con [regio decreto 30 marzo 1942, n. 327](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327);
 
-Visti gli articoli 1 e 2 del regolamento per l'esecuzione del [codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327) (navigazione marittima), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-15;328);
+Visti gli articoli 1 e 2 del regolamento per l'esecuzione del [codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327) (navigazione marittima) approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-15;328);
 
 Attesa la necessita' di apportare alcune modifiche alle circoscrizioni territoriali della Marina mercantile;
 
@@ -25,51 +25,43 @@ Sentito il Consiglio dei Ministri;
 Sulla
 -----
 
-proposta del Ministro della marina mercantile, di concerto con i Ministri di grazia e giustizia, della difesa e del tesoro; Decreta:
+proposta del Ministro per la marina mercantile, di concerto con i Ministri per la grazia e giustizia, per la difesa e per il tesoro; Decreta:
 
 Art. 1
 ------
 
   
-Nell'ambito del circondario marittimo di Pozzuoli e' istituita la delegazione di spiaggia di 1ª classe di Castelvolturno.  
+L'ufficio locale marittimo di Termoli viene elevato a circondario marittimo ed assume la denominazione di ufficio circondariale marittimo di Termoli.  
 
 Art. 2
 ------
 
   
-La circoscrizione territoriale del circondario marittimo di Pozzuoli, in conseguenza della istituzione di cui all'art. 1, e' variata in conformita' alla tabella unita al presente decreto, firmata dai Ministri della marina mercantile, di grazia e giustizia, della difesa e del tesoro.  
+I limiti territoriali del circondario marittimo di Ortona, in conseguenza della modificazione di cui all'articolo 1, sono variati in conformita' alla tabella unita al presente decreto, firmata dai Ministri per la marina mercantile, per la grazia e giustizia, per la difesa e per il tesoro.  
 
 Art. 3
 ------
 
   
-La tabella della circoscrizione territoriale della direzione marittima di Ancona, allegata al [decreto del Presidente della Repubblica 22 aprile 1977, n. 401](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-04-22;401), viene adeguata alle disposizioni del [decreto del Presidente della Repubblica 27 dicembre 1976, n. 1053](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-12-27;1053), e, pertanto, sostituita dalla corrispondente tabella unita al presente decreto, firmata dai Ministri della marina mercantile, di grazia e giustizia, della difesa e del tesoro.  
-
-Art. 4
-------
-
-  
-  
-Il presente decreto entra in vigore trenta giorni dopo la sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.   
+Il presente decreto entra in vigore trenta giorni dopo la sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dai decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 luglio 1979
+### Dato a Roma, addi' 22 aprile 1977
 
-PERTINI ANDREOTTI - PRETI - MORLINO - RUFFINI - PANDOLFI
+LEONE ANDREOTTI - RUFFINI - BONIFACIO - LATTANZIO - STAMMATI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 26 novembre 1979
+Registrato alla Corte dei conti, addi' 8 luglio 1977
 
-Atti di Governo, registro n. 24, foglio n. 9
+Atti di Governo, registro n. 13, foglio n. 31
 
 Allegato
 
- CIRCOSCRIZIONI TERRITORIALI DELLA MARINA MERCANTILE   
+ Allegato   
   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=079U060000100010110001&dgu=1979-11-30&art.dataPubblicazioneGazzetta=1979-11-30&art.codiceRedazionale=079U0600)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=077U040100100010110001&dgu=1977-07-15&art.dataPubblicazioneGazzetta=1977-07-15&art.codiceRedazionale=077U0401)
   

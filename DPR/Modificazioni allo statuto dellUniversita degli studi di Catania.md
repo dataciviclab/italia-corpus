@@ -1,56 +1,47 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1986 n. 1113
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 luglio 1948 n. 1160
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1986 n. 1113
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 luglio 1948 n. 1160
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Visto lo statuto dell'Universita' degli studi di Catania, approvato con regio decreto 28 aprile 1939, e successive modificazioni;
-
-Visto il decreto del Presidente della Repubblica 28 febbraio 1980 con il quale e' approvata la tabella XVIII-bis dell'ordinamento didattico universitario, relativa al corso di laurea in odontoiatria e protesi dentaria;
-
-Visto il [decreto del Presidente della Repubblica 25 settembre 1980, n. 690](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-09-25;690), con il quale e' istituito il corso di laurea in odontoiatria e protesi dentaria presso la facolta' di medicina e chirurgia dell'Universita' degli studi di Catania;
-
-Visto l'[art. 54 del decreto del Presidente della Repubblica 25 settembre 1980, n. 690](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-09-25;690~art54), che disciplina il corso di laurea in odontoiatria e protesi dentaria istituito con il decreto del Presidente della Repubblica sopracitato presso l'Ateneo di Catania;
-
-Visto il [decreto del Presidente della Repubblica 31 ottobre 1981, n. 1089](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-10-31;1089), con cui viene modificata la tabella XVIII-bis dell'ordinamento didattico universitario;
-
-Visto il [decreto del Presidente della Repubblica 22 dicembre 1982, n. 1143](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-12-22;1143), con il quale e' ulteriormente modificata la tabella XVIII-bis dell'ordinamento didattico universitario;
-
-Viste le richieste di modifica di statuto deliberate dagli organi accademici dell'Universita' degli studi di Catania ai fini dell'adeguamento del corso di laurea in odontoiatria e protesi dentaria ai [decreti del Presidente della Repubblica 31 ottobre 1981, n. 1089](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-10-31;1089) e [22 dicembre 1982, n. 1143](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-12-22;1143); Sentito il Consiglio universitario nazionale;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Nell'art. 54, relativo al corso di laurea in odontoiatria e protesi dentaria sono eliminati tutti gli asterischi indicati a fianco degli insegnamenti fondamentali e complementari.  
-L'insegnamento "istituzioni di anatomia ed istologia patologica", compreso nel biennio ed elencato al n. 10 degli insegnamenti fondamentali, viene inserito nel triennio e, dopo il conseguente scorrimento della numerazione esistente, prende il n. 15.  
-Nel [decreto del Presidente della Repubblica 25 settembre 1980, n. 690](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-09-25;690), sono soppressi i seguenti commi:  
-"Gli insegnamenti con asterisco sono mutuati dal corso di laurea in medicina e chirurgia".  
-"Altri insegnamenti complementari nel piano della Facolta' sempre mutuati dal corso di laurea in medicina e chirurgia".  
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), modificato con i [regi decreti 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-16;1527); [15 aprile 1942, n. 424](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;424); [5 settembre 1942, n. 1235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1235); [24 ottobre 1942, n. 1596, e con il decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1596) [22 ottobre 1946, n. 423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-10-22;423);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte relative allo statuto dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i regi decreti sopraindicati, e' cosi' ulteriormente modificato:  
+Art. 9. - All'elenco delle materie complementari per il corso di laurea in giurisprudenza viene aggiunto il seguente insegnamento:  
+"Esegesi delle fonti di diritto romano".  
+Art. 26. - All'elenco delle materie complementari per il corso di laurea in lettere viene aggiunto il seguente insegnamento:  
+"Lingua e letteratura spagnola".  
+Art. 46. - Viene aggiunto il seguente comma:  
+"Gli esami biennali di chimica generale ed inorganica, di chimica organica, di istituzioni di matematiche e di esercitazioni di matematiche devono essere sostenuti alla fine di ogni anno anziche' alla fine del corso biennale".  
+Art. 48. - All'elenco delle materie complementari per il corso di laurea in fisica viene aggiunto il seguente insegnamento:  
+"Fisica tecnica".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 ottobre 1986
+### Dato a Roma, addi' 20 luglio 1948
 
-COSSIGA
+EINAUDI GONELLA
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: GRASSI
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 16 settembre 1948
 
-Registrato alla Corte dei conti, addi' 29 maggio 1987
-
-Registro n. 32 Istruzione, foglio n. 48
+Atti del Governo, registro n. 24, foglio n. 28. - VENTURA

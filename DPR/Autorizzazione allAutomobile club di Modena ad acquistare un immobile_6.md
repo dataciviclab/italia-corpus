@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1971 n. 921
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1972 n. 247
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1971 n. 921
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1972 n. 247
 ============================================================
 
 Autorizzazione all'Automobile club di Modena ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-921. Decreto del Presidente della Repubblica 18 marzo 1971, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile club di Modena viene autorizzato ad acquistare in proprieta' dal signor Franco Mazzi, per il prezzo di L. 13.500.000, una porzione di fabbricato - estesa per un superficie di circa mq. 45 - sita in Modena alla piazza Mazzini n. 30, costituita da due vani intercomunicanti, con ingresso anche dal vicolo Squallore, indicata nel nuovo catasto edilizio urbano al foglio n. 8, mappale 911 sub. 5. da adibire per gli uffici della propria delegazione in Modena.  
+247. Decreto del Presidente della Repubblica 31 marzo 1972, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile club di Modena viene autorizzato ad acquistare in proprieta', dal sig. Enrico. Giusti, per il prezzo di L. 61.250.000, e per la costruzione della sede degli uffici di assistenza automobilistica, l'appezzamento di terreno sito in Modena, esteso per una superficie complessiva di mq. 17.500 circa individuato nel catasto alla sezione Forese, foglio n. 108/109, mappale 33617 e parte dei mappali 33678 e 33679.  
   
-Visto, il Guardasigilli: COLOMBO  
-Registrato alla Corte dei conti, addi' 12 novembre 1971  
-Atti del Governo, registro n. 245, foglio n. 17. - CARUSO
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 12 giugno 1972  
+Atti del Governo, registro n. 249, foglio n. 57. - CARUSO

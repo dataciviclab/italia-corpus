@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 novembre 1984 n. 1077
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1986 n. 551
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 novembre 1984 n. 1077
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1986 n. 551
+=============================================================
 
 Autorizzazione alla Lega italiana per la lotta contro i tumori, in Roma, ad accettare un legato.
 ------------------------------------------------------------------------------------------------
@@ -12,14 +12,8 @@ Art. 1
 
 N.
 
-1077. Decreto del Presidente della Repubblica 6 novembre 1984, col quale, sulla proposta del Ministro della sanita', la Lega italiana per la lotta contro i tumori, in Roma, viene autorizzata ad   
-accettare il legato, consistente nella somma di L. 10.000.000,   
-disposto dal prof. Gino Macchioro in favore della sezione "Guido   
-Manni" di Trieste con testamento olografo 4 febbraio 1979,   
-pubblicato in data 2 novembre 1981, n. 25060 di repertorio, a   
-rogito dott. Furio Dei Rossi, notaio in Trieste, registrato a   
-Trieste in data 4 novembre 1981 al n. 5229.   
+551. Decreto del Presidente della Repubblica 8 luglio 1986, col quale, sulla proposta del Ministro della sanita', la lega italiana per la lotta contro i tumori, in Roma, viene autorizzata ad accettare il legato, consistente in immobili siti in Milano largo Murani n. 4, e in comune di S. Giulietta (Pavia), del periziato valore rispettivamente di L. 33.000.000, e di L. 40.000.000, da utilizzare dalla Lega stessa per il perseguimento dei propri fini istituzionali, disposto dalla sig.ra Lucilla Milanesi con testamento olografo 9 novembre 1979, pubblicato in data 27 ottobre 1981, n. 12208 di repertorio, a rogito dott. Giuseppe Pedone, notaio in Milano, registrato a Milano in data 2 novembre 1981 al n. 19922.   
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 14 febbraio 1985   
-Registro n. 2 Sanita', foglio n. 38
+Visto, il Guardasigilli: ROGNONI   
+Registrato alla Corte dei conti, addi' 10 settembre 1986   
+Registro n. 9 Sanita', foglio n. 96

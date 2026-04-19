@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1978 n. 473
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 aprile 1979 n. 228
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1978 n. 473
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 aprile 1979 n. 228
 =============================================================
 
 Autorizzazione alla Societa' italiana autori ed editori, in Roma, ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-473. Decreto del Presidente della Repubblica 19 giugno 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana autori ed editori (S.I.A.E.), in Roma, viene autorizzata ad acquistare un immobile, costituito da un locale terraneo con retro e servizi del fabbricato in condominio sito in Ravenna, via Venezia, 38, al prezzo di L. 21.000.000, come da atto di compravendita 14 gennaio 1976, n. 35933/6861 di repertorio, a rogito notaio Modonesi.  
+228. Decreto del Presidente della Repubblica 4 aprile 1979, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana autori ed editori (S.I.A.E.), in Roma, viene autorizzata ad acquistare, al prezzo complessivo di L. 130.000.000, un locale ad uso negozio, posto al piano terra del fabbricato condominiale sito in Ferrara, viale Cavour, con ingresso dai numeri civici 115 e 117, come da atto di compravendita in data 4 settembre 1976, a rogito dott. Bruno Minarelli, notaio in Ferrara, n. 134837/9714 di repertorio.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 18 agosto 1978  
-Registro n. 6 Presidenza, foglio n. 78
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 14 giugno 1979  
+Registro n. 4 Presidenza, foglio n. 387

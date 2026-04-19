@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 626
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1985 n. 896
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 626
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1985 n. 896
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -39,20 +39,24 @@ Articolo unico
 --------------
 
   
-Nell'art. 85, relativo al corso di laurea in storia, all'elenco degli insegnamenti complementari dell'indirizzo medioevale (lettera B) sono aggiunti i seguenti nuovi insegnamenti:  
-storia del pensiero politico medioevale;  
-storia della chiesa medioevale e dei movimenti ereticali.  
+Nell'art. 97, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+tecnica e diagnostica delle autopsie;  
+endocrinologia;  
+radiobiologia medica;  
+istochimica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 giugno 1983
+### Dato a Roma, addi' 23 ottobre 1985
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 15 ottobre 1983
+Registrato alla Corte dei conti, addi' 29 gennaio 1986
 
-Registro n. 66 Istruzione, foglio n. 137
+Registro n. 4 Istruzione, foglio n. 115

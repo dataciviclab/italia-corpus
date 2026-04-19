@@ -1,24 +1,111 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1977 n. 651
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1966 n. 980
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1977 n. 651
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1966 n. 980
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471) e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Dopo l'articolo 112 e con il conseguente spostamento della numerazione degli articoli successivi, e' aggiunto il seguente nuovo articolo, relativo alla istituzione della Scuola di specializzazione in Clinica delle malattie nervose e mentali.
+
+Scuola di specializzazione in Clinica delle malattie nervose e mentali
+
+Art. 113. - La Scuola ha la durata di tre anni: il numero degli studenti che possono essere iscritti e' limitato a cinque per ogni anno di corso.
+
+Le materie di insegnamento sono:
+
+1° Anno:
+
+1) Anatomia del sistema nervoso
+
+2) Fisiologia del sistema nervoso
+
+3) Psicopatologia
+
+4) Semeiotica neurologica
+
+2° Anno:
+
+1) Patologia generale del sistema nervoso
+
+2) Anatomia patologica del sistema nervoso
+
+3) Elettroencefalografia e neurofisiologia clinica
+
+4) Neuroradiologia
+
+5) Clinica neurologica (I)
+
+6) Clinica psichiatrica (I)
+
+3° Anno:
+
+1) Clinica neurologica (II)
+
+2) Clinica psichiatrica (II)
+
+3) Psichiatria forense
+
+4) Neuropsichiatria infantile
+
+5) Neuroftalmologia
+
+6) Otoneurologia
+
+7) Neurochirurgia.
+
+Per l'ammissione agli anni successivi di corso gli iscritti dovranno aver superato l'esame del gruppo di materie del precedente anno.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 11 ottobre 1966
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 18 novembre 1966 Atti del Governo, registro n. 207, foglio n. 35. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Perugia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
@@ -26,56 +113,44 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 53 - all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:  
-citologia;  
-conservazione e protezione della natura;  
-geologia ambientale;  
-geologia regionale;  
-mineralogia sistematica;  
-petrografia applicata;  
-paleontologia dei vertebrati.  
-Nello stesso elenco, l'insegnamento complementare di fitogeografia muta la denominazione in quella di geobotanica.  
-Art. 57 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:  
-biometria;  
-etologia;  
-fisiologia comparata.  
-Art. 65 - all'elenco degli insegnamenti complementari del corso di laurea in chimica, indirizzo organicobiologico, sono aggiunti i seguenti:  
-chimica dei composti eterociclici;  
-fotochimica;  
-meccanismi delle reazioni organiche;  
-spettrochimica;  
-chimica fisica organica;  
-termodinamica chimica.  
-Nello stesso articolo, all'elenco degli insegnamenti complementari del corso di laurea in chimica, indirizzo inorganico chimico-fisico, sono aggiunti i seguenti:  
-chimica dei composti di coordinazione;  
-fotochimica;  
-meccanismi delle reazioni organiche;  
-spettrochimica;  
-chimica fisica organica;  
-termodinamica chimica.  
-Art. 67 - all'elenco degli insegnamenti complementari del corso di laurea in matematica sono aggiunti i seguenti:  
-calcolo delle variazioni;  
-complementi di algebra;  
-equazioni differenziali;  
-geometria algebrica;  
-filosofia della scienza;  
-istituzioni di algebra superiore;  
-logica matematica;  
-meccanica celeste;  
-meccanica dei continui;  
-geometria combinatoria;  
-teoria dei controlli ottimi.  
+Dopo l'articolo 112 e con il conseguente spostamento della numerazione degli articoli successivi, e' aggiunto il seguente nuovo articolo, relativo alla istituzione della Scuola di specializzazione in Clinica delle malattie nervose e mentali.  
+  
+Scuola di specializzazione in Clinica delle malattie nervose e mentali  
+  
+Art. 113. - La Scuola ha la durata di tre anni: il numero degli studenti che possono essere iscritti e' limitato a cinque per ogni anno di corso.  
+Le materie di insegnamento sono:  
+1° Anno:  
+1) Anatomia del sistema nervoso  
+2) Fisiologia del sistema nervoso  
+3) Psicopatologia  
+4) Semeiotica neurologica  
+2° Anno:  
+1) Patologia generale del sistema nervoso  
+2) Anatomia patologica del sistema nervoso  
+3) Elettroencefalografia e neurofisiologia clinica  
+4) Neuroradiologia  
+5) Clinica neurologica (I)  
+6) Clinica psichiatrica (I)  
+3° Anno:  
+1) Clinica neurologica (II)  
+2) Clinica psichiatrica (II)  
+3) Psichiatria forense  
+4) Neuropsichiatria infantile  
+5) Neuroftalmologia  
+6) Otoneurologia  
+7) Neurochirurgia.  
+Per l'ammissione agli anni successivi di corso gli iscritti dovranno aver superato l'esame del gruppo di materie del precedente anno.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 giugno 1977
+### Dato a Roma, addi' 11 ottobre 1966
 
-LEONE MALFATTI
+SARAGAT GUI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 8 agosto 1977
+Registrato alla Corte dei conti, addi' 18 novembre 1966
 
-Registro n. 93 Istruzione, foglio n. 368
+Atti del Governo, registro n. 207, foglio n. 35. - VILLA

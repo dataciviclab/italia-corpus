@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 1171
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 maggio 1983 n. 400
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 1171
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 maggio 1983 n. 400
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
@@ -39,19 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 77, relativo al corso di laurea in chimica, all'elenco degli insegnamenti complementari per gli indirizzi organico-biologico e inorganico-chimico-fisico e' aggiunto il seguente nuovo insegnamento:  
-metodi fisici in chimica organica.  
+Nell'art. 71, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il nuovo seguente insegnamento:  
+neuropsicofarmacologia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Selva di Val Gardena, addi' 2 settembre 1983
+### Dato a Roma, addi' 28 marzo 1983
 
 PERTINI FALCUCCI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 4 aprile 1984
+Registrato alla Corte dei conti, addi' 17 agosto 1983
 
-Registro n. 21 Istruzione, foglio n. 197
+Registro n. 59 Istruzione, foglio n. 119

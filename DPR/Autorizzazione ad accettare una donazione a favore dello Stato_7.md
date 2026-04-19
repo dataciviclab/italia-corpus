@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1222
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1974 n. 481
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1222
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1974 n. 481
+=============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1222. Decreto del Presidente della Repubblica 5 dicembre 1984, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato dell'area della superficie complessiva di mq 9.142, occorsa per la realizzazione del Sacrario militare italiano, disposta dal comune di Mignano Monte Lungo (Caserta) con atto 30 dicembre 1977, n. 29676 di repertorio, a rogito dott. Luigi Gamberale, notaio in Cassino (Frosinone), registrato a Cassino in data 18 gennaio 1978 al n. 264.  
+481. Decreto del Presidente della Repubblica 22 luglio 1974, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato, consistente in un appezzamento di terreno di ettari 1.04.85 sito in Monastir (Cagliari), disposta dall'ente comunale di assistenza di Monastir con atto 20 aprile 1972, n. 63847 di repertorio a rogito notaio Antonio Loi di Cagliari.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 11 luglio 1985  
-Registro n. 45 Finanze, foglio n. 119
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 26 settembre 1974  
+Atti di Governo, registro n. 5, foglio n. 89. - SCIARRETTA

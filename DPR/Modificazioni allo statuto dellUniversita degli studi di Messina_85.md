@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1980 n. 714
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1123
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1980 n. 714
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1123
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
@@ -10,110 +10,181 @@ Modificazioni allo statuto dell'Universita' degli studi di Messina.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923) e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e modificato con [regio decreto 26 ottobre 1940, n. 1095](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1095), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1952](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1952~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio universitario nazionale nei suoi pareri;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
 
-Articolo unico
---------------
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
+Dopo l'art. 186, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in cardiologia.
+
+Scuola di specializzazione in cardiologia
+
+Art. 187. - La scuola di specializzazione in cardiologia ha sede presso l'istituto di patologia speciale medica e metodologia clinica e conferisce il diploma di specialista in cardiologia.
+
+Art. 188. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione e, in carenza, a professore di ruolo o fuori ruolo di materia affine.
+
+Art. 189. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.
+
+Art. 190. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
+
+Art. 191. - Il numero massimo degli allievi e' di cinque per anno di corso, e complessivamente di venti iscritti per l'intero corso di studi.
+
+Art. 192. - L'ammissione al corso avviene per titoli ed esami.
+
+Art. 193. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+1) anatomia umana normale ed embriologia dell'apparato cardiovascolare;
+
+2) fisiologia dell'apparato cardiovascolare (I);
+
+3) biochimica e biofisica;
+
+4) semeiotica fisica e strumentale dell'apparato cardiovascolare (I);
+
+5) informatica medica e strumentazione biomedica (I).
+
+2° Anno:
+
+1) anatomia patologica;
+
+2) fisiologia dell'apparato cardiovascolare (II);
+
+3) patologia e clinica cardiovascolare (I);
+
+4) semeiotica fisica e strumentale dell'apparato cardiovascolare (II);
+
+5) informatica medica e strumentazione biomedica (II);
+
+6) radiologia (I);
+
+7) aspetti sociali ed epidemiologici delle malattie cardiovascolari.
+
+3° Anno:
+
+1) anatomia patologica (II)
+
+2) semeiotica fisica e strumentale dell'apparato cardiovascolare (III);
+
+3) patologia e clinica cardiovascolare (II);
+
+4) radiologia (II);
+
+5) terapia medica e farmacologia clinica (I).
+
+4° Anno:
+
+1) semeiotica fisica e strumentale dell'apparato cardiovascolare (IV);
+
+2) patologia e clinica cardiovascolare (III);
+
+3) terapia medica e farmacologia clinica (II);
+
+4) terapia chirurgica;
+
+5) terapie intensive cardiologiche.
+
+Art. 194. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Art. 195. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Al termine del corso di studi per il conseguimento del diploma di specialista in cardiologia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento di carattere cardiologico.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1977
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 25 febbraio 1978 Registro n. 22 Istruzione, foglio n. 176
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Lo statuto dell'Universita' di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e modificato con [regio decreto 26 ottobre 1940, n. 1095](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1095), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Dopo l'art. 186, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti articoli relativi alla istituzione delle scuole di specializzazione in allergologia e in oncologia.  
-Scuola di specializzazione in allergologia  
-Art. 187. - E' istituita presso la facolta' di medicina e chirurgia dell'Universita' di Messina la scuola di specializzazione in allergologia.  
-Art. 188. - La scuola di specializzazione in allergologia e' annessa alla seconda cattedra di patologia speciale medica, e conferisce il diploma di specialista in allergologia.  
-Art. 189. - Potranno iscriversi a detta scuola i laureati in medicina e chirurgia; e' richiesta, almeno all'inizio del corso, l'abilitazione all'esercizio professionale.  
-Art. 190. - La direzione della scuola e' affidata al professore di ruolo titolare della seconda cattedra di patologia speciale medica, o, in mancanza, ad un professore di ruolo o fuori ruolo di materia strettamente affine.  
-Art. 191. - La durata del corso e' di tre anni e non e' suscettibile di abbreviazioni.  
-Il numero di allievi e' di quattro per anno con un massimo complessivo di dodici per l'intero corso di studio.  
-L'ammissione avviene per titoli e per esami.  
-Art. 192. - Le materie di insegnamento sono le seguenti:  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Dopo l'art. 186, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in cardiologia.  
+Scuola di specializzazione in cardiologia  
+Art. 187. - La scuola di specializzazione in cardiologia ha sede presso l'istituto di patologia speciale medica e metodologia clinica e conferisce il diploma di specialista in cardiologia.  
+Art. 188. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione e, in carenza, a professore di ruolo o fuori ruolo di materia affine.  
+Art. 189. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.  
+Art. 190. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.  
+Art. 191. - Il numero massimo degli allievi e' di cinque per anno di corso, e complessivamente di venti iscritti per l'intero corso di studi.  
+Art. 192. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 193. - Le materie di insegnamento sono le seguenti:  
 1° Anno:  
-basi immunologiche e patogenesi dell'allergia (I);  
-istopatologia generale;  
-la patologia allergica in riferimento ai diversi agenti etiologici;  
-la patologia autoimmune;  
-semeiotica e diagnostica allergologica (I).  
+1) anatomia umana normale ed embriologia dell'apparato cardiovascolare;  
+2) fisiologia dell'apparato cardiovascolare (I);  
+3) biochimica e biofisica;  
+4) semeiotica fisica e strumentale dell'apparato cardiovascolare (I);  
+5) informatica medica e strumentazione biomedica (I).  
 2° Anno:  
-basi immunologiche e patogenesi dell'allergia (II);  
-semeiotica e diagnostica allergologica (II);  
-patologia dell'allergia dell'apparato respiratorio;  
-allergia e otorinolaringoiatria;  
-le malattie cutanee e patogenesi allergica.  
+1) anatomia patologica;  
+2) fisiologia dell'apparato cardiovascolare (II);  
+3) patologia e clinica cardiovascolare (I);  
+4) semeiotica fisica e strumentale dell'apparato cardiovascolare (II);  
+5) informatica medica e strumentazione biomedica (II);  
+6) radiologia (I);  
+7) aspetti sociali ed epidemiologici delle malattie cardiovascolari.  
 3° Anno:  
-clinica dell'allergia dell'apparato respiratorio;  
-allergia ed apparato digerente;  
-allergia ed altri organi ed apparati;  
-la terapia specifica ed aspecifica delle sindromi allergiche;  
-allergopatie professionali.  
-Art. 193. - La presenza alle lezioni e alle esercitazioni e' obbligatoria. Gli allievi, che non conseguano le attestazioni di frequenza nel relativo libretto non possono essere ammessi a sostenere le prove di esame.  
-Art. 194. - Alla fine di ciascun anno, gli iscritti, per essere ammessi agli anni successivi, devono superare tutte le prove d'esame delle materie insegnate durante l'anno; in caso contrario, essi restano iscritti in soprannumero.  
-Art. 195. - Al termine del corso di studio per il conseguimento del diploma di specialista in allergologia, gli specializzandi debbono superare un esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione.  
-Scuola di specializzazione in oncologia  
-Art. 196. - La scuola di specializzazione in oncologia ha sede presso l'istituto di oncologia dell'Universita' di Messina e conferisce il diploma di specialista in oncologia.  
-Art. 197. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Art. 198. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Art. 199. - La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazione.  
-Art. 200. - Il numero massimo degli allievi e' di cinque per anno di corso e complessivamente di quindici iscritti per l'intero corso di studi.  
-Art. 201. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 202. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-patologia generale dei tumori (I);  
-oncologia sperimentale (I);  
-anatomia ed istologia patologica dei tumori (I);  
-epidemiologia dei tumori;  
-cancerogenesi ambientale e professionale e prevenzione primaria;  
-immunologia dei tumori.  
-2° Anno:  
-patologia generale dei tumori (II);  
-oncologia sperimentale (II);  
-anatomia ed istologia patologica dei tumori (II);  
-citodiagnostica dei tumori;  
-prevenzione clinica e tecniche diagnostiche e di laboratorio;  
-radiodiagnostica dei tumori;  
-oncologia medica (I);  
-oncologia chirurgica (I).  
-3° Anno:  
-oncologia medica (II);  
-oncologia chirurgica (II);  
-radioterapia dei tumori;  
-oncologia pediatrica;  
-principi di riabilitazione oncologica;  
-organizzazione della lotta contro i tumori.  
-Ogni scuola dovra' provvedere ad organizzare seminari e conferenze su specifici argomenti con l'integrazione di quelli elencati nello statuto.  
-Art. 203. - La frequenza alle lezioni, alle esercitazioni pratiche, e' obbligatoria per l'ammissione agli esami, il superamento degli esami di ciascun anno e' condizione indispensabile per l'iscrizione all'anno successivo. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.  
-Art. 204. - Al termine del triennio per ottenere il diploma i candidati devono presentare una dissertazione scritta su un argomento attinente alla specializzazione.  
-Art. 205. - Gli iscritti alla scuola di specializzazione sono tenuti a pagare le tasse e sopratasse secondo quanto stabilito per gli studenti della facolta' di medicina e chirurgia, nonche' la tassa di diploma della misura di L. 6.000 (seimila) ai sensi dell'[art. 7 della legge del 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7). Sono altresi' tenuti al pagamento di speciali contributi nella misura che sara' determinata dal consiglio di amministrazione, previo parere della facolta', su proposta del direttore della scuola.  
+1) anatomia patologica (II)  
+2) semeiotica fisica e strumentale dell'apparato cardiovascolare (III);  
+3) patologia e clinica cardiovascolare (II);  
+4) radiologia (II);  
+5) terapia medica e farmacologia clinica (I).  
+4° Anno:  
+1) semeiotica fisica e strumentale dell'apparato cardiovascolare (IV);  
+2) patologia e clinica cardiovascolare (III);  
+3) terapia medica e farmacologia clinica (II);  
+4) terapia chirurgica;  
+5) terapie intensive cardiologiche.  
+Art. 194. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Art. 195. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Al termine del corso di studi per il conseguimento del diploma di specialista in cardiologia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento di carattere cardiologico.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 settembre 1980
+### Dato a Roma, addi' 31 ottobre 1977
 
-p. Il Presidente della Repubblica Il Presidente del Senato FANFANI SARTI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 31 ottobre 1980
+Registrato alla Corte dei conti, addi' 25 febbraio 1978
 
-Registro n. 100 Istruzione, foglio n. 101
+Registro n. 22 Istruzione, foglio n. 176

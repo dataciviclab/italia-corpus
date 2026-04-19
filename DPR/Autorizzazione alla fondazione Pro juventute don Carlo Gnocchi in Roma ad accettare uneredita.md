@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1986 n. 980
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1974 n. 263
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1986 n. 980
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1974 n. 263
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un'eredita'.
 ----------------------------------------------------------------------------------------------------
@@ -10,10 +10,11 @@ Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad ac
 Art. 1
 ------
 
-n.
+N.
 
-980. Decreto del Presidente della Repubblica 3 dicembre 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare col beneficio d'inventario l'eredita', consistente nella quota di 1/2 di beni mobili, saldo conti correnti, depositi di titoli, per un valore complessivo di L. 77.851.131, disposta dal sig. Minghetti Giuseppe a favore della pro juventute (Mutilatini don Gnocchi), che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione stessa in data 16 febbraio 1984, con testamento olografo 14 ottobre 1982, pubblicato in data 15 aprile 1983, n. 25547/945 di repertorio, a rogito dott. Giuseppe Isotti, notaio in Bolzano, registrato a Bolzano in data 2 maggio 1983 al n. 3996.  
+263. Decreto del Presidente della Repubblica 21 maggio 1974, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in beni mobili (denaro e titoli di credito) ed immobili (villino con terreno in Gallicano del valore presunto di L. 14.197.357), disposta dal sig. Alberto Bagnoli con testamento olografo del 15 maggio 1968, pubblicato a rogito del notaio avv.  
+Pietro Fea in data 20 ottobre 1972 (n. 547661 di repertorio, n. 11306 di raccolta), registrato a Roma il 6 novembre 1972 (n. 21028 vol. 2581).  
   
-Visto, il Guardasigilli: ROGNONI  
-Registrato alla Corte dei conti, addi' 14 gennaio 1987  
-Registro n. 1 Presidenza, foglio n. 178
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 2 luglio 1974  
+Atti di Governo, registro n. 4, foglio n. 37. - SCIARRETTA

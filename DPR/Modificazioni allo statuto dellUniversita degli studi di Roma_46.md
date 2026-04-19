@@ -1,21 +1,70 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1968 n. 1317
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1962 n. 1258
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1968 n. 1317
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1962 n. 1258
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successivi;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 19. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:
+
+Diritto pubblico generale;
+
+Diritto tributario;
+
+Teoria dell'interpretazione.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 18 luglio 1962
+
+SEGNI
+
+GUI
+
+Visto, il Guardasigilli: BOSCO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 22 agosto 1962 Atti del Governo, registro n. 158, foglio n. 19. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -24,48 +73,22 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 19. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:  
   
-Art. 66 - Dall'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono soppressi i seguenti:  
-Diritto;  
-Psicologia dell'eta' evolutiva;  
-Storia della scuola;  
-Filologia germanica;  
-Teoria e tecnica comunicazioni di massa;  
-Igiene;  
-Letteratura ibero-americana;  
-Storia della filosofia medioevale;  
-Filosofia della scienza;  
-Psicologia sociale.  
-Art. 67. - Dall'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono soppressi i seguenti:  
-Filologia romanza;  
-Storia della grammatica e della lingua italiana;  
-Letteratura latina medioevale;  
-Filologia germanica;  
-Storia della letteratura italiana moderna e contemporanea.  
-Art. 68. - Dall'elenco degli insegnamenti complementari del corso di laurea in lingua e letterature straniere sono soppressi i seguenti:  
-Diritto;  
-Psicologia dell'eta' evolutiva;  
-Storia della scuola;  
-Filosofia morale;  
-Storia della letteratura italiana moderna e contemporanea;  
-Teoria e tecniche delle comunicazioni di massa;  
-Igiene;  
-Storia del Risorgimento;  
-Storia delle dottrine politiche;  
-Filosofia delle scienze;  
-Psicologia sociale;  
-Storia economica.  
+Diritto pubblico generale;  
+Diritto tributario;  
+Teoria dell'interpretazione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1968
+### Dato a Roma, addi' 18 luglio 1962
 
-SARAGAT SCAGLIA
+SEGNI GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 2 gennaio 1969
+Registrato alla Corte dei conti, addi' 22 agosto 1962
 
-Atti del Governo, registro n. 224, foglio n. 116. - GRECO
+Atti del Governo, registro n. 158, foglio n. 19. - VILLA

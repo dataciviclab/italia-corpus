@@ -1,71 +1,68 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1960 n. 1601
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1141
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1960 n. 1601
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1141
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2034](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2034), modificato con [regio decreto 13 ottobre 1927, n. 2516](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2516), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formula e dalle autorita' accademiche dell'Universita' anzidetta T Riconosciuta, la particolare necessita' di approvare le nuoce modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
   
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 75 - nell'elenco degli insegnamenti fondamentali del corso di laurea in fisica l'insegnamento, indicato al punto 8), di "esperimentazioni fisica (biennale)" e' scisso nei seguenti due insegnamenti fondamentali:   
+8) esperimentazioni fisica I;   
+9) esperimentazioni fisica II.   
+Nel medesimo articolo e' soppresso il testo dell'ottavo comma.   
+Art. 81 - i commi secondo, terzo e quarto, concernenti norme per gli esami degli insegnamenti e delle esercitazioni di durata biennale per i vari corsi di laurea della facolta' di scienze matematiche, fisiche e naturali, sono abrogati e sostituiti come segue:   
   
-Dopo l'art. 87, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della Scuola di perfezionamento in filosofia, annessa alla Facolta' di lettere e filosofia.  
   
-Scuola di perfezionamento in filosofia  
-  
-Art. 88. - Presso la Facolta' di lettere e filosofia e' istituita, una Scuola di perfezionamento in filosofia, che ha lo scopo di conferire la necessaria, cultura e competenza sia a coloro che vogliono intraprendere ricerche scientifiche, sia a coloro che intendono dedicarsi all'insegnamento delle varie discipline filosofiche.  
-Alla Scuola di perfezionamento possono essere iscritti i laureati in lettere e filosofia; in pedagogia, e in materie letterarie presso gli Istituti di magisteri; in giurisprudenza e in scienze politiche.  
-Possono essere ammessi i laureati stranieri forniti di lauree equipollenti alle sopraindicate.  
-Art. 89. - La Scuola di perfezionamento filosofia rilascia un diploma.  
-Gli studi per il conseguimento dei diplomi di perfezionamento durano due anni.  
-Art. 90. - L'esame di diploma di perfezionamento consiste nella presentazione di un lavoro serio avente carattere di originalita', seguita dalla discussione orale intorno a detto lavoro.  
-Per la composizione della Commissione di esame si osservano le norme stabilite con il regolamento approvato con [regio decreto del 4 giugno 1938, n. 1269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-04;1269).  
-Art. 91. - Le materie costitutive per conseguire il diploma di perfezionamento in filosofia sono cinque, tre biennali e due annuali.  
-Sono obbligatori come biennali gli esami di:  
-Filosofia teoretica;  
-Storia della filosofia;  
-Filosofia morale.  
-Degli annuali e' obbligatorio l'esame di:  
-Estetica.  
-L'altro esame puo' essere scelto tra le seguenti discipline:  
-Pedagogia;  
-Storia della filosofia antica;  
-Storia della filosofia medioevale;  
-Filosofia della religione;  
-Filosofia della scienza;  
-Storia della letteratura latina medioevale;  
-Letteratura greca Paleografia e diplomatica;  
-Psicologia;  
-Biologia (delle razze umane);  
-Economia politica;  
-Storia delle dottrine politiche Filosofia dei diritti.  
-Art. 92. - Le tasse da pagarsi sono le, medesime(prescritte per la Facolta' di lettere e filosofia.  
-La tassa (i diploma e' fissata nella misura di L. 6000 a norma della [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551)
+Gli insegnamenti biennali di istituzioni di matematiche, chimica generale ed inorganica, chimica organica, chimica industriale, impianti industriali chimici con elementi di disegno, chimica fisica, esercitazioni di chimica fisica, zoologia, botanica, fisiologia generale, nonche' l'insegnamento di fisica sperimentale per gli studenti di chimica, di chimica industriale e di scienze geologiche, comportano un esame alla fine di ciascun anno di corso, l'uno propedeutico all'altro.   
+Le esercitazioni biennali di matematiche per il biennio propedeutico delle lauree in chimica ed in chimica industriale comportano un esame alla fine di ciascun anno di corso, l'uno propedeutico all'altro.   
+Le esercitazioni biennali di chimica industriale comportano un esame alla fine di ciascun anno di corso, l'uno propedeutico all'altro.   
   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1960
+### Dato a Roma, addi' 31 ottobre 1981
 
-Visto, il Guardasigilli: GONELLA
+PERTINI BODRATO
 
-Registrato alla Corte dei conti, addi' 28 dicembre 1960;
+Visto, il Guardasigilli: DARIDA
 
-Atti del Governo, registro n. 132, foglio n. 142. - VILLA
+Registrato alla Corte dei conti, addi' 24 aprile 1982
+
+Registro n. 58 Istruzione, foglio n. 167

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1961 n. 162
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1979 n. 544
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1961 n. 162
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1979 n. 544
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bologna; approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), modificato con [regio decreto 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-12;2227), e successivi;
+Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,164 +20,82 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio universitario nazionale della pubblica istruzione nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla
+-----
 
-Decreta:
+proposta del Ministro della pubblica istruzione; Decreta:
 
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:
+Articolo unico
+--------------
 
-Art. 66. - Agli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:
-
-Estetica;
-
-Storia contemporanea.
-
-Art. 67. - Agli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti quelli di:
-
-Estetica;
-
-Storia contemporanea;
-
-Sociologia.
-
-Art. 68. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:
-
-Estetica;
-
-Storia contemporanea;
-
-Letteratura anglo-americana.
-
-Gli articoli dal n. 181 al n. 184 sono abrogati e sostituiti dai seguenti con il seguente nuovo ordinamento.
-
-Scuola di perfezionamento in Storia dell'arte medioevale e moderna
-
-Art. 181. - Alla Scuola di perfezionamento in storia dell'arte medioevale e moderna possono essere iscritti i laureati in lettere, in filosofia e in architettura, presso le rispettive Facolta' o Istituti superiori.
-
-Art. 182. - Gli insegnamenti fondamentali della Scuola sono:
-
-Storia dell'arte medioevale;
-
-Storia dell'arte moderna;
-
-Storia dell'arte contemporanea;
-
-Archeologia e storia dell'arte antica.
-
-Gli insegnamenti complementari sono:
-
-Paleografia e diplomatica;
-
-Storia medioevale e moderna;
-
-Estetica;
-
-Archeologia cristiana;
-
-Storia dell'arte bizantina;
-
-Storia della storiografia dell'arte e della critica artistica;
-
-Storia dell'architettura;
-
-Storia dello spettacolo.
-
-Art. 183. - Per il conseguimento del diploma, gli iscritti alla Scuola devono:
-
-a) superare gli esami di profitto nei quattro insegnamenti fondamentali della Scuola;
-
-b) superare quattro esami di profitto in insegnamenti scelti fra i complementari della Scuola, con la approvazione del Consiglio dei professori della scuola medesima;
-
-c) presentare e discutere una dissertazione scritta avente carattere di originalita' su tema concordato con i professori di storia dell'arte o medioevale o moderna o contemporanea.
-
-Art. 184. - Potranno essere concesse abbreviazioni di corso con deliberazione del Consiglio della scuola ai laureati in possesso di titoli post-universitari attinenti alla Storia dell'arte medioevale, moderna o contemporanea.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 7 febbraio 1961
-
-GRONCHI
-
-BOSCO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 27 marzo 1261 Atti del Governo, registro n. 135, foglio n. 92. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna; approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), modificato con [regio decreto 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-12;2227), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
+Gli articoli da 210 a 225, relativi al corso di perfezionamento in diritto sanitario, che muta denominazione in scuola di perfezionamento in diritto sanitario, sono sostituiti dai seguenti con il conseguente spostamento della numerazione degli articoli successivi:   
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:  
+Scuola di perfezionamento in diritto sanitario   
+Art. 210. - Alla facolta' di giurisprudenza e' annessa una scuola di perfezionamento in diritto sanitario.   
+Art. 211. - La scuola ha lo scopo di conferire una preparazione specializzata a quanti ricoprono posti di responsabilita' in campo sanitario, o vi aspirino; nonche' a quanti desiderino acquisire scienza e consapevolezza della particolare posizione giuridica del settore.   
+Per gli scopi di cui alla seconda parte del precedente comma la scuola puo' anche organizzare corsi speciali, di durata varia, eventualmente su richiesta e d'intesa con il Ministero della sanita', le regioni e le unita' sanitarie locali interessate, volti all'approfondimento o all'aggiornamento delle conoscenze su argomenti specifici d'interesse giuridico sanitario.   
+Art. 212. - La scuola ha durata biennale e possono esservi iscritti, a norma dell'[art. 145 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art145), i laureati.   
+Gli allievi che abbiano frequentato il primo anno e sulle materie dello stesso abbiano sostenuto un colloquio finale con esito favorevole, possono ottenere un certificato di frequenza e profitto.   
+Art. 213. - Sono organi della scuola: il direttore e il consiglio dei professori.   
+Il direttore e' nominato dal rettore per un triennio su designazione del consiglio della facolta' di giurisprudenza fra i propri membri professori di ruolo o fuori ruolo, ed e' sempre riconfermabile.   
+Il consiglio dei professori, convocato e presieduto dal direttore, regola e coordina i programmi di insegnamento e fissa calendario e criteri per le lezioni e gli esami.   
+Art. 214. - Gli insegnamenti sono ripartiti come segue:   
+1° Anno - obbligatori:   
+diritto costituzionale e sanita' pubblica;   
+diritto amministrativo e sanita' pubblica;   
+organizzazione sanitaria italiana;   
+organizzazione sanitaria internazionale;   
+polizia sanitaria;   
+professioni e arti sanitarie;   
+responsabilita' sanitaria penale;   
+responsabilita' sanitaria civile;   
+deontologia sanitaria;   
+diritto farmaceutico;   
+ambiente di lavoro e sicurezza sociale;   
+diritto sanitario regionale;   
+organizzazione ospedaliera;   
+disciplina del rapporto di impiego sanitario.   
+2° Anno - complementari (almeno cinque, per non meno di trenta ore):   
+giustizia amministrativa;   
+tutela contro le radiazioni ionizzanti;   
+legislazione su alimenti e bevande;   
+sociologia sanitaria;   
+ricerca e programmazione sanitaria;   
+statistica sanitaria;   
+urbanistica ospedaliera;   
+disciplina antinquinamento e igiene degli abitati;   
+disciplina dei trapianti;   
+disciplina sulle droghe;   
+disciplina dei trattamenti sanitari;   
+legislazione sanitaria scolastica e sportiva;   
+legislazione sanitaria militare, marittima ed aerea.   
+Nel secondo anno l'insegnamento e' integrato da conferenze, seminari, visite di istruzione guidate.   
+Gli esami di profitto, sostenuti davanti ad apposite commissioni, devono riguardare distintamente le materie obbligatorie ed a scelta.   
+L'affidamento di ore di lezione avviene su proposta del direttore, fatta propria dal consiglio della facolta' di giurisprudenza.   
+Art. 215. - Finanziano la scuola: il Ministero della sanita' ([legge 3 dicembre 1962, n. 1711](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-03;1711)); le tasse di iscrizione e frequenza e le soprattasse d'esame; i contributi e le erogazioni a qualunque titolo dello Stato, di enti e di privati.   
+Tasse, soprattasse e contributi degli allievi sono disciplinati dagli articoli 193 e 194 dello statuto.   
   
-Art. 66. - Agli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:  
-Estetica;  
-Storia contemporanea.  
-Art. 67. - Agli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti quelli di:  
-Estetica;  
-Storia contemporanea;  
-Sociologia.  
-Art. 68. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:  
-Estetica;  
-Storia contemporanea;  
-Letteratura anglo-americana.  
-Gli articoli dal n. 181 al n. 184 sono abrogati e sostituiti dai seguenti con il seguente nuovo ordinamento.  
-  
-Scuola di perfezionamento in Storia dell'arte medioevale e moderna  
-  
-Art. 181. - Alla Scuola di perfezionamento in storia dell'arte medioevale e moderna possono essere iscritti i laureati in lettere, in filosofia e in architettura, presso le rispettive Facolta' o Istituti superiori.  
-Art. 182. - Gli insegnamenti fondamentali della Scuola sono:  
-Storia dell'arte medioevale;  
-Storia dell'arte moderna;  
-Storia dell'arte contemporanea;  
-Archeologia e storia dell'arte antica.  
-Gli insegnamenti complementari sono:  
-Paleografia e diplomatica;  
-Storia medioevale e moderna;  
-Estetica;  
-Archeologia cristiana;  
-Storia dell'arte bizantina;  
-Storia della storiografia dell'arte e della critica artistica;  
-Storia dell'architettura;  
-Storia dello spettacolo.  
-Art. 183. - Per il conseguimento del diploma, gli iscritti alla Scuola devono:  
-a) superare gli esami di profitto nei quattro insegnamenti fondamentali della Scuola;  
-b) superare quattro esami di profitto in insegnamenti scelti fra i complementari della Scuola, con la approvazione del Consiglio dei professori della scuola medesima;  
-c) presentare e discutere una dissertazione scritta avente carattere di originalita' su tema concordato con i professori di storia dell'arte o medioevale o moderna o contemporanea.  
-Art. 184. - Potranno essere concesse abbreviazioni di corso con deliberazione del Consiglio della scuola ai laureati in possesso di titoli post-universitari attinenti alla Storia dell'arte medioevale, moderna o contemporanea.  
+Art. 216. - Gli allievi che abbiano frequentato il corso annuale di perfezionamento in diritto sanitario potranno, salvi gli esami di cui all'art. 214, terzo comma, ottenere la iscrizione al secondo anno   
+della scuola   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 febbraio 1961
+### Dato a Roma, addi' 9 ottobre 1979
 
-GRONCHI BOSCO
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 27 marzo 1261
+Registrato alla Corte dei conti, addi' 30 ottobre 1979
 
-Atti del Governo, registro n. 135, foglio n. 92. - VILLA
+Registro n. 80 Istruzione, foglio n. 128

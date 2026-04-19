@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 febbraio 1964 n. 209
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 551
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 febbraio 1964 n. 209
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 551
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numeri 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,191 +20,86 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta Riconosciuta la particolare necessita' di approvare le a i ove modifiche proposte;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 7. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di: (i Diritto pubblico americano".
+Articolo unico
+--------------
 
-Art. 8, concernente le norme di propedeuticita' per il corso di laurea in Giurisprudenza e' modificato nel senso che anche gli esami di Istituzioni di diritto privato (n. 1) e di Diritto costituzionale (n. 5) devono precedere gli esami di Diritto ecclesiastico e di Diritto canonico.
-
-Allo stesso articolo e' aggiunto al n. 6 il seguente comma "L'esame di Diritto civile deve precedere quello di Diritto amministrativo".
-
-Art. 88. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti i seguenti Radiobiologia Genetica umana Biologia marina Citogenetica Biochimica cellulare.
-
-Gli articoli 107, 108, 112, 113 e 114 relativi alla Scuola di perfezionamento in Diritto del lavoro e previdenza sociale sono abrogati e sostituiti dai seguenti:
-
-Art. 107. - Alla Scuola potranno iscriversi i laureati in Giurisprudenza, in Economia e commercio, in Lingue e letterature straniere, in Scienze politiche, in Scienze agrarie, in Lettere e filosofia, in Ingegneria, in Medicina e chirurgia, o coloro in possesso di laurea o diploma conferito dalla Facolta' di magistero o di altri titoli equiparati ai precedenti conferiti da istituti italiani o stranieri. Gli iscritti non potranno superare il numero massimo di 150.
-
-Art. 108. - La durata del corso degli studi e' di due anni e al suo termine viene conferito un diploma di perfezionamento in Diritto del lavoro e previdenza sociale.
-
-Il diploma menzionera' pure l'indirizzo di insegnamento, fra quelli previsti dall'art. 113, lettera b); se l'iscritto avra' superato almeno cinque esami opzionali del medesimo indirizzo.
-
-Art. 112. - Il Consiglio della Scuola si compone del direttore e di due professori della Scuola stessa designati dalla Facolta' giuridica.
-
-Art. 113. - Gli insegnamenti della. Scuola si distinguono in:
-
-a) fondamentali, a carattere generale;
-
-b) materie a scelta dell'iscritto, ripartite in due indirizzi:
-
-previdenziale, sindacale-aziendale.
-
-Essi sono indicati nelle tabelle seguenti:
-
-a) Primo anno:
-
-1) Diritto sindacale
-
-2) Rapporto individuale di lavoro;
-
-3) Economia del lavoro;
-
-4) Rapporto di pubblico impiego;
-
-secondo anno:
-
-5) Legislazione sociale e previdenziale;
-
-6) Statistica del lavoro;
-
-7) storia del diritto del lavoro;
-
-8) Diritto ed organizzazione internazionale del lavoro;
-
-b) Indirizzo previdenziale:
-
-Storia e comparazione della legislazione previdenziale;
-
-Organizzazione degli enti previdenziali
-
-Assicurazioni sociali I (corso monografico);
-
-Assicurazioni sociali II (corso monografico)
-
-Contenzioso delle assicurazioni sociali;
-
-Politica ed economia della sicurezza della sicurezza sociale;
-
-Tecnica attuariale applicata alle assicurazioni sociali;
-
-Medicina sociale del lavoro;
-
-Indirizzo sindacale aziendale:
-
-Teoria e storia del sindacalismo;
-
-Sociologia dell'organizzazione sindacale e dei conflitti di lavoro;
-
-Movimenti sindacali e legislazione sindacale all'estero;
-
-Tecnica della contrattazione collettiva;
-
-Metodi retributivi;
-
-Organizzazione aziendale e direzione del personale nelle imprese;
-
-Controversie di lavoro;
-
-Organizzazione dell'attivita' amministrativa di tutela del lavoro.
-
-Il Consiglio della Scuola determina annualmente lo insegnamento di almeno 4 materie per ciascuno indirizzo opzionale, prescegliendole fra quelle indicate nelle precedenti tabelle e ripartendole tra i due anni del corso. Il direttore (della Scuola), inoltre, puo' promuovere conferenze e dibattiti ed assumere altre iniziative intese all'incremento dell'attivita' didattica e scientifica della Scuola, nell'ambito delle direttive deliberate dal Consiglio della scuola.
-
-Art. 111. - All'esame di diploma, consistente nella discussione di una dissertazione scritta, non e' ammesso chi non abbia superato gli esami di profitto in tutti gli insegnamenti fondamentali, e almeno in cinque fra quelli opzionali.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma addi' 24 febbraio 1964
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 21 aprile 1964 Atti del Governo, registro n. 182, foglio n. 1235. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numeri 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta Riconosciuta la particolare necessita' di approvare le a i ove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 7. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di: (i Diritto pubblico americano".  
-Art. 8, concernente le norme di propedeuticita' per il corso di laurea in Giurisprudenza e' modificato nel senso che anche gli esami di Istituzioni di diritto privato (n. 1) e di Diritto costituzionale (n. 5) devono precedere gli esami di Diritto ecclesiastico e di Diritto canonico.  
-Allo stesso articolo e' aggiunto al n. 6 il seguente comma "L'esame di Diritto civile deve precedere quello di Diritto amministrativo".  
-Art. 88. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti i seguenti Radiobiologia Genetica umana Biologia marina Citogenetica Biochimica cellulare.  
-Gli articoli 107, 108, 112, 113 e 114 relativi alla Scuola di perfezionamento in Diritto del lavoro e previdenza sociale sono abrogati e sostituiti dai seguenti:  
-Art. 107. - Alla Scuola potranno iscriversi i laureati in Giurisprudenza, in Economia e commercio, in Lingue e letterature straniere, in Scienze politiche, in Scienze agrarie, in Lettere e filosofia, in Ingegneria, in Medicina e chirurgia, o coloro in possesso di laurea o diploma conferito dalla Facolta' di magistero o di altri titoli equiparati ai precedenti conferiti da istituti italiani o stranieri. Gli iscritti non potranno superare il numero massimo di 150.  
-Art. 108. - La durata del corso degli studi e' di due anni e al suo termine viene conferito un diploma di perfezionamento in Diritto del lavoro e previdenza sociale.  
-Il diploma menzionera' pure l'indirizzo di insegnamento, fra quelli previsti dall'art. 113, lettera b); se l'iscritto avra' superato almeno cinque esami opzionali del medesimo indirizzo.  
-Art. 112. - Il Consiglio della Scuola si compone del direttore e di due professori della Scuola stessa designati dalla Facolta' giuridica.  
-Art. 113. - Gli insegnamenti della. Scuola si distinguono in:  
-a) fondamentali, a carattere generale;  
-b) materie a scelta dell'iscritto, ripartite in due indirizzi:  
-previdenziale, sindacale-aziendale.  
-Essi sono indicati nelle tabelle seguenti:  
-a) Primo anno:  
-1) Diritto sindacale  
-2) Rapporto individuale di lavoro;  
-3) Economia del lavoro;  
-4) Rapporto di pubblico impiego;  
-secondo anno:  
-5) Legislazione sociale e previdenziale;  
-6) Statistica del lavoro;  
-7) storia del diritto del lavoro;  
-8) Diritto ed organizzazione internazionale del lavoro;  
-b) Indirizzo previdenziale:  
-Storia e comparazione della legislazione previdenziale;  
-Organizzazione degli enti previdenziali  
-Assicurazioni sociali I (corso monografico);  
-Assicurazioni sociali II (corso monografico)  
-Contenzioso delle assicurazioni sociali;  
-Politica ed economia della sicurezza della sicurezza sociale;  
-Tecnica attuariale applicata alle assicurazioni sociali;  
-Medicina sociale del lavoro;  
-Indirizzo sindacale aziendale:  
-Teoria e storia del sindacalismo;  
-Sociologia dell'organizzazione sindacale e dei conflitti di lavoro;  
-Movimenti sindacali e legislazione sindacale all'estero;  
-Tecnica della contrattazione collettiva;  
-Metodi retributivi;  
-Organizzazione aziendale e direzione del personale nelle imprese;  
-Controversie di lavoro;  
-Organizzazione dell'attivita' amministrativa di tutela del lavoro.  
-Il Consiglio della Scuola determina annualmente lo insegnamento di almeno 4 materie per ciascuno indirizzo opzionale, prescegliendole fra quelle indicate nelle precedenti tabelle e ripartendole tra i due anni del corso. Il direttore (della Scuola), inoltre, puo' promuovere conferenze e dibattiti ed assumere altre iniziative intese all'incremento dell'attivita' didattica e scientifica della Scuola, nell'ambito delle direttive deliberate dal Consiglio della scuola.  
-Art. 111. - All'esame di diploma, consistente nella discussione di una dissertazione scritta, non e' ammesso chi non abbia superato gli esami di profitto in tutti gli insegnamenti fondamentali, e almeno in cinque fra quelli opzionali.  
+Art. 89 - all'elenco degli insegnamenti complementari, per tutti gli indirizzi, del corso di laurea in fisica sono aggiunti i seguenti insegnamenti:  
+cosmologia;  
+didattica della fisica;  
+elettronica nucleare;  
+fisica sanitaria;  
+microelettronica;  
+ottica;  
+reti logiche e tecniche digitali.  
+Art. 91 - all'elenco degli insegnamenti complementari del corso di laurea in scienze dell'informazione sono aggiunti i seguenti insegnamenti:  
+cibernetica;  
+teoria dell'informazione.  
+Art. 92 - all'elenco degli insegnamenti complementari del corso di laurea in chimica sono aggiunti i seguenti insegnamenti:  
+Indirizzo inorganico-chimico-fisico:  
+chimica dell'ambiente;  
+analisi degli inquinanti;  
+meccanismi di reazione in chimica inorganica;  
+termodinamica dei processi irreversibili;  
+chimica organica fisica.  
+Indirizzo organico biologico:  
+chimica analitica clinica;  
+chimica biorganica;  
+chimica delle sostanze organiche naturali;  
+chimica dei composti eterociclici;  
+meccanismi di reazione in chimica organica;  
+stereochimica organica;  
+metodi fisici in chimica organica.  
+Art. 96 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti insegnamenti:  
+anatomia vegetale;  
+elettrofisiologia;  
+genetica molecolare;  
+microbiologia generale.  
+Nel medesimo elenco e' soppresso l'insegnamento di "microbiologia".  
+Art. 97 - il comma di cui alla lettera f) e' soppresso e sostituito come segue: "b) Non potra' essere ammesso a sostenere l'esame di genetica senza aver prima superato gli esami di botanica I e di zoologia I".  
+Art. 98 - all'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti insegnamenti:  
+biostratigrafia;  
+climatologia;  
+complementi di geofisica;  
+cristallografia e cristallochimica;  
+fisica del vulcanismo;  
+geochimica applicata;  
+geodinamica;  
+geologia ambientale;  
+geologia del quaternario;  
+geologia strutturale;  
+geologia tecnica;  
+geomorfologia applicata;  
+mineralogia dei sedimenti;  
+paleobiogeografia con elementi di paleoecologia;  
+petrografia regionale;  
+prospezione geofisica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma addi' 24 febbraio 1964
+### Dato a Roma, addi' 26 aprile 1984
 
-SEGNI GUI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 21 aprile 1964
+Registrato alla Corte dei conti, addi' 24 agosto 1984
 
-Atti del Governo, registro n. 182, foglio n. 1235. - VILLA
+Registro n. 51 Istruzione, foglio n. 78

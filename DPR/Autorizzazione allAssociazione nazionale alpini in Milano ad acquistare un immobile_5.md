@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1985 n. 524
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 dicembre 1978 n. 998
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1985 n. 524
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 dicembre 1978 n. 998
+===============================================================
 
 Autorizzazione all'Associazione nazionale alpini, in Milano, ad acquistare un immobile.
 ---------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-524. Decreto del Presidente della Repubblica 18 luglio 1985, col quale, sulla proposta del Ministro della difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad acquistare, al prezzo di L. 3.000.000, un appezzamento di terreno di mq 84 sito in Altavilla Vicentina, localita' Tavernelle, censito al nuovo catasto terreni alla sezione A, foglio 4, mappali 21/d e 231/b di proprieta' del sig. Antonio Tomasi.  
+998. Decreto del Presidente della Repubblica 13 dicembre 1978, col quale, sulla proposta del Ministro della difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad acquistare, al prezzo di L. 6.000.000, l'appartamento ubicato al 1° piano, interno 3-bis, del fabbricato che sorge in Savona, via Pia n. 8, iscritto al nuovo catasto edilizio urbano alla partita 480, foglio 79, mappale 227, sub 21, di vani 2,5, di proprieta' della sig.ra Barbero Giuseppina, da adibire a sede della sezione di Savona.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 24 settembre 1985  
-Registro n. 30 Difesa, foglio n. 399
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 21 febbraio 1979  
+Registro n. 9 Difesa, foglio n. 388

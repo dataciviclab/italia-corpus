@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 novembre 1982 n. 1058
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 863
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 novembre 1982 n. 1058
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 863
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Venezia.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Venezia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Venezia, approvato con [regio decreto 20 aprile 1939, n. 1029](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1029), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Venezia, approvato con [regio decreto 20 aprile 1939, n. 1029](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1029), e modificato con [regio decreto 26 marzo 1942, n. 352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-26;352), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,13 +18,15 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Venezia e convalidati dal Consiglio universitario nazionale nel suo parere;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
 
 Sentito il parere del Consiglio universitario nazionale;
 
@@ -33,25 +35,26 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' di Venezia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Venezia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Nell'art. 1 nell'elenco dei laboratori, istituti e seminari della facolta' di economia e commercio e' soppresso il laboratorio di merceologia.  
-Nello stesso articolo nell'elenco dei seminari della facolta' di lingue e letterature straniere e' soppresso il seminario di letteratura latina.  
+Gli articoli da 41 a 46, relativi alla scuola di perfezionamento e corso di specializzazione in lingue e letterature straniere sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 novembre 1982
+### Dato a Roma, addi' 19 luglio 1986
 
-PERTINI BODRATO
+COSSIGA
 
-Visto, il Guardasigilli: DARIDA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 10 gennaio 1983
+Visto, il Guardasigilli: ROGNONI
 
-Registro n. 1 Istruzione, loglio n. 32
+Registrato alla Corte dei conti, addi' 27 novembre 1986
+
+Registro n. 86 Istruzione, foglio n. 144

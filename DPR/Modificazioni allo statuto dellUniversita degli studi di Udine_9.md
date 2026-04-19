@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 814
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 1031
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 814
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 1031
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Udine.
 -----------------------------------------------------------------
@@ -22,6 +22,8 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Udine e convalidati dal Consiglio universitario nazionale nel suo parere;
@@ -35,82 +37,40 @@ Decreta:
 
 Lo statuto dell'Universita' di Udine, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 1
-------
-
-  
-L'art. 6 e' soppresso e sostituito come segue:  
-Art. 6. - I singoli istituti o seminari sono diretti da un professore ordinario o straordinario nominato dal rettore su designazione del consiglio di istituto.  
-Il direttore rimane in carica un triennio e puo' essere riconfermato.  
-In mancanza di professori ordinari o straordinari afferenti all'istituto o seminario ovvero in caso di impedimento ritenuto motivato dal senato accademico, la direzione e' affidata con le modalita' sopra indicate e per la durata di un anno, ad un professore associato o in mancanza di questi, ovvero in caso di motivato impedimento, riconosciuto con le modalita' di cui sopra, ad altro docente afferente ad istituto o seminario stesso.  
-Le norme comuni di gestione e di funzionamento degli istituti o seminari saranno determinate da un regolamento emanato dal rettore sentito il senato accademico e il consiglio di amministrazione.  
-Art. 8 - il primo comma e' soppresso e sostituito come segue:  
-Art. 8, primo comma. - Gli istituti policattedra previsti dallo statuto saranno attivati quando le esigenze didattiche e scientifiche lo richiedano.  
-Inoltre gli istituti di:  
-matematica, informatica e sistematica;  
-pedagogia e didattica delle lingue moderne, cambiano la denominazione rispettivamente in:  
-matematica, informatica e sistemistica;  
-filosofia, pedagogia, didattica delle lingue moderne.  
-Art. 9 - l'art. 9 e' soppresso e sostituito come segue:  
-Art. 9. - Le scuole dirette a fini speciali, le scuole di specializzazione e i corsi di perfezionamento sono organizzati con le modalita' e i fini previsti nel [decreto del Presidente della Repubblica 10 marzo 1982, n. 172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;172).  
-Art. 12 - dopo il primo comma inserire:  
-Il centro linguistico audiovisivi potra' svolgere anche attivita' di ricerca scientifica.  
-Gli articoli 13 e 14 sono soppressi e sostituiti come segue:  
-Art. 13. - Allo svolgimento di ciascun insegnamento di durata annuale o pluriennale devono essere dedicate le ore previste dalla normativa vigente. Gli insegnamenti possono essere integrati da esercitazioni.  
-Art. 14. - Agli insegnamenti di durata semestrale devono essere dedicate le ore previste dalla normativa vigente, comunque non meno della meta' di quelle richieste per i corsi annuali.  
-Gli insegnamenti possono essere integrati da esercitazioni.  
-
-Art. 2
-------
+Articolo unico
+--------------
 
   
   
-Art. 15 - all'elenco degli insegnamenti complementari vengono inserite le seguenti discipline:   
-etnolinguistica   
-filosofia della politica   
-filosofia della religione   
-filosofia della storia   
-filosofia dell'educazione   
-geografia delle lingue   
-geografia sociale   
-letterature moderne comparate   
-lingua e letteratura basca   
-lingua e letteratura bretone   
-lingua e letteratura catalana   
-lingua e letteratura galiega   
-lingua e letteratura occitana   
-linguistica friulana   
-metodologia dei sussidi audiovisivi   
-metodologia didattica   
-pedagogia sperimentale   
-psicopedagogia   
-storia del cristianesimo   
-storia del Friuli   
-storia della Chiesa nell'eta' moderna e contemporanea   
-storia della critica letteraria   
-storia della filosofia contemporanea   
-storia della filosofia medioevale   
-storia delle dottrine morali   
-storia dell'ebraismo   
-storia dell'eta' della riforma e della controriforma   
-storia dell'Illuminismo   
-storia del Rinascimento   
-storia economica   
-storia sociale   
-teoria e tecnica della traduzione   
-toponomastica   
-Art. 24 - nel quartultimo comma e' soppressa la espressione: "nonche' di un'altra lingua moderna straniera a scelta dello studente".   
+Art. 30 - nell'elenco degli insegnamenti fondamentali del corso di laurea in scienze delle preparazioni alimentari, sono apportate le seguenti modifiche:   
+Biennio propedeutico:   
+Sono soppressi gli insegnamenti di:   
+chimica organica (biennale);   
+chimica analitica (biennale),   
+e sono sostituiti con la conseguente variazione della numerazione degli insegnamenti del biennio medesimo, rispettivamente con i seguenti insegnamenti:   
+chimica organica I;   
+chimica organica II;   
+chimica analitica I;   
+chimica analitica II.   
+Triennio di studi di applicazione:   
+E' soppresso l'insegnamento biennale di "industrie alimentari" ed e' sostituito, con la conseguente variazione della numerazione degli insegnamenti del triennio medesimo, dagli insegnamenti di:   
+industrie alimentari I;   
+industrie alimentari II.   
+Art. 31 - il secondo comma e' soppresso e sostituito come segue:   
+"A giudizio della facolta' gli insegnamenti di chimica organica II e chimica analitica II potranno essere svolti nel triennio di applicazione".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1983
+### Dato a Roma, addi' 31 ottobre 1985
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 16 gennaio 1984
+Registrato alla Corte dei conti, addi' 12 aprile 1986
 
-Registro n. 1 Istruzione, foglio n. 22
+Registro n. 27 Istruzione, foglio n. 314

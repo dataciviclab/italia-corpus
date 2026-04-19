@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1974 n. 406
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 novembre 1979 n. 853
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1974 n. 406
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 novembre 1979 n. 853
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-406. Decreto del Presidente della Repubblica 7 giugno 1974, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Emilia Peluffo ved. Nobile, con testamento olografo in data 12 ottobre 1968, pubblicato, a rogito del notaio dott. Guido Gili di Torino, in data 24 ottobre 1972, n. 3645 di repertorio e n. 1677 di raccolta e registrato a Torino il 7 novembre 1972 al n. 35960 atti pubblici, consistente nella somma di L. 6.952.230.  
+853. Decreto del Presidente della Repubblica 28 novembre 1979, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in titoli del valore nominale di L. 3.000.000, disposto a favore dell'istituto per i mutilatini di don Gnocchi, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, dalla sig.ra Aurelia Adele Cazzaniga, con testamento olografo 15 luglio 1971, pubblicato in data 16 dicembre 1976, n. 43632/13073 di repertorio, a rogito dott.  
+Teodoro Berera, notaio in Lecco (Como), registrato a Lecco in data 29 dicembre 1976, n. 2600, vol. 219 A.P.  
   
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 22 agosto 1974  
-Atti di Governo, registro n. 5, foglio n. 9. - SCIARRETTA
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 21 marzo 1980  
+Registro n. 2 Presidenza, foglio n. 340

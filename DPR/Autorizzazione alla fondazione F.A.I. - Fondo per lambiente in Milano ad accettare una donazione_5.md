@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1986 n. 187
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 marzo 1986 n. 375
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1986 n. 187
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 marzo 1986 n. 375
+============================================================
 
 Autorizzazione alla fondazione "F.A.I. - Fondo per l'ambiente", in Milano, ad accettare una donazione.
 ------------------------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione alla fondazione "F.A.I. - Fondo per l'ambiente", in Milano, ad ac
 Art. 1
 ------
 
-n.
+N.
 
-187. Decreto del Presidente della Repubblica 7 febbraio 1986, col quale, sulla proposta del Ministro per i beni culturali e ambientali, la fondazione "F.A.I. - Fondo per l'ambiente", in Milano, viene autorizzata ad accettare la donazione, consistente in un appezzamento di terreno di circa 4.420 mq, sito in comune di Camogli (Genova), del valore di L. 6.630.000, disposta dalla sig.ra Carla Salvucci con atto 21 settembre 1981, n. 26558 di repertorio, a rogito dott. Francesca Testa, notaio in Milano, registrato a Milano in data 25 settembre 1981 al n. 24055.  
+375. Decreto del Presidente della Repubblica 19 marzo 1986, col quale, sulla proposta del Ministro per i beni culturali e ambientali, la fondazione "F.A.I. - Fondo per l'ambiente", in Milano, viene autorizzata ad accettare, la donazione, consistente in un terreno in comune di Isola di Capraia (Livorno), localita' Bellavista, del valore di lire 10.000.000, disposta dal signor Vigoni Medici di Marignano Ignazio, con atto 15 marzo 1978, n. 8324 di repertorio, a rogito dott. Paolo Sala, notaio in Giussano (Milano) e registrato a Giussano in data 21 marzo 1978 al n. 1945.   
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 6 maggio 1986  
-Registro n. 10 Beni culturali, foglio n. 325
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 8 luglio 1986   
+Registro n. 17 Beni culturali, foglio n. 5

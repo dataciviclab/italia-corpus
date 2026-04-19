@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1963 n. 2213
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 960
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1963 n. 2213
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 960
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -10,55 +10,77 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939 n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto - legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito in [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1632](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1632) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di apportare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Cagliari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appreso:  
-L'art. 64, relativo al corso di laurea in Ingegneria civile e' abrogato e sostituito dal seguente:  
-Art. 64. Il corso di laurea in Ingegneria civile e' distinto nelle seguenti tre sezioni: Edile, Idraulica, Trasporti; esso comprende i seguenti insegnamenti:  
-Gruppo   
-1° anno  
-1) Analisi matematica I . . . . . . . . . . . . . . . . . . . . A 2) Chimica. . . . . . . . . . . . . . . . . . . . . . . . . . . A 3) Disegno I. . . . . . . . . . . . . . . . . . . . . . . . . . A 4) Fisica I . . . . . . . . . . . . . . . . . . . . . . . . . . A 5) Geometria. . . . . . . . . . . . . . . . . . . . . . . . . . A 6) Analisi matematica . . . . . . . . . . . . . . . . . . . . . A 7) Disegno II . . . . . . . . . . . . . . . . . . . . . . . . . A 8) Fisica II. . . . . . . . . . . . . . . . . . . . . . . . . . A 9) Meccanica razionale. . . . . . . . . . . . . . . . . . . . . A 10) Applicazione di geometria descrittiva . . . . . . . . . . . B Triennio di applicazione:  
-11) Scienza delle costruzioni I . . . . . . . . . . . . . . . . A 12) Meccanica applicata alle macchine e macchine. . . . . . . . A 13) Fisica tecnica. . . . . . . . . . . . . . . . . . . . . . . A 14) Elettrotecnica. . . . . . . . . . . . . . . . . . . . . . . A 15) Architettura tecnica. . . . . . . . . . . . . . . . . . . . A 16) Tecnologia dei materiali e Chimica applicata. . . . . . . . A 17) Topografia. . . . . . . . . . . . . . . . . . . . . . . . . A 18) Idraulica . . . . . . . . . . . . . . . . . . . . . . . . . A 19) Scienza delle costruzioni . . . . . . . . . . . . . . . . . B 20) Tecnica delle costruzioni . . . . . . . . . . . . . . . . . A 21) Costruzioni di strade, ferrovie ed aeroporti. . . . . . A - B 22) Architettura e composizioni architettonica I. . . . . . A - B 24) Economia e diritto. . . . . . . . . . . . . . . . . . . . . B 25) Estimo e contabilita' dei lavori. . . . . . . . . . . . . . B   
-Sezione edile  
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Orientamento A:  
-26) Architettura e composizione architettonica II . . . . . . . C 27) Urbanistica II. . . . . . . . . . . . . . . . . . . . . . . C 28) Architettura degli interni. . . . . . . . . . . . . . . . . C 29) Storia dell'architettura. . . . . . . . . . . . . . . . . . C 30) Rilievo e restauro dei monumenti. . . . . . . . . . . . . . C   
-Orientamento B:  
-26) Architettura e composizione architettonica II . . . . . . . C 27) Urbanistica II. . . . . . . . . . . . . . . . . . . . . . . C 28) Impianti tecnici edili. . . . . . . . . . . . . . . . . . . C 29) Ponti e strutture speciali. . . . . . . . . . . . . . . . . C 30) Ingegneria sanitaria. . . . . . . . . . . . . . . . . . . . C   
-Orientamento C:  
-26) Ponti e strutture speciali. . . . . . . . . . . . . . . . . C 27) Meccanica delle terre e fondazioni. . . . . . . . . . . . . C 28) Costruzioni idrauliche. . . . . . . . . . . . . . . . . . . C 29) Organizzazione dei cantieri . . . . . . . . . . . . . . . . C 30) Sperimentazione dei materiali e delle strutture . . . . . . C 26) Costruzioni idrauliche. . . . . . . . . . . . . . . . . . . A   
-Indirizzo agrario - sanitario:  
-27) Complementi di idraulica (corso semestrale) . . . . . . . . C 28) Acquedotti, Bonifiche, Fognature. . . . . . . . . . . . . . C 29) Geologia applicata. . . . . . . . . . . . . . . . . . . . . C 30) Idrologia tecnica (corso semestrale). . . . . . . . . . . . C 31) Ingegneria sanitaria. . . . . . . . . . . . . . . . . . . . C   
-Indirizzo impianti:  
-27) Complementi di idraulica (corso semestrale) . . . . . . . . C 28) Impianti speciali idraulici . . . . . . . . . . . . . . . . C 29) Meccanica delle terre e fondazioni. . . . . . . . . . . . . C 30) Costruzioni marittime (corso semestrale). . . . . . . . . . C 31) Geologia, applicata . . . . . . . . . . . . . . . . . . . . C   
-Sezione trasporti  
+Dopo l'art. 228, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in gastroenterologia ed endoscopia digestiva.   
   
-Orientamento A:  
-26) Tecnica ed economia dei trasporti I . . . . . . . . . . . . C 27) meccanica delle terre e fondazioni. . . . . . . . . . . . . C 28) Tecnica ed economia dei trasporti II. . . . . . . . . . . . C 29) Trazione elettrica. . . . . . . . . . . . . . . . . . . . . C 30) Tecnica della circolazione stradale . . . . . . . . . . . . C   
-Orientamento B:  
-26) Tecnica ed economia dei trasporti . . . . . . . . . . . . . C 27) Meccanica delle terre e fondazioni. . . . . . . . . . . . . C 28) Organizzazione dei cantieri . . . . . . . . . . . . . . . . C 29) Ponti e strutture speciali. . . . . . . . . . . . . . . . . C 30) Costruzioni di strade ferrovie, aeroporti II. . . . . . . . C   
+Scuola di specializzazione in gastroenterologia ed endoscopia digestiva   
+  
+Art. 229. - La scuola di specializzazione in gastroenterologia ed endoscopia digestiva ha sede presso l'istituto di patologia medica II dell'Universita' di Cagliari e conferisce il diploma di specialista in gastroenterologia ed endoscopia digestiva.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di 4 (quattro) anni e non e' suscettibile di abbreviazione.   
+Il numero di allievi e' complessivamente di 18 (diciotto) per l'intero corso.   
+L'ammissione al corso avviene per titoli ed esami   
+Art. 230. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+anatomia clinica;   
+farmacologia clinica;   
+chimica clinica, coprologia, parassitologia;   
+genetica;   
+biostatistica ed epidemiologia.   
+2° Anno:   
+clinica medica generale (triennale) I;   
+clinica e terapia del tubo digerente, fegato e pancreas (triennale) I;   
+anatomia e istologia patologica (biennale) I;   
+fisiopatologia e semeiotica digestiva (biennale) I;   
+radiologia e medicina nucleare (biennale) I;   
+scienza dell'alimentazione dietetica.   
+3° Anno:   
+clinica medica generale (triennale) II;   
+clinica e terapia del tubo digerente, fegato e pancreas (triennale) II;   
+anatomia e istologia patologica (biennale) II;   
+fisiopatologia e semeiotica digestiva (biennale) II;   
+radiologia e medicina nucleare (biennale) II;   
+endoscopia digestiva (biennale) I.   
+4° Anno:   
+clinica medica generale (triennale) III;   
+clinica e terapia del tubo digerente, fegato e pancreas (triennale) III;   
+endoscopia digestiva (biennale) II;   
+terapia intensiva;   
+gastroenterologia pediatrica;   
+elementi di chirurgia del tubo digerente, fegato e pancreas.   
+Art. 231. - E' obbligatorio il tirocinio pratico durante il quadriennio di studi da svolgere nell'istituto clinico sede della scuola o in reparto ospedaliero di gastroenterologia, conforme alle scelte approvate dal consiglio della scuola.   
+Per le materie biennali e triennali sara' dato l'esame alla fine del biennio o triennio.   
+La frequenza alle lezioni e alle esercitazioni pratiche e obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno; per le materie biennali e triennali, invece, sara' date l'esame alla fine del biennio o del triennio.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in gastroenterologia ed endoscopia digestiva, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta in in argomento attinente la specializzazione.   
+  
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Sassari, addi' 31 dicembre 1963
+### Dato a Roma, addi' 31 ottobre 1978
 
-SEGNI GUI
+PERTINI PEDINI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 2 marzo 1964
+Registrato alla Corte dei conti, addi' 30 gennaio 1979
 
-Atti del Governo, registro n. 181, foglio n. 144 - VILLA
+Registro n. 4 Istruzione, foglio n. 13

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1976 n. 173
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1984 n. 816
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1976 n. 173
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1984 n. 816
+================================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-173. Decreto del Presidente della Repubblica 6 marzo 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dal sig. don Giuseppe Lazzari in favore dell'Opera di don Gnocchi, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, con testamento olografo 4 marzo 1972, pubblicato a rogito dott. Gianfranco Palavera, notaio in Gallarate (Milano), in data 26 gennaio 1973, n. 14 di repertorio, n. 1995 di raccolta, registrato a Gallarate il 13 febbraio 1973 con il n. 968, vol. 216, consistente nella somma di L. 3.000.000.  
+816. Decreto del Presidente della Repubblica 14 settembre 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata, ad accettare il legato, con l'obbligo di smobilizzo entro cinque anni dall'avvenuto consolidamento dell'usufrutto, consistente nella nuda proprieta' di un immobile sito nel comune di Settimo Torinese (Torino), via Mincio n. 3, meglio descritto nella perizia giurata del geom. Paolo Maddaloni, del valore di L. 12.000.000 elevato dall'ufficio tecnico erariale di Torino a L. 20.000.000, disposto dalla sig.ra Brusa Fortunata Margherita ved. Kunbrija con testamento olografo 15 marzo 1973, pubblicato a rogito dottore Emilio Turbil, notaio in Torino, in data 15 dicembre 1976, n. 45070 di repertorio, n. 13923 di raccolta, registrato a Torino il 3 gennaio 1977 al n. 44.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 24 aprile 1976  
-Atti di Governo, registro n. 5, foglio n. 37
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 24 novembre 1984  
+Registro n. 10 Presidenza, foglio n. 188

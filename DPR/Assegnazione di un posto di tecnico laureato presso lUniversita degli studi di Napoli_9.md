@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 660
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 novembre 1984 n. 1210
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 660
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 novembre 1984 n. 1210
+================================================================
 
 Assegnazione di un posto di tecnico laureato presso l'Universita' degli studi di Napoli.
 ----------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-660. Decreto del Presidente della Repubblica 16 giugno 1983, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato al laboratorio di radioprotezione dell'Universita' di Napoli.  
+1210. Decreto del Presidente della Repubblica 21 novembre 1984, col quale, sulla proposta del Ministro della pubblica istruzione; un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di chirurgia d'urgenza (per la cattedra di chirurgia toraco-polmonare) della prima facolta' di medicina e chirurgia dell'Universita' di Napoli.  
   
 Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 23 novembre 1983  
-Registro n. 71 Istruzione, foglio n. 279
+Registrato alla Corte dei conti, addi' 18 settembre 1985  
+Registro n. 63 Istruzione, foglio n. 356

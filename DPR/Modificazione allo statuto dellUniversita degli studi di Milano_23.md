@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1985 n. 193
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 267
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1985 n. 193
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 267
 ============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Milano.
@@ -22,13 +22,11 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
-
-Veduto le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio universitario razionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
@@ -41,20 +39,20 @@ Articolo unico
 --------------
 
   
-Art. 30 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' inserito l'insegnamento di "cardiochirurgia".  
+Nell'art. 30, concernente il corso di laurea in odontoiatria e protesi dentaria, sono soppressi tutti gli asterischi apposti sia agli insegnamenti fondamentali sia agli insegnamenti complementari.  
+Nel medesimo articolo, dopo l'elenco degli insegnamenti complementari sono soppressi:  
+la frase: "altri insegnamenti complementari nel piano della facolta' sempre mutuati dal corso di laurea in medicina e chirurgia"; il comma: "Gli insegnamenti segnati con asterisco sono mutuati dal corso di laurea in medicina e chirurgia".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 marzo 1985
+### Dato a Roma, addi' 28 marzo 1983
 
-PERTINI
+PERTINI FALCUCCI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DARIDA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 28 maggio 1983
 
-Registrato alla Corte dei conti, addi' 4 maggio 1985
-
-Registro n. 29 Istruzione, foglio n. 340
+Registro n. 39 Istruzione, foglio n. 290

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1978 n. 618
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 217
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1978 n. 618
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 217
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
@@ -18,189 +18,97 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio universitario nazionale nei suoi pareri;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla
+-----
 
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appreso:
-
-Gli articoli da 112 a 120, relativi alla scuola di perfezionamento e di specializzazione in diritto del lavoro ed in organizzazione aziendale, che muta la denominazione in scuola di perfezionamento e di specializzazione in diritto del lavoro, sono soppressi e sostituiti dai seguenti:
-
-Scuola di perfezionamento in diritto del lavoro
-
-Art. 112. - La scuola di diritto del lavoro, annessa all'istituto di diritto del lavoro della facolta' di giurisprudenza, ha lo scopo di integrare la preparazione scientifica e professionale dei giovani, perfezionandoli e specializzandoli nelle discipline giuridiche attinenti al lavoro.
-
-Art. 113. - La scuola e' retta da un direttore e da un consiglio composto dai professori titolari degli insegnamenti fondamentali della scuola. Partecipano alle riunioni del consiglio per l'esame dei problemi concernenti il coordinamento dei programmi tutti i docenti della scuola.
-
-Direttore ne e' il professore titolare della cattedra di diritto del lavoro della facolta' di giurisprudenza o, in mancanza, un professore di ruolo nominato dal rettore su proposta della facolta' di giurisprudenza.
-
-Il direttore puo' designare tra i componenti del consiglio un vice direttore che lo coadiuva e lo sostituisce in caso di impedimento.
-
-La nomina dei docenti e' fatta dal rettore su designazione del consiglio della facolta' di giurisprudenza su proposta del consiglio della scuola.
-
-Art. 114. - Alla scuola possono essere iscritti i laureati in giurisprudenza, scienze politiche, economia e commercio.
-
-Possono essere iscritti anche coloro che siano in possesso di una laurea diversa e che abbiano sostenuto con esito positivo un colloquio di ammissione.
-
-La misura delle tasse, soprattasse e contributi vari per la scuola e' la seguente:
-
-tassa annuale d'iscrizione. . . . . . . . . . . . . . . . . L. 20.000 soprattassa annuale per esami di profitto. . . . . . . . . . L. 7.000 contributo di riscaldamento. . . . . . . . . . . . . . . . . L. 3.000 soprattassa per esami di diploma . . . . . . . . . . . . . . L. 3.000 tassa di diploma . . . . . . . . . . . . . . . . . . . . . . L. 6.000
-
-Art. 115. - La scuola ha la durata di due anni. Nel primo anno sono impartiti per incarico gli insegnamenti fondamentali insostituibili.
-
-Nel secondo anno gli studenti hanno l'obbligo di frequentare, secondo un piano presentato ed approvato al suo inizio, almeno tre tra i corsi organizzati in forma di seminario che siano effettivamente attivati. Il piano di studi formulato dagli studenti per il secondo anno deve essere approvato dal consiglio della scuola.
-
-Art. 116. - L'esame di diploma consiste in un colloquio generale sulle materie seguite dallo studente e nella discussione di una breve memoria originale, redatta anche in forma di nota a sentenza. La scuola rilascia un diploma di specializzazione. Il colloquio generale che lo studente deve sostenere, verte sulle materie fondamentali insostituibili e su quelle attivate in forma di seminario inserite nel piano individuale ai sensi dell'art. 115.
-
-Art. 117. - Gli insegnamenti fondamentali insostituibili nella scuola sono:
-
-1) diritto dell'impresa privata;
-
-2) diritto dell'impresa pubblica;
-
-3) diritto sindacale;
-
-4) diritto del lavoro;
-
-5) diritto della previdenza sociale (o della "sicurezza" sociale).
-
-Gli insegnamenti della scuola tra i quali vanno scelti quelli da attivare in forma di seminario sono:
-
-1) legislazione del lavoro;
-
-2) il lavoro marittimo e del personale di volo;
-
-3) il rapporto di pubblico impiego;
-
-4) diritto processuale del lavoro e della sicurezza sociale;
-
-5) diritto penale del lavoro;
-
-6) diritto internazionale del lavoro;
-
-7) diritto sociale europeo;
-
-8) storia del movimento sindacale;
-
-9) economia del lavoro;
-
-10) contratti speciali di lavoro;
-
-11) sociologia del lavoro;
-
-12) psicologia industriale;
-
-13) diritto comparato del lavoro;
-
-14) diritto sindacale comparato;
-
-15) diritto comparato della sicurezza sociale;
-
-16) problemi attuali di organizzazione sindacale.
-
-Gli insegnamenti sono integrati dallo svolgimento di conferenze, anche articolate, di letture collettive di monografie e di sentenze.
-
-Art. 118. - La scuola curera' la stampa di una rivista nella quale potranno essere pubblicate anche le memorie di diploma giudicate degne a tale fine.
-
-Art. 119. - La scuola potra' stabilire, su deliberazione del consiglio, rapporti continuativi con enti sindacali, con enti pubblici e pubbliche amministrazioni, con istituzioni attinenti alle materie del corso, ai fini della ricerca scientifica e della specializzazione professionale dei giovani.
-
-La scuola potra', inoltre, su deliberazione del consiglio, promuovere corsi intensivi di aggiornamento secondo le modalita' stabilite di volta in volta.
-
-Art. 120. - La scuola promuove l'assegnazione agli iscritti di borse e premi di studio secondo le modalita' stabilite per ciascun anno dal consiglio della facolta' di giurisprudenza su proposta del consiglio della scuola.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 18 febbraio 1978
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 9 ottobre 1978 Registro n. 109 Istruzione, foglio n. 191
+proposta del Ministro della pubblica istruzione; Decreta:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 138 e 139, relativi alla scuola di specializzazione in radiologia, sono soppressi e sostituiti dai seguenti:  
   
-Decreta:  
+Scuola di specializzazione in radiologia  
+Art. 138. - La scuola di specializzazione in radiologia ha sede presso l'istituto di radiologia ed e' diretta dal professore di ruolo o fuori ruolo della stessa materia o, in carenza, di materia affine.  
+Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso di diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione per titoli ed esami.  
+Non sono ammesse abbreviazioni di corso.  
+La scuola conferisce i seguenti diplomi:  
+a) diploma di specialista in radiodiagnostica. Gli anni di studio necessari per conseguire questo titolo sono quattro;  
+b) diploma di specialista in radioterapia oncologica. Gli anni di studio necessari per conseguire questo titolo sono quattro.  
+La scuola ha un tronco comune di due anni identico per i diplomi in radiodiagnostica e radioterapia oncologica.  
+Gli insegnamenti per il diploma di specialista in radiodiagnostica sono cosi' distribuiti nei quattro anni di corso:  
   
-Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appreso:  
-Gli articoli da 112 a 120, relativi alla scuola di perfezionamento e di specializzazione in diritto del lavoro ed in organizzazione aziendale, che muta la denominazione in scuola di perfezionamento e di specializzazione in diritto del lavoro, sono soppressi e sostituiti dai seguenti:  
+1° Anno (comune alla specializzazione in radioterapia oncologica):  
+a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);  
+b) radiobiologia, legislazione e norme generali di radioprotezione;  
+c) tecnica di acquisizione memorizzazione dei dati, fotodocumentazione e archiviazione;  
+d) nozioni di anatomia e fisiologia generale.  
+2° Anno (comune alla radioterapia oncologica):  
+a) anatomia patologica;  
+b) apparecchiature e tecniche radiologiche;  
+c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);  
+d) radiopatologia;  
+e) dosimetria applicata.  
+3° Anno:  
+a) tecniche speciali e relativa semeiotica (I);  
+b) radiodiagnostica speciale dei vari organi ed apparati (I).  
+4° Anno:  
+a) tecniche speciali e relativa semeiotica (termografi, ecografia, xerografia, TAC.) (II);  
+b) radiodiagnostica speciale dei vari organi ed apparati (II).  
+Art. 139. - Gli insegnamenti per il diploma di specialista in radioterapia oncologica sono cosi' distribuiti nei quattro anni di corso:  
+1° Anno (comune alla specializzazione in radiodiagnostica):  
+a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);  
+b) radiobiologia, legislazione e norme generali di radioprotezione;  
+c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;  
+d) nozioni di anatomia e fisiologia generale.  
+2° Anno (comune a radiodiagnostica):  
+a) anatomia patologica;  
+b) apparecchiature e tecniche radiologiche;  
+c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);  
+d) radiopatologia;  
+e) dosimetria applicata.  
+3° Anno:  
+a) oncologia generale;  
+b) oncologia clinica (I);  
+c) tecniche radioterapiche (I).  
+4° Anno:  
+a) oncologia clinica (II);  
+b) fondamenti di terapia chirurgica dei tumori;  
+c) radioterapia clinica;  
+d) trattamento del canceroso in fase avanzata.  
   
-Scuola di perfezionamento in diritto del lavoro  
-Art. 112. - La scuola di diritto del lavoro, annessa all'istituto di diritto del lavoro della facolta' di giurisprudenza, ha lo scopo di integrare la preparazione scientifica e professionale dei giovani, perfezionandoli e specializzandoli nelle discipline giuridiche attinenti al lavoro.  
-Art. 113. - La scuola e' retta da un direttore e da un consiglio composto dai professori titolari degli insegnamenti fondamentali della scuola. Partecipano alle riunioni del consiglio per l'esame dei problemi concernenti il coordinamento dei programmi tutti i docenti della scuola.  
-Direttore ne e' il professore titolare della cattedra di diritto del lavoro della facolta' di giurisprudenza o, in mancanza, un professore di ruolo nominato dal rettore su proposta della facolta' di giurisprudenza.  
-Il direttore puo' designare tra i componenti del consiglio un vice direttore che lo coadiuva e lo sostituisce in caso di impedimento.  
-La nomina dei docenti e' fatta dal rettore su designazione del consiglio della facolta' di giurisprudenza su proposta del consiglio della scuola.  
-Art. 114. - Alla scuola possono essere iscritti i laureati in giurisprudenza, scienze politiche, economia e commercio.  
-Possono essere iscritti anche coloro che siano in possesso di una laurea diversa e che abbiano sostenuto con esito positivo un colloquio di ammissione.  
-La misura delle tasse, soprattasse e contributi vari per la scuola e' la seguente:  
+I singoli insegnamenti sono tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento.  
+Il numero massimo di iscritti in corso alla scuola e' di cinquantadue di cui trentadue da ripartirsi annualmente nel corso di diploma di radiodiagnostica e di venti da ripartirsi annualmente nel corso di diploma di radioterapia.  
+La frequenza e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei. L'insegnamento viene svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti ecc. Gli allievi per essere ammessi a sostenere gli esami delle singole materie, devono avere la firma di frequenza da parte del direttore della scuola stessa.  
+Gli allievi al termine di ogni anno devono superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.  
+Gli allievi per conseguire il diploma di specializzazione, oltre ad essere stati approvati in tutti gli esami, devono elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.  
+
+Art. 2
+------
+
   
-tassa annuale d'iscrizione. . . . . . . . . . . . . . . . . L. 20.000 soprattassa annuale per esami di profitto. . . . . . . . . . L. 7.000 contributo di riscaldamento. . . . . . . . . . . . . . . . . L. 3.000 soprattassa per esami di diploma . . . . . . . . . . . . . . L. 3.000 tassa di diploma . . . . . . . . . . . . . . . . . . . . . . L. 6.000   
-Art. 115. - La scuola ha la durata di due anni. Nel primo anno sono impartiti per incarico gli insegnamenti fondamentali insostituibili.  
-Nel secondo anno gli studenti hanno l'obbligo di frequentare, secondo un piano presentato ed approvato al suo inizio, almeno tre tra i corsi organizzati in forma di seminario che siano effettivamente attivati. Il piano di studi formulato dagli studenti per il secondo anno deve essere approvato dal consiglio della scuola.  
-Art. 116. - L'esame di diploma consiste in un colloquio generale sulle materie seguite dallo studente e nella discussione di una breve memoria originale, redatta anche in forma di nota a sentenza. La scuola rilascia un diploma di specializzazione. Il colloquio generale che lo studente deve sostenere, verte sulle materie fondamentali insostituibili e su quelle attivate in forma di seminario inserite nel piano individuale ai sensi dell'art. 115.  
-Art. 117. - Gli insegnamenti fondamentali insostituibili nella scuola sono:  
-1) diritto dell'impresa privata;  
-2) diritto dell'impresa pubblica;  
-3) diritto sindacale;  
-4) diritto del lavoro;  
-5) diritto della previdenza sociale (o della "sicurezza" sociale).  
-Gli insegnamenti della scuola tra i quali vanno scelti quelli da attivare in forma di seminario sono:  
-1) legislazione del lavoro;  
-2) il lavoro marittimo e del personale di volo;  
-3) il rapporto di pubblico impiego;  
-4) diritto processuale del lavoro e della sicurezza sociale;  
-5) diritto penale del lavoro;  
-6) diritto internazionale del lavoro;  
-7) diritto sociale europeo;  
-8) storia del movimento sindacale;  
-9) economia del lavoro;  
-10) contratti speciali di lavoro;  
-11) sociologia del lavoro;  
-12) psicologia industriale;  
-13) diritto comparato del lavoro;  
-14) diritto sindacale comparato;  
-15) diritto comparato della sicurezza sociale;  
-16) problemi attuali di organizzazione sindacale.  
-Gli insegnamenti sono integrati dallo svolgimento di conferenze, anche articolate, di letture collettive di monografie e di sentenze.  
-Art. 118. - La scuola curera' la stampa di una rivista nella quale potranno essere pubblicate anche le memorie di diploma giudicate degne a tale fine.  
-Art. 119. - La scuola potra' stabilire, su deliberazione del consiglio, rapporti continuativi con enti sindacali, con enti pubblici e pubbliche amministrazioni, con istituzioni attinenti alle materie del corso, ai fini della ricerca scientifica e della specializzazione professionale dei giovani.  
-La scuola potra', inoltre, su deliberazione del consiglio, promuovere corsi intensivi di aggiornamento secondo le modalita' stabilite di volta in volta.  
-Art. 120. - La scuola promuove l'assegnazione agli iscritti di borse e premi di studio secondo le modalita' stabilite per ciascun anno dal consiglio della facolta' di giurisprudenza su proposta del consiglio della scuola.  
+L'[art. 176 del decreto del Presidente della Repubblica 22 maggio 1978, n. 614](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-05-22;614~art176), relativo alla scuola di specializzazione in urologia, e' modificato nel senso che il numero degli iscritti e' stabilito in sei per anno di corso e complessivamente di trenta iscritti per l'intero corso di studi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 febbraio 1978
+### Dato a Roma, addi' 14 gennaio 1980
 
-LEONE MALFATTI
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 9 ottobre 1978
+Registrato alla Corte dei conti, addi' 26 maggio 1980
 
-Registro n. 109 Istruzione, foglio n. 191
+Registro n. 49 Istruzione, foglio n. 231

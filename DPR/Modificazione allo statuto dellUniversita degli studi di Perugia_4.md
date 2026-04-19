@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 836
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1980 n. 666
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 836
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1980 n. 666
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Perugia.
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Perugia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -19,10 +19,6 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -35,28 +31,68 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
+L'art. 49, relativo all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia, e' modificato nel senso che sono aggiunti i seguenti insegnamenti:  
+chemioterapia;  
+tossicologia;  
+fisiologia della nutrizione;  
+citogenetica;  
+parassitologia;  
+microscopia elettronica;  
+statistica medica e biometria;  
+igiene del lavoro;  
+immunologia;  
+virologia;  
+analisi chimico-cliniche;  
+biochimica applicata;  
+biologia molecolare;  
+antropologia;  
+oncologia sperimentale;  
+organogenesi umana con elementi di embriologia;  
+organizzazione e programmazione sanitaria;  
+neurochimica;  
+enzimologia;  
+cardiologia;  
+dermatologia sperimentale;  
+ematologia;  
+endocrinologia;  
+gastroenterologia;  
+genetica medica;  
+igiene mentale;  
+medicina nucleare;  
+medicina preventiva dei lavoratori e psicotecnica  
+neuropatologia;  
+neuropsichiatria infantile;  
+radiobiologia;  
+reumatologia;  
+terapia medica sistematica;  
+neuroradiologia;  
+fisiopatologia cardio-respiratoria;  
+audiologia;  
+traumatologia della strada;  
+patologia ostetrica e ginecologica;  
+endocrinologia ginecologica;  
+patologia urologica;  
+chirurgia vascolare;  
+chirurgia pediatrica;  
+neurochirurgia;  
+chirurgia della mano.  
   
-Nell'art. 32, relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:   
-filologia anatolica.   
-  
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e di decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 giugno 1986
+### Dato a Roma, addi' 20 giugno 1980
 
-COSSIGA
+PERTINI SARTI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: MORLINO
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 17 ottobre 1980
 
-Registrato alla Corte dei conti, addi' 27 novembre 1986
-
-Registro n. 86 Istruzione, foglio n. 126
+Registro n. 95 Istruzione, foglio n. 106

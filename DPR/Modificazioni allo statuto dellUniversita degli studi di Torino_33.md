@@ -1,134 +1,87 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 marzo 1970 n. 220
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1963 n. 1817
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 marzo 1970 n. 220
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1963 n. 1817
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successivi;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica, istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 26. - All'elenco degli insegnamenti complementari del corso di laurea in Pedagogia e' aggiunto quello di "Psicologia sperimentale".
+
+Art. 105, relativo alla Scuola di specializzazione in Anestesia, e' modificato nel senso che all'elenco degli insegnamenti previsti per il secondo anno di corso e aggiunto quello di "Medicina legale".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 22 ottobre 1963
+
+SEGNI
+
+GUI
+
+Visto, il Guardasigilli: BOSCO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 16 dicembre 1963 Atti del Governo, registro n. 178, foglio n. 132. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sentito il parere del Consiglio superiore della pubblica, istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Dopo l'art. 71 e con il conseguente spostamento della numerazione degli articoli successivi e' inserito il seguente nuovo articolo relativo alla istituzione del corso di laurea in "Scienze dell'informazione" presso la facolta' di scienze matematiche, fisiche e naturali.  
-  
-Laurea in scienze dell'informazione  
-  
-Art. 72. - Durata del corso: quattro anni.  
-Titolo di ammissione e' quello previsto dalle vigenti disposizioni di legge.  
-  
-Il corso si distingue in tre indirizzi: indirizzo generale, indirizzo applicativo (gestione), indirizzo tecnico (sistemi per l'elaborazione).  
-  
-A) Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi per il primo biennio:  
-  
-1° Anno:  
-1) Fisica I;  
-2) Analisi matematica I;  
-3) Algebra (semestrale);  
-4) Geometria (semestrale);  
-5) Teoria ed applicazioni delle macchine calcolatrici.  
-  
-2° Anno:  
-6) Fisica II;  
-7) Analisi matematica II;  
-8) Calcolo numerico (semestrale);  
-9) Calcolo delle probabilita' e statistica (semestrale);  
-10) Sistemi per l'elaborazione dell'informazione I;  
-11) Ricerca operativa e gestione aziendale.  
-  
-B) Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi per il secondo biennio:  
-  
-12) Sistemi per l'elaborazione dell'informazione II;  
-13) Teoria dell'informazione e della trasmissione;  
-14) Metodi per il trattamento dell'informazione.  
-  
-C) Sono insegnamenti fondamentali obbligatori:  
-a) per l'indirizzo generale:  
-15-a) Linguaggi formali e compilatori;  
-16-a) Metodi di approssimazione;  
-b) per l'indirizzo applicativo:  
-15-b) Teoria e metodi dell'ottimizzazione;  
-16-b) Economia ed organizzazione aziendale (semestrale);  
-17-b) Trattamento dell'informazione nell'impresa (semestrale);  
-c) per l'indirizzo tecnico:  
-15-c) Teoria dei sistemi;  
-15-b) Tecniche numeriche ed analogiche.  
-  
-Insegnamenti complementari comuni ai tre indirizzi:  
-1) Analisi numerica;  
-2) Bioelettronica;  
-3) Calcolo delle probabilita';  
-4) Cibernetica e teoria dell'informazione;  
-5) Complementi di gestione aziendale;  
-6) Comunicazioni elettriche;  
-7) Controlli automatici;  
-8) Controllo dei processi industriali;  
-9) Documentazione automatica;  
-10) Econometrica;  
-11) Elaborazione dell'informazione non numerica;  
-12) Elaborazione di immagini;  
-13) Elaborazione dei testi letterali;  
-14) Elettronica;  
-15) Fisica numerica;  
-16) Fisica superiore;  
-17) Istituzioni di fisica teorica;  
-18) Istituzioni di analisi superiore;  
-19) Istituzioni di fisica matematica;  
-20) Linguaggi speciali di programmazione;  
-21) Logica matematica;  
-22) Macchine calcolatrici analogiche;  
-23) Teoria dei modelli;  
-24) Progetto di sistemi numerici;  
-25) Simulazione;  
-26) Statistica;  
-27) Tecniche di progettazione automatica;  
-28) Tecniche direzionali;  
-29) Tecniche speciali di elaborazione;  
-30) Teoria degli algoritmi e calcolabilita';  
-31) Teoria degli automi;  
-32) Teoria dei giochi;  
-33) Teoria dei grafici;  
-34) Teoria delle decisioni.  
-  
-Alcuni di questi corsi complementari potranno avere la durata semestrale.  
-Ciascuno degli insegnamenti sia fondamentali che complementari comporta un esame finale.  
-Ciascuno insegnamento fondamentale di un indirizzo puo' essere scelto come insegnamento complementare per altro indirizzo in cui non sia fondamentale.  
-La scelta delle materie complementari da parte dello studente e' sottoposta alla preventiva approvazione della facolta'.  
-Per ottenere l'iscrizione al secondo biennio, lo studente deve aver seguito i corsi e superato gli esami di almeno cinque materie annuali del primo biennio (due corsi semestrali sono valutati come un corso annuale).  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in quattro scelti fra i complementari se a corso semestrale, in almeno tre se uno di essi annuale, o in almeno due se ambedue sono annuali.  
-  
-Art. 75. - All'elenco degli insegnamenti complementari del corso di laurea in farmacia e' aggiunto il seguente:  
-Patologia generale.  
-  
-Art. 81. - All'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologia farmaceutiche e' aggiunto il seguente:  
-Patologia generale.  
+Art. 26. - All'elenco degli insegnamenti complementari del corso di laurea in Pedagogia e' aggiunto quello di "Psicologia sperimentale".  
+Art. 105, relativo alla Scuola di specializzazione in Anestesia, e' modificato nel senso che all'elenco degli insegnamenti previsti per il secondo anno di corso e aggiunto quello di "Medicina legale".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 marzo 1970
+### Dato a Roma, addi' 22 ottobre 1963
 
-SARAGAT FERRARI AGGRADI
+SEGNI GUI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 28 aprile 1970
+Registrato alla Corte dei conti, addi' 16 dicembre 1963
 
-Atti del Governo, registro n. 235, foglio n. 31. - CARUSO
+Atti del Governo, registro n. 178, foglio n. 132. - VILLA

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1951 n. 1764
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1950 n. 476
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1951 n. 1764
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1950 n. 476
+=============================================================
 
 Autorizzazione all'Universita' di Milano ad accettare una donazione.
 --------------------------------------------------------------------
@@ -12,8 +12,7 @@ Art. 1
 
 N.
 
-1764. Decreto del Presidente della Repubblica 1 ottobre 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Milano viene autorizzata ad accettare la donazione della somma di L. 1.000.000 da investirsi in titoli di Stato 5%, disposta in suo favore dalla Societa' "Itala" Fabbrica cateteri e tubi flessibili di Somma Lombardo, coi atto pubblico amministrativo in data 13 aprile 1951, per l'istituzione con la rendita del capitale donato, di un premio di studio annuale da intitolarsi "Premio Angelo Bellini - Fabbrica cateteri - Itala" e da conferirsi al miglior lavoro scientifico, inedito, di argomento dermosifilopatico, presentato da un medico italiano regolarmente iscritto all'albo professionale.  
+476. Decreto del Presidente della Repubblica 3 maggio 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Milano viene autorizzata ad accettare la donazione disposta in suo favore, con atto pubblico amministrativo in data 15 marzo 1949, dal conte Giacomo Foltrinelli, consistente in una villa sita nel comune di Gargnano sul Garda, da adibirsi a sede di istituendi corsi di cultura per stranieri.  
   
-Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 7 marzo 1952  
-Atti del Governo, registro n. 50, foglio n. 70. - FRASCA
+Visto, il Guardasigilli: PICCIONI  
+Registrato alla Corte dei conti, addi' 12 luglio 1950

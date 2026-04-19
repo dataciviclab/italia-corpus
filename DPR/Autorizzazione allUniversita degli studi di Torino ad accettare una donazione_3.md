@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 maggio 1953 n. 679
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1956 n. 458
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 maggio 1953 n. 679
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1956 n. 458
 =============================================================
 
 Autorizzazione all'Universita' degli studi di Torino ad accettare una donazione.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-679. Decreto del Presidente della Repubblica 30 maggio 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Torino viene autorizzata ad accettare la donazione di un complesso di attrezzature e di strumentari per un valore di L. 2.717.000 disposta in suo favore dal prof. Fausto Brunetti, a nome del Comitato promotore per le onoranze al compianto prof. Arnaldo Malan, con atto pubblico amministrativo in data 16 settembre 1952, per l'istituzione, presso l'Istituto di clinica otorinolaringoiatrica dell'Universita' medesima, di un reparto audiologico ed otoneurologico da intitolarsi in perpetuo al nome del prof. Arnaldo Malan.  
+458. Decreto del Presidente della Repubblica 14 aprile 1956, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Torino viene autorizzata ad accettare la donazione di un terreno dell'estensione di mq. 5850, disposta dal comune di Torino per la costruzione di una nuova sede della Clinica pediatrica dell'Universita' stessa.  
   
-Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 3 settembre 1953  
-Atti del Governo, registro n. 79, foglio n. 19. - PALLA
+Visto, il Guardasigilli: MORO  
+Registrato alla Corte dei conti, addi' 25 maggio 1956  
+Atti del Governo, registro n. 97, foglio n. 218. - CARLOMAGNO

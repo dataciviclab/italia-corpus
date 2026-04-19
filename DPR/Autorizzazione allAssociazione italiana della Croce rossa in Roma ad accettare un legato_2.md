@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 678
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 febbraio 1978 n. 368
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 678
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 febbraio 1978 n. 368
+===============================================================
 
 Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-678. Decreto del Presidente della Repubblica 17 maggio 1986, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 8.000.000, disposto dalla sig.ra Annina Tuzzato ved. Vincent con testamento pubblico 1 ottobre 1981, registrato in data 13 maggio 1982, n. 11798 di repertorio, a rogito dott. Piovan Francesco, notaio in Padova, registrato a Padova in data 14 maggio 1982 al n. 5818.   
+368. Decreto del Presidente della Repubblica 9 febbraio 1978, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato di L. 100.000, disposto dalla sig.ra Serantoni Anita con testamento olografo pubblicato per atto notaio Appio Alvisi di Bologna in data 11 luglio 1968, n. 52225/ 6419 di repertorio.  
   
-Visto, il Guardasigilli: ROGNONI   
-Registrato alla Corte dei conti, addi' 9 ottobre 1986   
-Registro n. 10 Sanita', foglio n. 69
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 4 luglio 1978  
+Registro n. 5 Sanita', foglio n. 28

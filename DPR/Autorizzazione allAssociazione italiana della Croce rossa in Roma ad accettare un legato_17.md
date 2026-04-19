@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 agosto 1977 n. 1249
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 1028
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 agosto 1977 n. 1249
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 1028
+===============================================================
 
 Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------
@@ -12,9 +12,11 @@ Art. 1
 
 N.
 
-1249. Decreto del Presidente della Repubblica 24 agosto 1977, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Maria Podesta' con testamento olografo pubblicato a rogito dott. Almerico Vegezzi, notaio in Piacenza, il 3 gennaio 1974, n. 16911 di repertorio, consistente in un complesso immobiliare sito in Piacenza, via Vincenzo Porri n. 14, censito nel nuovo catasto edilizio urbano alla partita n. 7410, foglio 69, mappale 890, cat. A/ 7, classe 2ª, vani 9,5, R.C. L. 3.306; foglio 69, mappale 518/5, cat. C/ 6, classe 7ª, mq 14, R.C.  
-L. 224, costituito da un villino edificato nel periodo 1 aprile 1959-23 marzo 1960 su di un'area della superficie di mq 560, indicata nel catasto terreni al foglio 69 con il mappale 189 di are 5,60 e R.D. lire 78,40, e di una rimessa ad essa annessa.  
+1028. Decreto del Presidente della Repubblica 11 ottobre 1984, col quale, sulla proposta del Ministro della sanita', l'Associazione   
+italiana della Croce rossa, in Roma, viene autorizzata ad accettare   
+il legato, consistente nella somma di L. 10.000.000, disposto dal sig. Gino Macchioro con testamento olografo 4 febbraio 1979,   
+pubblicato in data 2 novembre 1981, numero 25060 di repertorio, a rogito dott. Furio Dei Rossi, notaio in Trieste.   
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 25 luglio 1978  
-Registro n. 5 Sanita', foglio n. 152
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 31 gennaio 1985   
+Registro n. 1 Sanita', foglio n. 228

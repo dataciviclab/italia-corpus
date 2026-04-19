@@ -1,75 +1,225 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1956 n. 891
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1979 n. 378
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1956 n. 891
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1979 n. 378
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Padova, approvato con regio decreto 20 aprile 1939, 1058 e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 101 - all'elenco degli insegnamenti complementari del corso di laurea in matematica sono aggiunti i seguenti:
+
+Indirizzo generale:
+
+algebra II;
+
+continui elastici;
+
+continui plastici;
+
+corpi numerici e algebre;
+
+geometrie finite;
+
+gruppi abeliani;
+
+gruppi continui;
+
+gruppi lineari;
+
+gruppi topologici;
+
+logica II;
+
+omologia e coomologia;
+
+sistemi ereditari;
+
+teoria degli ideali;
+
+teoria degli insiemi;
+
+teoria delle distribuzioni;
+
+teoria delle funzioni di variabile reale;
+
+teoria delle funzioni di variabile complessa;
+
+funzioni speciali;
+
+teorie combinatorie;
+
+topologia algebrica;
+
+topologia combinatoria;
+
+topologia dei fibrali;
+
+topologia generale;
+
+geometria simplettica.
+
+Nello stesso elenco l'insegnamento complementare di teoria delle onde muta denominazione in quella di teoria della propagazione ondosa.
+
+Indirizzo applicativo:
+
+l'orientamento c) applicativo meccanico astronomico muta denominazione in orientamento c) applicativo meccanico fisico matematico;
+
+all'elenco degli insegnamenti complementari dell'orientamento a) applicativo-elettronico e' aggiunto quello di teoria dei sistemi;
+
+all'elenco degli insegnamenti complementari dell'orientamento b) applicativo statistico-economico e' aggiunto quello di teoria dei sistemi;
+
+all'elenco degli insegnamenti fondamentali dello orientamento e) applicativo meccanico-fisico matematico l'insegnamento del quarto anno di meccanica celeste muta denominazione in meccanica dei continui.
+
+Nell'elenco degli insegnamenti complementari del quarto anno dello stesso orientamento e) sono soppressi i seguenti insegnamenti:
+
+astrofisica;
+
+astrofisica teorica;
+
+astronomia;
+
+meccanica dei continui;
+
+statistica stellare.
+
+Nello stesso elenco l'insegnamento di teoria delle onde muta denominazione in teoria della propagazione ondosa.
+
+Inoltre, sono aggiunti i seguenti insegnamenti complementari:
+
+continui plastici;
+
+meccanica celeste;
+
+meccanica quantistica;
+
+meccanica razionale II;
+
+meccanica statistica;
+
+continui elastici;
+
+sistemi ereditari;
+
+geometria simplettica.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 14 marzo 1979
+
+PERTINI
+
+PEDINI
+
+Visto, il Guardasigilli: MORLINO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 28 luglio 1979 Registro n. 60 Istruzione, foglio n. 189
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con i [regi decreti 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-10-05;1847); [26 ottobre 1940, n. 2058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2058); [16 marzo 1942, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-03-16;323); [24 ottobre 1942, n. 1597, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1597) [23 settembre 1949, n. 932](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;932); [31 ottobre 1950, n. 1308](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1308); [11 aprile 1951, n. 953](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;953); [25 luglio 1952, n. 1501](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1501); [26 ottobre 1952, n. 4529](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4529); [10 febbraio 1953, n. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;384); [30 luglio 1953; n. 715](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;715); [24 settembre 1954, n. 1205](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-24;1205); [14 marzo 1955, n. 345](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-03-14;345), e [24 luglio 1955, n. 798](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-24;798);  
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' di Padova, approvato con regio decreto 20 aprile 1939, 1058 e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Dopo l'art. 211, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di perfezionamento in economia montana delle Venezie annessa alla Facolta' di agraria.  
-  
-Scuola di perfezionamento in economia montana, delle Venezie  
-  
-Art. 212. - Alla Facolta' di agraria e' annessa la "Scuola di perfezionamento in economia montana delle Venezie".  
-La Scuola ha lo scopo di preparare i laureati in scienze agrarie e in scienze forestali per metterli in grado di affrontare i problemi dell'economia montana, delle Venezie, di dirigere, amministrare ed assistere aziende montane, di condurre ricerche in luogo, svolgere azione di propaganda e di impartire l'insegnamento in Istituti e Scuole professionali agrarie specializzate, in relazione alle attivita' preminenti nelle singole zone.  
-La Scuola conferisce il diploma di perfezionamento in economia montana.  
-Art. 213. - Alla Scuola di perfezionamento in economia montana delle Venezie possono iscriversi, per il conseguimento del diploma, i laureati in scienze agrarie o in scienze forestali.  
-Il numero massimo degli iscritti e' determinato annualmente dal direttore della Scuola, con preferenza ai cittadini residenti nelle Venezie.  
-Art. 214. - E' direttore della Scuola il professore ufficiale di economia e politica agraria della Facolta' d'agraria dell'Universita' di Padova.  
-Art. 215. - La durata degli studi per il conseguimento del diploma di perfezionamento e' di un biennio.  
-Art. 216. - Durante il biennio gli iscritti debbono frequentare i seguenti insegnamenti:  
-1. Agronomia delle zone montane;  
-2. Alpicoltura;  
-3. Assestamento forestale e dendrometria;  
-4. Botanica forestale;  
-5. Chimica forestale;  
-6. Economia agraria montana;  
-7. Entomologia forestale;  
-8. Legislazione di interesse della montagna (semestrale);  
-9. Selvicoltura;  
-10. Sistemazioni idraulico-forestali e montane;  
-11. Tecnologie forestali ed industrie montane;  
-12. Zoologia forestale venatoria e acquicoltura;  
-13. Zootecnica.  
-I corsi possono essere integrati da conferenze, esercitazioni e da visite sul luogo.  
-Durante il secondo anno gli iscritti si dedicano anche alla compilazione di un lavoro originale in una delle materie costitutive della Scuola, procedendo alla raccolta di dati, indagini ed esperienze del caso nelle zone montane oggetto della ricerca.  
-L'argomento del lavoro deve essere approvato dal competente professore ufficiale della Scuola.  
-Art. 217. - Per essere ammesso all'esame di diploma l'iscritto deve aver ottenuto tutte le attestazioni di frequenza agli insegnamenti della Scuola superando i relativi esami ed aver compilato il lavoro di cui all'articolo precedente.  
-Art. 218. - L'esame di diploma consiste nella discussione del lavoro compilato dall'iscritto durante il secondo anno del biennio.  
-La Commissione per l'esame di diploma e' presieduta dal preside della Facolta' di agraria e composta di almeno sei professori ufficiali scelti fra i docenti della Scuola e della Facolta' di agraria.  
-Art. 219. - Le tasse e soprattasse che gli iscritti sono tenuti a pagare annualmente, sono fissate dal Consiglio di amministrazione su proposta della Facolta' di agraria.  
-L'ammontare dei contributi viene stabilito dal Consiglio di amministrazione, su proposta del Senato accademico, udita la Facolta' e Scuola.  
-La tassa di diploma e' fissata nella misura di L. 6000, a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
+Art. 101 - all'elenco degli insegnamenti complementari del corso di laurea in matematica sono aggiunti i seguenti:  
+Indirizzo generale:  
+algebra II;  
+continui elastici;  
+continui plastici;  
+corpi numerici e algebre;  
+geometrie finite;  
+gruppi abeliani;  
+gruppi continui;  
+gruppi lineari;  
+gruppi topologici;  
+logica II;  
+omologia e coomologia;  
+sistemi ereditari;  
+teoria degli ideali;  
+teoria degli insiemi;  
+teoria delle distribuzioni;  
+teoria delle funzioni di variabile reale;  
+teoria delle funzioni di variabile complessa;  
+funzioni speciali;  
+teorie combinatorie;  
+topologia algebrica;  
+topologia combinatoria;  
+topologia dei fibrali;  
+topologia generale;  
+geometria simplettica.  
+Nello stesso elenco l'insegnamento complementare di teoria delle onde muta denominazione in quella di teoria della propagazione ondosa.  
+Indirizzo applicativo:  
+l'orientamento c) applicativo meccanico astronomico muta denominazione in orientamento c) applicativo meccanico fisico matematico;  
+all'elenco degli insegnamenti complementari dell'orientamento a) applicativo-elettronico e' aggiunto quello di teoria dei sistemi;  
+all'elenco degli insegnamenti complementari dell'orientamento b) applicativo statistico-economico e' aggiunto quello di teoria dei sistemi;  
+all'elenco degli insegnamenti fondamentali dello orientamento e) applicativo meccanico-fisico matematico l'insegnamento del quarto anno di meccanica celeste muta denominazione in meccanica dei continui.  
+Nell'elenco degli insegnamenti complementari del quarto anno dello stesso orientamento e) sono soppressi i seguenti insegnamenti:  
+astrofisica;  
+astrofisica teorica;  
+astronomia;  
+meccanica dei continui;  
+statistica stellare.  
+Nello stesso elenco l'insegnamento di teoria delle onde muta denominazione in teoria della propagazione ondosa.  
+Inoltre, sono aggiunti i seguenti insegnamenti complementari:  
+continui plastici;  
+meccanica celeste;  
+meccanica quantistica;  
+meccanica razionale II;  
+meccanica statistica;  
+continui elastici;  
+sistemi ereditari;  
+geometria simplettica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 giugno 1956
+### Dato a Roma, addi' 14 marzo 1979
 
-GRONCHI ROSSI
+PERTINI PEDINI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 9 agosto 1956
+Registrato alla Corte dei conti, addi' 28 luglio 1979
 
-Atti del Governo, registro n. 100, foglio n. 36. - RELLEVA
+Registro n. 60 Istruzione, foglio n. 189

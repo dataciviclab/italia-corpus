@@ -1,72 +1,41 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1140
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 aprile 1971 n. 620
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1140
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 aprile 1971 n. 620
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 14 ottobre 1926, n. 2133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2133) e modificato con [regio decreto 13 ottobre 1927, n. 2226](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2226), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA   
   
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
+Decreta:   
   
-Il testo dell'art. 352, relativo ai titoli di ammissione alla scuola di perfezionamento in fisica, e' sostituito dal seguente:   
-Art. 352. - Alla scuola di perfezionamento in fisica sono ammessi i laureati in fisica, astronomia, matematica, chimica, chimica industriale, fisica e matematica, nonche' coloro che sono in possesso di un diploma di laurea conferito dalla facolta' di ingegneria, che soddisfino ai requisiti fissati anno per anno dal consiglio direttivo.   
-Il testo dell'art. 355, relativo agli insegnamenti previsti per la predetta scuola, e' integrato nel modo seguente:   
-38) dosimetria e tecniche di misura della dose;   
-39) radioattivita' e tecniche di misura;   
-40) fisica sanitaria e radioprotezione;   
-41) legislazione di radioprotezione;   
-42) radiochimica;   
-43) effetti biologici delle radiazioni;   
-44) programmazione ed elaborazione dei dati;   
-45) acceleratori di particelle;   
-46) strumentazione per la radioprotezione;   
-47) problemi di sicurezza negli impianti nucleari.   
-Dopo l'art. 355, e con lo spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo:   
-Art. 356. - La scuola organizza inoltre un corso in radioprotezione e tecniche radioisotopiche, della durata di un anno, per il quale rilascia un certificato di frequenza e profitto a tutti coloro che abbiano superato gli esami nelle materie stabilite anno per anno dal consiglio direttivo della scuola. A tale corso potranno iscriversi anche i laureati in farmacia, medicina e chirurgia, medicina veterinaria, nonche' coloro che sono in possesso dei diplomi di laurea conferiti dalla facolta' di scienze matematiche, fisiche e naturali non indicati nell'art. 352 e quelli conferiti dalla facolta' di agraria.   
-Il consiglio della scuola provvede, inoltre, a proporre al rettore il nominativo per la designazione del direttore del corso.   
-  
+lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+l'ordinamento della scuola di specializzazione in "Medicina nucleare" istituita con [decreto del Presidente della Repubblica 30 ottobre 1970, n. 1203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-10-30;1203), e' modificato nel senso che l'insegnamento di "Radioterapia e legislazione" previsto per il terzo anno di corso, assume la denominazione di "Radioprotezione e legislazione".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 16 aprile 1971
 
-PERTINI BODRATO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 24 aprile 1982
+Registrato alla Corte dei conti, addi' 20 agosto 1971
 
-Registro n. 58 Istruzione, foglio n. 163
+Atti del Governo, registro n. 243, foglio n. 145. - PASQUALUCCI

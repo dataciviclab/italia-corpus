@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980 n. 224
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1101
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980 n. 224
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1101
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,103 +18,269 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sulla proposta del Ministro per la pubblica istruzione;
 
-Sulla
------
+Decreta:
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 174, relativo all'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia, e' modificato nel senso che la scuola in "Pediatria" muta denominazione in quella di "Clinica pediatrica".
 
+Allo stesso elenco e' aggiunta la scuola di specializzazione in "Malattie dell'apparato digerente".
+
+L'art. 188 relativo alla scuola di specializzazione in pediatria e' abrogato e sostituito dal seguente:
+
+Scuola di specializzazione in clinica pediatrica
+
+Art. 188. - La scuola e' annessa all'istituto di clinica pediatrica. Il corso della scuola ha la durata di tre anni.
+
+Alla scuola si accede per concorso per esami e per titoli.
+
+Il numero degli iscritti e' stabilito in venti per l'intero corso.
+
+L'internato e' obbligatorio con non piu' di due mesi di ferie all'anno.
+
+L'iscrizione al secondo anno del corso puo' essere consentito, a giudizio del consiglio della scuola, per i candidati che abbiano conseguito il diploma di specializzazione in puericultura o che abbiano titoli pediatrici.
+
+Le materie di insegnamento sono:
+
+1° Anno:
+
+1) Clinica pediatrica I;
+
+2) Patologia pediatrica II
+
+3) Puericultura 1;
+
+4) Semeiotica pediatrica e tecnica diagnostica I;
+
+5) Auxologia normale e patologica;
+
+6) Psicologia dell'eta' evolutiva.
+
+2° Anno:
+
+1) Clinica pediatrica II;
+
+2) Patologia pediatrica II;
+
+3) Puericultura II;
+
+4) Semeiotica pediatrica e tecnica diagnostica II;
+
+5) Terapia pediatrica;
+
+6) Radiologia pediatrica;
+
+7) Malattie infettive dell'infanzia.
+
+3° Anno:
+
+1) Clinica pediatrica III;
+
+2) Neuropsichiatria ed igiene mentale dell'infanzia.
+
+Le materie fondamentali sopraelencate saranno integrate, a giudizio del consiglio della scuola, da almeno tre insegnamenti scelti tra i seguenti:
+
+Chirurgia pediatrica;
+
+Ortopedia e traumatologia infantile;
+
+Odontoiatria;
+
+Clinica dermosifilopatica;
+
+Clinica oculistica;
+
+Clinica otorinolaringoiatrica;
+
+Cardiologia;
+
+Genetica;
+
+ed altri eventuali che il consiglio della scuola puo' stabilire di anno in anno.
+
+Le modalita' di svolgimento e l'attribuzione ai vari anni di corso degli insegnamenti integrativi saranno fissate annualmente dal consiglio della scuola.
+
+Il direttore della scuola, inoltre, puo' disporre che si tengano un certo numero di conferenze su argomenti di interesse pediatrico.
+
+Per conseguire il diploma di specializzazione in pediatria gli iscritti al corso, dopo aver superato tutti gli esami e completata la frequenza obbligatoria, dovranno presentare e discutere una dissertazione scritta su un argomento in pediatria.
+
+Dopo l'art. 223 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in malattie dell'apparato digerente.
+
+Scuola di specializzazione in malattie dell'apparato digerente
+
+Art. 224. - L'ammissione alla scuola avverra' un seguito a concorso per esami.
+
+La data del concorso verra' notificata nell'albo della scuola in tempo utile.
+
+Il numero complessivo degli specializzandi nella scuola non puo' essere superiore a dodici.
+
+La durata del corso e' di quattro anni.
+
+Non sono ammesse abbreviazioni di corso.
+
+La scuola ha sede presso l'istituto di patologia speciale medica e metodologia clinica.
+
+Gli iscritti alla scuola hanno l'obbligo di internato, di frequenza alle lezioni, alle conferenze speciali ed alle esercitazioni.
+
+Gli insegnamenti fondamentali sono i seguenti:
+
+1° Anno:
+
+Anatomia patologica;
+
+Fisiopatologia;
+
+Chimica clinica;
+
+Semeiotica fisica e strumentale (1° corso);
+
+Clinica medica (1° corso).
+
+2° Anno:
+
+Semeiotica fisica e strumentale (2° corso);
+
+Semeiotica radiologica;
+
+Malattie del tubo digerente;
+
+Clinica medica (2° corso).
+
+3° Anno:
+
+Malattie del fegato e del pancreas;
+
+Clinica medica (3° corso).
+
+4° Anno:
+
+Tirocinio pratico da svolgersi, da parte degli specializzandi, presso l'istituto presso il quale ha sede la scuola.
+
+L'esame di diploma di specializzazione consiste nella discussione di una dissertazione scritta su argomento precedentemente concordato con il direttore della scuola.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1969
+
+SARAGAT
+
+FERRARI AGGRADI
+
+Visto, il Guardasigilli: GAVA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 23 gennaio 1970 Atti del Governo, registro n. 231, foglio n. 57. - CARUSO
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
+  
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
   
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 174, relativo all'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia, e' modificato nel senso che la scuola in "Pediatria" muta denominazione in quella di "Clinica pediatrica".  
+Allo stesso elenco e' aggiunta la scuola di specializzazione in "Malattie dell'apparato digerente".  
+L'art. 188 relativo alla scuola di specializzazione in pediatria e' abrogato e sostituito dal seguente:  
   
-Gli articoli 253, 254, 255 e 256, relativi alla scuola di specializzazione in patologia generale, sono soppressi e sostituiti dai seguenti:  
+Scuola di specializzazione in clinica pediatrica  
   
-Scuola di specializzazione in patologia generale  
-Art. 253. - La scuola di specializzazione in patologia generale ha sede presso l'istituto di patologia generale. Il corso degli studi ha la durata di quattro anni, suddiviso in due bienni. La durata del corso di studi non e' suscettibile di abbreviazioni. La frequenza alla scuola e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza non potranno essere ammessi a sostenere le singole prove di esame.  
-Art. 254. - Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia, ai quali, dopo aver superato l'esame finale, sara' rilasciato il diploma di specialista in patologia generale.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dalle autorita' competenti.  
-Alla scuola stessa vengono ammessi i laureati in medicina veterinaria, in scienze biologiche, in scienze naturali, in farmacia, in chimica e tecnologie farmaceutiche, ai quali, dopo aver superato l'esame finale, sara' rilasciato il diploma di specialista in patologia generale con indirizzo tecnico.  
-L'ammissione al corso di specializzazione avviene per titoli ed esami.  
-Il numero massimo degli allievi e' di trenta per anno di corso e complessivamente di centoventi iscritti per l'intero corso di studi.  
-Art. 255. - Le materie di insegnamento sono le seguenti:  
-  
-I BIENNIO  
-(Propedeutico)  
+Art. 188. - La scuola e' annessa all'istituto di clinica pediatrica. Il corso della scuola ha la durata di tre anni.  
+Alla scuola si accede per concorso per esami e per titoli.  
+Il numero degli iscritti e' stabilito in venti per l'intero corso.  
+L'internato e' obbligatorio con non piu' di due mesi di ferie all'anno.  
+L'iscrizione al secondo anno del corso puo' essere consentito, a giudizio del consiglio della scuola, per i candidati che abbiano conseguito il diploma di specializzazione in puericultura o che abbiano titoli pediatrici.  
+Le materie di insegnamento sono:  
 1° Anno:  
-istituzioni di patologia generale;  
-patologia delle infezioni;  
-epidemiologia e patologia ambientale;  
-immunologia;  
-parassitologia e diagnostica parassitologica.  
+1) Clinica pediatrica I;  
+2) Patologia pediatrica II  
+3) Puericultura 1;  
+4) Semeiotica pediatrica e tecnica diagnostica I;  
+5) Auxologia normale e patologica;  
+6) Psicologia dell'eta' evolutiva.  
 2° Anno:  
-radiobiologia e patologia da radiazioni;  
-oncologia generale;  
-immunopatologia e analisi immunologiche;  
-analisi chimico-cliniche;  
-fisiopatologia generale primo corso (metabolismo e sistema endocrino).  
-  
-II BIENNIO  
-(Conseguimento per il diploma  
-di specialista in patologia generale)  
+1) Clinica pediatrica II;  
+2) Patologia pediatrica II;  
+3) Puericultura II;  
+4) Semeiotica pediatrica e tecnica diagnostica II;  
+5) Terapia pediatrica;  
+6) Radiologia pediatrica;  
+7) Malattie infettive dell'infanzia.  
 3° Anno:  
-diagnostica di laboratorio di citopatologia e citogenetica;  
-diagnostica di laboratorio di batteriologia e virologia;  
-fisiopatologia generale secondo corso (termoregolazione, sistema cardiocircolatorio, sangue ed organi emopoietici).  
-4° Anno:  
-diagnostica oncologica;  
-diagnostica istopatologica;  
-tecniche ematologiche;  
-tecniche istologiche ed ultrastrutturali.  
+1) Clinica pediatrica III;  
+2) Neuropsichiatria ed igiene mentale dell'infanzia.  
+Le materie fondamentali sopraelencate saranno integrate, a giudizio del consiglio della scuola, da almeno tre insegnamenti scelti tra i seguenti:  
+Chirurgia pediatrica;  
+Ortopedia e traumatologia infantile;  
+Odontoiatria;  
+Clinica dermosifilopatica;  
+Clinica oculistica;  
+Clinica otorinolaringoiatrica;  
+Cardiologia;  
+Genetica;  
+ed altri eventuali che il consiglio della scuola puo' stabilire di anno in anno.  
+Le modalita' di svolgimento e l'attribuzione ai vari anni di corso degli insegnamenti integrativi saranno fissate annualmente dal consiglio della scuola.  
+Il direttore della scuola, inoltre, puo' disporre che si tengano un certo numero di conferenze su argomenti di interesse pediatrico.  
+Per conseguire il diploma di specializzazione in pediatria gli iscritti al corso, dopo aver superato tutti gli esami e completata la frequenza obbligatoria, dovranno presentare e discutere una dissertazione scritta su un argomento in pediatria.  
+Dopo l'art. 223 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in malattie dell'apparato digerente.  
   
-II BIENNIO  
-(Conseguimento diploma  
-di specialista in patologia generale)  
-3° Anno:  
-11) diagnostica di laboratorio di citologia e citogenetica;  
-12) diagnostica di laboratorio di batteriologia e virologia;  
-13) fisiopatologia generale secondo corso (termoregolazione, sistema cardiocircolatorio, sangue ed organi emopoietici).  
-4° Anno:  
-14) diagnostica oncologica;  
-15) diagnostica istopatologica;  
-16) diagnostica ultrastrutturale;  
-17) fisiopatologia generale terzo corso (fegato, sistema digerente, renale, respiratorio).  
+Scuola di specializzazione in malattie dell'apparato digerente  
   
-II BIENNIO  
-(Conseguimento diploma di specialista in  
-patologia generale con indirizzo tecnico)  
+Art. 224. - L'ammissione alla scuola avverra' un seguito a concorso per esami.  
+La data del concorso verra' notificata nell'albo della scuola in tempo utile.  
+Il numero complessivo degli specializzandi nella scuola non puo' essere superiore a dodici.  
+La durata del corso e' di quattro anni.  
+Non sono ammesse abbreviazioni di corso.  
+La scuola ha sede presso l'istituto di patologia speciale medica e metodologia clinica.  
+Gli iscritti alla scuola hanno l'obbligo di internato, di frequenza alle lezioni, alle conferenze speciali ed alle esercitazioni.  
+Gli insegnamenti fondamentali sono i seguenti:  
+1° Anno:  
+Anatomia patologica;  
+Fisiopatologia;  
+Chimica clinica;  
+Semeiotica fisica e strumentale (1° corso);  
+Clinica medica (1° corso).  
+2° Anno:  
+Semeiotica fisica e strumentale (2° corso);  
+Semeiotica radiologica;  
+Malattie del tubo digerente;  
+Clinica medica (2° corso).  
 3° Anno:  
-11) tecniche di batteriologia;  
-12) tecniche di virologia;  
-13) tecniche di citologia e citogenetica.  
+Malattie del fegato e del pancreas;  
+Clinica medica (3° corso).  
 4° Anno:  
-14) statistica e biometria;  
-15) colture in vitro: aspetti biologici ed applicativi;  
-16) tecniche ematologiche;  
-17) tecniche istologiche ed ultrastrutturali.  
-Art. 256. - La direzione della scuola di specializzazione e' affidata ad un professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, ad un professore di ruolo o fuori ruolo di materia affine.  
-Il direttore puo' stabilire, per un proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari e conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola stessa.  
-Per conseguire il relativo diploma di specializzazione, al termine del corso quadriennale, oltre ad aver superato tutti gli esami delle singole materie, e' obbligatorio sostenere l'esame finale su una dissertazione scritta, preferibilmente di carattere sperimentale.  
+Tirocinio pratico da svolgersi, da parte degli specializzandi, presso l'istituto presso il quale ha sede la scuola.  
+L'esame di diploma di specializzazione consiste nella discussione di una dissertazione scritta su argomento precedentemente concordato con il direttore della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 febbraio 1980
+### Dato a Roma, addi' 31 ottobre 1969
 
-PERTINI VALITUTTI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 26 maggio 1980
+Registrato alla Corte dei conti, addi' 23 gennaio 1970
 
-Registro n. 49 Istruzione, foglio n. 237
+Atti del Governo, registro n. 231, foglio n. 57. - CARUSO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 maggio 1972 n. 431
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1960 n. 1903
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 maggio 1972 n. 431
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1960 n. 1903
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -10,292 +10,210 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743) e successivi Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Veduto il [decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Gli articoli da 62 a 76, relativi all'ordinamento degli studi della facolta' di ingegneria, sono abrogati e sostituiti dai seguenti con il conseguente spostamento della numerazione degli articoli successivi.   
+L'art. 56, relativo al biennio propedeutico per la laurea in Ingegneria presso la Facolta' di scienze matematiche, fisiche e naturali e' soppresso.  
   
-Titolo IX. - FACOLTA' DI INGEGNERIA   
+Gli articoli da 61 a 70 compreso del Titolo IX: Facolta' di Ingegneria, sono abrogati e sostituiti dai seguenti:  
+Art. 61. - Presso la Facolta' di Ingegneria il quinquennio di studi da' adito alle seguenti lauree:  
+a) Laurea in Ingegneria civile sezione edile, idraulica, trasporti;  
+b) Laurea in Ingegneria mineraria. Titolo di ammissione ai corsi di laurea d'Ingegneria e' il diploma di maturita' classica o di maturita' scientifica.  
+Il quinquennio di studi e' suddiviso in un biennio propedeutico ed un triennio di applicazione. Gli studenti del primo anno di corso potranno ottenere la iscrizione al secondo anno di corso qualora abbiano superato almeno due fra i quattro seguenti esami: Analisi matematica I, Geometria I, Fisica I, Chimica. Per passare al triennio lo studente dovra' aver superato gli esami del biennio propedeutico indicati negli articoli 63 e 64 con eccezione, per il corso di ingegneria mineraria, dell'esame di Mineralogia.  
+Potranno peraltro essere ammessi al triennio, con giudizio motivato della Facolta', anche coloro che siano in difetto dell'esame del corso di Disegno II.  
+All'atto dell'iscrizione al terzo anno lo studente deve dichiarare quale sia il corso di laurea che intende seguire.  
+Art. 62. - Gli insegnamenti del quinquennio sono distinti in tre gruppi:  
+A) obbligatori comuni sul piano nazionale;  
+B) obbligatori sul piano della Facolta':  
+C) gruppi di materie a scelta dello studente.  
+Art. 63. Il corso di laurea in Ingegneria mineraria comprende i seguenti insegnamenti:  
   
-Art. 62. - Presso la facolta' di ingegneria il quinquennio di studi da adito alle seguenti lauree:   
+I anno:  
+1) Analisi matematica I (gruppo A)  
+2) Chimica (gruppo A)  
+3) Disegno I (gruppo A)  
+4) Fisica I (gruppo A)  
+5) Geometria (gruppo A)  
   
-a) laurea in ingegneria civile (sezione edile, idraulica e trasporti);   
-b) laurea in ingegneria mineraria;   
-c) laurea in ingegneria meccanica;   
-d) laurea in ingegneria chimica;   
-Il titolo di ammissione e' quello previsto dalle vigenti disposizioni di legge.   
-Art. 63. - Il corso di laurea in ingegneria mineraria comprende i seguenti insegnamenti:   
+II anno:  
+6) Analisi matematica II (gruppo A)  
+7) Disegno II (gruppo A)  
+8) Fisica II (gruppo A)  
+9) Meccanica razionale (gruppo A)  
+10) Mineralogia (gruppo B)  
   
-1° Anno:   
-1) Analisi matematica I;   
-2 Chimica;   
-3) Disegno;   
-4) Fisica I;   
-5) Geometria.   
-2° Anno:   
+Triennio di applicazione:  
+11) Arte mineraria (gruppo A)  
+12) Chimica applicata (gruppo A)  
+13) Elettrotecnica (gruppo A)  
+14) Fisica tecnica (gruppo A)  
+15) Geologia (gruppo A)  
+16) Giacimenti minerari (gruppo A)  
+17) Macchine (gruppo A)  
+18) Meccanica applicata alle macchine (gruppo A)  
+19) Scienze delle costruzioni (gruppo A)  
+20) Topografia (gruppo A)  
+21) Elementi di Arte mineraria (semestrale) (gruppo B)  
+22) Geofisica mineraria (gruppo B)  
+23) Idraulica (gruppo B)  
+24) Petrografia (gruppo B)  
+25) Preparazione dei minerali (gruppo B)  
+26) Tecnica delle costruzioni (gruppo B)  
   
-6) Analisi matematica II;   
-7) Disegno II;   
-8) Fisica II;   
-9) Meccanica razionale.   
-Triennio di applicazione:   
+Orientamento A:  
+27) Complementi di Matematica (semestrale) (gruppo C)  
+28) Estimo, Economia e Legislazione mineraria (gruppo C)  
+29) Impianti minerari (gruppo C)  
+30) Metallurgia (gruppo C)  
+31) Tecnica dei sondaggi (semestrale) (gruppo C)  
+32) Tecnologie generali (gruppo C)  
+33) Tecnologie speciali minerari (gruppo C)  
   
-10) Arte mineraria;   
-11) Chimica applicata;   
-12) Elettrotecnica;   
-13) Fisica tecnica;   
-14) Geologia;   
-15) Giacimenti minerari;   
-16) Macchine;   
-17) Meccanica applicata alle macchine;   
-18) Scienza delle costruzioni;   
-19) Topografia;   
-20) Elementi di arte mineraria (semestrale);   
-21) Geofisica mineraria;   
-22) Idraulica;   
-23) Preparazione dei minerali;   
-24) Tecnica delle costruzioni;   
-25) Mineralogia e petrografia;   
-un gruppo di materie a scelta tra quelle elencate all'art. 67.   
-Art. 64. - Il corso di laurea in ingegneria civile e' distinto nelle seguenti tre sezioni: edile, idraulica, trasporti; esso comprende i seguenti insegnamenti:   
+Orientamento B:  
+27) Complementi di matematica (semestrale) (gruppo C)  
+28) Coltivazioni dei giacimenti di idrocarburi (gruppo C)  
+29) Estimo, Economia e Legislazione mineraria (gruppo C)  
+30) Geologia degli idrocarburi (gruppo C)  
+31) Tecnica dei sondaggi (semestrale) (gruppo C)  
+32; Tecnologie generali (gruppo C)  
+33) (Geologia applicata (gruppo C)  
   
-1° Anno:   
-1) Analisi matematica I;   
-2) Chimica;   
-3) Disegno I;   
-4) Fisica I;   
-5) Geometria.   
-2° Anno:   
+Orientamento C:  
+27) Complementi di matematica (semestrale) (gruppo C)  
+28) Estimo, Economia e Legislazione mineraria (gruppo C)  
+29) Geologia applicata (gruppo C)  
+30) Prospezione geo-mineraria (gruppo C)  
+31) Geochimica (gruppo C)  
+32) Paleontologia (gruppo C)  
+33) Tecnica dei sondaggi (semestrale) (gruppoC)  
   
-6) Analisi matematica III;   
-7) Disegno II;   
-8) Fisica II;   
-9) Meccanica razionale;   
-10) Applicazione di geometria descrittiva.   
-Triennio di applicazione:   
+Il Consiglio di facolta', stabilira' anno per anno, comunicandolo nel manifesto degli studi, quali degli insegnamenti del gruppo C per i diversi orientamenti costituiranno, insieme agli insegnamenti dei gruppi A e B. l'ordine degli studi, col rispetto del limite voluto dalla legge per il numero globale di insegnamenti annuali ed equivalenti, che non potranno nel complesso superare il numero di 30.  
+Negli anni accademici 1960-61 e 1961-62 il corso di Complementi di matematica sara' annuale.  
+Art. 64. - Il corso di laurea in Ingegneria civile e' distinto nelle tre sezioni edile, idraulica e trasporti; esso comprende i seguenti insegnamenti:  
   
-11) Scienza delle costruzioni I;   
-12) Meccanica applicata alle macchine e macchine;   
-13) Fisica tecnica;   
-14) Elettrotecnica;   
-15) Architettura tecnica;   
-16) Tecnologie dei materiali e chimica applicata;   
-17) Topografia;   
-18) Idraulica;   
-19) Scienza delle costruzioni II;   
-20) Tecnica delle costruzioni;   
-21) Costruzioni di strade, ferrovie ed aeroporti;   
-22) Architettura e composizione architettonica I;   
-23) Urbanistica I;   
-24) Economia e diritto;   
-25) Estimo e contabilita' dei lavori.   
-Sezione edile:   
+I anno:  
+1) Analisi matematica I (gruppo A)  
+2) Chimica (gruppo A)  
+3) Disegno I (gruppo A)  
+4) Fisica I (gruppo A)  
+5) Geometria (gruppo A)  
   
-un gruppo di materie a scelta tra quelle elencate all'art. 67.   
-Sezione idraulica:   
-26) Costruzioni idrauliche;   
-un gruppo di materie a scelta tra quelle elencate all'art. 67.   
-Sezione trasporti:   
-un gruppo di materie a scelta tra quelle elencate all'art. 67.   
-Art. 65. - Il corso di laurea in ingegneria meccanica comprende i seguenti insegnamenti:   
+II anno:  
+6) Analisi matematica II (gruppo A)  
+7) Disegno II (gruppo A)  
+8) Fisica II (gruppo A)  
+9) Meccanica razionale (gruppo A)  
+10) Applicazioni di geometria descrittiva (gruppo B)  
   
-1° Anno:   
-1) Analisi matematica I;   
-2) Chimica;   
-3) Disegno I;   
-4) Fisica I;   
-5) Geometria.   
-2° Anno:   
+Triennio di applicazione:  
+11) Scienze delle costruzioni I (gruppo A)  
+12) Meccanica applicata alle macchine (gruppo A)  
+13) Fisica tecnica (gruppo A)  
+14) Elettrotecnica (gruppo A)  
+15) Architettura tecnica (gruppo A)  
+16) Tecnologia dei materiali e chimica applicata (gruppo A)  
+17) Topografia (gruppo A)  
+18) Idraulica (gruppo A)  
+19) Scienza delle costruzioni II (gruppo B)  
+20) Tecnica delle costruzioni (gruppo A)  
+21) Costruzioni di strade, ferrovie, aeroporti (gruppo A)  
+22) Architettura e composizione architettonica I (gruppo A)  
+23) Urbanistica I (gruppo B)  
+24) Economia e diritto (gruppo B)  
+25) Estimo e contabilita' dei lavori (gruppo B)  
   
-6) Analisi matematica II;   
-7) Disegno II;   
-8) Fisica II;   
-9) Meccanica razionale.   
+Sezione edile:  
+Orientamento A:  
+Storia dell'architettura;  
+Architettura e composizione architettonica II  
+Urbanistica  
+Ponti e grandi strutture  
+Architettura degli interni  
+Orientamento B:  
+Geologia applicata  
+Ponti e grandi strutture;  
+Meccanica delle terre e fondazioni  
+Costruzioni idrauliche  
+Organizzazione dei cantieri  
   
-Triennio di applicazione:   
+Sezione idraulica:  
+Geologia applicata  
+Costruzioni idrauliche  
+Impianti idraulici e speciali  
+Meccanica delle terre e fondazioni  
+Ingegneria sanitaria  
   
-10) Chimica applicata;   
-11) Costruzioni di macchine;   
-12) Elettrotecnica;   
-13) Fisica tecnica;   
-14) Idraulica;   
-15) Impianti meccanici;   
-16) Macchine;   
-17) Meccanica applicata alle macchine;.   
-18) Scienza delle costruzioni;   
-19) Tecnologia meccanica;   
-20) Complementi di matematiche (semestrale);   
-21) Controlli automatici;   
-22) Economia ed organizzazione aziendale;   
-23) Metallurgia;   
-24) Misure meccaniche, termiche e collaudi;   
-25) Progetti di macchine;   
-26) Tecnica delle costruzioni;   
-un gruppo di materie a scelta tra quelle elencate all'art. 67.   
-Art. 66. - Il corso di laurea in ingegneria chimica comprende i seguenti insegnamenti:   
+Sezione trasporti:  
+Geologia applicata  
+Tecnica ed economia dei trasporti  
+Ponti e grandi strutture  
+Meccanica delle terre e fondazioni  
+Organizzazione dei cantieri  
   
-1° Anno:   
-1) Analisi matematica I;   
-2) Chimica;   
-3) Disegno I;   
-4) Fisica I;   
-5) Geometria.   
-2° Anno:   
+Gli insegnamenti del triennio di cui ai numeri 21) e 22) sono obbligatori sul piano nazionale rispettivamente per le Sezioni trasporti ed edile e sono altresi' obbligatori sul piano della Facolta' per le altre Sezioni.  
+Art. 65. - Le precedenze per gli esami degli insegnamenti del corso di laurea in Ingegneria mineraria sono le seguenti:  
+Mineralogia prima di Petrografia  
+Petrografia prima di Geologia e giacimenti minerari;  
+Elementi di arte mineraria prima di Arte mineraria;  
+Mineralogia, Petrografia e Complementi di matematica prima di Preparazione dei materiali;  
+Arte mineraria, Giacimenti minerari e Complementi di matematica prima d'Estimo, Economia e Legislazione mineraria;  
+Arte mineraria prima di Impianti minerari;  
+Arte mineraria e Idraulica prima di coltivazioni dei giacimenti di idrocarburi;  
+Geologia e Giacimenti minerari prima di Geologia degli idrocarburi;  
+Geologia prima di Geologia applicata;  
+Geologia e Giacimenti minerari prima di Prospezione geomineraria;  
+Petrografia prima di Geochimica;  
+Scienza delle costruzioni prima di Tecnica delle costruzioni;  
+Fisica tecnica e Meccanica applicata alle macchine prima di Macchine;  
+Chimica applicata prima di Metallurgia.  
+Art. 66. - Le precedenze per gli esami degli insegnamenti del corso di laurea, in Ingegneria civile sono le seguenti:  
+Fisica tecnica prima di Meccanica applicata alle macchine e Macchine;  
+Scienza delle costruzioni I prima di Scienza delle costruzioni II;  
+Scienza delle costruzioni I e Tecnologia dei materiali e Chimica applicata prima di Tecnica delle costruzioni;  
+Topografia e Tecnica delle costruzioni prima di Costruzioni di strade, ferrovie e aeroporti;  
+Architettura tecnica e Tecnologia dei materiali e Chimica applicata prima di Architettura e Composizione architettonica I;  
+Architettura e Composizione architettonica I prima di Architettura e Composizione architettonica II;  
+Urbanistica I prima di Urbanistica II;  
+Scienza delle costruzioni II e Tecnica delle costruzioni prima di Ponti e grandi strutture;  
+Idraulica, Tecnica delle costruzioni e Geologia applicata prima di Costruzioni idrauliche;  
+Idraulica prima di Impianti speciali idraulici;  
+Tecnologie dei materiali e Chimica applicata prima di Impianti speciali idraulici;  
+Meccanica applicata alle macchine e Macchine ed Elettrotecnica prima di Tecnica ed economia dei trasporti.  
+Art. 67. - I corsi elencati negli articoli precedenti hanno la durata di un anno accademico, con eccezione di quelli per i quali e' segnata la qualifica di semestrale.  
+Gli insegnamenti predetti sono di regola integrati da esercitazioni secondo quanto stabilira' di volta in volta il Consiglio di facolta' e verra' comunicato dal manifesto degli studi.  
+All'inizio di ogni anno accademico la Facolta' delibera l'orario delle lezioni e il numero di ore di lezione e di esercitazione per ogni insegnamento.  
+Art. 68. - Gli esami speciali consistono in prove orali, che possono essere integrate da prove scritte, grafiche e pratiche secondo modalita' che, per ciascuna prova, vengano stabilite dal Consiglio di facolta' ai fini della ammissione agli esami predetti le firme di frequenza ottenute hanno validita' di 6 anni.  
+Art. 69. - Per essere ammessi all'esame di laurea, gli studenti debbono aver frequentato e superato tutti gli esami relativi agli insegnamenti elencati negli articoli 63-64 che non potranno nel complesso superare per ciascun corso di laurea il numero di 30.  
+Art. 70. - L'esame di laurea consiste:  
+a) nella redazione di un progetto di un'opera di Ingegneria, nell'esecuzione di uno studio di carattere monografico anche teorico o di una ricerca sperimentale, il cui argomento dovra' inquadrarsi nel corso di laurea e nell'orientamento scelto dallo studente (tesi di laurea);  
+b) in una prova orale comprendente la discussione sulla tesi di laurea con eventuali richiami ai vari insegnamenti della Facolta'.  
+Il Consiglio di facolta' potra' inoltre richiedere, con sua deliberazione, che singoli allievi, visti la loro carriera scolastica prima di essere ammessi alla prova b) predetta con la quale si conclude l'esame di laurea, sostengano prove speciali scritte e orali non a carattere eliminatorio.  
   
-6) Analisi matematica II;   
-7) Disegno II;   
-8) Fisica II;   
-9) Meccanica razionale;   
-10) Chimica organica.   
-Triennio di applicazione:   
-  
-11) Chimica applicata;   
-12) Chimica fisica;   
-13) Chimica industriale;   
-14) Elettrotecnica;   
-15) Fisica tecnica;   
-16) Impianti chimici;   
-17) Macchine;   
-18) Meccanica applicata alle macchine;   
-19) Principi di ingegneria chimica;   
-20) Scienza delle costruzioni;   
-21) Chimica analitica;   
-22) Combustibili e lubrificanti (semestrale);   
-23) Economia ed organizzazione aziendale;   
-24) Elettrochimica;   
-25) Idraulica;   
-26) Metallurgia;   
-27) Stechiometria industriale (semestrale);   
-28) Strumentazione, misure e collaudi;   
-un gruppo di materie a scelta tra quelle elencate all'art. 67.   
-I restanti corsi per raggiungere per ogni singolo corso di laurea il numero degli insegnamenti previsto dall'ultimo comma dell'[art. 8 del decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53~art8), sono a scelta dello studente. Gli insegnamenti a scelta dello studente sono indicati nell'elenco del successivo articolo.   
-Da tale elenco la facolta' trarra', per i singoli corsi di laurea, le materie da attivare che indichera', anno per anno, nel manifesto degli studi. Nel manifesto, pero', le materie non figureranno isolate, ma raggruppate a costituire indirizzi di specializzazione.   
-Art. 67. - Sono insegnamenti complementari ai sensi dell'[art. 1 del decreto del Presidente della Repubblica 27 settembre 1970, n. 827](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-09-27;827~art1), i seguenti:   
-  
-1) Acquedotti, bonifiche e fognature;   
-2) Analisi riconoscimento dei minerali;   
-3) Analisi dei sistemi;   
-4) Analisi delle strutture territoriali;   
-5) Architettura e composizione architettonica II;   
-6) Architettura degli interni;   
-7) Analisi sperimentale delle tensioni;   
-8) Calcolo numerico;   
-9) Campionatura e valutazione dei giacimenti;   
-10) Chimica agraria;   
-11) Chimica degli alti polimeri;   
-12) Coltivazione dei giacimenti di idrocarburi;   
-13) Complementi di elettrotecnica;   
-14) Complementi di geofisica mineraria;   
-15) Complementi di idraulica (semestrale);   
-16) Complementi di mineralogia e petrografia;   
-17) Costruzioni automobilistiche e ferroviarie;   
-18) Costruzioni di macchine II;   
-19) Costruzioni di strade, ferrovie e aeroporti II;   
-20) Costruzioni elettromeccaniche;   
-21) Costruzioni marittime (semestrale);   
-22) Dinamica delle strutture e ingegneria sismica;   
-23) Economia;   
-24) Economia industriale;   
-25) Elettronica applicata;   
-26) Equazioni differenziali (semestrale);   
-27) Estimo, economia e legislazione mineraria;   
-28) Fotogrammetria;   
-29) Generatori di vapore e tecnica della combustione;   
-30) Geochimica;   
-31) Geofisica applicata;   
-32) Geologia applicata;   
-33) Geologia degli idrocarburi;   
-34) Idrologia tecnica (semestrale);   
-35) Impianti elettrici;   
-36) Impianti metallurgici;.   
-37) Impianti mineralurgici;   
-38) Impianti minerari;   
-39) Impianti petrolchimici;   
-40) Impianti di sollevamento e trasporti;   
-41) Impianti speciali idraulici;   
-42) Impianti tecnici edili;   
-43) Industrializzazione ed unificazione edilizia;   
-44) Industrie agrarie e alimentari;   
-45) Ingegneria sanitaria;   
-46) Inquinamenti e tecniche di prevenzione;   
-47) Macchine II;   
-48) Macchine e centrali elettriche;   
-50) Meccanica applicata II (semestrale);   
-51) Meccanica dei fluidi;   
-52) Meccanica delle terre e fondazioni;   
-53) Meccanica delle rocce;   
-54) Metodi probabilistici, statistici e processi stocastici;   
-55) Misure elettriche (semestrale);   
-56) Organizzazione dei cantieri;   
-57) Paleontologia;   
-58) Ponti e strutture speciali;   
-59) Procedimenti analitici nei processi ed operazioni unitarie;   
-60) Programmazione degli impianti meccanici e manutenzione programmata;   
-61) Prospezione geomineraria;   
-62) Resistenza e sicurezza delle costruzioni;   
-63) Ricerca operativa;   
-64) Rilievo e restauro dei monumenti;   
-65) Scienza dei metalli;   
-66) Sistemazione dei bacini idrografici;   
-67) Sistemi di informazione;   
-68) Sperimentazione dei materiali e delle strutture;   
-69) Stabilita' e dinamica dei sistemi;   
-70) Storia dell'architettura;   
-71) Strumentazione e misure elettroniche;   
-72) Tecnica degli scavi e delle gallerie;   
-73) Tecnica dei sondaggi (semestrale);   
-74) Tecnica del freddo;   
-75) Tecnica della circolazione stradale;   
-76) Tecnica delle miniere;   
-77) Tecnica ed economia dei trasporti I;   
-78) Tecnica ed economia dei trasporti II;   
-79) Tecnologie generali;   
-80) Tecnologie speciali metallurgiche;   
-81) Teoria e sviluppo dei processi chimici;   
-82) Teoria dei modelli;   
-83) Termocinetica e termodinamica applicata;   
-84) Termofluodinamica delle macchine;   
-85) Trattamento dei solidi;   
-86) Trazione elettrica;   
-87) Urbanistica II;   
-88) Utilizzazione delle risorse idriche.   
-Art. 68. - I corsi elencati negli articoli precedenti hanno la durata di un anno accademico, con eccezione di quelli per i quali e' segnata la qualifica di semestrali.   
-Gli insegnamenti predetti sono di regola integrati da esercitazioni secondo quanto stabilira' di volta in volta il consiglio di facolta' e verra' comunicato dal manifesto degli studi.   
-All'inizio di ogni anno accademico la facolta' delibera l'orario delle lezioni e il numero di ore di lezione e di esercitazione per ogni insegnamento.   
-Art. 69. - Gli esami consistono in prove orali, che possono essere integrate da prove scritte, grafiche e pratiche secondo modalita' che, per ciascuna prova, vengano stabilite dal consiglio di facolta' ai fini dell'ammissione agli esami predetti, le firme di frequenza ottenute hanno validita' di 6 anni.   
-Art. 70 - Il numero di esami, per ciascun corso di laurea, e' fissato in 30 annuali o equivalenti, intendendosi che due esami semestrali equivalgono ad un esame annuale.   
-Gli studenti del primo anno di corso potranno ottenere l'iscrizione al 2° anno di corso qualora abbiano superato almeno due fra i quattro seguenti esami: analisi matematica I, geometria I, fisica I, chimica.   
-Al termine del secondo anno di corso, lo studente, per essere iscritto al terzo anno, oltre che essere in possesso delle attestazioni di frequenza di tutte le discipline previste per il primo e secondo anno dovra' aver superato i relativi esami, fatta eccezione degli insegnamenti aggiunti. Lo studente tuttavia che sia in debito, oltreche' degli esami per i detti insegnamenti aggiunti, anche di un solo esame, a sua scelta, del secondo anno di corso, potra' ugualmente essere iscritto al terzo anno, con l'obbligo di superare tale esame prima di sostenere qualsiasi esame del triennio di applicazione.   
-I due esami di fisica comprendono la parte riguardante le relative esercitazioni.   
-Per essere ammessi all'esame di laurea gli studenti debbono aver superato, nel numero stabilito, gli esami relativi agli insegnamenti elencati negli articoli 63, 64, 65, 66, integrati con quelli riportati nell'art. 67, ovvero tutti gli esami dei piani individuali, approvati dalla facolta' ai sensi di legge.   
-Art. 71. - L'esame di laurea consiste:   
-a) nella redazione di un progetto di un'opera di ingegneria, nell'esecuzione di uno studio di carattere monografico anche teorico o di una ricerca sperimentale, il cui argomento dovra' inquadrarsi nel corso di laurea e nell'orientamento scelto dallo studente (tesi di laurea);   
-b) in una prova orale comprendente la discussione sulla tesi di laurea con eventuali richiami ai vari insegnamenti della facolta'.   
-Art. 72. - Il programma degli studi che debbono essere compiuti e degli esami che debbono essere sostenuti presso la facolta' dagli ingegneri del Corpo statale delle miniere viene, per ciascuno di essi, deliberato dal consiglio di facolta' con l'intervento del capo del Corpo della miniera o di un suo rappresentante.   
+Art. 71. - Il programma degli studi che debbono essere compiuti e degli esami che debbono essere sostenuti presso la Facolta' dagli ingegneri del Corpo statale delle miniere viene, per ciascuno di essi, deliberato dal Consiglio di facolta' con l'intervento del capo del Corpo della miniera o di un suo rappresentante.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 maggio 1972
+### Dato a Roma, addi' 31 ottobre 1960
 
-LEONE MISASI
+GRONCHI Bosco
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 3 agosto 1972
+Registrato alla Corte dei conti, addi' 22 aprile 1961
 
-Atti del Governo, registro n. 250, foglio n. 108. - VALENTINI
+Atti del Governo, registro n. 136, foglio n. 60. - VILLA

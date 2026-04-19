@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1977 n. 474
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1295
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1977 n. 474
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1295
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
@@ -20,7 +20,7 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -30,178 +30,216 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 136 - il quarto comma relativo alla scuola di specializzazione in psichiatria e' abrogato.
+Dopo l'art. 124 sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "ematologia clinica e di laboratorio", in "medicina legale e delle assicurazioni", in "otorinolaringoiatria e patologia cervico-facciale".
 
-L'art. 137, relativo alla scuola in psichiatria, e' integrato dal comma seguente:
+Scuola di specializzazione in ematologia clinica e di laboratorio
 
-Le tasse, soprattasse e contributi che gli iscritti sono tenuti a versare sono fissate come segue:
+Art. 125. - La scuola di specializzazione in ematologia clinica e di laboratorio ha sede presso l'istituto di patologia speciale medica.
 
-1° Anno Anni successivi
+Alla scuola possono essere iscritti i laureati in medicina e chirurgia.
 
-Tassa di immatricolazione ................. 5.000 -
+La durata del corso di specializzazione e' di tre anni.
 
-Costo libretto iscrizione e tesserino ..... 1.500 -
+Il numero complessivo degli iscritti ai tre anni di corso e' di quindici.
 
-Tassa annuale di iscrizione ............... 100.000 100.000
+Le tasse e soprattasse che gli iscritti sono tenuti a versare, sono fissate come segue:
 
-Soprattassa esami profitto ................ 7.000 7.000
+tassa di immatricolazione. . . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione. . . . . . . . . . . . . . . . . . L. 100.000 soprattasse esami. . . . . . . . . . . . . . . . . . . . L. 7.000
 
-Contributo opere sportive assistenziali ... 1.000 1.000
+Art. 126. - Gli insegnamenti impartiti sono i seguenti:
 
-Contributo di biblioteca .................. 10.000 10.000
+1° Anno:
 
-Contributo clinica e laboratorio .......... 48.000 48.000
+1) Morfologia e morfogenesi normale e patologica del sangue;
 
-Prestazioni di segreteria ................. 3.000 3.000
+2) Genetica ematologica;
 
-Contributo di riscaldamento ............... 3.000 3.000
+3) Fisiopatologia della coagulazione e dell'emostasi;
 
-------- -------
+4) Fisiopatologia ematologica;
 
-178.500 172.000
+5) Biochimica ematologica;
 
-L'art. 140, secondo comma, relativo alla scuola di specializzazione in igiene e medicina preventiva, e' modificato nel senso che il numero degli iscritti al 1° anno e' fissato in 15 per ogni indirizzo.
+6) Fisiopatologia del plasma;
 
-L'art. 143, primo comma, relativo alla scuola di specializzazione in oculistica, e' modificato nel senso che il numero degli iscritti da ammettere alla scuola e' fissato in 5 per ogni anno di corso.
+7) Tecniche di laboratorio inerenti all'ematologia.
 
-Art. 146 - il quarto comma relativo alla scuola di specializzazione in neurologia e' soppresso.
+2° Anno:
 
-Lo stesso articolo e' integrato con il comma seguente:
+1) Morfologia e morfogenesi normale e patologica del sangue;
 
-Le tasse e soprattasse che gli iscritti sono tenuti a versare sono fissati come segue:
+2) Fisiopatologia ematologica;
 
-1° Anno Anni successivi
+3) Immunoematologia;
 
-Tassa di immatricolazione ................. 5.000 -
+4) Tecniche di laboratorio inerenti all'ematologia;
 
-Costo libretto iscrizione e tesserino ..... 1.500 -
+5) Patologia speciale ematologica;
 
-Tassa annuale di iscrizione ............... 100.000 100.000
+6) Clinica delle emopatie;
 
-Soprattassa esami profitto ................ 7.000 7.000
+7) Anatomia ed istologia patologica della emopatia e fondamenti di oncologia.
 
-Contributo opere sportive assistenziali ... 1.000 1.000
+3° Anno:
 
-Contributo di biblioteca .................. 10.000 10.000
+1) Tecniche di laboratorio inerenti all'ematologia;
 
-Contributo clinica e laboratorio .......... 48.000 48.000
+2) Nozioni di radiobiologia e di medicina nucleare applicate all'ematologia;
 
-Prestazioni di segreteria ................. 3.000 3.000
+3) Radiodiagnostica e radioterapia ematologica;
 
-Contributo di riscaldamento ............... 3.000 3.000
+4) Patologia speciale ematologica;
 
-------- -------
+5) Clinica delle emopatie;
 
-178.500 172.000
+6) Terapia sistematica ematologica;
 
-L'art. 147, settimo comma, relativo alla scuola di specializzazione in ostetricia e ginecologia e' modificato nel senso che il numero degli iscritti alla scuola e' fissato in dieci per ogni anno di corso.
+7) Terapia trasfusionale.
 
-L'art. 153 e' modificato nel senso che la scuola di specializzazione in chirurgia muta la denominazione in quella di chirurgia generale.
+E' lasciata facolta' alla direzione della scuola di inserire uno o piu' insegnamenti facoltativi.
 
-L'art. 154, relativo alla scuola di specializzazione in chirurgia generale viene integrato nel modo seguente:
+Scuola di specializzazione in medicina legale e delle assicurazioni
 
-Le tasse e soprattasse che gli iscritti sono tenuti a versare sono fissate come segue:
+Art. 127. - La scuola ha sede presso l'istituto di medicina legale della Universita' (ospedale maggiore).
 
-1° Anno Anni successivi
+Alla scuola sono ammessi i laureati in medicina e chirurgia.
 
-Tassa di immatricolazione ................. 5.000 -
+Durata: 3 anni.
 
-Costo libretto iscrizione e tesserino ..... 1.500 -
+Numero massimo degli iscritti 5 per anno (totale 15 iscritti).
 
-Tassa annuale di iscrizione ............... 100.000 100.000
+Le tasse e soprattasse che gli iscritti sono tenuti a versare, sono fissate come segue:
 
-Soprattassa esami profitto ................ 7.000 7.000
+tassa di immatricolazione. . . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione. . . . . . . . . . . . . . . . . . L. 100.000 soprattasse esami. . . . . . . . . . . . . . . . . . . . L. 7.000
 
-Contributo opere sportive assistenziali ... 1.000 1.000
+Art. 128. - Insegnamenti impartiti nella scuola:
 
-Contributo di biblioteca .................. 10.000 10.000
+1° Anno:
 
-Contributo clinica e laboratorio .......... 48.000 48.000
+1) Medicina legale generale;
 
-Prestazioni di segreteria ................. 3.000 3.000
+2) Elementi di diritto pubblico e privato;
 
-Contributo di riscaldamento ............... 3.000 3.000
+3) Tecnica e diagnostica anatomo-patologica generale e medico-legale;
 
-------- -------
+4) Traumatologia medico-legale;
 
-178.500 172.000
+5) Semeiotica medico-legale.
 
-L'art. 164 e' modificato nel senso che la scuola di specializzazione in otorinolaringoiatria e patologia cervicofacciale muta la denominazione in quella di otorinolaringoiatria.
+2° Anno:
 
-Allo stesso articolo il settimo comma e' abrogato e sostituito dal seguente:
+1) Medicina legale penalistica;
 
-Le tasse e soprattasse che gli iscritti sono tenuti a versare sono fissate come segue:
+2) Deontologia medica;
 
-1° Anno Anni successivi
+3) Neuropsichiatria medico-legale;
 
-Tassa di immatricolazione ................. 5.000 -
+4) Elementi di medicina criminologica e di medicina penitenziaria;
 
-Costo libretto iscrizione e tesserino ..... 1.500 -
+5) Indagini di sopralluogo;
 
-Tassa annuale di iscrizione ............... 100.000 100.000
+6) Identificazione personale.
 
-Soprattassa esami profitto ................ 7.000 7.000
+3° Anno:
 
-Contributo opere sportive assistenziali ... 1.000 1.000
+1) Medicina legale civilistica e canonistica;
 
-Contributo di biblioteca .................. 10.000 10.000
+2) Tossicologia medico-legale;
 
-Contributo clinica e laboratorio .......... 48.000 48.000
+3) Tecniche di laboratorio medico-legale ed ematologia forense;
 
-Prestazioni di segreteria ................. 3.000 3.000
+4) Ostetricia e ginecologia forensi;
 
-Contributo di riscaldamento ............... 3.000 3.000
+5) Elementi di legislazione del lavoro;
 
-------- -------
+6) Elementi di medicina del lavoro;
 
-178.500 172.000
+7) Medicina delle assicurazioni;
 
-L'art. 168, relativo alla scuola di specializzazione in chirurgia vascolare, e' modificato nel senso che il numero degli iscritti da ammettere alla scuola e' fissato in sei per anno di corso.
+8) Medicina legale militare e pensionistica civile.
 
-L'art. 172 e' modificato nel senso che la scuola di specializzazione in terapia fisica e riabilitazione muta la denominazione in quella di fisioterapia.
+Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale
 
-Lo stesso articolo e' integrato con il comma seguente:
+Art. 129. - Alla scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale, che ha sede presso l'omonimo istituto, vengono ammessi i laureati in medicina e chirurgia. Il numero dei perfezionandi e' di (5) cinque per ogni anno di corso; se le domande superano i posti disponibili, l'ammissione sara' fatta per concorso interno con esame scritto su un argomento scelto dal direttore della scuola.
 
-Le tasse e soprattasse che gli iscritti sono tenuti a versare sono fissate come segue:
+Per accedere ai corsi successivi e' obbligatorio aver superato gli esami del corso precedente, ivi comprese le materie biennali.
 
-1° Anno Anni successivi
+Gli esami possono essere sostenuti solo in due sessioni annuali, una estiva ed una autunnale, e comunque non oltre il 30 novembre dell'anno in corso.
 
-Tassa di immatricolazione ................. 5.000 -
+Il diploma di specialista viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico o sperimentale.
 
-Costo libretto iscrizione e tesserino ..... 1.500 -
+La durata del corso di specializzazione e' di anni 3.
 
-Tassa annuale di iscrizione ............... 100.000 100.000
+Internato per 3 anni in clinica otorinolaringoiatrica con servizio effettivo di assistente volontario.
 
-Soprattassa esami profitto ................ 7.000 7.000
+Le tasse e soprattasse che gli iscritti sono tenuti a versare, sono fissate come segue:
 
-Contributo opere assistenziali ............ 1.000 1.000
+tassa di immatricolazione. . . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione. . . . . . . . . . . . . . . . . . L. 100.000 soprattasse esami. . . . . . . . . . . . . . . . . . . . L. 7.000
 
-Contributo di biblioteca .................. 10.000 10.000
+Art. 130. - Gli insegnamenti impartiti sono i seguenti:
 
-Contributo clinica e laboratorio .......... 48.000 48.000
+1° Anno:
 
-Prestazioni di segreteria ................. 3.000 3.000
+1) Anatomia;
 
-Contributo di riscaldamento ............... 3.000 3.000
+2) Fisiologia;
 
-------- -------
+3) Audiologia (1° anno);
 
-178.500 172.000
+4) Semeiotica otorinolaringoiatrica;
+
+5) Tecnica di laboratorio;
+
+6) Patologia otorinolaringoiatrica e cervico-facciale (1°anno);
+
+7) Anatomia e istologia patologica otorinolaringoiatrica.
+
+2° Anno:
+
+1) Tecniche operatorie in otorinolaringoiatria;
+
+2) Anestesiologia in otorinolaringoiatria;
+
+3) Patologia e clinica otorinolaringoiatrica e cervico-facciale (2° anno);
+
+4) Radiologia in rapporto con l'otorinolaringoiatria;
+
+5) Pediatria in rapporto con l'otorinolaringoiatria;
+
+6) Audiologia (2° anno);
+
+7) Otoneurologia;
+
+8) Foniatria.
+
+3° Anno:
+
+1) Patologia e clinica otorinolaringoiatrica e cervico-facciale; 2) Terapia medica e fisica in otorinolaringoiatria;
+
+3) Neuropatologia in rapporto con l'otorinolaringoiatria;
+
+4) Oculistica in rapporto con l'otorinolaringoiatria;
+
+5) Chirurgia plastica;
+
+6) Tracheo-broncoscopia;
+
+7) Medicina legale ed infortunistica in otorinolaringoiatria.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 10 febbraio 1977
+Dato a Roma, addi' 31 ottobre 1972
 
 LEONE
 
-MALFATTI
+SCALFARO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 26 luglio 1977 Registro n. 86 Istruzione, foglio n. 156
+alla Corte dei conti, addi' 22 dicembre 1973 Atti di Governo, registro n. 263, foglio n. 12. - CARUSO
 
 Art. 1
 ------
@@ -213,123 +251,133 @@ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regi
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
 Sulla proposta del Ministro per la pubblica istruzione;   
   
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 136 - il quarto comma relativo alla scuola di specializzazione in psichiatria e' abrogato.   
-L'art. 137, relativo alla scuola in psichiatria, e' integrato dal comma seguente:   
-Le tasse, soprattasse e contributi che gli iscritti sono tenuti a versare sono fissate come segue:   
   
+Dopo l'art. 124 sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "ematologia clinica e di laboratorio", in "medicina legale e delle assicurazioni", in "otorinolaringoiatria e patologia cervico-facciale".   
   
-1° Anno Anni successivi   
-Tassa di immatricolazione ................. 5.000 -  
-Costo libretto iscrizione e tesserino ..... 1.500 -  
-Tassa annuale di iscrizione ............... 100.000 100.000  
-Soprattassa esami profitto ................ 7.000 7.000  
-Contributo opere sportive assistenziali ... 1.000 1.000  
-Contributo di biblioteca .................. 10.000 10.000  
-Contributo clinica e laboratorio .......... 48.000 48.000  
-Prestazioni di segreteria ................. 3.000 3.000  
-Contributo di riscaldamento ............... 3.000 3.000  
-------- -------  
-178.500 172.000  
+Scuola di specializzazione in ematologia clinica e di laboratorio   
+Art. 125. - La scuola di specializzazione in ematologia clinica e di laboratorio ha sede presso l'istituto di patologia speciale medica.   
+Alla scuola possono essere iscritti i laureati in medicina e chirurgia.   
+La durata del corso di specializzazione e' di tre anni.   
+Il numero complessivo degli iscritti ai tre anni di corso e' di quindici.   
+Le tasse e soprattasse che gli iscritti sono tenuti a versare, sono fissate come segue:   
   
+tassa di immatricolazione. . . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione. . . . . . . . . . . . . . . . . . L. 100.000 soprattasse esami. . . . . . . . . . . . . . . . . . . . L. 7.000   
   
-L'art. 140, secondo comma, relativo alla scuola di specializzazione in igiene e medicina preventiva, e' modificato nel senso che il numero degli iscritti al 1° anno e' fissato in 15 per ogni indirizzo.   
-L'art. 143, primo comma, relativo alla scuola di specializzazione in oculistica, e' modificato nel senso che il numero degli iscritti da ammettere alla scuola e' fissato in 5 per ogni anno di corso.   
-Art. 146 - il quarto comma relativo alla scuola di specializzazione in neurologia e' soppresso.   
-Lo stesso articolo e' integrato con il comma seguente:   
-Le tasse e soprattasse che gli iscritti sono tenuti a versare sono fissati come segue:   
+Art. 126. - Gli insegnamenti impartiti sono i seguenti:   
+1° Anno:   
+1) Morfologia e morfogenesi normale e patologica del sangue;   
+2) Genetica ematologica;   
+3) Fisiopatologia della coagulazione e dell'emostasi;   
+4) Fisiopatologia ematologica;   
+5) Biochimica ematologica;   
+6) Fisiopatologia del plasma;   
+7) Tecniche di laboratorio inerenti all'ematologia.   
+2° Anno:   
+1) Morfologia e morfogenesi normale e patologica del sangue;   
+2) Fisiopatologia ematologica;   
+3) Immunoematologia;   
+4) Tecniche di laboratorio inerenti all'ematologia;   
+5) Patologia speciale ematologica;   
+6) Clinica delle emopatie;   
+7) Anatomia ed istologia patologica della emopatia e fondamenti di oncologia.   
+3° Anno:   
+1) Tecniche di laboratorio inerenti all'ematologia;   
+2) Nozioni di radiobiologia e di medicina nucleare applicate all'ematologia;   
+3) Radiodiagnostica e radioterapia ematologica;   
+4) Patologia speciale ematologica;   
+5) Clinica delle emopatie;   
+6) Terapia sistematica ematologica;   
+7) Terapia trasfusionale.   
+E' lasciata facolta' alla direzione della scuola di inserire uno o piu' insegnamenti facoltativi.   
   
+Scuola di specializzazione in medicina legale e delle assicurazioni   
+Art. 127. - La scuola ha sede presso l'istituto di medicina legale della Universita' (ospedale maggiore).   
+Alla scuola sono ammessi i laureati in medicina e chirurgia.   
+Durata: 3 anni.   
+Numero massimo degli iscritti 5 per anno (totale 15 iscritti).   
+Le tasse e soprattasse che gli iscritti sono tenuti a versare, sono fissate come segue:   
   
-1° Anno Anni successivi  
+tassa di immatricolazione. . . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione. . . . . . . . . . . . . . . . . . L. 100.000 soprattasse esami. . . . . . . . . . . . . . . . . . . . L. 7.000   
   
-Tassa di immatricolazione ................. 5.000 -  
-Costo libretto iscrizione e tesserino ..... 1.500 -  
-Tassa annuale di iscrizione ............... 100.000 100.000  
-Soprattassa esami profitto ................ 7.000 7.000  
-Contributo opere sportive assistenziali ... 1.000 1.000  
-Contributo di biblioteca .................. 10.000 10.000  
-Contributo clinica e laboratorio .......... 48.000 48.000  
-Prestazioni di segreteria ................. 3.000 3.000  
-Contributo di riscaldamento ............... 3.000 3.000  
-------- -------  
-178.500 172.000  
+Art. 128. - Insegnamenti impartiti nella scuola:   
+1° Anno:   
+1) Medicina legale generale;   
+2) Elementi di diritto pubblico e privato;   
+3) Tecnica e diagnostica anatomo-patologica generale e medico-legale;   
+4) Traumatologia medico-legale;   
+5) Semeiotica medico-legale.   
+2° Anno:   
+1) Medicina legale penalistica;   
+2) Deontologia medica;   
+3) Neuropsichiatria medico-legale;   
+4) Elementi di medicina criminologica e di medicina penitenziaria;   
+5) Indagini di sopralluogo;   
+6) Identificazione personale.   
+3° Anno:   
+1) Medicina legale civilistica e canonistica;   
+2) Tossicologia medico-legale;   
+3) Tecniche di laboratorio medico-legale ed ematologia forense;  
+4) Ostetricia e ginecologia forensi;   
+5) Elementi di legislazione del lavoro;   
+6) Elementi di medicina del lavoro;   
+7) Medicina delle assicurazioni;   
+8) Medicina legale militare e pensionistica civile.   
   
+Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale   
   
-L'art. 147, settimo comma, relativo alla scuola di specializzazione in ostetricia e ginecologia e' modificato nel senso che il numero degli iscritti alla scuola e' fissato in dieci per ogni anno di corso.   
-L'art. 153 e' modificato nel senso che la scuola di specializzazione in chirurgia muta la denominazione in quella di chirurgia generale.   
-L'art. 154, relativo alla scuola di specializzazione in chirurgia generale viene integrato nel modo seguente:   
-Le tasse e soprattasse che gli iscritti sono tenuti a versare sono fissate come segue:   
+Art. 129. - Alla scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale, che ha sede presso l'omonimo istituto, vengono ammessi i laureati in medicina e chirurgia. Il numero dei perfezionandi e' di (5) cinque per ogni anno di corso; se le domande superano i posti disponibili, l'ammissione sara' fatta per concorso interno con esame scritto su un argomento scelto dal direttore della scuola.   
+Per accedere ai corsi successivi e' obbligatorio aver superato gli esami del corso precedente, ivi comprese le materie biennali.   
+Gli esami possono essere sostenuti solo in due sessioni annuali, una estiva ed una autunnale, e comunque non oltre il 30 novembre dell'anno in corso.   
+Il diploma di specialista viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico o sperimentale.   
+La durata del corso di specializzazione e' di anni 3.   
+Internato per 3 anni in clinica otorinolaringoiatrica con servizio effettivo di assistente volontario.   
+Le tasse e soprattasse che gli iscritti sono tenuti a versare, sono fissate come segue:   
   
+tassa di immatricolazione. . . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione. . . . . . . . . . . . . . . . . . L. 100.000 soprattasse esami. . . . . . . . . . . . . . . . . . . . L. 7.000   
   
-1° Anno Anni successivi   
-Tassa di immatricolazione ................. 5.000 -  
-Costo libretto iscrizione e tesserino ..... 1.500 -  
-Tassa annuale di iscrizione ............... 100.000 100.000  
-Soprattassa esami profitto ................ 7.000 7.000  
-Contributo opere sportive assistenziali ... 1.000 1.000  
-Contributo di biblioteca .................. 10.000 10.000  
-Contributo clinica e laboratorio .......... 48.000 48.000  
-Prestazioni di segreteria ................. 3.000 3.000  
-Contributo di riscaldamento ............... 3.000 3.000  
-------- -------  
-178.500 172.000  
-  
-  
-L'art. 164 e' modificato nel senso che la scuola di specializzazione in otorinolaringoiatria e patologia cervicofacciale muta la denominazione in quella di otorinolaringoiatria.   
-Allo stesso articolo il settimo comma e' abrogato e sostituito dal seguente:   
-Le tasse e soprattasse che gli iscritti sono tenuti a versare sono fissate come segue:   
-  
-  
-1° Anno Anni successivi   
-Tassa di immatricolazione ................. 5.000 -  
-Costo libretto iscrizione e tesserino ..... 1.500 -  
-Tassa annuale di iscrizione ............... 100.000 100.000  
-Soprattassa esami profitto ................ 7.000 7.000  
-Contributo opere sportive assistenziali ... 1.000 1.000  
-Contributo di biblioteca .................. 10.000 10.000  
-Contributo clinica e laboratorio .......... 48.000 48.000  
-Prestazioni di segreteria ................. 3.000 3.000  
-Contributo di riscaldamento ............... 3.000 3.000  
-------- -------  
-178.500 172.000  
-  
-  
-L'art. 168, relativo alla scuola di specializzazione in chirurgia vascolare, e' modificato nel senso che il numero degli iscritti da ammettere alla scuola e' fissato in sei per anno di corso.   
-L'art. 172 e' modificato nel senso che la scuola di specializzazione in terapia fisica e riabilitazione muta la denominazione in quella di fisioterapia.   
-Lo stesso articolo e' integrato con il comma seguente:   
-Le tasse e soprattasse che gli iscritti sono tenuti a versare sono fissate come segue:   
-  
-  
-1° Anno Anni successivi   
-Tassa di immatricolazione ................. 5.000 -  
-Costo libretto iscrizione e tesserino ..... 1.500 -  
-Tassa annuale di iscrizione ............... 100.000 100.000  
-Soprattassa esami profitto ................ 7.000 7.000  
-Contributo opere assistenziali ............ 1.000 1.000  
-Contributo di biblioteca .................. 10.000 10.000  
-Contributo clinica e laboratorio .......... 48.000 48.000  
-Prestazioni di segreteria ................. 3.000 3.000  
-Contributo di riscaldamento ............... 3.000 3.000  
-------- -------  
-178.500 172.000  
-  
+Art. 130. - Gli insegnamenti impartiti sono i seguenti:   
+1° Anno:   
+1) Anatomia;   
+2) Fisiologia;   
+3) Audiologia (1° anno);   
+4) Semeiotica otorinolaringoiatrica;   
+5) Tecnica di laboratorio;   
+6) Patologia otorinolaringoiatrica e cervico-facciale (1°anno);   
+7) Anatomia e istologia patologica otorinolaringoiatrica.   
+2° Anno:   
+1) Tecniche operatorie in otorinolaringoiatria;   
+2) Anestesiologia in otorinolaringoiatria;   
+3) Patologia e clinica otorinolaringoiatrica e cervico-facciale (2° anno);   
+4) Radiologia in rapporto con l'otorinolaringoiatria;   
+5) Pediatria in rapporto con l'otorinolaringoiatria;   
+6) Audiologia (2° anno);   
+7) Otoneurologia;   
+8) Foniatria.   
+3° Anno:   
+1) Patologia e clinica otorinolaringoiatrica e cervico-facciale; 2) Terapia medica e fisica in otorinolaringoiatria;   
+3) Neuropatologia in rapporto con l'otorinolaringoiatria;   
+4) Oculistica in rapporto con l'otorinolaringoiatria;   
+5) Chirurgia plastica;   
+6) Tracheo-broncoscopia;   
+7) Medicina legale ed infortunistica in otorinolaringoiatria.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 febbraio 1977
+### Dato a Roma, addi' 31 ottobre 1972
 
-LEONE MALFATTI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 26 luglio 1977
+Registrato alla Corte dei conti, addi' 22 dicembre 1973
 
-Registro n. 86 Istruzione, foglio n. 156
+Atti di Governo, registro n. 263, foglio n. 12. - CARUSO

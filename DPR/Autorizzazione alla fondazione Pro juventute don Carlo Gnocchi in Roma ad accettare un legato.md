@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1984 n. 816
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1974 n. 406
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1984 n. 816
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1974 n. 406
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-816. Decreto del Presidente della Repubblica 14 settembre 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata, ad accettare il legato, con l'obbligo di smobilizzo entro cinque anni dall'avvenuto consolidamento dell'usufrutto, consistente nella nuda proprieta' di un immobile sito nel comune di Settimo Torinese (Torino), via Mincio n. 3, meglio descritto nella perizia giurata del geom. Paolo Maddaloni, del valore di L. 12.000.000 elevato dall'ufficio tecnico erariale di Torino a L. 20.000.000, disposto dalla sig.ra Brusa Fortunata Margherita ved. Kunbrija con testamento olografo 15 marzo 1973, pubblicato a rogito dottore Emilio Turbil, notaio in Torino, in data 15 dicembre 1976, n. 45070 di repertorio, n. 13923 di raccolta, registrato a Torino il 3 gennaio 1977 al n. 44.  
+406. Decreto del Presidente della Repubblica 7 giugno 1974, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Emilia Peluffo ved. Nobile, con testamento olografo in data 12 ottobre 1968, pubblicato, a rogito del notaio dott. Guido Gili di Torino, in data 24 ottobre 1972, n. 3645 di repertorio e n. 1677 di raccolta e registrato a Torino il 7 novembre 1972 al n. 35960 atti pubblici, consistente nella somma di L. 6.952.230.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 24 novembre 1984  
-Registro n. 10 Presidenza, foglio n. 188
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 22 agosto 1974  
+Atti di Governo, registro n. 5, foglio n. 9. - SCIARRETTA

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1983 n. 380
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1984 n. 297
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1983 n. 380
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1984 n. 297
+=============================================================
 
 Assegnazione di due posti di tecnico laureato presso l'Universita' degli studi di Bologna.
 ------------------------------------------------------------------------------------------
@@ -12,8 +12,11 @@ Art. 1
 
 N.
 
-380. Decreto del Presidente della Repubblica 31 marzo 1983, col quale, sulla proposta del Ministro della pubblica istruzione, due posti disponibili nel ruolo dei tecnici laureati vengono assegnati: uno all'istituto di clinica chirurgica generale e terapia chirurgica della facolta' di medicina e chirurgia e uno all'istituto delle malattie infettive, profilassi e polizia veterinaria della facolta' di medicina veterinaria dell'Universita' di Bologna.  
+297. Decreto del Presidente della Repubblica 9 aprile 1984, col quale, sulla proposta del Ministro della pubblica istruzione, due posti disponibili nel ruolo dei tecnici laureati vengono assegnati all'Universita' di Bologna come segue:  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 11 agosto 1983  
-Registro n. 58 Istruzione, foglio n. 134
+Facolta' di medicina e chirurgia:  
+dipartimento di psicologia. . . . . . . . . . . . . . . . . . posti 1 Facolta' di agraria:  
+istituto di genio rurale. . . . . . . . . . . . . . . . . . . posti 1   
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 26 giugno 1984  
+Registro n. 39 Istruzione, foglio n. 55

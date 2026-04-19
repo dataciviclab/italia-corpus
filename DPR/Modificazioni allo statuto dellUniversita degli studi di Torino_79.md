@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1039
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 settembre 1971 n. 938
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1039
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 settembre 1971 n. 938
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,79 +18,489 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Veduto l'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dall'Universita' di Torino e convalidati dal Consiglio universitario nazionale nel suo parere;
+Sulla proposta del Ministro per la pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
+Decreta:
 
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Sulla
------
+L'art. 120 relativo all'elenco delle scuole annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Chirurgia generale", in "Malattie dell'apparato respiratorio", in "Oncologia" mutano rispettivamente la denominazione in quella di scuole in "Chirurgia", in "Tisiologia e malattie dell'apparato respiratorio", in "Oncologia clinica".
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Gli articoli 130 e 131 relativi alla scuola di specializzazione in "Chirurgia generale" che assume la denominazione di "Scuola di specializzazione in chirurgia sono abrogati e sostituiti dai seguenti.
 
-Articolo unico
---------------
+Scuola di specializzazione in chirurgia
 
+Art. 130. - La scuola di specializzazione in chirurgia conferisce il diploma di specialista in chirurgia.
+
+Gli anni di corso necessari per il conseguimento del diploma sono cinque.
+
+La selezione dei candidati aspiranti all'ammissione alla scuola avviene sulla base dei titoli ed esami.
+
+Il numero massimo degli iscritti e' stabilito complessivamente in sessanta specializzandi.
+
+Per nessun motivo il corso di cinque anni puo' essere abbreviato e pertanto non sono assolutamente consentite le iscrizioni con abbreviazioni di corso.
+
+Art. 131. - Le materie di insegnamento impartite nella scuola sono le seguenti:
+
+1) Anatomia chirurgica e corso di operazioni (triennale);
+
+2) Anatomia ed istologia patologica (biennale);
+
+3) Anestesia e rianimazione;
+
+4) Chirurgia cardiovascolare;
+
+5) Chirurgia d'urgenza;
+
+6) Chirurgia ginecologica;
+
+7) Chirurgia pediatrica;
+
+8) Chirurgia riparativa e plastica;
+
+9) Chirurgia sperimentale;
+
+10) Chirurgia toracica;
+
+11) Chirurgia urologica;
+
+12) Clinica chirurgica generale (quinquennale);
+
+13) Fisiopatologia chirurgica;
+
+14) Medicina legale;
+
+15) Neurochirurgia;
+
+16) Patologia speciale chirurgica (triennale);
+
+17) Radiologia;
+
+18) Ricerche di laboratorio;
+
+19) Semeiotica chirurgica;
+
+20) Semeiotica strumentale ed endoscopica;
+
+21) Trattamento pre e post-operatorio;
+
+22) Traumatologia ed ortopedia.
+
+Esse sono cosi' distribuite nei cinque anni di corso:
+
+1° Anno:
+
+Clinica chirurgica generale;
+
+Patologia speciale chirurgica;
+
+Semeiotica chirurgica;
+
+Anatomia chirurgica e corso di operazioni;
+
+Chirurgia sperimentale;
+
+Anestesia e rianimazione;
+
+Ricerche di laboratorio.
+
+2° Anno:
+
+Clinica chirurgica generale;
+
+Patologia speciale chirurgica;
+
+Semeiotica chirurgica;
+
+Anatomia chirurgica e corso di operazioni;
+
+Fisiopatologia chirurgica;
+
+Trattamento pre e post-operatorio;
+
+Anatomia ed istologia patologica.
+
+3° Anno:
+
+Clinica chirurgica generale;
+
+Patologia speciale chirurgica;
+
+Semeiotica strumentale ed endoscopica;
+
+Anatomia chirurgica e corso di operazioni;
+
+Radiologia;
+
+Anatomia e istologia patologica.
+
+4° Anno:
+
+Clinica chirurgica generale;
+
+Chirurgia ginecologica;
+
+Chirurgia urologica;
+
+Neurochirurgia;
+
+Traumatologia ed ortopedia;
+
+Chirurgia pediatrica;
+
+Clinica chirurgica generale;
+
+Chirurgia toracica;
+
+Chirurgia cardiovascolare;
+
+Chirurgia riparativa e plastica;
+
+Chirurgia d'urgenza;
+
+Medicina legale.
+
+I corsi saranno corredati da esercitazioni pratiche.
+
+La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.
+
+L'internato e' altresi' obbligatorio durante tutti i cinque anni del corso e si svolgera' presso la clinica chirurgica generale e terapia chirurgica dell'universita' sotto forma di permanenza costante in detta clinica, durante le ore della sua attivita' con presenza giornaliera agli ambulatori ed ai reparti di degenza.
+
+Dall'obbligo di tale internato saranno esentati quegli allievi che, in qualita' di assistenti e di aiuti, prestino effettivamente servizio presso reparti di chirurgia generale delle universita' e di ospedali di 1ª e 2ª categoria. La frequenza nelle sale operatorie iniziera' fin dal primo anno di corso, e dopo un periodo di tirocinio, si trasformera' in compartecipazione attiva agli interventi chirurgici.
+
+Gli allievi che non abbiano ottemperato agli obblighi di frequenza non saranno ammessi a sostenere gli esami annuali di corso.
+
+Gli iscritti dovranno sostenere gli esami annuali di profitto per singole materie o per gruppi di materie ed un esame finale generale di diploma, che comprendera' anche la presentazione e discussione di una dissertazione scritta su argomento di patologia o di clinica chirurgica.
+
+Per i corsi che non siano nella clinica chirurgica generale e terapia chirurgica, possono essere stabiliti se parere del direttore della scuola, periodi di continuativa frequenza presso i relativi reparti specialistici qualora esistano quali reparti indipendenti.
+
+Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizi interno.
+
+Gli articoli 141, 142, 143, relativi alla "Scuola di specializzazione in malattie dell'apparato respiratorio" che assume la denominazione di "Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio" sono abrogati e sostituiti dai seguenti.
+
+Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio
+
+Art. 141. - Per il conseguimento del diploma di specialista in tisiologia e malattie dell'apparato respiratorio, si richiedono tre anni di corso.
+
+Art. 142. - Gli insegnamenti impartiti nella scuola sono i seguenti:
+
+1° Anno:
+
+Anatomia e istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);
+
+Patologia della tubercolosi polmonare ed extra-polmonare;
+
+Patologia delle malattie dell'apparato respiratorio;
+
+Fisiologia e fisiopatologia generale dell'apparato respiratorio;
+
+Semeiotica fisica e funzionale dell'apparato respiratorio;
+
+Microbiologia;
+
+Epidemiologia e statistica sanitaria delle tubercolosi e delle malattie dell'apparato respiratorio.
+
+2° Anno:
+
+Anatomia e istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);
+
+Clinica della tubercolosi (biennale);
+
+Clinica delle malattie dell'apparato respiratorio (biennale);
+
+Fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;
+
+Broncologia;
+
+Radiologia dell'apparato respiratorio;
+
+Profilassi della tubercolosi;
+
+Igiene e legislazione sociale.
+
+3° Anno:
+
+Clinica della tubercolosi (biennale);
+
+Clinica delle malattie dell'apparato respiratorio (biennale);
+
+Chemioterapia della tubercolosi e delle malattie i dell'apparato respiratorio;
+
+Terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;
+
+Terapia chirurgica della tubercolosi e delle malattie dell'apparato respiratorio.
+
+Alla fine di ognuno dei tre anni di corso i perfezionandi dovranno sostenere un esame sulle materie svolte durante l'anno.
+
+Art. 143. - Il numero massimo di iscritti per anno e' di cinque.
+
+L'internato si svolgera' presso l'istituto di clinica medica e di patologia speciale medica.
+
+L'ospedale sanatoriale S. Luigi mette a disposizione degli specializzandi il suo ricco materiale riguardante la malattia tubercolare.
+
+E' obbligatoria la firma di frequenza per ogni anno di corso.
+
+Alla fine dei corsi il candidato deve sostenere un esame di diploma.
+
+L'ammissione alla scuola avviene attraverso un esame scritto.
+
+L'art. 238 e' modificato nel senso che la "Scuola di specializzazione in oncologia" assume la denominazione di "Scuola di specializzazione in oncologia clinica".
+
+L'art. 239 relativo alla suddetta scuola di specializzazione e' abrogato e sostituito dal seguente:
+
+Art. 239. - La durata del corso e' di tre anni e vi possono accedere non piu' di venti iscritti per anno. Nella iscrizione alla scuola di specializzazione sara' data la preferenza a candidati gia' in possesso della libera docenza e di specializzazione in altre materie biologiche o cliniche.
+
+La frequenza a tale corso ed alle esercitazioni e' obbligatoria.
+
+Gli insegnamenti previsti sono cosi' ripartiti:
+
+1° Anno:
+
+Patologia generale dei tumori;
+
+Biochimica dei tumori;
+
+Patologia oncologica speciale;
+
+Diagnosi istologica e citocariologica dei tumori;
+
+Registrazione epidemiologica dei tumori.
+
+2° Anno:
+
+Prevenzione dei tumori;
+
+Diagnosi precoce dei tumori;
+
+Riscontri anatomo clinici;
+
+Clinica medica generale dei tumori;
+
+Clinica chirurgica generale dei tumori;
+
+Diagnosi e terapia radiologica dei tumori;
+
+Gli isotopi radioattivi nella diagnosi e nella terapia.
+
+3° Anno:
+
+Diagnosi e terapia dei tumori O.R.L.;
+
+Diagnosi e terapia dei tumori del cavo orale;
+
+Diagnosi e terapia dei tumori genitali femminili;
+
+Diagnosi e terapia dei tumori cutanei;
+
+Chirurgia oncologica;
+
+Terapia antalgica dei tumori.
+
+Insegnamenti facoltativi:
+
+Semeiotica dei tumori;
+
+Chemioterapia antiblastica;
+
+Tecniche chirurgiche complementari;
+
+Chirurgia riparatrice.
+
+Il presente decreto, munito del sigillo dello Stato sara' inserito nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 18 settembre 1971
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: COLOMBO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 15 novembre 1971 Atti del Governo, registro n. 245, foglio n. 29. - CARUSO
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Lo statuto dell'Universita' di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Decreta:  
   
-L'art. 158 e' modificato nel senso che la scuola di specializzazione in oncologia clinica muta denominazione in "oncologia".   
-Gli articoli da 269 a 273 relativi alla scuola di specializzazione in oncologia clinica, che muta denominazione in oncologia, sono sostituiti dai seguenti:   
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Scuola di specializzazione in oncologia   
+L'art. 120 relativo all'elenco delle scuole annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Chirurgia generale", in "Malattie dell'apparato respiratorio", in "Oncologia" mutano rispettivamente la denominazione in quella di scuole in "Chirurgia", in "Tisiologia e malattie dell'apparato respiratorio", in "Oncologia clinica".  
+Gli articoli 130 e 131 relativi alla scuola di specializzazione in "Chirurgia generale" che assume la denominazione di "Scuola di specializzazione in chirurgia sono abrogati e sostituiti dai seguenti.  
   
-Art. 269. - La scuola di specializzazione in oncologia ha sede presso l'istituto di oncologia di Torino, via Cavour, 31 e conferisce il diploma di specialista in oncologia.   
-Art. 270. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.   
-Art. 271. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.   
-Art. 272. - La durata del corso di studi e' di 3 anni e non e' suscettibile di abbreviazione.   
-Art. 273. - Il numero massimo degli allievi e' di venti per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi (un iscritto ogni quattro posti letto: numero dei letti: duecentoventicinque).   
-Art. 274. - L'ammissione al corso avviene per titoli ed esami.   
-Art. 275. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-patologia generale dei tumori (I);   
-oncologia sperimentale (I);   
-anatomia ed istologia patologica dei tumori (I);   
-epidemiologia dei tumori;   
-cancerogenesi ambientale e professionale e prevenzione primaria;   
-immunologia dei tumori.   
-2° Anno:   
-patologia generale dei tumori (II);   
-oncologia sperimentale (II);   
-anatomia e istologia patologica dei tumori (II);   
-citodiagnostica dei tumori;   
-prevenzione clinica e tecniche diagnostiche e di laboratorio; radiodiagnostica dei tumori;   
-oncologia medica (I);   
-oncologia chirurgica (I).   
-3° Anno:   
-oncologia medica (II);   
-oncologia chirurgica (II);   
-radioterapia dei tumori;   
-oncologia dell'apparato genitale femminile;   
-oncologia pediatrica;   
-principi di riabilitazione oncologica;   
-organizzazione della lotta contro i tumori.   
-Ogni scuola dovra' provvedere ad organizzare seminari e conferenze su specifici argomenti con l'integrazione di quelli elencati nello statuto.   
-Art. 276. - La frequenza alle lezioni, alle esercitazioni pratiche, e' obbligatoria per l'ammissione agli esami; il superamento degli esami di ciascun anno sara' condizione indispensabile per l'iscrizione all'anno successivo. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
-Art. 277. - Al termine del triennio per ottenere il diploma i candidati dovranno presentare una dissertazione scritta su un argomento attinente alla specializzazione.   
+Scuola di specializzazione in chirurgia  
+  
+Art. 130. - La scuola di specializzazione in chirurgia conferisce il diploma di specialista in chirurgia.  
+Gli anni di corso necessari per il conseguimento del diploma sono cinque.  
+La selezione dei candidati aspiranti all'ammissione alla scuola avviene sulla base dei titoli ed esami.  
+Il numero massimo degli iscritti e' stabilito complessivamente in sessanta specializzandi.  
+Per nessun motivo il corso di cinque anni puo' essere abbreviato e pertanto non sono assolutamente consentite le iscrizioni con abbreviazioni di corso.  
+Art. 131. - Le materie di insegnamento impartite nella scuola sono le seguenti:  
+1) Anatomia chirurgica e corso di operazioni (triennale);  
+2) Anatomia ed istologia patologica (biennale);  
+3) Anestesia e rianimazione;  
+4) Chirurgia cardiovascolare;  
+5) Chirurgia d'urgenza;  
+6) Chirurgia ginecologica;  
+7) Chirurgia pediatrica;  
+8) Chirurgia riparativa e plastica;  
+9) Chirurgia sperimentale;  
+10) Chirurgia toracica;  
+11) Chirurgia urologica;  
+12) Clinica chirurgica generale (quinquennale);  
+13) Fisiopatologia chirurgica;  
+14) Medicina legale;  
+15) Neurochirurgia;  
+16) Patologia speciale chirurgica (triennale);  
+17) Radiologia;  
+18) Ricerche di laboratorio;  
+19) Semeiotica chirurgica;  
+20) Semeiotica strumentale ed endoscopica;  
+21) Trattamento pre e post-operatorio;  
+22) Traumatologia ed ortopedia.  
+Esse sono cosi' distribuite nei cinque anni di corso:  
+1° Anno:  
+Clinica chirurgica generale;  
+Patologia speciale chirurgica;  
+Semeiotica chirurgica;  
+Anatomia chirurgica e corso di operazioni;  
+Chirurgia sperimentale;  
+Anestesia e rianimazione;  
+Ricerche di laboratorio.  
+2° Anno:  
+Clinica chirurgica generale;  
+Patologia speciale chirurgica;  
+Semeiotica chirurgica;  
+Anatomia chirurgica e corso di operazioni;  
+Fisiopatologia chirurgica;  
+Trattamento pre e post-operatorio;  
+Anatomia ed istologia patologica.  
+3° Anno:  
+Clinica chirurgica generale;  
+Patologia speciale chirurgica;  
+Semeiotica strumentale ed endoscopica;  
+Anatomia chirurgica e corso di operazioni;  
+Radiologia;  
+Anatomia e istologia patologica.  
+4° Anno:  
+Clinica chirurgica generale;  
+Chirurgia ginecologica;  
+Chirurgia urologica;  
+Neurochirurgia;  
+Traumatologia ed ortopedia;  
+Chirurgia pediatrica;  
+Clinica chirurgica generale;  
+Chirurgia toracica;  
+Chirurgia cardiovascolare;  
+Chirurgia riparativa e plastica;  
+Chirurgia d'urgenza;  
+Medicina legale.  
+I corsi saranno corredati da esercitazioni pratiche.  
+La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.  
+L'internato e' altresi' obbligatorio durante tutti i cinque anni del corso e si svolgera' presso la clinica chirurgica generale e terapia chirurgica dell'universita' sotto forma di permanenza costante in detta clinica, durante le ore della sua attivita' con presenza giornaliera agli ambulatori ed ai reparti di degenza.  
+Dall'obbligo di tale internato saranno esentati quegli allievi che, in qualita' di assistenti e di aiuti, prestino effettivamente servizio presso reparti di chirurgia generale delle universita' e di ospedali di 1ª e 2ª categoria. La frequenza nelle sale operatorie iniziera' fin dal primo anno di corso, e dopo un periodo di tirocinio, si trasformera' in compartecipazione attiva agli interventi chirurgici.  
+Gli allievi che non abbiano ottemperato agli obblighi di frequenza non saranno ammessi a sostenere gli esami annuali di corso.  
+Gli iscritti dovranno sostenere gli esami annuali di profitto per singole materie o per gruppi di materie ed un esame finale generale di diploma, che comprendera' anche la presentazione e discussione di una dissertazione scritta su argomento di patologia o di clinica chirurgica.  
+Per i corsi che non siano nella clinica chirurgica generale e terapia chirurgica, possono essere stabiliti se parere del direttore della scuola, periodi di continuativa frequenza presso i relativi reparti specialistici qualora esistano quali reparti indipendenti.  
+Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizi interno.  
+Gli articoli 141, 142, 143, relativi alla "Scuola di specializzazione in malattie dell'apparato respiratorio" che assume la denominazione di "Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio" sono abrogati e sostituiti dai seguenti.  
+  
+Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio  
+  
+Art. 141. - Per il conseguimento del diploma di specialista in tisiologia e malattie dell'apparato respiratorio, si richiedono tre anni di corso.  
+Art. 142. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1° Anno:  
+Anatomia e istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);  
+Patologia della tubercolosi polmonare ed extra-polmonare;  
+Patologia delle malattie dell'apparato respiratorio;  
+Fisiologia e fisiopatologia generale dell'apparato respiratorio;  
+Semeiotica fisica e funzionale dell'apparato respiratorio;  
+Microbiologia;  
+Epidemiologia e statistica sanitaria delle tubercolosi e delle malattie dell'apparato respiratorio.  
+2° Anno:  
+Anatomia e istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);  
+Clinica della tubercolosi (biennale);  
+Clinica delle malattie dell'apparato respiratorio (biennale);  
+Fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;  
+Broncologia;  
+Radiologia dell'apparato respiratorio;  
+Profilassi della tubercolosi;  
+Igiene e legislazione sociale.  
+3° Anno:  
+Clinica della tubercolosi (biennale);  
+Clinica delle malattie dell'apparato respiratorio (biennale);  
+Chemioterapia della tubercolosi e delle malattie i dell'apparato respiratorio;  
+Terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;  
+Terapia chirurgica della tubercolosi e delle malattie dell'apparato respiratorio.  
+Alla fine di ognuno dei tre anni di corso i perfezionandi dovranno sostenere un esame sulle materie svolte durante l'anno.  
+Art. 143. - Il numero massimo di iscritti per anno e' di cinque.  
+L'internato si svolgera' presso l'istituto di clinica medica e di patologia speciale medica.  
+L'ospedale sanatoriale S. Luigi mette a disposizione degli specializzandi il suo ricco materiale riguardante la malattia tubercolare.  
+E' obbligatoria la firma di frequenza per ogni anno di corso.  
+Alla fine dei corsi il candidato deve sostenere un esame di diploma.  
+L'ammissione alla scuola avviene attraverso un esame scritto.  
+L'art. 238 e' modificato nel senso che la "Scuola di specializzazione in oncologia" assume la denominazione di "Scuola di specializzazione in oncologia clinica".  
+L'art. 239 relativo alla suddetta scuola di specializzazione e' abrogato e sostituito dal seguente:  
+Art. 239. - La durata del corso e' di tre anni e vi possono accedere non piu' di venti iscritti per anno. Nella iscrizione alla scuola di specializzazione sara' data la preferenza a candidati gia' in possesso della libera docenza e di specializzazione in altre materie biologiche o cliniche.  
+La frequenza a tale corso ed alle esercitazioni e' obbligatoria.  
+Gli insegnamenti previsti sono cosi' ripartiti:  
+1° Anno:  
+Patologia generale dei tumori;  
+Biochimica dei tumori;  
+Patologia oncologica speciale;  
+Diagnosi istologica e citocariologica dei tumori;  
+Registrazione epidemiologica dei tumori.  
+2° Anno:  
+Prevenzione dei tumori;  
+Diagnosi precoce dei tumori;  
+Riscontri anatomo clinici;  
+Clinica medica generale dei tumori;  
+Clinica chirurgica generale dei tumori;  
+Diagnosi e terapia radiologica dei tumori;  
+Gli isotopi radioattivi nella diagnosi e nella terapia.  
+3° Anno:  
+Diagnosi e terapia dei tumori O.R.L.;  
+Diagnosi e terapia dei tumori del cavo orale;  
+Diagnosi e terapia dei tumori genitali femminili;  
+Diagnosi e terapia dei tumori cutanei;  
+Chirurgia oncologica;  
+Terapia antalgica dei tumori.  
+Insegnamenti facoltativi:  
+Semeiotica dei tumori;  
+Chemioterapia antiblastica;  
+Tecniche chirurgiche complementari;  
+Chirurgia riparatrice.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato sara' inserito nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 18 settembre 1971
 
-PERTINI BODRATO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 24 febbraio 1982
+Registrato alla Corte dei conti, addi' 15 novembre 1971
 
-Registro n. 30 Istruzione, foglio n. 390
+Atti del Governo, registro n. 245, foglio n. 29. - CARUSO

@@ -1,123 +1,186 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1976 n. 692
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 954
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1976 n. 692
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 954
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Sassari.
 -------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084) e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Sassari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 77 - all'elenco delle scuole di specializzazione annesse alle facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in malattie dell'apparato cardiovascolare.
+
+Dopo l'art. 137, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in malattie dell'apparato cardiovascolare di cui all'art. 77.
+
+Scuola di specializzazione in malattie dell'apparato cardiovascolare
+
+Art. 138. - Il corso della scuola di specializzazione ha la durata di tre anni.
+
+La scuola ha sede presso l'istituto di clinica medica generale.
+
+Art. 139. - Alla scuola sono ammessi sei candidati per ciascun anno accademico.
+
+L'ammissione alla scuola di specializzazione avviene in base ai titoli di studio e di carriera previo accertamento mediante colloquio o prova scritta di idonea preparazione culturale da parte del candidato.
+
+La frequenza alla scuola di specializzazione e' obbligatoria per almeno nove mesi all'anno.
+
+Essa consiste nella partecipazione alle lezioni e alle esercitazioni teorico-pratiche nel servizio, nei reparti, in particolare nell'unita' di cura intensiva coronaria e nell'ambulatorio del centro cardiologico.
+
+Art. 140. - Alla fine di ogni anno di corso gli allievi dovranno sostenere tutti gli esami speciali per poter essere ammessi all'anno successivo. Alla fine del terzo anno del corso degli studi, dopo aver superato tutti gli esami speciali, gli allievi dovranno sostenere l'esame di diploma consistente nella discussione di una dissertazione scritta su un argomento di patologia o fisiopatologia o clinica cardiologica, la cui scelta sia stata concordata fra diplomando e direttore della scuola durante il secondo anno.
+
+La dissertazione, previamente approvata dal direttore, dovra' essere depositata presso la segreteria della Universita' almeno quindici giorni prima dell'esame.
+
+I candidati non riconosciuti idonei all'esame di diploma potranno ripresentarsi dopo un altro anno di frequenza alla scuola. Ma se al secondo esame non e' loro riconosciuta l'idoneita', saranno esclusi da ulteriori prove.
+
+Art. 141. - Gli insegnamenti della scuola in malattie cardiovascolari sono i seguenti:
+
+1° Anno:
+
+anatomia normale dell'apparato cardiovascolare;
+
+fisiologia dell'apparato cardiovascolare e respiratorio;
+
+fisiopatologia cardiovascolare e respiratoria (biennale 1°);
+
+patologia cardiovascolare (biennale 1°);
+
+semeiologia fisica (biennale 1°);
+
+semeiologia strumentale (biennale 1°).
+
+2° Anno:
+
+fisiopatologia cardiovascolare e respiratoria (biennale 2°);
+
+patologia cardiovascolare (biennale 2°);
+
+semeiologia fisica (biennale 2°);
+
+semeiologia strumentale (biennale 2°);
+
+anatomia patologica dell'apparato cardiovascolare (biennale 1°);
+
+radiologia;
+
+farmacologia;
+
+clinica e terapia (biennale 1°).
+
+3° Anno:
+
+anatomia patologica dell'apparato cardiovascolare (biennale 2°);
+
+clinica e terapia (biennale 2°);
+
+chirurgia dell'apparato cardiovascolare;
+
+problemi assicurativi e sociali (facoltativo).
+
+Art. 142. - Le tasse e soprattasse per gli iscritti alla scuola di specializzazione in malattie dell'apparato cardiovascolare, sono fissate come segue:
+
+tassa di immatricolazione. . . . . . . . . . . . . . . . . . L. 6.000 tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 60.000 soprattassa annuale esami di profitto. . . . . . . . . . . . L. 7.000 soprattassa esame di diploma . . . . . . . . . . . . . . . . L. 3.000 tassa annuale per i fuori corso . . . . . . . . . . . . . . L. 50.000
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1975
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 30 marzo 1976 Atti di Governo, registro n. 4, foglio n. 45
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, numero 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084) e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084) e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Sassari e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Sassari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 77 - all'elenco delle scuole di specializzazione annesse alle facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in malattie dell'apparato cardiovascolare.  
+Dopo l'art. 137, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in malattie dell'apparato cardiovascolare di cui all'art. 77.  
+Scuola di specializzazione in malattie dell'apparato cardiovascolare  
+Art. 138. - Il corso della scuola di specializzazione ha la durata di tre anni.  
+La scuola ha sede presso l'istituto di clinica medica generale.  
+Art. 139. - Alla scuola sono ammessi sei candidati per ciascun anno accademico.  
+L'ammissione alla scuola di specializzazione avviene in base ai titoli di studio e di carriera previo accertamento mediante colloquio o prova scritta di idonea preparazione culturale da parte del candidato.  
+La frequenza alla scuola di specializzazione e' obbligatoria per almeno nove mesi all'anno.  
+Essa consiste nella partecipazione alle lezioni e alle esercitazioni teorico-pratiche nel servizio, nei reparti, in particolare nell'unita' di cura intensiva coronaria e nell'ambulatorio del centro cardiologico.  
+Art. 140. - Alla fine di ogni anno di corso gli allievi dovranno sostenere tutti gli esami speciali per poter essere ammessi all'anno successivo. Alla fine del terzo anno del corso degli studi, dopo aver superato tutti gli esami speciali, gli allievi dovranno sostenere l'esame di diploma consistente nella discussione di una dissertazione scritta su un argomento di patologia o fisiopatologia o clinica cardiologica, la cui scelta sia stata concordata fra diplomando e direttore della scuola durante il secondo anno.  
+La dissertazione, previamente approvata dal direttore, dovra' essere depositata presso la segreteria della Universita' almeno quindici giorni prima dell'esame.  
+I candidati non riconosciuti idonei all'esame di diploma potranno ripresentarsi dopo un altro anno di frequenza alla scuola. Ma se al secondo esame non e' loro riconosciuta l'idoneita', saranno esclusi da ulteriori prove.  
+Art. 141. - Gli insegnamenti della scuola in malattie cardiovascolari sono i seguenti:  
+1° Anno:  
+anatomia normale dell'apparato cardiovascolare;  
+fisiologia dell'apparato cardiovascolare e respiratorio;  
+fisiopatologia cardiovascolare e respiratoria (biennale 1°);  
+patologia cardiovascolare (biennale 1°);  
+semeiologia fisica (biennale 1°);  
+semeiologia strumentale (biennale 1°).  
+2° Anno:  
+fisiopatologia cardiovascolare e respiratoria (biennale 2°);  
+patologia cardiovascolare (biennale 2°);  
+semeiologia fisica (biennale 2°);  
+semeiologia strumentale (biennale 2°);  
+anatomia patologica dell'apparato cardiovascolare (biennale 1°);  
+radiologia;  
+farmacologia;  
+clinica e terapia (biennale 1°).  
+3° Anno:  
+anatomia patologica dell'apparato cardiovascolare (biennale 2°);  
+clinica e terapia (biennale 2°);  
+chirurgia dell'apparato cardiovascolare;  
+problemi assicurativi e sociali (facoltativo).  
+Art. 142. - Le tasse e soprattasse per gli iscritti alla scuola di specializzazione in malattie dell'apparato cardiovascolare, sono fissate come segue:  
   
-Art. 39 - all'elenco degli istituti annessi alla facolta' di medicina e chirurgia e' aggiunto l'istituto policattedra di medicina del lavoro e medicina sociale e preventiva.  
-  
-Art. 40 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
-ematologia;  
-immunologia clinica;  
-nefrologia medica;  
-oncologia clinica;  
-fisiopatologia respiratoria;  
-fisiopatologia cardiocircolatoria;  
-patologia neonatale;  
-chirurgia del cuore e dei grossi vasi;  
-chirurgia pediatrica;  
-urologia pediatrica.  
-  
-Art. 56 - all'elenco degli istituti annessi alla facolta' di agraria l'istituto di coltivazioni arboree e' trasformato in istituto policattedra di coltivazioni arboree.  
-  
-Art. 59 - all'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:  
-sistemi idraulico forestali;  
-foraggicoltura.  
-  
-Art. 65 - all'elenco degli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali sono aggiunti i seguenti istituti policattedra:  
-istituto policattedra di scienze geologico-mineralogiche;  
-istituto policattedra di scienze antropologiche;  
-istituto policattedra di chimica analitica e spettroscopia;  
-istituto policattedra di chimica fisica;  
-istituto policattedra di chimica applicata.  
-  
-Art. 67 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto quello di biochimica applicata.  
-  
-L'art. 72, relativo al corso di laurea in scienze biologiche, e' modificato nel senso che le parole: "un professore ufficiale della facolta'" sono sostituite dalle seguenti: "un docente della facolta' o altro docente universitario, previa autorizzazione, in quest'ultimo caso, del consiglio di facolta'".  
-Nello stesso articolo le parole: "assieme ai titoli di due argomenti scelti quali tesi di dissertazione orale su materie diverse tra loro e" sono sostituite dalle seguenti: "lo studente potra' inoltre presentare, facoltativamente, il titolo di una dissertazione orale (tesina) su materia diversa".  
-  
-L'art. 73 e' soppresso e sostituito dal seguente:  
-"Per l'iscrizione con abbreviazione di corso di coloro che siano provveduti di altra laurea, la facolta', tenuto conto degli studi compiuti e degli esami superati, determina caso per caso il numero minimo degli insegnamenti che debbono essere seguiti e formare oggetto di esame, e consiglia l'ordine degli studi. La facolta' non e' tenuta a convalidare le materie superate per la laurea precedente; quindi essa al riguardo si regolera' caso per caso, in base alla votazione riportata nei singoli esami ed al curriculum degli studi presentato dal richiedente".  
-  
-Art. 74 - all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:  
-antropologia delle popolazioni del Mediterraneo;  
-climatologia e meteorologia;  
-idrogeologia.  
-Nello stesso articolo, dopo l'elenco degli insegnamenti complementari sono aggiunti i seguenti due commi:  
-a) "Gli insegnamenti biennali di botanica, zoologia e fisiologia generale comportano un esame alla fine di ciascun anno".  
-b) "Gli insegnamenti di questo corso di laurea comportano anche corsi di esercitazioni pratiche che fanno parte integrante degli insegnamenti stessi. Alcune delle esercitazioni di botanica, zoologia, mineralogia, geologia e geografia possono essere svolte come escursioni di campagna".  
-Alla fine dello stesso articolo sono aggiunti i seguenti due commi:  
-a) "Per il conseguimento della laurea in scienze naturali, lo studente deve presentare una dissertazione scritta sopra un argomento concordato con un docente della facolta' o altro docente universitario, previa autorizzazione, in questo ultimo caso, del consiglio di facolta'; la dissertazione deve essere presentata, in triplice esemplare, alla segreteria della facolta' almeno quindici giorni prima della data di inizio degli esami di laurea; lo studente potra' inoltre presentare, facoltativamente, il titolo di una dissertazione orale (tesina) su materia diversa da quella della dissertazione scritta, compresa nell'elenco degli insegnamenti complementari e fondamentali".  
-b) "Per l'iscrizione con abbreviazione di corso di coloro che siano provvisti di altra laurea, la facolta', tenuto conto degli studi compiuti e degli esami superati, determina caso per caso il numero minimo degli insegnamenti che debbono essere seguiti e formare oggetto di esame, e consiglia l'ordine degli studi. La facolta' non e' tenuta a convalidare le materie superate per la laurea precedente, quindi essa al riguardo si regolera' caso per caso, in base alla votazione riportata nei singoli esami ed al curriculum degli studi presentato dal richiedente".  
-  
-Art. 75 - all'elenco degli insegnamenti complementari del corso di laurea in chimica sono aggiunti i seguenti:  
-a) complementi di matematica (corso speciale per chimici);  
-b) complementi di chimica (meccanismi di reazione;  
-c) chimica teorica;  
-d) spettroscopia (corso speciale per chimici);  
-e) radiochimica;  
-f) fotochimica;  
-g) stereochimica inorganica;  
-h) stereochimica organica;  
-i) chimica dei composti di coordinazione;  
-l) chimica degli eterocicli;  
-m) chimica fisica applicata;  
-n) chimica fisica organica;  
-o) chimica fisica dello stato solido;  
-p) cinetica chimica;  
-q) elettrochimica organica (con esercitazioni);  
-r) cromatografia analitica e preparativa.  
-Nello stesso articolo, i commi successivi all'elenco degli insegnamenti complementari sono soppressi.  
-  
-Dopo l'art. 75, con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli:  
-Art. 76 - Norme per il biennio di studi propedeutici.  
-- L'iscrizione al corso di esercitazioni di analisi chimica qualitativa implica il superamento dell'esame di chimica generale ed inorganica I entro la prima sessione di esami disponibile.  
-Le frequenze agli insegnamenti di: chimica organica II, mineralogia, chimica analitica ed esercitazioni di disegno ed elementi di macchine sono facoltative al biennio od al terzo anno di corso.  
-Art. 77 - Norme per il triennio di applicazione. - Per ottenere l'iscrizione al triennio di applicazione lo studente dovra' aver seguito i corsi e superato gli esami di tutti gli insegnamenti fissati per il biennio di studi propedeutici.  
-All'atto dell'iscrizione al triennio lo studente deve indicare l'indirizzo prescelto allegando l'elenco degli esami complementari.  
-Tale elenco verra' sottoposto a convalida da parte della facolta'.  
-Non potra' essere ammesso al laboratorio di laurea lo studente che non abbia superato tutti gli esami previsti nel piano degli studi dal primo al quarto anno, eccettuati (per gli studenti dell'indirizzo organico-biologico) due esami complementari oppure l'esame di chimica fisica II.  
-In base alle norme precedenti lo studente puo' essere ammesso per lo sviluppo della tesi presso qualsiasi istituto o laboratorio della facolta'. In via eccezionale puo' essere ammesso presso un istituto di altra facolta' o istituto di ricerca qualificato, previo parere favorevole del collegio dei docenti del corso di laurea in chimica che affidera' la responsabilita' della tesi ad uno dei suoi docenti.  
-In ogni caso il laureando deve presentare alla facolta' la domanda per l'ammissione all'istituto o laboratorio che intende scegliere, indicando l'argomento della tesi.  
-Per la validita' della tesi sperimentale, lo studente dovra' frequentare l'istituto o laboratorio prescelto almeno per un anno accademico. Alla fine del laboratorio di laurea il relatore responsabile dovra' inviare al presidente della commissione di laurea una dichiarazione scritta dalla quale risulti che il candidato ha frequentato per il periodo dovuto il proprio laboratorio e dovra' esprimere motivato giudizio di idoneita' sul candidato stesso.  
-Art. 78 - Norme per l'esame di laurea. - Per essere ammesso all'esame di laurea lo studente dovra' aver seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali del triennio di applicazione e di sette almeno da lui scelti tra i complementari.  
-L'esame di laurea consiste nella discussione di una dissertazione scritta, riguardante ricerche originali su argomenti riferentisi alle discipline del corso di laurea ed eseguite presso uno degli istituti gia' frequentati dallo studente.  
-L'esame di laurea potra' comprendere anche la discussione di una tesina scritta riguardante argomenti di interesse chimico.  
-  
-L'art. 137, relativo alla scuola di specializzazione in chirurgia, e' modificato nel senso che i posti sono aumentati da 20 a 30 nei cinque anni di corso.  
-  
+tassa di immatricolazione. . . . . . . . . . . . . . . . . . L. 6.000 tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 60.000 soprattassa annuale esami di profitto. . . . . . . . . . . . L. 7.000 soprattassa esame di diploma . . . . . . . . . . . . . . . . L. 3.000 tassa annuale per i fuori corso . . . . . . . . . . . . . . L. 50.000   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 gennaio 1976
+### Dato a Roma, addi' 31 ottobre 1975
 
 LEONE MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 2 ottobre 1976
+Registrato alla Corte dei conti, addi' 30 marzo 1976
 
-Atti di Governo, registro n. 9, foglio n. 49
+Atti di Governo, registro n. 4, foglio n. 45

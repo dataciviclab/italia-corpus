@@ -1,44 +1,140 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1960 n. 507
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 956
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1960 n. 507
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 956
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 28. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche sono aggiunti quelli di:
+
+Diritto pubblico dell'economia;
+
+Diritto regionale;
+
+Diritto parlamentare;
+
+Diritto aerospaziale;
+
+Scienza dell'amministrazione;
+
+Diritto finanziario;
+
+Diritto tributario;
+
+Economia e politica dei trasporti;
+
+Economia e politica agraria;
+
+Economia e politica industriale;
+
+Economia e politica bancaria;
+
+Programmazione economica;
+
+Econometrica;
+
+Scienza della politica;
+
+Filosofia della politica.
+
+Art. 65, relativo agli istituti annessi alla facolta' di magistero e' modificato nel senso che l'istituto di lingue e letterature iberiche muta la denominazione in quella di "Lingue e letterature ispaniche".
+
+Nello stesso articolo l'insegnamento di "Lingua e letteratura portoghese" viene dissociato dall'istituto di lingue e letterature iberiche e viene associato a quello di filologia romanza.
+
+Art. 117, relativo agli insegnamenti del corso di laurea in chimica e tecnologia farmaceutiche e' modificato nel senso che agli insegnamenti di "Chimica organica I (\*\*)" e di chimica organica II (\*\*) sono tolti gli asterischi.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 22 settembre 1972
+
+LEONE
+
+SCALFARO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 25 gennaio 1973 Atti di Governo, registro n. 255, foglio n. 68. - VALENTINI
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte:  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Decreta:   
   
-Decreta:  
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 78. - L'Istituto di idrologia medica, annesso alla Facolta' di medicina e chirurgia, cambia denominazione in "Istituto di terapia medica sistematica ed idrologia medica".  
-Art. 79. - L'insegnamento complementare di "Terapia medica sistematica" e' soppresso. La denominazione dell'insegnamento complementare di "Idrologia medica" e' modificata in quella di "Terapia medica sistematica ed idrologia medica".  
+Art. 28. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche sono aggiunti quelli di:   
+Diritto pubblico dell'economia;   
+Diritto regionale;   
+Diritto parlamentare;   
+Diritto aerospaziale;   
+Scienza dell'amministrazione;   
+Diritto finanziario;   
+Diritto tributario;   
+Economia e politica dei trasporti;   
+Economia e politica agraria;   
+Economia e politica industriale;   
+Economia e politica bancaria;   
+Programmazione economica;   
+Econometrica;   
+Scienza della politica;   
+Filosofia della politica.   
+  
+Art. 65, relativo agli istituti annessi alla facolta' di magistero e' modificato nel senso che l'istituto di lingue e letterature iberiche muta la denominazione in quella di "Lingue e letterature ispaniche".   
+Nello stesso articolo l'insegnamento di "Lingua e letteratura portoghese" viene dissociato dall'istituto di lingue e letterature iberiche e viene associato a quello di filologia romanza.   
+Art. 117, relativo agli insegnamenti del corso di laurea in chimica e tecnologia farmaceutiche e' modificato nel senso che agli insegnamenti di "Chimica organica I (\*\*)" e di chimica organica II (\*\*) sono tolti gli asterischi.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 maggio 1960
+### Dato a Roma, addi' 22 settembre 1972
 
-GRONCHI MEDICI
+LEONE SCALFARO
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 6 giugno 1960
+Registrato alla Corte dei conti, addi' 25 gennaio 1973
 
-Atti del Governo, registro n. 127, foglio n. 26. - VILLA
+Atti di Governo, registro n. 255, foglio n. 68. - VALENTINI

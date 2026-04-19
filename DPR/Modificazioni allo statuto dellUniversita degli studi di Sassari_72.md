@@ -1,171 +1,137 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1957 n. 996
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1980 n. 877
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1957 n. 996
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1980 n. 877
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Sassari.
 -------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+Veduto lo statuto dell'Universita' di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084) e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Sassari e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084), modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217) e successivi;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Il primo comma dell'art. 40, relativo al corso di laurea in medicina e chirurgia, e' sostituito dai seguenti:  
+La facolta' di medicina e chirurgia conferisce la laurea in:  
+a) medicina e chirurgia;  
+b) odontoiatria e protesi dentaria.  
+La durata del corso degli studi e' di sei anni per la laurea in medicina e chirurgia e di cinque anni per la laurea in odontoiatria e protesi dentaria.  
+Dopo l'art. 43, e con lo spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in odontoiatria e protesi dentaria.  
   
-Decreta:   
+Laurea in odontoiatria e protesi dentaria  
   
-Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 25. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di "Semeiotica chirurgica".   
-Art. 47. - Agli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti quello di "Idrobiologia e pescicoltura" e quello di "Paleontologia".   
-Allo statuto e' aggiunto il titolo VIII comprendente Scuole e Corsi di specializzazione e di perfezionamento annessi alla Facolta' di medicina e chirurgia.   
+Art. 44. - Presso la facolta' di medicina e chirurgia dell'Universita' degli studi di Sassari e' istituito il corso di laurea in odontoiatria e protesi dentaria. Il corso di studi per il conseguimento della laurea e' stabilito in cinque anni, suddivisi in un biennio ed un triennio.  
+Il titolo di studio per l'ammissione al predetto corso di laurea e' quello consentito dalle vigenti disposizioni di legge.  
+Art. 45. - Il corso di laurea in odontoiatria e protesi dentaria comincera' a funzionare a decorrere dall'anno accademico 1980-81 con il primo ed il secondo anno di corso. Negli anni accademici successivi funzioneranno progressivamente gli anni di corso susseguenti al secondo.  
+Art. 46. - L'accesso al corso di laurea verra' regolato da un esame di ammissione; il punteggio da attribuire nell'esame sara' cosi' ripartito: il 30% sara' riservato al voto riportato dal candidato nell'esame di Stato di licenza della scuola secondaria superiore ed il 70% sara' riservato alla prova di esame di ammissione al corso di laurea con test a scelta multipla su argomenti di biologia generale, chimica, fisica e matematica, secondo i programmi della scuola secondaria superiore.  
+A partire dall'anno accademico 1980-81 saranno formulate due graduatorie distinte, l'una per gli studenti da iscriversi al primo anno, l'altra per quelli che in possesso dei requisiti di cui all'art. 47 potranno iscriversi al secondo anno per un numero che in totale non superera' comunque le dieci unita' per ciascun anno.  
+Art. 47. - Per il trasferimento degli studenti iscritti al corso di laurea in medicina e chirurgia le abbreviazioni di corso non possono superare l'ammissione oltre il secondo anno subordinatamente al numero di posti resisi eventualmente disponibili all'inizio del secondo anno, sempre che gli aspiranti abbiano superato gli esami di biologia generale applicata agli studi medici, chimica e propedeutica biochimica, fisica medica, istologia ed embriologia generale (compresa la citologia).  
+Per i laureati in medicina e chirurgia le abbreviazioni di corso potranno essere concesse, sempre con iscrizione al secondo anno, subordinatamente al numero dei posti resisi eventualmente disponibili all'inizio del secondo anno e dopo che sia trascorso un anno accademico dal conseguimento della laurea precedente.  
+Art. 48. - Sulla base della consistenza delle strutture (didattiche e cliniche) attualmente disponibili presso la facolta' di medicina e chirurgia, si determina che il numero massimo di studenti che possono iscriversi al corso di laurea in odontoiatria e protesi dentaria e' dieci per ciascun anno di corso, per un totale di cinquanta allievi nei cinque anni.  
+Art. 49. - L'ordinamento del corso di laurea e' stabilito come segue:  
   
-TITOLO VIII   
-Scuole e Corsi di specializzazione e di perfezionamento   
+INSEGNAMENTI FONDAMENTALI  
   
-Art. 55. - Alla Facolta' di medicina e chirurgia sono annesse le scuole di specializzazione e corsi di perfezionamento qui di seguito indicati:   
-1) Scuola di specializzazione in ostetricia e ginecologia;   
-2) Scuola di specializzazione in pediatria;   
-3) Scuola di specializzazione in malattie dell'apparato digerente e del ricambio;   
-4) Corso di perfezionamento in puericoltura.   
-Le scuole hanno lo scopo di preparare gli allievi per il conferimento del diploma di specialista ai sensi dell'[art. 178 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art178), ed i corsi di un attestato di frequenza e di profitto.   
-Art. 56. - Il direttore di ciascuna scuola e' il professore titolare della cattedra alla quale s'intitola la scuola. Nel caso che il titolare di detta cattedra non sia professore di ruolo, il Consiglio della Facolta' provvedera' alla nomina del direttore, possibilmente scelto tra gli insegnanti della scuola stessa.   
-Il Consiglio di ciascuna scuola si compone dei professori che vi tengono gli insegnamenti prescritti ed e' presieduto dal direttore.   
-Art. 57. - La domanda di ammissione alla scuola e' diretta al rettore dell'Universita', corredata del diploma originale di maturita' classica o scientifica, del diploma originale di laurea in medicina e chirurgia con le relative votazioni della carriera scolastica e di ogni altro titolo che l'aspirante ritenga presentare.   
-Non e' permesso iscriversi contemporaneamente a piu' di una scuola.   
-Art. 58. - Le domande sono rimesse al direttore della scuola, il   
-quale, dopo aver valutato i titoli degli aspiranti, sottopone   
-ognuno di essi ad un colloquio per accertarne le attitudini e la preparazione a seguire i corsi.   
-In base a questi elementi il direttore procede alla graduatoria degli aspiranti, che dev'essere approvata e resa esecutiva dal preside della Facolta'.   
-Art. 59. - Il numero massimo degli allievi che possono essere accolti annualmente da ciascuna scuola e' fissato, anno per anno, dal Consiglio della Facolta' su proposta della Direzione della scuola, in rapporto alle possibilita' didattiche dei vari Istituti presso i quali gli allievi devono compiere gli internati.   
-Per ciascuna scuola puo' essere stabilito un numero minimo di iscritti; qualora questo numero non venga raggiunto il direttore della scuola ha la facolta' di non iniziare i corsi; ma se questi vengono iniziati devono essere portati a termine, qualunque sia il numero degli iscritti.   
-Art. 60. - Le discipline specifiche dell'insegnamento e le esercitazioni di laboratorio sono stabilite dalle norme particolari di ciascuna scuola, la cui Direzione, anno per anno, stabilisce i turni degli internati prescritti. Per le materie proprie della scuola devono essere tenuti corsi appositi; per le discipline che non formano direttamente oggetto della specializzazione, i corsi di insegnamento e le esercitazioni possono essere sostituiti da periodi di internati nei rispettivi Istituti.   
-Art. 61. - Gli insegnamenti vengono conferiti per incarico dalla Facolta', su proposta dei singoli direttori di scuola, ai professori di ruolo e fuori ruolo, incaricati, liberi docenti, aiuti ed assistenti e ad altre persone di riconosciuta competenza nella specialita'.   
-Art. 62. - Gli allievi sono tenuti ad osservare l'orario delle lezioni e delle esercitazioni ed a compiere i turni di internato stabiliti dall'ordinamento di ciascuna scuola. Il servizio di internato comporta lo adempimento di tutte le funzioni di assistente sotto la vigilanza del direttore.   
-Art. 63. - Gli allievi alla fine di ogni anno di corso dovranno sostenere di fronte ad una Commissione proposta dal direttore della scuola e nominata dal preside, gli esami stabiliti per ogni corso.  
-Detta Commissione e' composta dal direttore della scuola e da almeno altri due insegnanti di materie dei corso.   
-Art. 64. - Il Consiglio della scuola puo', su proposta del direttore e con l'approvazione della Facolta', concedere un'abbreviazione del corso di studi di specializzazione non superiore di un anno agli assistenti di ruolo, incaricati, supplenti, straordinari e volontari di Istituti della materia per cui viene chiesta l'iscrizione al corso di specializzazione, previo pero' superamento degli esami di profitto prescritti per l'anno in corso in questione.   
-Art. 65. - Il rettore, puo', su proposta del direttore della scuola e col parere favorevole del Consiglio della Facolta', assegnare assistenti volontari alle scuole di specializzazione e perfezionamento.   
-Art. 66. - Per essere ammessi all'esame di diploma gli iscritti devono aver superato tutti gli esami speciali di profitto stabiliti per ciascuna scuola.   
-Art. 67. - La Commissione per l'esame di diploma e' nominata dal rettore ed e' composta di almeno cinque membri proposti dal direttore della scuola e scelti possibilmente fra gli insegnanti della scuola stessa. Almeno due membri dovranno essere professori di ruolo.   
-Il presidente della Commissione e' il direttore della scuola.   
-Art. 68. - L'esame di diploma consiste in una discussione orale su tema assegnato dal direttore 24 ore prima dell'esame e nella discussione di una tesi scritta.   
-A coloro che superano l'esame di diploma viene rilasciato il "diploma di specialista", da valere, a tutti gli effetti, consentiti dalla vigente legislazione in proposito.   
-Art. 69. - Le tasse, soprattasse ed i contributi che gli iscritti sono tenuti a pagare vengono fissati dal Consiglio di amministrazione dell'Universita', su proposta del Consiglio di facolta', udito il direttore della scuola.   
-La tassa di diploma e' fissata in L. 6000. Gli assistenti di ruolo, incaricati, supplenti, straordinari e volontari dell'Istituto della materia per cui viene chiesta l'iscrizione al corso di specializzazione possono, su giudizio del direttore, essere esonerati dal pagamento di meta' delle tasse e soprattasse e dal pagamento dei contributi clinici.   
+Biennio:  
+1) anestesia generale e speciale odontostomatologica (semestrale);  
+\* 2) biologia generale applicata agli studi medici;  
+\* 3) chimica;  
+\* 4) chimica biologica;  
+5) farmacologia (semestrale);  
+\* 6) fisica medica;  
+7) fisiologia umana e dell'apparato stomatognatico;  
+8) igiene e odontoiatria preventiva e sociale con epidemiologia (semestrale);  
+9) istituzioni di anatomia umana normale e dell'apparato stomatognatico;  
+10) istituzioni di anatomia ed istologia patologica;  
+\* 11) istologia ed embriologia generale (compresa la citologia);  
+12) materiali dentari;  
+13) microbiologia (semestrale);  
+14) odontoiatria conservatrice (triennale - secondo, terzo e quarto anno);  
+15) patologia generale Triennio:  
+16) chirurgia speciale odontostomatologica (biennale - terzo e quarto anno);  
+17) clinica odontostomatologica (biennale - quarto e quinto anno);  
+18) medicina legale e delle assicurazioni e deontologia odontostomatologia (semestrale);  
+19) neuropatologia e psicopatologia (semestrale);  
+20) ortognatodonzia e gnatologia (funzione masticatoria) (biennale - quarto e quinto anno);  
+21) parodontologia (biennale - quarto e quinto anno);  
+22) patologia speciale chirurgica e propedeutica clinica;  
+23) patologia speciale medica e metodologia clinica (compresa la pediatria);  
+24) patologia speciale odontostomatologica;  
+25) pedodonzia (semestrale);  
+26) protesi dentaria (triennale - terzo, quarto e quinto anno);  
+27) radiologia generale e speciale odontostomatologica (semestrale).  
   
-1. - Scuola di specializzazione in ostetricia e ginecologia.   
+INSEGNAMENTI COMPLEMENTARI  
   
-Art. 70. - Presso la Clinica ostetrico-ginecologica e' istituita la scuola di specializzazione in ostetricia e ginecologia.   
-La scuola ha la durata di quattro anni.   
-Le norme di iscrizione, esami, pagamento, tasse ecc. sono quelle generali delle scuole di specializzazione e di perfezionamento riferite negli articoli da 57 a 69 precedenti.   
-Art. 71. - Le materie di insegnamento sono:   
-1° anno:   
-Anatomia dell'apparato genitale femminile;   
-Fisiologia della generazione con elementi di genetica;   
-Semeiotica ostetrica;   
-Semeiotica ginecologica.   
-2° anno:   
-Semeiotica ostetrica;   
-Semeiotica ginecologica;   
-Anatomia patologica dell'apparato genitale femminile;   
-Puericoltura;   
-Patologia ostetrica e ginecologica;   
-Elementi di chirurgia generale.   
-3° anno:   
-Clinica ostetrica e ginecologica;   
-Terapia medica ginecologica;   
-Radiologia ostetrico-ginecologica;   
-Anestesiologia ostetrico-ginecologica;   
-Urologia ginecologica;   
-Operazioni ostetriche.   
-4° anno:   
-Clinica ostetrica e ginecologica;   
-Ostetricia forense;   
-Venereologia;   
-Operazioni ginecologiche.   
-Nei primi due anni verranno inoltre svolte esercitazioni di laboratorio.   
-Gli allievi compiranno un internato nella Clinica ostetrica e ginecologica secondo i turni che saranno stabiliti dal direttore della scuola.   
-Art. 72. - Agli allievi che abbiano ottenuta l'approvazione nell'esame di diploma verra' rilasciato il diploma di specialista in ostetricia e ginecologia, valido a tutti gli effetti di legge.   
+\* 1) chirurgia maxillo-facciale;  
+\* 2) dermatologia e venerologia (semestrale);  
+\* 3) otorinolaringoiatria (semestrale);  
+\* 4) statistica sanitaria;  
+altri insegnamenti complementari nel piano della facolta' sempre mutuati dal corso di laurea in medicina e chirurgia.  
+Gli insegnamenti segnati con asterisco sono mutuati dal corso di laurea in medicina e chirurgia.  
+Gli insegnamenti fondamentali sono teorici e pratici e la loro frequenza e' obbligatoria.  
+Gli insegnamenti specificatamente odontostomatologici di ordine clinico comportano anche un tirocinio pratico continuativo da espletare prima di sostenere i relativi esami.  
+Gli allievi, che non conseguono le attestazioni di frequenza, non possono essere ammessi a sostenere le relative prove di esame.  
+Il tirocinio pratico relativo ad ogni insegnamento clinico deve prevedere da parte di componenti dell'organico, una assistenza didattica adeguata al numero degli studenti.  
   
-2. - Scuola di specializzazione in pediatria   
+Art. 50.
+
+|  |  |
+| --- | --- |
+| Non si puo' essere ammessi a sostenere l'esame di: | Se non si e' superato l'esame di: |
+| Fisiologia umana e dell'apparato stomatognatico | Istituzioni di anatomia umana normale e dell'apparato stomatognatico |
+| Patologia generale | Chimica |
+|  | Biologia generale applicata agli studi medici |
+|  | Fisica medica |
+| Patologia speciale medica e metodologia clinica (compresa la pediatria) | Fisiologia umana e dell'apparato stomatognatico |
+| Patologia speciale chirurgica e propedeutica clinica | Patologia generale |
+| Clinica odontostomatologica | Patologia speciale medica e metodologia clinica (compresa la pediatria) |
+|  | Patologia speciale chirurgica e propedeutica clinica |
+|  | Istituzioni di anatomia ed istologia patologica |
+|  | Patologia speciale odontostomatologica |
+
   
-Art. 73. - Presso la Clinica pediatrica e' istituita la scuola di specializzazione in pediatria. La scuola ha la durata di due anni, ed ha lo scopo di conferire adeguata competenza teorica e pratica ai laureati in medicina e chirurgia che desiderano dedicarsi all'esercizio della medicina infantile.   
-Le norme di iscrizione, esami, pagamento tasse, ecc. sono quelle generali riportate negli articoli dal 57 al 69 precedenti.   
-Art. 74. - Le materie di insegnamento sono:   
-1° anno:   
-Elementi di embriologia. Anatomia normale dalla nascita alla puberta';   
-Fisiologia del bambino;   
-Alimentazione e tecnica terapeutica pediatrica;   
-Fisiopatologia del neonato;   
-Semeiotica pediatrica;   
-Clinica e terapia delle malattie del lattante;   
-Igiene e profilassi individuale e collettiva nell'infanzia.   
-2° anno:   
-Anatomia patologica infantile;   
-Semeiotica pediatrica;   
-Clinica e terapia delle malattie del bambino;   
-Chirurgia nell'infanzia;   
-Otorinolaringoiatria applicata all'infanzia;   
-Malattie della pelle nell'infanzia;   
-Malattie oculari nell'infanzia;   
-Neuro-psichiatria nell'infanzia.   
-Durante i due anni saranno inoltre svolte esercitazioni pratiche e di laboratorio. Gli allievi compiranno un internato nella Clinica pediatrica secondo turni stabiliti dal direttore della scuola. Alla fine di ciascun anno gli allievi sosterranno un esame di profitto ed alla fine del secondo anche un esame di diploma.   
-Art. 75. - Agli allievi che abbiano superato l'esame di diploma sara' rilasciato il diploma di specialista in pediatria, valido a tutti gli effetti di legge.   
-Art. 76. - A coloro che sono in possesso del diploma di perfezionamento di puericoltura e' data facolta' di iscriversi al secondo anno della scuola.   
   
-3 - Scuola di specializzazione in malattie dell'apparato digerente e del ricambio.   
-  
-Art. 77. - Presso la Clinica medica generale e' istituita la scuola di specializzazione in malattie dell'apparato digerente e del ricambio; questa ha lo scopo di conferire adeguata competenza teorica e pratica ai laureati in medicina e chirurgia che desiderano conseguire il diploma di specializzazione in malattie dell'apparato digerente e del ricambio.   
-Art. 78. - La scuola ha la durata di due anni.   
-Le norme di iscrizione, esami, pagamento tasse, ecc. sono quelle generali delle scuole di specializzazione e perfezionamento riferite negli articoli da 57 a 69 del presente statuto.   
-Art. 79. - Le materie di insegnamento sono:   
-1° anno:   
-Anatomia normale e patologica del tubo digerente e ghiandole annesse;   
-Fisiologia e biochimica dei processi digestivi e del metabolismo intermedio;   
-Chimica e microscopia clinica, semeiotica medica e radiologia relative alla specialita';   
-Patologia generale e speciale delle malattie dell'apparato digerente e del ricambio.   
-2° anno:   
-Clinica delle malattie dell'apparato digerente e del ricambio;   
-Nozioni di chirurgia relative alle malattie del tubo digerente;   
-Terapia medica delle malattie dell'apparato digerente e del ricambio.   
-Art. 80. - Gli allievi devono compiere in entrambi gli anni le mansioni di assistente volontario, dovranno assistere alle lezioni ufficiali di clinica medica generale, alle conferenze ed alle esercitazioni che verranno appositamente impartite.   
-Art. 81. - Alla fine di ogni anno gli allievi dovranno sostenere un esame di profitto ed alla fine del secondo anche un esame di diploma, il superamento del quale conferisce il diploma di specialista in malattie dell'apparato digerente e del ricambio.   
-  
-4. - Corso di perfezionamento in puericoltura   
-  
-Art. 82. - Presso la Clinica pediatrica e' istituito un corso di perfezionamento in puericoltura. Il corso ha la durata di un anno e si propone di conferire la necessaria preparazione teorico-pratica ai laureati in medicina e chirurgia che desiderano dedicarsi alla medicina infantile preventiva.   
-Per l'iscrizione, esami, pagamento tasse, ecc. valgono le norme generali di cui agli articoli 57 a 69 precedenti.   
-Art. 83. - Le materie di insegnamento sono:   
-Elementi di embriologia. Anatomia normale dalla nascita alla puberta';   
-Fisiologia dell'accrescimento e dello sviluppo;   
-Alimentazione e tecnica assistenziale pediatrica;   
-Semeiotica pediatrica;   
-Assistenza pediatrica al neonato;   
-Assistenza igienica profilattica dell'infanzia;   
-Clinica pediatrica in funzione preventiva.   
-Durante l'anno saranno svolte esercitazioni pratiche di laboratorio. Gli allievi compiranno un internato nella Clinica pediatrica secondo i turni stabiliti dal direttore del corso. Alla fine dell'anno gli allievi sosterranno un esame finale di profitto.   
-Art. 84. - Agli allievi che abbiano superato l'esame finale verra' rilasciato un attestato di frequenza e profitto in puericoltura, valido a tutti gli effetti di legge.   
+Per essere ammesso a sostenere l'esame di laurea in odontoiatria e protesi dentaria, lo studente deve aver seguito i corsi ed aver superato gli esami in tutti gli insegnamenti fondamentali ed almeno in due insegnamenti scelti tra i complementari ed aver, inoltre, seguito le prescritte esercitazioni cliniche, i tirocini pratici ed averne conseguito le relative attestazioni.  
+L'esame di laurea consiste nella discussione di una tesi scritta su argomenti di odontostomatologia da richiedere almeno all'inizio dell'ultimo anno di corso.  
+Art. 51. - Per esercitare la professione i laureati in odontoiatria e protesi dentaria devono superare un apposito esame di Stato.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 settembre 1957
+### Dato a Roma, addi' 24 ottobre 1980
 
-GRONCHI MORO
+PERTINI BODRATO
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 28 ottobre 1957
+Registrato alla Corte dei conti, addi' 10 dicembre 1980
 
-Atti del Governo, registro n. 108, foglio n. 115. - RELLEVA
+Registro n. 115 Istruzione, foglio n. 364

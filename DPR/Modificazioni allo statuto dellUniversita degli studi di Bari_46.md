@@ -1,43 +1,188 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 agosto 1968 n. 1091
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1965 n. 1327
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 agosto 1968 n. 1091
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1965 n. 1327
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta, la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 7. - All'elenco degli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti i seguenti:
+
+Diritto tributario;
+
+Sociologia.
+
+Art. 8, relativo alle propedeuticita' di esami per il corso di laurea in Giurisprudenza e' modificato nel senso che l'esame di "Istituzioni di diritto privato" e' propedeutico anche nei confronti di quelli di "Diritto amministrativo" e di "Diritto fallimentare".
+
+Art. 24. - Nell'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere l'insegnamento di "Lingua serbo-croata" muta denominazione in quella di "Lingua e letteratura serbocroata".
+
+Art. 28. - All'elenco degli istituti annessi alla Facolta' di Economia e commercio e' aggiunto il seguente:
+
+"Seminario di studi matematici e finanziari".
+
+Art. 160. - L'ordinamento della scuola di specializzazione in oculistica della durata di tre anni e' abrogato e sostituito dal seguente della durata di anni quattro:
+
+La scuola ha la durata di quattro anni.
+
+Il numero complessivo degli iscritti ai quattro anni del corso e' di sedici.
+
+Gli insegnamenti impartiti nella scuola sono i seguenti:
+
+1° Anno:
+
+1) Anatomia ed istologia dell'apparato oculare;
+
+2) Nozioni di embriologia e genetica oculare;
+
+3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;
+
+4) Nozioni di ottica fisiologica, esame della refrazione;
+
+5) Microbiologia ed igiene oculare.
+
+2° Anno:
+
+1) Semeiotica oculare e mezzi d'indagine dell'apparato oculare (biomicroscopia, oftalmologia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, estimi elettrofunzionali, radiologia);
+
+2) Farmacologia oculare e terapia fisica;
+
+3) Anatomia patologica oculare;
+
+4) Patologia e clinica oculare (malattie delle palpebre della congiuntiva, delle vie lacrimali, della cornea e della sclera).
+
+3° Anno:
+
+1) Patologia e clinica oculare (malattie dell'uvea, della retina, del nervo ottico e delle vie ottiche, dell'occhio, della sua totalita' e dell'orbita, glaucoma);
+
+2) Anomalie e patologia della motilita' oculare e della visione binoculare. Ortottica e pleottica;
+
+3) Affezioni otorinolaringoiatriche e occhio;
+
+4) Tecnica operatoria, la parte.
+
+4° Anno:
+
+1) Neuroftalmologia;
+
+2) Malattie oculari in rapporto ad affezioni generali;
+
+3) Malattie professionali, infortunistica e medicina legale oculare;
+
+4) Tecnica operatoria, 2ª parte;
+
+5) Tesi di specializzazione.
+
+Gli esami di profitto si danno alla fine di ciascun anno di corso.
+
+Alla fine del corso gli iscritti oltre a presentare una dissertazione scritta ed a' sostenere la relativa discussione, devono sostenere una prova pratica sull'ammalato.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 29 ottobre 1965
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 4 dicembre 1965 Atti del Governo, registro n. 198, foglio n. 74. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta, la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 82. - L'insegnamento complementare di "Calcoli numerici e grafici con elementi di programmazione I e II (con asterisco) del corso di laurea in fisica e' soppresso ed al suo posto viene istituito quello di: "Calcolo numerico con elementi di programmazione I e II (con asterisco)".  
-Art. 88. - L'insegnamento complementare di "Biochimica molecolare" del corso di laurea in scienze biologiche e' soppresso ed al suo posto viene istituito quello di: "Biologia molecolare".  
+Art. 7. - All'elenco degli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti i seguenti:  
+  
+Diritto tributario;  
+Sociologia.  
+Art. 8, relativo alle propedeuticita' di esami per il corso di laurea in Giurisprudenza e' modificato nel senso che l'esame di "Istituzioni di diritto privato" e' propedeutico anche nei confronti di quelli di "Diritto amministrativo" e di "Diritto fallimentare".  
+Art. 24. - Nell'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere l'insegnamento di "Lingua serbo-croata" muta denominazione in quella di "Lingua e letteratura serbocroata".  
+Art. 28. - All'elenco degli istituti annessi alla Facolta' di Economia e commercio e' aggiunto il seguente:  
+"Seminario di studi matematici e finanziari".  
+Art. 160. - L'ordinamento della scuola di specializzazione in oculistica della durata di tre anni e' abrogato e sostituito dal seguente della durata di anni quattro:  
+  
+La scuola ha la durata di quattro anni.  
+Il numero complessivo degli iscritti ai quattro anni del corso e' di sedici.  
+Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1° Anno:  
+1) Anatomia ed istologia dell'apparato oculare;  
+2) Nozioni di embriologia e genetica oculare;  
+3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;  
+4) Nozioni di ottica fisiologica, esame della refrazione;  
+5) Microbiologia ed igiene oculare.  
+2° Anno:  
+1) Semeiotica oculare e mezzi d'indagine dell'apparato oculare (biomicroscopia, oftalmologia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, estimi elettrofunzionali, radiologia);  
+2) Farmacologia oculare e terapia fisica;  
+3) Anatomia patologica oculare;  
+4) Patologia e clinica oculare (malattie delle palpebre della congiuntiva, delle vie lacrimali, della cornea e della sclera).  
+3° Anno:  
+1) Patologia e clinica oculare (malattie dell'uvea, della retina, del nervo ottico e delle vie ottiche, dell'occhio, della sua totalita' e dell'orbita, glaucoma);  
+2) Anomalie e patologia della motilita' oculare e della visione binoculare. Ortottica e pleottica;  
+3) Affezioni otorinolaringoiatriche e occhio;  
+4) Tecnica operatoria, la parte.  
+4° Anno:  
+1) Neuroftalmologia;  
+2) Malattie oculari in rapporto ad affezioni generali;  
+3) Malattie professionali, infortunistica e medicina legale oculare;  
+4) Tecnica operatoria, 2ª parte;  
+5) Tesi di specializzazione.  
+Gli esami di profitto si danno alla fine di ciascun anno di corso.  
+Alla fine del corso gli iscritti oltre a presentare una dissertazione scritta ed a' sostenere la relativa discussione, devono sostenere una prova pratica sull'ammalato.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato ad Antagnod, addi' 7 agosto 1968
+### Dato a Roma, addi' 29 ottobre 1965
 
-SARAGAT SCAGLIA
+SARAGAT GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 22 ottobre 1968
+Registrato alla Corte dei conti, addi' 4 dicembre 1965
 
-Atti del Governo, registro n. 223, foglio n. 42. - GRECO
+Atti del Governo, registro n. 198, foglio n. 74. - VILLA

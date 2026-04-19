@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1976 n. 722
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 luglio 1978 n. 1135
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1976 n. 722
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 luglio 1978 n. 1135
+==============================================================
 
 Autorizzazione all'Universita' degli studi di Firenze ad accettare una eredita'.
 --------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-722. Decreto del Presidente della Repubblica 22 settembre 1976, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Firenze viene autorizzata ad accettare, in difformita' del parere del Consiglio di Stato, l'eredita' disposta dal sig. Aldo Giurlani, scrittore col nome di Aldo Palazzeschi, con testamento olografo 2 febbraio 1974, pubblicato in data 27 agosto 1974, n. 267658 di repertorio, registrato il 29 agosto 1974 al n. 9936, vol. 189, a rogito dott.  
-Romualdo Manoni, notaio in Roma, costituita da beni mobili ed immobili siti in Firenze, Venezia e Mestre per un valore complessivo di circa L. 493.000.000.   
+1135. Decreto del Presidente della Repubblica 13 luglio 1978, col quale, sulla proposta del Ministro della pubblica istruzione, l'Universita' degli studi di Firenze viene autorizzata ad accettare l'eredita' consistente in due immobili siti in Firenze, il primo in piazza Cavalleggeri n. 2, censito al nuovo catasto edilizio urbano alla partita 43655, foglio di mappa 175, part. 273, l'altro in via dei Serragli n. 76, censito al nuovo catasto edilizio urbano alla partita 87440, foglio di mappa 171, part. 128, in un immobile sito in Borgo S. Lorenzo (Firenze), localita' "Volpinaia", iscritto al nuovo catasto terreni del comune di Borgo S. Lorenzo alla partita 2396, foglio di mappa 18, particella 108, per un valore complessivo di L. 32.000.000, e in beni mobili per un valore di circa L. 28.370.000, disposta dalla sig.ra Adele Pietrabissa con il testamento, pubblico in data 19 agosto 1975, pubblicato col verbale n. 32411 del 18 ottobre 1975, a rogito dott. Vincenzo Ferro, notaio in Pistoia, per destinarne capitali e frutti eventuali agli studi specifici nel campo dei tumori.  
   
-Visto, il Guardasigilli: BONIFACIO   
-Registrato alla Corte dei conti, addi' 26 ottobre 1976   
-Atti di Governo, registro n. 10, foglio n. 179
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 21 dicembre 1979  
+Registro n. 99 Istruzione, foglio n. 339

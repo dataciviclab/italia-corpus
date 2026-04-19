@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1980 n. 604
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1985 n. 191
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1980 n. 604
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1985 n. 191
+===============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un legato.
 -------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-604. Decreto del Presidente della Repubblica 18 giugno 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 500.000, disposto dalla sig.na Maria Masenza con testamento pubblico 27 agosto 1971, n. 51 di repertorio, a rogito dott. Oliviero Melchiorre, notaio in Torino, pubblicato in data 10 maggio 1977, n. 21238 di repertorio, n. 8575 d'ordine, a rogito medesimo notaio.  
+191. Decreto del Presidente della Repubblica 12 febbraio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 30.000.000, disposto dal sig. Cassini Ugo con testamento olografo 8 ottobre 1981, pubblicato in data 20 aprile 1983, n. 792/578 di repertorio, a rogito dott. Panico Maria Rosa, notaio in Sanremo, registrato a Sanremo in data 9 maggio 1983 al n. 2264.  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 19 settembre 1980  
-Registro n. 7 Presidenza, foglio n. 327
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 2 maggio 1985  
+Registro n. 4 Presidenza, foglio n. 90

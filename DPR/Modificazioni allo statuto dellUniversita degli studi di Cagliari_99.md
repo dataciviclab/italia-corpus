@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1957 n. 931
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 993
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1957 n. 931
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 993
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -10,37 +10,43 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743) e successivi;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Cagliari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-Art. 23. - Subito dopo l'elenco degli insegnamenti fondamentali e complementari del corso di laurea in economia e commercio e' aggiunto il seguente comma:   
-"L'esame di matematica generale e' propedeutico nei confronti degli esami di matematica finanziaria (biennale).   
-Art. 62. - Agli insegnamenti complementari del corso di laurea in ingegneria mineraria e' aggiunto quello di "complementi di matematiche".   
-Art. 65. - Agli insegnamenti complementari del corso di laurea in ingegneria civile e' aggiunto quello di "complementi di matematiche".   
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+L'art. 7, concernente le disposizioni generali dell'esame di laurea, e' modificato nel senso che i commi terzo, quarto, quinto, sesto e settimo relativi alle modalita' d'esame del corso di laurea in farmacia sono abrogati e sostituiti dai seguenti commi:  
+"L'esame di laurea in farmacia consiste nella compilazione di una dissertazione scritta su tema liberamente scelto dal candidato in materia pertinente la facolta', ed approvato dal professore ufficiale della materia cui si riferisce, ed una prova orale nella quale il candidato deve sostenere una discussione sulla dissertazione stessa.  
+Ove il candidato nella dissertazione non svolga una ricerca sperimentale questi, nella prova orale, oltre alla discussione sulla dissertazione, deve svolgere almeno due fra tre temi scelti da lui stesso, in materie diverse fra loro e da quella della dissertazione ed accettati dalla commissione esaminatrice".  
+Art. 67 - nell'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti i seguenti insegnamenti:  
+tossicologia;  
+stechiometria;  
+istituzioni di matematiche.  
+Art. 69 - nell'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologia farmaceutiche sono aggiunti i seguenti insegnamenti:  
+tossicologia;  
+stechiometria;  
+tecnologie chimico farmaceutiche.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 settembre 1957
+### Dato a Roma, addi' 31 ottobre 1975
 
-GRONCHI MORO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 15 ottobre 1957
+Registrato alla Corte dei conti, addi' 12 maggio 1976
 
-Atti del Governo, registro n. 108, foglio n. 77. - RELLEVA
+Atti di Governo, registro n. 5, luglio n. 97

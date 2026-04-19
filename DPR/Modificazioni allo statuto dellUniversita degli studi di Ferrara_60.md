@@ -1,93 +1,369 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1242
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1976 n. 539
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1242
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1976 n. 539
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso: Dopo l'art. 156, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in radiologia.
+
+Scuola di specializzazione in radiologia
+
+Art. 157. - La scuola rilascia i seguenti diplomi di specializzazione: in radiologia e in radiologia diagnostica.
+
+Art. 158. - La scuola e' riservata ai laureati in medicina e chirurgia che possono essere accolti in numero massimo di sei per ciascun anno di corso per radiologia e radiologia diagnostica (totale ventiquattro).
+
+La durata dei corsi per il conseguimento del diploma di specialista in radiologia e' di 4 anni.
+
+Gli insegnamenti sono i seguenti:
+
+a) matematica, fisica, nozioni di statistica e informatica (annuale) comprendente:
+
+1) richiami di matematica e fisica generale;
+
+2) costituzione della materia;
+
+3) produzione, assorbimento e misura delle radiazioni;
+
+4) statistica applicata alla medicina;
+
+5) informatica e cibernetica applicate alla radiologia;
+
+b) radiodiagnostica (triennale) comprendente:
+
+1) principi generali di radiodiagnostica;
+
+2) apparecchi, strumenti e tecnica radiodiagnostica;
+
+3) tecnica e fisiologia applicate alla radio diagnostica;
+
+4) i mezzi di contrasto artificiali in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;
+
+5) semeiotica radiologica;
+
+6) diagnostica differenziale radiologica;
+
+7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;
+
+8) dimostrazioni di casistica clinica;
+
+c) radiobiologia (annuale) comprendente:
+
+1) radiobiologia generale;
+
+2) danni di radiazioni e radiopatie;
+
+d) protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
+
+1) legislazione sanitaria applicata alla radiologia;
+
+2) compiti e responsabilita' medico-legali del radiologo;
+
+3) radioprotezione fisica e dosimetria ad essa connessa:
+
+4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;
+
+5) radioprotezione chimica;
+
+6) problemi tecnici e funzionali inerenti la progettazione, organizzazione e attivazione dei reparti radiologici;
+
+e) radioterapia e terapia fisica (triennale) comprendente:
+
+1) radiobiologia applicata;
+
+2) fondamenti generali di radioterapia e terapia fisica;
+
+3) istopatologia speciale dei tumori;
+
+4) nozioni sugli apparecchi e strumenti per la radioterapia;
+
+5) tecnica e metodica radioterapica;
+
+6) dosimetria;
+
+7) clinica radioterapica;
+
+8) fondamenti generali di chemioterapia oncologica;
+
+9) chemioterapia clinica dei tumori e sua associazione alla radioterapia;
+
+10) dimostrazione di casistica clinica;
+
+f) medicina nucleare (biennale) comprendente:
+
+1) elementi di medicina nucleare;
+
+2) istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare;
+
+3) dosimetria dei radioisotopi somministrati per via interna;
+
+4) diagnostica con radioisotopi somministrati per via interna;
+
+5) radioterapia metabolica;
+
+6) dimostrazioni di casistica clinica.
+
+I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nei 4 anni di corso:
+
+1° Anno (tronco comune):
+
+matematica, fisica, nozioni di statistica ed informatica; radiologia; protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;
+
+radiodiagnostica (I).
+
+2° Anno:
+
+radiodiagnostica (II);
+
+radioterapia e terapia fisica (I).
+
+3° Anno:
+
+radiodiagnostica (III);
+
+radioterapia e terapia fisica (II);
+
+medicina nucleare (I).
+
+4° Anno:
+
+radioterapia e terapia fisica (III);
+
+medicina nucleare (II).
+
+La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.
+
+Gli insegnamenti sono i seguenti:
+
+a) matematica, fisica, nozioni di statistica ed informatica (annuale) comprendente:
+
+1) richiami di matematica e fisica generale;
+
+2) costituzione della materia;
+
+3) produzione, assorbimento e misura delle radiazioni;
+
+4) statistica applicata alla medicina;
+
+5) informatica e cibernetica applicate alla radiologia;
+
+b) radiodiagnostica (triennale) comprendente:
+
+1) principi generali di radiodiagnostica;
+
+2) apparecchi, strumenti e tecnica radiodiagnostica;
+
+3) tecnica e fisiologia applicate alla radiodiagnostica;
+
+4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;
+
+5) semeiotica radiologica;
+
+6) diagnostica differenziale radiologica;
+
+7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;
+
+8) dimostrazioni di casistica clinica;
+
+c) radiobiologia (annuale) comprendente:
+
+1) radiobiologia generale;
+
+2) danni da radiazioni e radiopatie;
+
+d) protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
+
+1) legislazione sanitaria applicata alla radiologia;
+
+2) compiti e responsabilita' medico-legali del radiologo;
+
+3) radioprotezione fisica e dosimetria ad essa concessa;
+
+4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;
+
+5) radioprotezione chimica;
+
+6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.
+
+I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:
+
+1° Anno (tronco comune):
+
+matematica, fisica, nozioni di statistica ed informatica; radiobiologia; protezioni radiologiche; legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia; radiodiagnostica (I).
+
+2° Anno:
+
+radiodiagnostica (II).
+
+3° Anno:
+
+radiodiagnostica (III).
+
+Per essere ammessi agli esami di diploma in radiologia e in radiologia diagnostica gli iscritti, oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia d'insegnamento ed elaborata una tesi scritta su un argomento radiologico concordato con il direttore della scuola.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 25 maggio 1976
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 27 luglio 1976 Atti di Governo, registro n. 8 foglio n. 24
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Ferrara, approvato con decreto del Presidente della Repubblica 18 aprile 1951 e modificato con decreto del Presidente della Repubblica 25 luglio 1952, e successive modificazioni;   
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;   
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
 Decreta:   
   
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-Dopo l'art. 205 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in scienza e tecnologia cosmetiche presso la facolta' di farmacia.   
-  
-SCUOLE DI PERFEZIONAMENTO E DI SPECIALIZZAZIONE   
-ANNESSE ALLA FACOLTA' DI FARMACIA   
-  
-Capo I   
-  
-Scuola di specializzazione in scienza e tecnologia cosmetiche   
-  
-Art. 206. - E' istituita presso la facolta' di farmacia una scuola di specializzazione in scienza e tecnologia cosmetiche con sede presso l'istituto di chimica farmaceutica dell'Universita'.   
-Il suo scopo e' di impartire lezioni di esercitazioni pratiche al fine di fornire agli allievi una preparazione completa teorica e sperimentale nella scienza e nella tecnologia dei cosmetici.   
-Art. 207. - Il direttore della scuola e' nominato dalla facolta' di farmacia tra i docenti della facolta' stessa. Egli presiede il consiglio della scuola che e' composto da tutti gli insegnanti dei vari corsi.   
-I docenti sono proposti dal direttore e sono nominati dalla facolta'.   
-Art. 208. - La scuola rilascia un diploma di specializzazione in scienza e tecnologia cosmetiche.   
-La durata del corso di studi per il conseguimento del diploma e' di due anni.   
-Alla scuola possono essere iscritti 15 (quindici) allievi per anno.  
-Qualora il numero delle domande di iscrizione ecceda quello fissato, il consiglio della scuola procedera' ad una scelta insindacabile in base ai titoli presentati.   
-Possono iscriversi i laureati in farmacia, chimica e tecnologia farmaceutiche, chimica, chimica industriale e scienze biologiche.   
-Su proposta della facolta' di farmacia, udito il consiglio della scuola, il senato accademico puo' eventualmente ammettere alla scuola candidati che presentino diplomi di laurea diversi da quelli stabiliti.   
-Gli aspiranti debbono nei termini regolamentari presentare apposita domanda su carta legale diretta al rettore e corredata dai prescritti documenti e della quietanza del pagamento di tasse, soprattasse e contributi relativi.   
-Art. 209. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) biologia e biochimica cellulare;   
-2) fisiologia applicata;   
-3) farmacologia e tossicologia cosmetica;   
-4) microbiologia applicata ed igiene;   
-5) chimica fisica applicata;   
-6) chimica prodotti cosmetici I;   
-7) tecnologia cosmetica I;   
-8) controllo chimica di qualita' I.   
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso: Dopo l'art. 156, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in radiologia.   
+Scuola di specializzazione in radiologia   
+Art. 157. - La scuola rilascia i seguenti diplomi di specializzazione: in radiologia e in radiologia diagnostica.   
+Art. 158. - La scuola e' riservata ai laureati in medicina e chirurgia che possono essere accolti in numero massimo di sei per ciascun anno di corso per radiologia e radiologia diagnostica (totale ventiquattro).   
+La durata dei corsi per il conseguimento del diploma di specialista in radiologia e' di 4 anni.   
+Gli insegnamenti sono i seguenti:   
+a) matematica, fisica, nozioni di statistica e informatica (annuale) comprendente:   
+1) richiami di matematica e fisica generale;   
+2) costituzione della materia;   
+3) produzione, assorbimento e misura delle radiazioni;   
+4) statistica applicata alla medicina;   
+5) informatica e cibernetica applicate alla radiologia;   
+b) radiodiagnostica (triennale) comprendente:   
+1) principi generali di radiodiagnostica;   
+2) apparecchi, strumenti e tecnica radiodiagnostica;   
+3) tecnica e fisiologia applicate alla radio diagnostica;   
+4) i mezzi di contrasto artificiali in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;   
+5) semeiotica radiologica;   
+6) diagnostica differenziale radiologica;   
+7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;   
+8) dimostrazioni di casistica clinica;   
+c) radiobiologia (annuale) comprendente:   
+1) radiobiologia generale;   
+2) danni di radiazioni e radiopatie;   
+d) protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:   
+1) legislazione sanitaria applicata alla radiologia;   
+2) compiti e responsabilita' medico-legali del radiologo;   
+3) radioprotezione fisica e dosimetria ad essa connessa:   
+4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;   
+5) radioprotezione chimica;   
+6) problemi tecnici e funzionali inerenti la progettazione, organizzazione e attivazione dei reparti radiologici;   
+e) radioterapia e terapia fisica (triennale) comprendente:   
+1) radiobiologia applicata;   
+2) fondamenti generali di radioterapia e terapia fisica;   
+3) istopatologia speciale dei tumori;   
+4) nozioni sugli apparecchi e strumenti per la radioterapia;   
+5) tecnica e metodica radioterapica;   
+6) dosimetria;   
+7) clinica radioterapica;   
+8) fondamenti generali di chemioterapia oncologica;   
+9) chemioterapia clinica dei tumori e sua associazione alla radioterapia;   
+10) dimostrazione di casistica clinica;   
+f) medicina nucleare (biennale) comprendente:   
+1) elementi di medicina nucleare;   
+2) istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare;   
+3) dosimetria dei radioisotopi somministrati per via interna;   
+4) diagnostica con radioisotopi somministrati per via interna;   
+5) radioterapia metabolica;   
+6) dimostrazioni di casistica clinica.   
+I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nei 4 anni di corso:   
+1° Anno (tronco comune):   
+matematica, fisica, nozioni di statistica ed informatica; radiologia; protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;   
+radiodiagnostica (I).   
 2° Anno:   
-1) chimica prodotti cosmetici II;   
-2) tecnologia e formulazione cosmetica II;   
-3) legislazione cosmetica e documentaristica;   
-4) impianti e macchinario cosmetico;   
-5) marketing, pubblicita' e psicocosmesi;   
-6) controllo chimico di qualita' II;   
-7) controllo microbiologico di qualita'.   
-Ad ogni corso corrispondera' un adeguato numero di lezioni teoriche ed esercitazioni pratiche che potranno essere svolte da piu' docenti in relazione alla particolare necessita' di ciascun corso.   
-Oltre alle predette possono essere tenuti seminari e conferenze di aggiornamento nel campo della cosmetologia.   
-Gli iscritti sono obbligati alla frequenza costante ai corsi di lezioni ed esercitazioni.   
-La frequenza viene comprovata dall'attestazione rilasciata dagli insegnanti sul libretto di iscrizione. L'attestazione di frequenza e' indispensabile ai fini della ammissione agli esami.   
-Art. 210. - Le tasse e soprattasse per l'iscrizione alla scuola sono quelle stabilite per la facolta' di farmacia di cui all'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).   
-I contributi a carico degli iscritti saranno fissati annualmente dal consiglio di amministrazione dell'Universita' su proposta del consiglio della scuola e verranno resi noti ogni anno con apposito manifesto.   
-Art. 211. - La data di inizio e termine delle lezioni sono fissate dalla facolta', udito il consiglio della scuola, in dipendenza a ragioni speciali inerenti alla natura dei corsi.   
-Art. 212. - Le commissioni per gli esami di profitto e di diploma sono nominate dal preside di facolta' di farmacia su proposta del direttore della scuola e sono composte, di norma, rispettivamente di tre e sette membri.   
-Gli esami di profitto e di diploma si sostengono di regola in due sessioni in un periodo successivo alla conclusione di ciascun anno.   
-Gli esami di profitto, che consistono in prove teoriche e tecnico-pratiche si sostengono nelle singole materie od anche in gruppi di materie strettamente affini.   
-L'esame di diploma, al quale i candidati potranno essere ammessi dopo aver superato tutti gli esami di profitto, consiste in una discussione di una dissertazione scritta svolta dal candidato su un argomento tecnico-scientifico assegnato allo specializzando dal direttore della scuola.   
-Art. 213. - Al funzionamento della scuola si provvedera' con il provento delle tasse, soprattasse e contributi da parte degli iscritti.   
-La scuola potra' avvalersi anche di contributi provenienti da enti o industrie interessate allo sviluppo delle conoscenze in questo campo.   
-L'istituto di chimica farmaceutica mettera' a disposizione della scuola aule e locali per lezioni ed esercitazioni di laboratorio.   
+radiodiagnostica (II);   
+radioterapia e terapia fisica (I).   
+3° Anno:   
+radiodiagnostica (III);   
+radioterapia e terapia fisica (II);   
+medicina nucleare (I).   
+4° Anno:   
+radioterapia e terapia fisica (III);   
+medicina nucleare (II).   
+La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.   
+Gli insegnamenti sono i seguenti:   
+a) matematica, fisica, nozioni di statistica ed informatica (annuale) comprendente:   
+1) richiami di matematica e fisica generale;   
+2) costituzione della materia;   
+3) produzione, assorbimento e misura delle radiazioni;   
+4) statistica applicata alla medicina;   
+5) informatica e cibernetica applicate alla radiologia;   
+b) radiodiagnostica (triennale) comprendente:   
+1) principi generali di radiodiagnostica;   
+2) apparecchi, strumenti e tecnica radiodiagnostica;   
+3) tecnica e fisiologia applicate alla radiodiagnostica;   
+4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;   
+5) semeiotica radiologica;   
+6) diagnostica differenziale radiologica;   
+7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;   
+8) dimostrazioni di casistica clinica;   
+c) radiobiologia (annuale) comprendente:   
+1) radiobiologia generale;   
+2) danni da radiazioni e radiopatie;   
+d) protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:   
+1) legislazione sanitaria applicata alla radiologia;   
+2) compiti e responsabilita' medico-legali del radiologo;   
+3) radioprotezione fisica e dosimetria ad essa concessa;   
+4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;   
+5) radioprotezione chimica;   
+6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.   
+I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:   
+1° Anno (tronco comune):   
+matematica, fisica, nozioni di statistica ed informatica; radiobiologia; protezioni radiologiche; legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia; radiodiagnostica (I).   
+2° Anno:   
+radiodiagnostica (II).   
+3° Anno:   
+radiodiagnostica (III).   
+Per essere ammessi agli esami di diploma in radiologia e in radiologia diagnostica gli iscritti, oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia d'insegnamento ed elaborata una tesi scritta su un argomento radiologico concordato con il direttore della scuola.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1977
+### Dato a Roma, addi' 25 maggio 1976
 
 LEONE MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 15 luglio 1978
+Registrato alla Corte dei conti, addi' 27 luglio 1976
 
-Registro n. 75 Istruzione, foglio n. 306
+Atti di Governo, registro n. 8 foglio n. 24

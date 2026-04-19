@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 ottobre 1985 n. 905
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 416
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 ottobre 1985 n. 905
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 416
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Macerata.
 --------------------------------------------------------------------
@@ -39,22 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 37, relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
-  
-storia agraria medievale.  
+Nell'art. 11, relativo al corso di laurea in giurisprudenza, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+tossicologia forense.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 ottobre 1985
+### Dato a Roma, addi' 4 maggio 1983
 
-COSSIGA
+PERTINI FALCUCCI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DARIDA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 17 agosto 1983
 
-Registrato alla Corte dei conti, addi' 14 febbraio 1986
-
-Registro n. 9 Istruzione, foglio n. 126
+Registro n. 59 Istruzione, foglio n. 124

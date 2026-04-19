@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 1068
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1983 n. 280
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 1068
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1983 n. 280
 ===============================================================
 
 Modificazione allo statuto della seconda Universita' degli studi di Roma.
@@ -22,8 +22,6 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
-
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici della seconda Universita' degli studi di Roma e convalidati dal Consiglio universitario nazionale nel suo parere;
@@ -41,20 +39,38 @@ Articolo unico
 --------------
 
   
-Nell'art. 51, relativo al corso di laurea in medicina e chirurgia, e' inserito l'insegnamento complementare di "clinica delle malattie infettive".  
+Art. 33 all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti insegnamenti:  
+diritto della sicurezza sociale;  
+diritto delle imprese;  
+diritto delle banche e titoli di credito;  
+diritto diplomatico e consolare;  
+diritto processuale comparato;  
+esegesi delle fonti del diritto romano;  
+filosofia della politica;  
+logica giuridica;  
+ordinamento giudiziario;  
+storia delle dottrine politiche;  
+storia e sistemi delle relazioni tra Stato e Chiesa;  
+diritto urbanistico;  
+diritto degli enti locali;  
+economia internazionale;  
+economia dello sviluppo;  
+diritto del commercio internazionale;  
+diritto internazionale della navigazione;  
+criminologia;  
+diritto della protezione dell'ambiente;  
+diritto dell'alimentazione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 ottobre 1986
+### Dato a Roma, addi' 25 febbraio 1983
 
-COSSIGA
+PERTINI FALCUCCI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DARIDA
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 6 giugno 1983
 
-Registrato alla Corte dei conti, addi' 28 marzo 1987
-
-Registro n. 19 Istruzione, foglio n. 26
+Registro n. 41 Istruzione, foglio n. 134

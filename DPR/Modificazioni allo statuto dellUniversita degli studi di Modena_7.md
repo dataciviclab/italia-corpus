@@ -1,22 +1,101 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 giugno 1967 n. 616
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 marzo 1956 n. 431
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 giugno 1967 n. 616
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 marzo 1956 n. 431
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), modificato coi [regi decreti 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170); [30 ottobre 1930, n. 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1825); [1 ottobre 1931, n. 1386](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-01;1386); [27 ottobre 1932, n. 2073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-10-27;2073); [6 dicembre 1934, n. 2291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-12-06;2291); [1 ottobre 1936, n. 2088](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;2088); [20 aprile 1939, n. 1075](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1075), modificato con i [decreti del Capo provvisorio dello Stato 15 ottobre 1947, n. 1874](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-10-15;1874) e [30 dicembre 1947, n. 1877 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1877) [23 settembre 1949, n. 817](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;817); [28 aprile 1951, n. 955](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-28;955); [19 giugno 1951, n. 709](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-19;709); [26 aprile 1954, n. 739](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;739); [10 marzo 1955, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-03-10;223); [2 agosto 1955, n. 877](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-08-02;877) e [4 ottobre 1955, n. 1104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-10-04;1104);
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato, con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Dopo l'art. 137, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in malattie dell'apparato digerente e del ricambio.
+
+Scuola di specializzazione in malattie
+
+dell'apparato digerente e del ricambio
+
+Art. 138. - La Scuola di specializzazione in malattie dell'apparato digerente e del ricambio conferisce il diploma di specialista in malattie dell'apparato digerente e del ricambio.
+
+Art. 139. - Alla Scuola sono ammessi i laureati in medicina e chirurgia.
+
+Art. 140. - La Scuola, che ha sede presso la clinica medica dell'Universita', ha la durata di anni due.
+
+Art. 141. - Gli insegnamenti impartiti nella Scuola sono:
+
+Primo anno:
+
+Insegnamenti fondamentali:
+
+1) Semeiotica ed esplorazione funzionale delle malattie epatiche;
+
+2) Semeiotica ed esplorazione funzionale delle malattie dell'apparato digerente;
+
+3) Semeiotica e prove diagnostiche dei disturbi del metabolismo.
+
+Insegnamenti complementari:
+
+1) Microscopia e chimica clinica inerenti alle specialita'.
+
+Secondo anno:
+
+Insegnamenti fondamentali:
+
+1) Malattie epatiche; diagnostica e terapia;
+
+2) Malattie del tubo digerente; diagnostica e terapia;
+
+3) Malattie del ricambio (dismetabolismi); diagnostica e terapia.
+
+Gli insegnamenti saranno integrati da esercitazioni pratiche.
+
+L'allievo del primo anno per essere ammesso al secondo deve aver ottenuto tutte le firme di frequenza dei corsi del primo e deve aver superato tutti gli esami del primo anno.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 16 marzo 1956
+
+GRONCHI
+
+ROSSI
+
+Visto, il Guardasigilli: MORO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 18 maggio 1956 Atti del Governo, registro n. 97, foglio n. 172. - CARLOMAGNO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, numero 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), modificato coi [regi decreti 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170); [30 ottobre 1930, n. 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1825); [1 ottobre 1931, n. 1386](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-01;1386); [27 ottobre 1932, n. 2073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-10-27;2073); [6 dicembre 1934, n. 2291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-12-06;2291); [1 ottobre 1936, n. 2088](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;2088); [20 aprile 1939, n. 1075](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1075), modificato con i [decreti del Capo provvisorio dello Stato 15 ottobre 1947, n. 1874](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-10-15;1874) e [30 dicembre 1947, n. 1877 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1877) [23 settembre 1949, n. 817](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;817); [28 aprile 1951, n. 955](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-28;955); [19 giugno 1951, n. 709](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-19;709); [26 aprile 1954, n. 739](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;739); [10 marzo 1955, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-03-10;223); [2 agosto 1955, n. 877](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-08-02;877) e [4 ottobre 1955, n. 1104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-10-04;1104);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato, con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -26,77 +105,40 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 48, relativo al corso di laurea in Fisica e' modificato nel senso che l'ottavo comma e' abrogato e sostituito dal seguente:  
-Alla fine del primo biennio si richiede la prova di conoscenza della lingua inglese e di una seconda lingua a scelta fra francese, russo e tedesco. Detta prova si svolgera' con le stesse modalita' di tutti gli altri esami, e verra' qualificata se positiva con sufficiente, buona, ottima; se negativa con insufficiente.  
-Nello stesso corso di laurea il tredicesimo comma e' abrogato e sostituito dal seguente:  
-Sono insegnamenti complementari (da cui potranno essere prescelti quelli a scelta dello studente):  
-1) Analisi funzionale;  
-2) Analisi superiore;  
-3) Astrofisica;  
-4) Astronomia;  
-5) Biofisica;  
-6) Calcolo delle probabilita';  
-7) Chimica fisica;  
-8) Chimica organica;  
-9) Chimica teorica;  
-10) Cibernetica e teoria delle informazioni;  
-11) Elettronica;  
-12) Elettronica applicata;  
-13) Elettrotecnica;  
-14) Istituzioni di analisi superiore;  
-15) Istituzioni di fisica matematica;  
-16) Istituzioni di fisica nucleare;  
-17) Istituzioni di geometria superiore;  
-18) Fisica atomica;  
-19) Fisica delle basse temperature;  
-20) Fisica delle particelle elementari;  
-21) Fisica dello stato solido;  
-22) Fisica del plasma;  
-23) Fisica molecolare;  
-24) Fisica nucleare;  
-25) Fisica superiore;  
-26) Fisica tecnica;  
-27) Fisica teorica;  
-28) Fisica terrestre (Geofisica);  
-29) Geodesia;  
-30) Geologia;  
-31) Geometria differenziale;  
-32) Matematiche complementari;  
-33) Meccanica analitica;  
-34) Meccanica quantistica;  
-35) Meccanica statistica;  
-36) Meccanica superiore;  
-37) Mineralogia;  
-38) Misure elettriche;  
-39) Onde elettromagnetiche;  
-40) Ottica elettronica;  
-41) Radioattivita';  
-42) Spettroscopia;  
-43) Storia della fisica;  
-44) Teoria della relativita';  
-45) Teoria delle funzioni;  
-46) Teoria e applicazioni delle macchine calcolatrici;  
-47) Termodinamica.  
-Art. 49. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica sono aggiunti i seguenti:  
-Indirizzo organico-biologico:  
-21) Chimica delle sostanze naturali;  
-22) Chimica fisica organica.  
-Indirizzo inorganico chimico-fisico:  
-18) Chimica metallurgica;  
-19) Chimica dei composti di coordinazione;  
-20) Strutturistica Roentgenografica elettronica e neutronica;  
-21) Chimica analitica applicata.  
+Dopo l'art. 137, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in malattie dell'apparato digerente e del ricambio.  
+  
+Scuola di specializzazione in malattie  
+dell'apparato digerente e del ricambio  
+  
+Art. 138. - La Scuola di specializzazione in malattie dell'apparato digerente e del ricambio conferisce il diploma di specialista in malattie dell'apparato digerente e del ricambio.  
+Art. 139. - Alla Scuola sono ammessi i laureati in medicina e chirurgia.  
+Art. 140. - La Scuola, che ha sede presso la clinica medica dell'Universita', ha la durata di anni due.  
+Art. 141. - Gli insegnamenti impartiti nella Scuola sono:  
+Primo anno:  
+Insegnamenti fondamentali:  
+1) Semeiotica ed esplorazione funzionale delle malattie epatiche;  
+2) Semeiotica ed esplorazione funzionale delle malattie dell'apparato digerente;  
+3) Semeiotica e prove diagnostiche dei disturbi del metabolismo.  
+Insegnamenti complementari:  
+1) Microscopia e chimica clinica inerenti alle specialita'.  
+Secondo anno:  
+Insegnamenti fondamentali:  
+1) Malattie epatiche; diagnostica e terapia;  
+2) Malattie del tubo digerente; diagnostica e terapia;  
+3) Malattie del ricambio (dismetabolismi); diagnostica e terapia.  
+Gli insegnamenti saranno integrati da esercitazioni pratiche.  
+L'allievo del primo anno per essere ammesso al secondo deve aver ottenuto tutte le firme di frequenza dei corsi del primo e deve aver superato tutti gli esami del primo anno.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 giugno 1967
+### Dato a Roma, addi' 16 marzo 1956
 
-SARAGAT GUI
+GRONCHI ROSSI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MORO
 
-Registrato alla Corte dei conti, addi' 20 luglio 1967
+Registrato alla Corte dei conti, addi' 18 maggio 1956
 
-Atti del Governo, registro n. 212, foglio n. 59. - GRECO
+Atti del Governo, registro n. 97, foglio n. 172. - CARLOMAGNO

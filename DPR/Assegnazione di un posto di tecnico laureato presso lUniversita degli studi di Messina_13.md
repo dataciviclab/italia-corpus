@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1982 n. 906
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 agosto 1986 n. 650
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1982 n. 906
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 agosto 1986 n. 650
+=============================================================
 
 Assegnazione di un posto di tecnico laureato presso l'Universita' degli studi di Messina.
 -----------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Assegnazione di un posto di tecnico laureato presso l'Universita' degli studi di
 Art. 1
 ------
 
-N.
+n.
 
-906. Decreto del Presidente della Repubblica 11 ottobre 1982, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di mineralogia e petrografia della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Messina.  
+650. Decreto del Presidente della Repubblica 29 agosto 1986, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di semeiotica chirurgica I (per le esigenze della cattedra di semeiotica chirurgica I) della facolta' di medicina e chirurgia dell'Universita' di Messina.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 30 novembre 1982  
-Registro n. 129 Istruzione, foglio n. 316
+Visto, il Guardasigilli: ROGNONI  
+Registrato alla Corte dei conti, addi' 3 ottobre 1986  
+Registro n. 73 Istruzione, foglio n. 317

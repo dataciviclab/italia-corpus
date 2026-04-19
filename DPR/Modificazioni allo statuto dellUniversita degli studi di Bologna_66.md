@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1969 n. 664
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1969 n. 1039
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1969 n. 664
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1969 n. 1039
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,54 +20,90 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduta la [legge 25 luglio 1966, n. 602](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-25;602);
-
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione;
 
-proposta del Ministro per la pubblica istruzione; Decreta:
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 64. - All'elenco degli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di "Filologia medioevale ed umanistica".
+
+Art. 65. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia e' aggiunto quello di "Filologia medioevale ed umanistica".
+
+Art. 70. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo) e' aggiunto quello di "Filologia medioevale ed umanistica".
+
+Art. 102. - E' modificato nel senso che dopo il secondo comma viene aggiunto il seguente terzo comma:
+
+"In relazione a quanto sopra si istituiscono i seguenti corsi di preparazione e di aggiornamento:
+
+1) Corso di preparazione e di aggiornamento di strutturistica e fisica molecolare;
+
+2) Corso di preparazione e di aggiornamento di elettrochimica teorica e preparativa;
+
+3) Corso di preparazione e di aggiornamento di spettroscopia Raman".
+
+Art. 134. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:
+
+Entomologia ortofrutticola (semestrale);
+
+Tecniche di lotta biologica (semestrale);
+
+Micologia;
+
+Tecnologia degli oli, grassi e derivati.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 10 settembre 1969
+
+SARAGAT
+
+FERRARI AGGRADI
+
+Visto, il Guardasigilli: GAVA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 5 gennaio 1970 Atti del Governo, registro n. 231, foglio n. 1. - CARUSO
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-La tabella II annessa al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e' integrata nel senso che la facolta' di economia e commercio rilascia anche la laurea in scienze statistiche e demografiche e la laurea in scienze statistiche ed economiche, il cui ordinamento e' riportato rispettivamente nelle tabelle VI e VII-bis.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Nel caso in cui la laurea in scienze statistiche e demografiche e' rilasciata dalla facolta' di economia e commercio, il titolo di studio per l'ammissione al predetto corso di laurea e l'ordinamento del corso medesimo, sono quelli fissati dalla tabella VI allegata al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), integrato dalle successive variazioni, con le seguenti modificazioni:  
-a) Il secondo comma e' sostituito dal seguente: "Il titolo di ammissione e' quello previsto per la laurea in economia e commercio".  
-b) Dopo il primo periodo del sesto comma e' inserito il seguente: "Gli insegnamenti complementari possono essere scelti dallo studente anche tra le discipline impartite nel biennio per il diploma di statistica e tra quelle impartite nel corso di laurea della facolta' e dalle altre facolta' dell'ateneo, previa approvazione del preside della facolta'". Detta approvazione deve essere richiesta entro il 31 dicembre di ogni anno.  
-c) Il secondo periodo del sesto comma e' sostituito dal seguente: "Deve anche aver seguito per due anni e superato, dopo un biennio di frequenza, gli esami di lingua inglese e di un'altra lingua moderna scelta tra quelle insegnate dalla facolta'".  
-
-Art. 3
-------
-
+Decreta:  
   
-Nel caso in cui la laurea in scienze statistiche ed economiche e' rilasciata dalla facolta' di economia e commercio, il titolo di studio per l'ammissione al predetto corso di laurea e l'ordinamento del corso medesimo sono quelli stabiliti dalla tabella VII-bis, allegata al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), integrato dalle successive variazioni, con le seguenti modificazioni:  
-a) Il secondo comma e' sostituito dal seguente: "Il titolo di ammissione e' quello previsto per la laurea in economia e commercio".  
-b) Il primo periodo del sesto comma e' sostituito dal seguente: "Gli insegnamenti complementari possono essere scelti dallo studente anche fra le discipline impartite nel biennio per il diploma in statistica e fra quelle impartite nei corsi di laurea della facolta' e delle altre facolta' dell'ateneo, previa approvazione del preside della facolta'". Detta approvazione deve essere richiesta entro il 31 dicembre di ogni anno.  
-c) Il secondo periodo del settimo comma e' sostituito dal seguente: "Deve anche aver seguito per due anni e superato, dopo un biennio di frequenza, gli esami di lingua inglese e di un'altra lingua moderna scelta tra quelle insegnate nella facolta'".  
-
-Art. 4
-------
-
-  
-A decorrere dall'anno accademico 1969-70 sono istituiti presso la facolta' di economia e commercio dell'Universita' di Bologna i corsi di laurea in scienze statistiche e demografiche e in scienze statistiche ed economiche.  
-
-Art. 5
-------
-
-  
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti, suindicati e' ulteriormente modificato come dal testo annesso al presente decreto - vistato dal Ministro per la pubblica istruzione - contenente le norme relative all'ordinamento del corso di studi delle lauree in scienze, statistiche e demografiche e in scienze statistiche ed economiche.  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 64. - All'elenco degli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di "Filologia medioevale ed umanistica".  
+Art. 65. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia e' aggiunto quello di "Filologia medioevale ed umanistica".  
+Art. 70. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo) e' aggiunto quello di "Filologia medioevale ed umanistica".  
+Art. 102. - E' modificato nel senso che dopo il secondo comma viene aggiunto il seguente terzo comma:  
+"In relazione a quanto sopra si istituiscono i seguenti corsi di preparazione e di aggiornamento:  
+1) Corso di preparazione e di aggiornamento di strutturistica e fisica molecolare;  
+2) Corso di preparazione e di aggiornamento di elettrochimica teorica e preparativa;  
+3) Corso di preparazione e di aggiornamento di spettroscopia Raman".  
+Art. 134. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:  
+Entomologia ortofrutticola (semestrale);  
+Tecniche di lotta biologica (semestrale);  
+Micologia;  
+Tecnologia degli oli, grassi e derivati.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
@@ -79,130 +115,6 @@ SARAGAT FERRARI AGGRADI
 
 Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 6 ottobre 1969
+Registrato alla Corte dei conti, addi' 5 gennaio 1970
 
-Atti del Governo, registro n. 229, foglio n. 79. - CARUSO
-
-Allegato A
-
- ALLEGATO A   
-  
-  
-Testo delle modifiche dello statuto dell'Universita' degli studi di Bologna, relativo alla istituzione dei corsi di laurea in scienze statistiche e demografiche ed in scienze statistiche ed economiche.   
-  
-Art. 2. - E' modificato nel senso che la parte concernente la facolta' di economia e commercio e' sostituita dalla seguente:   
-  
-Facolta' di economia e commercio:   
-1) Laurea in economia e commercio: durata del corso 4 anni;   
-2) Diploma in statistica: durata del corso 2 anni;   
-3) Laurea in scienze statistiche e demografiche: durata del corso 4 anni;   
-4) Laurea in scienze statistiche ed economiche: durata del corso 4 anni.   
-  
-Dopo l'art. 60 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi all'istituzione dei corsi di laurea in scienze statistiche e demografiche e in scienze statistiche ed economiche.   
-  
-Laurea in scienze statistiche e demografiche   
-  
-Art. 61. - Durata del corso degli studi: quattro anni.   
-Titolo di ammissione: diploma di maturita' classica, di maturita' scientifica, di abilitazione per i provenienti dagli istituti tecnici commerciali, industriali, agrari, nautici, per geometri, per il turismo e per periti aziendali e corrispondenti in lingue estere e degli istituti tecnici femminili. I diplomati in statistica sono ammessi al terzo anno, ma il consiglio di facolta' provvedera' a prescrivere di volta in volta il piano di studi per adire la laurea.   
-  
-Insegnamenti fondamentali:   
-  
-1) Istituzioni di analisi matematica;   
-2) Analisi matematica;   
-3) Geometria analitica;   
-4) Calcolo delle probabilita';   
-5) Istituzioni di statistica;   
-6) Statistica;   
-7) Statistica metodologica;   
-8) Demografia;   
-9) Demografia investigativa;   
-10) Istituzioni di economia politica;   
-11) Economia applicata;   
-12) Istituzioni di statistica economica;   
-13) Statistica economica;   
-14) Istituzioni di diritto privato;   
-15) Istituzioni di diritto pubblico;   
-16) Sociologia;   
-17) Teoria dei campioni.   
-  
-Insegnamenti complementari:   
-  
-1) Geografia politica ed economica;   
-2) Statistica sociale;   
-3) Statistica sanitaria;   
-4) Diritto dell'organizzazione internazionale;   
-5) Psicologia sperimentale;   
-6) Storia della statistica;   
-7) Etnologia;   
-8) Antropologia;   
-9) Biometria e antropometria;   
-10) Statistica applicata alle scienze fisiche   
-11) Genetica;   
-12) Econometrica;   
-13) Matematica finanziaria e istituzioni di matematica attuariale;   
-14) Contabilita' nazionale;   
-15) Statistica aziendale e analisi di mercato;   
-16) Principi e tecnica delle applicazioni meccanografiche ed elettroniche.   
-  
-Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e in almeno cinque complementari.   
-Gli insegnamenti complementari possono essere scelti dallo studente anche tra le discipline impartite nel biennio per il diploma di statistica e tra quelle impartite nel corso di laurea della facolta' e dalle altre facolta' dell'ateneo, previa approvazione del preside della facolta'. Detta approvazione deve essere richiesta entro il 31 dicembre di ogni anno. Deve anche aver seguito per due anni e superato, dopo un biennio di frequenza, gli esami di lingua inglese e di un'altra lingua moderna scelta tra quelle insegnate dalla facolta'.   
-Per essere iscritto al secondo anno lo studente deve aver superato almeno due esami fondamentali del primo anno.   
-  
-Laurea in scienze statistiche ed economiche   
-  
-Art. 62. - Durata del corso degli studi: quattro anni.   
-Titolo di ammissione: diploma di maturita' classica o di maturita' scientifica, o di abilitazione per i provenienti dagli istituti tecnici commerciali, industriali, agrari, nautici, per geometri, per il turismo e per periti aziendali o corrispondenti in lingue estere e degli istituti tecnici femminili. I diplomati in statistica sono ammessi al terzo anno, ma il consiglio di facolta' provvedera' a prescrivere di volta in volta il piano di studi per adire la laurea.   
-  
-Insegnamenti fondamentali:   
-  
-1) Istituzioni di analisi matematica;   
-2) Analisi matematica;   
-3) Geometria analitica;   
-4) Calcolo delle probabilita';   
-5) Istituzioni di statistica;   
-6) Statistica;   
-7) Statistica metodologica;   
-8) Demografia;   
-9) e 10) Economia politica (biennale);   
-11) Politica economica e finanziaria;   
-12) Istituzioni di statistica economica;   
-13) Statistica economica;   
-14) Economia d'azienda:   
-15) Statistica aziendale e analisi di mercato;   
-16) Controllo statistico delle qualita' e statistica industriale;  
-17) Istituzioni di diritto privato;   
-18) Istituzioni di diritto pubblico;   
-19) Teoria dei campioni.   
-  
-Insegnamenti complementari:   
-  
-1) Geografia politica ed economica;   
-2) Statistica sociale;   
-3) Sociologia;   
-4) Scienza delle finanze;   
-5) Econometrica;   
-6) Contabilita' nazionale;   
-7) Diritto commerciale;   
-8) Diritto del lavoro;   
-9) Matematica finanziaria e istituzioni di matematica attuariale;  
-10) Teoria e tecnica dell'elaborazione automatica dei dati;   
-11) Ricerca operativa;   
-12) Teoria dei sistemi;   
-13) Psicologia sperimentale;   
-14) Antropologia;   
-15) Statistica medica e biometria:   
-16) Statistica applicata alle scienze fisiche;   
-17) Genetica;   
-18) Diritto dell'economia pubblica;   
-19) Storia della statistica.   
-  
-Gli insegnamenti complementari possono essere scelti dallo studente anche fra le discipline impartite nel biennio per il diploma in statistica e fra quelle impartite nei corsi di laurea della facolta' e delle altre facolta' dell'Ateneo, previa approvazione del preside della facolta'. Detta approvazione deve essere richiesta entro il 31 dicembre di ogni anno. Deve anche aver seguito per due anni e superato, dopo un biennio di frequenza, gli esami di lingua inglese e di un'altra lingua moderna scelta tra quelle insegnate nella facolta'.   
-  
-Per essere iscritto al secondo anno lo studente deve aver superato almeno due esami fondamentali del primo anno.   
-Per l'insegnamento biennale di economia politica e' prescritto l'esame alla fine di ciascun corso annuale, dovendosi il primo considerare propedeutico rispetto al secondo.   
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali e di almeno tre complementari.   
-  
-Visto, d'ordine del Presidente della Repubblica   
-  
-Il Ministro per la pubblica istruzione   
-FERRARI AGGRADI   
+Atti del Governo, registro n. 231, foglio n. 1. - CARUSO

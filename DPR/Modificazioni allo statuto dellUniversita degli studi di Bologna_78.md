@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1977 n. 918
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1970 n. 856
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1977 n. 918
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1970 n. 856
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
@@ -10,74 +10,87 @@ Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare, le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-L'art. 288, relativo ai titoli di ammissione alla scuola di perfezionamento in storia dell'arte medioevale e moderna, e' modificato nel senso che possono iscriversi anche i laureati in discipline delle arti, della musica e dello spettacolo.  
-Gli articoli 346, 347, 349 e 350, relativi al corso di specializzazione in radioprotezione e tecniche radioisotopiche che muta la denominazione in quella di fisica sanitaria, sono abrogati e sostituiti dai seguenti:  
-  
-Corso di specializzazione in fisica sanitaria  
-  
-Art. 346. - Il corso di specializzazione in fisica sanitaria e' organizzato dall'Istituto di fisica dell'Universita' di Bologna ed e' distinto in due indirizzi:  
-1) protezione contro le radiazioni;  
-2) metodiche della fisica applicate al campo medico.  
-Art. 347. - Saranno ammessi i laureati in medicina e chirurgia, medicina veterinaria, delle facolta' di scienze matematiche, fisiche e naturali, chimica industriale, farmacia, ingegneria ed agraria. Una commissione composta da quattro docenti del corso e presieduta dal direttore del corso decidera' per l'ammissione sulla base dei titoli presentati dai candidati.  
-Art. 349. - La durata del corso e' annuale. Gli insegnamenti sono riportati nell'elenco 1 e 2, rispettivamente per il primo e secondo indirizzo. Gli insegnamenti effettivamente impartiti e il numero dei posti disponibili vengono resi noti anno per anno con pubblico bando: su proposta del c.c.d.l. in fisica e con l'approvazione del c.d.f. di scienze.  
-Tutti i corsi sono accompagnati da esercitazioni.  
-Vengono inoltre tenuti corsi monografici, conferenze e seminari.  
-Lo studente deve seguire non meno di otto corsi di cui almeno quattro sono obbligatori gli altri sono scelti dall'allievo, la scelta deve essere motivata sulla base degli interessi culturali e degli studi precedentemente effettuati, e approvata dal collegio dei docenti.  
-Elenco 1 (protezione contro le radiazioni):  
-1) elementi di matematica o statistica;  
-2) fisica nucleare e tecniche di misura delle radiazioni;  
-3) effetti chimici delle radiazioni e chimica dei radioisotopi;  
-4) effetti biologici delle radiazioni ionizzanti e non ionizzanti;  
-5) dosimetria delle radiazioni;  
-6) principi della radioprotezione;  
-7) radioprotezione operativa in campo nucleare;  
-8) radioprotezione operativa in campo ospedaliero;  
-9) legislazione di radioprotezione;  
-10) protezione dalle radiazioni non ionizzanti.  
-Elenco 2 (metodiche della fisica applicata al campo medico):  
-1) elementi di matematica e statistica;  
-2) fisica nucleare e tecniche di misura delle radiazioni;  
-3) effetti chimici delle radiazioni e chimica dei radioisotopi;  
-4) effetti biologici delle radiazioni ionizzanti e non ionizzanti;  
-5) dosimetria delle radiazioni;  
-6) principi della radioprotezione;  
-7) radioprotezione operativa in campo ospedaliero;  
-8) aspetti fisici della radiodiagnostica e radioterapia;  
-9) aspetti fisici della medicina nucleare;  
-10) elettronica applicata al campo biomedico;  
-11) metodiche fisiche impiegate in medicina;  
-12) impiego dei calcolatori in campo biomedico;  
-13) cinetica dei tracciati radioattivi nell'organismo.  
-Art. 350. - Alla fine del corso a coloro che avranno frequentato le lezioni e le esercitazioni pratiche verra' rilasciato un certificato di frequenza.  
-A coloro che avranno superato tutti gli otto esami relativi ai corsi segnati verra' rilasciato un certificato di frequenza e profitto.  
-Il voto finale e' espresso sulla base della media dei voti riportati nei singoli esami.  
+Dopo l'art. 520 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione presso la facolta' di medicina e chirurgia, delle scuole di specializzazione in malattie infettive e in virologia.   
+Scuola di specializzazione in malattie infettive   
+Art. 521. - E' istituita la scuola di specializzazione in malattie infettive, la quale ha lo scopo di conferire adeguata competenza teorica e pratica ai laureati in medicina e chirurgia che intendono conseguire il diploma di specializzazione in malattie infettive.   
+La durata del corso di studi e' di tre anni.   
+Potra' esservi ammesso, per titoli, un massimo di diciotto allievi, complessivamente.   
+Art. 522. - Le materie di insegnamento sono:   
+1° Anno:   
+1) Epidemiologia generale delle malattie infettive;   
+2) Nozioni generali di batteriologia, virologia, parassitologia, immunologia;   
+3) Tecnica batteriologica, virologica, parassitologica, immunologica applicata alle malattie infettive (biennale).   
+2° Anno:   
+1) Patologia e clinica delle malattie infettive (biennale);   
+2) Semeiotica e diagnostica delle malattie infettive;   
+3) Anatomia patologica delle malattie infettive;   
+4) Tecnica batteriologica, virologica, parassitologica, immunologica (biennale).   
+3° Anno:   
+1) Patologia e clinica delle malattie infettive (biennale);   
+2) Malattie infettive dei paesi caldi;   
+3) Farmacologia e terapia generale delle malattie infettive;   
+4) Legislazione sanitaria e malattie infettive.   
+Art. 523. - Durante i tre anni di corso gli iscritti, nelle ore libere dalle lezioni, hanno l'obbligo di internato nell'istituto di malattie infettive prestando servizio nei reparti di degenza, nei laboratori, nell'ambulatorio, con le modalita' e l'orario che saranno stabiliti dal direttore dell'istituto; potranno inoltre essere obbligati a pernottare, a turno, nell'istituto.   
+Detto internato potra' essere autorizzato, dal consiglio direttivo della scuola; anche presso altre istituzioni che abbiano caratteristiche tali da assicurare lo svolgimento di un efficace tirocinio eminentemente pratico.   
+Alla fine di ognuno dei tre anni gli iscritti dovranno sostenere l'esame di profitto delle materie di insegnamento in un unico gruppo e successivamente l'esame di diploma.   
+Scuola di specializzazione in virologia   
+Art. 524. - La scuola di specializzazione in virologia ha lo scopo di fornire un completamento culturale sul piano scientifico ed una preparazione specifica sul piano tecnico e metodologico a coloro che si dedicano allo studio di questa disciplina.   
+La scuola conferisce il diploma di specialista in virologia.   
+Possono esservi ammessi i laureati in medicina e chirurgia, medicina veterinaria, scienze biologiche; farmacia, chimica e tecnologia farmaceutiche.   
+Il corso ha la durata di tre anni ed ha luogo presso l'istituto di microbiologia.   
+La direzione della scuola viene assunta da un professore di ruolo di microbiologia.   
+Gli iscritti al primo anno non potranno superare il numero di cinque; il numero massimo di iscritti complessivamente per i tre anni del corso e' fissato in quindici specializzandi (5 per anno).   
+L'iscrizione alla scuola e' subordinata al superamento di un esame di ammissione (colloquio).   
+Art. 525. - Gli insegnamenti impartiti nella scuola sono i seguenti, cosi' ripartiti nei tre anni del corso:   
+1° Anno:   
+Virologia generale (I parte);   
+Tecnica virologica generale (I parte);   
+Biometria applicata alla virologia;   
+Metodi immunologici in virologia.   
+2° Anno:   
+Virologia generale (II parte);   
+Tecnica virologica generale (II parte);   
+Metodi chimici in virologia;   
+Metodi fisici in virologia;   
+Microscopia elettronica e studio delle ultrastrutture;   
+Virologia speciale e diagnostica virologica (I parte).   
+3° Anno:   
+Genetica dei virus;   
+Virologia oncologica;   
+Studio dei farmaci antivirali;   
+Epidemiologia e profilassi delle malattie da virus;   
+Virologia speciale e diagnostica virologica (II parte).   
+Art. 526. - Il direttore, sentito il parere del consiglio della scuola, puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari, conferenze o seminari su materie e argomenti che abbiano affinita' o attinenza con gli insegnamenti impartiti nella scuola.   
+La frequenza ai corsi e' obbligatoria. Obbligatoria e' altresi' la frequenza ai turni annuali di internato, ciascuno della durata di sei mesi.   
+Gli esami di profitto saranno sostenuti in tre gruppi alla fine di ogni anno di corso ed il superamento dell'esame e' necessario per l'iscrizione al secondo anno. Il secondo gruppo comprende tutte le materie del secondo anno di corso ed il superamento dell'esame e' necessario per l'iscrizione al terzo anno. Il terzo gruppo comprende tutte le materie del terzo anno di corso ed il superamento dell'esame e' necessario per l'ammissione all'esame di diploma.   
+Art. 527. - L'esame di diploma constera' di una discussione sopra una tesi scritta esclusivamente di carattere sperimentale.   
+I candidati non riconosciuti idonei potranno ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola. In caso di un secondo insuccesso saranno esclusi da ulteriori prove.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 ottobre 1977
+### Dato a Roma, addi' 14 ottobre 1970
 
-LEONE MALFATTI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 14 dicembre 1977
+Registrato alla Corte dei conti, addi' 18 novembre 1970
 
-Registro n. 140, Istruzione, foglio n. 306
+Atti del Governo, registro n. 238, foglio n. 79. - CARUSO

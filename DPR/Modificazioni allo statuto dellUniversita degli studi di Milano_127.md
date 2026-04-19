@@ -1,51 +1,94 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 giugno 1955 n. 560
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 febbraio 1981 n. 242
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 giugno 1955 n. 560
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 febbraio 1981 n. 242
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta.
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte; in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Considerato che appare opportuno approvare nella formulazione proposta dagli organi accademici la norma relativa alla direzione della scuola;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, numero 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166) e modificato con [legge 1 giugno 1939, n. 872](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;872); con [regi decreti 26 ottobre 1910, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1910-10-26;2056); [15 aprile 1942, n. 423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;423); [24 ottobre 1942, n. 1847; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1847) [27 luglio 1947, n. 1138 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-07-27;1138) [23 settembre 1949, n. 942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;942), [21 novembre 1949, n. 1194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-11-21;1194); [13 marzo 1950, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;283); [27 ottobre 1951, n. 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1825); [23 aprile 1952, n. 873](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-04-23;873); [10 febbraio 1953, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;383); [13 febbraio 1954, numero 750](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-02-13;750); [14 settembre 1954, n. 1161](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1161); [27 gennaio 1955, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-01-27;219) e [16 febbraio 1955, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-16;136);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
+Titolo II, sotto le parole "facolta' di giurisprudenza" sono aggiunte quelle di "laurea in giurisprudenza".   
+Conseguentemente sono soppresse le parole "laurea in giurisprudenza" attualmente in statuto prima dello art. 9.   
+Nell'art. 8 e' soppresso il secondo comma ed aggiunto tutto il testo dell'attuale art. 9, concernente il corso di laurea in giurisprudenza, con il conseguente spostamento della numerazione degli articoli successivi.   
+Gli articoli 13 e 14, concernenti la scuola di statistica, presso la facolta' di giurisprudenza, sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.   
+Al testo dell'art. 16, relativo alla facolta' di scienze politiche, dopo l'ultimo comma e' aggiunto il seguente nuovo comma:   
   
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso.  
-L'ordinamento del corso di perfezionamento in filologia classica, e' modificato nel modo seguente:  
-  
-Corso di perfezionamento in filologia classica  
-  
-Art. 59. - Alla Facolta' di lettere e filosofia e' annesso un corso di perfezionamento in filologia classica, che ha la durata di un anno. Al corso possono iscriversi i laureati in lettere.  
-Art. 60. - Gli iscritti debbono seguire le lezioni, partecipare alle esercitazioni e superare, fra gli esami orali, tre esami delle seguenti materie: letteratura latina, letteratura greca, glottologia, filologia greco-latina, papirologia, paleografia classica.  
-Negli esami orali i candidati debbono anche dar prova di saper leggere correntemente opere filologiche scritte in due lingue straniere scelte fra la francese, l'inglese e la tedesca.  
-Art. 61. - Alla fine del corso i candidati debbono inoltre superare un esame scritto consistente nella versione di un passo di autore greco in latino.  
-Art. 62. - Per conseguire il certificato di studio i candidati debbono infine presentare una dissertazione intorno a un argomento riferentesi a una delle materie insegnate nel corso.  
-La discussione della dissertazione ha luogo davanti a una Commissione di sette membri, composta dal preside della Facolta', dai professori delle materie seguite nel corso e da altri componenti la Facolta'.  
-Gli iscritti al corso debbono versare le tasse e sopprattasse e gli eventuali contributi che verranno stabiliti anno per anno dal Consiglio di amministrazione dell'Universita', uditi il Senato accademico ed il Consiglio di Facolta'.  
+Alla facolta' e' annessa la scuola di statistica che conferisce il diploma di statistica.   
+Dopo l'art. 19, sono inseriti, con il conseguente spostamento della numerazione degli articoli successivi, i seguenti nuovi articoli concernenti lo statuto della scuola di statistica.   
+Scuola di statistica   
+Art. 20. - Il direttore della scuola di statistica sara' nominato dal consiglio di facolta', tra i professori ordinari e straordinari della facolta' e della scuola.   
+Art. 21. - La durata del corso degli studi per il diploma di statistica e' di due anni.   
+Sono titoli di ammissione quelli previsti dalle vigenti disposizioni di legge.   
+Insegnamenti fondamentali:   
+1) elementi di matematica;   
+2) statistica;   
+3) statistica economica, corso elementare;   
+4) statistica giudiziaria (semestrale);   
+5) statistica sociale (semestrale);   
+6) antropometria (semestrale);   
+7) statistica sanitaria (semestrale);   
+8) sociologia generale;   
+9) demografia;   
+10) geografia politica ed economica.   
+Insegnamenti complementari:   
+1) economia politica, corso elementare;   
+2) antropologia;   
+3) nozioni elementari di diritto privato e pubblico;   
+4) analisi matematica;   
+5) calcolo delle probabilita';   
+6) teoria e tecnica della elaborazione automatica dei dati;   
+7) programmazione ed interpretazione statistica degli esperimenti;   
+8) elementi di teoria dei campioni.   
+Gli insegnamenti semestrali di statistica giudiziaria, di statistica sociale, di antropometria e di statistica sanitaria comportano rispettivamente esami unici.   
+L'insegnamento biennale di statistica economica comporta un esame alla fine di ogni anno.   
+Gli insegnamenti complementari possono essere scelti dallo studente fra le discipline impartite in altre facolta' dell'Ateneo, previa approvazione del preside della facolta' di scienze politiche.   
+Per essere ammesso all'esame di diploma lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in due da lui scelti fra i complementari.   
+Art. 22. - L'esame di diploma consiste nella discussione di una dissertazione scritta su argomento statistico scelto dal candidato in uno degli insegnamenti fondamentali.   
+L'argomento della dissertazione deve essere dal candidato sottoposto alla approvazione del direttore della scuola sei mesi prima della discussione.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 giugno 1955
+### Dato a Roma, addi' 3 febbraio 1981
 
-GRONCHI ERMINI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: DE PIETRO
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 15 luglio 1955
+Registrato alla Corte dei conti, addi' 19 maggio 1981
 
-Atti del Governo, registro n. 91, foglio n. 96. - CARLOMAGNO
+Registro n. 44 Istruzione, foglio n. 147

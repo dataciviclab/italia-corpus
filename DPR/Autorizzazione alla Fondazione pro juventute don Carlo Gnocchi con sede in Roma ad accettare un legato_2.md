@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 marzo 1969 n. 181
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 839
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 marzo 1969 n. 181
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 839
+=============================================================
 
 Autorizzazione alla "Fondazione pro juventute don Carlo Gnocchi", con sede in Roma, ad accettare un legato.
 -----------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-181. Decreto del Presidente della Repubblica 4 marzo 1969, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione pro juventute don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare il legato disposto a proprio favore dal defunto sig. Giulio Tavecchia con testamento pubblico, per atto rogito avv. Alessandro Maffi, notaio in Milano, in data 21 gennaio 1964, n. 82 di repertorio, atti di ultima volonta', registrato con verbale a rogito stesso notaio avv. Maffi in data 16 giugno 1965, rep. n. 118845, racc. n. 13349. Tale legato, al lordo di oneri e pesi, corrisponde alla meta' della quota di comproprieta' spettante al de cuius sulla casa sita in Milano, via Torino n. 23, angolo via Lupetta.  
+839. Decreto del Presidente della Repubblica 5 giugno 1968, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione pro juventute don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare il legato di L. 1.000.000, disposto dal defunto Antonio Cattaneo, con testamento olografo 8 settembre 1961 e relativi codicilli, pubblicati a rogito dott. Carlo Locatelli, notaio in Milano, in data 22 agosto 1966, n. 21857 di rep., n. 5747 di racc.  
   
-Visto, il Guardasigilli: GAVA  
-Registrato alla Corte dei conti, addi' 29 aprile 1969  
-Atti del Governo, registro n. 226, foglio n. 115. - GRECO
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 23 luglio 1968  
+Atti del Governo, registro n. 222, foglio n. 13. - GRECO

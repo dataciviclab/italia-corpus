@@ -1,45 +1,99 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1965 n. 1289
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 502
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1965 n. 1289
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 502
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 93. - Agli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti i seguenti:  
-  
-Storia della filosofia morale;  
-Religioni del mondo classico.  
+Art. 64 - all'elenco degli indirizzi del corso di laurea in scienze politiche e' aggiunto l'indirizzo "politico-economico".  
+Art. 65 - dopo l'elenco degli insegnamenti obbligatori sul piano della facolta' dell'indirizzo politico internazionale e' aggiunto quanto segue:  
+"Gli insegnamenti del biennio propedeutico per l'indirizzo politico-economico sono i seguenti:  
+a) Obbligatori sul piano nazionale:  
+1) istituzioni di diritto pubblico;  
+2) diritto costituzionale italiano e comparato;  
+3) economia politica;  
+4) statistica;  
+5) sociologia;  
+6) storia moderna.  
+b) Obbligatori sul piano della facolta':  
+1) politica economica e finanziaria;  
+2) istituzioni di diritto privato;  
+3) storia contemporanea.  
+Lo studente potra' aggiungere ai nove insegnamenti del biennio propedeutico non piu' di tre insegnamenti obbligatori del biennio di specializzazione dell'indirizzo prescelto. Tali insegnamenti anticipati al biennio propedeutico vanno in detrazione del numero degli insegnamenti del biennio di specializzazione".  
+Art. 66 - nell'elenco degli insegnamenti obbligatori sul piano della facolta' dell'indirizzo storico-politico, l'insegnamento di "diritto costituzionale" e' sostituito con l'insegnamento di "storia dell'economia".  
+Al medesimo art. 66 e' aggiunto quanto segue:  
+"Gli insegnamenti del biennio di specializzazione dell'indirizzo politico-economico sono i seguenti:  
+a) Obbligatori sul piano della facolta':  
+1) matematica per economisti;  
+2) economia e politica industriale;  
+3) scienza delle finanze;  
+4) economia internazionale;  
+5) economia e politica monetaria.  
+b) A scelta dello studente:  
+6) economia e politica agraria;  
+7) economia dei Paesi in via di sviluppo;  
+8) economia aziendale;  
+9) statistica per la ricerca economica;  
+10) econometria;  
+11) diritto pubblico dell'economia;  
+12) organizzazione economica internazionale;  
+13) contabilita' di Stato;  
+14) diritto del lavoro;  
+15) organizzazione sindacale e del lavoro;  
+16) sociologia economica;  
+17) storia dell'economia;  
+18) storia delle dottrine economiche;  
+19) storia dei partiti e dei movimenti politici;  
+20) storia e istituzioni dell'Europa orientale;  
+21) storia e istituzioni dei Paesi afro-asiatici;  
+22) geografia politica ed economica;  
+23) pianificazione ed organizzazione territoriale;  
+24) diritto delle Comunita' europee".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 ottobre 1965
+### Dato a Roma, addi' 13 marzo 1984
 
-SARAGAT GUI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 20 novembre 1965
+Registrato alla Corte dei conti, addi' 8 agosto 1984
 
-Atti del Governo, registro n. 198, foglio n. 57. - VILLA
+Registro n. 49 Istruzione, foglio n. 205

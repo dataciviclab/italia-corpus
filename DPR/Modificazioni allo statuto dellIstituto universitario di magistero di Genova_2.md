@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1963 n. 2044
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 giugno 1967 n. 614
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1963 n. 2044
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 giugno 1967 n. 614
+=============================================================
 
 Modificazioni allo statuto dell'Istituto universitario di magistero di Genova.
 ------------------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Istituto universitario di magistero di Genova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Istituto universitario di magistero di Genova, approvato con [decreto del Capo provvisorio dello Stato 21 marzo 1947, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-03-21;241), modificato con [decreto del Presidente della Repubblica 18 aprile 1963, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1963-04-18;1350);
+Veduto lo statuto dell'Istituto universitario di magistero di Genova, approvato con [decreto del Capo provvisorio dello Stato 21 marzo 1947, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-03-21;241) e modificato con [decreto del Presidente della Repubblica 18 aprile 1963, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1963-04-18;1350), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -32,41 +32,39 @@ Decreta:
 
 Lo statuto dell'Istituto universitario di magistero di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 18. - All'elenco degli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti i seguenti:
+Art. 15. - All'elenco degli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti quelli di:
 
-Storia contemporanea;
+21) Letteratura umanistica;
 
-Storia della geografia e delle esplorazioni;
+22) Geografia regionale;
 
-Storia delle tradizioni popolari;
+23) Psicologia;
 
-Latino medioevale;
+24) Storia delle religioni;
 
-Letteratura italiana contemporanea;
+25) Storia della Chiesa.
 
-Storia del teatro e dello spettacolo.
+All'elenco degli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di:
 
-All'elenco degli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti i seguenti:
+17) Latino medioevale;
 
-Filosofia morale;
+18) Storia della filosofia moderna e contemporanea;
 
-Psicologia dell'eta' evolutiva;
+19) Storia della filosofia medioevale;
 
-Storia della pedagogia e delle istituzioni scolastiche;
+20) Filosofia della storia.
 
-Sociologia;
+All'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere sono aggiunti quelli di:
 
-Storia delle religioni;
+13) Latino medioevale;
 
-Filosofia della scienza.
+14) Psicologia.
 
-All'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere e' aggiunto quello di "Slavistica".
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Dato a Roma, addi' 13 giugno 1967
 
-Dato a Roma, addi' 3 dicembre 1963
-
-SEGNI
+SARAGAT
 
 GUI
 
@@ -75,14 +73,14 @@ Visto, il Guardasigilli: REALE
 Registrato
 ----------
 
-alla Corte dei conti, addi' 17 gennaio 1964 Atti del Governo, registro n. 179, foglio n. 107. - VILLA
+alla Corte dei conti, addi' 20 luglio 1967 Atti del Governo, registro n. 212, foglio n. 60. - GRECO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Istituto universitario di magistero di Genova, approvato con [decreto del Capo provvisorio dello Stato 21 marzo 1947, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-03-21;241), modificato con [decreto del Presidente della Repubblica 18 aprile 1963, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1963-04-18;1350);  
+Veduto lo statuto dell'Istituto universitario di magistero di Genova, approvato con [decreto del Capo provvisorio dello Stato 21 marzo 1947, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-03-21;241) e modificato con [decreto del Presidente della Repubblica 18 aprile 1963, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1963-04-18;1350), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
@@ -95,33 +93,31 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Istituto universitario di magistero di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 18. - All'elenco degli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti i seguenti:  
-Storia contemporanea;  
-Storia della geografia e delle esplorazioni;  
-Storia delle tradizioni popolari;  
-Latino medioevale;  
-Letteratura italiana contemporanea;  
-Storia del teatro e dello spettacolo.  
-All'elenco degli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti i seguenti:  
-Filosofia morale;  
-Psicologia dell'eta' evolutiva;  
-Storia della pedagogia e delle istituzioni scolastiche;  
-Sociologia;  
-Storia delle religioni;  
-Filosofia della scienza.  
-All'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere e' aggiunto quello di "Slavistica".  
+Art. 15. - All'elenco degli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti quelli di:  
+21) Letteratura umanistica;  
+22) Geografia regionale;  
+23) Psicologia;  
+24) Storia delle religioni;  
+25) Storia della Chiesa.  
+All'elenco degli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di:  
+17) Latino medioevale;  
+18) Storia della filosofia moderna e contemporanea;  
+19) Storia della filosofia medioevale;  
+20) Filosofia della storia.  
+All'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere sono aggiunti quelli di:  
+13) Latino medioevale;  
+14) Psicologia.  
   
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 dicembre 1963
+### Dato a Roma, addi' 13 giugno 1967
 
-SEGNI GUI
+SARAGAT GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 17 gennaio 1964
+Registrato alla Corte dei conti, addi' 20 luglio 1967
 
-Atti del Governo, registro n. 179, foglio n. 107. - VILLA
+Atti del Governo, registro n. 212, foglio n. 60. - GRECO

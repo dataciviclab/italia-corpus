@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 luglio 1968 n. 885
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 febbraio 1972 n. 213
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 luglio 1968 n. 885
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 febbraio 1972 n. 213
+===============================================================
 
 Autorizzazione all'Istituto universitario di architettura di Venezia ad acquistare un immobile.
 -----------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-885. Decreto del Presidente della Repubblica 5 luglio 1968, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto universitario di architettura di Venezia viene autorizzato ad acquistare un immobile sito in Venezia, S. Croce, Fondamenta Minotto, civ. 145, al prezzo di L. 36.500.000.  
+213. Decreto del Presidente della Repubblica 11 febbraio 1972, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto universitario di architettura di Venezia viene autorizzato ad acquistare lo immobile sito in Venezia, Sestiere S.  
+Croce - Corte Dandolo, numeri civici dal 1952 al 1957, denominato Palazzo Tron descritto nel nuovo catasto edilizio urbano del comune di Venezia alla zona censuaria 1 S. Croce, partita 3015, foglio II/3, mappale 1038, al prezzo di L. 360.000.000, ivi comprese 24 tele per un valore di L. 12.000.000.   
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 30 luglio 1968  
-Atti del Governo, registro n. 222, foglio n. 52. - GRECO
+Visto, il Guardasigilli: GONELLA   
+Registrato alla Corte dei conti, addi' 13 maggio 1972   
+Atti del Governo, registro n. 249, foglio n. 4. - VALENTINI

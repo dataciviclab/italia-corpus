@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1963 n. 676
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1963 n. 840
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1963 n. 676
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1963 n. 840
+=============================================================
 
 Autorizzazione alla "Fondazione Pro Juventute don Carlo Gnocchi" ad accettare un legato.
 ----------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-676. Decreto del Presidente della Repubblica 28 marzo 1963, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute don Carlo Gnocchi", viene autorizzata ad accettare un legato di L. 5.000.000 (cinquemilioni) costituito da obbligazioni al 6%, disposto con testamento olografo del 1 novembre 1961 dalla defunta signorina Maria-Giuseppina Monzini, a rogito notaio dott. Giovanni Stratta di Torino, in data 16 febbraio 1962, repertorio n. 24650, a favore dell'"Istituto dei Mutilatini di Santa Maria ai Colli".  
+840. Decreto del Presidente della Repubblica 11 maggio 1963, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute don Carlo Gnocchi" viene autorizzata ad accettare un legato, consistente in L. 500.000 (cinquecentomila) in titoli, disposto dalla defunta signora Antonia Lagrosa, ved.  
+Marini, con testamento olografo del 1 maggio 1960, a rogito Gianfranco Antonioli, notaio residente in Bozzolo, in data 2 febbraio 1962, al numero di repertorio 48394/8774.  
   
 Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 16 maggio 1962  
-Atti del Governo, registro n. 169, foglio n. 46. - VILLA
+Registrato alla Corte dei conti, addi' 19 giugno 1963  
+Atti del Governo, registro n. 171, foglio n. 3. - VILLA

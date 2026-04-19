@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1966 n. 991
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1972 n. 578
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1966 n. 991
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1972 n. 578
+=============================================================
 
 Autorizzazione all'Universita' degli studi di Siena ad acquistare un immobile.
 ------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-991. Decreto del Presidente della Repubblica 29 settembre 1966, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Siena viene autorizzata ad acquistare, al prezzo di L. 70.200.000, il fabbricato "ex Caserma Mazzini", sito in Siena, Pian dei Mantellini.  
+578. Decreto del Presidente della Repubblica 18 luglio 1972, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Siena viene autorizzata ad acquistare un immobile sito in Siena, via Bandini, 25, descritto nel nuovo catasto edilizio urbano alla partita 7846, mappale 464, sub. 2-6-7-8 e 9 e 465 sub 1 a 6 del foglio n. 132 al prezzo di L. 120.000.000.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 18 novembre 1966  
-Atti del Governo, registro n. 207, foglio n. 36. - VILLA
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 5 ottobre 1972  
+Atti del Governo, registro n. 251, foglio n. 85. - CARUSO

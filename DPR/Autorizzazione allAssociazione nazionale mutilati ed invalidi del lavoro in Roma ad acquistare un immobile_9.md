@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1149
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1985 n. 617
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1149
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1985 n. 617
+===============================================================
 
 Autorizzazione all'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, ad acquistare un immobile.
 --------------------------------------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-1149. Decreto del Presidente della Repubblica 5 dicembre 1984, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, viene autorizzata ad acquistare, al prezzo di lire 74.500.000, i locali di mq 394 al pianoterra dello stabile sito in Pistoia, via Zamenhoff, costruito su terreno censito al nuovo catasto terreni al foglio 220, mappali 445, 446, 447, 448 e 552, di proprieta' del sig.  
-Raffaello Monfardini, come da atto di compravendita sottoposto a condizione sospensiva 18 gennaio 1975, n. 15144 di repertorio, a rogito dott. Raffaele Marchitelli, notaio in Pistoia, registrato a Pistoia in data 4 marzo 1975 al n. 659.   
+617. Decreto del Presidente della Repubblica 20 febbraio 1985, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, viene autorizzata ad acquistare, al prezzo di lire 90.000.000, un immobile, rappresentato da tre stanze ed accessori piu' vano cantina, sito in Alessandria, via Legnano n. 49, censito al nuovo catasto edilizio urbano al foglio 268/C, mappale 4351/20, di proprieta' di Carla Lombardi, come da atto di compravendita 9 novembre 1982, n. 823 di repertorio, a rogito dott. Sergio Finesso, notaio in Alessandria, registrato ad Alessandria in data 26 novembre 1982, al n. 4904, da adibire ad ufficio.   
   
 Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 15 marzo 1985   
-Registro n. 1 Lavoro, foglio n. 224
+Registrato alla Corte dei conti, addi' 29 ottobre 1985   
+Registro n. 1 Lavoro, foglio n. 229

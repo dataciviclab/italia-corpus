@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1950 n. 766
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1951 n. 508
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1950 n. 766
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1951 n. 508
+=============================================================
 
 Trasferimento in proprieta' all'Opera per la valorizzazione della Sila di terreni di proprieta' di Berlingieri Giulio fu Pietro, in comune di Santa Severina (Catanzaro).
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77, comma primo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77-com1), ed [87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5) della Repubblica;
 
-Vista la [legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230);
+Vista la [legge 12 maggio 1950, n. 230, e l'art. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art16) della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
 
-In virtu' della delegazione concessa con l'art. 5 della legge predetta;
+In virtu' della delegazione concessa con l'[art. 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5);
 
-Udito il parere, in data 24 agosto 1950, della Commissione parlamentare, nominata a norma dell'[art. 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), la quale ha esaminato il piano particolareggiato di espropriazione, compilato dall'Opera per la, valorizzazione della Sila, per i terreni ricadenti nel comune di Santa Severina (Catanzaro), della superficie di ettari 166.90.50, nei confronti di Berlingieri Giulio fu Pietro;
+Udito il parere, in data 19 aprile 1951, della Commissione parlamentare, nominata a norma dell'[art. 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), la quale ha esaminato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di Santa Severina (Catanzaro), della superficie di Ha. 61.55.79, nei confronti di Berlingieri Giulio fu Pietro;
 
 Sentito il Consiglio dei Ministri;
 
@@ -29,16 +29,15 @@ Art. 1
 ------
 
   
-E' approvato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di Santa Severina (Catanzaro), della superficie di ettari 166.90.50 nei confronti di Berlingieri Giulio fu Pietro.  
+E' approvato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di Santa Severina (Catanzaro), della superficie di Ha. 61.55.79, nei confronti di Berlingieri Giulio fu Pietro.  
 
 Art. 2
 ------
 
   
 E' ordinata la immediata occupazione, da parte dell'Opera per la valorizzazione della Sila, dei terreni, di cui al precedente art. 1, confinanti:  
-il primo corpo, della superficie di ettari 12.31.30, a nord con le particelle 1 e 79 del foglio 15, riportate alla partita 315 intestata a Poerio Pietro fu Vincenzo, con le particelle 196 e 130 del foglio 11, riportate alla partita 141 intestata al comune di Santa Severina; ad est, con la particella 207 del foglio 11, riportata alla partita 141 intestata al predetto Comune, a sud, con la strada, nazionale Soveria Mannelli-Santa Severina e, ad ovest, con il limite intercomunale con Rocca Bernarda;  
-il secondo corpo, della superficie di ettari 47.60.00, a nord, con la strada nazionale Soveria Mannelli-Santa Severina; ad est con le particelle 9 e 19 del foglio 16, riportate alla partita 500 intestata a D'Alfonso Mario, Salvatore e Francesco di Luigi; a sud, con la strada comunale Zumpo e, ad ovest, con il limite intercomunale con Rocca Bernarda; il corpo e' attraversato dal fosso Lucido;  
-il terzo corpo, della superficie di ettari 106.98.60, a nord con la partita 53 del foglio 22, riportata alla partita 141 intestata al comune di Santa Severina; ad est, con le particelle 24, 23, 28, 29, 30 del foglio 22, riportate alla partita. 61, intestata a Berlingieri Checchina fu Anselmo maritata Camicia; a sud, con la particella 99 del foglio 23, riportata alla partita 156 intestata a Cutugno Francesco di Alfonso, con la particella 102 del foglio 23, riportata alla partita 547 intestata a Palmieri Antonio di Gaetano e limite intercomunale di San Mauro Marchesato; ad ovest, con il limite intercomunale di Rocca Bernarda.  
+il primo corpo, della superficie di Ha. 50.13.99, ad est, con le proprieta' di Berlingieri Checchina e della Prebenda parrocchiale di San Nicola Vescovo e Santa Maria Maggiore, goduta dal sacerdote Nocita Giuseppe fu Antonio e con la strada comunale Santa Severina San Mauro Marchesato; ad ovest, con la strada nazionale Crotone-San Giovanni in Fiore e con le proprieta' di Berlingieri Checchina; a sud, con le proprieta', di Apa Salvatore fu Nicola e di Berlingieri Checchina; a nord, con le proprieta' di quest'ultima;  
+il secondo corpo, della superficie di Ha. 11.41.80, ad est, con il limite intercomunale di San Mauro Marchesato; ad ovest, con la strada comunale Santa Severina San Mauro Marchesato; a sud, con la proprieta' di Berlingieri Checchina; a nord, con le proprieta' di questa ultima e di Cirillo Fortunato fu Francesco.  
 
 Art. 3
 ------
@@ -50,28 +49,28 @@ Art. 4
 ------
 
   
-L'elenco dei terreni compresi nel piano di espropriazione di cui all'art. 1, con l'indicazione dell'indennita' offerta, munito del visto del Ministro proponente, forma parte integrante del presente decreto, che entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
+L'elenco dei terreni, compresi nel piano di espropriazione di cui all'art. 1, con l'indicazione dell'indennita' offerta, munito del visto del Ministro proponente, forma parte integrante del presente decreto, che entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 settembre 1950
+### Dato a Roma, addi' 5 giugno 1951
 
 EINAUDI DE GASPERI - SEGNI
 
 Visto, il Guardasigilli: PICCIONI
 
-Registrato alla Corte dei conti, addi' 22 settembre 1950
+Registrato alla Corte dei conti, addi' 3 luglio 1951
 
-Atti del Governo, registro n. 35, foglio n. 129. - CARLOMAGNO
+Atti del Governo, registro n. 40, foglio n. 9 - CARLOMAGNO
 
 Elenco
 
  COMUNE DI SANTA SEVERINA (Catanzaro)   
-  
 Elenco dei terreni espropriati nei confronti di Berlingieri Giulio fu Pietro a termini degli [articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art1) e [2 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art2)
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=050U076600100010110001&dgu=1950-09-23&art.dataPubblicazioneGazzetta=1950-09-23&art.codiceRedazionale=050U0766)
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=051U050800100010110001&dgu=1951-07-10&art.dataPubblicazioneGazzetta=1951-07-10&art.codiceRedazionale=051U0508)
   

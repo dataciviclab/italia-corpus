@@ -1,69 +1,103 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1982 n. 720
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1246
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1982 n. 720
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1246
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Padova approvato con [regio decreto 14 ottobre 1926, n. 2133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2133), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Nell'art. 58, relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-didattica del latino;  
-filologia micenea;  
-linguistica storica;  
-rilievo e analisi tecnica dei monumenti antichi;  
-storia della Chiesa medioevale;  
-storia della Chiesa in eta' moderna e contemporanea;  
-filologia musicale;  
-storia della musica medioevale e rinascimentale.  
-Nell'art. 60, relativo al corso di laurea in lingue e letterature straniere moderne, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-lingua e letteratura tedesca medioevale;  
-lingua e letteratura inglese medioevale;  
-storia della lingua portoghese;  
-storia della critica letteraria francese.  
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939 n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Art. 96 - all'elenco degli insegnamenti complementari del corso di laurea in chimica industriale sono aggiunti i seguenti:  
+chimica e tecnologia delle macromolecole;  
+sintesi elettrochimiche;  
+termodinamica dei processi irreversibili;  
+scienza dei materiali;  
+chimica e tecnologia degli elettroditi fusi;  
+chimica e tecnologia dei metalli di transizione.  
+Lo stesso elenco e' modificato nel senso che gli insegnamenti di chimica dei combustibili e propellenti e di chimica applicata ai materiali mutano rispettivamente la denominazione in quella di chimica dei combustibili e di chimica applicata.  
+Nello stesso articolo l'ultimo comma e' modificato nel senso che al n. 5) indirizzo petrolchimico deve leggersi:  
+5) indirizzo petrolchimico.  
+L'art. 101, relativo all'ordinamento degli studi per il conseguimento della laurea in matematica, e' modificato nel senso che i paragrafi che vanno dalla riga "indirizzo didattico" inclusa alla riga "indirizzo applicativo" esclusa sono abrogati e sostituiti dai seguenti:  
+Indirizzo didattico:  
+a) didattico;  
+b) didattico logico.  
+Nell'orientamento A) i corsi fondamentali obbligatori sono:  
+3° Anno:  
+matematiche elementari da un punto di vista superiore.  
+4° Anno:  
+matematiche complementari.  
+Al quarto anno sono inoltre prescritti due insegnamenti complementari da scegliersi nel seguente elenco:  
+1) astronomia;  
+2) chimica generale (annuale);  
+3) complementi di fisica generale (annuale);  
+4) istituzioni di algebra superiore;  
+5) istituzioni di fisica nucleare;  
+6) logica matematica;  
+7) pedagogia matematica;  
+8) storia delle matematiche;  
+9) struttura della materia.  
+Uno degli insegnamenti complementari dovra' essere ad indirizzo fisico.  
+Nell'orientamento B) i corsi fondamentali obbligatori sono:  
+3° Anno:  
+istituzioni di logica matematica.  
+4° Anno:  
+matematiche complementari.  
+Al quarto anno sono inoltre prescritti due insegna menti complementari da scegliersi nel seguente elenco:  
+1) algebra di Boole;  
+2) algebra universale;  
+3) chimica generale (annuale);  
+4) filosofia della matematica;  
+5) istituzioni di algebra superiore;  
+6) logica matematica;  
+7) logica modale;  
+8) logiche non classiche;  
+9) matematiche elementari da un punto di vista superiore;  
+10) storia delle matematiche;  
+11) struttura della materia;  
+12) teoria degli insiemi;  
+13) teoria dei modelli;  
+14) teoria della ricorsivita';  
+15) teoria delle categorie.  
+Uno degli insegnamenti complementari dovra' essere ad indirizzo fisico.  
+L'art. 298, relativo ai corsi della scuola di specializzazione in chimica analitica, e' modificato nel senso che sono aggiunti i seguenti corsi semestrali:  
+principi di strumentazione analitica;  
+tecniche termometriche;  
+chimica analitica clinica;  
+chimica analitica dell'inquinamento ambientale;  
+tecniche spettroscopiche.  
+Dallo stesso elenco sono soppressi i seguenti corsi:  
+tecniche ottiche;  
+tecniche spettrofotometriche.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 luglio 1982
+### Dato a Roma, addi' 31 ottobre 1977
 
-PERTINI BODRATO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 28 settembre 1982
+Registrato alla Corte dei conti, addi' 18 luglio 1978
 
-Registro n. 112 Istruzione, foglio n. 366
+Registro n. 77 Istruzione, foglio n. 335

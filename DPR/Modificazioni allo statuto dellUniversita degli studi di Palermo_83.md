@@ -1,42 +1,102 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 novembre 1956 n. 1605
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 791
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 novembre 1956 n. 1605
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 791
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con i [regi decreti 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2240); [31 ottobre 1929, n. 2477](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1929-10-31;2477); [30 ottobre 1930, numero 1844](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1844); [1 ottobre 1931, n. 1379](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1379); [20 ottobre 1932, n. 1806](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-20;1806); [26 ottobre 1933, n. 1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1933-10-26;1991); [6 dicembre 1934, numero 2430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2430); [1 ottobre 1936, n. 2449](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2449); [23 giugno 1939, n. 1167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-06-23;1167); [27 aprile 1942, n. 485](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;485); [11 luglio 1942, n. 922](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-11;922); [5 settembre 1942, n. 1429 e con decreti del Capo Provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-09-05;1429) [13 luglio 1947, n. 826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-07-13;826) e [31 dicembre 1947, n. 1870 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1870) [28 ottobre 1948, n. 1431](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-10-28;1431); [30 ottobre 1949, n. 1151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1151); [16 dicembre 1950, n. 1314](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-12-16;1314); [11 febbraio 1952, n. 999](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-11;999); [16 agosto 1952, n. 1354](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-08-16;1354); [19 luglio 1955, n. 762](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-19;762); [31 agosto 1955, n. 913](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-08-31;913); [20 settembre 1955, n. 938](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-20;938); [20 giugno 1956, n. 727](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-06-20;727) e [11 settembre 1956, n. 1155](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-09-11;1155);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 3 novembre 1952, n. 1787](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-11-03;1787);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
   
 Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 32. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di "statistica sanitaria".  
+Art. 147 - all'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola di specializzazione in chirurgia toracica.  
+
+Art. 2
+------
+
+  
+  
+Dopo l'art. 196, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia toracica:   
+  
+Scuola di specializzazione in chirurgia toracica   
+  
+Art. 197. - La scuola di specializzazione in chirurgia toracica ha sede presso l'istituto di patologia speciale chirurgica e propedeutica clinica e conferisce il diploma di specialista in chirurgia toracica.   
+Art. 198. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 199. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente.   
+Art. 200. - La durata del corso e' di cinque anni, non suscettibile di abbreviazione e prevede l'insegnamento di tutte le branche della chirurgia toracica, chirurgia polmonare, chirurgia cardiaca, chirurgia esofagea, chirurgia del mediastino e della parete toracica.   
+Art. 201. - Il numero degli allievi e' di sei per anno di corso e complessivamente di trenta iscritti per l'intero corso di studi.   
+Art. 202. - L'ammissione al corso avviene per concorso per titoli ed esami.   
+Art. 203. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+1) embriologia, anatomia descrittiva e topografica del torace e degli organi endotoracici;   
+2) anatomia chirurgica del torace e degli organi endotoracici;   
+3) anatomia patologica delle malattie del torace (biennale) I;   
+4) anestesia in chirurgia toracica.   
+2° Anno:   
+1) fisiopatologia dell'apparato respiratorio;   
+2) fisiopatologia dell'apparato cardiocircolatorio;   
+3) semeiotica dell'apparato respiratorio, dell'esofago e del mediastino;   
+4) semeiotica dell'apparato cardiocircolatorio;   
+5) anatomia patologica delle malattie del torace (biennale) II.   
+3° Anno:   
+1) patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (biennale) I;   
+2) patologia e clinica chirurgica delle affezioni del cuore e dei grossi vasi endotoracici;   
+3) patologia e clinica chirurgica delle affezioni dell'esofago e del diaframma;   
+4) elementi di terapia medica delle cardio-angiopatie;   
+5) elementi di fisioterapia respiratoria;   
+6) diagnostica radiologica nelle malattie chirurgiche del torace.   
+4° Anno:   
+1) patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (biennale) II;   
+2) tecnica operatoria per le affezioni della parete toracica, dell'apparato respiratorio, dell'esofago, del mediastino e del diaframma (biennale) I;   
+3) tecnica operatoria delle affezioni del cuore, pericardio e grossi vasi endotoracici;   
+4) principi e tecniche della circolazione extracorporea.   
+5° Anno:   
+1) terapia intensiva e rianimazione in chirurgia toracica;   
+2) tecnica operatoria per le affezioni della parete toracica, dell'apparato respiratorio, dell'esofago, del mediastino e del diaframma (biennale) II;   
+3) terapia chirurgica della tbc pleuropolmonare.   
+Art. 204. - Il corso si compone di lezioni, di esercitazioni pratiche, di frequenza obbligatoria ai fini di apprendimento, di conferenze riguardanti argomenti specialistici, di turni in corsia ed in sala operatoria. La frequenza ai corsi, in corsia ed in sala operatoria, alle esercitazioni e' obbligatoria.   
+In caso contrario i candidati non possono ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.   
+Art. 205.- Alla fine di ciascun anno di corso gli specialisti che abbiano ottenuto la firma di frequenza devono sostenere un esame di profitto sulle materie di insegnamento il cui superamento e' condizione necessaria ed indispensabile per ottenere l'iscrizione all'anno successivo e, per quelli che sono stati iscritti al quinto anno, per l'ammissione all'esame di diploma.   
+Durante il corso gli specializzandi frequentano la sala operatoria in maniera assidua, devono assistere a numerosi interventi in chirurgia toracica ed essere in grado di eseguirne essi stessi.   
+Art. 206. - Per tutti gli specializzandi che hanno superato gli esami dei cinque anni, alla fine del quinto anno di corso ha luogo l'esame di diploma, consistente nella presentazione e discussione di una dissertazione scritta su un argomento di chirurgia toracica concordato con la direzione della scuola.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 novembre 1956
+### Dato a Roma, addi' 31 ottobre 1979
 
-GRONCHI ROSSI
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 8 febbraio 1957
+Registrato alla Corte dei conti, addi' 22 febbraio 1980
 
-Atti del Governo, registro n. 104, foglio n. 18. - CARLOMAGNO
+Registro n. 13 Istruzione, foglio n. 324

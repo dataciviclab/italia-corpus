@@ -1,19 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 luglio 1985 n. 684
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 gennaio 1965 n. 20
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 luglio 1985 n. 684
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 gennaio 1965 n. 20
 =============================================================
 
-Autorizzazione all'istituto "Giuseppe Toniolo" di studi superiori, in Milano, ad accettare un legato.
------------------------------------------------------------------------------------------------------
+Autorizzazione all'istituto Giuseppe Toniolo di studi superiori, in Milano, ad accettare un legato.
+---------------------------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-684. Decreto del Presidente della Repubblica 17 luglio 1985, col quale, sulla proposta del Ministro della pubblica istruzione, l'istituto "Giuseppe Toniolo" di studi superiori, in Milano, viene autorizzato ad accettare il legato, consistente nella nuda proprieta' di un appartamento sito in Pisa nella via Martiri delle Fosse Ardeatine, 18, int. 12, del valore di lire 58.500.000 circa, disposto dalla sig.ra Teresa Marcantoni con testamento olografo 2 ottobre 1978, pubblicato in data 5 luglio 1983, n. 30647 di repertorio, a rogito dott. Enrico Chiodi Daelli, notaio in Milano, registrato a Milano in data 22 luglio 1983 al n. 13805.   
+20. Decreto del Presidente della Repubblica, 13 gennaio 1965, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto Giuseppe Toniolo di studi superiori, in Milano, viene autorizzato ad accettare un legato, consistente in beni immobili, azioni, obbligazioni industriali e titoli di Stato per un valore complessivo di circa duecento milioni di lire, disposto in suo favore dall'on. Giuseppe Cappi, giudice della Corte Costituzionale, morto in Roma il 12 luglio 1963, con testamento olografo in data 26 settembre 19460, pubblicato dal dott. Giuseppe Gambaro, notaio in Cremona, il 3 settembre 1963 al n. 8843/5052 di repertorio, registrato in Cremona il 6 settembre 1963 al n. 483, vol. 271.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 12 novembre 1985   
-Registro n. 76 Istruzione, foglio n. 321
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 13 febbraio 1965  
+Atti del Governo, registro n. 190, foglio n. 94. - VILLA

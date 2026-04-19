@@ -1,214 +1,68 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1116
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1969 n. 394
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1116
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1969 n. 394
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Camerino.
 --------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Camerino, approvato con [decreto del Presidente della Repubblica 11 novembre 1959, n. 1388](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-11-11;1388) e modificato con [decreto del Presidente della Repubblica 18 agosto 1962, n. 1392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-08-18;1392), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio, superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Camerino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 19. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche sono aggiunti i seguenti:
-
-per l'indirizzo politico-amministrativo:
-
-Diritto canonico;
-
-Diritto dell'economia;
-
-Diritto tributario;
-
-Storia delle istituzioni politiche.
-
-per l'indirizzo politico sociale:
-
-Politica economica e finanziaria;
-
-Diritto dell'economia;
-
-Diritto tributario;
-
-Storia delle istituzioni politiche.
-
-per l'indirizzo politico-internazionale:
-
-Politica economica finanziaria;
-
-Diritto dell'economia.
-
-Dopo l'art. 56 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di perfezionamento in analisi chimico-cliniche.
-
-Statuto della scuola di perfezionamento in analisi chimico-cliniche
-
-Art. 57. - E' istituita, presso l'Universita' di Camerino, la scuola di perfezionamento in analisi chimicocliniche, con l'intento di assicurare ai laureati in discipline chimico-biologiche la possibilita' di un perfezionamento nelle materie necessarie ad esercitare la propria attivita' in un laboratorio di analisi cliniche.
-
-Art. 58. - La scuola rilascia il diploma di perfezionamento in analisi chimico-cliniche al termine del corso di studi che ha durata biennale.
-
-Art. 59. - Alla scuola di perfezionamento possono iscriversi i laureati in scienze biologiche, in chimica, in farmacia e in chimica e tecnologia farmaceutiche, che abbiano sostenuto nei rispettivi corsi di laurea almeno quattro dei seguenti esami: chimica biologica, fisiologia generale, anatomia umana, esercitazioni di analisi chimica qualitativa o analisi chimico farmaceutica I (an. qual.) o esercitazioni di chimica farmaceutica e tossicologica I, esercitazioni di analisi chimica quantitativa o analisi chimico farmaceutica II (analisi quantitativa) o esercitazioni di chimica farmaceutica e tossicologica II, igiene o microbiologia, o microbiologia e igiene, chimica analitica.
-
-Art. 60. - Gli insegnamenti della scuola sono i seguenti:
-
-1° Anno:
-
-1) Chimica clinica;
-
-2) Analisi chimico-cliniche I;
-
-3) Elementi di chimica fisica biologica;
-
-4) Patologia generale;
-
-5) Microbiologia con analisi microbiologiche;
-
-6) Organizzazione di laboratorio chimico-clinico.
-
-2° Anno:
-
-1) Analisi chimico-cliniche II;
-
-2) Elementi di calcolo statistico;
-
-3) Istologia;
-
-4) Elementi di immunologia e virologia;
-
-5) Elementi di ematologia ed analisi ematologica;
-
-6) Elementi di diritto e di legislazione.
-
-Art. 61. - La scuola e' organizzata dall'universita' presso i laboratori di istologia, chimica biologica, igiene, fisiologia generale e microbiologia e i corsi sono svolti con la collaborazione di studiosi ed esperti invitati per la effettuazione di conferenze, seminari e dimostrazioni.
-
-La direzione della scuola e' affidata ad un docente eletto dal consiglio direttivo costituito dai direttori degli istituti ai quali fanno capo i laboratori di cui sopra.
-
-Art. 62. - Gli incarichi di insegnamento annuali e biennali sono conferiti dal rettore su proposta del consiglio direttivo della scuola, con l'approvazione del senato accademico e del consiglio di amministrazione dell'universita'.
-
-Art. 63. - Gli iscritti alla scuola sono tenuti a pagare la tassa di iscrizione annuale di L. 150.000.
-
-Art. 64. - Il numero massimo di iscritti alla scuola e' di 60 per ogni anno di corso. Iscrizioni in numero superiore possono essere ammesse eccezionalmente su parere favorevole del consiglio direttivo della scuola.
-
-L'ammissione alla scuola e' decisa dal consiglio direttivo sulla base di una valutazione dei titoli.
-
-La frequenza e' obbligatoria sia per i corsi che per i laboratori.
-
-Art. 65. - La scuola e' finanziata con le quote di iscrizione e attraverso contributi, lasciti o donazioni di enti e di privati.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1972
-
-LEONE
-
-SCALFARO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 21 marzo 1973 Atti di Governo, registro n. 256, foglio n. 109. - VALENTINI
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Camerino, approvato con [decreto del Presidente della Repubblica 11 novembre 1959, n. 1388](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-11-11;1388) e modificato con [decreto del Presidente della Repubblica 18 agosto 1962, n. 1392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-08-18;1392), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio, superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Camerino, approvato con [decreto del Presidente della Repubblica 1 novembre 1959, n. 1388](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-11-01;1388) e modificato con [decreto del Presidente della Repubblica 18 agosto 1962, n. 1392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-08-18;1392) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Camerino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 19. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche sono aggiunti i seguenti:   
-per l'indirizzo politico-amministrativo:   
-  
-Diritto canonico;   
-Diritto dell'economia;   
-Diritto tributario;   
-Storia delle istituzioni politiche.   
-  
-per l'indirizzo politico sociale:   
-  
-Politica economica e finanziaria;   
-Diritto dell'economia;   
-Diritto tributario;   
-Storia delle istituzioni politiche.   
-  
-per l'indirizzo politico-internazionale:   
-  
-Politica economica finanziaria;   
-Diritto dell'economia.   
-  
-Dopo l'art. 56 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di perfezionamento in analisi chimico-cliniche.   
-  
-Statuto della scuola di perfezionamento in analisi chimico-cliniche   
-Art. 57. - E' istituita, presso l'Universita' di Camerino, la scuola di perfezionamento in analisi chimicocliniche, con l'intento di assicurare ai laureati in discipline chimico-biologiche la possibilita' di un perfezionamento nelle materie necessarie ad esercitare la propria attivita' in un laboratorio di analisi cliniche.   
-Art. 58. - La scuola rilascia il diploma di perfezionamento in analisi chimico-cliniche al termine del corso di studi che ha durata biennale.   
-Art. 59. - Alla scuola di perfezionamento possono iscriversi i laureati in scienze biologiche, in chimica, in farmacia e in chimica e tecnologia farmaceutiche, che abbiano sostenuto nei rispettivi corsi di laurea almeno quattro dei seguenti esami: chimica biologica, fisiologia generale, anatomia umana, esercitazioni di analisi chimica qualitativa o analisi chimico farmaceutica I (an. qual.) o esercitazioni di chimica farmaceutica e tossicologica I, esercitazioni di analisi chimica quantitativa o analisi chimico farmaceutica II (analisi quantitativa) o esercitazioni di chimica farmaceutica e tossicologica II, igiene o microbiologia, o microbiologia e igiene, chimica analitica.   
-Art. 60. - Gli insegnamenti della scuola sono i seguenti:   
-1° Anno:   
-1) Chimica clinica;   
-2) Analisi chimico-cliniche I;   
-3) Elementi di chimica fisica biologica;   
-4) Patologia generale;   
-5) Microbiologia con analisi microbiologiche;   
-6) Organizzazione di laboratorio chimico-clinico.   
-2° Anno:   
-1) Analisi chimico-cliniche II;   
-2) Elementi di calcolo statistico;   
-3) Istologia;   
-4) Elementi di immunologia e virologia;   
-5) Elementi di ematologia ed analisi ematologica;   
-6) Elementi di diritto e di legislazione.   
-Art. 61. - La scuola e' organizzata dall'universita' presso i laboratori di istologia, chimica biologica, igiene, fisiologia generale e microbiologia e i corsi sono svolti con la collaborazione di studiosi ed esperti invitati per la effettuazione di conferenze, seminari e dimostrazioni.   
-La direzione della scuola e' affidata ad un docente eletto dal consiglio direttivo costituito dai direttori degli istituti ai quali fanno capo i laboratori di cui sopra.   
-Art. 62. - Gli incarichi di insegnamento annuali e biennali sono conferiti dal rettore su proposta del consiglio direttivo della scuola, con l'approvazione del senato accademico e del consiglio di amministrazione dell'universita'.   
-Art. 63. - Gli iscritti alla scuola sono tenuti a pagare la tassa di iscrizione annuale di L. 150.000.   
-Art. 64. - Il numero massimo di iscritti alla scuola e' di 60 per ogni anno di corso. Iscrizioni in numero superiore possono essere ammesse eccezionalmente su parere favorevole del consiglio direttivo della scuola.   
-L'ammissione alla scuola e' decisa dal consiglio direttivo sulla base di una valutazione dei titoli.   
-La frequenza e' obbligatoria sia per i corsi che per i laboratori.   
-Art. 65. - La scuola e' finanziata con le quote di iscrizione e attraverso contributi, lasciti o donazioni di enti e di privati.   
+Lo statuto dell'Universita' degli studi di Camerino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 27. - L'elenco degli insegnamenti complementari del corso di laurea in chimica (indirizzo organico-biologico) e' abrogato e sostituito dal seguente:  
+1. Chimica organica industriale  
+2. Chimica biologica  
+3. Chimica farmaceutica  
+4. Chimica bromatologica  
+5. Farmacologia  
+6. Chimica delle fermentazioni e batteriologia industriale  
+7. Chimica agraria  
+8. Elettrochimica  
+9. Storia della chimica  
+10. Fisiologia generale  
+11. Chimica merceologica  
+12. Spettroscopia  
+13. Radiochimica  
+14. Strutturistica chimica  
+15. Chimica organica superiore  
+16. Chimica delle sostanze naturali  
+17. Chimica teorica  
+18. Analisi chimica strutturale  
+19. Stereochimica organica  
+20. Esercitazioni di tecniche e sintesi speciali organiche  
+21. Fotochimica  
+22. Cromatografia analitica e preparativa  
+23. Chimica tossicologica  
+24. Biochimica applicata  
+25. Biologia molecolare  
+26. Analisi chimico-cliniche  
+27. Chimica farmaceutica applicata.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 2 maggio 1969
 
-LEONE SCALFARO
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 21 marzo 1973
+Registrato alla Corte dei conti, addi' 10 luglio 1969
 
-Atti di Governo, registro n. 256, foglio n. 109. - VALENTINI
+Atti del Governo, registro n. 227, foglio n. 174. - CARUSO

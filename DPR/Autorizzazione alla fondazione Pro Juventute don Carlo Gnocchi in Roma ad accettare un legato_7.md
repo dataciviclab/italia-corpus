@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 novembre 1978 n. 800
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980 n. 119
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 novembre 1978 n. 800
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980 n. 119
 ===============================================================
 
 Autorizzazione alla fondazione "Pro Juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-800. Decreto del Presidente della Repubblica 8 novembre 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla signora Achilli Luigia ved. Cencio con testamento olografo 7 novembre 1972, pubblicato dal notaio dott.ssa Giuseppina Porro in data 8 novembre 1976, n. 1743 e n. 31909 di repertorio, registrato a Cremona il 22 novembre 1976 al n. 2664 mod. 71/ M, consistente nella somma di L. 1.000.000.  
+119. Decreto del Presidente della Repubblica 7 febbraio 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella nuda proprieta' di un appartamento sito in Milano, via Plinio, 34, censito al nuovo catasto edilizio urbano alla partita 39305, foglio 316, mappale 276 sub 3, del valore periziato di L. 15.500.000, disposto dal sig. Celeste Angelo Quaglia, detto semplicemente Celeste, con testamento olografo 28 luglio 1976, pubblicato in data 28 febbraio 1977, n. 1446 di repertorio, a rogito dott. Antonio Sorgato, notaio in Milano, registrato a Varese in data 7 marzo 1977, n. 449, mod. 71/ M.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 13 dicembre 1978  
-Registro n. 8 Presidenza, foglio n. 53
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 31 marzo 1980  
+Registro n. 3 Presidenza, foglio n. 3

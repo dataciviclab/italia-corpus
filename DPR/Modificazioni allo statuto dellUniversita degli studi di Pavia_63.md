@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 978
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 712
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 978
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 712
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
@@ -24,20 +24,44 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 62, relativo alle norme dell'esame di laurea in medicina e chirurgia e' abrogato e sostituito dal seguente:  
-"L'esame di laurea in medicina e chirurgia consiste nella discussione di una dissertazione scritta da presentarsi in segreteria almeno venti giorni prima della apertura della sessione".  
-L'art. 318, relativo alla scuola per tecnici di radiologia medica e' modificato nel senso che il numero massimo degli iscritti passa da ventuno a trenta e gli iscritti per ogni anno di corso da sette a dieci.  
+Dopo l'art. 216 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in patologia generale:  
+  
+Scuola di specializzazione in patologia generale  
+  
+Art. 217. - Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia, in scienze biologiche o di altre facolta' nel cui ordinamento degli studi e' inserito l'insegnamento di patologia generale.  
+Il corso ha la durata di tre anni. Esso ha sede presso l'istituto di patologia generale.  
+Le iscrizioni ai singoli anni non potranno superare il numero di trenta.  
+Nel caso di eccedenza di domande, la scelta tra i richiedenti sara' fatta in base a concorso interno, per esame; gli aspiranti hanno l'obbligo di accertarsi presso l'istituto della eventuale data del concorso.  
+A giudizio del direttore, entro il numero stabilito per i singoli anni di corso, possono essere ammessi al 2° corso direttamente, i richiedenti sufficientemente forniti di titoli attinenti alla patologia generale (assistenti di patologia generale o materie affini; specializzati in altre discipline affini alla patologia generale, ecc.). I candidati non riconosciuti idonei all'esame di diploma potranno ripresentarsi dopo un altro anno di frequenza alla scuola. Ma se al secondo esame non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.  
+Art. 218. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) Eziologia generale (cause patogene: fisiche, chimiche e biologiche);  
+2) Patologia istochimica;  
+3) Patologia delle infezioni;  
+4) Laboratorio di patologia generale (triennale).  
+2° Anno:  
+5) Patologia dell'infezione;  
+6) Immunologia;  
+7) Fisiopatologia sistemica (biennale); (fisiopatologia della termoregolazione, del cuore e dei vasi, della respirazione);  
+8) Patologia del metabolismo (dei protidi, dei lipidi, dell'acqua e dei minerali e dei bioregolatori);  
+9) Laboratorio di patologia generale.  
+3° Anno:  
+10) Fisiopatologia sistemica (della digestione, del rene, del sangue e del sistema neuro-endocrino);  
+11) Patologia oncologica;  
+12) Laboratorio di patologia generale.  
+Alla fine di ogni anno saranno sostenuti gli esami di ciascuna delle materie suindicate.  
+Per conseguire il diploma di specializzazione in patologia generale, al termine del corso triennale oltre ad aver superato tutti gli esami nelle singole materie, e' di obbligo presentare una dissertazione scritta, preferibilmente di carattere sperimentale, elaborata nello istituto.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 22 settembre 1972
 
 LEONE SCALFARO
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 7 febbraio 1973
+Registrato alla Corte dei conti, addi' 21 novembre 1972
 
-Atti di Governo, registro n. 255, foglio n. 81. - VALENTINI
+Atti del Governo, registro n. 253, foglio n. 60. - CARUSO

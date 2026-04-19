@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1975 n. 567
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 164
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1975 n. 567
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 164
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad ac
 Art. 1
 ------
 
-N.
+n.
 
-567. Decreto del Presidente della Repubblica 24 settembre 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare un legato, consistente in 470 azioni immobiliari "Isaia Volonte'" per un valore presunto di L. 836.000, disposto dalla sig.ra Rosa Maria Montonati con testamento olografo in data 20 gennaio 1968, pubblicato in data 10 marzo 1971, n. 21588 di repertorio, n. 5509 di raccolta, a rogito dott. Brighina Giuseppe, notaio in Sesto Calende (Varese), registrato a Gallarate (Varese) il 25 marzo 1971 al n. 1019, vol. 212.  
+164. Decreto del Presidente della Repubblica 10 febbraio 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 20.000.000, disposto dalla sig.ra Carugati Margherita con testamento olografo 6 luglio 1971, pubblicato in data 13 gennaio 1984, n. 8303/700 di repertorio, a rogito dott. Antonio Tremolada, notaio in Milano, registrato a Milano in data 19 gennaio 1984 al n. 00808.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 25 novembre 1975  
-Atti di Governo, registro n. 14, foglio n. 27
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 22 aprile 1986  
+Registro n. 4 Presidenza, foglio n. 49

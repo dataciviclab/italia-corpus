@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1974 n. 817
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1960 n. 330
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1974 n. 817
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1960 n. 330
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
@@ -10,15 +10,13 @@ Modificazioni allo statuto dell'Universita' degli studi di Messina.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, numero 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), modificato con regio decreto 26 ottobre 1940 e successivi;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -32,162 +30,404 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 188, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti nuovi articoli relativi alla scuola di specializzazione in microbiologia applicata presso la facolta' di scienze matematiche, fisiche e naturali.
+Dopo l'art. 112 sono aggiunti i seguenti nuovi articoli alle Scuole di specializzazione seguenti:
 
-Scuola di specializzazione in microbiologia applicata
+Scuola di specializzazione in medicina del lavoro
 
-Art. 189. - E' istituita presso l'istituto di microbiologia della facolta' di scienze la scuola di specializzazione in microbiologia applicata, che e' disciplinata in conformita' alle norme generali delle vigenti disposizioni di legge sulle scuole di specializzazione delle Universita', alle norme generali dello statuto relative alle scuole di specializzazione dell'Universita' di Messina ed alle norme del seguente ordinamento. - La scuola ha lo scopo di allargare e completare sul piano scientifico la cultura di coloro che si dedicano allo studio della microbiologia e di fornire sul piano tecnico una preparazione pratica specifica.
+Art. 113. - La Scuola di specializzazione ha sede temporanea presso la Clinica dermosifilopatica, in attesa che sia definitivamente approvata la sede propria dell'Istituto. Titolo necessario per l'ammissione alla Scuola di specializzazione in medicina del lavoro, e' la laurea in medicina e chirurgia.
 
-Art. 190. - Possono essere ammessi alla scuola di specializzazione in microbiologia applicata.
+La Scuola e' disciplinata secondo le norme generali dello statuto relativo alle Scuole di specializzazione in medicina e chirurgia e secondo le norme del seguente ordinamento.
 
-1) i laureati in scienze biologiche, in scienze naturali, in medicina veterinaria ed in farmacia che nel piano di studi per il conseguimento della laurea abbiano incluso il corso di microbiologia e superato il relativo esame;
+Art. 114. - Il corso ha la durata di due anni. Il numero degli iscritti a ciascuno dei due anni di corso sara' al massimo di dodici.
 
-2) i laureati in medicina e chirurgia;
+Art. 115. - Le materie d'insegnamento distinte per anno, sono le seguenti:
 
-3) i laureati in agraria;
+1° anno:
 
-4) i laureati in chimica e chimica industriale.
+Igiene del lavoro;
 
-I laureati in scienze naturali e scienze biologiche, medicina veterinaria, in farmacia, in chimica ed in chimica industriale che non abbiano comprese nel piano di studi la microbiologia frequenteranno un corso integrativo di microbiologia.
+Fisiologia del lavoro;
 
-Tale corso sara' pratico e teorico ed avra' luogo entro il mese di ottobre di ciascun anno. La commissione per l'esame di ammissione alla scuola e' formata dal direttore della scuola, da un professore di ruolo e da un libero docente che siano nel contempo docenti della scuola.
+Tossicologia professionale;
 
-Art. 191. - Il corso degli studi per il conseguimento del diploma di specializzazione ha la durata di anni tre ed ha luogo presso l'istituto di microbiologia della facolta' di scienze dell'Universita' di Messina.
+Patologia del lavoro;
 
-Art. 192. - Il numero degli iscritti al primo anno di corso non puo' superare il numero di dodici. Nel caso di domande eccedenti, la selezione verra' effettuata mediante concorso con norme che verranno precisate nel manifesto annuale. A quegli aspiranti che, oltre alle condizioni prescritte per la ammissione, documentino il possesso di titoli comprovanti una speciale preparazione nel campo della microbiologia, potra' essere consentita, su proposta del direttore della scuola, l'iscrizione direttamente al secondo anno di corso.
+Psicotecnica.
 
-Art. 193. - La direzione della scuola e' affidata ad un professore di microbiologia di ruolo e fuori ruolo.
+2° anno:
 
-Il direttore della scuola puo' nominare un vice-direttore che lo coadiuvi e lo supplisca ed un segretario.
+Clinica del lavoro;.
 
-Art. 194. - Il numero degli ammessi non potra' di norma superare il numero assegnato al corso. Sono ammessi in soprannumero i riprovati degli anni precedenti e coloro che, per giustificato motivo, avessero interrotto la successione degli studi.
+Radiologia e terapia fisica in rapporto alle malattie del lavoro;
 
-Art. 195. - L'ordine degli studi (distribuzione degli insegnamenti nei diversi anni del corso) e l'ordine e le modalita' degli esami verranno stabilite nel manifesto annuale.
+Dermatologia professionale;
 
-Art. 196. - Gli insegnamenti impartiti sono i seguenti:
+Infortunistica medico-chirurgica (apparato locomotore e sistema nervoso); con particolare riguardo alla prevenzione;
 
-1° Anno:
+Medicina legale del lavoro.
 
-1) Microbiologia generale e tecnica microbiologica;
+Art. 116. - Lo specializzando al termine dei corsi, presentera' una dissertazione scritta su argomento della specialita', che sara' posta in discussione al relativo esame di diploma; al candidato, che avra' superato lo esame di specializzazione, sara' rilasciato un regolare diploma di "Specialista in medicina del lavoro".
 
-2) Chimica microbiologica;
+Scuola di specializzazione in ostetricia e ginecologia
 
-3) Statistica applicata alla microbiologia e dosaggio biologico;
+Art. 117. - La Scuola ha sede presso la Clinica ostetrica e ginecologica della Universita', ed e' disciplinata secondo le norme generali dello statuto relativo alle Scuole di specializzazione in medicina e chirurgia e secondo le norme del seguente ordinamento.
 
-4) Genetica dei micro-organismi.
+Art. 118. - Titolo necessario per l'ammissione alla Scuola di specializzazione in clinica ostetrica e ginecologica e' la laurea in medicina e chirurgia.
 
-2° Anno:
+Il corso ha la durata di anni quattro. Il numero degli iscritti per ciascun anno di corso non sara' superiore a sei.
 
-5) Batteriologia speciale;
+Art. 119. - Le materie d'insegnamento sono:
 
-6) Protozoologia e micologia;
+1° anno:
 
-7) Virologia generale;
+Anatomia descrittiva e topografica dell'apparato genitale femminile;
 
-8) Sierologia.
+Fisiologia della generazione;
 
-3° Anno:
+Elementi di embriologia;
 
-9) Virologia applicata;
+Semeiotica clinica ostetrica e ginecologica.
 
-10) Microbiologia del suolo, delle acque e degli alimenti;
+2° anno:
 
-11) Microbiologia applicata alla diagnostica delle malattie infettive dell'uomo, degli animali e delle piante;
+Semeiotica clinica ostetrica e ginecologica;
 
-12) Chimica delle fermentazioni e microbiologia applicata.
+Anatomia patologica dell'apparato genitale femminile;
 
-Art. 197. - Il direttore puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari con conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti dalla scuola.
+Puericultura pre-natale e post-natale.
 
-Art. 198. - Gli iscritti al corso sono tenuti ad osservare l'orario delle lezioni e delle esercitazioni ed hanno l'obbligo di frequentare per tutta la durata del corso e di ottenere l'attestazione di frequenza per poter essere ammessi a sostenere gli esami.
+3° anno:
 
-Art. 199. - Per essere ammessi all'esame di diploma gli iscritti debbono avere superato tutti gli esami.
+Clinica ostetrica e ginecologica;
 
-L'esame di diploma consiste in una prova pratica e nella discussione di una dissertazione scritta di carattere sperimentale su argomenti di microbiologia. I candidati non riconosciuti idonei potranno ripresentarsi dopo un altro anno di frequenza alla scuola, ma se al secondo esame non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.
+Radiologia - Urologia;
 
-A coloro che abbiano superato l'esame di diploma verra' rilasciato un diploma di specializzazione in microbiologia applicata.
+Elementi di anestesiologia.
+
+4° anno:
+
+Clinica ostetrica e ginecologica;
+
+Medicina legale;
+
+Elementi di immunologia;
+
+Tecniche diagnostiche di laboratorio.
+
+Art. 120. - Gli specializzandi dovranno aver sostenuto ogni anno gli esami del corso per ottenere l'ammissione al corso successivo.
+
+Art. 121. - I corsi di insegnamento si uniformeranno al calendario accademico dell'Universita'. Per quanto riguarda invece le esercitazioni ed i servizi interni, la attivita' della Scuola si estendera' all'intero anno solare.
+
+Art. 122. - Lo specializzando alla fine dei corsi, presentera' una dissertazione scritta su argomento della specialita', che sara' posta in discussione al relativo esame di diploma. Al candidato, che avra' superato l'esame di specializzazione, sara' rilasciato un regolare diploma di "Specialista in ostetricia e ginecologia".
+
+Scuola di specializzazione in igiene, tecnica e direzione ospedaliera
+
+Art. 123. - La Scuola di perfezionamento in igiene, tecnica e direzione ospedaliera ha sede presso l'Istituto di igiene ed e' retta dal professore di ruolo d'igiene.
+
+Art. 124. - Titolo necessario per l'ammissione e' la laurea in medicina e chirurgia.
+
+Art. 125. - Il corso degli studi per il conseguimento del diploma di specialista ha la durata di due anni.
+
+Il numero degli iscritti per ciascun anno di corso non potra' essere superiore a dodici.
+
+Art. 126. - Le materie d'insegnamento sono le seguenti:
+
+1° anno:
+
+1) L'assistenza ospedaliera nel quadro dell'organizzazione sanitaria;
+
+Storia degli ospedali e delle costruzioni ospedaliere;
+
+2) Demografia e statistica sanitaria;
+
+3) Epidemiologia e profilassi delle malattie infettive;
+
+4) Igiene e tecnica delle costruzioni ospedaliere, arredamento ed impianti sanitari (1° corso);
+
+5) Organizzazione e funzionamento degli ospedali generali (1° corso);
+
+6) Diagnostica di laboratorio delle malattie infettive e parassitarie.
+
+2° anno:
+
+1) Diritto amministrativo e legislazione ospedaliera;
+
+2) Igiene e tecnica delle costruzioni ospedaliere, arredamento ed impianti sanitari (2° corso);
+
+3) Organizzazione e funzionamento degli ospedali generali (2° corso);
+
+4) Organizzazione e funzionamento degli ospedali speciali;
+
+5) Alimentazione e dietetica ospedaliera;
+
+6) Istruzioni professionali del personale di assistenza.
+
+Gli insegnamenti sono integrati da esercitazioni pratiche presso l'Istituto d'igiene, da tirocini presso direzioni sanitarie di ospedali, da visite ad ospedali ed impianti medico-sanitari.
+
+Saranno altresi', tenute conferenze su argomenti attinenti alle discipline igieniche e alla organizzazione dei servizi di assistenza ospedaliera.
+
+Art. 127. - Per ottenere l'ammissione al secondo anno gli specializzandi dovranno aver superato gli esami delle materie annuali del 1° corso.
+
+Art. 128. - Lo specializzando alla fine dei corsi, presentera' una dissertazione scritta su argomento della specialita', che sara' posta in discussione al relativo esame di diploma. Al candidato, che avra' superato l'esame di specializzazione, sara' rilasciato un regolare diploma di "Specialista in igiene, tecnica e direzione ospedaliera".
+
+Scuola di specializzazione in igiene e medicina scolastica
+
+Art. 129. - La Scuola di specializzazione in igiene e medicina scolastica ha sede presso gli Istituti di igiene e clinica pediatrica. Il Consiglio di Facolta' designa ogni due anni, il direttore della Scuola tra i professori ufficiali di igiene e di clinica pediatrica.
+
+Art. 130. - Titolo necessario per l'ammissione e' la laurea in medicina e chirurgia.
+
+Art. 131. - Il corso degli studi per il conseguimento del diploma di specialista ha la durata di anni due.
+
+Il numero degli iscritti per ciascun corso non potra' essere superiore a dodici.
+
+Art. 132. - Le materie di insegnamento sono le seguenti:
+
+1° anno:
+
+1) Demografia e statistica sanitaria;
+
+2) Igiene dell'alimentazione;
+
+3) Igiene scolastica e legislazione scolastica;
+
+4) Patologia e clinica delle malattie proprie della eta' scolare (1° corso);
+
+5) Epidemiologia e profilassi delle malattie proprie dell'eta' scolare (1° corso);
+
+6) Diagnostica di laboratorio delle malattie infettive e parassitarie dell'eta' scolare.
+
+2° anno:
+
+1) Pedagogia e ortofrenia;
+
+2) Psicologia del lavoro mentale e psicologia sperimentale;
+
+3) Auxologia ed educazione fisica;
+
+4) Patologia e clinica delle malattie proprie della eta' scolare (2° corso) 5) Epidemiologia e profilassi delle malattie proprie dell'eta' scolare;
+
+6) Fisiopatologia dell'eta' puberale.
+
+Gli insegnamenti sono integrati da esercitazioni teoriche e pratiche, saranno altresi' tenute conferenze su argomenti attinenti all'igiene, all'organizzazione della assistenza medico-scolastica e alla neuropsichiatria infantile.
+
+Art. 133. - Per ottenere l'ammissione al secondo anno gli specializzandi dovranno aver superato gli esami delle materie annuali del 1° corso.
+
+Art. 134. - Lo specializzando alla fine dei corsi, presentera' una dissertazione scritta su argomento della specialita', che sara' posta in discussione al relativo esame di diploma. Al candidato, che avra' superato lo esame sara' rilasciato un regolare diploma di "Specialista in igiene e medicina scolastica".
+
+Art. 135. - Colore che hanno conseguito il diploma di specializzazione in igiene o in pediatria possono, a giudizio della Facolta', essere ammessi al 2° anno.
+
+Essi potranno essere esonerati, con decisione della Facolta', da alcuni degli esami sia del primo che del secondo anno, relativi ai corsi frequentati e agli esami superati nell'una o nell'altra scuola di specializzazione.
+
+Scuola di specializzazione in malattie del sangue, rene e ricambio
+
+Art. 136. - La Scuola ha sede presso la Clinica medica generale dell'Universita', ed e' disciplinata secondo le norme generali dello statuto relativo alle Scuole di specializzazione in medicina e chirurgia e secondo le norme del seguente ordinamento.
+
+Art. 137. - Titolo necessario per l'ammissione alla Scuola di specializzazione in malattie del sangue, rene e ricambio, e' la laurea in medicina e chirurgia.
+
+La Scuola ha la durata di tre anni. Il numero degli iscritti, per ogni anno, non potra' essere superiore a dodici.
+
+Art. 138. - Le materie di insegnamento sono:
+
+1° anno:
+
+Fisiologia speciale dell'apparato ematopoietico, uropoietico e del ricambio;
+
+Biochimica;
+
+Anatomia ed istologia patologica;
+
+Patologia speciale medica.
+
+2° anno:
+
+Semeiotica generale e speciale;
+
+Patologia speciale medica;
+
+Farmacologia;
+
+Clinica medica generale e terapia.
+
+3° anno:
+
+Diagnostica funzionale;
+
+Radiologia.
+
+Art. 139. - Per ottenere l'ammissione al secondo anno, gli specializzandi dovranno aver sostenuto e superato gli esami delle materie prescritte per il 1° anno e cosi' pure, per il passaggio al 3° anno dovranno aver superato gli esami del 2° anno.
+
+Art. 140. - I corsi di insegnamento si uniformeranno al calendario dell'Universita'. Per quanto riguarda invece le esercitazioni di laboratorio ed i servizi interni, l'attivita' della Scuola si estendera' all'intero anno solare.
+
+Art. 141. - Alla fine del triennio gli studenti che avranno superato tutte le materie, prepareranno una tesi riguardante argomenti contemplati tra le materie d'insegnamento e conseguiranno il diploma con esame finale collegiale di tutta la Commissione, presieduta dal direttore della "Clinica medica". Il diploma avra' per titolo: "Specializzazione in malattie del sangue, rene e ricambio".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 30 ottobre 1974
+Dato a Roma, addi' 9 marzo 1960
 
-LEONE
+GRONCHI
 
-MALFATTI
+MEDICI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 27 gennaio 1975 Atti di Governo, registro n. 8, foglio n. 64
+alla Corte dei conti, addi' 20 aprile 1960 Atti del Governo, registro n. 125, foglio n. 213. - VILLA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, numero 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), modificato con regio decreto 26 ottobre 1940 e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 188, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti nuovi articoli relativi alla scuola di specializzazione in microbiologia applicata presso la facolta' di scienze matematiche, fisiche e naturali.   
-Scuola di specializzazione in microbiologia applicata   
-Art. 189. - E' istituita presso l'istituto di microbiologia della facolta' di scienze la scuola di specializzazione in microbiologia applicata, che e' disciplinata in conformita' alle norme generali delle vigenti disposizioni di legge sulle scuole di specializzazione delle Universita', alle norme generali dello statuto relative alle scuole di specializzazione dell'Universita' di Messina ed alle norme del seguente ordinamento. - La scuola ha lo scopo di allargare e completare sul piano scientifico la cultura di coloro che si dedicano allo studio della microbiologia e di fornire sul piano tecnico una preparazione pratica specifica.   
-Art. 190. - Possono essere ammessi alla scuola di specializzazione in microbiologia applicata.   
-1) i laureati in scienze biologiche, in scienze naturali, in medicina veterinaria ed in farmacia che nel piano di studi per il conseguimento della laurea abbiano incluso il corso di microbiologia e superato il relativo esame;   
-2) i laureati in medicina e chirurgia;   
-3) i laureati in agraria;   
-4) i laureati in chimica e chimica industriale.   
-I laureati in scienze naturali e scienze biologiche, medicina veterinaria, in farmacia, in chimica ed in chimica industriale che non abbiano comprese nel piano di studi la microbiologia frequenteranno un corso integrativo di microbiologia.   
-Tale corso sara' pratico e teorico ed avra' luogo entro il mese di ottobre di ciascun anno. La commissione per l'esame di ammissione alla scuola e' formata dal direttore della scuola, da un professore di ruolo e da un libero docente che siano nel contempo docenti della scuola.   
-Art. 191. - Il corso degli studi per il conseguimento del diploma di specializzazione ha la durata di anni tre ed ha luogo presso l'istituto di microbiologia della facolta' di scienze dell'Universita' di Messina.   
-Art. 192. - Il numero degli iscritti al primo anno di corso non puo' superare il numero di dodici. Nel caso di domande eccedenti, la selezione verra' effettuata mediante concorso con norme che verranno precisate nel manifesto annuale. A quegli aspiranti che, oltre alle condizioni prescritte per la ammissione, documentino il possesso di titoli comprovanti una speciale preparazione nel campo della microbiologia, potra' essere consentita, su proposta del direttore della scuola, l'iscrizione direttamente al secondo anno di corso.   
-Art. 193. - La direzione della scuola e' affidata ad un professore di microbiologia di ruolo e fuori ruolo.   
-Il direttore della scuola puo' nominare un vice-direttore che lo coadiuvi e lo supplisca ed un segretario.   
-Art. 194. - Il numero degli ammessi non potra' di norma superare il numero assegnato al corso. Sono ammessi in soprannumero i riprovati degli anni precedenti e coloro che, per giustificato motivo, avessero interrotto la successione degli studi.   
-Art. 195. - L'ordine degli studi (distribuzione degli insegnamenti nei diversi anni del corso) e l'ordine e le modalita' degli esami verranno stabilite nel manifesto annuale.   
-Art. 196. - Gli insegnamenti impartiti sono i seguenti:   
-1° Anno:   
-1) Microbiologia generale e tecnica microbiologica;   
-2) Chimica microbiologica;   
-3) Statistica applicata alla microbiologia e dosaggio biologico;   
-4) Genetica dei micro-organismi.   
-2° Anno:   
-5) Batteriologia speciale;   
-6) Protozoologia e micologia;   
-7) Virologia generale;   
-8) Sierologia.   
-3° Anno:   
-9) Virologia applicata;   
-10) Microbiologia del suolo, delle acque e degli alimenti;   
-11) Microbiologia applicata alla diagnostica delle malattie infettive dell'uomo, degli animali e delle piante;   
-12) Chimica delle fermentazioni e microbiologia applicata.   
-Art. 197. - Il direttore puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari con conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti dalla scuola.   
-Art. 198. - Gli iscritti al corso sono tenuti ad osservare l'orario delle lezioni e delle esercitazioni ed hanno l'obbligo di frequentare per tutta la durata del corso e di ottenere l'attestazione di frequenza per poter essere ammessi a sostenere gli esami.   
-Art. 199. - Per essere ammessi all'esame di diploma gli iscritti debbono avere superato tutti gli esami.   
-L'esame di diploma consiste in una prova pratica e nella discussione di una dissertazione scritta di carattere sperimentale su argomenti di microbiologia. I candidati non riconosciuti idonei potranno ripresentarsi dopo un altro anno di frequenza alla scuola, ma se al secondo esame non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.   
-A coloro che abbiano superato l'esame di diploma verra' rilasciato un diploma di specializzazione in microbiologia applicata.   
+Dopo l'art. 112 sono aggiunti i seguenti nuovi articoli alle Scuole di specializzazione seguenti:  
+  
+Scuola di specializzazione in medicina del lavoro  
+  
+Art. 113. - La Scuola di specializzazione ha sede temporanea presso la Clinica dermosifilopatica, in attesa che sia definitivamente approvata la sede propria dell'Istituto. Titolo necessario per l'ammissione alla Scuola di specializzazione in medicina del lavoro, e' la laurea in medicina e chirurgia.  
+La Scuola e' disciplinata secondo le norme generali dello statuto relativo alle Scuole di specializzazione in medicina e chirurgia e secondo le norme del seguente ordinamento.  
+Art. 114. - Il corso ha la durata di due anni. Il numero degli iscritti a ciascuno dei due anni di corso sara' al massimo di dodici.  
+Art. 115. - Le materie d'insegnamento distinte per anno, sono le seguenti:  
+1° anno:  
+Igiene del lavoro;  
+Fisiologia del lavoro;  
+Tossicologia professionale;  
+Patologia del lavoro;  
+Psicotecnica.  
+2° anno:  
+Clinica del lavoro;.  
+Radiologia e terapia fisica in rapporto alle malattie del lavoro;  
+Dermatologia professionale;  
+Infortunistica medico-chirurgica (apparato locomotore e sistema nervoso); con particolare riguardo alla prevenzione;  
+Medicina legale del lavoro.  
+Art. 116. - Lo specializzando al termine dei corsi, presentera' una dissertazione scritta su argomento della specialita', che sara' posta in discussione al relativo esame di diploma; al candidato, che avra' superato lo esame di specializzazione, sara' rilasciato un regolare diploma di "Specialista in medicina del lavoro".  
+  
+Scuola di specializzazione in ostetricia e ginecologia  
+  
+Art. 117. - La Scuola ha sede presso la Clinica ostetrica e ginecologica della Universita', ed e' disciplinata secondo le norme generali dello statuto relativo alle Scuole di specializzazione in medicina e chirurgia e secondo le norme del seguente ordinamento.  
+Art. 118. - Titolo necessario per l'ammissione alla Scuola di specializzazione in clinica ostetrica e ginecologica e' la laurea in medicina e chirurgia.  
+Il corso ha la durata di anni quattro. Il numero degli iscritti per ciascun anno di corso non sara' superiore a sei.  
+Art. 119. - Le materie d'insegnamento sono:  
+1° anno:  
+Anatomia descrittiva e topografica dell'apparato genitale femminile;  
+Fisiologia della generazione;  
+Elementi di embriologia;  
+Semeiotica clinica ostetrica e ginecologica.  
+2° anno:  
+Semeiotica clinica ostetrica e ginecologica;  
+Anatomia patologica dell'apparato genitale femminile;  
+Puericultura pre-natale e post-natale.  
+3° anno:  
+Clinica ostetrica e ginecologica;  
+Radiologia - Urologia;  
+Elementi di anestesiologia.  
+4° anno:  
+Clinica ostetrica e ginecologica;  
+Medicina legale;  
+Elementi di immunologia;  
+Tecniche diagnostiche di laboratorio.  
+Art. 120. - Gli specializzandi dovranno aver sostenuto ogni anno gli esami del corso per ottenere l'ammissione al corso successivo.  
+Art. 121. - I corsi di insegnamento si uniformeranno al calendario accademico dell'Universita'. Per quanto riguarda invece le esercitazioni ed i servizi interni, la attivita' della Scuola si estendera' all'intero anno solare.  
+Art. 122. - Lo specializzando alla fine dei corsi, presentera' una dissertazione scritta su argomento della specialita', che sara' posta in discussione al relativo esame di diploma. Al candidato, che avra' superato l'esame di specializzazione, sara' rilasciato un regolare diploma di "Specialista in ostetricia e ginecologia".  
+  
+Scuola di specializzazione in igiene, tecnica e direzione ospedaliera   
+Art. 123. - La Scuola di perfezionamento in igiene, tecnica e direzione ospedaliera ha sede presso l'Istituto di igiene ed e' retta dal professore di ruolo d'igiene.  
+Art. 124. - Titolo necessario per l'ammissione e' la laurea in medicina e chirurgia.  
+Art. 125. - Il corso degli studi per il conseguimento del diploma di specialista ha la durata di due anni.  
+Il numero degli iscritti per ciascun anno di corso non potra' essere superiore a dodici.  
+Art. 126. - Le materie d'insegnamento sono le seguenti:  
+1° anno:  
+1) L'assistenza ospedaliera nel quadro dell'organizzazione sanitaria;  
+Storia degli ospedali e delle costruzioni ospedaliere;  
+2) Demografia e statistica sanitaria;  
+3) Epidemiologia e profilassi delle malattie infettive;  
+4) Igiene e tecnica delle costruzioni ospedaliere, arredamento ed impianti sanitari (1° corso);  
+5) Organizzazione e funzionamento degli ospedali generali (1° corso);  
+6) Diagnostica di laboratorio delle malattie infettive e parassitarie.  
+2° anno:  
+1) Diritto amministrativo e legislazione ospedaliera;  
+2) Igiene e tecnica delle costruzioni ospedaliere, arredamento ed impianti sanitari (2° corso);  
+3) Organizzazione e funzionamento degli ospedali generali (2° corso);  
+4) Organizzazione e funzionamento degli ospedali speciali;  
+5) Alimentazione e dietetica ospedaliera;  
+6) Istruzioni professionali del personale di assistenza.  
+Gli insegnamenti sono integrati da esercitazioni pratiche presso l'Istituto d'igiene, da tirocini presso direzioni sanitarie di ospedali, da visite ad ospedali ed impianti medico-sanitari.  
+Saranno altresi', tenute conferenze su argomenti attinenti alle discipline igieniche e alla organizzazione dei servizi di assistenza ospedaliera.  
+Art. 127. - Per ottenere l'ammissione al secondo anno gli specializzandi dovranno aver superato gli esami delle materie annuali del 1° corso.  
+Art. 128. - Lo specializzando alla fine dei corsi, presentera' una dissertazione scritta su argomento della specialita', che sara' posta in discussione al relativo esame di diploma. Al candidato, che avra' superato l'esame di specializzazione, sara' rilasciato un regolare diploma di "Specialista in igiene, tecnica e direzione ospedaliera".  
+  
+Scuola di specializzazione in igiene e medicina scolastica  
+  
+Art. 129. - La Scuola di specializzazione in igiene e medicina scolastica ha sede presso gli Istituti di igiene e clinica pediatrica. Il Consiglio di Facolta' designa ogni due anni, il direttore della Scuola tra i professori ufficiali di igiene e di clinica pediatrica.  
+Art. 130. - Titolo necessario per l'ammissione e' la laurea in medicina e chirurgia.  
+Art. 131. - Il corso degli studi per il conseguimento del diploma di specialista ha la durata di anni due.  
+Il numero degli iscritti per ciascun corso non potra' essere superiore a dodici.  
+Art. 132. - Le materie di insegnamento sono le seguenti:  
+1° anno:  
+1) Demografia e statistica sanitaria;  
+2) Igiene dell'alimentazione;  
+3) Igiene scolastica e legislazione scolastica;  
+4) Patologia e clinica delle malattie proprie della eta' scolare (1° corso);  
+5) Epidemiologia e profilassi delle malattie proprie dell'eta' scolare (1° corso);  
+6) Diagnostica di laboratorio delle malattie infettive e parassitarie dell'eta' scolare.  
+2° anno:  
+1) Pedagogia e ortofrenia;  
+2) Psicologia del lavoro mentale e psicologia sperimentale;  
+3) Auxologia ed educazione fisica;  
+4) Patologia e clinica delle malattie proprie della eta' scolare (2° corso) 5) Epidemiologia e profilassi delle malattie proprie dell'eta' scolare;  
+6) Fisiopatologia dell'eta' puberale.  
+Gli insegnamenti sono integrati da esercitazioni teoriche e pratiche, saranno altresi' tenute conferenze su argomenti attinenti all'igiene, all'organizzazione della assistenza medico-scolastica e alla neuropsichiatria infantile.  
+Art. 133. - Per ottenere l'ammissione al secondo anno gli specializzandi dovranno aver superato gli esami delle materie annuali del 1° corso.  
+Art. 134. - Lo specializzando alla fine dei corsi, presentera' una dissertazione scritta su argomento della specialita', che sara' posta in discussione al relativo esame di diploma. Al candidato, che avra' superato lo esame sara' rilasciato un regolare diploma di "Specialista in igiene e medicina scolastica".  
+Art. 135. - Colore che hanno conseguito il diploma di specializzazione in igiene o in pediatria possono, a giudizio della Facolta', essere ammessi al 2° anno.  
+Essi potranno essere esonerati, con decisione della Facolta', da alcuni degli esami sia del primo che del secondo anno, relativi ai corsi frequentati e agli esami superati nell'una o nell'altra scuola di specializzazione.  
+  
+Scuola di specializzazione in malattie del sangue, rene e ricambio  
+  
+Art. 136. - La Scuola ha sede presso la Clinica medica generale dell'Universita', ed e' disciplinata secondo le norme generali dello statuto relativo alle Scuole di specializzazione in medicina e chirurgia e secondo le norme del seguente ordinamento.  
+Art. 137. - Titolo necessario per l'ammissione alla Scuola di specializzazione in malattie del sangue, rene e ricambio, e' la laurea in medicina e chirurgia.  
+La Scuola ha la durata di tre anni. Il numero degli iscritti, per ogni anno, non potra' essere superiore a dodici.  
+Art. 138. - Le materie di insegnamento sono:  
+1° anno:  
+Fisiologia speciale dell'apparato ematopoietico, uropoietico e del ricambio;  
+Biochimica;  
+Anatomia ed istologia patologica;  
+Patologia speciale medica.  
+2° anno:  
+Semeiotica generale e speciale;  
+Patologia speciale medica;  
+Farmacologia;  
+Clinica medica generale e terapia.  
+3° anno:  
+Diagnostica funzionale;  
+Radiologia.  
+Art. 139. - Per ottenere l'ammissione al secondo anno, gli specializzandi dovranno aver sostenuto e superato gli esami delle materie prescritte per il 1° anno e cosi' pure, per il passaggio al 3° anno dovranno aver superato gli esami del 2° anno.  
+Art. 140. - I corsi di insegnamento si uniformeranno al calendario dell'Universita'. Per quanto riguarda invece le esercitazioni di laboratorio ed i servizi interni, l'attivita' della Scuola si estendera' all'intero anno solare.  
+Art. 141. - Alla fine del triennio gli studenti che avranno superato tutte le materie, prepareranno una tesi riguardante argomenti contemplati tra le materie d'insegnamento e conseguiranno il diploma con esame finale collegiale di tutta la Commissione, presieduta dal direttore della "Clinica medica". Il diploma avra' per titolo: "Specializzazione in malattie del sangue, rene e ricambio".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1974
+### Dato a Roma, addi' 9 marzo 1960
 
-LEONE MALFATTI
+GRONCHI MEDICI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 27 gennaio 1975
+Registrato alla Corte dei conti, addi' 20 aprile 1960
 
-Atti di Governo, registro n. 8, foglio n. 64
+Atti del Governo, registro n. 125, foglio n. 213. - VILLA

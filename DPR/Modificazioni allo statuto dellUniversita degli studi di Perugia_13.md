@@ -1,88 +1,110 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 698
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1957 n. 1430
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 698
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1957 n. 1430
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;.
-
-Sulla proposta del Ministro per la pubblica Istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 16. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di:
-
-Sociologia giuridica.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 22 settembre 1972
-
-LEONE
-
-SCALFARO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 18 novembre 1972 Atti del Governo, registro n. 253, foglio n. 56. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;.  
-Sulla proposta del Ministro per la pubblica Istruzione;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 16. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di:  
   
-Sociologia giuridica.  
+Il primo capoverso dell'art. 75 del vigente statuto, viene modificato come appresso:  
+Art. 75. - Alla Facolta' di medicina e chirurgia sono annesse le scuole di perfezionamento in "endocrinologia e malattie del ricambio", "pediatria", "ostetricia e ginecologia", "oculistica", "chirurgia", "medicina interna", "igiene", "gastroenterologia", "anestesiologia", "otorinolaringoiatria" e "cardiologia".  
+Dopo l'art. 94 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione delle scuole di perfezionamento in "otorinolaringoiatria a ed in "cardiologia".  
+  
+Scuola di perfezionamento in otorinolaringoiatria  
+  
+Art. 95. - La scuola ha la durata di tre anni.  
+L'ammissione viene effettuata in base a concorso per esami: il numero degli studenti che possono essere iscritti e' limitato a sei per ogni anno di corso.  
+Le materie di insegnamento sono:  
+1° anno:  
+Clinica otorinolaringoiatrica;  
+Patologia e semeiotica dell'orecchio;  
+Patologia e semeiotica del naso;  
+Patologia e semeiotica della faringe-laringe;  
+Anatomia umana in rapporto alla specialita';  
+Neuropatologia in rapporto alla specialita';  
+Esercitazioni ciniche.  
+2° anno:  
+Clinica otorinolaringoiatrica;  
+Patologia e semeiotica dell'orecchio;  
+Patologia e semeiotica del naso;  
+Patologia e semeiotica della faringe-laringe;  
+Patologia generale in rapporto alla specialita';  
+Endoscopia bronco-esofagea;  
+Esercitazioni cliniche.  
+3° anno:  
+Clinica otorinolaringoiatrica;  
+Tecnica operatoria dell'orecchio;  
+Tecnica operatoria del naso e delle cavita' accessorie;  
+Tecnica operatoria della faringe-laringe;  
+Oculistica in rapporto alla specialita';  
+Chirurgia plastica della specialita';  
+Audiologia e foniatria;  
+Esercitazioni cliniche.  
+  
+Scuola di perfezionamento in cardiologia  
+  
+Art. 96. - La scuola ha la durata di tre anni.  
+Il numero degli studenti che possono essere iscritti e' limitato ad otto per ogni anno di corso.  
+Le materie di insegnamento sono:  
+1° anno:  
+Anatomia normale;  
+Fisiologia;  
+Anatomia patologica;  
+Chimica biologica;  
+Semeiotica fisica;  
+Reumatologia;  
+Patologia delle malattie di cuore;  
+Semeiotica strumentale;  
+Elettrocardiografia e vettocardiografia;  
+Fonocardiografia (semestrale);  
+Ballistocardiografia (semestrale).  
+2° anno:  
+Clinica delle malattie di cuore;  
+Patologia delle malattie di cuore;  
+Elettrocardiografia e vettocardiografia;  
+Radiologia;  
+Patologia cardiorespiratoria (semestrale);  
+Patologia vascolare (semestrale);  
+Ricambio elettrolitico (semestrale);  
+Oculistica (semestrale);  
+Cardiopatie congenite.  
+3° anno:  
+Clinica delle malattie di cuore;  
+Terapia;  
+Dietetica (semestrale);  
+Terapia chirurgica (semestrale);  
+Angiocardiografia (semestrale);  
+Cateterismo cardiaco e studio del gas del sangue e respiratori.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 settembre 1972
+### Dato a Roma, addi' 31 ottobre 1957
 
-LEONE SCALFARO
+GRONCHI MORO
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 18 novembre 1972
+Registrato alla Corte dei conti, addi' 18 marzo 1958
 
-Atti del Governo, registro n. 253, foglio n. 56. - CARUSO
+Atti del Governo, registro n. 111, foglio n. 154. - RELLEVA

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 721
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 giugno 1977 n. 768
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 721
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 giugno 1977 n. 768
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Genova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,150 +18,282 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
 Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 73 - all'elenco degli insegnamenti complementari del corso di laurea in chimica vengono aggiunti i seguenti:
 
+a) Per l'indirizzo organico-biologico:
+
+complementi di chimica analitica;
+
+calcolo numerico e programmazione (corso speciale per chimici e chimici industriali);
+
+complementi di chimica fisica;
+
+didattica chimica;
+
+chimica quantistica;
+
+chimica merceologica;
+
+complementi di chimica organica;
+
+chimica dei composti eterociclici;
+
+b) Per l'indirizzo inorganico-chimico fisico:
+
+complementi di chimica analitica;
+
+complementi di chimica fisica;
+
+calcolo numerico e programmazione (corso speciale per chimici e chimici industriali);
+
+didattica chimica;
+
+chimica quantistica;
+
+chimica merceologica;
+
+complementi di chimica inorganica.
+
+Art. 74 - all'elenco degli insegnamenti complementari del corso di laurea in chimica industriale vengono aggiunti i seguenti:
+
+complementi di chimica analitica;
+
+complementi di chimica fisica;
+
+complementi di chimica industriale;
+
+complementi di impianti industriali chimici;
+
+calcolo numerico e programmazione (corso speciale per chimici e chimici industriali);
+
+didattica chimica;
+
+chimica merceologica.
+
+Dopo l'art. 154 del titolo XII, e con il conseguente spostamento della numerazione dei titoli e degli articoli successivi, sono inseriti il seguente nuovo titolo con relativi articoli concernenti l'istituzione della scuola di perfezionamento in geografia presso la facolta' di magistero.
+
+TITOLO XIII
+
+FACOLTA' DI MAGISTERO
+
+Scuola di perfezionamento in geografia
+
+Art. 155. - La durata del corso e' di due anni.
+
+Alla scuola sono ammessi i laureati in materie letterarie, in pedagogia, in lettere, in storia nonche' i laureati in altri corsi, nel cui curriculum risultino superati due esami di profitto in corsi di materie geografiche di durata annuale oppure anche uno se si tratti di insegnamento di durata biennale.
+
+Limitatamente all'indirizzo di analisi dell'organizzazione territoriale sono ammessi anche i laureati in economia e commercio, in scienze politiche, in architettura, purche' abbiano superato nel proprio curriculum un esame annuale di materie geografiche.
+
+Art. 156. - La scuola si articola in corsi di lezioni, in esercitazioni ed eventuali seminari.
+
+E' obbligatoria la frequenza alle lezioni, alle esercitazioni ed ai seminari.
+
+Per l'iscrizione al secondo anno e' necessario aver superato almeno due esami.
+
+La scuola ha due indirizzi:
+
+a) qualificazione didattica;
+
+b) analisi dell'organizzazione territoriale.
+
+Art. 157. - Gli insegnamenti obbligatori per l'indirizzo di qualificazione didattica sono:
+
+1) problemi fondamentali e metodologici di geografia generale;
+
+2) geografia politica ed economica;
+
+3) geografia regionale;
+
+4) didattica della geografia.
+
+Gli insegnamenti a scelta per l'indirizzo di qualificazione didattica sono:
+
+1) antropologia culturale;
+
+2) demografia;
+
+3) etnologia;
+
+4) geografia fisica;
+
+5) sociologia;
+
+6) storia della geografia e delle esplorazioni;
+
+7) geografia storica.
+
+Art. 158. - Gli insegnamenti obbligatori per l'indirizzo di analisi dell'organizzazione territoriale sono:
+
+1) problemi fondamentali e metodologici di geografia applicata;
+
+2) geografia regionale;
+
+3) geografia politica ed economica;
+
+4) organizzazione e pianificazione territoriale.
+
+Gli insegnamenti a scelta dell'indirizzo di analisi dell'organizzazione territoriale sono:
+
+1) demografia;
+
+2) economia politica;
+
+3) economia e politica agraria;
+
+4) economia dei trasporti;
+
+5) geografia storica;
+
+6) sociologia;
+
+7) statistica.
+
+Art. 159. - La scuola organizza, almeno per gli insegnamenti fondamentali, corsi trimestrali e semestrali di seminario, affidati, in base a deliberazioni del consiglio di facolta', a ricercatori o cultori notoriamente competenti.
+
+Art. 160. - Il diploma menzionera' l'indirizzo seguito.
+
+Oltre agli esami negli insegnamenti obbligatori sono richiesti, per l'indirizzo di qualificazione didattica, esami in quattro discipline fra quelle a scelta; per l'indirizzo di analisi dell'organizzazione territoriale, esami in cinque discipline fra quelle a scelta.
+
+L'esame di diploma consiste nella presentazione e discussione di una dissertazione scritta in una delle discipline previste per l'indirizzo prescelto, nonche' in prove pratiche che il consiglio della scuola stabilira' a seconda dell'indirizzo.
+
+Art. 161. - Il direttore della scuola e' nominato per un biennio dal rettore, su proposta del consiglio di facolta', tra i professori della scuola. La scuola ha un proprio consiglio costituito da tutti i docenti, da un rappresentante per ciascuna delle categorie indicate nei [commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580~art9-com1) e [2 dell'art. 9 del decreto-legge 1 ottobre 1973, n. 580](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580~art9-com2), convertito nella [legge 30 novembre 1973, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766), nonche' da un rappresentante degli studenti iscritti per ciascun indirizzo.
+
+Spetta al consiglio della scuola formulare al consiglio della facolta' di magistero le proposte per l'attivazione degli insegnamenti mediante conferimento di incarichi annuali o mutuazione di insegnamenti gia' esistenti presso l'Universita'.
+
+Art. 162. - Le tasse, sopratasse e contributi sono gli stessi della facolta' di magistero. Il contributo di esercitazioni viene fissato con la procedura prevista dalla [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 15 giugno 1977
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 20 ottobre 1977 Registro n. 117 Istruzione, foglio n. 76
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Dopo l'art. 451, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia d'urgenza e pronto soccorso afferente alla facolta' di medicina e chirurgia:  
+Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Scuola di specializzazione in chirurgia d'urgenza e pronto soccorso   
-Art. 452. - E' istituita presso l'Universita' di Genova la scuola di specializzazione in chirurgia d'urgenza e pronto soccorso che conferisce il diploma di specializzazione in chirurgia d'urgenza e pronto soccorso.  
-Art. 453. - La direzione della scuola ha sede presso l'Universita' degli studi di Genova - cattedra di chirurgia d'urgenza.  
-Art. 454. - La scuola ha lo scopo di permettere agli iscritti l'acquisizione di quelle nozioni specialistiche teoriche e pratiche che permettono di espletare attivita' in chirurgia d'urgenza e pronto soccorso dopo il conferimento del diploma di specializzazione.  
-Art. 455. - La durata del corso e' di cinque anni accademici e non e' suscettibile di abbreviazione.  
-Art. 456. - Il numero degli iscritti e' di sei per ogni anno e complessivamente di trenta per l'intero corso di studi.  
-Art. 457. - Alla scuola sono ammessi solo i laureati in medicina e chirurgia che abbiano conseguito il diploma di abilitazione all'esercizio professionale.  
-Art. 458. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposta multipla, integrata eventualmente da un colloquio e dalla valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
-a) la tesi nella disciplina attinente alla specializzazione;  
-b) il voto di laurea;  
-c) il voto riportato negli esami di profitto del corso di laurea in medicina e chirurgia nelle materie concernenti la specializzazione;  
-d) le pubblicazioni nelle predette materie.  
-Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale 16 settembre 1982.  
-Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nella graduatoria compilata sulla base del punteggio complessivo riportato.  
-Art. 459. - Le materie di insegnamento sono le seguenti:  
+Decreta:  
   
-1) clinica chirurgica generale d'urgenza e di pronto soccorso;  
-2) patologia chirurgica;  
-3) anatomia chirurgica;  
-4) semeiotica;  
-5) anestesiologia;  
-6) ricerche di laboratorio;  
-7) anatomia patologica;  
-8) endoscopia;  
-9) fisiopatologia chirurgica;  
-10) chirurgia sperimentale;  
-11) trattamento pre e post-operatorio in chirurgia d'urgenza;  
-12) rianimazione;  
-13) chirurgia vascolare d'urgenza;  
-14) traumatologia dell'apparato locomotore;  
-15) neurotraumatologia;  
-16) terapia intensiva;  
-17) radiologia;  
-18) chirurgia ginecologica d'urgenza;  
-19) chirurgia pediatrica d'urgenza;  
-20) chirurgia plastica e riparatrice;  
-21) chirurgia toracica d'urgenza;  
-22) cardiochirurgia d'urgenza;  
-23) angioradiologia;  
-24) chirurgia urologica d'urgenza;  
-25) traumatologia maxillo-facciale;  
-26) trattamento del politraumatizzato;  
-27) medicina legale.  
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 73 - all'elenco degli insegnamenti complementari del corso di laurea in chimica vengono aggiunti i seguenti:  
+a) Per l'indirizzo organico-biologico:  
+complementi di chimica analitica;  
+calcolo numerico e programmazione (corso speciale per chimici e chimici industriali);  
+complementi di chimica fisica;  
+didattica chimica;  
+chimica quantistica;  
+chimica merceologica;  
+complementi di chimica organica;  
+chimica dei composti eterociclici;  
+b) Per l'indirizzo inorganico-chimico fisico:  
+complementi di chimica analitica;  
+complementi di chimica fisica;  
+calcolo numerico e programmazione (corso speciale per chimici e chimici industriali);  
+didattica chimica;  
+chimica quantistica;  
+chimica merceologica;  
+complementi di chimica inorganica.  
+Art. 74 - all'elenco degli insegnamenti complementari del corso di laurea in chimica industriale vengono aggiunti i seguenti:  
+complementi di chimica analitica;  
+complementi di chimica fisica;  
+complementi di chimica industriale;  
+complementi di impianti industriali chimici;  
+calcolo numerico e programmazione (corso speciale per chimici e chimici industriali);  
+didattica chimica;  
+chimica merceologica.  
+Dopo l'art. 154 del titolo XII, e con il conseguente spostamento della numerazione dei titoli e degli articoli successivi, sono inseriti il seguente nuovo titolo con relativi articoli concernenti l'istituzione della scuola di perfezionamento in geografia presso la facolta' di magistero.  
   
-Art. 460. - Le materie di insegnamento sono cosi' distribuite:  
+TITOLO XIII  
+FACOLTA' DI MAGISTERO  
+Scuola di perfezionamento in geografia  
   
-1° Anno:  
-1) clinica chirurgica generale d'urgenza e di pronto soccorso I;  
-2) patologia chirurgica I;  
-3) anatomia chirurgica;  
-4) semeiotica I;  
-5) anestesiologia;  
-6) ricerche di laboratorio;  
-7) chirurgia sperimentale.  
-  
-2° Anno:  
-8) clinica chirurgica generale d'urgenza e di pronto soccorso II;  
-9) patologia chirurgica II;  
-10) anatomia patologica;  
-11) endoscopia;  
-12) fisiopatologia chirurgica I;  
-13) semeiotica II;  
-14) trattamento pre e post-operatorio in chirurgia d'urgenza;  
-15) rianimazione.  
-  
-3° Anno:  
-16) clinica chirurgica generale d'urgenza e di pronto soccorso III;  
-17) patologia chirurgica III;  
-18) chirurgia vascolare d'urgenza;  
-19) traumatologia dell'apparato locomotore I;  
-20) neurotraumatologia I;  
-21) fisiopatologia chirurgica II;  
-22) terapia intensiva I;  
-23) radiologia.  
-  
-4° Anno:  
-24) clinica chirurgica generale d'urgenza e di pronto soccorso IV;  
-25) chirurgia ginecologica d'urgenza;  
-26) chirurgia pediatrica d'urgenza;  
-27) chirurgia plastica e riparatrice I;  
-28) traumatologia dell'apparato locomotore II;  
-29) neurotraumatologia II;  
-30) chirurgia toracica d'urgenza I;  
-31) terapia intensiva II.  
-  
-5° Anno:  
-32) clinica chirurgica generale d'urgenza e di pronto soccorso V;  
-33) chirurgia plastica riparatrice II;  
-34) chirurgia toracica d'urgenza II;  
-35) cardiochirurgia d'urgenza;  
-36) chirurgia urologica d'urgenza;  
-37) angioradiologia;  
-38) traumatologia maxillo-facciale;  
-39) trattamento del politraumatizzato;  
-40) medicina legale.  
-  
-Tutti gli insegnamenti di cui sopra, specifici della scuola, afferiscono alla facolta' di medicina e chirurgia.  
-Art. 461. - La frequenza dei corsi e' obbligatoria. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno in corso, esprime un giudizio globale sul livello globale di preparazione del candidato, nelle singole discipline e relative attivita' pratiche descritte per l'anno in corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
-Art. 462. - Gli allievi dovranno svolgere le seguenti attivita' pratiche: tecniche endoscopiche, attivita' ambulatoriale, attivita' di sala operatoria presso la cattedra di chirurgia d'urgenza e le strutture eventualmente convenzionate e la XIII U.S.L. pronto soccorso ed astanteria dell'ospedale S. Martino.  
-La frequenza alle predette attivita' pratiche e a quelle didattiche e' regolata in base alle disposizioni impartite dal direttore della scuola secondo i disposti di legge, sentito il consiglio della stessa.  
-Per l'ammissione agli esami gli allievi dovranno aver frequentato almeno l'80% delle lezioni, con particolare obbligo nei periodi indicati dal professore ufficiale del corso, per le esercitazioni e per le attivita' pratiche.  
-L'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione (eventualmente anche all'estero in base alla normativa vigente), e' riconosciuta utile ai fini della frequenza.  
-Art. 463. - Superato l'esame teorico-pratico dell'ultimo anno, il corso si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.  
-A coloro che abbiano superato l'esame finale viene rilasciato un diploma di specialista.  
-Art. 464. - L'importo delle tasse e soprattasse e contributi generali dovuti dagli iscritti alla scuola e' quello previsto per gli iscritti ai vari corsi di laurea; il contributo per le esercitazioni e' stabilito dal consiglio di amministrazione in base alle normative vigenti.  
-Art. 465. - E' costituito il consiglio della scuola - presieduto da un direttore - il quale e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi, eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1982, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-07-11;382~art99).  
-Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del citato [decreto del Presidente della Repubblica n. 382/80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382), al consiglio di corso di laurea in materia di coordinamento degli insegnamenti.  
-La direzione della scuola e' affidata a professore ordinario o straordinario che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+Art. 155. - La durata del corso e' di due anni.  
+Alla scuola sono ammessi i laureati in materie letterarie, in pedagogia, in lettere, in storia nonche' i laureati in altri corsi, nel cui curriculum risultino superati due esami di profitto in corsi di materie geografiche di durata annuale oppure anche uno se si tratti di insegnamento di durata biennale.  
+Limitatamente all'indirizzo di analisi dell'organizzazione territoriale sono ammessi anche i laureati in economia e commercio, in scienze politiche, in architettura, purche' abbiano superato nel proprio curriculum un esame annuale di materie geografiche.  
+Art. 156. - La scuola si articola in corsi di lezioni, in esercitazioni ed eventuali seminari.  
+E' obbligatoria la frequenza alle lezioni, alle esercitazioni ed ai seminari.  
+Per l'iscrizione al secondo anno e' necessario aver superato almeno due esami.  
+La scuola ha due indirizzi:  
+a) qualificazione didattica;  
+b) analisi dell'organizzazione territoriale.  
+Art. 157. - Gli insegnamenti obbligatori per l'indirizzo di qualificazione didattica sono:  
+1) problemi fondamentali e metodologici di geografia generale;  
+2) geografia politica ed economica;  
+3) geografia regionale;  
+4) didattica della geografia.  
+Gli insegnamenti a scelta per l'indirizzo di qualificazione didattica sono:  
+1) antropologia culturale;  
+2) demografia;  
+3) etnologia;  
+4) geografia fisica;  
+5) sociologia;  
+6) storia della geografia e delle esplorazioni;  
+7) geografia storica.  
+Art. 158. - Gli insegnamenti obbligatori per l'indirizzo di analisi dell'organizzazione territoriale sono:  
+1) problemi fondamentali e metodologici di geografia applicata;  
+2) geografia regionale;  
+3) geografia politica ed economica;  
+4) organizzazione e pianificazione territoriale.  
+Gli insegnamenti a scelta dell'indirizzo di analisi dell'organizzazione territoriale sono:  
+1) demografia;  
+2) economia politica;  
+3) economia e politica agraria;  
+4) economia dei trasporti;  
+5) geografia storica;  
+6) sociologia;  
+7) statistica.  
+Art. 159. - La scuola organizza, almeno per gli insegnamenti fondamentali, corsi trimestrali e semestrali di seminario, affidati, in base a deliberazioni del consiglio di facolta', a ricercatori o cultori notoriamente competenti.  
+Art. 160. - Il diploma menzionera' l'indirizzo seguito.  
+Oltre agli esami negli insegnamenti obbligatori sono richiesti, per l'indirizzo di qualificazione didattica, esami in quattro discipline fra quelle a scelta; per l'indirizzo di analisi dell'organizzazione territoriale, esami in cinque discipline fra quelle a scelta.  
+L'esame di diploma consiste nella presentazione e discussione di una dissertazione scritta in una delle discipline previste per l'indirizzo prescelto, nonche' in prove pratiche che il consiglio della scuola stabilira' a seconda dell'indirizzo.  
+Art. 161. - Il direttore della scuola e' nominato per un biennio dal rettore, su proposta del consiglio di facolta', tra i professori della scuola. La scuola ha un proprio consiglio costituito da tutti i docenti, da un rappresentante per ciascuna delle categorie indicate nei [commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580~art9-com1) e [2 dell'art. 9 del decreto-legge 1 ottobre 1973, n. 580](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580~art9-com2), convertito nella [legge 30 novembre 1973, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766), nonche' da un rappresentante degli studenti iscritti per ciascun indirizzo.  
+Spetta al consiglio della scuola formulare al consiglio della facolta' di magistero le proposte per l'attivazione degli insegnamenti mediante conferimento di incarichi annuali o mutuazione di insegnamenti gia' esistenti presso l'Universita'.  
+Art. 162. - Le tasse, sopratasse e contributi sono gli stessi della facolta' di magistero. Il contributo di esercitazioni viene fissato con la procedura prevista dalla [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1983
+### Dato a Roma, addi' 15 giugno 1977
 
-PERTINI FALCUCCI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 16 dicembre 1983
+Registrato alla Corte dei conti, addi' 20 ottobre 1977
 
-Registro n. 78 Istruzione, foglio n. 77
+Registro n. 117 Istruzione, foglio n. 76

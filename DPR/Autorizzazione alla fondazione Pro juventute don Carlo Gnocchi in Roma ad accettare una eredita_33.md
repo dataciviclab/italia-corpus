@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 novembre 1978 n. 855
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1985 n. 192
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 novembre 1978 n. 855
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1985 n. 192
 ===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-855. Decreto del Presidente della Repubblica 23 novembre 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, un quarto dell'eredita' disposta dal prof. Manfredo Cagni a favore dei mutilatini don Gnocchi che si identificano con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, con testamento pubblico 10 gennaio 1972, pubblicato a rogito notaio dott. Giorgio Giuriani di Como in data 9 maggio 1972, n. 65077 di repertorio, n. 18612 di raccolta, ed ivi registrato il 29 maggio 1972 con il n. 2617 serie I, consistente nella somma di L. 6.749.023.  
+192. Decreto del Presidente della Repubblica 25 febbraio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in un fabbricato con annesso terreno sito in Serina (Bergamo), via Cavagna n. 157, iscritto nel nuovo catasto edilizio urbano alla partita n. 5, mappale 723, valore L. 9.500.000, e in beni mobili come da inventario per un valore di L. 4.077.666. I suindicati beni, per un valore complessivo di L. 13.577.666, sono gravati di usufrutto a favore dei coniugi Gabba di Milano.  
+L'eredita' e' stata disposta dal sig. Libero Santo con testamento olografo 29 dicembre 1971, pubblicato in data 5 gennaio 1973, n. 14720 di repertorio, a rogito dott. Ferruccio Brambilla, notaio in Milano, registrato a Busto Arsizio in data 29 gennaio 1973 al n. 430.   
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 27 dicembre 1978  
-Registro n. 8 Presidenza, foglio n. 129
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 2 maggio 1985   
+Registro n. 4 Presidenza, foglio n. 91

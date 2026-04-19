@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 gennaio 1972 n. 91
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1972 n. 104
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 gennaio 1972 n. 91
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1972 n. 104
+==============================================================
 
 Autorizzazione alla fondazione "Pro juventute Don Carlo Gnocchi", con sede in Roma, ad accettare un legato.
 -----------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-91. Decreto del Presidente della Repubblica 3 gennaio 1972, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare un legato consistente nella somma di L. 500.000 disposto a favore dell'Istituto mutilatini Don Gnocchi dalla signora Giudice Angela Carolina Maria Ida in De Micheli con testamento olografo pubblicato in data 2 ottobre 1968 con atto del notaio Armando Cioffi al n. 17641 di rep., registrato a Borgomanero il 4 ottobre 1968 al n. 1417, vol. 171 atti pubblici.  
+104. Decreto del Presidente della Repubblica 14 gennaio 1972, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare il legato - consistente nella somma di L. 5.000.000 in buoni "Sava" - disposto a favore dell'Istituto mutilatini S. Maria in Colli di Torino, viale Settimio Severo n. 65 (che dipende dalla fondazione "Pro juventute Don Carlo Gnocchi") dalla signorina Lydia Gerbi, con testamento olografo pubblicato dal notaio dott. Remo Morone in data 19 giugno 1698, n. 260.890 di repertorio, registrato a Torino il 4 luglio 1968, al n. 4465, vol. 1103 atti pubblici.  
   
 Visto, il Guardasigilli: GONELLA  
 Registrato alla Corte dei conti, addi' 22 marzo 1972  
-Atti del Governo, registro n. 247, foglio n. 150. - VALENTINI
+Atti del Governo, registro n. 247, foglio n. 155. - VALENTINI

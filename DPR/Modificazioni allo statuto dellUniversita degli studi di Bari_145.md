@@ -1,75 +1,60 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1960 n. 1830
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1980 n. 530
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1960 n. 1830
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1980 n. 530
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 11 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-11;2134), modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successivi;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1935, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
-  
-Decreta:   
-  
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 79, relativo al corso di laurea in Scienze matematiche, l'ultimo comma, e' abrogato e sostituito dal seguente:   
-"Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in tre da lui scelti fra, i complementari.   
-Detto esame di laurea consta:   
-a) di una prova intesa, ad accertare la cultura generale del candidato nelle varie discipline matematiche e fisiche del corso di studi seguito;   
-b) della esposizione e discussione di una dissertazione scritta (tesi) e di due argomenti (tesine) orali.   
-Le Commissioni per le prove di cultura generale sono proposte dalla Facolta'.   
-La prova di cultura generale non ha carattere eliminatorio".   
-Art. 81, relativo al corso di laurea in Fisica, l'ultimo comma e' abrogato e sostituito dal seguente:   
-"Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in due da lui scelti fra i complementari.   
-Detto esame di laurea consta:   
-a) di una prova intesa, ad accertare la cultura generale del candidato nelle discipline, fisiche e matematiche del corso di studi seguito;   
-b) di una, prova pratica di esercitazioni di fisica sperimentale;  
-c) della esposizione e discussione di una dissertazione scritta (tesi) e di due argomenti (tesine) orali.   
-Le Commissioni per la prova pratica e per le prove di cultura generale sono proposte dalla Facolta'.   
-La prova di cultura generale non ha carattere eliminatorio".   
-Art. 83. - Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo-biologico) e' aggiunto quello di "Spettroscopia".   
-Art. 87, relativo al corso di laurea in Matematica e fisica, l'ultimo comma e' abrogato e sostituito dal seguente:   
-"Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in tre da lui scelti tra i complementari.   
-Detto esame di laurea consta:   
-a) di una prova intesa ad accertare la cultura generale del candidato nelle varie discipline matematiche e fisiche del corso di laurea seguito;   
-b) di una prova pratica, di esercitazioni di fisica sperimentale;  
-c) della esposizione e discussione di una dissertazione scritta (tesi) e di due argomenti (tesine) orali.   
-Le Commissioni per la prova pratica e per le prove di cultura generale sono proposte dalla Facolta'.   
-La prova di cultura generale non ha, carattere eliminatorio".   
-Art. 93. - Al posto degli articoli concernenti il biennio propedeutico di ingegneria soppresso e inserito il seguente nuovo articolo:   
-"Alla Facolta' di scienze e' annessa la relativa biblioteca, la cui direzione e' affidata, ad un professore di ruolo designato dal Consiglio di Facolta'.   
-Alla biblioteca e' addetto personale appositamente designato".   
-Art. 94. - Agli Istituti della Facolta' di scienze e' aggiunto un "Seminario di matematica" mentre l'ultimo comma concernente le norme per il funzionamento dei tre Istituti matematici e' abrogato.   
-Dopo l'art. 94 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli, relativi al funzionamento del Seminario di matematica.   
-Art. 95. - Il Seminario di matematica e' stato istituito con lo scopo di promuovere il progresso degli studi matematici e la formazione scientifica dei giovani, mediante conferenze, cicli di lezioni, riunioni e pubblicazioni.   
-Esso, inoltre, ha il compito di patrocinare, ed eventualmente sussidiare, studi particolari dei giovani studiosi.   
-Le attivita' del Seminario, sono organizzate da un Consiglio di direzione, composto dai professori di ruolo del gruppo matematico della Facolta'.   
-Art. 96. - Fra i membri del Consiglio di direzione del Seminario di matematica il rettore nomina, su proposta della Facolta', un direttore che resta in carica per un triennio. Gli atti amministrativi avranno la firma del solo direttore.   
-Art. 97. - Il funzionamento del Seminario di matematica e' disciplinato da apposito regolamento, emanato dal rettore, previo parere del Consiglio di Facolta'.   
+All'art. 38, relativo all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie, sono aggiunti i seguenti: antropologia culturale;  
+sociologia dell'educazione;  
+docimologia.  
+All'art. 39, relativo all'elenco degli insegnamenti complementari del corso di laurea in pedagogia, sono aggiunti i seguenti:  
+antropologia culturale;  
+sociologia dell'educazione;  
+docimologia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1960
+### Dato a Roma, addi' 27 marzo 1980
 
-GRONCHI BOSCO
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 18 febbraio 1961
+Registrato alla Corte dei conti, addi' 25 agosto 1980
 
-Atti del Governo, registro n. 134, foglio n. 82. - VILLA
+Registro n. 79 Istruzione, foglio n. 387

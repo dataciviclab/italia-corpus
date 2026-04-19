@@ -1,19 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1952 n. 3102
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1986 n. 848
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1952 n. 3102
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1986 n. 848
 ==============================================================
 
-Autorizzazione all'Istituto dei ciechi di Milano, ad accettare un legato.
--------------------------------------------------------------------------
+Autorizzazione all'Istituto dei ciechi di Milano ad accettare un legato.
+------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-3102. Decreto del Presidente della Repubblica 25 luglio 1952, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto dei ciechi di Milano, con sede in via Vivaio n. 7, viene autorizzato ad accettare un legato disposto in suo favore dalla defunta signora Sobacchi Angela fu Luigi vedova Sommaruga.  
+848. Decreto del Presidente della Repubblica 17 ottobre 1986, col quale, sulla proposta del Ministro della pubblica istruzione, l'Istituto dei ciechi di Milano viene autorizzato ad accettare il legato, consistente in un appartamento ad uso abitazione sito in Milano, via Pinturicchio, 33, del valore stimato di L. 37.000.000, disposto dalla sig.na Virginia Villa con testamento olografo 12 agosto 1968, pubblicato in data 28 gennaio 1985, n. 18056/2196 di repertorio, a rogito dottor Ulderico Brambilla, notaio in Milano, registrato a Milano il 31 gennaio 1985 al n. 2152.   
   
-Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 24 dicembre 1952  
-Atti del Governo, registro n. 67, foglio n. 66. - PALLA
+Visto, il Guardasigilli: ROGNONI   
+Registrato alla Corte dei conti, addi' 2 dicembre 1986   
+Registro n. 87 Istruzione, foglio n. 18

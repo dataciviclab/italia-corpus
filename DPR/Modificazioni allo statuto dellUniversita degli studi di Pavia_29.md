@@ -1,135 +1,24 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1970 n. 658
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 gennaio 1967 n. 56
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1970 n. 658
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 gennaio 1967 n. 56
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229) e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 15. - All'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di "Diritto civile dei Paesi socialisti".
-
-Art. 29. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio e' aggiunto quello di "Storia della popolazione".
-
-Art. 30, relativo alle norme sulla propedeuticita' degli esami per il predetto corso di laurea e' modificato nel senso che sono aggiunti i seguenti commi:
-
-L'esame di matematica generale e' propedeutico rispetto all'esame di matematica finanziaria (biennale).
-
-L'esame di economia politica II e' propedeutico rispetto ai seguenti esami: scienza delle finanze e diritto finanziario, politica economica e finanziaria, economia e politica agraria.
-
-Art. 37. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia e' aggiunto quello di "Storia della filosofia moderna e contemporanea".
-
-Art. 47. - All'elenco degli insegnamenti complementari del corso di laurea in chimica sono aggiunti i seguenti:
-
-Per l'indirizzo organico biologico:
-
-Chimica dei composti elemento-organici;
-
-Chimica delle sostanze coloranti;
-
-Stereochimica;
-
-Fotochimica;
-
-Chimica organica applicata;
-
-Merceologia (chimica merceologica);
-
-Spettroscopia molecolare;
-
-Chimica fisica organica;
-
-Cromatografia analitica e preparativa;
-
-Scienza dei materiali;
-
-Elettrochimica organica con esercitazioni;
-
-Cinetica chimica;
-
-Chimica delle radiazioni.
-
-Per l'indirizzo inorganico chimico-fisico:
-
-Chimica fisica delle interfasi;
-
-Chimica fisica dello stato solido;
-
-Chimica fisica tecnica;
-
-Chimica quantistica;
-
-Merceologia (chimica merceologica);
-
-Chimica statistica;
-
-Spettroscopia molecolare;
-
-Tecnologie elettrochimiche;
-
-Chimica inorganica superiore;
-
-Chimica delle radiazioni;
-
-Scienza dei materiali;
-
-Fotochimica;
-
-Chimica delle sostanze coloranti;
-
-Chimica inorganica applicata.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 14 luglio 1970
-
-SARAGAT
-
-MISASI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 7 settembre 1970 Atti del Governo, registro n. 237, foglio n. 77. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta:  
+  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -138,56 +27,23 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 15. - All'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di "Diritto civile dei Paesi socialisti".  
-Art. 29. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio e' aggiunto quello di "Storia della popolazione".  
-Art. 30, relativo alle norme sulla propedeuticita' degli esami per il predetto corso di laurea e' modificato nel senso che sono aggiunti i seguenti commi:  
-  
-L'esame di matematica generale e' propedeutico rispetto all'esame di matematica finanziaria (biennale).  
-L'esame di economia politica II e' propedeutico rispetto ai seguenti esami: scienza delle finanze e diritto finanziario, politica economica e finanziaria, economia e politica agraria.  
-  
-Art. 37. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia e' aggiunto quello di "Storia della filosofia moderna e contemporanea".  
-Art. 47. - All'elenco degli insegnamenti complementari del corso di laurea in chimica sono aggiunti i seguenti:  
-  
-Per l'indirizzo organico biologico:  
-Chimica dei composti elemento-organici;  
-Chimica delle sostanze coloranti;  
-Stereochimica;  
-Fotochimica;  
-Chimica organica applicata;  
-Merceologia (chimica merceologica);  
-Spettroscopia molecolare;  
-Chimica fisica organica;  
-Cromatografia analitica e preparativa;  
-Scienza dei materiali;  
-Elettrochimica organica con esercitazioni;  
-Cinetica chimica;  
-Chimica delle radiazioni.  
-Per l'indirizzo inorganico chimico-fisico:  
-Chimica fisica delle interfasi;  
-Chimica fisica dello stato solido;  
-Chimica fisica tecnica;  
-Chimica quantistica;  
-Merceologia (chimica merceologica);  
-Chimica statistica;  
-Spettroscopia molecolare;  
-Tecnologie elettrochimiche;  
-Chimica inorganica superiore;  
-Chimica delle radiazioni;  
-Scienza dei materiali;  
-Fotochimica;  
-Chimica delle sostanze coloranti;  
-Chimica inorganica applicata.  
+Art. 24. - Nell'elenco degli insegnamenti complementari del corso di laurea in Scienze politiche e' aggiunto quello di "Lingua araba".  
+Art. 29. - Nell'elenco degli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti quelli di:  
+"Calcolo delle probabilita'";  
+"Principi e tecniche delle elaborazioni meccanografiche ed elettroniche";  
+"Ricerca operativa";  
+"Teoria delle decisioni e teoria dei giochi".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 luglio 1970
+### Dato a Roma, addi' 20 gennaio 1967
 
-SARAGAT MISASI
+SARAGAT GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 7 settembre 1970
+Registrato alla Corte dei conti, addi' 7 marzo 1967
 
-Atti del Governo, registro n. 237, foglio n. 77. - CARUSO
+Atti del Governo, registro n. 209, foglio n. 81. - VILLA

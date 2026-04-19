@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1986 n. 522
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1975 n. 581
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1986 n. 522
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1975 n. 581
+================================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un legato.
 -------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-522. Decreto del Presidente della Repubblica 4 giugno 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 5.000.000, disposto dalla sig.ra Lo Presti Costantino Carmelina a favore dell'Unione italiana dei ciechi, sezione provinciale di Messina, con testamento olografo 6 luglio 1977 pubblicato con atto 23 giugno 1983, n. 128547 di repertorio e n. 12254 di raccolta, a rogito dottor Francesco Paderni, notaio in Messina, registrato a Messina il 25 giugno 1983 al n. 4297.   
+581. Decreto del Presidente della Repubblica 29 settembre 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare un legato consistente in titoli depositati presso la Banca subalpina di Torino, di cui al verbale d'inventario in data 25 novembre 1974, n. 120723 di repertorio, del notaio avv. Sebastiano Dell'Arte, del valore di L. 3.635.000, disposto dal   
+sig. Ruspino Carlo con testamento olografo pubblicato in data 21 settembre 1973, n. 116902 di repertorio, a rogito avv. Sebastiano Dell'Arte notaio in Collegno (Torino), registrato a Rivoli il 27 settembre 1973 al n. 8249 atti pubblici, vol. 245.   
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 14 agosto 1986   
-Registro n. 8 Presidenza, foglio n. 116
+Visto, il Guardasigilli: REALE   
+Registrato alla Corte dei conti, addi' 26 novembre 1975   
+Atti di Governo, registro n. 14, foglio n. 46

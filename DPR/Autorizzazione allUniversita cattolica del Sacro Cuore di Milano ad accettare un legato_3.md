@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 febbraio 1955 n. 207
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 maggio 1954 n. 672
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 febbraio 1955 n. 207
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 maggio 1954 n. 672
+=============================================================
 
 Autorizzazione all'Universita' cattolica del Sacro Cuore di Milano ad accettare un legato.
 ------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-207. Decreto del Presidente della Repubblica 4 febbraio 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' cattolica del Sacro Cuore di Milano viene autorizzata ad accettare il legato di L. 3.000.000 (tre milioni), disposto in suo favore dal comm. Filippo Zerioli per l'istituzione, con la rendita da esso derivante, di una borsa di studio da assegnarsi ad un giovane povero della provincia di Piacenza, iscritto alla Facolta' di agraria della suddetta Universita'.  
+672. Decreto del Presidente della Repubblica 7 maggio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' cattolica del Sacro Cuore di Milano viene autorizzata ad accettare il legato disposto in suo favore da monsignor Antonino Accardo fu Francesco e consistente in un quartino di casa per abitazione, sito in Trapani, via Carreca, con testamento olografo in data 25 febbraio 1950.  
   
 Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 26 marzo 1955  
-Atti del Governo, registro n. 89, foglio n. 169. - CARLOMAGNO
+Registrato alla Corte dei conti, addi' 13 agosto 1954  
+Atti del Governo, registro n. 85, foglio n. 35. - TEMPESTA

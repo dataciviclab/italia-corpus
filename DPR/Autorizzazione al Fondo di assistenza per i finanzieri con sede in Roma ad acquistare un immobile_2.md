@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 luglio 1970 n. 584
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1967 n. 170
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 luglio 1970 n. 584
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1967 n. 170
+===============================================================
 
 Autorizzazione al Fondo di assistenza per i finanzieri, con sede in Roma, ad acquistare un immobile.
 ----------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-584. Decreto del Presidente della Repubblica 7 luglio 1970, col quale, sulla proposta del Ministro per le finanze, il Fondo di assistenza per i finanzieri, con sede in Roma, viene autorizzato ad acquistare al prezzo di L. 505.000.000 l'immobile sito in Roma, via di piano regolatore, in prossimita' di via Monte Cervialto (quartiere "Nuovo Salario").  
+170. Decreto del Presidente della Repubblica 25 febbraio 1967, col quale, sulla proposta del Ministro per le finanze, il Fondo di assistenza per i finanzieri, con sede in Roma, viene autorizzato ad acquistare, al prezzo di L. 1.875.000.000, l'immobile sito in Roma, con accessi da via Listz, 48; via Chopin, 49 e via privata congiungente le predette vie ai numeri civici 8 e 24, alle condizioni specificate nella deliberazione consiliare del 16 novembre 1964. L'autorizzazione ha efficacia dal 19 dicembre 1964.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 7 agosto 1970  
-Atti del Governo, registro n. 237, foglio n. 17. - CARUSO
+Registrato alla Corte dei conti, addi' 3 aprile 1967  
+Atti del Governo, registro n. 210, foglio n. 67. - GRECO

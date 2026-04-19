@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1980 n. 578
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1980 n. 682
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1980 n. 578
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1980 n. 682
+================================================================
 
 Modificazioni allo statuto del libero Istituto universitario di medicina e chirurgia dell'Aquila.
 -------------------------------------------------------------------------------------------------

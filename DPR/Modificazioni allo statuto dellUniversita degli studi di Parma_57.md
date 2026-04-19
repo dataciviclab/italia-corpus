@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1018
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1970 n. 826
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1018
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1970 n. 826
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -13,9 +13,10 @@ Art. 1
  IL PRESIDENTE DELLA REPUBBLICA  
   
 Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -24,73 +25,18 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Dopo l'art. 298 e con il conseguente spostamento della numerazione degli articoli successivi vengono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola per tecnici fisioterapisti della riabilitazione (scuola diretta a fini speciali).  
-  
-Scuola per tecnici fisioterapisti della riabilitazione  
-(Scuola diretta a fini speciali)  
-  
-Art. 299. - La scuola per fisioterapisti viene istituita allo scopo di dare una preparazione completa teorico-pratica agli allievi, istruendoli su problemi della riabilitazione polivalente dei minorati fisici soprattutto per lesioni organiche del sistema osteoarticolare, del sistema nervoso e dell'apparato respiratorio, suscettibili di recupero funzionale e sociale mediante terapie fisiche, chinesiterapiche, occupazionali e del linguaggio.  
-Tali tecnici fisioterapisti potranno svolgere la loro funzione sotto la direzione e dietro indicazione medica.  
-Art. 300. - La scuola ha sede presso l'istituto di clinica ortopedica e traumatologica dell'Universita' degli studi di Parma. Il direttore della scuola e' il titolare piu' anziano della cattedra di clinica ortopedica e traumatologica dell'Universita' di Parma.  
-I docenti incaricati degli insegnamenti della scuola sono proposti dal direttore della scuola stessa, ratificati dal consiglio della facolta' di medicina e chirurgia e nominati dal rettore.  
-Il consiglio della scuola e' composto dal direttore e dai docenti incaricati degli insegnamenti.  
-Art. 301. - Il corso degli studi per il conseguimento del diploma di tecnici fisioterapisti ha la durata di tre anni: i primi due consistono in lezioni teoriche e pratiche su materie propedeutiche e tecniche, presso gli istituti cui fanno capo gli insegnamenti, il terzo in tirocini pratici presso centri di riabilitazione riconosciuti idonei a tale scopo dalla scuola.  
-Art. 302. - Il titolo di studio per l'ammissione alla scuola e' il diploma di scuola media superiore di durata quinquennale. I candidati debbono presentare certificato medico comprovante la sana e robusta costituzione fisica.  
-Alla scuola possono essere ammessi annualmente 15 allievi.  
-I candidati verranno sottoposti ad un esame di ammissione che consiste in una prova orale nella quale saranno saggiate sia le qualita' culturali che l'attitudine specialistica. Al termine di tale esame verra' stabilita una graduatoria per l'ammissione.  
-La commissione esaminatrice sara' composta dal direttore della scuola e da due professori nominati dal preside della facolta' di medicina e chirurgia.  
-Il candidato ammesso, che non si sara' presentato entro 5 giorni dall'inizio del corso, perdera' ogni diritto alla frequenza e al conseguimento del diploma e verra' sostituito con uno degli idonei non ammesso seguendo la graduatoria dell'esame di ammissione.  
-Art. 303. - L'ammontare delle tasse e contributi e' fissato in L. 63.000, di cui L. 23.000 come tassa di iscrizione e frequenza e L. 40.000 come contributi.  
-Art. 304. - Le materie di insegnamento e i corsi della scuola sono i seguenti:  
-  
-1° Anno:  
-Nozioni generali di anatomia, fisiologia, patologia;  
-Anatomia e fisiologia del sistema nervoso;  
-Anatomia e fisiologia dell'apparato motore;  
-Anatomia e fisiologia dell'apparato respiratorio;  
-Anatomia e fisiologia dell'apparato circolatorio;  
-Servizio sociale e relazioni umane;  
-Tecnica infermieristica;  
-Psicologia e psicopatologia del minorato;  
-Chinesiologia e diagnostica dei disturbi del movimento;  
-Metodologia di fisioterapia;  
-Metodologia di terapia occupazionale;  
-Clinica della riabilitazione.  
-  
-2° Anno:  
-Patologia e clinica del sistema nervoso;  
-Patologia e clinica dell'apparato motore;  
-Patologia e clinica dell'apparato respiratorio;  
-Anatomia, fisiologia, patologia degli organi della parola e dell'udito;  
-Neuropsichiatria infantile;  
-Riabilitazione geriatrica;  
-Nozioni di ortopedia e traumatologia;  
-Nozioni di reumatologia;  
-Elettroterapia e altre terapie fisiche;  
-Chinesiologia e diagnostica dei disturbi del movimento;  
-Metodologia di fisioterapia;  
-Metodologia di terapia occupazionale;  
-Metodologia di terapia del linguaggio;  
-Clinica della riabilitazione.  
-  
-Nel secondo anno viene dato particolare risalto alle dimostrazioni pratiche per tutte le materie di insegnamento presso i rispettivi istituti.  
-I corsi regolari saranno integrati da conferenze su argomenti specifici, proiezioni, visite ad altri istituti.  
-Art. 305. - Le commissioni per gli esami di profitto sono composte di tre membri nominati dal direttore.  
-Per essere ammessi a frequentare il 2° anno di studi, gli allievi devono avere superato almeno 2/13 degli, esami del 1° anno. Nel caso in cui gli allievi non abbiano superato gli esami prescritti del 1° anno, rimarranno nella posizione di fuori corso fino a quando non avranno assolto gli obblighi di cui sopra.  
-Art. 306. - Per essere ammessi a sostenere l'esame di diploma gli allievi dovranno aver seguito i corsi, superato gli esami in tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole le esercitazioni previste e l'anno di tirocinio.  
-L'esame per il conseguimento del diploma di tecnico fisioterapista consiste nella discussione di una tesi scritta su un tema preventivamente assegnato dal direttore della scuola.  
+Art. 77. - All'elenco degli insegnamenti complementari del corso di laurea in fisica e' aggiunto quello di "Teoria dei campi".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 27 settembre 1970
 
-LEONE SCALFARO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 20 febbraio 1973
+Registrato alla Corte dei conti, addi' 17 novembre 1970
 
-Atti di Governo, registro n. 256, foglio n. 5. - VALENTINI
+Atti del Governo, registro n. 238, foglio n. 70. - CARUSO

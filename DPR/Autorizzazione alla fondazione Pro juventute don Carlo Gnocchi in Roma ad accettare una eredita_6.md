@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 178
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1977 n. 796
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 178
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1977 n. 796
+================================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad ac
 Art. 1
 ------
 
-n.
+N.
 
-178. Decreto del Presidente della Repubblica 10 febbraio 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita', consistente in beni mobili, titoli e libretti al portatore per un valore complessivo L. 17.369.363 al netto delle passivita', disposta dalla sig.ra Maffini Emma con testamento olografo 10 aprile 1980, pubblicato in data 25 ottobre 1983, n. 12497/1687 di repertorio, a rogito dott. Ulderico Brambilla, notaio in Milano, registrato a Milano in data 9 novembre 1983 al n. 1829.  
+796. Decreto del Presidente della Repubblica 27 settembre 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.ra Zilli Margherita ved. Gritti, con testamento olografo del 14 maggio 1974 pubblicato a rogito del notaio Ferruccio Brambilla il 25 settembre 1974, n. 19605/2121 di repertorio, registrato a Busto Arsizio il 10 ottobre 1974 al n. 2080, vol. 155 A.P., consistente in un bene immobile sito in Milano, via Marocco, 3, distinto nel nuovo catasto edilizio urbano alla partita 24243 foglio 232, mappale 149 sub 1 e 2 e mappale 147 sub 1÷29, del valore presunto di L. 96.500.000, beni mobili consistenti in suppellettili e oggetti vari per un valore presunto di L. 2.360.050. Detti beni, al netto delle passivita', ammontano a L. 94.550.660.   
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 22 aprile 1986  
-Registro n. 4 Presidenza, foglio n. 46
+Visto, il Guardasigilli: BONIFACIO   
+Registrato alla Corte dei conti, addi' 26 ottobre 1977   
+Registro n. 8 Presidenza, foglio n. 255

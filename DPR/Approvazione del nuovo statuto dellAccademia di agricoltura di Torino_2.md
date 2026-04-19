@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 aprile 1948 n. 916
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1984 n. 833
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 aprile 1948 n. 916
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1984 n. 833
+================================================================
 
 Approvazione del nuovo statuto dell'Accademia di agricoltura di Torino.
 -----------------------------------------------------------------------
@@ -12,7 +12,8 @@ Art. 1
 
 N.
 
-916. Decreto del Presidente della Repubblica 6 aprile 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvato il nuovo statuto dell'Accademia di agricoltura di Torino.  
+833. Decreto del Presidente della Repubblica 14 settembre 1984, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene approvato il nuovo statuto dell'Accademia di agricoltura di Torino.  
   
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 30 giugno 1948
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 3 dicembre 1984  
+Registro n. 39 Beni culturali, foglio n. 113

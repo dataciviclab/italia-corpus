@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1984 n. 1178
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1982 n. 822
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1984 n. 1178
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1982 n. 822
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Trieste.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Trieste, approvato con [regio decreto 31 ottobre 1931, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-31;1836), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -28,7 +28,7 @@ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte 
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro della pubblica Istruzione;
 
 Decreta:
 --------
@@ -39,20 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 74, relativo al corso di laurea in odontoiatria e protesi dentaria, l'insegnamento fondamentale del biennio di "istituzioni di anatomia ed istologia patologica" passa al triennio e prende il numero 15); conseguentemente e' modificata la numerazione degli insegnamenti del biennio.  
+Nell'art. 61, relativo al corso di laurea In materie letterarie, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+filologia latina medioevale e umanistica.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservate.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1984
+### Dato a Roma, addi' 15 luglio 1982
 
-PERTINI
+PERTINI BODRATO
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DARIDA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 29 ottobre 1982
 
-Registrato alla Corte dei conti, addi' 11 aprile 1985
-
-Registro n. 22 Istruzione, foglio n. 146
+Registro n. 121 Istruzione, foglio n. 57

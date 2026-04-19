@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1019
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 marzo 1968 n. 574
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1019
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 marzo 1968 n. 574
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
@@ -25,68 +25,18 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 37. - E' modificato nel senso che la facolta' di magistero rilascia anche la laurea in pedagogia.  
-Dopo l'art. 38 e con il conseguente spostamento della numerazione degli articoli successivi viene inserito il seguente nuovo articolo relativo all'ordinamento del nuovo corso di laurea in pedagogia.  
-Corso di laurea in pedagogia  
-Art. 39. - Gli insegnamenti per il conseguimento della laurea in pedagogia sono i seguenti:  
-Sono insegnamenti fondamentali:  
-1) Lingua e letteratura italiana (biennale);  
-2) Lingua e letteratura latina (biennale);  
-3) Storia della filosofia (biennale);  
-4) Filosofia (biennale);  
-5) Pedagogia (triennale);  
-6) Storia (biennale);  
-7) Lingua e letteratura moderna straniera a scelta (biennale).  
-Sono insegnamenti complementari:  
-1) Antropologia culturale;  
-2) Economia, dell'istruzione e della ricerca scientifica;  
-3) Estetica;  
-4) Estetica musicale;  
-5) Filologia romanza;  
-6) Filologia germanica;  
-7) Filosofia morale;  
-8) Filosofia della religione;  
-9) Filosofia della scienza;  
-10) Filosofia della storia;  
-11) Igiene;  
-12) Istituzioni di diritto pubblico e legislazione scolastica;  
-13) Metodologia e didattica;  
-14) Metodologia e didattica degli audiovisivi;  
-15) Pedagogia sperimentale;  
-16) Psicologia;  
-17) Psicologia dell'eta' evolutiva;  
-18) Psicologia sociale;  
-19) Puericultura;  
-20) Sociologia;  
-21) Sociologia della educazione;  
-22) Storia contemporanea;  
-23) Storia del Cristianesimo;  
-24) Storia della grammatica e della lingua italiana;  
-25) Storia della letteratura per l'infanzia;  
-26) Storia della musica;  
-27) Storia della pedagogia;  
-28) Storia dell'arte medioevale e moderna;  
-29) Storia della scuola e delle istituzioni educative;  
-30) Storia delle dottrine e delle istituzioni politiche;  
-31) Storia del Risorgimento;  
-32) Storia del teatro e dello spettacolo;  
-33) Storia e critica del cinema;  
-34) Tecnica e didattica del linguaggio cinematografico.  
-Nel corso di "Storia" (biennale) un anno deve essere dedicato alla "Storia medioevale" ed un anno alla "Storia moderna" alternativamente.  
-Lo studente deve sostenere una prova scritta di italiano, una traduzione latina, una della lingua straniera scelta ed una di cultura generale sulle discipline filosofiche.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari.  
-Art. 42, relativo all'esame di laurea e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente: "Per la laurea in Materie letterarie" l'argomento della dissertazione deve essere letterario, storico, geografico o filosofico, per la laurea in "Pedagogia" l'argomento della dissertazione deve essere filosofico, storico, pedagogico, sociologico o psicologico".  
+Art. 38. - Nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia l'insegnamento di "Genetica umana" muta denominazione in quello di "Genetica medica".  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e de decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 22 marzo 1968
 
-LEONE SCALFARO
+SARAGAT GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 20 febbraio 1973
+Registrato alla Corte dei conti, addi' 24 aprile 1968
 
-Atti di Governo, registro n. 256, foglio n. 3. - VALENTINI
+Atti del Governo, registro n. 219, foglio n. 57. - GRECO

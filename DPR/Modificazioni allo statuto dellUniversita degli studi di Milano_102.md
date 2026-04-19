@@ -1,11 +1,149 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1978 n. 810
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1978 n. 710
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1978 n. 810
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1978 n. 710
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 148 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva (seconda scuola).
+
+Art. 171, terzo comma - e' modificato nel senso che il numero complessivo degli iscritti da ammettere alla scuola di specializzazione in audiologia e' stabilito in trenta (dieci per anno di corso).
+
+Art. 192 - e' modificato nel senso che il numero massimo degli iscritti da ammettere alla scuola di specializzazione in chirurgia d'urgenza e pronto soccorso e stabilito in venticinque per ogni anno di corso (totale cinquanta iscritti).
+
+Art. 213, quarto comma - e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in igiene e medicina preventiva e' stabilito in cinquanta per anno di corso.
+
+Art. 215, ultimo comma - e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in malattie dell'apparato digerente e' stabilito in venticinque per anno di corso.
+
+Art. 235, terzo comma - e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in nefrologia medica e' stabilito in quindici per anno di corso.
+
+Art. 238, secondo comma - e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in neurologia e' stabilito in trenta per anno di corso.
+
+Art. 242, secondo comma - e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in oculistica e' stabilito in venti per anno di corso.
+
+Art. 245, secondo comma - e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale e' stabilito in quindici per ogni anno di corso.
+
+Art. 247, settimo comma - e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in psichiatria e' stabilito in quaranta per anno di corso.
+
+Art. 263, terzo comma - e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio e' stabilito in trenta per anno di corso.
+
+Art. 264, terzo comma - e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in urologia e' stabilito in venti per anno di corso.
+
+Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva (seconda scuola).
+
+Art. 265. - La seconda scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva ha sede presso un istituto di materie chirurgiche e conferisce il diploma di specialista in chirurgia dell'apparato digerente ed endoscopia digestiva.
+
+Art. 266. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Art. 267. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+Art. 268. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.
+
+Art. 269. - Il numero massimo degli allievi e' di venti per anno di corso e complessivamente di cento iscritti per l'intero corso di studi.
+
+Art. 270. - L'ammissione al corso avviene per titoli ed esami.
+
+Art. 271. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+anatomia descrittiva e topografica specialistica (biennale I); fisiopatologia e semeiotica funzionale (biennale I);
+
+anatomia ed istologia patologica (biennale I);
+
+patologia chirurgica (triennale I).
+
+2° Anno:
+
+anatomia descrittiva e topografica specialistica (biennale II); fisiopatologia e semeiotica funzionale (biennale II);
+
+anatomia ed istologia patologica (biennale II);
+
+patologia chirurgica (triennale II);
+
+semeiotica chirurgica (triennale I);
+
+radiologia e medicina nucleare (triennale I);
+
+endoscopia digestiva diagnostica e terapeutica (triennale I). 3° Anno:
+
+patologia chirurgica (triennale III);
+
+semeiotica chirurgica (triennale II);
+
+radiologia e medicina nucleare (triennale II);
+
+endoscopia digestiva diagnostica e terapeutica (triennale II); clinica e terapia chirurgica (triennale I);
+
+tecniche operatorie (triennale I).
+
+4° Anno:
+
+semeiotica chirurgica (triennale III);
+
+radiologia e medicina nucleare (triennale III); endoscopia digestiva diagnostica e terapeutica (triennale III); clinica e terapia chirurgica (triennale II);
+
+tecniche operatorie (triennale II);
+
+anestesia e rianimazione;
+
+riabilitazione in chirurgia digestiva.
+
+5° Anno:
+
+clinica e terapia chirurgica (triennale III);
+
+tecniche operatorie (triennale III);
+
+chirurgia d'urgenza dell'apparato digerente;
+
+chirurgia pediatrica dell'apparato digerente;
+
+terapia intensiva.
+
+Art. 272. - La frequenza alle lezioni, alle esercitazioni pratiche, ai periodi di internato e' obbligatorio per l'ammissione agli esami; il superamento degli esami di ciascun anno sara' condizione indispensabile per l'iscrizione all'anno successivo.
+
+Art. 273. - Al termine del quinquennio per ottenere il diploma, i candidati dovranno presentare una dissertazione scritta su un argomento della specializzazione.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 18 luglio 1978
+
+PERTINI
+
+PEDINI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 6 novembre 1978 Registro n. 119 Istruzione, foglio n. 58
 
 Art. 1
 ------
@@ -13,77 +151,78 @@ Art. 1
  IL PRESIDENTE DELLA REPUBBLICA   
   
 Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
 Sulla proposta del Ministro della pubblica istruzione;   
   
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-Dopo l'art. 392 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola diretta a fini speciali in citologia diagnostica, presso la facolta' di medicina e chirurgia:   
-  
-Scuola diretta a fini speciali in citologia diagnostica   
-  
-Art. 393. - La scuola diretta a fini speciali in citologia diagnostica ha sede presso la cattedra di anatomia e istologia patologica (in soprannumero) della Universita' di Milano.   
-Art. 394. - La durata del corso degli studi e' di due anni.   
-Art. 395. - Possono essere ammessi alla scuola gli allievi in possesso di un titolo di istruzione secondaria valido per la ammissione ai corsi universitari.   
-Art. 396. - Per ottenere l'iscrizione alla scuola i candidati debbono sostenere un esame di ammissione.   
-Il numero dei posti disponibili e' determinato anno per anno con decreto del rettore, udito il direttore della scuola.   
-L'ammissione avverra' secondo l'ordine della graduatoria dell'esame sopraddetto.   
-Art. 397. - L'esame di ammissione consiste in una prova scritta di cultura medico-biologica generale e di conoscenza di una lingua straniera, scelta tra l'inglese, il francese ed il tedesco.   
-La commissione esaminatrice e' composta dal preside della facolta' di medicina e chirurgia, dal direttore della scuola e da un terzo membro designato dal rettore dell'Universita'.   
-Art. 398. - L'esame di ammissione avra' luogo entro la prima decade di novembre, nel giorno che sara' stabilito dal rettore con apposito manifesto.   
-Art. 399. - L'anno accademico ha inizio il 15 novembre e termina il 30 giugno.   
-Art. 400. - La domanda di ammissione deve essere corredata dai seguenti documenti: certificato di nascita in carta legale, titolo di studi medi superiori in originale, tre fotografie di cui una autenticata, quietanza del pagamento delle tasse, foglio di iscrizione al corso su modulo rilasciato dall'economato dell'Universita'.   
-Art. 401. - Il direttore della scuola e' di diritto il titolare della cattedra di anatomia e istologia patologica (in soprannumero) dell'Universita' di Milano.   
-Gli insegnanti della scuola sono proposti dal consiglio di facolta' di medicina e chirurgia, udito il direttore della scuola, e nominati dal rettore.   
-Art. 402. - Le materie di insegnamento sono:   
+Art. 148 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva (seconda scuola).   
+Art. 171, terzo comma - e' modificato nel senso che il numero complessivo degli iscritti da ammettere alla scuola di specializzazione in audiologia e' stabilito in trenta (dieci per anno di corso).   
+Art. 192 - e' modificato nel senso che il numero massimo degli iscritti da ammettere alla scuola di specializzazione in chirurgia d'urgenza e pronto soccorso e stabilito in venticinque per ogni anno di corso (totale cinquanta iscritti).   
+Art. 213, quarto comma - e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in igiene e medicina preventiva e' stabilito in cinquanta per anno di corso.   
+Art. 215, ultimo comma - e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in malattie dell'apparato digerente e' stabilito in venticinque per anno di corso.   
+Art. 235, terzo comma - e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in nefrologia medica e' stabilito in quindici per anno di corso.   
+Art. 238, secondo comma - e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in neurologia e' stabilito in trenta per anno di corso.   
+Art. 242, secondo comma - e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in oculistica e' stabilito in venti per anno di corso.   
+Art. 245, secondo comma - e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale e' stabilito in quindici per ogni anno di corso.   
+Art. 247, settimo comma - e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in psichiatria e' stabilito in quaranta per anno di corso.   
+Art. 263, terzo comma - e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio e' stabilito in trenta per anno di corso.   
+Art. 264, terzo comma - e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in urologia e' stabilito in venti per anno di corso.   
+Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva (seconda scuola).   
+Art. 265. - La seconda scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva ha sede presso un istituto di materie chirurgiche e conferisce il diploma di specialista in chirurgia dell'apparato digerente ed endoscopia digestiva.   
+Art. 266. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 267. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+Art. 268. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.   
+Art. 269. - Il numero massimo degli allievi e' di venti per anno di corso e complessivamente di cento iscritti per l'intero corso di studi.   
+Art. 270. - L'ammissione al corso avviene per titoli ed esami.   
+Art. 271. - Le materie di insegnamento sono le seguenti:   
 1° Anno:   
-elementi di anatomia umana normale;   
-istologia e citologia normale;   
-microbiologia;   
-citochimica e istochimica;   
-elementi di anatomia e istologia patologica;   
-tecniche di citopreparazione.   
+anatomia descrittiva e topografica specialistica (biennale I); fisiopatologia e semeiotica funzionale (biennale I);   
+anatomia ed istologia patologica (biennale I);   
+patologia chirurgica (triennale I).   
 2° Anno:   
-citologia diagnostica dell'apparato genitale femminile;   
-citologia diagnostica dell'apparato respiratorio;   
-citologia diagnostica dell'apparato digerente;   
-citologia diagnostica dell'apparato urinario;   
-citologia diagnostica dei versamenti;   
-elementi di citologia diagnostica da agoaspirazione.   
-L'intero corso e' costituito da lezioni teoriche e pratiche ed esercitazioni da effettuarsi a rotazione nei laboratori della cattedra di anatomia e istologia patologica (in soprannumero) e presso servizi di anatomia e istologia patologica ospedalieri.   
-Durante il secondo anno di studi gli allievi presteranno servizio nei laboratori in cui saranno assegnati.   
-Art. 403. - Possono essere ammessi a sostenere l'esame di diploma gli allievi che avranno sostenuto, con esito favorevole, gli esami di tutti gli insegnamenti ed una prova pratica di citologia diagnostica.   
-Art. 404. - Le commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia, su proposta del direttore della scuola.   
-Le commissioni sono composte di tre membri: il professore ufficiale della materia, presidente, un professore ufficiale di materia affine ed un libero docente e cultore della materia. Ogni commissario ha a disposizione dieci punti.   
-Art. 405. - L'esame di diploma consiste nella discussione di una dissertazione scritta, su tema preventivamente assegnato dal direttore della scuola e in una prova pratica di citologia diagnostica, stabilita dalla commissione esaminatrice.   
-L'esame di diploma viene sostenuto davanti ad una commissione di cinque membri, scelti tra i docenti della scuola, nominata dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Ogni commissario ha a sua disposizione dieci punti.   
-I candidati non riconosciuti idonei potranno ripresentarsi all'esame di diploma dopo un altro anno di frequenza; se al secondo esame non conseguiranno l'idoneita', saranno esclusi da ulteriori prove.   
-Agli allievi che avranno superato l'esame finale viene rilasciato il diploma in citologia diagnostica.   
-Art. 406. - Le tasse e le soprattasse sono le seguenti:   
-  
-tassa annuale di iscrizione . . . . . . . . . . . . . . L. 18.000 soprattassa annuale di iscrizione . . . . . . . . . . . L. 7.000 tassa annuale di iscrizione per gli studenti   
-fuori corso . . . . . . . . . . . . . . . . . . . . . . L. 5.000   
-L'ammontare dei contributi per le esercitazioni pratiche e per le altre prestazioni di cui gli iscritti usufruiscono durante il corso di studi, e' fissato, anno per anno dal consiglio di amministrazione dell'Universita', su proposta del senato accademico, udita la facolta' di medicina e chirurgia e la scuola.   
-La tassa di diploma e' di L. 6.000 ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).   
+anatomia descrittiva e topografica specialistica (biennale II); fisiopatologia e semeiotica funzionale (biennale II);   
+anatomia ed istologia patologica (biennale II);   
+patologia chirurgica (triennale II);   
+semeiotica chirurgica (triennale I);   
+radiologia e medicina nucleare (triennale I);   
+endoscopia digestiva diagnostica e terapeutica (triennale I). 3° Anno:   
+patologia chirurgica (triennale III);   
+semeiotica chirurgica (triennale II);   
+radiologia e medicina nucleare (triennale II);   
+endoscopia digestiva diagnostica e terapeutica (triennale II); clinica e terapia chirurgica (triennale I);   
+tecniche operatorie (triennale I).   
+4° Anno:   
+semeiotica chirurgica (triennale III);   
+radiologia e medicina nucleare (triennale III); endoscopia digestiva diagnostica e terapeutica (triennale III); clinica e terapia chirurgica (triennale II);   
+tecniche operatorie (triennale II);   
+anestesia e rianimazione;   
+riabilitazione in chirurgia digestiva.   
+5° Anno:   
+clinica e terapia chirurgica (triennale III);   
+tecniche operatorie (triennale III);   
+chirurgia d'urgenza dell'apparato digerente;   
+chirurgia pediatrica dell'apparato digerente;   
+terapia intensiva.   
+Art. 272. - La frequenza alle lezioni, alle esercitazioni pratiche, ai periodi di internato e' obbligatorio per l'ammissione agli esami; il superamento degli esami di ciascun anno sara' condizione indispensabile per l'iscrizione all'anno successivo.   
+Art. 273. - Al termine del quinquennio per ottenere il diploma, i candidati dovranno presentare una dissertazione scritta su un argomento della specializzazione.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 ottobre 1978
+### Dato a Roma, addi' 18 luglio 1978
 
 PERTINI PEDINI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 11 dicembre 1978
+Registrato alla Corte dei conti, addi' 6 novembre 1978
 
-Registro n. 130 Istruzione, foglio n. 150
+Registro n. 119 Istruzione, foglio n. 58

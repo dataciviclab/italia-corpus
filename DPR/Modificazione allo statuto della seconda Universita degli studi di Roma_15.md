@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 dicembre 1983 n. 1054
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 aprile 1986 n. 388
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 dicembre 1983 n. 1054
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 aprile 1986 n. 388
+=============================================================
 
 Modificazione allo statuto della seconda Universita' degli studi di Roma.
 -------------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto della seconda Universita' degli studi di Roma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto della seconda Universita' degli studi di Roma, approvato con [decreto del Presidente della Repubblica 3 aprile 1979, n. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1979-04-03;122), e successive modificazioni;
+Veduto lo statuto della seconda Universita' di Roma, approvato con [decreto del Presidente della Repubblica 29 ottobre 1980, n. 1137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-10-29;1137), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -33,28 +33,26 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto della seconda Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto della seconda Universita' di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Art. 51 - nell'elenco degli insegnamenti del corso di laurea in medicina e chirurgia sono inseriti i seguenti insegnamenti complementari:  
-ematologia pediatrica;  
-neuropsicologia clinica;  
-fisiopatologia medica;  
-traumatologia.  
+Nell'art. 51, all'elenco degli insegnamenti del corso di laurea in medicina e chirurgia e' aggiunto l'insegnamento di "semeiotica ostetrica".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 dicembre 1983
+### Dato a Roma, addi' 8 aprile 1986
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 29 febbraio 1984
+Registrato alla Corte dei conti, addi' 11 luglio 1986
 
-Registro n. 13 Istruzione, foglio n. 48
+Registro n. 56 Istruzione, foglio n. 13

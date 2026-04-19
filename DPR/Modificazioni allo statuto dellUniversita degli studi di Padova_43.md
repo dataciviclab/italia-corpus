@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 agosto 1971 n. 883
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1966 n. 219
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 agosto 1971 n. 883
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1966 n. 219
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -10,116 +10,85 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Veduta la [legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta, intese ad ottenere:   
-l'istituzione del corso di laurea in psicologia presso la facolta' di magistero;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Presso la facolta' di magistero dell'Universita' degli studi di Padova e' istituito il corso di laurea in psicologia. Tale nuovo corso di laurea comincera' a funzionare a decorrere dall'anno accademico 1971-72 con il primo anno di corso. Negli anni accademici successivi funzioneranno progressivamente gli anni di corso susseguenti al primo.   
-Alla fine del corso di studi viene rilasciata la laurea in psicologia.   
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati e' modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 53. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di:  
+73) Estetica;  
+74) Storia della Chiesa;  
+75) Storia dell'arte contemporanea;  
+76) Storia dell'architettura e dell'urbanistica;  
+77) Istituzioni medioevali;  
+78) Filologia dantesca.  
+Dopo l'art. 68 e con il conseguente spostamento della numerazione degli articoli successivi e' aggiunto il seguente nuovo articolo relativo alla istituzione del seminario di lingue e letterature straniere moderne ammesso alla Facolta' di lettere e filosofia.  
   
-L'art. 85 e' abrogato e sostituito dal seguente:   
+Seminario di lingue e letterature straniere moderne  
   
-Art. 85. - La facolta' di magistero conferisce esclusivamente:   
-la laurea in materie letterarie;   
-la laurea in pedagogia;   
-la laurea in psicologia;   
-il diploma di abilitazione alla vigilanza nelle scuole elementari.   
-Dopo l'art. 87 e con il conseguente spostamento della numerazione degli articoli successivi e' inserito il seguente articolo relativo alla istituzione del corso di laurea in psicologia.   
-Laurea in psicologia   
-Art. 88. - Durata del corso di studi: quattro anni, suddivisi in un biennio di base ed un biennio di preparazione specifica, ordinato secondo i seguenti indirizzi:   
-didattico, applicativo, sperimentale.   
-Titolo di ammissione: quello consentito dalle vigenti disposizioni di legge.   
-Insegnamenti fondamentali:   
-Biennio di base:   
-1) Psicologia generale (biennale);   
-2) Psicologia dell'eta' evolutiva (biennale);   
-3) Psicologia fisiologica con fondamenti biologici ed anatomo-fisiologici dei processi mentali (biennale);   
-4) Statistica psicometrica;   
-5) Psicologia sociale;   
-6) Sociologia;   
-7) Istituzioni di pedagogia.   
-Al termine del biennio di base gli studenti debbono scegliere l'indirizzo di laurea e, quindi, il tipo di corso che intendono frequentare nel secondo biennio, e debbono sostenere un esame di lingua inglese consistente nella traduzione ad apertura di libro di brani di un'opera di psicologia, scritto in lingua inglese.   
-Biennio di preparazione specifica:   
+Art. 69. - Il seminario di lingue e letterature straniere moderne comprende ed integra gli insegnamenti di lingua e letteratura francese, inglese, tedesca, spagnola, olandese e fiamminga, rumena, russa, le letterature ispano-americana e nord-americana e le eventuali altre letterature moderne.  
+Art. 70. - Agli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti quelli di:  
+19) Linguistica;  
+20) Storia e critica del cinema;  
+21) Metodologia e didattica degli audiovisivi;  
+22) Storia della lingua latina;  
+23) Storia contemporanea.  
+Gli articoli dal n. 357 al 364, relativi alla Scuola di perfezionamento in Economia montana delle Venezie sono abrogati e sostituiti dai seguenti relativi al corso di perfezionamento in Economia montana delle Venezie.  
   
-Indirizzo didattico:   
-1) Psicologia dinamica;   
-2) Psicopedagogia;   
-3) Storia della filosofia;   
-4) Una materia filosofica a scelta;   
-5) Una materia pedagogica a scelta;   
-6) Storia;   
-7), 8), 9), 10) Quattro insegnamenti complementari a scelta.   
-Indirizzo applicativo:   
+Corso di perfezionamento in Economia montana delle Venezie  
   
-1) Teorie della personalita';   
-2) Psicopatologia generale e dell'eta' evolutiva;   
-3) Psicologia dinamica;   
-4) Teoria e tecniche dei tests;   
-5), 6) Tecniche d'indagine della personalita' (biennale);   
-7), 8), 9), 10) Quattro insegnamenti complementari a scelta.   
+Art. 357. - Alla Facolta' di agraria e' annesso il corso di perfezionamento in "Economia montana delle Venezie".  
+Il corso ha lo scopo di preparare i laureati in Scienze agrarie e in Scienze forestali per metterli in grado di affrontare i problemi dell'economia montana, di dirigere, amministrare ed assistere aziende silvane e pastorali di montagna, di condurre ricerche in luogo, svolgere azione di propaganda e di impartire l'insegnamento in Istituti e Scuole professionali agrarie specializzate, in relazione alle attivita' preminenti delle singole zone.  
+Il corso ha due diversi indirizzi:  
+a) ecologico-selvicolturale;  
+b) economico-zootecnico.  
+Alla fine del corso viene rilasciato un certificato di frequenza e di esami.  
+Art. 358. - Al corso di perfezionamento in Economia montana delle Venezie possono iscriversi, per il conseguimento del certificato di frequenza e di esami, i laureati in Scienze agrarie o in Scienze forestali.  
+Il numero massimo degli iscritti e' determinato annualmente dal direttore del corso, con preferenza ai cittadini residenti nelle Venezie.  
+Art. 359. - E' direttore del corso il professore ufficiale di Economia e politica agraria della Facolta' di agraria dell'Universita' di Padova e vicedirettore il professore ufficiale di Selvicoltura.  
+Art. 360. - La durata degli studi per il conseguimento del certificato di frequenza e di esami del corso di perfezionamento e' di un anno.  
+Art. 361. - Durante il corso per l'indirizzo ecologico-selvicolturale gli iscritti debbono frequentare i seguenti insegnamenti:  
+1) Geologia, mineralogia e petrografia;  
+2) Climatologia;  
+3) Sistematica delle specie di interesse forestale;  
+4) Pedologia (chimica, fisica e biologia del suolo);  
+5) Metodologie per la definizione dei caratteri stazionali;  
+6) Selvicoltura: trattamento del bosco, biologia ed ecologia degli alberi forestali e dei vegetali del sottobosco.  
+Durante il corso per l'indirizzo economico-zootecnico gli iscritti debbono frequentare i seguenti insegnamenti:  
+1) Agronomia montana: pascolicoltura, praticoltura;  
+2) Economia dell'azienda di montagna;  
+3) Legislazione relativa alla montagna;  
+4) Zoologia forestale venatoria ed acquicoltura;  
+5) Zootecnica.  
+I corsi possono essere integrati da conferenze, esercitazioni e da visite sul luogo.  
+Durante il corso gli iscritti si dedicano anche alla compilazione di un lavoro applicativo originale (piano, progetto, studio, ecc.) in una delle materie professionali, procedendo nelle zone montane oggetto della ricerca, alla raccolta di dati, indagini ed esperienze necessari.  
+L'argomento del lavoro deve essere approvato dal competente professore ufficiale.  
+Art. 362. - Per essere ammesso all'esame per il conseguimento del certificato, l'iscritto deve aver ottenuto tutte le attestazioni di frequenza agli insegnamenti del corso, superando i relativi esami ed aver compilato il lavoro originale di cui all'articolo precedente.  
+Art. 363. - L'esame per il conseguimento del certificato consiste nella discussione del lavoro compilato dall'iscritto durante il corso.  
+La Commissione di esame per il conseguimento del certificato e' presieduta dal preside della Facolta' di agraria e composta di almeno cinque professori ufficiali scelti tra i docenti del corso e della Facolta' di agraria.  
+Art. 364. - Le tasse e sopratasse che gli iscritti sono tenuti a pagare per la iscrizione e la frequenza del corso sono fissate dal Consiglio di amministrazione su proposta della Facolta' di agraria.  
+L'ammontare dei contributi viene stabilito dal Consiglio di amministrazione, su proposta del Senato accademico, udita la Facolta' e il direttore del corso.  
   
-Indirizzo sperimentale:   
-1) Biologia generale;   
-2) Istituzioni di matematica;   
-3) Psicometria;   
-4) Tecniche sperimentali di ricerca;   
-5) Psicologia animale e comparata;   
-6) Psicolinguistica;   
-7) Metodologia della ricerca psicologica;   
-8), 9), 10) Tre insegnamenti complementari a scelta.   
-  
-Insegnamenti complementari:   
-1) Antropologia culturale;   
-2) Biochimica;   
-3) Criminologia;   
-4) Fisica (per corso di scienze biologiche)   
-5) Filosofia della scienza;   
-6) Filosofia morale;   
-7) Filosofia teoretica;   
-8) Genetica;   
-9) Lingua e letteratura italiana;   
-10) Logica;   
-11) Metodologia generale delle scienze biologiche;   
-12) Neurofisiologia;   
-13) Neuropsichiatria infantile;   
-14) Psichiatria;   
-15) Psicologia della percezione;   
-16) Psicologia clinica;   
-17) Psicologia del lavoro;   
-18) Psicofisiologia dei processi onirici;   
-19) Sociologia dell'educazione;   
-20) Storia della pedagogia;   
-21) Storia della psicologia;   
-22) Storia della scienza;   
-23) Zoologia, e tutte le discipline proposte per gli indirizzi, diversi da quello prescelto.   
-A tutti gli insegnamenti del primo e del secondo biennio sono annessi seminari e corsi di esercitazioni.   
-All'inizio del primo anno di biennio di preparazione specifica gli allievi dovranno concordare con il direttore dell'istituto di psicologia e con il relatore l'argomento della tesi di laurea, la quale, comunque, dovra' essere svolta nell'ambito delle materie psicologiche.   
-Il passaggio da un indirizzo all'altro, nell'ambito del corso di laurea puo' essere deciso dallo studente, previo accordo con il consiglio del corso di laurea.   
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami relativi a venti insegnamenti di durata annuale, e, cioe' oltre a tutti gli esami fondamentali e almeno quattro complementari per l'indirizzo didattico, quattro per l'indirizzo applicativo e tre per l'indirizzo sperimentale.   
-Superato l'esame di laurea lo studente consegue il titolo di dottore in psicologia con l'indicazione dello indirizzo prescelto.   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 agosto 1971
+### Dato a Roma, addi' 14 febbraio 1966
 
-SARAGAT MISASI
+SARAGAT GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 29 ottobre 1971
+Registrato alla Corte dei conti, addi' 18 aprile 1966
 
-Atti del Governo, registro n. 244, foglio n. 191. - CARUSO
+Atti del Governo, registro n. 202, foglio n. 138. - VILLA

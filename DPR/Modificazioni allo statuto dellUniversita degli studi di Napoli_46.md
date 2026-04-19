@@ -1,305 +1,382 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1170
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 settembre 1962 n. 1560
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1170
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 settembre 1962 n. 1560
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successivi;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 22. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:
+
+Diritto processuale amministrativo;
+
+Diritto degli Enti locali.
+
+Art. 25. - Agli insegnamenti complementari di corso di laurea in Scienze politiche sono aggiunti quelli di:
+
+Diritto degli Enti locali;
+
+Diritto ecclesiastico.
+
+Art. 118. - Agli insegnamenti complementari del corso di laurea in Chimica sono aggiunti i seguenti insegnamenti complementari:
+
+Per l'indirizzo organico biologico:
+
+Chimica delle sostanze naturali;
+
+Chimica macromolecolare;
+
+Analisi strumentale.
+
+Per l'indirizzo inorganico-chimico-fisico:
+
+Chimica macromolecolare;
+
+Struttura della materia;
+
+Istituzioni di fisica teorica;
+
+Analisi strumentale.
+
+Art. 119. - I commi 5°, 6°, 7° ed 8° relativi alle norme per gli esami di laurea in Chimica sono abrogati e sostituiti dai seguenti:
+
+"L'esame di laurea in Chimica consta di due parti:
+
+la prima comprende:
+
+a) un colloquio inteso ad accertare la cultura generale del candidato nelle discipline chimiche del corso di studio seguito;
+
+b) una prova pratica di analisi chimica.
+
+la seconda consiste:
+
+a) nella compilazione di una tesi originale su argomento a libera scelta mila rispondente ai fini essenziali della laurea ed eseguita preferibilmente in uno dei laboratori degli insegnamenti fondamentali del corso di laurea in Chimica
+
+b) nella discussione della tesi medesima nonche', di una argomento scelto anch'esso dal candidato in una materia diversa da quella su cui verte la tesi.
+
+Le Commissioni per il colloquio di cui alla lettera a) e per la prova di cui alla lettera b) della prima parte dell'esame sono composte da professori ufficiali della Facolta' di scienze".
+
+Art. 121. - Agli insegnamenti complementari del corso di laurea in Chimica industriale sono aggiunti quelli di:
+
+Chimica macromolecolare;
+
+Chimica delle sostanze coloranti;
+
+Analisi strumentale.
+
+Art. 122. - I commi 6°, 7°, 8° e 9° relativi alle norme per gli esami di laurea in Chimica industriale sono abrogati e sostituiti dai seguenti:
+
+"L'esame di laurea in Chimica industriale consta in due parti;
+
+la prima comprende:
+
+a) un colloquio inteso ad accertare le cultura generale del candidato nelle discipline chimiche del corso di studi seguito;
+
+b) una prova pratica di analisi chimica;
+
+la seconda consiste:
+
+a) nella compilazione di una tesi originale su argomento a libera scelta ma rispondente ai fini essenziali della laurea ed eseguita preferibilmente in uno dei laboratori degli insegnamenti fondamentali del corso di laurea in Chimica industriale;
+
+b) nella discussione della tesi medesima nonche' di un argomento scelto anch'esso dal candidato in una materia diversa di quella su cui verte la tesi.
+
+Le Commissioni per il colloquio di cui alla lettera a) e per la prova di cui alla lettera b) della prima parte dell'esame sono composte dai professori ufficiali della Facolta' di scienze.
+
+Art. 138. - Agli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti quelli di:
+
+Ecologia;
+
+Biogeografia.
+
+Art. 146. - Agli insegnamenti complementari del corso in Scienze biologiche sono aggiunti quelli di:
+
+Ecologia;
+
+Biogeografia.
+
+Art. 149. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti quelli di:
+
+Geologia degli idrocarburi;
+
+Geologia regionale;
+
+Idrogeologia;
+
+Mineralogia, applicata;
+
+Paleontologia dei vertebrati;
+
+Rilevamento geologico con elementi di aerofotogeologia.
+
+Sedimentologia.
+
+Art. 180. - E' abolita la propedeuticita' dell'insegnamento di "Strade, ferrovie ed aeroporti" rispetto allo insegnamento di e Tecnica delle fondazioni e Costruzioni in terra a nel corso di laurea in ingegneria civile per le sezioni idraulica e trasporti.
+
+Dopo l'art. 183 e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi all'istituzione del Seminario sulle Tecnologie degli impianti nucleari.
+
+Seminario sulle Tecnologie degli impianti nucleari.
+
+Art. 184. - Nella Facolta' di ingegneria, presso l'Istituto di tecnologie, e' istituito un Seminario sulle Tecnologie degli impianti nucleari.
+
+Art. 185. - Il Seminario indirizza laureati e laureandi in Ingegneria o in altre discipline allo studio di problemi tecnologici specifici delle applicazioni tecniche dell'energia nucleare.
+
+Art. 186. - I corsi del Seminario hanno la durata di un anno accademico.
+
+Art. 187. - Il Seminario e' diretto dal direttore dello Istituto di tecnologie.
+
+Art. 188. - Gli insegnamenti del Seminario possono svolgersi sotto forma di lezioni cattedratiche, discussioni ed esercitazioni di carattere professionale.
+
+Art. 189. - Al Seminario possono iscriversi laureati in ingegnaria o in altre Facolta' che aspirino ad una specifica preparazione nel campo delle applicazioni tecniche dell'ingegneria nucleare.
+
+Possono inoltre iscriversi laureandiin ingegneria che svolgono la tesi stesso campo.
+
+L'ammissione al Seminario e' subordinata ad un esame di ammissione, inteso inteso ad accertare negli aspiranti sufficiente preparazione generale.
+
+Art. 190. - Il Seminario potra' eventualmente disporre di borse di studio che verranno conferite su proposta del Consiglio della Facolta' in base alle modalita' saranno stabilite dallo stesso Consiglio.
+
+Gli articoli 296 e 297 relativi alla Scuola di specializzazione in malattie nervose e mentali sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in malattie nervose e mentali
+
+Art. 296. - La Scuola ha la durata di tre anni.
+
+Le materie d'insegnamento sono:
+
+I anno:
+
+Anatomia del sistema nervoso;
+
+Anatomia patologica del sistema nervoso;
+
+Neurofisiologia ed elettrobiologia clinica;
+
+Psicologia e psicopatologia;
+
+Semeiotica neurologica;
+
+Semeiotica psichiatrica.
+
+II anno:
+
+Neuroftalmologia;
+
+Otorinolaringoiatria, applicata alla clinica neuropsichiatrica;
+
+Neuroradiologia;
+
+Neurochimica e psicofarmacologia;
+
+Pronto soccorso psichiatrico e tecnica manicomaniale.
+
+III anno:
+
+Clinica neurologica;
+
+Clinica psichiatrica;
+
+Neuropsichiatrica infantile;
+
+Neurochirurgia;
+
+Medicina legale.
+
+Art. 297. - Gli esami saranno sostenuti alla fine di ciascun anno; non saranno ammessi al corso successivo coloro i quali non avranno superato gli esami dell'anno a cui sono iscritti.
+
+Il numero massimo degli iscritti non puo' essere complessivamente superiore a trenta.
+
+Alla fine del corso gli iscritti, oltre a presentare la dissertazione scritta e sostenere la relativa discussione a norma dell'art. 283 devono sostenere una prova pratica di clinica ed una di laboratorio.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti' della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 17 settembre 1962
+
+SEGNI
+
+GUI
+
+Visto, il Guardasigilli: BOSCO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 7 novembre 1962 Atti del Governo, registro n. 160, foglio n. 3. - VILLA
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che presso la seconda facolta' di medicina e chirurgia sono istituite le seguenti scuole di specializzazione:   
-Chirurgia;   
-Malattie dell'apparato cardiovascolare;   
-Malattie infettive;   
-Medicina legale e delle assicurazioni;   
-Neurologia.   
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 487, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in chirurgia, malattie dell'apparato cardiovascolare, malattie infettive, medicina legale e delle assicurazioni, neurologia.   
+Art. 22. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:  
   
-Scuola di specializzazione in chirurgia   
+Diritto processuale amministrativo;  
+Diritto degli Enti locali.  
   
-Art. 488. - Alla seconda facolta' di medicina e chirurgia dell'Universita' degli studi di Napoli e' annessa la scuola di specializzazione in chirurgia, con sede presso la cattedra di clinica chirurgica generale e terapia chirurgica ed e' diretta dal titolare della cattedra medesima.   
-La scuola conferisce il diploma di specialista in chirurgia. La durata della scuola e' di cinque anni.   
-Il numero degli allievi da ammettere non puo' essere superiore a dodici per ogni anno.   
-La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base dei titoli ed esami. Non sono consentite iscrizioni con abbreviazioni di corso.   
+Art. 25. - Agli insegnamenti complementari di corso di laurea in Scienze politiche sono aggiunti quelli di:  
   
-Art. 489. - Le materie di insegnamento sono le seguenti:   
-1) Anatomia chirurgica e corso di operazioni (triennale);   
-2) Anatomia ed istologia patologica (biennale);   
-3) Anestesia e rianimazione;   
-4) Chirurgia cardiovascolare;   
-5) Chirurgia d'urgenza;   
-6) Chirurgia ginecologica;   
-7) Chirurgia pediatrica;   
-8) Chirurgia riparativa e plastica;   
-9) Chirurgia sperimentale;   
-10) Chirurgia toracica;   
-11) Chirurgia urologica;   
-12) Clinica chirurgica generale (quinquennale);   
-13) Fisiopatologia chirurgica;   
-14) Medicina legale;   
-15) Neurochirurgia;   
-16) Patologia speciale chirurgica (triennale);   
-17) Radiologia;   
-18) Ricerche di laboratorio;   
-19) Semeiotica chirurgica;   
-20) Semeiotica strumentale ed endoscopica;   
-21) Trattamento pre e post-operatorio;   
-22) Traumatologia ed ortopedia.   
+Diritto degli Enti locali;  
+Diritto ecclesiastico.  
   
-Le materie sopraelencate sono cosi' distribuite:   
+Art. 118. - Agli insegnamenti complementari del corso di laurea in Chimica sono aggiunti i seguenti insegnamenti complementari:  
   
-1° Anno:   
-Clinica chirurgica generale;   
-Patologia speciale chirurgica;   
-Semeiotica chirurgica;   
-Anatomia chirurgica e corso di operazioni;   
-Chirurgia sperimentale;   
-Anestesia e rianimazione;   
-Ricerche di laboratorio.   
+Per l'indirizzo organico biologico:  
+Chimica delle sostanze naturali;  
+Chimica macromolecolare;  
+Analisi strumentale.  
   
-2° Anno:   
-Clinica chirurgica generale;   
-Patologia speciale chirurgica;   
-Semeiotica chirurgica;   
-Anatomia chirurgica e corso di operazioni;   
-Fisiopatologia chirurgica;   
-Trattamento pre e post-operatorio;   
-Anatomia ed istologia patologica.   
+Per l'indirizzo inorganico-chimico-fisico:  
+Chimica macromolecolare;  
+Struttura della materia;  
+Istituzioni di fisica teorica;  
+Analisi strumentale.  
   
-3° Anno:   
-Clinica chirurgica generale;   
-Patologia speciale chirurgica;   
-Semeiotica strumentale ed endoscopica;   
-Anatomia chirurgica e corso di operazioni;   
-Radiologia;   
-Anatomia ed istologia patologica.   
+Art. 119. - I commi 5°, 6°, 7° ed 8° relativi alle norme per gli esami di laurea in Chimica sono abrogati e sostituiti dai seguenti:  
+"L'esame di laurea in Chimica consta di due parti:  
+la prima comprende:  
+a) un colloquio inteso ad accertare la cultura generale del candidato nelle discipline chimiche del corso di studio seguito;  
+b) una prova pratica di analisi chimica.  
   
-4° Anno:   
-Clinica chirurgica generale:   
-Chirurgia ginecologica;   
-Chirurgia urologica;   
-Neurochirurgia;   
-Traumatologia ed ortopedia;   
-Chirurgia pediatrica.   
+la seconda consiste:  
+a) nella compilazione di una tesi originale su argomento a libera scelta mila rispondente ai fini essenziali della laurea ed eseguita preferibilmente in uno dei laboratori degli insegnamenti fondamentali del corso di laurea in Chimica  
+b) nella discussione della tesi medesima nonche', di una argomento scelto anch'esso dal candidato in una materia diversa da quella su cui verte la tesi.  
+Le Commissioni per il colloquio di cui alla lettera a) e per la prova di cui alla lettera b) della prima parte dell'esame sono composte da professori ufficiali della Facolta' di scienze".  
   
-5° Anno:   
-Clinica chirurgica generale;   
-Chirurgia toracica;   
-Chirurgia cardiovascolare;   
-Chirurgia riparatrice e plastica;   
-Chirurgia d'urgenza;   
-Medicina legale.   
+Art. 121. - Agli insegnamenti complementari del corso di laurea in Chimica industriale sono aggiunti quelli di:  
+Chimica macromolecolare;  
+Chimica delle sostanze coloranti;  
+Analisi strumentale.  
   
-I corsi dovranno essere corredati da esercitazioni pratiche.   
-La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.   
-L'internato e' obbligatorio durante tutti i cinque anni del corso e si svolgera' presso la clinica chirurgica sotto forma di permanenza costante nella detta clinica durante le ore della sua attivita', con presenza giornaliera agli ambulatori ed ai reparti di degenza.   
-Dall'obbligo di tale internato saranno esenti quegli allievi che, in qualita' di assistenti e di aiuti, prestino effettivamente servizio presso reparti di chirurgia generale delle universita' e di ospedali di I e II categoria.   
-Gli allievi hanno doveri ed attribuzioni analoghi a quelli degli assistenti.   
-Gli specializzandi, che abbiano completato il primo triennio e superato i relativi esami, potranno essere chiamati a prestare servizio presso il reparto operatorio.   
-Per i corsi che non siano della clinica chirurgica generale, possono essere stabiliti su parere del direttore della scuola, periodi di continuativa frequenza presso i relativi reparti specialistici, qualora esistano quali reparti indipendenti.   
+Art. 122. - I commi 6°, 7°, 8° e 9° relativi alle norme per gli esami di laurea in Chimica industriale sono abrogati e sostituiti dai seguenti:  
+"L'esame di laurea in Chimica industriale consta in due parti;  
   
-Art. 490. - Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.   
-L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.   
-Alla fine del corso l'allievo, inoltre, dovra' sostenere un esame generale di profitto.   
+la prima comprende:  
+a) un colloquio inteso ad accertare le cultura generale del candidato nelle discipline chimiche del corso di studi seguito;  
+b) una prova pratica di analisi chimica;  
   
-Scuola di specializzazione in materie dell'apparato cardiovascolare   
-Art. 491. - Alla seconda facolta' di medicina e chirurgia dell'Universita' degli studi di Napoli e' annessa la scuola di specializzazione in malattie dell'apparato cardio-vascolare, con sede presso la cattedra di patologia speciale medica e metodologia clinica ed e' diretta dal titolare della cattedra medesima.   
-La scuola ha la durata di tre anni.   
-Il numero degli allievi da ammettere non puo' essere superiore a dieci per ogni anno.   
-La scelta dei candidati da ammettere alla scuola sara' fatta in base ai titoli di studio e di carriera ed al risultato di una prova scritta di esame.   
-Una abbreviazione di corso potra' essere concessa, su proposta del direttore della scuola, esclusivamente a quei candidati che dimostrino con il loro curriculum scientifico di avere gia' una buona preparazione nel campo della cardiologia. L'abbreviazione di corso potra' essere, nei casi giustificati di un anno, previo esame di idoneita'. Gli aspiranti che ne usufruiscono dovranno sostenere gli esami del 1° anno e quindi quelli del 2° anno. Per l'iscrizione all'anno successivo occorre aver superato tutti gli esami dell'anno precedente.   
-Gli iscritti hanno l'obbligo di prestare servizio esclusivo e continuativo presso la sede della scuola per tutta la durata degli anni di corso.   
+la seconda consiste:  
+a) nella compilazione di una tesi originale su argomento a libera scelta ma rispondente ai fini essenziali della laurea ed eseguita preferibilmente in uno dei laboratori degli insegnamenti fondamentali del corso di laurea in Chimica industriale;  
+b) nella discussione della tesi medesima nonche' di un argomento scelto anch'esso dal candidato in una materia diversa di quella su cui verte la tesi.  
+Le Commissioni per il colloquio di cui alla lettera a) e per la prova di cui alla lettera b) della prima parte dell'esame sono composte dai professori ufficiali della Facolta' di scienze.  
   
-Art. 492. Gli insegnamenti sono cosi' distribuiti nei vari anni di corso:   
+Art. 138. - Agli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti quelli di:  
+Ecologia;  
+Biogeografia.  
   
-1° Anno:   
-1) Anatomia normale dell'apparato cardiovascolare;   
-2) Fisiologia dell'apparato cardiovascolare e respiratorio;   
-3) Fisiopatologia cardiovascolare e respiratoria (biennale: 1° corso);   
-4) Patologia cardiovascolare (biennale: 1° corso);   
-5) Semeiologia fisica (biennale: 1° corso);   
-6) Semeiologia strumentale (biennale: 1° corso);   
-7) Microbiologia (facoltativo).   
+Art. 146. - Agli insegnamenti complementari del corso in Scienze biologiche sono aggiunti quelli di:  
+Ecologia;  
+Biogeografia.  
   
-2° Anno:   
-1) Fisiopatologia cardiovascolare e respiratoria (biennale: 2° corso);   
-2) Patologia cardiovascolare (biennale: 2° corso);   
-3) Semeiologia fisica (biennale: 2° corso);   
-4) Semeiologia strumentale (biennale: 2° corso);   
-5) Anatomia patologica dell'apparato cardiovascolare (biennale: 1° corso);   
-6) Radiologia;   
-7) Farmacologia;   
-8) Clinica e terapia (biennale: 1° corso).   
+Art. 149. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti quelli di:  
+Geologia degli idrocarburi;  
+Geologia regionale;  
+Idrogeologia;  
+Mineralogia, applicata;  
+Paleontologia dei vertebrati;  
+Rilevamento geologico con elementi di aerofotogeologia.  
+Sedimentologia.  
   
-3° Anno:   
-1) Anatomia patologica dell'apparato cardiovascolare (biennale: 2° corso);   
-2) Clinica e terapia (biennale: 2° corso);   
-3) Chirurgia dell'apparato cardiovascolare;   
-4) Problemi assicurativi e sociali (facoltativo);   
-5) Statistica (facoltativo).   
-Per gli insegnamenti facoltativi viene lasciata al direttore della scuola la possibilita' di inserire una o piu' materie.   
+Art. 180. - E' abolita la propedeuticita' dell'insegnamento di "Strade, ferrovie ed aeroporti" rispetto allo insegnamento di e Tecnica delle fondazioni e Costruzioni in terra a nel corso di laurea in ingegneria civile per le sezioni idraulica e trasporti.  
+Dopo l'art. 183 e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi all'istituzione del Seminario sulle Tecnologie degli impianti nucleari.  
   
-Art. 493. - Al termine dei tre anni di corso, per conseguire il diploma di specializzazione, gli iscritti dovranno presentare una dissertazione scritta su argomenti di fisiologia, fisiopatologia e clinica delle malattie dell'apparato cardiovascolare, e dovranno sostenere un esame pratico dinanzi ad una commissione formata da cinque insegnanti della scuola e presieduta dal direttore della stessa.   
+Seminario sulle Tecnologie degli impianti nucleari.  
   
-Art. 494. - A coloro che avranno superato l'esame di diploma verra' rilasciato il diploma di specialista in malattie dell'apparato cardiovascolare.   
+Art. 184. - Nella Facolta' di ingegneria, presso l'Istituto di tecnologie, e' istituito un Seminario sulle Tecnologie degli impianti nucleari.  
   
-Scuola di specializzazione in malattie infettive   
+Art. 185. - Il Seminario indirizza laureati e laureandi in Ingegneria o in altre discipline allo studio di problemi tecnologici specifici delle applicazioni tecniche dell'energia nucleare.  
   
-Art. 495. - Alla seconda facolta' di medicina e chirurgia dell'Universita' degli studi di Napoli e' annessa la scuola di specializzazione in malattie infettive, con sede presso la cattedra in malattie infettive, ed e' diretta dal titolare della cattedra medesima.   
-La scuola ha la durata di tre anni.   
-Il numero degli allievi da ammettere non puo' essere superiore a 10 per ogni anno.   
-L'ammissione alla scuola sara' subordinata all'esito di un concorso per titoli ed esami che potranno comprendere prove scritte, orali e pratiche. Al termine del concorso verra' stabilita una graduatoria, sulla scorta dei risultati delle prove e dei titoli presentati.   
+Art. 186. - I corsi del Seminario hanno la durata di un anno accademico.  
   
-Art. 496. - Gli iscritti hanno l'obbligo di frequentare le lezioni e le esercitazioni. Inoltre hanno l'obbligo di espletare un tirocinio pratico, sotto forma di internato, da svolgersi nelle corsie e nei laboratori della clinica delle malattie infettive, per ogni anno di corso.   
-Tale internato potra' essere ridotto a giudizio del direttore della scuola a sei mesi per ogni anno, per coloro che prestino servizio presso reparti di malattie infettive.   
+Art. 187. - Il Seminario e' diretto dal direttore dello Istituto di tecnologie.  
   
-Art. 497. - Le materie di insegnamento, tutte obbligatorie, sono le seguenti:   
-1° Anno:   
-Epidemiologia generale delle malattie infettive;   
-Nozioni generali di batteriologia, di virologia, di parassitologia, di immunologia;   
-Tecnica batteriologica, virologica, parassitologica, immunologica, applicata alle malattie infettive (1° anno).   
+Art. 188. - Gli insegnamenti del Seminario possono svolgersi sotto forma di lezioni cattedratiche, discussioni ed esercitazioni di carattere professionale.  
   
-2° Anno:   
-Patologia e clinica delle malattie infettive (1° anno);   
-Semeiotica e diagnostica delle malattie infettive;   
-Anatomia patologica delle malattie infettive;   
-Tecnica batteriologica, virologica, parassitologica, immunologica (2° anno).   
+Art. 189. - Al Seminario possono iscriversi laureati in ingegnaria o in altre Facolta' che aspirino ad una specifica preparazione nel campo delle applicazioni tecniche dell'ingegneria nucleare.  
+Possono inoltre iscriversi laureandiin ingegneria che svolgono la tesi stesso campo.  
+L'ammissione al Seminario e' subordinata ad un esame di ammissione, inteso inteso ad accertare negli aspiranti sufficiente preparazione generale.  
   
-3° Anno:   
-Patologia e clinica delle malattie infettive (2° anno);   
-Malattie infettive dei Paesi caldi;   
-Farmacologia e terapia generale delle malattie infettive;   
-Legislazione sanitaria e malattie infettive.   
+Art. 190. - Il Seminario potra' eventualmente disporre di borse di studio che verranno conferite su proposta del Consiglio della Facolta' in base alle modalita' saranno stabilite dallo stesso Consiglio.  
+Gli articoli 296 e 297 relativi alla Scuola di specializzazione in malattie nervose e mentali sono abrogati e sostituiti dai seguenti:  
   
-Art. 498. - Al termine di ciascun anno di corso gli allievi sono tenuti a sostenere i seguenti esami:   
-1° anno: un esame sulle discipline n. 1) e 2);   
-2° anno: un esame sulle discipline n. 2), 3) e 4);   
-3° anno: un esame sulle discipline n. 1), 2), 3) e 4).   
+Scuola di specializzazione in malattie nervose e mentali  
   
-Art. 499. - Non saranno ammessi al corso successivo coloro i quali non avranno superato gli esami a cui sono iscritti.   
+Art. 296. - La Scuola ha la durata di tre anni.  
+Le materie d'insegnamento sono:  
   
-Art. 500. - Alla fine dei tre anni di corso gli specializzandi dovranno superare una prova orale ed una clinica prima di essere ammessi all'esame di diploma.   
-L'esame di diploma consistera' nella discussione di una tesi scritta su argomenti di malattie infettive. Tali prove e l'esame di diploma saranno sostenute dinanzi ad una commissione composta dal direttore e da quattro insegnanti della scuola.   
+I anno:  
+Anatomia del sistema nervoso;  
+Anatomia patologica del sistema nervoso;  
+Neurofisiologia ed elettrobiologia clinica;  
+Psicologia e psicopatologia;  
+Semeiotica neurologica;  
+Semeiotica psichiatrica.  
   
-Art. 501. - Su proposta del direttore della scuola, e sempre previo superamento di un esame di ammissione, potranno essere concesse abbreviazioni di corso in base al curriculum clinico, didattico e scientifico e ai titoli di studio presentati dal richiedente.   
+II anno:  
+Neuroftalmologia;  
+Otorinolaringoiatria, applicata alla clinica neuropsichiatrica;  
+Neuroradiologia;  
+Neurochimica e psicofarmacologia;  
+Pronto soccorso psichiatrico e tecnica manicomaniale.  
   
-Scuola di specializzazione in medicina legale e delle assicurazioni   
-Art. 502. - Alla seconda facolta' di medicina e chirurgia dell'Universita' degli studi di Napoli e' annessa la scuola di specializzazione in medicina legale e delle assicurazioni, con sede presso la cattedra omonima ed e' diretta dal titolare della cattedra medesima.   
-La durata della scuola e' di tre anni.   
-Il numero degli allievi da ammettere non puo' essere superiore a dieci per ogni anno.   
+III anno:  
+Clinica neurologica;  
+Clinica psichiatrica;  
+Neuropsichiatrica infantile;  
+Neurochirurgia;  
+Medicina legale.  
   
-Art. 503. - Alla scuola possono accedere i laureati in medicina e chirurgia, abilitati all'esercizio della professione, attraverso concorso con prova scritta su argomenti di medicina generale. Non saranno prese in considerazione le domande di ammissione di coloro che non hanno superato l'esame di medicina legale e delle assicurazioni, durante il corso di laurea. Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni e le esercitazioni nonche' di prestare servizio di medico interno presso una cattedra di medicina legale e delle assicurazioni per almeno sei mesi per ciascun anno. Sara' considerato anche l'internato presso un servizio ospedaliero di medicina legale e delle assicurazioni sociali.   
-  
-Art. 504. - Materie d'insegnamento:   
-  
-1° Anno:   
-Medicina legale generale;   
-Elementi di diritto pubblico e privato;   
-Tecnica e diagnostica anatomo-patologica generale e medico-legale;   
-Traumatologia medico-legale;   
-Semeiotica medico-legale.   
-  
-2° Anno:   
-Medicina legale penalistica;   
-Deontologia medica;   
-Neuropsichiatria medico-legale;   
-Elementi di medicina criminologica e di medicina penitenziaria;   
-Indagini di sopralluogo;   
-Identificazione personale.   
-  
-3° Anno:   
-Medicina legale civilistica e canonistica:   
-Tecniche di laboratorio medico-legale ed ematologia forense;   
-Ostetricia e ginecologia forensi;   
-Elementi di legislazione del lavoro;   
-Elementi di medicina del lavoro;   
-Medicina delle assicurazioni;   
-Medicina legale militare e pensionistica civile;   
-Tossicologia medico-legale.   
-  
-Art. 505. - Il direttore della scuola puo' invitare singoli specialisti per conferenze e dimostrazioni nel campo delle singole specialita'.   
-Gli iscritti possono visitare, inoltre, ospedali psichiatrici, industrie, centri criminologici, servizi ospedalieri di medicina legale.   
-  
-Art. 506. - Gli esami di profitto sulle singole materie di insegnamento saranno sostenuti alla fine di ogni anno, in tre sezioni (estiva, autunnale e di febbraio).   
-Lo specializzando che non abbia superato gli esami dell'anno frequentato non potra' essere iscritto all'anno successivo.   
-L'esame di diploma consistera' in una dissertazione scritta su un argomento di medicina legale o di medicina delle assicurazioni.   
-I candidati non riconosciuti idonei all'esame di diploma si potranno ripresentare dopo un altro anno di frequenza alla scuola; se al secondo esame non sara' loro riconosciuta l'idoneita', verranno senz'altro esclusi da ulteriori prove.   
-  
-Scuola di specializzazione in neurologia   
-  
-Art. 507. - Alla seconda facolta' di medicina e chirurgia dell'Universita' di Napoli e' annessa la scuola di specializzazione in neurologia, con sede presso la cattedra di clinica delle malattie nervose e mentali ed e' diretta dal titolare della cattedra medesima.   
-La scuola ha la durata di quattro anni.   
-Il numero degli allievi da ammettere non puo' essere superiore a nove per ogni anno.   
-L'ammissione alla scuola sara' fatta per titoli di studio ed in base al risultato di una prova scritta di esame seguita, eventualmente, da una prova orale.   
-  
-Art. 508. - Le materie di insegnamento, tutte obbligatorie, sono le seguenti:   
-  
-1° Anno (internato in psichiatria):   
-Anatomia ed istologia normale del S.N.;   
-Fisiologia del S.N.;   
-Biochimica del S.N.;   
-Genetica (elementi);   
-Psicologia generale;   
-Psicopatologia;   
-Semeiotica psichiatrica.   
-  
-2° Anno:   
-Anatomia ed istologia patologica del S.N.;   
-Semeiotica neurologica;   
-Patologia speciale e diagnostica neurologica (1°);   
-Neuroradiologia;   
-Endocrinologia e neurologia vegetativa.   
-  
-3° Anno:   
-Patologia speciale e diagnostica neurologica (2°);   
-Clinica neurologica (1°);   
-Elettroencefalografia;   
-Elettromiografia, elettrodiagnostica ed elettroterapia;   
-Neuro-oftalmologia;   
-Neuro-otologia;   
-Esami di laboratorio.   
-  
-4° Anno:   
-Clinica neurologica e terapia (2°);   
-Neurochirurgia;   
-Teoria e clinica della riabilitazione;   
-Neurotraumatologia anche sotto l'aspetto della medicina legale;   
-Neurologia in rapporto alla patologia internistica.   
-  
-Art. 509. Gli iscritti al primo corso hanno l'obbligo di internato in psichiatria per l'intero anno scolastico. Tale internato potra' essere, a giudizio del direttore della scuola, ridotto a non meno di sei mesi per i medici che prestano servizio in reparto neurologico ed a non meno di quattro mesi per coloro che prestano servizio in ospedale psichiatrico. Gli iscritti al secondo, terzo e quarto corso hanno l'obbligo di frequentare come interni la clinica sede della scuola per l'intero anno scolastico.   
-Tale internato potra' essere ridotto a giudizio del direttore della scuola a non meno di quattro per anno per i medici che prestano regolare servizio in reparto neurologico.   
-  
-Art. 510. - Gli esami saranno sostenuti alla fine di ciascun anno; non saranno ammessi al corso successivo coloro i quali non avranno superato gli esami dell'anno a cui sono iscritti. Al termine dei quattro anni di corso, per conseguire il diploma di specializzazione, gli specializzandi dovranno presentare una dissertazione scritta su argomento di neurologia e sostenere la discussione dinanzi ad una commissione composta da cinque insegnanti della scuola e presieduta dal direttore della scuola stessa.   
-  
-Art. 511. - Su proposta del direttore della scuola e previo superamento di un esame di ammissione, potranno essere concesse le seguenti abbreviazioni di corso: di due anni a coloro che sono gia' in possesso di specializzazione in psichiatria o in neuropsichiatria infantile o in neurochirurgia; di un anno a coloro che sono gia' in possesso di specializzazione in discipline affini (medicina interna, otorinolaringoiatria, oculistica, radiologia).   
+Art. 297. - Gli esami saranno sostenuti alla fine di ciascun anno; non saranno ammessi al corso successivo coloro i quali non avranno superato gli esami dell'anno a cui sono iscritti.  
+Il numero massimo degli iscritti non puo' essere complessivamente superiore a trenta.  
+Alla fine del corso gli iscritti, oltre a presentare la dissertazione scritta e sostenere la relativa discussione a norma dell'art. 283 devono sostenere una prova pratica di clinica ed una di laboratorio.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti' della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1973
+### Dato a Roma, addi' 17 settembre 1962
 
-LEONE MALFATTI
+SEGNI GUI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 26 ottobre 1974
+Registrato alla Corte dei conti, addi' 7 novembre 1962
 
-Atti di Governo, registro n. 6, foglio n. 31. - SCIARRETTA
+Atti del Governo, registro n. 160, foglio n. 3. - VILLA

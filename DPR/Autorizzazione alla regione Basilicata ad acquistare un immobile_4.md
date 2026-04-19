@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1983 n. 297
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 130
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1983 n. 297
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 130
+============================================================
 
 Autorizzazione alla regione Basilicata ad acquistare un immobile.
 -----------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-297. Decreto del Presidente della Repubblica 19 gennaio 1983, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la regione Basilicata viene autorizzata ad acquistare, al prezzo di L. 215.000.000, un fondo rustico sito in agro di Episcopia (Potenza) costituito da porzioni di terreno intestate alla ditta Arcieri-Grezzi e alla ditta Donadio Andrea, della superficie complessiva di Ha 82.79.21 riportato nel nuovo catasto terreni, (R.P. n. 3050, foglio 19, particelle 33, 34, 43, 44, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 71, 82, 100 e 102 e R.P. 1814, foglio 19, particella 83), da destinarsi all'ampliamento della proprieta' boschiva regionale in base alla [legge regionale 6 settembre 1978, n. 41](http://www.normattiva.it/uri-res/N2Ls?urn:nir:regione.:legge:1978-09-06;41).  
+130. Decreto del Presidente della Repubblica 10 marzo 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la regione Basilicata viene autorizzata ad acquistare, al prezzo di L. 4.445.200.000, il complesso di beni immobili e mobili costituenti la casa di cura privata denominata "G. Pittella" sito in Lauria (Potenza), viale XXV Aprile, censito al nuovo catasto edilizio urbano, fogli 90 e 91, particelle 137, 139, 365, 366, 282 e 283, di proprieta' del dott. Domenico Pittella, come da atto preliminare compravendita 25 giugno 1984, n. 13474/3706 di repertorio, a rogito dott. Antonio Polosa, notaio in Pescopagano (Potenza), da adibire a scopi sanitari.   
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 15 giugno 1983  
-Registro n. 5 Presidenza, foglio n. 198
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 9 aprile 1986   
+Registro n. 3 Presidenza, foglio n. 291

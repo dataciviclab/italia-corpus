@@ -1,157 +1,133 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 778
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1973 n. 1107
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 778
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1973 n. 1107
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Sassari.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084) e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Sassari e convalidati dal consiglio superiore della pubblica istruzione nel suo parere;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 77 - all'elenco delle scuole di specializzazione in medicina e chirurgia sono aggiunte le scuole di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva ed in dermatologia e venereologia.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084) e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-L'art. 129, relativo agli insegnamenti della scuola di specializzazione in neurochirurgia riordinata con [decreto del Presidente della Repubblica 10 ottobre 1977, n. 1047](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-10-10;1047), e' modificato nel senso che l'insegnamento di "clinica neurologica III" del 3° anno di corso muta la denominazione in quella di "clinica neurochirurgica III".  
-
-Art. 3
-------
-
+Decreta:   
   
-Dopo l'art. 137, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva ed in dermatologia e venereologia.  
+Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva  
+Art. 39 - all'elenco degli istituti annessi alla facolta' di medicina e chirurgia, l'istituto di tisiologia muta denominazione in quella di "Istituto di tisiologia e malattie dell'apparato respiratorio".   
+L'art. 40, relativo all'ordinamento del corso di laurea in medicina e chirurgia, e' modificato nel senso che prima dell'ultimo comma vengono inseriti i seguenti:   
+"Gli esami di biologia e zoologia generale (compresa la genetica e la biologia delle razze) e di chimica biologica devono essere superati prima dell'esame di microbiologia.   
+L'esame di microbiologia deve essere superato prima degli esami di patologia generale, igiene e malattie infettive.   
+Il colloquio di anatomia e istologia patologica, deve essere sostenuto dopo aver superato l'esame di patologia generale.   
+L'esame di patologia generale deve precedere tutti gli esami di insegnamenti clinici, sia fondamentali che complementari".   
+Gli articoli 52, 53, 54 e 55 relativi al corso di laurea in medicina veterinaria sono abrogati e sostituiti dai seguenti:   
   
-Art. 138. - La scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva ha sede presso l'istituto di clinica chirurgica generale e terapia chirurgica e conferisce il diploma di specialista in chirurgia dell'apparato digerente ed endoscopia digestiva.  
-Art. 139. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Art. 140. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione dell'esercizio professionale rilasciato dalle autorita' competenti.  
-Art. 141. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.  
-Art. 142. - Il numero massimo degli allievi e' di tre per anno di corso e complessivamente di quindici iscritti per l'intero corso di studi.  
-Art. 143. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 144. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) anatomia descrittiva e topografica specialistica (1° corso);  
-2) fisiopatologia e semeiotica funzionale (1° corso);  
-3) anatomia e istologia patologica (1° corso);  
-4) patologia chirurgica (1° corso).  
-2° Anno:  
-5) anatomia descrittiva e topografica specialistica (2° corso);  
-6) fisiopatologia e semeiotica funzionale (2° corso);  
-7) anatomia e istologia patologica (2° corso);  
-8) patologia chirurgica (2° corso);  
-9) semeiotica chirurgica (1° corso);  
-10) radiologia e medicina nucleare (1° corso);  
-11) endoscopia digestiva diagnostica e terapeutica (1° corso). 3° Anno:  
-12) patologia chirurgica (3° anno);  
-13) semeiotica chirurgica (2° corso);  
-14) radiologia e medicina nucleare (2° corso);  
-15) endoscopia digestiva diagnostica e terapeutica (2° corso);  
-16) clinica e terapia chirurgica (1° corso);  
-17) tecniche operatorie (1° corso).  
-4° Anno:  
-18) semeiotica chirurgica (3° anno);  
-19) radiologia e medicina nucleare (3° corso);  
-20) endoscopia digestiva diagnostica e terapeutica (3° corso);  
-21) clinica e terapia chirurgica (2° corso);  
-22) tecniche operatorie (2° corso);  
-23) anestesia e rianimazione;  
-24) riabilitazione in chirurgia digestiva.  
-5° Anno:  
-25) clinica chirurgica e terapia chirurgica (3° corso);  
-26) tecniche operatorie (3° corso);  
-27) chirurgia d'urgenza dell'apparato digerente;  
-28) chirurgia pediatrica dell'apparato digerente;  
-29) terapia intensiva  
-Art. 145. - La frequenza alle lezioni, alle esercitazioni pratiche, alle esperienze nei reparti, e' obbligatoria per l'ammissione agli esami; il superamento degli esami di ciascun anno e' condizione indispensabile per l'iscrizione all'anno successivo.  
-Art. 146. - Al termine del quinquennio, per ottenere il diploma, i candidati devono presentare una dissertazione scritta su un argomento di chirurgia dell'apparato digerente ed endoscopia digestiva, da discutere davanti all'apposita commissione, e devono inoltre sostenere una prova clinica.  
+Art. 52. - La facolta' di medicina veterinaria conferisce la laurea in medicina veterinaria.   
+Il corso di laurea in medicina veterinaria si effettua mediante un ciclo di studi della durata di cinque anni, diviso in un periodo propedeutico durante il quale viene impartito l'insegnamento di base teorico e pratico ed in un periodo dedicato all'insegnamento veterinario specifico.   
+Il titolo di ammissione al corso di laurea e' quello previsto dalle leggi in vigore.   
+Gli studenti iscritti ed i laureati presso altre facolta' possono essere ammessi a frequentare il corso di laurea in medicina veterinaria previa valutazione della carriera universitaria seguita.   
+La facolta' delibera circa l'ammissione dello studente o del laureato ad uno degli anni del corso e, caso per caso, decide la convalida degli insegnamenti seguiti e degli esami sostenuti.   
+I cinque anni di studio comportano l'insegnamento teorico e pratico, con esercitazioni e seminari in non meno di 4.500 (quattromilacinquecento) ore relative alle materie di base ed alle materie veterinarie specifiche, piu' avanti elencate, ed a non meno di tre insegnamenti complementari integrativi scelti dallo studente fra quelli proposti dalla facolta'.   
+Il periodo di insegnamento di base comporta almeno 560 (cinquecentosessanta) ore di lezioni teoriche e pratiche, esercitazioni e seminari, ripartite come segue fra le materie appresso indicate:   
   
-Scuola di specializzazione in dermatologia e venereologia  
   
-Art. 147. - La scuola di specializzazione in dermatologia e venerologia ha sede presso l'istituto di clinica dermosifilopatica e conferisce il diploma di specialista in dermatologia e venereologia.  
-Art. 148. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Art. 149. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Art. 150. - La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazioni.  
-Art. 151. - Il numero degli allievi e' di cinque per anno e complessivamente di quindici iscritti per l'intero corso di studi.  
-Art. 152. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 153. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) anatomia e istologia normale della cute:  
-2) fisiologia della cute e degli annessi;  
-3) anatomia e fisiologia dell'apparato genitale;  
-4) microbiologia e parassitologia applicata;  
-5) tecniche di laboratorio applicate alla disciplina;  
-6) semeiotica dermatologica e venereologica.  
-2° Anno:  
-1) patologia delle malattie cutanee;  
-2) patologia delle infezioni veneree;  
-3) istopatologia e citologia dermatologica e neurologica;  
-4) immunopatologia cutanea;  
-5) dermatologia allergologica e professionale;  
-6) angiologia;  
-7) sessuologia.  
-3° Anno:  
-1) clinica delle malattie cutanee;  
-2) clinica delle infezioni veneree;  
-3) dermatologia pediatrica;  
-4) farmacologia e terapia;  
-5) fisioterapia dermatologica;  
-6) cosmetologia;  
-7) chirurgia plastica riparatrice;  
-8) igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.  
-Art. 154. - Il corso delle lezioni deve essere impartito mediante almeno 50 lezioni annuali, comprensive delle varie materie e la frequenza giornaliera degli iscritti non deve essere inferiore alle 4 ore effettive per tutta la durata dell'anno accademico.  
-Gli specializzandi hanno percio' obblighi di frequenza alle esercitazioni di corsi e di laboratori onde seguire i corsi di lezioni e svolgere contemporaneamente esercitazione pratica nelle corsie, negli ambulatori, e nei laboratori.  
-Gli esami di profitto vengono sostenuti in due sessioni. L'esame di diploma consiste nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato 24 ore prima della prova.  
-Art. 155. - Gli importi delle tasse e sopratasse per l'iscrizione alla scuola di dermatologia e venereologia sono cosi' stabiliti:  
   
-tassa immatricolazione . . . . . . . . . . . . . . . . . . . L. 6.000 tassa annuale d'iscrizione. . . . . . . . . . . . . . . . . L. 60.000 tassa di diploma . . . . . . . . . . . . . . . . . . . . . . L. 6.000 sopratassa annuale esami di profitto . . . . . . . . . . . . L. 6.000 sopratassa di diploma. . . . . . . . . . . . . . . . . . . . L. 3.000 tassa annuale fuori corso . . . . . . . . . . . . . . . . . L. 50.000   
-I contributi clinici e di laboratorio vengono fissati dal consiglio di amministrazione dell'Universita' su proposta del consiglio di facolta', udito il direttore della scuola.  
-
-Art. 4
-------
-
+Fisica. . . . . . . . . . . . . . . . . . . . . . . . . . ore 120  
+Chimica I . . . . . . . . . . . . . . . . . . . . . . . . ore 100  
+Chimica II. . . . . . . . . . . . . . . . . . . . . . . . ore 100  
+Zoologia. . . . . . . . . . . . . . . . . . . . . . . . . ore 120  
+Botanica . . . . . . . . . . . . . . . . . . . . . . . . .ore 90  
+Metodi matematici applicati alle scienze biologiche  
+(biomatematica). . . . . . . . . . . . . . . . . . . . . .ore 30  
   
-All'art. 154, relativo alla scuola di specializzazione in neurologia riordinata con [decreto del Presidente della Repubblica 25 maggio 1977, n. 558](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-05-25;558), l'insegnamento di "neuropatologia" del 2° anno di corso muta la denominazione in quella di "neuroradiologia".  
+  
+  
+Il periodo di insegnamento veterinario specifico comporta non meno di 3.760 (tremilasettecentosessanta) ore di lezioni teoriche e pratiche, esercitazioni e seminari, ripartite come segue fra le materie appresso indicate e raggruppate ai sensi della tabella XXXIII allegata al [decreto del Presidente della Repubblica 23 ottobre 1969, n. 987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-10-23;987):   
+  
+  
+  
+Anatomia veterinaria sistematica e comparata I. . . . . . ore 100 Anatomia veterinaria sistematica e comparata II . . . . . ore 100 Anatomia topografica veterinaria . . . . . . . . . . . . . ore 90 Teratologia. . . . . . . . . . . . . . . . . . . . . . . . ore 30 Istologia generale e speciale (anatomia microscopica). . . ore 80 Embriologia veterinaria. . . . . . . . . . . . . . . . . . ore 40 Fisiologia generale e speciale veterinaria I e fisica biologica . . . . . . . . . . . . . . . . . . . . . . . ore 100 Fisiologia generale e speciale veterinaria II e fisica biologica . . . . . . . . . . . . . . . . . . . . . . . ore 100 Biochimica veterinaria. . . . . . . . . . . . . . . . . . ore 100 Zootecnica I (igiene, aspetti esteriori degli animali, etnologia). . . . . . . . . . . . . . . . . . . . . . . ore 110 Zootecnica II (genetica e allevamento) . . . . . . . . . . ore 60 Alimentazione e nutrizione animale. . . . . . . . . . . . ore 130 Economia rurale e agronomia. . . . . . . . . . . . . . . . ore 50 Farmacologia e farmacodinamia veterinaria. . . . . . . . . ore 60 Farmacia e terapeutica generale veterinaria. . . . . . . . ore 45 Tossicologia veterinaria . . . . . . . . . . . . . . . . . ore 45 Anatomia patologica veterinaria generale e speciale I. . . ore 75 Anatomia patologica veterinaria e speciale II. . . . . . . ore 75 Autopsie . . . . . . . . . . . . . . . . . . . . . . . . . ore 50 Propedeutica I (semiologia medica veterinaria e metodologia clinica) . . . . . . . . . . . . . . . . . . . . . . . . ore 60 Propedeutica II (semiologia chirurgica veterinaria e metodologia clinica) . . . . . . . . . . . . . . . . . . . . . . . . ore 60 Patologia generale veterinaria . . . . . . . . . . . . . . ore 50 Microbiologia generale veterinaria (batteriologia, virologia, immunologia) . . . . . . . . . . . . . . . . . . . . . . ore 50 Patologia e profilassi delle malattie infettive degli animali domestici I. . . . . . . . . . . . . . . . . . . . . . . ore 75 Patologia e profilassi delle malattie infettive degli animali domestici I. . . . . . . . . . . . . . . . . . . . . . . ore 75 Parassitologia veterinaria (con micologia, protozoologia, entomologia, elmintologia) . . . . . . . . . . . . . . . ore 60 Malattie parassitarie degli animali domestici. . . . . . . ore 50 Polizia sanitaria, medicina legale veterinaria, legislazione veterinaria e deontologia. . . . . . . . . . . . . . . . ore 30 Patologia medica degli animali domestici (ruminanti, equini, carnivori, suini, pollame, conigli, etc.). . . . . . . .ore 150 Ostetricia veterinaria . . . . . . . . . . . . . . . . . . ore 80 Patologia della riproduzione e fecondazione artificiale veterinaria. . . . . . . . . . . . . . . . . . . . . . . ore 70 Patologia chirurgica veterinaria e podologia . . . . . . . ore 80 Medicina operatoria veterinaria. . . . . . . . . . . . . . ore 70 Ispezione e controllo delle derrate alimentari di origine animale I (carni, latte, pesce, uova, etc.). . . . . . . . . . . ore 80 Ispezione e controllo delle derrate alimentari di origine animale II (carni, latte, pesce, uova, etc.) . . . . . . . . . . ore 80 Lavori pratici nei macelli . . . . . . . . . . . . . . . . ore 50 Clinica medica veterinaria. . . . . . . . . . . . . . . . ore 275 Clinica chirurgica veterinaria. . . . . . . . . . . . . . ore 275 Clinica ostetrica e ginecologica veterinaria. . . . . . . ore 275 Patologia aviare . . . . . . . . . . . . . . . . . . . . .ore 275 Radiologia veterinaria . . . . . . . . . . . . . . . . . . ore 50   
+  
+Le ore che restano per raggiungere il numero previsto di 4.500 (quattromilacinquecento) dovranno essere ripartite fra tre insegnamenti complementari scelti dallo studente nel seguente elenco:   
+  
+  
+  
+Anestesiologia;  
+Approvvigionamenti annonari, mercati e industrie degli alimenti di origine animale;  
+Biochimica applicata;  
+Diagnostica di laboratorio;  
+Ecologia;  
+Ematologia clinica comparata;  
+Endocrinologia degli animali domestici;  
+Etnografia;  
+Fisioclimatologia;  
+Idrobiologia e pescicoltura;  
+Igiene del latte;  
+Igiene e controllo dei prodotti della pesca;  
+Istituzioni di matematica;  
+Istologia patologica;  
+Ittiopatologia;  
+Lingua straniera;  
+Oftalmologia comparata;  
+Patologia bovina;  
+Patologia ovina;  
+Patologia tropicale;  
+Scienza e tecnica dell'allevamento del bestiame;  
+Scienza e tecnica della fecondazione artificiale;  
+Storia della medicina veterinaria;  
+Tecnica conserviera;  
+Tecnica mangimistica;  
+Tecnologia avicola;  
+Virologia;  
+Zooculture.  
+  
+  
+  
+La facolta' stabilisce, annualmente, nell'ambito della propria autonomia didattica, tenuto conto delle esigenze dell'esercizio professionale, i piani di studio per le materie previste come insegnamenti e per gli insegnamenti complementari integrativi.   
+La facolta' stabilisce altresi' il numero delle ore da attribuire per lo svolgimento dei singoli corsi e le modalita' di esame per singole materie o per gruppi. Il titolare dell'insegnamento puo' istituire colloqui su parti prefissate della materia. Per il raggiungimento del numero di ore fissate negli insegnamenti clinici e' utilizzabile il periodo semestrale di tirocinio pratico di cui al successivo art. 55 del presente statuto.   
+  
+Art. 53. - Gli esami di "Istologia generale e speciale (anatomia microscopica)", "Embriologia veterinaria" e "Zoologia" devono precedere quello di "Anatomia sistematica comparata I"; l'esame di "Chimica" (chimica I e chimica II) quello di "Biochimica".   
+Gli esami di "Anatomia topografica veterinaria", "Teratologia veterinaria" e "Zootecnica I" saranno preceduti da quelli di "Anatomia veterinaria sistematica e comparata I e II" ed il superamento di questi ultimi e degli esami di "Fisica" e "Biochimica veterinaria" e' condizione indispensabile per essere ammessi all'esame di "Fisiologia generale e speciale veterinaria I".   
+Gli esami di "Zootecnica II", "Alimentazione e nutrizione animale", "Patologia generale veterinaria", "Farmacologia e farmacodinamia veterinaria", "Farmacia e terapia generale veterinaria" e "Tossicologia veterinaria" saranno preceduti da quelli di "Fisiologia generale e speciale veterinaria I e II".   
+Gli esami di "Anatomia patologica veterinaria generale e speciale I e II", "Patologia e profilassi delle malattie infettive degli animali domestici I e II", "Propedeutica I e II", "Ostetricia veterinaria" devono essere preceduti da quelli di "Patologia generale veterinaria", "Parassitologia veterinaria", "Malattie parassitarie degli animali domestici", "Farmacologia e farmacodinamia veterinaria", "Farmacia e terapeutica generale veterinaria", "Tossicologia veterinaria" e "Microbiologia generale veterinaria".   
+Gli esami di "Ispezione e controllo delle derrate alimentari di origine animale I e II" saranno preceduti da quelli di "Anatomia patologica veterinaria generale e speciale I e II", "Patologia aviare", "Autopsie", "Polizia sanitaria - Medicina legale veterinaria - Legislazione veterinaria e deontologia".   
+Agli effetti dell'ammissione agli esami sono altresi' considerati propedeutici: "Anatomia topografica veterinaria" per "Propedeutica I e II" e per "Ostetricia veterinaria"; "Botanica" per "Farmacologia e farmacodinamia veterinaria", "Farmacia e terapeutica generale veterinaria", "Tossicologia veterinaria" e per "Alimentazione e nutrizione animale"; "Metodi matematici applicati alle scienze biologiche (Biomatematica)" per "Fisiologia generale e speciale veterinaria I"; "Zootecnica II" per "Economia rurale e agronomia"; "Anatomia patologica veterinaria generale e speciale I e II" per "Patologia aviare"; "Propedeutica I" per "Patologia medica degli animali domestici" e questo per "Clinica medica veterinaria"; "Propedeutica I" per "Patologia chirurgica veterinaria e podologia" questo per "Clinica chirurgica veterinaria" e quest'ultimo ancora per "Medicina operatoria veterinaria"; "Radiologia veterinaria" per "Patologia medica degli animali domestici" e "Patologia chirurgica veterinaria e podologia"; "Ostetricia veterinaria" per "Patologia della riproduzione e fecondazione artificiale" e questo per "Clinica ostetrica e ginecologica veterinaria"; "Ispezione e controllo delle derrate alimentari di origine animale I e II" per "Lavori pratici nei macelli".   
+Gli esami di clinica medica, clinica chirurgica e clinica ostetrica comportano una prova teorica ed una pratica.   
+  
+Art. 54. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami corrispondenti a tutti gli insegnamenti fondamentali: (cioe' quelli del periodo propedeutico e del periodo di insegnamento veterinario specifico) e a non meno di tre insegnamenti scelti fra i complementari attivati dalla facolta', i cui corsi siano stati, dallo studente, regolarmente frequentati.   
+L'esame di laurea consiste nella discussione orale di una dissertazione scritta e di due tesine orali su materie diverse fra loro ed a quella sulla quale verte la dissertazione scritta, approvate dai professori della rispettiva disciplina.   
+La dissertazione scritta ed i titoli delle tesine, devono essere depositati, con la firma del candidato, alla segreteria della facolta' almeno 15 giorni prima della data di inizio degli esami di laurea.   
+  
+Art. 55. - Gli insegnamenti di "Clinica medica", di "Clinica chirurgica", di "Clinica ostetrica", di "Ispezione e controllo delle derrate alimentari" e delle materie del gruppo zootecnico ("Genetica e allevamento" e "Alimentazione e nutrizione degli animali domestici") debbono essere completati da un tirocinio pratico, della durata complessiva di almeno sei mesi, da compiersi presso istituti o dipartimenti della facolta' di medicina veterinaria o presso istituti zooprofilattici sperimentali o presso civici macelli o altri enti od uffici pubblici riconosciuti idonei dalla facolta'. Il tirocinio pratico deve essere iniziato dopo la chiusura dei corsi di insegnamento del 5° anno e deve essere completato prima che il laureato si presenti a sostenere l'esame di abilitazione all'esercizio professionale.   
+  
+Norma transitoria   
+  
+Gli studenti immatricolati entro l'anno accademico 1970-71 all'atto della entrata in vigore delle suddette modifiche di statuto possono optare per il corso di laurea in quattro o cinque anni. All'uopo devono presentare regolare domanda per integrare gli esami secondo quanto stabilira', caso per caso, il consiglio di facolta'.   
+L'art. 74, relativo all'ordinamento del corso di laurea in scienze naturali, e' modificato nel senso che prima dell'ultimo comma e' aggiunto il seguente:   
+"Per gli studenti di scienze naturali l'esame di istituzioni di matematiche deve precedere quello di fisica; gli esami di chimica generale ed inorganica e di fisica debbono precedere quello di chimica organica; l'esame di chimica organica deve precedere quelli di chimica biologica e di fisiologia generale (biennale)".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1979
+### Dato a Roma, addi' 23 ottobre 1973
 
-PERTINI VALITUTTI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 14 febbraio 1980
+Registrato alla Corte dei conti, addi' 1 giugno 1974
 
-Registro n. 10 Istruzione, foglio n. 391
+Atti di Governo, registro n. 4, foglio n. 6. - SCIARRETTA

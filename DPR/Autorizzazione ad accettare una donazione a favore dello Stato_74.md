@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 aprile 1975 n. 379
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 dicembre 1986 n. 1062
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 aprile 1975 n. 379
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 dicembre 1986 n. 1062
+================================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione ad accettare una donazione a favore dello Stato.
 Art. 1
 ------
 
-N.
+n.
 
-379. Decreto del Presidente della Repubblica 28 aprile 1975, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Venafro (Isernia) con atto 1 luglio 1972, n. 37081 di repertorio, a rogito notaio Guido Riccio, di un fabbricato sito in Venafro, tra il corso Garibaldi e la via De Amicis, denominato S. Chiara (gia' ex convento S. Chiara).  
+1062. Decreto del Presidente della Repubblica 22 dicembre 1986, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione, consistente in una collezione di trentaquattro opere, fra dipinti e disegni dei secoli XV, XVIII e XIX, i quali rivestono un importante interesse artistico e storico, da destinare alla Galleria nazionale d'arte moderna di Firenze, disposta dall'avv. Marcello Saltini con atto 6 aprile 1978, n. 15998/7309 di repertorio, a rogito dottor Giovanni Basetti Sani, notaio in Firenze, registrato a Firenze in data 24 aprile 1978 al n. 3421.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 8 agosto 1975  
-Atti di Governo, registro n. 11, foglio n. 57
+Visto, il Guardasigilli: ROGNONI  
+Registrato alla Corte dei conti, addi' 25 marzo 1987  
+Registro n. 8 Beni culturali, foglio n. 227

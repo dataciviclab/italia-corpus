@@ -1,13 +1,11 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1988 n. 18
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 novembre 1987 n. 483
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1988 n. 18
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 novembre 1987 n. 483
+===============================================================
 
 Modificazioni delle aliquote dell'imposta di fabbricazione su alcuni prodotti petroliferi.
 ------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 14/02/1988
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,9 +14,9 @@ Visti gli [articoli 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Vista la [legge 9 ottobre 1987, n. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-09;417), recante delega al Governo per la emanazione di norme concernenti l'aumento o la riduzione dell'imposta di fabbricazione sui prodotti petroliferi con riferimento alla riduzione o all'aumento dei prezzi medi di tali prodotti;
 
-Vista la comunicazione della segreteria del Comitato interministeriale prezzi in data 27 gennaio 1988, concernente la variazione dei prezzi medi europei sui prodotti petroliferi;
+Vista la comunicazione della segreteria del Comitato interministeriale prezzi in data 25 novembre 1987, concernente la variazione dei prezzi medi europei sui prodotti petroliferi;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 29 gennaio 1988;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 novembre 1987;
 
 Sulla proposta del Ministro delle finanze, di concerto con i Ministri del tesoro, del bilancio e della programmazione economica e dell'industria, del commercio e dell'artigianato;
 
@@ -30,16 +28,20 @@ il seguente decreto:
 Art. 1
 ------
 
-1. A partire dal 30 gennaio 1988, l'imposta di fabbricazione e la corrispondente sovrimposta di confine sui seguenti prodotti petroliferi sono aumentate:
+1. A partire dal 28 novembre 1987, l'imposta di fabbricazione e la corrispondente sovrimposta di confine sui seguenti prodotti petroliferi sono aumentate:
 
-a) da lire 86.733 a lire 87.858 per ettolitro, alla temperatura di 15 ›C, per le benzine speciali diverse dall'acqua ragia minerale, per la benzina e per il petrolio diverso da quello lampante;
+a) da L. 86.619 a L. 87.085 per ettolitro, alla temperatura di 15° C, per le benzine speciali diverse dall'acqua ragia minerale, per la benzina e per il petrolio diverso da quello lampante;
 
-b) da lire 8.673,30 a lire 8.785,80 per ettolitro, alla temperatura di 15 ›C, per il prodotto denominato "Jet Fuel JP/4", destinato all'Amministrazione della difesa, relativamente al quantitativo eccedente il contingente annuo di tonnellate 18.000 sulle quali e' dovuta l'imposta nella misura normale stabilita per la benzina.
+b) da L. 8.661,90 a L. 8.708,50 per ettolitro, alla temperatura di 15° C, per il prodotto denominato "Jet Fuel JP/4", destinato all'Amministrazione della difesa, relativamente al quantitativo eccedente il contingente annuo di tonnellate 18.000 sulle quali e' dovuta l'imposta nella misura normale stabilita per la benzina;
+
+c) da L. 29.796 a L. 30.472 per ettolitro, alla temperatura di 15° C, per gli oli da gas da usare come combustibili di cui alla lettera F), punto 1), della tabella B allegata alla [legge 19 marzo 1973, n. 32](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-03-19;32);
+
+d) da L. 9.671 a L. 9.873, da L. 11.405 a L. 11.648 e da L. 33.950 a L. 34.718 per cento kg, rispettivamente, per gli oli combustibili diversi da quelli speciali, semifluidi, fluidi e fluidissimi, di cui alla lettera H), punti 1-b), 1-c) e 1-d), della predetta tabella B.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 gennaio 1988
+### Dato a Roma, addi' 27 novembre 1987
 
 COSSIGA
 
@@ -55,6 +57,6 @@ BATTAGLIA, Ministro dell'industria, del commercio e dell'artigianato
 
 Visto, il Guardasigilli: VASSALLI
 
-Registrato alla Corte dei conti, addi' 30 gennaio 1988
+Registrato alla Corte dei conti, addi' 28 novembre 1987
 
-Atti di Governo, registro n. 71, foglio 18
+Atti di Governo, registro n. 70, foglio n. 6

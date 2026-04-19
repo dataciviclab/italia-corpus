@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1966 n. 131
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1981 n. 831
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1966 n. 131
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1981 n. 831
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Modena.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, numero 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;
+Veduto lo Statuto dell'Universita' di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,277 +18,136 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzi detta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifiche dello Statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Modena e convalidati dal Consiglio universitario nazionale nei suoi pareri;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Decreta:
+Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Sulla
+-----
 
-Art. 9. - Dall'elenco degli insegnamenti complementari del corso di laurea in Giurisprudenza e' soppresse quello di "Diritto coloniale".
+proposta del Ministro della pubblica istruzione; Decreta:
 
-Nello stesso elenco e' aggiunto quello di "Storia ed istituzioni dei paesi afroasiatici".
+Articolo unico
+--------------
 
-Art. 48. - Relativo al corso di laurea in Fisica, dopo l'ottavo comma, sono aggiunti i seguenti commi:
-
-"Delle due lingue straniere di cui lo studente deve sostenere la prova di conoscenza e' obbligatoria l'inglese, la seconda e' da scegliere fra le rimanenti fissate dalla Facolta': francese o tedesco o russo. Tutti gli esami del secondo biennio devono essere preceduti dal superamento della prova di conoscenza delle due lingue straniere".
-
-Art. 50. - Agli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti quelli di 12) Embriologia e morfologia sperimentale;
-
-13) Citologia.
-
-Art. 53. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti quell'di:
-
-14) Embriologia e morfologia sperimentale;
-
-15) Citologia.
-
-Gli articoli dal n. 69 al n. 102, relativi alle norme generali delle scuole di specializzazione in Medicina e chirurgia, sono abrogati e sostituiti dai seguenti.
-
-Art. 69. - Sono istituite presso la Facolta' di medicina e chirurgia scuole di specializzazione che conferiscono diplomi di specialita' nelle discipline professionali medico-chirurgiche ai sensi dell'[art. 178 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art178).
-
-Art. 70. - Le scuole di specializzazione hanno lo scopo di condurre gli allievi ad una approfondita conoscenza della materia ed a una completa capacita' tecnica in un determinato ramo della medicina e chirurgia.
-
-Art. 71. - Alle scuole di specializzazione della Facolta' di medicina e chirurgia possono iscriversi i laureati nelle discipline stabilite dall'ordinamento della relativa scuola entro i numeri di posti stabiliti per ciascuna scuola.
-
-Art. 72. - Gli aspiranti alla iscrizione al primo corso di ciascuna scuola di specializzazione dovranno presentare alla segreteria entro il 31 dicembre, domanda di ammissione in bollo competente, diretta al rettore e corredata dei documenti prescritti e di quei titoli che ciascun candidato ritenga opportuno presentare ne proprio interesse (carriera scolastica, titoli scientifici e pratici, conoscenza delle lingue estere, ecc.).
-
-Art. 73. - I documenti prescritti per l'immatricolazione sono:
-
-a) certificato di nascita in carta legale;
-
-b) diploma originale di maturita' classica o scientifica;
-
-c) certificato di laurea con tutti i voti riportati in ogni singolo esame di profitto;
-
-d) tre fotografie, di cui una autenticata.
-
-Coloro che non presenteranno tutti i documenti di cui sopra, saranno esclusi dagli esami di ammissione.
-
-Art. 74. - Gli aspiranti all'ammissione al primo corso dovranno sostenere presso la scuola prescelta un concorso per titoli e per esami, secondo le particolari esigenze didattiche di ciascuna scuola.
-
-I posti disponibili per ciascuna scuola saranno conferiti in base alla graduatoria del concorso.
-
-Art. 75. - I candidati prescelti dovranno regolarizzare, entro il termine che sara' loro notificato, pena la decadenza del diritto alla iscrizione, la propria posizione presentando alla segreteria i seguenti documenti:
-
-a) quietanza del pagamento delle tasse, sopratasse e contributi;
-
-b) libretto e tessera, che si ritirino presso gli uffici della Universita'.
-
-Art. 76. - La misura delle tasse e sopratasse, che viene resa nota ogni anno con apposito manifesto, viene stabilita dal Consiglio di amministrazione, sentito il Consiglio dei direttori delle scuole.
-
-L'ammontare dei contributi viene stabilito, pure ogni anno, dal Consiglio di amministrazione, udito il Consiglio dei direttori di scuole.
-
-Le tasse, sopratasse e contributi possono essere pagati in quattro rate; la prima all'atto della iscrizione; la seconda entro il 31 gennaio; la terza entro il 31 marzo; la quarta entro il 31 maggio.
-
-L'allievo che ha ottenuto la iscrizione ad un anno di corso non ha diritto in nessun caso alla restituzione delle tasse, sopratasse e contributi pagati.
-
-Art. 77. - Agli anni successivi al primo saranno ammessi gli allievi che abbiano regolarmente frequentato il corso precedente e che abbiano superato esami annuali di profitto secondo le norme prescritte nelle singole scuole. Per le materie complementari non e' prescritto esame a parte, ma il candidato potra' essere interrogato sulle stesse nel corso degli esami delle materie fondamentali.
-
-Per le materie di insegnamento pluriennale l'esame unico e' prescritto alla fine dell'ultimo anno di insegnamento.
-
-Le iscrizioni a tutti gli anni di corso successivi al primo si aprono il 10 agosto e si chiudono improrogabilmente il 31 dicembre.
-
-Art. 78. - Per l'iscrizione agli anni di corso successivi al primo, la domanda, redatta su carta da bollo competente, deve essere corredata:
-
-a) dal libretto personale di iscrizione;
-
-b) dalla quietanza del pagamento delle tasse, sopratasse e contributi.
-
-Art. 79. - Coloro che non hanno ottenuto tutte le firme di frequenza annuali, dovranno ripetere l'anno di corso con il conseguente pagamento di tutte le tasse, sopratasse e contributi.
-
-Art. 80. - Coloro che hanno ottenuto tutte le firma di frequenza annuali, ma non hanno superato l'esame o gli esami di profitto prescritti secondo le norme delle singole scuole, non potranno essere iscritti all'anno di corso successivo, ma dovranno essere iscritti fuori corso.
-
-Art. 81. - Possono essere consentite abbreviazioni di corso per gli assistenti universitari di ruolo, incaricati, supplenti, straordinari e volontari da almeno 8 mesi nelle rispettive specialita' ed in specialita' affini.
-
-Sulla affinita' o meno delle specialita' decide il Consiglio dei direttori delle scuole. Abbreviazioni di corso possono essere consentite anche per gli assistenti di ruolo, incaricati, straordinari, e volontari di nomina dell'Amministrazione ospedaliera, purche' in servizio da almeno un anno in reparti ospedalieri autonomi strettamente attinenti alla scuola di specializzazione alla quale chiedono di essere iscritti. Per altre possibili eventualita' la decisione spetta al Consiglio dei direttori delle scuole. Gli assistenti universitari di ruolo sono iscritti direttamente al 2° anno; per tutti gli altri l'iscrizione al 2° anno e' valida previo concorso di ammissione per titoli e per l'esame da sostenersi dinanzi alle Commissioni di cui all'art. 22. Le ammissioni al 2° anno sono condizionate dalla disponibilita' di posti e non possono comunque superare del 10% i posti prefissati.
-
-Art.- 82. - Le domande di passaggio da una scuola all'altra dell'Universita' di Modena devono essere presentate alla segreteria dal 1 agosto al 31 dicembre.
-
-Il Consiglio di Facolta', sentito il parere del direttore della scuola interessata, decide in merito al passaggio
-
-Art. 83. - Coloro che chiedono il trasferimento da altre Universita' o da altre scuole di specializzazione della stessa Universita', sono ammessi alla scuola prescelta sempre che il direttore della scuola abbia espresso parere favorevole e il Consiglio di Facolta' abbia approvato.
-
-Se non concorrono queste condizioni i documenti verranno restituiti d'ufficio alla Universita' o alle scuole di provenienza. Gli specializzandi trasferiti da altre sedi o da altre scuole possono essere ammessi limitatamente alla disponibilita' dei posti.
-
-Art. 84. - Coloro che chiedono il trasferimento ad altre scuole non possono ottenerlo senza il preventivo assenso del direttore della scuola alla quale appartengono.
-
-Art. 85. - L'insegnamento consiste in una parte pratica ed una teorica: questa si svolge secondo il programma stabilito dal Consiglio dei professori della scuola durante il periodo delle lezioni. La durata del corso si prolunga tuttavia per l'anno solare senza interruzione per la parte pratica che si svolge attraverso l'internato.
-
-Art. 86. - La frequenza ai corsi o l'internato sono obbligatori e gli allievi non possono avere impegni tali da limitare l'obbligo di tale frequenza. Possono essere esonerati dal solo internato unicamente gli assistenti nelle rispettive specialita' o specialita' affini, secondo quanto stabilito nell'art. 13, che prestino regolare servizio nelle cliniche e negli Istituti universitari o in Istituti ospedalieri idonei, volta a volta, a giudizio insindacabile del Consiglio dei professori della scuola.
-
-Art. 87 - Le domande di esami di profitto dovranno essere presentate nei termini che saranno stabiliti all'inizio di ogni sessione con apposito manifesto e dovranno essere accompagnate dal libretto di iscrizione con le prescritte attestazioni di frequenza.
-
-Art. 88. - Per essere ammesso all'esame di diploma, lo specializzando deve aver seguito i corsi e superato gli esami di profitto.
-
-L'esame di diploma consiste nella discussione orale di una dissertazione scritta su un tema approvato in precedenza dal direttore della Scuola.
-
-Per essere ammesso all'esame di diploma, il candidato deve presentare alla segreteria, nei termini che saranno stabiliti all'inizio di ogni sessione con apposito manifesto, domanda in bollo competente diretta al rettore e contenente, oltre ai dati anagrafici, il titolo della tesi e la firma del professore relatore.
-
-La dissertazione, in tre copie, deve essere depositata nella segreteria dieci giorni prima dell'esame.
-
-Art. 89. - I candidati riprovati all'esame di diploma possono ripresentarsi alla prova soltanto dopo un anno.
-
-Art. 90. - Le Commissioni per la valutazione dei titoli e per l'esame di ammissione al primo corso nonche' per le ammissioni al secondo anno, con abbreviazioni di corso, sono composte dal direttore della scuola, presidente, e da due professori ufficiali designati dal preside della Facolta'.
-
-Art. 91. - Le Commissioni per gli esami di profitto sono composte di tre membri e sono nominate dal direttore della scuola. Due dei commissari devono essere professori ufficiali.
-
-Art. 92. - La Commissione per l'esame di diploma e' costituita da sette membri, nominati dal preside della Facolta', udito il direttore della scuola.
-
-Almeno quattro membri della predetta Commissione devono essere insegnanti della scuola ed almeno due membri devono essere professori di ruolo.
-
-Art. 93. - Gli esami di ammissione al primo corso avranno luogo nel mese di gennaio.
-
-Gli esami di profitto avranno luogo in due sessioni: una estiva ed una autunnale. L'esame di diploma avra' luogo solamente nella sessione autunnale.
-
-Art. 94. - Per la valutazione dei titoli e per ciascuna prova di esame nei concorsi di ammissione al 1° e al 2° anno, negli esami di profitto e negli esami di diploma ogni commissario dispone complessivamente di dieci punti. La votazione e' rappresentata dalla somma dei voti ottenuti nella singola prova. Il candidato che non abbia ottenuto la media di 6/10 del totale dei punti di cui la Commissione dispone, si intende riprovato.
-
-Art. 95. - Il direttore di ciascuna scuola di specializzazione e' di diritto il professore di ruolo della materia a cui si intitola la scuola.
-
-In caso di mancanza di un professore di ruolo della materia o in caso di sua rinunzia la Facolta' nomina direttore un professore di ruolo o fuori ruolo scegliendolo fra i propri componenti. Non possono essere assunti dalla stessa persona piu' di due direzioni di scuole.
-
-Art. 96. - Gli insegnanti della scuola sono nominati dalla Facolta' di medicina e chirurgia su proposta del direttore della scuola, il quale li sceglie tra i professori di ruolo incaricati, tra i liberi docenti, tra gli aiuti ed assistenti effettivi od anche tra persone di riconosciuta competenza nella specialita'.
-
-Art. 97. - Il Consiglio di ciascuna scuola si compone dei professori che vi tengono gli insegnamenti prescritti ed e' presieduto dal direttore.
-
-Art. 98. - Il Consiglio dei direttori delle scuole e' composto dai direttori delle scuole ed e' presieduto dal rettore.
-
-Art. 99. - La sorveglianza sugli iscritti per tutto quanto riguarda la loro attivita' spetta al direttore della scuola. Agli iscritti alle scuole si applicano le stesse norme disciplinari in vigore per gli studenti universitari.
-
-Art. 100. - Le tasse, le sopratasse ed i contributi saranno cosi' devoluti:
-
-a) le tasse per servizi resi dall'Universita' a favore del bilancio universitario;
-
-b) le sopratasse per esami a favore dei membri delle Commissioni esaminatrici, ai sensi del [comma secondo dell'art. 1 del decreto del Presidente della Repubblica 1 dicembre 1952, n. 4512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-12-01;4512~art1-com2);
-
-c) i contributi, ad eccezione di quelli aventi speciali destinazioni, ai sensi dell'[art. 11 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art11), sono devoluti a favore del direttore e degli insegnanti della scuola e degli istituti nei quali si svolgono i corsi di insegnamento e a favore del bilancio universitario per particolari servizi.
-
-La ripartizione dei contributi di cui alla suindicata lettera c) sara' effettuata dal Consiglio di amministrazione, su proposta del Consiglio dei direttori delle scuole uditi i direttori delle scuole stesse.
-
-Art. 101. - Per tutto quanto non e' contemplato nel presente statuto saranno applicate le norme legislative e regolamentari universitarie in vigore.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 14 febbraio 1966
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 18 marzo 1966 Atti del Governo, registro n. 202, foglio n. 55. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, numero 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzi detta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Lo statuto dell'Universita' di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Decreta:  
+Dopo l'art. 253, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in biochimica e chimica clinica ed in microbiologia.  
+Scuola di specializzazione in biochimica e chimica clinica  
+Art. 254. - E' istituita presso la facolta' di medicina e chirurgia dell'Universita' di Modena la scuola di specializzazione in biochimica e chimica clinica che conferisce il diploma di specialista in Biochimica e Chimica clinica ad indirizzo diagnostico.  
+Art. 255. - La scuola ha sede presso l'Istituto di chimica biologica. La direzione della scuola e' affidata al professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata al professore associato che pure insegni nella scuola medesima.  
+Art. 256. - La durata del corso e' di quattro anni e non e' suscettibile di abbreviazioni.  
+Art. 257. - Il numero di allievi e' di quindici per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi.  
+L'ammissione e' per titoli ed esami.  
+Art. 258. - Alla scuola sono ammessi solo i laureati in medicina e chirurgia.  
+Art. 259. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+biochimica generale;  
+biologia molecolare;  
+biometria e statistica sanitaria;  
+biochimica analitica I con esercitazioni;  
+tecnica dei prelevamenti.  
+2° Anno:  
+biochimica dinamica;  
+biochimica patologica;  
+chimica analitica;  
+elementi di ematologia diagnostica;  
+elementi di microbiologia diagnostica;  
+biochimica analitica II con esercitazioni.  
+3° Anno:  
+biochimica ormonale;  
+biochimica della riproduzione e dello sviluppo;  
+immunologia diagnostica;  
+enzimologia clinica;  
+organizzazione, gestione, automazione di laboratorio.  
+4° Anno:  
+biochimica dei tessuti e degli organi;  
+biochimica farmacologica e farmacocinetica;  
+tossicologia;  
+informatica medica;  
+elementi di istologia patologica;  
+elementi di legislazione sanitaria.  
+Art. 260. - Ogni materia di insegnamento e' anche materia di esame.  
+Per ottenere l'iscrizione all'anno successivo e' condizione necessaria che lo specializzando abbia ottenuto le attestazioni di frequenza a tutti gli insegnamenti e superati i relativi esami.  
+Durante il quarto anno di corso lo specializzando e' tenuto a frequentare l'istituto presso il quale svolgera' la dissertazione di diploma. L'esame di diploma consiste nella discussione di una dissertazione scritta.  
+Art. 261. - Le norme generali per l'iscrizione, gli esami, le tasse, ecc., sono quelle che regolano le Scuole di specializzazione dell'Universita' di Modena.  
+Scuola di specializzazione in microbiologia  
+Art. 262. - La scuola di specializzazione in microbiologia ha sede presso la cattedra di microbiologia e conferisce il diploma di specialista in microbiologia o in microbiologia con indirizzo tecnico. La scuola di specializzazione in microbiologia ha lo scopo di allargare e approfondire sul piano scientifico la cultura di coloro che si dedicano allo studio di questa disciplina e di fornire sul piano tecnico una preparazione pratica specifica.  
+Art. 263. - La direzione della scuola e' affidata al professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata al professore associato che pure insegni nella scuola medesima.  
+Art. 264. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. E' contemplato un secondo indirizzo in tecniche microbiologiche al quale sono ammessi i laureati in medicina veterinaria, in scienze biologiche, in scienze naturali, in farmacia, in chimica e tecnologia farmaceutiche.  
+Art. 265. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.  
+Art. 266. - Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.  
+Art. 267. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 268. - Le materie di insegnamento sono le seguenti:  
   
-Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 9. - Dall'elenco degli insegnamenti complementari del corso di laurea in Giurisprudenza e' soppresse quello di "Diritto coloniale".  
-Nello stesso elenco e' aggiunto quello di "Storia ed istituzioni dei paesi afroasiatici".  
-Art. 48. - Relativo al corso di laurea in Fisica, dopo l'ottavo comma, sono aggiunti i seguenti commi:  
-"Delle due lingue straniere di cui lo studente deve sostenere la prova di conoscenza e' obbligatoria l'inglese, la seconda e' da scegliere fra le rimanenti fissate dalla Facolta': francese o tedesco o russo. Tutti gli esami del secondo biennio devono essere preceduti dal superamento della prova di conoscenza delle due lingue straniere".  
-Art. 50. - Agli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti quelli di 12) Embriologia e morfologia sperimentale;  
-13) Citologia.  
-Art. 53. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti quell'di:  
-14) Embriologia e morfologia sperimentale;  
-15) Citologia.  
-Gli articoli dal n. 69 al n. 102, relativi alle norme generali delle scuole di specializzazione in Medicina e chirurgia, sono abrogati e sostituiti dai seguenti.  
-Art. 69. - Sono istituite presso la Facolta' di medicina e chirurgia scuole di specializzazione che conferiscono diplomi di specialita' nelle discipline professionali medico-chirurgiche ai sensi dell'[art. 178 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art178).  
-Art. 70. - Le scuole di specializzazione hanno lo scopo di condurre gli allievi ad una approfondita conoscenza della materia ed a una completa capacita' tecnica in un determinato ramo della medicina e chirurgia.  
-Art. 71. - Alle scuole di specializzazione della Facolta' di medicina e chirurgia possono iscriversi i laureati nelle discipline stabilite dall'ordinamento della relativa scuola entro i numeri di posti stabiliti per ciascuna scuola.  
-Art. 72. - Gli aspiranti alla iscrizione al primo corso di ciascuna scuola di specializzazione dovranno presentare alla segreteria entro il 31 dicembre, domanda di ammissione in bollo competente, diretta al rettore e corredata dei documenti prescritti e di quei titoli che ciascun candidato ritenga opportuno presentare ne proprio interesse (carriera scolastica, titoli scientifici e pratici, conoscenza delle lingue estere, ecc.).  
-Art. 73. - I documenti prescritti per l'immatricolazione sono:  
-a) certificato di nascita in carta legale;  
-b) diploma originale di maturita' classica o scientifica;  
-c) certificato di laurea con tutti i voti riportati in ogni singolo esame di profitto;  
-d) tre fotografie, di cui una autenticata.  
-Coloro che non presenteranno tutti i documenti di cui sopra, saranno esclusi dagli esami di ammissione.  
-Art. 74. - Gli aspiranti all'ammissione al primo corso dovranno sostenere presso la scuola prescelta un concorso per titoli e per esami, secondo le particolari esigenze didattiche di ciascuna scuola.  
-I posti disponibili per ciascuna scuola saranno conferiti in base alla graduatoria del concorso.  
-Art. 75. - I candidati prescelti dovranno regolarizzare, entro il termine che sara' loro notificato, pena la decadenza del diritto alla iscrizione, la propria posizione presentando alla segreteria i seguenti documenti:  
-a) quietanza del pagamento delle tasse, sopratasse e contributi;  
-b) libretto e tessera, che si ritirino presso gli uffici della Universita'.  
-Art. 76. - La misura delle tasse e sopratasse, che viene resa nota ogni anno con apposito manifesto, viene stabilita dal Consiglio di amministrazione, sentito il Consiglio dei direttori delle scuole.  
-L'ammontare dei contributi viene stabilito, pure ogni anno, dal Consiglio di amministrazione, udito il Consiglio dei direttori di scuole.  
-Le tasse, sopratasse e contributi possono essere pagati in quattro rate; la prima all'atto della iscrizione; la seconda entro il 31 gennaio; la terza entro il 31 marzo; la quarta entro il 31 maggio.  
-L'allievo che ha ottenuto la iscrizione ad un anno di corso non ha diritto in nessun caso alla restituzione delle tasse, sopratasse e contributi pagati.  
-Art. 77. - Agli anni successivi al primo saranno ammessi gli allievi che abbiano regolarmente frequentato il corso precedente e che abbiano superato esami annuali di profitto secondo le norme prescritte nelle singole scuole. Per le materie complementari non e' prescritto esame a parte, ma il candidato potra' essere interrogato sulle stesse nel corso degli esami delle materie fondamentali.  
-Per le materie di insegnamento pluriennale l'esame unico e' prescritto alla fine dell'ultimo anno di insegnamento.  
-Le iscrizioni a tutti gli anni di corso successivi al primo si aprono il 10 agosto e si chiudono improrogabilmente il 31 dicembre.  
-Art. 78. - Per l'iscrizione agli anni di corso successivi al primo, la domanda, redatta su carta da bollo competente, deve essere corredata:  
-a) dal libretto personale di iscrizione;  
-b) dalla quietanza del pagamento delle tasse, sopratasse e contributi.  
-Art. 79. - Coloro che non hanno ottenuto tutte le firme di frequenza annuali, dovranno ripetere l'anno di corso con il conseguente pagamento di tutte le tasse, sopratasse e contributi.  
-Art. 80. - Coloro che hanno ottenuto tutte le firma di frequenza annuali, ma non hanno superato l'esame o gli esami di profitto prescritti secondo le norme delle singole scuole, non potranno essere iscritti all'anno di corso successivo, ma dovranno essere iscritti fuori corso.  
-Art. 81. - Possono essere consentite abbreviazioni di corso per gli assistenti universitari di ruolo, incaricati, supplenti, straordinari e volontari da almeno 8 mesi nelle rispettive specialita' ed in specialita' affini.  
-Sulla affinita' o meno delle specialita' decide il Consiglio dei direttori delle scuole. Abbreviazioni di corso possono essere consentite anche per gli assistenti di ruolo, incaricati, straordinari, e volontari di nomina dell'Amministrazione ospedaliera, purche' in servizio da almeno un anno in reparti ospedalieri autonomi strettamente attinenti alla scuola di specializzazione alla quale chiedono di essere iscritti. Per altre possibili eventualita' la decisione spetta al Consiglio dei direttori delle scuole. Gli assistenti universitari di ruolo sono iscritti direttamente al 2° anno; per tutti gli altri l'iscrizione al 2° anno e' valida previo concorso di ammissione per titoli e per l'esame da sostenersi dinanzi alle Commissioni di cui all'art. 22. Le ammissioni al 2° anno sono condizionate dalla disponibilita' di posti e non possono comunque superare del 10% i posti prefissati.  
-Art.- 82. - Le domande di passaggio da una scuola all'altra dell'Universita' di Modena devono essere presentate alla segreteria dal 1 agosto al 31 dicembre.  
-Il Consiglio di Facolta', sentito il parere del direttore della scuola interessata, decide in merito al passaggio  
-Art. 83. - Coloro che chiedono il trasferimento da altre Universita' o da altre scuole di specializzazione della stessa Universita', sono ammessi alla scuola prescelta sempre che il direttore della scuola abbia espresso parere favorevole e il Consiglio di Facolta' abbia approvato.  
-Se non concorrono queste condizioni i documenti verranno restituiti d'ufficio alla Universita' o alle scuole di provenienza. Gli specializzandi trasferiti da altre sedi o da altre scuole possono essere ammessi limitatamente alla disponibilita' dei posti.  
-Art. 84. - Coloro che chiedono il trasferimento ad altre scuole non possono ottenerlo senza il preventivo assenso del direttore della scuola alla quale appartengono.  
-Art. 85. - L'insegnamento consiste in una parte pratica ed una teorica: questa si svolge secondo il programma stabilito dal Consiglio dei professori della scuola durante il periodo delle lezioni. La durata del corso si prolunga tuttavia per l'anno solare senza interruzione per la parte pratica che si svolge attraverso l'internato.  
-Art. 86. - La frequenza ai corsi o l'internato sono obbligatori e gli allievi non possono avere impegni tali da limitare l'obbligo di tale frequenza. Possono essere esonerati dal solo internato unicamente gli assistenti nelle rispettive specialita' o specialita' affini, secondo quanto stabilito nell'art. 13, che prestino regolare servizio nelle cliniche e negli Istituti universitari o in Istituti ospedalieri idonei, volta a volta, a giudizio insindacabile del Consiglio dei professori della scuola.  
-Art. 87 - Le domande di esami di profitto dovranno essere presentate nei termini che saranno stabiliti all'inizio di ogni sessione con apposito manifesto e dovranno essere accompagnate dal libretto di iscrizione con le prescritte attestazioni di frequenza.  
-Art. 88. - Per essere ammesso all'esame di diploma, lo specializzando deve aver seguito i corsi e superato gli esami di profitto.  
-L'esame di diploma consiste nella discussione orale di una dissertazione scritta su un tema approvato in precedenza dal direttore della Scuola.  
-Per essere ammesso all'esame di diploma, il candidato deve presentare alla segreteria, nei termini che saranno stabiliti all'inizio di ogni sessione con apposito manifesto, domanda in bollo competente diretta al rettore e contenente, oltre ai dati anagrafici, il titolo della tesi e la firma del professore relatore.  
-La dissertazione, in tre copie, deve essere depositata nella segreteria dieci giorni prima dell'esame.  
-Art. 89. - I candidati riprovati all'esame di diploma possono ripresentarsi alla prova soltanto dopo un anno.  
-Art. 90. - Le Commissioni per la valutazione dei titoli e per l'esame di ammissione al primo corso nonche' per le ammissioni al secondo anno, con abbreviazioni di corso, sono composte dal direttore della scuola, presidente, e da due professori ufficiali designati dal preside della Facolta'.  
-Art. 91. - Le Commissioni per gli esami di profitto sono composte di tre membri e sono nominate dal direttore della scuola. Due dei commissari devono essere professori ufficiali.  
-Art. 92. - La Commissione per l'esame di diploma e' costituita da sette membri, nominati dal preside della Facolta', udito il direttore della scuola.  
-Almeno quattro membri della predetta Commissione devono essere insegnanti della scuola ed almeno due membri devono essere professori di ruolo.  
-Art. 93. - Gli esami di ammissione al primo corso avranno luogo nel mese di gennaio.  
-Gli esami di profitto avranno luogo in due sessioni: una estiva ed una autunnale. L'esame di diploma avra' luogo solamente nella sessione autunnale.  
-Art. 94. - Per la valutazione dei titoli e per ciascuna prova di esame nei concorsi di ammissione al 1° e al 2° anno, negli esami di profitto e negli esami di diploma ogni commissario dispone complessivamente di dieci punti. La votazione e' rappresentata dalla somma dei voti ottenuti nella singola prova. Il candidato che non abbia ottenuto la media di 6/10 del totale dei punti di cui la Commissione dispone, si intende riprovato.  
-Art. 95. - Il direttore di ciascuna scuola di specializzazione e' di diritto il professore di ruolo della materia a cui si intitola la scuola.  
-In caso di mancanza di un professore di ruolo della materia o in caso di sua rinunzia la Facolta' nomina direttore un professore di ruolo o fuori ruolo scegliendolo fra i propri componenti. Non possono essere assunti dalla stessa persona piu' di due direzioni di scuole.  
-Art. 96. - Gli insegnanti della scuola sono nominati dalla Facolta' di medicina e chirurgia su proposta del direttore della scuola, il quale li sceglie tra i professori di ruolo incaricati, tra i liberi docenti, tra gli aiuti ed assistenti effettivi od anche tra persone di riconosciuta competenza nella specialita'.  
-Art. 97. - Il Consiglio di ciascuna scuola si compone dei professori che vi tengono gli insegnamenti prescritti ed e' presieduto dal direttore.  
-Art. 98. - Il Consiglio dei direttori delle scuole e' composto dai direttori delle scuole ed e' presieduto dal rettore.  
-Art. 99. - La sorveglianza sugli iscritti per tutto quanto riguarda la loro attivita' spetta al direttore della scuola. Agli iscritti alle scuole si applicano le stesse norme disciplinari in vigore per gli studenti universitari.  
-Art. 100. - Le tasse, le sopratasse ed i contributi saranno cosi' devoluti:  
-a) le tasse per servizi resi dall'Universita' a favore del bilancio universitario;  
-b) le sopratasse per esami a favore dei membri delle Commissioni esaminatrici, ai sensi del [comma secondo dell'art. 1 del decreto del Presidente della Repubblica 1 dicembre 1952, n. 4512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-12-01;4512~art1-com2);  
-c) i contributi, ad eccezione di quelli aventi speciali destinazioni, ai sensi dell'[art. 11 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art11), sono devoluti a favore del direttore e degli insegnanti della scuola e degli istituti nei quali si svolgono i corsi di insegnamento e a favore del bilancio universitario per particolari servizi.  
-La ripartizione dei contributi di cui alla suindicata lettera c) sara' effettuata dal Consiglio di amministrazione, su proposta del Consiglio dei direttori delle scuole uditi i direttori delle scuole stesse.  
-Art. 101. - Per tutto quanto non e' contemplato nel presente statuto saranno applicate le norme legislative e regolamentari universitarie in vigore.  
+I BIENNIO  
+(comune ai due indirizzi)  
+1° Anno:  
+1) batteriologia generale I;  
+2) tecniche batteriologiche;  
+3) immunologia generale;  
+4) genetica dei microrganismi.  
+2° Anno:  
+5) batteriologia generale II;  
+6) antibiotici e chemioterapici;  
+7) virologia generale;  
+8) immunologia generale e tecniche immunologiche;  
+9) dosaggio biologico ed analisi statistica.  
+  
+II BIENNIO  
+(indirizzo medico)  
+3° Anno:  
+10) microrganismi patogeni e malattia;  
+11) batteriologia speciale I;  
+12) virologia speciale e tecniche virologiche;  
+13) micologia medica;  
+14) epidemiologia delle malattie infettive.  
+4° Anno:  
+15) batteriologia speciale II;  
+16) sierologia;  
+17) microbiologia degli alimenti;  
+18) microbiologia dell'ambiente;  
+19) protozoologia medica.  
+  
+II BIENNIO  
+(indirizzo tecnico)  
+3° Anno:  
+10) azione patogena dei microrganismi;  
+11) tecniche batteriologiche e batteriologia speciale I;  
+12) micologia generale e tecniche micologiche;  
+13) tecniche virologiche e virologia speciale;  
+14) protozoologia.  
+4° Anno:  
+15) tecniche batteriologiche e batteriologia generale III;  
+16) microbiologia industriale;  
+17) esame microbiologico dell'ambiente;  
+18) controllo microbiologico degli alimenti;  
+19) tecniche sierologiche.  
+Il direttore puo' stabilire, per un piu' proficuo proseguimento della scuola che siano tenuti corsi complementari di conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola.  
+Art. 269. - La frequenza alle lezioni ed esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le prove di esame.  
+Art. 270. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno e per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi stessi.  
+L'esame di diploma constera' di una discussione sopra una tesi scritta e a coloro che abbiano superato l'esame finale viene rilasciato un diploma di specialista in "microbiologia" o, per i non laureati in medicina e chirurgia un diploma di specialista in "microbiologia con indirizzo tecnico".  
+Le norme generali per l'iscrizione, gli esami, le tasse, ecc., sono quelle che regolano le scuole di specializzazione dell'Universita' di Modena.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 febbraio 1966
+### Dato a Roma, addi' 25 febbraio 1981
 
-SARAGAT GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 18 marzo 1966
+Registrato alla Corte dei conti, addi' 7 gennaio 1982
 
-Atti del Governo, registro n. 202, foglio n. 55. - VILLA
+Registro n. 1 Istruzione, foglio n. 120

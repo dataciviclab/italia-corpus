@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1986 n. 651
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 aprile 1965 n. 697
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1986 n. 651
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 aprile 1965 n. 697
 =============================================================
 
 Revisione della tabella che determina il numero e la residenza dei notai.
@@ -10,94 +10,259 @@ Revisione della tabella che determina il numero e la residenza dei notai.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Visti gli [articoli 4 della legge 16 febbraio 1913, n. 89 e 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;5~art4) del [regio decreto 10 settembre 1914, n. 1326](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-10;1326), sulla revisione decennale (generale) della tabella che determina il numero e la residenza dei notai sul territorio della Repubblica;   
-Visti gli [articoli 3 della legge 16 febbraio 1913, n. 89, 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;3~art3) del [regio decreto 10 settembre 1914, n. 1326](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-10;1326), [1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-10;1) e seguenti del [regio decreto-legge 28 dicembre 1924, n. 2124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-12-28;2124), convertito nella [legge 18 marzo 1926, n. 562, 4 ed 8](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-18;8) del [regio decreto-legge 14 luglio 1937, n. 1666](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-07-14;1666), convertito, con modificazioni, nella [legge 30 dicembre 1937, n. 2358](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-12-30;2358), sulla circoscrizione territoriale dei distretti notarili, sulla riunione dei distretti notarili, sulla separazione dei distretti notarili riuniti e sull'aggregazione, agli effetti dell'assistenza notarile, di comuni, non provvisti di notaio, ad altri comuni sedi di notaio;   
-Visto l'[art. 2 della legge 17 maggio 1952, n. 629](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-05-17;629~art2), come modificato dall'[art. 1 della legge 28 luglio 1961, n. 723](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-28;723~art1), sull'istituzione degli archivi notarili distrettuali;   
-Visti i pareri dei consigli notarili e delle corti di appello sulla revisione decennale (generale) anzidetta;   
-Visti la relazione generale, i criteri di massima e le relazioni particolari sui singoli distretti;   
-Viste le istanze di tutti i notai del distretto di Brindisi dirette ad ottenere la separazione del distretto di Brindisi dal distretto di Lecce attualmente riuniti;   
-Visto il parere favorevole della corte di appello di Lecce sulle predette istanze;   
-Sulla proposta del Ministro di grazia e giustizia;   
+Visto l'[art. 4 della legge 16 febbraio 1913, n. 89](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89~art4), sulla revisione generale della tabella che determina il numero la residenza dei notai nel territorio della Repubblica;  
+Visto il [regio decreto-legge 28 dicembre 1924, n. 2124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-12-28;2124), convertito nella [legge 18 marzo 1926, n. 562](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-18;562), sulla circoscrizione territoriale dei distretti notarili;  
+Visto il [regio decreto 6 maggio 1929, n. 972](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-05-06;972);  
+Visto il [regio decreto 14 luglio 1937, n. 1666](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-07-14;1666), sulla riunione dei distretti notarili e sull'aggregazione di Comuni agli effetti dell'assistenza notarile,;  
+Visto il [decreto legislativo 6 marzo 1948, n. 518](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-06;518);  
+Visti i pareri dei Consigli notarili e delle Corti di appello sulla revisione generale anzidetta;  
+Visti gli [articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1964-09-09;735~art2) e [12 del decreto del Presidente della Repubblica 9 settembre 1964, n. 735](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1964-09-09;735~art12), sull'istituzione dello archivio notarile di Pordenone;  
+Vista la [legge 6 luglio 1964, n. 530](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-07-06;530), con la quale e' stato istituito il Tribunale di Paola;  
+Visti gli [articoli 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1963-12-31;2105~art4), [5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1963-12-31;2105~art5) e [6 del decreto presidenziale 31 dicembre 1963, n. 2105](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1963-12-31;2105~art6), contenente modificazioni alle circoscrizioni territoriali degli uffici giudiziari con conseguenti modificazioni nell'ambito di alcuni distretti notarili;  
+Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e giustizia;  
   
-Decreta:   
+Decreta:  
   
-Il numero e la residenza dei notai nel territorio nazionale, sono determinati in conformita' della tabella annessa al presente decreto, la quale, firmata dal Ministro di grazia e giustizia, sostituisce la corrispondente tabella annessa al [decreto presidenziale 14 gennaio 1976, n. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-01-14;5). Nella stessa tabella vengono determinati, altresi', i distretti notarili riuniti ed il rispettivo capoluogo, nonche' i comuni aggregati, agli effetti dell'assistenza notarile, ed altri comuni sedi di notai.   
-Nella stessa tabella, infine, e' determinata la istituzione autonoma dei distretti notarili di Brindisi e di Lecce, previa separazione dei corrispondenti distretti notarili attualmente riuniti, con i capoluoghi rispettivamente in Brindisi ed in Lecce.  
-Sono, pertanto, istituiti nel distretto notarile di Brindisi, il collegio ed il consiglio notarile, nonche' l'archivio notarile distrettuale con sede nel relativo capoluogo e nel distretto notarile di Lecce il collegio ed il consiglio notarile, fermo restando il preesistente archivio notarile distrettuale.   
+Il numero e la residenza dei notai nei Comuni della Repubblica italiana sono determinati in conformita' della tabella annessa al presente decreto, la quale, firmata dal Guardasigilli Ministro Segretario di Stato per la grazia e giustizia, sostituisce la corrispondente tabella annessa al [decreto presidenziale 18 gennaio 1954, n. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-01-18;18).  
+Nella stessa tabella vengono determinati altresi' i distretti notarili riuniti ed il rispettivo capoluogo, nonche' i Comuni aggregati, agli effetti della assistenza notarile, ad altri Comuni sedi di notaio.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 agosto 1986
+### Dato a Roma, addi' 24 aprile 1965
 
-COSSIGA
+SARAGAT REALE
 
-ROGNONI, Ministro di grazia e giustizia
+Visto, il Guardasigilli: REALE
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 13 maggio 1965
 
-Registrato alla Corte dei conti, addi' 26 settembre 1986
-
-Registro n. 43, foglio n. 338
+Atti del Governo, registro n. 193, foglio n. 67. - VILLA
 
 Tabella
 
- TABELLA DEL NUMERO E DELLA RESIDENZA DEI NOTAI NEI COMUNI DELLA   
-REPUBBLICA   
+ TABELLA DEL NUMERO E DELLA RESIDENZA DEI NOTAI   
+NEI COMUNI DELLA REPUBBLICA   
+  
+CORTE DI APPELLO DI ANCONA   
+Riepilogo dei distretti della Corte d'Appello di Ancona   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v065U06970010001011000103&dgu=1965-06-23&art.dataPubblicazioneGazzetta=1965-06-23&art.codiceRedazionale=065U0697)
   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v086U06510010001011000104&dgu=1986-10-14&art.dataPubblicazioneGazzetta=1986-10-14&art.codiceRedazionale=086U0651)
+CORTE D'APPELLO DI BARI   
+Riepilogo dei distretti della Corte d'Appello di Bari   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v065U06970010001011000203&dgu=1965-06-23&art.dataPubblicazioneGazzetta=1965-06-23&art.codiceRedazionale=065U0697)
   
   
   
+CORTE DI APPELLO DI BOLOGNA   
+Riepilogo dei distretti della Corte d'Appello di Bologna   
   
-(1) (2)
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v065U06970010001011000303&dgu=1965-06-23&art.dataPubblicazioneGazzetta=1965-06-23&art.codiceRedazionale=065U0697)
+  
+  
+  
+CORTE DI APPELLO DI BRESCIA   
+Riepilogo dei distretti della Corte d'Appello di Brescia   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v065U06970010001011000403&dgu=1965-06-23&art.dataPubblicazioneGazzetta=1965-06-23&art.codiceRedazionale=065U0697)
+  
+  
+  
+CORTE DI APPELLO DI CAGLIARI   
+Riepilogo dei distretti della Corte d'Appello di Cagliari   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v065U06970010001011000503&dgu=1965-06-23&art.dataPubblicazioneGazzetta=1965-06-23&art.codiceRedazionale=065U0697)
+  
+  
+  
+CORTE DI APPELLO DI CALTANISSETTA   
+Riepilogo dei distretti della Corte d'Appello di Caltanissetta   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v065U06970010001011000603&dgu=1965-06-23&art.dataPubblicazioneGazzetta=1965-06-23&art.codiceRedazionale=065U0697)
+  
+  
+  
+CORTE DI APPELLO DI CATANIA   
+Riepilogo dei distretti della Corte d'Appello di Catania   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v065U06970010001011000703&dgu=1965-06-23&art.dataPubblicazioneGazzetta=1965-06-23&art.codiceRedazionale=065U0697)
+  
+  
+  
+CORTE DI APPELLO DI CATANZARO   
+Riepilogo dei distretti della Corte d'Appello di Catanzaro   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v065U06970010001011000803&dgu=1965-06-23&art.dataPubblicazioneGazzetta=1965-06-23&art.codiceRedazionale=065U0697)
+  
+  
+  
+CORTE DI APPELLO DI FIRENZE   
+Riepilogo dei distretti della Corte d'Appello di Firenze   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v065U06970010001011000903&dgu=1965-06-23&art.dataPubblicazioneGazzetta=1965-06-23&art.codiceRedazionale=065U0697)
+  
+  
+  
+CORTE DI APPELLO DI GENOVA   
+Riepilogo dei distretti della Corte d'Appello di Genova   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v065U06970010001011001003&dgu=1965-06-23&art.dataPubblicazioneGazzetta=1965-06-23&art.codiceRedazionale=065U0697)
+  
+  
+  
+CORTE DI APPELLO DI L'AQUILA   
+Riepilogo dei distretti della Corte d'Appello di L'Aquila   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v065U06970010001011001103&dgu=1965-06-23&art.dataPubblicazioneGazzetta=1965-06-23&art.codiceRedazionale=065U0697)
+  
+  
+  
+CORTE DI APPELLO DI LECCE   
+Riepilogo dei distretti della Corte d'Appello di Lecce   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v065U06970010001011001203&dgu=1965-06-23&art.dataPubblicazioneGazzetta=1965-06-23&art.codiceRedazionale=065U0697)
+  
+  
+  
+CORTE DI APPELLO DI MESSINA   
+Riepilogo dei distretti della Corte d'Appello di Messina   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v065U06970010001011001303&dgu=1965-06-23&art.dataPubblicazioneGazzetta=1965-06-23&art.codiceRedazionale=065U0697)
+  
+  
+  
+CORTE DI APPELLO DI MILANO   
+Riepilogo dei distretti della Corte d'Appello di Milano   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v065U06970010001011001403&dgu=1965-06-23&art.dataPubblicazioneGazzetta=1965-06-23&art.codiceRedazionale=065U0697)
+  
+  
+(1)   
+  
+CORTE DI APPELLO DI NAPOLI   
+Riepilogo dei distretti della Corte d'Appello di Napoli   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v065U06970010001011001503&dgu=1965-06-23&art.dataPubblicazioneGazzetta=1965-06-23&art.codiceRedazionale=065U0697)
+  
+  
 
 ((3))
+
+  
+  
+CORTE DI APPELLO DI PALERMO   
+Riepilogo dei distretti della Corte d'Appello di Palermo   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v065U06970010001011001603&dgu=1965-06-23&art.dataPubblicazioneGazzetta=1965-06-23&art.codiceRedazionale=065U0697)
+  
+  
+  
+CORTE DI APPELLO DI PERUGIA   
+Riepilogo dei distretti della Corte d'Appello di Perugia   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v065U06970010001011001703&dgu=1965-06-23&art.dataPubblicazioneGazzetta=1965-06-23&art.codiceRedazionale=065U0697)
+  
+  
+  
+CORTE DI APPELLO DI POTENZA   
+Riepilogo dei distretti della Corte d'Appello di Potenza   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v065U06970010001011001803&dgu=1965-06-23&art.dataPubblicazioneGazzetta=1965-06-23&art.codiceRedazionale=065U0697)
+  
+  
+  
+CORTE DI APPELLO DI ROMA   
+Riepilogo dei distretti della Corte d'Appello di Roma   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v065U06970010001011001903&dgu=1965-06-23&art.dataPubblicazioneGazzetta=1965-06-23&art.codiceRedazionale=065U0697)
+  
+  
+  
+CORTE DI APPELLO DI TORINO   
+Riepilogo dei distretti della Corte d'Appello di Torino   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v065U06970010001011002003&dgu=1965-06-23&art.dataPubblicazioneGazzetta=1965-06-23&art.codiceRedazionale=065U0697)
+  
+  
+(1)   
+  
+CORTE DI APPELLO Di TRENTO.   
+Riepilogo dei distretti della Corte d'Appello di Trento.   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v065U06970010001011002103&dgu=1965-06-23&art.dataPubblicazioneGazzetta=1965-06-23&art.codiceRedazionale=065U0697)
+  
+  
+  
+CORTE DI APPELLO DI TRIESTE   
+Riepilogo dei distretti della Corte d'Appello di Trieste   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v065U06970010001011002203&dgu=1965-06-23&art.dataPubblicazioneGazzetta=1965-06-23&art.codiceRedazionale=065U0697)
+  
+  
+  
+CORTE DI APPELLO DI VENEZIA   
+Riepilogo dei distretti della Corte d'Appello di Venezia   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v065U06970010001011002303&dgu=1965-06-23&art.dataPubblicazioneGazzetta=1965-06-23&art.codiceRedazionale=065U0697)
+  
+  
+  
+RIEPILOGO GENERALE della tabella del numero e della residenza dei notari nei Comuni della Repubblica   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v065U06970010001011002403&dgu=1965-06-23&art.dataPubblicazioneGazzetta=1965-06-23&art.codiceRedazionale=065U0697)
+  
+  
+  
+(2)   
+  
+Visto, d'ordine il Guardasigilli   
+Ministro Segretario di Stato per la grazia e giustizia   
 
 ---------------
 
 AGGIORNAMENTO (1)
 
-L'errata-corrige in (G.U 26/11/1986, n. 275) ha disposto che "Nel decreto citato in epigrafe sono apportate le seguenti correzioni:  
-a pag.4, nella colonna comuni di residenza dei notai, riguardante  
-i distretti notarili riuniti di Pesaro ed Urbino, leggasi: "Sant'Agata Feltria", invece di: "Sant'Angata Feltria";  
-a pag.7 della colonna distretti notarili, leggasi: "Distretti  
-notarili riuniti di Forli' e Rimini, con capoluogo a Forli", invece  
-di: "Distretti notarili di Forli' e Rimini, con capoluogo a Forli";  
-a pag.10, nella colonna comuni aggregati, leggasi: "Pedergnaga  
-Oriano", invece di: "Pedergnana Oriano";  
-a pag. 14, nella colonna comuni di residenza dei notai,  
-riguardante i distretti notarili di Enna e Nicosia, leggasi: "  
-Centuripe", invece di "Centurine";  
-a pag. 18, nella colonna comuni di residenza dei notai,  
-rigurdante il distretto notarile di Arezzo, leggasi: "Foiano della  
-Chiana", invece di: "Poiano della Chiana";  
-a pag. 25, nella colonna comuni di residenza dei notai,  
-rigurdante il distretto notarile di Lecce, leggasi: "Calimera",  
-invece di "Calanera";  
-a pag. 31, nella colonna comuni di residenza dei notai,  
-rigurdante il distretto notarile di Napoili, leggasi: "Marigliano",  
-invece di "Morigliano";  
-a pag. 32, nella colonna comuni di residenza dei notai,  
-rigurdante il distretto notarile di Santa Maria Capua Vetere, leggasi: "Capriati a Volturno", invece di "Capriati al Volturno";  
-a pag. 36, nella colonna comuni di residenza dei notai,  
-rigurdante il distretto notarile di Matera, leggasi: "Grassano",  
-invece di "Grossano"."  
-  
----------------  
-  
-  
-AGGIORNAMENTO (2)   
-Il [D.P.R. 1 dicembre 1986, n. 965](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-12-01;965) ha disposto (con l'articolo unico) che "La tabella che determina il numero e la residenza dei notai sul territorio nazionale, approvata con [decreto presidenziale del 4 agosto 1986, n. 651](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-08-04;651), registrato alla [Corte dei conti il 26 settembre 1986](https://e-justice.europa.eu/ecli/ECLI::::), e' cosi' rettificata:   
-nella colonna comuni aggregati, riguardante i distretti notarili riuniti di Macerata e Camerino, leggasi "Montecassiano" invece di "Montecassino"; in corrispondenza della sede notarile di Formigine del distretto notarile di Modena, va cancellato dall'apposita colonna riservata ai comuni aggregati, il comune di Maranello; nella colonna comuni di residenza dei notai, riguardante il distretto notarile di Reggio Emilia, leggasi "Castelnovo di Sotto" invece di "Castelnuovo di Sotto" e "Castelnovo ne' Monti" invece di "Castelnuovo ne' Monti"; nella colonna comuni aggregati, riguardante il distretto notarile di Bergamo, leggasi "Cologno al Serio" invece di "Cologna al Serio"; nella colonna comuni di residenza dei notai, riguardante il distretto notarile di Brescia, leggasi "Desenzano del Garda" invece di "Desenzano sul Garda"; nella colonna distretti notarili, leggasi "Distretti notarili riuniti di Cremona e Crema, con capoluogo a Cremona" invece di "Distretti notarili di Cremona e Crema, con capoluogo a Cremona"; nella colonna comuni di residenza dei notai, riguardante i distretti notarili riuniti di Cagliari e Lanusei, leggasi "Sinnai" invece di "Sinnei"; nella colonna comuni aggregati, riguardante i distretti notarili riuniti di Catanzaro, Crotone, Lamezia Terme e Vibo Valentia, leggasi "Simeri Crichi" invece di "Simeri e Crichi" e nella colonna comuni di residenza dei notai, leggasi "Nicotera" invece di "Nicotra"; nella colonna comuni aggregati, riguardante i distretti notarili riuniti di Genova e Chiavari, leggasi "Santo Stefano d'Aveto" invece di "Santo Stefano"; nella colonna comuni aggregati riguardante i distretti notarili riuniti di Sulmona e Avezzano, leggasi "Luco dei Marsi" invece di "Luco ne' Marsi"; nella colonna comuni di residenza dei notai, riguardante i distretti notarili riuniti di Messina, Patti e Mistretta, leggasi "Santo Stefano di Camastra" invece di "Santo Stefano Camastra"; nella colonna comuni di residenza dei notai, riguardante i distretti notarili riuniti di Como e Lecco, leggasi "San Fedele Intelvi" invece di "San Fedele"; nella colonna comuni di residenza dei notai, riguardante i distretti notarili riuniti di Milano, Busto Arsizio, Lodi, Monza e Varese, leggasi "Castellanza" invece di "Castellana" e "Somma Lombardo" invece di "Somma Lombarda"; nella colonna comuni aggregati, riguardante i distretti notarili riuniti di Campobasso, Isernia e Larino, leggasi "Spinete" invece di "Spineta"; nella colonna comuni aggregati, riguardante i distretti notarili riuniti di Potenza, Lagonegro e Melfi, leggasi "Roccanova" invece di "Roccanuova" e "Vaglio Basilicata" invece di "Vaglio"; nella colonna comuni di residenza dei notai, riguardante il distretto notarile di Cassino, leggasi "Mignano Monte Lungo" invece di "Mignano"; in corrispondenza della sede notarile di Valmontone, dei distretti notarili riuniti di Roma, Velletri e Civitavecchia, nell'apposita colonna riservata ai comuni aggregati va iscritto il comune di Colleferro; nella colonna comuni di residenza dei notai, riguardante il distretto notarile di Asti, leggasi "Baldichieri d'Asti" invece di "Baldichiari d'Asti", "Montemagno" invece di "Montemagnano", "Villanova d'Asti" invece di "Villanuova d'Asti"; nella colonna comuni aggregati, riguardante i distretti notarili riuniti di Ivrea e Aosta, leggasi "Sala Dora" invece di "Sara Dora"; nella colonna comuni aggregati, riguardante i distretti notarili di Torino e Pinerolo, leggasi "Casalborgone" invece di "Casalborbone" e "Airasca" invece di "Airesca"; nella colonna comuni di residenza dei notai, riguardante il distretto notarile di Verbania, leggasi "Cannobio" invece di "Cannobbio"; nella colonna comuni aggregati, leggasi "Vogogna" invece di "Vigogna".
+L'Avviso di rettifica in G.U. 8/07/1965, n. 167, ha disposto che nel presente D.P.R., [pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 154 del 23 giugno 1965](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1965-06-23&numeroGazzetta=154), alle pagine 31 e 32 nella colonna "Comuni aggregati" si intendono sopressi il comune di Rivolta d'Adda, aggregato a quello di Cassano d'Adda e il comune di Barsilassina aggregato a quello di Sesto San Giovanni; alla pagina 47 il numero dei posti dei comuni di Borgo d'Ale e Borgosesia devono intendersi rispettivamente, di 1, e 3, ed, infine, il comune di Valduggia deve intendersi aggregato a Borgosesia e non a Borgomanero.
+
+---------------
+
+AGGIORNAMENTO (2)
+
+L'Avviso di rettifica in G.U. 28/5/1966, n. 130, ha disposto che il comune di Poggio Renatico deve intendersi aggregato a Ferrara e non a Migliarino.
 
 ---------------
 
 AGGIORNAMENTO (3)
 
-Il [D.P.R. 29 ottobre 1986, n. 976](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-10-29;976) ha disposto (con l'articolo unico) che "La tabella che determina il numero e la residenza dei notai sul territorio nazionale, approvata con [decreto presidenziale del 4 agosto 1986, n. 651](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-08-04;651), registrato alla [Corte dei conti il 26 settembre 1986](https://e-justice.europa.eu/ecli/ECLI::::), e' rettificata, nella parte concernente il distretto notarile di Verbania e nei conteggi di riepilogo parziale e totale, nel senso che nella tabella del distretto di Verbania ai numeri d'ordine 10 e 11, seguiti rispettivamente dalle dizioni "Verbania (Intra) 2" e "Verbania (Pallanza) 2", deve essere sostituito il n. 10 con la dizione "Verbania 4"; al numero d'ordine 12 riferito a "Villadossola" deve essere sostituito il numero d'ordine 11; conseguentemente il numero 12, riferito al distretto di Verbania, contenuto nel riepilogo dei comuni del distretto della corte di appello di Torino deve leggersi 11 e il numero totale dello stesso riepilogo 190 anziche' 191; previa quest'ultima rettifica, da apportarsi anche nel riepilogo generale della tabella per corti d'appello, il totale generale del riepilogo di tutti i comuni sedi di notaio nel territorio della Repubblica deve leggersi 1841 anziche' 1842".
+IL D.P.R. 12 gennaio 1968 (in G.U. 27/02/1968, n. 52) ha disposto (con l'art. 1, comma 1) che "La tabella notarile di cui in premessa e' modificata per la parte che concerne le sedi degli ex comuni di Barra-Ponticelli, Pianura-Soccavo, S. Giovanni a Teduccio e Secondigliano, Appartenenti al distretto notarile di Napoli, nel senso che i posti attribuiti ai predetti ex comuni sono annoverati fra quelli della sede notarile di Napoli".

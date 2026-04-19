@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1971 n. 1028
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 aprile 1970 n. 457
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1971 n. 1028
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 aprile 1970 n. 457
+=============================================================
 
 Autorizzazione all'Universita' degli studi di Perugia ad acquistare un immobile.
 --------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1028. Decreto del Presidente della Repubblica 11 maggio 1971, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Perugia viene autorizzata ad acquistare un immobile sito in Perugia, corso Garibaldi, ai numeri civici 183, 185, 187 e 189 descritto al catasto del comune di Perugia al foglio n. 234, particelle 47/1, 48, 49/1; subalterni 2-3-4-5-6-7; part. 49 sub. 3 - 4; part. 47 sub. 8 - 9, al prezzo di L. 44.500.000.  
+457. Decreto del Presidente della Repubblica 24 aprile 1970, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Perugia viene autorizzata ad acquistare l'immobile, sito in Perugia, via del Verzaro 61-67, di proprieta' del sig. Alceste Silvi Antonini, al prezzo di L. 29.000.000.  
   
-Visto, il Guardasigilli: COLOMBO  
-Registrato alla Corte dei conti, addi' 4 dicembre 1971  
-Atti del Governo, registro n. 245, foglio n. 114. - POLIFRONI
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 30 giugno 1970  
+Atti del Governo, registro n. 236, foglio n. 86. - CARUSO

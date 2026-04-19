@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 495
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 giugno 1982 n. 644
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 495
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 giugno 1982 n. 644
 =============================================================
 
 Assegnazione di tre posti di tecnico laureato presso l'Universita' degli studi di Perugia.
@@ -12,14 +12,14 @@ Art. 1
 
 N.
 
-495. Decreto del Presidente della Repubblica 26 aprile 1984, col quale, sulla proposta del Ministro della pubblica istruzione, tre posti disponibili nel ruolo dei tecnici laureati vengono assegnati all'Universita' di Perugia come segue:  
+644. Decreto del Presidente della Repubblica 3 giugno 1982, col quale, sulla proposta del Ministro della pubblica istruzione, tre posti disponibili nel ruolo dei tecnici laureati vengono assegnati all'Universita' di Perugia come segue:   
   
-Facolta' di medicina e chirurgia:  
-istituto di clinica ostetrica e ginecologica  
-(per le esigenze della prima cattedra). . . . . . . . . . . . posti 1 Facolta' di scienze matematiche, fisiche e naturali:  
-istituto di biologia cellulare (per le esigenze  
-del laboratorio di genetica). . . . . . . . . . . . . . . . . posti 1 Facolta' di lettere e filosofia:  
-istituto di storia antica . . . . . . . . . . . . . . . . . . posti 1   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 14 agosto 1984  
-Registro n. 50 Istruzione, foglio n. 133
+Facolta' di medicina e chirurgia:   
+istituto di clinica dermosifilopatica . . . . . . . . posti 1 istituto di patologia generale. . . . . . . . . . . . . . . posti 1 istituto interfacolta' di chimica biologica della facolta'   
+di scienze matematiche, fisiche e naturali e di farmacia   
+per le esigenze della cattedra di fisiologia generale   
+prima del corso di laurea in scienze naturali . . . . . . . . posti 1   
+  
+Visto, il Guardasigilli: DARIDA   
+Registrato alla Corte dei conti, addi' 2 settembre 1982   
+Registro n. 104 Istruzione, foglio n. 257

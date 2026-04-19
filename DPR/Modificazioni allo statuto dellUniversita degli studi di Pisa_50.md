@@ -1,111 +1,451 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969 n. 423
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 aprile 1968 n. 844
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969 n. 423
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 aprile 1968 n. 844
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Gli articoli 122 e 123 relativi agli esami del corso di laurea in ingegneria sono abrogati e sostituiti dai seguenti:
+
+Art. 122. - Gli studenti non possono essere iscritti ai corsi appresso elencati se non abbiano superato gli esami delle materie considerate propedeutiche per ciascuno dei corsi stessi, e precisamente:
+
+Meccanica razionale per scienza delle costruzioni;
+
+Meccanica razionale per meccanica applicata alle macchine;
+
+Fisica II per elettrotecnica (corsi di laurea in ingegneria meccanica, aeronautica, chimica e nucleare);
+
+Scienza delle costruzioni per costruzioni di apparecchiature chimiche;
+
+Scienza delle costruzioni per costruzioni aeronautiche;
+
+Elettrotecnica per elettronica applicata (corso di laurea in ingegneria elettronica);
+
+Fisica tecnica per principi di ingegneria chimica.
+
+Art. 123. - Gli esami di profitto consistono in prove orali, grafiche, scritte e pratiche secondo le modalita' stabilite per ciascun esame dal consiglio di facolta'.
+
+Valgono per l'ammissione agli esami speciali le seguenti condizioni di precedenza:
+
+Biennio:
+
+Analisi matematica II (analisi matematica I);
+
+Chimica applicata (chimica);
+
+Chimica organica (chimica);
+
+Tecnologia dei materiali e chimica applicata (per civili) (chimica);
+
+Topografia (analisi matematica I, geometria I);
+
+Triennio:
+
+Analisi e sviluppo dei progetti (principi d'ingegneria chimica, costruzione di apparecchiature chimiche);
+
+Architettura e composizione architettonica II (architettura e composizione architettonica I);
+
+Architettura tecnica (elementi di architettura tecnica);
+
+Campi elettromagnetici e circuiti (elettrotecnica);
+
+Centrali elettriche (idraulica, macchine, elettrotecnica);
+
+Chimica analitica e strumentazione (chimica applicata);
+
+Chimica e tecnologia delle fermentazioni (chimica organica, chimica fisica);
+
+Chimica fisica (chimica applicata);
+
+Chimica industriale (principi di ingegneria chimica) processi chimici fondamentali);
+
+Chimica macromolecolare e tecnologia degli atti polimeri (chimica fisica, chimica organica);
+
+Complementi di ingegneria chimica (principi di ingegneria chimica);
+
+Complementi di macchine (macchine);
+
+Complementi di scienza delle costruzioni (scienza delle costruzioni);
+
+Complementi di tecnica delle costruzioni (tecnica delle costruzioni);
+
+Complementi di tecnologia meccanica e studi di fabbricazione (tecnologia meccanica);
+
+Composizione urbanistica (tecnica urbanistica);
+
+Comunicazioni elettriche (elettrotecnica);
+
+Controlli automatici (elettronica applicata, oppure elettronica nucleare);
+
+Costruzioni aeronautiche (costruzioni di macchine, aeronautica generale);
+
+Costruzione di autoveicoli (costruzioni di macchine);
+
+Costruzione di macchine (meccanica applicata alle macchine, scienza delle costruzioni, tecnologia meccanica);
+
+Costruzioni di macchine elettriche (macchine elettriche, tecnologia e costruzioni di macchine);
+
+Costruzione di macchine utensili (complementi di tecnologia meccanica e studi di fabbricazione, costruzione di macchine);
+
+Costruzione di materiale ferroviario (costruzione di macchine);
+
+Costruzione di strade, ferrovie ed aeroporti (tecnica delle costruzioni);
+
+Costruzioni idrauliche (idraulica);
+
+Economia ed esercizio degli impianti elettrici (elettrotecnica, macchine elettriche);
+
+Elettronica applicata e radiotecnica (elettrotecnica);
+
+Elettrochimica e tecnologie elettro-chimiche (chimica fisica);
+
+Elettronica applicata (elettrotecnica);
+
+Elettronica industriale (elettronica applicata);
+
+Elettronica nucleare (elettrotecnica);
+
+Fisica del reattore nucleare (fisica nucleare);
+
+Fisica nucleare (fisica atomica);
+
+Idraulica sanitaria (idraulica);
+
+Idromeccanica applicata (idraulica);
+
+Impianti chimici (principi di ingegneria chimica, costruzione di apparecchiature chimiche);
+
+Impianti elettrici (macchine elettriche);
+
+Impianti meccanici (tecnologie meccaniche, fisici tecnica, macchine);
+
+Impianti nucleari (macchine, fisica nucleare);
+
+Impianti speciali idraulici (idraulica);
+
+Industrie agrarie alimentari (principi d'ingegneria chimica);
+
+Macchine (meccanica applicata alle macchine, fisici tecnica);
+
+Macchine calcolatrici analogiche (elettronica applicata);
+
+Macchine calcolatrici aritmetiche (elettronica applicata);
+
+Macchine elettriche (elettrotecnica);
+
+Macchine speciali (complementi di tecnologia meccanica e studi di fabbricazione, costruzione di macchine);
+
+Meccanica agraria (meccanica applicata alle macchine);
+
+Misure elettriche (elettrotecnica);
+
+Misure elettroniche (elettronica applicata, misure elettriche);
+
+Motori per aeromobili (meccanica applicata alle macchine, fisica tecnica);
+
+Ponti radio (campi elettromagnetici e circuiti);
+
+Principi d'ingegneria chimica (chimica fisica, fisica tecnica);
+
+Processi chimici fondamentali (chimica organica chimica fisica);
+
+Processi e apparecchiature di trasferimento (principi d'ingegneria chimica);
+
+Prove su macchine e impianti elettrici (macchine elettriche, misure elettriche);
+
+Radiochimica (chimica applicata, chimica fisica);
+
+Radiotecnica (elettronica applicata);
+
+Regolazione degli impianti nucleari (elettronica nucleare);
+
+Scienza dei metalli (chimica applicata);
+
+Servomeccanismi e regolazione degli impianti nucleari (elettronica nucleare);
+
+Sicurezza degli impianti nucleari e radioprotezione (fisica nucleare);
+
+Statica dei modelli e tecnica della sperimentazione (scienza delle costruzioni);
+
+Strumentazione e controllo dei processi chimici (fisica tecnica, elettrotecnica, chimica fisica, chimica analitica e strumentazione);
+
+Tecnica delle alte frequenze (elettronica applicata);
+
+Tecnica delle costruzioni (scienza delle costruzioni);
+
+Tecnica ed economia dei trasporti (meccanica applicata alle macchine, meccanica applicata alle macchine e macchine);
+
+Tecnica ed economia dei trasporti aerei (aeronautica generale);
+
+Tecnica radar (elettronica applicata);
+
+Tecnologie organiche speciali (chimica organica, chimica fisica);
+
+Tecnologia dei materiali dei reattori nucleari (chimica applicata, scienza dei metalli);
+
+Tecnologia del petrolio (principi d'ingegneria chimica);
+
+Tecnologia e costruzione di macchine (per elettrotecnici) (meccanica applicata alle macchine, scienza delle costruzioni);
+
+Tecnologia meccanica (chimica applicata);
+
+Tecnologie elettroniche (elettronica applicata);
+
+Tecnologie inorganiche speciali (principi d'ingegneria chimica);
+
+Tecnologie speciali aeronautiche (tecnologia meccanica);
+
+Telegrafia e telefonia (elettronica applicata);
+
+Teoria e sviluppo dei processi (principi d'ingegneria chimica, processi chimici fondamentali);
+
+Trazione elettrica (elettrotecnica).
+
+La scuola di perfezionamento in fisica nucleare muta denominazione in scuola di perfezionamento in fisica delle particelle elementari e struttura della materia e di conseguenza gli articoli 157, 159, 160, 162, 164, 165, 167 sono soppressi e sostituiti dai seguenti.
+
+Art. 157. - La scuola di perfezionamento in fisica delle particelle elementari e struttura della materia, istituita presso la facolta' di scienze matematiche, fisiche e naturali, ha fine scientifico e rilascia il diploma di perfezionamento in fisica delle particelle elementari e struttura della materia. La durata e' di due anni. Non sono consentite abbreviazioni di corso.
+
+Art. 159. - Alla scuola di perfezionamento in fisica delle particelle elementari e struttura della materia, vengono ammessi soltanto i laureati in fisica, scienze matematiche, matematica e fisica, chimica e ingegneria.
+
+E' data facolta' al direttore di stabilire prima dell'inizio di ogni anno accademico un numero massimo di iscrizioni oltre al quale potranno non essere accolte le domande eccedenti. Quando gli iscritti siano in numero molto limitato gli insegnamenti possono non avere il carattere cattedratico e essere svolti in quella diversa forma che e' consentita dall'indole di ciascuna disciplina.
+
+Art. 160. - Il piano di studi di ogni iscritto e' stabilito dal direttore della scuola e dal consiglio, che si riunisce a tale scopo almeno due volte all'anno. Il direttore e il consiglio possono riconoscere come validi per il piano di studi del perfezionamento i corsi e gli esami di perfezionamento della scuola normale superiore.
+
+Il direttore e il consiglio avranno cura di coordinare i programmi della scuola di perfezionamento in fisica delle particelle elementari e struttura della materia con i corsi di perfezionamento che si tengono alla scuola normale superiore.
+
+Art. 162. - La commissione per l'esame del diploma e' formata da cinque membri nominati dal preside della facolta' di scienze su proposta del direttore della scuola.
+
+L'esame consistera' in una discussione su una dissertazione scritta contenente risultati originali ottenuti dal candidato. Il voto di diploma sara' assegnato sulla base dell'esito dell'esame e tenendo conto dei voti ottenuti nei vari corsi previsti nei piani di studio dei candidati.
+
+Art. 164. - Gli insegnamenti impartiti dalla scuola sono:
+
+1) Complementi di meccanica quantistica;
+
+2) Complementi di elettro-magnetismo;
+
+3) Complementi di struttura della materia;
+
+4) Meccanica statistica;
+
+5) Particelle elementari;
+
+6) Teoria dei campi;
+
+7) Elettrodinamica quantistica;
+
+8) Ottica quantistica;
+
+9) Spettroscopia a radiofrequenza;
+
+10) Spettroscopia dei solidi;
+
+11) Macchine acceleratrici;
+
+12) Tecniche sperimentali delle alte energie;
+
+13) Proprieta' dielettriche e magnetiche dei solidi;
+
+14) Corso monografico;
+
+15) Corso monografico.
+
+Art. 165. - Gli iscritti alla scuola devono frequentare i corsi e superare gli esami di almeno sei insegnamenti, dei quali tre saranno fissati dal direttore della scuola e dal consiglio nello stabilire il piano di studi e tre a scelta. I piani di studi per ogni iscritto possono essere modificati dopo il primo anno, per decisione concorde dell'interessato e della direzione della scuola.
+
+Art. 167. - Presso la scuola di perfezionamento in fisica delle particelle elementari e struttura della materia e' istituito a completamento degli insegnamenti, un seminario di fisica, con periodiche conferenze tenute da esperti invitati dal direttore della scuola.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 8 aprile 1968
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 22 luglio 1968 Atti del Governo, registro n. 222, foglio n. 1. - GRECO
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 51. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:   
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Archeologia delle province romane;   
-Civilta' egee;   
-Geografia regionale;   
-Epigrafia latina;   
-Geografia storica del mondo antico;   
-Archeologia orientale;   
-Filologia biblica;   
-Filologia semitica;   
-Archeologia e storia dell'arte del vicino oriente antico;   
-Storia della geografia;   
-Lingue indoeuropee dell'Italia antica;   
-Linguistica matematica;   
-Fonetica generale e sperimentale;   
-Filologia armena;   
-Filologia baltica;   
-Filologia egeo-anatolica;   
-Storia dell'arte fiamminga e olandese;   
-Storia del disegno e della grafica;   
-Storia della miniatura;   
-Archeologia e storia dell'arte medioevale;   
-Storia dell'arte contemporanea;   
-Archeologia medioevale;   
-Storia economica del mondo antico;   
-Istituzioni giuridiche greche;   
-Filologia italiana;   
-Lingua e letteratura catalana;   
-Filologia ispanica;   
-Storia della filologia germanica;   
-Storia ed istituzioni nord-americane;   
-Storia ed istituzioni dell'Africa;   
-Storia ed istituzioni dell'Asia;   
-Storia e istituzioni latino-americane;   
-Storia e istituzioni dei paesi arabi;   
-Storia della scienza e della tecnica;   
-Storia dell'eta' industriale e delle industrializzazioni moderne;  
-Storia delle istituzioni;   
-Storia economica;   
-Storia dell'agricoltura.   
-Art. 52, - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:   
-  
-Storia ed Istituzioni nord-americane;   
-Storia ed istituzioni latino-americane;   
-Storia ed istituzioni dell'Africa;   
-Storia ed istituzioni dell'Asia;   
-Storia ed istituzioni dei paesi arabi;   
-Storia della scienza e della tecnica;   
-Storia dell'eta' industriale e delle industrializzazioni moderne;  
-Logica;   
-Storia della logica;   
-Filosofia della scienza;   
-Psicologia dell'eta' evolutiva;   
-Storia della psicologia;   
-Storia della filosofia italiana;   
-Storia della filosofia dell'India e dell'Estremo Oriente;   
-Storia della filosofia araba;   
-Storia della filosofia ebraica;   
-Sociologia;   
-Storia della sociologia;   
-Antropologia culturale;   
-Storia delle istituzioni;   
-Storia economica;   
-Storia dell'agricoltura.   
-Art. 53. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniero moderne (indirizzo europeo) sono aggiunti i seguenti:   
-  
-Filologia italiana;   
-Lingua e letteratura catalana;   
-Filologia ispanica;   
-Storia della filologia germanica.   
+Gli articoli 122 e 123 relativi agli esami del corso di laurea in ingegneria sono abrogati e sostituiti dai seguenti:  
+Art. 122. - Gli studenti non possono essere iscritti ai corsi appresso elencati se non abbiano superato gli esami delle materie considerate propedeutiche per ciascuno dei corsi stessi, e precisamente:  
+Meccanica razionale per scienza delle costruzioni;  
+Meccanica razionale per meccanica applicata alle macchine;  
+Fisica II per elettrotecnica (corsi di laurea in ingegneria meccanica, aeronautica, chimica e nucleare);  
+Scienza delle costruzioni per costruzioni di apparecchiature chimiche;  
+Scienza delle costruzioni per costruzioni aeronautiche;  
+Elettrotecnica per elettronica applicata (corso di laurea in ingegneria elettronica);  
+Fisica tecnica per principi di ingegneria chimica.  
+Art. 123. - Gli esami di profitto consistono in prove orali, grafiche, scritte e pratiche secondo le modalita' stabilite per ciascun esame dal consiglio di facolta'.  
+Valgono per l'ammissione agli esami speciali le seguenti condizioni di precedenza:  
+Biennio:  
+Analisi matematica II (analisi matematica I);  
+Chimica applicata (chimica);  
+Chimica organica (chimica);  
+Tecnologia dei materiali e chimica applicata (per civili) (chimica);  
+Topografia (analisi matematica I, geometria I);  
+Triennio:  
+Analisi e sviluppo dei progetti (principi d'ingegneria chimica, costruzione di apparecchiature chimiche);  
+Architettura e composizione architettonica II (architettura e composizione architettonica I);  
+Architettura tecnica (elementi di architettura tecnica);  
+Campi elettromagnetici e circuiti (elettrotecnica);  
+Centrali elettriche (idraulica, macchine, elettrotecnica);  
+Chimica analitica e strumentazione (chimica applicata);  
+Chimica e tecnologia delle fermentazioni (chimica organica, chimica fisica);  
+Chimica fisica (chimica applicata);  
+Chimica industriale (principi di ingegneria chimica) processi chimici fondamentali);  
+Chimica macromolecolare e tecnologia degli atti polimeri (chimica fisica, chimica organica);  
+Complementi di ingegneria chimica (principi di ingegneria chimica);  
+Complementi di macchine (macchine);  
+Complementi di scienza delle costruzioni (scienza delle costruzioni);  
+Complementi di tecnica delle costruzioni (tecnica delle costruzioni);  
+Complementi di tecnologia meccanica e studi di fabbricazione (tecnologia meccanica);  
+Composizione urbanistica (tecnica urbanistica);  
+Comunicazioni elettriche (elettrotecnica);  
+Controlli automatici (elettronica applicata, oppure elettronica nucleare);  
+Costruzioni aeronautiche (costruzioni di macchine, aeronautica generale);  
+Costruzione di autoveicoli (costruzioni di macchine);  
+Costruzione di macchine (meccanica applicata alle macchine, scienza delle costruzioni, tecnologia meccanica);  
+Costruzioni di macchine elettriche (macchine elettriche, tecnologia e costruzioni di macchine);  
+Costruzione di macchine utensili (complementi di tecnologia meccanica e studi di fabbricazione, costruzione di macchine);  
+Costruzione di materiale ferroviario (costruzione di macchine);  
+Costruzione di strade, ferrovie ed aeroporti (tecnica delle costruzioni);  
+Costruzioni idrauliche (idraulica);  
+Economia ed esercizio degli impianti elettrici (elettrotecnica, macchine elettriche);  
+Elettronica applicata e radiotecnica (elettrotecnica);  
+Elettrochimica e tecnologie elettro-chimiche (chimica fisica);  
+Elettronica applicata (elettrotecnica);  
+Elettronica industriale (elettronica applicata);  
+Elettronica nucleare (elettrotecnica);  
+Fisica del reattore nucleare (fisica nucleare);  
+Fisica nucleare (fisica atomica);  
+Idraulica sanitaria (idraulica);  
+Idromeccanica applicata (idraulica);  
+Impianti chimici (principi di ingegneria chimica, costruzione di apparecchiature chimiche);  
+Impianti elettrici (macchine elettriche);  
+Impianti meccanici (tecnologie meccaniche, fisici tecnica, macchine);  
+Impianti nucleari (macchine, fisica nucleare);  
+Impianti speciali idraulici (idraulica);  
+Industrie agrarie alimentari (principi d'ingegneria chimica);  
+Macchine (meccanica applicata alle macchine, fisici tecnica);  
+Macchine calcolatrici analogiche (elettronica applicata);  
+Macchine calcolatrici aritmetiche (elettronica applicata);  
+Macchine elettriche (elettrotecnica);  
+Macchine speciali (complementi di tecnologia meccanica e studi di fabbricazione, costruzione di macchine);  
+Meccanica agraria (meccanica applicata alle macchine);  
+Misure elettriche (elettrotecnica);  
+Misure elettroniche (elettronica applicata, misure elettriche);  
+Motori per aeromobili (meccanica applicata alle macchine, fisica tecnica);  
+Ponti radio (campi elettromagnetici e circuiti);  
+Principi d'ingegneria chimica (chimica fisica, fisica tecnica);  
+Processi chimici fondamentali (chimica organica chimica fisica);  
+Processi e apparecchiature di trasferimento (principi d'ingegneria chimica);  
+Prove su macchine e impianti elettrici (macchine elettriche, misure elettriche);  
+Radiochimica (chimica applicata, chimica fisica);  
+Radiotecnica (elettronica applicata);  
+Regolazione degli impianti nucleari (elettronica nucleare);  
+Scienza dei metalli (chimica applicata);  
+Servomeccanismi e regolazione degli impianti nucleari (elettronica nucleare);  
+Sicurezza degli impianti nucleari e radioprotezione (fisica nucleare);  
+Statica dei modelli e tecnica della sperimentazione (scienza delle costruzioni);  
+Strumentazione e controllo dei processi chimici (fisica tecnica, elettrotecnica, chimica fisica, chimica analitica e strumentazione);  
+Tecnica delle alte frequenze (elettronica applicata);  
+Tecnica delle costruzioni (scienza delle costruzioni);  
+Tecnica ed economia dei trasporti (meccanica applicata alle macchine, meccanica applicata alle macchine e macchine);  
+Tecnica ed economia dei trasporti aerei (aeronautica generale);  
+Tecnica radar (elettronica applicata);  
+Tecnologie organiche speciali (chimica organica, chimica fisica);  
+Tecnologia dei materiali dei reattori nucleari (chimica applicata, scienza dei metalli);  
+Tecnologia del petrolio (principi d'ingegneria chimica);  
+Tecnologia e costruzione di macchine (per elettrotecnici) (meccanica applicata alle macchine, scienza delle costruzioni);  
+Tecnologia meccanica (chimica applicata);  
+Tecnologie elettroniche (elettronica applicata);  
+Tecnologie inorganiche speciali (principi d'ingegneria chimica);  
+Tecnologie speciali aeronautiche (tecnologia meccanica);  
+Telegrafia e telefonia (elettronica applicata);  
+Teoria e sviluppo dei processi (principi d'ingegneria chimica, processi chimici fondamentali);  
+Trazione elettrica (elettrotecnica).  
+La scuola di perfezionamento in fisica nucleare muta denominazione in scuola di perfezionamento in fisica delle particelle elementari e struttura della materia e di conseguenza gli articoli 157, 159, 160, 162, 164, 165, 167 sono soppressi e sostituiti dai seguenti.  
+Art. 157. - La scuola di perfezionamento in fisica delle particelle elementari e struttura della materia, istituita presso la facolta' di scienze matematiche, fisiche e naturali, ha fine scientifico e rilascia il diploma di perfezionamento in fisica delle particelle elementari e struttura della materia. La durata e' di due anni. Non sono consentite abbreviazioni di corso.  
+Art. 159. - Alla scuola di perfezionamento in fisica delle particelle elementari e struttura della materia, vengono ammessi soltanto i laureati in fisica, scienze matematiche, matematica e fisica, chimica e ingegneria.  
+E' data facolta' al direttore di stabilire prima dell'inizio di ogni anno accademico un numero massimo di iscrizioni oltre al quale potranno non essere accolte le domande eccedenti. Quando gli iscritti siano in numero molto limitato gli insegnamenti possono non avere il carattere cattedratico e essere svolti in quella diversa forma che e' consentita dall'indole di ciascuna disciplina.  
+Art. 160. - Il piano di studi di ogni iscritto e' stabilito dal direttore della scuola e dal consiglio, che si riunisce a tale scopo almeno due volte all'anno. Il direttore e il consiglio possono riconoscere come validi per il piano di studi del perfezionamento i corsi e gli esami di perfezionamento della scuola normale superiore.  
+Il direttore e il consiglio avranno cura di coordinare i programmi della scuola di perfezionamento in fisica delle particelle elementari e struttura della materia con i corsi di perfezionamento che si tengono alla scuola normale superiore.  
+Art. 162. - La commissione per l'esame del diploma e' formata da cinque membri nominati dal preside della facolta' di scienze su proposta del direttore della scuola.  
+L'esame consistera' in una discussione su una dissertazione scritta contenente risultati originali ottenuti dal candidato. Il voto di diploma sara' assegnato sulla base dell'esito dell'esame e tenendo conto dei voti ottenuti nei vari corsi previsti nei piani di studio dei candidati.  
+Art. 164. - Gli insegnamenti impartiti dalla scuola sono:  
+1) Complementi di meccanica quantistica;  
+2) Complementi di elettro-magnetismo;  
+3) Complementi di struttura della materia;  
+4) Meccanica statistica;  
+5) Particelle elementari;  
+6) Teoria dei campi;  
+7) Elettrodinamica quantistica;  
+8) Ottica quantistica;  
+9) Spettroscopia a radiofrequenza;  
+10) Spettroscopia dei solidi;  
+11) Macchine acceleratrici;  
+12) Tecniche sperimentali delle alte energie;  
+13) Proprieta' dielettriche e magnetiche dei solidi;  
+14) Corso monografico;  
+15) Corso monografico.  
+Art. 165. - Gli iscritti alla scuola devono frequentare i corsi e superare gli esami di almeno sei insegnamenti, dei quali tre saranno fissati dal direttore della scuola e dal consiglio nello stabilire il piano di studi e tre a scelta. I piani di studi per ogni iscritto possono essere modificati dopo il primo anno, per decisione concorde dell'interessato e della direzione della scuola.  
+Art. 167. - Presso la scuola di perfezionamento in fisica delle particelle elementari e struttura della materia e' istituito a completamento degli insegnamenti, un seminario di fisica, con periodiche conferenze tenute da esperti invitati dal direttore della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 maggio 1969
+### Dato a Roma, addi' 8 aprile 1968
 
-SARAGAT FERRARI AGGRADI
+SARAGAT GUI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 18 luglio 1969
+Registrato alla Corte dei conti, addi' 22 luglio 1968
 
-Atti del Governo, registro n. 228, foglio n. 31. - CARUSO
+Atti del Governo, registro n. 222, foglio n. 1. - GRECO

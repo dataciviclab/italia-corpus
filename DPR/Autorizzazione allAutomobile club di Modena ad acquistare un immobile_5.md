@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 maggio 1968 n. 755
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1971 n. 1399
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 maggio 1968 n. 755
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1971 n. 1399
+===============================================================
 
 Autorizzazione all'Automobile club di Modena ad acquistare un immobile.
 -----------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-755. Decreto del Presidente della Repubblica 8 maggio 1968, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile club di Modena viene autorizzato ad acquistare, in proprieta', dalla societa' in accomandita semplice "Edilcarpi" di Corghi Remo e C., con sede in Carpi, per il prezzo di lire 9.950.000, l'appezzamento di terreno sito in Carpi, esteso mq. 750, in catasto al foglio n. 116, mappale 7017-b, are 7,50, per costruirvi una stazione di rifornimento carburanti.  
+1399. Decreto del Presidente della Repubblica 19 ottobre 1971, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile club di Modena viene autorizzato ad acquistare in proprieta' dall'ingegnere Domenico Rabino, per il prezzo di L. 6.750.000, la porzione di fabbricato compresa nello stabile di nuova costruzione sito in Modena alla via Emilia ovest, angolo via S. Cataldo, costituita da un locale posto al piano terra, esteso mq. 47, individuato nel nuovo catasto edilizio urbano alla partita 2958, sezione Forese, foglio n. 84, mappale 21357/ sub 1.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 25 giugno 1968  
-Atti del Governo, registro n. 220, foglio n. 85. - GRECO
+Visto, il Guardasigilli: COLOMBO  
+Registrato alla Corte dei conti, addi' 22 marzo 1972  
+Atti del Governo, registro n. 247, foglio n. 158. - VALENTINI

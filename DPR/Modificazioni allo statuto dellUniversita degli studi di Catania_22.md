@@ -1,110 +1,118 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1164
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1829
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1164
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1829
 ===============================================================
 
-Modificazioni allo statuto dell'Universita', degli studi di Catania.
---------------------------------------------------------------------
+Modificazioni allo statuto dell'Universita' degli studi di Catania.
+-------------------------------------------------------------------
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 173](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;173), modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Veduto il proprio decreto in data 26 luglio 1960, n. 1145;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-L'art. 157, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la scuola di specializzazione in "Malattie del sangue e del ricambio" muta la denominazione in quella di "Ematologia clinica e di laboratorio".  
-Allo stesso elenco e' aggiunta la scuola in "Endocrinologia" di nuova istituzione.  
-Gli articoli da 204 a 208, relativi alla scuola di specializzazione in "Malattie del sangue e del ricambio" che muta la denominazione in quella di "Ematologia clinica e di laboratorio", sono abrogati e sostituiti dai seguenti:  
+Art. 4. - E' cosi' modificato:  
+"La Facolta' di scienze matematiche, fisiche e naturali conferisce le seguenti lauree:  
+1) laurea in Chimica;  
+2) laurea in Fisica;  
+3) laurea in Scienze matematiche;  
+4) laurea in Matematica e fisica;  
+5) laurea in Scienze naturali;  
+6) laurea in Chimica industriale;  
+7) laurea in Scienze geologiche".  
+Dopo l'art. 62 e con il conseguente spostamento della numerazione di quelli successivi sono inseriti i seguenti nuovi articoli relativi al corso di laurea in Chimica industriale.  
   
-Scuola di specializzazione in ematologia clinica e di laboratorio  
+Laurea in Chimica industriale  
   
-Art. 204. - Presso la facolta' di medicina e chirurgia dell'Universita' di Catania e' istituita una scuola di specializzazione in ematologia clinica e di laboratorio.  
-Art. 205. - Il corso di studi della scuola di specializzazione in ematologia clinica e di laboratorio ha la durata di 3 anni.  
-Art. 206. - La scuola non puo' accogliere piu' di 10 iscritti per ogni anno di corso. L'ammissione al 1° anno della scuola, nel caso in cui il numero degli aspiranti muniti di titoli sufficienti superi quello dei posti disponibili, sara' fatto in base ad una graduatoria ricavata dalla valutazione dei titoli e da una prova scritta.  
-Art. 207. - Saranno consentite abbreviazioni di corso con le modalita' previste dalle disposizioni generali relative alle scuole di specializzazione della facolta' di medicina e chirurgia dell'Universita' di Catania.  
-Art. 208. - Gli insegnamenti impartiti nella scuola sono:  
+Art. 63. - La laurea in Chimica industriale viene conferita dalla Facolta' di scienze dopo cinque anni di corso divisi in un biennio di studi propedeutici, comune con la laurea in Chimica, e in un triennio di studi di applicazione.  
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.  
   
-1° Anno:  
-1) Morfologia e morfogenesi normale e patologia del sangue e degli organi emopoietici (1° anno);  
-2) Genetica ematologica;  
-3) Fisiopatologia della coagulazione e della emostasi;  
-4) Fisiopatologia ematologica;  
-5) Fisiopatologia del plasma;  
-6) Biochimica e fisiopatologia ematologica;  
-7) Tecniche di laboratorio inerenti all'ematologia  
+Biennio di studi propedeutici  
   
-2° Anno:  
-1) Morfologia e morfogenesi normale del sangue e degli organi emopoietici (2° anno);  
-2) Biochimica e fisiopatologia ematologica;  
-3) Immunoematologia;  
-4) Anatomia e istologia patologica delle emopatie e fondamenti di oneologia;  
-5) Patologia speciale ematolgica;  
-6) Clinica e terapia ematologica (1° anno):  
-7) Tecniche di laboratorio inerenti alla ematologia  
+Sono insegnamenti fondamentali:  
+1) Istituzioni di matematiche (biennale);  
+2) Chimica generale ed inorganica (biennale);  
+3) Chimica organica (biennale);  
+4) Chimica analitica;  
+5) Fisica sperimentale (biennale);  
+6) Mineralogia, con esercitazioni, pratiche (corso speciale per chimici);  
+7) Esercitazioni di matematiche (biennale);  
+8) Esercitazioni di preparazioni chimiche;  
+9) Esercitazioni di disegno di elementi di macchine;  
+10) Esercitazioni di analisi chimica qualitativa;  
+11) Esercitazioni di fisica sperimentale.  
   
-3° Anno:  
-1) Clinica e terapia ematologica (2° anno);  
-2) Nozioni di radiobiologia e di medicina nucleare applicata all'ematologia;  
-3) Radiodiagnostica e radioterapia in clinica ematologica;  
-4) Patologia speciale ematologica;  
-5) Terapia ematologica sistematica;  
-6) Terapia trasfusionale;  
-7) Tecniche di laboratorio (3° anno).  
+Triennio di studi di applicazione  
   
-Dopo l'articolo 213 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in "Endocrinologia".  
-  
-Scuola di specializzazione in endocrinologia  
-  
-Art. 214. - Presso la facolta' di medicina e chirurgia e istituita una scuola di specializzazione in endocrinologia.  
-Art. 215. - Il corso di studi della scuola di specializzazione in endocrinologia ha la durata di tre anni.  
-Art. 216. - La scuola non puo' accogliere piu' di sette iscritti per ogni anno di corso. L'ammissione al 1° anno della scuola, nel caso in cui il numero degli aspiranti muniti di titoli sufficienti superino quello dei posti disponibili, sara' fatta in base ad una graduatoria ricavata dalla valutazione dei titoli e da una prova scritta.  
-Art. 217. - Saranno consentite abbreviazioni di corso con le modalita' previste dalle disposizioni generali relative alle scuole di specializzazione della facolta' di medicina e chirurgia dell'Universita' di Catania.  
-Art. 218. - Gli insegnamenti impartiti nella scuola sono:  
-  
-1° Anno:  
-Anatomia ed embriologia degli organi endocrini;  
-Fisiologia endocrina;  
-Biochimica endocrina;  
-Anatomia patologica delle malattie endocrine (I);  
-Semeiotica e diagnostica endocrina (I).  
-  
-2° Anno:  
-Anatomia patologica delle malattie endocrine (II);  
-Semeiotica e diagnostica endocrina (II);  
-Patologia speciale medica e clinica delle malattie endocrine e delle auxopatie (I);  
-Eredopatologia endocrina.  
-  
-3° Anno:  
-Patologia speciale medica e clinica delle malattie endocrine e delle auxopatie (II);  
-Terapia delle malattie endocrine;  
-Insegnamenti facoltativi dei quali almeno uno, a scelta del candidato, sara' materia d'esame;  
-Endocrinologia ostetrico-ginecologica;  
-Neuroendocrinologia;  
-Tecniche di laboratori ed endocrinologiche.  
+Sono insegnamenti fondamentali:  
+1) Chimica fisica (biennale);  
+2) Fisica tecnica;  
+3) Chimica industriale (biennale);  
+4) Esercitazioni di analisi chimica quantitativa;  
+5) Esercitazioni di chimica fisica (biennale);  
+6) Esercitazioni di chimica industriale (biennale);  
+7) Impianti industriali chimici con elementi di disegno (biennale);  
+8) Elementi di diritto di economia e di legislazione sociale.  
+Sono insegnamenti complementari:  
+1) Analisi matematica algebrica ed infinitesimale (biennale);  
+2) Geometria analitica con elementi di proiettiva;  
+3) Meccanica razionale con elementi di statica grafica;  
+4) Elettrotecnica;  
+5) Misure elettriche (corso speciale per chimici e chimici industriali);  
+6) Chimica agraria;  
+7) Chimica delle fermentazioni e batteriologia industriale;  
+8) Chimica organica industriale;  
+9) Elettrochimica;  
+10) Chimica applicata;  
+11) Siderurgia e Metallurgia;  
+12) Scienza dei metalli;  
+13) Tecnologia elettrochimica;  
+14) Chimica delle sostanze coloranti;  
+15) Tecnologia e chimica del petrolio;  
+16) Tecnologia delle sostanze coloranti e tecnica tintoria;  
+17) Fisiologia ed igiene del lavoro industriale;  
+18) Fisica nucleare.  
+Art. 64. - I tre insegnamenti complementari di "Analisi matematica" di "Geometria analitica con elementi di proiettiva" e di "Meccanica razionale con elementi di statica grafica" possono sostituire l'unico insegnamento fondamentale di "Istituzioni di matematiche" (biennale).  
+Per l'insegnamento di "Analisi matematica" vale la norma stabilita per la laurea in Scienze matematiche.  
+I corsi biennali constano di una prima e di una seconda parte, dettate annualmente e con esame distinto, ogni prima parte e propedeutica della seconda parte.  
+Art. 65. - Per ottenere l'iscrizione al triennio di applicazione lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fissati per il biennio di studi propedeutici.  
+All'atto dell'iscrizione al primo anno di applicazione lo studente deve sottoporre all'approvazione della Facolta' l'elenco degli insegnamenti complementari prescelti. La scelta fatta in tal modo e' impegnativa e non puo' subire variazioni durante il corso degli studi.  
+Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali del triennio di applicazione ed almeno quattro da lui scelti fra i complementari.  
+L'esame di laurea in Chimica industriale consta della discussione di una dissertazione scritta e della discussione di due argomenti orali scelti dal candidato in materie diverse da quelle su cui verte la dissertazione scritta.  
+Art. 66. - I laureati in Chimica potranno essere ammessi al quarto anno di corso per la laurea in Chimica industriale e dovranno seguire i corsi e sostenere gli esami sulle seguenti materie fondamentali:  
+1) Chimica industriale (biennale);  
+2) Impianti industriali chimici con elementi di disegno (biennale);  
+3) Elementi di diritto, di economia e di legislazione sociale;  
+4) Fisica tecnica;  
+5) Esercitazioni di Chimica industriale (biennale).  
+L'esame di Fisica tecnica eventualmente sostenuto per la laurea in Chimica puo' essere convalidato agli effetti della iscrizione al quarto anno di corso per la laurea in Chimica industriale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1973
+### Dato a Roma, addi' 19 ottobre 1960
 
-LEONE MALFATTI
+GRONCHI BOSCO
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 28 ottobre 1974
+Registrato alla Corte dei conti, addi' 16 febbraio 1961
 
-Atti di Governo, registro n. 6, foglio n. 55. - SCIARRETTA
+Atti del Governo, registro n. 134, foglio n. 38. - VILLA

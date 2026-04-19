@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1970 n. 258
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 marzo 1965 n. 376
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1970 n. 258
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 marzo 1965 n. 376
 ============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
@@ -12,11 +12,12 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita', degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953 n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -24,48 +25,22 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 681, relativo ai titoli di ammissione del corso di specializzazione in ingegneria del traffico e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente:  
-"Al corso possono essere ammessi i laureati in ingegneria e in architettura".  
-  
-Art. 683, relativo al corso di specializzazione in ingegneria del traffico e' abrogato e sostituito dal seguente:  
-"Gli insegnamenti impartiti nel corso si distinguono in costitutivi e monografici.  
-  
-Gli insegnamenti costitutivi sono:  
-1) Elementi di trasporti:  
-a) Meccanica della locomozione e sistemi di trasporto;  
-b) Caratteristiche della circolazione.  
-2) Regolazione della circolazione.  
-3) Attrezzature varie:  
-a) Caratteristiche del nastro stradale;  
-b) Svincoli e intersezioni.  
-4) Pianificazione dei trasporti.  
-5) Dinamica urbanistica:  
-a) Elementi di tecnica urbanistica;  
-b) Organizzazione dinamica del territorio.  
-6) Applicazione e progetti.  
-  
-Gli insegnamenti monografici sono:  
-1) Complementi di matematica.  
-2) Tecnica della sicurezza stradale.  
-3) Problemi economici.  
-  
-Gli esami degli insegnamenti costitutivi possono comprendere una prova pratica.  
-Il consiglio del corso stabilisce la durata degli insegnamenti.  
-Gli insegnamenti monografici formano oggetto di esame di gruppo con voti separati.  
-Gli insegnamenti possono venire integrati da conferenze e visite ad impianti, stabilimenti e situazioni stradali di particolare interesse.  
-Il consiglio del corso puo' esonerare dall'obbligo di frequenza di una o piu' delle parti indicate con a) dei corsi di "Elementi di trasporti", di "Attrezzature viarie" e di "Dinamica urbanistica" quegli iscritti che nei corsi normali di laurea avessero gia' frequentato con profitto materie comprendenti detti argomenti".  
+Art. 66. - Agli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto quello di:  
+"Storia della, filosofia medioevale".  
+Art. 67. - Agli insegnamenti complementari del corso di laurea in Pedagogia e' aggiunto quello di: "Storia, della filosofia medioevale".  
+Art. 500, relativo alla Scuola di specializzazione per medici laboratoristi e' abrogato e sostituito dal seguente:  
+"La Scuola di specializzazione per medici laboratoristi ha lo scopo di preparare sul piano scientifico e tecnico i medici che intendono dedicarsi particolarmente alle analisi di laboratorio applicate alla Clinica e rilascia il diploma di "Specialista in analisi cliniche di laboratorio".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 marzo 1970
+### Dato a Roma, addi' 8 marzo 1965
 
-SARAGAT FERRARI AGGRADI
+SARAGAT GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 8 maggio 1970
+Registrato alla Corte dei conti, addi' 28 aprile 1965
 
-Atti del Governo, registro n. 235, foglio n. 68. - CARUSO
+Atti del Governo, registro n. 192, foglio n. 126. - VILLA

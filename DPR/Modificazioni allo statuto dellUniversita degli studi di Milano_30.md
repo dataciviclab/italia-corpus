@@ -1,22 +1,672 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1972 n. 421
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1963 n. 1835
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1972 n. 421
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1963 n. 1835
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Milano approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Gli articoli dal n. 96 al n. 98 relativi alla Scuola di specializzazione in Anestesia sono abrogati e sostituiti dai seguenti con il seguente nuovo ordinamento:
+
+Scuola di specializzazione in Anestesiologia e rianimazione
+
+Art. 96. - La durata del corso e' di tre anni.
+
+Il numero degli iscritti alla Scuola e' fissato ad un massimo di dieci per il primo anno di corso.
+
+Art. 97. - Le materie d'insegnamento sono:
+
+1° anno:
+
+Storia dell'anestesiologia;
+
+Sviluppo compiti;
+
+Studio anestesiologico del paziente chirurgico;
+
+Fisiopatologia dell'anestesiologia e rianimazione;
+
+Anestesiologia e chirurgia specialistica.
+
+2° anno:
+
+Apparecchiature anestesiologiche;
+
+Fisiologia respiratoria e circolatoria applicata all'anestesia;
+
+Tecniche speciali.
+
+3° anno:
+
+Rianimazione - equilibri fisiologici vitali;
+
+Applicazioni della rianimazione: urgente, protratta;
+
+Metodi di rianimazione: respiratoria e circolatoria;
+
+Problemi connessi, terapia antalgica.
+
+Art. 98. - Al termine di ogni anno gli allievi dovranno superare un esame sulle materie dell'anno. La frequenza alle lezioni, esercitazioni ed un servizio di internato sono obbligatori.
+
+Art. 99, relativo alla Scuola di specializzazione in Cardiologia, dopo il primo comma e' aggiunto il seguente:
+
+"Il numero degli iscritti alla Scuola e' fissato ad un massimo di sei per il primo anno di corso".
+
+Art. 100, relativo alla Scuola di specializzazione in Chirurgia, dopo il primo comma e' aggiunto il seguente:
+
+"Il numero degli iscritti alla Scuola e' fissato ad un massimo di dieci per il primo anno di corso".
+
+Art. 101, relativo alla Scuola di specializzazione in Chirurgia plastica ricostruttiva, dopo il primo comma e' aggiunto il seguente: "Il numero degli iscritti alla Scuola e' fissato ad un massimo di sei per il primo anno di corso".
+
+Art. 106, relativo alla Scuola di specializzazione in Dermatologia e venereologia e' abrogato e sostituito dal seguente:
+
+La durata del corso e' di 2 anni.
+
+"Il numero degli iscritti alla Scuola e' fissato ad un massimo di quindici per il primo anno di corso".
+
+Le materie d'insegnamento sono:
+
+1° anno:
+
+Anatomia della pelle e degli organi genitali;
+
+Biologia e fisiopatologia cutanea;
+
+Semeiotica cutanea;
+
+Clinica dermatologica: le malattie intersessuali (sifilide, infezioni gonococciche, ulcera venerea, linfagranulomi, uretriti non gonococciche, ecc.) Legislazione sanitaria.
+
+2° anno:
+
+Microbiologia cutanea;
+
+Tecniche diagnostiche di laboratorio (sierologiche, microscopiche, biochimiche) Clinica dermatologica:
+
+le grandi dermatosi;
+
+le dermatosi microbiche e parassitarie (piodermiti, micosi, virosi, tubercolosi, infezioni tropicali, ecc.);
+
+3° anno:
+
+Istopatologia cutanea;
+
+Diagnostica cutireattiva;
+
+Clinica dermatologica:
+
+disgenesie-nevi;
+
+tumori;
+
+sindromi dismetaboliche e allergiche;
+
+dermatologia professionale;
+
+dermatosi ad irradiazione;
+
+mesenchimopatie-ematodermie;
+
+rapporti tra medicina interna e dermatosi-psicosi;
+
+sessuologia;
+
+fotoradioterapia dermatologica;
+
+terapia dermatologica topica e generale;
+
+dermatologia chirurgica correttiva.
+
+Alla fine di ogni anno di corso gli allievi dovranno superare un esame sulle materie dell'anno. Alla fine del corso dovranno sostenere un esame di diploma secondo le norme generali delle Scuole di specializzazione.
+
+La frequenza alle lezioni ed alle esercitazioni come pure un periodo di internato per ogni anno, sono obbligatori.
+
+Art. 107, relativo alla Scuola di specializzazione in Farmacia industriale e' abrogato e sostituito dal seguente nuovo ordinamento e con la seguente nuova denominazione:
+
+Scuola di specializzazione in Farmacologia applicata all'industria
+
+Art. 107. - La durata del corso e' di due anni. Il numero degli iscritti alla Scuola e' fissato ad un massimo di dieci per il primo anno di corso. Alla Scuola sono ammessi i laureati in Medicina e chirurgia, in Farmacia, in Scienze biologiche e in Medicina veterinaria.
+
+Le materie d'insegnamento sono:
+
+1° anno:
+
+Biologia generale. Anatomia e fisiologia dei comuni animali di laboratorio;
+
+Farmacologia, generale (apparecchiature - criteri sistematici di analisi per la valutazione di nuove molecole);
+
+Tecnica di registrazione grafiche;
+
+Elementi di elettrocardiografia;
+
+Metodi di studio su organi isolati;
+
+Interventi chirurgici sui piccoli animali di laboratorio;
+
+Istologia. Microscopia ottica, a contrasto di fase, elettronica;
+
+Microbiologia-Virologia;
+
+Culture di cellule e di tessuti;
+
+Chimica organica ed analitica;
+
+Cromatografia ed elettroforesi;
+
+Chimica farmaceutica applicata;
+
+Statistica applicata alla biologia;
+
+Primo corso di inglese scientifico.
+
+2° anno:
+
+Biochimica applicata;
+
+Strutture chimiche dei farmaci;
+
+Chemioterapia antibatterica, antitumorale, antivirale;
+
+Neuropsicofarmacologia;
+
+Endocrinologia sperimentale;
+
+Enzimologia e vitaminologia;
+
+Ematologia, sierologia e immunologia;
+
+Radiobiologia e metodi radioisotopici;
+
+"Tests" per i vari gruppi di farmaci;
+
+Tecnico di controllo e di dosaggio biologico dei medicamenti;
+
+Legislazione in campo di industria farmaceutica brevettistiva;
+
+Secondo corso di inglese scientifico.
+
+Alla fine del primo e del secondo anno, il candidato dovra' sostenere un esame di gruppo sulle materie di insegnamento.
+
+Alla fine del biennio il candidato dovra' discutere una tesi sopra una delle materie di insegnamento.
+
+Art. 108, relativo alla Scuola di specializzazione in Idrologia, climatologia e talassoterapia, dopo il primo comma e' aggiunto il seguente;
+
+"Il numero degli iscritti alla Scuola e' fissato ad un massimo di tre per il primo anno di corso".
+
+Art. 111, relativo alla Scuola di specializzazione in Igiene, dopo il primo comma e' aggiunto il seguente:
+
+"Il numero degli iscritti alla Scuola e' fissato ad un massimo di quindici per il primo anno di corso".
+
+Art. 112, relativo, alla Scuola di specializzazione in Igiene e tecnica ospedaliera, dopo il primo comma e' aggiunto il seguente:
+
+"Il numero degli iscritti alla Scuola e' fissato ad un massimo di quindici per il primo anno di corso".
+
+Art. 115, relativo alla Scuola di specializzazione in malattie nervose, dopo il primo comma e' aggiunto il seguente:
+
+"Il numero, degli iscritti alla Scuola, e' fissato ad un massimo di dieci per il primo anno di corso".
+
+Art. 116, relativo alla, Scuola di specializzazione in Medicina del lavoro, dopo il primo comma e' aggiunto il seguente:
+
+"Il numero degli iscritti alla Scuola e' fissato ad un massimo di venti per il primo anno di corso".
+
+Art. 119, relativo alla Scuola di specializzazione in Oculistica, dopo il primo comma e' aggiunto il seguente:
+
+"Il numero degli iscritti alla Scuola e' fissato ad un massimo di otto per il primo anno di corso".
+
+Art. 120, relativo alla Scuola di specializzazione in Odontoiatria e protesi dentaria, dopo il primo comma e' aggiunto il seguente:
+
+"Il numero degli iscritti alla Scuola e' fissato ad un massimo di trenta, per il primo anno di corso".
+
+Art. 121. - La Scuola di specializzazione in Ortopedia e' trasformata in "Scuola di specializzazione in Ortopedia e traumatologia".
+
+Dopo il primo comma e' aggiunto il seguente:
+
+"Il numero degli iscritti alla Scuola e' fissato ad un massimo di venti per il primo anno di corso".
+
+Art. 122, relativo alla Scuola di specializzazione in Ostetricia e ginecologia, dopo il primo comma e' aggiunto il seguente:
+
+"Il numero degli iscritti alla Scuola e' fissato ad un massimo di dieci per il primo anno di corso".
+
+Art. 123, relativo alla Scuola di specializzazione in Otorinolaringoiatria, dopo il primo comma e' aggiunto il seguente:
+
+"Il numero degli iscritti alla Scuola e' fissato ad un massimo di dieci per il primo anno di corso".
+
+Art. 124, relativo alla Scuola di specializzazione in pediatria e' abrogato e sostituito dal seguente nuovo ordinamento.
+
+Scuola di specializzazione in Pediatria
+
+Art. 124. La durata del corso e' di tre anni. Il numero degli iscritti alla Scuola e' fissato ad un massimo di venti per il primo anno di corso.
+
+Le materie d'insegnamento sono:
+
+1° anno:
+
+Peculiarita' anatomiche e fisiologiche del neonato e del lattante;
+
+Semeiotica fisica e funzionale dei vari apparati nel bambino;
+
+Puericoltura prenatale;
+
+Alimentazione del lattante e del bambino della seconda infanzia;
+
+Patologia del neonato e del lattante;
+
+Anatomia patologica pediatrica.
+
+2° anno:
+
+Patologia e clinica pediatrica;
+
+Radiologia pediatrica;
+
+Psicologia infantile;
+
+Nozioni di Otorinolaringoiatria, di Oculistica applicate all'infanzia;
+
+Ortopedia pediatrica;
+
+Dermatologia pediatrica;
+
+3° anno:
+
+Patologia e clinica pediatrica;
+
+Neuropsichiatria infantile;
+
+Malattie infettive;
+
+Chirurgia pediatrica;
+
+Farmacologia applicata alla pediatria.
+
+Le lezioni saranno integrate da esercitazioni cliniche e di laboratorio.
+
+Gli iscritti alla scuola di specializzazione in pediatria hanno l'obbligo di frequentare come interni durante gli anni di corso, anche se non a tempo pieno, i vari reparti della clinica e di altri ospedali infantili, riconosciuti idonei dalla Facolta' medica.
+
+Art. 125, relativo alla Scuola di specializzazione in psichiatria, dopo il primo comma e' aggiunto il seguente:
+
+Il numero degli iscritti alla Scuola e' fissato ad un massimo di quindici per il primo anno di corso".
+
+Art. 135, relativo alla Scuola di specializzazione in Radiologia, dopo il primo comma e' aggiunto il seguente:
+
+"Il numero degli iscritti alla Scuola e' fissato ad un massimo di quindici per il primo anno di corso".
+
+Art. 136, relativo alla Scuola di specializzazione in Tisiologia, dopo il primo comma e' aggiunto il seguente:
+
+Il numero degli iscritti alla Scuola e' fissato ad un massimo di venti per il primo anno di corso".
+
+Art. 137, relativo alla Scuola di specializzazione in Urologia, dopo il primo comma e' aggiunto il seguente:
+
+"Il numero degli iscritti alla Scuola e' fissato ad un massimo di dodici per il primo anno di corso".
+
+Dopo l'art. 145, sono aggiunti i seguenti nuovi articoli relativi alla istituzione delle Scuole di specializzazione in "Neuropsichiatria infantile" ed in "Medicina fisica e riabilitazione" con il conseguente spostamento della numerazione degli articoli successivi, Scuola di specializzazione in Neuropsichiatria infantile Art. 146. - Alla Scuola di specializzazione in Neuropsichiatria infantile vengono ammessi i laureati in Medicina e chirurgia.
+
+La scuola ha durata di quattro anni. La Scuola ha sede presso la Clinica psichiatrica, reparto Neuropsichiatria infantile.
+
+Art. 147. - Gli aspiranti saranno ammessi al primo anno del corso limitatamente al numero di otto, previo concorso interno sulla materia, da sostenersi entro il 15 dicembre.
+
+Gli iscritti hanno uguale obbligo di frequentare i corsi di lezione e le esercitazioni pratiche con internato nelle cliniche rispettive.
+
+Art. 148. - Per l'ammissione agli esami e' necessaria la firma di frequenza: sia agli insegnamenti che alla attivita' pratica.
+
+Programma d'insegnamento
+
+1° anno:
+
+1) Anatomia e fisiologia dalla nascita alla puberta';
+
+2) Alimentazione del bambino;
+
+3) Semeiotica infantile;
+
+4) Neurofisiologia dell'accrescimento;
+
+5) Endocrinologia dell'eta' evolutiva;
+
+6) Patologia e Clinica delle malattie del bambino;
+
+7) Psicologia dei primi tre anni di vita;
+
+8) Genetica e scienza della costituzione e dello sviluppo.
+
+2° anno:
+
+9) Embriologia ed anatomia clinica del sistema nervoso;
+
+10) Fisiologia del sistema nervoso.
+
+Semeiotica e diagnostica delle malattie nervose
+
+11. a) Semeiotica neurologica;
+
+12. b) Patologia e clinica delle malattie nervose;
+
+13. c) Neuroradiologia infantile;
+
+14. d) Elettroencefalografia;
+
+15. e) Neuroofalmologia ed ortoptica;
+
+16. f) Foniatria;
+
+17) Elementi di neurochirurgia infantile;
+
+18) Psicologia generale.
+
+3° anno:
+
+19. a) Psicopatologia generale;
+
+20. b) Semeiotica psichiatrica;
+
+21. c) Diagnostica differenziale;
+
+22) Biochimica e patochimica delle malattie mentali;
+
+23) Psicologia dell'eta' evolutiva.
+
+Psicodiagnostica dell'eta' evolutiva
+
+24. a) Tests di sviluppo e tests di livello;
+
+25. b) Tests proiettivi e di personalita'.
+
+Clinica neuropsichiatrica infantile
+
+26. a) Psicopatologia dell'eta' evolutiva;
+
+27. b) Neuropatologia e semeiotica.
+
+4° anno:
+
+28) Clinica neuropsichiatrica infantile;
+
+29) Medicina psicosomatica infantile;
+
+30) Terapia, generale farmacologica e Fisioterapia dell'eta' evolutiva;
+
+31) Principi generali di psicoterapia;
+
+32) Metodiche psicoterapiche nel bambino;
+
+33) Pedagogia generale e differenziale;
+
+34) Igiene e profilassi mentale infantile;
+
+35) Criminologia e legislazione minorile;
+
+36) Psicopedagogia e organizzazione assistenziale della deficienza mentale.
+
+Al termine di ogni anno gli iscritti dovranno sostenere un esame di profitto.
+
+Internati:
+
+1° anno: Clinica pediatrica;
+
+2° anno: Clinica malattie nervose e mentali;
+
+3° anno: Clinica psichiatrica e reparto neuropsichiatria infantile Clinica psichiatrica;
+
+4° anno: Reparto neuropsichiatria infantile - Clinica psichiatrica.
+
+Art. 149. - Per conseguire il diploma di specialista in Neuropsichiatria infantile, gli iscritti, al termine degli esami annuali, dovranno presentare una dissertazione scritta su un argomento di Neuropsichiatria infantile.
+
+Art. 150. - I candidati non riconosciuti idonei allo esame di diploma, potranno ripresentarsi dopo due anni accademici. Ma se al secondo esame non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.
+
+Scuola di specializzazione in Medicina fisica e riabilitazione
+
+Art. 151. - Alla Facolta' di Medicina e chirurgia dell'Universita' degli studi di Milano e' annessa la Scuola di specializzazione in Medicina fisica e riabilitazione.
+
+Detta Scuola conferisce il diploma di specializzazione in Medicina fisica e riabilitazione a norma dello art. 178 del testo unico, delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592).
+
+Art. 152. - La direzione della Scuola viene assunta ad anni alterni da professori di ruolo che coprono le cattedre di Clinica delle malattie nervose e mentali e di Clinica ortopedica.
+
+Nel caso in cui le cattedre non siano coperte da un professore di ruolo, il direttore della Scuola e' scelto dalla Facolta'.
+
+Il Consiglio della Scuola si compone dei professori che tengono gli insegnamenti prescritti ed e' presieduto dal direttore.
+
+Gli insegnanti della Scuola sono nominati dal Rettore magnifico, su proposta del Consiglio di facolta', udito il direttore della Scuola.
+
+Art. 153. - Alla Scuola possono iscriversi i laureati in Medicina e chirurgia. Il numero degli iscritti alla Scuola e' fissato ad un massimo di dieci per il primo anno di corso. Gli aspiranti all'iscrizione al primo corso dovranno presentare alla Segreteria, entro e non oltre il 30 novembre, domanda di ammissione in bollo competente corredata dei documenti prescritti e di quei titoli che ciascun candidato ritenesse opportuno presentare nel proprio interesse (carriera scolastica, titoli scientifici e pratici, conoscenza di lingue straniere, ecc.). I documenti prescritti per l'immatricolazione sono quelli indicati nel manifesto pubblicato annualmente dall'Universita'.
+
+Gli aspiranti all'ammissione al primo corso dovranno sostenere presso la Scuola un concorso per titoli e per esami secondo le particolari esigenze didattiche della Scuola stessa. I posti disponibili saranno conferiti in base alla graduatoria di detto concorso.
+
+Art. 154. - Le tasse e le sopratasse per l'iscrizione alla Scuola sono quelle stabilite per la Facolta' di medicina e chirurgia.
+
+L'ammontare dei contributi verra' reso noto ogni anno con apposito manifesto.
+
+Tasse, sopratasse e contributi possono essere versati in quattro rate: la prima all'atto dell'iscrizione, la seconda entro il 31 gennaio, la terza entro il 31 marzo e la quarta entro il 15 maggio.
+
+L'allievo che ha ottenuto l'iscrizione ad un anno del corso non ha diritto in alcun caso al rimborso delle tasse, soprattasse e contributi versati.
+
+Art. 155. - La durata del corso della Scuola di specializzazione in Medicina fisica e riabilitazione e' di due anni.
+
+Le abbreviazioni di corso non sono consentite per alcun motivo.
+
+Art. 156. - La ripartizione degli insegnamenti nei due anni di corso e il piano degli studi consigliato dalla Facolta' verranno resi noti all'inizio di ogni anno accademico con apposito manifesto redatto dall'Universita'.
+
+L'insegnamento si svolge normalmente secondo il calendario universitario durante il periodo delle lezioni.
+
+La durata del corso si prolunga tuttavia per tutto l'anno solare, senza interruzione, per la pratica clinica e di laboratorio che si esplica attraverso l'internato.
+
+Art. 157. V'e' obbligo di frequenza ai corsi e allo internato.
+
+L'elenco degli Istituti clinici presso i quali l'allievo dovra' svolgere attivita' d'interno apparira' nell'apposito manifesto annualmente pubblicato dall'Universita'. In esso saranno pure resi noti i limiti di durata dell'internato prescritti nei singoli Istituti.
+
+Possono essere esonerati dall'internato unicamente gli assistenti che prestino regolare servizio presso la Clinica delle malattie nervose e presso la Clinica ortopedica e presso Istituti ospedalieri riconosciuti idonei di volta in volta, a giudizio insindacabile della Facolta'
+
+Art. 158. - La sorveglianza sugli iscritti, per tutto quanto riguarda la loro attivita', spetta al direttore della Scuola.
+
+Art. 159. - L'allievo che abbia regolarmente frequentato sia i corsi che i periodi di internato e che abbia superato gli esami prescritti per il primo anno potra' ottenere l'iscrizione al secondo anno di corso.
+
+L'allievo che non abbia ottenuto le attestazioni di frequenza annuali non potra' sostenere i relativi esami di profitto e dovra' ripetere l'anno con conseguente pagamento di tutte le tasse, soprattasse e contributi.
+
+L'allievo che abbia ottenuto le attestazioni di frequenza annuali e che non abbia superato gli esami di profitto annuali, non potra' essere ammesso all'anno di corso successivo, ma sara' iscritto fuori corso.
+
+Art. 160. - L'allievo che fa domanda di trasferimento da altra Universita' potra' essere ammesso alla Scuola, con deliberazione della Facolta' e su parere favorevole del direttore della Scuola, purche' vi siano posti disponibili. Se non concorrono queste condizioni, i documenti verranno restituiti d'ufficio all'Universita' di provenienza.
+
+Art. 161. - Al termine di ogni anno gli iscritti dovranno sostenere un esame di profitto comprensivo delle materie insegnante in ciascun anno.
+
+Le domande di esame di profitto dovranno essere presentate nei termini che saranno stabiliti all'inizio di ogni sessione con apposito manifesto e dovranno essere accompagnate dal libretto di iscrizione con le prescritte attestazioni di frequenza.
+
+Art. 162. - Per essere ammesso all'esame di diploma, l'allievo dovra' dimostrare di aver regolarmente seguito i corsi e superato tutti gli esami di profitto dei due anni di corso. L'esame di diploma consiste nella discussione orale di una dissertazione scritta su di un tema approvato in precedenza dal direttore della Scuola, corredata da rilievi clinici o sperimentali personali.
+
+Il titolo della dissertazione, firmato dal professore relatore e controfirmato dal direttore della Scuola, deve essere depositato in segreteria entro i termini di tempo che verranno stabiliti.
+
+La dissertazione scritta, in quattro copie, deve essere depositata in segreteria almeno quindici giorni prima dell'esame di diploma.
+
+L'allievo respinto all'esame di diploma puo' ripresentarsi alla prova soltanto dopo due anni.
+
+Art. 163. - La Commissione per gli esami di profitto, composta da non meno di tre membri, compreso un libero docente, e' nominata dal direttore della Scuola.
+
+La Commissione per l'esame di diploma e' costituita da sette membri, nominati dal preside di Facolta', udito il direttore della Scuola.
+
+1° anno:
+
+(comprende una serie di sette materie a carattere teorico-informativo):
+
+1) Anatomia funzionale del sistema motore:
+
+a) i livelli sopraspinali;
+
+b) la via finale comune;
+
+c) la regolazione riflessa del movimento;
+
+d) il tono muscolare e i dispositivi regolatori;
+
+e) la giunzione mioneurale;
+
+f) caratteristiche fisiche e fisiologiche del tessuto muscolare;
+
+g) anatomo-fisiologia dello scheletro (ossa, articolazioni).
+
+2) Chinesiologia:
+
+a) Innervazione, inserzione dei muscoli e meccanismi articolari;
+
+b) Sinergie muscolari, la coppia agonista-antagonista, la innervazione reciproca;
+
+c) Meccanica dell'azione muscolare segmentate;
+
+d) Meccanica della statica e della locomozione;
+
+e) metodiche di esplorazione delle varie turbe motorie e criteri di valutazione della perdita funzionale;
+
+I tests di livello psicomotorio.
+
+3) Semeiologia e clinica delle motulesioni neurologiche:
+
+a) di origine piramidale;
+
+b) di origine extrapiramidale;
+
+c) del motoneurone periferico;
+
+d) lesioni muscolari primitive;
+
+e) la vescica neurologica.
+
+4) Semeiologia e clinica delle deformita' e motulesioni ortopediche:
+
+La trattazione si riferisce ai diversi aspetti della patologia ortopedica e traumatologica suscettibili di trattamento rieducazionale.
+
+5) Fisiopatologia e clinica dei disturbi della fonazione e del linguaggio.
+
+6) Fisiopatologia e clinica dei disturbi della visione.
+
+7) Elettrologia neuromuscolare:
+
+a) Elettrodiagnostica tradizionale, cronassimetria, curve i/t;
+
+b) Elettromiografia (specie emg chinesiologica);
+
+c) Elettroterapia.
+
+2° anno:
+
+(comprende una serie di sette materie a carattere pratico-applicativo).
+
+1) Tecniche terapeutiche con agenti fisici:
+
+Vengono prese in considerazione tutte le tecniche di terapia fisica utilizzanti agenti naturali o artificiali (calore, clima, bagni, radiazioni, radar, ultrasuoni, ecc.).
+
+2) Tecniche di chinesiterapia:
+
+(massaggi, meccanoterapia, mobilizzazione attiva e passiva, ginnastica medica preventiva e correttiva, allenamento, fisiochinesiterapia respiratoria, ecc. ecc.).
+
+3) Rieducazione motoria e riabilitazione in campo neurologico:
+
+Indicazione dei vari tipi di trattamento fisiochinesiologico e problemi di inserimento professionale e sociale nelle varie forme di motulesione neurologica.
+
+4) Rieducazione motoria e riabilitazione in campo ortopedico:
+
+Indicazione dei vari tipi di trattamento fisiochinesiologico e problemi di inserimento professionale e sociale nelle varie forme di motulesione ortopedica.
+
+5) Rieducazione della fonazione e del linguaggio:
+
+Problemi terapeutici e sociali nel laringectomizzato, nel dislalico, nell'afasico, nell'aprassico, nell'agnosico, ecc. ecc.
+
+6) Rieducazione della visione.
+
+7) Nozioni di neurochirurgia.
+
+(trattamento della spasticita' e delle turbe discinotiche e di Chirurgia ortopedica (plastiche, trasposizione ossee e muscolari, protesi, ecc.).
+
+Dopo l'art. 163, e con il conseguente spostamento della numerazione successiva, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Chirurgia toracica.
+
+Scuola di specializzazione in Chirurgia toracica
+
+Art. 164. - Alla Facolta' di medicina e chirurgia e annessa la Scuola di specializzazione in Chirurgia toracica.
+
+Art. 165. - La durata del corso degli studi per il conseguimento del diploma di specializzazione in Chirurgia toracica e' di due anni.
+
+Il numero degli iscritti alla Scuola e' fissato ad un massimo di otto per il primo anno di corso.
+
+Art. 166. - Possono ottenere l'iscrizione alla Scuola previo esame di ammissione, i laureati in Medicina e chirurgia che siano in possesso della libera docenza in Semeiotica o Patologia o Clinica chirurgica o naturalmente di quella in Chirurgia toracica, o del diploma di specialista in Chirurgia generale.
+
+Art. 167. - Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali, e di un internato obbligatorio.
+
+Art. 168. - Gli insegnamenti impartiti dalla Scuola sono i seguenti:
+
+1) Anatomia chirurgica del torace e degli organi in esso contenuti;
+
+2) Fisiologia e fisiopatologia degli organi endotoracici;
+
+3) Semeiotica (medica, endoscopica, radiologica, funzionale dell'apparato respiratorio e del mediastino);
+
+4) Semeiotica dell'apparato cardiovascolare (medica, strumentale, radiologica e di laboratorio);
+
+5) Patologia dell'apparato cardiocircolatorio (biennale);
+
+6) Patologia del mediastino e degli organi in esso contenuti (biennale);
+
+7) Patologia dell'apparato respiratorio (biennale);
+
+8) Anatomia patologica del torace e degli organi endotoracici;
+
+9) Principi di anestesia e di rianimazione in chirurgia toracica;
+
+10) Terapia chirurgica e tecnica operatoria per le affezioni endotoraciche (biennale);
+
+11) Fisioterapia (biennale).
+
+Art. 169. - La frequenza alle lezioni e alle conferenze come pure il periodo di internato sono obbligatori.
+
+Art. 170. - Alla fine di ciascun anno accademico gli specializzandi che abbiano ottenuto le firme di frequenza dovranno sostenere gli esami di profitto nelle materie di insegnamento il cui superamento e' condizione indispensabile per l'iscrizione all'anno successivo.
+
+Sono esami del primo anno quelli relativi agli insegnamenti annuali. Per le materie biennali i relativi esami saranno sostenuti alla fine del biennio.
+
+Art. 171. - Alla fine del corso ha luogo l'esame di diploma secondo le norme speciali per le Scuole di specializzazione della Facolta'.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1963
+
+SEGNI
+
+GUI
+
+Visto, il Guardasigilli: BOSCO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 18 dicembre 1963 Atti del Governo, registro n. 178, foglio n. 142. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Milano approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -24,239 +674,339 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli dal n. 96 al n. 98 relativi alla Scuola di specializzazione in Anestesia sono abrogati e sostituiti dai seguenti con il seguente nuovo ordinamento:  
   
-L'art. 132, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la "Scuola in tisiologia" muta la denominazione in quella di "Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio".  
-Allo stesso elenco sono aggiunte le seguenti scuole di specializzazione:  
-Allergologia e immunologia clinica;  
-Malattie infettive.  
-L'art. 221, relativo alla "Scuola di specializzazione in radiologia", e' abrogato e sostituito dal seguente:  
+Scuola di specializzazione in Anestesiologia e rianimazione  
   
-Scuola di specializzazione in radiologia  
-  
-Art. 221. - La scuola di specializzazione in radiologia conferisce il diploma di specializzazione in radiodiagnostica e radioterapia ed il diploma di specializzazione in diagnostica radiologica.  
-Il numero dei posti disponibili e' fissato in quindici per anno di corso.  
-I piani degli studi per i due corsi sono i seguenti:  
-  
-Diploma di specializzazione in radiodiagnostica e radioterapia.  
-  
-1° Anno:  
-Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;  
-Nozioni sugli apparecchi ed istrumenti della radiologia;  
-Anatomia radiologica normale;  
-Fisiologia radiologica;  
-Tecnica radiologica generale;  
-Semeiotica radiologica generale;  
-Fondamenti di radiobiologia;  
-Nozioni di statistica e matematica.  
-  
-2° Anno:  
-Tecnica e metodica dell'esame radiologico dei vari organi, apparati e sistemi;  
-Semeiotica radiologica speciale e diagnosi differenziale;  
-Fondamenti di radioterapia;  
-Danni da radiazioni e mezzi di protezione;  
-Dimostrazioni cliniche e diagnostica radiologica;  
-Dimostrazioni cliniche di radioterapia.  
-  
-3° Anno:  
-Diagnostica radiologica differenziale;  
-Dimostrazioni di casistica di roentgendiagnostica con confronto del quadro anatomo-patologico;  
-Dimostrazioni di casistica di roentgenterapia, con particolare riferimento all'anatomia patologica;  
-Radioterapia tradizionale.  
-Curieterapia;  
-Radioterapia con alte energie;  
-Elementi di medicina nucleare;  
-Istrumentario, tecnica e metodica di applicazione;  
-Dosimetria.  
-  
-4° Anno:  
-Moderne tecniche di esplorazione e terapia radiologica;  
-Diagnostica e terapia con isotopi radioattivi somministrati per via interna;  
-Radiodiagnostica e radioterapia clinica (casistica);  
-Medicina legale e legislazione sanitaria in relazione alla radiologia.  
-  
-La durata del corso e' di anni quattro.  
-I corsi saranno integrati da conferenze, esercitazioni e seminari.  
-E' obbligatorio l'internato  
-  
-Diploma di specializzazione in diagnostica radiologica.  
-  
-1° Anno:  
-Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;  
-Nozioni sugli apparecchi ed istrumenti della radiologia;  
-Anatomia radiologica normale;  
-Fisiologia radiologica;  
-Tecnica radiologica generale;  
-Semeiotica radiologica generale;  
-Fondamenti di radiobiologia;  
-Nozioni di statistica e matematica.  
-  
-2° Anno:  
-Metodica di esplorazione dei vari organi ed apparati;  
-Semeiotica radiologica speciale e diagnosi differenziale;  
-Nozioni generali sulle lesioni da radiazioni e mezzi di protezione;  
-Moderne tecniche di esplorazione radiologica.  
-  
-3° Anno:  
-Esplorazione radiologica nella patologia dei vari organi ed apparati - Diagnostica differenziale - Rapporti con l'anatomia patologi;  
-Radiodiagnostica clinica;  
-Medicina legale e legislazione sanitaria in relazione alla radiologia.  
-  
-La durata del corso e' di tre anni.  
-I corsi saranno integrati da conferenze, esercitazioni e seminari.  
-E' obbligatorio l'internato.  
-L'art. 224, relativo alla "Scuola di specializzazione in tisiologia" che muta la denominazione in quella di "Scuola di specializzazione in tisiologia e malattie dello apparato respiratorio", e' abrogato e sostituito dal seguente:  
-  
-Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio  
-  
-Art. 224. - Il corso ha la durata di tre anni.  
-L'ammissione e' stabilita attraverso un colloquio orale.  
-Il numero dei posti disponibili e' fissato in dieci per anno di corso.  
-Le materie di insegnamento sono:  
-  
-1° Anno:  
-Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);  
-Patologia della tubercolosi polmonare ed extra-polmonare;  
-Patologia delle malattie dell'apparato respiratorio;  
-Fisiologia e fisiopatologia generale dell'apparato respiratorio;  
-Semeiotica fisica e funzionale dell'apparato respiratorio;  
-Microbiologia;  
-Epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.  
-  
-2° Anno:  
-Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);  
-Clinica della tubercolosi (biennale);  
-Clinica delle malattie dell'apparato respiratorio (biennale);  
-Fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;  
-Broncologia;  
-Radiologia dell'apparato respiratorio;  
-Profilassi della tubercolosi;  
-Igiene e legislazione sociale.  
-  
-3° Anno:  
-Clinica della tubercolosi (biennale);  
-Clinica delle malattie dell'apparato respiratorio (biennale);  
-Chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;  
-Terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;  
-Terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio;  
-  
-I corsi di insegnamento sono integrati da turni obbligatori di internato nei reparti di degenza, e nei laboratori di ricerca; da esercitazioni pratiche; da conferenze.  
-Gli esami di profitto hanno luogo al termine di ogni anno di corso.  
-Per il conseguimento del diploma di specializzazione e' prescritta la presentazione e la discussione di una dissertazione scritta.  
-L'art. 225, relativo alla "Scuola di specializzazione in urologia", e' abrogato e sostituito dal seguente:  
-  
-Scuola di specializzazione in urologia  
-  
-Art. 225. - La durata della scuola e' di tre anni.  
-Non sono ammesse abbreviazioni di corso.  
-Il numero dei posti disponibili e' fissato ad un massimo di nove per il primo anno di corso (totale ventisette iscritti).  
-Le materie di insegnamento sono:  
-  
-1° Anno:  
-Anatomia descrittiva e topografica dell'apparato uro-genitale;  
-Fisiologia dell'apparato uro-genitale;  
-Patologia dell'apparato urinario e genitale maschile;  
-Le nefropatie mediche;  
-Semeiotica dell'apparato uro-genitale (funzionale e di laboratorio);  
-Tecniche strumentali e semeiologia endoscopica;  
-Batteriologia in urologia;  
-Farmacoterapia delle affezioni uro-genitali.  
-  
-2° Anno:  
-Patologia dell'apparato urinario e genitale maschile;  
-Clinica urologica;  
-Patologia genitale femminile di interesse urologico;  
-Nefrologia chirurgica;  
-Anatomia ed istologia patologica dell'apparato urogenitale;  
-Semeiotica dell'apparato uro-genitale (funzionale e di laboratorio);  
-Tecniche strumentali e semeiologia endoscopica;  
-Anatomia chirurgica dell'apparato uro-genitale;  
-Radiologia dell'apparato urinario e genitale;  
-Le affezioni cutanee e veneree nei riguardi della urologia;  
-L'anestesia ed il trattamento pre e post operatorio del malato urologico.  
-  
-3° Anno:  
-Clinica urologica;  
-Patologia e clinica urologica infantile;  
-Radiologia dell'apparato urinario e genitale;  
-Tecniche operatorie sull'apparato urinario e genitale;  
-Urologia ginecologica.  
-  
-Dopo l'art. 225 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Allergologia e immunologia clinica" e in "Malattie infettive".  
-  
-Scuola di specializzazione in allergologia e immunologia clinica  
-  
-Art. 226. - La durata del corso e' di tre anni.  
-E' titolo di ammissione alla scuola la laurea in medicina e chirurgia; l'ammissione alla scuola avviene sulla base di titoli ed esami.  
-Il numero dei posti disponibili e' di sei per ciascun anno di corso.  
-Sono materie di insegnamento:  
-  
-1° Anno:  
-Basi immunologiche e patogenesi dell'allergia;  
-Istopatologia generale;  
-La patologia allergica in riferimento ai diversi agenti etiologici;  
-La patologia autoimmune;  
-Semeiotica e diagnostica allergologica.  
-  
-2° Anno:  
-Basi immunologiche e patogenesi dell'allergia;  
-Semeiotica e diagnostica allergologica;  
-Patologia dell'allergia dell'apparato respiratorio;  
-Allergia e otorinolaringoiatria;  
-Le malattie cutanee e patogenesi allergica;  
-Allergia ai medicamenti;  
-Farmacologia dei medicamenti antiallergici.  
-  
-3° Anno:  
-Clinica dell'allergia dell'apparato respiratorio;  
-Allergia e apparato digerente;  
-Allergia ed altri organi ed apparati;  
-La terapia specifica e aspecifica delle sindromi allergiche;  
-Allergopatie professionali.  
-  
-Le lezioni sono integrate da esercitazioni e dimostrazioni pratiche. Al termine di ogni anno di corso gli allievi devono sostenere un esame di profitto sulle materie che sono state oggetto d'insegnamento.  
-L'esame di diploma consiste nella discussione di una tesi scritta su un argomento di allergologia ed immunologia clinica.  
-  
-Scuola di specializzazione in malattie infettive  
-  
-Art. 227. - La durata del corso e' di tre anni.  
-Il numero degli iscritti alla scuola e' fissato ad un massimo di otto per ciascun anno di corso.  
-La scuola e' posta sotto la direzione del titolare dello insegnamento di malattie infettive e dispone dei reparti e dei laboratori dell'istituto di malattie infettive; si avvale inoltre della collaborazione dell'istituto di igiene e dell'istituto di virologia dell'universita'.  
+Art. 96. - La durata del corso e' di tre anni.  
+Il numero degli iscritti alla Scuola e' fissato ad un massimo di dieci per il primo anno di corso.  
+Art. 97. - Le materie d'insegnamento sono:  
+1° anno:  
+Storia dell'anestesiologia;  
+Sviluppo compiti;  
+Studio anestesiologico del paziente chirurgico;  
+Fisiopatologia dell'anestesiologia e rianimazione;  
+Anestesiologia e chirurgia specialistica.  
+2° anno:  
+Apparecchiature anestesiologiche;  
+Fisiologia respiratoria e circolatoria applicata all'anestesia;  
+Tecniche speciali.  
+3° anno:  
+Rianimazione - equilibri fisiologici vitali;  
+Applicazioni della rianimazione: urgente, protratta;  
+Metodi di rianimazione: respiratoria e circolatoria;  
+Problemi connessi, terapia antalgica.  
+Art. 98. - Al termine di ogni anno gli allievi dovranno superare un esame sulle materie dell'anno. La frequenza alle lezioni, esercitazioni ed un servizio di internato sono obbligatori.  
+Art. 99, relativo alla Scuola di specializzazione in Cardiologia, dopo il primo comma e' aggiunto il seguente:  
+"Il numero degli iscritti alla Scuola e' fissato ad un massimo di sei per il primo anno di corso".  
+Art. 100, relativo alla Scuola di specializzazione in Chirurgia, dopo il primo comma e' aggiunto il seguente:  
+"Il numero degli iscritti alla Scuola e' fissato ad un massimo di dieci per il primo anno di corso".  
+Art. 101, relativo alla Scuola di specializzazione in Chirurgia plastica ricostruttiva, dopo il primo comma e' aggiunto il seguente: "Il numero degli iscritti alla Scuola e' fissato ad un massimo di sei per il primo anno di corso".  
+Art. 106, relativo alla Scuola di specializzazione in Dermatologia e venereologia e' abrogato e sostituito dal seguente:  
+La durata del corso e' di 2 anni.  
+"Il numero degli iscritti alla Scuola e' fissato ad un massimo di quindici per il primo anno di corso".  
 Le materie d'insegnamento sono:  
+1° anno:  
+Anatomia della pelle e degli organi genitali;  
+Biologia e fisiopatologia cutanea;  
+Semeiotica cutanea;  
+Clinica dermatologica: le malattie intersessuali (sifilide, infezioni gonococciche, ulcera venerea, linfagranulomi, uretriti non gonococciche, ecc.) Legislazione sanitaria.  
+2° anno:  
+Microbiologia cutanea;  
+Tecniche diagnostiche di laboratorio (sierologiche, microscopiche, biochimiche) Clinica dermatologica:  
+le grandi dermatosi;  
+le dermatosi microbiche e parassitarie (piodermiti, micosi, virosi, tubercolosi, infezioni tropicali, ecc.);  
+3° anno:  
+Istopatologia cutanea;  
+Diagnostica cutireattiva;  
+Clinica dermatologica:  
+disgenesie-nevi;  
+tumori;  
+sindromi dismetaboliche e allergiche;  
+dermatologia professionale;  
+dermatosi ad irradiazione;  
+mesenchimopatie-ematodermie;  
+rapporti tra medicina interna e dermatosi-psicosi;  
+sessuologia;  
+fotoradioterapia dermatologica;  
+terapia dermatologica topica e generale;  
+dermatologia chirurgica correttiva.  
+Alla fine di ogni anno di corso gli allievi dovranno superare un esame sulle materie dell'anno. Alla fine del corso dovranno sostenere un esame di diploma secondo le norme generali delle Scuole di specializzazione.  
+La frequenza alle lezioni ed alle esercitazioni come pure un periodo di internato per ogni anno, sono obbligatori.  
+Art. 107, relativo alla Scuola di specializzazione in Farmacia industriale e' abrogato e sostituito dal seguente nuovo ordinamento e con la seguente nuova denominazione:  
   
-1° Anno:  
-a) epidemiologia generale delle malattie infettive;  
-b) nozioni generali di batteriologia, di virologia, di parassitologia, di immunologia;  
-c) tecnica batteriologica, virologica, parassitologica, immunologica applicata alle malattie infettive (1° anno).  
+Scuola di specializzazione in Farmacologia applicata all'industria  
   
-2° Anno:  
-a) patologia e clinica delle malattie infettive (1° anno);  
-b) semeiotica e diagnostica delle malattie infettive;  
-c) anatomia patologica delle malattie infettive;  
-d) tecnica batteriologica, virologica, parassitologica, immunologica (2° anno).  
+Art. 107. - La durata del corso e' di due anni. Il numero degli iscritti alla Scuola e' fissato ad un massimo di dieci per il primo anno di corso. Alla Scuola sono ammessi i laureati in Medicina e chirurgia, in Farmacia, in Scienze biologiche e in Medicina veterinaria.  
+Le materie d'insegnamento sono:  
+1° anno:  
+Biologia generale. Anatomia e fisiologia dei comuni animali di laboratorio;  
+Farmacologia, generale (apparecchiature - criteri sistematici di analisi per la valutazione di nuove molecole);  
+Tecnica di registrazione grafiche;  
+Elementi di elettrocardiografia;  
+Metodi di studio su organi isolati;  
+Interventi chirurgici sui piccoli animali di laboratorio;  
+Istologia. Microscopia ottica, a contrasto di fase, elettronica;  
+Microbiologia-Virologia;  
+Culture di cellule e di tessuti;  
+Chimica organica ed analitica;  
+Cromatografia ed elettroforesi;  
+Chimica farmaceutica applicata;  
+Statistica applicata alla biologia;  
+Primo corso di inglese scientifico.  
+2° anno:  
+Biochimica applicata;  
+Strutture chimiche dei farmaci;  
+Chemioterapia antibatterica, antitumorale, antivirale;  
+Neuropsicofarmacologia;  
+Endocrinologia sperimentale;  
+Enzimologia e vitaminologia;  
+Ematologia, sierologia e immunologia;  
+Radiobiologia e metodi radioisotopici;  
+"Tests" per i vari gruppi di farmaci;  
+Tecnico di controllo e di dosaggio biologico dei medicamenti;  
+Legislazione in campo di industria farmaceutica brevettistiva;  
+Secondo corso di inglese scientifico.  
+Alla fine del primo e del secondo anno, il candidato dovra' sostenere un esame di gruppo sulle materie di insegnamento.  
+Alla fine del biennio il candidato dovra' discutere una tesi sopra una delle materie di insegnamento.  
+Art. 108, relativo alla Scuola di specializzazione in Idrologia, climatologia e talassoterapia, dopo il primo comma e' aggiunto il seguente;  
+"Il numero degli iscritti alla Scuola e' fissato ad un massimo di tre per il primo anno di corso".  
+Art. 111, relativo alla Scuola di specializzazione in Igiene, dopo il primo comma e' aggiunto il seguente:  
+"Il numero degli iscritti alla Scuola e' fissato ad un massimo di quindici per il primo anno di corso".  
+Art. 112, relativo, alla Scuola di specializzazione in Igiene e tecnica ospedaliera, dopo il primo comma e' aggiunto il seguente:  
+"Il numero degli iscritti alla Scuola e' fissato ad un massimo di quindici per il primo anno di corso".  
+Art. 115, relativo alla Scuola di specializzazione in malattie nervose, dopo il primo comma e' aggiunto il seguente:  
+"Il numero, degli iscritti alla Scuola, e' fissato ad un massimo di dieci per il primo anno di corso".  
+Art. 116, relativo alla, Scuola di specializzazione in Medicina del lavoro, dopo il primo comma e' aggiunto il seguente:  
+"Il numero degli iscritti alla Scuola e' fissato ad un massimo di venti per il primo anno di corso".  
+Art. 119, relativo alla Scuola di specializzazione in Oculistica, dopo il primo comma e' aggiunto il seguente:  
+"Il numero degli iscritti alla Scuola e' fissato ad un massimo di otto per il primo anno di corso".  
+Art. 120, relativo alla Scuola di specializzazione in Odontoiatria e protesi dentaria, dopo il primo comma e' aggiunto il seguente:  
+"Il numero degli iscritti alla Scuola e' fissato ad un massimo di trenta, per il primo anno di corso".  
+Art. 121. - La Scuola di specializzazione in Ortopedia e' trasformata in "Scuola di specializzazione in Ortopedia e traumatologia".  
+Dopo il primo comma e' aggiunto il seguente:  
+"Il numero degli iscritti alla Scuola e' fissato ad un massimo di venti per il primo anno di corso".  
+Art. 122, relativo alla Scuola di specializzazione in Ostetricia e ginecologia, dopo il primo comma e' aggiunto il seguente:  
+"Il numero degli iscritti alla Scuola e' fissato ad un massimo di dieci per il primo anno di corso".  
+Art. 123, relativo alla Scuola di specializzazione in Otorinolaringoiatria, dopo il primo comma e' aggiunto il seguente:  
+"Il numero degli iscritti alla Scuola e' fissato ad un massimo di dieci per il primo anno di corso".  
+Art. 124, relativo alla Scuola di specializzazione in pediatria e' abrogato e sostituito dal seguente nuovo ordinamento.  
+Scuola di specializzazione in Pediatria  
+Art. 124. La durata del corso e' di tre anni. Il numero degli iscritti alla Scuola e' fissato ad un massimo di venti per il primo anno di corso.  
+Le materie d'insegnamento sono:  
+1° anno:  
+Peculiarita' anatomiche e fisiologiche del neonato e del lattante;  
+Semeiotica fisica e funzionale dei vari apparati nel bambino;  
+Puericoltura prenatale;  
+Alimentazione del lattante e del bambino della seconda infanzia;  
+Patologia del neonato e del lattante;  
+Anatomia patologica pediatrica.  
+2° anno:  
+Patologia e clinica pediatrica;  
+Radiologia pediatrica;  
+Psicologia infantile;  
+Nozioni di Otorinolaringoiatria, di Oculistica applicate all'infanzia;  
+Ortopedia pediatrica;  
+Dermatologia pediatrica;  
+3° anno:  
+Patologia e clinica pediatrica;  
+Neuropsichiatria infantile;  
+Malattie infettive;  
+Chirurgia pediatrica;  
+Farmacologia applicata alla pediatria.  
+Le lezioni saranno integrate da esercitazioni cliniche e di laboratorio.  
+Gli iscritti alla scuola di specializzazione in pediatria hanno l'obbligo di frequentare come interni durante gli anni di corso, anche se non a tempo pieno, i vari reparti della clinica e di altri ospedali infantili, riconosciuti idonei dalla Facolta' medica.  
+Art. 125, relativo alla Scuola di specializzazione in psichiatria, dopo il primo comma e' aggiunto il seguente:  
+Il numero degli iscritti alla Scuola e' fissato ad un massimo di quindici per il primo anno di corso".  
+Art. 135, relativo alla Scuola di specializzazione in Radiologia, dopo il primo comma e' aggiunto il seguente:  
+"Il numero degli iscritti alla Scuola e' fissato ad un massimo di quindici per il primo anno di corso".  
+Art. 136, relativo alla Scuola di specializzazione in Tisiologia, dopo il primo comma e' aggiunto il seguente:  
+Il numero degli iscritti alla Scuola e' fissato ad un massimo di venti per il primo anno di corso".  
+Art. 137, relativo alla Scuola di specializzazione in Urologia, dopo il primo comma e' aggiunto il seguente:  
+"Il numero degli iscritti alla Scuola e' fissato ad un massimo di dodici per il primo anno di corso".  
+Dopo l'art. 145, sono aggiunti i seguenti nuovi articoli relativi alla istituzione delle Scuole di specializzazione in "Neuropsichiatria infantile" ed in "Medicina fisica e riabilitazione" con il conseguente spostamento della numerazione degli articoli successivi, Scuola di specializzazione in Neuropsichiatria infantile Art. 146. - Alla Scuola di specializzazione in Neuropsichiatria infantile vengono ammessi i laureati in Medicina e chirurgia.  
+La scuola ha durata di quattro anni. La Scuola ha sede presso la Clinica psichiatrica, reparto Neuropsichiatria infantile.  
+Art. 147. - Gli aspiranti saranno ammessi al primo anno del corso limitatamente al numero di otto, previo concorso interno sulla materia, da sostenersi entro il 15 dicembre.  
+Gli iscritti hanno uguale obbligo di frequentare i corsi di lezione e le esercitazioni pratiche con internato nelle cliniche rispettive.  
+Art. 148. - Per l'ammissione agli esami e' necessaria la firma di frequenza: sia agli insegnamenti che alla attivita' pratica.  
   
-3° Anno:  
-a) patologia e clinica delle malattie infettive (2° anno);  
-b) malattie infettive nei paesi caldi;  
-c) farmacologia e terapia generale delle malattie infettive;  
-d) legislazione sanitaria e malattie infettive.  
+Programma d'insegnamento  
   
-Per gli esami si dispone:  
+1° anno:  
+1) Anatomia e fisiologia dalla nascita alla puberta';  
+2) Alimentazione del bambino;  
+3) Semeiotica infantile;  
+4) Neurofisiologia dell'accrescimento;  
+5) Endocrinologia dell'eta' evolutiva;  
+6) Patologia e Clinica delle malattie del bambino;  
+7) Psicologia dei primi tre anni di vita;  
+8) Genetica e scienza della costituzione e dello sviluppo.  
+2° anno:  
+9) Embriologia ed anatomia clinica del sistema nervoso;  
+10) Fisiologia del sistema nervoso.  
   
-1° anno: un esame sulle discipline a) e b);  
-2° anno: un esame sulle discipline b), c) e d), 3° anno: un esame relativo alle discipline a) e b); un esame relativo alle discipline c) e d); esame di diploma.  
+Semeiotica e diagnostica delle malattie nervose  
   
-Le lezioni saranno integrate da esercitazioni di laboratorio ed al letto dell'ammalato e da conferenze su argomenti di patologia infettiva. Durante gli anni di corso gli allievi sono tenuti a prestare servizio di internato nell'istituto di malattie infettive.  
+11. a) Semeiotica neurologica;  
+12. b) Patologia e clinica delle malattie nervose;  
+13. c) Neuroradiologia infantile;  
+14. d) Elettroencefalografia;  
+15. e) Neuroofalmologia ed ortoptica;  
+16. f) Foniatria;  
+17) Elementi di neurochirurgia infantile;  
+18) Psicologia generale.  
+3° anno:  
+19. a) Psicopatologia generale;  
+20. b) Semeiotica psichiatrica;  
+21. c) Diagnostica differenziale;  
+22) Biochimica e patochimica delle malattie mentali;  
+23) Psicologia dell'eta' evolutiva.  
+  
+Psicodiagnostica dell'eta' evolutiva  
+  
+24. a) Tests di sviluppo e tests di livello;  
+25. b) Tests proiettivi e di personalita'.  
+  
+Clinica neuropsichiatrica infantile  
+  
+26. a) Psicopatologia dell'eta' evolutiva;  
+27. b) Neuropatologia e semeiotica.  
+4° anno:  
+28) Clinica neuropsichiatrica infantile;  
+29) Medicina psicosomatica infantile;  
+30) Terapia, generale farmacologica e Fisioterapia dell'eta' evolutiva;  
+31) Principi generali di psicoterapia;  
+32) Metodiche psicoterapiche nel bambino;  
+33) Pedagogia generale e differenziale;  
+34) Igiene e profilassi mentale infantile;  
+35) Criminologia e legislazione minorile;  
+36) Psicopedagogia e organizzazione assistenziale della deficienza mentale.  
+Al termine di ogni anno gli iscritti dovranno sostenere un esame di profitto.  
+Internati:  
+1° anno: Clinica pediatrica;  
+2° anno: Clinica malattie nervose e mentali;  
+3° anno: Clinica psichiatrica e reparto neuropsichiatria infantile Clinica psichiatrica;  
+4° anno: Reparto neuropsichiatria infantile - Clinica psichiatrica.  
+Art. 149. - Per conseguire il diploma di specialista in Neuropsichiatria infantile, gli iscritti, al termine degli esami annuali, dovranno presentare una dissertazione scritta su un argomento di Neuropsichiatria infantile.  
+Art. 150. - I candidati non riconosciuti idonei allo esame di diploma, potranno ripresentarsi dopo due anni accademici. Ma se al secondo esame non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.  
+  
+Scuola di specializzazione in Medicina fisica e riabilitazione  
+  
+Art. 151. - Alla Facolta' di Medicina e chirurgia dell'Universita' degli studi di Milano e' annessa la Scuola di specializzazione in Medicina fisica e riabilitazione.  
+Detta Scuola conferisce il diploma di specializzazione in Medicina fisica e riabilitazione a norma dello art. 178 del testo unico, delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592).  
+Art. 152. - La direzione della Scuola viene assunta ad anni alterni da professori di ruolo che coprono le cattedre di Clinica delle malattie nervose e mentali e di Clinica ortopedica.  
+Nel caso in cui le cattedre non siano coperte da un professore di ruolo, il direttore della Scuola e' scelto dalla Facolta'.  
+Il Consiglio della Scuola si compone dei professori che tengono gli insegnamenti prescritti ed e' presieduto dal direttore.  
+Gli insegnanti della Scuola sono nominati dal Rettore magnifico, su proposta del Consiglio di facolta', udito il direttore della Scuola.  
+Art. 153. - Alla Scuola possono iscriversi i laureati in Medicina e chirurgia. Il numero degli iscritti alla Scuola e' fissato ad un massimo di dieci per il primo anno di corso. Gli aspiranti all'iscrizione al primo corso dovranno presentare alla Segreteria, entro e non oltre il 30 novembre, domanda di ammissione in bollo competente corredata dei documenti prescritti e di quei titoli che ciascun candidato ritenesse opportuno presentare nel proprio interesse (carriera scolastica, titoli scientifici e pratici, conoscenza di lingue straniere, ecc.). I documenti prescritti per l'immatricolazione sono quelli indicati nel manifesto pubblicato annualmente dall'Universita'.  
+Gli aspiranti all'ammissione al primo corso dovranno sostenere presso la Scuola un concorso per titoli e per esami secondo le particolari esigenze didattiche della Scuola stessa. I posti disponibili saranno conferiti in base alla graduatoria di detto concorso.  
+Art. 154. - Le tasse e le sopratasse per l'iscrizione alla Scuola sono quelle stabilite per la Facolta' di medicina e chirurgia.  
+L'ammontare dei contributi verra' reso noto ogni anno con apposito manifesto.  
+Tasse, sopratasse e contributi possono essere versati in quattro rate: la prima all'atto dell'iscrizione, la seconda entro il 31 gennaio, la terza entro il 31 marzo e la quarta entro il 15 maggio.  
+L'allievo che ha ottenuto l'iscrizione ad un anno del corso non ha diritto in alcun caso al rimborso delle tasse, soprattasse e contributi versati.  
+Art. 155. - La durata del corso della Scuola di specializzazione in Medicina fisica e riabilitazione e' di due anni.  
+Le abbreviazioni di corso non sono consentite per alcun motivo.  
+Art. 156. - La ripartizione degli insegnamenti nei due anni di corso e il piano degli studi consigliato dalla Facolta' verranno resi noti all'inizio di ogni anno accademico con apposito manifesto redatto dall'Universita'.  
+L'insegnamento si svolge normalmente secondo il calendario universitario durante il periodo delle lezioni.  
+La durata del corso si prolunga tuttavia per tutto l'anno solare, senza interruzione, per la pratica clinica e di laboratorio che si esplica attraverso l'internato.  
+Art. 157. V'e' obbligo di frequenza ai corsi e allo internato.  
+L'elenco degli Istituti clinici presso i quali l'allievo dovra' svolgere attivita' d'interno apparira' nell'apposito manifesto annualmente pubblicato dall'Universita'. In esso saranno pure resi noti i limiti di durata dell'internato prescritti nei singoli Istituti.  
+Possono essere esonerati dall'internato unicamente gli assistenti che prestino regolare servizio presso la Clinica delle malattie nervose e presso la Clinica ortopedica e presso Istituti ospedalieri riconosciuti idonei di volta in volta, a giudizio insindacabile della Facolta'  
+Art. 158. - La sorveglianza sugli iscritti, per tutto quanto riguarda la loro attivita', spetta al direttore della Scuola.  
+Art. 159. - L'allievo che abbia regolarmente frequentato sia i corsi che i periodi di internato e che abbia superato gli esami prescritti per il primo anno potra' ottenere l'iscrizione al secondo anno di corso.  
+L'allievo che non abbia ottenuto le attestazioni di frequenza annuali non potra' sostenere i relativi esami di profitto e dovra' ripetere l'anno con conseguente pagamento di tutte le tasse, soprattasse e contributi.  
+L'allievo che abbia ottenuto le attestazioni di frequenza annuali e che non abbia superato gli esami di profitto annuali, non potra' essere ammesso all'anno di corso successivo, ma sara' iscritto fuori corso.  
+Art. 160. - L'allievo che fa domanda di trasferimento da altra Universita' potra' essere ammesso alla Scuola, con deliberazione della Facolta' e su parere favorevole del direttore della Scuola, purche' vi siano posti disponibili. Se non concorrono queste condizioni, i documenti verranno restituiti d'ufficio all'Universita' di provenienza.  
+Art. 161. - Al termine di ogni anno gli iscritti dovranno sostenere un esame di profitto comprensivo delle materie insegnante in ciascun anno.  
+Le domande di esame di profitto dovranno essere presentate nei termini che saranno stabiliti all'inizio di ogni sessione con apposito manifesto e dovranno essere accompagnate dal libretto di iscrizione con le prescritte attestazioni di frequenza.  
+Art. 162. - Per essere ammesso all'esame di diploma, l'allievo dovra' dimostrare di aver regolarmente seguito i corsi e superato tutti gli esami di profitto dei due anni di corso. L'esame di diploma consiste nella discussione orale di una dissertazione scritta su di un tema approvato in precedenza dal direttore della Scuola, corredata da rilievi clinici o sperimentali personali.  
+Il titolo della dissertazione, firmato dal professore relatore e controfirmato dal direttore della Scuola, deve essere depositato in segreteria entro i termini di tempo che verranno stabiliti.  
+La dissertazione scritta, in quattro copie, deve essere depositata in segreteria almeno quindici giorni prima dell'esame di diploma.  
+L'allievo respinto all'esame di diploma puo' ripresentarsi alla prova soltanto dopo due anni.  
+Art. 163. - La Commissione per gli esami di profitto, composta da non meno di tre membri, compreso un libero docente, e' nominata dal direttore della Scuola.  
+La Commissione per l'esame di diploma e' costituita da sette membri, nominati dal preside di Facolta', udito il direttore della Scuola.  
+1° anno:  
+(comprende una serie di sette materie a carattere teorico-informativo):  
+1) Anatomia funzionale del sistema motore:  
+a) i livelli sopraspinali;  
+b) la via finale comune;  
+c) la regolazione riflessa del movimento;  
+d) il tono muscolare e i dispositivi regolatori;  
+e) la giunzione mioneurale;  
+f) caratteristiche fisiche e fisiologiche del tessuto muscolare;  
+g) anatomo-fisiologia dello scheletro (ossa, articolazioni).  
+2) Chinesiologia:  
+a) Innervazione, inserzione dei muscoli e meccanismi articolari;  
+b) Sinergie muscolari, la coppia agonista-antagonista, la innervazione reciproca;  
+c) Meccanica dell'azione muscolare segmentate;  
+d) Meccanica della statica e della locomozione;  
+e) metodiche di esplorazione delle varie turbe motorie e criteri di valutazione della perdita funzionale;  
+I tests di livello psicomotorio.  
+3) Semeiologia e clinica delle motulesioni neurologiche:  
+a) di origine piramidale;  
+b) di origine extrapiramidale;  
+c) del motoneurone periferico;  
+d) lesioni muscolari primitive;  
+e) la vescica neurologica.  
+4) Semeiologia e clinica delle deformita' e motulesioni ortopediche:  
+La trattazione si riferisce ai diversi aspetti della patologia ortopedica e traumatologica suscettibili di trattamento rieducazionale.  
+5) Fisiopatologia e clinica dei disturbi della fonazione e del linguaggio.  
+6) Fisiopatologia e clinica dei disturbi della visione.  
+7) Elettrologia neuromuscolare:  
+a) Elettrodiagnostica tradizionale, cronassimetria, curve i/t;  
+b) Elettromiografia (specie emg chinesiologica);  
+c) Elettroterapia.  
+2° anno:  
+(comprende una serie di sette materie a carattere pratico-applicativo).  
+1) Tecniche terapeutiche con agenti fisici:  
+Vengono prese in considerazione tutte le tecniche di terapia fisica utilizzanti agenti naturali o artificiali (calore, clima, bagni, radiazioni, radar, ultrasuoni, ecc.).  
+2) Tecniche di chinesiterapia:  
+(massaggi, meccanoterapia, mobilizzazione attiva e passiva, ginnastica medica preventiva e correttiva, allenamento, fisiochinesiterapia respiratoria, ecc. ecc.).  
+3) Rieducazione motoria e riabilitazione in campo neurologico:  
+Indicazione dei vari tipi di trattamento fisiochinesiologico e problemi di inserimento professionale e sociale nelle varie forme di motulesione neurologica.  
+4) Rieducazione motoria e riabilitazione in campo ortopedico:  
+Indicazione dei vari tipi di trattamento fisiochinesiologico e problemi di inserimento professionale e sociale nelle varie forme di motulesione ortopedica.  
+5) Rieducazione della fonazione e del linguaggio:  
+Problemi terapeutici e sociali nel laringectomizzato, nel dislalico, nell'afasico, nell'aprassico, nell'agnosico, ecc. ecc.  
+6) Rieducazione della visione.  
+7) Nozioni di neurochirurgia.  
+(trattamento della spasticita' e delle turbe discinotiche e di Chirurgia ortopedica (plastiche, trasposizione ossee e muscolari, protesi, ecc.).  
+Dopo l'art. 163, e con il conseguente spostamento della numerazione successiva, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Chirurgia toracica.  
+  
+Scuola di specializzazione in Chirurgia toracica  
+  
+Art. 164. - Alla Facolta' di medicina e chirurgia e annessa la Scuola di specializzazione in Chirurgia toracica.  
+Art. 165. - La durata del corso degli studi per il conseguimento del diploma di specializzazione in Chirurgia toracica e' di due anni.  
+Il numero degli iscritti alla Scuola e' fissato ad un massimo di otto per il primo anno di corso.  
+Art. 166. - Possono ottenere l'iscrizione alla Scuola previo esame di ammissione, i laureati in Medicina e chirurgia che siano in possesso della libera docenza in Semeiotica o Patologia o Clinica chirurgica o naturalmente di quella in Chirurgia toracica, o del diploma di specialista in Chirurgia generale.  
+Art. 167. - Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali, e di un internato obbligatorio.  
+Art. 168. - Gli insegnamenti impartiti dalla Scuola sono i seguenti:  
+1) Anatomia chirurgica del torace e degli organi in esso contenuti;  
+2) Fisiologia e fisiopatologia degli organi endotoracici;  
+3) Semeiotica (medica, endoscopica, radiologica, funzionale dell'apparato respiratorio e del mediastino);  
+4) Semeiotica dell'apparato cardiovascolare (medica, strumentale, radiologica e di laboratorio);  
+5) Patologia dell'apparato cardiocircolatorio (biennale);  
+6) Patologia del mediastino e degli organi in esso contenuti (biennale);  
+7) Patologia dell'apparato respiratorio (biennale);  
+8) Anatomia patologica del torace e degli organi endotoracici;  
+9) Principi di anestesia e di rianimazione in chirurgia toracica;  
+10) Terapia chirurgica e tecnica operatoria per le affezioni endotoraciche (biennale);  
+11) Fisioterapia (biennale).  
+Art. 169. - La frequenza alle lezioni e alle conferenze come pure il periodo di internato sono obbligatori.  
+Art. 170. - Alla fine di ciascun anno accademico gli specializzandi che abbiano ottenuto le firme di frequenza dovranno sostenere gli esami di profitto nelle materie di insegnamento il cui superamento e' condizione indispensabile per l'iscrizione all'anno successivo.  
+Sono esami del primo anno quelli relativi agli insegnamenti annuali. Per le materie biennali i relativi esami saranno sostenuti alla fine del biennio.  
+Art. 171. - Alla fine del corso ha luogo l'esame di diploma secondo le norme speciali per le Scuole di specializzazione della Facolta'.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 giugno 1972
+### Dato a Roma, addi' 31 ottobre 1963
 
-LEONE MISASI
+SEGNI GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 31 luglio 1972
+Registrato alla Corte dei conti, addi' 18 dicembre 1963
 
-Atti del Governo, registro n. 250, foglio n. 102. - CARUSO
+Atti del Governo, registro n. 178, foglio n. 142. - VILLA

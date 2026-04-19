@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1978 n. 427
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1981 n. 462
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1978 n. 427
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1981 n. 462
 =============================================================
 
 Autorizzazione all'Associazione nazionale alpini, in Milano, ad accettare una donazione.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-427. Decreto del Presidente della Repubblica 8 luglio 1978, col quale, sulla proposta del Ministro della difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad accettare la donazione, consistente in un terreno con sovrastante fabbricato rurale di due piani fuori terra piu' sottotetto, situato nel comune di Gavardo (Brescia), localita' Monticelli, e distinto nel catasto terreni alla partita 2248 con i mappali 297, 299, 300 e 1935, di Ha 1.84.60, disposta dalla sig. Lucia Guatta, con atto pubblico 10 agosto 1977, n. 8009 di repertorio e n. 3424 di raccolta, a rogito dott. Giancarlo De Rossi, notaio in Gavardo.  
+462. Decreto del Presidente della Repubblica 29 maggio 1981, col quale, sulla proposta del Ministro della difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad accettare la donazione, consistente in un terreno in comune di Cologne (Brescia), distinto nel catasto terreni alla partita 1407, foglio 3, mappale 102, esteso Ha 0.83.00, disposta, in regime di comunione legale tra coniugi, dai signori Cenci professore Nelson e Cesareo Jolanda con atto pubblico 13 ottobre 1979, n. 85575/7671 di repertorio, a rogito dott. Giuseppe Scalvi, notaio in Chiari (Brescia), registrato a Chiari il 2 novembre successivo al n. 1294, mod. I, vol. VIII.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 5 agosto 1978  
-Registro n. 23 Difesa, foglio n. 154
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 3 agosto 1981  
+Registro n. 24 Difesa, foglio n. 212

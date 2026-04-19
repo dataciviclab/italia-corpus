@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1966 n. 136
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1964 n. 1044
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1966 n. 136
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1964 n. 1044
+==============================================================
 
 Autorizzazione all'Unione italiana dei ciechi ad accettare una eredita'.
 ------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-136. Decreto del Presidente della Repubblica 7 febbraio 1966, col quale, sulla proposta del Presidente dei Consiglio dei Ministri, l'Unione italiana dei ciechi viene autorizzata ad accettare, col beneficio di inventario, l'eredita' disposta dal defunto sig.  
-Antonio Spolveretti, con testamento olografo del 17 gennaio 1964 e annesso codicillo in data 10 febbraio 1964, a rogito dott. Giuseppe Gili, notaio residente a Torino, in data 20 marzo 1964, repertorio n. 49356, consistente in beni mobili ed immobili per oltre 400 milioni di lire.  
+1044. Decreto del Presidente della Repubblica 14 agosto 1964, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi viene autorizzata ad accettare, col beneficio d'inventario, la quota di eredita' disposta dalla defunta signora Anna Gaerber vedova Pritzi, con testamento olografo del 26 giugno 1958 e le relative due aggiunte del 25 aprile 1960 e del 7 luglio 1961, pubblicati per atto a rogito dott. Pietro Longi in data 29 luglio 1961, n. 35659 di rep. e al n. 8055 di raccolta.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 28 marzo 1966  
-Atti del Governo, registro n. 202, foglio n. 73. - VILLA
+Registrato alla Corte dei conti, addi' 12 ottobre 1964  
+Atti del Governo, registro n. 187, foglio n. 109. - VILLA

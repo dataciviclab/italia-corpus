@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 833
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 settembre 1980 n. 1127
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 833
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 settembre 1980 n. 1127
+=================================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-833. Decreto del Presidente della Repubblica 21 ottobre 1981, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione, consistente in un dipinto dell'autore Gregorio Sciltian, raffigurante "Bacco all'Osteria" il quale riveste un importante interesse artistico, disposta dal gr. uff. Maurizio Adreani, con atto 27 novembre 1978, n. 137047 di repertorio, a rogito del dott. Marco Serpi, notaio in Milano, da destinare alla soprintendenza speciale alla Galleria nazionale d'arte moderna e contemporanea in Roma.  
+1127. Decreto del Presidente della Repubblica 1 settembre 1980, col quale, sulla proposta del Ministro degli affari esteri, di concerto con il Ministro delle finanze, il Ministero delle finanze viene autorizzato ad accettare la donazione di un immobile sito in Montevideo, calle Paraguay n. 1177, da tempo sede dell'Istituto italiano di cultura, disposta dall'associazione "Pro cultura italiana en el Uruguay S.A." con atto di donazione 25 maggio 1970.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 29 dicembre 1981  
-Registro n. 25 Beni culturali, foglio n. 164
+Visto, il Guardasigilli: SARTI  
+Registrato alla Corte dei conti, addi' 16 gennaio 1981  
+Registro n. 1 Esteri, foglio n. 226

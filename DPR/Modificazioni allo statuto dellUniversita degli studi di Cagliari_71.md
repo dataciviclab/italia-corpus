@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 977
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1206
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 977
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1206
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,99 +18,243 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Cagliari e convalidati dal Consiglio universitario nazionale nei suoi pareri;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
-
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Gli articoli 128, 129, 130 relativi alla scuola di specializzazione in radiologia, sono abrogati e sostituiti dai seguenti:
 
+Scuola di specializzazione in radiologia
+
+Art. 128. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in radiologia e radiologia diagnostica con sede presso l'istituto radiologico.
+
+Art. 129. - La scuola di specializzazione in radiologia e radiologia diagnostica conferisce due diplomi:
+
+a) diploma di specialista in radiologia, che abilita all'esercizio specialistico della roentgen-diagnostica, della radioterapia e della medicina nucleare (diagnostica e terapia);
+
+b) diploma di specialista in radiologia diagnostica che abilita all'esercizio specialistico della roentgen-diagnostica.
+
+Gli anni di studio post-laurea necessari per conseguire il diploma di cui alle lettere a) sono 4, quelli di cui alla lettera b) sono 3.
+
+Il numero degli specializzandi da ammettere alla scuola per il corso quadriennale di "Radiologia", e per il corso triennale della "Radiodiagnostica" e' di complessivi 22.
+
+Art. 130. - Le materie obbligatorie per il conseguimento del diploma di specialista in radiologia sono le seguenti, cosi' distribuite negli anni del corso:
+
+1° Anno:
+
+1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;
+
+2) Nozioni sugli apparecchi ed istrumenti della radiologia;
+
+3) Anatomia radiologica normale;
+
+4) Fisiologia radiologica;
+
+5) Tecnica radiologica generale;
+
+6) Semeiotica radiologica generale;
+
+7) Fondamenti di radiobiologia;
+
+8) Nozioni di statistica e matematica.
+
+2° Anno:
+
+1) Tecnica e metodica dell'esame radiologico dei vari organi, apparati e sistemi;
+
+2) Semeiotica radiologica speciale e diagnosi differenziale;
+
+3) Fondamenti di radioterapia;
+
+4) Danni da radiazioni e mezzi di protezione;
+
+5) Dimostrazioni cliniche di diagnostica radiologica;
+
+6) Dimostrazioni cliniche di radioterapia.
+
+3° Anno:
+
+1) Diagnostica radiologica differenziale;
+
+2) Dimostrazioni di casistica di roentgen-diagnostica, con il confronto del quadro anatomo-patologico;
+
+3) Dimostrazioni di casistica di radioterapia con particolare riguardo alla anatomia patologica;
+
+4) Radioterapia tradizionale. Curieterapia;
+
+5) Radioterapia con alte energie;
+
+6) Elementi di medicina nucleare;
+
+7) Istrumentario, tecnica e metodica di applicazione;
+
+8) Dosimetria.
+
+4° Anno:
+
+1) Moderne tecniche di esplorazione e terapia radiologica;
+
+2) Diagnostica o terapia con isotopi radioattivi somministrati per via interna;
+
+3) Radiodiagnostica e radioterapia clinica con dimostrazioni di casistica;
+
+4) Medicina legale e legislazione sanitaria in relazione alla radiologia.
+
+Le materie obbligatorie per il conseguimento del diploma di specializzazione in radiologia diagnostica sono le seguenti, cosi' distribuite negli anni di corso:
+
+1° Anno:
+
+1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;
+
+2) Nozioni sugli apparecchi ed istrumenti della radiologia;
+
+3) Anatomia radiologica normale;
+
+4) Fisiologia radiologica;
+
+5) Tecnica radiologica generale;
+
+6) Semeiotica radiologica generale;
+
+7) Fondamenti di radiobiologia;
+
+8) Nozioni di statistica e matematica;
+
+2° Anno:
+
+1) Metodica ed esplorazione dei vari organi ed apparati;
+
+2) Semeiotica radiologica speciale e diagnosi differenziale;
+
+3) Nozioni generali sulle lesioni da radiazioni e mezzi di protezione;
+
+4) Moderne tecniche di esplorazione radiologica.
+
+3° Anno:
+
+1) Esplorazione radiologica nella patologia dei vari organi ed apparati. Diagnostica differenziale. Rapporti con l'anatomia patologica;
+
+2) Radiodiagnostica clinica;
+
+3) Medicina legale e legislazione sanitaria in relazione alla radiologia.
+
+Alla fine di ogni anno gli allievi dei due corsi sosterranno un esame obbligatorio di ammissione all'anno successivo, costituito da prove teoriche e tecniche, sulle materie di insegnamento. Alla fine dell'ultimo anno di corso gli allievi sosterranno un esame di profitto per essere ammessi alla discussione della tesi di diploma.
+
+L'insegnamento agli allievi sara' integrato ogni anno da conferenze, esercitazioni o seminari.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 30 ottobre 1970
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 19 gennaio 1971 Atti del Governo, registro n. 240, foglio n. 74. - CARUSO
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Gli articoli 101, 102, 103, 104, 105, 106 e 107, relativi al corso di perfezionamento in archeologia e storia dell'arte, sono soppressi e sostituiti dai seguenti:  
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Corso di perfezionamento in archeologia e storia dell'arte  
-Art. 101. - Presso la facolta' di lettere e filosofia, con sede nell'istituto di antichita' archeologia e arte, sono istituiti corsi biennali di perfezionamento in archeologia e storia dell'arte.  
-Il corso di perfezionamento in archeologia si articola nell'indirizzo paletnologico e nell'indirizzo archeologico.  
-Scopo dei corsi e' di permettere l'approfondimento dello studio dell'archeologia e della storia dell'arte, e, in particolare, di preparare i laureati all'esercizio della funzione di tutela del patrimonio archeologico e artistico nell'ambito delle soprintendenze archeologica e ai beni architettonici, storici e dell'ambiente.  
-Art. 102. - Ai corsi possono iscriversi i laureati nella facolta' di lettere e filosofia, magistero e architettura.  
-Il consiglio di facolta', su motivata proposta del direttore dei corsi, puo' concedere l'iscrizione a laureati di altre facolta' o istituti superiori.  
-Per l'ammissione ai corsi e' richiesto un colloquio nelle discipline fondamentali di ciascun corso e indirizzo.  
-Art. 103. - a) Sono materie fondamentali per il corso di archeologia, indirizzo paletnologico (e complementari per gli altri corsi e indirizzi):  
-1) paletnologia;  
-2) antichita' sarde.  
-b) Sono materie fondamentali per il corso di archeologia, indirizzo archeologico (e complementari per gli altri corsi e indirizzi):  
-1) archeologia e storia dell'arte greca;  
-2) archeologia e storia dell'arte romana.  
-c) Sono materie fondamentali per il corso di storia dell'arte (e complementari per gli altri corsi e indirizzi):  
-1) storia dell'arte medioevale;  
-2) storia dell'arte moderna.  
-Sono materie complementari per entrambi i corsi:  
-1) antichita' greche e romane;  
-2) archeologia cristiana;  
-3) archeologia fenicio-punica;  
-4) archeologia delle province romane;  
-5) archeologia medioevale;  
-6) epigrafia greca;  
-7) epigrafia latina;  
-8) estetica;  
-9) etruscologia e antichita' italiche;  
-10) legislazione sulla tutela del patrimonio archeologico e artistico;  
-11) museografia e museologia;  
-12) numismatica antica;  
-13) numismatica medioevale e moderna;  
-14) paleografia e diplomatica;  
-15) preistoria e protostoria europea;  
-16) preistoria e protostoria mediterranea;  
-17) semitistica;  
-18) storia contemporanea;  
-19) storia dell'arte contemporanea;  
-20) storia dell'arte in Sardegna;  
-21) storia dell'Asia anteriore e del vicino Oriente;  
-22) storia del cinema;  
-23) storia della critica d'arte;  
-24) storia della musica;  
-25) storia della Sardegna;  
-26) storia delle religioni;  
-27) storia delle tecniche artistiche;  
-28) storia delle tradizioni popolari;  
-29) storia del teatro e dello spettacolo;  
-30) storia e tecnica del restauro;  
-31) storia greca;  
-32) storia medioevale;  
-33) storia romana;  
-35) topografia antica;  
-36) urbanistica.  
-Art. 104. - Sono obbligatori l'iscrizione e la frequenza e il superamento dell'esame nelle materie fondamentali e di tre complementari scelte dal candidato d'accordo con il docente della materia della dissertazione finale prescelta entro il 31 dicembre del primo anno. I perfezionandi sono tenuti a partecipare anche a esercitazioni e ricerche di tipo specialistico inerenti alle discipline che fanno oggetto d'esame.  
-L'anno di corso non e' valido se lo studente non avra' preso l'iscrizione ad almeno due corsi di insegnamento e sostenuto due esami nel primo anno. Alla fine dei corsi e' prevista la preparazione di una dissertazione, da discutere davanti a una commissione composta da almeno tre dei cinque docenti ufficiali delle materie scelte dal candidato. La commissione e' costituita dal rettore, su proposta del direttore dei corsi, informandone il direttore dell'istituto di antichita' archeologia e arte e il preside della facolta' di lettere e filosofia.  
-Al termine dei corsi, dopo il superamento di tutti gli esami, viene rilasciato un diploma di perfezionamento, nel quale saranno indicati il corso e l'indirizzo seguito.  
-Art. 105. - La direzione dei corsi e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nei corsi stessi. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nei corsi medesimi.  
-Il direttore dei corsi e' nominato dalla facolta' di lettere e filosofia su proposta del direttore dell'istituto di antichita' archeologia e arte. L'incarico di direttore e' triennale e puo' essere rinnovato.  
-Art. 106. - I diplomati in uno dei corsi che intendessero iscriversi ad altro corso, saranno ammessi direttamente al secondo anno con l'obbligo di sostenere, oltre l'esame di dissertazione, gli esami normali stabiliti, caso per caso, dal direttore dei corsi, udito il consiglio di facolta'. Eventuali altri titoli dei diplomati potranno essere presi in considerazione dal consiglio di facolta', caso per caso, ai fini di eventuale abbreviazione dei corsi e dispensa da esami.  
-Art. 107. - Per l'iscrizione a ciascuno dei corsi e' previsto il pagamento di tasse e soprattasse pari al doppio di quelle richieste per il corso di laurea in lettere e filosofia. La ripartizione delle tasse e soprattasse pagate dagli allievi dei corsi sara' disposta dal consiglio di amministrazione dell'Universita'.  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 128, 129, 130 relativi alla scuola di specializzazione in radiologia, sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in radiologia  
+  
+Art. 128. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in radiologia e radiologia diagnostica con sede presso l'istituto radiologico.  
+Art. 129. - La scuola di specializzazione in radiologia e radiologia diagnostica conferisce due diplomi:  
+a) diploma di specialista in radiologia, che abilita all'esercizio specialistico della roentgen-diagnostica, della radioterapia e della medicina nucleare (diagnostica e terapia);  
+b) diploma di specialista in radiologia diagnostica che abilita all'esercizio specialistico della roentgen-diagnostica.  
+Gli anni di studio post-laurea necessari per conseguire il diploma di cui alle lettere a) sono 4, quelli di cui alla lettera b) sono 3.  
+Il numero degli specializzandi da ammettere alla scuola per il corso quadriennale di "Radiologia", e per il corso triennale della "Radiodiagnostica" e' di complessivi 22.  
+Art. 130. - Le materie obbligatorie per il conseguimento del diploma di specialista in radiologia sono le seguenti, cosi' distribuite negli anni del corso:  
+1° Anno:  
+1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;  
+2) Nozioni sugli apparecchi ed istrumenti della radiologia;  
+3) Anatomia radiologica normale;  
+4) Fisiologia radiologica;  
+5) Tecnica radiologica generale;  
+6) Semeiotica radiologica generale;  
+7) Fondamenti di radiobiologia;  
+8) Nozioni di statistica e matematica.  
+2° Anno:  
+1) Tecnica e metodica dell'esame radiologico dei vari organi, apparati e sistemi;  
+2) Semeiotica radiologica speciale e diagnosi differenziale;  
+3) Fondamenti di radioterapia;  
+4) Danni da radiazioni e mezzi di protezione;  
+5) Dimostrazioni cliniche di diagnostica radiologica;  
+6) Dimostrazioni cliniche di radioterapia.  
+3° Anno:  
+1) Diagnostica radiologica differenziale;  
+2) Dimostrazioni di casistica di roentgen-diagnostica, con il confronto del quadro anatomo-patologico;  
+3) Dimostrazioni di casistica di radioterapia con particolare riguardo alla anatomia patologica;  
+4) Radioterapia tradizionale. Curieterapia;  
+5) Radioterapia con alte energie;  
+6) Elementi di medicina nucleare;  
+7) Istrumentario, tecnica e metodica di applicazione;  
+8) Dosimetria.  
+4° Anno:  
+1) Moderne tecniche di esplorazione e terapia radiologica;  
+2) Diagnostica o terapia con isotopi radioattivi somministrati per via interna;  
+3) Radiodiagnostica e radioterapia clinica con dimostrazioni di casistica;  
+4) Medicina legale e legislazione sanitaria in relazione alla radiologia.  
+Le materie obbligatorie per il conseguimento del diploma di specializzazione in radiologia diagnostica sono le seguenti, cosi' distribuite negli anni di corso:  
+1° Anno:  
+1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;  
+2) Nozioni sugli apparecchi ed istrumenti della radiologia;  
+3) Anatomia radiologica normale;  
+4) Fisiologia radiologica;  
+5) Tecnica radiologica generale;  
+6) Semeiotica radiologica generale;  
+7) Fondamenti di radiobiologia;  
+8) Nozioni di statistica e matematica;  
+2° Anno:  
+1) Metodica ed esplorazione dei vari organi ed apparati;  
+2) Semeiotica radiologica speciale e diagnosi differenziale;  
+3) Nozioni generali sulle lesioni da radiazioni e mezzi di protezione;  
+4) Moderne tecniche di esplorazione radiologica.  
+3° Anno:  
+1) Esplorazione radiologica nella patologia dei vari organi ed apparati. Diagnostica differenziale. Rapporti con l'anatomia patologica;  
+2) Radiodiagnostica clinica;  
+3) Medicina legale e legislazione sanitaria in relazione alla radiologia.  
+Alla fine di ogni anno gli allievi dei due corsi sosterranno un esame obbligatorio di ammissione all'anno successivo, costituito da prove teoriche e tecniche, sulle materie di insegnamento. Alla fine dell'ultimo anno di corso gli allievi sosterranno un esame di profitto per essere ammessi alla discussione della tesi di diploma.  
+L'insegnamento agli allievi sara' integrato ogni anno da conferenze, esercitazioni o seminari.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 30 ottobre 1970
 
-PERTINI BODRATO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 9 febbraio 1982
+Registrato alla Corte dei conti, addi' 19 gennaio 1971
 
-Registro n. 20 Istruzione, foglio n. 234
+Atti del Governo, registro n. 240, foglio n. 74. - CARUSO

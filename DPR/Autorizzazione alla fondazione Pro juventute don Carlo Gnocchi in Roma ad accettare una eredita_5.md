@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 264
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1977 n. 581
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 264
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1977 n. 581
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad ac
 Art. 1
 ------
 
-n.
+N.
 
-264. Decreto del Presidente della Repubblica 10 marzo 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita' consistente nella quota di 1/4 di titoli azionari e del ricavato della vendita di beni immobili per un valore complessivo di L. 96.064.590, quota 1/4 L. 24.016.130, disposta dalla signora Raspini Carolina con testamento olografo 28 marzo 1971 e codicilli del 21 ottobre 1975, 22 marzo 1977 e 18 febbraio 1978, pubblicati in data 20 febbraio 1979, n. 13746/6348 di repertorio, a rogito dott. Renzo Chiavistelli, notaio in Scarperia (Firenze), registrato a Borgo San Lorenzo (Firenze), in data 23 febbraio 1979 al n. 379.  
+581. Decreto del Presidente della Repubblica 12 luglio 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita disposta dalla sig.ra Gabriella Ponzone ved. Forni con testamento olografo 31 maggio 1972, pubblicato a rogito del notaio dott. Luigi Gambaro di Genova il 30 novembre 1973, n. 17629 di repertorio e n. 2258 di raccolta, registrato a Genova il 6 dicembre 1973 al n. 19951, consistente nella proprieta' di un fabbricato sito in Genova, via Felice Romani n. 9 e via Gropallo n. 16, iscritto al nuovo catasto edilizio urbano alla partita 38149, foglio 18, mappali numeri 176 e 177, ed al catasto terreni al foglio n. 48, mappale 187 per mq 55 e mappale 188 per mq 1830, totale superficie coperta e scoperta mq 1885, per un valore complessivo di L. 205.750.000; in titoli per un valore di lire 17.675.650 e in un c/c di L. 961.000; il tutto, detratte spese d'inventario, registrazioni ed onorari, per un importo complessivo di L. 213.794.432.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 6 giugno 1986  
-Registro n. 5 Presidenza, foglio n. 82
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 17 agosto 1977  
+Registro n. 17 Presidenza, foglio n. 88

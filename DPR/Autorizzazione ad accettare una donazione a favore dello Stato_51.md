@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1978 n. 989
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 1143
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1978 n. 989
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 1143
+=================================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-989. Decreto del Presidente della Repubblica 5 dicembre 1978, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione della donazione a favore dello Stato e, per esso, della biblioteca statale di Lucca, disposta dal prof. Gaetano Campetti con atto di donazione pubblicato in data 1 febbraio 1978, n. 939/416 di repertorio a rogito dott. Massimo Barsanti, notaio in Lucca, consistente nel registro manoscritto "Cronaca Buonfigli" di complessive carte 256.  
+1143. Decreto del Presidente della Repubblica 22 settembre 1981, col quale, sulla proposta del Ministro delle finanze, viene autorizzata la accettazione della donazione a favore dello Stato, consistente in un appezzamento di terreno di mq. 645, sito in Acireale (Catania), localita' Capomulini, sul quale insistono i ruderi di un tempietto romano, disposta dal sig. Lo Giudice Roberto con atto pubblico 4 luglio 1964, n. 69232 di repertorio, a rogito dott. Cosimo Pulvirenti, notaio in Catania, e successivo atto di rettifica 9 luglio 1964, n. 69482 di repertorio, a rogito del medesimo notaio.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 7 febbraio 1979  
-Registro n. 1 Beni culturali, foglio n. 232
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 5 febbraio 1982  
+Registro n. 6 Finanze, foglio n. 69

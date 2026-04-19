@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1133
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 934
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1133
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 934
+==============================================================
 
 Assegnazione di due posti di tecnico laureato presso l'Universita' degli studi di Napoli.
 -----------------------------------------------------------------------------------------
@@ -12,11 +12,8 @@ Art. 1
 
 N.
 
-1133. Decreto del Presidente della Repubblica 23 dicembre 1983, col quale, sulla proposta del Ministro della pubblica istruzione, due posti disponibili nel ruolo dei tecnici laureati vengono assegnati all'Universita' di Napoli come segue:  
+934. Decreto del Presidente della Repubblica 21 ottobre 1981, col quale, sulla proposta del Ministro della pubblica istruzione, due posti disponibili nel ruolo dei tecnici laureati vengono assegnati alla seconda facolta' di medicina e chirurgia dell'Universita' di Napoli: uno alla clinica fisiologica e delle malattie dell'apparato respiratorio e uno alla clinica oculistica.  
   
-Facolta' di scienze politiche:  
-istituto sociologico giuridico. . . . . . . . . . . . . . . . posti 1 Facolta' di architettura:  
-istituto di metodologia architettonica per le esigenze della cattedra di composizione architettonica III. . . . . . . . . . . . . . posti 1   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 7 aprile 1984  
-Registro n. 21 Istruzione, foglio n. 208
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 9 febbraio 1982  
+Registro n. 20 Istruzione, foglio n. 235

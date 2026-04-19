@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 aprile 1970 n. 583
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1970 n. 944
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 aprile 1970 n. 583
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1970 n. 944
 =============================================================
 
 Donazione di un appezzamento di terreno a favore dello Stato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-583. Decreto del Presidente della Repubblica 20 aprile 1970, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione disposta a favore dello Stato dal comune di Rialto, con atto per notar Paolo Di Giovanni di Vado Ligure 3 ottobre 1966, n. 28771 di rep., di un appezzamento di terreno di mq. 27.780, gia' da tempo utilizzato per la costituzione del vivaio forestale denominato "Pian dei Corsi".  
+944. Decreto del Presidente della Repubblica 16 luglio 1970, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione disposta a favore dello Stato dal comune di Siniscola con atto 8 luglio 1965, n. 49180 di rep., per notar Bartolomeo Serra di Nuoro, di una striscia di terreno della superficie di mq. 118,50 sito in detto comune, necessario per l'ampliamento dell'adiacente casermetta della guardia di finanza.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 4 agosto 1970  
-Atti del Governo, registro n. 237, foglio n. 3. - CARUSO
+Registrato alla Corte dei conti, addi' 27 novembre 1970  
+Atti del Governo, registro n. 238, foglio n. 138. - CARUSO

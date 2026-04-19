@@ -1,72 +1,111 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 858
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969 n. 423
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 858
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969 n. 423
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Gli articoli 253, 254, 256, 257, relativi alla scuola di perfezionamento in scienza e tecnica delle piante medicinali, annessa alla facolta' di farmacia, sono sostituiti dai seguenti:  
-Art. 253. - Alla facolta' di farmacia e' annessa una scuola di specializzazione in scienza e tecnica delle piante medicinali.  
-La scuola si propone di preparare un personale specializzato atto a coprire l'ufficio di esperto erborista provinciale e ad assumere incarichi dirigenziali presso enti pubblici e privati nel campo di pertinenza.  
-Art. 254. - Possono essere ammessi alla scuola i laureati in chimica e tecnologia farmaceutiche, in farmacia, in chimica e farmacia, i laureati in scienze agrarie ed in scienze forestali, i laureati in scienze naturali e in scienze biologiche.  
-Art. 256. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) complementi di botanica farmaceutica;  
-2) genetica, con speciale riguardo alle piante medicinali ed aromatiche (semestrale);  
-3) botanica fitognostica ed erboristica;  
-4) ecologia e fitogeografia con speciale riguardo alle piante medicinali ed aromatiche (semestrale);  
-5) complementi di agronomia e tecnica delle coltivazioni delle piante medicinali ed aromatiche;  
-6) patologia delle piante medicinali ed aromatiche;  
-7) complementi di chimica organica vegetale.  
-2° Anno:  
-8) farmacognosia generale e speciale;  
-9) farmacologia speciale delle droghe;  
-10) tecnica farmaceutica speciale per le preparazioni ricavate da droghe o da derivati di droghe;  
-11) industria e commercio erboristico;  
-12) analisi delle piante medicinali;  
-13) identificazione di costituenti delle piante medicinali.  
-Art. 257. - I corsi sono integrati da esercitazioni pratiche da erborizzazioni in campagna e da gite di istruzione.  
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
+  
+Decreta:   
+  
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 51. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:   
+  
+Archeologia delle province romane;   
+Civilta' egee;   
+Geografia regionale;   
+Epigrafia latina;   
+Geografia storica del mondo antico;   
+Archeologia orientale;   
+Filologia biblica;   
+Filologia semitica;   
+Archeologia e storia dell'arte del vicino oriente antico;   
+Storia della geografia;   
+Lingue indoeuropee dell'Italia antica;   
+Linguistica matematica;   
+Fonetica generale e sperimentale;   
+Filologia armena;   
+Filologia baltica;   
+Filologia egeo-anatolica;   
+Storia dell'arte fiamminga e olandese;   
+Storia del disegno e della grafica;   
+Storia della miniatura;   
+Archeologia e storia dell'arte medioevale;   
+Storia dell'arte contemporanea;   
+Archeologia medioevale;   
+Storia economica del mondo antico;   
+Istituzioni giuridiche greche;   
+Filologia italiana;   
+Lingua e letteratura catalana;   
+Filologia ispanica;   
+Storia della filologia germanica;   
+Storia ed istituzioni nord-americane;   
+Storia ed istituzioni dell'Africa;   
+Storia ed istituzioni dell'Asia;   
+Storia e istituzioni latino-americane;   
+Storia e istituzioni dei paesi arabi;   
+Storia della scienza e della tecnica;   
+Storia dell'eta' industriale e delle industrializzazioni moderne;  
+Storia delle istituzioni;   
+Storia economica;   
+Storia dell'agricoltura.   
+Art. 52, - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:   
+  
+Storia ed Istituzioni nord-americane;   
+Storia ed istituzioni latino-americane;   
+Storia ed istituzioni dell'Africa;   
+Storia ed istituzioni dell'Asia;   
+Storia ed istituzioni dei paesi arabi;   
+Storia della scienza e della tecnica;   
+Storia dell'eta' industriale e delle industrializzazioni moderne;  
+Logica;   
+Storia della logica;   
+Filosofia della scienza;   
+Psicologia dell'eta' evolutiva;   
+Storia della psicologia;   
+Storia della filosofia italiana;   
+Storia della filosofia dell'India e dell'Estremo Oriente;   
+Storia della filosofia araba;   
+Storia della filosofia ebraica;   
+Sociologia;   
+Storia della sociologia;   
+Antropologia culturale;   
+Storia delle istituzioni;   
+Storia economica;   
+Storia dell'agricoltura.   
+Art. 53. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniero moderne (indirizzo europeo) sono aggiunti i seguenti:   
+  
+Filologia italiana;   
+Lingua e letteratura catalana;   
+Filologia ispanica;   
+Storia della filologia germanica.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1979
+### Dato a Roma, addi' 29 maggio 1969
 
-PERTINI VALITUTTI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 20 marzo 1980
+Registrato alla Corte dei conti, addi' 18 luglio 1969
 
-Registro n. 24 Istruzione, foglio n. 159
+Atti del Governo, registro n. 228, foglio n. 31. - CARUSO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1969 n. 247
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1953 n. 570
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1969 n. 247
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1953 n. 570
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -10,52 +10,76 @@ Modificazioni allo statuto dell'Universita' degli studi di Roma.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), modificato con [regi decreti 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-26;1734); [26 ottobre 1940, n. 2069](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2069); [4 maggio 1942, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-05-04;565); [24 luglio 1942, n. 949](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-24;949); [24 agosto 1942, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-08-24;1098); [24 ottobre 1942, n. 1672, con decreto luogotenenziale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo.luogotenenziale:1942-10-24;1672) [8 febbraio 1946, n. 242, con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-02-08;242) [12 aprile 1947, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-12;461); [31 dicembre 1947, n. 1758 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1758) [24 dicembre 1948, n. 1619](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-12-24;1619); 18 luglio-1949, n. 882; 20 ottobre 1949, n. 989; 20 ottobre 1949, n. 991; 20 ottobre 1949, n. 1178; 30 ottobre 1949, n. 1152; 11 giugno 1950, n. 622; 16 novembre 1950, n. 1313; 11 maggio 1951, n. 653; 27 ottobre 1951, n. 1813; 14 aprile 1952, n. 888; 16 agosto 1952, n. 2589 e 19 settembre 1952, n. 1697;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e vedute le proposte di modifiche dello statuto formulato dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+L'art. 46 e' sostituito dal seguente:  
+"Per il corso di diploma in statistica, l'esame di statistica deve precedere gli esami di demografia, di antropometria, di statistica sanitaria, di statistica economica, di statistica giudiziaria e di statistica sociale.  
+Per il corso di laurea in scienze statistiche e demografiche, gli studenti provenienti da altre Universita', che non abbiano sostenuto esami di statistica o di statistica metodologica, devono sostenere l'esame di statistica prima di quello di statistica metodologica seguendo, ove non lo abbiano gia' fatto, il corso.  
+Per sostenere gli esami di calcolo delle probabilita' e di statistica metodologica deve essersi sostenuto prima o quello di analisi matematica (algebrica) o quello di elementi di matematica seguendo questo ultimo corso, ove cio' non sia stato fatto. L'esame di statistica metodologica deve precedere quelli di sviluppo della popolazione, di biometria, di statistica economica (corso superiore), di applicazioni della statistica alle scienze fisiche, di matematica attuariale e tecnica delle assicurazioni libere sulla vita umana.  
+Per il corso di laurea in scienze statistiche ed attuariali, gli studenti che non abbiano sostenuto esami di statistica o di statistica metodologica debbono sostenere l'esame di statistica con precedenza su tutti gli altri, seguendo il corso, ove non lo abbiano gia' fatto. L'esame di analisi matematica (algebrica) deve precedere quelli di calcolo delle probabilita' e di matematica attuariale e tecnica delle assicurazioni libere sulla vita umana.  
+L'esame di elementi di matematica deve precedere quello di statistica. L'esame di matematica attuariale e tecnica delle assicurazioni libere sulla vita umana deve precedere quello di assicurazioni sociali.  
+Le esercitazioni, per quelli insegnamenti per i quali sono prescritte, si compino nei rispettivi Istituti".  
+Dopo l'art. 58 e' aggiunto il seguente nuovo articolo, relativo alla creazione di alcuni Istituti presso la Facolta' di magistero, con il conseguente spostamento della numerazione degli articoli successivi.  
+Art. 59. - "Sono annessi alla Facolta' di magistero, i seguenti Istituti:  
+Per il gruppo A (materie letterarie) Istituto di letteratura italiana;  
+Istituto di lingua e letteratura latina;  
+Istituto di scienze storiche;  
+Istituto di scienze geografiche e cartografiche.  
+Per il gruppo A (lingue e letterature straniere):  
+Istituto di lingue e letterature straniere.  
+Per il gruppo B (pedagogia) e o (vigilanza scolastica):  
+Istituto di filosofia e di storia della filosofia;  
+Istituto di pedagogia".  
+1. a) L'Istituto di letteratura italiana e' ordinato a seminario ed ha lo scopo di addestrare i giovani negli studi filologici e critici relativi alla disciplina; b) utilizza a tal fine l'opera dei professori titolari, dei liberi docenti, degli assistenti ordinari, straordinari e volontari; c) esso e' diretto dal titolare della disciplina; d) l'istituto promuove ricerche e studi individuali e collettivi e ne cura eventualmente la pubblicazione; e) i requisiti per l'ammissione degli studenti all'Istituto sono stabiliti dal direttore.  
+2. a) L'istituto di lingua e letteratura latina e' ordinato a seminario ed ha lo scopo di addestrare i giovani negli studi filologici e critici relativi alla disciplina; b) utilizza a tal fine l'opera dei professori titolari, dei liberi docenti, degli assistenti ordinari, straordinari e volontari; c) esso e' diretto dal titolare della disciplina; d) l'Istituto promuove ricerche e studi individuali e collettivi e ne cura eventualmente la pubblicazione; e) i requisiti per l'ammissione degli studenti all'Istituto sono stabiliti dal direttore.  
+3. a) L'istituto di scienze storiche e' ordinato a seminario ed ha lo scopo di addestrare i giovani nelle ricerche storiche; b) utilizza a tal fine l'opera dei professori titolari, dei liberi docenti, degli assistenti ordinari, straordinari e volontari; c) Esso e' diretto dal titolare della cattedra di storia; d) l'Istituto promuove ricerche e studi individuali e collettivi e ne cura eventualmente la pubblicazione; e) i requisiti per l'ammissione degli studenti all'Istituto sono stabiliti dal direttore.  
+4. a) L'istituto di scienze geografiche e cartografiche e' ordinato a seminario ed ha lo scopo di addestrare i giovani nelle ricerche geografiche e cartografiche; b) utilizza a tal fine l'opera dei professori titolari dei liberi docenti, degli assistenti ordinari, straordinari e volontari; c) esso e' diretto dal titolare della cattedra di geografia; d) l'Istituto promuove ricerche e studi individuali e collettivi e ne cura eventualmente la pubblicazione; e) i requisiti per l'ammissione degli studenti all'Istituto sono stabiliti dal direttore.  
+5. a) L'Istituto di lingue e letterature straniere e' ordinato a seminario ed ha lo scopo di addestrare i giovani negli studi filologici e critici relativi alle lingue e letterature straniere: francese, inglese, tedesca e spagnola; b) utilizza a tal fine l'opera dei professori titolari, dei liberi docenti, degli assistenti ordinari, straordinari e volontari; c) esso e' diretto dal piu' anziano di grado fra i titolari delle quattro discipline; d) l'Istituto promuove ricerche individuali e collettive e ne cura eventualmente la pubblicazione; e) i requisiti per l'ammissione degli studenti all'Istituto sono stabiliti dal direttore.  
+6. a) L'Istituto di filosofia e di storia della filosofia e' ordinato a seminario ed ha lo scopo di addestrare i giovani negli studi filosofici; b) utilizza a tal fine l'opera dei professori titolari, dei liberi docenti, degli assistenti ordinari, straordinari e volontari: c) esso e' diretto dal piu' anziano di grado fra i titolari delle discipline; d) l'Istituto promuove ricerche e studi individuali e collettivi e ne cura eventualmente la pubblicazione; e) i requisiti per l'ammissione degli studenti all'istituto sono stabiliti dal direttore.  
+7. a) L'Istituto di pedagogia e' ordinato a seminario ed ha lo scopo di addestrare i giovani negli studi pedagogici; b) utilizza a tal fine l'opera dei professori titolari, dei liberi docenti, degli assistenti ordinari, straordinari e volontari; c) esso e' diretto dal titolare della cattedra di pedagogia; d) l'Istituto promuove ricerche e studi individuali e collettivi e ne cura eventualmente la pubblicazione; e) i requisiti per l'ammissione degli studenti all'Istituto sono stabiliti dal direttore.  
+Dopo l'attuale art. 393 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di perfezionamento in ematologia, con il conseguente spostamento della numerazione degli articoli successivi.  
   
-Art. 50, relativo alle norme concernenti gli esami per i corsi di laurea in scienze statistiche e demografiche, in scienze statistiche ed attuariali e per il diploma di statistica e' abrogato e sostituito dal seguente:   
-"L'esame di diploma consiste nella preparazione e discussione di una dissertazione scritta. L'argomento della dissertazione scritta viene scelto dal candidato tra le materie fondamentali e complementari delle quali abbia superato gli esami.   
-L'esame di laurea consiste nella preparazione e discussione di una dissertazione scritta su di un argomento scelto dal candidato tra le materie fondamentali e complementari delle quali abbia superato gli esami.   
-Il tema della dissertazione scritta deve essere approvato dal preside, sentito il professore della materia.   
-Il tema della dissertazione scritta deve essere presentato sei mesi prima della sessione di laurea".   
-Art. 230, relativo alle scuole di perfezionamento e di specializzazione istituite presso la facolta' di scienze statistiche demografiche ed attuariali, e' modificato nel senso che e' aggiunta la seguente:   
-scuola di perfezionamento in statistica sanitaria.   
-Dopo l'art. 246 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione e all'ordinamento della scuola di perfezionamento in statistica sanitaria.   
+Scuola di perfezionamento in ematologia  
   
-Scuola di perfezionamento in statistica sanitaria   
-  
-Art. 247. - Alla scuola sono ammessi i laureati in medicina e chirurgia ed i laureati in scienze statistiche e demografiche.   
-Art. 248. - La scuola di perfezionamento in statistica sanitaria ha la durata di due anni.   
-Art. 249. - L'ordine degli studi comprende insegnamenti comuni per tutti gli iscritti ed altri particolari rispettivamente per gli statistici e per i medici.   
-I corsi sono integrati da conferenze, da esercitazioni pratiche e da visite presso istituti e centri specializzati nella ricerca statistica.   
-Art. 250. - Sono materie comuni di insegnamento: 1) statistica sanitaria; 2) metodi statistici applicati alla biologia, alla medicina e alla farmacologia; 3) calcolo meccanografico ed elettronico; 4) statistica demografica e patologica; 5) statistica medica; 6) statistica dell'organizzazione igienico-sanitaria; 7) le rilevazioni statistiche nella sicurezza sociale; 8) epidemiologia della patologia umana; 9) sociologia sanitaria e sanita' pubblica.   
-Sono materie di insegnamento per i medici: 1) elementi di metodologia statistica; 2) demografia; 3) nozioni di calcolo delle probabilita'.   
-Sono materie di insegnamento per gli statistici: 1) elementi di biologia; 2) elementi di fisiologia; 3) elementi di patologia; 4) elementi di genetica.   
-Art. 251. - Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni e le esercitazioni al fine di ottenere l'attestato di frequenza per l'ammissione agli esami.   
-Art. 252. - Alla fine del corso degli studi gli iscritti, per conseguire il diploma in statistica sanitaria, dovranno presentare e discutere una dissertazione scritta su un argomento di statistica sanitaria, dinanzi ad una commissione costituita da insegnanti della scuola".   
+Art. 394. - E' istituita presso l'Istituto di clinica medica generale e terapia medica dell'Universita' di Roma, la Scuola di perfezionamento in ematologia.  
+Il corso degli studi ha la durata di due anni.  
+Art. 395. - Gli insegnamenti impartiti nella Scuola sono i seguenti:  
+1) morfologia e morfogenesi normale e patologica del sangue;  
+2) semeiotica fisica e funzionale;  
+3) biochimica ematologica;  
+4) immunoematologia;  
+5) anatomia e istologia patologica;  
+6) radiodiagnostica e radioterapia;  
+7) clinica ematologica;  
+8) terapia.  
+Vengono, inoltre, quotidianamente tenute, al letto del malato, esercitazioni di semeiotica clinica, di diagnostica differenziale e di terapia, nonche' esercitazioni teorico-pratiche nei laboratori.  
+Art. 396. - La frequenza alle lezioni e alle esercitazioni nei reparti e negli ambulatori e' obbligatoria.  
+Gli iscritti non possono essere ammessi agli esami se non abbiano ottenuto le relative attestazioni di frequenza.  
+Art. 397. - Gli esami di profitto vengono sostenuti alla fine di ciascun anno di corso, secondo le disposizioni che verranno stabilite nel manifesto della Scuola.  
+Gli iscritti non possono essere ammessi al secondo anno di corso se non abbiano superato gli esami di tutti gli insegnamenti prescritti per il primo anno.  
+Art. 398. - L'esame di diploma si svolge con le norme dell'attuale art. 302.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 marzo 1969
+### Dato a Roma, addi' 12 maggio 1953
 
-SARAGAT FERRARI AGGRADI
+EINAUDI SEGNI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: ZOLI
 
-Registrato alla Corte dei conti, addi' 21 maggio 1969
+Registrato alla corte dei Conti, addi' 8 agosto 1953
 
-Atti del Governo, registro n. 226, foglio n. 194. - GRECO
+Atti del Governo, registro n. 78, foglio n. 97. - CARLOMAGNO

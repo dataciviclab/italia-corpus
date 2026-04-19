@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1948 n. 202
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 marzo 1949 n. 254
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1948 n. 202
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 marzo 1949 n. 254
+============================================================
 
 Autorizzazione all'Universita' di Napoli ad accettare una donazione.
 --------------------------------------------------------------------
@@ -12,7 +12,7 @@ Art. 1
 
 N.
 
-202. Decreto del Presidente della Repubblica 14 febbraio 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Napoli viene autorizzata ad accettare la donazione della somma di L. 40.000 nominali, in buoni del Tesoro 4%, disposta in suo favore dall'avv. Verrotti Alberto di Arturo, con atto pubblico in data 8 febbraio 1947, per l'istituzione di un premio di studio biennale da intitolarsi al nome del "Prof. Giuseppe Verrotti" e da conferirsi allo studente che abbia discusso la migliore tesi di laurea in clinica dermosifilopatica, nella sessione estiva, presso l'Universita' di Napoli.  
+254. Decreto del Presidente della Repubblica 30 marzo 1949, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Napoli viene autorizzata ad accettare la donazione della somma di L. 60.000 nominali, in titoli di Stato del Prestito della ricostruzione 3,50%, disposta in suo favore, con atto pubblico amministrativo in data 20 agosto 1947, dagli eredi del prof. Giuseppe De Orecchio, per l'istituzione di un premio di studio da intitolarsi "Premio Giuseppe De Orecchio" e da conferirsi, ogni triennio, a quello tra gli assistenti volontari o interni dell'Istituto di medicina legale e delle assicurazioni dell'Universita' medesima, che, nel triennio precedente, abbia prodotto le migliori pubblicazioni nel campo di detta disciplina,.  
   
 Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 24 marzo 1948
+Registrato alla Corte dei conti, addi' 21 maggio 1949

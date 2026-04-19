@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 giugno 1965 n. 981
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1966 n. 122
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 giugno 1965 n. 981
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1966 n. 122
+===============================================================
 
 Autorizzazione all'Automobile Club d'Italia, con sede in Roma, ad acquistare un immobile.
 -----------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-981. Decreto del Presidente della Repubblica 9 giugno 1965, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile Club d'Italia, con sede in Roma, viene autorizzato ad acquistare in proprieta' dall'Automobile Club di Bolzano, per il prezzo di lire 14.000.000, la meta' indivisa della porzione materiale di casa quinta (p. ed. 2201 - attualmente in P. T. 1984-/II C. C. Gries), sita in Bolzano, da adibire ad uso di uffici per i servizi delegati dallo Stato.  
+122. Decreto del Presidente della Repubblica 18 febbraio 1966, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile Club d'Italia, con sede in Roma, viene autorizzato ad acquistare in proprieta' dalla signora Marianna o Anna Genovese, per il prezzo di L. 9.000.000, il vano-magazzino sito in Siracusa alla piazza Foro Siracusano nn. 28 e 29, per l'ampliamento della sede dei propri uffici.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 10 agosto 1965  
-Atti del Governo, registro n. 196, foglio n. 42. - VILLA
+Registrato alla Corte dei conti addi' 18 marzo 1966  
+Atti del Governo, registro n. 202, foglio n. 60 - VILLA

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 settembre 1970 n. 795
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1966 n. 987
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 settembre 1970 n. 795
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1966 n. 987
+==============================================================
 
 Autorizzazione all'Universita' degli studi di Siena ad acquistare un immobile.
 ------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-795. Decreto del Presidente della Repubblica 23 settembre 1970, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Siena viene autorizzata ad acquistare dalla signora Nada Giglioli Bulla, al prezzo complessivo di lire 130.000.000, un immobile sito in Siena, via della Cerchia, n. 3.  
+987. Decreto del Presidente della Repubblica 13 ottobre 1966, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Siena viene autorizzata ad acquistare, al prezzo di lire 160.750.000, un fabbricato in corso di costruzione sito in Siena, viale XXIV Maggio.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 9 novembre 1970  
-Atti del Governo, registro n. 238, foglio n. 42. - CARUSO
+Registrato alla Corte dei conti, addi' 16 novembre 1966  
+Atti del Governo, registro n. 207, foglio n. 27. - VILLA

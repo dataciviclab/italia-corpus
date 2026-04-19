@@ -1,56 +1,216 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1058
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 settembre 1966 n. 890
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1058
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 settembre 1966 n. 890
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione; Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 30, relativo al corso di laurea in Scienze politiche e' abrogato e sostituito dal seguente: "L'esame di laurea consiste nella discussione di una dissertazione scritta".
+
+Art. 32, relativo all'ammissione dei laureati al corso di laurea in Scienze politiche e' abrogato e sostituito dal seguente: "I laureati in Giurisprudenza, Economia e commercio ed in Scienze statistiche ed attuariali - sempre che siano in possesso del diploma di maturita' classica o scientifica - sono ammessi al terzo anno, con l'obbligo di seguire i corsi e superare gli esami negli insegnamenti fondamentali e nelle lingue moderne, con l'esclusione degli esami gia' superati per la precedente laurea.
+
+Resta, inoltre, fermo l'obbligo della frequenza a tre Istituti.
+
+Per l'abbreviazione dei corsi ed il riconoscimento di esami in base ad altre lauree ed a studi compiuti presso altri Istituti italiani o stranieri, decide la Facolta' caso per caso".
+
+Art. 88. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica sono aggiunti i seguenti:
+
+Per l'indirizzo organico biologico:
+
+Corso superiore di Matematica per chimici;
+
+Chimica analitica clinica;
+
+Analisi chimica strumentale con metodi ottici e spettrali;
+
+Analisi chimica strumentale con metodi elettrochimici;
+
+Analisi chimica strumentale con metodi radiochimici;
+
+Analisi chimica strumentale mediante distribuzione tra fasi;
+
+Stereochimica organica;
+
+Stereochimica inorganica;
+
+Meccanismi delle reazioni organiche.
+
+Per l'indirizzo inorganico chimico-fisico:
+
+Corso superiore di matematica per chimici;
+
+Analisi chimica strumentale con metodi ottici e spettrali;
+
+Analisi chimica strumentale con metodi elettrochimici;
+
+Analisi chimica strumentale con metodi radiochimici;
+
+Analisi chimica strumentale mediante distribuzione tra fasi;
+
+Stereochimica organica;
+
+Stereochimica inorganica;
+
+Meccanismi delle reazioni organiche.
+
+Alla fine dello stesso articolo e' aggiunto il seguente comma: "Non si puo' essere ammessi a sostenere l'esame di "Chimica analitica clinica", se non sono stati superati gli esami di:
+
+a) Esercitazioni di Analisi chimica qualitativa;
+
+b) Esercitazioni di Analisi chimica quantitativa;
+
+c) Esercitazioni di Chimica organica e Analisi organica".
+
+Art. 89. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica industriale sono aggiunti i seguenti:
+
+Corso superiore di Matematica per chimici;
+
+Analisi chimica strumentale con metodi ottici e spettrali;
+
+Analisi chimica strumentale con metodi elettrochimici;
+
+Analisi chimica strumentale con metodi, radiochimici;
+
+Analisi chimica strumentale mediante distribuzione tra fasi;
+
+Stereochimica organica;
+
+Stereochimica inorganica;
+
+Meccanismi delle reazioni organiche.
+
+Art. 94. - L'elenco degli insegnamenti complementari del corso di laurea in Fisica e' modificato nel senso che l'insegnamento di "Geomagnetismo" viene contraddistinto dalle lettere G e A e pertanto diviene valido per l'indirizzo generale e per l'indirizzo applicativo.
+
+Art. 97. - All'elenco degli insegnamenti complementari del corso di laurea in Matematica - Gruppo astronomico dell'indirizzo applicativo, e' aggiunto quello di "Analisi numerica".
+
+All'elenco degli insegnamenti complementari per tutti e tre gli indirizzi dello stesso corso di laurea e' aggiunto quello di "Istituzioni di algebra superiore".
+
+Art. 99. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze naturali e' aggiunto il seguente: "Elettrofisiologia (semestrale)".
+
+Art. 101. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze biologiche e' aggiunto il seguente: "Elettrofisiologia (semestrale)".
+
+Gli articoli 252 e 253, relativi al corso di specializzazione in Discipline bancarie, sono modificati nel modo seguente:
+
+Art. 252. - Il primo comma e' abrogato e sostituito dal seguente: "Il direttore del corso di specializzazione e' un professore ordinario della Facolta'".
+
+Art. 253. - E' aggiunto il seguente nuovo comma:
+
+"Al corso possono essere altresi' ammessi - su insindacabile e discrezionale decisione del Consiglio dei professori - i laureati in Giurisprudenza e Scienze politiche che abbiano maturato una effettiva anzianita' di servizio di piu' di 5 anni presso aziende di crediti o Istituti di credito speciale e finanziari".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 20 settembre 1966
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 25 ottobre 1966 Atti del Governo, registro n. 206, foglio n. 115. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1939, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Considerato che le scuole di perfezionamento relative alle discipline di cui trattasi hanno rispettivamente la denominazione di gastroenterologia e malattie dell'apparato cardiovascolare;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sentito il parere del Consiglio superiore della pubblica istruzione; Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 80. - All'elenco degli istituti che fanno parte della facolta' di medicina e chirurgia sono aggiunti i seguenti:  
-  
-Istituto di virologia;  
-Istituto secondo di anatomia e istologia patologica;  
-Istituto secondo di malattie infettive;  
-Istituto di seconda clinica medica generale e terapia medica.  
-L'Istituto di clinica medica generale e terapia medica assume la denominazione di "Istituto di prima clinica medica generale e terapia medica".  
-Gli Istituti di prima patologia speciale medica e metodologia clinica e di seconda patologia speciale medica e metodologia clinica assumono la denominazione di "Istituto di patologia speciale medica e metodologia clinica".  
-  
-Art. 81. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
-  
-Gastroenterologia;  
-Malattie dell'apparato cardiovascolare.  
+Art. 30, relativo al corso di laurea in Scienze politiche e' abrogato e sostituito dal seguente: "L'esame di laurea consiste nella discussione di una dissertazione scritta".  
+Art. 32, relativo all'ammissione dei laureati al corso di laurea in Scienze politiche e' abrogato e sostituito dal seguente: "I laureati in Giurisprudenza, Economia e commercio ed in Scienze statistiche ed attuariali - sempre che siano in possesso del diploma di maturita' classica o scientifica - sono ammessi al terzo anno, con l'obbligo di seguire i corsi e superare gli esami negli insegnamenti fondamentali e nelle lingue moderne, con l'esclusione degli esami gia' superati per la precedente laurea.  
+Resta, inoltre, fermo l'obbligo della frequenza a tre Istituti.  
+Per l'abbreviazione dei corsi ed il riconoscimento di esami in base ad altre lauree ed a studi compiuti presso altri Istituti italiani o stranieri, decide la Facolta' caso per caso".  
+Art. 88. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica sono aggiunti i seguenti:  
+Per l'indirizzo organico biologico:  
+Corso superiore di Matematica per chimici;  
+Chimica analitica clinica;  
+Analisi chimica strumentale con metodi ottici e spettrali;  
+Analisi chimica strumentale con metodi elettrochimici;  
+Analisi chimica strumentale con metodi radiochimici;  
+Analisi chimica strumentale mediante distribuzione tra fasi;  
+Stereochimica organica;  
+Stereochimica inorganica;  
+Meccanismi delle reazioni organiche.  
+Per l'indirizzo inorganico chimico-fisico:  
+Corso superiore di matematica per chimici;  
+Analisi chimica strumentale con metodi ottici e spettrali;  
+Analisi chimica strumentale con metodi elettrochimici;  
+Analisi chimica strumentale con metodi radiochimici;  
+Analisi chimica strumentale mediante distribuzione tra fasi;  
+Stereochimica organica;  
+Stereochimica inorganica;  
+Meccanismi delle reazioni organiche.  
+Alla fine dello stesso articolo e' aggiunto il seguente comma: "Non si puo' essere ammessi a sostenere l'esame di "Chimica analitica clinica", se non sono stati superati gli esami di:  
+a) Esercitazioni di Analisi chimica qualitativa;  
+b) Esercitazioni di Analisi chimica quantitativa;  
+c) Esercitazioni di Chimica organica e Analisi organica".  
+Art. 89. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica industriale sono aggiunti i seguenti:  
+Corso superiore di Matematica per chimici;  
+Analisi chimica strumentale con metodi ottici e spettrali;  
+Analisi chimica strumentale con metodi elettrochimici;  
+Analisi chimica strumentale con metodi, radiochimici;  
+Analisi chimica strumentale mediante distribuzione tra fasi;  
+Stereochimica organica;  
+Stereochimica inorganica;  
+Meccanismi delle reazioni organiche.  
+Art. 94. - L'elenco degli insegnamenti complementari del corso di laurea in Fisica e' modificato nel senso che l'insegnamento di "Geomagnetismo" viene contraddistinto dalle lettere G e A e pertanto diviene valido per l'indirizzo generale e per l'indirizzo applicativo.  
+Art. 97. - All'elenco degli insegnamenti complementari del corso di laurea in Matematica - Gruppo astronomico dell'indirizzo applicativo, e' aggiunto quello di "Analisi numerica".  
+All'elenco degli insegnamenti complementari per tutti e tre gli indirizzi dello stesso corso di laurea e' aggiunto quello di "Istituzioni di algebra superiore".  
+Art. 99. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze naturali e' aggiunto il seguente: "Elettrofisiologia (semestrale)".  
+Art. 101. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze biologiche e' aggiunto il seguente: "Elettrofisiologia (semestrale)".  
+Gli articoli 252 e 253, relativi al corso di specializzazione in Discipline bancarie, sono modificati nel modo seguente:  
+Art. 252. - Il primo comma e' abrogato e sostituito dal seguente: "Il direttore del corso di specializzazione e' un professore ordinario della Facolta'".  
+Art. 253. - E' aggiunto il seguente nuovo comma:  
+"Al corso possono essere altresi' ammessi - su insindacabile e discrezionale decisione del Consiglio dei professori - i laureati in Giurisprudenza e Scienze politiche che abbiano maturato una effettiva anzianita' di servizio di piu' di 5 anni presso aziende di crediti o Istituti di credito speciale e finanziari".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1969
+### Dato a Roma, addi' 20 settembre 1966
 
-SARAGAT FERRARI AGGRADI
+SARAGAT GUI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 8 gennaio 1970
+Registrato alla Corte dei conti, addi' 25 ottobre 1966
 
-Atti del Governo, registro n. 231, foglio n. 13. - CARUSO
+Atti del Governo, registro n. 206, foglio n. 115. - VILLA

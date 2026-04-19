@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1964 n. 660
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1982 n. 859
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1964 n. 660
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1982 n. 859
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con decreto del Presidente dalla Repubblica 18 aprile 1951, n. 964, e modificato con [decreto del Presidente della Repubblica 12 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-12;1207), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,87 +20,61 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 19. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti i seguenti:
+Articolo unico
+--------------
 
-Istituzioni di diritto penale;
-
-Diritto tributario.
-
-Art. 30. - Agli insegnamenti complementari del corso di laurea in Medicina e Chirurgia sono aggiunti i seguenti:
-
-Biochimica applicata;
-
-Gerontologia.
-
-Art. 71, relativo alle norme generali per le Scuole di specializzazione e di perfezionamento; e' modificato nel senso che e' aggiunto il seguente comma:
-
-"Gli specializzandi che chiedono il trasferimento dalla Universita' di Ferrara, possono ottenerlo soltanto con il consenso del rettore, udito il parere del direttore della Scuola".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo, a chiunque spetti, di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 12 luglio 1964
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 7 agosto 1964 Atti del Governo, registro n. 185, foglio n. 15. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con decreto del Presidente dalla Repubblica 18 aprile 1951, n. 964, e modificato con [decreto del Presidente della Repubblica 12 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-12;1207), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 19. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti i seguenti:  
-Istituzioni di diritto penale;  
-Diritto tributario.  
-Art. 30. - Agli insegnamenti complementari del corso di laurea in Medicina e Chirurgia sono aggiunti i seguenti:  
-Biochimica applicata;  
-Gerontologia.  
-Art. 71, relativo alle norme generali per le Scuole di specializzazione e di perfezionamento; e' modificato nel senso che e' aggiunto il seguente comma:  
-"Gli specializzandi che chiedono il trasferimento dalla Universita' di Ferrara, possono ottenerlo soltanto con il consenso del rettore, udito il parere del direttore della Scuola".  
+Nell'art. 66, relativo al corso di laurea in scienze naturali, vengono inseriti i seguenti insegnamenti complementari:  
+didattica naturalistica e biologica;  
+etologia;  
+biologia marina;  
+protozoologia;  
+genetica umana;  
+genetica dei microorganismi;  
+anatomia vegetale;  
+ecologia vegetale;  
+idrologia e acquacoltura;  
+fisiologia cellulare.  
+Nell'art. 71, relativo al corso di laurea in scienze biologiche, vengono inseriti i seguenti insegnamenti complementari:  
+biologia dello sviluppo;  
+genetica dei microorganismi;  
+genetica di popolazioni;  
+genetica umana;  
+protozoologia;  
+anatomia vegetale;  
+ecologia vegetale;  
+biochimica vegetale;  
+citochimica ed istochimica;  
+citologia;  
+fisiologia cellulare;  
+neurochimica.  
+All'art. 76, relativo al corso di laurea in scienze geologiche, nell'elenco degli insegnamenti complementari l'insegnamento di "paleobotanica" cambia la denominazione in quella di "paleontologia vegetale".  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo, a chiunque spetti, di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 luglio 1964
+### Dato a Roma, addi' 10 settembre 1982
 
-SEGNI GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 7 agosto 1964
+Registrato alla Corte dei conti, addi' 8 novembre 1982
 
-Atti del Governo, registro n. 185, foglio n. 15. - VILLA
+Registro n. 123 Istruzione, foglio n. 244

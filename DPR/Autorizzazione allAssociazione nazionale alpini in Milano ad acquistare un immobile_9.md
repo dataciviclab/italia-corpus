@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 dicembre 1978 n. 998
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1984 n. 661
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 dicembre 1978 n. 998
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1984 n. 661
+=============================================================
 
 Autorizzazione all'Associazione nazionale alpini, in Milano, ad acquistare un immobile.
 ---------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-998. Decreto del Presidente della Repubblica 13 dicembre 1978, col quale, sulla proposta del Ministro della difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad acquistare, al prezzo di L. 6.000.000, l'appartamento ubicato al 1° piano, interno 3-bis, del fabbricato che sorge in Savona, via Pia n. 8, iscritto al nuovo catasto edilizio urbano alla partita 480, foglio 79, mappale 227, sub 21, di vani 2,5, di proprieta' della sig.ra Barbero Giuseppina, da adibire a sede della sezione di Savona.  
+661. Decreto del Presidente della Repubblica 17 maggio 1984, col quale, sulla proposta del Ministro della difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad acquistare, al prezzo di L. 5.000.000, un terreno di mq 13.155 sito sul Monte Tomba, censito al nuovo catasto terreni del comune di Cavaso del Tomba (Treviso) per mq 8.125, foglio 5 (ex B-1), mappale 34 e foglio 6 (ex B-2), mappale 1, e al nuovo catasto terreni del comune di Alano del Piave (Belluno) per mq 5.030, foglio 39, mappale 101 di proprieta' dei signori Antonia e Giuseppe Foggiato.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 21 febbraio 1979  
-Registro n. 9 Difesa, foglio n. 388
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 14 settembre 1984  
+Registro n. 32 Difesa, foglio n. 332

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1986 n. 486
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 328
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1986 n. 486
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 328
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' "La Sapienza" di Roma, approvato con [regio decreto 14 ottobre 1926, n. 2319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2319), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi "La Sapienza" di Roma, approvato con [regio decreto 14 ottobre 1926, n. 2319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2319), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -33,70 +33,31 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' "La Sapienza" di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi "La Sapienza" di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 1
-------
-
-  
-Nell'art. 46, relativo al corso di laurea in economia e commercio, all'elenco degli insegnamenti complementari e' aggiunto l'insegnamento di "diritto minerario".  
-
-Art. 2
-------
+Articolo unico
+--------------
 
   
-Nell'art. 53, relativo al corso di laurea in scienze statistiche e demografiche, all'elenco degli insegnamenti complementari e' aggiunto l'insegnamento di "calcolo delle probabilita' II".  
-
-Art. 3
-------
-
-  
-Nell'art. 92, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-riabilitazione;  
-terapia fisica e riabilitazione;  
-radiologia sperimentale;  
-farmacologia applicata;  
-psicologia dell'eta' evolutiva;  
-traumatologia facciale;  
-terapia intensiva.  
-
-Art. 4
-------
-
-  
-Nell'art. 104, relativo al corso di laurea in chimica, all'elenco degli insegnamenti complementari, sia dell'indirizzo organico-biologico, sia dell'indirizzo inorganico-chimico-fisico, e' aggiunto l'insegnamento di "chimica organica fisica".  
-Nell'art. 105, relativo al corso di laurea in chimica industriale, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-chimica organica fisica;  
-analisi chimica industriale.  
-Nell'art. 108, relativo al corso di laurea in fisica, all'elenco degli insegnamenti complementari e' aggiunto l'insegnamento di "geofisica della terra solida".  
-Nell'art. 115, relativo al corso di laurea in scienze naturali, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-biologia vegetale applicata;  
-zoologia applicata.  
-Nell'art. 117, relativo al corso di laurea in scienze biologiche, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-zoologia applicata;  
-macromolecole biologiche;  
-biologia vegetale applicata;  
-citologia vegetale.  
-Nell'art. 119, relativo al corso di laurea in scienze geologiche, all'elenco degli insegnamenti complementari e' aggiunto l'insegnamento di "geofisica della terra solida".  
-
-Art. 5
-------
-
-  
-Nell'art. 147, relativo alla facolta' di ingegneria, all'elenco degli insegnamenti complementari e' aggiunto l'insegnamento di "stabilita' del territorio e consolidamenti".  
+Art. 59 - nell'elenco degli insegnamenti complementari del corso di laurea in lettere sono inseriti i seguenti insegnamenti:  
+storia delle universita';  
+antichita' medioevali;  
+esegesi delle fonti della storia medioevale;  
+storia della storiografia medioevale.  
+Art. 60 - nell'elenco degli insegnamenti complementari del corso di laurea in filosofia sono inseriti i seguenti insegnamenti:  
+ermeneutica filosofica;  
+storia dell'estetica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 maggio 1986
+### Dato a Roma, addi' 4 maggio 1983
 
-COSSIGA
+PERTINI FALCUCCI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DARIDA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 5 luglio 1983
 
-Registrato alla Corte dei conti, addi' 25 luglio 1986
-
-Registro n. 60 Istruzione, foglio n. 339
+Registro n. 49 Istruzione, foglio n. 55

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1975 n. 1010
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 975
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1975 n. 1010
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 975
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836), e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -24,176 +24,188 @@ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte,
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 171, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in terapia fisica e riabilitazione.
+Gli articoli 166, 167, 168, 169, 170 e 171, riguardanti la scuola di specializzazione in chirurgia vascolare, sono soppressi e sostituiti dai seguenti:
 
-Scuola di specializzazione in terapia fisica e riabilitazione
+Scuola di specializzazione in chirurgia vascolare
 
-Art. 172. - La scuola ha sede presso la clinica ortopedica dell'Universita' di Trieste.
+Art. 166. - La scuola di specializzazione in chirurgia vascolare ha sede presso l'istituto di semeiotica chirurgica dell'Universita' di Trieste e conferisce il diploma di specialista in chirurgia vascolare.
 
-Il direttore della scuola e' il direttore della clinica ortopedica di Trieste.
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
 
-La durata del corso degli studi e' di tre anni accademici.
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
 
-E' esclusa senza alcuna eccezione l'abbreviazione dei corsi.
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
 
-Possono essere ammessi alla scuola soltanto i candidati che siano in possesso della laurea in medicina e chirurgia.
+Art. 167. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.
 
-Il numero massimo dei posti disponibili e' di dieci per ognuno dei tre anni di corso.
+Art. 168. - Il numero massimo degli allievi e' di sei per anno di corso e complessivamente di trenta iscritti per l'intero corso di studi.
 
-L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami.
+L'ammissione al corso avviene per titoli ed esami.
 
-La Frequenza alle lezioni e alle esercitazioni e' obbligatoria.
-
-Per essere ammessi al secondo e terzo anno occorre aver superato tutti gli esami dell'anno precedente.
-
-Art. 173. - Le materie di insegnamento sono distribuite nei tre anni di corso secondo questo piano di studi che gli iscritti alla scuola sono tenuti a rispettare:
+Art. 169. - Le materie di insegnamento sono le seguenti:
 
 1° Anno:
 
-1) principi di anatomia funzionale;
+embriologia, anatomia macro e microscopica dell'apparato vascolare;
 
-2) fisiopatologia dell'apparato neuromotore;
+fisiopatologia dell'apparato vascolare e della coagulazione sanguigna;
 
-3) elementi di fisica applicata;
+anatomia patologica dell'apparato vascolare;
 
-4) elettrodiagnostica ed elettromiografia;
+semeiologia fisica e strumentale delle malattie vascolari;
 
-5) medicina assicurativa;
+semeiologia radiologica delle malattie vascolari;
 
-6) psicologia e problemi di psicopatologia della riabilitazione.
+vasculopatie di interesse medico e specialistico.
 
 2° Anno:
 
-1) semeiotica e clinica delle motulesioni neurologiche;
+patologia e clinica delle malattie del sistema arterioso;
 
-2) semeiotica e clinica delle deformita' e motulesioni ortopediche;
+patologia e clinica delle malattie del sistema venoso;
 
-3) massoterapia e terapia manuale;
+patologia e clinica delle malattie del sistema linfatico;
 
-4) cinesiologia, cinesiterapia e ginnastica medica;
-
-5) idroterapia e balneoterapia;
-
-6) climatologia e climatoterapia;
-
-7) rieducazione respiratoria;
-
-8) riabilitazione nei disturbi del linguaggio;
-
-9) rieducazione nei disturbi della visione.
+patologia e clinica delle malattie dei piccoli vasi.
 
 3° Anno:
 
-1) elettroterapia;
+nozioni di terapia medica delle malattie vascolari;
 
-2) terapia con onde corte ed altri mezzi fisici;
+terapia chirurgica delle malattie vascolari;
 
-3) rieducazione motoria e riabilitazione in campo ortopedico e traumatologico;
+chirurgia vascolare applicata a malattie dei vari organi I.
 
-4) rieducazione motoria e riabilitazione in campo neurologico;
+4° Anno:
 
-5) cinesiterapia e riabilitazione nelle malattie internistiche;
+informatica medica;
 
-6) cinesiterapia e riabilitazione in pediatria;
+rianimazione e terapia intensiva;
 
-7) cinesiterapia e riabilitazione in geriatria;
+patologia e clinica vascolare pediatrica I;
 
-8) ergoterapia e riqualificazione professionale;
+epidemiologia delle malattie vascolari;
 
-9) elementi di protesi ed ortesi.
+elementi di legislazione sanitaria comunitaria;
 
-Ammontare delle tasse di immatricolazione L. 5.000; di iscrizione L. 100.000; soprattasse esami L. 7.000.
+chirurgia vascolare applicata a malattie dei vari organi II.
+
+5° Anno:
+
+elementi di bioingegneria applicati al circolo;
+
+principi e tecnica di circolazione extracorporea;
+
+terapia intensiva;
+
+patologia e clinica vascolare pediatrica II;
+
+tecniche chirurgiche applicate alla patologia vascolare;
+
+chirurgia vascolare applicata a malattie dei vari organi III.
+
+Art. 170. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.
+
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Art. 171. - Alla fine di ogni corso gli iscritti per essere ammessi gli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in chirurgia vascolare gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione e dovranno sostenere una prova clinica.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 24 ottobre 1975
+Dato a Roma, addi' 31 ottobre 1978
 
-LEONE
+PERTINI
 
-MALFATTI
+PEDINI
 
 Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 16 giugno 1976 Atti di Governo, registro n. 6, foglio n. 78
+alla Corte dei conti, addi' 10 febbraio 1979 Registro n. 5 Istruzione, foglio n. 361
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836), e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli 166, 167, 168, 169, 170 e 171, riguardanti la scuola di specializzazione in chirurgia vascolare, sono soppressi e sostituiti dai seguenti:   
   
-Dopo l'art. 171, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in terapia fisica e riabilitazione.  
-Scuola di specializzazione in terapia fisica e riabilitazione  
-Art. 172. - La scuola ha sede presso la clinica ortopedica dell'Universita' di Trieste.  
-Il direttore della scuola e' il direttore della clinica ortopedica di Trieste.  
-La durata del corso degli studi e' di tre anni accademici.  
-E' esclusa senza alcuna eccezione l'abbreviazione dei corsi.  
-Possono essere ammessi alla scuola soltanto i candidati che siano in possesso della laurea in medicina e chirurgia.  
-Il numero massimo dei posti disponibili e' di dieci per ognuno dei tre anni di corso.  
-L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami.  
-La Frequenza alle lezioni e alle esercitazioni e' obbligatoria.  
-Per essere ammessi al secondo e terzo anno occorre aver superato tutti gli esami dell'anno precedente.  
-Art. 173. - Le materie di insegnamento sono distribuite nei tre anni di corso secondo questo piano di studi che gli iscritti alla scuola sono tenuti a rispettare:  
-1° Anno:  
-1) principi di anatomia funzionale;  
-2) fisiopatologia dell'apparato neuromotore;  
-3) elementi di fisica applicata;  
-4) elettrodiagnostica ed elettromiografia;  
-5) medicina assicurativa;  
-6) psicologia e problemi di psicopatologia della riabilitazione.  
-2° Anno:  
-1) semeiotica e clinica delle motulesioni neurologiche;  
-2) semeiotica e clinica delle deformita' e motulesioni ortopediche;  
-3) massoterapia e terapia manuale;  
-4) cinesiologia, cinesiterapia e ginnastica medica;  
-5) idroterapia e balneoterapia;  
-6) climatologia e climatoterapia;  
-7) rieducazione respiratoria;  
-8) riabilitazione nei disturbi del linguaggio;  
-9) rieducazione nei disturbi della visione.  
-3° Anno:  
-1) elettroterapia;  
-2) terapia con onde corte ed altri mezzi fisici;  
-3) rieducazione motoria e riabilitazione in campo ortopedico e traumatologico;  
-4) rieducazione motoria e riabilitazione in campo neurologico;  
-5) cinesiterapia e riabilitazione nelle malattie internistiche;  
-6) cinesiterapia e riabilitazione in pediatria;  
-7) cinesiterapia e riabilitazione in geriatria;  
-8) ergoterapia e riqualificazione professionale;  
-9) elementi di protesi ed ortesi.  
-Ammontare delle tasse di immatricolazione L. 5.000; di iscrizione L. 100.000; soprattasse esami L. 7.000.  
+Scuola di specializzazione in chirurgia vascolare   
+Art. 166. - La scuola di specializzazione in chirurgia vascolare ha sede presso l'istituto di semeiotica chirurgica dell'Universita' di Trieste e conferisce il diploma di specialista in chirurgia vascolare.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+Art. 167. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.   
+Art. 168. - Il numero massimo degli allievi e' di sei per anno di corso e complessivamente di trenta iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Art. 169. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+embriologia, anatomia macro e microscopica dell'apparato vascolare;   
+fisiopatologia dell'apparato vascolare e della coagulazione sanguigna;   
+anatomia patologica dell'apparato vascolare;   
+semeiologia fisica e strumentale delle malattie vascolari;   
+semeiologia radiologica delle malattie vascolari;   
+vasculopatie di interesse medico e specialistico.   
+2° Anno:   
+patologia e clinica delle malattie del sistema arterioso;   
+patologia e clinica delle malattie del sistema venoso;   
+patologia e clinica delle malattie del sistema linfatico;   
+patologia e clinica delle malattie dei piccoli vasi.   
+3° Anno:   
+nozioni di terapia medica delle malattie vascolari;   
+terapia chirurgica delle malattie vascolari;   
+chirurgia vascolare applicata a malattie dei vari organi I.   
+4° Anno:   
+informatica medica;   
+rianimazione e terapia intensiva;   
+patologia e clinica vascolare pediatrica I;   
+epidemiologia delle malattie vascolari;   
+elementi di legislazione sanitaria comunitaria;   
+chirurgia vascolare applicata a malattie dei vari organi II.   
+5° Anno:   
+elementi di bioingegneria applicati al circolo;   
+principi e tecnica di circolazione extracorporea;   
+terapia intensiva;   
+patologia e clinica vascolare pediatrica II;   
+tecniche chirurgiche applicate alla patologia vascolare;   
+chirurgia vascolare applicata a malattie dei vari organi III.   
+Art. 170. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Art. 171. - Alla fine di ogni corso gli iscritti per essere ammessi gli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in chirurgia vascolare gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione e dovranno sostenere una prova clinica.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 ottobre 1975
+### Dato a Roma, addi' 31 ottobre 1978
 
-LEONE MALFATTI
+PERTINI PEDINI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 16 giugno 1976
+Registrato alla Corte dei conti, addi' 10 febbraio 1979
 
-Atti di Governo, registro n. 6, foglio n. 78
+Registro n. 5 Istruzione, foglio n. 361

@@ -1,149 +1,171 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1966 n. 989
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1982 n. 634
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1966 n. 989
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1982 n. 634
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831), e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduto il [decreto-legge 26 novembre 1981, n. 677](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-11-26;677), convertito in [legge 26 gennaio 1982, n. 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-01-26;11);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831), e modificato con [regio decreto 31 ottobre 1929, n. 2393](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2393) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella legge 2 gennaio 1936 n. '73;  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Lo statuto dell'Universita' di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+L'art. 222, relativo alle tasse e soprattasse per l'iscrizione alle scuole di specializzazione in medicina e chirurgia, e' abrogato e sostituito dal seguente:  
+Art. 222. - Le tasse per le iscrizioni ai corsi e i contributi per le esercitazioni pratiche sono stabilite, per tutte le scuole, come segue:  
+tassa di immatricolazione (primo anno) L. 12.000;  
+tassa di iscrizione (ogni anno) L. 200.000;  
+soprattassa esami (ogni anno) L. 16.000;  
+contributi di laboratorio (ogni anno) L. 14.000;  
+soprattassa per esame di diploma (ultimo anno) L. 20.000;  
+tassa di trasferimento per altra sede L. 10.000;  
+tassa registrazione congedi provenienti da altra sede L. 2.000;  
+rilascio diploma originale per il valore dello speciale stampato e delle spese inerenti alla compilazione da parte del calligrafo L. 6.000;  
+tassa erariale di diploma L. 50.000.  
+
+Art. 2
+------
+
   
-Decreta:  
+L'ultimo comma dell'art. 228, relativo alle tasse e soprattasse della scuola di specializzazione in ginecologia e ostetricia, e' soppresso.  
+
+Art. 3
+------
+
   
-Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli elenchi degli insegnamenti complementari del corsi di laurea in Scienze naturali e in Scienze biologiche e le norme relative agli esami e alle propedeuticita' sono abrogati e sostituiti nel modo seguente:  
+L'ultimo comma dell'art. 231, relativo alle tasse e soprattasse della scuola di specializzazione in urologia, e' soppresso.  
+
+Art. 4
+------
+
   
-Art. 29. - Sono insegnamenti complementari del corso di laurea in Scienze naturali:  
-1) Antropologia;  
-2) Biologia generale;  
-3) Chimica biologica;  
-4) Chimica fisica;  
-5) Chimica teorica;  
-6) Ecologia ed etologia;  
-7) Fisiologia vegetale;  
-8) Genetica;  
-9) Geochimica;  
-10) Geografia fisica;  
-11) Geologia applicata;  
-12) Giacimenti minerari;  
-13) Igiene;  
-14) Istologia ed embriologia;  
-15) Microbiologia;  
-16) Paleontologia;  
-17) Petrografia;  
-18) Scienza dell'alimentazione;  
-19) Zoocolture (bachi; api, avi, coniglicoltura).  
+L'ultimo comma dell'art. 238, relativo alle tasse e soprattasse della scuola di specializzazione in pediatria, e' soppresso.  
+
+Art. 5
+------
+
   
-Sono insegnamenti complementari del corso di laurea in Scienze biologiche:  
-1) Biologia generale;  
-2) Biologia molecolare;  
-3) Chimica fisica;  
-4) Farmacologia;  
-5) Fisiologia vegetale;  
-6) Genetica;  
-7) Geologia;  
-8) Microbiologia;  
-9) Paleontologia;  
-10) Parassitologia;  
-11) Patologia generale;  
-12) Psicologia;  
-13) Radiobiologia;  
-14) Scienza dell'alimentazione;  
-15) Statistica.  
+L'ultimo comma dell'art. 241, relativo alle tasse e soprattasse della scuola di specializzazione in cardiologia, e' soppresso.  
+
+Art. 6
+------
+
   
-I gruppi di materie complementari istituiti dalla Facolta' sono consigliati per ciascuno dei corsi di laurea secondo il manifesto annuale degli studi.  
-Gli insegnamenti biennali di Botanica e di Zoologia comprendono tanto la parte generale quanto la parte sistematica.  
-L'insegnamento biennale di Botanica comporta due distinti esami, rispettivamente alla fine del primo e alla fine del secondo anno.  
-Tutte le materie della Facolta', per essere materie scientifiche, sono di indole dimostrativa e nel loro insegnamento l'esposizione dottrinale dovra' finche' possibile essere accompagnata da dimostrazioni sperimentali, da illustrazioni di preparati, di modelli e di tavole murali.  
-Oltre alle lezioni gli studenti dovranno anche seguire le esercitazioni pratiche nelle discipline fondamentali ed in quelle complementari, per il completamento statutario della loro preparazione.  
-Per le esercitazioni pratiche gli studenti potranno essere sottoposti al pagamento di un contributo stabilito dal Consiglio di amministrazione, su proposta del Senato accademico, udita la Facolta' a titolo di rimborso spese.  
-Gli esami di profitto si sosterranno per singole materie e debbono tendere ad accertare se lo studente possiede una buona conoscenza della materia e dei metodi di indagine inerenti.  
-Sono previste le seguenti precedenze nella iscrizione ai corsi e negli esami:  
+L'ultimo comma dell'art. 242, relativo alle tasse e soprattasse della scuola di specializzazione in anestesia e rianimazione, e' soppresso.  
+
+Art. 7
+------
+
   
-Corso di laurea in Scienze naturali  
-Discipline Precedenze  
+L'ultimo comma dell'art. 263, relativo alle tasse e soprattasse della scuola di specializzazione in malattie infettive, e' soppresso.
+
+Art. 8
+------
+
   
-Chimica generale ed inor- Istituzioni di matematiche,  
-ganica Fisica  
-Botanica Chimica generale  
-Zoologia Chimica generale  
-Chimica organica Chimica generale  
-Mineralogia Chimica generale  
-Anatomia comparata Zoologia, Anatomia umana  
-Geologia Mineralogia  
-Petrografia Mineralogia  
-Paleontologia Zoologia, Botanica, Anatom ia  
-comparata  
-Microbiologia Botanica, Chimica organica, Zo o-  
-logia  
-Chimica biologica Chimica organica  
-Fisiologia generale Chimica organica, Chimica biol o-  
-gica, Anatomia comparata  
-Geochimica Petrografia  
-Giacimenti minerari Geologia, Petrografia  
-Antropologia Anatomia umana  
-Ecologia ed Etologia Zoologia, Botanica, Geologia  
-Geologia applicata Geologia  
+L'ultimo comma dell'art. 266, relativo alle tasse e soprattasse della scuola di specializzazione in igiene e medicina preventiva, e' soppresso.  
+
+Art. 9
+------
+
   
-Corso di laurea in Scienze biologiche  
+L'art. 276, relativo alle tasse e soprattasse della scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva, e' soppresso.  
+
+Art. 10
+-------
+
   
-Discipline Precedenze  
+L'art. 283, relativo alle tasse e soprattasse della scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio, e' soppresso.  
+
+Art. 11
+-------
+
   
-Chimica generale ed inor- Istituzioni di matematiche, Fi -  
-ganica sica  
-Botanica Chimica generale  
-Zoologia Chimica generale  
-Chimica organica Chimica generale  
-Anatomia umana Istologia ed embriologia  
-Anatomia comparata Zoologia, Istologia ed embriol o-  
-gia, Anatomia umana  
-Chimica biologica Chimica organica  
-Igiene Chimica biologica  
-Microbiologia Botanica, Chimica organica,  
-Zoologia  
-Fisiologia vegetale Botanica, Chimica organica  
-Biologia molecolare Chimica organica  
-Genetica Zoologia, Botanica, Biologia  
-molecolare  
-Fisiologia generale Chimica biologica, Anatomia  
-comparata  
-Patologia generale Chimica biologica, Fisiologia generale  
-Scienza dell'alimentazione Fisiologia generale  
-Paleontologia Botanica, Anatomia comparata  
-Radiobiologia Genetica  
+L'ultimo comma dell'art. 286, relativo alle tasse e soprattasse della scuola di specializzazione in odontostomatologia, e' soppresso.
+
+Art. 12
+-------
+
   
-Nel terzo e nel quarto anno di corso gli studenti sono tenuti a frequentare come interni uno degli istituti nel quale sono impartite regolari lezioni per i rispettivi corsi di laurea.  
-La frequenza dell'internato e' consentita anche agli studenti fuori corso. In ogni caso potranno essere accolte solo le domande dei candidati che abbiano superato tutti gli esami fondamentali del primo anno e almeno due del secondo anno di corso.  
-L'internato puo' essere svolto in uno degli istituti della Facolta', o in altri istituti ad indirizzo naturalistico o biologico, previa autorizzazione del Consiglio di Facolta'.  
-Lo studente, superati gli esami delle materie fondamentali ed almeno in quattro tra le materie complementari potra' essere ammesso a sostenere l'esame di laurea.  
-L'esame di laurea consiste nella discussione di una dissertazione scritta presentata dal candidato alla segreteria almeno dieci giorni prima della data fissata dalla Facolta' per l'inizio degli esami di laurea e contenente la esposizione di indagini scientifiche eseguite dal candidato nell'istituto ove questo ha svolto i due anni di internato, e nella presentazione di due tesine scritte, che saranno state preparate in due istituti diversi, la tesi, ma in materie delle quali il laureando abbia sostenuto positivamente l'esame. Tali tesine potranno essere compilative od anche sperimentali, e dovranno testimoniare l'aggiornamento del candidato anche in campi diversi da quello nel quale si e' specializzato quale interno.  
-Il preside ricevuta la dissertazione designa, tenuto conto della competenza almeno tre commissari per la discussione, alla quale peraltro tutti i componenti la Commissione potranno prendere parte.  
-L'esame di laurea sara' preceduto da un colloquio pre-laurea che si svolgera' nei giorni immediatamente precedenti l'esame stesso.  
+L'art. 292, relativo alle tasse e soprattasse della scuola di specializzazione in chirurgia d'urgenza e pronto soccorso, e' soppresso.  
+
+Art. 13
+-------
+
+  
+L'art. 298, relativo alle tasse e soprattasse della scuola di specializzazione in psichiatria, e' soppresso.  
+
+Art. 14
+-------
+
+  
+L'art. 305, relativo alle tasse e soprattasse della scuola di specializzazione in chirurgia, e' soppresso.  
+
+Art. 15
+-------
+
+  
+L'art. 320, relativo alle tasse e soprattasse della scuola di specializzazione in psicologia, e' soppresso.  
+
+Art. 16
+-------
+
+  
+L'art. 335, relativo alle tasse e soprattasse della scuola di specializzazione in chirurgia toracica, e' soppresso.  
+
+Art. 17
+-------
+
+  
+L'art. 341, relativo alle tasse e soprattasse della scuola di specializzazione in medicina dello sport, e' soppresso.  
+
+Art. 18
+-------
+
+  
+L'art. 351, relativo alle tasse e soprattasse della scuola di specializzazione in anatomia patologica, e' soppresso.  
+
+Art. 19
+-------
+
+  
+L'art. 362, relativo alle tasse e soprattasse della scuola di specializzazione in medicina interna, e' soppresso.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 ottobre 1966
+### Dato a Roma, addi' 14 maggio 1982
 
-SARAGAT GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli; REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 16 novembre 1966
+Registrato alla Corte dei conti, addi' 31 agosto 1982
 
-Atti del Governo, registro n. 207, foglio n. 26. - VILLA
+Registro n. 104 Istruzione, foglio n. 154

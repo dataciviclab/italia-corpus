@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1963 n. 2164
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 899
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1963 n. 2164
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 899
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
@@ -10,186 +10,51 @@ Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), modificato con [decreto del Presidente della Repubblica 12 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-12;1207), e successivi;
+Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzionie superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla
+-----
 
-Decreta:
+proposta del Ministro della pubblica istruzione; Decreta:
 
-Lo statuto dell'Universita', degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:
+Articolo unico
+--------------
 
-Dopo l'art. 102 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Chirurgia pediatrica, annessa alla Facolta' di medicina e chirurgia.
-
-Scuola di specializzazione in Chirurgia pediatrica
-
-Art. 103. - La Scuola di specializzazione in Chirurgia pediatrica ha la durata di tre anni ed ha sede presso la clinica chirurgica, il cui professore di ruolo e' direttore della Scuola.
-
-Art. 104. - L'ammissione alla Scuola si effettua solo in base a concorso per titoli ed esami.
-
-Alla Scuola non potranno essere iscritti piu' di otto allievi per ciascun anno di corso.
-
-Art. 105. - Le materie obbligatorie per il conseguimento del diploma sono le seguenti:
-
-Primo anno:
-
-Clinica chirurgica e terapia chirurgica;
-
-Elementi di anestesiologia nell'infanzia;
-
-Fisiologia;
-
-Patologia generale con particolare riguardo alle anomalie e alle deformita';
-
-Elementi di puericultura;
-
-Farmacologia con particolare riguardo agli anestetici;
-
-Anatomia ed istologia patologica.
-
-Secondo anno:
-
-Clinica chirurgia terapia chirurgica;
-
-Elementi di anestesiologia nell'infanzia;
-
-Tecnica degli esami endoscopici;
-
-Radiologia;
-
-Ortopedia;
-
-Clinica pediatrica.
-
-Terzo anno:
-
-Clinica chirurgica e terapia chirurgica;
-
-Elementi di anestesiologia nell'infanzia;
-
-Clinica pediatrica.
-
-Art. 106. - Gli esami di profitto, che si sostengono in gruppo di materie, sono obbligatori alla fine del secondo e terzo anno.
-
-Gli allievi che non superano alla fine del secondo anno i seguenti esami, in gruppo di materie, non possono essere iscritti al terzo anno.
-
-1° gruppo:
-
-Fisiologia. - Farmacologia - Puericultura.
-
-2° gruppo:
-
-Patologia generale - Anatomia e istologia patologica.
-
-3° gruppo:
-
-Radiologia - Ortopedia - Tecnica degli esami endoscopici.
-
-Alla fine del terzo anno, per essere ammessi all'esame di diploma, gli allievi debbono aver superato l'esame di profitto nel seguente gruppo di materie:
-
-Elementi di anestesiologia nell'infanzia;
-
-Clinica pediatrica Clinica chirurgica e terapia chirurgica.
-
-Art. 107. - L'insegnamento ha carattere pratico dimostrativo a mezzo di lezioni, colloqui ed esercitazioni sopra casi clinici.
-
-L'internato e' obbligatorio durante i tre anni di corso e si svolge nella clinica chirurgica.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 3 dicembre 1963
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 8 febbraio 1964 Atti del Governo, registro n. 180, foglio n. 26. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), modificato con [decreto del Presidente della Repubblica 12 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-12;1207), e successivi;  
-Veduto il testo unico delle leggi sull'istruzionie superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita', degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:  
-  
-Dopo l'art. 102 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Chirurgia pediatrica, annessa alla Facolta' di medicina e chirurgia.  
-  
-Scuola di specializzazione in Chirurgia pediatrica  
-  
-Art. 103. - La Scuola di specializzazione in Chirurgia pediatrica ha la durata di tre anni ed ha sede presso la clinica chirurgica, il cui professore di ruolo e' direttore della Scuola.  
-Art. 104. - L'ammissione alla Scuola si effettua solo in base a concorso per titoli ed esami.  
-Alla Scuola non potranno essere iscritti piu' di otto allievi per ciascun anno di corso.  
-Art. 105. - Le materie obbligatorie per il conseguimento del diploma sono le seguenti:  
-Primo anno:  
-Clinica chirurgica e terapia chirurgica;  
-Elementi di anestesiologia nell'infanzia;  
-Fisiologia;  
-Patologia generale con particolare riguardo alle anomalie e alle deformita';  
-Elementi di puericultura;  
-Farmacologia con particolare riguardo agli anestetici;  
-Anatomia ed istologia patologica.  
-Secondo anno:  
-Clinica chirurgia terapia chirurgica;  
-Elementi di anestesiologia nell'infanzia;  
-Tecnica degli esami endoscopici;  
-Radiologia;  
-Ortopedia;  
-Clinica pediatrica.  
-Terzo anno:  
-Clinica chirurgica e terapia chirurgica;  
-Elementi di anestesiologia nell'infanzia;  
-Clinica pediatrica.  
-Art. 106. - Gli esami di profitto, che si sostengono in gruppo di materie, sono obbligatori alla fine del secondo e terzo anno.  
-Gli allievi che non superano alla fine del secondo anno i seguenti esami, in gruppo di materie, non possono essere iscritti al terzo anno.  
-1° gruppo:  
-Fisiologia. - Farmacologia - Puericultura.  
-2° gruppo:  
-Patologia generale - Anatomia e istologia patologica.  
-3° gruppo:  
-Radiologia - Ortopedia - Tecnica degli esami endoscopici.  
-Alla fine del terzo anno, per essere ammessi all'esame di diploma, gli allievi debbono aver superato l'esame di profitto nel seguente gruppo di materie:  
-Elementi di anestesiologia nell'infanzia;  
-Clinica pediatrica Clinica chirurgica e terapia chirurgica.  
-Art. 107. - L'insegnamento ha carattere pratico dimostrativo a mezzo di lezioni, colloqui ed esercitazioni sopra casi clinici.  
-L'internato e' obbligatorio durante i tre anni di corso e si svolge nella clinica chirurgica.  
+Gli articoli 24, 25, 26, 27 e 28 dello statuto dell'Universita' di Ferrara sono sostituiti dai seguenti:  
+Art. 24. - Sono istituiti, nell'ambito della facolta', l'istituto giuridico F. Tumiati e l'istituto di economia e finanza.  
+Appartengono all'istituto giuridico F. Tumiati i seguenti insegnamenti: Istituzioni di diritto privato - Istituzioni di diritto romano - Filosofia del diritto - Storia del diritto romano - Storia del diritto italiano - Diritto costituzionale - Diritto ecclesiastico - Diritto romano - Diritto civile - Diritto commerciale - Diritto del lavoro - Diritto processuale civile - Diritto internazionale - Diritto amministrativo - Diritto penale - Procedura penale - Medicina legale e delle assicurazioni - Diritto industriale - Diritto agrario - Diritto comune - Diritto canonico - Esegesi delle fonti del diritto romano - Diritto privato comparato - Diritto pubblico comparato - Storia delle dottrine e delle istituzioni politiche - Ordinamento delle Comunita' europee - Diritto costituzionale regionale - Diritto processuale amministrativo - Sociologia - Istituzioni di diritto penale - Esegesi delle fonti della storia del diritto italiano - Criminologia - Diritto della navigazione - Dottrina dello Stato - Diritto della previdenza sociale - Diritto fallimentare - Diritto penale commerciale - Istituzioni di diritto pubblico - Scienza dell'amministrazione - Teoria generale del diritto - Storia dei sistemi di relazione fra Stato e Chiesa - Teoria generale del processo - Diritto pubblico dell'economia.  
+Appartengono all'istituto di economia e finanza i seguenti insegnamenti: Economia politica - Scienza delle finanze e diritto finanziario - Statistica - Diritto tributario - Storia delle dottrine economiche.  
+Art. 25. - Con regolamento interno di istituto, le attrezzature didattico-scientifiche saranno ripartite in appositi seminari che raggruppino materie di insegnamento tra loro affini allo scopo di una piu' efficace realizzazione della ricerca scientifica, di un migliore svolgimento dell'attivita' didattica.  
+Art. 26. - I direttori degli istituti saranno nominati secondo le norme della legislazione universitaria in vigore e dureranno in carica tre anni. I direttori riferiranno annualmente alla facolta' sull'andamento amministrativo degli istituti, e sono altresi' tenuti a riferire in qualsiasi momento sull'attivita', anche ordinaria, dell'istituto al consiglio formato da tutti i docenti dello istituto medesimo.  
+Il consiglio d'istituto e' convocato dal direttore o su richiesta di almeno un quarto dei suoi componenti.  
+Art. 27. - Sono ammessi alla consultazione dei volumi delle biblioteche degli istituti gli studenti e i docenti dell'Universita' di Ferrara e tutti coloro che ne ottengano espressa autorizzazione dal direttore.  
+Art. 28. - L'istituto giuridico F. Tumiati e l'istituto di economia e finanza hanno ciascuno una propria biblioteca, curata da apposito personale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 dicembre 1963
+### Dato a Roma, addi' 31 ottobre 1979
 
-SEGNI GUI
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 8 febbraio 1964
+Registrato alla Corte dei conti, addi' 26 aprile 1980
 
-Atti del Governo, registro n. 180, foglio n. 26. - VILLA
+Registro n. 38 Istruzione, foglio n. 26

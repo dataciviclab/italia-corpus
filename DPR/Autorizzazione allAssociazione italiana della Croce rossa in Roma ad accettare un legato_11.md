@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1983 n. 791
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 giugno 1982 n. 733
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1983 n. 791
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 giugno 1982 n. 733
+=============================================================
 
 Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-791. Decreto del Presidente della Repubblica 5 dicembre 1983, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato, consistente in lingotti d'oro contenuti in una cassetta del Banco Ambrosiano di Milano, per un valore complessivo di L. 45.637.000 circa, e nella mobilia esistente nell'abitazione del de cuius in Montecarlo (Principato di Monaco), disposto dal dott.  
-Giuseppe Vismara con testamento olografo 16 settembre 1961, pubblicato in data 6 novembre 1975, n. 197390/31690 di repertorio, a rogito dott. Raffaello Meneghini, notaio in Milano, registrato a Milano in data 12 novembre 1975 al numero 10861.  
+733. Decreto del Presidente della Repubblica 17 giugno 1982, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 1.000.000 depositata in cartelle di obbligazioni "B.E.I. - Autostrada I.R.I. - Piano verde" presso il Banco di Chiavari della Riviera ligure, disposto dalla sig.ra Angelica Vitali in favore del sottocomitato C.R.I. di Alassio (Savona) con testamento olografo 25 marzo 1974, pubblicato in data 18 novembre 1976, n. 15027/3755 di repertorio, a rogito dott. Fernando Cauli, notaio in Alassio, registrato ad Albenga (Savona) in data 25 novembre 1976 al n. 4054.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 5 gennaio 1984  
-Registro n. 1 Sanita', foglio n. 31
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 2 ottobre 1982  
+Registro n. 6 Sanita', foglio n. 235

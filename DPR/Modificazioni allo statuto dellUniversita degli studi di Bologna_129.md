@@ -1,58 +1,52 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1980 n. 340
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1977 n. 723
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1980 n. 340
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1977 n. 723
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-L'art. 654, relativo alla scuola per terapisti della riabilitazione dell'Universita' di Bologna, e' sostituito dal seguente:  
+Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-La sede della scuola e' la clinica ortopedica dell'Universita' di Bologna, ubicata presso l'istituto ortopedico Rizzoli.  
-Il direttore della scuola e' nominato dalla facolta' tra i professori di ruolo della facolta' stessa.  
-La direzione didattica si avvale della collaborazione dei titolari degli insegnamenti di terapia fisica e di clinica neurologica e del dirigente il servizio di riabilitazione.  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+L'art. 136, relativo alle propedeuticita' degli esami del corso di laurea in farmacia, e' integrato con il seguente comma:  
+e) lo studente non puo' iscriversi al laboratorio del primo corso di esercitazioni di chimica farmaceutica e tossicologia se non ha superato l'esame di chimica generale ed inorganica. Lo studente non puo' iscriversi al laboratorio del secondo corso di esercitazioni di chimica farmaceutica e tossicologia se non ha superato l'esame di chimica organica.  
+L'art. 144, relativo all'ordinamento degli studi del corso di laurea in chimica e tecnologia, e' modificato nel senso che dopo il primo comma successivo all'elenco degli insegnamenti complementari sono inseriti i seguenti due commi:  
+  
+Lo studente non puo' iscriversi al laboratorio del primo corso di analisi chimico-farmaceutica se non ha superato l'esame di chimica generale ed inorganica.  
+Lo studente non puo' iscriversi al laboratorio del terzo corso di analisi chimico-farmaceutica se non ha superato l'esame di chimica organica.  
+L'art. 292, relativo ai titoli di ammissione alla scuola di perfezionamento in archeologia, e' modificato nel senso che sono aggiunte le seguenti parole: "e in storia, purche' il laureato in storia abbia sostenuto con esito favorevole almeno un esame in storia antica, o in storia dell'arte antica o in archeologia o materia affine".  
+Dopo l'art. 298, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla scuola in musicologia.  
+Art. 299. - Le entrate della scuola sono costituite dalle tasse, soprattasse e contributi scolastici e dai contributi erogati eventualmente dallo Stato, dall'Universita', da enti e da privati.  
+Art. 300. - Per raggiungere i suoi scopi didattici e scientifici, la scuola affianca agli insegnamenti previsti, esercitazioni, seminari, conferenze, gruppi di ricerca, corsi di musicologia, convegni, ecc. Possono essere attuate serie di pubblicazioni a stampa, con cui docenti, diplomandi e diplomati diano atto del loro lavoro di ricerca e di studio.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 febbraio 1980
+### Dato a Roma, addi' 1 giugno 1977
 
-PERTINI VALITUTTI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 26 giugno 1980
+Registrato alla Corte dei conti, addi' 26 settembre 1977
 
-Registro n. 61 Istruzione, foglio n. 309
+Registro n. 106 Istruzione, foglio n. 365

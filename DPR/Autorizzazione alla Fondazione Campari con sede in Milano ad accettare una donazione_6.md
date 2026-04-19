@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 luglio 1963 n. 1222
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1967 n. 883
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 luglio 1963 n. 1222
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1967 n. 883
+=============================================================
 
 Autorizzazione alla Fondazione Campari, con sede in Milano, ad accettare una donazione.
 ---------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1222. Decreto del Presidente della Repubblica 23 luglio 1963, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, la Fondazione Campari, con sede in Milano, viene autorizzata ad accettare la donazione, deliberata dalla S.p.a. "Davide Campari", con sede in Milano, della somma di lire 30.000.000 (trentamilioni) in titoli di Stato, con atto in data 9 maggio 1962 a rogito notaio Piontelli, n. di rep. 125901/7321, da destinarsi all'aumento del fondo "Case".  
+883. Decreto del Presidente della Repubblica 18 luglio 1967, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, la Fondazione Campari, con sede in Milano, viene autorizzata ad accettare la donazione disposta a suo favore dalla S.p.A. Davide Campari costituita da buoni del Tesoro, con scadenza 1973-74, del complessivo ammontare di lire 40.000.000.  
   
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 16 settembre 1963  
-Atti del Governo, registro n. 174, foglio n. 48. - VILLA
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 29 settembre 1967  
+Atti del Governo, registro n. 214, foglio n. 22. - GRECO

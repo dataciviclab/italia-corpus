@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 1044
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 gennaio 1984 n. 139
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 1044
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 gennaio 1984 n. 139
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Palermo.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412); e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -39,19 +39,18 @@ Articolo unico
 --------------
 
   
-Nell'art. 105, relativo al corso di laurea in scienze agrarie, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-acarologia agraria.  
+Art. 60 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' inserito l'insegnamento di "algologia".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Selva di Val Gardena, addi' 2 settembre 1983
+### Dato a Roma, addi' 20 gennaio 1984
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 29 febbraio 1984
+Registrato alla Corte dei conti, addi' 28 aprile 1984
 
-Registro n. 13 Istruzione, foglio n. 58
+Registro n. 25 Istruzione, foglio n. 199

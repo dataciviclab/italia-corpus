@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 marzo 1977 n. 178
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 dicembre 1976 n. 1061
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 marzo 1977 n. 178
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 dicembre 1976 n. 1061
+================================================================
 
 Autorizzazione all'Ente nazionale ACLI per l'istruzione professionale, in Roma, ad acquistare un immobile.
 ----------------------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-178. Decreto del Presidente della Repubblica 8 marzo 1977, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Ente nazionale ACLI per l'istruzione professionale (ENAIP), in Roma, viene autorizzato ad acquistare dal beneficio parrocchiale dei SS. Pietro e Leopoldo di Saline di Volterra (Pisa), nella persona del titolare pro-tempore rev. Damasco Ghiribelli, abilitato all'atto dalle competenti autorita' e col consenso della curia arcivescovile di Volterra, per il prezzo globale di lire 5.000.000, un appezzamento di terreno ubicato in localita' Saline di Volterra (Pisa), avente una estensione di mq 905 contraddistinto al foglio di mappa 188, porzione urbana B della particella 148 ed il fabbricato esistente nello stesso terreno.  
+1061. Decreto del Presidente della Repubblica 30 dicembre 1976, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Ente nazionale ACLI per l'istruzione professionale (ENAIP), in Roma, viene autorizzato ad acquistare dai signori Lanzillotto Giovanni e Carmelo e Ramundo Antonietta agenti nella loro qualita' di eredi di Lanzillotto Francesco e di liquidatori della S.p.a. "F. Lanzillotto & C.", al prezzo  
+complessivo di L. 16.500.000, il complesso immobiliare sito in Galatone (Lecce), via Tenente Sabato, 8 e cosi' costituito: due corpi di fabbricato per complessivi mq 640 circa, descritti nel catasto rustico del comune di Galatone al foglio 24, particella 36/b, 36/c, 128/b, 128/a, comprendente, altresi', una fascia di terreno di 4 metri di ampiezza, rappresentante la meta' del suolo necessario per l'apertura della strada prevista dal piano regolatore del comune di Galatone, da destinare allo svolgimento di attivita' di formazione professionale dei lavoratori.   
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 5 maggio 1977  
-Registro n. 1 Lavoro, foglio n. 15
+Visto, il Guardasigilli: BONIFACIO   
+Registrato alla Corte dei conti, addi' 9 giugno 1977   
+Registro n. 1 Lavoro, foglio n. 19

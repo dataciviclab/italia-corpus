@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1971 n. 1351
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1963 n. 2370
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1971 n. 1351
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1963 n. 2370
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -12,198 +12,118 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta, la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli da 367 a 380, relativi alla scuola speciale di assistenza sociale e di ricerca per le scienze morali e sociali sono abrogati e sostituiti dai seguenti:  
-Art. 367. - Presso l'istituto di filosofia della facolta' di lettere e filosofia dell'Universita' degli studi di Roma e' istituita una scuola speciale denominata Centro di educazione professionale per assistenti sociali (Cepas), ai sensi dell'[art. 20, terzo comma, lettera a) del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20-com3-leta).  
-La scuola conferisce il diploma di assistente sociale ed educatore degli adulti al termine di un corso di studi triennali.  
-Per l'ammissione al corso e' richiesto un titolo di scuola media secondaria superiore.  
-Art. 368. - I proventi della scuola sono costituiti dalle tasse scolastiche, dagli eventuali contributi dello Stato, dell'universita', di enti pubblici e di privati, lasciti, donazioni e relativi redditi.  
-Tali proventi sono destinati a coprire:  
+Art. 38. - All'elenco degli istituti della Facolta' di economia e commercio, e' aggiunto il seguente:  
+Istituto di Diritto del lavoro.  
+Art. 56. - All'elenco degli insegnamenti complementari del corso di laurea in Lettere, sono aggiunti i seguenti:  
+Storia e vita culturale in Austria;  
+Storia della lingua latina Dialettologia greca;  
+Filologia micenea;  
+Paleografia greca;  
+Disegno e rilievo dei monumenti.  
+Nello stesso articolo l'ultimo comma: "L'elenco di Letteratura latina e' preceduto da una prova scritta di traduzione da latino" e' abrogato e sostituito dal seguente: "Lo studente deve superare una prova scritta di traduzione latina".  
+Art. 57. - All'elenco degli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti i seguenti Logica;  
+Antropologia culturale;  
+Psicologia sociale;  
+Psicologia dell'eta' evolutiva;  
+Storia della scienza.  
+Nello stesso articolo l'ultimo comma: "L'esame di Letteratura latina comprende una prova scritta di traduzione dal latino" e' abrogato.  
+Art. 67. - All'elenco degli insegnamenti complementari del corso di laurea in Pedagogia e' aggiunto quello di "Pedagogia speciale".  
+Dopo l'art. 226, e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli, relativi alla istituzione della Scuola di perfezionamento in Sociologia e ricerca sociale e del corso di specializzazione in Meccanografia per diplomati e laureati in Statistica.  
+Art. 227. - Presso la Facolta' di scienze statistiche, demografiche ad attuariali sono istituite le Scuole di perfezionamento e di specializzazione appresso indicate:  
+Scuola di perfezionamento in Sociologia e ricerca sociale;  
+Corso di specializzazione in Meccanografia (per diplomati e laureati in statistica).  
+Art. 228. - Le Scuole hanno lo scopo di promuovere l'incremento degli studi ai quali ciascuna s'intitola e di integrare o specializzare la preparazione dei laureati nell'ambito di tali studi.  
+Art. 229. - Le Scuole rilasciano i diplomi di perfezionamento o di specializzazione per ciascuna indicati.  
+La dissertazione prevista per l'esame di diploma deve avere carattere di ricerca originale.  
+Art. 230. - Per quanto non previsto dall'ordinamento delle singole Scuole, si applicano le disposizioni generali di cui al Titolo XV dello statuto dell'Universita' di Roma.  
   
-a) la spesa per gli stipendi ed assegni al personale insegnante, assistente, tecnico e di segreteria della scuola;  
-b) la quota spese per l'uso dei locali e per le spese generali;  
-c) la concessione agli studenti meritevoli e di condizioni economiche non agiate, regolarmente iscritti alla scuola, di borse, premi ed assegni di studio;  
-d) le altre spese competenti direttamente alla scuola (biblioteca, pubblicazioni scientifiche, ricerche, ecc.);  
-e) le spese per soggiorni di studio all'estero di propri studenti o derivanti da scambi di docenti o studenti con analoghe istituzioni straniere.  
+Scuola di perfezionamento in Sociologia e ricerca sociale  
   
-Art. 369. - Gli organi della scuola sono:  
-il comitato direttivo; il consiglio della scuola; il direttore e il vicedirettore.  
-Art. 370. - La scuola e' gestita dal comitato direttivo che e' cosi' costituito:  
+Art. 231. Alla Scuola di perfezionamento in sociologia e ricerca sociale sono ammessi i laureati in Scienze statistiche, e su parere del Consiglio della scuola, i laureati di ogni altra Facolta' di Universita' italiane ed estere, ai quali potra' essere richiesto un colloquio a integrazione del curriculum degli studi e degli eventuali altri titoli presentati dai candidati.  
+Art. 232. - La Scuola di perfezionamento ha la durata di due anni, ma il Consiglio della scuola, cui spetta la formazione dei piani di studio individuali, puo' concedere l'abbreviazione ad un anno a quei candidati gia' in possesso di un'adeguata preparazione agli studi sociologici o alla ricerca sociale.  
+Qualora invece il Consiglio ritenga insufficiente la preparazione specifica del candidato, esso potra' imporre l'obbligo di superare presso la Facolta' un certo numero di esami propedeutici nel campo della Statistica, della Demografia, della Economia, del Diritto e della Sociologia.  
+In tal caso il candidato non potra' essere iscritto al successivo anno di corso se non avra' superato i prescritti esami propedeutici e non avra' sostenuto almeno due colloqui relativi ad insegnamenti della Scuola.  
+Art. 233. - Sono materie fondamentali d'insegnamento:  
+1) Teoria degli equilibri sociali;  
+2) Sociologia economica;  
+3) Sociologia giuridica;  
+4) Metodologia e tecnica della ricerca sociale.  
+Sono materie complementari d'insegnamento:  
+1) Cibernetica e teorica dell'informazione;  
+2) Sociologia dei paesi in via di sviluppo;  
+3) Sociologia rurale e urbana;  
+4) Sociologia politica;  
+5) Sociologia del lavoro;  
+6) Sociologia delle civilizzazioni.  
+Art. 234. - Il Consiglio della scuola potra' inserire anche altri corsi tra gli insegnamenti complementari e determinera' ciascun anno quali insegnamenti complementari saranno semestrali e quali annuali, fermo restando che due insegnamenti semestrali equivalgono ad un insegnamento annuale.  
+Art. 235. - Per essere ammessi all'esame di diploma i candidati devono aver superato un colloquio in ciascuna delle materie fondamentali e in 4 insegnamenti complementari.  
+Art. 236. - L'esame di diploma consiste nella preparazione di una dissertazione scritta e nella discussione orale della dissertazione stessa.  
+Art. 237. - La Scuola rilascia un diploma di specializzazione in Sociologia e ricerca sociale.  
+Art. 238. - I diplomati in Statistica e i funzionari degli enti pubblici e privati addetti ad attivita' di ricerche, questi ultimi su richiesta degli Enti dai quali dipendono, possono essere ammessi a frequentare uno o piu' corsi della Scuola. Essi potranno ottenere alla fine del corso un certificato comprovante gli studi compiuti e i voti di profitto riportati.  
   
-a) dai professori di ruolo e fuori ruolo dell'istituto di filosofia;  
-b) da due rappresentanti di ciascuno degli enti e dei privati, finanziatori della scuola, da questi designati;  
-c) da altri docenti o esperti del servizio sociale, designati dai professori di cui alla lettera a), in numero pari a quello dei componenti di cui alla lettera b);  
-d) dal direttore e dal vicedirettore.  
+Corso di specializzazione in Meccanografia  
   
-Il comitato direttivo della scuola:  
+Art. 239. - Al corso sono ammessi i diplomati e i laureati in Statistica.  
+Art. 240. - La durata del corso e' di un anno.  
+Art. 241. - Sono materie d'insegnamento:  
+1) Principi e tecnica delle applicazioni meccanografiche ed elettroniche;  
+2) Piano d'indagine ed elaborazione meccanografica;  
+3) Elaborazione e rappresentazione dei dati statistici;  
+4) Meccanizzazione dei servizi amministrativi;  
+5) Meccanizzazione dei servizi contabili bancari;  
+6) Meccanizzazione degli istituti di assicurazione e di previdenza;  
+7) Meccanizzazione dei servizi esattoriali;  
+8) Calcoli statistici con gli elaboratori elettronici.  
+Simulazione con gli elaboratori elettronici (Metodo di Montecarlo);  
+9) Concetti statistici e modelli dinamici nella gestione aziendale.  
+Art. 242. - Per ottenere il certificato comprovante la frequenza e il profitto il candidato dovra' superare gli esami degli insegnamenti 1), 2) e 3) e di due fra gli insegnamenti 4) e 9) che saranno realizzati dalla Scuola nell'anno della sua iscrizione e sostenere l'esame finale consistente nella discussione di un progetto originale di lavoro meccanografico od elettronico e in un colloquio su tutti gli argomenti del corso.  
+Art. 280. - All'elenco degli insegnamenti della Scuola di perfezionamento in Filosofia sono aggiunti quelli di:  
+Storia delle dottrine politiche;  
+Filosofia del diritto.  
+Dopo l'art. 540 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli, relativi alla istituzione del corso di perfezionamento in Medicina nucleare.  
   
-a) designa il direttore, la cui nomina avviene per decreto rettorale, sentito il consiglio di facolta';  
-b) nomina, su designazione del direttore, il vicedirettore;  
-c) delibera il bilancio interno della scuola;  
-d) approva, sentito il consiglio della scuola, il regolamento della scuola e le sue modificazioni.  
+Corso di perfezionamento in Medicina nucleare  
   
-Art. 371. - Il consiglio della scuola e' composto dal direttore, che lo presiede, dal vicedirettore e dai docenti.  
-Il consiglio delibera sui piani di studio e su ogni questione di carattere disciplinare e su questioni didattiche. Viene convocato dal direttore e si riunisce di diritto all'inizio e al termine di ciascun anno di corso e ogni qualvolta il direttore lo ritenga necessario ovvero almeno un quinto del consiglio ne faccia richiesta scritta al direttore.  
-Gli incarichi di insegnamento sono conferiti dal rettore su proposta del direttore della scuola, sentito il vicedirettore.  
-Art. 372. - Il corso di diploma ha la durata di tre anni. La scuola conferisce inoltre un diploma di 2° grado a coloro che avendo conseguito il diploma triennale si iscrivono ad un quarto anno che comporta l'approfondimento di tre delle materie di insegnamento di cui al successivo art. 373 idonee a specificare un indirizzo professionale e di ricerca sulla base di un piano di studi concordato con la scuola.  
-I singoli insegnamenti possono svolgersi durante l'intero anno scolastico o in un solo semestre.  
-E' ammesso il prolungamento del periodo di iscrizione, con collocazione dell'allievo fuori corso, purche' il prolungamento non superi la durata del corso stesso.  
-Gli esami sostenuti presso la scuola, nelle materie previste dallo statuto per la facolta', sono automaticamente convalidati qualora, al termine di qualsiasi anno di corso, o conseguito il diploma, lo studente chieda l'iscrizione alla facolta' stessa. Gli altri esami possono essere riconosciuti, secondo gli stessi criteri adottati per il passaggio da una ad altra facolta' universitaria, in quanto riconosciuti affini a quelli finali delle materie effettivamente impartite in altre facolta', che lo studente puo' proporre di inserire nel proprio piano di studi. In sede di riconoscimento, due corsi semestrali su materie affini possono essere giudicati equivalenti ad uno normale delle facolta'.  
-Art. 373. - L'insegnamento ha insieme carattere teorico e pratico.  
-Le materie d'insegnamento e i corsi sono i seguenti:  
-  
-1° Anno:  
-Metodologia del servizio sociale (semestrale);  
-Servizio sociale: lavoro sociale individuale I (semestrale);  
-Servizio sociale: lavoro sociale di gruppo I (annuale);  
-Ricerca sociale I (semestrale);  
-Storia delle dottrine politiche e sociali (semestrale);  
-Sociologia (annuale);  
-Antropologia culturale (semestrale);  
-Psicologia sociale (semestrale);  
-Sviluppo psicofisico dell'individuo, corso interdisciplinare (annuale);  
-Diritto pubblico (semestrale);  
-Diritto familiare e legislazione minorile (semestrale);  
-Legislazione sociale e assistenziale (annuale);  
-Politica economica e sociale (semestrale);  
-Tirocinio pre-professionale.  
-  
-2° Anno:  
-Servizio sociale: lavoro sociale individuale II (annuale);  
-Servizio sociale: lavoro sociale di gruppo II (annuale);  
-Servizio sociale: lavoro sociale di comunita' (semestrale);  
-Ricerca sociale (semestrale);  
-Pedagogia dell'educazione degli adulti (semestrale);  
-Amministrazione ed organizzazione dei servizi sociali (semestrale);  
-Psicopatologia e igiene mentale (annuale);  
-Igiene e medicina sociale (semestrale);  
-Tirocinio professionale.  
-  
-3° Anno:  
-Servizio sociale: seminari interdisciplinari sui campi di applicazione del servizio sociale (annuale);  
-Storia comparata dell'educazione degli adulti e del servizio sociale (annuale);  
-Ricerca applicata al lavoro sociale (annuale);  
-Amministrazione ed organizzazione dei servizi sociali (annuale);  
-Pianificazione sociale e sviluppo di comunita' (annuale);  
-Tirocinio professionale.  
-Tutti gli insegnamenti possono essere svolti in forma di seminario.  
-  
-Gli studenti di 3° anno debbono frequentare almeno uno dei seminari interdisciplinari sui campi di applicazione del servizio sociale fra quelli che, in quell'anno, il consiglio della scuola decidera' di effettuare.  
-Le esercitazioni pratiche si svolgono nell'ambito dei singoli insegnamenti a scopo di illustrazione, applicazione e integrazione della parte teorica. I tirocini professionali si svolgono presso enti pubblici e privati sotto la supervisione di assistenti sociali qualificati.  
-Art. 374. - Gli esami si svolgono di norma in due sessioni, la prima dopo la chiusura annuale dei corsi e la seconda prima dell'inizio del nuovo anno. Puo' essere predisposto lo svolgimento congiunto per gruppi di materie.  
-Per il passaggio da un anno all'altro gli studenti dovranno avere seguito i corsi indicati nel piano di studi stabilito dal consiglio della scuola, superati gli esami relativi e compiuto con esito favorevole i tirocini prescritti.  
-L'esame finale per il conseguimento del "Diploma di assistente sociale ed educatore degli adulti", consiste nella preparazione e discussione di un elaborato scritto in cui il candidato dimostri la sua capacita' di applicare le conoscenze acquisite.  
-La discussione ha luogo davanti ad una commissione nominata dal direttore, che la presiede, e formata da almeno nove membri del consiglio della scuola e da un rappresentante del comitato direttivo della scuola.  
-Potranno far parte della commissione relatori e correlatori esterni al corpo docente, nominati di volta in volta dal direttore della scuola.  
-Al termine del IV anno gli studenti discutono, dinanzi ad una commissione analoga a quella del comma precedente, una dissertazione scritta attinente all'indirizzo professionale e di ricerca prescelto.  
-  
-Norma transitoria.  
-  
-I diplomandi del preesistente Cepas di Roma potranno essere ammessi a giudizio del consiglio della scuola alla discussione della tesi di diploma entro e non oltre l'anno accademico 1973/1974.  
-Gli ex iscritti dello stesso Cepas, che abbiano sostenuto l'esame finale di diploma presso di esso, potranno ottenere il corrispondente diploma della scuola previo aggiornamento scritto, presentazione e discussione dell'elaborato gia' discusso, davanti alla commissione di diploma di cui all'art. 374.  
-  
-Scuola di perfezionamento nelle scienze morali e sociali  
-  
-Art. 375. - E' istituita una scuola di perfezionamento nelle scienze morali e sociali con lo scopo - oltre ai fini di cui all'art. 367 - di promuovere in tale ambito inchieste e studi su base interdisciplinare, sia mediante indagini nel campo sia mediante ricerche e discussioni di natura metodologiche e indagini puramente dottrinali.  
-A tal fine e' costituito nell'ambito della scuola un Centro di ricerca per le scienze morali e sociali, che puo' articolarsi in sezioni per promuovere gli studi e le ricerche predette, con particolare riguardo ai problemi che sorgono dall'incontro delle singole culture e strutture nazionali sul piano della comunita' europea.  
-In stretta correlazione con tale attivita', la scuola organizza corsi di formazione per ricercatori scientifici.  
-Essi hanno, di norma, la durata di tre anni e comprendono insegnamenti metodologici, seminari e tirocini per l'addestramento alla ricerca. Al loro termine e' previsto il conseguimento del diploma di ricercatore nelle scienze storico-morali e, rispettivamente, nelle scienze sociali.  
-Art. 376. - Il consiglio della scuola, costituito ai sensi dell'art. 369:  
-  
-a) ne designa il direttore, la cui nomina avviene per decreto rettorale, su proposta del consiglio della facolta' di lettere e filosofia;  
-b) propone, su indicazione del direttore, il vicedirettore;  
-c) nomina su proposta del direttore, il presidente del centro scegliendolo fra studiosi italiani e stranieri;  
-d) nomina, su proposta del presidente del centro, i direttori delle eventuali sezioni in cui esso si articoli e del suo organo scientifico, la rivista "De Homine";  
-e) approva i regolamenti della scuola e del centro, sentito il suo presidente.  
-  
-Art. 377. - La scuola ha un consiglio dei docenti, composto dal direttore che lo presiede, dal vicedirettore e dai professori ed esperti che in essa insegnano. Il consiglio delibera sui piani di studio e su ogni altra questione didattica e disciplinare, su convocazione del direttore. E' riunito di diritto all'inizio e al termine di ciascun anno di corso.  
-Gli incarichi di insegnamento annuale sono conferiti dal consiglio della facolta' di lettere, su proposta del direttore della scuola, a docenti universitari anche di altre facolta' e specialisti di alto e riconosciuto valore delle singole materie.  
-Art. 378. - Il comitato direttivo del centro e' costituito:  
-  
-a) dal presidente;  
-b) dagli eventuali direttori di ricerca;  
-c) da due rappresentanti di ciascuno degli enti, o privati finanziatori del centro, da questi designati;  
-d) da altri studiosi, anche stranieri, designati dal consiglio della scuola in numero pari a quello dei componenti di cui alla lettera c);  
-e) dal direttore e dal vicedirettore della scuola.  
-  
-Art. 379. - Sono ammessi alla scuola i laureati della facolta' di lettere e filosofia di Roma nonche' i diplomati della scuola speciale (Cepas), e, previo esame-colloquio di accertamento dell'idoneita', di laureati di qualsiasi facolta' italiana e, in quanto le vigenti disposizioni lo consentano, di universita' di altri paesi.  
-Il perfezionando e' tenuto a includere nel proprio piano di studio, formato per libera elezione, previa discussione orientativa con la commissione di ammissione, e modificabile nella stessa forma anche in corso di studi:  
-  
-a) almeno cinque insegnamenti annuali del corso del primo anno di studi, anche diversi da quelli previsti nel successivo art. 365 come comuni, a condizione che nel corso di precedenti specializzazioni scientifiche ne abbia seguiti altri riconosciuti equivalenti dal consiglio dei docenti;  
-b) almeno quattro insegnamenti annuali e due seminari semestrali, sostituibili da un quinto insegnamento annuale, nel corso del secondo anno di studi: non piu' di un insegnamento puo' essere attinto al gruppo diverso da quello prescelto;  
-c) almeno due seminari nel corso del terzo anno di studi.  
-  
-Nei primi due anni, il perfezionando dovra' partecipare ad una ricerca di gruppo tra quelle promosse dal centro. Nel terzo, la frequenza della scuola puo' essere in tutto o in parte sostituita da un soggiorno di studio all'estero, nel quadro degli scambi culturali da questa promossi e in relazione allo scientifico soggetto di ricerca o di dissertazione finale.  
-Art. 380. - L'attivita' didattica della scuola si articola in corsi annuali e seminari semestrali. I seminari, svolti se del caso su base interdisciplinare da piu' docenti, anche esterni alla scuola, sono determinati anno per anno anche in rapporto ai programmi di ricerca del centro. Gli incarichi per i corsi e i seminari sono conferiti dal direttore, sentiti il vicedirettore e il presidente del centro. I corsi annuali sono i seguenti:  
-  
-1° Anno (comune):  
-1) Teorie critiche della societa' contemporanea (o altro equivalente di filosofia morale);  
-2) Metodologia delle scienze sociali;  
-3) Sociologia e storia delle istituzioni;  
-4) Psicologia sociale;  
-5) Statistica e demografia.  
-  
-2° Anno (gruppo di scienze storico-morali):  
-6) Tecniche della ricerca storica;  
-7) Teoria e critica dei valori;  
-8) Etica applicata;  
-9) Antropologia culturale moderna;  
-10) Sociologia della conoscenza;  
-11) Teoria e critica dell'ideologia;  
-12) Teorie del diritto e dello Stato;  
-13) Sociologia della letteratura e dell'arte;  
-14) Sociologia e storia della religione;  
-15) Storia del folklore;  
-16) Geografia storica;  
-17) Storia costituzionale;  
-17-bis) Storia dell'economia moderna e contemporanea.  
-  
-2° Anno (gruppo di scienze sociali):  
-18) Storia del pensiero sociologico;  
-19) Storia sociale moderna;  
-20) Geografia sociale;  
-21) Antropologia culturale;  
-22) Matematica per le scienze sociali;  
-23) Sociologia comparata europea;  
-24) Istituzioni politiche europee comparate;  
-25) Modellistica dello sviluppo economico;  
-26) Sociologia economica;  
-27) Comunicazioni di massa;  
-28) Tecniche della ricerca sociale.  
-Gli insegnamenti di cui ai numeri 1)-5), 6)-7), 18)-19) hanno carattere costitutivo.  
-  
-Art. 381. - Le prove di esame consistono in un colloquio al termine di ciascuno dei primi due anni, attinente sia ai corsi e ai seminari seguiti, sia alle ricerche cui ha collaborato lo specializzando. La commissione esaminatrice e' composta dai docenti dei corsi e dei seminari interessati.  
-La prova finale per il conseguimento del diploma di ricercatore consiste nella discussione dei risultati di una ricerca individuale o di gruppo intrapresa dallo specializzando nel corso del terzo anno su uno schema concordato con il direttore della scuola e con un docente, a coronamento del piano individuale di studi.  
-La commissione e' formata dal direttore, che la presiede, da quattro docenti della scuola da lui designati, tra i quali quello che ha seguito la ricerca in veste di relatore; dal presidente del centro, che puo' farsi sostituire dal direttore di una sezione; dal vicedirettore con funzioni anche di segretario. I risultati devono avere piena dignita' scientifica ed essere degni di stampa; e' riservato al centro entro un anno dalla discussione, il diritto di inserirli nelle sue pubblicazioni.  
-Art. 382. - La scuola, anche di concerto con enti pubblici e privati, puo' istituire nell'ambito del centro corsi biennali per il conseguimento di diplomi di pianificatore sociale, di amministratore sociale, di tecnico laureato nell'universita', o nell'ambito dell'insegnamento secondario. Il regolamento di tali corsi e' approvato dal consiglio della scuola su proposta del comitato direttivo del centro.  
-Esso deve in ogni caso prevedere:  
-  
-a) che non meno della meta' degli insegnamenti obbligatori annuali, in numero comunque non inferiore a cinque, sia scelto fra quelli indicati nell'art. 380;  
-b) che, in ogni caso i corsi e i seminari scelti fra quelli della scuola siano riconosciuti come validi in caso di ulteriore proseguimento degli studi per il conseguimento del diploma di ricercatore;  
-c) che la commissione di ammissione di cui all'articolo 379 determini in tal caso l'anno al quale iscrivere lo specializzando, ferma restando la libera elezione da parte di quest'ultimo del piano di studi e di ricerche da seguire.  
+Art. 541. - Il corso ha la finalita' di fornire una preparazione specifica, teorica e pratica, per l'impiego diagnostico e terapeutico dei radioisotopi e delle radiazioni di alta energia.  
+Art. 542. - Gli insegnamenti del corso di perfezionamento in Medicina nucleare hanno la durata di un anno e sono impartiti in collaborazione dall'Istituto di patologia medica e dall'Istituto di radiologia medica dell'Universita' di Roma.  
+Art. 543. - Il corso e' suddiviso in due sezioni: una di diagnostica radioisotopica e l'altra terapia.  
+Alla sezione diagnostica possono accedere i laureati in Medicina e chirurgia; alla sezione terapeutica possono accedere solo i medici gia' diplomati in Radiologia.  
+E' previsto un concorso per l'ammissione.  
+Art. 544. - Il numero degli iscritti non potra' essere superiore a dieci.  
+Art. 545. - Il corso di perfezionamento in Medicina nucleare consente il conseguimento di due tipi di certificati di frequenza e di esami con la indicazione della sezione prescelta dal candidato.  
+Art. 546. - La direzione del corso viene assunta ad anni alterni dal direttore dell'Istituto di patologia medica e dal direttore dell'Istituto di radiologia medica, i quali concordano preventivamente ogni anno i programmi.  
+Art. 547. - Le materie di insegnamento sono le seguenti:  
+1) Fondamenti di Matematica, di Fisica e di tecnica (elementi di Matematica e di statistica, Fisica generale; Radioattivita'; Fisica delle radiazioni; Strumentazioni e tecniche di rivelazione, Dosimetria; nozioni di Radiochimica).  
+2) Fondamenti biologici (Radiobiologia; impiego dei radioisotopi come traccianti; protezione dalle radiazioni).  
+3) Applicazioni diagnostiche dei radioisotopi (studio morfologico e funzionale degli organi; fegato, rene, pancreas, ghiandole a secrezione interna; studio dell'apparato circolatorio: studio del sistema emolinfopoietico; studio del ricambio; diagnostica dei tumori).  
+4) Applicazioni terapeutiche (fondamenti generali della radioterapia; terapia con radioisotopi introdotti per via interna, radioterapia esterna con radiazioni di alta energia).  
+Gli insegnamenti sono accompagnati da dimostrazioni e da esercitazioni.  
+Art. 548. - Gli iscritti alla sezione di terapia devono, seguire tutti gli insegnamenti di cui al precedente articolo: quelli iscritti alla sezione di diagnostica radioisotopica seguono gli insegnamenti di cui ai numeri 1), 2) e 3).  
+Art. 549. - Le modalita' di svolgimento degli esami di profitto vengono stabilite di anno in anno e comunicate in un apposito manifesto annuale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1971
+### Dato a Sassari, addi' 31 dicembre 1963
 
-SARAGAT MISASI
+SEGNI GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 23 febbraio 1972
+Registrato alla corte dei conti, addi' 10 marzo 1964
 
-Atti del Governo, registro n. 247, foglio n. 44. - VALENTINI
+Atti del Governo, registro n. 182, foglio n. 1. - VILLA

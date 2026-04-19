@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 marzo 1955 n. 331
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1980 n. 630
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 marzo 1955 n. 331
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1980 n. 630
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Sassari.
 -------------------------------------------------------------------
@@ -10,95 +10,78 @@ Modificazioni allo statuto dell'Universita' degli studi di Sassari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1804](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1804) e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e coi [decreti del Presidente della Repubblica 28 aprile 1951, n. 769](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-28;769) e [27 ottobre 1951, n. 1848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1848);
+Veduto lo statuto dell'Universita' di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084) e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 3 novembre 1952, n. 1787](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-11-03;1787);
-
-Veduta, la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduta la [legge 11 aprile 1953, n. 314](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;314);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Sassari e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica, istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Veduto il [parere della sezione prima del Consiglio di Stato, n. 1902/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
 
-Decreta:
---------
+Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
 
-Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Sulla
+-----
 
-Art. 1
-------
+proposta del Ministro della pubblica istruzione; Decreta:
+
+Articolo unico
+--------------
 
   
-Art. 15. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:  
-7) Storia delle istituzioni giuridiche ed economiche della Sardegna;  
-8) Diritto pubblico comparato.  
-Art. 25. - Agli insegnamenti fondamentali del corso di laurea in medicina e chirurgia sono aggiunti: per il primo biennio, gli insegnamenti di chimica biologica e di microbiologia, e, per il terzo biennio, l'insegnamento di radiologia (semestrale), ai sensi della [legge 3 novembre 1952, n. 1787](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-11-03;1787).  
-Art. 29. - Agli insegnamenti complementari dei corso di laurea in farmacia sono aggiunti quelli di:  
-7) Chimica delle fermentazioni;  
-8) Fisiologia vegetale;  
-9) Scienza dell'alimentazione.  
-Dopo l'art. 45, sono aggiunti i seguenti nuovi articoli, relativi all'ordinamento didattico della Facolta' di scienze matematiche, fisiche e naturali (limitatamente al corso di laurea in scienze biologiche).  
-Facolta' di scienze matematiche, fisiche e naturati  
-Art. 46. - La Facolta' di scienze matematiche, fisiche e naturali conferisce la laurea in scienze biologiche.  
-La durata del corso degli studi e' di quattro anni.  
-E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.  
-Art. 47. - Sono insegnamenti fondamentali:  
-1) Istituzioni di matematiche;  
-2) Fisica;  
-3) Chimica generale ed inorganica;  
-4) Chimica organica;  
-5) Botanica (biennale);  
-6) Zoologia, (biennale);  
-7) Anatomia comparata;  
-8) Anatomia umana;  
-9) Istologia ed embriologia;  
-10) Fisiologia generale (biennale);  
-11) Chimica biologica;  
-12) Igiene.  
-Sono insegnamenti complementari:  
-1) Scienza dell'alimentazione;  
-2) Microbiologia;  
-3) Parassitologia;  
-4) Fisiologia vegetale;  
-5) Biochimica comparata;  
-6) Genetica;  
-7) Chimica fisica;  
-8) Chimica delle fermentazioni;  
-9) Entomologia agraria;  
-10) Patologia vegetale.  
-Art. 48. - Gli insegnamenti biennali di "botanica" e di "zoologia" comprendono tanto la parte generale quanto quella sistematica; essi comportano un solo esame alla fine del biennio, come comporta un solo esame il corso biennale di "fisiologia generale".  
-Art. 49. - Gli insegnamenti comportano anche corsi di esercitazioni pratiche che fanno parte integrante degli insegnamenti stessi; quelli di botanica e zoologia comportano un corso biennale di esercitazioni, alcune delle quali possono essere svolte come escursioni di campagna.  
-Art. 50. - Non potranno presentarsi a sostenere gli esami di chimica organica, di zoologia e di anatomia umana gli studenti che non abbiano superato gli esami di istituzioni di matematiche, di fisica, di chimica generale ed inorganica e di istologia ed embriologia; non potranno presentarsi a sostenere gli esami di anatomia comparata, di chimica biologica e di fisiologia generale gli studenti che non abbiano superato gli esami di anatomia umana e di chimica organica.  
-Per essere ammessi agli esami di botanica e di zoologia gli studenti debbono aver dimostrato di aver seguito con profitto i relativi corsi biennali di laboratorio.  
-Art. 51. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e in quattro almeno da lui scelti fra i complementari.  
-Art. 52. - Per il conseguimento della laurea in scienze biologiche, lo studente deve presentare una dissertazione scritta sopra un argomento concordato con un professore ufficiale della Facolta'; la dissertazione deve essere presentata, in triplice esemplare, alla segreteria della Facolta' almeno quindici giorni prima della data di inizio degli esami di laurea, assieme ai titoli di due argomenti scelti quali tesi di dissertazione orale su materie diverse fra loro e da quella della dissertazione scritta, comprese nell'elenco degli insegnamenti complementari e fondamentali.  
-Art. 53. - Per l'iscrizione di coloro che siano provveduti di altra laurea, valgono le seguenti norme:  
-a) i laureati in scienze naturali possono essere iscritti al quarto anno del corso;  
-b) per la iscrizione di coloro che siano provvisti di laurea diversa da quella suddetta, come per gli esami e i corsi che possono essere convalidati, il Consiglio di Facolta' decidera' caso per caso.  
-Art. 54. - Il professore di ruolo di chimica, farmaceutica e tossicologica della Facolta' di farmacia e' aggregato alla Facolta' di scienze matematiche, fisiche e naturali, a norma dell'ultimo capoverso dell'art. 15 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592).  
+  
+Lo statuto dell'Universita' di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli 106, 107 e 108, relativi alla scuola di specializzazione in puericultura, sono soppressi e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in puericultura   
+  
+Art. 106. - La scuola di specializzazione in puericultura ha sede presso l'istituto di puericultura e conferisce il diploma di specialita' in puericultura. La scuola comprende un insegnamento teorico e pratico.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazioni.   
+Il numero massimo di allievi e' di cinque per anno di corso e complessivamente di quindici iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Art. 107. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+peculiarita' anatomo-fisiologiche dell'eta' evolutiva;   
+elementi di genetica medica e di eugenetica;   
+elementi di puericultura perinatale;   
+auxologia;   
+alimentazione e dietetica dell'eta' infantile;   
+elementi di semeiotica infantile.   
+2° Anno:   
+psicologia ed igiene mentale nell'eta' evolutiva;   
+igiene ed assistenza dell'eta' evolutiva;   
+profilassi delle malattie infettive nell'infanzia;   
+elementi di medicina scolastica;   
+legislazione ed assistenza sociale all'infanzia.   
+3° Anno:   
+tirocinio pratico presso l'istituto ove la scuola ha sede.   
+Art. 108. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
+Alla fine di ogni corso gli iscritti, per essere ammessi agli esami successivi, devono superare le prove di esame sulle materie impartite durante l'anno.   
+Al termine del corso di studi, per il conseguimento del diploma di specialista in puericultura, gli interessati devono superare l'esame di diploma, consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 marzo 1955
+### Dato a Roma, addi' 11 giugno 1980
 
-EINAUDI ERMINI
+PERTINI SARTI
 
-Visto, il Guardasigilli: DE PIETRO
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 30 aprile 1955
+Registrato alla Corte dei conti, addi' 29 settembre 1980
 
-Atti del Governo, registro n. 90, foglio n. 102. - CARLOMAGNO
+Registro n. 89 Istruzione, foglio n. 255

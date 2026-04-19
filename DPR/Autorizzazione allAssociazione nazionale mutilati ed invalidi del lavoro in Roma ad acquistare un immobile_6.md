@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 aprile 1985 n. 614
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 novembre 1984 n. 1180
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 aprile 1985 n. 614
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 novembre 1984 n. 1180
+================================================================
 
 Autorizzazione all'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, ad acquistare un immobile.
 --------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-614. Decreto del Presidente della Repubblica 5 aprile 1985, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, viene autorizzata ad acquistare, al prezzo di L. 30.000.000, l'immobile rappresentato da cinque stanze al primo piano, scala A, e da un vano cantina, al piano interrato, dello stabile sito in Ferrara, contrada della Rosa n. 48, da pagarsi una parte mediante la cessione in permuta dell'immobile gia' di proprieta' dell'ANMIL del valore di L. 10.000.000 e per una parte mediante un conguaglio di L. 20.000.000, come risulta dal contratto di permuta sottoposto a condizione sospensiva 28 aprile 1975, n. 24753 di repertorio, a rogito dottor Ignazio Magnani, notaio in Ferrara, registrato a Ferrara in data 9 maggio 1975 al n. 1567.   
+1180. Decreto del Presidente della Repubblica 6 novembre 1984, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Associazione nazionale mutilati ed invalidi del lavoro (ANMIL), in Roma, viene autorizzata ad acquistare, al prezzo di L. 73.800.000, una porzione di immobile rappresentata da mq 70 circa al piano seminterrato e da mq 228 circa al piano rialzato dello stabile sito in Lecce, via Don Bosco, costruita su un terreno censito al nuovo catasto terreni alle partite 6648, 6647, 4224, foglio 259/10, di proprieta' del sig. Luigi Troso, come da atto di compravendita 22 febbraio 1975, n. 100867 di repertorio, a rogito dott. Domenico Mancuso, notaio in Lecce, registrato a Lecce in data 13 marzo 1975 al n. 2361, da adibire ad uffici dell'Associazione.   
   
 Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 26 ottobre 1985   
-Registro n. 1 Lavoro, foglio n. 228
+Registrato alla Corte dei conti, addi' 13 aprile 1985   
+Registro n. 1 Lavoro, foglio n. 226

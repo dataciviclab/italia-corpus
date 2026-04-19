@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1948 n. 1517
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1949 n. 1079
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1948 n. 1517
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1949 n. 1079
+================================================================
 
 Autorizzazione all'Universita' di Bologna ad accettare una donazione.
 ---------------------------------------------------------------------
@@ -12,7 +12,7 @@ Art. 1
 
 N.
 
-1517. Decreto del Presidente della Repubblica 14 settembre 1948, col quale, sulla proposta; del Ministro per la pubblica istruzione, l'Universita' di Bologna viene autorizzata ad accettare la donazione della somma di L. 200.000 nominali in titoli di Stato, disposta in suo favore dal prof. Antonio Gasbarrini, dal Municipio di Teramo e da altri, con atto pubblico in data 29 gennaio 1947, per l'istituzione di un premio di studio da intitolarsi al nome del "professore Salvatore Gasbarrini".  
+1079. Decreto del Presidente della Repubblica 4 novembre 1949, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Bologna viene autorizzata ad accettare la donazione della somma di L. 80.000 nominali, in titoli di Rendita italiana 3,50%, disposta in suo favore dal rag. Giuseppe Massei, con atto pubblico in data 9 agosto 1947, per l'istituzione di un premio di studio quinquennale da intitolarsi "Premio prof. Massimo Massei" e da conferirsi a quel laureato in giurisprudenza che presenti la migliore tesi di laurea nelle discipline romanistiche.  
   
 Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 23 dicembre 1948
+Registrato alla Corte dei conti, addi' 31 gennaio 1950

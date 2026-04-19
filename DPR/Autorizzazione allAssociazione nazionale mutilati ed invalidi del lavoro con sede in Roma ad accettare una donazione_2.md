@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 maggio 1952 n. 568
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 agosto 1952 n. 1288
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 maggio 1952 n. 568
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 agosto 1952 n. 1288
+==============================================================
 
 Autorizzazione all'Associazione nazionale mutilati ed invalidi del lavoro, con sede in Roma, ad accettare una donazione.
 ------------------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-568. Decreto del Presidente della Repubblica 5 maggio 1952, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Associazione nazionale mutilati ed invalidi del lavoro, con sede in Roma, viene autorizzata ad accettare la donazione effettuata da parte del comune di Gallarate (Varese) consistente in un'area sita in detto Comune.  
+1288. Decreto del Presidente della Repubblica 30 agosto 1952, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Associazione nazionale mutilati ed invalidi del lavoro, con sede in Roma, via San Tommaso d'Aquino n. 11, viene autorizzata ad accettare la donazione disposta a suo favore dal comune di Pavia di un'area fabbricabile da adibire alla costruzione di alloggi a tipo popolare per i mutilati ed invalidi del lavoro.  
   
 Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 3 giugno 1952  
-Atti del Governo, registro n. 54, foglio n. 6. - FRASCA
+Registrato alla Corte dei conti, addi' 25 settembre 1952  
+Atti del Governo, registro n. 58, foglio n. 38. - FRASCA

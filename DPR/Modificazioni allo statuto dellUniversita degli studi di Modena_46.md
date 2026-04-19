@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 gennaio 1982 n. 111
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1971 n. 1176
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 gennaio 1982 n. 111
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1971 n. 1176
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
@@ -10,84 +10,383 @@ Modificazioni allo statuto dell'Universita' degli studi di Modena.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, numero 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Veduto l'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Modena e convalidati dal Consiglio universitario nazionale nel suo parere;
+Sulla proposta del Ministro per la pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
+Decreta:
 
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Sulla
------
+Gli articoli 102, 103, 104, 105, 106, 107 relativi alla "Scuola di specializzazione in pediatria" che muta la denominazione in quella di "Scuola di specializzazione in clinica pediatrica" sono abrogati e sostituiti dai seguenti:
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Scuola di specializzazione in clinica pediatrica
 
-Articolo unico
---------------
+Art. 102. - La scuola di specializzazione in clinica pediatrica conferisce il diploma di specialista in clinica pediatrica.
 
+Art. 103. - La scuola ha sede presso la clinica pediatrica dell'universita'.
+
+Alla scuola sono ammessi i laureati in medicina e chirurgia, l'ammissione ha luogo per esami.
+
+Art. 104. - La scuola ha la durata di tre anni. Il numero degli iscritti non puo' superare i quattordici per anno. L'internato e' obbligatorio con non piu' di due mesi di ferie annuali.
+
+Art. 105. - L'iscrizione direttamente al secondo anno di corso puo' essere consentita, a giudizio del consiglio della scuola, ai candidati che abbiano conseguito il diploma di specializzazione in puericultura e che abbiano titoli pediatrici.
+
+Art. 106. - Gli insegnamenti impartiti nella scuola sono:
+
+1° Anno:
+
+1) Clinica pediatrica (triennale);
+
+2) Patologia pediatrica (biennale);
+
+3) Puericultura (biennale);
+
+4) Semeiotica pediatrica e tecnica diagnostica (biennale);
+
+5) Auxologia normale e patologica (annuale);
+
+6) Psicologia dell'eta' evolutiva (annuale).
+
+2° Anno:
+
+1) Clinica pediatrica (triennale);
+
+2) Patologia pediatrica (biennale);
+
+3) Puericultura (biennale);
+
+4) Semeiotica pediatrica e tecnica diagnostica (biennale);
+
+5) Terapia pediatrica (annuale);
+
+6) Radiologia pediatrica (annuale);
+
+7) Malattie infettive dell'infanzia (annuale).
+
+3° Anno:
+
+1) Clinica pediatrica (triennale);
+
+2) Neuropsichiatria ed igiene mentale dell'infanzia (annuale).
+
+Le materie fondamentali sopra elencate saranno integrate a giudizio del consiglio della scuola, da almeno tre insegnamenti scelti fra i seguenti:
+
+1) Chirurgia pediatrica;
+
+2) Ortopedia e traumatologia infantile;
+
+3) Clinica oculistica;
+
+4) Clinica otorinolaringoiatrica;
+
+5) Clinica odontoiatrica;
+
+6) Clinica dermosifilopatica;
+
+7) Cardiologia;
+
+8) Genetica, od altri eventuali che il consiglio della scuola puo' stabilire di anno in anno.
+
+Art. 107. - Il direttore della scuola inoltre puo' disporre che si tengano conferenze su argomenti di interesse pediatrico. Per conseguire il diploma di specializzazione in clinica pediatrica gli iscritti al corso, dopo aver superato tutti gli esami e completata la frequenza obbligatoria, dovranno presentare e discutere una dissertazione su un argomento di pediatria.
+
+Gli articoli 108, 109, 110, 111, 112, 113 relativi alla "Scuola di specializzazione in clinica delle malattie infettive e tropicali" che muta la denominazione in "Scuola di specializzazione in malattie infettive", sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in malattie infettive
+
+Art. 108. - La scuola di specializzazione in malattie infettive conferisce il diploma di specialista in malattie infettive.
+
+Art. 109. - La scuola ha sede presso la clinica delle malattie infettive e tropicali dell'universita'.
+
+Art. 110. - Alla scuola sono ammessi i laureati in medicina e chirurgia in numero di sei per anno, in totale diciotto.
+
+Art. 111. - La scuola ha la durata di anni tre.
+
+Art. 112. - Le materie di insegnamento sono:
+
+1° Anno:
+
+1) Epidemiologia generale delle malattie infettive;
+
+2) Nozioni generali di batteriologia, di virologia, di parassitologia, di immunologia;
+
+3) Tecnica batteriologica, virologica, parassitologica, immunologica applicata alle malattie infettive (1° anno).
+
+2° Anno:
+
+1) Patologia e clinica delle malattie infettive (1° anno);
+
+2) Semeiotica e diagnostica delle malattie infettive;
+
+3) Anatomia patologica delle malattie infettive;
+
+4) Tecnica batteriologica, virologica, parassitologica, immunologica (2° anno).
+
+3° Anno:
+
+1) Patologia e clinica delle malattie infettive (2° anno);
+
+2) Malattie infettive dei paesi caldi;
+
+3) Farmacologia e terapia generale delle malattie infettive;
+
+4) Legislazione sanitaria e malattie infettive.
+
+Un regolamento interno regola i doveri degli specializzandi e l'orario delle lezioni ed esercitazioni, nonche' la frequenza nei reparti di degenza e nei laboratori.
+
+Art. 113. - Al termine di ciascun anno di corso gli allievi sono tenuti a sostenere i seguenti esami:
+
+I anno: un esame sulle discipline numeri 1) e 2;
+
+II anno: un esame sulle discipline numeri 2), 3), 4);
+
+III anno: un esame sulle discipline numeri 1), 2), 3) e 4) e l'esame di diploma.
+
+Gli articoli 114, 115, 116, 117, 118, 119 relativi alla "Scuola di specializzazione in clinica ostetrico-ginecologica" che muta denominazione in quella di "Scuola di specializzazione in ostetricia e ginecologia" sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in ostetricia e ginecologia
+
+Art. 114. - La scuola di specializzazione in ostetricia e ginecologia conferisce il diploma di specialista in ostetricia e ginecologia.
+
+Art. 115. - La scuola ha sede presso la clinica ostetrica e ginecologica.
+
+Art. 116. - La scuola ha la' durata di quattro anni.
+
+Art. 117. - Alla scuola sono ammessi i laureati in medicina e chirurgia a seguito di concorso per titoli ed esami. Non sono ammesse abbreviazioni dei quattro anni di corso. Gli iscritti, oltre all'obbligo di frequenza delle lezioni, esercitazioni e seminari ecc., devono prestare servizio in reparto per almeno nove mesi allo anno.
+
+I posti disponibili per ogni anno di corso sono cinque per un totale complessivo di venti.
+
+Art. 118. - Gli insegnamenti impartiti nella scuola sono:
+
+1° Anno:
+
+1) Elementi di genetica e di eugenetica;
+
+2) Anatomia normale ed embriologica dell'apparato genitale femminile;
+
+3) Fisiologia dell'apparato genitale femminile;
+
+4) Endocrinologia fisiologica;
+
+5) Fisiologia ostetrica;
+
+6) Diagnostica ostetrica;
+
+7) Clinica ostetrica e ginecologica (1°).
+
+2° Anno:
+
+1) Tecnica operatoria ostetrica;
+
+2) Diagnostica ginecologica;
+
+3) Tecnica diagnostica di laboratorio nel campo ostetrico-ginecologico, esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);
+
+4) Clinica ostetrico-ginecologica (2°).
+
+3° Anno:
+
+1) Anatomia patologica ostetrica e ginecologica;
+
+2) Istologia normale e patologica nel campo della specialita';
+
+3) Puericultura prenatale;
+
+4) Emoterapia nel campo ostetrico e ginecologico;
+
+5) Anestesia e analgesia nel campo ostetrico e ginecologico;
+
+6) Tecnica operatoria ginecologica;
+
+7) Clinica ostetrica e ginecologica (3°);
+
+8) Terapia medica ostetrica e ginecologica.
+
+4° Anno:
+
+1) Puericultura postnatale e malattie del neonato;
+
+2) Ostetricia e ginecologia forense;
+
+3) Diagnostica Roentgen, radioterapia in ostetricia e ginecologia;
+
+4) Clinica ostetrica e ginecologica (esame alla fine del 4° anno);
+
+5) Urologia ginecologica;
+
+6) Chirurgia addominale extra genitale.
+
+Art. 119. - Gli esami si fanno per gruppi di materie.
+
+L'allievo per essere ammesso agli anni successivi, deve aver superato gli esami del corso precedente.
+
+Il diploma viene rilasciato dopo aver superato tutti gli esami e dopo la discussione della tesi scritta a carattere clinico o sperimentale.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 4 ottobre 1971
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: COLOMBO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 30 dicembre 1971 Atti del Governo, registro n. 245, foglio n. 164. - VALENTINI
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Lo statuto dell'Universita' di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli da 135 a 140 relativi alla scuola di specializzazione in oncologia sono sostituiti dai seguenti;  
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, numero 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Scuola di specializzazione in oncologia  
+Decreta:   
   
-Art. 135. - La scuola di specializzazione in oncologia ha sede presso l'istituto di anatomia e istologia patologica e conferisce il diploma di specialista in oncologia.  
-Art. 136. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
-Art. 137. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto almeno all'inizio del corso il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Art. 138. - La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazioni.  
-Art. 139. - Il numero massimo degli allievi e' di venticinque per anno di corso e complessivamente di settantacinque iscritti per l'intero corso di studi.  
-Art. 140. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 141. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-patologia generale dei tumori I;  
-oncologia sperimentale I;  
-anatomia ed istologia patologica dei tumori I;  
-cancerogenesi ambientale e professionale e prevenzione primaria;  
-immunologia dei tumori.  
-2° Anno:  
-patologia generale dei tumori II;  
-oncologia sperimentale II;  
-anatomia e istologia patologica dei tumori II;  
-citodiagnostica dei tumori;  
-prevenzione clinica e tecniche diagnostiche di laboratorio;  
-radiodiagnostica dei tumori;  
-oncologia medica I;  
-oncologia chirurgica I.  
-3° Anno:  
-oncologia medica II;  
-oncologia chirurgica II;  
-radioterapia dei tumori;  
-oncologia dell'apparato genitale femminile;  
-oncologia pediatrica;  
-principi di riabilitazione oncologica;  
-organizzazione della lotta contro i tumori.  
-Ogni scuola dovra' provvedere ad organizzare seminari e conferenze su specifici argomenti ad integrazione di quelli elencati nello statuto.  
-Art. 142. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria per l'ammissione agli esami; il superamento degli esami di ciascun anno sara' condizione indispensabile per l'iscrizione all'anno successivo. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.  
-Art. 143. - Al termine del triennio per ottenere il diploma i candidati dovranno presentare una dissertazione scritta su un argomento attinente alla specializzazione.  
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli 102, 103, 104, 105, 106, 107 relativi alla "Scuola di specializzazione in pediatria" che muta la denominazione in quella di "Scuola di specializzazione in clinica pediatrica" sono abrogati e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in clinica pediatrica   
+  
+Art. 102. - La scuola di specializzazione in clinica pediatrica conferisce il diploma di specialista in clinica pediatrica.   
+Art. 103. - La scuola ha sede presso la clinica pediatrica dell'universita'.   
+Alla scuola sono ammessi i laureati in medicina e chirurgia, l'ammissione ha luogo per esami.   
+Art. 104. - La scuola ha la durata di tre anni. Il numero degli iscritti non puo' superare i quattordici per anno. L'internato e' obbligatorio con non piu' di due mesi di ferie annuali.   
+Art. 105. - L'iscrizione direttamente al secondo anno di corso puo' essere consentita, a giudizio del consiglio della scuola, ai candidati che abbiano conseguito il diploma di specializzazione in puericultura e che abbiano titoli pediatrici.   
+Art. 106. - Gli insegnamenti impartiti nella scuola sono:   
+1° Anno:   
+1) Clinica pediatrica (triennale);   
+2) Patologia pediatrica (biennale);   
+3) Puericultura (biennale);   
+4) Semeiotica pediatrica e tecnica diagnostica (biennale);   
+5) Auxologia normale e patologica (annuale);   
+6) Psicologia dell'eta' evolutiva (annuale).   
+2° Anno:   
+1) Clinica pediatrica (triennale);   
+2) Patologia pediatrica (biennale);   
+3) Puericultura (biennale);   
+4) Semeiotica pediatrica e tecnica diagnostica (biennale);   
+5) Terapia pediatrica (annuale);   
+6) Radiologia pediatrica (annuale);   
+7) Malattie infettive dell'infanzia (annuale).   
+3° Anno:   
+1) Clinica pediatrica (triennale);   
+2) Neuropsichiatria ed igiene mentale dell'infanzia (annuale).   
+Le materie fondamentali sopra elencate saranno integrate a giudizio del consiglio della scuola, da almeno tre insegnamenti scelti fra i seguenti:   
+1) Chirurgia pediatrica;   
+2) Ortopedia e traumatologia infantile;   
+3) Clinica oculistica;   
+4) Clinica otorinolaringoiatrica;   
+5) Clinica odontoiatrica;   
+6) Clinica dermosifilopatica;   
+7) Cardiologia;   
+8) Genetica, od altri eventuali che il consiglio della scuola puo' stabilire di anno in anno.   
+Art. 107. - Il direttore della scuola inoltre puo' disporre che si tengano conferenze su argomenti di interesse pediatrico. Per conseguire il diploma di specializzazione in clinica pediatrica gli iscritti al corso, dopo aver superato tutti gli esami e completata la frequenza obbligatoria, dovranno presentare e discutere una dissertazione su un argomento di pediatria.   
+Gli articoli 108, 109, 110, 111, 112, 113 relativi alla "Scuola di specializzazione in clinica delle malattie infettive e tropicali" che muta la denominazione in "Scuola di specializzazione in malattie infettive", sono abrogati e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in malattie infettive   
+  
+Art. 108. - La scuola di specializzazione in malattie infettive conferisce il diploma di specialista in malattie infettive.   
+Art. 109. - La scuola ha sede presso la clinica delle malattie infettive e tropicali dell'universita'.   
+Art. 110. - Alla scuola sono ammessi i laureati in medicina e chirurgia in numero di sei per anno, in totale diciotto.   
+Art. 111. - La scuola ha la durata di anni tre.   
+Art. 112. - Le materie di insegnamento sono:   
+1° Anno:   
+1) Epidemiologia generale delle malattie infettive;   
+2) Nozioni generali di batteriologia, di virologia, di parassitologia, di immunologia;   
+3) Tecnica batteriologica, virologica, parassitologica, immunologica applicata alle malattie infettive (1° anno).   
+2° Anno:   
+1) Patologia e clinica delle malattie infettive (1° anno);   
+2) Semeiotica e diagnostica delle malattie infettive;   
+3) Anatomia patologica delle malattie infettive;   
+4) Tecnica batteriologica, virologica, parassitologica, immunologica (2° anno).   
+3° Anno:   
+1) Patologia e clinica delle malattie infettive (2° anno);   
+2) Malattie infettive dei paesi caldi;   
+3) Farmacologia e terapia generale delle malattie infettive;   
+4) Legislazione sanitaria e malattie infettive.   
+Un regolamento interno regola i doveri degli specializzandi e l'orario delle lezioni ed esercitazioni, nonche' la frequenza nei reparti di degenza e nei laboratori.   
+Art. 113. - Al termine di ciascun anno di corso gli allievi sono tenuti a sostenere i seguenti esami:   
+  
+I anno: un esame sulle discipline numeri 1) e 2;   
+II anno: un esame sulle discipline numeri 2), 3), 4);   
+III anno: un esame sulle discipline numeri 1), 2), 3) e 4) e l'esame di diploma.   
+  
+Gli articoli 114, 115, 116, 117, 118, 119 relativi alla "Scuola di specializzazione in clinica ostetrico-ginecologica" che muta denominazione in quella di "Scuola di specializzazione in ostetricia e ginecologia" sono abrogati e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in ostetricia e ginecologia   
+  
+Art. 114. - La scuola di specializzazione in ostetricia e ginecologia conferisce il diploma di specialista in ostetricia e ginecologia.   
+Art. 115. - La scuola ha sede presso la clinica ostetrica e ginecologica.   
+Art. 116. - La scuola ha la' durata di quattro anni.   
+Art. 117. - Alla scuola sono ammessi i laureati in medicina e chirurgia a seguito di concorso per titoli ed esami. Non sono ammesse abbreviazioni dei quattro anni di corso. Gli iscritti, oltre all'obbligo di frequenza delle lezioni, esercitazioni e seminari ecc., devono prestare servizio in reparto per almeno nove mesi allo anno.   
+I posti disponibili per ogni anno di corso sono cinque per un totale complessivo di venti.   
+Art. 118. - Gli insegnamenti impartiti nella scuola sono:   
+1° Anno:   
+1) Elementi di genetica e di eugenetica;   
+2) Anatomia normale ed embriologica dell'apparato genitale femminile;   
+3) Fisiologia dell'apparato genitale femminile;   
+4) Endocrinologia fisiologica;   
+5) Fisiologia ostetrica;   
+6) Diagnostica ostetrica;   
+7) Clinica ostetrica e ginecologica (1°).   
+2° Anno:   
+1) Tecnica operatoria ostetrica;   
+2) Diagnostica ginecologica;   
+3) Tecnica diagnostica di laboratorio nel campo ostetrico-ginecologico, esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);   
+4) Clinica ostetrico-ginecologica (2°).   
+3° Anno:   
+1) Anatomia patologica ostetrica e ginecologica;   
+2) Istologia normale e patologica nel campo della specialita';   
+3) Puericultura prenatale;   
+4) Emoterapia nel campo ostetrico e ginecologico;   
+5) Anestesia e analgesia nel campo ostetrico e ginecologico;   
+6) Tecnica operatoria ginecologica;   
+7) Clinica ostetrica e ginecologica (3°);   
+8) Terapia medica ostetrica e ginecologica.   
+4° Anno:   
+1) Puericultura postnatale e malattie del neonato;   
+2) Ostetricia e ginecologia forense;   
+3) Diagnostica Roentgen, radioterapia in ostetricia e ginecologia;   
+4) Clinica ostetrica e ginecologica (esame alla fine del 4° anno);   
+5) Urologia ginecologica;   
+6) Chirurgia addominale extra genitale.   
+Art. 119. - Gli esami si fanno per gruppi di materie.   
+L'allievo per essere ammesso agli anni successivi, deve aver superato gli esami del corso precedente.   
+Il diploma viene rilasciato dopo aver superato tutti gli esami e dopo la discussione della tesi scritta a carattere clinico o sperimentale.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 gennaio 1982
+### Dato a Roma, addi' 4 ottobre 1971
 
-PERTINI BODRATO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 10 marzo 1982
+Registrato alla Corte dei conti, addi' 30 dicembre 1971
 
-Registro n. 38 Istruzione, foglio n. 274
+Atti del Governo, registro n. 245, foglio n. 164. - VALENTINI

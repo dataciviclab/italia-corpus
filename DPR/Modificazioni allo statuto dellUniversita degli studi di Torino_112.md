@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1982 n. 858
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1062
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1982 n. 858
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1062
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,83 +18,174 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+L'art. 158, relativo all'elenco delle scuole di specializzazione in medicina e chirurgia, e' modificato nel senso che la scuola di specializzazione in clinica dermosifilopatica muta la denominazione in quella di scuola di specializzazione in dermatologia e venereologia.
 
+Gli articoli 184 e 185, relativi alla scuola di specializzazione in clinica dermosifilopatica, che muta la denominazione in quella di scuola di specializzazione in dermatologia e venereologia, sono soppressi e sostituiti dai seguenti:
+
+Scuola di specializzazione in dermatologia e venereologia
+
+Art. 184. - Il corso degli studi della scuola di specializzazione in dermatologia e venereologia ha la durata di tre anni. Sono ammessi i laureati in medicina e chirurgia.
+
+Il numero massimo complessivo degli iscritti alla scuola e' di venti per ogni anno di corso, per un totale di sessanta specializzandi.
+
+L'ammissione e' subordinata all'esito di un concorso, per titoli ed esami, e non saranno acconsentite abbreviazioni.
+
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato all'autorita' competente.
+
+La scuola di specializzazione in dermatologia e venereologia ha sede presso l'istituto di clinica dermatologica.
+
+Art. 185. - Gli insegnamenti impartiti sono i seguenti:
+
+1° Anno:
+
+1) anatomia e istologia normale della cute;
+
+2) fisiologia della cute e degli annessi;
+
+3) anatomia e fisiologia dell'apparato genitale;
+
+4) microbiologia e parassitologia applicate;
+
+5) tecniche di laboratorio applicate alla disciplina;
+
+6) semeiotica dermatologica e venereologica.
+
+2° Anno:
+
+1) patologia delle malattie cutanee;
+
+2) patologia delle infezioni veneree;
+
+3) istopatologia e citologia dermatologica e venereologica;
+
+4) immunopatologia cutanea;
+
+5) dermatologia allergologica e professionale;
+
+6) angiologia;
+
+7) sessuologia.
+
+3° Anno:
+
+1) clinica delle malattie cutanee;
+
+2) clinica delle infezioni veneree;
+
+3) dermatologia pediatrica;
+
+4) farmacologia e terapia;
+
+5) fisioterapia dermatologica;
+
+6) cosmetologia;
+
+7) chirurgia plastica riparatrice;
+
+8) igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.
+
+Il corso delle lezioni dovra' essere impartito mediante almeno 50 lezioni annuali, comprensive delle varie materie e la frequenza giornaliera degli iscritti non dovra' essere inferiore alle 4 ore effettive per tutta la durata dell'anno accademico.
+
+Gli specializzandi avranno percio' obblighi di internato onde seguire i corsi di lezioni e svolgere contemporaneamente attivita' pratica nelle corsie, negli ambulatori e nei laboratori.
+
+Gli esami di profitto verranno dati in tre gruppi e in tre sessioni distinte, ogni gruppo comprendente le materie di ciascun anno di corso.
+
+L'esame di diploma consistera' nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato 24 ore prima della prova.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1978
+
+PERTINI
+
+PEDINI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 27 aprile 1979 Registro n. 30 Istruzione, foglio n. 317
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Nell'art. 47, relativo al corso di laurea in materie letterarie, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-filologia e critica dantesca;  
-storia comparata delle letterature europee;  
-storia della lingua e della letteratura latina-medievale;  
-filologia umanistica;  
-storia delle istituzioni sociali e politiche;  
-biblioteconomia;  
-archivistica;  
-geografia economica e politica;  
-cartografia;  
-storia dell'arte contemporanea;  
-storia dei movimenti contadini;  
-storia delle dottrine economiche;  
-filologia latina;  
-letteratura italiana moderna e contemporanea;  
-storia agraria medievale;  
-esegesi delle fonti del Medioevo;  
-psicometria;  
-psicologia dei processi cognitivi;  
-storia della grammatica e della lingua italiana.  
-Nell'art. 48, relativo al corso di laurea in pedagogia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-filosofia della scienza;  
-filosofia della religione;  
-filosofia del linguaggio;  
-storia della filosofia moderna;  
-storia della filosofia contemporanea.  
-Nell'art. 49, relativo al corso di laurea in lingua e letterature straniere, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-filologia e critica dantesca;  
-storia comparata delle letterature europee;  
-storia della lingua e della letteratura latina medievale;  
-filologia umanistica;  
-storia delle istituzioni sociali e politiche;  
-biblioteconomia;  
-archivistica;  
-geografia economica e politica;  
-cartografia;  
-storia dell'arte contemporanea;  
-linguistica inglese;  
-linguistica francese;  
-linguistica spagnola;  
-linguistica tedesca;  
-storia della lingua tedesca;  
-letteratura dei Paesi di lingua inglese;  
-letteratura dei Paesi francofoni;  
-lingua e letteratura portoghese.  
+Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+L'art. 158, relativo all'elenco delle scuole di specializzazione in medicina e chirurgia, e' modificato nel senso che la scuola di specializzazione in clinica dermosifilopatica muta la denominazione in quella di scuola di specializzazione in dermatologia e venereologia.  
+Gli articoli 184 e 185, relativi alla scuola di specializzazione in clinica dermosifilopatica, che muta la denominazione in quella di scuola di specializzazione in dermatologia e venereologia, sono soppressi e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in dermatologia e venereologia  
+Art. 184. - Il corso degli studi della scuola di specializzazione in dermatologia e venereologia ha la durata di tre anni. Sono ammessi i laureati in medicina e chirurgia.  
+Il numero massimo complessivo degli iscritti alla scuola e' di venti per ogni anno di corso, per un totale di sessanta specializzandi.  
+L'ammissione e' subordinata all'esito di un concorso, per titoli ed esami, e non saranno acconsentite abbreviazioni.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato all'autorita' competente.  
+La scuola di specializzazione in dermatologia e venereologia ha sede presso l'istituto di clinica dermatologica.  
+Art. 185. - Gli insegnamenti impartiti sono i seguenti:  
+1° Anno:  
+1) anatomia e istologia normale della cute;  
+2) fisiologia della cute e degli annessi;  
+3) anatomia e fisiologia dell'apparato genitale;  
+4) microbiologia e parassitologia applicate;  
+5) tecniche di laboratorio applicate alla disciplina;  
+6) semeiotica dermatologica e venereologica.  
+2° Anno:  
+1) patologia delle malattie cutanee;  
+2) patologia delle infezioni veneree;  
+3) istopatologia e citologia dermatologica e venereologica;  
+4) immunopatologia cutanea;  
+5) dermatologia allergologica e professionale;  
+6) angiologia;  
+7) sessuologia.  
+3° Anno:  
+1) clinica delle malattie cutanee;  
+2) clinica delle infezioni veneree;  
+3) dermatologia pediatrica;  
+4) farmacologia e terapia;  
+5) fisioterapia dermatologica;  
+6) cosmetologia;  
+7) chirurgia plastica riparatrice;  
+8) igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.  
+Il corso delle lezioni dovra' essere impartito mediante almeno 50 lezioni annuali, comprensive delle varie materie e la frequenza giornaliera degli iscritti non dovra' essere inferiore alle 4 ore effettive per tutta la durata dell'anno accademico.  
+Gli specializzandi avranno percio' obblighi di internato onde seguire i corsi di lezioni e svolgere contemporaneamente attivita' pratica nelle corsie, negli ambulatori e nei laboratori.  
+Gli esami di profitto verranno dati in tre gruppi e in tre sessioni distinte, ogni gruppo comprendente le materie di ciascun anno di corso.  
+L'esame di diploma consistera' nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato 24 ore prima della prova.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 settembre 1982
+### Dato a Roma, addi' 31 ottobre 1978
 
-PERTINI BODRATO
+PERTINI PEDINI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 8 novembre 1982
+Registrato alla Corte dei conti, addi' 27 aprile 1979
 
-Registro n. 123 Istruzione, foglio n. 243
+Registro n. 30 Istruzione, foglio n. 317

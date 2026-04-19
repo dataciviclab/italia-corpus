@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1981 n. 437
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 dicembre 1982 n. 1120
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1981 n. 437
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 dicembre 1982 n. 1120
+================================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-437. Decreto del Presidente della Repubblica 29 maggio 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi" in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Bianchedi Italina ved. Grisi a favore dell'Opera pia don Gnocchi, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi" come ha fatto presente la fondazione medesima, con testamento olografo 13 settembre 1976, pubblicato a rogito dott. Ferruccio Micheli, notaio in Parma, in data 19 aprile 1977, n. 26137 di repertorio e n. 10241 di raccolta, registrato a Firenze il 26 aprile 1977 al n. 1204 A.P., consistente nella somma di L. 500.000.  
+1120. Decreto del Presidente della Repubblica 16 dicembre 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in titoli e saldo di libretti di conto corrente al portatore per un valore, al netto delle passivita', di L. 97.014.900, quota 1/4 - L. 24.253.725, disposto dalla sig.na De Martini Giovanna Maria a favore dei mutilatini di don Gnocchi con testamento olografo del 10 aprile 1980, pubblicato in data 19 gennaio 1981, n. 10221 di repertorio e n. 3365 di raccolta, a rogito dott. Morandi Vittorio, notaio in Alessandria, registrato ad Alessandria in data 6 febbraio 1981, al n. 549.  
   
 Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 1 agosto 1981  
-Registro n. 7 Presidenza, foglio n. 45
+Registrato alla Corte dei conti, addi' 18 febbraio 1983  
+Registro n. 2 Presidenza, foglio n. 65

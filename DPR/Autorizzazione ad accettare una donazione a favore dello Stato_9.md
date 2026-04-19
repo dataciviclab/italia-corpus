@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1984 n. 1202
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1974 n. 667
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1984 n. 1202
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1974 n. 667
+=============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1202. Decreto del Presidente della Repubblica 7 giugno 1984, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dall'ente morale Sacrestia della chiesa parrocchiale di Santa Croce, in Monterosi (Viterbo), con atto 13 marzo 1981, n. 7254 di repertorio, a rogito dott. Luigi De Santis, notaio in Caprarola (Viterbo), registrato a Viterbo in data 18 marzo 1981 al n. 2414, consistente in un terreno della superficie di mq 1000 occorso per la realizzazione del monumento ossario ai caduti in Monterosi.  
+667. Decreto del Presidente della Repubblica 22 luglio 1974, col quale, sulla proposta del Ministro per le finanze, di concerto con il Ministro per il lavoro e la previdenza sociale, viene autorizzata, per la minor superficie di mq 540 circa, l'accettazione della donazione a favore dello Stato disposta dal comune di Avezzano (L'Aquila) con atto 7 dicembre 1957, a rogito notaio Giovanni Stornelli, n. 8720 di repertorio, del terreno edificatorio, della superficie di mq 801, sito in detto comune alla via Orazio Mattei, catastalmente indicato in tale atto e sul quale e' gia' stato realizzato dal Ministero del lavoro e della previdenza sociale, mediante cantiere di lavoro, un edificio adibito a sede dell'ufficio comunale del lavoro.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 26 ottobre 1984  
-Registro n. 59 Finanze, foglio n. 289
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 7 dicembre 1974  
+Atti di Governo, registro n. 7, foglio n. 84. - SCIARRETTA

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1965 n. 386
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 725
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1965 n. 386
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 725
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -12,7 +12,7 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
@@ -24,83 +24,40 @@ Sulla proposta del Ministro per la pubblica istruzione;
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Roma approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 50. - Agli isegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:  
-Storia del teatro e della drammaturgia antica;  
-Sanscrito;  
-Logica;  
-Storia delle dottrine politiche;  
-Storia delle dottrine economiche;  
-Storia della scienza.  
-Art. 58. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere moderne (indirizzo europeo) e' aggiunto quello di: "Filologia ibero-romanza".  
-Art. 61, relativo alle modalita' dell'esame di laurea in Lettere e filosofia viene abrogato e sostituito dal seguente:  
-"L'esame di laurea consiste nella discussione orale di una dissertazione scientifica".  
-La dissertazione scientifica verte sopra un argomento liberamente scelto dal candidato d'intesa con un professore o con un libero docente, nell'ambito degli insegnamenti del proprio corso di laurea.  
-Per i candidati alla laurea in Lingue e letterature straniere moderne e' ammesso nella dissertazione l'uso della lingua prescelta.  
-Art. 65. - E' modificato nel senso che agli istituti annessi alla Facolta' di magistero per il gruppo A (materie letterarie) e per il gruppo B (pedagogia) e' aggiunto l'Istituto di psicologia, che e' anche ordinato a seminario ed ha lo scopo di addestrare i giovani nello studio della psicologia e di iniziarli alla ricerca scientifica.  
-Art. 67. - Agli insegnamenti complementari del corso di laurea in pedagogia e' aggiunto quello di "Storia della musica".  
-Art. 68. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto quello di "Storia della musica".  
-Art. 87. - Agli Istituti delle Facolta' di scienze matematiche fisiche e naturali e' aggiunto l'istituto di "Istologia ed embriologia".  
-Art. 280, relativo alla Scuola di perfezionamento in filosofia e' aggiunto tra le materie costitutive della scuola l'insegnamento di "Storia delle dottrine economiche".  
-Gli articoli 382, 383 e 384, relativi alla Scuola di perfezionamento in urologia sono abrogati e sostituiti dai seguenti nuovi articoli con la nuova denominazione in "Scuola di specializzazione in urologia".  
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 61 - all'elenco degli istituti annessi alla facolta' di magistero e' aggiunto il seguente:  
   
-Scuola di specializzazione in urologia  
+Istituto policattedra di scienze dello spettacolo, della musica e della comunicazione.  
+Art. 62 - all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:  
   
-Art. 382. - La durata del corso degli studi nella scuola di specializzazione in urologia e' di tre anni.  
-Art. 383. - Il numero degli iscritti al 1° anno non puo' essere superiore a 25.  
-Art. 381. - Gli insegnamenti prescritti per il diploma di Specializzazione in urologia sono i seguenti:  
-1° Anno:  
-1) Anatomia descrittiva e topografica dell'apparato uro-genitale.  
-2) Fisiologia dell'apparato urinario.  
-3) Semeiotica dell'apparato uro-genitale.  
-4) Indagine funzionale del rene e tecniche di laboratorio applicate all'urologia.  
-5) Tecniche endoscopiche in urologia.  
-6) Batteriologia in urologia.  
-7) La farmacologia delle affezioni uro-genitali.  
-2° Anno:  
-1) Patologia dell'apparato urinario e di quello genitale maschile.  
-2) Le nefropatie mediche di interesse urologico.  
-3) Patologia, urologica dell'infanzia.  
-4) Anatomia patologica dell'apparato uro-genitale.  
-5) Semeiotica e diagnostica endoscopica.  
-6) Anatomia chirurgica dell'apparato uro-genitale come studio delle vie chirurgiche d'accesso per le operazioni urologiche.  
-7) Radiologia urologica (indicazioni e tecniche).  
-8) L'anestesia in urologia.  
-9) Problemi gerontologici in urologia.  
-3° Anno:  
-1) Clinica chirurgica generale.  
-2) Clinica urologica.  
-3) Patologia genitale femminile di interesse urologico.  
-4) Le affezioni cutanee e veneree nei riguardi della urologia.  
-5) Tecniche operatorie ed interventi sull'apparato genito-urinario.  
-6) Chirurgia urologica dell'infanzia.  
-7) Semeiotica e diagnostica radiologica dell'apparato urinario e genitale maschile.  
-8) Il trattamento pre e post-operatorio del malato urologico.  
-Art. 385. - Gli esami di profitto si sostengono sul seguenti gruppi:  
-1° Anno:  
-1) Anatomia descrittiva, e topografica dell'apparato uro-genitale. Fisiologia dell'apparato urinario.  
-2) Semeiotica dell'apparato uro-genitale. Indagine funzionale del rene e tecniche di laboratorio applicate alla urologia. Tecniche endoscopiche in urologia.  
-3) Batteriologia in urologia. La farmacologia delle affezioni uro-genitali.  
-2° Anno:  
-1) Patologia dell'apparato urinario e di quello genitale maschile. Le nefropatie mediche di interesse urologico. Patologia urologica dell'infanzia. Anatomia patologica dell'apparato uro-genitale.  
-2) Semeiotica e diagnostica e endoscopica. Radiologia urologica (indicazioni e tecniche).  
-3) Anatomia chirurgica dell'apparato uro-genitale come studio delle vie chirurgiche d'accesso per le operazioni urologiche.  
-L'anestesia, in urologia.  
-3° Anno:  
-1) Clinica chirurgica generale. Clinica urologica. Semeiotica e diagnostica radiologica dell'apparato urinario genitale maschile.  
-2) Patologia genitale femminile di interesse urologico. Le affezioni cutanee e veneree nei riguardi dell'urologia.  
-3) Tecniche operatorie ed interventi sull'apparato genito-urinario. Chirurgia urologica, dell'infanzia. Il trattamento pre e post-operatorio del malato urologico.  
+Storia della filosofia italiana;  
+Filologia latina medioevale e umanistica.  
+Art. 63 - all'elenco degli insegnanti complementari del corso di laurea in pedagogia e' aggiunto quello di:  
+  
+Storia della filosofia italiana.  
+Art. 64 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto quello di:  
+  
+Lingua spagnola moderna e contemporanea.  
+Art. 75 - all'elenco degli insegnamenti complementari del corso di laurea in sociologia e' aggiunto quello di:  
+  
+Scienza della politica.  
+L'art. 78, relativo all'elenco degli istituti annessi alla facolta' di medicina e chirurgia, e' modificato nel senso che l'istituto di anatomia chirurgica e' trasformato in:  
+  
+Istituto di III patologia speciale chirurgica e propedeutica clinica.  
+Art. 79 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:  
+  
+Patologia speciale neurologica.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto, nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 marzo 1965
+### Dato a Roma, addi' 31 ottobre 1974
 
-SARAGAT GUI
+LEONE MALFATTI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 28 aprile 1965
+Registrato alla Corte dei conti, addi' 25 gennaio 1975
 
-Atti del Governo, registro n. 192, foglio n. 128. - VILLA
+Atti di Governo, registro n. 7, foglio n. 125

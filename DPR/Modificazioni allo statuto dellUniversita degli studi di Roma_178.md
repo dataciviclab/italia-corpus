@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1963 n. 2370
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1174
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1963 n. 2370
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1174
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -10,120 +10,122 @@ Modificazioni allo statuto dell'Universita' degli studi di Roma.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta, la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 38. - All'elenco degli istituti della Facolta' di economia e commercio, e' aggiunto il seguente:  
-Istituto di Diritto del lavoro.  
-Art. 56. - All'elenco degli insegnamenti complementari del corso di laurea in Lettere, sono aggiunti i seguenti:  
-Storia e vita culturale in Austria;  
-Storia della lingua latina Dialettologia greca;  
-Filologia micenea;  
-Paleografia greca;  
-Disegno e rilievo dei monumenti.  
-Nello stesso articolo l'ultimo comma: "L'elenco di Letteratura latina e' preceduto da una prova scritta di traduzione da latino" e' abrogato e sostituito dal seguente: "Lo studente deve superare una prova scritta di traduzione latina".  
-Art. 57. - All'elenco degli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti i seguenti Logica;  
-Antropologia culturale;  
-Psicologia sociale;  
-Psicologia dell'eta' evolutiva;  
-Storia della scienza.  
-Nello stesso articolo l'ultimo comma: "L'esame di Letteratura latina comprende una prova scritta di traduzione dal latino" e' abrogato.  
-Art. 67. - All'elenco degli insegnamenti complementari del corso di laurea in Pedagogia e' aggiunto quello di "Pedagogia speciale".  
-Dopo l'art. 226, e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli, relativi alla istituzione della Scuola di perfezionamento in Sociologia e ricerca sociale e del corso di specializzazione in Meccanografia per diplomati e laureati in Statistica.  
-Art. 227. - Presso la Facolta' di scienze statistiche, demografiche ad attuariali sono istituite le Scuole di perfezionamento e di specializzazione appresso indicate:  
-Scuola di perfezionamento in Sociologia e ricerca sociale;  
-Corso di specializzazione in Meccanografia (per diplomati e laureati in statistica).  
-Art. 228. - Le Scuole hanno lo scopo di promuovere l'incremento degli studi ai quali ciascuna s'intitola e di integrare o specializzare la preparazione dei laureati nell'ambito di tali studi.  
-Art. 229. - Le Scuole rilasciano i diplomi di perfezionamento o di specializzazione per ciascuna indicati.  
-La dissertazione prevista per l'esame di diploma deve avere carattere di ricerca originale.  
-Art. 230. - Per quanto non previsto dall'ordinamento delle singole Scuole, si applicano le disposizioni generali di cui al Titolo XV dello statuto dell'Universita' di Roma.  
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Scuola di perfezionamento in Sociologia e ricerca sociale  
+Dopo l'art. 711, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alle istituzioni del corso di specializzazione in "neonatologia" e della seconda scuola di specializzazione in "chirurgia toracica".   
   
-Art. 231. Alla Scuola di perfezionamento in sociologia e ricerca sociale sono ammessi i laureati in Scienze statistiche, e su parere del Consiglio della scuola, i laureati di ogni altra Facolta' di Universita' italiane ed estere, ai quali potra' essere richiesto un colloquio a integrazione del curriculum degli studi e degli eventuali altri titoli presentati dai candidati.  
-Art. 232. - La Scuola di perfezionamento ha la durata di due anni, ma il Consiglio della scuola, cui spetta la formazione dei piani di studio individuali, puo' concedere l'abbreviazione ad un anno a quei candidati gia' in possesso di un'adeguata preparazione agli studi sociologici o alla ricerca sociale.  
-Qualora invece il Consiglio ritenga insufficiente la preparazione specifica del candidato, esso potra' imporre l'obbligo di superare presso la Facolta' un certo numero di esami propedeutici nel campo della Statistica, della Demografia, della Economia, del Diritto e della Sociologia.  
-In tal caso il candidato non potra' essere iscritto al successivo anno di corso se non avra' superato i prescritti esami propedeutici e non avra' sostenuto almeno due colloqui relativi ad insegnamenti della Scuola.  
-Art. 233. - Sono materie fondamentali d'insegnamento:  
-1) Teoria degli equilibri sociali;  
-2) Sociologia economica;  
-3) Sociologia giuridica;  
-4) Metodologia e tecnica della ricerca sociale.  
-Sono materie complementari d'insegnamento:  
-1) Cibernetica e teorica dell'informazione;  
-2) Sociologia dei paesi in via di sviluppo;  
-3) Sociologia rurale e urbana;  
-4) Sociologia politica;  
-5) Sociologia del lavoro;  
-6) Sociologia delle civilizzazioni.  
-Art. 234. - Il Consiglio della scuola potra' inserire anche altri corsi tra gli insegnamenti complementari e determinera' ciascun anno quali insegnamenti complementari saranno semestrali e quali annuali, fermo restando che due insegnamenti semestrali equivalgono ad un insegnamento annuale.  
-Art. 235. - Per essere ammessi all'esame di diploma i candidati devono aver superato un colloquio in ciascuna delle materie fondamentali e in 4 insegnamenti complementari.  
-Art. 236. - L'esame di diploma consiste nella preparazione di una dissertazione scritta e nella discussione orale della dissertazione stessa.  
-Art. 237. - La Scuola rilascia un diploma di specializzazione in Sociologia e ricerca sociale.  
-Art. 238. - I diplomati in Statistica e i funzionari degli enti pubblici e privati addetti ad attivita' di ricerche, questi ultimi su richiesta degli Enti dai quali dipendono, possono essere ammessi a frequentare uno o piu' corsi della Scuola. Essi potranno ottenere alla fine del corso un certificato comprovante gli studi compiuti e i voti di profitto riportati.  
   
-Corso di specializzazione in Meccanografia  
+Corso di specializzazione in neonatologia   
   
-Art. 239. - Al corso sono ammessi i diplomati e i laureati in Statistica.  
-Art. 240. - La durata del corso e' di un anno.  
-Art. 241. - Sono materie d'insegnamento:  
-1) Principi e tecnica delle applicazioni meccanografiche ed elettroniche;  
-2) Piano d'indagine ed elaborazione meccanografica;  
-3) Elaborazione e rappresentazione dei dati statistici;  
-4) Meccanizzazione dei servizi amministrativi;  
-5) Meccanizzazione dei servizi contabili bancari;  
-6) Meccanizzazione degli istituti di assicurazione e di previdenza;  
-7) Meccanizzazione dei servizi esattoriali;  
-8) Calcoli statistici con gli elaboratori elettronici.  
-Simulazione con gli elaboratori elettronici (Metodo di Montecarlo);  
-9) Concetti statistici e modelli dinamici nella gestione aziendale.  
-Art. 242. - Per ottenere il certificato comprovante la frequenza e il profitto il candidato dovra' superare gli esami degli insegnamenti 1), 2) e 3) e di due fra gli insegnamenti 4) e 9) che saranno realizzati dalla Scuola nell'anno della sua iscrizione e sostenere l'esame finale consistente nella discussione di un progetto originale di lavoro meccanografico od elettronico e in un colloquio su tutti gli argomenti del corso.  
-Art. 280. - All'elenco degli insegnamenti della Scuola di perfezionamento in Filosofia sono aggiunti quelli di:  
-Storia delle dottrine politiche;  
-Filosofia del diritto.  
-Dopo l'art. 540 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli, relativi alla istituzione del corso di perfezionamento in Medicina nucleare.  
+Art. 712. - E' istituito presso la facolta' di medicina e chirurgia dell'Universita' di Roma un corso di specializzazione in neonatologia. Il corso ha fini di aggiornamento sul piano teorico ma soprattutto di perfezionamento clinico-pratico nell'ambito della neonatologia.   
+La durata del corso e' annuale.   
+Possono essere ammessi al corso gli aspiranti in possesso di un titolo di specializzazione in pediatria (o clinica pediatrica) o in puericultura conseguito presso una scuola di specializzazione di durata almeno biennale.   
+Il numero degli ammessi resta fissato in venti.   
   
-Corso di perfezionamento in Medicina nucleare  
+Art. 713. - Il corso e' diretto da un consiglio direttivo di cui fanno parte i professori ordinari, straordinari e aggregati degli istituti di clinica pediatrica e puericultura, i direttori degli istituti di clinica ostetrica che collaborano all'insegnamento, nonche' tutti gli altri docenti del corso.   
+Su proposta del consiglio direttivo, il consiglio di facolta' designera' anno per anno il direttore del corso, scelto fra un professore ufficiale di discipline pediatriche membro del consiglio stesso.   
   
-Art. 541. - Il corso ha la finalita' di fornire una preparazione specifica, teorica e pratica, per l'impiego diagnostico e terapeutico dei radioisotopi e delle radiazioni di alta energia.  
-Art. 542. - Gli insegnamenti del corso di perfezionamento in Medicina nucleare hanno la durata di un anno e sono impartiti in collaborazione dall'Istituto di patologia medica e dall'Istituto di radiologia medica dell'Universita' di Roma.  
-Art. 543. - Il corso e' suddiviso in due sezioni: una di diagnostica radioisotopica e l'altra terapia.  
-Alla sezione diagnostica possono accedere i laureati in Medicina e chirurgia; alla sezione terapeutica possono accedere solo i medici gia' diplomati in Radiologia.  
-E' previsto un concorso per l'ammissione.  
-Art. 544. - Il numero degli iscritti non potra' essere superiore a dieci.  
-Art. 545. - Il corso di perfezionamento in Medicina nucleare consente il conseguimento di due tipi di certificati di frequenza e di esami con la indicazione della sezione prescelta dal candidato.  
-Art. 546. - La direzione del corso viene assunta ad anni alterni dal direttore dell'Istituto di patologia medica e dal direttore dell'Istituto di radiologia medica, i quali concordano preventivamente ogni anno i programmi.  
-Art. 547. - Le materie di insegnamento sono le seguenti:  
-1) Fondamenti di Matematica, di Fisica e di tecnica (elementi di Matematica e di statistica, Fisica generale; Radioattivita'; Fisica delle radiazioni; Strumentazioni e tecniche di rivelazione, Dosimetria; nozioni di Radiochimica).  
-2) Fondamenti biologici (Radiobiologia; impiego dei radioisotopi come traccianti; protezione dalle radiazioni).  
-3) Applicazioni diagnostiche dei radioisotopi (studio morfologico e funzionale degli organi; fegato, rene, pancreas, ghiandole a secrezione interna; studio dell'apparato circolatorio: studio del sistema emolinfopoietico; studio del ricambio; diagnostica dei tumori).  
-4) Applicazioni terapeutiche (fondamenti generali della radioterapia; terapia con radioisotopi introdotti per via interna, radioterapia esterna con radiazioni di alta energia).  
-Gli insegnamenti sono accompagnati da dimostrazioni e da esercitazioni.  
-Art. 548. - Gli iscritti alla sezione di terapia devono, seguire tutti gli insegnamenti di cui al precedente articolo: quelli iscritti alla sezione di diagnostica radioisotopica seguono gli insegnamenti di cui ai numeri 1), 2) e 3).  
-Art. 549. - Le modalita' di svolgimento degli esami di profitto vengono stabilite di anno in anno e comunicate in un apposito manifesto annuale.  
+Art. 714. - Le materie d'insegnamento sono le seguenti:   
+1) Clinica della gravidanza, del parto normale e a rischio;   
+2) Fisiopatologia e teratologia embrio-fetale;   
+3) Genetica della patologia cromosomica e delle malattie metaboliche congenite;   
+4) Fisiologia neonatale;   
+5) Immunologia neonatale;   
+6) Biochimica neonatale;   
+7) Farmacologia neonatale;   
+8) Patologia neonatale;   
+9) Diagnostica radiologica neonatale;   
+10) Tecniche di laboratorio riguardanti la fisiologia e patologia neonatale;   
+11) Assistenza al neonato sano ed ammalato;   
+12) Clinica e terapia neonatale;   
+13) Rianimazione e cure intensive neonatali;   
+14) Affezioni chirurgiche del neonato;   
+15) Anatomia e patologia del feto e del neonato;   
+16) Evoluzione ed esiti della patologia feto-neonatale.   
+Gli insegnamenti verranno impartiti attraverso lezioni, seminari, discussioni cliniche ed integrati da conferenze su argomenti specialistici pertinenti a problemi di neonatologia.   
+  
+Art. 715. - L'allievo dovra' ottemperare all'internato obbligatorio per la durata di 10 mesi. In tale periodo egli esplichera' attivita' in sala parto e nei diversi servizi di assistenza e cura al neonato.   
+  
+Art. 716. - Alla fine del corso l'allievo sosterra' un esame globale di profitto con prove teoriche e pratiche e svolgera' una dissertazione orale su un argomento in campo neonatologico con relativa discussione dinnanzi ad una commissione formata dal direttore e dagli insegnanti del corso.   
+La sessione di esami sara' unica alla fine del corso.   
+All'allievo che avra' completato le prove con esito favorevole verra' rilasciato un diploma di specializzazione in neonatologia.   
+Scuola di specializzazione in chirurgia toracica   
+(annessa alla 1a clinica chirurgica)   
+  
+Art. 717. - La scuola di specializzazione in chirurgia toracica ha la durata di quattro anni e prevede l'insegnamento di tutte le branche della chirurgia toracica: chirurgia polmonare, chirurgia cardiaca, chirurgia esofagea, chirurgia del mediastino e della parete toracica.   
+  
+Art. 718. - Alla scuola possono accedere tutti i laureati in medicina e chirurgia che abbiano almeno tre anni di frequenza in una scuola di specializzazione in chirurgia generale e medici che, a giudizio del consiglio degli insegnanti della scuola stessa, abbiano acquisito sufficiente pratica in chirurgia generale attraverso servizi prestati in reparti chirurgici.   
+  
+Art. 719. - Coloro che siano in possesso del diploma di specializzazione in chirurgia generale o di libera docenza in una disciplina chirurgica (clinica chirurgica, patologia speciale chirurgica, semeiotica chirurgica, anatomia chirurgica) possono essere ammessi al 2° anno di corso previo esame integrativo vertente sulle materie del primo anno di corso.   
+In nessun altra circostanza puo' essere concessa abbreviazione di corso.   
+  
+Art. 720. - Il numero degli iscritti alla scuola e' fissato ad un massimo di 4° (10 per ogni anno di corso).   
+  
+Art. 721.- Il corso si compone di insegnamenti fondamentali; di esercitazioni pratiche, di periodi di internato, di conferenze riguardanti argomenti specialistici, di turni in corsia ed in sala operatoria. La frequenza ai corsi, agli internati, in corsia ed in sala operatoria, alle esercitazioni, e' obbligatoria. In caso contrario i candidati non potranno ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.   
+  
+Art. 722. - Alla fine di ciascun anno accademico gli specializzandi che abbiano ottenuto la firma di frequenza dovranno sostenere un esame di profitto nelle materie fondamentali, il cui superamento e' condizione necessaria ed indispensabile per ottenere l'iscrizione all'anno successivo e per quelli che sono stati iscritti al quarto anno per l'ammissione all'esame di diploma.   
+Nell'ultimo anno di corso gli specializzandi frequenteranno la sala operatoria in maniera assidua, dovranno assistere a numerosi interventi di chirurgia toracica ed essere in grado di eseguirne essi stessi.   
+La loro preparazione tecnica sara' convalidata o meno alla fine del corso dal direttore della scuola di specializzazione.   
+  
+Art. 723. - Per tutti gli specializzandi che abbiano superato gli esami dei quattro anni, alla fine del quarto anno di corso ha luogo l'esame di diploma, consistente nella presentazione e discussione di una dissertazione scritta su di un argomento di chirurgia toracica (polmonare, cardiaca, esofagea, mediastinica) precedentemente concordata tra il direttore della scuola di specializzazione ed il diplomando all'inizio del terzo o quarto anno.   
+La tesi deve essere approvata dallo stesso direttore e depositata presso la direzione almeno quindici giorni prima dell'esame di diploma.   
+Il candidato dovra' sostenere inoltre una prova clinica.   
+I candidati non riconosciuti idonei all'esame di diploma dovranno ripresentarsi all'esame dopo un altro anno di frequenza alla scuola.  
+Se al secondo esame non sia riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.   
+  
+Art. 724. - Le materie d'insegnamento sono:   
+  
+1° Anno:   
+1) Embriologia, anatomia descrittiva e topografica del torace e degli organi endotoracici (parte toracica, apparato respiratorio, diaframma, mediastino, organi mediastinici, cuore e grossi vasi endotoracici) (annuale);   
+2) Anatomia chirurgia del torace e degli organi endotoracici (annuale);   
+3) Anatomia patologica delle malattie del torace (annuale);   
+4) Anestesia e rianimazione nella chirurgia toracopolmonare ed in cardio-chirurgia (annuale).   
+  
+2° Anno:   
+1) Fisiopatologia dell'apparato respiratorio valutazione funzionale (annuale);   
+2) Fisiopatologia dell'apparato cardio-circolatorio (annuale);   
+3) Semeiotica e diagnostica clinica e strumentale dell'apparato respiratorio dell'esofago, del mediastino (annuale);   
+4) Semeiotica e diagnostica clinica e strumentale dell'apparato cardio-circolatorio (annuale);   
+5) Diagnostica radiologica toraco-polmonare, del cuore e dei grossi vasi endotoracici (annuale).   
+  
+3° Anno:   
+1) Patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (biennale);   
+2) Patologia e clinica chirurgica delle affezioni del cuore e dei grossi vasi endotoracici (biennale);   
+3) Patologia e clinica chirurgica delle affezioni dell'esofago e del diagramma (annuale);   
+4) Terapia chirurgica della tubercolosi polmonare (annuale);   
+5) Elementi della terapia medica delle cardio-angiopatie (annuale);   
+6) Elementi di fisioterapia respiratoria (annuale).   
+  
+4° Anno:   
+1) Patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (biennale);   
+2) Patologia e clinica chirurgica delle affezioni del cuore e dei grossi vasi endotoracici (biennale);   
+3) Tecnica operatoria per le affezioni della parete toracica, dell'apparato respiratorio, dell'esofago, del mediastino e del diaframma (annuale);   
+4) Tecnica operatoria delle affezioni del cuore, pericardio e grossi vasi endotoracici (annuale);   
+5) Principi e tecniche della circolazione extracorporea e della ipotermia (annuale).   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Sassari, addi' 31 dicembre 1963
+### Dato a Roma, addi' 31 ottobre 1973
 
-SEGNI GUI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla corte dei conti, addi' 10 marzo 1964
+Registrato alla Corte dei conti, addi' 26 ottobre 1974
 
-Atti del Governo, registro n. 182, foglio n. 1. - VILLA
+Atti di Governo, registro n. 6, foglio n. 35. - SCIARRETTA

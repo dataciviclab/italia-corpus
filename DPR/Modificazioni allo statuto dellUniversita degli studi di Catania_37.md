@@ -1,183 +1,23 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 aprile 1973 n. 385
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 settembre 1965 n. 1225
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 aprile 1973 n. 385
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 settembre 1965 n. 1225
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938) n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 18, concernente gli insegnamenti del primo biennio del corso di laurea in scienze politiche e' modificato come segue:
-
-Sono obbligatori sul piano nazionale, ai sensi di legge, i seguenti sei insegnamenti:
-
-1) Istituzioni di diritto pubblico;
-
-2) Diritto costituzionale italiano e comparato;
-
-3) Economia politica;
-
-4) Statistica;
-
-5) Sociologia;
-
-6) Storia moderna I.
-
-Gli altri tre insegnamenti obbligatori sono scelti, all'inizio di ogni anno accademico, dal consiglio di facolta', in relazione alle esigenze didattiche, tra i seguenti otto insegnamenti:
-
-1) Scienza della politica;
-
-2) Istituzioni di diritto privato;
-
-3) Organizzazione internazionale;
-
-4) Storia delle istituzioni politiche;
-
-5) Storia contemporanea;
-
-6) Storia delle dottrine politiche;
-
-7) Politica economica e finanziaria;
-
-8) Filosofia della politica.
-
-Gli insegnamenti del presente elenco, non scelti come obbligatori per il biennio propedeutico, saranno inseriti tra gli insegnamenti dei bienni di specializzazione.
-
-Art. 19. - All'elenco degli insegnamenti obbligatori ed opzionali del 2° biennio sono aggiunti i seguenti:
-
-Politica comparata;
-
-Amministrazione comparata;
-
-Governo locale;
-
-Sistema politico italiano;
-
-Organizzazione e comportamento legislativo;
-
-Organizzazione e comportamento giudiziario;
-
-Analisi del linguaggio politico;
-
-Storia della filosofia politica;
-
-Psicologia del lavoro;
-
-Psicologia dei gruppi;
-
-Sociologia urbana;
-
-Sociologia rurale;
-
-Sociologia del lavoro;
-
-Sociologia dell'industria;
-
-Sociologia criminale;
-
-Sociologia delle comunicazioni di massa;
-
-Statistica sociale;
-
-Analisi economica;
-
-Dinamica economica;
-
-Politica finanziaria;
-
-Contabilita' nazionale;
-
-Sistemi economici comparati;
-
-Economia bancaria e monetaria;
-
-Programmazione regionale;
-
-Politica economica regionale;
-
-Economia e politica del lavoro;
-
-Teoria e politica dello sviluppo economico;
-
-Economia urbanistica;
-
-Geografia economica;
-
-Legislazione di banca e di borsa;
-
-Diritto penale dell'economia;
-
-Diritto dei trasporti internazionali;
-
-Diritto sindacale italiano e comparato;
-
-Diritto industriale;
-
-Storia ed istituzioni dell'America latina;
-
-Storia del Nord America;
-
-Storia ed istituzioni dell'Africa;
-
-Storia del pensiero giuridico;
-
-Storia ed istituzioni dei popoli arabi;
-
-Storia delle istituzioni dell'Europa orientale;
-
-Storia della scienza e della tecnica.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 16 aprile 1973
-
-LEONE
-
-SCALFARO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 10 luglio 1973 Atti di Governo, registro n. 258, foglio n. 184 - VALENTINI
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938) n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -185,78 +25,19 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 18, concernente gli insegnamenti del primo biennio del corso di laurea in scienze politiche e' modificato come segue:  
-Sono obbligatori sul piano nazionale, ai sensi di legge, i seguenti sei insegnamenti:  
-1) Istituzioni di diritto pubblico;  
-2) Diritto costituzionale italiano e comparato;  
-3) Economia politica;  
-4) Statistica;  
-5) Sociologia;  
-6) Storia moderna I.  
-Gli altri tre insegnamenti obbligatori sono scelti, all'inizio di ogni anno accademico, dal consiglio di facolta', in relazione alle esigenze didattiche, tra i seguenti otto insegnamenti:  
-1) Scienza della politica;  
-2) Istituzioni di diritto privato;  
-3) Organizzazione internazionale;  
-4) Storia delle istituzioni politiche;  
-5) Storia contemporanea;  
-6) Storia delle dottrine politiche;  
-7) Politica economica e finanziaria;  
-8) Filosofia della politica.  
-Gli insegnamenti del presente elenco, non scelti come obbligatori per il biennio propedeutico, saranno inseriti tra gli insegnamenti dei bienni di specializzazione.  
-Art. 19. - All'elenco degli insegnamenti obbligatori ed opzionali del 2° biennio sono aggiunti i seguenti:  
-  
-Politica comparata;  
-Amministrazione comparata;  
-Governo locale;  
-Sistema politico italiano;  
-Organizzazione e comportamento legislativo;  
-Organizzazione e comportamento giudiziario;  
-Analisi del linguaggio politico;  
-Storia della filosofia politica;  
-Psicologia del lavoro;  
-Psicologia dei gruppi;  
-Sociologia urbana;  
-Sociologia rurale;  
-Sociologia del lavoro;  
-Sociologia dell'industria;  
-Sociologia criminale;  
-Sociologia delle comunicazioni di massa;  
-Statistica sociale;  
-Analisi economica;  
-Dinamica economica;  
-Politica finanziaria;  
-Contabilita' nazionale;  
-Sistemi economici comparati;  
-Economia bancaria e monetaria;  
-Programmazione regionale;  
-Politica economica regionale;  
-Economia e politica del lavoro;  
-Teoria e politica dello sviluppo economico;  
-Economia urbanistica;  
-Geografia economica;  
-Legislazione di banca e di borsa;  
-Diritto penale dell'economia;  
-Diritto dei trasporti internazionali;  
-Diritto sindacale italiano e comparato;  
-Diritto industriale;  
-Storia ed istituzioni dell'America latina;  
-Storia del Nord America;  
-Storia ed istituzioni dell'Africa;  
-Storia del pensiero giuridico;  
-Storia ed istituzioni dei popoli arabi;  
-Storia delle istituzioni dell'Europa orientale;  
-Storia della scienza e della tecnica.  
+Art. 46. - All'elenco degli insegnamenti complementari del corso di laurea in Medicina e Chirurgia e' aggiunto quello di "Chirurgia d'urgenza".  
+Art. 74. - All'elenco degli insegnamenti complementari del corso di laurea in Farmacia e' aggiunto quello di "Microbiologia".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 aprile 1973
+### Dato a Roma, addi' 28 settembre 1965
 
-LEONE SCALFARO
+SARAGAT GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 10 luglio 1973
+Registrato alla Corte dei conti, addi' 2 novembre 1965
 
-Atti di Governo, registro n. 258, foglio n. 184 - VALENTINI
+Atti del Governo, registro n. 198, foglio n. 7. - VILLA

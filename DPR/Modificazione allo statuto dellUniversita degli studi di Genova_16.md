@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 169
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 luglio 1981 n. 822
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 169
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 luglio 1981 n. 822
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
@@ -18,39 +18,38 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla
------
+Sentito il parere del Consiglio universitario nazionale;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Sulla proposta del ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-  
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-L'art. 156, relativo alle norme generali per le scuole di specializzazione in medicina e chirurgia, e' soppresso e sostituito dal seguente:   
-Art. 156. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia di specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Solo per ragioni di forza maggiore la facolta', a seguito della mancanza dei professori di cui sopra, puo' temporaneamente nominare, limitatamente all'anno accademico in corso, direttore della scuola il professore incaricato della disciplina della specializzazione.   
-Il consiglio di ciascuna scuola si compone degli insegnanti che vi svolgono i corsi prescritti ed e' presieduto dal direttore.   
-Il consiglio determina annualmente i criteri e gli orientamenti relativi al funzionamento della scuola e fornisce al direttore pareri sulle questioni di competenza del direttore stesso.   
+Il terzo comma dell'art. 72, concernente il numero degli allievi iscrivibili al corso di laurea in odontoiatria e protesi dentaria, e' soppresso e sostituito come segue:  
+"Il numero degli iscritti e' di quaranta per anno di corso".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 gennaio 1980
+### Dato a Roma, addi' 23 luglio 1981
 
-PERTINI VALITUTTI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 26 aprile 1980
+Registrato alla Corte dei conti, addi' 31 dicembre 1981
 
-Registro n. 38 Istruzione, foglio n. 42
+Registro n. 136 Istruzione, foglio n. 106

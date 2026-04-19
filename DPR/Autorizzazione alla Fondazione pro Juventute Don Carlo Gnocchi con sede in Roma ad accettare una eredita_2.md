@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1965 n. 1127
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 gennaio 1966 n. 119
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1965 n. 1127
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 gennaio 1966 n. 119
 ==============================================================
 
 Autorizzazione alla "Fondazione pro Juventute Don Carlo Gnocchi", con sede in Roma, ad accettare una eredita'.
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-1127. Decreto del Presidente della Repubblica 13 agosto 1965, col quale, sulla proposta del Presidente del Consiglio dei Ministri la "Fondazione pro Juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla defunta signora Emma Ambrosi, ved.  
-Guardia, con testamento olografo del 14 giugno 1961, per atto a rogito dottor Vito Borgomaneri, notaio in Cuggiono, in data 7 maggio 1963, repertorio n. 32884, raccolta n. 5896. Tale eredita' e' costituita da oggetti vari per L. 75.925, da denaro liquido per L. 135.000 e da un libretto di risparmio al portatore per L. 200.000.  
+119. Decreto del Presidente della Repubblica 27 gennaio 1966, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione pro Juventute Don Carlo Gnocchi" con sede in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' - consistente in un libretto e titoli depositati presso la Banca Popolare di Novara - Succursale di Aosta, ammontante a L. 5.148.145 quale parte attiva, e a L. 2.246.060 quale parte passiva - disposta dalla defunta signora Bertani Ines vedova Albertella, con testamento olografo a rogito dott. Germano Ollietti, notaio residente in Aosta, in data 4 febbraio 1963, repertorio 9192, raccolta 3869.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 9 ottobre 1965  
-Atti del Governo, registro n. 197, foglio n. 68. - VILLA
+Registrato alla Corte dei conti, addi' 18 marzo 1966  
+Atti del Governo, registro n. 202, foglio n. 53. - VILLA

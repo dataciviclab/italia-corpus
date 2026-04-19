@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 201
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1087
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 201
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1087
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 ------------------------------------------------------------------------------
@@ -28,7 +28,7 @@ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte 
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministero della pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 --------
@@ -39,18 +39,18 @@ Articolo unico
 --------------
 
   
-Art. 59 - nell'elenco degli insegnamenti complementari del corso di laurea in lettere e' inserito l'insegnamento di "storia del diritto italiano"  
+Art. 92 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia l'insegnamento di "immunologia clinica" cambia la denominazione in quella di "allergologia ed immunologia clinica".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 marzo 1984
+### Dato a Roma, addi' 23 dicembre 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 23 maggio 1984
+Registrato alla Corte dei conti, addi' 15 marzo 1984
 
-Registro n. 30 Istruzione, foglio n. 84
+Registro n. 16 Istruzione, foglio n. 176

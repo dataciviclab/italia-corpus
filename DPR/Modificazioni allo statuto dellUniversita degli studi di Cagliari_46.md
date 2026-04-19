@@ -1,54 +1,124 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1969 n. 727
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1966 n. 1098
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1969 n. 727
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1966 n. 1098
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Dopo l'art. 168 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione del corso teorico-pratico per il personale ausiliario dei servizi pubblici di igiene e profilassi.
+
+Corso teorico-pratico per il personale ausiliario dei servizi pubblici di igiene e profilassi (Scuola diretta a fini speciali)
+
+Art. 169. - Nella Facolta' di medicina e chirurgia, con sede presso l'istituto di igiene, e' istituito un corso teorico-pratico di preparazione e addestramento per il personale tecnico ausiliario addetto ai servizi pubblici di igiene e profilassi.
+
+Art. 170. - Detto corso ha la durata di un anno e la frequenza e' obbligatoria.
+
+Art. 171. - Sono ammessi alla frequenza i giovani in eta' tra i 18 ed i 28 anni compiuti, in numero non superiore a 25, che risultino in possesso di regolare diploma di scuola media di secondo grado. Si prescinde dai limiti di eta' per tutti coloro che prestino servizio di ruolo presso pubbliche Amministrazioni.
+
+Art. 172. - Le materie di insegnamento sono le seguenti:
+
+1) Nozioni fondamentali di fisiologia umana, di microbiologia generale, di immunologia, di parassitologia e di statistica sanitaria;
+
+2) Igiene generale;
+
+3) Epidemiologia e profilassi generale delle malattie infettive e di quelle non infettive di interesse sociale;
+
+4) Igiene dell'alimentazione e degli alimenti;
+
+5) Nozioni fondamentali di diritto amministrativo, civile, penale e sanitario.
+
+Le lezioni teoriche sono integrate da esercitazioni pratiche sia a carattere dimostrativo, comprese le campionature, sia a carattere di visite ad impianti sanitari ed igienici cittadini ed extraurbani e ad uffici e laboratori di igiene comunali, provinciali, regionali e statali.
+
+Art. 173. - Alla fine del corso gli allievi dovranno sostenere una prova scritta, una prova orale ed una prova pratica sulle materie del programma.
+
+Agli allievi che avranno ottenuto l'approvazione da parte della Commissione giudicatrice, verra' rilasciato un attestato finale di frequenza e profitto.
+
+Art. 174. - Al presente corso, in quanto compatibili, si applicheranno le disposizioni generali vigenti per le scuole di specializzazione della Facolta' di medicina e chirurgia, con particolare riferimento agli articoli 77, 87, 89 e 90 dello statuto.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 24 ottobre 1966
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 14 dicembre 1966 Atti del Governo, registro n. 208, foglio n. 10. - VILLA
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 60. - All'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti i seguenti:   
-Biologia molecolare;   
-Chimica delle sostanze organiche naturali;   
-Chimica dei composti eterociclici;   
-Farmacologia molecolare;   
-Metodi matematici e statistici in chimica e biologia.   
-Nello stesso articolo il quinto comma e' abrogato e sostituito dal seguente:   
-"Nel sostenere gli esami lo studente deve rispettare il seguente ordine di precedenza:   
-l'esame di chimica generale ed inorganica deve precedere quelli di chimica organica, di chimica farmaceutica e delle esercitazioni di chimica farmaceutica e tossicologica (triennale);   
-l'esame di chimica organica deve precedere quelli di chimica biologica e di chimica farmaceutica e tossicologica (biennale);   
-l'esame di anatomia umana deve precedere quello di fisiologia generale (biennale);   
-gli esami di fisiologia generale (biennale) e di chimica biologica debbono precedere quello di farmacologia e farmacognosia; gli esami di esercitazioni di chimica farmaceutica e tossicologica (triennale) sono propedeutici i primi nei confronti dei successivi".   
+Dopo l'art. 168 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione del corso teorico-pratico per il personale ausiliario dei servizi pubblici di igiene e profilassi.  
+Corso teorico-pratico per il personale ausiliario dei servizi pubblici di igiene e profilassi (Scuola diretta a fini speciali)  
+Art. 169. - Nella Facolta' di medicina e chirurgia, con sede presso l'istituto di igiene, e' istituito un corso teorico-pratico di preparazione e addestramento per il personale tecnico ausiliario addetto ai servizi pubblici di igiene e profilassi.  
+Art. 170. - Detto corso ha la durata di un anno e la frequenza e' obbligatoria.  
+Art. 171. - Sono ammessi alla frequenza i giovani in eta' tra i 18 ed i 28 anni compiuti, in numero non superiore a 25, che risultino in possesso di regolare diploma di scuola media di secondo grado. Si prescinde dai limiti di eta' per tutti coloro che prestino servizio di ruolo presso pubbliche Amministrazioni.  
+Art. 172. - Le materie di insegnamento sono le seguenti:  
+1) Nozioni fondamentali di fisiologia umana, di microbiologia generale, di immunologia, di parassitologia e di statistica sanitaria;  
+2) Igiene generale;  
+3) Epidemiologia e profilassi generale delle malattie infettive e di quelle non infettive di interesse sociale;  
+4) Igiene dell'alimentazione e degli alimenti;  
+5) Nozioni fondamentali di diritto amministrativo, civile, penale e sanitario.  
+Le lezioni teoriche sono integrate da esercitazioni pratiche sia a carattere dimostrativo, comprese le campionature, sia a carattere di visite ad impianti sanitari ed igienici cittadini ed extraurbani e ad uffici e laboratori di igiene comunali, provinciali, regionali e statali.  
+Art. 173. - Alla fine del corso gli allievi dovranno sostenere una prova scritta, una prova orale ed una prova pratica sulle materie del programma.  
+Agli allievi che avranno ottenuto l'approvazione da parte della Commissione giudicatrice, verra' rilasciato un attestato finale di frequenza e profitto.  
+Art. 174. - Al presente corso, in quanto compatibili, si applicheranno le disposizioni generali vigenti per le scuole di specializzazione della Facolta' di medicina e chirurgia, con particolare riferimento agli articoli 77, 87, 89 e 90 dello statuto.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 settembre 1969
+### Dato a Roma, addi' 24 ottobre 1966
 
-SARAGAT FERRARI AGGRADI
+SARAGAT GUI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 27 ottobre 1969
+Registrato alla Corte dei conti, addi' 14 dicembre 1966
 
-Atti del Governo, registro n. 229, foglio n. 148. - CARUSO
+Atti del Governo, registro n. 208, foglio n. 10. - VILLA

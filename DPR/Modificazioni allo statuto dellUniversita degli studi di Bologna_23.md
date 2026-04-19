@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1974 n. 718
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1957 n. 1381
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1974 n. 718
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1957 n. 1381
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -12,11 +12,10 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-12;2227), e successivi;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -25,74 +24,47 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 85, relativo al corso di laurea in storia, e' modificato nel senso che il secondo comma e' soppresso e sostituito dal seguente:  
-"Il corso di studi si distingue nei seguenti indirizzi:  
-A) Antico;  
-B) Medioevale;  
-C) Moderno;  
-D) Orientale;  
-E) Contemporaneo".  
-Nello stesso art. 85, dopo l'elenco degli insegnamenti nell'indirizzo orientale, sono aggiunti i seguenti insegnamenti relativi all'indirizzo contemporaneo:  
-E) Indirizzo contemporaneo:  
   
-Sono insegnamenti fondamentali:  
-Storia del Risorgimento;  
-Storia contemporanea;  
-Storia d'Italia nel secolo XX;  
-Metodologie sociologiche;  
-Filosofia della scienza;  
-Geografia politica;  
-Geografia economica;  
-Cinematica dei fatti economici e sociali;  
-Storia della filosofia contemporanea;  
-Storia delle innovazioni tecnologiche;  
-Letteratura italiana contemporanea.  
+Scuola di perfezionamento in fisio-chinesiterapia ortopedica  
   
-Sono insegnamenti complementari (quelli indicati sulla stessa linea sono da scegliere preferibilmente congiunti fuorche' sia indicato "oppure"):  
-Storia dei Paesi africani nel secolo XX;  
-Storia dei Paesi dell'estremo oriente nel secolo XX;  
-Storia dei Paesi del vicino oriente nel secolo XX;  
-Storia degli Stati Uniti d'America;  
-Storia dell'America centrale;  
-Storia dell'America meridionale;  
-Storia dell'Unione Sovietica;  
-Storia dell'Inghilterra e del Commonwealth nel secolo XX;  
-Storia della Francia;  
-Storia della Spagna;  
-Storia della Germania;  
-Storia dei Paesi scandinavi;  
-Storia delle istituzioni internazionali, diritto internazionale;  
-Storia della fisica contemporanea, fisica;  
-Storia della matematica contemporanea;  
-Storia della medicina contemporanea;  
-Antropologia oppure genetica, oppure anatomia comparata, oppure istologia ed embriologia, oppure biologia generale;  
-Storia della chimica contemporanea, chimica generale;  
-Storia del giornalismo;  
-Storia sociale;  
-Storia della biologia;  
-Storia delle tecniche contemporanee, elementi di macchine, oppure elettrotecnica, oppure arte mineraria, oppure idraulica, oppure tecnologia generale, oppure tecnica ed economia dei trasporti;  
-Statistica;  
-Storia della moneta, scienza delle finanze, economia politica;  
-Storia delle regioni italiane, istituzioni di diritto pubblico;  
-Storia militare;  
-Storia dell'aviazione;  
-Storia dei trasporti nei secoli XIX e XX;  
-Storia degli sports;  
-Storia della seconda guerra mondiale e dei movimenti partigiani;  
-Teoria dei futuribili;  
-Economia politica;  
-Istituzioni di matematica.  
+Art. 354. - Presso la clinica ortopedica dell'Universita' di Bologna e' istituita una scuola di perfezionamento in fisio-chinesiterapia ortopedica che conferisce il diploma di specialista in fisio-chinesiterapia ortopedica.  
+Il direttore della scuola e' il direttore della clinica ortopedica.  
+I docenti del corso saranno scelti tra i professori della Facolta' di medicina e chirurgia su designazione della Facolta' stessa.  
+Art. 355. - Alla scuola sono ammessi i laureati in medicina e chirurgia. Essa ha indirizzo teorico-pratico con lo scopo di specializzare nella rieducazione e riabilitazione funzionale e professionale di tutti i motulesi.  
+L'ammissione alla scuola avviene attraverso concorso interno con esami ed eventuali prove pratiche.  
+Il numero degli ammessi e' stabilito anno per anno dalla Direzione della scuola, numero che non puo' superare i dieci.  
+Art. 356. - La durata del corso e' di due anni.  
+Gli iscritti hanno l'obbligo di una frequenza continuata ed ininterrotta.  
+Art. 357. - Gli insegnamenti obbligatori sono i seguenti:  
+1° anno:  
+1) Anatomia dell'apparato motore;  
+2) Fisiologia dell'apparato motore;  
+3) Patologia delle motulesioni;  
+4) Termoterapia;  
+5) Massoterapia;  
+6) Idroterapia, balneoterapia.  
+2° anno:  
+1) Clinica delle motulesioni;  
+2) Terapia delle radiazioni;  
+3) Elettroterapia;  
+4) Ginnastica, medica (profilattica e correttiva);  
+5) Terapia del movimento e meccanoterapia;  
+6) Rieducazione motoria e riabilitazione.  
+In un manifesto annuale della clinica ortopedica vengono esposte le norme dettagliate riguardanti i vari insegnamenti.  
+Art. 358. - Alla fine del primo anno gli iscritti dovranno sostenere un esame di profitto nel gruppo di materie del primo corso.  
+Alla fine del secondo anno gli iscritti dovranno sostenere un esame di profitto nel gruppo di materie del secondo corso.  
+L'esame di diploma consiste nella discussione di una dissertazione scritta.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1974
+### Dato a Roma, addi' 23 ottobre 1957
 
-LEONE MALFATTI
+GRONCHI MORO
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 22 gennaio 1975
+Registrato alla Corte dei conti, addi' 26 novembre 1957
 
-Atti di Governo, registro n. 7, foglio n. 123
+Atti del Governo, registro n. 109, foglio n. 55. - DI PRETORO

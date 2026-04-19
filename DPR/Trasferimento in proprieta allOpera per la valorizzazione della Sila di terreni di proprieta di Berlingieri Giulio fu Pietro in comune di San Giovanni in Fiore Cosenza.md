@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1951 n. 501
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1950 n. 759
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1951 n. 501
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1950 n. 759
+================================================================
 
 Trasferimento in proprieta' all'Opera per la valorizzazione della Sila di terreni di proprieta' di Berlingieri Giulio fu Pietro, in comune di San Giovanni in Fiore (Cosenza).
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77, comma primo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77-com1), ed [87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5) della Repubblica;
 
-Vista la [legge 12 maggio 1950, n. 230, e l'art. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art16) della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
+Vista la [legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230);
 
-In virtu' della delegazione concessa, con l'[art. 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5);
+In virtu' della delegazione concessa con l'art. 5 della predetta legge;
 
-Udito il parere, in data 19 aprile 1951, della Commissione parlamentare, nominata a norma dell'[art. 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), la quale ha esaminato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di San Giovanni in Fiore (Cosenza), della superficie di Ha. 3.90.60, nei confronti di Berlingieri Giulio fu Pietro;
+Udito il parere, in data 24 agosto 1950, della Commissione parlamentare, nominata a norma dell'[art. 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), la quale ha esaminato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di San Giovanni in Fiore (Cosenza), della superficie di ettari 427.66.94, nei confronti di Berlingieri Giulio fu Pietro;
 
 Sentito il Consiglio dei Ministri;
 
@@ -29,19 +29,25 @@ Art. 1
 ------
 
   
-E' approvato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di San Giovanni in Fiore (Cosenza), della superficie di Ha. 3.90.60, nei confronti di Berlingieri Giulio fu Pietro.  
+E' approvato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di San Giovanni in Fiore (Cosenza), della superficie di ettari 427.66.94, nei confronti di Berlingieri Giulio fu Pietro.  
 
 Art. 2
 ------
 
   
-E' ordinata la immediata occupazione, da parte dell'Opera per la valorizzazione della Sila, dei terreni, di cui al precedente art. 1, confinanti, a nord, est ed ovest con la particella 1 del foglio stesso intestato a Berlingieri Giulio fu Pietro e, a sud, con la strada vicinale da Ceraso a Salicone.  
+E' ordinata la immediata occupazione, da parte dell'Opera per la valorizzazione della Sila, dei terreni, di cui al precedente art. 1, confinanti:  
+il primo corpo, della superficie di ettari 44.96.48, a nord, con la proprieta' De Marco, con il comune di Carpanzano ed il fiume Arvo; ad est, con lo stesso fiume; a sud, con la strada vicinale di Jure-Vetere e via Ceraso-Silicone; ad ovest, con il comune di Lappano (proprieta);  
+il secondo corpo, della superficie di ettari 150.33.90, a nord, con la proprieta' Leonetti e con il comune di Scigliano; a nord-est e ad est con la strada vicinale De-Rossi-Ceraso; a sud, con il vallone Ceraso; ad ovest, con la strada vicinale Cristallo;  
+il terzo corpo, della superficie di ettari 90.46.20, a nord, con la strada vicinale Quarto Romundo e Jure Vetere; ad est, con il vallone Ceraso; a sud, con il vallone Ceraso e quello dei Tre valloni; ad ovest, con la strada vicinale Rossi Ceraso e Ceraso Cagno in parte;  
+il quarto corpo, della superficie di ettari 15.50.66, a nord, con il fiume Arvo e con la proprieta' Caputo; ad est, sud ed ovest, con il fiume Arvo;  
+il quinto corpo, della superficie di ettari 20.54.20, a nord, con il vallone Ceraso; ad est, con il vallone dei Cinque valloni; a sud, con la parte della proprieta' stessa alla particella 12 del foglio 14;  
+il sesto corpo, della superficie di ettari 105.85.50, a nord, con la proprieta' stessa, terreno boschivo di cui alla particella 23 del foglio 13; ad est, con la proprieta' Palombaro e con la particella 23 del foglio 13; a sud, con il vallone Cagno; ad ovest, con la proprieta stessa alla particella 21 del foglio 14 delimitata dall'acquaro, nonche' con la particella boschiva 17 del foglio 14.  
 
 Art. 3
 ------
 
   
-I terreni di cui sopra sono trasferiti in proprieta' all'Opera, per la valorizzazione della Sila.  
+I terreni di cui sopra sono trasferiti in proprieta' all'Opera per la valorizzazione della Sila.  
 
 Art. 4
 ------
@@ -53,22 +59,22 @@ L'elenco dei terreni, compresi nel piano di espropriazione di cui all'art. 1, co
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 giugno 1951
+### Dato a Roma, addi' 22 settembre 1950
 
 EINAUDI DE GASPERI - SEGNI
 
 Visto, il Guardasigilli: PICCIONI
 
-Registrato alla Corte dei conti, addi' 3 luglio 1951
+Registrato alla Corte dei conti, addi' 22 settembre 1950
 
-Atti del Governo, registro n. 40, foglio n. 1 - CARLOMAGNO
+Atti del Governo, registro n. 35, foglio n. 122. - CARLOMAGNO
 
 Elenco
 
  COMUNE DI SAN GIOVANNI IN FIORE (Cosenza)   
+  
 Elenco dei terreni espropriati nei confronti di Berlingieri Giulio fu Pietro a termini degli [articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art1) e [2 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art2)
   
   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=051U050100100010110001&dgu=1951-07-10&art.dataPubblicazioneGazzetta=1951-07-10&art.codiceRedazionale=051U0501)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=050U075900100010110001&dgu=1950-09-23&art.dataPubblicazioneGazzetta=1950-09-23&art.codiceRedazionale=050U0759)
   

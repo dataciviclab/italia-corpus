@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 1173
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1969 n. 393
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 1173
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1969 n. 393
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -12,10 +12,10 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847) e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -24,137 +24,65 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-L'art. 380 relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che il n. 17 e' abrogato e sostituito dal seguente:  
-n. 17) Scuola di odontoiatria e protesi dentaria che conferisce il diploma di specialista in odontoiatria e protesi dentaria.  
-Nello stesso elenco il n. 24 relativo alla scuola in puericultura e' soppresso, ed e' aggiunto il n. 29 relativo all'istituzione della scuola in "Malattie dell'apparato digerente";  
-n. 29) Scuola di specializzazione in malattie dello apparato digerente che conferisce il diploma di specialista in malattie dell'apparato digerente.  
-Art. 381. - L'ordinamento della scuola di specializzazione in "Chirurgia dell'infanzia" e' abrogato e sostituito dal seguente:  
-  
-Scuola di specializzazione in chirurgia dell'infanzia  
-(durata del corso: anni 2)  
-  
-La scuola di specializzazione in chirurgia dell'infanzia conferisce il diploma di specialista in "Chirurgia della infanzia".  
-La durata del corso degli studi per il conseguimento della specialita' in chirurgia dell'infanzia e' fissata in due anni.  
-Possono ottenere l'iscrizione alla scuola i laureati in medicina e chirurgia che siano in possesso del diploma di specialista in chirurgia generale o abbiano conseguito la libera docenza in clinica chirurgica, o patologia chirurgica, o semeiotica chirurgica, o anatomia chirurgica, o in chirurgia pediatrica.  
-Non e' ammessa abbreviazione di corso.  
-Il numero degli iscritti alla scuola per anno di corso e' di dieci.  
-Qualora il numero degli aspiranti superi quello stabilito l'ammissione sara' subordinata ad una prova di esame.  
-La direzione della scuola e' affidata al titolare dell'insegnamento della clinica chirurgica generale o della chirurgia pediatrica.  
-Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali, oltre ad un periodo di internato obbligatorio di almeno sei mesi per ogni anno di corso.  
-Il periodo di internato potra' essere abbreviato per coloro che documentino di svolgere effettivo servizio presso reparti di chirurgia pediatrica.  
-Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali, oltre ad un periodo di internato obbligatorio di almeno sei mesi per ogni anno di corso.  
-Il periodo di internato potra' essere abbreviato per coloro che documentino di svolgere effettivo servizio presso reparti di chirurgia pediatrica universitari od ospedalieri.  
-Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-a) Anatomia patologica e teratologia (lezioni);  
-b) Endocrinologia infantile (conferenze);  
-c) Clinica pediatrica (lezioni);  
-d) Clinica chirurgica pediatrica (lezioni);  
-e) Patologia chirurgica e semeiotica chirurgica (lezioni);  
-f) Diagnostica radiologica e nucleare delle malattie chirurgiche dell'infanzia (lezioni);  
-g) Anestesiologia e rianimazione (conferenze).  
-2° Anno:  
-a) Clinica pediatrica (lezioni);  
-b) Clinica chirurgica pediatrica (lezioni);  
-c) Chirurgia d'urgenza nell'infanzia (lezioni);  
-d) Otorinolaringoiatria nell'infanzia (conferenze);  
-e) Ortopedia nell'infanzia (conferenze);  
-f) Urologia nell'infanzia (conferenze);  
-g) Neurochirurgia infantile (conferenze);  
-h) Chirurgia del cuore e dei grossi vasi (conferenze).  
-La frequenza alle lezioni e alle conferenze e' obbligatoria.  
-Al termine di ciascun anno accademico gli specializzandi, che abbiano ottenuto le firme di frequenza, dovranno sostenere gli esami di profitto nelle materie oggetto di insegnamento.  
-Al termine del corso di specializzazione gli specializzandi dovranno presentare una dissertazione scritta su argomento di chirurgia infantile e sostenere l'esame di diploma.  
-L'ammissione alla scuola avviene per titoli ed esami.  
-Le tasse che gli iscritti devono versare per il conseguimento del diploma di specialista, sono fissate come segue:  
-  
-tassa di immatricolazione. . . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione. . . . . . . . . . . . . . . . . . L. 100.000 soprattassa esami. . . . . . . . . . . . . . . . . . . . L. 7.000 tassa quali fuori corso. . . . . . . . . . . . . . . . . L. 5.000   
-I contributi sono determinati di anno in anno dal consiglio di amministrazione, su proposta del senato accademico, sentito il consiglio della facolta' di medicina e chirurgia.  
-Nello stesso articolo l'ordinamento della "Scuola di specializzazione in neurochirurgia" e' modificato nel senso che tra le materie di insegnamento del IV anno della scuola stessa, sono inserite le seguenti:  
-Neurotraumatologia;  
-Neurochirurgia stereotassica;  
-Neurochirurgia infantile;  
-Neurochirurgia spinale.  
-Nello stesso articolo l'ordinamento della "Scuola di specializzazione in odontoiatria e protesi dentaria" e' abrogato e sostituito dal seguente:  
-  
-Scuola di specializzazione in odontoiatria e protesi dentaria  
-(durata del corso: anni 3)  
-  
-1° Anno:  
-Embriologia e anatomia dentaria e maxillo facciale;  
-Microbiologia e igiene orale;  
-Farmacologia;  
-Patologia odontostomatologica;  
-Odontotecnica;  
-Anestesia e chirurgia stomatologica;  
-Odontoiatria e conservatica - 1° anno;  
-Esercitazioni pratiche.  
-2° Anno:  
-Odontoiatria e conservatica - 2° anno;  
-Clinica protesica dentaria e maxillo-facciale - 1° anno;  
-Paradontologia - 1° anno;  
-Anatomia e istopatologia odontostomatologica;  
-Odontoiatria infantile;  
-Radiologia odontostomatologica;  
-Ortopedia dento-maxillo-facciale - 1° anno;  
-Chirurgia maxillo-facciale - 1° anno;  
-Esercitazioni pratiche.  
-3° Anno:  
-Clinica odontostomatologica;  
-Chirurgia maxillo-facciale - 2° anno;  
-Medicina legale odontostomatologica e delle assicurazioni;  
-Ortopedia dento-maxillo-facciale - 2° anno;  
-Clinica protesica dentaria e maxillo-facciale - 2° anno;  
-Paradontologia - 2° anno;  
-Esercitazioni pratiche.  
-Internato obbligatorio nell'istituto di clinica odontoiatrica per tutta la durata degli studi.  
-Il numero complessivo degli iscritti ai tre anni di corso e' di settantacinque.  
-L'ammissione alla scuola avviene per titoli ed esami.  
-Le tasse che gli iscritti devono versare per il conseguimento del diploma di specialista, sono fissate come segue:  
-  
-tassa di immatricolazione. . . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione. . . . . . . . . . . . . . . . . . L. 100.000 soprattassa esami. . . . . . . . . . . . . . . . . . . . L. 7.000 tassa quali fuori corso. . . . . . . . . . . . . . . . . L. 5.000   
-I contributi sono determinati di anno in anno dal consiglio di amministrazione, su proposta del senato accademico, sentito il consiglio della facolta' di medicina e chirurgia.  
-Nello stesso articolo l'ordinamento della "Scuola di specializzazione in puericultura" e' soppresso. Nello stesso articolo e' aggiunto il seguente comma relativo alla scuola di specializzazione in malattie dell'apparato digerente:  
-  
-Scuola di specializzazione in malattie dell'apparato digerente  
-(durata del corso: anni 4)  
-  
-1° Anno:  
-Anatomia patologica;  
-Fisiopatologia;  
-Chimica clinica;  
-Semeiotica fisica e strumentale (biennale);  
-Clinica medica (triennio).  
-2° Anno:  
-Semeiotica fisica e strumentale (biennale);  
-Semeiotica radiologica;  
-Malattie del tubo digerente;  
-Clinica medica (triennale).  
-3° Anno:  
-Malattie del fegato e del pancreas;  
-Clinica medica (triennale).  
-4° Anno:  
-Tirocinio pratico da svolgersi in una clinica o patologia medica o in reparti ospedalieri.  
-Per le materie biennali e triennali sara' sostenuto un esame alla fine del biennio o triennio.  
-Alle materie fondamentali potranno essere aggiunte, a richiesta della direzione della scuola, materie complementari in numero non superiore a sei per la totalita' del corso.  
-Il numero massimo complessivo degli iscritti e' quaranta, distribuiti nei quattro anni di corso.  
-L'ammissione alla scuola avviene per titoli ed esami.  
-Le tasse che gli iscritti devono versare per il conseguimento del diploma di specialista, sono fissate come segue:  
-  
-tassa di immatricolazione. . . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione. . . . . . . . . . . . . . . . . . L. 100.000 soprattassa esami. . . . . . . . . . . . . . . . . . . . L. 7.000 tassa quali fuori corso. . . . . . . . . . . . . . . . . L. 5.000   
-I contributi sono determinati di anno in anno dal consiglio di amministrazione, su proposta del senato accademico, sentito il consiglio della facolta' di medicina e chirurgia.  
+Art. 244. - E' abrogato e sostituito dal seguente:  
+Presso la facolta' di scienze matematiche, fisiche e naturali vengono tenuti i seguenti corsi di perfezionamento:  
+a) in matematica ad indirizzo applicativo;  
+b) in matematica ad indirizzo didattico;  
+c) in matematica ad indirizzo scientifico;  
+d) in fisica ad indirizzo didattico, i quali conducono al conseguimento di appositi certificati di frequenza ed esami rispettivamente nelle quattro specializzazioni a), b), c), e d).  
+La facolta' si riserva di decidere di anno in anno la opportunita' o meno di tenere i corsi suddetti.  
+Dopo l'art. 258 vengono inseriti i seguenti nuovi articoli, con spostamento della successiva numerazione, relativi all'istituzione del corso di perfezionamento in fisica ad indirizzo didattico.  
+Corso di perfezionamento in fisica ad indirizzo didattico  
+Art. 259. - Al corso annuale di perfezionamento in fisica ad indirizzo didattico e' titolo di ammissione qualunque laurea che, secondo le vigenti leggi, consenta l'insegnamento della fisica in qualche tipo di scuola secondaria. Dell'accettazione delle domande di iscrizione al corso giudica il consiglio della facolta', su proposta del direttore del corso.  
+Art. 260. - Il corso si svolge presso l'istituto di fisica "G.  
+Galilei" ed ha la durata di un anno accademico.  
+il direttore del corso e' nominato di anno in anno dalla facolta' e puo' essere confermato.  
+Art. 261. - I contributi vengono fissati annualmente dal consiglio di amministrazione su proposta del consiglio di facolta'.  
+Art. 262. - Il corso comprende la critica delle nozioni fondamentali di fisica generale, complementi di fisica generale, didattica della fisica, ed aggiornamenti sui piu' recenti sviluppi della fisica. Esso consiste in lezioni teoriche e in esercitazioni; puo' mutuare insegnamenti della facolta' di scienze fisiche matematiche e naturali ed eventualmente anche di altre facolta', su parere del consiglio di facolta'.  
+Art. 263. - Il profitto degli allievi e' riconosciuto dagli insegnanti durante il corso stesso e mediante prove speciali al termine di esso.  
+La scuola di perfezionamento in fisica nucleare applicata muta denominazione in "Scuola di specializzazione in tecniche e misure nucleari". I relativi articoli sono modificati nel modo seguente:  
+Art. 294 (ex 289). - Presso la facolta' di scienze fisiche matematiche e naturali e' istituita una scuola di specializzazione in tecniche e misure nucleari. Essa ha per scopo la formazione di laureati di preparazione scientifica e tecnica specializzata in vista delle applicazioni pratiche dell'energia nucleare e rilascia un diploma in tecniche e misure nucleari.  
+Art. 295 (ex 290). - La scuola e' retta da un consiglio direttivo composto del direttore, nominato dal rettore su proposta del consiglio della facolta' di scienze, e dei professori di ruolo che vi tengono corsi regolari.  
+Il consiglio stabilisce:  
+a) gli indirizzi di specializzazione della scuola;  
+b) i programmi dei singoli corsi e la rispettiva durata;  
+c) il numero degli esami richiesti per il conseguimento del diploma di specializzazione e le modalita' di essi;  
+d) le proposte da sottoporre al consiglio di amministrazione in merito all'ammontare dei contributi da richiedere per l'iscrizione ai singoli corsi e all'impiego di questi per il funzionamento della scuola.  
+Art. 296 (ex 291). - Di uno stesso insegnamento genericamente indicato in seguito possono venire incaricati per singoli capitoli uno o piu' docenti, anche di nazionalita' non italiana, aventi specifica competenza nelle diverse parti del programma didattico.  
+Art. 297 (ex 292). - Alla scuola di specializzazione sono ammessi i laureati in fisica, ingegneria, chimica, chimica industriale e matematica che soddisfino ai requisiti fissati anno per anno dal consiglio della scuola.  
+Art. 298 (ex 293). - Per il conseguimento del "diploma di specializzazione in tecniche e misure nucleari" si richiede una frequenza di due anni. In casi speciali il consiglio direttivo della scuola ha la facolta' di abbreviare questo periodo.  
+Art. 299 (ex 294). - La scuola ha sede nei locali dello istituto di fisica dell'Universita' di Padova e si vale dei mezzi di questa e di quelli messi a disposizione per questo scopo dal C.N.E.N. o da altro organo dello Stato che ad esso sia sostituito e dei contributi eventuali di altri enti. Per le esercitazioni pratiche e per l'attivita' di ricerca sperimentale richiesta per il conseguimento del diploma di specializzazione, la scuola si vale anche delle installazioni ed attrezzature del laboratorio dello acceleratore Van de Graaf dell'Universita' di Padova.  
+Art. 300 (ex 295). - Gli insegnamenti della scuola sono i seguenti:  
+1. Fisica nucleare  
+2. Reazioni nucleari  
+3. Produzione di neutroni e misure di sezioni d'urto  
+4. Rallentamento e diffusione dei neutroni nella materia  
+5. Rilevazione delle particelle nucleari  
+6. Strumentazione nucleare  
+7. Effetti biologici delle radiazioni  
+8. Misure con fasci pulsati  
+9. Metodi sperimentali speciali della fisica dei neutroni  
+10. Programmazione ed elaborazione dei dati  
+11. Dosimetria e problemi di sicurezza  
+12. Reattori nucleari  
+13. Tecniche e misure nucleari  
+14. Tecnologia nucleari  
+15. Controlli e servomeccanismi  
+16. Fisica delle radiazioni.  
+Il consiglio direttivo della scuola determinera' anno per anno quali di questi corsi dovranno essere seguiti dagli allievi in possesso delle varie lauree contemplate per l'ammissione alla scuola.  
+Il consiglio potra' d'altra parte includere nell'elenco altri insegnamenti che abbiano luogo presso la facolta' di scienze o di ingegneria come corsi regolari o cicli di conferenze, e presso la scuola di perfezionamento in fisica dell'Universita' di Padova.  
+Art. 301. - La scuola organizza inoltre un corso di "orientamento nucleare" della durata di un anno, per il quale rilascia un "certificato di frequenza e profitto" ai laureati in ingegneria, chimica, chimica industriale, fisica e matematica, che abbiano superato gli esami nelle materie stabilite anno per anno dal consiglio direttivo della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 ottobre 1972
+### Dato a Roma, addi' 2 maggio 1969
 
-LEONE SCALFARO
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 25 giugno 1973
+Registrato alla Corte dei conti, addi' 10 luglio 1969
 
-Atti di Governo, registro n. 258, foglio n. 130 - VALENTINI
+Atti del Governo registro n. 227, foglio n. 173. - CARUSO

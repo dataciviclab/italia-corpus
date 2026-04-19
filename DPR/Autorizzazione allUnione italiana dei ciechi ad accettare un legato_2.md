@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1962 n. 1938
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1961 n. 495
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1962 n. 1938
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1961 n. 495
+============================================================
 
 Autorizzazione all'Unione italiana dei ciechi ad accettare un legato.
 ---------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1938. Decreto del Presidente della Repubblica 26 dicembre 1962, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi viene autorizzata ad accettare un legato disposto dal defunto sig. Puccetti Mario, con testamento olografo dell'8 settembre 1959 depositato e pubblicato per atto a rogito notaio Raffaello Vannucchi, residente in Viareggio, in data 24 ottobre 1960, n. 12729 di repertorio e al n. 7011 di fascicolo consistente nella nuda proprieta' di una casa sita in Viareggio, piazza Viani n. 3.  
+495. Decreto del Presidente della Repubblica 31 marzo 1961, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi viene autorizzata ad accettare un legato disposto dalla defunta signora Maria Elisabetta Blume vedova Hohenschleyer - con testamento olografo del 30 maggio 1956, pubblicato per atto a rogito notaio dottor Giuseppe Nicolodi di Trento, in data 5 novembre 1958, numero di repertorio 48707/18281 racc. - a favore della Sezione tridentina della predetta Unione.  
   
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 29 gennaio 1963  
-Atti del Governo, registro n. 162, foglio n. 39. - VILLA
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 12 giugno 1961  
+Atti del Governo, registro n. 137, foglio n. 24. - VILLA

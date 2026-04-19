@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1974 n. 729
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 dicembre 1978 n. 990
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1974 n. 729
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 dicembre 1978 n. 990
 ===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-729. Decreto del Presidente della Repubblica 25 novembre 1974, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 50.000.000, disposto dalla sig.ra Gemma Fragni ved. Sichirollo con testamento pubblico in data 17 febbraio 1970, n. 12 di repertorio atti ultima volonta', a rogito notar Paolo Consolandi in Milano in data 13 luglio 1972 (n. 23038/8352 di repertorio) ed ivi registrato il 14 luglio 1972 al n. A/ 2-13534-71 M - serie F.  
+990. Decreto del Presidente della Repubblica 21 dicembre 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Zaffonato Maddalena, con testamento olografo 17 aprile 1963, pubblicato a rogito del dott. Giovanni Carraro, notaio in Schio in data 29 ottobre 1974, n. 4315 di repertorio e n. 12669 di raccolta, registrato a Schio l'11 novembre 1974 al n. 1702, volume 208/1, consistente nella somma di L. 2.000.000.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 16 gennaio 1975  
-Atti di Governo, registro n. 7, foglio n. 116
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 15 febbraio 1979  
+Registro n. 2 Presidenza, foglio n. 28

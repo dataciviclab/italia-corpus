@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 213
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 1020
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 213
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 1020
 ==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Pisa.
@@ -22,11 +22,11 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio universitario nazionale nel suo parere;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
-Sentito il parere del Consiglio universitario nazionale;
+Veduto il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
@@ -39,40 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 57, relativo al corso di laurea in lingue e letterature straniere, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-letteratura tedesca medievale;  
-letteratura austriaca;  
-lingua tedesca;  
-lingua francese;  
-lingua russa;  
-lingua portoghese;  
-lingua spagnola;  
-lingua e letteratura yiddish;  
-dialettologia tedesca;  
-didattica dell'italiano;  
-letteratura latina medievale;  
-filologia italiana;  
-letteratura del rinascimento;  
-metodologia dell'insediamento della lingua inglese;  
-storia della critica letteraria inglese;  
-storia della critica letteraria nord-americana;  
-dialettologia inglese;  
-storia dell'illuminismo francese;  
-linguistica teorica;  
-fonetica e fonologia.  
+Nell'art. 67, relativo al corso di laurea in storia, all'elenco degli insegnamenti complementari dell'indirizzo contemporaneo di cui alla lettera D) e' aggiunto il seguente nuovo insegnamento:  
+storia dell'Africa contemporanea.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 gennaio 1985
+### Dato a Roma, addi' 17 maggio 1983
 
-PERTINI
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 20 maggio 1985
+Registrato alla Corte dei conti, addi' 29 febbraio 1984
 
-Registro n. 33 Istruzione, foglio n. 74
+Registro n. 13 Istruzione, foglio n. 88

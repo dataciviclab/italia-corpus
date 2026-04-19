@@ -1,434 +1,170 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1142
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1971 n. 676
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1142
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1971 n. 676
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229) e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-L'art. 157 relativo alla "Scuola di specializzazione in medicina del lavoro" e' modificato nel senso che il numero complessivo degli iscritti e' aumentato a sessanta (60) per i tre anni di corso.
-
-Gli articoli da 172 a 176 relativi alla "Scuola di specializzazione in endocrinologia", sono abrogati e sostituiti dai seguenti:
-
-Scuola di specializzazione in endocrinologia
-
-Art. 172. - La scuola di specializzazione in endocrinologia ha la durata di 3 anni; essa ha sede presso l'Istituto di clinica medica.
-
-In ogni anno accademico possono essere ammessi al 1° corso n. 15 candidati, non e' consentita nessuna abbreviazione di corso.
-
-Gli aspiranti saranno ammessi alla scuola dopo il superamento di un esame preliminare che comprende una prova scritta ed una prova orale e che si svolgera' entro il mese di dicembre.
-
-Art. 173. - Gli iscritti alla scuola hanno l'obbligo di frequentare gli insegnamenti stabiliti secondo il programma del corso, nonche' l'istituto sede della scuola. Coloro che non ottempereranno all'obbligo di frequenza ai corsi di insegnamento ed al servizio di corsia e di laboratorio, non potranno ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.
-
-Art. 174. - Alla fine di ciascun anno accademico coloro i quali abbiano ottenuto la prescritta attestazione di frequenza, potranno sostenere gli esami di profitto, il cui superamento e' condizione necessaria per la iscrizione al corso successivo.
-
-Gli esami consistono in prove scritte (risposte ad un questionario di almeno 5 domande) ed in una prova orale su ciascuna delle materie d'insegnamento che sono oggetto di esame in ogni anno di corso.
-
-Al termine del 3° anno, per conseguire il diploma di specializzazione in endocrinologia, gli iscritti, oltre ad aver superato le prove di esame delle singole materie, dovranno presentare una dissertazione scritta su un argomento di ordine endocrinologico (clinico e sperimentale), che sara' stabilito in base agli accordi presi con il direttore della scuola.
-
-I candidati non riconosciuti idonei agli esami di ciascun corso o all'esame di diploma potranno sostenere le prove dopo un altro anno di frequenza.
-
-Art. 175. - Le materie saranno le seguenti:
-
-1° Anno:
-
-1) Anatomia ed embriologia degli organi endocrini;
-
-2) Fisiologia endocrina;
-
-3) Biochimica endocrina;
-
-4) Anatomia patologica delle malattie endocrine;
-
-5) Semeiotica e diagnostica endocrina.
-
-2° Anno:
-
-1) Anatomia patologica delle malattie endocrine;
-
-2) Semeiotica e diagnostica endocrina;
-
-3) Eredopatologia endocrina;
-
-4) Patologia speciale e clinica delle malattie endocrine e delle auxopatie.
-
-3° Anno:
-
-1) Patologia speciale e clinica delle malattie endocrine e delle auxopatie;
-
-2) Terapia delle malattie endocrine.
-
-Art. 176. - La scuola dovra' inserire un numero massimo di 3 insegnamenti facoltativi, dei quali almeno uno - a scelta del candidato - sara' materia di esame.
-
-Il programma sara' svolto in complessive 8 settimane per un totale di almeno 60 lezioni globali e sara' integrato da seminari, esercitazioni e conferenze.
-
-Il direttore della scuola potra' ripartire lo svolgimento del programma in due o piu' periodi tra il 15 gennaio e il 30 giugno.
-
-Dopo l'art. 216 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in "Neuropsichiatria infantile" e in "Chirurgia vascolare".
-
-Scuola di specializzazione in neuropsichiatria infantile
-
-Art. 217. - Durata del corso: anni 4.
-
-Il numero degli iscritti e' di quaranta (40).
-
-Ammissione per titoli ed esami.
-
-La frequenza alle lezioni e' obbligatoria.
-
-Internato obbligatorio di mesi sei in clinica pediatrica per gli studenti del primo anno; di mesi tre in neurologia e di mesi tre in psichiatria per gli studenti del secondo anno; di mesi sei per gli studenti del terzo anno e di mesi sei per gli studenti del quarto anno in neuropsichiatria infantile.
-
-Art. 218. - Per ottenere l'iscrizione al 2°, 3°, 4° anno di specializzazione gli iscritti dovranno aver sostenuto gli esami delle materie prescritte per l'anno precedente tranne che per la clinica psichiatrica infantile il cui esame va sostenuto al 4° anno.
-
-Gli specialisti in clinica delle malattie nervose e mentali o in neurologia o in psichiatria, sono iscritti di ufficio al 2° anno della scuola e sono esentati dal sostenere gli esami di profitto numero 1), 2), 5), 7) 8) e dall'espletare il periodo di internato in neurologia o psichiatria.
-
-Gli specialisti in clinica pediatrica sono iscritti d'ufficio al 2° anno della scuola e sono esentati dal sostenere gli esami di profitto n. 3) e n. 4), dall'espletare il periodo di internato del 1° anno.
-
-Art. 219. - Per conseguire il diploma di specialista in neuropsichiatria infantile gli iscritti, al termine degli esami, dovranno presentare o discutere una dissertazione scritta su un argomento di neuropsichiatria infantile.
-
-Art. 220. - Programma di insegnamento:
-
-1° Anno:
-
-1) Anatomia ed embriologia del sistema nervoso;
-
-2) Fisiologia del sistema nervoso con particolare riguardo alla eta' evolutiva;
-
-3) Genetica;
-
-4) Endocrinologia dell'eta' evolutiva ed auxologia;
-
-5) Patologia e clinica pediatrica;
-
-6) Tecniche di laboratorio;
-
-2° Anno:
-
-7) Anatomia patologica del sistema nervoso;
-
-8) Biochimica patologica del sistema nervoso;
-
-9) Psicologia dell'eta' evolutiva;
-
-10) Semeiotica e clinica neurologica;
-
-11) Semeiotica e clinica psichiatrica;
-
-3° Anno:
-
-12) Psicopatologia dell'eta' evolutiva;
-
-13) Semeiotica e clinica neurologica infantile;
-
-14) Psicodiagnostica dell'eta' evolutiva;
-
-15) Elettrofisiologia;
-
-16) Neuroradiologia;
-
-17) Neurochirurgia dell'eta' evolutiva;
-
-18) Semeiotica e clinica psichiatrica infantile (I);
-
-4° Anno:
-
-19) Clinica psichiatrica infantile (II);
-
-20) Terapia generale delle malattie mentali infantili;
-
-21) Psicoterapia dell'eta' evolutiva;
-
-22) Foniatria;
-
-23) Psicopedagogia;
-
-24) Sociologia applicata alla popolazione infantile;
-
-25) Legislazione.
-
-ESAMI:
-
-1° Anno:
-
-1) Embriologia o anatomia del sistema nervoso;
-
-2) Fisiologia del sistema nervoso;
-
-3) Genetica, endocrinologia e auxologia;
-
-4) Patologia e clinica pediatrica;
-
-2° Anno:
-
-5) Anatomia e biochimica patologica del sistema nervoso;
-
-6) Psicologia dell'eta' evolutiva;
-
-7) Semeiotica e clinica neurologica;
-
-8) Semeiotica e clinica psichiatrica;
-
-3° Anno:
-
-9) Semeiotica e clinica neurologica infantile;
-
-10) Psicopatologia dell'eta' evolutiva;
-
-11) Psicodiagnostica dell'eta' evolutiva;
-
-4° Anno:
-
-12) Semeiotica e clinica psichiatrica infantile;
-
-13) Psicopedagogia;
-
-14) Legislazione.
-
-Scuola di specializzazione in chirurgia vascolare
-
-Art. 221. - Alla facolta' di medica e chirurgia e' annessa la scuola di specializzazione in chirurgia vascolare.
-
-Alla scuola di specializzazione in chirurgia vascolare si applicano le norme generali stabilite per tutte le scuole di specializzazione dell'Universita' di Pavia.
-
-Art. 222. - La durata del corso degli studi per il conseguimento del diploma di specialista in chirurgia vascolare e' di tre anni.
-
-Possono ottenere l'iscrizione alla scuola i laureati in medicina e chirurgia. Il numero massimo degli iscritti e' di 5 per ogni anno di corso. Non sono consentite abbreviazioni di corso.
-
-Art. 223. - Gli insegnamenti impartiti nella scuola sono i seguenti:
-
-1° Anno:
-
-1) Embriologia, anatomia macro e microscopica dell'apparato vascolare;
-
-2) Fisiopatologia dell'apparato vascolare e della coagulazione sanguigna;
-
-3) Anatomia patologica dell'apparato vascolare;
-
-4) Semeiologia fisica e strumentale delle malattie vascolari;
-
-5) Semeiologia radiologica delle malattie vascolari;
-
-6) Vasculopatie di interesse medico e specialistico.
-
-2° Anno:
-
-1) Patologia e clinica del sistema arterioso;
-
-2) Patologia e clinica delle malattie del sistema venoso;
-
-3) Patologia e clinica delle malattie del sistema linfatico;
-
-4) Patologia e clinica delle malattie dei piccoli vasi.
-
-3° Anno:
-
-1) Nozioni di terapia medica delle malattie vascolari;
-
-2) Terapia chirurgica delle malattie vascolari;
-
-3) Chirurgia vascolare applicata a malattie dei vari organi.
-
-Art. 224. - Le lezioni saranno integrate da esercitazioni pratiche.
-
-E' necessaria per l'ammissione agli esami la frequenza alle lezioni ed alle esercitazioni.
-
-Il superamento degli esami di ogni anno e' condizione indispensabile per la iscrizione dell'anno successivo.
-
-Alla fine del corso i candidati all'esame di diploma dovranno presentare una dissertazione scritta su un argomento di patologia vascolare, da discutere in sede di diploma e dovranno sostenere una prova clinica.
-
-L'art. 244 relativo alla scuola per tecnici di istituti medico-biologici (scuola diretta a fini speciali) e' modificato nel senso che il numero complessivo degli iscritti e' aumentato a venticinque (25).
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1972
-
-LEONE
-
-SCALFARO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 11 aprile 1973 Atti di Governo, registro n. 257, foglio n. 80. - VALENTINI
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229) e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Riconosciuta la particolare necessita' di approvare le modifiche proposte;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
 Sulla proposta del Ministro per la pubblica istruzione;   
   
 Decreta:   
   
-Lo statuto dell'universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che gli articoli 88, 89, 90, 91 e 92, relativi alla scuola di specializzazione in chirurgia sono abrogati e sostituiti dai seguenti:   
   
-L'art. 157 relativo alla "Scuola di specializzazione in medicina del lavoro" e' modificato nel senso che il numero complessivo degli iscritti e' aumentato a sessanta (60) per i tre anni di corso.   
-Gli articoli da 172 a 176 relativi alla "Scuola di specializzazione in endocrinologia", sono abrogati e sostituiti dai seguenti:   
+Scuola di specializzazione in chirurgia   
   
-Scuola di specializzazione in endocrinologia   
-  
-Art. 172. - La scuola di specializzazione in endocrinologia ha la durata di 3 anni; essa ha sede presso l'Istituto di clinica medica.   
-In ogni anno accademico possono essere ammessi al 1° corso n. 15 candidati, non e' consentita nessuna abbreviazione di corso.   
-Gli aspiranti saranno ammessi alla scuola dopo il superamento di un esame preliminare che comprende una prova scritta ed una prova orale e che si svolgera' entro il mese di dicembre.   
-Art. 173. - Gli iscritti alla scuola hanno l'obbligo di frequentare gli insegnamenti stabiliti secondo il programma del corso, nonche' l'istituto sede della scuola. Coloro che non ottempereranno all'obbligo di frequenza ai corsi di insegnamento ed al servizio di corsia e di laboratorio, non potranno ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.   
-Art. 174. - Alla fine di ciascun anno accademico coloro i quali abbiano ottenuto la prescritta attestazione di frequenza, potranno sostenere gli esami di profitto, il cui superamento e' condizione necessaria per la iscrizione al corso successivo.   
-Gli esami consistono in prove scritte (risposte ad un questionario di almeno 5 domande) ed in una prova orale su ciascuna delle materie d'insegnamento che sono oggetto di esame in ogni anno di corso.   
-Al termine del 3° anno, per conseguire il diploma di specializzazione in endocrinologia, gli iscritti, oltre ad aver superato le prove di esame delle singole materie, dovranno presentare una dissertazione scritta su un argomento di ordine endocrinologico (clinico e sperimentale), che sara' stabilito in base agli accordi presi con il direttore della scuola.   
-I candidati non riconosciuti idonei agli esami di ciascun corso o all'esame di diploma potranno sostenere le prove dopo un altro anno di frequenza.   
-Art. 175. - Le materie saranno le seguenti:   
+Art. 88. - La scuola di specializzazione in chirurgia conferisce il diploma di specializzazione in chirurgia. Gli anni necessari per il conseguimento del diploma sono cinque.   
+Art. 89. - Le materie del corso sono le seguenti:   
+1) Anatomia chirurgica e corso d'operazioni (triennale);   
+2) Anatomia ed istologia patologica (biennale);   
+3) Anestesia e rianimazione;   
+4) Chirurgia cardiovascolare;   
+5) Chirurgia d'urgenza;   
+6) Chirurgia ginecologica;   
+7) Chirurgia pediatrica;   
+8) Chirurgia riparativa e plastica;   
+9) Chirurgia sperimentale;   
+10) Chirurgia toracica;   
+11) Chirurgia urologica;   
+12) Clinica chirurgica generale (quinquennale);   
+13) Fisiopatologia chirurgica;   
+14) Medicina legale;   
+15) Neurochirurgia;   
+16) Patologia speciale chirurgica (triennale);   
+17) Radiologia;   
+18) Ricerche di laboratorio;   
+19) Semeiotica chirurgica;   
+20) Semeiotica strumentale ed endoscopica;   
+21) Trattamento pre e post-operatorio;   
+22) Traumatologia ed ortopedia.   
+Le materie sopraelencate sono cosi' distribuite:   
 1° Anno:   
-1) Anatomia ed embriologia degli organi endocrini;   
-2) Fisiologia endocrina;   
-3) Biochimica endocrina;   
-4) Anatomia patologica delle malattie endocrine;   
-5) Semeiotica e diagnostica endocrina.   
+1) Clinica chirurgica generale;   
+2) Patologia speciale chirurgica;   
+3) Semeiotica chirurgica;   
+4) Anatomia chirurgica e corso d'operazioni;   
+5) Chirurgia sperimentale;   
+6) Anestesia e rianimazione;   
+7) Ricerche di laboratorio.   
 2° Anno:   
-1) Anatomia patologica delle malattie endocrine;   
-2) Semeiotica e diagnostica endocrina;   
-3) Eredopatologia endocrina;   
-4) Patologia speciale e clinica delle malattie endocrine e delle auxopatie.   
+1) Clinica chirurgica generale;   
+2) Patologia speciale chirurgica;   
+3) Semeiotica chirurgica;   
+4) Anatomia chirurgica e corso d'operazioni;   
+5) Fisiopatologia chirurgica;   
+6) Trattamento pre e post-operatorio;   
+7) Anatomia ed istologia patologica.   
 3° Anno:   
-1) Patologia speciale e clinica delle malattie endocrine e delle auxopatie;   
-2) Terapia delle malattie endocrine.   
-Art. 176. - La scuola dovra' inserire un numero massimo di 3 insegnamenti facoltativi, dei quali almeno uno - a scelta del candidato - sara' materia di esame.   
-Il programma sara' svolto in complessive 8 settimane per un totale di almeno 60 lezioni globali e sara' integrato da seminari, esercitazioni e conferenze.   
-Il direttore della scuola potra' ripartire lo svolgimento del programma in due o piu' periodi tra il 15 gennaio e il 30 giugno.   
-Dopo l'art. 216 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in "Neuropsichiatria infantile" e in "Chirurgia vascolare".   
-  
-Scuola di specializzazione in neuropsichiatria infantile   
-  
-Art. 217. - Durata del corso: anni 4.   
-Il numero degli iscritti e' di quaranta (40).   
-Ammissione per titoli ed esami.   
-La frequenza alle lezioni e' obbligatoria.   
-Internato obbligatorio di mesi sei in clinica pediatrica per gli studenti del primo anno; di mesi tre in neurologia e di mesi tre in psichiatria per gli studenti del secondo anno; di mesi sei per gli studenti del terzo anno e di mesi sei per gli studenti del quarto anno in neuropsichiatria infantile.   
-Art. 218. - Per ottenere l'iscrizione al 2°, 3°, 4° anno di specializzazione gli iscritti dovranno aver sostenuto gli esami delle materie prescritte per l'anno precedente tranne che per la clinica psichiatrica infantile il cui esame va sostenuto al 4° anno.   
-Gli specialisti in clinica delle malattie nervose e mentali o in neurologia o in psichiatria, sono iscritti di ufficio al 2° anno della scuola e sono esentati dal sostenere gli esami di profitto numero 1), 2), 5), 7) 8) e dall'espletare il periodo di internato in neurologia o psichiatria.   
-Gli specialisti in clinica pediatrica sono iscritti d'ufficio al 2° anno della scuola e sono esentati dal sostenere gli esami di profitto n. 3) e n. 4), dall'espletare il periodo di internato del 1° anno.   
-Art. 219. - Per conseguire il diploma di specialista in neuropsichiatria infantile gli iscritti, al termine degli esami, dovranno presentare o discutere una dissertazione scritta su un argomento di neuropsichiatria infantile.   
-Art. 220. - Programma di insegnamento:   
-1° Anno:   
-1) Anatomia ed embriologia del sistema nervoso;   
-2) Fisiologia del sistema nervoso con particolare riguardo alla eta' evolutiva;   
-3) Genetica;   
-4) Endocrinologia dell'eta' evolutiva ed auxologia;   
-5) Patologia e clinica pediatrica;   
-6) Tecniche di laboratorio;   
-2° Anno:   
-7) Anatomia patologica del sistema nervoso;   
-8) Biochimica patologica del sistema nervoso;   
-9) Psicologia dell'eta' evolutiva;   
-10) Semeiotica e clinica neurologica;   
-11) Semeiotica e clinica psichiatrica;   
-3° Anno:   
-12) Psicopatologia dell'eta' evolutiva;   
-13) Semeiotica e clinica neurologica infantile;   
-14) Psicodiagnostica dell'eta' evolutiva;   
-15) Elettrofisiologia;   
-16) Neuroradiologia;   
-17) Neurochirurgia dell'eta' evolutiva;   
-18) Semeiotica e clinica psichiatrica infantile (I);   
+1) Clinica chirurgica generale;   
+2) Patologia speciale chirurgica;   
+3) Semeiotica strumentale ed endoscopica;   
+4) Anatomia chirurgica e corso di operazioni;   
+5) Radiologia;   
+6) Anatomia ed istologia patologica.   
 4° Anno:   
-19) Clinica psichiatrica infantile (II);   
-20) Terapia generale delle malattie mentali infantili;   
-21) Psicoterapia dell'eta' evolutiva;   
-22) Foniatria;   
-23) Psicopedagogia;   
-24) Sociologia applicata alla popolazione infantile;   
-25) Legislazione.   
-  
-ESAMI:   
+1) Clinica chirurgica generale;   
+2) Chirurgia ginecologica;   
+3) Chirurgia urologica;   
+4) Neurochirurgia;   
+5) Traumatologia e ortopedia;   
+6) Chirurgia pediatrica.   
+5° Anno:   
+1) Clinica chirurgica generale;   
+2) Chirurgia toracica;   
+3) Chirurgia cardiovascolare;   
+4) Chirurgia riparativa e plastica;   
+5) Chirurgia d'urgenza;   
+6) Medicina legale.   
+Art. 90. - I corsi dovranno essere corredati da esercitazioni pratiche obbligatorie. Alla scuola sono ammessi i laureati in medicina e chirurgia per un numero complessivo di settantacinque iscritti. La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base di titoli ed esami. Non sono consentite iscrizioni con abbreviazioni di corso. La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.  
+L'internato e' obbligatorio durante tutti i cinque anni di corso e si svolgera' presso la clinica chirurgica sotto forma di permanenza costante nella detta clinica durante le ore della sua attivita', con presenza giornaliera agli ambulatori ed ai reparti di degenza.  
+Dall'obbligo di tale internato saranno esentati quegli allievi che, in qualita' di assistenti e di aiuti, prestino effettivamente servizio presso reparti di chirurgia generale delle universita' e di ospedali di 1ª e 2ª categoria. Gli allievi hanno doveri ed attribuzioni analoghe a quelli degli assistenti.   
+La frequenza nelle sale operatorie che e' obbligatoria iniziera' fin dal primo anno di corso, e dopo un periodo di tirocinio, dovra' trasformarsi in compartecipazione attiva degli interventi operatori.  
+Per i corsi che non siano della clinica chirurgica generale, possono essere stabiliti, su parere del direttore della scuola, periodi di continuativa frequenza presso i relativi reparti specialistici, qualora esistano quali reparti indipendenti.   
+Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.   
+Art. 91. - L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali che sono i seguenti:   
 1° Anno:   
-1) Embriologia o anatomia del sistema nervoso;   
-2) Fisiologia del sistema nervoso;   
-3) Genetica, endocrinologia e auxologia;   
-4) Patologia e clinica pediatrica;   
+Anestesia e rianimazione;   
+Ricerche di laboratorio;   
+Chirurgia sperimentale.   
 2° Anno:   
-5) Anatomia e biochimica patologica del sistema nervoso;   
-6) Psicologia dell'eta' evolutiva;   
-7) Semeiotica e clinica neurologica;   
-8) Semeiotica e clinica psichiatrica;   
+Fisiopatologia chirurgica;   
+Trattamento pre e post-operatorio;   
+Semeiotica chirurgica.   
 3° Anno:   
-9) Semeiotica e clinica neurologica infantile;   
-10) Psicopatologia dell'eta' evolutiva;   
-11) Psicodiagnostica dell'eta' evolutiva;   
+Patologia speciale chirurgica;   
+Semeiotica strumentale ed endoscopica;   
+Anatomia chirurgica e corso di operazioni;   
+Radiologia;   
+Anatomia ed istologia patologica.   
 4° Anno:   
-12) Semeiotica e clinica psichiatrica infantile;   
-13) Psicopedagogia;   
-14) Legislazione.   
+Chirurgia ginecologica;   
+Chirurgia urologica;   
+Traumatologia e ortopedia;   
+Chirurgia pediatrica.   
+5° Anno:   
+Clinica chirurgica generale;   
+Chirurgia toracica;   
+Chirurgia cardiovascolare;   
+Chirurgia d'urgenza;   
+Chirurgia plastica e riparativa;   
+Medicina legale.   
+Art. 92. - Alla fine del corso l'allievo, dovra' sostenere un esame generale di profitto e l'esame di diploma. Questo consistera' nella stesura di una tesi scritta svolta su argomento concordato col direttore della scuola che verra' discussa e in una prova pratica su un caso clinico.   
+Dopo l'art. 216 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in microbiologia.   
   
-Scuola di specializzazione in chirurgia vascolare   
+Scuola di specializzazione in microbiologia   
   
-Art. 221. - Alla facolta' di medica e chirurgia e' annessa la scuola di specializzazione in chirurgia vascolare.   
-Alla scuola di specializzazione in chirurgia vascolare si applicano le norme generali stabilite per tutte le scuole di specializzazione dell'Universita' di Pavia.   
-Art. 222. - La durata del corso degli studi per il conseguimento del diploma di specialista in chirurgia vascolare e' di tre anni.   
-Possono ottenere l'iscrizione alla scuola i laureati in medicina e chirurgia. Il numero massimo degli iscritti e' di 5 per ogni anno di corso. Non sono consentite abbreviazioni di corso.   
-Art. 223. - Gli insegnamenti impartiti nella scuola sono i seguenti:   
+Art. 217. - La scuola di specializzazione in microbiologia ha lo scopo di allargare e completare sul piano scientifico la cultura di coloro che si dedicano a questa disciplina e di fornire sul piano tecnico una preparazione pratica specifica.   
+Possono esservi ammessi i laureati in medicina e chirurgia, in medicina veterinaria, in scienze biologiche.   
+Il corso ha la durata di tre anni e si svolge presso l'istituto di microbiologia della facolta' di medicina e chirurgia.   
+Gli iscritti a ciascun anno non potranno superare il numero di 10.  
+Nel caso che le domande fossero in numero maggiore, verra' effettuata una selezione mediante una graduatoria formulata sulla base della valutazione dei titoli e del risultato di prove d'esame. Potranno essere ammesse abbreviazioni del corso di un anno per coloro che fossero in possesso del diploma di specialista in igiene o di medico laboratorista.   
+La direzione della scuola e' affidata al titolare della cattedra di microbiologia.   
+Art. 218. - Le materie d'insegnamento sono le seguenti:   
 1° Anno:   
-1) Embriologia, anatomia macro e microscopica dell'apparato vascolare;   
-2) Fisiopatologia dell'apparato vascolare e della coagulazione sanguigna;   
-3) Anatomia patologica dell'apparato vascolare;   
-4) Semeiologia fisica e strumentale delle malattie vascolari;   
-5) Semeiologia radiologica delle malattie vascolari;   
-6) Vasculopatie di interesse medico e specialistico.   
+Chimica microbiologica;   
+Batteriologia generale e tecnica batteriologica;   
+Analisi statistica del dosaggio biologico;   
+Genetica dei microorganismi;   
+Metodi e dosaggi microbiologici.   
 2° Anno:   
-1) Patologia e clinica del sistema arterioso;   
-2) Patologia e clinica delle malattie del sistema venoso;   
-3) Patologia e clinica delle malattie del sistema linfatico;   
-4) Patologia e clinica delle malattie dei piccoli vasi.   
+Immunologia;   
+Batteriologia speciale;   
+Protozoologia;   
+Virologia generale e tecnica virologica.   
 3° Anno:   
-1) Nozioni di terapia medica delle malattie vascolari;   
-2) Terapia chirurgica delle malattie vascolari;   
-3) Chirurgia vascolare applicata a malattie dei vari organi.   
-Art. 224. - Le lezioni saranno integrate da esercitazioni pratiche.  
-E' necessaria per l'ammissione agli esami la frequenza alle lezioni ed alle esercitazioni.   
-Il superamento degli esami di ogni anno e' condizione indispensabile per la iscrizione dell'anno successivo.   
-Alla fine del corso i candidati all'esame di diploma dovranno presentare una dissertazione scritta su un argomento di patologia vascolare, da discutere in sede di diploma e dovranno sostenere una prova clinica.   
-L'art. 244 relativo alla scuola per tecnici di istituti medico-biologici (scuola diretta a fini speciali) e' modificato nel senso che il numero complessivo degli iscritti e' aumentato a venticinque (25).   
+Virologia speciale;   
+Microbiologia degli alimenti;   
+Microbiologia industriale;   
+Micologia.   
+Art. 219. - Gli iscritti hanno l'obbligo della frequenza alle lezioni ed alle esercitazioni degli insegnamenti ufficiali della scuola. Il direttore puo' stabilire che, per un piu' proficuo conseguimento dei fini della scuola siano tenuti corsi di conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola.   
+Gli iscritti devono superare tutti gli esami delle materie del primo anno per essere ammessi al secondo e tutti quelli delle materie del secondo per essere ammessi al terzo.   
+L'esame di diploma consistera' nella stesura e discussione di una tesi scritta su tema concordato col direttore della scuola e di una prova pratica.   
+I candidati non riconosciuti idonei potranno ripresentarsi dopo un altro anno di frequenza della scuola. Se anche al secondo esame non fosse loro riconosciuti l'idoneita', saranno senz'altro esclusi da ulteriori prove.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 19 maggio 1971
 
-LEONE SCALFARO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 11 aprile 1973
+Registrato alla Corte dei conti, addi' 21 agosto 1971
 
-Atti di Governo, registro n. 257, foglio n. 80. - VALENTINI
+Atti del Governo, registro n. 243, foglio n. 165. - PASQUALUCCI

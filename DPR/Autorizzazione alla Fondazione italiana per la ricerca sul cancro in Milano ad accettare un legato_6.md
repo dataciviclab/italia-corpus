@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1030
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 587
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1030
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 587
+=============================================================
 
 Autorizzazione alla Fondazione italiana per la ricerca sul cancro, in Milano, ad accettare un legato.
 -----------------------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione alla Fondazione italiana per la ricerca sul cancro, in Milano, ad
 Art. 1
 ------
 
-n.
+N.
 
-1030. Decreto del Presidente della Repubblica 31 dicembre 1985, col quale, sulla proposta del Ministro della sanita', la Fondazione italiana per la ricerca sul cancro, in Milano, viene autorizzata ad accettare il legato, consistente in una somma in contanti di L. 10.000.000, disposto dalla sig.ra Ilde Bonora con testamento olografo 20 maggio 1982, pubblicato in data 13 aprile 1983, n. 18432 di repertorio, a rogito dott. Tonino Cabrini, notaio in Guastalla, registrato a Guastalla (Reggio Emilia) in data 3 maggio 1983 al n. 720.  
+587. Decreto del Presidente della Repubblica 28 giugno 1986, col quale, sulla proposta del Ministro della sanita', la Fondazione italiana per la ricerca sul cancro, in Milano, viene autorizzata ad accettare il legato, consistente nella somma di L. 30.000.000, disposto dal sig. Bruno Casotti con testamento olografo 15 maggio 1980, pubblicato in data 21 ottobre 1983, n. 19089 di repertorio, a rogito dott. Sandro Angelini, notaio in Brescia, registrato a Brescia in data 9 novembre 1983 al n. 7273.   
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 9 aprile 1986  
-Registro n. 4 Sanita', foglio n. 2
+Visto, il Guardasigilli: ROGNONI   
+Registrato alla Corte dei conti, addi' 18 settembre 1986   
+Registro n. 9 Sanita', foglio n. 153

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1973 n. 77
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 1026
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1973 n. 77
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 1026
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
@@ -12,11 +12,10 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, numero 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -26,90 +25,44 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 53, relativo all'elenco degli insegnamenti fondamentali del corso di laurea in lettere e' modificato nel senso che l'insegnamento di "Storia greca e storia romana (con esercitazioni di epigrafia romana)" viene scisso nei seguenti insegnamenti:  
+Dopo l'art. 240 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di perfezionamento in chimica biologica annessa alla facolta' di scienze matematiche, fisiche e naturali.  
   
-Storia greca;  
-Storia romana (con esercitazioni di epigrafia romana).  
+Scuola di perfezionamento in chimica biologica  
   
-Art. 60. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
-  
-Tisiologia e malattie dell'apparato respiratorio;  
-Fisiopatologia clinica;  
-Analisi chimico-cliniche.  
-  
-Art. 68. - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti quelli di:  
-  
-Conservazione della natura;  
-Biologia marina;  
-Chimica agraria;  
-Biometria;  
-Geologia stratigrafica;  
-Sedimentologia;  
-Micropaleontologia;  
-Vulcanologia;  
-Oceanografia;  
-Pedologia;  
-Paleobotanica.  
-  
-Nello stesso elenco l'insegnamento complementare di "Fisica terrestre e climatologia" muta la denominazione in quella di "Fisica terrestre".  
-Nello stesso articolo, dopo l'elenco degli insegnamenti complementari, il secondo comma e' abrogato e sostituito dal seguente:  
-"E' inoltre obbligatoria la frequenza (internato) per un biennio in un laboratorio e per un anno in un altro laboratorio, per la preparazione rispettivamente della dissertazione di laurea e di una sottotesi. La dissertazione di laurea e la sottotesi debbono essere una di argomento biologico e l'altra di argomento geomineralogico".  
-  
-Art. 69. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti quelli di:  
-  
-Conservazione della natura;  
-Biologia marina;  
-Citogenetica;  
-Biochimica industriale;  
-Biometria;  
-Immunologia;  
-Virologia.  
-  
-Nello stesso articolo, dopo l'elenco degli insegnamenti complementari, il terzo comma e' abrogato e sostituito dal seguente: "E' inoltre obbligatoria la frequenza (internato) per un biennio al laboratorio scelto per la dissertazione di laurea e per un anno ad un laboratorio diverso da quello scelto per la dissertazione stessa".  
-  
-Art. 70. - All'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti quelli di:  
-  
-Rilevamento geologico;  
-Geotecnica;  
-Paleobotanica;  
-Paleontologia umana;  
-Mineralogia sistematica;  
-Geologia strutturale;  
-Geofisica applicata;  
-Geologia degli idrocarburi;  
-Geologia nucleare;  
-Geologia regionale;  
-Vulcanologia;  
-Oceanografia;  
-Idrogeologia;  
-Geopedologia;  
-Cristallochimica;  
-Petrografia sedimentaria;  
-Statistica.  
-  
-Nello stesso articolo, dopo l'elenco degli insegnamenti complementari il settimo comma e' modificato nel senso che l'ultima parola in parentesi (biennale) e' abrogata e sostituita dall'ordinale I.  
-Nello stesso articolo l'ottavo comma e' abrogato e sostituito dal seguente:  
-"E' obbligatoria nel secondo biennio la frequenza (internato) per due anni nell'istituto di geologia o di paleontologia o di mineralogia e petrografia per la preparazione di una dissertazione (tesi) sperimentale di laurea".  
-  
-Art. 73, relativo alle norme generali e particolari a ciascun corso di studi e' modificato come segue:  
-Per il corso di laurea in scienze naturali il punto 3) e' abrogato e sostituito dal seguente:  
-3) Discussione della sottotesi.  
-Per il corso di laurea in scienze biologiche il punto 3) e' abrogato e sostituito dal seguente:  
-3) Discussione di un argomento orale o scritto, preferibilmente nella materia scelta per l'internato annuale.  
-  
-Per il corso di laurea in scienze geologiche i punti 1) e 2) sono abrogati e sostituiti dal seguente:  
-Discussione della dissertazione sperimentale scritta.  
+Art. 241. - La scuola di perfezionamento in chimica biologica, istituita presso la facolta' di scienze matematiche, fisiche e naturali ha lo scopo di fornire ai giovani laureati la preparazione necessaria per compiere ricerche biochimiche in laboratori universitari, industriali, ospedalieri e rilascia il "diploma di perfezionamento in chimica biologica".  
+Il corso di studi ha la durata di tre anni. La facolta', udito il consiglio direttivo della scuola, puo' concedere un abbreviamento di corso a quegli iscritti che si presentino gia' forniti di appropriati titoli.  
+Art. 242. - Il direttore della scuola e' scelto tra i professori ordinari, straordinari o aggregati della facolta' di scienze matematiche, fisiche e naturali della Universita' di Pavia o, in mancanza di questi, tra i professori ordinari, straordinari o aggregati di chimica biologica di altre facolta' della stessa universita'. In mancanza dei docenti suddetti, il direttore e' scelto tra i professori ordinari o straordinari o aggregati di materia affine della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Pavia. II funzionamento della scuola e' affidato ad un consiglio, direttivo formato dal direttore e da due altri membri nominati ogni triennio dalla facolta'. I professori incaricati di svolgere i corsi verranno scelti in conformita' alle norme vigenti.  
+Art. 243. - Alla scuola di perfezionamento, sono ammessi i laureati in chimica, scienze biologiche, scienze naturali, medicina e chirurgia, farmacia, chimica e tecnologia farmaceutiche, scienze delle preparazioni alimentari, scienze agrarie, medicina veterinaria, scienza della produzione animale.  
+Art. 244. - Gli insegnamenti impartiti dalla scuola nei tre anni sono i seguenti:  
+1) Biochimica generale;  
+2) Biochimica cellulare;  
+3) Biochimica dei tessuti;  
+4) Enzimologia generale e applicata;  
+5) Biopolimeri;  
+6) Biochimica degli ormoni;  
+7) Biochimica patologica e metodi biochimici di diagnosi;  
+8) Immunobiochimica;  
+9) Biochimica dei farmaci.  
+In aggiunta a questi corsi verranno inoltre svolti i seguenti seminari:  
+10) Seminario di chimica biologica;  
+11) Seminario di biochimica industriale.  
+Alla fine di ogni anno gli iscritti dovranno sostenere un esame vertente sugli insegnamenti impartiti dalla scuola in quell'anno, di fronte ad una commissione formata dai professori incaricati dei corsi e presieduta dal direttore della scuola.  
+Per ottenere il diploma di perfezionamento i candidati, dopo aver sostenuto i suddetti esami e i colloqui previsti all'articolo successivo, dovranno anche discutere una dissertazione scritta di carattere sperimentale, originale, preparata durante il periodo di perfezionamento. La discussione verra' sostenuta davanti ad una commissione di cinque membri, tra i quali un relatore ed un correlatore, nominati dal consiglio direttivo. Il correlatore sara' un professore competente nel soggetto particolare della dissertazione, anche non appartenente all'Universita' di Pavia, italiano o straniero, al quale verra' inviata la dissertazione almeno 30 giorni prima della discussione.  
+Art. 245. - In aggiunta agli insegnamenti previsti all'articolo precedente, gli iscritti alla scuola dovranno seguire alcuni (2 per anno) corsi universitari e sostenere un colloquio alla fine di ogni corso, per colmare le lacune derivate dal tipo di laurea conseguito.  
+Gli insegnamenti da seguire verranno suggeriti dal consiglio direttivo della scuola ad ogni iscritto, tenendo conto del suo curriculum e dei suoi interessi scientifici, e verranno scelti tra i seguenti insegnamenti:  
+1) Istologia ed embriologia, 2) Anatomia umana, 3) Anatomia comparata, 4) Fisiologia generale, 5) Fisiologia vegetale, 6) Biologia generale, 7) Genetica, 8) Biologia molecolare, 9) Microbiologia, 10) Patologia generale, 11) Farmacologia, 12) Istituzioni di matematiche, 13) Statistica, 14) Chimica organica, 15) Chimica fisica, 16) Esercitazioni di chimica organica e analisi organica, 17) Chimica delle sostanze organiche naturali, 18) Radiochimica, 19) Chimica analitica strumentale, 20) Chimica farmaceutica, 21) Patologia speciale medica e metodologia clinica ed altri eventuali a giudizio del consiglio direttivo.  
+Art. 246. - Gli iscritti alla scuola sono tenuti a pagare le medesime tasse, sopratasse, e contributi generali stabiliti dalle vigenti disposizioni, di legge per gli studenti della facolta' ed una tassa, per la preparazione della dissertazione scritta a carattere sperimentale, tassa che verra' stabilita dal consiglio di amministrazione dell'Universita' di Pavia su proposta della facolta'.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 febbraio 1973
+### Dato a Roma, addi' 4 agosto 1971
 
-LEONE SCALFARO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 3 aprile 1973
+Registrato alla Corte dei conti, addi' 2 dicembre 1971
 
-Atti di Governo, registro n. 257, foglio n. 40. - VALENTINI
+Atti del Governo, registro n. 245, foglio n. 111. - CARUSO

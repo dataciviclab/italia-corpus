@@ -1,103 +1,43 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1976 n. 1009
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 maggio 1972 n. 361
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1976 n. 1009
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 maggio 1972 n. 361
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' degli studi di Bari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:
-
-L'art. 19, relativo all'elenco degli insegnamenti complementari del corso di laurea in economia e commercio, e' modificato nel senso che l'insegnamento di contabilita' di Stato muta la denominazione in quella di ragioneria pubblica e contabilita' di Stato;
-
-L'art. 57, relativo all'elenco degli istituti annessi alla facolta' di medicina e chirurgia, e' modificato nel senso che gli istituti di clinica ostetrica e ginecologica e di patologia ostetrica e ginecologica mutano rispettivamente la denominazione in quella di clinica ostetrica e ginecologica I e di clinica ostetrica e ginecologica II.
-
-Dopo l'art. 126, e con lo spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo alle norme sul tirocinio pratico per il corso di laurea in medicina veterinaria:
-
-Art. 127. - Gli insegnamenti di clinica medica, di clinica chirurgica, di clinica ostetrica, di ispezione e controllo delle derrate alimentari e delle materie a carattere zootecnico (zootecnia I, zootecnia II e alimentazione e nutrizione animale) debbono essere completati da un tirocinio pratico, della durata complessiva di almeno sei mesi, da compiersi presso istituti della facolta' di medicina veterinaria o presso istituti zooprofilattici sperimentali o presso civili macelli o altri enti od uffici pubblici riconosciuti idonei dalla facolta'.
-
-Il tirocinio pratico deve essere iniziato dopo la chiusura dei corsi di insegnamento del quinto anno indipendentemente dall'esame di laurea e deve essere completato prima che il laureato si presenti a sostenere l'esame di abilitazione all'esercizio professionale.
-
-Art. 128. - All'elenco degli istituti annessi alla facolta' di medicina veterinaria e' aggiunto il seguente:
-
-istituto di clinica chirurgica.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 28 ottobre 1976
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 19 febbraio 1977 Registro n. 18 Istruzione, foglio n. 67
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' degli studi di Bari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:   
-  
-L'art. 19, relativo all'elenco degli insegnamenti complementari del corso di laurea in economia e commercio, e' modificato nel senso che l'insegnamento di contabilita' di Stato muta la denominazione in quella di ragioneria pubblica e contabilita' di Stato;   
-L'art. 57, relativo all'elenco degli istituti annessi alla facolta' di medicina e chirurgia, e' modificato nel senso che gli istituti di clinica ostetrica e ginecologica e di patologia ostetrica e ginecologica mutano rispettivamente la denominazione in quella di clinica ostetrica e ginecologica I e di clinica ostetrica e ginecologica II.   
-Dopo l'art. 126, e con lo spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo alle norme sul tirocinio pratico per il corso di laurea in medicina veterinaria:   
-Art. 127. - Gli insegnamenti di clinica medica, di clinica chirurgica, di clinica ostetrica, di ispezione e controllo delle derrate alimentari e delle materie a carattere zootecnico (zootecnia I, zootecnia II e alimentazione e nutrizione animale) debbono essere completati da un tirocinio pratico, della durata complessiva di almeno sei mesi, da compiersi presso istituti della facolta' di medicina veterinaria o presso istituti zooprofilattici sperimentali o presso civili macelli o altri enti od uffici pubblici riconosciuti idonei dalla facolta'.   
-Il tirocinio pratico deve essere iniziato dopo la chiusura dei corsi di insegnamento del quinto anno indipendentemente dall'esame di laurea e deve essere completato prima che il laureato si presenti a sostenere l'esame di abilitazione all'esercizio professionale.   
-Art. 128. - All'elenco degli istituti annessi alla facolta' di medicina veterinaria e' aggiunto il seguente:   
-istituto di clinica chirurgica.   
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 30: all'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di "Lingua e letteratura serbo-croata" e "Slavistica".  
+Art. 57: all'elenco degli istituti annessi alla facolta' di magistero e' aggiunto quello di "Scienze storico-politiche".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1976
+### Dato a Roma, addi' 16 maggio 1972
 
-LEONE MALFATTI
+LEONE MISASI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 19 febbraio 1977
+Registrato alla Corte dei conti, addi' 25 luglio 1972
 
-Registro n. 18 Istruzione, foglio n. 67
+Atti del Governo, registro n. 250, foglio n. 63. - CARUSO

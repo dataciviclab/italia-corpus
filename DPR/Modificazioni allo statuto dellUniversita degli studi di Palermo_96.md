@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 aprile 1967 n. 251
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 aprile 1982 n. 622
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 aprile 1967 n. 251
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 aprile 1982 n. 622
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240) e successive modificazioni;
+Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,83 +20,93 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 10. - All'elenco degli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di: "Organizzazione internazionale".
-
-Art. 74. - All'elenco degli insegnamenti complementari del corso di laurea in Architettura e' aggiunto quello di: "Pianificazione territoriale urbanistica".
-
-Art. 57. - Nel gruppo di materie a scelta dello studente del corso di laurea in Ingegneria meccanica l'indirizzo navale muta denominazione con quello di: "Indirizzo impianti navali".
-
-Nello stesso corso di laurea ai gruppi di materie a scelta viene aggiunto il seguente:
-
-Indirizzo di tecniche navali:
-
-20) Architettura navale;
-
-21) Costruzione della nave.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 1 aprile 1967
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 29 aprile 1967 Atti del Governo, registro n. 210, foglio n. 151. - GRECO
+Lo statuto dell'Universita' di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Nell'art. 112, relativo al corso di laurea in materie letterarie, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+epigrafia latina;  
+didattica del latino;  
+storia della lingua latina;  
+filologia latina;  
+letteratura latina cristiana;  
+letteratura latina medievale;  
+storia economica;  
+storia della Sicilia;  
+geografia storica;  
+antropologia culturale;  
+filosofia del linguaggio;  
+filosofia della politica;  
+storia della filosofia antica;  
+storia e critica del cinema;  
+storia del giornalismo;  
+geografia umana.  
+
+Art. 2
+------
+
   
-Decreta:  
+Nell'art. 113, relativo al corso di laurea in pedagogia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+educazione degli adulti;  
+filosofia dell'educazione;  
+metodologia didattica;  
+pedagogia comparata;  
+pedagogia speciale;  
+pedagogia sperimentale;  
+filosofia della politica;  
+storia della filosofia antica;  
+filosofia del linguaggio;  
+filosofia della scienza;  
+logica;  
+sociologia urbana e rurale;  
+antropologia culturale;  
+geografia umana;  
+teoria della personalita';  
+psicologia dinamica;  
+teoria e tecnica dei test;  
+psicologia delle arti;  
+storia del giornalismo.  
+
+Art. 3
+------
+
   
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 10. - All'elenco degli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di: "Organizzazione internazionale".  
-Art. 74. - All'elenco degli insegnamenti complementari del corso di laurea in Architettura e' aggiunto quello di: "Pianificazione territoriale urbanistica".  
-Art. 57. - Nel gruppo di materie a scelta dello studente del corso di laurea in Ingegneria meccanica l'indirizzo navale muta denominazione con quello di: "Indirizzo impianti navali".  
-Nello stesso corso di laurea ai gruppi di materie a scelta viene aggiunto il seguente:  
-Indirizzo di tecniche navali:  
-20) Architettura navale;  
-21) Costruzione della nave.  
+Nell'art. 114, relativo al corso di laurea in lingue e letterature straniere, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+psicolinguistica;  
+filologia slava;  
+geografia regionale;  
+filosofia del linguaggio;  
+metodologia e didattica degli audiovisivi;  
+antropologia culturale;  
+storia e critica del cinema;  
+storia del giornalismo;  
+geografia umana.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 aprile 1967
+### Dato a Roma, addi' 30 aprile 1982
 
-SARAGAT GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 29 aprile 1967
+Registrato alla Corte dei conti, addi' 18 agosto 1982
 
-Atti del Governo, registro n. 210, foglio n. 151. - GRECO
+Registro n. 102 Istruzione, foglio n. 210

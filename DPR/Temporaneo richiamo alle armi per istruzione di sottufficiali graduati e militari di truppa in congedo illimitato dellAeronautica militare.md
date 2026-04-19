@@ -1,49 +1,59 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 novembre 1956 n. 1491
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1955 n. 745
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 novembre 1956 n. 1491
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1955 n. 745
+=============================================================
 
-Temporaneo richiamo alle armi per istruzione di sottufficiali, graduati e militari di truppa in congedo illimitato dell'Aeronautica militare.
----------------------------------------------------------------------------------------------------------------------------------------------
+Temporaneo richiamo alle armi per istruzione di sottufficiali, graduati e militari di truppa, in congedo illimitato dell'Aeronautica militare.
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
 Visto l'[art. 87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
 
-Visto l'[art. 103 del regio decreto-legge 3 febbraio 1938, n. 744](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-02-03;744~art103);
+Visto l'[art. 103 del regio-decreto-legge 3 febbraio 1938, n. 744](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-02-03;744~art103), convertito nella [legge 16 febbraio 1939, n. 468](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-02-16;468);
 
-Visto l'[art. 47 della legge 31 luglio 1954, n. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-07-31;599~art47);
+Visto l'[art. 47 della legge 31 luglio 1954, n. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-07-31;599~art47), sullo stato dei sottufficiali dell'Esercito, della Marina e dell'Aeronautica;
 
-Visto l'[art. 4 della legge 22 gennaio 1934; n. 115](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-01-22;115~art4), sui soccorsi giornalieri alle famiglie bisognose dei militari richiamati alle armi, e successive modificazioni;
+Visto l'[art. 4 della legge 22 gennaio 1934, n. 115](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-01-22;115~art4), sui soccorsi giornalieri alle famiglie bisognose dei militari richiamati alle armi, e successive sue modificazioni;
+
+Vista la [legge 3 maggio 1955, n. 370](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-05-03;370), sulla conservazione del posto ai lavoratori richiamati alle armi;
 
 Sulla
 -----
 
-proposta del Ministro per la difesa; Decreta
+proposta del Ministro per la difesa; Decreta:
 
 Art. 1
 ------
 
   
-Nel corrente anno finanziario 1956-57 possono essere richiamati alle armi nell'Aeronautica militare, per istruzione, 200 sottufficiali di complemento e 300 militari di truppa in congedo illimitato del ruolo servizi e del ruolo specialisti appartenenti a qualsiasi classe di leva purche' ancora soggetti ad obblighi militari.  
+Nell'anno finanziario 1955-56 possono essere richiamati alle armi per istruzione n. 100 sottufficiali di complemento dell'Aeronautica militare in congedo illimitato e n. 2000 graduati e militari di truppa del ruolo servizi e del ruolo specialisti dell'Aeronautica militare, appartenenti a qualsiasi classe di leva, purche' soggetti ancora ad obblighi militari.  
 
 Art. 2
 ------
 
   
-Il Ministro per la difesa stabilira' per ciascun comando di Zona Aerea Territoriale e di Aeronautica il numero dei militari da richiamare.  
-Il richiamo avra' luogo nel tempo, nei modi e per la durata che saranno stabiliti dal Ministero della difesa.  
-I militari da richiamare ai sensi del presente decreto quale sara' indicato il giorno in cui dovranno presentarsi e l'ente o reparto di destinazione.  
+Il Ministro per la difesa stabilira' per ciascun Comando di Zona aerea territoriale e di aeronautica il numero dei sottufficiali, dei graduati e dei militari di truppa da richiamare.  
+Il richiamo avra' luogo nel tempo, nei modi e per la durata che saranno stabiliti dal Ministro per la difesa.  
+
+Art. 3
+------
+
   
-Il presente decreto, munito del sigillo dello stato, sara' inserito nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.  
+I sottufficiali, graduati e militari di truppa da richiamare ai sensi del presente decreto riceveranno apposita partecipazione personale, nella quale sara' indicato il giorno di presentazione.  
   
-Dato a Roma, addi' 21 novembre 1956  
-  
-GRONCHI  
-  
-TAVIANI   
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei Conti, addi' 8 gennaio 1957  
-Atti del Governo, registro n. 103, foglio n. 12. - CARLOMAGNO  
+
+Il presente decreto, munito del sigillo dello Stato, saia inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Dato a Roma, addi' 14 luglio 1955
+
+GRONCHI TAVIANI
+
+Visto, il Guardasigilli: MORO
+
+Registrato alla Corte dei conti, addi' 18 agosto 1955
+
+Atti del Governo, registro n. 92, foglio n. 86. - CARLOMAGNO

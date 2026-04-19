@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1979 n. 454
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 gennaio 1981 n. 133
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1979 n. 454
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 gennaio 1981 n. 133
+==============================================================
 
 Autorizzazione all'Associazione volontari italiani del sangue, in Milano, ad accettare un lascito.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-454. Decreto del Presidente della Repubblica 3 luglio 1979, col quale, sulla proposta del Ministro della sanita', l'Associazione volontari italiani del sangue, in Milano, viene autorizzata ad accettare, in favore della sezione comunale di Savona, il lascito disposto dal sig. Gioacchino Traverso con testamento olografo 7 gennaio 1966, pubblicato per atto del notaio Franchi di Savona in data 12 giugno 1968, n. 65997 di repertorio, consistente in un appartamento sito in Savona, via Fiume n. 7, iscritto al nuovo catasto edilizio urbano alla partita 11458, foglio 55, con il n. 423/23 di mappa, vani 6,5, cui l'ufficio tecnico erariale di Savona ha attribuito il valore di L. 27.000.000.  
+133. Decreto del Presidente della Repubblica 3 gennaio 1981, col quale, sulla proposta del Ministro della sanita', l'Associazione volontari italiani del sangue, in Milano, viene autorizzata ad accettare il lascito, consistente in L. 4.000.000 in obbligazioni ENEL, disposto dalla sig.ra Evangelina Guidotti ved. Ballerini con testamento olografo 1 gennaio 1976, pubblicato in data 16 aprile 1976, n. 1633/31655 di repertorio, a rogito dott.ssa Giuseppina Porro, notaio in Cremona.  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 28 agosto 1979  
-Registro n. 6 Sanita', foglio n. 262
+Visto, il Guardasigilli: SARTI  
+Registrato alla Corte dei conti, addi' 2 aprile 1981  
+Registro n. 3 Sanita', foglio n. 23

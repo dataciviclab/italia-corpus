@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1953 n. 1192
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1953 n. 724
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1953 n. 1192
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1953 n. 724
+=============================================================
 
 Autorizzazione all'Universita' di Torino ad accettare un legato.
 ----------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1192. Decreto del Presidente della Repubblica 12 settembre 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Torino viene autorizzata ad accettare il legato di L. 100.000 in contanti, disposto in suo favore dal prof. Giuseppe Vicarelli con testamento olografo 14 novembre 1943, per l'istituzione di un premio di studio da intitolarsi "Premio Vicarelli" e da conferirsi, ogni tre anni, all'autore della migliore monografia in lingua italiana, pubblicata nel triennio su argomenti obbligatoriamente attinenti al tema "Lavoro e Maternita'".  
+724. Decreto del Presidente della Repubblica 9 aprile 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Torino viene autorizzata ad accettare il legato disposto in suo favore dal defunto prof. Federico Sacco, consistente in una collezione di opuscoli, di volumi e di pubblicazioni varie di argomento scientifico, geologico e paleontologico, del valore complessivo di L. 1.655.000.  
   
-Visto, il Guardasigilli: AZARA  
-Registrato alla Corte dei conti, addi' 28 aprile 1954  
-Atti del Governo, registro n. 82, foglio n. 177. - CARLOMAGNO
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 30 settembre 1953  
+Atti del Governo, registro n. 79, foglio n. 67. - PALLA

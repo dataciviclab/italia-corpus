@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 marzo 1954 n. 757
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1954 n. 222
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 marzo 1954 n. 757
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1954 n. 222
+===============================================================
 
 Autorizzazione all'Universita' di Genova ad accettare una donazione.
 --------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-757. Decreto del Presidente della Repubblica 23 marzo 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Genova viene autorizzata ad accettare la donazione di L. 154.800, costituita da obbligazioni 6% I.M.I. Credito navale XIV emissione, per il valore di lire 140.000 nominali, e da un assegno circolare del Credito italiano Genova-Cornigliano n. C. 682813 di L. 14.800, disposta in suo favore, con atto pubblico amministrativo in data 15 gennaio 1953 dal dott. Umberto Bertazzi, a nome dell'apposito Comitato per le onoranze al dott. Felice Viani, quale ricavo delle sottoscrizioni raccolte per lo scopo suddetto, per l'istituzione, con la rendita del capitale donato, di un premio di studio annuale da intitolarsi al nome "Dott. Felice Viani" e da conferirsi per concorso ad un laureato in economia e commercio negli ultimi due anni, rispetto alla data di pubblicazione del bando di concorso, il quale abbia svolto la tesi su argomento riguardante i rapporti culturali ed economici internazionali.  
+222. Decreto del Presidente della Repubblica 8 febbraio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Genova viene autorizzata ad accettare la donazione di L. 400.000 nominali, costituita da un titolo di L. 200.000 Rendita italiana 5% 1935 con cedola 1 luglio 1951 e da altro titolo di L. 200.000 Rendita italiana 5% 1935, con cedola 1 luglio 1952, disposta in suo favore, con atto pubblico amministrativo 23 aprile 1952, dal professore Mario Barbara, direttore dell'Istituto di scienza delle costituzioni umane dell'Universita' di Genova, per l'istituzione, con la rendita dei predetti titoli, di un premio biennale di studio da intitolarsi al nome "Cap. cav. Ernesto Anselmi" e da conferirsi ad un laureato in medicina e chirurgia, che abbia svolto il miglior lavoro sopra argomento di medicina costituzionalistica.  
   
 Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 26 agosto 1954  
-Atti del Governo, registro n. 85, foglio n. 89. - CARLOMAGNO
+Registrato alla Corte dei conti, addi' 15 maggio 1954  
+Atti del Governo, registro n. 83, foglio n. 53. - CARLOMAGNO

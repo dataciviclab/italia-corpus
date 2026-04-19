@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 luglio 1967 n. 1031
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 luglio 1965 n. 1541
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 luglio 1967 n. 1031
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 luglio 1965 n. 1541
 ==============================================================
 
 Autorizzazione alla Cassa di previdenza aziendale per il personale del Monte dei Paschi di Siena ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1031. Decreto del Presidente della Repubblica 28 luglio 1967, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, la Cassa di previdenza aziendale per il personale del Monte dei Paschi di Siena viene autorizzata ad acquistare, dalla Societa' industriale costruzioni edili - S.I.C.E. - S.p.A., con sede in Monteriggioni, per il prezzo di lire 235.000.000 (duecentotrentacinquemilioni) un immobile costituito da un fabbricato sito in Siena, via Celso Cittadini n. 31, composto di sette piani di civile abitazione, un piano sottotetto e uno seminterrato, per un totale di 42 appartamenti e 31 autorimesse private.  
+1541. Decreto del Presidente della Repubblica 21 luglio 1965, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, la Cassa di previdenza aziendale per il personale del Monte dei Paschi di Siena viene autorizzata ad acquistare, per il prezzo di lire 580.000.000 (cinquecentottantamilioni), l'immobile costituito da due fabbricati siti in Roma alla via Eugenio Checchi nn. 54-60, di proprieta' della "Societa' Immobiliare Valeria - s.r.l.".  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 7 novembre 1967  
-Atti del Governo, registro n. 214, foglio n. 117. - GRECO
+Registrato alla Corte dei conti, addi' 21 gennaio 1966  
+Atti del Governo, registro n. 200, foglio n. 27. - VILLA

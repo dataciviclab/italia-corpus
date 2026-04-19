@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1980 n. 346
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1978 n. 821
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1980 n. 346
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1978 n. 821
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
@@ -20,64 +20,83 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
---------
 
 Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 103 - all'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:
+
+coltivazioni in ambiente protetto;
+
+produzione delle sementi per colture ortive e floreali;
+
+geopedologia;
+
+ovinicoltura;
+
+tecnica delle colture irrigue.
+
+Lo stesso elenco e' modificato nel senso che gli insegnamenti di tecnica della bonifica (costruzioni ed idraulica), ecologia e chimica e tecnologia degli alimenti (semestrale) mutano rispettivamente la denominazione in quella di tecnica della bonifica e dell'irrigazione, ecologia rurale, tecnologie alimentari ed inoltre gli insegnamenti di olivicoltura, bachicoltura e apicoltura, sociologia rurale, economia montana forestale, storia dell'agricoltura, politica agraria comparata, cooperazione agricola, entomologia forestale acarologia, chimica delle fermentazioni, meccanica dell'agricoltura, chimica biologica, metodologia statistica in agricoltura, propagazione delle piante e tecnica vivaistica, metodologia sperimentale agraria, viabilita' rurale, passano da semestrali ad annuali.
+
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 27 ottobre 1978
+
+PERTINI
+
+PEDINI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 11 dicembre 1978 Registro n. 130 Istruzione, foglio n. 154
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Nell'art. 35 dello statuto dell'Universita' di Palermo relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari sono aggiunti i seguenti:  
-storia economica;  
-epigrafia romana;  
-archeologia del medio e vicino Oriente;  
-storia dell'arte moderna;  
-storia della letteratura italiana moderna e contemporanea;  
-storia dell'arte islamica;  
-filologia greca medioevale e moderna;  
-teatro e drammaturgia dell'antichita'.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
-Nell'art. 36, relativo al corso di laurea in filosofia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti:  
-storia contemporanea;  
-filosofia della politica;  
-storia del teatro e dello spettacolo;  
-storia della filosofia moderna e contemporanea;  
-sociologia dell'educazione;  
-storia del pensiero sociologico;  
-etnologia.  
-Nello stesso elenco e' soppresso l'insegnamento complementare di biologia delle razze umane.  
-
-Art. 3
-------
-
+Decreta:  
   
-Nell'art. 43, relativo al corso di laurea in lingue e letterature straniere moderne (indirizzo europeo), all'elenco degli insegnamenti complementari e' aggiunto il seguente:  
-didattica delle lingue moderne.  
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 103 - all'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:  
+coltivazioni in ambiente protetto;  
+produzione delle sementi per colture ortive e floreali;  
+geopedologia;  
+ovinicoltura;  
+tecnica delle colture irrigue.  
+Lo stesso elenco e' modificato nel senso che gli insegnamenti di tecnica della bonifica (costruzioni ed idraulica), ecologia e chimica e tecnologia degli alimenti (semestrale) mutano rispettivamente la denominazione in quella di tecnica della bonifica e dell'irrigazione, ecologia rurale, tecnologie alimentari ed inoltre gli insegnamenti di olivicoltura, bachicoltura e apicoltura, sociologia rurale, economia montana forestale, storia dell'agricoltura, politica agraria comparata, cooperazione agricola, entomologia forestale acarologia, chimica delle fermentazioni, meccanica dell'agricoltura, chimica biologica, metodologia statistica in agricoltura, propagazione delle piante e tecnica vivaistica, metodologia sperimentale agraria, viabilita' rurale, passano da semestrali ad annuali.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 febbraio 1980
+### Dato a Roma, addi' 27 ottobre 1978
 
-PERTINI VALITUTTI
+PERTINI PEDINI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 26 giugno 1980
+Registrato alla Corte dei conti, addi' 11 dicembre 1978
 
-Registro n. 61 Istruzione, foglio n. 311
+Registro n. 130 Istruzione, foglio n. 154

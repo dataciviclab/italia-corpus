@@ -1,43 +1,341 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1955 n. 762
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 979
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1955 n. 762
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 979
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con regio recreto 14 ottobre 1926, n. 2412, e modificato con i [regi decreti 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2240); [31 ottobre 1929, n. 2477](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1929-10-31;2477); [30 ottobre 1930, numero 1844](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1844); [1 ottobre 1931, n. 1379](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1379); [20 ottobre 1932, n. 1806](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-20;1806): [26 ottobre 1933, n. 1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1933-10-26;1991); [6 dicembre 1934, n. 2430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2430): [1 ottobre 1936, n. 2449](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2449); [23 giugno 1939, numero 1167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-06-23;1167); [27 aprile 1942, n. 485](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;485); [11 luglio 1942, n. 922](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-11;922); [5 settembre 1942, n. 1429 e con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-09-05;1429) [13 luglio 1947, n. 826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-07-13;826) e [31 dicembre 1947, n. 1870 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1870) [28 ottobre 1948, n. 1431](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-10-28;1431); [30 ottobre 1919, n. 1151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1919-10-30;1151); [16 dicembre 1950, n. 1314](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-12-16;1314); [11 febbraio 1952, n. 999](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-11;999) e [16 agosto 1952, n. 1354](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-08-16;1354);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica, istruzione;  
   
-Decreta:  
+Nell'art. 76, all'elenco dei corsi di laurea della facolta' di ingegneria, e' aggiunto il seguente nuovo corso di laurea:   
+ingegneria delle tecnologie industriali ad indirizzo economico organizzativo.   
+Nel medesimo articolo l'insegnamento "impianti di trasporto, circolazione e traffico", obbligatorio sul piano della facolta' per il corso di laurea in ingegneria civile - sezione trasporti, muta la denominazione in quella di: "infrastrutture dei trasporti".   
+L'elenco degli insegnamenti obbligatori sul piano della facolta' per il corso di laurea in ingegneria meccanica e' soppresso ed e' sostituito dal seguente:   
+calcolo numerico e programmazione;   
+calcolo e progetto di macchine;   
+elementi costruttivi delle macchine;   
+metallurgia e metallografia;   
+macchine II;   
+misure e collaudi.   
+All'elenco degli insegnamenti obbligatori sul piano della facolta' per il corso di laurea in ingegneria elettrotecnica, e' aggiunto il seguente nuovo insegnamento:   
+misure sulle macchine e sugli impianti.   
+Nell'elenco degli insegnamenti obbligatori sul piano nazionale per il corso di laurea in ingegneria chimica l'insegnamento di "chimica fisica" e' soppresso ed e' aggiunto il seguente nuovo insegnamento: "chimica applicata"; inoltre all'insegnamento di "chimica I" e' soppressa l'indicazione "I"; nell'elenco degli insegnamenti del triennio di applicazione del medesimo corso di laurea, l'insegnamento di "chimica applicata" e' soppresso ed e' aggiunto il seguente nuovo insegnamento:"chimica fisica"; inoltre nell'elenco degli insegnamenti obbligatori sul piano della facolta' l'insegnamento di "applicazioni di chimica e chimica analitica" e' soppresso e sono aggiunti i seguenti nuovi insegnamenti:   
+reattori chimici;   
+elettrochimica.   
+L'elenco degli insegnamenti obbligatori sul piano della facolta' per il corso di laurea in ingegneria aeronautica e' soppresso ed e' sostituito dal seguente nuovo elenco:   
+strutture aeronautiche;   
+tecnologie aeronautiche;   
+tecnologia meccanica;   
+controlli e servomeccanismi;   
+metallurgia e metallografia;   
+strumentazione ed impianti di bordo per aeromobili;   
+meccanica di volo.   
+Nell'elenco degli insegnamenti obbligatori sul piano nazionale per il corso di laurea in fisica nucleare l'insegnamento di "metallurgia e metallografia" e' soppresso ed e' aggiunto il seguente nuovo insegnamento: "tecnologia meccanica". Inoltre, nell'elenco degli insegnamenti obbligatori sul piano della facolta' del medesimo corso di laurea, l'insegnamento di "sicurezza e controllo del reattore nucleare" muta la denominazione in quella di "sicurezza del reattore nucleare", mentre l'insegnamento di "tecnologia meccanica" e' soppresso ed e' aggiunto il seguente nuovo insegnamento: "metallurgia e metallografia".   
+Nel medesimo art. 76, sono inoltre aggiunte le seguenti norme relative all'istituzione del corso di laurea in ingegneria delle tecnologie industriali ad indirizzo economico-organizzativo:   
+"Il corso di laurea in ingegneria delle tecnologie industriali ad indirizzo economico-organizzativo comprende i seguenti insegnamenti:   
   
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 32. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:  
-"Genetica medica".  
+  
+INSEGNAMENTI OBBLIGATORI SUL PIANO NAZIONALE   
+a) Biennio   
+analisi matematica I;   
+geometria I;   
+fisica I;   
+chimica;   
+disegno;   
+analisi matematica II;   
+meccanica razionale;   
+fisica II;   
+economia applicata all'ingegneria (in sostituzione di geometria II).   
+b) Triennio:   
+scienza delle costruzioni;   
+meccanica applicata alle macchine;   
+fisica tecnica;   
+elettrotecnica;   
+economia ed organizzazione aziendale;   
+teoria dei sistemi;   
+ricerca operativa;   
+tecnologie meccaniche;   
+calcolo numerico e programmazione;   
+impianti meccanici.   
+  
+  
+INSEGNAMENTI OBBLIGATORI SUL PIANO DELLA FACOLTA'   
+  
+Triennio:   
+metallurgia e metallografia;   
+statistica e calcolo delle probabilita';   
+elementi di informatica;   
+complementi di impianti meccanici;   
+complementi di tecnologia meccanica;   
+affidabilita' controllo di qualita' e manutenzione;   
+gestione della produzione industriale.   
+  
+L'art. 77, relativo all'elenco degli insegnamenti complementari, e' soppresso ed e' inserito il seguente nuovo articolo:   
+Art. 77. - Sono insegnamenti complementari a scelta dello studente ai sensi del [decreto del Presidente della Repubblica 27 settembre 1970, n. 827](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-09-27;827), i seguenti:   
+acquedotti e fognature;   
+acustica applicata;   
+aerodinamica;   
+aerodinamica sperimentale;   
+aeronautica generale;   
+affidabilita' controllo di qualita' e manutenzione;   
+affidabilita' e sicurezza nell'industria chimica;   
+agronomia generale;   
+analisi degli incidenti nucleari;   
+analisi dei sistemi territoriali ed economia urbanistica;   
+analisi sperimentale delle tensioni;   
+antenne e propagazione;   
+applicazioni degli isotopi;   
+applicazioni elettriche;   
+architettura e composizione architettonica;   
+architettura tecnica;   
+architettura tecnica II;   
+arte mineraria;   
+bonifica ed irrigazione;   
+statistica e calcolo delle probabilita';   
+calcolo e progetto di macchine;   
+calcolo numerico e programmazione;   
+campi elettromagnetici e circuiti;   
+caratteri distributivi degli edifici;   
+centrali elettriche;   
+chimica applicata;   
+chimica del reattore nucleare;   
+chimica delle radiazioni;   
+chimica fisica;   
+chimica fisica applicata;   
+chimica industriale;   
+chimica macromolecolare;   
+chimica metallurgica;   
+chimica organica;   
+cicli di lavorazione ed attrezzature;   
+circuiti logici e calcolatrici elettroniche;   
+circuiti logici e calcolatrici elettroniche II;   
+complementi di architettura tecnica;   
+complementi di controlli automatici;   
+chimica industriale II;   
+complementi di costruzione di macchine;   
+complementi di gasdinamica;   
+complementi di idraulica;   
+complementi di impianti meccanici;   
+complementi di impianti nucleari;   
+complementi di macchine elettriche;   
+complementi di matematica;   
+complementi di scienza delle costruzioni;   
+complementi di tecnica della rappresentazione;   
+complementi di tecnologia meccanica;   
+complementi di termodinamica;   
+complementi di urbanistica;   
+complementi ed applicazioni di chimica per l'ingegneria;   
+componenti elettronici;   
+comunicazioni elettriche;   
+conservazione del suolo;   
+controlli automatici;   
+controlli e servomeccanismi;   
+corrosioni;   
+costruzione di macchine;   
+costruzione di macchine elettriche;   
+costruzione di ponti;   
+costruzione di strade, ferrovie ed aeroporti;   
+costruzioni aeronautiche;   
+costruzioni idrauliche;   
+costruzioni in sotterraneo;   
+costruzioni in zona sismica;   
+costruzioni marittime;   
+costruzioni metalliche;   
+dinamica delle strutture;   
+dinamica, simulazione e controllo delle apparecchiature chimiche;   
+dosimetria ed effetti delle radiazioni sui materiali;   
+economia applicata all'ingegneria;   
+economia e politica agraria;   
+economia ed organizzazione aziendale;   
+elementi costruttivi delle macchine;   
+elementi di composizione architettonica;   
+elementi di informatica;   
+elementi di pianificazione territoriale e legislazione urbanistica;   
+elementi e costruzioni di macchine;   
+elettrochimica;   
+elettrochimica organica;   
+elettronica applicata;   
+elettronica applicata I;   
+elettronica applicata II;   
+elettronica biologica;   
+elettronica nucleare;   
+elettrotecnica II;   
+energetica;   
+esercizio dei sistemi di trasporto;   
+estimo ed esercizio professionale;   
+fisica atomica;   
+fisica del reattore nucleare;   
+fisica nucleare;   
+fisiologia generale;   
+fluidodinamica delle macchine;   
+gasdinamica;   
+geologia applicata all'ingegneria;   
+geotecnica;   
+gestione della produzione industriale;   
+gestione delle risorse energetiche nel territorio;   
+impianti ausiliari navali;   
+impianti chimici;   
+impianti chimici II;   
+impianti di irraggiamento;   
+impianti di separazione isotopica;   
+impianti elettrici;   
+impianti elettrici a media e bassa tensione;   
+impianti industriali chimici e petrolchimici;   
+impianti meccanici;   
+impianti nucleari;   
+impianti speciali idraulici;   
+impianti termotecnici;   
+infrastrutture aeroportuali;   
+infrastrutture dei trasporti;   
+ingegneria del nocciolo;   
+ingegneria sanitaria;   
+lavorazioni non convenzionali e macchine utensili speciali;   
+macchine;   
+macchine acceleratrici di bassa e media energia;   
+macchine da cantiere ed impianti stradali;   
+macchine elettriche;   
+macchine II;   
+macchine dei fluidi;   
+meccanica del volo;   
+meccanica delle rocce;   
+metallurgia e metallografia;   
+metodi matematici per l'ingegneria;   
+microelettronica;   
+misure e strumentazioni automatiche;   
+misure elettriche;   
+misure elettroniche;   
+misure e collaudi;   
+misure sulle macchine e sugli impianti;   
+misure termofluidodinamiche;   
+motori per aeromobili;   
+optoelettronica;   
+organizzazione industriale;   
+pianificazione dei trasporti;   
+prefabbricazione, industrializzazione edilizia e cantiere;   
+preparazione meccanica dei minerali;   
+principi di ingegneria chimica;   
+principi ed applicazioni del laser;   
+principi ed elementi di navigazione ed assistenza al volo;   
+processi ed apparecchiature di trasferimento;   
+progetti di costruzioni stradali e ferroviarie;   
+progetti di impianti tecnici;   
+progetti di strutture;   
+progetto di apparecchiature per l'industria chimica;   
+proprieta' fisiche e tecnologiche degli alti polimeri;   
+radioprotezione;   
+radiotecnica;   
+reattori chimici;   
+ricerca operativa;   
+scienza dei metalli;   
+sicurezza del reattore nucleare;   
+sintesi circuitale attiva e passiva;   
+sistemi biologici;   
+sistemi di telecomunicazione;   
+stabilita' dei pendii e costruzioni di terra;   
+statica delle strutture prefabbricate;   
+strumentazione ed impianti di bordo per aeromobili;   
+strumentazioni e misure negli impianti chimici;   
+strumenti e misure nucleari (con laboratori);   
+strumenti e misure nucleari II;   
+struttura della materia;   
+strutture aeronautiche;   
+tecnica degli endoreattori;   
+tecnica degli impianti elettrici;   
+tecnica dei lavori stradali;   
+tecnica del controllo ambientale;   
+tecnica del freddo;   
+tecnica del traffico e della circolazione;   
+tecnica della sperimentazione e collaudo delle strutture;   
+tecnica delle costruzioni;   
+tecnica delle fondazioni;   
+tecnica delle iperfrequenze;   
+tecnica delle vibrazioni;   
+tecnica e applicazione dei controlli automatici;   
+tecnica ed economia dei trasporti;   
+tecnica ed economia dei trasporti aerei;   
+tecnica urbanistica;   
+tecnologia dei materiali e chimica applicata;   
+tecnologia dei polimeri;   
+tecnologia meccanica;   
+tecnologie aeronautiche;   
+tecnologie elettrochimiche;   
+tecnologie generali dei materiali;   
+tecnologie meccaniche applicate alle costruzioni navali;   
+tecnologie speciali;   
+tecnologie speciali per elettrotecnici ed elettronici;   
+teoria dei sistemi;   
+teoria dell'informazione;   
+teoria delle reti elettriche;   
+teoria e tecnica della combustione;   
+termodinamica e termocinetica applicate;   
+termotecnica industriale;   
+topografia;   
+urbanistica.   
+L'art. 91, relativo all'elenco degli istituti della facolta' di ingegneria, e' soppresso ed e' inserito il seguente nuovo articolo:   
+Art. 91. - Presso la facolta' di ingegneria sono costituiti i seguenti istituti:   
+aeronautica;   
+applicazioni ed impianti nucleari;   
+architettura tecnica;   
+automatica e sistemistica;   
+costruzioni di macchine;   
+costruzioni stradali;   
+disegno e topografia;   
+elettrotecnica ed elettronica;   
+fisica tecnica;   
+gasdinamica;   
+ingegneria chimica;   
+ingegneria geotecnica e mineraria;   
+idraulica;   
+macchine;   
+scienza delle costruzioni;   
+tecnologie meccaniche;   
+trasporti;   
+matematica;   
+fisica.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 luglio 1955
+### Dato a Roma, addi' 31 ottobre 1981
 
-GRONCHI ROSSI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 22 agosto 1955
+Registrato alla Corte dei conti, addi' 9 febbraio 1982
 
-Atti del Governo, registro n. 92, foglio n. 97. - CARLOMAGNO
+Registro n. 20 Istruzione, foglio n. 172

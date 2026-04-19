@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1961 n. 495
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 dicembre 1954 n. 1364
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1961 n. 495
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 dicembre 1954 n. 1364
+================================================================
 
 Autorizzazione all'Unione italiana dei ciechi ad accettare un legato.
 ---------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-495. Decreto del Presidente della Repubblica 31 marzo 1961, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi viene autorizzata ad accettare un legato disposto dalla defunta signora Maria Elisabetta Blume vedova Hohenschleyer - con testamento olografo del 30 maggio 1956, pubblicato per atto a rogito notaio dottor Giuseppe Nicolodi di Trento, in data 5 novembre 1958, numero di repertorio 48707/18281 racc. - a favore della Sezione tridentina della predetta Unione.  
+1364. Decreto del Presidente della Repubblica 22 dicembre 1954, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi viene autorizzata ad accettare un legato disposto in favore della; Sezione provinciale di Modena dell'Unione stessa dal sig. Civolari Aldo, con testamento olografo 7 ottobre 1943, costituito da, immobili rustici per la complessiva estensione di ettari 49.25.24, il cui usufrutto e' riservato, vita natural durante, a favore della vedova del de cuius.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 12 giugno 1961  
-Atti del Governo, registro n. 137, foglio n. 24. - VILLA
+Visto, il Guardasigilli: DE PIETRO  
+Registrato alla Corte dei conti, addi' 10 febbraio 1955  
+Atti del Governo, registro n. 88, foglio n. 133. - CARLOMAGNO

@@ -1,98 +1,247 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1954 n. 740
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 1101
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1954 n. 740
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 1101
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con i [regi decreti 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2229); [30 ottobre 1930, n. 1931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1931); [22 ottobre 1931, n. 1463](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-22;1463); [27 ottobre 1932, n. 2079](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2079); [27 dicembre 1934, n. 2435](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-27;2435); [1 ottobre 1936, n. 2472](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2472); [20 aprile 1939, n. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-04-20;1068); [2 ottobre 1940, n. 1470](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-02;1470); [24 novembre 1941, n. 1443, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1941-11-24;1443) [20 novembre 1947, n. 1702 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-11-20;1702) [20 luglio 1948, n. 1161](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-07-20;1161); [31 ottobre 1950, n. 1278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1278); [19 giugno 1951, n. 1093](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-19;1093); [27 ottobre 1951, n. 1805](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1805); [27 ottobre 1951, numero 1806](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1806); [2 agosto 1952, n. 1222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-08-02;1222) e [12 maggio 1953, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-05-12;549);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 3 novembre 1952, n. 1787](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-11-03;1787);  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Gli articoli da 132 a 143, relativi alle disposizioni generali delle scuole di specializzazione in medicina e chirurgia, nonche' gli articoli da 436 a 444, relativi a quelle delle scuole di specializzazione in farmacia, sono soppressi.  
+
+Art. 2
+------
+
   
-Decreta:  
   
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Dopo l'art. 99, e con lo spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli, relativi alla introduzione delle norme generali comuni a tutte le scuole di specializzazione:   
   
-Art. 29. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di:  
-23) "Estetica".  
-Il decimo comma e' sostituito dal seguente:  
-"La letteratura italiana, la letteratura latina, e un terzo insegnamento fondamentale (che per coloro che scelgono l'indirizzo classico e' obbligatoriamente la letteratura greca) devono essere seguiti per un biennio. Puo' pero' lo studente seguire per un biennio anche uno o due insegnamenti in piu', ed in tal caso puo' ridurre rispettivamente di uno o due gli altri insegnamenti che deve scegliere".  
-L'undicesimo comma e' sostituito dal seguente: "Lo studente deve superare una prova scritta di traduzione latina e una prova scritta di italiano integrativa dell'unico esame di italiano".  
+SEZIONE II   
+SCUOLE DI SPECIALIZZAZIONE   
   
-Art. 31. - Agli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:  
-15) "Filosofia della scienza;  
-16) Estetica".  
+Titolo X   
+NORMATIVA GENERALE   
   
-Art. 36. - Agli insegnamenti fondamentali del 1° biennio del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
-7) "Chimica biologica;  
-8) Microbiologia".  
-Agli insegnamenti fondamentali del 3° biennio del corso di laurea in medicina e chirurgia e' aggiunto quello di:  
-"Radiologia (semestrale)".  
-Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:  
-8) "Statistica sanitaria".  
-  
-Art. 58. - Agli insegnamenti complementari del corso di laurea in farmacia e' aggiunto quello di:  
-9) "Scienza dell'alimentazione".  
-  
-Dopo l'art. 69 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della scuola di specializzazione in anestesia.  
-  
-Scuola di specializzazione in anestesia  
-  
-Art. 70. - E' istituita presso l'Istituto di patologia chirurgica della Universita' di Pavia una scuola di specializzazione in anestesia per il conseguimento del diploma di specialista in anestesia. La scuola dispone dei reparti e delle attrezzature dell'Istituto di patologia chirurgica e della clinica chirurgica.  
-Direttore della scuola e' il titolare della cattedra di patologia chirurgica.  
-  
-Art. 71. - Sono ammessi alla scuola, in numero non superiore a quattro, i medici che abbiano conseguito la laurea in medicina e chirurgia nelle Universita' italiane da non piu' di quattro anni al momento della iscrizione.  
-  
-Art. 72. - La selezione dei richiedenti la iscrizione, al fine della ammissione entro il numero dei posti disponibili, e' fatta dalla Direzione della scuola che provvedera' alla valutazione degli aspiranti in base ai titoli di studio, ed eventualmente, a mezzo di esami.  
-  
-Art. 73. - La durata del corso e' di due anni; in questo periodo gli specializzandi sono tenuti a prestare regolare e continuato servizio di internato nell'Istituto di patologia chirurgica o nella clinica chirurgica dell'Universita'.  
-  
-Art. 74. - Gli insegnamenti sono i seguenti:  
-1) I fondamenti anatomici delle anestesie;  
-2) I fondamenti fisiologici delle anestesie;  
-3) I fondamenti farmacologici delle anestesie;  
-4) Le anestesie generali;  
-5) Le anestesie loco-regionali;  
-6) Trattamenti pre e post-anestetici;  
-7) La rianimazione.  
-Tali insegnamenti saranno integrati da esercitazioni pratiche di tecnica anestesiologica e di rianimazione.  
-  
-Art. 75. - Gli insegnanti della scuola sono designati dal Consiglio di facolta'.  
-  
-Art. 76. - Al termine del corso gli allievi dovranno superare:  
-un esame speciale sulla materia degli insegnamenti fondamentali; un esame speciale sulla materia degli insegnamenti teorico-pratici;  
-un esame di diploma consistente in una dissertazione scritta su argomento attinente all'anestesia, proposto dal direttore della scuola.  
-La dissertazione scritta deve essere depositata in Segreteria quindici giorni prima dell'esame di diploma.  
-  
-Art. 77. - Le Commissioni degli esami speciali saranno costituite di tre membri nominati dal preside della Facolta' a scelta fra gli insegnanti della scuola.  
-La Commissione degli esami di diploma e' composta di cinque membri ed e' presieduta dal direttore della scuola.  
-  
-Art. 78. - Gli iscritti sono tenuti al pagamento delle tasse e sopratasse secondo le norme generali vigenti.  
+Art. 100. - Nell'Universita' di Pavia sono istituite le seguenti scuole di specializzazione:   
+Facolta' di economia e commercio:   
+economia.   
+Facolta' di medicina e chirurgia:   
+chirurgia generale (\*);   
+ginecologia e ostetricia;   
+clinica dermosifilopatica;   
+neurologia (\*);   
+psichiatria (\*);   
+oftalmologia;   
+pediatria;   
+pediatria preventiva e puericultura;   
+medicina legale e delle assicurazioni;   
+radiologia (\*);   
+otorinolaringoiatria (\*);   
+odontostomatologia (\*);   
+idrologia medica (\*);   
+igiene e medicina preventiva (\*);   
+cardiologia (\*);   
+oncologia (\*);   
+anestesia e rianimazione (\*);   
+medicina del lavoro;   
+malattie infettive (\*);   
+scienza dell'alimentazione (\*);   
+endocrinologia e malattie del ricambio;   
+medicina interna;   
+urologia (\*).   
+Facolta' di medicina e chirurgia e facolta' di lettere e filosofia:   
+psicologia.   
+Facolta' di medicina e chirurgia:   
+ortopedia;   
+biologia clinica;   
+medicina preventiva dei lavoratori e psicotecnica;   
+ematologia (\*);   
+geriatria e gerontologia;   
+tossicologia medica;   
+microbiologia;   
+tisiologia e malattie dell'apparato respiratorio;   
+patologia generale;   
+neuropsichiatria infantile (\*);   
+chirurgia vascolare;   
+fisiopatologia e fisiochinesiterapia respiratoria;   
+neurochirurgia;   
+citogenetica umana;   
+chirurgia della mano;   
+chirurgia sperimentale e microchirurgia;   
+farmacologia;   
+chirurgia toracica;   
+fisioterapia;   
+allergologia;   
+chirurgia d'urgenza e di pronto soccorso (\*);   
+statistica medica;   
+medicina dello sport (\*);   
+gastroenterologia ed endoscopia digestiva;   
+anatomia patologica (\*);   
+neurofisiologia clinica;   
+tossicologia forense.   
+Facolta' di farmacia:   
+farmacia industriale.   
+Facolta' di medicina e chirurgia:   
+chirurgia plastica e ricostruttiva (\*);   
+medicina tropicale (\*).   
+Facolta' di scienze matematiche, fisiche e naturali:   
+fisica applicata;   
+conservazione della natura e pianificazione ecologica territoriale.   
+Facolta' di medicina e chirurgia e di economia e commercio:   
+medicina delle comunita' (\*).   
+Le scuole di:   
+endocrinologia e malattie del ricambio;   
+oncologia;   
+pediatria preventiva e puericultura;   
+radiologia;   
+igiene e medicina preventiva;   
+scienza dell'alimentazione;   
+psicologia;   
+microbiologia;   
+patologia generale;   
+farmacologia;   
+statistica medica;   
+tossicologia forense,   
+sono articolate in indirizzi come di seguito indicato:   
+1) Endocrinologia e malattie del ricambio:   
+a) endocrinologia;   
+b) malattie del ricambio e diabetologia.   
+2) Pediatria preventiva e puericultura:   
+a) neonatologia e patologia neonatale;   
+b) pediatria sociale.   
+3) Oncologia:   
+a) oncologia generale diagnostica e preventiva;   
+b) oncologia medica.   
+4) Radiologia:   
+a) radiodiagnostica e scienza delle immagini;   
+b) radioterapia oncologica.   
+5) Igiene e medicina preventiva:   
+a) epidemiologia e sanita' pubblica;   
+b) organizzazione dei servizi sanitari di base;   
+c) igiene ed organizzazione dei servizi ospedalieri;   
+d) laboratorio.   
+6) Scienza dell'alimentazione:   
+a) dietologico e dietoterapico;   
+b) nutrizionistico generale;   
+c) tecnologico alimentare.   
+7) Psicologia:   
+a) medico;   
+b) differenziato e scolastico;   
+c) industriale del lavoro;   
+d) sociale.   
+8) Microbiologia:   
+a) medico;   
+b) tecnico.   
+9) Patologia generale:   
+a) patologia generale;   
+b) patologia generale con indirizzo tecnico.   
+10) Farmacologia:   
+a) farmacologia di base;   
+b) farmacologia clinico-ospedaliera;   
+c) tossicologia.   
+11) Statistica medica:   
+a) clinico;   
+b) epidemiologico.   
+12) Tossicologia forense:   
+a) medico;   
+b) chimico.   
+(\*) Scuole riordinate in adeguamento al [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162).   
+Art. 101. I concorsi di ammissione relativi a ciascuna scuola, con specificazione del numero degli iscrivibili, sono banditi con decreto rettorale in tempo utile per il successivo anno accademico.   
+I candidati alle specializzazioni, per le quali e' requisito indispensabile il possesso dell'abilitazione professionale, possono partecipare "sub condizione" all'esame di ammissione; all'atto di regolare l'iscrizione debbono depositare anche il diploma di abilitazione.   
+L'eventuale differenza, fra il totale degli iscrivibili previsto per ciascuna scuola ed il corrispondente numero di posti effettivamente banditi, potra' essere destinata a concorrenti di cittadinanza straniera, limitatamente alle scuole per le quali non e' prevista l'esistenza di un albo professionale.   
+Il numero complessivo degli specializzandi di cittadinanza straniera non potra' essere comunque superiore al venti per cento di quelli di cittadinanza italiana.   
+Limitazioni e condizioni di ammissione per specializzandi stranieri sono incluse negli statuti specifici e riportati nel bando di concorso.   
+Art. 102. - Il concorso di ammissione, secondo quanto previsto dall'[art. 13 del decreto del Presidente della Repubblica n. 162/82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;162~art13) e' per esami e titoli.   
+L'esame consiste:   
+a) in una prova scritta intesa ad accertare la cultura generale dell'area di specializzazione;   
+b) in una eventuale prova orale, sempre sulle medesime tematiche, integrate, se del caso, da una prova pratica.   
+Il bando di concorso di ammissione a ciascuna scuola indichera' eventuali modalita' diverse, come le prove attraverso risposta a quesiti multipli, ed i programmi di esame.   
+Il candidato dovra' dare prova di buona conoscenza strumentale della lingua o delle lingue straniere secondo quanto indicato nel bando.   
+La valutazione dei titoli integrera' il punteggio, conseguito nell'esame di cui ai commi precedenti, in misura non superiore al 30% dello stesso.   
+Costituiscono titolo:   
+a) la tesi di laurea;   
+b) il voto di laurea;   
+c) il voto riportato negli esami di profitto nel corso di laurea in discipline attinenti la specializzazione ed indicate nel bando di concorso per ciascuno dei corsi di laurea che danno accesso alla scuola;   
+d) le pubblicazioni scientifiche.   
+Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale del 16 settembre 1982, emanato ai sensi dell'[art. 13, quinto comma, del decreto del Presidente della Repubblica n. 162/82, pubblicato nella Gazzetta Ufficiale n. 275 del 6 ottobre 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-10-06&numeroGazzetta=275).   
+Art. 103. - La commissione per l'esame di ammissione e' costituita da cinque professori di ruolo designati dal consiglio della scuola.  
+Nel caso di convenzioni con enti pubblici o privati, che preveda, a carico di questi ultimi, la concessione di borse per frequentare la scuola, la commissione puo' essere integrata da un docente o cultore di materie attinenti alla scuola, scelto dal consiglio della scuola entro una terna designata dagli enti erogatori.   
+Art. 104. La commissione giudicatrice dell'esame finale per il conseguimento del diploma di specialista e' composta da cinque professori di ruolo della scuola designati dal consiglio della scuola di cui all'art. 108.   
+Eventuali allargamenti che comportino integrazioni non superiori a due membri, e le modalita' relative sono definiti dalle normative specifiche di ciascuna scuola.   
+Art. 105. - L'importo delle tasse e sovrattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione dell'Universita'.   
+Art. 106. - Sono organi della scuola il direttore ed il consiglio della scuola.   
+Art. 107. - Il direttore ha la responsabilita' della scuola. E' un professore di ruolo che insegni nella scuola, di norma di prima fascia. In caso di motivato impedimento dei professori di prima fascia la direzione e' affidata a professori di seconda fascia.   
+Il direttore e' eletto, con voto segreto, dal consiglio della scuola, di cui al successivo articolo; convoca il consiglio della scuola e lo presiede; ha, nell'ambito della conduzione della scuola, le funzioni proprie dei presidenti di consiglio di corso di laurea.   
+Il direttore promuove, per la stipula attraverso il consiglio di amministrazione ed il rettore, le convenzioni per lo svolgimento delle attivita' di formazione.   
+Per la gestione dei fondi a disposizione della scuola si applicano le norme dettate per gli istituti dal regolamento per l'amministrazione e la contabilita' generale dell'Universita'.   
+Il direttore dura in carica tre anni ed e' rieleggibile.   
+Nel manifesto annuale degli studi viene indicata la sede della direzione della scuola.   
+Art. 108. - Il consiglio della scuola e' composto da tutti i docenti della scuola, compresi gli eventuali docenti a contratto, e da una rappresentanza di tre specializzandi, eletta secondo quanto previsto dall'[art. 99 del decreto del Presidente della Repubblica n. 382/80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art99).   
+Art. 109. - Il consiglio della scuola ne conduce e coordina le attivita' con i consigli dei dipartimenti e delle facolta' interessati inclusi la designazione dei docenti, l'affidamento degli insegnamenti e le eventuali proposte di contratti.   
+In prima istituzione, i docenti che costituiscono il consiglio della scuola vengono designati in rapporto agli insegnamenti da attivare con apposita delibera dei consigli delle facolta' interessate sentiti i consigli dei dipartimenti coinvolti.   
+Art. 110. - Lo specializzando e' tenuto a seguire tutti i corsi di lezioni ed a partecipare a tutte le attivita' pratiche ed alle esercitazioni previste, per ciascun anno di corso, dal manifesto degli studi nel quadro delle norme piu' sotto indicate.   
+La frequenza della scuola e' obbligatoria per tutti gli iscritti.   
+Modalita' di accertamento della frequenza sono determinate dal consiglio della scuola e rese note nel manifesto annuale degli studi, ovvero attraverso altre idonee forme.   
+Art. 111. - Alla fine di ciascun anno, lo specializzando deve superare un esame teorico-pratico sulle attivita' di formazione svolte nell'anno, valutato da una commissione, appositamente nominata e presieduta dal direttore della scuola, e costituita dai docenti della scuola delle discipline interessate dal programma di formazione dei candidati.   
+Coloro che non superano l'esame non possono essere ammessi al successivo anno di corso e debbono ripetere l'anno.   
+E' ammessa la ripetizione dell'anno per una sola volta.   
+Art. 112. - Il calendario dei corsi di studio e delle attivita'   
+pratiche e' stabilito anno per anno, dal consiglio della scuola, nel monte ore previsto dall'ordinamento di ogni singola scuola.   
+I corsi potranno articolarsi in cicli di lezioni, seminari e moduli di formazione, nell'ambito delle leggi vigenti.   
+Art. 113. - Il corso si conclude con un esame di diploma, che consiste nella discussione di una dissertazione scritta, che dimostri la preparazione scientifica e le capacita' operative collegate alla specifica professionalita'.   
+Art. 114. - Nel caso di scuole di specializzazione istituite in base a convenzioni con altre Universita', per i docenti che debbano esplicare le previste attivita' didattiche in sede diversa da quella ordinaria di servizio, e che abbiano incluso tali attivita' nel proprio piano didattico annuale approvato dalla facolta' di appartenenza, e' prevista la corresponsione di un rimborso spese relative al trasporto e all'eventuale pernottamento.   
+Art. 115 (Norma transitoria). - Le scuole gia' funzionanti presso le Universita' con il vecchio ordinamento sono progressivamente disattivate;
+
+(( le scuole di cui all'art. 100 sono progressivamente attivate a partire))
+
+dall'anno accademico nel quale entra in vigore il riordinamento di ciascuna scuola.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Dogliani, addi' 26 aprile 1954
+### Dato a Roma, addi' 4 ottobre 1986
 
-EINAUDI MARTINO
+COSSIGA
 
-Visto, il Guardasigilli: DE PIETRO
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 23 agosto 1954
+Visto, il Guardasigilli: ROGNONI
 
-Atti del Governo, registro n. 85, foglio n. 82. - TEMPESTA
+Registrato alla Corte dei conti, addi' 6 maggio 1987
+
+Registro n. 27 Istruzione, foglio n. 179

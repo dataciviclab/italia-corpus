@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 gennaio 1970 n. 66
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 ottobre 1974 n. 582
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 gennaio 1970 n. 66
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 ottobre 1974 n. 582
+==============================================================
 
 Autorizzazione alla camera di commercio, industria, artigianato e agricoltura di Venezia ad acquistare un immobile.
 -------------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-66. Decreto del Presidente della Repubblica 7 gennaio 1970, col quale, sulla proposta del Ministro per l'industria, il commercio e l'artigianato, la camera di commercio, industria, artigianato e agricoltura di Venezia viene autorizzata ad acquistare, dalle sorelle Maria e Antonietta Casonato fu Giovanni, un appezzamento di terreno di Ha. 1.28.00 confinante con la sede del centro provinciale tori, posta nel comune di S. Dona' di Piave, al prezzo di L. 5.000.000 ed alle altre condizioni di cui alla [deliberazione n. 277 del 1 aprile 1969](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1969-04-01;277).  
+582. Decreto del Presidente della Repubblica 5 ottobre 1974, col quale, sulla proposta del Ministro per l'industria, il commercio e l'artigianato, la camera di commercio, industria, artigianato e agricoltura di Venezia viene autorizzata ad acquistare dalle signore Castiglione Rosetta e Sovilla Maria Rosa, per un importo di L. 220.000.000, un edificio sito in Mestre, Riviera XX Settembre, angolo via Nazario Sauro, per adibirlo a nuova sede degli uffici camerali in terraferma.  
   
-Visto, il Guardasigilli: GAVA  
-Registrato alla Corte dei conti, addi' 28 febbraio 1970  
-Atti del Governo, registro n. 233, foglio n. 33. - CARUSO
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 16 novembre 1974  
+Atti di Governo, registro n. 6, foglio n. 126. - SCIARRETTA

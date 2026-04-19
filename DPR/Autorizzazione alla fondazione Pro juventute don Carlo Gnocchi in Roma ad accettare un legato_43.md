@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1982 n. 219
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 maggio 1981 n. 311
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1982 n. 219
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 maggio 1981 n. 311
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-219. Decreto del Presidente della Repubblica 8 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato di L. 5.000.000 disposto dalla sig.ra Quarti Amelia ved. Sfondrini con testamento pubblico 20 novembre 1975 a rogito dott. Albertario Francesco, notaio in Casorate Primo (Pavia), pubblicato in data 20 febbraio 1976, n. 12779/5485 di repertorio, a rogito dello stesso notaio, registrato a Pavia in data 9 marzo 1976 al n. 485.   
+311. Decreto del Presidente della Repubblica 5 maggio 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella quota di 1/2 dell'immobile sito in Milano, via Emilio De Marchi n. 5, distinto nel nuovo catasto edilizio urbano alla partita n. 50212, foglio 196, mappale 6 sub 1÷70, valore attribuito per intero L. 70.000.000, quota 1/2 L. 35.000.000, disposto dal sig. Tranchinetti Mario con testamento pubblico 7 febbraio 1977, pubblicato a rogito dott. Renato Tabucchi, notaio in Milano, il 10 marzo 1977 al n. 68539 di repertorio e n. 14313 di raccolta, registrato a Milano il 16 marzo 1977 al n. 02063.  
   
-  
-Visto, il Guardasigilli: DARIDA   
-Registrato alla Corte dei conti, addi' 23 aprile 1982   
-Registro n. 9 Presidenza, foglio n. 323
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 11 giugno 1981  
+Registro n. 4 Presidenza, foglio n. 270

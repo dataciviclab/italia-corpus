@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1966 n. 106
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1985 n. 536
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1966 n. 106
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1985 n. 536
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -10,240 +10,112 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);, Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzi detta;
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
 
-Decreta:
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
 
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Sentito
+-------
 
-Art. 19. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere moderne sono aggiunti quelli di:
+il parere del Consiglio universitario nazionale; Sulla proposta del Ministro della pubblica istruzione;
 
-25) Lingua e letteratura araba;
+Articolo unico
+--------------
 
-26) Lingue ugro-finniche;
-
-27) Paleografia e diplomatica;
-
-28) Storia americana;
-
-29) Storia dell'Europa orientale;
-
-30) Storia della critica letteraria;
-
-31) Storia comparata delle letterature europee;
-
-32) Lingua e letteratura finlandese;
-
-33) Lingue e letterature baltiche;
-
-34) Storia contemporanea;
-
-35) Lingua e letteratura albanese;
-
-36) Letteratura ispano-americana;
-
-37) Lingua e letteratura bulgara;
-
-38) Lingua e letteratura cecoslovacca;
-
-39) Lingua e letteratura olandese e fiamminga;
-
-40) Lingua e letteratura serbo-croata;
-
-41) Lingua e letteratura slovena;
-
-42) Storia delle tradizioni popolari
-
-Art. 46. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti quelli di:
-
-Scienza dell'alimentazione del bestiame;
-
-Chimica analitica (semestrale);
-
-Residui e additivi alimentari (semestrale);
-
-Fisiopatologia vegetale (semestrale);
-
-Micologia (semestrale);
-
-Zoologia agraria (semestrale).
-
-Gli insegnamenti complementari di "Fitoiatria" e "Virologia vegetale" passano da annuale a semestrale.
-
-Dopo l'art. 180, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Angiologia ed in Angiologia e chirurgia vascolare.
-
-Art. 181. - Presso la Facolta' di medicina e chirurgia e' istituita la Scuola di specializzazione in Angiologia ed in Angiologia e chirurgia vascolare.
-
-La durata dei corsi e' di due anni per il diploma in Angiologia e di tre per il diploma in Angiologia e chirurgia vascolare. Ad essa possono iscriversi soltanto i laureati in Medicina e chirurgia. Le norme generali di iscrizione, esami, pagamento tasse, ecc. sono quelle dello statuto delle scuole di specializzazione dell'Universita' di Milano.
-
-Gli insegnanti della scuola sono designati dal Consiglio di Facolta' su proposta del direttore della scuola.
-
-Art. 182. - Le materie di insegnamento sono:
-
-1° Anno:
-
-Anatomia macro e microscopica e radiologia dell'apparato vascolare;
-
-Fisiologia della circolazione periferica;
-
-Anatomia e fisiologia patologica delle alterazioni morbose dell'apparato vascolare;
-
-Fisiopatologia della coagulazione e vasculopatie;
-
-Semeiologia fisica e strumentale dell'apparato vascolare;
-
-Le angiopatie in medicina;
-
-Le angiopatie dei tegumenti.
-
-2° Anno:
-
-Arteriopatie;
-
-Flebopatie;
-
-Lesioni dei piccoli vasi e linfopatie;
-
-Terapia medica delle angiopatie;
-
-Chirurgia vascolare.
-
-3° Anno:
-
-Pratica clinica;
-
-Attivita' sperimentale e operatoria nel campo vascolare; 3 Lezioni e conferenze.
-
-L'insegnamento sara' dottrinario e pratico. Gli iscritti hanno l'obbligo di frequenza sia alle lezioni che al tirocinio pratico.
-
-Gli iscritti al 3° corso hanno obbligo di un internato giornaliero effettivo per un anno.
-
-Art. 183. - Il numero massimo di laureati che possono iscriversi al 10 anno della Scuola e' di 25. Sono ammessi agli anni successivi gli allievi che hanno superato tutti gli esami dell'anno del corso frequentato.
-
-Art. 184. - Alla fine del primo biennio gli specializzandi che hanno frequentato i corsi e superato gli esami possono essere ammessi ad un esame di diploma Angiologia consistente nella discussione di una tesi scritta di argomento di Angiologia.
-
-Il diploma conseguito e' di specializzazione in Angiologia.
-
-Art. 185. - Alla fine del triennio gli specializzandi che hanno compiuto il loro internato dovranno superare una prova orale teorica ed una prova pratica, prima di essere ammessi all'esame di diploma.
-
-L'esame di diploma consistera' nella discussione di una tesi scritta su argomenti di Angiologia e chirurgia vascolare.
-
-Il diploma conseguito e' di specializzazione in Angiologia e chirurgia vascolare.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 14 febbraio 1966
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 15 marzo 1966 Atti del Governo, registro n. 202, foglio n. 45. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);, Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzi detta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
   
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 19. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere moderne sono aggiunti quelli di:  
-25) Lingua e letteratura araba;  
-26) Lingue ugro-finniche;  
-27) Paleografia e diplomatica;  
-28) Storia americana;  
-29) Storia dell'Europa orientale;  
-30) Storia della critica letteraria;  
-31) Storia comparata delle letterature europee;  
-32) Lingua e letteratura finlandese;  
-33) Lingue e letterature baltiche;  
-34) Storia contemporanea;  
-35) Lingua e letteratura albanese;  
-36) Letteratura ispano-americana;  
-37) Lingua e letteratura bulgara;  
-38) Lingua e letteratura cecoslovacca;  
-39) Lingua e letteratura olandese e fiamminga;  
-40) Lingua e letteratura serbo-croata;  
-41) Lingua e letteratura slovena;  
-42) Storia delle tradizioni popolari  
-Art. 46. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti quelli di:  
-Scienza dell'alimentazione del bestiame;  
-Chimica analitica (semestrale);  
-Residui e additivi alimentari (semestrale);  
-Fisiopatologia vegetale (semestrale);  
-Micologia (semestrale);  
-Zoologia agraria (semestrale).  
-Gli insegnamenti complementari di "Fitoiatria" e "Virologia vegetale" passano da annuale a semestrale.  
-Dopo l'art. 180, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Angiologia ed in Angiologia e chirurgia vascolare.  
-Art. 181. - Presso la Facolta' di medicina e chirurgia e' istituita la Scuola di specializzazione in Angiologia ed in Angiologia e chirurgia vascolare.  
-La durata dei corsi e' di due anni per il diploma in Angiologia e di tre per il diploma in Angiologia e chirurgia vascolare. Ad essa possono iscriversi soltanto i laureati in Medicina e chirurgia. Le norme generali di iscrizione, esami, pagamento tasse, ecc. sono quelle dello statuto delle scuole di specializzazione dell'Universita' di Milano.  
-Gli insegnanti della scuola sono designati dal Consiglio di Facolta' su proposta del direttore della scuola.  
-Art. 182. - Le materie di insegnamento sono:  
+  
+L'art. 195, relativo alla scuola di specializzazione in cardiologia, e' sostituito dai seguenti con lo spostamento della numerazione degli articoli successivi.  
+  
+Scuola di specializzazione in cardiologia  
+Art. 195. - E' istituita presso l'Universita' degli studi di Milano la scuola di specializzazione in cardiologia che conferisce il diploma di specialista in cardiologia.  
+Art. 196. - La direzione della scuola ha sede presso la fondazione I. Monzino - centro cardiologico, sede della cattedra di cardiologia.  
+Art. 197. - La scuola ha per scopo il conseguimento, successivamente alla laurea, del diploma che legittima l'esercizio professionale con la qualifica di specialista in cardiologia.  
+Art. 198. - La durata del corso e' di quattro anni e non e' suscettibile di abbreviazioni.  
+Art. 199. Il numero degli iscritti e' di quindici per ogni anno e complessivamente di sessanta per l'intero corso di studi.  
+Art. 200. - Alla scuola sono ammessi solo i laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale.  
+Art. 201. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
+a) la tesi nella disciplina attinente alla specializzazione;  
+b) il voto di laurea;  
+c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
+d) le pubblicazioni nelle predette materie.  
+Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale del 16 settembre 1982. Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
+Art. 202. - Le materie di insegnamento, tutte afferenti alla facolta' di medicina e chirurgia, sono le seguenti:  
 1° Anno:  
-Anatomia macro e microscopica e radiologia dell'apparato vascolare;  
-Fisiologia della circolazione periferica;  
-Anatomia e fisiologia patologica delle alterazioni morbose dell'apparato vascolare;  
-Fisiopatologia della coagulazione e vasculopatie;  
-Semeiologia fisica e strumentale dell'apparato vascolare;  
-Le angiopatie in medicina;  
-Le angiopatie dei tegumenti.  
+1) anatomia umana normale ed embriologia dell'apparato cardiovascolare;  
+2) fisiologia dell'apparato cardiovascolare (1° corso);  
+3) biochimica e biofisica;  
+4) semeiotica fisica e strumentale dell'apparato cardiovascolare (1° corso);  
+5) informatica medica e strumentazione biomedica (1° corso).  
 2° Anno:  
-Arteriopatie;  
-Flebopatie;  
-Lesioni dei piccoli vasi e linfopatie;  
-Terapia medica delle angiopatie;  
-Chirurgia vascolare.  
+1) anatomia patologica (1° corso);  
+2) fisiologia dell'apparato cardiovascolare (2° corso);  
+3) patologia e clinica cardiovascolare (1° corso);  
+4) semeiotica fisica e strumentale dell'apparato cardiovascolare (2° corso);  
+5) informatica medica e strumentazione biomedica (2° corso);  
+6) radiologia (1° corso);  
+7) aspetti sociali ed epidemiologici delle malattie cardiovascolari.  
 3° Anno:  
-Pratica clinica;  
-Attivita' sperimentale e operatoria nel campo vascolare; 3 Lezioni e conferenze.  
-L'insegnamento sara' dottrinario e pratico. Gli iscritti hanno l'obbligo di frequenza sia alle lezioni che al tirocinio pratico.  
-Gli iscritti al 3° corso hanno obbligo di un internato giornaliero effettivo per un anno.  
-Art. 183. - Il numero massimo di laureati che possono iscriversi al 10 anno della Scuola e' di 25. Sono ammessi agli anni successivi gli allievi che hanno superato tutti gli esami dell'anno del corso frequentato.  
-Art. 184. - Alla fine del primo biennio gli specializzandi che hanno frequentato i corsi e superato gli esami possono essere ammessi ad un esame di diploma Angiologia consistente nella discussione di una tesi scritta di argomento di Angiologia.  
-Il diploma conseguito e' di specializzazione in Angiologia.  
-Art. 185. - Alla fine del triennio gli specializzandi che hanno compiuto il loro internato dovranno superare una prova orale teorica ed una prova pratica, prima di essere ammessi all'esame di diploma.  
-L'esame di diploma consistera' nella discussione di una tesi scritta su argomenti di Angiologia e chirurgia vascolare.  
-Il diploma conseguito e' di specializzazione in Angiologia e chirurgia vascolare.  
+1) anatomia patologica (2° corso);  
+2) semeiotica fisica e strumentale dell'apparato cardiovascolare (3° corso);  
+3) patologia e clinica cardiovascolare (2° corso);  
+4) radiologia (2° corso);  
+5) terapia medica e farmacologia clinica (1° corso).  
+4° Anno:  
+1) semeiotica fisica e strumentale dell'apparato cardiovascolare (4° corso);  
+2) patologia e clinica cardiovascolare (3° corso);  
+3) terapia medica e farmacologia clinica (2° corso);  
+4) terapia chirurgica;  
+5) terapie intensive cardiologiche.  
+Inoltre sono previste le seguenti materie opzionali:  
+cardiologia sportiva;  
+psicologia applicata alla cardiologia;  
+medicina legale.  
+Art. 203. - La frequenza ai corsi e' obbligatoria. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola e i docenti delle materie relative all'anno in corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame, potranno ripetere l'anno di corso una sola volta.  
+Art. 204. - Durante i quattro anni di corso e' richiesta, salvo legittimi impedimenti, la frequenza continuativa per dieci mesi all'anno presso la Fondazione I. Monzino - centro cardiologico, sede della cattedra di cardiologia, secondo le modalita' seguenti:  
+1° Anno:  
+reparti clinici di degenza.  
+2° Anno:  
+reparto di cura intensiva cardiologica, laboratori di diagnostica non invasiva, ambulatori.  
+3° Anno:  
+reparto di cura intensiva cardiologica, laboratori di diagnostica non invasiva, laboratori di emodinamica, ambulatori.  
+4° Anno:  
+laboratori di diagnostica non invasiva, laboratori di emodinamica, reparto di rianimazione cardiochirurgica, reparto di cardiologia pediatrica, ambulatori, reparti clinici di degenza, cardiologia sperimentale. La frequenza nei vari settori avverra' secondo rotazioni che assicurino ad ogni specializzando un adeguato periodo di esperienza clinica e formazione scientifica.  
+A partire dal terzo anno sara' riconosciuta, ai fini della frequenza, l'attivita' svolta in strutture cardiologiche, assistenziali o di ricerca, anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), ove queste siano riconosciute idonee dal consiglio della scuola a completare o perfezionare la preparazione dello specializzando.  
+Art. 205. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola si conclude con un esame finale, consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.  
+A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista in cardiologia.  
+Art. 206. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
+Art. 207. - Il consiglio della scuola e' presieduto da un direttore ed e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).  
+Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento degli insegnamenti.  
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni nella scuola stessa.  
+In caso di motivato impedimento, la direzione della scuola e' affidata a professore associato che insegni anche nella scuola medesima.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 febbraio 1966
+### Dato a Roma, addi' 18 marzo 1985
 
-SARAGAT GUI
+PERTINI
 
-Visto, il Guardasigilli: REALE
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 15 marzo 1966
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Atti del Governo, registro n. 202, foglio n. 45. - VILLA
+Registrato alla Corte dei conti, addi' 30 settembre 1985
+
+Registro n. 66 Istruzione, foglio n. 142

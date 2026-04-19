@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1977 n. 865
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 giugno 1976 n. 577
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1977 n. 865
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 giugno 1976 n. 577
+=============================================================
 
 Modificazioni allo statuto del libero Istituto universitario di medicina e chirurgia dell'Aquila.
 -------------------------------------------------------------------------------------------------

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 954
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1978 n. 510
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 954
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1978 n. 510
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Sassari.
 -------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Sassari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084) e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1004](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1004) e' modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -24,87 +24,455 @@ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte 
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 77 - all'elenco delle scuole di specializzazione annesse alle facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in malattie dell'apparato cardiovascolare.
+Art. 77 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in anestesia e rianimazione.
 
-Dopo l'art. 137, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in malattie dell'apparato cardiovascolare di cui all'art. 77.
+Gli articoli 120, 121, 122, 123, 124, 125, relativi alla scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio, sono abrogati e sostituiti dai seguenti:
 
-Scuola di specializzazione in malattie dell'apparato cardiovascolare
+Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio
 
-Art. 138. - Il corso della scuola di specializzazione ha la durata di tre anni.
+Art. 120. - La scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio ha sede presso l'istituto di tisiologia e malattie dell'apparato respiratorio e conferisce il diploma di specialista in tisiologia e malattie dell'apparato respiratorio.
 
-La scuola ha sede presso l'istituto di clinica medica generale.
+Art. 121. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della scuola di specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
 
-Art. 139. - Alla scuola sono ammessi sei candidati per ciascun anno accademico.
+Art. 122. - Possono iscriversi alla scuola i laureati in medicina e chirurgia.
 
-L'ammissione alla scuola di specializzazione avviene in base ai titoli di studio e di carriera previo accertamento mediante colloquio o prova scritta di idonea preparazione culturale da parte del candidato.
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
 
-La frequenza alla scuola di specializzazione e' obbligatoria per almeno nove mesi all'anno.
+Art. 123. - La durata del corso di studi e' di 4 anni e non e' suscettibile di abbreviazione.
 
-Essa consiste nella partecipazione alle lezioni e alle esercitazioni teorico-pratiche nel servizio, nei reparti, in particolare nell'unita' di cura intensiva coronaria e nell'ambulatorio del centro cardiologico.
+Art. 124. - Il numero massimo degli allievi e' di 4 per anno di corso e complessivamente di 16 iscritti per l'intero corso di studi.
 
-Art. 140. - Alla fine di ogni anno di corso gli allievi dovranno sostenere tutti gli esami speciali per poter essere ammessi all'anno successivo. Alla fine del terzo anno del corso degli studi, dopo aver superato tutti gli esami speciali, gli allievi dovranno sostenere l'esame di diploma consistente nella discussione di una dissertazione scritta su un argomento di patologia o fisiopatologia o clinica cardiologica, la cui scelta sia stata concordata fra diplomando e direttore della scuola durante il secondo anno.
+L'ammissione al corso avviene per titoli ed esami.
 
-La dissertazione, previamente approvata dal direttore, dovra' essere depositata presso la segreteria della Universita' almeno quindici giorni prima dell'esame.
-
-I candidati non riconosciuti idonei all'esame di diploma potranno ripresentarsi dopo un altro anno di frequenza alla scuola. Ma se al secondo esame non e' loro riconosciuta l'idoneita', saranno esclusi da ulteriori prove.
-
-Art. 141. - Gli insegnamenti della scuola in malattie cardiovascolari sono i seguenti:
+Art. 125. - Le materie di insegnamento sono le seguenti:
 
 1° Anno:
 
-anatomia normale dell'apparato cardiovascolare;
+anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) I;
 
-fisiologia dell'apparato cardiovascolare e respiratorio;
+patologia della tubercolosi polmonare ed extrapolmonare;
 
-fisiopatologia cardiovascolare e respiratoria (biennale 1°);
+patologia dell'apparato respiratorio;
 
-patologia cardiovascolare (biennale 1°);
+fisiologia e fisiopatologia generale dell'apparato respiratorio;
 
-semeiologia fisica (biennale 1°);
+semeiotica fisica e funzionale dell'apparato respiratorio;
 
-semeiologia strumentale (biennale 1°).
+microbiologia;
+
+epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.
 
 2° Anno:
 
-fisiopatologia cardiovascolare e respiratoria (biennale 2°);
+anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) II,
 
-patologia cardiovascolare (biennale 2°);
+clinica della tubercolosi (triennale) I;
 
-semeiologia fisica (biennale 2°);
+clinica delle malattie dell'apparato respiratorie (triennale) I;
 
-semeiologia strumentale (biennale 2°);
+fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;
 
-anatomia patologica dell'apparato cardiovascolare (biennale 1°);
+broncologia;
 
-radiologia;
+radiologia dell'apparato respiratorio;
 
-farmacologia;
+profilassi della tubercolosi;
 
-clinica e terapia (biennale 1°).
+igiene e legislazione sociale.
 
 3° Anno:
 
-anatomia patologica dell'apparato cardiovascolare (biennale 2°);
+clinica delle malattie dell'appaiato respiratorie (triennale) II;
 
-clinica e terapia (biennale 2°);
+clinica della tubercolosi (triennale) II;
 
-chirurgia dell'apparato cardiovascolare;
+chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;
 
-problemi assicurativi e sociali (facoltativo).
+terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;
 
-Art. 142. - Le tasse e soprattasse per gli iscritti alla scuola di specializzazione in malattie dell'apparato cardiovascolare, sono fissate come segue:
+terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.
 
-tassa di immatricolazione. . . . . . . . . . . . . . . . . . L. 6.000 tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 60.000 soprattassa annuale esami di profitto. . . . . . . . . . . . L. 7.000 soprattassa esame di diploma . . . . . . . . . . . . . . . . L. 3.000 tassa annuale per i fuori corso . . . . . . . . . . . . . . L. 50.000
+4° Anno:
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+clinica delle malattie dell'apparato respiratorie (triennale) III;
 
-Dato a Roma, addi' 31 ottobre 1975
+clinica della tubercolosi (triennale) III.
+
+Gli insegnamenti complementari che possono essere inseriti negli statuti sono i seguenti:
+
+immunologia clinica;
+
+cardiologia;
+
+medicina nucleare;
+
+malattie professionali dell'apparato respiratorio;
+
+terapia intensiva pneumologica.
+
+I corsi di insegnamento sono integrati da conferenze, da esercitazioni pratiche, da seminari interdisciplinari (questi ultimi prevalentemente destinati al 4° anno) e da turni di internato, per i quali gli allievi hanno l'obbligo di frequenza al pari delle lezioni.
+
+Alla fine di ogni anno di corso gli allievi dovranno superare una prova di esame sulle materie del rispettivo anno.
+
+Alla fine del 4° anno gli allievi dovranno sostenere l'esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione assegnato dal direttore della scuola o da uno degli insegnanti della scuola.
+
+Gli articoli 126, 127, relativi alla scuola di specializzazione in igiene e medicina preventiva, sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in igiene e medicina preventiva
+
+Art. 126. - La scuola di specializzazione in igiene e medicina preventiva ha sede presso l'istituto di igiene e conferisce il diploma di specialista in igiene e medicina preventiva.
+
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
+
+Il numero massimo degli allievi e' di 5 per anno di corso e complessivamente di 20 iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Il corso si articola in un biennio propedeutico seguito da un biennio differenziato con cinque orientamenti e precisamente:
+
+a) sanita' pubblica;
+
+b) igiene e tecnica ospedaliera;
+
+c) igiene del lavoro;
+
+d) igiene e medicina scolastica;
+
+e) laboratorio.
+
+Art. 127. - Il piano di studi e' il seguente:
+
+I BIENNIO
+
+1° Anno:
+
+metodologia statistica e biometria;
+
+educazione sanitaria;
+
+psicologia;
+
+microbiologia ed immunologia I;
+
+parassitologia;
+
+epidemiologia generale e metodologia;
+
+profilassi generale;
+
+sociologia medica e antropologia culturale.
+
+2° Anno:
+
+microbiologia ed immunologia II;
+
+patologia e clinica delle malattie infettive;
+
+epidemiologia e profilassi delle malattie infettive I;
+
+patologia e clinica delle malattie non infettive di importanza sociale;
+
+epidemiologia e profilassi delle malattie non infettive di importanza sociale I;
+
+demografia e statistica sanitaria;
+
+legislazione e programmazione sanitarie.
+
+II BIENNIO
+
+a) ORIENTAMENTO DI SANITA' PUBBLICA.
+
+3° Anno:
+
+epidemiologia e profilassi delle malattie infettive II;
+
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
+
+igiene dell'ambiente fisico e difesa ecologica;
+
+igiene degli alimenti e della nutrizione;
+
+igiene dell'eta' evolutiva;
+
+igiene del lavoro;
+
+igiene ed assistenza dell'anziano.
+
+4° Anno:
+
+igiene edilizia e dell'aggregato urbano;
+
+igiene ospedaliera;
+
+organizzazione del territorio e programmazione sanitaria;
+
+medicina di comunita';
+
+economia sanitaria;
+
+elementi di diritto amministrativo.
+
+b) ORIENTAMENTO DI IGIENE E TECNICA OSPEDALIERA.
+
+3° Anno:
+
+epidemiologia e profilassi delle malattie infettive II;
+
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
+
+igiene dell'ambiente fisico e difesa ecologica;
+
+igiene e tecnica delle costruzioni ospedaliere; arredamenti ed impianti tecnologici;
+
+igiene dell'alimentazione e dietetica ospedaliera;
+
+organizzazione e funzionamento degli ospedali I;
+
+elementi di diritto e legislazione ospedaliera.
+
+4° Anno:
+
+organizzazione e funzionamento degli ospedali II;
+
+compiti ed attribuzione della direzione sanitaria;
+
+formazione professionale e compiti del personale ospedaliero; programmazione ospedaliera e medicina di comunita';
+
+assistenza psichiatrica;
+
+aspetti socio-sanitari dell'ospitalismo;
+
+aspetti economici della gestione ospedaliera.
+
+c) ORIENTAMENTO DI IGIENE DEL LAVORO.
+
+3° Anno:
+
+epidemiologia e profilassi delle malattie infettive II;
+
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
+
+igiene dell'ambiente fisico e difesa ecologica;
+
+epidemiologia e profilassi delle malattie del lavoro;
+
+tecnica ed economia degli impianti industriali;
+
+tossicologia industriale e diagnostica di laboratorio;
+
+elementi di fisica tecnica applicata all'igiene;
+
+igiene dell'ambiente di lavoro I.
+
+4° Anno:
+
+igiene dell'ambiente di lavoro II;
+
+elementi di diritto e legislazione del lavoro;
+
+psicologia del lavoro;
+
+prevenzione degli infortuni;
+
+politica del territorio ed insediamenti industriali;
+
+igiene del lavoro e medicina di comunita'.
+
+d)ORIENTAMENTO DI IGIENE E MEDICINA SCOLASTICA.
+
+3° Anno:
+
+epidemiologia e profilassi delle malattie infettive II;
+
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
+
+igiene dell'ambiente fisico e difesa ecologica;
+
+clinica delle malattie dell'eta' evolutiva;
+
+epidemiologia e profilassi delle malattie dell'eta' evolutiva; igiene degli alimenti e della nutrizione;
+
+auxologia normale e patologica;
+
+psicologia dell'eta' evolutiva.
+
+4° Anno:
+
+servizi di medicina scolastica;
+
+edilizia ed arredamento scolastico;
+
+elementi di pedagogia;
+
+assistenza parascolastica;
+
+educazione sanitaria nella scuola;
+
+legislazione scolastica;
+
+igiene mentale.
+
+e) ORIENTAMENTO DI LABORATORIO.
+
+3° Anno:
+
+epidemiologia e profilassi delle malattie infettive II;
+
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
+
+igiene dell'ambiente fisico e difesa ecologica;
+
+metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale I;
+
+metodi e dosaggi biologici per il controllo dell'inquinamento ambientale;
+
+strumentazione e metodologie chimico-cliniche ed ematologiche I;
+
+microscopia applicata all'igiene;
+
+elementi di fisica tecnica applicata all'igiene;
+
+accertamento diagnostico delle malattie infettive e parassitarie I.
+
+4° Anno:
+
+metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale II;
+
+accertamento diagnostico delle malattie infettive e parassitarie II;
+
+strumentazione e metodologie chimico-cliniche ed ematologiche II;
+
+ispezione e controllo degli alimenti;
+
+elementi di informatica.
+
+Gli esami relativi alle discipline svolte con insegnamento biennale verranno sostenuti alla fine di detti insegnamenti.
+
+I corsi saranno completati da insegnamenti complementari scelti dalla scuola tra i seguenti:
+
+Materie complementari:
+
+automazione del sistema ospedaliero;
+
+biochimica applicata;
+
+climatologia;
+
+diritto sanitario internazionale;
+
+elementi di medicina legale;
+
+genetica umana;
+
+geologia applicata all'igiene;
+
+idrologia;
+
+igiene del clima tropicali;
+
+igiene dei trasporti;
+
+igiene militare;
+
+igiene rurale;
+
+istituzioni di matematiche;
+
+micologia;
+
+radioprotezionistica.
+
+A giudizio della scuola possono essere indicati come complementari anche altri insegnamenti regolarmente attivati nei corsi di laurea di ciascuna Universita'.
+
+I corsi saranno integrati da un tirocinio pratico di durata comunque non inferiore a 3 mesi, da svolgersi durante il secondo biennio.
+
+La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Alla fine di ogni anno di corso gli iscritti per essere ammessi agli esami di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno; per le materie a corso pluriennale l'esamne sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del corso di studi per il conseguimento del diploma di specializzazione in igiene e medicina preventiva, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+Dopo l'art. 137, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in anestesia e rianimazione.
+
+Scuola di specializzazione in anestesia e rianimazione
+
+Art. 138. - La scuola di specializzazione in anestesia e rianimazione ha sede presso la cattedra di anestesia e rianimazione, e conferisce il diploma di specialista in anestesia e rianimazione.
+
+Art. 139. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Art. 140. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto almeno all'inizio del corso il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+Art. 141. - La durata del corso di studi e' di 3 anni e non e' suscettibile di abbreviazione.
+
+Art. 142. - Il numero massimo degli allievi e' di 10 per anno di corso e complessivamente di 30 iscritti per l'intero corso di studi.
+
+Art. 143. - L'ammissione al corso avviene per titoli ad esami.
+
+Art. 144. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+1) anatomia applicata alla anestesia ed alla rianimazione;
+
+2) biochimica applicata all'enestesia ed alla rianimazione;
+
+3) farmacologia applicata all'anestesia e alla rianimazione;
+
+4) fisica applicata all'anestesia ed alla rianimazione;
+
+5) fisiologia applicata all'anestesia ed alla rianimazione;
+
+6) anestesiologia (I);
+
+7) tecniche chirurgiche di interesse anestesiologiro;
+
+8) aspetti medico-legali dell'anestesia e della rianimazione;
+
+9) esercitazioni pratiche.
+
+2° Anno:
+
+1) anestesiologia (II);
+
+2) terapia antalgica;
+
+3) rianimazione (I);
+
+4) esercitazioni pratiche.
+
+3° Anno:
+
+1) rianimazione (II);
+
+2) tecniche speciali di anestesia;
+
+3) tecniche speciali di rianimazione;
+
+4) indagini diagnostiche attinenti alla specialita';
+
+5) esercitazioni pratiche.
+
+Art. 145. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Art. 146. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in anestesia e rianimazione gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+Il presente decreto, munito di sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 18 febbraio 1978
 
 LEONE
 
@@ -115,72 +483,266 @@ Visto, il Guardasigilli: BONIFACIO
 Registrato
 ----------
 
-alla Corte dei conti, addi' 30 marzo 1976 Atti di Governo, registro n. 4, foglio n. 45
+alla Corte dei conti, addi' 24 agosto 1978 Registro n. 95 Istruzione, foglio n. 12
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084) e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Sassari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1004](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1004) e' modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Sassari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 77 - all'elenco delle scuole di specializzazione annesse alle facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in malattie dell'apparato cardiovascolare.  
-Dopo l'art. 137, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in malattie dell'apparato cardiovascolare di cui all'art. 77.  
-Scuola di specializzazione in malattie dell'apparato cardiovascolare  
-Art. 138. - Il corso della scuola di specializzazione ha la durata di tre anni.  
-La scuola ha sede presso l'istituto di clinica medica generale.  
-Art. 139. - Alla scuola sono ammessi sei candidati per ciascun anno accademico.  
-L'ammissione alla scuola di specializzazione avviene in base ai titoli di studio e di carriera previo accertamento mediante colloquio o prova scritta di idonea preparazione culturale da parte del candidato.  
-La frequenza alla scuola di specializzazione e' obbligatoria per almeno nove mesi all'anno.  
-Essa consiste nella partecipazione alle lezioni e alle esercitazioni teorico-pratiche nel servizio, nei reparti, in particolare nell'unita' di cura intensiva coronaria e nell'ambulatorio del centro cardiologico.  
-Art. 140. - Alla fine di ogni anno di corso gli allievi dovranno sostenere tutti gli esami speciali per poter essere ammessi all'anno successivo. Alla fine del terzo anno del corso degli studi, dopo aver superato tutti gli esami speciali, gli allievi dovranno sostenere l'esame di diploma consistente nella discussione di una dissertazione scritta su un argomento di patologia o fisiopatologia o clinica cardiologica, la cui scelta sia stata concordata fra diplomando e direttore della scuola durante il secondo anno.  
-La dissertazione, previamente approvata dal direttore, dovra' essere depositata presso la segreteria della Universita' almeno quindici giorni prima dell'esame.  
-I candidati non riconosciuti idonei all'esame di diploma potranno ripresentarsi dopo un altro anno di frequenza alla scuola. Ma se al secondo esame non e' loro riconosciuta l'idoneita', saranno esclusi da ulteriori prove.  
-Art. 141. - Gli insegnamenti della scuola in malattie cardiovascolari sono i seguenti:  
-1° Anno:  
-anatomia normale dell'apparato cardiovascolare;  
-fisiologia dell'apparato cardiovascolare e respiratorio;  
-fisiopatologia cardiovascolare e respiratoria (biennale 1°);  
-patologia cardiovascolare (biennale 1°);  
-semeiologia fisica (biennale 1°);  
-semeiologia strumentale (biennale 1°).  
-2° Anno:  
-fisiopatologia cardiovascolare e respiratoria (biennale 2°);  
-patologia cardiovascolare (biennale 2°);  
-semeiologia fisica (biennale 2°);  
-semeiologia strumentale (biennale 2°);  
-anatomia patologica dell'apparato cardiovascolare (biennale 1°);  
-radiologia;  
-farmacologia;  
-clinica e terapia (biennale 1°).  
-3° Anno:  
-anatomia patologica dell'apparato cardiovascolare (biennale 2°);  
-clinica e terapia (biennale 2°);  
-chirurgia dell'apparato cardiovascolare;  
-problemi assicurativi e sociali (facoltativo).  
-Art. 142. - Le tasse e soprattasse per gli iscritti alla scuola di specializzazione in malattie dell'apparato cardiovascolare, sono fissate come segue:  
+Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 77 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in anestesia e rianimazione.   
+Gli articoli 120, 121, 122, 123, 124, 125, relativi alla scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio, sono abrogati e sostituiti dai seguenti:   
   
-tassa di immatricolazione. . . . . . . . . . . . . . . . . . L. 6.000 tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 60.000 soprattassa annuale esami di profitto. . . . . . . . . . . . L. 7.000 soprattassa esame di diploma . . . . . . . . . . . . . . . . L. 3.000 tassa annuale per i fuori corso . . . . . . . . . . . . . . L. 50.000   
+Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio   
+  
+Art. 120. - La scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio ha sede presso l'istituto di tisiologia e malattie dell'apparato respiratorio e conferisce il diploma di specialista in tisiologia e malattie dell'apparato respiratorio.   
+Art. 121. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della scuola di specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 122. - Possono iscriversi alla scuola i laureati in medicina e chirurgia.   
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+Art. 123. - La durata del corso di studi e' di 4 anni e non e' suscettibile di abbreviazione.   
+Art. 124. - Il numero massimo degli allievi e' di 4 per anno di corso e complessivamente di 16 iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Art. 125. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) I;   
+patologia della tubercolosi polmonare ed extrapolmonare;   
+patologia dell'apparato respiratorio;   
+fisiologia e fisiopatologia generale dell'apparato respiratorio;   
+semeiotica fisica e funzionale dell'apparato respiratorio;   
+microbiologia;   
+epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.   
+2° Anno:   
+anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) II,   
+clinica della tubercolosi (triennale) I;   
+clinica delle malattie dell'apparato respiratorie (triennale) I;   
+fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;   
+broncologia;   
+radiologia dell'apparato respiratorio;   
+profilassi della tubercolosi;   
+igiene e legislazione sociale.   
+3° Anno:   
+clinica delle malattie dell'appaiato respiratorie (triennale) II;   
+clinica della tubercolosi (triennale) II;   
+chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;   
+terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;   
+terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.   
+4° Anno:   
+clinica delle malattie dell'apparato respiratorie (triennale) III;   
+clinica della tubercolosi (triennale) III.   
+Gli insegnamenti complementari che possono essere inseriti negli statuti sono i seguenti:   
+immunologia clinica;   
+cardiologia;   
+medicina nucleare;   
+malattie professionali dell'apparato respiratorio;   
+terapia intensiva pneumologica.   
+I corsi di insegnamento sono integrati da conferenze, da esercitazioni pratiche, da seminari interdisciplinari (questi ultimi prevalentemente destinati al 4° anno) e da turni di internato, per i quali gli allievi hanno l'obbligo di frequenza al pari delle lezioni.   
+Alla fine di ogni anno di corso gli allievi dovranno superare una prova di esame sulle materie del rispettivo anno.   
+Alla fine del 4° anno gli allievi dovranno sostenere l'esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione assegnato dal direttore della scuola o da uno degli insegnanti della scuola.   
+Gli articoli 126, 127, relativi alla scuola di specializzazione in igiene e medicina preventiva, sono abrogati e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in igiene e medicina preventiva   
+  
+Art. 126. - La scuola di specializzazione in igiene e medicina preventiva ha sede presso l'istituto di igiene e conferisce il diploma di specialista in igiene e medicina preventiva.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
+Il numero massimo degli allievi e' di 5 per anno di corso e complessivamente di 20 iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Il corso si articola in un biennio propedeutico seguito da un biennio differenziato con cinque orientamenti e precisamente:   
+a) sanita' pubblica;   
+b) igiene e tecnica ospedaliera;   
+c) igiene del lavoro;   
+d) igiene e medicina scolastica;   
+e) laboratorio.   
+Art. 127. - Il piano di studi e' il seguente:   
+  
+I BIENNIO   
+  
+1° Anno:   
+metodologia statistica e biometria;   
+educazione sanitaria;   
+psicologia;   
+microbiologia ed immunologia I;   
+parassitologia;   
+epidemiologia generale e metodologia;   
+profilassi generale;   
+sociologia medica e antropologia culturale.   
+2° Anno:   
+microbiologia ed immunologia II;   
+patologia e clinica delle malattie infettive;   
+epidemiologia e profilassi delle malattie infettive I;   
+patologia e clinica delle malattie non infettive di importanza sociale;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale I;   
+demografia e statistica sanitaria;   
+legislazione e programmazione sanitarie.   
+  
+II BIENNIO   
+  
+a) ORIENTAMENTO DI SANITA' PUBBLICA.   
+3° Anno:   
+epidemiologia e profilassi delle malattie infettive II;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
+igiene dell'ambiente fisico e difesa ecologica;   
+igiene degli alimenti e della nutrizione;   
+igiene dell'eta' evolutiva;   
+igiene del lavoro;   
+igiene ed assistenza dell'anziano.   
+4° Anno:   
+igiene edilizia e dell'aggregato urbano;   
+igiene ospedaliera;   
+organizzazione del territorio e programmazione sanitaria;   
+medicina di comunita';   
+economia sanitaria;   
+elementi di diritto amministrativo.   
+b) ORIENTAMENTO DI IGIENE E TECNICA OSPEDALIERA.   
+3° Anno:   
+epidemiologia e profilassi delle malattie infettive II;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
+igiene dell'ambiente fisico e difesa ecologica;   
+igiene e tecnica delle costruzioni ospedaliere; arredamenti ed impianti tecnologici;   
+igiene dell'alimentazione e dietetica ospedaliera;   
+organizzazione e funzionamento degli ospedali I;   
+elementi di diritto e legislazione ospedaliera.   
+4° Anno:   
+organizzazione e funzionamento degli ospedali II;   
+compiti ed attribuzione della direzione sanitaria;   
+formazione professionale e compiti del personale ospedaliero; programmazione ospedaliera e medicina di comunita';   
+assistenza psichiatrica;   
+aspetti socio-sanitari dell'ospitalismo;   
+aspetti economici della gestione ospedaliera.   
+c) ORIENTAMENTO DI IGIENE DEL LAVORO.   
+3° Anno:   
+epidemiologia e profilassi delle malattie infettive II;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
+igiene dell'ambiente fisico e difesa ecologica;   
+epidemiologia e profilassi delle malattie del lavoro;   
+tecnica ed economia degli impianti industriali;   
+tossicologia industriale e diagnostica di laboratorio;   
+elementi di fisica tecnica applicata all'igiene;   
+igiene dell'ambiente di lavoro I.   
+4° Anno:   
+igiene dell'ambiente di lavoro II;   
+elementi di diritto e legislazione del lavoro;   
+psicologia del lavoro;   
+prevenzione degli infortuni;   
+politica del territorio ed insediamenti industriali;   
+igiene del lavoro e medicina di comunita'.   
+d)ORIENTAMENTO DI IGIENE E MEDICINA SCOLASTICA.   
+3° Anno:   
+epidemiologia e profilassi delle malattie infettive II;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
+igiene dell'ambiente fisico e difesa ecologica;   
+clinica delle malattie dell'eta' evolutiva;   
+epidemiologia e profilassi delle malattie dell'eta' evolutiva; igiene degli alimenti e della nutrizione;   
+auxologia normale e patologica;   
+psicologia dell'eta' evolutiva.   
+4° Anno:   
+servizi di medicina scolastica;   
+edilizia ed arredamento scolastico;   
+elementi di pedagogia;   
+assistenza parascolastica;   
+educazione sanitaria nella scuola;   
+legislazione scolastica;   
+igiene mentale.   
+e) ORIENTAMENTO DI LABORATORIO.   
+3° Anno:   
+epidemiologia e profilassi delle malattie infettive II;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
+igiene dell'ambiente fisico e difesa ecologica;   
+metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale I;   
+metodi e dosaggi biologici per il controllo dell'inquinamento ambientale;   
+strumentazione e metodologie chimico-cliniche ed ematologiche I;   
+microscopia applicata all'igiene;   
+elementi di fisica tecnica applicata all'igiene;   
+accertamento diagnostico delle malattie infettive e parassitarie I.   
+4° Anno:   
+metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale II;   
+accertamento diagnostico delle malattie infettive e parassitarie II;   
+strumentazione e metodologie chimico-cliniche ed ematologiche II;   
+ispezione e controllo degli alimenti;   
+elementi di informatica.   
+Gli esami relativi alle discipline svolte con insegnamento biennale verranno sostenuti alla fine di detti insegnamenti.   
+I corsi saranno completati da insegnamenti complementari scelti dalla scuola tra i seguenti:   
+Materie complementari:   
+automazione del sistema ospedaliero;   
+biochimica applicata;   
+climatologia;   
+diritto sanitario internazionale;   
+elementi di medicina legale;   
+genetica umana;   
+geologia applicata all'igiene;   
+idrologia;   
+igiene del clima tropicali;   
+igiene dei trasporti;   
+igiene militare;   
+igiene rurale;   
+istituzioni di matematiche;   
+micologia;   
+radioprotezionistica.   
+A giudizio della scuola possono essere indicati come complementari anche altri insegnamenti regolarmente attivati nei corsi di laurea di ciascuna Universita'.   
+I corsi saranno integrati da un tirocinio pratico di durata comunque non inferiore a 3 mesi, da svolgersi durante il secondo biennio.   
+La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Alla fine di ogni anno di corso gli iscritti per essere ammessi agli esami di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno; per le materie a corso pluriennale l'esamne sara' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di studi per il conseguimento del diploma di specializzazione in igiene e medicina preventiva, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+Dopo l'art. 137, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in anestesia e rianimazione.   
+  
+Scuola di specializzazione in anestesia e rianimazione   
+  
+Art. 138. - La scuola di specializzazione in anestesia e rianimazione ha sede presso la cattedra di anestesia e rianimazione, e conferisce il diploma di specialista in anestesia e rianimazione.   
+Art. 139. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 140. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto almeno all'inizio del corso il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+Art. 141. - La durata del corso di studi e' di 3 anni e non e' suscettibile di abbreviazione.   
+Art. 142. - Il numero massimo degli allievi e' di 10 per anno di corso e complessivamente di 30 iscritti per l'intero corso di studi.   
+Art. 143. - L'ammissione al corso avviene per titoli ad esami.   
+Art. 144. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+1) anatomia applicata alla anestesia ed alla rianimazione;   
+2) biochimica applicata all'enestesia ed alla rianimazione;   
+3) farmacologia applicata all'anestesia e alla rianimazione;   
+4) fisica applicata all'anestesia ed alla rianimazione;   
+5) fisiologia applicata all'anestesia ed alla rianimazione;   
+6) anestesiologia (I);   
+7) tecniche chirurgiche di interesse anestesiologiro;   
+8) aspetti medico-legali dell'anestesia e della rianimazione;   
+9) esercitazioni pratiche.   
+2° Anno:   
+1) anestesiologia (II);   
+2) terapia antalgica;   
+3) rianimazione (I);   
+4) esercitazioni pratiche.   
+3° Anno:   
+1) rianimazione (II);   
+2) tecniche speciali di anestesia;   
+3) tecniche speciali di rianimazione;   
+4) indagini diagnostiche attinenti alla specialita';   
+5) esercitazioni pratiche.   
+Art. 145. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Art. 146. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in anestesia e rianimazione gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+  
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito di sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1975
+### Dato a Roma, addi' 18 febbraio 1978
 
 LEONE MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 30 marzo 1976
+Registrato alla Corte dei conti, addi' 24 agosto 1978
 
-Atti di Governo, registro n. 4, foglio n. 45
+Registro n. 95 Istruzione, foglio n. 12

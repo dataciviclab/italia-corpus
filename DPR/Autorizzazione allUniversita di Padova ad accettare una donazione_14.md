@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1954 n. 708
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1953 n. 910
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1954 n. 708
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1953 n. 910
 =============================================================
 
 Autorizzazione all'Universita' di Padova ad accettare una donazione.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-708. Decreto del Presidente della Repubblica 19 maggio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Padova viene autorizzata ad accettare la donazione di L. 100.000 nominali, investita in titoli dello Stato, intestati all'Universita' medesima, disposta in suo favore dal sig. Fortunato Lion Stoppato, anche a nome e per conto della consorte signora Noemi Lion, con atto pubblico amministrativo 17 agosto 1953, per l'istituzione, con la relativa rendita, di un premio di studio intitolato "Premio di studio dott. Mario Lion Stoppato" e da conferirsi per concorso, ogni due anni, ad uno studente iscritto al quinto corso per la laurea in chimica, il quale nell'anno accademico precedente abbia superato con profitto gli esami indicati nel piano di studio consigliato dalla Facolta' di scienze matematiche) fisiche e naturali, o un numero corrispondente, versi in condizioni economiche disagiate e sia nato nella citta' di Padova o provincia.  
+910. Decreto del Presidente della Repubblica 12 maggio 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Padova viene autorizzata ad accettare la donazione di L. 1.000.000 nominali, in titoli di Stato intestati all'Universita' medesima con annotazione di vincolo, disposta in suo favore dal prof. Egidio Meneghetti fu Umberto, con atto pubblico amministrativo in data 22 ottobre 1952, per l'istituzione, con la rendita del capitale donato, di un premio di studio da intitolarsi "Premio Maria e Lina Meneghetti", e da conferirsi, ogni due anni, ad una studentessa dell'Universita' di Padova autrice della migliore tesi di laurea in letteratura francese o inglese o tedesca oppure su argomento che interessi prevalentemente la cinematografia.  
   
-Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 13 agosto 1954  
-Atti del Governo, registro n. 85, foglio n. 42. - TEMPESTA
+Visto, il Guardasigilli: ZOLI  
+Registrato alla Corte dei conti, addi' 7 dicembre 1953  
+Atti del Governo, registro n. 80, foglio n. 63. - PALLA

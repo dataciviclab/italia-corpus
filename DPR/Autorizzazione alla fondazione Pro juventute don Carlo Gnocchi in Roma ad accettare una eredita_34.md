@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 ottobre 1978 n. 694
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1985 n. 201
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 ottobre 1978 n. 694
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1985 n. 201
+============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------------
@@ -12,14 +12,8 @@ Art. 1
 
 N.
 
-694. Decreto del Presidente della Repubblica 6 ottobre 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dal sig. Bonecchi Adelmo fu Ferdinando, con testamenti olografi in data 12 novembre 1973 e 28 maggio 1974, pubblicati a rogito notaio dott. Paolo Consolandi in data 2 dicembre 1975, n. 58416/10438 di repertorio, registrati a Milano il 15 dicembre 1975, al n. A/4-12097, consistente in: beni immobili:
-
-a) appartamento al 1° piano dello stabile sito in Milano, via Carlo d'Adda n. 3, distinto al nuovo catasto edilizio urbano alla partita 6291, foglio 518, mappale 132 sub 10, di vani 4;
-
-b) appartamento al 2° piano dello stabile sopracitato, riportato nel nuovo catasto edilizio urbano alla partita 6291, foglio 518, mappale 132 sub 15, di vani 4;
-
-c) appartamento al 2° piano dello stabile sopradescritto, riportato nel nuovo catasto edilizio urbano alla partita 6291, foglio 518, mappale 132 sub 14, di vani 1,5; beni mobili: conti correnti bancari vari, titoli, libretti a risparmio, oggetti preziosi, oro, ecc., custoditi in cassetta di sicurezza; il tutto per un valore complessivo netto di L. 301.418.417.   
+201. Decreto del Presidente della Repubblica 18 marzo 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in un appartamento sito in Milano, viale Lombardia n. 30, distinto nel nuovo catasto edilizio urbano alla partita 108292, foglio 274, particella 282, sub 3, valutato con perizia giurata L. 33.000.000 elevato dall'ufficio tecnico erariale di Milano a L. 51.000.000, disposta dalla sig.ra Russo Maria con testamento olografo 3 aprile 1979, pubblicato in data 13 giugno 1979, n. 30511/5756 di repertorio, a rogito dott. Ermanno Casero, notaio in Milano, registrato a Milano in data 28 giugno 1979 al n. 18245.  
   
-Visto, il Guardasigilli: BONIFACIO   
-Registrato alla Corte dei conti, addi' 7 novembre 1978   
-Registro n. 7 Presidenza, foglio n. 200
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 14 maggio 1985  
+Registro n. 4 Presidenza, foglio n. 289

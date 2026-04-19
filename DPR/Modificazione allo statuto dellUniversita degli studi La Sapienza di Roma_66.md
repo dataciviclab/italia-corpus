@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 dicembre 1982 n. 1011
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1986 n. 1086
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 dicembre 1982 n. 1011
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1986 n. 1086
 ================================================================
 
 Modificazione allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi "La Sapienza" di Roma, approvato con regio decreto del 14 ottobre 1926, e successive modificazioni;
+Veduto lo statuto dell'Universita' "La Sapienza" di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -24,7 +24,7 @@ Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http:
 
 Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata [legge n. 615/1981](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;615);
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta, ai sensi della citata legge n. 615;
 
 Veduto il parere del Consiglio universitario nazionale;
 
@@ -33,24 +33,26 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' degli studi "La Sapienza" di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' "La Sapienza" di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Art. 54 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze statistiche ed attuariali e' inserito l'insegnamento di tecnica delle assicurazioni.  
+Nell'art. 119, relativo al corso di laurea in "scienze geologiche", nell'elenco degli insegnamenti complementari e' inserito l'insegnamento di "rappresentazione dei fenomeni territoriali".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 dicembre 1982
+### Dato a Roma, addi' 27 dicembre 1987
 
-PERTINI FALCUCCI
+COSSIGA
 
-Visto, il Guardasigilli: DARIDA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 20 gennaio 1983
+Visto, il Guardasigilli: ROGNONI
 
-Registro n. 4 Istruzione, foglio n. 147
+Registrato alla Corte dei conti, addi' 28 marzo 1987
+
+Registro n. 19 Istruzione, foglio n. 34

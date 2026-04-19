@@ -1,60 +1,40 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1986 n. 786
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1978 n. 375
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1986 n. 786
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1978 n. 375
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
-
-Veduto il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Nell'art. 149, relativo ai corsi di laurea in ingegneria, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-sperimentazione dei materiali e delle strutture (semestrale);  
-trazione elettrica e termica.  
+Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduto il [decreto del Presidente della Repubblica 24 febbraio 1977, n. 343](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-02-24;343), con il quale e' stato provveduto all'istituzione della scuola di specializzazione in oncologia presso la facolta' di medicina e chirurgia dell'Universita' di Bologna;  
+Vista la nota n. 28950 datata 30 luglio 1977 e la nota n. 39971 datata 16 novembre 1977, con le quali il rettore dell'Universita' di Bologna ha fatto presente che la determinazione delle tasse e soprattasse e contributi e' regolata, per tutte le scuole di specializzazione e i corsi di perfezionamento post-universitari, dall'art. 193 dello statuto dell'Universita' di Bologna e che pertanto e' opportuno sopprimere l'[art. 691 del decreto del Presidente della Repubblica 24 febbraio 1977, n. 343](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-02-24;343~art691);  
+Riconosciuta la necessita' di sopprimere l'[art. 691 del decreto del Presidente della Repubblica 24 febbraio 1977, n. 343](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-02-24;343~art691), concernente l'indicazione delle tasse, soprattasse e contributi per la scuola di specializzazione in oncologia istituita con il suddetto decreto, in quanto regolata dall'art. 193 dello statuto dell'Universita' di Bologna;  
+Sulla proposta del Ministro della pubblica istruzione;  
+  
+Decreta:  
+  
+L'[art. 691 del decreto del Presidente della Repubblica 24 febbraio 1977, n. 343](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-02-24;343~art691), concernente l'indicazione delle tasse, soprattasse e contributi per la scuola di specializzazione in oncologia dell'Universita' di Bologna, e' soppresso.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare;
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 maggio 1986
+### Dato a Roma, addi' 10 gennaio 1978
 
-COSSIGA
+LEONE MALFATTI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: BONIFACIO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 27 giugno 1978
 
-Registrato alla Corte dei conti, addi' 17 novembre 1986
-
-Registro n. 84 Istruzione, foglio n. 90
+Registro n. 67 Istruzione, foglio n. 366

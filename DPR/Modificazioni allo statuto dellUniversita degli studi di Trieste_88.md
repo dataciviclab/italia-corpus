@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1982 n. 812
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1982 n. 653
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1982 n. 812
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1982 n. 653
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
@@ -39,19 +39,47 @@ Articolo unico
 --------------
 
   
-Nell'art. 58, relativo agli istituti annessi alla facolta' di lettere e filosofia, e' soppresso l'istituto di studi bizantini e neo-ellenici.  
-Nel medesimo articolo l'istituto di "archeologia e storia dell'arte greca e romana" cambia denominazione in quella di: "istituto di archeologia" a cui afferiscono le discipline di: archeologie delle province romane; archeologia e storia dell'arte greca e romana; civilta' egea; egittologia; etruscologia ed archeologia italica; inoltre l'istituto di filologia classica muta la denominazione in quella di: "istituto di filologia classica e medievale" a cui afferiscono le discipline di letteratura latina; letteratura greca; letteratura latina medievale; letteratura cristiana antica; storia della lingua latina; filologia classica; filologia bizantina; papirologia; paleografia greca e latina.  
+Nell'art. 25, relativo al corso di laurea in giurisprudenza, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+diritto agrario;  
+diritto delle assicurazioni;  
+diritto dei trasporti;  
+teoria generale del processo;  
+diritti dell'uomo;  
+introduzione alle scienze giuridiche;  
+diritto penale dell'economia;  
+giustizia costituzionale;  
+diritto processuale amministrativo;  
+diritto statuale dei culti;  
+diritto della sicurezza sociale;  
+storia delle codificazioni;  
+storia del diritto e della procedura penale;  
+storia del diritto della navigazione;  
+storia del diritto commerciale;  
+storia del diritto costituzionale e amministrativo;  
+diritto pubblico romano;  
+diritto processuale comparato;  
+diritto delle assicurazioni marittime ed aeronautiche;  
+organizzazioni internazionali;  
+diritto ecclesiastico comparato;  
+diritto dell'esecuzione penale;  
+diritto penitenziario;  
+criminologia;  
+diritto pubblico dell'economia;  
+diritto processuale tributario;  
+diritto del lavoro nei Paesi della CEE;  
+diritto della sicurezza sociale nei Paesi della CEE;  
+diritto del lavoro nei sistemi socialisti.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 luglio 1982
+### Dato a Roma, addi' 16 giugno 1982
 
 PERTINI BODRATO
 
 Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 26 ottobre 1982
+Registrato alla Corte dei conti, addi' 2 settembre 1982
 
-Registro n. 121 Istruzione, foglio n. 46
+Registro n. 104 Istruzione, foglio n. 260

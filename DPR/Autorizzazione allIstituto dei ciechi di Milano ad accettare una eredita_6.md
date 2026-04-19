@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 febbraio 1952 n. 538
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1986 n. 126
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 febbraio 1952 n. 538
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1986 n. 126
 ===============================================================
 
 Autorizzazione all'Istituto dei ciechi di Milano ad accettare una eredita'.
@@ -10,10 +10,10 @@ Autorizzazione all'Istituto dei ciechi di Milano ad accettare una eredita'.
 Art. 1
 ------
 
-N.
+n.
 
-538. Decreto del Presidente della Repubblica 11 febbraio 1952, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto dei ciechi di Milano viene autorizzato ad accettare l'eredita' disposta in suo favore dalla defunta signorina Gattorni Teresa fu Francesco.  
+126. Decreto del Presidente della Repubblica 7 febbraio 1986, col quale, sulla proposta del Ministro della pubblica istruzione, l'istituto dei ciechi di Milano viene autorizzato ad accettare, con beneficio d'inventario, l'eredita', consistente in un appartamento sito in Milano, via Podgori, 6, beni mobili, arredi, oggetti vari, banconote, titoli di credito del valore complessivo di L. 330.790.920, disposta dalla sig.ra Amelia Rognoni ved. Bareggi con testamento olografo 30 giugno 1975, pubblicato in data 8 ottobre 1980, n. 9301/762 di repertorio, a rogito dott.ssa Silvia D'Alonzo, notaio in Milano, registrato a Milano in data 28 ottobre 1980 al n. 42562.  
   
-Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 19 maggio 1952  
-Atti del Governo, registro n. 53, foglio n. 61. - CARLOMAGNO
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 7 aprile 1986  
+Registro n. 24 Istruzione, foglio n. 65

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 1050
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1972 n. 835
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 1050
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1972 n. 835
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,43 +18,170 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
-
-Veduto il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 152. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola in malattie dell'apparato cardiovascolare, di nuova istituzione.
 
+Dopo l'art. 189 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in "Malattie dell'apparato cardiovascolare".
+
+Scuola di specializzazione in malattie dell'apparato cardiovascolare
+
+Art. 190. - Titolo di iscrizione: laurea in medicina e chirurgia.
+
+Numero massimo di iscritti: Otto per ogni anno di corso (totale ventiquattro).
+
+Frequenza: obbligatoria per l'intero anno accademico.
+
+Vacanze: conformi al calendario universitario con un solo mese completo estivo (agosto).
+
+Esami: gli esami di profitto, teorici e pratici, saranno sostenuti alla fine di ogni anno in un'unica sessione (ottobre).
+
+Alla fine del 3° anno, dopo avere superato tutti gli esami di profitto, gli allievi saranno ammessi a sostenere gli esami di diploma, consistenti nella discussione di una dissertazione scritta su un argomento di patologia o di fisiopatologia o clinica cardiologica, la cui scelta sia stata concordata fra diplomando e direttore della scuola durante il 2° anno. La dissertazione, previamente approvata dal direttore, dovra' essere depositata presso la segreteria almeno quindici giorni prima dell'esame.
+
+I candidati non riconosciuti idonei all'esame di diploma potranno ripresentarsi dopo un altro anno di frequenza alla scuola. Ma se al 2°, esame non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi ulteriori prove.
+
+Art. 191. - Materie di insegnamento:
+
+1° Anno:
+
+1) Anatomia normale dell'apparato cardiovascolare;
+
+2) Fisiologia dell'apparato cardiovascolare e respiratorio;
+
+3) Fisiopatologia cardiovascolare e respiratoria (biennale);
+
+4) Patologia cardiovascolare (biennale)
+
+5) Semeiologia fisica (biennale);
+
+6) Semeiologia strumentale (biennale);
+
+7) Microbiologia (facoltativa).
+
+2° Anno:
+
+1) Fisiopatologia cardiovascolare e respiratoria (biennale);
+
+2) Patologia cardiovascolare (biennale);
+
+3) Semeiologia fisica (biennale);
+
+4) Semeiologia strumentale (biennale);
+
+5) Anatomia patologica dell'apparato cardiovascolare (biennale);
+
+6) Radiologia;
+
+7) Farmacologia;
+
+8) Clinica e terapia (biennale).
+
+3° Anno:
+
+1) Anatomia patologica dell'apparato cardiovascolare (biennale);
+
+2) Clinica e terapia (biennale);
+
+3) Chirurgia dell'apparato cardiovascolare;
+
+4) Problemi assicurativi e sociali (facoltativa);
+
+5) Statistica (facoltativa).
+
+Durante il corso degli studi, oltre i corsi di lezioni, vengono tenute, al letto dell'ammalato, esercitazioni di semeiotica clinica, di diagnostica differenziale o di terapia, mentre nei laboratori si svolgono esercitazioni teorico-pratiche di elettrocardiografia, di radiologia, e di, fisiopatologia clinica e sperimentale, di anatomia ed istologia patologica. L'ammissione avviene in base ai titoli di studio e successivamente in seguito ad una prova scritta di esame.
+
+Gli aspiranti hanno l'obbligo di accertarsi presso l'istituto della data del concorso.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 28 ottobre 1972
+
+LEONE
+
+SCALFARO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 21 dicembre 1972 Atti di Governo, registro n. 254, foglio n. 42. - CARUSO
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Nell'art. 35, relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:   
-letteratura italiana del Rinascimento.   
-Nell'art. 36, relativo al corso di laurea in filosofia all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:   
-letteratura italiana del Rinascimento.   
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 152. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola in malattie dell'apparato cardiovascolare, di nuova istituzione.  
+Dopo l'art. 189 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in "Malattie dell'apparato cardiovascolare".  
+  
+Scuola di specializzazione in malattie dell'apparato cardiovascolare   
+Art. 190. - Titolo di iscrizione: laurea in medicina e chirurgia.  
+Numero massimo di iscritti: Otto per ogni anno di corso (totale ventiquattro).  
+Frequenza: obbligatoria per l'intero anno accademico.  
+Vacanze: conformi al calendario universitario con un solo mese completo estivo (agosto).  
+Esami: gli esami di profitto, teorici e pratici, saranno sostenuti alla fine di ogni anno in un'unica sessione (ottobre).  
+Alla fine del 3° anno, dopo avere superato tutti gli esami di profitto, gli allievi saranno ammessi a sostenere gli esami di diploma, consistenti nella discussione di una dissertazione scritta su un argomento di patologia o di fisiopatologia o clinica cardiologica, la cui scelta sia stata concordata fra diplomando e direttore della scuola durante il 2° anno. La dissertazione, previamente approvata dal direttore, dovra' essere depositata presso la segreteria almeno quindici giorni prima dell'esame.  
+I candidati non riconosciuti idonei all'esame di diploma potranno ripresentarsi dopo un altro anno di frequenza alla scuola. Ma se al 2°, esame non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi ulteriori prove.  
+Art. 191. - Materie di insegnamento:  
+1° Anno:  
+1) Anatomia normale dell'apparato cardiovascolare;  
+2) Fisiologia dell'apparato cardiovascolare e respiratorio;  
+3) Fisiopatologia cardiovascolare e respiratoria (biennale);  
+4) Patologia cardiovascolare (biennale)  
+5) Semeiologia fisica (biennale);  
+6) Semeiologia strumentale (biennale);  
+7) Microbiologia (facoltativa).  
+2° Anno:  
+1) Fisiopatologia cardiovascolare e respiratoria (biennale);  
+2) Patologia cardiovascolare (biennale);  
+3) Semeiologia fisica (biennale);  
+4) Semeiologia strumentale (biennale);  
+5) Anatomia patologica dell'apparato cardiovascolare (biennale);  
+6) Radiologia;  
+7) Farmacologia;  
+8) Clinica e terapia (biennale).  
+3° Anno:  
+1) Anatomia patologica dell'apparato cardiovascolare (biennale);  
+2) Clinica e terapia (biennale);  
+3) Chirurgia dell'apparato cardiovascolare;  
+4) Problemi assicurativi e sociali (facoltativa);  
+5) Statistica (facoltativa).  
+Durante il corso degli studi, oltre i corsi di lezioni, vengono tenute, al letto dell'ammalato, esercitazioni di semeiotica clinica, di diagnostica differenziale o di terapia, mentre nei laboratori si svolgono esercitazioni teorico-pratiche di elettrocardiografia, di radiologia, e di, fisiopatologia clinica e sperimentale, di anatomia ed istologia patologica. L'ammissione avviene in base ai titoli di studio e successivamente in seguito ad una prova scritta di esame.  
+Gli aspiranti hanno l'obbligo di accertarsi presso l'istituto della data del concorso.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e de decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Selva di Val Gardena, addi' 2 settembre 1984
+### Dato a Roma, addi' 28 ottobre 1972
 
-PERTINI FALCUCCI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 29 febbraio 1984
+Registrato alla Corte dei conti, addi' 21 dicembre 1972
 
-Registro n. 13 Istruzione, foglio n. 51
+Atti di Governo, registro n. 254, foglio n. 42. - CARUSO

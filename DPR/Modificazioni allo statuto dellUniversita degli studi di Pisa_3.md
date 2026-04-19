@@ -1,141 +1,49 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 843
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1951 n. 566
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 843
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1951 n. 566
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Visto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e successive modificazioni;
-
-Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Visto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Visto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vista la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Visto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Viste le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta, con le quali e' stata chiesta l'istituzione del corso di laurea in odontoiatria e protesi dentaria nell'ambito della facolta' di medicina e chirurgia;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio universitario nazionale nel suo parere, allo scopo di assicurare una equilibrata distribuzione dei corsi di laurea in odontoiatria e protesi dentaria in tutto il territorio nazionale, ed in particolare nell'ambito della regione Toscana;
-
-Udito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con il [regio decreto 14 ottobre 1936, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-14;2278), e modificato con i [regi decreti 13 ottobre 1927; n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2225); [20 settembre 1928, n. 2251](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1928-09-20;2251); [31 ottobre 1929, n. 2473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1929-10-31;2473); [30 ottobre 1930, n. 1916](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1916); [22 ottobre 1931, n. 1339](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-22;1339); [27 ottobre 1932, n. 2098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2098); [13 dicembre 1934, n. 2408](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-13;2408); [1 ottobre 1936, n. 2462](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2462); [27 ottobre 1937, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1937-10-27;2170); [5 ottobre 1939, n. 1744](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1744); [26 ottobre 1940, n. 2071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2071); [27 aprile 1942, n. 469](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;469), e [24 ottobre 1942, n. 1652; con il decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1652) [30 dicembre 1947, n. 1689; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1689) [17 febbraio 1949, n. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-17;97) e [30 ottobre 1949, n. 1169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1169);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Al titolo VII - facolta' di medicina e chirurgia, l'art. 77 e' modificato come segue:   
-Art. 77. - La facolta' di medicina e chirurgia conferisce le lauree in:   
-a) medicina e chirurgia;   
-b) odontoiatria e protesi dentaria.   
-Dopo l'art. 78, con il conseguente scorrimento della numerazione degli articoli successivi, sono aggiunti i seguenti articoli concernenti il corso di laurea in odontoiatria e protesi dentaria:   
-Art. 79. - La durata del corso degli studi per la laurea in odontoiatria e protesi dentaria e' di cinque anni, suddivisi in un biennio ed un triennio.   
-Il titolo di ammissione e' quello previsto dalle vigenti disposizioni di legge.   
-Gli insegnamenti per la laurea in odontoiatria e protesi dentaria sono i seguenti:   
-Biennio:   
-1) anestesia generale e speciale odontostomatologica (semestrale);   
-2) biologia generale applicata agli studi medici;   
-3) chimica;   
-4) chimica biologica;   
-5) farmacologia (semestrale);   
-6) fisica medica;   
-7) fisiologia umana e dell'apparato stomatognatico;   
-8) igiene e odontoiatria preventiva e sociale con epidemiologia (semestrale);   
-9) istituzioni di anatomia umana normale e dell'apparato stomatognatico;   
-10) istologia ed embriologia generale (compresa la citologia);   
-11) materiali dentari;   
-12) microbiologia (semestrale);   
-13) odontoiatria conservatrice (triennale - 2°, 3° e 4° anno);   
-14) patologia generale.   
-Triennio:   
-15) istituzioni di anatomia ed istologia patologica;   
-16) chirurgia speciale odontostomatologica (biennale - 3° e 4° anno);   
-17) clinica odontostomatologica (biennale 4° e 5° anno);   
-18) medicina legale e delle assicurazioni e deontologia in odontostomatologia (semestrale);   
-19) neuropatologia e psicopatologia (semestrale);   
-20) ortognatodonzia e gnatologia (funzione masticatoria) (biennale - 4° e 5° anno);   
-21) parodontologia (biennale 4° e 5° anno);   
-22) patologia speciale chirurgica e propedeutica clinica;   
-23) patologia speciale medica e metodologia clinica (compresa la pediatria);   
-24) patologia speciale odontostomatologica;   
-25) pedodonzia (semestrale);   
-26) protesi dentaria (triennale - 3°, 4° e 5° anno);   
-27) radiologia generale e speciale odontostomatologica (semestrale).   
-Insegnamenti complementari:   
-1) chirurgia maxillo-facciale;   
-2) dermatologia e venerologia (semestrale);   
-3) otorinolaringoiatria (semestrale);   
-4) statistica sanitaria.   
-Gli insegnamenti fondamentali sono teorici e pratici e la loro frequenza e' obbligatoria.   
-Gli insegnamenti specificatamente odontostomatologici di ordine clinico comportano anche un tirocinio pratico continuativo da espletare prima di sostenere i relativi esami.   
-Gli allievi, che non conseguono le attestazioni di frequenza, non possono essere ammessi a sostenere le relative prove d'esame.   
-Il tirocinio pratico, relativo ad ogni insegnamento clinico, deve prevedere da parte di componenti dell'organico, una assistenza didattica adeguata al numero degli studenti.   
+Decreta:  
   
-  
-Parte di provvedimento in formato grafico  
-  
-  
-  
-  
-Per essere ammesso a sostenere l'esame di laurea in odontoiatria e   
-protesi dentaria, lo studente deve aver seguito i corsi ed aver superato gli esami in tutti gli insegnamenti fondamentali ed almeno in due insegnamenti scelti fra i complementari ed aver, inoltre, seguito le prescritte esercitazioni cliniche, i tirocini pratici ed averne conseguito le relative attestazioni.   
-  
-L'esame di laurea consiste nella discussione di una tesi scritta su argomenti di odontostomatologia da richiedere almeno all'inizio dell'ultimo anno di corso.   
-  
-Per il trasferimento degli studenti iscritti al corso di laurea in   
-medicina e chirurgia le abbreviazioni di corso non possono superare l'ammissione oltre il secondo anno sempre che gli aspiranti abbiano superato gli esami di biologia generale applicata agli studi medici, chimica, fisica medica, istologia ed embriologia generale (compresa la citologia).   
-  
-Per i laureati in medicina e chirurgia le abbreviazioni di corso   
-potranno essere concesse, sempre con iscrizione al secondo anno, subordinatamente al numero dei posti resisi disponibili all'inizio del secondo anno e dopo che sia trascorso un anno accademico dal conseguimento della laurea precedente.   
-  
-Art. 80. - Il numero degli iscritti e' di cinque per ciascun anno   
-di corso e complessivamente di venticinque per l'intero corso di studi.   
-  
-L'accesso avviene secondo un ordine di graduatoria stabilito in   
-base ad un punteggio riportato in centesimi, cosi' ripartito:   
-  
-70 centesimi riservati all'esito di un test a scelta multipla da   
-completare in un unico giorno vertente su nozioni generali relative ai seguenti argomenti: chimica, fisica, matematica, biologia generale;   
-  
-30 centesimi riservati al punteggio riportato nell'esame finale   
-per il conseguimento del diploma di scuola secondaria superiore.   
-  
-E' prevista la pubblicizzazione dei risultati delle prove che, a   
-richiesta, debbono essere forniti.   
-  
-Art. 81. - Per esercitare la professione i laureati in odontoiatria e protesi dentaria devono superare un apposito esame di Stato.   
-  
-  
-  
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Attuale art. 38. - Agli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
+14) egittologia;  
+15) filologia greco-latina;  
+16) archeologia cristiana;  
+17) filologia germanica;  
+18) filologia slava.  
+Attuale art. 76. - L'ultimo comma e' sostituito dal seguente:  
+"Gli studenti possono seguire i corsi di laboratorio biennale ed annuale, negli Istituti di botanica, di fisiologia, di zoologia ed anatomia comparata, di anatomia umana, di patologia generale, di antropologia, di paleontologia e igiene".  
+Attuale art. 78. - Agli insegnamenti complementari del corso di laurea in scienze geologiche e' aggiunto quello di:  
+13) geochimica.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto
-------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+### Dato a Roma, addi' 11 aprile 1951
 
-Dato a Roma, addi' 4 ottobre 1986 COSSIGA
+EINAUDI GONELLA
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: PICCIONI
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 20 luglio 1951
 
-Registrato alla Corte dei conti, addi' 27 novembre 1986
-
-Registro n. 86 Istruzione, foglio n. 143
+Atti del Governo, registro n. 40, foglio n. 40. - FRASCA

@@ -1,161 +1,138 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1980 n. 691
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 febbraio 1977 n. 475
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1980 n. 691
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 febbraio 1977 n. 475
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Gli articoli 121 e 122, relativi alla facolta' di medicina e chirurgia I, sono cosi' modificati:  
-Art. 121. - La facolta' di medicina e chirurgia I conferisce la laurea in:  
-a) medicina e chirurgia;  
-b) odontoiatria e protesi dentaria.  
-Art. 122. - La durata del corso degli studi per la laurea in medicina e chirurgia e' di sei anni, suddivisi in tre bienni.  
-La durata del corso di studi per la laurea in odontoiatria e protesi dentaria e' di cinque anni, suddivisi in un biennio e un triennio.  
-I titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
+Decreta:   
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Dopo l'art. 130, con il conseguente spostamento della numerazione successiva, sono aggiunti i seguenti nuovi articoli:   
-Art. 131. - Gli insegnamenti per la laurea in odontoiatria e protesi dentaria sono i seguenti:   
-Insegnamenti fondamentali:   
-Biennio:   
-1) anestesia generale e speciale odontostomatologica (semestrale);   
-\*2) biologia generale applicata agli studi medici;   
-\*3) chimica;   
-\*4) chimica biologica;   
-5) farmacologia (semestrale);   
-\*6) fisica medica;   
-7) fisiologia umana e dell'apparato stomatognatico;   
-8) igiene e odontoiatria preventiva e speciale con epidemiologia (semestrale);   
-9) istituzioni di anatomia umana normale e dell'apparato stomatognatico;   
-10) istituzioni di anatomia ed istologia patologica;   
-\*11) istologia ed embriologia generale (compresa la citologia);   
-12) materiali dentari;   
-13) microbiologia (semestrale);   
-14) odontoiatria conservatrice (triennale: 2°, 3° e 4° anno);  
-15) patologia generale.   
-Triennio:   
-16) chirurgia speciale odontostomatologica (biennale: 3° e 4° anno);   
-17) chimica odontostomatologica (biennale: 4° e 5° anno);   
-18) medicina legale e delle assicurazioni e deontologia in odontostomatologia (semestrale);   
-19) neuropatologia e psicopatologia (semestrale);   
-20) ortognatodonzia e gnatologia (funzione masticatoria) (biennale: 4° e 5° anno);   
-21) parodontologia (biennale: 4° e 5° anno);   
-21) patologia speciale chirurgia, e propedeutica clinica;   
-23) patologia speciale medica e metodologia clinica, (compresa la pediatria);   
-24) patologia speciale odontostomatologica;   
-25) pedodonzia (semestrale);   
-26) protesi dentaria (triennale: 3°, 4° e 5° anno);   
-27) radiologia generale e speciale odontostomatologica (semestrale).   
-Insegnamenti complementari:   
-\*1) chirurgia maxillo-facciale;   
-\*2) dermatologia e venereologia (semestrale);   
-\*3) otorinolaringoiatria (semestrale);   
-\*4) statistica sanitaria;   
-Art. 132. - Altri insegnamenti complementari nel piano della facolta' sempre mutuati dal corso di laurea in medicina e chirurgia.   
-Gli insegnamenti segnati con asterisco sono mutuati dal corso di laurea in medicina e chirurgia.   
-Gli insegnamenti fondamentali sono teorici e pratici e la loro frequenza e' obbligatoria.   
-Gli insegnamenti specificatamente odontostomatologici di ordine clinico comportano un tirocinio pratico e continuativo da espletare prima di sostenere i relativi esami.   
-Gli studenti che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le relative prove di esame.   
-Per gli insegnamenti semestrali ed annuali lo studente e' tenuto a sostenere un esame alla fine del corso. Per gli insegnamenti pluriennali lo studente e' tenuto a superare tanti esami per quante sono le annualita'.   
-Il tirocinio pratico, relativo ad ogni insegnamento clinico, deve provvedere da parte dei componenti dell'organico, una assistenza didattica adeguata al numero degli studenti.   
-Art. 133.   
+Dopo l'art. 599, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica presso la prima facolta' di medicina e chirurgia.   
   
+Scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica   
   
+Art. 600. - La scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica, conferisce il titolo di specialista in medicina preventiva dei lavoratori e psicotecnica a laureati in medicina e chirurgia, e' istituita presso l'istituto di medicina preventiva dei lavoratori e psicotecnica dell'Universita' degli studi di Napoli, prima facolta' di medicina e chirurgia.   
+La direzione della scuola e' affidata al titolare di medicina preventiva dei lavoratori e psicotecnica di detta Universita'.   
+La scuola dispone delle attrezzature, delle opportunita' didattiche dell'istituto di medicina preventiva dei lavoratori e psicotecnica.   
+Art. 601. - Durante il corso, che ha la durata di tre anni, le lezioni relative alle materie indicate nel piano verranno integrate da esercitazioni di ricerca diagnostica differenziale, di ricerca ecologica, di valutazione medico-biologica e di controllo tecnico dei limiti di sicurezza nel lavoro. Tali esercitazioni saranno collegate a visite didattiche negli ambienti di lavoro. La frequenza alle lezioni, alle esercitazioni e alle visite negli ambienti di lavoro e' obbligatoria secondo le modalita' che saranno enunciate dalla direzione del corso e avranno per fine la programmazione e la organizzazione pratica della medicina preventiva dei lavoratori e psicotecnica nel lavoro agricolo, artigianale e industriale.   
+Al terzo anno di corso le esercitazioni si svolgeranno sotto forma di ricerche di gruppo interdisciplinare per la costruzione e la validazione di modelli operativi.   
+Art. 602. - Il numero massimo degli iscritti e' di 12 per anno di corso. La selezione dei candidati aspiranti all'ammissione avverra' per titoli ed esami.   
+Art. 603. - Alla fine di ogni anno i medici chirurghi specializzandi che abbiano ottenuto la firma di frequenza, dovranno sostenere un esame di profitto nelle materie di insegnamento annuale.   
+Art. 604. - L'esame di diploma consiste nella discussione di una dissertazione scritta su un argomento di medicina preventiva dei lavoratori e psicotecnica che deve essere approvato dalla direzione della scuola.   
+La dissertazione deve essere presentata per l'approvazione almeno un mese prima delle prove di esame. Le commissioni per gli esami di profitto e gli esami di diploma saranno nominate secondo le norme generali.   
+Art. 605. - Il piano di studio e' il seguente:   
+1° Anno:   
+dottrina generale della medicina preventiva;   
+dottrina generale della medicina preventiva dei lavoratori e psicotecnica.   
+2° Anno:   
+ecologia umana e ecologia medica dei lavoratori;   
+tossicologia dei lavoratori;   
+basi biologiche, cliniche, medico legali per l'abilitazione e la riabilitazione al lavoro specifico;   
+definizione biologica, medica, psicofisiologica dei limiti di sicurezza consentiti nel lavoro.   
+3° Anno:   
+organizzazione e metodologia della medicina preventiva dei lavoratori e psicotecnica in funzione dei rischi connessi al lavoro nell'uomo e nella donna nell'eta' evolutiva, nell'eta' adulta e nella senescenza.   
+Dopo l'art. 766, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in fisiopatologia e fisiokinesiterapia respiratoria e diabetologia e malattie del ricambio presso la seconda facolta' di medicina e chirurgia.   
   
+Scuola di specializzazione in fisiopatologia e fisiokinesiterapia   
+respiratoria   
   
-Non si puo' essere ammessi Se non si e' superato  
-a sostenere l'esame di: l'esame di:  
+Art. 767. - E' istituita presso la seconda facolta' di medicina e chirurgia dell'Universita' di Napoli la scuola di specializzazione in fisiopatologia e fisiokinesiterapia respiratoria.   
+Art. 768. - La scuola di specializzazione in fisiopatologia e fisiokinesiterapia respiratoria ha la durata di tre anni ed ha sede presso la clinica tisiologica e delle malattie dell'apparato respiratorio della seconda facolta' di medicina e chirurgia dell'Universita' degli studi di Napoli.   
+Art. 769. - Possono accedere alla scuola i laureati in medicina e chirurgia, il numero massimo degli iscritti e' di cinque per ogni anno di corso. L'ammissione viene stabilita mediante una prova scritta.   
+Art. 770. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+1) anatomia funzionale dell'apparato respiratorio;   
+2) fisiomeccanica della respirazione;   
+3) le funzioni respiratorie ai vari livelli;   
+4) le funzioni del circolo polmonare;   
+5) attivita' non respiratorie del polmone;   
+6) metodologia di indagine della funzionalita' respiratoria;   
+7) i farmaci del respiro.   
+2° Anno:   
+1) inquadramento generale e diagnostico di patologia bronco-pleuro-polmonare;   
+2) le alterazioni funzionali respiratorie in patologia bronco-pleuro-polmonare;   
+3) l'insufficienza respiratoria nei suoi aspetti eziopatogenetici, clinici e terapeutici;   
+4) fisiopatologia cardiocircolatoria nei broncopneumopatici;   
+5) le alterazioni funzionali respiratorie nei vasculopatici e nei cardiopatici.   
+3° Anno:   
+1) terapia medica generale delle sindromi da disfunzione respiratoria;   
+2) terapia strumentale della insufficienza respiratoria;   
+3) metodologie di rieducazione funzionale respiratoria;   
+4) la rieducazione respiratoria nelle broncopneumopatie invalidanti;   
+5) terapia cardiologica e del circolo nei broncopneumopatici cronici;   
+6) terapia d'urgenza delle sindromi disfunzionali respiratorie;  
+7) prevenzione e cura dell'invalidita' respiratoria.   
+I corsi di insegnamento sono integrati da turni obbligatori di internato, da esercitazioni pratiche e da conferenze.   
+Art. 771. - Gli iscritti hanno l'obbligo di frequenza alle lezioni, alle esercitazioni, alle conferenze scientifiche, nonche' ai turni di internato.   
+Art. 772. - Gli allievi hanno l'obbligo di sostenere nel corso dell'anno accademico un colloquio sul programma delle materie di insegnamento del rispettivo anno.   
+Art. 773. - Alla fine dell'anno accademico l'allievo dovra' sostenere un esame unico su tutte le materie di insegnamento del corso.   
+Per accedere ai corsi successivi e' obbligatorio il superamento di tutti gli esami del corso precedente.   
+Art. 774. - Alla fine del terzo anno, oltre gli esami speciali, l'iscritto dovra' sostenere un esame di diploma.   
+I candidati al diploma dovranno presentare una dissertazione scritta su un argomento assegnato dal direttore o da uno degli insegnanti della scuola.   
+Art. 775. - Per quanto non previsto valgono le norme generali relative alle scuole di specializzazione contenute nel vigente statuto dell'Universita' degli studi di Napoli.   
   
-  
-Fisiologia umana e dell'apparato Istituzioni di anatomia  
-stomatognatico umana normale e dell'apparato stomatognatico  
-  
-Patologia generale Biologia generale applicata  
-agli studi medici  
-  
-Chimica  
-Fisica medica  
-  
-  
-Patologia speciale medica Fisiologia umana e del-  
-e metodologica clinica l'apparato stomatognatico  
-(compresa la pediatria) Patologia generale  
-Patologia speciale chirurgica  
-e propedeutica clinica  
-  
-  
-Clinica odontostomatologica Patologia speciale medica  
-e metodologia clinica  
-(compresa la pediatria)  
-Chirurgia speciale odonto-  
-stomatologia  
-Istituzioni di anatomia e  
-istologia patologica  
-Patologia speciale chirurgica  
-e propedeutica clinica  
-Patologia speciale odonto-  
-stomatologica  
-  
-  
-  
-  
-Per essere ammessi a sostenere l'esame di laurea in odontoiatria e protesi dentaria lo studente deve aver seguito i corsi ed aver superato gli esami in tutti gli insegnamenti fondamentali ed almeno in due insegnamenti scelti fra i complementari ed avere, inoltre, seguito le prescritte esercitazioni cliniche, i tirocini pratici ed averne conseguito le relative attestazioni.   
-L'esame di laurea consiste nella discussione di una tesi scritta su argomenti di odontostomatologia da richiedere almeno all'inizio dell'ultimo anno di corso.   
-Art. 134. - Per il trasferimento degli studenti iscritti al corso di laurea in medicina e chirurgia le abbreviazioni di corso non possono superare l'ammissione oltre il 2° anno subordinatamente al numero dei posti resisi disponibili all'inizio del 2° anno, sempre che gli aspiranti abbiano superato gli esami di biologia generale applicata agli studi medici, chimica, fisica medica, istologia ed embriologia generale (compresa la citologia).   
-Per i laureati in medicina e chirurgia le abbreviazioni di corso potranno essere concesse, sempre con iscrizione al 2° anno, subordinatamente al numero dei posti disponibili all'inizio del 2° anno e dopo che sia trascorso un anno accademico dal conseguimento della laurea precedente.   
-Art. 135. - Il numero degli iscritti e' di ventiquattro per ciascun anno di corso e complessivamente di centoventi per l'intero corso di studi.   
-Art. 136. - L'accesso avviene secondo un ordine di graduatoria stabilito in base ad un punteggio riportato in centesimi, cosi' ripartito;   
-70 centesimi riservati all'esito di un test a scelta multipla da completare in un unico giorno vertente su nozioni generali relative ai seguenti argomenti: chimica, fisica, matematica, biologia generale;   
-30 centesimi riservati al punteggio riportato nell'esame finale per il conseguimento del diploma di scuola secondaria superiore.   
-E' prevista la pubblicizzazione dei risultati delle prove che a richiesta debbono essere forniti.   
-Art. 137. - Per esercitare la professione i laureati in odontoiatra e protesi dentaria devono superare un apposito esame di Stato.   
+Scuola di specializzazione in diabetologia e malattie del ricambio   
+Art. 776. - Alla seconda facolta' di medicina e chirurgia dell'Universita' di Napoli e' annessa la scuola di specializzazione in diabetologia e malattie del ricambio, con sede nell'istituto di semeiotica medica.   
+Art. 777. - La scuola di specializzazione in diabetologia e malattie del ricambio conferisce il diploma di specialista in diabetologia e malattie del ricambio. Gli anni del corso necessari per il conseguimento del diploma sono tre.   
+Art. 778. - Il numero massimo complessivo degli iscritti alla scuola e' di trenta unita ripartiti nei tre anni di corso. Alla scuola sono ammessi i laureati in medicina e chirurgia. La selezione dei candidati aspiranti alla ammissione alla scuola avverra' sulla base di titoli ed esami.   
+Art. 779. - Le materie del corso sono le seguenti e cosi' distribuite:   
+1° Anno:   
+1) anatomia e citomorfologia funzionale;   
+2) elementi di genetica del diabete e delle malattie del ricambio;   
+3) metodi di analisi chimica qualitativa e quantitativa;   
+4) patologia molecolare;   
+5) fisiopatologia cronica del diabete e delle malattie del ricambio;   
+6) elementi di biometria e di statistica (complementare);   
+7) auxologia e auxopatie metaboliche (complementare).   
+2° Anno:   
+1) patologia sperimentale metabolica;   
+2) semeiotica fisica e funzionale del diabete e delle malattie del ricambio;   
+3) clinica del diabete e delle malattie del ricambio (I);   
+4) medicina sociale e preventiva del diabete e delle malattie del ricambio;   
+5) neuropatologia del diabete e delle malattie del ricambio (complementare);   
+6) fisiopatologia e clinica ostetrico-ginecologica del diabete e delle malattie del ricambio (complementare).   
+3° Anno:   
+1) clinica del diabete e delle malattie del ricambio (II);   
+2) farmacologia e terapia medica del diabete e delle malattie del ricambio;   
+3) dietologia del diabete e delle malattie del ricambio;   
+4) elementi di psicologia nel diabete e nelle malattie del ricambio (complementare);   
+5) terapia chirurgica nel diabete e nelle malattie del ricambio (complementare);   
+6) oftalmologia nel diabete e nelle malattie del ricambio (complementare);   
+Art. 780. - La frequenza alle lezioni ed alle esercitazioni e obbligatoria per tutti gli iscritti.   
+L'internato e' obbligatorio durante tutti e tre gli anni del corso, sotto forma di permanenza costante durante le ore di attivita' scientifica ed assistenziale, con presenza giornaliera nei vari reparti.   
+Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.   
+L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.   
+Art. 781. - Alla fine del corso l'allievo, inoltre, dovra' sostenere un esame generale di profitto.   
+Art. 782. - Le tasse di immatricolazione e di iscrizione e la soprattassa annuale per gli esami di profitto saranno eguali a quelle delle altre scuole di specializzazione presso la facolta' di medicina e chirurgia della Universita' di Napoli. La tassa di diploma e' fissata nella misura di L. 6.000, a norma della legge n. 1551, art. 7, del 18 dicembre 1951.   
+L'importo dei contributi annuali generali per il laboratorio, le esercitazioni pratiche ed il materiale didattico sara' determinato dal consiglio di amministrazione su proposta della facolta'.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 settembre 1980
+### Dato a Roma, addi' 24 febbraio 1977
 
-p. Il Presidente della Repubblica Il Presidente del Senato FANFANI SARTI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 21 ottobre 1980
+Registrato alla Corte dei conti, addi' 28 luglio 1977
 
-Registro n. 95 Istruzione, foglio n. 305
+Registro n. 88 Istruzione, foglio n. 394

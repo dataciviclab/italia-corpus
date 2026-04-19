@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 giugno 1971 n. 616
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1966 n. 813
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 giugno 1971 n. 616
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1966 n. 813
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
@@ -12,11 +12,12 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -24,56 +25,30 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-l'art. 95, relativo alla scuola di specializzazione in clinica pediatrica, e' abrogato e sostituito dal seguente:  
   
-Scuola di specializzazione in clinica pediatrica  
-  
-Art. 95. - La scuola ha sede presso la clinica pediatrica, il direttore della scuola e' il professore di ruolo della cattedra stessa.  
-La durata del corso e' di tre anni ad internato obbligatorio con non piu' di due mesi di ferie all'anno.  
-Alla scuola vengono ammessi, per titoli, i laureati in medicina e chirurgia nel numero massimo complessivo di diciotto per i tre anni di corso.  
-L'iscrizione direttamente al secondo anno puo' essere consentita per i candidati che abbiano conseguito il diploma di specializzazione in puericultura e che abbiano titoli pediatrici.  
-Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) Clinica pediatrica I;  
-2) Patologia pediatrica I;  
-3) Puericultura I;  
-4) Semeiotica pediatrica e tecnica diagnostica I;  
-5) Auxologia normale e patologica;  
-6) Psicologia dell'eta' evolutiva.  
-2° Anno:  
-1) Clinica pediatrica II;  
-2) Patologia pediatrica II;  
-3) Puericultura II;  
-4) Semeiotica pediatrica e tecnica diagnostica II;  
-5) Terapia pediatrica;  
-6) Radiologia pediatrica;  
-7) Malattie infettive dell'infanzia.  
-3° Anno:  
-1) Clinica pediatrica III;  
-2) Neuropsichiatria ed igiene mentale dell'infanzia.  
-Le materie fondamentali sopraelencate saranno integrate, a giudizio del consiglio della scuola, da almeno tre insegnamenti scelti tra i seguenti:  
-1) Chirurgia pediatrica;  
-2) Ortopedia e traumatologia infantile;  
-3) Odontoiatria;  
-4) Clinica dermosifilopatica;  
-5) Clinica oculistica;  
-6) Clinica otorinolaringoiatrica;  
-7) Cardiologia;  
-8) Genetica.  
-Il direttore della scuola, inoltre, puo' disporre che si tengano un certo numero di conferenze su argomenti di interesse pediatrico.  
-Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare gli esami dell'anno di corso precedente in un unico gruppo di materie.  
-Per conseguire il diploma di specializzazione in clinica pediatrica gli iscritti al corso, dopo aver superato gli esami e completata la frequenza obbligatoria, dovranno presentare e discutere una dissertazione scritta su argomento di pediatria.  
+Art. 38. - All'elenco degli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti i seguenti:  
+"Audiologia";  
+"Tecnica e diagnostica istopatologica".  
+Art. 56. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti i seguenti:  
+"Embriologia sperimentale";  
+"Biologia molecolare".  
+Art. 61. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti i seguenti:  
+"Fitoiatria";  
+"Embriologia sperimentale";  
+"Biologia molecolare";  
+"Tecnologie alimentari".  
+Art. 91. - Il primo comma e' modificato nel senso che potranno essere iscritti alla scuola di perfezionamento in Clinica pediatrica i laureati in Medicina e chirurgia nel numero massimo di 12.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 giugno 1971
+### Dato a Roma, addi' 9 settembre 1966
 
-SARAGAT MISASI
+SARAGAT GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 17 agosto 1971
+Registrato alla Corte dei conti, addi' 10 ottobre 1966
 
-Atti del Governo, registro n. 243, foglio n. 130. - PASQUALUCCI
+Atti del Governo, registro n. 206, foglio n. 57. - VILLA

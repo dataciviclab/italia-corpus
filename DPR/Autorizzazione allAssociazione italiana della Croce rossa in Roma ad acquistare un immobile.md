@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1985 n. 822
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 1029
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1985 n. 822
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 1029
+===============================================================
 
 Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad acquistare un immobile.
 -----------------------------------------------------------------------------------------------
@@ -12,8 +12,15 @@ Art. 1
 
 N.
 
-822. Decreto del Presidente della Repubblica 30 ottobre 1985, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad acquistare, al prezzo di L. 120.0000.000, un immobile sito in Rignano sull'Arno, (Firenze), piazza XXV Aprile, da adibire a sede del locale comitato C.R.I.   
+1029. Decreto del Presidente della Repubblica 11 ottobre 1984, col quale, sulla proposta del Ministro della sanita', l'Associazione   
+italiana della Croce rossa, in Roma, viene autorizzata, in   
+sanatoria, ad acquistare, al prezzo di L. 92.000.000, un fabbricato   
+sito in Mantova, via Pompilio, di proprieta' del sig. Giuseppe   
+Mozzini, come da atto di compravendita 23 dicembre 1975, n.   
+18548/7673 di repertorio, a rogito dottor Massimo Aporti, notaio in   
+Mantova, registrato a Mantova in data 12 gennaio 1976 al n. 143, da   
+adibire a sede del locale comitato provinciale C.R.I.   
   
 Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 7 gennaio 1986   
-Registro n. 1 Sanita', foglio n. 48
+Registrato alla Corte dei conti, addi' 31 gennaio 1985   
+Registro n. 1 Sanita', foglio n. 229

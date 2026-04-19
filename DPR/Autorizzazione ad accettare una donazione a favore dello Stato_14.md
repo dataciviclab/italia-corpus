@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 ottobre 1974 n. 728
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 aprile 1975 n. 379
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 ottobre 1974 n. 728
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 aprile 1975 n. 379
+=============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-728. Decreto del Presidente della Repubblica 5 ottobre 1974, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Tocco Caudio (Benevento), con atto 27 aprile 1972, n. 63152 di repertorio, a rogito notaio Mario Iannella, del lotto di terreno contraddistinto col n. 50, della estensione di mq 530, sito in localita' "Coppole" del monte Taburno, da destinare all'installazione di un ponte ripetitore della rete radiotelefonica dell'Arma dei carabinieri.  
+379. Decreto del Presidente della Repubblica 28 aprile 1975, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Venafro (Isernia) con atto 1 luglio 1972, n. 37081 di repertorio, a rogito notaio Guido Riccio, di un fabbricato sito in Venafro, tra il corso Garibaldi e la via De Amicis, denominato S. Chiara (gia' ex convento S. Chiara).  
   
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 16 gennaio 1975  
-Atti di Governo, registro n. 7, foglio n. 109
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 8 agosto 1975  
+Atti di Governo, registro n. 11, foglio n. 57

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1977 n. 328
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1982 n. 522
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1977 n. 328
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1982 n. 522
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-328. Decreto del Presidente della Repubblica 9 maggio 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.ra Dinati Margherita con testamento olografo 3 aprile 1969, pubblicato a rogito del notaio dott. Mario Brunelli in data 22 febbraio 1975, numero 736/366 di repertorio, registrato a Orzinuovi (Brescia) il 4 marzo 1975 al n. 66, vol. I, consistente in beni mobili (denaro, titoli di credito, preziosi vari, mobili, suppellettili d'arredamento domestico, buoni del Tesoro novennali 5%) per un totale di lire 6.328.130.  
+522. Decreto del Presidente della Repubblica 8 giugno 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in titoli azionari, beni mobili, saldi c.c. presso l'Istituto bancario di S. Paolo di Torino, agenzia n. 8, per un importo complessivo di L. 30.024.946, disposta dalla sig.na Laura Castellano a favore della fondazione "Don Gnocchi", viale Settimio Severo n. 65, Torino, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione medesima in data 24 novembre 1979, con testamento olografo 9 settembre 1977 pubblicato in data 1° ottobre 1979, n. 12747 di repertorio e n. 2728 di fascicolo, a rogito dott. Francesco Goria, notaio in Torino, registrato a Pinerolo (Torino) il 18 ottobre 1979 al n. 5272.   
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 15 giugno 1977  
-Registro n. 5 Presidenza, foglio n. 210
+Visto, il Guardasigilli: DARIDA   
+Registrato alla Corte dei conti, addi' 2 agosto 1982   
+Registro n. 7 Presidenza, foglio n. 233

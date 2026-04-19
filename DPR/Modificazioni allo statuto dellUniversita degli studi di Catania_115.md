@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1965 n. 70
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1100
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1965 n. 70
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1100
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Catania.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,247 +20,84 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Considerata la necessita' di adeguare la norma sulla direzione delle scuole dirette a fini speciali a quanto disposto dall'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16);
 
-Decreta:
+Sulla
+-----
 
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+proposta del Ministro della pubblica istruzione; Decreta:
 
-Art. 9. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:
+Articolo unico
+--------------
 
-Diritto bizantino;
-
-Papirologia giuridica;
-
-Diritto pubblico dell'economia;
-
-Esegesi delle fonti del diritto italiano.
-
-Art. 14. - Agli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di:
-
-Diritto pubblico dell'economia;
-
-Storia del diritto pubblico italiano;
-
-Diritto privato comparato;
-
-Diritto processuale generale.
-
-Art. 46. - Dopo il sesto comma e' aggiunto alla propedeuticita' relativa al corso di laurea in Medicina e chirurgia l'esame di Fisiologia umana nei riguardi di quello di Farmacologia.
-
-Gli articoli da 89 a 96 relativi alla Scuola di applicazione forense annessa alla Facolta' di giurisprudenza sono abrogati e sostituiti con la seguente nuova denominazione: "Scuola di perfezionamento in Discipline forensi ed amministrative con il conseguente spostamento della numerazione degli articoli successivi".
-
-Scuola di perfezionamento in discipline forensi ed amministrative
-
-Art. 89. - Al fine di soddisfare le esigenze teoriche e pratiche della preparazione dei laureati all'esercizio della professione forense ed all'assunzione delle funzioni giudiziarie ed amministrative e' istituita presso la Facolta' di giurisprudenza, nell'ambito delle attivita' del Seminario giuridico, una Scuola di perfezionamento in discipline forensi ed amministrative.
-
-Art. 90. - Alla Scuola possono iscriversi i laureati in Giurisprudenza, in Scienze politiche ed in Economia e commercio. La domanda di ammissione, diretta al rettore, dovra' essere corredata del diploma di studi medi precedenti il corso di laurea di provenienza, del certificato di laurea e di tutti quei titoli che l'aspirante ritenga di dover presentare.
-
-Il Consiglio di Facolta' determina anno per anno il numero massimo di allievi che possono essere iscritti alla Scuola, secondo le particolari esigenze che si manifestano in ciascun anno accademico.
-
-Le domande di ammissione sono rimesse al direttore della Scuola, il quale, ove il numero dei richiedenti sia superiore a quello fissato come sopra, dopo aver valutato comparativamente i titoli, procede alla graduatoria degli aspiranti che deve essere approvata e resa esecutiva dal Consiglio di facolta'.
-
-Art. 91. - La Direzione della scuola e' affidata dal rettore ad un professore di ruolo della Facolta' di giurisprudenza per un triennio, su proposta della Facolta' stessa. Il direttore della Scuola vigila sulla frequenza, l'attivita' e la disciplina degli iscritti, controllando la osservanza degli orari delle lezioni e delle esercitazioni. La vigilanza del funzionamento generale della Scuola compete al preside della Facolta' di giurisprudenza.
-
-Art. 92. - L'insegnamento delle materie previste nel programma della Scuola e' affidato, per incarico, a professori titolari, a liberi docenti od a persone di riconosciuta competenza, con deliberazione della Facolta'.
-
-Art. 93. - Gli allievi sono tenuti ad osservare scrupolosamente l'orario delle lezioni e delle esercitazioni.
-
-La frequenza ai singoli corsi ed alle esercitazioni e' obbligatoria e deve essere attestata dai singoli insegnanti su uno speciale libretto, sul quale il direttore della Scuola dovra' apporre il visto per la validita' di ciascun anno di corso. L'iscritto che non abbia soddisfatto agli obblighi suddetti e che non abbia superato gli esami prescritti per il primo anno non viene ammesso all'anno successivo, ne', se di secondo anno, puo' essere ammesso agli esami di diploma ed e', pertanto, tenuto ad iscriversi quale ripetente al corso non completato.
-
-Art. 94. - Gli insegnamenti e le esercitazioni della Scuola debbono essere tenuti distinti da quelli per gli studenti del corso di laurea in Giurisprudenza ed in Scienze politiche. Gli insegnamenti possono avere, oltreche' carattere di lezioni cattedratiche, quella diversa forma che e' consentita dall'indole di ciascuna disciplina e si possono, in parte, svolgere mediante conferenze, esercitazioni e discussioni su problemi della pratica amministrativa e forense.
-
-Il programma della Scuola viene compilato ogni anno dal direttore e deve essere approvato dalla Facolta', che approva altresi' gli orari settimanali di insegnamento, concordati dal direttore della Scuola con gli insegnanti.
-
-Art. 95. - Il corso di perfezionamento in discipline forensi ed amministrative ha la durata di due anni divisi in un primo anno di studi comuni a tutti gli allievi ed in un anno di studi, distinto in due sezioni:
-
-a) di pratica forense;
-
-b) di pratica amministrativa.
-
-Gli insegnamenti del primo anno di corso, comuni alle due sessioni, sono:
-
-1) Diritto civile;
-
-2) Diritto commerciale;
-
-3) Diritto processuale civile;
-
-4) Diritto finanziario;
-
-5) Diritto penale;
-
-6) Procedura penale;
-
-7) Diritto amministrativo.
-
-Gli insegnamenti del secondo anno, per la sezione di pratica forense, sono:
-
-1) Diritto costituzionale;
-
-2) Diritto ecclesiastico e matrimoniale;
-
-3) Diritto del lavoro e della previdenza sociale;
-
-4) Diritto processuale amministrativo;
-
-5) Diritto fallimentare.
-
-Gli insegnamenti del secondo anno, per la sezione di pratica amministrativa sono:
-
-1) Diritto costituzionale;
-
-2) Diritto pubblico regionale;
-
-3) Diritto del lavoro e della previdenza sociale;
-
-4) Scienza dell'amministrazione;
-
-5) Diritto processuale amministrativo;
-
-6) Contabilita' dello Stato;
-
-7) Economia politica e statistica.
-
-Art. 96. - Gli esami di profitto vengono sostenuti dagli allievi, in unica sessione, alla fine di ogni anno di corso e si svolgono secondo le norme seguenti. Le Commissioni relative sono costituite dal Collegio degli insegnanti del primo anno di corso, per gli esami di questo; dal Collegio degli insegnanti del ramo forense, per gli esami del secondo anno di tale specializzazione, e dal Collegio degli insegnanti del ramo amministrativo per gli esami di secondo anno di questa specializzazione. Tali Commissioni sono nominate dal direttore che, in caso di impedimento di uno o piu' degli anzidetti insegnanti, provvede a sostituirli con un professore di ruolo della Facolta', di materie affine o con un libero docente. La Commissione per l'esame di diploma e' nominata dal rettore. Essa e' composta di sette membri di cui uno e' il direttore della Scuola, che la presiede, e gli altri sono scelti dal rettore fra i professori dei corsi ufficiali di insegnamento della Scuola.
-
-In caso di impedimento del direttore, la Commissione e' presieduta dal professore piu' anziano di ruolo, insegnante presso la Scuola.
-
-Non possono far parte delle Commissioni esaminatrici persone che siano fra loro o con alcuno dei candidati parenti od affini fino al quarto grado incluso.
-
-Art. 97. - Gli esami di profitto del primo anno consistono in un colloquio orale sostenuto dall'allievo con la' Commissione, sulle varie discipline oggetto del corso frequentato. Non e' ammesso al secondo anno di corso quell'allievo che non raggiunga la sufficienza in tutte le materie d'insegnamento del primo anno. Gli esami di profitto del secondo anno consistono nello svolgimento di due temi scritti, su argomenti assegnati dalle Commissioni e riguardanti le discipline trattate nei due anni di corso. Gli allievi sono tenuti a consegnare gli elaborati entro otto ore dalla dettatura del tema.
-
-Non e' ammesso all'esame di diploma l'allievo che non raggiunga la sufficienza in entrambi i temi assegnatigli. Le Commissioni, in ogni caso, nel formulare il loro giudizio sugli allievi, terranno conto delle esercitazioni scritte da essi elaborate durante l'anno accademico. L'esame di diploma consiste in un colloquio sulle varie materie insegnate nella Scuola.
-
-Art. 98. - Per la carriera scolastica, gli esami e la disciplina degli allievi della Scuola di perfezionamento valgono, in quanto applicabili e per quanto non prescritto nel presente statuto, le disposizioni del vigente ordinamento universitario sugli studenti.
-
-Art. 99. - Gli iscritti devono pagare per la tassa di Immatricolazione L. 5000, per la tassa annuale d'iscrizione L. 5000; per contributo di biblioteca L. 3000. I diplomandi dovranno, inoltre, pagare per sopratassa di diploma L. 3000; coloro i quali conseguono il diploma di perfezionamento sono tenuti al versamento della tassa di diploma in L. 6000.
-
-Tasse, sopratasse e contributi sono versati alla cassa dell'Universita'; la tassa di diploma, va, invece, versata all'Erario. Il provento delle tasse di immatricolazione e di iscrizione va devoluto, per meta', alla Scuola e per l'altra meta' e' incamerato dall'Universita'.
-
-Il contributo di biblioteca va interamente devoluto alla biblioteca del Seminario giuridico. Il provento delle sopratasse per gli esami di profitto e di diploma, e' ripartito a norma del [decreto del Presidente della Repubblica 1 dicembre 1952, n. 4512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-12-01;4512).
-
-Art. 100. - Il primo anno della Scuola di perfezionamento viene considerato come corso di pratica forense e, pertanto, puo' tener luogo della frequenza dello studio di un procuratore per un periodo non superiore ad un anno, ai sensi ed agli effetti dell'[art. 18 del regio decreto 27 novembre 1933, n. 1578](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-11-27;1578~art18). Gli iscritti che siano in regola con il pagamento di tasse, sopratasse e contributi, possono ottenere il rilascio del certificato relativo da parte del direttore della Scuola, qualora abbiano frequentato il detto primo corso con profitto ed abbiano superato gli esami previsti dal, piano della Scuola per l'ammissione al 2° anno.
-
-Art. 101. - Gli atti ed i documenti relativi ai corsi anzidetti sono conservati dalla segreteria dell'Universita', che provvede al rilascio dei certificati che siano richiesti dagli interessati. In base ai risultati degli esami di diploma, il rettore dispone il rilascio dei diplomi di specializzazione, che saranno muniti della sua firma, di quella del direttore della Scuola e del direttore amministrativo, oltreche' del timbro a secco dell'Universita'.
-
-Art. 166. - L'ultimo comma e' abrogato e sostituito dal seguente: "La frequenza ai corsi, alle esercitazioni cliniche e di laboratorio e' obbligatoria e deve essere attestata dai singoli insegnanti su speciale libretto. Su tale libretto il direttore della Scuola dovra' apporre il visto per la validita' di ciascun anno di corso.
-
-L'iscritto che non abbia superati gli esami prescritti per ciascun anno di corso puo' essere ammesso all'anno successivo".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 19 gennaio 1965
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 25 febbraio 1965 Atti del Governo, registro n. 191, foglio n. 29. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
+Dopo l'art. 278 dello statuto dell'Universita' degli studi di Catania e' aggiunto il capo II con gli articoli concernenti l'istituzione della scuola speciale di preparazione per tecnici di colpocitologia.   
   
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 9. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:  
-Diritto bizantino;  
-Papirologia giuridica;  
-Diritto pubblico dell'economia;  
-Esegesi delle fonti del diritto italiano.  
-Art. 14. - Agli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di:  
-Diritto pubblico dell'economia;  
-Storia del diritto pubblico italiano;  
-Diritto privato comparato;  
-Diritto processuale generale.  
-Art. 46. - Dopo il sesto comma e' aggiunto alla propedeuticita' relativa al corso di laurea in Medicina e chirurgia l'esame di Fisiologia umana nei riguardi di quello di Farmacologia.  
-Gli articoli da 89 a 96 relativi alla Scuola di applicazione forense annessa alla Facolta' di giurisprudenza sono abrogati e sostituiti con la seguente nuova denominazione: "Scuola di perfezionamento in Discipline forensi ed amministrative con il conseguente spostamento della numerazione degli articoli successivi".  
+Capo II   
   
-Scuola di perfezionamento in discipline forensi ed amministrative  
+Scuola speciale di preparazione per tecnici di colpocitologia   
   
-Art. 89. - Al fine di soddisfare le esigenze teoriche e pratiche della preparazione dei laureati all'esercizio della professione forense ed all'assunzione delle funzioni giudiziarie ed amministrative e' istituita presso la Facolta' di giurisprudenza, nell'ambito delle attivita' del Seminario giuridico, una Scuola di perfezionamento in discipline forensi ed amministrative.  
-Art. 90. - Alla Scuola possono iscriversi i laureati in Giurisprudenza, in Scienze politiche ed in Economia e commercio. La domanda di ammissione, diretta al rettore, dovra' essere corredata del diploma di studi medi precedenti il corso di laurea di provenienza, del certificato di laurea e di tutti quei titoli che l'aspirante ritenga di dover presentare.  
-Il Consiglio di Facolta' determina anno per anno il numero massimo di allievi che possono essere iscritti alla Scuola, secondo le particolari esigenze che si manifestano in ciascun anno accademico.  
-Le domande di ammissione sono rimesse al direttore della Scuola, il quale, ove il numero dei richiedenti sia superiore a quello fissato come sopra, dopo aver valutato comparativamente i titoli, procede alla graduatoria degli aspiranti che deve essere approvata e resa esecutiva dal Consiglio di facolta'.  
-Art. 91. - La Direzione della scuola e' affidata dal rettore ad un professore di ruolo della Facolta' di giurisprudenza per un triennio, su proposta della Facolta' stessa. Il direttore della Scuola vigila sulla frequenza, l'attivita' e la disciplina degli iscritti, controllando la osservanza degli orari delle lezioni e delle esercitazioni. La vigilanza del funzionamento generale della Scuola compete al preside della Facolta' di giurisprudenza.  
-Art. 92. - L'insegnamento delle materie previste nel programma della Scuola e' affidato, per incarico, a professori titolari, a liberi docenti od a persone di riconosciuta competenza, con deliberazione della Facolta'.  
-Art. 93. - Gli allievi sono tenuti ad osservare scrupolosamente l'orario delle lezioni e delle esercitazioni.  
-La frequenza ai singoli corsi ed alle esercitazioni e' obbligatoria e deve essere attestata dai singoli insegnanti su uno speciale libretto, sul quale il direttore della Scuola dovra' apporre il visto per la validita' di ciascun anno di corso. L'iscritto che non abbia soddisfatto agli obblighi suddetti e che non abbia superato gli esami prescritti per il primo anno non viene ammesso all'anno successivo, ne', se di secondo anno, puo' essere ammesso agli esami di diploma ed e', pertanto, tenuto ad iscriversi quale ripetente al corso non completato.  
-Art. 94. - Gli insegnamenti e le esercitazioni della Scuola debbono essere tenuti distinti da quelli per gli studenti del corso di laurea in Giurisprudenza ed in Scienze politiche. Gli insegnamenti possono avere, oltreche' carattere di lezioni cattedratiche, quella diversa forma che e' consentita dall'indole di ciascuna disciplina e si possono, in parte, svolgere mediante conferenze, esercitazioni e discussioni su problemi della pratica amministrativa e forense.  
-Il programma della Scuola viene compilato ogni anno dal direttore e deve essere approvato dalla Facolta', che approva altresi' gli orari settimanali di insegnamento, concordati dal direttore della Scuola con gli insegnanti.  
-Art. 95. - Il corso di perfezionamento in discipline forensi ed amministrative ha la durata di due anni divisi in un primo anno di studi comuni a tutti gli allievi ed in un anno di studi, distinto in due sezioni:  
-a) di pratica forense;  
-b) di pratica amministrativa.  
-Gli insegnamenti del primo anno di corso, comuni alle due sessioni, sono:  
-1) Diritto civile;  
-2) Diritto commerciale;  
-3) Diritto processuale civile;  
-4) Diritto finanziario;  
-5) Diritto penale;  
-6) Procedura penale;  
-7) Diritto amministrativo.  
-Gli insegnamenti del secondo anno, per la sezione di pratica forense, sono:  
-1) Diritto costituzionale;  
-2) Diritto ecclesiastico e matrimoniale;  
-3) Diritto del lavoro e della previdenza sociale;  
-4) Diritto processuale amministrativo;  
-5) Diritto fallimentare.  
-Gli insegnamenti del secondo anno, per la sezione di pratica amministrativa sono:  
-1) Diritto costituzionale;  
-2) Diritto pubblico regionale;  
-3) Diritto del lavoro e della previdenza sociale;  
-4) Scienza dell'amministrazione;  
-5) Diritto processuale amministrativo;  
-6) Contabilita' dello Stato;  
-7) Economia politica e statistica.  
-Art. 96. - Gli esami di profitto vengono sostenuti dagli allievi, in unica sessione, alla fine di ogni anno di corso e si svolgono secondo le norme seguenti. Le Commissioni relative sono costituite dal Collegio degli insegnanti del primo anno di corso, per gli esami di questo; dal Collegio degli insegnanti del ramo forense, per gli esami del secondo anno di tale specializzazione, e dal Collegio degli insegnanti del ramo amministrativo per gli esami di secondo anno di questa specializzazione. Tali Commissioni sono nominate dal direttore che, in caso di impedimento di uno o piu' degli anzidetti insegnanti, provvede a sostituirli con un professore di ruolo della Facolta', di materie affine o con un libero docente. La Commissione per l'esame di diploma e' nominata dal rettore. Essa e' composta di sette membri di cui uno e' il direttore della Scuola, che la presiede, e gli altri sono scelti dal rettore fra i professori dei corsi ufficiali di insegnamento della Scuola.  
-In caso di impedimento del direttore, la Commissione e' presieduta dal professore piu' anziano di ruolo, insegnante presso la Scuola.  
-Non possono far parte delle Commissioni esaminatrici persone che siano fra loro o con alcuno dei candidati parenti od affini fino al quarto grado incluso.  
-Art. 97. - Gli esami di profitto del primo anno consistono in un colloquio orale sostenuto dall'allievo con la' Commissione, sulle varie discipline oggetto del corso frequentato. Non e' ammesso al secondo anno di corso quell'allievo che non raggiunga la sufficienza in tutte le materie d'insegnamento del primo anno. Gli esami di profitto del secondo anno consistono nello svolgimento di due temi scritti, su argomenti assegnati dalle Commissioni e riguardanti le discipline trattate nei due anni di corso. Gli allievi sono tenuti a consegnare gli elaborati entro otto ore dalla dettatura del tema.  
-Non e' ammesso all'esame di diploma l'allievo che non raggiunga la sufficienza in entrambi i temi assegnatigli. Le Commissioni, in ogni caso, nel formulare il loro giudizio sugli allievi, terranno conto delle esercitazioni scritte da essi elaborate durante l'anno accademico. L'esame di diploma consiste in un colloquio sulle varie materie insegnate nella Scuola.  
-Art. 98. - Per la carriera scolastica, gli esami e la disciplina degli allievi della Scuola di perfezionamento valgono, in quanto applicabili e per quanto non prescritto nel presente statuto, le disposizioni del vigente ordinamento universitario sugli studenti.  
-Art. 99. - Gli iscritti devono pagare per la tassa di Immatricolazione L. 5000, per la tassa annuale d'iscrizione L. 5000; per contributo di biblioteca L. 3000. I diplomandi dovranno, inoltre, pagare per sopratassa di diploma L. 3000; coloro i quali conseguono il diploma di perfezionamento sono tenuti al versamento della tassa di diploma in L. 6000.  
-Tasse, sopratasse e contributi sono versati alla cassa dell'Universita'; la tassa di diploma, va, invece, versata all'Erario. Il provento delle tasse di immatricolazione e di iscrizione va devoluto, per meta', alla Scuola e per l'altra meta' e' incamerato dall'Universita'.  
-Il contributo di biblioteca va interamente devoluto alla biblioteca del Seminario giuridico. Il provento delle sopratasse per gli esami di profitto e di diploma, e' ripartito a norma del [decreto del Presidente della Repubblica 1 dicembre 1952, n. 4512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-12-01;4512).  
-Art. 100. - Il primo anno della Scuola di perfezionamento viene considerato come corso di pratica forense e, pertanto, puo' tener luogo della frequenza dello studio di un procuratore per un periodo non superiore ad un anno, ai sensi ed agli effetti dell'[art. 18 del regio decreto 27 novembre 1933, n. 1578](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-11-27;1578~art18). Gli iscritti che siano in regola con il pagamento di tasse, sopratasse e contributi, possono ottenere il rilascio del certificato relativo da parte del direttore della Scuola, qualora abbiano frequentato il detto primo corso con profitto ed abbiano superato gli esami previsti dal, piano della Scuola per l'ammissione al 2° anno.  
-Art. 101. - Gli atti ed i documenti relativi ai corsi anzidetti sono conservati dalla segreteria dell'Universita', che provvede al rilascio dei certificati che siano richiesti dagli interessati. In base ai risultati degli esami di diploma, il rettore dispone il rilascio dei diplomi di specializzazione, che saranno muniti della sua firma, di quella del direttore della Scuola e del direttore amministrativo, oltreche' del timbro a secco dell'Universita'.  
-Art. 166. - L'ultimo comma e' abrogato e sostituito dal seguente: "La frequenza ai corsi, alle esercitazioni cliniche e di laboratorio e' obbligatoria e deve essere attestata dai singoli insegnanti su speciale libretto. Su tale libretto il direttore della Scuola dovra' apporre il visto per la validita' di ciascun anno di corso.  
-L'iscritto che non abbia superati gli esami prescritti per ciascun anno di corso puo' essere ammesso all'anno successivo".  
+Art. 279. - E' istituita presso la prima clinica ostetrica e ginecologica dell'Universita' di Catania una scuola di preparazione per citotecnici che ha lo scopo di addestrare adeguatamente personale nel campo della diagnostica precoce del cancro genitale femminile.   
+La scuola ha indirizzo teorico-pratico. La durata del corso degli studi e' di due anni.   
+Art. 280. - Possono essere ammessi alla scuola gli allievi in possesso di un titolo di istruzione secondaria valido per l'ammissione ai corsi universitari.   
+Art. 281. - Alla scuola per tecnici di colpocitologia si accede previo esame di cultura generale davanti ad una commissione composta dal direttore della scuola e da due insegnanti della stessa.   
+L'esame di ammissione e la valutazione dei titoli ha luogo entro la prima quindicina del mese di ottobre di ciascun anno, in un giorno stabilito dalla facolta' di medicina e chirurgia, su proposta del direttore della scuola.   
+Il numero degli iscritti e' di otto per ogni anno di corso.   
+Art. 282. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa.   
+In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.   
+Gli insegnanti della scuola sono proposti dal consiglio di facolta' di medicina e chirurgia udito il direttore della scuola e nominati dal rettore.   
+Art. 283. - Le materie d'insegnamento sono le seguenti:   
+1° Anno:   
+fisica;   
+chimica e biochimica;   
+biologia (con particolare riguardo alla citologia generale);   
+anatomia, istologia umana normale e fisiologia con particolare riguardo all'apparato genitale femminile;   
+microbiologia;   
+tecnica citologica e colposcopica.   
+2° Anno:   
+anatomia ed istologia patologica umana con particolare riguardo all'apparato genitale femminile;   
+citologia (normale e patologica dell'apparato genitale femminile compresa la mammella);   
+colposcopia;   
+tecnica istologica ed istochimica;   
+tecnica fotografica e micrografica.   
+Art. 284. - Gli iscritti alla scuola hanno l'obbligo di eseguire un tirocinio pratico mediante la frequenza nel laboratorio di citologia e nell'ambulatorio di colposcopia della prima clinica ostetrica e ginecologica per la durata di due anni.   
+I programmi di insegnamento e gli orari sono predisposti dal direttore della scuola ed approvati dal consiglio della facolta' di medicina e chirurgia.   
+La sorveglianza degli iscritti, per quanto riguarda la loro attivita' teorica e pratica, spetta al direttore della scuola.   
+Assenze ingiustificate comportano l'esclusione dal corso.   
+Art. 285. - Per essere ammessi a sostenere gli esami di diploma, gli allievi devono aver seguito i corsi superando i relativi esami ed aver compiuto con esito favorevole tutte le esercitazioni pratiche previste.   
+Gli esami annuali per le singole materie e quelli del diploma si tengono in unica sessione: quella autunnale a chiusura dei corsi.   
+Art. 286. - Le commissioni per gli esami sono nominate dal preside della facolta' di medicina e chirurgia, su proposta del direttore della scuola.   
+Le commissioni per gli esami sono composte da tre membri: il direttore della scuola, presidente, l'insegnante della materia oggetto dell'esame ed un altro docente della scuola. Ogni commissario ha a sua disposizione dieci punti.   
+Art. 287. - L'esame di diploma consiste in un esame orale sui temi trattati durante il corso ed in una o piu' prove pratiche stabilite dalla commissione esaminatrice.   
+L'esame di diploma viene sostenuto davanti a una commissione composta da cinque membri scelti fra i docenti della scuola nominati dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola.   
+Ogni commissario ha a sua disposizione dieci punti.   
+Art. 288. - Le tasse e soprattasse che gli iscritti sono tenuti a versare sono fissate come segue:   
+  
+tassa di immatricolazione. . . . . . . . . . . . . . . . . . L. 2.000 tassa di iscrizione . . . . . . . . . . . . . . . . . . . . L. 50.000 soprattassa esami . . . . . . . . . . . . . . . . . . . . . L. 10.000 tassa erariale di diploma . . . . . . . . . . . . . . . . . L. 50.000   
+  
+I contributi sono determinati di anno in anno dal consiglio di amministrazione su proposta del senato accademico, sentito il consiglio della facolta' di medicina e chirurgia.   
+Art. 289. - I diplomi sono firmati dal rettore, dal direttore della scuola e dal direttore amministrativo dell'Universita'.   
+I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza della scuola.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 gennaio 1965
+### Dato a Roma, addi' 31 ottobre 1981
 
-SARAGAT GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 25 febbraio 1965
+Registrato alla Corte dei conti, addi' 10 marzo 1982
 
-Atti del Governo, registro n. 191, foglio n. 29. - VILLA
+Registro n. 38 Istruzione, foglio n. 279

@@ -1,283 +1,140 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1968 n. 204
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969 n. 443
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1968 n. 204
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969 n. 443
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 25 luglio 1966, n. 602](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-25;602);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta, relative alla istituzione presso la facolta' di agraria del corso di laurea in scienze della produzione animale;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla
------
-
-proposta del Ministro per la pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Presso le facolta' di agraria puo' essere istituito il corso di laurea in scienze della produzione animale.  
-Il titolo di studio per l'ammissione al predetto corso di laurea, la durata e l'ordinamento del corso medesimo sono stabiliti dalla tabella annessa al presente decreto, firmato d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione (allegato A).  
-All'elenco delle lauree e dei diplomi, di cui alla tabella I, annessa al [regio decreto 30 settembre 1938, numero 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e' aggiunta la "laurea in scienze della produzione animale".  
-La tabella II, annessa al citato regio decreto n. 1652 e' integrata nel senso che la facolta' di agraria rilascia anche la laurea in "scienze della produzione animale".  
-Dopo la tabella XXXI-bis, annessa al citato regio decreto n. 1652 e' inserita, assumendo il numero XXXI-ter, la tabella annessa al presente decreto.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-A decorrere dall'anno accademico 1968-69 e' istituito presso la facolta' di agraria dell'Universita' di Bologna il corso di laurea in scienze della produzione animale.  
-
-Art. 3
-------
-
+Decreta:  
   
-Lo statuto dell'universita' anzidetta, pertanto, e' ulteriormente modificato come dal testo annesso al presente decreto, firmato d'ordine del Presidente della Repubblica dal Ministro per la pubblica istruzione (allegato B).  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 51. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti quelli di:  
+  
+Storia sociale;  
+Storia della tecnica;  
+Econometria.  
+Art. 52, relativo alle propedeuticita' del suddetto corso di laurea e' modificato nel senso che il secondo comma e' soppresso e il quinto comma e' abrogato e sostituito dal seguente: "L'esame di tecnica industriale e commerciale senza aver superato prima l'esame di ragioneria generale e applicata 1° corso".  
+Art. 61, relativo agli istituti annessi alla facolta' di economia e commercio e' modificato nel senso che la denominazione dell'istituto di matematica finanziaria muta denominazione in quella di "Istituto di matematica generale e finanziaria".  
+Nello stesso articolo dopo l'elenco degli istituti e' aggiunto il seguente comma: "Con il regolamento approvato dal consiglio di facolta', possono essere articolati, all'interno di ogni istituto, reparti e seminari per singole discipline, o per gruppi di discipline o per settori e tipi di ricerca e di insegnamento".  
+Art. 62. - E' abrogato e sostituito dal seguente: "Il direttore degli istituti di cui all'articolo precedente e' eletto, per un triennio, fra i professori di ruolo, o, in assenza di professori di ruolo, tra i professori ufficiali di ogni istituto, dal personale insegnante dell'istituto stesso. Il direttore e' rieleggibile.  
+Con regolamento approvato dal consiglio di facolta' possono essere istituiti consigli direttivi di istituto e puo' essere fissata la elezione di un vicedirettore e di un segretario di istituto".  
+Dopo l'art. 62 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente nuovo articolo.  
+Art. 63. - Alla facolta' di economia e commercio e' annessa una biblioteca centrale il cui funzionamento e' regolato dalle norme vigenti per gli istituti universitari.  
+La biblioteca centrale e' diretta da un professore ordinario della facolta' eletto per un triennio dal consiglio di facolta'. Il direttore, che e' rieleggibile, riferisce annualmente al consiglio di facolta' sulla gestione della biblioteca stessa.  
+Art. 64. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
+  
+Archeologia e storia dell'arte del vicino oriente antico;  
+Dialettologia italiana;  
+Egittologia;  
+Linguistica generale;  
+Storia orientale antica;  
+Archivistica;  
+Storia delle universita'.  
+Art. 65. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:  
+  
+Linguistica generale;  
+Logica;  
+Storia della scienza;  
+Storia della critica.  
+Art. 70. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo) sono aggiunti i seguenti:  
+  
+Dialettologia italiana;  
+Linguistica generale.  
+Art. 78. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto il seguente:  
+  
+Letteratura moderna e contemporanea.  
+Art. 79. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia e' aggiunto il seguente:  
+  
+Letteratura moderna e contemporanea.  
+Art. 80. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto il seguente:  
+  
+Letteratura moderna e contemporanea.  
+Art. 96. - All'elenco degli insegnamenti complementari del corso di laurea in chimica (indirizzo organico-biologico) sono aggiunti i seguenti:  
+  
+Spettrometria di massa;  
+Cromatografia;  
+Magnetochimica.  
+Nello stesso articolo, all'elenco degli insegnamenti complementari del corso di laurea in chimica (indirizzo inorganico-chimico-fisico) e' aggiunto il seguente: "Fotografia scientifica con esercitazioni".  
+Art. 97. - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:  
+  
+Genetica dei microorganismi;  
+Genetica delle popolazioni;  
+Genetica umana;  
+Biologia molecolare;  
+Sistematica di vertebrati;  
+Fitosociologia;  
+Biochimica comparata;  
+Parassitologia;  
+Entomologia;  
+Fisiologia dello sviluppo;  
+Fisiologia comparata;  
+Microscopia elettronica;  
+Embriologia;  
+Micologia;  
+Micropaleontologia;  
+Paleoecologia.  
+Nello stesso articolo sono soppressi i seguenti insegnamenti complementari:  
+  
+Biologia delle razze umane;  
+Antropometria;  
+Zooculture;  
+Entomologia agraria.  
+Dopo l'elenco degli insegnamenti complementari del predetto corso di laurea, dopo il primo comma e' aggiunto il seguente: "Il corso biennale di zoologia importera' due esami distinti rispettivamente alla fine del 1° e del 2° anno di corso".  
+Art. 98. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:  
+  
+Genetica dei microorganismi;  
+Genetica delle popolazioni;  
+Genetica umana;  
+Biologia molecolare;  
+Sistematica di vertebrati;  
+Fitosociologia;  
+Biochimica comparata;  
+Parassitologia;  
+Entomologia;  
+Fisiologia comparata;  
+Microscopia elettronica;  
+Embriologia.  
+Nello stesso articolo sono soppressi i seguenti insegnamenti complementari:  
+  
+Biologia delle razze umane;  
+Antropometria;  
+Zooculture (bachi, api);  
+Entomologia agraria.  
+Dopo l'elenco degli insegnamenti complementari del predetto corso di laurea e' aggiunto, dopo il primo comma, il seguente: "Il corso biennale di zoologia importera' due esami distinti rispettivamente alla fine del 1° e del 2° anno di corso".  
+Art. 99. - All'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti:  
+  
+Paleoecologia;  
+Geologia marina;  
+Rilevamento geologico;  
+Petrologia sperimentale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 febbraio 1968
+### Dato a Roma, addi' 29 maggio 1969
 
-SARAGAT GUI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 14 marzo 1968
+Registrato alla Corte dei conti, addi' 18 luglio 1969
 
-Atti del Governo, registro n. 218, foglio n. 18. - GRECO
-
-Allegato A
-
- ALLEGATO A   
-  
-Tabella XXXI-ter   
-  
-Laurea in scienze della produzione animale   
-  
-Durata del corso degli studi: quattro anni, divisi in due bienni.   
-Titolo di ammissione: diploma di maturita' classica o di maturita' scientifica.   
-Diploma di abilitazione per i provenienti dagli istituti tecnici agrari e per geometri.   
-  
-Insegnamenti fondamentali:   
-1° biennio   
-1) Agronomia generale e coltivazioni erbacee;   
-2) Anatomia degli animali domestici;   
-3) Botanica generale;   
-4) Chimica;   
-5) Principi di economia politica e di statistica;   
-6) Estimo rurale e contabilita';   
-7) Fisiologia degli animali domestici;   
-8) Biochimica;   
-9) Patologia generale comparata;   
-10) Zoologia generale;   
-11) Alimentazione animale;   
-12) Genetica animale e zootecnica generale.   
-  
-2° biennio   
-1) Avicoltura;   
-2) Coltivazione e conservazione dei foraggi;   
-3) Igiene veterinaria;   
-4) Industrie alimentari dei prodotti di origine animale;   
-5) Topografia e costruzioni rurali con applicazioni di disegno;   
-6) Microbiologia agraria e tecnica;   
-7) Economia e politica agraria;   
-8) Zooeconomia;   
-9) Zootecnica speciale (biennale);   
-10) Zoognostica.   
-  
-Insegnamenti complementari:   
-1) Chimica agraria;   
-2) Edilizia zootecnica (semestrale);   
-3) Entomologia agraria (semestrale);   
-4) Fisica;   
-5) Fisioclimatologia (semestrale);   
-6) Immunogenetica (semestrale);   
-7) Meccanica agraria con applicazioni di disegno;   
-8) Microbiologia dei prodotti zootecnici (semestrale);   
-9) Meccanizzazione degli impianti zootecnici;   
-10) Organizzazione del lavoro (semestrale);   
-11) Fisiopatologia della riproduzione;   
-12) Parassitologia;   
-13) Patologia vegetale (semestrale);   
-14) Tecnica mangimistica;   
-15) Legislazione zootecnica e contrattazione degli animali domestici (semestrale);   
-16) Idrobiologia. Piscicoltura (semestrale);   
-17) Matematica;   
-18) Approvvigionamenti annonari, mercati ed industrie degli alimenti di origine animale;   
-19) Igiene zootecnica;   
-20) Patologia aviare (semestrale).   
-  
-Per ottenere l'iscrizione al secondo biennio di applicazione, lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali del 1° biennio.   
-L'esame di anatomia degli animali domestici e di biochimica debbono precedere quello di fisiologia degli animali domestici.   
-L'esame di fisiologia degli animali domestici deve precedere quelli di zoognostica, zootecnica speciale, zootecnica generale, zoocolture e alimentazione animale.   
-L'esame di chimica deve precedere quello di biochimica.   
-L'esame di genetica animale e zootecnica generale deve precedere quello di zootecnica speciale.   
-Per essere ammesso all'esame di laurea in scienze della produzione animale lo studente deve aver seguito tutti i corsi e superato gli esami in tutti gli insegnamenti fondamentali del 2° biennio ed almeno in 6 complementari a corso annuale. A tale effetto due corsi complementari semestrali sono computati come corso annuale.   
-  
-Visto, d'ordine del Presidente della Repubblica   
-  
-Il Ministro per la pubblica istruzione   
-GUI   
-
-Allegato B
-
- ALLEGATO B   
-  
-Lo statuto dell'Universita' di Bologna e' modificato come segue:   
-Art. 2. - Il penultimo comma e' abrogato e sostituito dal seguente:  
-Facolta' di agraria.   
-Laurea in scienze agrarie, durata del corso 4 anni, diviso in due bienni.   
-Laurea in scienze della produzione animale, durata del corso 4 anni, diviso in due bienni.   
-  
-Art. 125. - Il primo comma e' abrogato e sostituito dal seguente: "La facolta' di agraria dopo un corso di studi di quattro anni, divisi in due bienni conferisce la laurea in scienze agrarie e la laurea di scienza della produzione animale. E' titolo di ammissione: il diploma di maturita' classica o di maturita' scientifica; ed inoltre il diploma di abilitazione degli istituti tecnici agrari e per geometri".   
-Dopo l'art. 134, e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli, contenenti l'ordinamento del corso di laurea in scienze della produzione animale, annesso alla facolta' di agraria.   
-  
-Art. 135. - Gli insegnamenti per la laurea in scienze della produzione animale sono i seguenti:   
-  
-Fondamentali del 1° biennio:   
-1) Agronomia generale e coltivazioni erbacee;   
-2) Anatomia degli animali domestici;   
-3) Botanica generale;   
-4) Chimica;   
-5) Principi di economia politica e di statistica;   
-6) Estimo rurale e contabilita';   
-7) Fisiologia degli animali domestici;   
-8) Biochimica;   
-9) Patologia generale comparata;   
-10) Zoologia generale;   
-11) Alimentazione animale;   
-12) Genetica animale e zootecnica generale.   
-  
-Fondamentali del 2° biennio:   
-1) Avicoltura;   
-2) Coltivazione e conservazione dei foraggi;   
-3) Igiene veterinaria;   
-4) Industrie alimentari dei prodotti di origine animale;   
-5) Topografia e costruzioni rurali con applicazioni di disegno;   
-6) Microbiologia agraria e tecnica;   
-7) Economia e politica agraria;   
-8) Zooeconomia;   
-9) Zootecnica speciale (biennale);   
-10) Zoognostica.   
-  
-Complementari:   
-1) Chimica agraria;   
-2) Edilizia zootecnica (semestrale);   
-3) Entomologia agraria (semestrale);   
-4) Fisica;   
-5) Fisioclimatologia (semestrale);   
-6) Immunogenetica (semestrale);   
-7) Meccanica agraria con applicazioni di disegno;   
-8) Microbiologia dei prodotti zootecnici (semestrale);   
-9) Meccanizzazione degli impianti zootecnici;   
-10) Organizzazione del lavoro (semestrale);   
-11) Fisiopatologia della riproduzione;   
-12) Parassitologia;   
-13) Patologia vegetale (semestrale);   
-14) Tecnica mangimistica;   
-15) Legislazione zootecnica e contrattazione degli animali domestici (semestrale);   
-16) Idrobiologia. Piscicoltura (semestrale);   
-17) Matematica;   
-18) Approvvigionamenti annonari, mercati ed industrie degli alimenti di origine animale;   
-19) Igiene zootecnica;   
-20) Patologia aviare (semestrale).   
-  
-Sono insegnamenti complementari in accordo al disposto dell'art. 127, comma quarto, anche quelli indicati per il corso di laurea in scienze agrarie, di cui all'art. 127.   
-Per ottenere l'iscrizione al secondo biennio di applicazione lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali del 1° biennio.   
-  
-Art. 136. - I provvedimenti relativi agli insegnamenti delle materie ed agli istituti sottoelencati, verranno adottati dalla facolta' di agraria di concerto col consiglio della facolta' di medicina veterinaria.   
-  
-Insegnamenti fondamentali:   
-1) Anatomia degli animali domestici;   
-2) Fisiologia degli animali domestici;   
-3) Biochimica;   
-4) Alimentazione animale;   
-5) Zootecnica speciale;   
-6) Genetica animale e zootecnica generale;   
-7) Igiene veterinaria;   
-8) Zoognostica.   
-  
-Insegnamenti complementari:   
-1) Microbiologia dei prodotti zootecnici (semestrale);   
-2) Fisiopatologia della riproduzione;   
-3) Parassitologia;   
-4) Approvvigionamenti annonari, mercati ed industrie degli alimenti di origine animale;   
-5) Legislazione zootecnica e contrattazione degli animali domestici (semestrale);   
-6) Patologia aviare (semestrale).   
-  
-Istituti:   
-1) Alimentazione animale;   
-2) Zootecnica speciale.   
-  
-Art. 137. - I seguenti insegnamenti oltre alle lezioni comprendono dimostrazioni pratiche ed esercizi di laboratorio, visite di istruzione ed escursioni:   
-1) Anatomia degli animali domestici;   
-2) Biochimica;   
-3) Chimica;   
-4) Agronomia generale e coltivazioni erbacee;   
-5) Microbiologia agraria e tecnica;   
-6) Economia e politica agraria;   
-7) Meccanica agraria con applicazioni di disegno;   
-8) Zootecnica generale;   
-9) Zootecnica speciale;   
-10) Avicoltura;   
-11) Alimentazione animale;   
-12) Approvvigionamenti annonari, mercati ed industrie degli alimenti di origine animale;   
-13) Topografia e costruzioni rurali con applicazioni di disegno;   
-14) Estimo rurale e contabilita';   
-15) Fisiopatologia della riproduzione;   
-16) Zooeconomia;   
-17) Coltivazione e conservazione dei foraggi:   
-18) Igiene veterinaria.   
-  
-Art. 138. - L'esame di anatomia degli animali domestici e di biochimica debbono precedere quello di fisiologia degli animali domestici.   
-L'esame di fisiologia degli animali domestici deve precedere quelli di zoognostica, zootecnica speciale, zootecnica generale, zoocolture e alimentazione animale. L'esame di chimica deve precedere quello di biochimica.   
-L'esame di genetica animale e zootecnica generale deve precedere quello di zootecnica speciale.   
-  
-Art. 139. - Modifiche agli articoli 135 e 136 saranno effettuate previa intesa con la facolta' di medicina veterinaria dello stesso ateneo.   
-  
-Art. 140. - Per essere ammesso all'esame di laurea in scienze della produzione animale lo studente deve aver seguito tutti i corsi e superato gli esami in tutti gli insegnamenti fondamentali del 2° biennio ed almeno in 6 complementari a corso annuale. A tale effetto due corsi complementari semestrali sono computati come corso annuale.   
-  
-Art. 141. - Norme comuni ad entrambi i corsi di laurea.   
-La scelta delle materie complementari sara' effettuata dallo studente in accordo con un professore di ruolo della facolta', non oltre l'inizio del secondo anno di corso; secondo uno schema predisposto dal docente al fine di indirizzare lo studente stesso verso un dato orientamento entro il quale sara' scelta la dissertazione di laurea.   
-E' ammesso il cambiamento di indirizzo, da convenirsi con altro docente di ruolo con rettifica del piano delle materie complementari.   
-Tra la data del cambiamento e quella della laurea deve decorrere un periodo di tempo che include un intero ciclo di lezioni.   
-E' ammesso il cambiamento di indirizzo, col vincolo di sostenere gli esami nelle materie complementari attinenti il nuovo indirizzo prescelto; il passaggio al nuovo indirizzo sara' quindi concordato sempre con un professore della facolta' e con opportune integrazioni di corsi.   
-  
-Art. 142. - L'insegnamento per ogni disciplina si svolge in almeno tre lezioni settimanali di un'ora ciascuno, in giorni diversi. E' in facolta' dei professori ufficiali e dei liberi docenti di trasformare un certo numero di lezioni in colloqui, conferenze, ecc.   
-  
-Art. 143. - Gli esami di profitto si danno per singoli insegnamenti. L'ammissione agli esami per gli insegnamenti che sono impartiti presso altre facolta' e' regolata dalle disposizioni in esse vigenti. Per le materie dei corsi propri della facolta' di agraria l'ammissione agli esami e' regolata dalle disposizioni stabilite dal consiglio della facolta' medesima.   
-Lo stesso consiglio puo' consentire l'ammissione degli studenti di ciascuno dei due corsi di laurea agli esami complementari dell'altro corso.   
-  
-Art. 144. - Per gli studenti provenienti da altre facolta' e scuole il consiglio stabilisce quali corsi gia' frequentati e quali esami gia' sostenuti siano da considerarsi equipollenti a quelli della facolta' di agraria e determina l'ulteriore svolgimento della carriera scolastica.   
-I giovani forniti di laurea o diploma e che aspirano al conseguimento della laurea in scienze agrarie o in scienze della produzione animale, non possono essere ammessi ad un corso superiore al secondo.   
-Per costoro il consiglio stabilisce gli insegnamenti che debbono seguire e dei quali debbono superare gli esami.   
-In ogni caso i richiedenti devono essere forniti del titolo di studio prescritto per l'iscrizione al corso di laurea.   
-  
-Art. 145. - L'esame di laurea consiste nella discussione di una dissertazione scritta svolta dal candidato su argomento scelto, d'accordo col professore della materia, in una delle discipline di indole professionale clic vengono indicate dal consiglio di facolta'.   
-La dissertazione scritta, in triplice esemplare, deve essere presentata alla segreteria della facolta' almeno un mese prima della data dell'esame di laurea.   
-  
-Visto, d'ordine del Presidente della Repubblica   
-  
-Il Ministro per la pubblica istruzione   
-GUI   
+Atti del Governo, registro n. 228, foglio n. 30. - CARUSO

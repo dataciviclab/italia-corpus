@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 608
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 554
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 608
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 554
 =============================================================
 
 Assegnazione di quattro posti di tecnico laureato presso l'Universita' degli studi di Napoli.
@@ -12,13 +12,12 @@ Art. 1
 
 N.
 
-608. Decreto del Presidente della Repubblica 26 aprile 1984, col quale, sulla proposta del Ministro della pubblica istruzione, quattro posti disponibili nel ruolo dei tecnici laureati vengono assegnati all'Universita' di Napoli come segue:  
+554. Decreto del Presidente della Repubblica 15 luglio 1983, col quale, sulla proposta del Ministro della pubblica istruzione, quattro posti disponibili nel ruolo dei tecnici laureati vengono assegnati come segue:  
   
-Prima facolta' di medicina e chirurgia:  
-istituto di anatomia chirurgica (corso di insegnamento  
-di patologia chirurgica). . . . . . . . . . . . . . . . . . . posti 1 Seconda facolta' di medicina e chirurgia:  
-cattedra di chirurgia del cuore e grossi vasi . . . . . . . . posti 1 istituto di patologia generale. . . . . . . . . . . . . . . . posti 1 clinica odontostomatologica (per le esigenze del corso  
-di laurea in odontoiatria e protesi dentaria. . . . . . . . . posti 1   
+UNIVERSITA' DI NAPOLI  
+Seconda facolta' di medicina e chirurgia:  
+istituto di chirurgia plastica. . . . . . . . . . . . . . . . posti 1 istituto di clinica chirurgica. . . . . . . . . . . . . . . . posti 1 istituto di chirurgia sperimentale e trapianti  
+d'organo. . . . . . . . . . . . . . . . . . . . . . . . . . . posti 2   
 Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 12 settembre 1984  
-Registro n. 53 Istruzione, foglio n. 387
+Registrato alla Corte dei conti, addi' 4 ottobre 1983  
+Registro n. 65 Istruzione, foglio n. 8

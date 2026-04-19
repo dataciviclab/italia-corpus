@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1976 n. 1064
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1970 n. 470
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1976 n. 1064
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1970 n. 470
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,11 +18,9 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -32,78 +30,138 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-L'art. 7 e' modificato nel senso che, al penultimo comma, sono aggiunte le parole "e per la facolta' di agraria".
+Art. 92. - All'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia e' aggiunta la scuola in gerontologia e geriatria.
 
-Art. 105 - all'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:
+Dopo l'art. 176 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in gerontologia e geriatria.
 
-sistemazioni idrauliche e difesa del suolo (annuale);
+Scuola di specializzazione in gerontologia e geriatria
 
-idrologia e idrografia (semestrale);
+Art. 177. - Il corso per il conseguimento del diploma di specialista in gerontologia e geriatria ha la durata di tre anni.
 
-viabilita' ed infrastrutture rurali e forestali (semestrale);
+Sono ammessi i laureati in medicina e chirurgia in numero di sei per ogni anno di corso (totale 18).
 
-geologia applicata;
+Art. 178. - Sono previsti 12 insegnamenti (8 annuali e 4 biennali) con obbligo di esame, cosi' ripartiti:
 
-microbiologia del terreno (semestrale);
+1° Anno:
 
-approvvigionamenti annonari, mercati e industrie degli alimenti di origine animale.
+1) Biologia della senescenza (annuale);
 
-Nello stesso elenco l'insegnamento di coltivazioni da foraggio passa da semestrale ad annuale e l'insegnamento di produzione delle sementi per colture ortive e floreali cambia denominazione in quella di produzione delle sementi.
+2) Fisiopatologia della senescenza (biennale I);
+
+3) Semeiologia della senescenza (biennale I);
+
+4) Anatomia patologica (biennale I);
+
+5) Farmacologia e farmacoterapia (annuale).
+
+2° Anno:
+
+1) Fisiopatologia della senescenza (biennale II);
+
+2) Semeiologia della senescenza (biennale II);
+
+3) Anatomia patologica (biennale II);
+
+4) Clinica geriatrica e terapia (biennale I);
+
+5) Chirurgia geriatrica (annuale);
+
+6) Radiologia e radioterapia (annuale);
+
+7) Neurologia (annuale).
+
+3° Anno:
+
+1) Clinica geriatrica e terapia (biennale II);
+
+2) Tecniche di riabilitazione (annuale);
+
+3) Psichiatria (annuale);
+
+4) Medicina sociale (annuale).
+
+Art. 179. - Durante il terzo anno sono previste conferenze d'aggiornamento su problemi speciali inerenti la cura e l'assistenza dell'anziano.
+
+Gli allievi sono tenuti a seguire le lezioni teoriche, le esercitazioni ed i turni di internato stabiliti dal direttore della scuola.
+
+Alla fine del triennio gli allievi dovranno presentare una dissertazione scritta e sostenere un esame di diploma.
+
+L'ammissione alla scuola avverra' previo colloquio da tenersi all'inizio dell'anno e su domande contenute in un apposito questionario redatto dal direttore.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 28 ottobre 1976
+Dato a Roma, addi' 12 maggio 1970
 
-LEONE
+SARAGAT
 
-MALFATTI
+MISASI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 13 giugno 1977 Registro n. 69 Istruzione, foglio n. 257
+alla Corte dei conti, addi' 7 luglio 1970 Atti del Governo, registro n. 236, foglio n. 139. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 92. - All'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia e' aggiunta la scuola in gerontologia e geriatria.  
+Dopo l'art. 176 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in gerontologia e geriatria.  
   
-L'art. 7 e' modificato nel senso che, al penultimo comma, sono aggiunte le parole "e per la facolta' di agraria".  
-Art. 105 - all'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:  
-sistemazioni idrauliche e difesa del suolo (annuale);  
-idrologia e idrografia (semestrale);  
-viabilita' ed infrastrutture rurali e forestali (semestrale);  
-geologia applicata;  
-microbiologia del terreno (semestrale);  
-approvvigionamenti annonari, mercati e industrie degli alimenti di origine animale.  
-Nello stesso elenco l'insegnamento di coltivazioni da foraggio passa da semestrale ad annuale e l'insegnamento di produzione delle sementi per colture ortive e floreali cambia denominazione in quella di produzione delle sementi.  
+Scuola di specializzazione in gerontologia e geriatria  
+  
+Art. 177. - Il corso per il conseguimento del diploma di specialista in gerontologia e geriatria ha la durata di tre anni.  
+Sono ammessi i laureati in medicina e chirurgia in numero di sei per ogni anno di corso (totale 18).  
+Art. 178. - Sono previsti 12 insegnamenti (8 annuali e 4 biennali) con obbligo di esame, cosi' ripartiti:  
+1° Anno:  
+1) Biologia della senescenza (annuale);  
+2) Fisiopatologia della senescenza (biennale I);  
+3) Semeiologia della senescenza (biennale I);  
+4) Anatomia patologica (biennale I);  
+5) Farmacologia e farmacoterapia (annuale).  
+2° Anno:  
+1) Fisiopatologia della senescenza (biennale II);  
+2) Semeiologia della senescenza (biennale II);  
+3) Anatomia patologica (biennale II);  
+4) Clinica geriatrica e terapia (biennale I);  
+5) Chirurgia geriatrica (annuale);  
+6) Radiologia e radioterapia (annuale);  
+7) Neurologia (annuale).  
+3° Anno:  
+1) Clinica geriatrica e terapia (biennale II);  
+2) Tecniche di riabilitazione (annuale);  
+3) Psichiatria (annuale);  
+4) Medicina sociale (annuale).  
+Art. 179. - Durante il terzo anno sono previste conferenze d'aggiornamento su problemi speciali inerenti la cura e l'assistenza dell'anziano.  
+Gli allievi sono tenuti a seguire le lezioni teoriche, le esercitazioni ed i turni di internato stabiliti dal direttore della scuola.  
+Alla fine del triennio gli allievi dovranno presentare una dissertazione scritta e sostenere un esame di diploma.  
+L'ammissione alla scuola avverra' previo colloquio da tenersi all'inizio dell'anno e su domande contenute in un apposito questionario redatto dal direttore.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1976
+### Dato a Roma, addi' 12 maggio 1970
 
-LEONE MALFATTI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 13 giugno 1977
+Registrato alla Corte dei conti, addi' 7 luglio 1970
 
-Registro n. 69 Istruzione, foglio n. 257
+Atti del Governo, registro n. 236, foglio n. 139. - CARUSO

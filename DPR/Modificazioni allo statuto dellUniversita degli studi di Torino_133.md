@@ -1,74 +1,65 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1963 n. 2185
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1044
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1963 n. 2185
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1044
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduto l'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16),
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con regio decreto 13 ottobre 127, n. 2758, e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1651](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1651), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica Istruzione;   
-  
-Decreta:   
   
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 37. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica, sia per l'indirizzo organico biologico che per l'indirizzo inorganico-chimico-fisico, e' aggiunto quello di: "Chimica fisica tecnica".   
-Art. 38. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica industriale e' aggiunto quello di "Chimica fisica tecnica".   
-Art. 44. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti i seguenti:   
-Statistica e biometria;   
-Sedimentologia;   
-Geologia regionale;   
-Vulcanologia;   
-Idrobiologia e pescicoltura;   
-Citologia;   
-Cristallochimica;   
-Entomologia;   
-Micro-paleontologia;   
-Mineralogia applicata.   
-Art. 46. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti i seguenti:   
-Biologia molecolare;   
-Cristallografia;   
-Endocrinologia comparata;   
-Fisiologia cellulare;   
-Paleobotanica;   
-Radiobiologia;   
-Idrobiologia e pescicoltura;   
-Entomologia;   
-Farmacologia;   
-Biometria.   
-Art. 48. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti i seguenti:   
-Vulcanologia;   
-Geologia degli idrocarburi;   
-Geologia stratigrafica;   
-Geotecnica;   
-Mineralogia sistematica;   
-Petrografia applicata;   
-Paleobotanica.   
-Art. 56. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze agrarie e' aggiunto quello di: "Fisiopatologia vegetale" (semestrale).   
+Gli articoli 309 e 312, relativi alla scuola di specializzazione in scienze e tecnologie dei polimeri, sono sostituiti dai seguenti:   
+Art. 309. - Sono ammessi alla scuola di specializzazione i laureati in chimica e chimica industriale, in fisica, in ingegneria chimica; i laureati in farmacia, in chimica e tecnologia farmaceutiche, in medicina e chirurgia, in scienze naturali e in scienze biologiche dovranno previamente superare un colloquio di cultura chimica e in fisica.   
+Art. 312. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.   
+
+Art. 2
+------
+
+  
+Gli articoli 316 e 319, relativi al corso di perfezionamento in scienza dei polimeri, sono sostituiti dai seguenti:  
+Art. 316. - Sono ammessi al corso di perfezionamento i laureati in chimica e chimica industriale, in fisica, in ingegneria chimica.  
+I laureati in farmacia, in chimica e tecnologia farmaceutiche, in scienze naturali e in scienze biologiche dovranno previamente superare un colloquio di cultura generale in chimica e in fisica.  
+Art. 319. - La direzione del corso e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nel corso stesso. In caso di motivato impedimento la direzione del corso e' affidata a professore associato, che pure insegni nel corso medesimo.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 dicembre 1963
+### Dato a Roma, addi' 31 ottobre 1981
 
-SEGNI GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 13 febbraio 1964
+Registrato alla Corte dei conti, addi' 24 febbraio 1982
 
-Atti del Governo, registro n. 181, foglio n. 2. - VILLA
+Registro n. 30 Istruzione, foglio n. 393

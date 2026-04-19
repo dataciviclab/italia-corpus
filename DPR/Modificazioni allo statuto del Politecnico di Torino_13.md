@@ -1,54 +1,84 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 agosto 1959 n. 788
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1968 n. 588
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 agosto 1959 n. 788
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1968 n. 588
+============================================================
 
 Modificazioni allo statuto del Politecnico di Torino.
 -----------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto del Politecnico di Torino, approvato con [regio decreto 24 luglio 1942, n. 923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-07-24;923) e modificato con [regio decreto 5 settembre 1942, n. 1391](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-09-05;1391), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche del politecnico anzidetto;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto del Politecnico di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 11. - All'elenco degli insegnamenti complementari del corso di laurea in architettura del triennio di applicazione e' aggiunto quello di: "Illuminazione ed acustica nell'edilizia".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 20 marzo 1968
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 24 aprile 1968 Atti del Governo, registro n. 219, foglio n. 60. - GRECO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto del Politecnico di Torino, approvato con [regio decreto 24 luglio 1942, n. 923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-07-24;923), modificato con [regio decreto 5 settembre 1942, n. 1391](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-09-05;1391) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto del Politecnico di Torino, approvato con [regio decreto 24 luglio 1942, n. 923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-07-24;923) e modificato con [regio decreto 5 settembre 1942, n. 1391](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-09-05;1391), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche del Politecnico anzidetto;  
-Riconosciuta, la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica, istruzione;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche del politecnico anzidetto;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto del Politecnico di Torino, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:  
-  
-Dopo l'art. 48, e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente articolo relativo alla istituzione del Corso di perfezionamento in ingegneria del traffico.  
-Art. 49. - Il corso di perfezionamento in ingegneria del traffico industriale, civile ed agricolo ha la durata di un anno accademico e comprende i seguenti insegnamenti fondamentali "progettazione e pianificazione delle strade";  
-"i veicoli e l'organizzazione dei trasporti";  
-"metodi di rilevamento, statistiche del traffico e tecnica della circolazione";  
-"tecnica dei trasporti industriali";  
-"tecnica dei trasporti agricoli";  
-"illuminazione, acustica e ventilazione nelle gallerie ferroviarie e stradali".  
-Il corso sara' inoltre integrato da insegnamenti monografici e da cicli di conferenze sui seguenti argomenti a) fisiologia e psicologia degli addetti al traffico e degli utenti: la prevenzione infortuni;  
-b) diritto stradale;  
-c) problemi urbanistici;  
-d) l'organizzazione dei cantieri stradali;  
-nonche' su quegli altri argomenti speciali che il continuo sviluppo della tecnica dei trasporti richiedera'.  
-Detti speciali insegnamenti integrativi saranno ogni anno precisati dal Consiglio della Facolta' di ingegneria ed indicati negli appositi manifesti del corso.  
+Lo statuto del Politecnico di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 11. - All'elenco degli insegnamenti complementari del corso di laurea in architettura del triennio di applicazione e' aggiunto quello di: "Illuminazione ed acustica nell'edilizia".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 agosto 1959
+### Dato a Roma, addi' 20 marzo 1968
 
-GRONCHI MEDICI
+SARAGAT GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 25 settembre 1959
+Registrato alla Corte dei conti, addi' 24 aprile 1968
 
-Atti del Governo, registro n. 120, foglio n. 148. - VILLA
+Atti del Governo, registro n. 219, foglio n. 60. - GRECO

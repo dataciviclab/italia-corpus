@@ -1,46 +1,176 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 luglio 1978 n. 647
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1975 n. 478
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 luglio 1978 n. 647
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1975 n. 478
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 112 - il primo comma relativo alla scuola di specializzazione in chirurgia e' modificato nel senso che il numero degli iscritti da ammettere alla scuola suddetta e' stabilito in dieci (10) per ogni anno di corso.
+
+Dopo l'art. 156, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in oculistica.
+
+Scuola di specializzazione in oculistica
+
+Art. 157. - La scuola di specializzazione in oculistica, che conferisce il diploma di specialista in oculistica, ha sede presso la clinica oculistica dell'Universita' ed e' diretta dal direttore della clinica oculistica.
+
+Art. 158. - Alla scuola che ha la durata di quattro anni sono ammessi i laureati in medicina e chirurgia.
+
+Il numero complessivo degli iscritti ai quattro anni di corso e' di 24 (ventiquattro).
+
+Art. 159. - L'ammissione e' per titoli e per esami.
+
+Art. 160. - Gli insegnamenti impartiti dalla scuola sono:
+
+1° Anno:
+
+1) Anatomia ed istologia dell'apparato oculare;
+
+2) Nozioni di embriologia e genetica oculare;
+
+3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;
+
+4) Nozioni di ottica fisiologica, esame della refrazione;
+
+5) Microbiologia ed igiene oculare.
+
+2° Anno:
+
+1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmologia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);
+
+2) Farmacologia oculare e terapia fisica;
+
+3) Anatomia patologica oculare;
+
+4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della sclera).
+
+3° Anno:
+
+1) Patologia e clinica oculare (malattie dell'uvea, della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);
+
+2) Anomalie e patologia della motilita' oculare e della visione binoculare, ortottica e pleottica;
+
+3) Affezioni otorinolaringoiatriche ed occhio;
+
+4) Tecnica operatoria I.
+
+4° Anno:
+
+1) Neurooftalmologia;
+
+2) Malattie oculari in rapporto ad affezioni generali;
+
+3) Malattie professionali - Infortunistica e medicina legale oculare;
+
+4) Tecnica operatoria II;
+
+5) Tesi di specializzazione.
+
+Art. 161. - Il corso sara' integrato da conferenze su argomenti attinenti alla specialita' (patologia oculare infantile, dermosifilopatica ed occhio, malattie oculari da cause ginecologiche, ecc.). Gli esami di profitto su ciascuna materia di insegnamento si danno alla fine di ciascun anno di corso.
+
+Alla fine del corso gli iscritti, oltre a presentare la dissertazione scritta ed a sostenere la relativa discussione, devono sostenere una prova pratica sul malato.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 25 luglio 1975
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 23 settembre 1975 Atti di Governo, registro n. 12, foglio n. 19
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 47 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
-neurofisiologia;  
-genetica umana.  
-L'art. 179, relativo alla scuola diretta a fini speciali per tecnici di istopatologia, e' modificato nel senso che l'ultimo comma e' soppresso e sostituito dal seguente:  
-"Il numero massimo dei partecipanti e' di otto per ogni anno di corso".  
+Art. 112 - il primo comma relativo alla scuola di specializzazione in chirurgia e' modificato nel senso che il numero degli iscritti da ammettere alla scuola suddetta e' stabilito in dieci (10) per ogni anno di corso.  
+Dopo l'art. 156, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in oculistica.  
+  
+Scuola di specializzazione in oculistica  
+  
+Art. 157. - La scuola di specializzazione in oculistica, che conferisce il diploma di specialista in oculistica, ha sede presso la clinica oculistica dell'Universita' ed e' diretta dal direttore della clinica oculistica.  
+Art. 158. - Alla scuola che ha la durata di quattro anni sono ammessi i laureati in medicina e chirurgia.  
+Il numero complessivo degli iscritti ai quattro anni di corso e' di 24 (ventiquattro).  
+Art. 159. - L'ammissione e' per titoli e per esami.  
+Art. 160. - Gli insegnamenti impartiti dalla scuola sono:  
+1° Anno:  
+1) Anatomia ed istologia dell'apparato oculare;  
+2) Nozioni di embriologia e genetica oculare;  
+3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;  
+4) Nozioni di ottica fisiologica, esame della refrazione;  
+5) Microbiologia ed igiene oculare.  
+2° Anno:  
+1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmologia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);  
+2) Farmacologia oculare e terapia fisica;  
+3) Anatomia patologica oculare;  
+4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della sclera).  
+3° Anno:  
+1) Patologia e clinica oculare (malattie dell'uvea, della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);  
+2) Anomalie e patologia della motilita' oculare e della visione binoculare, ortottica e pleottica;  
+3) Affezioni otorinolaringoiatriche ed occhio;  
+4) Tecnica operatoria I.  
+4° Anno:  
+1) Neurooftalmologia;  
+2) Malattie oculari in rapporto ad affezioni generali;  
+3) Malattie professionali - Infortunistica e medicina legale oculare;  
+4) Tecnica operatoria II;  
+5) Tesi di specializzazione.  
+Art. 161. - Il corso sara' integrato da conferenze su argomenti attinenti alla specialita' (patologia oculare infantile, dermosifilopatica ed occhio, malattie oculari da cause ginecologiche, ecc.). Gli esami di profitto su ciascuna materia di insegnamento si danno alla fine di ciascun anno di corso.  
+Alla fine del corso gli iscritti, oltre a presentare la dissertazione scritta ed a sostenere la relativa discussione, devono sostenere una prova pratica sul malato.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 luglio 1978
+### Dato a Roma, addi' 25 luglio 1975
 
-p. Il Presidente della Repubblica Il Presidente del Senato FANFANI PEDINI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 13 ottobre 1978
+Registrato alla Corte dei conti, addi' 23 settembre 1975
 
-Registro n. 109 Istruzione, foglio n. 227
+Atti di Governo, registro n. 12, foglio n. 19

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1982 n. 364
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1976 n. 1032
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1982 n. 364
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1976 n. 1032
+================================================================
 
 Autorizzazione all'Unione italiana lotta alla distrofia muscolare, in Padova, ad accettare una donazione.
 ---------------------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-364. Decreto del Presidente della Repubblica 9 marzo 1982, col quale, sulla proposta del Ministro della sanita', l'Unione italiana lotta alla distrofia muscolare, in Padova, viene autorizzata ad accettare la donazione, consistente in alcune unita' immobiliari facenti parte di un edificio sito in Bergamo del valore di L. 9.000.000 non ancora censito al nuovo catasto edilizio urbano ed eretto in area che risulta da demolizione di fabbricati di cui ai mappali 2665-5085 del suddetto nuovo catasto edilizio urbano, disposta dalla sig.na Adele Pirola con atto pubblico 17 novembre 1979, n. 6759 di repertorio, a rogito dott. Giovanni Battista Todeschini, notaio in Padova e registrato a Padova in data 28 novembre 1979, n. 12946.  
+1032. Decreto del Presidente della Repubblica 25 novembre 1976, col quale, sulla proposta del Ministro per la sanita', l'Unione italiana lotta alla distrofia muscolare, in Padova, viene autorizzata ad accettare la donazione di un terreno di are 55,44 sito nel comune di Conco (Vicenza) del valore di L. 700.000, disposta dal sig. Urbano Pizzato con atto a rogito notaio dott.  
+Cassina, in data 14 giugno 1975, n. 2008/404 di repertorio.   
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 7 giugno 1982  
-Registro n. 4 Sanita', foglio n. 95
+Visto, il Guardasigilli: BONIFACIO   
+Registrato alla Corte dei conti, addi' 1° marzo 1977   
+Registro n. 2 Sanita', foglio n. 73

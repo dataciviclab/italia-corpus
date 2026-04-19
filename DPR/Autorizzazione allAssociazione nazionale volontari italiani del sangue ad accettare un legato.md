@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1971 n. 445
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 aprile 1969 n. 521
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1971 n. 445
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 aprile 1969 n. 521
+=============================================================
 
 Autorizzazione all'Associazione nazionale volontari italiani del sangue ad accettare un legato.
 -----------------------------------------------------------------------------------------------
@@ -10,8 +10,10 @@ Autorizzazione all'Associazione nazionale volontari italiani del sangue ad accet
 Art. 1
 ------
 
-N. 445: Decreto del Presidente della Repubblica 18 marzo 1971, col quale, sulla proposta del Ministro per la sanita', l'Associazione nazionale volontari italiani del sangue (A.V.I.S.) viene autorizzata ad accettare il legato di L. 5.000.000, disposto a favore della sezione A.V.I.S. di Cuneo dalla signorina Ida Ceriani con testamento olografo pubblicato per atto del notaio dott. Ettore Parola in data 5 novembre 1968, repertorio n. 24591.  
+N.
+
+521. Decreto del Presidente della Repubblica 15 aprile 1969, col quale, sulla proposta del Ministro per la sanita', l'Associazione nazionale volontari italiani del sangue viene autorizzata ad accettare il legato di L. 2.000.000 disposto dal sig. Francesco Staffini in favore della sezione comunale A.V.I.S. di Lodi.  
   
-Visto, il Guardasigilli: COLOMBO  
-Registrato alla Corte dei conti, addi' 3 luglio 1971  
-Atti del Governo, registro n. 243, foglio n. 3. - VALENTINI  
+Visto, il Guardasigilli: GAVA  
+Registrato alla Corte dei conti, addi' 5 agosto 1969  
+Atti del Governo, registro n. 228, foglio n. 112. - CARUSO

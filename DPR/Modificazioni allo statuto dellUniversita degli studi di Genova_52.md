@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 luglio 1971 n. 709
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1970 n. 943
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 luglio 1971 n. 709
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1970 n. 943
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
@@ -12,7 +12,7 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato decreto 13 ottobre 1927, n. 2846, e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
@@ -25,23 +25,18 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-L'ordinamento della scuola diretta a fini speciali di a Assistenza sociale psichiatrica" e' modificato nel senso che dopo l'art. 299 e con il conseguente spostamento della numerazione degli articoli successivi e' aggiunto un nuovo articolo riguardante la seguente norma transitoria.  
-Art. 300. - Alla data di entrata in vigore delle presenti disposizioni, gli allievi dei precedenti corsi tenuti presso gli istituti di clinica delle malattie nervose e mentali e di psichiatria dell'Universita' di Genova, che abbiano sostenuto tutti gli esami e la tesi finale e che siano in possesso del regolare attestato, potranno ottenere il corrispondente diploma di assistente sociale psichiatrico, previo colloquio integrativo.  
-L'art. 304, relativo alle norme di iscrizione e di esame inerenti alla scuola di perfezionamento in matematica e' abrogato e sostituito dal seguente:  
-"Per essere iscritto al primo anno occorre il diploma di laurea in matematica od altra laurea giudicata sufficiente dal consiglio direttivo della scuola. Di anno in anno, il consiglio puo' stabilire un numero massimo di iscrizioni al primo anno; qualora il numero di domande superi tale limite, il consiglio formula una graduatoria di merito.  
-Per essere iscritti al secondo anno occorre aver frequentato i corsi e superato tutti gli esami previsti per il primo anno.  
-All'esame di diploma si accede dopo aver superato tutti gli esami speciali del biennio; le modalita' di esso saranno fissate dal consiglio direttivo della scuola in relazione all'indirizzo prescelto".  
+L'art. 2 del nostro decreto 31 ottobre 1969, n. 1236, e' integrato nel senso che tra i posti di assistenti, di cui alla lettera b) che vengono trasferiti dalla facolta' di giurisprudenza alla nuova facolta' di scienze politiche e' incluso anche quello di "Istituzioni di diritto pubblico". Con il posto viene trasferito anche il relativo assistente.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 luglio 1971
+### Dato a Roma, addi' 14 ottobre 1970
 
 SARAGAT MISASI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 30 agosto 1971
+Registrato alla Corte dei conti, addi' 5 dicembre 1970
 
-Atti del Governo, registro n. 244, foglio n. 45. - PASQUALUCCI
+Atti del Governo, registro n. 238, foglio n. 211. - CARUSO

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 981
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1973 n. 923
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 981
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1973 n. 923
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Catania.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto n. 1073 del 20 aprile 1939](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto n. 1527 del 16 ottobre 1940](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,717 +18,187 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 176 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono apportate le seguenti modifiche:
+Gli articoli 194 e 195, relativi alla scuola di specializzazione in "odontoiatria e protesi dentaria" sono abrogati e sostituiti dai seguenti:
 
-La scuola di specializzazione in ostetricia e ginecologia muta la denominazione in quella di scuola di specializzazione in ginecologia e ostetricia.
+Scuola di specializzazione in odontoiatria e protesi dentaria
 
-La scuola di specializzazione in gerontologia e geriatria muta la denominazione in quella di scuola di specializzazione in geriatria e gerontologia.
+Art. 194. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in odontoiatria e protesi dentaria con sede presso la clinica odontoiatrica.
 
-Allo stesso elenco e' aggiunta la scuola di specializzazione in patologia della riproduzione umana.
+Alla scuola di specializzazione vengono ammessi allievi nel numero di dodici per ciascun anno di corso per un totale complessivo di trentasei iscritti.
 
-Gli articoli 205, 206, concernenti la scuola di specializzazione in ostetricia e ginecologia, che muta la denominazione in quella di scuola di specializzazione in ginecologia e ostetricia sono soppressi e sostituiti dai seguenti:
+L'ammissione si ottiene previo concorso per titoli e per esami.
 
-Scuola di specializzazione in ginecologia e ostetricia
+La durata dei corsi e' di 3 anni.
 
-Art. 205. - La scuola di specializzazione in ginecologia ed ostetricia ha sede presso la clinica ostetrica e ginecologica I e conferisce il diploma di specialista in ginecologia ed ostetricia.
+Gli iscritti hanno l'obbligo della frequenza ai corsi ed alle esercitazioni, debbono altresi' frequentare il laboratorio di odontotecnica per l'intero anno scolastico.
 
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+Le vacanze saranno conformi al calendario universitario con un solo completo estivo (agosto).
 
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+Gli esami di profitto teorici e pratici, saranno sostenuti alla fine di ogni anno in un'unica sessione (ottobre).
 
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+Alla fine del terzo anno, dopo aver superato gli esami di profitto gli allievi saranno ammessi a sostenere l'esame di diploma che consiste nella discussione orale di una dissertazione scritta, su un tema proposto in precedenza dall'insegnante della materia sulla quale verte l'argomento ed approvato dal direttore della scuola.
 
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
+Ogni iscritto deve provvedere al proprio corredo di strumenti.
 
-Il numero massimo degli allievi e' di venticinque per anno di corso o complessivamente di cento iscritti per l'intero corso di studi.
-
-L'ammissione al corso avviene per titoli ed esami.
-
-Art. 206. - Le materie di insegnamento sono le seguenti:
+Art. 195. - Le materie di insegnamento sono:
 
 1° Anno:
 
-elementi di genetica medica;
+Embriologia ed anatomia dentaria e maxillo-facciale;
 
-elementi di embriologia; anatomia macro e micro dell'apparato genitale femminile; anatomia della pelvi;
+Microbiologia ed igiene orale;
 
-elementi di fisiopatologia della riproduzione umana;
+Farmacologia;
 
-fisiologia ostetrica;
+Patologia odontostomatologica;
 
-endocrinologia ginecologica ed ostetrica;
+Odontotecnica;
 
-semeiotica e diagnostica ostetrica;
+Anestesia e chirurgia stomatologica;
 
-patologia ostetrica e ginecologica I;
+Odontoiatria conservativa (1° anno) - biennale;
 
-lingua straniera (inglese) I.
+Esercitazioni pratiche.
 
 2° Anno:
 
-semeiotica e diagnostica ginecologica;
+Odontoiatria conservativa (2° anno);
 
-operazioni ostetriche I;
+Clinica protesica dentaria e maxillo-facciale (1° anno) - biennale;
 
-anatomia ed istologia patologica della sfera genitale femminile;
+Paradontologia (1° anno) - biennale;
 
-citologia ginecologica;
+Anatomia ed istopatologia odontostomatologica;
 
-patologia ostetrica e ginecologica II;
+Odontoiatria infantile;
 
-diagnostica di laboratorio in ostetricia e ginecologia;
+Radiologia odontostomatologica;
 
-lingua straniera (inglese) II;
+Ortopedia dento-maxillo-facciale (1° anno) - biennale;
+
+Chirurgia maxillo-facciale (1° anno) - biennale;
+
+Esercitazioni pratiche.
 
 3° Anno:
 
-puericultura prenatale;
+Clinica odontostomatologica;
 
-immunologia ostetrica e ginecologica;
+Chirurgia maxillo-facciale (2° anno);
 
-analgo-anestesia e rianimazione in ostetricia;
+Medicina legale odontostomatologica e delle assicurazioni;
 
-operazioni ostetriche II;
+Ortopedia dento-maxillo-facciale (2- anno);
 
-operazioni ginecologiche I;
+Clinica protesica dentaria e maxillo-facciale (2° anno);
 
-ostetricia e ginecologia forense;
+Paradontologia (2° anno);
 
-terapia medica in ostetricia e ginecologia;
+Esercitazioni pratiche.
 
-clinica ostetrica e ginecologica I;
-
-psicosomatica ostetrica e ginecologica;
-
-lingua straniera (inglese) III.
-
-4° Anno:
-
-neonatologia;
-
-urologia ginecologica;
-
-radio-diagnostica e terapia fisica in ostetricia e ginecologia; chirurgia addominale;
-
-operazioni ginecologiche II;
-
-clinica ostetrica e ginecologica II;
-
-lingua straniera (inglese) IV.
-
-La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
-
-Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.
-
-Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.
-
-Al termine del corso di studi per il conseguimento del diploma di specialista in ginecologia ed ostetricia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
-
-Gli articoli 207, 208, concernenti la scuola di specializzazione in urologia sono soppressi e sostituiti dai seguenti:
-
-Scuola di specializzazione in urologia
-
-Art. 207. - La scuola di specializzazione in urologia ha sede presso la clinica urologica e conferisce il diploma di specialista in urologia.
-
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
-
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.
-
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
-
-La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.
-
-Il numero massimo degli allievi e' di quattordici per anno di corso e complessivamente di settanta iscritti per l'intero corso di studi.
-
-L'ammissione al corso avviene per titoli ed esami.
-
-Le materie di insegnamento e gli esami sono i seguenti:
-
-=====================================================================
-
-Insegnamenti | Esami
-
-=====================================================================
-
-1° Anno: |
-
----------------------------------------------------------------------
-
-1) anatomia sistematica e |1) anatomia sistematica e
-
-topografica dell'apparato urinario|topografica dell'apparato urinario
-
-e genitale maschile |e genitale maschile
-
----------------------------------------------------------------------
-
-2) fisiologia dell'apparato |2) fisiologia dell'apparato
-
-urinario e genitale maschile |urinario e genitale maschile
-
----------------------------------------------------------------------
-
-3) batteriologia in urologia |3) batteriologia in urologia
-
----------------------------------------------------------------------
-
-4) semeiotica funzionale e |
-
-strumentale dell'apparato |
-
-urogenitale I |
-
----------------------------------------------------------------------
-
-2° Anno: |
-
----------------------------------------------------------------------
-
-1) semeiotica funzionale e |1) semeiotica funzionale e
-
-strumentale dell'apparato |strumentale dell'apparato
-
-uro-genitale II |uro-genitale
-
----------------------------------------------------------------------
-
-2) le nefropatie mediche |2) le nefropatie mediche
-
----------------------------------------------------------------------
-
-3) anatomia chirurgica |3) anatomia chirurgica
-
-dell'apparato urinario e genitale |dell'apparato urinario e genitale
-
-maschile |maschile
-
----------------------------------------------------------------------
-
-4) patologia dell'apparato |
-
-urinario e genitale maschile I |
-
----------------------------------------------------------------------
-
-5) radiologia dell'apparato |
-
-urinario e genitale maschile I |
-
----------------------------------------------------------------------
-
-3° Anno: |
-
----------------------------------------------------------------------
-
-1) patologia dell'apparato |1) patologia dell'apparato
-
-urinario e genitale maschile II |urinario e genitale maschile
-
----------------------------------------------------------------------
-
-2) radiologia dell'apparato |2) radiologia dell'apparato
-
-urinario e genitale maschile II |urinario e genitale maschile
-
----------------------------------------------------------------------
-
-3) le affezione cutanee e veneree |3) le affezione cutanee e veneree
-
-nei riguardi dell'urologia |nei riguardi dell'urologia
-
----------------------------------------------------------------------
-
-4) adrologia |4) andrologia
-
----------------------------------------------------------------------
-
-4° Anno: |
-
----------------------------------------------------------------------
-
-1) anatomia e istologia patologica|1) anatomia e istologia patologica
-
-dell'apparato urinario e genitale |dell'apparato urinario e genitale
-
-maschile |maschile
-
----------------------------------------------------------------------
-
-2) farmacoterapia delle affezioni |2) farmacoterapia delle affezioni
-
-uro-genitali |uro-genitali
-
----------------------------------------------------------------------
-
-3) anestesia e trattamento |3) anestesia e trattamento
-
-pre-post-operatorio del malato |pre-post-operatorio del malato
-
-urologico |urologico
-
----------------------------------------------------------------------
-
-4) nefrologia chirurgica |4) nefrologia chirurgica
-
----------------------------------------------------------------------
-
-5) clinica urologica I |
-
----------------------------------------------------------------------
-
-6) procedimenti di chirurgia |
-
-endoscopica I |
-
----------------------------------------------------------------------
-
-7) interventi e procedimenti |
-
-operatori sull'apparato urinario e|
-
-genitale maschile I |
-
----------------------------------------------------------------------
-
-5° Anno: |
-
----------------------------------------------------------------------
-
-1) clinica urologica II |1) clinica urologica
-
----------------------------------------------------------------------
-
-2) patologia e clinica urologica |2) patologia e clinica urologica
-
-infantile |infantile
-
----------------------------------------------------------------------
-
-3) urologia ginecologica |3) urologia ginecologica
-
----------------------------------------------------------------------
-
-|4) interventi e procedimenti
-
-4) procedimenti di chirurgia |operatori sull'apparato urinario e
-
-endoscopica II |genitale maschile
-
----------------------------------------------------------------------
-
-5) la chirurgia dell'intestino |
-
----------------------------------------------------------------------
-
-6) la chirurgia vascolare |
-
----------------------------------------------------------------------
-
-7) interventi e procedimenti |
-
-operatori sullo apparato urinario |
-
-e genitale maschile II |
-
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
-
-Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno ad eccezione delle discipline svolte in corsi pluriennali il cui esame sara' sostenuto alla fine dei corsi medesimi.
-
-Al termine del corso di studi per il conseguimento del diploma di specialista in urologia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
-
-Gli articoli 263, 264, concernenti la scuola di specializzazione in gerontologia e geriatria, che muta la denominazione in quella di scuola di specializzazione in geriatria e gerontologia, sono soppressi e sostituiti dai seguenti:
-
-Scuola di specializzazione in geriatria e gerontologia
-
-Art. 263. - La scuola di specializzazione in geriatria e gerontologia ha sede presso la cattedra di geriatria e conferisce il diploma di specialista in geriatria e gerontologia.
-
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
-
-Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
-
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
-
-Il numero massimo degli allievi e' di quattordici per anno di corso e complessivamente di cinquantasei iscritti per l'intero corso di studi.
-
-L'ammissione al corso avviene per titoli ed esami.
-
-Art. 264. - Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-farmacologia;
-
-principi e tecniche della riabilitazione nella patologia dell'apparato locomotore;
-
-anatomia e istologia patologica I;
-
-biologia della senescenza I;
-
-fisiopatologia I;
-
-geriatria sociale I;
-
-semeiotica I;
-
-principi e tecniche di materie specialistiche in geriatria I. 2° Anno:
-
-principi e tecniche della riabilitazione cardiovascolare e respiratoria;
-
-anatomia e istologia patologica II;
-
-biologia della senescenza II;
-
-fisiopatologia II;
-
-geriatria sociale II;
-
-semeiotica II;
-
-radiologia e radioterapia I;
-
-principi e tecniche di materie specialistiche in geriatria II. 3° Anno:
-
-neurologia;
-
-principi e tecniche della riabilitazione neurologica;
-
-psicologia;
-
-radiologia e radioterapia II;
-
-principi e tecniche di materie specialistiche in geriatria III; clinica geriatrica I;
-
-terapia medica I;
-
-pratica geriatrica extraospedaliera I.
-
-4° Anno:
-
-chirurgia geriatrica;
-
-formazione degli operatori geriatrici;
-
-principi e tecniche della riabilitazione nel campo delle funzioni cerebrali superiori;
-
-principi e tecniche di riattivazione, terapia occupazionale, geragogia;
-
-psicogeriatria;
-
-clinica geriatrica II;
-
-terapia medica II;
-
-pratica geriatrica extraospedaliera II.
-
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.
-
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
-
-Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.
-
-Al termine del corso di studi per il conseguimento del diploma di specialista in geriatria e gerontologia dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
-
-Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in patologia della riproduzione umana.
-
-Scuola di specializzazione in patologia della riproduzione umana
-
-Art. 265. - La sede della scuola di specializzazione e' l'istituto di clinica ostetrica e ginecologica II.
-
-Art. 266. - La scuola ha la durata di anni tre.
-
-Art. 267. - Il numero complessivo degli specializzandi da ammettere alla scuola e' di quindici, cinque per anno di corso.
-
-Art. 268. - Gli insegnamenti sono:
-
-1° Anno:
-
-1) biologia generale della riproduzione;
-
-2) embriologia ed anatomia dell'apparato riproduttivo umano;
-
-3) fisiologia della riproduzione umana;
-
-4) genetica umana;
-
-5) immunologia e patologia della riproduzione umana.
-
-2° Anno:
-
-1) fisiopatologia della riproduzione umana;
-
-2) anatomia ed istologia patologica dell'apparato riproduttivo;
-
-3) endocrinologia ginecologica;
-
-4) andrologia;
-
-5) teratologia;
-
-6) patologia della gravidanza;
-
-7) urologia e patologia della riproduzione umana.
-
-3° Anno:
-
-1) nosografia della patologia della riproduzione umana;
-
-2) diagnostica della patologia della riproduzione umana;
-
-3) terapia medica della patologia della riproduzione umana;
-
-4) trattamento chirurgico della patologia della riproduzione umana;
-
-5) elementi di psicologia medica e di sessuologia;
-
-6) educazione sociologica e demografica.
-
-Art. 269. - Alla fine di ogni anno accademico, gli allievi dovranno sostenere un esame di profitto sul gruppo di materie che sono state oggetto di insegnamento.
-
-Art. 270. - Alla fine del triennio gli allievi dovranno presentare una dissertazione scritta e sostenere un esame di diploma.
+La denominazione della "scuola di specializzazione in tisiologia" istituita con [decreto del Presidente della Repubblica 14 luglio 1970, n. 661](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-07-14;661), e' modificata in quella di "scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1978
+Dato a Roma, addi' 16 ottobre 1973
 
-PERTINI
+LEONE
 
-PEDINI
+MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: ZAGARI
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 10 febbraio 1979 Registro n. 5 Istruzione, foglio n. 363
+alla Corte dei conti, addi' 8 gennaio 1974 Atti di Governo, registro n. 1, foglio n. 6. - CARUSO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto n. 1073 del 20 aprile 1939](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto n. 1527 del 16 ottobre 1940](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 176 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono apportate le seguenti modifiche:   
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 194 e 195, relativi alla scuola di specializzazione in "odontoiatria e protesi dentaria" sono abrogati e sostituiti dai seguenti:  
   
-La scuola di specializzazione in ostetricia e ginecologia muta la denominazione in quella di scuola di specializzazione in ginecologia e ostetricia.   
-La scuola di specializzazione in gerontologia e geriatria muta la denominazione in quella di scuola di specializzazione in geriatria e gerontologia.   
-Allo stesso elenco e' aggiunta la scuola di specializzazione in patologia della riproduzione umana.   
-Gli articoli 205, 206, concernenti la scuola di specializzazione in ostetricia e ginecologia, che muta la denominazione in quella di scuola di specializzazione in ginecologia e ostetricia sono soppressi e sostituiti dai seguenti:   
+Scuola di specializzazione in odontoiatria e protesi dentaria  
   
-Scuola di specializzazione in ginecologia e ostetricia   
-Art. 205. - La scuola di specializzazione in ginecologia ed ostetricia ha sede presso la clinica ostetrica e ginecologica I e conferisce il diploma di specialista in ginecologia ed ostetricia.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
-Il numero massimo degli allievi e' di venticinque per anno di corso o complessivamente di cento iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Art. 206. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-elementi di genetica medica;   
-elementi di embriologia; anatomia macro e micro dell'apparato genitale femminile; anatomia della pelvi;   
-elementi di fisiopatologia della riproduzione umana;   
-fisiologia ostetrica;   
-endocrinologia ginecologica ed ostetrica;   
-semeiotica e diagnostica ostetrica;   
-patologia ostetrica e ginecologica I;   
-lingua straniera (inglese) I.   
-2° Anno:   
-semeiotica e diagnostica ginecologica;   
-operazioni ostetriche I;   
-anatomia ed istologia patologica della sfera genitale femminile;   
-citologia ginecologica;   
-patologia ostetrica e ginecologica II;   
-diagnostica di laboratorio in ostetricia e ginecologia;   
-lingua straniera (inglese) II;   
-3° Anno:   
-puericultura prenatale;   
-immunologia ostetrica e ginecologica;   
-analgo-anestesia e rianimazione in ostetricia;   
-operazioni ostetriche II;   
-operazioni ginecologiche I;   
-ostetricia e ginecologia forense;   
-terapia medica in ostetricia e ginecologia;   
-clinica ostetrica e ginecologica I;   
-psicosomatica ostetrica e ginecologica;   
-lingua straniera (inglese) III.   
-4° Anno:   
-neonatologia;   
-urologia ginecologica;   
-radio-diagnostica e terapia fisica in ostetricia e ginecologia; chirurgia addominale;   
-operazioni ginecologiche II;   
-clinica ostetrica e ginecologica II;   
-lingua straniera (inglese) IV.   
-La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
-Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.   
-Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in ginecologia ed ostetricia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
-Gli articoli 207, 208, concernenti la scuola di specializzazione in urologia sono soppressi e sostituiti dai seguenti:   
+Art. 194. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in odontoiatria e protesi dentaria con sede presso la clinica odontoiatrica.  
+Alla scuola di specializzazione vengono ammessi allievi nel numero di dodici per ciascun anno di corso per un totale complessivo di trentasei iscritti.  
+L'ammissione si ottiene previo concorso per titoli e per esami.  
+La durata dei corsi e' di 3 anni.  
+Gli iscritti hanno l'obbligo della frequenza ai corsi ed alle esercitazioni, debbono altresi' frequentare il laboratorio di odontotecnica per l'intero anno scolastico.  
+Le vacanze saranno conformi al calendario universitario con un solo completo estivo (agosto).  
+Gli esami di profitto teorici e pratici, saranno sostenuti alla fine di ogni anno in un'unica sessione (ottobre).  
+Alla fine del terzo anno, dopo aver superato gli esami di profitto gli allievi saranno ammessi a sostenere l'esame di diploma che consiste nella discussione orale di una dissertazione scritta, su un tema proposto in precedenza dall'insegnante della materia sulla quale verte l'argomento ed approvato dal direttore della scuola.  
+Ogni iscritto deve provvedere al proprio corredo di strumenti.  
+Art. 195. - Le materie di insegnamento sono:  
+1° Anno:  
+Embriologia ed anatomia dentaria e maxillo-facciale;  
+Microbiologia ed igiene orale;  
+Farmacologia;  
+Patologia odontostomatologica;  
+Odontotecnica;  
+Anestesia e chirurgia stomatologica;  
+Odontoiatria conservativa (1° anno) - biennale;  
+Esercitazioni pratiche.  
+2° Anno:  
+Odontoiatria conservativa (2° anno);  
+Clinica protesica dentaria e maxillo-facciale (1° anno) - biennale;  
+Paradontologia (1° anno) - biennale;  
+Anatomia ed istopatologia odontostomatologica;  
+Odontoiatria infantile;  
+Radiologia odontostomatologica;  
+Ortopedia dento-maxillo-facciale (1° anno) - biennale;  
+Chirurgia maxillo-facciale (1° anno) - biennale;  
+Esercitazioni pratiche.  
+3° Anno:  
+Clinica odontostomatologica;  
+Chirurgia maxillo-facciale (2° anno);  
+Medicina legale odontostomatologica e delle assicurazioni;  
+Ortopedia dento-maxillo-facciale (2- anno);  
+Clinica protesica dentaria e maxillo-facciale (2° anno);  
+Paradontologia (2° anno);  
+Esercitazioni pratiche.  
   
-Scuola di specializzazione in urologia   
-Art. 207. - La scuola di specializzazione in urologia ha sede presso la clinica urologica e conferisce il diploma di specialista in urologia.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.   
-Il numero massimo degli allievi e' di quattordici per anno di corso e complessivamente di settanta iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Le materie di insegnamento e gli esami sono i seguenti:   
-
-|  |  |
-| --- | --- |
-| Insegnamenti | Esami |
-| 1° Anno: |  |
-| 1) anatomia sistematica e topografica dell'apparato urinario e genitale maschile | 1) anatomia sistematica e topografica dell'apparato urinario e genitale maschile |
-| 2) fisiologia dell'apparato urinario e genitale maschile | 2) fisiologia dell'apparato urinario e genitale maschile |
-| 3) batteriologia in urologia | 3) batteriologia in urologia |
-| 4) semeiotica funzionale e strumentale dell'apparato urogenitale I |  |
-| 2° Anno: |  |
-| 1) semeiotica funzionale e strumentale dell'apparato uro-genitale II | 1) semeiotica funzionale e strumentale dell'apparato uro-genitale |
-| 2) le nefropatie mediche | 2) le nefropatie mediche |
-| 3) anatomia chirurgica dell'apparato urinario e genitale maschile | 3) anatomia chirurgica dell'apparato urinario e genitale maschile |
-| 4) patologia dell'apparato urinario e genitale maschile I |  |
-| 5) radiologia dell'apparato urinario e genitale maschile I |  |
-| 3° Anno: |  |
-| 1) patologia dell'apparato urinario e genitale maschile II | 1) patologia dell'apparato urinario e genitale maschile |
-| 2) radiologia dell'apparato urinario e genitale maschile II | 2) radiologia dell'apparato urinario e genitale maschile |
-| 3) le affezione cutanee e veneree nei riguardi dell'urologia | 3) le affezione cutanee e veneree nei riguardi dell'urologia |
-| 4) adrologia | 4) andrologia |
-| 4° Anno: |  |
-| 1) anatomia e istologia patologica dell'apparato urinario e genitale maschile | 1) anatomia e istologia patologica dell'apparato urinario e genitale maschile |
-| 2) farmacoterapia delle affezioni uro-genitali | 2) farmacoterapia delle affezioni uro-genitali |
-| 3) anestesia e trattamento pre-post-operatorio del malato urologico | 3) anestesia e trattamento pre-post-operatorio del malato urologico |
-| 4) nefrologia chirurgica | 4) nefrologia chirurgica |
-| 5) clinica urologica I |  |
-| 6) procedimenti di chirurgia endoscopica I |  |
-| 7) interventi e procedimenti operatori sull'apparato urinario e genitale maschile I |  |
-| 5° Anno: |  |
-| 1) clinica urologica II | 1) clinica urologica |
-| 2) patologia e clinica urologica infantile | 2) patologia e clinica urologica infantile |
-| 3) urologia ginecologica | 3) urologia ginecologica |
-| 4) procedimenti di chirurgia endoscopica II | 4) interventi e procedimenti operatori sull'apparato urinario e genitale maschile |
-| 5) la chirurgia dell'intestino |  |
-| 6) la chirurgia vascolare |  |
-
-  
-  
-  
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
-Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno ad eccezione delle discipline svolte in corsi pluriennali il cui esame sara' sostenuto alla fine dei corsi medesimi.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in urologia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
-Gli articoli 263, 264, concernenti la scuola di specializzazione in gerontologia e geriatria, che muta la denominazione in quella di scuola di specializzazione in geriatria e gerontologia, sono soppressi e sostituiti dai seguenti:   
-  
-Scuola di specializzazione in geriatria e gerontologia   
-Art. 263. - La scuola di specializzazione in geriatria e gerontologia ha sede presso la cattedra di geriatria e conferisce il diploma di specialista in geriatria e gerontologia.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
-Il numero massimo degli allievi e' di quattordici per anno di corso e complessivamente di cinquantasei iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Art. 264. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-farmacologia;   
-principi e tecniche della riabilitazione nella patologia dell'apparato locomotore;   
-anatomia e istologia patologica I;   
-biologia della senescenza I;   
-fisiopatologia I;   
-geriatria sociale I;   
-semeiotica I;   
-principi e tecniche di materie specialistiche in geriatria I. 2° Anno:   
-principi e tecniche della riabilitazione cardiovascolare e respiratoria;   
-anatomia e istologia patologica II;   
-biologia della senescenza II;   
-fisiopatologia II;   
-geriatria sociale II;   
-semeiotica II;   
-radiologia e radioterapia I;   
-principi e tecniche di materie specialistiche in geriatria II. 3° Anno:   
-neurologia;   
-principi e tecniche della riabilitazione neurologica;   
-psicologia;   
-radiologia e radioterapia II;   
-principi e tecniche di materie specialistiche in geriatria III; clinica geriatrica I;   
-terapia medica I;   
-pratica geriatrica extraospedaliera I.   
-4° Anno:   
-chirurgia geriatrica;   
-formazione degli operatori geriatrici;   
-principi e tecniche della riabilitazione nel campo delle funzioni cerebrali superiori;   
-principi e tecniche di riattivazione, terapia occupazionale, geragogia;   
-psicogeriatria;   
-clinica geriatrica II;   
-terapia medica II;   
-pratica geriatrica extraospedaliera II.   
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
-Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in geriatria e gerontologia dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
-Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in patologia della riproduzione umana.   
-  
-Scuola di specializzazione in patologia della riproduzione umana   
-Art. 265. - La sede della scuola di specializzazione e' l'istituto di clinica ostetrica e ginecologica II.   
-Art. 266. - La scuola ha la durata di anni tre.   
-Art. 267. - Il numero complessivo degli specializzandi da ammettere alla scuola e' di quindici, cinque per anno di corso.   
-Art. 268. - Gli insegnamenti sono:   
-1° Anno:   
-1) biologia generale della riproduzione;   
-2) embriologia ed anatomia dell'apparato riproduttivo umano;   
-3) fisiologia della riproduzione umana;   
-4) genetica umana;   
-5) immunologia e patologia della riproduzione umana.   
-2° Anno:   
-1) fisiopatologia della riproduzione umana;   
-2) anatomia ed istologia patologica dell'apparato riproduttivo;  
-3) endocrinologia ginecologica;   
-4) andrologia;   
-5) teratologia;   
-6) patologia della gravidanza;   
-7) urologia e patologia della riproduzione umana.   
-3° Anno:   
-1) nosografia della patologia della riproduzione umana;   
-2) diagnostica della patologia della riproduzione umana;   
-3) terapia medica della patologia della riproduzione umana;   
-4) trattamento chirurgico della patologia della riproduzione umana;   
-5) elementi di psicologia medica e di sessuologia;   
-6) educazione sociologica e demografica.   
-Art. 269. - Alla fine di ogni anno accademico, gli allievi dovranno sostenere un esame di profitto sul gruppo di materie che sono state oggetto di insegnamento.   
-Art. 270. - Alla fine del triennio gli allievi dovranno presentare una dissertazione scritta e sostenere un esame di diploma.   
+La denominazione della "scuola di specializzazione in tisiologia" istituita con [decreto del Presidente della Repubblica 14 luglio 1970, n. 661](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-07-14;661), e' modificata in quella di "scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1978
+### Dato a Roma, addi' 16 ottobre 1973
 
-PERTINI PEDINI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 10 febbraio 1979
+Registrato alla Corte dei conti, addi' 8 gennaio 1974
 
-Registro n. 5 Istruzione, foglio n. 363
+Atti di Governo, registro n. 1, foglio n. 6. - CARUSO

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 1068
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 1055
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 1068
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 1055
 =================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Palermo.
@@ -33,14 +33,14 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' di Palermo, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Nell'art. 57, relativo al corso di laurea in chimica, all'elenco degli insegnamenti complementari per l'indirizzo organico-biologico e' aggiunto il seguente nuovo insegnamento:  
-complementi di chimica organica.  
+Nell'art. 114, relativo al corso di laurea in materie letterarie, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+filologia italiana.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
@@ -54,4 +54,4 @@ Visto, il Guardasigilli: MARTINAZZOLI
 
 Registrato alla Corte dei conti, addi' 29 febbraio 1984
 
-Registro n. 13 Istruzione, foglio n. 61
+Registro n. 13 Istruzione, foglio n. 56

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1972 n. 1133
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1972 n. 1049
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1972 n. 1133
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1972 n. 1049
 ================================================================
 
 Autorizzazione alla fondazione "Pro juventute Don Carlo Gnocchi", con sede in Roma, ad accettare una eredita'.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1133. Decreto del Presidente della Repubblica 18 dicembre 1972, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', disposta dalla signorina Carlotta Camagna, con testamento olografo del 22 novembre 1967, pubblicato il 16 febbraio 1968 con atto del dott. Giovanni Caire, notaio in Casale Monferrato, col n. 4766 di repertorio e n. 1308 di raccolta, registrato a Casale Monferrato il 21 febbraio 1968 al n. 418, vol. 404, consistente (giusta perizia eseguita dalla fondazione) in un negozio, sito in Milano, corso XXII Marzo n. 5, del valore presunto di L. 18.000.000 e in due appartamenti pure siti in Milano al n. 5 della predetta via, del valore complessivo presunto di L. 12.000.000.  
+1049. Decreto del Presidente della Repubblica 26 dicembre 1972, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', disposta dal sig. Lameri Bortolo, con testamento olografo del 27 febbraio 1968, depositato e pubblicato con verbale a rogito dott. Giuseppe Confalonieri, notaio in Castelleone, in data 25 agosto 1968, n. 254 di repertorio e n. 113 di raccolta, registrato a Soresina in data 4 settembre 1968 al n. 806, Vol. 104, consistente nella meta' dell'asse ereditario (ammontante a L. 16.758.788).  
   
 Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 27 marzo 1973  
-Atti di Governo, registro n. 257, foglio n. 18. - VALENTINI
+Registrato alla Corte dei conti, addi' 23 febbraio 1973  
+Atti di Governo, registro n. 256, foglio n. 23. - VALENTINI

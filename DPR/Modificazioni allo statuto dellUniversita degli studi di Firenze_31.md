@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 847
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1961 n. 334
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 847
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1961 n. 334
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -12,62 +12,60 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Veduto il [decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato nel senso che l'art. 261 relativo all'ordinamento della scuola di specializzazione in urologia e' abrogato e sostituito dal seguente:  
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Scuola di specializzazione in urologia  
-  
-Art. 261. - La scuola di specializzazione in urologia ha la durata di tre anni.  
-Il numero degli iscritti da ammettere alla scuola e' di dodici per ogni anno di corso.  
-Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) Anatomia descrittiva e topografica dell'apparato urogenitale;  
-2) Fisiologia dell'apparato uro-genitale;  
-3) Patologia dell'apparato urinario e genitale maschile;  
-4) Le nefropatie mediche;  
-5) Semeiotica dell'apparato uro-genitale (funzionale e di laboratorio);  
-6) Tecniche strumentali e semeiologia endoscopica;  
-7) Batteriologia in urologia;  
-8) Farmacoterapia delle affezioni uro-genitali.  
-2° Anno:  
-1) Patologia dell'apparato urinario e genitale maschile;  
-2) Clinica urologica;  
-3) Patologia genitale femminile di interesse urologico;  
-4) Nefrologia chirurgica;  
-5) Anatomia e istologia patologica dell'apparato uro-genitale;  
-6) Semeiotica dell'apparato uro-genitale (funzionale e di laboratorio);  
-7) Tecniche strumentali e semeiologia endoscopica;  
-8) Anatomia chirurgica dell'apparato uro-genitale;  
-9) Radiologia dell'apparato urinario e genitale;  
-10) Le affezioni cutanee e veneree nei riguardi della urologia;  
-11) L'anestesiologia ed il trattamento pre e post operatorio del malato urologico.  
-3° Anno:  
-1) Clinica urologica;  
-2) Patologia e clinica urologica infantile;  
-3) Radiologia dell'apparato urinario e genitale;  
-4) Tecniche operatorie sull'apparato urinario e genitale;  
-5) Urologia ginecologica.  
+Art. 75. - Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo organico-biologico ed inorganico-chimico-fisico) sono aggiunti quelli di:  
+Chimica analitica strumentale;  
+Chimica nucleare;  
+Chimica delle sostanze coloranti;  
+Chimica statistica;  
+Chimica inorganica superiore;  
+Chimica fisica tecnica;  
+Fotochimica;  
+Radiochimica;  
+Chimica teorica;  
+Strutturistica chimica.  
+Gli articoli 90 e 91, relativi al corso biennale di studi propedeutici per la laurea in ingegneria sono abrogati e sostituiti dai seguenti:  
+Art. 90. - Titolo di ammissione al biennio propedeutico agli studi di Ingegneria e' il diploma di maturita' classica o scientifica.  
+Sono insegnamenti fondamentali:  
+Per il I anno Analisi matematica I Geometria I Fisica I chimica Disegno Per il I anno Analisi matematica II Geometria II Meccanica razionale Fisica II L'insegnamento di Geometria II potra' essere sostituito:  
+A) con Litologia e geologia, quando lo studente dichiari di voler proseguire i suoi studi per la laurea in Ingegneria civile e in una sede ove l'insegnamento della Geometria II non sia previsto per tale corso di studi;  
+B) con Metodi di osservazione e misura, quando lo studente dichiari di voler proseguire i suoi studi per la laurea in Ingegneria meccanica, Elettrotecnica, Elettronica, Aeronautica, Nucleare, e in una sede ove l'insegnamento della Geometria II non e' previsto per uno di tali corsi di laurea;  
+C) con Mineralogia, quando lo studente dichiari di voler proseguire i suoi studi per la laurea in Ingegneria mineraria e in una sede ove l'insegnamento della Geometria II non e' previsto per tale corso di laurea.  
+Sono insegnamenti fondamentali aggiunti, quando non siano sostitutivi della Geometria II:  
+Litologia e geologia e Mineralogia, per gli studenti che intendono proseguire i loro studi per la laurea in Ingegneria civile o mineraria;  
+Metodi di osservazione e misura e Litologia e geologia per gli studenti che intendono proseguire i loro studi in un qualsiasi altro corso di laurea.  
+Lo studente, all'atto della iscrizione al II anno, chiedera' alla Facolta' la convalida del piano di studi che desidera seguire. La scelta e' impegnativa e non puo' subire variazioni durante l'anno di corso.  
+Gli studenti del I anno di corso potranno ottenere la iscrizione al II anno di corso qualora abbiano superato almeno due dei quattro esami: Analisi matematica I, Geometria I, Fisica I, Chimica.  
+Per aver titolo di ammissione al III anno di corso presso una qualsiasi Facolta' di ingegneria, lo studente dovra' aver superato tutti gli esami fondamentali del biennio propedeutico - ivi compreso quello dell'insegnamento che sostituisce la Geometria II - fatta eccezione degli insegnamenti aggiunti.  
+I due esami di Fisica comprendono la parte riguardante le esercitazioni.  
+Art. 91. - L'esame di Chimica deve precedere quelli di Mineralogia e di Litologia e geologia.  
+Gli esami di Analisi matematica I, Geometria I, Fisica. I, devono precedere rispettivamente gli esami di Analisi matematica II, Geometria II, Fisica II.  
+Gli esami di Analisi matematica e di Geometria I devono precedere quello di Meccanica razionale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 agosto 1971
+### Dato a Roma, addi' 20 marzo 1961
 
-SARAGAT MISASI
+GRONCHI BOSCO
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 15 ottobre 1971
+Registrato alla Corte dei conti, addi' 9 maggio 1961
 
-Atti del Governo, registro n. 244, foglio n. 154. - CARUSO
+Atti del Governo, registro n. 136, foglio n. 95. - VILLA

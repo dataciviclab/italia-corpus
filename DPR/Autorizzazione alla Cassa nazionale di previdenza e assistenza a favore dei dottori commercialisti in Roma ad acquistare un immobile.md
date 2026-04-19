@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1979 n. 786
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979 n. 533
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1979 n. 786
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979 n. 533
+=============================================================
 
 Autorizzazione alla Cassa nazionale di previdenza e assistenza a favore dei dottori commercialisti, in Roma, ad acquistare un immobile.
 ---------------------------------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-786. Decreto del Presidente della Repubblica 29 ottobre 1979, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, la Cassa nazionale di previdenza e assistenza a favore dei dottori commercialisti, in Roma, viene autorizzata ad acquistare, in via di sanatoria, al prezzo di L. 375.000.000, il fabbricato di cinque piani sito in Torino, via Bligny n. 11, censito al nuovo catasto edilizio urbano al foglio 205 n. 137 subb. dall'1 al 22 compreso, di proprieta' della societa' immobiliare Tabli, come da atto di compravendita 27 novembre 1969, n. 217259 di repertorio, a rogito avv. Remo Morone, notaio in Torino.   
+533. Decreto del Presidente della Repubblica 4 giugno 1979, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, la Cassa nazionale di previdenza e assistenza a favore dei dottori commercialisti, in Roma, viene autorizzata ad acquistare, al prezzo di L. 795.000.000, l'immobile rappresentato da un fabbricato sito in Milano, corso Europa, 11, censito in catasto al foglio 24, mapp. 1698 sub da 1 a 8, di proprieta' della "S.A.  
+Commerciale S. Zeno", come da atto di compravendita in data 30 dicembre 1969, n. 112862 di repertorio, a rogito notaio Giovanni Olivares.  
   
-Visto, il Guardasigilli: MORLINO   
-Registrato alla Corte dei conti, addi' 23 febbraio 1980   
-Registro n. 1 Lavoro, foglio n. 97
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 10 ottobre 1979  
+Registro n. 1 Lavoro, foglio n. 78

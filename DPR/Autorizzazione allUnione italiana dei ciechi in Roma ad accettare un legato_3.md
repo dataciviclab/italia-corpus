@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1985 n. 184
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 marzo 1977 n. 155
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1985 n. 184
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 marzo 1977 n. 155
+============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un legato.
 -------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-184. Decreto del Presidente della Repubblica 12 febbraio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato, consistente in buoni del Tesoro per un valore di L. 100.000.000, disposto dalla prof.ssa Barbizzoli Angela Maria ved. Migliavacca, con testamento olografo 16 luglio 1975, pubblicato in data 9 giugno 1982, n. 371565/12394 di repertorio, a rogito avv. Luigi Piontelli, notaio in Milano, registrato a Milano in data 11 giugno 1982 al n. 11861, con l'onere di destinare il reddito della somma elargita al funzionamento della "Casa di riposo Carlo e Antonio Migliavacca", in Caravate (Varese).  
+155. Decreto del Presidente della Repubblica 21 marzo 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Vigo Giuseppina in favore della Scuola nazionale cani guida per ciechi, in Scandicci (Firenze), con testamento olografo pubblicato a rogito notaio Luigi Zanzi in data 19 ottobre 1970, numero 69948/14526 di repertorio, registrato a Varese il 10 novembre 1970 al n. 2149, vol. 259, consistente nella somma di L. 3.000.000.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 2 maggio 1985  
-Registro n. 4 Presidenza, foglio n. 87
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 23 aprile 1977  
+Registro n. 4 Presidenza, foglio n. 129

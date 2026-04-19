@@ -1,92 +1,71 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 settembre 1979 n. 646
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1970 n. 258
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 settembre 1979 n. 646
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1970 n. 258
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli 567, 568, 569, 570, 571, 572 e 573, relativi alla scuola di specializzazione in malattie dell'apparato cardiovascolare, che muta la denominazione in quella di scuola di specializzazione in cardiologia, sono soppressi e sostituiti dai seguenti:   
+Decreta:  
   
-Scuola di specializzazione in cardiologia   
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 567. - La scuola di specializzazione in cardiologia ha sede presso la I cattedra di malattie dell'apparato cardiovascolare e conferisce il diploma di specialista in cardiologia.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Art. 568. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-Art. 569. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
-Art. 570. - Il numero degli allievi e' di venti per anno di corso, e complessivamente di ottanta iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Art. 571. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) anatomia umana normale ed embriologia dell'apparato cardiovascolare;   
-2) fisiologia dell'apparato cardiovascolare I;   
-3) biochimica e biofisica;   
-4) semeiotica fisica e strumentale dell'apparato cardiovascolare I;   
-5) informatica medica e strumentazione biomedica I.   
-2° Anno:   
-1) anatomia patologia I;   
-2) fisiologia dell'apparato cardiovascolare II;   
-3) patologia e clinica cardiovascolare I;   
-4) semeiotica fisica e strumentale dell'apparato cardiovascolare II;   
-5) informatica medica e strumentazione biomedica II;   
-6) radiologia I;   
-7) aspetti sociali ed epidemiologici delle malattie cardiovascolari.   
-3° Anno:   
-1) anatomia patologica II;   
-2) semeiotica fisica e strumentale dell'apparato cardiovascolare III;   
-3) patologia e clinica cardiovascolare II;   
-4) radiologia II;   
-5) terapia medica e farmacologia clinica I.   
-4° Anno:   
-1) semeiotica fisica e strumentale dell'apparato cardiovascolare IV;   
-2) patologia e clinica cardiovascolare III;   
-3) terapia medica e farmacologia clinica II;   
-4) terapia chirurgica;   
-5) terapie intensive cardiologiche.   
-Art. 572. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
-Art. 573. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in cardiologia gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento di carattere cardiologico.   
+Art. 681, relativo ai titoli di ammissione del corso di specializzazione in ingegneria del traffico e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente:  
+"Al corso possono essere ammessi i laureati in ingegneria e in architettura".  
+  
+Art. 683, relativo al corso di specializzazione in ingegneria del traffico e' abrogato e sostituito dal seguente:  
+"Gli insegnamenti impartiti nel corso si distinguono in costitutivi e monografici.  
+  
+Gli insegnamenti costitutivi sono:  
+1) Elementi di trasporti:  
+a) Meccanica della locomozione e sistemi di trasporto;  
+b) Caratteristiche della circolazione.  
+2) Regolazione della circolazione.  
+3) Attrezzature varie:  
+a) Caratteristiche del nastro stradale;  
+b) Svincoli e intersezioni.  
+4) Pianificazione dei trasporti.  
+5) Dinamica urbanistica:  
+a) Elementi di tecnica urbanistica;  
+b) Organizzazione dinamica del territorio.  
+6) Applicazione e progetti.  
+  
+Gli insegnamenti monografici sono:  
+1) Complementi di matematica.  
+2) Tecnica della sicurezza stradale.  
+3) Problemi economici.  
+  
+Gli esami degli insegnamenti costitutivi possono comprendere una prova pratica.  
+Il consiglio del corso stabilisce la durata degli insegnamenti.  
+Gli insegnamenti monografici formano oggetto di esame di gruppo con voti separati.  
+Gli insegnamenti possono venire integrati da conferenze e visite ad impianti, stabilimenti e situazioni stradali di particolare interesse.  
+Il consiglio del corso puo' esonerare dall'obbligo di frequenza di una o piu' delle parti indicate con a) dei corsi di "Elementi di trasporti", di "Attrezzature viarie" e di "Dinamica urbanistica" quegli iscritti che nei corsi normali di laurea avessero gia' frequentato con profitto materie comprendenti detti argomenti".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 settembre 1979
+### Dato a Roma, addi' 9 marzo 1970
 
-PERTINI VALITUTTI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 13 dicembre 1979
+Registrato alla Corte dei conti, addi' 8 maggio 1970
 
-Registro n. 96 Istruzione, foglio n. 180
+Atti del Governo, registro n. 235, foglio n. 68. - CARUSO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 agosto 1959 n. 784
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 155
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 agosto 1959 n. 784
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 155
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regi decreti 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227) e successivi;
+Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,127 +18,77 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sulla
+-----
 
-Sulla proposta del Ministro per la pubblica, istruzione;
+proposta del Ministro della pubblica istruzione; Decreta:
 
-Decreta:
+Articolo unico
+--------------
 
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 66. - Agli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:
-
-"storia della pedagogia", "psicologia dell'eta' evolutiva", "storia della musica", "filosofia morale".
-
-Art. 68. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:
-
-"glottologia" e "storia della musica".
-
-Art. 74. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:
-
-"psichiatria".
-
-Art. 82. - Agli insegnamenti complementari del corso di laurea in scienze matematiche sono aggiunti i seguenti:
-
-"statistica", "onde elettromagnetiche", "algebra".
-
-Art. 84. - Agli insegnamenti complementari del corso di laurea in matematica e fisica sono aggiunti quelli di:
-
-"statistica", "algebra".
-
-Art. 85. - Agli insegnamenti complementari del corso di laurea in chimica (indirizzo organico-biologico, ed inorganico-chimico-fisico), e' aggiunto quello di:
-
-"strutturistica chimica".
-
-Art. 88. - Agli insegnamenti complementari del corso di laurea in scienze geologiche e' aggiunto quello di:
-
-"geologia sedimentaria".
-
-Art. 111. - Agli insegnamenti complementari comuni a tutte le sezioni della Facolta' di ingegneria e' aggiunto quello di:
-
-"servomeccanismi".
-
-All'art. 152, e' aggiunto il seguente comma:
-
-"Alla Scuola e' addetto anche un vice direttore che sara' nominato dal rettore per un triennio su proposta del Consiglio dei professori della Facolta' di giurisprudenza e potra' essere scelto tra i professori titolari di ruolo e fuori ruolo della Facolta' stessa ed anche tra i liberi docenti o incaricati di detta Facolta' o di quella di economia e commercio".
-
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Napoli, addi' 20 agosto 1959
-
-GRONCHI
-
-MEDICI
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 25 settembre 1959 Atti del Governo, registro n. 120, foglio n. 152. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regi decreti 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica, istruzione;  
   
-Decreta:  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli 583, 584, 585, relativi alla scuola di specializzazione in malattie dell'apparato digerente, che muta la denominazione in quella di scuola di specializzazione in gastroenterologia ed endoscopia digestiva, sono soppressi e sostituiti dai seguenti:   
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 66. - Agli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:  
-"storia della pedagogia", "psicologia dell'eta' evolutiva", "storia della musica", "filosofia morale".  
-  
-Art. 68. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:  
-"glottologia" e "storia della musica".  
-  
-Art. 74. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:  
-"psichiatria".  
-  
-Art. 82. - Agli insegnamenti complementari del corso di laurea in scienze matematiche sono aggiunti i seguenti:  
-"statistica", "onde elettromagnetiche", "algebra".  
-  
-Art. 84. - Agli insegnamenti complementari del corso di laurea in matematica e fisica sono aggiunti quelli di:  
-"statistica", "algebra".  
-  
-Art. 85. - Agli insegnamenti complementari del corso di laurea in chimica (indirizzo organico-biologico, ed inorganico-chimico-fisico), e' aggiunto quello di:  
-"strutturistica chimica".  
-  
-Art. 88. - Agli insegnamenti complementari del corso di laurea in scienze geologiche e' aggiunto quello di:  
-"geologia sedimentaria".  
-  
-Art. 111. - Agli insegnamenti complementari comuni a tutte le sezioni della Facolta' di ingegneria e' aggiunto quello di:  
-"servomeccanismi".  
-  
-All'art. 152, e' aggiunto il seguente comma:  
-"Alla Scuola e' addetto anche un vice direttore che sara' nominato dal rettore per un triennio su proposta del Consiglio dei professori della Facolta' di giurisprudenza e potra' essere scelto tra i professori titolari di ruolo e fuori ruolo della Facolta' stessa ed anche tra i liberi docenti o incaricati di detta Facolta' o di quella di economia e commercio".  
+Scuola di specializzazione in gastroenterologia ed endoscopia   
+digestiva   
+Art. 583. - La scuola di specializzazione in gastroenterologia ed endoscopia digestiva ha sede presso l'istituto di clinica medica e gastroenterologia, cattedra di gastroenterologia, e conferisce il diploma di specialista in gastroenterologia ed endoscopia digestiva.   
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La scuola ha la durata di quattro anni e non e' suscettibile di abbreviazioni.   
+Art. 584. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+anatomia clinica;   
+farmacologia clinica;   
+chimica clinica, coprologia, parassitologia; genetica;   
+biostatica ed epidemiologia.   
+2° Anno:   
+clinica medica generale (triennale) I;   
+clinica e terapia del tubo digerente, fegato e pancreas (triennale) I;   
+anatomia ed istologia patologica (biennale) I;   
+fisiopatologia e semeiotica digestiva (biennale) I;   
+radiologia e medicina nucleare (biennale) I;   
+scienza dell'alimentazione e dietetica.   
+3° Anno:   
+clinica medica generale (triennale) II;   
+clinica e terapia del tubo digerente, fegato e pancreas (triennale) II;   
+anatomia e istologia patologica (biennale) II;   
+fisiopatologia e semeiotica digestiva (biennale) II;   
+radiologia e medicina nucleare (biennale) II;   
+endoscopia digestiva (biennale) I.   
+4° Anno:   
+clinica medica generale (triennale) III;   
+clinica e terapia del tubo digerente, fegato e pancreas (triennale) III;   
+endoscopia digestiva (biennale) II;   
+terapia intensiva;   
+gastroenterologia pediatrica;   
+elementi di chirurgia del tubo digerente, fegato e pancreas.   
+L'ammissione al corso avviene per titoli ed esami.   
+Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.   
+E' obbligatorio il tirocinio pratico durante il quadriennio di studi da svolgere nell'istituto clinico sede della scuola o in reparti ospedalieri di gastroenterologia, conforme alle scelte approvate dal consiglio della scuola.   
+A queste materie fondamentali obbligatorie possono essere aggiunte materie complementari con corsi semestrali in numero non superiore a sei per la totalita' del corso.   
+Art. 585. - Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni, le visite cliniche, gli ambulatori, nonche' di prestare, se richiesti, periodi di frequenza ai fini di apprendimento, estendendo storie cliniche e praticando le ricerche di laboratorio.   
+Gli allievi che non conseguono le attestazioni sul relativo libretto non possono essere ammessi a sostenere le prove d'esame.   
+Alla fine di ogni anno di corso gli iscritti sono tenuti a superare per gruppi di materie, tutti gli esami relativi ai singoli insegnamenti fondamentali e complementari di ciascun anno per il passaggio all'anno successivo. Gli esami biennali e triennali sono superati rispettivamente alla fine del biennio e alla fine del triennio.   
+Al termine del corso di studi per il conseguimento del diploma di specialista, i candidati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento di carattere gastroenterologico.   
   
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Napoli, addi' 20 agosto 1959
+### Dato a Roma, addi' 14 gennaio 1980
 
-GRONCHI MEDICI
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 25 settembre 1959
+Registrato alla Corte dei conti, addi' 26 aprile 1980
 
-Atti del Governo, registro n. 120, foglio n. 152. - VILLA
+Registro n. 38 Istruzione, foglio n. 29

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 701
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 498
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 701
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 498
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Ferrara.
@@ -39,19 +39,22 @@ Articolo unico
 --------------
 
   
-Nell'art. 38, relativo al corso di laurea in materie letterarie della facolta' di magistero, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-sociologia.  
+Nell'art. 47, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+terapia intensiva;  
+anestesia sperimentale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 maggio 1983
+### Dato a Roma, addi' 9 aprile 1986
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 14 dicembre 1983
+Registrato alla Corte dei conti, addi' 11 agosto 1986
 
-Registro n. 76 Istruzione, foglio n. 308
+Registro n. 63 Istruzione, foglio n. 335

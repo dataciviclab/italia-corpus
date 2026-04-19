@@ -1,308 +1,247 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1983 n. 943
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1980 n. 657
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1983 n. 943
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1980 n. 657
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ancona.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Ancona, approvato con [decreto del Presidente della Repubblica 4 ottobre 1971, n. 1330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-10-04;1330) e modificato con [decreto del Presidente della Repubblica 7 agosto 1973, n. 909](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-08-07;909), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ancona e convalidati dal consiglio universitario nazionale nei suoi pareri;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Veduto il [parere della sezione prima del Consiglio di Stato, n. 1902/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
+
+Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli atenei, relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Ancona, approvato con [decreto del Presidente della Repubblica 4 ottobre 1971, n. 1330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-10-04;1330) e modificato con [decreto del Presidente della Repubblica 7 agosto 1973, n. 909](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-08-07;909), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);   
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);   
-Sentito il parere del Consiglio universitario nazionale;   
-Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:   
+Lo statuto dell'Universita' di Ancona, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+L'art. 43 dello statuto dell'Universita' di Ancona di cui al [decreto del Presidente della Repubblica 27 ottobre 1978, n. 944](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-10-27;944), relativo al numero degli iscritti alla scuola di specializzazione in ostetricia e ginecologia, e' soppresso e sostituito dal seguente:   
+
+(( Art. 43. - Il numero massimo degli allievi e' complessivamente di ventisei iscritti per l'intero corso di studi.))
+
+Art. 2
+------
+
   
-Lo statuto dell'Universita' degli studi di Ancona, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Dopo l'art. 200, e con lo spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli, relativi alla istituzione delle scuole di specializzazione in:   
-dermatologia e venereologia;   
-immunoematologia;   
-malattie infettive;   
-reumatologia;   
-urologia, afferenti alla facolta' di medicina e chirurgia.   
   
-Titolo IV   
-SCUOLE DI SPECIALIZZAZIONE   
+L'art. 47, sesto comma, dello statuto dell'Universita' di Ancona di cui al [decreto del Presidente della Repubblica 10 giugno 1977, n. 779](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-06-10;779), relativo al numero degli iscritti alla scuola di specializzazione in psichiatria, e' modificato nel modo seguente:   
+Il numero massimo degli allievi e' complessivamente di quarantotto iscritti per l'intero corso di studi.   
+
+Art. 3
+------
+
   
-Scuola di specializzazione in dermatologia e venereologia   
   
-Art. 201. - E' istituita presso l'Universita' di Ancona la scuola di specializzazione in dermatologia e venereologia che conferisce il diploma di specialista in dermatologia e venereologia.   
-La direzione della scuola ha sede presso la clinica dermosifilopatica dell'Universita' di Ancona.   
-La scuola ha lo scopo di preparare medici specialisti in dermatologia e venereologia.   
-La durata del corso e' di tre anni e non e' suscettibile di abbreviazioni.   
-Il numero degli iscritti per ciascun anno e' pari a uno e complessivamente a quattro per l'intero corso di studio.   
-Alla scuola sono ammessi solo i laureati in medicina e chirurgia.  
-E' richiesto il possesso del diploma di abilitazione all'esercizio professionale.   
-Per l'ammissione alla scuola e' richiesto il superamento.   
-di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:   
-a) tesi nella disciplina attinente alla specializzazione;   
-b) voto di laurea;   
-c) voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;   
-d) le pubblicazioni nelle predette materie.   
-Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale 16 settembre 1982.   
-Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizioni utili nelle graduatorie compilate sulla base del punteggio riportato.   
-Le materie di insegnamento sono le seguenti:   
+Dopo l'art. 17, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in fisioterapia, ortopedia e pediatria:   
+  
+Scuola di specializzazione in fisioterapia   
+Art. 18. - La scuola di specializzazione in fisioterapia ha sede presso la clinica ortopedica e conferisce il diploma di specialista in fisioterapia.   
+Art. 19. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine. Il consiglio della scuola si compone dei professori che tengono gli insegnamenti prescritti ed e' presieduto dal direttore.   
+Art. 20. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.   
+Art. 21. - La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazione.   
+Art. 22. - Il numero massimo di allievi e' di sei per ogni anno e complessivamente di diciotto iscritti per l'intero corso di studi.   
+Art. 23. - L'ammissione al corso avviene per titoli ed esami.   
+Art. 24. - Le materie di insegnamento sono le seguenti:   
 1° Anno:   
-1) anatomia ed istologia normale della cute;   
-2) fisiologia della cute e degli annessi;   
-3) anatomia e fisiologia dell'apparato genitale;   
-4) microbiologia e parassitologia applicata;   
-5) tecniche di laboratorio applicate alla disciplina;   
-6) semeiotica dermatologica e venereologia.   
+1) principi di anatomia funzionale (propedeutico per tutte le materie di base degli anni successivi e per quelle facoltative);   
+2) fisiopatologia dell'apparato neuromotore (come sopra).   
 2° Anno:   
-1) patologia delle malattie cutanee;   
-2) patologia delle infezioni veneree;   
-3) istopatologia e citologia dermatologica e venereologica;   
-4) immunopatologia cutanea;   
-5) dermatologia allergologica e professionale;   
-6) angiologia;   
-7) sessuologia.   
+1) semeiotica clinica delle motolesioni neurologiche (propedeutico per le materie di insegnamento di base del terzo anno);   
+2) semeiotica clinica delle deformita' e delle motolesioni ortopediche (come sopra);   
+3) massoterapia e terapia manuale;   
+4) cinesiologia, cinesiterapia e ginnastica medica;   
+5) idroterapia e balneoterapia.   
 3° Anno:   
-1) clinica delle malattie cutanee;   
-2) clinica delle infezioni veneree;   
-3) dermatologia pediatrica;   
-4) farmacologia e terapia;   
-5) fisioterapia dermatologica;   
-6) cosmetologia;   
-7) chirurgia plastica riparatrice;   
-8) igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.   
-Le sopraelencate materie di insegnamento afferiscono alla facolta' di medicina e chirurgia.   
-La frequenza ai corsi e' obbligatoria. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo.   
-La commissione di esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso.   
-Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.   
-Il corso delle lezioni e' impartito mediante almeno 50 lezioni annuali, comprensive delle varie materie e la frequenza giornaliera degli iscritti non dovra' essere inferiore alle quattro ore effettive per tutta la durata dell'anno accademico.   
-Gli specializzandi avranno l'obbligo della frequenza onde seguire i corsi di lezione e svolgere contemporaneamente attivita' pratica nelle corsie, negli ambulatori e nei laboratori.   
-Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.   
-Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso. A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.   
-L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.   
-Per ciascuna scuola di specializzazione, anche se comprendente piu' indirizzi, e' costituito un unico consiglio presieduto da un direttore.   
-Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).   
-Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.   
-La direzione della scuola e' affidata a professore ordinario o straordinario che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.   
+1) elettroterapia ed elettrologia;   
+2) terapia con onde corte ed altri mezzi fisici;   
+3) rieducazione motoria e riabilitazione in campo ortopedico e traumatologico;   
+4) rieducazione motoria e riabilitazione in campo neurologico.   
+Sono facoltative le seguenti materie:   
+1) elettromiografia;   
+2) cinesiterapia e riabilitazione delle malattie internistiche;  
+3) rieducazione respiratoria;   
+4) riabilitazione nei disturbi del linguaggio;   
+5) problemi psicologici e psicopatologici della riabilitazione;  
+6) medicina assicurativa;   
+7) rieducazione dei disturbi della visione;   
+8) climatoterapia;   
+9) problemi di riabilitazione geriatrica;   
+10) riqualificazione professionale.   
+Art. 25. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.   
+L'insegnamento si svolge normalmente secondo il calendario universitario.   
+La durata del corso si prolunga tuttavia per tutto l'anno solare, senza interruzioni, per la pratica clinica e di laboratorio che si esplica attraverso l'esercitazione pratica nei reparti.   
+Art. 26. - Gli iscritti sono tenuti obbligatoriamente ad effettuare l'esercitazione pratica nei reparti della clinica neurologica per un periodo di sei mesi, e della clinica ortopedica per un secondo periodo della stessa durata.   
+Possono essere esonerati dall'esercitazione pratica nei reparti unicamente gli assistenti che prestino servizio presso cliniche neurologiche o presso cliniche ortopediche o presso istituti ospedalieri riconosciuti idonei, di volta in volta, a giudizio del direttore.   
+Art. 27. - Al termine di ogni anno gli iscritti devono superare gli esami di profitto in singole prove.   
+Nel secondo e terzo anno sono compresi insegnamenti facoltativi tra cui lo specializzando deve obbligatoriamente sceglierne cinque, due al secondo anno e tre al terzo anno, secondo l'indirizzo da lui preferito.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in fisioterapia, gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente la specialita'.   
+Art. 28. - Agli allievi i quali abbiano ottenuto l'approvazione nell'esame di diploma viene rilasciato il diploma di specializzazione in fisioterapia.   
   
-Scuola di specializzazione in immunoematologia   
+Scuola di specializzazione in ortopedia   
   
-Art. 202. - E' istituita presso l'Universita' di Ancona la scuola di specializzazione in immunoematologia che conferisce il diploma di specialista in immunoematologia.   
-La direzione della scuola ha sede presso l'istituto di patologia speciale medica e metodologia clinica, in collaborazione con l'insegnamento di genetica medica.   
-La scuola ha lo scopo di preparare medici specialisti in immunoematologia.   
-La durata del corso e' di tre anni e non e' suscettibile di abbreviazioni.   
-Il numero degli iscritti e' di dieci per ogni anno e complessivamente di trenta per l'intero corso di studi.   
-Alla scuola sono ammessi solo i laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale.   
-Per l'ammissione alla scuola e richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:   
-a) la tesi nella disciplina attinente alla specializzazione;   
-b) il voto di laurea;   
-c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;   
-d) le pubblicazioni nelle predette materie.   
-Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale del 16 settembre 1982.   
-Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizioni utili nelle graduatorie compilate sulla base del punteggio complessivo riportato.   
-Le materie di insegnamento sono le seguenti:   
+Art. 29. - La scuola di specializzazione in ortopedia ha sede presso la clinica ortopedica e conferisce il diploma di specialista in ortopedia. La scuola comprende un insegnamento teorico e pratico.   
+Art. 30. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione, o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 31. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.   
+Art. 32. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.   
+Art. 33. - Il numero massimo degli allievi e' di otto per anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.   
+Art. 34. - L'ammissione al corso avviene per titoli ed esami.   
+Art. 35. - Le materie di insegnamento sono le seguenti:   
 1° Anno:   
-nozioni di biochimica e di morfologia del sangue;   
-immunita' ed allergia;   
-gli antigeni individuali; sistematica dei gruppi sanguigni.   
+insegnamento pratico:   
+chirurgia generale;   
+fisioterapia;   
+pronto soccorso generale;   
+insegnamento teorico:   
+anatomia dell'apparato locomotore;   
+fisiologia dell'apparato locomotore;   
+semeiotica ortopedica;   
+nozioni di chirurgia generale;   
+bioingegneria dell'apparato locomotore I.   
 2° Anno:   
-organizzazione e metodologia trasfusionale;   
-malattie da incompatibilita' gruppale;   
-malattie trasmesse con la trasfusione del sangue e derivati.   
+Insegnamento pratico:   
+chirurgia generale (con frequenza eventuale in reparti specialistici interessati per l'apparato locomotore);   
+reparti di pronto soccorso traumatologico;   
+reparti di ortopedia e traumatologia;   
+insegnamento teorico:   
+anatomia ed istologia patologica dell'apparato locomotore I; patologia dell'apparato locomotore I;   
+clinica ortopedica I;   
+traumatologia dell'apparato locomotore I;   
+radiologia I;   
+nozioni di chirurgia d'urgenza e pronto soccorso;   
+bioingegneria dell'apparato locomotore II;   
 3° Anno:   
-organizzazione e metodologia trasfusionale;   
-legislazione e questioni giuridiche attinenti alla trasfusione del sangue e derivati;   
-aspetti medico-legali dell'immunoematologia.   
-Le sopracitate materie di insegnamento sono afferenti alla facolta' di medicina e chirurgia.   
-Il direttore puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari di conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola.   
-Tutti gli insegnamenti sono dimostrativi ed accompagnati da esercitazioni pratiche.   
-La frequenza ai corsi e' obbligatoria. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo.   
-La frequenza minima per essere ammessi a sostenere gli esami di passaggio da un anno di corso all'altro e al conseguimento del diploma e' fissata in un numero di presenze pari ai 2/3 del totale.   
-La commissione di esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno in corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno in corso.   
-Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.   
-La frequenza alle lezioni ed alle esercitazioni ed ai seminari e obbligatoria per tutti gli iscritti. La frequenza 6 obbligatoria durante tutti i tre anni del corso e si svolgera' presso l'istituto di patologia speciale medica, presso l'insegnamento di genetica medica con l'annesso servizio immuno trasfusionale e presso gli altri servizi e reparti di degenza affiliati alla scuola; sotto forma di impegno a tempo pieno. Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.   
-Superato l'esame teorico pratico dell'ultimo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso. A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.   
-L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.   
-Per ciascuna scuola di specializzazione, anche se comprendente piu' indirizzi, e' costituito un unico consiglio presieduto dal direttore.   
-Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99). Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.   
-La direzione della scuola e' affidata a professore ordinario o straordinario che insegni anche nella scuola medesima. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola stessa.   
-  
-Scuola di specializzazione in reumatologia   
-  
-Art. 203. - E' istituita presso l'Universita' di Ancona la scuola di specializzazione in reumatologia che conferisce il diploma di specialista in reumatologia.   
-La direzione della scuola ha sede presso la cattedra di reumatologia.   
-La scuola ha lo scopo di preparare medici specialisti in reumatologia.   
-La durata del corso e' di quattro anni e non e suscettibile di abbreviazioni.   
-Il numero degli iscritti e' di quattro per ogni anno e complessivamente di sedici per l'intero corso degli studi.   
-Alla scuola sono ammessi solo laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale.   
-Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, eventualmente integrata da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:   
-a) la tesi nella disciplina attinente alla specializzazione;   
-b) il voto di laurea;   
-c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;   
-d) le pubblicazioni nelle predette materie.   
-Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale del 16 settembre 1982.   
-Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.   
-Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) anatomia, istologia e morfogenesi dell'apparato locomotore;   
-2) fisiologia e fisiopatologia dell'apparato locomotore;   
-3) biochimica di interesse reumatologico;   
-4) microbiologia in relazione alle malattie reumatiche;   
-5) immunologia reumatologica;   
-6) semeiotica fisica e strumentale in reumatologia I.   
-2° Anno:   
-1) semeiotica fisica e strumentale in reumatologia II;   
-2) esami di laboratorio in reumatologia;   
-3) diagnostica radiologica delle reumo-artropatie;   
-4) farmacologia reumatologica;   
-5) anatomia e istologia-patologica delle malattie reumatiche;   
-6) clinica e terapia delle malattie reumatiche I.   
-3° Anno:   
-1) clinica e terapia ortopedica I;   
-2) fisio-chinesi-terapia reumatologica;   
-3) idro-climatologia di interesse reumatologico;   
-4) reumo-artropatie professionali;   
-5) clinica e terapia delle malattie reumatiche II.   
+insegnamento pratico:   
+reparti di ortopedia e traumatologia (in particolare sale di degenza e sale gessi);   
+insegnamento teorico:   
+anatomia ed istologia patologica dell'apparato locomotore II; patologia dell'apparato locomotore II;   
+clinica ortopedica II;   
+traumatologia dell'apparato locomotore II;   
+radiologia II;   
+tecnica operatoria I;   
+apparatoterapia e tecnica degli apparecchi gessati;   
+elementi di reumatologia.   
 4° Anno:   
-1) epidemiologia e aspetti sociali dei reumatismi;   
-2) riabilitazione del malato reumatico;   
-3) clinica e terapia ortopedica II;   
-4) clinica e terapia delle malattie reumatiche III.   
-Le sopracitate materie di insegnamento sono afferenti alla facolta' di medicina e chirurgia.   
-La frequenza ai corsi e' obbligatoria. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico pratico per il passaggio all'anno di corso successivo. La commissione di esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno in corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.   
-Gli iscritti alla scuola, con stretto riferimento alle materie previste per ogni anno di corso, riceveranno, in aggiunta all'insegnamento magistrale sotto forma di lezioni teoriche e sul malato, esercitazioni di carattere pratico dimostrativo e "sul campo" (cioe' su malati di corsia e d'ambulatorio). E' inoltre prevista la frequenza obbligatoria alla dimostrazione dei radiogrammi, nei singoli reparti, di indagine strumentale e nel laboratorio di analisi ove, in successivi turni, gli iscritti eseguiranno personalmente, sotto la guida del personale del laboratorio, le indagini di sierologia reumatoide, i principali tests immunologici e la lettura di preparati istologici (biopsie cutanee, sinoviali, ecc.).   
-Verranno ammessi a sostenere gli esami relativi soltanto gli iscritti che avranno un numero di presenze alle lezioni e alle esercitazioni cliniche e di laboratorio, superiori ai 2/3 del totale.  
-Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di una idonea documentazione, l'attivita' svolta dallo specializzando in strutture socio-sanitarie attinenti alla specializzazione anche all'estero e nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.   
-Superato l'esame teorico pratico dell'ultimo anno, il corso di studio delle scuole di specializzazione si conclude con un esame finale consistente in una discussione di una dissertazione scritta su una o piu' materie del corso. A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.   
-L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge, i contributi sono stabiliti anno per anno dal consiglio di amministrazione.   
-Per ciascuna scuola di specializzazione, anche se comprendente piu' indirizzi, e' costituito un unico consiglio presieduto da un direttore. Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica n. 382/82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;382~art99). Il consiglio esercita le competenze spettanti ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382 al consiglio di corso di laurea in materia di coordinamento di insegnamenti.   
-La direzione della scuola e' affidata a professore ordinario o straordinario che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.   
-  
-Scuola di specializzazione in malattie infettive   
-  
-Art. 204. - E' istituita presso l'Universita' di Ancona la scuola di specializzazione in malattie infettive, che conferisce il diploma di specialista in malattie infettive.   
-La direzione della scuola ha sede presso la cattedra di clinica delle malattie infettive della facolta' di medicina e chirurgia dell'Universita' degli studi di Ancona.   
-La scuola ha lo scopo di preparare medici specialisti in malattie infettive.   
-La durata del corso e' di quattro anni e non e suscettibile di abbreviazioni.   
-Il numero degli iscritti e' di cinque per ogni anno e complessivamente di venti per l'intero corso di studi.   
-Alla scuola sono ammessi solo laureati in medicina e chirurgia. E' richiesto il possesso del diploma di abilitazione all'esercizio professionale.   
-Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:   
-a) la tesi nella disciplina attinente alla specializzazione;   
-b) il voto di laurea;   
-c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;   
-d) le pubblicazioni nelle predette materie.   
-Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale 16 settembre 1982. Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero di posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.   
-Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) epidemiologia generale delle malattie infettive;   
-2) batteriologia e micologia;   
-3) virologia;   
-4) parassitologia;   
-5) immunologia generale.   
-2° Anno:   
-1) tecniche batteriologiche e micologia applicata alle malattie infettive;   
-2) tecniche virologiche applicate alle malattie infettive;   
-3) tecniche parassitologiche applicate alle malattie infettive;  
-4) tecniche immunologiche applicate alle malattie infettive;   
-5) anatomia patologica;   
-6) genetica.   
-3° Anno:   
-1) clinica delle malattie infettive (I anno);   
-2) diagnostica e semeiotica delle malattie infettive;   
-3) radiologia;   
-4) medicina preventiva delle malattie infettive.   
-4° Anno:   
-1) clinica delle malattie infettive (II anno);   
-2) malattie tropicali;   
-3) legislazione sanitaria delle malattie infettive;   
-4) farmacologia e terapia delle malattie infettive.   
-Le sopraelencate materie di insegnamento afferiscono alla facolta' di medicina e chirurgia.   
-La frequenza ai corsi e' obbligatoria. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta. La frequenza alle lezioni, esercitazioni e seminari e' obbligatoria per tutti gli iscritti. La frequenza e' obbligatoria durante i quattro anni del corso presso la clinica delle malattie infettive o presso gli altri servizi o reparti di degenza affiliati alla scuola.   
-Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo. Verranno ammessi a sostenere gli esami di passaggio da un anno di corso all'altro e al conseguimento del diploma, gli studenti iscritti che avranno un numero di presenze alle lezioni e alle esercitazioni cliniche e di laboratorio superiori ai due terzi del totale.   
-Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.   
-A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.   
-L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.   
-Per ciascuna scuola di specializzazione, anche se comprendente piu' indirizzi, e' costituito un unico consiglio presieduto da un direttore. Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99). Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.   
-La direzione della scuola e' affidata a professore ordinario o straordinario che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.   
-  
-Scuola di specializzazione in urologia   
-  
-Art. 205. - E' istituita presso l'Universita' di Ancona la scuola di specializzazione in urologia che conferisce il diploma di specialista in urologia.   
-La direzione della scuola ha sede presso l'istituto di patologia dell'apparato urinario.   
-La scuola ha lo scopo di preparare medici specialisti in urologia.   
-La durata del corso e' di cinque anni e non e suscettibile di abbreviazioni.   
-Il numero degli iscritti e' di cinque per ogni anno e complessivamente di venticinque per l'intero corso di studi.   
-Alla scuola sono ammessi solo laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:   
-a) la tesi nella disciplina attinente la specializzazione;   
-b) il voto di laurea;   
-c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;   
-d) le pubblicazioni nelle predette materie.   
-Il punteggio dei predetti titoli e' quello del decreto ministeriale del 16 settembre 1982. Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.   
-Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) anatomia sistematica e topografica dell'apparato urinario maschile;   
-2) fisiologia dell'apparato urinario e genitale maschile;   
-3) batteriologia in urologia;   
-4) semeiotica funzionale e strumentale dell'apparato uro-genitale I.   
-2° Anno:   
-1) semeiotica funzionale e strumentale dell'apparato uro-genitale II;   
-2) le nefropatie mediche;   
-3) anatomia chirurgica dell'apparato urinario e genitale maschile;   
-4) patologia dell'apparato urinario e genitale maschile I;   
-5) radiologia dell'apparato urinario e genitale maschile I.   
-3° Anno:   
-1) patologia dell'apparato urinario e genitale maschile II;   
-2) radiologia dell'apparato urinario e genitale maschile II;   
-3) le affezioni cutanee e veneree nei riguardi della urologia;   
-4) andrologia.   
-4° Anno:   
-1) anatomia e istologia patologica dell'apparato urinario e genitale maschile;   
-2) farmacoterapia delle affezioni urogenitali;   
-3) anestesia e trattamento pre-post operatorio del malato urologico;   
-4) nefrologia chirurgica;   
-5) clinica urologica I;   
-6) procedimenti di chirurgia endoscopica I;   
-7) interventi e procedimenti operatori sull'apparato urinario e genitale maschile I.   
+insegnamento pratico:   
+reparti di ortopedia e traumatologia (frequenza nei reparti operatori);   
+insegnamento teorico:   
+patologia dell'apparato locomotore III;   
+clinica ortopedica III;   
+traumatologia dell'apparato locomotore III;   
+tecnica operatoria II;   
+fisiokinesiterapia I;   
+neuropatologia dell'apparato locomotore ed elettrodiagnostica;   
+nozioni di medicina legale.   
 5° Anno:   
-1) clinica urologica II;   
-2) patologia e clinica urologica infantile;   
-3) urologia ginecologica;   
-4) procedimenti di chirurgia endoscopica;   
-5) la chirurgia dell'intestino;   
-6) chirurgia vascolare;   
-7) interventi e procedimenti operatori sull'apparato urinario e genitale maschile II.   
-Le sopracitate materie di insegnamento sono afferenti alla facolta' di medicina e chirurgia.   
-La frequenza ai corsi e' obbligatoria. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico pratico per il passaggio all'anno di corso successivo.   
-La commissione di esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno in corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso.   
-Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.   
-Gli iscritti alla scuola, relativamente alle materie previste per ogni anno di corso, usufruiranno di lezioni teoriche e sul malato e di esercitazioni strumentali in sala endoscopica.   
-E' inoltre prevista la frequenza obbligatoria alle sedute operatorie e nel laboratorio di analisi ove, suddivisi in turni, gli iscritti eseguiranno personalmente, sotto la guida del personale docente, le indagini ematochimiche ed urinarie di piu' significativo interesse.   
-Verranno ammessi a sostenere gli esami relativi soltanto gli iscritti che avranno un numero di presenze alle lezioni e alle esercitazioni cliniche e chirurgiche superiori ai 2/3 del totale. Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.   
-Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso. A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.   
-L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.   
-Per ciascuna scuola di specializzazione, anche se comprendente piu' indirizzi, e' costituito un unico consiglio presieduto da un direttore. Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).   
-Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.   
-La direzione della scuola e' affidata a professore ordinario o straordinario che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.   
+insegnamento pratico:   
+reparti di ortopedia e traumatologia (frequenza nei reparti operatori);   
+officine ortopediche;   
+insegnamento teorico:   
+patologia dell'apparato locomotore IV;   
+clinica ortopedica IV;   
+traumatologia dell'apparato locomotore IV;   
+tecnica operatoria III;   
+fisioterapia II.   
+Art. 36. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
+L'insegnamento si svolge normalmente secondo il calendario universitario.   
+La durata del corso si prolunga tuttavia per tutto l'anno solare, senza interruzioni, per la pratica clinica e di laboratorio che si esplica attraverso l'esercitazione pratica nei reparti.   
+Possono essere esonerati dall'esercitazione pratica nei reparti unicamente gli assistenti che prestino servizio presso cliniche neurologiche o presso cliniche ortopediche o presso istituti ospedalieri riconosciuti idonei, di volta in volta, a giudizio del direttore.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
+Art. 37. - Al termine di ogni anno gli iscritti, per essere ammessi agli anni successivi, devono superare gli esami di profitto in singole prove. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in ortopedia gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+Art. 38. - Agli allievi i quali abbiano ottenuto l'approvazione nell'esame di diploma viene rilasciato il diploma di specializzazione in ortopedia.   
+  
+Scuola di specializzazione in pediatria   
+  
+Art. 39. - La scuola di specializzazione in pediatria ha sede presso l'istituto di clinica pediatrica e conferisce il diploma di specialista in pediatria.   
+Art. 40. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 41. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+Art. 42. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
+Art. 43. - Il numero massimo degli allievi e' di undici per anno di corso e complessivamente di quarantaquattro per l'intero corso di studi.   
+Art. 44. - L'ammissione al corso avviene per titoli ed esami.   
+Art. 45. - Le materie d'insegnamento sono le seguenti:   
+1° Anno:   
+1) genetica;   
+2) auxologia;   
+3) alimentazione;   
+4) epidemiologia;   
+5) malattie infettive;   
+6) clinica pediatrica I.   
+2° Anno:   
+1) radiologia;   
+2) legislazione del minore;   
+3) organizzazione sanitaria;   
+4) psicologia pediatrica;   
+5) oculistica ed ortottica;   
+6) otorino e foniatria;   
+7) odontoiatria;   
+8) neonatologia I;   
+9) chirurgia pediatrica I;   
+10) pediatria preventiva e sociale I;   
+11) clinica pediatrica II.   
+3° Anno:   
+1) neurologia;   
+2) psichiatria infantile;   
+3) nefrologia e urologia;   
+4) ginecologia pediatrica;   
+5) neonatologia II;   
+6) chirurgia pediatrica II;   
+7) pediatria preventiva e sociale II;   
+8) cardiologia I;   
+9) endocrinologia I;   
+10) ematologia I;   
+11) immunologia I;   
+12) clinica pediatrica II;   
+13) gastroenterologia I.   
+4° Anno:   
+1) oncologia;   
+2) pneumologia;   
+3) ortopedia e traumatologia;   
+4) dermatologia;   
+5) cardiologia II;   
+6) endocrinologia II;   
+7) ematologia II;   
+8) immunologia II;   
+9) gastroenterologia II;   
+10) clinica pediatrica IV.   
+Art. 46. - La frequenza alle lezioni, alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere le prove di esame.   
+Art. 47. - Alla fine di ciascun anno di corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi. Al termine del corso di studi, per il conseguimento del diploma di specialista in pediatria, gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1983
+### Dato a Roma, addi' 8 luglio 1980
 
-PERTINI FALCUCCI
+PERTINI SARTI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 15 febbraio 1984
+Registrato alla Corte dei conti, addi' 8 ottobre 1980
 
-Registro n. 8 Istruzione, foglio n. 88
+Registro n. 92 Istruzione, foglio n. 140

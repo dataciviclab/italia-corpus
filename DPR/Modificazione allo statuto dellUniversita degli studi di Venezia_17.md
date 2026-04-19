@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 489
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1986 n. 468
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 489
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1986 n. 468
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Venezia.
@@ -39,19 +39,21 @@ Articolo unico
 --------------
 
   
-Nell'art. 31, relativo al corso di laurea in chimica industriale, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
-catalisi.  
+Nell'art. 27, relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+storia dell'arte moderna e contemporanea.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 giugno 1983
+### Dato a Roma, addi' 2 maggio 1986
 
-PERTINI FALCUCCI
+COSSIGA
 
-Visto, il Guardasigilli: DARIDA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 17 agosto 1983
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registro n. 59 Istruzione, foglio n. 127
+Registrato alla Corte dei conti, addi' 19 luglio 1986
+
+Registro n. 58 Istruzione, foglio n. 279

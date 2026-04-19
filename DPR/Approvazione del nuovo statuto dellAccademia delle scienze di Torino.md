@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 novembre 1986 n. 1092
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 novembre 1970 n. 1452
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 novembre 1986 n. 1092
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 novembre 1970 n. 1452
 ================================================================
 
 Approvazione del nuovo statuto dell'Accademia delle scienze di Torino.
@@ -10,10 +10,10 @@ Approvazione del nuovo statuto dell'Accademia delle scienze di Torino.
 Art. 1
 ------
 
-n.
+N.
 
-1092. Decreto del Presidente della Repubblica 17 novembre 1986, col quale, sulla proposta del Ministro per i beni culturali e ambientali, di concerto con il Ministro del tesoro, viene approvato il nuovo statuto dell'Accademia delle scienze di Torino.  
+1452. Decreto del Presidente della Repubblica 3 novembre 1970, col quale, sulla proposta del Ministro per la pubblica istruzione, di concerto con il Ministro per il tesoro, viene approvato il nuovo statuto della Accademia delle scienze di Torino.  
   
-Visto, il Guardasigilli: ROGNONI  
-Registrato alla Corte dei conti, addi' 14 aprile 1987  
-Registro n. 12 Beni culturali, foglio n. 300
+Visto, il Guardasigilli: COLOMBO  
+Registrato alla Corte dei conti, addi' 21 maggio 1971  
+Atti del Governo, registro n. 242, foglio n. 28. - VALENTINI

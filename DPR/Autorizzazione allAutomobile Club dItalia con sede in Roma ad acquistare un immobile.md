@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1967 n. 879
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 giugno 1965 n. 981
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1967 n. 879
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 giugno 1965 n. 981
 =============================================================
 
 Autorizzazione all'Automobile Club d'Italia, con sede in Roma, ad acquistare un immobile.
@@ -12,12 +12,8 @@ Art. 1
 
 N.
 
-879. Decreto del Presidente della Repubblica 30 giugno 1967, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile Club d'Italia, con sede in Roma, viene autorizzato ad acquistare, in proprieta', dalla Societa' per azioni "Finanziaria Edilizia Economica e Popolare - F.I.N.E.D.I.L.- s.p.a.", con sede in Roma, per destinarle a sede degli uffici di statistica e per il prezzo di L. 160.000.000, alcune porzioni di immobili facenti parte del fabbricato sito in Roma tra il largo Somalia e via Boito, e propriamente:
-
-a) locali al piano terra, con ingresso dal largo Somalia n. 30-B, nel N.C.E.U. alla p.ta 129844, foglio n. 562, n. 237/1;
-
-b) locali al piano seminterrato con ingresso dal largo Somalia n. 31-A, nel N.C.E.U. alla p.ta 129844, foglio n. 562, numeri 237/51 e 238/26;c) locale seminterrato ad uso garage con ingresso da via Boito n. 60, nel N.C.E.U. alla - p.ta 129844, foglio n. 562, numeri 238/1 e 338/18; d) diritto di superficie sulla piccola area scoperta di circa mq. 150, in catasto al foglio n. 562, particelle 180/1 e 180/2.  
+981. Decreto del Presidente della Repubblica 9 giugno 1965, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile Club d'Italia, con sede in Roma, viene autorizzato ad acquistare in proprieta' dall'Automobile Club di Bolzano, per il prezzo di lire 14.000.000, la meta' indivisa della porzione materiale di casa quinta (p. ed. 2201 - attualmente in P. T. 1984-/II C. C. Gries), sita in Bolzano, da adibire ad uso di uffici per i servizi delegati dallo Stato.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 27 settembre 1967  
-Atti del Governo, registro n. 214, foglio n. 16. - GRECO
+Registrato alla Corte dei conti, addi' 10 agosto 1965  
+Atti del Governo, registro n. 196, foglio n. 42. - VILLA

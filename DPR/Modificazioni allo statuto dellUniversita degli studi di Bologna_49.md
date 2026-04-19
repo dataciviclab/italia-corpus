@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1970 n. 318
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1966 n. 684
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1970 n. 318
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1966 n. 684
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -12,12 +12,11 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);.  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -25,49 +24,54 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 61, relativi agli Istituti annessi alla Facolta' di economia e commercio, i numeri 5, 8 e 11 sono abrogati e sostituiti dai seguenti:  
+5. Istituto di Matematica: per gli insegnamenti di Matematica generale, di Matematica finanziaria, di Elementi di matematica, di Ricerca operativa.  
+8. Istituto di Ragioneria: per gli insegnamenti di Ragioneria generale e applicata, di Contabilita' nazionale, di Ragioneria pubblica.  
+11. Istituto di Tecnica economica: per gli insegnamenti di Tecnica industriale e commerciale, di Tecnica bancaria e professionale, di Organizzazione aziendale.  
+Art. 62, il comma relativo alla direzione dell'Istituto di matematica di cui all'art. 61 e' modificato come segue:  
+"al professore di ruolo che impartisce l'insegnamento di Matematica generale per l'istituto di matematica.  
+Gli articoli 335, 336, 337, 338, 339 e 340 relativi alla Scuola di perfezionamento in oculistica sono abrogati e sostituiti dai seguenti:  
   
-Art. 52. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti quelli di:  
-Diritto tributario;  
-Geografia applicata.  
-  
-Art. 64. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:  
-Storia della lingua latina;  
-Filologia italiana;  
-Storia contemporanea;  
-Storia delle religioni;  
-Storia della lingua greca;  
-Estetica;  
-Filmologia;  
-Semitistica.  
-Nello stesso elenco l'insegnamento di "Ebraico e lingue semitiche comparate" e' soppresso.  
-  
-Art. 65. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti quelli di:  
-Storia contemporanea;  
-Storia delle religioni;  
-Filmologia.  
-  
-Art. 70. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne sono aggiunti quelli di:  
-Storia della letteratura ispano-americana;  
-Semitistica;  
-Filmologia.  
-Nello stesso elenco l'insegnamento di "Ebraico e lingue semitiche comparate" e' soppresso.  
-Presso la facolta' di scienze matematiche, fisiche e naturali la denominazione del corso di Specializzazione di "Tecniche radioisotopiche e di protezione dalle radiazioni" e' cambiata in quella di "Radioprotezione e tecniche radioisotopiche".  
-  
-Art. 281. - All'elenco degli insegnamenti impartiti nel predetto corso di specializzazione e' aggiunto quello di "Legislazione di radioprotezione".  
-  
-Art. 523, relativo alla scuola di perfezionamento per tecnici fisioterapisti (scuola diretta a fini speciali) e' modificato nel senso che il punto A e' abrogato e sostituito dal seguente:  
-"Al corso possono essere ammessi annualmente venti allievi".  
+Scuola di perfezionamento in oculistica  
+Art. 335. - La Scuola di perfezionamento in oculistica conferisce il diploma di specialista in Oculistica.  
+Gli anni di studio postuniversitari necessari per conseguire il titolo sono quattro.  
+Art. 336. - Il numero complessivo degli iscritti ai quattro anni di corso non potra' superare quello di quaranta.  
+Art. 337. - Gli insegnamenti impartiti nella Scuola e distribuiti nei quattro anni di corso sono i seguenti:  
+1° anno:  
+1. Anatomia ed Istologia dell'apparato oculare.  
+2. Nozioni di embriologia e genetica oculare.  
+3. Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari.  
+4. Nozioni di ottica fisiologica, esame della refrazione.  
+5. Microbiologia ed igiene oculare.  
+2° anno:  
+Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia; oftalmologia, perimetria, campimetria, adattometria, senso cromatico, tonometria, esami elettrofunzionali, radiologia).  
+Farmacologia oculare e terapia fisica.  
+Anatomia patologica oculare.  
+Patologia e Clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della sclera).  
+3° anno:  
+Patologia e clinica oculare (malattie dell'urea, della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita', e dell'orbita, glaucoma).  
+Anomalia e patologia della mobilita' oculare e della visione binoculare. Ortottica e pleottica.  
+Affezioni otorinolaringoiatriche e occhio.  
+Tecnica operatoria (biennale).  
+4° anno:  
+Neurooftalmologia.  
+Malattie oculari in rapporto ad affezioni generali.  
+Malattie professionali, infortunistica e medicina legale oculare.  
+Tecnica operatoria (biennale).  
+Art. 338. - E' obbligatorio l'internato per quattro anni nella Clinica oculistica.  
+Art. 339. - Gli esami di profitto verranno sostenuti per gruppo di materie alla fine di ogni anno.  
+Al termine del corso, prima di presentare la dissertazione scritta e sostenere la relativa discussione, i diplomati debbono sostenere una prova pratica sull'ammalato.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella. Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 febbraio 1970
+### Dato a Roma, addi' 13 maggio 1966
 
-SARAGAT FERRARI AGGRADI
+SARAGAT GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 21 maggio 1970
+Registrato alla Corte dei conti, addi' 25 agosto 1966
 
-Atti del Governo, registro n. 235, foglio n. 114. - CARUSO
+Atti del Governo, registro n. 205, foglio n. 18. - VILLA.

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1962 n. 2038
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1969 n. 1307
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1962 n. 2038
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1969 n. 1307
+================================================================
 
 Concessione di un contributo statale a favore del comune di Muggia quale concorso nella spesa per la fornitura di acqua a territori limitrofi.
 ----------------------------------------------------------------------------------------------------------------------------------------------
@@ -12,7 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
 
-Visto l'[art. 2 del decreto legislativo 28 novembre 1947, n. 1430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-11-28;1430~art2), che da' esecuzione al trattato di pace tra le potenze alleate ed associate e l'Italia, firmato a Parigi il 10 febbraio 1947;
+Visto l'[art. 2 del decreto legislativo 28 novembre 1947, n. 1430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-11-28;1430~art2), che da' esecuzione al trattato di pace tra le Potenze alleate ed associate e l'Italia, firmato a Parigi il 10 febbraio 1947;
+
+Visti i propri decreti n. 2038 del 7 giugno 1962 e n. 1492 del 10 novembre 1965;
 
 Sentito il Consiglio dei Ministri;
 
@@ -25,15 +27,15 @@ Art. 1
 ------
 
   
-Il comune di Muggia e' autorizzato a cedere acqua agli enti gestori della parte di rete del proprio acquedotto sito in territorio sotto amministrazione jugoslava a prezzo inferiore a quello di costo e cioe' a L. 18 al mc. per la rete bassa ed a L. 30 per la rete alta.  
+Il comune di Muggia e' autorizzato a cedere acqua agli enti gestori della parte di rete del proprio acquedotto sito in territorio sotto amministrazione jugoslava a prezzo inferiore a quello di costo e cioe' a L. 18 al m.c. per la rete bassa e a L. 30 al m.c. per la rete alta.  
 
 Art. 2
 ------
 
   
-E' autorizzata la concessione di un contributo a favore del comune di Muggia quale concorso agli oneri ad esso derivanti dalla, fornitura d'acqua a territori limitrofi sotto amministrazione jugoslava di cui all'articolo precedente.  
-Tale contributo viene determinato in L. 2.863.570 per il periodo dal 26 ottobre 1954 al 31 dicembre 1958 ed in L. 1.048.740 annue per il periodo dal 1 gennaio 1959 al 31 dicembre 1963.  
-La relativa spesa fara' carico al capitolo dello stato di previsione del Ministero del tesoro concernente gli oneri dipendenti dalla esecuzione delle clausole economiche del trattato di pace e di Accordi internazionali connessi con il trattato stesso.  
+E' autorizzata la concessione di un contributo a favore del comune di Muggia quale concorso agli oneri ad esso derivanti dalla fornitura d'acqua a territori limitrofi sotto amministrazione jugoslava di cui allo articolo precedente.  
+Tale contributo viene determinato in L. 3.612.900 annue per il periodo dal 1 gennaio 1967 al 31 dicembre 1969.  
+La relativa spesa fara' carico al capitolo n. 3249 dello stato di previsione del Ministero del tesoro, per l'anno finanziario 1969, concernente gli oneri dipendenti dalla esecuzione delle clausole economiche del trattato di pace e di accordi internazionali connessi con il trattato stesso.  
 
 Art. 3
 ------
@@ -45,12 +47,10 @@ Il presente decreto entra in vigore il giorno successivo a quello della sua pubb
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 giugno 1962
+### Dato a Roma, addi' 31 dicembre 1969
 
-SEGNI FANFANI - TREMELLONI - PICCIONI - TAVIANI
+SARAGAT RUMOR - COLOMBO - MORO - RESTIVO
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: REALE Registrato alla Corte dei conti addi' 5 maggio 1970
 
-Registrato alla Corte dei conti, addi' 23 febbraio 1963
-
-Atti del Governo, registro n. 165, foglio n. 67. - VILLA
+Atti del Governo, registro n. 235 foglio n. 64 CARUSO

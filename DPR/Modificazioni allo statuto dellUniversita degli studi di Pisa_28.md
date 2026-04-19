@@ -1,22 +1,197 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1970 n. 509
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 settembre 1962 n. 1559
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1970 n. 509
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 settembre 1962 n. 1559
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 11 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-11;2278), modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225) e successivi;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 23. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:
+
+Diritto fallimentare;
+
+Diritto internazionale privato.
+
+Art. 24. - Agli insegnamenti complementari del corso di laurea in Scienze politiche e' aggiunto quello di "Legislazione sociale".
+
+Art. 40. - E' modificato nel senso che "l'Istituto per la riforma sociale" cambia denominazione in quella di "Istituto di diritto del lavoro e di politica sociale".
+
+Art. 66. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e aggiunto quello di "Citopatologia".
+
+Art. 67. - Agli Istituti annessi alla Facolta' di medicina e chirurgia sono aggiunti i seguenti:
+
+Istituto di Psichiatria;
+
+Istituto di Neurochirurgia;
+
+Istituto di Microbiologia;
+
+Istituto di Medicina del lavoro;
+
+Art. 74. - Agli Istituti scientifici annessi alla Facolta', di scienze matematiche fisiche e naturali sono aggiunti i seguenti:
+
+Istituto di biologia generale;
+
+Istituto di algebra.
+
+mentre viene soppressa la "Scuola di disegno".
+
+Art. 91, relativo al corso di laurea in Scienze biologiche. - L'ultimo comma e' soppresso e sostituito dal seguente:
+
+"Gli studenti possono seguire i corsi di laboratorio biennale ed annuale negli Istituti di botanica, di fisiologia, di zoologia ed anatomia comparata, di anatomia umana, di patologia generale, di antropologia, di paleontologia, di igiene e di chimica biologica".
+
+Art. 122. - Nel corso di laurea in Ingegneria civile - Sezione trasporti (IV), e' aggiunto il seguente gruppo di materie a scelta dello studente:
+
+Gruppo III:
+
+Tecnica urbanistica;
+
+Tecnica della circolazione e traffico stradale.
+
+Nel corso di laurea in Ingegneria meccanica (V), il I gruppo di materie a scelta dello studente e' abrogato e sostituito dal seguente:
+
+Gruppo I:
+
+Meccanica agraria;
+
+Agronomia generale ed estimo;
+
+Complementi di macchine;
+
+Costruzioni di autoveicoli.
+
+Nel corso di laurea in ingegneria elettrotecnica (VI), e' aggiunto il seguente insegnamento fra quelli obbligatori sul piano della Facolta': "Tecnologia e costruzione di macchine".
+
+Nello stesso corso di laurea i gruppi di materie a scelta dello studente sono abrogati e sostituiti dai seguenti:
+
+Gruppo I:
+
+Trazione elettrica;
+
+Tecnica industriale;
+
+Gruppo II:
+
+Centrali elettriche;
+
+Economia ed esercizio degli impianti elettrici.
+
+Gruppo III:
+
+Comunicazioni elettriche;
+
+Radiotecnica.
+
+Nel corso di laurea in Ingegneria aeronautica (VIII), l'insegnamento di "Controlli automatici" sul piano della Facolta' e' sostituito con quello di "Servomeccanismi".
+
+Nel corso di laurea in Ingegneria elettronica (IX), accanto alla denominazione dell'insegnamento sul piano della Facolta' di "Complementi di fisica" viene aggiunta la specificazione "semestrale" mentre tale specificazione viene tolta dall'insegnamento "Tecnologie elettroniche".
+
+Nel corso di laurea in Ingegneria nucleare (X), lo insegnamento di "Controlli automatici" compreso nel Gruppo I delle materie a scelta dello studente viene abrogato e sostituito con quello di "Servomeccanismi".
+
+Art. 128, relativo alle propedeuticita' del corso di laurea in Chimica, e' modificato nel senso che per essere iscritti al corso di "Servomeccanismi" occorre aver regolarmente frequentato i corsi di "Elettronica applicata" e di "Elettronica nucleare".
+
+Art. 130, relativo agli Istituti annessi alla Facolta' di ingegneria e' abrogato e sostituito dal seguente:
+
+"Gli Istituti scientifici della Facolta' sono i seguenti:
+
+Istituto di aeronautica
+
+di architettura e urbanistica.
+
+Art. 131. - Gli Istituti scientifici della Facolta' sono i seguenti:
+
+Istituto di aeronautica;
+
+Istituto di architettura e urbanistica;
+
+Istituto di chimica generale;
+
+Istituto di chimica industriale ed applicata;
+
+Istituto di costruzioni stradali e trasporti;
+
+Istituto di elettronica;
+
+Istituto di elettrotecnica;
+
+Istituto di fisica generale ed applicata;
+
+Istituto di idraulica;
+
+Istituto di impianti nucleari;
+
+Istituto di macchine e meccanica agraria;
+
+Istituto di matematiche applicate;
+
+Istituto di meccanica applicata e costruzioni di macchine;
+
+Istituto di scienza delle costruzioni;
+
+Istituto di tecnologia meccanica;
+
+Istituto di topografia e geodesia.
+
+Due o piu' dei predetti Istituti potranno essere temporaneamente raggruppati con deliberazione del Consiglio di facolta' in considerazione di particolari situazioni di carattere transitorio.
+
+La biblioteca dell'Istituto di matematica applicata e' in comune con quella dell'Istituto di matematica "Leonida Tonelli" della Facolta' di scienze fisiche, matematiche e naturali.
+
+Il patrimonio dell'istituto di matematiche applicate, distinto da quello dell'Istituto di matematica "Leonida Tonelli" e' peraltro amministrato con quello collegialmente".
+
+Art. 134. - Agli insegnamenti complementari del corso di laurea in Medicina veterinaria e' aggiunto quello di "Legislazione veterinaria".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 17 settembre 1962
+
+SEGNI
+
+GUI
+
+Visto, il Guardasigilli: BOSCO
+
+Registrato
+----------
+
+alla Corte del conti, addi' 7 novembre 1962 Atti del Governo, registro n. 160, foglio n. 2. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 11 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-11;2278), modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -25,80 +200,95 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 333 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in microbiologia e in psichiatria.  
+Art. 23. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:  
+Diritto fallimentare;  
+Diritto internazionale privato.  
   
-Scuola di specializzazione in microbiologia  
+Art. 24. - Agli insegnamenti complementari del corso di laurea in Scienze politiche e' aggiunto quello di "Legislazione sociale".  
   
-Art. 334. - La scuola di specializzazione in microbiologia ha lo scopo di allargare, approfondire ed aggiornare sul piano scientifico e tecnico la cultura di coloro che si dedicano allo studio di queste discipline.  
-La scuola ha la durata di tre anni; ha sede presso l'istituto di microbiologia il cui professore di ruolo ne e' il direttore.  
-Art. 335. - Alla scuola possono essere ammessi i laureati in medicina e chirurgia, medicina veterinaria, scienze biologiche, scienze naturali e farmacia per un numero complessivo di diciotto iscritti (sei per ogni anno di corso).  
-Art. 336. - Gli insegnamenti impartiti nella scuola sono:  
-Chimica microbiologica;  
-Batteriologia generale e tecnica batteriologica;  
-Analisi statistica del dosaggio biologico;  
-Immunologia;  
-Batteriologia speciale;  
-Virologia generale e tecnica virologica;  
-Micologia;  
-Protozoologia;  
-Genetica dei microrganismi;  
-Virologia speciale;  
-Microbiologia degli alimenti;  
-Microbiologia industriale;  
-Metodi e dosaggi microbiologici.  
-Art. 337. - Il direttore puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola, che siano tenute conferenze su materie ed argomenti che abbiano attinenza e affinita' con gli insegnamenti impartiti nella scuola.  
+Art. 40. - E' modificato nel senso che "l'Istituto per la riforma sociale" cambia denominazione in quella di "Istituto di diritto del lavoro e di politica sociale".  
   
-Scuola di specializzazione in psichiatria  
+Art. 66. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e aggiunto quello di "Citopatologia".  
   
-Art. 338. - La scuola di specializzazione in psichiatria ha sede presso la clinica psichiatrica il cui professore di ruolo ne e' il direttore. Ha la durata di quattro anni.  
-Art. 339. - Gli insegnamenti sono i seguenti:  
-1° Anno:  
-Anatomia e istologia del sistema nervoso;  
-Fisiologia del sistema nervoso;  
-Biochimica del sistema nervoso;  
-Genetica (elementi);  
-Psicologia generale;  
-psicopatologia (1°);  
-Semeiotica psichiatrica.  
-2° Anno: (internato in neurologia).  
-Anatomia e istologia patologica del sistema nervoso;  
-Semeiotica neurochirurgica;  
-Patologia speciale e diagnostica neurologica;  
-Neuro-radiologia;  
-Endocrinologia e neurologia vegetativa;  
-Elettroencefalografia.  
-3° Anno:  
-Patologia speciale psichiatrica;  
-Psicopatologia (2°);  
-Clinica psichiatrica (1°);  
-Psicologia clinica e psicodiagnostica;  
-Psicofarmacologia;  
-Psichiatria in rapporto con la patologia internistica;  
-Esami di laboratorio.  
-4° Anno:  
-Clinica psichiatrica;  
-Terapia psichiatrica generale;  
-Psicoterapia;  
-Neuropsichiatria infantile;  
-Psichiatria forense e legislazione psichiatrica;  
-Psichiatria sociale (del lavoro, scolastica, igiene e profilassi mentale).  
-Art. 340. - Gli iscritti sono tenuti a frequentare la clinica psichiatrica come interni negli anni 1°, 3° e 4° per tutto il periodo di lezioni, che potra' essere diminuito a quattro mesi per i medici che prestino regolare servizio in un ospedale psichiatrico.  
-Sono tenuti a frequentare come interni nel 2° anno la clinica neurologica per tutto il periodo di lezioni, che potra' essere ridotto a quattro mesi per i medici che prestino servizio regolare in un reparto neurologico ed a mesi sei per coloro che prestino regolare servizio in un ospedale psichiatrico.  
-Art. 341. - L'iscrizione al 1° anno avviene in base ai titoli e ad un esame di ammissione.  
-Saranno ammessi non piu' di dieci iscritti.  
-Art. 342. - E' prevista la concessione di un'abbreviazione di anni due per coloro che sono in possesso di una specializzazione di neurologia e neuropsichiatria infantile; di un anno per coloro che sono in possesso di una specializzazione in medicina generale, psicologia e neurochirurgia.  
-Art. 343. - Per quanto non compreso nel presente statuto, si fa riferimento alle norme generali delle scuole di perfezionamento e di specializzazione della facolta' di medicina e chirurgia, contenute nello statuto dell'universita'.  
+Art. 67. - Agli Istituti annessi alla Facolta' di medicina e chirurgia sono aggiunti i seguenti:  
+Istituto di Psichiatria;  
+Istituto di Neurochirurgia;  
+Istituto di Microbiologia;  
+Istituto di Medicina del lavoro;  
+  
+Art. 74. - Agli Istituti scientifici annessi alla Facolta', di scienze matematiche fisiche e naturali sono aggiunti i seguenti:  
+Istituto di biologia generale;  
+Istituto di algebra.  
+mentre viene soppressa la "Scuola di disegno".  
+  
+Art. 91, relativo al corso di laurea in Scienze biologiche. - L'ultimo comma e' soppresso e sostituito dal seguente:  
+"Gli studenti possono seguire i corsi di laboratorio biennale ed annuale negli Istituti di botanica, di fisiologia, di zoologia ed anatomia comparata, di anatomia umana, di patologia generale, di antropologia, di paleontologia, di igiene e di chimica biologica".  
+  
+Art. 122. - Nel corso di laurea in Ingegneria civile - Sezione trasporti (IV), e' aggiunto il seguente gruppo di materie a scelta dello studente:  
+Gruppo III:  
+Tecnica urbanistica;  
+Tecnica della circolazione e traffico stradale.  
+Nel corso di laurea in Ingegneria meccanica (V), il I gruppo di materie a scelta dello studente e' abrogato e sostituito dal seguente:  
+Gruppo I:  
+Meccanica agraria;  
+Agronomia generale ed estimo;  
+Complementi di macchine;  
+Costruzioni di autoveicoli.  
+Nel corso di laurea in ingegneria elettrotecnica (VI), e' aggiunto il seguente insegnamento fra quelli obbligatori sul piano della Facolta': "Tecnologia e costruzione di macchine".  
+Nello stesso corso di laurea i gruppi di materie a scelta dello studente sono abrogati e sostituiti dai seguenti:  
+Gruppo I:  
+Trazione elettrica;  
+Tecnica industriale;  
+Gruppo II:  
+Centrali elettriche;  
+Economia ed esercizio degli impianti elettrici.  
+Gruppo III:  
+Comunicazioni elettriche;  
+Radiotecnica.  
+Nel corso di laurea in Ingegneria aeronautica (VIII), l'insegnamento di "Controlli automatici" sul piano della Facolta' e' sostituito con quello di "Servomeccanismi".  
+Nel corso di laurea in Ingegneria elettronica (IX), accanto alla denominazione dell'insegnamento sul piano della Facolta' di "Complementi di fisica" viene aggiunta la specificazione "semestrale" mentre tale specificazione viene tolta dall'insegnamento "Tecnologie elettroniche".  
+Nel corso di laurea in Ingegneria nucleare (X), lo insegnamento di "Controlli automatici" compreso nel Gruppo I delle materie a scelta dello studente viene abrogato e sostituito con quello di "Servomeccanismi".  
+  
+Art. 128, relativo alle propedeuticita' del corso di laurea in Chimica, e' modificato nel senso che per essere iscritti al corso di "Servomeccanismi" occorre aver regolarmente frequentato i corsi di "Elettronica applicata" e di "Elettronica nucleare".  
+  
+Art. 130, relativo agli Istituti annessi alla Facolta' di ingegneria e' abrogato e sostituito dal seguente:  
+"Gli Istituti scientifici della Facolta' sono i seguenti:  
+Istituto di aeronautica  
+di architettura e urbanistica.  
+  
+Art. 131. - Gli Istituti scientifici della Facolta' sono i seguenti:  
+Istituto di aeronautica;  
+Istituto di architettura e urbanistica;  
+Istituto di chimica generale;  
+Istituto di chimica industriale ed applicata;  
+Istituto di costruzioni stradali e trasporti;  
+Istituto di elettronica;  
+Istituto di elettrotecnica;  
+Istituto di fisica generale ed applicata;  
+Istituto di idraulica;  
+Istituto di impianti nucleari;  
+Istituto di macchine e meccanica agraria;  
+Istituto di matematiche applicate;  
+Istituto di meccanica applicata e costruzioni di macchine;  
+Istituto di scienza delle costruzioni;  
+Istituto di tecnologia meccanica;  
+Istituto di topografia e geodesia.  
+Due o piu' dei predetti Istituti potranno essere temporaneamente raggruppati con deliberazione del Consiglio di facolta' in considerazione di particolari situazioni di carattere transitorio.  
+La biblioteca dell'Istituto di matematica applicata e' in comune con quella dell'Istituto di matematica "Leonida Tonelli" della Facolta' di scienze fisiche, matematiche e naturali.  
+Il patrimonio dell'istituto di matematiche applicate, distinto da quello dell'Istituto di matematica "Leonida Tonelli" e' peraltro amministrato con quello collegialmente".  
+  
+Art. 134. - Agli insegnamenti complementari del corso di laurea in Medicina veterinaria e' aggiunto quello di "Legislazione veterinaria".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 marzo 1970
+### Dato a Roma, addi' 17 settembre 1962
 
-SARAGAT FERRARI AGGRADI
+SEGNI GUI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 10 luglio 1970
+Registrato alla Corte del conti, addi' 7 novembre 1962
 
-Atti del Governo, registro n. 236, foglio n. 144. - CARUSO
+Atti del Governo, registro n. 160, foglio n. 2. - VILLA

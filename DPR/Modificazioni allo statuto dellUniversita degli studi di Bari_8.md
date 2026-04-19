@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1969 n. 258
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1954 n. 1198
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1969 n. 258
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1954 n. 1198
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regi decreti 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2169); [31 ottobre 1929, n. 2481](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1929-10-31;2481); [30 ottobre 1930, n. 1858](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1858); [22 ottobre 1931, n. 1422](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-22;1422); [27 ottobre 1932, n. 2082](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-10-27;2082); [13 dicembre 1934, n. 2404](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-13;2404); [1 ottobre 1936, n. 2020](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2020); [13 luglio 1939, n. 1168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-07-13;1168); [26 ottobre 1940, n. 2029](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2029); [24 ottobre 1942, n. 1785; con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1785) [21 aprile 1949, n. 451](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;451); [31 ottobre 1950, numero 1293](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1293); [11 maggio 1951, n. 633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-05-11;633); [23 gennaio 1952, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;66); [25 giugno 1953, n. 753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-06-25;753); [30 luglio 1953, n. 758](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;758); [25 agosto 1953, n. 857](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;857) e [25 agosto 1953, n. 992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;992);
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,9 +18,7 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -32,307 +30,119 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 46, relativo alle norme di propedeuticita' di esami per il corso di diploma di abilitazione alla vigilanza nelle scuole elementari e' soppresso.
+Art. 89. - All'elenco delle scuole di perfezionamento annesse alla Facolta' di medicina e chirurgia e' aggiunto la "scuola di perfezionamento in oncologia".
 
-Art. 57. - All'elenco degli istituti, annessi alla facolta' di magistero, e' aggiunto il seguente: "Istituto di filosofia e storia della filosofia".
+Dopo l'art. 115, e' aggiunto il seguente nuovo articolo, relativo alla istituzione della scuola di perfezionamento in oncologia.
 
-Art. 64. - All'elenco degli insegnamenti complementari del corso di laurea in farmacia e' incluso quello di "Istituzioni di matematiche".
+Scuola di perfezionamento in oncologia.
 
-Art. 71. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:
+Art. 116.
 
-28) Acarologia (semestrale);
+a) La scuola di perfezionamento in oncologia e' annessa all'Istituto di patologia generale. La Facolta' si riserva di annettere eventualmente la scuola all'Istituto di anatomia patologica della Universita' di Bari nel caso che particolari condizioni lo richiedessero.
 
-29) Micologia (semestrale);
+Gli anni di studio per il conseguimento del diploma sono tre.
 
-30) Batteriologia fitopatologica (semestrale);
+b) Gli iscritti alla scuola preferibilmente scelti tra laureati gia' in possesso di un titolo di specializzazione hanno i seguenti obblighi di frequenza e di internato negli Istituti universitari e nelle cliniche.
 
-31) Patologia vegetale forestale (annuale);
+Al primo anno: internato trimestrale in ciascuno dei seguenti Istituti: patologia generale, anatomia patologica, patologia speciale medica, patologia speciale chirurgica.
 
-32) Patologia delle piante ortive (semestrale);
+Al secondo anno: internato trimestrale in ciascuno dei seguenti Istituti e cliniche: patologia generale, anatomia patologica, clinica medica, clinica chirurgica.
 
-33) Sociologia rurale (annuale);
+Al terzo anno: internato trimestrale nella clinica ostetrico ginecologica: negli altri trimestri seguiranno corsi di aggiornamento nelle cliniche specialistiche (neurologica, pediatrica, dermatologica, oculistica, otorinolaringologica ed ortopedica) ed in radiologia.
 
-34) Storia dell'agricoltura (semestrale);
+c) Gli insegnamenti impartiti nella scuola sono i seguenti:
 
-35) Enzimologia (annuale);
+Primo anno: istituzioni di patologia generale dei tumori.
 
-36) Ecologia agraria (annuale);
+Biochimica del tessuto neoplastico e dell'organismo portatore di tumore maligno. Anatomia ed istologia patologica generale dei tumori.
 
-37) Orticoltura (annuale);
+Secondo anno: patologia sperimentale ed umana generale dei tumori maligni. Istologia patologica speciale dei tumori maligni dell'uomo.
 
-38) Floricoltura (annuale);
+Diagnostica e terapia radiologica dei tumori maligni dell'uomo.
 
-39) Foraggicoltura (semestrale);
+Semeiotica e clinica generale dei tumori maligni.
 
-40) Tecnica vivaistica (annuale);
+Terzo anno: clinica dei tumori maligni dell'apparato genitale femminile. Clinica speciale dei tumori maligni della cute, dell'occhio, dello scheletro, del sistema nervoso, degli apparati respiratorio-digerente ed urogenitale. Clinica delle neoplasie infantili, degli organi a secrezione interna, degli organi emopoietici. Terapia chirurgica dei tumori maligni dell'uomo.
 
-41) Immunogenetica (semestrale);
+Tecnonologie diagnostiche speciali nei portatori di tumori maligni.
 
-42) Fisioclimatologia animale (semestrale);
+d) La spesa relativa al funzionamento della predetta scuola e' a carico del bilancio ordinario della Universita' di Bari. Eventuali contributi straordinari di altri enti verranno assegnati con apposita deliberazione del Consiglio di amministrazione, all'istituto di patologia generale ed anche a quello di anatomia-patologica.
 
-43) Fisiologia e tecnica della riproduzione animale (annuale);
+e) Gli iscritti alla scuola sono tenuti al pagamento delle tasse e sopratasse nella misura indicata dall'articolo 92 dello statuto. Il provento delle tasse e' ripartito dal Consiglio di amministrazione secondo i criteri indicati nello stesso art. 92, mentre il provento delle sopratasse di esami viene ripartito secondo le disposizioni di cui al [decreto del Presidente della Repubblica 1 dicembre 1952, n. 4512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-12-01;4512).
 
-44) Tecnica mangimistica (annuale);
+Gli iscritti sono, inoltre, tenuti al pagamento a favore degli Istituti e delle cliniche nelle quali essi hanno l'obbligo d'internato di contributi speciali nella misura che il Consiglio di amministrazione Su proposta del Senato accademico udita la Facolta' di medicina e chirurgia, stabilisce per gli studenti di detta Facolta'.
 
-45) Avicoltura (annuale);
-
-46) Coniglicoltura (semestrale);
-
-47) Tecnica della meccanizzazione agricola (annuale);
-
-48) Tecnica delle applicazioni frigorifere (semestrale);
-
-49) Parassitologia animale dei vegetali (annuale).
-
-Art. 113. - relativo all'elenco dei corsi di laurea che comprende la facolta' di ingegneria e' modificato nel senso che e' aggiunto il corso di laurea in "Ingegneria meccanica".
-
-Art. 114. - Le parole "comune ai due corsi di laurea" sono sostituite dalle seguenti "comune ai tre corsi di laurea".
-
-Art. 115. - All'elenco degli insegnamenti impartiti per il secondo anno del biennio propedeutico per gli studi in ingegneria viene aggiunto il seguente:
-
-10) Chimica applicata (insegnamento aggiunto per l'ingegneria meccanica il cui esame non va considerato ai fini dello sbarramento).
-
-Art. 116, relativo alle propedeuticita' di alcuni esami del biennio e l'iscrizione al triennio di applicazione dopo il numero 4 e' aggiunta la seguente nuova norma:
-
-5) l'esame di chimica deve precedere quello di chimica applicata.
-
-Al terzo comma del predetto articolo le parole "... stabilite nell'articolo precedente" sono soppresse.
-
-Dopo l'articolo 122 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi all'istituzione del corso di laurea in ingegneria meccanica.
-
-TRIENNIO DI INGEGNERIA MECCANICA
-
-Art. 123. - Gli insegnamenti del triennio (3°, 4°, 5° anno) si distinguono in:
-
-A) Obbligatori sul piano nazionale:
-
-1) Scienza delle costruzioni;
-
-2) Meccanica applicata alle macchine;
-
-3) Idraulica;
-
-4) Fisica tecnica;
-
-5) Elettrotecnica;
-
-6) Macchine;
-
-7) Costruzioni di macchine;
-
-8) Impianti meccanici;
-
-9) Tecnologia meccanica;
-
-10) Chimica applicata (anticipato al biennio propedeutico).
-
-B) Obbligatori sul piano della facolta':
-
-11) Teoria e metodologia delle tecniche operative;
-
-12) Tecnologia dei materiali;
-
-13) Gasdinamica e principi di aerotecnica (semestrale);
-
-14) Economia industriale ed organizzazione aziendale;
-
-15) Complementi di macchine;
-
-16) Complementi di costruzioni di macchine;
-
-17) Tecnica delle costruzioni industriali;
-
-18) Misure e norme di collaudo (semestrale).
-
-C) Gruppi di materie a scelta dello studente:
-
-Indirizzo generale:
-
-19) Tecnica ed economia dei trasporti;
-
-20) Termotecnica applicata;
-
-21) Macchine per l'agricoltura e i cantieri.
-
-Indirizzo organizzativo:
-
-19) Processi di lavorazioni meccaniche;
-
-20) Servomeccanismi ed automazione;
-
-21) Tecnica della produzione industriale.
-
-Art. 124. - Agli effetti della successione dei relativi esami nel triennio e di applicazione occorre osservare le precedenze seguenti: per tecnologia dei materiali e' propedeutico l'esame di chimica applicata;
-
-per macchine sono propedeutici gli esami di meccanica applicata alle macchine e fisica tecnica;
-
-per costruzioni di macchine sono propedeutici gli esami di scienza delle costruzioni, meccanica applicata alle macchine e tecnologia dei materiali;
-
-per tecnologia meccanica e' propedeutico l'esame di tecnologia dei materiali;
-
-per tecnica delle costruzioni industriali e' propedeutico l'esame di scienza delle costruzioni;
-
-per gasdinamica e principi di aerotecnica sono propedeutici gli esami di idraulica e fisica tecnica;
-
-per complementi di macchine e' propedeutico l'esame di macchine; per misure e norme di collaudo sono propedeutici gli esami di elettrotecnica, macchine e costruzioni di macchine;
-
-per complementi di costruzioni e di macchine e' propedeutico l'esame di costruzioni di macchine;
-
-per impianti meccanici sono propedeutici gli esami di meccanica applicata alle macchine, fisica tecnica, elettrotecnica, tecnologia meccanica;
-
-per tecnica ed economia dei trasporti sono propedeutici gli esami di elettrotecnica e teoria e metodologia delle tecniche operative;
-
-per termotecnica applicata sono propedeutici gli esami di fisica tecnica e teoria e metodologia delle tecniche operative;
-
-per macchine per l'agricoltura e i cantieri sono propedeutici gli esami di teoria e metodologia delle tecniche operative, macchine e costruzioni di macchine per processi di lavorazioni meccaniche sono propedeutici gli esami di teoria e metodologia delle tecniche operative, tecnologia meccanica ed economia industriale ed organizzazione aziendale;
-
-per servomeccanismi ed automazione sono propedeutici gli esami di idraulica, elettrotecnica, teoria e metodologia delle tecniche operative e macchine;
-
-per tecnica della produzione industriale sono propedeutici gli esami di teoria e metodologia delle tecniche operative ed economia industriale ed organizzazione aziendale.
-
-Art. 125. - Per essere ammesso all'esame di laurea lo studente deve aver superato gli esami nelle materie obbligatorie e nelle tre dell'indirizzo prescelto.
-
-L'esame di laurea consistera' nella discussione di un elaborato di progetto presentato come tesi.
-
-Art. 126. - All'elenco degli istituti annessi alla facolta' di ingegneria sono aggiunti i seguenti:
-
-12) istituto di tecnologie;
-
-13) istituto di costruzioni di macchine;
-
-14) istituto di matematica applicata.
+La tassa di diploma e' fissata in L. 6000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 marzo 1969
+Dato a Dogliani, addi' 14 settembre 1954
 
-SARAGAT
+EINAUDI
 
-FERRARI AGGRADI
+MARTINO
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: DE PIETRO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 28 maggio 1969 Atti del Governo, registro n. 227, foglio n. 1. - GRECO
+alla Corte dei conti, addi' 29 dicembre 1954 Atti del Governo, registro n. 87, foglio n. 102. - CARLOMAGNO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regi decreti 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2169); [31 ottobre 1929, n. 2481](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1929-10-31;2481); [30 ottobre 1930, n. 1858](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1858); [22 ottobre 1931, n. 1422](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-22;1422); [27 ottobre 1932, n. 2082](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-10-27;2082); [13 dicembre 1934, n. 2404](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-13;2404); [1 ottobre 1936, n. 2020](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2020); [13 luglio 1939, n. 1168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-07-13;1168); [26 ottobre 1940, n. 2029](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2029); [24 ottobre 1942, n. 1785; con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1785) [21 aprile 1949, n. 451](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;451); [31 ottobre 1950, numero 1293](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1293); [11 maggio 1951, n. 633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-05-11;633); [23 gennaio 1952, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;66); [25 giugno 1953, n. 753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-06-25;753); [30 luglio 1953, n. 758](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;758); [25 agosto 1953, n. 857](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;857) e [25 agosto 1953, n. 992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;992);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 46, relativo alle norme di propedeuticita' di esami per il corso di diploma di abilitazione alla vigilanza nelle scuole elementari e' soppresso.   
-Art. 57. - All'elenco degli istituti, annessi alla facolta' di magistero, e' aggiunto il seguente: "Istituto di filosofia e storia della filosofia".   
-Art. 64. - All'elenco degli insegnamenti complementari del corso di laurea in farmacia e' incluso quello di "Istituzioni di matematiche".   
-Art. 71. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:   
-28) Acarologia (semestrale);   
-29) Micologia (semestrale);   
-30) Batteriologia fitopatologica (semestrale);   
-31) Patologia vegetale forestale (annuale);   
-32) Patologia delle piante ortive (semestrale);   
-33) Sociologia rurale (annuale);   
-34) Storia dell'agricoltura (semestrale);   
-35) Enzimologia (annuale);   
-36) Ecologia agraria (annuale);   
-37) Orticoltura (annuale);   
-38) Floricoltura (annuale);   
-39) Foraggicoltura (semestrale);   
-40) Tecnica vivaistica (annuale);   
-41) Immunogenetica (semestrale);   
-42) Fisioclimatologia animale (semestrale);   
-43) Fisiologia e tecnica della riproduzione animale (annuale);   
-44) Tecnica mangimistica (annuale);   
-45) Avicoltura (annuale);   
-46) Coniglicoltura (semestrale);   
-47) Tecnica della meccanizzazione agricola (annuale);   
-48) Tecnica delle applicazioni frigorifere (semestrale);   
-49) Parassitologia animale dei vegetali (annuale).   
-Art. 113. - relativo all'elenco dei corsi di laurea che comprende la facolta' di ingegneria e' modificato nel senso che e' aggiunto il corso di laurea in "Ingegneria meccanica".   
-Art. 114. - Le parole "comune ai due corsi di laurea" sono sostituite dalle seguenti "comune ai tre corsi di laurea".   
-Art. 115. - All'elenco degli insegnamenti impartiti per il secondo anno del biennio propedeutico per gli studi in ingegneria viene aggiunto il seguente:   
-10) Chimica applicata (insegnamento aggiunto per l'ingegneria meccanica il cui esame non va considerato ai fini dello sbarramento).   
-Art. 116, relativo alle propedeuticita' di alcuni esami del biennio e l'iscrizione al triennio di applicazione dopo il numero 4 e' aggiunta la seguente nuova norma:   
-5) l'esame di chimica deve precedere quello di chimica applicata.   
-Al terzo comma del predetto articolo le parole "... stabilite nell'articolo precedente" sono soppresse.   
-Dopo l'articolo 122 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi all'istituzione del corso di laurea in ingegneria meccanica.   
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-TRIENNIO DI INGEGNERIA MECCANICA   
+Art. 89. - All'elenco delle scuole di perfezionamento annesse alla Facolta' di medicina e chirurgia e' aggiunto la "scuola di perfezionamento in oncologia".  
+Dopo l'art. 115, e' aggiunto il seguente nuovo articolo, relativo alla istituzione della scuola di perfezionamento in oncologia.  
   
-Art. 123. - Gli insegnamenti del triennio (3°, 4°, 5° anno) si distinguono in:   
-A) Obbligatori sul piano nazionale:   
-1) Scienza delle costruzioni;   
-2) Meccanica applicata alle macchine;   
-3) Idraulica;   
-4) Fisica tecnica;   
-5) Elettrotecnica;   
-6) Macchine;   
-7) Costruzioni di macchine;   
-8) Impianti meccanici;   
-9) Tecnologia meccanica;   
-10) Chimica applicata (anticipato al biennio propedeutico).   
-B) Obbligatori sul piano della facolta':   
-11) Teoria e metodologia delle tecniche operative;   
-12) Tecnologia dei materiali;   
-13) Gasdinamica e principi di aerotecnica (semestrale);   
-14) Economia industriale ed organizzazione aziendale;   
-15) Complementi di macchine;   
-16) Complementi di costruzioni di macchine;   
-17) Tecnica delle costruzioni industriali;   
-18) Misure e norme di collaudo (semestrale).   
-C) Gruppi di materie a scelta dello studente:   
-Indirizzo generale:   
-19) Tecnica ed economia dei trasporti;   
-20) Termotecnica applicata;   
-21) Macchine per l'agricoltura e i cantieri.   
-Indirizzo organizzativo:   
-19) Processi di lavorazioni meccaniche;   
-20) Servomeccanismi ed automazione;   
-21) Tecnica della produzione industriale.   
-Art. 124. - Agli effetti della successione dei relativi esami nel triennio e di applicazione occorre osservare le precedenze seguenti: per tecnologia dei materiali e' propedeutico l'esame di chimica applicata;   
-per macchine sono propedeutici gli esami di meccanica applicata alle macchine e fisica tecnica;   
-per costruzioni di macchine sono propedeutici gli esami di scienza delle costruzioni, meccanica applicata alle macchine e tecnologia dei materiali;   
-per tecnologia meccanica e' propedeutico l'esame di tecnologia dei materiali;   
-per tecnica delle costruzioni industriali e' propedeutico l'esame di scienza delle costruzioni;   
-per gasdinamica e principi di aerotecnica sono propedeutici gli esami di idraulica e fisica tecnica;   
-per complementi di macchine e' propedeutico l'esame di macchine; per misure e norme di collaudo sono propedeutici gli esami di elettrotecnica, macchine e costruzioni di macchine;   
-per complementi di costruzioni e di macchine e' propedeutico l'esame di costruzioni di macchine;   
-per impianti meccanici sono propedeutici gli esami di meccanica applicata alle macchine, fisica tecnica, elettrotecnica, tecnologia meccanica;   
-per tecnica ed economia dei trasporti sono propedeutici gli esami di elettrotecnica e teoria e metodologia delle tecniche operative;   
-per termotecnica applicata sono propedeutici gli esami di fisica tecnica e teoria e metodologia delle tecniche operative;   
-per macchine per l'agricoltura e i cantieri sono propedeutici gli esami di teoria e metodologia delle tecniche operative, macchine e costruzioni di macchine per processi di lavorazioni meccaniche sono propedeutici gli esami di teoria e metodologia delle tecniche operative, tecnologia meccanica ed economia industriale ed organizzazione aziendale;   
-per servomeccanismi ed automazione sono propedeutici gli esami di idraulica, elettrotecnica, teoria e metodologia delle tecniche operative e macchine;   
-per tecnica della produzione industriale sono propedeutici gli esami di teoria e metodologia delle tecniche operative ed economia industriale ed organizzazione aziendale.   
-Art. 125. - Per essere ammesso all'esame di laurea lo studente deve aver superato gli esami nelle materie obbligatorie e nelle tre dell'indirizzo prescelto.   
-L'esame di laurea consistera' nella discussione di un elaborato di progetto presentato come tesi.   
-Art. 126. - All'elenco degli istituti annessi alla facolta' di ingegneria sono aggiunti i seguenti:   
-12) istituto di tecnologie;   
-13) istituto di costruzioni di macchine;   
-14) istituto di matematica applicata.   
+Scuola di perfezionamento in oncologia.  
+  
+Art. 116.  
+  
+a) La scuola di perfezionamento in oncologia e' annessa all'Istituto di patologia generale. La Facolta' si riserva di annettere eventualmente la scuola all'Istituto di anatomia patologica della Universita' di Bari nel caso che particolari condizioni lo richiedessero.  
+Gli anni di studio per il conseguimento del diploma sono tre.  
+b) Gli iscritti alla scuola preferibilmente scelti tra laureati gia' in possesso di un titolo di specializzazione hanno i seguenti obblighi di frequenza e di internato negli Istituti universitari e nelle cliniche.  
+Al primo anno: internato trimestrale in ciascuno dei seguenti Istituti: patologia generale, anatomia patologica, patologia speciale medica, patologia speciale chirurgica.  
+Al secondo anno: internato trimestrale in ciascuno dei seguenti Istituti e cliniche: patologia generale, anatomia patologica, clinica medica, clinica chirurgica.  
+Al terzo anno: internato trimestrale nella clinica ostetrico ginecologica: negli altri trimestri seguiranno corsi di aggiornamento nelle cliniche specialistiche (neurologica, pediatrica, dermatologica, oculistica, otorinolaringologica ed ortopedica) ed in radiologia.  
+c) Gli insegnamenti impartiti nella scuola sono i seguenti:  
+Primo anno: istituzioni di patologia generale dei tumori.  
+Biochimica del tessuto neoplastico e dell'organismo portatore di tumore maligno. Anatomia ed istologia patologica generale dei tumori.  
+Secondo anno: patologia sperimentale ed umana generale dei tumori maligni. Istologia patologica speciale dei tumori maligni dell'uomo.  
+Diagnostica e terapia radiologica dei tumori maligni dell'uomo.  
+Semeiotica e clinica generale dei tumori maligni.  
+Terzo anno: clinica dei tumori maligni dell'apparato genitale femminile. Clinica speciale dei tumori maligni della cute, dell'occhio, dello scheletro, del sistema nervoso, degli apparati respiratorio-digerente ed urogenitale. Clinica delle neoplasie infantili, degli organi a secrezione interna, degli organi emopoietici. Terapia chirurgica dei tumori maligni dell'uomo.  
+Tecnonologie diagnostiche speciali nei portatori di tumori maligni.  
+d) La spesa relativa al funzionamento della predetta scuola e' a carico del bilancio ordinario della Universita' di Bari. Eventuali contributi straordinari di altri enti verranno assegnati con apposita deliberazione del Consiglio di amministrazione, all'istituto di patologia generale ed anche a quello di anatomia-patologica.  
+e) Gli iscritti alla scuola sono tenuti al pagamento delle tasse e sopratasse nella misura indicata dall'articolo 92 dello statuto. Il provento delle tasse e' ripartito dal Consiglio di amministrazione secondo i criteri indicati nello stesso art. 92, mentre il provento delle sopratasse di esami viene ripartito secondo le disposizioni di cui al [decreto del Presidente della Repubblica 1 dicembre 1952, n. 4512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-12-01;4512).  
+Gli iscritti sono, inoltre, tenuti al pagamento a favore degli Istituti e delle cliniche nelle quali essi hanno l'obbligo d'internato di contributi speciali nella misura che il Consiglio di amministrazione Su proposta del Senato accademico udita la Facolta' di medicina e chirurgia, stabilisce per gli studenti di detta Facolta'.  
+La tassa di diploma e' fissata in L. 6000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 marzo 1969
+### Dato a Dogliani, addi' 14 settembre 1954
 
-SARAGAT FERRARI AGGRADI
+EINAUDI MARTINO
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: DE PIETRO
 
-Registrato alla Corte dei conti, addi' 28 maggio 1969
+Registrato alla Corte dei conti, addi' 29 dicembre 1954
 
-Atti del Governo, registro n. 227, foglio n. 1. - GRECO
+Atti del Governo, registro n. 87, foglio n. 102. - CARLOMAGNO

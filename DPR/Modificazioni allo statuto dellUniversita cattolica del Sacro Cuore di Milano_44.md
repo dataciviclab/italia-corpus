@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 luglio 1978 n. 605
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1229
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 luglio 1978 n. 605
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1229
+===============================================================
 
 Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
 --------------------------------------------------------------------------------
@@ -18,8 +18,6 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
@@ -32,32 +30,306 @@ Decreta:
 
 Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 18 - all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto l'insegnamento di "storia e critica del cinema".
+Gli articoli 132, 133, 134, relativi alla scuola di specializzazione in igiene e medicina preventiva, sono abrogati e sostituiti dai seguenti:
 
-Art. 19 - all'elenco degli insegnamenti complementari del corso di laurea in pedagogia e' aggiunto l'insegnamento di "storia e critica del cinema".
+Scuola di specializzazione in igiene e medicina preventiva
 
-Art. 20 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto l'insegnamento di "storia e critica del cinema".
+Art. 132. - La scuola di specializzazione in igiene e medicina preventiva ha sede presso l'istituto di igiene e conferisce il diploma di specialista in igiene e medicina preventiva.
 
-Nel titolo III, punto 3 e nel primo comma dell'art. 97, la denominazione della "Scuola di perfezionamento in filosofia neoscolastica", annessa alla facolta' di lettere e filosofia, e' soppressa e sostituita con quella di "Scuola di perfezionamento in filosofia".
+La direzione della scuola e' affidata al professore di ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
+
+Il numero massimo degli allievi e' complessivamente di trenta iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Art. 133. - Il corso si articola in un biennio propedeutico seguito da un biennio differenziato con cinque orientamenti e precisamente:
+
+a) sanita' pubblica;
+
+b) igiene e tecnica ospedaliera;
+
+c) igiene del lavoro;
+
+d) igiene e medicina scolastica;
+
+e) laboratorio.
+
+Il piano di studi e' il seguente:
+
+I BIENNIO
+
+1° Anno:
+
+metodologia statistica e biometria;
+
+educazione sanitaria;
+
+psicologia;
+
+microbiologia ed immunologia I;
+
+parassitologia;
+
+epidemiologia generale e metodologia;
+
+profilassi generale;
+
+sociologia medica ed antropologia culturale.
+
+2° Anno:
+
+microbiologia ed immunologia II;
+
+patologia e clinica delle malattie infettive;
+
+epidemiologia e profilassi delle malattie infettive I;
+
+patologia e clinica delle malattie non infettive di importanza sociale;
+
+epidemiologia e profilassi delle malattie non infettive di importanza sociale I;
+
+demografia e statistica sanitaria;
+
+legislazione e programmazione sanitaria.
+
+II BIENNIO
+
+a) Orientamento di sanita' pubblica
+
+3° Anno:
+
+epidemiologia e profilassi delle malattie infettive II;
+
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
+
+igiene dell'ambiente fisico e difesa ecologica;
+
+igiene degli alimenti e della nutrizione;
+
+igiene dell'eta' evolutiva;
+
+igiene del lavoro;
+
+igiene ed assistenza dell'anziano.
+
+4° Anno.
+
+igiene dell'edilizia e dell'aggregato urbano;
+
+igiene ospedaliera;
+
+organizzazione del territorio e programmazione sanitaria;
+
+medicina di comunita';
+
+economia sanitaria;
+
+elementi di diritto amministrativo.
+
+b) Orientamento di igiene e tecnica ospedaliera
+
+3° Anno:
+
+epidemiologia e profilassi delle malattie infettive II;
+
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
+
+igiene dell'ambiente fisico e difesa ecologica;
+
+igiene e tecnica delle costruzioni ospedaliere; arredamenti ed impianti tecnologici;
+
+igiene dell'alimentazione e dietetica ospedaliera;
+
+organizzazione e funzionamento degli ospedali I;
+
+elementi di diritto e legislazione ospedaliera.
+
+4° Anno:
+
+organizzazione e funzionamento degli ospedali II;
+
+compiti ed attribuzioni della direzione sanitaria;
+
+formazione professionale e compiti del personale ospedaliero;
+
+programmazione ospedaliera e medicina di comunita';
+
+assistenza psichiatrica;
+
+aspetti socio-sanitari dell'ospitalismo;
+
+aspetti economici della gestione ospedaliera.
+
+c) Orientamento di igiene del lavoro
+
+3° Anno:
+
+epidemiologia e profilassi delle malattie infettive II;
+
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
+
+igiene dell'ambiente fisico e difesa ecologica;
+
+epidemiologia e profilassi delle malattie del lavoro;
+
+tecnica ed economia degli impianti industriali;
+
+tossicologia industriale e diagnostica di laboratorio;
+
+elementi di fisica tecnica applicata all'igiene;
+
+igiene dell'ambiente di lavoro I.
+
+4° Anno:
+
+igiene dell'ambiente di lavoro II;
+
+elementi di diritto e legislazione del lavoro;
+
+psicologia del lavoro;
+
+prevenzione degli infortuni;
+
+politica del territorio ed insediamento industriale;
+
+igiene del lavoro e medicina di comunita';
+
+d) Orientamento di igiene e medicina scolastica
+
+3° Anno:
+
+epidemiologia e profilassi delle malattie infettive II;
+
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
+
+igiene dell'ambiente fisico e difesa ecologica;
+
+clinica delle malattie dell'eta' evolutiva;
+
+epidemiologia e profilassi delle malattie dell'eta' evolutiva;
+
+igiene degli alimenti e della nutrizione;
+
+auxologia normale e patologica;
+
+psicologia dell'eta' evolutiva.
+
+4° Anno:
+
+servizi di medicina scolastica;
+
+edilizia ed arredamento scolastico;
+
+elementi di pedagogia;
+
+assistenza parascolastica;
+
+educazione sanitaria nella scuola;
+
+legislazione scolastica;
+
+igiene mentale.
+
+e) Orientamento di laboratorio
+
+3° Anno:
+
+epidemiologia e profilassi delle malattie infettive II;
+
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
+
+igiene dell'ambiente fisico e difesa ecologica;
+
+metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale;
+
+metodi e dosaggi biologici per il controllo dell'inquinamento ambientale;
+
+strumentazione e metodologie chimico-cliniche ed ematologiche I; microscopia applicata all'igiene;
+
+elementi di fisica e tecnica applicata all'igiene;
+
+accertamento diagnostico delle malattie infettive e parassitarie I.
+
+4° Anno:
+
+metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale II;
+
+accertamento diagnostico delle malattie infettive e parassitarie II;
+
+strumentazione e metodologie chimico-cliniche ed ematologiche II; ispezione e controllo degli alimenti;
+
+elementi di informatica.
+
+Gli esami relativi alle discipline svolte con insegnamento biennale verranno sostenuti alla fine di detti insegnamenti.
+
+I corsi saranno completati da insegnamenti complementari scelti dalla scuola tra i seguenti:
+
+Materie complementari:
+
+automazione del sistema ospedaliero;
+
+biochimica applicata;
+
+climatologia;
+
+diritto sanitario internazionale;
+
+clementi di medicina legale;
+
+genetica umana;
+
+geologia applicata all'igiene;
+
+idrologia;
+
+igiene dei climi tropicali;
+
+igiene dei trasporti;
+
+igiene militare;
+
+igiene rurale;
+
+istituzioni di matematiche;
+
+micologia;
+
+radioprotezionistica.
+
+A giudizio della scuola possono essere indicati come complementari anche altri insegnamenti regolarmente attivati nel corso di laurea in medicina e chirurgia dell'Universita' cattolica.
+
+I corsi saranno integrati da un tirocinio pratico di durata comunque non inferiore a tre mesi da svolgersi durante il secondo biennio.
+
+Art. 134. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.
+
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno;
+
+per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in igiene e medicina preventiva gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 6 luglio 1978
+Dato a Roma, addi' 31 ottobre 1977
 
-p. Il Presidente della Repubblica
+LEONE
 
-Il Presidente del Senato
-
-FANFANI
-
-PEDINI
+MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 23 settembre 1978 Registro n. 104 Istruzione, foglio n. 294
+alla Corte dei conti, addi' 27 giugno 1978 Registro n. 67 Istruzione, foglio n. 360
 
 Art. 1
 ------
@@ -68,7 +340,6 @@ Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvat
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -77,21 +348,178 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 18 - all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto l'insegnamento di "storia e critica del cinema".  
-Art. 19 - all'elenco degli insegnamenti complementari del corso di laurea in pedagogia e' aggiunto l'insegnamento di "storia e critica del cinema".  
-Art. 20 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto l'insegnamento di "storia e critica del cinema".  
-Nel titolo III, punto 3 e nel primo comma dell'art. 97, la denominazione della "Scuola di perfezionamento in filosofia neoscolastica", annessa alla facolta' di lettere e filosofia, e' soppressa e sostituita con quella di "Scuola di perfezionamento in filosofia".  
+  
+Gli articoli 132, 133, 134, relativi alla scuola di specializzazione in igiene e medicina preventiva, sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in igiene e medicina preventiva  
+  
+Art. 132. - La scuola di specializzazione in igiene e medicina preventiva ha sede presso l'istituto di igiene e conferisce il diploma di specialista in igiene e medicina preventiva.  
+La direzione della scuola e' affidata al professore di ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.  
+Il numero massimo degli allievi e' complessivamente di trenta iscritti per l'intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami.  
+Art. 133. - Il corso si articola in un biennio propedeutico seguito da un biennio differenziato con cinque orientamenti e precisamente:  
+a) sanita' pubblica;  
+b) igiene e tecnica ospedaliera;  
+c) igiene del lavoro;  
+d) igiene e medicina scolastica;  
+e) laboratorio.  
+Il piano di studi e' il seguente:  
+  
+I BIENNIO  
+  
+1° Anno:  
+metodologia statistica e biometria;  
+educazione sanitaria;  
+psicologia;  
+microbiologia ed immunologia I;  
+parassitologia;  
+epidemiologia generale e metodologia;  
+profilassi generale;  
+sociologia medica ed antropologia culturale.  
+2° Anno:  
+microbiologia ed immunologia II;  
+patologia e clinica delle malattie infettive;  
+epidemiologia e profilassi delle malattie infettive I;  
+patologia e clinica delle malattie non infettive di importanza sociale;  
+epidemiologia e profilassi delle malattie non infettive di importanza sociale I;  
+demografia e statistica sanitaria;  
+legislazione e programmazione sanitaria.  
+  
+II BIENNIO  
+  
+a) Orientamento di sanita' pubblica  
+  
+3° Anno:  
+epidemiologia e profilassi delle malattie infettive II;  
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
+igiene dell'ambiente fisico e difesa ecologica;  
+igiene degli alimenti e della nutrizione;  
+igiene dell'eta' evolutiva;  
+igiene del lavoro;  
+igiene ed assistenza dell'anziano.  
+4° Anno.  
+igiene dell'edilizia e dell'aggregato urbano;  
+igiene ospedaliera;  
+organizzazione del territorio e programmazione sanitaria;  
+medicina di comunita';  
+economia sanitaria;  
+elementi di diritto amministrativo.  
+  
+b) Orientamento di igiene e tecnica ospedaliera  
+  
+3° Anno:  
+epidemiologia e profilassi delle malattie infettive II;  
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
+igiene dell'ambiente fisico e difesa ecologica;  
+igiene e tecnica delle costruzioni ospedaliere; arredamenti ed impianti tecnologici;  
+igiene dell'alimentazione e dietetica ospedaliera;  
+organizzazione e funzionamento degli ospedali I;  
+elementi di diritto e legislazione ospedaliera.  
+4° Anno:  
+organizzazione e funzionamento degli ospedali II;  
+compiti ed attribuzioni della direzione sanitaria;  
+formazione professionale e compiti del personale ospedaliero;  
+programmazione ospedaliera e medicina di comunita';  
+assistenza psichiatrica;  
+aspetti socio-sanitari dell'ospitalismo;  
+aspetti economici della gestione ospedaliera.  
+  
+c) Orientamento di igiene del lavoro  
+  
+3° Anno:  
+epidemiologia e profilassi delle malattie infettive II;  
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
+igiene dell'ambiente fisico e difesa ecologica;  
+epidemiologia e profilassi delle malattie del lavoro;  
+tecnica ed economia degli impianti industriali;  
+tossicologia industriale e diagnostica di laboratorio;  
+elementi di fisica tecnica applicata all'igiene;  
+igiene dell'ambiente di lavoro I.  
+4° Anno:  
+igiene dell'ambiente di lavoro II;  
+elementi di diritto e legislazione del lavoro;  
+psicologia del lavoro;  
+prevenzione degli infortuni;  
+politica del territorio ed insediamento industriale;  
+igiene del lavoro e medicina di comunita';  
+  
+d) Orientamento di igiene e medicina scolastica  
+  
+3° Anno:  
+epidemiologia e profilassi delle malattie infettive II;  
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
+igiene dell'ambiente fisico e difesa ecologica;  
+clinica delle malattie dell'eta' evolutiva;  
+epidemiologia e profilassi delle malattie dell'eta' evolutiva;  
+igiene degli alimenti e della nutrizione;  
+auxologia normale e patologica;  
+psicologia dell'eta' evolutiva.  
+4° Anno:  
+servizi di medicina scolastica;  
+edilizia ed arredamento scolastico;  
+elementi di pedagogia;  
+assistenza parascolastica;  
+educazione sanitaria nella scuola;  
+legislazione scolastica;  
+igiene mentale.  
+  
+e) Orientamento di laboratorio  
+  
+3° Anno:  
+epidemiologia e profilassi delle malattie infettive II;  
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
+igiene dell'ambiente fisico e difesa ecologica;  
+metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale;  
+metodi e dosaggi biologici per il controllo dell'inquinamento ambientale;  
+strumentazione e metodologie chimico-cliniche ed ematologiche I; microscopia applicata all'igiene;  
+elementi di fisica e tecnica applicata all'igiene;  
+accertamento diagnostico delle malattie infettive e parassitarie I.  
+4° Anno:  
+metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale II;  
+accertamento diagnostico delle malattie infettive e parassitarie II;  
+strumentazione e metodologie chimico-cliniche ed ematologiche II; ispezione e controllo degli alimenti;  
+elementi di informatica.  
+Gli esami relativi alle discipline svolte con insegnamento biennale verranno sostenuti alla fine di detti insegnamenti.  
+I corsi saranno completati da insegnamenti complementari scelti dalla scuola tra i seguenti:  
+  
+Materie complementari:  
+  
+automazione del sistema ospedaliero;  
+biochimica applicata;  
+climatologia;  
+diritto sanitario internazionale;  
+clementi di medicina legale;  
+genetica umana;  
+geologia applicata all'igiene;  
+idrologia;  
+igiene dei climi tropicali;  
+igiene dei trasporti;  
+igiene militare;  
+igiene rurale;  
+istituzioni di matematiche;  
+micologia;  
+radioprotezionistica.  
+A giudizio della scuola possono essere indicati come complementari anche altri insegnamenti regolarmente attivati nel corso di laurea in medicina e chirurgia dell'Universita' cattolica.  
+I corsi saranno integrati da un tirocinio pratico di durata comunque non inferiore a tre mesi da svolgersi durante il secondo biennio.  
+Art. 134. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.  
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno;  
+per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in igiene e medicina preventiva gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 luglio 1978
+### Dato a Roma, addi' 31 ottobre 1977
 
-p. Il Presidente della Repubblica Il Presidente del Senato FANFANI PEDINI
+LEONE MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 23 settembre 1978
+Registrato alla Corte dei conti, addi' 27 giugno 1978
 
-Registro n. 104 Istruzione, foglio n. 294
+Registro n. 67 Istruzione, foglio n. 360

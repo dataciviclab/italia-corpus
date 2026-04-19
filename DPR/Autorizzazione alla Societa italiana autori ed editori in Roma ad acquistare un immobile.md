@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1977 n. 480
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 novembre 1975 n. 846
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1977 n. 480
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 novembre 1975 n. 846
+===============================================================
 
 Autorizzazione alla Societa' italiana autori ed editori, in Roma, ad acquistare un immobile.
 --------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-480. Decreto del Presidente della Repubblica 10 giugno 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana autori ed editori (S.I.A.E.), in Roma, viene autorizzata ad acquistare, al prezzo complessivo di L. 76.000.000, un immobile sito in Mestre (Venezia), costituito da un locale al piano terra, dello stabile denominato "Condominio Vecchia Darsena", in via Manin, ai numeri civici 113-115-117, come da atto di compravendita 28 ottobre 1974.  
+846. Decreto del Presidente della Repubblica 29 novembre 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana autori ed editori (S.I.A.E.), in Roma, viene autorizzata ad acquistare, al prezzo di L. 98.500.000, un immobile costituito da negozio al piano terra, con sottonegozio al piano interrato e piccolo magazzino adiacente a questo ultimo, sito in Padova, riviera dei Ponti Romani n. 4.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 30 luglio 1977  
-Registro n. 6 Presidenza, foglio n. 392
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 6 febbraio 1976  
+Atti di Governo, registro n. 2, foglio n. 37

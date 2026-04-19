@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1984 n. 1005
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 dicembre 1978 n. 917
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1984 n. 1005
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 dicembre 1978 n. 917
 ===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
@@ -12,18 +12,8 @@ Art. 1
 
 N.
 
-1005. Decreto del Presidente della Repubblica 22 ottobre 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la   
-fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene   
-autorizzata ad accettare il legato, consistente nella quota di 1/5 del 50% del valore di un appartamento sito in Milano, via Aselli n.   
-26, censito nel nuovo catasto edilizio urbano alla partita n.   
-33049, foglio n. 319, mappale n. 170 sub 11, e di beni mobili il   
-tutto, detratte le passivita', pari a L. 12.666.664, disposto dalla   
-sig.ra Giulia Vaccari ved. Morassutti con testamento pubblico 31   
-giugno 1968, redatto dal notaio dott. Domenico Moretti e dallo   
-stesso pubblicato in data 17 luglio 1981, n. 14396/26267 di   
-repertorio e registrato a Milano in data 29 luglio 1981 al n.   
-20924.   
+917. Decreto del Presidente della Repubblica 13 dicembre 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra De Asmundis Paola con testamento olografo 16 agosto 1970, pubblicato a rogito dott. Mario Maestrelli, notaio in Desenzano del Garda (Brescia) in data 4 gennaio 1971, n. 6688 di repertorio e n. 3354 di raccolta, registrato a Lonato (Brescia) l'8 gennaio 1971, al n. 26, vol. 86, consistente in titoli di Stato per un valore nominale di L. 500.000.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 25 gennaio 1985   
-Registro n. 1 Presidenza, foglio n. 181
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 25 gennaio 1979  
+Registro n. 1 Presidenza, foglio n. 209

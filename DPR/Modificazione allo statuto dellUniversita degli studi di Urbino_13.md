@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1982 n. 236
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 543
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1982 n. 236
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 543
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Urbino.
 ------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazione allo statuto dell'Universita' degli studi di Urbino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Urbino, approvato con [regio decreto 8 febbraio 1925, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-08;230) e modificato con, [regio decreto 31 ottobre 1929, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2475), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Urbino, approvato con [regio decreto 8 febbraio 1925, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-08;230), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -39,20 +39,20 @@ Articolo unico
 --------------
 
   
-  
-Nell'art. 39, relativo al corso di laurea in lettere, allo elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:   
-metrica e ritmica greca.   
+Art. 39 - all'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti insegnamenti:  
+storia delle religioni del mondo classico;  
+storia economica del mondo antico.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 febbraio 1982
+### Dato a Roma, addi' 26 aprile 1984
 
-PERTINI BODRATO
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei Conti, addi' 24 aprile 1982
+Registrato alla Corte dei conti, addi' 24 agosto 1984
 
-Registro n. 58 Istruzione, foglio n. 156
+Registro n. 51 Istruzione, foglio n. 76

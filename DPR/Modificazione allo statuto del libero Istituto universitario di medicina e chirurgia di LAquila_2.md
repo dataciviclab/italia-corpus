@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 marzo 1981 n. 474
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1130
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 marzo 1981 n. 474
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1130
+===============================================================
 
 Modificazione allo statuto del libero Istituto universitario di medicina e chirurgia di L'Aquila.
 -------------------------------------------------------------------------------------------------

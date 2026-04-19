@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 aprile 1979 n. 228
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1977 n. 480
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 aprile 1979 n. 228
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1977 n. 480
 =============================================================
 
 Autorizzazione alla Societa' italiana autori ed editori, in Roma, ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-228. Decreto del Presidente della Repubblica 4 aprile 1979, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana autori ed editori (S.I.A.E.), in Roma, viene autorizzata ad acquistare, al prezzo complessivo di L. 130.000.000, un locale ad uso negozio, posto al piano terra del fabbricato condominiale sito in Ferrara, viale Cavour, con ingresso dai numeri civici 115 e 117, come da atto di compravendita in data 4 settembre 1976, a rogito dott. Bruno Minarelli, notaio in Ferrara, n. 134837/9714 di repertorio.  
+480. Decreto del Presidente della Repubblica 10 giugno 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana autori ed editori (S.I.A.E.), in Roma, viene autorizzata ad acquistare, al prezzo complessivo di L. 76.000.000, un immobile sito in Mestre (Venezia), costituito da un locale al piano terra, dello stabile denominato "Condominio Vecchia Darsena", in via Manin, ai numeri civici 113-115-117, come da atto di compravendita 28 ottobre 1974.  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 14 giugno 1979  
-Registro n. 4 Presidenza, foglio n. 387
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 30 luglio 1977  
+Registro n. 6 Presidenza, foglio n. 392

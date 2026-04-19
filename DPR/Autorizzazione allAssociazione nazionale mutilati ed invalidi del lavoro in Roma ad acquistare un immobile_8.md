@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 novembre 1984 n. 1180
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1149
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 novembre 1984 n. 1180
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1149
 ================================================================
 
 Autorizzazione all'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, ad acquistare un immobile.
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-1180. Decreto del Presidente della Repubblica 6 novembre 1984, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Associazione nazionale mutilati ed invalidi del lavoro (ANMIL), in Roma, viene autorizzata ad acquistare, al prezzo di L. 73.800.000, una porzione di immobile rappresentata da mq 70 circa al piano seminterrato e da mq 228 circa al piano rialzato dello stabile sito in Lecce, via Don Bosco, costruita su un terreno censito al nuovo catasto terreni alle partite 6648, 6647, 4224, foglio 259/10, di proprieta' del sig. Luigi Troso, come da atto di compravendita 22 febbraio 1975, n. 100867 di repertorio, a rogito dott. Domenico Mancuso, notaio in Lecce, registrato a Lecce in data 13 marzo 1975 al n. 2361, da adibire ad uffici dell'Associazione.   
+1149. Decreto del Presidente della Repubblica 5 dicembre 1984, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, viene autorizzata ad acquistare, al prezzo di lire 74.500.000, i locali di mq 394 al pianoterra dello stabile sito in Pistoia, via Zamenhoff, costruito su terreno censito al nuovo catasto terreni al foglio 220, mappali 445, 446, 447, 448 e 552, di proprieta' del sig.  
+Raffaello Monfardini, come da atto di compravendita sottoposto a condizione sospensiva 18 gennaio 1975, n. 15144 di repertorio, a rogito dott. Raffaele Marchitelli, notaio in Pistoia, registrato a Pistoia in data 4 marzo 1975 al n. 659.   
   
 Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 13 aprile 1985   
-Registro n. 1 Lavoro, foglio n. 226
+Registrato alla Corte dei conti, addi' 15 marzo 1985   
+Registro n. 1 Lavoro, foglio n. 224

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1951 n. 1441
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 novembre 1951 n. 1393
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1951 n. 1441
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 novembre 1951 n. 1393
 ================================================================
 
 Trasferimento in proprieta' all'Opera per la valorizzazione della Sila di terreni di proprieta' di Compagna Francesco di Piero, in comune di Corigliano Calabro (Cosenza).
@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77, comma primo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77-com1), ed [87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5) della Repubblica;
 
-Vista la [legge 12 maggio 1950, n. 230 e l'art. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art16) della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
+Visti la [legge 12 maggio 1950, n. 230 e l'art. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art16) della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
 
 In virtu' della delegazione concessa dall'[art. 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5);
 
-Udito il parere, in data 15 novembre 1951, della Commissione parlamentare, nominata a norma dell'[art. 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), la quale ha esaminato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di Corigliano Calabro (provincia di Cosenza), della superficie di Ha. 238.10.00, nei confronti della ditta Compagna Francesco di Piero;
+Udito il parere, in data 10 ottobre 1951, della Commissione parlamentare, nominata a norma dell'[art. 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), la quale ha esaminato il piano particolareggiato di espropriazione n. 251, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di Corigliano Calabro (provincia di Cosenza), della superficie di Ha. 142.08.00, nei confronti della ditta Compagna Francesco di Piero;
 
 Sentito il Consiglio dei Ministri;
 
@@ -29,19 +29,19 @@ Art. 1
 ------
 
   
-E' approvato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di Corigliano Calabro (provincia di Cosenza), della superficie di Ha. 238.10.00, nei confronti della ditta Compagna Francesco di Piero.  
+E' approvato il piano particolareggiato di espropriazione n. 251, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di Corigliano Calabro (provincia di Cosenza), della superficie di Ha. 142.08.00, nei confronti della ditta Compagna Francesco di Piero.  
 
 Art. 2
 ------
 
   
-I terreni, indicati nel precedente articolo e specifica mente designati nell'elenco unito al presente decreto sono trasferiti in proprieta', all'Opera per la valorizzazione della Sila.  
+I terreni, indicati nel precedente articolo e specificamente designati nell'elenco unito al presente decreto, sono trasferiti in proprieta' all'Opera per la valorizzazione della Sila.  
 
 Art. 3
 ------
 
   
-E' ordinata la immediata occupazione, da parte del l'Opera per la valorizzazione della Sila, dei terreni indicati nei precedenti articoli 1 e 2.  
+E' ordinata la immediata occupazione, da parte dell'Opera per la valorizzazione della Sila, dei terreni indicati nei precedenti articoli 1 e 2.  
 
 Art. 4
 ------
@@ -53,22 +53,22 @@ L'elenco dei terreni, con l'indicazione dell'indennita' di espropriazione offert
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 dicembre 1951
+### Dato a Roma, addi' 27 novembre 1951
 
 EINAUDI DE GASPERI - FANFANI
 
 Visto, il Guardasigilli: ZOLI
 
-Registrato alla Corte dei conti, addi' 29 dicembre 1951
+Registrato alla Corte dei conti, addi' 20 dicembre 1951
 
-Atti del Governo, registro n. 48, foglio n. 33. - FRASCA
+Atti del Governo, registro n. 47, foglio n. 100. - FRASCA
 
 Elenco
 
  COMUNE DI CORIGLIANO CALABRO (Cosenza)   
   
-Elenco dei terreni espropriati nei confronti di Compagna Francesco di Piero a termini degli [articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art1) e [2 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art2).   
+Elenco dei terreni espropriati nei confronti di Compagna Francesco di Piero a termini degli articoli 1 e 2 de la [legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230).   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=051U144100100010110001&dgu=1951-12-31&art.dataPubblicazioneGazzetta=1951-12-31&art.codiceRedazionale=051U1441)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=051U139300100010110001&dgu=1951-12-28&art.dataPubblicazioneGazzetta=1951-12-28&art.codiceRedazionale=051U1393)
   

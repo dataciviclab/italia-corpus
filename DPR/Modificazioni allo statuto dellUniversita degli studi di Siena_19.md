@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 agosto 1970 n. 707
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 settembre 1965 n. 1192
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 agosto 1970 n. 707
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 settembre 1965 n. 1192
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -10,131 +10,344 @@ Modificazioni allo statuto dell'Universita' degli studi di Siena.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395);
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il regio decreto-legge 20 giugno. 1935, n. 1071, convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduta la [legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione;
 
-proposta del Ministro per la pubblica istruzione; Decreta:
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, 6 ulteriormente modificato come appresso:
+
+Art. 9. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:
+
+20) Dottrina generale del processo;
+
+21) Papirologia giuridica;
+
+22) Esegesi delle fonti del diritto italiano;
+
+23) Storia del diritto canonico.
+
+Art. 11. - Agli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di:
+
+11) Diritto parlamentare;
+
+12) Diritto pubblico regionale;
+
+13) Diritto pubblico dell'economia;
+
+14) Criminologia.
+
+Art. 29. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche, sono aggiunti quelli di:
+
+13) Farmacologia;
+
+14) Radiobiologia.
+
+Gli articoli 74 e 75, relativi alla scuola di specializzazione in Clinica oculistica, sono soppressi e sostituiti dai seguenti nuovi articoli con il conseguente spostamento della numerazione degli articoli successivi.
+
+Scuola di specializzazione in Clinica oculistica
+
+Art. 73. - Alla Facolta' di medicina e chirurgia e' Annessa la scuola di specializzazione in Clinica oculistica.
+
+Art. 74. - La scuola ha la durata di quattro anni.
+
+Il numero complessivo degli iscritti ai quattro anni del corso e' di venticinque.
+
+Art. 75. - Gli insegnamenti impartiti dalla scuola sono i seguenti: 1° Anno:
+
+1) Anatomia ed istologia dell'apparato oculare;
+
+2) Nozioni di embriologia e genetica oculare;
+
+3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;
+
+4) Nozioni di ottica fisiologica, esame della rifrazione;
+
+5) Microbiologia ed igiene oculare.
+
+2° Anno:
+
+1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmologia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);
+
+2) Farmacologia oculare e terapia fisica;
+
+3) Anatomia patologica oculare;
+
+4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della sclera).
+
+3° Anno:
+
+1) Patologia e clinica oculare (malattie dell'uvea, della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita glaucoma);
+
+2) Anomalie e patologia della motilita' oculare e della visione binoculare; Ortottica e pleottica;
+
+3) Affezioni otorinolaringoiatriche e occhio;
+
+4) Tecnica operatoria, la parte.
+
+4° Anno:
+
+1) Neuro-oftalmologia;
+
+2) Malattie oculari in rapporto ad affezioni generali;
+
+3) Malattie professionali. Infortunistica e medicina legale oculare;
+
+4) Tecnica operatoria, 2ª parte;
+
+5) Tesi di specializzazione.
+
+Art. 76. - Gli esami di profitto si danno alla fine di ciascun anno. Alla fine del corso gli iscritti, oltre a presentare una dissertazione scritta ed a sostenere la relativa discussione, devono sostenere una prova pratica sull'ammalato.
+
+Dopo l'art. 93, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in Ortopedia e traumatologia dell'apparato motore annessa alla Facolta' di medicina e chirurgia.
+
+Scuola di specializzazione in Ortopedia e traumatologia dell'apparato motore
+
+Art. 94. - Alla Facolta' di medicina e chirurgia dell'Universita' di Siena e' annessa la scuola di specializzazione in Ortopedia e traumatologia dell'apparato motore, cui potranno essere ammessi non piu' di dieci allievi per ogni anno di corso.
+
+Art. 95. - La scuola e' distinta in due diversi corsi:
+
+1) Corso di specializzazione in Ortopedia e traumatologia dell'apparato motore, della durata di tre anni;
+
+2) Corso di specializzazione in Cinesiterapia, fisioterapia, riabilitazione e ginnastica medica in ortopedia, della durata di due anni, riducibili ad un anno per coloro che siano in possesso del diploma del 10 corso.
+
+Art. 96. - Corso di specializzazione in Ortopedia e traumatologia dell'apparato motore.
+
+MATERIE D'INSEGNAMENTO
+
+1° Anno:
+
+Clinica chirurgica generale;
+
+Neuropatologia dell'apparato motore;
+
+Anatomia radiologica e radiodiagnostica dello scheletro;
+
+Patologia speciale delle deformita' congenite ed acquisite dell'apparato motore (1° corso);
+
+Clinica ortopedica e traumatologica (1° corso);
+
+Tecnica degli apparecchi gessati (1° corso).
+
+2° Anno:
+
+Patologia speciale delle deformita' congenite ed acquisite dell'apparato motore (2° corso);
+
+Clinica ortopedica e traumatologica (2° corso);
+
+Tecnica degli apparecchi gessati (2° corso);
+
+Fisioterapia e studio della protesi (1° corso).
+
+3° Anno:
+
+Clinica ortopedica e traumatologica (3° corso);
+
+Tecnica degli apparecchi gessati (3° corso);
+
+Fisioterapia e studio delle protesi (2° corso).
+
+Al termine del corso viene rilasciato il diploma di specializzazione in Ortopedia e traumatologia.
+
+Art. 97. - Corso di specializzazione in Cinesiterapia, Fisioterapia, riabilitazione e ginnastica in ortopedia.
+
+MATERIE D'INSEGNAMENTO
+
+1° Anno:
+
+Rapporti tra lesioni ortopediche, traumatologiche e rieducazione funzionale (1° corso);
+
+Anatomia funzionale dell'apparato motore;
+
+Cure con radiazioni (1° corso);
+
+Cure elettriche (1° corso);
+
+Balneoterapia, idroterapia e lutoterapia;
+
+Climatoterapia;
+
+Massoterapia (1° corso);
+
+Terapia del movimento e meccanoterapia (1° corso);
+
+Rieducazione motoria e riabilitazione (1° corso).
+
+2° Anno:
+
+Rapporti tra lesioni ortopediche, traumatologiche, e rieducazione funzionale (2° corso);
+
+Cure elettriche (2° corso);
+
+Massoterapia (2° corso);
+
+Terapia del movimento e meccanoterapia, (2° corso);
+
+Ginnastica medica;
+
+Rieducazione motoria e riabilitazione (2° corso).
+
+Al termine del corso viene rilasciato il diploma di specializzazione in Fisioterapia, Cinesiterapia e riabilitazione dell'apparato motore.
+
+Art. 98. - Gli esami nelle materie con svolgimento pluriennale saranno sostenuti alla fine dell'ultimo anno di corso.
+
+Per quanto altro si riferisce alla scuola di specializzazione in Ortopedia e traumatologia dell'apparato motore, si fa riferimento alle norme generali che regolano altre scuole di specializzazione medico-chirurgiche esistenti presso la Facolta' di medicina e chirurgia.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 28 settembre 1965
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 26 ottobre 1965 Atti del Governo, registro n. 197, foglio n. 130. - VILLA
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-La tabella II annessa al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e' integrata nel senso che la facolta' di scienze economiche e bancarie rilascia anche la laurea in scienze statistiche ed economiche, il cui ordinamento e' riportato nella tabella VII-bis.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-A decorrere dall'anno accademico 1970-71 e' istituito presso la facolta' di scienze economiche e bancarie dell'Universita' di Siena il corso di laurea in scienze statistiche ed economiche.  
-
-Art. 3
-------
-
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti suindicati e' ulteriormente modificato come dal testo annesso al presente decreto - vistato dal Ministro per la pubblica istruzione - contenente le norme relative all'ordinamento del corso di studi della laurea in scienze statistiche ed economiche.  
+Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, 6 ulteriormente modificato come appresso:  
+Art. 9. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:  
+20) Dottrina generale del processo;  
+21) Papirologia giuridica;  
+22) Esegesi delle fonti del diritto italiano;  
+23) Storia del diritto canonico.  
+Art. 11. - Agli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di:  
+11) Diritto parlamentare;  
+12) Diritto pubblico regionale;  
+13) Diritto pubblico dell'economia;  
+14) Criminologia.  
+Art. 29. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche, sono aggiunti quelli di:  
+13) Farmacologia;  
+14) Radiobiologia.  
+Gli articoli 74 e 75, relativi alla scuola di specializzazione in Clinica oculistica, sono soppressi e sostituiti dai seguenti nuovi articoli con il conseguente spostamento della numerazione degli articoli successivi.  
+  
+Scuola di specializzazione in Clinica oculistica  
+  
+Art. 73. - Alla Facolta' di medicina e chirurgia e' Annessa la scuola di specializzazione in Clinica oculistica.  
+Art. 74. - La scuola ha la durata di quattro anni.  
+Il numero complessivo degli iscritti ai quattro anni del corso e' di venticinque.  
+Art. 75. - Gli insegnamenti impartiti dalla scuola sono i seguenti: 1° Anno:  
+1) Anatomia ed istologia dell'apparato oculare;  
+2) Nozioni di embriologia e genetica oculare;  
+3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;  
+4) Nozioni di ottica fisiologica, esame della rifrazione;  
+5) Microbiologia ed igiene oculare.  
+2° Anno:  
+1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmologia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);  
+2) Farmacologia oculare e terapia fisica;  
+3) Anatomia patologica oculare;  
+4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della sclera).  
+3° Anno:  
+1) Patologia e clinica oculare (malattie dell'uvea, della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita glaucoma);  
+2) Anomalie e patologia della motilita' oculare e della visione binoculare; Ortottica e pleottica;  
+3) Affezioni otorinolaringoiatriche e occhio;  
+4) Tecnica operatoria, la parte.  
+4° Anno:  
+1) Neuro-oftalmologia;  
+2) Malattie oculari in rapporto ad affezioni generali;  
+3) Malattie professionali. Infortunistica e medicina legale oculare;  
+4) Tecnica operatoria, 2ª parte;  
+5) Tesi di specializzazione.  
+Art. 76. - Gli esami di profitto si danno alla fine di ciascun anno. Alla fine del corso gli iscritti, oltre a presentare una dissertazione scritta ed a sostenere la relativa discussione, devono sostenere una prova pratica sull'ammalato.  
+Dopo l'art. 93, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in Ortopedia e traumatologia dell'apparato motore annessa alla Facolta' di medicina e chirurgia.  
+  
+Scuola di specializzazione in Ortopedia e traumatologia dell'apparato motore  
+  
+Art. 94. - Alla Facolta' di medicina e chirurgia dell'Universita' di Siena e' annessa la scuola di specializzazione in Ortopedia e traumatologia dell'apparato motore, cui potranno essere ammessi non piu' di dieci allievi per ogni anno di corso.  
+Art. 95. - La scuola e' distinta in due diversi corsi:  
+1) Corso di specializzazione in Ortopedia e traumatologia dell'apparato motore, della durata di tre anni;  
+2) Corso di specializzazione in Cinesiterapia, fisioterapia, riabilitazione e ginnastica medica in ortopedia, della durata di due anni, riducibili ad un anno per coloro che siano in possesso del diploma del 10 corso.  
+Art. 96. - Corso di specializzazione in Ortopedia e traumatologia dell'apparato motore.  
+  
+MATERIE D'INSEGNAMENTO  
+  
+1° Anno:  
+Clinica chirurgica generale;  
+Neuropatologia dell'apparato motore;  
+Anatomia radiologica e radiodiagnostica dello scheletro;  
+Patologia speciale delle deformita' congenite ed acquisite dell'apparato motore (1° corso);  
+Clinica ortopedica e traumatologica (1° corso);  
+Tecnica degli apparecchi gessati (1° corso).  
+2° Anno:  
+Patologia speciale delle deformita' congenite ed acquisite dell'apparato motore (2° corso);  
+Clinica ortopedica e traumatologica (2° corso);  
+Tecnica degli apparecchi gessati (2° corso);  
+Fisioterapia e studio della protesi (1° corso).  
+3° Anno:  
+Clinica ortopedica e traumatologica (3° corso);  
+Tecnica degli apparecchi gessati (3° corso);  
+Fisioterapia e studio delle protesi (2° corso).  
+Al termine del corso viene rilasciato il diploma di specializzazione in Ortopedia e traumatologia.  
+Art. 97. - Corso di specializzazione in Cinesiterapia, Fisioterapia, riabilitazione e ginnastica in ortopedia.  
+  
+MATERIE D'INSEGNAMENTO  
+  
+1° Anno:  
+Rapporti tra lesioni ortopediche, traumatologiche e rieducazione funzionale (1° corso);  
+Anatomia funzionale dell'apparato motore;  
+Cure con radiazioni (1° corso);  
+Cure elettriche (1° corso);  
+Balneoterapia, idroterapia e lutoterapia;  
+Climatoterapia;  
+Massoterapia (1° corso);  
+Terapia del movimento e meccanoterapia (1° corso);  
+Rieducazione motoria e riabilitazione (1° corso).  
+2° Anno:  
+Rapporti tra lesioni ortopediche, traumatologiche, e rieducazione funzionale (2° corso);  
+Cure elettriche (2° corso);  
+Massoterapia (2° corso);  
+Terapia del movimento e meccanoterapia, (2° corso);  
+Ginnastica medica;  
+Rieducazione motoria e riabilitazione (2° corso).  
+Al termine del corso viene rilasciato il diploma di specializzazione in Fisioterapia, Cinesiterapia e riabilitazione dell'apparato motore.  
+Art. 98. - Gli esami nelle materie con svolgimento pluriennale saranno sostenuti alla fine dell'ultimo anno di corso.  
+Per quanto altro si riferisce alla scuola di specializzazione in Ortopedia e traumatologia dell'apparato motore, si fa riferimento alle norme generali che regolano altre scuole di specializzazione medico-chirurgiche esistenti presso la Facolta' di medicina e chirurgia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 agosto 1970
+### Dato a Roma, addi' 28 settembre 1965
 
-SARAGAT MISASI
+SARAGAT GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 29 settembre 1970
+Registrato alla Corte dei conti, addi' 26 ottobre 1965
 
-Atti del Governo, registro n. 237, foglio n. 118. - GRECO
-
-Allegato
-
- ALLEGATO   
-  
-Testo delle modifiche dello statuto dell'Universita' degli studi di Siena, relativo alla istituzione del corso di laurea in scienze statistiche ed economiche.   
-  
-Art. 30. - E' abrogato e sostituito dal seguente:   
-La facolta' conferisce:   
-1) la laurea in scienze economiche e bancarie;   
-2) la laurea in scienze economiche;   
-3) la laurea in scienze statistiche ed economiche.   
-La durata del corso di studi per la laurea in scienze economiche e bancarie, per la laurea in scienze economiche e per la laurea in scienze statistiche ed economiche e' di quattro anni.   
-Titolo di ammissione: quello previsto dalle leggi vigenti.   
-Dopo l'art. 39 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in scienze statistiche ed economiche.   
-  
-Laurea in scienze statistiche ed economiche   
-Art. 40. Sono insegnamenti fondamentali:   
-1) Istituzioni di analisi matematica;   
-2) Analisi matematica;   
-3) Geometria analitica;   
-4) Calcolo delle probabilita';   
-5) Istituzioni di statistica;   
-6) Statistica;   
-7) Statistica metodologica;   
-8) Demografia;   
-9) e 10) Economia politica (biennale);   
-11) Politica economica e finanziaria;   
-12) Istituzioni di statistica economica;   
-13) Statistica economica;   
-14) Economia d'azienda;   
-15) Statistica aziendale e analisi di mercato;   
-16) Controllo statistico delle qualita' e statistica industriale;  
-17) Istituzioni di diritto privato;   
-18) Istituzioni di diritto pubblico;   
-19) Teoria dei campioni.   
-Sono insegnamenti complementari:   
-1) Geografia economica;   
-2) Statistica sociale;   
-3) Sociologia;   
-4) Scienza delle finanze;   
-5) Econometria;   
-6) Contabilita' economica nazionale;   
-7) Diritto commerciale;   
-8) Diritto del lavoro;   
-9) Matematica finanziaria e istituzioni di matematica attuariale;  
-10) Teoria tecnica della elaborazione automatica dei dati;   
-11) Ricerca operativa;   
-12) Teoria dei sistemi;   
-13) Psicologia sperimentale;   
-14) Antropologia;   
-15) Statistica medica e biometria;   
-16) Statistica applicata alle scienze fisiche;   
-17) Genetica;   
-18) Diritto pubblico dell'economia;   
-19) Storia della statistica;   
-20) Economia dei trasporti.   
-Gli insegnamenti complementari possono essere scelti dallo studente anche fra le discipline impartite in altre facolta' dell'ateneo, previa approvazione del preside della facolta'. Detta approvazione deve essere richiesta entro il 31 dicembre di ogni anno.   
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali e di almeno tre complementari. Deve anche aver superato gli esami di due lingue straniere moderne, dei quali almeno uno di lingua francese o inglese o tedesca presso la facolta' di scienze economiche e bancarie, e l'altro di lingua il cui insegnamento sia impartito presso qualsiasi facolta' dell'ateneo.   
-Per essere iscritto al secondo anno lo studente deve aver superato almeno due esami fondamentali del primo anno.   
-Per l'insegnamento biennale di economia politica e' prescritto l'esame alla fine di ciascun corso annuale, dovendosi il primo considerare propedeutico al secondo.   
-Art. 41. - Gli esami di: istituzioni di matematica, analisi matematica, geometria analitica, calcolo delle probabilita', istituzioni di statistica, statistica, economia politica (1° esame), istituzioni di statistica economica, statistica economica, istituzioni di diritto pubblico, istituzioni di diritto privato, debbono essere superati prima degli altri esami fondamentali.   
-Gli esami di istituzioni di analisi matematica e di geometria analitica dovranno essere superati prima degli esami di analisi matematica e statistica.   
-L'esame di istituzioni di statistica dovra' essere superato prima degli esami di statistica, di demografia e di statistica economica.   
-L'esame di analisi matematica dovra' essere superato prima dell'esame di calcolo delle probabilita'.   
-Gli esami di economia politica (1° esame) e di istituzioni di statistica economica dovranno essere superati prima dell'esame di statistica economica.   
-L'esame di economia politica (2° esame) dovra' essere superato prima dell'esame di politica economica.   
-L'esame di laurea consiste nella discussione di una dissertazione scritta, svolta sul tema approvato dal professore della materia e nella discussione di almeno due su tre temi orali scelti dal candidato vertenti su materie fondamentali del suo corso di studi e parimenti approvati dai professori delle rispettive materie.   
-Uno di questi temi deve riguardare la statistica metodologica ed uno la statistica applicata.   
-  
-Visto, d'ordine del Presidente della Repubblica   
-Il Ministro per la pubblica istruzione   
-  
-MISASI   
+Atti del Governo, registro n. 197, foglio n. 130. - VILLA

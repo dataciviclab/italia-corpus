@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 settembre 1977 n. 787
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1975 n. 691
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 settembre 1977 n. 787
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1975 n. 691
+===============================================================
 
 Modificazioni alla tariffa dei dazi doganali d'importazione della Repubblica italiana ed ai relativi allegati.
 --------------------------------------------------------------------------------------------------------------
@@ -10,41 +10,37 @@ Modificazioni alla tariffa dei dazi doganali d'importazione della Repubblica ita
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
-
-Visto il trattato che istituisce la Comunita' europea del carbone e dell'acciaio, approvato e reso esecutivo con legge 25 giugno 1952, n.
-
-766;
+Visto il trattato che istituisce la Comunita' europea del carbone e dell'acciaio, approvato e reso esecutivo con [legge 25 giugno 1952, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-06-25;766);
 
 Visti i trattati che istituiscono la Comunita' europea dell'energia atomica e la Comunita' economica europea, approvati e resi esecutivi con [legge 14 ottobre 1957, n. 1203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-10-14;1203);
 
-Visto il trattato che istituisce un consiglio unico ed una commissione unica delle Comunita' europee, approvato e reso esecutivo con [legge 3 maggio 1966, n. 437](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-05-03;437);
+Visto il trattato che istituisce un consiglio unico ed una commissione unica delle Comunita' europee, approvato e reso esecutivo con [legge 3 maggio 1966, numero 437](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-05-03;437);
 
-Visto il trattato relativo all'adesione del Regno di Danimarca, della Repubblica di Irlanda, del Regno di Norvegia e del Regno Unito di Gran Bretagna ed Irlanda del Nord alla Comunita' economica europea ed alla Comunita' europea dell'energia atomica, approvato e reso esecutivo con [legge 21 dicembre 1972, n. 826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1972-12-21;826);
+Visto il trattato relativo all'adesione del Regno di Danimarca, dell'Irlanda, del Regno di Norvegia e del Regno Unito di Gran Bretagna e dell'Irlanda del Nord alla Comunita' economica europea ed alla Comunita' europea dell'energia atomica, approvato e reso esecutivo con [legge 21 dicembre 1972, n. 826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1972-12-21;826);
 
-Viste le [decisioni n. 76/1/CECA del 5 dicembre 1975](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31976D0001), [n. 76/611/CECA del 1 luglio 1976](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31976D0611), [n. 77/17/CECA del 16 dicembre 1976](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31977D0017), relative alla concessione di uno speciale regime daziario per taluni prodotti siderurgici, emanate dalla commissione delle Comunita' europee in conformita' degli accordi rispettivamente stipulati in data 17 novembre 1975, 17 giugno 1976, 29 novembre 1976, dai rappresentanti dei Governi degli Stati membri della CECA, riuniti nell'ambito del consiglio;
+Viste le [decisioni n. 73/246/CECA del 10 luglio 1973](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31973D0246), [n. 74/41/CECA del 20 dicembre 1973](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31974D0041), [n. 74/434/CECA del 29 luglio 1974](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31974D0434), [n. 75/21/CECA del 17 dicembre 1974](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31975D0021) e [n. 75/484/CECA del 17 luglio 1975](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31975D0484), relative alla con cessione di uno speciale regime daziario per taluni pro dotti siderurgici, emanate dalla commissione delle Comunita' europee in conformita' degli accordi rispettivamente stipulati in data 25 giugno 1973, 17 dicembre 1973, 25 giugno 1974, 2 dicembre 1974 e 10 luglio 1975, dai rappresentanti dei Governi degli Stati membri della CECA, riuniti nell'ambito del consiglio;
 
-Viste le [decisioni n. 75/694/CECA](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31975D0694) e [n. 75/695/CECA del 17 novembre 1975](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31975D0695); [n. 76/908/CECA](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31976D0908) e [n. 76/909/CECA del 13 dicembre 1976](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31976D0909), relative alla concessione di preferenze tariffarie per taluni prodotti siderurgici originari di Paesi in via di sviluppo, adottate dai rappresentanti dei Governi degli Stati membri della CECA riunirli in sede di consiglio;
+Viste le [decisioni n. 73/443/CECA](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31973D0443) e [n. 73/444/CECA del 18 dicembre 1973](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31973D0444); [n. 74/596/CECA](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31974D0596) e [n. 74/597/CECA del 2 dicembre 1974](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31974D0597), relative alla concessione di preferenze tariffarie per taluni prodotti siderurgici originari di Paesi in via di sviluppo, adottate dai rappresentanti dei Governi degli Stati membri della CECA riuniti in sede di consiglio;
 
-Vista la [decisione 76/564/CECA del 29 giugno 1976](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31976D0564), relativa alla concessione di preferenze tariffarie per prodotti originari della Repubblica di Tunisia, adottata dai rappresentanti dei Governi degli Stati membri della CECA, riuniti in sede di consiglio;
+Vista la [decisione n. 73/155/CECA del 25 giugno 1973](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31973D0155), relativa alla concessione di preferenze tariffarie per prodotti originari della Norvegia, adottata dai rappresentanti dei Governi degli Stati membri della CECA, riuniti in sede di consiglio;
 
-Vista la [decisione 76/565/CECA del 29 giugno 1976](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31976D0565), relativa alla concessione di preferenze tariffarie per prodotti originari della Repubblica democratica e popolare d'Algeria, adottata dai rappresentanti dei Governi degli Stati membri della CECA, riuniti in sede di consiglio;
+Vista la [decisione n. 73/407/CECA del 10 dicembre 1973](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31973D0407), relativa alla concessione di preferenze tariffarie per prodotti originari della Finlandia, adottata dai rappresentanti dei Governi degli Stati membri della CECA, riuniti in sede di consiglio;
 
-Vista la [decisione 76/566/CECA del 29 giugno 1976](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31976D0566), relativa alla concessione di preferenze tariffarie per prodotti originari del Regno del Marocco, adottata dai rappresentanti dei Governi degli Stati membri della CECA, riuniti in sede di consiglio;
+Vista la [decisione n. 75/373/CECA del 26 giugno 1975](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31975D0373), relativa alla concessione di preferenze tariffarie per prodotti originari di Israele, adottata dai rappresentanti dei Governi degli Stati membri della CECA, riuniti in sede di consiglio;
 
-Viste le [decisioni 76/567/CECA del 29 giugno 1976](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31976D0567) e [n. 77/81/CECA del 18 gennaio 1977](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31977D0081), relative alla concessione di preferenze tariffarie per prodotti originari dello Stato d'Israele, adottate dai rappresentanti dei Governi degli Stati membri della CECA, riuniti in sede di consiglio;
+Vista la [decisione n. 75/90/CECA del 30 gennaio 1975](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31975D0090), relativa alla concessione di preferenze tariffarie per prodotti originari degli Stati africani e malgascio associati e dei Paesi e Territori d'oltremare, adottata dai rappresentanti dei Governi degli Stati membri della CECA nella sua composizione originaria, riuniti in sede di consiglio;
 
-Vista la [decisione 76/542/CECA del 16 giugno 1976](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31976D0542), relativa alla concessione di preferenze tariffarie per prodotti originari della Repubblica del Portogallo, adottata dai rappresentanti dei Governi degli Stati membri della CECA, riuniti in sede di consiglio;
+Vista la [decisione n. 75/371/CECA del 24 giugno 1975](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31975D0371), relativa alla concessione di preferenze tariffarie per prodotti originari degli Stati africani, dei Caraibi e del Pacifico e dei Territori d'oltremare associati alla Comunita', adottata dai rappresentanti dei Governi degli Stati membri CECA, riuniti in sede di consiglio;
 
-Viste le [decisioni 76/250/CECA del 23 febbraio 1976](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31976D0250), [76/570/CECA del 20 gennaio 1976](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31976D0570), relative alla concessione di preferenze tariffarie per prodotti originari dei Paesi e Territori d'oltremare, adottate dai rappresentanti dei Governi degli Stati membri della CECA nella sua composizione originaria, riuniti in sede di consiglio;
+Vista la tariffa dei dazi doganali d'importazione, approvata con [decreto del Presidente della Repubblica 26 giugno 1965, n. 723](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-06-26;723), e successive modificazioni;
 
-Vista la tariffa dei dazi doganali d'importazione, approvata con [decreto del Presidente della Repubblica 26 giugno 1965, n. 723](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-06-26;723), e successive modificazioni ed integrazioni;
+Vista la tariffa doganale comune delle Comunita' europee, approvata con regolamento del Consiglio delle Comunita' europee n. 950/68/CEE del 28 giugno 1968, e successive modificazioni;
 
-Vista la tariffa doganale comune delle Comunita' europee, approvata con regolamento del consiglio delle Comunita' europee n. 950/68/CEE del 28 giugno 1968, e successive modificazioni;
+Vista la [legge 15 febbraio 1973, n. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-02-15;25), con la quale e' stata ulteriormente prorogata la delega al Governo ad apportare modificazioni alla detta tariffa dei dazi doganali d'importazione, conferita con l'[art. 3 della legge 1 febbraio 1965, n. 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-02-01;13~art3);
 
-Vista la [legge 14 dicembre 1976, n. 847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-12-14;847), con la quale e' stata ulteriormente prorogata la delega al Governo ad apportare modificazioni alla detta tariffa dei dazi doganali d'importazione, conferita con l'[art. 3 della legge 10 febbraio 1965, n. 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-02-10;13~art3);
+Sentita la commissione parlamentare di cui all'art. 4 della predetta [legge 1 febbraio 1965, n. 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-02-01;13), confermata a norma dell'art. 2 della citata [legge 15 febbraio 1973, n. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-02-15;25);
 
-Udito il parere della Commissione parlamentare di cui all'art. 4 della predetta [legge 1 febbraio 1965, n. 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-02-01;13), e successive modificazioni;
+Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
 
 Sentito il Consiglio dei Ministri;
 
@@ -57,49 +53,59 @@ Art. 1
 ------
 
   
+Nell'allegato B alla tariffa dei dazi doganali d'importazione della Repubblica italiana, approvata con [decreto del Presidente della Repubblica 26 giugno 1965, n. 723](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-06-26;723), e successive modificazioni, sono inseriti i seguenti contingenti tariffari in esenzione da dazio, da valere per i periodi indicati a fianco di ciascun contingente:  
   
-Nell'allegato B alla tariffa dei dazi doganali d'importazione della Repubblica italiana, approvata con [decreto del Presidente della Repubblica 26 giugno 1965, n. 723](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-06-26;723), e successive modificazioni ed integrazioni, sono inseriti i seguenti contingenti tariffari in esenzione da dazio, da valere per i periodi indicati a fianco di ciascun contingente:   
   
-
-|  |  |  |
-| --- | --- | --- |
-| Denominazione delle merci e voce della tariffa doganale | Volume del contingente in tonnellate | Validita' |
+----> Parte di provvedimento in formato grafico <----  
 
 Art. 2
 ------
 
   
   
-L'allegato M alla tariffa dei dazi doganali d'importazione citata all'art. 1 e' modificato in conformita' delle seguenti decisioni dei rappresentanti dei Governi degli Stati membri della Comunita' europea del carbone e dell'acciaio, riuniti in sede di consiglio:   
-n. 75/694/CECA e n. 75/695/CECA del 17 novembre 1975 ("Gazzetta Ufficiale" CEE del 29 novembre 1975), ratificate con decisione della commissione delle Comunita' europee n. 76/30/CECA del 17 dicembre 1975 ("Gazzetta Ufficiale" CEE del 13 gennaio 1976);   
-n. 76/908/CECA e n. 76/909/CECA del 13 dicembre 1976 ("Gazzetta Ufficiale" CEE del 20 dicembre 1976), ratificate con decisione della commissione delle Comunita' europee n. 77/76/CECA del 5 gennaio 1977 ("Gazzetta Ufficiale" CEE del 21 gennaio 1977).   
+  
+L'allegato M alla tariffa dei dazi doganali di importazione citata  
+all'art. 1 e' modificato in conformita' delle seguenti decisioni dei rappresentanti dei Governi degli Stati membri della Comunita' europea del carbone e dell'acciaio, riunita in sede di consiglio;  
+  
+n. 73/443/CECA e n. 73/444/CECA del 18 dicembre 1973 ("Gazzetta  
+Ufficiale" CEE del 28 dicembre 1973), ratificate con decisione della commissione delle Comunita' europee n. 74/535/ CECA del 18 gennaio 1974 ("Gazzetta Ufficiale" CEE dell'8 novembre 1974);  
+  
+n. 74/596/CECA e n. 74/597/CECA del 2 dicembre 1974 ("Gazzetta  
+Ufficiale" CEE del 9 dicembre 1974), ratificate con decisione della commissione delle Comunita' europee n. 75/22/CECA del 19 dicembre 1974 ("Gazzetta Ufficiale" CEE del 9 gennaio 1975).  
 
 Art. 3
 ------
 
   
   
-I dazi applicabili all'importazione dei prodotti di competenza della Comunita' europea del carbone e dell'acciaio ed originari rispettivamente della Repubblica di Tunisia, della Repubblica democratica e popolare d'Algeria e del Regno del Marocco, sono sospesi a partire dal 1° luglio 1976 in conformita' delle seguenti decisioni dei rappresentanti dei Governi degli Stati membri della Comunita' europea del carbone e dell'acciaio, riuniti in sede di consiglio, e secondo le scadenze stabilite nelle decisioni medesime:   
-n. 76/564/CECA, n. 76/565/CECA e 76/566/CECA del 29 giugno 1976 ("Gazzetta Ufficiale" CEE del 1 luglio 1976), ratificate con decisione della commissione delle Comunita' europee n. 76/674/CECA del 19 luglio 1976 ("Gazzetta Ufficiale" CEE del 21 agosto 1976).   
+  
+I dazi applicabili all'importazione dei prodotti di competenza  
+della Comunita' europea del carbone e dell'acciaio ed originari rispettivamente della Norvegia, della Finlandia e di Israele sono fissati in conformita' delle seguenti decisioni dei rappresentanti dei Governi degli Stati membri della Comunita' europea del carbone e dell'acciaio, riuniti in sede di consiglio, e secondo le scadenze stabilite nelle decisioni medesime:  
+  
+n. 73/155 del 25 giugno 1973 ("Gazzetta Ufficiale" CEE del 27  
+giugno 1973), ratificata con decisione della commissione delle Comunita' europee n. 73/229/CECA del 29 giugno 1973 ("Gazzetta Ufficiale" CEE del 6 agosto 1973);  
+  
+n. 73/407/CECA del 10 dicembre 1973 ("Gazzetta Ufficiale" CEE del  
+21 dicembre 1973), ratificata con decisione della commissione delle Comunita' europee n. 74/43/CECA del 21 dicembre 1973 ("Gazzetta Ufficiale" CEE del 4 febbraio 1974);  
+  
+n. 75/373/CECA del 26 giugno 1975 ("Gazzetta Ufficiale" CEE del  
+28 giugno 1975), ratificata con decisione della commissione delle Comunita' europee numero 75/429/CECA dell'8 luglio 1975 ("Gazzetta Ufficiale" CEE del 17 luglio 1975).  
 
 Art. 4
 ------
 
   
   
-I dazi applicabili all'importazione dei prodotti di competenza della Comunita' europea del carbone e dell'acciaio e originari dello Stato d'Israele sono sospesi in conformita' delle seguenti decisioni dei rappresentanti dei Governi degli Stati membri della Comunita' europea del carbone e dell'acciaio, riuniti in sede di consiglio, per i periodi qui di seguito indicati:   
-dal 1 luglio 1976 al 31 dicembre 1976, [decisione n. 76/567/CECA del 29 giugno 1976](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31976D0567) ("Gazzetta Ufficiale" CEE del 1 luglio 1976), ratificata con decisione della commissione delle Comunita' europee n. 76/677/CECA del 20 luglio 1976 ("Gazzetta Ufficiale" CEE del 21 agosto 1976);   
-dal 1 gennaio 1977 al 30 giugno 1977, [decisione n. 77/81/CECA del 18 gennaio 1977](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31977D0081) ("Gazzetta Ufficiale" CEE del 27 gennaio 1977), ratificata con decisione della commissione delle Comunita' europee n. 77/197/CECA del 25 febbraio 1977 ("Gazzetta Ufficiale" CEE dell'8 marzo 1977).   
-I dazi applicabili all'importazione dei prodotti di competenza della Comunita' europea del carbone e dell'acciaio ed originari della Repubblica del Portogallo sono sospesi dal 1 luglio 1976 in conformita' della decisione dei rappresentanti dei Governi degli Stati membri della Comunita' europea del carbone e dell'acciaio riuniti in sede di consiglio, n. 76/542/CECA del 16 giugno 1976 ("Gazzetta Ufficiale" CEE del 18 giugno 1976), ratificata con decisione della commissione delle Comunita' europee n. 76/790/CECA del 24 settembre 1976 ("Gazzetta Ufficiale" CEE del 9 ottobre 1976). 
+I dazi applicabili all'importazione dei prodotti di competenza della CECA ed originari degli Stati africani e malgascio associati (SAMA), e dei Paesi e Territori d'oltremare (PTOM), sono sospesi in conformita' della decisione dei rappresentanti dei Governi degli Stati membri della Comunita' europea del carbone e dell'acciaio nella sua composizione originaria riuniti in sede di consiglio, n. 75/90/CECA del 30 gennaio 1975 ("Gazzetta Ufficiale" CEE del 31 gennaio 1975), ratificata con decisione della commissione delle Comunita' europee n. 75/317/CECA del 22 maggio 1975 ("Gazzetta Ufficiale" CEE del 5 giugno 1975).   
+  
+I dazi, le imposte di effetto equivalente e la loro riscossione all'importazione dei prodotti di competenza della CECA e originari degli Stati africani, dei Caraibi e del Pacifico (ACP) e dei Paesi e Territori d'oltremare (PTOM) sono sospesi dal 1 luglio 1975 in conformita' della decisione dei rappresentanti dei Governi degli Stati membri della CECA riuniti in sede di consiglio n. 75/371/ CECA del 24 giugno 1975 ("Gazzetta Ufficiale" CEE del 28 giugno 1975), ratificata con decisione della commissione delle Comunita' europee n. 75/427/ CECA del 4 luglio 1975 ("Gazzetta Ufficiale" CEE del 17 luglio 1975).   
 
 Art. 5
 ------
 
   
   
-I dazi applicabili all'importazione dei prodotti di competenza della Comunita' europea del carbone e dell'acciaio e originari dei Paesi e Territori d'oltremare sono sospesi in conformita' delle seguenti decisioni dei rappresentanti dei Governi degli Stati membri della Comunita' europea del carbone e dell'acciaio, riuniti in sede di consiglio, per i periodi qui di seguito indicati:   
-dal 1 al 31 marzo 1976, [decisione n. 76/250/CECA del 23 febbraio 1976](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31976D0250) ("Gazzetta Ufficiale" CEE del 26 febbraio 1976), ratificata con decisione della commissione delle Comunita' europee n. 76/296/CECA del 27 febbraio 1976 ("Gazzetta Ufficiale" CEE del 12 marzo 1976);   
-dal 1° aprile 1976 e sino al 1 marzo 1980, [decisione n. 76/570/CECA del 20 gennaio 1976](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31976D0570) ("Gazzetta Ufficiale" CEE del 1 luglio 1976), ratificata con decisione della commissione delle Comunita' europee n. 76/716/CECA del 6 agosto 1976 (" Gazzetta Ufficiale" CEE del 4 settembre 1976).   
+A decorrere dal 1 gennaio 1974 e' soppressa la seconda parte della nota 1-c premessa al capitolo 73 della tariffa dei dazi doganali d'importazione di cui all'art. 1, relativa alla voce doganale 73.03 (rottami, cascami e avanzi di lavori di ghisa, ferro e acciaio).   
 
 Art. 6
 ------
@@ -112,12 +118,12 @@ Il presente decreto entra in vigore il giorno successivo a quello della sua pubb
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 settembre 1977
+### >
 
-LEONE ANDREOTTI - PANDOLFI
+Dato a Roma, addi' 23 dicembre 1975 LEONE MORO - VISENTINI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 25 ottobre 1977
+Registrato alla Corte dei conti, addi' 29 dicembre 1975
 
-Atti di Governo, registro n. 15, foglio n. 12
+Atti di Governo, registro n. 16, foglio n. 9

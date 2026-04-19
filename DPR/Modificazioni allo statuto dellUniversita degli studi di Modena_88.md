@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 marzo 1963 n. 609
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1153
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 marzo 1963 n. 609
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1153
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
@@ -10,162 +10,88 @@ Modificazioni allo statuto dell'Universita' degli studi di Modena.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Modena approvato con [regio decreto 14 ottobre 1926, numero 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170) e successivi;
+Veduto lo statuto dell'Universita' di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170) e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
 
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Modena e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso;
 
-Art. 9. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:
+Articolo unico
+--------------
 
-15) Diritto fallimentare;
-
-16) Scienza dell'amministrazione;
-
-17) Organizzazione internazionale;
-
-18) Dottrina dello Stato.
-
-Art. 53. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche e' aggiunto quello di:
-
-13) Geologia regionale.
-
-Dopo l'art. 168 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Stomatologia (malattia della bocca, e protesi dentaria).
-
-Scuola di specializzazione in Stomatologia (Malattie della bocca e protesi dentaria)
-
-Art. 169. - La Scuola di specializzazione in Stomatologia, con sede presso la Clinica odontoiatrica, conferisce il diploma di specialista in stomatologia (malattie della bocca e protesi dentaria).
-
-Art. 170. - Alla Scuola sono ammessi i laureati in medicina e chirurgia. Il corso ha la durata di due anni e vi sono 20 posti disponibili per ogni anno.
-
-Art. 171. - Gli insegnamenti impartiti dalla Scuola sono:
-
-1° anno:
-
-1) Anatomia, embriologia e fisiologia della bocca e dei denti;
-
-2) Patologia e clinica stomatologica;
-
-3) Odontoiatria conservativa;
-
-4) Chirurgia dentaria;
-
-5) Radiologia dentaria e mascellare;
-
-6) Anatomia e istologia patologica orale;
-
-7) Protesi dentaria (biennale);
-
-8) Odontotecnica.
-
-2° anno:
-
-1) Protesi dentaria (biennale);
-
-2) Ortodonzia;
-
-3) Chirurgia della bocca;
-
-4) Paradentologia;
-
-5) Medicina legale e infortunistica stomatologica.
-
-Inoltre saranno tenute conferenze interessanti le specialita' in apporto alla medicina interna, alla clinica pediatrica otorinolaringoiatrica e radioterapia. Gli allievi sono tenuti a seguire i turni di internato stabiliti dalla Direzione della scuola.
-
-Art. 172. - Tutte le lezioni cattedratiche possono essere impartite in modo esplicativo, dimostrativo, sperimentale, di colloquio e di conferenza a seconda delle opportunita' didattiche.
-
-Art. 173. - L'esame di profitto, teorico-pratico su ogni materia di insegnamento, si sosterra' alla fine dei singoli corsi. L'allievo dei 1° anno per essere ammesso al 2° anno deve avere superato gli esami del 1° anno.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 12 marzo 1963
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 29 aprile 1963 Atti del Governo, registro n. 168, foglio n. 99. -- VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Modena approvato con [regio decreto 14 ottobre 1926, numero 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Dopo l'art. 346 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola diretta a fini speciali di informatica per analisti di sistemi e procedure.  
+Scuola diretta a fini speciali di informatica per analisti di sistemi e procedure  
+Art. 347. - Presso l'Universita' di Modena per iniziativa della facolta' di scienze matematiche, fisiche e naturali, e' istituita ai sensi dell'art. 20 del testo unico sull'istruzione superiore una scuola speciale di informatica per analisti di sistemi e procedure.  
+Art. 348. - La scuola si propone di:  
+a) preparare personale in grado di affrontare culturalmente e tecnicamente i problemi connessi con la elaborazione automatica dei dati;  
+b) concorrere alla riqualificazione di personale gia' operante nel mondo del lavoro;  
+c) condurre studi nel campo dell'informatica. Gli istituti universitari e gli enti pubblici e privati possono avvalersi della collaborazione della scuola.  
+Art. 349. - sono organi della scuola:  
+a) il direttore;  
+b) il consiglio.  
+Art. 350. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa.  
+In caso di motivato impedimento, la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+Art. 351. - Il consiglio della scuola e' composto da:  
+a) il direttore;  
+b) gli insegnanti;  
+c) un rappresentante designato da ogni facolta' dell'Ateneo, fra i componenti della facolta';  
+d) un rappresentante della regione;  
+e) due rappresentanti degli studenti della scuola.  
+Il consiglio della scuola si riunisce di regola una volta ogni tre mesi e ogni qualvolta il direttore lo ritenga necessario o ne venga fatta richiesta da almeno un quinto dei componenti.  
+Art. 352. - Su proposta del consiglio della scuola, il consiglio di facolta' fissa annualmente gli indirizzi della scuola, i criteri di selezione degli aspiranti e il numero degli studenti da ammettere ogni anno in base alla disponibilita' delle strutture didattiche e alle prospettive occupazionali.  
+Tale numero non sara' comunque maggiore di cinquanta nuovi iscritti.  
+Al fine di raccogliere tutti gli elementi necessari per la formulazione della sua proposta, il consiglio della scuola indice annualmente una conferenza della scuola, aperta alle componenti sociali e produttive interessate, agli enti pubblici e agli studenti.  
+Al termine di ogni anno accademico, il consiglio della scuola presenta alla facolta' una relazione sulla attivita' svolta.  
+Art. 353. - I docenti della scuola sono designati annualmente dal consiglio della facolta' di scienze matematiche, fisiche e naturali che delibera su proposta del direttore della scuola, e nominati dal rettore.  
+Il direttore della scuola formula la sua proposta udito il consiglio della scuola in base ai titoli scientifici e didattici presentati e sulla base di criteri elaborati dal consiglio della scuola.  
+Art. 354. - La scuola ha la durata di due anni e conferisce il diploma di analista di sistemi e procedure.  
+I requisiti per l'ammissione sono i medesimi richiesti per l'ammissione a un qualunque corso di laurea della facolta' di scienze matematiche, fisiche e naturali.  
+Art. 355. - Il corso comprende lezioni teoriche a livello universitario ed esercitazioni pratiche con applicazione a casi concreti. Le materie di insegnamento sono le seguenti:  
+Per il 1° anno:  
+istituzioni di matematica, statistica, teoria e applicazioni delle macchine calcolatrici, tecniche e linguaggi di programmazione I, trattamento delle informazioni nelle ricerche sociali (semestrale), microprocessori e controllo di processi (semestrale).  
+Per il 2° anno:  
+calcolo numerico e ricerca operativa, tecniche e linguaggi di programmazione II, sistemi informativi, analisi e progettazione di sistemi, trattamento delle informazioni nelle imprese e nelle aziende di credito (semestrale), trattamento delle informazioni nella pubblica amministrazione (semestrale).  
+Art. 356. - E' fatto obbligo agli allievi di frequentare le lezioni teoriche e le esercitazioni.  
+Art. 357. - Gli esami di profitto sono sostenuti al termine di ogni anno, in due sessioni, per tutte le materie prescritte.  
+Per essere ammesso al secondo anno lo studente deve aver superato tutti gli esami del primo anno; in caso contrario viene posto nella posizione di ripetente.  
+Art. 358. - A conclusione dei loro studi gli allievi devono sostenere un esame di diploma. Fa parte integrante dell'esame la discussione di una tesi scritta, elaborata dal candidato.  
+Art. 359. - Le tasse e le soprattasse sono le seguenti:  
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 9. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:  
-15) Diritto fallimentare;  
-16) Scienza dell'amministrazione;  
-17) Organizzazione internazionale;  
-18) Dottrina dello Stato.  
-Art. 53. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche e' aggiunto quello di:  
-13) Geologia regionale.  
-Dopo l'art. 168 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Stomatologia (malattia della bocca, e protesi dentaria).  
-Scuola di specializzazione in Stomatologia (Malattie della bocca e protesi dentaria)  
-Art. 169. - La Scuola di specializzazione in Stomatologia, con sede presso la Clinica odontoiatrica, conferisce il diploma di specialista in stomatologia (malattie della bocca e protesi dentaria).  
-Art. 170. - Alla Scuola sono ammessi i laureati in medicina e chirurgia. Il corso ha la durata di due anni e vi sono 20 posti disponibili per ogni anno.  
-Art. 171. - Gli insegnamenti impartiti dalla Scuola sono:  
-1° anno:  
-1) Anatomia, embriologia e fisiologia della bocca e dei denti;  
-2) Patologia e clinica stomatologica;  
-3) Odontoiatria conservativa;  
-4) Chirurgia dentaria;  
-5) Radiologia dentaria e mascellare;  
-6) Anatomia e istologia patologica orale;  
-7) Protesi dentaria (biennale);  
-8) Odontotecnica.  
-2° anno:  
-1) Protesi dentaria (biennale);  
-2) Ortodonzia;  
-3) Chirurgia della bocca;  
-4) Paradentologia;  
-5) Medicina legale e infortunistica stomatologica.  
-Inoltre saranno tenute conferenze interessanti le specialita' in apporto alla medicina interna, alla clinica pediatrica otorinolaringoiatrica e radioterapia. Gli allievi sono tenuti a seguire i turni di internato stabiliti dalla Direzione della scuola.  
-Art. 172. - Tutte le lezioni cattedratiche possono essere impartite in modo esplicativo, dimostrativo, sperimentale, di colloquio e di conferenza a seconda delle opportunita' didattiche.  
-Art. 173. - L'esame di profitto, teorico-pratico su ogni materia di insegnamento, si sosterra' alla fine dei singoli corsi. L'allievo dei 1° anno per essere ammesso al 2° anno deve avere superato gli esami del 1° anno.  
+tassa di immatricolazione. . . . . . . . . . . . . . . . . . L. 5.000 tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 18.000 esami di diploma. . . . . . . . . . . . . . . . . . . . . . L. 50.000 soprattassa esami di profitto. . . . . . . . . . . . . . . . L. 7.000 soprattassa esame di diploma . . . . . . . . . . . . . . . . L. 3.000   
+La misura del "contributo riscaldamento" sara' pari a quella stabilita per gli studenti iscritti ai corsi di laurea dell'Ateneo.  
+E' previsto inoltre un "contributo scuola" il cui ammontare verra' stabilito annualmente dal consiglio di amministrazione, su proposta del consiglio di facolta' che deliberera' udito il consiglio della scuola.  
+Art. 360. - I proventi della scuola sono costituiti dalle tasse, soprattasse e contributi di cui all'articolo precedente (escluso il "contributo riscaldamento") e da eventuali contributi dello Stato, dell'Universita' e di enti e organizzazioni pubblici e privati.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 marzo 1963
+### Dato a Roma, addi' 31 ottobre 1981
 
-SEGNI GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 29 aprile 1963
+Registrato alla Corte dei conti, addi' 22 giugno 1982
 
-Atti del Governo, registro n. 168, foglio n. 99. -- VILLA
+Registro n. 82 Istruzione, foglio n. 145

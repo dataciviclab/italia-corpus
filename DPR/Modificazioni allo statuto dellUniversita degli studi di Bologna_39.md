@@ -1,107 +1,141 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1970 n. 611
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1963 n. 1790
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1970 n. 611
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1963 n. 1790
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con regio decreto 14 ottobre 1926.
+
+n. 2170, e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successivi;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso;
+
+Dopo l'art. 177, e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della Scuola diretta a fini speciali in Economia e merceologia degli alimenti.
+
+Art. 178. - Alla Facolta' di Economia e commercio e annessa la Scuola di Economia e merceologia degli alimenti. Essa ha sede presso l'Istituto di Merceologia della Facolta' e la sua direzione e' affidata al direttore dell'Istituto stesso.
+
+Art. 179. - La durata del corso degli studi per il conseguimento del diploma e' di due anni; al termine di essi e dopo l'esame previsto nei successivi comma viene rilasciato un diploma in Economia e merceologia alimentare. Sono titoli di ammissione alla Scuola il diploma delle scuole medie superiori di secondo grado.
+
+Sono insegnamenti fondamentali del corso di studi per il conseguimento del diploma di Economia e merceologia alimentare i seguenti:
+
+1° anno:
+
+1) Principi di Chimica generale, inorganica ed organica;
+
+2) Bromatologia e merceologia alimentare (primo corso);
+
+3) Legislazione specifica sugli alimenti;
+
+4) Igiene dell'alimentazione;
+
+5) Imprese industriali e commerciali dei prodotti alimentari;
+
+6) Fisiologia della nutrizione.
+
+2° anno:
+
+1) Bromatologia e merceologia alimentare (secondo corso);
+
+2) Organizzazione e gestione dei servizi alimentari delle collettivita' e tecnica statistica delle indagini alimentari;
+
+3) Tecnologia e preparazione dei cibi (con esercitazioni);
+
+4) Chimica metabolica normale e patologica;
+
+5) Costi e prezzi dei prodotti alimentari;
+
+6) Dietologia normale e speciale.
+
+L'esame di diploma consiste nella discussione orale di una dissertazione scritta svolta su di un tema approvato dal professore della materia; la discussione avviene dinanzi ad una Commissione di sette membri, presieduta dal direttore della Scuola.
+
+Art. 180. - Le tasse e sopratasse per l'iscrizione e la frequenza ai corsi e per gli esami di profitto sono fissati in misura pari a quelle del primo e secondo corso della Facolta'. I contributi di laboratorio verranno fissati annualmente dal Consiglio di Facolta' su proposta del direttore della Scuola.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 30 ottobre 1963
+
+SEGNI
+
+GUI
+
+Visto, il Guardasigilli: BOSCO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 12 dicembre 1963 Atti del governo, registro n. 178, foglio n. 70. - VILLA
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con regio decreto 14 ottobre 1926.  
+n. 2170, e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli da 462 a 466 relativi alla scuola di perfezionamento in medicina del lavoro che assume la denominazione di scuola di specializzazione in medicina del lavoro e gli articoli da 512 a 517 relativi alla scuola di specializzazione in angiologia che assume la denominazione di scuola di specializzazione in chirurgia vascolare, sono abrogati e sostituiti dai seguenti:   
-  
-Scuola di specializzazione in medicina del lavoro   
-  
-Art. 462. - La scuola di specializzazione in medicina del lavoro conferisce il diploma di specialista in medicina del lavoro.   
-Art. 463. - Gli anni di studio occorrenti al conseguimento del titolo sono tre.   
-Sono impartiti i seguenti insegnamenti, cosi' distribuiti per ciascun anno di corso.   
-1° Anno:   
-Fisiologia del lavoro ed ergonomia;   
-Tecnologia ed igiene del lavoro;   
-Patologia e clinica del lavoro;   
-Psicologia del lavoro.   
-2° Anno:   
-Fisiologia del lavoro ed ergonomia;   
-Tecnologia ed igiene del lavoro;   
-Patologia e clinica del lavoro;   
-Psicologia del lavoro;   
-Tossicologia industriale e diagnostica di laboratorio;   
-Infortunistica e pronto soccorso;   
-Biometria e statistica sanitaria;   
-Medicina preventiva dei lavoratori.   
-3° Anno:   
-Patologia e clinica del lavoro;   
-Tecnologia ed igiene del lavoro;   
-Infortunistica e pronto soccorso;   
-Medicina legale delle assicurazioni;   
-Medicina preventiva dei lavoratori;   
-Radiologia e medicina nucleare;   
-Tossicologia industriale e diagnostica di laboratorio;   
-Dermatologia professionale.   
-Art. 464. - L'iscrizione alla scuola avviene per titoli.   
-Nel caso che le domande di iscrizione superino il numero dei posti, l'ammissione avverra' per titoli e per esami.   
-Art. 465. - Sono disponibili otto posti per ciascun anno di corso.  
-Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni e i laboratori, nonche' di svolgere turni di internato e prendere parte a visite ad istituti, opifici, fabbriche, miniere, ecc. che i vari insegnanti riterranno necessario far eseguire agli allievi.   
-Art. 466. - Alla fine di ogni anno, gli iscritti, che abbiano conseguito le attestazioni di frequenza sul relativo libretto, sono tenuti a superare tutti gli esami relativi ai singoli insegnamenti di ciascun anno di corso per il passaggio all'anno di corso successivo.  
-L'esame di diploma consiste in una dissertazione scritta su un argomento di medicina del lavoro.   
-  
-Scuola di specializzazione in chirurgia vascolare   
-  
-Art. 512. - Presso la facolta' di medicina e chirurgia della Universita' di Bologna e' istituita la scuola di specializzazione in chirurgia vascolare, che ha indirizzo teorico-pratico con lo scopo di conferire il diploma di specialista in chirurgia vascolare.   
-Art. 513. - Alla scuola sono ammessi i laureati in medicina e chirurgia previo concorso interno per titoli.   
-La durata del corso e' di tre anni.   
-Il numero massimo complessivo degli iscritti e' fissato in dodici.   
-Art. 514. - La direzione della scuola e' affidata ad un professore di ruolo di materia chirurgica della facolta' di medicina e chirurgia.   
-I docenti dei corsi saranno scelti fra quelli della facolta' di medicina e chirurgia, su designazione della facolta' stessa.   
-Art. 515. - Le materie d'insegnamento sono:   
-1° Anno:   
-1) Embriologia, anatomia macro e microscopica dell'apparato vascolare;   
-2) Fisiopatologia dell'apparato vascolare e della coagulazione sanguigna;   
-3) Anatomia patologica dell'apparato vascolare;   
-4) Semeiologia fisica e strumentale delle malattie vascolari;   
-5) Semeiologia radiologica delle malattie vascolari;   
-6) Vasculopatie di interesse medico e specialistico;   
-2° Anno:   
-7) Patologia e clinica delle malattie del sistema arterioso;   
-8) Patologia e clinica delle malattie del sistema venoso;   
-9) Patologia e clinica delle malattie del sistema linfatico;   
-10) Patologia e clinica delle malattie dei piccoli vasi;   
-3° Anno:   
-11) Nozioni di terapia medica delle malattie vascolari;   
-12) Terapia chirurgica delle malattie vascolari;   
-13) Chirurgia vascolare applicata a malattie dei vari organi.   
-Art. 516. - L'insegnamento sara' dottrinario e pratico.   
-Gli iscritti hanno l'obbligo di frequenza sia alle lezioni che al tirocinio pratico.   
-Art. 517. - Alla fine di ciascun anno di corso, e per essere ammessi al corso successivo od all'esame del diploma, gli allievi dovranno superare un esame di profitto nel gruppo di materie di ciascun anno.   
-L'esame di diploma consiste in una prova teorico-pratica e nella discussione di una tesi scritta, su argomenti di chirurgia vascolare.   
-Agli allievi che avranno ottenuto l'approvazione nello esame finale verra' rilasciato il diploma di specializzazione in chirurgia vascolare, valido a tutti gli effetti di legge.   
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso;  
+Dopo l'art. 177, e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della Scuola diretta a fini speciali in Economia e merceologia degli alimenti.  
+Art. 178. - Alla Facolta' di Economia e commercio e annessa la Scuola di Economia e merceologia degli alimenti. Essa ha sede presso l'Istituto di Merceologia della Facolta' e la sua direzione e' affidata al direttore dell'Istituto stesso.  
+Art. 179. - La durata del corso degli studi per il conseguimento del diploma e' di due anni; al termine di essi e dopo l'esame previsto nei successivi comma viene rilasciato un diploma in Economia e merceologia alimentare. Sono titoli di ammissione alla Scuola il diploma delle scuole medie superiori di secondo grado.  
+Sono insegnamenti fondamentali del corso di studi per il conseguimento del diploma di Economia e merceologia alimentare i seguenti:  
+1° anno:  
+1) Principi di Chimica generale, inorganica ed organica;  
+2) Bromatologia e merceologia alimentare (primo corso);  
+3) Legislazione specifica sugli alimenti;  
+4) Igiene dell'alimentazione;  
+5) Imprese industriali e commerciali dei prodotti alimentari;  
+6) Fisiologia della nutrizione.  
+2° anno:  
+1) Bromatologia e merceologia alimentare (secondo corso);  
+2) Organizzazione e gestione dei servizi alimentari delle collettivita' e tecnica statistica delle indagini alimentari;  
+3) Tecnologia e preparazione dei cibi (con esercitazioni);  
+4) Chimica metabolica normale e patologica;  
+5) Costi e prezzi dei prodotti alimentari;  
+6) Dietologia normale e speciale.  
+L'esame di diploma consiste nella discussione orale di una dissertazione scritta svolta su di un tema approvato dal professore della materia; la discussione avviene dinanzi ad una Commissione di sette membri, presieduta dal direttore della Scuola.  
+Art. 180. - Le tasse e sopratasse per l'iscrizione e la frequenza ai corsi e per gli esami di profitto sono fissati in misura pari a quelle del primo e secondo corso della Facolta'. I contributi di laboratorio verranno fissati annualmente dal Consiglio di Facolta' su proposta del direttore della Scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 luglio 1970
+### Dato a Roma, addi' 30 ottobre 1963
 
-SARAGAT MISASI
+SEGNI GUI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 11 agosto 1970
+Registrato alla Corte dei conti, addi' 12 dicembre 1963
 
-Atti del Governo, registro n. 237, foglio n. 31. - CARUSO
+Atti del governo, registro n. 178, foglio n. 70. - VILLA

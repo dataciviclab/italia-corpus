@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1973 n. 368
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1970 n. 1256
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1973 n. 368
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1970 n. 1256
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
@@ -12,11 +12,11 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -24,86 +24,22 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli da 266 a 272 relativi alla scuola di specializzazione in neurochirurgia, sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in neurochirurgia  
-  
-Art. 266. - La Scuola di specializzazione in neurochirurgia ha sede presso l'istituto di clinica neurochirurgica.  
-Il corso degli studi della predetta scuola ha la durata di quattro anni.  
-Potra' esservi ammesso un numero di diciotto allievi complessivo per i quattro anni di corso.  
-Art. 267, - Per la iscrizione alla scuola di specializzazione il candidato dovra' esibire un attestato di frequenza effettiva di almeno un anno in un istituto di patologia chirurgica o di clinica chirurgica.  
-Art. 268. - Le norme per l'iscrizione, gli esami, le tasse, ecc. sono quelle generali per le scuole di specializzazione e di perfezionamento riferito negli articoli da 122 a 137 dello statuto dell'universita'.  
-Art. 269. - Gli insegnamenti che vengono impartiti nella scuola sono i seguenti:  
-  
-Annuali:  
-Neuroanatomia (1° corso);  
-Neurofisiologia (1° corso);  
-Semeiotica e clinica neurologica (1° corso);  
-Elementi di psichiatria (1° corso);  
-Neuro-oftalmologia (2° corso);  
-Neuro-otoiatria (2° corso);  
-Elettroencefalografia ed elettromiografia (2° corso);  
-Anestesiologia (3° corso);  
-Neuropatologia (3° corso);  
-Neurochirurgia infantile (4° corso);  
-Tecniche operatorie (4° corso);  
-Neurochirurgia stereotassica (4° anno);  
-Neurotraumatologia (4° corso);  
-Neurochirurgia spinale (4° corso).  
-  
-Biennali:  
-Neuro-radiologia (3° e 4° corso).  
-  
-Quadriennali:  
-Clinica neurochirurgica (1°, 2°, 3° e 4° corso).  
-  
-I detti insegnamenti saranno integrati da esercitazioni cliniche e di laboratorio.  
-Art. 270. - Gli insegnamenti della scuola si svolgono secondo l'ordine seguente:  
-1° corso:  
-1) Neuro-anatomia;  
-2) Neuro-fisiologia;  
-3) Semeiotica e clinica neurologica;  
-4) Elementi di psichiatria;  
-5) Clinica neurochirurgica.  
-Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2), 3) e 4).  
-2° corso:  
-1) Neuro-oftalmologia;  
-2) Neuro-otoiatria;  
-3) Elettroencefalografia ed elettromiografia;  
-4) Clinica neurochirurgica.  
-Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2) e 3).  
-3° corso:  
-1) Anestesiologia;  
-2) Neuropatologia;  
-3) Neuroradiologia;  
-4) Clinica neurochirurgica.  
-Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1) e 2).  
-4° corso:  
-1) Tecniche operatorie;  
-2) Neuroradiologia;  
-3) Neurotraumatologia;  
-4) Neurochirurgia stereotassica;  
-5) Clinica neurochirurgica;  
-6) Neurochirurgia infantile;  
-7) Neurochirurgia spinale.  
-Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2), 3), 4), 5), 6) e 7).  
-Art. 271. - La frequenza alla scuola e' obbligatoria durante l'anno accademico.  
-Gli allievi sono tenuti a frequentare assiduamente le lezioni ed i laboratori dell'istituto di clinica neurochirurgica secondo l'orario stabilito dal consiglio di facolta' al principio dell'anno accademico ed a partecipare attivamente alle esercitazioni cliniche e di laboratorio. Il direttore della scuola potra' disporre che gli allievi frequentino per determinati periodi le lezioni ed esercitazioni di laboratorio in altri istituti dell'Universita'.  
-L'allievo che non abbia soddisfatto gli obblighi imposti da questo articolo non sara' ammesso a sostenere gli esami.  
-Art. 272. - Alla fine del 4° corso gli allievi devono superare l'esame finale di diploma.  
-Questo consistera' nella presentazione e discussione di una tesi scritta su un tema di neurochirurgia preventivamente approvato dal direttore della scuola.  
-Agli allievi che abbiano ottenuto l'approvazione nell'esame finale, verra' rilasciato il diploma, che attribuisce la qualifica di specialista in neurochirurgia, valido a tutti gli effetti di legge.  
+Art. 57, relativo all'ordinamento degli studi del corso di laurea in fisica e' modificato nel senso che gli ultimi due commi sono abrogati e sostituiti dai seguenti:  
+L'esame di laurea consiste:  
+a) nella compilazione e discussione di un elaborato scritto su di un tema liberamente scelto dal candidato, ma rispondente, in modo essenziale, ai fini della laurea;  
+b) nella esposizione e discussione di una memoria della letteratura scientifica a scelta del candidato; ma su di un argomento differente da quello del tema di cui al punto a) precedente.  
+Superato l'esame di laurea lo studente consegue il titolo di dottore in fisica; indipendentemente dall'indirizzo prescelto del quale verra' fatta menzione soltanto nella carriera scolastica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 marzo 1973
+### Dato a Roma, addi' 31 ottobre 1970
 
-LEONE SCALFARO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 28 giugno 1973
+Registrato alla Corte dei conti, addi' 28 gennaio 1971
 
-Atti di Governo, registro n. 258, foglio n. 136. - VALENTINI
+Atti del Governo, registro n. 240, foglio n. 130. - CARUSO

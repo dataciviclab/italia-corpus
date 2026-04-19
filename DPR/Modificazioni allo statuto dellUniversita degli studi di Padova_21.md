@@ -1,127 +1,179 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1970 n. 835
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 luglio 1959 n. 721
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1970 n. 835
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 luglio 1959 n. 721
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successivi;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita', accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;.
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Dopo l'art. 198 vengono aggiunti i seguenti nuovi articoli relativi alla istituzione della, scuola post-universitaria di organizzazione aziendale, con il conseguente spostamento della numerazione degli articoli successivi.
+
+Scuola post-universitaria di organizzazione aziendale
+
+Art. 199. - Alla Facolta' di ingegneria dell'Universita' degli studi di Padova e' annessa la scuola postuniversitaria di organizzazione aziendale, che si propone (seguendo i criteri programmatici esposti nell'art. 6 della convenzione in data 28 novembre 1957, repertorio n. 711, costitutiva del Centro universitario per l'organizzazione aziendale) di preparare elementi idonei a svolgere compiti di organizzazione, amministrazione, ecc., nell'ambito di aziende ed enti.
+
+La senola conferisce il diploma in organizzazione aziendale.
+
+Art. 200. - La durata dei corsi della scuola e' di due anni.
+
+Art. 201. - Alla scuola, per il conseguimento del diploma in organizzazione aziendale, possono iscriversi i laureati in Facolta' universitarie italiane e straniere, questi ultimi in base a lauree debitamente omologate.
+
+Possono assistere a uno o piu' corsi della scuola gli imprenditori e i dirigenti di aziende, anche se sprovvisti di titolo di laurea.
+
+Il numero annuo degli iscritti, di cui ai commi precedenti, per ciascun anno di corso, e' determinato dal Consiglio del centro mentre spetta al Consiglio della scuola (di cui all'art. 204) la selezione dei candidati, a suo insindacabile giudizio, in base anche alla valutazione dei titoli.
+
+Art. 202. - I corsi della scuola comprendono i seguenti gruppi di insegnamenti fondamentali:
+
+Tecnologie ed impianti;
+
+Complementi di materie giuridiche ed economiche;
+
+Statistica aziendale;
+
+Organizzazione della produzione;
+
+Organizzazione della distribuzione;
+
+Finanza ed economia delle aziende;
+
+Organizzazione, struttura e politica aziendale;
+
+Macchine ed apparecchiature per la contabilita' e il controllo;
+
+Relazioni col personale e relazioni pubbliche.
+
+A questi vengono aggiunti - su proposta del direttore della scuola - insegnamenti complementari, in relazione a particolari esigenze aziendali, ai sensi dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17).
+
+Per ogni singolo iscritto, il Consiglio della scuola stabilisce il piano di studi, in relazione ai titoli di studio e professionali presentati dall'interessato all'atto dell'iscrizione.
+
+Le lezioni sono integrate da conferenze, esercitazioni, dimostrazioni pratiche, visite ad aziende, viaggi a scopo di studio od istruzione, ecc.
+
+Art. 203. - Al termine del biennio gli iscritti regolari, dopo aver superato gli esami degli insegnamenti fissati dal piano di studi ed un esame riassuntivo generale, sono ammessi a discutere una dissertazione scritta di diploma su tema approvato da uno degli insegnanti della scuola.
+
+Superate tutte le anzidette prove, viene rilasciato un diploma in organizzazione aziendale.
+
+Al termine del biennio, agli iscritti sprovvisti di titolo di laurea, i quali abbiano assistito con assiduita' e diligenza per un biennio agli insegnamenti della, scuola, viene rilasciato un certificato dei corsi frequentati.
+
+Art. 204. - Gli organi della scuola sono: 1) il direttore; 2) il Consiglio.
+
+Il direttore della scuola viene nominato dal Rettore dell'Universita', d'intesa col Consiglio del centro tra i professori della scuola. Egli dura in carica un biennio accademico e puo' essere confermato.
+
+Il direttore nomina i docenti della scuola, su proposta del Consiglio della Facolta' di ingegneria, udito il Consiglio della Facolta' di scienze politiche per le materie di sua competenza, d'intesa col Consiglio di amministrazione del Centro universitario per l'organizzazione aziendale.
+
+Art. 205. - Il Consiglio e' composto dal direttore che lo presiede, dai docenti cui spettano gli insegnamenti, fondamentali e complementari, previsti dallo art. 202, e dal segretario del Centro per l'organizzazione aziendale, che e' anche segretario del Consiglio della scuola.
+
+Spetta al Consiglio della scuola: di determinare e coordinare - in accordo con il Centro universitario per l'organizzazione aziendale - i programmi degli insegnamenti e delle attivita' didattiche connesse, dando loro un indirizzo eminentemente pratico; operare la selezione dei candidati; decidere su questioni disciplinari.
+
+Art. 206. - Le Commissioni per gli esami di profitto sono composte dal professore della materia, in qualita' di presidente, e da due altri insegnanti della scuola.
+
+La Commissione per l'esame di diploma e' composta del direttore, che la presiede, da altri quattro professori della scuola e da due esperti di organizzazione aziendale.
+
+Ciascun commissario dispone di dieci punti.
+
+Art. 207. - Tutti gli iscritti alla scuola, di cui al precedente articolo 201 sono tenuti al versamento annuo delle tasse di iscrizione - proposte dal Consiglio di amministrazione del Centro secondo quanto prevede il regolamento dell'Universita' degli studi di Padova - da pagare in due rate uguali, la prima all'atto dell'iscrizione e la seconda entro il 31 marzo, nonche' al pagamento della tassa erariale di cui alla [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 7 luglio 1959
+
+GRONCHI
+
+MEDICI
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 10 settembre 1959 Atti del Governo, registro n. 120, foglio n. 113. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successivi;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Veduta la [legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita', accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;.  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 49. - E' abrogato e sostituito dal seguente:  
-La facolta' di scienze statistiche, demografiche ed attuariali conferisce:  
-La laurea in scienze statistiche ed economiche;  
-La laurea in scienze statistiche e demografiche;  
-Il diploma in statistica.  
+Dopo l'art. 198 vengono aggiunti i seguenti nuovi articoli relativi alla istituzione della, scuola post-universitaria di organizzazione aziendale, con il conseguente spostamento della numerazione degli articoli successivi.  
+Scuola post-universitaria di organizzazione aziendale  
+Art. 199. - Alla Facolta' di ingegneria dell'Universita' degli studi di Padova e' annessa la scuola postuniversitaria di organizzazione aziendale, che si propone (seguendo i criteri programmatici esposti nell'art. 6 della convenzione in data 28 novembre 1957, repertorio n. 711, costitutiva del Centro universitario per l'organizzazione aziendale) di preparare elementi idonei a svolgere compiti di organizzazione, amministrazione, ecc., nell'ambito di aziende ed enti.  
+La senola conferisce il diploma in organizzazione aziendale.  
+Art. 200. - La durata dei corsi della scuola e' di due anni.  
+Art. 201. - Alla scuola, per il conseguimento del diploma in organizzazione aziendale, possono iscriversi i laureati in Facolta' universitarie italiane e straniere, questi ultimi in base a lauree debitamente omologate.  
+Possono assistere a uno o piu' corsi della scuola gli imprenditori e i dirigenti di aziende, anche se sprovvisti di titolo di laurea.  
+Il numero annuo degli iscritti, di cui ai commi precedenti, per ciascun anno di corso, e' determinato dal Consiglio del centro mentre spetta al Consiglio della scuola (di cui all'art. 204) la selezione dei candidati, a suo insindacabile giudizio, in base anche alla valutazione dei titoli.  
+Art. 202. - I corsi della scuola comprendono i seguenti gruppi di insegnamenti fondamentali:  
   
-Art. 50. - All'elenco degli insegnamenti complementari del corso di laurea in scienze statistiche ed economiche sono aggiunti i seguenti:  
-Calcoli numerici e grafici;  
-Demografia investigativa;  
-Elementi di psicologia generale ed applicata;  
-Teoria delle informazioni;  
-Teoria delle decisioni (semestrale);  
-Rilevazioni statistiche ufficiali (semestrale);  
-Ragioneria generale (semestrale);  
-Analisi dei costi (semestrale);  
-Organizzazione aziendale (semestrale);  
-Tecniche e politiche di vendita (semestrale);  
-Organizzazione e direzione della produzione (semestrale);  
-Gestione del personale e tecniche di retribuzione (semestrale).  
-Nello stesso articolo, il comma seguente l'elenco degli insegnamenti complementari e' abrogato e sostituito dal seguente:  
-"Gli insegnamenti complementari possono essere scelti dallo studente anche fra le discipline impartite nel corso di laurea in scienze statistiche e demografiche o nel biennio per il diploma di statistica, cosi' come fra quelle impartite in altre facolta' dell'ateneo, previa - in questo caso - approvazione del preside della facolta'.  
-Detta approvazione deve essere richiesta entro il 31 dicembre di ogni anno".  
-Nello stesso articolo dopo il penultimo comma, e' aggiunta la seguente frase: "Due insegnamenti semestrali equivalgono ad un insegnamento annuale".  
-Dopo l'art. 51 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi all'istituzione del corso di laurea in scienze statistiche e demografiche.  
-Laurea in scienze statistiche e demografiche  
-Art. 52. - La durata del corso di studi per la laurea in scienze statistiche e demografiche e' di quattro anni.  
-Titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge. I diplomati in statistica sono ammessi al terzo anno e il consiglio di facolta' provvedera' a prescrivere di volta in volta il piano di studi per la laurea.  
-Sono insegnamenti fondamentali:  
-1) Istituzioni di analisi matematica;  
-2) Analisi matematica;  
-3) Geometria analitica;  
-4) Calcolo delle probabilita';  
-5) Istituzioni di statistica;  
-6) Statistica;  
-7) Statistica metodologica;  
-8) Demografia;  
-9) Demografia investigativa;  
-10) Istituzioni di economia politica;  
-11) Economia applicata;  
-12) Istituzioni di statistica economica;  
-13) Statistica economica;  
-14) Istituzioni di diritto privato;  
-15) Istituzioni di diritto pubblico;  
-16) Sociologia;  
-17) Teoria dei campioni.  
-Sono insegnamenti complementari:  
-1) Teorie demografiche e modelli di sviluppo (semestrale);  
-2) Economia e popolazione (semestrale);  
-3) Statistica sociale;  
-4) Metodologia e tecnica della ricerca sociale;  
-5) Geografia politica ed economica;  
-6) Sociologia rurale ed urbana (semestrale);  
-7) Sociologia dei Paesi in via di sviluppo (semestrale);  
-8) Sociologia della famiglia (semestrale);  
-9) Sociologia dell'educazione (semestrale);  
-10) Politica economica e finanziaria;  
-11) Econometrica;  
-12) Contabilita' nazionale;  
-13) Matematica finanziaria ed istituzioni di matematica attuariale;  
-14) Antropologia;  
-15) Etnologia;  
-16) Antropometria (semestrale);  
-17) Statistica sanitaria (semestrale);  
-18) Genetica;  
-19) Statistica medica e biometria;  
-20) Elementi di psicologia generale ed applicata;  
-21) Psicologia sperimentale;  
-22) Statistica aziendale e analisi di mercato;  
-23) Economia d'azienda;  
-24) Ricerca operativa;  
-25) Teoria dei sistemi;  
-26) Teoria delle informazioni;  
-27) Teoria delle decisioni (semestrale);  
-28) Calcoli numerici e grafici;  
-29) Rilevazioni statistiche ufficiali (semestrale);  
-30) Storia della statistica.  
-Gli insegnamenti complementari possono essere scelti dallo studente anche fra le discipline impartite nel corso di laurea in scienze statistiche ed economiche o nel biennio per il diploma di statistica, cosi' come fra quelle impartite in altre facolta' dell'ateneo, previa - in questo caso - approvazione del preside della facolta'. Detta approvazione deve essere richiesta entro il 31 dicembre di ogni anno.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali e di almeno cinque complementari. Deve anche aver superato gli esami di due lingue straniere moderne, dei quali almeno uno di lingua francese o inglese o tedesca o spagnola presso la facolta' di scienze politiche, e l'altro di lingua il cui insegnamento sia impartito presso qualsiasi facolta' dello ateneo e dovra' aver ottenuto la firma di frequenza di tre istituti della facolta'.  
-Due insegnamenti semestrali equivalgono ad un insegnamento annuale.  
-Per essere iscritto al secondo anno lo studente deve aver superato almeno due esami fondamentali del primo anno.  
-Art. 53. - L'esame di istituzioni di analisi matematica deve essere superato prima degli esami di analisi matematica, calcolo delle probabilita' e statistica; quello di istituzioni di statistica prima degli esami di calcolo delle probabilita', statistica e di ogni disciplina statistica applicata; quello di istituzioni di statistica economica prima dell'esame di statistica economica; quello di istituzioni di economia politica prima degli esami di economia applicata e di istituzioni di statistica economica; quello di demografia prima dell'esame di demografia investigativa. Gli esami di analisi matematica, calcolo delle probabilita' e statistica debbono essere superati prima degli esami di statistica metodologica e di teoria dei campioni.  
-L'esame di laurea consiste nella discussione di una dissertazione scritta, svolta su tema approvato dal professore della materia e nella discussione di almeno due su tre temi orali scelti dal candidato vertenti su materie fondamentali del suo corso di studi e parimenti approvati dai professori delle rispettive materie.  
-Uno di questi temi deve riguardare la statistica metodologica ed uno la statistica applicata.  
-Art. 62. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: chirurgia toracica.  
+Tecnologie ed impianti;  
+Complementi di materie giuridiche ed economiche;  
+Statistica aziendale;  
+Organizzazione della produzione;  
+Organizzazione della distribuzione;  
+Finanza ed economia delle aziende;  
+Organizzazione, struttura e politica aziendale;  
+Macchine ed apparecchiature per la contabilita' e il controllo;  
+Relazioni col personale e relazioni pubbliche.  
+A questi vengono aggiunti - su proposta del direttore della scuola - insegnamenti complementari, in relazione a particolari esigenze aziendali, ai sensi dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17).  
+Per ogni singolo iscritto, il Consiglio della scuola stabilisce il piano di studi, in relazione ai titoli di studio e professionali presentati dall'interessato all'atto dell'iscrizione.  
+Le lezioni sono integrate da conferenze, esercitazioni, dimostrazioni pratiche, visite ad aziende, viaggi a scopo di studio od istruzione, ecc.  
+Art. 203. - Al termine del biennio gli iscritti regolari, dopo aver superato gli esami degli insegnamenti fissati dal piano di studi ed un esame riassuntivo generale, sono ammessi a discutere una dissertazione scritta di diploma su tema approvato da uno degli insegnanti della scuola.  
+Superate tutte le anzidette prove, viene rilasciato un diploma in organizzazione aziendale.  
+Al termine del biennio, agli iscritti sprovvisti di titolo di laurea, i quali abbiano assistito con assiduita' e diligenza per un biennio agli insegnamenti della, scuola, viene rilasciato un certificato dei corsi frequentati.  
+Art. 204. - Gli organi della scuola sono: 1) il direttore; 2) il Consiglio.  
+Il direttore della scuola viene nominato dal Rettore dell'Universita', d'intesa col Consiglio del centro tra i professori della scuola. Egli dura in carica un biennio accademico e puo' essere confermato.  
+Il direttore nomina i docenti della scuola, su proposta del Consiglio della Facolta' di ingegneria, udito il Consiglio della Facolta' di scienze politiche per le materie di sua competenza, d'intesa col Consiglio di amministrazione del Centro universitario per l'organizzazione aziendale.  
+Art. 205. - Il Consiglio e' composto dal direttore che lo presiede, dai docenti cui spettano gli insegnamenti, fondamentali e complementari, previsti dallo art. 202, e dal segretario del Centro per l'organizzazione aziendale, che e' anche segretario del Consiglio della scuola.  
+Spetta al Consiglio della scuola: di determinare e coordinare - in accordo con il Centro universitario per l'organizzazione aziendale - i programmi degli insegnamenti e delle attivita' didattiche connesse, dando loro un indirizzo eminentemente pratico; operare la selezione dei candidati; decidere su questioni disciplinari.  
+Art. 206. - Le Commissioni per gli esami di profitto sono composte dal professore della materia, in qualita' di presidente, e da due altri insegnanti della scuola.  
+La Commissione per l'esame di diploma e' composta del direttore, che la presiede, da altri quattro professori della scuola e da due esperti di organizzazione aziendale.  
+Ciascun commissario dispone di dieci punti.  
+Art. 207. - Tutti gli iscritti alla scuola, di cui al precedente articolo 201 sono tenuti al versamento annuo delle tasse di iscrizione - proposte dal Consiglio di amministrazione del Centro secondo quanto prevede il regolamento dell'Universita' degli studi di Padova - da pagare in due rate uguali, la prima all'atto dell'iscrizione e la seconda entro il 31 marzo, nonche' al pagamento della tassa erariale di cui alla [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 settembre 1970
+### Dato a Roma, addi' 7 luglio 1959
 
-SARAGAT MISASI
+GRONCHI MEDICI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 17 novembre 1970
+Registrato alla Corte dei conti, addi' 10 settembre 1959
 
-Atti del Governo, registro n. 238, foglio n. 71. - CARUSO
+Atti del Governo, registro n. 120, foglio n. 113. - VILLA

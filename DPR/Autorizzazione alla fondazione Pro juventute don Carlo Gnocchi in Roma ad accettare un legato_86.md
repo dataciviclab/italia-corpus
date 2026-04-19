@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 dicembre 1982 n. 1117
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 552
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 dicembre 1982 n. 1117
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 552
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-1117. Decreto del Presidente della Repubblica 16 dicembre 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un appartamento sito in La Spezia, via Migliari, 35, distinto nel nuovo catasto edilizio urbano alla partita 15188, foglio 31, mappale 231, valore peritale L. 40.000.000 elevato dall'ufficio tecnico erariale di La Spezia a L. 58.000.000, disposto a favore dell'opera "don Gnocchi", che si identifica con la fondazione medesima come si evince dal verbale in data 28 novembre 1980 del consiglio di amministrazione, disposta dal sig. Pittaluga Gennaro con testamento olografo 5 settembre 1978, pubblicato in data 3 ottobre 1980, n. 22394/1512 di repertorio, a rogito dott.ssa Marialuisa Masetti, notaio in Cassano d'Adda, registrato a Milano in data 8 ottobre 1980, al n. A/4-23337/7M.  
+552. Decreto del Presidente della Repubblica 16 luglio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella quota di 1/3 della nuda proprieta' di titoli di Stato (buoni ordinari del Tesoro) valore nominale L. 85.000.000 quota 1/3 L. 28.333.333, disposta dalla sig.ra Montanari Giuseppina Marietta Rosalinda a favore dello istituito "Don Gnocchi" di Milano, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale 20 novembre 1982 del consiglio di amministrazione della fondazione stessa, per l'acquisto di qualche apparecchiatura scientifica per alleviare le pene dei suoi beneficiati, con testamento olografo 17 aprile 1982 e pubblicato in data 22 giugno 1982, n. 12664 di repertorio e n. 4005 di raccolta, a rogito dott.  
+Vittorio Morandi, notaio in Alessandria, registrato ad Alessandria il 12 luglio 1982 al n. 3119.   
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 18 febbraio 1983  
-Registro n. 2 Presidenza, foglio n. 64
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 11 ottobre 1985   
+Registro n. 9 Presidenza, foglio n. 69

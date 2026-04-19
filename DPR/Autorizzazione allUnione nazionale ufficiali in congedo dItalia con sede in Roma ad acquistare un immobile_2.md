@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1967 n. 275
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 febbraio 1966 n. 134
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1967 n. 275
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 febbraio 1966 n. 134
+===============================================================
 
 Autorizzazione all'Unione nazionale ufficiali in congedo d'Italia, con sede in Roma, ad acquistare un immobile.
 ---------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-275. Decreto del Presidente della Repubblica 14 marzo 1967, col quale, sulla proposta del Ministro per la difesa, l'Unione nazionale ufficiali in congedo d'Italia, con sede in Roma, viene autorizzata ad acquistare, dalla signora Villa Cesarina maritata Mauri, al prezzo di L. 12.200.000, l'appartamento di tre camere ed accessori, situato al primo piano del fabbricato che sorge in Lecco, via Cavour n. 78, da adibire a sede della dipendente Sezione di Lecco.  
+134. Decreto del Presidente della Repubblica 21 febbraio 1966, col quale, sulla proposta del Ministro per la difesa, l'Unione nazionale ufficiali in congedo d'Italia, con sede in Roma, viene autorizzata ad acquistare, per la sede della dipendente sezione di Legnano, dalla "Cristallo s.p.a.", di Milano, al prezzo di L. 9.100.000, l'appartamento situato al primo piano del fabbricato in avanzata costruzione, denominato "Condominio Cristallo", che sta sorgendo in Legnano, via Don Emanuele Cattaneo, composto di una sala di mq. 50, due vani per complessivi mq. 22 e servizi, il tutto per una superficie complessiva di mq. 97720 e mq. 7,80 di balconi.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 9 maggio 1967  
-Atti del Governo, registro n. 211, foglio n. 8. - GRECO
+Registrato alla Corte dei conti, addi' 24 marzo 1966  
+Atti del Governo, registro n. 202, foglio n. 65. - VILLA

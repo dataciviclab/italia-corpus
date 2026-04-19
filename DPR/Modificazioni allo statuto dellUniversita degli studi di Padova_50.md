@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1971 n. 627
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 giugno 1967 n. 610
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1971 n. 627
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 giugno 1967 n. 610
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Padova approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,7 +20,7 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -32,108 +32,44 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 69: all'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:
+Art. 15. - All'elenco degli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di:
 
-Geografia Fisica;
+21) Diritto pubblico generale.
 
-Geografia politica ed economica;
+Art. 47. - All'elenco degli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti quelli di:
 
-Applicazioni di geografia;
+26) Storia delle istituzioni economiche e giuridiche venete;
 
-Storia religiosa dell'Oriente cristiano Filologia semitica;
+27) Geografia agraria.
 
-Lingua e letteratura araba;
-
-Archivistica.
-
-Art. 71: all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne sono aggiunti i seguenti:
-
-Storia e grammatica storica della lingua inglese;
-
-Storia e grammatica storica della lingua tedesca;
-
-Storia e grammatica storica della lingua francese;
-
-Storia e grammatica storica della lingua spagnola;
-
-Storia e grammatica storica della lingua neo-greca.
-
-Art. 73, relativo all'esame di laurea dei corsi di laurea della facolta' di lettere e filosofia e' abrogato e sostituito dal seguente:
-
-"L'esame di laurea consiste nella discussione di una dissertazione svolta dal candidato su tema approvato dal professore della materia e riguardante una disciplina artistica, o geografica, o letteraria, o storica, o linguistica per la laurea in lettere; una disciplina filosofica o storica per la laurea in filosofia, e una lingua e letteratura straniera moderna per la laurea in lingue e letterature straniere moderne, discipline che, in ogni caso, debbono essere fra quelle impartite nella facolta'".
-
-Art. 78, relativo ai seminari e agli istituti che appartengono alla facolta' di lettere e filosofia e' modificato nel senso che il "Seminario di lingue e letterature straniere moderne" e' soppresso; al suo posto vengono istituiti i seguenti due istituti:
-
-Istituto di lingue e letterature romanze;
-
-Istituto di anglistica e germanistica.
-
-Art. 86: all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:
-
-Psicolinguistica;
-
-Psicologia comparata;
-
-Storia della critica letteraria;
-
-Biblioteconomia e bibliografia;
-
-Storia economica;
-
-Storia della critica d'arte.
-
-Art. 87: all'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:
-
-Psicolinguistica;
-
-Psicologia comparata;
-
-Psicologia dinamica;
-
-Biblioteconomia e bibliografia;
-
-Storia economica;
-
-Storia della critica d'arte.
-
-Art. 90, relativo al corso di studi per il diploma di abilitazione alla vigilanza nelle scuole elementari e' modificato nel senso che l'ultimo comma e' soppresso.
-
-Art. 92, relativo al suddetto diploma e' soppresso.
-
-Art. 120: all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche e aggiunto il seguente:
-
-Farmacologia.
-
-Art. 123: all'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche e' aggiunto il seguente:
-
-Cristallografia.
+Art. 53. - L'elenco degli Istituti annessi alla Facolta' di economia e commercio e' modificato nel senso che l'Istituto di economia e politica economica muta denominazione in quello di: "Istituto di economia e politica economica e finanziaria".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 19 maggio 1971
+Dato a Roma, addi' 13 giugno 1967
 
 SARAGAT
 
-MISASI
+GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 18 agosto 1971 Atti del Governo, registro n. 243, foglio n. 137. - PASQUALUCCI
+alla Corte dei conti, addi' 20 luglio 1967 Atti del Governo, registro n. 212, foglio n. 57. - GRECO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Padova approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -142,55 +78,23 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 69: all'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
-Geografia Fisica;  
-Geografia politica ed economica;  
-Applicazioni di geografia;  
-Storia religiosa dell'Oriente cristiano Filologia semitica;  
-Lingua e letteratura araba;  
-Archivistica.  
-Art. 71: all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne sono aggiunti i seguenti:  
-Storia e grammatica storica della lingua inglese;  
-Storia e grammatica storica della lingua tedesca;  
-Storia e grammatica storica della lingua francese;  
-Storia e grammatica storica della lingua spagnola;  
-Storia e grammatica storica della lingua neo-greca.  
-Art. 73, relativo all'esame di laurea dei corsi di laurea della facolta' di lettere e filosofia e' abrogato e sostituito dal seguente:  
-"L'esame di laurea consiste nella discussione di una dissertazione svolta dal candidato su tema approvato dal professore della materia e riguardante una disciplina artistica, o geografica, o letteraria, o storica, o linguistica per la laurea in lettere; una disciplina filosofica o storica per la laurea in filosofia, e una lingua e letteratura straniera moderna per la laurea in lingue e letterature straniere moderne, discipline che, in ogni caso, debbono essere fra quelle impartite nella facolta'".  
-Art. 78, relativo ai seminari e agli istituti che appartengono alla facolta' di lettere e filosofia e' modificato nel senso che il "Seminario di lingue e letterature straniere moderne" e' soppresso; al suo posto vengono istituiti i seguenti due istituti:  
-Istituto di lingue e letterature romanze;  
-Istituto di anglistica e germanistica.  
-Art. 86: all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:  
-Psicolinguistica;  
-Psicologia comparata;  
-Storia della critica letteraria;  
-Biblioteconomia e bibliografia;  
-Storia economica;  
-Storia della critica d'arte.  
-Art. 87: all'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:  
-Psicolinguistica;  
-Psicologia comparata;  
-Psicologia dinamica;  
-Biblioteconomia e bibliografia;  
-Storia economica;  
-Storia della critica d'arte.  
-Art. 90, relativo al corso di studi per il diploma di abilitazione alla vigilanza nelle scuole elementari e' modificato nel senso che l'ultimo comma e' soppresso.  
-Art. 92, relativo al suddetto diploma e' soppresso.  
-Art. 120: all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche e aggiunto il seguente:  
-Farmacologia.  
-Art. 123: all'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche e' aggiunto il seguente:  
-Cristallografia.  
+Art. 15. - All'elenco degli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di:  
+21) Diritto pubblico generale.  
+Art. 47. - All'elenco degli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti quelli di:  
+26) Storia delle istituzioni economiche e giuridiche venete;  
+27) Geografia agraria.  
+Art. 53. - L'elenco degli Istituti annessi alla Facolta' di economia e commercio e' modificato nel senso che l'Istituto di economia e politica economica muta denominazione in quello di: "Istituto di economia e politica economica e finanziaria".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 maggio 1971
+### Dato a Roma, addi' 13 giugno 1967
 
-SARAGAT MISASI
+SARAGAT GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 18 agosto 1971
+Registrato alla Corte dei conti, addi' 20 luglio 1967
 
-Atti del Governo, registro n. 243, foglio n. 137. - PASQUALUCCI
+Atti del Governo, registro n. 212, foglio n. 57. - GRECO

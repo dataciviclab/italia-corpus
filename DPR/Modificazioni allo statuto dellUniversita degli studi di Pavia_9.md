@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 153
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1957 n. 791
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 153
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1957 n. 791
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,43 +20,235 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio universitario nazionale nel suo parere;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 24. - Agli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di: 8) "Storia economica".
 
+Art. 27. - Sono aggiunti i seguenti comma:
+
+"Alla Facolta' e' annesso un Istituto di storia delle dottrine politiche che ha per scopo di promuovere il perfezionamento negli studi di storia delle dottrine politiche secondo i piu' moderni procedimenti critici e metodologici, disponendo di opportune dotazioni bibliografiche, periodiche e documentarie.
+
+L'Istituto e' ordinato come seminario ai sensi dello art. 23 del regolamento generale universitario, e svolge la sua attivita' mediante esercitazioni pratiche, ricerche tecniche e metodologiche, lavori di indagine critica e sistematica nei diversi campi della cultura teorico-politica e della prassi associativa. Sono ammessi all'Istituto studenti e laureati della Facolta' che hanno funzione e carattere di addestramento in prevalenza umanistico e storico sociologico, e cioe' scienze politiche, giurisprudenza, lettere e filosofia, economia e commercio, lingue straniere, ed in generale tutti coloro che intendono professare secondo disciplina scientifica l'ordine degli studi predetti. L'Istituto e' diretto dal professore titolare della storia delle dottrine politiche della Facolta'".
+
+Art. 36. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: 12) "Semeiotica medica".
+
+Dopo l'art. 144, sono aggiunti i seguenti nuovi articoli relativi all'istituzione delle Scuole di specializzazione in medicina del lavoro ed in malattie infettive.
+
+Scuola di specializzazione in medicina del lavoro
+
+Art. 145. - E' istituita, presso l'Istituto di medicina del lavoro, la Scuola di specializzazione in medicina del lavoro.
+
+La Scuola dispone dei reparti e delle attrezzature dell'Istituto di medicina del lavoro e di una sezione malati presso la Clinica medica.
+
+Direttore della Scuola e' il titolare della cattedra di medicina del lavoro.
+
+Art. 146. - Durante il corso, che ha la durata di due anni, oltre alle lezioni relative alle materie indicate nel programma, verranno tenute esercitazioni di semiologia, diagnostica differenziale e di terapia speciale al letto dell'ammalato.
+
+Si svolgeranno esercitazioni teorico-pratiche nei laboratori e si eseguiranno visite didattiche agli ambienti di lavoro.
+
+Art. 147. - La frequenza delle lezioni, delle esercitazioni e delle visite agli ambienti del lavoro e' obbligatoria. Come pure e' obbligatorio l'internato nell'Istituto di medicina del lavoro.
+
+Art. 148. - Alla Scuola non sono ammessi piu' di dieci medici per ogni anno. Qualora le domande di iscrizione fossero in numero superiore la direzione della Scuola si riserva di provvedere ad una scelta in base ai titoli di studio ed eventualmente, a mezzo dissertazione.
+
+Art. 149. - Alla fine del primo anno gli specializzandi che abbiano ottenuto la firma di frequenza dovranno sostenere un esame di profitto nelle materie di insegnamento annuali.
+
+Alla fine del secondo anno gli specializzandi dovranno sostenere l'esame di profitto nelle materie di insegnamento annuale del secondo corso.
+
+L'esame di diploma consiste nella discussione di una dissertazione scritta su di un argomento di medicina del lavoro che deve essere approvato dalla Direzione della Scuola. La dissertazione deve essere presentata per l'approvazione almeno un mese prima delle prove di esame.
+
+Art. 150. - La Commissione per gli esami di profitto e per l'esame di diploma saranno nominate secondo le norme generali di cui agli articoli 76 e 77 dello statuto.
+
+Art. 151. - Le materie di insegnamento sono:
+
+1° anno:
+
+Fisiologia del lavoro;
+
+Patologia generale delle intossicazioni;
+
+Tossicologia da materiale di lavoro;
+
+Anatomia patologica delle malattie professionali;
+
+Radiologia delle tecnopatie;
+
+Psicotecnica;
+
+Statistica di patologia professionale;
+
+Igiene del lavoro (biennale),
+
+Medicina assicurativa e valutazione di danno (biennale);
+
+Patologia e clinica delle malattie professionali (biennale).
+
+2° anno:
+
+Malattie professionali del sistema nervoso;
+
+Malattie professionali dell'apparato visivo;
+
+Malattie professionali del sistema cutaneo;
+
+Malattie professionali e ginecologia;
+
+Malattie professionali dell'orecchio, naso e gola;
+
+Malattie professionali e traumatologia;
+
+Igiene del lavoro;
+
+Medicina assicurativa e valutazione di danno;
+
+Patologia e clinica delle malattie professionali.
+
+Scuola di specializzazione in malattie infettive
+
+Art. 152. - E' istituita, presso l'Istituto di clinica medica e l'Istituto di igiene e microbiologia, la Scuola di specializzazione in malattie infettive.
+
+La Scuola e' posta sotto la direzione del titolare di clinica medica, e dispone del reparto isolamento e dei laboratori della Clinica medica, nonche' dei laboratori dell'Istituto di igiene e microbiologia, compresa la sezione virus.
+
+Art. 153. - Il corso, che si svolge presso l'Istituto di clinica medica e presso l'Istituto di igiene e microbiologia, ha la durata di due anni e comporta i seguenti insegnamenti:
+
+Microbiologia e virologia (corso biennale di 30 lezioni annuali);
+
+Epidemiologia e profilassi delle malattie infettive (corso biennale di 20 lezioni annuali);
+
+Immunologia (corso annuale di 15 lezioni);
+
+Clinica delle malattie-infettive (corso biennale teorico-pratico di 20 lezioni annuali);
+
+Metodi di accertamento diagnostico delle malattie infettive (corso biennale di 10 lezioni annuali);
+
+Terapia immunologica e chemio-antibiotica delle malattie infettive (corso biennale di 10 lezioni annuali).
+
+I suddetti insegnamenti sono integrati da esercitazioni di microbiologia ed immunologia e da esercitazioni al letto del malato.
+
+Art. 154. - Nel primo anno di corso e' obbligatorio un internato di almeno sei mesi nell'Istituto di igiene e microbiologia e nel secondo anno un internato di almeno sei mesi nel reparto degenza della Clinica medica.
+
+Art. 155. - Alla Scuola sono ammessi i laureati in medicina e chirurgia in numero limitato alle disponibilita' dei laboratori dell'Istituto di igiene e microbiologia e dei reparti della Clinica medica.
+
+Il Consiglio della scuola, costituito dal direttore della Clinica medica e dal direttore dell'Istituto di igiene, esaminera' le domande di ammissione e formera' una graduatoria dei candidati ai posti disponibili il cui numero sara' fissato dal Consiglio stesso, di anno in anno, in rapporto alle esigenze di cui sopra.
+
+Art. 156. - Alla fine del primo anno, gli iscritti dovranno sostenere un esame sulle materie dei corsi annuali di lezioni e di esercitazioni svolte durante l'anno. Un esame analogo dovra' essere sostenuto alla fine del secondo anno.
+
+Al termine del corso ha luogo l'esame di diploma che consiste nella presentazione e discussione di una dissertazione scritta su argomento inerente le materie di insegnamento e previamente concordato fra il diplomando e il Consiglio della scuola.
+
+Art. 157. - Le Commissioni per gli esami di profitto e per l'esame di diploma saranno nominate secondo le norme generali di cui agli articoli 76 e 77 dello statuto.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 30 giugno 1957
+
+GRONCHI
+
+MORO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 5 settembre 1957 Atti del Governo, registro n. 107, foglio n. 105. - RELLEVA
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA   
   
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Art. 559 - l'ultimo comma, concernente l'iscrizione al corso di laurea in musicologia degli studenti provenienti da un conservatorio di musica o da un liceo musicale pareggiato, e' soppresso e sostituito come segue:   
-Art. 559 (ultimo comma). - Gli studenti sprovvisti di diploma di composizione o di organo e composizione organistica o di polifonia vocale rilasciati da un conservatorio di musica o da un liceo musicale pareggiato sono inoltre tenuti a frequentare il corso di semiologia della musica e a sostenere il relativo esame. Il consiglio della scuola deliberera', caso per caso, se tale corso dovra' essere seguito per un anno, o per un biennio, o per un triennio, o per un quadriennio.   
-Art. 561 - nell'elenco degli insegnamenti complementari del corso di diploma di paleografia e filologia musicale l'insegnamento contrassegnato con il numero 12) e' soppresso e sostituito con l'insegnamento di "semiologia della musica I (biennale)". Inoltre e' inserito il nuovo insegnamento di "semiologia della musica II (biennale)" che viene contrassegnato con il numero 13), con il conseguente scorrimento della numerazione dell'insegnamento successivo.   
-Nell'ultimo comma, la seguente frase: "Gli studenti sprovvisti di diploma rilasciato da un conservatorio di musica sono inoltre tenuti a frequentare appositi corsi di preparazione specifica musicale impartiti dalla scuola e a superare il relativo esame." e' soppressa e sostituita come segue: "Gli studenti sprovvisti di diploma di composizione o di organo e composizione organistica o di polifonia vocale rilasciati da un conservatorio di musica o da un liceo musicale pareggiato sono inoltre tenuti a frequentare il corso di semiologia della musica e a sostenere il relativo esame. Il consiglio della scuola deliberera', caso per caso, se tale corso dovra' essere seguito per un anno o per un biennio. Le stesse norme si applicano anche agli studenti iscritti al corso ad indirizzo storico-didattico, di cui all'articolo seguente".   
-Art. 563 - l'ultimo comma, concernente norme relative agli insegnamenti del corso speciale storico-didattico della scuola di paleografia e filologia musicale, e' modificato come segue: la prima riga e' soppressa e cosi' sostituita: "Tutti i corsi pluriennali comportano un distinto esame al termine di ogni anno di corso".   
-Nella seconda riga, l'espressione: "Solo i corsi di storia.." e' modificata in: "I corsi di storia...".   
+Decreta:   
+  
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 24. - Agli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di: 8) "Storia economica".   
+Art. 27. - Sono aggiunti i seguenti comma:   
+"Alla Facolta' e' annesso un Istituto di storia delle dottrine politiche che ha per scopo di promuovere il perfezionamento negli studi di storia delle dottrine politiche secondo i piu' moderni procedimenti critici e metodologici, disponendo di opportune dotazioni bibliografiche, periodiche e documentarie.   
+L'Istituto e' ordinato come seminario ai sensi dello art. 23 del regolamento generale universitario, e svolge la sua attivita' mediante esercitazioni pratiche, ricerche tecniche e metodologiche, lavori di indagine critica e sistematica nei diversi campi della cultura teorico-politica e della prassi associativa. Sono ammessi all'Istituto studenti e laureati della Facolta' che hanno funzione e carattere di addestramento in prevalenza umanistico e storico sociologico, e cioe' scienze politiche, giurisprudenza, lettere e filosofia, economia e commercio, lingue straniere, ed in generale tutti coloro che intendono professare secondo disciplina scientifica l'ordine degli studi predetti. L'Istituto e' diretto dal professore titolare della storia delle dottrine politiche della Facolta'".   
+Art. 36. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: 12) "Semeiotica medica".   
+Dopo l'art. 144, sono aggiunti i seguenti nuovi articoli relativi all'istituzione delle Scuole di specializzazione in medicina del lavoro ed in malattie infettive.   
+Scuola di specializzazione in medicina del lavoro   
+Art. 145. - E' istituita, presso l'Istituto di medicina del lavoro, la Scuola di specializzazione in medicina del lavoro.   
+La Scuola dispone dei reparti e delle attrezzature dell'Istituto di medicina del lavoro e di una sezione malati presso la Clinica medica.   
+Direttore della Scuola e' il titolare della cattedra di medicina del lavoro.   
+Art. 146. - Durante il corso, che ha la durata di due anni, oltre alle lezioni relative alle materie indicate nel programma, verranno tenute esercitazioni di semiologia, diagnostica differenziale e di terapia speciale al letto dell'ammalato.   
+Si svolgeranno esercitazioni teorico-pratiche nei laboratori e si eseguiranno visite didattiche agli ambienti di lavoro.   
+Art. 147. - La frequenza delle lezioni, delle esercitazioni e delle visite agli ambienti del lavoro e' obbligatoria. Come pure e' obbligatorio l'internato nell'Istituto di medicina del lavoro.   
+Art. 148. - Alla Scuola non sono ammessi piu' di dieci medici per ogni anno. Qualora le domande di iscrizione fossero in numero superiore la direzione della Scuola si riserva di provvedere ad una scelta in base ai titoli di studio ed eventualmente, a mezzo dissertazione.   
+Art. 149. - Alla fine del primo anno gli specializzandi che abbiano ottenuto la firma di frequenza dovranno sostenere un esame di profitto nelle materie di insegnamento annuali.   
+Alla fine del secondo anno gli specializzandi dovranno sostenere l'esame di profitto nelle materie di insegnamento annuale del secondo corso.   
+L'esame di diploma consiste nella discussione di una dissertazione scritta su di un argomento di medicina del lavoro che deve essere approvato dalla Direzione della Scuola. La dissertazione deve essere presentata per l'approvazione almeno un mese prima delle prove di esame.   
+Art. 150. - La Commissione per gli esami di profitto e per l'esame di diploma saranno nominate secondo le norme generali di cui agli articoli 76 e 77 dello statuto.   
+Art. 151. - Le materie di insegnamento sono:   
+1° anno:   
+Fisiologia del lavoro;   
+Patologia generale delle intossicazioni;   
+Tossicologia da materiale di lavoro;   
+Anatomia patologica delle malattie professionali;   
+Radiologia delle tecnopatie;   
+Psicotecnica;   
+Statistica di patologia professionale;   
+Igiene del lavoro (biennale),   
+Medicina assicurativa e valutazione di danno (biennale);   
+Patologia e clinica delle malattie professionali (biennale).   
+2° anno:   
+Malattie professionali del sistema nervoso;   
+Malattie professionali dell'apparato visivo;   
+Malattie professionali del sistema cutaneo;   
+Malattie professionali e ginecologia;   
+Malattie professionali dell'orecchio, naso e gola;   
+Malattie professionali e traumatologia;   
+Igiene del lavoro;   
+Medicina assicurativa e valutazione di danno;   
+Patologia e clinica delle malattie professionali.   
+  
+Scuola di specializzazione in malattie infettive   
+  
+Art. 152. - E' istituita, presso l'Istituto di clinica medica e l'Istituto di igiene e microbiologia, la Scuola di specializzazione in malattie infettive.   
+La Scuola e' posta sotto la direzione del titolare di clinica medica, e dispone del reparto isolamento e dei laboratori della Clinica medica, nonche' dei laboratori dell'Istituto di igiene e microbiologia, compresa la sezione virus.   
+Art. 153. - Il corso, che si svolge presso l'Istituto di clinica medica e presso l'Istituto di igiene e microbiologia, ha la durata di due anni e comporta i seguenti insegnamenti:   
+Microbiologia e virologia (corso biennale di 30 lezioni annuali);   
+Epidemiologia e profilassi delle malattie infettive (corso biennale di 20 lezioni annuali);   
+Immunologia (corso annuale di 15 lezioni);   
+Clinica delle malattie-infettive (corso biennale teorico-pratico di 20 lezioni annuali);   
+Metodi di accertamento diagnostico delle malattie infettive (corso biennale di 10 lezioni annuali);   
+Terapia immunologica e chemio-antibiotica delle malattie infettive (corso biennale di 10 lezioni annuali).   
+I suddetti insegnamenti sono integrati da esercitazioni di microbiologia ed immunologia e da esercitazioni al letto del malato.   
+Art. 154. - Nel primo anno di corso e' obbligatorio un internato di almeno sei mesi nell'Istituto di igiene e microbiologia e nel secondo anno un internato di almeno sei mesi nel reparto degenza della Clinica medica.   
+Art. 155. - Alla Scuola sono ammessi i laureati in medicina e chirurgia in numero limitato alle disponibilita' dei laboratori dell'Istituto di igiene e microbiologia e dei reparti della Clinica medica.   
+Il Consiglio della scuola, costituito dal direttore della Clinica medica e dal direttore dell'Istituto di igiene, esaminera' le domande di ammissione e formera' una graduatoria dei candidati ai posti disponibili il cui numero sara' fissato dal Consiglio stesso, di anno in anno, in rapporto alle esigenze di cui sopra.   
+Art. 156. - Alla fine del primo anno, gli iscritti dovranno sostenere un esame sulle materie dei corsi annuali di lezioni e di esercitazioni svolte durante l'anno. Un esame analogo dovra' essere sostenuto alla fine del secondo anno.   
+Al termine del corso ha luogo l'esame di diploma che consiste nella presentazione e discussione di una dissertazione scritta su argomento inerente le materie di insegnamento e previamente concordato fra il diplomando e il Consiglio della scuola.   
+Art. 157. - Le Commissioni per gli esami di profitto e per l'esame di diploma saranno nominate secondo le norme generali di cui agli articoli 76 e 77 dello statuto.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 gennaio 1985
+### Dato a Roma, addi' 30 giugno 1957
 
-PERTINI
+GRONCHI MORO
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: GONELLA
 
-Visto, il Guardasigilli: MARTINAZZOLI Registrato alla Corte dei conti addi' 15 aprile 1985
+Registrato alla Corte dei conti, addi' 5 settembre 1957
 
-Registro n. 23 Istruzione, foglio n. 213
+Atti del Governo, registro n. 107, foglio n. 105. - RELLEVA

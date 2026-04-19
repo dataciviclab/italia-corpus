@@ -1,511 +1,143 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1298
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 agosto 1963 n. 1377
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1298
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 agosto 1963 n. 1377
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 92, relativo all'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia e' modificato nel senso che le scuole in "Igiene", "Otorinolaringoiatria", "Cardiologia" mutano la denominazione in quelle di "Igiene e medicina preventiva", "Otorinolaringoiatria e patologia cervico-facciale", "Malattie dell'apparato cardiovascolare".
-
-Nello stesso elenco e' aggiunta la scuola di specializzazione in "Odontoiatria e protesi dentaria".
-
-L'art. 108, relativo alla scuola di specializzazione in igiene, l'art. 111, relativo alla scuola di specializzazione in otorinolaringoiatria, l'art. 112, relativo alla scuola di specializzazione in cardiologia sono abrogati e sostituiti dai seguenti:
-
-Scuola di specializzazione in igiene e medicina preventiva
-
-Art. 108. - La scuola ha la durata di tre anni; il numero degli studenti che possono essere iscritti e' limitato a dieci per anno di corso.
-
-La scuola e' articolata con gli orientamenti di sanita' pubblica e di igiene e tecnica (o direzione) ospitaliera.
-
-Le materie di insegnamento sono:
-
-1° Anno:
-
-Metodologia statistica e biometria;
-
-Educazione sanitaria;
-
-Psicologia;
-
-Microbiologia;
-
-Parassitologia;
-
-Epidemiologia e profilassi generale.
-
-2° Anno:
-
-Patologia e clinica delle malattie infettive;
-
-Epidemiologia e profilassi delle malattie infettive;
-
-Patologia e clinica delle malattie non infettive di importanza sociale;
-
-Epidemiologia e profilassi delle malattie non infettive di importanza sociale;
-
-Demografia e statistica sanitaria;
-
-Legislazione e organizzazione sanitaria.
-
-3° Anno (con orientamento di sanita' pubblica):
-
-Approvvigionamento idrico; raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici;
-
-Igiene edilizia e urbanistica;
-
-Igiene dell'alimentazione;
-
-Igiene e medicina scolastica;
-
-Igiene ospitaliera;
-
-Servizi di sanita' pubblica.
-
-3° Anno [con orientamento di igiene e tecnica (o direzione) ospitaliera]:
-
-Storia degli ospedali e principi metodologici della assistenza ospitaliera;
-
-Igiene e tecnica delle costruzioni ospitaliere, arredamento ed impianti sanitari;
-
-Organizzazione e funzione degli ospedali generali e speciali;
-
-Diritto amministrativo e legislazione ospitaliera;
-
-Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera;
-
-Selezione e istruzione professionale del personale ospitaliero;
-
-Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.
-
-Materie complementari:
-
-Ispezione delle carni;
-
-Geologia applicata all'igiene;
-
-Igiene mentale;
-
-Malattie professionali e loro prevenzione;
-
-Diritto sanitario;
-
-Igiene navale e dell'emigrazione;
-
-Antropologia culturale e sociologia;
-
-Malattie tropicali;
-
-Istituzioni di matematica;
-
-Genetica;
-
-Gerontologia e geriatria;
-
-Elementi di economia politica.
-
-Per l'ammissione al 3° anno di corso gli iscritti dovranno aver superato tutti gli esami delle materie obbligatorie del 1° e 2° anno.
-
-Per poter sostenere l'esame di diploma gli iscritti dovranno aver superato gli esami di tutti gli insegnamenti obbligatori e di almeno tre materie complementari scelte fra quelle che saranno consigliate dal consiglio della scuola per i singoli orientamenti.
-
-Potranno essere ammessi al 3° anno di corso gli specialisti in igiene che abbiano conseguito la specializzazione con un orientamento diverso da quello prescelto per l'iscrizione.
-
-Non sono consentite altre abbreviazioni di corso.
-
-Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale
-
-Art. 111. - La scuola ha la durata di tre anni; il numero degli iscritti e' limitato a cinque per ogni anno di corso.
-
-Le materie di insegnamento sono:
-
-1° Anno:
-
-Anatomia;
-
-Fisiologia;
-
-Audiologia (1° anno);
-
-Semeiotica otorinolaringoiatrica;
-
-Tecnica di laboratorio;
-
-Patologia otorinolaringoiatrica e cervico-facciale (1° anno);
-
-Anatomia e istologia patologica otorinolaringoiatrica.
-
-2° Anno:
-
-Tecniche operatorie in otorinolaringoiatria;
-
-Anestesiologia in otorinolaringoiatria;
-
-Patologia e clinica otorinolaringoiatrica e cervicofacciale (2° anno);
-
-Radiologia in rapporto con l'otorinolaringoiatria;
-
-Pediatria in rapporto con l'otorinolaringoiatria;
-
-Audiologia (2° anno);
-
-Otoneurologia;
-
-Foniatria.
-
-3° Anno:
-
-Patologia e clinica otorinolaringoiatrica e cervicofacciale;
-
-Terapia medica e fisica in otorinolaringoiatria;
-
-Neuropatologia in rapporto con l'otorinolaringoiatria;
-
-Oculistica in rapporto con l'otorinolaringoiatria;
-
-Chirurgia plastica;.
-
-Trache-bronco-esofagoscopia;
-
-Medicina legale ed infortunistica in otorinolaringoiatria.
-
-Scuola di specializzazione in malattie dell'apparato cardiovascolare
-
-Art. 112. - La scuola ha la durata di tre anni. Il numero degli studenti che possono essere iscritti e' limitato a sei per ogni anno di corso (totale diciotto iscritti).
-
-Le materie di insegnamento sono:
-
-1° Anno:
-
-Anatomia umana normale dell'apparato cardiovascolare;
-
-Fisiologia dell'apparato cardiovascolare e respiratorio;
-
-Microbiologia (facoltativo);
-
-Fisiopatologia cardiovascolare e respiratoria I;
-
-Patologia cardiovascolare I;
-
-Semeiologia fisica I;
-
-Semeiologia strumentale I.
-
-2° Anno:
-
-Fisiopatologia cardiovascolare e respiratoria II;
-
-Patologia cardiovascolare II;
-
-Semeiologia Fisica II;
-
-Semeiologia strumentale II;
-
-Anatomia patologica dell'apparato cardiovascolare I;
-
-Radiologia;
-
-Farmacologia;
-
-Clinica e terapia I.
-
-3° Anno:
-
-Anatomia patologica dell'apparato cardiovascolare II:
-
-Clinica e terapia II;
-
-Chirurgia dell'apparato cardiovascolare;
-
-Problemi assicurativi e sociali (facoltativo);
-
-Statistica (facoltativo).
-
-Gli esami di microbiologia, problemi assicurativi e sociali, statistica sono facoltativi, ma per poter sostenere gli esami di diploma gli iscritti debbono aver superato l'esame di almeno uno di essi.
-
-Per l'ammissione agli anni successivi di corso gli iscritti dovranno avere superato l'esame del gruppo di materie del precedente anno.
-
-Dopo l'art. 112 e con il conseguente spostamento della successiva numerazione e' inserito il seguente articolo relativo alla istituzione della scuola di specializzazione in "Odontoiatria e protesi dentaria".
-
-Scuola di specializzazione in odontoiatria e protesi dentaria
-
-Art. 113. - Il titolo per l'iscrizione alla scuola e' costituito dalla laurea in medicina e chirurgia.
-
-Il numero dei posti disponibili per ogni anno accademico e' limitato a tre (totale nove iscritti).
-
-La durata dei corsi della scuola e' di tre anni e la frequenza e' obbligatoria per l'intero anno accademico. Le vacanze sono conformi al calendario universitario, con un solo mese completo estivo (agosto).
-
-Gli esami di profitto teorici e pratici saranno sostenuti alla fine di ogni anno in un'unica sessione (ottobre). Alla fine del terzo anno, dopo aver superato gli esami di profitto, gli allievi saranno ammessi a sostenere lo esame di diploma che consistera' nella discussione orale di una dissertazione scritta, su un tema proposto in precedenza dall'insegnante della materia sulla quale verte l'argomento e approvato dal direttore della scuola. Ogni iscritto deve provvedere al proprio corredo di strumenti. Le materie d'insegnamento, impartite nel triennio, affiancate da esercitazioni pratiche, sono le seguenti:
-
-1° Anno:
-
-1) Embriologia ed anatomia dentaria e maxillofacciale;
-
-2) Microbiologia e igiene orale;
-
-3) Farmacologia;
-
-4) Patologia odontostomatologica;
-
-5) Odontotecnica;
-
-6) Anestesia e chirurgia stomatologica;
-
-7) Odontoiatria conservativa (1° anno) (biennale).
-
-Esercitazioni pratiche.
-
-2° Anno:
-
-1) Odontoiatria conservativa (2° anno);
-
-2) Clinica protesica dentaria e maxillo-facciale (primo anno) (biennale);
-
-3) Paradontologia (1° anno) (biennale);
-
-4) Anatomia e istopatologia odontostomatologica;
-
-5) Odontoiatria infantile;
-
-6) Radiologia odontostomatologica;
-
-7) Ortopedia dento-maxillo-facciale (1° anno) (biennale;
-
-8) Chirurgia maxillo-facciale (1° anno) (biennale).
-
-Esercitazioni pratiche.
-
-3° Anno:
-
-1) Clinica odontostomatologica;
-
-2) Chirurgia maxillo-facciale (2° anno);
-
-3) Medicina legale odontostomatologica e delle assicurazioni;
-
-4) Ortopedia dento-maxillo-facciale (2° anno);
-
-5) Clinica protesica dentaria e maxillo-facciale (secondo anno);
-
-6) Parodontologia (2° anno).
-
-Esercitazioni pratiche.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1969
-
-SARAGAT
-
-FERRARI AGGRADI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 24 aprile 1970 Atti del Governo, registro n. 235, foglio n. 6. - CARUSO
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1935, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-04-20;1107), e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1392);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 92, relativo all'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia e' modificato nel senso che le scuole in "Igiene", "Otorinolaringoiatria", "Cardiologia" mutano la denominazione in quelle di "Igiene e medicina preventiva", "Otorinolaringoiatria e patologia cervico-facciale", "Malattie dell'apparato cardiovascolare".   
-Nello stesso elenco e' aggiunta la scuola di specializzazione in "Odontoiatria e protesi dentaria".   
-L'art. 108, relativo alla scuola di specializzazione in igiene, l'art. 111, relativo alla scuola di specializzazione in otorinolaringoiatria, l'art. 112, relativo alla scuola di specializzazione in cardiologia sono abrogati e sostituiti dai seguenti:   
+Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 21. - Agli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti quelli di:  
+14) Organizzazione aziendale;  
+15) Storia delle dottrine economiche;  
+16) Storia dell'agricoltura;  
   
-Scuola di specializzazione in igiene e medicina preventiva   
+Art. 43. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti quelli di:  
+13) Tecnica commerciale dei prodotti agricoli;  
+14) Viticoltura (semestrale);  
+15) Tecnica della meccanizzazione agricola;  
+16) Microbiologia del terreno;  
+17) Fisiopatologia vegetale;  
+18) Metodologia statistica in agricoltura (semestrale).  
   
-Art. 108. - La scuola ha la durata di tre anni; il numero degli studenti che possono essere iscritti e' limitato a dieci per anno di corso.   
-La scuola e' articolata con gli orientamenti di sanita' pubblica e di igiene e tecnica (o direzione) ospitaliera.   
-Le materie di insegnamento sono:   
-1° Anno:   
-Metodologia statistica e biometria;   
-Educazione sanitaria;   
-Psicologia;   
-Microbiologia;   
-Parassitologia;   
-Epidemiologia e profilassi generale.   
-2° Anno:   
-Patologia e clinica delle malattie infettive;   
-Epidemiologia e profilassi delle malattie infettive;   
-Patologia e clinica delle malattie non infettive di importanza sociale;   
-Epidemiologia e profilassi delle malattie non infettive di importanza sociale;   
-Demografia e statistica sanitaria;   
-Legislazione e organizzazione sanitaria.   
-3° Anno (con orientamento di sanita' pubblica):   
-Approvvigionamento idrico; raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici;   
-Igiene edilizia e urbanistica;   
-Igiene dell'alimentazione;   
-Igiene e medicina scolastica;   
-Igiene ospitaliera;   
-Servizi di sanita' pubblica.   
-3° Anno [con orientamento di igiene e tecnica (o direzione) ospitaliera]:   
-Storia degli ospedali e principi metodologici della assistenza ospitaliera;   
-Igiene e tecnica delle costruzioni ospitaliere, arredamento ed impianti sanitari;   
-Organizzazione e funzione degli ospedali generali e speciali;   
-Diritto amministrativo e legislazione ospitaliera;   
-Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera;   
-Selezione e istruzione professionale del personale ospitaliero;  
-Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.   
-Materie complementari:   
-Ispezione delle carni;   
-Geologia applicata all'igiene;   
-Igiene mentale;   
-Malattie professionali e loro prevenzione;   
-Diritto sanitario;   
-Igiene navale e dell'emigrazione;   
-Antropologia culturale e sociologia;   
-Malattie tropicali;   
-Istituzioni di matematica;   
-Genetica;   
-Gerontologia e geriatria;   
-Elementi di economia politica.   
-Per l'ammissione al 3° anno di corso gli iscritti dovranno aver superato tutti gli esami delle materie obbligatorie del 1° e 2° anno.   
-Per poter sostenere l'esame di diploma gli iscritti dovranno aver superato gli esami di tutti gli insegnamenti obbligatori e di almeno tre materie complementari scelte fra quelle che saranno consigliate dal consiglio della scuola per i singoli orientamenti.   
-Potranno essere ammessi al 3° anno di corso gli specialisti in igiene che abbiano conseguito la specializzazione con un orientamento diverso da quello prescelto per l'iscrizione.   
-Non sono consentite altre abbreviazioni di corso.   
+Art. 60. - Agli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti quelli di:  
+20) Ecologia;  
+21) Fitogeografia;  
+22) Geochimica;  
+23) Geografia fisica;  
+24) Geologia applicata;  
+25) Merceologia;  
+26) Oceanografia e talassobiologia;  
+27) Pedologia;  
+28) Petrografia;  
+29) Zoogeografia;  
+30) Esperienze didattiche.  
+L'insegnamento complementare di "Entomologia agraria" e' soppresso e sostituito con quello di "Entomologia".  
+L'ultimo comma e' soppresso.  
   
-Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale   
+Art. 61. - E' abrogato e sostituito dal seguente:  
+Dopo il primo biennio lo studente dovra' frequentare per due anni, come interno, di norma, uno degli istituti della Facolta' nel quale attendera' alla elaborazione della tesi di laurea. Durante tale biennio, lo studente e' tenuto a partecipare all'attivita' dell'Istituto.  
+Non potra' essere ammesso all'internato di laurea lo studente che non abbia ancora superato gli esami di Istituzioni di matematiche", di "Chimica generale ed inorganica", di "Fisica".  
   
-Art. 111. - La scuola ha la durata di tre anni; il numero degli iscritti e' limitato a cinque per ogni anno di corso.   
-Le materie di insegnamento sono:   
-1° Anno:   
-Anatomia;   
-Fisiologia;   
-Audiologia (1° anno);   
-Semeiotica otorinolaringoiatrica;   
-Tecnica di laboratorio;   
-Patologia otorinolaringoiatrica e cervico-facciale (1° anno);   
-Anatomia e istologia patologica otorinolaringoiatrica.   
-2° Anno:   
-Tecniche operatorie in otorinolaringoiatria;   
-Anestesiologia in otorinolaringoiatria;   
-Patologia e clinica otorinolaringoiatrica e cervicofacciale (2° anno);   
-Radiologia in rapporto con l'otorinolaringoiatria;   
-Pediatria in rapporto con l'otorinolaringoiatria;   
-Audiologia (2° anno);   
-Otoneurologia;   
-Foniatria.   
-3° Anno:   
-Patologia e clinica otorinolaringoiatrica e cervicofacciale;   
-Terapia medica e fisica in otorinolaringoiatria;   
-Neuropatologia in rapporto con l'otorinolaringoiatria;   
-Oculistica in rapporto con l'otorinolaringoiatria;   
-Chirurgia plastica;.   
-Trache-bronco-esofagoscopia;   
-Medicina legale ed infortunistica in otorinolaringoiatria.   
+Art. 62. - E' abrogato e sostituito dal seguente:  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami degli insegnamenti fondamentali ed in almeno quattro complementari da lui scelti fra quelli impartiti.  
   
-Scuola di specializzazione in malattie dell'apparato cardiovascolare   
-Art. 112. - La scuola ha la durata di tre anni. Il numero degli studenti che possono essere iscritti e' limitato a sei per ogni anno di corso (totale diciotto iscritti).   
-Le materie di insegnamento sono:   
-1° Anno:   
-Anatomia umana normale dell'apparato cardiovascolare;   
-Fisiologia dell'apparato cardiovascolare e respiratorio;   
-Microbiologia (facoltativo);   
-Fisiopatologia cardiovascolare e respiratoria I;   
-Patologia cardiovascolare I;   
-Semeiologia fisica I;   
-Semeiologia strumentale I.   
-2° Anno:   
-Fisiopatologia cardiovascolare e respiratoria II;   
-Patologia cardiovascolare II;   
-Semeiologia Fisica II;   
-Semeiologia strumentale II;   
-Anatomia patologica dell'apparato cardiovascolare I;   
-Radiologia;   
-Farmacologia;   
-Clinica e terapia I.   
-3° Anno:   
-Anatomia patologica dell'apparato cardiovascolare II:   
-Clinica e terapia II;   
-Chirurgia dell'apparato cardiovascolare;   
-Problemi assicurativi e sociali (facoltativo);   
-Statistica (facoltativo).   
-Gli esami di microbiologia, problemi assicurativi e sociali, statistica sono facoltativi, ma per poter sostenere gli esami di diploma gli iscritti debbono aver superato l'esame di almeno uno di essi.   
-Per l'ammissione agli anni successivi di corso gli iscritti dovranno avere superato l'esame del gruppo di materie del precedente anno.   
-Dopo l'art. 112 e con il conseguente spostamento della successiva numerazione e' inserito il seguente articolo relativo alla istituzione della scuola di specializzazione in "Odontoiatria e protesi dentaria".   
+Art. 63. - E' abrogato e sostituito dal seguente:  
+Per l'iscrizione di coloro che gia' siano forniti di una laurea il Consiglio di Facolta', decidera' caso per caso sull'anno di iscrizione.  
+Il Consiglio di Facolta' decidera' altresi' sugli esami e sulle frequenze che possono essere convalidati.  
   
-Scuola di specializzazione in odontoiatria e protesi dentaria   
+Art. 64. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti quelli di:  
+Zoogeografia;  
+Biofisica;  
+Citologia sperimentale;  
+Ecologia;  
+Embriologia sperimentale;  
+Virologia;  
+Farmacologia Fitogeografia;  
+Geologia;  
+Micologia;  
+Paleontologia;  
+Paleontologia umana:  
+Psicologia sperimentale  
+L'insegnamento complementare di "Entomologia agraria" e' soppresso e sostituito con quello di "Entomologia".  
+L'ultimo comma e' soppresso.  
   
-Art. 113. - Il titolo per l'iscrizione alla scuola e' costituito dalla laurea in medicina e chirurgia.   
-Il numero dei posti disponibili per ogni anno accademico e' limitato a tre (totale nove iscritti).   
-La durata dei corsi della scuola e' di tre anni e la frequenza e' obbligatoria per l'intero anno accademico. Le vacanze sono conformi al calendario universitario, con un solo mese completo estivo (agosto).   
-Gli esami di profitto teorici e pratici saranno sostenuti alla fine di ogni anno in un'unica sessione (ottobre). Alla fine del terzo anno, dopo aver superato gli esami di profitto, gli allievi saranno ammessi a sostenere lo esame di diploma che consistera' nella discussione orale di una dissertazione scritta, su un tema proposto in precedenza dall'insegnante della materia sulla quale verte l'argomento e approvato dal direttore della scuola. Ogni iscritto deve provvedere al proprio corredo di strumenti. Le materie d'insegnamento, impartite nel triennio, affiancate da esercitazioni pratiche, sono le seguenti:   
-1° Anno:   
-1) Embriologia ed anatomia dentaria e maxillofacciale;   
-2) Microbiologia e igiene orale;   
-3) Farmacologia;   
-4) Patologia odontostomatologica;   
-5) Odontotecnica;   
-6) Anestesia e chirurgia stomatologica;   
-7) Odontoiatria conservativa (1° anno) (biennale).   
-Esercitazioni pratiche.   
-2° Anno:   
-1) Odontoiatria conservativa (2° anno);   
-2) Clinica protesica dentaria e maxillo-facciale (primo anno) (biennale);   
-3) Paradontologia (1° anno) (biennale);   
-4) Anatomia e istopatologia odontostomatologica;   
-5) Odontoiatria infantile;   
-6) Radiologia odontostomatologica;   
-7) Ortopedia dento-maxillo-facciale (1° anno) (biennale;   
-8) Chirurgia maxillo-facciale (1° anno) (biennale).   
-Esercitazioni pratiche.   
-3° Anno:   
-1) Clinica odontostomatologica;   
-2) Chirurgia maxillo-facciale (2° anno);   
-3) Medicina legale odontostomatologica e delle assicurazioni;   
-4) Ortopedia dento-maxillo-facciale (2° anno);   
-5) Clinica protesica dentaria e maxillo-facciale (secondo anno);   
-6) Parodontologia (2° anno).   
-Esercitazioni pratiche.   
+Art. 65. - E' abrogato e sostituito dal seguente:  
+Dopo il primo biennio lo studente dovra' frequentare per due anni, come internato, di norma, uno degli Istituti della Facolta' nel quale attendera' alla elaborazione della tesi di laurea.  
+Durante tale biennio lo studente e' tenuto a partecipare all'attivita' dell'Istituto.  
+Non potra' essere ammesso all'internato di laurea lo studente che non abbia ancora superato gli esami di "Istituzioni di matematiche", di "Chimica generale ed inorganica a, di "Fisica", di "Botanica I", e di "Zoologia generale".  
+  
+Art. 66. - E' abrogato e sostituito dal seguente:  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami degli insegnamenti fondamentali e in almeno quattro complementari da lui scelti fra quelli impartiti.  
+  
+Art. 67. - E' abrogato e sostituito dal seguente:  
+Per l'iscrizione di coloro che gia' siano forniti di una laurea il Consiglio di Facolta' decidera' caso per caso sull'anno di iscrizione.  
+Il Consiglio di Facolta' decidera' sugli esami e sulle frequenze che possono essere convalidati.  
+  
+L'art. 94, relativo al nuovo ordinamento della Scuola di perfezionamento in ostetricia e ginecologia e' abrogato e sostituito dal seguente:  
+  
+Scuola di perfezionamento in Ostetricia e ginecologia  
+  
+Art. 94. - La Scuola ha la durata di quattro anni.  
+Le materie d'insegnamento sono:  
+  
+1° anno:  
+Embriologia ed anatomia dell'apparato genitale femminile:  
+Fisiologia dell'apparato genitale femminile;  
+Endocrinologia femminile;  
+Fisiopatologia della gravidanza;  
+Anatomia e istologia patologica dell'apparato genitale femminile.  
+  
+2° anno  
+Genetica;  
+Puericoltura prenatale;  
+Puericoltura post-natale;  
+Fisiopatologia ginecologica;  
+Ginecologia psicosomatica.  
+  
+3° anno:  
+Clinica ostetrica e ginecologica;  
+Urologia ginecologica;  
+Venereologia;  
+Analgesia e anestesia in ostetricia e ginecologia;  
+Semeiotica ostetrica e ginecologica.  
+  
+4° anno  
+Clinica ostetrica e ginecologica;  
+Medicina legale (ginecologia forense)  
+Radiologia e radioterapia in ostetricia e ginecologia;  
+Operazioni ostetriche e ginecologiche;  
+Igiene e legislazione sanitaria in rapporto alla gravidanza.  
+Per l'ammissione agli anni successivi di corso gli iscritti dovranno avere superato l'esame del gruppo di materie dell'anno precedente.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1969
+### Dato a Roma, addi' 28 agosto 1963
 
-SARAGAT FERRARI AGGRADI
+SEGNI GUI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 24 aprile 1970
+Registrato alla Corte dei conti, addi' 16 ottobre 1963
 
-Atti del Governo, registro n. 235, foglio n. 6. - CARUSO
+Atti del Governo, registro n. 175, foglio n. 26. - VILLA

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 luglio 1975 n. 449
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1986 n. 888
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 luglio 1975 n. 449
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1986 n. 888
 =============================================================
 
 Autorizzazione ad accettare un legato a favore dello Stato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-449. Decreto del Presidente della Repubblica 21 luglio 1975, col quale, sulla proposta del Ministro per i beni culturali ed ambientali, viene autorizzata la accettazione di un legato, consistente in due libri ebraici con legature in argento della prima meta' del secolo XVIII, disposto a favore dello Stato dalla sig.ra Carvaglio Matilde ved. Ansaldi, da destinare al museo di palazzo Venezia o ad altro museo.  
+888. Decreto del Presidente della Repubblica 4 giugno 1986, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato del legato, consistente in una collezione composta di ventiquattro esemplari in maiolica e un bronzetto, i quali rivestono un interesse artistico e storico, da destinare al Museo nazionale del Bargello, in Firenze, disposto dalla sig.ra Buschka Diamondstein ved. Manenti con testamento olografo 3 settembre 1981, pubblicato in data 11 febbraio 1982, n. 2383 di repertorio, a rogito dott.ssa Lucia Niccolai, notaio in Firenze, registrato a Firenze in data 19 febbraio 1982 al n. 2109.   
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 3 settembre 1975  
-Atti di Governo, registro n. 12, foglio n. 4
+Visto, il Guardasigilli: ROGNONI   
+Registrato alla Corte dei conti, addi' 15 dicembre 1986   
+Registro n. 35 Beni culturali, foglio n. 36

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1241
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1979 n. 371
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1241
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1979 n. 371
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
@@ -10,79 +10,76 @@ Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli 267, 268, 269 e 270, relativi alla scuola di specializzazione in chirurgia vascolare, sono soppressi e sostituiti dai seguenti:   
   
-Gli articoli 271, 272, 273 e 274, relativi all'ordinamento degli studi della scuola di perfezionamento in genetica, sono abrogati e sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi.  
-Scuola di perfezionamento in genetica  
-Art. 271. - La scuola di perfezionamento in genetica ha lo scopo di orientare e guidare verso l'attivita' scientifica nel campo della genetica i laureati preparandoli a portare nell'insegnamento, nella ricerca e nell'esercizio professionale i metodi, i concetti, le conoscenze della genetica moderna e delle discipline affini quali, ad esempio, la biometria e la biologia molecolare.  
-Art. 272. - Il funzionamento della scuola e' affidato a un consiglio direttivo di tre membri nominato dalla facolta' per un triennio. Il consiglio della scuola nomina un direttore il quale, d'accordo con il consiglio, propone anno per anno gli insegnanti chiamati a tenere i corsi. Gli insegnanti saranno scelti tra i professori, tra gli assistenti e anche tra persone di riconosciuta competenza dell'argomento. Le proposte dovranno essere approvate dalla facolta'. Il direttore cura inoltre la organizzazione della scuola e il regolare funzionamento dei corsi e degli esami.  
-Art. 273. - Alla scuola di perfezionamento in genetica sono ammessi: i laureati in scienze biologiche; in scienze naturali; in medicina e chirurgia; in medicina veterinaria; in scienze agrarie e in scienze forestali; in chimica; in farmacia; in chimica e tecnologia farmaceutica; in matematica; in fisica; in matematica e fisica.  
-La durata del corso e' di tre anni.  
-Art. 274. - I corsi di insegnamento impartiti nei tre anni sono i seguenti, essi sono impartiti e devono essere seguiti secondo il seguente schema, anno per anno:  
-1° Anno:  
-metodologia scientifica e genetica;  
-genetica molecolare.  
-2° Anno:  
-genetica di popolazioni;  
-genetica e citogenetica umane.  
-3° Anno:  
-genetica dei microorganismi;  
-genetica matematica.  
-Art. 275. - Per ottenere il diploma i candidati devono aver frequentato e superato gli esami previsti dal piano di studio, che dovra' consistere in almeno sei corsi, equivalenti ciascuno (per numero di lezioni ed esercitazioni), ad un corso universitario annuale. I candidati dovranno inoltre frequentare un laboratorio di ricerca, scelto d'accordo con il consiglio della scuola e svolgervi un lavoro che costituisca un contributo scientifico originale.  
-L'esame di diploma consiste nella discussione di una dissertazione scritta sul lavoro di ricerca svolto dal candidato.  
-Art. 276. - Le commissioni per gli esami di profitto sono nominate dal consiglio della scuola e sono costituite dal professore della materia e da altri due insegnanti della scuola. La commissione per l'esame di diploma, pure nominata dal consiglio, e' formata da quattro membri scelti tra gli insegnanti della scuola e da un contro-relatore nella persona di un competente del soggetto particolare della dissertazione, il quale puo' essere anche un professore di un'altra Universita'.  
-Art. 277. - Gli iscritti alla scuola sono tenuti a pagare le medesime tasse, soprattasse e contributi generali stabiliti dalle vigenti disposizioni di legge per gli studenti della facolta'. La tassa di diploma e' fissata in L. 6.000, a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7). La misura del contributo per le esercitazioni durante il corso degli studi e' fissato dal consiglio di amministrazione, su proposta del senato accademico, udita la facolta' di scienze matematiche, fisiche e naturali ed il consiglio direttivo della scuola.  
-Dopo l'art. 300, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in conservazione della natura e pianificazione ecologica territoriale, annessa alla facolta' di scienze matematiche, fisiche e naturali.  
-Scuola di specializzazione in conservazione della natura e pianificazione ecologia territoriale  
-Art. 301. - E' istituita presso la facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Pavia la scuola di specializzazione in conservazione della natura e pianificazione ecologica territoriale. La durata degli studi e' di due anni.  
-Art. 302. - E' direttore della scuola un professore ordinario o straordinario nelle discipline naturalistiche afferenti ai problemi dell'ambiente e della sua tutela della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Pavia.  
-Il funzionamento della scuola e' affidato ad un consiglio direttivo formato dal direttore e da altri due membri nominati ogni quadriennio dalla facolta'.  
-I docenti per singoli corsi verranno scelti su proposta del consiglio direttivo, tra i professori ufficiali o gli assistenti o anche tra persone italiane e straniere, non appartenenti alla facolta', ma di riconosciuta e documentata competenza specifica. Tale scelta verra' operata dalla facolta' in conformita' alle norme vigenti.  
-Art. 303. - Alla scuola di specializzazione sono ammessi i laureati in scienze naturali, scienze geologiche, scienze biologiche, scienze agrarie e scienze forestali, chimica, architettura, ingegneria, geografia, medicina e chirurgia, medicina veterinaria, scienze della produzione animale.  
-Art. 304. - Gli insegnamenti impartiti dalla scuola durante i due anni sono i seguenti:  
-1° Anno:  
-1) conservazione della natura ed economia delle risorse naturali;  
-2) fattori geomorfologici, idrografici e climatologici dell'ambiente;  
-3) floristica e tipologia ecologico-strutturale della vegetazione;  
-4) faunistica ed ecologia animale;  
-5) fattori socio-economici culturali della pianificazione territoriale;  
-6) legislazione comparata della conservazione della natura e della pianificazione ecologica territoriale.  
-2° Anno:  
-7) rilevamento fitosociologico per la pianificazione ecologica territoriale;  
-8) sistemazione e difesa del suolo; conservazione e sistemazione della copertura vegetale;  
-9) conservazione e gestione delle risorse animali;  
-10) urbanistica e pianificazione territoriale ecologica integrata.  
-Tutti i corsi comprendono anche una parte pratica di esercitazioni con escursioni.  
-In aggiunta ai corsi potranno essere tenuti seminari su argomenti di particolare interesse ed eventuali periodi di studio in altre sedi italiane o all'estero. Inoltre potranno essere variati in numero e contenuto i corsi sopra elencati tenuto conto della evoluzione degli interessi e delle conoscenze.  
-Gli esami annuali saranno sostenuti davanti a una commissione formata da tre docenti della scuola.  
-La scuola rilascia un diploma di specializzazione per ottenere il quale i candidati, dopo aver sostenuto tutti gli esami, dovranno presentare e discutere una dissertazione scritta a carattere sperimentale originale.  
-La discussione sara' sostenuta davanti ad una commissione presieduta dal direttore della scuola e composta dai titolari dei corsi. La discussione della dissertazione e' pubblica.  
-Art. 305. - Gli iscritti alla scuola di specializzazione sono tenuti a pagare le medesime tasse, soprattasse, e contributi generali stabiliti dalle vigenti disposizioni di legge per gli studenti della facolta'. L'ammontare della tassa per la preparazione della dissertazione scritta e' stabilito in L. 200.000.  
+Scuola di specializzazione in chirurgia vascolare   
+  
+Art. 267. - La scuola di specializzazione in chirurgia vascolare ha sede presso l'istituto di chirurgia vascolare e conferisce il diploma di specializzazione in chirurgia vascolare.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 268. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.   
+Il numero massimo degli allievi e' di otto per anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Art. 269. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+1) embriologia, anatomia macro e microscopica dell'apparato vascolare;   
+2) fisiopatologia dell'apparato vascolare e della coagulazione sanguigna;   
+3) anatomia patologica dell'apparato vascolare;   
+4) semeiologia fisica e strumentale delle malattie vascolari;   
+5) semeiologia radiologica delle malattie vascolari;   
+6) vasculopatie di interesse medico e specialistico.   
+2° Anno:   
+7) patologia e clinica delle malattie del sistema arterioso;   
+8) patologia e clinica delle malattie del sistema venoso;   
+9) patologia e clinica delle malattie del sistema linfatico;   
+10) patologia e clinica delle malattie dei piccoli vasi.   
+3° Anno:   
+11) nozioni di terapia medica delle malattie vascolari;   
+12) terapia chirurgica delle malattie vascolari;   
+13) chirurgia vascolare applicata a malattie dei vari organi I.   
+4° Anno:   
+14) informatica medica;   
+15) rianimazione e terapia intensiva;   
+16) patologia e clinica vascolare pediatrica I;   
+17) epidemiologia delle malattie vascolari;   
+18) elementi di legislazione sanitaria comunitaria;   
+19) chirurgia vascolare applicata a malattie dei vari organi II.   
+5° Anno:   
+20) elementi di bioingegneria applicati al circolo;   
+21) principi e tecnica di circolazione extracorporea;   
+22) terapia intensiva;   
+23) patologia e clinica vascolare pediatrica II;   
+24) tecniche chirurgiche applicate alla patologia vascolare;   
+25) chirurgia vascolare applicata a malattie dei vari organi III.   
+Art. 270. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sugli insegnamenti impartiti durante l'anno.   
+Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in chirurgia vascolare gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione e dovranno sostenere una prova clinica.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1977
+### Dato a Roma, addi' 14 marzo 1979
 
-LEONE MALFATTI
+PERTINI PEDINI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 15 luglio 1978
+Registrato alla Corte dei conti, addi' 28 luglio 1979
 
-Registro n. 75 Istruzione, foglio n. 302
+Registro n. 60 Istruzione, foglio n. 199

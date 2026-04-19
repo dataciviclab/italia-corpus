@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1956 n. 1489
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 1157
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1956 n. 1489
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 1157
+===============================================================
 
 Modificazioni allo statuto dell'Istituto universitario di magistero di Catania.
 -------------------------------------------------------------------------------
@@ -10,32 +10,75 @@ Modificazioni allo statuto dell'Istituto universitario di magistero di Catania.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Istituto universitario di magistero di Catania, approvato con [decreto del Presidente della Repubblica 18 settembre 1951, n. 1160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-09-18;1160), e modificato con [decreto del Presidente della Repubblica 25 settembre 1955, n. 957](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-25;957);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Istituto anzidetto;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Istituto universitario di magistero di Catania, approvato con [decreto del Presidente della Repubblica 18 settembre 1951, n. 1160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-09-18;1160) e modificato con [decreto del Presidente della Repubblica 25 settembre 1955, n. 957](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-25;957), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'istituto universitario anzidetto;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Istituto universitario di magistero di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 68 e' abrogato e sostituito dal seguente:  
-Art. 68. - Fino a quando tutti i posti di professore di ruolo previsti dall'organico non siano coperti da titolari di ruolo dell'Istituto, il Consiglio direttivo sara' costituito, oltre che dai professori titolari dell'Istituto medesimo, da tutti i professori universitari di ruolo che hanno attualmente incarico di insegnamento nell'Istituto universitario di magistero.  
+Lo statuto dell'Istituto universitario di magistero di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che le tabelle 2, 3, 4, 5, 6, 7 e 8 relative al personale non insegnante sono abrogate e sostituite dalle seguenti:   
+  
+TABELLA 2   
+  
+ORGANICO DELLA CARRIERA DIRETTIVA DEGLI UFFICI AMMINISTRATIVI   
+  
+Parte di provvedimento in formato grafico  
+  
+TABELLA 3   
+  
+ORGANICO DELLA CARRIERA DI CONCETTO DEL PERSONALE AMMINISTRATIVO   
+  
+Parte di provvedimento in formato grafico  
+  
+TABELLA 4   
+  
+  
+ORGANICO DELLA CARRIERA DIRETTIVA ORDINARIA   
+DEI DIRETTORI DI RAGIONERIA   
+  
+Parte di provvedimento in formato grafico  
+  
+TABELLA 5   
+  
+ORGANICO DELLA CARRIERA DI CONCETTO DEL PERSONALE DI RAGIONERIA   
+  
+Parte di provvedimento in formato grafico  
+  
+TABELLA 6   
+  
+ORGANICO DELLA CARRIERA ESECUTIVA   
+  
+Parte di provvedimento in formato grafico  
+  
+TABELLA 7   
+  
+ORGANICO DEL PERSONALE AUSILIARIO   
+  
+Parte di provvedimento in formato grafico  
+  
+TABELLA 8   
+  
+ORGANICO DEL PERSONALE DI BIBLIOTECA   
+  
+Parte di provvedimento in formato grafico  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto
+------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 settembre 1956
+### nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-GRONCHI ROSSI
+Dato a Roma, addi' 2 ottobre 1972 LEONE SCALFARO
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 8 gennaio 1957
+Registrato alla Corte dei conti, addi' 5 maggio 1973
 
-Atti del Governo, registro n. 103, foglio n. 9. - CARLOMAGNO
+Atti di Governo, registro n. 258, foglio n. 9 - VALENTINI

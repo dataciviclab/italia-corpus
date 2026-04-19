@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 959
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1976 n. 38
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 959
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1976 n. 38
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-959. Decreto del Presidente della Repubblica 31 dicembre 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 20.000.000, disposto dal sig. Bolchi Antonio, con testamento olografo del 29 dicembre 1981, pubblicato in data 8 febbraio 1982, n. 24492 di repertorio, a rogito dott. Luigi Augusto Miserocchi, notaio in Milano registrato a Milano, in data 10 febbraio 1982 al n. 03802.   
+38. Decreto del Presidente della Repubblica 23 gennaio 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla signora Benussi-Bossi Cecchina, con testamenti olografi 20 giugno 1965 e 30 novembre 1970, pubblicati a rogito del dott. Alberto Gallizia, notaio in Milano, in data 19 giugno 1973, n. 10196/1806 di repertorio e registrati a Milano il 5 luglio 1973 con il n. 12577, serie D, consistente nella somma di L. 1.500.000.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 10 marzo 1986   
-Registro n. 2 Presidenza, foglio n. 381
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 3 marzo 1976  
+Atti di Governo, registro n. 3, foglio n. 56

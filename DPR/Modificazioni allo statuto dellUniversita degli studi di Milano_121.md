@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1980 n. 656
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1980 n. 833
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1980 n. 656
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1980 n. 833
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -22,119 +22,49 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' degli studi di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla
------
+Sulla proposta del Ministro della pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopracitati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-  
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-Dopo l'art. 287 si inseriscono, con il conseguente spostamento della numerazione degli articoli successivi, le norme relative all'ordinamento degli studi della scuola di specializzazione in tossicologia ed in endocrinologia sperimentale che si istituiscono presso la facolta' di farmacia.   
-  
-Scuola di specializzazione in tossicologia   
-  
-Art. 288 - Durata. - La scuola rilascia il diploma di specializzazione in tossicologia al termine del corso di studi di durata triennale.   
-Durante il terzo anno di corso la scuola prevede lo svolgimento di una tesi sperimentale.   
-Art. 289 - Iscritti. - Alla scuola di specializzazione sono ammessi i laureati in chimica e tecnologia farmaceutiche, farmacia, chimica, scienze biologiche, scienze naturali, scienza delle preparazioni alimentari, medicina e chirurgia, medicina veterinaria, scienze agrarie, scienze della produzione animale.   
-Art. 290 - Insegnamenti. - Gli insegnamenti della scuola sono i seguenti:   
-1° Anno:   
-biologia molecolare;   
-biologia e farmacologia cellulare;   
-immunologia e immunochimica;   
-biometria e statistica;   
-microbiologia ed igiene;   
-farmacologia e farmacognosia I;   
-tossicologia sperimentale I;   
-anatomia e istopatologia degli stati tossici;   
-cancerogenesi, mutagenesi e teratogenesi I.   
-2° Anno:   
-metodiche analitiche chimico-fisiche;   
-disegno degli esperimenti;   
-epidemiologia;   
-farmacologia e farmacognosia II;   
-cinetica e metabolismo in tossicologia;   
-patologia comparata;   
-cancerogenesi, mutagenesi e teratogenesi II;   
-tossicologia sperimentale II;   
-tossicologia dell'ambiente e misure di prevenzione.   
-3° Anno:   
-tossicologia sperimentale III;   
-tossicologia nutrizionale;   
-tossicologia da abuso di farmaci;   
-legislazione;   
-organizzazione di laboratori e centri di tossicologia.   
-Art. 291 - Organi. - La scuola e' organizzata dalla facolta' di farmacia dell'Universita' di Milano presso i propri laboratori. I corsi teorici e pratici sono integrati da conferenze, seminari e dimostrazioni svolte con la collaborazione di studiosi e esperti. Il consiglio direttivo della scuola e' formato dai titolari delle cattedre di farmacologia e farmacognosia, chimica farmaceutica, saggi e dosaggi farmacologici, tossicologia e complementi di chimica tossicologica.   
-La direzione della scuola e' affidata ad un professore di ruolo o fuori ruolo eletto nel proprio seno dal consiglio direttivo per la durata di tre anni. Il direttore della scuola e' nominato dal rettore. Il direttore ed i membri del consiglio sono rieleggibili. In caso di decadenza il nuovo membro resta in carica fino alla scadenza del mandato triennale.   
-Art. 292 - Incarichi. - Gli incarichi di insegnamento, anche per un limitato numero di lezioni o esercitazioni, sono conferiti dal rettore su proposta del consiglio direttivo della scuola con l'approvazione del senato accademico e del consiglio di amministrazione.   
-Art. 293 - Tasse. - Le tasse e soprattasse per l'iscrizione alla scuola sono quelle stabilite per la facolta' di farmacia.   
-I contributi a carico degli iscritti dovranno essere fissati annualmente dal consiglio di amministrazione su proposta del consiglio della scuola e verranno resi noti ogni anno con apposito manifesto.   
-Art. 294 - Ammissione e frequenza. - Il numero massimo di iscritti alla scuola e' di venti per ogni anno di corso.   
-L'ammissione alla scuola e' decisa dal consiglio direttivo sulla base di una valutazione dei titoli per esami.   
-La frequenza e' obbligatoria sia per i corsi, sia per i laboratori.  
-Art. 295 - Finanziamenti. - La scuola e' finanziata con le quote di iscrizione ed attraverso contributi, lasciti e donazioni di enti e di privati.   
-  
-Scuola di specializzazione in endocrinologia sperimentale   
-  
-Art. 296. - La scuola di specializzazione in endocrinologia sperimentale ha l'intento di assicurare a laureati in diverse discipline biologiche la possibilita' di perfezionarsi nelle materie necessarie ad esercitare la loro attivita' in numerosi ambienti di ricerca e di lavoro che richiedono competenze specifiche in campo endocrinologico.   
-Art. 297. - La scuola rilascia il diploma di specializzazione in endocrinologia sperimentale al termine del corso di studi che ha la durata triennale.   
-Art. 298. - Alla scuola di specializzazione sono ammessi i laureati in farmacia, chimica e tecnologia farmaceutiche, in medicina veterinaria, in scienze della produzione animale, in scienze naturali, in scienze biologiche, in scienze delle preparazioni alimentari, in chimica e in medicina e chirurgia.   
-L'ammissione alla scuola e' condizionata al superamento dell'esame di fisiologia generale e fisiologia della nutrizione animale e di fisiologia umana, ove uno di questi non sia stato superato nel corso degli studi universitari.   
-Art. 299. - Gli insegnamenti della scuola sono i seguenti:   
-1° Anno:   
-embriologia, anatomia ed istologia del sistema endocrino;   
-genetica;   
-biometria e statistica;   
-biochimica degli ormoni I;   
-fisiologia del sistema endocrino I;   
-metodologie sperimentali in endocrinologia.   
-2° Anno:   
-biochimica degli ormoni II;   
-regolazione endocrina dei processi metabolici;   
-fisiologia del sistema endocrino II;   
-biologia e fisiologia dei processi riproduttivi;   
-endocrinologia comparata;   
-tecniche per le valutazioni ormonali;   
-farmacologia del sistema endocrino I.   
-3° Anno:   
-neuroendocrinologia;   
-patologia endocrina;   
-patologia dei processi riproduttivi;   
-farmacologia del sistema endocrino II;   
-endocrinologia e nutrizione.   
-Gli insegnamenti comprendono lezioni teoriche ed esercitazioni pratiche.   
-Art. 300. - La scuola e' organizzata dalla facolta' di farmacia dell'Universita' di Milano.   
-Potranno essere invitati a tenere lezioni, conferenze, seminari ed esercitazioni, docenti di altre facolta' o universita', od esperti, anche dall'estero.   
-La direzione della scuola e' affidata ad un professore ordinario di ruolo o fuori ruolo eletto dal consiglio direttivo costituito da cinque docenti nominati dal consiglio di facolta', per la durata di tre anni, scelti fra i docenti di discipline biologiche (3) o chimico-farmaceutiche (2).   
-Il direttore della scuola e' nominato dal rettore.   
-Il direttore ed i membri del consiglio sono rieleggibili.   
-In caso di decadenza, il nuovo membro resta in carica fino alla scadenza del mandato triennale.   
-Art. 301. - Gli incarichi di insegnamento, anche per un limitato numero di lezioni o esercitazioni, sono conferiti dal rettore su proposta del consiglio direttivo della scuola con l'approvazione del senato accademico e del consiglio di amministrazione dell'Universita'.   
-Le tasse e soprattasse per l'iscrizione alla scuola sono quelle stabilite per la facolta' di farmacia.   
-I contributi a carico degli iscritti dovranno essere fissati annualmente dal consiglio di amministrazione su proposta del consiglio della scuola e verranno resi noti ogni anno con apposito manifesto.   
-Art. 302. - Il numero massimo di iscritti alla scuola e' di quindici per ogni anno di corso.   
-L'ammissione alla scuola e' decisa dal consiglio direttivo sulla base di un concorso per esami e per titoli.   
-La frequenza e' obbligatoria sia per le lezioni che per le esercitazioni.   
-Art. 303. - La scuola e' finanziata con le quote di iscrizioni e attraverso contributi, lasciati o donazioni di enti privati.   
+Nell'art. 89, relativo all'elenco delle scuole annesse alla facolta' di lettere e filosofia, la scuola di perfezionamento in storia dell'arte antica, medioevale e moderna cambia la denominazione in quella di scuola di perfezionamento in archeologia e storia dell'arte antica e in storia dell'arte medioevale e moderna.  
+Scuola di perfezionamento in archeologia e storia dell'arte antica e in storia dell'arte medioevale e moderna.  
+Nell'art. 106 e' soppressa la frase incidentale: "nell'ambito delle discipline costitutive".  
+Gli articoli 107, 108 e 109 sono cosi' sostituiti:  
+Art. 107. - La scuola e' della durata di due anni e si articola in due indirizzi:  
+a) archeologia e storia dell'arte antica;  
+b) storia dell'arte medioevale e moderna.  
+All'indirizzo di archeologia e storia dell'arte antica sono ammessi direttamente i laureati con tesi in archeologia e i laureati in lettere che, a giudizio della direzione della scuola, abbiano sostenuto, durante il corso universitario, sufficienti esami di materie archeologiche.  
+All'indirizzo di storia dell'arte medioevale e moderna sono ammessi direttamente i laureati con tesi in discipline storico-artistiche e i laureati in lettere che, a giudizio della direzione della scuola, abbiano sostenuto, durante il corso universitario, sufficienti esami di materie storico-artistiche.  
+I laureati di altri indirizzi e facolta' possono essere ammessi alla scuola sostenendo con esito positivo una prova scritta che documenti la loro specifica preparazione nelle discipline archeologiche e storico-artistiche.  
+Art. 108. - I candidati dovranno indicare, all'atto dell'iscrizione, l'indirizzo che intendono seguire per il perfezionamento.  
+Art. 109. - Per ognuno dei due anni lo studente deve ottenere la firma di iscrizione e frequenza di almeno tre corsi e sostenere i relativi esami.  
+Per l'indirizzo archeologico sono obbligatori gli esami di archeologia e storia dell'arte greca e romana e di etruscologia (uno dei quali biennale), e l'esame di storia dell'arte medioevale e moderna; gli altri due esami devono essere concordati con i docenti.  
+Per l'indirizzo storico-artistico sono obbligatori gli esami di storia dell'arte medioevale e moderna e di critica d'arte (uno dei quali biennale), e l'esame di archeologia e storia dell'arte greca e romana; gli altri esami devono essere concordati con i docenti.  
+I sei esami del biennio, obbligatori e concordati, devono essere inseriti nel piano di studio compilato all'inizio del corso e approvato dal direttore della scuola.  
+Per essere ammesso all'esame di diploma l'iscritto alla scuola, oltre ad aver seguito i corsi e superato gli esami sopra indicati, dovra' dimostrare di conoscere, ai fini di una corrente lettura e traduzione dei testi, almeno due lingue straniere.  
+L'esame di diploma consiste nella discussione di una dissertazione scritta intorno ad un tema prescelto nell'ambito delle discipline della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 giugno 1980
+### Dato a Roma, addi' 10 settembre 1980
 
 PERTINI SARTI
 
 Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 8 ottobre 1980
+Registrato alla Corte dei conti, addi' 26 novembre 1980
 
-Registro n. 92 Istruzione, foglio n. 142
+Registro n. 111 Istruzione, foglio n. 310

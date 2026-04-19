@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 1158
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 1142
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 1158
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 1142
+=================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -33,29 +33,46 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' di Bologna, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-  
-Nell'art. 128, relativo all'elenco degli insegnamenti complementari del corso di laurea in chimica industriale, sono aggiunti i seguenti nuovi insegnamenti:   
-metodi fisici in chimica organica;   
-sintesi speciali organiche;   
-chimica dei composti eterociclici;   
-complementi di chimica organica.   
+Nell'art. 97, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+terapia pediatrica sistematica;  
+terapia neurologica;  
+radiobiologia;  
+ottica fisiologica;  
+patologia speciale neurologica;  
+patologia neonatale;  
+malattie metaboliche del bambino;  
+gastroenterologia pediatrica;  
+ematologia pediatrica;  
+cardiologia pediatrica;  
+biochimica sistematica umana;  
+biochimica generale;  
+terapia intensiva;  
+anestesia sperimentale;  
+enzimologia;  
+igiene degli alimenti;  
+neuropsichiatria geriatrica;  
+semeiotica neurologica;  
+genetica molecolare;  
+neurocitologia;  
+nefrologia pediatrica;  
+immunologia clinica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 marzo 1983
+### Dato a Selva di Val Gardena, addi' 2 settembre 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 4 aprile 1984
+Registrato alla Corte dei conti, addi' 22 marzo 1984
 
-Registro n. 21 Istruzione, foglio n. 200
+Registro n. 17 Istruzione, foglio n. 347

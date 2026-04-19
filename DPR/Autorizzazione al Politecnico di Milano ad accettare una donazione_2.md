@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1949 n. 202
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1948 n. 646
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1949 n. 202
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1948 n. 646
 ============================================================
 
 Autorizzazione al Politecnico di Milano ad accettare una donazione.
@@ -12,7 +12,8 @@ Art. 1
 
 N.
 
-202. Decreto del Presidente della Repubblica 28 marzo 1949, col quale, sulla proposta del Ministro per la pubblica, istruzione, il Politecnico di Milano viene autorizzato ad accettare la donazione della somma di L. 450.000 nominali, in buoni del Tesoro 5% a premio, disposta in suo favore con atto pubblico in data 1 giugno 1948 dall'avv. Corrado Franzi, in proprio, e dal dott. "Guido Celli, quale rappresentante del Comitato costituitosi presso la Banca commerciale di Milano per le onoranze al compianto studente Luigi Franzi, del quarto corso della Facolta' di ingegneria del Politecnico medesimo, allo scopo di istituire, con la somma donata, aumentata della relativa rendita di un quinquennio per cinque anni, una borsa di studio di L. 100.000 intitolata al nome di "Luigi Franzi".  
+646. Decreto del Presidente della Repubblica 10 marzo 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, il Politecnico di Milano viene autorizzato ad accettare la donazione della somma di L. 50.000 nominali, in buoni del Tesoro quinquennali a premio 5%, disposta in suo favore dalla signora Maria Ricciardi ved. Moschettini, con atto pubblico in data 9 luglio 1947, per l'istituzione di un premio di studio da intitolarsi "Premio ing.  
+Francesco Moschettini" e da conferirsi, ogni due anni, allo studente del terzo corso di ingegneria industriale, che nel biennio abbia superato col miglior profitto l'esame di elettrotecnica.  
   
 Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 2 maggio 1949
+Registrato alla Corte dei conti, addi' 3 maggio 1948

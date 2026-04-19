@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1070
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 febbraio 1968 n. 554
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1070
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 febbraio 1968 n. 554
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
@@ -10,13 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
@@ -30,153 +32,223 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 138. - All'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola in "Nefrologia medica".
+Art. 22. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio e' aggiunto quello di "economia di mercato dei prodotti agricoli".
 
-Dopo l'art. 254 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in nefrologia medica.
+Art. 38. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:
 
-Scuola di specializzazione in nefrologia medica
+Storia delle istituzioni giuridiche italiane;
 
-Art. 255. - E' istituita la scuola di specializzazione in nefrologia medica che ha sede presso l'istituto di patologia speciale medica della facolta' di medicina e chirurgia.
+Filosofia;
 
-Alla scuola, che ha la durata di tre anni, sono ammessi i laureati in medicina e chirurgia.
+Filologia italiana;
 
-Il numero massimo complessivo degli iscritti per i tre anni di corso e' di ventidue.
+Letteratura latina medioevale;
 
-Art. 256. - Nel caso che le domande eccedano il numero previsto per gli iscritti alla scuola, la selezione verra' fatta mediante concorso da parte di una commissione presieduta dal direttore della scuola (graduatoria per titoli ed esami).
+Letteratura cristiana antica;
 
-Qualora un aspirante, sufficientemente fornito di titoli attinenti alle materie della scuola, chieda abbreviazione di corso, dovra' presentare motivata istanza al rettore.
+Linguistica;
 
-Art. 257. - La direzione della scuola sara' affidata dalla facolta' di medicina al direttore di clinica o di istituto che sia un noto cultore di nefrologia medica e che continui a dedicarsi ad essa insieme con i suoi collaboratori.
+Storia contemporanea;
 
-Art. 258. - Gli iscritti alla scuola avranno l'obbligo di frequentare le lezioni, le esercitazioni, le visite di istruzione e le eventuali conferenze; in caso contrario, non potranno avere l'attestato di frequenza necessario per essere ammessi a sostenere le prove di esame.
+Storia delle dottrine politiche;
 
-Art. 259. - Al termine di ogni anno accademico, l'allievo della scuola di specializzazione dovra' sostenere un esame di profitto che comprenda il gruppo delle materie in programma; ove non sia superato tale esame, il candidato non potra' essere ammesso al corso successivo.
+Storia dei partiti politici;
 
-Art. 260. - L'esame di diploma si svolgera' con le norme generali previste dall'art. 154 del presente statuto.
+Storia della Chiesa;
 
-Al termine del corso di studi, verra' conseguito il diploma di specialista in "Nefrologia medica".
+Storia del cristianesimo;
 
-Art. 261. - Gli insegnamenti impartiti saranno i seguenti:
+Geografia storica del mondo antico;
 
-1° Anno:
+Topografia dell'Italia antica;
 
-Struttura ed ultrastruttura normale del rene;
+Ebraico e lingue semitiche comparate o filologia semitica;
 
-Aspetti biochimici della funzione renale;
+Storia delle arti grafiche;
 
-Fisiologia renale;
+Storia dell'architettura e dell'urbanistica;
 
-Semeiologia renale (fisica, radiologica, funzionale);
+Storia della teoria musicale.
 
-Microbiologia, ed immunologia applicate alla nefrologia;
+Art. 39. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti quelli di:
 
-Struttura ed ultrastruttura patologica del rene.
+Civilta' greca;
 
-2° Anno:
+Etnografia;
 
-Patologia del ricambio idro-salino;
+Geografia;
 
-Insufficienza renale acuta e cronica;
+Letteratura cristiana antica;
 
-Nefropatie glomerulari;
+Storia contemporanea;
 
-Nefropatie tubulari;
+Storia delle dottrine politiche;
 
-Farmacologia d'interesse nefrologico;
+Storia dei partiti politici;
 
-Terapia dietetica e dialitica (1° anno):
+Storia della Chiesa;
 
-3° Anno:
+Storia del cristianesimo;
 
-Nefropatie interstiziali;
+Filosofia della storia;
 
-Nefropatie vascolari;
+Filosofia della religione;
 
-Nefropatie malformative neoplastiche;
+Filosofia morale;
 
-Terapia dietetica e dialitica (2° anno);
+Logica;
 
-Terapia generale delle nefropatie (antibiotica, antireattiva, sintomatica).
+Storia della filosofia moderna e contemporanea;
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Storia della pedagogia;
 
-Dato a Roma, addi' 31 ottobre 1969
+Storia della teoria musicale.
+
+Art. 40. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:
+
+21) Storia della grammatica e della lingua italiana;
+
+22) Grammatica latina;
+
+23) Linguistica;
+
+24) Letteratura ispano-americana.
+
+Art. 101. - All'elenco degli insegnamenti complementari del corso di laurea in medicina veterinaria sono aggiunti quelli di:
+
+19) Virologia;
+
+20) Microbiologia degli alimenti;
+
+21) Legislazione veterinaria;
+
+22) Tecnologia delle conserve di carne;
+
+23) Istologia ed embriologia;
+
+24) Scienza della riproduzione animale e tecnica della fecondazione artificiale;
+
+25) Scienza dell'alimentazione e tecnologia di preparazione dei mangimi;
+
+26) Patologia aviare;
+
+27) Igiene dei prodotti della pesca;
+
+28) Metodologia statistica e biometria;
+
+29) Anestesiologia e tecnica operativa;
+
+30) Scienza delle produzioni avicole.
+
+Nello stesso corso di laurea gli insegnamenti complementari di: podologia, apibachicoltura, aviconiglicoltura sono soppressi.
+
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 28 febbraio 1968
 
 SARAGAT
 
-FERRARI AGGRADI
+GUI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 15 gennaio 1970 Atti del Governo, registro n. 231, foglio n. 29. - CARUSO
+alla Corte dei conti, addi' 22 aprile 1968 Atti del Governo, registro n. 219, foglio n. 20. - GRECO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 138. - All'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola in "Nefrologia medica".   
-Dopo l'art. 254 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in nefrologia medica.   
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 22. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio e' aggiunto quello di "economia di mercato dei prodotti agricoli".  
+Art. 38. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:  
   
-Scuola di specializzazione in nefrologia medica   
+Storia delle istituzioni giuridiche italiane;  
+Filosofia;  
+Filologia italiana;  
+Letteratura latina medioevale;  
+Letteratura cristiana antica;  
+Linguistica;  
+Storia contemporanea;  
+Storia delle dottrine politiche;  
+Storia dei partiti politici;  
+Storia della Chiesa;  
+Storia del cristianesimo;  
+Geografia storica del mondo antico;  
+Topografia dell'Italia antica;  
+Ebraico e lingue semitiche comparate o filologia semitica;  
+Storia delle arti grafiche;  
+Storia dell'architettura e dell'urbanistica;  
+Storia della teoria musicale.  
   
-Art. 255. - E' istituita la scuola di specializzazione in nefrologia medica che ha sede presso l'istituto di patologia speciale medica della facolta' di medicina e chirurgia.   
-Alla scuola, che ha la durata di tre anni, sono ammessi i laureati in medicina e chirurgia.   
-Il numero massimo complessivo degli iscritti per i tre anni di corso e' di ventidue.   
-Art. 256. - Nel caso che le domande eccedano il numero previsto per gli iscritti alla scuola, la selezione verra' fatta mediante concorso da parte di una commissione presieduta dal direttore della scuola (graduatoria per titoli ed esami).   
-Qualora un aspirante, sufficientemente fornito di titoli attinenti alle materie della scuola, chieda abbreviazione di corso, dovra' presentare motivata istanza al rettore.   
-Art. 257. - La direzione della scuola sara' affidata dalla facolta' di medicina al direttore di clinica o di istituto che sia un noto cultore di nefrologia medica e che continui a dedicarsi ad essa insieme con i suoi collaboratori.   
-Art. 258. - Gli iscritti alla scuola avranno l'obbligo di frequentare le lezioni, le esercitazioni, le visite di istruzione e le eventuali conferenze; in caso contrario, non potranno avere l'attestato di frequenza necessario per essere ammessi a sostenere le prove di esame.   
-Art. 259. - Al termine di ogni anno accademico, l'allievo della scuola di specializzazione dovra' sostenere un esame di profitto che comprenda il gruppo delle materie in programma; ove non sia superato tale esame, il candidato non potra' essere ammesso al corso successivo.   
-Art. 260. - L'esame di diploma si svolgera' con le norme generali previste dall'art. 154 del presente statuto.   
-Al termine del corso di studi, verra' conseguito il diploma di specialista in "Nefrologia medica".   
-Art. 261. - Gli insegnamenti impartiti saranno i seguenti:   
-1° Anno:   
-Struttura ed ultrastruttura normale del rene;   
-Aspetti biochimici della funzione renale;   
-Fisiologia renale;   
-Semeiologia renale (fisica, radiologica, funzionale);   
-Microbiologia, ed immunologia applicate alla nefrologia;   
-Struttura ed ultrastruttura patologica del rene.   
-2° Anno:   
-Patologia del ricambio idro-salino;   
-Insufficienza renale acuta e cronica;   
-Nefropatie glomerulari;   
-Nefropatie tubulari;   
-Farmacologia d'interesse nefrologico;   
-Terapia dietetica e dialitica (1° anno):   
-3° Anno:   
-Nefropatie interstiziali;   
-Nefropatie vascolari;   
-Nefropatie malformative neoplastiche;   
-Terapia dietetica e dialitica (2° anno);   
-Terapia generale delle nefropatie (antibiotica, antireattiva, sintomatica).   
+Art. 39. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti quelli di:  
+  
+Civilta' greca;  
+Etnografia;  
+Geografia;  
+Letteratura cristiana antica;  
+Storia contemporanea;  
+Storia delle dottrine politiche;  
+Storia dei partiti politici;  
+Storia della Chiesa;  
+Storia del cristianesimo;  
+Filosofia della storia;  
+Filosofia della religione;  
+Filosofia morale;  
+Logica;  
+Storia della filosofia moderna e contemporanea;  
+Storia della pedagogia;  
+Storia della teoria musicale.  
+  
+Art. 40. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:  
+  
+21) Storia della grammatica e della lingua italiana;  
+22) Grammatica latina;  
+23) Linguistica;  
+24) Letteratura ispano-americana.  
+  
+Art. 101. - All'elenco degli insegnamenti complementari del corso di laurea in medicina veterinaria sono aggiunti quelli di:  
+  
+19) Virologia;  
+20) Microbiologia degli alimenti;  
+21) Legislazione veterinaria;  
+22) Tecnologia delle conserve di carne;  
+23) Istologia ed embriologia;  
+24) Scienza della riproduzione animale e tecnica della fecondazione artificiale;  
+25) Scienza dell'alimentazione e tecnologia di preparazione dei mangimi;  
+26) Patologia aviare;  
+27) Igiene dei prodotti della pesca;  
+28) Metodologia statistica e biometria;  
+29) Anestesiologia e tecnica operativa;  
+30) Scienza delle produzioni avicole.  
+  
+Nello stesso corso di laurea gli insegnamenti complementari di: podologia, apibachicoltura, aviconiglicoltura sono soppressi.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1969
+### Dato a Roma, addi' 28 febbraio 1968
 
-SARAGAT FERRARI AGGRADI
+SARAGAT GUI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 15 gennaio 1970
+Registrato alla Corte dei conti, addi' 22 aprile 1968
 
-Atti del Governo, registro n. 231, foglio n. 29. - CARUSO
+Atti del Governo, registro n. 219, foglio n. 20. - GRECO

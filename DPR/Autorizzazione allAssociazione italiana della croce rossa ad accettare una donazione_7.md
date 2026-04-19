@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 dicembre 1970 n. 1444
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1971 n. 1278
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 dicembre 1970 n. 1444
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1971 n. 1278
+===============================================================
 
 Autorizzazione all'Associazione italiana della croce rossa ad accettare una donazione.
 --------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1444. Decreto del Presidente della Repubblica 12 dicembre 1970, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa viene autorizzata ad accettare la donazione disposta dal sig. Landi Carlo con atto pubblico 8 febbraio 1966, n. 10304 di repertorio, a rogito notaio Guido Rogantini in Firenze, costituita da un appezzamento di terreno sito in comune di Greve (Firenze), della superficie di mq. 111, del periziato valore di L. 277.000 distinto al nuovo catasto terreni dello stesso comune nel foglio n. 26 del mappale subalterno provvisorio b, da destinarsi alla costruzione di un garage per le autoambulanze ed alla sede dell'Associazione della croce rossa in Strada in Chianti.  
+1278. Decreto del Presidente della Repubblica 20 ottobre 1971, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa viene autorizzata ad accettare la donazione disposta a favore della dipendente delegazione di Marischio in Fabriano (Ancona) dai signori Andreoli Giuseppe, Duilia e Luigia con atto pubblico del 10 luglio 1969, n. 7828 di repertorio, a rogito notar Enrico Falsini in Fabriano; detta donazione e' costituita da un appezzamento di terreno, della superficie di mq. 360, sito in Fabriano (Ancona), distinto al catasto terreni del predetto comune alla sezione U, foglio V, n. 281-b, confinante con il terreno di proprieta' dell'associazione sul quale insiste l'immobile riattivato a colonia elioterapica.  
   
 Visto, il Guardasigilli: COLOMBO  
-Registrato alla Corte dei conti, addi' 22 aprile 1971  
-Atti del Governo, registro n. 241, foglio n. 157. - VALENTINI
+Registrato alla Corte dei conti, addi' 26 gennaio 1972  
+Atti del Governo, registro n. 246, foglio n. 40. - VALENTINI

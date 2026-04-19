@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 164
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1975 n. 578
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 164
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1975 n. 578
+================================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -10,10 +10,11 @@ Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad ac
 Art. 1
 ------
 
-n.
+N.
 
-164. Decreto del Presidente della Repubblica 10 febbraio 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 20.000.000, disposto dalla sig.ra Carugati Margherita con testamento olografo 6 luglio 1971, pubblicato in data 13 gennaio 1984, n. 8303/700 di repertorio, a rogito dott. Antonio Tremolada, notaio in Milano, registrato a Milano in data 19 gennaio 1984 al n. 00808.  
+578. Decreto del Presidente della Repubblica 24 settembre 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare un legato, consistente in titoli azionari del valore presunto di L. 36.096.873, disposto dal sig.  
+Mario Bianchi con testamento pubblico 10 giugno 1972, registrato in data 28 giugno 1972, n. 55338 di repertorio, n. 5378 di raccolta, a rogito dott. Riccardo Morganti, notaio in Luino (Varese), registrato a Luino il 28 giugno 1972 al n. 404, vol. 725.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 22 aprile 1986  
-Registro n. 4 Presidenza, foglio n. 49
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 26 novembre 1975  
+Atti di Governo, registro n. 14, foglio n. 60

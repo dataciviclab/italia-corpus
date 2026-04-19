@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1985 n. 812
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 559
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1985 n. 812
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 559
+=============================================================
 
 Autorizzazione all'Associazione italiana "Amici di Raoul Follereau", in Bologna, ad accettare un legato.
 --------------------------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione all'Associazione italiana "Amici di Raoul Follereau", in Bologna,
 Art. 1
 ------
 
-N.
+n.
 
-812. Decreto del Presidente della Repubblica 30 ottobre 1985, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana "Amici di Raoul Follereau", in Bologna, viene autorizzata ad accettare il legato, consistente in un appartamento sito in Rimini, via Garibaldi n. 24/26, del periziato valore di L. 180.000.000 (nota U.T.E. di Forli' n. 8328/3678 del 17 ottobre 1983) da utilizzare per il perseguimento dei fini istituzionali, disposto dalla sig.ra Lucia Genestreti con testamento olografo 4 aprile 1971, pubblicato in data 5 novembre 1982, n. 159757 di repertorio, a rogito dott. Alberto Ricci, notaio in Rimini, registrato a Rimini in data 23 novembre 1982 al n. 5315.   
+559. Decreto del Presidente della Repubblica 19 luglio 1986, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana "Amici di Raoul Follereau", in Bologna, viene autorizzata ad accettare il legato, consistente nel contenuto del conto corrente postale n. 11657715 di L. 9.325.320, che sara' utilizzato dall'Associazione stessa per il perseguimento delle proprie finalita', disposto dal sac. Mario Cornelio Izzo con testamento pubblico 5 gennaio 1984, registrato in data 6 febbraio 1984, n. 4804 di repertorio, a rogito dott. Luciano Mattia Follieri, notaio in Apricena (Foggia), registrato a S. Severo (Foggia) in data 8 febbraio 1984 al n. 921.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 23 dicembre 1985   
-Registro n. 10 Sanita', foglio n. 303
+Visto, il Guardasigilli: ROGNONI  
+Registrato alla Corte dei conti, addi' 10 settembre 1986  
+Registro n. 9 Sanita', foglio n. 99

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 maggio 1948 n. 954
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1948 n. 1530
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 maggio 1948 n. 954
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1948 n. 1530
+=================================================================
 
 Autorizzazione all'Universita' di Padova ad accettare una donazione.
 --------------------------------------------------------------------
@@ -12,7 +12,7 @@ Art. 1
 
 N.
 
-954. Decreto del Presidente della Repubblica 5 maggio 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Padova viene autorizzata ad accettare la donazione della somma di L. 44.766, disposta in suo favore dal signor Giuseppe Gaddi, a nome della Federazione di Padova del Partito Comunista, con atto pubblico in data 18 maggio 1947, per l'istituzione di un premio di laurea da intitolarsi al nome del "Dott. Flavio Busonera", e da conferirsi, ogni biennio, ad un figlio di medico con- dotto che sia iscritto alla scuola di specializzazione in clinica pediatrica dell'Universita' di Padova ed abbia conseguito la migliore votazione di laurea.  
+1530. Decreto del Presidente della Repubblica 14 settembre 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Padova, viene autorizzata ad accettare la donazione della somma di L. 250.000, disposta in suo favore, con atto pubblico in data 29 novembre 1947, dal Direttorio della cassa scolastica, dalla vedova signora Liberta' Dall'Arli, dai colleghi, amici e discepoli del defunto prof. Annibale Comessatti, per l'istituzione di un premio di studio triennale da intitolarsi al nome del "Prof. Annibale Comessatti" e da conferirsi, in seguito a concorso nazionale, ad un laureato che, nel quinquennio successivo alla sua laurea, presenti il miglior gruppo di lavori nel campo della geometria, con preferenza alla geometria algebrica.  
   
 Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 28 giugno 1948
+Registrato alla Corte dei conti, addi' 27 dicembre 1948

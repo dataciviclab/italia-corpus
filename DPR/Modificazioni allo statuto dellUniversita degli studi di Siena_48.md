@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 ottobre 1977 n. 887
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1972 n. 965
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 ottobre 1977 n. 887
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1972 n. 965
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Siena.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,9 +18,11 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni dagli organi accademici dell'Universita' di Siena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -30,444 +32,285 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli 148, 149 e 150, relativi alla scuola di specializzazione in malattie dell'apparato cardiovascolare che muta la denominazione in quella di scuola di specializzazione in cardiologia, sono abrogati e sostituiti dai seguenti:
+Art. 46. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:
 
-Scuola di specializzazione in cardiologia
+Storia dell'arte bizantina e dell'Europa orientale;
 
-Art. 148. - La scuola di specializzazione in cardiologia ha sede presso la clinica medica generale e terapia medica e conferisce il diploma di specialista in cardiologia.
+Storia dell'arte dell'Europa settentrionale (Fiandre, Olanda, Francia, Germania e paesi danubiani);
 
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+Storia dell'arte della penisola iberica;
 
-Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+Storia dell'architettura;.
 
-La durata del corso di studi e' di quattro anni e non suscettibile di abbreviazioni di corso.
+Archeologia medioevale;
 
-Il numero massimo degli allievi e' di diciannove al primo anno di corso.
+Storia della tradizione classica nell'arte europea;
 
-L'ammissione al corso avviene per esami.
+Sociologia dell'arte;
 
-Art. 149. - Le materie di insegnamento sono le seguenti:
+Etnomusicologia;
 
-1° Anno:
+Musicologia comparata;
 
-1) anatomia umana normale ed embriologia dello apparato cardiovascolare;
+Paleografia musicale;
 
-2) fisiologia dell'apparato cardiovascolare I;
+Storia della critica musicale;
 
-3) biochimica e biofisica;
+Storia dello spettacolo;
 
-4) semeiotica fisica e strumentale dell'apparato cardiovascolare I;
+Storia contemporanea;
 
-5) informatica medica e strumentazione biomedica I.
+Storia del mondo islamico;
 
-2° Anno:
+Storia dei paesi afro-asiatici;
 
-1) anatomia patologica I;
+Storia dell'agricoltura;
 
-2) fisiologia dell'apparato cardiovascolare II;
+Storia delle istituzioni politiche;
 
-3) patologia e clinica cardiovascolare I;
+Sociologia.
 
-4) semeiotica fisica e strumentale dell'apparato cardiovascolare II;
+Art. 48. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:
 
-5) informatica medica e strumentazione biomedica II;
+Storia della pedagogia;
 
-6) radiologia I;
+Tecnologie educative e didattiche;
 
-7) aspetti sociali ed epidemiologici delle malattie cardiovascolari.
+Psicologia dell'eta' evolutiva;
 
-3° Anno:
+Art. 78. - All'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologie farmaceutiche sono aggiunti i seguenti:
 
-1) anatomia patologica II;
+Chimica dei composti eterociclici;
 
-2) semeiotica fisica e strumentale dell'apparato cardiovascolare III;
+Chimica analitica clinica;
 
-3) patologia e clinica cardiovascolare II;
+Elementi di fisiopatologia;
 
-4) radiologia II;
+Impianti per laboratori galenici;
 
-5) terapia medica e farmacologia clinica I.
+Zoologia e parassitologia;
 
-4° Anno:
+Calcoli statistici applicati alla biologia;
 
-1) semeiotica fisica e strumentale dell'apparato cardiovascolare IV;
+Farmacologia molecolare;
 
-2) patologia e clinica cardiovascolare III;
+Farmacologia applicata.
 
-3) terapia medica e farmacologia clinica II;
+Gli articoli da 96 a 109 relativi alla scuola per l'assistenza sociale sono abrogati e sostituiti dai seguenti:
 
-4) terapia chirurgica;
+Art. 96. - Nella facolta' di giurisprudenza con corso di laurea in scienze politiche dell'Universita' di Siena e' istituita una "Scuola per assistenti sociali".
 
-5) terapie intensive cardiologiche.
+La scuola ha per fine la formazione professionale di assistenti sociali attraverso insegnamenti teorici e professionali integrati da un sistema permanente di seminari interdisciplinari di studio, da tirocini e da esercitazioni.
 
-Art. 150. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.
+La scuola conferisce il diploma di assistente sociale.
 
-Gli allievi che non hanno conseguito le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+Art. 97. - Per l'ammissione alla scuola e' richiesto il diploma di maturita' classica, o scientifica, o di abilitazione degli istituti magistrali o di istituti secondari superiori ordinati su non meno di cinque anni di corso.
 
-Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esami sulle materie impartite durante l'anno.
+Art. 98. - La scuola gode di autonomia agli effetti didattici.
 
-Al termine del corso di studi per il conseguimento del diploma di specialista in cardiologia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento di carattere cardiologico.
+Art. 99. - il consiglio della scuola e' composto dal preside della facolta' di giurisprudenza, dal direttore della scuola e dai docenti della scuola che siano incaricati dell'insegnamento delle discipline previste dal piano di studi.
 
-Le tasse, soprattasse e contributi della scuola di specializzazione in cardiologia sono cosi' fissate:
+Il consiglio:
 
-immatricolazione . . . . . . . . . . . . .. . . . . L. 12.000 tassa annuale di iscrizione . . . . . . . . . . . . " 200.000 soprattassa annuale di esame. . . . . . . . . . . . " 16.000
+a) delibera su tutte le questioni di natura didattica e disciplinare relative alla scuola;
 
-contributi annui di laboratorio . . . . . . . . . . " 14.000
+b) propone al rettore il direttore della scuola da scegliersi fra i docenti di ruolo dei corsi di giurisprudenza e di scienze politiche.
 
-tassa di diploma. . . . . . . . . . . . . . . . . . " 20.000
+Art. 100. - Il direttore e' nominato dal rettore su proposta del consiglio della scuola, dura in carica un triennio ed e' rieleggibile.
 
-Gli articoli 171 e 172, relativi alla scuola di specializzazione in malattie infettive, sono abrogati e sostituiti dai seguenti:
+Il direttore ha la rappresentanza e la direzione della scuola. Egli presiede il consiglio dei professori della scuola e lo convoca ogni qual volta lo ritenga necessario e quando ne venga fatta richiesta motivata da almeno un quinto dei componenti il medesimo.
 
-Scuola di specializzazione in malattie infettive
+Art. 101. - I docenti sono proposti dal consiglio della scuola alla facolta' di giurisprudenza che provvede a sua volta a proporli al senato accademico ed al consiglio di amministrazione dell'universita'.
 
-Art. 171. - La scuola di specializzazione in malattie infettive ha sede presso la cattedra di malattie infettive dell'Universita' di Siena e conferisce il diploma di specialista in malattie infettive.
+I docenti degli insegnamenti professionali svolgono anche l'attivita' di coordinamento e di assistenza i seminari, ai tirocini, ed alle esercitazioni professionali.
 
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+Art. 102. - Il corso di studio per il conseguimento del titolo di assistente sociale ha la durata di tre anni.
 
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+Lo svolgimento delle lezioni e degli esami e' regolato dal calendario accademico.
 
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.
+Art. 103. - Gli insegnamenti fondamentali sono i seguenti:
 
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
+1) Istituzioni di servizio sociale;
 
-Il numero massimo di allievi e' di quattro per anno di corso e complessivamente di sedici iscritti per l'intero corso di studi.
+2) Metodologia del servizio sociale;
 
-L'ammissione al corso avviene per titoli ed esami.
+3) Servizio sociale e politica sociale;
 
-Art. 172. - Le materie di insegnamento sono le seguenti:
+4) Amministrazione e organizzazione dei servizi sociali;
 
-1° Anno:
+5) Metodologia della ricerca sociale;
 
-1) epidemiologia generale delle malattie infettive;
+6) Sociologia e antropologia culturale;
 
-2) batteriologia e micologia;
+7) Psicologia;
 
-3) virologia;
+8) Psicologia differenziale ed applicata;
 
-4) parassitologia;
+9) Psicologia sociale;
 
-5) immunologia generale.
+10) Elementi di diritto pubblico (semestrale);
 
-2° Anno:
+11) Elementi di diritto privato (semestrale);
 
-1) tecniche batteriologiche e micologia applicata alle malattie infettive;
+12) Legislazione sociale;
 
-2) tecniche virologiche applicate alle malattie infettive;
+13) Economia politica e politica economica;
 
-3) tecniche parassitologiche applicate alle malattie infettive;
+14) Statistica;
 
-4) tecniche immunologiche applicate alle malattie infettive;
+15) Elementi di biologia e fisiologia;
 
-5) anatomia patologica;
+16) Igiene e medicina sociale.
 
-6) genetica.
+Lo studente deve scegliersi altri quattro insegnamenti tra quelli annualmente indicati dal consiglio della scuola nell'ambito di quelli della facolta' di giurisprudenza e delle altre facolta' dell'Universita' di Siena.
 
-3° Anno:
+I seminari interdisciplinari di studio sono svolti nei primi due anni di corso e lo studente deve seguirne uno per ogni anno; la durata media e' di 5 mesi.
 
-1) clinica delle malattie infettive (I anno);
+I tirocini sono svolti nel secondo e terzo anno di corso e lo studente dove svolgerne uno per anno, la durata media e' di un anno accademico.
 
-2) diagnostica e semeiotica delle malattie infettive;
+Le esercitazioni professionali si svolgono nell'ambito di singoli insegnamenti e tra gruppi interdisciplinari.
 
-3) radiologia;
+Art. 104. - Per essere ammessi agli esami lo studente deve aver ottenuto le firme di frequenza alle lezioni e aver svolto con esito positivo sia i seminari che i tirocini.
 
-4) medicina preventiva delle malattie infettive.
+Per conseguire il diploma lo studente deve presentare una dissertazione scritta (ricerca o contributo dello studente) o sostenere un colloquio dopo il superamento di tutti gli esami.
 
-4° Anno:
+Art. 105. - La scuola potra' avere un regolamento interno.
 
-1) clinica delle malattie infettive (II anno);
+Art. 106. - Le tasse e soprattasse per la scuola sono fissate nel modo seguente:
 
-2) malattie tropicali;
+la tassa per l'iscrizione ai corsi e' fissata in lire 30.000 per ogni anno;
 
-3) legislazione sanitaria delle malattie infettive;
+la tassa di diploma e' fissata in L. 6.000 ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).
 
-4) farmacologia e terapia delle malattie infettive.
+Gli eventuali contributi sono deliberati dal consiglio di amministrazione dell'universita' su proposta del consiglio della scuola.
 
-La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.
-
-Al termine di ciascun anno di corso gli allievi sono tenuti a sostenere gli esami del rispettivo anno; al termine del corso di studi per il conseguimento del diploma di specialista in malattie infettive gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente la specialita'.
-
-Agli allievi i quali abbiano ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specializzazione in malattie infettive.
-
-Le tasse, soprattasse e contributi della scuola di specializzazione in malattie infettive sono cosi' fissate:
-
-immatricolazione . . . .. . . . . . . . . . . . . . L. 12.000 tassa annuale di iscrizione . . . . . . . . . . . . " 200.000 soprattassa annuale di esame. . . . . . . . . . . . " 16.000
-
-contributi annui di laboratorio . . . . . . . . . . " 14.000
-
-tassa di diploma. . . . . . . . . . . . . . . . . . " 20.000
-
-Dopo l'art. 193, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in odontostomatologia.
-
-Scuola di specializzazione in odontostomatologia
-
-Art. 194. - La durata del corso di studi per il conseguimento del diploma di specialista in odontostomatologia e' di tre anni e non e' suscettibile di abbreviazioni.
-
-La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.
-
-Il numero degli iscritti, distribuiti nei tre anni di corso, e' di dodici (quattro per anno di corso).
-
-Art. 195. - Gli insegnamenti della scuola sono cosi' ripartiti nei tre anni di corso:
-
-1° Anno:
-
-embriologia ed anatomia dentale e maxillo-facciale (semestrale);
-
-microbiologia e igiene orale (semestrale);
-
-farmacologia (annuale);
-
-odontotecnica (annuale);
-
-anestesia e chirurgia stomatologica (annuale);
-
-patologia odonto-stomatologica (annuale);
-
-odontoiatrica conservativa (biennale I);
-
-esercitazioni pratiche.
-
-2° Anno:
-
-odontoiatria conservativa (biennale II);
-
-clinica protesica dentaria e maxillo-facciale (biennale I);
-
-parodontologia (biennale I);
-
-ortopedia dento-maxillo-facciale (biennale I);
-
-chirurgia maxillo-facciale (biennale I);
-
-odontoiatria infantile (annuale);
-
-radiologia odonto-stomatologica (annuale);
-
-anatomia e isto-patologia odonto-stomatologica (annuale);
-
-esercitazioni pratiche.
-
-3° Anno:
-
-clinica odonto-stomatologica (annuale);
-
-chirurgia maxillo-facciale (biennale II);
-
-ortopedia dento-maxillo-facciale (biennale II);
-
-paradontologia (biennale II);
-
-clinica protesica dentaria e maxillo-facciale (biennale II);
-
-medicina legale e delle assicurazioni odonto-stomatologica (semestrale);
-
-esercitazioni pratiche.
-
-Art. 196. - Al termine di ciascun anno di corso gli allievi dovranno sostenere un esame di profitto teorico e pratico sulle materie che sono state oggetto di insegnamento dinanzi ad una apposita commissione di almeno tre membri e presieduta dal direttore della scuola.
-
-Per il conseguimento del diploma di specialista in odontostomatologia l'allievo dovra' sostenere, dinanzi ad una apposita commissione di sette membri e presieduta dal direttore della scuola, la discussione di una tesi scritta.
-
-Le tasse, soprattasse e contributi della scuola di specializzazione in odontostomatologia sono cosi' fissate:
-
-immatricolazione . . . . . . . . . . . . . . . . . L. 12.000
-
-tassa annuale di iscrizione . . . . . . . . . . . . " 200.000 soprattassa annuale di esame. . . . . . . . . . . . " 16.000
-
-contributi annui di laboratorio . . . . . . . . . . " 14.000
-
-tassa di diploma. . . . . . . . . . . . . . . . . . " 20.000
+Art. 107. - Gli studenti partecipano alla vita della scuola e beneficiano dell'assistenza universitaria secondo le norme in vigore.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 10 ottobre 1977
+Dato a Roma, addi' 28 ottobre 1972
 
 LEONE
 
-MALFATTI
+SCALFARO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 30 novembre 1977 Registro n. 136 Istruzione, foglio n. 215
+alla Corte dei conti, addi' 27 gennaio 1973 Atti di Governo, registro n. 255, foglio n. 71. - VALENTINI
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni dagli organi accademici dell'Universita' di Siena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Gli articoli 148, 149 e 150, relativi alla scuola di specializzazione in malattie dell'apparato cardiovascolare che muta la denominazione in quella di scuola di specializzazione in cardiologia, sono abrogati e sostituiti dai seguenti:   
+Art. 46. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
+Storia dell'arte bizantina e dell'Europa orientale;  
+Storia dell'arte dell'Europa settentrionale (Fiandre, Olanda, Francia, Germania e paesi danubiani);  
+Storia dell'arte della penisola iberica;  
+Storia dell'architettura;.  
+Archeologia medioevale;  
+Storia della tradizione classica nell'arte europea;  
+Sociologia dell'arte;  
+Etnomusicologia;  
+Musicologia comparata;  
+Paleografia musicale;  
+Storia della critica musicale;  
+Storia dello spettacolo;  
+Storia contemporanea;  
+Storia del mondo islamico;  
+Storia dei paesi afro-asiatici;  
+Storia dell'agricoltura;  
+Storia delle istituzioni politiche;  
+Sociologia.  
   
-Scuola di specializzazione in cardiologia   
+Art. 48. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:  
+Storia della pedagogia;  
+Tecnologie educative e didattiche;  
+Psicologia dell'eta' evolutiva;  
   
-Art. 148. - La scuola di specializzazione in cardiologia ha sede presso la clinica medica generale e terapia medica e conferisce il diploma di specialista in cardiologia.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di quattro anni e non suscettibile di abbreviazioni di corso.   
-Il numero massimo degli allievi e' di diciannove al primo anno di corso.   
-L'ammissione al corso avviene per esami.   
+Art. 78. - All'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologie farmaceutiche sono aggiunti i seguenti:  
+Chimica dei composti eterociclici;  
+Chimica analitica clinica;  
+Elementi di fisiopatologia;  
+Impianti per laboratori galenici;  
+Zoologia e parassitologia;  
+Calcoli statistici applicati alla biologia;  
+Farmacologia molecolare;  
+Farmacologia applicata.  
   
-Art. 149. - Le materie di insegnamento sono le seguenti:   
-  
-1° Anno:   
-1) anatomia umana normale ed embriologia dello apparato cardiovascolare;   
-2) fisiologia dell'apparato cardiovascolare I;   
-3) biochimica e biofisica;   
-4) semeiotica fisica e strumentale dell'apparato cardiovascolare I;   
-5) informatica medica e strumentazione biomedica I.   
-  
-2° Anno:   
-1) anatomia patologica I;   
-2) fisiologia dell'apparato cardiovascolare II;   
-3) patologia e clinica cardiovascolare I;   
-4) semeiotica fisica e strumentale dell'apparato cardiovascolare II;   
-5) informatica medica e strumentazione biomedica II;   
-6) radiologia I;   
-7) aspetti sociali ed epidemiologici delle malattie cardiovascolari.   
-  
-3° Anno:   
-1) anatomia patologica II;   
-2) semeiotica fisica e strumentale dell'apparato cardiovascolare III;   
-3) patologia e clinica cardiovascolare II;   
-4) radiologia II;   
-5) terapia medica e farmacologia clinica I.   
-  
-4° Anno:   
-1) semeiotica fisica e strumentale dell'apparato cardiovascolare IV;   
-2) patologia e clinica cardiovascolare III;   
-3) terapia medica e farmacologia clinica II;   
-4) terapia chirurgica;   
-5) terapie intensive cardiologiche.   
-  
-Art. 150. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.   
-Gli allievi che non hanno conseguito le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
-Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esami sulle materie impartite durante l'anno.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in cardiologia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento di carattere cardiologico.   
-Le tasse, soprattasse e contributi della scuola di specializzazione in cardiologia sono cosi' fissate:   
-immatricolazione . . . . . . . . . . . . .. . . . . L. 12.000 tassa annuale di iscrizione . . . . . . . . . . . . " 200.000 soprattassa annuale di esame. . . . . . . . . . . . " 16.000   
-contributi annui di laboratorio . . . . . . . . . . " 14.000   
-tassa di diploma. . . . . . . . . . . . . . . . . . " 20.000   
-  
-Gli articoli 171 e 172, relativi alla scuola di specializzazione in malattie infettive, sono abrogati e sostituiti dai seguenti:   
-  
-Scuola di specializzazione in malattie infettive   
-  
-Art. 171. - La scuola di specializzazione in malattie infettive ha sede presso la cattedra di malattie infettive dell'Universita' di Siena e conferisce il diploma di specialista in malattie infettive.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.   
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.   
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
-Il numero massimo di allievi e' di quattro per anno di corso e complessivamente di sedici iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-  
-Art. 172. - Le materie di insegnamento sono le seguenti:   
-  
-1° Anno:   
-1) epidemiologia generale delle malattie infettive;   
-2) batteriologia e micologia;   
-3) virologia;   
-4) parassitologia;   
-5) immunologia generale.   
-  
-2° Anno:   
-1) tecniche batteriologiche e micologia applicata alle malattie infettive;   
-2) tecniche virologiche applicate alle malattie infettive;   
-3) tecniche parassitologiche applicate alle malattie infettive;  
-4) tecniche immunologiche applicate alle malattie infettive;   
-5) anatomia patologica;   
-6) genetica.   
-  
-3° Anno:   
-1) clinica delle malattie infettive (I anno);   
-2) diagnostica e semeiotica delle malattie infettive;   
-3) radiologia;   
-4) medicina preventiva delle malattie infettive.   
-  
-4° Anno:   
-1) clinica delle malattie infettive (II anno);   
-2) malattie tropicali;   
-3) legislazione sanitaria delle malattie infettive;   
-4) farmacologia e terapia delle malattie infettive.   
-  
-La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.   
-Al termine di ciascun anno di corso gli allievi sono tenuti a sostenere gli esami del rispettivo anno; al termine del corso di studi per il conseguimento del diploma di specialista in malattie infettive gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente la specialita'.   
-Agli allievi i quali abbiano ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specializzazione in malattie infettive.   
-Le tasse, soprattasse e contributi della scuola di specializzazione in malattie infettive sono cosi' fissate:   
-immatricolazione . . . .. . . . . . . . . . . . . . L. 12.000 tassa annuale di iscrizione . . . . . . . . . . . . " 200.000 soprattassa annuale di esame. . . . . . . . . . . . " 16.000   
-contributi annui di laboratorio . . . . . . . . . . " 14.000   
-tassa di diploma. . . . . . . . . . . . . . . . . . " 20.000   
-  
-Dopo l'art. 193, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in odontostomatologia.   
-  
-Scuola di specializzazione in odontostomatologia   
-  
-Art. 194. - La durata del corso di studi per il conseguimento del diploma di specialista in odontostomatologia e' di tre anni e non e' suscettibile di abbreviazioni.   
-La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.   
-Il numero degli iscritti, distribuiti nei tre anni di corso, e' di dodici (quattro per anno di corso).   
-  
-Art. 195. - Gli insegnamenti della scuola sono cosi' ripartiti nei tre anni di corso:   
-  
-1° Anno:   
-embriologia ed anatomia dentale e maxillo-facciale (semestrale);   
-microbiologia e igiene orale (semestrale);   
-farmacologia (annuale);   
-odontotecnica (annuale);   
-anestesia e chirurgia stomatologica (annuale);   
-patologia odonto-stomatologica (annuale);   
-odontoiatrica conservativa (biennale I);   
-esercitazioni pratiche.   
-  
-2° Anno:   
-odontoiatria conservativa (biennale II);   
-clinica protesica dentaria e maxillo-facciale (biennale I);   
-parodontologia (biennale I);   
-ortopedia dento-maxillo-facciale (biennale I);   
-chirurgia maxillo-facciale (biennale I);   
-odontoiatria infantile (annuale);   
-radiologia odonto-stomatologica (annuale);   
-anatomia e isto-patologia odonto-stomatologica (annuale);   
-esercitazioni pratiche.   
-  
-3° Anno:   
-clinica odonto-stomatologica (annuale);   
-chirurgia maxillo-facciale (biennale II);   
-ortopedia dento-maxillo-facciale (biennale II);   
-paradontologia (biennale II);   
-clinica protesica dentaria e maxillo-facciale (biennale II);   
-medicina legale e delle assicurazioni odonto-stomatologica (semestrale);   
-esercitazioni pratiche.   
-  
-Art. 196. - Al termine di ciascun anno di corso gli allievi dovranno sostenere un esame di profitto teorico e pratico sulle materie che sono state oggetto di insegnamento dinanzi ad una apposita commissione di almeno tre membri e presieduta dal direttore della scuola.   
-Per il conseguimento del diploma di specialista in odontostomatologia l'allievo dovra' sostenere, dinanzi ad una apposita commissione di sette membri e presieduta dal direttore della scuola, la discussione di una tesi scritta.   
-Le tasse, soprattasse e contributi della scuola di specializzazione in odontostomatologia sono cosi' fissate:   
-immatricolazione . . . . . . . . . . . . . . . . . L. 12.000   
-tassa annuale di iscrizione . . . . . . . . . . . . " 200.000 soprattassa annuale di esame. . . . . . . . . . . . " 16.000   
-contributi annui di laboratorio . . . . . . . . . . " 14.000   
-tassa di diploma. . . . . . . . . . . . . . . . . . " 20.000   
+Gli articoli da 96 a 109 relativi alla scuola per l'assistenza sociale sono abrogati e sostituiti dai seguenti:  
+Art. 96. - Nella facolta' di giurisprudenza con corso di laurea in scienze politiche dell'Universita' di Siena e' istituita una "Scuola per assistenti sociali".  
+La scuola ha per fine la formazione professionale di assistenti sociali attraverso insegnamenti teorici e professionali integrati da un sistema permanente di seminari interdisciplinari di studio, da tirocini e da esercitazioni.  
+La scuola conferisce il diploma di assistente sociale.  
+Art. 97. - Per l'ammissione alla scuola e' richiesto il diploma di maturita' classica, o scientifica, o di abilitazione degli istituti magistrali o di istituti secondari superiori ordinati su non meno di cinque anni di corso.  
+Art. 98. - La scuola gode di autonomia agli effetti didattici.  
+Art. 99. - il consiglio della scuola e' composto dal preside della facolta' di giurisprudenza, dal direttore della scuola e dai docenti della scuola che siano incaricati dell'insegnamento delle discipline previste dal piano di studi.  
+Il consiglio:  
+a) delibera su tutte le questioni di natura didattica e disciplinare relative alla scuola;  
+b) propone al rettore il direttore della scuola da scegliersi fra i docenti di ruolo dei corsi di giurisprudenza e di scienze politiche.  
+Art. 100. - Il direttore e' nominato dal rettore su proposta del consiglio della scuola, dura in carica un triennio ed e' rieleggibile.  
+Il direttore ha la rappresentanza e la direzione della scuola. Egli presiede il consiglio dei professori della scuola e lo convoca ogni qual volta lo ritenga necessario e quando ne venga fatta richiesta motivata da almeno un quinto dei componenti il medesimo.  
+Art. 101. - I docenti sono proposti dal consiglio della scuola alla facolta' di giurisprudenza che provvede a sua volta a proporli al senato accademico ed al consiglio di amministrazione dell'universita'.  
+I docenti degli insegnamenti professionali svolgono anche l'attivita' di coordinamento e di assistenza i seminari, ai tirocini, ed alle esercitazioni professionali.  
+Art. 102. - Il corso di studio per il conseguimento del titolo di assistente sociale ha la durata di tre anni.  
+Lo svolgimento delle lezioni e degli esami e' regolato dal calendario accademico.  
+Art. 103. - Gli insegnamenti fondamentali sono i seguenti:  
+1) Istituzioni di servizio sociale;  
+2) Metodologia del servizio sociale;  
+3) Servizio sociale e politica sociale;  
+4) Amministrazione e organizzazione dei servizi sociali;  
+5) Metodologia della ricerca sociale;  
+6) Sociologia e antropologia culturale;  
+7) Psicologia;  
+8) Psicologia differenziale ed applicata;  
+9) Psicologia sociale;  
+10) Elementi di diritto pubblico (semestrale);  
+11) Elementi di diritto privato (semestrale);  
+12) Legislazione sociale;  
+13) Economia politica e politica economica;  
+14) Statistica;  
+15) Elementi di biologia e fisiologia;  
+16) Igiene e medicina sociale.  
+Lo studente deve scegliersi altri quattro insegnamenti tra quelli annualmente indicati dal consiglio della scuola nell'ambito di quelli della facolta' di giurisprudenza e delle altre facolta' dell'Universita' di Siena.  
+I seminari interdisciplinari di studio sono svolti nei primi due anni di corso e lo studente deve seguirne uno per ogni anno; la durata media e' di 5 mesi.  
+I tirocini sono svolti nel secondo e terzo anno di corso e lo studente dove svolgerne uno per anno, la durata media e' di un anno accademico.  
+Le esercitazioni professionali si svolgono nell'ambito di singoli insegnamenti e tra gruppi interdisciplinari.  
+Art. 104. - Per essere ammessi agli esami lo studente deve aver ottenuto le firme di frequenza alle lezioni e aver svolto con esito positivo sia i seminari che i tirocini.  
+Per conseguire il diploma lo studente deve presentare una dissertazione scritta (ricerca o contributo dello studente) o sostenere un colloquio dopo il superamento di tutti gli esami.  
+Art. 105. - La scuola potra' avere un regolamento interno.  
+Art. 106. - Le tasse e soprattasse per la scuola sono fissate nel modo seguente:  
+la tassa per l'iscrizione ai corsi e' fissata in lire 30.000 per ogni anno;  
+la tassa di diploma e' fissata in L. 6.000 ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
+Gli eventuali contributi sono deliberati dal consiglio di amministrazione dell'universita' su proposta del consiglio della scuola.  
+Art. 107. - Gli studenti partecipano alla vita della scuola e beneficiano dell'assistenza universitaria secondo le norme in vigore.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 ottobre 1977
+### Dato a Roma, addi' 28 ottobre 1972
 
-LEONE MALFATTI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 30 novembre 1977
+Registrato alla Corte dei conti, addi' 27 gennaio 1973
 
-Registro n. 136 Istruzione, foglio n. 215
+Atti di Governo, registro n. 255, foglio n. 71. - VALENTINI

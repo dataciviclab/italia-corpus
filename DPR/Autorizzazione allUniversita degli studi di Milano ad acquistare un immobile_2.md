@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1973 n. 238
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 gennaio 1971 n. 884
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1973 n. 238
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 gennaio 1971 n. 884
+==============================================================
 
 Autorizzazione all'Universita' degli studi di Milano ad acquistare un immobile.
 -------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-238. Decreto del Presidente della Repubblica 15 marzo 1973, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Milano viene autorizzata ad acquistare un immobile sito in Milano, viale Abruzzi, 42, descritto nel nuovo catasto edilizio urbano di Milano alla partita 19727, fogli 317-316, mappali 361 sub 1 e 27 e alla partita 99870, foglio 317, mappale 361 sub 2 al prezzo di L. 350 milioni.  
+884. Decreto del Presidente della Repubblica 25 gennaio 1971, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Milano viene autorizzata ad acquistare un complesso immobiliare sito, parte nel comune di Sesto S.  
+Giovanni e parte in quello di Cinisello Balsamo di proprieta' dell'ente comunale di assistenza, al prezzo di L. 1.840.000.000.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 15 maggio 1973  
-Atti di Governo, registro n. 258, foglio n. 40. - VALENTINI
+Visto, il Guardasigilli: COLOMBO  
+Registrato alla Corte dei conti, addi' 26 ottobre 1971  
+Atti del Governo, registro n. 244, foglio n. 181. - CARUSO

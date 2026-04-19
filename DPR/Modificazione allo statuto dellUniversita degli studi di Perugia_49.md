@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1980 n. 666
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 984
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1980 n. 666
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 984
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Perugia.
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Perugia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -19,6 +19,10 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -37,62 +41,46 @@ Articolo unico
 --------------
 
   
-L'art. 49, relativo all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia, e' modificato nel senso che sono aggiunti i seguenti insegnamenti:  
-chemioterapia;  
-tossicologia;  
-fisiologia della nutrizione;  
-citogenetica;  
-parassitologia;  
-microscopia elettronica;  
-statistica medica e biometria;  
-igiene del lavoro;  
-immunologia;  
-virologia;  
-analisi chimico-cliniche;  
-biochimica applicata;  
-biologia molecolare;  
-antropologia;  
-oncologia sperimentale;  
-organogenesi umana con elementi di embriologia;  
-organizzazione e programmazione sanitaria;  
-neurochimica;  
-enzimologia;  
-cardiologia;  
-dermatologia sperimentale;  
-ematologia;  
-endocrinologia;  
-gastroenterologia;  
-genetica medica;  
-igiene mentale;  
-medicina nucleare;  
-medicina preventiva dei lavoratori e psicotecnica  
-neuropatologia;  
-neuropsichiatria infantile;  
-radiobiologia;  
-reumatologia;  
-terapia medica sistematica;  
-neuroradiologia;  
-fisiopatologia cardio-respiratoria;  
-audiologia;  
-traumatologia della strada;  
-patologia ostetrica e ginecologica;  
-endocrinologia ginecologica;  
-patologia urologica;  
-chirurgia vascolare;  
-chirurgia pediatrica;  
-neurochirurgia;  
-chirurgia della mano.  
+L'art. 70, relativo al corso di laurea in fisica, e' modificato come segue:  
+a) al comma terzo, l'insegnamento 8: "esperimentazione fisica (biennale)" viene sostituito con:  
+8) esperimentazioni fisica I;  
+9) esperimentazioni fisica II.  
+b) al comma 6 e' soppressa la frase: "L'insegnamento di esperimentazione fisica comporta un unico esame alla fine del primo biennio";  
+c) al penultimo comma la frase: "Per essere ammesso all'esame di laurea lo studente deve aver superato gli esami relativi ad almeno diciassette insegnamenti" viene sostituita con: "Per essere ammesso all'esame di laurea lo studente deve aver superato gli esami relativi ad almeno diciotto insegnamenti";  
+d) al comma 9, relativo agli insegnamenti complementari, gli insegnamenti di:  
+scienza dei metalli;  
+meteorologia;  
+sistemi combinatori e sequenziali, vengono rispettivamente sostituiti dagli insegnamenti di:  
+fisica dei metalli;  
+fisica dell'atmosfera;  
+teoria dell'informazione.  
+Nel medesimo comma, inoltre, vengono soppressi i seguenti insegnamenti:  
+geofisica applicata;  
+geologia;  
+mineralogia;  
+sismologia;  
+logica matematica.  
+Vengono inoltre aggiunti i seguenti nuovi insegnamenti:  
+astronomia;  
+complementi di astronomia;  
+cosmologia;  
+radioastronomia;  
+elettrodinamica;  
+macchine acceleratrici;  
+meccanica analitica.  
   
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e di decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 giugno 1980
+### Dato a Roma, addi' 28 giugno 1986
 
-PERTINI SARTI
+COSSIGA
 
-Visto, il Guardasigilli: MORLINO
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 17 ottobre 1980
+Visto, il Guardasigilli: ROGNONI
 
-Registro n. 95 Istruzione, foglio n. 106
+Registrato alla Corte dei conti, addi' 20 gennaio 1987
+
+Registro n. 2 Istruzione, foglio n. 67

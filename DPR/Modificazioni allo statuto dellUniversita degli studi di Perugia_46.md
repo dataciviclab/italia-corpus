@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1981 n. 755
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1970 n. 1409
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1981 n. 755
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1970 n. 1409
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
@@ -10,138 +10,113 @@ Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Perugia e convalidati dal Consiglio universitario nazionale nei suoi pareri;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
-
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 15, relativo al corso di laurea in scienze politiche e' modificato nel senso che il terzo comma e' abrogato e sostituito dal seguente:
+
+Il corso di studi comprende un biennio propedeutico e un biennio di specializzazione, ordinato in cinque indirizzi: a) politico-amministrativo; b) storico-internazionale; c) economico-sociale; d) storico-sociale; e) storico-economico.
+
+Art. 17. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche (biennio di specializzazione) sono aggiunti i seguenti:
+
+Diritto regionale;
+
+Economia dei Paesi in via di sviluppo;
+
+Matematica per le scienze sociali;
+
+Storia dei movimenti sindacali;
+
+Storia dell'Asia orientale;
+
+Economia dei trasporti;
+
+Storia dei trattati e politica internazionale;
+
+Contabilita' dello Stato e degli enti pubblici;
+
+Storia dell'America;
+
+Scienza dell'opinione pubblica.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1970
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 15 marzo 1971 Atti del Governo, registro n. 241, foglio n. 36. - CARUSO
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Art. 100, primo comma - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono aggiunte le scuole in medicina nucleare ed in radiologia.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
+Decreta:  
   
-Dopo l'art. 128, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti articoli relativi alla istituzione delle scuole di specializzazione in medicina nucleare ed in radiologia.   
+Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 15, relativo al corso di laurea in scienze politiche e' modificato nel senso che il terzo comma e' abrogato e sostituito dal seguente:  
   
-Scuola di specializzazione in medicina nucleare   
+Il corso di studi comprende un biennio propedeutico e un biennio di specializzazione, ordinato in cinque indirizzi: a) politico-amministrativo; b) storico-internazionale; c) economico-sociale; d) storico-sociale; e) storico-economico.  
+Art. 17. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche (biennio di specializzazione) sono aggiunti i seguenti:  
   
-Art. 129. - La scuola di specializzazione in medicina nucleare ha sede presso l'istituto di radiologia dell'Universita' degli studi di Perugia. La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima. Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso del diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione.   
-Non sono ammesse abbreviazioni di corso.   
-La scuola conferisce il diploma di specialista in medicina nucleare. Gli anni di studio necessari per conseguire questo titolo sono tre. Il primo e' identico ed incomune a quello per il conseguimento del diploma di specialista in radiodiagnostica ed in radioterapia oncologica.   
-Gli insegnamenti per il conseguimento del diploma di specialista in medicina nucleare sono cosi' distribuiti nei tre anni di corso:   
-1° Anno (comune alla specializzazione in radiodiagnostica ed in radioterapia oncologica):   
-a) fisica con richiami di matematica, nozioni di statistica informatica e dosimetria;   
-b) radiobiologia, legislazione e norme generali di radioprotezione;   
-c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;   
-d) nozioni di anatomia e fisiologia generale.   
-2° Anno:   
-a) tecnica dei traccianti;   
-b) elementi di radiochimica;   
-c) applicazioni di diagnostica I;   
-d) tecniche di misura di radioattivita'.   
-3° Anno:   
-a) applicazioni diagnostiche II;   
-b) applicazioni terapeutiche;   
-c) radioprotezione e legislazione applicata.   
-I singoli insegnamenti sono tenuti da uno o piu' docenti a seconda di quanto opportuno al loro svolgimento.   
-Il numero massimo di iscritti in corso alla scuola e' di tre per anno di corso e complessivamente di nove iscritti per l'intero corso di studi.   
-La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei. L'insegnamento viene svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti ecc. Gli allievi, per essere ammessi a sostenere gli esami nelle singole materie, devono avere la firma di frequenza da parte del direttore della scuola stessa. Gli allievi al termine di ogni anno dovranno superare gli esami di profitto delle materie prescritte per ottenere l'iscrizione all'anno successivo.   
-Gli allievi per conseguire il diploma di specializzazione oltre ad essere stati approvati in tutti gli esami, dovranno elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.   
-  
-Scuola di specializzazione in radiologia   
-  
-Art. 130. - La scuola di specializzazione in radiologia ha sede nell'istituto di radiologia dell'Universita' degli studi di Perugia.   
-La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.   
-Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso di diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione per titoli ed esami.   
-Non sono ammesse abbreviazioni di corso.   
-La scuola conferisce i seguenti diplomi:   
-a) diploma di specialista in radiodiagnostica. Gli anni di studio necessari per conseguire questo titolo sono quattro;   
-b) diploma di specialista in radioterapia oncologica.   
-Gli anni di studio necessari per conseguire questo titolo sono quattro.   
-La scuola ha un tronco comune di due anni identico per i diplomi in radiodiagnostica ed in radioterapia oncologica.   
-Gli insegnamenti per il diploma di specialista in radiodiagnostica sono cosi' distribuiti nei quattro anni di corso:   
-1° Anno (comune alla specializzazione in radioterapia oncologica):   
-a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);   
-b) radiobiologia, legislazione e norme generali di radioprotezione;   
-c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;   
-d) nozioni di anatomia e fisiologia generale.   
-2° Anno (comune alla specializzazione in radioterapia oncologica):   
-a) anatomia patologica;   
-b) apparecchiature e tecniche radiologiche;   
-c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);   
-d) radiopatologia;   
-e) dosimetria applicata.   
-3° Anno:   
-a) tecniche speciali e relativa semeiotica I;   
-b) radiodiagnostica speciale dei vari organi ed apparati I.   
-4° Anno:   
-a) tecniche speciali e relativa semeiotica (tomografia, ecotomografia, seroradiografia, tomografia assiale computerizzata) II;   
-b) radiodiagnostica speciale dei vari organi ed apparati II.   
-Gli insegnamenti per il diploma di specialista in radioterapia oncologica sono cosi' distribuiti nei quattro anni di corso:   
-1° Anno (comune alla specializzazione in radiodiagnostica):   
-a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);   
-b) radiobiologia, legislazione e parte generale di radioprotezione;   
-c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;   
-d) nozioni di anatomia e fisiologia generale.   
-2° Anno (comune alla specializzazione in radiodiagnostica):   
-a) anatomia patologica;   
-b) apparecchiature e tecniche radiologiche;   
-c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);   
-d) radiopatologia;   
-e) dosimetria applicata.   
-3° Anno:   
-a) oncologia generale;   
-b) oncologia clinica I;   
-c) tecniche radioterapiche.   
-4° Anno:   
-a) oncologia clinica II;   
-b) fondamenti di terapia chirurgica dei tumori;   
-c) radioterapia clinica;   
-d) trattamento del canceroso in fase avanzata.   
-I singoli insegnamenti sono tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento.   
-Il numero massimo di iscritti per la scuola di radiologia e' di cinque per anno di corso per il diploma di specialista in radiodiagnostica e di tre per anno di corso per il diploma di specialista in radioterapia oncologica e, complessivamente, di venti piu' dodici iscritti per l'intero corso di studi, rispettivamente, per il diploma di radiodiagnostica e di radioterapia oncologica.   
-La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei.   
-L'insegnamento viene svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti ecc. Gli allievi per essere ammessi a sostenere gli esami delle singole materie, devono avere la firma di frequenza da parte del direttore della scuola stessa.   
-Gli allievi al termine di ogni anno devono superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.   
-Gli allievi per conseguire il diploma di specializzazione, oltre ad essere stati approvati in tutti gli esami devono elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.   
+Diritto regionale;  
+Economia dei Paesi in via di sviluppo;  
+Matematica per le scienze sociali;  
+Storia dei movimenti sindacali;  
+Storia dell'Asia orientale;  
+Economia dei trasporti;  
+Storia dei trattati e politica internazionale;  
+Contabilita' dello Stato e degli enti pubblici;  
+Storia dell'America;  
+Scienza dell'opinione pubblica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1981
+### Dato a Roma, addi' 31 ottobre 1970
 
-PERTINI BODRATO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 11 dicembre 1981
+Registrato alla Corte dei conti, addi' 15 marzo 1971
 
-Registro n. 123 Istruzione, foglio n. 383
+Atti del Governo, registro n. 241, foglio n. 36. - CARUSO

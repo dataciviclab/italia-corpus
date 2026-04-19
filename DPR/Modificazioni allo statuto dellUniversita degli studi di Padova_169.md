@@ -1,42 +1,103 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 settembre 1965 n. 1306
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 865
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 settembre 1965 n. 1306
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 865
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 14 ottobre 1926, n. 2133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2133), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 70. - All'elenco degli insegnamenti del corso di laurea in Materie letterarie e' aggiunto quello di "Storia della letteratura per l'infanzia".  
-Art. 71. - All'elenco degli insegnamenti del corso di laurea in Pedagogia e' aggiunto quello di "Storia della letteratura per l'infanzia".  
+Nell'art. 30, relativo al corso di laurea in scienze politiche, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+diritto costituzionale;  
+diritto sanitario;  
+diritto urbanistico;  
+diritto industriale;  
+diritto regionale;  
+diritto della previdenza sociale;  
+metodologia e tecnica della ricerca sociale;  
+sociologia delle etnie;  
+sociobiologia;  
+sociologia dei processi culturali;  
+partiti politici e gruppi di pressione;  
+governo locale;  
+integrazione politica europea;  
+sistema politico italiano;  
+amministrazione comparata;  
+teoria delle organizzazioni complesse;  
+metodologia delle scienze politiche;  
+storia del pensiero economico moderno e contemporaneo;  
+storia sociale;  
+storia dei movimenti di liberazione;  
+storia dell'Italia contemporanea;  
+storia del Veneto contemporaneo;  
+storia militare;  
+archeologia industriale;  
+storia del pensiero politico moderno e contemporaneo;  
+economia internazionale;  
+politica economica e finanziaria internazionale;  
+economia applicata;  
+economia pubblica;  
+economia politica (corso progredito);  
+statistica sociale.  
+Nel medesimo articolo sono soppressi i seguenti insegnamenti complementari:  
+diritto finanziario;  
+istituzioni di diritto processuale;  
+diritto ecclesiastico comparato;  
+istituzioni giuridiche dei Paesi dell'America latina;  
+legislazione sociale;  
+sociologia sistematica;  
+etnologia;  
+psicologia dinamica;  
+storia della letteratura moderna e contemporanea;  
+storia della lingua italiana;  
+storia della navigazione;  
+storia dell'architettura e dell'urbanistica;  
+storia dell'arte;  
+storia dei sistemi monetari;  
+storia del commercio.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 settembre 1965
+### Dato a Roma, addi' 28 ottobre 1983
 
-SARAGAT GUI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 29 novembre 1965
+Registrato alla Corte dei conti, addi' 30 gennaio 1984
 
-Atti del Governo, registro n. 198, foglio n. 65. - VILLA
+Registro n. 4 Istruzione, foglio n. 380

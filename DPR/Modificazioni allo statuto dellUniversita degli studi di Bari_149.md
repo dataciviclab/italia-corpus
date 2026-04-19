@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1960 n. 1746
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1980 n. 883
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1960 n. 1746
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1980 n. 883
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,383 +10,148 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e successivi;
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
 
-Veduto il testo unico dello leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e Successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53);
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro per la pubblica Istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 92, relativo alle propedeuticita' degli insegnamenti ed esami del corso di laurea in Scienze geologiche, e' modificato nel senso che e' soppressa la propedeuticita' di Fisica I su Mineralogia.
-
-Gli articoli 95 e 96 relativi al biennio propedeutico per la laurea in Ingegneria presso la Facolta' di scienze matematiche, fisiche e naturali sono soppressi.
-
-Gli articoli da 98 a 103 del titolo X: Facolta' di ingegneria, sono abrogati e sostituiti dai seguenti:
-
-Art. 98. - La Facolta' di ingegneria e' costituita su cinque anni e comprende il corso di laurea in Ingegneria civile nelle sue tre sezioni: edile, idraulica, trasporti.
-
-Art. 99. - Titolo di ammissione al corso di laurea in Ingegneria e' il diploma di maturita' classica o di maturita' scientifica.
-
-Art. 100. - I primi due anni del corso quinquennale di studio hanno funzione preminentemente propedeutica a scopo largamente formativo e comprendono i seguenti insegnamenti fondamentali:
-
-1° anno:
-
-1) Analisi matematica I;
-
-2) Geometria I;
-
-3) Fisica I;
-
-4) Chimica;
-
-5) Disegno;
-
-2° anno:
-
-6) Analisi matematica II;
-
-7) Meccanica razionale;
-
-8) Fisica II;
-
-9) Disegno II (differenziato secondo i corsi di laurea); quest'ultimo in sostituzione della Geometria II.
-
-Art. 101. - Gli studenti del primo anno di corso potranno ottenere l'iscrizione al secondo anno di corso qualora abbiano superato almeno due fra i quattro seguenti esami: Analisi matematica I, Geometria I, Fisica I, Chimica.
-
-Al termine del secondo anno di corso lo studente per essere ammesso al terzo anno di corso dovra' aver superato gli esami di tutte le discipline del biennio propedeutico.
-
-I due esami di Fisica comprendono la parte riguardante le relative esercitazioni.
-
-Art. 102. - Gli insegnamenti del triennio 3°, 4° e 3° anno hanno carattere applicativo e si distinguono in:
-
-A) Obbligatori comuni sul piano nazionale;
-
-B) Obbligatori sul piano della Facolta';
-
-C) Gruppi di materia a scelta dello studente.
-
-Il terzo anno, comune alle tre sezioni, comprende i seguenti insegnamenti:
-
-10) Scienza delle costruzioni;
-
-11) Meccanica applicata alle macchine e macchine;
-
-12) Fisica tecnica;
-
-13) Idraulica;
-
-14) Tecnologie dei materiali e chimica applicata;
-
-15) Architettura tecnica;
-
-16) Topografia.
-
-Gli insegnamenti del 4° e 5° anno della sezione edile sono i seguenti:
-
-4° anno:
-
-17) Elettrotecnica;
-
-18) Tecnica delle costruzioni;
-
-19) Architettura tecnica II;
-
-20) Geologia applicata;
-
-21) Costruzioni idrauliche;
-
-22) Tecnica urbanistica;
-
-23) Costruzioni di strade, ferrovie ed aeroporti.
-
-5° anno:
-
-24) Architettura e composizione architettonica;
-
-25) Materie giuridiche e legislazione dei lavori pubblici;
-
-26) Estimo e principi di tecnica economica;
-
-27) Scienza delle costruzioni II;
-
-28) Impianti tecnici edili;
-
-A scelta uno dei seguenti gruppi:
-
-| 29) Igiene applicata;
-
-I <
-
-| 30) Tecnologie del materiali edili;
-
-| 29) Cantieri edili;
-
-II <
-
-| 30) Tecnologie della produzione.
-
-Gli insegnamenti del 4° e 5° anno della sezione idraulica sono i seguenti:
-
-4° anno:
-
-17) Elettrotecnica;
-
-18) Tecnica delle costruzioni;
-
-19) Architettura tecnica II;
-
-20) Costruzioni idrauliche;
-
-21) Geologia applicata;
-
-22) Complementi di costruzioni idrauliche;
-
-23) Costruzione di strade, ferrovie ed aeroporti;
-
-5° anno:
-
-24) Materie giuridiche e legislazione dei lavori pubblici;
-
-25) Estimo e principi di tecnica economica;
-
-26) Impianti speciali idraulici;
-
-27) Costruzioni di ponti;
-
-28) Costruzioni marittime.
-
-A scelta uno dei seguenti gruppi:
-
-| 29) Idraulica agraria;
-
-I <
-
-| 30) Tecnica della bonifica;
-
-| 29) Igiene applicata;
-
-II <
-
-| 30) Idrologia.
-
-Gli insegnamenti del 4° e 5° anno della sezione trasporti sono i seguenti:
-
-4° anno:
-
-17) Elettrotecnica;
-
-18) Tecnica delle costruzioni;
-
-19) Architettura tecnica II;
-
-20) Costruzione di strade, ferrovie ed aeroporti;
-
-21) Geologia applicata;
-
-22) Costruzioni Idrauliche;
-
-23) Tecnica urbanistica;
-
-5° anno:
-
-24) Materie giuridiche e legislazione dei lavori pubblici;
-
-25) Estimo e principi di tecnica economica;
-
-26) Tecnica ed economia dei trasporti;
-
-27) Costruzione di ponti;
-
-28) Macchine ed organizzazione dei cantieri.
-
-A scelta uno del seguenti gruppi di materie:
-
-| 29) Complementi di costruzioni stradali;
-
-I <
-
-| 30) Tecnica della circolazione;
-
-| 29) Trazione elettrica;
-
-II <
-
-| 30) Complementi di tecnica ed economia dei trasporti.
-
-Art. 103. - Per essere ammesso all'esame di laurea lo studente dovra' aver superato tutti gli insegnamenti obbligatori del triennio di applicazione compresi quelli a scelta dello studente.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 30 ottobre 1960
-
-GRONCHI
-
-BOSCO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte del conti, addi' 26 gennaio 1961 Atti del Governo, registro n. 133, foglio n. 97. - VILLA
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso;
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e successivi;  
-Veduto il testo unico dello leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Veduto il [decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica Istruzione;  
+Il testo dell'art. 53, relativo alla facolta' di medicina e chirurgia, e' cosi' modificato:  
+La facolta' di medicina e chirurgia conferisce:  
+a) la laurea in medicina e chirurgia;  
+b) la laurea in odontoiatria e protesi dentaria.  
+
+Art. 2
+------
+
   
-Decreta:  
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Dopo l'art. 56, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in odontoiatria e protesi dentaria.   
+Corso di laurea in odontoiatria e protesi dentaria   
+Art. 57. - La durata del corso di studi per la laurea in odontoiatria e protesi dentaria e' di cinque anni, suddivisi in un biennio e un triennio.   
+Titolo di ammissione: quello previsto dalle vigenti disposizioni di legge.   
+Il numero massimo degli allievi iscrivibili e' di venti per anno di corso.   
+L'accesso al corso di laurea verra' regolato da un esame di ammissione; il punteggio da attribuire nell'esame sara' cosi' ripartito: il 30% sara' riservato al voto riportato dal candidato nell'esame di Stato di licenza della scuola secondaria superiore ed il 70% sara' riservato alla prova di esame di ammissione al corso di laurea con tests a scelta multipla su argomenti di biologia generale, chimica, fisica e matematica, secondo i programmi della scuola media superiore.   
+Art. 58. - Il corso di laurea in odontoiatria e protesi dentaria comincera' a funzionare a decorrere dall'anno accademico 1980-81 con il primo biennio.   
+Negli anni accademici successivi funzioneranno progressivamente gli anni di corso susseguenti al secondo.   
+Art. 59. - A partire dall'anno accademico 1981-82 saranno formulate due graduatorie distinte, l'una per gli studenti da iscriversi al primo anno, l'altra per quelli in possesso dei requisiti di cui al successivo art. 60 e che potranno iscriversi al secondo anno, in aggiunta agli iscritti provenienti dal primo anno e per un numero che in totale non superera' comunque le venti unita', sempre e solo nella eventualita' che esista una disponibilita' di posti resisi vacanti.   
+Art. 60. - Sono insegnamenti fondamentali:   
+Biennio:   
+1) anestesia generale e speciale odontostomatologica (semestrale);   
+\* 2) biologia generale applicata agli studi medici;   
+\* 3) chimica;   
+\* 4) chimica biologica;   
+5) farmacologia (semestrale);   
+\* 6) fisica medica;   
+7) fisiologia umana e dell'apparato stomatognatico;   
+8) igiene e odontoiatria preventiva e sociale con epidemiologia (semestrale);   
+9) istituzioni di anatomia umana normale e dell'apparato stomatognatico;   
+10) istituzioni di anatomia ed istologia patologica;   
+\* 11) istologia ed embriologia generale (compresa la citologia);   
+12) materiali dentari;   
+13) microbiologia (semestrale);   
+14) odontoiatria conservatrice (triennale - secondo, terzo e quarto anno);   
+15) patologia generale.   
+Triennio:   
+16) chirurgia speciale odontostomatologica (biennale - terzo e quarto anno);   
+17) clinica odontostomatologica (biennale - quarto e quinto anno);   
+18) medicina legale e delle assicurazioni e deontologia in odontostomatologia (semestrale);   
+19) neuropatologia e psicopatologia (semestrale);   
+20) ortognatodonzia e gnatologia (funzione masticatoria (biennale - quarto e quinto anno);   
+21) parodotologia (biennale-quarto e quinto anno);   
+22) patologia speciale chirurgica e propedeutica clinica;   
+23) patologia speciale medica e metodologia clinica (compresa la pediatria);   
+24) patologia speciale odontostomatologica;   
+25) pedodonzia (semestrale);   
+26) protesi dentaria (triennale - terzo, quarto e quinto anno);  
+27) radiologia generale e speciale odontostomatologica (semestrale).   
+Sono insegnamenti complementari:   
+\* 1) chirurgia maxillo-facciale;   
+\* 2) dermatologia e venerologia (semestrale);   
+\* 3) otorinolaringoiatria (semestrale);   
+\* 4) statistica sanitaria;   
+altri insegnamenti complementari nel piano della facolta' sempre mutuati dal corso di laurea in medicina e chirurgia.   
+Gli insegnamenti segnati con asterisco sono mutuati dal corso di laurea in medicina e chirurgia.   
+Gli insegnamenti fondamentali sono teorici e pratici e la loro frequenza e' obbligatoria.   
+Gli insegnamenti specificatamente odontostomatologici di ordine clinico comportano anche un tirocinio pratico continuativo da espletare prima di sostenere i relativi esami.   
+Gli allievi, che non conseguono le attestazioni di frequenza, non possono essere ammessi a sostenere le relative prove di esame.   
+Per gli insegnamenti semestrali ed annuali lo studente e' tenuto a sostenere un esame alla fine del corso.   
+Per gli insegnamenti pluriennali lo studente e' tenuto a superare tanti esami per quante sono le annualita'.   
+Il tirocinio pratico, relativo ad ogni insegnamento clinico, deve prevedere da parte di componenti dell'organico, una assistenza didattica adeguata al numero degli studenti.   
   
-Art. 92, relativo alle propedeuticita' degli insegnamenti ed esami del corso di laurea in Scienze geologiche, e' modificato nel senso che e' soppressa la propedeuticita' di Fisica I su Mineralogia.  
   
-Gli articoli 95 e 96 relativi al biennio propedeutico per la laurea in Ingegneria presso la Facolta' di scienze matematiche, fisiche e naturali sono soppressi.  
   
-Gli articoli da 98 a 103 del titolo X: Facolta' di ingegneria, sono abrogati e sostituiti dai seguenti:  
+Non si puo' essere ammessi Se non si e' superato  
+a sostenere l'esame di: l'esame di:  
   
-Art. 98. - La Facolta' di ingegneria e' costituita su cinque anni e comprende il corso di laurea in Ingegneria civile nelle sue tre sezioni: edile, idraulica, trasporti.  
   
-Art. 99. - Titolo di ammissione al corso di laurea in Ingegneria e' il diploma di maturita' classica o di maturita' scientifica.  
+Fisiologia umana e dell'apparato Istituzioni di anatomia umana  
+stomatognatico normale e dell'apparato  
+Patologia generale stomatognatico  
+Chimica  
+Biologia generale applicata  
+agli studi medici  
+Fisica medica  
   
-Art. 100. - I primi due anni del corso quinquennale di studio hanno funzione preminentemente propedeutica a scopo largamente formativo e comprendono i seguenti insegnamenti fondamentali:  
-1° anno:  
-1) Analisi matematica I;  
-2) Geometria I;  
-3) Fisica I;  
-4) Chimica;  
-5) Disegno;  
-2° anno:  
-6) Analisi matematica II;  
-7) Meccanica razionale;  
-8) Fisica II;  
-9) Disegno II (differenziato secondo i corsi di laurea); quest'ultimo in sostituzione della Geometria II.  
   
-Art. 101. - Gli studenti del primo anno di corso potranno ottenere l'iscrizione al secondo anno di corso qualora abbiano superato almeno due fra i quattro seguenti esami: Analisi matematica I, Geometria I, Fisica I, Chimica.  
-Al termine del secondo anno di corso lo studente per essere ammesso al terzo anno di corso dovra' aver superato gli esami di tutte le discipline del biennio propedeutico.  
-I due esami di Fisica comprendono la parte riguardante le relative esercitazioni.  
+Patologia speciale e metodologia Fisiologia umana e dell'ap-  
+clinica (compresa la parato stomatognatico  
+pediatria) Patologia generale  
+Patologia speciale chirurgica e propedeutica clinica  
   
-Art. 102. - Gli insegnamenti del triennio 3°, 4° e 3° anno hanno carattere applicativo e si distinguono in:  
-A) Obbligatori comuni sul piano nazionale;  
-B) Obbligatori sul piano della Facolta';  
-C) Gruppi di materia a scelta dello studente.  
-Il terzo anno, comune alle tre sezioni, comprende i seguenti insegnamenti:  
-10) Scienza delle costruzioni;  
-11) Meccanica applicata alle macchine e macchine;  
-12) Fisica tecnica;  
-13) Idraulica;  
-14) Tecnologie dei materiali e chimica applicata;  
-15) Architettura tecnica;  
-16) Topografia.  
-Gli insegnamenti del 4° e 5° anno della sezione edile sono i seguenti:  
-4° anno:  
-17) Elettrotecnica;  
-18) Tecnica delle costruzioni;  
-19) Architettura tecnica II;  
-20) Geologia applicata;  
-21) Costruzioni idrauliche;  
-22) Tecnica urbanistica;  
-23) Costruzioni di strade, ferrovie ed aeroporti.  
-5° anno:  
-24) Architettura e composizione architettonica;  
-25) Materie giuridiche e legislazione dei lavori pubblici;  
-26) Estimo e principi di tecnica economica;  
-27) Scienza delle costruzioni II;  
-28) Impianti tecnici edili;  
   
-A scelta uno dei seguenti gruppi:  
-| 29) Igiene applicata;  
-I <  
-| 30) Tecnologie del materiali edili;  
-| 29) Cantieri edili;  
-II <  
-| 30) Tecnologie della produzione.  
+Clinica odontostomatologica Patologia speciale medica e  
+metodologia clinica (com-  
+presa la pediatria)  
+Patologia speciale chirurgica  
+e propedeutica clinica  
+Istituzioni di anatomia ed  
+istologia patologica  
+Patologia speciale odonto-  
+stomatologica  
+Chirurgia speciale odonto-  
+stomatologica.  
   
-Gli insegnamenti del 4° e 5° anno della sezione idraulica sono i seguenti:  
-4° anno:  
-17) Elettrotecnica;  
-18) Tecnica delle costruzioni;  
-19) Architettura tecnica II;  
-20) Costruzioni idrauliche;  
-21) Geologia applicata;  
-22) Complementi di costruzioni idrauliche;  
-23) Costruzione di strade, ferrovie ed aeroporti;  
-5° anno:  
-24) Materie giuridiche e legislazione dei lavori pubblici;  
-25) Estimo e principi di tecnica economica;  
-26) Impianti speciali idraulici;  
-27) Costruzioni di ponti;  
-28) Costruzioni marittime.  
   
-A scelta uno dei seguenti gruppi:  
-| 29) Idraulica agraria;  
-I <  
-| 30) Tecnica della bonifica;  
-| 29) Igiene applicata;  
-II <  
-| 30) Idrologia.  
   
-Gli insegnamenti del 4° e 5° anno della sezione trasporti sono i seguenti:  
-4° anno:  
-17) Elettrotecnica;  
-18) Tecnica delle costruzioni;  
-19) Architettura tecnica II;  
-20) Costruzione di strade, ferrovie ed aeroporti;  
-21) Geologia applicata;  
-22) Costruzioni Idrauliche;  
-23) Tecnica urbanistica;  
-5° anno:  
-24) Materie giuridiche e legislazione dei lavori pubblici;  
-25) Estimo e principi di tecnica economica;  
-26) Tecnica ed economia dei trasporti;  
-27) Costruzione di ponti;  
-28) Macchine ed organizzazione dei cantieri.  
   
-A scelta uno del seguenti gruppi di materie:  
-| 29) Complementi di costruzioni stradali;  
-I <  
-| 30) Tecnica della circolazione;  
-| 29) Trazione elettrica;  
-II <  
-| 30) Complementi di tecnica ed economia dei trasporti.  
-  
-Art. 103. - Per essere ammesso all'esame di laurea lo studente dovra' aver superato tutti gli insegnamenti obbligatori del triennio di applicazione compresi quelli a scelta dello studente.  
+Per essere ammesso a sostenere l'esame di laurea in odontoiatria e protesi dentaria, lo studente deve aver seguito i corsi ed aver superato gli esami in tutti gli insegnamenti fondamentali ed almeno in due insegnamenti scelti tra i complementari ed aver, inoltre, seguito le prescritte esercitazioni cliniche, i tirocini pratici ed averne conseguito le relative attestazioni.   
+L'esame di laurea consiste nella discussione di una tesi scritta su argomenti in odontostomatologia da richiedere almeno all'inizio dell'ultimo anno di corso.   
+Per il trasferimento degli studenti iscritti al corso di laurea in medicina e chirurgia le abbreviazioni di corso non possono superare l'ammissione oltre il secondo anno, subordinatamente al numero dei posti resisi disponibili all'inizio del secondo anno sempre che gli aspiranti abbiano superato gli esami di biologia generale applicata agli studi medici, chimica, fisica medica, istologia ed embriologia generale (compresa la citologia).   
+Per i laureati in medicina e chirurgia le abbreviazioni di corso potranno essere concesse, sempre con iscrizione al secondo anno, subordinatamente al numero dei posti resisi disponibili all'inizio del secondo anno e dopo che sia trascorso un anno accademico dal conseguimento della laurea precedente.   
+Per esercitare la professione i laureati in odontoiatria e protesi dentaria devono superare un apposito esame di Stato.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1960
+### Dato a Roma, addi' 24 ottobre 1980
 
-GRONCHI BOSCO
+PERTINI BODRATO
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte del conti, addi' 26 gennaio 1961
+Registrato alla Corte dei conti, addi' 10 dicembre 1980
 
-Atti del Governo, registro n. 133, foglio n. 97. - VILLA
+Registro n. 115 Istruzione, foglio n. 362

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 giugno 1970 n. 619
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 giugno 1970 n. 617
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 giugno 1970 n. 619
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 giugno 1970 n. 617
 =============================================================
 
 Autorizzazione all'Ente nazionale per l'addestramento dei lavoratori del commercio, con sede in Roma, ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-619. Decreto del Presidente della Repubblica 23 giugno 1970, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Ente nazionale per l'addestramento dei lavoratori del commercio (ENALC), con sede in Roma, viene autorizzato ad acquistare dall'Istituto per lo sviluppo dell'edilizia sociale (ISES), il fabbricato di quattro piani e con vari vani, sito in Ancona e distinto in catasto alla partita n. 27910, sezione A, foglio IX, n. 845, alle condizioni ed agli effetti specificati nell'atto di promessa di vendita, registrato all'ufficio atti privati col n. 5193, repertorio n. 338, il 29 maggio 1969 in Roma, da destinare a Centro di formazione professionale per lavoratori del commercio.  
+617. Decreto del Presidente della Repubblica 23 giugno 1970, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Ente nazionale per l'addestramento dei lavoratori del commercio (ENALC), con sede in Roma, viene autorizzato ad acquistare dai sigg. Giovanni, Rocco e Domenico Scola un locale terreno di mq. 80, sito in Cosenza, distinto in catasto al foglio n. 10, particella n. 138 sub 4, come da atto pubblico per notar Luigi Goffredo, repertorio n. 119801 del 16 luglio 1962, da destinare a Centro di formazione professionale per lavoratori del commercio.  
   
 Visto, il Guardasigilli: REALE  
 Registrato alla Corte dei conti, addi' 17 agosto 1970  
-Atti del Governo, registro n. 237, foglio n. 39. - CARUSO
+Atti del Governo, registro n. 237, foglio n. 40. - CARUSO

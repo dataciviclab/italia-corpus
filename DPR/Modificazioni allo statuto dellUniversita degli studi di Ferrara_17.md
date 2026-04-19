@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1973 n. 1120
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1963 n. 2164
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1973 n. 1120
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1963 n. 2164
 ================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), modificato con [decreto del Presidente della Repubblica 12 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-12;1207), e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzionie superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -28,34 +28,106 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita', degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:
 
-Art. 144 - all'elenco degli insegnamenti del terzo anno di corso della scuola di specializzazione in oncologia e' aggiunto il seguente:
+Dopo l'art. 102 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Chirurgia pediatrica, annessa alla Facolta' di medicina e chirurgia.
 
-Radiologia (diagnostica e terapia dei tumori).
+Scuola di specializzazione in Chirurgia pediatrica
+
+Art. 103. - La Scuola di specializzazione in Chirurgia pediatrica ha la durata di tre anni ed ha sede presso la clinica chirurgica, il cui professore di ruolo e' direttore della Scuola.
+
+Art. 104. - L'ammissione alla Scuola si effettua solo in base a concorso per titoli ed esami.
+
+Alla Scuola non potranno essere iscritti piu' di otto allievi per ciascun anno di corso.
+
+Art. 105. - Le materie obbligatorie per il conseguimento del diploma sono le seguenti:
+
+Primo anno:
+
+Clinica chirurgica e terapia chirurgica;
+
+Elementi di anestesiologia nell'infanzia;
+
+Fisiologia;
+
+Patologia generale con particolare riguardo alle anomalie e alle deformita';
+
+Elementi di puericultura;
+
+Farmacologia con particolare riguardo agli anestetici;
+
+Anatomia ed istologia patologica.
+
+Secondo anno:
+
+Clinica chirurgia terapia chirurgica;
+
+Elementi di anestesiologia nell'infanzia;
+
+Tecnica degli esami endoscopici;
+
+Radiologia;
+
+Ortopedia;
+
+Clinica pediatrica.
+
+Terzo anno:
+
+Clinica chirurgica e terapia chirurgica;
+
+Elementi di anestesiologia nell'infanzia;
+
+Clinica pediatrica.
+
+Art. 106. - Gli esami di profitto, che si sostengono in gruppo di materie, sono obbligatori alla fine del secondo e terzo anno.
+
+Gli allievi che non superano alla fine del secondo anno i seguenti esami, in gruppo di materie, non possono essere iscritti al terzo anno.
+
+1° gruppo:
+
+Fisiologia. - Farmacologia - Puericultura.
+
+2° gruppo:
+
+Patologia generale - Anatomia e istologia patologica.
+
+3° gruppo:
+
+Radiologia - Ortopedia - Tecnica degli esami endoscopici.
+
+Alla fine del terzo anno, per essere ammessi all'esame di diploma, gli allievi debbono aver superato l'esame di profitto nel seguente gruppo di materie:
+
+Elementi di anestesiologia nell'infanzia;
+
+Clinica pediatrica Clinica chirurgica e terapia chirurgica.
+
+Art. 107. - L'insegnamento ha carattere pratico dimostrativo a mezzo di lezioni, colloqui ed esercitazioni sopra casi clinici.
+
+L'internato e' obbligatorio durante i tre anni di corso e si svolge nella clinica chirurgica.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 24 dicembre 1973
+Dato a Roma, addi' 3 dicembre 1963
 
-LEONE
+SEGNI
 
-MALFATTI
+GUI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 1 giugno 1974 Atti di Governo, registro n. 4, foglio n. 2. - SCIARRETTA
+alla Corte dei conti, addi' 8 febbraio 1964 Atti del Governo, registro n. 180, foglio n. 26. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), modificato con [decreto del Presidente della Repubblica 12 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-12;1207), e successivi;  
+Veduto il testo unico delle leggi sull'istruzionie superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
@@ -65,21 +137,59 @@ Sulla proposta del Ministro per la pubblica istruzione;
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 144 - all'elenco degli insegnamenti del terzo anno di corso della scuola di specializzazione in oncologia e' aggiunto il seguente:  
+Lo statuto dell'Universita', degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:  
   
-Radiologia (diagnostica e terapia dei tumori).  
+Dopo l'art. 102 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Chirurgia pediatrica, annessa alla Facolta' di medicina e chirurgia.  
+  
+Scuola di specializzazione in Chirurgia pediatrica  
+  
+Art. 103. - La Scuola di specializzazione in Chirurgia pediatrica ha la durata di tre anni ed ha sede presso la clinica chirurgica, il cui professore di ruolo e' direttore della Scuola.  
+Art. 104. - L'ammissione alla Scuola si effettua solo in base a concorso per titoli ed esami.  
+Alla Scuola non potranno essere iscritti piu' di otto allievi per ciascun anno di corso.  
+Art. 105. - Le materie obbligatorie per il conseguimento del diploma sono le seguenti:  
+Primo anno:  
+Clinica chirurgica e terapia chirurgica;  
+Elementi di anestesiologia nell'infanzia;  
+Fisiologia;  
+Patologia generale con particolare riguardo alle anomalie e alle deformita';  
+Elementi di puericultura;  
+Farmacologia con particolare riguardo agli anestetici;  
+Anatomia ed istologia patologica.  
+Secondo anno:  
+Clinica chirurgia terapia chirurgica;  
+Elementi di anestesiologia nell'infanzia;  
+Tecnica degli esami endoscopici;  
+Radiologia;  
+Ortopedia;  
+Clinica pediatrica.  
+Terzo anno:  
+Clinica chirurgica e terapia chirurgica;  
+Elementi di anestesiologia nell'infanzia;  
+Clinica pediatrica.  
+Art. 106. - Gli esami di profitto, che si sostengono in gruppo di materie, sono obbligatori alla fine del secondo e terzo anno.  
+Gli allievi che non superano alla fine del secondo anno i seguenti esami, in gruppo di materie, non possono essere iscritti al terzo anno.  
+1° gruppo:  
+Fisiologia. - Farmacologia - Puericultura.  
+2° gruppo:  
+Patologia generale - Anatomia e istologia patologica.  
+3° gruppo:  
+Radiologia - Ortopedia - Tecnica degli esami endoscopici.  
+Alla fine del terzo anno, per essere ammessi all'esame di diploma, gli allievi debbono aver superato l'esame di profitto nel seguente gruppo di materie:  
+Elementi di anestesiologia nell'infanzia;  
+Clinica pediatrica Clinica chirurgica e terapia chirurgica.  
+Art. 107. - L'insegnamento ha carattere pratico dimostrativo a mezzo di lezioni, colloqui ed esercitazioni sopra casi clinici.  
+L'internato e' obbligatorio durante i tre anni di corso e si svolge nella clinica chirurgica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 dicembre 1973
+### Dato a Roma, addi' 3 dicembre 1963
 
-LEONE MALFATTI
+SEGNI GUI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 1 giugno 1974
+Registrato alla Corte dei conti, addi' 8 febbraio 1964
 
-Atti di Governo, registro n. 4, foglio n. 2. - SCIARRETTA
+Atti del Governo, registro n. 180, foglio n. 26. - VILLA

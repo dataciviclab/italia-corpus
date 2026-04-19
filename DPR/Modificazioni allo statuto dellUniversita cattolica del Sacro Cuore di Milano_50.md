@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1229
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1978 n. 747
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1229
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1978 n. 747
+==============================================================
 
 Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
 --------------------------------------------------------------------------------
@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -30,496 +30,173 @@ Decreta:
 
 Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli 132, 133, 134, relativi alla scuola di specializzazione in igiene e medicina preventiva, sono abrogati e sostituiti dai seguenti:
+Dopo l'art. 155, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina dello sport:
 
-Scuola di specializzazione in igiene e medicina preventiva
+Scuola di specializzazione in medicina dello sport
 
-Art. 132. - La scuola di specializzazione in igiene e medicina preventiva ha sede presso l'istituto di igiene e conferisce il diploma di specialista in igiene e medicina preventiva.
+Art. 156. - La scuola di specializzazione in medicina dello sport dell'Universita' cattolica del Sacro Cuore si propone:
 
-La direzione della scuola e' affidata al professore di ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+a) di valorizzare e approfondire gli studi biologici e di medicina applicata nel campo delle attivita' sportive, formative e di competizione, e dell'educazione fisica;
 
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+b) di preparare adeguatamente, sotto l'aspetto teorico e dell'applicazione pratica, i medici che intendono dedicarsi alle attivita' attinenti a questa particolare branca della medicina applicata, conferendo ad essi il diploma di specialista in medicina dello sport.
 
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+Art. 157. - Il titolo richiesto per l'ammissione alla scuola e' la laurea in medicina e chirurgia.
 
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
+Il corso di studi ha la durata di tre anni, con frequenza obbligatoria: esso ha la sua sede presso gli istituti di fisiologia umana e di medicina del lavoro.
 
-Il numero massimo degli allievi e' complessivamente di trenta iscritti per l'intero corso di studi.
+Il numero massimo degli allievi sara' di dieci per anno e complessivamente di trenta per l'intero corso.
 
-L'ammissione al corso avviene per titoli ed esami.
+L'ammissione ai corsi avviene per titoli. Nel caso di domande eccedenti il numero di posti disponibili la selezione dei candidati avverra' in base ai risultati di un esame di ammissione.
 
-Art. 133. - Il corso si articola in un biennio propedeutico seguito da un biennio differenziato con cinque orientamenti e precisamente:
+Non sono previste abbreviazioni di corso.
 
-a) sanita' pubblica;
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
 
-b) igiene e tecnica ospedaliera;
-
-c) igiene del lavoro;
-
-d) igiene e medicina scolastica;
-
-e) laboratorio.
-
-Il piano di studi e' il seguente:
-
-I BIENNIO
+Art. 158. - L'ordine degli studi e' il seguente:
 
 1° Anno:
 
-metodologia statistica e biometria;
+anatomia dell'apparato locomotore;
 
-educazione sanitaria;
+fisiologia dell'apparato locomotore;
 
-psicologia;
+biochimica ed energetica muscolare;
 
-microbiologia ed immunologia I;
+antropometria e auxologia;
 
-parassitologia;
+psicologia applicata allo sport;
 
-epidemiologia generale e metodologia;
+storia dell'educazione fisica e dello sport;
 
-profilassi generale;
-
-sociologia medica ed antropologia culturale.
+sistematica delle attivita' sportivo-agonistiche e regolamenti sportivi.
 
 2° Anno:
 
-microbiologia ed immunologia II;
+fisiologia dell'esercizio fisico;
 
-patologia e clinica delle malattie infettive;
+biomeccanica dell'esercizio fisico;
 
-epidemiologia e profilassi delle malattie infettive I;
+metodologia dell'allenamento sportivo;
 
-patologia e clinica delle malattie non infettive di importanza sociale;
+scienza della nutrizione applicata all'attivita' sportiva;
 
-epidemiologia e profilassi delle malattie non infettive di importanza sociale I;
+fisiopatologia degli sport e semeiotica medico-sportiva I;
 
-demografia e statistica sanitaria;
+farmacologia e tossicologia del doping;
 
-legislazione e programmazione sanitaria.
-
-II BIENNIO
-
-a) Orientamento di sanita' pubblica
+igiene e medicina preventiva applicata all'attivita' sportiva; traumatologia degli sport.
 
 3° Anno:
 
-epidemiologia e profilassi delle malattie infettive II;
+fisiologia applicata agli sport;
 
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
+valutazione funzionale dello sport;
 
-igiene dell'ambiente fisico e difesa ecologica;
+fisiopatologia e rieducazione funzionale;
 
-igiene degli alimenti e della nutrizione;
+rianimazione e pronto soccorso;
 
-igiene dell'eta' evolutiva;
+medicina legale e infortunistica legata agli sport;
 
-igiene del lavoro;
+fisiologia dell'adattamento agli ambienti straordinari;
 
-igiene ed assistenza dell'anziano.
+fisiopatologia degli sport e semeiotica medico-sportiva II.
 
-4° Anno.
+La scuola svolgera' brevi corsi integrativi che saranno stabiliti, secondo le possibilita' contingenti, dal consiglio dei docenti della scuola.
 
-igiene dell'edilizia e dell'aggregato urbano;
+Saranno inoltre svolte esercitazioni pratiche in sede e sul campo.
 
-igiene ospedaliera;
+Art. 159. - Alla fine di ogni anno di corso gli allievi dovranno sostenere l'esame di profitto nelle materie di insegnamento (art. 158), previste per ogni anno di corso e articolate in un unico gruppo.
 
-organizzazione del territorio e programmazione sanitaria;
+L'iscrizione agli anni successivi e' subordinata al superamento di tutti gli esami annuali.
 
-medicina di comunita';
-
-economia sanitaria;
-
-elementi di diritto amministrativo.
-
-b) Orientamento di igiene e tecnica ospedaliera
-
-3° Anno:
-
-epidemiologia e profilassi delle malattie infettive II;
-
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
-
-igiene dell'ambiente fisico e difesa ecologica;
-
-igiene e tecnica delle costruzioni ospedaliere; arredamenti ed impianti tecnologici;
-
-igiene dell'alimentazione e dietetica ospedaliera;
-
-organizzazione e funzionamento degli ospedali I;
-
-elementi di diritto e legislazione ospedaliera.
-
-4° Anno:
-
-organizzazione e funzionamento degli ospedali II;
-
-compiti ed attribuzioni della direzione sanitaria;
-
-formazione professionale e compiti del personale ospedaliero;
-
-programmazione ospedaliera e medicina di comunita';
-
-assistenza psichiatrica;
-
-aspetti socio-sanitari dell'ospitalismo;
-
-aspetti economici della gestione ospedaliera.
-
-c) Orientamento di igiene del lavoro
-
-3° Anno:
-
-epidemiologia e profilassi delle malattie infettive II;
-
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
-
-igiene dell'ambiente fisico e difesa ecologica;
-
-epidemiologia e profilassi delle malattie del lavoro;
-
-tecnica ed economia degli impianti industriali;
-
-tossicologia industriale e diagnostica di laboratorio;
-
-elementi di fisica tecnica applicata all'igiene;
-
-igiene dell'ambiente di lavoro I.
-
-4° Anno:
-
-igiene dell'ambiente di lavoro II;
-
-elementi di diritto e legislazione del lavoro;
-
-psicologia del lavoro;
-
-prevenzione degli infortuni;
-
-politica del territorio ed insediamento industriale;
-
-igiene del lavoro e medicina di comunita';
-
-d) Orientamento di igiene e medicina scolastica
-
-3° Anno:
-
-epidemiologia e profilassi delle malattie infettive II;
-
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
-
-igiene dell'ambiente fisico e difesa ecologica;
-
-clinica delle malattie dell'eta' evolutiva;
-
-epidemiologia e profilassi delle malattie dell'eta' evolutiva;
-
-igiene degli alimenti e della nutrizione;
-
-auxologia normale e patologica;
-
-psicologia dell'eta' evolutiva.
-
-4° Anno:
-
-servizi di medicina scolastica;
-
-edilizia ed arredamento scolastico;
-
-elementi di pedagogia;
-
-assistenza parascolastica;
-
-educazione sanitaria nella scuola;
-
-legislazione scolastica;
-
-igiene mentale.
-
-e) Orientamento di laboratorio
-
-3° Anno:
-
-epidemiologia e profilassi delle malattie infettive II;
-
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
-
-igiene dell'ambiente fisico e difesa ecologica;
-
-metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale;
-
-metodi e dosaggi biologici per il controllo dell'inquinamento ambientale;
-
-strumentazione e metodologie chimico-cliniche ed ematologiche I; microscopia applicata all'igiene;
-
-elementi di fisica e tecnica applicata all'igiene;
-
-accertamento diagnostico delle malattie infettive e parassitarie I.
-
-4° Anno:
-
-metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale II;
-
-accertamento diagnostico delle malattie infettive e parassitarie II;
-
-strumentazione e metodologie chimico-cliniche ed ematologiche II; ispezione e controllo degli alimenti;
-
-elementi di informatica.
-
-Gli esami relativi alle discipline svolte con insegnamento biennale verranno sostenuti alla fine di detti insegnamenti.
-
-I corsi saranno completati da insegnamenti complementari scelti dalla scuola tra i seguenti:
-
-Materie complementari:
-
-automazione del sistema ospedaliero;
-
-biochimica applicata;
-
-climatologia;
-
-diritto sanitario internazionale;
-
-clementi di medicina legale;
-
-genetica umana;
-
-geologia applicata all'igiene;
-
-idrologia;
-
-igiene dei climi tropicali;
-
-igiene dei trasporti;
-
-igiene militare;
-
-igiene rurale;
-
-istituzioni di matematiche;
-
-micologia;
-
-radioprotezionistica.
-
-A giudizio della scuola possono essere indicati come complementari anche altri insegnamenti regolarmente attivati nel corso di laurea in medicina e chirurgia dell'Universita' cattolica.
-
-I corsi saranno integrati da un tirocinio pratico di durata comunque non inferiore a tre mesi da svolgersi durante il secondo biennio.
-
-Art. 134. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.
-
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
-
-Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno;
-
-per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
-
-Al termine del corso di studi per il conseguimento del diploma di specialista in igiene e medicina preventiva gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+Art. 160. - Il diploma si consegue dopo aver superato tutte le prove di esame del triennio; la prova di diploma si svolge con la discussione su una dissertazione scritta concernente un tema assegnato o in ogni altro caso approvato dal direttore della scuola.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1977
+Dato a Roma, addi' 2 ottobre 1978
 
-LEONE
+PERTINI
 
-MALFATTI
+PEDINI
 
 Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 27 giugno 1978 Registro n. 67 Istruzione, foglio n. 360
+alla Corte dei conti, addi' 13 novembre 1978 Registro n. 121 Istruzione, foglio n. 171
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Dopo l'art. 155, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina dello sport:   
   
-Gli articoli 132, 133, 134, relativi alla scuola di specializzazione in igiene e medicina preventiva, sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in igiene e medicina preventiva  
-  
-Art. 132. - La scuola di specializzazione in igiene e medicina preventiva ha sede presso l'istituto di igiene e conferisce il diploma di specialista in igiene e medicina preventiva.  
-La direzione della scuola e' affidata al professore di ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.  
-Il numero massimo degli allievi e' complessivamente di trenta iscritti per l'intero corso di studi.  
-L'ammissione al corso avviene per titoli ed esami.  
-Art. 133. - Il corso si articola in un biennio propedeutico seguito da un biennio differenziato con cinque orientamenti e precisamente:  
-a) sanita' pubblica;  
-b) igiene e tecnica ospedaliera;  
-c) igiene del lavoro;  
-d) igiene e medicina scolastica;  
-e) laboratorio.  
-Il piano di studi e' il seguente:  
-  
-I BIENNIO  
-  
-1° Anno:  
-metodologia statistica e biometria;  
-educazione sanitaria;  
-psicologia;  
-microbiologia ed immunologia I;  
-parassitologia;  
-epidemiologia generale e metodologia;  
-profilassi generale;  
-sociologia medica ed antropologia culturale.  
-2° Anno:  
-microbiologia ed immunologia II;  
-patologia e clinica delle malattie infettive;  
-epidemiologia e profilassi delle malattie infettive I;  
-patologia e clinica delle malattie non infettive di importanza sociale;  
-epidemiologia e profilassi delle malattie non infettive di importanza sociale I;  
-demografia e statistica sanitaria;  
-legislazione e programmazione sanitaria.  
-  
-II BIENNIO  
-  
-a) Orientamento di sanita' pubblica  
-  
-3° Anno:  
-epidemiologia e profilassi delle malattie infettive II;  
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
-igiene dell'ambiente fisico e difesa ecologica;  
-igiene degli alimenti e della nutrizione;  
-igiene dell'eta' evolutiva;  
-igiene del lavoro;  
-igiene ed assistenza dell'anziano.  
-4° Anno.  
-igiene dell'edilizia e dell'aggregato urbano;  
-igiene ospedaliera;  
-organizzazione del territorio e programmazione sanitaria;  
-medicina di comunita';  
-economia sanitaria;  
-elementi di diritto amministrativo.  
-  
-b) Orientamento di igiene e tecnica ospedaliera  
-  
-3° Anno:  
-epidemiologia e profilassi delle malattie infettive II;  
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
-igiene dell'ambiente fisico e difesa ecologica;  
-igiene e tecnica delle costruzioni ospedaliere; arredamenti ed impianti tecnologici;  
-igiene dell'alimentazione e dietetica ospedaliera;  
-organizzazione e funzionamento degli ospedali I;  
-elementi di diritto e legislazione ospedaliera.  
-4° Anno:  
-organizzazione e funzionamento degli ospedali II;  
-compiti ed attribuzioni della direzione sanitaria;  
-formazione professionale e compiti del personale ospedaliero;  
-programmazione ospedaliera e medicina di comunita';  
-assistenza psichiatrica;  
-aspetti socio-sanitari dell'ospitalismo;  
-aspetti economici della gestione ospedaliera.  
-  
-c) Orientamento di igiene del lavoro  
-  
-3° Anno:  
-epidemiologia e profilassi delle malattie infettive II;  
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
-igiene dell'ambiente fisico e difesa ecologica;  
-epidemiologia e profilassi delle malattie del lavoro;  
-tecnica ed economia degli impianti industriali;  
-tossicologia industriale e diagnostica di laboratorio;  
-elementi di fisica tecnica applicata all'igiene;  
-igiene dell'ambiente di lavoro I.  
-4° Anno:  
-igiene dell'ambiente di lavoro II;  
-elementi di diritto e legislazione del lavoro;  
-psicologia del lavoro;  
-prevenzione degli infortuni;  
-politica del territorio ed insediamento industriale;  
-igiene del lavoro e medicina di comunita';  
-  
-d) Orientamento di igiene e medicina scolastica  
-  
-3° Anno:  
-epidemiologia e profilassi delle malattie infettive II;  
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
-igiene dell'ambiente fisico e difesa ecologica;  
-clinica delle malattie dell'eta' evolutiva;  
-epidemiologia e profilassi delle malattie dell'eta' evolutiva;  
-igiene degli alimenti e della nutrizione;  
-auxologia normale e patologica;  
-psicologia dell'eta' evolutiva.  
-4° Anno:  
-servizi di medicina scolastica;  
-edilizia ed arredamento scolastico;  
-elementi di pedagogia;  
-assistenza parascolastica;  
-educazione sanitaria nella scuola;  
-legislazione scolastica;  
-igiene mentale.  
-  
-e) Orientamento di laboratorio  
-  
-3° Anno:  
-epidemiologia e profilassi delle malattie infettive II;  
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
-igiene dell'ambiente fisico e difesa ecologica;  
-metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale;  
-metodi e dosaggi biologici per il controllo dell'inquinamento ambientale;  
-strumentazione e metodologie chimico-cliniche ed ematologiche I; microscopia applicata all'igiene;  
-elementi di fisica e tecnica applicata all'igiene;  
-accertamento diagnostico delle malattie infettive e parassitarie I.  
-4° Anno:  
-metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale II;  
-accertamento diagnostico delle malattie infettive e parassitarie II;  
-strumentazione e metodologie chimico-cliniche ed ematologiche II; ispezione e controllo degli alimenti;  
-elementi di informatica.  
-Gli esami relativi alle discipline svolte con insegnamento biennale verranno sostenuti alla fine di detti insegnamenti.  
-I corsi saranno completati da insegnamenti complementari scelti dalla scuola tra i seguenti:  
-  
-Materie complementari:  
-  
-automazione del sistema ospedaliero;  
-biochimica applicata;  
-climatologia;  
-diritto sanitario internazionale;  
-clementi di medicina legale;  
-genetica umana;  
-geologia applicata all'igiene;  
-idrologia;  
-igiene dei climi tropicali;  
-igiene dei trasporti;  
-igiene militare;  
-igiene rurale;  
-istituzioni di matematiche;  
-micologia;  
-radioprotezionistica.  
-A giudizio della scuola possono essere indicati come complementari anche altri insegnamenti regolarmente attivati nel corso di laurea in medicina e chirurgia dell'Universita' cattolica.  
-I corsi saranno integrati da un tirocinio pratico di durata comunque non inferiore a tre mesi da svolgersi durante il secondo biennio.  
-Art. 134. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.  
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
-Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno;  
-per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.  
-Al termine del corso di studi per il conseguimento del diploma di specialista in igiene e medicina preventiva gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+Scuola di specializzazione in medicina dello sport   
+Art. 156. - La scuola di specializzazione in medicina dello sport dell'Universita' cattolica del Sacro Cuore si propone:   
+a) di valorizzare e approfondire gli studi biologici e di medicina applicata nel campo delle attivita' sportive, formative e di competizione, e dell'educazione fisica;   
+b) di preparare adeguatamente, sotto l'aspetto teorico e dell'applicazione pratica, i medici che intendono dedicarsi alle attivita' attinenti a questa particolare branca della medicina applicata, conferendo ad essi il diploma di specialista in medicina dello sport.   
+Art. 157. - Il titolo richiesto per l'ammissione alla scuola e' la laurea in medicina e chirurgia.   
+Il corso di studi ha la durata di tre anni, con frequenza obbligatoria: esso ha la sua sede presso gli istituti di fisiologia umana e di medicina del lavoro.   
+Il numero massimo degli allievi sara' di dieci per anno e complessivamente di trenta per l'intero corso.   
+L'ammissione ai corsi avviene per titoli. Nel caso di domande eccedenti il numero di posti disponibili la selezione dei candidati avverra' in base ai risultati di un esame di ammissione.   
+Non sono previste abbreviazioni di corso.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 158. - L'ordine degli studi e' il seguente:   
+1° Anno:   
+anatomia dell'apparato locomotore;   
+fisiologia dell'apparato locomotore;   
+biochimica ed energetica muscolare;   
+antropometria e auxologia;   
+psicologia applicata allo sport;   
+storia dell'educazione fisica e dello sport;   
+sistematica delle attivita' sportivo-agonistiche e regolamenti sportivi.   
+2° Anno:   
+fisiologia dell'esercizio fisico;   
+biomeccanica dell'esercizio fisico;   
+metodologia dell'allenamento sportivo;   
+scienza della nutrizione applicata all'attivita' sportiva;   
+fisiopatologia degli sport e semeiotica medico-sportiva I;   
+farmacologia e tossicologia del doping;   
+igiene e medicina preventiva applicata all'attivita' sportiva; traumatologia degli sport.   
+3° Anno:   
+fisiologia applicata agli sport;   
+valutazione funzionale dello sport;   
+fisiopatologia e rieducazione funzionale;   
+rianimazione e pronto soccorso;   
+medicina legale e infortunistica legata agli sport;   
+fisiologia dell'adattamento agli ambienti straordinari;   
+fisiopatologia degli sport e semeiotica medico-sportiva II.   
+La scuola svolgera' brevi corsi integrativi che saranno stabiliti, secondo le possibilita' contingenti, dal consiglio dei docenti della scuola.   
+Saranno inoltre svolte esercitazioni pratiche in sede e sul campo.   
+Art. 159. - Alla fine di ogni anno di corso gli allievi dovranno sostenere l'esame di profitto nelle materie di insegnamento (art. 158), previste per ogni anno di corso e articolate in un unico gruppo.   
+L'iscrizione agli anni successivi e' subordinata al superamento di tutti gli esami annuali.   
+Art. 160. - Il diploma si consegue dopo aver superato tutte le prove di esame del triennio; la prova di diploma si svolge con la discussione su una dissertazione scritta concernente un tema assegnato o in ogni altro caso approvato dal direttore della scuola.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1977
+### Dato a Roma, addi' 2 ottobre 1978
 
-LEONE MALFATTI
+PERTINI PEDINI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 27 giugno 1978
+Registrato alla Corte dei conti, addi' 13 novembre 1978
 
-Registro n. 67 Istruzione, foglio n. 360
+Registro n. 121 Istruzione, foglio n. 171

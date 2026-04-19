@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 marzo 1973 n. 188
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1970 n. 92
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 marzo 1973 n. 188
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1970 n. 92
+==============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, con sede in Roma, ad accettare un legato.
 ----------------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-188. Decreto del Presidente della Repubblica 12 marzo 1973, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede in Roma, viene autorizzata ad accettare il legato, disposto dalla signora Pia Ghiri, vedova Eschini, con testamento pubblico dell'11 aprile 1962 (n. 142 di repertorio), pubblicato in data 29 agosto 1967 a rogito del dott.  
-Raffaele Marchitelli, registrato a Pistoia in data 1 settembre 1967 al n. 29-B/mod. I, in favore della sezione provinciale di Pistoia dell'U.I.C., costituito dei seguenti immobili siti in Pistoia e valutati complessivamente in L. 7.490.000: 1) appartamento di vani 4 ed accessori al piano terra del fabbricato ubicato in via Campo Marzio n. 39; 2) appartamento di vani 1 ed accessori al primo piano del fabbricato ubicato in via Campo Marzio n. 39; 3) appartamento di vani 4 ed accessori al primo piano del fabbricato ubicato in via Campo Marzio n. 33.  
+92. Decreto del Presidente della Repubblica 5 febbraio 1970, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 5.000.000 disposto dalla signora Enrichetta Maggioli ved. Fabbroni, con testamento pubblico, rogato l'8 gennaio 1967, n. 623 rep. a. u. v. e pubblicato con atto notaio Riccardo Tomezzoli di Verona, rep. 22896, racc. 9784, registrato a Verona il 6 giugno 1967, al n. 2868.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 2 maggio 1973  
-Atti di Governo, registro n. 258, foglio n. 5. - VALENTINI
+Visto, il Guardasigilli: GAVA  
+Registrato alla Corte dei conti, addi' 20 marzo 1970  
+Atti del Governo, registro n. 234, foglio n. 34. - CARUSO

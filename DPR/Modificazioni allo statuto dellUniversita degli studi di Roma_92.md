@@ -1,185 +1,233 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 luglio 1969 n. 600
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 aprile 1968 n. 659
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 luglio 1969 n. 600
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 aprile 1968 n. 659
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica Istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 66. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto quello di: "Storia della critica letteraria".
+
+Art. 68. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto quello di "Storia della critica letteraria".
+
+Art. 80. - All'elenco degli istituti annessi alla facolta' di medicina e chirurgia e' aggiunto quello di:
+
+38) Istituto di psichiatria.
+
+Art. 88. - All'elenco degli insegnamenti complementari del corso di laurea in chimica (indirizzi organico-biologico ed inorganico-chimico-fisico) sono aggiunti quelli di "Spettroscopia molecolare" e "Chimica delle alte temperature.
+
+Nel predetto corso di laurea, per l'indirizzo inorganico-chimico-fisico, l'insegnamento complementare di "Chimica statistica" e' soppresso.
+
+Art. 89. - All'elenco degli insegnamenti complementari del corso di laurea in chimica industriale sono aggiunti quelli di:
+
+Spettroscopia molecolare;
+
+Chimica delle alte temperature.
+
+Art. 100, relativo alle norme sulle propedeuticita' degli esami del corso di laurea in scienze naturali e' modificato nel senso che vengono inserite le seguenti:
+
+"Chimica generale ed inorganica" rispetto a "Chimica organica";
+
+"Mineralogia" rispetto a "Geologia";
+
+"Istituzioni di matematiche" rispetto a "Fisica".
+
+Nello stesso corso di laurea la propedeuticita' dello esame di "Zoologia" rispetto a quello di "Entomologia" e' soppressa.
+
+Art. 101. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti quelli di:
+
+38) Radiogenetica;
+
+39) Immunogenetica;
+
+40) Ecologia ed etologia animale;
+
+41) Endocrinologia comparata;
+
+42) Biologia molecolare;
+
+43) Paleobotanica;
+
+44) Idrobiologia.
+
+Nello stesso corso di laurea l'insegnamento complementare di "Idrobiologia e pescicoltura" e' soppresso.
+
+Art. 102, relativo alle norme sulle propedeuticita' degli esami del corso di laurea in scienze biologiche e' modificato nel senso che viene soppressa la propedeuticita' dell'esame di "Zoologia" rispetto a quello di "Entomologia" e con la istituzione della propedeuticita' dell'esame di "Istituzioni di matematiche" rispetto a quello di "Fisica".
+
+Art. 103, relativo alle norme sulle propedeuticita' degli esami del corso di laurea in scienze geologiche e' modificato nel senso che vengono inserite le seguenti:
+
+Geologia" rispetto a "Geologia applicata";
+
+"Petrografia" e "Paleontologia" rispetto a "Geologia";
+
+"Mineralogia" rispetto a "Geochimica".
+
+Art. 111. - All'elenco degli insegnamenti complementari del corso di laurea in farmacia e' aggiunto quello di: "Istituzioni di matematiche".
+
+Dopo l'art. 6°20 e con il conseguente spostamento della successiva numerazione degli articoli successivi sono aggiunti i seguenti nuovi articoli relativi all'istituzione del corso di specializzazione in ingegneria dei controlli automatici annesso alla facolta' di ingegneria.
+
+Corso di specializzazione in ingegneria
+
+dei controlli automatici
+
+Art. 621. - Presso la facolta' di ingegneria e' istituito un corso di specializzazione in ingegneria dei controlli automatici, al fine di preparare tecnici specializzati per la soluzione dei problemi inerenti l'automazione nei suoi diversi settori applicativi.
+
+Art. 622. - Il corso ha la durata di un anno; e' direttore del corso il professore titolare della cattedra di "Controlli automatici".
+
+Il consiglio direttivo e' costituito dal direttore e dai docenti dei singoli insegnamenti.
+
+Art. 623. - Al corso sono ammessi i laureati in ingegneria aeronautica, ingegneria chimica, ingegneria elettronica, ingegneria elettrotecnica, ingegneria meccanica, ingegneria mineraria, ingegneria nucleare; il consiglio del corso potra' ammettere laureati in altre discipline e laureati in Paesi stranieri.
+
+Il consiglio direttivo delibera tempestivamente di anno in anno l'inizio e lo svolgimento delle lezioni, il numero degli iscritti e le norme per l'ammissione, nonche' il numero minimo di iscritti affinche' il corso stesso abbia luogo. L'ammissione al corso e' subordinata all'esito di un colloquio sui fondamenti di controlli automatici per quei laureati che non abbiano sostenuto un esame su tale materia o su materia equivalente.
+
+Il Consiglio di facolta' potra' sospendere lo svolgimento del corso a partire dall'anno accademico successivo alla deliberazione.
+
+Art. 624. - La frequenza ai singoli insegnamenti deve essere attestata dai rispettivi docenti secondo le modalita' stabilite dal Consiglio del corso.
+
+Art. 625. - Sono previsti nell'ambito del corso di specializzazione due diversi indirizzi: indirizzo impianti ed indirizzo costruzioni.
+
+Gli insegnamenti impartiti possono essere annuali o semestrali, e sono distinti in insegnamenti fondamentali, insegnamenti complementari di indirizzo impianti, insegnamenti complementari di indirizzo costruzioni.
+
+L'allievo del corso dovra' seguire tutti gli insegnamenti fondamentali e tre insegnamenti complementari a scelta di cui almeno due appartenenti ad uno dei due indirizzi; il Consiglio del corso potra' esonerare dalla frequenza e dall'esame di profitto di non piu' di due insegnamenti fondamentali gli allievi di cui sia stata accertata la relativa preparazione; in tal caso l'allievo dovra' seguire un corrispondente numero di insegnamenti complementari.
+
+Ogni allievo, all'atto della domanda di ammissione al corso, effettua la scelta degli insegnamenti da seguire; la scelta dovra' essere approvata dal Consiglio del corso.
+
+Art. 626. - Sono insegnamenti fondamentali: 1) Teoria dei sistemi (semestrale); 2) Sistemi di controllo; 3) Sistemi sequenziali (semestrale); 4) Calcolo automatico; 5) Metodi statistici (semestrale); 6) Metodi di ottimazione (semestrale); 7) Strumentazione e misura; 8) Teoria dell'informazione (semestrale).
+
+Art. 627. - Sono insegnamenti complementari di indirizzo impianti, tutti semestrali: 1) Modelli di processi industriali; 2) Strumentazione degli impianti; 3) Automazione degli impianti mediante calcolatrici.
+
+Art. 628. - Sono insegnamenti complementari di indirizzo costruzioni, tutti semestrali: 1) Progettazione dei sistemi di controllo; 2) Tecniche analoghe; 3) Tecniche numeriche; 4) Complementi di sistemi di controllo.
+
+Art. 629. - Gli insegnanti del corso sono proposti dal direttore che puo' sceglierli fra i professori di ruolo e fuori ruolo, fra i liberi docenti, fra gli aiuti e gli assistenti o anche fra persone di riconosciuta competenza delle rispettive specialita', ovvero giovarsi, per talune materie, di insegnamenti svolti presso una delle facolta'.
+
+Tali proposte sono subordinate all'approvazione del Consiglio di facolta' ed alle nomine provvede il rettore.
+
+Art. 630. - Per la validita' del corso e cioe' per il conseguimento dell'attestato di cui all'art. 631 ciascun iscritto dovra' superare gli esami in tutti gli insegnamenti seguiti e dovra' svolgere un lavoro personale di carattere teorico o sperimentale. Il lavoro svolto verra' discusso alla presenza di una commissione costituita da cinque docenti del corso, prescelti dal direttore del corso e da lui presieduta.
+
+Art. 631. - Agli iscritti che abbiano superato gli esami e abbiano ottenuto l'idoneita' per il lavoro personale eseguito viene rilasciato un attestato comprovante la carriera scolastica compiuta.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 8 aprile 1968
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 17 maggio 1968 Atti del Governo, registro n. 219, foglio n. 161. - GRECO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sentito il parere del Consiglio superiore della pubblica Istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 545, 546, 547, 548, 549 e 550 relativi alla scuola di specializzazione in psicologia medica, che muta denominazione in scuola di specializzazione in psicologia, sono abrogati e sostituiti, con lo spostamento della successiva numerazione, dai seguenti:  
+Art. 66. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto quello di: "Storia della critica letteraria".  
+Art. 68. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto quello di "Storia della critica letteraria".  
+Art. 80. - All'elenco degli istituti annessi alla facolta' di medicina e chirurgia e' aggiunto quello di:  
+38) Istituto di psichiatria.  
+Art. 88. - All'elenco degli insegnamenti complementari del corso di laurea in chimica (indirizzi organico-biologico ed inorganico-chimico-fisico) sono aggiunti quelli di "Spettroscopia molecolare" e "Chimica delle alte temperature.  
+Nel predetto corso di laurea, per l'indirizzo inorganico-chimico-fisico, l'insegnamento complementare di "Chimica statistica" e' soppresso.  
+Art. 89. - All'elenco degli insegnamenti complementari del corso di laurea in chimica industriale sono aggiunti quelli di:  
+Spettroscopia molecolare;  
+Chimica delle alte temperature.  
+Art. 100, relativo alle norme sulle propedeuticita' degli esami del corso di laurea in scienze naturali e' modificato nel senso che vengono inserite le seguenti:  
+"Chimica generale ed inorganica" rispetto a "Chimica organica";  
+"Mineralogia" rispetto a "Geologia";  
+"Istituzioni di matematiche" rispetto a "Fisica".  
+Nello stesso corso di laurea la propedeuticita' dello esame di "Zoologia" rispetto a quello di "Entomologia" e' soppressa.  
+Art. 101. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti quelli di:  
+38) Radiogenetica;  
+39) Immunogenetica;  
+40) Ecologia ed etologia animale;  
+41) Endocrinologia comparata;  
+42) Biologia molecolare;  
+43) Paleobotanica;  
+44) Idrobiologia.  
+Nello stesso corso di laurea l'insegnamento complementare di "Idrobiologia e pescicoltura" e' soppresso.  
+Art. 102, relativo alle norme sulle propedeuticita' degli esami del corso di laurea in scienze biologiche e' modificato nel senso che viene soppressa la propedeuticita' dell'esame di "Zoologia" rispetto a quello di "Entomologia" e con la istituzione della propedeuticita' dell'esame di "Istituzioni di matematiche" rispetto a quello di "Fisica".  
+Art. 103, relativo alle norme sulle propedeuticita' degli esami del corso di laurea in scienze geologiche e' modificato nel senso che vengono inserite le seguenti:  
+Geologia" rispetto a "Geologia applicata";  
+"Petrografia" e "Paleontologia" rispetto a "Geologia";  
+"Mineralogia" rispetto a "Geochimica".  
+Art. 111. - All'elenco degli insegnamenti complementari del corso di laurea in farmacia e' aggiunto quello di: "Istituzioni di matematiche".  
+Dopo l'art. 6°20 e con il conseguente spostamento della successiva numerazione degli articoli successivi sono aggiunti i seguenti nuovi articoli relativi all'istituzione del corso di specializzazione in ingegneria dei controlli automatici annesso alla facolta' di ingegneria.  
   
-Scuola di specializzazione in psicologia  
+Corso di specializzazione in ingegneria  
+dei controlli automatici  
   
-Art. 545. - Presso l'istituto di psicologia della facolta' di medicina e chirurgia e' istituita la "Scuola di specializzazione in psicologia" la quale e' articolata nei seguenti indirizzi:  
-a) Medico;  
-b) Differenziale e scolastico;  
-c) Industriale e del lavoro;  
-d) Sociale.  
-Art. 546. - La durata del corso della scuola e' di tre anni. La frequenza e' obbligatoria. Non sono consentite abbreviazioni di corso se non nei casi previsti dall'art. 562, ne' e' consentita la contemporanea iscrizione a piu' indirizzi distinti.  
-Art. 547. - La scuola conferisce il diploma di "Specialista in psicologia" con l'indicazione dell'indirizzo seguito.  
-Il diploma, valido a tutti gli effetti di legge, viene rilasciato all'allievo in rapporto all'indirizzo prescelto, seguito e concluso positivamente negli esami di profitto e di diploma.  
-Art. 548. - Titoli per l'ammissione alla scuola sono:  
-a) per l'indirizzo "Medico", la laurea in medicina e chirurgia;  
-b) per gli altri indirizzi, il diploma di laurea rilasciato da qualsiasi facolta' di una universita' italiana di Stato o ad essa parificata, ovvero un titolo straniero equipollente.  
-Art. 549. - Nella domanda di ammissione alla scuola, deve essere specificato l'indirizzo che si desidera seguire.  
-Nel caso di domande di iscrizione eccedenti il numero massimo stabilito dal consiglio della scuola e indicato nel manifesto-programma annuale di cui all'art. 560, il consiglio stesso procedera' all'accettazione delle domande attraverso un concorso di merito, le cui modalita' verranno fissate nello stesso manifesto annuale.  
-Indipendentemente dalla limitazione delle iscrizioni, il consiglio della scuola puo' subordinare l'ammissione ad una prova di idoneita'.  
-Il numero massimo complessivo degli iscritti per il triennio di corso non puo' eccedere il numero di 75, sia che funzioni un solo indirizzo gia che ne funzioni piu' di uno.  
-Art. 550. - Il corso e' costituito da lezioni teoriche, esercitazioni pratiche, tirocini, seminari, conferenze. La attivita' didattica viene svolta per un numero di ore non inferiore alle 20 settimanali, per tutta la durata dell'anno accademico.  
-Gli insegnamenti statutari sono suddivisi in tre gruppi:  
-a) insegnamenti comuni a tutti gli indirizzi sopra indicati; tali insegnamenti sono obbligatori per tutti gli allievi, qualunque sia l'indirizzo prescelto;  
-b) insegnamenti specifici, peculiari a ciascuno dei singoli indirizzi indicati nell'art. 545 e nel successivo art. 551; tali insegnamenti sono obbligatori nell'ambito dell'indirizzo prescelto;  
-c) insegnamenti integrativi.  
-Gli insegnamenti di cui ai punti a) e b) sono fissati nello statuto, il quale stabilisce altresi' la distribuzione degli insegnamenti stessi nei vari anni.  
-Gli insegnamenti di cui al punto c) vengono stabiliti anno per anno dal consiglio della scuola e pubblicati nel manifesto-programma annuale, insieme all'elenco degli insegnamenti di cui ai punti a) e b).  
-Art. 551. - Gli insegnamenti comuni di cui al punto a) dell'articolo precedente, sono:  
-1) Metodologia generale e speciale della ricerca psicologica (triennale: 1°, 2° e 3° anno);  
-2) Metodologia statistica generale e psicometria (annuale: 1° anno);  
-3) Psicologia generale (triennale: 1°, 2° e 3° anno);  
-4) Teorie della personalita' (biennale: 1° e 2° anno);  
-5) Psicologia dinamica (annuale: 2° anno);  
-6) Psicologia differenziale (annuale: 1° anno);  
-7) Psicologia sociale (biennale: 1° e 2° anno);  
-8) Tecniche psico-diagnostiche (biennale: 1° e 2° anno).  
-Gli insegnamenti specifici di cui al punto b) dell'articolo 550 sono:  
-A. per l'indirizzo "medico":  
-1) Psicologia dello sviluppo (biennale: 1° e 2° anno);  
-2) Psicofisiologia (annuale: 1° anno);  
-3) Psicofarmacologia (annuale: 2° anno);  
-4) Psicopatologia e neuropsichiatria (biennale: 1° e 2° anno);  
-5) Medicina psicosomatica (annuale: 3° anno);  
-6) Psicologia clinica (biennale: 2° e 3° anno);  
-7) Psicoterapia (biennale: 2° e 3° anno);  
-8) Psicologia criminologica, giudiziaria e penitenziaria (annuale: 3° anno);  
-9) Igiene mentale (annuale: 2° anno).  
-B. Per l'indirizzo "differenziale e scolastico":  
-1) Fondamenti di biologia generale e di anatomia e fisiologia umana (biennale: 1° e 2° anno);  
-2) Psicologia dell'eta' evolutiva (triennale: 1°, 2° e 3° anno);  
-3) Pedagogia (annuale: 1° anno);  
-4) Istituzioni di psicopatologia e di igiene mentale (annuale: 1° anno);  
-5) Psicologia pedagogica (annuale: 1° anno);  
-6) Psicologia del disadattamento scolastico e professionale nell'eta' evolutiva (annuale: 2° anno);  
-7) Docimologia e tecniche della valutazione scolastica (annuale: 2° anno);  
-8) Tecniche psico-diagnostiche individuali e di gruppo (biennale: 2° e 3° anno);  
-9) Orientamento scolastico e professionale (annuale: 3° anno).  
-C. Per l'indirizzo "Industriale e del lavoro":  
-1) Fondamenti di biologia generale e di anatomia e fisiologia umana (biennale: 1° e 2° anno);  
-2) Istituzioni di psicopatologia e di igiene mentale (annuale: 1° anno);  
-3) Psicologia del lavoro (annuale: 1° anno);  
-4) Metodologia statistica e psicometria (corso avanzato, annuale: 2° anno);  
-5) Ergonomia (annuale: 1° anno);  
-6) Analisi e valutazione delle mansioni e profili professionali (annuale: 2° anno);  
-7) Psicologia del disadattamento lavorativo (annuale: 3° anno).  
-D. Per l'indirizzo "sociale":  
-1) Antropologia culturale (annuale: 1° anno);  
-2) Sociologia (annuale: 1° anno);  
-3) Psicologia della comunicazione (biennale: 1° e 2° anno);  
-4) Tecniche quantitative dell'indagine psicosociale (annuale: 2° anno);  
-5) Ricerca motivazionale (annuale: 2° anno);  
-6) Psicologia sociale, corso avanzato (annuale: 3° anno);  
-7) Dinamiche di gruppo (annuale: 3° anno);  
-8) Tecniche di studio dell'opinione pubblica (annuale: 3° anno);  
-9) Patologia e controllo sociale (annuale: 3° anno).  
-Gli insegnamenti "integrativi" (annuali) di cui al punto c) dell'art. 550, vanno scelti nell'ambito dell'elenco che segue:  
-Storia della psicologia  
-Filosofia della scienza;  
-Cibernetica;  
-Psicologia zoologica;  
-Psicolinguistica;  
-Organizzazione sanitaria;  
-Organizzazione scolastica;  
-Auxologia;  
-Neuropsichiatria infantile;  
-Pedagogia speciale e differenziale;  
-Igiene generale;  
-Medicina del lavoro;  
-Legislazione sanitaria;  
-Legislazione scolastica;  
-Legislazione del lavoro;  
-Deontologia professionale;  
-Sessuologia;  
-Psicogerontologia;  
-Statistica economica;  
-Psicologia della propaganda;  
-Psicologia dello sport;  
-Psicologia e pedagogia della comunicazione di massa;  
-Filmologia;  
-Istruzione programmata;  
-Psicologia della didattica e dell'apprendimento scolastico;  
-Infortunistica del lavoro;  
-Psicologia economica.  
-Gli insegnamenti specifici di ciascuno dei quattro indirizzi, possono valere come integrativi per gli altri indirizzi che non li comprendono, sempre naturalmente nel caso che il funzionamento degli indirizzi stessi sia previsto dal manifesto-programma annuale.  
-Il manifesto-programma annuale, di cui all'art. 560 indichera' quali indirizzi verranno realizzati e quali insegnamenti integrativi verranno impartiti dalla scuola, durante l'anno accademico.  
-La eventuale scissione degli insegnamenti in piu' rami distinti, ai fini sia dell'insegnamento che degli esami di profitto, ovvero l'eventuale loro raggruppamento ai fini degli esami, risulteranno dal manifesto-programma annuale di cui all'art. 560.  
-Art. 552.- Gli esami sono di profitto e di diploma.  
-Per essere ammesso agli esami annuali di profitto l'allievo deve aver frequentato assiduamente le lezioni, le esercitazioni, i tirocini, i seminari, etc. svolti dalla scuola nel relativo anno di corso.  
-Per essere ammesso all'esame di diploma, l'allievo, oltre ad aver adempiuto a tutti gli obblighi di frequenza ed esame dei vari insegnamenti comuni e specifici e di almeno due degli insegnamenti integrativi, ed aver effettuato le esercitazioni prescritte, deve presentare una dissertazione scritta nonche' una relazione riassuntiva sulle esercitazioni e su eventuali tirocini effettuati nell'intero triennio.  
-L'esame di diploma consiste nella discussione della tesi e della relazione e, eventualmente, di una o piu' prove pratiche stabilite dal consiglio della scuola.  
-Art. 553. - Direttore della scuola e' il professore di ruolo titolare della cattedra di psicologia della facolta' di medicina e chirurgia.  
-Il direttore della scuola, su conforme parere del consiglio della scuola stessa, puo' proporre che un docente di essa assuma le funzioni di vice-direttore, con l'incarico annuale (riconfermabile) di coadiuvarlo e di sostituirlo: alla relativa nomina provvede il rettore.  
-Art. 554. - I docenti della scuola sono scelti tra i professori universitari di psicologia (di ruolo, fuori ruolo, aggregati, incaricati, liberi docenti), fra gli specializzati in psicologia e fra coloro che, per opere, uffici o insegnamenti tenuti siano di riconosciuta competenza ed esperienza nelle discipline che formano oggetto dei corsi della scuola.  
-Alla nomina dei docenti provvede il rettore, su proposta presentata annualmente dal direttore della scuola e su parere conforme del consiglio della scuola stessa e della facolta'.  
-Art. 555. - Per i problemi riguardanti l'organizzazione didattica, il direttore e' assistito da un consiglio della scuola, composto: dal direttore stesso che lo presiede, dal vice-direttore (se designato), che presiede le adunanze del consiglio in casi di assenze o impedimento del direttore, e da tutti i docenti che abbiano avuto regolare nomina rettorale.  
-Su proposta del direttore e sentito il parere del consiglio, uno dei docenti assolve anche le funzioni di segretario delle adunanze del consiglio stesso: alla relativa nomina provvede il rettore.  
-Art. 556. - Spetta al consiglio della scuola:  
-1) determinare, coordinare, approvare i programmi dei corsi teorici, delle esercitazioni, dei tirocini, dei seminari, etc., relativi sia agli insegnamenti comuni, sia a quelli specifici, sia a quelli integrativi;  
-2) esprimere il proprio parere sulle proposte del direttore della scuola relativamente alla designazione dei docenti, da sottoporre quindi alla nomina rettorale, dopo l'approvazione della facolta';  
-3) determinare, coordinare, approvare gli orari dei vari insegnamenti, esercitazioni, seminari, etc., e il diario e le modalita' degli esami, sia di profitto che di diploma e la composizione delle relative commissioni;  
-4) stabilire le eventuali prove pratiche da far sostenere agli allievi in occasione dell'esame di diploma;  
-5) riferire al consiglio di facolta' sulle domande di trasferimento di allievi di scuole di specializzazione in psicologia da una universita' o facolta' ad un'altra e deliberare circa il passaggio da un indirizzo all'altro della scuola stessa (conformemente a quanto stabilito dall'art. 562), determinandone gli eventuali ulteriori obblighi di frequenza e di esame;  
-6) determinare il numero massimo ed eventualmente il numero minimo degli allievi che possono essere iscritti al primo anno di corso; in ogni caso, dati i mezzi dimostrativi di cui la scuola dispone, il numero massimo di iscritti complessivamente nel triennio non dovra' eccedere i 75, sia che funzioni un solo indirizzo, sia che ne funzioni piu' di uno;  
-7) stabilire la composizione della commissione per l'esame di concorso di merito di cui al comma 2) dell'art. 549 e della commissione per le eventuali prove di idoneita' di cui al comma 3) del medesimo art. 549, nonche' le modalita' dei rispettivi concorsi o prove.  
-Art. 557. - Il funzionamento amministrativo della scuola e' determinato, in armonia con le vigenti disposizioni sulle scuole di specializzazione, da un regolamento interno emanato dal rettore su proposta del direttore della scuola.  
-Art. 558. - Le entrate della scuola sono costituite dalle tasse, soprattasse e contributi scolastici e dai contributi erogati eventualmente dallo Stato, dall'universita', da enti e da privati.  
-Art. 559. - Gli iscritti alla scuola sono tenuti al pagamento delle tasse, soprattasse e contributi generali nella misura stabilita dall'art. 175 dello statuto.  
-La misura dei contributi per le esercitazioni pratiche e per altre prestazioni, di cui gli iscritti fruiscono durante il corso degli studi, e' fissata dal consiglio di amministrazione dell'universita' su proposta del senato accademico, sentito il parere del consiglio della facolta' di medicina e chirurgia e del consiglio della scuola.  
-Art. 560. - Il direttore della scuola - sulla base delle deliberazioni del consiglio della scuola - compila ogni anno il relativo manifesto-programma che, previa approvazione della facolta' di medicina e chirurgia, sara' reso di pubblica ragione.  
-Nel manifesto viene specificato:  
-1) l'indirizzo o gli indirizzi della scuola che saranno aperti nell'imminente anno accademico;  
-2) il numero massimo (tenendo conto di quanto disposto nell'art. 556 punto 6) e, eventualmente, quello minimo di domande di iscrizione che verranno accettate;  
-3) le modalita' del concorso di merito in caso di domande eccedenti il numero massimo di iscrizioni consentite;  
-4) l'eventuale indicazione di prove di idoneita' per l'ammissione alla scuola, conformemente al comma 3) dell'art. 549);  
-5) l'ordine degli studi, con l'indicazione:  
-a) dell'eventuale scissione degli insegnamenti elencati nell'art. 551 in piu' rami distinti, ai fini dell'insegnamento e degli esami di profitto;  
-b) dell'eventuale raggruppamento degli insegnamenti ai fini dell'esame di profitto;  
-c) della distribuzione degli insegnamenti nei vari anni di corso;  
-d) degli insegnamenti integrativi che verranno impartiti nell'anno;  
-e) dei docenti, per ciascun insegnamento ed anno di corso;  
-6) le modalita' e le condizioni degli esami di profitto e di diploma;  
-7) le tasse, le soprattasse e i contributi generali e speciali dovuti dagli allievi.  
-Art. 561. - L'inclusione della scuola nello statuto dell'universita' non costituisce impegno ad impartire i relativi corsi: l'impegno e' costituito dalla pubblicazione del manifesto-programma annuale. Cio' vale sia per la scuola nel suo insieme sia per i singoli indirizzi.  
-Art. 562. - E' prevista, a domanda dell'interessato e non oltre il termine del 2° anno di corso, la possibilita' di passaggio da un indirizzo ad un altro. L'accoglimento della relativa domanda, sempre subordinato alle condizioni previste dall'art. 561, ha luogo a giudizio insindacabile del consiglio della scuola e con piano di studi da stabilire caso per caso.  
-Coloro che hanno compiuto l'intero triennio possono essere ammessi ad altro indirizzo con possibilita' di abbreviazioni dei corsi, per convalida di esami gia' sostenuti, secondo quanto sara' stabilito caso per caso dal consiglio della scuola.  
-Art. 563. Norme transitorie: all'inizio del funzionamento della scuola, il direttore e' autorizzato a prendere tutte quelle decisioni e deliberazioni che, di norma, sono demandate al consiglio della scuola.  
+Art. 621. - Presso la facolta' di ingegneria e' istituito un corso di specializzazione in ingegneria dei controlli automatici, al fine di preparare tecnici specializzati per la soluzione dei problemi inerenti l'automazione nei suoi diversi settori applicativi.  
+Art. 622. - Il corso ha la durata di un anno; e' direttore del corso il professore titolare della cattedra di "Controlli automatici".  
+Il consiglio direttivo e' costituito dal direttore e dai docenti dei singoli insegnamenti.  
+Art. 623. - Al corso sono ammessi i laureati in ingegneria aeronautica, ingegneria chimica, ingegneria elettronica, ingegneria elettrotecnica, ingegneria meccanica, ingegneria mineraria, ingegneria nucleare; il consiglio del corso potra' ammettere laureati in altre discipline e laureati in Paesi stranieri.  
+Il consiglio direttivo delibera tempestivamente di anno in anno l'inizio e lo svolgimento delle lezioni, il numero degli iscritti e le norme per l'ammissione, nonche' il numero minimo di iscritti affinche' il corso stesso abbia luogo. L'ammissione al corso e' subordinata all'esito di un colloquio sui fondamenti di controlli automatici per quei laureati che non abbiano sostenuto un esame su tale materia o su materia equivalente.  
+Il Consiglio di facolta' potra' sospendere lo svolgimento del corso a partire dall'anno accademico successivo alla deliberazione.  
+Art. 624. - La frequenza ai singoli insegnamenti deve essere attestata dai rispettivi docenti secondo le modalita' stabilite dal Consiglio del corso.  
+Art. 625. - Sono previsti nell'ambito del corso di specializzazione due diversi indirizzi: indirizzo impianti ed indirizzo costruzioni.  
+Gli insegnamenti impartiti possono essere annuali o semestrali, e sono distinti in insegnamenti fondamentali, insegnamenti complementari di indirizzo impianti, insegnamenti complementari di indirizzo costruzioni.  
+L'allievo del corso dovra' seguire tutti gli insegnamenti fondamentali e tre insegnamenti complementari a scelta di cui almeno due appartenenti ad uno dei due indirizzi; il Consiglio del corso potra' esonerare dalla frequenza e dall'esame di profitto di non piu' di due insegnamenti fondamentali gli allievi di cui sia stata accertata la relativa preparazione; in tal caso l'allievo dovra' seguire un corrispondente numero di insegnamenti complementari.  
+Ogni allievo, all'atto della domanda di ammissione al corso, effettua la scelta degli insegnamenti da seguire; la scelta dovra' essere approvata dal Consiglio del corso.  
+Art. 626. - Sono insegnamenti fondamentali: 1) Teoria dei sistemi (semestrale); 2) Sistemi di controllo; 3) Sistemi sequenziali (semestrale); 4) Calcolo automatico; 5) Metodi statistici (semestrale); 6) Metodi di ottimazione (semestrale); 7) Strumentazione e misura; 8) Teoria dell'informazione (semestrale).  
+Art. 627. - Sono insegnamenti complementari di indirizzo impianti, tutti semestrali: 1) Modelli di processi industriali; 2) Strumentazione degli impianti; 3) Automazione degli impianti mediante calcolatrici.  
+Art. 628. - Sono insegnamenti complementari di indirizzo costruzioni, tutti semestrali: 1) Progettazione dei sistemi di controllo; 2) Tecniche analoghe; 3) Tecniche numeriche; 4) Complementi di sistemi di controllo.  
+Art. 629. - Gli insegnanti del corso sono proposti dal direttore che puo' sceglierli fra i professori di ruolo e fuori ruolo, fra i liberi docenti, fra gli aiuti e gli assistenti o anche fra persone di riconosciuta competenza delle rispettive specialita', ovvero giovarsi, per talune materie, di insegnamenti svolti presso una delle facolta'.  
+Tali proposte sono subordinate all'approvazione del Consiglio di facolta' ed alle nomine provvede il rettore.  
+Art. 630. - Per la validita' del corso e cioe' per il conseguimento dell'attestato di cui all'art. 631 ciascun iscritto dovra' superare gli esami in tutti gli insegnamenti seguiti e dovra' svolgere un lavoro personale di carattere teorico o sperimentale. Il lavoro svolto verra' discusso alla presenza di una commissione costituita da cinque docenti del corso, prescelti dal direttore del corso e da lui presieduta.  
+Art. 631. - Agli iscritti che abbiano superato gli esami e abbiano ottenuto l'idoneita' per il lavoro personale eseguito viene rilasciato un attestato comprovante la carriera scolastica compiuta.  
   
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 luglio 1969
+### Dato a Roma, addi' 8 aprile 1968
 
-SARAGAT FERRARI AGGRADI
+SARAGAT GUI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 8 settembre 1969
+Registrato alla Corte dei conti, addi' 17 maggio 1968
 
-Atti del Governo, registro n. 229, foglio n. 11. - CARUSO
+Atti del Governo, registro n. 219, foglio n. 161. - GRECO

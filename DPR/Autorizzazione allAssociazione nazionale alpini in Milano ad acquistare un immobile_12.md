@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 722
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 525
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 722
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 525
+=============================================================
 
 Autorizzazione all'Associazione nazionale alpini, in Milano, ad acquistare un immobile.
 ---------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-722. Decreto del Presidente della Repubblica 5 settembre 1980, col quale, sulla proposta del Ministro della difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad acquistare dalle signore Lea Martelli e Alba Musiani, per le rispettive ragioni di usufrutto generale e di nuda proprieta', al prezzo di lire 115.000.000, l'appartamento con annesso vano cantina al piano seminterrato e il box per autorimessa, censiti al nuovo catasto edilizio urbano del comune di Milano, nell'ordine, alla partita 176336, foglio 331, mappale 296, sub 17, via Marsala n. 9, piano 3°, scala 2, di vani 7, 5, e alla partita 265973, foglio 311, mappale 393, sub 25, via Marsala n. 9, piano primo sotterraneo, di mq 14, da adibire a sede dei propri uffici.  
+525. Decreto del Presidente della Repubblica 28 giugno 1986, col quale, sulla proposta del Ministro della difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad acquistare, al prezzo di L. 40.000.000, l'appartamento sito in Campobasso, via Duca d'Aosta n. 10, interno 1, composto di 5 camere, oltre servizi e cantina, censito al nuovo catasto edilizio urbano alla partita 4524, foglio 122, particella 89, sub 14, di proprieta' del sig.  
+Lorenzo Galasso, da adibire a sede del locale gruppo dell'Associazione.   
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 24 ottobre 1980  
-Registro n. 36 Difesa, foglio n. 24
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 8 agosto 1986   
+Registro n. 23 Difesa, foglio n. 153

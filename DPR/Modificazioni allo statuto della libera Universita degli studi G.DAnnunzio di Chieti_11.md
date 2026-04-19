@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 960
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 748
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 960
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 748
 ==============================================================
 
 Modificazioni allo statuto della libera Universita' degli studi "G. 
@@ -14,69 +14,36 @@ Art. 1
  IL PRESIDENTE DELLA REPUBBLICA  
   
 Veduto lo statuto della libera Universita' degli studi "G.  
-D'Annunzio" di Chieti, approvato con [decreto del Presidente della Repubblica 8 maggio 1965, n. 1007](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-05-08;1007) e modificato con [decreto del Presidente della Repubblica 20 settembre 1966, n. 1291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-09-20;1291), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+D'Annunzio" di Chieti, approvato con [decreto del Presidente della Repubblica 8 maggio 1963, n. 1007](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1963-05-08;1007), e modificato con [decreto del Presidente della Repubblica 20 settembre 1966, n. 1291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-09-20;1291), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici della libera Universita' "G. D'Annunzio" di Chieti e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto della libera Universita' degli studi "G. D'Annunzio" di Chieti, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto della libera Universita' degli studi "G. D'Annunzio" di Chieti approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 48 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti insegnamenti complementari:  
   
-Dopo l'art. 56, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in "medicina dello sport" annessa alla facolta' di medicina e chirurgia.  
+Patologia dell'apparato locomotore;  
+Epatologia;  
+Chirurgia sperimentale;  
+Nefrologia chirurgica.  
   
-Scuola di specializzazione in medicina dello sport  
-  
-Art. 57. - Il corso ha la durata triennale.  
-Art. 58. - Il numero massimo degli iscritti e' di 25 per ciascun anno di corso.  
-Art. 59. - La frequenza deve essere obbligatoria per tutta la durata del corso.  
-Art. 60. - Il piano di studio deve essere sia per quanto riguarda le discipline fondamentali che quelle facoltative, corrispondente a quello delle altre scuole di specialita' e cioe':  
-  
-1° Anno:  
-Anatomia dell'apparato locomotore;  
-Biomeccanica applicata all'esercizio fisico;  
-Biochimica generale ed applicata;  
-Antropometria ed auxologia;  
-Storia, sistematica e tecnologia degli sport;  
-Istituzioni di psicologia generale e psicologia applicata agli sport;  
-Istituzioni di scienza della nutrizione e dietetica applicata alla attivita' sportiva.  
-  
-2° Anno:  
-Anatomia degli apparati circolatorio, respiratorio e nervoso;  
-Fisiologia delle ossa, delle articolazioni e dei muscoli;  
-Biochimica ed energia muscolare;  
-Valutazione funzionale dello sportivo e tecnica fisiologica;  
-Biofisica del muscolo (facoltativo);  
-Fisioterapia e rieducazione funzionale (facoltativo);  
-Farmacologia applicata all'attivita' sportiva (Doping) (facoltativo);  
-Igiene e medicina preventiva applicata all'attivita' sportiva (facoltativo).  
-  
-3° Anno:  
-Fisiologia del sistema nervoso motorio, della respirazione e della circolazione;  
-Educazione fisica e tecnica dell'allenamento sportivo;  
-Chirurgia d'urgenza, rianimazione e pronto soccorso;  
-Medicina legale ed infortunistica;  
-Traumatologia ed ortopedia dello sport;  
-Fisiopatologia degli sport (facoltativo);  
-Assistenza medico-sportiva nei grandi agglomerati urbani (facoltativo).  
-  
-Art. 61. - Gli iscritti alla scuola sono tenuti a pagare il seguente importo di tasse, e soprattasse e contributi:  
-  
-tassa immatricolazione . . . . . . . . . . . . . . . . . . . L. 5.000 tassa annuale d'iscrizione. . . . . . . . . . . . . . . . . L. 18.000 soprattassa annuale esami di profitto. . . . . . . . . . . . L. 7.000 contributi generali. . . . . . . . . . . . . . . . . . . . . L. 1.950 contributo riscaldamento . . . . . . . . . . . . . . . . . . L. 7.000 contributo laboratorio ed esercitazioni. . . . . . . . . . L. 120.000 libretto di riconoscimento . . . . . . . . . . . . . . . . . L. 1.300 indennita' di schedatura . . . . . . . . . . . . . . . . . . . L. 500   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1973
+### Dato a Roma, addi' 31 ottobre 1974
 
 LEONE MALFATTI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 24 gennaio 1974
+Registrato alla Corte dei conti, addi' 27 gennaio 1975
 
-Atti di Governo, registro n. 1, foglio n. 38. - CARUSO
+Atti di Governo, registro n. 8, foglio n. 11

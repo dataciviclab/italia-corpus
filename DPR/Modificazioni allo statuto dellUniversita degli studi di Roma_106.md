@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1054
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 luglio 1969 n. 600
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1054
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 luglio 1969 n. 600
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -10,902 +10,176 @@ Modificazioni allo statuto dell'Universita' degli studi di Roma.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come dal testo annesso, concernente l'ordinamento degli studi della facolta' di ingegneria e firmato, d'ordine nostro, dal Ministro per la pubblica istruzione.   
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 545, 546, 547, 548, 549 e 550 relativi alla scuola di specializzazione in psicologia medica, che muta denominazione in scuola di specializzazione in psicologia, sono abrogati e sostituiti, con lo spostamento della successiva numerazione, dai seguenti:  
+  
+Scuola di specializzazione in psicologia  
+  
+Art. 545. - Presso l'istituto di psicologia della facolta' di medicina e chirurgia e' istituita la "Scuola di specializzazione in psicologia" la quale e' articolata nei seguenti indirizzi:  
+a) Medico;  
+b) Differenziale e scolastico;  
+c) Industriale e del lavoro;  
+d) Sociale.  
+Art. 546. - La durata del corso della scuola e' di tre anni. La frequenza e' obbligatoria. Non sono consentite abbreviazioni di corso se non nei casi previsti dall'art. 562, ne' e' consentita la contemporanea iscrizione a piu' indirizzi distinti.  
+Art. 547. - La scuola conferisce il diploma di "Specialista in psicologia" con l'indicazione dell'indirizzo seguito.  
+Il diploma, valido a tutti gli effetti di legge, viene rilasciato all'allievo in rapporto all'indirizzo prescelto, seguito e concluso positivamente negli esami di profitto e di diploma.  
+Art. 548. - Titoli per l'ammissione alla scuola sono:  
+a) per l'indirizzo "Medico", la laurea in medicina e chirurgia;  
+b) per gli altri indirizzi, il diploma di laurea rilasciato da qualsiasi facolta' di una universita' italiana di Stato o ad essa parificata, ovvero un titolo straniero equipollente.  
+Art. 549. - Nella domanda di ammissione alla scuola, deve essere specificato l'indirizzo che si desidera seguire.  
+Nel caso di domande di iscrizione eccedenti il numero massimo stabilito dal consiglio della scuola e indicato nel manifesto-programma annuale di cui all'art. 560, il consiglio stesso procedera' all'accettazione delle domande attraverso un concorso di merito, le cui modalita' verranno fissate nello stesso manifesto annuale.  
+Indipendentemente dalla limitazione delle iscrizioni, il consiglio della scuola puo' subordinare l'ammissione ad una prova di idoneita'.  
+Il numero massimo complessivo degli iscritti per il triennio di corso non puo' eccedere il numero di 75, sia che funzioni un solo indirizzo gia che ne funzioni piu' di uno.  
+Art. 550. - Il corso e' costituito da lezioni teoriche, esercitazioni pratiche, tirocini, seminari, conferenze. La attivita' didattica viene svolta per un numero di ore non inferiore alle 20 settimanali, per tutta la durata dell'anno accademico.  
+Gli insegnamenti statutari sono suddivisi in tre gruppi:  
+a) insegnamenti comuni a tutti gli indirizzi sopra indicati; tali insegnamenti sono obbligatori per tutti gli allievi, qualunque sia l'indirizzo prescelto;  
+b) insegnamenti specifici, peculiari a ciascuno dei singoli indirizzi indicati nell'art. 545 e nel successivo art. 551; tali insegnamenti sono obbligatori nell'ambito dell'indirizzo prescelto;  
+c) insegnamenti integrativi.  
+Gli insegnamenti di cui ai punti a) e b) sono fissati nello statuto, il quale stabilisce altresi' la distribuzione degli insegnamenti stessi nei vari anni.  
+Gli insegnamenti di cui al punto c) vengono stabiliti anno per anno dal consiglio della scuola e pubblicati nel manifesto-programma annuale, insieme all'elenco degli insegnamenti di cui ai punti a) e b).  
+Art. 551. - Gli insegnamenti comuni di cui al punto a) dell'articolo precedente, sono:  
+1) Metodologia generale e speciale della ricerca psicologica (triennale: 1°, 2° e 3° anno);  
+2) Metodologia statistica generale e psicometria (annuale: 1° anno);  
+3) Psicologia generale (triennale: 1°, 2° e 3° anno);  
+4) Teorie della personalita' (biennale: 1° e 2° anno);  
+5) Psicologia dinamica (annuale: 2° anno);  
+6) Psicologia differenziale (annuale: 1° anno);  
+7) Psicologia sociale (biennale: 1° e 2° anno);  
+8) Tecniche psico-diagnostiche (biennale: 1° e 2° anno).  
+Gli insegnamenti specifici di cui al punto b) dell'articolo 550 sono:  
+A. per l'indirizzo "medico":  
+1) Psicologia dello sviluppo (biennale: 1° e 2° anno);  
+2) Psicofisiologia (annuale: 1° anno);  
+3) Psicofarmacologia (annuale: 2° anno);  
+4) Psicopatologia e neuropsichiatria (biennale: 1° e 2° anno);  
+5) Medicina psicosomatica (annuale: 3° anno);  
+6) Psicologia clinica (biennale: 2° e 3° anno);  
+7) Psicoterapia (biennale: 2° e 3° anno);  
+8) Psicologia criminologica, giudiziaria e penitenziaria (annuale: 3° anno);  
+9) Igiene mentale (annuale: 2° anno).  
+B. Per l'indirizzo "differenziale e scolastico":  
+1) Fondamenti di biologia generale e di anatomia e fisiologia umana (biennale: 1° e 2° anno);  
+2) Psicologia dell'eta' evolutiva (triennale: 1°, 2° e 3° anno);  
+3) Pedagogia (annuale: 1° anno);  
+4) Istituzioni di psicopatologia e di igiene mentale (annuale: 1° anno);  
+5) Psicologia pedagogica (annuale: 1° anno);  
+6) Psicologia del disadattamento scolastico e professionale nell'eta' evolutiva (annuale: 2° anno);  
+7) Docimologia e tecniche della valutazione scolastica (annuale: 2° anno);  
+8) Tecniche psico-diagnostiche individuali e di gruppo (biennale: 2° e 3° anno);  
+9) Orientamento scolastico e professionale (annuale: 3° anno).  
+C. Per l'indirizzo "Industriale e del lavoro":  
+1) Fondamenti di biologia generale e di anatomia e fisiologia umana (biennale: 1° e 2° anno);  
+2) Istituzioni di psicopatologia e di igiene mentale (annuale: 1° anno);  
+3) Psicologia del lavoro (annuale: 1° anno);  
+4) Metodologia statistica e psicometria (corso avanzato, annuale: 2° anno);  
+5) Ergonomia (annuale: 1° anno);  
+6) Analisi e valutazione delle mansioni e profili professionali (annuale: 2° anno);  
+7) Psicologia del disadattamento lavorativo (annuale: 3° anno).  
+D. Per l'indirizzo "sociale":  
+1) Antropologia culturale (annuale: 1° anno);  
+2) Sociologia (annuale: 1° anno);  
+3) Psicologia della comunicazione (biennale: 1° e 2° anno);  
+4) Tecniche quantitative dell'indagine psicosociale (annuale: 2° anno);  
+5) Ricerca motivazionale (annuale: 2° anno);  
+6) Psicologia sociale, corso avanzato (annuale: 3° anno);  
+7) Dinamiche di gruppo (annuale: 3° anno);  
+8) Tecniche di studio dell'opinione pubblica (annuale: 3° anno);  
+9) Patologia e controllo sociale (annuale: 3° anno).  
+Gli insegnamenti "integrativi" (annuali) di cui al punto c) dell'art. 550, vanno scelti nell'ambito dell'elenco che segue:  
+Storia della psicologia  
+Filosofia della scienza;  
+Cibernetica;  
+Psicologia zoologica;  
+Psicolinguistica;  
+Organizzazione sanitaria;  
+Organizzazione scolastica;  
+Auxologia;  
+Neuropsichiatria infantile;  
+Pedagogia speciale e differenziale;  
+Igiene generale;  
+Medicina del lavoro;  
+Legislazione sanitaria;  
+Legislazione scolastica;  
+Legislazione del lavoro;  
+Deontologia professionale;  
+Sessuologia;  
+Psicogerontologia;  
+Statistica economica;  
+Psicologia della propaganda;  
+Psicologia dello sport;  
+Psicologia e pedagogia della comunicazione di massa;  
+Filmologia;  
+Istruzione programmata;  
+Psicologia della didattica e dell'apprendimento scolastico;  
+Infortunistica del lavoro;  
+Psicologia economica.  
+Gli insegnamenti specifici di ciascuno dei quattro indirizzi, possono valere come integrativi per gli altri indirizzi che non li comprendono, sempre naturalmente nel caso che il funzionamento degli indirizzi stessi sia previsto dal manifesto-programma annuale.  
+Il manifesto-programma annuale, di cui all'art. 560 indichera' quali indirizzi verranno realizzati e quali insegnamenti integrativi verranno impartiti dalla scuola, durante l'anno accademico.  
+La eventuale scissione degli insegnamenti in piu' rami distinti, ai fini sia dell'insegnamento che degli esami di profitto, ovvero l'eventuale loro raggruppamento ai fini degli esami, risulteranno dal manifesto-programma annuale di cui all'art. 560.  
+Art. 552.- Gli esami sono di profitto e di diploma.  
+Per essere ammesso agli esami annuali di profitto l'allievo deve aver frequentato assiduamente le lezioni, le esercitazioni, i tirocini, i seminari, etc. svolti dalla scuola nel relativo anno di corso.  
+Per essere ammesso all'esame di diploma, l'allievo, oltre ad aver adempiuto a tutti gli obblighi di frequenza ed esame dei vari insegnamenti comuni e specifici e di almeno due degli insegnamenti integrativi, ed aver effettuato le esercitazioni prescritte, deve presentare una dissertazione scritta nonche' una relazione riassuntiva sulle esercitazioni e su eventuali tirocini effettuati nell'intero triennio.  
+L'esame di diploma consiste nella discussione della tesi e della relazione e, eventualmente, di una o piu' prove pratiche stabilite dal consiglio della scuola.  
+Art. 553. - Direttore della scuola e' il professore di ruolo titolare della cattedra di psicologia della facolta' di medicina e chirurgia.  
+Il direttore della scuola, su conforme parere del consiglio della scuola stessa, puo' proporre che un docente di essa assuma le funzioni di vice-direttore, con l'incarico annuale (riconfermabile) di coadiuvarlo e di sostituirlo: alla relativa nomina provvede il rettore.  
+Art. 554. - I docenti della scuola sono scelti tra i professori universitari di psicologia (di ruolo, fuori ruolo, aggregati, incaricati, liberi docenti), fra gli specializzati in psicologia e fra coloro che, per opere, uffici o insegnamenti tenuti siano di riconosciuta competenza ed esperienza nelle discipline che formano oggetto dei corsi della scuola.  
+Alla nomina dei docenti provvede il rettore, su proposta presentata annualmente dal direttore della scuola e su parere conforme del consiglio della scuola stessa e della facolta'.  
+Art. 555. - Per i problemi riguardanti l'organizzazione didattica, il direttore e' assistito da un consiglio della scuola, composto: dal direttore stesso che lo presiede, dal vice-direttore (se designato), che presiede le adunanze del consiglio in casi di assenze o impedimento del direttore, e da tutti i docenti che abbiano avuto regolare nomina rettorale.  
+Su proposta del direttore e sentito il parere del consiglio, uno dei docenti assolve anche le funzioni di segretario delle adunanze del consiglio stesso: alla relativa nomina provvede il rettore.  
+Art. 556. - Spetta al consiglio della scuola:  
+1) determinare, coordinare, approvare i programmi dei corsi teorici, delle esercitazioni, dei tirocini, dei seminari, etc., relativi sia agli insegnamenti comuni, sia a quelli specifici, sia a quelli integrativi;  
+2) esprimere il proprio parere sulle proposte del direttore della scuola relativamente alla designazione dei docenti, da sottoporre quindi alla nomina rettorale, dopo l'approvazione della facolta';  
+3) determinare, coordinare, approvare gli orari dei vari insegnamenti, esercitazioni, seminari, etc., e il diario e le modalita' degli esami, sia di profitto che di diploma e la composizione delle relative commissioni;  
+4) stabilire le eventuali prove pratiche da far sostenere agli allievi in occasione dell'esame di diploma;  
+5) riferire al consiglio di facolta' sulle domande di trasferimento di allievi di scuole di specializzazione in psicologia da una universita' o facolta' ad un'altra e deliberare circa il passaggio da un indirizzo all'altro della scuola stessa (conformemente a quanto stabilito dall'art. 562), determinandone gli eventuali ulteriori obblighi di frequenza e di esame;  
+6) determinare il numero massimo ed eventualmente il numero minimo degli allievi che possono essere iscritti al primo anno di corso; in ogni caso, dati i mezzi dimostrativi di cui la scuola dispone, il numero massimo di iscritti complessivamente nel triennio non dovra' eccedere i 75, sia che funzioni un solo indirizzo, sia che ne funzioni piu' di uno;  
+7) stabilire la composizione della commissione per l'esame di concorso di merito di cui al comma 2) dell'art. 549 e della commissione per le eventuali prove di idoneita' di cui al comma 3) del medesimo art. 549, nonche' le modalita' dei rispettivi concorsi o prove.  
+Art. 557. - Il funzionamento amministrativo della scuola e' determinato, in armonia con le vigenti disposizioni sulle scuole di specializzazione, da un regolamento interno emanato dal rettore su proposta del direttore della scuola.  
+Art. 558. - Le entrate della scuola sono costituite dalle tasse, soprattasse e contributi scolastici e dai contributi erogati eventualmente dallo Stato, dall'universita', da enti e da privati.  
+Art. 559. - Gli iscritti alla scuola sono tenuti al pagamento delle tasse, soprattasse e contributi generali nella misura stabilita dall'art. 175 dello statuto.  
+La misura dei contributi per le esercitazioni pratiche e per altre prestazioni, di cui gli iscritti fruiscono durante il corso degli studi, e' fissata dal consiglio di amministrazione dell'universita' su proposta del senato accademico, sentito il parere del consiglio della facolta' di medicina e chirurgia e del consiglio della scuola.  
+Art. 560. - Il direttore della scuola - sulla base delle deliberazioni del consiglio della scuola - compila ogni anno il relativo manifesto-programma che, previa approvazione della facolta' di medicina e chirurgia, sara' reso di pubblica ragione.  
+Nel manifesto viene specificato:  
+1) l'indirizzo o gli indirizzi della scuola che saranno aperti nell'imminente anno accademico;  
+2) il numero massimo (tenendo conto di quanto disposto nell'art. 556 punto 6) e, eventualmente, quello minimo di domande di iscrizione che verranno accettate;  
+3) le modalita' del concorso di merito in caso di domande eccedenti il numero massimo di iscrizioni consentite;  
+4) l'eventuale indicazione di prove di idoneita' per l'ammissione alla scuola, conformemente al comma 3) dell'art. 549);  
+5) l'ordine degli studi, con l'indicazione:  
+a) dell'eventuale scissione degli insegnamenti elencati nell'art. 551 in piu' rami distinti, ai fini dell'insegnamento e degli esami di profitto;  
+b) dell'eventuale raggruppamento degli insegnamenti ai fini dell'esame di profitto;  
+c) della distribuzione degli insegnamenti nei vari anni di corso;  
+d) degli insegnamenti integrativi che verranno impartiti nell'anno;  
+e) dei docenti, per ciascun insegnamento ed anno di corso;  
+6) le modalita' e le condizioni degli esami di profitto e di diploma;  
+7) le tasse, le soprattasse e i contributi generali e speciali dovuti dagli allievi.  
+Art. 561. - L'inclusione della scuola nello statuto dell'universita' non costituisce impegno ad impartire i relativi corsi: l'impegno e' costituito dalla pubblicazione del manifesto-programma annuale. Cio' vale sia per la scuola nel suo insieme sia per i singoli indirizzi.  
+Art. 562. - E' prevista, a domanda dell'interessato e non oltre il termine del 2° anno di corso, la possibilita' di passaggio da un indirizzo ad un altro. L'accoglimento della relativa domanda, sempre subordinato alle condizioni previste dall'art. 561, ha luogo a giudizio insindacabile del consiglio della scuola e con piano di studi da stabilire caso per caso.  
+Coloro che hanno compiuto l'intero triennio possono essere ammessi ad altro indirizzo con possibilita' di abbreviazioni dei corsi, per convalida di esami gia' sostenuti, secondo quanto sara' stabilito caso per caso dal consiglio della scuola.  
+Art. 563. Norme transitorie: all'inizio del funzionamento della scuola, il direttore e' autorizzato a prendere tutte quelle decisioni e deliberazioni che, di norma, sono demandate al consiglio della scuola.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 28 luglio 1969
 
-LEONE SCALFARO
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 27 febbraio 1973
+Registrato alla Corte dei conti, addi' 8 settembre 1969
 
-Atti di Governo, registro n. 256, foglio n. 38. - VALENTINI
-
-Allegato
-
- ALLEGATO   
-  
-Testo delle modifiche allo statuto dell'Universita' degli studi di Roma   
-  
-Gli articoli da 119 a 136 concernenti l'ordinamento degli studi   
-della facolta' di ingegneria di Roma sono abrogati e sostituiti dai seguenti:   
-Art. 119. - Titolo di ammissione e' quello previsto dalle vigenti disposizioni di legge.   
-Art. 120. - L'iscrizione agli anni di corso successivi al primo e' regolamentata dalle leggi in vigore per quanto riguarda sia le attestazioni di frequenza che il superamento di esami degli anni precedenti a quello di iscrizione.   
-Art. 121. - Gli insegnamenti della facolta' sono inquadrati nei   
-singoli istituti come dagli elenchi che seguono:   
-a) Istituto di architettura, edilizia e tecnica urbanistica:   
-1) Architettura e composizione architettonica I;   
-2) Architettura e composizione architettonica II A;   
-3) Architettura e composizione architettonica II B;   
-4) Architettura tecnica (edili);   
-5) Architettura tecnica (idraulici, trasporti);   
-6) Caratteri distributivi e costruttivi degli edifici;   
-7) Disegno I;   
-8) Disegno II (edili);   
-9) Disegno II (idraulici, trasporti) (semestrale);   
-10) Igiene applicata (edili) (semestrale);   
-11) Legislazione delle opere pubbliche e dei lavori;   
-12) Pianificazione urbanistica;   
-13) Programmazione e costi per l'edilizia (semestrale);   
-14) Storia dell'architettura;   
-15) Tecnologia degli elementi costruttivi per l'edilizia   
-industrializzata;   
-16) Urbanistica I;   
-17) Urbanistica II;   
-18) Urbanistica (trasporti).   
-b) Istituto di arte mineraria.   
-1) Arte mineraria;   
-2) Complementi di geofisica e misure in foro;   
-3) Geologia e giacimenti di idrocarburi;   
-4) Meccanica dei giacimenti di idrocarburi;   
-5) Meccanica delle rocce (semestrale);   
-6) Misure e controlli nei giacimenti di idrocarburi produzione e trasporto;   
-7) Tecnica dei sondaggi.   
-c) Istituto di automatica:   
-1) Calcolatori elettronici;   
-2) Compilatori e sistemi operativi;   
-3) Controlli automatici I;   
-4) Controlli automatici II (elettrotecnici);   
-5) Controlli automatici II (elettronici);   
-6) Controlli automatici II (nucleari);   
-7) Controlli automatici negli impianti chimici;   
-8) Esercitazioni di linguaggi programmativi;   
-9) Misure e strumentazione automatica;   
-10) Modelli dei sistemi naturali;   
-11) Regolazione e servocomandi;   
-12) Ricerca operativa;   
-13) Sistemi comminatori e sequenziali;   
-14) Tecnica dei controlli automatici;   
-15) Teoria dei sistemi.   
-d) Istituto di chimica:   
-1) Chimica   
-2) Chimica delle radiazioni;   
-3) Istituzioni di chimica (semestrale).   
-e) istituto di chimica applicata e industriale:   
-1) Chimica applicata;   
-2) Chimica degli impianti nucleari;   
-3) Chimica fisica;   
-4) Chimica industriale;   
-5) Chimica organica;   
-6) Controllo chimico dei processi industriali;   
-7) Corrosione e protezione dei materiali;   
-8) Impianti chimici I;   
-9) Impianti chimici II;   
-10) Legislazione (chimici) (semestrale);   
-11) Principi di ingegneria chimica;   
-12) Scienza dei materiali;   
-13) Tecnologia degli alti polimeri;   
-14) Tecnologia dei materiali e chimica applicata;   
-15) Tecnologia dei materiali e chimica applicata (nucleari);   
-16) Tecnologia dei materiali per alte temperature (semestrale);   
-17) Tecnologia del petrolio e petrolchimica;   
-18) Tecnologie generali dei materiali.   
-f) Istituto di comunicazioni elettriche:   
-1) Commutazione telegrafica e telefonica;   
-2) Comunicazioni elettriche;   
-3) Costruzioni elettroniche;   
-4) Elettrotecnica (elettronici);   
-5) Macchine elettriche (elettronici) (semestrale);   
-6) Metodi circuitali per microelettronica;   
-7) Modelli circuitali e informazione nei sistemi biologici;   
-8) Ponti radio (semestrale);   
-9) Principi di misure elettriche (semestrale);   
-10) Radionavigazione (semestrale);   
-11) Radiotecnica;   
-12) Reti per telecomunicazioni;   
-13) Sistemi digitali;   
-14) Sistemi di rilevamento e di riconoscimento;   
-15) Tecnica telegrafica e telefonica;   
-16) Teoria dell'informazione e codici;   
-17) Teoria delle reti non lineari;   
-18) Teoria statistica delle comunicazioni.   
-g) Istituto di costruzioni idrauliche:   
-1) Costruzioni idrauliche I;   
-2) Costruzioni idrauliche II;   
-3) Costruzioni idrauliche (meccanici);   
-4) Costruzioni marittime (semestrale);   
-5) Geotecnica applicata alle opere idrauliche (semestrale);   
-6) Idraulica agraria (semestrale);   
-7) Idrologia, geomorfologia e difesa del territorio   
-(semestrale);   
-8) Igiene applicata (idraulici, trasporti) (semestrale);   
-9) Impianti di potabilizzazione e trattamento (semestrale);   
-10) Servizi idraulici per l'urbanizzazione;   
-11) Tecnica dei lavori idraulici (semestrale).   
-h) Istituto di elettronica:   
-1) Antenne e propagazione;   
-2) Campi elettromagnetici e circuiti;   
-3) Elettrodinamica dei mezzi continui;   
-4) Elettronica applicata I;   
-5) Elettronica applicata II;   
-6) Elettronica applicata (elettrotecnici);   
-7) Elettronica dello stato solido;   
-8) Elettronica nucleare;   
-9) Impianti di alimentazione (semestrale);   
-10) Microelettronica;   
-11) Microonde;   
-12) Misure ad iperfrequenze;   
-13) Misure elettriche (elettronici);   
-14) Strumentazione elettronica (semestrale);   
-15) Tecniche elettromagnetiche di diagnostica ambientale;   
-16) Tecnologia dei dispositivi elettronici allo stato solido.   
-i) Istituto di elettrotecnica:   
-1) Applicazioni elettriche;   
-2) Centrali elettriche (semestrale);   
-3) Costruzioni elettromeccaniche;   
-4) Economia industriale (semestrale);   
-5) Elettrotecnica I;   
-6) Elettrotecnica II;   
-7) Elettrotecnica (civili);   
-8) Elettrotecnica (chimici, meccanici, minerari);   
-9) Elettrotecnica II (nucleari) (semestrale);   
-10) Fisica del reattore nucleare;   
-11) Impianti elettrici I;   
-12) Impianti elettrici II;   
-13) Impianti nucleari I;   
-14) Impianti nucleari II;   
-15) Legislazione (elettrotecnici);   
-16) Macchine elettriche I;   
-17) Macchine elettriche II;   
-18) Misure elettriche I;   
-19) Misure elettriche II;   
-20) Misure elettriche sulle macchine (semestrale);   
-21) Organizzazione delle aziende (semestrale);   
-22) Organizzazione industriale;   
-23) Tecnica delle alte tensioni.   
-j) Istituto di fisica:   
-1) Acustica fisica (semestrale);   
-2) Danno da radiazioni (semestrale);   
-3) Elettronica quantistica;   
-4) Fisica I;   
-5) Fisica II;   
-6) Fisica atomica;   
-7) Fisica criogenica (semestrale);   
-8) Fisica dello stato solido (semestrale);   
-9) Fisica nucleare;   
-10) Istituzioni di meccanica quantistica (semestrale);   
-11) Metodi di osservazione e misura (semestrale);   
-12) Metodi nucleari di analisi tecnologiche;   
-13) Misure nucleari;   
-14) Optoelettronica (semestrale);   
-15) Ottica (semestrale);   
-16) Principi di dosimetria e protezione dalle radiazioni   
-(semestrale);   
-17) Sorgenti di radiazioni nucleari per l'industria   
-(semestrale).   
-k) Istituto di fisica tecnica:   
-1) Acustica tecnica (semestrale);   
-2) Elettroacustica (semestrale);   
-3) Energetica;   
-4) Fisica tecnica (civili, minerari);   
-5) Fisica tecnica (chimici, meccanici, nucleari);   
-6) Fisica tecnica (elettronici, elettrotecnici);   
-7) Illuminotecnica (semestrale);   
-8) Impianti tecnici dell'edilizia;   
-9) Impianti termotecnici;   
-10) Termotecnica;   
-11) Termotecnica del reattore.   
-l) Istituto di geofisica mineraria:   
-1) Geofisica mineraria.   
-m) Istituto di geologia applicata:   
-1) Geologia;   
-2) Geologia applicata all'ingegneria;   
-3) Giacimenti minerari;   
-4) Mineralogia;   
-5) Petrografia;   
-6) Tecnologie speciali minerarie.   
-n) Istituto di idraulica:   
-1) Idraulica (civili);   
-2) Idraulica (chimici, meccanici, minerari);   
-3) Idraulica (elettrotecnici).   
-o) Istituto di macchine e tecnologie meccaniche:   
-1) Apparecchiature oleodinamiche (semestrale);   
-2) Complementi di macchine;   
-3) Costruzione di macchine;   
-4) Elementi costruttivi delle macchine;   
-5) Generatori di vapore (semestrale);   
-6) Impianti meccanici;   
-7) Macchine (nucleari);   
-8) Macchine;   
-9) Macchine agricole (semestrale);   
-10) Misure meccaniche;   
-11) Principi di radiobiologia (semestrale);   
-12) Progetti di macchine;   
-13) Sicurezza del lavoro (semestrale);   
-14) Tecnologia meccanica I;   
-15) Tecnologia meccanica II;   
-16) Vibrotecnica industriale (semestrale).   
-p) Istituto di matematica applicata:   
-1) Analisi matematica I;   
-2) Analisi matematica II;   
-3) Analisi numerica con elementi di programmazione;   
-4) Calcolo delle probabilita' e statistica applicata   
-all'ingegneria;   
-5) Complementi di matematica;   
-6) Complementi di matematica (nucleari) (semestrale);   
-7) Geometria I;   
-8) Geometria II (semestrale);   
-9) Meccanica razionale.   
-q) Istituto di meccanica applicata alle macchine:   
-1) Disegno (industriali);   
-2) Fluidodinamica;   
-3) Meccanica applicata alle macchine;   
-4) Meccanica applicata alle macchine e macchine;   
-5) Meccanica delle macchine;   
-6) Meccanica delle macchine e macchine.   
-r) Istituto di metallurgia:   
-1) Chimica fisica e metallurgia;   
-2) Metallurgia dei metalli non ferrosi;   
-3) Metallurgia e metallografia;   
-4) Metallurgia strutturale (semestrale);   
-5) Metodologie metallurgiche (semestrale);   
-6) Scienza dei metalli;   
-7) Siderurgia;   
-8) Tecnologie speciali chimiche.   
-s) Istituto di scienza delle costruzioni:   
-1) Costruzione di ponti;   
-2) Dinamica delle strutture;   
-3) Meccanica delle terre e tecnica delle fondazioni;   
-4) Organizzazione del cantiere (semestrale);   
-5) Principi di progettazione strutturale;   
-6) Scienza delle costruzioni (civili, minerari>;   
-7) Scienza delle costruzioni (meccanici);   
-8) Scienza delle costruzioni (chimici, elettrotecnici,   
-nucleari);   
-9) Scienza delle costruzioni (elettronici);   
-10) Tecnica delle costruzioni I (civili);   
-11) Tecnica delle costruzioni (meccanici, minerari);   
-12) Tecnica delle costruzioni II;   
-13) Tecnica delle costruzioni prefabbricate (semestrale);   
-14) Teoria delle strutture.   
-t) Istituto di strade:   
-1) Costruzione di strade, ferrovie ed aeroporti;   
-2) Progetto delle infrastrutture stradali;   
-3) Tecnica dei lavori stradali.   
-u) Istituto di topografia e geodesia:   
-1) Elementi di topografia (edili, idraulici) (semestrale);   
-2) Topografia.   
-v) Istituto di trasporti:   
-1) Fondamenti di trasporti;   
-2) Ingegneria dei trasporti nei piani territoriali;   
-3) Mezzi di sollevamento e trasporto;   
-4) Pianificazione dei trasporti;   
-5) Sistemi di trasporto terrestri;   
-6) Trasporti aerei e navali;   
-7) Sistemi di trazione;   
-8) Economia applicata all'ingegneria (trasporti).   
-Art. 122. - Il corso di laurea in ingegneria chimica comprende un numero di insegnamenti non inferiore a 27 annualita'; i seguenti insegnamenti sono comuni a tutti gli studenti iscritti al corso:   
-Biennio propedeutico:   
-1° Anno:   
-1) Analisi matematica I;   
-2) Chimica;   
-3) Disegno (industriale);   
-4) Fisica I;   
-5) Geometria I.   
-2° Anno:   
-6) Analisi matematica II;   
-7) Chimica organica;   
-8) Fisica II;   
-9) Meccanica razionale.   
-Triennio di applicazione:   
-10) Chimica applicata;   
-11) Chimica fisica;   
-12) Chimica industriale;   
-13) Controllo chimico dei processi industriali;   
-14) Elettrotecnica (chimici, meccanici, minerari);   
-15) Fisica tecnica (chimici, meccanici, nucleari);   
-16) Impianti chimici I;   
-17) Macchine;   
-18) Meccanica applicata alle macchine;   
-19) Principi di ingegneria chimica;   
-20) Scienza dei materiali;   
-21) Scienza delle costruzioni (chimici, elettrotecnici,   
-nucleari).   
-I restanti corsi sono scelti dallo studente nell'elenco di cui   
-all'art. 131.   
-Da tale elenco la facolta' trarra', per i singoli corsi di laurea, le materie da attivare che indichera', anno per anno, nel manifesto degli studi. Nel manifesto pero' le materie non figureranno isolate, ma raggruppate a costituire indirizzi coordinati.   
-Art. 123. - Il corso di laurea in ingegneria civile (sezione edile)   
-comprende un numero di insegnamenti non inferiore a 27 annualita'; i seguenti insegnamenti sono comuni a tutti gli studenti iscritti al corso:   
-Biennio propedeutico:   
-1° Anno:   
-I) Analisi matematica I;   
-2) Chimica;   
-3) Disegno I;   
-4) Fisica I;   
-5) Geometria I.   
-2° Anno:   
-6) Analisi matematica II;   
-7) Disegno II (edili);   
-8) Fisica II;   
-9) Meccanica razionale.   
-Triennio di applicazione:   
-10) Architettura e composizione architettonica I;   
-11) Architettura tecnica (edili);   
-12) Elettrotecnica (civili);   
-13) Topografia (edili, idraulici);   
-14) Fisica tecnica (civili, minerari);   
-15) Geologia applicata all'ingegneria;   
-16) Idraulica (civili);   
-17) Impianti tecnici dell'edilizia;   
-18) Meccanica applicata alle macchine e macchine;   
-19) Scienza delle costruzioni (civili, minerari);   
-20) Tecnica delle costruzioni I (civili);   
-21) Tecnica delle costruzioni II;   
-22) Tecnologia dei materiali e chimica applicata.   
-I restanti corsi sono scelti dallo studente nell'elenco di cui   
-all'art. 131.   
-Da tale elenco la facolta' trarra', per i singoli corsi di laurea, le materie da attivare, che indichera' anno per anno nel manifesto degli studi. Nel manifesto, pero', le materie non figureranno isolate, ma raggruppate a costituire indirizzi coordinati.   
-Art. 124. - Il corso di laurea in ingegneria civile (sezione   
-idraulica) comprende un numero di insegnamenti non inferiore a 27 annualita'; i seguenti insegnamenti sono comuni a tutti gli studenti iscritti al corso.   
-Biennio propedeutico:   
-1° Anno:   
-1) Analisi matematica I;   
-2) Chimica;   
-3) Disegno I;   
-4) Fisica I;   
-5) Geometria I.   
-2° Anno:   
-6) Analisi matematica I;   
-7) Disegno II (idraulici, trasporti) (semestrale);   
-8) Fisica II;   
-9) Geometria II (semestrale);   
-10) Meccanica razionale.   
-Triennio di applicazione:   
-11) Architettura tecnica (idraulici, trasporti);   
-12) Costruzione di strade, ferrovie e aeroporti;   
-13) Costruzioni idrauliche I;   
-14) Tecnica delle costruzioni (civili);   
-15) Costruzioni marittime (semestrale);   
-16) Topografia (edili, idraulici);   
-17) Elettrotecnica (civili);   
-18) Fisica tecnica (civili, minerari);   
-19) Geologia applicata all'ingegneria;   
-20) Idraulica (civili);   
-21) Meccanica applicata alle macchine e macchine;   
-22) Scienza delle costruzioni (civili, minerari);   
-23) Tecnologia dei materiali e chimica applicata.   
-I restanti corsi sono scelti dallo studente nell'elenco di cui   
-all'art. 131.   
-Da tale elenco la facolta' trarra', per i singoli corsi di laurea, le materie da attivare che indichera', anno per anno, nel manifesto degli studi. Nel manifesto, pero', le materie non figureranno isolate, ma raggruppate a costituire indirizzi coordinati.   
-Art. 125. - Il corso di laurea in ingegneria civile (sezione   
-trasporti) comprende un numero di insegnamenti non inferiore a 27 annualita'; i seguenti insegnamenti sono comuni a tutti gli studenti iscritti al corso:   
-Biennio propedeutico:   
-1° Anno:   
-1) Analisi matematica I;   
-2) Chimica;   
-3) Disegno I;   
-4) Fisica I;   
-5) Geometria I.   
-2° Anno:   
-6) Analisi matematica II;   
-7) Disegno II (idraulici, trasporti) (semestrale);   
-8) Fisica II;   
-9) Meccanica razionale.   
-Triennio di applicazione:   
-10) Architettura tecnica (idraulici, trasporti);   
-11) Costruzione di strade, ferrovie e aeroporti;   
-12) Economia applicata all'ingegneria;   
-13) Elettrotecnica (civili);   
-14) Fisica tecnica (civili, minerari);   
-15) Geologia applicata all'ingegneria;   
-16) Idraulica (civili);   
-17) Igiene applicata (idraulici, trasporti) (semestrale);   
-18) Meccanica applicata alle macchine e macchine;   
-19) Scienza delle costruzioni (civili, minerari);   
-20) Tecnica delle costruzioni I (civili);   
-21) Tecnologia dei materiali e chimica applicata;   
-22) Topografia.   
-I restanti corsi sono scelti dallo studente nell'elenco di cui   
-all'art. 131.   
-Da tale elenco la facolta' trarra', per i singoli corsi di   
-laurea, le materie da attivare che indichera', anno per anno, nel manifesto degli studi. Nel manifesto, pero', le materie non figureranno isolate, ma raggruppate a costituire indirizzi coordinati.   
-Art. 126. - Il corso di laurea in ingegneria elettronica comprende un numero di insegnamenti non inferiore a 27 annualita'; i seguenti insegnamenti sono comuni a tutti gli studenti iscritti al corso:   
-Biennio propedeutico:   
-1° Anno:   
-1) Analisi matematica I;   
-2) Chimica;   
-3) Disegno (industriali);   
-4) Fisica I;   
-5) Geometria I.   
-2° Anno:   
-6) Analisi matematica II;   
-7) Fisica II;   
-8) Meccanica razionale;   
-9) Campi elettromagnetici e circuiti;   
-Triennio di applicazione:   
-10) Complementi di matematica;   
-11) Comunicazioni elettriche;   
-12) Controlli automatici I;   
-13) Elettronica applicata I;   
-14) Elettronica applicata II;   
-15) Elettrotecnica (elettronici);   
-16) Fisica tecnica (elettronici, elettrotecnici);   
-17) Meccanica delle macchine e macchine;   
-18) Misure elettriche (elettronici);   
-19) Radiotecnica;   
-20) Scienza delle costruzioni (elettronici);   
-21) Teoria statistica delle telecomunicazioni;   
-22) Analisi numerica con elementi di programmazione.   
-I restanti corsi sono scelti dallo studente nell'elenco di cui   
-all'art. 131.   
-Da tale elenco la facolta' trarra', per i singoli corsi di laurea, le materie da attivare che indichera', anno per anno, nel manifesto degli studi. Nel manifesto, pero', le materie non figureranno isolate, ma raggruppate a costituire indirizzi coordinati.   
-Art. 127. - Il corso di laurea in ingegneria elettrotecnica comprende un numero di insegnamenti non inferiore a 27 annualita'; i seguenti insegnamenti sono comuni a tutti gli studenti iscritti al corso:   
-Biennio propedeutico:   
-1° Anno:   
-1) Analisi matematica I;   
-2) Chimica;   
-3) Disegno (industriali);   
-4) Fisica I;   
-5) Geometria I.   
-2° Anno:   
-6) Analisi matematica II;   
-7) Fisica II;   
-8) Meccanica razionale;   
-9) Tecnologie generali dei materiali.   
-Triennio di applicazione:   
-10) Costruzioni elettromeccaniche;   
-11) Elettrotecnica applicata (elettrotecnici);   
-12) Elettrotecnica I;   
-13) Elettrotecnica II;   
-14) Fisica tecnica (elettronici, elettrotecnici);   
-15) Idraulica (elettrotecnici);   
-16) Impianti elettrici I;   
-17) Impianti elettrici II;   
-18) Macchine;   
-19) Macchine elettriche I;   
-20) Meccanica applicata alle macchine;   
-21) Misure elettriche I;   
-22) Scienza delle costruzioni (chimici, elettrotecnici,   
-nucleari).   
-I restanti corsi sono scelti dallo studente nell'elenco di cui   
-all'art. 131.   
-Da tale elenco la facolta' trarra', per i singoli corsi di laurea, le materie da attivare che indichera', anno per anno, nel manifesto degli studi. Nel manifesto, pero', le materie non figureranno isolate, ma raggruppate a costituire indirizzi coordinati.   
-Art. 128. - Il corso di laurea in ingegneria meccanica comprende un   
-numero di insegnamenti non inferiore a 27 annualita'; i seguenti insegnamenti sono comuni a tutti gli studenti iscritti al corso:   
-Biennio propedeutico:   
-1° Anno:   
-1) Analisi matematica I;   
-2) Chimica;   
-3) Disegno (industriali);   
-4) Fisica I;   
-5) Geometria I.   
-2° Anno:   
-6) Analisi matematica II;   
-7) Fisica II;   
-8) Meccanica razionale;   
-9) Chimica applicata.   
-Triennio di applicazione:   
-10) Complementi di macchine;   
-11) Costruzione di macchine;   
-12) Elettrotecnica (chimici, meccanici, minerari);   
-13) Fisica tecnica (chimici, meccanici, nucleari);   
-14) Fluidodinamica;   
-15) Idraulica (chimici, meccanici, minerari);   
-16) Impianti meccanici;   
-17) Macchine;   
-18) Meccanica applicata alle macchine;   
-19) Misure meccaniche;   
-20) Scienza delle costruzioni (meccanici);   
-21) Tecnologia meccanica I.   
-I restanti corsi sono scelti dallo studente nell'elenco di cui   
-all'art. 131.   
-Da tale elenco la facolta' trarra', per i singoli corsi di laurea, le materie da attivare che indichera', anno per anno, nel manifesto degli studi. Nel manifesto, pero', le materie non figureranno isolate, ma raggruppate a costituire indirizzi coordinati.   
-Art. 129. - Il corso di laurea in ingegneria mineraria comprende un   
-numero di insegnamenti non inferiore a 28 annualita'; i seguenti insegnamenti sono comuni a tutti gli studenti iscritti al corso:   
-Biennio propedeutico:   
-1° Anno:   
-1) Analisi matematica I;   
-2) Chimica;   
-3) Disegno I;   
-4) Fisica I;   
-5) Geometria I.   
-2° Anno:   
-6) Analisi matematica II;   
-7) Fisica II;   
-8) Meccanica razionale;   
-9) Mineralogia.   
-Triennio di applicazione:   
-10) Arte mineraria;   
-11) Chimica applicata;   
-12) Elettrotecnica (chimici, meccanici, minerari);   
-13) Fisica tecnica (civili, minerari);   
-14) Geofisica mineraria;   
-15) Geologia;   
-16) Giacimenti minerari;   
-17) Idraulica (chimici, meccanici, minerari);   
-18) Macchine;   
-19) Meccanica applicata alte macchine;   
-20) Petrografia;   
-21) Scienza delle costruzioni (civili, minerari);   
-22) Tecnica dei sondaggi;   
-23) Topografia.   
-I restanti corsi sono scelti dallo studente nell'elenco di cui   
-all'art. 131.   
-Da tale elenco la facolta' trarra', per i singoli corsi di laurea, le materie da attivare che indichera', anno per anno, nel manifesto degli studi. Nel manifesto, pero', le materie non figureranno isolate, ma raggruppate a costituire indirizzi coordinati.   
-Art. 130. - Il corso di laurea in ingegneria nucleare comprende un numero di insegnamenti non inferiore a 27 annualita'; i seguenti insegnamenti sono comuni a tutti gli studenti iscritti al corso:   
-Biennio propedeutico:   
-1° Anno:   
-1) Analisi matematica I;   
-2) Chimica;   
-3) Disegno (industriali);   
-4) Fisica I;   
-5) Geometria I.   
-2° Anno:   
-6)Analisi matematica II;   
-7) Fisica II;   
-8) Geometria II (semestrale);   
-9) Meccanica razionale.   
-Triennio di applicazione:   
-10) Controlli automatici I;   
-11) Elettronica nucleare;   
-12) Elettrotecnica I;   
-13) Complementi di matematica (nucleari) (semestrale);   
-14) Fisica atomica;   
-15) Fisica del reattore nucleare;   
-16) Fisica nucleare;   
-17) Fisica tecnica (chimici, meccanici, nucleari);   
-18) Impianti nucleari I;   
-19) Macchine (nucleari);   
-20) Meccanica delle macchine;   
-21) Misure nucleari;   
-22) Principi di dosimetria e protezione dalle radiazioni   
-(semestrale);   
-23) Scienza delle costruzioni (chimici, elettrotecnici,   
-nucleari).   
-I restanti corsi sono scelti dallo studente nell'elenco di cui   
-all'art. 131.   
-Da tale elenco la facolta' trarra', per i singoli corsi di laurea, le materie da attivare che indichera', anno per anno, nel manifesto degli studi. Nel manifesto, pero', le materie non figureranno isolate, ma raggruppate a costituire indirizzi coordinati.   
-Art. 131. - Insegnamenti complementari:   
-A completare il proprio corso di laurea lo studente puo'   
-scegliere tra i seguenti insegnamenti:   
-a) insegnamenti elencati negli articoli da 122 a 130 per i   
-corsi di laurea diversi da quello prescelto;   
-b) insegnamenti di cui al seguente elenco:   
-1) Acustica fisica (semestrale);   
-2) Acustica tecnica (semestrale);   
-3) Antenne e propagazione;   
-4) Apparecchiature oleodinamiche (semestrale);   
-5)   
-Applicazioni elettriche;   
-6) Architettura e composizione architettonica II A;   
-7) Architettura e composizione architettonica II B;   
-8) Calcolatori elettronici;   
-9) Calcolo delle probabilita' e statistica applicata   
-all'ingegneria;   
-10) Caratteri distributivi e costruttivi degli edifici;   
-11) Centrali elettriche (semestrale);   
-12) Chimica degli impianti nucleari;   
-13) Chimica delle radiazioni;   
-14) Chimica fisica e metallurgia;   
-15) Commutazione telegrafica e telefonica;   
-16) Compilatori e sistemi operativi;   
-17) Complementi di geofisica e misure in foro;   
-18) Controlli automatici II (elettrotecnici);   
-19) Controlli automatici II (elettronici);   
-20) Controlli automatici II (nucleari);   
-21) Controlli automatici negli impianti chimici;   
-22) Corrosione e protezione dei materiali;   
-23) Costruzione di   
-ponti;   
-24) Costruzioni elettroniche;   
-25) Costruzioni idrauliche (meccanici);   
-26) Danno da radiazioni (semestrale);   
-27) Dinamica delle strutture;   
-28) Economia industriale (semestrale);   
-29) Elementi costruttivi delle macchine;   
-30) Elettroacustica (semestrale);   
-31) Elettrodinamica dei mezzi continui;   
-32) Elettronica dello stato solido;   
-33) Elettronica quantistica;   
-34) Elettrotecnica II (nucleari) (semestrale);   
-35) Energetica;   
-36) Esercitazioni di linguaggi programmativi;   
-37) Fisica criogenica (semestrale);   
-38) Fisica dello stato solido (semestrale);   
-39) Fondamenti di trasporti;   
-40) Generatori di vapore (semestrale);   
-41) Geologia e giacimenti di idrocarburi;   
-42) Geotecnica applicata alle opere idrauliche (semestrale);   
-43) Idraulica agraria (semestrale);   
-44) Idrologia, geomorfologia e difesa del territorio   
-(semestrale);   
-45) Igiene applicata (edili) (semestrale);   
-46) Illuminotecnica (semestrale);   
-47) Impianti chimici II;   
-48) Impianti di alimentazione (semestrale):   
-49) Impianti di potabilizzazione e trattamento (semestrale);   
-50) Impianti nucleari II;   
-51) Impianti termotecnici;   
-52) Ingegneria dei trasporti nei piani territoriali;   
-53) Istituzioni di chimica (semestrale);   
-54) Istituzioni di meccanica quantistica (semestrale);   
-55) Legislazione (chimici) (semestrale);   
-56) Legislazione (elettrotecnici);   
-57) Legislazione delle opere pubbliche e dei lavori;   
-58) Macchine agricole (semestrale);   
-59) Macchine elettriche (elettronici) (semestrale);   
-60) Macchine elettriche II;   
-61) Meccanica dei giacimenti di idrocarburi;   
-62) Meccanica delle rocce (semestrale);   
-63) Meccanica delle terre e tecnica delle fondazioni;   
-64) Metallurgia dei metalli non ferrosi;   
-65) Metallurgia e metallografia;   
-66) Metallurgia strutturale (semestrale);   
-67) Metodi circuitali per microetettronica;   
-68) Metodi di osservazione e misura (semestrale);   
-69) Metodi nucleari di analisi tecnologiche;   
-70) Metodologie metallurgiche (semestrale);   
-71) Mezzi di sollevamento e trasporto;   
-72) Microelettronica;   
-73) Microonde;   
-74) Misure ad iperfrequenze;   
-75) Misure e controlli nei giacimenti di idrocarburi   
-produzione e trasporto;   
-76) Misure elettriche II;   
-77) Misure elettriche sulle macchine (semestrale);   
-78) Misure e strumentazione automatica;   
-79) Modelli circuitali e informazione nei sistemi biologici;   
-80) Modelli dei sistemi naturali;   
-81) Optoelettronica (semestrale);   
-82) Organizzazione del cantiere (semestrale);   
-83) Organizzazione delle aziende (semestrale);   
-84) Organizzazione industriale;   
-85) Ottica (semestrale);   
-86) Pianificazione dei trasporti;   
-87) Pianificazione urbanistica;   
-88) Ponti radio (semestrale);   
-89) Principi di misure elettriche (semestrale);   
-90) Principi di progettazione strutturale;   
-91) Principi di radiobiologia (semestrale);   
-92) Progetti di macchine;   
-93) Progetto delle infrastrutture stradali;   
-94) Programmazione e costi per l'edilizia (semestrale);   
-95) Radionavigazione (semestrale);   
-96) Regolazione e servocomandi;   
-97) Reti per telecomunicazioni;   
-98) Ricerca operativa;   
-99) Scienza dei metalli;   
-100) Servizi idraulici per l'urbanizzazione;   
-101) Sicurezza del lavoro (semestrale);   
-102) Siderurgia;   
-103) Sistemi combinatori e sequenziali;   
-104) Sistemi digitali;   
-105) Sistemi di rilevamento e di riconoscimento;   
-106) Sistemi di trasporto terrestri;   
-(\*)   
-107) Sorgenti di radiazioni nucleari per l'industria   
-(semestrale);   
-108) Storia dell'architettura;   
-109) Strumentazione elettronica (semestrale);   
-110) Tecnici dei controlli automatici;   
-111) Tecnica dei lavori idraulici (semestrale);   
-112) Tecnica dei lavori stradali;   
-113) Tecnica delle alte tensioni;   
-114) Tecnica delle costruzioni (meccanici, minerari);   
-115) Tecnica delle costruzioni prefabbricate (semestrale);   
-116) Tecnica telegrafica e telefonica;   
-117) Tecniche elettromagnetiche di diagnostica ambientale;   
-118) Tecnologia degli alti polimeri;   
-119) Tecnologia dei dispositivi elettronici allo Stato   
-solido;   
-120) Tecnologia dei materiali e chimica applicata (nucleari);   
-121) Tecnologia dei materiali per alte temperature   
-(semestrale);   
-122) Tecnologia degli elementi costruttivi per l'edilizia   
-industrializzata;   
-123) Tecnologia del petrolio e petrolchimica;   
-124) Tecnologia meccanica II;   
-126) Tecnologie speciali minerarie;   
-127) Teoria dei sistemi;   
-128) Teoria delle informazioni e codici;   
-129) Teoria delle reti non lineari;   
-130) Teoria delle strutture;   
-131) Termotecnica;   
-132) Termotecnica del reattore;   
-133) Trasporti aerei e navali;   
-134) Sistemi di trazione;   
-135) Vibrotecnica industriale (semestrale);   
-136) Urbanistica I;   
-137) Urbanistica II;   
-138) Urbanistica (trasporti);   
-139) Costruzioni idrauliche II;   
-140) Elementi di topografia (edili, idraulici) (semestrale).   
-Art. 133.- All'atto dell'iscrizione al 3° anno lo studente deve   
-dichiarare quale sia il corso di laurea (e la sezione per quello di ingegneria civile) che intende seguire.   
-L'indirizzo prescelto dovra' essere dichiarato all'inizio del primo   
-degli anni di corso per il quale esiste la differenziazione di indirizzo.   
-Art. 134. - Ai fini della propedeuticita' dei diversi insegnamenti,   
-ferme restando le disposizioni di legge, vale la seguente tabella:   
-Non si puo essere ammessi a se non si e superato l'esame di:   
-sostenere l'esame di:   
-  
-  
-  
-Analisi matematica II Analisi matematica I  
-Architettura e composizione Architettura tecnica (edili)  
-architettonica I  
-Architettura e composizione Architettura e composizione architettonica II A e B architettonica I  
-Arte mineraria Fisica tecnica (civili,  
-minerari)  
-Elettrotecnica (chimici,  
-meccanici, minerari)  
-Idraulica (chimici,  
-meccanici, minerari)  
-Macchine - Meccanica  
-applicata alle macchine -  
-Scienza delle costruzioni  
-(civili, minerari)  
-Chimica applicata Fisica tecnica (chimici,  
-meccanici nucleari)  
-Controlli automatici II (elet- Controlli automatici I  
-tronici)  
-Controlli automatici II (elet- Controlli automatici I  
-trotecnici)  
-Controlli automatici II (nu- Controlli automatici I  
-cleari)  
-Controlli automatici negli Controlli automatici I  
-impianti chimici  
-Costruzione di macchine Elementi costruttivi delle macchine - Macchine  
-Costruzione di ponti Tecnica delle costruzioni I Costruzione di strade, Scienza delle costruzioni  
-ferrovie e aeroporti (civli, minerari) -  
-Topografia  
-Costruzioni idrauliche I Fisica tecnica (civili,  
-minerari)  
-Idraulica (civili)  
-Costruzioni idrauliche II Costruzioni idrauliche I  
-Geologia applicata  
-all'ingegneria  
-Scienza delle costruzioni  
-(civili, minerari)  
-Costruzioni idrauliche Idraulica (chimici,  
-(meccanici) meccanici, minerari) -  
-Scienza delle costruzioni  
-(meccanici)  
-Costruzioni marittime Idraulica (civili) -  
-Scienza delle costruzioni  
-(civili, minerari)  
-Disegno II (edili) Disegno I  
-Disegno II (idraulicl, trasporti) Disegno I  
-Elementi costruttivi delle Meccanica applicata alle  
-macchine macchine - Scienza delle  
-costruzioni (meccanici)  
-Elettroacustica Fisica tecnica (elettronici,  
-elettrotecnici)  
-Elettronica applicata II Elettronica applicata I -  
-Fisica tecnica (elettronici,  
-elettrotecnici)  
-Fisica II Fisica I  
-Fondamenti di trasporti Elettrotecnica (civili)  
-Fisica tecnica (civili,  
-minerari)  
-Meccanica applicata alle  
-macchine e macchine  
-Geometria II Geometria I  
-Geoetecnica applicata alle opere Tecnologia dei materiali e idrauliche chimica applicata  
-Idraulica agraria Idraulica (civili)  
-Impianti di potabilizzazione e Costruzioni idrauliche I - trattamento Tecnologia dei materiali e chimica applicata - Igiene applicata (idraulici,  
-trasporti)  
-Impianti chimici I Elettrotecnica (chimici,  
-meccanici minerari) -  
-Macchine Principi di  
-Ingegneria chimica  
-Impianti chimici II Chimica industriale -  
-Impianti chimici I  
-Impianti meccanici Fisica tecnica (chimici,  
-meccanici, nucleari)  
-Meccanica applicata alle  
-macchine - Tecnologia  
-meccanica I  
-Impianti tecnici dell'edilizia Fisica tecnica (civili,  
-minerari)  
-Impianti termotecnici Macchine - Complementi  
-di macchine  
-Macchine (\*) Chimica applicata (\*\*) -  
-Fisica tecnica (chimici,  
-meccanici, nucleari) (\*\*\*) -  
-Fisica tecnica  
-(civili, minerari) (\*\*\*\*) - Idraulica (chimici,  
-meccanici, minerari)  
-Meccanica applicata alle  
-macchine  
-Macchine (\*\*\*\*) Fisica tecnica (elettronici,  
-elettrotecnici) - Idraulica (elettrotecnici) - Meccanica  
-applicata alle macchine  
-Meccanica razionale Analisi matematica I -  
-Geometria I  
-Fisica I  
-Misure meccaniche Elettrotecnica (chimici,  
-meccanici, minerari) -  
-Macchine  
-Organizzazione del cantiere Tecnica delle costruzioni I Principi di ingegneria chimica Chimica fisica - Fisica  
-tecnica (chimici, meccanici,  
-nucleari)  
-Progetto delle infrastrutture Costruzione di strade,  
-stradali ferrovie aeroporti -  
-Geologia applicata  
-all'ingegneria  
-Regolazione e servocomandi Fisica tecnica (chimici,  
-meccanici, nucleari)  
-Sistemi di trasporto terrestri Fondamenti di trasporti  
-(\*)  
-Tecnica dei lavori idraulici Costruzione idrauliche I  
-Tecnica dei sondaggi Fisica tecnica (civili,  
-minerari  
-Elettrotecnica (chimici,  
-meccanici, minerari) -  
-Idraulica (chimici,  
-meccanici, minerari)  
-- Macchine - Meccanica  
-applicata alle macchine  
-Scienza delle costruzioni  
-(civili, minerari)  
-Tecnica delle costruzioni I Scienza delle costruzioni  
-(civili, minerari)  
-Tecnica delle costruzioni II Tecnica delle costruzioni I Tecnologia meccanica II Tecnologia meccanica I  
-Tecnica dei lavori stradali Costruzione di strade,  
-ferrovie e aeroporti -  
-Tecnica delle costruzioni I  
-Sistemi di trazione Elettrotecnica (civili) -  
-Fondamenti di trasporti.  
-  
-  
-  
-  
-Art. 136. - Per essere ammessi all'esame di laurea, gli studenti   
-debbono aver frequentato e superato gli esami relativi agli insegnamenti elencati negli articoli da 122 a 130 per i singoli corsi di laurea e sezione, ed inoltre, quelli dell'indirizzo prescelto.   
-I laureandi in ingegneria mineraria, salvo eccezioni autorizzate   
-dal consiglio di facolta', debbono aver trascorso un periodo di almeno un mese di tirocinio pratico presso una azienda mineraria ed esibire una relazione sul tirocinio fatto.   
-  
-(\*) Per i corsi di laurea in ingegneria chimica, meccanica,   
-mineraria.   
-  
-(\*\*) Coloro che hanno frequentato l'insegnamento di "Tecnologie generali" fino al 1959-60 e ne abbiano superato l'esame, possono sostenere l'esame di "Macchine" anche se non hanno superato l'esame di "Chimica applicata".   
-  
-(\*\*\*) Per il corso di laurea in ingegneria chimica e meccanica.   
-(\*\*\*\*) Per il corso di laurea in ingegneria mineraria.   
-  
-(\*\*\*\*\*) Per il corso di laurea in ingegneria elettrotecnica.   
-  
-Visto, d'ordine del Presidente della Repubblica   
-  
-Il Ministro per la pubblica istruzione   
-SCALFARO   
+Atti del Governo, registro n. 229, foglio n. 11. - CARUSO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1957 n. 994
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1972 n. 1168
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1957 n. 994
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1972 n. 1168
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -10,75 +10,98 @@ Modificazioni allo statuto dell'Universita' degli studi di Roma.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successivi;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;.   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Roma approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 52. - All'elenco degli Istituti annessi alla Facolta' di economia e commercio e' aggiunto quello di:   
-12) Economia politica.   
-La denominazione dell'Istituto di scienze economiche e' cambiata in quella di:   
-"Istituto di politica economica".   
-Art. 89. - Agli insegnamenti complementari del corso di laurea in fisica e' aggiunto quello di:   
-"Fisica dei solidi".   
-Art. 93. - Agli insegnamenti complementari del corso di laurea in matematica e fisica e' aggiunto quello di:   
-"Fisica dei solidi".   
-Dopo l'art. 394 sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di perfezionamento in ingegneria nucleare con il conseguente spostamento della numerazione degli articoli successivi.   
+Dopo l'art. 754 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione, presso la facolta' di medicina e chirurgia, della "Scuola speciale per tecnici riabilitatori della neuro e psicomotricita' dell'eta' evolutiva".  
   
-Corso di perfezionamento in ingegneria nucleare   
+Scuola speciale per tecnici riabilitatori della neuro e psicomotricita' dell'eta' evolutiva  
   
-Art. 395. - Presso la Facolta' di ingegneria e' istituito un corso di perfezionamento in "ingegneria nucleare", al fine di preparare tecnici specializzati alla risoluzione dei problemi inerenti alla produzione della energia mediante impianti nucleari e tecniche connesse.   
-Art. 396. - Il corso ha la durata, di un anno; e' diretto da un professore ordinario della Facolta' nominato dal rettore su designazione del Consiglio di facolta'. Il Consiglio del corso e' composto dal direttore e dai docenti degli insegnamenti costitutivi di cui all'articolo 399.   
-Art. 397. - Al corso possono essere ammessi esclusivamente laureati in ingegneria.   
-Il Consiglio del corso delibera ogni anno tempestivamente in ordine all'inizio e lo svolgimento delle lezioni, il numero massimo degli iscritti e le norme per l'ammissione nonche' il numero minimo di iscritti affinche' il corso stesso abbia luogo.   
-Il Consiglio di facolta' potra' sospendere lo svolgimento del corso a partire dall'anno accademico successivo alla deliberazione.   
-Art. 398. - La frequenza ai singoli insegnamenti deve essere attestata dai rispettivi docenti, secondo le modalita' stabilite del Consiglio del corso.   
-Art. 399. - Gli insegnamenti impartiti nel corso sono i seguenti:   
-1) Fisica nucleare;   
-2) Tecnica e misure di fisica nucleare;   
-3) Fisica del reattore;   
-4) Problemi di sicurezza e dosimetria;   
-5) Complementi di analisi e teoria dei servomeccanismi;   
-6) Metallurgia dell'uranio e del torio, dei metalli strutturali e dei metalli di controllo;   
-7) Mutamenti nella struttura dei materiali per effetto delle radiazioni;   
-8) Tecnologia dei materiali;   
-9) Ingegneria dei reattori nucleari;   
-10) Chimica del reattore nucleare;   
-11) Separazione degli isotopi;   
-12) Reattori di ricerca strutturali e prototipi;   
-13) Problemi termici dei reattori di potenza e schermatura.   
-Gli insegnamenti sopra indicati saranno completati da esercitazioni.   
-Il Consiglio del corso stabilisce la durata degli insegnamenti.   
-Gli insegnamenti potranno venire integrati da conferenze e visite ad impianti.   
-Art. 400. - E' data facolta' al direttore, all'inizio di ogni anno accademico, di rivedere il programma del corso e, sentito il parere del Consiglio, di sottoporre al Consiglio della facolta' proposte di variazioni del medesimo che saranno rese pubbliche soltanto dopo l'approvazione degli organi competenti, ai sensi delle vigenti disposizioni di cui al [testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592).   
-Art. 401. - Gli insegnanti del corso sono proposti dal direttore, che puo' sceglierli fra i professori di ruolo e fuori ruolo, fra i liberi docenti, fra gli aiuti e gli assistenti o anche fra persone di riconosciuta competenza delle rispettive specialita', ovvero giovarsi per talune materie di insegnamenti svolti presso altre Facolta'. Tali proposte sono subordinate alla approvazione del Consiglio di facolta' ed alle nomine provvede il rettore.   
-Art. 402. - Per la validita' del corso, cioe' per il conseguimento dell'attestato di cui all'art. 403, gli iscritti dovranno superare gli esami degli insegnamenti costitutivi e redigere un progetto o uno studio sulle materie di insegnamento.   
-Tale ultimo elaborato verra' discusso alla presenza di una Commissione di cinque membri scelti tra i docenti del corso e presieduta dal direttore del corso.   
-Ogni esame fallito potra' essere ripetuto una sola volta.   
-Art. 403. - Agli iscritti che abbiano superato tutti gli esami ed ottenuta l'idoneita' nel progetto o studio finale viene rilasciato un attestato comprovante la carriera scolastica compiuta.   
-Art. 404. - Gli iscritti al corso sono tenuti a pagare le tasse, soprattasse, contributi generali e per esercitazioni nella misura che verra' stabilita dal Consiglio di amministrazione della Universita', su proposta del Consiglio della facolta', udito il direttore del corso.   
+Art. 755. - La scuola speciale per tecnici riabilitatori della neuro e psicomotricita' dell'eta' evolutiva ha sede presso l'istituto di neuropsichiatria infantile.  
+La scuola ha per scopo la preparazione di tecnici qualificati a svolgere la riabilitazione dei soggetti in eta' evolutiva con disturbi neuromotori, psicomotorici e neuropsichici.  
+Art. 756. - La durata del corso degli studi per il conseguimento del diploma di tecnico riabilitatore della neuro e psicomotricita' dell'eta' evolutiva e' di 3 anni accademici. I primi due anni consistono in lezioni teoriche e pratiche su materie propedeutiche e di settore; il terzo anno consiste prevalentemente in tirocini pratici guidati. Sia le lezioni che i tirocini si svolgono prevalentemente presso l'istituto di neuropsichiatria infantile e presso quelle istituzioni che via via potranno essere indicate dal consiglio direttivo della scuola, perche' giudicate idonee.  
+Gli allievi hanno l'obbligo delle frequenze alle lezioni, ai seminari ed ai tirocini pratici secondo le modalita' stabilite dal consiglio della scuola.  
+Art. 757. - Sono ammessi alla scuola gli allievi di ambo i sessi, in possesso del titolo di studio della scuola media superiore, che abbiano superato un colloquio attitudinale, che si svolgera' presso la sede della scuola, all'inizio dell'anno accademico.  
+Inoltre possono essere ammessi anche gli allievi in possesso del titolo di studio della scuola d'obbligo, che abbiano superato un esame d'ammissione scritto vertente su argomenti vari di cultura generale, ed un esame orale, fatto sotto forma di colloquio attitudinale, destinato a mettere in evidenza le motivazioni personali che possono aver spinto il candidato ad intraprendere un simile tipo di specializzazione. I suddetti esami si svolgeranno presso la sede della scuola, all'inizio dello anno accademico.  
+Art. 758. - Il numero dei posti disponibili e' stabilito nella misura di 15 per il primo anno. Tale numero potra' essere variato ogni anno a discrezione del consiglio della scuola.  
+Art. 759. - Le materie di insegnamento sono cosi' ripartite:  
+  
+1° Anno:  
+1) Anatomia, fisiologia e patologia pediatrica;  
+2) Elementi di anatomia clinica, fisiologia dell'apparato motore, del sistema nervoso e degli organi sensoriali (biennale) 1° anno;  
+3) Nozioni di:  
+Psicologia dell'eta' evolutiva;  
+Neurologia infantile;  
+Puericultura;  
+Ortopedia e traumatologia;  
+Metodiche di accertamento di deficit sensoriali: protesi ortopediche, acustiche, ecc.  
+4) Nozioni pratiche-teoriche di massoterapia e di elettroterapia;  
+5) Nozioni pratiche-teoriche di: fisioterapia, terapia occupazionale, terapia del linguaggio (biennale) 1° anno.  
+  
+2° Anno:  
+1) Elementi di anatomia clinica, fisiologia dell'apparato motore, del sistema nervoso e degli organi sensoriali (biennale) 2° anno;  
+2) Nozioni teorico-pratiche di: fisioterapia, terapia occupazionale, terapia del linguaggio (biennale) 2° anno;  
+3) Psicopatologia infantile;  
+4) Testologia infantile;  
+5) Psicopedagogia;  
+6) Didattiche speciali;  
+7) Neuropsicofarmacologia.  
+  
+3° Anno:  
+Nozioni teorico-pratiche di tecniche speciali e collaterali.  
+  
+L'ordine e le modalita' degli esami da sostenere ogni anno verranno stabiliti nel manifesto annuale.  
+Nel terzo anno viene dato particolarmente risalto ai tirocini pratici che vengono effettuati sotto la supervisione di un docente della Scuola o di persona delegata dal Direttore della Scuola.  
+L'insegnamento sia teorico che pratico viene integrato da conferenze e seminari.  
+Art. 760. - Per essere ammessi al 2° anno gli allievi dovranno aver superato gli esami di cui ai numeri 1), 2), 3), 4) e 5).  
+Art. 761. - L'esame finale per il conseguimento del diploma di "Tecnico riabilitatore della neuro e psicomotricita' dell'eta' evolutiva" consiste in un esame scritto ed una prova pratica con cui l'allievo dovra' dimostrare di aver raggiunto un livello di preparazione adeguato nelle materie che sono oggetto d'insegnamento.  
+L'esame di diploma dovra' essere superato entro 5 anni dalla data di immatricolazione.  
+Art. 762. - Il direttore della scuola e' di diritto il titolare della cattedra di neuropsichiatria infantile della universita', e puo' farsi coadiuvare da un vicedirettore nominato su sua proposta.  
+Il consiglio della scuola e' costituito dal direttore, vicedirettore, dal corpo docente e dai supervisori designati dal direttore.  
+Spetta al consiglio della scuola:  
+1) determinare l'ordine degli studi;  
+2) esprimere il proprio parere sulle proposte del direttore della scuola relativamente alla nomina dei docenti, dei responsabili delle esercitazioni e tirocini professionali e del supervisore;  
+3) coordinare ed approvare i programmi dei singoli corsi teorici, dei seminari e dei tirocini pratici;  
+4) stabilire l'orario delle lezioni e delle esercitazioni pratiche e il diario e le modalita' degli esami, sia di profitto che di diploma;  
+5) determinare, ove lo ritenga necessario, il numero degli allievi che possono essere ammessi al primo anno, nonche' le modalita' del colloquio attitudinale e, nei corsi previsti, dell'esame di ammissione;  
+6) proporre al rettore la nomina dei professori.  
+Per i problemi di carattere amministrativo, il direttore della scuola e' assistito da un apposito comitato composto:  
+a) dallo stesso direttore della scuola, che lo presiede;  
+b) dal vicedirettore della scuola che presiede il comitato in assenza del direttore;  
+c) dagli altri professori docenti della scuola e dalle persone delegate dal direttore della scuola alla supervisione;  
+d) da rappresentanti degli enti o privati che concorrano alle spese di funzionamento della scuola con contributi annui individuali; a tal uopo, ciascun ente o privato che concorra con un contributo annuo individuale non inferiore a lire 3.000.000 potra' designare un rappresentante per ogni 3.000.000 di lire, mentre gli enti o privati che concorrano con minor contributo annuo, purche' non inferiore a lire 500.000, hanno diritto di designare collegialmente propri rappresentanti in ragione di un membro per ogni sei contribuenti.  
+Spetta al comitato amministrativo della scuola:  
+1) proporre al rettore l'ammontare del contributo di laboratorio dovuto dagli allievi;  
+2) determinare i compensi da corrispondere ai docenti, al responsabile delle esercitazioni e dei tirocini professionali ai supervisori e a tutti coloro che prestano la loro opera nella scuola;  
+3) autorizzare ogni altra spesa occorrente al funzionamento della scuola;  
+4) assegnare agli allievi piu' meritevoli le borse di studio che perverranno dagli enti interessati a promuovere la formazione di tecnici riabilitatori della neuro e psicomotricita' dell'eta' evolutiva;  
+5) approvare il bilancio interno della scuola.  
+Detto comitato puo' autorizzare il proprio presidente a provvedere direttamente, ed entro determinati limiti a spese non ricorrenti.  
+Il direttore della scuola da' esecuzione alle deliberazioni del comitato, conformi al bilancio interno ed alle norme amministrative contenute nella legislazione universitaria.  
+Art. 763. - Gli iscritti alla scuola sono tenuti al versamento annuo delle tasse, soprattasse e contributi nell'misura prevista dalla legge vigente per gli studenti delle facolta' di medicina e chirurgia.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e de decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 settembre 1957
+### Dato a Roma, addi' 17 ottobre 1972
 
-GRONCHI MORO
+LEONE SCALFARO
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 28 ottobre 1957
+Registrato alla Corte dei conti, addi' 9 giugno 1973
 
-Atti del Governo, registro n. 108, foglio n. 114. - RELLEVA
+Atti di Governo, registro n. 258, foglio n. 110. - VALENTINI

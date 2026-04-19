@@ -1,48 +1,175 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1025
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1980 n. 1088
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1025
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1980 n. 1088
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Salerno.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Salerno, approvato con [decreto del Presidente della Repubblica 18 dicembre 1968, n. 1436](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-12-18;1436) e modificato con [decreto del Presidente della Repubblica 10 settembre 1969, n. 695](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-09-10;695), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Salerno e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Salerno, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Salerno, approvato con [decreto del Presidente della Repubblica 18 dicembre 1968, n. 1436](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-12-18;1436) e modificato con [decreto del Presidente della Repubblica 10 settembre 1969, n. 695](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-09-10;695), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+L'art. 46 e' sostituito dal seguente:  
+"La facolta' di scienze matematiche, fisiche e naturali comprende il biennio propedeutico in ingegneria e rilascia la laurea in: fisica, matematica, scienze dell'informazione".  
+
+Art. 2
+------
+
   
-Decreta:  
   
-Lo statuto dell'universita' degli studi di Salerno, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Dopo l'art. 47, e con il conseguente spostamento della numerazione degli articoli successivi, e' aggiunto il seguente nuovo articolo relativo alla istituzione del corso di laurea in matematica.   
+Art. 48. - Il corso di studi per il conseguimento della laurea in matematica e' di quattro anni.   
+I titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge.   
+Il corso di studi si distingue in tre indirizzi: generale, didattico, applicativo.   
+Sono insegnamenti fondamentali obbligatori comuni ai tre indirizzi per il primo biennio:   
+1° Anno:   
+analisi matematica I;   
+geometria I;   
+algebra;   
+fisica generale I.   
+2° Anno:   
+analisi matematica II;   
+geometria II;   
+meccanica nazionale;   
+fisica generale II.   
+Ciascuno degli insegnamenti sopra elencati e' accompagnato da un corso di esercitazioni che ne e' parte integrante.   
+Sono insegnamenti fondamentali obbligatori comuni ai tre indirizzi per il secondo biennio:   
+3° Anno:   
+istituzioni di analisi superiore;   
+istituzioni di geometria superiore;   
+istituzioni di fisica matematica.   
+L'insegnamento di istituzioni di analisi superiore ovvero quello di istituzioni di fisica matematica potranno essere sostituiti, su deliberazioni della facolta', con quello di metodi matematici della fisica, fondamentale per il corso di laurea in fisica.   
+Nel secondo biennio dovranno inoltre essere impartiti gli insegnamenti di altre quattro discipline, di cui uno dovra' essere seguito nel terzo anno e gli altri nel quarto.   
+Di tali insegnamenti sono fondamentali:   
+Per l'indirizzo generale:   
   
-Dopo l'art. 29 e con il conseguente spostamento della numerazione degli articoli successivi e' inserito il seguente nuovo articolo, relativo agli istituti della facolta' di scienze matematiche, fisiche e naturali.  
-Art. 30. - Presso la facolta' di scienze matematiche, fisiche e naturali e' costituito l'istituto di fisica.  
-Tale istituto ha lo scopo di promuovere e coordinare la ricerca nella disciplina di sua pertinenza.  
-Con apposita deliberazione del consiglio di facolta' sara' provveduto annualmente al raggruppamento dei singoli insegnamenti presso l'istituto.  
-L'istituto e' retto da un direttore che e' responsabile del funzionamento dell'istituto stesso. Il direttore dello istituto e' nominato dal rettore su proposta del consiglio di facolta', che lo presceglie tra i professori della facolta'.  
-La nomina e' triennale per i professori di ruolo e annuale per i professori incaricati.  
-L'istituto potra' eventualmente disporre, secondo le modalita' intese ad assicurare il raggiungimento delle finalita', nel modo piu' idoneo, di fondi per la ricerca e di borse di studio provenienti da Ministeri, enti pubblici o privati italiani e stranieri.  
+4° Anno:   
+analisi superiore;   
+matematiche superiori.   
+  
+Per l'indirizzo didattico:   
+  
+3° Anno:   
+matematiche elementari da un punto di vista superiore.   
+4° Anno:   
+matematiche complementari.   
+  
+Per l'indirizzo applicativo:   
+  
+3° Anno:   
+teoria ed applicazioni delle macchine calcolatrici.   
+4° Anno:   
+analisi numerica.   
+I rimanenti due insegnamenti sono complementari a scelta dello studente; uno almeno di essi dovra' essere ad orientamento fisico.   
+Gli insegnamenti complementari per ciascuno del tre indirizzi dovranno essere scelti nel seguente elenco, escludendo i fondamentali dall'indirizzo prescelto.   
+Si intendono ad indirizzo fisico gli insegnamenti contrassegnati da un asterisco:   
+algebra lineare;   
+algebra superiore;   
+analisi funzionale;   
+analisi numerica;   
+analisi superiore;   
+\* astronomia;   
+calcoli numerici e grafici;   
+calcolo delle probabilita';   
+calcolo numerico e programmazione;   
+\* complementi di fisica generale I;   
+\* complementi di fisica generale II;   
+economia matematica;   
+elettronica;   
+\* elettronica applicata alle macchine calcolatrici;   
+epistemologia e metodologia;   
+\* fisica delle particelle elementari;   
+fisica matematica;   
+\* fisica superiore;   
+\* fisica teorica;   
+funzioni speciali;   
+geometria algebrica;   
+geometria differenziale;   
+geometria superiore;   
+istituzioni di algebra superiore;   
+\* istituzioni di fisica teorica;   
+\* linguaggi formali e compilatori;   
+logica matematica;   
+matematica finanziaria ed attuariale;   
+matematiche complementari;   
+matematiche superiori;   
+\* meccanica quantistica;   
+\* meccanica statistica;   
+\* meccanica superiore;   
+metodi di analisi numerica;   
+metodi di approssimazione;   
+metodi per il trattamento dell'informazione;   
+metodologia e didattica;   
+\*preparazione di esperienze didattiche I;   
+\* preparazione di esperienze didattiche II;   
+processi stocastici;   
+ricerca operativa;   
+sistemi per l'elaborazione dell'informazione;   
+statistica matematica;   
+storia della scienza;   
+storia e didattica della matematica;   
+\* struttura della materia;   
+tecniche numeriche ed analogiche;   
+teoria degli algoritmi e calcolabilita';   
+teoria dei giochi;   
+teoria dei grafi;   
+teoria dei gruppi;   
+teoria dei modelli;   
+teoria dei numeri;   
+teoria dei sistemi;   
+teoria della relativita';   
+teoria delle decisioni;   
+teoria delle funzioni;   
+teoria dell'informazione;   
+teoria ed applicazione delle macchine calcolatrici;   
+topologia.   
+Per ciascuno degli insegnamenti, sia fondamentale sia complementare, vi e' un esame finale.   
+Potranno essere iscritti al secondo anno soltanto quegli studenti che abbiano superato almeno due degli esami di analisi matematica I, geometria I, algebra.   
+I corsi di analisi matematica, di geometria, di fisica generale non debbono essere considerati come dei comuni corsi biennali; essi constano ciascuno di due parti annuali distinte, la prima propedeutica alla seconda, e con due esami distinti il primo propedeutico al secondo.   
+Il corso di teoria ed applicazioni delle macchine calcolatrici deve essere distinto da quello destinato agli allievi del primo anno del corso di laurea in scienze dell'informazione.   
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti prescritti. L'esame di laurea consta:   
+a) della discussione di un lavoro scritto, o sperimentale o avente comunque carattere di elaborazione autonoma;   
+b) dell'esposizione e discussione di una tesina orale, scelta su di un argomento diverso da quello su cui verte la tesi.   
+Superato l'esame di laurea, lo studente consegue il titolo di dottore in matematica, indipendentemente dall'indirizzo prescelto del quale verra' fatta menzione soltanto nella carriera scolastica.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 27 settembre 1980
 
-LEONE SCALFARO
+p. Il Presidente della Repubblica Il Presidente del Senato FANFANI SARTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 20 febbraio 1973
+Registrato alla Corte dei conti, addi' 9 marzo 1981
 
-Atti di Governo, registro n. 256, foglio n. 12. - VALENTINI
+Registro n. 22 Istruzione, foglio n. 293

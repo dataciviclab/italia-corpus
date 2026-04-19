@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1982 n. 780
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 532
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1982 n. 780
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 532
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-780. Decreto del Presidente della Repubblica 2 agosto 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in obbligazioni I.R.I. 5,50% 1963-83 per nominali L. 1.000.000, disposto dalla sig.ra Righettini Maria Giovanna ved. Lucchette a favore della fondazione "Pro juventute", in Milano, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione suddetta in data 28 novembre 1980, con testamento olografo 14 aprile 1976, pubblicato il 7 ottobre 1980, n. 11219 di repertorio e n. 1975 di raccolta, a rogito dott. Giuseppe Pedone, notaio in Milano, registrato a Milano il 13 ottobre 1980 al n. 20523/ M.   
+532. Decreto del Presidente della Repubblica 28 giugno 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella quota di 1/2 del ricavato della vendita di un immobile sito in Mantova del valore peritato di L. 43.000.000 - quota 1/2 ÷ L. 21.500.000 - disposto dalla sig.ra Benatti Angela a favore dei bambini handicappati della fondazione "Don Gnocchi", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale 16 gennaio 1984 del consiglio di amministrazione della fondazione stessa, con testamento olografo 21 gennaio 1981 e codicillo 16 novembre 1982, pubblicato in data 18 aprile 1983, n. 30039 di repertorio e n. 12059 di raccolta, a rogito dott. Bagnoli Enrico, notaio in Volta Mantovana (Mantova), registrato a Castiglione delle Stiviere (Mantova) il 21 aprile 1983 al n. 780.   
   
-Visto, il Guardasigilli: DARIDA   
-Registrato alla Corte dei conti, addi' 21 ottobre 1982   
-Registro n. 9 Presidenza, foglio n. 251
+Visto, il Guardasigilli: ROGNONI   
+Registrato alla Corte dei conti, addi' 22 agosto 1986   
+Registro n. 8 Presidenza, foglio n. 180

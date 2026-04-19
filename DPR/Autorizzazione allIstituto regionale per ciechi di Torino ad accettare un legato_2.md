@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1955 n. 282
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 marzo 1955 n. 359
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1955 n. 282
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 marzo 1955 n. 359
+============================================================
 
 Autorizzazione all'Istituto regionale per ciechi di Torino ad accettare un legato.
 ----------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-282. Decreto del Presidente della Repubblica 16 febbraio 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, l'istituto regionale per ciechi di Torino viene autorizzato ad accettare un legato di lire centomila disposto in suo favore dal defunto avv. Umberto Appiano fu Giovanni.  
+359. Decreto del Presidente della Repubblica 1 marzo 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto regionale per ciechi di Torino, viene autorizzato ad accettare un legato disposto in suo favore dalla defunta sig.ra Angela Flaminia Becchia Del Pozzo fu Carlo vedova di Giuseppe Donaudi.  
   
 Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 15 aprile 1955  
-Atti del Governo, registro n. 90, foglio n. 42. - CARLOMAGNO
+Registrato alla Corte dei conti, addi' 4 maggio 1955  
+Atti del Governo, registro n. 90, foglio n. 117. - CARLOMAGNO

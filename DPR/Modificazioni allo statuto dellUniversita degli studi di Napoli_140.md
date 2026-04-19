@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1982 n. 815
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1205
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1982 n. 815
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1205
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,1113 +10,449 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modificazione dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 22 - all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:
 
-  
-  
-Gli articoli dal 273 al 283, relativi al corso di laurea in scienze agrarie, sono soppressi e sostituiti dai seguenti:   
-Art. 273. - La facolta' di agraria conferisce la laurea in scienze agrarie.   
-Art. 274. - La durata del corso degli studi e' di cinque anni.   
-Il corso di studi e' articolato nei seguenti tre indirizzi:   
-"produzione vegetale", "tecnico-economico" e "zootecnico". Lo studente e' tenuto a scegliere l'indirizzo non oltre il termine del secondo anno.   
-I titoli di ammissione sono quelli prescritti dalle vigenti disposizioni di legge.   
-Art. 275. - Discipline comuni a tutti gli indirizzi:   
-1) anatomia, fisiologia e morfologia degli animali domestici;   
-2) biochimica agraria;   
-3) botanica generale;   
-3,5) botanica sistematica (semestrale);   
-4,5) chimica;   
-5,5) chimica del suolo;   
-6,5) fisica;   
-7,5) genetica agraria;   
-8,5) istituzioni di economia e di statistica agraria;   
-9,5) matematica;   
-10) zoologia generale agraria (semestrale);   
-11) agronomia generale;   
-12) coltivazioni arboree;   
-13) coltivazioni erbacee;   
-14) costruzioni rurali e topografia;   
-15) economia e politica agraria;   
-16) estimo rurale e contabilita';   
-17) industrie agrarie;   
-17,5) istituzioni di entomologia agraria (semestrale);   
-18) istituzioni di microbiologia agraria (semestrale);   
-18,5) istituzioni di patologia vegetale (semestrale);   
-19,5) meccanica e meccanizzazione agricola;   
-20,5) zootecnica;   
-accertamento della conoscenza di almeno una delle seguenti lingue straniere: francese, inglese, russa, spagnola e tedesca, mediante colloquio e traduzione di testi scientifici, da effettuarsi prima dell'assegnazione della tesi di laurea con docenti di discipline attinenti alla tesi stessa.   
-Art. 276. Discipline caratterizzanti gli indirizzi. - Indirizzo di produzione vegetale:   
-arboricoltura generale (in sostituzione di "coltivazioni arboree");   
-21) arboricoltura speciale (semestrale)(\*\*);   
-coltivazioni erbacee speciali (\*\*) (in sostituzione di "coltivazioni erbacee");   
-22) fisiologia delle piante coltivate;   
-22,5) entomologia agraria (in sostituzione di "istituzioni di entomologia agraria");   
-23) irrigazione e drenaggio (semestrale); (\*\*)   
-23,5) microbiologia agraria (in sostituzione di "istituzioni di microbiologia agraria");   
-24,5) miglioramento genetico delle piante agrarie;   
-25) orticoltura (semestrale);(\*\*)   
-25,5) patologia vegetale (in sostituzione di "istituzioni di patologia vegetale").   
-Indirizzo "tecnico-economico":   
-21,5) economia agraria (in sostituzione di "economia e politica agraria");   
-politica agraria (in sostituzione di "economia e politica agraria");   
-22) entomologia agraria (in sostituzione di "istituzioni di entomologia agraria");   
-23) estimo rurale (in sostituzione di "estimo rurale e contabilita'");   
-contabilita' e tecnica amministrativa delle imprese in agricoltura (in sostituzione di "estimo rurale e contabilita'");   
-24) economia del mercato dei prodotti agricoli;   
-25) idraulica agraria;   
-meccanizzazione agricola (in sostituzione di "meccanica e meccanizzazione agricola");   
-25,5) patologia vegetale (in sostituzione di "istituzioni di patologia vegetale").   
-Indirizzo "zootecnico":   
-21,5) fisiologia degli animali in produzione zootecnica;   
-22) foraggicoltura (semestrale);   
-22,5) microbiologia agraria (in sostituzione di"istituzioni di microbiologia agraria");   
-23,5) nutrizione e alimentazione animale;   
-zootecnica generale e miglioramento genetico (in sostituzione di "zootecnica");   
-24,5) zootecnica speciale I;   
-25,5) zootecnica speciale II.   
-Art. 277. Orientamenti. - Ogni indirizzo e' articolato in "orientamenti" stabiliti dalla facolta' nel manifesto annuale in base agli insegnamenti attivati. Ciascun orientamento viene definito da un gruppo di discipline, il cui numero concorre al raggiungimento di complessive 31 annualita', scelto dallo studente fra gruppi predisposti dalla facolta'.   
-Art. 278. Laurea. - Lo studente per accedere all'esame di laurea dovra' aver seguito i corsi e superato gli esami relativi a 31 discipline annuali o equivalenti (due discipline semestrali equivalgono ad una annuale), avere elaborato una tesi di laurea derivante da ricerca o progettazione o sperimentazione originali ed avere effettuato un tirocinio pratico-applicativo della durata minima da 3 a 6 mesi presso aziende della facolta' o aziende riconosciute dalla facolta' con apposite convenzioni ed indicate nel manifesto annuale degli studi.   
-Art. 279. - Tutti gli insegnamenti impartiti nella facolta' sono di lezioni teoriche e di esercizi pratici e possono essere integrati da visite ad opifici, fabbriche industriali e da esercitazioni in campagna.   
-Art. 280. - Gli esami di profitto sono orali, ma possono essere integrati da prove pratiche per le discipline sperimentali e per le materie che sono accompagnate da applicazioni di disegno.   
-Il voto e' pero' complessivo.   
-Il profitto, per il disegno, puo' essere desunto dalle prove grafiche fornite dallo studente durante l'anno.   
-Art. 281. - L'esame di laurea consiste in una discussione orale relativa alla tesi di laurea.   
-Superato l'esame di laurea lo studente consegue il titolo di dottore in scienze agrarie con l'indicazione dell'indirizzo seguito.   
-Art. 282. Elenco in ordine alfabetico delle discipline del corso di laurea in scienze agrarie.   
-  
-A   
-  
-Acarologia agraria   
-Acquicoltura   
-Agricoltura e sviluppo economico   
-Agrometeorologia   
-Agrometeorologia e climatologia   
-Agronomia   
-Agronomia generale   
-Agronomia generale e coltivazioni erbacee   
-Agronomia montana   
-Agronomia tropicale e sub-tropicale   
-Agrumicoltura   
-Algologia   
-Allevamento degli animali di interesse faunistico e venatorio   
-Alpicoltura (prati, pascoli e colture di montagna)   
-Analisi chimico-agrarie   
-Analisi chimico-biologica degli alimenti zootecnici   
-Analisi contabile in agricoltura   
-Analisi dei residui di fitofarmaci   
-Analisi dei prodotti alimentari   
-Analisi dei sistemi produttivi   
-Anatomia, fisiologia e morfologia degli animali domestici   
-Anatomia vegetale   
-Antiparassitari agricoli   
-Apicoltura   
-Apicoltura e bachicoltura   
-Applicazioni fitoiatriche   
-Approvvigionamenti e industrie degli alimenti di origine animale   
-Approvvigionamento dei prodotti agricoli e alimentari   
-Approvvigionamento energetico in agricoltura   
-Approvvigionamento idrico per l'agricoltura   
-Arboricoltura generale   
-Arboricoltura speciale   
-Architettura rurale   
-Aridocoltura   
-Assetto del territorio agricolo e forestale   
-Avicoltura   
-  
-B   
-  
-Bachicoltura   
-Batteriologia fitopatologica   
-Biochimica   
-Biochimica agraria   
-Biochimica degli alimenti   
-Biochimica del suolo   
-Biochimica industriale   
-Biochimica vegetale   
-Biochimica zootecnica   
-Biofisica   
-Biologia agraria   
-Biologia cellulare   
-Biologia generale   
-Biologia, produzione e tecnologia delle sementi   
-Biomatematica   
-Biotecnologia dei microrganismi fotosintetici   
-Biotecnologia delle fermentazioni   
-Botanica   
-Botanica agraria   
-Botanica forestale   
-Botanica generale   
-Botanica sistematica   
-  
-C   
-  
-Cartografia e fotointerpretazione agricola   
-Catasto terreni e fabbricati   
-Cerealicoltura   
-Chimica   
-Chimica agraria   
-Chimica analitica agraria   
-Chimica analitica e strumentale   
-Chimica degli antiparassitari   
-Chimica dei composti umici   
-Chimica e biochimica dei fitofarmaci e dei fitoregolatori   
-Chimica del suolo   
-Chimica della fertilizzazione   
-Chimica delle acque per uso irriguo   
-Chimica delle fermentazioni   
-Chimica delle sostanze naturali   
-Chimica e tecnologia degli aromi alimentari   
-Chimica forestale   
-Chimica generale ed inorganica   
-Chimica lattiero-casearia   
-Chimica organica   
-Chimica propedeutica I per agraria   
-Chimica propedeutica II per agraria   
-Citologia ed embriologia vegetale   
-Citogenetica vegetale   
-Citogenetica zootecnica;   
-Citotassonomia vegetale;   
-Classificazione agronomica e cartografia dei suoli   
-Climatologia   
-Climatologia e geopedologia   
-Coltivazione delle specie aromatiche e medicinali   
-Coltivazione e conservazione dei foraggi   
-Coltivazioni arboree   
-Coltivazioni arboree da legno e da frangivento   
-Coltivazioni erbacee   
-Coltivazioni erbacee delle regioni tropicali e sub-tropicali   
-Coltivazioni erbacee speciali   
-Coltivazioni legnose ornamentali   
-Colture erbacee industriali   
-Colture protette   
-Commercio internazionale dei prodotti agricoli   
-Complementi di costruzioni rurali   
-Complementi di idraulica agraria   
-Complementi di meccanica agraria   
-Coniglicoltura e allevamento degli animali da pelliccia e da   
-laboratorio   
-Contabilita' e tecnica amministrativa delle imprese in agricoltura Controllo degli inquinamenti in agricoltura   
-Controllo delle attivita' vegetative e riproduttive in   
-arboricoltura   
-Controllo e climatizzazione degli ambienti agricoli   
-Cooperazione ed associazione in agricoltura   
-Costruzioni ed impianti per coltivazioni protette   
-Costruzioni rurali   
-Costruzioni rurali e topografia   
-Costruzioni stradali forestali ed agrarie   
-Costruzioni zootecniche   
-  
-D   
-  
-Danni alle colture da avversita' atmosferiche   
-Demografia zootecnica   
-Detergenza e sanificazione degli impianti   
-delle industrie alimentari   
-Diagnostica e terapia fitopatologica   
-Diagnostica e terapia fitovirologica   
-Difesa degli alimenti dagli animali infestanti   
-Difesa e conservazione del suolo   
-Diritto agrario   
-Diritto agrario pubblico   
-Diritto regionale   
-Disegno tecnico e materiali   
-Diserbanti   
-E   
-  
-Ecofisiologia vegetale   
-Ecologia ed epidemiologia dei virus vegetali   
-Ecologia forestale   
-Ecologia microbica   
-Ecologia vegetale agraria   
-Ecologia zootecnica   
-Econometria agraria   
-Economia agraria   
-Economia degli investimenti pubblici e privati in agricoltura   
-Economia del mercato dei mezzi tecnici in agricoltura   
-Economia del mercato dei prodotti agricoli   
-Economia del mercato dei prodotti forestali   
-Economia del mercato dei prodotti zootecnici   
-Economia del mercato fondiario   
-Economia della meccanizzazione in agricoltura   
-Economia della produzione ittica   
-Economia delle industrie agro-alimentari   
-Economia e pianificazione dei Paesi tropicali e subtropicali   
-Economica e politica agraria   
-Economia e politica forestale   
-Economia ed estimo forestale   
-Economia montana e forestale   
-Elementi di fisica   
-Elementi di matematica   
-Elementi di meccanica applicata alle macchine agricole   
-Elementi di patologia vegetale   
-Elementi di scienza e tecnica delle costruzioni   
-Elettrificazione agricola   
-Enologia   
-Entomologia agraria   
-Entomologia agraria generale   
-Entomologia agraria speciale   
-Entomologia agraria tropicale e sub-tropicale   
-Entomologia delle piante ortensi, da fiore e ornamentali   
-Entomologia forestale   
-Entomologia forestale tropicale e sub-tropicale   
-Entomologia frutticola   
-Entomologia medica   
-Entomologia merceologica   
-Entomologia urbana   
-Entomologia veterinaria   
-Enzimologia   
-Epidemiologia e previsione delle malattie delle piante   
-Ergotecnica e organizzazione aziendale   
-Ergotecnica, infortunistica e organizzazione del lavoro in   
-agricoltura   
-Erosione e conservazione del suolo   
-Esercitazioni di analisi chimica dei prodotti alimentari   
-Estimo forestale e contabilita'   
-Estimo rurale   
-Estimo rurale e contabilita'   
-Etnologia ed etnografia zootecnica   
-Etologia degli animali in produzione zootecnica   
-  
-F   
-  
-Fertilita' del suolo e nutrizione delle piante   
-Finanziamento e credito in agricoltura   
-fisica   
-Fisica del terreno agrario   
-Fisica tecnica   
-Fisiologia delle piante coltivate   
-Fisiologia degli animali in produzione zootecnica   
-Fisiologia e tecnica della riproduzione animale   
-Fisiologia post-raccolta dei prodotti frutticoli   
-Fisiologia post-raccolta dei prodotti ortofloricoli   
-Fisiologia vegetale   
-Fisiopatologia degli animali in produzione zootecnica   
-Fisiopatologia vegetale   
-Fitofarmaci   
-Fitogeografica ed ecologia vegetale   
-Fitoiatria   
-Fitomizologia   
-Fitopatie da frigoconservazione   
-Fitopatie non parassitarie   
-Fitormoni e fitoregolatori in arboricoltura   
-Fitormoni e fitoregolatori in ortofloricoltura   
-Fitosociologia   
-Fitotossicita' degli inquinanti ambientali   
-Flora mellifora e impollinazione   
-Floricoltura   
-Fondamenti di chimica agraria   
-Fondamenti di idrotecnica per l'agricoltura   
-Foraggicoltura   
-Frutticoltura   
-Frutticoltura protetta   
-Frutticoltura tropicale e sub-tropicale   
-  
-G   
-  
-Genesi, classificazione e cartografia dei suoli   
-Genetica agraria   
-Genetica biometrica   
-Genetica dei microrganismi   
-Genetica della produzione sementiera   
-Geobotanica   
-Geologia applicata   
-Geopedologia   
-  
-I   
-  
-Idraulica agraria   
-Idrologia agraria   
-Idrologia e pianificazione delle risorse idriche (facolta' agraria) Igiene degli allevamenti e profilassi   
-Igiene per l'industria alimentare   
-Immunogenetica zootecnica   
-Impianti aziendali   
-Industrie agrarie   
-Industrie alimentari dei prodotti di origine animale   
-Industrie chimico-forestali   
-Infestanti del legname   
-Infrastrutture territoriali agrarie e forestali   
-Ingegneria ambientale dei sistemi agricoli e forestali   
-Ingegneria zootecnica   
-Interazioni macchine e prodotti agricoli   
-Irrigazione e drenaggio   
-Ispezione degli alimenti di origine animale   
-Ispezione fitosanitaria dei prodotti annonari vegetali   
-Istituzioni di agricoltura   
-Istituzioni di economia   
-Istituzioni di economia politica   
-Istituzioni di economia e di statistica agraria   
-Istituzioni di entomologia agraria   
-Istituzioni di genio rurale   
-Istituzioni di microbiologia agraria   
-Istituzioni di patologia vegetale   
-Istituzioni di statistica economico-agraria   
-Istituzioni di tecnologie alimentari   
-Istituzioni e servizi internazionali in agricoltura   
-  
-L   
-  
-Legislazione agraria   
-Legislazione alimentare   
-Legislazione forestale   
-Legislazione zootecnica   
-Lotta alle malerbe   
-Lotta biologica e integrata   
-Lingua francese   
-Lingua inglese   
-Lingua russa   
-Lingua spagnola   
-Lingua tedesca   
-  
-M   
-  
-Macchine agricole   
-Macchine ed automatismi per l'irrigazione   
-Macchine ed impianti di industrie agro-alimentari   
-Macchine per la sistemazione dei terreni agricoli   
-Malattie delle colture industriali da legno   
-Matematica   
-Materiali e tecnica delle costruzioni rurali   
-Meccanica agraria   
-Meccanica del suolo ed interazione macchina terreno   
-Meccanica e meccanizzazione agricola   
-Meccanizzazione agricola   
-Meccanizzazione agricolo-forestale   
-Meccanizzazione degli impianti zootecnici   
-Meccanizzazione delle colture tropicali e sub-tropicali   
-Metodi di lotta chimica contro le crittogame   
-Metodi numerici e statistici applicati all'agricoltura   
-Metodi statistici in economia agraria   
-Metodologia dell'assistenza tecnica e divulgazione in agricoltura Metodologia della pratica estimativa   
-Metodologia sperimentale in agricoltura   
-Metodologia statistica e sperimentale in agricoltura   
-Metodologia statistica in agricoltura   
-Metodologie avanzate di selezione genetica   
-Metodologie di gestione della meccanizzazione agricola   
-Metodologie di selezione per la resistenza genetica alle avversita' Micologia   
-Micologia agraria   
-Micologia fitopatologica   
-Microbiologia agraria   
-Microbiologia degli alimenti di origine animale   
-Microbiologia dei prodotti alimentari   
-Microbiologia del terreno   
-Microbiologia dell'apparato digerente degli animali   
-Microbiologia delle acque   
-Microbiologia enologica   
-Microbiologia forestale   
-Microbiologia generale   
-Microbiologia industriale   
-Microbiologia lattiero-casearia   
-Microbiologia marina   
-Miglioramento genetico degli alberi forestali   
-Miglioramento genetico degli animali in produzione zootecnica   
-Miglioramento genetico delle piante agrarie   
-Miglioramento genetico delle piante legnose da frutto   
-Mineralogia del suolo   
-Mineralogia e geologia   
-Modellistica e programmazione delle aziende in agricoltura   
-Motori e trattrici agricole   
-  
-N   
-  
-Nematologia agraria   
-Neuroendocrinologia degli animali in produzione zootecnica   
-Nutrizione e alimentazione animale   
-Nutrizione minerale delle piante   
-  
-O   
-  
-Olivicoltura   
-Ordinamento e gestione delle industrie zootecniche   
-Organizzazione del lavoro in agricoltura   
-Organizzazione di mercato dei prodotti agricolo-alimentari   
-Organizzazione e gestione dell'azienda agraria   
-Orticoltura   
-Orticoltura e floricoltura   
-Orticoltura e fluoricoltura tropicale e sub-tropicale   
-  
-P   
-  
-Paesaggistica, parchi e giardini   
-Parassitologia   
-Parassitologia animale dei vegetali   
-Pascoli e foraggere tropicali e sub-tropicali   
-Patologia apicola   
-Patologia dei prodotti e delle derrate agrarie   
-Patologia del legno e derivati   
-Patologia delle colture protette   
-Patologia delle piante da frutto   
-Patologia delle piante ornamentali e da fiore   
-Patologia delle piante ortensi   
-Patologia delle piante tropicali e sub-tropicali   
-Patologia delle sementi   
-Patologia generale delle piante   
-Patologia vegetale   
-Patologia vegetale forestale   
-Pedologia   
-Pedologia forestale   
-Pedologia tropicale e sub-tropicale   
-Pianificazione agricola ed organizzazione del territorio   
-Pianificazione e gestione delle risorse idriche   
-Pianificazione e gestione economica del territorio   
-Pianificazione e programmazione economica in agricoltura   
-Piante ornamentali   
-Piante parassitarie e nocive alle colture agrarie   
-Politica agraria   
-Politica agraria comparata   
-Politica agraria della Comunita' economica europea   
-Pomologia   
-Principi di economia agraria   
-Principi e metodi di applicazione della lotta chimica contro gli   
-insetti   
-Prodotti chimici di uso agrario   
-Produzione delle sementi ortive e floreali   
-Programmazione economica in agricoltura ed utilizzazione delle   
-risorse   
-Programmazione e vivaismo in orticoltura e floricoltura   
-Proprieta' fisico-meccaniche dei prodotti agricoli e alimentari   
-Protezione della natura e riassetto del paesaggio   
-  
-R   
-  
-Residui e additivi alimentari   
-Resistenza alle malattie e selezione sanitaria delle piante   
-Ricerca operativa in agricoltura   
-Ricerche di mercato in agricoltura   
-Riordinamento fondiario   
-Risorse genetiche agrarie   
-  
-S   
-  
-Servizi fitopatologici, norme fitosanitarie e quarantena   
-Sistematica ed ecologia delle piante ortive e ornamentali   
-Sistemazioni idrauliche e difesa del suolo   
-Sistemazioni idraulico-forestali   
-Sistemi agricoli comparati   
-Sociologia rurale   
-Statistica agraria   
-Storia dell'agricoltura   
-  
-T   
-  
-Tappeti erbosi   
-Tecnica agronomica dell'irrigazione   
-Tecnica agronomica della fertilizzazione   
-Tecnica degli impianti di riscaldamento e frigoriferi per   
-l'agricoltura   
-Tecnica degli impianti irrigui   
-Tecnica del diserbo   
-Tecnica della bonifica   
-Tecnica della bonifica e dell'irrigazione   
-Tecnica della coltivazione dei funghi   
-Tecnica delle applicazioni frigorifere   
-Tecnica mangimistica   
-Tecnica vivaistica   
-Tecniche delle colture irrigue   
-Tecniche di lotta antiparassitaria   
-Tecniche di lotta biologica   
-Tecniche di protezione delle colture   
-Tecniche di valutazione delle malattie delle piante   
-Tecnologia birraria   
-Tecnologia degli olii, grassi e derivati   
-Tecnologia dei cereali e derivati   
-Tecnologia dei prodotti agrumari   
-Tecnologia dei prodotti alimentari tropicali e sub-tropicali   
-Tecnologia del condizionamento e della distribuzione   
-Tecnologia della conservazione dei prodotti agricoli   
-Tecnologia delle bevande alcooliche   
-Tecnologia delle conserve alimentari   
-Tecnologia delle fermentazioni   
-Tecnologia delle produzioni bovine   
-Tecnologia delle produzioni equine   
-Tecnologia delle produzioni ovine e caprine   
-Tecnologia delle produzioni suine   
-Tecnologia di conservazione e di trasformazione della frutta   
-Tecnologia lattiero-casearia   
-Tecnologia saccarifera dell'amido e derivati   
-Tecnologie alimentari (operazioni fondamentali, processi)   
-Tecnologie chimico-agrarie   
-Tecnologie energetiche per l'agricoltura   
-Tecnologie fisiche in agricoltura   
-Topografia, fotogrammetria e cartografia   
-Topografia rurale   
-Tossine e micotossine di parassiti vegetali   
-Trasformazione e conservazione dei prodotti agricoli   
-Trasformazioni montane e rimboschimento   
-Trattamento dei sottoprodotti degli effluenti e approvvigionamento delle acque   
-  
-U   
-  
-Urbanistica rurale   
-Uso e riciclo delle biomasse in agricoltura   
-  
-V   
-  
-Valore alimentare e qualita' degli ortaggi   
-Valutazioni ed amministrazione forestali   
-Valutazioni morfo-funzionali degli animali in produzione zootecnica Viabilita' rurale   
-Virologia vegetale   
-Virologia vegetale molecolare   
-Virosi delle colture mediterranee   
-Viticoltura   
-  
-Z   
-  
-Zoocolture   
-Zooeconomia   
-Zoologia agraria   
-Zoologia agraria generale   
-Zoologia agraria speciale   
-Zoologia forestale   
-Zoologia forestale, venatoria e acquicoltura   
-Zoologia generale agraria   
-Zootecnica   
-Zootecnica generale   
-Zootecnica generale e miglioramento genetico   
-Zootecnica montana   
-Zootecnica speciale I   
-Zootecnica speciale II   
-Zootecnica tropicale e sub-tropicale   
-  
-Elenco delle predette discipline del corso di laurea in scienze agrarie suddivise per aree disciplinari:   
-  
-Area n. 1 - AGRONOMIA   
-  
-Agrometeorologia   
-Agrometeorologia e climatologia   
-Agronomia   
-Agronomia generale   
-Agronomia generale e coltivazioni erbacee   
-Agronomia montana   
-Agronomia tropicale e sub-tropicale   
-Alpicoltura (prati, pascoli e colture di montagna)   
-Aridocoltura   
-Biologia, produzione e tecnologia delle sementi   
-Cerealicoltura   
-Classificazione agronomica e cartografia dei suoli   
-Climatologia   
-Coltivazione e conservazione dei foraggi   
-Coltivazioni erbacee   
-Coltivazioni erbacee speciali   
-Coltivazioni erbacee delle regioni tropicali e sub-tropicali   
-Colture erbacee industriali   
-Ecologia vegetale agraria   
-Fisica del terreno agrario   
-Foraggicoltura   
-Istituzioni di agricoltura   
-Lotta alle malerbe   
-Metodologia sperimentale in agricoltura   
-Metodologia statistica e sperimentale in agricoltura   
-Pascoli e foraggere tropicali e sub-tropicali   
-Tecnica agronomica dell'irrigazione   
-Tecnica agranomica della fertilizzazione   
-Tecnica del diserbo   
-Tecnica delle colture irrigue   
-  
-Area n. 2 - BOTANICA   
-  
-Algologia   
-Anatomia vegetale   
-Biologia agraria   
-Biologia cellulare   
-Biologia generale   
-Botanica   
-Botanica agraria   
-Botanica forestale   
-Botanica generale   
-Botanica sistematica   
-Cartografia e fotointerpretazione agricola   
-Citologia ed embriologia vegetale   
-Citotassonomia vegetale   
-Ecofisiologia vegetale   
-Ecologia forestale   
-Fisiologia delle piante coltivate   
-Fisiologia vegetale   
-Fitogeografia ed ecologia vegetale   
-Fitosociologia   
-Geobotanica   
-Ingegneria ambientale dei sistemi agricoli e forestali   
-Protezione della natura e riassetto del paesaggio   
-  
-Area n. 3 - CHIMICA AGRARIA   
-  
-Analisi chimico-agrarie   
-Analisi dei residui di fitofarmaci   
-Biochimica agraria   
-Biochimica del suolo   
-Biochimica vegetale   
-Biochimica zootecnica   
-Chimica   
-Chimica agraria   
-Chimica analitica agraria   
-Chimica analitica e strumentale   
-Chimica degli antiparassitari   
-Chimica dei composti umici   
-Chimica del suolo   
-Chimica della fertilizzazione   
-Chimica delle acque per uso irriguo   
-Chimica delle sostanze naturali   
-Chimica e biochimica dei fitofarmaci e dei fitoregolatori   
-Chimica forestale   
-Chimica generale ed inorganica   
-Chimica organica   
-Chimica propedeutica I per agraria   
-Chimica propedeutica II per agraria   
-Controllo degli inquinamenti in agricoltura   
-Fertilita' del suolo e nutrizione delle piante   
-Fondamenti di chimica agraria   
-Industrie chimico-forestali   
-Mineralogia e geologia   
-Nutrizione minerale delle piante   
-Prodotti chimici di uso agrario   
-Tecnologie chimico-agrarie   
-Uso e riciclo delle biomasse in agricoltura   
-  
-Area n. 4 - COLTIVAZIONI ARBOREE   
-  
-Agrumicoltura   
-Arboricoltura generale   
-Arboricoltura speciale   
-Coltivazioni arboree   
-Coltivazioni arboree da legno e da frangivento   
-Coltivazioni legnose ornamentali   
-Controllo delle attivita' vegetative e riproduttive in   
-arboricoltura   
-Fisiologia post-raccolta dei prodotti frutticoli   
-Fitormoni e fitoregolatori in arboricoltura   
-Frutticoltura   
-Frutticoltura protetta   
-Frutticoltura tropicale e sub-tropicale   
-Miglioramento genetico delle piante legnose da frutto   
-Olivicoltura   
-Pomologia   
-Tecnica vivaistica   
-Viticoltura   
-  
-Area n. 5 - COSTRUZIONI RURALI   
-  
-Architettura rurale   
-Assetto del territorio agricolo e forestale   
-Complementi di costruzioni rurali   
-Controllo e climatizzazione degli ambienti agricoli   
-Costruzioni ed impianti per coltivazioni protette   
-Costruzioni rurali   
-Costruzioni rurali e topografia   
-Costruzioni stradali forestali ed agrarie   
-Costruzioni zootecniche   
-Elementi di scienza e tecnica delle costruzioni   
-Infrastrutture territoriali agrarie e forestali   
-Materiali e tecnica delle costruzioni rurali   
-Topografia, fotogrammetria e cartografia   
-Topografia rurale   
-Urbanistica rurale   
-Viabilita' rurale   
-  
-Area n. 6 - ECONOMICO-ESTIMATIVA   
-  
-Agricoltura e sviluppo economico   
-Analisi contabile in agricoltura   
-Analisi dei sistemi produttivi   
-Approvvigionamento dei prodotti agricoli e alimentari   
-Catasto terreni e fabbricati   
-Commercio internazionale dei prodotti agricoli   
-Contabilita' e tecnica amministrativa delle imprese in agricoltura Cooperazione ed associazione in agricoltura   
-Diritto agrario   
-Diritto agrario pubblico   
-Diritto regionale   
-Econometria agraria   
-Economia agraria   
-Economia degli investimenti pubblici e privati in agricoltura   
-Economia del mercato dei mezzi tecnici in agricoltura   
-Economia del mercato dei prodotti agricoli   
-Economia del mercato dei prodotti forestali   
-Economia del mercato dei prodotti zootecnici   
-Economia del mercato fondiario   
-Economia della meccanizzazione in agricoltura   
-Economia della produzione ittica   
-Economia delle industrie agro-alimentari   
-Economia e pianificazione dei paesi tropicali e sub-tropicali   
-Economia e politica agraria   
-Economia e politica forestale   
-Economia ed estimo forestale   
-Economia montana e forestale   
-Ergotecnica e organizzazione aziendale   
-Estimo forestale e contabilita'   
-Estimo rurale   
-Estimo rurale e contabilita'   
-Finanziamento e credito in agricoltura   
-Istituzioni di economia   
-Istituzioni di economia politica   
-Istituzioni di economia e di statistica agraria   
-Istituzioni di statistica economico-agraria   
-Istituzioni e servizi internazionali in agricoltura   
-Legislazione agraria   
-Legislazione forestale   
-Legislazione zootecnica   
-Metodi numerici e statistici applicati all'agricoltura   
-Metodi statistici in economia agraria   
-Metodologia dell'assistenza tecnica e divulgazione in agricoltura Metodologia della pratica estimativa   
-Metodologia statistica in agricoltura   
-Metodologie di gestione della meccanizzazione agricola   
-Modellistica e programmazione delle aziende in agricoltura   
-Ordinamento e gestione delle industrie zootecniche   
-Organizzazione del lavoro in agricoltura   
-Organizzazione di mercato dei prodotti agricolo-alimentari   
-Organizzazione e gestione dell'azienda agraria   
-Pianificazione agricola ed organizzazione del territorio   
-Pianificazione e gestione economica del territorio   
-Pianificazione e programmazione economica in agricoltura   
-Politica agraria   
-Politica agraria comparata   
-Politica agraria della Comunita' economica europea   
-Principi di economia agraria   
-Programmazione economica in agricoltura ed utilizzazione delle   
-risorse   
-Ricerca operativa in agricoltura   
-Ricerche di mercato in agricoltura   
-Riordinamento fondiario   
-Sistemi agricoli comparati   
-Sociologia rurale   
-Statistica agraria   
-Storia dell'agricoltura   
-Trasformazioni montane e rimboschimento   
-Valutazioni ed amministrazione forestali   
-Zooeconomia   
-  
-Area n. 7 - ENTOMOLOGIA AGRARIA   
-  
-Acarologia agraria   
-Antiparassitari agricoli   
-Apicoltura   
-Apicoltura e bachicoltura   
-Bachicoltura   
-Difesa degli alimenti dagli animali infestanti   
-Entomologia agraria   
-Entomologia agraria generale   
-Entomologia agraria speciale   
-Entomologia agraria tropicale e sub-tropicale   
-Entomologia delle piante ortensi, da fiore e ornamentali   
-Entomologia forestale   
-Entomologia forestale tropicale e sub-tropicale   
-Entomologia frutticola   
-Entomologia medica   
-Entomologia merceologica   
-Entomologia urbana   
-Entomologia veterinaria   
-Fitomizologia   
-Flora mellifora e impollinazione   
-Infestanti del legname   
-Istituzioni di entomologia agraria   
-Lotta biologica e integrata   
-Nematologia agraria   
-Parassitologia   
-Parassitologia animale dei vegetali   
-Patologia apicola   
-Principi e metodi di applicazione della lotta chimica contro gli   
-insetti   
-Tecniche di lotta antiparassitaria   
-Tecniche di lotta biologica   
-Zoologia agraria   
-Zoologia agraria generale   
-Zoologia agraria speciale   
-Zoologia forestale   
-Zoologia forestale, venatoria e acquicoltura   
-Zoologia generale agraria   
-  
-Area n. 8 - FISICA   
-  
-Biofisica   
-Elementi di fisica   
-Fisica   
-  
-Area n. 9 - IDRAULICA AGRARIA   
-  
-Approvvigionamento idrico per l'agricoltura   
-Complementi di idraulica agraria   
-Fondamenti di idrotecnica per l'agricoltura   
-Idraulica agraria   
-Idrologia agraria   
-Idrologia e pianificazione delle risorse idriche (fac. agraria)   
-Irrigazione e drenaggio   
-Pianificazione e gestione delle risorse idriche   
-Sistemazioni idrauliche e difesa del suolo   
-Sistemazioni idraulico-forestali   
-Tecnica degli impianti irrigui   
-Tecnica della bonifica   
-Tecnica della bonifica e dell'irrigazione   
-  
-Area n. 10 - INDUSTRIE AGRARIE   
-  
-Analisi dei prodotti alimentari   
-Biochimica   
-Biochimica degli alimenti   
-Biochimica industriale   
-Chimica e tecnologia degli aromi alimentari   
-Chimica lattiero-casearia   
-Detergenza e sanificazione degli impianti delle industrie   
-alimentari   
-Enologia   
-Enzimologia   
-Esercitazioni di analisi chimica dei prodotti alimentari   
-Fisica tecnica   
-Industrie agrarie   
-Industrie alimentari dei prodotti di origine animale   
-Istituzioni di tecnologie alimentari   
-Legislazione alimentare   
-Proprieta' fisico-meccaniche dei prodotti agricoli e alimentari   
-Residui e additivi alimentari   
-Tecnica delle applicazioni frigorifere   
-Tecnologia birraria   
-Tecnologia degli olii, grassi e derivati   
-Tecnologia dei cereali e derivati   
-Tecnologia dei prodotti agrumari   
-Tecnologia dei prodotti alimentari tropicali e sub-tropicali   
-Tecnologia del condizionamento e della distribuzione   
-Tecnologia della conservazione dei prodotti agricoli   
-Tecnologia delle bevande alcooliche   
-Tecnologia delle conserve alimentari   
-Tecnologia di conservazione e di trasformazione della frutta   
-Tecnologia lattiero-casearia   
-Tecnologia saccarifera dell'amido e derivati   
-Tecnologie alimentari (operazioni fondamentali, processi)   
-Tecnologie fisiche in agricoltura   
-Trasformazione e conservazione dei prodotti agricoli   
-Trattamento dei sottoprodotti, degli effluenti e approvvigionamento   
-delle acque   
-  
-Area n. 11 - LINGUE   
-  
-Lingua francese   
-Lingua inglese   
-Lingua russa   
-Lingua spagnola   
-Lingua tedesca   
-  
-Area n. 12 - MATEMATICA   
-  
-Biomatematica   
-Elementi di matematica   
-Matematica   
-  
-Area n. 13 - MECCANICA AGRARIA   
-  
-Approvvigionamento energetico in agricoltura   
-Complementi di meccanica agraria   
-Disegno tecnico e materiali   
-Elementi di meccanica applicata alle macchine agricole   
-Elettrificazione agricola   
-Ergotecnica, infortunistica e organizzazione del lavoro in   
-agricoltura   
-Fisica tecnica applicata all'agricoltura   
-Impianti aziendali   
-Interazioni macchine e prodotti agricoli   
-Istituzioni di genio rurale   
-Macchine agricole   
-Macchine ed automatismi per l'irrigazione   
-Macchine ed impianti di industrie agro-alimentari   
-Macchine per la sistemazione dei terreni agricoli   
-Meccanica agraria   
-Meccanica del suolo ed interazione macchina terreno   
-Meccanica e meccanizzazione agricola   
-Meccanizzazione agricola   
-Meccanizzazione agricolo-forestale   
-Meccanizzazione degli impianti zootecnici   
-Meccanizzazione delle colture tropicali e sub-tropicali   
-Motori e trattrici agricole   
-Tecnica degli impianti di riscaldamento e frigoriferi per   
-l'agricoltura   
-Tecnologie energetiche per l'agricoltura   
-  
-Area n. 14 - MICROBIOLOGIA AGRARIA   
-  
-Biotecnologia degli organismi fotosintetici   
-Biotecnologia delle fermentazioni   
-Chimica delle fermentazioni   
-Ecologia microbica   
-Genetica dei microrganismi   
-Igiene per l'industria alimentare   
-Ispezione degli alimenti di origine animale   
-Istituzioni di microbiologia agraria   
-Microbiologia agraria   
-Microbiologia degli alimenti di origine animale   
-Microbiologia dei prodotti alimentari   
-Microbiologia del terreno   
-Microbiologia dell'apparato digerente degli animali   
-Microbiologia delle acque   
-Microbiologia enologica   
-Microbiologia forestale   
-Microbiologia generale   
-Microbiologia industriale   
-Microbiologia lattiero-casearia   
-Microbiologia marina   
-Tecnologia delle fermentazioni   
-  
-Area n. 15 - MIGLIORAMENTO GENETICO DELLE PIANTE AGRARIE   
-  
-Citogenetica vegetale   
-Genetica agraria   
-Genetica biometrica   
-Genetica della produzione sementiera   
-Metodologie avanzate di selezione genetica   
-Metodologie di selezione per la resistenza genetica alle avversita' Miglioramento genetico degli alberi forestali   
-Miglioramento genetico delle piante agrarie   
-Risorse genetiche agrarie   
-  
-Area n. 16 - ORTICOLTURA E FLORICOLTURA   
-  
-Coltivazione delle specie aromatiche e medicinali   
-Colture protette   
-Fisiologia post-raccolta dei prodotti ortofloricoli   
-Fitormoni e fitoregolatori in ortofloricoltura   
-Floricoltura   
-Orticoltura   
-Orticoltura e floricoltura   
-Orticoltura e floricoltura tropicale e sub-tropicale   
-Paesaggistica, parchi e giardini   
-Piante ornamentali   
-Produzione delle sementi ortive e floreali   
-Propagazione e vivaismo in orticoltura e floricoltura   
-Sistematica ed ecologia delle piante ortive e ornamentali   
-Tappeti erbosi   
-Tecnica della coltivazione dei funghi   
-Tecniche di protezione delle colture   
-Valore alimentare e qualita' degli ortaggi   
-  
-Area n. 17 - PATOLOGIA VEGETALE   
-  
-Applicazioni fitoiatriche   
-Batteriologia fitopatologica   
-Danni alle colture da avversita' atmosferiche   
-Diagnostica e terapia fitopatologica   
-Diagnostica e terapia fitovirologica   
-Diserbanti   
-Ecologia ed epidemiologia dei virus vegetali   
-Elementi di patologia vegetale   
-Epidemiologia e previsione delle malattie delle piante   
-Fisiopatologia vegetale   
-Fitofarmaci   
-Fitoiatria   
-Fitopatie da frigoconservazione   
-Fitopatie non parassitarie   
-Fitotossicita' degli inquinanti ambientali   
-Ispezione fitosanitaria dei prodotti annonari vegetali   
-Istituzioni di patologia vegetale   
-Malattie delle colture industriali da legno   
-Metodi di lotta chimica contro le crittogame   
-Micologia   
-Micologia agraria   
-Micologia fitopatologica   
-Patologia dei prodotti e delle derrate agrarie   
-Patologia del legno e derivati   
-Patologia delle colture protette   
-Patologia delle piante da frutto   
-Patologia delle piante ornamentali da fiore   
-Patologia delle piante ortensi   
-Patologia delle piante tropicali e sub-tropicali   
-Patologia delle sementi   
-Patologia generale delle piante   
-Patologia vegetale   
-Patologia vegetale forestale   
-Piante parassitarie e nocive alle colture agrarie   
-Resistenza alle malattie e selezione sanitaria delle piante   
-Servizi fitopatologici; norme fitosanitarie e quarantena   
-Tecniche di valutazione delle malattie delle piante   
-Tossine e micotossine di parassiti vegetali   
-Virologia vegetale   
-Virologia vegetale molecolare   
-Virosi delle colture mediterranee   
-  
-Area n. 18 - PEDOLOGIA   
-  
-Climatologia e geopedologia   
-Difesa e conservazione del suolo   
-Erosione e conservazione del suolo   
-Genesi, classificazione e cartografia dei suoli   
-Geologia applicata   
-Geopedologia   
-Mineralogia del suolo   
-Pedologia   
-Pedologia forestale   
-Pedologia tropicale e sub-tropicale   
-  
-Area n. 19 - PRODUZIONE ANIMALE   
-  
-Acquicoltura   
-Allevamento degli animali di interesse faunistico e venatorio   
-Analisi chimico biologica degli alimenti zootecnici   
-Anatomia, fisiologia e morfologia degli animali domestici   
-Approvvigionamenti e industrie degli alimenti di origine animale   
-Avicoltura   
-Citogenetica zootecnica   
-Coniglicoltura e allevamento degli animali da pelliccia e da   
-laboratorio   
-Demografia zootecnica   
-Ecologia zootecnica   
-Etnologia ed etnografia zootecnica   
-Etologia degli animali in produzione zootecnica   
-Fisiologia degli animali in produzione zootecnica   
-Fisiologia e tecnica della riproduzione animale   
-Fisiopatologia degli animali in produzione zootecnica   
-Igiene degli allevamenti e profilassi   
-Immunogenetica zootecnica   
-Ingegneria zootecnica   
-Miglioramento genetico degli animali in produzione zootecnica   
-Neuroendocrinologia degli animali in produzione zootecnica   
-Nutrizione e alimentazione animale   
-Tecnica mangimistica   
-Tecnologia delle produzioni bovine   
-Tecnologia delle produzioni equine   
-Tecnologia delle produzioni ovine e caprine   
-Tecnologia delle produzioni suine   
-Valutazioni morfo-funzionali degli animali in produzione zootecnica Zoocolture   
-Zootecnica   
-Zootecnica generale   
-Zootecnica generale e miglioramento genetico   
-Zootecnica montana   
-Zootecnica speciale I   
-Zootecnica speciale II   
-Zootecnica tropicale e sub-tropicale.   
-Art. 283. - Ogni insegnamento, a giudizio della facolta', nel manifesto potra' avere durata semestrale o annuale.   
+storia dei rapporti tra Stato e Chiesa;
+
+diritto internazionale privato e processuale;
+
+organizzazione internazionale;
+
+diritto pubblico dell'economia;
+
+diritto finanziario;
+
+diritto bancario;
+
+logica giuridica.
+
+Dopo l'art. 56, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione dell'istituto policattedra di diritto romano.
+
+Istituto di diritto romano
+
+Art. 57. - E' costituito presso la facolta' di giurisprudenza l'istituto di diritto romano.
+
+L'istituto raggruppa gli insegnamenti di:
+
+istituzioni di diritto romano;
+
+storia del diritto romano;
+
+diritto romano;
+
+diritto pubblico romano;
+
+esegesi delle fonti del diritto romano;
+
+papirologia ed epigrafia giuridica;
+
+All'istituto saranno aggregati tutti gli altri insegnamenti che verranno istituiti in futuro per altre materie romanistiche.
+
+Art. 58. - L'istituto ha il fine di promuovere e coordinare le ricerche e l'insegnamento nel campo delle discipline che fanno capo ad esso.
+
+A tale scopo disporra' di attrezzature autonome. L'istituto curera' inoltre la raccolta del materiale scientifico e provvedera' a pubblicazioni autonome.
+
+Art. 59. - Fa parte dell'istituto il personale docente e non docente di ogni ordine e grado, di ruolo e non, assegnato alle singole cattedre o direttamente all'istituto. Sono ammessi a frequentare di diritto l'istituto gli studenti della facolta' di giurisprudenza. Possono essere ammessi anche altri studenti studiosi e laureati di altre facolta' e universita', che ottengono l'autorizzazione dal direttore.
+
+Art. 60. - Direttore dell'istituto e' un professore di ruolo o fuori ruolo di una materia di cui all'art. 57, che designato dal personale docente a maggioranza assoluta, e in seconda convocazione, a maggioranza dei presenti, viene proposto dal consiglio di facolta' e nominato con decreto rettorale per un triennio accademico.
+
+Il direttore ha poteri di rappresentanza, sovraintendenza, coordinamento e disciplina ed e' coadiuvato da un consiglio di tre o cinque membri eletti tra i docenti di ruolo o incaricati e tra gli assistenti anche non di ruolo.
+
+Il consiglio presieduto dal direttore, esprime parere, verbalizzato da un segretario, sul regolamento interno dell'istituto, sul coordinamento delle materie e dei tempi e modi dei corsi - ben vero salva l'autonomia di ogni insegnamento - sulla formazione della biblioteca, sul prestito interno ed esterno del materiale librario e didattico-scientifico, sulle ammissioni di cui all'art. 59, secondo comma.
+
+Esprime parere altresi' su ogni altra questione sottopostagli dal direttore.
+
+Art. 61. - Il direttore informera' dei piu' rilevanti problemi dell'istituto, almeno una volta all'anno, agli inizi dell'anno accademico, previo opportuno avviso pubblico, il personale, gli studenti ed i cultori ammessi all'istituto invitati dal direttore.
+
+Ogni intervenuto avra' diritto alla parola.
+
+Art. 62. - Le attrezzature, i fondi e l'amministrazione dell'istituto sono unitari. Le attrezzature ed i fondi esistenti presso ciascuna cattedra e quelli che verranno ancora assegnati a singole cattedre sono ritenuti conferiti all'istituto, che provvedera' a redigerne inventario e contabilita' unici.
+
+Gli articoli da 195 a 199 sono abrogati e sostituiti dai seguenti, con lo spostamento della numerazione degli articoli successivi:
+
+Art. 195. - Sono costituiti presso la facolta' di farmacia i seguenti istituti policattedra: istituto di chimica farmaceutica e tossicologica, istituto di farmacologia sperimentale, istituto di biorganica.
+
+Tali istituti hanno lo scopo di promuovere e coordinare l'insegnamento e la ricerca nelle discipline di loro pertinenza.
+
+Art. 196. - L'istituto di chimica farmaceutica e tossicologica raggruppa le cattedre di: chimica farmaceutica e tossicologica prima, chimica farmaceutica e tossicologica seconda, chimica bromatologica e gli insegnamenti di analisi chimico-tossicologica, chimica farmaceutica applicata, esercitazioni di chimica farmaceutica e tossicologica primo corso, esercitazioni di chimica farmaceutica e tossicologica secondo corso, esercitazioni di chimica farmaceutica e tossicologica terzo corso, idrologia chimica, fitofarmacia, tecnica e legislazione farmaceutica, raggruppa altresi' quegli insegnamenti che siano effettuati da docenti aventi titolo per afferire all'istituto stesso.
+
+Art. 197. - L'istituto di farmacologia sperimentale raggruppa le cattedre di: farmacologia e farmacognosia (base), farmacologia e farmacognosia (raddoppio) e gli insegnamenti di saggi e dosaggi farmacologici, tossicologia, farmacologia, patologia generale, chemioterapia, farmacologia applicata.
+
+Art. 198. - L'istituto di biorganica raggruppa le cattedre di chimica biologica e di chimica organica.
+
+Art. 199. - Qualora l'insegnamento per incarico sara' trasformato in cattedra di ruolo quest'ultima restera' raggruppata nello stesso istituto. Norme particolari a riguardo delle afferenze agli istituti della facolta' potranno essere stabilite dalla facolta' stessa nei casi in cui ne ravvisi la opportunita'.
+
+Art. 200. - Ogni istituto deve darsi un regolamento interno ratificato dalla facolta' ed e' retto da un direttore che e' responsabile dell'amministrazione e del funzionamento dell'istituto stesso.
+
+Art. 201. - La direzione di ogni istituto e' affidata ad un professore di ruolo di una delle cattedre afferenti a quell'istituto.
+
+La facolta', sentito il parere dei professori di cui sopra, designera', scegliendo tra essi, il direttore dell'istituto che verra' nominato con decreto rettorale e per un periodo di due anni.
+
+Art. 202. - Il direttore, sentito il parere dei professori ufficiali dell'istituto, rilascia ai ricercatori e agli allievi interni che hanno frequentato l'istituto per almeno sei mesi un attestato degli studi compiuti e dei risultati raggiunti nelle ricerche.
+
+Art. 203. - Ogni istituto potra' eventualmente disporre, in conformita' con le vigenti disposizioni di legge, di fondi per la ricerca, di borse di studio provenienti da enti pubblici o privati italiani o stranieri.
+
+Gli articoli 313, 314, 315, 316, 317 relativi alla scuola di perfezionamento in diritto e procedura penale sono abrogati e sostituiti dai seguenti:
+
+Art. 313. - La durata dei corsi di studio e' di due anni e possono iscriversi i laureati in giurisprudenza.
+
+Il numero massimo degli iscritti e' di 150 per ogni anno di corso.
+
+Art. 314. - Gli insegnamenti della scuola sono i seguenti:
+
+Fondamentali:
+
+1) storia del diritto penale;
+
+2) tecnica della interpretazione della legge penale e processuale penale;
+
+3) teoria generale del reato (biennale);
+
+4) teoria generale del processo penale (biennale).
+
+Complementari:
+
+1) diritto penitenziario;
+
+2) diritto penale commerciale e bancario;
+
+3) diritto penale internazionale;
+
+4) diritto penale del lavoro;
+
+5) diritto penale militare;
+
+6) diritto penale tributario;
+
+7) diritto penale urbanistico e dell'ambiente;
+
+8) diritto penale minorile;
+
+9) diritto penale della navigazione;
+
+10) diritto penale comparato;
+
+11) procedura penale comparata;
+
+12) casistica della parte speciale del [codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398);
+
+13) casistica della procedura penale;
+
+14) diritto e procedura penale costituzionale;
+
+15) diritto dell'esecuzione penale;
+
+16) teoria dei procedimenti speciali e complementari;
+
+17) teoria e tecnica dell'istruzione penale;
+
+18) diritto di polizia;
+
+19) criminologia;
+
+20) antropologia criminale;
+
+21) sociologia giuridico-penale;
+
+22) medicina legale applicata al diritto penale;
+
+23) psicopatologia forense.
+
+Per ottenere il diploma e' necessario aver superato gli esami relativi alle materie fondamentali e ad almeno sei materie complementari.
+
+Art. 315. - La commissione per gli esami speciali e' composta da tre docenti della scuola ed e' presieduta dal docente della materia o di materia affine o dal direttore della scuola.
+
+Il diploma viene conseguito attraverso la discussione di una dissertazione scritta dinanzi ad una commissione di cinque docenti della scuola presieduta dal direttore o dal docente professore di ruolo piu' anziano nella commissione.
+
+Art. 316. - Il direttore viene nominato dal consiglio della facolta' di giurisprudenza nella persona di un professore di ruolo di diritto penale. Gli incarichi di insegnamento delle singole discipline sono conferiti dal consiglio della facolta' su proposta del direttore della scuola, con l'approvazione del senato accademico e del consiglio di amministrazione dell'Universita' di Napoli.
+
+Art. 317. - I programmi di insegnamento sono approvati all'inizio di ogni anno dal consiglio dei docenti della scuola formato dai docenti della scuola e presieduto dal direttore.
+
+Gli articoli da 561 e 569, relativi alla scuola diretta a fini speciali per ortottisti, che muta la denominazione in scuola diretta a fini speciali per ortottisti-assistenti di oftalmologia, sono abrogati e sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi.
+
+Scuola diretta a fini speciali per ortottisti-assistenti di oftalmologia
+
+Art. 561. - E' istituita presso la prima facolta' di medicina e chirurgia dell'Universita' di Napoli una scuola speciale di preparazione per ortottisti-assistenti di oftalmologia che ha sede presso la clinica oculistica di questa facolta'.
+
+Art. 562. - La scuola ha lo scopo di dare una preparazione completa, teorico-pratica, istruendo gli allievi sui problemi della motilita' oculare, dell'ambliopia, delle tecniche diagnostiche della visione binoculare, del trattamento pre e post operatorio dei pazienti strabici; dei problemi sui vizi di refrazione e della loro correzione sulle tecniche diagnostiche in oftalmologia.
+
+La durata del corso per conseguire il diploma di ortottista-assistente di oftalmologia e' di tre armi.
+
+Ne sono titolo di ammissione il possesso di un diploma, legalmente valido ai fini dell'iscrizione all'Universita' ai sensi dell'[art. 1 della legge n. 910 dell'11 dicembre 1969](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1), e la conoscenza di una lingua straniera (inglese, francese, tedesco, spagnolo).
+
+Art. 563. - Gli aspiranti all'iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova di cultura generale e in una prova per la conoscenza della lingua straniera. E' richiesto un certificato di sana e robusta costituzione, con particolare riguardo alla funzione visiva.
+
+Art. 564. - Il numero degli iscritti alla scuola e' di (da 2 a 5 per anno di corso). Qualora le domande d'iscrizione fossero in numero superiore al numero massimo previsto, il consiglio della scuola si riserva di provvedere ad una scelta tra gli idonei in base ai risultati delle prove di ammissione; gli idonei possono essere ammessi anche in soprannumero in rapporto ai posti che si rendessero vacanti nel corso del secondo e terzo anno.
+
+I ripetenti ed i fuori corso, qualora riprendano gli studi, sono riammessi in soprannumero.
+
+Art. 565. - Il direttore della scuola e' il titolare della cattedra di clinica oculistica o altro docente di disciplina affine, proposto dal titolare della cattedra di clinica oculistica, sentito il consiglio della scuola.
+
+Art. 566. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria.
+
+La frequenza e' obbligatoria.
+
+Il corso comprende lezioni teoriche ed esercitazioni pratiche.
+
+Le materie di insegnamento sono:
+
+1° Anno:
+
+1) elementi di anatomia dell'apparato visivo e del S.N.C.;
+
+2) fisiologia dell'occhio, della motilita' oculare, della visione binoculare;
+
+3) ottica fisica e fisiopatologica;
+
+4) ortottica I;
+
+5) psicologia infantile.
+
+2° Anno:
+
+1) elementi di patologia oculare;
+
+2) elementi di farmacologia oculare;
+
+3) elementi di neuro-oftalmologia;
+
+4) nozioni di chirurgia ed assistenza oftalmica;
+
+5) ortottica II.
+
+3° Anno:
+
+1) tecniche semeiologiche dell'apparato visivo (es. refrazione, contattologia, adattometria, campo visivo, senso cromatico);
+
+2) tecniche semeiologiche ed elettrofisiologiche (tonometria e tonografia; ERG; EOG; EMG; ecografia;
+
+retinologia e fluoroangiografia);
+
+3) ortottica III;
+
+4) nozioni di riabilitazione, senso motorio dell'eta' infantile;
+
+5) legislazione sanitaria.
+
+Art. 567. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo, per gli allievi, dell'internato per l'intero periodo del corso di studi nella clinica oculistica.
+
+La frequenza viene comprovata dall'attestazione rilasciata sul libretto d'iscrizione dagli insegnanti e per l'attivita' pratica dal direttore della scuola. L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.
+
+Art. 568. - Alla fine di ogni anno gli allievi devono sostenere un esame sulle materie d'insegnamento. Nel caso in cui i candidati non abbiano superato gli esami prescritti, essi rimarranno nella posizione di "ripetenti".
+
+Art. 569. - Gli esami di profitto consistono in prove teoriche e pratiche.
+
+Art. 570. - Alla fine del corso gli allievi debbono sostenere un esame di diploma che consiste nella discussione di una tesi scritta su un argomento riguardante le materie d'insegnamento, assegnata dal direttore della scuola e in una prova pratica stabilita da una commissione esaminatrice, i candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola ma se al secondo anno non sia loro riconosciuta l'idoneita' saranno senz'altro esclusi da ulteriori prove.
+
+Art. 571. - Gli esami di profitto e di diploma si danno in due sessioni, la prima estiva che ha inizio subito dopo la chiusura annuale dei corsi e la seconda autunnale, nel mese che precede l'inizio del nuovo anno accademico.
+
+Art. 572. - Le commissioni per gli esami di ammissione, di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della clinica; le commissioni per gli esami di ammissione e di profitto sono composte da tre membri;
+
+il direttore della scuola, presidente, e da due insegnanti della scuola stessa. La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro scelti tra gli insegnanti della scuola stessa o altri docenti.
+
+Art. 573. - Le tasse e soprattasse annuali a carico degli iscritti restano cosi' destinate:
+
+tassa annuale di iscrizione.... L. 10.000 soprattassa annuale di esami..." 5.000 tassa erariale di diploma....." 6.000 tassa annuale per l'iscrizione studenti fuori corso............" 5.000 contributi di laboratorio...." 35.000
+
+Art. 574. - Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni o contributi di enti pubblici e privati.
+
+REGOLAMENTO DELL'UNIVERSITA' DEGLI STUDI DI NAPOLI
+
+Scuola a fini speciali Scuola per ortottisti-assistenti di oftalmologia Sono ammessi al terzo anno della scuola, con l'obbligo di tutti gli esami del terzo anno e della tesi, le diplomate della scuola speciale per ortottiste ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), purche' abbiano esercitato con continuita' una attivita' professionale adeguata e documentata.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1977
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 16 giugno 1978 Registro n. 64 Istruzione, foglio n. 274
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
+  
+Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modificazione dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:  
+Art. 22 - all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:  
+storia dei rapporti tra Stato e Chiesa;  
+diritto internazionale privato e processuale;  
+organizzazione internazionale;  
+diritto pubblico dell'economia;  
+diritto finanziario;  
+diritto bancario;  
+logica giuridica.  
+Dopo l'art. 56, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione dell'istituto policattedra di diritto romano.  
+Istituto di diritto romano  
+Art. 57. - E' costituito presso la facolta' di giurisprudenza l'istituto di diritto romano.  
+L'istituto raggruppa gli insegnamenti di:  
+istituzioni di diritto romano;  
+storia del diritto romano;  
+diritto romano;  
+diritto pubblico romano;  
+esegesi delle fonti del diritto romano;  
+papirologia ed epigrafia giuridica;  
+All'istituto saranno aggregati tutti gli altri insegnamenti che verranno istituiti in futuro per altre materie romanistiche.  
+Art. 58. - L'istituto ha il fine di promuovere e coordinare le ricerche e l'insegnamento nel campo delle discipline che fanno capo ad esso.  
+A tale scopo disporra' di attrezzature autonome. L'istituto curera' inoltre la raccolta del materiale scientifico e provvedera' a pubblicazioni autonome.  
+Art. 59. - Fa parte dell'istituto il personale docente e non docente di ogni ordine e grado, di ruolo e non, assegnato alle singole cattedre o direttamente all'istituto. Sono ammessi a frequentare di diritto l'istituto gli studenti della facolta' di giurisprudenza. Possono essere ammessi anche altri studenti studiosi e laureati di altre facolta' e universita', che ottengono l'autorizzazione dal direttore.  
+Art. 60. - Direttore dell'istituto e' un professore di ruolo o fuori ruolo di una materia di cui all'art. 57, che designato dal personale docente a maggioranza assoluta, e in seconda convocazione, a maggioranza dei presenti, viene proposto dal consiglio di facolta' e nominato con decreto rettorale per un triennio accademico.  
+Il direttore ha poteri di rappresentanza, sovraintendenza, coordinamento e disciplina ed e' coadiuvato da un consiglio di tre o cinque membri eletti tra i docenti di ruolo o incaricati e tra gli assistenti anche non di ruolo.  
+Il consiglio presieduto dal direttore, esprime parere, verbalizzato da un segretario, sul regolamento interno dell'istituto, sul coordinamento delle materie e dei tempi e modi dei corsi - ben vero salva l'autonomia di ogni insegnamento - sulla formazione della biblioteca, sul prestito interno ed esterno del materiale librario e didattico-scientifico, sulle ammissioni di cui all'art. 59, secondo comma.  
+Esprime parere altresi' su ogni altra questione sottopostagli dal direttore.  
+Art. 61. - Il direttore informera' dei piu' rilevanti problemi dell'istituto, almeno una volta all'anno, agli inizi dell'anno accademico, previo opportuno avviso pubblico, il personale, gli studenti ed i cultori ammessi all'istituto invitati dal direttore.  
+Ogni intervenuto avra' diritto alla parola.  
+Art. 62. - Le attrezzature, i fondi e l'amministrazione dell'istituto sono unitari. Le attrezzature ed i fondi esistenti presso ciascuna cattedra e quelli che verranno ancora assegnati a singole cattedre sono ritenuti conferiti all'istituto, che provvedera' a redigerne inventario e contabilita' unici.  
+Gli articoli da 195 a 199 sono abrogati e sostituiti dai seguenti, con lo spostamento della numerazione degli articoli successivi:  
+Art. 195. - Sono costituiti presso la facolta' di farmacia i seguenti istituti policattedra: istituto di chimica farmaceutica e tossicologica, istituto di farmacologia sperimentale, istituto di biorganica.  
+Tali istituti hanno lo scopo di promuovere e coordinare l'insegnamento e la ricerca nelle discipline di loro pertinenza.  
+Art. 196. - L'istituto di chimica farmaceutica e tossicologica raggruppa le cattedre di: chimica farmaceutica e tossicologica prima, chimica farmaceutica e tossicologica seconda, chimica bromatologica e gli insegnamenti di analisi chimico-tossicologica, chimica farmaceutica applicata, esercitazioni di chimica farmaceutica e tossicologica primo corso, esercitazioni di chimica farmaceutica e tossicologica secondo corso, esercitazioni di chimica farmaceutica e tossicologica terzo corso, idrologia chimica, fitofarmacia, tecnica e legislazione farmaceutica, raggruppa altresi' quegli insegnamenti che siano effettuati da docenti aventi titolo per afferire all'istituto stesso.  
+Art. 197. - L'istituto di farmacologia sperimentale raggruppa le cattedre di: farmacologia e farmacognosia (base), farmacologia e farmacognosia (raddoppio) e gli insegnamenti di saggi e dosaggi farmacologici, tossicologia, farmacologia, patologia generale, chemioterapia, farmacologia applicata.  
+Art. 198. - L'istituto di biorganica raggruppa le cattedre di chimica biologica e di chimica organica.  
+Art. 199. - Qualora l'insegnamento per incarico sara' trasformato in cattedra di ruolo quest'ultima restera' raggruppata nello stesso istituto. Norme particolari a riguardo delle afferenze agli istituti della facolta' potranno essere stabilite dalla facolta' stessa nei casi in cui ne ravvisi la opportunita'.  
+Art. 200. - Ogni istituto deve darsi un regolamento interno ratificato dalla facolta' ed e' retto da un direttore che e' responsabile dell'amministrazione e del funzionamento dell'istituto stesso.  
+Art. 201. - La direzione di ogni istituto e' affidata ad un professore di ruolo di una delle cattedre afferenti a quell'istituto.  
+La facolta', sentito il parere dei professori di cui sopra, designera', scegliendo tra essi, il direttore dell'istituto che verra' nominato con decreto rettorale e per un periodo di due anni.  
+Art. 202. - Il direttore, sentito il parere dei professori ufficiali dell'istituto, rilascia ai ricercatori e agli allievi interni che hanno frequentato l'istituto per almeno sei mesi un attestato degli studi compiuti e dei risultati raggiunti nelle ricerche.  
+Art. 203. - Ogni istituto potra' eventualmente disporre, in conformita' con le vigenti disposizioni di legge, di fondi per la ricerca, di borse di studio provenienti da enti pubblici o privati italiani o stranieri.  
+Gli articoli 313, 314, 315, 316, 317 relativi alla scuola di perfezionamento in diritto e procedura penale sono abrogati e sostituiti dai seguenti:  
+Art. 313. - La durata dei corsi di studio e' di due anni e possono iscriversi i laureati in giurisprudenza.  
+Il numero massimo degli iscritti e' di 150 per ogni anno di corso.  
+Art. 314. - Gli insegnamenti della scuola sono i seguenti:  
+Fondamentali:  
+1) storia del diritto penale;  
+2) tecnica della interpretazione della legge penale e processuale penale;  
+3) teoria generale del reato (biennale);  
+4) teoria generale del processo penale (biennale).  
+Complementari:  
+1) diritto penitenziario;  
+2) diritto penale commerciale e bancario;  
+3) diritto penale internazionale;  
+4) diritto penale del lavoro;  
+5) diritto penale militare;  
+6) diritto penale tributario;  
+7) diritto penale urbanistico e dell'ambiente;  
+8) diritto penale minorile;  
+9) diritto penale della navigazione;  
+10) diritto penale comparato;  
+11) procedura penale comparata;  
+12) casistica della parte speciale del [codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398);  
+13) casistica della procedura penale;  
+14) diritto e procedura penale costituzionale;  
+15) diritto dell'esecuzione penale;  
+16) teoria dei procedimenti speciali e complementari;  
+17) teoria e tecnica dell'istruzione penale;  
+18) diritto di polizia;  
+19) criminologia;  
+20) antropologia criminale;  
+21) sociologia giuridico-penale;  
+22) medicina legale applicata al diritto penale;  
+23) psicopatologia forense.  
+Per ottenere il diploma e' necessario aver superato gli esami relativi alle materie fondamentali e ad almeno sei materie complementari.  
+Art. 315. - La commissione per gli esami speciali e' composta da tre docenti della scuola ed e' presieduta dal docente della materia o di materia affine o dal direttore della scuola.  
+Il diploma viene conseguito attraverso la discussione di una dissertazione scritta dinanzi ad una commissione di cinque docenti della scuola presieduta dal direttore o dal docente professore di ruolo piu' anziano nella commissione.  
+Art. 316. - Il direttore viene nominato dal consiglio della facolta' di giurisprudenza nella persona di un professore di ruolo di diritto penale. Gli incarichi di insegnamento delle singole discipline sono conferiti dal consiglio della facolta' su proposta del direttore della scuola, con l'approvazione del senato accademico e del consiglio di amministrazione dell'Universita' di Napoli.  
+Art. 317. - I programmi di insegnamento sono approvati all'inizio di ogni anno dal consiglio dei docenti della scuola formato dai docenti della scuola e presieduto dal direttore.  
+Gli articoli da 561 e 569, relativi alla scuola diretta a fini speciali per ortottisti, che muta la denominazione in scuola diretta a fini speciali per ortottisti-assistenti di oftalmologia, sono abrogati e sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi.  
+Scuola diretta a fini speciali per ortottisti-assistenti di oftalmologia  
+Art. 561. - E' istituita presso la prima facolta' di medicina e chirurgia dell'Universita' di Napoli una scuola speciale di preparazione per ortottisti-assistenti di oftalmologia che ha sede presso la clinica oculistica di questa facolta'.  
+Art. 562. - La scuola ha lo scopo di dare una preparazione completa, teorico-pratica, istruendo gli allievi sui problemi della motilita' oculare, dell'ambliopia, delle tecniche diagnostiche della visione binoculare, del trattamento pre e post operatorio dei pazienti strabici; dei problemi sui vizi di refrazione e della loro correzione sulle tecniche diagnostiche in oftalmologia.  
+La durata del corso per conseguire il diploma di ortottista-assistente di oftalmologia e' di tre armi.  
+Ne sono titolo di ammissione il possesso di un diploma, legalmente valido ai fini dell'iscrizione all'Universita' ai sensi dell'[art. 1 della legge n. 910 dell'11 dicembre 1969](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1), e la conoscenza di una lingua straniera (inglese, francese, tedesco, spagnolo).  
+Art. 563. - Gli aspiranti all'iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova di cultura generale e in una prova per la conoscenza della lingua straniera. E' richiesto un certificato di sana e robusta costituzione, con particolare riguardo alla funzione visiva.  
+Art. 564. - Il numero degli iscritti alla scuola e' di (da 2 a 5 per anno di corso). Qualora le domande d'iscrizione fossero in numero superiore al numero massimo previsto, il consiglio della scuola si riserva di provvedere ad una scelta tra gli idonei in base ai risultati delle prove di ammissione; gli idonei possono essere ammessi anche in soprannumero in rapporto ai posti che si rendessero vacanti nel corso del secondo e terzo anno.  
+I ripetenti ed i fuori corso, qualora riprendano gli studi, sono riammessi in soprannumero.  
+Art. 565. - Il direttore della scuola e' il titolare della cattedra di clinica oculistica o altro docente di disciplina affine, proposto dal titolare della cattedra di clinica oculistica, sentito il consiglio della scuola.  
+Art. 566. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria.  
+La frequenza e' obbligatoria.  
+Il corso comprende lezioni teoriche ed esercitazioni pratiche.  
+Le materie di insegnamento sono:  
+1° Anno:  
+1) elementi di anatomia dell'apparato visivo e del S.N.C.;  
+2) fisiologia dell'occhio, della motilita' oculare, della visione binoculare;  
+3) ottica fisica e fisiopatologica;  
+4) ortottica I;  
+5) psicologia infantile.  
+2° Anno:  
+1) elementi di patologia oculare;  
+2) elementi di farmacologia oculare;  
+3) elementi di neuro-oftalmologia;  
+4) nozioni di chirurgia ed assistenza oftalmica;  
+5) ortottica II.  
+3° Anno:  
+1) tecniche semeiologiche dell'apparato visivo (es. refrazione, contattologia, adattometria, campo visivo, senso cromatico);  
+2) tecniche semeiologiche ed elettrofisiologiche (tonometria e tonografia; ERG; EOG; EMG; ecografia;  
+retinologia e fluoroangiografia);  
+3) ortottica III;  
+4) nozioni di riabilitazione, senso motorio dell'eta' infantile;  
+5) legislazione sanitaria.  
+Art. 567. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo, per gli allievi, dell'internato per l'intero periodo del corso di studi nella clinica oculistica.  
+La frequenza viene comprovata dall'attestazione rilasciata sul libretto d'iscrizione dagli insegnanti e per l'attivita' pratica dal direttore della scuola. L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.  
+Art. 568. - Alla fine di ogni anno gli allievi devono sostenere un esame sulle materie d'insegnamento. Nel caso in cui i candidati non abbiano superato gli esami prescritti, essi rimarranno nella posizione di "ripetenti".  
+Art. 569. - Gli esami di profitto consistono in prove teoriche e pratiche.  
+Art. 570. - Alla fine del corso gli allievi debbono sostenere un esame di diploma che consiste nella discussione di una tesi scritta su un argomento riguardante le materie d'insegnamento, assegnata dal direttore della scuola e in una prova pratica stabilita da una commissione esaminatrice, i candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola ma se al secondo anno non sia loro riconosciuta l'idoneita' saranno senz'altro esclusi da ulteriori prove.  
+Art. 571. - Gli esami di profitto e di diploma si danno in due sessioni, la prima estiva che ha inizio subito dopo la chiusura annuale dei corsi e la seconda autunnale, nel mese che precede l'inizio del nuovo anno accademico.  
+Art. 572. - Le commissioni per gli esami di ammissione, di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della clinica; le commissioni per gli esami di ammissione e di profitto sono composte da tre membri;  
+il direttore della scuola, presidente, e da due insegnanti della scuola stessa. La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro scelti tra gli insegnanti della scuola stessa o altri docenti.  
+Art. 573. - Le tasse e soprattasse annuali a carico degli iscritti restano cosi' destinate:  
+tassa annuale di iscrizione.... L. 10.000 soprattassa annuale di esami..." 5.000 tassa erariale di diploma....." 6.000 tassa annuale per l'iscrizione studenti fuori corso............" 5.000 contributi di laboratorio...." 35.000  
+Art. 574. - Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni o contributi di enti pubblici e privati.  
+  
+REGOLAMENTO DELL'UNIVERSITA' DEGLI STUDI DI NAPOLI  
+  
+Scuola a fini speciali Scuola per ortottisti-assistenti di oftalmologia Sono ammessi al terzo anno della scuola, con l'obbligo di tutti gli esami del terzo anno e della tesi, le diplomate della scuola speciale per ortottiste ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), purche' abbiano esercitato con continuita' una attivita' professionale adeguata e documentata.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 ottobre 1982
+### Dato a Roma, addi' 31 ottobre 1977
 
-PERTINI BODRATO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 29 ottobre 1982
+Registrato alla Corte dei conti, addi' 16 giugno 1978
 
-Registro n. 121 Istruzione, foglio n. 64 --------------- (\*\*) Discipline che in determinati orientamenti possono essere
-
-sostituite dalla facolta' con corsi a svolgimento piu' ampio, purche'
-
-attivate e afferenti alla stessa area disciplinare, fermo restando in 31 il numero complessivo delle annualita'.
+Registro n. 64 Istruzione, foglio n. 274

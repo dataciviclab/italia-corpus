@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1982 n. 837
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1980 n. 356
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1982 n. 837
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1980 n. 356
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
@@ -10,114 +10,61 @@ Modificazioni allo statuto dell'Universita' degli studi di Genova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti dagli organi accademici dell'Universita' di Genova e convalidati dal Consiglio universitario nazionale nei suoi pareri;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla
+-----
 
-Decreta:
---------
+proposta del Ministro della pubblica istruzione; Decreta:
 
-Lo statuto dell'Universita' di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
+Art. 1
+------
 
   
-Nell'art. 73, concernente il corso di laurea in chimica, all'elenco degli insegnamenti complementari sono aggiunte le seguenti discipline:  
-Per l'indirizzo organico-biologico:  
-chimica fisica dei polimeri.  
-Per l'indirizzo inorganico chimico-fisico:  
-complementi di chimica organica.  
-Nell'art. 74, concernente il corso di laurea in chimica industriale, all'elenco degli insegnamenti complementari sono aggiunte le seguenti discipline:  
-chimica dei combustibili;  
-chimica e tecnologia degli intermedi;  
-chimica e tecnologia della catalisi;  
-chimica fisica dei polimeri;  
-petrolchimica e tecnologia dei prodotti petroliferi.  
-Nell'art. 75, concernente il corso di laurea in fisica, all'elenco degli insegnamenti complementari per il I gruppo sono aggiunte le seguenti discipline:  
-fisica sperimentale delle particelle elementari;  
-teorie quantistiche.  
-Nell'art. 76, concernente il corso di laurea in matematica, all'elenco degli insegnamenti complementari sono aggiunte le seguenti discipline:  
-Per l'indirizzo generale:  
-primo gruppo:  
-strutture algebriche;  
-teoria dei gruppi;  
-topologia algebrica;  
-algebra commutativa;  
-secondo gruppo:  
-meccanica dei continui;  
-meccanica superiore.  
-Per l'indirizzo applicativo:  
-primo gruppo:  
-meccanica superiore;  
-programmazione matematica;  
-secondo gruppo:  
-meccanica dei continui;  
-metodi per il trattamento dell'informazione;  
-teoria degli algoritmi e della calcolabilita';  
-linguaggi formali e compilatori;  
-ricerca operativa.  
-Inoltre, nello stesso art. 76, nell'elenco degli insegnamenti complementari del primo e secondo gruppo dei tre indirizzi: generale, didattico e applicativo sono soppressi, ove presenti, i seguenti insegnamenti:  
-calcolo delle probabilita';  
-istituzioni di fisica nucleare;  
-struttura della materia;  
-matematica finanziaria ed attuariale;  
-chimica generale ed inorganica con elementi di organica;  
-fisica terrestre;  
-meccanica statistica;  
-teoria delle vibrazioni;  
-astronomia;  
-geodesia.  
-Nell'art. 77, concernente il corso di laurea in scienze naturali, all'elenco degli insegnamenti complementari sono aggiunte le seguenti discipline:  
-esercitazioni di laboratorio di mineralogia;  
-fitosociologia;  
-geologia ambientale;  
-rilevamento geologico;  
-zoologia dei vertebrati.  
-Nell'art. 78, concernente il corso di laurea in scienze biologiche, all'elenco degli Insegnamenti complementari sono aggiunte le seguenti discipline:  
-paleoantropologia;  
-statistica e biometria.  
-Nel medesimo elenco e' soppresso l'insegnamento complementare di statistica.  
-Nell'art. 79, concernente il corso di laurea in scienze geologiche, all'elenco degli insegnamenti complementari sono aggiunte le seguenti discipline:  
-cristallochimica;  
-didattica delle scienze geologiche;  
-esercizi di laboratorio di mineralogia;  
-geofisica applicata;  
-geofisica marina;  
-geologia ambientale;  
-geomagnetismo;  
-geomorfologia applicata;  
-geopedologia;  
-meteorologia e oceanografia;  
-paleontologia dei vertebrati;  
-petrografia regionale.  
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+L'art. 173, secondo comma, dello statuto dell'Universita' di Genova, di cui al [decreto del Presidente della Repubblica 26 ottobre 1977, n. 1126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-10-26;1126), relativo alla scuola di specializzazione in ginecologia ed ostetricia, e' modificato nel senso che il numero massimo di allievi iscrivibili e' di sessantadue complessivamente per l'intero corso di studi.  
+
+Art. 2
+------
+
+  
+L'art. 232, terzo comma, relativo alla scuola di specializzazione in medicina interna, e' modificato nel senso che il numero massimo dei posti per detta scuola e' fissato in cinquantanove per l'intero corso degli studi.  
+
+Art. 3
+------
+
+  
+L'art. 252 dello statuto dell'Universita' di Genova, di cui al [decreto del Presidente della Repubblica 31 ottobre 1977, n. 1140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-10-31;1140), relativo alla scuola di specializzazione in oncologia, e' modificato nel senso che il numero complessivo degli specializzandi, in ogni caso, non puo' superare i settantacinque.  
+
+Art. 4
+------
+
+  
+L'art. 423 dello statuto dell'Universita' di Genova, di cui al [decreto del Presidente della Repubblica 26 ottobre 1977, n. 1126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-10-26;1126), relativo alla scuola di specializzazione in reumatologia, e' modificato nel senso che il numero massimo degli allievi iscrivibili e' di ventiquattro complessivamente per l'intero corso di studi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Selva di Val Gardena, addi' 2 agosto 1982
+### Dato a Roma, addi' 14 marzo 1980
 
-PERTINI BODRATO
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 8 novembre 1982
+Registrato alla Corte dei conti, addi' 26 giugno 1980
 
-Registro n. 123 Istruzione, foglio n. 231
+Registro n. 61 Istruzione, foglio n. 302

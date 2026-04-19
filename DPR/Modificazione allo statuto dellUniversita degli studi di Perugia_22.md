@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1985 n. 851
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1085
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1985 n. 851
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1085
 ================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Perugia.
@@ -39,23 +39,19 @@ Articolo unico
 --------------
 
   
-  
-Nell'art. 35, relativo al corso di laurea in lingue e letterature straniere e moderne (indirizzo europeo) della facolta' di lettere e filosofia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:   
-storia della civilta' francese;   
-storia della cultura ispanica.   
+Nell'art. 25, relativo al corso di laurea in economia e commercio, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+economia e politica internazionale.  
   
 
-Il presente decreto, munito del sigillo dello Stato. sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 settembre 1985
+### Dato a Roma, addi' 23 dicembre 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 21 gennaio 1986
+Registrato alla Corte dei conti, addi' 15 marzo 1984
 
-Registro n. 2 Istruzione, foglio n. 90
+Registro n. 16 Istruzione, foglio n. 168

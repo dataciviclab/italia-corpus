@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 agosto 1964 n. 1123
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1981 n. 888
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 agosto 1964 n. 1123
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1981 n. 888
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
@@ -10,248 +10,124 @@ Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduto l'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16);
+
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Decreta:
+Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Sulla
+-----
 
-Art. 35. - Il comma 8 relativo al secondo biennio degli insegnamenti fondamentali per il corso di laurea in Matematica per l'indirizzo applicativo, e' abrogato e sostituito dal seguente:
+proposta del Ministro della pubblica istruzione; Decreta:
 
-1) Cairoli numerici e grafici;
+Articolo unico
+--------------
 
-2) Teoria ed applicazione delle macchine calcolatrici:
-
-Art. 33, relativo agli insegnamenti complementari, per l'indirizzo applicativo Tabella A, l'insegnamento di "Teoria ed applicazione delle macchine calcolatrici" e' sostituito con quello di "Calcolo delle probabilita'".
-
-Art. 52, relativo all'esame di laurea del corso di laurea in Scienze naturali e' abrogato e sostituito dal seguente:
-
-L'esame di laurea consiste:
-
-a) In un colloquio di cultura generale e naturalistica;
-
-b) Nella compilazione e discussione di una dissertazione scritta sperimentale o di carattere critico, originale svolta presso uno degli Istituti di discipline biologiche o naturalistiche su tema scelto dal candidato ed approvato dal professore della materia. La dissertazione deve essere depositata in segreteria, in duplice copia, almeno dieci giorni prima del termine fissato per l'inizio degli esami di laurea.
-
-c) Nella esposizione e discussione di due tesi orali a scelta del candidato e di materia differente da quella sui cui verte la dissertazione scritta.
-
-Art. 57, relativo all'esame di laurea del corso di laurea in Scienze biologiche e' abrogato e sostituito dal seguente:
-
-L'esame di laurea consiste:
-
-a) In un colloquio di cultura generale biologica;
-
-b) Nella compilazione e discussione di una dissertazione scritta, sperimentale o di carattere critico, originale, svolta presso uno degli Istituti di discipline biologiche o naturalistiche su tema scelto dal candidato ed approvato dal professore della materia. La dissertazione deve essere depositata in segreteria, in duplice copia, almeno dieci giorni prima del termine fissato per l'inizio degli esami di laurea;
-
-c) Nella esposizione e discussione di due temi orali a scelta del candidato e di materie differenti da quella su cui verte la dissertazione scritta.
-
-Art. 113, relativo alla Scuola di perfezionamento per la produzione dello zucchero e dell'alcool e' abrogato e sostituito dal seguente:
-
-La durata degli studi del corso di perfezionamento e' di un anno.
-
-Alla Scuola possono essere ammessi i laureati in:
-
-1) Chimica;
-
-2) Chimica industriale;
-
-3) Ingegneria;
-
-4) Scienze agrarie.
-
-Dopo l'art. 107 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola speciale per ortottiste.
-
-Scuola speciale per ortottiste
-
-Art. 108. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sull'Istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una Scuola speciale per ortottiste. La Scuola per ortottiste ha sede presso la Clinica oculistica dell'Universita'.
-
-Essa ha lo scopo di dare una preparazione completa, teorica e pratica alle allieve iscritte, istruendole sui problemi dei difetti di rifrazione, disturbi delle oculomozioni, della ambliopia in genere, per avviarle all'attivita' di ortottiste.
-
-Art. 100. - La durata del corso degli studi per il conseguimento del diploma di ortottiste e' di due anni.
-
-Possono essere ammesse alla Scuola allievi dell'eta' non inferiore ai 17 anni, di sana costituzione, rispondenti a determinati requisiti oculari, in possesso del diploma di maturita' classica, del diploma di maturita' scientifica o del diploma di abilitazione magistrale.
-
-Art. 110. - Chi aspira ad ottenere l'iscrizione al primo anno della Scuola, dovra' sostenere un esame di ammissione per un numero di posti determinato, anno per anno, con decreto del rettore, udito il direttore della Scuola.
-
-Art. 111. - L'esame di ammissione consiste in una prova orale di cultura generale innanzi ad una Commissione composta dal preside della Facolta' di medicina e chirurgia, dal direttore della Scuola e da un terzo membro designato dal rettore dell'Universita'.
-
-L'esame di ammissione avra' luogo entro la prima quindicina del mese di novembre di ciascun anno, nel giorno che sara' stabilito dal rettore con apposito manifesto.
-
-Art. 112. - Il direttore della Scuola e' il titolare della Cattedra di Clinica oculistica dell'Universita' di Ferrara. Gli incarichi di insegnamento della Scuola sono proposti dal Consiglio della Facolta' di medicina e chirurgia udito il direttore e nominati dal rettore.
-
-Art. 113. - Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-I semestre: gennaio-giugno:
-
-1) Anatomia e fisiologia generali. Elementi di Anatomia e fisiologia del sistema nervoso centrale.
-
-2) Anatomia dell'apparato oculare.
-
-3) Fisiologia dell'apparato oculare, con particolare riguardo alla fisiologia della visione binoculare, dei movimenti oculari e dei meccanismi di accomodazione e di convergenza.
-
-II semestre: luglio-dicembre:
-
-1) Ottica. Lenti e prismi, loro proprieta' ottiche loro uso.
-
-L'occhio come strumento ottico. Vizi di refrazione e loro correzioni.
-
-2) Cenni sulle eteroforie e sullo strabismo.
-
-3) Ortottica - principi elementari - concetti generali - Pleottica - concetti generali.
-
-2° Anno:
-
-I semestre: gennaio-giugno:
-
-1) Patologia oculare. Cenni sulle piu' comuni malattie dell'occhio e degli annessi.
-
-2) Anomalie della convergenza e dell'accomodazione.
-
-3) Ortottica. Esame di uno strabico. Esame obiettivo degli squilibri muscolari. Esame all'amblioscopio.
-
-II semestre: luglio-dicembre:
-
-1) Trattamento non chirurgico dello strabismo. Trattamento medico generale e locale. Trattamento ottico. Trattamento ortottico.
-
-Pleottica: trattamento dell'ambliopia.
-
-2) Trattamento chirurgico dello strabismo. Indicazioni operatorie. Sedute operatorie.
-
-Per essere ammesse a frequentare il secondo anno di studi, le allieve debbono aver superato tutti gli esami del primo anno.
-
-Nel caso in cui le allieve non abbiano superato gli esami prescritti del primo anno, esse rimarranno nella posizione di fuori corso lino a quando non avranno assolto gli obblighi di cui sopra.
-
-Art. 114. - Per essere ammesse a sostenere l'esame di diploma le allieve dovranno aver seguito i corsi, superati gli esami in tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole tutte le esercitazioni pratiche previste.
-
-Art. 115. - Le Commissioni per gli esami di profitto sono nominate dal preside della Facolta' di medicina e chirurgia, su proposta del direttore della Scuola.
-
-Le Commissioni sono composte di tre membri: dal professore ufficiale della materia, presidente; di un professore ufficiale di materia affine, e di un libero docente o cultore della materia.
-
-Ogni commissario ha a disposizione dieci punti.
-
-Le candidate non riconosciute idonee possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla Scuola, ma, se al secondo anno non sia loro riconosciuta la idoneita', saranno senz'altro escluse da ulteriori prove.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 18 agosto 1964
-
-Per il Presidente della Repubblica
-
-Il Presidente del Senato
-
-MERZAGORA
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 7 novembre 1964 Atti del Governo, registro n. 188, foglio n. 45. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione Sulla proposta del Ministro per la pubblica istruzione;  
+Lo statuto dell'Universita' di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Decreta:  
+Dopo l'art. 156, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "nefrologia" e in "diabetologia e malattie del ricambio".  
   
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Scuola di specializzazione in nefrologia  
   
-Art. 35. - Il comma 8 relativo al secondo biennio degli insegnamenti fondamentali per il corso di laurea in Matematica per l'indirizzo applicativo, e' abrogato e sostituito dal seguente:  
-1) Cairoli numerici e grafici;  
-2) Teoria ed applicazione delle macchine calcolatrici:  
-Art. 33, relativo agli insegnamenti complementari, per l'indirizzo applicativo Tabella A, l'insegnamento di "Teoria ed applicazione delle macchine calcolatrici" e' sostituito con quello di "Calcolo delle probabilita'".  
-Art. 52, relativo all'esame di laurea del corso di laurea in Scienze naturali e' abrogato e sostituito dal seguente:  
-L'esame di laurea consiste:  
-a) In un colloquio di cultura generale e naturalistica;  
-b) Nella compilazione e discussione di una dissertazione scritta sperimentale o di carattere critico, originale svolta presso uno degli Istituti di discipline biologiche o naturalistiche su tema scelto dal candidato ed approvato dal professore della materia. La dissertazione deve essere depositata in segreteria, in duplice copia, almeno dieci giorni prima del termine fissato per l'inizio degli esami di laurea.  
-c) Nella esposizione e discussione di due tesi orali a scelta del candidato e di materia differente da quella sui cui verte la dissertazione scritta.  
-Art. 57, relativo all'esame di laurea del corso di laurea in Scienze biologiche e' abrogato e sostituito dal seguente:  
-L'esame di laurea consiste:  
-a) In un colloquio di cultura generale biologica;  
-b) Nella compilazione e discussione di una dissertazione scritta, sperimentale o di carattere critico, originale, svolta presso uno degli Istituti di discipline biologiche o naturalistiche su tema scelto dal candidato ed approvato dal professore della materia. La dissertazione deve essere depositata in segreteria, in duplice copia, almeno dieci giorni prima del termine fissato per l'inizio degli esami di laurea;  
-c) Nella esposizione e discussione di due temi orali a scelta del candidato e di materie differenti da quella su cui verte la dissertazione scritta.  
-Art. 113, relativo alla Scuola di perfezionamento per la produzione dello zucchero e dell'alcool e' abrogato e sostituito dal seguente:  
-  
-La durata degli studi del corso di perfezionamento e' di un anno.  
-Alla Scuola possono essere ammessi i laureati in:  
-1) Chimica;  
-2) Chimica industriale;  
-3) Ingegneria;  
-4) Scienze agrarie.  
-Dopo l'art. 107 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola speciale per ortottiste.  
-  
-Scuola speciale per ortottiste  
-  
-Art. 108. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sull'Istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una Scuola speciale per ortottiste. La Scuola per ortottiste ha sede presso la Clinica oculistica dell'Universita'.  
-Essa ha lo scopo di dare una preparazione completa, teorica e pratica alle allieve iscritte, istruendole sui problemi dei difetti di rifrazione, disturbi delle oculomozioni, della ambliopia in genere, per avviarle all'attivita' di ortottiste.  
-Art. 100. - La durata del corso degli studi per il conseguimento del diploma di ortottiste e' di due anni.  
-Possono essere ammesse alla Scuola allievi dell'eta' non inferiore ai 17 anni, di sana costituzione, rispondenti a determinati requisiti oculari, in possesso del diploma di maturita' classica, del diploma di maturita' scientifica o del diploma di abilitazione magistrale.  
-Art. 110. - Chi aspira ad ottenere l'iscrizione al primo anno della Scuola, dovra' sostenere un esame di ammissione per un numero di posti determinato, anno per anno, con decreto del rettore, udito il direttore della Scuola.  
-Art. 111. - L'esame di ammissione consiste in una prova orale di cultura generale innanzi ad una Commissione composta dal preside della Facolta' di medicina e chirurgia, dal direttore della Scuola e da un terzo membro designato dal rettore dell'Universita'.  
-L'esame di ammissione avra' luogo entro la prima quindicina del mese di novembre di ciascun anno, nel giorno che sara' stabilito dal rettore con apposito manifesto.  
-Art. 112. - Il direttore della Scuola e' il titolare della Cattedra di Clinica oculistica dell'Universita' di Ferrara. Gli incarichi di insegnamento della Scuola sono proposti dal Consiglio della Facolta' di medicina e chirurgia udito il direttore e nominati dal rettore.  
-Art. 113. - Le materie di insegnamento sono le seguenti:  
+Art. 157. - La scuola di specializzazione in nefrologia ha sede presso la facolta' di medicina e chirurgia nell'istituto di semeiotica medica e conferisce il diploma di specialista in nefrologia.  
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
+Art. 158. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione allo esercizio professionale rilasciato dalla autorita' competente.  
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.  
+Il numero massimo degli allievi e' di sei per anno di corso e complessivamente di ventiquattro iscritti per l'intero corso di studi.  
+L'ammissione alla scuola avviene per titoli ed esami.  
+Art. 159. - Le materie di insegnamento sono le seguenti:  
 1° Anno:  
-I semestre: gennaio-giugno:  
-1) Anatomia e fisiologia generali. Elementi di Anatomia e fisiologia del sistema nervoso centrale.  
-2) Anatomia dell'apparato oculare.  
-3) Fisiologia dell'apparato oculare, con particolare riguardo alla fisiologia della visione binoculare, dei movimenti oculari e dei meccanismi di accomodazione e di convergenza.  
-II semestre: luglio-dicembre:  
-1) Ottica. Lenti e prismi, loro proprieta' ottiche loro uso.  
-L'occhio come strumento ottico. Vizi di refrazione e loro correzioni.  
-2) Cenni sulle eteroforie e sullo strabismo.  
-3) Ortottica - principi elementari - concetti generali - Pleottica - concetti generali.  
+struttura ed ultrastruttura normale del rene;  
+aspetti biochimici della funzione renale;  
+fisiologia renale;  
+microbiologia ed immunologia applicata alla nefrologia;  
+genetica applicata alla nefrologia;  
+semeiotica renale I.  
 2° Anno:  
-I semestre: gennaio-giugno:  
-1) Patologia oculare. Cenni sulle piu' comuni malattie dell'occhio e degli annessi.  
-2) Anomalie della convergenza e dell'accomodazione.  
-3) Ortottica. Esame di uno strabico. Esame obiettivo degli squilibri muscolari. Esame all'amblioscopio.  
-II semestre: luglio-dicembre:  
-1) Trattamento non chirurgico dello strabismo. Trattamento medico generale e locale. Trattamento ottico. Trattamento ortottico.  
-Pleottica: trattamento dell'ambliopia.  
-2) Trattamento chirurgico dello strabismo. Indicazioni operatorie. Sedute operatorie.  
-Per essere ammesse a frequentare il secondo anno di studi, le allieve debbono aver superato tutti gli esami del primo anno.  
-Nel caso in cui le allieve non abbiano superato gli esami prescritti del primo anno, esse rimarranno nella posizione di fuori corso lino a quando non avranno assolto gli obblighi di cui sopra.  
-Art. 114. - Per essere ammesse a sostenere l'esame di diploma le allieve dovranno aver seguito i corsi, superati gli esami in tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole tutte le esercitazioni pratiche previste.  
-Art. 115. - Le Commissioni per gli esami di profitto sono nominate dal preside della Facolta' di medicina e chirurgia, su proposta del direttore della Scuola.  
-Le Commissioni sono composte di tre membri: dal professore ufficiale della materia, presidente; di un professore ufficiale di materia affine, e di un libero docente o cultore della materia.  
-Ogni commissario ha a disposizione dieci punti.  
-Le candidate non riconosciute idonee possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla Scuola, ma, se al secondo anno non sia loro riconosciuta la idoneita', saranno senz'altro escluse da ulteriori prove.  
+struttura ed ultrastruttura patologica del rene;  
+patologia del ricambio idro-elettrolitico;  
+insufficienza renale;  
+rene ed ipertensione arteriosa;  
+semeiotica renale II;  
+nefropatie tubulari.  
+3° Anno:  
+nefropatie glomerulari;  
+nefropatie interstiziali;  
+nefropatie vascolari;  
+terapia dietetica e dialitica I;  
+farmacologia di interesse nefrologico.  
+4° Anno:  
+nefrouropatie calcolotiche, malformative e neoplastiche;  
+terapia dietetica e dialitica II;  
+fisiopatologia e clinica del trapianto renale;  
+aspetti di nefrologia nell'eta' pediatrica;  
+problemi chirurgici in nefrologia;  
+terapia medica delle nefropatie.  
+Art. 160. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove d'esame.  
+Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, devono aver superato tutte le prove di esame sulle singole materie impartite durante l'anno. Al termine del corso di studi, per il conseguimento del diploma di specialista in nefrologia, gli interessati dovranno superare l'esame di diploma consistente nella discussione di una dissertazione scritta di un argomento attinente alla specializzazione.  
+  
+Scuola di specializzazione in diabetologia e malattie del ricambio  
+  
+Art. 161. - La scuola di specializzazione in diabetologia e malattie del ricambio ha sede presso la facolta' di medicina e chirurgia dell'Universita' di Ferrara e conferisce il diploma di specialista in diabetologia e malattie del ricambio.  
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto almeno all'inizio del corso il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalla competente autorita'.  
+La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazioni.  
+Il numero massimo degli allievi e' di otto per anno di corso e complessivamente di ventiquattro iscritti per l'intero corso di studi.  
+L'ammissione alla scuola avviene per titoli ed esami.  
+Art. 162. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) anatomia e citomorfologia funzionale;  
+2) elementi di genetica del diabete e delle malattie del ricambio;  
+3) metodi di analisi chimica e quantitativa;  
+4) patologia molecolare;  
+5) fisiopatologia clinica del diabete e delle malattie del ricambio;  
+6) elementi di biometria e di statistica (complementare);  
+7) auxologia e aucopatia metaboliche (complementare).  
+2° Anno:  
+1) patologia sperimentale metabolica;  
+2) semeiotica fisica e funzionale del diabete e delle malattie del ricambio;  
+3) clinica del diabete e delle malattie del ricambio I;  
+4) medicina sociale e preventiva del diabete e delle malattie del ricambio;  
+5) neuropatologia del diabete e delle malattie del ricambio (complementare);  
+6) fisiopatologia e clinica ostetrico-ginecologica del diabete e delle malattie del ricambio (complementare).  
+3° Anno:  
+1) clinica del diabete e delle malattie del ricambio II;  
+2) farmacologia e terapia del diabete e delle malattie del ricambio;  
+3) dietologia del diabete e delle malattie del ricambio;  
+4) elementi di psicologia nel diabete e nelle malattie del ricambio (complementare);  
+5) terapia chirurgica nel diabete e nelle malattie del ricambio (complementare);  
+6) oftalmologia nel diabete e nelle malattie del ricambio (complementare).  
+I corsi saranno integrati da conferenze su argomenti specialistici e da esercitazioni pratiche cliniche e di laboratorio.  
+Art. 163. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove d'esame.  
+Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, devono avere superato tutte le prove di esame sulle singole materie impartite durante l'anno. Al termine del corso di studi per il conseguimento del diploma di specialista in diabetologia e malattie del ricambio, gli interessati dovranno superare l'esame di diploma consistente nella discussione di una dissertazione scritta di un argomento attinente alla specializzazione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 agosto 1964
+### Dato a Roma, addi' 28 ottobre 1981
 
-Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 7 novembre 1964
+Registrato alla Corte dei conti, addi' 20 gennaio 1982
 
-Atti del Governo, registro n. 188, foglio n. 45. - VILLA
+Registro n. 6 Istruzione, foglio n. 96

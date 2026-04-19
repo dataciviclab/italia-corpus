@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1975 n. 578
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 959
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1975 n. 578
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 959
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-578. Decreto del Presidente della Repubblica 24 settembre 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare un legato, consistente in titoli azionari del valore presunto di L. 36.096.873, disposto dal sig.  
-Mario Bianchi con testamento pubblico 10 giugno 1972, registrato in data 28 giugno 1972, n. 55338 di repertorio, n. 5378 di raccolta, a rogito dott. Riccardo Morganti, notaio in Luino (Varese), registrato a Luino il 28 giugno 1972 al n. 404, vol. 725.  
+959. Decreto del Presidente della Repubblica 31 dicembre 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 20.000.000, disposto dal sig. Bolchi Antonio, con testamento olografo del 29 dicembre 1981, pubblicato in data 8 febbraio 1982, n. 24492 di repertorio, a rogito dott. Luigi Augusto Miserocchi, notaio in Milano registrato a Milano, in data 10 febbraio 1982 al n. 03802.   
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 26 novembre 1975  
-Atti di Governo, registro n. 14, foglio n. 60
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 10 marzo 1986   
+Registro n. 2 Presidenza, foglio n. 381

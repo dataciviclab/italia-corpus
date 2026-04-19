@@ -1,64 +1,92 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 gennaio 1967 n. 58
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 febbraio 1981 n. 556
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 gennaio 1967 n. 58
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 febbraio 1981 n. 556
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e modificato con [regio decreto 13 ottobre 1930, n. 1826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-13;1826), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 60. - All'elenco degli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti quelli di:  
-19) Storia del Risorgimento;  
-20) Filologia ispanica.  
-Art. 61. - All'elenco degli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di:  
-15) Storia del Risorgimento;  
-16) Filologia ispanica.  
-Art. 62. - All'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere e' aggiunto quello di: "Storia del Risorgimento".  
-Art. 64, relativo al corso di laurea in Pedagogia e' modificato nel senso che e' soppressa la propedeuticita' dell'insegnamento di "Storia della filosofia" (biennale) nei confronti di "Filosofia" (biennale).  
-Art. 68. - All'elenco degli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di "Audiologia".  
-Nello stesso elenco l'insegnamento complementare di "Scienza dell'alimentazione" muta denominazione in "Fisiologia della nutrizione".  
-Nell'art. 79, relativo al corso di laurea in Fisica, il terzo comma e' modificato nel senso che viene aggiunto l'indirizzo didattico.  
-Dopo il penultimo comma e' inserito l'ordinamento per l'indirizzo didattico:  
-  
-Corsi per l'indirizzo didattico  
-  
-4-5 Complementi di fisica generale (biennale);  
-6-7 Preparazione di esperienze didattiche (biennale);  
-8-9 Due corsi scelti fra i seguenti complementari:  
-Storia della fisica;  
-Fisica superiore;  
-Fisica teorica;  
-Meccanica analitica;.br: Ottica;  
-Relativita'.  
+Gli articoli da 184 a 190, relativi alla scuola di perfezionamento in studi politici internazionali, sono sostituiti dai seguenti:   
+Art. 184. - Alla scuola di perfezionamento in studi politici internazionali possono iscriversi i laureati italiani la cui preparazione scientifica sia ritenuta idonea dal consiglio della scuola.   
+Per essere ammessi alla scuola occorre aver superato, dinanzi ad una commissione presieduta dal direttore e composta di altri due professori della scuola, designati dal consiglio, un esame di ammissione, in base a criteri stabiliti dal consiglio della scuola, diretto ad accertare la cultura generale politico-internazionale del candidato e la sua conoscenza di lingue straniere.   
+Potranno essere ammessi laureati stranieri con sufficiente conoscenza della lingua italiana, la cui preparazione scientifica sia ritenuta idonea da una commissione designata dal consiglio della scuola.   
+Art. 185. - In casi eccezionali, tenuto conto degli studi compiuti, degli esami generali e speciali sostenuti e dei titoli conseguiti, per l'eventuale ammissione al secondo corso di candidati che abbiano conseguito titoli accademici all'estero si rinvia alle disposizioni pertinenti del [testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592).   
+Art. 186. - Il numero minimo e massimo degli iscritti verra' fissato di anno in anno, entro il mese di giugno, dal consiglio della scuola, su proposta del direttore, tenuto conto delle attrezzature didattiche e scientifiche della scuola, e sara' pubblicato nel manifesto che verra' affisso all'albo dell'Universita', della facolta' di scienza politiche e della scuola.   
+Art. 187. - Ai laureati italiani e stranieri ammessi alla scuola potranno essere assegnate borse di studio per frequentare la scuola e per studi all'estero.   
+Art. 188. - La scuola e' retta da un direttore, nominato per un biennio dal rettore dell'Universita' su proposta del consiglio della facolta' di scienze politiche "Cesare Alfieri".   
+La nomina dei professori incaricati degli insegnamenti, anche di cittadinanza straniera, e' fatta su proposta del direttore, dal consiglio di facolta' di scienze politiche.   
+Il consiglio della scuola e' costituito dal direttore e dai professori.   
+Il consiglio della scuola determina l'ordine degli studi e il regolamento didattico. Decide, inoltre, su ogni altra questione inerente alla carriera scolastica degli allievi e alla loro disciplina.   
+Art. 189. - La scuola rilascia, dopo due anni di corso e dopo che i candidati abbiano superato le prove nelle materie di cui al piano di studio approvato dal consiglio della scuola, nonche' dopo l'esito favorevole dell'esame di cui all'art. 195, un diploma di perfezionamento in studi politici internazionali.   
+La scuola puo' rilasciare, dopo un anno di corso e dopo che i candidati abbiano superato le prove nelle materie previste nei rispettivi piani di studio approvati dal consiglio della scuola, un attestato di frequenza e profitto.   
+Art. 190. - Gli insegnamenti della scuola sono i seguenti:   
+1° Anno:   
+problemi di diritto internazionale pubblico;   
+organizzazioni internazionali e comunitarie;   
+politica economica e finanziaria;   
+storia dell'eta' contemporanea;   
+storia delle relazioni internazionali;   
+teoria e prassi delle relazioni internazionali.   
+2° Anno:   
+problemi di diritto interno in materia internazionale;   
+economia internazionale;   
+teoria e politica dello sviluppo;   
+problemi politici e sociali internazionali;   
+le ideologie politiche nelle relazioni internazionali;   
+problemi di diritto pubblico comparato.   
+Art. 191. - Gli insegnamenti sono integrati da cicli di lezioni e seminari, nonche' da conferenze su particolari argomenti di attualita' afferenti agli studi economici, giuridici, politici, sociali e storici. Sono, inoltre, previsti viaggi di istruzione in Italia e all'estero ed esercitazioni linguistiche di laboratorio per l'approfondimento della terminologia tecnica.   
+All'inizio di ogni anno accademico il consiglio della scuola decide quali degli argomenti insegnati secondo le modalita' di cui al comma precedente possono essere inseriti nel piano di studi degli allievi come materie in ordine alle quali e' consentito sostenere l'esame al termine dell'anno accademico.   
+I piani di studio presentati dagli allievi e approvati dal consiglio della scuola dovranno prevedere dodici materie, delle quali almeno otto di cui all'art. 190 e non oltre quattro di quelle insegnate nei cicli di lezioni e seminari di cui ai commi precedenti.   
+Nei casi di frequenza annuale della scuola, previsti dagli articoli 185 e 189, comma secondo, i piani di studio dovranno prevedere sei materie delle quali non meno di quattro di cui all'art. 190 e non oltre due di cui al comma primo di questo articolo.   
+Art. 192. - La frequenza della scuola e' obbligatoria.   
+Non potra' essere rilasciata la firma di frequenza a quegli iscritti che non abbiano frequentato, con una assiduita' giudicata sufficiente dai singoli docenti, gli insegnamenti e le altre iniziative didattiche previste nei rispettivi piani di studi approvati dal consiglio della scuola.   
+Art. 193. - Ogni commissione per gli esami di profitto e' composta di tre professori designati dal direttore della scuola.   
+Art. 194. - Per l'ammissione al secondo corso, l'allievo deve aver superato gli esami scritti ed orali previsti nel suo piano di studi.   
+Art. 195. - L'esame di diploma consiste nella discussione orale di una memoria originale, il cui argomento deve essere preventivamente approvato dal direttore della scuola, dinanzi ad una commissione composta di cinque professori, compreso il direttore che la presiede.   
+La scuola puo' munirsi di un regolamento interno, proposto dal consiglio della scuola, approvato dal consiglio della facolta' di scienze politiche e ratificato dal consiglio di amministrazione dell'Universita'.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 gennaio 1967
+### Dato a Roma, addi' 3 febbraio 1981
 
-SARAGAT GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 7 marzo 1967
+Registrato alla Corte dei conti, addi' 26 settembre 1981
 
-Atti del Governo, registro n. 209, foglio n. 80. - VILLA
+Registro n. 90 Istruzione, foglio n. 226

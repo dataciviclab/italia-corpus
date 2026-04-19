@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1969 n. 347
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 febbraio 1967 n. 1385
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1969 n. 347
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 febbraio 1967 n. 1385
+================================================================
 
 Autorizzazione all'Associazione italiana della Croce Rossa ad accettare una donazione.
 --------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-347. Decreto del Presidente della Repubblica 2 maggio 1969, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della Croce Rossa viene autorizzata ad accettare la donazione della somma di L. 150.000.000 disposta dal sig. Luigi Biondo Sangiorgi con atto pubblico 24 aprile 1962, n. 492847 di repertorio, a rogito dott. Giuseppe Angilella di Palermo, da destinarsi integralmente ed esclusivamente alla costruzione in Palermo di un padiglione ospedaliero geriatrico specializzato con annesso centro studi, da intitolarsi al nome del donante e da realizzarsi nel terreno di Villa Sofia di Palermo, di proprieta' dell'associazione.  
+1385. Decreto del Presidente della Repubblica 24 febbraio 1967, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della Croce Rossa viene autorizzata ad accettare la donazione modale disposta dalla signora Anna Sanzone con atto del notaio Colozza Edoardo di Roma del 5 giugno 1965, repertorio 33627, costituita dalla somma di L. 300.000 da vincolarsi in titoli di Stato.  
   
-Visto, il Guardasigilli: GAVA  
-Registrato alla Corte dei conti, addi' 5 luglio 1969  
-Atti del Governo, registro n. 227, foglio n. 122. - CARUSO
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 5 febbraio 1968  
+Atti del Governo, registro n. 217, foglio n. 36. - GRECO

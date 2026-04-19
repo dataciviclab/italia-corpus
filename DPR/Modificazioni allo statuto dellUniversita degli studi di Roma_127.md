@@ -1,70 +1,310 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 dicembre 1980 n. 1078
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 gennaio 1971 n. 82
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 dicembre 1980 n. 1078
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 gennaio 1971 n. 82
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA.
--------------------------------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
-Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio universitario nazionale nei suoi pareri;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Gli articoli da 137 a 144 relativi all'ordinamento degli studi della facolta' di architettura sono abrogati e sostituiti dai seguenti:
+
+FACOLTA' DI ARCHITETTURA
+
+L'Art. 137. - La facolta' di architettura ha il fine di promuovere il progresso degli studi di architettura e di fornire la preparazione culturale necessaria per il conseguimento della laurea in architettura, nell'accezione moderna comprensiva della pianificazione urbanistica.
+
+Art. 138. - La facolta' di architettura comprende i seguenti istituti:
+
+1) Istituto di progettazione;
+
+2) Istituto di storia dell'architettura;
+
+3) Istituto di scienza e tecnica delle costruzioni;
+
+4) Istituto di urbanistica;
+
+5) Istituto di fondamenti dell'architettura;
+
+6) Istituto di pianificazione territoriale;
+
+7) Istituto di metodologia architettonica;
+
+8) Istituto di disegno industriale e arredamento;
+
+9) Istituto di edilizia;
+
+10) Istituto di tecnologia dell'architettura;
+
+11) istituto di critica operativa dell'architettura.
+
+Art. 139. - La durata del corso degli studi per la laurea in architettura e' di cinque anni. Il titolo di ammissione e' quello stabilito dalle vigenti disposizioni di legge.
+
+Art. 140. - Sono insegnamenti fondamentali:
+
+1) Analisi matematica e geometria analitica (annuale piu' un semestre);
+
+2) Arredamento;
+
+3) Composizione architettonica (quinquennale);
+
+4) Disegno e rilievo;
+
+5) Estimo ed esercizio professionale (semestrale);
+
+6) Fisica (semestrale);
+
+7) Fisica tecnica ed impianti;
+
+8) Geometria descrittiva;
+
+9) Igiene edilizia (semestrale);
+
+10) Restauro dei monumenti;
+
+11) Scienza delle costruzioni;
+
+12) Statica;
+
+13) Storia dell'architettura (biennale);
+
+14) Tecnica delle costruzioni;
+
+15) Tecnologia dell'architettura (biennale);
+
+16) Urbanistica (biennale).
+
+Sono insegnamenti complementari:
+
+1) Arte dei giardini;
+
+2) Caratteri stilistici e costruttivi dei monumenti;
+
+3) Costruzioni asismiche (semestrale);
+
+4) Disegno dal vero;
+
+5) Geotecnica e tecnica delle fondazioni (semestrale);
+
+6) Istituzioni di storia dell'arte;
+
+7) Letteratura artistica;
+
+8) Lingua straniera (inglese);
+
+9) Materiali da costruzione;
+
+10) Materie giuridiche;
+
+11) Morfologia strutturale;
+
+12) Pianificazione territoriale;
+
+13) Plastica (semestrale);
+
+14) Ponti e grandi strutture;
+
+15) Progettazione artistica per l'industria;
+
+16) Scenografia;
+
+17) Topografia (semestrale);
+
+18) Unificazione edilizia e prefabbricazione (semestrale).
+
+Art. 141. - L'insegnamento di analisi matematica e geometria analitica ha durata annuale piu' un semestre e comporta un solo esame finale al termine del corso.
+
+L'insegnamento di storia dell'architettura e' articolato in due insegnamenti specifici di durata annuale e comporta due distinti esami.
+
+L'insegnamento di tecnologia dell'architettura ha durata biennale e comporta un solo esame finale.
+
+L'insegnamento di urbanistica ha durata biennale e comporta due distinti esami; uno al termine del 1° corso e uno al termine del 2° corso;
+
+Il corso di composizione architettonica ha durata quinquennale con esame al termine di ciascun anno di corso.
+
+L'insegnamento complementare di materiali da costruzione e' articolato in due insegnamenti specifici di durata semestrale;
+
+A) Materiali da costruzione naturali;
+
+B) Materiali da costruzione artificiali.
+
+Art. 142. - Devono essere osservate le seguenti propedeuticita':
+
+Non si puo essere ammessi se non e stato superato a sostenere l'esame di: l'esame di:
+
+Statica e fisica tecnica e Analisi matematica e impianti; geometria analitica;
+
+Scienza delle costruzioni; Statica;
+
+Tecnica delle costruzioni, Scienza delle costru- morfologia strutturale, zioni.
+
+ponti e grandi strutture,
+
+costruzioni asismiche, geo-
+
+tecnica e tecnica delle fon-
+
+dazioni;
+
+Per quanto riguarda i corsi di composizione architettonica non si puo' essere ammessi a sostenere l'esame di uno dei corsi annuali se non e' stato superato l'esame del corso di composizione architettonica precedente.
+
+Per quanto riguarda il corso di urbanistica 2ª non si puo' essere ammessi a sostenere il relativo esame se non e' stato superato quello di urbanistica 1ª.
+
+Art. 143. - Per essere ammesso all'esame di laurea, lo studente deve aver seguito le lezioni e le esercitazioni e deve aver superato i relativi esami di tutti gli insegnamenti fondamentali e di sei insegnamenti complementari della durata di un anno (o equivalenti) da lui scelti nel piano di studi che deve essere finalizzato nel campo specifico della laurea in architettura.
+
+Art. 144. - L'esame di laurea consiste nella valutazione dell'attivita' svolta dal candidato durante il corso degli studi e nella discussione della tesi, riguardante una ricerca che implica l'elaborazione individuale di un progetto.
+
+Per sostenere l'esame di laurea il candidato deve presentare richiesta al preside, non meno di sei mesi prima dell'appello prescelto, indicando fra i professori ufficiali il relatore.
+
+Il consiglio di facolta' esamina la domanda, conferma il relatore; questi, d'accordo col candidato, definisce il tema, ne segue lo sviluppo, consigliando eventuali correlatori e ne garantisce la originalita' davanti alla commissione giudicatrice.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 18 gennaio 1971
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 18 marzo 1971 Atti del Governo, registro n. 241, loglio n. 70. - CARUSO
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Lo statuto dell'Universita' di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Dopo l'art. 544, e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo alla istituzione della seconda scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio.  
-Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio (2ª scuola)  
-Art. 545. - La seconda scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio ha sede presso la seconda cattedra di tisiologia e malattie dell'apparato respiratorio.  
-Il numero massimo degli iscritti e' stabilito in quaranta specializzandi (dieci per anno di corso).  
-Per quanto riguarda la direzione della scuola, la durata del corso, i titoli di ammissione, l'ordinamento degli studi ed ogni altra norma si rimanda all'ordinamento della prima scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio (articoli 542-544).
-
-Art. 2
-------
-
+Decreta:  
   
-L'art. 618, primo comma, relativo alla scuola di specializzazione in neuropsichiatria infantile, e' modificato nel senso che il numero massimo degli iscritti e' stabilito complessivamente in ottantacinque specializzandi.  
-
-Art. 3
-------
-
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli da 137 a 144 relativi all'ordinamento degli studi della facolta' di architettura sono abrogati e sostituiti dai seguenti:  
   
-L'art. 620, relativo alla scuola di specializzazione in neuropsichiatria infantile, e' modificato nel senso che il secondo e terzo comma sono soppressi.  
+FACOLTA' DI ARCHITETTURA  
+  
+L'Art. 137. - La facolta' di architettura ha il fine di promuovere il progresso degli studi di architettura e di fornire la preparazione culturale necessaria per il conseguimento della laurea in architettura, nell'accezione moderna comprensiva della pianificazione urbanistica.  
+Art. 138. - La facolta' di architettura comprende i seguenti istituti:  
+1) Istituto di progettazione;  
+2) Istituto di storia dell'architettura;  
+3) Istituto di scienza e tecnica delle costruzioni;  
+4) Istituto di urbanistica;  
+5) Istituto di fondamenti dell'architettura;  
+6) Istituto di pianificazione territoriale;  
+7) Istituto di metodologia architettonica;  
+8) Istituto di disegno industriale e arredamento;  
+9) Istituto di edilizia;  
+10) Istituto di tecnologia dell'architettura;  
+11) istituto di critica operativa dell'architettura.  
+Art. 139. - La durata del corso degli studi per la laurea in architettura e' di cinque anni. Il titolo di ammissione e' quello stabilito dalle vigenti disposizioni di legge.  
+Art. 140. - Sono insegnamenti fondamentali:  
+1) Analisi matematica e geometria analitica (annuale piu' un semestre);  
+2) Arredamento;  
+3) Composizione architettonica (quinquennale);  
+4) Disegno e rilievo;  
+5) Estimo ed esercizio professionale (semestrale);  
+6) Fisica (semestrale);  
+7) Fisica tecnica ed impianti;  
+8) Geometria descrittiva;  
+9) Igiene edilizia (semestrale);  
+10) Restauro dei monumenti;  
+11) Scienza delle costruzioni;  
+12) Statica;  
+13) Storia dell'architettura (biennale);  
+14) Tecnica delle costruzioni;  
+15) Tecnologia dell'architettura (biennale);  
+16) Urbanistica (biennale).  
+Sono insegnamenti complementari:  
+1) Arte dei giardini;  
+2) Caratteri stilistici e costruttivi dei monumenti;  
+3) Costruzioni asismiche (semestrale);  
+4) Disegno dal vero;  
+5) Geotecnica e tecnica delle fondazioni (semestrale);  
+6) Istituzioni di storia dell'arte;  
+7) Letteratura artistica;  
+8) Lingua straniera (inglese);  
+9) Materiali da costruzione;  
+10) Materie giuridiche;  
+11) Morfologia strutturale;  
+12) Pianificazione territoriale;  
+13) Plastica (semestrale);  
+14) Ponti e grandi strutture;  
+15) Progettazione artistica per l'industria;  
+16) Scenografia;  
+17) Topografia (semestrale);  
+18) Unificazione edilizia e prefabbricazione (semestrale).  
+Art. 141. - L'insegnamento di analisi matematica e geometria analitica ha durata annuale piu' un semestre e comporta un solo esame finale al termine del corso.  
+L'insegnamento di storia dell'architettura e' articolato in due insegnamenti specifici di durata annuale e comporta due distinti esami.  
+L'insegnamento di tecnologia dell'architettura ha durata biennale e comporta un solo esame finale.  
+L'insegnamento di urbanistica ha durata biennale e comporta due distinti esami; uno al termine del 1° corso e uno al termine del 2° corso;  
+Il corso di composizione architettonica ha durata quinquennale con esame al termine di ciascun anno di corso.  
+L'insegnamento complementare di materiali da costruzione e' articolato in due insegnamenti specifici di durata semestrale;  
+A) Materiali da costruzione naturali;  
+B) Materiali da costruzione artificiali.  
+Art. 142. - Devono essere osservate le seguenti propedeuticita':  
+Non si puo essere ammessi se non e stato superato a sostenere l'esame di: l'esame di:  
+  
+Statica e fisica tecnica e Analisi matematica e impianti; geometria analitica;  
+Scienza delle costruzioni; Statica;  
+Tecnica delle costruzioni, Scienza delle costru- morfologia strutturale, zioni.  
+ponti e grandi strutture,  
+costruzioni asismiche, geo-  
+tecnica e tecnica delle fon-  
+dazioni;  
+  
+Per quanto riguarda i corsi di composizione architettonica non si puo' essere ammessi a sostenere l'esame di uno dei corsi annuali se non e' stato superato l'esame del corso di composizione architettonica precedente.  
+Per quanto riguarda il corso di urbanistica 2ª non si puo' essere ammessi a sostenere il relativo esame se non e' stato superato quello di urbanistica 1ª.  
+Art. 143. - Per essere ammesso all'esame di laurea, lo studente deve aver seguito le lezioni e le esercitazioni e deve aver superato i relativi esami di tutti gli insegnamenti fondamentali e di sei insegnamenti complementari della durata di un anno (o equivalenti) da lui scelti nel piano di studi che deve essere finalizzato nel campo specifico della laurea in architettura.  
+Art. 144. - L'esame di laurea consiste nella valutazione dell'attivita' svolta dal candidato durante il corso degli studi e nella discussione della tesi, riguardante una ricerca che implica l'elaborazione individuale di un progetto.  
+Per sostenere l'esame di laurea il candidato deve presentare richiesta al preside, non meno di sei mesi prima dell'appello prescelto, indicando fra i professori ufficiali il relatore.  
+Il consiglio di facolta' esamina la domanda, conferma il relatore; questi, d'accordo col candidato, definisce il tema, ne segue lo sviluppo, consigliando eventuali correlatori e ne garantisce la originalita' davanti alla commissione giudicatrice.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 dicembre 1980
+### Dato a Roma, addi' 18 gennaio 1971
 
-PERTINI BODRATO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 4 marzo 1981
+Registrato alla Corte dei conti, addi' 18 marzo 1971
 
-Registro n. 20 Istruzione, foglio n. 16
+Atti del Governo, registro n. 241, loglio n. 70. - CARUSO

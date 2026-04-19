@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1970 n. 661
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1480
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1970 n. 661
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1480
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
@@ -10,164 +10,114 @@ Modificazioni allo statuto dell'Universita' degli studi di Catania.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio superiore della, pubblica istruzione;
 
 Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Catania approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 157. - All'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia e' aggiunta la scuola in "Tisiologia".
+Art. 52. - Agli insegnamenti complementari del corso di laurea in chimica vengono aggiunti i seguenti insegnamenti sia per l'indirizzo organico biologico che per l'indirizzo inorganico chimico-fisico:
 
-Dopo l'art. 213 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in tisiologia.
+"Chimica macromolecolare";
 
-Scuola di specializzazione in tisiologia
+"Chimica organica superiore";
 
-Art. 214. - Il corso di studi della scuola di specializzazione in tisiologia ha la durata di tre anni.
+"Chimica teoretica";
 
-Alla scuola sono ammessi dieci iscritti per ogni anno di corso.
+"Chimica delle sostanze coloranti".
 
-Art. 215. - Gli insegnamenti impartiti nella scuola sono i seguenti:
+Art. 55. - Agli insegnamenti complementari per il corso di laurea in fisica viene aggiunto quello di "Meccanica superiore".
 
-1° Anno:
+Art. 58. - Agli insegnamenti complementari per il corso di laurea in scienze matematiche viene aggiunto quello di "Meccanica superiore".
 
-Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);
+Art. 61. - Agli insegnamenti complementari per il corso di laurea in matematica e fisica, viene aggiunto quello di "Meccanica superiore".
 
-Patologia della tubercolosi polmonare ed extra-polmonare;
+Art. 64. - Agli insegnamenti complementari per il corso di laurea in scienze naturali vengono aggiunti quelli di:
 
-Patologia delle malattie dell'apparato respiratorio;
+"Biologia generale";
 
-Semeiotica fisica e funzionale dell'apparato respiratorio;
+"Entomologia";
 
-Microbiologia;
+"Geografia astronomica e cosmografica".
 
-Epidemiologia e statistica della tubercolosi e delle malattie dell'apparato respiratorio.
+Art. 123, relativo alle tasse che devono pagare gli iscritti alla Scuola di perfezionamento in economia regionale, annessa alla Facolta' di economia e commercio, il testo dei primo capoverso viene cosi' modificato:
 
-2° Anno:
-
-Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);
-
-Clinica della tubercolosi (biennale);
-
-Clinica delle malattie dell'apparato respiratorio (biennale);
-
-Fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;
-
-Broncologia;
-
-Radiologia dell'apparato respiratorio;
-
-Profilassi della tubercolosi;
-
-Igiene e legislazione sociale.
-
-3° Anno:
-
-Clinica della tubercolosi (biennale);
-
-Clinica delle malattie dell'apparato respiratorio (biennale);
-
-Chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;
-
-Terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;
-
-Terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.
-
-I corsi d'insegnamento sono integrati da turni obbligatori di internato nei reparti di degenza e nei laboratori di ricerca; da esercitazioni pratiche; da conferenze.
-
-Gli esami di profitto hanno luogo al termine di ogni anno di corso.
-
-Per il conseguimento del diploma di specializzazione e' prescritta la presentazione e la discussione di una dissertazione scritta.
+"Gli iscritti devono pagare annualmente per tassa di immatricolazione L. 5000, per tassa annuale di iscrizione L. 18.000, per contributo di esercitazione di seminario L.5000, per contributo di biblioteca L. 3000, per sopratassa esami di profitto L. 7000.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 14 luglio 1970
+Dato a Roma, addi' 19 ottobre 1960
 
-SARAGAT
+GRONCHI
 
-MISASI
+BOSCO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 7 settembre 1970 Atti del Governo, registro n. 237, foglio n. 80. - CARUSO
+alla Corte dei conti, addi' 12 dicembre 1960 Atti del Governo, registro n. 132, foglio n. 63. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sentito il parere del Consiglio superiore della, pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Catania approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 157. - All'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia e' aggiunta la scuola in "Tisiologia".  
-Dopo l'art. 213 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in tisiologia.  
-  
-Scuola di specializzazione in tisiologia  
-  
-Art. 214. - Il corso di studi della scuola di specializzazione in tisiologia ha la durata di tre anni.  
-Alla scuola sono ammessi dieci iscritti per ogni anno di corso.  
-Art. 215. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
-1° Anno:  
-Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);  
-Patologia della tubercolosi polmonare ed extra-polmonare;  
-Patologia delle malattie dell'apparato respiratorio;  
-Semeiotica fisica e funzionale dell'apparato respiratorio;  
-Microbiologia;  
-Epidemiologia e statistica della tubercolosi e delle malattie dell'apparato respiratorio.  
-2° Anno:  
-Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);  
-Clinica della tubercolosi (biennale);  
-Clinica delle malattie dell'apparato respiratorio (biennale);  
-Fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;  
-Broncologia;  
-Radiologia dell'apparato respiratorio;  
-Profilassi della tubercolosi;  
-Igiene e legislazione sociale.  
-3° Anno:  
-Clinica della tubercolosi (biennale);  
-Clinica delle malattie dell'apparato respiratorio (biennale);  
-Chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;  
-Terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;  
-Terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.  
-I corsi d'insegnamento sono integrati da turni obbligatori di internato nei reparti di degenza e nei laboratori di ricerca; da esercitazioni pratiche; da conferenze.  
-Gli esami di profitto hanno luogo al termine di ogni anno di corso.  
-Per il conseguimento del diploma di specializzazione e' prescritta la presentazione e la discussione di una dissertazione scritta.  
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 52. - Agli insegnamenti complementari del corso di laurea in chimica vengono aggiunti i seguenti insegnamenti sia per l'indirizzo organico biologico che per l'indirizzo inorganico chimico-fisico:  
+"Chimica macromolecolare";  
+"Chimica organica superiore";  
+"Chimica teoretica";  
+"Chimica delle sostanze coloranti".  
+Art. 55. - Agli insegnamenti complementari per il corso di laurea in fisica viene aggiunto quello di "Meccanica superiore".  
+Art. 58. - Agli insegnamenti complementari per il corso di laurea in scienze matematiche viene aggiunto quello di "Meccanica superiore".  
+Art. 61. - Agli insegnamenti complementari per il corso di laurea in matematica e fisica, viene aggiunto quello di "Meccanica superiore".  
+Art. 64. - Agli insegnamenti complementari per il corso di laurea in scienze naturali vengono aggiunti quelli di:  
+"Biologia generale";  
+"Entomologia";  
+"Geografia astronomica e cosmografica".  
+Art. 123, relativo alle tasse che devono pagare gli iscritti alla Scuola di perfezionamento in economia regionale, annessa alla Facolta' di economia e commercio, il testo dei primo capoverso viene cosi' modificato:  
+"Gli iscritti devono pagare annualmente per tassa di immatricolazione L. 5000, per tassa annuale di iscrizione L. 18.000, per contributo di esercitazione di seminario L.5000, per contributo di biblioteca L. 3000, per sopratassa esami di profitto L. 7000.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 luglio 1970
+### Dato a Roma, addi' 19 ottobre 1960
 
-SARAGAT MISASI
+GRONCHI BOSCO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 7 settembre 1970
+Registrato alla Corte dei conti, addi' 12 dicembre 1960
 
-Atti del Governo, registro n. 237, foglio n. 80. - CARUSO
+Atti del Governo, registro n. 132, foglio n. 63. - VILLA

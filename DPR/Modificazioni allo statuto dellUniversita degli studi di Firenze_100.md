@@ -1,186 +1,46 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1957 n. 1005
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1977 n. 138
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1957 n. 1005
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1977 n. 138
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e successivi;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 20. - Agli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di "sociologia applicata".
-
-Art. 124. - Agli insegnamenti complementari del corso di laurea in architettura e' aggiunto quello di:
-
-"consolidamento ed adattamento degli edifici".
-
-Art. 125. - Il comma secondo e' abrogato e sostituito dal seguente:
-
-nel triennio di applicazione lo studente non puo' presentarsi all'esame di "composizione architettonica I" ne' a quello di "urbanistica II" se non ha superato l'esame di "elementi di composizione";
-
-ne' all'esame di "scienze delle costruzioni I" se non ha superato l'esame di "meccanica razionale e statica grafica";
-
-ne' all'esame di "impianti tecnici" se non ha superato l'esame di "fisica tecnica";
-
-ne' all'esame di "composizione architettonica I" se non ha superato l'esame di "caratteri distributivi degli edifici";
-
-ne' all'esame di "urbanistica II" se non ha superato l'esame di "caratteri distributivi degli edifici";
-
-ne' all'esame di "composizione architettonica II";
-
-se non ha superato l'esame di "architettura degli interni, arredamento e decorazione I" e di "carattere stilistici e costruttivi dei monumenti".
-
-Art. 136. - Agli insegnamenti complementari del corso di laurea in scienze agrarie e' aggiunto quelli di "geologia applicata".
-
-Art. 213. - L'insegnamento di "igiene tropicale e subtropicale" (semestrale), previsto al n. 10 dell'elenco degli insegnamenti costitutivi della scuola di specializzazione in agricoltura tropicale e subtropicale annessa alla Facolta' di agraria, e' sostituito da quello di "ecologia umana" (semestrale).
-
-Art. 245. - Il comma sesto, concernente gli insegnamenti della scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio, e' sostituito dal seguente:
-
-Gli insegnamenti impartiti nella scuola sono cosi' suddivisi nei due anni di corso:
-
-1° anno:
-
-1) Clinica e diagnostica differenziale delle malattie dell'apparato respiratorio;
-
-2) Patologia della tubercolosi polmonare;
-
-3) Semeiologia delle malattie dell'apparato respiratorio;
-
-4) Microbiologia ed epidemiologia delle malattie dell'apparato respiratorio; profilassi della tubercolosi;
-
-5) Anatomia patologica delle malattie non tubercolari del polmone;
-
-6) Radiologia delle malattie non tubercolari del polmone;
-
-7) Patologia delle malattie non tubercolari del polmone;
-
-8) Fisiopatologia delle malattie dell'apparato respiratorio;
-
-9) Medicina legale ed assicurativa.
-
-2° anno:
-
-1) Clinica e diagnostica differenziale delle malattie dell'apparato respiratorio;
-
-2) Clinica e terapia della tubercolosi polmonare;
-
-3) Radiologia della tubercolosi polmonare;
-
-4) Anatomia patologica della tubercolosi polmonare;
-
-5) Terapia chirurgica della tubercolosi polmonare;
-
-6) Patologia e clinica della tubercolosi infantile;
-
-7) Tubercolosi delle prime vie respiratorie;
-
-8) Farmacologia delle malattie dell'apparato respiratorio;
-
-9) Tecnica dispensariale e consorziale.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 16 ottobre 1957
-
-GRONCHI
-
-MORO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 30 ottobre 1957 Atti del Governo, registro n. 108, foglio n. 123. - RELLEVA
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e successivi;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio superiore della pubblica istruzione;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 20. - Agli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di "sociologia applicata".   
-Art. 124. - Agli insegnamenti complementari del corso di laurea in architettura e' aggiunto quello di:   
-"consolidamento ed adattamento degli edifici".   
-Art. 125. - Il comma secondo e' abrogato e sostituito dal seguente:   
-nel triennio di applicazione lo studente non puo' presentarsi all'esame di "composizione architettonica I" ne' a quello di "urbanistica II" se non ha superato l'esame di "elementi di composizione";   
-ne' all'esame di "scienze delle costruzioni I" se non ha superato l'esame di "meccanica razionale e statica grafica";   
-ne' all'esame di "impianti tecnici" se non ha superato l'esame di "fisica tecnica";   
-ne' all'esame di "composizione architettonica I" se non ha superato l'esame di "caratteri distributivi degli edifici";   
-ne' all'esame di "urbanistica II" se non ha superato l'esame di "caratteri distributivi degli edifici";   
-ne' all'esame di "composizione architettonica II";   
-se non ha superato l'esame di "architettura degli interni, arredamento e decorazione I" e di "carattere stilistici e costruttivi dei monumenti".   
-Art. 136. - Agli insegnamenti complementari del corso di laurea in scienze agrarie e' aggiunto quelli di "geologia applicata".   
-Art. 213. - L'insegnamento di "igiene tropicale e subtropicale" (semestrale), previsto al n. 10 dell'elenco degli insegnamenti costitutivi della scuola di specializzazione in agricoltura tropicale e subtropicale annessa alla Facolta' di agraria, e' sostituito da quello di "ecologia umana" (semestrale).   
-Art. 245. - Il comma sesto, concernente gli insegnamenti della scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio, e' sostituito dal seguente:   
-Gli insegnamenti impartiti nella scuola sono cosi' suddivisi nei due anni di corso:   
-1° anno:   
-1) Clinica e diagnostica differenziale delle malattie dell'apparato respiratorio;   
-2) Patologia della tubercolosi polmonare;   
-3) Semeiologia delle malattie dell'apparato respiratorio;   
-4) Microbiologia ed epidemiologia delle malattie dell'apparato respiratorio; profilassi della tubercolosi;   
-5) Anatomia patologica delle malattie non tubercolari del polmone;   
-6) Radiologia delle malattie non tubercolari del polmone;   
-7) Patologia delle malattie non tubercolari del polmone;   
-8) Fisiopatologia delle malattie dell'apparato respiratorio;   
-9) Medicina legale ed assicurativa.   
-2° anno:   
-1) Clinica e diagnostica differenziale delle malattie dell'apparato respiratorio;   
-2) Clinica e terapia della tubercolosi polmonare;   
-3) Radiologia della tubercolosi polmonare;   
-4) Anatomia patologica della tubercolosi polmonare;   
-5) Terapia chirurgica della tubercolosi polmonare;   
-6) Patologia e clinica della tubercolosi infantile;   
-7) Tubercolosi delle prime vie respiratorie;   
-8) Farmacologia delle malattie dell'apparato respiratorio;   
-9) Tecnica dispensariale e consorziale.   
+Lo statuto dell'Universita' degli studi di Firenze approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+L'art. 275, terzo comma, e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in ostetricia e ginecologia e' stabilito in 20 per ogni anno di corso.  
+L'art. 278, secondo comma, e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in medicina legale e delle assicurazioni e' stabilito in 8 per anno di corso.  
+L'art. 285, lettera e), e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in chirurgia e' stabilito in 8 per ogni anno di corso per un totale di 40 iscritti.  
+L'art. 297, lettera d), e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in terapia fisica e riabilitazione e' stabilito in 15 per ogni anno di corso per un totale di 45 iscritti.  
+L'art. 307, lettera a), secondo comma, e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in nefrologia medica e' stabilito in 10 per ogni anno di corso.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 ottobre 1957
+### Dato a Roma, addi' 19 gennaio 1977
 
-GRONCHI MORO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 30 ottobre 1957
+Registrato alla Corte dei conti, addi' 13 aprile 1977
 
-Atti del Governo, registro n. 108, foglio n. 123. - RELLEVA
+Registro n. 46 Istruzione, foglio n. 179

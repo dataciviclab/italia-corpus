@@ -1,171 +1,92 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1970 n. 432
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1967 n. 300
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1970 n. 432
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1967 n. 300
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-L'art. 184, relativo alla scuola di specializzazione in medicina dello sport e' abrogato e sostituito dal seguente:
-
-Scuola di specializzazione in medicina dello sport
-
-Art. 184. - La durata del corso di studi e' di tre anni.
-
-Il numero degli iscritti e' stabilito in dieci per ciascun anno di corso (totale trenta iscritti).
-
-Il piano degli studi e' il seguente:
-
-1° Anno:
-
-Anatomia dell'apparato locomotore;
-
-Biomeccanica applicata all'esercizio fisico;
-
-Biochimica generale e applicata;
-
-Antropometria e auxologia;
-
-Storia, sistematica e tecnologia degli sport;
-
-Istituzioni di psicologia generale e psicologia applicata agli sport;
-
-Istituzioni di scienza della nutrizione e dietetica applicata alla attivita' sportiva.
-
-2° Anno:
-
-Anatomia degli apparati circolatorio, respiratorio e nervoso;
-
-Fisiologia delle ossa, delle articolazioni e dei muscoli;
-
-Biochimica ed energetica muscolare;
-
-Valutazione funzionale dello sportivo e tecnica fisiologica;
-
-Biofisica del muscolo (facoltativo);
-
-Fisioterapia e rieducazione funzionale (facoltativo);
-
-Farmacologia applicata all'attivita' sportiva (doping) (facoltativo);
-
-Igiene e medicina preventiva applicata all'attivita' sportiva (facoltativo).
-
-3° Anno:
-
-Fisiologia del sistema nervoso motorio, della respirazione e della circolazione;
-
-Educazione fisica e tecnica dell'allenamento sportivo;
-
-Chirurgia d'urgenza, rianimazione e pronto soccorso;
-
-Medicina legale ed infortunistica;
-
-Traumatologia ed ortopedia dello sport;
-
-Fisiopatologia degli sport (facoltativo);
-
-Assistenza medico-sportiva nei grandi agglomerati urbani (facoltativo).
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 12 maggio 1970
-
-SARAGAT
-
-MISASI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 30 giugno 1970 Atti del Governo, registro n. 236, foglio n. 91. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, numero 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);.  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sentito il parere del Consiglio superiore della pub.  
+pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:  
   
-L'art. 184, relativo alla scuola di specializzazione in medicina dello sport e' abrogato e sostituito dal seguente:  
+Dopo l'art. 60, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Diritto e procedura penale.  
+Scuola di specializzazione in Diritto e procedura penale  
+Art. 61. - Presso la Facolta' di giurisprudenza e' istituita la Scuola di specializzazione in Diritto e procedura penale.  
+Art. 62. - La Scuola di specializzazione ha lo scopo di promuovere le ricerche scientifiche nel campo del Diritto e della procedura penale, e nel campo delle scienze ausiliarie; e inoltre di promuovere lo studio teorico e pratico delle materie penalistiche al fine di creare un nucleo di persone altamente specializzate.  
+In questo quadro potra' eseguire ricerche particolari, in settori determinati delle discipline penalistiche.  
+Art. 63. - Alla Scuola di specializzazione possono iscriversi i laureati in Giurisprudenza, in Scienze politiche o in qualsiasi Universita' italiana o estera, qualunque sia la professione o carriera prescelta. Previa deliberazione del Consiglio direttivo della Scuola, possono iscriversi i laureati in Medicina e chirurgia in una Universita' italiana o estera, i quali per essere ammessi alla Scuola dovranno aver superato un esame integrativo interno di Diritto e procedura penale.  
+Alla Scuola di specializzazione possono inoltre iscriversi gli stranieri, i quali presentino titoli che, a giudizio delle autorita' accademiche, siano considerati equipollenti.  
+Art. 64. - La Scuola di specializzazione comprende tre gruppi di insegnamenti:  
   
-Scuola di specializzazione in medicina dello sport  
-  
-Art. 184. - La durata del corso di studi e' di tre anni.  
-Il numero degli iscritti e' stabilito in dieci per ciascun anno di corso (totale trenta iscritti).  
-Il piano degli studi e' il seguente:  
-1° Anno:  
-Anatomia dell'apparato locomotore;  
-Biomeccanica applicata all'esercizio fisico;  
-Biochimica generale e applicata;  
-Antropometria e auxologia;  
-Storia, sistematica e tecnologia degli sport;  
-Istituzioni di psicologia generale e psicologia applicata agli sport;  
-Istituzioni di scienza della nutrizione e dietetica applicata alla attivita' sportiva.  
-2° Anno:  
-Anatomia degli apparati circolatorio, respiratorio e nervoso;  
-Fisiologia delle ossa, delle articolazioni e dei muscoli;  
-Biochimica ed energetica muscolare;  
-Valutazione funzionale dello sportivo e tecnica fisiologica;  
-Biofisica del muscolo (facoltativo);  
-Fisioterapia e rieducazione funzionale (facoltativo);  
-Farmacologia applicata all'attivita' sportiva (doping) (facoltativo);  
-Igiene e medicina preventiva applicata all'attivita' sportiva (facoltativo).  
-3° Anno:  
-Fisiologia del sistema nervoso motorio, della respirazione e della circolazione;  
-Educazione fisica e tecnica dell'allenamento sportivo;  
-Chirurgia d'urgenza, rianimazione e pronto soccorso;  
-Medicina legale ed infortunistica;  
-Traumatologia ed ortopedia dello sport;  
-Fisiopatologia degli sport (facoltativo);  
-Assistenza medico-sportiva nei grandi agglomerati urbani (facoltativo).  
+Storico-comparativistico, Diritto positivo italiano, politico e criminologico.  
+Art. 65. - Gli insegnamenti sono i seguenti:  
+A) Gruppo storico-comparativistico:  
+Storia del diritto penale;  
+Storia del diritto processuale penale;  
+Diritto penale comparato;  
+Procedura penale comparata;  
+Storia delle dottrine penalistiche.  
+B) Gruppo di diritto positivo italiano:  
+Diritto penale - parte generale - (a carattere monografico);  
+Diritto penale - parte speciale - (a carattere monografico);  
+Procedura penale (a carattere monografico);  
+Diritto penale commerciale e industriale;  
+Diritto penale dell'economia;  
+Diritto penale del lavoro;  
+Diritto penale tributario;  
+Diritto penale militare e della navigazione;  
+Diritto dell'esecuzione penale;  
+Diritto di polizia;  
+Diritto internazionale penale;  
+Diritto della stampa e dello spettacolo;  
+Diritto minorile.  
+C) Gruppo politico-criminologico:  
+Scienza della legislazione penale;  
+Antropologia criminale;  
+Sociologia criminale;  
+Psicologia criminale;  
+Medicina legale;  
+Psichiatria e psicologia forense.  
+Art. 66. - Il corso della Scuola e' biennale e conduce al conseguimento di un diploma di "specializzazione in Diritto e procedura penale".  
+Il numero di posti per il primo anno e' limitato ad un massimo di 50 iscritti; l'ammissione avverra' in base ad una graduatoria determinata dal Consiglio direttivo.  
+Art. 67. - Gli iscritti alla Scuola dovranno scegliere, ai fini della frequenza e degli esami, almeno una materia del gruppo storico-comparativistico, sei materie del gruppo di diritto positivo (tra cui obbligatoriamente, uno dei corsi di Diritto penale, la Procedura penale, il Diritto penale commerciale e industriale) e tre materie del gruppo politico e criminologico.  
+Art. 68. - I corsi di lezione avranno la durata che il Consiglio direttivo della Scuola stabilira' nell'esercizio dei suoi poteri.  
+Art. 69. - Il Consiglio direttivo stabilira' di anno in anno quali saranno i corsi di esercitazioni, e fra questi lo studente dovra' sceglierne almeno due (di gruppi differenti).  
+Art. 70. - Gli esami di profitto saranno tenuti ogni anno. Saranno ammessi soltanto gli iscritti che dimostrino, mediante certificato degli insegnanti, di aver frequentato assiduamente le lezioni della materia del cui esame trattasi.  
+Art. 71. - Per il conseguimento del diploma, il candidato dovra' discutere una dissertazione scritta in una delle materie oggetto di insegnamento. La dissertazione dovra' avere carattere di originalita'. Potra' essere segnalata la dignita' di stampa.  
+Art. 72. - La Scuola e' collegata all'Istituto di diritto e procedura penale dell'Universita' che funziona da biblioteca e seminario di esercitazioni.  
+Art. 73. - Il Consiglio direttivo e' formato dal preside della Facolta' di giurisprudenza, dal professore o dai professori di Diritto e procedura penale e da un professore della Facolta' di medicina.  
+Art. 74. - La Scuola, oltre che coi mezzi derivanti le dalle tasse pagate dagli iscritti, potra' disporre di altri contributi pubblici o privati che le venissero destinati.  
+Art. 75. - La Scuola, mediante opportune convenzioni, potra' anche essere collegata ad altre Universita' e avvalersi degli apporti scientifici e finanziari delle medesime.  
+Art. 76. - La Scuola potra' istituire posti gratuiti o semigratuiti per giovani laureati, anche stranieri, particolarmente meritevoli e nei confronti dei quali appaia opportuno un aiuto economico.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 maggio 1970
+### Dato a Roma, addi' 11 aprile 1967
 
-SARAGAT MISASI
+SARAGAT GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 30 giugno 1970
+Registrato alla Corte dei conti, addi' 17 maggio 1967
 
-Atti del Governo, registro n. 236, foglio n. 91. - CARUSO
+Atti del Governo, registro n. 211, foglio n. 37. - GRECO

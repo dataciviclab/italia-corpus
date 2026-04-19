@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 marzo 1983 n. 931
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1066
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 marzo 1983 n. 931
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1066
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -24,34 +24,34 @@ Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http:
 
 Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Veduta la proposta di modifica dello statuto formulata dalle autorita' accademiche dell'Universita' anzidetta, ai sensi della citata [legge n. 615/1981](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;615);
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
-Veduto il parere espresso al riguardo dal Consiglio universitario nazionale;
+Veduto il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 --------
 
-Lo statuto dell'Universita' di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Firenze, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Art. 106 - nell'elenco generale delle materie complementari relativo ai vari corsi di laurea della facolta' di ingegneria, e' incluso il seguente nuovo insegnamento:  
-controllo dei processi.  
+Nell'art. 76, relativo al corso di laurea in fisica (per l'indirizzo generale, applicativo e didattico), all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+fisica sperimentale delle particelle elementari.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 marzo 1983
+### Dato a Roma, addi' 23 dicembre 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 15 febbraio 1984
+Registrato alla Corte dei conti, addi' 29 febbraio 1984
 
-Registro n. 8 Istruzione, foglio n. 71
+Registro n. 13 Iscrizione, loglio n. 92

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1963 n. 2199
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1982 n. 635
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1963 n. 2199
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1982 n. 635
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,247 +10,59 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090) e modificato con [regio decreto 13 ottobre 1927, n. 2281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2281), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1938, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla
+-----
 
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 108. - All'elenco degli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti i seguenti:
-
-Reumatologia;
-
-Gerontologia e geriatria.
-
-Art. 116. - All'elenco degli Istituti della Facolta' di medicina e chirurgia e' aggiunto quello di:
-
-"Istituto di Semeiotica chirurgica".
-
-Art. 118. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica sono aggiunti i seguenti:
-
-Per l'indirizzo organico-biologico:
-
-Radiochimica;
-
-Strutturistica chimica.
-
-Indirizzo inorganico chimico fisico:
-
-Radiochimica;
-
-Strutturistica chimica;
-
-Complementi di matematica.
-
-Art. 138. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti i seguenti:
-
-Paleobotanica Paleontologia umana e paletnologia;
-
-Genetica di popolazioni.
-
-Art. 146. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti i seguenti:
-
-Genetica dei microorganismi;
-
-Genetica di popolazioni;
-
-Scienza dell'alimentazione.
-
-Art. 149. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti i seguenti:
-
-Geologia dell'Appennino;
-
-Geologia sottomarina;
-
-Paleobotanica;
-
-Paleontologia umana e paletnologia.
-
-L'art. 153, relativo alle spese del funzionamento dei corsi di laurea in Scienze biologiche ed in Scienze geologiche e gli articoli da 154 a 158, relativi al funzionamento dell'Istituto di Fisica teorica sono abrogati e sostituiti dai seguenti con il relativo spostamento della successiva numerazione:
-
-Art. 153. - Sono costituiti presso la Facolta' di scienze matematiche, fisiche e naturali i seguenti istituti:
-
-Istituto Chimico;
-
-Istituto di Chimica organica;
-
-Istituto di Fisica sperimentale;
-
-Istituto di Fisica superiore;
-
-Istituto di Fisica teorica;
-
-Istituto di Fisica terrestre con annesso osservatorio geofisico;
-
-Istituto di Matematica;
-
-Istituto di Antropologia con annesso museo;
-
-Istituto di Biologia generale e genetica;
-
-Istituto di Botanica;
-
-Istituto di Fisiologia generale;
-
-Istituto di Istologia ed embriologia;
-
-Istituto di Zoologia con annesso museo;
-
-Istituto di Geologia con annesso museo;
-
-Istituto di Mineralogia con annesso museo;
-
-Istituto di Paleontologia con annesso museo;
-
-Orto botanico.
-
-Tali istituti hanno lo scopo di promuovere e coordinare l'insegnamento e la ricerca nelle discipline di loro pertinenza.
-
-Art. 154. - La Facolta' determina, con propria deliberazione, alla fine di ciascun anno e per l'anno accademico successivo quali siano gli insegnamenti ufficiali che si svolgeranno presso i singoli istituti.
-
-Art. 155. - Ogni istituto e' retto da un direttore che e' responsabile dell'amministrazione e del funzionamento dell'Istituto stesso.
-
-Norme particolari al riguardo potranno essere stabilite dalla Facolta' nei casi in cui se ne ravvisi l'opportunita'.
-
-Art. 156. - Qualora fra gli insegnamenti assegnati ad un istituto ve ne sia uno solo tenuto da un professore di ruolo, questi e' di diritto il direttore dell'Istituto.
-
-Nel caso che vi siano piu' professori di ruolo, la Facolta', sentito il parere dei medesimi, designera' scegliendo fra di essi, il direttore dell'Istituto, che verra' nominato con decreto rettoriale per un periodo di due anni.
-
-Se un istituto manca di professore di ruolo, la direzione verra' affidata di regola ad un professore di ruolo di materia affine, designato dalla Facolta' e nominato con decreto rettoriale per un periodo di due anni.
-
-Art. 157. - Possono essere addetti a un istituto tecnici, bibliotecari, personale amministrativo e subalterni appartenenti ai ruoli universitari ed inoltre, quando esista un Museo annesso, anche conservatori, curatori e preparatori.
-
-Art. 158 - E' facolta' del direttore di un istituto di rilasciare ai ricercatori e agli allievi interni che frequentano l'Istituto per almeno sei mesi un attestato degli studi compiuti e dei risultati raggiunti nelle ricerche.
-
-Art. 159. - Ogni istituto potra' eventualmente disporre, secondo modalita' intese ad assicurare il raggiungimento delle finalita' nel modo piu' idoneo, di fondi per la ricerca e di borse di studio provenienti da enti pubblici o privati e stranieri.
-
-Art. 296. - All'elenco degli insegnamenti della Scuola di specializzazione in Malattie nervose e mentali e' aggiunto quello di "Igiene mentale".
-
-Art. 419. - Nella Scuola di specializzazione in ispezione degli alimenti di origine animale, annessa alla Facolta' di medicina veterinaria, l'insegnamento del primo anno "Valore alimentare delle carni di diversa origine", muta denominazione in "Biochimica applicata alla ispezione degli alimenti di origine animale" mentre l'insegnamento del secondo anno: "Ispezione sanitaria delle carni fresche e conservate, dei vari prodotti elaborati dall'industria delle carni, dei prodotti della pesca, di quelli del latte (latticini ed altri prodotti dell'industria lattifera); delle carni di animali da cortile e della cacciagione (pollame, lepri, conigli ecc.)" viene suddiviso nei seguenti insegnamenti:
-
-"Ispezione delle carni fresche degli animali da macello e della selvaggina";
-
-"Vigilanza della lavorazione ed ispezione dei prodotti dell'industria delle conserve di origine animale" "Ispezione dei prodotti della pesca" "Ispezione del latte e prodotti derivati e delle uova".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Sassari, addi' 31 dicembre 1963
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 21 febbraio 1964 Atti del Governo, registro n. 181, foglio n. 104. - VILLA
+proposta del Ministro della pubblica istruzione; Decreta:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1938, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Lo statuto dell'Universita' di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Il terzo comma dell'art. 678, relativo alla scuola di specializzazione in chirurgia generale della seconda facolta' di medicina e chirurgia, e' sostituito dal seguente:  
+"Il numero massimo degli allievi e' di trenta per anno di corso e complessivamente di centocinquanta per l'intero corso di studi".  
+
+Art. 2
+------
+
   
-Decreta:  
+L'art. 811, relativo alla scuola di specializzazione in endocrinologia della seconda facolta' di medicina e chirurgia, e' sostituito dal seguente:  
+"Il numero massimo degli allievi e' di quindici per anno di corso e complessivamente di quarantacinque iscritti per l'intero corso di studi".  
+
+Art. 3
+------
+
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 108. - All'elenco degli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti i seguenti:  
-Reumatologia;  
-Gerontologia e geriatria.  
-Art. 116. - All'elenco degli Istituti della Facolta' di medicina e chirurgia e' aggiunto quello di:  
-"Istituto di Semeiotica chirurgica".  
-Art. 118. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica sono aggiunti i seguenti:  
-Per l'indirizzo organico-biologico:  
-Radiochimica;  
-Strutturistica chimica.  
-Indirizzo inorganico chimico fisico:  
-Radiochimica;  
-Strutturistica chimica;  
-Complementi di matematica.  
-Art. 138. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti i seguenti:  
-Paleobotanica Paleontologia umana e paletnologia;  
-Genetica di popolazioni.  
-Art. 146. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti i seguenti:  
-Genetica dei microorganismi;  
-Genetica di popolazioni;  
-Scienza dell'alimentazione.  
-Art. 149. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti i seguenti:  
-Geologia dell'Appennino;  
-Geologia sottomarina;  
-Paleobotanica;  
-Paleontologia umana e paletnologia.  
-L'art. 153, relativo alle spese del funzionamento dei corsi di laurea in Scienze biologiche ed in Scienze geologiche e gli articoli da 154 a 158, relativi al funzionamento dell'Istituto di Fisica teorica sono abrogati e sostituiti dai seguenti con il relativo spostamento della successiva numerazione:  
-Art. 153. - Sono costituiti presso la Facolta' di scienze matematiche, fisiche e naturali i seguenti istituti:  
-Istituto Chimico;  
-Istituto di Chimica organica;  
-Istituto di Fisica sperimentale;  
-Istituto di Fisica superiore;  
-Istituto di Fisica teorica;  
-Istituto di Fisica terrestre con annesso osservatorio geofisico;  
-Istituto di Matematica;  
-Istituto di Antropologia con annesso museo;  
-Istituto di Biologia generale e genetica;  
-Istituto di Botanica;  
-Istituto di Fisiologia generale;  
-Istituto di Istologia ed embriologia;  
-Istituto di Zoologia con annesso museo;  
-Istituto di Geologia con annesso museo;  
-Istituto di Mineralogia con annesso museo;  
-Istituto di Paleontologia con annesso museo;  
-Orto botanico.  
-Tali istituti hanno lo scopo di promuovere e coordinare l'insegnamento e la ricerca nelle discipline di loro pertinenza.  
-Art. 154. - La Facolta' determina, con propria deliberazione, alla fine di ciascun anno e per l'anno accademico successivo quali siano gli insegnamenti ufficiali che si svolgeranno presso i singoli istituti.  
-Art. 155. - Ogni istituto e' retto da un direttore che e' responsabile dell'amministrazione e del funzionamento dell'Istituto stesso.  
-Norme particolari al riguardo potranno essere stabilite dalla Facolta' nei casi in cui se ne ravvisi l'opportunita'.  
-Art. 156. - Qualora fra gli insegnamenti assegnati ad un istituto ve ne sia uno solo tenuto da un professore di ruolo, questi e' di diritto il direttore dell'Istituto.  
-Nel caso che vi siano piu' professori di ruolo, la Facolta', sentito il parere dei medesimi, designera' scegliendo fra di essi, il direttore dell'Istituto, che verra' nominato con decreto rettoriale per un periodo di due anni.  
-Se un istituto manca di professore di ruolo, la direzione verra' affidata di regola ad un professore di ruolo di materia affine, designato dalla Facolta' e nominato con decreto rettoriale per un periodo di due anni.  
-Art. 157. - Possono essere addetti a un istituto tecnici, bibliotecari, personale amministrativo e subalterni appartenenti ai ruoli universitari ed inoltre, quando esista un Museo annesso, anche conservatori, curatori e preparatori.  
-Art. 158 - E' facolta' del direttore di un istituto di rilasciare ai ricercatori e agli allievi interni che frequentano l'Istituto per almeno sei mesi un attestato degli studi compiuti e dei risultati raggiunti nelle ricerche.  
-Art. 159. - Ogni istituto potra' eventualmente disporre, secondo modalita' intese ad assicurare il raggiungimento delle finalita' nel modo piu' idoneo, di fondi per la ricerca e di borse di studio provenienti da enti pubblici o privati e stranieri.  
-Art. 296. - All'elenco degli insegnamenti della Scuola di specializzazione in Malattie nervose e mentali e' aggiunto quello di "Igiene mentale".  
-Art. 419. - Nella Scuola di specializzazione in ispezione degli alimenti di origine animale, annessa alla Facolta' di medicina veterinaria, l'insegnamento del primo anno "Valore alimentare delle carni di diversa origine", muta denominazione in "Biochimica applicata alla ispezione degli alimenti di origine animale" mentre l'insegnamento del secondo anno: "Ispezione sanitaria delle carni fresche e conservate, dei vari prodotti elaborati dall'industria delle carni, dei prodotti della pesca, di quelli del latte (latticini ed altri prodotti dell'industria lattifera); delle carni di animali da cortile e della cacciagione (pollame, lepri, conigli ecc.)" viene suddiviso nei seguenti insegnamenti:  
-"Ispezione delle carni fresche degli animali da macello e della selvaggina";  
-"Vigilanza della lavorazione ed ispezione dei prodotti dell'industria delle conserve di origine animale" "Ispezione dei prodotti della pesca" "Ispezione del latte e prodotti derivati e delle uova".  
+Il quinto comma dell'art. 901, relativo alla scuola di specializzazione in chirurgia maxillo-facciale, e' sostituito dal seguente:  
+"Il numero massimo degli allievi e' di dodici per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Sassari, addi' 31 dicembre 1963
+### Dato a Roma, addi' 14 maggio 1982
 
-SEGNI GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 21 febbraio 1964
+Registrato alla Corte dei conti, addi' 31 agosto 1982
 
-Atti del Governo, registro n. 181, foglio n. 104. - VILLA
+Registro n. 104 Istruzione, foglio n. 155

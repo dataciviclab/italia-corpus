@@ -1,77 +1,75 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1982 n. 1018
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1977 n. 611
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1982 n. 1018
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1977 n. 611
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Considerata la necessita' di adeguare la norma sulla direzione e sul consiglio di istituto a quanto stabilito dall'[art. 88 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art88);
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA   
   
+Veduto lo statuto dell'Universita' di Napoli approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Dopo l'art. 62, con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i nuovi seguenti articoli concernenti l'istituzione dell'istituto polidisciplinare di diritto internazionale e comunitario.   
-Art. 63. - E' costituito presso la facolta' di giurisprudenza l'istituto di diritto internazionale e comunitario.   
-L'istituto raggruppa gli insegnamenti:   
-diritto internazionale;   
-diritto delle Comunita' europee;   
-organizzazione internazionale;   
-diritto internazionale privato e processuale.   
-All'istituto saranno aggregati tutti gli altri insegnamenti che verranno istituiti in futuro per altre materie internazionalistiche.   
-Art. 64. - L'istituto ha il fine di promuovere e coordinare l'insegnamento, la ricerca ed ogni altra iniziativa o manifestazione scientifica o culturale nel campo delle discipline che fanno capo ad esso.   
-A tale scopo disporra' delle attrezzature in dotazione. L'istituto curera' inoltre la raccolta del materiale scientifico e provvedera' a pubblicazioni autonome.   
-Art. 65. - Fa parte dell'istituto il personale docente e non docente afferente all'istituto stesso; sono ammessi a frequentare di diritto l'istituto gli studenti della facolta' di giurisprudenza.  
-Possono essere ammessi anche altri studenti, studiosi e laureati di altre facolta' e Universita' secondo le modalita' di cui al regolamento previsto dall'[art. 88, sesto comma, del decreto del Presidente della Repubblica n. 382/80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art88-com6).   
-Art. 66. - Il direttore dell'istituto e' un professore ordinario o straordinario di una delle discipline di cui all'art. 63, nominato dal rettore su designazione del consiglio d'istituto.   
-Il direttore coordina e sovraintende alla attivita' dell'istituto, e' responsabile della gestione amministrativa e contabile dell'istituto stesso e dura in carica un triennio.   
-In mancanza di professori ordinari e straordinari si applicano le norme di cui al [quarto comma dell'art. 88 del decreto del Presidente della Repubblica n. 382/80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art88-com4).   
-Il consiglio di istituto e' costituito dai professori ufficiali e dagli assistenti di ruolo, che vi afferiscono, nonche' da una rappresentanza, da uno a cinque ricercatori qualora essi superino il numero di tre.   
-Il consiglio esprime parere sul regolamento interno dell'istituto, sul coordinamento delle materie e dei tempi e dei modi dei corsi - salvo l'autonomia di ogni insegnamento - sulla formazione della biblioteca, sul prestito interno ed esterno del materiale librario e didattico-scientifico, sulle ammissioni di cui all'articolo 65.   
-Esprime parere altresi' su ogni altra questione sottopostagli dal direttore.   
-Art. 67. - Il direttore informera' dei piu' rilevanti problemi dell'istituto, almeno una volta all'anno, agli inizi dell'anno accademico, previo opportuno avviso pubblico, i membri dell'istituto.   
+Decreta:   
+  
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+  
+Dopo l'art. 680, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti articoli relativi alla istituzione della scuola di specializzazione in farmacia ospedaliera presso la facolta' di farmacia.   
+Scuola di specializzazione in farmacia ospedaliera   
+Art. 681. - E' istituita presso la facolta' di farmacia dell'Universita' di Napoli la scuola di specializzazione in farmacia ospedaliera, con l'intento di assicurare ai laureati in discipline farmaceutiche (farmacia e tecnologie farmaceutiche) la possibilita' di un perfezionamento nelle materie necessarie ad esercitare la loro attivita' nella farmacia ospedaliera.   
+Art. 682. - La scuola rilascia il diploma di specializzazione in farmacia ospedaliera al termine del corso di studi che ha la durata biennale.   
+Art. 683. - Alla scuola di specializzazione sono ammessi i laureati in farmacia e in chimica e tecnologie farmaceutiche.   
+Art. 684. - Gli insegnamenti nella scuola sono i seguenti:   
+1° Anno:   
+1) matematica e informatica;   
+2) patologia generale;   
+3) biofarmaceutica e farmacocinetica I;   
+4) tossicita', interazioni, effetti secondari dei farinacei;   
+5) radiochimica e radiobiologia;   
+6) microbiologia e igiene;   
+7) tecnologia delle preparazioni magistrali.   
+2° Anno:   
+1) biofarmaceutica e farmacocinetica II;   
+2) immunochimica;   
+3) farmacia clinica;   
+4) documentazione e informazione sui farmaci;   
+5) officina galenica;   
+6) chimica degli alimenti;   
+7) economia, organizzazione e legislazione ospedaliera.   
+Gli insegnamenti comprendono lezioni teoriche ed esercitazioni pratiche.   
+Art. 685. - La scuola e' organizzata dalla facolta' di farmacia dell'Universita' di Napoli. Potranno essere invitati a tenere lezioni, conferenze, seminari ed esercitazioni, docenti di altre facolta' o universita' od esperti anche dall'estero.   
+La direzione della scuola e' affidata ad un docente di ruolo eletto dal consiglio direttivo costituito da cinque docenti nominati dal consiglio di facolta', per la durata di tre anni, scelti tra i docenti di discipline chimico-farmaceutiche (due), farmaco-biologiche (due) e tecnologiche (uno).   
+Il direttore ed i membri del consiglio sono rieleggibili. In caso di decadenza, il nuovo membro resta in carica fino alla scadenza del mandato triennale.   
+Art. 686. - Gli incarichi di insegnamento, anche per un limitato numero di lezioni o esercitazioni, sono conferiti dal rettore su proposta del consiglio direttivo della scuola con l'approvazione del senato accademico e del consiglio di amministrazione dell'Universita'.   
+Art. 687. - Le tasse e soprattasse per l'iscrizione alla scuola sono quelle stabilite per la facolta' di farmacia. I contributi a carico degli iscritti dovranno essere fissati annualmente dal consiglio di amministrazione su proposta del consiglio della scuola e verranno resi noti ogni anno con apposito manifesto.   
+Art. 688. - Il numero massimo degli iscritti alla scuola e' di 15 per ogni anno di corso. Iscrizioni in numero superiore possono essere ammesse eccezionalmente su parere favorevole del consiglio direttivo della scuola. L'ammissione alla scuola e' decisa dal consiglio direttivo sulla base di un concorso per esame e per titoli.   
+La frequenza e' obbligatoria sia per le lezioni che per le esercitazioni.   
+Art. 689. - La scuola e' finanziata con le quote di iscrizione e attraverso eventuali contributi della Societa' italiana di farmacia ospedaliera e di contributi, lasciti e donazioni di altri enti privati.   
+L'art. 764, relativo alla scuola di specializzazione in alimentazione degli animali domestici, e' modificato nel senso che il primo comma e' soppresso e sostituito dal seguente:   
+"Possono iscriversi alla scuola i laureati in medicina veterinaria, in scienze agrarie e in scienze della produzione animale".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 ottobre 1982
+### Dato a Roma, addi' 1 giugno 1977
 
-PERTINI BODRATO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 10 gennaio 1983
+Registrato alla Corte dei conti, addi' 30 luglio 1977
 
-Registro n. 1 Istruzione, foglio n. 8
+Registro n. 92 Istruzione, foglio n. 37

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1950 n. 252
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 agosto 1953 n. 1140
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1950 n. 252
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 agosto 1953 n. 1140
+==============================================================
 
 Autorizzazione alla Cassa scolastica della Scuola tecnica commerciale "T. Catullo" di Belluno ad accettare una donazione.
 -------------------------------------------------------------------------------------------------------------------------
@@ -12,7 +12,8 @@ Art. 1
 
 N.
 
-252. Decreto del Presidente della Repubblica 13 marzo 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola tecnica commerciale "T. Catullo" di Belluno viene autorizzata ad accettare la donazione di nominali L. 100.000 in titoli di Stato fatta dal Comitato per le onoranze alla medaglia d'argento sottotenente degli alpini Angelo Bristot, allo scopo di istituire una borsa di studio intitolata alla medaglia d'argento sottotenente degli alpini Angelo Bristot.  
+1140. Decreto del Presidente della Repubblica 25 agosto 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola tecnica commerciale con annessa scuola di avviamento professionale a tipo commerciale "T. Catullo" di Belluno, viene autorizzata ad accettare la donazione di nominali L. 25.000 in titoli di Stato, per istituire, col relativo reddito, un annuo premio di studio intitolato al nome di "Frescura Renato".  
   
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 17 maggio 1950
+Visto, il Guardasigilli: AZARA  
+Registrato alla Carte dei conti, addi' 26 marzo 1954  
+Atti del Governo, registro n. 82, foglio n. 68. - CARLOMAGNO

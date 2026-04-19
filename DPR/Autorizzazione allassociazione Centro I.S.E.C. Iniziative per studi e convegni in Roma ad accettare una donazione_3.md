@@ -1,19 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1978 n. 894
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 dicembre 1979 n. 874
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1978 n. 894
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 dicembre 1979 n. 874
+===============================================================
 
-Autorizzazione all'associazione "Centro I.S.E.C. (Iniziative per studi e convegni)", in Roma, ad accettare una donazione.
--------------------------------------------------------------------------------------------------------------------------
+Autorizzazione all'associazione Centro I.S.E.C. (Iniziative per studi e convegni), in Roma, ad accettare una donazione.
+-----------------------------------------------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-894. Decreto del Presidente della Repubblica 11 ottobre 1978, col quale, sulla proposta del Ministro della pubblica istruzione, l'associazione "Centro I.S.E.C. (Iniziative per studi e convegno)", in Roma, viene autorizzata ad accettare la donazione, consistente in un villino sito in Roma, via Pompeo Magno numeri 7 e 9, distinto al nuovo catasto edilizio urbano alla partita 195431, foglio 405, particelle numeri 92 e 93 del valore di L. 380.000.000, disposta dalla regione italiana della Societa' sacerdotale della Santa Croce, in Milano, rappresentata dal prof. don Luigi Tirelli con atto di donazione n. 86733 di repertorio in data 20 gennaio 1971, a rogito dott. Giuseppe Intersimone, notaio in Roma.  
+874. Decreto del Presidente della Repubblica 2 dicembre 1979, col quale, sulla proposta del Ministro della pubblica istruzione, l'associazione Centro I.S.E.C. (Iniziative per studi e convegni), in Roma, viene autorizzata ad accettare la donazione, consistente in un fabbricato sito in Roma, via Barnaba Oriani n. 94/100, censito al nuovo catasto edilizio urbano al foglio 539, numeri 46/1, 46/2, 46/3, 47/1, 47/2, 47/3 e 47/4, del valore di L. 740.000.000, disposta dalla "ANBO S.p.a.", in Roma, con atto 3 marzo 1977, n. 126055 di repertorio, a rogito dott. Giuseppe Intersimone, notaio in Roma, registrato a Roma in data 21 marzo 1977, n. 2674, vol. 2560.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 28 dicembre 1978  
-Registro n. 135 Istruzione, foglio n. 299
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 9 aprile 1980  
+Registro n. 31 Istruzione, foglio n. 191

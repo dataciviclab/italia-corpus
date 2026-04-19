@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1963 n. 1535
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1976 n. 903
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1963 n. 1535
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1976 n. 903
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -12,51 +12,39 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, numero 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successivi;  
-Veduto il testo unico delle leggi sull'istituzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;.  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 401. - La denominazione della Scuola di perfezionamento in Ostetricia e ginecologia e' modificata in quella di Scuola di specializzazione in Ostetricia e ginecologia.  
-Gli articoli da 471 a 475, relativi alla Scuola di perfezionamento in Ematologia sono abrogati e sostituiti dai seguenti:  
-Art. 471. - E' istituita presso l'Istituto di Semeiotica medica della Universita' di Roma, la Scuola di perfezionamento in Ematologia.  
-Il corso degli studi ha la durata di due anni. Per ogni anno il numero degli iscritti, esclusi i fuori corso, non sara' superiore a quaranta.  
-Le iscrizioni sono condizionate da un esame preliminare di ammissione.  
-Art. 472. - Gli insegnamenti impartiti nella Scuola sono i seguenti:  
-1) Morfologia e morfogenesi normale e patologica del sangue (biennale);  
-2) Biochimica ematologica (annuale, 1° anno);  
-3) Immuno-ematologia (annuale, 1° anno);  
-4) Fisiopatologia dell'emocoagulazione e dell'emostasi (annuale, 1° anno);  
-5) Anatomia e istologia patologica (biennale);  
-6) Protidologia ematologica (annuale, 2° anno);  
-7) Patologia ematologica costituzionale (annuale, 2° anno);  
-8) Radiodiagnostica e radioterapia (annuale, 2° anno);  
-9) Patologia speciale e clinica ematologica (biennale);  
-10) Terapia (annuale, 2° anno).  
-Vengono inoltre quotidianamente tenute al letto del malato, esercitazioni di Semeiotica clinica, di Diagnostica differenziale, di Terapia, esercitazioni teorico pratiche nei laboratori. Gli iscritti hanno l'obbligo di frequentare l'istituto di Anatomia patologica, per assistere alle necroscopie dei cadaveri per malattie del sangue e per le esercitazioni di Istologia patologica.  
-Art. 473. - La frequenza alle lezioni ed alle esercitazioni nei reparti, negli ambulatori, nei laboratori e nella sala incisoria dell'Istituto di Anatomia patologica e' obbligatoria. Gli iscritti non possono essere ammessi agli esami se non abbiamo ottenuto le relative attestazioni di frequenza.  
-Art. 474. - Gli esami di profitto vengono sostenuti alla fine di ciascun anno di corso, secondo le disposizioni che verranno stabilite nel manifesto della Scuola.  
-Gli iscritti non potranno essere ammessi al secondo anno di corso se non avranno superato gli esami di tutti gli insegnamenti prescritti per il 1° anno.  
-Art. 475. - L'esame di diploma si svolge con le norme dell'attuale art. 374.  
-Art. 519, relativo alla Scuola di specializzazione in Farmacoterapia e tossicologia medica e' abrogato e sostituito dal seguente.  
-"La Scuola di specializzazione in Farmacoterapia e tossicologia medica ha la durata di due anni. Essa ha sede presso l'istituto di farmacologia dell'Universita' di Roma. Possono essere ammessi alla Scuola oltre ai laureati in Medicina e chirurgia, i laureati in Farmacia e quelli in Scienze biologiche".  
+L'art. 68, relativo all'ordinamento degli studi del corso di laurea in materie letterarie, e' modificato nel senso che l'insegnamento complementare di storia dell'arte medioevale e moderna e' soppresso e sostituito dai seguenti:  
+storia dell'arte medioevale;  
+storia dell'arte moderna.  
+L'art. 69, relativo all'ordinamento degli studi del corso di laurea in pedagogia, e' modificato nel senso che l'insegnamento complementare di storia dell'arte medioevale e moderna e' soppresso e sostituito dai seguenti:  
+storia dell'arte medioevale;  
+storia dell'arte moderna.  
+L'art. 70, relativo all'ordinamento degli studi del corso di laurea in lingue e letterature straniere, e' modificato nel senso che l'insegnamento complementare di storia dell'arte medioevale e moderna e' soppresso e sostituito dai seguenti:  
+storia dell'arte medioevale;  
+storia dell'arte moderna.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti osservarlo e di farlo osservare.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 ottobre 1963
+### Dato a Roma, addi' 23 ottobre 1976
 
-SEGNI GUI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato atta Corte dei conti, addi' 22 novembre 1963
+Registrato alla Corte dei conti, addi' 28 dicembre 1976
 
-Atti del Governo, registro n. 176, foglio n. 80. - VILLA
+Registro n. 104 Istruzione, foglio n. 396

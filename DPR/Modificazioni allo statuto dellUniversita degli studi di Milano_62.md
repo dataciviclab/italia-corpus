@@ -1,95 +1,97 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1093
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1971 n. 656
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1093
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1971 n. 656
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-L'art. 139, relativo alle abbreviazioni di corso per le scuole di specializzazione in medicina e chirurgia e' abrogato e sostituito dal seguente:
-
-Art. 139. - Sono consentite abbreviazioni di corso per quelle scuole che le ammettono nel proprio statuto.
-
-L'abbreviazione puo' essere di un anno per le scuole della durata di tre anni, fino a due per le scuole di durata superiore.
-
-L'abbreviazione di corso e' deliberata caso per caso dal consiglio di facolta' su proposta motivata del direttore della scuola e con eventuale graduatoria.
-
-Il numero delle abbreviazioni di corso concesse non potra' superare il 20% dei posti disponibili per l'ammissione al 1° anno, salvo la disponibilita' dei posti agli anni successivi.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1972
-
-LEONE
-
-SCALFARO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 15 marzo 1973 Atti di Governo, registro n. 256, foglio n. 91. - VALENTINI
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-L'art. 139, relativo alle abbreviazioni di corso per le scuole di specializzazione in medicina e chirurgia e' abrogato e sostituito dal seguente:  
+Art. 28: all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia l'insegnamento di "Anestesiologia" muta denominazione in quella di "Anestesiologia e rianimazione".   
+Art. 31: all'elenco degli insegnamenti complementari del corso di laurea in chimica sono aggiunti i seguenti:   
   
-Art. 139. - Sono consentite abbreviazioni di corso per quelle scuole che le ammettono nel proprio statuto.  
-L'abbreviazione puo' essere di un anno per le scuole della durata di tre anni, fino a due per le scuole di durata superiore.  
-L'abbreviazione di corso e' deliberata caso per caso dal consiglio di facolta' su proposta motivata del direttore della scuola e con eventuale graduatoria.  
-Il numero delle abbreviazioni di corso concesse non potra' superare il 20% dei posti disponibili per l'ammissione al 1° anno, salvo la disponibilita' dei posti agli anni successivi.  
+  
+Lingua inglese \ insegnamenti aggiuntivi ma non sostitutivi Lingua tedesca / di altri insegnamenti complementari.  
+  
+  
+  
+Art. 35: all'elenco degli insegnamenti complementari del corso di laurea in chimica industriale sono aggiunti i seguenti:   
+  
+  
+Lingua inglese \ insegnamenti aggiuntivi ma non sostitutivi Lingua tedesca / di altri insegnamenti complementari.  
+  
+  
+  
+Art. 39: all'elenco degli insegnamenti complementari del corso di laurea in fisica e' aggiunto quello di "Separazione degli isotopi".   
+Art. 42: all'elenco degli insegnamenti complementari del corso di laurea in matematica sono aggiunti i seguenti:   
+Teoria dei gruppi;   
+Algebra omologica;   
+Equazioni differenziali;   
+Teoria spettrale;   
+Topologia algebrica;   
+Didattica della matematica;   
+Critica dei principi;   
+Meccanica celeste;   
+Meccanica dei continui;   
+Teoria dei linguaggi;   
+Complementi di analisi numerica.   
+Art. 45: il primo comma e' abrogato e sostituito dal seguente:   
+"L'insegnamento biennale di botanica comporta un esame alla fine di ogni anno: uno sulla parte generale ed uno sulla parte sistematica".   
+Art. 47: all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:   
+Genetica di popolazioni;   
+Enzimologia;   
+Chimica fisica;   
+Psicobiologia;   
+Virologia;   
+Micologia;   
+Fitogeografia;   
+Chimica clinica;   
+Embriologia comparata;   
+Parassitologia;   
+Biologia marina;   
+Entomologia agraria;   
+Patologia vegetale;   
+Genetica dei microorganismi;   
+Biologia molecolare;   
+Farmacologia applicata e tossicologia;   
+Citologia.   
+Art. 48: il primo comma e' abrogato e sostituito dal seguente:   
+"L'insegnamento biennale di botanica comporta un esame alla fine di ogni anno: uno sulla parte generale, uno sulla parte sistematica.  
+Quelli di zoologia e fisiologia generale comportano un solo esame alla fine del biennio".   
+Art. 266, relativo alla scuola per tecnici di istituti medico-biologici, il secondo comma e' abrogato e sostituito dal seguente:   
+"Possono essere ammessi alla scuola allievi in possesso di un titolo di istruzione secondaria superiore valido per la ammissione ai corsi universitari".   
+Art. 280, relativo alla scuola speciale per ortottiste, il secondo comma e' abrogato e sostituito dal seguente:   
+"Possono essere ammesse alla scuola allieve di eta' non inferiore ai diciassette anni, di sana costituzione, rispondenti a determinati requisiti oculari, in possesso di un titolo di istruzione secondaria superiore valido per l'ammissione ai corsi universitari".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 19 maggio 1971
 
-LEONE SCALFARO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 15 marzo 1973
+Registrato alla Corte dei conti, addi' 21 agosto 1971
 
-Atti di Governo, registro n. 256, foglio n. 91. - VALENTINI
+Atti del Governo, registro n. 243, foglio n. 163. - PASQUALUCCI

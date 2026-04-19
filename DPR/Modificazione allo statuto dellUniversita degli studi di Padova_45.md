@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1981 n. 932
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1070
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1981 n. 932
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1070
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Padova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 14 ottobre 1926, n. 2133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2133) e modificato con [regio decreto 13 ottobre 1927, n. 2226](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2226), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 14 ottobre 1926, n. 2133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2133), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -39,18 +39,20 @@ Articolo unico
 --------------
 
   
-Nell'art. 41, relativo al corso di laurea in economia e commercio, l'insegnamento complementare "calcolatori elettronici e sistemi meccanografici" contrassegnato col numero 2, muta la denominazione con quella di "applicazioni aziendali dei sistemi di elaborazione elettronica dei dati".  
+Nell'art. 174, relativo all'elenco degli istituti afferenti alla facolta' di ingegneria, l'Istituto di idraulica cambia la denominazione in istituto di idraulica "Giovanni Poleni".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 ottobre 1981
+### Dato a Roma, addi' 5 dicembre 1984
 
-PERTINI BODRATO
+PERTINI
 
-Visto, il Guardasigilli: DARIDA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 9 febbraio 1982
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registro n. 20 Istruzione, foglio n. 210
+Registrato alla Corte dei conti, addi' 11 febbraio 1985
+
+Registro n. 8 Istruzione, foglio n. 90

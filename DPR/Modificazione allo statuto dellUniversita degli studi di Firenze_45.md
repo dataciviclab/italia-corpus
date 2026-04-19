@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 954
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 894
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 954
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 894
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -28,29 +28,30 @@ Vedute le proposte di modifica dello statuto formulate dalle autorita' accademic
 
 Veduto il parere del Consiglio universitario nazionale;
 
-Sulla
------
+Sulla proposta del Ministro della pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Lo statuto dell'Universita' di Firenze, approvato e, modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-  
-Nell'art. 76, relativo al corso di laurea in fisica, indirizzo applicativo, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:   
-esercitazioni di astronomia.   
+Nell'art. 130, relativo al corso di laurea in architettura, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+morfologia dei componenti.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 maggio 1983
+### Dato a Selva di Val Gardena, addi' 2 settembre 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 15 febbraio 1984
+Registrato alla Corte dei conti, addi' 30 gennaio 1984
 
-Registro n. 8 Istruzione, foglio n. 77
+Registro n. 4 Istruzione, foglio n. 396

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1985 n. 902
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 588
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1985 n. 902
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 588
+============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazione allo statuto dell'Universita' degli studi di Bologna.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Bologna approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il teste unico delle leggi sull'istruzione superiore, approvato con [regio decreti 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -39,25 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 149, relativo al corso di laurea in ingegneria all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-  
-strutture speciali (semestrale);  
-complementi di elettrotecnica;  
-ingegneria del territorio;  
-misure elettroniche.  
+Nell'art. 154, relativo al corso di laurea in scienze agrarie, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+tecnologia delle bevande alcooliche.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 ottobre 1985
+### Dato a Roma, addi' 28 marzo 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 7 febbraio 1986
+Registrato alla Corte dei conti, addi' 15 ottobre 1983
 
-Registro n. 7 Istruzione, foglio n. 275
+Registro n. 66 Istruzione, foglio n. 141

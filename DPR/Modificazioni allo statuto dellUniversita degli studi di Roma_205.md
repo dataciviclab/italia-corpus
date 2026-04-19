@@ -1,396 +1,134 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1962 n. 273
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1980 n. 258
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1962 n. 273
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1980 n. 258
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere e dal Consiglio universitario nazionale;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione e del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), modificato con [regio decreto 26 ottobre 1939, n. 2069](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;2069), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Veduto il [decreto del Presidente della Repubblica 26 luglio 1960, n. 1692](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-07-26;1692);  
-Veduta la [legge 21 luglio 1961, n. 685](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-21;685);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso.  
-Gli articoli 83 e 84 sono abrogati e sostituiti dai seguenti:  
-  
-Art. 83. - La Facolta' di scienze matematiche fisiche e naturali conferisce le seguenti lauree:  
-in Chimica in Chimica industriale;  
-in Fisica;  
-in Matematica;  
-in Scienze naturali;  
-in Scienze biologiche;  
-in Scienze geologiche.  
-  
-Art. 84. - La Facolta' comprende i seguenti istituti:  
-1) Istituto di Chimica - suddiviso nei laboratori di:  
-a) Chimica analitica;  
-b) Chimica fisica ed elettrochimica;  
-c) Chimica generale ed inorganica;  
-d) Chimica organica;  
-2) Istituto di Fisica;  
-3) Istituto di Antropologia;  
-4) Istituto di Mineralogia e Petrografia - suddiviso nei laboratori di: Mineralogia e Petrografia;  
-5) Istituto di Geologia e Paleontologia - suddiviso nei laboratori di: Geologia e Paleontologia;  
-6) Istituto di Anatomia comparata;  
-7) Istituto di Zoologia;  
-8) Istituto di Fisiologia generale;  
-9) Istituto di Botanica con annesso orto;  
-10) Osservatorio astronomico;  
-11) Istituto di Disegno;  
-12) Istituto di Matematica con annessi laboratori di:  
-a) Analisi matematica, e numerica;  
-b) Geometria;  
-c) Meccanica e Fisica matematica;  
-d) Calcolo delle probabilita';  
-13) Istituto di Geochimica;  
-14) Istituto di Scienza dell'alimentazione.  
-Gli articoli 89 e 90, relativi al corso di studi per la laurea in Fisica, sono abrogati e sostituiti dai seguenti:  
-  
-Art. 89. - La durata del corso degli studi per la laurea in Fisica e' di quattro anni.  
-E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica. Possono inoltre essere ammessi i diplomati degli Istituti tecnici industriali, agrari, nautici e per geometri, ai sensi delle vigenti disposizioni di legge.  
-Il corso di studi si distingue in tre indirizzi:  
-a) generale;  
-b) didattico;  
-c) applicativo.  
-  
-Art. 90. - Sono insegnamenti fondamentali obbligatori, comuni a tutti gli indirizzi indicati dall'articolo successivo, per il primo biennio:  
-1) Fisica generale I;  
-2) Analisi matematica I;  
-3) Geometria I;  
-4) Chimica con esercitazione di laboratorio;  
-5) Esperimentazione fisica (biennale);  
-6) Fisica generale II;  
-7) Analisi matematica II;  
-8) Meccanica razionale.  
-L' insegnamento biennale di Esperimentazione fisica importa un unico esame alla fine del primo biennio.  
-Alla fine del biennio si richiede una prova di conoscenza di due delle seguenti lingue: francese, inglese, russo, tedesco.  
-I corsi di Fisica generale I e Fisica generale II sono integrati rispettivamente dai corsi di Esercitazioni denominati seminario per studenti I e seminario per studenti II.  
-Anche i corsi di Analisi matematica I ed Analisi di matematica II, Geometria I e Meccanica razionale sono integrati da corsi di Esercitazioni.  
-  
-Art. 91. - Secondo biennio.  
-  
-a) Indirizzo generale:  
-Gli insegnamenti obbligatori sono i seguenti:  
-1) Struttura della materia;  
-2) Istituzioni di fisica teorica;  
-3) Metodi matematici della fisica;  
-4) Laboratorio di fisica I;  
-5) Corso a scelta tra i complementari contrassegnati con la lettera G;  
-6) Fisica superiore;  
-7) Fisica teorica;  
-8) Laboratorio di fisica II;  
-9) Corso a scelta tra i complementari contrassegnati con la lettera G.  
-Uno dei corsi a scelta dovra' essere fra quelli contrassegnati con la lettera (M).  
-  
-b) Indirizzo didattico:  
-  
-Gli insegnamenti obbligatori sono i seguenti:  
-1) Struttura della materia;  
-2) Istituzioni di fisica teorica;  
-3) Metodi matematici della fisica;  
-4) Complementi di fisica generale I;  
-5) Preparazione esperienze didattiche I;  
-6) Storia della fisica;  
-7) Complementi di fisica generale II;  
-8) Preparazione esperienze didattiche II;  
-9) Corso a scelta tra i complementari contrassegnati con la lettera D.  
-Qualora il Corso di storia della Fisica non venisse svolto, gli studenti dovranno seguire un altro corso tra i complementari contrassegnati con la lettera D.  
-  
-c) Indirizzo applicativo:  
-  
-Gli insegnamenti obbligatori sono i seguenti:  
-1) Struttura della materia;  
-2) Istituzioni di fisica teorica;  
-3) Metodi matematici della fisica;  
-4) Laboratorio di fisica I:  
-5) Laboratorio di fisica II;  
-6-7) Corsi complementari stabiliti dalla Facolta' nell'ordine degli studi;  
-8-9) Corsi complementari a scelta dello studente fra quelli contrassegnati nell'elenco con la lettera A.  
-I corsi di struttura della materia, Istituzioni di fisica teorica, Metodi matematici della fisica, Fisica superiore, Fisica teorica, Complementi di fisica generale I e II possono essere accompagnati da Esercitazioni che ne fanno parte integrante.  
-Sono insegnamenti complementari i seguenti:  
-G Analisi superiore (M);  
-G D Astronomia;  
-G D Astrofisica;  
-G A Calcolatori elettronici;  
-G A Calcolo numerico;  
-G D A Chimica, fisica;  
-G A Cibernetica:  
-G A Elettroacustica;  
-G D A Elettronica;  
-G A Elettronica applicata;  
-G D A Elettromagnetismo;  
-G Fisica della ionosfera;  
-G A Fisica dei solidi;  
-G D Fisica matematica;  
-G D A Fisica nucleare;  
-D A Fisica superiore;  
-G D A Fisica terrestre;  
-D A Fisica teorica;  
-G Geometria differenziale (M);  
-G D A Istituzioni di fisica nucleare;  
-G Geomagnetismo;  
-G A Logica matematica (M);  
-G D Matematiche superiori (V);  
-G D A Meccanica dei fluidi;  
-G D A Meccanica statistica;  
-G D Meccanica superiore;  
-G A Meteorologia;  
-G A Raggi cosmici;  
-G D A Spettroscopia;  
-G Sismologia;  
-G A Tecnica della programmazione;  
-G Teoria dei gruppi (M);  
-G A Teoria delle funzioni (M);  
-G Teorie relativistiche;  
-G D Teorie quantistiche.  
-  
-Alcuni dei corsi sopra elencati possono essere semestrali: in tal caso due corsi semestrali, pur avendo esami distinti equivalgono ad uno annuale.  
-  
-Art. 92. - Condizione di ammissione al secondo biennio e' l'aver superato gli esami di Fisica generale I, Fisica generale II, Analisi matematica I ed Analisi matematica II.  
-Non si puo' essere ammessi a superare gli esami indicati nella prima colonna della tabella seguente se non si e' superato l'esame corrispondente nella seconda colonna:  
-non si puo essere ammessi se non si e superato lo sostenere l'esame di: esame di:  
-Fisica generale II; Fisica generale I;  
-Fisica teorica; Istituzioni di fisica  
-teorica;  
-Fisica superiore; Struttura della materia Analisi matematica II;  
-Analisi matematica I:  
-Fisica nucleare; Istituzioni di fisica nucleare;  
-Elettronica applicata; Elettronica;  
-Istituzioni di fisica Lingue;  
-teorica Struttura della Lingue.  
-materia.  
-  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami obbligatori.  
-  
-Art. 93. - L'esame di laurea consiste:  
-a) in una prova di cultura generale di fisica:  
-b) nella discussione di una tesi scritta il cui argomento dovra' inquadrarsi nell'indirizzo scelto dallo studente ed essere approvato dal direttore dell'Istituto di fisica. Alla tesi non si richiedera' necessariamente il carattere di ricerca originale: essa dovra' essere presentata almeno venti giorni prima dell'esame;  
-c) nella esposizione e commento di uno tra due argomenti assegnati al candidato da un professore di ruolo o incaricato, o da un assistente di ruolo, almeno tre mesi prima dell'esame.  
-Superato l'esame di laurea lo studente consegue il titolo di dottore in Fisica, indipendentemente dallo indirizzo prescelto, del quale verra' fatta menzione soltanto nella carriera scolastica.  
-Gli articoli gia' 91 e 92, relativi al corso di studi per la laurea in scienze matematiche sono abrogati e sostituiti dai seguenti:  
-  
-Art. 94. - La durata del corso degli studi per la laurea in Matematica e' di quattro anni.  
-E' titolo di ammissione il diploma di maturita' classica o scientifica. Possono inoltre essere ammessi i diplomati dagli Istituti tecnici industriali, agrari, nautici e per geometri, ai sensi delle vigenti disposizioni di legge. Il corso degli studi si distingue in tre indirizzi: generale, didattico, applicativo.  
-Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi:  
-  
-1° Anno:  
-1) Analisi matematica I;  
-2) Geometria I;  
-3) Algebra;  
-4) Fisica generale I;  
-  
-2° Anno:  
-1) Analisi matematica II;  
-2) Geometria II;  
-3) Meccanica razionale;  
-4) Fisica generale II;  
-  
-3° Anno:  
-1) Istituzioni di analisi superiore;  
-2) Istituzioni di geometria superiore;  
-3) Istituzioni di fisica matematica;  
-  
-Sono inoltre insegnamenti obbligatori;  
-  
-a) per indirizzo generale;  
-  
-4° Anno:  
-1) Analisi superiore;  
-2) Geometria superiore;  
-  
-b) per indirizzo didattico:  
-  
-3° Anno:  
-1) Matematiche complementari I.  
-  
-4° Anno:  
-2) Matematiche complementari II;  
-  
-c) per indirizzo applicativo:  
-  
-3° Anno:  
-1) Analisi numerica;  
-  
-4° Anno:  
-2) Calcolo delle probabilita' o astronomia;  
-  
-Sono insegnamenti complementari quelli dei seguenti elenchi:  
-  
-a) per indirizzo generale:  
-Algebra superiore Analisi funzionale;  
-Analisi numerica;  
-(\*) Astrofisica;  
-(\*) Astronomia;  
-(\*) Calcolatori elettronici;  
-Calcolo delle probabilita';  
-(\*) Chimica con esercitazioni di laboratorio (per fisici):  
-(\*) Complementi di Fisica generale;  
-Economia matematica;  
-Elettromagnetismo;  
-(\*) Fisica Matematica;  
-(\*) Fisica nucleare;  
-(\*) Fisica teorica;  
-(\*) Geodesia;  
-Geometria algebrica;  
-Geometria differenziale;  
-(\*) Istituzioni di fisica teorica;  
-Logica matematica;  
-Matematica finanziaria ed attuariale;  
-Matematiche complementari I;  
-Matematiche complementari II;  
-Matematiche elementari da un punto di vista superiore;  
-Matematiche superiori;  
-(\*) Meccanica celeste;  
-(\*) Meccanica dei fluidi;  
-(\*) Meccanica quantistica;  
-(\*) Meccanica statistica;  
-(\*) Meccanica superiore;  
-Pedagogia;  
-Statistica matematica;  
-Storia delle matematiche;  
-Struttura della materia;  
-Teoria delle funzioni;  
-Teoria dei numeri;  
-Teoria dei gruppi;  
-(\*) Teorie relativistiche;  
-Topologia;  
-  
-b) per indirizzo didattico:  
-Algebra superiore;  
-Analisi funzionale;  
-Analisi numerica;  
-Analisi superiore;  
-(\*) Astrofisica;  
-(\*) Astronomia;  
-(\*) Calcolatori elettronici;  
-(\*) Chimica con esercitazioni di laboratorio (per fisici);  
-(\*) Complementi di fisica generale;  
-Economia matematica;  
-(\*) Elettromagnetismo;  
-(\*) Fisica matematica;  
-(\*) Fisica nucleare;  
-(\*) Fisica teorica;  
-(\*) Geodesia;  
-Geometria algebrica;  
-Geometria differenziale;  
-Geometria superiore;  
-(\*) Istituzioni di fisica teorica;  
-Logica matematica;  
-Matematica finanziaria ed attuariale;  
-Matematiche elementari da un punto di vista superiore:  
-Matematiche superiori;  
-(\*) Meccanica celeste;  
-(\*) Meccanica dei fluidi;  
-(\*) Meccanica quantistica;  
-(\*) Meccanica superiore;  
-Pedagogia:  
-Statistica matematica;  
-Storia delle matematiche;  
-Struttura della materia;  
-Teoria delle funzioni;  
-Teoria dei numeri;  
-(\*) Teorie relativistiche;  
-Topologia.  
-  
-c) per indirizzo applicativo:  
-Algebra superiore;  
-Analisi funzionale;  
-Analisi superiore;  
-(\*) Astrofisica;  
-(\*) Astronomia (se non gia' scelto fra gli obbligatori);  
-(\*) Calcolatori elettronici;  
-Calcolo delle probabilita'. (se non gia' scelto fra gli obbligatori);  
-(\*) Chimica con esercitazioni di Laboratorio (per fisici);  
-(\*) Complementi di fisica generale;  
-Economia matematica;  
-Elettromagnetismo;  
-(\*) Fisica matematica;  
-(\*) Fisica nucleare:  
-(\*) Fisica teorica;  
-(\*) Geodesia;  
-Geometria algebrica;  
-Geometria differenziale;  
-Geometria superiore;  
-(\*) Istituzioni di Fisica teorica;  
-Logica matematica;  
-Matematica finanziaria ed attuariale;  
-Matematiche complementari I;  
-Matematiche complementari II;  
-Matematiche elementari da un punto di vista superiore;  
-Matematiche superiori;  
-(\*) Meccanica celeste:  
-(\*) Meccanica dei fluidi;  
-(\*) Meccanica quantistica;  
-(\*) Meccanica statistica;  
-(\*) Meccanica superiore;  
-Pedagogia;  
-Statistica matematica;  
-Storia delle matematiche;  
-Struttura della materia;  
-Tecnica della programmazione;  
-Teoria delle funzioni;  
-Teoria dei numeri;  
-(\*) Teorie relativistiche;  
-Topologia.  
-  
-Degli insegnamenti complementari sopraddetti lo studente deve sceglierne due, di cui uno almeno tra quelli con asterisco (ad indirizzo fisico).  
-Per l'indirizzo generale uno sara' seguito al 3° anno e l'altro al 4° anno.  
-Per l'indirizzo didattico e applicativo saranno seguiti entrambi al 4° anno.  
-Gli insegnamenti fondamentali del 1° e del 2° anno sono accompagnati ciascuno da un corso di esercitazioni che ne e' parte integrante.  
-Potranno essere iscritti al 2° anno soltanto quegli studenti che abbiano superato almeno due degli esami di: Analisi matematica I.  
-Geometria I, Algebra.  
-Per essere ammesso agli esami di laurea lo studente deve aver seguiti i corsi e superati gli esami in tutti gli insegna menti obbligatori ed in quelli complementari da lui scelti.  
-L'esame di laurea comprende: a) un preliminare esame di cultura generale nelle scienze matematiche; b) la discussione di un lavoro scritto il quale, per la laurea con indirizzo generale, dovra' essere una ricerca originale; c) la discussione di una tesina orale scelta dalla Commissione fra due assegnate.  
-  
-Art. 95. Ai fini della propedeuticita' degli esami dei diversi insegnamenti vale la seguente tabella:  
-non si puo essere ammessi se non si e superato l'esame a sostenere l'esame di: di:  
-Analisi matematica II; Analisi matematica I;  
-Geometria II; Geometria I;  
-Fisica generale II; Fisica generale I;  
-Meccanica razionale; Fisica sperimentale I;  
-Analisi Matematica I; Geometria I;  
-Istituzioni di analisi Analisi matematica II;  
-superiori;  
-Istituzioni di Geometria; Geometria II, Algebra; superiore;  
-Istituzioni di Fisica Meccanica razionale,  
-matematica; Fisica generale II;  
-Analisi superiore; Istituzioni di analisi superiore;  
-Analisi numerica; Analisi matematica II;  
-Calcolo delle probabilita'; Istituzioni di analis i  
-superiore;  
-Matematiche complementari I Analisi matematica II;  
-Geometria II, Algebra;  
-Matematiche complementari II Matematiche  
-Complementari I  
-  
-Gli articoli gia' 93 e 94 relativi al corso di studi per la laurea in matematica e fisica sono soppressi.  
+L'art. 31 e' sostituito dal seguente:   
+"Ogni indirizzo comprende insegnamenti obbligatori e altri insegnamenti fra i quali lo studente deve scegliere, secondo le modalita' del successivo art. 34, quelli necessari per completare il suo piano di studi.   
+Gli insegnamenti obbligatori sono indicati nel successivo art. 32.   
+Gli insegnamenti a scelta dello studente ed annualmente attivati sono indicati per ciascun indirizzo, nell'elenco annuale predisposto dalla facolta' ai sensi del medesimo art. 32".   
+L'art. 32, relativo al biennio di specializzazione per il conseguimento della laurea in scienze politiche, e' sostituito dal seguente:   
+"Gli insegnamenti obbligatori attinenti a ciascuno dei quattro indirizzi sono i seguenti:   
+a) Indirizzo politico-amministrativo:   
+1) diritto amministrativo (biennale);   
+2) istituzioni di diritto e procedura penale;   
+3) diritto tributario o diritto finanziario;   
+4) contabilita' di Stato e degli enti pubblici.   
+b) Indirizzo politico-economico:   
+1) politica economica e finanziaria;   
+2) storia e politica monetaria;   
+3) scienza delle finanze;   
+4) economia internazionale;   
+5) statistica economica.   
+c) Indirizzo politico-internazionale:   
+1) storia dei trattati e politica internazionale;   
+2) diritto internazionale pubblico;   
+3) organizzazione internazionale;   
+4) economia internazionale;   
+5) geografia politica ed economica.   
+d) Indirizzo storico-politico:   
+1) storia contemporanea (corso monografico);   
+2) storia moderna (corso monografico);   
+3) storia dei trattati e politica internazionale;   
+4) storia delle istituzioni politiche;   
+5) scienza della politica.   
+Gli insegnamenti a scelta dello studente sono indicati, dalla facolta', per ogni indirizzo con apposito elenco predisposto all'inizio di ogni anno accademico, nell'ambito dei seguenti:   
+1) demografia;   
+2) diritto aerospaziale;   
+3) diritto agrario italiano e, comparato;   
+4) diritto amministrativo (annuale);   
+5) diritto del lavoro e
+
+((legislazione))
+
+sociale;   
+6) diritto delle Comunita' europee;   
+7) diritto dell'impresa;   
+8) diritto ecclesiastico italiano e comparato;   
+9) diritto finanziario o diritto tributario;   
+10) diritto internazionale privato;   
+11) diritto parlamentare;   
+12) diritto pubblico dell'economia;   
+13) diritto regionale;   
+14) econometrica;   
+15) economia e politica dello sviluppo;   
+16) economia e politica agraria;   
+17) economia e politica bancaria;   
+18) economia e politica industriale;   
+19) economia e politica dei trasporti;   
+20) economia e politica regionale e del territorio;   
+21) economia e politica sindacale e del lavoro;   
+22) filosofia del diritto;   
+23) filosofia della politica;   
+24) matematica per le scienze sociali;   
+25) ordinamento della famiglia;   
+26) politica economica e finanziaria;   
+27) programmazione economica;   
+28) scienza dell'amministrazione;   
+29) sociologia politica;   
+30) storia dei partiti e dei movimenti politici;   
+31) storia dei rapporti tra Stato e Chiesa;   
+32) storia del giornalismo;   
+33) storia dell'America del nord;   
+34) storia dell'America latina;   
+35) storia della sociologia;   
+36) storia delle dottrine economiche;   
+37) storia delle istituzioni politiche;   
+38) storia dell'Europa orientale;   
+39) storia del Risorgimento;   
+40) storia economica;   
+41) storia e istituzioni dei Paesi afroasiatici.   
+Per ogni indirizzo, l'elenco predisposto dalla facolta' non puo' comprendere piu' di quindici insegnamenti annuali, compresi quelli obbligatori del medesimo indirizzo,".   
+L'art. 34 e' sostituito dal seguente:   
+"Lo studente, all'inizio del terzo anno di corso, sceglie uno degli indirizzi e aggiunge agli insegnamenti obbligatori previsti per detto indirizzo gli altri insegnamenti a sua scelta, necessari per completare il suo piano di studi, fra quelli attivati e indicati per ciascun indirizzo nell'elenco annuale, predisposto dalla facolta', ai sensi del precedente art. 32.   
+Gli insegnamenti scelti dallo studente possono appartenere anche a indirizzi diversi da quello da lui indicato, o ad altre facolta'.   
+In tal caso il piano degli studi dovra' essere sottoposto all'approvazione della facolta'".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 marzo 1962
+### Dato a Roma, addi' 14 aprile 1980
 
-GRONCHI GUI
+PERTINI SARTI
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 19 maggio 1962
+Registrato alla Corte dei conti, addi' 16 giugno 1980
 
-Atti del Governo, registro n. 147, foglio n. 56. - VILLA
+Registro n. 56 Istruzione, foglio n. 150

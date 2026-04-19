@@ -1,44 +1,95 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1954 n. 1009
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 219
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1954 n. 1009
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 219
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Perugia e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), modificato con [regi decreti 7 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-07;1471); [17 ottobre 1941, n. 1205; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1941-10-17;1205) [5 ottobre 1946, n. 309 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-05;309) [28 Luglio 1950, n. 936](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-28;936); [30 ottobre 1950, n. 1128](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1128); [11 aprile 1951, n. 472](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;472); [27 ottobre 1951, n. 1675](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1675); [14 marzo 1952, n. 768](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-03-14;768); [11 marzo 1953, n. 457](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;457) e [6 ottobre 1953, n. 1110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-10-06;1110);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere de Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'universita' per gli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 27. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di:  
-10) Medicina del lavoro;  
-11) Urologia;  
-12) Storia della medicina.  
+Nell'art. 37, relativo al corso di laurea in materie letterarie della facolta' di magistero, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+antichita' e istituzioni medievali;  
+archivistica generale e storia degli archivi;  
+docimologia;  
+filologia dantesca filologia latina;  
+filosofia del linguaggio;  
+filosofia della politica;  
+filosofia della storia;  
+letterature comparate;  
+metodologia delle scienze sociali;  
+ordinamenti degli antichi stati italiani;  
+storia dell'arte umbra;  
+storia della Chiesa antica;  
+storia delle dottrine morali;  
+storia del giornalismo;  
+storia delle istituzioni religiose;  
+storia dei partiti e dei movimenti politici.  
+Nell'art. 38, relativo al corso di laurea in pedagogia della facolta' di magistero, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+didattica della filosofia;  
+didattica della geografia;  
+didattica dell'italiano;  
+didattica delle lingue classiche;  
+didattica della storia;  
+docimologia;  
+educazione degli adulti;  
+educazione sanitaria;  
+filosofia del linguaggio;  
+filosofia della storia;  
+filosofia della politica;  
+metodologia delle scienze sociali;  
+pedagogia comparata;  
+pedagogia sperimentale;  
+pedagogia e psicologia delle comunicazioni di massa psicologia del lavoro;  
+psicolinguistica;  
+psicologia sociale;  
+sociologia della comunicazione e della cultura;  
+storia della pedagogia;  
+storia della storiografia filosofica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Dogliani, addi' 14 settembre 1954
+### Dato a Roma, addi' 10 gennaio 1985
 
-EINAUDI MARTINO
+PERTINI
 
-Visto, il Guardasigilli: DE PIETRO
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 30 ottobre 1954
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Atti del Governo, registro n. 86, foglio n. 183. - CARLOMAGNO
+Registrato alla Corte dei conti, addi' 20 maggio 1985
+
+Registro n. 33 Istruzione, foglio n. 73

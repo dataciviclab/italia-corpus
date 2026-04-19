@@ -1,216 +1,73 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1985 n. 538
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1954 n. 1458
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1985 n. 538
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1954 n. 1458
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090) e modificato con [regio decreto 13 ottobre 1927, n. 2281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2281), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
-
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Gli articoli da 769 a 779, relativi alla scuola di specializzazione in tecnologia avicola e patologia aviare, sono sostituiti dai seguenti con il conseguente spostamento della numerazione degli articoli successivi:  
+Veduto lo statuto dell'Universita' degli, studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con i [regi decreti 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;1904); [4 maggio 1942, n. 557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-05-04;557); [5 settembre 1942, n. 1120, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-09-05;1120) [26 febbraio 1949, n. 612](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;612); [23 settembre 1949, n. 931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;931); [30 ottobre 1949, n. 1059](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1059); [5 aprile 1950, n. 284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-04-05;284); [30 ottobre 1950, n. 1277](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1277); [31 ottobre 1950, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1311); [18 aprile 1951, n. 934](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;934); [30 luglio 1951, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-07-30;1304); [27 ottobre 1951, n. 1680](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1680); [19 settembre 1952, n. 4551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-19;4551); [25 agosto 1953, n. 1117](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;1117); [26 aprile 1954, n. 738](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;738); [30 giugno 1954, n. 753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;753); [31 luglio 1954, n. 865](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-07-31;865) e [24 agosto 1954, n. 987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-08-24;987);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Scuola di specializzazione in tecnologia avicola e patologia aviare Art. 769. - E' istituita presso l'Universita' di Napoli la scuola di specializzazione in tecnologia avicola e patologia aviare che conferisce il diploma di specialista in tecnologia avicola e patologia aviare.  
-Art. 770. - La direzione della scuola ha sede presso la cattedra di patologia aviare della facolta' di medicina veterinaria in via F.  
-Delpino, 1 - Napoli.  
-Art. 771. - La scuola ha lo scopo di approfondire ed aggiornare la preparazione dei laureati in medicina veterinaria, creando tecnici in grado di assolvere le complesse funzioni zootecnico-sanitarie e di tecnologia negli allevamenti avicoli.  
-Art. 772. - La durata del corso e' di anni due e non e' suscettibile di abbreviazioni, per uniformita' con le altre scuole di specializzazione che si svolgono nella facolta' di medicina veterinaria dell'Universita' di Napoli.  
-Art. 773. - Il numero degli iscritti e' di cinquanta per ogni anno e complessivamente di cento per l'intero corso di studio.  
-Art. 774. - Alla scuola di specializzazione sono ammessi solo i laureati in medicina veterinaria che abbiano conseguito l'abilitazione all'esercizio professionale.  
-Art. 775. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e dalla valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
-a) la tesi nella disciplina attinente alla specializzazione;  
-b) il voto di laurea;  
-c) il voto riportato negli esami di profitto nel corso di laurea nelle materie concernenti la specializzazione;  
-d) le pubblicazioni nelle predette materie.  
-Il punteggio dei predetti titoli e' quello stabilito dal [decreto ministeriale 16 settembre 1982, pubblicato nella Gazzetta Ufficiale n. 275 del 6 ottobre 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-10-06&numeroGazzetta=275).  
-Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizioni utili nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
-Art. 776. - Le materie d'insegnamento vengono cosi' ripartite:  
+Decreta:  
   
-1° Anno:  
-1) tecnologia avicola (biennale) prima parte;  
-2) anatomia, istologia ed embriologia dei volatili;  
-3) biochimica e fisiologia;  
-4) alimentazione e scienze degli alimenti dei volatili;  
-5) patologia generale applicata alla patologia aviare;  
-6) parassitologia e malattie parassitarie dei volatili;  
-7) patologia aviare (biennale) prima parte (malattie da batteri e miceti - patologia da carenze e squilibri alimentari, da alimenti tossici e medicati - profilassi e polizia veterinaria).  
-2° Anno:  
-1) tecnologia avicola (biennale) seconda parte (approvvigionamenti dei prodotti avicoli);  
-2) allevamento e riproduzione dei volatili;  
-3) organizzazione e conduzione degli allevamenti avicoli;  
-4) anatomia patologica ed ispezione dei prodotti avicoli;  
-5) microbiologia, immunologia e diagnostica di laboratorio applicata alla patologia aviare;  
-6) patologia aviare (biennale) seconda parte (malattie da virus - profilassi e polizia veterinaria).  
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Tutti i predetti insegnamenti afferiscono alla facolta' di medicina veterinaria.  
-Art. 777. - La frequenza ai corsi e' obbligatoria.  
-Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione di esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
-Art. 778. - La scuola di specializzazione ha indirizzo teorico-pratico; gli insegnamenti e le attivita' pratiche saranno svolte sia presso la facolta' che presso, il centro sperimentale in avicoltura in localita' Varcaturo (Napoli) che la cattedra di patologia aviare ha istituito con apposita convenzione con l'amministrazione provinciale di Napoli (atto di convenzione n. 68781 del 22 settembre 1978, registrato all'ufficio del registro di Napoli - ufficio atti privati, al n. 15092/A il 26 settembre 1978).  
-Le attivita' pratiche riguarderanno l'esame clinico, anatomo-patologico ed ispettivo dei volatili e relativi esami collaterali di laboratorio di batteriologia, virologia, immunologia e parassitologia.  
-La frequenza alle attivita' didattiche e pratiche e' obbligatoria; tuttavia lo specializzando per sostenere gli esami dovra' aver frequentato almeno i 3/4 delle lezioni teoriche e pratiche effettuate.  
-Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando presso gli istituti zooprofilattici, l'Istituto superiore di sanita', i laboratori veterinari militari e le strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.  
-Art. 779. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.  
-A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.  
-Art. 780. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione Art. 781. - Per la scuola di specializzazione in tecnologia avicola e patologia aviare e' costituito un consiglio presieduto da un direttore. Il consiglio della scuola e' costituito dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).  
-Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica A. 382, al consiglio di corso di laurea in materia di coordinamento degli insegnamenti.  
-La direzione della scuola e' affidata ad un professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa.  
-In caso di motivato impedimento la direzione della scuola e' affidata ad un professore associato che insegni anche nella scuola stessa.  
-
-Art. 2
-------
-
+Dopo l'art. 304, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della "Scuola di perfezionamento in ortopedia e traumatologia".  
   
-Gli articoli da 1055 a 1063, relativi alla scuola di specializzazione in ispezione degli alimenti di origine animale, sono sostituiti dai seguenti con il conseguente spostamento della numerazione degli articoli successivi:  
+Scuola di perfezionamento in ortopedia e traumatologia  
   
-Scuola di specializzazione in ispezione degli alimenti di origine animale  
-Art. 1055. - E' istituita presso l'Universita' di Napoli la scuola di specializzazione in ispezione degli alimenti di origine animale, che conferisce il diploma di specialista in ispezione degli alimenti di - origine animale.  
-Art. 1056. - La direzione della scuola ha sede presso l'istituto di ispezione degli alimenti di origine animale della facolta' di medicina veterinaria dell'Universita' di Napoli.  
-Art. 1057. - La scuola ha lo scopo di dare ai laureati, mediante corsi teorici, esercitazioni pratiche e di laboratorio, una specifica preparazione nel settore della ispezione e della vigilanza sanitaria degli alimenti di origine animale.  
-Art. 1058. - La durata del corso di studi e' triennale e non e' suscettibile di abbreviazioni.  
-Art. 1059. - Il numero degli iscritti e' di cinquanta per ogni anno e complessivamente di centocinquanta per l'intero corso di studi.  
-Art. 1060. - Alla scuola sono ammessi solo i laureati in medicina veterinaria, in possesso dell'abilitazione all'esercizio professionale.  
-Art. 1061. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che potra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e dalla valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
-a) la tesi di laurea in disciplina attinente alla specializzazione;  
-b) il voto di laurea;  
-c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
-d) le pubblicazioni nelle predette materie.  
-La ripartizione del punteggio dei predetti titoli viene effettuata secondo quanto stabilito dal [decreto ministeriale 16 settembre 1982, pubblicato nella Gazzetta Ufficiale n. 275 del 6 ottobre 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-10-06&numeroGazzetta=275).  
-Sono ammessi alla scuola di specializzazione coloro che, in relazione ai posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
-Art. 1062. - Le materie di insegnamento sono le seguenti:  
-  
-1° Anno:  
-1) anatomia;  
-2) fisiopatologia;  
-3) approvvigionamento e conservazione degli alimenti di origine animale;  
-4) anatomia patologica;  
-5) elemento di diritto pubblico e di diritto veterinario.  
-2° Anno:  
-1) biochimica e tossicologia degli alimenti di origine animale;  
-2) malattie infettive ed infestive;  
-3) metodologia clinica applicata agli animali da macello e produttori di latte;  
-4) microbiologia alimentare e diagnostica di laboratorio;  
-5) legislazione sanitaria sulle sostanze alimentari.  
-3° Anno:  
-1) ispezione sanitaria delle carni fresche degli animali da macello e della selvaggina;  
-2) vigilanza della lavorazione e ispezione sanitaria dei prodotti dell'industria delle conserve di origine animale;  
-3) ispezione e controllo sanitario dei prodotti della pesca;  
-4) ispezione del latte e prodotti derivati e delle uova.  
-  
-Tutti i predetti corsi afferiscono alla facolta' di medicina veterinaria dell'Universita' di Napoli.  
-Art. 1063. - La frequenza ai corsi e' obbligatoria.  
-Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola e i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
-Art. 1064. - La scuola si articola in lezioni, conferenze ed esercitazioni aventi carattere teorico-pratico.  
-Queste ultime comprendono: esami anatomo-patologici su carcasse e organi di varie specie di animali da macello con formulazione del giudizio Rispettivo; esami ispettivi di insaccati, prodotti salati, scatolati, ecc...; tecniche di prelievo di campioni dei prodotti di origine animale per analisi di laboratorio; tecniche di prelievo ed invio di muscoli ed organi per l'esame batteriologico delle carni; lettura ed interpretazione del risultato; esame trichinoscopico delle carni: varie tecniche; chimica bromatologica.  
-Gli specializzandi sono tenuti a frequentare le lezioni, le dimostrazioni e le esercitazioni nei giorni e nelle sedi stabilite in cui avranno luogo.  
-Per essere ammessi all'esame teorico-pratico annuale lo specializzando deve aver frequentato almeno i 3/4 del numero totale di ore dei corsi, dimostrazioni ed esercitazioni nel relativo anno di corso.  
-Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo. L'idoneita' di tale documentata frequenza e' valutata dal consiglio della scuola compatibilmente con le finalita' didattico-scientifiche della scuola stessa.  
-Art. 1065. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.  
-A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista in ispezione degli alimenti di origine animale.  
-Art. 1066. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi di laboratorio sono stabiliti anno per anno dal consiglio di amministrazione dell'Universita' di Napoli.  
-Art. 1067. - Per la scuola di specializzazione in ispezione degli alimenti di origine animale e' costituito un consiglio presieduto da un direttore. Il consiglio della scuola e' costituito dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).  
-Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento degli insegnamenti.  
-La direzione della scuola e' affidata ad un professore ordinario o straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a un professore associato che pure insegni nella scuola medesima.  
-Art. 1068. - In via transitoria, per gli specializzandi gia' iscritti secondi il precedente ordinamento, al momento dell'entrata in vigore del presente statuto e' ammesso il passaggio al nuovo ordinamento. Il conseguimento del diploma e' condizionato dal superamento di tutti gli esami, compresi quelli relativi agli insegnamenti non previsti nel precedente ordinamento.  
-
-Art. 3
-------
-
-  
-  
-Gli articoli da 1064 a 1071, relativi alla scuola di specializzazione in alimentazione degli animali domestici, che muta denominazione in scuola di specializzazione in alimentazione animale, sono sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi:   
-  
-Scuola di specializzazione in alimentazione animale   
-Art. 1064. - E' istituita presso l'Universita' di Napoli la scuola di specializzazione in alimentazione animale, che conferisce il diploma di specialista in alimentazione animale.   
-Art. 1065. - La direzione della scuola ha sede presso l'istituto di zootecnica della facolta' di medicina veterinaria, via F. Delpino, 1 - Napoli.   
-Art. 1066. - La scuola ha lo scopo di conferire una specifica preparazione nel settore della nutrizione e dell'alimentazione animale.   
-Art. 1067. - La durata del corso di studi e' di due anni e non e' suscettibile di abbreviazione.   
-Art. 1068. - Il numero degli iscritti e' di venticinque per ogni anno e complessivamente di cinquanta per l'intero corso di studi.   
-Art. 1069. - Alla scuola sono ammessi i laureati in medicina veterinaria, in scienze della produzione animale, in scienze agrarie ed in scienze delle preparazioni alimentari.   
-Per l'ammissione alla scuola e' necessario il superamento dell'esame di Stato, qualora richiesto.   
-Art. 1070. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che potra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e dalla valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:   
-a) la tesi di laurea in disciplina attinente alla specializzazione;   
-b) il voto di laurea;   
-c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;   
-d) le pubblicazioni nelle predette materie.   
-Il punteggio dei predetti titoli e' quello stabilito dal [decreto ministeriale 16 settembre 1982, pubblicato nella Gazzetta Ufficiale n. 275 del 6 ottobre 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-10-06&numeroGazzetta=275).   
-Sono ammessi ala scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nella graduatoria compilata sulla base del punteggio complessivo riportato.   
-Art. 1071. - Le materie di insegnamento sono le seguenti:   
-  
-1° Anno:   
-1) anatomia veterinaria comparata dell'apparato digerente;   
-2) fisiologia della nutrizione;   
-3) biochimica della nutrizione;   
-4) coltivazione e conservazione dei foraggi;   
-5) analisi chimico-bromatologica e valutazione degli alimenti;   
-6) caratteristiche nutrizionali degli alimenti e loro utilizzazione produttiva;   
-7) aspetti economici e gestionali dell'alimentazione.   
-2° Anno:   
-1) esigenze nutritive e tecnica di razionamento dei poligastrici;   
-2) esigenze nutritive e tecnica di razionamento dei monogastrici e degli animali acquatici di interesse alimentare;   
-3) tecnica e industria mangimistica. Prodotti complementari;   
-4) alimentazione, produzione zootecnica e miglioramento animale;   
-5) fisiopatologia della nutrizione;   
-6) tossicologia alimentare;   
-7) legislazione sulla produzione, impiego e commercializzazione degli alimenti ad uso zootecnico.   
-  
-Gli insegnamenti afferiscono alla facolta' di medicina veterinaria, ad eccezione degli insegnamenti coltivazione e conservazione dei foraggi ed aspetti economici e gestionali dell'alimentazione che afferiscono alla facolta' di agraria.   
-Art. 1072. - La frequenza dei corsi e' obbligatoria.   
-Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico e pratico per il passaggio all'anno di corso successivo. La commissione di esami, di cui panno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.   
-Art. 1073. - La scuola si articola in lezioni, conferenze, seminari, esercitazioni tecnico-pratiche, riguardanti: tecniche di prelievo dei campioni ed invio ai laboratori di analisi, esame chimico-bromatologico degli alimenti, stima del valore nutritivo, calcolo di razioni e formulazioni di diete per animali in produzione zootecnica, sopralluoghi presso aziende zootecniche e mangimifici.   
-La frequenza e' obbligatoria; tuttavia lo specializzando per sostenere gli esami dovra' aver frequentato almeno i tre quarti delle lezioni teoriche e pratiche effettuate.   
-Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di valida documentazione, l'attivita' svolta dallo specializzando in idonee strutture di servizio attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.   
-Art. 1074. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.   
-A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.   
-Art. 1075. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge. I contributi sono stabiliti anno per anno dal consiglio di amministrazione.   
-Art. 1076. - La scuola di specializzazione e' costituita da un consiglio presieduto da un direttore.   
-Il consiglio e' composto da docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99). Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio del corso di laurea in materia di coordinamento di insegnamenti.   
-La direzione della scuola e' affidata ad un professore ordinario o straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata ad un professore associato che pure insegni nella scuola medesima.   
+Art. 305. - Alla Facolta' di medicina e chirurgia e' annessa la scuola di perfezionamento in ortopedia e traumatologia, che ha sede presso l'Istituto di clinica ortopedica.  
+La durata del corso degli studi per il conseguimento del diploma di specialista in ortopedia e traumatologia e' di tre anni.  
+Le iscrizioni non potranno superare il numero di cinque per ciascun anno. La scelta dei candidati all'ammissione sara' fatta in base a concorso per titoli e per esami. Gli aspiranti hanno l'obbligo di accertarsi presso la clinica della data del concorso.  
+La frequenza ai corsi e' obbligatoria; in mancanza non potra' ottenersi l'attestazione di frequenza, necessaria per l'ammissione agli esami.  
+Art. 306. - Le materie di insegnamento sono le seguenti:  
+1° anno:  
+1) Chirurgia infantile (annuale);  
+2) Pediatria ortopedica (annuale);  
+3) Neuropatologia dell'apparato motore (annuale);  
+4) Patologia speciale delle lesioni, malattie e deformita' congenite ed acquisite del sistema locomotore (biennale);  
+5) Anatomia chirurgica ortopedica (biennale);  
+6) Tecnica degli apparecchi (triennale);  
+7) Clinica ortopedica e traumatologica (triennale).  
+2° anno:  
+1) Anatomia patologica dello scheletro e delle articolazioni (annuale);  
+2) Anatomia radiologica, e radiodiagnostica dello scheletro (annuale);  
+3) Patologia speciale delle lesioni, malattie e deformita' congenite ed acquisite dell'apparato locomotore (biennale);  
+4) Anatomia chirurgica ortopedica (biennale);  
+5) Tecnica degli apparecchi (triennale);  
+6) Clinica ortopedica e traumatologica (triennale).  
+3° anno:  
+1) Fisioterapia e studio delle protesi (annuale);  
+2) Infortunistica (annuale);  
+3) Tecnica degli apparecchi (triennale);  
+4) Clinica ortopedica e traumatologica (triennale).  
+Art. 307.- Gli esami (tre al termine del 1° anno di corso, quattro al 2° anno di corso e quattro al 3° anno di corso) debbono essere sostenuti alla fine dell'anno accademico.  
+Art. 308.- Non possono ottenere l'iscrizione al 2° e 3° anno coloro che non hanno superato gli esami rispettivamente del 1° e 2° anno.  
+Art. 309. - Per conseguire il diploma di specialista in ortopedia e traumatologia, gli iscritti, al termine degli studi, dovranno presentare e discutere una dissertazione originale scritta e sostenere una prova pratica dinanzi ad una Commissione formata da insegnanti della scuola secondo le norme dell'art. 173 dello statuto.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 marzo 1985
+### Dato a Dogliani, addi' 29 ottobre 1954
 
-PERTINI
+EINAUDI ERMINI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DE PIETRO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 14 marzo 1955
 
-Registrato alla Corte dei conti, addi' 30 settembre 1985
-
-Registro n. 66 Istruzione, foglio n. 145
+Atti del Governo, registro n. 89, foglio n. 94. - CARLOMAGNO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1985 n. 896
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 600
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1985 n. 896
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 600
+============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -39,24 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 97, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-tecnica e diagnostica delle autopsie;  
-endocrinologia;  
-radiobiologia medica;  
-istochimica.  
+Nell'art. 53, relativo all'elenco degli insegnamenti complementari dell'indirizzo politico-amministrativo del corso di laurea in scienze politiche, e' aggiunto il seguente nuovo insegnamento:  
+amministrazione comparata.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 ottobre 1985
+### Dato a Roma, addi' 28 marzo 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 29 gennaio 1986
+Registrato alla Corte dei conti, addi' 15 ottobre 1983
 
-Registro n. 4 Istruzione, foglio n. 115
+Registro n. 66 Istruzione, foglio n. 122

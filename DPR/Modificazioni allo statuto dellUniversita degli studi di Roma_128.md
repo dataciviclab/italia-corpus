@@ -1,105 +1,94 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1980 n. 1039
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1971 n. 675
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1980 n. 1039
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1971 n. 675
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, numero 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA   
   
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate delle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-I testi degli articoli 443, 444, 445, 446, 447 e 448, relativi alla scuola di perfezionamento in scienza dell'alimentazione, che muta la denominazione in quella di scuola di specializzazione in scienza dell'alimentazione, sono sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi:   
+Decreta:   
   
-Scuola di specializzazione in scienza dell'alimentazione   
-Art. 443. - Alla facolta' di scienze matematiche, fisiche e naturali e' annessa la scuola di specializzazione in scienza dell'alimentazione.   
-Art. 444. - L'ammissione alla scuola avviene per titoli. Sono disponibili trenta posti per ciascun anno di corso, complessivamente per i tre indirizzi.   
-Art. 445. - Il corso degli studi ha la durata di tre anni e si distingue nei seguenti tre indirizzi:   
-a) indirizzo dietetico;   
-b) indirizzo nutrizionistico;   
-c) indirizzo tecnologico.   
-Art. 446. - L'indirizzo dietetico mira ad approfondire nei medici le basi teoriche e pratiche di fondamentale importanza per la dietetica preventiva e curativa ed a stimolare altresi' la ricerca scientifica nel vasto campo della nutrizione umana.   
-A tale indirizzo possono iscriversi soltanto i laureati in medicina e chirurgia.   
-L'indirizzo nutrizionistico mira alla preparazione specialistica di laureati in settori concernenti lo studio di problemi generali e speciali dell'alimentazione negli aspetti fisiologici, biochimici, igienici, ecologici, economico-sociali, nonche' a stimolare la ricerca scientifica nei sopracitati settori.   
-A tale indirizzo sono ammessi i laureati in chimica, chimica e tecnologia farmaceutiche, in farmacia, in medicina e chirurgia, in medicina veterinaria, in scienze biologiche e scienze naturali.   
-L'indirizzo tecnologico mira alla preparazione di laureati per le attivita' direttive in settori concernenti le tecnologie alimentari in funzione dei loro riflessi nutrizionali ed igienici sul prodotto finito, nonche' a stimolare la ricerca in questo settore.   
-A tale indirizzo sono ammessi i laureati in chimica, chimica industriale, chimica e tecnologia farmaceutiche, in farmacia, in ingegneria chimica, in scienze agrarie, in scienze biologiche, in scienze delle preparazioni alimentari.   
-Art. 447. - Gli insegnamenti del primo biennio della scuola sono comuni ai tre indirizzi; gli insegnamenti speciali, che qualificano i tre indirizzi, sono svolti nel terzo anno.   
-Le materie di insegnamento sono le seguenti:   
-1° Anno (comune ai tre indirizzi):   
-1) chimica degli alimenti;   
-2) biochimica della nutrizione;   
-3) fisiologia generale della nutrizione;   
-4) istituzioni di statistica applicata ai problemi alimentari. 2° Anno (comune ai tre indirizzi):   
-5) fisiologia della nutrizione umana;   
-6) igiene alimentare ed elementi di legislazione;   
-7) istituzioni di tecnologie alimentari;   
-8) biochimica patologica della nutrizione.   
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+  
+Gli articoli 517, 518, 519, 520 e 521, relativi alla "Scuola di specializzazione in ematologia" che assume la denominazione di "Scuola di specializzazione in ematologia clinica e di laboratorio" sono abrogati e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in ematologia clinica e di laboratorio   
+Art. 517. - La scuola di specializzazione in ematologia clinica e di laboratorio ha sede nell'istituto di patologia speciale medica.   
+Il corso degli studi ha la durata di tre anni. Il numero degli iscritti complessivo per i tre anni, non sara' superiore a trentasei (dodici per anno di corso).   
+Le iscrizioni sono condizionate da un esame preliminare di ammissione; qualora il numero degli aspiranti sia superiore al numero dei posti disponibili, per l'accettazione si potra' tener conto anche degli eventuali titoli.   
+Art. 518. - Gli insegnamenti impartiti nella scuola sono i seguenti:   
+1) Morfologia e morfogenesi normale e patologia del sangue (biennale);   
+2) Genetica ematologica (annuale);   
+3) Fisiopatologia della coagulazione e dell'emostasi (annuale);   
+4) Fisiopatologia ematologica (biennale);   
+5) Biochimica ematologica (annuale);   
+6) Fisiopatologia del plasma (annuale);   
+7) Immunoematologia (annuale);   
+8) Tecniche di laboratorio inerenti all'ematologia (triennale);   
+9) Nozioni di radio-biologia e di medicina nucleare applicata all'ematologia (annuale);   
+10) Radiodiagnostica e radioterapia ematologica (annuale);   
+11) Patologia speciale ematologica (biennale);   
+12) Clinica delle emopatie (biennale);   
+13) Anatomia e istologia patologica delle emopatie e fondamenti di oncologia (annuale);   
+14) Terapia sistematica ematologica (annuale);   
+15) Terapia trasfusionale (annuale).   
+Vengono inoltre quotidianamente tenute, al letto del malato, esercitazioni di semeiotica clinica, di diagnostica differenziale, di terapia, esercitazioni teorico-pratiche nei laboratori. Gli iscritti hanno l'obbligo di frequentare l'istituto di anatomia patologica, per assistere alle necroscopie dei cadaveri per malattie del sangue e per le esercitazioni di istologia patologica.   
+Art. 519. - La ripartizione degli insegnamenti fra i tre anni di corso e' la seguente:   
+1° Anno:   
+1) Morfologia e morfogenesi normale e patologica del sangue;   
+2) Genetica ematologica;   
+3) Fisiopatologia della coagulazione e dell'emostasi;   
+4) Fisiopatologia ematologica;   
+5) Biochimica ematologica;   
+6) Fisiopatologia del plasma;   
+7) Tecniche di laboratorio inerenti all'ematologia.   
+2° Anno:   
+1) Morfologia e morfogenesi normale e patologica del sangue;   
+2) Fisiopatologia ematologica;   
+3) Immunoematologia;   
+4) Tecniche di laboratorio inerenti all'ematologia;   
+5) Patologia speciale ematologica;   
+6) Clinica delle emopatie;   
+7) Anatomia e istologia patologica delle emopatie e fondamenti di oncologia.   
 3° Anno:   
-a) indirizzo dietetico:   
-9) alimentazione umana;   
-10) dietetica nell'eta' adulta;   
-11) dietetica nell'infanzia;   
-12) dietetica per le collettivita';   
-13) malattie dell'alimentazione e dietoterapia;   
-14) dietetica ospedaliera e organizzazione dei relativi servizi;   
-b) indirizzo nutrizionistico:   
-9) alimentazione umana;   
-10) alimentazione degli animali da allevamento e da lavoro;   
-11) ecologia e geografia dell'alimentazione;   
-12) economia e statistica applicata all'alimentazione;   
-13) tecnica dei rilevamenti alimentari;   
-14) analisi chimiche degli alimenti; additivi chimici, sofisticazioni e adulterazioni alimentari;   
-c) indirizzo tecnologico:   
-9) microbiologia e chimica delle fermentazioni nell'industria alimentare;   
-10) tecnologie industriali di preparazione, conservazione e confezionamento degli alimenti di origine animale;   
-11) tecnologie industriali di preparazione, conservazione e confezionamento degli alimenti di origine vegetale;   
-12) analisi chimiche degli alimenti, additivi chimici, sofisticazioni e adulterazioni alimentari.   
-Art. 448. - Il consiglio della scuola ha la facolta' di inserire uno o piu' insegnamenti complementari nei vari anni di corso e stabilire gli insegnamenti per i quali debbono essere svolte anche esercitazioni.   
-I corsi impartiti nella scuola possono essere integrati da conferenze su argomenti speciali.   
-La scuola conferisce il diploma di specializzazione in scienza dell'alimentazione con l'indicazione dello indirizzo seguito.   
-Per conseguire il diploma il candidato, dopo aver superato gli esami in tutte le materie di insegnamento assegnategli dal consiglio della scuola, deve presentare e discutere una dissertazione scritta su argomento riguardante la scienza dell'alimentazione nell'ambito dell'indirizzo prescelto.   
-Coloro che hanno conseguito il diploma di specializzazione per uno dei tre indirizzi, potranno essere iscritti al terzo anno di un altro indirizzo nell'ambito della disponibilita' dei posti e sempre che il titolo di studio posseduto consenta l'accesso.   
+1) Tecniche di laboratorio inerenti all'ematologia;   
+2) Nozioni di radiobiologia e di medicina nucleare applicate all'ematologia;   
+3) Radiodiagnostica e radioterapia ematologica;   
+4) Patologia speciale ematologica;   
+5) Clinica delle emopatie;   
+6) Terapia sistematica ematologica;   
+7) Terapia trasfusionale.   
+Art. 520. - La frequenza alle lezioni ed alle esercitazioni nei reparti, negli ambulatori, nei laboratori e nella sala incisoria dell'istituto di anatomia patologica e' obbligatoria.   
+Gli iscritti non possono essere ammessi agli esami se non abbiano ottenuto le relative attestazioni di frequenza.   
+Art. 521. - Gli esami di profitto vengono sostenuti alla fine di ciascun anno di corso, secondo le disposizioni che verranno stabilite nel manifesto della scuola.   
+Gli iscritti non potranno essere ammessi al secondo o al terzo anno di corso se non avranno superato gli esami di tutti gli insegnamenti prescritti rispettivamente per il 1° e il 2° anno.   
+L'esame di diploma si svolge con le norme dell'art. 422.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbliga a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1980
+### Dato a Roma, addi' 19 maggio 1971
 
-PERTINI BODRATO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 31 gennaio 1981
+Registrato alla Corte dei conti, addi' 21 agosto 1971
 
-Registro n. 9 Istruzione, foglio n. 70
+Atti del Governo, registro n. 243, foglio n. 164. - PASQUALUCCI

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 settembre 1955 n. 941
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 maggio 1978 n. 644
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 settembre 1955 n. 941
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 maggio 1978 n. 644
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), modificato con i [regi decreti 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2230); [30 ottobre 1930, n. 1826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1826); [1 ottobre 1931, numero 1441](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-01;1441); [6 dicembre 1934, n. 2449](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-06;2449); [1 ottobre 1936, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2475); [27 ottobre 1937, n. 2620](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1937-10-27;2620); [5 maggio 1939, n. 1165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-05-05;1165); [12 ottobre 1939, n. 1712](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-10-12;1712); [26 ottobre 1940, n. 2057](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2057); [27 aprile 1942, n. 467](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-04-27;467); [24 ottobre 1942, n. 1439; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1439) [11 giugno 1950, n. 616](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;616); [30 ottobre 1950, n. 1127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1127); [30 ottobre 1950, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1304); [30 giugno 1951, n. 957](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-30;957); [27 ottobre 1951, n. 1681](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1681); [23 gennaio 1952, n. 168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;168); [26 ottobre 1952, numero 4557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4557); [26 ottobre 1952, n. 4543](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4543); [10 febbraio 1953, n. 376](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;376); [30 luglio 1953, n. 710](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;710); [2 marzo 1954, n. 183](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-02;183); [14 settembre 1954, n. 1202](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1202); [22 gennaio 1955, n. 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-01-22;69); [16 febbraio 1955, n. 120](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-16;120) e [19 luglio 1955, n. 761](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-19;761);
+Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -22,119 +22,713 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la, particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come segue:
 
-Art. 58. - Agli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto quello di "lingua e letteratura straniera" (annuale, diversa da quella scelta come insegnamento fondamentale).
+Art. 82 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto quello di citologia.
 
-Art. 66. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di "storia della medicina".
+Gli articoli 100, 102, 103, 104, 105, 106, 109, 110 e 111 relativi al corso di laurea in ingegneria, sono modificati nel modo seguente:
 
-Dopo l'art. 142 (gia' 135), sono aggiunti i seguenti nuovi articoli, relativi alla creazione dell'Istituto di studi francesi, con il conseguente spostamento della numerazione degli articoli successivi.
+Art. 100 - al terzo capoverso l'insegnamento di:
 
-Istituto di studi francesi.
+n. 9) calcolo sensoriale e delle matrici con applicazioni geometriche (obbligatorio su piano della facolta) per il corso di laurea in ingegneria civile e' sostituito dal seguente:
 
-Art. 143. - E' istituito presso l'Universita' di Firenze un Istituto di studi francesi, con la collaborazione di Enti francesi, allo scopo di fornire una preparazione piu' approfondita a coloro che si avviano all'insegnamento della lingua e letteratura francese nelle scuole secondarie.
+9) calcolo sensoriale e meccanica dei continui (obbligatorio su piano della facolta) per il corso di laurea in ingegneria civile.
 
-Art. 144. - Presso l'Istituto si svolge un corso di studi di perfezionamento nella lingua e letteratura francese, della durata biennale, al termine del quale viene rilasciato a coloro che hanno superato gli esami prescritti un diploma di perfezionamento.
+Al quarto capoverso dello stesso articolo l'insegnamento di: n. 11) disegno II (obbligatorio su piano della facolta) per il corso di laurea in ingegneria civile e' sostituito dal seguente:
 
-Art. 145. - Possono essere iscritti all'Istituto coloro che siano in possesso di titolo sufficiente per l'ammissione ai concorsi a cattedra di lingua e letteratura francese nelle Scuole secondarie.
+11) disegno II per il corso di laurea in ingegneria civile.
 
-Art. 146. - Il direttore dell'Istituto sara' nominato biennalmente dal rettore su proposta del Consiglio.
+Inoltre, vengono aggiunti i seguenti insegnamenti:
 
-Art. 147. - Fanno parte del Consiglio oltre ai presidi della Facolta' di lettere e filosofia e della Facolta' di magistero (o un loro rappresentante) i professori ufficiali di lingua e letteratura francese delle Facolta' suddette, e due fra i docenti francesi chef come e' previsto dall'articolo seguente, collaborano al funzionamento dell'Istituto.
+10) chimica fisica (obbligatorio su piano nazionale) per il corso di laurea in ingegneria chimica.
 
-Art. 148. - Gli insegnanti sono proposti alle autorita' accademiche dal Consiglio e possono essere anche di nazionalita' straniera.
+11) chimica applicata (obbligatorio sul piano nazionale) per il corso di laurea in ingegneria chimica.
 
-Art. 149. - Sono materie d'insegnamento:
+Art. 102 - e' soppresso e sostituito dal seguente:
 
-Letteratura francese;
+Gli insegnamenti del triennio di applicazione per il corso di laurea in ingegneria chimica sono i seguenti:
 
-Letteratura comparata italo-francese;
+A) Insegnamenti obbligatori comuni su piano nazionale:
 
-Storia dell'arte francese;
+1) scienza delle costruzioni;
 
-Storia della civilta' francese;
+2) meccanica applicata alle macchine;
 
-Fonetica e storia della lingua.
+3) fisica tecnica;
 
-Art. 150. - Per l'ammissione al secondo corso l'iscritto deve superare gli esami scritti e orali stabiliti dal regolamento.
+4) elettrotecnica;
 
-Art. 151. - L'esame di diploma consistera' nella discussione di una dissertazione scritta in lingua francese sopra argomenti attinenti alle discipline insegnate nell'Istituto.
+5) macchine;
 
-Art. 152. - Le tasse e sopratasse sono quelle stabilite per la Facolta' di lettere e filosofia.
+6) principi di ingegneria chimica;
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+7) chimica industriale;
 
-Dato a Roma, addi' 20 settembre 1955
+8) impianti chimici;
 
-GRONCHI
+9) chimica fisica (da sostenere qualora non sia stato superato al biennio quale aggiuntivo);
 
-ROSSI
+10) chimica applicata (da sostenere qualora non sia stato superato al biennio quale aggiuntivo).
 
-Visto, il Guardasigilli: MORO
+B) insegnamenti obbligatori comuni su piano della facolta':
+
+1) teoria e sviluppo dei processi chimici;
+
+2) chimica industriale II;
+
+3) complementi di ingegneria chimica;
+
+4) applicazioni di matematiche superiori;
+
+5) tecniche di controllo degli impianti chimici;
+
+6) costruzioni di macchine.
+
+C) Un gruppo di quattro materie scelte dallo studente tra quelle indicate, anno per anno, dalla facolta', nel manifesto degli studi. Tali insegnamenti saranno tratti dall'elenco di cui all'articolo 106.
+
+Art. 103 - e' modificato nel senso che gli insegnamenti di cui al punto B) sono soppressi e sostituiti dai seguenti:
+
+B) Insegnamenti obbligatori comuni su piano della facolta':
+
+10) elementi di analisi numerica e programmazione;
+
+11) complementi di scienza delle costruzioni;
+
+12) litologia e geologia.
+
+Calcolo sensoriale e meccanica dei continui (da sostenere al biennio al posto di geometria II).
+
+Per la sezione edile:
+
+13) edilizia sociale.
+
+Per la sezione idraulica:
+
+13) impianti idraulici.
+
+Per la sezione trasporti:
+
+13) tecnica ed economia dei trasporti:
+
+C) Un gruppo di sei materie scelto dallo studente tra quelle indicate, anno per anno, dalla facolta', nel manifesto degli studi.
+
+Tali insegnamenti saranno tratti dall'elenco di cui all'art. 106.
+
+Art. 104 - e' modificato nel senso che il punto C) e' soppresso e sostituito dal seguente:
+
+C) Un gruppo di sei materie scelto dallo studente tra quelle indicate, anno per anno, dalla facolta', nel manifesto degli studi.
+
+Tali insegnamenti saranno tratti dall'elenco di cui all'art. 106.
+
+Art. 105 - e' modificato nel senso che l'insegnamento n. 11) del punto B) e' sostituito dal seguente:
+
+11) costruzioni di macchine II.
+
+Il punto C) e' soppresso e sostituito dal seguente:
+
+C) Un gruppo di cinque materie scelto dallo studente tra quelle indicate, anno per anno, dalla facolta', nel manifesto degli studi.
+
+Tali insegnamenti saranno tratti dall'elenco di cui all'art. 106.
+
+Art. 106 - e' soppresso e sostituito dal seguente:
+
+analisi e misura delle tensioni;
+
+calcolatori elettronici;
+
+chimica delle sostanze coloranti;
+
+chimica e tecnologia dei prodotti ceramici;
+
+chimica e tecnologia del vetro;
+
+chimica e tecnologia tessile;
+
+chimica fisica dello stato solido;
+
+chimica macromolecolare e tecnologia degli alti polimeri;
+
+complementi di chimica fisica;
+
+complementi di idraulica;
+
+complementi di macchine;
+
+complementi di tecnica delle costruzioni;
+
+consolidamento del suolo e delle rocce;
+
+controllo dei sistemi stocastici;
+
+controllo numerico delle macchine utensili;
+
+costruzione di macchine utensili;
+
+costruzioni di materiale ferroviario;
+
+ingegneria sanitaria;
+
+costruzioni marittime e fluviali;
+
+costruzioni metalliche;
+
+ingegneria sismica;
+
+dinamica delle costruzioni;
+
+disegno II;
+
+componenti elettronici;
+
+economia ed organizzazione aziendale;
+
+elaborazione dei dati biologici;
+
+elaborazione digitale dei segnali;
+
+elementi di materie giuridiche e legislazione delle opere pubbliche;
+
+elettrochimica;
+
+radioaiuti alla navigazione;
+
+elettronica applicata e strumentazione;
+
+elettronica industriale;
+
+estimo civile;
+
+fisiologia;
+
+fluidodinamica delle macchine;
+
+fotogrammetria e fotointerpretazioni;
+
+geologia applicata;
+
+geotecnica e fondazioni;
+
+idrologia e idrogeologia;
+
+impianti di potenza;
+
+impianti per telecomunicazioni;
+
+impianti tecnici civili;
+
+impianti tessili;
+
+linguaggi di programmazione;
+
+macchine di sollevamento e trasporto;
+
+macchine per l'industria tessile;
+
+macchine speciali;
+
+microonde;
+
+misure meccaniche e strumentazioni;
+
+organizzazione dei cantieri e direzione dei lavori;
+
+organizzazione dei sistemi di calcolo;
+
+organizzazione del territorio;
+
+ottimizzazione delle lavorazioni meccaniche;
+
+ponti;
+
+problemi strutturali speciali;
+
+probabilita', statistica e processi dinamici stocastici;
+
+progetti di macchine;
+
+regolazione delle macchine e degli impianti meccanici;
+
+teoria e tecnica delle reti attive lineari;
+
+reti logiche;
+
+ricerca operativa e pianificazione delle risorse;
+
+scienze dei materiali metallici;
+
+scienze dei metalli;
+
+sistemi biologici;
+
+statistica applicata;
+
+strumentazione bioelettronica;
+
+strumentazione industriale;
+
+statica delle strutture prefabbricate;
+
+tecnica dei lavori stradali;
+
+tecnica della circolazione ferroviaria;
+
+tecnica della circolazione stradale;
+
+tecnica della progettazione edile;
+
+tecnica delle prove su motori per autotrazione;
+
+tecnica delle onde elettromagnetiche;
+
+tecniche di controllo;
+
+tecniche di organizzazione dei sistemi;
+
+tecniche di trasmissione dei dati;
+
+tecnologia dei materiali sintetizzati;
+
+tecnologia delle fibre tessili;
+
+tecnologie elettrochimiche;
+
+tecnologie elettroniche;
+
+tecnologie speciali metallurgiche;
+
+tecnologie tintorie;
+
+telerilevamento delle risorse ambientali;
+
+teoria dei sistemi;
+
+teoria delle reti elettriche;
+
+teoria dell'informazione;
+
+teoria e tecnica delle antenne;
+
+teoria e tecnica delle vibrazioni;
+
+teoria e tecnica radar;
+
+trazione elettrica e termica.
+
+Art. 109 - e' soppresso e sostituito dal seguente:
+
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti prescritti per il corso di laurea prescelto. L'esame di laurea consiste nella discussione orale di un elaborato dalla quale risulti anche la preparazione generale del candidato. Tale elaborato, redatto sotto la guida di almeno due professori ufficiali e con le modalita' stabilite dal consiglio di facolta', e' costituito da un progetto o dalla relazione di una ricerca tecnica, attinenti alle materie del corso di laurea e della sezione cui appartiene il candidato.
+
+Art. 110 - e' soppresso e sostituito dal seguente:
+
+Gli studenti dovranno dichiarare all'atto della iscrizione al primo anno della facolta' a quale corso di laurea intendono iscriversi. Gli studenti che seguono il corso di laurea in ingegneria civile dovranno dichiarare inoltre all'atto dell'iscrizione al terzo anno di corso, a quale sezione intendono iscriversi.
+
+Potra' essere concesso il passaggio da un corso di laurea ad un altro o da una sezione ad un'altra, quando cio' sia ritenuto possibile dal consiglio di facolta' ed alle condizioni che saranno da esso indicate.
+
+Art. 111 e' soppresso e sostituito dal seguente:
+
+"Valgono per l'ammissione agli esami le seguenti condizioni di precedenza:
+
+a) Per gli esami del biennio:
+
+analisi matematica II: analisi matematica I, geometria;
+
+meccanica razionale: analisi matematica I, geometria;
+
+calcolo automatico e programmazione: analisi matematica I;
+
+chimica applicata: chimica;
+
+b) Per il corso di laurea in ingegneria chimica:
+
+chimica applicata: chimica;
+
+chimica organica: chimica;
+
+chimica industriale I: chimica fisica;
+
+chimica industriale II: chimica industriale I;
+
+chimica fisica dello stato solido: chimica fisica;
+
+impianti chimici: principi di ingegneria chimica;
+
+macchine: fisica tecnica;
+
+principi di ingegneria chimica: chimica fisica, fisica tecnica.
+
+c) Per il corso di laurea in ingegneria civile:
+
+architettura e composizione architettonica: architettura tecnica;
+
+complementi di scienza delle costruzioni: scienza delle costruzioni;
+
+complementi di idraulica: idraulica;
+
+complementi di tecnica delle costruzioni: tecnica delle costruzioni;
+
+costruzioni idrauliche: idraulica, scienza delle costruzioni; ingegneria sanitaria: idraulica;
+
+costruzioni marittime e fluviali: idraulica, scienza delle costruzioni;
+
+costruzioni metalliche: tecnica delle costruzioni, complementi di scienza delle costruzioni;
+
+dinamica delle strutture: scienza delle costruzioni;
+
+costruzioni in zone sismiche: tecnica delle costruzioni;
+
+geologia applicata: litologia e geologia;
+
+idrologia e idrogeologia: idraulica;
+
+impianti idraulici: idraulica;
+
+impianti tecnici civili: fisica tecnica;
+
+ricerca operativa e pianificazione delle risorse: idrologia ed idrogeologia, elementi di analisi numerica e programmazione;
+
+ponti: tecnica delle costruzioni;
+
+problemi strutturali speciali: tecnica delle costruzioni, complementi di scienza delle costruzioni;
+
+statica delle strutture prefabbricate: tecnica delle costruzioni;
+
+tecnica della progettazione edile: tecnica delle costruzioni; tecnica delle costruzioni: scienza delle costruzioni;
+
+tecnologie dei materiali e chimica applicata: chimica.
+
+d) Per il corso di laurea in ingegneria elettronica:
+
+calcolatori elettronici: calcolo numerico e programmazione, elettronica applicata;
+
+comunicazioni elettriche: applicazioni di matematica per l'elettronica;
+
+controlli automatici: applicazioni di matematica per l'elettronica;
+
+elettronica applicata: elettrotecnica, elettronica generale;
+
+impianti per telecomunicazioni: comunicazioni elettriche;
+
+linguaggi di programmazione: calcolo numerico e programmazione; misure elettriche: elettrotecnica, elettronica applicata;
+
+radiotecnica: campi elettromagnetici e circuiti, comunicazioni elettriche.
+
+Altre precedenze potranno essere precisate di anno in anno nel manifesto degli studi.
+
+e) Per il corso di laurea in ingegneria meccanica:
+
+analisi e misura delle tensioni: scienza delle costruzioni;
+
+costruzioni di macchine II: costruzione di macchine;
+
+complementi di macchine: macchine;
+
+chimica applicata: chimica;
+
+complementi di tecnologia meccanica: tecnologia meccanica;
+
+controllo numerico delle macchine utensili: calcolo automatico e programmazione, regolazione delle macchine e degli impianti meccanici;
+
+costruzione di macchine: meccanica applicata alle macchine, scienza delle costruzioni, tecnologia meccanica;
+
+costruzione di macchine agricole: costruzione di macchine;
+
+costruzione di macchine utensili: costruzione di macchine;
+
+costruzione di materiale ferroviario: costruzione di macchine; regolazione delle macchine e degli impianti meccanici: metodi matematici per l'ingegneria, meccanica applicata alle macchine;
+
+elettronica applicata e strumentazione: elettrotecnica;
+
+fluidodinamica delle macchine: fisica tecnica, calcolo automatico e programmazione con applicazioni numeriche;
+
+impianti di potenza: fisica tecnica, meccanica applicata alle macchine;
+
+tecnica della circolazione ferroviaria: elettrotecnica, impianti meccanici: macchine, complementi di tecnologia meccanica;
+
+macchine: fisica tecnica, meccanica applicata alle macchine;
+
+macchine di sollevamento e trasporto: costruzioni di macchine; macchine speciali: macchine;
+
+misure meccaniche e strumentazione: fisica tecnica, elettrotecnica, meccanica applicata alle macchine;
+
+ottimizzazione delle lavorazioni meccaniche: tecnologia meccanica;
+
+progetti di macchine: costruzione di macchine, macchine;
+
+tecnica delle prove su motori per autotrazione: fisica tecnica; teoria e tecnica delle vibrazioni: meccanica applicata alle macchine, metodi matematici per l'ingegneria;
+
+trazione elettrica e termica: elettrotecnica, macchine.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 30 maggio 1978
+
+LEONE
+
+PEDINI
+
+Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 22 ottobre 1955 Atti del Governo, registro n. 93, foglio n. 70. - CARLOMAGNO
+alla Corte dei conti, addi' 13 ottobre 1978 Registro n. 109 Istruzione, foglio n. 224
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), modificato con i [regi decreti 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2230); [30 ottobre 1930, n. 1826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1826); [1 ottobre 1931, numero 1441](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-01;1441); [6 dicembre 1934, n. 2449](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-06;2449); [1 ottobre 1936, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2475); [27 ottobre 1937, n. 2620](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1937-10-27;2620); [5 maggio 1939, n. 1165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-05-05;1165); [12 ottobre 1939, n. 1712](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-10-12;1712); [26 ottobre 1940, n. 2057](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2057); [27 aprile 1942, n. 467](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-04-27;467); [24 ottobre 1942, n. 1439; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1439) [11 giugno 1950, n. 616](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;616); [30 ottobre 1950, n. 1127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1127); [30 ottobre 1950, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1304); [30 giugno 1951, n. 957](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-30;957); [27 ottobre 1951, n. 1681](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1681); [23 gennaio 1952, n. 168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;168); [26 ottobre 1952, numero 4557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4557); [26 ottobre 1952, n. 4543](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4543); [10 febbraio 1953, n. 376](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;376); [30 luglio 1953, n. 710](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;710); [2 marzo 1954, n. 183](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-02;183); [14 settembre 1954, n. 1202](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1202); [22 gennaio 1955, n. 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-01-22;69); [16 febbraio 1955, n. 120](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-16;120) e [19 luglio 1955, n. 761](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-19;761);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la, particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 58. - Agli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto quello di "lingua e letteratura straniera" (annuale, diversa da quella scelta come insegnamento fondamentale).  
-Art. 66. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di "storia della medicina".  
-Dopo l'art. 142 (gia' 135), sono aggiunti i seguenti nuovi articoli, relativi alla creazione dell'Istituto di studi francesi, con il conseguente spostamento della numerazione degli articoli successivi.  
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come segue:   
+Art. 82 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto quello di citologia.   
+Gli articoli 100, 102, 103, 104, 105, 106, 109, 110 e 111 relativi al corso di laurea in ingegneria, sono modificati nel modo seguente:   
+Art. 100 - al terzo capoverso l'insegnamento di:   
+n. 9) calcolo sensoriale e delle matrici con applicazioni geometriche (obbligatorio su piano della facolta) per il corso di laurea in ingegneria civile e' sostituito dal seguente:   
+9) calcolo sensoriale e meccanica dei continui (obbligatorio su piano della facolta) per il corso di laurea in ingegneria civile.   
+Al quarto capoverso dello stesso articolo l'insegnamento di: n. 11) disegno II (obbligatorio su piano della facolta) per il corso di laurea in ingegneria civile e' sostituito dal seguente:   
+11) disegno II per il corso di laurea in ingegneria civile.   
+Inoltre, vengono aggiunti i seguenti insegnamenti:   
+10) chimica fisica (obbligatorio su piano nazionale) per il corso di laurea in ingegneria chimica.   
+11) chimica applicata (obbligatorio sul piano nazionale) per il corso di laurea in ingegneria chimica.   
+Art. 102 - e' soppresso e sostituito dal seguente:   
+Gli insegnamenti del triennio di applicazione per il corso di laurea in ingegneria chimica sono i seguenti:   
+A) Insegnamenti obbligatori comuni su piano nazionale:   
+1) scienza delle costruzioni;   
+2) meccanica applicata alle macchine;   
+3) fisica tecnica;   
+4) elettrotecnica;   
+5) macchine;   
+6) principi di ingegneria chimica;   
+7) chimica industriale;   
+8) impianti chimici;   
+9) chimica fisica (da sostenere qualora non sia stato superato al biennio quale aggiuntivo);   
+10) chimica applicata (da sostenere qualora non sia stato superato al biennio quale aggiuntivo).   
+B) insegnamenti obbligatori comuni su piano della facolta':   
+1) teoria e sviluppo dei processi chimici;   
+2) chimica industriale II;   
+3) complementi di ingegneria chimica;   
+4) applicazioni di matematiche superiori;   
+5) tecniche di controllo degli impianti chimici;   
+6) costruzioni di macchine.   
+C) Un gruppo di quattro materie scelte dallo studente tra quelle indicate, anno per anno, dalla facolta', nel manifesto degli studi. Tali insegnamenti saranno tratti dall'elenco di cui all'articolo 106.   
+Art. 103 - e' modificato nel senso che gli insegnamenti di cui al punto B) sono soppressi e sostituiti dai seguenti:   
+B) Insegnamenti obbligatori comuni su piano della facolta':   
+10) elementi di analisi numerica e programmazione;   
+11) complementi di scienza delle costruzioni;   
+12) litologia e geologia.   
+Calcolo sensoriale e meccanica dei continui (da sostenere al biennio al posto di geometria II).   
+Per la sezione edile:   
+13) edilizia sociale.   
+Per la sezione idraulica:   
+13) impianti idraulici.   
+Per la sezione trasporti:   
+13) tecnica ed economia dei trasporti:   
+C) Un gruppo di sei materie scelto dallo studente tra quelle indicate, anno per anno, dalla facolta', nel manifesto degli studi.  
+Tali insegnamenti saranno tratti dall'elenco di cui all'art. 106.   
+Art. 104 - e' modificato nel senso che il punto C) e' soppresso e sostituito dal seguente:   
+C) Un gruppo di sei materie scelto dallo studente tra quelle indicate, anno per anno, dalla facolta', nel manifesto degli studi.  
+Tali insegnamenti saranno tratti dall'elenco di cui all'art. 106.   
+Art. 105 - e' modificato nel senso che l'insegnamento n. 11) del punto B) e' sostituito dal seguente:   
+11) costruzioni di macchine II.   
+Il punto C) e' soppresso e sostituito dal seguente:   
+C) Un gruppo di cinque materie scelto dallo studente tra quelle indicate, anno per anno, dalla facolta', nel manifesto degli studi.  
+Tali insegnamenti saranno tratti dall'elenco di cui all'art. 106.   
+Art. 106 - e' soppresso e sostituito dal seguente:   
+analisi e misura delle tensioni;   
+calcolatori elettronici;   
+chimica delle sostanze coloranti;   
+chimica e tecnologia dei prodotti ceramici;   
+chimica e tecnologia del vetro;   
+chimica e tecnologia tessile;   
+chimica fisica dello stato solido;   
+chimica macromolecolare e tecnologia degli alti polimeri;   
+complementi di chimica fisica;   
+complementi di idraulica;   
+complementi di macchine;   
+complementi di tecnica delle costruzioni;   
+consolidamento del suolo e delle rocce;   
+controllo dei sistemi stocastici;   
+controllo numerico delle macchine utensili;   
+costruzione di macchine utensili;   
+costruzioni di materiale ferroviario;   
+ingegneria sanitaria;   
+costruzioni marittime e fluviali;   
+costruzioni metalliche;   
+ingegneria sismica;   
+dinamica delle costruzioni;   
+disegno II;   
+componenti elettronici;   
+economia ed organizzazione aziendale;   
+elaborazione dei dati biologici;   
+elaborazione digitale dei segnali;   
+elementi di materie giuridiche e legislazione delle opere pubbliche;   
+elettrochimica;   
+radioaiuti alla navigazione;   
+elettronica applicata e strumentazione;   
+elettronica industriale;   
+estimo civile;   
+fisiologia;   
+fluidodinamica delle macchine;   
+fotogrammetria e fotointerpretazioni;   
+geologia applicata;   
+geotecnica e fondazioni;   
+idrologia e idrogeologia;   
+impianti di potenza;   
+impianti per telecomunicazioni;   
+impianti tecnici civili;   
+impianti tessili;   
+linguaggi di programmazione;   
+macchine di sollevamento e trasporto;   
+macchine per l'industria tessile;   
+macchine speciali;   
+microonde;   
+misure meccaniche e strumentazioni;   
+organizzazione dei cantieri e direzione dei lavori;   
+organizzazione dei sistemi di calcolo;   
+organizzazione del territorio;   
+ottimizzazione delle lavorazioni meccaniche;   
+ponti;   
+problemi strutturali speciali;   
+probabilita', statistica e processi dinamici stocastici;   
+progetti di macchine;   
+regolazione delle macchine e degli impianti meccanici;   
+teoria e tecnica delle reti attive lineari;   
+reti logiche;   
+ricerca operativa e pianificazione delle risorse;   
+scienze dei materiali metallici;   
+scienze dei metalli;   
+sistemi biologici;   
+statistica applicata;   
+strumentazione bioelettronica;   
+strumentazione industriale;   
+statica delle strutture prefabbricate;   
+tecnica dei lavori stradali;   
+tecnica della circolazione ferroviaria;   
+tecnica della circolazione stradale;   
+tecnica della progettazione edile;   
+tecnica delle prove su motori per autotrazione;   
+tecnica delle onde elettromagnetiche;   
+tecniche di controllo;   
+tecniche di organizzazione dei sistemi;   
+tecniche di trasmissione dei dati;   
+tecnologia dei materiali sintetizzati;   
+tecnologia delle fibre tessili;   
+tecnologie elettrochimiche;   
+tecnologie elettroniche;   
+tecnologie speciali metallurgiche;   
+tecnologie tintorie;   
+telerilevamento delle risorse ambientali;   
+teoria dei sistemi;   
+teoria delle reti elettriche;   
+teoria dell'informazione;   
+teoria e tecnica delle antenne;   
+teoria e tecnica delle vibrazioni;   
+teoria e tecnica radar;   
+trazione elettrica e termica.   
+Art. 109 - e' soppresso e sostituito dal seguente:   
   
-Istituto di studi francesi.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti prescritti per il corso di laurea prescelto. L'esame di laurea consiste nella discussione orale di un elaborato dalla quale risulti anche la preparazione generale del candidato. Tale elaborato, redatto sotto la guida di almeno due professori ufficiali e con le modalita' stabilite dal consiglio di facolta', e' costituito da un progetto o dalla relazione di una ricerca tecnica, attinenti alle materie del corso di laurea e della sezione cui appartiene il candidato.   
+Art. 110 - e' soppresso e sostituito dal seguente:   
   
-Art. 143. - E' istituito presso l'Universita' di Firenze un Istituto di studi francesi, con la collaborazione di Enti francesi, allo scopo di fornire una preparazione piu' approfondita a coloro che si avviano all'insegnamento della lingua e letteratura francese nelle scuole secondarie.  
-Art. 144. - Presso l'Istituto si svolge un corso di studi di perfezionamento nella lingua e letteratura francese, della durata biennale, al termine del quale viene rilasciato a coloro che hanno superato gli esami prescritti un diploma di perfezionamento.  
-Art. 145. - Possono essere iscritti all'Istituto coloro che siano in possesso di titolo sufficiente per l'ammissione ai concorsi a cattedra di lingua e letteratura francese nelle Scuole secondarie.  
-Art. 146. - Il direttore dell'Istituto sara' nominato biennalmente dal rettore su proposta del Consiglio.  
-Art. 147. - Fanno parte del Consiglio oltre ai presidi della Facolta' di lettere e filosofia e della Facolta' di magistero (o un loro rappresentante) i professori ufficiali di lingua e letteratura francese delle Facolta' suddette, e due fra i docenti francesi chef come e' previsto dall'articolo seguente, collaborano al funzionamento dell'Istituto.  
-Art. 148. - Gli insegnanti sono proposti alle autorita' accademiche dal Consiglio e possono essere anche di nazionalita' straniera.  
-Art. 149. - Sono materie d'insegnamento:  
-Letteratura francese;  
-Letteratura comparata italo-francese;  
-Storia dell'arte francese;  
-Storia della civilta' francese;  
-Fonetica e storia della lingua.  
-Art. 150. - Per l'ammissione al secondo corso l'iscritto deve superare gli esami scritti e orali stabiliti dal regolamento.  
-Art. 151. - L'esame di diploma consistera' nella discussione di una dissertazione scritta in lingua francese sopra argomenti attinenti alle discipline insegnate nell'Istituto.  
-Art. 152. - Le tasse e sopratasse sono quelle stabilite per la Facolta' di lettere e filosofia.  
+Gli studenti dovranno dichiarare all'atto della iscrizione al primo anno della facolta' a quale corso di laurea intendono iscriversi. Gli studenti che seguono il corso di laurea in ingegneria civile dovranno dichiarare inoltre all'atto dell'iscrizione al terzo anno di corso, a quale sezione intendono iscriversi.   
+Potra' essere concesso il passaggio da un corso di laurea ad un altro o da una sezione ad un'altra, quando cio' sia ritenuto possibile dal consiglio di facolta' ed alle condizioni che saranno da esso indicate.   
+Art. 111 e' soppresso e sostituito dal seguente:   
+"Valgono per l'ammissione agli esami le seguenti condizioni di precedenza:   
+a) Per gli esami del biennio:   
+analisi matematica II: analisi matematica I, geometria;   
+meccanica razionale: analisi matematica I, geometria;   
+calcolo automatico e programmazione: analisi matematica I;   
+chimica applicata: chimica;   
+b) Per il corso di laurea in ingegneria chimica:   
+chimica applicata: chimica;   
+chimica organica: chimica;   
+chimica industriale I: chimica fisica;   
+chimica industriale II: chimica industriale I;   
+chimica fisica dello stato solido: chimica fisica;   
+impianti chimici: principi di ingegneria chimica;   
+macchine: fisica tecnica;   
+principi di ingegneria chimica: chimica fisica, fisica tecnica.   
+c) Per il corso di laurea in ingegneria civile:   
+architettura e composizione architettonica: architettura tecnica;   
+complementi di scienza delle costruzioni: scienza delle costruzioni;   
+complementi di idraulica: idraulica;   
+complementi di tecnica delle costruzioni: tecnica delle costruzioni;   
+costruzioni idrauliche: idraulica, scienza delle costruzioni; ingegneria sanitaria: idraulica;   
+costruzioni marittime e fluviali: idraulica, scienza delle costruzioni;   
+costruzioni metalliche: tecnica delle costruzioni, complementi di scienza delle costruzioni;   
+dinamica delle strutture: scienza delle costruzioni;   
+costruzioni in zone sismiche: tecnica delle costruzioni;   
+geologia applicata: litologia e geologia;   
+idrologia e idrogeologia: idraulica;   
+impianti idraulici: idraulica;   
+impianti tecnici civili: fisica tecnica;   
+ricerca operativa e pianificazione delle risorse: idrologia ed idrogeologia, elementi di analisi numerica e programmazione;   
+ponti: tecnica delle costruzioni;   
+problemi strutturali speciali: tecnica delle costruzioni, complementi di scienza delle costruzioni;   
+statica delle strutture prefabbricate: tecnica delle costruzioni;   
+tecnica della progettazione edile: tecnica delle costruzioni; tecnica delle costruzioni: scienza delle costruzioni;   
+tecnologie dei materiali e chimica applicata: chimica.   
+d) Per il corso di laurea in ingegneria elettronica:   
+calcolatori elettronici: calcolo numerico e programmazione, elettronica applicata;   
+comunicazioni elettriche: applicazioni di matematica per l'elettronica;   
+controlli automatici: applicazioni di matematica per l'elettronica;   
+elettronica applicata: elettrotecnica, elettronica generale;   
+impianti per telecomunicazioni: comunicazioni elettriche;   
+linguaggi di programmazione: calcolo numerico e programmazione; misure elettriche: elettrotecnica, elettronica applicata;   
+radiotecnica: campi elettromagnetici e circuiti, comunicazioni elettriche.   
+Altre precedenze potranno essere precisate di anno in anno nel manifesto degli studi.   
+e) Per il corso di laurea in ingegneria meccanica:   
+analisi e misura delle tensioni: scienza delle costruzioni;   
+costruzioni di macchine II: costruzione di macchine;   
+complementi di macchine: macchine;   
+chimica applicata: chimica;   
+complementi di tecnologia meccanica: tecnologia meccanica;   
+controllo numerico delle macchine utensili: calcolo automatico e programmazione, regolazione delle macchine e degli impianti meccanici;   
+costruzione di macchine: meccanica applicata alle macchine, scienza delle costruzioni, tecnologia meccanica;   
+costruzione di macchine agricole: costruzione di macchine;   
+costruzione di macchine utensili: costruzione di macchine;   
+costruzione di materiale ferroviario: costruzione di macchine; regolazione delle macchine e degli impianti meccanici: metodi matematici per l'ingegneria, meccanica applicata alle macchine;   
+elettronica applicata e strumentazione: elettrotecnica;   
+fluidodinamica delle macchine: fisica tecnica, calcolo automatico e programmazione con applicazioni numeriche;   
+impianti di potenza: fisica tecnica, meccanica applicata alle macchine;   
+tecnica della circolazione ferroviaria: elettrotecnica, impianti meccanici: macchine, complementi di tecnologia meccanica;   
+macchine: fisica tecnica, meccanica applicata alle macchine;   
+macchine di sollevamento e trasporto: costruzioni di macchine; macchine speciali: macchine;   
+misure meccaniche e strumentazione: fisica tecnica, elettrotecnica, meccanica applicata alle macchine;   
+ottimizzazione delle lavorazioni meccaniche: tecnologia meccanica;   
+progetti di macchine: costruzione di macchine, macchine;   
+tecnica delle prove su motori per autotrazione: fisica tecnica; teoria e tecnica delle vibrazioni: meccanica applicata alle macchine, metodi matematici per l'ingegneria;   
+trazione elettrica e termica: elettrotecnica, macchine.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 settembre 1955
+### Dato a Roma, addi' 30 maggio 1978
 
-GRONCHI ROSSI
+LEONE PEDINI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 22 ottobre 1955
+Registrato alla Corte dei conti, addi' 13 ottobre 1978
 
-Atti del Governo, registro n. 93, foglio n. 70. - CARLOMAGNO
+Registro n. 109 Istruzione, foglio n. 224

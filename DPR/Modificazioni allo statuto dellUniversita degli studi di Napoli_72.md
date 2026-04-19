@@ -1,104 +1,84 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969 n. 399
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 maggio 1967 n. 435
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969 n. 399
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 maggio 1967 n. 435
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 156. - Nell'elenco degli insegnamenti complementari del corso di laurea in Scienze biologiche e' aggiunto quello di "Biologia delle razze umane".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 6 maggio 1967
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 13 giugno 1967 Atti del Governo, registro n. 211, foglio n. 126. - GRECO
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-Gli articoli 378, 379 relativi alla scuola di specializzazione in radiologia medica e medicina nucleare sono abrogati e sostituiti dai seguenti:   
-  
-Scuola di specializzazione in radiologia   
-  
-Art. 378. - La scuola di specializzazione in radiologia ha sede presso l'istituto di radiologia il cui professore di ruolo e' il direttore della scuola.   
-La scuola conferisce due diplomi:   
-a) diploma di specialista in radiologia che abilita all'esercizio specialistico della Rontgendiagnostica, della radioterapia e della medicina nucleare, che viene conseguito dopo quattro anni di corso;   
-b) diploma di specialista in radiologia diagnostica che abilita all'esercizio specialistico della Rontgendiagnostica e che viene conseguito dopo tre anni di corso.   
-Alla scuola possono iscriversi solo i laureati in medicina e chirurgia nel numero massimo di dieci allievi per anno.   
-Le materie di insegnamento per il conseguimento del diploma di specializzazione in radiologia sono le seguenti:   
-1° Anno:   
-1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;   
-2) Nozioni sugli apparecchi ed istrumenti della radiologia;   
-3) Anatomia radiologica normale;   
-4) Tecnica radiologica generale;   
-5) Fisiologia radiologica;   
-6) Semeiotica radiologica generale;   
-7) Fondamenti di radiobiologia;   
-8) Nozioni di statistica e matematica.   
-2° Anno:   
-1) Tecnica e metodica dell'esame radiologico dei vari organi, apparati e sistemi;   
-2) Semeiotica radiologica speciale e diagnosi differenziale;   
-3) Fondamenti di radioterapia;   
-4) Danni da radiazioni e mezzi di protezione;   
-5) Dimostrazioni cliniche di diagnostica radiologica;   
-6) Dimostrazioni cliniche di radioterapia.   
-3° Anno:   
-1) Diagnostica radiologica differenziale;   
-2) Dimostrazioni di casistica di Rontgendiagnostica con confronto del quadro anatomo-patologico;   
-3) Dimostrazioni di casistica di Rontgenterapia con particolare riferimento alla anatomia patologica;   
-4) Radioterapia tradizionale-Curieterapia;   
-5) Radioterapia con alte energie;   
-6) Elementi di medicina nucleare;   
-7) Istrumentario, tecnica e metodica di applicazione;   
-8) Dosimetria.   
-4° Anno:   
-1) Moderne tecniche di esplorazione e terapia radiologica;   
-2) Diagnostica e terapia con isotopi radioattivi somministrati per via interna;   
-3) Radiodiagnostica e radioterapia clinica (casistica);   
-4) Medicina legale e legislazione sanitaria in relazione alla radiologia.   
-Le materie di insegnamento per conseguire il diploma di specialista in radiologia diagnostica sono le seguenti:   
-1° Anno:   
-1) Fisica; con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;   
-2) Nozioni sugli apparecchi ed istrumenti della radiologia;   
-3) Anatomia radiologica normale;   
-4) Tecnica radiologica generale;   
-5) Fisiologia radiologica;   
-6) Semeiotica radiologica generale;   
-7) Fondamenti di radiobiologia;   
-8) Nozioni di statistica e matematica.   
-2° Anno:   
-1) Metodica di esplorazione dei vari organi ed apparati;   
-2) Semeiotica radiologica speciale e diagnosi differenziale;   
-3) Nozioni generali sulle lesioni da radiazioni e mezzi di protezione;   
-4) Moderne tecniche di esplorazione radiologica.   
-3° Anno:   
-1) Esplorazione radiologica nella patologia dei vari organi ed apparati; diagnostica differenziale; rapporti con l'anatomia patologica;   
-2) Radiodiagnostica clinica;   
-3) Medicina legale e legislazione sanitaria in relazione alla radiologia.   
-Art. 379. - Gli allievi dovranno prestare servizio di internato nell'istituto di radiologia; hanno l'obbligo della frequenza alle lezioni.   
-Al termine di ogni anno dovranno superare gli esami di profitto delle materie prescritte, per ottenere l'iscrizione all'anno successivo.   
-Il programma di insegnamento potra' essere integrato da conferenze, esercitazioni e seminari.   
-Alla fine degli esami di corso gli allievi dovranno presentare una tesi scritta e sostenere un esame di diploma.   
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 156. - Nell'elenco degli insegnamenti complementari del corso di laurea in Scienze biologiche e' aggiunto quello di "Biologia delle razze umane".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 maggio 1969
+### Dato a Roma, addi' 6 maggio 1967
 
-SARAGAT FERRARI-AGGRADI
+SARAGAT GUI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 16 luglio 1969
+Registrato alla Corte dei conti, addi' 13 giugno 1967
 
-Atti del Governo, registro n. 228, foglio n. 9. - CARUSO
+Atti del Governo, registro n. 211, foglio n. 126. - GRECO

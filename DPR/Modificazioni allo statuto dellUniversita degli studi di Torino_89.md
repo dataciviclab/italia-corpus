@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 luglio 1981 n. 851
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1031
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 luglio 1981 n. 851
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1031
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -10,50 +10,153 @@ Modificazioni allo statuto dell'Universita' degli studi di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio universitario nazionale nel suo parere;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Gli articoli 196 e 206 relativi alla scuola di specializzazione in medicina del lavoro sono abrogati e sostituiti dai seguenti:
 
+Art. 196. - Il corso della scuola ha la durata di tre anni.
+
+Art. 206. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+Fisiologia del lavoro ed ergonomia;
+
+Tecnologia ed igiene del lavoro;
+
+Patologia e clinica del lavoro;
+
+Psicologia del lavoro.
+
+2° Anno:
+
+Fisiologia del lavoro ed ergonomia;
+
+Tecnologia ed igiene del lavoro;
+
+Patologia e clinica del lavoro;
+
+Psicologia del lavoro;
+
+Tossicologia industriale e diagnostica di laboratorio;
+
+Infortunistica e pronto soccorso;
+
+Biometria e statistica sanitaria;
+
+Medicina preventiva dei lavoratori.
+
+3° Anno:
+
+Patologia e clinica del lavoro;
+
+Tecnologia ed igiene del lavoro;
+
+Infortunistica e pronto soccorso;
+
+Medicina legale delle assicurazioni;
+
+Medicina preventiva dei lavoratori;
+
+Radiologia e medicina nucleare;
+
+Tossicologia industriale e diagnostica di laboratorio;
+
+Dermatologia professionale.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1972
+
+LEONE
+
+SCALFARO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 23 febbraio 1973 Atti di Governo, registro n. 256, foglio n. 26. - VALENTINI
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-All'art. 97, relativo al corso di laurea in farmacia, sono aggiunti i seguenti insegnamenti complementari:   
-farmacognosia;   
-fitochimica.   
-All'art. 103, relativo al corso di laurea in chimica e tecnologia farmaceutiche, sono aggiunti i seguenti insegnamenti complementari: farmacognosia;   
-fitochimica.   
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Gli articoli 196 e 206 relativi alla scuola di specializzazione in medicina del lavoro sono abrogati e sostituiti dai seguenti:  
+  
+Art. 196. - Il corso della scuola ha la durata di tre anni.  
+  
+Art. 206. - Le materie di insegnamento sono le seguenti:  
+  
+1° Anno:  
+Fisiologia del lavoro ed ergonomia;  
+Tecnologia ed igiene del lavoro;  
+Patologia e clinica del lavoro;  
+Psicologia del lavoro.  
+  
+2° Anno:  
+Fisiologia del lavoro ed ergonomia;  
+Tecnologia ed igiene del lavoro;  
+Patologia e clinica del lavoro;  
+Psicologia del lavoro;  
+Tossicologia industriale e diagnostica di laboratorio;  
+Infortunistica e pronto soccorso;  
+Biometria e statistica sanitaria;  
+Medicina preventiva dei lavoratori.  
+  
+3° Anno:  
+Patologia e clinica del lavoro;  
+Tecnologia ed igiene del lavoro;  
+Infortunistica e pronto soccorso;  
+Medicina legale delle assicurazioni;  
+Medicina preventiva dei lavoratori;  
+Radiologia e medicina nucleare;  
+Tossicologia industriale e diagnostica di laboratorio;  
+Dermatologia professionale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 luglio 1981
+### Dato a Roma, addi' 31 ottobre 1972
 
-PERTINI BODRATO
+LEONE SCALFARO
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dai conti, addi' 7 gennaio 1982
+Registrato alla Corte dei conti, addi' 23 febbraio 1973
 
-Registro n. 1 Istruzione, foglio n. 129
+Atti di Governo, registro n. 256, foglio n. 26. - VALENTINI

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1975 n. 579
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 dicembre 1986 n. 982
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1975 n. 579
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 dicembre 1986 n. 982
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un'eredita'.
 ----------------------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad ac
 Art. 1
 ------
 
-N.
+n.
 
-579. Decreto del Presidente della Repubblica 29 settembre 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, un'eredita' consistente nella quota dell'1,5% dell'asse ereditario, per un valore di L. 1.500.000, disposta dal sig. Giovanni Chiari, con testamento olografo 1 gennaio 1970, pubblicato in data 28 luglio 1971, n. 4510 di repertorio e n. 1302 di raccolta, a rogito dott. Antonio Mosca notaio in Castelfiorentino (Firenze), e registrato a Castelfiorentino in data 30 luglio 1971, al n. 781, vol. 90.  
+982. Decreto del Presidente della Repubblica 3 dicembre 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare col beneficio d'inventario l'eredita', consistente in un appartamento sito in Roma, viale Angelico n. 38, distinto nel nuovo catasto edilizio urbano alla partita 104084, foglio 400, mappale 119, sub 7, valutato con perizia di parte L. 72.500.000, elevate dall'ufficio tecnico erariale a L. 170.000.000, nonche' in titoli, conti correnti, ecc., come da inventario, per un importo complessivo determinato, al netto delle passivita', in L. 239.849.707, disposta dalla sig.ra Santoro Maria ved. Saturnini a favore dell'Opera don Gnocchi, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi" come si evince dal verbale del consiglio di amministrazione della fondazione medesima in data 3 dicembre 1977, con testamento olografo e codicillo 4 aprile 1967, pubblicato in data 22 marzo 1977, n. 17509/4948 di repertorio, a rogito dott. Fulvio Scuccimarra, notaio in Roma, registrato a Roma in data 30 marzo 1977.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 26 novembre 1975  
-Atti di Governo, registro n. 14, foglio n. 44
+Visto, il Guardasigilli: ROGNONI  
+Registrato alla Corte dei conti, addi' 13 gennaio 1987  
+Registro n. 1 Presidenza, foglio n. 175

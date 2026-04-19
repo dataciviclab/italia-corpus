@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1964 n. 967
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1248
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1964 n. 967
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1248
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,388 +10,254 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successive modificazioni;
+Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli 49 e 50 relativi agli Istituti di demografia e di finanza sono abrogati e sostituiti dai seguenti con il conseguente spostamento della successiva numerazione:
+Articolo unico
+--------------
 
-Istituto di statistica e demografia.
-
-Art. 49. - Presso la Facolta' e' costituito un Istituto di statistica e demografia.
-
-L'Istituto e' ordinato anche come seminario ai sensi dell'art. 23 del regolamento generale universitario, approvato con [regio decreto 6 aprile 1924, n. 674](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674).
-
-Art. 50. - L'Istituto comprende gli insegnamenti di Statistica e di Demografia. Direttore dell'Istituto e' il professore ufficiale dell'insegnamento di Statistica.
-
-L'Istituto ha il fine di coordinare gli insegnamenti della Statistica e della Demografia, nonche' di promuovere e di agevolare studi e ricerche nel campo della Statistica teorica ed applicata e della Demografia.
-
-Art. 51. - Per quanto riguarda il personale assistente, tecnico e subalterno, l'Istituto si avvale del personale assegnato a ciascuna cattedra.
-
-Per il raggiungimento dei suoi fini l'Istituto dispone di attrezzature meccanografiche e di una biblioteca specializzata.
-
-L'Istituto organizza ricerche scientifiche, conferenze, discussioni, viaggi di istruzione e cura e pubblica collane o volumi di carattere didattico, scientifico e tecnico dell'istituto.
-
-Per il conseguimento delle proprie finalita' l'Istituto dispone e si avvale dei normali fondi che gli sono assegnati e di assegnazioni che all'Istituto fossero fatte da Enti o da privati.
-
-Art. 52. - Sono ammessi a frequentare l'Istituto gli studenti ed i laureati della Facolta'. Sono ammessi altresi' a frequentare Istituto gli studenti ed i laureati di altre Facolta' e di Istituti universitari anche stranieri che in base a regolare domanda, ne ottengano la autorizzazione dal direttore.
-
-Istituto di finanza pubblica
-
-Art. 53. - Presso la Facolta' e' costituito un Istituto di finanza pubblica.
-
-L'Istituto e' ordinato anche come seminario ai sensi dell'art. 23 del regolamento generale universitario, approvato con [regio decreto 6 aprile 1924, n. 674](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674).
-
-Art. 54. - All'Istituto fa capo la cattedra di insegnamento di Scienza delle finanze e diritto finanziario.
-
-Direttore dell'Istituto e' il professore ufficiale dello insegnamento della Scienza delle finanze e diritto finanziario.
-
-Art. 55. - L'Istituto ha il fine di promuovere ed agevolare studi e ricerche nel campo della Finanza pubblica e del Diritto finanziario.
-
-Art. 56. - Per quanto riguarda il personale assistente, tecnico e subalterno l'Istituto si avvale del personale assegnato alla cattedra di Scienza delle finanze e diritto finanziario.
-
-Per il raggiungimento dei suoi fini l'Istituto dispone di attrezzature meccanografiche e di una biblioteca specializzata.
-
-L'Istituto organizza ricerche scientifiche, conferenze, discussioni, viaggi di istruzione e cura e pubblica collane o volumi di carattere didattico, scientifico e tecnico dell'Istituto.
-
-Per il conseguimento delle proprie finalita' l'Istituto dispone e si avvale dei normali fondi che gli sono assegnati e di assegnazioni che all'Istituto fossero fatte da Enti o da privati.
-
-Art. 57. - Sono ammessi a frequentare l'Istituto gli studenti ed i laureati della Facolta'. Sono ammessi altresi' a frequentare l'Istituto gli studenti ed i laureati di altre Facolta' e di Istituti universitari anche stranieri che, in base a regolare domanda, ne ottengano la autorizzazione del direttore.
-
-Art. 66. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti i seguenti:
-
-Paleografia greca;
-
-Paleografia latina.
-
-Art. 108. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di "Dermatologia sperimentale".
-
-Art. 116. - Agli Istituti della Facolta' di medicina e chirurgia e' aggiunto il seguente:
-
-Istituto di anatomia topografica.
-
-L'istituto di Clinica odontoiatrica muta denominazione in "Istituto di clinica odontoiatrica e stomatologica".
-
-Art. 174. - Agli insegnamenti obbligatori sul piano della Facolta' (b) del corso di laurea in Ingegneria meccanica e' aggiunto quello di "Scienza dei metalli".
-
-Art. 175. - Nel gruppo delle materie a scelta dello studente (c) del corso di laurea in Ingegneria elettrotecnica, indirizzo elettromeccanico, l'insegnamento di "Tecnologie meccaniche IV anno", e' abrogato e sostituito dall'insegnamento "Scienza dei metalli IV anno.".
-
-Art. 176. - Tra insegnamenti obbligatori sul piano della Facolta' (b) del corso di laurea in Ingegneria chimica l'insegnamento di "Tecnologie meccaniche" e' abrogato e sostituito dall'insegnamento di "Scienza dei metalli".
-
-Art. 179. - Agli insegnamenti obbligatori sul piano della Facolta' (5) del corso di laurea in Ingegneria elettronica e' aggiunto quello di "Scienza dei metalli".
-
-Dopo l'art. 183, e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli, relativi alla costituzione e regolamentazione degli Istituti della Facolta' di ingegneria.
-
-Art. 184. - Gli insegnamenti della Facolta' di ingegneria sono raggruppati in Istituti comprendenti materie affini con lo scopo di promuovere e coordinare l'insegnamento e la ricerca nelle discipline che ad essi fanno capo; unificare i servizi, gli impianti e le attrezzature. Essi utilizzano i locali, il personale e le dotazioni assegnati alle cattedre che li costituiscono.
-
-Art. 185. - Ogni cattedra coperta da professore di ruolo costituisce, di regola, Istituto con la denominazione della cattedra stessa.
-
-Potranno essere, pero', costituite in' Istituto quelle cattedre che, pur non essendo coperte da professori di ruolo hanno i requisiti per assumere tale titolo.
-
-Art. 188. - Il direttore dell'Istituto e' il professore, di ruolo o incaricato, che impartisce l'insegnamento da cui l'Istituto medesimo trae la denominazione.
-
-Il direttore e' responsabile dell'amministrazione e del funzionamento dell'Istituto.
-
-Art. 187. - Previa deliberazione del Consiglio di facolta', potranno essere raggruppati in Istituto due o piu' insegnamenti affini, anche se non coperti da professori di ruolo. In tal caso la direzione dell'Istituto verra' affidata ad uno dei professori incaricati degli insegnamenti che vi fanno capo eccezionalmente, ad un professore di ruolo di altra materia, designato dalla Facolta' e nominato con decreto rettorale.
-
-Art. 188. - Gli Istituti costituiti presso la Facolta' sono i seguenti:
-
-Acquedotti e fognature;
-
-Aerodinamica;
-
-Architettura e composizione architettonica;
-
-Architettura navale Architettura tecnica;
-
-Chimica industriale;
-
-Costruzioni aeronautiche;
-
-Costruzioni idrauliche;
-
-Costruzioni di macchine;
-
-Costruzioni di ponti;
-
-Costruzioni di strade, ferrovie ed aeroporti;
-
-Costruzioni navali mercantili;
-
-Disegno;
-
-Elettrochimica;
-
-Elettrotecnica;
-
-Fisica tecnica;
-
-Geologia applicata;
-
-Idraulica;
-
-Impianti chimici;
-
-Impianti meccanici;
-
-Macchine;
-
-Macchine marine;
-
-Meccanica applicata alle macchine;
-
-Progetti di macchine;
-
-Semenza delle costruzioni;
-
-Tecnica delle costruzioni;
-
-Tecnica delle fondazioni e costruzioni in terra;
-
-Tecnica ed economia dei trasporti;
-
-Tecnica urbanistica;
-
-Tecnologie meccaniche;
-
-Topografia.
-
-Per deliberazione del Consiglio di facolta', agli Istituti come sopra costituiti potranno essere unite altre cattedre di materie affini.
-
-Qualora una cattedra coperta per incarico assurgera' a cattedra di ruolo, questa o si distacca dal raggruppamento a cui appartiene per costituirsi in Istituto, ovvero il detto raggruppamento prende la denominazione di Istituto con il nome della cattedra passata di ruolo.
-
-Art. 189. - Ogni Istituto potra' eventualmente disporre, secondo modalita' intese ad assicurare il raggiungimento delle finalita' nel modo piu' idoneo, di fondi per la ricerca e di borse di studio provenienti da enti pubblici e privati italiani e stranieri.
-
-Art. 196. - Agli Istituti della Facolta' di architettura sono aggiunti i seguenti Istituto di edilizia;
-
-Istituto di metodologia architettonica;
-
-Istituto di disegno e rilievo dei monumenti.
-
-Art. 220. - Dopo l'elenco degli insegnamenti del corso di laurea in Medicina veterinaria, il primo comma, relativo alle modalita' di esami dell'insegnamento di Anatomia degli animali domestici con istologia ed embriologia e' abrogato e sostituito dal seguente:
-
-"L'insegnamento di Anatomia degli animali domestici con istologia ed embriologia comprende due esami: uno alla fine del primo anno vertente sulla istologia, embriologia e l'anatomia generale, compreso lo studio della osteologia, artrologia e miologia; uno alla fine del secondo anno vertente sull'anatomia macroscopica e microscopica dei vari apparati".
-
-Art. 297. - Il secondo comma - relativo al numero degli iscritti della scuola di specializzazione in Malattie nervose e mentali - e' abrogato e sostituito dal seguente:
-
-"Il numero degli allievi che possono essere iscritti alla Scuola non puo' essere complessivamente superiore a cinquanta".
-
-Art. 300. - Il primo comma - relativo al numero degli iscritti della Scuola di specializzazione in radiologia medica e medicina nucleare - e' abrogato e sostituito dal seguente:
-
-"La Scuola ha la durata di tre anni. Il numero massimo degli iscritti e' di quindici per ogni anno di corso".
-
-Art. 316. - Il primo comma - relativo al numero degli iscritti della Scuola di specializzazione di Igiene generale e speciale - e' abrogato e sostituito dal seguente:
-
-"Il numero degli allievi da ammettere ogni anno accademico non puo' essere superiore a cinquanta".
-
-Art. 324. - Agli insegnamenti del 5° anno di corso della Scuola di specializzazione in Medicina interna e' aggiunto quello di:
-
-"5) Diagnostica e terapia con isotopi radioattivi in medicina interna".
-
-Art. 327. - Il primo comma - relativo al numero degli iscritti della Scuola di specializzazione in Anestesiologia - e' abrogato e sostituito dal seguente:
-
-"Il numero degli allievi da ammettere ogni anno accademico non puo' essere superiore a quindici: potranno eventualmente ottenere un'abbreviazione di corso coloro i quali siano in possesso di speciali titoli".
-
-Art. 366. - Il primo comma - relativo al numero degli iscritti della Scuola di specializzazione in Cardiologia e malattie dei vasi - e' abrogato e sostituito dal seguente:
-
-"Il numero degli allievi da ammettere ogni anno accademico non puo' essere superiore a venti".
-
-Art. 390. - Il secondo comma - relativo al numero degli iscritti alla Scuola di specializzazione in Semeiotica e diagnostica di laboratorio, e' abrogato e sostituito dal seguente:
-
-"Il numero massimo degli iscritti e' di trentadue per ogni anno di corso".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 13 agosto 1964
-
-Per il Presidente della Repubblica
-
-Il Presidente del Senato
-
-MERZAGORA
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dal conti, addi' 22 ottobre 1964 Atti del Governo, registro n. 187, foglio n. 160. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
+Gli articoli 253, 254, 255, 256, 257, 258, 259 e 260, relativi alla facolta' di architettura, sono soppressi e sostituiti dai seguenti nuovi articoli:   
+Art. 253. - La facolta' di architettura promuove e sviluppa gli studi sull'architettura, al fine di assicurare la formazione culturale e professionale degli studenti, il progresso della ricerca teorica ed applicata, la promozione culturale specifica nell'ambito della citta' e del territorio.   
+Art. 254. - La facolta' di architettura conferisce la laurea in architettura. Il corso di laurea in architettura e' articolato nei seguenti indirizzi:   
+a) indirizzo in progettazione architettonica;   
+b) indirizzo tecnologico;   
+c) indirizzo urbanistico;   
+d) indirizzo in tutela e recupero del patrimonio storico-architettonico.   
+Il corso di studi dura cinque anni e prevede trenta esami di profitto in trenta annualita'.   
+Al termine degli studi la facolta' rilascia il titolo di dottore in architettura.   
+Art. 255. - I titoli di studio che danno diritto alla ammissione al primo anno della facolta' sono quelli previsti dalle leggi vigenti.   
+Il consiglio di facolta' determina di volta in volta a quale anno possono essere ammessi gli studenti o i laureati provenienti da altre facolta' universitarie o istituti superiori italiani o stranieri, stabilendo quali degli esami da essi superati siano convalidati ai fini del corso di laurea in architettura.   
+Art. 256. - Nella facolta' di architettura possono essere attivati i seguenti insegnamenti tutti annuali, qui di seguito distinti in aree disciplinari:   
+1) Area progettuale architettonica (13 discipline):   
+composizione architettonica (I annualita');   
+composizione architettonica (II annualita');   
+allestimento e museografia;   
+arredamento e architettura degli interni;   
+arte dei giardini;   
+caratteri tipologici dell'architettura;   
+normative e legislazione per l'edilizia;   
+progettazione architettonica (I annualita');   
+progettazione architettonica (II annualita');   
+scenografia;   
+teoria dei modelli per la progettazione;   
+teoria e tecniche della progettazione architettonica;   
+architettura sociale.   
+2) Area della progettazione territoriale ed urbanistica (15 discipline):   
+urbanistica (I annualita');   
+urbanistica (II annualita');   
+analisi dei sistemi urbani;   
+analisi delle strutture urbanistiche e territoriali (I annualita');   
+analisi delle strutture urbanistiche e territoriali (II annualita');   
+diritto e legislazione urbanistica;   
+ecologia applicata;   
+geologia applicata ed idrogeologia;   
+gestione urbanistica del territorio;   
+pianificazione del territorio;   
+organizzazione del territorio;   
+progettazione urbanistica (I annualita');   
+progettazione urbanistica (II annualita');   
+teoria dell'urbanistica (I annualita');   
+teoria dell'urbanistica (II annualita').   
+3) Area storico-critica e del restauro (15 discipline):   
+storia dell'architettura (I annualita');   
+storia dell'architettura (II annualita');   
+storia dell'urbanistica (I annualita');   
+storia dell'urbanistica (II annualita');   
+storia dell'architettura contemporanea;   
+storia dell'arte;   
+storia della citta' e del territorio;   
+storia della critica e della letteratura architettonica;   
+storia della scienza;   
+storia della tecnologia;   
+restauro architettonico;   
+restauro urbano;   
+teoria del restauro;   
+storia dell'architettura (III annualita');   
+restauro architettonico (II annualita').   
+4) Area tecnologica (16 discipline):   
+tecnologia dell'architettura (I annualita');   
+tecnologia dell'architettura (II annualita');   
+cultura tecnologica della progettazione;   
+disegno industriale;   
+ergonomia;   
+igiene ambientale;   
+morfologia dei componenti;   
+progettazione ambientale;   
+sperimentazione di sistemi e componenti;   
+tecnica ed economia della produzione edilizia;   
+tecnologie dei materiali da costruzione;   
+tipologia strutturale;   
+unificazione edilizia e prefabbricazione;   
+programmazione edilizia;   
+tecnologie del recupero edilizio;   
+disegno industriale (II annualita').   
+5) Area impiantistica (6 discipline):   
+fisica tecnica ed impianti;   
+illuminotecnica, acustica e climatizzazione nell'edilizia;   
+impianti speciali di sicurezza;   
+impianti tecnici urbani;   
+ubicazione e distribuzione della produzione della energia;   
+impianti tecnici nell'edilizia.   
+6) Area fisico-matematica (12 discipline):   
+istituzioni di matematica;   
+istituzioni di matematica (iterato);   
+calcolo numerico e programmazione;   
+elaborazione elettronica della progettazione;   
+elaborazione elettronica dei dati;   
+fisica;   
+geometria descrittiva;   
+istituzioni di statistica;   
+linguaggio per l'uso dei calcolatori;   
+matematica applicata;   
+modelli matematici per la programmazione territoriale;   
+teoria dei sistemi.   
+7) Area della scienza e della tecnica delle costruzioni (11 discipline):   
+statica;   
+consolidamento ed adattamento degli edifici;   
+costruzioni in zone sismiche;   
+dinamica delle costruzioni;   
+geotecnica e tecnica delle fondazioni;   
+progettazione di grandi strutture;   
+scienza delle costruzioni;   
+tecnica delle costruzioni (I annualita');   
+tecnica delle costruzioni (II annualita');   
+complementi di scienza delle costruzioni;   
+sperimentazioni dei materiali e delle strutture.   
+8) Area socio-economica (10 discipline):   
+estimo ed esercizio professionale;   
+economia urbana e regionale;   
+antropologia culturale;   
+demografia;   
+economia dei trasporti;   
+fondamenti di economia;   
+geografia urbana e regionale;   
+sociologia urbana e rurale.   
+9) Area della rappresentazione (12 discipline):   
+disegno e rilievo;   
+applicazioni di geometria descrittiva;   
+cartografia tematica;   
+elementi di fotogrammetria;   
+interpretazione di immagini e telerilevamenti;   
+strumenti e metodi per il rilievo architettonico;   
+strumenti e tecniche di comunicazione visiva;   
+tecniche della cartografia automatica;   
+tecniche di rappresentazione dell'architettura;   
+topografia;   
+disegno e rilievo (II annualita').   
+Art. 257. - Le discipline fondamentali e comuni a tutti gli indirizzi sono:   
+1) composizione architettonica (I annualita');   
+2) composizione architettonica (II annualita');   
+3) progettazione architettonica (I annualita');   
+4) progettazione architettonica (II annualita');   
+5) urbanistica (I annualita');   
+6) urbanistica (II annualita');   
+7) storia dell'architettura (I annualita');   
+8) storia dell'architettura (II annualita');   
+9) restauro architettonico;   
+10) tecnologia dell'architettura (I annualita');   
+11) tecnologia dell'architettura (II annualita');   
+12) fisica tecnica ed impianti;   
+13) istituzioni di matematica;   
+14) statica;   
+15) scienza delle costruzioni;   
+16) estimo ed esercizio professionale;   
+17) disegno e rilievo;   
+18) una annualita' dell'area 8) socio-economica.   
+Art. 258. - La scelta dell'indirizzo e' obbligatoria per lo studente.   
+All'interno di ciascuno indirizzo la facolta' indica annualmente uno o piu' "piani di studio orientati".   
+Fra i vari piani di studio orientati, attivati per lo stesso indirizzo, la facolta' stabilisce le relative equivalenze. Lo studente e' libero, dentro il quadro di tali equivalenze, di scegliere un suo piano di studio.   
+Il manifesto degli studi, prima dell'inizio dell'anno accademico, e precisamente entro il 30 giugno di ciascun anno, riporta i piani di studio che si vanno ad attivare.   
+Lo studente, all'interno dell'indirizzo di laurea prescelto, ferma restando l'obbligatorieta' dell'inserimento nel proprio piano di studio delle discipline elencate al precedente art. 257, puo' elaborare un proprio piano di studio autonomo.   
+I piani di studio sono approvati secondo le procedure delle vigenti norme.   
+Art. 259. - Sono stabilite le seguenti precedenze di esami relative alle materie fondamentali e comuni a tutti gli indirizzi:   
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 49 e 50 relativi agli Istituti di demografia e di finanza sono abrogati e sostituiti dai seguenti con il conseguente spostamento della successiva numerazione:  
+
+|  |  |
+| --- | --- |
+| Non si puo' essere ammessi a sostenere l'esame di: | Se non e' stato superato l'esame di: |
+| Scienze delle costruzioni | Statica |
+| Restauro architettonico | Storia dell'architettura (II annualita') |
+| Restauro architettonico | Scienza delle costruzioni |
+| Restauro architettonico | Progettazione architettonica (I annualita') |
+| Progettazione architettonica (I annualita') | Composizione architettonica (II annualita') |
+
   
-Istituto di statistica e demografia.  
   
-Art. 49. - Presso la Facolta' e' costituito un Istituto di statistica e demografia.  
-L'Istituto e' ordinato anche come seminario ai sensi dell'art. 23 del regolamento generale universitario, approvato con [regio decreto 6 aprile 1924, n. 674](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674).  
   
-Art. 50. - L'Istituto comprende gli insegnamenti di Statistica e di Demografia. Direttore dell'Istituto e' il professore ufficiale dell'insegnamento di Statistica.  
-L'Istituto ha il fine di coordinare gli insegnamenti della Statistica e della Demografia, nonche' di promuovere e di agevolare studi e ricerche nel campo della Statistica teorica ed applicata e della Demografia.  
+Progettazione architettonica (I \_   
   
-Art. 51. - Per quanto riguarda il personale assistente, tecnico e subalterno, l'Istituto si avvale del personale assegnato a ciascuna cattedra.  
-Per il raggiungimento dei suoi fini l'Istituto dispone di attrezzature meccanografiche e di una biblioteca specializzata.  
-L'Istituto organizza ricerche scientifiche, conferenze, discussioni, viaggi di istruzione e cura e pubblica collane o volumi di carattere didattico, scientifico e tecnico dell'istituto.  
-Per il conseguimento delle proprie finalita' l'Istituto dispone e si avvale dei normali fondi che gli sono assegnati e di assegnazioni che all'Istituto fossero fatte da Enti o da privati.  
+annualita) |Estimo ed esercizio professionale
+
+|  |  |
+| --- | --- |
+| Progettazione architettonica (I annualita') | Storia dell'architettura (II annualita') |
+
   
-Art. 52. - Sono ammessi a frequentare l'Istituto gli studenti ed i laureati della Facolta'. Sono ammessi altresi' a frequentare Istituto gli studenti ed i laureati di altre Facolta' e di Istituti universitari anche stranieri che in base a regolare domanda, ne ottengano la autorizzazione dal direttore.  
   
-Istituto di finanza pubblica  
   
-Art. 53. - Presso la Facolta' e' costituito un Istituto di finanza pubblica.  
-L'Istituto e' ordinato anche come seminario ai sensi dell'art. 23 del regolamento generale universitario, approvato con [regio decreto 6 aprile 1924, n. 674](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674).  
+Progettazione architettonica (II \_   
   
-Art. 54. - All'Istituto fa capo la cattedra di insegnamento di Scienza delle finanze e diritto finanziario.  
-Direttore dell'Istituto e' il professore ufficiale dello insegnamento della Scienza delle finanze e diritto finanziario.  
+annualita) |Scienza delle costruzioni  
+---------------------------------------------------------------------  
   
-Art. 55. - L'Istituto ha il fine di promuovere ed agevolare studi e ricerche nel campo della Finanza pubblica e del Diritto finanziario.  
   
-Art. 56. - Per quanto riguarda il personale assistente, tecnico e subalterno l'Istituto si avvale del personale assegnato alla cattedra di Scienza delle finanze e diritto finanziario.  
-Per il raggiungimento dei suoi fini l'Istituto dispone di attrezzature meccanografiche e di una biblioteca specializzata.  
-L'Istituto organizza ricerche scientifiche, conferenze, discussioni, viaggi di istruzione e cura e pubblica collane o volumi di carattere didattico, scientifico e tecnico dell'Istituto.  
-Per il conseguimento delle proprie finalita' l'Istituto dispone e si avvale dei normali fondi che gli sono assegnati e di assegnazioni che all'Istituto fossero fatte da Enti o da privati.  
+Tecnologia dell'architettura (II \_   
   
-Art. 57. - Sono ammessi a frequentare l'Istituto gli studenti ed i laureati della Facolta'. Sono ammessi altresi' a frequentare l'Istituto gli studenti ed i laureati di altre Facolta' e di Istituti universitari anche stranieri che, in base a regolare domanda, ne ottengano la autorizzazione del direttore.  
+annualita') |Statica
+
+|  |  |
+| --- | --- |
+| Urbanistica (I annualita) | Storia dell'architettura (II annualita') |
+| Urbanistica (I annualita') | Composizione architettonica (II annualita') |
+
   
-Art. 66. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti i seguenti:  
-Paleografia greca;  
-Paleografia latina.  
   
-Art. 108. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di "Dermatologia sperimentale".  
   
-Art. 116. - Agli Istituti della Facolta' di medicina e chirurgia e' aggiunto il seguente:  
-Istituto di anatomia topografica.  
-L'istituto di Clinica odontoiatrica muta denominazione in "Istituto di clinica odontoiatrica e stomatologica".  
   
-Art. 174. - Agli insegnamenti obbligatori sul piano della Facolta' (b) del corso di laurea in Ingegneria meccanica e' aggiunto quello di "Scienza dei metalli".  
-  
-Art. 175. - Nel gruppo delle materie a scelta dello studente (c) del corso di laurea in Ingegneria elettrotecnica, indirizzo elettromeccanico, l'insegnamento di "Tecnologie meccaniche IV anno", e' abrogato e sostituito dall'insegnamento "Scienza dei metalli IV anno.".  
-  
-Art. 176. - Tra insegnamenti obbligatori sul piano della Facolta' (b) del corso di laurea in Ingegneria chimica l'insegnamento di "Tecnologie meccaniche" e' abrogato e sostituito dall'insegnamento di "Scienza dei metalli".  
-  
-Art. 179. - Agli insegnamenti obbligatori sul piano della Facolta' (5) del corso di laurea in Ingegneria elettronica e' aggiunto quello di "Scienza dei metalli".  
-Dopo l'art. 183, e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli, relativi alla costituzione e regolamentazione degli Istituti della Facolta' di ingegneria.  
-  
-Art. 184. - Gli insegnamenti della Facolta' di ingegneria sono raggruppati in Istituti comprendenti materie affini con lo scopo di promuovere e coordinare l'insegnamento e la ricerca nelle discipline che ad essi fanno capo; unificare i servizi, gli impianti e le attrezzature. Essi utilizzano i locali, il personale e le dotazioni assegnati alle cattedre che li costituiscono.  
-  
-Art. 185. - Ogni cattedra coperta da professore di ruolo costituisce, di regola, Istituto con la denominazione della cattedra stessa.  
-Potranno essere, pero', costituite in' Istituto quelle cattedre che, pur non essendo coperte da professori di ruolo hanno i requisiti per assumere tale titolo.  
-  
-Art. 188. - Il direttore dell'Istituto e' il professore, di ruolo o incaricato, che impartisce l'insegnamento da cui l'Istituto medesimo trae la denominazione.  
-Il direttore e' responsabile dell'amministrazione e del funzionamento dell'Istituto.  
-  
-Art. 187. - Previa deliberazione del Consiglio di facolta', potranno essere raggruppati in Istituto due o piu' insegnamenti affini, anche se non coperti da professori di ruolo. In tal caso la direzione dell'Istituto verra' affidata ad uno dei professori incaricati degli insegnamenti che vi fanno capo eccezionalmente, ad un professore di ruolo di altra materia, designato dalla Facolta' e nominato con decreto rettorale.  
-  
-Art. 188. - Gli Istituti costituiti presso la Facolta' sono i seguenti:  
-Acquedotti e fognature;  
-Aerodinamica;  
-Architettura e composizione architettonica;  
-Architettura navale Architettura tecnica;  
-Chimica industriale;  
-Costruzioni aeronautiche;  
-Costruzioni idrauliche;  
-Costruzioni di macchine;  
-Costruzioni di ponti;  
-Costruzioni di strade, ferrovie ed aeroporti;  
-Costruzioni navali mercantili;  
-Disegno;  
-Elettrochimica;  
-Elettrotecnica;  
-Fisica tecnica;  
-Geologia applicata;  
-Idraulica;  
-Impianti chimici;  
-Impianti meccanici;  
-Macchine;  
-Macchine marine;  
-Meccanica applicata alle macchine;  
-Progetti di macchine;  
-Semenza delle costruzioni;  
-Tecnica delle costruzioni;  
-Tecnica delle fondazioni e costruzioni in terra;  
-Tecnica ed economia dei trasporti;  
-Tecnica urbanistica;  
-Tecnologie meccaniche;  
-Topografia.  
-Per deliberazione del Consiglio di facolta', agli Istituti come sopra costituiti potranno essere unite altre cattedre di materie affini.  
-Qualora una cattedra coperta per incarico assurgera' a cattedra di ruolo, questa o si distacca dal raggruppamento a cui appartiene per costituirsi in Istituto, ovvero il detto raggruppamento prende la denominazione di Istituto con il nome della cattedra passata di ruolo.  
-  
-Art. 189. - Ogni Istituto potra' eventualmente disporre, secondo modalita' intese ad assicurare il raggiungimento delle finalita' nel modo piu' idoneo, di fondi per la ricerca e di borse di studio provenienti da enti pubblici e privati italiani e stranieri.  
-  
-Art. 196. - Agli Istituti della Facolta' di architettura sono aggiunti i seguenti Istituto di edilizia;  
-Istituto di metodologia architettonica;  
-Istituto di disegno e rilievo dei monumenti.  
-  
-Art. 220. - Dopo l'elenco degli insegnamenti del corso di laurea in Medicina veterinaria, il primo comma, relativo alle modalita' di esami dell'insegnamento di Anatomia degli animali domestici con istologia ed embriologia e' abrogato e sostituito dal seguente:  
-"L'insegnamento di Anatomia degli animali domestici con istologia ed embriologia comprende due esami: uno alla fine del primo anno vertente sulla istologia, embriologia e l'anatomia generale, compreso lo studio della osteologia, artrologia e miologia; uno alla fine del secondo anno vertente sull'anatomia macroscopica e microscopica dei vari apparati".  
-  
-Art. 297. - Il secondo comma - relativo al numero degli iscritti della scuola di specializzazione in Malattie nervose e mentali - e' abrogato e sostituito dal seguente:  
-"Il numero degli allievi che possono essere iscritti alla Scuola non puo' essere complessivamente superiore a cinquanta".  
-  
-Art. 300. - Il primo comma - relativo al numero degli iscritti della Scuola di specializzazione in radiologia medica e medicina nucleare - e' abrogato e sostituito dal seguente:  
-"La Scuola ha la durata di tre anni. Il numero massimo degli iscritti e' di quindici per ogni anno di corso".  
-  
-Art. 316. - Il primo comma - relativo al numero degli iscritti della Scuola di specializzazione di Igiene generale e speciale - e' abrogato e sostituito dal seguente:  
-"Il numero degli allievi da ammettere ogni anno accademico non puo' essere superiore a cinquanta".  
-  
-Art. 324. - Agli insegnamenti del 5° anno di corso della Scuola di specializzazione in Medicina interna e' aggiunto quello di:  
-"5) Diagnostica e terapia con isotopi radioattivi in medicina interna".  
-  
-Art. 327. - Il primo comma - relativo al numero degli iscritti della Scuola di specializzazione in Anestesiologia - e' abrogato e sostituito dal seguente:  
-"Il numero degli allievi da ammettere ogni anno accademico non puo' essere superiore a quindici: potranno eventualmente ottenere un'abbreviazione di corso coloro i quali siano in possesso di speciali titoli".  
-  
-Art. 366. - Il primo comma - relativo al numero degli iscritti della Scuola di specializzazione in Cardiologia e malattie dei vasi - e' abrogato e sostituito dal seguente:  
-"Il numero degli allievi da ammettere ogni anno accademico non puo' essere superiore a venti".  
-  
-Art. 390. - Il secondo comma - relativo al numero degli iscritti alla Scuola di specializzazione in Semeiotica e diagnostica di laboratorio, e' abrogato e sostituito dal seguente:  
-"Il numero massimo degli iscritti e' di trentadue per ogni anno di corso".  
+Per le materie pluriennali - con la stessa denominazione seguita da indici progressivi - la propedeuticita' interna e' implicita ed in ciascun anno di corso non puo' essere sostenuto piu' di un esame di profitto, relativamente all'anno di iscrizione.   
+La collocazione negli anni di corso delle discipline comuni agli indirizzi e delle discipline caratterizzanti, saranno indicate anno per anno nel manifesto degli studi.   
+Art. 260. - L'attivita' didattica si organizza all'interno dei diversi insegnamenti individuati negli indirizzi e nei piani di studio, in lezioni integrate eventualmente da attivita' seminariali, da esercitazioni pratiche, conferenze, visite, ecc..   
+Le forme sperimentali dell'attivita' didattica, anche nella definizione del contributo differenziato dei docenti e dei ricercatori, in rapporto con le indicazioni della commissione di Ateneo, vanno registrate e specificate all'interno del manifesto d'anno e in relazione agli indirizzi.   
+Lo studente, inoltre, dovra' essere sottoposto all'accertamento della conoscenza di almeno una lingua straniera fra quelle indicate dalla facolta' nel manifesto annuale degli studi, mediante colloquio e traduzione di testi scientifici, da effettuarsi prima dell'assegnazione della tesi di laurea con docenti di discipline attinenti alla tesi stessa.   
+Per ogni insegnamento l'esame di profitto consiste in un colloquio sull'esperienza svolta nei corsi, eventualmente integrato da discussioni sulle esercitazioni condotte durante il corso, da prove grafiche o scritte e da relazioni.   
+L'esame di laurea consiste nella valutazione della esperienza svolta dal candidato nel corso degli studi e nella discussione di una tesi riguardante lo specifico campo disciplinare dell'indirizzo prescelto.   
+La tesi viene redatta dal candidato sotto la guida di un docente ufficiale o di un collegio di docenti, che funge da relatore e viene scelta alla conclusione del terzo anno.   
+La tesi consiste o in una ricerca originale progettuale o in una a carattere monografico sui problemi specifici dei diversi indirizzi di studio.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 agosto 1964
+### Dato a Roma, addi' 28 ottobre 1983
 
-Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dal conti, addi' 22 ottobre 1964
+Registrato alla Corte dei conti, addi' 11 giugno 1984
 
-Atti del Governo, registro n. 187, foglio n. 160. - VILLA
+Registro n. 34 Istruzione, foglio n. 307

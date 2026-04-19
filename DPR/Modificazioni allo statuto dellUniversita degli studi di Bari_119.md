@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1247
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1977 n. 481
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1247
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1977 n. 481
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,121 +10,117 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 68 - all'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:
+Art. 191 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica.
 
-miglioramento genetico degli alberi forestali;
+L'art. 246, secondo comma, relativo alla scuola di specializzazione in oculistica, e' modificato nel senso che il numero degli iscritti e' stabilito in trentadue per i quattro anni di corso (otto per ogni anno di corso).
 
-salvaguardia e valutazione delle risorse genetiche;
+Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica.
 
-geologia applicata.
+Scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica.
 
-Lo stesso elenco e' modificato nel senso che gli insegnamenti semestrali di produzione e controllo delle sementi e di batteriologia fitopatologica mutano la denominazione in quella di principi e metodologie genetiche delle produzioni sementiere (annuale) e di fitobatteriologia (annuale) ed i seguenti insegnamenti passano da semestrali ad annuali:
+La scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica che conferisce il titolo di specialista in medicina preventiva dei lavoratori e psicotecnica a laureati in medicina e chirurgia, e' istituita presso l'istituto di medicina del lavoro dell'Universita' di Bari. La direzione della scuola e' affidata al titolare di medicina del lavoro di detta Universita'. La scuola dispone delle attrezzature e delle opportunita' didattiche dell'istituto di medicina del lavoro.
 
-bachicoltura e apicoltura;
+Inoltre potra' disporre delle attrezzature di istituti i cui docenti collaboreranno allo svolgimento dei nuovi insegnamenti.
 
-colture protette;
+Art. 266. - Durante il corso, che ha la durata di tre anni, le lezioni relative alle materie indicate nel piano verranno integrate da esercitazioni di ricerca diagnostica differenziale, di ricerca ecologica, di valutazione medico-biologica e di controllo tecnico dei limiti di sicurezza del lavoro. Tali esercitazioni saranno collegate a visite didattiche negli ambienti di lavoro.
 
-coniglicoltura;
+La frequenza alle lezioni, alle esercitazioni ed alle visite negli ambienti di lavoro e' obbligatoria secondo le modalita' che saranno enunciate dalla direzione del corso e avranno per fine la programmazione e la organizzazione pratica della medicina preventiva dei lavoratori e psicotecnica nel lavoro agricolo, artigianale e industriale. Al terzo anno di corso le esercitazioni si svolgeranno sotto forma di ricerca di gruppo interdisciplinare per la costruzione e la validazione di modelli operativi.
 
-edilizia zootecnica;
+Art. 267. - Il numero massimo degli iscritti e' di venti per anno di corso. La selezione dei candidati aspiranti all'ammissione avverra' per titoli ed esami.
 
-fisioclimatologia animale;
+Art. 268. - Alla fine di ogni anno i medici chirurghi specializzandi che abbiano ottenuto la firma di frequenza, dovranno sostenere un esame di profitto nelle materie di insegnamento annuale.
 
-foraggicoltura;
+Art. 269. - L'esame di diploma consiste nella discussione di una dissertazione scritta su un argomento di medicina preventiva dei lavoratori e psicotecnica che deve essere approvato dalla direzione della scuola; la dissertazione deve essere presentata per l'approvazione almeno un mese prima delle prove di esame. Le commissioni per gli esami di profitto e gli esami di diploma saranno nominate secondo le norme generali.
 
-frutticoltura industriale;
+Il piano di studi e' il seguente:
 
-igiene zootecnica;
+1° Anno:
 
-micotossicologia;
+dottrina generale della medicina preventiva;
 
-patologia delle piante ortive;
+dottrina generale della medicina preventiva dei lavoratori e psicotecnica.
 
-patologia delle sementi;
+2° Anno:
 
-tecnica delle applicazioni frigorifere.
+ecologia umana ed ecologia medica dei lavoratori;
 
-L'art. 76, relativo all'elenco degli istituti annessi alla facolta' di agraria, e' modificato nel senso che all'istituto di agronomia e coltivazioni erbacee fa capo anche l'insegnamento di giardini e tappeti erbosi; all'istituto di microbiologia agraria e tecnica fa capo l'insegnamento di microbiologia delle contaminazioni dell'ambiente e dei prodotti agricoli, all'istituto di zootecnia fa capo l'insegnamento di fisiologia della nutrizione animale; all'istituto di meccanica agraria fanno capo gli insegnamenti di meccanizzazione delle aziende zootecniche e di macchine e attrezzature per la sistemazione e per grandi movimenti di terra.
+tossicologia dei lavoratori;
 
-All'istituto di industrie agrarie fa capo l'insegnamento di chimica e tecnologia degli alimenti; all'istituto di estimo rurale e contabilita' fa capo l'insegnamento di metodologia della pratica estimativa; all'istituto di entomologia agraria fa capo l'insegnamento di entomologia forestale.
+basi biologiche, cliniche, medico-legali per l'abilitazione e la riabilitazione al lavoro specifico;
 
-Dopo l'art. 76, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione del seminario di studi di genetica agraria.
+definizione biologica, medica, psicofisiologica dei limiti di sicurezza consentiti nel lavoro.
 
-Seminario di studi di genetica agraria
+3° Anno:
 
-Art. 77. - Il seminario di genetica agraria e' istituito con lo scopo di promuovere il progresso degli studi di genetica applicata alle produzioni vegetali e animali attraverso conferenze, cicli di lezioni, riunioni e pubblicazioni a carattere interdisciplinare e di ampliare e completare la formazione e la preparazione scientifica dei giovani.
+organizzazione e metodologia della medicina preventiva dei lavoratori e psicotecnica in funzione dei rischi connessi al lavoro nell'uomo e nella donna nell'eta' evolutiva, nell'eta' adulta e nella senescenza.
 
-Art. 78. - Organo direttivo del seminario e' il consiglio direttivo. Il consiglio direttivo e' nominato dal consiglio di facolta'; esso e' costituito da cinque professori ufficiali della facolta' di agraria, almeno tre dei quali appartenenti agli istituti di miglioramento genetico delle piante agrarie, di agronomia e coltivazioni erbacee e di zootecnia.
+Il piano di studio sara' svolto mediante le seguenti materie di insegnamento:
 
-Art. 79. - Il consiglio direttivo stabilisce le linee generali di sviluppo e le attivita' scientifiche del seminario.
+1° Anno:
 
-Art. 80. - Il consiglio direttivo nomina tra i suoi membri un direttore. Il consiglio e il direttore durano in carica tre anni.
+1) basi biologiche cliniche della medicina preventiva (evoluzione del processo scientifico e costituzione di modelli operativi in medicina preventiva);
 
-Gli atti amministrativi hanno la firma del direttore che e' il responsabile del seminario.
+2) elementi di organizzazione artigianale, agricola, industriale, (aggiornamento sul valore e sul significato culturale e socio-economico della organizzazione del lavoro agli effetti della salute dei lavoratori);
 
-Art. 81. - Il seminario ha sede presso l'istituto di miglioramento genetico nelle piante agrarie.
+3) fisiologia della capacita' del lavoro e della fatica (teoria della fatica, fatica ischemica; fattori condizionati di origine endogena ed esogena);
 
-Art. 129 - all'elenco degli istituti, annessi alla facolta' di medicina veterinaria, sono aggiunti i seguenti istituti policattedra:
+4) psicologia e psicofisiologia della capacita' del lavoro e della fatica (teorie sulla motivazione; fatica sensoriale, fatica mentale; vigilanza);
 
-istituto di clinica medica veterinaria:
+5) capacita' di lavorare e fatica nella malattia (malattie metaboliche, endocrine, neurologiche, sensoriali, ecc.);
 
-istituto di ispezione degli alimenti;
+6) basi biologiche cliniche nella medicina preventiva dei lavoratori e psicotecnica (evoluzione del processo scientifico e costituzione dei modelli operativi in medicina preventiva dei lavoratori e psicotecnica).
 
-istituto di patologia delle malattie infettive e parassitarie degli animali domestici;
+2° Anno:
 
-istituto di alimentazione e nutrizione animale;
+1) effetti dei fattori ambientali sui sistemi biologici (mutageni);
 
-istituto di zootecnica.
+2) analisi dei sistemi in ecologia umana;
 
-L'art. 130, relativo al centro di microscopia elettronica, e' abrogato e sostituito dal seguente:
+3) ecologia medica dei lavoratori (distribuzione delle malattie dei lavoratori in rapporto alla natura del loro lavoro);
 
-E' istituito presso l'Universita' degli studi di Bari un centro di microscopia elettronica. Esso ha sede propria e svolge attivita' scientifica e didattica in campo medico, biologico e abiologico.
+4) tossicologia dei lavoratori morfologica, metabolica e comportamentale;
 
-Il centro e' diretto da un comitato esecutivo composto dal direttore e da sette membri in rappresentanza delle facolta' di medicina e chirurgia, ingegneria, scienze, agraria, farmacia, economia e commercio e medicina veterinaria.
+5) basi biologiche e cliniche per l'abilitazione e la riabilitazione dal lavoro;
 
-Il direttore e' nominato, per un quinquennio, dal rettore su proposta dei rappresentanti delle facolta' in seno al comitato esecutivo fra i professori ufficiali dell'Universita' di Bari particolarmente competenti nel campo della microscopia elettronica.
+6) basi medico-legali per l'abilitazione e la riabilitazione al lavoro;
 
-I membri rappresentanti delle facolta' sono designati dai rispettivi consigli di facolta'; essi durano in carica per due anni e possono essere confermati.
+7) definizione biologica, medica psicofisiologica dei limiti di sicurezza consentiti nel lavoro.
 
-Al comitato esecutivo e' devoluta la responsabilita' dell'attivita' scientifica e della gestione tecnica ed amministrativa del centro.
+3° Anno:
 
-Il centro dispone di un fondo destinato sia al mantenimento e al miglioramento delle attrezzature sia alle spese di gestione.
+1) controllo tecnico e medico dei limiti di sicurezza consentiti nei posti di lavoro e prevenzione della tossicologia dei lavoratori;
 
-Detti fondi sono costituiti da:
+2) controllo tecnico e medico degli scambi di energia e prevenzione della fatica dei lavoratori;
 
-a) una dotazione annuale stabilita, su proposta del rettore, dal consiglio di amministrazione dell'Universita' degli studi di Bari;
+3) controllo psicofisiologico per la prevenzione della patologia sensoriale e della psicopatologia dei lavoratori;
 
-b) fondi provenienti da enti pubblici o privati, sia sotto forma di donazione, sia in seguito a richieste del comitato esecutivo;
+4) controllo medico della sicurezza del lavoro e prevenzione degli infortuni dei lavoratori;
 
-c) contributo dei vari istituti o ricercatori per le ricerche eseguite.
-
-Il funzionamento del centro e' disciplinato da un apposito regolamento.
+5) organizzazione e metodologia della prevenzione medica in funzione dei rischi connessi al lavoro nell'uomo e nella donna in eta' evolutiva, in eta' adulta e nella senescenza.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1977
+Dato a Roma, addi' 25 maggio 1977
 
 LEONE
 
@@ -135,82 +131,80 @@ Visto, il Guardasigilli: BONIFACIO
 Registrato
 ----------
 
-alla Corte dei conti, addi' 18 luglio 1978 Registro n. 77 Istruzione, foglio n. 333
+alla Corte dei conti, addi' 28 luglio 1977 Registro n. 88 Istruzione, foglio n. 395
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 68 - all'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:   
-miglioramento genetico degli alberi forestali;   
-salvaguardia e valutazione delle risorse genetiche;   
-geologia applicata.   
-Lo stesso elenco e' modificato nel senso che gli insegnamenti semestrali di produzione e controllo delle sementi e di batteriologia fitopatologica mutano la denominazione in quella di principi e metodologie genetiche delle produzioni sementiere (annuale) e di fitobatteriologia (annuale) ed i seguenti insegnamenti passano da semestrali ad annuali:   
-bachicoltura e apicoltura;   
-colture protette;   
-coniglicoltura;   
-edilizia zootecnica;   
-fisioclimatologia animale;   
-foraggicoltura;   
-frutticoltura industriale;   
-igiene zootecnica;   
-micotossicologia;   
-patologia delle piante ortive;   
-patologia delle sementi;   
-tecnica delle applicazioni frigorifere.   
-L'art. 76, relativo all'elenco degli istituti annessi alla facolta' di agraria, e' modificato nel senso che all'istituto di agronomia e coltivazioni erbacee fa capo anche l'insegnamento di giardini e tappeti erbosi; all'istituto di microbiologia agraria e tecnica fa capo l'insegnamento di microbiologia delle contaminazioni dell'ambiente e dei prodotti agricoli, all'istituto di zootecnia fa capo l'insegnamento di fisiologia della nutrizione animale; all'istituto di meccanica agraria fanno capo gli insegnamenti di meccanizzazione delle aziende zootecniche e di macchine e attrezzature per la sistemazione e per grandi movimenti di terra.  
-All'istituto di industrie agrarie fa capo l'insegnamento di chimica e tecnologia degli alimenti; all'istituto di estimo rurale e contabilita' fa capo l'insegnamento di metodologia della pratica estimativa; all'istituto di entomologia agraria fa capo l'insegnamento di entomologia forestale.   
-Dopo l'art. 76, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione del seminario di studi di genetica agraria.   
-Seminario di studi di genetica agraria   
-Art. 77. - Il seminario di genetica agraria e' istituito con lo scopo di promuovere il progresso degli studi di genetica applicata alle produzioni vegetali e animali attraverso conferenze, cicli di lezioni, riunioni e pubblicazioni a carattere interdisciplinare e di ampliare e completare la formazione e la preparazione scientifica dei giovani.   
-Art. 78. - Organo direttivo del seminario e' il consiglio direttivo. Il consiglio direttivo e' nominato dal consiglio di facolta'; esso e' costituito da cinque professori ufficiali della facolta' di agraria, almeno tre dei quali appartenenti agli istituti di miglioramento genetico delle piante agrarie, di agronomia e coltivazioni erbacee e di zootecnia.   
-Art. 79. - Il consiglio direttivo stabilisce le linee generali di sviluppo e le attivita' scientifiche del seminario.   
-Art. 80. - Il consiglio direttivo nomina tra i suoi membri un direttore. Il consiglio e il direttore durano in carica tre anni.   
-Gli atti amministrativi hanno la firma del direttore che e' il responsabile del seminario.   
-Art. 81. - Il seminario ha sede presso l'istituto di miglioramento genetico nelle piante agrarie.   
-Art. 129 - all'elenco degli istituti, annessi alla facolta' di medicina veterinaria, sono aggiunti i seguenti istituti policattedra:   
-istituto di clinica medica veterinaria:   
-istituto di ispezione degli alimenti;   
-istituto di patologia delle malattie infettive e parassitarie degli animali domestici;   
-istituto di alimentazione e nutrizione animale;   
-istituto di zootecnica.   
-L'art. 130, relativo al centro di microscopia elettronica, e' abrogato e sostituito dal seguente:   
-E' istituito presso l'Universita' degli studi di Bari un centro di microscopia elettronica. Esso ha sede propria e svolge attivita' scientifica e didattica in campo medico, biologico e abiologico.   
-Il centro e' diretto da un comitato esecutivo composto dal direttore e da sette membri in rappresentanza delle facolta' di medicina e chirurgia, ingegneria, scienze, agraria, farmacia, economia e commercio e medicina veterinaria.   
-Il direttore e' nominato, per un quinquennio, dal rettore su proposta dei rappresentanti delle facolta' in seno al comitato esecutivo fra i professori ufficiali dell'Universita' di Bari particolarmente competenti nel campo della microscopia elettronica.   
-I membri rappresentanti delle facolta' sono designati dai rispettivi consigli di facolta'; essi durano in carica per due anni e possono essere confermati.   
-Al comitato esecutivo e' devoluta la responsabilita' dell'attivita' scientifica e della gestione tecnica ed amministrativa del centro.   
-Il centro dispone di un fondo destinato sia al mantenimento e al miglioramento delle attrezzature sia alle spese di gestione.   
-Detti fondi sono costituiti da:   
-a) una dotazione annuale stabilita, su proposta del rettore, dal consiglio di amministrazione dell'Universita' degli studi di Bari;   
-b) fondi provenienti da enti pubblici o privati, sia sotto forma di donazione, sia in seguito a richieste del comitato esecutivo;   
-c) contributo dei vari istituti o ricercatori per le ricerche eseguite.   
-Il funzionamento del centro e' disciplinato da un apposito regolamento.   
+Art. 191 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica.   
+L'art. 246, secondo comma, relativo alla scuola di specializzazione in oculistica, e' modificato nel senso che il numero degli iscritti e' stabilito in trentadue per i quattro anni di corso (otto per ogni anno di corso).   
+Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica.   
+Scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica.   
+La scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica che conferisce il titolo di specialista in medicina preventiva dei lavoratori e psicotecnica a laureati in medicina e chirurgia, e' istituita presso l'istituto di medicina del lavoro dell'Universita' di Bari. La direzione della scuola e' affidata al titolare di medicina del lavoro di detta Universita'. La scuola dispone delle attrezzature e delle opportunita' didattiche dell'istituto di medicina del lavoro.   
+Inoltre potra' disporre delle attrezzature di istituti i cui docenti collaboreranno allo svolgimento dei nuovi insegnamenti.   
+Art. 266. - Durante il corso, che ha la durata di tre anni, le lezioni relative alle materie indicate nel piano verranno integrate da esercitazioni di ricerca diagnostica differenziale, di ricerca ecologica, di valutazione medico-biologica e di controllo tecnico dei limiti di sicurezza del lavoro. Tali esercitazioni saranno collegate a visite didattiche negli ambienti di lavoro.   
+La frequenza alle lezioni, alle esercitazioni ed alle visite negli ambienti di lavoro e' obbligatoria secondo le modalita' che saranno enunciate dalla direzione del corso e avranno per fine la programmazione e la organizzazione pratica della medicina preventiva dei lavoratori e psicotecnica nel lavoro agricolo, artigianale e industriale. Al terzo anno di corso le esercitazioni si svolgeranno sotto forma di ricerca di gruppo interdisciplinare per la costruzione e la validazione di modelli operativi.   
+Art. 267. - Il numero massimo degli iscritti e' di venti per anno di corso. La selezione dei candidati aspiranti all'ammissione avverra' per titoli ed esami.   
+Art. 268. - Alla fine di ogni anno i medici chirurghi specializzandi che abbiano ottenuto la firma di frequenza, dovranno sostenere un esame di profitto nelle materie di insegnamento annuale.   
+Art. 269. - L'esame di diploma consiste nella discussione di una dissertazione scritta su un argomento di medicina preventiva dei lavoratori e psicotecnica che deve essere approvato dalla direzione della scuola; la dissertazione deve essere presentata per l'approvazione almeno un mese prima delle prove di esame. Le commissioni per gli esami di profitto e gli esami di diploma saranno nominate secondo le norme generali.   
+Il piano di studi e' il seguente:   
+1° Anno:   
+dottrina generale della medicina preventiva;   
+dottrina generale della medicina preventiva dei lavoratori e psicotecnica.   
+2° Anno:   
+ecologia umana ed ecologia medica dei lavoratori;   
+tossicologia dei lavoratori;   
+basi biologiche, cliniche, medico-legali per l'abilitazione e la riabilitazione al lavoro specifico;   
+definizione biologica, medica, psicofisiologica dei limiti di sicurezza consentiti nel lavoro.   
+3° Anno:   
+organizzazione e metodologia della medicina preventiva dei lavoratori e psicotecnica in funzione dei rischi connessi al lavoro nell'uomo e nella donna nell'eta' evolutiva, nell'eta' adulta e nella senescenza.   
+Il piano di studio sara' svolto mediante le seguenti materie di insegnamento:   
+1° Anno:   
+1) basi biologiche cliniche della medicina preventiva (evoluzione del processo scientifico e costituzione di modelli operativi in medicina preventiva);   
+2) elementi di organizzazione artigianale, agricola, industriale, (aggiornamento sul valore e sul significato culturale e socio-economico della organizzazione del lavoro agli effetti della salute dei lavoratori);   
+3) fisiologia della capacita' del lavoro e della fatica (teoria della fatica, fatica ischemica; fattori condizionati di origine endogena ed esogena);   
+4) psicologia e psicofisiologia della capacita' del lavoro e della fatica (teorie sulla motivazione; fatica sensoriale, fatica mentale; vigilanza);   
+5) capacita' di lavorare e fatica nella malattia (malattie metaboliche, endocrine, neurologiche, sensoriali, ecc.);   
+6) basi biologiche cliniche nella medicina preventiva dei lavoratori e psicotecnica (evoluzione del processo scientifico e costituzione dei modelli operativi in medicina preventiva dei lavoratori e psicotecnica).   
+2° Anno:   
+1) effetti dei fattori ambientali sui sistemi biologici (mutageni);   
+2) analisi dei sistemi in ecologia umana;   
+3) ecologia medica dei lavoratori (distribuzione delle malattie dei lavoratori in rapporto alla natura del loro lavoro);   
+4) tossicologia dei lavoratori morfologica, metabolica e comportamentale;   
+5) basi biologiche e cliniche per l'abilitazione e la riabilitazione dal lavoro;   
+6) basi medico-legali per l'abilitazione e la riabilitazione al lavoro;   
+7) definizione biologica, medica psicofisiologica dei limiti di sicurezza consentiti nel lavoro.   
+3° Anno:   
+1) controllo tecnico e medico dei limiti di sicurezza consentiti nei posti di lavoro e prevenzione della tossicologia dei lavoratori;   
+2) controllo tecnico e medico degli scambi di energia e prevenzione della fatica dei lavoratori;   
+3) controllo psicofisiologico per la prevenzione della patologia sensoriale e della psicopatologia dei lavoratori;   
+4) controllo medico della sicurezza del lavoro e prevenzione degli infortuni dei lavoratori;   
+5) organizzazione e metodologia della prevenzione medica in funzione dei rischi connessi al lavoro nell'uomo e nella donna in eta' evolutiva, in eta' adulta e nella senescenza.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1977
+### Dato a Roma, addi' 25 maggio 1977
 
 LEONE MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 18 luglio 1978
+Registrato alla Corte dei conti, addi' 28 luglio 1977
 
-Registro n. 77 Istruzione, foglio n. 333
+Registro n. 88 Istruzione, foglio n. 395

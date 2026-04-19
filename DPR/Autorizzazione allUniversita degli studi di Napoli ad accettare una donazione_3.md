@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1950 n. 1259
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1955 n. 783
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1950 n. 1259
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1955 n. 783
+=============================================================
 
 Autorizzazione all'Universita' degli studi di Napoli ad accettare una donazione.
 --------------------------------------------------------------------------------
@@ -12,7 +12,8 @@ Art. 1
 
 N.
 
-1259. Decreto del Presidente della Repubblica 25 ottobre 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Napoli viene autorizzata ad accettare la donazione di una collezione di rocce, minerali e fossili, disposta in suo favore dalla sig.ra Adele Tenore ved. Villa, con atto pubblico amministrativo in data 30 marzo 1948, perche' venga collocata in apposite vetrine in una sala del Museo di geologia, da intitolarsi al nome del "Professore Gaetano Tenore".  
+783. Decreto del Presidente della Repubblica 15 luglio 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Napoli viene autorizzata ad accettare la donazione della somma di L. 1.100.000 (un milione centomila) nominali; disposta dal prof. Massimo Ferrara e con la rendita derivante dalla suddetta liberalita' sara' istituito un premio biennale di laurea intitolato "Premio prof. Luigi Ferrara".  
   
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 20 marzo 1951
+Visto, il Guardasigilli: MORO  
+Registrato alla Corte dei conti, addi' 22 agosto 1955  
+Atti del Governo, registro n. 92, foglio n. 93. - CARLOMAGNO

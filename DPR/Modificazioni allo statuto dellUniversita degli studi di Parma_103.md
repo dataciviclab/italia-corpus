@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 luglio 1955 n. 801
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1980 n. 1087
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 luglio 1955 n. 801
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1980 n. 1087
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con i [regi decreti 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1772); [1 ottobre 1931, n. 1380](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1380); [26 ottobre 1933, n. 2401](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1933-10-26;2401); [13 dicembre 1934, n. 2423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-13;2423); [1 ottobre 1936, n. 2076](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2076); [20 aprile 1939, n. 1067](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-04-20;1067); [1 agosto 1941, n. 893](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-08-01;893);[26 marzo 1942, n. 330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-03-26;330); [5 settembre 1942, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1178); [21 gennaio 1943, n. 21; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1943-01-21;21) [30 dicembre 1947, n. 1735 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1735) [27 marzo 1948, n. 458](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-03-27;458); [30 ottobre 1949, n. 1002](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1002); [30 maggio 1950, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-05-30;615); [11 aprile 1951, n. 471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;471); [27 ottobre 1951, n. 1701](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1701); [31 agosto 1951, n. 1824](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-31;1824); [25 luglio 1952, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1350); [16 ottobre 1952, n. 4013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-16;4013); [27 marzo 1954, n. 734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-27;734); [24 settembre 1954, n. 1135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-24;1135) e [4 febbraio 1955, n. 116](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;116);
+Veduto lo statuto dell'Universita' di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,83 +20,45 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 16 novembre 1954, n. 1237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-11-16;1237);
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 --------
 
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 1
-------
+Articolo unico
+--------------
 
   
-Dopo l'art. 20, sono aggiunti i seguenti nuovi articoli, con il conseguente spostamento della numerazione degli articoli successivi.  
-Facolta' di economia e commercio  
-Art. 21. - La Facolta' di economia e commercio conferisce la laurea in economia e commercio.  
-Art. 22. - La durata del corso degli studi per la laurea in economia e commercio e' di quattro anni.  
-E' titolo di ammissione il diploma di maturita' classica, di maturita' scientifica, di abilitazione per i provenienti dagli Istituti tecnici commerciali, industriali, agrari, nautici e per geometri.  
-Sono insegnamenti fondamentali:  
-1) Istituzioni di diritto privato;  
-2) Istituzioni di diritto pubblico;  
-3) Diritto commerciale (biennale);  
-4) Matematica generale;  
-5) Matematica finanziaria (biennale);  
-6) Statistica (biennale);  
-7) Economia politica (biennale);  
-8) Diritto del lavoro;  
-9) Scienza delle finanze e diritto finanziario;  
-10) Economia e politica agraria;  
-11) Politica economica e finanziaria;  
-12) Storia economica;  
-13) Geografia economica (biennale);  
-14) Ragioneria generale ed applicata (biennale);  
-15) Tecnica bancaria e professionale;  
-16) Tecnica industriale e commerciale;  
-17) Merceologia;  
-18) Lingua francese o spagnola (triennale);  
-19) Lingua inglese o tedesca (triennale).  
-Sono insegnamenti complementari:  
-1) Diritto industriale;  
-2) Diritto amministrativo;  
-3) Diritto internazionale;  
-4) Legislazione bancaria;  
-5) Economia e finanza delle imprese di assicurazione;  
-6) Tecnica del commercio internazionale;  
-7) Tecnica commerciale dei prodotti agricoli;  
-8) Economia montana e forestale;  
-9) Economia dei trasporti;  
-10) Diritto della navigazione;  
-11) Istituzioni di diritto processuale.  
-Art. 23. - Gli insegnamenti di "diritto commerciale" e di "geografia economica" comportano un unico esame alla fine del corso biennale; per gli altri insegnamenti biennali e' prescritto l'esame alla fine di ciascun corso annuale, dovendosi il primo corso considerare come propedeutico al secondo.  
-L'insegnamento triennale delle lingue estere comporta per ciascuna una prova scritta ed una orale alla fine del triennio.  
-Art. 24. - Dovranno essere osservate le seguenti precedenze nell'ordine degli esami:  
-a) gli esami di istituzioni di diritto privato e di istituzioni di diritto pubblico devono precedere qualsiasi esame di materie giuridiche;  
-b) l'esame di economia politica 1° deve precedere gli esami di economia e politica agraria, di politica economica e finanziaria, di storia economica, di scienza delle finanze e diritto finanziario;  
-c) l'esame di matematica generale deve precedere gli esami di statistica e di matematica finanziaria;  
-d) gli esami di ragioneria generale ed applicata 1° e 2° devono precedere quelli di tecnica bancaria e professionale e tecnica industriale e commerciale.  
-Art. 25. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in due da lui scelti fra i complementari.  
-Art. 48. - Agli insegnamenti complementari del corso di laurea, in chimica (indirizzo o organico-biologico) e' aggiunto quello di:  
-14) Chimica applicata (ai materiali da costruzione).  
+  
+Nell'art. 92, relativo al corso di laurea in matematica, l'insegnamento di "topologie differenziali" cambia la denominazione in quella di "topologia differenziale".   
+Nell'art. 107, relativo al corso di laurea in chimica, gli insegnamenti di "analisi strumentale", "chimica organica superiore" e "tecnica e sintesi speciali inorganiche" cambiano la denominazione rispettivamente in quella di "analisi chimica strumentale", "chimica inorganica superiore" e "tecniche e sintesi speciali organiche".   
+Nell'art. 122, relativo al biennio di studi propedeutici per la laurea in ingegneria, all'elenco degli insegnamenti del secondo anno, dopo l'insegnamento di "complementi di chimica generale ed inorganica", e' aggiunto il seguente nuovo insegnamento:   
+"elementi di calcolo numerico e programmazione".   
+Nell'art. 129, relativo al corso di laurea in scienze geologiche, e' aggiunto il seguente nuovo comma:   
+"I titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge".   
+Nell'art. 130, relativo al corso di laurea in scienze geologiche, il primo e sesto comma sono soppressi; nel medesimo articolo e' aggiunto il seguente quinto comma:   
+"L'insegnamento biennale in fisica sperimentale compreso nell'elenco degli insegnamenti fondamentali comporta un esame alla fine di ciascun corso annuale".   
+Nell'art. 294, relativo alla scuola di specializzazione sulle conserve alimentari di origine vegetale, il primo comma e' cosi' riformulato:   
+"Alla scuola di specializzazione per il conseguimento del diploma di specialista in conserve alimentari di origine vegetale, possono iscriversi i laureati in agraria, chimica, chimica industriale, ingegneria, medicina veterinaria, scienze naturali e scienze biologiche".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 luglio 1955
+### Dato a Roma, addi' 10 settembre 1980
 
-GRONCHI ROSSI
+PERTINI SARTI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 1 settembre 1955
+Registrato alla Corte dei conti, addi' 9 marzo 1981
 
-Atti del Governo, registro n. 92, foglio n. 134. - CARLOMAGNO
+Registro n. 22 Istruzione, foglio n. 297

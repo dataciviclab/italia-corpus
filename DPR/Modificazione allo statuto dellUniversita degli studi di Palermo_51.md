@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 589
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1125
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 589
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1125
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
@@ -39,19 +39,22 @@ Articolo unico
 --------------
 
   
-Nell'art. 67, relativo al corso di laurea in farmacia, all'elenco degli insegnamenti complementari, e' aggiunto il seguente nuovo insegnamento:  
-farmaci chemioterapici.  
+Nell'art. 58, relativo al corso di laurea in fisica, indirizzo didattico, all'elenco degli insegnamenti del terzo anno e' aggiunto il seguente nuovo insegnamento:  
+storia della fisica.  
+Nel medesimo articolo l'insegnamento di istituzioni di fisica nucleare viene trasferito all'elenco dei corsi (a scelta) per l'indirizzo didattico.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1983
+### Dato a Roma, addi' 31 dicembre 1985
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 15 ottobre 1983
+Registrato alla Corte dei conti, addi' 11 luglio 1986
 
-Registro n. 66 Istruzione, foglio n. 151
+Registro n. 55 Istruzione, foglio n. 392

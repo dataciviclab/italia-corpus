@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1954 n. 693
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 marzo 1954 n. 757
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1954 n. 693
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 marzo 1954 n. 757
+============================================================
 
 Autorizzazione all'Universita' di Genova ad accettare una donazione.
 --------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-693. Decreto del Presidente della Repubblica 19 maggio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Genova viene autorizzata ad accettare la donazione di L. 600.000 contanti, da impiegarsi nell'acquisto di titoli di Stato fruttanti l'interesse annuo del 5%, disposta in suo favore dal prof. Eugenio Giuseppe Togliatti, a nome dell'apposito Comitato, con atto pubblico amministrativo 12 ottobre 1953, per l'istituzione, con la relativa rendita, di un premio di studio biennale intitolato "Premio Gino Loria" e da conferirsi, mediante concorso per titoli, ad un laureato del precedente triennio, che abbia conseguito la laurea in matematica, oppure in matematica e fisica, oppure in fisica presso l'Universita' di Genova, discutendo una dissertazione di laurea originale su argomento matematico.  
+757. Decreto del Presidente della Repubblica 23 marzo 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Genova viene autorizzata ad accettare la donazione di L. 154.800, costituita da obbligazioni 6% I.M.I. Credito navale XIV emissione, per il valore di lire 140.000 nominali, e da un assegno circolare del Credito italiano Genova-Cornigliano n. C. 682813 di L. 14.800, disposta in suo favore, con atto pubblico amministrativo in data 15 gennaio 1953 dal dott. Umberto Bertazzi, a nome dell'apposito Comitato per le onoranze al dott. Felice Viani, quale ricavo delle sottoscrizioni raccolte per lo scopo suddetto, per l'istituzione, con la rendita del capitale donato, di un premio di studio annuale da intitolarsi al nome "Dott. Felice Viani" e da conferirsi per concorso ad un laureato in economia e commercio negli ultimi due anni, rispetto alla data di pubblicazione del bando di concorso, il quale abbia svolto la tesi su argomento riguardante i rapporti culturali ed economici internazionali.  
   
 Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 13 agosto 1954  
-Atti del Governo, registro n. 85, foglio n. 39. - TEMPESTA
+Registrato alla Corte dei conti, addi' 26 agosto 1954  
+Atti del Governo, registro n. 85, foglio n. 89. - CARLOMAGNO

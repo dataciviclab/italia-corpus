@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 febbraio 1955 n. 206
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1977 n. 603
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 febbraio 1955 n. 206
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1977 n. 603
+=============================================================
 
 Autorizzazione al Politecnico di Milano ad accettare un legato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-206. Decreto del Presidente della Repubblica 4 febbraio 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, il Politecnico di Milano viene autorizzato ad accettare il legato di L. 5.000.000, disposto in suo favore dalla signora Giuseppina Pasta vedova Omodeo-Sale', per l'istituzione, con la rendita annua del capitale donato, un posto di studio presso l'Opera del Politecnico medesimo.  
+603. Decreto del Presidente della Repubblica 12 maggio 1977, col quale, sulla proposta del Ministro per la pubblica istruzione, il Politecnico di Milano viene autorizzato ad accettare il legato disposto dalla sig.ra Maria Clara Emma Giuseppa detta Maria Folli con tre testamenti olografi in data 12 dicembre 1977 e uno in data 4 maggio 1974, pubblicati con atto pubblico 25 settembre 1974, n. 33130/9813 di repertorio, registrato a Milano il 7 ottobre 1974, a rogito dott. Paolo Consolandi, notaio in Milano, consistente in un appartamento sito in Milano, via Sardegna n. 42, compresi il box, la cantina ed il solaio, distinto al nuovo catasto edilizio urbano alla partita 19795, foglio 431, mappale 87, del valore di lire 27.300.000, e in titoli azionari per un valore di lire 10.000.000 da raggiungere comunque mediante obbligazioni, oppure in subordine mediante buoni del Tesoro, allo scopo di istituire due borse di studio intitolate all'ing. Tullio Folli.  
   
-Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 26 marzo 1955  
-Atti del Governo, registro n. 89, foglio n. 170. - CARLOMAGNO
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 19 agosto 1977  
+Registro n. 95 Istruzione, foglio n. 253

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 giugno 1957 n. 598
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1980 n. 1232
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 giugno 1957 n. 598
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1980 n. 1232
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,398 +10,224 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Napoli approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con i [regi decreti 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;1904); [4 maggio 1942, n. 557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-05-04;557); [5 settembre 1942, n. 1120 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-09-05;1120) [26 febbraio 1949, n. 612](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;612); [23 settembre 1949, n. 931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;931); 30 ottobre 1949, n.
+Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
 
-1059; 5 aprile 1950, n. 284; 30 ottobre 1950, n. 1277; 31 ottobre 1950, n. 1311; 18 aprile 1951, n. 934; 30 luglio 1951, n. 1304; 27 ottobre 1951, n. 1680; 19 settembre 1952, n. 4551; 25 agosto 1953, n.
-
-1117; 26 aprile 1954, n. 738; 30 giugno 1954, n. 753; 31 luglio 1954, n. 865; 24 agosto 1954, n. 987; 14 settembre 1954, n. 1056; 29 ottobre 1954, n. 1458; 29 ottobre 1954, n. 1465; 4 febbraio 1955, n. 71; 16 febbraio 1955, n. 220; 2 agosto 1955, n. 897; 20 settembre 1955, n. 939; 30 gennaio 1956, n. 163; 28 giugno 1956, n. 892 e 1° novembre 1956, n. 1604;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio universitario nazionale nei suoi pareri;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Decreta:
+Sulla
+-----
 
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 23, lettera a), contenente norme relative alla propedeuticita' degli insegnamenti del corso di laurea in giurisprudenza e' cosi' modificato:
-
-a) "le istituzioni di diritto romano e la storia del diritto romano rispetto al diritto romano ed alla papirologia giuridica".
-
-Art. 89. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: 17) "Urologia".
-
-Sono istituiti presso la Facolta' di architettura lo "Istituto di caratteri distributivi degli edifici" e lo "Istituto di fisica, fisica tecnica e impianti tecnici".
-
-Dopo l'art. 167 sono aggiunti i seguenti nuovi articoli con il conseguente spostamento della numerazione degli articoli successivi.
-
-Istituto di caratteri distributivi degli edifici
-
-Art. 168. - E' istituito presso la Facolta' di architettura l'Istituto di caratteri distributivi degli edifici.
-
-L'Istituto ha il fine di promuovere e agevolare studi e ricerche nel campo dei caratteri distributivi dei vari tipi di edifici.
-
-Art. 169. - Per tali fini l'istituto disporra' di una biblioteca specializzata, organizzera' discussioni e conferenze, promuovera' lo sviluppo di una raccolta di materiale bibliografico e fotografico, e visite di edifici in citta' e fuori di notevole interesse planimetrico e di impianti particolari.
-
-Art. 170. - Il direttore dell'istituto e' di diritto il titolare della cattedra di caratteri distributivi ed in caso di vacanza, chi lo sostituisce nell'insegnamento ufficiale.
-
-Art. 171. - Gli studenti della Facolta' ed i laureati in architettura possono partecipare a conferenze e discussioni scientifiche ed in generale servirsi di tutti i mezzi di studi offerti dall'Istituto.
-
-Art. 172. - L'Istituto potra' eventualmente disporre di borse di studio che vengono conferite dal Consiglio di Facolta' di architettura o da Enti pubblici o privati in base alle modalita' che saranno stabilite dai fondatori.
-
-Istituto di fisica, fisica tecnica e impianti tecnici
-
-Art. 173. - E' istituito presso la Facolta' di architettura l'Istituto di fisica, fisica tecnica ed impianti tecnici. L'istituto ha il fine di promuovere ed agevolare studi piu' approfonditi in alcuni settori di tali discipline e ricerche sperimentali nel campo della acustica applicata.
-
-Art. 174. - Per tali fini l'Istituto disporra' di una biblioteca specializzata, organizzera' discussioni e conferenze, promuovera' lo sviluppo di una raccolta di materiale scientifico, bibliografico e fotografico, e visite di edifici in citta' e fuori di notevole interesse e di impianti particolari.
-
-Art. 175. - Il direttore dell'Istituto e' di diritto il titolare della cattedra di fisica tecnica ed in caso di vacanza, chi lo sostituisce nell'insegnamento ufficiale.
-
-Art. 176. - Gli studenti della Facolta' ed i laureati in architettura possono partecipare a conferenze e discussioni scientifiche ed in generale servirsi di tutti i mezzi di studi offerti dall'istituto.
-
-Art. 177. - L'Istituto potra' eventualmente disporre di borse di studio che vengono conferite dal Consiglio della Facolta' di architettura o da Enti pubblici o privati in base alle modalita' che saranno stabilite dai fondatori.
-
-Gli articoli 294 e 295, concernenti l'ordinamento della scuola di perfezionamento in odontoiatria e protesi dentaria sono sostituiti come segue.
-
-Scuola di specializzazione in odontoiatria e protesi dentaria
-
-Art. 294. - La scuola ha la durata di due anni.
-
-Le materie d'insegnamento sono:
-
-1) Embriologia, anatomia descrittiva e topografica dei denti, del cavo orale, degli organi annessi e delle regioni limitrofe;
-
-2) Fisiologia della bocca;
-
-3) Microbiologia del cavo orale;
-
-4) Patologia dentale;
-
-5) Patologia speciale orale;
-
-6) Anatomia ed istologia patologica dei denti e del cavo orale;
-
-7) Farmacologia applicata alla stomatologia;
-
-8) Tecniche anestetiche stomatologiche;
-
-9) Radiologia stomatologica;
-
-10) Odontoiatria conservativa;
-
-11) Protesi dentaria;
-
-12) Protesi maxillo-facciale;
-
-13) Odontotecnica;
-
-14) Ortognatodonzia;
-
-15) Clinica chirurgica stomatologica;
-
-16) Gerontologia e Gerontoiatria stomatologica.
-
-Le materie indicate ai numeri 1, 2, 3, 4, 5, 6, 7, 8, 10, 11 sono impartite nel primo anno di corso.
-
-Sono impartite nel secondo anno di corso oltre le materie indicate ai numeri 8, 9, 12, 13, 14, 15, 16 anche quelle indicate ai numeri 10 e 11.
-
-Art. 295. - Gli esami di profitto hanno luogo alla fine di ciascun anno di corso per gruppo di materie e possono essere integrati da relative prove pratiche.
-
-A) Gruppo del primo anno:
-
-1) Embriologia, anatomia descrittiva e topografica dei denti, del cavo orale, degli organi annessi e delle regioni limitrofe:
-
-2) Fisiologia della bocca;
-
-3) Microbiologia del cavo orale;
-
-4) Patologia dentale;
-
-5) Patologia speciale orale;
-
-6) Anatomia ed istologia patologica dei denti e del cavo orale;
-
-7) Farmacologia applicata alla stomatologia.
-
-B) Gruppo del secondo anno:
-
-1) Tecniche anestetiche stomatologiche;
-
-2) Radiologia stomatologica;
-
-3) Odontoiatria conservativa;
-
-4) Protesi dentaria;
-
-5) Protesi maxillo-facciale;
-
-6) Odontotecnica;
-
-7) Ortognatodonzia;
-
-8) Clinica chirurgica stomatologica;
-
-9) Gerontologia e Gerontoiatria stomatologica.
-
-Gli iscritti non possono essere ammessi agli esami del secondo gruppo se non abbiano superati gli esami del primo.
-
-Alla fine del corso gli iscritti oltre a presentare la dissertazione scritta e sostenere la relativa discussione a norma dell'art. 276 devono sostenere una prova clinica ed una di tecnica operativa e di protesi.
-
-Art. 296. - Agli insegnamenti della scuola di perfezionamento in dermatologia e sifilografia sono aggiunti i seguenti:
-
-6) Semeiotica dermatologica e venereologica (primo anno);
-
-7) Anatomia e istologia patologica applicata (secondo anno);
-
-8) Sessuologia (secondo anno).
-
-Art. 297. - Il secondo ed il terzo comma sono rispettivamente sostituiti dai seguenti:
-
-"Gli esami di profitto del primo gruppo comprendono:
-
-anatomia e fisiologia della pelle; patologia generale dermatologica e venereologica, sierologia, batteriologia e micrologia, semeiotica dermatologica e venereologica; oltre ad un colloquio su argomento di clinica dermosiloplastica e un esame clinico di un dermopaziente".
-
-"Gli esami di profitto del secondo gruppo comprendono:
-
-clinica delle malattie cutanee; clinica delle malattie veneree; terapia fisica: terapia medicamentosa; cosmetologia e chirurgia riparatrice; igiene della cute e profilassi delle malattie cutanee con particolare riguardo alle dermatosi professionali; anatomia e istologia patologica applicata sessuologia; un esame clinico di due pazienti di spettanza dermatologica e venereologica".
-
-Dopo l'art. 353, sono aggiunti i seguenti nuovi articoli, relativi all'istituzione della "Scuola di specializzazione in chirurgia toracica".
-
-Scuola di specializzazione in chirurgia toracica
-
-Art. 354. - Alla Facolta' di medicina e chirurgia e' annessa la scuola di specializzazione in chirurgia toracica.
-
-Art. 355. - La durata del corso degli studi per il conseguimento del diploma di specialista in chirurgia toracica e' di due anni.
-
-Art. 356. - Possono ottenere l'iscrizione alla scuola previo esame di ammissione, i laureati in medicina e chirurgia che siano in possesso della libera docenza in patologia speciale chirurgica o in clinica chirurgica o del diploma di specialista in chirurgia generale.
-
-Art. 357. - La scuola e' costituita presso l'Istituto di clinica chirurgica e terapia chirurgica in collegamento con la clinica tisiologica ed e' posta sotto la direzione del titolare della cattedra della clinica chirurgica, coadiuvato da docenti particolarmente competenti in chirurgia e patologia toracica.
-
-Art. 358. - Il materiale didattico e' rappresentato da degenti per affezioni degli organi toracici in clinica chirurgia ed in clinica tisiologica; dalle rispettive raccolte anatomo-patologiche, nonche' dalle biblioteche degli Istituti medesimi.
-
-Art. 359. - Il corso si compone di insegnamenti fondamentali, di esercitazioni pratiche e di conferenze su argomenti speciali.
-
-Art. 360. - Gli insegnamenti impartiti dalla scuola sono i seguenti:
-
-1) Embriologia, anatomia descrittiva e topografica del torace e degli organi in esso contenuti;
-
-2) Fisiologia e fisiopatologia degli organi toracici;
-
-3) Patologia dell'apparato respiratorio;
-
-4) Patologia dell'apparato cardiocircolatorio;
-
-5) Patologia del mediastino e degli organi in esso contenuti;
-
-6) Semeiotica dell'apparato respiratorio e del mediastino (medica, endoscopica, radiologica, funzionale);
-
-7) Semeiotica dell'apparato cardiovascolare (medica, strumentale, radiologica, di laboratorio)
-
-8) Anatomia patologica del torace e degli organi toracici
-
-9) Principi di anestesia e di rianimazione in chirurgia toracica;
-
-10) Terapia chirurgica e tecnica operatoria.
-
-La frequenza alle lezioni, alle conferenze, alle esercitazioni e' obbligatoria.
-
-Art. 361. - Alla fine di ciascun anno accademico gli specializzandi che abbiano ottenuto le firme di frequenza dovranno sostenere gli esami di profitto nelle materie di insegnamento il cui superamento e' condizione indispensabile per l'iscrizione all'anno successivo.
-
-Sono materie del primo anno:
-
-a) Embriologia, Anatomia descrittiva e topografica del torace e degli organi in esso contenuti;
-
-b) Fisiologia e Fisiopatologia degli organi toracici;
-
-c) Anatomia patologica del torace e degli organi toracici;
-
-d) Principi di anestesia e di rianimazione in Chirurgia toracica.
-
-Per le materie biennali i relativi esami saranno sostenuti alla fine del biennio.
-
-Sono materie del secondo anno:
-
-a) Patologia dell'apparato respiratorio;
-
-b) Patologia dell'apparato cardiocircolatorio;
-
-c) Patologia del mediastino e degli organi in esso contenuti
-
-d) semeiotica dell'apparato respiratorio e del mediastino (medica, endoscopica, radiologica, funzionale);
-
-e) Semeiotica dell'apparato cardiovascolare (medica, strumentale, radiologica, di laboratorio);
-
-f) Terapia chirurgica e tecnica operatoria.
-
-Art. 362. - Alla fine del corso, l'iscritto, oltre a presentare la dissertazione scritta su un argomento di chirurgia toracica e a sostenere la relativa discussione, a norma dell'art. 276, dovra' sottoporsi ad una prova clinica.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 14 giugno 1957
-
-GRONCHI
-
-MORO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 25 luglio 1957 Atti del Governo, registro n. 106, foglio n. 231. - CARLOMAGNO
+proposta del Ministro della pubblica istruzione; Decreta:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Napoli approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con i [regi decreti 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;1904); [4 maggio 1942, n. 557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-05-04;557); [5 settembre 1942, n. 1120 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-09-05;1120) [26 febbraio 1949, n. 612](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;612); [23 settembre 1949, n. 931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;931); [30 ottobre 1949, n.   
-1059](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1059); [5 aprile 1950, n. 284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-04-05;284); [30 ottobre 1950, n. 1277](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1277); [31 ottobre 1950, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1311); [18 aprile 1951, n. 934](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;934); [30 luglio 1951, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-07-30;1304); [27 ottobre 1951, n. 1680](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1680); [19 settembre 1952, n. 4551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-19;4551); [25 agosto 1953, n.   
-1117](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;1117); [26 aprile 1954, n. 738](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;738); [30 giugno 1954, n. 753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;753); [31 luglio 1954, n. 865](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-07-31;865); [24 agosto 1954, n. 987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-08-24;987); [14 settembre 1954, n. 1056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1056); [29 ottobre 1954, n. 1458](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-29;1458); [29 ottobre 1954, n. 1465](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-29;1465); [4 febbraio 1955, n. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;71); [16 febbraio 1955, n. 220](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-16;220); [2 agosto 1955, n. 897](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-08-02;897); [20 settembre 1955, n. 939](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-20;939); [30 gennaio 1956, n. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-01-30;163); [28 giugno 1956, n. 892](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-06-28;892) e [1° novembre 1956, n. 1604](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-11-01;1604);   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Lo statuto dell'Universita' di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Decreta:   
+Dopo l'art. 560, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione, presso la prima facolta' di medicina e chirurgia, della scuola di specializzazione in oncologia.  
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 23, lettera a), contenente norme relative alla propedeuticita' degli insegnamenti del corso di laurea in giurisprudenza e' cosi' modificato:   
-a) "le istituzioni di diritto romano e la storia del diritto romano rispetto al diritto romano ed alla papirologia giuridica".   
-Art. 89. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: 17) "Urologia".   
-Sono istituiti presso la Facolta' di architettura lo "Istituto di caratteri distributivi degli edifici" e lo "Istituto di fisica, fisica tecnica e impianti tecnici".   
-Dopo l'art. 167 sono aggiunti i seguenti nuovi articoli con il conseguente spostamento della numerazione degli articoli successivi.   
+Scuola di specializzazione in oncologia  
   
-Istituto di caratteri distributivi degli edifici   
+Art. 561. - La scuola di specializzazione in oncologia ha sede presso l'istituto di patologia generale e conferisce il diploma di specialista in oncologia.  
+Art. 562. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
+Art. 563. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto all'inizio del corso il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente.  
+Art. 564. - La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazione.  
+Art. 565. - Il numero massimo degli allievi e' di venti per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi.  
+Art. 566. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 567. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+patologia generale dei tumori I;  
+oncologia sperimentale I;  
+anatomia ed istologia patologica dei tumori I;  
+epidemiologia dei tumori;  
+cancerogenesi ambientale e professionale e prevenzione primaria;  
+immunologia dei tumori.  
+2° Anno:  
+patologia generale dei tumori II;  
+oncologia sperimentale II;  
+anatomia ed istologia patologica dei tumori II;  
+citodiagnostica dei tumori;  
+prevenzione clinica e tecniche diagnostiche e di laboratorio;  
+radiodiagnostica dei tumori;  
+oncologia medica I;  
+oncologia chirurgica I.  
+3° Anno:  
+oncologia medica II;  
+oncologia chirurgica II;  
+radioterapia dei tumori;  
+oncologia dell'apparato genitale femminile;  
+oncologia pediatrica;  
+principi di riabilitazione oncologica;  
+organizzazione della lotta contro i tumori.  
+La scuola provvede ad organizzare seminari e conferenze su specifici argomenti ad integrazione di quelli elencati nello statuto.  
+Art. 568. - La frequenza alle lezioni, alle esercitazioni pratiche, seminari e conferenze organizzate dalla scuola e' obbligatoria per l'ammissione agli esami. Il superamento degli esami di ciascuno anno e' condizione indispensabile per l'iscrizione all'anno successivo.  
+Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.  
+Art. 569. - Al termine del triennio per ottenere il diploma i candidati devono presentare una dissertazione scritta su un argomento attinente alla specializzazione.  
+
+Art. 2
+------
+
   
-Art. 168. - E' istituito presso la Facolta' di architettura l'Istituto di caratteri distributivi degli edifici.   
-L'Istituto ha il fine di promuovere e agevolare studi e ricerche nel campo dei caratteri distributivi dei vari tipi di edifici.   
-Art. 169. - Per tali fini l'istituto disporra' di una biblioteca specializzata, organizzera' discussioni e conferenze, promuovera' lo sviluppo di una raccolta di materiale bibliografico e fotografico, e visite di edifici in citta' e fuori di notevole interesse planimetrico e di impianti particolari.   
-Art. 170. - Il direttore dell'istituto e' di diritto il titolare della cattedra di caratteri distributivi ed in caso di vacanza, chi lo sostituisce nell'insegnamento ufficiale.   
-Art. 171. - Gli studenti della Facolta' ed i laureati in architettura possono partecipare a conferenze e discussioni scientifiche ed in generale servirsi di tutti i mezzi di studi offerti dall'Istituto.   
-Art. 172. - L'Istituto potra' eventualmente disporre di borse di studio che vengono conferite dal Consiglio di Facolta' di architettura o da Enti pubblici o privati in base alle modalita' che saranno stabilite dai fondatori.   
+Gli articoli 618, 619, 620, 621, relativi alla scuola di specializzazione in ortopedia e traumatologia della seconda facolta' di medicina e chirurgia, che muta la denominazione in ortopedia, sono soppressi e sostituiti dai seguenti;  
   
-Istituto di fisica, fisica tecnica e impianti tecnici   
+Scuola di specializzazione in ortopedia  
   
-Art. 173. - E' istituito presso la Facolta' di architettura l'Istituto di fisica, fisica tecnica ed impianti tecnici. L'istituto ha il fine di promuovere ed agevolare studi piu' approfonditi in alcuni settori di tali discipline e ricerche sperimentali nel campo della acustica applicata.   
-Art. 174. - Per tali fini l'Istituto disporra' di una biblioteca specializzata, organizzera' discussioni e conferenze, promuovera' lo sviluppo di una raccolta di materiale scientifico, bibliografico e fotografico, e visite di edifici in citta' e fuori di notevole interesse e di impianti particolari.   
-Art. 175. - Il direttore dell'Istituto e' di diritto il titolare della cattedra di fisica tecnica ed in caso di vacanza, chi lo sostituisce nell'insegnamento ufficiale.   
-Art. 176. - Gli studenti della Facolta' ed i laureati in architettura possono partecipare a conferenze e discussioni scientifiche ed in generale servirsi di tutti i mezzi di studi offerti dall'istituto.   
-Art. 177. - L'Istituto potra' eventualmente disporre di borse di studio che vengono conferite dal Consiglio della Facolta' di architettura o da Enti pubblici o privati in base alle modalita' che saranno stabilite dai fondatori.   
-Gli articoli 294 e 295, concernenti l'ordinamento della scuola di perfezionamento in odontoiatria e protesi dentaria sono sostituiti come segue.   
+Art. 618. - La scuola di specializzazione in ortopedia ha sede presso la clinica ortopedica della seconda facolta' di medicina e chirurgia e conferisce il diploma di specialista in ortopedia. La scuola comprende un insegnamento teorico e pratico.  
+Art. 619. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.  
+La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni.  
+Il numero massimo degli allievi e' di sei per anno di corso e complessivamente di trenta iscritti per l'intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami.  
+Art. 620. - Le materie d'insegnamento sono le seguenti:  
+1° Anno:  
+Insegnamento pratico:  
+chirurgia generale;  
+pronto soccorso generale;  
+fisioterapia.  
+Insegnamento teorico:  
+anatomia dell'apparato locomotore;  
+fisiologia dell'apparato locomotore;  
+semeiotica ortopedica;  
+nozioni di chirurgia generale;  
+bioingegneria dell'apparato locomotore I.  
+2° Anno:  
+Insegnamento pratico:  
+chirurgia generale (con frequenza eventuale in reparti specialistici interessanti per l'apparato locomotore);  
+reparti di pronto soccorso traumatologico;  
+reparti di ortopedia e traumatologia.  
+Insegnamento teorico:  
+anatomia ed istologia patologica dell'apparato locomotore I; patologia dell'apparato locomotore I;  
+clinica ortopedica I;  
+traumatologia dell'apparato locomotore I;  
+radiologia I;  
+nozioni di chirurgia d'urgenza e pronto soccorso;  
+bioingegneria dell'apparato locomotore II.  
+3° Anno:  
+Insegnamento pratico:  
+reparti di ortopedia e traumatologia (in particolare sale di degenza e sale gessi).  
+Insegnamento teorico:  
+anatomia ed istologia patologica dell'apparato locomotore II; patologia dell'apparato locomotore II;  
+clinica ortopedica II;  
+traumatologia dell'apparato locomotore II;  
+radiologia II;  
+tecnica operatoria I;  
+apparatoterapia e tecnica degli apparecchi gessati;  
+elementi di reumatologia.  
+4° Anno:  
+Insegnamento pratico:  
+reparti di ortopedia e traumatologia (frequenza nei reparti operatori).  
+Insegnamento teorico:  
+patologia dell'apparato locomotore III;  
+clinica ortopedica III;  
+traumatologia dell'apparato locomotore III;  
+tecnica operatoria II;  
+fisiokinesiterapia I;  
+neuropatologia dell'apparato locomotore ed elettrodiagnostica;  
+nozioni di medicina legale.  
+5° Anno:  
+Insegnamento pratico:  
+reparti di ortopedia e traumatologia (frequenza nei reparti operatori);  
+officine ortopediche.  
+Insegnamento teorico:  
+patologia dell'apparato locomotore IV;  
+clinica ortopedica IV;  
+traumatologia dell'apparato locomotore IV;  
+tecnica operatoria III;  
+fisiokinesiterapia II.  
+Art. 621. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
+Alla fine di ogni corso gli iscritti per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in ortopedia gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+
+Art. 3
+------
+
   
-Scuola di specializzazione in odontoiatria e protesi dentaria   
+Dopo l'art. 652, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione, presso la seconda facolta' di medicina e chirurgia, della scuola di specializzazione in patologia generale.  
   
-Art. 294. - La scuola ha la durata di due anni.   
-Le materie d'insegnamento sono:   
-1) Embriologia, anatomia descrittiva e topografica dei denti, del cavo orale, degli organi annessi e delle regioni limitrofe;   
-2) Fisiologia della bocca;   
-3) Microbiologia del cavo orale;   
-4) Patologia dentale;   
-5) Patologia speciale orale;   
-6) Anatomia ed istologia patologica dei denti e del cavo orale;   
-7) Farmacologia applicata alla stomatologia;   
-8) Tecniche anestetiche stomatologiche;   
-9) Radiologia stomatologica;   
-10) Odontoiatria conservativa;   
-11) Protesi dentaria;   
-12) Protesi maxillo-facciale;   
-13) Odontotecnica;   
-14) Ortognatodonzia;   
-15) Clinica chirurgica stomatologica;   
-16) Gerontologia e Gerontoiatria stomatologica.   
-Le materie indicate ai numeri 1, 2, 3, 4, 5, 6, 7, 8, 10, 11 sono impartite nel primo anno di corso.   
-Sono impartite nel secondo anno di corso oltre le materie indicate ai numeri 8, 9, 12, 13, 14, 15, 16 anche quelle indicate ai numeri 10 e 11.   
-Art. 295. - Gli esami di profitto hanno luogo alla fine di ciascun anno di corso per gruppo di materie e possono essere integrati da relative prove pratiche.   
-A) Gruppo del primo anno:   
-1) Embriologia, anatomia descrittiva e topografica dei denti, del cavo orale, degli organi annessi e delle regioni limitrofe:   
-2) Fisiologia della bocca;   
-3) Microbiologia del cavo orale;   
-4) Patologia dentale;   
-5) Patologia speciale orale;   
-6) Anatomia ed istologia patologica dei denti e del cavo orale;   
-7) Farmacologia applicata alla stomatologia.   
-B) Gruppo del secondo anno:   
-1) Tecniche anestetiche stomatologiche;   
-2) Radiologia stomatologica;   
-3) Odontoiatria conservativa;   
-4) Protesi dentaria;   
-5) Protesi maxillo-facciale;   
-6) Odontotecnica;   
-7) Ortognatodonzia;   
-8) Clinica chirurgica stomatologica;   
-9) Gerontologia e Gerontoiatria stomatologica.   
-Gli iscritti non possono essere ammessi agli esami del secondo gruppo se non abbiano superati gli esami del primo.   
-Alla fine del corso gli iscritti oltre a presentare la dissertazione scritta e sostenere la relativa discussione a norma dell'art. 276 devono sostenere una prova clinica ed una di tecnica operativa e di protesi.   
-Art. 296. - Agli insegnamenti della scuola di perfezionamento in dermatologia e sifilografia sono aggiunti i seguenti:   
-6) Semeiotica dermatologica e venereologica (primo anno);   
-7) Anatomia e istologia patologica applicata (secondo anno);   
-8) Sessuologia (secondo anno).   
-Art. 297. - Il secondo ed il terzo comma sono rispettivamente sostituiti dai seguenti:   
-"Gli esami di profitto del primo gruppo comprendono:   
-anatomia e fisiologia della pelle; patologia generale dermatologica e venereologica, sierologia, batteriologia e micrologia, semeiotica dermatologica e venereologica; oltre ad un colloquio su argomento di clinica dermosiloplastica e un esame clinico di un dermopaziente".   
-"Gli esami di profitto del secondo gruppo comprendono:   
-clinica delle malattie cutanee; clinica delle malattie veneree; terapia fisica: terapia medicamentosa; cosmetologia e chirurgia riparatrice; igiene della cute e profilassi delle malattie cutanee con particolare riguardo alle dermatosi professionali; anatomia e istologia patologica applicata sessuologia; un esame clinico di due pazienti di spettanza dermatologica e venereologica".   
-Dopo l'art. 353, sono aggiunti i seguenti nuovi articoli, relativi all'istituzione della "Scuola di specializzazione in chirurgia toracica".   
+Scuola di specializzazione in patologia generale  
   
-Scuola di specializzazione in chirurgia toracica   
+Art. 653. - La scuola di specializzazione in patologia generale ha sede presso l'istituto di patologia generale della seconda facolta' di medicina e chirurgia dell'Universita' di Napoli. Il corso degli studi ha la durata di quattro anni, suddiviso in due bienni.  
+La durata complessiva del corso di studi non e' suscettibile di abbreviazioni.  
+La frequenza alla scuola e' obbligatoria.  
+Gli allievi che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le singole prove di esame.  
+Art. 654. - Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia, ai quali, dopo aver superato l'esame finale sara' rilasciato il diploma di specialista in patologia generale. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.  
+Art. 655. - Alla scuola stessa vengono ammessi i laureati in medicina veterinaria, in scienze biologiche, in scienze naturali, in farmacia, in chimica e tecnologia farmaceutiche, ai quali, dopo aver superato l'esame finale, sara' rilasciato il diploma di specialista in patologia generale con indirizzo tecnico.  
+Art. 656. - L'ammissione al corso di specializzazione avviene per titoli ed esami.  
+Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.  
+Art. 657. - Le materie di insegnamento sono le seguenti:  
   
-Art. 354. - Alla Facolta' di medicina e chirurgia e' annessa la scuola di specializzazione in chirurgia toracica.   
-Art. 355. - La durata del corso degli studi per il conseguimento del diploma di specialista in chirurgia toracica e' di due anni.   
-Art. 356. - Possono ottenere l'iscrizione alla scuola previo esame di ammissione, i laureati in medicina e chirurgia che siano in possesso della libera docenza in patologia speciale chirurgica o in clinica chirurgica o del diploma di specialista in chirurgia generale.   
-Art. 357. - La scuola e' costituita presso l'Istituto di clinica chirurgica e terapia chirurgica in collegamento con la clinica tisiologica ed e' posta sotto la direzione del titolare della cattedra della clinica chirurgica, coadiuvato da docenti particolarmente competenti in chirurgia e patologia toracica.   
-Art. 358. - Il materiale didattico e' rappresentato da degenti per affezioni degli organi toracici in clinica chirurgia ed in clinica tisiologica; dalle rispettive raccolte anatomo-patologiche, nonche' dalle biblioteche degli Istituti medesimi.   
-Art. 359. - Il corso si compone di insegnamenti fondamentali, di esercitazioni pratiche e di conferenze su argomenti speciali.   
-Art. 360. - Gli insegnamenti impartiti dalla scuola sono i seguenti:   
-1) Embriologia, anatomia descrittiva e topografica del torace e degli organi in esso contenuti;   
-2) Fisiologia e fisiopatologia degli organi toracici;   
-3) Patologia dell'apparato respiratorio;   
-4) Patologia dell'apparato cardiocircolatorio;   
-5) Patologia del mediastino e degli organi in esso contenuti;   
-6) Semeiotica dell'apparato respiratorio e del mediastino (medica, endoscopica, radiologica, funzionale);   
-7) Semeiotica dell'apparato cardiovascolare (medica, strumentale, radiologica, di laboratorio)   
-8) Anatomia patologica del torace e degli organi toracici   
-9) Principi di anestesia e di rianimazione in chirurgia toracica;   
-10) Terapia chirurgica e tecnica operatoria.   
-La frequenza alle lezioni, alle conferenze, alle esercitazioni e' obbligatoria.   
-Art. 361. - Alla fine di ciascun anno accademico gli specializzandi che abbiano ottenuto le firme di frequenza dovranno sostenere gli esami di profitto nelle materie di insegnamento il cui superamento e' condizione indispensabile per l'iscrizione all'anno successivo.   
-Sono materie del primo anno:   
-a) Embriologia, Anatomia descrittiva e topografica del torace e degli organi in esso contenuti;   
-b) Fisiologia e Fisiopatologia degli organi toracici;   
-c) Anatomia patologica del torace e degli organi toracici;   
-d) Principi di anestesia e di rianimazione in Chirurgia toracica.   
-Per le materie biennali i relativi esami saranno sostenuti alla fine del biennio.   
-Sono materie del secondo anno:   
-a) Patologia dell'apparato respiratorio;   
-b) Patologia dell'apparato cardiocircolatorio;   
-c) Patologia del mediastino e degli organi in esso contenuti   
-d) semeiotica dell'apparato respiratorio e del mediastino (medica, endoscopica, radiologica, funzionale);   
-e) Semeiotica dell'apparato cardiovascolare (medica, strumentale, radiologica, di laboratorio);   
-f) Terapia chirurgica e tecnica operatoria.   
-Art. 362. - Alla fine del corso, l'iscritto, oltre a presentare la dissertazione scritta su un argomento di chirurgia toracica e a sostenere la relativa discussione, a norma dell'art. 276, dovra' sottoporsi ad una prova clinica.   
+I BIENNIO  
+(Propedeutico)  
+  
+1° Anno:  
+1) istituzioni di patologia generale;  
+2) patologia delle infezioni;  
+3) epidemiologia e patologia ambientale;  
+4) immunologia;  
+5) parassitologia e diagnostica parassitologica.  
+2° Anno:  
+6) radiobiologia e patologia da radiazioni;  
+7) oncologia generale;  
+8) immunopatologia e analisi immunologiche;  
+9) analisi chimicocliniche;  
+10) fisiopatologia generale I corso (metabolismo e sistema endocrino).  
+  
+II BIENNIO  
+(conseguimento per il diploma di specialista in patologia generale)   
+3° Anno:  
+11) diagnostica di laboratorio di citopatologia e citogenetica;  
+12) diagnostica di laboratorio di batteriologia e virologia;  
+13) fisiopatologia generale II corso (termoregolazione, sistema cardiocircolatorio, sangue ed organi emopoietici).  
+4° Anno:  
+14) diagnostica oncologica;  
+15) diagnostica istopatologica;  
+16) diagnostica ultrastrutturale;  
+17) fisiopatologia generale III corso (fegato, sistema digerente, renale, respiratorio).  
+  
+II BIENNIO  
+(conseguimento per il diploma di specialista in patologia generale con indirizzo tecnico)  
+  
+3° Anno:  
+11) tecniche di batteriologia;  
+12) tecniche di virologia;  
+13) tecniche di citologia e citogenetica.  
+4° Anno:  
+14) statistica e biometria;  
+15) colture in vitro: aspetti biologici e applicativi;  
+16) tecniche ematologiche;  
+17) tecniche istologiche ed ultrastrutturali.  
+Art. 658. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
+Art. 659. - Il direttore, puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola che siano tenuti corsi complementari e conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola stessa.  
+Art. 660. - Per conseguire il relativo diploma di specializzazione, al termine del corso quadriennale, oltre ad aver superato tutti gli esami delle singole materie, e' obbligatorio sostenere l'esame finale su una dissertazione scritta, preferibilmente di carattere sperimentale.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 giugno 1957
+### Dato a Roma, addi' 5 dicembre 1980
 
-GRONCHI MORO
+PERTINI - BODRATO
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 25 luglio 1957
+Registrato alla Corte dei conti, addi' 17 ottobre 1981
 
-Atti del Governo, registro n. 106, foglio n. 231. - CARLOMAGNO
+Registro n. 96 Istruzione, foglio n. 355

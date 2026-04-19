@@ -1,96 +1,124 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1966 n. 1099
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 gennaio 1982 n. 258
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1966 n. 1099
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 gennaio 1982 n. 258
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Sassari.
 -------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084), e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduto l'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Sassari e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali, a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084) e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
   
-Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Dopo l'art. 137, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in patologia generale.   
   
-Dopo l'art. 87 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Ortopedia e traumatologia.  
-Scuola di specializzazione in Ortopedia e traumatologia  
-Art. 88. - La Scuola di specializzazione in Ortopedia e traumatologia ha sede presso l'istituto di clinica ortopedica e conferisce il diploma di specializzazione in Ortopedia e traumatologia.  
-Art. 89. - Il corso ha la durata di tre anni.  
-Le norme di iscrizione, esami, pagamento tasse, ecc., sono quelle generali delle scuole di specializzazione riferite nei precedenti articoli da 58 a 70 del presente statuto.  
-Art. 90. - Potranno essere ammessi alla Scuola i laureati in Medicina e chirurgia.  
-Art. 91. - Il numero massimo degli iscritti per ogni anno di corso non puo' essere superiore a otto.  
-Art. 92. - La frequenza e' obbligatoria nell'Istituto sede della Scuola per un periodo di almeno nove mesi, per ogni anno accademico.  
-E' in facolta' del direttore della Scuola di concedere una deroga a tale norma solo agli iscritti alla Scuola che facciano parte di cliniche ortopediche che non abbiano la Scuola di specializzazione o che siano assistenti di ruolo in divisione di ortopedia e traumatologia di ospedali di prima categoria. Per queste due categorie di iscritti il periodo di frequenza presso l'Istituto sede della Scuola puo' essere ridotto fino a non meno di un mese ogni anno.  
-Art. 93. - Per nessun motivo sono ammesse abbreviazioni della durata degli studi.  
-Art. 94. - Gli insegnamenti si svolgeranno con indirizzo prevalentemente pratico, dimostrativo, ma per ogni singola materia di insegnamento dovra' anche svolgersi un corso regolare di lezioni, il cui numero verra' fissato annualmente dal direttore della Scuola in accordo con i docenti delle singole materie.  
-Art. 95. - Le materie di insegnamento sono le seguenti:  
-1) Clinica ortopedica e traumatologica (triennale);  
-2) Patologia delle lezioni, deformita' e malattie degli organi di movimento (triennale);  
-3) Tecnica operatoria ortopedica e traumatologica cruenta ed incruenta (triennale);  
-4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);  
-5) Anatomia ed istologia dell'apparato locomotore;  
-6) Fisiologia dell'apparato locomotore;  
-7) Anatomia ed istologia patologica dell'apparato locomotore;  
-8) Nozioni di chirurgia generale;  
-9) Neuropatologia dell'apparato locomotore ed elettrodiagnostica;  
-10) Nozioni di pediatria;  
-11) Apparato e terapia ortopedica;  
-12) Fisiocinesiterapia;  
-13) Infortunistica;  
-14) Anestesia e rianimazione in ortopedia e traumatologia.  
-Art. 96. - Le materie di insegnamento sono cosi' suddivise:  
-1° Anno:  
-1) Clinica ortopedica e traumatologica (triennale);  
-9) Patologia delle lesioni, deformita' e malattie degli organi di movimento;  
-3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);  
-4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);  
-5) Anatomia, e istologia normale dell'apparato locomotore;  
-6) Fisiologia dell'apparato locomotore;  
-7) Nozioni di chirurgia generale;  
-8) Nozioni di pediatria.  
-2° Anno:  
-1) Clinica ortopedica e traumatologica (triennale);  
-2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);  
-3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (biennale);  
-4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);  
-5) Neuropatologia dell'apparato locomotore ed elettrodiagnostica;  
-6) Anatomia e istologia patologica dell'apparato locomotore:  
-7) Anestesia e rianimazione in ortopedia e traumatologia.  
-3° Anno:  
-1) Clinica ortopedica e traumatologica (triennale);  
-2) Patologia delle lesioni e deformita' e malattie degli organi di movimento;  
-3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);  
-4) Apparato-terapia ortopedica;  
-5) Fisiochinesiterapia;  
-6) Infortunistica.  
-Art. 97. - Gli esami si svolgeranno per singole materie.  
-Gli esami di Clinica ortopedica e traumatologica, di tecnica operatoria cruenta ed incruenta ortopedica e traumatologica, di radiodiagnostica saranno teorici e pratici.  
-Per l'ammissione al corso successivo e' obbligatorio il superamento degli esami delle materie, di ciascun corso.  
-Art. 98. - Per l'ammissione all'esame di diploma il candidato dovra' presentare una tesi a stampa o dattiloscritta su un argomento delle specialita'.  
+  
+Scuola di specializzazione in patologia generale   
+  
+  
+Art. 138. - La scuola di specializzazione in patologia generale ha sede presso l'istituto di patologia generale. Il corso di studi ha la durata di 4 anni, suddiviso in due bienni. La durata complessiva del corso di studi non e' suscettibile di abbreviazioni. La frequenza alla scuola e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza non potranno essere ammessi a sostenere le singole prove di esame.   
+Art. 139. - Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia, ai quali, dopo aver superato l'esame finale, sara' rilasciato il diploma di "specialista in patologia generale". E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.   
+Art. 140. - Alla scuola stessa vengono ammessi i laureati in medicina veterinaria, in scienze biologiche, in scienze naturali, in farmacia, in chimica e tecnologia farmaceutiche, ai quali, dopo aver superato l'esame finale, sara' rilasciato il diploma di "specialista in patologia generale con indirizzo tecnico".   
+Art. 141. - L'ammissione al corso di specializzazione avviene per titoli ed esami. Il numero massimo di allievi e' di cinque per anno di corso, e, complessivamente, di venti iscritti per l'intero corso di studi.   
+Art. 142. - Le materie di insegnamento sono le seguenti:   
+  
+  
+PRIMO BIENNIO   
+(Propedeutico)   
+1° Anno:   
+1) istituzioni di patologia generale;   
+2) patologia delle infezioni;   
+3) epidemiologia e patologia ambientale;   
+4) immunologia;   
+5) parassitologia e diagnostica parassitologica.   
+2° Anno:   
+6) radiologia e patologia da radiazioni;   
+7) oncologia generale;   
+8) immunopatologia e analisi immunologiche;   
+9) analisi chimico-cliniche;   
+10) fisiopatologia generale I corso (metabolismo e sistema endocrino).   
+  
+  
+SECONDO BIENNIO   
+(Conseguimento del diploma di specialista in patologia generale)   
+3° Anno:   
+11) diagnostica di laboratorio di citopatologia e citogenetica;   
+12) diagnostica di laboratorio di batteriologia e virologia;   
+13) fisiopatologia generale II corso (termoregolazione, sistema cardiocircolatorio, sangue ed organi emopoietici).   
+4° Anno:   
+14) diagnostica oncologica;   
+15) diagnostica istopatologica;   
+16) diagnostica ultrastrutturale;   
+17) fisiopatologia generale III corso (fegato, sistema digerente, renale, respiratorio).   
+  
+  
+SECONDO BIENNIO   
+(Conseguimento del diploma di specialista in patologia generale con indirizzo tecnico)   
+3° Anno:   
+11) tecniche di batteriologia;   
+12) tecniche di virologia;   
+13) tecniche di citologia e citogenetica.   
+4° Anno:   
+14) statistica e biometria;   
+15) colture in vitro: aspetti biologici ed applicativi;   
+16) tecniche ematologiche;   
+17) tecniche istologiche ed ultrastrutturali.   
+Art. 143. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.   
+Art. 144. - Il direttore puo' stabilire, per un piu' proficuo insegnamento dei fini della scuola, che siano tenuti corsi complementari e conferenze su materie ed argomenti che abbiano attinenze o affinita' con gli insegnamenti impartiti nella scuola stessa.   
+Art. 145. - Per conseguire il relativo diploma di specializzazione, al termine del corso quadriennale, oltre ad avere superato tutti gli esami delle singole materie, e' obbligatorio sostenere l'esame finale su una dissertazione scritta, preferibilmente di carattere sperimentale.   
+Art. 146. - Gli importi delle tasse e soprattasse per l'iscrizione alla scuola di specializzazione in patologia generale saranno cosi' stabiliti:   
+  
+  
+tassa di immatricolazione. . . . . . . . . . . . . . . . . . L. 6.000 tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 60.000 soprattassa annuale esami profitti . . . . . . . . . . . . . L. 7.000 soprattassa di diploma . . . . . . . . . . . . . . . . . . . L. 3.000 tassa annuale fuori corso. . . . . . . . . . . . . . . . . L. 100.000   
+  
+  
+La tassa di diploma sara' pari alla somma fissata dalle norme di legge.   
+I contributi clinici e di laboratorio vengono fissati dal consiglio di amministrazione dell'Universita' su proposta del consiglio di facolta', udito il direttore della scuola.   
+  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 ottobre 1966
+### Dato a Roma, addi' 6 gennaio 1982
 
-SARAGAT GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 14 dicembre 1966
+Registrato alla Corte de conti, addi' 6 maggio 1982
 
-Atti del Governo, registro n. 208, foglio n. 8, - VILLA
+Registro n. 60 Istruzione, foglio n. 132

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1977 n. 1096
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1974 n. 792
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1977 n. 1096
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1974 n. 792
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -12,46 +12,81 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 62 - all'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
-filologia dantesca;  
-teoria e tecnica dei mezzi di comunicazione audiovisiva.  
-Art. 63 - all'elenco degli insegnamenti complementari del corso di laurea in filosofia e' aggiunto quello di:  
-psicologia dinamica.  
-Art. 64 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne sono aggiunti i seguenti:  
-storia della lingua inglese;  
-storia della lingua francese.  
-Art. 99 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:  
-genetica di popolazione;  
-genetica umana;  
-genetica dei microrganismi;  
-biochimica applicata;  
-genetica dei protozoi;  
-immunologia;  
-citogenetica.  
+Gli articoli da 335 a 339, relativi alla scuola di specializzazione in radiologia, sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in radiologia  
+Art. 335. - La scuola di specializzazione in radiologia ha sede presso l'istituto di radiologia il cui professore di ruolo e' il direttore della scuola.  
+Art. 336. - La scuola conferisce due diplomi:  
+a) diploma di specialista che abilita all'esercizio specialistico della roentgendiagnostica, della radioterapia e della medicina nucleare, che viene conseguito dopo quattro anni di corso;  
+b) diploma di specialista in radiologia diagnostica che abilita all'esercizio specialistico della roentgendiagnostica e che viene conseguito dopo tre anni di corso.  
+Art. 337. - Gli insegnamenti per il conseguimento del diploma di specializzazione in radiologia sono i seguenti:  
+a) Matematica, fisica, nozioni di statistica e informatica (annuale) comprendente: 1) richiami di matematica e fisica generale;  
+2) costituzione della materia; 3) produzione, assorbimento e misura delle radiazioni; 4) statistica applicata alla medicina; 5) informatica e cibernetica applicate alla radiologia.  
+b) Radiodiagnostica (triennale) comprendente: 1) principi generali di radiodiagnostica; 2) apparecchi, strumenti e tecnica radiodiagnostica; 3) tecnica e fisiologia applicate alla radiodiagnostica; 4) i mezzi di contrasto artificiali in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia; 5) semeiotica radiologica; 6) diagnostica differenziale radiologica; 7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici; 8) dimostrazioni di casistica clinica.  
+c) Radiobiologia (annuale) comprendente: 1) radiobiologia generale;  
+2) danni da radiazioni e radiopatie.  
+d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:  
+1) legislazione sanitaria applicata alla radiologia; 2) compiti e responsabilita' medico-legali del radiologo; 3) radioprotezione fisica e dosimetria ad esse connessa; 4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni; 5) radioprotezione chimica; 6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.  
+e) Radioterapia e terapia fisica (triennale) comprendente: 1) radiobiologia applicata; 2) fondamenti generali di radioterapia e terapia fisica; 3) istopatologia speciale dei tumori; 4) nozioni sugli apparecchi e strumenti per la radioterapia; 5) tecnica e metodica radioterapica; 6) dosimetria; 7) clinica radioterapica; 8) fondamenti generali di chemioterapia oncologica; 9) chemioterapia clinica dei tumori e sua associazione alla radioterapia; 10) dimostrazioni di casistica clinica.  
+f) Medicina nucleare (biennale) comprendente: 1) elementi di medicina nucleare; 2) istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare; 3) dosimetria dei radioisotopi somministrati per via interna; 4) diagnostica con radioisotopi somministrati per via interna; 5) radioterapia metabolica; 6) dimostrazioni di casistica clinica.  
+I singoli insegnamenti tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei quattro anni di corso:  
+1° Anno: (comune alla scuola di radiologia diagnostica):  
+Matematica, fisica, nozioni di statistica e informatica;  
+Radiobiologia;  
+Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;  
+Radiodiagnostica (I).  
+2° Anno:  
+Radiodiagnostica (II);  
+Radioterapia e terapia fisica (I).  
+3° Anno:  
+Radiodiagnostica (III);  
+Radioterapia e terapia fisica (II).  
+Medicina nucleare (I).  
+4° Anno:  
+Radioterapia e terapia fisica (III).  
+Medicina nucleare (II).  
+Art. 338. - Gli insegnamenti per il conseguimento del diploma di specializzazione in radiologia diagnostica sono i seguenti:  
+a) Matematica, fisica, nozioni di statistica e di informatica (annuale) comprendente: 1) richiami di matematica e fisica generale;  
+2) costituzione della materia; 3) produzione, assorbimento e misura delle radiazioni; 4) statistica applicata alla medicina; 5) informatica e cibernetica applicate alla radiologia.  
+b) Radiodiagnostica (triennale) comprendente: 1) principi generali di radiodiagnostica; 2) apparecchi, strumenti e tecnica radiodiagnostica; 3) tecnica e fisiologia applicate alla radiodiagnostica; 4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia; 5) semeiotica radiologica; 6) diagnostica differenziale radiologica; 7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici; 8) dimostrazioni di casistica clinica.  
+c) Radiobiologia (annuale) comprendente: 1) radiobiologia generale;  
+2) danni da radiazioni e radiopatie.  
+d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:  
+1) legislazione sanitaria applicata alla radiologia; 2) compiti e responsabilita' medico-legali del radiologo; 3) radioprotezione fisica e dosimetria ad essa connessa; 4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni; 5) radioprotezione chimica; 6) problemi tecnici e funzionali inerenti la progettazione, organizzazione e attivazione dei reparti radiologici.  
+I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:  
+1° Anno (comune alla scuola di radiologia):  
+Matematica, fisica, nozioni di statistica ed informatica;  
+Radiobiologia;  
+Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;  
+Radiodiagnostica (I).  
+2° Anno:  
+Radiodiagnostica (II).  
+3° Anno:  
+Radiodiagnostica (III).  
+Art. 339. - Il numero massimo annuo di iscritti alla scuola e' di sedici (16) da ripartirsi in parti uguali fra i due corsi di diploma previsti dall'art. 336.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 ottobre 1977
+### Dato a Roma, addi' 29 ottobre 1974
 
 LEONE MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 15 febbraio 1978
+Registrato alla Corte dei conti, addi' 27 gennaio 1975
 
-Registro n. 18 Istruzione, foglio n. 276
+Atti di Governo, registro n. 8, foglio n. 32

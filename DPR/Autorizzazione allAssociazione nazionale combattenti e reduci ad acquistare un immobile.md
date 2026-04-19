@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 marzo 1967 n. 225
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 dicembre 1961 n. 1617
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 marzo 1967 n. 225
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 dicembre 1961 n. 1617
+================================================================
 
 Autorizzazione all'Associazione nazionale combattenti e reduci ad acquistare un immobile.
 -----------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-225. Decreto del Presidente della Repubblica 3 marzo 1967, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci viene autorizzata ad acquistare dal sig. Corbellini Ernesto, per il prezzo di L. 50.000 (cinquantamila), come da atto a rogito dott. Emilio Ferrari, notaio residente in Magenta, in data 2 settembre 1961, n. 22821 di rep., n. 7858 di racc., un immobile costituito da un appezzamento di terreno, sito nel comune di Mulazzano (Milano), sezione Quartiano, da destinare all'ampliamento della sede sociale della Sezione combattenti e reduci di Quartiano.  
+1617. Decreto del Presidente della Repubblica 22 dicembre 1961, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci, viene autorizzata ad acquistare al prezzo di L. 1.300.000, come da nota del Ministero delle finanze - Direzione generale del demanio numero 162632 del 23 settembre 1958, l'immobile costituito dalla casa dell'ex fascio con l'annesso terreno, sito in localita' "Ca' Brusa'" di Vicenza, da destinare a sede degli uffici della Federazione provinciale di Vicenza dell'Associazione suindicata e del dipendente Corpo di vigilanza notturna.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 18 aprile 1967  
-Atti del Governo, registro n. 210, foglio n. 123. - GRECO
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 24 febbraio 1962  
+Atti del Governo, registro n. 144, foglio n. 6. - VILLA

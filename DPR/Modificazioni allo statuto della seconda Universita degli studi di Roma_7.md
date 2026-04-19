@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 823
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 luglio 1984 n. 610
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 823
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 luglio 1984 n. 610
+=============================================================
 
 Modificazioni allo statuto della seconda Universita' degli studi di Roma.
 -------------------------------------------------------------------------
@@ -10,23 +10,31 @@ Modificazioni allo statuto della seconda Universita' degli studi di Roma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Roma "Tor Vergata", approvato con [decreto del Presidente della Repubblica 29 ottobre 1980, n. 1137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-10-29;1137) e modificato con [decreto del Presidente della Repubblica 8 novembre 1982, n. 1069](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-11-08;1069), e successive modificazioni;
+Veduto lo statuto della seconda Universita' di Roma, approvato con [decreto del Presidente della Repubblica 29 ottobre 1980, n. 1137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-10-29;1137), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito, nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+Considerato che la tabella XVIII-bis dell'ordinamento didattico universitario, relativa al corso di laurea in odontoiatria e protesi dentaria, e' stata introdotta con [decreto del Presidente della Repubblica 28 febbraio 1980, n. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-02-28;135), cioe' successivamente alla [legge 3 aprile 1979, n. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-04-03;122), che ha, fra l'altro, istituito la seconda Universita' di Roma, legge che, percio', non poteva prevedere per detta Universita' il corso di laurea in parola;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+Considerato che con la tabella XVIII-bis e' stato completato l'ordinamento didattico della facolta' di medicina e chirurgia;
+
+Considerato che anche la facolta' di medicina e chirurgia della seconda Universita' di Roma e' tenuta a completare, al pari delle altre facolta' di medicina e chirurgia e per adeguarsi alle stesse, il proprio ordinamento didattico per assolvere ai fini per i quali e' stata istituita;
+
+Considerato che anche la [legge 14 agosto 1982, numero 590](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-14;590), prevede, accanto al corso di laurea in medicina e chirurgia, il corso di laurea in odontoiatria e protesi dentaria per tutte le facolta' di medicina e chirurgia delle Universita' istituite con la legge stessa;
+
+Rilevato, inoltre, che le delibere con le quali gli organi accademici della seconda Universita' di Roma chiedono l'introduzione del corso di laurea in odontoiatria e protesi dentaria nello statuto sono state formulate precedentemente all'entrata in vigore della citata [legge n. 590/82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982;590);
+
+Riconosciuta, quindi, la necessita' di approvare la modifica proposta dagli organi accademici della seconda Universita' di Roma, concernente l'istituzione del corso di laurea in odontoiatria e protesi dentaria presso la facolta' di medicina e chirurgia, anche in deroga al termine di cui all'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi stessi e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
@@ -35,124 +43,140 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' degli studi di Roma "Tor Vergata", approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto della seconda Universita' di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Art. 1
 ------
 
   
-L'art. 68, relativo all'elenco delle scuole di specializzazione, e' integrato nel senso che e' aggiunta la seguente:  
-scuola di specializzazione in neurochirurgia, afferente alla facolta' di medicina e chirurgia.  
+Art. 50 - il primo comma e' sostituito come segue:  
+"La facolta' di medicina e chirurgia organizza i corsi di laurea in medicina e chirurgia ed in odontoiatria e protesi dentaria".  
 
 Art. 2
 ------
 
   
   
-Dopo l'art. 250 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in neurochirurgia:   
+Dopo l'art. 51, con il conseguente scorrimento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione del corso di laurea in odontoiatria e protesi dentaria.   
+Art. 52 - Corso di laurea in odontoiatria e protesi dentaria. - Durata del corso di studio: cinque anni, suddivisi in un biennio ed un triennio.   
+Titolo di ammissione: quello consentito dalle vigenti disposizioni di legge.   
+Il numero degli iscritti e' di trenta per ogni anno di corso.   
+L'accesso avviene secondo un ordine di graduatoria stabilito in base ad un punteggio, riportato in centesimi, cosi' ripartito:   
+70 centesimi riservati all'esito di un test a scelta multipla da espletare in un unico giorno, vertente su nozioni generali relative ai seguenti argomenti: chimica, fisica, matematica, biologia generale;   
+30 centesimi riservati al punteggio riportato nell'esame finale per il conseguimento del diploma di scuola secondaria superiore.   
+E' prevista la pubblicazione dei risultati delle prove che su richiesta debbono essere forniti.   
+Art. 53. - Per il trasferimento degli studenti iscritti al corso di laurea in medicina e chirurgia le abbreviazioni di corso non possono superare l'ammissione oltre il secondo anno subordinatamente al numero dei posti resisi disponibili all'inizio del secondo anno sempre che gli aspiranti abbiano superato gli esami di biologia generale applicata agli studi medici, chimica, fisica medica, istologia ed embriologia generale (compresa la citologia).   
+Per i laureati in medicina e chirurgia le abbreviazioni di corso potranno essere concesse, sempre con iscrizione al secondo anno, subordinatamente al numero di posti resisi disponibili all'inizio del secondo anno e dopo che sia trascorso un anno accademico dal conseguimento della laurea precedente.   
+I posti disponibili al secondo anno vanno assegnati a laureati in medicina per una frazione non superiore al 20% e per quella rimanente a studenti in trasferimento dal corso di laurea in medicina e chirurgia.   
+Le modalita' di accesso sono quelle riportate nell'articolo precedente. Il 30% del punteggio va attribuito agli studenti come media degli esami di biologia generale, chimica, fisica medica, istologia ed embriologia generale ed ai laureati come media dei voti riportati negli esami fondamentali.   
+Sono insegnamenti fondamentali:   
+Biennio:   
+1) anestesia generale e speciale odontostomatologica (semestrale);   
+2) biologia generale applicata agli studi medici;   
+3) chimica;   
+4) chimica biologica;   
+5) farmacologia (semestrale);   
+6) fisica medica;   
+7) fisiologia umana e dell'apparato stomatognatico;   
+8) igiene e odontoiatria preventiva e sociale con epidemiologia (semestrale);   
+9) istituzioni di anatomia umana normale e dell'apparato stomatognatico;   
+10) istologia ed embriologia generale (compresa la citologia);   
+11) materiali dentari;   
+12) microbiologia (semestrale);   
+13) odontoiatria conservatrice (triennale: 2°, 3° e 4° anno);   
+14) patologia generale;   
+Triennio:   
+15) istituzioni di anatomia ed istologia patologica;   
+16) chirurgia speciale odontostomatologica (biennale: 3° e 4° anno);   
+17) clinica odontostomatologica (biennale: 4° e 5° anno);   
+18) medicina legale e delle assicurazioni e deontologia in odontostomatologia (semestrale);   
+19) neuropatologia e psicopatologia (semestrale);   
+20) ortognatodonzia e gnatologia (funzione masticatoria) (biennale: 4° e 5° anno);   
+21) parodontologia (biennale: 4° e 5° anno);   
+22) patologia speciale chirurgica e propedeutica clinica;   
+23) patologia speciale medica e metodologia clinica (compresa la pediatria);   
+24) patologia speciale odontostomatologica;   
+25) pedodonzia (semestrale);   
+26) protesi dentaria (triennale: 3°, 4° e 5° anno);   
+27) radiologia generale e speciale odontostomatologica (semestrale).   
+Sono insegnamenti complementari:   
+1) chirurgia maxillo-facciale;   
+2) dermatologia e venereologia (semestrale);   
+3) otorinolaringoiatria (semestrale);   
+4) statistica sanitaria.   
+Gli insegnamenti fondamentali sono teorici e pratici e la loro frequenza e' obbligatoria.   
+Gli insegnamenti specificamente odontostomatologici di ordine clinico, comportano un tirocinio pratico continuativo da espletare prima di sostenere i relativi esami.   
+Gli studenti che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le relative prove di esame.   
+Il tirocinio pratico, relativo ad ogni insegnamento clinico, deve provvedere da parte dei componenti dell'organico, un'assistenza didattica adeguata al numero degli studenti.   
+Art: 54. - Ai fini della propedeuticita' degli esami dei diversi   
+insegnamenti vale la seguente tabella:   
   
-Scuola di specializzazione in neurochirurgia   
   
-Art. 251 - E' istituita la scuola di specializzazione in neurochirurgia presso la seconda Universita' degli studi di Roma "Tor Vergata".   
-La scuola ha lo scopo di preparare i laureati in medicina e chirurgia all'esercizio professionale specialistico di neurochirurghi.   
-La scuola rilascia il titolo di specialista in neurochirurgia.   
-Art. 252 - La scuola ha la durata di cinque anni.   
-Ciascun anno di corso prevede 800 ore di insegnamento e di attivita' pratiche guidate.   
-In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero di iscritti determinato in due per ogni anno di corso, per un totale di dieci specializzandi.   
-Art. 253 - Per l'attuazione delle attivita' didattiche programmate dal consiglio della scuola provvede la facolta' di medicina e chirurgia.   
-Art. 254 - Sono ammessi alle prove per ottenere l'iscrizione i laureati in medicina e chirurgia.   
-Per l'iscrizione alla scuola e' richiesto il possesso del diploma di abilitazione all'esercizio della professione.   
-Art. 255 - La scuola comprende sei aree di insegnamento e tirocinio professionale:   
-a) neurobiologia;   
-b) diagnostica clinica;   
-c) diagnostica strumentale;   
-d) tecnica operatoria;   
-e) chirurgia speciale;   
-f) anestesia e rianimazione.   
-Art. 256 - Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:   
-a) Neurobiologia:   
-neuroanatomia;   
-neurofisiologia;   
-neuropatologia.   
-b) Diagnostica clinica:   
-semeiotica e clinica neurologica;   
-elementi di psichiatria;   
-neuro-oftalmologia;   
-neuro-otoiatria;   
-neurochirurgia.   
-c) Diagnostica strumentale:   
-neurofisiologia clinica;   
-neuroradiologia.   
-d) Tecnica operatoria:   
-tecnica operatoria.   
-e) Chirurgia speciale:   
-neurochirurgia funzionale e stereotassica;   
-neurotraumatologia;   
-chirurgia del sistema nervoso periferico;   
-neurochirurgia infantile.   
-f) Anestesia e rianimazione:   
-neuroanestesia e rianimazione.   
-Art. 257 - L'attivita' didattica comprende ogni anno 800 ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in una attivita' didattica teorico-pratica comune per tutti gli specializzandi (400 ore come di seguito ripartite) ed in una attivita' didattica prevalentemente di carattere tecnico applicativo di ulteriori 400 ore, rivolte all'approfondimento del curriculum corrispondenti ad uno dei settori formativo professionale (monte ore elettivo).   
+=====================================================================  
   
-La frequenza nelle diverse aree avviene pertanto come di seguito specificato:   
   
-1° Anno:   
-neurobiologia (ore 150):   
-neuroanatomia . . . . . . . . . . . . . . . . . . . . . ore 75 neurofisiologia . . . . . . . . . . . . . . . . . . . . . " 75 diagnostica clinica (ore 250):   
-semeiotica e clinica neurologica. . . . . . . . . . . . . " 75 elementi di psichiatria . . . . . . . . . . . . . . . . . " 25 neurochirurgia . . . . . . . . . . . . . . . . . . . . . " 150 monte ore elettivo . . . . . . . . . . . . . . ore 400   
+Non si puo' essere ammessi a \_   
+
+|  |  |
+| --- | --- |
+| Fisiologia umana e dell'apparato stomatognatico | Istituzioni di anatomia umana normale e dell'apparato stomatognatico |
+
   
-2° Anno:   
-diagnostica clinica (ore 300):   
-neuro-oftalmologia. . . . . . . . . . . . . . . . . . . ore 75 neuro-otoiatria . . . . . . . . . . . . . . . . . . . . . " 75 neurochirurgia . . . . . . . . . . . . . . . . . . . . . " 150 diagnostica strumentale (ore 100):   
-neurofisiologia clinica. . . . . . . . . . . . . . . . . " 100 monte ore elettivo . . . . . . . . . . . . . . ore 400   
   
-3° Anno:   
-neurobiologia (ore 75):   
-neuropatologia. . . . . . . . . . . . . . . . . . . . . ore 75 diagnostica clinica (ore 125):   
-neurochirurgia . . . . . . . . . . . . . . . . . . . . . " 125 diagnostica strumentale (ore 100):   
-neuroradiologia. . . . . . . . . . . . . . . . . . . . . " 100 anestesia e rianimazione (ore 100):   
-neuroanestesia e rianimazione. . . . . . . . . . . . . . " 100 monte ore elettivo . . . . . . . . . . . . . . ore 400   
   
-4° Anno:   
-diagnostica clinica (ore 75):   
-neurochirurgia. . . . . . . . . . . . . . . . . . . . . ore 75 diagnostica strumentale (ore 75):   
-neuroradiologia . . . . . . . . . . . . . . . . . . . . . " 75 tecnica operatoria (ore 100):   
-tecnica operatoria . . . . . . . . . . . . . . . . . . . " 100 chirurgia speciale (ore 150)   
-neurotraumatologia. . . . . . . . . . . . . . . . . . . . " 75 chirurgia del sistema nervoso periferico. . . . . . . . . " 75 monte ore elettivo . . . . . . . . . . . . . . ore 400   
+Patologia generale \_   
+
+|  |
+| --- |
+| Chimica |
+| Biologia generale applicata agli studi medici |
+| Fisica medica |
+
   
-5° Anno:   
-diagnostica clinica (ore 100):   
-neurochirurgia . . . . . . . . . . . . . . . . . . . . ore 100 tecnica operatoria (ore 100):   
-tecnica operatoria . . . . . . . . . . . . . . . . . . . " 100 chirurgia speciale (ore 200):   
-neurochirurgia funzionale e stereotassica. . . . . . . . " 100 neurochirurgia infantile . . . . . . . . . . . . . . . . " 100 monte ore elettivo . . . . . . . . . . . . . . ore 400   
-Art. 258 - Durante i cinque anni di corso e' richiesta la frequenza nei seguenti reparti / divisioni / ambulatori / laboratori:   
-reparti di degenza - ambulatori - camera operatoria - servizio di rianimazione - servizio di neuroradiologia - laboratorio di neuropatologia - servizi di neurofisiologia clinica, di neuro-oftalmologia e di neuro-otoiatria - servizio di radioterapia.   
-Art. 259 - La frequenza ai corsi e' obbligatoria.   
-La frequenza nelle varie aree per complessive 800 ore annue, compreso il monte ore elettivo di 400 ore annue, avverra' secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienza e di formazione professionale. Il consiglio della scuola ripartira' annualmente il monte ore elettivo.   
-Il consiglio della scuola predispone apposito libretto di formazione, che consenta allo specializzando e al consiglio stesso il controllo dell'attivita' svolta e delle acquisizioni e dei progressi compiuti per sostenere gli esami annuali e finali.   
-Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con Paesi in via di sviluppo.   
-Art. 260 - Alla fine di ogni anno di corso, lo specializzando deve superare un esame globale teorico - pratico vertente su tutte le discipline dell'anno di corso, da sostenere nei mesi di ottobre e novembre. Coloro che non hanno superato l'esame conclusivo di un anno di corso potranno riscriversi allo stesso anno di corso una sola volta ed assumeranno la qualita' di ripetente.   
-Art. 261 - La commissione per l'esame annuale e' nominata dal direttore della scuola su proposta del consiglio della scuola stessa ed e' presieduta dal direttore e composta dai docenti delle materie relative all'anno di corso. La commissione esprimera' il suo giudizio con una votazione da 1 a 30 punti; il voto di semplice idoneita' e' indicato con 6/10 del totale dei punti di cui la commissione dispone (18/30): A chi avra' conseguito il massimo dei punti potra' essere conferita, ad unanimita', la lode.   
-Art. 262 - Dopo il superamento dell'esame annuale teorico-pratico relativo all'ultimo anno di corso, gli specializzandi dovranno sostenere, per conseguire il diploma, un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.   
-La commissione per tale esame e' nominata con decreto rettorale su proposta del consiglio della scuola: essa e' presieduta dal direttore della scuola ed e' composta da altri sei membri scelti fra i docenti membri del consiglio della scuola. Ogni membro dispone di dieci voti ed a coloro che hanno ottenuto il massimo dei voti puo' essere conferita, ad unanimita', la lode.   
-Art. 263 - L'importo delle tasse e' soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.   
-Art. 264 - Il consiglio della scuola, presieduto dal direttore, e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99). Il consiglio esercita le competenze spettanti, ai sensi dell'[art. 94 del decreto del Presidente della Repubblica n. 382/1980](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art94), al consiglio di corso di laurea in materia di coordinamento di insegnamenti.   
-La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni nella scuola stessa. In caso di motivato impedimento di tutti i professori della prima fascia la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima. Il direttore viene nominato con decreto del rettore su designazione del consiglio della scuola.   
-Art. 265 - Per quanto non disciplinato nel presente ordinamento si rinvia alle norme contenute nelle "disposizioni generali" per le scuole di specializzazione.   
-Art. 266 - Norma transitoria. - Per gli specializzandi gia' iscritti secondo il precedente ordinamento si applicheranno le disposizioni relative al vecchio statuto fino al completamento del corso di specializzazione.   
+  
+  
+Patologia speciale medica e \_   
+  
+metodologia clinica (compresa la |Fisiologia umana e dell'apparato  
+pediatria) |stomatognatico
+
+|  |
+| --- |
+| Patologia generale |
+
+  
+  
+  
+Patologia speciale chirurgica e \_   
+  
+propedeutica clinica |
+
+|  |  |
+| --- | --- |
+| Clinica odontostomatologica | Patologia speciale medica e metodologia clinica (compresa la pediatria) |
+|  | Patologia speciale chirurgica e propedeutica clinica |
+|  | Istituzioni di anatomia ed istologia patologica |
+|  | Patologia speciale odontostomatologica |
+
+  
+  
+  
+  
+Art. 55. - Per essere ammesso a sostenere l'esame di laurea in odontoiatria e protesi dentaria lo studente deve aver seguito i corsi ed aver superato gli esami in tutti gli insegnamenti fondamentali ed almeno in due insegnamenti scelti fra i complementari ed aver, inoltre, seguito le prescritte esercitazioni cliniche, i tirocini pratici ed averne conseguito le relative attestazioni.   
+L'esame di laurea consiste nella discussione di una tesi scritta su argomenti di odontostomatologia da richiedere almeno all'inizio dell'ultimo anno di corso.   
+I laureandi debbono fin dall'inizio dell'ultimo anno di corso scegliere la cattedra presso la quale intendono svolgere la loro tesi.   
+Per esercitare la professione i laureati in odontoiatria e protesi dentaria devono superare un apposito esame di Stato.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1985
+### Dato a Roma, addi' 10 luglio 1984
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 30 dicembre 1985
+Registrato alla Corte dei conti, addi' 18 settembre 1984
 
-Registro n. 89 Istruzione, foglio n. 331
+Registro n. 55 Istruzione, foglio n. 200

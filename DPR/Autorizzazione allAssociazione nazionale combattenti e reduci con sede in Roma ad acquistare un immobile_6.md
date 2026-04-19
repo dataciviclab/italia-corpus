@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 aprile 1971 n. 357
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1971 n. 1400
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 aprile 1971 n. 357
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1971 n. 1400
+================================================================
 
 Autorizzazione all'Associazione nazionale combattenti e reduci, con sede in Roma, ad acquistare un immobile.
 ------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-357. Decreto del Presidente della Repubblica 15 aprile 1971, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci (A.N.C.R.), con sede in Roma, viene autorizzata ad acquistare un immobile sito in comune di Tonezza del Cimone, in localita' Contra' Grotti, valutato in L. 4.800.000.  
+1400. Decreto del Presidente della Repubblica 23 dicembre 1971, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci, con sede in Roma, viene autorizzata ad acquistare dai minori Pasquini Carla e Maria (autorizzati dal Tribunale di Lucca), al complessivo convenuto prezzo di L. 33.000.000, parte di un fabbricato, costituito, a piano terreno, da due terrazze rialzate, ingresso, sala e quattro stanze; al piano superiore, da sei stanze, da due bagni, da un gabinetto con doccia e da una terrazza, sito al lido di Camaiore, via Cardinale Pellegrinetti n. 8/10, da destinare a soggiorno a mare dei soci dell'A.N.C.R.  
   
-Visto, il Guardasigilli: COLOMBO  
-Registrato alla Corte dei conti, addi' 3 giugno 1971  
-Atti del Governo, registro n. 242, foglio n. 75. - VALENTINI
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 22 marzo 1972  
+Atti del Governo, registro n. 247, foglio n. 154. - VALENTINI

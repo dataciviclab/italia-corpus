@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 403
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 288
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 403
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 288
+===============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -24,11 +24,9 @@ Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http:
 
 Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
-Considerato che nel decreto ministeriale 4 dicembre 1980, concernente la "Prima tornata dei giudizi di idoneita' a professore di ruolo, fascia degli associati", l'insegnamento come proposto dagli organi accademici non risulta in alcun raggruppamento;
-
-Veduto il parere del Consiglio universitario nazionale, che propone l'insegnamento di storia del Mediterraneo antico orientale, come incluso nel raggruppamento 47;
+Veduto il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
@@ -41,19 +39,20 @@ Articolo unico
 --------------
 
   
-Nell'art. 58, relativo al corso di laurea in materie letterarie, all'elenco degli insegnamenti complementari e' aggiunto il nuovo seguente insegnamento:  
-storia del Mediterraneo antico orientale.  
+Nell'art. 24, relativo all'elenco degli insegnamenti complementari dei due corsi di laurea in scienze economiche e bancarie e in scienze economiche e' aggiunto l'insegnamento di "diritto privato dell'economia".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 marzo 1983
+### Dato a Roma, addi' 10 febbraio 1986
 
-PERTINI FALCUCCI
+COSSIGA
 
-Visto, il Guardasigilli: DARIDA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 17 agosto 1983
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registro n. 59 Istruzione, foglio n. 102
+Registrato alla Corte dei conti, addi' 10 giugno 1986
+
+Registro n. 45 Istruzione, foglio n. 352

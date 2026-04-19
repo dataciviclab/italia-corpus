@@ -1,89 +1,46 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 settembre 1969 n. 724
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 settembre 1965 n. 1221
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 settembre 1969 n. 724
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 settembre 1965 n. 1221
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione
-
-Decreta:
-
-Lo statuto dell'universita' degli studi di Pisa approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-L'ordinamento della scuola speciale per archeologi preistorici, classici e medioevalisti e' modificato nel senso che il primo comma dell'art. 157 e l'ultimo comma dell'art. 161 sono abrogati e sostituiti dai seguenti:
-
-Art. 157 (primo comma). - "Possono iscriversi alla scuola, speciale: i laureati in lettere e filosofia, gli studenti della stessa facolta' che abbiano compiuto il secondo anno del corso di laurea in lettere o del corso di laurea in filosofia, e ne abbiano superato tutti gli esami consigliati, nonche', limitatamente all'indirizzo preistorico, i laureati in scienze naturali e in scienze geologiche e gli studenti che abbiano compiuto il secondo anno del corso in geologia e ne abbiano superato tutti gli esami consigliati".
-
-Art. 161 (ultimo comma). - "Nel biennio di studi e' previsto un periodo minimo di due mesi riservato a un servizio volontario prestato dagli iscritti presso una soprintendenza alle antichita' per gli archeologi preistorici e classici, o, per gli archeologi medioevalisti, presso una soprintendenza ai monumenti e alle gallerie".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 4 settembre 1969
-
-SARAGAT
-
-FERRARI AGGRADI
-
-Visto, il Guardasigilli: GAVA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 27 ottobre 1969 Atti del Governo, registro n. 229, foglio n. 141. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, numero 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225) e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'universita' degli studi di Pisa approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-L'ordinamento della scuola speciale per archeologi preistorici, classici e medioevalisti e' modificato nel senso che il primo comma dell'art. 157 e l'ultimo comma dell'art. 161 sono abrogati e sostituiti dai seguenti:  
-  
-Art. 157 (primo comma). - "Possono iscriversi alla scuola, speciale: i laureati in lettere e filosofia, gli studenti della stessa facolta' che abbiano compiuto il secondo anno del corso di laurea in lettere o del corso di laurea in filosofia, e ne abbiano superato tutti gli esami consigliati, nonche', limitatamente all'indirizzo preistorico, i laureati in scienze naturali e in scienze geologiche e gli studenti che abbiano compiuto il secondo anno del corso in geologia e ne abbiano superato tutti gli esami consigliati".  
-Art. 161 (ultimo comma). - "Nel biennio di studi e' previsto un periodo minimo di due mesi riservato a un servizio volontario prestato dagli iscritti presso una soprintendenza alle antichita' per gli archeologi preistorici e classici, o, per gli archeologi medioevalisti, presso una soprintendenza ai monumenti e alle gallerie".  
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 46. - All'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere sono aggiunti quelli di:  
+Storia contemporanea;  
+Storia economica.  
+Art. 83, relativo alle propedeuticita' di esami del corso di laurea in Matematica e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente:  
+"L'esame relativo al corso di Calcoli numerici grafici, Meccanici ed elettronici deve essere preceduto da tutti gli esami del secondo anno. Gli esami di Matematiche complementari, Matematiche superiori e di Teoria delle funzioni devono essere preceduti dagli esami di Analisi matematica II e Geometria II".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 settembre 1969
+### Dato a Roma, addi' 28 settembre 1965
 
-SARAGAT FERRARI AGGRADI
+SARAGAT GUI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 27 ottobre 1969
+Registrato alla Corte dei conti, addi' 2 novembre 1965
 
-Atti del Governo, registro n. 229, foglio n. 141. - CARUSO
+Atti del Governo, registro n. 198, foglio n. 9. - VILLA

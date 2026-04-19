@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1980 n. 1227
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1974 n. 653
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1980 n. 1227
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1974 n. 653
+==============================================================
 
 Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
 --------------------------------------------------------------------------------
@@ -12,127 +12,221 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Sulla proposta del Ministro per la pubblica istruzione;
 
-Sulla
------
+Decreta:
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+L'art. 104, relativo alla scuola di specializzazione in radiologia, e' abrogato e sostituito dal seguente:
 
+Scuola di specializzazione in radiologia
+
+Art. 104. - La scuola rilascia i seguenti diplomi di specializzazione: in radiologia e radiologia diagnostica.
+
+La scuola e' riservata ai laureati in medicina e chirurgia che possono essere accolti in numero massimo di dodici per ciascun anno di corso per radiologia e radiologia diagnostica (totale 42).
+
+La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia e' di quattro anni.
+
+Gli insegnamenti sono i seguenti:
+
+a) Matematica, fisica, nozioni di statistica e informatica (annuale) comprendente: richiami di matematica e fisica generale; costituzione della materia; produzione, assorbimento e misura delle radiazioni; statistica applicata alla medicina; informatica e cibernetica applicata alla radiologia;
+
+b) Radiodiagnostica (triennale) comprendente: principi generali di radiodiagnostica; apparecchi, strumenti e tecnica radiodiagnostica; tecnica e fisiologia applicata alla radiodiagnostica; i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia; semeiotica radiologica; diagnostica differenziale radiologica; dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici; dimostrazioni di casistica clinica;
+
+c) Radiobiologia (annuale) comprendente: radiobiologia generale; danni da radiazioni e radiopatie;
+
+d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
+
+legislazione sanitaria applicata alla radiologia; compiti e responsabilita' medicolegali del radiologo; radioprotezione fisica e dosimetria ad essa connessa; fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni; radioprotezione chimica; problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici;
+
+e) Radioterapia e terapia fisica (triennale) comprendente: radiobiologia applicata; fondamenti generali di radioterapia e terapia fisica; istopatologia speciale dei tumori; nozioni sugli apparecchi e strumenti per la radioterapia; tecnica e metodica radioterapica; dosimetria; clinica radioterapica; fondamenti generali di chemioterapia oncologica; chemioterapia clinica dei tumori e sua associazione alla radioterapia; dimostrazione di casistica clinica;
+
+f) Medicina nucleare (biennale) comprendente: elementi di medicina nucleare; istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare; dosimetria dei radioisotopi somministrati per via interna; diagnostica con radioisotopi somministrati per via interna; radioterapia metabolica; dimostrazioni di casistica clinica.
+
+I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nei quattro anni di corso:
+
+1° Anno (tronco comune):
+
+Matematica, fisica, nozioni di statistica ed informatica;
+
+Radiobiologia;
+
+Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;
+
+Radiodiagnostica (I).
+
+2° Anno:
+
+Radiodiagnostica (II);
+
+Radioterapia e terapia fisica (I).
+
+3° Anno:
+
+Radiodiagnostica (III);
+
+Radioterapia e terapia fisica (II);
+
+Medicina nucleare (I).
+
+4° Anno:
+
+Radioterapia e terapia fisica (III);
+
+Medicina nucleare (II).
+
+La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.
+
+Gli insegnamenti sono i seguenti:
+
+a) Matematica, fisica, nozioni di statistica e informatica (annuale) comprendente: richiami di matematica e fisica generale; costituzione della materia; produzione, assorbimento e misura delle radiazioni; statistica applicata alla medicina; informatica e cibernetica applicate alla radiologia;
+
+b) Radiodiagnostica (triennale) comprendente: principi generali di radiodiagnostica; apparecchi, strumenti e tecnica radiodiagnostica; tecnica e fisiologia applicate alla radiodiagnostica; i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia; semeiotica radiologica; diagnostica differenziale radiologica; dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici; dimostrazioni di casistica clinica;
+
+c) Radiobiologia (annuale) comprendente: radiobiologia generale; danni da radiazioni e radiopatie;
+
+d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
+
+legislazione sanitaria applicata alla radiologia; compiti e responsabilita' medico-legali del radiologo; radioprotezione fisica e dosimetria ad essa connessa; fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni; radioprotezione chimica; problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.
+
+I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:
+
+1° Anno (tronco comune):
+
+Matematica, fisica, nozioni di statistica ed informatica;
+
+Radiobiologia;
+
+Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;
+
+Radiodiagnostica (I).
+
+2° Anno:
+
+Radiodiagnostica (II)
+
+3° Anno:
+
+Radiodiagnostica (III).
+
+Per essere ammessi agli esami di diploma in radiologia e in radiologia diagnostica gli iscritti, oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia d'insegnamento ed elaborato una tesi scritta su di un argomento radiologico concordato con il direttore della scuola.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 28 ottobre 1974
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: ZAGARI
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 7 dicembre 1974 Atti di Governo, registro n. 7, foglio n. 65. - SCIARRETTA
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA   
   
+Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
+  
+Decreta:   
   
 Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Dopo l'art. 155, e con il conseguente spostamento della numerazione successiva, e' inserito il seguente nuovo articolo relativo alla istituzione della scuola di specializzazione in farmacologia:   
   
-Scuola di specializzazione in farmacologia   
+L'art. 104, relativo alla scuola di specializzazione in radiologia, e' abrogato e sostituito dal seguente:   
   
-Art. 156. - La scuola di specializzazione in farmacologia rilascia i seguenti diplomi:   
-a) specialista in farmacologia; indirizzo: "farmacologia di base";   
-b) specialista in farmacologia; indirizzo: "farmacologia Clinica";   
-c) specialista in farmacologia; indirizzo: "tossicologia".   
-La scuola ha durata di quattro anni: i primi due anni sono comuni, il secondo biennio e' diverso nei tre indirizzi previsti: di "farmacologia di base" di "farmacologia clinica", di "tossicologia".   
-Il numero massimo degli iscritti e' fissato in quindici per ciascun anno di corso, da ripartire tra i tre indirizzi previsti. Al momento della iscrizione al terzo anno i candidati dovranno scegliere l'indirizzo che intendono seguire. Non sono ammesse abbreviazioni di corso. Per la iscrizione alla scuola e' necessaria la laurea in medicina e chirurgia ed avere superato l'esame di Stato in medicina.  
-L'ammissione alla scuola e' fatta in base ai titoli e ad apposito esame.   
-La facolta', considerato il numero degli iscritti e le possibilita' didattiche, puo' attivare anche un solo indirizzo della scuola.   
-Le materie di insegnamento sono:   
-1° Anno:   
-chimica organica;   
-statistica medica;   
-farmacologia generale;   
-biologia e farmacologia cellulare;   
-immunologia;   
-biologia molecolare dei procarioti e dei virus;   
-saggi e dosaggi farmacologici;   
-inglese scientifico.   
+Scuola di specializzazione in radiologia   
+  
+Art. 104. - La scuola rilascia i seguenti diplomi di specializzazione: in radiologia e radiologia diagnostica.   
+La scuola e' riservata ai laureati in medicina e chirurgia che possono essere accolti in numero massimo di dodici per ciascun anno di corso per radiologia e radiologia diagnostica (totale 42).   
+La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia e' di quattro anni.   
+  
+Gli insegnamenti sono i seguenti:   
+a) Matematica, fisica, nozioni di statistica e informatica (annuale) comprendente: richiami di matematica e fisica generale; costituzione della materia; produzione, assorbimento e misura delle radiazioni; statistica applicata alla medicina; informatica e cibernetica applicata alla radiologia;   
+b) Radiodiagnostica (triennale) comprendente: principi generali di radiodiagnostica; apparecchi, strumenti e tecnica radiodiagnostica; tecnica e fisiologia applicata alla radiodiagnostica; i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia; semeiotica radiologica; diagnostica differenziale radiologica; dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici; dimostrazioni di casistica clinica;   
+c) Radiobiologia (annuale) comprendente: radiobiologia generale; danni da radiazioni e radiopatie;   
+d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:   
+legislazione sanitaria applicata alla radiologia; compiti e responsabilita' medicolegali del radiologo; radioprotezione fisica e dosimetria ad essa connessa; fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni; radioprotezione chimica; problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici;   
+e) Radioterapia e terapia fisica (triennale) comprendente: radiobiologia applicata; fondamenti generali di radioterapia e terapia fisica; istopatologia speciale dei tumori; nozioni sugli apparecchi e strumenti per la radioterapia; tecnica e metodica radioterapica; dosimetria; clinica radioterapica; fondamenti generali di chemioterapia oncologica; chemioterapia clinica dei tumori e sua associazione alla radioterapia; dimostrazione di casistica clinica;   
+f) Medicina nucleare (biennale) comprendente: elementi di medicina nucleare; istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare; dosimetria dei radioisotopi somministrati per via interna; diagnostica con radioisotopi somministrati per via interna; radioterapia metabolica; dimostrazioni di casistica clinica.   
+I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nei quattro anni di corso:   
+  
+1° Anno (tronco comune):   
+Matematica, fisica, nozioni di statistica ed informatica;   
+Radiobiologia;   
+Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;   
+Radiodiagnostica (I).   
+  
 2° Anno:   
-basi di farmacocinetica;   
-farmacologia speciale;   
-chemioterapia antibatterica, antivirale, antineoplastica, antifungina, antiparassitaria;   
-principi di tossicologia, con elementi di tossicologia da ambienti da lavoro, da additivi;   
-tecniche chimico-fisiche, immunologiche, radioisotopiche;   
-inglese scientifico;   
-statistica e programmazione.   
+Radiodiagnostica (II);   
+Radioterapia e terapia fisica (I).   
+  
 3° Anno:   
-a) INDIRIZZO "FARMACOLOGIA DI BASE":   
-farmacologia speciale;   
-farmacologia molecolare;   
-chemioterapia sperimentale;   
-immunofarmacologia;   
-tecniche ed analisi critica degli "screening" di farmaci "in vivo" ed "in vitro";   
-biochimica, fisiologia e farmacologia comparata.   
-b) INDIRIZZO "FARMACOLOGIA CLINICA":   
-organizzazione di un laboratorio di farmacologia   
-clinica e sua funzione;   
-farmacologia clinica e tecniche di sperimentazione clinica; farmacologia speciale, in connessione con la patologia dei   
-singoli organi ed apparati con la pratica   
-clinica I;   
-biodisponibilita' dei farmaci;   
-farmacocinetica e biochimica clinica.   
-c) INDIRIZZO "TOSSICOLOGIA":   
-tossicologia sperimentale;   
-cancerogenesi e teratogenesi;   
-tossicologia dell'ambiente e misure di prevenzione;   
-chimica tossicologica e tecniche di riconoscimento di sostanze tossiche;   
-anatomia ed istopatologia degli stati tossici;   
-epidemiologia;   
-terapia e prevenzione degli stati tossici I.   
+Radiodiagnostica (III);   
+Radioterapia e terapia fisica (II);   
+Medicina nucleare (I).   
+  
 4° Anno:   
-a) INDIRIZZO "FARMACOLOGIA DI BASE":   
-farmacologia speciale;   
-modelli sperimentali di malattie umane;   
-metodi di allevamento, incrocio e stabulazione degli animali da laboratorio;   
-principi di sperimentazione sull'uomo e farmacologia preclinica;   
-legislazione in campo di farmaci.   
-b) INDIRIZZO "FARMACOLOGIA CLINICA":   
-farmacologia speciale in connessione con la patologia degli organi e con la pratica clinica II;   
-farmacologia in eta' prenatale, perinatale ed in geriatria; chemioterapia clinica;   
-deontologia e legislazione in campo di farmacologia clinica.   
-c) INDIRIZZO "TOSSICOLOGIA":   
-tossicologia sistematica;   
-terapia e prevenzione degli stati tossici II;   
-tossicologia nutrizionale;   
-tossicologia da abuso di farmaci;   
-organizzazione di centri antiveleni ed antidroga;   
-legislazione concernente la tossicologia individuale e di ambiente.   
-Ciascun corso di lezioni e' accompagnato da esercitazioni pratiche.  
-Gli insegnamenti vengono integrati da conferenze riguardanti specifici argomenti e problemi farmacoterapici e tossicologici di attualita'.   
-Frequenza: l'insegnamento si svolge normalmente secondo il calendario universitario durante il periodo delle lezioni. La durata del corso si prolunga tuttavia per tutto l'anno solare, senza interruzioni, per la pratica di laboratorio e clinica, che si esplica attraverso l'esercitazione pratica nei reparti.   
-La frequenza ai corsi ed all'esercitazione pratica nei reparti sono obbligatori.   
-L'indirizzo di "farmacologia clinica" e di "tossicologia" prevede una esercitazione pratica nei reparti di almeno un anno in una clinica specializzata. Per essere ammesso all'anno successivo il candidato, al termine di ogni anno, deve superare un esame di profitto comprensivo delle materie di insegnamento dell'anno frequentato. Superati gli esami di profitto prescritti per il 4° anno, il candidato viene ammesso all'esame per il diploma di specializzazione, che consiste nella discussione orale di una dissertazione scritta su di un tema originale approvato dal direttore della scuola.   
-La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.   
-Il direttore puo' durare in carica quattro anni e puo' essere rieletto. Il direttore nomina un vice-direttore responsabile della attivita' didattica e scientifica per ogni indirizzo attivato.   
-Sede ed organizzazione della scuola: le lezioni teoriche e le esercitazioni di laboratorio hanno luogo nei locali messi a disposizione dall'istituto di farmacologia.   
-Per quanto non regolato dagli articoli di cui sopra, si fa riferimento alle norme generali dello statuto della Universita' cattolica.   
+Radioterapia e terapia fisica (III);   
+Medicina nucleare (II).   
+La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.   
+  
+Gli insegnamenti sono i seguenti:   
+a) Matematica, fisica, nozioni di statistica e informatica (annuale) comprendente: richiami di matematica e fisica generale; costituzione della materia; produzione, assorbimento e misura delle radiazioni; statistica applicata alla medicina; informatica e cibernetica applicate alla radiologia;   
+b) Radiodiagnostica (triennale) comprendente: principi generali di radiodiagnostica; apparecchi, strumenti e tecnica radiodiagnostica; tecnica e fisiologia applicate alla radiodiagnostica; i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia; semeiotica radiologica; diagnostica differenziale radiologica; dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici; dimostrazioni di casistica clinica;   
+c) Radiobiologia (annuale) comprendente: radiobiologia generale; danni da radiazioni e radiopatie;   
+d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:   
+legislazione sanitaria applicata alla radiologia; compiti e responsabilita' medico-legali del radiologo; radioprotezione fisica e dosimetria ad essa connessa; fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni; radioprotezione chimica; problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.   
+I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:   
+  
+1° Anno (tronco comune):   
+Matematica, fisica, nozioni di statistica ed informatica;   
+Radiobiologia;   
+Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;   
+Radiodiagnostica (I).   
+  
+2° Anno:   
+Radiodiagnostica (II)   
+  
+3° Anno:   
+Radiodiagnostica (III).   
+  
+Per essere ammessi agli esami di diploma in radiologia e in radiologia diagnostica gli iscritti, oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia d'insegnamento ed elaborato una tesi scritta su di un argomento radiologico concordato con il direttore della scuola.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 dicembre 1980
+### Dato a Roma, addi' 28 ottobre 1974
 
-PERTINI BODRATO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 17 ottobre 1981
+Registrato alla Corte dei conti, addi' 7 dicembre 1974
 
-Registro n. 96 Istruzione, foglio n. 356
+Atti di Governo, registro n. 7, foglio n. 65. - SCIARRETTA

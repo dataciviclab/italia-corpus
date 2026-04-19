@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1976 n. 539
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 897
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1976 n. 539
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 897
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
@@ -10,17 +10,19 @@ Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, numero 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -28,342 +30,161 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso: Dopo l'art. 156, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in radiologia.
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Scuola di specializzazione in radiologia
+Dopo l'art. 159, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i nuovi articoli relativi alla scuola, a fini speciali, per tecnici di istopatologia.
 
-Art. 157. - La scuola rilascia i seguenti diplomi di specializzazione: in radiologia e in radiologia diagnostica.
+Scuola per tecnici di istopatologia (Scuola diretta a fini speciali)
 
-Art. 158. - La scuola e' riservata ai laureati in medicina e chirurgia che possono essere accolti in numero massimo di sei per ciascun anno di corso per radiologia e radiologia diagnostica (totale ventiquattro).
+Art. 160. - E' istituita presso l'istituto di anatomia ed istologia patologica dell'Universita' di Ferrara ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), una "Scuola speciale di preparazione per tecnici di istopatologia" che ha lo scopo di preparare adeguatamente personale tecnico in grado di collaborare nella ricerca scientifica e nella pratica ospedaliera.
 
-La durata dei corsi per il conseguimento del diploma di specialista in radiologia e' di 4 anni.
+Art. 161. - La scuola ha indirizzo teorico-pratico e la durata del corso degli studi e' di due anni accademici.
 
-Gli insegnamenti sono i seguenti:
+E' titolo minimo di ammissione il diploma di scuola media unica, il diploma di avviamento professionale, commerciale o industriale o agrario o ad altro indirizzo. L'eta' minima per l'iscrizione e' di anni 18.
 
-a) matematica, fisica, nozioni di statistica e informatica (annuale) comprendente:
+Alla frequenza della scuola si accede previo esame orale di cultura generale sostenuto davanti ad una commissione composta dal direttore della scuola e da due insegnanti della stessa.
 
-1) richiami di matematica e fisica generale;
+L'esame di ammissione ha luogo entro il mese di ottobre di ciascun anno, in un giorno stabilito dal direttore della scuola.
 
-2) costituzione della materia;
+Il numero massimo dei partecipanti e' di quattro per ogni anno di corso.
 
-3) produzione, assorbimento e misura delle radiazioni;
+Art. 162. - Il direttore della scuola e' il direttore dell'istituto di anatomia e istologia patologica della Universita' di Ferrara. La scuola e' sotto la vigilanza della facolta' di medicina e chirurgia.
 
-4) statistica applicata alla medicina;
+Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' di medicina e chirurgia e nominati dal rettore.
 
-5) informatica e cibernetica applicate alla radiologia;
+Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli aiuti e gli assistenti della facolta' di medicina e chirurgia o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.
 
-b) radiodiagnostica (triennale) comprendente:
+Art. 163. - Le materie di insegnamento sono le seguenti:
 
-1) principi generali di radiodiagnostica;
+1° Anno:
 
-2) apparecchi, strumenti e tecnica radiodiagnostica;
+1) Nozioni di microscopia;
 
-3) tecnica e fisiologia applicate alla radio diagnostica;
+2) Nozioni di istologia generale e speciale;
 
-4) i mezzi di contrasto artificiali in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;
+3) Tecnica istologica e istochimica (1);
 
-5) semeiotica radiologica;
-
-6) diagnostica differenziale radiologica;
-
-7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;
-
-8) dimostrazioni di casistica clinica;
-
-c) radiobiologia (annuale) comprendente:
-
-1) radiobiologia generale;
-
-2) danni di radiazioni e radiopatie;
-
-d) protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
-
-1) legislazione sanitaria applicata alla radiologia;
-
-2) compiti e responsabilita' medico-legali del radiologo;
-
-3) radioprotezione fisica e dosimetria ad essa connessa:
-
-4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;
-
-5) radioprotezione chimica;
-
-6) problemi tecnici e funzionali inerenti la progettazione, organizzazione e attivazione dei reparti radiologici;
-
-e) radioterapia e terapia fisica (triennale) comprendente:
-
-1) radiobiologia applicata;
-
-2) fondamenti generali di radioterapia e terapia fisica;
-
-3) istopatologia speciale dei tumori;
-
-4) nozioni sugli apparecchi e strumenti per la radioterapia;
-
-5) tecnica e metodica radioterapica;
-
-6) dosimetria;
-
-7) clinica radioterapica;
-
-8) fondamenti generali di chemioterapia oncologica;
-
-9) chemioterapia clinica dei tumori e sua associazione alla radioterapia;
-
-10) dimostrazione di casistica clinica;
-
-f) medicina nucleare (biennale) comprendente:
-
-1) elementi di medicina nucleare;
-
-2) istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare;
-
-3) dosimetria dei radioisotopi somministrati per via interna;
-
-4) diagnostica con radioisotopi somministrati per via interna;
-
-5) radioterapia metabolica;
-
-6) dimostrazioni di casistica clinica.
-
-I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nei 4 anni di corso:
-
-1° Anno (tronco comune):
-
-matematica, fisica, nozioni di statistica ed informatica; radiologia; protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;
-
-radiodiagnostica (I).
+4) Nozioni di anatomia e istologia patologica (1).
 
 2° Anno:
 
-radiodiagnostica (II);
+1) Citologia generale e tecnica citologica;
 
-radioterapia e terapia fisica (I).
+2) Tecnica istologica e istochimica (2);
 
-3° Anno:
+3) Nozioni di anatomia e istologia patologica (2);
 
-radiodiagnostica (III);
+4) Tecnica istofisica ed ultrastrutturale.
 
-radioterapia e terapia fisica (II);
+Art. 164. - Gli iscritti alla scuola hanno l'obbligo di seguire un tirocinio pratico nell'istituto di anatomia ed istologia patologica dell'Universita' per la durata di due anni.
 
-medicina nucleare (I).
+I programmi d'insegnamento e gli orari vengono predisposti dal direttore e dal personale insegnante della scuola.
 
-4° Anno:
+La sorveglianza degli iscritti per quanto riguarda le attivita' di laboratorio spetta al direttore della scuola.
 
-radioterapia e terapia fisica (III);
+La frequenza e' obbligatoria. Assenze ingiustificate comportano la esclusione dal corso.
 
-medicina nucleare (II).
+Per essere ammessi a frequentare il secondo anno gli allievi dovranno aver sostenuto tutti gli esami del primo corso.
 
-La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.
+Per essere ammessi a sostenere l'esame di diploma, gli allievi dovranno aver seguito i corsi, superato gli esami di tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole tutte le esercitazioni pratiche previste.
 
-Gli insegnamenti sono i seguenti:
+Art. 165. - Le commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia, su proposta del direttore della scuola.
 
-a) matematica, fisica, nozioni di statistica ed informatica (annuale) comprendente:
+Le commissioni sono composte di tre membri: il direttore della scuola e due docenti della scuola, di cui almeno un professore ufficiale o libero docente. Ogni commissario ha a disposizione dieci punti.
 
-1) richiami di matematica e fisica generale;
+L'esame di diploma consiste in un esame orale sui temi trattati durante il corso in una o piu' prove pratiche stabilite dalla commissione esaminatrice.
 
-2) costituzione della materia;
+L'esame di diploma viene sostenuto davanti ad una commissione di cinque membri scelti fra i docenti della scuola, nominata dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola.
 
-3) produzione, assorbimento e misura delle radiazioni;
+Ogni commissario ha a sua disposizione dieci punti.
 
-4) statistica applicata alla medicina;
+I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola.
 
-5) informatica e cibernetica applicate alla radiologia;
+Agli allievi che avranno superato l'esame finale viene rilasciato un diploma di "tecnico di istopatologia".
 
-b) radiodiagnostica (triennale) comprendente:
-
-1) principi generali di radiodiagnostica;
-
-2) apparecchi, strumenti e tecnica radiodiagnostica;
-
-3) tecnica e fisiologia applicate alla radiodiagnostica;
-
-4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;
-
-5) semeiotica radiologica;
-
-6) diagnostica differenziale radiologica;
-
-7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;
-
-8) dimostrazioni di casistica clinica;
-
-c) radiobiologia (annuale) comprendente:
-
-1) radiobiologia generale;
-
-2) danni da radiazioni e radiopatie;
-
-d) protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
-
-1) legislazione sanitaria applicata alla radiologia;
-
-2) compiti e responsabilita' medico-legali del radiologo;
-
-3) radioprotezione fisica e dosimetria ad essa concessa;
-
-4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;
-
-5) radioprotezione chimica;
-
-6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.
-
-I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:
-
-1° Anno (tronco comune):
-
-matematica, fisica, nozioni di statistica ed informatica; radiobiologia; protezioni radiologiche; legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia; radiodiagnostica (I).
-
-2° Anno:
-
-radiodiagnostica (II).
-
-3° Anno:
-
-radiodiagnostica (III).
-
-Per essere ammessi agli esami di diploma in radiologia e in radiologia diagnostica gli iscritti, oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia d'insegnamento ed elaborata una tesi scritta su un argomento radiologico concordato con il direttore della scuola.
+Art. 166. - L'ammontare dei contributi, sara' determinato dal consiglio di amministrazione dell'Universita' di Ferrara su proposta del senato accademico, udita la facolta' di medicina e chirurgia.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 25 maggio 1976
+Dato a Roma, addi' 31 ottobre 1974
 
 LEONE
 
 MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALI
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 27 luglio 1976 Atti di Governo, registro n. 8 foglio n. 24
+alla Corte dei conti, addi' 15 aprile 1975 Atti di Governo, registro n. 9, foglio n. 70
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, numero 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso: Dopo l'art. 156, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in radiologia.   
-Scuola di specializzazione in radiologia   
-Art. 157. - La scuola rilascia i seguenti diplomi di specializzazione: in radiologia e in radiologia diagnostica.   
-Art. 158. - La scuola e' riservata ai laureati in medicina e chirurgia che possono essere accolti in numero massimo di sei per ciascun anno di corso per radiologia e radiologia diagnostica (totale ventiquattro).   
-La durata dei corsi per il conseguimento del diploma di specialista in radiologia e' di 4 anni.   
-Gli insegnamenti sono i seguenti:   
-a) matematica, fisica, nozioni di statistica e informatica (annuale) comprendente:   
-1) richiami di matematica e fisica generale;   
-2) costituzione della materia;   
-3) produzione, assorbimento e misura delle radiazioni;   
-4) statistica applicata alla medicina;   
-5) informatica e cibernetica applicate alla radiologia;   
-b) radiodiagnostica (triennale) comprendente:   
-1) principi generali di radiodiagnostica;   
-2) apparecchi, strumenti e tecnica radiodiagnostica;   
-3) tecnica e fisiologia applicate alla radio diagnostica;   
-4) i mezzi di contrasto artificiali in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;   
-5) semeiotica radiologica;   
-6) diagnostica differenziale radiologica;   
-7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;   
-8) dimostrazioni di casistica clinica;   
-c) radiobiologia (annuale) comprendente:   
-1) radiobiologia generale;   
-2) danni di radiazioni e radiopatie;   
-d) protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:   
-1) legislazione sanitaria applicata alla radiologia;   
-2) compiti e responsabilita' medico-legali del radiologo;   
-3) radioprotezione fisica e dosimetria ad essa connessa:   
-4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;   
-5) radioprotezione chimica;   
-6) problemi tecnici e funzionali inerenti la progettazione, organizzazione e attivazione dei reparti radiologici;   
-e) radioterapia e terapia fisica (triennale) comprendente:   
-1) radiobiologia applicata;   
-2) fondamenti generali di radioterapia e terapia fisica;   
-3) istopatologia speciale dei tumori;   
-4) nozioni sugli apparecchi e strumenti per la radioterapia;   
-5) tecnica e metodica radioterapica;   
-6) dosimetria;   
-7) clinica radioterapica;   
-8) fondamenti generali di chemioterapia oncologica;   
-9) chemioterapia clinica dei tumori e sua associazione alla radioterapia;   
-10) dimostrazione di casistica clinica;   
-f) medicina nucleare (biennale) comprendente:   
-1) elementi di medicina nucleare;   
-2) istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare;   
-3) dosimetria dei radioisotopi somministrati per via interna;   
-4) diagnostica con radioisotopi somministrati per via interna;   
-5) radioterapia metabolica;   
-6) dimostrazioni di casistica clinica.   
-I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nei 4 anni di corso:   
-1° Anno (tronco comune):   
-matematica, fisica, nozioni di statistica ed informatica; radiologia; protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;   
-radiodiagnostica (I).   
-2° Anno:   
-radiodiagnostica (II);   
-radioterapia e terapia fisica (I).   
-3° Anno:   
-radiodiagnostica (III);   
-radioterapia e terapia fisica (II);   
-medicina nucleare (I).   
-4° Anno:   
-radioterapia e terapia fisica (III);   
-medicina nucleare (II).   
-La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.   
-Gli insegnamenti sono i seguenti:   
-a) matematica, fisica, nozioni di statistica ed informatica (annuale) comprendente:   
-1) richiami di matematica e fisica generale;   
-2) costituzione della materia;   
-3) produzione, assorbimento e misura delle radiazioni;   
-4) statistica applicata alla medicina;   
-5) informatica e cibernetica applicate alla radiologia;   
-b) radiodiagnostica (triennale) comprendente:   
-1) principi generali di radiodiagnostica;   
-2) apparecchi, strumenti e tecnica radiodiagnostica;   
-3) tecnica e fisiologia applicate alla radiodiagnostica;   
-4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;   
-5) semeiotica radiologica;   
-6) diagnostica differenziale radiologica;   
-7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;   
-8) dimostrazioni di casistica clinica;   
-c) radiobiologia (annuale) comprendente:   
-1) radiobiologia generale;   
-2) danni da radiazioni e radiopatie;   
-d) protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:   
-1) legislazione sanitaria applicata alla radiologia;   
-2) compiti e responsabilita' medico-legali del radiologo;   
-3) radioprotezione fisica e dosimetria ad essa concessa;   
-4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;   
-5) radioprotezione chimica;   
-6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.   
-I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:   
-1° Anno (tronco comune):   
-matematica, fisica, nozioni di statistica ed informatica; radiobiologia; protezioni radiologiche; legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia; radiodiagnostica (I).   
-2° Anno:   
-radiodiagnostica (II).   
-3° Anno:   
-radiodiagnostica (III).   
-Per essere ammessi agli esami di diploma in radiologia e in radiologia diagnostica gli iscritti, oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia d'insegnamento ed elaborata una tesi scritta su un argomento radiologico concordato con il direttore della scuola.   
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Dopo l'art. 159, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i nuovi articoli relativi alla scuola, a fini speciali, per tecnici di istopatologia.  
+Scuola per tecnici di istopatologia (Scuola diretta a fini speciali)  
+Art. 160. - E' istituita presso l'istituto di anatomia ed istologia patologica dell'Universita' di Ferrara ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), una "Scuola speciale di preparazione per tecnici di istopatologia" che ha lo scopo di preparare adeguatamente personale tecnico in grado di collaborare nella ricerca scientifica e nella pratica ospedaliera.  
+Art. 161. - La scuola ha indirizzo teorico-pratico e la durata del corso degli studi e' di due anni accademici.  
+E' titolo minimo di ammissione il diploma di scuola media unica, il diploma di avviamento professionale, commerciale o industriale o agrario o ad altro indirizzo. L'eta' minima per l'iscrizione e' di anni 18.  
+Alla frequenza della scuola si accede previo esame orale di cultura generale sostenuto davanti ad una commissione composta dal direttore della scuola e da due insegnanti della stessa.  
+L'esame di ammissione ha luogo entro il mese di ottobre di ciascun anno, in un giorno stabilito dal direttore della scuola.  
+Il numero massimo dei partecipanti e' di quattro per ogni anno di corso.  
+Art. 162. - Il direttore della scuola e' il direttore dell'istituto di anatomia e istologia patologica della Universita' di Ferrara. La scuola e' sotto la vigilanza della facolta' di medicina e chirurgia.  
+Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' di medicina e chirurgia e nominati dal rettore.  
+Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli aiuti e gli assistenti della facolta' di medicina e chirurgia o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.  
+Art. 163. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) Nozioni di microscopia;  
+2) Nozioni di istologia generale e speciale;  
+3) Tecnica istologica e istochimica (1);  
+4) Nozioni di anatomia e istologia patologica (1).  
+2° Anno:  
+1) Citologia generale e tecnica citologica;  
+2) Tecnica istologica e istochimica (2);  
+3) Nozioni di anatomia e istologia patologica (2);  
+4) Tecnica istofisica ed ultrastrutturale.  
+Art. 164. - Gli iscritti alla scuola hanno l'obbligo di seguire un tirocinio pratico nell'istituto di anatomia ed istologia patologica dell'Universita' per la durata di due anni.  
+I programmi d'insegnamento e gli orari vengono predisposti dal direttore e dal personale insegnante della scuola.  
+La sorveglianza degli iscritti per quanto riguarda le attivita' di laboratorio spetta al direttore della scuola.  
+La frequenza e' obbligatoria. Assenze ingiustificate comportano la esclusione dal corso.  
+Per essere ammessi a frequentare il secondo anno gli allievi dovranno aver sostenuto tutti gli esami del primo corso.  
+Per essere ammessi a sostenere l'esame di diploma, gli allievi dovranno aver seguito i corsi, superato gli esami di tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole tutte le esercitazioni pratiche previste.  
+Art. 165. - Le commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia, su proposta del direttore della scuola.  
+Le commissioni sono composte di tre membri: il direttore della scuola e due docenti della scuola, di cui almeno un professore ufficiale o libero docente. Ogni commissario ha a disposizione dieci punti.  
+L'esame di diploma consiste in un esame orale sui temi trattati durante il corso in una o piu' prove pratiche stabilite dalla commissione esaminatrice.  
+L'esame di diploma viene sostenuto davanti ad una commissione di cinque membri scelti fra i docenti della scuola, nominata dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola.  
+Ogni commissario ha a sua disposizione dieci punti.  
+I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola.  
+Agli allievi che avranno superato l'esame finale viene rilasciato un diploma di "tecnico di istopatologia".  
+Art. 166. - L'ammontare dei contributi, sara' determinato dal consiglio di amministrazione dell'Universita' di Ferrara su proposta del senato accademico, udita la facolta' di medicina e chirurgia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 maggio 1976
+### Dato a Roma, addi' 31 ottobre 1974
 
 LEONE MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALI
 
-Registrato alla Corte dei conti, addi' 27 luglio 1976
+Registrato alla Corte dei conti, addi' 15 aprile 1975
 
-Atti di Governo, registro n. 8 foglio n. 24
+Atti di Governo, registro n. 9, foglio n. 70

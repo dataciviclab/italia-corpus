@@ -1,76 +1,73 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1983 n. 1277
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1970 n. 460
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1983 n. 1277
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1970 n. 460
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Nell'art. 84, relativo al corso di laurea in discipline delle arti, della musica e dello spettacolo, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-sociolinguistica;  
-filosofia del linguaggio.  
-Nel medesimo articolo sono soppressi i seguenti insegnamenti complementari:  
-decimologia;  
-elementi di acustica e didattica.  
-Nell'art. 73, relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-storia della miniatura e delle arti minori;  
-teoria della letteratura;  
-sociologia della letteratura.  
-Nell'art. 85, relativo al corso di laurea in storia, agli elenchi degli insegnamenti complementari dell'indirizzo antico e di quello contemporaneo sono aggiunti i seguenti nuovi insegnamenti:  
-a) Indirizzo antico:  
-storia amministrativa romana;  
-storia dell'Emilia-Romagna nell'antichita';  
-demografia antica.  
-b) Indirizzo contemporaneo:  
-storia del lavoro;  
-storia dell'Europa contemporanea;  
-storia dei partiti e movimenti sindacali;  
-storia economica contemporanea.  
-Nel medesimo articolo, negli elenchi degli insegnamenti complementari degli indirizzi antico e medioevale, sono rispettivamente soppressi una storia regionale nell'antichita' e storia della chiesa medioevale.  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Gli articoli da 437 a 441 relativi alla scuola di perfezionamento in medicina legale e delle assicurazioni, che muta denominazione in scuola di specializzazione in medicina legale e delle assicurazioni, sono abrogati e sostituiti dai seguenti.  
+  
+Scuola di specializzazione in medicina legale e delle assicurazioni   
+Art. 437. - La scuola di specializzazione in medicina legale e delle assicurazioni conferisce il diploma di specialista in medicina legale e delle assicurazioni. La durata della scuola e' di tre anni.  
+Art. 438. - Sono impartiti i seguenti insegnamenti cosi' distribuiti per ciascun anno di corso:  
+1° Anno:  
+1) Medicina legale generale;  
+2) Elementi di diritto pubblico e privato;  
+3) Tecnica e diagnostica anatomo-patologica e medico-legale;  
+4) Traumatologia medico-legale;  
+5) Semeiotica medico-legale.  
+2° Anno:  
+1) Medicina legale penalistica;  
+2) Deontologia medica;  
+3) Neuropsichiatria medico-legale;  
+4) Elementi di medicina criminologica e di medicina penitenziaria;  
+5) Indagini di sopralluogo;  
+6) Identificazione personale.  
+3° Anno:  
+1) Medicina legale civilistica e canonistica;  
+2) Tossicologia medico-legale;  
+3) Tecniche di laboratorio medico-legale ed ematologia forense;  
+4) Ostetricia e ginecologia forensi;  
+5) Elementi di legislazione del lavoro;  
+6) Elementi di medicina del lavoro;  
+7) Medicina delle assicurazioni;  
+8) Medicina legale militare e pensionistica civile.  
+Art. 439. - L'ammissione alla scuola avviene per titoli ed esami.  
+L'esame consistera' in una prova scritta su argomenti riguardanti la disciplina e verra' espletato non oltre il trenta di novembre di ciascun anno.  
+Art. 440. - Sono disponibili dieci posti per ciascun anno di corso.  
+Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni e le esercitazioni, nonche' di prestare servizio di medico interno per almeno sei mesi di ciascun anno.  
+Art. 441. - Alla fine di ogni anno, gli iscritti che abbiano conseguito le attestazioni di frequenza sul relativo libretto, sono tenuti a superare tutti gli esami relativi agli insegnamenti di ciascun corso per il passaggio all'anno successivo. L'esame di diploma consiste in una dissertazione scritta su un argomento di medicina legale o di medicina assicurativa.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 novembre 1983
+### Dato a Roma, addi' 12 maggio 1970
 
-PERTINI FALCUCCI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 8 agosto 1984
+Registrato alla Corte dei conti, addi' 2 luglio 1970
 
-Registro n. 49 Istruzione, foglio n. 193
+Atti del Governo, registro n. 236, foglio n. 105. - CARUSO

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1975 n. 267
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1976 n. 706
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1975 n. 267
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1976 n. 706
 =============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-267. Decreto del Presidente della Repubblica 10 aprile 1975, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Varese Ligure (La Spezia) con atto 12 giugno 1973, n. 696 di repertorio, a rogito notaio Alberto Suetta, dell'appezzamento di terreno di mq 506, catastalmente indicato nell'atto suddetto, e sul quale l'Amministrazione dell'agricoltura e delle foreste ha gia' realizzato una casermetta forestale.  
+706. Decreto del Presidente della Repubblica 18 maggio 1976, col quale, sulla proposta del Ministro per le finanze, di concerto con il Ministro per il lavoro e la previdenza sociale, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal sig. Menegon Floriano con atto 2 dicembre 1955, n. 10253 di repertorio, a rogito dott. Paolo De Lorenzi, notaio in Ravenna, dell'appezzamento di terreno, catastalmente indicato in atto, sito in comune di Brisighella (Ravenna), parrocchia Zattaglia, strada consorziale torrente Sintria, da stralciarsi dal podere prebendale denominato "Il Casetto", della superficie catastale di mq 3.410 e sul quale il Ministero del lavoro e della previdenza sociale, con le esercitazioni pratiche di corsi di addestramento professionale per lavoratori edili, ha gia' realizzato delle casette minime.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 23 giugno 1975  
-Atti di Governo, registro n. 10, foglio n. 76
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 2 ottobre 1976  
+Atti di Governo, registro n. 9, foglio n. 55

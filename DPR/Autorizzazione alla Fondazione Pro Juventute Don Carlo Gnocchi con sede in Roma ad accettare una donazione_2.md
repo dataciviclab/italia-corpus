@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1963 n. 948
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1966 n. 1002
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1963 n. 948
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1966 n. 1002
+==============================================================
 
 Autorizzazione alla "Fondazione Pro Juventute Don Carlo Gnocchi", con sede in Roma, ad accettare una donazione.
 ---------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-948. Decreto del Presidente della Repubblica 6 giugno 1963, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare una donazione che ha per oggetto la nuda proprieta' dell'appartamento ad uso di abitazione, sito al 1° piano della casa di Milano con ingresso da via Anfossi n. 17/19, disposta in suo favore da mons. Edoardo Gilardi, con atto a rogito notaio dott. Giuseppe Gallizia di Milano, in data 14 novembre 1961, n. 60659/22151 di repertorio, n. 16915 arch.  
+1002. Decreto del Presidente della Repubblica 5 agosto 1966, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi" con sede in Roma, viene autorizzata ad accettare la donazione (disposta in suo favore dal sig. Annibale Colombo con atto a rogito dottor Pietro Chiaveri, notaio residente in Melzo, in data 15 maggio 1963, n. 15480 di rep., n. 4150 di racc.) consistente in un appezzamento di terreno, sito in Milano e descritto nell'atto notarile di cui innanzi.  
   
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 10 luglio 1963  
-Atti del Governo, registro n. 171, foglio n. 120. - VILLA
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 22 novembre 1966  
+Atti dal Governo, registro n. 207, foglio n. 61. - VILLA

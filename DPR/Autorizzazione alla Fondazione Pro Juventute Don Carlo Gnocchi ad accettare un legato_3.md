@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 marzo 1959 n. 247
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1962 n. 70
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 marzo 1959 n. 247
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1962 n. 70
+=============================================================
 
 Autorizzazione alla "Fondazione Pro Juventute Don Carlo Gnocchi" ad accettare un legato.
 ----------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-247. Decreto del Presidente della Repubblica 19 marzo 1959, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi" viene autorizzata ad accettare un legato dell'importo di L. 2.000.000, disposto dalla signora Luigia Del Zoppo ved. Giarda, con testamento olografo in data 2 febbraio 1956, pubblicato e depositato per atto a rogito notaio dott. Giorgio Basadonna di Milano, a favore dei "poveri Mutilatini di Don Gnocchi" che si identificano con la Fondazione suindicata.  
+70. Decreto del Presidente della Repubblica 26 gennaio 1962, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi", viene autorizzata ad accettare il legato di L. 600.000 (seicentomila), disposto dalla defunta signorina Gelsomina Della Monica, con testamento pubblico a rogito dott. Alberto Ricci, notaio in Savignano sul Rubicone, in data 5 luglio 1960, n. 30 di repertorio.  
   
 Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 5 maggio 1959  
-Atti del Governo, registro n. 118, foglio n. 104. - VILLA
+Registrato alla Corte dei conti, addi' 24 febbraio 1962  
+Atti del Governo, registro n. 144, foglio n. 2. - VILLA

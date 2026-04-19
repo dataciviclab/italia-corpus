@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1951 n. 1148
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1986 n. 685
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1951 n. 1148
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1986 n. 685
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -10,295 +10,807 @@ Modificazioni allo statuto dell'Universita' degli studi di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 20 aprile 1939, n. 1118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1118) e modificato con [regi decreti 12 gennaio 1941, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-01-12;34); [27 aprile 1942, n. 571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;571); [5 settembre 1942, n. 1237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1237) e [24 ottobre 1942, n. 1438, e con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1438) [4 febbraio 1947, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-04;196) e [7 marzo 1947, n. 1727, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-03-07;1727) [26 febbraio 1949, n. 430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;430); [21 aprile 1949, n. 613](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;613); [1 settembre 1949, n. 816](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-01;816); [13 marzo 1950, n. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;599) e [30 ottobre 1950, n. 1125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1125);
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita', anzidetta;
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Il secondo comma dell'art. 60, relativo al corso di specializzazione in viticultura, e' sostituito dal seguente:
-
-"prevalentemente teorico-didattico, dal 15 gennaio al 15 maggio da trascorrersi presso la Facolta' di agraria di Torino".
-
-L'attuale art. 95, relativo alla scuola di specializzazione in igiene e' cosi' modificato:
-
-"Gl'insegnamenti impartiti nella scuola sono i seguenti:
-
-1° anno:
-
-1) statistica sanitaria;
-
-2) chimica applicata all'igiene;
-
-3) fisica applicata all'igiene;
-
-4) analisi di laboratorio applicate all'igiene;
-
-5) malattie parassitarie (rispettivamente da infravirus, schizomiceti, micofiti, protozoi, macroparassiti):
-
-a) dell'infanzia;
-
-b) degli adulti;
-
-c) tropicali;
-
-6) ingegneria sanitaria.
-
-L'allievo ha inoltre l'obbligo della frequenza a titolo pratico presso l'Ufficio di igiene del capoluogo di Provincia per la durata di un mese, presso l'ufficio del medico provinciale pure per la durata di un mese.
-
-Questi due periodi di pratica non possono essere fatti contemporaneamente.
-
-2° anno:
-
-1) amministrazione sanitaria (legislazione e organizzazione sanitaria, creazione di centri di sanita', mutualistica, assicurazioni);
-
-2) epidemiologia e profilassi generale e speciale;
-
-3) medicina preventiva, rispettivamente:
-
-a) maternita' e infanzia, malattie cuore e vasi, ricambio, cancro, ecc.;
-
-b) igiene del lavoro, mentale e della scuola, dei laboratori e dello sport;
-
-c) igiene della alimentazione.
-
-L'allievo ha inoltre l'obbligo della frequenza a titolo pratico presso un consorzio antitubercolare per la durata di un mese e presso la direzione sanitaria di un ospedale di prima classe pure per la durata di un mese.
-
-Questi due periodi di pratica non possono essere fatti contemporaneamente.
-
-Dopo aver superato tutti gli esami e aver ottemperato agli obblighi della frequenza presso le istituzioni di cui sopra, il candidato dovra' presentare una tesi sperimentale o di compilazione su di un argomento facente parte delle materie del corso da discutersi davanti ad una commissione giudicatrice nominata dal rettore udito il preside della Facolta'.
-
-Dopo l'art. 120 sono aggiunti i seguenti nuovi articoli relativi alle istituzioni della "scuola di perfezionamento in cardiologia", della "scuola di specializzazione in ortopedia e traumatologia" e della "scuola di specializzazione per medici settori ospedalieri, direttori di laboratorio".
-
-Scuola di perfezionamento in cardiologia
-
-Art. 121. - E' istituita presso la Facolta' di medicina e chirurgia dell'Universita' di Torino, una scuola di perfezionamento in cardiologia.
-
-Art. 122. - Il corso della scuola ha la durata di due anni.
-
-Art. 123. - Le materie di insegnamento sono le seguenti:
-
-1° anno:
-
-anatomia dell'apparato cardio-vascolare;
-
-fisiologia dell'apparato cardio-vascolare;
-
-anatomia patologica dell'apparato cardio-vascolare;
-
-semeiotica dell'apparato cardio-vascolare;
-
-tecniche dell'apparato circolatorio;
-
-clinica delle malattie dell'apparato circolatorio.
-
-2° anno:
-
-clinica delle malattie dell'apparato cardio-vascolare;
-
-terapia speciale delle malattie dell'apparato cardiovascolare; chirurgia cardio-vascolare.
-
-I corsi saranno integrati da esercitazioni sull'ammalato e nei laboratori. I mezzi per tali corsi saranno forniti dall'ambulatorio del centro cardiologico istituito presso l'Istituto di patologia speciale medica, dalle infermerie e dai laboratori della clinica di patologia speciale medica attrezzati in modo particolare per lo studio e la cura delle malattie in questione. Alla fine del corso coloro che avranno superato tutti gli esami speciali dovranno presentare una tesi originale da discutere per il conseguimento del diploma.
-
-Scuola di specializzazione in ortopedia e traumatologia
-
-Art. 124. - Il corso della scuola ha la durata di tre anni.
-
-Art. 125. - Gli insegnamenti impartiti nella scuola sono i seguenti:
-
-1° anno:
-
-a) anatomia e fisiologia degli organi di sostegno e di movimento;
-
-b) propedeutica ortopedica e traumatologica.
-
-2° anno:
-
-c) anatomia patologica dagli organi di sostegno e di movimento;
-
-d) patologia e clinica ortopedica e traumatologica;
-
-e) radiologia dell'apparato scheletrico di sostegno e di movimento.
-
-3° anno:
-
-f) infortunistica dal punto di vista sociale e legale;
-
-g) clinica e terapia ortopedica e traumatologica.
-
-Turni di internato nei due ultimi anni in clinica ortopedica.
-
-Tutti gli insegnamenti dovranno essere seguiti da esami.
-
-Alla fine del corso lo specializzando dovra' sostenere una prova teorico-pratica ed una discussione sopra una dissertazione scritta su argomento delle materie contemplate dallo statuto per il conseguimento del diploma di specialista in ortopedia e traumatologia.
-
-Gli allievi dovranno pagare le tasse, le sopratasse e i contributi prescritti per l'analoga scuola di specializzazione in chirurgia.
-
-Il numero degli specializzandi e' limitato a sei per anno.
-
-Scuola di specializzazione per medici settori
-
-ospedalieri, direttori di laboratorio
-
-Art. 126. - E' istituita una "scuola di specializzazione per medici settori ospedalieri, direttori di laboratorio" annessa alla Facolta' di medicina e chirurgia.
-
-Detta scuola ha la durata di due anni.
-
-Art. 127. - Gli insegnamenti impartiti nella scuola sono i seguenti:
-
-1) tecnica delle autopsie;
-
-2) diagnostica anatomo-patologica;
-
-3) tecnica diagnostica istologica ed ematologica;
-
-4) tecnica e diagnostica batteriologica;
-
-5) tecnica e diagnostica immunologica;
-
-6) tecnica e diagnostica per ricerche di chimica clinica;
-
-7) tecnica di necroscopie medico legali;
-
-8) elementi di legislazione sanitaria.
-
-Al termine dei corsi a coloro che avranno superato gli esami speciali ed un esame di diploma, con presentazione di una dissertazione scritta verra' rilasciato un diploma di "settore laboratorista".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 30 giugno 1951
-
-EINAUDI
-
-GONELLA
-
-Visto, il Guardasigilli: ZOLI
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 5 novembre 1951 Atti del Governo, registro n. 45, foglio n. 63. - FRASCA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 20 aprile 1939, n. 1118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1118) e modificato con [regi decreti 12 gennaio 1941, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-01-12;34); [27 aprile 1942, n. 571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;571); [5 settembre 1942, n. 1237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1237) e [24 ottobre 1942, n. 1438, e con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1438) [4 febbraio 1947, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-04;196) e [7 marzo 1947, n. 1727, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-03-07;1727) [26 febbraio 1949, n. 430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;430); [21 aprile 1949, n. 613](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;613); [1 settembre 1949, n. 816](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-01;816); [13 marzo 1950, n. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;599) e [30 ottobre 1950, n. 1125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1125);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita', anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Gli articoli da 205 a 207, relativi alla scuola di specializzazione in anestesia e rianimazione, sono soppressi.  
+
+Art. 2
+------
+
   
-Decreta:  
+Gli articoli da 208 a 210, relativi alla scuola di specializzazione in medicina interna, sono soppressi.  
+
+Art. 3
+------
+
   
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 229 e 230, relativi alla scuola di specializzazione in otorinolaringoiatria, sono soppressi.  
+
+Art. 4
+------
+
   
-Il secondo comma dell'art. 60, relativo al corso di specializzazione in viticultura, e' sostituito dal seguente:  
-"prevalentemente teorico-didattico, dal 15 gennaio al 15 maggio da trascorrersi presso la Facolta' di agraria di Torino".  
-L'attuale art. 95, relativo alla scuola di specializzazione in igiene e' cosi' modificato:  
-"Gl'insegnamenti impartiti nella scuola sono i seguenti:  
-1° anno:  
-1) statistica sanitaria;  
-2) chimica applicata all'igiene;  
-3) fisica applicata all'igiene;  
-4) analisi di laboratorio applicate all'igiene;  
-5) malattie parassitarie (rispettivamente da infravirus, schizomiceti, micofiti, protozoi, macroparassiti):  
-a) dell'infanzia;  
-b) degli adulti;  
-c) tropicali;  
-6) ingegneria sanitaria.  
-L'allievo ha inoltre l'obbligo della frequenza a titolo pratico presso l'Ufficio di igiene del capoluogo di Provincia per la durata di un mese, presso l'ufficio del medico provinciale pure per la durata di un mese.  
-Questi due periodi di pratica non possono essere fatti contemporaneamente.  
-2° anno:  
-1) amministrazione sanitaria (legislazione e organizzazione sanitaria, creazione di centri di sanita', mutualistica, assicurazioni);  
-2) epidemiologia e profilassi generale e speciale;  
-3) medicina preventiva, rispettivamente:  
-a) maternita' e infanzia, malattie cuore e vasi, ricambio, cancro, ecc.;  
-b) igiene del lavoro, mentale e della scuola, dei laboratori e dello sport;  
-c) igiene della alimentazione.  
-L'allievo ha inoltre l'obbligo della frequenza a titolo pratico presso un consorzio antitubercolare per la durata di un mese e presso la direzione sanitaria di un ospedale di prima classe pure per la durata di un mese.  
-Questi due periodi di pratica non possono essere fatti contemporaneamente.  
-Dopo aver superato tutti gli esami e aver ottemperato agli obblighi della frequenza presso le istituzioni di cui sopra, il candidato dovra' presentare una tesi sperimentale o di compilazione su di un argomento facente parte delle materie del corso da discutersi davanti ad una commissione giudicatrice nominata dal rettore udito il preside della Facolta'.  
-Dopo l'art. 120 sono aggiunti i seguenti nuovi articoli relativi alle istituzioni della "scuola di perfezionamento in cardiologia", della "scuola di specializzazione in ortopedia e traumatologia" e della "scuola di specializzazione per medici settori ospedalieri, direttori di laboratorio".  
+Gli articoli 239 e 240, relativi alla scuola di specializzazione in odontostomatologia, sono soppressi.  
+
+Art. 5
+------
+
   
-Scuola di perfezionamento in cardiologia  
+L'art. 245, relativo alla scuola di specializzazione in urologia, e' soppresso.  
+
+Art. 6
+------
+
   
-Art. 121. - E' istituita presso la Facolta' di medicina e chirurgia dell'Universita' di Torino, una scuola di perfezionamento in cardiologia.  
-Art. 122. - Il corso della scuola ha la durata di due anni.  
-Art. 123. - Le materie di insegnamento sono le seguenti:  
-1° anno:  
-anatomia dell'apparato cardio-vascolare;  
-fisiologia dell'apparato cardio-vascolare;  
-anatomia patologica dell'apparato cardio-vascolare;  
-semeiotica dell'apparato cardio-vascolare;  
-tecniche dell'apparato circolatorio;  
-clinica delle malattie dell'apparato circolatorio.  
-2° anno:  
-clinica delle malattie dell'apparato cardio-vascolare;  
-terapia speciale delle malattie dell'apparato cardiovascolare; chirurgia cardio-vascolare.  
-I corsi saranno integrati da esercitazioni sull'ammalato e nei laboratori. I mezzi per tali corsi saranno forniti dall'ambulatorio del centro cardiologico istituito presso l'Istituto di patologia speciale medica, dalle infermerie e dai laboratori della clinica di patologia speciale medica attrezzati in modo particolare per lo studio e la cura delle malattie in questione. Alla fine del corso coloro che avranno superato tutti gli esami speciali dovranno presentare una tesi originale da discutere per il conseguimento del diploma.  
+Gli articoli da 248 a 256, relativi alla scuola di specializzazione in medicina del lavoro, sono soppressi.  
+
+Art. 7
+------
+
   
-Scuola di specializzazione in ortopedia e traumatologia  
+Gli articoli da 277 a 284, da 333 a 338, da 387 a 389, relativi alle scuole di specializzazione in endocrinologia, in diabetologia e malattie del ricambio, in andrologia, sono soppressi.  
+
+Art. 8
+------
+
   
-Art. 124. - Il corso della scuola ha la durata di tre anni.  
-Art. 125. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
-1° anno:  
-a) anatomia e fisiologia degli organi di sostegno e di movimento;  
-b) propedeutica ortopedica e traumatologica.  
-2° anno:  
-c) anatomia patologica dagli organi di sostegno e di movimento;  
-d) patologia e clinica ortopedica e traumatologica;  
-e) radiologia dell'apparato scheletrico di sostegno e di movimento.  
-3° anno:  
-f) infortunistica dal punto di vista sociale e legale;  
-g) clinica e terapia ortopedica e traumatologica.  
-Turni di internato nei due ultimi anni in clinica ortopedica.  
-Tutti gli insegnamenti dovranno essere seguiti da esami.  
-Alla fine del corso lo specializzando dovra' sostenere una prova teorico-pratica ed una discussione sopra una dissertazione scritta su argomento delle materie contemplate dallo statuto per il conseguimento del diploma di specialista in ortopedia e traumatologia.  
-Gli allievi dovranno pagare le tasse, le sopratasse e i contributi prescritti per l'analoga scuola di specializzazione in chirurgia.  
-Il numero degli specializzandi e' limitato a sei per anno.  
   
-Scuola di specializzazione per medici settori  
-ospedalieri, direttori di laboratorio  
+Dopo l'art. 202, e con lo spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi al riordinamento delle scuole di specializzazione in otorinolaringoiatria, in medicina del lavoro, in anestesia e rianimazione, in odontostomatologia, in urologia, in medicina interna, in endocrinologia (in sostituzione delle scuole di specializzazione in endocrinologia, in diabetologia e malattie del ricambio, in andrologia).   
   
-Art. 126. - E' istituita una "scuola di specializzazione per medici settori ospedalieri, direttori di laboratorio" annessa alla Facolta' di medicina e chirurgia.  
-Detta scuola ha la durata di due anni.  
-Art. 127. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
-1) tecnica delle autopsie;  
-2) diagnostica anatomo-patologica;  
-3) tecnica diagnostica istologica ed ematologica;  
-4) tecnica e diagnostica batteriologica;  
-5) tecnica e diagnostica immunologica;  
-6) tecnica e diagnostica per ricerche di chimica clinica;  
-7) tecnica di necroscopie medico legali;  
-8) elementi di legislazione sanitaria.  
-Al termine dei corsi a coloro che avranno superato gli esami speciali ed un esame di diploma, con presentazione di una dissertazione scritta verra' rilasciato un diploma di "settore laboratorista".  
+Scuola di specializzazione in otorinolaringoiatria   
+Art. 203. - E' istituita la scuola di specializzazione in otorinolaringoiatria presso l'Universita' degli studi di Torino.   
+La scuola ha lo scopo di insegnare e approfondire gli studi nel campo della otorinolaringoiatria e di fornire le competenze professionali necessarie per il conseguimento del diploma che legittima l'assunzione della qualifica di specialista in otorinolaringoiatria. La scuola rilascia il titolo di specialista in otorinolaringoiatria.   
+Art. 204. - La scuola ha la durata di quattro anni.   
+Ciascun anno di corso prevede ottocento ore di insegnamento e di attivita' pratiche guidate.   
+In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in sei per ciascun anno di corso, per un totale di ventiquattro specializzandi.   
+Art. 205. - Per l'attuazione delle attivita' didattiche programmate dal consiglio della scuola provvede la facolta' di medicina e chirurgia.   
+Art. 206. - Sono ammessi alle prove per ottenere l'iscrizione i laureati in medicina e chirurgia.   
+Per l'iscrizione alla scuola e' richiesto il possesso del diploma di abilitazione all'esercizio della professione.   
+Art. 207. - La scuola comprende sette aeree di insegnamento e tirocinio professionale:   
+a) area delle scienze basiche fisiche;   
+b) area delle scienze basiche biologiche;   
+c) area clinica;   
+d) area diagnostica:   
+e) area terapeutica;   
+f) area delle scienze correlate;   
+g) area medico-legale e sociale.   
+Art. 208. - Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:   
+a) Area delle scienze basiche fisiche:   
+informatica medica e strumentazione biomedica.   
+b) Area delle scienze basiche biologiche:   
+anatomia istologia ed embriologia;   
+fisiologia.   
+c) Area clinica:   
+patologia ORL e cervico-facciale;   
+patologia e clinica ORL e cervico-facciale;   
+ORL pediatrica;   
+audiologia;   
+foniatria.   
+d) Area diagnostica:   
+semeiotica ORL;   
+anatomia e istologia patologica;   
+patologia clinica;   
+otoneurologia;   
+audiometria.   
+e) Area terapeutica:   
+terapia medica;   
+tecniche operatorie otologiche;   
+tecniche operatorie faringolaringee e cervicali;   
+tecniche operatorie ORL maxillo-facciali;   
+chirurgia plastica;   
+tracheobroncoscopia;   
+anestesiologia.   
+f) Area delle scienze correlate:   
+neuropatologia;   
+oculistica;   
+radiologia;   
+pediatria.   
+g) Area medico-legale e sociale:   
+medicina legale e infortunistica;   
+ORL preventiva e sociale.   
+Art. 209. - L'attivita' didattica comprende ogni anno ottocento ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in una attivita' didattica teorico-pratica comune per tutti gli studenti (quattrocento ore come di seguito ripartite) ed in una attivita' didattica elettiva, prevalentemente di carattere tecnico-applicativo di ulteriori quattrocento ore rivolta all'apprendimento del curriculum corrispondente ad uno dei settori formativo-professionali (monte ore elettivo).   
+La frequenza nelle diverse aree avviene pertanto come di seguito specificato:   
+  
+1° Anno:   
+Scienze basiche fisiche (ore 50):   
+informatica medica e strumentazione biomedica. . . . . . . . . ore 50 Scienze basiche biologiche (ore 50):   
+anatomia, istologia ed embriologia . . . . . . . . . . . . . . ore 30 fisiologia . . . . . . . . . . . . . . . . . . . . . . . . . . ore 20 Clinica (ore 100):   
+patologia ORL e cervico-facciale. . . . . . . . . . . . . . . ore 100 Diagnostica (ore 200):   
+semeiotica ORL. . . . . . . . . . . . . . . . . . . . . . . . ore 175 anatomia e istologia patologica. . . . . . . . . . . . . . . . ore 25 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 2° Anno:   
+Clinica (ore 200):   
+patologia e clinica ORL e cervicofacciale . . . . . . . . . . ore 200 Diagnostica (ore 100):   
+otoneurologia. . . . . . . . . . . . . . . . . . . . . . . . . ore 30 patologia clinica. . . . . . . . . . . . . . . . . . . . . . . ore 30 audiometria. . . . . . . . . . . . . . . . . . . . . . . . . . ore 40 Terapeutica (ore 100):   
+tracheobroncoscopia. . . . . . . . . . . . . . . . . . . . . . ore 50 anestesiologia . . . . . . . . . . . . . . . . . . . . . . . . ore 50 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 3° Anno:   
+Clinica (ore 200):   
+patologia e clinica ORL e cervico-facciale. . . . . . . . . . ore 100 audiologia . . . . . . . . . . . . . . . . . . . . . . . . . . ore 50 foniatria. . . . . . . . . . . . . . . . . . . . . . . . . . . ore 25 ORL pediatrica . . . . . . . . . . . . . . . . . . . . . . . . ore 25 Terapeutica (ore 150):   
+tecniche operatorie faringolaringee e cervicali . . . . . . . ore 100 terapia medica . . . . . . . . . . . . . . . . . . . . . . . . ore 50 Scienze correlate (ore 50):   
+oculistica . . . . . . . . . . . . . . . . . . . . . . . . . . ore 20 radiologia . . . . . . . . . . . . . . . . . . . . . . . . . . ore 30 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 4° Anno:   
+Terapeutica (ore 350):   
+tecniche operatorie otologiche. . . . . . . . . . . . . . . . ore 175 tecniche operatorie ORL maxillo-facciali. . . . . . . . . . . ore 150 chirurgia plastica . . . . . . . . . . . . . . . . . . . . . . ore 25 Scienze correlate (ore 25):   
+neuropatologia . . . . . . . . . . . . . . . . . . . . . . . . ore 15 pediatria. . . . . . . . . . . . . . . . . . . . . . . . . . . ore 10 Medico-legale e sociale (ore 25):   
+medicina legale e infortunistica . . . . . . . . . . . . . . . ore 10 ORL preventiva e sociale . . . . . . . . . . . . . . . . . . . ore 15 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+  
+Art. 210. - Durante i quattro anni di corso e' richiesta la frequenza nei reparti di degenza e nei servizi specialistici di diagnosi e cura seguenti:   
+audiologico;   
+otoneurologico;   
+foniatrico;   
+chirurgico,   
+dell'istituto della scuola.   
+La frequenza nelle varie ore per complessive ottocento ore annue compreso il monte ore elettivo di quattrocento ore annue, avverra' secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienza e di formazione professionale. Il consiglio della scuola ripartira' annualmente il monte ore elettivo.   
+Il consiglio della scuola predispone apposito libretto di formazione, che consenta allo specializzando ed al consiglio stesso il controllo dell'attivita' svolta e dell'acquisizione dei progressi compiuti.   
+  
+Scuola di specializzazione in medicina del lavoro   
+Art. 211. - E' istituita la scuola di specializzazione in medicina del lavoro presso l'Universita' degli studi di Torino.   
+La scuola ha lo scopo di insegnare ed approfondire gli studi nel campo della medicina del lavoro e di fornire le competenze professionali necessarie per il conseguimento del diploma che legittima l'assunzione della qualifica di specialista in medicina del lavoro.   
+La scuola rilascia il titolo di specialista in medicina del lavoro.  
+Art. 212. - La scuola ha la durata di quattro anni.   
+Ciascun anno di corso prevede ottocento ore di insegnamento e di attivita' pratiche guidate.   
+In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in dieci per ciascun anno di corso, per un totale di quaranta specializzandi.   
+Art. 213. - Per l'attuazione delle attivita' didattiche programmate dal consiglio della scuola provvede la facolta' di medicina e chirurgia - istituto di medicina del lavoro di Torino.   
+Art. 214. - Sono ammessi alle prove per ottenere l'iscrizione i laureati in medicina e chirurgia.   
+Per l'iscrizione alla scuola e' richiesto il possesso del diploma di abilitazione all'esercizio della professione.   
+Art. 215. - La scuola comprende sette aree di insegnamento e tirocinio professionale:   
+a) igiene del lavoro;   
+b) fisiologia del lavoro ed ergonomia;   
+c) tossicologia professionale;   
+d) medicina preventiva dei lavoratori;   
+e) patologia, clinica e riabilitazione delle malattie da lavoro;   
+f) epidemiologia occupazionale;   
+g) medicina legale e delle assicurazioni.   
+Art. 216. - Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:   
+a) Igiene del lavoro:   
+igiene del lavoro;   
+tecniche di laboratorio e monitoraggio ambientale.   
+b) Fisiologia del lavoro ed ergonomia:   
+fisiologia del lavoro ed ergonomia.   
+c) Tossicologia professionale:   
+patologia, clinica e monitoraggio biologico;   
+tossicologia industriale;   
+radiobiologia e radioprotezione.   
+d) Medicina preventiva dei lavoratori:   
+psicologia del lavoro;   
+organizzazione dei servizi di medicina ed igiene del lavoro;   
+prevenzione degli infortuni e delle malattie del lavoro.   
+e) Patologia, clinica e riabilitazione delle malattie da lavoro: medicina del lavoro;   
+dermatologia allergologica e professionale;   
+medicina d'urgenza;   
+chirurgia d'urgenza.   
+f) Epidemiologia occupazionale:   
+statistica medica e biometria;   
+epidemiologia delle malattie da lavoro.   
+g) Medicina legale e delle assicurazioni:   
+medicina legale e delle assicurazioni.   
+Art. 217. - L'attivita' didattica comprende ogni anno ottocento ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in un'attivita' didattica teorico-pratica comune per tutti gli studenti (quattrocento ore come di seguito ripartite) ed in un'attivita' didattica elettiva, prevalentemente di carattere tecnico-applicativo di ulteriori quattrocento ore rivolta all'approfondimento del curriculum corrispondente ad uno dei settori formativo-professionali (monte ore elettivo).   
+La frequenza nelle diverse aree avviene pertanto come di seguito specificato:   
+  
+1° Anno:   
+Igiene del lavoro (ore 175):   
+igiene del lavoro. . . . . . . . . . . . . . . . . . . . . . . ore 75 tecniche di laboratorio e monitoraggio ambientale . . . . . . ore 100 Fisiologia del lavoro ed ergonomia (ore 75):   
+fisiologia del lavoro ed ergonomia . . . . . . . . . . . . . . ore 75 Epidemiologia occupazionale (ore 50):   
+statistica medica e biometria. . . . . . . . . . . . . . . . . ore 50 Tossicologia professionale (ore 100):   
+patologia clinica e monitoraggio biologico. . . . . . . . . . ore 100 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 2° Anno:   
+Igiene del lavoro (ore 100):   
+igiene del lavoro . . . . . . . . . . . . . . . . . . . . . . ore 100 Fisiologia del lavoro ed ergonomia (ore 50):   
+fisiologia del lavoro ed ergonomia . . . . . . . . . . . . . . ore 50 Patologia, clinica e riabilitazione delle malattie da lavoro (ore 100):   
+medicina del lavoro . . . . . . . . . . . . . . . . . . . . . ore 100 Tossicologia professionale (ore 100):   
+tossicologia industriale. . . . . . . . . . . . . . . . . . . ore 100 Medicina preventiva dei lavoratori (ore 50):   
+psicologia del lavoro. . . . . . . . . . . . . . . . . . . . . ore 50 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 3° Anno:   
+Patologia, clinica e riabilitazione delle malattie da lavoro (ore 200):   
+medicina del lavoro . . . . . . . . . . . . . . . . . . . . . ore 150 dermatologia allergologica e professionale . . . . . . . . . . ore 50 Medicina preventiva dei lavoratori (ore 100):   
+prevenzione degli infortuni e delle malattie da lavoro. . . . ore 100 Epidemiologia occupazionale (ore 50):   
+epidemiologia delle malattie da lavoro . . . . . . . . . . . . ore 50 Tossicologia professionale (ore 50):   
+radiobiologia e radioprotezione. . . . . . . . . . . . . . . . ore 50 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 4° Anno:   
+Patologia, clinica e riabilitazione delle malattie da lavoro (ore 200):   
+medicina del lavoro . . . . . . . . . . . . . . . . . . . . . ore 120 medicina d'urgenza . . . . . . . . . . . . . . . . . . . . . . ore 40 chirurgia d'urgenza. . . . . . . . . . . . . . . . . . . . . . ore 40 Medicina legale e delle assicurazioni (ore 75):   
+medicina legale e delle assicurazioni. . . . . . . . . . . . . ore 75 Medicina preventiva dei lavoratori (ore 125):   
+prevenzione degli infortuni e delle malattie da lavoro. . . . ore 100 organizzazione dei servizi di medicina ed igiene del lavoro. . ore 25 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+  
+Art. 218. - Durante i quattro anni di corso e' richiesta la frequenza ai fini dell'apprendimento nei seguenti reparti:   
+reparti degenza, servizi ed ambulatori dell'istituto di medicina del lavoro;   
+centro rieducativo funzionale (C.R.F.): Colle della Maddalena.   
+La frequenza nelle varie aree per complessive ottocento ore annue, compreso il monte ore elettivo di quattrocento ore annue, avviene secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienza e di formazione professionale. Il consiglio della scuola ripartisce annualmente il monte ore elettivo.   
+Il consiglio della scuola predispone apposito libretto di formazione, che consenta allo specializzando ed al consiglio stesso il controllo dell'attivita' svolta e dell'acquisizione dei progressi compiuti.   
+  
+Scuola di specializzazione in anestesia e rianimazione   
+Art. 219. - E' istituita la scuola di specializzazione in anestesia e rianimazione presso l'Universita' degli studi di Torino.   
+La scuola ha lo scopo di insegnare e di approfondire gli studi nel settore dell'anestesiologia, della rianimazione, della terapia antalgica e della terapia iperbarica e di fornire le competenze professionali necessarie per il conseguimento del diploma che legittima l'assunzione della qualifica di specialista in anestesia e rianimazione.   
+La scuola rilascia i titoli di specialista in anestesia e rianimazione, indirizzo di terapia intensiva, indirizzo di terapia antalgica e indirizzo di terapia iperbarica.   
+Art. 220. - La scuola ha la durata di quattro anni.   
+Dopo gli anni comuni lo specializzando all'atto dell'iscrizione all'anno di corso nel quale dovra' essere frequentato uno degli indirizzi attivati, dovra' indicare l'indirizzo prescelto.   
+Ciascun anno di corso prevede ottocento ore di insegnamento e di attivita' pratiche guidate.   
+In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in venticinque per ciascun anno di corso, per un totale di cento specializzandi.   
+Art. 221. - Per l'attuazione delle attivita' didattiche programmate dal consiglio di scuola provvede la facolta' di medicina e chirurgia.   
+Art. 222. - Sono ammessi alle prove per ottenere l'iscrizione i laureati in medicina e chirurgia.   
+Per l'iscrizione alla scuola e' richiesto il possesso del diploma di abilitazione all'esercizio della professione.   
+Art. 223. - La scuola comprende dodici aree di insegnamento e tirocinio professionale:   
+a) discipline morfologiche e funzionali;   
+b) discipline farmaco-tossicologiche;   
+c) discipline fisico-matematiche;   
+d) elementi di chirurgia;   
+e) medicina legale;   
+f) fisiopatologia;   
+g) anestesia;   
+h) rianimazione;   
+i) terapia antalgica;   
+l) area di indirizzo in terapia intensiva;   
+m) area di indirizzo in terapia antalgica;   
+n) area di indirizzo in terapia iperbarica.   
+Art. 224. - Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:   
+a) Discipline morfologiche e funzionali:   
+anatomia;   
+fisiologia;   
+biochimica.   
+b) Discipline farmaco-tossicologiche:   
+farmacologia clinica applicata all'anestesia e rianimazione;   
+tossicologia clinica;   
+trattamento farmacologico del dolore (farmaci del dolore).   
+c) Discipline fisico-matematiche:   
+fisica;   
+biofisica;   
+informatica;   
+tecnologie biomediche.   
+d) Elementi di chirurgia:   
+tecniche chirurgiche di interesse anestesiologico;   
+correlazioni tra chirurgia e tecnica anestesiologica.   
+e) Medicina legale:   
+medicina legale;   
+etica e deontologia in anestesia e rianimazione;   
+elementi di medicina preventiva professionale.   
+f) Fisiopatologia:   
+fisiopatologia pre e post operatoria;   
+fisiopatologia della narcosi;   
+fisiopatologia respiratoria;   
+fisiopatologia cardiocircolatoria;   
+fisiopatologia metabolica;   
+fisiopatologia neurologica;   
+fisiopatologia del dolore;   
+fisiopatologia dell'iperbarismo.   
+g) Anestesia:   
+semeiologia di interesse anestesiologico;   
+anestesia generale;   
+anestesia loco-regionale;   
+anestesia nelle specialita';   
+tecniche speciali di anestesia.   
+h) Rianimazione:   
+semeiologia di interesse rianimatorio;   
+rianimazione respiratoria;   
+rianimazione cardio-circolatoria;   
+rianimazione neurologica;   
+rianimazione materno-fetale;   
+rianimazione metabolica;   
+medicina iperbarica e tecnologie dell'iperbarismo.   
+i) Terapia antalgica:   
+semeiologia del dolore;   
+terapia antalgica.   
+l) Terapia intensiva:   
+tecniche speciali di rianimazione;   
+tecniche protesiche extracorporee;   
+trapianti d'organo;   
+terapia intensiva nelle specialita';   
+nutrizione enterale e parenterale;   
+medicina delle catastrofi;   
+organizzazione dell'emergenza extraospedaliera;   
+tecniche di ricompressione e decompressione.   
+m) Terapia antalgica:   
+neuroanatomia;   
+neurofisiologia;   
+fisiopatologia del dolore;   
+neurofarmacologia e psicofarmacologia;   
+elementi di psicologia e psichiatria di interesse algologico; diagnostica e metodi di stima del dolore;   
+algologia clinica;   
+terapia del dolore;   
+tecniche neurochirurgiche;   
+tecniche di iper ed ipo stimolazione;   
+elementi di kinesiterapia e scienza del movimento.   
+n) Terapia iperbarica:   
+fisiopatologia applicata all'esposizione ed ambienti straordinari;   
+igiene applicata agli ambienti straordinari;   
+farmacologia applicata all'iperbarismo;   
+medicina e tecnologia iperbarica;   
+l'ossigenoterapia iperbarica e le sue applicazioni cliniche;   
+fisioterapia e rieducazione funzionale.   
+Art. 225. - L'attivita' didattica comprende ogni anno ottocento ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in una attivita' didattica teorico-pratica comune per tutti gli studenti (quattrocento ore come di seguito ripartite) ed in una attivita' didattica elettiva, prevalentemente di carattere tecnico-applicativo di ulteriori quattrocento ore rivolta all'apprendimento del curriculum corrispondente ad uno dei settori formativo-professionali (monte ore elettivo).   
+La frequenza nelle diverse aree avviene pertanto come di seguito specificato:   
+  
+1° Anno:   
+Discipline morfologiche e funzionali (ore 30):   
+anatomia . . . . . . . . . . . . . . . . . . . . . . . . . . . ore 10 fisiologia . . . . . . . . . . . . . . . . . . . . . . . . . . ore 10 biochimica . . . . . . . . . . . . . . . . . . . . . . . . . . ore 10 Discipline farmaco-tossicologiche (ore 15):   
+farmacologia applicata all'anestesia e rianimazione. . . . . . ore 15 Discipline fisico-matematiche (ore 20):   
+fisica . . . . . . . . . . . . . . . . . . . . . . . . . . . . ore 10 biofisica. . . . . . . . . . . . . . . . . . . . . . . . . . . ore 10 Elementi di chirurgia (ore 15):   
+tecniche chirurgiche di interesse anestesiologico. . . . . . . ore 15 Medicina legale (ore 20):   
+medicina legale. . . . . . . . . . . . . . . . . . . . . . . . ore 10 etica e deontologia in anestesia e rianimazione. . . . . . . . ore 10 Fisiopatologia (ore 60):   
+fisiopatologia pre e post operatoria . . . . . . . . . . . . . ore 20 fisiopatologia della narcosi . . . . . . . . . . . . . . . . . ore 20 fisiopatologia neurologica . . . . . . . . . . . . . . . . . . ore 20 Anestesia (ore 240):   
+semeiologia di interesse anestesiologico . . . . . . . . . . . ore 20 anestesia generale. . . . . . . . . . . . . . . . . . . . . . ore 140 anestesia loco-regionale . . . . . . . . . . . . . . . . . . . ore 80 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 2° Anno:   
+Discipline farmaco-tossicologiche (ore 20):   
+tossicologia clinica . . . . . . . . . . . . . . . . . . . . . ore 20 Discipline fisico-matematiche (ore 10):   
+tecnologie biomediche. . . . . . . . . . . . . . . . . . . . . ore 10 Elementi di chirurgia (ore 20):   
+correlazioni tra chirurgia e tecnica anestesiologica . . . . . ore 20 Fisiopatologia (ore 100):   
+fisiopatologia respiratoria. . . . . . . . . . . . . . . . . . ore 20 fisiopatologia cardiocircolatoria. . . . . . . . . . . . . . . ore 20 fisiopatologia metabolica. . . . . . . . . . . . . . . . . . . ore 20 fisiopatologia del dolore. . . . . . . . . . . . . . . . . . . ore 20 fisiopatologia dell'iperbarismo. . . . . . . . . . . . . . . . ore 20 Anestesia (ore 100):   
+anestesia generale . . . . . . . . . . . . . . . . . . . . . . ore 20 anestesia loco-regionale . . . . . . . . . . . . . . . . . . . ore 20 anestesia nelle specialita . . . . . . . . . . . . . . . . . . ore 60 Rianimazione (ore 100):   
+semeiologia di interesse rianimatorio. . . . . . . . . . . . . ore 20 rianimazione respiratoria. . . . . . . . . . . . . . . . . . . ore 40 rianimazione cardiocircolatoria. . . . . . . . . . . . . . . . ore 40 Terapia antalgica (ore 50):   
+semeiologia del dolore . . . . . . . . . . . . . . . . . . . . ore 10 terapia antalgica. . . . . . . . . . . . . . . . . . . . . . . ore 40 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 3° Anno:   
+Discipline farmaco-tossicologiche (ore 20):   
+trattamento farmacologico del dolore (farmaci del dolore). . . ore 20 Discipline fisico-matematiche (ore 20):   
+informatica. . . . . . . . . . . . . . . . . . . . . . . . . . ore 20 Medicina legale (ore 10):   
+elementi di medicina preventiva professionale. . . . . . . . . ore 10 Anestesia (ore 50):   
+anestesia nelle specialita . . . . . . . . . . . . . . . . . . ore 20 tecniche speciali di anestesia . . . . . . . . . . . . . . . . ore 30 Rianimazione (ore 200):   
+rianimazione neurologica . . . . . . . . . . . . . . . . . . . ore 50 rianimazione metabolica. . . . . . . . . . . . . . . . . . . . ore 50 rianimazione materno-fetale. . . . . . . . . . . . . . . . . . ore 40 medicina iperbarica e tecnologie dell'iperbarismo. . . . . . . ore 60 Terapia antalgica (ore 100):   
+semeiologia del dolore . . . . . . . . . . . . . . . . . . . . ore 20 terapia antalgica. . . . . . . . . . . . . . . . . . . . . . . ore 80 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 4° Anno:   
+Indirizzo in terapia intensiva (ore 400):   
+tecniche speciali di rianimazione. . . . . . . . . . . . . . . ore 75 tecniche protesiche extracorporee. . . . . . . . . . . . . . . ore 75 trapianti d'organo . . . . . . . . . . . . . . . . . . . . . . ore 50 terapia intensiva nelle specialita'. . . . . . . . . . . . . . ore 100 nutrizione enterale e parenterale. . . . . . . . . . . . . . . ore 50 medicina delle catastrofi. . . . . . . . . . . . . . . . . . . ore 25 organizzazione dell'emergenza extraospedaliera . . . . . . . . ore 25 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 Indirizzo in terapia antalgica (ore 400):   
+neuroanatomia. . . . . . . . . . . . . . . . . . . . . . . . . ore 25 neurofisiologia. . . . . . . . . . . . . . . . . . . . . . . . ore 25 fisiopatologia del dolore. . . . . . . . . . . . . . . . . . . ore 40 neurofarmacologia e psicofarmacologia. . . . . . . . . . . . . ore 50 elementi di psicologia e psichiatria di interesse algologico . ore 25 diagnostica e metodi di stima del dolore . . . . . . . . . . . ore 25 algologia clinica. . . . . . . . . . . . . . . . . . . . . . . ore 50 terapia del dolore. . . . . . . . . . . . . . . . . . . . . . ore 100 tecniche neurochirurgiche. . . . . . . . . . . . . . . . . . . ore 20 elementi di kinesiterapia e scienza del movimento. . . . . . . ore 20 tecniche di iper ed ipo stimolazione . . . . . . . . . . . . . ore 20 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 Indirizzo in terapia iperbarica (ore 400):   
+fisiopatologia applicata all'esposizione ad ambienti straordinari . .  
+. . . . . . . . . . . . . . . . . . . . . . . ore 25 igiene applicata agli ambienti straordinari. . . . . . . . . . ore 25 farmacologia applicata all'iperbarismo . . . . . . . . . . . . ore 25 medicina e tecnologia iperbarica. . . . . . . . . . . . . . . ore 150 l'ossigenoterapia iperbarica e le sue applicazioni cliniche . ore 150 fisioterapia e rieducazione funzionale . . . . . . . . . . . . ore 25 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+  
+Art. 226. - Durante i quattro anni di corso e' richiesta la frequenza ai fini dell'apprendimento nei seguenti reparti o servizi: sale operatorie di chirurgia generale e specialita' chirurgiche; sale di risveglio post-operatorie;   
+unita' di rianimazione;   
+reparti di terapia intensiva;   
+ambulatori di terapia antalgica e di anestesia;   
+laboratori di diagnostica invasiva e non invasiva;   
+unita' di terapia iperbarica;   
+ambulatori di controllo post-rianimazione.   
+La frequenza nelle varie aree per complessive ottocento ore annue, compreso il monte ore elettivo di quattrocento ore annue, avverra' secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienza e di formazione scientifica.   
+Il consiglio della scuola ripartira' annualmente il monte ore elettivo.   
+Il consiglio della scuola predispone apposito libretto di formazione che consenta allo specializzando ed al consiglio stesso il controllo dell'attivita' svolta e dell'acquisizione dei progressi compiuti.   
+  
+Scuola di specializzazione in odontostomatologia   
+Art. 227. - E' istituita la scuola di specializzazione in odontostomatologia presso l'Universita' degli studi di Torino.   
+La scuola rilascia il titolo di specialista in odontostomatologia.   
+Art. 228. - La scuola ha la durata di tre anni.   
+Ciascun anno di corso prevede ottocento ore di insegnamento e di attivita' pratiche guidate.   
+In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in venticinque per ciascun anno di corso, per un totale di settantacinque specializzandi.   
+Art. 229. - Per l'attuazione delle attivita' didattiche programmate dal consiglio della scuola provvede la facolta' di medicina e chirurgia.   
+Art. 230. - Sono ammessi alle prove per ottenere l'iscrizione alla scuola i laureati in medicina e chirurgia.   
+Per l'iscrizione alla scuola e' richiesto il possesso del diploma di abilitazione all'esercizio della professione.   
+Art. 231. - La scuola comprende quattro aree di insegnamento e tirocinio professionale:   
+a) area medica;   
+b) area chirurgica;   
+c) area stomatologica;   
+d) area specialistica odontoiatrica.   
+Art. 232. - Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:   
+1) Area medica:   
+farmacologia;   
+anestesiologia e rianimazione;   
+dermatologia;   
+medicina legale;   
+embriologia (dento-maxillo-facciale).   
+2) Area chirurgica:   
+chirurgia odontostomatologica e tecniche di anestesia locale; clinica chirurgica maxillo-facciale e tecniche operative.   
+3) Area stomatologica:   
+odontostomatologia preventiva;   
+patologia oro-maxillo-facciale;   
+radiologia odontostomatologica;   
+parodontologia;   
+clinica odontostomatologica.   
+4) Area specialistica odontoiatrica:   
+materiali dentali;   
+odontotecnica;   
+odontoiatria infantile;   
+endodonzia;   
+clinica protesica;   
+ortognatodonzia;   
+odontoiatria conservativa.   
+Art. 233. - L'attivita' didattica comprende ogni anno ottocento ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in una attivita' didattica teorico-pratica comune per tutti gli studenti (quattrocento ore come di seguito ripartite) ed in una attivita' didattica elettiva, prevalentemente di carattere tecnico-applicativo, di ulteriori quattrocento ore rivolta all'apprendimento del curriculum corrispondente ad uno dei settori formativo-professionali (monte ore elettivo).   
+La frequenza nelle diverse aree avviene pertanto come di seguito specificato:   
+  
+1° Anno:   
+Area medica (ore 70):   
+farmacologia . . . . . . . . . . . . . . . . . . . . . . . . . ore 20 anestesiologia e rianimazione. . . . . . . . . . . . . . . . . ore 20 dermatologia . . . . . . . . . . . . . . . . . . . . . . . . . ore 10 embriologia. . . . . . . . . . . . . . . . . . . . . . . . . . ore 20 Area chirurgica (ore 50):   
+chirurgia odontostomatologica e tecniche di anestesia locale . ore 50 Area stomatologica (ore 80):   
+patologia oro-maxillo-facciale . . . . . . . . . . . . . . . . ore 50 clinica odontostomatologica. . . . . . . . . . . . . . . . . . ore 30 Area specialistica odontoiatrica (ore 200):   
+materiali dentali. . . . . . . . . . . . . . . . . . . . . . . ore 50 odontotecnica. . . . . . . . . . . . . . . . . . . . . . . . . ore 50 odontoiatria conservativa . . . . . . . . . . . . . . . . . . ore 100 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 2° Anno:   
+Area chirurgica (ore 50):   
+chirurgia odontostomatologica e tecniche di anestesia locale . ore 50 Area stomatologica (ore 100):   
+odontostomatologia preventiva. . . . . . . . . . . . . . . . . ore 20 radiologia odontostomatologica . . . . . . . . . . . . . . . . ore 30 parodontologia . . . . . . . . . . . . . . . . . . . . . . . . ore 50 Area specialistica odontoiatrica (ore 250):   
+odontoiatria infantile . . . . . . . . . . . . . . . . . . . . ore 50 clinica protesica. . . . . . . . . . . . . . . . . . . . . . . ore 70 ortognatodonzia. . . . . . . . . . . . . . . . . . . . . . . . ore 50 odontoiatria conservativa. . . . . . . . . . . . . . . . . . . ore 80 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 3° Anno:   
+Area medica (ore 20):   
+medicina legale. . . . . . . . . . . . . . . . . . . . . . . . ore 20 Area chirurgica (ore 30):   
+clinica chirurgica maxillo-facciale e tecniche operative . . . ore 30 Area stomatologica (ore 100):   
+parodontologia . . . . . . . . . . . . . . . . . . . . . . . . ore 30 clinica odontostomatologica. . . . . . . . . . . . . . . . . . ore 70 Area specialistica odontoiatrica (ore 250):   
+endodonzia . . . . . . . . . . . . . . . . . . . . . . . . . . ore 50 clinica protesica . . . . . . . . . . . . . . . . . . . . . . ore 100 ortognatodonzia . . . . . . . . . . . . . . . . . . . . . . . ore 100 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+  
+Durante i tre anni di corso e' richiesta la frequenza nei seguenti reparti:   
+odontoiatria conservativa, odontoiatria infantile, endodonzia, protesi, ortognatodonzia, parodontologia, chirurgia orale, estrazioni, degenza, radiologia odontostomatologica.   
+La frequenza nelle varie aree per complessive ottocento ore annue, compreso il monte ore elettivo di quattrocento ore annue, avverra' secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienze e di formazione scientifica.   
+Il consiglio della scuola predispone apposito libretto di formazione, che consenta allo specializzando ed al consiglio stesso il controllo dell'attivita' svolta e dell'acquisizione dei progressi compiuti.   
+  
+Scuola di specializzazione in urologia   
+Art. 234. - E' istituita la scuola di specializzazione in urologia presso l'Universita' degli studi di Torino.   
+La scuola ha lo scopo di fornire le competenze professionali in campo urologico e di chirurgia urologica.   
+La scuola rilascia il titolo di specialista in urologia.   
+Art. 235. - La scuola ha la durata di cinque anni.   
+Ciascun anno di corso prevede ottocento ore di insegnamento e di attivita' pratiche guidate.   
+In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in otto per ciascun anno di corso, per un totale di quaranta specializzandi.   
+Art. 236. - Per l'attuazione delle attivita' didattiche programmate dal consiglio della scuola provvede la facolta' di medicina e chirurgia.   
+Art. 237. - Sono ammessi alle prove per ottenere l'iscrizione i laureati in medicina e chirurgia.   
+Per l'iscrizione alla scuola e' richiesto il possesso del diploma di abilitazione all'esercizio della professione.   
+Art. 238. - La scuola comprende sei aree di insegnamento e tirocinio professionale:   
+a) morfologica;   
+b) fisiopatologica e farmacologica;   
+c) clinica;   
+d) diagnostica;   
+e) procedimenti chirurgici sull'apparato urinario e genitale maschile;   
+f) specialita' affini.   
+Art. 239. - Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:   
+a) Morfologica:   
+anatomia sistematica e topografica dell'apparato urinario e genitale maschile;   
+istologia ed embriologia dell'apparato urinario genitale maschile;   
+anatomia chirurgica dell'apparato urinario e genitale maschile.   
+b) Fisiopatologica e farmacologica:   
+fisiologia dell'apparato urinario e genitale maschile;   
+farmacoterapia delle affezioni urogenitali;   
+anestesia e trattamento pre e post-operatorio del malato urologico;   
+patologia dell'apparato urinario e genitale maschile.   
+c) Clinica:   
+clinica urologica;   
+andrologia;   
+oncologia clinica (terapie integrate nelle neoplasie dell'apparato urinario e genitale maschile);   
+nefrologia chirurgica;   
+patologia e clinica urologica infantile;   
+urologia ginecologica;   
+neuro-urologia e urodinamica.   
+d) Diagnostica:   
+semeiotica funzionale e strumentale dell'apparato urinario e genitale maschile;   
+diagnostica per immagini dell'apparato urinario e genitale maschile;   
+microbiologia e microbiologia clinica;   
+anatomia e istologia patologica dell'apparato urinario e genitale maschile.   
+e) Procedimenti chirurgici sull'apparato urinario e genitale maschile:   
+procedimenti di chirurgia endoscopica;   
+interventi e procedimenti chirurgici sull'apparato urinario e genitale maschile.   
+f) Specialita' affini:   
+dermatologia e venerologia;   
+chirurgia dell'intestino;   
+chirurgia vascolare;   
+nefropatie mediche.   
+Art. 240. - L'attivita' didattica comprende ogni anno ottocento ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in una attivita' didattica teorico-pratica comune per tutti gli studenti (quattrocento ore come di seguito ripartite) ed in una attivita' didattica elettiva, prevalentemente di carattere tecnico applicativo di ulteriori quattrocento ore, rivolta all'approfondimento del curriculum corrispondente ad uno dei settori formativo-professionali (monte ore elettivo).   
+La frequenza nelle diverse aree avviene pertanto come di seguito specificato:   
+  
+1° Anno:   
+Morfologica (ore 50):   
+anatomia sistematica e topografica dell'apparato urinario e genitale maschile . . . . . . . . . . . . . . . . . . . . . . . . . . . ore 25 istologia ed embriologia dell'apparato urinario e genitale maschile .  
+. . . . . . . . . . . . . . . . . . . . . . . . . . ore 25 Fisiopatologica e farmacologica (ore 25):   
+fisiologia dell'apparato urinario e genitale maschile. . . . . ore 25 Diagnostica (ore 325):   
+semeiotica funzionale e strumentale dell'apparato urinario e genitale maschile. . . . . . . . . . . . . . . . . . . . . . . . . . . ore 300 microbiologia e microbiologia clinica. . . . . . . . . . . . . ore 25 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 2° Anno:   
+Morfologica (ore 50):   
+anatomia chirurgica dell'apparato urinario e genitale maschile. ore 50   
+Diagnostica (ore 150):   
+semeiotica funzionale e strumentale dell'apparato urinario e genitale maschile. . . . . . . . . . . . . . . . . . . . . . . . . . . ore 100 diagnostica per immagini dell'apparato urinario e genitale maschile .  
+. . . . . . . . . . . . . . . . . . . . . . . . . . ore 50 Specialita' affini (ore 50):   
+nefropatie mediche . . . . . . . . . . . . . . . . . . . . . . ore 50 Fisiopatologica e farmacologica (ore 150):   
+patologia dell'apparato urinario e genitale maschile. . . . . ore 150 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 3° Anno:   
+Fisiopatologica e farmacologica (ore 300):   
+patologia dell'apparato urinario e genitale maschile. . . . . ore 250 farmacoterapia delle affezioni urogenitali . . . . . . . . . . ore 25 anestesia e trattamento pre e postoperatorio del malato urologico. .  
+. . . . . . . . . . . . . . . . . . . . . . . . . ore 25 Diagnostica (ore 50):   
+diagnostica per immagini dell'apparato urinario genitale maschile . .  
+. . . . . . . . . . . . . . . . . . . . . . . . . ore 50 Clinica (ore 25):   
+andrologia . . . . . . . . . . . . . . . . . . . . . . . . . . ore 25 Specialita' affini (ore 25):   
+dermatologia e venerologia . . . . . . . . . . . . . . . . . . ore 25 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 4° Anno:   
+Diagnostica (ore 75):   
+anatomia e istologia patologica dell'apparato urinario e genitale maschile . . . . . . . . . . . . . . . . . . . . . . . . . . . ore 75 Procedimenti chirurgici sull'apparato urinario e genitale maschile (ore 100):   
+procedimenti di chirurgia endoscopica. . . . . . . . . . . . . ore 50 interventi e procedimenti chirurgici sull'apparato urinario e genitale maschile. . . . . . . . . . . . . . . . . . . . . . . ore 50 Clinica (ore 225):   
+clinica urologica . . . . . . . . . . . . . . . . . . . . . . ore 125 nefrologia chirurgica. . . . . . . . . . . . . . . . . . . . . ore 25 urologia ginecologica. . . . . . . . . . . . . . . . . . . . . ore 25 Neuro-urologia e urodinamica (ore 25):   
+oncologia clinica. . . . . . . . . . . . . . . . . . . . . . . ore 25 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 5° Anno:   
+Clinica (ore 250):   
+clinica urologica . . . . . . . . . . . . . . . . . . . . . . ore 200 patologia e clinica urologica infantile. . . . . . . . . . . . ore 50 Procedimenti chirurgici sull'apparato urinario e genitale maschile (ore 100):   
+procedimenti di chirurgia endoscopica. . . . . . . . . . . . . ore 50 interventi e procedimenti chirurgici sull'apparato urinario e genitale maschile. . . . . . . . . . . . . . . . . . . . . . . ore 50 Specialita' affini (ore 50):   
+chirurgia dell'intestino . . . . . . . . . . . . . . . . . . . ore 25 chirurgia vascolare. . . . . . . . . . . . . . . . . . . . . . ore 25 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+  
+Art. 241. - Durante i cinque anni di corso e' richiesta la frequenza nei seguenti reparti/divisioni ambulatori/laboratori:   
+Clinica urologica Universita':   
+reparto degenza;   
+ambulatori: urologico generale, oncologico, andrologico, neuro-urologico, centro litiasici;   
+laboratori: andrologico, urodinamico, centro litiasici;   
+servizio universitario di patologia neuro-urologico e Day-Hospital nefrourologico.   
+Divisione urologica ospedaliera:   
+servizio Day-Hospital urologico;   
+servizio diagnostico radiologico per esami urologici.   
+La frequenza nelle varie aree per complessive ottocento ore annue, compreso il monte ore elettivo di quattrocento ore annue, avverra' secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienza e di formazione professionale. Il consiglio della scuola ripartira' annualmente il monte ore elettivo.   
+Il consiglio della scuola predispone apposito libretto di formazione, che consenta allo specializzando ed al consiglio stesso il controllo dell'attivita' svolta e dell'acquisizione dei progressi compiuti, per sostenere gli esami annuali e finali.   
+  
+Scuola di specializzazione in medicina interna   
+Art. 242. - E' istituita la scuola di specializzazione in medicina interna presso l'universita' degli studi di Torino.   
+La scuola ha lo scopo di fornire agli specializzandi le conoscenze propedeutiche necessarie per l'approfondimento delle varie branche della medicina generale nonche' le conoscenze relative all'inquadramento complessivo della patologia di base e alla pratica medica di medicina generale compresa quella d'urgenza.   
+Attese le diverse professionalita' conseguibili al termine della scuola stessa, tutte nell'ambito della medicina interna, la scuola si articola negli indirizzi di medicina interna e di medicina d'urgenza.   
+La scuola rilascia i titoli di specialista in medicina interna indirizzo di medicina interna, indirizzo di medicina d'urgenza.   
+Art. 243. - La scuola ha la durata di cinque anni.   
+Dopo gli anni comuni lo specializzando all'atto dell'iscrizione all'anno di corso nel quale dovra' essere frequentato uno degli indirizzi attuati dovra' indicare l'indirizzo prescelto.   
+Ciascun anno di corso prevede ottocento ore di insegnamento e di attivita' pratiche guidate.   
+In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in quindici per ciascun anno di corso per un totale di settantacinque specializzandi.   
+Art. 244. - Per l'attuazione delle attivita' didattiche programmate dal consiglio della scuola provvede la facolta' di medicina e chirurgia.   
+Art. 245. - Sono ammessi alle prove per ottenere l'iscrizione i laureati in medicina e chirurgia. Per l'iscrizione alla scuola e' richiesto il possesso del diploma di abilitazione all'esercizio della professione.   
+Art. 246. - La scuola comprende quattro aree di insegnamento e tirocinio professionale per l'indirizzo di medicina interna e ulteriori due aree per l'indirizzo di medicina d'urgenza:   
+a) propedeutica clinica;   
+b) metodologia clinica;   
+c) patologia sistematica;   
+d) clinica e terapia;   
+e) medicina d'urgenza (indirizzo medicina d'urgenza);   
+f) traumatologia (indirizzo medicina d'urgenza).   
+Art. 247. - Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:   
+a) Propedeutica clinica:   
+epidemiologia e statistica medica;   
+farmacologia;   
+microbiologia;   
+patologia molecolare;   
+anatomia e istologia patologica;   
+patologia clinica.   
+b) Metodologia clinica:   
+metodologia clinica.   
+c) Patologia sistematica:   
+malattie infettive;   
+ematologia;   
+allergologia e immunologia clinica;   
+reumatologia;   
+cardiologia;   
+fisiopatologia respiratoria;   
+nefrologia;   
+gastroenterologia;   
+endocrinologia;   
+malattie del ricambio;   
+neurologia;   
+medicina psicosomatica e psichiatrica.   
+d) Clinica e terapia:   
+farmacologia clinica e terapia medica;   
+clinica medica (discussione casi clinici) e terapia medica.   
+e) Medicina d'urgenza:   
+fisiopatologia dell'insufficienza acuta (di organi ed apparati);   
+medicina d'urgenza;   
+elementi di medicina legale e di organizzazione sanitaria;   
+tecniche di rianimazione.   
+f) Traumatologia:   
+elementi di traumatologia;   
+emergenze in traumatologia.   
+Art. 248. - L'attivita' didattica comprende ogni anno ottocento ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in una attivita' didattica teorico-pratica comune per tutti gli studenti (quattrocento ore come di seguito ripartite) ed in una attivita' didattica elettiva, prevalentemente di carattere tecnico-applicativo di ulteriori quattrocento ore rivolta all'apprendimento del curriculum corrispondente ad uno dei settori formativo-professionali (monte ore elettivo).   
+La frequenza nelle diverse aree avviene pertanto come di seguito specificato:   
+  
+1° Anno:   
+Propedeutica clinica (ore 200):   
+epidemiologia e statistica medica. . . . . . . . . . . . . . . ore 30 microbiologia. . . . . . . . . . . . . . . . . . . . . . . . . ore 40 patologia molecolare . . . . . . . . . . . . . . . . . . . . . ore 40 anatomia e istologia patologica. . . . . . . . . . . . . . . . ore 50 patologia clinica. . . . . . . . . . . . . . . . . . . . . . . ore 40 Metodologia clinica (ore 100):   
+metodologia clinica . . . . . . . . . . . . . . . . . . . . . ore 100 Clinica e terapia (ore 100):   
+clinica medica. . . . . . . . . . . . . . . . . . . . . . . . ore 100 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 2° Anno:   
+Propedeutica clinica (ore 30):   
+farmacologia . . . . . . . . . . . . . . . . . . . . . . . . . ore 30 Metodologia clinica (ore 50):   
+metodologia clinica. . . . . . . . . . . . . . . . . . . . . . ore 50 Patologia sistematica (ore 270):   
+malattie infettive . . . . . . . . . . . . . . . . . . . . . . ore 50 ematologia . . . . . . . . . . . . . . . . . . . . . . . . . . ore 40 allergologia e immunologia clinica . . . . . . . . . . . . . . ore 30 reumatologia . . . . . . . . . . . . . . . . . . . . . . . . . ore 20 gastroenterologia. . . . . . . . . . . . . . . . . . . . . . . ore 40 endocrinologia . . . . . . . . . . . . . . . . . . . . . . . . ore 40 malattie del ricambio. . . . . . . . . . . . . . . . . . . . . ore 30 cardiologia. . . . . . . . . . . . . . . . . . . . . . . . . . ore 40 Clinica e terapia (ore 50):   
+clinica medica . . . . . . . . . . . . . . . . . . . . . . . . ore 50 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 3° Anno:   
+Propedeutica clinica (ore 30):   
+farmacologia . . . . . . . . . . . . . . . . . . . . . . . . . ore 30 Patologia sistematica (ore 210):   
+cardiologia. . . . . . . . . . . . . . . . . . . . . . . . . . ore 40 fisiopatologia respiratoria. . . . . . . . . . . . . . . . . . ore 40 nefrologia . . . . . . . . . . . . . . . . . . . . . . . . . . ore 50 neurologia . . . . . . . . . . . . . . . . . . . . . . . . . . ore 50 medicina psicosomatica e psichiatria . . . . . . . . . . . . . ore 30 Clinica e terapia (ore 160):   
+clinica medica . . . . . . . . . . . . . . . . . . . . . . . . ore 90 terapia medica . . . . . . . . . . . . . . . . . . . . . . . . ore 70 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 4° Anno (indirizzo medicina interna):   
+Metodologia clinica (ore 100):   
+metodologia clinica . . . . . . . . . . . . . . . . . . . . . ore 100 Clinica e terapia (ore 300):   
+clinica medica. . . . . . . . . . . . . . . . . . . . . . . . ore 250 terapia medica . . . . . . . . . . . . . . . . . . . . . . . . ore 50 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 5° Anno (indirizzo medicina interna):   
+Metodologia clinica (ore 100):   
+metodologia clinica . . . . . . . . . . . . . . . . . . . . . ore 100 Clinica e terapia (ore 300):   
+clinica medica. . . . . . . . . . . . . . . . . . . . . . . . ore 250 terapia medica . . . . . . . . . . . . . . . . . . . . . . . . ore 50 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 4° Anno (indirizzo medicina d'urgenza):   
+Metodologia clinica (ore 50):   
+metodologia clinica. . . . . . . . . . . . . . . . . . . . . . ore 50 Clinica e terapia (ore 150):   
+clinica medica. . . . . . . . . . . . . . . . . . . . . . . . ore 100 terapia medica . . . . . . . . . . . . . . . . . . . . . . . . ore 50 Medicina d'urgenza (ore 200):   
+medicina d'urgenza. . . . . . . . . . . . . . . . . . . . . . ore 100 fisiopatologia dell'insufficienza acuta . . . . . . . . . . . ore 100 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 5° Anno (indirizzo medicina d'urgenza):   
+Metodologia clinica (ore 40):   
+metodologia clinica. . . . . . . . . . . . . . . . . . . . . . ore 40 Clinica e terapia (ore 80):   
+clinica medica . . . . . . . . . . . . . . . . . . . . . . . . ore 60 terapia medica . . . . . . . . . . . . . . . . . . . . . . . . ore 20 Medicina d'urgenza (ore 180):   
+medicina d'urgenza. . . . . . . . . . . . . . . . . . . . . . ore 100 tecniche di rianimazione . . . . . . . . . . . . . . . . . . . ore 50 elementi di medicina legale e organizzazione sanitaria . . . . ore 30 Traumatologia (ore 100):   
+elementi di traumatologia. . . . . . . . . . . . . . . . . . . ore 50 emergenze in traumatologia . . . . . . . . . . . . . . . . . . ore 50 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+  
+Art. 249. - Il consiglio della scuola predispone apposito libretto di formazione che consenta allo specializzando ed al consiglio stesso il controllo dell'attivita' svolta e dell'acquisizione dei progressi compiuti.   
+Durante i cinque anni di corso e' richiesta la frequenza nei seguenti reparti o servizi:   
+laboratorio (chimica, immunologia, batteriologia, sierologia, virologia);   
+ecocardiografia, elettrocardiografia, medicina nucleare, ecografia, radiologia;   
+corsia di medicina interna.   
+La frequenza nelle varie aree per complessive ottocento ore annue, compreso il monte ore elettivo di quattrocento ore annue, avverra' secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienza e di formazione scientifica. Il consiglio della scuola ripartira' annualmente il monte ore elettivo.   
+  
+Scuola di specializzazione in endocrinologia e malattie del   
+ricambio   
+Art. 250. - E' istituita la scuola di specializzazione in endocrinologia e malattie del ricambio presso l'Universita' degli studi di Torino.   
+La scuola ha per scopo l'acquisizione della preparazione professionale in ambito endocrinologico e metabolico.   
+Attese le diverse professionalita' conseguibili al termine della scuola stessa, tutte nell'ambito dell'endocrinologia, la scuola si articola negli indirizzi di endocrinologia, malattie del ricambio e diabetologia, andrologia.   
+La scuola rilascia i titoli di specialista in endocrinologia e malattie del ricambio, indirizzo endocrinologia, indirizzo malattie del ricambio e diabetologia e indirizzo andrologia.   
+Art. 251. - La scuola ha la durata di 5 anni.   
+Dopo gli anni comuni lo specializzando all'atto dell'iscrizione all'anno di corso nel quale dovra' essere frequentato uno degli indirizzi attivati dovra' indicare l'indirizzo prescelto.   
+Ciascun anno di corso prevede ottocento ore di insegnamento e di attivita' pratiche guidate.   
+In base alla struttura ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in venti per ciascun anno di corso, per un totale di cento specializzandi.   
+Art. 252. - Per l'attuazione delle attivita' didattiche programmate dal consiglio della scuola provvede la facolta' di medicina e chirurgia dell'Universita' di Torino, utilizzando le strutture dei seguenti istituti:   
+istituto di medicina interna;   
+istituto di anatomia umana normale;   
+istituto di istologia ed embriologia generale;   
+istituto di genetica medica;   
+istituto di clinica ginecologica ed ostetrica.   
+Art. 253. - Sono ammessi alle prove per ottenere l'iscrizione alla scuola i laureati in medicina e chirurgia.   
+Per l'iscrizione alla scuola e' richiesto il possesso del diploma di abilitazione all'esercizio della professione.   
+Art. 254. - La scuola di specializzazione in endocrinologia comprende otto aree di insegnamento e tirocinio professionale:   
+a) fisiologia endocrina generale;   
+b) fisiopatologia metabolica generale;   
+c) endocrinologia;   
+d) malattie del ricambio e diabetologia;   
+e) andrologia;   
+f) epidemiologia e statistica;   
+g) patologia molecolare;   
+h) medicina interna;   
+i) metodologia clinica.   
+Art. 255. - Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:   
+a) Fisiopatologia endocrina generale:   
+fisiopatologia endocrina generale.   
+b) Fisiopatologia metabolica generale:   
+fisiopatologia metabolica generale.   
+c) Endocrinologia:   
+patologia e clinica delle endocrinopatie;   
+immunoendocrinologia;   
+endocrinologia oncologica;   
+endocrinologia ginecologica;   
+endocrinologia dell'eta' evolutiva;   
+endocrinologia geriatrica;   
+cronoendocrinologia.   
+d) Malattie del ricambio e diabetologia:   
+patologia e clinica delle malattie del ricambio;   
+diabetologia;   
+dietologia e nutrizione;   
+epidemiologia della patologia metabolica;   
+malattie metaboliche nella gravidanza e nell'eta' evolutiva;   
+aspetti legali e medico-sociali delle malattie metaboliche e del diabete.   
+e) Andrologia:   
+andrologia dell'eta' evolutiva;   
+fisiopatologia e clinica della riproduzione;   
+sessuologia;   
+andrologia della senescenza;   
+urologia andrologica;   
+spermatologia;   
+immunologia andrologica.   
+f) Epidemiologia e statistica:   
+statistica medica;   
+principi di informatica;   
+epidemiologia delle malattie endocrine e metaboliche;   
+progettazione ricerche cliniche;   
+inglese scientifico.   
+g) Patologia molecolare:   
+meccanismo d'azione degli ormoni;   
+patologia recettoriale;   
+patologia della trasduzione del messaggio;   
+patologia genetica e molecolare del metabolismo.   
+h) Medicina interna:   
+medicina interna (per la patologia correlazionistica e intersistemica).   
+i) Metodologia clinica e di laboratorio:   
+metodologia clinica;   
+patologia clinica.   
+Art. 256. - L'attivita' didattica comprende ogni anno ottocento ore di didattica formale e di tirocinio professionale. Essa e' organizzata in una attivita' didattica teorico-pratica comune per tutti gli studenti (quattrocento ore come di seguito ripartite) ed in una attivita' didattica elettiva, prevalentemente di carattere tecnico-applicativo di ulteriori quattrocento ore rivolta all'apprendimento del curriculum corrispondente ad uno dei settori formativo - professionali (monte ore elettivo). Gli indirizzi sono attivati presso gli istituti di pertinenza.   
+Il curriculum viene approvato dal consiglio della scuola su istanza dello studente.   
+Per quanto attiene l'area elettiva il tirocinio applicativo sara' svolto come appresso indicato:   
+a) indirizzo in endocrinologia: il tirocinio sara' svolto nell'ambito dell'area "endocrinologia";   
+b) indirizzo in malattie del ricambio e diabetologia:   
+il tirocinio sara' svolto nell'ambito dell'area "malattie del ricambio e diabetologia";   
+c) indirizzo in andrologia: il tirocinio sara' svolto nell'ambito dell'area "andrologia" di cui alla lettera e) dell'art. 254.   
+La frequenza nelle diverse aree avviene pertanto come di seguito specificato, relativamente al primo biennio comune ed ai diversi indirizzi nel triennio seguente:   
+  
+1° Anno:   
+Patologia molecolare (ore 90):   
+meccanismo d'azione degli ormoni . . . . . . . . . . . . . . . ore 40 patologia recettoriale . . . . . . . . . . . . . . . . . . . . ore 30 patologia della traduzione del messaggio . . . . . . . . . . . ore 20 Fisiopatologia endocrina generale (ore 85):   
+fisiopatologia endocrina . . . . . . . . . . . . . . . . . . . ore 85 Fisiopatologia metabolica generale (ore 85):   
+fisiopatologia metabolica generale . . . . . . . . . . . . . . ore 85 Epidemiologia statistica (principi di informatica) (ore 60):   
+principi di informatica. . . . . . . . . . . . . . . . . . . . ore 30 inglese scientifico. . . . . . . . . . . . . . . . . . . . . . ore 30 Metodologia clinica e di laboratorio (ore 80):   
+metodologia clinica. . . . . . . . . . . . . . . . . . . . . . ore 40 patologia clinica. . . . . . . . . . . . . . . . . . . . . . . ore 40 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 2° Anno:   
+Medicina interna (ore 30):   
+medicina interna . . . . . . . . . . . . . . . . . . . . . . . ore 30 Patologia molecolare (ore 30):   
+patologia genetica e molecolare del metabolismo. . . . . . . . ore 30 Fisiopatologia endocrina generale (ore 100):   
+fisiopatologia endocrina generale . . . . . . . . . . . . . . ore 100 Fisiopatologia metabolica generale (ore 100):   
+fisiopatologia metabolica generale. . . . . . . . . . . . . . ore 100 Epidemiologia e statistica (ore 40):   
+statistica medica. . . . . . . . . . . . . . . . . . . . . . . ore 25 progettazione ricerche cliniche. . . . . . . . . . . . . . . . ore 15 Metodologia clinica e di laboratorio (ore 100):   
+metodologia clinica. . . . . . . . . . . . . . . . . . . . . . ore 40 patologia clinica. . . . . . . . . . . . . . . . . . . . . . . ore 60 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 3° Anno (indirizzo di endocrinologia):   
+Endocrinologia (ore 250):   
+patologia clinica delle endocrinopatie. . . . . . . . . . . . ore 200 immunoendocrinologia . . . . . . . . . . . . . . . . . . . . . ore 50 Malattie del ricambio (ore 80):   
+patologia clinica delle malattie del ricambio. . . . . . . . . ore 60 epidemiologia della patologia metabolica . . . . . . . . . . . ore 20 Andrologia (ore 30):   
+fisiopatologia della riproduzione. . . . . . . . . . . . . . . ore 20 urologia andrologica . . . . . . . . . . . . . . . . . . . . . ore 10 Medicina interna (ore 40):   
+medicina interna . . . . . . . . . . . . . . . . . . . . . . . ore 40 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 4° Anno (indirizzo di endocrinologia):   
+Endocrinologia (ore 250):   
+patologia clinica delle endocrinopatie. . . . . . . . . . . . ore 170 endocrinologia oncologica. . . . . . . . . . . . . . . . . . . ore 30 endocrinologia dell'eta' evolutiva . . . . . . . . . . . . . . ore 50 Malattie del ricambio (ore 80):   
+patologia e clinica delle malattie del ricambio. . . . . . . . ore 20 diabetologia . . . . . . . . . . . . . . . . . . . . . . . . . ore 60 Andrologia (ore 30):   
+andrologia dell'eta' evolutiva . . . . . . . . . . . . . . . . ore 20 sessuologia. . . . . . . . . . . . . . . . . . . . . . . . . . ore 10 Medicina interna (ore 40):   
+medicina interna . . . . . . . . . . . . . . . . . . . . . . . ore 40 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 5° Anno (indirizzo di endocrinologia):   
+Endocrinologia (ore 250):   
+patologia e clinica delle endocrinopatie. . . . . . . . . . . ore 130 endocrinologia ginecologica. . . . . . . . . . . . . . . . . . ore 50 endocrinologia geriatrica. . . . . . . . . . . . . . . . . . . ore 40 cronoendocrinologia. . . . . . . . . . . . . . . . . . . . . . ore 30 Malattie del ricambio (ore 80):   
+patologia e clinica delle malattie del ricambio. . . . . . . . ore 20 dietologia e nutrizione. . . . . . . . . . . . . . . . . . . . ore 30 malattie metaboliche nella gravidanza e nell'eta' evolutiva. . ore 20 aspetti legali e medico-sociali delle malattie metaboliche e del diabete. . . . . . . . . . . . . . . . . . . . . . . . . . . . ore 10 Andrologia (ore 30):   
+andrologia della senescenza. . . . . . . . . . . . . . . . . . ore 20 urologia andrologica . . . . . . . . . . . . . . . . . . . . . ore 10 Medicina interna (ore 40):   
+medicina interna . . . . . . . . . . . . . . . . . . . . . . . ore 40 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 3° Anno (indirizzo di malattie del ricambio e diabetologia):   
+Endocrinologia (ore 80):   
+patologia e clinica delle endocrinopatie . . . . . . . . . . . ore 60 immunoendocrinologia . . . . . . . . . . . . . . . . . . . . . ore 20 Malattie del ricambio e diabetologia (ore 250):   
+patologia e clinica delle malattie del ricambio . . . . . . . ore 150 diabetologia. . . . . . . . . . . . . . . . . . . . . . . . . ore 100 Andrologia (ore 30):   
+fisiopatologia della riproduzione. . . . . . . . . . . . . . . ore 20 urologia andrologica . . . . . . . . . . . . . . . . . . . . . ore 10 Medicina interna (ore 40):   
+medicina interna . . . . . . . . . . . . . . . . . . . . . . . ore 40 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 4° Anno (indirizzo di malattie del ricambio e diabetologia):   
+Endocrinologia (ore 80):   
+patologia e clinica delle endocrinopatie . . . . . . . . . . . ore 20 endocrinologia oncologica. . . . . . . . . . . . . . . . . . . ore 20 endocrinologia ginecologica. . . . . . . . . . . . . . . . . . ore 20 cronoendocrinologia. . . . . . . . . . . . . . . . . . . . . . ore 20 Malattie del ricambio e diabetologia (ore 250):   
+patologia e clinica delle malattie del ricambio. . . . . . . . ore 50 diabetologia. . . . . . . . . . . . . . . . . . . . . . . . . ore 100 dietologia e nutrizione. . . . . . . . . . . . . . . . . . . . ore 50 epidemiologia della patologia metabolica . . . . . . . . . . . ore 50 Andrologia (ore 30):   
+andrologia dell'eta' evolutiva . . . . . . . . . . . . . . . . ore 20 sessuologia. . . . . . . . . . . . . . . . . . . . . . . . . . ore 10 Medicina interna (ore 40):   
+medicina interna . . . . . . . . . . . . . . . . . . . . . . . ore 40 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 5° Anno (indirizzo di malattie del ricambio e diabetologia):   
+Endocrinologia (ore 80):   
+endocrinologia dell'eta' evolutiva . . . . . . . . . . . . . . ore 50 endocrinologia geriatrica. . . . . . . . . . . . . . . . . . . ore 30 Malattie del ricambio (ore 250):   
+patologia e clinica delle malattie del ricambi . . . . . . . . ore 90 diabetologia . . . . . . . . . . . . . . . . . . . . . . . . . ore 90 malattie metaboliche nella gravidanza e nell'eta' evolutiva. . ore 50 aspetti legali e medico-sociali delle malattie metaboliche e del diabete. . . . . . . . . . . . . . . . . . . . . . . . . . . . ore 20 Andrologia (ore 30):   
+andrologia della senescenza. . . . . . . . . . . . . . . . . . ore 20 urologia andrologica . . . . . . . . . . . . . . . . . . . . . ore 10 Medicina interna (ore 40):   
+medicina interna . . . . . . . . . . . . . . . . . . . . . . . ore 40 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 3° Anno (indirizzo di andrologia):   
+Endocrinologia (ore 80):   
+patologia e clinica delle endocrinopatie . . . . . . . . . . . ore 60 immunoendocrinologia . . . . . . . . . . . . . . . . . . . . . ore 20 Malattie del ricambio (ore 80):   
+patologia e clinica delle malattie del ricambio. . . . . . . . ore 60 bolica epidemiologia della patologia meta. . . . . . . . . . . ore 20 Andrologia (ore 250):   
+andrologia dell'eta' evolutiva. . . . . . . . . . . . . . . . ore 150 fisiopatologia della riproduzione . . . . . . . . . . . . . . ore 100 Medicina interna (ore 40):   
+medicina interna . . . . . . . . . . . . . . . . . . . . . . . ore 40 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 4° Anno (indirizzo di andrologia):   
+Endocrinologia (ore 80):   
+immunoendocrinologia . . . . . . . . . . . . . . . . . . . . . ore 20 endocrinologia oncologica. . . . . . . . . . . . . . . . . . . ore 20 endocrinologia ginecologica. . . . . . . . . . . . . . . . . . ore 20 cronoendocrinologia. . . . . . . . . . . . . . . . . . . . . . ore 20 Malattie del ricambio (ore 80):   
+patologia e clinica delle malattie del ricambio. . . . . . . . ore 20 diabetologia . . . . . . . . . . . . . . . . . . . . . . . . . ore 60 Andrologia (ore 250):   
+fisiopatologia della riproduzione . . . . . . . . . . . . . . ore 150 sessuologia. . . . . . . . . . . . . . . . . . . . . . . . . . ore 50 andrologia della senescenza. . . . . . . . . . . . . . . . . . ore 50 Medicina interna (ore 40):   
+medicina interna . . . . . . . . . . . . . . . . . . . . . . . ore 40 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 5° Anno (indirizzo di andrologia):   
+Endocrinologia (ore 80):   
+endocrinologia dell'eta' evolutiva . . . . . . . . . . . . . . ore 50 endocrinologia geriatrica. . . . . . . . . . . . . . . . . . . ore 30 Malattie del ricambio (ore 80):   
+patologia e clinica delle malattie del ricambio. . . . . . . . ore 20 dietologia e nutrizione. . . . . . . . . . . . . . . . . . . . ore 30 malattie metaboliche nella gravidanza e nell'eta' evolutiva. . ore 20 aspetti legali e medico-sociali delle malattie metaboliche e del diabete. . . . . . . . . . . . . . . . . . . . . . . . . . . . ore 10 Andrologia (ore 250):   
+fisiopatologia della riproduzione . . . . . . . . . . . . . . ore 100 sessuologia. . . . . . . . . . . . . . . . . . . . . . . . . . ore 50 spermatologia. . . . . . . . . . . . . . . . . . . . . . . . . ore 25 urologia andrologica . . . . . . . . . . . . . . . . . . . . . ore 50 immunologia andrologica. . . . . . . . . . . . . . . . . . . . ore 25 Medicina interna (ore 40):   
+medicina interna . . . . . . . . . . . . . . . . . . . . . . . ore 40 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+  
+Art. 257. - Durante i cinque anni di corso e' richiesta la frequenza ai fini dell'apprendimento nei seguenti reparti/ divisioni/ambulatori/laboratori:   
+divisione universitaria di endocrinologia 30 letti (ospedale Molinette) (fisiop. endocr. endocr. metod. clin.);   
+divisione universitaria pat. med. A 16 letti (osp. Molinette) (fisiop. endocr. endocr. metod. clin.);   
+divisione universitaria pat. med. B 20 letti (osp. S. Vito) (fisiop. endocr. endocr. metod. clin.);   
+divisione pat. med. C 50 letti (osp. Molinette) (med. int. mal.  
+ric. fisiopat. met.);   
+divisione universitaria clin. med. B 25 letti (osp. Molinette) (andrologia, metodologia, clin., mal. ric.);   
+divisione ospedaliera med. generale F 50 letti (osp. Molinette) (andrologia, mal. ric., med. int.);   
+divisione ostetricia e ginecol. 10 letti (osp. Mauriziano) (endocrinologia);   
+ambulatorio endocrinologia clin. med. B;   
+ambulatorio endocrinologia catt. endocrinol.;   
+ambulatorio diabetologia clin. med. B;   
+ambulatorio diabetol. servizio malattie ricambio catt. endocr.; ambulatorio endocrinologia pat. med. A;   
+ambulatorio endocrinologia clin. med. A;   
+ambulatorio endocrinologia pat. med. D;   
+ambulatorio diabetologia e delle dislipidemie pat. med. C;   
+ambulatorio andrologia clin. med. A;   
+ambulatorio andrologia clin. med. B;   
+Day Hospital catt. endocrinol. clin. med. B;   
+Day Hospital pat. med. A;   
+Day Hospital pat. med. B;   
+laboratori via Genova, 3, metri quadrati 160+40 (ist. med. int., clin. med. A, pat. med. A);   
+laboratori corso Polonia, 9, metri quadrati 80+50+25+16 pt+25 2° p (ist. med. int., catt. endocr., clin. med. B);   
+laboratorio corso Polonia, 9, metri quadrati 125 pt. (ist. med.  
+int. pat. med. C);   
+laboratorio osp. S. Vito St. S. Vito, metri quadrati 30 (ist.  
+med. int. pat. med. D).   
+La frequenza nelle varie aree per complessive ottocento ore annue, compreso il monte ore elettivo di quattrocento ore annue, avverra' secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienza e di formazione scientifica.   
+Il consiglio della scuola predispone apposito libretto di formazione, che consenta allo specializzando ed al consiglio stesso il controllo dell'attivita' svolta e dell'acquisizione dei progressi compiuti.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 giugno 1951
+### Dato a Roma, addi' 4 giugno 1986
 
-EINAUDI GONELLA
+COSSIGA
 
-Visto, il Guardasigilli: ZOLI
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 5 novembre 1951
+Visto, il Guardasigilli: ROGNONI
 
-Atti del Governo, registro n. 45, foglio n. 63. - FRASCA
+Registrato alla Corte dei conti, addi' 3 ottobre 1986
+
+Registro n. 73 Istruzione, foglio n. 314

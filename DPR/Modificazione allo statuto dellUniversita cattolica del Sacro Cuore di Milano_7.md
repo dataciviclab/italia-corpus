@@ -1,16 +1,16 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 661
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1978 n. 1085
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 661
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1978 n. 1085
+================================================================
 
-Modificazione allo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano.
-----------------------------------------------------------------------------------
+Modificazione allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
+--------------------------------------------------------------------------------
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e successive modificazioni;
+Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,44 +20,49 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Veduto il parere del Consiglio universitario nazionale;
+Sulla
+-----
 
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+proposta del Ministro della pubblica istruzione, di concerto con il Ministro del tesoro; Decreta:
 
 Articolo unico
 --------------
 
   
-Nell'art. 23, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-patologia dell'apparato locomotore;  
-radioterapia;  
-tecniche speciali di anestesia;  
-medicina subacquea e iperbarica;  
-tecniche speciali di rianimazione.  
+La tabella n. 1 (art. 27), annessa allo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificata nel senso che l'organico dei posti di professore di ruolo viene ampliato corno segue: facolta di giurisprudenza (aggiunti tre posti):  
+totale 18;  
+facolta di scienze politiche (aggiunti due posti):  
+totale 9;  
+facolta di economia e commercio (aggiunti cinque posti):  
+totale 21 + 1;  
+facolta di lettere e filosofia (aggiunti tre posti):  
+totale 22 + 1;  
+facolta di magistero (aggiunti sei posti):  
+totale 17 + 2;  
+facolta di agraria (aggiunti tre posti):  
+totale 10 + 3;  
+facolta di medicina e chirurgia:  
+totale 30 + 1;  
+facolta di scienze matematiche, fisiche e  
+naturali (aggiunto un posto):  
+totale 6.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 giugno 1986
+### Dato a Roma, addi' 18 febbraio 1978
 
-COSSIGA
+LEONE MALFATTI - STAMMATI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: BONIFACIO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 20 giugno 1979
 
-Registrato alla Corte dei conti, addi' 3 ottobre 1986
-
-Registro n. 73 Istruzione, foglio n. 313
+Registro n. 50 Istruzione, foglio n. 171

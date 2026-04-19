@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1981 n. 1003
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1970 n. 969
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1981 n. 1003
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1970 n. 969
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regi decreti 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743) e [26 marzo 1942, n. 328](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-26;328), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, in 1592;
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,186 +20,175 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Cagliari e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
 Sulla
 -----
 
-proposta del Ministro della pubblica istruzione; Decreta:
+proposta del Ministro per la pubblica istruzione; Decreta:
 
-Articolo unico
---------------
+Art. 1
+------
 
   
-Lo statuto dell'Universita' di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 72 - nell'elenco degli insegnamenti del triennio di applicazione del corso di laurea in ingegneria mineraria, l'insegnamento di elementi di arte mineraria, obbligatorio sul piano della facolta', e' sostituito con quello di "tecnologie minerarie".  
-Art. 73 - l'insegnamento di "complementi di idraulica" dall'elenco degli insegnamenti obbligatori sul piano della facolta', per il corso di laurea in ingegneria civile, sezione idraulica, e' trasferito nell'elenco degli insegnamenti complementari.  
-Nel medesimo elenco l'insegnamento di "economia e diritto", obbligatorio sul piano della facolta', e' soppresso e sostituito con l'insegnamento di ricerca operativa".  
-Art. 75 - nell'elenco degli insegnamenti del triennio di applicazione del corso di laurea in ingegneria elettrotecnica l'insegnamento di "controlli automatici", obbligatorio sul piano della facolta', muta la denominazione in "controlli automatici (elettrotecnici)".  
-Art. 76 - nell'elenco degli insegnamenti del triennio di applicazione del corso di laurea in ingegneria chimica l'insegnamento di "complementi di chimica", obbligatorio sul piano della facolta', e' trasformato in complementare e sostituito con quello di "stechiometria industriale". Inoltre l'insegnamento di "strumentazione, misure e collaudi" muta la denominazione in quella di "dinamica controllo e strumentazione di processi chimici".  
-Art. 78 - l'elenco degli insegnamenti complementari e' soppresso e sostituito con il seguente nuovo elenco:  
-Art. 78. - Insegnamenti complementari:  
-acquedotti e fognature;  
-analisi delle strutture territoriali;  
-analisi e riconoscimento dei minerali;  
-analisi sperimentale delle tensioni;  
-applicazioni di geometria descrittiva;  
-architettura e composizione architettonica II;  
-architettura degli interni;  
-biochimica del suolo;  
-calcolatori elettronici;  
-calcolo automatico delle strutture;  
-analisi dei sistemi;  
-calcolo numerico;  
-complementi di elettrotecnica;  
-economia;  
-campi elettromagnetici e circuiti;  
-campionatura e valutazione dei giacimenti;  
-caratteri distributivi e tipologie dell'architettura;  
-chimica analitica;  
-chimica macromolecolare;  
-coltivazione dei giacimenti di idrocarburi;  
-combustibili e lubrificanti;  
-complementi di arte mineraria;  
-complementi di chimica;  
-complementi di idraulica;  
-complementi di macchine elettriche;  
-complementi di mineralogia e petrografia;  
-complementi di fisica tecnica;  
-complementi di geofisica mineraria;  
-complementi di chimica fisica;  
-complementi di chimica organica;  
-controlli dei processi;  
-corrosione e protezione;  
-costruzioni automobilistiche e ferroviarie;  
-costruzioni di macchine II;  
-costruzioni di strade, ferrovie ed aeroporti II;  
-costruzioni elettromeccaniche;  
-costruzioni marittime;  
-costruzioni metalliche;  
-difesa del suolo;  
-dinamica delle strutture e ingegneria sismica;  
-economia industriale;  
-elaboratore elettronico nella progettazione, costruzione e conduzione degli impianti chimici;  
-elementi delle macchine;  
-elettronica industriale;  
-energetica;  
-ergotecnica;  
-estimo, economia e legislazione mineraria;  
-fisica dello stato solido;  
-fotogrammetria;  
-generatori di vapore e tecnica della combustione;  
-geochimica;  
-elettronica applicata;  
-geologia applicata;  
-metodi probabilistici, statistici e processi stocastici;  
-macchine elettriche;  
-geofisica applicata;  
-geologia applicata per minerari;  
-geologia e giacimentologia delle fonti energetiche minerali;  
-geotecnica;  
-idraulica marittima e costiera;  
-idrologia tecnica;  
-impianti di sollevamento e trasporto;  
-impianti metallurgici;  
-impianti mineralurgici;  
-impianti minerari;  
-impianti meccanici II;  
-impianti petrolchimici;  
-impianti speciali idraulici;  
-impianti tecnici edili;  
-impianti termotecnici;  
-industrializzazione ed unificazione dell'edilizia;  
-industrie agrarie ed alimentari;  
-ingegneria delle reazioni chimiche;  
-ingegneria delle reazioni enzimatiche;  
-ingegneria sanitaria;  
-inquinamento e tecniche di prevenzione;  
-irrigazioni e bonifiche;  
-macchine di sollevamento e trasporto;  
-macchine II;  
-macchine e centrali elettriche;  
-materiali per le costruzioni meccaniche;  
-materiali per l'elettrotecnica;  
-meccanica agraria;  
-meccanica applicata II;  
-meccanica dei continui;  
-meccanica delle terre e fondazioni;  
-meccanica delle rocce;  
-membrane semimpermeabili;  
-metodi matematici per l'ingegneria;  
-metrologia tecnica e laboratorio;  
-misure e strumentazioni automatiche;  
-organizzazione dei cantieri;  
-ottimazione economica degli impianti chimici;  
-impianti elettrici;  
-misure elettriche;  
-ricerca operativa;  
-sistemi di informazione;  
-paleontologia;  
-pianificazione delle risorse idriche;  
-ponti e strutture speciali;  
-principi di ingegneria biochimica;  
-procedimenti analitici nei processi ed operazioni unitarie;  
-progetti edili;  
-progettazione urbana;  
-programmazione degli impianti meccanici e manutenzione programmata;  
-prospezione geofisica;  
-prospezione geomineraria;  
-resistenza e sicurezza delle costruzioni;  
-rilievo e restauro dei monumenti;  
-scienza dei materiali non metallici;  
-scienza dei metalli;  
-sistemazione dei bacini idrografici e conservazione del suolo; sistemi digitali;  
-sistemi di misura collaudi industriali;  
-sperimentazione dei materiali e delle strutture;  
-stabilita' e dinamica dei sistemi;  
-storia dell'architettura;  
-strumentazione e misure elettroniche;  
-tecnica del freddo;  
-tecnica degli scavi e delle gallerie;  
-tecniche dei controlli;  
-tecnica dei sondaggi;  
-tecniche della fermentazione industriale;  
-tecnica ed economia dei trasporti II;  
-tecnica di utilizzazione delle fonti di energia rinnovabili;  
-tecnologia di lavorazione degli alti polimeri;  
-tecnologie degli elementi costruttivi per l'edilizia industrializzata;  
-tecnologie generali;  
-tecnologie speciali minerallurgiche;  
-tecnologie speciali metallurgiche;  
-teoria e sviluppo dei processi chimici;  
-teoria dei modelli;  
-termotecnica;  
-stechiometria industriale;  
-termodinamica applicata;  
-termofluidodinamica delle macchine;  
-teoria e tecnica della pianificazione;  
-trasmissione dell'energia;  
-trasporti aerei e marittimi;  
-trattamento dei solidi;  
-trazione elettrica;  
-urbanistica II;  
-unificazione e disegno di impianti;  
-utilizzazione delle acque sotterranee;  
-vibrotecnica.  
+Presso l'Universita' degli studi di Cagliari e' istituita la facolta' di scienze politiche.  
+L'attuale corso di laurea in scienze politiche, annesso alla facolta' di giurisprudenza della stessa universita', passa a far parte della nuova facolta' di scienze politiche.  
+
+Art. 2
+------
+
+  
+Per tale facolta' sono assegnati i seguenti posti di ruolo:  
+a) tre posti di professore, mediante trasferimento dall'organico di cui e' dotata la facolta' di giurisprudenza della stessa Universita' di Cagliari e propriamente i posti assegnati alle cattedre di storia ed istituzioni dei paesi afro-asiatici, di dottrina dello Stato, di storia dei trattati e politica internazionale. Con i posti sono trasferiti anche i relativi professori;  
+b) cinque posti di assistente, mediante trasferimento dell'organico di cui e' dotata la facolta' di giurisprudenza della stessa Universita' di Cagliari e propriamente i posti assegnati alle cattedre di dottrina dello Stato, di istituzioni di diritto privato, di statistica, di storia e istituzioni dei paesi afro-asiatici, di storia delle dottrine politiche. Con i posti sono trasferiti anche i relativi assistenti.  
+
+Art. 3
+------
+
+  
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come dal testo annesso al presente decreto - vistato dal Ministro per la pubblica istruzione - contenente le norme relative all'ordinamento del corso di studi per il conseguimento della laurea in scienze politiche.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 ottobre 1981
+### Dato a Roma, addi' 14 ottobre 1970
 
-PERTINI BODRATO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 18 febbraio 1982
+Registrato alla Corte dei conti, addi' 2 dicembre 1970
 
-Registro n. 26 Istruzione, foglio n. 249
+Atti del Governo, registro n. 238, foglio n. 180. - GRECO
+
+Allegato
+
+Testo delle modifiche di statuto dell'Universita' degli studi di Cagliari, relativo all'istituzione della facolta' di scienze politiche.   
+  
+Art. 11. - E' abrogato e sostituito dal seguente: "La facolta' di giurisprudenza conferisce la laurea in giurisprudenza".   
+Art. 12, relativo al corso di laurea in giurisprudenza e' modificato nel senso che prima dell'ultimo capoverso viene aggiunto il seguente:   
+"Lo studente non puo' sostenere gli esami:   
+a) di diritto romano se non abbia superato l'esame di istituzioni di diritto romano;   
+b) di diritto civile, di diritto commerciale se non abbia superato l'esame di istituzioni di diritto privato;   
+L'articolo 16, relativo al conseguimento della laurea in giurisprudenza assume la numerazione di articolo 13 con la seguente aggiunta: "Per coloro che sono forniti di altre lauree vale la disposizione generale dell'art. 8 del presente statuto".   
+L'articolo 21 assume la numerazione dell'articolo 14.   
+Gli articoli dal 15 al 21 sono abrogati e sostituiti dai seguenti:   
+  
+Facolta' di scienze politiche   
+Art. 15. - La facolta' di scienze politiche conferisce la laurea in scienze politiche.   
+E' titolo di ammissione quello previsto dalle vigenti disposizioni di legge.   
+Nel diploma di laurea e' indicato l'indirizzo seguito dal laureato.  
+La durata del corso di studi per la laurea in scienze politiche e' di quattro anni.   
+Art. 16. - Il corso di laurea e' articolato in un biennio propedeutico comune ed in un biennio di specializzazione, scelto dallo studente tra i seguenti indirizzi:   
+a) politico-amministrativo;   
+b) politico-economico;   
+c) storico, politico internazionale.   
+Art. 17. - Costituiscono insegnamenti obbligatori del biennio propedeutico:   
+Istituzioni di diritto pubblico;   
+Economia politica;   
+Storia moderna;   
+Diritto costituzionale italiano e comparato;   
+Statistica;   
+Sociologia;   
+Politica economica e finanziaria;   
+Storia delle dottrine politiche;   
+Istituzioni di diritto privato.   
+L'esame di istituzioni di diritto pubblico e' propedeutico all'esame di diritto costituzionale italiano e comparato; l'esame di economia politica e' propedeutico all'esame di politica economica e finanziaria; l'esame di storia moderna e' propedeutico all'esame di storia delle dottrine politiche.   
+Nel biennio propedeutico, lo studente dovra' inoltre seguire i corsi e sostenere le prove di esame relative al primo anno di due lingue straniere, una delle quali dovra' essere l'inglese e l'altra sara' scelta dallo studente fra quelle effettivamente insegnate nella facolta' e cioe' francese, tedesco, spagnolo e arabo.   
+Gli insegnamenti del biennio comune, esclusi quelli di lingue, sono propedeutici rispetto agli insegnamenti del biennio di specializzazione. Lo studente che abbia superato tutti gli esami del primo biennio, le lingue straniere non vengono considerate a questo fine, puo' anticipare le prove di esame relative a non piu' di tre materie obbligatorie del biennio di specializzazione che intendera' seguire. Lo studente, inoltre, puo' sempre anticipare al biennio comune il secondo corso delle lingue straniere.   
+Art. 18. - Costituiscono insegnamenti obbligatori dell'indirizzo politico-amministrativo:   
+Diritto amministrativo I;   
+Diritto amministrativo II;   
+Dottrina dello Stato;   
+Sociologia dell'organizzazione;   
+Diritto finanziario;   
+Istituzioni di diritto e procedura penale;   
+Diritto regionale;   
+Prima lingua straniera (II e III corso);   
+Seconda lingua straniera (II e III corso).   
+Art. 19. - Costituiscono insegnamenti obbligatori dell'indirizzo politico economico:   
+Elementi di matematica generale;   
+Storia delle dottrine economiche;   
+Teoria e politica dello sviluppo economico;   
+Statistica economica;   
+Geografia politica ed economica;   
+Scienza delle finanze;   
+Sociologia economica;   
+Prima lingua straniera (II e III corso);   
+Seconda lingua straniera (II e III corso).   
+Art. 20. - Costituiscono insegnamenti obbligatori dell'indirizzo storico-politico e internazionale:   
+Storia contemporanea;   
+Diritto internazionale pubblico;   
+Storia dei trattati e politica internazionale;   
+Organizzazione internazionale;   
+Storia e istituzioni dei paesi afro-asiatici;   
+Geografia politica ed economica;   
+Diritto internazionale privato;   
+Prima lingua straniera (II e III corso);   
+Seconda lingua straniera (II e III corso).   
+Art. 21. - Gli insegnamenti, sia obbligatori, sia opzionali, possono, con decisione del consiglio di facolta', essere mutuati da altre facolta'.   
+Prima dell'inizio di ogni anno accademico, la facolta' stabilisce e rende noti gli insegnamenti opzionali che saranno impartiti fino al massimo, comprese le materie obbligatorie, di quindici per ciascun indirizzo e la durata (pluriennale, annuale o semestrale) di ciascuno di essi. Gli insegnamenti opzionali saranno scelti dalla facolta' tra le materie obbligatorie degli altri indirizzi ovvero nel seguente elenco:   
+Antropologia culturale;   
+Contabilita' dello Stato e degli enti pubblici;   
+Demografia;   
+Diritto del lavoro;   
+Diritto delle Comunita' europee;   
+Diritto internazionale privato;   
+Diritto parlamentare;   
+Diritto privato comparato;   
+Diritto processuale amministrativo;   
+Diritto pubblico dell'economia;   
+Diritto pubblico romano;   
+Diritto regionale;   
+Diritto tributario;   
+Econometria;   
+Economia internazionale;   
+Economia e politica agraria;   
+Economia e politica del lavoro;   
+Economia e politica monetaria;   
+Economia e politica industriale;   
+Legislazione sociale;   
+Matematica per economisti;   
+Matematica per le scienze sociali;   
+Organizzazione economica internazionale;   
+Programmazione economica;   
+Teoria delle relazioni internazionali;   
+Scienza delle finanze;   
+Sistemi economici comparati;   
+Scienza dell'amministrazione;   
+Scienza della politica;   
+Statistica sociale;   
+Storia dei movimenti e dei partiti politici;   
+Storia del Risorgimento;   
+Storia dell'America anglosassone;   
+Storia dell'America latina;   
+Storia dell'Asia orientale;   
+Storia dell'Europa orientale;   
+Storia dell'amministrazione pubblica;   
+Storia economica;   
+Storia delle istituzioni politiche;   
+Storia ed istituzioni dell'Africa mediterranea e del vicino Oriente;   
+Storia ed istituzioni dell'Africa subsahariana;   
+Storia ed istituzioni musulmane;   
+Storia politica ed economica della Sardegna;   
+Tecnica dell'organizzazione e dei servizi amministrativi.   
+Art. 22. - All'atto di iscrizione al III anno di corso, lo studente dovra' indicare per quale degli indirizzi intende optare.   
+Lo studente potra', previa autorizzazione del consiglio di facolta', modificare il piano di studi per quanto riguarda le materie opzionali scegliendo tra gli insegnamenti effettivamente impartiti negli altri indirizzi o in altre facolta'.   
+Il passaggio da un indirizzo a un altro dovra' essere chiesto alla facolta' entro il 31 dicembre di ogni anno. La facolta' stabilisce caso per caso gli eventuali esami da convalidare ai fini di quanto stabilito nell'articolo precedente.   
+Art. 23. - Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami relativi a non meno di 21 corsi annuali e a 2 corsi triennali di lingue straniere.   
+Per il computo degli esami, due corsi semestrali equivalgono ad un insegnamento annuale. Per i corsi pluriennali di una stessa materia, ogni esame annuale viene computato ai fini del raggiungimento del numero di esami stabilito al comma primo del presente articolo. I corsi di lingue straniere comportano esami scritti e orali al termine di ogni anno di corso.   
+Art. 24. - Il titolo della dissertazione di laurea deve essere scelto d'accordo con il professore ufficiale della materia tra gli insegnamenti obbligatori o tra quelli opzionali di cui sia stato superato l'esame.   
+L'esame di laurea consiste nella discussione orale su una dissertazione scritta presentata dal candidato, essendo relatori oltre al professore ufficiale della materia, un altro professore.   
+Coloro che abbiano precedentemente conseguito una laurea debbono comunicare alla segreteria della facolta', con dichiarazione della segreteria della universita' o dell'istituto superiore da cui provengono, il tema svolto nella dissertazione di laurea in loro possesso, essendo vietato di sostenere l'esame di laurea nello stesso argomento.   
+Art. 25. - Coloro che siano in possesso di altra laurea o diploma di studi superiori possono essere iscritti, a giudizio della facolta', a un anno di corso successivo al primo. L'iscrizione al III anno e' subordinata al superamento di un esame che dimostri la conoscenza di due lingue straniere a livello del I corso. La facolta', tenuto conto degli studi compiuti e degli esami superati, determina, caso per caso, l'anno di iscrizione e il numero minimo degli insegnamenti che devono essere seguiti e formare oggetto di esame.   
+Art. 26. - Al momento dell'entrata in vigore del presente ordinamento, gli studenti iscritti nei precedenti anni accademici potranno scegliere l'indirizzo in cui intendono conseguire la laurea ed adeguare ad esso il loro piano di studi. I criteri di adeguamento del vecchio al nuovo curriculum sono stabiliti dalla facolta'.   
+  
+Visto, d'ordine del Presidente della Repubblica   
+Il Ministro per la pubblica istruzione   
+  
+MISASI   

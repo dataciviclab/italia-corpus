@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 1201
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 602
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 1201
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 602
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -39,25 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 84, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-malattie metaboliche del bambino;  
-auxologia;  
-malattie infettive dell'infanzia;  
-endocrinologia ginecologica;  
-fisiopatologia della riproduzione umana;  
-ginecologia oncologica;  
-urologia ginecologica.  
+Nell'art. 57, relativo al corso di laurea in economia e commercio, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+analisi e contabilita' dei costi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 giugno 1983
+### Dato a Roma, addi' 4 maggio 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 28 aprile 1984
+Registrato alla Corte dei conti, addi' 15 ottobre 1983
 
-Registro n. 25 Istruzione, foglio n. 174
+Registro n. 66 Istruzione, foglio n. 126

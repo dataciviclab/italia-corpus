@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 luglio 1955 n. 787
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 747
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 luglio 1955 n. 787
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 747
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Camerino.
 --------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Camerino, approvato con [regio decreto 13 ottobre 1927, n. 2838](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2838) e modificato con i [regi decreti 20 settembre 1928, n. 2250](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1928-09-20;2250); [31 ottobre 1929, n. 2386](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1929-10-31;2386); [20 novembre 1930, n. 1939](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-11-20;1939); [27 ottobre 1932, n. 2066](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-10-27;2066); [27 dicembre 1934, n. 2439](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-27;2439); [10 ottobre 1936, n. 2037](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-10;2037); [14 marzo 1938, n. 885](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1938-03-14;885); [5 maggio 1939, n. 1172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-05-05;1172); [11 luglio 1942, n. 936](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-07-11;936); [5 settembre 1942, n. 1234, e con decreto del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-09-05;1234) [2 novembre 1948, n. 1617](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-11-02;1617); [30 ottobre 1949, n. 1140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1140); [11 aprile 1951, n. 652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;652) e [4 febbraio 1955, n. 115](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;115);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Camerino, approvato con [decreto del Presidente della Repubblica 1 novembre 1959, n. 1388](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-11-01;1388), e modificato con [decreto del Presidente della Repubblica 18 agosto 1962, n. 1392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-08-18;1392), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933;  
+n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
@@ -26,21 +27,38 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Camerino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 24. - Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di:  
-13) "Dottrina dello Stato".  
-Art. 47. - Agli insegnamenti complementari del corso di laurea in medicina veterinaria e' aggiunto quello di:  
-12) "Radiologia (semestrale)".  
+L'art. 29, relativo agli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali, e' modificato nel senso che l'istituto di: "Mineralogia e geologia" muta la denominazione in quella di "Istituto di geologia".  
+L'art. 33, relativo all'esame di laurea, e' modificato nel senso che le seguenti parole: (contrassegnate con la lettera C) "discussione di una o piu' tesine di laurea" sono soppresse.  
+Art. 34 - all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:  
+  
+Immunologia;  
+Statistica sanitaria;  
+Biochimica comparata.  
+  
+Art. 36 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:  
+  
+Immunologia;  
+Statistica sanitaria;  
+Biochimica comparata.  
+  
+Art. 38 - all'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti:  
+  
+Geologia e paleontologia del Quaternario;  
+Pedologia;  
+Idrogeologia;  
+Sismologia;  
+Vulcanologia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 luglio 1955
+### Dato a Roma, addi' 31 ottobre 1974
 
-GRONCHI ROSSI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 27 agosto 1955
+Registrato alla Corte dei conti, addi' 27 gennaio 1975
 
-Atti del Governo, registro n. 92, foglio n. 115. - CARLOMAGNO
+Atti di Governo, registro n. 8, foglio n. 2

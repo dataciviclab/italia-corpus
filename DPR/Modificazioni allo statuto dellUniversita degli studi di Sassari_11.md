@@ -1,77 +1,100 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 812
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1963 n. 2000
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 812
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1963 n. 2000
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Sassari.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, numero 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;108), modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217) e successivi;
+
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 16, relativo alle propedeuticita' di esami nel corso di la urea in Giurisprudenza e' modificato nel senso che sono aggiunte le propedeuticita' dell'esame di "Istituzioni di diritto privato" nei riguardi dell'esame di "Diritto del lavoro" e dell'esame di "Storia del diritto romano" nei riguardi dell'esame di "Storia del diritto italiano".
+
+Art. 29. - All'elenco degli insegnamenti complementari del corso di laurea in Farmacia e' aggiunto quello di "Farmacognosia".
+
+Dopo l'art. 36 e con il conseguente spostamento della successiva numerazione, viene inserito il seguente nuovo articolo relativo alle propedeuticita' di esame nel corso di laurea in Medicina veterinaria:
+
+Art. 37. - Gli esami di "Fisiologia generale e speciale degli animali domestici e Chimica biologica" e di "Zoognostica" debbono essere sostenuti dopo aver superato l'esame di "Anatomia" degli animali domestici con Istologia e Embriologia" e Zootecnica generale" e "Patologia generale e Anatomia patologia" dopo "Fisiologia"; "Zootecnica speciale" dopo "Zootecnica generale" "Ispezione degli alimenti di origine animale"; e "Malattie infettive profilassi e polizia veterinaria" dopo "Patologia generale e Anatomia patologica); "(Patologia speciale e Clinica chirurgica", "Patologia speciale e Clinica medica", "Ostetricia e Ginecologia" dopo "Farmacologia" e "Patologia generale e Anatomia patologica". Gli insegnamenti di "Patologia speciale e Clinica medica, "Patologia speciale e Clinica chirurgica", "Ostetricia e Ginecologia" comportano un esame teorico ed una prova pratica".
+
+Art. 46. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti i seguenti:
+
+Fisiologia comparata;
+
+Biologia, generale.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 3 dicembre 1963
+
+SEGNI
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 4 gennaio 1964 Atti del Governo, registro n. 170, foglio n. 30. - VILLA
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, numero 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084), e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, numero 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, numero 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;108), modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:   
-L'art. 30, relativo agli istituti della facolta' di magistero, e' abrogato e sostituito dal seguente:   
-Fanno parte della facolta' di magistero i seguenti istituti:   
+Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Istituto di scienze storiche;   
-Istituto di scienze geografiche, antropologiche e sociologiche;  
-Istituto di antichita' ed arte;   
-Istituto di filosofia e pedagogia;   
-Istituto di filologia classica;   
-Istituto di filologia moderna;   
-Istituto di lingue e letterature straniere.   
-Art. 32 - all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:   
-16) Storia della cultura della Sardegna;   
-17) Archivistica;   
-18) Istituzioni medioevali;   
-19) Archeologia;   
-20) Civilta' greca;   
-21) Civilta' bizantina;   
-22) Storia dei Paesi islamici;   
-23) Storia del Risorgimento;   
-24) Storia della musica;   
-25) Storia delle tradizioni popolari.   
-Art. 33 - all'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:   
-14) Filosofia morale;   
-15) Estetica;   
-16) Storia della filosofia antica;   
-17) Filosofia del linguaggio;   
-18) Etnologia;   
-19) Metodologia e didattica;   
-20) Psicologia dell'eta' evolutiva.   
-Art. 34 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:   
-11) Linguistica generale;   
-12) Filosofia del linguaggio;   
-13) Letteratura anglo-americana;   
-14) Lingua e letteratura portoghese;   
-15) Lingua e letteratura catalana;   
-16) Lingua e letteratura neo-greca.   
+Art. 16, relativo alle propedeuticita' di esami nel corso di la urea in Giurisprudenza e' modificato nel senso che sono aggiunte le propedeuticita' dell'esame di "Istituzioni di diritto privato" nei riguardi dell'esame di "Diritto del lavoro" e dell'esame di "Storia del diritto romano" nei riguardi dell'esame di "Storia del diritto italiano".  
+Art. 29. - All'elenco degli insegnamenti complementari del corso di laurea in Farmacia e' aggiunto quello di "Farmacognosia".  
+Dopo l'art. 36 e con il conseguente spostamento della successiva numerazione, viene inserito il seguente nuovo articolo relativo alle propedeuticita' di esame nel corso di laurea in Medicina veterinaria:  
+Art. 37. - Gli esami di "Fisiologia generale e speciale degli animali domestici e Chimica biologica" e di "Zoognostica" debbono essere sostenuti dopo aver superato l'esame di "Anatomia" degli animali domestici con Istologia e Embriologia" e Zootecnica generale" e "Patologia generale e Anatomia patologia" dopo "Fisiologia"; "Zootecnica speciale" dopo "Zootecnica generale" "Ispezione degli alimenti di origine animale"; e "Malattie infettive profilassi e polizia veterinaria" dopo "Patologia generale e Anatomia patologica); "(Patologia speciale e Clinica chirurgica", "Patologia speciale e Clinica medica", "Ostetricia e Ginecologia" dopo "Farmacologia" e "Patologia generale e Anatomia patologica". Gli insegnamenti di "Patologia speciale e Clinica medica, "Patologia speciale e Clinica chirurgica", "Ostetricia e Ginecologia" comportano un esame teorico ed una prova pratica".  
+Art. 46. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti i seguenti:  
+Fisiologia comparata;  
+Biologia, generale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1974
+### Dato a Roma, addi' 3 dicembre 1963
 
-LEONE MALFATTI
+SEGNI GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 27 gennaio 1975
+Registrato alla Corte dei conti, addi' 4 gennaio 1964
 
-Atti di Governo, registro n. 8, foglio n. 72
+Atti del Governo, registro n. 170, foglio n. 30. - VILLA

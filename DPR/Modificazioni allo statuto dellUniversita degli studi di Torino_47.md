@@ -1,84 +1,90 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 844
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1966 n. 894
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 844
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1966 n. 894
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente, modificato come appresso:
-
-Art. 12. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di "Analisi del linguaggio politico".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 4 agosto 1971
-
-SARAGAT
-
-MISASI
-
-Visto, il Guardasigilli: COLOMBO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 15 ottobre 1971 Atti del Governo, registro n. 244, foglio n. 152. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente, modificato come appresso:  
-Art. 12. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di "Analisi del linguaggio politico".  
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Art. 22. - All'elenco degli insegnamenti complementari del corso di laurea in Lettere sono aggiunti i seguenti:  
+Lingua e letteratura cinese;  
+Filologia musicale;  
+Storia della civilta' e della tradizione classica;  
+Dialettologia italiana;  
+Filologia italiana;  
+Ordinamenti degli antichi Stati italiani.  
+Art. 23. - All'elenco degli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti i seguenti:  
+Storia della filosofia moderna e contemporanea;  
+Filosofia della religione.  
+Art. 24. - All'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere moderne e' aggiunto quello di "Storia della lingua francese".  
+Art. 26. - All'elenco degli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti i seguenti:  
+Letteratura medioevale ed umanistica;  
+Sociologia;  
+Storia dell'Europa orientale;  
+Geografia regionale.  
+Art. 28. - All'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere sono aggiunti i seguenti:  
+Storia dell'Europa orientale;  
+Geografia regionale.  
+Art. 42. - Relativo agli insegnamenti del 1° biennio del corso di laurea in Matematica e' modificato nel senso che viene aggiunto il seguente nuovo comma:  
+"a) Geometria II va preceduta da Analisi I, Geometria I, Algebra;  
+b) Meccanica razionale va preceduta da Analisi I e Geometria I;  
+c) i corsi di Geometria del II biennio vanno preceduti da Geometria II".  
+Art. 70. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti i seguenti:  
+Parassitologia;  
+Micologia;  
+Fitogeografia;  
+Primatologia;  
+Geomorfologia;  
+Chimica analitica;  
+Cristallografia.  
+Nello stesso elenco sono soppressi i seguenti insegnamenti:  
+Entomologia agraria;  
+Fisica terrestre e climatologia;  
+Biologia marina.  
+Art. 71. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti i seguenti:  
+Geologia e pedologia;  
+Parassitologia;  
+Primatologia;  
+Fitogeografia;  
+Chimica analitica.  
+Nello stesso elenco l'insegnamento di Geologia e' soppresso.  
+Art. 72. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti i seguenti:  
+Geomorfologia;  
+Geologia del cristallino;  
+Cristallografia;  
+Meccanica razionale.  
+Nello stesso elenco l'insegnamento di "Meccanica razionale con elementi di statica grafica e disegno" soppresso.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 agosto 1971
+### Dato a Roma, addi' 29 settembre 1966
 
-SARAGAT MISASI
+SARAGAT GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 15 ottobre 1971
+Registrato alla Corte dei conti, addi' 25 ottobre 1966
 
-Atti del Governo, registro n. 244, foglio n. 152. - CARUSO
+Atti del Governo, registro n. 206, foglio n. 117. - VILLA

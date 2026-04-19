@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1978 n. 596
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1973 n. 1156
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1978 n. 596
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1973 n. 1156
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,156 +20,405 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 164 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in patologia della riproduzione umana.
+L'art. 142, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la scuola in "Igiene" muta la denominazione in quella di "Igiene e medicina preventiva".
 
-Dopo l'art. 291, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in patologia della riproduzione umana.
+Nello stesso elenco la scuola in "Medicina ed igiene scolastica" e' soppressa ed e' aggiunta la scuola in "Malattie dell'apparato cardiovascolare" di nuova istituzione.
 
-Scuola di specializzazione in patologia della riproduzione umana
+Dopo l'art. 159, e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo alle disposizioni generali per le scuole di specializzazione:
 
-Art. 292. - La scuola ha la durata di tre anni e conferisce il diploma di specialista in patologia della riproduzione umana.
+Art. 160. - I laureati in medicina e chirurgia, in possesso di diplomi rilasciati dalle soppresse scuole di specializzazione, possono ottenere l'iscrizione all'ultimo anno di corso delle corrispondenti scuole di specializzazione gia' riordinate, alle condizioni stabilite dai rispettivi consigli delle scuole stesse.
 
-Art. 293. - Sono ammessi i laureati in medicina e chirurgia.
+L'ultimo comma dell'art. 185, relativo alla scuola di specializzazione in psichiatria istituita con [decreto del Presidente della Repubblica 28 agosto 1971, n. 906](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-08-28;906), e' modificato nel senso che il numero degli iscritti e' stabilito in sessanta per i quattro anni di corso.
 
-Art. 294. - Il numero complessivo degli specializzandi da ammettere nella scuola nei tre anni di corso e' di quindici allievi.
+L'ultimo comma dell'art. 187, relativo alla scuola di specializzazione in neurologia, istituita con [decreto del Presidente della Repubblica 28 agosto 1971, n. 906](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-08-28;906), e' modificato nel senso che il numero degli iscritti e' stabilito in sessanta per i quattro anni di corso.
 
-Art. 295. - Le materie di insegnamento sono le seguenti:
+Gli articoli da 196 a 200, relativi alla "Scuola di specializzazione in igiene" che muta la denominazione in quella di "Scuola di specializzazione in igiene e medicina preventiva", sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in igiene e medicina preventiva
+
+Art. 196. - La scuola di specializzazione in igiene e medicina preventiva si articola in quattro orientamenti:
+
+a) orientamento di sanita' pubblica;
+
+b) orientamento di laboratorio;
+
+c) orientamento di igiene e tecnica ospitaliera;
+
+d) orientamento di igiene e medicina scolastica.
+
+Art. 197. - La scuola ha la durata di tre anni.
+
+Art. 198. - L'iscrizione alla scuola e' limitata:
+
+a) a non piu' di trenta iscritti per anno al corso con orientamento di sanita' pubblica;
+
+b) a non piu' di quindici iscritti per anno al corso con orientamento di laboratorio;
+
+c) a non piu' di quindici iscritti per anno al corso con orientamento di igiene e tecnica ospitaliera;
+
+d) a non piu' di quindici iscritti per anno al corso con orientamento di igiene e medicina scolastica.
+
+Art. 199. - Non sono consentite abbreviazioni di corso.
+
+Art. 200. - Le materie di insegnamento sono:
 
 1° Anno:
 
-biologia generale della riproduzione;
+1) Metodologia statistica e biometria;
 
-embriologia ed anatomia dell'apparato riproduttivo umano;
+2) Educazione sanitaria:
 
-fisiologia della riproduzione umana;
+3) Psicologia;
 
-genetica umana;
+4) Microbiologia;
 
-immunologia e patologia della riproduzione umana.
+5) Parassitologia;
+
+6) Epidemiologia e profilassi generale.
 
 2° Anno:
 
-fisiopatologia della riproduzione umana;
+1) Patologia e clinica delle malattie infettive;
 
-anatomia ed istologia patologica dell'apparato riproduttivo;
+2) Epidemiologia e profilassi delle malattie infettive;
 
-endocrinologia ginecologica;
+3) Patologia e clinica delle malattie non infettive di importanza sociale;
 
-andrologia;
+4) Epidemiologia e profilassi delle malattie non infettive di importanza sociale;
 
-teratologia;
+5) Demografia e statistica sanitaria;
 
-patologia della gravidanza;
+6) Legislazione e organizzazione sanitaria.
 
-urologia e patologia della riproduzione umana.
+3° Anno (con orientamento di sanita' pubblica):
+
+1) Approvvigionamento idrico; raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici;
+
+2) Igiene edilizia e urbanistica;
+
+3) Igiene dell'alimentazione;
+
+4) Igiene e medicina scolastica;
+
+5) igiene ospitaliera;
+
+6) Servizi di sanita' pubblica.
+
+3° Anno (con orientamento di laboratorio):
+
+1) Microscopia applicata all'igiene;
+
+2) Microbiologia applicata all'igiene;
+
+3) Chimica clinica;
+
+4) Accertamento diagnostico delle malattie batteriche e parassitarie;
+
+5) Accertamento diagnostico delle infezioni virali;
+
+6) Nozioni di anatomia e istologia patologica.
+
+3° Anno (con orientamento di igiene e tecnica (o direzione) ospitaliera):
+
+1) Storia degli ospedali e principi metodologici dell'assistenza ospedaliera;
+
+2) Igiene e tecnica delle costruzioni ospedaliere, arredamento ed impianti sanitari;
+
+3) Organizzazione e funzione degli ospedali generali e speciali;
+
+4) Diritto amministrativo e legislazione ospitaliera;
+
+5) Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera;
+
+6) Selezione e istruzione professionale del personale ospedaliero;
+
+7) Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.
+
+3° Anno (con orientamento di igiene e medicina scolastica):
+
+1) Auscologia normale patologica;
+
+2) Epidemiologia e profilassi delle malattie dell'eta' scolare;
+
+3) Servizi di medicina scolastica;
+
+4) Elementi di psicologia e pedagogia dell'eta' scolare;
+
+5) Igiene dell'alimentazione;
+
+6) Assistenza parascolastica;
+
+7) Edilizia scolastica.
+
+Materie complementari:
+
+Ciascun specializzando scegliera', per ogni anno di corso, una sola delle seguenti materie complementari:
+
+1) Ispezione delle carni;
+
+2) Geologia applicata all'igiene;
+
+4) Malattie professionali e loro prevenzione;
+
+5) Diritto sanitario;
+
+6) Igiene navale e dell'emigrazione;
+
+7) Antropologia culturale e sociologica;
+
+8) Malattie tropicali;
+
+9) Istituzioni di matematica;
+
+10) Genetica;
+
+11) Gerontologia;
+
+12) Elementi di economia politica.
+
+Gli articoli da 204 a 211, relativi alla "Scuola di specializzazione in medicina ed igiene scolastica", sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.
+
+Dopo l'art. 265, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della "Scuola di specializzazione in malattie dell'apparato cardiovascolare".
+
+Scuola di specializzazione in malattie dell'apparato cardiovascolare
+
+Art. 266. - La scuola ha la durata di tre anni.
+
+Il numero degli iscritti e stabilito in tre ogni anno di corso.
+
+Art. 267. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+1) Anatomia normale dell'apparato cardio-vascolare:
+
+2) Fisiologia dell'apparato cardio-vascolare e respiratorio;
+
+3) Fisiopatologia cardio-vascolare e respiratoria (1° corso);
+
+4) Patologia cardio-vascolare (1° corso);
+
+5) Semeiologia fisica (1° corso);
+
+6) Semeiologia strumentale (1° corso);
+
+7) Microbiologia (facoltativo);
+
+8) Metabolismo del miocardio (facoltativo).
+
+2° Anno:
+
+1) Fisiopatologia cardio-vascolare e respiratoria (2° corso);
+
+2) Patologia cardio-vascolare (2° corso);
+
+3) Semeiologia fisica (2° corso);
+
+4) Semeiologia strumentale (2° corso);
+
+5) Anatomia patologica dell'apparato cardio-vascolare (1° corso);
+
+6) Radiologia;
+
+7) Farmacologia;
+
+8) Clinica e terapia (I° corso);
 
 3° Anno:
 
-nosografia della patologia della riproduzione umana;
+1) Anatomia patologica dell'apparato cardio-vascolare (2° corso);
 
-diagnostica della patologia della riproduzione umana;
+2) Clinica e terapia (2° corso);
 
-terapia medica della patologia della riproduzione umana;
+3) Chirurgia dell'apparato cardio-vascolare;
 
-trattamento chirurgico della patologia della riproduzione umana;
+4) Problemi assicurativi e sociali (facoltativo);
 
-elementi di psicologia medica e di sessuologia;
-
-educazione sociologica e demografica.
-
-Art. 296. - Alla fine di ogni anno accademico gli allievi dovranno sostenere un esame di profitto sul gruppo di materie che sono state oggetto di insegnamento. Alla fine del triennio gli allievi dovranno presentare una dissertazione scritta e sostenere un esame di diploma.
-
-Art. 297. - Gli iscritti alla scuola di specializzazione sono tenuti a pagare le tasse e soprattasse, secondo quanto stabilito per gli studenti della facolta' di medicina e chirurgia, nonche' la tassa di diploma nella misura di L. 6.000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).
-
-Sono tenuti, altresi', al pagamento di speciali contributi nella misura che sara' determinata dal consiglio di amministrazione previo parere della facolta', su proposta del direttore della scuola.
+5) Statistica (facoltativo).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 19 giugno 1978
+Dato a Roma, addi' 23 ottobre 1973
 
-p. Il Presidente della Repubblica
+LEONE
 
-Il Presidente del Senato
+MALFATTI
 
-FANFANI
-
-PEDINI
-
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: ZAGARI
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 23 settembre 1978 Registro n. 104 Istruzione, foglio n. 291
+alla Corte dei conti, addi' 28 ottobre 1974 Atti di Governo, registro n. 6, foglio n. 49. - SCIARRETTA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 164 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in patologia della riproduzione umana.   
-Dopo l'art. 291, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in patologia della riproduzione umana.   
-Scuola di specializzazione in patologia della riproduzione umana   
-Art. 292. - La scuola ha la durata di tre anni e conferisce il diploma di specialista in patologia della riproduzione umana.   
-Art. 293. - Sono ammessi i laureati in medicina e chirurgia.   
-Art. 294. - Il numero complessivo degli specializzandi da ammettere nella scuola nei tre anni di corso e' di quindici allievi.   
-Art. 295. - Le materie di insegnamento sono le seguenti:   
+  
+L'art. 142, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la scuola in "Igiene" muta la denominazione in quella di "Igiene e medicina preventiva".   
+Nello stesso elenco la scuola in "Medicina ed igiene scolastica" e' soppressa ed e' aggiunta la scuola in "Malattie dell'apparato cardiovascolare" di nuova istituzione.   
+Dopo l'art. 159, e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo alle disposizioni generali per le scuole di specializzazione:   
+  
+Art. 160. - I laureati in medicina e chirurgia, in possesso di diplomi rilasciati dalle soppresse scuole di specializzazione, possono ottenere l'iscrizione all'ultimo anno di corso delle corrispondenti scuole di specializzazione gia' riordinate, alle condizioni stabilite dai rispettivi consigli delle scuole stesse.   
+L'ultimo comma dell'art. 185, relativo alla scuola di specializzazione in psichiatria istituita con [decreto del Presidente della Repubblica 28 agosto 1971, n. 906](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-08-28;906), e' modificato nel senso che il numero degli iscritti e' stabilito in sessanta per i quattro anni di corso.   
+L'ultimo comma dell'art. 187, relativo alla scuola di specializzazione in neurologia, istituita con [decreto del Presidente della Repubblica 28 agosto 1971, n. 906](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-08-28;906), e' modificato nel senso che il numero degli iscritti e' stabilito in sessanta per i quattro anni di corso.   
+Gli articoli da 196 a 200, relativi alla "Scuola di specializzazione in igiene" che muta la denominazione in quella di "Scuola di specializzazione in igiene e medicina preventiva", sono abrogati e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in igiene e medicina preventiva   
+  
+Art. 196. - La scuola di specializzazione in igiene e medicina preventiva si articola in quattro orientamenti:   
+a) orientamento di sanita' pubblica;   
+b) orientamento di laboratorio;   
+c) orientamento di igiene e tecnica ospitaliera;   
+d) orientamento di igiene e medicina scolastica.   
+  
+Art. 197. - La scuola ha la durata di tre anni.   
+  
+Art. 198. - L'iscrizione alla scuola e' limitata:   
+a) a non piu' di trenta iscritti per anno al corso con orientamento di sanita' pubblica;   
+b) a non piu' di quindici iscritti per anno al corso con orientamento di laboratorio;   
+c) a non piu' di quindici iscritti per anno al corso con orientamento di igiene e tecnica ospitaliera;   
+d) a non piu' di quindici iscritti per anno al corso con orientamento di igiene e medicina scolastica.   
+  
+Art. 199. - Non sono consentite abbreviazioni di corso.   
+  
+Art. 200. - Le materie di insegnamento sono:   
+  
 1° Anno:   
-biologia generale della riproduzione;   
-embriologia ed anatomia dell'apparato riproduttivo umano;   
-fisiologia della riproduzione umana;   
-genetica umana;   
-immunologia e patologia della riproduzione umana.   
+1) Metodologia statistica e biometria;   
+2) Educazione sanitaria:   
+3) Psicologia;   
+4) Microbiologia;   
+5) Parassitologia;   
+6) Epidemiologia e profilassi generale.   
+  
 2° Anno:   
-fisiopatologia della riproduzione umana;   
-anatomia ed istologia patologica dell'apparato riproduttivo;   
-endocrinologia ginecologica;   
-andrologia;   
-teratologia;   
-patologia della gravidanza;   
-urologia e patologia della riproduzione umana.   
+1) Patologia e clinica delle malattie infettive;   
+2) Epidemiologia e profilassi delle malattie infettive;   
+3) Patologia e clinica delle malattie non infettive di importanza sociale;   
+4) Epidemiologia e profilassi delle malattie non infettive di importanza sociale;   
+5) Demografia e statistica sanitaria;   
+6) Legislazione e organizzazione sanitaria.   
+  
+3° Anno (con orientamento di sanita' pubblica):   
+1) Approvvigionamento idrico; raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici;   
+2) Igiene edilizia e urbanistica;   
+3) Igiene dell'alimentazione;   
+4) Igiene e medicina scolastica;   
+5) igiene ospitaliera;   
+6) Servizi di sanita' pubblica.   
+  
+3° Anno (con orientamento di laboratorio):   
+1) Microscopia applicata all'igiene;   
+2) Microbiologia applicata all'igiene;   
+3) Chimica clinica;   
+4) Accertamento diagnostico delle malattie batteriche e parassitarie;   
+5) Accertamento diagnostico delle infezioni virali;   
+6) Nozioni di anatomia e istologia patologica.   
+  
+3° Anno (con orientamento di igiene e tecnica (o direzione) ospitaliera):   
+1) Storia degli ospedali e principi metodologici dell'assistenza ospedaliera;   
+2) Igiene e tecnica delle costruzioni ospedaliere, arredamento ed impianti sanitari;   
+3) Organizzazione e funzione degli ospedali generali e speciali;   
+4) Diritto amministrativo e legislazione ospitaliera;   
+5) Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera;   
+6) Selezione e istruzione professionale del personale ospedaliero;   
+7) Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.   
+  
+3° Anno (con orientamento di igiene e medicina scolastica):   
+1) Auscologia normale patologica;   
+2) Epidemiologia e profilassi delle malattie dell'eta' scolare;   
+3) Servizi di medicina scolastica;   
+4) Elementi di psicologia e pedagogia dell'eta' scolare;   
+5) Igiene dell'alimentazione;   
+6) Assistenza parascolastica;   
+7) Edilizia scolastica.   
+  
+Materie complementari:   
+  
+Ciascun specializzando scegliera', per ogni anno di corso, una sola delle seguenti materie complementari:   
+1) Ispezione delle carni;   
+2) Geologia applicata all'igiene;   
+4) Malattie professionali e loro prevenzione;   
+5) Diritto sanitario;   
+6) Igiene navale e dell'emigrazione;   
+7) Antropologia culturale e sociologica;   
+8) Malattie tropicali;   
+9) Istituzioni di matematica;   
+10) Genetica;   
+11) Gerontologia;   
+12) Elementi di economia politica.   
+  
+Gli articoli da 204 a 211, relativi alla "Scuola di specializzazione in medicina ed igiene scolastica", sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.   
+Dopo l'art. 265, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della "Scuola di specializzazione in malattie dell'apparato cardiovascolare".   
+  
+Scuola di specializzazione in malattie dell'apparato cardiovascolare   
+Art. 266. - La scuola ha la durata di tre anni.   
+Il numero degli iscritti e stabilito in tre ogni anno di corso.   
+  
+Art. 267. - Le materie di insegnamento sono le seguenti:   
+  
+1° Anno:   
+1) Anatomia normale dell'apparato cardio-vascolare:   
+2) Fisiologia dell'apparato cardio-vascolare e respiratorio;   
+3) Fisiopatologia cardio-vascolare e respiratoria (1° corso);   
+4) Patologia cardio-vascolare (1° corso);   
+5) Semeiologia fisica (1° corso);   
+6) Semeiologia strumentale (1° corso);   
+7) Microbiologia (facoltativo);   
+8) Metabolismo del miocardio (facoltativo).   
+  
+2° Anno:   
+1) Fisiopatologia cardio-vascolare e respiratoria (2° corso);   
+2) Patologia cardio-vascolare (2° corso);   
+3) Semeiologia fisica (2° corso);   
+4) Semeiologia strumentale (2° corso);   
+5) Anatomia patologica dell'apparato cardio-vascolare (1° corso);  
+6) Radiologia;   
+7) Farmacologia;   
+8) Clinica e terapia (I° corso);   
+  
 3° Anno:   
-nosografia della patologia della riproduzione umana;   
-diagnostica della patologia della riproduzione umana;   
-terapia medica della patologia della riproduzione umana;   
-trattamento chirurgico della patologia della riproduzione umana;   
-elementi di psicologia medica e di sessuologia;   
-educazione sociologica e demografica.   
-Art. 296. - Alla fine di ogni anno accademico gli allievi dovranno sostenere un esame di profitto sul gruppo di materie che sono state oggetto di insegnamento. Alla fine del triennio gli allievi dovranno presentare una dissertazione scritta e sostenere un esame di diploma.   
-Art. 297. - Gli iscritti alla scuola di specializzazione sono tenuti a pagare le tasse e soprattasse, secondo quanto stabilito per gli studenti della facolta' di medicina e chirurgia, nonche' la tassa di diploma nella misura di L. 6.000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).   
-Sono tenuti, altresi', al pagamento di speciali contributi nella misura che sara' determinata dal consiglio di amministrazione previo parere della facolta', su proposta del direttore della scuola.   
+1) Anatomia patologica dell'apparato cardio-vascolare (2° corso);  
+2) Clinica e terapia (2° corso);   
+3) Chirurgia dell'apparato cardio-vascolare;   
+4) Problemi assicurativi e sociali (facoltativo);   
+5) Statistica (facoltativo).   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 giugno 1978
+### Dato a Roma, addi' 23 ottobre 1973
 
-p. Il Presidente della Repubblica Il Presidente del Senato FANFANI PEDINI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 23 settembre 1978
+Registrato alla Corte dei conti, addi' 28 ottobre 1974
 
-Registro n. 104 Istruzione, foglio n. 291
+Atti di Governo, registro n. 6, foglio n. 49. - SCIARRETTA

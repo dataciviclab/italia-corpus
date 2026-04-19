@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1982 n. 868
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 novembre 1985 n. 881
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1982 n. 868
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 novembre 1985 n. 881
+===============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione ad accettare una donazione a favore dello Stato.
 Art. 1
 ------
 
-N.
+n.
 
-868. Decreto del Presidente della Repubblica 14 maggio 1982, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato di un appezzamento di terreno della superficie catastale di mq 2206, su cui e' stata realizzata la nuova caserma dei vigili del fuoco, disposta dall'ente E.U.R., in Roma, con atto 9 novembre 1972, n. 34442 di repertorio, a rogito dott. Renato Armati, notaio in Roma.  
+881. Decreto del Presidente della Repubblica 13 novembre 1985, col quale, sulla proposta del Ministro della difesa, il Ministero della difesa viene autorizzato ad accettare la donazione, consistente in sei modelli originali storico-artistici di velieri antichi e di nove modelli di velieri antichi in battaglia, del valore approssimativo di L. 57.000.000, disposta dal prof. Pietro Montauti, con atto 30 gennaio 1985, n. 8598/2826 di repertorio, a rogito dott. Maurizio Tufani, notaio in Frascati (Roma) e registrato a Frascati in data 8 febbraio 1985 al n. 149.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 24 settembre 1982  
-Registro n. 41 Finanze, foglio n. 293
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 27 gennaio 1986  
+Registro n. 3 Difesa, foglio n. 272

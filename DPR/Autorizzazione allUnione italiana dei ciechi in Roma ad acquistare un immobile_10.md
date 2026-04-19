@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 marzo 1982 n. 229
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 luglio 1978 n. 446
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 marzo 1982 n. 229
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 luglio 1978 n. 446
+=============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad acquistare un immobile.
 ----------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-229. Decreto del Presidente della Repubblica 12 marzo 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare, al prezzo di L. 60.000.000 ritenuto congruo dall'ufficio tecnico erariale di Torino, un appartamento di mq. 310 circa, sito in Torino, via M. Gioia 49, censito al nuovo catasto edilizio urbano alla partita 175159, foglio 194 particella 18 sub 14, di proprieta' della sig.ra Anna Maria Glavinaz in Vassoney, come da atto di compravendita in data 21 dicembre 1967, n. 30509/14565 di repertorio, a rogito dott. Giovanni Re, notaio in Torino, registrato a Torino in data 9 gennaio 1968 al n. 1401, da destinare a pensionato per giovani lavoratori ciechi.  
+446. Decreto del Presidente della Repubblica 13 luglio 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare, al prezzo di L. 11.500.000, dal sig. Morreale Carmelo, un appartamento sito in Asti, via Q. Sella n. 39/41, descritto al nuovo catasto edilizio urbano alla partita 13417 foglio 77/6 n. 1154 sub 17 e n. 1102, da adibire a sede sociale della sezione di Asti.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 27 aprile 1982  
-Registro n. 3 Presidenza, foglio n. 342
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 8 agosto 1978  
+Registro n. 6 Presidenza, foglio n. 41

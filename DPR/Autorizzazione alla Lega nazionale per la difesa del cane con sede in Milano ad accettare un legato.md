@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1970 n. 615
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1968 n. 815
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1970 n. 615
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1968 n. 815
 =============================================================
 
 Autorizzazione alla Lega nazionale per la difesa del cane, con sede in Milano, ad accettare un legato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-615. Decreto del Presidente della Repubblica 12 maggio 1970, col quale, sulla proposta del Ministro per la sanita', la Lega nazionale per la difesa del cane, con sede in Milano, viene autorizzata ad accettare un legato disposto dalla defunta Lampiano Emilia vedova Bragotti con testamento pubblico rogato dal notaio dott. Giorgio Caveglia in Torino in data 29 marzo 1969, al n. 80 di repertorio, consistente nella somma di L. 3.000.000.  
+815. Decreto del Presidente della Repubblica 3 maggio 1968, col quale, sulla proposta del Ministro per la sanita', la Lega nazionale per la difesa del cane, con sede in Milano, e' autorizzata ad accettare il legato disposto dalla defunta Margherita Comida vedova Biondo, con testamento olografo pubblicato in Palermo per atto notaio Polizzi del 14 febbraio 1966, consistente in una rendita mensile di L. 150.000 da utilizzarsi per il funzionamento del rifugio per i cani abbandonati sito in localita' "La Favorita" in Palermo.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 17 agosto 1970  
-Atti del Governo, registro n. 237, luglio n. 33. - CARUSO
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 16 luglio 1968  
+Atti del Governo, registro n. 221, foglio n. 26. - GRECO

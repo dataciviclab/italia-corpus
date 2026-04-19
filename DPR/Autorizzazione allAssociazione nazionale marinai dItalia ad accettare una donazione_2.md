@@ -1,19 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1958 n. 582
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 1144
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1958 n. 582
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 1144
+==============================================================
 
-Autorizzazione all'Associazione nazionale marinai d'Italia ad accettare una donazione.
---------------------------------------------------------------------------------------
+Autorizzazione all'Associazione nazionale marinai d'Italia, ad accettare una donazione.
+---------------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-582. Decreto del Presidente della Repubblica 2 maggio 1958, col quale, sulla proposta del Ministro per la difesa, l'Associazione nazionale marinai d'Italia viene autorizzata ad accettare una donazione.  
+1144. Decreto del Presidente della Repubblica 5 giugno 1968, col quale, sulla proposta del Ministro per la difesa, l'Associazione nazionale marinai d'Italia, con sede in Roma, viene autorizzata ad accettare dal sig. Mario Caporossi la donazione di un appartamento di tre vani ed accessori, situato al piano rialzato del fabbricato che sorge in Civitavecchia, via XVI Settembre, 19, del dichiarato valore di L. 612.000, come da atto pubblico 24 maggio 1967, n. 124.723 di repertorio, a rogito dott. Giuseppe Capparella, notaio in Civitavecchia.  
   
 Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 10 giugno 1958  
-Atti del Governo, registro n. 112, foglio n. 186. - RELLEVA
+Registrato alla Corte dei conti, addi' 11 novembre 1968  
+Atti del Governo, registro n. 223, foglio n. 110. - DI PRETORO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1235
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1974 n. 654
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1235
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1974 n. 654
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -10,47 +10,171 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, numero 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1933, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 137, 143, 269, 274, 279, 292, 300, 309 e 345, relativi alle tasse ed ai contributi dovuti dagli iscritti ai seminari ed ai corsi di perfezionamento e di specializzazione, annessi alla facolta' di scienze matematiche, fisiche e naturali, sono modificati nel modo seguente:  
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-All'art. 137, relativo al seminario di scienze biologiche, le parole: "una tassa di iscrizione il cui ammontare viene stabilito", si sostituiscono con: "i contributi stabiliti".  
-All'art. 143, relativo al seminario di scienze geologiche, le parole: "una tassa di iscrizione il cui ammontare viene stabilito", si sostituiscono con: "i contributi stabiliti".  
-All'art. 269, relativo al corso di perfezionamento in matematica ad indirizzo applicativo, le parole: "le tasse di iscrizione e le sopratasse vengono fissate", si sostituiscono con: "gli studenti versano i contributi fissati".  
-All'art. 274, relativo al corso di perfezionamento in matematica ad indirizzo didattico, le parole: "le tasse di iscrizione e le sopratasse vengono fissate", si sostituiscono con: "gli studenti versano i contributi fissati".  
-All'art. 279, relativo al corso di perfezionamento in matematica ad indirizzo scientifico, le parole: "le tasse di iscrizione e le sopratasse vengono fissate", si sostituiscono con: "gli studenti versano i contributi fissati".  
-All'art. 292, relativo al corso di specializzazione in studi talassografici, le parole: "Le tasse e", si sostituiscono con: "I contributi".  
-All'art. 300, relativo alla scuola di specializzazione in chimica analitica, le parole: "delle tasse", si sostituiscono con: "dei contributi".  
-All'art. 309, relativo alla scuola di specializzazione in chimica nucleare, si sostituisce l'intero testo con il seguente:  
+Art. 381 - e' modificato nel senso che l'ordinamento della scuola di specializzazione in neurochirurgia e' integrato nel modo seguente:   
   
-Gli iscritti sono tenuti a versare la tassa annuale di L. 50.000 in una unica rata, piu' gli eventuali contributi che verranno fissati dal consiglio di amministrazione su proposta del consiglio di facolta'.  
-All'art. 345, relativo alla scuola di perfezionamento in scienza delle macromolecole, le parole: "delle tasse", si sostituiscono con: "dei contributi".  
-L'art. 306, relativo all'ordinamento degli studi della scuola di specializzazione in chimica nucleare, e' modificato nel senso che e' aggiunto il seguente corso semestrale:  
-elementi di diritto e di legislazione sociale.  
+Scuola di specializzazione in neurochirurgia.   
+  
+La denominazione dell'insegnamento di "Clinica neurologica" relativo al 1° anno di corso viene cambiata in "Semeiotica e clinica neurologica".   
+Il primo comma successivo all'elenco degli insegnamenti del 4° anno di corso, e' abrogato e sostituito dal seguente:   
+"Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto nelle materie di cui ai numeri 1), 2), 3), 4), 5), 6), 7)".   
+Il comma relativo all'iscrizione alla scuola e' abrogato e sostituito dal seguente:   
+"Per l'iscrizione alla scuola costituisce titolo preferenziale la esibizione da parte del candidato di un attestato di frequenza effettiva di almeno un anno presso un istituto di patologia chirurgica o di clinica chirurgica".   
+E' inserito il seguente nuovo comma:   
+"Non sono consentite abbreviazioni di corso per qualsiasi motivo".   
+Dopo la frase "La frequenza alla scuola e' obbligatoria durante l'anno accademico" e' aggiunto il seguente nuovo comma:   
+"E' facolta' del direttore della scuola concedere una deroga a tale norma agli iscritti che prestino regolare servizio in una clinica neurochirurgica di una Universita' che non sia sede di scuola di specializzazione ed agli assistenti di ruolo di primariati neurochirurgici di ospedali regionali. Per queste due categorie di iscritti, il periodo di frequenza presso l'istituto sede della scuola di specializzazione puo' essere ridotto fino a non meno di un mese ogni anno".   
+Nello stesso articolo l'ordinamento della scuola di specializzazione in radiologia e' abrogato e sostituito dal seguente:   
+  
+Scuola di specializzazione in radiologia   
+  
+A) Specializzazione in radiologia.   
+La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia e' di quattro anni.   
+Gli insegnanti sono i seguenti:   
+  
+a) Matematica, fisica, nozioni di statistica e informativa (annuale) comprendente:   
+1) richiami di matematica e fisica generale;   
+2) costituzione della materia;   
+3) produzione, assorbimento e misura delle radiazioni;   
+4) statistica applicata alla medicina;   
+5) informatica e cibernetica applicate alla radiologia;   
+  
+b) Radiodiagnostica (triennale), comprendente:   
+1) principi generali di radiodiagnostica;   
+2) apparecchi, strumenti e tecnica radiodiagnostica;   
+3) tecnica e fisiologia applicate alla radiodiagnostica;   
+4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;   
+5) semeiotica radiologica;   
+6) diagnostica differenziale radiologica;   
+7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;   
+8) dimostrazioni di casistica clinica;   
+  
+c) Radiobiologia (annuale) comprendente:   
+1) radiobiologia generale;   
+2) danni da radiazioni e radiopatie;   
+  
+d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale), comprendente:   
+1) legislazione sanitaria applicata alla radiologia;   
+2) compiti e responsabilita' medico-legali del radiologo;   
+3) radioprotezione fisica e dosimetria ad essa connessa;   
+4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioproiezioni;   
+5) radioprotezione chimica;   
+6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici;   
+  
+e) Radioterapia e terapia fisica (triennale), comprendente:   
+1) radiobiologia applicata;   
+2) fondamenti generali di radioterapia e terapia fisica;   
+3) istopatologia speciale dei tumori;   
+4) nozioni sugli apparecchi e strumenti per la radioterapia;   
+5) tecnica e metodica radioterapica;   
+6) dosimetria;   
+7) clinica radioterapica;   
+8) fondamenti generali di chemioterapia oncologica;   
+9) chemioterapia clinica dei tumori e sua associazione alla radioterapia;.   
+10) dimostrazione di casistica clinica;   
+f) Medicina nucleare (biennale), comprendente:   
+1) elementi di medicina nucleare;   
+2) istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare;   
+3) dosimetria dei radioisotopi somministrati per via interna;   
+4) diagnostica con radioisotopi somministrati per via interna;   
+5) radioterapia metabolica;   
+6) dimostrazioni di casistica clinica.   
+  
+I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nei quattro anni di corso:   
+  
+1° Anno (tronco comune):   
+Matematica, fisica, nozioni di statistica ed informatica;   
+Radiobiologia;   
+Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;   
+Radiodiagnostica (1).   
+  
+2° Anno:   
+Radiodiagnostica (II);   
+Radioterapia e terapia fisica (1).   
+  
+3° Anno:   
+Radiodiagnostica (III);   
+Radioterapia e terapia fisica (II);   
+Medicina nucleare (I).   
+  
+4° Anno:   
+Radioterapia e terapia fisica (III);   
+Medicina nucleare (II).   
+  
+B) Specializzazione in radiologia diagnostica.   
+La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.   
+Gli insegnamenti sono i seguenti:   
+  
+a) Matematica, fisica, nozioni di statistica e di informatica (annuale) comprendente:   
+1) richiami di matematica e fisica generale;   
+2) costituzione della materia;   
+3) produzione, assorbimento e misura delle radiazioni;   
+4) statistica applicata alla medicina;   
+5) informatica e cibernetica applicate alla radiologia;   
+  
+b) Radiodiagnostica (triennale), comprendente:   
+1) principi generali di radiodiagnostica;   
+2) apparecchi, strumenti e tecnica radiodiagnostica;   
+3) tecnica e fisiologia applicate alla radiodiagnostica;   
+4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;   
+5) semeiotica radiologica;   
+6) diagnostica differenziale radiologica;   
+7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;   
+8) dimostrazioni di casistica clinica;   
+  
+c) Radiobiologia (annuale), comprendente:   
+1) radiobiologia generale;   
+2) danni da radiazioni e radiopatie;   
+  
+d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale), comprendente:   
+1) legislazione sanitaria applicata alla radiologia;   
+2) compiti e responsabilita' medico-legali del radiologo;   
+3) radioprotezione fisica e dosimetria ad essa connessa;   
+4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;   
+5) radioprotezione chimica;   
+6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.   
+I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:   
+  
+1° Anno (tronco comune):   
+Matematica, fisica, nozioni di statistica ed informatica;   
+Radiobiologia;   
+Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;   
+Radiodiagnostica (I).   
+  
+2° Anno:   
+Radiodiagnostica (II)   
+  
+3° Anno:   
+Radiodiagnostica (III).   
+  
+Per essere ammessi agli esami di diploma di radiologia e in radiologia diagnostica gli iscritti, oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia d'insegnamento ed elaborata una tesi scritta su un argomento radiologico concordato con il direttore della scuola.   
+Non e' consentita l'abbreviazione dei corsi, fatta eccezione per gli specializzandi in radiologia diagnostica che intendano conseguire il diploma di specializzazione in radiologia, i quali potranno essere ammessi al 3° o 4° anno del corso in radiologia, a giudizio del direttore della scuola, in base alla valutazione dei loro titoli.   
+Il numero degli iscritti e' stabilito in 15 per ogni anno di corso, per un totale di 53 iscritti (32 in radiologia e 21 in radiologia diagnostica).   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1977
+### Dato a Roma, addi' 28 ottobre 1974
 
 LEONE MALFATTI
 
-Visto, il Guardasigilli BONIFACIO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 18 luglio 1978
+Registrato alla Corte dei conti, addi' 7 dicembre 1974
 
-Registro n. 77 Istruzione, foglio n. 334
+Atti di Governo, registro n. 7, foglio n. 71. - SCIARRETTA

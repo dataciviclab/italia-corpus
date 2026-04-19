@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 gennaio 1986 n. 245
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 559
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 gennaio 1986 n. 245
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 559
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 ------------------------------------------------------------------------------
@@ -39,38 +39,32 @@ Art. 1
 ------
 
   
-Nell'art. 46, relativo al corso di laurea in economia e commercio, nell'elenco degli insegnamenti complementari sono inseriti i seguenti insegnamenti:  
-analisi e contabilita' dei costi;  
-economia degli impianti industriali;  
-storia regionale dell'eta' moderna.  
+Art. 147 - nell'elenco degli insegnamenti complementari della facolta' di ingegneria sono inseriti i seguenti insegnamenti:  
+metodologie metallurgiche;  
+meccanica delle vibrazioni;  
+strutture informative;  
+geologia applicata all'ingegneria.  
+Nel medesimo elenco sono soppressi i seguenti insegnamenti:  
+metodologie metallurgiche (semestrale);  
+meccanica delle vibrazioni (semestrale).  
 
 Art. 2
 ------
 
   
-Nell'art. 92, relativo al corso di laurea in medicina e chirurgia, nell'elenco degli insegnamenti complementari sono inseriti i seguenti insegnamenti:  
-patologia clinica;  
-semeiotica neurologica.  
-
-Art. 3
-------
-
-  
-Nell'art. 104, relativo al corso di laurea in chimica, nell'elenco degli insegnamenti complementari degli indirizzi organico-biologico e inorganico-chimico-fisico e' inserito l'insegnamento di "tecniche speciali organiche".  
-Nell'art. 105, relativo al corso di laurea in chimica industriale, nell'elenco degli insegnamenti complementari e' inserito l'insegnamento di "tecniche speciali organiche".  
+Art. 158 - nell'elenco degli insegnamenti complementari della facolta' di architettura e' inserito il seguente insegnamento:  
+tecnica delle costruzioni 11.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 gennaio 1986
+### Dato a Roma, addi' 16 giugno 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 19 maggio 1986
+Registrato alla Corte dei conti, addi' 4 ottobre 1983
 
-Registro n. 39 Istruzione, foglio n. 155
+Registro n. 65 Istruzione, foglio n. 7

@@ -1,146 +1,76 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1979 n. 896
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 925
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1979 n. 896
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 925
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-L'art. 97, relativo al corso di laurea in chimica, e' modificato nel senso che all'elenco degli insegnamenti complementari per l'indirizzo organico-biologico sono aggiunti i seguenti:  
-42) cristallografia;  
-43) chimica tossicologica;  
-44) spettroscopia elettronica ad alta energia;  
-45) fotochimica.  
-Nello stesso articolo, all'elenco degli insegnamenti complementari del corso di laurea in chimica, indirizzo inorganico-chimico-fisico, sono aggiunti i seguenti:  
-39) cristallografia;  
-40) chimica tossicologica;  
-41) spettroscopia elettronica ad alta energia;  
-42) fotochimica.  
-Dai suddetti elenchi l'insegnamento complementare di spettro-chimica e' soppresso.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-L'art. 98, relativo al corso di laurea in chimica industriale e' modificato nel senso che all'elenco degli insegnamenti complementari sono aggiunti i seguenti:  
-29) spettroscopia elettronica ad alta energia;  
-30) chimica delle fermentazioni e batteriologia industriale;  
-31) esercitazioni di analisi chimica applicata;  
-32) chimica macromolecolare;  
-33) biochimica industriale.  
-Dallo stesso elenco l'insegnamento di "chimica delle fermentazioni" e' soppresso.  
-
-Art. 3
-------
-
+Decreta:  
   
-L'art. 103, relativo al corso di laurea in fisica, e' modificato nel senso che all'elenco degli insegnamenti complementari sono aggiunti i seguenti:  
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-G.D.A. - complementi di fisica;  
-G.D.A. - meccanica dei fluidi;  
-G.D.A. - cristallografia;  
-G.D.A. - geologia;  
-G.D.A. - teoria ed applicazione delle macchine calcolatrici I;  
-G.D.A. - teoria ed applicazione delle macchine calcolatrici II;  
-G.D.A. - logica matematica II;  
-G.D.A. - matematica applicata I;  
-G.D.A. - matematica applicata II;  
-G.D.A. - calcolo delle probabilita' II;  
-G.D.A. - matematica combinatoria;  
-G.D.A. - analisi numerica III;  
-G.D.A. - teoria e metodi dell'ottimizzazione;  
-G.D.A. - fisica sanitaria;  
-G.D.A. - cosmologia.  
-
-Art. 4
-------
-
+Dopo l'art. 429 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi all'istituzione della seconda scuola di specializzazione in chirurgia, ed alla istituzione della scuola di specializzazione in chirurgia dell'apparato digerente.  
   
-L'art. 108, relativo al corso di laurea in scienze naturali, e' modificato nel senso che all'elenco degli insegnamenti complementari sono aggiunti i seguenti:  
-50) biologia delle popolazioni umane;  
-51) idrobiologia;  
-52) sedimentologia;  
-53) fitogeografia;  
-54) paleobotanica;  
-55) biologia del suolo;  
-56) ecologia vegetale.  
-Nello stesso elenco l'insegnamento di elettrofisiologia passa da semestrale ad annuale.  
-
-Art. 5
-------
-
+Scuola di specializzazione in chirurgia  
   
-L'art. 110, relativo al corso di laurea in scienze biologiche, e' modificato nel senso che all'elenco degli insegnamenti complementari sono aggiunti i seguenti:  
-54) biologia delle popolazioni umane;  
-55) embriologia molecolare;  
-56) strutturistica chimica;  
-57) fisiologia ed igiene del lavoro industriale;  
-58) virologia;  
-59) farmacologia;  
-60) storia della biologia;  
-61) ecologia vegetale.  
-Nello stesso elenco l'insegnamento di elettrofisiologia passa da semestrale ad annuale ed e' soppresso quelle di "embriologia chimica".  
-
-Art. 6
-------
-
+Art. 430. - E' istituita la seconda scuola di specializzazione in chirurgia facente capo alla seconda cattedra di clinica chirurgica generale e terapia chirurgica.  
+Art. 431. - Il numero massimo complessivo, degli iscritti alla scuola e' di dieci per ogni anno di corso, per un totale di cinquanta iscritti.  
+Art. 432. - La durata, i titoli di ammissione, l'ordinamento degli studi e le altre modalita' sono quelle riportate negli articoli da 424 a 429 dello statuto della Universita' di Roma e relativi alla scuola in chirurgia.  
   
-L'art. 112, relativo al corso di laurea in scienze geologiche, e' modificato nel senso che all'elenco degli insegna menti complementari sono aggiunti i seguenti:  
-49) sismologia (semestrale);  
-50) geomagnetismo (semestrale).  
-
-Art. 7
-------
-
+Scuola di specializzazione in chirurgia dell'apparato digerente  
   
-Il secondo comma dell'art. 116, relativo alle norme per il conseguimento di una nuova laurea, e' sostituite dal seguente:  
-"La facolta' non e' tenuta a convalidare le materie superate per la laurea precedente; quindi essa al riguardo si regolera' caso per caso, in base ai punti con i quali le materie stesse sono state superate ed al loro programma ed al curriculum degli studi presentato da richiedente".  
-
-Art. 8
-------
-
+Art. 433. - E' istituita la scuola di specializzazione in chirurgia dell'apparato digerente.  
+La durata del corso di studi per il conseguimento del diploma in chirurgia dell'apparato digerente e' di tre anni.  
+Art. 434. - Gli insegnamenti impartiti nella scuola sono cosi' suddivisi in tre anni di corso:  
+1° Anno:  
+Anatomia chirurgica dell'apparato digerente;  
+Anatomia e istologia patologica dell'apparato digerente;  
+Semeiotica chirurgica;  
+Patologia chirurgica.  
+2° Anno:  
+Patologia chirurgica;  
+Semeiotica chirurgica;  
+Radiologia dell'apparato digerente;  
+Biochimica dell'apparato digerente;  
+Terapia chirurgica dell'apparato digerente.  
+3° Anno:  
+Clinica e diagnostica differenziale delle malattie dell'apparato digerente;  
+Anestesiologia;  
+Terapia chirurgica;  
+Traumatologia dell'apparato digerente.  
   
-L'art. 431, relativo all'elenco degli insegnamenti della scuola di perfezionamento in scienze biologiche, e' modificato nel senso che l'insegnamento di "biologia delle razze umane" e' sostituito da quello di "biologia delle popolazioni umane".  
+Art. 435. - Il numero massimo complessivo degli iscritti alla scuola e' di dieci per ogni anno di corso, per un totale di trenta iscritti.  
+Al termine del corso gli allievi dovranno sostenere un esame sulle materie che nel corso dell'anno sono state oggetto di insegnamento.  
+Al termine del triennio l'allievo dovra' sostenere davanti all'apposita commissione una discussione sopra un caso clinico, oltre alla discussione di una tesi su di un argomento attinente alle materie insegnate.  
+Durante i tre anni del corso gli allievi sono tenuti a frequentare, come interni, la II clinica chirurgica dell'universita' od anche altri reparti universitari od ospedalieri che dovranno con essa essere convenzionati.  
+Alla fine del corso, gli allievi dovranno dimostrare di aver personalmente eseguito un certo numero di interventi di chirurgia digestiva, il cui numero e tipo sara' precisato nel regolamento della scuola.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e del decreto della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1979
+### Dato a Roma, addi' 31 ottobre 1969
 
-PERTINI VALITUTTI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 26 aprile 1980
+Registrato alla Corte dei conti, addi' 11 dicembre 1969
 
-Registro n. 38 Istruzione, foglio n. 24
+Atti del Governo, registro n. 230, foglio n. 145. - CARUSO

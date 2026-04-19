@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 luglio 1959 n. 720
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 887
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 luglio 1959 n. 720
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 887
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -10,99 +10,36 @@ Modificazioni allo statuto dell'Universita' degli studi di Roma.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1).350, modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 38. Agli insegnamenti complementari del corso di laurea in economia e commercio e' aggiunto quello di: "tecnica delle ricerche di mercato e della distribuzione generale".  
-  
-Art. 39, relativo alla propedeuticita' degli esami dei diversi insegnamenti nel corso di laurea in economia e commercio, e' cosi' modificato:  
-Non si puo essere ammessi  
-a sostenere Se non si e superato l'esame  
-l'esame di: di:  
-  
-Diritto amministrativo Istituzioni di diritto privato  
-Istituzioni di diritto pubblico Diritto commerciale Istituzioni di diritto privato  
-Istituzioni di diritto pubblico Economia politica I  
-Diritto del lavoro Istituzioni di diritto privato  
-Istituzioni di diritto pubblico Economia politica I  
-Diritto della navigazione Istituzioni di diritto privato  
-Istituzioni di diritto pubblico Diritto internazionale Istituzioni di diritto privato  
-Istituzioni di diritto pubblico Economia e politica agraria Economia politica II  
-Statistica II  
-Economia politica II Economia politica I  
-Statistica I  
-Matematica generale  
-Matematica finanziaria I Matematica generale  
-Matematica finanziaria II Matematica finanziaria I  
-Statistica I  
-Politica economica e Statistica II  
-finanziaria Economia politica II  
-Scienza delle finanze e diritto finanziario  
-Ragioneria generale e Ragioneria generale e applicataI applicata II  
-Scienza delle finanze Economia politica II  
-e diritto finanziario Statistica II  
-Istituzioni di diritto pubblico Statistica II Statistica I  
-Economia politica I  
-Storia economica Economia politica II  
-Statistica I  
-Tecnica bancaria e Ragioneria generale applicata II professionale  
-Diritto commerciale  
-Economia politica, II  
-Tecnica industriale e Matematica finanziaria I  
-commerciale Economia politica II  
-Diritto commerciale  
-Merceologia  
-Ragioneria generale e  
-applicata I-II  
-Tecnica amministrativa dei Statistica II  
-pubblici servizi Economia politica II.  
-  
-Art. 64. - Agli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto quello di: "storia della letteratura italiana moderna e contemporanea".  
-  
-Art. 65. - Agli insegnamenti complementari del corso di laurea in pedagogia e' aggiunto quello di: "storia della letteratura italiana moderna e contemporanea".  
-  
-Art. 66. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto quello di: "storia della letteratura italiana moderna e contemporanea".  
-  
-Art. 79. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di: "tecnica fisiologica", "anestesiologia" e "fisica nucleare applicata alla medicina". Sono invece soppressi gli insegnamenti complementari di: "biologia delle razze umane", "scienza dell'ortogenesi" e "medicina preventiva dei lavoratori e psicotecnica".  
-Dopo l'art. 79 e' aggiunto il seguente nuovo articolo (con il conseguente spostamento della numerazione degli articoli successivi) relativo alla propedeuticita' degli esami del corso di laurea in medicina e chirurgia.  
-  
-Art. 80. - Ai fini della propedeuticita' degli esami dei diversi insegnamenti vale la seguente tabella:  
-Non si puo essere ammessi  
-a sostenere se non si e superato l'esame l'esame di: di:  
-  
-Clinica otorinolaringoiatrica Patologia speciale chirurgica  
-Insegnamenti del 6° anno Anatomia ed istologia  
-patologica  
-compreso quello di clinica  
-ortopedica  
-Patologia generale Fisiologia umana  
-Patologia speciale chirurgica  
-Patologia generale  
-Patologia speciale medica Patologia generale.  
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 47, relativo al corso di laurea in scienze statistiche e demografiche e' modificato nel senso che il terzo comma e' soppresso.   
+Art. 48, relativo al corso di laurea in scienze statistiche ed attuariali e' modificato nel senso che il terzo comma e' soppresso.   
+Art. 81. - All'elenco degli istituti annessi alla facolta' di medicina e chirurgia e' aggiunto il seguente:   
+Istituto di II clinica delle malattie nervose e mentali.   
+Art. 86, relativo alle disposizioni riguardanti le abbreviazioni di corso nei casi di nuove immatricolazioni per laureati in altri corsi di laurea o di passaggio al corso di laurea in medicina e chirurgia e' soppresso.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 luglio 1959
+### Dato a Roma, addi' 31 ottobre 1972
 
-GRONCHI
+LEONE SCALFARO
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 9 settembre 1959
+Registrato alla Corte dei conti, addi' 9 gennaio 1973
 
-Atti del Governo, registro n. 120, foglio n. 110. - VILLA
+Atti di Governo, registro n. 255, foglio n. 11. - VALENTINI

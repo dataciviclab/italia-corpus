@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 settembre 1971 n. 867
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1965 n. 1451
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 settembre 1971 n. 867
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1965 n. 1451
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,9 +18,7 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -32,46 +30,155 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 18. - All'elenco degli insegnamenti complementari del corso di laurea in economica e commercio sono aggiunti i seguenti:
+Art. 121. - La parte relativa agli insegnamenti della Scuola di specializzazione in Ostetricia e Ginecologia e' abrogata e sostituita dalla seguente:
 
-Diritto penale commerciale;
+Gli insegnamenti impartiti nella Scuola sono i seguenti:
 
-Calcolo delle probabilita';
+1° Anno:
 
-Economia monetaria e creditizia;
+Elementi di genetica e di eugenica;
 
-Complementi di matematica per economisti.
+Anatomia normale ed embriologia dell'apparato genitale femminile;
 
-Art. 58. - Nell'elenco degli insegnamenti fondamentali del corso di laurea in fisica (II biennio) per l'indirizzo didattico l'insegnamento di "Istituzioni di fisica matematica" e' soppresso e sostituito dal seguente "Storia della fisica".
+Fisiologia dell'apparato genitale femminile: endocrinologia;
 
-Art. 83. - Nell'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie l'insegnamento di "Bachicoltura ed apicoltura" passa da semestrale ad annuale.
+Fisiologia ostetrica;
+
+Diagnostica ostetrica;
+
+Clinica ostetrica e ginecologica.
+
+2° Anno:
+
+Tecnica operatoria ostetrica;
+
+Diagnostica ginecologica;
+
+Tecnica diagnostica di laboratorio nel campo ostetrico e ginecologico, esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);
+
+Clinica ostetrica e ginecologica.
+
+3° Anno:
+
+Anatomia patologica ostetrica e ginecologica;
+
+Istologia normale e patologica nel campo della specialita';
+
+Puericoltura prenatale;
+
+Emoterapia nel campo ostetrico e ginecologico;
+
+Anestesia e analgesia nel campo ostetrico e ginecologico;
+
+Tecnica operatoria ginecologica;
+
+Clinica ostetrica e ginecologica.
+
+4° Anno:
+
+Puericoltura post-natale e malattie del neonato;
+
+Medicina legale applicata alla specialita';
+
+Diagnostica Roentgen, radioterapia in ostetrica e ginecologia;
+
+Clinica ostetrica e ginecologia (esame alla fine del 4° anno);
+
+Urologia ginecologica;
+
+Chirurgia addominale extra-genitale.
+
+Nello stesso articolo il penultimo comma e' cosi' modificato: "Per tali conferenze e' obbligatoria la frequenza".
+
+Gli articoli 124 e 125 relativi alla Scuola di specializzazione in Oculistica sono abrogati e sostituiti dai seguenti con il conseguente spostamento della successiva numerazione.
+
+Scuola di specializzazione in Oculistica
+
+Art. 124. - La Scuola ha la durata di quattro anni.
+
+Il numero complessivo degli iscritti ai quattro anni del corso e' di venticinque.
+
+Art. 125. - Gli insegnamenti impartiti dalla Scuola sono i seguenti:
+
+1° Anno:
+
+1) Anatomia e istologia dell'apparato oculare;
+
+2) Nozioni di embriologia e genetica oculare;
+
+3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;
+
+4) Nozioni di ottica fisiologica, esame della refrazione;
+
+5) Microbiologia ed igiene oculare.
+
+2° Anno:
+
+1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmologia, perimetria, campimetria, edottometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);
+
+2) Farmacologia oculare e terapia fisica;
+
+3) Anatomia patologica oculare;
+
+4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea, della sclera).
+
+3° Anno:
+
+1) Patologia e clinica oculare (malattie dell'urea, della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);
+
+2) Anomalie e patologia della motilita' oculare e della visione binoculare;
+
+3) Affezioni O.R.L. e occhio;
+
+4) Tecnica operatoria - 1ª parte.
+
+4° Anno:
+
+1) Neuroftalmologia;
+
+2) Malattie oculari in rapporto ad affezioni generali;
+
+3) Malattie professionali;
+
+4) Tecnica operatoria - 2ª parte;
+
+5) Tesi di specializzazione.
+
+Art. 126. - Gli esami di profitto si danno alla fine di ciascun anno di corso.
+
+Alla fine del corso gli iscritti, oltre a presentare la dissertazione scritta ed a sostenere la relativa discussione, devono sostenere una prova pratica sull'ammalato.
+
+Art. 199. - All'elenco degli insegnamenti del secondo anno della Scuola di specializzazione in Oncologia sono aggiunti i seguenti:
+
+"Diagnosi e terapia dei tumori cutanei";
+
+"Diagnosi e terapia dei tumori del cavo orale".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 18 settembre 1971
+Dato a Roma, addi' 30 ottobre 1965
 
 SARAGAT
 
-MISASI
+GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 26 ottobre 1971 Atti del Governo, registro n. 244, foglio n. 185. - CARUSO
+alla Corte dei conti, addi' 30 dicembre 1965 Atti del Governo, registro n. 199, foglio n. 25. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -79,24 +186,81 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 18. - All'elenco degli insegnamenti complementari del corso di laurea in economica e commercio sono aggiunti i seguenti:  
-Diritto penale commerciale;  
-Calcolo delle probabilita';  
-Economia monetaria e creditizia;  
-Complementi di matematica per economisti.  
-Art. 58. - Nell'elenco degli insegnamenti fondamentali del corso di laurea in fisica (II biennio) per l'indirizzo didattico l'insegnamento di "Istituzioni di fisica matematica" e' soppresso e sostituito dal seguente "Storia della fisica".  
-Art. 83. - Nell'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie l'insegnamento di "Bachicoltura ed apicoltura" passa da semestrale ad annuale.  
+Art. 121. - La parte relativa agli insegnamenti della Scuola di specializzazione in Ostetricia e Ginecologia e' abrogata e sostituita dalla seguente:  
+Gli insegnamenti impartiti nella Scuola sono i seguenti:  
+1° Anno:  
+Elementi di genetica e di eugenica;  
+Anatomia normale ed embriologia dell'apparato genitale femminile;  
+Fisiologia dell'apparato genitale femminile: endocrinologia;  
+Fisiologia ostetrica;  
+Diagnostica ostetrica;  
+Clinica ostetrica e ginecologica.  
+2° Anno:  
+Tecnica operatoria ostetrica;  
+Diagnostica ginecologica;  
+Tecnica diagnostica di laboratorio nel campo ostetrico e ginecologico, esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);  
+Clinica ostetrica e ginecologica.  
+3° Anno:  
+Anatomia patologica ostetrica e ginecologica;  
+Istologia normale e patologica nel campo della specialita';  
+Puericoltura prenatale;  
+Emoterapia nel campo ostetrico e ginecologico;  
+Anestesia e analgesia nel campo ostetrico e ginecologico;  
+Tecnica operatoria ginecologica;  
+Clinica ostetrica e ginecologica.  
+4° Anno:  
+Puericoltura post-natale e malattie del neonato;  
+Medicina legale applicata alla specialita';  
+Diagnostica Roentgen, radioterapia in ostetrica e ginecologia;  
+Clinica ostetrica e ginecologia (esame alla fine del 4° anno);  
+Urologia ginecologica;  
+Chirurgia addominale extra-genitale.  
+Nello stesso articolo il penultimo comma e' cosi' modificato: "Per tali conferenze e' obbligatoria la frequenza".  
+Gli articoli 124 e 125 relativi alla Scuola di specializzazione in Oculistica sono abrogati e sostituiti dai seguenti con il conseguente spostamento della successiva numerazione.  
+  
+Scuola di specializzazione in Oculistica  
+  
+Art. 124. - La Scuola ha la durata di quattro anni.  
+Il numero complessivo degli iscritti ai quattro anni del corso e' di venticinque.  
+Art. 125. - Gli insegnamenti impartiti dalla Scuola sono i seguenti:  
+1° Anno:  
+1) Anatomia e istologia dell'apparato oculare;  
+2) Nozioni di embriologia e genetica oculare;  
+3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;  
+4) Nozioni di ottica fisiologica, esame della refrazione;  
+5) Microbiologia ed igiene oculare.  
+2° Anno:  
+1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmologia, perimetria, campimetria, edottometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);  
+2) Farmacologia oculare e terapia fisica;  
+3) Anatomia patologica oculare;  
+4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea, della sclera).  
+3° Anno:  
+1) Patologia e clinica oculare (malattie dell'urea, della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);  
+2) Anomalie e patologia della motilita' oculare e della visione binoculare;  
+3) Affezioni O.R.L. e occhio;  
+4) Tecnica operatoria - 1ª parte.  
+4° Anno:  
+1) Neuroftalmologia;  
+2) Malattie oculari in rapporto ad affezioni generali;  
+3) Malattie professionali;  
+4) Tecnica operatoria - 2ª parte;  
+5) Tesi di specializzazione.  
+Art. 126. - Gli esami di profitto si danno alla fine di ciascun anno di corso.  
+Alla fine del corso gli iscritti, oltre a presentare la dissertazione scritta ed a sostenere la relativa discussione, devono sostenere una prova pratica sull'ammalato.  
+Art. 199. - All'elenco degli insegnamenti del secondo anno della Scuola di specializzazione in Oncologia sono aggiunti i seguenti:  
+"Diagnosi e terapia dei tumori cutanei";  
+"Diagnosi e terapia dei tumori del cavo orale".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 settembre 1971
+### Dato a Roma, addi' 30 ottobre 1965
 
-SARAGAT MISASI
+SARAGAT GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 26 ottobre 1971
+Registrato alla Corte dei conti, addi' 30 dicembre 1965
 
-Atti del Governo, registro n. 244, foglio n. 185. - CARUSO
+Atti del Governo, registro n. 199, foglio n. 25. - VILLA

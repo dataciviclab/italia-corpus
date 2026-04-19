@@ -1,140 +1,95 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 779
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1970 n. 427
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 779
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1970 n. 427
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Cagliari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
+  
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
   
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-"L'art. 157, relativo alla scuola di specializzazione in odontostomatologia, e' modificato nel senso che il numero degli iscritti e' stabilito in dieci per anno per un totale complessivo di trenta iscritti per l'intero corso di studi".  
-
-Art. 2
-------
-
   
-Gli articoli 199, 200 e 201, relativi alla scuola di specializzazione in ortognatodonzia, sono soppressi e sostituiti dai seguenti:  
+Art. 51. - E' abrogato e sostituito dal seguente:  
+"La facolta' di scienze matematiche, fisiche e naturali conferisce le seguenti lauree:  
+in matematica;  
+in fisica;  
+in chimica;  
+in chimica industriale;  
+in scienze naturali;  
+in scienze biologiche;  
+in scienze geologiche.  
+Dopo l'art. 55 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente nuovo articolo relativo all'istituzione del corso di laurea in chimica industriale annesso alla facolta' di scienze matematiche, fisiche e naturali.  
   
-Scuola di specializzazione in ortognatodonzia  
+Laurea in chimica industriale  
   
-Art. 199. - La scuola di specializzazione in ortognatodonzia ha sede presso la cattedra di ortognatodonzia dell'Universita' di Cagliari e conferisce il diploma di specialista in ortognatodonzia.  
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazioni.  
-Il numero massimo degli allievi e' di sei per anno di corso e complessivamente di diciotto iscritti per l'intero corso di studi.  
-L'ammissione al corso avviene per titoli ed esami.  
-Art. 200. - Le materie di insegnamento sono le seguenti:  
-  
-1) embriologia e anatomia dell'apparato stomatomatico;  
-2) fisiologia dell'apparato stomatognatico;  
-3) farmacologia clinica;  
-4) patologia odontostomatologica;  
-5) chirurgia odontostomatologica;  
-6) odontoiatria conservativa;  
-7) radiologia odontostomatologica;  
-8) stomatologia preventiva;  
-9) ortognatodonzia;  
-10) odontotecnica;  
-11) semeiotica ortognatodontica;  
-12) cefalometria clinica;  
-13) pedodonzia;  
-14) metallurgia e merceologia in ortognatodonzia;  
-15) pediatria auxologica applicata;  
-16) paradontologia;  
-17) chirurgia ortognatodontica;  
-18) genetica applicata;  
-19) statistica applicata alla ricerca scientifica;  
-20) medicina legale e delle assicurazioni in odontostomatologia; esercitazioni cliniche, di laboratorio e di cefalometria.  
-  
-La didattica del primo anno di corso e' particolarmente dedicata alla preparazione stomatologica di base, essenziale alla formazione dello specialista in ortognatodonzia.  
-  
-Suddivisione delle materie di insegnamento nei tre anni di corso  
-  
-1° Anno:  
-1) embriologia e anatomia dell'apparato stomatognatico;  
-2) fisiologia dell'apparato stomatognatico (I anno biennale);  
-3) farmacologia clinica;  
-4) patologia odontostomatologica;  
-5) chirurgia odontostomatologica;  
-6) odontoiatria conservativa;  
-7) radiologia odontostomatologica;  
-8) stomatologia preventiva;  
-9) ortognatodonzia (I anno triennale);  
-10) odontotecnica;  
-esercitazioni cliniche;  
-esercitazioni di laboratorio.  
-  
-2° Anno:  
-1) fisiologia dell'apparato stomatognatico (II anno biennale);  
-2) semeiotica ortognatodontica;  
-3) ortognatodonzia (II anno triennale);  
-4) cefalometria clinica (I anno biennale);  
-5) pedodonzia;  
-6) metallurgia e merceologia in ortognatodonzia;  
-7) pediatria auxologica applicata;  
-8) paradontologia;  
-esercitazioni cliniche;  
-esercitazioni di laboratorio.  
-  
-3° Anno:  
-1) ortognatodonzia (III anno triennale);  
-2) cefalometria clinica (II anno biennale);  
-3) chirurgia ortognatodontica;  
-4) genetica applicata;  
-5) statistica applicata alla ricerca scientifica;  
-6) medicina legale e delle assicurazioni in odontostomatologia;  
-esercitazioni cliniche;  
-esercitazioni di laboratorio;  
-esercitazioni di cefalometria clinica.  
-  
-I corsi sono integrati da seminari su argomenti di interesse interdisciplinare.  
-Art. 201.- La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria per l'intero anno scolastico. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
-Le vacanze sono conformi al calendario universitario con un solo mese completo estivo (agosto).  
-Gli esami di profitto teorici e pratici sono sostenuti alla fine di ogni anno in un'unica sessione.  
-L'iscrizione agli anni successivi e' subordinata al superamento degli esami. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.  
-Alla fine del terzo anno, dopo aver superato gli esami di profitto, gli allievi sono ammessi a sostenere l'esame di diploma che consiste nella discussione di una tesi scelta su un argomento proposto dall'insegnante della materia su cui verte l'argomento e approvato dal direttore della scuola.  
-Ogni iscritto deve provvedere al corredo personale di strumenti.  
+Art. 56. - La durata del corso di studi per la laurea in chimica industriale e' di cinque anni, divisi in un biennio di studi propedeutici ed in un triennio di studi di applicazione.  
+Il titolo di ammissione e' quello previsto dalle vigenti disposizioni di legge.  
+Biennio di studi propedeutici.  
+Gli insegnamenti fondamentali sono quelli indicati all'art. 55 per il biennio di studi propedeutici alla laurea in chimica.  
+Triennio di studi di applicazione:  
+Sono insegnamenti fondamentali:  
+1) Chimica fisica (biennale);  
+2) Fisica tecnica;  
+3) Chimica industriale (biennale);  
+4) Esercitazioni di analisi chimica quantitativa;  
+5) Esercitazioni di chimica fisica (biennale);  
+6) Esercitazioni di chimica industriale (biennale);  
+7) Impianti industriali chimici con elementi di disegno (biennale);  
+8) Elementi di diritto, di economia e di legislazione sociale.  
+Sono insegnamenti complementari:  
+1) Chimica degli idrocarburi;  
+2) Chimica fisica industriale;  
+3) Chimica macromolecolare;  
+4) Chimica organica industriale;  
+5) Chimica teorica;  
+6) Elettrochimica;  
+7) Misure elettriche (corso speciale per chimici e chimici industriali);  
+8) Scienza dei metalli;  
+9) Statistica industriale;  
+10) Spettroscopia molecolare;  
+11) Tecnologie elettrochimiche.  
+Tutti gli insegnamenti biennali comportano esami distinti e sono da considerare l'uno propedeutico all'altro ai fini dell'esame di profitto.  
+Gli esami di "chimica organica II parte" e "chimica fisica I parte" debbono precedere tutti gli esami del triennio di applicazione.  
+Per ottenere l'iscrizione al triennio di applicazione, lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fissati per il biennio di studi propedeutici.  
+All'atto di iscrizione al 3° anno, o comunque non oltre un mese da tale iscrizione, lo studente deve dichiarare per iscritto quale gruppo di corsi complementari, facente parte di un orientamento fissato dalla facolta', intende frequentare nel triennio di applicazione salvo restando la liberta' dello studente di scelta fuori da tali orientamenti, per la quale pero' dovra' fare motivata richiesta di convalida al consiglio di facolta'.  
+La scelta fatta in tal modo e' impegnativa e non potra' subire variazioni durante il corso degli studi, se non nel caso che dei corsi complementari prescelti non vengano piu' impartiti per il corso di laurea in chimica industriale.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali prescritti per il triennio di applicazione ed almeno quattro da lui scelti tra i complementari, nonche' aver frequentato, come interno, uno dei laboratori dove attendera' alla preparazione della tesi di laurea.  
+L'esame di laurea consiste nella discussione di una tesi scritta e nell'esposizione di due memorie di letterature tecniche (tesine) fra tre scelte dal candidato allo inizio dell'internato di laurea e tali da indicare la capacita' del candidato di affrontare problemi tecnici anche in campi diversi da quello prescelto per la tesi di laurea.  
+I laureati in chimica potranno essere ammessi al quarto anno di corso della laurea in chimica industriale, e dovranno seguire i corsi e sostenere gli esami nelle seguenti materie fondamentali:  
+1) Chimica industriale (biennale);  
+2) Impianti industriali chimici con elementi di disegno (biennale);  
+3) Elementi di diritto, di economia e di legislazione sociale;  
+4) Fisica tecnica;  
+5) Esercitazioni di chimica industriale (biennale).  
+L'esame di "Fisica tecnica", eventualmente gia' sostenuto per la laurea in chimica, potra' essere convalidato agli effetti della iscrizione al quarto anno di corso per la laurea in chimica industriale".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1979
+### Dato a Roma, addi' 7 febbraio 1970
 
-PERTINI VALITUTTI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 14 febbraio 1980
+Registrato alla Corte dei conti, addi' 30 giugno 1970
 
-Registro n. 10 Istruzione, foglio n. 393
+Atti del Governo, registro n. 236, foglio n. 80. - CARUSO

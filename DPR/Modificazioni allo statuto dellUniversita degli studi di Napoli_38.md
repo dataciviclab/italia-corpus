@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1972 n. 415
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1410
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1972 n. 415
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1410
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,138 +10,105 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA.  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successivi;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli da 410 a 415, relativi alla "Scuola di specializzazione in malattie infettive e tropicali" che muta la denominazione in quella di "Scuola di specializzazione in malattie infettive", sono abrogati e sostituiti dai seguenti:  
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Scuola di specializzazione in malattie infettive  
+Dopo l'art. 39, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione di un "Seminario di studi per la protezione e la sicurezza sociali" annesso alla Facolta' di giurisprudenza, con il conseguente spostamento della numerazione degli articoli successivi.   
   
-Art. 410. - Presso la clinica delle malattie infettive dell'Universita' di Napoli e' istituita la scuola di specializzazione in malattie infettive, la quale ha lo scopo di conferire adeguata competenza teorica e pratica ai laureati in medicina e chirurgia, i quali intendono conseguire il diploma di specializzazione in malattie infettive.  
-La durata del corso e' di tre anni.  
-Direttore della scuola e' il titolare della cattedra di malattie infettive.  
-Art. 411. - Gli iscritti hanno l'obbligo di frequentare le lezioni e le esercitazioni. Il tirocinio pratico verra' svolto nelle corsie e nei laboratori della clinica delle malattie infettive, sotto la guida didattica dei docenti della scuola di specializzazione.  
-Art. 412. - Il numero massimo degli iscritti e' stabilito nella misura di venti allievi per anno. L'ammissione alla scuola sara' subordinata all'esito di un concorso che potra' comprendere prove scritte, orali e pratiche. Al termine del concorso verra' stabilita una graduatoria, sulla scorta dei risultati delle prove e dei titoli presentati.  
-Art. 413. - Le materie di insegnamento sono:  
-1° Anno:  
-Epidemiologia generale delle malattie infettive;  
-Nozioni generali di batteriologia, di virologia, di parassitologia, di immunologia;  
-Tecnica batteriologica, virologica, parassitologica, immunologica applicata alle malattie infettive (1° anno).  
+Seminario di studi per la protezione e la sicurezza sociali   
   
-2° Anno:  
-Patologia e clinica delle malattie infettive (1° anno);  
-Semiologia e diagnostica delle malattie infettive;  
-Anatomia patologica delle malattie infettive;  
-Tecnica batteriologica, virologica, parassitologica, immunologica (2° anno).  
+Art. 40. - E' istituito un Seminario per la protezione e la sicurezza sociali, annesso alla Facolta' di giurisprudenza dell'Universita' di Napoli.   
   
-3° Anno:  
-Patologia e clinica delle malattie infettive (2° anno);  
-Malattie infettive dei paesi caldi;  
-Farmacologia e terapia generale delle malattie infettive;  
-Legislazione sanitaria e malattie infettive.  
+Art. 41. - Il Seminario ha lo scopo di favorire - e concorrervi esso stesso - la ricerca scientifica sui problemi connessi al suo scopo istituzionale, a mezzo di corsi di lezioni, conferenze, esercitazioni, formazioni di statistiche e pubblicazioni di lavori redatti da docenti assistenti e studenti.   
   
-Art. 414. - Al termine di ciascun anno di corso gli allievi sono tenuti a sostenere i seguenti esami:  
-1° anno: un esame sulle discipline n. 1 e 2;  
-2° anno: un esame sulle discipline n. 2, 3 e 4;  
-3° anno: un esame sulle discipline n. 1, 2, 3 e 4.  
-Art. 415. - Alla fine dei tre anni di corso gli specializzandi dovranno superare una prova orale teorica ed una prova clinica prima di essere ammessi all'esame di diploma.  
-L'esame di diploma consistera' nella discussione di una tesi scritta su argomenti di malattie infettive.  
-Gli articoli da 416 a 426, relativi alla "Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio", sono abrogati e sostituiti dai seguenti:  
+Art. 42. - La direzione del Seminario sara' affidata ad un direttore, scelto dal Consiglio della, Facolta' di giurisprudenza, fra studiosi di chiara fama nelle discipline giuridiche o economiche, attinenti ai corsi del Seminario, che od abbiano avuto titolo di professore di ruolo.   
+L'incarico e' conferito per un quadriennio ed e' rinnovabile.   
   
-Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio  
+Art. 43. - Nel Seminario saranno impartiti corsi di lezioni distinti in:   
+Corsi biennali di:   
+a) Sociologia;   
+b) Economia teoretica;   
+c) Diritto del lavoro e legislazione sociali comparate;   
+d) Storia delle dottrine politiche ed economiche.   
   
-Art. 416. - E' istituita presso l'Universita' di Napoli la scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio.  
-Art. 417. - La scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio ha la durata di tre anni ed ha sede presso la clinica tisiologica della Universita' degli studi di Napoli.  
-Art. 418. - Possono accedere alla scuola i laureati in medicina e chirurgia; il numero massimo degli iscritti e' di quaranta per ogni anno accademico. L'ammissione viene stabilita mediante un colloquio.  
-Art. 4.19. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);  
-Patologia della tubercolosi polmonare ed extrapolmonare;  
-Patologia delle malattie dell'apparato respiratorio;  
-Fisiologia e fisiopatologia generale dell'apparato respiratorio;  
-Semeiotica fisica e funzionale dell'apparato respiratorio;  
-Microbiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.  
+Corsi annuali di:   
+a) Ordinamento della produzione e degli scambi;   
+b) Statistica del lavoro;   
+c) Organizzazione aziendale;   
+d) Ordinamenti comparati di assistenza e previdenza sociali.   
   
-2° Anno:  
-Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);  
-Clinica della tubercolosi (biennale);  
-Clinica delle malattie dell'apparato respiratorio (biennale);  
-Fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio.  
-Broncologia;  
-Radiologia dell'apparato respiratorio;  
-Profilassi della tubercolosi;  
-Igiene e legislazione sociale.  
+Altri corsi integrativi potranno essere annualmente istituiti.   
   
-3° Anno:  
-Clinica della tubercolosi (biennale);  
-Clinica delle malattie dell'apparato respiratorio (biennale);  
-Chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;  
-Terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;  
-Terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.  
+Art. 44. - Gli insegnamenti saranno impartiti da professori universitari o studiosi di chiara fama, scelti dal Consiglio della Facolta' di giurisprudenza, su proposta del direttore del Seminario.   
   
-I corsi di insegnamento sono integrati da turni obbligatori di internato nei reparti di degenza e nei laboratori di ricerca; da esercitazioni pratiche; da conferenze.  
-Art. 420. - Gli iscritti hanno l'obbligo di frequenza alle lezioni, alle esercitazioni, alle conferenze scientifiche, nonche' ai turni di internato.  
-Art. 421. - Gli allievi hanno l'obbligo di sostenere nel corso dell'anno accademico un colloquio sul programma delle materie di insegnamento del rispettivo anno.  
-Art. 422. - Alla fine dell'anno accademico l'allievo dovra' sostenere un esame unico su tutte le materie d'insegnamento del corso.  
-Per accedere ai corsi successivi e' obbligatorio il superamento di tutti gli esami del corso precedente.  
-Art. 423. - Alla fine del 3° anno, oltre agli esami speciali, l'iscritto dovra' sostenere un esame di diploma.  
-I candidati al diploma dovranno presentare una dissertazione scritta su un argomento assegnato dal direttore o da uno degli insegnanti della scuola.  
-Art. 424. - Per quanto non previsto valgono le norme generali relative alle scuole di specializzazione contenute nello statuto dell'universita'.  
-Dopo l'art. 470, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della "Scuola di specializzazione in gerontologia e geriatria".  
+Art. 45. - Il direttore disporra' in materia di esercitazioni, conferenze e quanto altro occorre per il buon rendimento del Seminario ed il profitto degli iscritti.   
   
-Scuola di specializzazione in gerontologia e geriatria  
+Art. 46. - Possono iscriversi al Seminario laureati in giurisprudenza, scienze politiche e scienze economiche e commerciali.   
+Gli aspiranti potranno essere invitati ad un colloquio preventivo al fine di decidere insindacabilmente circa la loro ammissione.   
+Gli iscritti al Seminario sono tenuti a versare annualmente un contributo il cui importo sara' stabilito, di volta in volta, dal Consiglio di amministrazione, su proposta del direttore del Seminario, approvata dal Consiglio di Facolta'.   
   
-Art. 471. - La scuola ha la durata di tre anni.  
-Il numero degli allievi da ammettere ogni anno accademico non puo' essere superiore a dieci per ogni anno di corso. La scelta dei candidati ammessi al primo anno di corso sara' fatta all'inizio dell'anno accademico in base ai titoli di studio ed al risultato di una prova scritta di esame.  
-Art. 472. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-Biologia della senescenza (annuale);  
-Fisiopatologia della senescenza (biennale: I);  
-Semeiologia della senescenza (biennale: I);  
-Anatomia patologica (biennale: I);  
-Farmacologia e farmacoterapia (annuale).  
+Art. 47. - Alla fine del biennio, previo colloquio sulle materie di insegnamento e discussione di un lavoro originale che abbiano ottenuto - l'uno e l'altro - giudizio favorevole degli insegnanti del Seminario, agli iscritti verra' rilasciato un attestato di frequenza e di profitto. -   
   
-2° Anno:  
-Fisiopatologia della senescenza (biennale: II);  
-Semeiologia della senescenza (biennale: II);  
-Anatomia patologica (biennale: II);  
-Clinica geriatrica e terapia (biennale: I);  
-Chirurgia geriatrica (annuale);  
-Radiologia e radioterapia (annuale);  
-Neurologia (annuale).  
+Art. 48. - Ai mezzi finanziari si provvede con contributi degli iscritti e di Enti privati ed ogni altro provento dell'attivita' del Seminario.   
+Dopo l'art. 228, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della "Scuola di perfezionamento in Storia dell'arte medioevale e moderna", con il conseguente spostamento della numerazione degli articoli successivi.   
   
-3° Anno:  
-Clinica geriatrica e terapia (biennale: II);  
-Tecniche di riabilitazione (annuale);  
-Psichiatria (annuale);  
-Medicina sociale (annuale).  
+Scuola di perfezionamento in storia dell'arte medioevale e moderna   
+Art. 229 - E' istituita presso la Facolta' di lettere e filosofia dell'Universita' di Napoli una "Scuola di perfezionamento in storia dell'arte medioevale 8 moderna", annessa all'Istituto di storia dell'arte.   
+Essa ha lo scopo di approfondire nei giovani la naturale disposizione agli studi di storia dell'arte e di fornirli di un diploma che valga a garantirne la preparazione storico-artistica e tecnica nella carriera dell'insegnamento e della tutela dei monumenti, gallerie ed opere d'arte.   
   
-I corsi di insegnamento sopra indicati sono tutti obbligatori e saranno completati da corsi di esercitazioni pratiche.  
-Per l'iscrizione all'anno successivo occorre aver superato tutti gli esami dell'anno precedente.  
-Art. 473. - Alla fine di ogni anno di corso avranno luogo i relativi esami speciali.  
-Al termine dei tre anni di corso per conseguire il diploma di specializzazione gli iscritti dovranno presentare una dissertazione scritta su argomenti di gerontologia e geriatria e dovranno sostenere un esame pratico dinanzi ad una commissione formata da cinque insegnanti della scuola e presieduta dal direttore della scuola.  
+Art. 230. - E' titolo necessario per l'ammissione alla Scuola di perfezionamento la laurea in lettere o in filosofia.   
+  
+Art. 231. - La Scuola ha la durata di due anni.   
+  
+Sono materie di insegnamento, le seguenti:   
+1) Storia dell'arte classica;   
+2) Storia dell'arte medioevale;   
+3) Storia dell'arte del rinascimento e moderna;   
+4) Studio dell'architettura;   
+5) Museografia;   
+6) Storia del restauro e della falsificazione;   
+7) Estetica e critica d'arte.   
+  
+Gli esami di Storia dell'arte classica, di Storia dell'arte medioevale, di Storia dell'arte del rinascimento e moderna sono biennali, gli altri annuali.   
+Non potranno ottenere il diploma di perfezionamento gli allievi che non abbiano sostenuto tutti gli esami prescritti.   
+  
+Art. 232. - Direttore della Scuola di perfezionamento e' il direttore dell'Istituto di storia dell'arte il Consiglio della scuola e' formato da tutti i docenti delle materie prescritte. La Commissione dell'esame finale e' costituita dal Consiglio della scuola.   
+  
+Art. 233. - Prima dell'inizio di ogni anno il Consiglio della scuola stabilira' il programma di studio, lo svolgimento delle esercitazioni e gli eventuali viaggi di istruzione.   
+  
+Art. 234. - Per conseguire il diploma di perfezionamento, gli allievi dovranno presentare una dissertazione scritta, frutto di studi e di ricerche personali in una delle materie storico-artistiche.   
+Il tema della dissertazione sara', scelto dall'allievo d'accordo con il docente della materia ed approvato dal direttore della Scuola.   
+La dissertazione dovra' essere discussa dall'allievo dinanzi al Consiglio della scuola.   
+  
+Art. 235. - In seno alla Scuola di perfezionamento in storia dell'arte possono essere istituite borse di studio e premi di incoraggiamento per i giovani migliori, allo scopo di favorire le ricerche e i viaggi di istruzione all'interno e all'estero.   
+Gli allievi migliori della Scuola possono essere anche segnalati per scambi internazionali, presso Scuole, Istituti ed Universita' straniere.   
+  
+Art. 236.- Secondo il parere del Consiglio, possono essere iscritti al secondo anno della Scuola di perfezionamento, allievi provenienti da altre scuole purche' abbiano regolarmente frequentato il primo anno e sostenuto gli esami relativi.   
+  
+Art. 237. - Gli iscritti alla Scuola di perfezionamento sono tenuti a pagare le tasse e sopratasse, la tassa di diploma nonche' tutti gli altri contributi stabiliti per gli studenti iscritti alla Facolta' di lettere e filosofia della Universita' di Napoli.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 giugno 1972
+### Dato a Roma, addi' 19 ottobre 1960
 
-LEONE MISASI
+GRONCHI
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 31 luglio 1972
+Registrato alla Corte dei conti, addi' 28 novembre 1960
 
-Atti del Governo, registro n. 250, foglio n. 98. - CARUSO
+Atti del Governo, registro n. 131, foglio n. 103. - VILLA

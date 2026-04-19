@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 749
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1971 n. 460
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 749
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1971 n. 460
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,134 +18,132 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che l'art. 155, relativo alla scuola di specializzazione in malattie dell'apparato digerente, e' abrogato e sostituito dal seguente:
+
+Scuola di specializzazione in malattie dell'apparato digerente
+
+Art. 155. - Scuola di specializzazione in malattie dell'apparato digerente.
+
+Durata: 3 anni di corso ed 1 anno di tirocinio pratico.
+
+Numero massimo di iscritti: cinque per ogni anno di corso (totale numero quindici iscritti).
+
+Piano di studi:
+
+1° Anno:
+
+Anatomia patologica;
+
+Fisiopatologia;
+
+Chimica clinica;
+
+Semeiotica fisica e strumentale;
+
+Clinica medica.
+
+2° Anno:
+
+Semeiotica fisica e strumentale;
+
+Semeiotica radiologica;
+
+Malattie del tubo digerente;
+
+Clinica medica.
+
+3° Anno:
+
+Malattie del fegato e del pancreas;
+
+Clinica medica.
+
+Per le materie biennali (semeiotica) e triennali (clinica medica) sara' dato un esame alla fine del biennio o triennio.
+
+A queste materie fondamentali obbligatorie potranno essere aggiunte materie complementari con corsi semestrali in numero non superiore a sei per totalita' del corso.
+
+Ai tre anni di corso e' aggiunto un quarto anno di tirocinio pratico da svolgere in una clinica medica od in un reparto ospedaliero.
+
+Al termine del 4° anno si e' ammessi all'esame finale che permette di conseguire il diploma di specialista in malattie dell'apparato digerente.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 11 maggio 1971
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: COLOMBO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 16 luglio 1971 Atti del Governo, registro n. 243, foglio n. 19. - VALENTINI
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 147 - l'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola di specializzazione in odontoiatria e protesi dentaria muta la denominazione in quella di scuola di specializzazione in odontostomatologia.  
-Allo stesso elenco sono aggiunte le scuole di specializzazione in ematologia generale (clinica e laboratorio) ed in chirurgia dell'apparato digerente ed endoscopia digestiva.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-L'art. 183, primo comma, relativo alla scuola di specializzazione in odontoiatria e protesi dentaria, che muta la denominazione in quella di scuola di specializzazione in odontostomatologia, e' soppresso e sostituito dal seguente:  
+Decreta:  
   
-Scuola di specializzazione in odontostomatologia. Durata tre anni.  
-Numero massimo di iscritti: dodici per ogni anno di corso per un totale di trentasei iscritti.  
-
-Art. 3
-------
-
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che l'art. 155, relativo alla scuola di specializzazione in malattie dell'apparato digerente, e' abrogato e sostituito dal seguente:  
   
-Dopo l'art. 196, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in ematologia generale (clinica e laboratorio) e in chirurgia dell'apparato digerente ed endoscopia digestiva.  
+Scuola di specializzazione in malattie dell'apparato digerente  
   
-Scuola di specializzazione in ematologia generale (clinica e laboratorio)  
-  
-Art. 197. - La scuola di specializzazione in ematologia generale (clinica e laboratorio) ha sede presso il reparto di ematologia generale e conferisce il diploma di specialista in ematologia generale (clinica e laboratorio).  
-Art. 198. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Art. 199. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Art. 200. - La durata del corso e' di tre anni e non e' suscettibile di abbreviazione.  
-Art. 201. - Il numero massimo degli allievi e' di quattro per anno di corso e complessivamente di dodici iscritti per l'intero corso di studi.  
-Art. 202. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 203. - Le materie di insegnamento sono le seguenti:  
+Art. 155. - Scuola di specializzazione in malattie dell'apparato digerente.  
+Durata: 3 anni di corso ed 1 anno di tirocinio pratico.  
+Numero massimo di iscritti: cinque per ogni anno di corso (totale numero quindici iscritti).  
+Piano di studi:  
 1° Anno:  
-morfologia e morfogenesi normale e patologica del sangue e degli organi emopoietici (1° anno);  
-genetica ematologica;  
-fisiopatologia della coagulazione e della emostasi;  
-fisiopatologia ematologica (1° anno);  
-fisiopatologia del plasma;  
-biochimica ematologica;  
-tecniche di laboratorio inerenti all'ematologia (primo anno).  
+Anatomia patologica;  
+Fisiopatologia;  
+Chimica clinica;  
+Semeiotica fisica e strumentale;  
+Clinica medica.  
 2° Anno:  
-morfologia e morfogenesi normale e patologica del sangue e degli organi emopoietici (2° anno);  
-fisiopatologia ematologica (2° anno);  
-immunoematologia;  
-anatomia ed istologia patologica delle emopatie e fondamenti di oncologia;  
-patologia speciale ematologica (1° anno);  
-clinica e terapia ematologica (1° anno);  
-tecniche di laboratorio inerenti all'ematologia (secondo anno). 3° Anno:  
-clinica e terapia ematologica (2° anno);  
-nozioni di radiobiologia e di medicina nucleare applicata alla ematologia;  
-radiodiagnostica e radioterapia in clinica ematologica;  
-patologia speciale ematologica (2° anno);  
-terapia ematologica sistematica;  
-terapia trasfusionale;  
-tecniche di laboratorio inerenti all'ematologia (terzo anno).  
-Art. 204. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
-Art. 205. - Alla fine di ogni corso gli iscritti per e ammessi agli anni di corso successivi, devono rare le prove di esame sulle materie impartite durante l'anno.  
-Al termine del corso di studi per il conseguimento del diploma di specialista in ematologia generale (clinica e laboratorio) devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
-  
-Scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva  
-  
-Art. 206. - La scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva ha sede presso la 2ª cattedra di clinica chirurgica generale e terapia chirurgica e conferisce il diploma di specialista in chirurgia dell'apparato digerente ed endoscopia digestiva.  
-Art. 207. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Art. 208. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Art. 209. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.  
-Art. 210. - Il numero massimo degli allievi e' di cinque per anno di corso e complessivamente di venticinque iscritti per l'intero corso di studi.  
-Art. 211. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 212. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) anatomia descrittiva e topografica specialistica (1° corso);  
-2) fisiopatologia e semeiotica funzionale (1° corso);  
-3) anatomia ed istologia patologica (1° corso);  
-4) patologia chirurgica (1° corso).  
-2° Anno:  
-5) anatomia descrittiva, e topografica specialistica (2° corso);  
-6) fisiopatologia e semeiotica funzionale (2° corso);  
-7) anatomia ed istologia patologica (2° corso);  
-8) patologia chirurgica (2° corso);  
-9) semeiotica chirurgica (1° corso);  
-10) radiologia e medicina nucleare (1° corso);  
-11) endoscopia digestiva e diagnostica e terapeutica (1° corso).  
+Semeiotica fisica e strumentale;  
+Semeiotica radiologica;  
+Malattie del tubo digerente;  
+Clinica medica.  
 3° Anno:  
-12) patologia chirurgica (3° corso);  
-13) semeiotica chirurgica (2° corso);  
-14) radiologia e medicina nucleare (2° corso);  
-15) endoscopia digestiva e diagnostica terapeutica (2° corso);  
-16) clinica e terapia chirurgica (1° corso);  
-17) tecniche operatorie (1° corso).  
-4. Anno:  
-18) semeiotica chirurgica (3° corso);  
-19) radiologia e medicina nucleare (3° corso);  
-20) endoscopia digestiva diagnostica e terapeutica (3° corso);  
-21) clinica e terapia chirurgica (2° corso);  
-22) tecniche operatorie (2° corso);  
-23) anestesia e rianimazione;  
-24) riabilitazione in chirurgia digestiva.  
-5° Anno:  
-25) clinica chirurgica e terapia chirurgica (3° corso);  
-26) tecniche operatorie (3° corso);  
-27) chirurgia d'urgenza dell'apparato digerente;  
-28) chirurgia pediatrica dell'apparato digerente;  
-29) terapia intensiva.  
-Art. 213. - La frequenza alle lezioni, alle esercitazioni pratiche nei reparti, e' obbligatoria per l'ammissione agli esami; il superamento degli esami di ciascun anno e' condizione indispensabile per l'iscrizione all'anno successivo.  
-Art. 214. - Al termine del quinquennio per ottenere il diploma, i candidati devono presentare una dissertazione scritta su un argomento di chirurgia dell'apparato digerente ed endoscopia digestiva da discutere davanti all'apposita commissione e devono inoltre sostenere una prova clinica.  
+Malattie del fegato e del pancreas;  
+Clinica medica.  
+Per le materie biennali (semeiotica) e triennali (clinica medica) sara' dato un esame alla fine del biennio o triennio.  
+A queste materie fondamentali obbligatorie potranno essere aggiunte materie complementari con corsi semestrali in numero non superiore a sei per totalita' del corso.  
+Ai tre anni di corso e' aggiunto un quarto anno di tirocinio pratico da svolgere in una clinica medica od in un reparto ospedaliero.  
+Al termine del 4° anno si e' ammessi all'esame finale che permette di conseguire il diploma di specialista in malattie dell'apparato digerente.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi o dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1979
+### Dato a Roma, addi' 11 maggio 1971
 
-PERTINI VALITUTTI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 31 gennaio 1980
+Registrato alla Corte dei conti, addi' 16 luglio 1971
 
-Registro n. 7 Istruzione, foglio n. 382
+Atti del Governo, registro n. 243, foglio n. 19. - VALENTINI

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1972 n. 845
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1955 n. 958
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1972 n. 845
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1955 n. 958
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con i [regi decreti 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2169); [31 ottobre 1929, n. 2481](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1929-10-31;2481); [30 ottobre 1930, n. 1858](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1858); [22 ottobre 1931, n. 1422](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-22;1422); [27 ottobre 1932, n. 2082](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-10-27;2082); [13 dicembre 1934, n. 2404](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-13;2404); [1 ottobre 1936, n. 2020](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2020); [13 luglio 1939, n. 1168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-07-13;1168); [26 ottobre 1940, numero 2029](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2029); [24 ottobre 1942, n. 1785, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1785) [21 aprile 1949, n. 451](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;451); [31 ottobre 1950, n. 1293](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1293); [11 maggio 1951, n. 633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-05-11;633); [23 gennaio 1952, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;66); [25 giugno 1953, n. 753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-06-25;753); [30 luglio 1953, n. 758](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;758); [25 agosto 1953, n. 857](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;857); [25 agosto 1953, n. 992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;992); [14 settembre 1954, n. 1198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1198) e [11 aprile 1955, n. 621](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-04-11;621);
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,389 +18,188 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduta la [legge 3 novembre 1954, n. 1085](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-11-03;1085);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito: il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
 Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
+--------
 
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 174. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, sono aggiunte le scuole in "Gerontologia e geriatria", in "Medicina nucleare", in "Cardioangiochirurgia" di nuova istituzione.
-
-Il secondo comma dell'art. 190 relativo alla scuola di specializzazione in oculistica e' modificato nel senso che il numero complessivo degli iscritti e' stabilito in ventotto (28) per i quattro anni di corso.
-
-Dopo l'art. 223 sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Gerontologia e geriatria" in "Medicina nucleare", in "Cardioangiochirurgia".
-
-Scuola di specializzazione in gerontologia e geriatria
-
-Art. 224. - La scuola di specializzazione ha sede presso l'istituto di clinica medica II.
-
-La durata del corso di specializzazione e' di tre anni.
-
-La frequenza e' obbligatoria.
-
-Il numero degli iscritti viene fissato in nove posti per tutti i tre anni.
-
-Art. 225. - Il piano di studio della scuola comprende i seguenti insegnamenti:
-
-Biologia della senescenza (annuale);
-
-Fisiopatologia della senescenza (biennale);
-
-Semeiologia della senescenza (biennale);
-
-Anatomia patologica (biennale);
-
-Farmacologia e farmacoterapia (annuale);
-
-Clinica geriatrica e terapia (biennale);
-
-Chirurgia geriatrica (annuale);
-
-Radiologia e radioterapia (annuale);
-
-Neurologia (annuale);
-
-Tecniche di riabilitazione (annuale);
-
-Psichiatria (annuale);
-
-Medicina sociale (annuale).
-
-La ripartizione dei dodici insegnamenti nei tre anni di corso avverra' secondo il seguente schema:
-
-1° Anno:
-
-1) Biologia della senescenza;
-
-2) Fisiopatologia della senescenza 1° corso);
-
-3) Semeiologia della senescenza (1° corso);
-
-4) Anatomia patologica (1° corso);
-
-5) Farmacologia e farmacoterapia.
-
-2° Anno:
-
-1) Fisiopatologia della senescenza (2° corso);
-
-2) Semeiologia della senescenza (2° corso);
-
-3) Anatomia patologica (2° corso);
-
-4) Clinica geriatrica e terapia (1° corso);
-
-5) Chirurgia geriatrica;
-
-6) Radiologia e radioterapia;
-
-7) Neurologia.
-
-3° Anno:
-
-1) Clinica geriatrica e terapia (2° corso);
-
-2) Tecniche di riabilitazione;
-
-3) Psichiatria;
-
-4) Medicina sociale.
-
-Art. 226. - Durante i tre anni di corso sono previste inoltre conferenze di aggiornamento su problemi speciali.
-
-L'ammissione alla scuola avverra' per titoli ed esami.
-
-Il direttore della scuola, al di fuori dei docenti incaricati ufficialmente, puo' invitare studiosi competenti ad impartire lezioni e conferenze, su argomenti di speciale interesse gerontologico-geriatrico.
-
-Per ottenere l'iscrizione alla scuola di specializzazione occorre presentare all'ufficio di segreteria della scuola entro il 30 novembre:
-
-a) domanda redatta in carta legale indirizzata al rettore;
-
-b) certificato di laurea riportante i voti conseguiti in ogni singolo esame.
-
-Scuola di specializzazione in medicina nucleare
-
-Art. 227. - La scuola di specializzazione in medicina nucleare ha la finalita' di fornire una preparazione specifica, teorica e pratica, per l'impiego diagnostico e per quello terapeutico dei radionuclidi.
-
-La sede della scuola e' presso la II clinica medica, il corso degli studi nella scuola ha la durata di 3 anni accademici.
-
-Durante i tre anni di corso sono previste conferenze di aggiornamento su problemi speciali.
-
-Gli insegnamenti sono impartiti in collaborazione dalla II clinica medica e dall'istituto di radiologia medica dell'Universita' di Bari.
-
-Alla scuola possono iscriversi i laureati in medicina e chirurgia.
-
-L'ammissione alla scuola avverra' per titoli ed esami.
-
-Il numero degli iscritti nei tre anni di corso non potra' essere superiore a nove, tre per ogni anno. Alla fine di ogni anno di corso saranno tenuti gli esami relativi agli insegnamenti impartiti.
-
-Per il conseguimento del diploma ogni allievo dovra' sostenere, davanti all'apposita commissione, la discussione di una tesi scritta su di un argomento di medicina nucleare.
-
-La direzione della scuola viene assunta, ad anni alterni, dal direttore della II clinica medica e dal direttore dell'istituto di radiologia dell'Universita' di Bari, i quali concordano preventivamente ogni anno il programma.
-
-I direttori della scuola, al di fuori dei docenti incaricati ufficialmente, possono invitare studiosi competenti ad impartire lezioni e conferenze su argomenti di speciale interesse specialistico.
-
-Per ottenere l'iscrizione alla scuola di specializzazione occorre presentare all'ufficio di segreteria della scuola entro il 30 novembre:
-
-a) domanda redatta in carta legale indirizzata al rettore;
-
-b) certificato di laurea riportante i voti conseguiti in ogni singolo esame.
-
-Art. 228. - Le materie di insegnamento, riportato secondo i diversi anni di corso, sono le seguenti:
-
-1° Anno:
-
-Fondamenti di matematica e di statistica;
-
-Fisica nucleare e delle radiazioni;
-
-Tecniche per le misure di radioattivita';
-
-Dosimetria.
-
-2° Anno:
-
-Teoria dei traccianti;
-
-Elementi di radiochimica;
-
-Applicazione diagnostica I;
-
-Elementi di radiobiologia.
-
-3° Anno:
-
-Applicazione diagnostica II;
-
-Applicazioni terapeutiche;
-
-Radioprotezione e legislazione.
-
-Scuola di specializzazione in cardioangiochirurgia
-
-Art. 229. - Possono aspirare all'iscrizione alla scuola di specializzazione in cardioangiochirurgia i laureati in medicina e chirurgia che siano in possesso del diploma di specializzazione in chirurgia generale o che dimostrino di aver frequentato a titolo ufficiale ed in modo continuativo un istituto universitario di chirurgia generale o una divisione ospedaliera di chirurgia generale per almeno due anni.
-
-Il numero complessivo degli specializzandi non puo' essere superiore a quindici.
-
-L'ammissione alla scuola avverra' in seguito a concorso per titoli ed esami.
-
-La data del concorso verra' notificata nell'albo della scuola in tempo utile.
-
-La durata del corso e' di tre anni.
-
-Non saranno consentite abbreviazioni di corso.
-
-La scuola ha sede presso la clinica chirurgica. Reparto di cardioangiochirurgia (Centro di cardiochirurgia).
-
-Gli iscritti alla scuola hanno l'obbligo di internato presso il reparto cardiochirurgico (corsie, diagnostica, sala operatoria; trattamento intensivo) per tutta la durata dei corsi e di frequenza alle lezioni, conferenze speciali ed esercitazioni.
-
-Art. 230. - Gli insegnamenti fondamentali sono i seguenti:
-
-1° Anno:
-
-Embriologia, anatomia descrittiva e topografica dell'apparato cardiovascolare;
-
-Fisiologia dell'apparato cardiovascolare;
-
-Anatomia patologica dell'apparato cardiovascolare;
-
-Semeiotica e diagnostica delle cardiopatie chirurgiche (clinica strumentale, radiologica e di laboratorio) 1° anno;
-
-Semeiotica e diagnostica angiologica;
-
-Patologia e clinica cardiologica, 1° anno;
-
-Principi e tecnica della circolazione extra-corporea;
-
-Nozioni di ingegneria medica.
-
-2° Anno:
-
-Semeiotica e diagnostica delle cardiopatie chirurgiche (clinica, strumentale, radiologica e di laboratorio), 2° anno;
-
-Patologia e clinica cardiologica, 2° anno;
-
-Patologia e clinica angiologica;
-
-Terapia chirurgica e tecnica operatoria, 1° anno;
-
-Anestesia e rianimazione.
-
-3° Anno:
-
-Patologia e clinica cardiologica pediatrica;
-
-Terapia chirurgica e tecnica operatoria, 2° anno;
-
-Trattamento intensivo.
-
-L'esame di diploma consiste nella discussione di una dissertazione scritta su argomento concordato con il direttore della scuola.
-
-Il presente decreto, munita del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farlo osservare.
-
-Dato a Roma, addi' 28 ottobre 1972
-
-LEONE
-
-SCALFARO
-
-Vista, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 21 dicembre 1972 Atti di Governo, registro n. 254, foglio n. 43. - CARUSO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito: il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Dopo l'art. 55, sono aggiunti i seguenti nuovi articoli con il conseguente spostamento della numerazione degli articoli successivi.  
   
-Decreta:   
+Facolta' di magistero.  
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 174. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, sono aggiunte le scuole in "Gerontologia e geriatria", in "Medicina nucleare", in "Cardioangiochirurgia" di nuova istituzione.   
-Il secondo comma dell'art. 190 relativo alla scuola di specializzazione in oculistica e' modificato nel senso che il numero complessivo degli iscritti e' stabilito in ventotto (28) per i quattro anni di corso.   
-Dopo l'art. 223 sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Gerontologia e geriatria" in "Medicina nucleare", in "Cardioangiochirurgia".   
+Art. 56. - La Facolta' di magistero conferisce:  
+a) la laurea in materie letterarie;  
+b) la laurea in pedagogia;  
+c) il diploma di abilitazione alla vigilanza nelle scuole elementari.  
   
-Scuola di specializzazione in gerontologia e geriatria   
+Laurea in materie letterarie.  
   
-Art. 224. - La scuola di specializzazione ha sede presso l'istituto di clinica medica II.   
-La durata del corso di specializzazione e' di tre anni.   
-La frequenza e' obbligatoria.   
-Il numero degli iscritti viene fissato in nove posti per tutti i tre anni.   
-Art. 225. - Il piano di studio della scuola comprende i seguenti insegnamenti:   
+Art. 57. - La durata del corso degli studi per la laurea in materie letterarie e' di quattro anni.  
+Sono titoli di ammissione il diploma di abilitazione magistrale e concorso.  
+Sono insegnamenti fondamentali:  
+1) Lingua e letteratura italiana (triennale);  
+2) Lingua e letteratura latina (triennale);  
+3) Storia (triennale);  
+4) Geografia (triennale);  
+5) Pedagogia;  
+6) Storia della filosofia;  
+7) Lingua e letteratura moderna straniera (biennale) a scelta tra lingua e letteratura francese, spagnola, tedesca e inglese.  
+Sono insegnamenti complementari:  
+1) Grammatica latina;  
+2) Filologia romanza;  
+3) Filologia germanica;  
+4) Istituzioni di diritto pubblico e legislazione scolastica;  
+5) Storia dell'arte medioevale e moderna;  
+6) Biologia delle razze umane;  
+7) Storia della grammatica e della lingua italiana;  
+8) Storia della musica;  
+9) Storia della lingua italiana;  
+10) Estetica;  
+11) Archeologia cristiana;  
+12) Letteratura cristiana antica.  
+Il concorso di ammissione consiste:  
+a) nella valutazione del voti riportati, agli esami per il conseguimento del diploma di abilitazione magistrale, nel gruppo delle materie letterarie;  
+b) in una prova scritta di cultura generale, per cui sono concesse sei ore di tempo.  
+Il terzo anno di corso di "geografia" deve essere differenziato come corso di applicazione.  
+Nel corso di "storia" (triennale) un anno deve essere dedicato alla storia romana, un anno alla storia medioevale ed un anno alla storia moderna, alternativamente.  
+Lo studente deve sostenere una prova scritta di traduzione latina, una della lingua straniera scelta ed una di cultura generale.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari.  
+Art. 58. - E' necessario osservare le seguenti precedenze di esami:  
+a) la prova scritta di traduzione dall'italiano in latino deve essere superata prima dell'ultimo esame orale di lingua e letteratura latina;  
+b) la prova scritta di traduzione dalla lingua straniera scelta deve essere superata prima dell'ultimo esame orale sulla lingua e letteratura straniera corrispondente;  
+c) la prova scritta di cultura generale deve essere superata prima dell'ultimo esame orale di lingua e letteratura italiana.  
   
-Biologia della senescenza (annuale);   
-Fisiopatologia della senescenza (biennale);   
-Semeiologia della senescenza (biennale);   
-Anatomia patologica (biennale);   
-Farmacologia e farmacoterapia (annuale);   
-Clinica geriatrica e terapia (biennale);   
-Chirurgia geriatrica (annuale);   
-Radiologia e radioterapia (annuale);   
-Neurologia (annuale);   
-Tecniche di riabilitazione (annuale);   
-Psichiatria (annuale);   
-Medicina sociale (annuale).   
-La ripartizione dei dodici insegnamenti nei tre anni di corso avverra' secondo il seguente schema:   
-1° Anno:   
-1) Biologia della senescenza;   
-2) Fisiopatologia della senescenza 1° corso);   
-3) Semeiologia della senescenza (1° corso);   
-4) Anatomia patologica (1° corso);   
-5) Farmacologia e farmacoterapia.   
-2° Anno:   
-1) Fisiopatologia della senescenza (2° corso);   
-2) Semeiologia della senescenza (2° corso);   
-3) Anatomia patologica (2° corso);   
-4) Clinica geriatrica e terapia (1° corso);   
-5) Chirurgia geriatrica;   
-6) Radiologia e radioterapia;   
-7) Neurologia.   
-3° Anno:   
-1) Clinica geriatrica e terapia (2° corso);   
-2) Tecniche di riabilitazione;   
-3) Psichiatria;   
-4) Medicina sociale.   
-Art. 226. - Durante i tre anni di corso sono previste inoltre conferenze di aggiornamento su problemi speciali.   
-L'ammissione alla scuola avverra' per titoli ed esami.   
-Il direttore della scuola, al di fuori dei docenti incaricati ufficialmente, puo' invitare studiosi competenti ad impartire lezioni e conferenze, su argomenti di speciale interesse gerontologico-geriatrico.   
-Per ottenere l'iscrizione alla scuola di specializzazione occorre presentare all'ufficio di segreteria della scuola entro il 30 novembre:   
-a) domanda redatta in carta legale indirizzata al rettore;   
-b) certificato di laurea riportante i voti conseguiti in ogni singolo esame.   
+Laurea in pedagogia.  
   
-Scuola di specializzazione in medicina nucleare   
+Art. 59. - La durata del corso degli studi per la laurea in pedagogia e' di quattro anni.  
+Sono titoli di ammissione il diploma di abilitazione magistrale e concorso.  
+Sono insegnamenti fondamentali:  
+1) Lingua e letteratura italiana (biennale);  
+2) Lingua e letteratura latina (biennale);  
+3) Storia della filosofia (biennale);  
+4) Filosofia (biennale);  
+5) Pedagogia (triennale);  
+6) Storia (biennale);  
+7) Lingua e letteratura moderna straniera (biennale) a scelta tra lingua e letteratura francese, tedesca e inglese.  
+Sono insegnamenti complementari:  
+1) Filologia romanza;  
+2) Filologia germanica;  
+3) Istituzioni di diritto pubblico e legislazione scolastica;  
+4) Psicologia;  
+5) Storia dell'arte medioevale e moderna;  
+6) Biologia delle razze umane;  
+7) Estetica;  
+8) Storia della pedagogia italiana;  
+9) Storia delle dottrine politiche;  
+10) Psicologia dell'eta' evolutiva;  
+11) Storia del cristianesimo.  
+Il concorso di ammissione consiste:  
+a) nella valutazione dei voti riportati, agli esami per il conseguimento del diploma di abilitazione magistrale, nella filosofia e nella pedagogia;  
+b) in una prova scritta di cultura generale, per cui sono concesse sei ore di tempo.  
+Nel corso di "storia," (biennale) un anno deve essere dedicato alla storia medioevale ed un anno alla storia moderna alternativamente.  
+Lo studente deve sostenere una prova scritta di italiano, una di traduzione latina, una delle lingue straniere a scelta ed una di cultura generale sulle discipline filosofiche.  
+Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari.  
+Art. 60. - E' necessario osservare le seguenti precedenze di esami:  
+a) la prova scritta di italiano deve essere superata prima del secondo esame orale di lingua e letteratura italiana;  
+b) la prova scritta di traduzione dal latino in italiano deve essere superata prima del secondo esame orale di lingua e letteratura latina;  
+c) la prova scritta di traduzione dalla lingua straniera scelta deve essere superata prima del secondo esame orale sulla lingua e letteratura straniera corrispondente;  
+d) la prova di cultura generale sulle discipline filosofiche deve essere superata prima dell'ultimo esame orale di pedagogia.  
   
-Art. 227. - La scuola di specializzazione in medicina nucleare ha la finalita' di fornire una preparazione specifica, teorica e pratica, per l'impiego diagnostico e per quello terapeutico dei radionuclidi.   
-La sede della scuola e' presso la II clinica medica, il corso degli studi nella scuola ha la durata di 3 anni accademici.   
-Durante i tre anni di corso sono previste conferenze di aggiornamento su problemi speciali.   
-Gli insegnamenti sono impartiti in collaborazione dalla II clinica medica e dall'istituto di radiologia medica dell'Universita' di Bari.   
-Alla scuola possono iscriversi i laureati in medicina e chirurgia.   
-L'ammissione alla scuola avverra' per titoli ed esami.   
-Il numero degli iscritti nei tre anni di corso non potra' essere superiore a nove, tre per ogni anno. Alla fine di ogni anno di corso saranno tenuti gli esami relativi agli insegnamenti impartiti.   
-Per il conseguimento del diploma ogni allievo dovra' sostenere, davanti all'apposita commissione, la discussione di una tesi scritta su di un argomento di medicina nucleare.   
-La direzione della scuola viene assunta, ad anni alterni, dal direttore della II clinica medica e dal direttore dell'istituto di radiologia dell'Universita' di Bari, i quali concordano preventivamente ogni anno il programma.   
-I direttori della scuola, al di fuori dei docenti incaricati ufficialmente, possono invitare studiosi competenti ad impartire lezioni e conferenze su argomenti di speciale interesse specialistico.   
-Per ottenere l'iscrizione alla scuola di specializzazione occorre presentare all'ufficio di segreteria della scuola entro il 30 novembre:   
-a) domanda redatta in carta legale indirizzata al rettore;   
-b) certificato di laurea riportante i voti conseguiti in ogni singolo esame.   
-Art. 228. - Le materie di insegnamento, riportato secondo i diversi anni di corso, sono le seguenti:   
-1° Anno:   
-Fondamenti di matematica e di statistica;   
-Fisica nucleare e delle radiazioni;   
-Tecniche per le misure di radioattivita';   
-Dosimetria.   
-2° Anno:   
+Diploma di abilitazione alla vigilanza nelle scuole elementari.  
   
-Teoria dei traccianti;   
-Elementi di radiochimica;   
-Applicazione diagnostica I;   
-Elementi di radiobiologia.   
-3° Anno:   
+Art. 61. - La durata del corso degli studi per il diploma di abilitazione alla vigilanza nelle scuole elementari e' di tre anni.  
+Sono titoli di ammissione il diploma di abilitazione magistrale e concorso.  
+Sono insegnamenti fondamentali:  
+1) Pedagogia (triennale);  
+2) Lingua e letteratura italiana (biennale);  
+3) Lingua e letteratura latina (biennale);  
+4) Storia (biennale);  
+5) Geografia (biennale);  
+6) Storia della filosofia (biennale);  
+7) Istituzioni di diritto pubblico e legislazione scolastica;  
+8) Igiene.  
+Sono insegnamenti complementari:  
+1) Lingua moderna straniera a scelta (biennale).  
+Il concorso di ammissione consiste:  
+a) nella valutazione dei voti riportati, agli esami per il conseguimento del diploma di abilitazione magistrale, nel gruppo delle materie letterarie e nella filosofia e pedagogia;  
+b) in una prova scritta di cultura generale per cui sono concesse sei ore di tempo.  
+Lo studente deve sostenere una prova scritta di pedagogia, una di italiano e una della lingua straniera scelta.  
+Per conseguire il diploma lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in quello complementare.  
+Art. 62. - E' necessario osservare le seguenti precedenze di esami:  
+a) la prova scritta di pedagogia deve essere superata prima dell'ultima prova orale di pedagogia;  
+b) la prova scritta di italiano deve essere superata prima della seconda prova orale di lingua e letteratura italiana;  
+c) la prova scritta di traduzione dalla lingua straniera moderna scelta deve essere superata prima del secondo esame orale sulla lingua straniera corrispondente.  
+Art. 63. - Gli insegnamenti di durata pluriennale importano un esame separato alla fine di ogni anno, peraltro, il candidato puo' ottenere di sostenere non oltre due esami annuali di una determinata materia nella stessa sessione.  
+Art. 64. - Le prove scritte di italiano consistono nello svolgimento di un tema di carattere letterario.  
+Quelle di latino, in una breve versione di latino. Quello di francese in un dettato e in un breve componimento.  
+Quelle di inglese, tedesco e spagnolo in una versione della lingua straniera. Alle prove di cultura generale per laureandi in materie letterarie, di cultura generale filosofica per laureandi in pedagogia, di pedagogia per i diplomati in vigilanza scolastica, sono assegnate cinque ore di tempo; alle prove scritte di latino tre ore; alle prove di lingue straniere due ore.  
+Art. 65. - L'esame di laurea consiste nella presentazione di una dissertazione scritta e nella discussione orale di essa, la quale attesti una soddisfacente cultura generale.  
+L'argomento della dissertazione deve essere letterario, storico e geografico per gli aspiranti alla laurea in materie letterarie; di carattere filosofico per gli aspiranti alla laurea in pedagogia; di carattere pedagogico per gli iscritti al corso per il conseguimento del diploma di abilitazione alla vigilanza nelle scuole elementari.  
+Art. 66. - Coloro che abbiano conseguito una laurea possono essere ammessi a conseguirne una seconda, o a conseguire il diploma di abilitazione alla vigilanza nelle scuole elementari.  
+Parimenti coloro che abbiano conseguito il diploma di abilitazione alla vigilanza nelle scuole elementari possono essere ammessi a conseguire una laurea.  
+Gli iscritti sono tenuti a seguire i corsi e a superare gli esami alle condizioni specificate nei seguenti articoli.  
+Art. 67. - I laureati in materie letterarie aspiranti alla laurea in pedagogia sono iscritti al terzo anno di corso con l'obbligo di seguire gli insegnamenti e superare gli esami come appresso indicati:  
+1) Pedagogia (biennale);  
+2) Filosofia (biennale);  
+3) Storia della filosofia.  
+Va seguito, inoltre, un corso da giudicarsi, caso per caso, dalla Facolta'.  
+Prima dell'esame di laurea in pedagogia, occorre sempre sostenere e superare la prova scritta di cultura generale sulle discipline filosofiche.  
+Art. 68. - I laureati in pedagogia aspiranti alla laurea in materie letterarie, quando abbiano gia' seguito un corso di geografia, sono iscritti al terzo anno di corso con l'obbligo di seguire gli insegnamenti e superare gli esami come appresso indicanti:  
+1) Lingua e letteratura italiana;  
+2) Lingua e letteratura latina;  
+3) Storia;  
+4) Geografia (biennale).  
+Prima dell'esame di laurea, occorre sostenere e superare la prova scritta di cultura generale.  
+Art. 69. - I laureati in materie letterarie aspiranti al conseguimento del diploma di abilitazione alla vigilanza nelle scuole elementari, quando abbiano gia' seguito un corso di pedagogia, sono iscritti al terzo anno di detto corso con l'obbligo di seguire gli insegnamenti e superare gli esami come appresso indicati:  
+1) Pedagogia (biennale);  
+2) Storia della filosofia;  
+3) Istituzioni di diritto pubblico e legislazione scolastica (quando non sia stato superato nel corso di provenienza);  
+4) Igiene.  
+Prima dell'esame di laurea, occorre sostenere e superare la prova scritta di pedagogia.  
+Art. 70. - I laureati in pedagogia aspiranti al conseguimento del diploma di abilitazione alla vigilanza nelle scuole elementari, quando abbiano gia' seguito un corso di geografia, sono iscritti al terzo anno di detto corso con l'obbligo di seguire gli insegnamenti e superare gli esami come appresso indicati.  
+1) Geografia (biennale);  
+2) Istituzioni di diritto pubblico e legislazione scolastica (quando non sia stato superato nel corso di provenienza);  
+3) Igiene.  
+Va seguito, inoltre, un corso da giudicarsi, caso per caso, dalla Facolta'.  
+Prima dell'esame di laurea, occorre sostenere e superare la prova scritta di pedagogia.  
+Art. 71. - I diplomati nel corso di vigilanza nelle scuole elementari aspiranti al conseguimento della laurea in materie letterarie sono iscritti al terzo anno di detto corso con l'obbligo di seguire gli insegnamenti e superare gli esami come appresso indicati:  
+1) Lingua e letteratura italiana;  
+2) Lingua e letteratura latina;  
+3) Storia;  
+4) Geografia;  
+5) Quattro corsi complementari a scelta tra quelli prescritti per la laurea in materie letterarie.  
+Prima dell'esame di laurea in materie letterarie, occorre sostenere e superare una prova scritta di traduzione latina ed una di cultura generale.  
+Art. 72. - I diplomati nel corso di vigilanza nelle scuole elementari aspiranti al conseguimento della laurea in pedagogia sono iscritti al terzo anno di detto corso con l'obbligo di seguire gli insegnamenti e superare gli esami come appresso indicati:  
+1) Filosofia (biennale);  
+2) Quattro corsi complementari a scelta tra quelli prescritti per la laurea in pedagogia.  
+Prima dell'esame di laurea in pedagogia, occorre sostenere e superare una prova scritta di traduzione latina ed una di cultura generale sulle discipline filosofiche.  
   
-Applicazione diagnostica II;   
-Applicazioni terapeutiche;   
-Radioprotezione e legislazione.   
-  
-Scuola di specializzazione in cardioangiochirurgia   
-  
-Art. 229. - Possono aspirare all'iscrizione alla scuola di specializzazione in cardioangiochirurgia i laureati in medicina e chirurgia che siano in possesso del diploma di specializzazione in chirurgia generale o che dimostrino di aver frequentato a titolo ufficiale ed in modo continuativo un istituto universitario di chirurgia generale o una divisione ospedaliera di chirurgia generale per almeno due anni.   
-Il numero complessivo degli specializzandi non puo' essere superiore a quindici.   
-L'ammissione alla scuola avverra' in seguito a concorso per titoli ed esami.   
-La data del concorso verra' notificata nell'albo della scuola in tempo utile.   
-La durata del corso e' di tre anni.   
-Non saranno consentite abbreviazioni di corso.   
-La scuola ha sede presso la clinica chirurgica. Reparto di cardioangiochirurgia (Centro di cardiochirurgia).   
-Gli iscritti alla scuola hanno l'obbligo di internato presso il reparto cardiochirurgico (corsie, diagnostica, sala operatoria; trattamento intensivo) per tutta la durata dei corsi e di frequenza alle lezioni, conferenze speciali ed esercitazioni.   
-Art. 230. - Gli insegnamenti fondamentali sono i seguenti:   
-1° Anno:   
-  
-Embriologia, anatomia descrittiva e topografica dell'apparato cardiovascolare;   
-Fisiologia dell'apparato cardiovascolare;   
-Anatomia patologica dell'apparato cardiovascolare;   
-Semeiotica e diagnostica delle cardiopatie chirurgiche (clinica strumentale, radiologica e di laboratorio) 1° anno;   
-Semeiotica e diagnostica angiologica;   
-Patologia e clinica cardiologica, 1° anno;   
-Principi e tecnica della circolazione extra-corporea;   
-Nozioni di ingegneria medica.   
-2° Anno:   
-  
-Semeiotica e diagnostica delle cardiopatie chirurgiche (clinica, strumentale, radiologica e di laboratorio), 2° anno;   
-Patologia e clinica cardiologica, 2° anno;   
-Patologia e clinica angiologica;   
-Terapia chirurgica e tecnica operatoria, 1° anno;   
-Anestesia e rianimazione.   
-3° Anno:   
-  
-Patologia e clinica cardiologica pediatrica;   
-Terapia chirurgica e tecnica operatoria, 2° anno;   
-Trattamento intensivo.   
-L'esame di diploma consiste nella discussione di una dissertazione scritta su argomento concordato con il direttore della scuola.   
-  
-Il presente decreto, munita del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farlo osservare.   
-  
-Dato a Roma, addi' 28 ottobre 1972   
-  
-LEONE   
-  
-SCALFARO   
-  
-Vista, il Guardasigilli: GONELLA   
-Registrato alla Corte dei conti, addi' 21 dicembre 1972   
-Atti di Governo, registro n. 254, foglio n. 43. - CARUSO   
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Dato a Roma, addi' 25 settembre 1955
+
+GRONCHI ROSSI
+
+Visto, il Guardasigilli: MORO
+
+Registrata alla Corte dei conti, addi' 28 ottobre 1955
+
+Atti del Governo, registro n. 93, foglio n. 95. - CARLOMAGNO

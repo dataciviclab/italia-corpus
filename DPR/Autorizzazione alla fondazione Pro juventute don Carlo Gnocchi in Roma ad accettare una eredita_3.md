@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 418
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1974 n. 408
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 418
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1974 n. 408
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-418. Decreto del Presidente della Repubblica 9 aprile 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio di inventario, l'eredita', consistente nella quota di 1/4 in saldi di conti correnti, titoli obbligazionari, certificati di credito e contanti su depositi bancari, per un valore complessivo di L. 24.435.450, disposta dalla sig.ra Beltrami Ada con testamento pubblico 23 giugno 1983, redatto dal notaio dott. Luigi Prinetti di Milano e pubblicato in data 3 novembre 1983, n. 28347/2487 di repertorio, registrato a Milano in data 9 novembre 1983 al n. 18320.   
+408. Decreto del Presidente della Repubblica 27 giugno 1974, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.ra Bice Astolfi, con testamento olografo del 1 ottobre 1964, pubblicato l'8 aprile 1972 per atto del dott.  
+Virgilio Neri, notaio in Milano, n. 69252 di repertorio e n. 6759 di raccolta, registrato a Milano il 12 aprile 1972 al n. 6729, serie F, consistente in beni immobili siti in Milano, del valore di L. 4.500.000 nonche' in denaro e titoli, il tutto per un complessivo netto di L. 7.235.616.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 12 giugno 1986   
-Registro n. 7 Presidenza, foglio n. 15
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 22 agosto 1974  
+Atti di Governo, registro n. 5, foglio n. 10. - SCIARRETTA

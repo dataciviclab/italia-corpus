@@ -1,117 +1,70 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1966 n. 758
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1980 n. 517
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1966 n. 758
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1980 n. 517
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [regio decreto 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;15),[2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni; Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
+Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
+Articolo unico
+--------------
+
   
 Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 41 e' abrogato e sostituito dal seguente: "La Facolta' di scienze matematiche, fisiche e naturali conferisce:  
-a) la laurea in Matematica;  
-b) la laurea in Fisica;  
-c) la laurea in Chimica;  
-d) la laurea in Scienze naturali;  
-e) la laurea in Scienze biologiche;  
-f) la laurea in Scienze geologiche.  
-La Facolta' comprende inoltre il corso biennale di studi propedeutici per le lauree in ingegneria.  
-La durata degli studi per i corsi di laurea in Matematica, in Fisica, in Scienze naturali, in Scienze biologiche e in Scienze geologiche, e' di quattro anni. La durata degli studi per il corso di laurea in Chimica e' di cinque anni, divisi in un biennio di studi propedeutici e in un triennio di studi di applicazione.  
-Titolo di ammissione a tutti i corsi di laurea e' il diploma di maturita' classica o di maturita' scientifica.  
-Possono inoltre essere ammessi i diplomati degli Istituti tecnici industriali, nautici, agrari e per geometri, ai sensi delle vigenti disposizioni di legge.  
-Titolo di ammissione ai corso biennale di studi propedeutici per le lauree in ingegneria e' il diploma di maturita' classica o il diploma di maturita' scientifica.  
-Possono inoltre essere ammessi i diplomati degli Istituti tecnici industriali, nautici, agrari e per geometri, ai sensi delle vigenti disposizioni di legge.  
-Dopo l'art. 61 e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in scienze geologiche annesso alla Facolta' di Scienze matematiche, fisiche e naturali.  
-  
-Corso di laurea in Scienze geologiche  
-  
-Art. 62.  
-  
-Le materie di insegnamento per il conferimento della laurea in Scienze geologiche sono le seguenti:  
-Insegnamenti fondamentali:  
-1) Istituzioni di matematiche;  
-2) Fisica sperimentale (biennale);  
-3) Chimica generale ed inorganica con elementi di organica;  
-4) Mineralogia;  
-5) Geologia;  
-6) Geologia applicata;  
-7) Paleontologia;  
-8) Geografia;  
-9) Geografia fisica;  
-10) Topografia e cartografia;  
-11) Fisica terrestre;  
-12) Petrografia.  
-Insegnamenti complementari:  
-1) Chimica organica;  
-2) Chimica fisica;  
-3) Geochimica;  
-4) Geodesia;  
-5) Zoologia;  
-6) Botanica;  
-7) Antropologia;  
-8) Etnologia;  
-9) Vulcanologia;  
-10) Analisi matematica (algebrica ed infinitesimale) (biennale);  
-11) Meccanica razionale con elementi di statica grafica e disegno;  
-12) Statistica;  
-13) Giacimenti minerari;  
-14) Micropaleontologia;  
-15) Geotecnica;  
-16) Geologia degli idrocarburi;  
-17) Sedimentologia;  
-18) Rilevamento geologico;  
-19) Stratigrafia;  
-20) Analisi mineralogica delle rocce;  
-21) Mineralogia e petrografia applicate.  
-  
-Art. 63.  
-  
-Gli insegnamenti di "Botanica" e di "Zoologia" debbono avere indirizzo biogeografico.  
-Per l'insegnamento dell'Analisi matematica valgono le norme stabilite per la laurea in Matematica.  
-Agli effetti degli esami sono da considerarsi: le Istituzioni di matematiche come propedeutiche alla Fisica sperimentale (biennale) e la Chimica generale ed inorganica rispetto alla Chimica organica e alla Mineralogia.  
-I corsi di Chimica generale ed inorganica, di Mineralogia, di Geologia, di Geologia applicata, di Geografia fisica, di Petrografia, di Paleontologia, di Fisica terrestre e quelli complementari di Botanica, di Zoologia e di Giacimenti minerari comportano un corso annuale di esercitazioni pratiche, alcune delle quali potranno essere svolte come escursioni in campagna.  
-Il corso di Fisica sperimentale (biennale) comporta un corso biennale di esercitazioni che ne formano parte Integrante.  
-Il corso biennale di Fisica sperimentale comporta un esame alla fine di ogni anno.  
-Dopo il primo biennio lo studente e' tenuto a frequentare per due anni come interno uno degli Istituti di mineralogia o di geologia nel quale attendera' alla elaborazione della tesi di laurea.  
-Quando risulti opportuno l'assegnazione dello svolgimento di una tesi di laurea ad indirizzo misto, e' consentito che lo internato biennale si compia nei due Istituti di mineralogia e geologia.  
-  
-Art. 64.  
-  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari.  
-  
-Art. 65.  
-  
-L'esame di laurea consiste:  
-a) nella compilazione e discussione di una dissertazione scritta su un tema approvato dall'insegnante della materia, depositata in segreteria in duplice copia almeno dieci giorni prima del termine fissato per l'inizio degli esami di laurea;  
-b) nella esposizione e discussione di due temi orali a scelta del candidato e di materie differenti da quella su cui verte la dissertazione scritta.  
-Uno dei temi orali da discutere deve riguardare un lavoro di rilevamento geologico, ove questo non faccia gia' parte integrante della dissertazione.  
+All'art. 38, relativo al corso di laurea in materie letterarie, sono aggiunti i seguenti insegnamenti:  
+geografia regionale;  
+lingua e letteratura anglo-americana;  
+paleografia e diplomatica;  
+storia dell'agricoltura;  
+storia dell'arte contemporanea;  
+storia della critica letteraria;  
+storia della cultura classica;  
+storia della lingua francese;  
+storia dei partiti e dei movimenti politici;  
+storia economica.  
+All'art. 39, relativo al corso di laurea in pedagogia, sono aggiunti i seguenti insegnamenti:  
+economia politica;  
+metodologia delle scienze sociali;  
+psicometria;  
+psicopedagogia;  
+storia delle dottrine economiche;  
+storia della filosofia antica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato ad Antagnod, addi' 5 agosto 1966
+### Dato a Roma, addi' 27 marzo 1980
 
-SARAGAT GUI
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 22 settembre 1966
+Registrato alla Corte dei conti, addi' 21 agosto 1980
 
-Atti del Governo, registro n. 206, foglio n. 22. - DI PRETORO
+Registro n. 79 Istruzione, foglio n. 12

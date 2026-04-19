@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1955 n. 137
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1984 n. 1010
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1955 n. 137
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1984 n. 1010
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regi decreti 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1743); [26 marzo 1942, n. 328, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-03-26;328) [22 ottobre 1946, n. 398; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-22;398) [30 ottobre 1949, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1027); [11 aprile 1951, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;565); [23 gennaio 1952, n. 365](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;365); [26 ottobre 1952, n. 4542](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4542); [10 febbraio 1953, n. 550](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;550); [30 luglio 1953, n. 716](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;716); [6 ottobre 1953, n. 1097](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-10-06;1097); [29 maggio 1954, n. 752](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-05-29;752) e [24 settembre 1954, n. 1206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-24;1206);
+Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,77 +20,61 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Cagliari e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 28. - Agli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto quello di:
+Articolo unico
+--------------
 
-7) "storia delle dottrine politiche".
-
-Art. 52. - Agli insegnamenti complementari del corso di laurea in farmacia e' aggiunto quello di:
-
-7) "biochimica applicata".
-
-Art. 100. - Agli insegnamenti del 2° anno della scuola di specializzazione in radiologia e' aggiunto quello di: "Biologia ed anatomia patologica dei tumori".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Napoli, addi' 16 febbraio 1955
-
-EINAUDI
-
-ERMINI
-
-Visto, il Guardasigilli: DE PIETRO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 29 marzo 1955 Atti del Governo, registro n. 89, foglio n. 211. - CARLOMAGNO
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regi decreti 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1743); [26 marzo 1942, n. 328, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-03-26;328) [22 ottobre 1946, n. 398; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-22;398) [30 ottobre 1949, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1027); [11 aprile 1951, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;565); [23 gennaio 1952, n. 365](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;365); [26 ottobre 1952, n. 4542](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4542); [10 febbraio 1953, n. 550](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;550); [30 luglio 1953, n. 716](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;716); [6 ottobre 1953, n. 1097](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-10-06;1097); [29 maggio 1954, n. 752](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-05-29;752) e [24 settembre 1954, n. 1206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-24;1206);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 28. - Agli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto quello di:  
-7) "storia delle dottrine politiche".  
-Art. 52. - Agli insegnamenti complementari del corso di laurea in farmacia e' aggiunto quello di:  
-7) "biochimica applicata".  
-Art. 100. - Agli insegnamenti del 2° anno della scuola di specializzazione in radiologia e' aggiunto quello di: "Biologia ed anatomia patologica dei tumori".  
+Art. 16 - all'elenco degli indirizzi del corso di laurea in scienze politiche e' aggiunto il seguente indirizzo:  
+"d) politico sociale".  
+Dopo l'art. 20, con il conseguente scorrimento della numerazione degli articoli successivi e' inserito il seguente nuovo art. 21, relativo all'istituzione dell'indirizzo politico-sociale del corso di laurea in scienze politiche:  
+Art. 21. - Costituiscono insegnamenti obbligatori dell'indirizzo politico-sociale:  
+3° Anno:  
+statistica sociale;  
+storia economica;  
+sociologia urbana e rurale;  
+sociologia economica;  
+una materia opzionale;  
+un'altra materia opzionale;  
+inglese (II corso);  
+altra lingua straniera (II corso).  
+4° Anno:  
+sociologia politica;  
+sociologia dell'organizzazione;  
+antropologia culturale;  
+una materia opzionale;  
+un'altra materia opzionale;  
+una terza materia opzionale;  
+inglese (III corso);  
+altra lingua straniera (III corso).  
+Art. 22 (ex art. 21, per effetto di quanto sopra disposto) - nell'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' inserito l'insegnamento di "filosofia della politica".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Napoli, addi' 16 febbraio 1955
+### Dato a Roma, addi' 8 ottobre 1984
 
-EINAUDI ERMINI
+PERTINI
 
-Visto, il Guardasigilli: DE PIETRO
+FALCUCCI, Ministro della pubblica istruzioni
 
-Registrato alla Corte dei conti, addi' 29 marzo 1955
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Atti del Governo, registro n. 89, foglio n. 211. - CARLOMAGNO
+Registrato alla Corte dei conti, addi' 30 gennaio 1985
+
+Registro n. 4 Istruzione, foglio n. 323

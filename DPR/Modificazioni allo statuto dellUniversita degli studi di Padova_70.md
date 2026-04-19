@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1051
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1970 n. 536
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1051
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1970 n. 536
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -10,149 +10,31 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-L'art. 422, relativo agli ordinamenti delle scuole di specializzazione in medicina e chirurgia, e' modificato nel senso che l'ordinamento della scuola di specializzazione in urologia e' soppresso e sostituito dal seguente:   
-  
-Scuola di specializzazione in urologia   
-  
-La scuola di specializzazione in urologia ha sede presso la clinica urologica di Padova e conferisce il diploma di specialista in urologia.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di 5 anni e non e' suscettibile di abbreviazioni.   
-Il numero massimo degli allievi e' di 9 per anno di corso e complessivamente di 45 iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Le materie di insegnamento e gli esami sono i seguenti:   
-  
-  
-  
-=====================================================================  
-Insegnamenti | Esami  
-=====================================================================  
-1° Anno: |  
----------------------------------------------------------------------  
-1) anatomia sistematica e |1) anatomia sistematica e  
-topografica dell'apparato urinario|topografica dell'apparato urinario  
-e genitale maschile; |e genitale maschile;  
----------------------------------------------------------------------  
-2) fisiologia dell'apparato |2) fisiologia dell'apparato  
-urinario e genitale maschile; |urinario e genitale maschile;  
----------------------------------------------------------------------  
-3) batteriologia in urologia; |3) batteriologia in urologia.  
----------------------------------------------------------------------  
-4) semeiotica funzionale e |  
-  
-strumentale dell'apparato |  
-uro-genitale I. |  
----------------------------------------------------------------------  
-2° Anno: |  
-  
----------------------------------------------------------------------  
-1) semeiotica funzionale e |1) semeiotica funzionale e  
-strumentale dell'apparato |strumentale dell'apparato  
-uro-genitale II; |uro-genitale;  
----------------------------------------------------------------------  
-2) le nefropatie mediche; |2) le nefropatie mediche;  
----------------------------------------------------------------------  
-3) anatomia chirurgica |3) anatomia chirurgica  
-dell'apparato urinario e genitale |dell'apparato urinario e genitale  
-maschile; |maschile.  
----------------------------------------------------------------------  
-4) patologia dell'apparato |  
-urinario e genitale maschile I; |  
----------------------------------------------------------------------  
-5) radiologia dell'apparato |  
-urinario e genitale maschile I. |  
----------------------------------------------------------------------  
-3° Anno: |  
----------------------------------------------------------------------  
-1) patologia dell'apparato |1) patologia dell'apparato  
-urinario e genitale maschile II; |urinario e genitale maschile;  
----------------------------------------------------------------------  
-2) radiologia dell'apparato |2) radiologia dell'apparato  
-urinario e genitale maschile II; |urinario e genitale maschile;  
----------------------------------------------------------------------  
-3) le affezioni cutanee e veneree |3) le affezioni cutanee e veneree  
-nei riguardi dell'urologia; |nei riguardi dell'urologia;  
----------------------------------------------------------------------  
-4) andrologia |4) andrologia.  
----------------------------------------------------------------------  
-4° Anno: |  
-  
----------------------------------------------------------------------  
-1) anatomia e istologia patologica|1) anatomia e istologia patologica  
-dell'apparato urinario e genitale |dell'apparato urinario e genitale  
-maschile; |maschile:  
----------------------------------------------------------------------  
-2) farmacoterapia delle affezioni |2) farmacoterapia delle affezioni  
-uro-genitali; |uro-genitali;  
----------------------------------------------------------------------  
-3) anestesia e trattamento |3) anestesia e trattamento  
-pre-post-operatorio del malato |pre-post-operatorio del malato  
-urologico; |urologico;  
----------------------------------------------------------------------  
-4) nefrologia chirurgica |4) nefrologia chirurgica.  
----------------------------------------------------------------------  
-5) clinica urologica I; |  
----------------------------------------------------------------------  
-6) procedimenti di chirurgia |  
-endoscopica I; |  
----------------------------------------------------------------------  
-7) interventi e procedimenti |  
-operatori sull'apparato urinario e|  
-genitale maschile I. |  
----------------------------------------------------------------------  
-5° Anno: |  
----------------------------------------------------------------------  
-1) clinica urologica II; |1) clinica urologica;  
----------------------------------------------------------------------  
-2) patologia e clinica urologica |2) patologia e clinica urologica  
-infantile; |infantile;  
----------------------------------------------------------------------  
-3) urologia ginecologica; |3) urologia ginecologica;  
----------------------------------------------------------------------  
-|4) interventi e procedimenti  
-4) procedimenti di chirurgia |operatori sull'apparato urinario e  
-endoscopica II; |genitale maschile.  
----------------------------------------------------------------------  
-5) la chirurgia dell'intestino; |  
----------------------------------------------------------------------  
-6) la chirurgia vascolare; |  
----------------------------------------------------------------------  
-7) interventi e procedimenti |  
-operatori sull'apparato urinario e|  
-genitale maschile II. |
-  
-  
-  
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
-Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno ad eccezione delle discipline svolte in corsi pluriennali il cui esame sara' sostenuto alla fine dei corsi medesimi.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in urologia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+L'art. 119 dello statuto dell'Universita' degli studi di Padova, di cui al [decreto del Presidente della Repubblica 13 ottobre 1969, n. 1252](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-10-13;1252), concernente l'elenco degli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali, e' modificato nel senso che la denominazione di "Istituto e museo di mineralogia e petrografia" deve essere rettificata in quella di "Istituto e museo di mineralogia e petrologia".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1978
+### Dato a Roma, addi' 1 giugno 1970
 
-PERTINI PEDINI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 23 aprile 1979
+Registrato alla Corte dei conti, addi' 22 luglio 1970
 
-Registro n. 27 Istruzione, foglio n. 38
+Atti del Governo, registro n. 236, foglio n. 173. - IZZI

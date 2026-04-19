@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 agosto 1982 n. 525
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1983 n. 43
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 agosto 1982 n. 525
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1983 n. 43
+==============================================================
 
 Concessione di amnistia per reati tributari.
 --------------------------------------------
@@ -14,7 +14,11 @@ Visti gli [articoli 79](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Vista la [legge 7 agosto 1982, n. 516](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-07;516);
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 7 agosto 1982;
+Visto il proprio decreto 9 agosto 1982, n. 525;
+
+Visti gli [articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-02-12;27~art2) e [3 della legge 12 febbraio 1983, n. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-02-12;27~art3);
+
+Vista la deliberazione del Consiglio dei Ministri adottata nella riunione del 19 febbraio 1983;
 
 Sulla proposta del Ministro delle finanze, di concerto con il Ministro di grazia e giustizia;
 
@@ -27,28 +31,20 @@ Art. 1
 ------
 
   
-  
-E' concessa amnistia per i reati previsti nell'[articolo 50 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-10-26;633~art50), nell'[articolo 7 del decreto del Presidente della Repubblica 6 ottobre 1978, n. 627](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-10-06;627~art7), nell'[articolo 8 della legge 10 maggio 1976, n. 249](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;249~art8), come integrato dalla [legge 13 marzo 1980, n. 71, negli articoli 51](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-03-13;71~art51), ultimo comma, e 56 del [decreto del Presidente della Repubblica 29 settembre 1973, n. 600](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;600), nonche' per i reati concernenti le imposte abolite per effetto della riforma tributaria, commessi fino al 30 giugno 1982.   
-L'amnistia si applica a condizione che, per l'imposta e per il periodo di imposta cui il reato si riferisce, il contribuente o chiunque altro, avendone interesse, abbia presentato istanza di definizione, ovvero dichiarazione integrativa che comporti definizione automatica della relativa pendenza o situazione, secondo le disposizioni dei capi I e II del titolo II del [decreto-legge 10 luglio 1982, n. 429](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429), convertito, con modificazioni, nella [legge 7 agosto 1982, n. 516](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-07;516).   
-L'amnistia si applica anche in presenza di dichiarazione integrativa che non comporti definizione automatica, per il periodo di imposta per il quale non e' stato notificato avviso di accertamento, se:   
-la dichiarazione integrativa, presentata ai fini delle imposte sui redditi, indica una maggiorazione dell'imponibile o una riduzione della perdita in misura non inferiore al 20 per cento rispetto alla dichiarazione originaria, con i criteri previsti nell'articolo 19 del citato decreto-legge ed il rispetto degli importi minimi in esso stabiliti. A tali effetti rimangono esclusi dalla maggiorazione i redditi soggetti a tassazione separata e le imposte ad essi conseguenti, che sono considerati nella misura dichiarata. Nei casi di omissione della presentazione della dichiarazione o di periodo d'imposta chiuso in pareggio, le dichiarazioni devono recare l'impegno a versare gli importi previsti nello stesso articolo 19;   
-la dichiarazione integrativa presentata ai fini dell'imposta sul valore aggiunto, indica una imposta in misura non inferiore a quella determinata con l'applicazione dei criteri di cui al secondo comma dell'articolo 28 del decreto-legge su richiamato e con il rispetto degli importi minimi previsti nello stesso articolo. Nei casi di omissione della dichiarazione, la dichiarazione integrativa deve recare l'impegno a versare una somma non inferiore a lire un milione.   
-E' concessa amnistia per il reato di cui al [terzo comma dell'articolo 92 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;602~art92-com3), nei casi previsti dall'articolo 23 del citato decreto-legge, se e' stato effettuato il pagamento previsto nello stesso articolo.   
-E' concessa amnistia, alle condizioni sopra indicate, per i reati previsti dagli [articoli 482](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art482), [483](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art483), [484](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art484), [485](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art485), [489](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art489), [490](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art490), [492 del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art492), nonche' dall'[articolo 2621 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2621), quando tali reati siano stati commessi, fino al 30 giugno 1982, per eseguire od occultare quelli indicati nel primo comma del presente articolo ovvero per conseguirne il profitto e siano riferibili alla stessa pendenza o situazione tributaria.
-
-((1))
-
-----------
-
-AGGIORNAMENTO (1)
-
-Il [D.P.R. 22 febbraio 1983, n. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1983-02-22;43), ha disposto (con l'art. 2, comma 3) che "E' altresi' concessa amnistia, alle condizioni sopra previste, per i reati indicati nel [quinto comma dell'art. 1 del decreto del Presidente della Repubblica 9 agosto 1982, n. 525](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-08-09;525~art1-com5), quando tali reati siano stati commessi, fino al 30 giugno 1982, per eseguire od occultare quelli indicati nel primo comma del presente articolo, ovvero per conseguirne il profitto e siano riferibili alla stessa pendenza o situazione tributaria".
+Le condizioni previste dall'[art. 1 del decreto del Presidente della Repubblica 9 agosto 1982, n. 525](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-08-09;525~art1), per l'applicazione dell'amnistia per i reati tributari ivi considerati non operano qualora tali reati siano riferibili a periodi di imposta gia' definiti alla data di entrata in vigore del [decreto-legge 10 luglio 1982, n. 429](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429), ovvero siano riferibili a periodi di imposta con accertamento divenuto definitivo alla stessa data.  
 
 Art. 2
 ------
 
   
-I procedimenti in corso per i reati di cui all'articolo precedente o l'esecuzione della sentenza penale di condanna sono sospesi fino alla scadenza del termine per la presentazione della dichiarazione integrativa o della istanza di definizione e, se queste sono state presentate, fino a quando l'ufficio finanziario non avra' comunicato al giudice, evitando ogni ritardo, gli elementi necessari, ai sensi del terzo comma del precedente articolo, per valutare la sussistenza delle condizioni richieste per l'applicazione dell'amnistia.  
+E' concessa amnistia per i reati previsti dall'[art. 56 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;600~art56), e, oltre quanto disposto dall'[art. 1, quarto comma, del decreto del Presidente della Repubblica 9 agosto 1982, n. 525](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-08-09;525~art1-com4), dall'[art. 92 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;602~art92), relativi ai sostituti di imposta e commessi fino al 30 giugno 1982, subordinatamente alla presentazione, per i periodi di imposta cui i reati si riferiscono, delle dichiarazioni integrative di cui all'[art. 2-ter del decreto-legge 15 dicembre 1982, n. 916](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-12-15;916~art2ter), convertito, con modificazioni, nella [legge 12 febbraio 1983, n. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-02-12;27).  
+L'amnistia si applica:  
+1) per il reato di cui al [secondo comma dell'art. 56 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;600~art56-com2), a condizione che gli eventuali maggiori importi definitivamente accertati, dopo la presentazione della dichiarazione integrativa, non superino il limite indicato nello stesso secondo comma;  
+2) per il reato di cui alla lettera c) del terzo comma dello stesso art. 56, a condizione che il dichiarante assuma l'impegno a versare, nei termini e con le modalita' previsti dal decreto ministeriale di cui allo [art. 2-ter del decreto-legge 15 dicembre 1982, n. 916](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-12-15;916~art2ter), convertito, con modificazioni, nella [legge 12 febbraio 1983, n. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-02-12;27), un importo non inferiore al 20 per cento dell'ammontare delle relative ritenute irregolarmente indicate nella dichiarazione originaria;  
+3) per il reato di cui alla lettera d) del terzo comma del medesimo art. 56 e per il reato di cui allo [art. 92 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;602~art92), a condizione che l'importo delle relative ritenute risulti compreso in quello indicato nella dichiarazione integrativa.  
+E' altresi' concessa amnistia, alle condizioni sopra previste, per i reati indicati nel [quinto comma dell'art. 1 del decreto del Presidente della Repubblica 9 agosto 1982, n. 525](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-08-09;525~art1-com5), quando tali reati siano stati commessi, fino al 30 giugno 1982, per eseguire od occultare quelli indicati nel primo comma del presente articolo, ovvero per conseguirne il profitto e siano riferibili alla stessa pendenza o situazione tributaria.  
+L'amnistia si applica anche nei confronti dei concorrenti nel reato, sempreche' si verifichino le condizioni sopraindicate.  
+La condizione prevista nel primo comma non opera per i reati riferibili a periodi di imposta con accertamento divenuto definitivo anteriormente alla data di entrata in vigore del [decreto-legge 10 luglio 1982, n. 429](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429).  
 
 Art. 3
 ------
@@ -57,11 +53,11 @@ Art. 3
 Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo, osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 agosto 1982
+### Dato a Roma, addi' 22 febbraio 1983
 
-PERTINI SPADOLINI - FORMICA - DARIDA
+PERTINI FANFANI - FORTE - DARIDA
 
 Visto, il Guardasigilli: DARIDA

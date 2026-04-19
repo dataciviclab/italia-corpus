@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 914
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 261
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 914
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 261
+============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -39,19 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 13, relativo al corso di laurea in architettura, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-storia della critica storiografica architettonica.  
+Nell'art. 82, relativo al corso di laurea in scienze biologiche della facolta' di scienze matematiche, fisiche e naturali, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+chimica analitica strumentale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 giugno 1983
+### Dato a Roma, addi' 2 marzo 1984
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 30 gennaio 1984
+Registrato alla Corte dei conti, addi' 11 giugno 1984
 
-Registro n. 4 Istruzione, foglio n. 395
+Registro n. 34 Istruzione, foglio n. 327

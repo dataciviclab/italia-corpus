@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 aprile 1984 n. 384
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1985 n. 716
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 aprile 1984 n. 384
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1985 n. 716
+================================================================
 
 Modificazione allo statuto del Politecnico di Milano.
 -----------------------------------------------------
@@ -24,7 +24,7 @@ Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http:
 
 Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta ai sensi della citata legge n. 615;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
 Veduto il parere del Consiglio universitario nazionale;
 
@@ -39,22 +39,24 @@ Articolo unico
 --------------
 
   
-Nell'art. 35, relativo alle aree disciplinari e ai relativi insegnamenti del corso di laurea in architettura, sono inseriti i seguenti insegnamenti come appresso specificato:  
-2) area della progettazione territoriale e urbanistica:  
-analisi dei sistemi urbani e pianificazione del territorio.  
-6) area fisico matematica:  
-modelli matematici di urbanistica.  
+  
+Art. 29 - nell'elenco degli insegnamenti complementari della facolta' di ingegneria sono inseriti i seguenti insegnamenti:   
+tecnologia chimica del disinquinamento;   
+tecnologie chimiche industriali;   
+sperimentazione dei materiali e delle strutture.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 aprile 1984
+### Dato a Roma, addi' 2 settembre 1985
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 9 luglio 1984
+Registrato alla Corte dei conti, addi' 26 novembre 1985
 
-Registro n. 44 Istruzione, foglio n. 41
+Registro n. 81 Istruzione, foglio n. 296

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1976 n. 428
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1975 n. 817
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1976 n. 428
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1975 n. 817
 ==============================================================
 
 Recupero e nuova assegnazione di un posto di assistente ordinario.
@@ -10,13 +10,13 @@ Recupero e nuova assegnazione di un posto di assistente ordinario.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Visto il decreto del Presidente della Repubblica 5 febbraio 1970, con il quale e' stato assegnato un posto di assistente ordinario alla cattedra di lingua francese della facolta' di economia e commercio dell'Universita' degli studi di Cagliari;
+Visto il [decreto del Presidente della Repubblica 12 febbraio 1968, n. 146](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-02-12;146), con il quale, tra l'altro, fu assegnato un posto di assistente ordinario alla cattedra di impianti tecnici della facolta' di architettura dell'Universita' degli studi di Napoli;
 
-Vista la rettorale n. 8696 del 23 dicembre 1975 del rettore dell'Ateneo di Cagliari dalla quale risulta che il posto in questione e' rimasto inutilizzato dalla data dell'assegnazione;
+Visto il telegramma n. 20031 del rettore dell'Ateneo napoletano dal quale risulta che il posto in questione e' rimasto inutilizzato fin dalla data della assegnazione;
 
-Considerato pertanto che non si e' provveduto alla copertura del posto nei termini fissati dall'ultimo comma dell'[art. 13 della legge 18 marzo 1958, n. 349](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-18;349~art13);
+Considerato, pertanto, che non si e' provveduto alla copertura del posto nei termini fissati dall'ultimo comma dell'[art. 13 della legge 18 marzo 1958, n. 349](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-18;349~art13);
 
-Ritenuto che per tale ragione siano venuti meno i motivi che a suo tempo determinarono l'assegnazione del posto alla cattedra sopra citata;
+Ritenuto che per tale ragione siano venuti meno i motivi che a suo tempo determinarono l'assegnazione del posto alla cattedra in questione;
 
 Sulla
 -----
@@ -27,24 +27,26 @@ Art. 1
 ------
 
   
-Il posto di assistente ordinario gia' assegnato con decreto del Presidente della Repubblica 5 febbraio 1970 alla cattedra di lingua francese della facolta' di economia e commercio dell'Universita' degli studi di Cagliari e' recuperato.  
+  
+Il posto di assistente ordinario gia' assegnato con il [decreto del Presidente della Repubblica 12 febbraio 1968, n. 146](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-02-12;146), alla cattedra di impianti tecnici della facolta' di architettura dell'Universita' degli studi di Napoli, e' recuperato.   
 
 Art. 2
 ------
 
   
-Il posto di assistente ordinario di cui al precedente articolo e' assegnato alla seconda cattedra di diritto penale della facolta' di giurisprudenza dell'Universita' degli studi di Napoli.  
+  
+Il posto di assistente ordinario di cui al precedente articolo e' assegnato all'insegnamento di clinica medica generale e terapia medica attualmente affidato per incarico al prof. Mario Rambaldi, della prima facolta' di medicina e chirurgia dell'Universita' degli studi di Napoli.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 gennaio 1976
+### Dato a Roma, addi' 13 ottobre 1975
 
 LEONE MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 15 giugno 1976
+Registrato alla Corte dei conti, addi' 26 gennaio 1976
 
-Atti di Governo, registro n. 6, foglio n. 72
+Atti di Governo, registro n. 1, foglio n. 55

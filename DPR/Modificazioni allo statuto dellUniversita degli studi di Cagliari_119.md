@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1966 n. 288
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1028
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1966 n. 288
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1028
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,220 +18,44 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifiche dello statuto formulato dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Cagliari e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Dopo l'art. 162 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Medicina interna annessa alla Facolta' di medicina e chirurgia.
-
-SCUOLA DI SPECIALIZZAZIONE IN MEDICINA INTERNA
-
-Art. 163. - Alla Facolta' di medicina e chirurgia e' annessa una Scuola di specializzazione in Medicina interna con sede presso l'Istituto di clinica medica generale, il cui direttore e' anche direttore della Scuola.
-
-Art. 164. - Alla Scuola di specializzazione vengono ammessi i laureati in Medicina e chirurgia in numero di 60 per l'intero corso.
-
-Potra' essere accordato l'esonero di uno o piu' anni, secondo i titoli presettati dai singoli candidati, su proposta del Consiglio della scuola approvato dalla Facolta'; in ogni caso non sara' ammessa una abbreviazione superiore ai tre anni, fermo restando l'obbligo di sostenere tutti gli esami del corso.
-
-Art. 165. - La durata dei corsi e' di 5 anni.
-
-Art. 166. - Gli iscritti hanno l'obbligo della frequenza ai corsi ed alle esercitazioni e non potranno essere ammessi all'anno di corso successivo se non avranno superato gli esami dell'anno cui sono iscritti.
-
-L'internato si svolgera' presso l'Istituto di clinica medica generale e presso l'Istituto di patologia speciale medica dell'Universita'.
-
-Le lezioni saranno integrate da conferenze tenute da eminenti studiosi sull'argomento che e' oggetto di studio durante l'anno.
-
-Art. 167. - Al termine del quinto anno, lo specializzando dovra' elaborare una tesi di specialita' su argomenti clinici o sperimentali di Medicina interna da discutere dinnanzi ad una Commissione giudicatrice composta a norma dell'art. 86 dello statuto dell'Universita'.
-
-Art. 168. - Le materie di insegnamento sono cosi' suddivise nei 5 anni di corso:
-
-1° Anno:
-
-Malattie dell'apparato respiratorio:
-
-a) Anatomia patologica dell'apparato respiratorio;
-
-b) Fisiologia dell'apparato respiratorio;
-
-c) Semeiotica fisica e strumentale dell'apparato respiratorio;
-
-d) Patologia delle affezioni tubercolari e non tubercolari del polmone;
-
-e) Radiodiagnostica;
-
-f) Clinica e terapia delle malattie dell'apparato respiratorio;
-
-g) Pratica dispensariale e sanatoriale.
-
-2° Anno:
-
-Malattie dell'apparato cardiovascolare:
-
-a) Anatomia patologica dell'apparato cardiovascolare;
-
-b) Fisiologia dell'apparato cardiovascolare;
-
-c) Semeiotica fisica e strumentale (elettrocardiografia) dell'apparato cardiovascolare;
-
-d) Patologia dell'apparato cardiovascolare;
-
-e) Radiodiagnostica dell'apparato cardiovascolare;
-
-f) Clinica e terapia dell'apparato cardiovascolare.
-
-3° Anno:
-
-Malattie degli organi emopoietici e urinari:
-
-a) Anatomia patologica degli organi emopoietici e urinari;
-
-b) Fisiologia degli organi emopoietici e urinari;
-
-c) Semeiotica ematologica-tecnica dell'esame funzionale del rene;
-
-d) Patologia degli organi emopoietici e urinari;
-
-e) Radiodiagnostica degli organi emopoietici e urinari;
-
-f) Clinica e terapia degli organi emopoietici e urinari.
-
-4° Anno:
-
-Malattie dell'apparato digerente e malattie infettive:
-
-a) Anatomia patologica dell'apparato digerente e delle malattie infettive;
-
-b) Fisiologia dell'apparato digerente e ghiandolare;
-
-c) Semeiotica, batteriologia e sierologia;
-
-d) Radiodiagnostica;
-
-e) Patologia delle infezioni e malattie dell'apparato digerente;
-
-f) Clinica e terapia delle affezioni e delle malattie dell'apparato digerente.
-
-5° Anno:
-
-Malattie dell'apparato endocrino e delle articolazioni:
-
-a) Anatomia patologica dell'apparato endocrino e delle articolazioni;
-
-b) Fisiologia dell'apparato endocrino e delle articolazioni;
-
-c) Patologia dell'apparato endocrino e delle articolazioni;
-
-d) Semeiotica dell'apparato endocrino e delle articolazioni;
-
-e) Radiodiagnostica dell'apparato endocrino e delle articolazioni;
-
-f) Clinica e terapia dell'apparato endocrino e delle articolazioni.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 marzo 1966
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei Conti, addi' 6 maggio 1966 Atti del Governo, registro n. 203, foglio n. 13. - VILLA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+L'art. 131, relativo alla scuola di specializzazione in medicina del lavoro, e' modificato nel senso che il numero massimo per i tre anni di corso e' di quaranta iscritti.  
+
+Art. 2
+------
+
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Dopo l'art. 162 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Medicina interna annessa alla Facolta' di medicina e chirurgia.  
-  
-SCUOLA DI SPECIALIZZAZIONE IN MEDICINA INTERNA  
-  
-Art. 163. - Alla Facolta' di medicina e chirurgia e' annessa una Scuola di specializzazione in Medicina interna con sede presso l'Istituto di clinica medica generale, il cui direttore e' anche direttore della Scuola.  
-Art. 164. - Alla Scuola di specializzazione vengono ammessi i laureati in Medicina e chirurgia in numero di 60 per l'intero corso.  
-Potra' essere accordato l'esonero di uno o piu' anni, secondo i titoli presettati dai singoli candidati, su proposta del Consiglio della scuola approvato dalla Facolta'; in ogni caso non sara' ammessa una abbreviazione superiore ai tre anni, fermo restando l'obbligo di sostenere tutti gli esami del corso.  
-Art. 165. - La durata dei corsi e' di 5 anni.  
-Art. 166. - Gli iscritti hanno l'obbligo della frequenza ai corsi ed alle esercitazioni e non potranno essere ammessi all'anno di corso successivo se non avranno superato gli esami dell'anno cui sono iscritti.  
-L'internato si svolgera' presso l'Istituto di clinica medica generale e presso l'Istituto di patologia speciale medica dell'Universita'.  
-Le lezioni saranno integrate da conferenze tenute da eminenti studiosi sull'argomento che e' oggetto di studio durante l'anno.  
-Art. 167. - Al termine del quinto anno, lo specializzando dovra' elaborare una tesi di specialita' su argomenti clinici o sperimentali di Medicina interna da discutere dinnanzi ad una Commissione giudicatrice composta a norma dell'art. 86 dello statuto dell'Universita'.  
-Art. 168. - Le materie di insegnamento sono cosi' suddivise nei 5 anni di corso:  
-1° Anno:  
-Malattie dell'apparato respiratorio:  
-a) Anatomia patologica dell'apparato respiratorio;  
-b) Fisiologia dell'apparato respiratorio;  
-c) Semeiotica fisica e strumentale dell'apparato respiratorio;  
-d) Patologia delle affezioni tubercolari e non tubercolari del polmone;  
-e) Radiodiagnostica;  
-f) Clinica e terapia delle malattie dell'apparato respiratorio;  
-g) Pratica dispensariale e sanatoriale.  
-2° Anno:  
-Malattie dell'apparato cardiovascolare:  
-a) Anatomia patologica dell'apparato cardiovascolare;  
-b) Fisiologia dell'apparato cardiovascolare;  
-c) Semeiotica fisica e strumentale (elettrocardiografia) dell'apparato cardiovascolare;  
-d) Patologia dell'apparato cardiovascolare;  
-e) Radiodiagnostica dell'apparato cardiovascolare;  
-f) Clinica e terapia dell'apparato cardiovascolare.  
-3° Anno:  
-Malattie degli organi emopoietici e urinari:  
-a) Anatomia patologica degli organi emopoietici e urinari;  
-b) Fisiologia degli organi emopoietici e urinari;  
-c) Semeiotica ematologica-tecnica dell'esame funzionale del rene;  
-d) Patologia degli organi emopoietici e urinari;  
-e) Radiodiagnostica degli organi emopoietici e urinari;  
-f) Clinica e terapia degli organi emopoietici e urinari.  
-4° Anno:  
-Malattie dell'apparato digerente e malattie infettive:  
-a) Anatomia patologica dell'apparato digerente e delle malattie infettive;  
-b) Fisiologia dell'apparato digerente e ghiandolare;  
-c) Semeiotica, batteriologia e sierologia;  
-d) Radiodiagnostica;  
-e) Patologia delle infezioni e malattie dell'apparato digerente;  
-f) Clinica e terapia delle affezioni e delle malattie dell'apparato digerente.  
-5° Anno:  
-Malattie dell'apparato endocrino e delle articolazioni:  
-a) Anatomia patologica dell'apparato endocrino e delle articolazioni;  
-b) Fisiologia dell'apparato endocrino e delle articolazioni;  
-c) Patologia dell'apparato endocrino e delle articolazioni;  
-d) Semeiotica dell'apparato endocrino e delle articolazioni;  
-e) Radiodiagnostica dell'apparato endocrino e delle articolazioni;  
-f) Clinica e terapia dell'apparato endocrino e delle articolazioni.  
+L'[art. 233 del decreto del Presidente della Repubblica 31 ottobre 1979, n. 792](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1979-10-31;792~art233), relativo al numero degli iscritti alla seconda scuola di specializzazione in pediatria e' sostituito dal seguente:  
+"Il numero massimo degli allievi e' di trenta iscritti per l'intero corso di studi".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 marzo 1966
+### Dato a Roma, addi' 31 ottobre 1981
 
-SARAGAT GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei Conti, addi' 6 maggio 1966
+Registrato alla Corte dei conti, addi' 24 febbraio 1982
 
-Atti del Governo, registro n. 203, foglio n. 13. - VILLA
+Registro n. 30 Istruzione, foglio n. 392

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1972 n. 58
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1963 n. 2078
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1972 n. 58
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1963 n. 2078
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,7 +18,9 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vista la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,442 +32,471 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli 136, 137, 138, 139, 140, 141, relativi alla facolta' di medicina veterinaria sono abrogati e sostituiti dai seguenti:
+Art. 23. - All'elenco degli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di "Criminologia".
 
-FACOLTA' DI MEDICINA VETERINARIA
+Art. 37, relativo agli istituti annessi alla Facolta' di giurisprudenza, e' abrogato e sostituito dal seguente:
 
-Art. 136. - La facolta' di medicina veterinaria conferisce:
+"Sono annessi, inoltre alla Facolta' di giurisprudenza i seguenti istituti:
 
-a) la laurea in medicina, veterinaria;
+1) Istituto di diritto privato;
 
-b) la laurea in scienze della produzione animale.
+2) Istituto di diritto pubblico;
 
-Art. 137. - Il corso di laurea in medicina veterinaria si effettua mediante un ciclo di studi della durata di cinque anni, diviso in un periodo propedeutico durante il quale viene impartito l'insegnamento di base teorico e pratico, ed in un periodo dedicato all'insegnamento veterinario specifico.
+3) Istituto di filosofia del diritto e di studi storicopolitici;
 
-E' titolo di ammissione al corso di laurea in medicina veterinaria quello previsto dalle vigenti disposizioni di legge.
+4) Istituto di diritto commerciale e comparato "Lorenzo Mossa";
 
-I cinque anni di studio comportano l'insegnamento teorico e pratico, con esercitazioni e seminari, in non meno di quattromilacinquecento ore relative alle materie di base ed alle materie veterinarie specifiche, appresso indicate, e a non meno di tre insegnamenti complementari integrativi scelti dallo studente fra quelli elencati in un successivo paragrafo.
+5) Istituto di diritto romano e di storia del diritto;
 
-Numero minimo di ore
+6) Istituto di diritto penale;
 
-Insegnamenti fondamentali:
+7) Istituto di economia, finanza diritto finanziario;
 
-Fisica............................................... 120
+8) Istituto di diritto internazionale;
 
-Chimica I............................................ 100
+9) Istituto di diritto processuale civile.
 
-Chimica II........................................... 100
+Art. 76. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica sono aggiunti i seguenti:
 
-Zoologia............................................. 120
+Indirizzo organico biologico:
 
-Botanica............................................. 90
+Strutturistica chimica;
 
-Metodi matematici applicati alle scienze biologiche
+Chimica degli intermedi e degli esplosivi;
 
-(bio-matematica)........................................ 30
+Chimica delle sostanze coloranti;
 
-Anatomia veterinaria sistematica e comparata I....... 100
+Chimica delle sostanze organiche naturali;
 
-Anatomia veterinaria sistematica e comparata II...... 100
+Analisi chimica spettroscopica;
 
-Anatomia topografica veterinaria..................... 60
+Spettroscopia;
 
-Teratologia.......................................... 60
+Cinetica chimica;
 
-Istologia generale e speciale (anatomia microscopica) 70
+Fotochimica;
 
-Embriologia.......................................... 50
+Chimica dei composti elemento-organici;
 
-Fisiologia generale e speciale veterinaria I e fisica
+Spettroscopia nelle radiofrequenze.
 
-biologica............................................... 100
+Indirizzo inorganico chimico fisico:
 
-Fisiologia generale e speciale veterinaria II e fisi-
+Chimica inorganica superiore;
 
-ca biologica............................................ 100
+Cristallo-chimica;
 
-Biochimica........................................... 100
+Chimica fisica dello stato solido;
 
-Zootecnia I: igiene, aspetti esteriori degli animali,
+Spettroscopia nelle radiofrequenze;
 
-etnologia............................................... 70
+Strutturistica chimica;
 
-Zootecnia II: genetica e allevamento................. 100
+Analisi chimica spettroscopica;
 
-Alimentazione e nutrizione animale................... 130
+Chimica dei composti elemento-organici;
 
-Economia rurale e agronomia.......................... 30
+Chimica quantistica;
 
-Farmacologia e farmacodinamia veterinaria............ 50
+Chimica statistica;
 
-Farmacia e terapeutica generale veterinaria.......... 50
+Cinetica chimica.
 
-Tossicologia veterinaria............................. 50
+Art. 78. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica industriale sono aggiunti i seguenti:
 
-Anatomia patologica veterinaria generale e speciale I 75
+Chimica degli intermedi e degli esplosivi;
 
-Anatomia patologica veterinaria generale e speciale
+Chimica delle sostanze coloranti;
 
-II...................................................... 75
+Chimica dei solidi;
 
-Autopsie............................................. 50
+Chimica analitica applicata;
 
-Propedeutica I: semeiologia medica veterinaria e me
+Chimica degli idrocarburi naturali e derivati;
 
-todologia clinica....................................... 60
+Chimica inorganica industriale;
 
-Propedeutica II: semeiologia chirurgica veterinaria e
+Chimica dei composti elemento-organici;
 
-metodologia clinica..................................... 60
+Cinetica chimica.
 
-Patologia generale veterinaria....................... 50
+Art. 82. - L'insegnamento complementare ad indirizzo fisico di "Fisica generale" comune ai tre indirizzi del corso di laurea in Matematica assume la denominazione di "Complementi di fisica generale".
 
-Microbiologia generale veterinaria (batteriologia,
+Gli insegnamenti complementari di Astronomia, di Cibernetica e teoria dell'informazione, di Geodesia, di Teoria ed applicazioni delle macchine calcolatrici, comune ai tre indirizzi del corso di laurea in Matematica passano dall'elenco degli insegnamenti complementari ad indirizzo matematico all'elenco degli insegnamenti complementari ad indirizzo fisico.
 
-virologia, immunologia)................................. 60
+Art. 88. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti i seguenti:
 
-Patologia e profilassi delle malattie infettive degli
+Geologia nucleare;
 
-animali domestici I..................................... 70
+Cristallografia;
 
-Patologia e profilassi delle malattie infettive degli
+Stratigrafia;
 
-animali domestici II.................................... 70
+Idrologia;
 
-Parassitologia (compresa micologia, protozoologia,
+Biologia marina;
 
-entomologia, elmintologia).............................. 60
+Idrobiologia;
 
-Malattie parassitarie degli animali domestici........ 40
+Fisiologia comparata;
 
-Polizia sanitaria.................................... 30
+Embriologia e morfologia sperimentale;
 
-Medicina legale veterinaria, legislazione veterinaria
+Fitogeografia ed ecologia vegetale;
 
-e deontologia........................................... 30
+Entomologia.
 
-Patologia medica degli animali domestici (ruminanti
+Gli ultimi due comma dello stesso articolo sono abrogati e sostituiti dai seguenti:
 
-equidi, carnivori, suini, pollame, conigli, ecc.)....... 150
+"Lo studente e' tenuto a frequentare per due anni un laboratorio scelto fra quelli di "Botanica, Zoologia, Anatomia comparata o Biologia, Mineralogia, Geologia".
 
-Ostetricia veterinaria............................... 80
+Quando il laboratorio biennale prescelto sia quello di Mineralogia o di Geologia, lo studente deve frequentare "per un anno" anche il laboratorio di Botanica di Zoologia e Anatomia comparata o Biologia.
 
-Patologia chirurgica veterinaria e podologia......... 80
+Viceversa quando il laboratorio biennale prescelto aia quello di Botanica o di Zoologia e Anatomia comparata o di Biologia, lo studente deve frequentare per un anno il laboratorio di Geologia o di Mineralogia.
 
-Patologia della riproduzione e fecondazione artifi
+Art. 91. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti i seguenti:
 
-ciale................................................... 70
+Biologia marina;
 
-Medicina operatoria veterinaria...................... 70
+Idrobiologia;
 
-Ispezione e controllo delle derrate alimentari di
+Fisiologia comparata;
 
-origine animale (carni, latte, pesci, uova, ecc.) I..... 80
+Embriologia e morfologia sperimentale;
 
-Ispezione e controllo delle derrate alimentari di
+Fitogeografia ed ecologia vegetale;
 
-origine animale (carni, latte, pesci, uova, ecc.) II.... 70
+Entomologia.
 
-Lavori pratici nei macelli........................... 50
+L'ultimo comma dello stesso articolo e' abrogato e sostituito dal seguente: "Gli studenti possono seguire i corsi di laboratorio biennale ed annuale negli istituti di Botanica, di Fisiologia, di Zoologia ed Anatomia comparata o di Biologia generale, di Anatomia umana, di Patologia generale, di Antropologia, di Paleontologia, di igiene e di Chimica biologica".
 
-Clinica medica veterinaria........................... 375
+Art. 93. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti i seguenti:
 
-Clinica chirurgica veterinaria....................... 375
+Geologia nucleare;
 
-Clinica ostetrica e ginecologica veterinaria......... 250
+Cristallografia;
 
-Patologia aviare..................................... 100
+Stratigrafia;
 
-Radiologia veterinaria............................... 50
+Idrologia;
 
-Le 190 ore che restano per raggiungere il numero previsto di 4500 dovranno essere ripartite fra tre insegnamenti complementari scelti dallo studente nel seguente elenco:
+Rilevamento geologico;
 
-Insegnamenti complementari:
+Geotecnica;
 
-Anestesiologia;
+Geologia regionale;
 
-Approvvigionamenti annonari, mercati ed industrie degli alimenti di origine animale;
+Geologia stratigrafica;
 
-Diagnostica di laboratorio;
+Sedimentologia;
 
-Ecologia;
+Mineralogia applicata.
 
-Ematologia clinica comparata;
+Art. 127. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti i seguenti:
 
-Endocrinologia degli animali domestici;
+Orticoltura e floricoltura in serra (semestrale);
 
-Etnografia;
+Metodologia statistica in agricoltura, (semestrale);
 
-Fisioclimatologia;
+Microbiologia del terreno (semestrale);
 
-Idrobiologia e pescicoltura;
+Fisiopatologia vegetale (semestrale);
 
-Igiene del latte;
+Chimica delle fermentazioni (semestrale);
 
-Igiene e controllo dei prodotti della pesca;
+Chimica biologica (semestrale);
 
-Istituzioni di matematica;
+Pedologia (semestrale);
 
-Istologia patologica;
+Zoologia agraria (semestrale).
 
-Ittiopatologia;
+L'insegnamento complementare di Orticoltura e floricoltura da semestrale passa annuale.
 
-Lingua straniera;
+Dopo l'art. 321, e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Endocrinologia.
 
-Oftalmologia comparata;
+Scuola di specializzazione in Endocrinologia
 
-Patologia bovina;
+Art. 322. - La scuola di perfezionamento ha sede nell'Istituto di Patologia medica e Metodologia clinica il cui professore di ruolo e' il direttore della scuola. Ha la durata di tre anni.
 
-Patologia tropicale veterinaria;
+Art. 323. - Le materie di insegnamento sono le seguenti:
 
-Storia della medicina veterinaria;
+Primo anno:
 
-Tecnica conserviera;
+1) Anatomia e embriologia degli organi endocrini;
 
-Tecnica mangimistica;
+2) Fisiologia endocrina;
 
-Tecnologia avicola;
+3) Biochimica endocrina;
 
-Virologia;
+4) Semeiotica e diagnostica endocrina;
 
-Zooculture;
+5) Anatomia patologica delle ghiandole endocrine.
 
-Profilassi delle malattie parassitarie e degli animali domestici.
+Secondo anno:
 
-Art. 138. - Gli istituti didattici e sperimentali appartenenti alla facolta' di medicina veterinaria sono i seguenti:
+1) Anatomia patologica endocrina;
 
-Istituto di anatomia ed istologia degli animali domestici;
+2) Semeiotica e diagnostica endocrina;
 
-Istituto di patologia generale, anatomia patologica ed ispezione degli alimenti;
+3) Patologia speciale endocrina.
 
-Istituto di zootecnica e zoognostica;
+Terzo anno:
 
-Istituto di patologia speciale, clinica medica e polizia sanitaria;
+1) Patologia speciale endocrina;
 
-Istituto di patologia speciale e clinica chirurgica;
+2) Terapia endocrina.
 
-Istituto di parassitologia;
+Art. 324. - Gli insegnamenti sono accompagnati da esercitazioni pratiche e da conferenze su argomenti attinenti alle discipline endocrine.
 
-Istituto di fisiologia generale e speciale degli animali domestici e chimica biologica.
+Art. 325. - Gli iscritti dovranno frequentare gli insegnamenti e l'istituto di patologia medica, con obbligo di servizio identico a quelli di assistente volontario.
 
-Art. 139. - Gli insegnamenti di anatomia sistematica e comparata I e teratologia, di fisiologia generale e speciale I, di anatomia patologica generale e speciale I e autopsie, di patologia e profilassi delle malattie infettive I, di ispezione e controllo delle derrate alimentari di origine animale I, comportano alla fine dell'anno un esame sul programma svolto.
+Il numero massimo di allievi ogni anno e' di sei.
 
-Gli insegnamenti di clinica medica, di clinica chirurgica, del gruppo zootecnica I e II e di ispezione e controllo delle derrate alimentari di origine animale debbono essere completati da un tirocinio pratico complessivo e continuativo di almeno sei mesi, presso gli istituti delle facolta' di medicina veterinaria, presso le stazioni sperimentali zooprofilattiche, presso gli istituti zootecnici del Ministero dell'agricoltura e delle foreste e delle amministrazioni provinciali, o presso macelli riconosciuti dalle facolta' di medicina veterinaria. Il tirocinio deve essere iniziato dopo la chiusura dei corsi di insegnamento del V anno e compiuto prima che i giovani si presentino a sostenere l'esame di abilitazione all'esercizio professionale.
+Art. 326. - Gli esami di profitto sono dati per gruppi alla fine di ciascun anno.
 
-Il periodo semestrale di tirocinio pratico e' utilizzabile ai fini del raggiungimento del numero delle ore richieste per gli insegnamenti clinici.
+Alla fine del terzo anno, per conseguire il diploma di specializzazione gli iscritti, dopo aver superato gli esami, dovranno presentare una tesi di specializzazione su un argomento di ordine endocrinologico.
 
-L'insegnamento di zootecnia I: igiene, aspetti esteriori degli animali, etnologia, corrisponde a quelli di zootecnia speciale e di zoognostica del precedente regolamento; l'insegnamento di zootecnia II: genetica ed allevamento, corrisponde a quello di zootecnia generale del precedente regolamento.
+Dopo l'art. 333, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione presso la Facolta' di medicina veterinaria, della Scuola di specializzazione in malattie dei piccoli animali.
 
-Il consiglio di facolta', in ragione delle esigenze didattiche relative alla propedeuticita' di alcune materie dello stesso anno di corso, puo' autorizzare lo svolgimento di corsi intensivi con esami finali durante l'anno accademico.
+Scuola di specializzazione in malattie dei piccoli animali
 
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami negli insegnamenti fondamentali ed in tre altri insegnamenti da lui scelti fra i complementari.
+Art. 334. - E' istituita presso la Facolta' di medicina veterinarila, dell'Universita' di Pisa una Scuola di specializzazione in malattie dei piccoli animali con lo scopo di perfezionare i laureati in Medicina veterinaria in questo importante e delicato settore della patologia degli animali domestici.
 
-Art. 140. - Agli effetti della iscrizione, e rispettivamente anche degli esami, sono da considerarsi materie propedeutiche:
+Art. 335. - La durata dei corsi e' fissata in anni due;
 
-a) la fisica, la chimica, la zoologia, la botanica, la istologia generale e speciale, l'embriologia rispetto alla anatomia sistematica e comparata;
+direttore della Scuola e' il professore ordinario di patologia speciale e clinica medica veterinaria della Universita' di Pisa od altro professore di ruolo o fuori ruolo designato dal Consiglio di Facolta'.
 
-b) la fisica, la chimica, la biochimica, l'anatomia sistematica e comparata, rispetto alla fisiologia generale e speciale;
+Art. 336. Alla Scuola, possono essere ammessi tutti i laureati in Medicina veterinaria in possesso del titolo di abilitazione all'esercizio della professione di veterinario.
 
-c) la patologia generale rispetto all'anatomia patologica generale e speciale;
+Art. 337. - Il numero massimo degli allievi ammesso alla Scuola e' fissato annualmente dal Consiglio della Facolta' di medicina veterinaria su proposta del direttore, della Scuola in rapporto alle possibilita' didattiche dei vari istituti presso i quali gli allievi debbono compiere gli studi. Qualora non si raggiunga un congruo numero di iscritti il direttore della Scuola ha facolta' di non fare iniziare i corsi.
 
-d) la propedeutica: 1) semeiologia medica e metodologia clinica, e la patologia medica degli animali domestici rispetto alla clinica medica;
+Art. 338. - Le materie d'insegnamento sono le seguenti:
 
-e) la propedeutica: 2) semeiologia chirurgica e metodologia clinica, la patologia chirurgica e podologia, e la medicina operatoria rispetto alla clinica chirurgica;
+Primo anno:
 
-f) l'ostetricia, la patologia della riproduzione e fecondazione artificiale rispetto alla clinica ostetrica e ginecologica;
+1) Anatomia;
 
-g) la microbiologia generale rispetto alla patologia e profilassi delle malattie infettive.
+2) Fisiologia;
 
-Lo studente puo' richiedere ed essere ammesso a sostenere un esame di gruppo per materie affini in numero non superiore a tre.
+3) Parassitologia;
 
-I laureati e gli studenti iscritti di altri corsi di laurea possono essere ammessi, previa valutazione della carriera universitaria seguita, ad un anno successivo al primo; il consiglio di facolta' decide, caso per caso, la convalida degli insegnamenti e degli esami sostenuti.
+4) Zoognostica;
 
-Art. 141. - L'esame di laurea consiste nella discussione di una dissertazione scritta sopra un argomento inerente gli insegnamenti del corso di laurea. L'argomento della dissertazione deve avere l'approvazione del docente della materia.
+5) Genetica: selezione, descrizione etnografica e nozioni di allevamento delle razze canine e feline;
 
-Norma transitoria
+6) Alimentazione dei carnivori;
 
-Gli studenti del corso di laurea in medicina veterinaria, all'atto dell'entrata in vigore delle suddette modifiche di statuto, possono optare per il corso di laurea in quattro o cinque anni. All'uopo debbono presentare regolare domanda per integrare gli esami secondo quanto stabilira' caso per caso il consiglio di facolta'.
+7) Semeiotica medica e diagnostica di laboratorio.
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Secondo anno:
 
-Dato a Roma, addi' 28 gennaio 1972
+1) Anatomia patologica con nozioni di tecnica necroscopica e diagnostica, cadaverica;
 
-LEONE
+2) Radiologia;
 
-MISASI
+3) Ostetricia e ginecologia;
 
-Visto, il Guardasigilli: GONELLA
+4) Chirurgia;
+
+5) Malattie infettive;
+
+6) Patologia, clinica medica e terapia.
+
+I corsi teorici sono integrati da dimostrazioni ed esercitazioni pratiche.
+
+Art. 339. - Gli esami di profitto sono dati per gruppi di materie affini al termine del primo e del secondo anno e prima dell'esame di diploma, secondo le disposizioni del Consiglio della Scuola.
+
+Art. 340. - L'esame di diploma consiste nella discussione di una dissertazione originale scritta su un argomento scelto dal candidato ed approvato dal direttore della Scuola, nonche' di prove pratiche che siano ritenute opportune dal Consiglio della Scuola.
+
+Art. 341. - Le tasse e le sopratasse che gli iscritti sono tenuti a versare sono fissate dal Consiglio di amministrazione dell'Universita' su proposta della Facolta' di medicina veterinaria e su parere del Senato accademico.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e del decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 3 dicembre 1963
+
+SEGNI
+
+GUI
+
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 14 marzo 1972 Atti del Governo, registro n. 247, foglio n. 127. - VALENTINI
+alla Corte dei conti, addi' 22 gennaio 1964 Atti del Governo, registro n. 179, foglio n. 124. - VILLA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vista la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 23. - All'elenco degli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di "Criminologia".  
+Art. 37, relativo agli istituti annessi alla Facolta' di giurisprudenza, e' abrogato e sostituito dal seguente:  
+"Sono annessi, inoltre alla Facolta' di giurisprudenza i seguenti istituti:  
+1) Istituto di diritto privato;  
+2) Istituto di diritto pubblico;  
+3) Istituto di filosofia del diritto e di studi storicopolitici;  
+4) Istituto di diritto commerciale e comparato "Lorenzo Mossa";  
+5) Istituto di diritto romano e di storia del diritto;  
+6) Istituto di diritto penale;  
+7) Istituto di economia, finanza diritto finanziario;  
+8) Istituto di diritto internazionale;  
+9) Istituto di diritto processuale civile.  
+Art. 76. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica sono aggiunti i seguenti:  
+Indirizzo organico biologico:  
+Strutturistica chimica;  
+Chimica degli intermedi e degli esplosivi;  
+Chimica delle sostanze coloranti;  
+Chimica delle sostanze organiche naturali;  
+Analisi chimica spettroscopica;  
+Spettroscopia;  
+Cinetica chimica;  
+Fotochimica;  
+Chimica dei composti elemento-organici;  
+Spettroscopia nelle radiofrequenze.  
+Indirizzo inorganico chimico fisico:  
+Chimica inorganica superiore;  
+Cristallo-chimica;  
+Chimica fisica dello stato solido;  
+Spettroscopia nelle radiofrequenze;  
+Strutturistica chimica;  
+Analisi chimica spettroscopica;  
+Chimica dei composti elemento-organici;  
+Chimica quantistica;  
+Chimica statistica;  
+Cinetica chimica.  
+Art. 78. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica industriale sono aggiunti i seguenti:  
+Chimica degli intermedi e degli esplosivi;  
+Chimica delle sostanze coloranti;  
+Chimica dei solidi;  
+Chimica analitica applicata;  
+Chimica degli idrocarburi naturali e derivati;  
+Chimica inorganica industriale;  
+Chimica dei composti elemento-organici;  
+Cinetica chimica.  
+Art. 82. - L'insegnamento complementare ad indirizzo fisico di "Fisica generale" comune ai tre indirizzi del corso di laurea in Matematica assume la denominazione di "Complementi di fisica generale".  
+Gli insegnamenti complementari di Astronomia, di Cibernetica e teoria dell'informazione, di Geodesia, di Teoria ed applicazioni delle macchine calcolatrici, comune ai tre indirizzi del corso di laurea in Matematica passano dall'elenco degli insegnamenti complementari ad indirizzo matematico all'elenco degli insegnamenti complementari ad indirizzo fisico.  
+Art. 88. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti i seguenti:  
+Geologia nucleare;  
+Cristallografia;  
+Stratigrafia;  
+Idrologia;  
+Biologia marina;  
+Idrobiologia;  
+Fisiologia comparata;  
+Embriologia e morfologia sperimentale;  
+Fitogeografia ed ecologia vegetale;  
+Entomologia.  
+Gli ultimi due comma dello stesso articolo sono abrogati e sostituiti dai seguenti:  
+"Lo studente e' tenuto a frequentare per due anni un laboratorio scelto fra quelli di "Botanica, Zoologia, Anatomia comparata o Biologia, Mineralogia, Geologia".  
+Quando il laboratorio biennale prescelto sia quello di Mineralogia o di Geologia, lo studente deve frequentare "per un anno" anche il laboratorio di Botanica di Zoologia e Anatomia comparata o Biologia.  
+Viceversa quando il laboratorio biennale prescelto aia quello di Botanica o di Zoologia e Anatomia comparata o di Biologia, lo studente deve frequentare per un anno il laboratorio di Geologia o di Mineralogia.  
+Art. 91. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti i seguenti:  
+Biologia marina;  
+Idrobiologia;  
+Fisiologia comparata;  
+Embriologia e morfologia sperimentale;  
+Fitogeografia ed ecologia vegetale;  
+Entomologia.  
+L'ultimo comma dello stesso articolo e' abrogato e sostituito dal seguente: "Gli studenti possono seguire i corsi di laboratorio biennale ed annuale negli istituti di Botanica, di Fisiologia, di Zoologia ed Anatomia comparata o di Biologia generale, di Anatomia umana, di Patologia generale, di Antropologia, di Paleontologia, di igiene e di Chimica biologica".  
+Art. 93. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti i seguenti:  
+Geologia nucleare;  
+Cristallografia;  
+Stratigrafia;  
+Idrologia;  
+Rilevamento geologico;  
+Geotecnica;  
+Geologia regionale;  
+Geologia stratigrafica;  
+Sedimentologia;  
+Mineralogia applicata.  
+Art. 127. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti i seguenti:  
+Orticoltura e floricoltura in serra (semestrale);  
+Metodologia statistica in agricoltura, (semestrale);  
+Microbiologia del terreno (semestrale);  
+Fisiopatologia vegetale (semestrale);  
+Chimica delle fermentazioni (semestrale);  
+Chimica biologica (semestrale);  
+Pedologia (semestrale);  
+Zoologia agraria (semestrale).  
+L'insegnamento complementare di Orticoltura e floricoltura da semestrale passa annuale.  
+Dopo l'art. 321, e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Endocrinologia.  
   
-Gli articoli 136, 137, 138, 139, 140, 141, relativi alla facolta' di medicina veterinaria sono abrogati e sostituiti dai seguenti:   
+Scuola di specializzazione in Endocrinologia  
   
-FACOLTA' DI MEDICINA VETERINARIA   
+Art. 322. - La scuola di perfezionamento ha sede nell'Istituto di Patologia medica e Metodologia clinica il cui professore di ruolo e' il direttore della scuola. Ha la durata di tre anni.  
+Art. 323. - Le materie di insegnamento sono le seguenti:  
+Primo anno:  
+1) Anatomia e embriologia degli organi endocrini;  
+2) Fisiologia endocrina;  
+3) Biochimica endocrina;  
+4) Semeiotica e diagnostica endocrina;  
+5) Anatomia patologica delle ghiandole endocrine.  
+Secondo anno:  
+1) Anatomia patologica endocrina;  
+2) Semeiotica e diagnostica endocrina;  
+3) Patologia speciale endocrina.  
+Terzo anno:  
+1) Patologia speciale endocrina;  
+2) Terapia endocrina.  
+Art. 324. - Gli insegnamenti sono accompagnati da esercitazioni pratiche e da conferenze su argomenti attinenti alle discipline endocrine.  
+Art. 325. - Gli iscritti dovranno frequentare gli insegnamenti e l'istituto di patologia medica, con obbligo di servizio identico a quelli di assistente volontario.  
+Il numero massimo di allievi ogni anno e' di sei.  
+Art. 326. - Gli esami di profitto sono dati per gruppi alla fine di ciascun anno.  
+Alla fine del terzo anno, per conseguire il diploma di specializzazione gli iscritti, dopo aver superato gli esami, dovranno presentare una tesi di specializzazione su un argomento di ordine endocrinologico.  
+Dopo l'art. 333, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione presso la Facolta' di medicina veterinaria, della Scuola di specializzazione in malattie dei piccoli animali.  
   
-Art. 136. - La facolta' di medicina veterinaria conferisce:   
-a) la laurea in medicina, veterinaria;   
-b) la laurea in scienze della produzione animale.   
-Art. 137. - Il corso di laurea in medicina veterinaria si effettua mediante un ciclo di studi della durata di cinque anni, diviso in un periodo propedeutico durante il quale viene impartito l'insegnamento di base teorico e pratico, ed in un periodo dedicato all'insegnamento veterinario specifico.   
-E' titolo di ammissione al corso di laurea in medicina veterinaria quello previsto dalle vigenti disposizioni di legge.   
-I cinque anni di studio comportano l'insegnamento teorico e pratico, con esercitazioni e seminari, in non meno di quattromilacinquecento ore relative alle materie di base ed alle materie veterinarie specifiche, appresso indicate, e a non meno di tre insegnamenti complementari integrativi scelti dallo studente fra quelli elencati in un successivo paragrafo.   
+Scuola di specializzazione in malattie dei piccoli animali  
   
-  
-Numero minimo di ore  
-Insegnamenti fondamentali:  
-Fisica............................................... 120  
-Chimica I............................................ 100  
-Chimica II........................................... 100  
-Zoologia............................................. 120  
-Botanica............................................. 90  
-Metodi matematici applicati alle scienze biologiche  
-(bio-matematica)........................................ 30  
-Anatomia veterinaria sistematica e comparata I....... 100  
-Anatomia veterinaria sistematica e comparata II...... 100  
-Anatomia topografica veterinaria..................... 60  
-Teratologia.......................................... 60  
-Istologia generale e speciale (anatomia microscopica) 70  
-Embriologia.......................................... 50  
-Fisiologia generale e speciale veterinaria I e fisica  
-biologica............................................... 100  
-Fisiologia generale e speciale veterinaria II e fisi-  
-ca biologica............................................ 100  
-Biochimica........................................... 100  
-Zootecnia I: igiene, aspetti esteriori degli animali,  
-etnologia............................................... 70  
-Zootecnia II: genetica e allevamento................. 100  
-Alimentazione e nutrizione animale................... 130  
-Economia rurale e agronomia.......................... 30  
-Farmacologia e farmacodinamia veterinaria............ 50  
-Farmacia e terapeutica generale veterinaria.......... 50  
-Tossicologia veterinaria............................. 50  
-Anatomia patologica veterinaria generale e speciale I 75  
-Anatomia patologica veterinaria generale e speciale  
-II...................................................... 75  
-Autopsie............................................. 50  
-Propedeutica I: semeiologia medica veterinaria e me  
-todologia clinica....................................... 60  
-Propedeutica II: semeiologia chirurgica veterinaria e  
-metodologia clinica..................................... 60  
-Patologia generale veterinaria....................... 50  
-Microbiologia generale veterinaria (batteriologia,  
-virologia, immunologia)................................. 60  
-Patologia e profilassi delle malattie infettive degli  
-animali domestici I..................................... 70  
-Patologia e profilassi delle malattie infettive degli  
-animali domestici II.................................... 70  
-Parassitologia (compresa micologia, protozoologia,  
-entomologia, elmintologia).............................. 60  
-Malattie parassitarie degli animali domestici........ 40  
-Polizia sanitaria.................................... 30  
-Medicina legale veterinaria, legislazione veterinaria  
-e deontologia........................................... 30  
-Patologia medica degli animali domestici (ruminanti  
-equidi, carnivori, suini, pollame, conigli, ecc.)....... 150  
-Ostetricia veterinaria............................... 80  
-Patologia chirurgica veterinaria e podologia......... 80  
-Patologia della riproduzione e fecondazione artifi  
-ciale................................................... 70  
-Medicina operatoria veterinaria...................... 70  
-Ispezione e controllo delle derrate alimentari di  
-origine animale (carni, latte, pesci, uova, ecc.) I..... 80  
-Ispezione e controllo delle derrate alimentari di  
-origine animale (carni, latte, pesci, uova, ecc.) II.... 70  
-Lavori pratici nei macelli........................... 50  
-Clinica medica veterinaria........................... 375  
-Clinica chirurgica veterinaria....................... 375  
-Clinica ostetrica e ginecologica veterinaria......... 250  
-Patologia aviare..................................... 100  
-Radiologia veterinaria............................... 50  
-  
-  
-Le 190 ore che restano per raggiungere il numero previsto di 4500 dovranno essere ripartite fra tre insegnamenti complementari scelti dallo studente nel seguente elenco:   
-Insegnamenti complementari:   
-Anestesiologia;   
-Approvvigionamenti annonari, mercati ed industrie degli alimenti di origine animale;   
-Diagnostica di laboratorio;   
-Ecologia;   
-Ematologia clinica comparata;   
-Endocrinologia degli animali domestici;   
-Etnografia;   
-Fisioclimatologia;   
-Idrobiologia e pescicoltura;   
-Igiene del latte;   
-Igiene e controllo dei prodotti della pesca;   
-Istituzioni di matematica;   
-Istologia patologica;   
-Ittiopatologia;   
-Lingua straniera;   
-Oftalmologia comparata;   
-Patologia bovina;   
-Patologia tropicale veterinaria;   
-Storia della medicina veterinaria;   
-Tecnica conserviera;   
-Tecnica mangimistica;   
-Tecnologia avicola;   
-Virologia;   
-Zooculture;   
-Profilassi delle malattie parassitarie e degli animali domestici.   
-Art. 138. - Gli istituti didattici e sperimentali appartenenti alla facolta' di medicina veterinaria sono i seguenti:   
-Istituto di anatomia ed istologia degli animali domestici;   
-Istituto di patologia generale, anatomia patologica ed ispezione degli alimenti;   
-Istituto di zootecnica e zoognostica;   
-Istituto di patologia speciale, clinica medica e polizia sanitaria;   
-Istituto di patologia speciale e clinica chirurgica;   
-Istituto di parassitologia;   
-Istituto di fisiologia generale e speciale degli animali domestici e chimica biologica.   
-Art. 139. - Gli insegnamenti di anatomia sistematica e comparata I e teratologia, di fisiologia generale e speciale I, di anatomia patologica generale e speciale I e autopsie, di patologia e profilassi delle malattie infettive I, di ispezione e controllo delle derrate alimentari di origine animale I, comportano alla fine dell'anno un esame sul programma svolto.   
-Gli insegnamenti di clinica medica, di clinica chirurgica, del gruppo zootecnica I e II e di ispezione e controllo delle derrate alimentari di origine animale debbono essere completati da un tirocinio pratico complessivo e continuativo di almeno sei mesi, presso gli istituti delle facolta' di medicina veterinaria, presso le stazioni sperimentali zooprofilattiche, presso gli istituti zootecnici del Ministero dell'agricoltura e delle foreste e delle amministrazioni provinciali, o presso macelli riconosciuti dalle facolta' di medicina veterinaria. Il tirocinio deve essere iniziato dopo la chiusura dei corsi di insegnamento del V anno e compiuto prima che i giovani si presentino a sostenere l'esame di abilitazione all'esercizio professionale.   
-Il periodo semestrale di tirocinio pratico e' utilizzabile ai fini del raggiungimento del numero delle ore richieste per gli insegnamenti clinici.   
-L'insegnamento di zootecnia I: igiene, aspetti esteriori degli animali, etnologia, corrisponde a quelli di zootecnia speciale e di zoognostica del precedente regolamento; l'insegnamento di zootecnia II: genetica ed allevamento, corrisponde a quello di zootecnia generale del precedente regolamento.   
-Il consiglio di facolta', in ragione delle esigenze didattiche relative alla propedeuticita' di alcune materie dello stesso anno di corso, puo' autorizzare lo svolgimento di corsi intensivi con esami finali durante l'anno accademico.   
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami negli insegnamenti fondamentali ed in tre altri insegnamenti da lui scelti fra i complementari.   
-Art. 140. - Agli effetti della iscrizione, e rispettivamente anche degli esami, sono da considerarsi materie propedeutiche:   
-a) la fisica, la chimica, la zoologia, la botanica, la istologia generale e speciale, l'embriologia rispetto alla anatomia sistematica e comparata;   
-b) la fisica, la chimica, la biochimica, l'anatomia sistematica e comparata, rispetto alla fisiologia generale e speciale;   
-c) la patologia generale rispetto all'anatomia patologica generale e speciale;   
-d) la propedeutica: 1) semeiologia medica e metodologia clinica, e la patologia medica degli animali domestici rispetto alla clinica medica;   
-e) la propedeutica: 2) semeiologia chirurgica e metodologia clinica, la patologia chirurgica e podologia, e la medicina operatoria rispetto alla clinica chirurgica;   
-f) l'ostetricia, la patologia della riproduzione e fecondazione artificiale rispetto alla clinica ostetrica e ginecologica;   
-g) la microbiologia generale rispetto alla patologia e profilassi delle malattie infettive.   
-Lo studente puo' richiedere ed essere ammesso a sostenere un esame di gruppo per materie affini in numero non superiore a tre.   
-I laureati e gli studenti iscritti di altri corsi di laurea possono essere ammessi, previa valutazione della carriera universitaria seguita, ad un anno successivo al primo; il consiglio di facolta' decide, caso per caso, la convalida degli insegnamenti e degli esami sostenuti.   
-Art. 141. - L'esame di laurea consiste nella discussione di una dissertazione scritta sopra un argomento inerente gli insegnamenti del corso di laurea. L'argomento della dissertazione deve avere l'approvazione del docente della materia.   
-  
-Norma transitoria   
-  
-Gli studenti del corso di laurea in medicina veterinaria, all'atto dell'entrata in vigore delle suddette modifiche di statuto, possono optare per il corso di laurea in quattro o cinque anni. All'uopo debbono presentare regolare domanda per integrare gli esami secondo quanto stabilira' caso per caso il consiglio di facolta'.   
+Art. 334. - E' istituita presso la Facolta' di medicina veterinarila, dell'Universita' di Pisa una Scuola di specializzazione in malattie dei piccoli animali con lo scopo di perfezionare i laureati in Medicina veterinaria in questo importante e delicato settore della patologia degli animali domestici.  
+Art. 335. - La durata dei corsi e' fissata in anni due;  
+direttore della Scuola e' il professore ordinario di patologia speciale e clinica medica veterinaria della Universita' di Pisa od altro professore di ruolo o fuori ruolo designato dal Consiglio di Facolta'.  
+Art. 336. Alla Scuola, possono essere ammessi tutti i laureati in Medicina veterinaria in possesso del titolo di abilitazione all'esercizio della professione di veterinario.  
+Art. 337. - Il numero massimo degli allievi ammesso alla Scuola e' fissato annualmente dal Consiglio della Facolta' di medicina veterinaria su proposta del direttore, della Scuola in rapporto alle possibilita' didattiche dei vari istituti presso i quali gli allievi debbono compiere gli studi. Qualora non si raggiunga un congruo numero di iscritti il direttore della Scuola ha facolta' di non fare iniziare i corsi.  
+Art. 338. - Le materie d'insegnamento sono le seguenti:  
+Primo anno:  
+1) Anatomia;  
+2) Fisiologia;  
+3) Parassitologia;  
+4) Zoognostica;  
+5) Genetica: selezione, descrizione etnografica e nozioni di allevamento delle razze canine e feline;  
+6) Alimentazione dei carnivori;  
+7) Semeiotica medica e diagnostica di laboratorio.  
+Secondo anno:  
+1) Anatomia patologica con nozioni di tecnica necroscopica e diagnostica, cadaverica;  
+2) Radiologia;  
+3) Ostetricia e ginecologia;  
+4) Chirurgia;  
+5) Malattie infettive;  
+6) Patologia, clinica medica e terapia.  
+I corsi teorici sono integrati da dimostrazioni ed esercitazioni pratiche.  
+Art. 339. - Gli esami di profitto sono dati per gruppi di materie affini al termine del primo e del secondo anno e prima dell'esame di diploma, secondo le disposizioni del Consiglio della Scuola.  
+Art. 340. - L'esame di diploma consiste nella discussione di una dissertazione originale scritta su un argomento scelto dal candidato ed approvato dal direttore della Scuola, nonche' di prove pratiche che siano ritenute opportune dal Consiglio della Scuola.  
+Art. 341. - Le tasse e le sopratasse che gli iscritti sono tenuti a versare sono fissate dal Consiglio di amministrazione dell'Universita' su proposta della Facolta' di medicina veterinaria e su parere del Senato accademico.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e del decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 gennaio 1972
+### Dato a Roma, addi' 3 dicembre 1963
 
-LEONE MISASI
+SEGNI GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 14 marzo 1972
+Registrato alla Corte dei conti, addi' 22 gennaio 1964
 
-Atti del Governo, registro n. 247, foglio n. 127. - VALENTINI
+Atti del Governo, registro n. 179, foglio n. 124. - VILLA

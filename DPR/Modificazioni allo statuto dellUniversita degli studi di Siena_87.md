@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1087
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 960
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1087
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 960
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -12,159 +12,68 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla
+-----
 
-Decreta:
+proposta del Ministro della pubblica istruzione; Decreta:
 
-Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Articolo unico
+--------------
 
-Dopo l'art. 120, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in storia dell'arte medioevale e moderna presso la facolta' di lettere e filosofia.
-
-Art. 121. - Alla facolta' di lettere e filosofia e' annessa la scuola di specializzazione in storia dell'arte medioevale e moderna, della durata di due anni.
-
-Art. 122. - Il direttore della scuola e' nominato dal consiglio di facolta' fra i docenti ufficiali di materie storico-artistiche facenti parte dell'istituto di storia dell'arte.
-
-Art. 123. - Alla scuola possono accedere i laureati in lettere, in filosofia, in storia, in materie letterarie che abbiano discusso una tesi di argomento storico - artistico. Possono inoltre essere ammessi, dopo aver sostenuto un colloquio con il direttore della scuola affiancato da due docenti della scuola stessa, anche laureati in altre discipline con tesi su argomento diverso qualora la loro preparazione risulti sufficiente.
-
-Art. 124. - Il numero degli iscritti alla scuola e' fissato ad un massimo di venti per ogni anno di corso.
-
-Art. 125. - Alla fine del primo anno accademico gli iscritti dovranno aver sostenuto almeno tre esami per poter essere ammessi al secondo anno.
-
-Art. 126. - Alla fine del secondo anno gli specializzandi dovranno sostenere la discussione di una tesi su di un argomento di storia dell'arte medioevale o moderna precedentemente concordato con il direttore della scuola ed almeno uno dei docenti. La tesi deve essere approvata dallo stesso direttore e depositata presso la direzione almeno quindici giorni prima dell'esame di diploma.
-
-Art. 127. - Il corso di studi e' suddiviso in due indirizzi: medioevale e moderno. Il diploma rilasciato dopo la discussione delle tesi e' specifico.
-
-Art. 128. - Le materie di insegnamento sono le seguenti:
-
-INDIRIZZO MEDIOEVALE
-
-1° Anno:
-
-1) archeologia e storia dell'arte greca e romana o storia della tradizione classica nell'arte europea;
-
-2) storia dell'arte medioevale;
-
-3) storia dell'arte bizantina.
-
-2° Anno:
-
-1) storia della miniatura e delle arti minori;
-
-2) informatica applicata;
-
-3) iconografia e iconologia.
-
-INDIRIZZO MODERNO
-
-1° Anno:
-
-1) storia dell'arte moderna;
-
-2) storia dell'arte contemporanea;
-
-3) storia della critica d'arte.
-
-2° Anno:
-
-1) storia delle arti minori;
-
-2) informatica applicata;
-
-3) iconografia e iconologia.
-
-Art. 129. - Le tasse, soprattasse e contributi della scuola di specializzazione in storia dell'arte medioevale e moderna sono cosi' fissati:
-
-immatricolazione. . . . . . . . . . . . . . . . . . . . . . L. 15.000 tassa annuale di iscrizione. . . . . . . . . . . . . . . . . " 60.000 soprattassa annuale di esame . . . . . . . . . . . . . . . . " 20.000 tassa di diploma . . . . . . . . . . . . . . . . . . . . . . " 30.000
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1977
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 10 febbraio 1978 Registro n. 14 Istruzione, foglio n. 105
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Lo statuto dell'Universita' degli studi di Siena e' cosi' modificato:  
+Dopo l'art. 188, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola diretta a fini speciali per audioprotesisti:  
   
-Decreta:  
+Scuola diretta a fini speciali per audioprotesisti  
   
-Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Dopo l'art. 120, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in storia dell'arte medioevale e moderna presso la facolta' di lettere e filosofia.  
-Art. 121. - Alla facolta' di lettere e filosofia e' annessa la scuola di specializzazione in storia dell'arte medioevale e moderna, della durata di due anni.  
-Art. 122. - Il direttore della scuola e' nominato dal consiglio di facolta' fra i docenti ufficiali di materie storico-artistiche facenti parte dell'istituto di storia dell'arte.  
-Art. 123. - Alla scuola possono accedere i laureati in lettere, in filosofia, in storia, in materie letterarie che abbiano discusso una tesi di argomento storico - artistico. Possono inoltre essere ammessi, dopo aver sostenuto un colloquio con il direttore della scuola affiancato da due docenti della scuola stessa, anche laureati in altre discipline con tesi su argomento diverso qualora la loro preparazione risulti sufficiente.  
-Art. 124. - Il numero degli iscritti alla scuola e' fissato ad un massimo di venti per ogni anno di corso.  
-Art. 125. - Alla fine del primo anno accademico gli iscritti dovranno aver sostenuto almeno tre esami per poter essere ammessi al secondo anno.  
-Art. 126. - Alla fine del secondo anno gli specializzandi dovranno sostenere la discussione di una tesi su di un argomento di storia dell'arte medioevale o moderna precedentemente concordato con il direttore della scuola ed almeno uno dei docenti. La tesi deve essere approvata dallo stesso direttore e depositata presso la direzione almeno quindici giorni prima dell'esame di diploma.  
-Art. 127. - Il corso di studi e' suddiviso in due indirizzi: medioevale e moderno. Il diploma rilasciato dopo la discussione delle tesi e' specifico.  
-Art. 128. - Le materie di insegnamento sono le seguenti:  
-  
-INDIRIZZO MEDIOEVALE  
-  
+Art. 189. - La scuola a fini speciali per audioprotesisti ha sede presso l'istituto di clinica otorinolaringoiatrica dell'Universita' di Siena.  
+La durata del corso degli studi della scuola per audioprotesisti e' di due anni. L'indirizzo e' teorico-pratico.  
+Per l'ammissione alla scuola si richiede il diploma di perito industriale o titolo equipollente o superiore.  
+Alla scuola si accede previo esame di perfetta dizione di lingua italiana e di cultura generale. La commissione sara' composta dal direttore della scuola a da due docenti di audiologia o O.R.L.  
+Art. 190. - Il direttore della scuola e' titolare della cattedra di clinica otorinolaringoiatrica. La scuola e' sotto tutela della facolta' di medicina e chirurgia dell'Universita' di Siena. Gli insegnamenti sono proposti dal consiglio della scuola, formato dal direttore e da due docenti in audiologia o in clinica otorinolaringoiatrica. Le proposte di incarico di insegnamento vengono fatte alla facolta' di medicina e gli insegnanti sono scelti fra i titolari di altre cattedre della facolta' di medicina dell'Universita' di Siena, tra i liberi docenti in audiologia o in altre materie, o tra persone aventi particolari competenze sulle materie del corso.  
+Art. 191. - Le materie di insegnamento sono le seguenti:  
 1° Anno:  
-1) archeologia e storia dell'arte greca e romana o storia della tradizione classica nell'arte europea;  
-2) storia dell'arte medioevale;  
-3) storia dell'arte bizantina.  
+nozioni di fisica acustica;  
+anatomia e fisiologia dell'orecchio medio e interno;  
+audiometria clinica;  
+protesi acustica.  
 2° Anno:  
-1) storia della miniatura e delle arti minori;  
-2) informatica applicata;  
-3) iconografia e iconologia.  
+cause e quadro clinico-audiometrico della sordita';  
+indicazione alla terapia protesica della sordita';  
+applicazione della protesi acustica (aspetti tecnici);  
+psicologia del soggetto sordo.  
+Art. 192. - Gli allievi sono obbligati a frequentare l'istituto di clinica otorinolaringoiatrica ed il centro audiologico dell'Universita' di Siena. Seguiti i corsi e superati gli esami in tutti gli insegnamenti prescritti, gli allievi sono ammessi a sostenere l'esame di diploma. Le commissioni esaminatrici per gli esami di profitto sono nominate, su proposta del direttore della scuola, dal preside della facolta' di medicina e chirurgia.  
+Art. 193. - L'esame di diploma consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento della scuola ed in una prova pratica stabilita dalla commissione esaminatrice. L'esame di diploma viene sostenuto davanti ad una commissione di cinque membri, scelti tra i docenti della scuola, dal preside della facolta' di medicina e chirurgia. Ogni commissario ha a disposizione 10 punti.  
+I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola; verra' rilasciato agli allievi che avranno superato l'esame finale il diploma di audioprotesista.  
+Art. 194. - L'importo delle tasse e' stabilito nel modo seguente:  
   
-INDIRIZZO MODERNO  
+tassa di immatricolazione. . . . . . . . . . . . . . . . . . L. 5.000 tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 18.000 tassa erariale di diploma. . . . . . . . . . . . . . . . . . L. 6.000 soprattassa annuale esami di profitto. . . . . . . . . . . . L. 7.000 soprattassa per esame di diploma . . . . . . . . . . . . . . L. 3.000 tassa annuale per studenti fuori corso . . . . . . . . . . . L. 5.000   
+Agli studenti puo' essere richiesto il pagamento di eventuali contributi da determinarsi a norma dell'[art. 11 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art11).  
   
-1° Anno:  
-1) storia dell'arte moderna;  
-2) storia dell'arte contemporanea;  
-3) storia della critica d'arte.  
-2° Anno:  
-1) storia delle arti minori;  
-2) informatica applicata;  
-3) iconografia e iconologia.  
-Art. 129. - Le tasse, soprattasse e contributi della scuola di specializzazione in storia dell'arte medioevale e moderna sono cosi' fissati:  
-  
-immatricolazione. . . . . . . . . . . . . . . . . . . . . . L. 15.000 tassa annuale di iscrizione. . . . . . . . . . . . . . . . . " 60.000 soprattassa annuale di esame . . . . . . . . . . . . . . . . " 20.000 tassa di diploma . . . . . . . . . . . . . . . . . . . . . . " 30.000   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1977
+### Dato a Roma, addi' 31 ottobre 1979
 
-LEONE MALFATTI
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 10 febbraio 1978
+Registrato alla Corte dei conti, addi' 20 agosto 1980
 
-Registro n. 14 Istruzione, foglio n. 105
+Registro n. 78 Istruzione, foglio n. 38

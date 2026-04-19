@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1975 n. 728
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1984 n. 1190
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1975 n. 728
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1984 n. 1190
 ==============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
@@ -10,10 +10,11 @@ Autorizzazione ad accettare una donazione a favore dello Stato.
 Art. 1
 ------
 
+DECRETO 7 giugno 1984, n. 1190.   
 N.
 
-728. Decreto del Presidente della Repubblica 30 ottobre 1975, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione di una donazione, consistente in una collezione d'arte egizia composta di sessantadue pezzi, disposta a favore dello Stato dalla sig.ra Negri Maria Teodora ved. Ronco con atto in data 30 marzo 1973, n. 34295 di repertorio, a rogito dott. Guglielmo Morini notaio in Torino, da destinare al museo egizio di Torino.  
+1190. Decreto del Presidente della Repubblica 7 giugno 1984, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Dumenza (Varese), con atto 18 giugno 1976, n. 19305 di repertorio, a rogito dott. Claudia Pisciotta, notaio in Luino (Varese), consistente in un appezzamento di terreno di mq 430 sito nel comune di Dumenza, su cui e' stato costruito un fabbricato adibito a posto di vigilanza della Guardia di finanza.   
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 18 dicembre 1975  
-Atti di Governo, registro n. 15, foglio n. 49
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 26 ottobre 1984   
+Registro n. 59 Finanze, foglio n. 288

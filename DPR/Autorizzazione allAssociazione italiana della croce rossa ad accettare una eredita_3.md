@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1969 n. 885
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1969 n. 886
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1969 n. 885
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1969 n. 886
 ==============================================================
 
 Autorizzazione all'Associazione italiana della croce rossa ad accettare una eredita'.
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-885. Decreto del Presidente della Repubblica 15 ottobre 1969, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa, viene autorizzata ad accettare, con beneficio di inventario e con effetto dal 22 luglio 1961, l'eredita' con clausola di sostituzione fede commissaria disposta dal defunto Rasasco Giovanni risultante dal testamento olografo del 15 novembre 1954, depositato e pubblicato con verbale 26 marzo 1956, n. 5160 di repertorio, a rogito notar Abele Messuti, in Chiavari.  
+886. Decreto del Presidente della Repubblica 18 ottobre 1969, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa, viene autorizzata ad accettare l'eredita', in ragione di 4/50, disposta dalla defunta signora Morzenti Alessandra Antonia, detta Alessandrina e anche Rina, ved.  
+Milesi, con testamento olografo pubblicato per atto 11 aprile 1967, n. 28358 di repertorio del notaio dott. Celestino Terzi di Bergamo.  
   
 Visto, il Guardasigilli: GAVA  
 Registrato alla Corte dei conti, addi' 2 dicembre 1969  
-Atti del Governo, registro n. 230, foglio n. 95. - CARUSO
+Atti del Governo, registro n. 230, foglio n. 94. - CARUSO

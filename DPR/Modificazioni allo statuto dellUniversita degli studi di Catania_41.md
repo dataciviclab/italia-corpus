@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1026
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1966 n. 939
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1026
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1966 n. 939
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
@@ -10,15 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Catania.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,155 +30,159 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 157. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono aggiunte le scuole in "Microbiologia e in "Reumatologia".
+Il contenuto degli articoli 118, 121, comma secondo, 123, 124, 125, comma quarto, 126, 128, comma terzo, 129, primo comma - relativi alla Scuola di perfezionamento in Archeologia classica e studi sul Dramma antico - e' abrogato e sostituito nel modo seguente:
 
-L'art. 198, relativo alla scuola di specializzazione in igiene e medicina preventiva e' modificato nel senso che dopo il 3° comma e' aggiunto il seguente:
+Art. 118. - "Alla Facolta' di lettere e filosofia a' annessa una Scuola di perfezionamento in Archeologia classica e in Studi sul dramma antico.
 
-"Analogamente coloro che hanno conseguito il diploma di specializzazione in igiene a norma dei precedenti statuti delle scuole di specializzazione possono essere iscritti al 3° anno in uno dei quattro orientamenti previsti, nell'ambito della disponibilita' dei posti" Dopo l'art. 213 sono aggiunti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in microbiologia e in reumatologia.
+La Scuola ha lo scopo di promuovere la cultura archeologica, e di fornire; ai laureati nelle discipline classiche delle Universita' italiane e, straniere il mezzo di approfondire le loro conoscenze archeologiche con particolare riferimento alla Sicilia, Si propone, inoltre il compito di promuovere lo studio dei problemi relativi al teatro antico, e di fornire agli studiosi di discipline classiche e filosofiche il mezzo di approfondire le loro conoscenze nel campo dell'antica drammaturgia".
 
-Scuola di specializzazione in microbiologia
+Art. 121 (comma 2°). - "Il Consiglio di amministrazione ha il compito di attribuire ogni anno gli incarichi di insegnamento della Scuola su proposta del Consiglio direttivo, che si riserva la facolta' di proporre per l'insegnamento cultori specializzati nel campo delle discipline della Scuola. Studiosi stranieri potranno essere chiamati a tenere seminari e conferenze".
 
-Art. 214. - La scuola di specializzazione in microbiologia che conferisce il diploma di specialista in microbiologia, ha sede presso l'Istituto di microbiologia dell'Universita' di Catania. La direzione di detta scuola e' assunta dal professore di ruolo direttore dell'istituto di microbiologia dell'Universita' di Catania od, in sua assenza, da altro professore di ruolo, designato dalla facolta' di medicina e chirurgia dell'Universita' di Catania tra gli insegnanti della scuola di specializzazione.
+Art. 123. - "I corsi di perfezionamento in Archeologia classica e in Studi sul dramma antico hanno la durata di due anni.
 
-Art. 215. - Il corso di studi per il conseguimento del diploma ha la durata di tre anni.
+Sono insegnamenti del corso di perfezionamento in Archeologia classica:
 
-Art. 216. - La scuola di specializzazione in microbiologia ha lo scopo di allargare e completare sul piano scientifico la cultura di coloro che si dedicano allo studio di questa disciplina e di fornire sul piano tecnico una preparazione pratica specifica.
+1) Archeologia e storia dell'arte greca e romana (biennale);
 
-Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia ed in scienze biologiche.
+2) Topografia antica (biennale);
 
-Il numero massimo degli iscritti e' di dieci per ogni anno di corso.
+3) Paletnologia;
 
-Nel caso che le domande eccedessero tale numero la selezione verra' fatta mediante concorso (graduatoria per titoli ed esami).
+4) Storia della Sicilia antica e medioevale;
 
-Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni, le esercitazioni, le visite di istruzione e le eventuali conferenze; in caso contrario non potranno ottenere l'attestazione di frequenza necessaria per essere ammessi a sostenere le prove di esami.
+5) Epigrafia greca e romana;
 
-Art. 217. - Gli insegnamenti impartiti dalla scuola sono i seguenti:
+6) Numismatica greca e romana;
 
-1° Anno:
+7) Antichita' greche e romane;
 
-Chimica microbiologica;
+8) Filologia classica;
 
-Batteriologia generale e tecnica batteriologica;
+9) Archeologia tardo-antica e alto-medioevale;
 
-Analisi statistica del dosaggio biologico;
+10) Storia dell'arte bizantina.
 
-Immunologia.
+Sono insegnamenti del corso di perfezionamento in Studi sul Dramma antico:
 
-2° Anno:
+1) Filologia classica (biennale);
 
-Virologia generale e tecnica virologica;
+2) Storia antica;
 
-Micologia;
+3) Epigrafia greca e romana;
 
-Protozoologia;
+4) Scenotecnica e regia teatrale;
 
-Chemioterapici ed antibiotici;
+5) Storia e poetica del teatro classico nelle letterature moderne;
 
-Batteriologia speciale.
+6) Metrica classica;
 
-3° Anno:
+7) Musica e danza classica;
 
-Genetica dei microrganismi;
+8) Antichita' greche e romane;
 
-Virologia speciale;
+9) Archeologia e storia dell'arte greca e romana;
 
-Microbiologia degli alimenti;
+10) Topografia antica.
 
-Microbiologia industriale;
-
-Metodi e dosaggio microbiologici.
-
-Art. 218. - Gli esami di profitto (discussione orale e prova pratica) saranno sostenuti singolarmente per ciascun insegnamento.
-
-L'esame di diploma, cui si e' ammessi dopo aver superato tutti gli esami nelle singole materie consta di una dissertazione scritta - elaborata preferibilmente in un istituto universitario, sotto il controllo di un relatore scelto fra il personale docente - su un argomento pertinente gli insegnamenti della scuola e da prove pratiche.
-
-Art. 219. - Gli iscritti dovranno pagare al 1° anno una tassa di immatricolazione di L. 7500 ed annualmente una tassa di iscrizione di L. 27.000; sopratassa esami di profitto di L. 7000, contributi di laboratorio L. 40.000, contributo spese generali L. 40.000, contributo riscaldamento L. 3000, contributo COSA L. 1000;
-
-I diplomati dovranno inoltre pagare L. 3000 per sopratassa di diploma e L. 6000 per tassa di diploma.
-
-Questa ultima tassa verra' versata all'erario, mentre tutte le altre tasse, sopratasse e contributi verranno versati alla cassa dell'universita'.
-
-Scuola di specializzazione in reumatologia
-
-Art. 220. - La scuola di specializzazione in reumatologia ha sede presso l'istituto di terapia medica sistematica dell'Universita' degli studi di Catania.
-
-Il corso degli studi per il conseguimento del diploma di specialista in reumatologia ha la durata di tre anni accademici.
-
-Alla scuola possono iscriversi i laureati in medicina e chirurgia.
-
-Per l'ammissione e' previsto un concorso per titoli ed esami.
-
-La scuola non puo' accogliere piu' di quattro specializzandi per ciascun anno di corso.
-
-Art. 221. - Le materie di insegnamento ed i relativi esami sono cosi' ripartiti:
+Art. 124. - Gli insegnamenti del corso di perfezionamento in Archeologia classica sono ordinati secondo il seguente piano di studi:
 
 1° Anno:
 
-Anatomia, istologia e morfogenesi dell'apparato muscolo-scheletrico e articolare;
+1) Archeologia e storia dell'arte greca e romana (1° corso);
 
-Fisiopatologia dell'apparato muscolo-scheletrico e articolare;
+2) Topografia antica (lo corso);
 
-Biochimica dei tessuti connettivi;
+3) Paletnologia;
 
-Microbiologia ed immunologia in relazione alle malattie reumatiche;
+4) Storia della Sicilia antica e medioevale;
 
-Semeiotica fisica, strumentale e di laboratorio in reumatologia (biennale).
+5) Epigrafia greca e romana;
 
-2° Anno:
+6) Antichita' greche e romane;
 
-Semeiotica fisica, strumentale e di laboratorio in reumatologia (biennale);
+7) Filologia classica.
 
-Anatomia ed istologia patologica delle malattie reumatiche;
+20 Anno:
 
-Farmacologia in relazione alle malattie reumatiche;
+1) Archeologia e storia dell'arte greca e romana (20 corso);
 
-Diagnostica radiologica;
+2) Topografia antica (2° corso);
 
-Patologia, clinica e terapia delle malattie reumatiche (biennale);
+3) Numismatica greca e romana;
 
-Terapia fisica, termale e riabilitativa in reumatologia (biennale).
+4) Archeologia tardo-antica e alto-medioevale;
 
-3° Anno:
+5) Storia dell'arte bizantina".
 
-Patologia clinica e terapia delle malattie reumatiche (biennale);
+Art. 125 (comma 40). - "Tutti gli insegnamenti hanno particolare riferimento alla Sicilia".
 
-Terapia fisica, termale e riabilitativa in reumatologia (biennale);
+Art. 126. - Gli insegnamenti del corso di perfezionamento in Studi sul dramma antico sono ordinati come segue:
 
-Clinica e terapia ortopedica applicata alla reumatologia;
+1° Anno:
 
-Aspetti sociali ed epidemiologici delle malattie reumatiche.
+1) Filologia classica (1° corso);
 
-Art. 222. - Per conseguire il diploma di specialista dovra' essere presentata e discussa una tesi scritta su un tema preventivamente approvato dal direttore della scuola.
+2) Storia antica;
 
-E' obbligatoria la frequenza alle lezioni, esercitazioni ed un internato annuale di almeno 6 anni.
+3) Epigrafia greca e romana;
 
-Le norme per l'iscrizione, le tasse, le eventuali abbreviazioni di corso, gli esami, ecc. sono quelle previste dalle disposizioni generali relative alle scuole di specializzazione della facolta' di medicina e chirurgia dell'Universita'.
+4) Antichita' greche e romane;
+
+5) Topografia antica;
+
+4) Archeologia e storia dell'arte greca e romana.
+
+20 Anno:
+
+1) Filologia classica (2° corso);
+
+2) Scenotecnica e regia teatrale;
+
+3) Storia e poetica del teatro classico nelle letterature moderne;
+
+4) Metrica classica;
+
+5) Musica e danza classica.
+
+Tutti gli insegnamenti del corso di perfezionamento in Studi sul Dramma antico debbono essere orientati su problemi del teatro classico e sono accompagnati da opportune esercitazioni e sopraluoghi nei teatri classici di maggiore rinomanza. Sono previsti inoltre, ogni anno, speciali corsi di conferenze tenuti da insigni studiosi italiani e stranieri".
+
+Art. 128 (comma 3°). - "L'iscritto che non abbia soddisfatto agli obblighi predetti e che non abbia superato gli esami prescritti, non viene ammesso agli esami di diploma".
+
+Art. 129 (comma 1°). - "Alla fine del II anno gli iscritti al corso di Archeologia classica conseguono il diploma di perfezionamento dopo aver presentato e discusso una dissertazione sulle seguenti materie:
+
+1) Archeologia e storia dell'arte greca e romana;
+
+2) Topografia antica; 3) Paletnologia; 4) Epigrafia greca e romana; 5) Numismatica greca e romana; 6) Archeologia tardo-antica ed alto-medioevale. Gli iscritti al corso di studi sul dramma antico conseguono il relativo diploma dopo aver presentato e discusso una dissertazione in una delle seguenti materie: 1) Filologia classica;
+
+2) Antichita' greche e romane; 3) Storia antica; 4) Epigrafia greca e romana; 5) Metrica classica.
+
+L'iscritto che volesse presentare una dissertazione in materia del suo gruppo non compresa tra quelle sopra indicate, deve farne motivata richiesta al Consiglio direttivo. Qualora ottenga l'autorizzazione, e' obbligato a presentare anche una tesina in una delle materie prescritte nel precedente comma, secondo le indicazioni del Consiglio direttivo".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1972
+Dato a Roma, addi' 9 settembre 1966
 
-LEONE
+SARAGAT
 
-SCALFARO
+GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 20 febbraio 1973 Atti di Governo, registro n. 256, foglio n. 2. - VALENTINI
+alla Corte dei conti, addi' 2 novembre 1966 Atti del Governo, registro n. 206, foglio n. 143. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -186,91 +190,81 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 157. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono aggiunte le scuole in "Microbiologia e in "Reumatologia".  
-L'art. 198, relativo alla scuola di specializzazione in igiene e medicina preventiva e' modificato nel senso che dopo il 3° comma e' aggiunto il seguente:  
-"Analogamente coloro che hanno conseguito il diploma di specializzazione in igiene a norma dei precedenti statuti delle scuole di specializzazione possono essere iscritti al 3° anno in uno dei quattro orientamenti previsti, nell'ambito della disponibilita' dei posti" Dopo l'art. 213 sono aggiunti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in microbiologia e in reumatologia.  
-  
-Scuola di specializzazione in microbiologia  
-  
-Art. 214. - La scuola di specializzazione in microbiologia che conferisce il diploma di specialista in microbiologia, ha sede presso l'Istituto di microbiologia dell'Universita' di Catania. La direzione di detta scuola e' assunta dal professore di ruolo direttore dell'istituto di microbiologia dell'Universita' di Catania od, in sua assenza, da altro professore di ruolo, designato dalla facolta' di medicina e chirurgia dell'Universita' di Catania tra gli insegnanti della scuola di specializzazione.  
-Art. 215. - Il corso di studi per il conseguimento del diploma ha la durata di tre anni.  
-Art. 216. - La scuola di specializzazione in microbiologia ha lo scopo di allargare e completare sul piano scientifico la cultura di coloro che si dedicano allo studio di questa disciplina e di fornire sul piano tecnico una preparazione pratica specifica.  
-Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia ed in scienze biologiche.  
-Il numero massimo degli iscritti e' di dieci per ogni anno di corso.  
-Nel caso che le domande eccedessero tale numero la selezione verra' fatta mediante concorso (graduatoria per titoli ed esami).  
-Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni, le esercitazioni, le visite di istruzione e le eventuali conferenze; in caso contrario non potranno ottenere l'attestazione di frequenza necessaria per essere ammessi a sostenere le prove di esami.  
-Art. 217. - Gli insegnamenti impartiti dalla scuola sono i seguenti:  
-  
+Il contenuto degli articoli 118, 121, comma secondo, 123, 124, 125, comma quarto, 126, 128, comma terzo, 129, primo comma - relativi alla Scuola di perfezionamento in Archeologia classica e studi sul Dramma antico - e' abrogato e sostituito nel modo seguente:  
+Art. 118. - "Alla Facolta' di lettere e filosofia a' annessa una Scuola di perfezionamento in Archeologia classica e in Studi sul dramma antico.  
+La Scuola ha lo scopo di promuovere la cultura archeologica, e di fornire; ai laureati nelle discipline classiche delle Universita' italiane e, straniere il mezzo di approfondire le loro conoscenze archeologiche con particolare riferimento alla Sicilia, Si propone, inoltre il compito di promuovere lo studio dei problemi relativi al teatro antico, e di fornire agli studiosi di discipline classiche e filosofiche il mezzo di approfondire le loro conoscenze nel campo dell'antica drammaturgia".  
+Art. 121 (comma 2°). - "Il Consiglio di amministrazione ha il compito di attribuire ogni anno gli incarichi di insegnamento della Scuola su proposta del Consiglio direttivo, che si riserva la facolta' di proporre per l'insegnamento cultori specializzati nel campo delle discipline della Scuola. Studiosi stranieri potranno essere chiamati a tenere seminari e conferenze".  
+Art. 123. - "I corsi di perfezionamento in Archeologia classica e in Studi sul dramma antico hanno la durata di due anni.  
+Sono insegnamenti del corso di perfezionamento in Archeologia classica:  
+1) Archeologia e storia dell'arte greca e romana (biennale);  
+2) Topografia antica (biennale);  
+3) Paletnologia;  
+4) Storia della Sicilia antica e medioevale;  
+5) Epigrafia greca e romana;  
+6) Numismatica greca e romana;  
+7) Antichita' greche e romane;  
+8) Filologia classica;  
+9) Archeologia tardo-antica e alto-medioevale;  
+10) Storia dell'arte bizantina.  
+Sono insegnamenti del corso di perfezionamento in Studi sul Dramma antico:  
+1) Filologia classica (biennale);  
+2) Storia antica;  
+3) Epigrafia greca e romana;  
+4) Scenotecnica e regia teatrale;  
+5) Storia e poetica del teatro classico nelle letterature moderne;  
+6) Metrica classica;  
+7) Musica e danza classica;  
+8) Antichita' greche e romane;  
+9) Archeologia e storia dell'arte greca e romana;  
+10) Topografia antica.  
+Art. 124. - Gli insegnamenti del corso di perfezionamento in Archeologia classica sono ordinati secondo il seguente piano di studi:  
 1° Anno:  
-Chimica microbiologica;  
-Batteriologia generale e tecnica batteriologica;  
-Analisi statistica del dosaggio biologico;  
-Immunologia.  
-  
-2° Anno:  
-Virologia generale e tecnica virologica;  
-Micologia;  
-Protozoologia;  
-Chemioterapici ed antibiotici;  
-Batteriologia speciale.  
-  
-3° Anno:  
-Genetica dei microrganismi;  
-Virologia speciale;  
-Microbiologia degli alimenti;  
-Microbiologia industriale;  
-Metodi e dosaggio microbiologici.  
-  
-Art. 218. - Gli esami di profitto (discussione orale e prova pratica) saranno sostenuti singolarmente per ciascun insegnamento.  
-L'esame di diploma, cui si e' ammessi dopo aver superato tutti gli esami nelle singole materie consta di una dissertazione scritta - elaborata preferibilmente in un istituto universitario, sotto il controllo di un relatore scelto fra il personale docente - su un argomento pertinente gli insegnamenti della scuola e da prove pratiche.  
-Art. 219. - Gli iscritti dovranno pagare al 1° anno una tassa di immatricolazione di L. 7500 ed annualmente una tassa di iscrizione di L. 27.000; sopratassa esami di profitto di L. 7000, contributi di laboratorio L. 40.000, contributo spese generali L. 40.000, contributo riscaldamento L. 3000, contributo COSA L. 1000;  
-I diplomati dovranno inoltre pagare L. 3000 per sopratassa di diploma e L. 6000 per tassa di diploma.  
-Questa ultima tassa verra' versata all'erario, mentre tutte le altre tasse, sopratasse e contributi verranno versati alla cassa dell'universita'.  
-  
-Scuola di specializzazione in reumatologia  
-  
-Art. 220. - La scuola di specializzazione in reumatologia ha sede presso l'istituto di terapia medica sistematica dell'Universita' degli studi di Catania.  
-Il corso degli studi per il conseguimento del diploma di specialista in reumatologia ha la durata di tre anni accademici.  
-Alla scuola possono iscriversi i laureati in medicina e chirurgia.  
-Per l'ammissione e' previsto un concorso per titoli ed esami.  
-La scuola non puo' accogliere piu' di quattro specializzandi per ciascun anno di corso.  
-Art. 221. - Le materie di insegnamento ed i relativi esami sono cosi' ripartiti:  
-  
+1) Archeologia e storia dell'arte greca e romana (1° corso);  
+2) Topografia antica (lo corso);  
+3) Paletnologia;  
+4) Storia della Sicilia antica e medioevale;  
+5) Epigrafia greca e romana;  
+6) Antichita' greche e romane;  
+7) Filologia classica.  
+20 Anno:  
+1) Archeologia e storia dell'arte greca e romana (20 corso);  
+2) Topografia antica (2° corso);  
+3) Numismatica greca e romana;  
+4) Archeologia tardo-antica e alto-medioevale;  
+5) Storia dell'arte bizantina".  
+Art. 125 (comma 40). - "Tutti gli insegnamenti hanno particolare riferimento alla Sicilia".  
+Art. 126. - Gli insegnamenti del corso di perfezionamento in Studi sul dramma antico sono ordinati come segue:  
 1° Anno:  
-Anatomia, istologia e morfogenesi dell'apparato muscolo-scheletrico e articolare;  
-Fisiopatologia dell'apparato muscolo-scheletrico e articolare;  
-Biochimica dei tessuti connettivi;  
-Microbiologia ed immunologia in relazione alle malattie reumatiche;  
-Semeiotica fisica, strumentale e di laboratorio in reumatologia (biennale).  
-  
-2° Anno:  
-Semeiotica fisica, strumentale e di laboratorio in reumatologia (biennale);  
-Anatomia ed istologia patologica delle malattie reumatiche;  
-Farmacologia in relazione alle malattie reumatiche;  
-Diagnostica radiologica;  
-Patologia, clinica e terapia delle malattie reumatiche (biennale);  
-Terapia fisica, termale e riabilitativa in reumatologia (biennale).  
-  
-3° Anno:  
-Patologia clinica e terapia delle malattie reumatiche (biennale);  
-Terapia fisica, termale e riabilitativa in reumatologia (biennale);  
-Clinica e terapia ortopedica applicata alla reumatologia;  
-Aspetti sociali ed epidemiologici delle malattie reumatiche.  
-  
-Art. 222. - Per conseguire il diploma di specialista dovra' essere presentata e discussa una tesi scritta su un tema preventivamente approvato dal direttore della scuola.  
-E' obbligatoria la frequenza alle lezioni, esercitazioni ed un internato annuale di almeno 6 anni.  
-Le norme per l'iscrizione, le tasse, le eventuali abbreviazioni di corso, gli esami, ecc. sono quelle previste dalle disposizioni generali relative alle scuole di specializzazione della facolta' di medicina e chirurgia dell'Universita'.  
+1) Filologia classica (1° corso);  
+2) Storia antica;  
+3) Epigrafia greca e romana;  
+4) Antichita' greche e romane;  
+5) Topografia antica;  
+4) Archeologia e storia dell'arte greca e romana.  
+20 Anno:  
+1) Filologia classica (2° corso);  
+2) Scenotecnica e regia teatrale;  
+3) Storia e poetica del teatro classico nelle letterature moderne;  
+4) Metrica classica;  
+5) Musica e danza classica.  
+Tutti gli insegnamenti del corso di perfezionamento in Studi sul Dramma antico debbono essere orientati su problemi del teatro classico e sono accompagnati da opportune esercitazioni e sopraluoghi nei teatri classici di maggiore rinomanza. Sono previsti inoltre, ogni anno, speciali corsi di conferenze tenuti da insigni studiosi italiani e stranieri".  
+Art. 128 (comma 3°). - "L'iscritto che non abbia soddisfatto agli obblighi predetti e che non abbia superato gli esami prescritti, non viene ammesso agli esami di diploma".  
+Art. 129 (comma 1°). - "Alla fine del II anno gli iscritti al corso di Archeologia classica conseguono il diploma di perfezionamento dopo aver presentato e discusso una dissertazione sulle seguenti materie:  
+1) Archeologia e storia dell'arte greca e romana;  
+2) Topografia antica; 3) Paletnologia; 4) Epigrafia greca e romana; 5) Numismatica greca e romana; 6) Archeologia tardo-antica ed alto-medioevale. Gli iscritti al corso di studi sul dramma antico conseguono il relativo diploma dopo aver presentato e discusso una dissertazione in una delle seguenti materie: 1) Filologia classica;  
+2) Antichita' greche e romane; 3) Storia antica; 4) Epigrafia greca e romana; 5) Metrica classica.  
+L'iscritto che volesse presentare una dissertazione in materia del suo gruppo non compresa tra quelle sopra indicate, deve farne motivata richiesta al Consiglio direttivo. Qualora ottenga l'autorizzazione, e' obbligato a presentare anche una tesina in una delle materie prescritte nel precedente comma, secondo le indicazioni del Consiglio direttivo".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 9 settembre 1966
 
-LEONE SCALFARO
+SARAGAT GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 20 febbraio 1973
+Registrato alla Corte dei conti, addi' 2 novembre 1966
 
-Atti di Governo, registro n. 256, foglio n. 2. - VALENTINI
+Atti del Governo, registro n. 206, foglio n. 143. - VILLA

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1227
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1974 n. 523
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1227
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1974 n. 523
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Sassari.
 -------------------------------------------------------------------
@@ -10,55 +10,341 @@ Modificazioni allo statuto dell'Universita' degli studi di Sassari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084), e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
-
-Veduto il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 76 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la seguente:
+
+Scuola di specializzazione in chirurgia.
+
+Dopo l'art. 126, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia.
+
+Scuola di specializzazione in chirurgia
+
+Art. 127. - Alla facolta' di medicina e chirurgia dell'Universita' di Sassari e' annessa la scuola di specializzazione in chirurgia con sede presso l'istituto di clinica chirurgica.
+
+La scuola conferisce il diploma di specializzazione in chirurgia.
+
+Il corso ha la durata di cinque anni.
+
+Art. 128. - Insegnamenti impartiti:
+
+Annuali:
+
+Anestesia e rianimazione (1° anno);
+
+Chirurgia cardiovascolare (5° anno);
+
+Chirurgia d'urgenza (5° anno);
+
+Chirurgia ginecologica (4° anno);
+
+Chirurgia pediatrica (4° anno);
+
+Chirurgia riparativa e plastica (5° anno);
+
+Chirurgia sperimentale (1° anno);
+
+Chirurgia toracica (5° anno);
+
+Chirurgia urologica (4° anno);
+
+Fisiopatologia chirurgica (2° anno);
+
+Medicina legale (5° anno);
+
+Neurochirurgia (4° anno);
+
+Radiologia (3° anno);
+
+Ricerche di laboratorio (1° anno);
+
+Semeiotica strumentale ed endoscopica (3° anno);
+
+Trattamento pre e post operatorio (2° anno);
+
+Traumatologia ed ortopedia (4° anno).
+
+Biennali:
+
+Anatomia e istologia patologica (2° e 3° anno);
+
+Semeiotica chirurgica (1° e 2° anno).
+
+Triennali:
+
+Anatomia chirurgica e corso di operazioni (1°, 2° e 3° anno);
+
+Patologia speciale chirurgica (1°, 2° e 3° anno).
+
+Quinquennali:
+
+Clinica chirurgica generale (1°, 2°, 3°, 4° e 5° anno).
+
+PIANI DI STUDIO
+
+1° Anno:
+
+Clinica chirurgica generale 1°;
+
+Patologia speciale chirurgica 1°;
+
+Semeiotica chirurgica 1°;
+
+Anatomia chirurgica e corso di operazioni 1°;
+
+Chirurgia sperimentale;
+
+Anestesia e rianimazione;
+
+Ricerche di laboratorio.
+
+2° Anno:
+
+Patologia speciale chirurgica 2°;
+
+Semeiotica chirurgica 2°;
+
+Anatomia chirurgica e corso di operazioni 2°:
+
+Fisiopatologia chirurgica;
+
+Trattamento pre e post operatorio;
+
+Anatomia e istologia patologica 1°.
+
+3° Anno:
+
+Clinica chirurgica generale 3°;
+
+Patologia speciale chirurgica 3°;
+
+Semeiotica strumentale ed endoscopica;
+
+Anatomia chirurgica e corso di operazioni 3°;
+
+Radiologia;
+
+Anatomia e istologia patologica 2°.
+
+4° Anno:
+
+Clinica chirurgica generale 4°;
+
+Chirurgia ginecologica;
+
+Chirurgia urologica;
+
+Neurochirurgia;
+
+Traumatologia e ortopedia;
+
+Chirurgia pediatrica.
+
+5° Anno:
+
+Clinica chirurgica generale 5°;
+
+Chirurgia toracica;
+
+Chirurgia cardiovascolare;
+
+Chirurgia riparativa e plastica;
+
+Chirurgia d'urgenza;
+
+Medicina legale.
+
+Art. 129. Ammmissioni: possono essere ammessi alla scuola i laureati in medicina e chirurgia.
+
+Saranno ammessi al corso venti allievi nei 5 anni.
+
+Le ammissioni avvengono sulla base di titoli ed esami.
+
+Agli anni successivi al primo anno sono ammessi gli allievi che abbiano regolarmente frequentato il corso precedente e superato i relativi esami di profitto.
+
+Gli allievi che chiedono il trasferimento da altre universita' potranno essere ammessi alla scuola secondo le modalita' di legge.
+
+Non sono consentite per alcun motivo iscrizioni con abbreviazioni di corso.
+
+Frequenze: la frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.
+
+Il corso comprende lezioni, seminari, esercitazioni ed internato presso l'istituto di clinica chirurgica.
+
+L'internato e' obbligatorio durante tutti i cinque anni del corso e si svolgera' presso la clinica chirurgica sotto forma di permanenza costante nella detta clinica durante le ore della sua attivita', con presenza giornaliera agli ambulatori ed ai reparti di degenza. La frequenza nelle sale operatorie iniziera' fin dal primo anno di corso e, dopo un periodo di tirocinio, si trasformera' in compartecipazione attiva agli interventi operatori.
+
+Gli allievi hanno doveri ed attribuzioni analoghi a quelli degli assistenti. Dall'obbligo di tale internato potranno essere parzialmente esonerati, su concessione del direttore della scuola e nei limiti delle norme vigenti, quegli allievi che, in qualita' di aiuti e assistenti di ruolo, prestino servizio presso reparti di chirurgia generale delle universita' e di ospedali regionali. Per i corsi che non sono della clinica chirurgica generale, saranno stabiliti, su parere del direttore della scuola, periodi di continuativa frequenza presso i vari reparti specialistici indipendenti.
+
+Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico della operosita' scolastica degli allievi, con frequenti interrogazioni vigilando sulle esercitazioni pratiche e sui turni di servizio interno.
+
+Gli allievi che non abbiano ottemperato agli obblighi di frequenza, non saranno ammessi a sostenere gli esami annuali.
+
+Esami: le prove di esame per ciascun anno di corso riguardano gli insegnamenti impartiti in quell'anno, secondo il piano di studio. Gli esami per singole materie potranno essere sostenuti in due sessioni: estiva ed autunnale.
+
+Sono ammessi agli esami di diploma gli allievi che abbiano superato gli esami annuali di profitto. L'esame di diploma consiste nella discussione orale di una tesi scritta, su un tema in precedenza approvato dal direttore della scuola.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 22 luglio 1974
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: ZAGARI
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 28 ottobre 1974 Atti di Governo, registro n. 6, foglio n. 71. - SCIARRETTA
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Nell'art. 32, relativo al corso di laurea in materie letterarie, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
-archeologia delle province romane.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084), e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Nell'art. 33, relativo al corso di laurea in pedagogia, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
-sociologia della famiglia e dell'educazione.  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Art. 76 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la seguente:  
+  
+Scuola di specializzazione in chirurgia.  
+  
+Dopo l'art. 126, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia.  
+  
+Scuola di specializzazione in chirurgia  
+  
+Art. 127. - Alla facolta' di medicina e chirurgia dell'Universita' di Sassari e' annessa la scuola di specializzazione in chirurgia con sede presso l'istituto di clinica chirurgica.  
+La scuola conferisce il diploma di specializzazione in chirurgia.  
+Il corso ha la durata di cinque anni.  
+  
+Art. 128. - Insegnamenti impartiti:  
+  
+Annuali:  
+Anestesia e rianimazione (1° anno);  
+Chirurgia cardiovascolare (5° anno);  
+Chirurgia d'urgenza (5° anno);  
+Chirurgia ginecologica (4° anno);  
+Chirurgia pediatrica (4° anno);  
+Chirurgia riparativa e plastica (5° anno);  
+Chirurgia sperimentale (1° anno);  
+Chirurgia toracica (5° anno);  
+Chirurgia urologica (4° anno);  
+Fisiopatologia chirurgica (2° anno);  
+Medicina legale (5° anno);  
+Neurochirurgia (4° anno);  
+Radiologia (3° anno);  
+Ricerche di laboratorio (1° anno);  
+Semeiotica strumentale ed endoscopica (3° anno);  
+Trattamento pre e post operatorio (2° anno);  
+Traumatologia ed ortopedia (4° anno).  
+  
+Biennali:  
+Anatomia e istologia patologica (2° e 3° anno);  
+Semeiotica chirurgica (1° e 2° anno).  
+  
+Triennali:  
+Anatomia chirurgica e corso di operazioni (1°, 2° e 3° anno);  
+Patologia speciale chirurgica (1°, 2° e 3° anno).  
+  
+Quinquennali:  
+Clinica chirurgica generale (1°, 2°, 3°, 4° e 5° anno).  
+  
+PIANI DI STUDIO  
+  
+1° Anno:  
+Clinica chirurgica generale 1°;  
+Patologia speciale chirurgica 1°;  
+Semeiotica chirurgica 1°;  
+Anatomia chirurgica e corso di operazioni 1°;  
+Chirurgia sperimentale;  
+Anestesia e rianimazione;  
+Ricerche di laboratorio.  
+  
+2° Anno:  
+Patologia speciale chirurgica 2°;  
+Semeiotica chirurgica 2°;  
+Anatomia chirurgica e corso di operazioni 2°:  
+Fisiopatologia chirurgica;  
+Trattamento pre e post operatorio;  
+Anatomia e istologia patologica 1°.  
+  
+3° Anno:  
+Clinica chirurgica generale 3°;  
+Patologia speciale chirurgica 3°;  
+Semeiotica strumentale ed endoscopica;  
+Anatomia chirurgica e corso di operazioni 3°;  
+Radiologia;  
+Anatomia e istologia patologica 2°.  
+  
+4° Anno:  
+Clinica chirurgica generale 4°;  
+Chirurgia ginecologica;  
+Chirurgia urologica;  
+Neurochirurgia;  
+Traumatologia e ortopedia;  
+Chirurgia pediatrica.  
+  
+5° Anno:  
+Clinica chirurgica generale 5°;  
+Chirurgia toracica;  
+Chirurgia cardiovascolare;  
+Chirurgia riparativa e plastica;  
+Chirurgia d'urgenza;  
+Medicina legale.  
+  
+Art. 129. Ammmissioni: possono essere ammessi alla scuola i laureati in medicina e chirurgia.  
+Saranno ammessi al corso venti allievi nei 5 anni.  
+Le ammissioni avvengono sulla base di titoli ed esami.  
+Agli anni successivi al primo anno sono ammessi gli allievi che abbiano regolarmente frequentato il corso precedente e superato i relativi esami di profitto.  
+Gli allievi che chiedono il trasferimento da altre universita' potranno essere ammessi alla scuola secondo le modalita' di legge.  
+Non sono consentite per alcun motivo iscrizioni con abbreviazioni di corso.  
+Frequenze: la frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.  
+Il corso comprende lezioni, seminari, esercitazioni ed internato presso l'istituto di clinica chirurgica.  
+L'internato e' obbligatorio durante tutti i cinque anni del corso e si svolgera' presso la clinica chirurgica sotto forma di permanenza costante nella detta clinica durante le ore della sua attivita', con presenza giornaliera agli ambulatori ed ai reparti di degenza. La frequenza nelle sale operatorie iniziera' fin dal primo anno di corso e, dopo un periodo di tirocinio, si trasformera' in compartecipazione attiva agli interventi operatori.  
+Gli allievi hanno doveri ed attribuzioni analoghi a quelli degli assistenti. Dall'obbligo di tale internato potranno essere parzialmente esonerati, su concessione del direttore della scuola e nei limiti delle norme vigenti, quegli allievi che, in qualita' di aiuti e assistenti di ruolo, prestino servizio presso reparti di chirurgia generale delle universita' e di ospedali regionali. Per i corsi che non sono della clinica chirurgica generale, saranno stabiliti, su parere del direttore della scuola, periodi di continuativa frequenza presso i vari reparti specialistici indipendenti.  
+Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico della operosita' scolastica degli allievi, con frequenti interrogazioni vigilando sulle esercitazioni pratiche e sui turni di servizio interno.  
+Gli allievi che non abbiano ottemperato agli obblighi di frequenza, non saranno ammessi a sostenere gli esami annuali.  
+Esami: le prove di esame per ciascun anno di corso riguardano gli insegnamenti impartiti in quell'anno, secondo il piano di studio. Gli esami per singole materie potranno essere sostenuti in due sessioni: estiva ed autunnale.  
+Sono ammessi agli esami di diploma gli allievi che abbiano superato gli esami annuali di profitto. L'esame di diploma consiste nella discussione orale di una tesi scritta, su un tema in precedenza approvato dal direttore della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1983
+### Dato a Roma, addi' 22 luglio 1974
 
-PERTINI FALCUCCI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 28 aprile 1984
+Registrato alla Corte dei conti, addi' 28 ottobre 1974
 
-Registro n. 25 Istruzione, foglio n. 221
+Atti di Governo, registro n. 6, foglio n. 71. - SCIARRETTA

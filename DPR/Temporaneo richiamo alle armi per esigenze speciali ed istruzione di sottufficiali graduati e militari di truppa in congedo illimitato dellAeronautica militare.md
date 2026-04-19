@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 aprile 1965 n. 598
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1963 n. 1731
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 aprile 1965 n. 598
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1963 n. 1731
+===============================================================
 
 Temporaneo richiamo alle armi, per esigenze speciali ed istruzione, di sottufficiali, graduati e militari di truppa in congedo illimitato dell'Aeronautica militare.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -10,11 +10,11 @@ Temporaneo richiamo alle armi, per esigenze speciali ed istruzione, di sottuffic
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Visto l'[articolo 87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
+Visto l'[art. 87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
 
-Visto l'[articolo 103 del regio decreto-legge 3 febbraio 1938, n. 744](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-02-03;744~art103);
+Visto l'[art. 103 del regio decreto-legge 3 febbraio 1938, n. 744](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-02-03;744~art103);
 
-Visto l'[articolo 51 della legge 31 luglio 1954, n. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-07-31;599~art51);
+Visto l'[art. 51 della legge 31 luglio 1954, n. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-07-31;599~art51);
 
 Sulla
 -----
@@ -25,7 +25,7 @@ Art. 1
 ------
 
   
-Nel corso dell'anno finanziario 1965 possono essere richiamati alle armi nell'Aeronautica militare, per esigenze speciali e per istruzione, n. 2106 sottufficiali di complemento e n. 7773 graduati e militari di truppa in congedo illimitato, di tutti i ruoli e categorie, purche' ancora soggetti ad obblighi militari.  
+Nel corso dell'esercizio finanziario 1963-1964 possono essere richiamati alle armi nell'Aeronautica militare, per esigenze speciali e per istruzione, n. 834 sottufficiali di complemento e n. 11.473 graduati e militari di truppa in congedo illimitato, di tutti i ruoli e categorie, purche' ancora soggetti ad obblighi militari.  
 
 Art. 2
 ------
@@ -44,12 +44,12 @@ I militari da richiamare ai sensi del presente decreto riceveranno apposita part
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 aprile 1965
+### Dato a Roma, addi' 27 ottobre 1963
 
-SARAGAT ANDREOTTI
+SEGNI ANDREOTTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 7 giugno 1965
+Registrato alla Corte dei conti, addi' 29 novembre 1963
 
-Atti del Governo, registro n. 193, foglio n. 147. - VILLA
+Atti del Governo, registro n. 177, foglio n. 74. - VILLA

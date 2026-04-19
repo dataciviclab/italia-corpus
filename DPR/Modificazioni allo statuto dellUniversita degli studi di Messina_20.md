@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1968 n. 1223
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1960 n. 1512
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1968 n. 1223
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1960 n. 1512
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
@@ -12,38 +12,33 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, numero 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sentito il parere del Consiglio superiore della pubblica istruzione:  
+  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 25. - E' modificato nel senso che all'elenco degli istituti annessi alla facolta' di economia e commercio e' aggiunto il seguente: "istituto di diritto pubblico".  
-Art. 53. - All'elenco degli insegnamenti complementari per i seguenti tre indirizzi: generale, didattico ed applicativo nel corso di laurea in Fisica e' aggiunto quello di "Algebra".  
-Art. 70. - All'elenco degli insegnamenti complementari nel corso di laurea in medicina veterinaria sono aggiunti i seguenti:  
-Scienza dell'alimentazione degli animali domestici;  
-Oncologia comparata degli animali domestici;  
-Struttura sub-microscopica normale delle cellule e dei tessuti.  
-Art. 71, relativo al corso di laurea in medicina veterinaria e' modificato nel senso che tra la lettera i e la lettera l delle disposizioni concernenti le materie di esame venga aggiunto quanto segue:  
-"L'insegnamento biennale di patologia speciale e clinica medica viene impartito al terzo anno per quante riguarda la patologia speciale ed al quarto per la clinica medica. Salvo restando l'unicita' dell'insegnamento, l'esame di patologia speciale e clinica medica (biennale) comporta per lo studente, alla fine del terzo corso, un esame teorico di patologia speciale medica e alla fine del quarto anno un esame pratico di clinica medica".  
+Art. 48, relativo agli Istituti della Facolta' di scienze matematiche, fisiche e naturali e' modificato nel senso che l'Istituto di chimica generale e chimica fisica e' scisso in due Istituti cosi' denominati:  
+"Istituto di chimica generale";  
+"Istituto di chimica fisica".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 ottobre 1968
+### Dato a Roma, addi' 30 ottobre 1960
 
-SARAGAT SCAGLIA
+GRONCHI BOSCO
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 6 dicembre 1968
+Registrato alla Corte dei conti, addi' 17 dicembre 1960
 
-Atti del Governo, registro n. 224, foglio n. 30. - GRECO
+Atti del Governo, registro n. 132, foglio n. 101. - VILLA

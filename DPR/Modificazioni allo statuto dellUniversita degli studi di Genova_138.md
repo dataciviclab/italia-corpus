@@ -1,83 +1,65 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 luglio 1962 n. 1345
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 708
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 luglio 1962 n. 1345
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 708
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+
+Veduto il parere del Consiglio universitario nazionale;
+
+Considerato che la tabella XXIX dell'ordinamento didattico universitario prevede che il disegno II, disciplina del secondo anno del biennio propedeutico della facolta' di ingegneria, sia differenziato secondo i corsi di laurea, con cio' escludendo che nello stesso corso di laurea di una facolta' di ingegneria possano figurare due discipline riconducibili al disegno II;
+
+Considerato, quindi, che l'inclusione, ai sensi della citata [legge n. 615/81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;615), nello statuto dell'Universita' di Genova, nell'elenco degli insegnamenti del secondo anno del biennio propedeutico del corso di laurea in ingegneria navale e meccanica, dell'insegnamento di "disegno navale" comporta, di conseguenza, l'eliminazione dall'elenco stesso dell'insegnamento di "disegno II (per allievi ingegneri navalmeccanici)";
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 70. - Al secondo anno del biennio del Corso di studi per la laurea in ingegneria civile - per tutte e tre le sezioni: edile, idraulica e trasporti - l'insegnamento di "Materie giuridiche" e' sostituito da quello di "Geologia e geologia applicata".  
-Al quarto anno dello stesso Corso di laurea - per tutte e tre le sezioni - l'insegnamento di "Geologia e geologia applicata" e' sostituito da quello di "Materie giuridiche".  
-L'insegnamento di "Chimica siderurgica" dell'indirizzo siderurgico del Corso di studi per la laurea in ingegneria meccanica viene soppresso e sostituito dall'insegnamento di "Siderurgia".  
-L'elenco degli insegnamenti rispettivamente del quarto e quinto anno del Corso di laurea in Ingegneria chimica e' soppresso e sostituito dal seguente:  
-IV Anno:  
-17) Macchine a);  
-18) Elettrotecnica a);  
-19) Principi di ingegneria chimica a);  
-20) Chimica industriale a);  
-21) Chimica analitica b);  
-22) Misure fisico-tecniche e controlli b);  
-23) Chimica e tecnologie dei combustibili b).  
-V Anno:  
-24) Impianti chimici a);  
-25) Economia ed organizzazione industriale b);  
-26) Gruppi di materie secondo gli indirizzi c);  
-27) a scelta dello studente c);  
-28) c);  
-29) c).  
-Nello stesso Corso di laurea gli indirizzi Chimico industriale e Petrolchimico con i relativi insegnamenti sono soppressi e sostituiti dai seguenti Indirizzo chimico industriale inorganico:  
-26) Tecnologia chimico-organiche c);  
-27) Tecnologie chimico-inorganiche c);  
-28) Ceramiche, refrattari ed affini c);  
-29) Elettrochimica c).  
-Indirizzo chimico industriale organico e petrolchimico:  
-26) Tecnologie chimico-organiche c);  
-27) Petrolchimica c);  
-28) Impianti petrolchimici c);  
-29) Giacimenti petroliferi e di gas combustibili c).  
-Indirizzo siderurgico:  
-26) Siderurgia c);  
-27) Tecnologie dei metalli c);  
-28) Ceramiche, refrattari ed affini c);  
-29) Impianti meccanici c).  
-Nel Corso di studi per la laurea in ingegneria navale e meccanica gli insegnamenti dell'indirizzo I sono soppressi e sostituiti dai segmenti:  
-Indirizzo I:  
-29) Complementi di Architettura navale c);  
-30) Cantieri navali c).  
-Nello stesso Corso di laurea viene aggiunto un terzo indirizzo con i seguenti insegnamenti:  
-Indirizzo III:  
-29) Tecnica dei reattori nucleari c);  
-30) Propulsione navale nucleare c).  
+Art. 106 - all'elenco degli insegnamenti del secondo anno del biennio propedeutico del corso di laurea in ingegneria navale e meccanica e' aggiunto l'insegnamento di "disegno navale".  
+Dallo stesso elenco e' soppresso l'insegnamento di "disegno II (per allievi ingegneri navalmeccanici)".  
+Art. 109 - nell'elenco degli insegnamenti complementari della facolta' di ingegneria sono inseriti i seguenti insegnamenti:  
+analisi matematica e geometria analitica;  
+gestione degli impianti industriali;  
+progetti di componenti e circuiti integrati.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 luglio 1962
+### Dato a Selva di Val Gardena, addi' 2 settembre 1983
 
-SEGNI GUI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 5 settembre 1932
+Registrato alla Corte dei conti, addi' 14 dicembre 1983
 
-Atti del Governo, registro n. 158, foglio n. 87. - VILLA
+Registro n. 76 Istruzione, foglio n. 299

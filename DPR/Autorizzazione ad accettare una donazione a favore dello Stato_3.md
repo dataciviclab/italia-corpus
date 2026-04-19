@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 673
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1974 n. 894
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 673
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1974 n. 894
+============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-673. Decreto del Presidente della Repubblica 17 maggio 1986, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'autorizzazione a favore dello Stato della donazione, consistente in una collezione composta di cinque sculture e di diciotto dipinti, i quali rivestono un interesse artistico e storico, da destinare alla Pinacoteca nazionale di Brera, in Milano, disposta dalla sig.ra Maria Arrighi ved. Jesi con atto 4 gennaio 1984, n. 77739 di repertorio, a rogito dott.  
-Piergiorgio Grifoni, notaio in Santa Margherita Ligure (Genova), registrato a Rapallo (Genova) in data 18 gennaio 1984 al n. 133.   
+894. Decreto del Presidente della Repubblica 27 marzo 1974, col quale, sulla proposta del Ministro per la pubblica istruzione, viene autorizzata l'accettazione della donazione del dipinto su tavola di Dosso Dossi, raffigurante "Adorazione dei pastori" (cm 47,6 x 65), disposta dalla signora Siller Giulia ved. Tinozzi a favore dello Stato con atto notarile 3 luglio 1972, n. 25619 di repertorio a rogito del notaio dott. Giulio Filiberti, rettificato con atto del 12 aprile 1972, n. 36382 di repertorio a rogito medesimo notaio. L'opera suddetta viene, altresi', destinata alla pinacoteca nazionale di Bologna.  
   
-Visto, il Guardasigilli: ROGNONI   
-Registrato alla Corte dei conti, addi' 10 ottobre 1986   
-Registro n. 26 Beni culturali, foglio n. 119
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 15 aprile 1975  
+Atti di Governo, registro n. 9, foglio n. 50

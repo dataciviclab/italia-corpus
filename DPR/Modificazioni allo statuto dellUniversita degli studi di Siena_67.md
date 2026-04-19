@@ -1,221 +1,191 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 956
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1975 n. 658
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 956
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1975 n. 658
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Dopo l'art. 177, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva:
-
-Scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva
-
-Art. 178. - La scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva ha sede presso gli istituti di clinica chirurgica generale, patologia speciale chirurgica e semeiotica chirurgica dell'Universita' di Siena, e conferisce il diploma di specialista in chirurgia dell'apparato digerente ed endoscopia digestiva.
-
-Art. 179. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
-
-Art. 180. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.
-
-Art. 181. - La durata del corso degli studi e' di cinque anni e non e' suscettibile di abbreviazione.
-
-Art. 182. - Il numero massimo degli allievi e' di nove per anno di corso e, complessivamente, di quarantacinque iscritti per l'intero corso di studi.
-
-Art. 183. - L'ammissione al corso avviene per titoli ed esami.
-
-Art. 184. - Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-anatomia descrittiva e topografica specialistica I;
-
-fisiopatologia e semeiotica funzionale I;
-
-anatomia ed istologia patologica I;
-
-patologia chirurgica I.
-
-2° Anno:
-
-anatomia descrittiva e topografica specialistica II fisiopatologia e semeiotica funzionale II;
-
-anatomia ed istologia patologica II;
-
-patologia chirurgica II;
-
-semeiotica chirurgica I;
-
-radiologia e medicina nucleare I;
-
-endoscopia digestiva diagnostica e terapeutica I
-
-3° Anno:
-
-patologia chirurgica III;
-
-semeiotica chirurgica II;
-
-radiologia e medicina nucleare II;
-
-endoscopia digestiva diagnostica e terapeutica II;
-
-clinica e terapia chirurgica I;
-
-tecniche operatorie I.
-
-4° Anno:
-
-semeiotica chirurgica III;
-
-radiologia e medicina nucleare III;
-
-endoscopia digestiva diagnostica e terapeutica III;
-
-clinica e terapia chirurgica II;
-
-tecniche operatorie II;
-
-anestesia e rianimazione;
-
-riabilitazione in chirurgia digestiva.
-
-5° Anno:
-
-clinica chirurgica e terapia chirurgica III;
-
-tecniche operatorie III;
-
-chirurgia d'urgenza dell'apparato digerente;
-
-chirurgia pediatrica dell'apparato digerente;
-
-terapia intensiva.
-
-Art. 185. - La frequenza alle lezioni, alle esercitazioni pratiche, ai periodi di internato e' obbligatoria per l'ammissione agli esami; il superamento degli esami di ciascun anno sara' condizione indispensabile per l'iscrizione all'anno successivo.
-
-Art. 186. - Al termine del quinquennio, per ottenere il diploma, i candidati dovranno presentare una dissertazione scritta su un argomento di chirurgia dell'apparato digerente ed endoscopia digestiva da discutere davanti all'apposita commissione e dovranno inoltre sostenere una prova clinica.
-
-Art. 187. - Le tasse, soprattasse e contributi della scuola sono cosi' fissate:
-
-immatricolazione. . . . . . . . . . . . . . . . . . . . . . L. 12.000 tassa annuale di iscrizione. . . . . . . . . . . . . . . . L. 200.000 soprattassa annuale di esame. . . . . . . . . . . . . . . . L. 16.000 contributi annui di laboratorio . . . . . . . . . . . . . . L. 14.000 tassa di diploma. . . . . . . . . . . . . . . . . . . . . . L. 20.000
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1978
-
-PERTINI
-
-PEDINI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 30 gennaio 1979 Registro n. 4 Istruzione, foglio n. 12
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Siena approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933 n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio superiore della pubblica istruzione;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Dopo l'art. 177, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva:  
+Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva  
+Dopo l'art. 227 sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in psicologia.   
   
-Art. 178. - La scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva ha sede presso gli istituti di clinica chirurgica generale, patologia speciale chirurgica e semeiotica chirurgica dell'Universita' di Siena, e conferisce il diploma di specialista in chirurgia dell'apparato digerente ed endoscopia digestiva.  
-Art. 179. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Art. 180. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.  
-Art. 181. - La durata del corso degli studi e' di cinque anni e non e' suscettibile di abbreviazione.  
-Art. 182. - Il numero massimo degli allievi e' di nove per anno di corso e, complessivamente, di quarantacinque iscritti per l'intero corso di studi.  
-Art. 183. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 184. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-anatomia descrittiva e topografica specialistica I;  
-fisiopatologia e semeiotica funzionale I;  
-anatomia ed istologia patologica I;  
-patologia chirurgica I.  
-2° Anno:  
-anatomia descrittiva e topografica specialistica II fisiopatologia e semeiotica funzionale II;  
-anatomia ed istologia patologica II;  
-patologia chirurgica II;  
-semeiotica chirurgica I;  
-radiologia e medicina nucleare I;  
-endoscopia digestiva diagnostica e terapeutica I  
-3° Anno:  
-patologia chirurgica III;  
-semeiotica chirurgica II;  
-radiologia e medicina nucleare II;  
-endoscopia digestiva diagnostica e terapeutica II;  
-clinica e terapia chirurgica I;  
-tecniche operatorie I.  
-4° Anno:  
-semeiotica chirurgica III;  
-radiologia e medicina nucleare III;  
-endoscopia digestiva diagnostica e terapeutica III;  
-clinica e terapia chirurgica II;  
-tecniche operatorie II;  
-anestesia e rianimazione;  
-riabilitazione in chirurgia digestiva.  
-5° Anno:  
-clinica chirurgica e terapia chirurgica III;  
-tecniche operatorie III;  
-chirurgia d'urgenza dell'apparato digerente;  
-chirurgia pediatrica dell'apparato digerente;  
-terapia intensiva.  
-Art. 185. - La frequenza alle lezioni, alle esercitazioni pratiche, ai periodi di internato e' obbligatoria per l'ammissione agli esami; il superamento degli esami di ciascun anno sara' condizione indispensabile per l'iscrizione all'anno successivo.  
-Art. 186. - Al termine del quinquennio, per ottenere il diploma, i candidati dovranno presentare una dissertazione scritta su un argomento di chirurgia dell'apparato digerente ed endoscopia digestiva da discutere davanti all'apposita commissione e dovranno inoltre sostenere una prova clinica.  
-Art. 187. - Le tasse, soprattasse e contributi della scuola sono cosi' fissate:  
+Scuola di specializzazione in psicologia   
   
-immatricolazione. . . . . . . . . . . . . . . . . . . . . . L. 12.000 tassa annuale di iscrizione. . . . . . . . . . . . . . . . L. 200.000 soprattassa annuale di esame. . . . . . . . . . . . . . . . L. 16.000 contributi annui di laboratorio . . . . . . . . . . . . . . L. 14.000 tassa di diploma. . . . . . . . . . . . . . . . . . . . . . L. 20.000   
+Art. 228. - Presso l'istituto di psicologia generale e clinica della facolta' di medicina e chirurgia e' istituita la "Scuola di specializzazione in psicologia" la quale - pur nella sua unita', assicurata da insegnamenti comuni - e' articolata nei seguenti indirizzi:   
+a) medico;   
+b) differenziale e scolastico;   
+c) industriale e del lavoro;   
+d) sociale.   
+Art. 229. - La durata del corso della scuola e' di tre anni. La frequenza e' obbligatoria. Non sono consentite abbreviazioni di corso se non nei casi previsti dall'art. 245, ne' e' consentita la contemporanea iscrizione a piu' indirizzi distinti.   
+Art. 230. - La scuola conferisce il diploma di "specialista in psicologia" con l'indicazione dell'indirizzo seguito.   
+Il diploma, valido a tutti gli effetti di legge, viene rilasciato all'allievo in rapporto all'indirizzo prescelto, seguito e concluso positivamente negli esami di profitto e di diploma.   
+Art. 231. - Titoli per l'ammissione alla scuola sono:   
+a) per l'indirizzo "medico", la laurea in medicina e chirurgia;   
+b) per gli altri indirizzi, il diploma di laurea rilasciato da qualsiasi facolta' di una Universita' italiana di Stato o ad essa parificata, ovvero un titolo straniero equipollente.   
+Art. 232. - Nella domanda di ammissione alla scuola, deve essere specificato l'indirizzo che si desidera seguire.   
+Nel caso di domande di iscrizione eccedenti il numero massimo stabilito dal consiglio della scuola e indicato nel manifesto programma annuale di cui all'art. 243, il consiglio stesso procedera' all'accettazione delle domande attraverso un concorso di merito, le cui modalita' verranno fissate nello stesso manifesto annuale.   
+Indipendentemente dalla limitazione delle iscrizioni, il consiglio della scuola puo' subordinare l'ammissione ad una prova di idoneita'.   
+Art. 233. - Il corso e' costituito da lezioni teoriche, esercitazioni pratiche, tirocini, seminari, conferenze. L'attivita' didattica viene svolta per un numero di ore non inferiore alle 20 settimanali, per tutta la durata dell'anno accademico.   
+Gli insegnamenti statutari sono divisi in tre gruppi:   
+a) insegnamenti comuni a tutti gli indirizzi sopra indicati; tali insegnamenti sono obbligatori per tutti gli allievi, qualunque sia l'indirizzo prescelto;   
+b) insegnamenti specifici, peculiari a ciascuno dei singoli indirizzi indicati nell'art. 228 e nel successivo art. 234; tali insegnamenti sono obbligatori nell'ambito dell'indirizzo prescelto;   
+c) insegnamenti integrativi.   
+Gli insegnamenti di cui ai punti a) e b) sono fissati nello statuto, il quale stabilisce altresi' la distribuzione degli insegnamenti stessi nei vari anni.   
+Gli insegnamenti di cui al punto c) vengono stabiliti anno per anno dal consiglio della scuola e pubblicati nel manifesto-programma annuale, insieme all'elenco degli insegnamenti di cui ai punti a) e b).   
+Art. 234. - Gli insegnamenti comuni di cui al punto a) dell'articolo precedente, sono:   
+1) metodologia generale e speciale della ricerca psicologica (triennale: 1°, 2° e 3° anno);   
+2) metodologia statistica generale e psicometria (annuale: 1° anno);   
+3) psicologia generale (triennale: 1°, 2° e 3° anno);   
+4) teorie della personalita' (biennale: 1° e 2° anno);   
+5) psicologia dinamica (annuale: 2° anno);   
+6) psicologia differenziale (annuale: 1° anno);   
+7) psicologia sociale (biennale: 1° e 2° anno);   
+8) tecniche psicodiagnostiche (biennale: 1° e 2° anno).   
+Gli insegnamenti specifici di cui al punto b) dell'art. 233, sono:   
+A) Per l'indirizzo "medico":   
+1) psicologia dello sviluppo (biennale: 1° e 2° anno);   
+2) psicofisiologia (annuale: 1° anno);   
+3) psicofarmacologia (annuale: 2° anno);   
+4) psicopatologia o neuropsichiatria (biennale: 1° e 2° anno);   
+5) medicina psicosomatica (annuale: 3° anno);   
+6) psicologia clinica (biennale: 2° e 3° anno);   
+7) psicoterapia (biennale: 2° e 3° anno);   
+8) psicologia criminologica, giudiziaria e penitenziaria (annuale: 3° anno);   
+9) igiene mentale (annuale: 2° anno).   
+B) Per l'indirizzo "differenziale e scolastico":   
+1) fondamenti di biologia generale e di anatomia e fisiologia umana (biennale: 1° e 2° anno);   
+2) psicologia dell'eta' evolutiva (triennale: 1°, 2° e 3° anno);   
+3) pedagogia (annuale: 1° anno);   
+4) istituzioni di psicopatologia e di igiene mentale (annuale: 1° anno);   
+5) psicologia pedagogica (annuale: 1° anno);   
+6) psicologia del disadattamento scolastico e professionale nella eta' evolutiva (annuale: 2° anno);   
+7) docimologia e tecniche della valutazione scolastica (annuale: 2° anno);   
+8) tecniche psicodiagnostiche individuali e di gruppo (biennale: 2° e 3° anno);   
+9) orientamento scolastico e professionale (annuale: 3° anno).   
+C) Per l'indirizzo "industriale e del lavoro":   
+1) fondamenti di biologia generale e di anatomia e fisiologia umana (biennale: 1° e 2° anno);   
+2) istituzioni di psicopatologia e di igiene mentale (annuale: 1° anno);   
+3) psicologia del lavoro (annuale: 1° anno);   
+4) metodologia statistica e psicometria (corso avanzato, annuale: 2° anno);   
+5) ergonomia (annuale: 1° anno);   
+6) analisi e valutazione delle mansioni e profili professionali (annuale: 2° anno);   
+7) psicologia del disadattamento lavorativo (annuale: 3° anno).   
+D) Per l'indirizzo "sociale":   
+1) antropologia culturale (annuale: 1° anno);   
+2) sociologia (annuale: 1° anno);   
+3) psicologia della comunicazione (biennale: 1° e 2° anno);   
+4) tecniche quantitative dell'indagine psicosociale (annuale: 2° anno);   
+5) ricerca motivazionale (annuale: 2° anno);   
+6) psicologia sociale (corso avanzato, annuale: 3° anno);   
+7) dinamiche di gruppo (annuale: 3° anno);   
+8) tecniche di studio dell'opinione pubblica (annuale: 3° anno);   
+9) patologia e controllo sociale (annuale: 3° anno).   
+Gli insegnamenti "integrativi" (annuali) di cui al punto c) dell'art. 233, vanno scelti nell'ambito dell'elenco che segue:   
+storia della psicologia;   
+filosofia della scienza;   
+cibernetica;   
+psicologia zoologica;   
+psicolinguistica;   
+organizzazione sanitaria;   
+organizzazione scolastica;   
+auxologia;   
+neuropsichiatria infantile;   
+pedagogia speciale e differenziale;   
+igiene generale;   
+medicina del lavoro;   
+legislazione sanitaria;   
+legislazione scolastica;   
+legislazione del lavoro;   
+deontologia professionale;   
+sessuologia;   
+psicogerontologia;   
+statistica economica;   
+psicologia della propaganda;   
+psicologia dello sport;   
+psicologia e pedagogia della comunicazione di massa;   
+filmologia;   
+istruzione programmata;   
+psicologia della didattica e dell'apprendimento scolastico;   
+infortunistica del lavoro;   
+psicologia economica.   
+Gli insegnamenti specifici di ciascuno dei quattro indirizzi, possono valere come integrativi per gli altri indirizzi che non li comprendano, sempre naturalmente nel caso che il funzionamento degli indirizzi stessi sia previsto dal manifesto-programma annuale.   
+Il manifesto-programma annuale, di cui all'art. 243, indichera' quali indirizzi verranno realizzati e quali insegnamenti integrativi verranno impartiti dalla scuola, durante l'anno accademico.   
+La eventuale scissione degli insegnamenti in piu' rami distinti, ai fini sia dell'insegnamento che degli esami di profitto, ovvero l'eventuale loro raggruppamento ai fini degli esami, risulteranno dal manifesto-programma annuale di cui all'art. 243.   
+Art. 235. - Gli esami sono di profitto e di diploma ed hanno luogo in tre sessioni: estiva, autunnale, invernale.   
+Per essere ammessi agli esami annuali di profitto, l'allievo deve avere frequentato assiduamente le lezioni, le esercitazioni, i tirocini, i seminari etc., svolti dalla scuola nel relativo anno di corso.   
+Per essere ammessi all'esame di diploma, l'allievo, oltre ad avere adempiuto a tutti gli obblighi di frequenza ed esame dei vari insegnamenti comuni e specifici e di almeno due degli insegnamenti integrativi, ed avere effettuato le esercitazioni prescritte, deve presentare una dissertazione scritta nonche' una relazione riassuntiva sulle esercitazioni e su eventuali tirocini effettuati nell'intero triennio.   
+L'esame di diploma consiste nella discussione della tesi e della relazione e, eventualmente, di una o piu' prove pratiche stabilite dal consiglio della scuola.   
+Art. 236. - Direttore della scuola e' il professore di ruolo titolare della cattedra di psicologia generale e clinica della facolta' di medicina e chirurgia.   
+Il direttore della scuola, su conforme parere del consiglio della scuola stessa, puo' proporre che un docente di essa assuma le funzioni di vice-direttore, con l'incarico annuale (riconfermabile) di coadiuvarlo e di sostituirlo: alla relativa nomina provvede il rettore.   
+Art. 237. - I docenti della scuola sono scelti tra i professori universitari di psicologia (di ruolo, fuori ruolo, aggregati, incaricati, liberi docenti), fra gli specializzati in psicologia e fra coloro che, per opere, uffici, o insegnamenti tenuti siano di riconosciuta competenza ed esperienza nelle discipline che formano oggetto dei corsi della scuola.   
+Alla nomina dei docenti provvede il rettore, su proposta presentata annualmente dal direttore della scuola e su parere conforme del consiglio della scuola stessa e della facolta'.   
+Art. 238. - Per i problemi riguardanti l'organizzazione didattica, il direttore e' assistito dal consiglio della scuola, composto dal direttore stesso che lo presiede, dal vice-direttore (se designato), che presiede le adunanze del consiglio in caso di assenza o impedimento del direttore, e da tutti i docenti che abbiano avuto regolare nomina rettorale.   
+Su proposta del direttore e sentito il parere del consiglio, uno dei docenti assolve anche le funzioni di segretario delle adunanze del consiglio stesso: alla relativa nomina provvede il rettore.   
+Art. 239. - Spetta al consiglio della scuola:   
+1) determinare, coordinare, approvare i programmi dei corsi teorici, delle esercitazioni, dei tirocini, dei seminari, etc., relativi sia agli insegnamenti comuni, sia a quelli specifici, sia a quelli integrativi;   
+2) esprimere il proprio parere sulle proposte del direttore della scuola relativamente alla designazione dei docenti, da sottoporre quindi alla nomina rettorale, dopo l'approvazione della facolta';   
+3) determinare, coordinare, approvare gli orari dei vari insegnamenti, esercitazioni, seminari etc., e il diario e le modalita' degli esami, sia di profitto che di diploma e la composizione delle relative commissioni;   
+4) stabilire le eventuali prove pratiche da fare sostenere agli allievi in occasione dell'esame di diploma;   
+5) deliberare sulle domande di trasferimento di allievi di scuole di specializzazione in psicologia da una Universita' o facolta' ad un'altra e da un indirizzo all'altro della scuola stessa (conformemente a quanto stabilito dall'art. 245), determinandone gli eventuali ulteriori obblighi di frequenza e di esame;   
+6) determinare il numero massimo (in ogni caso non superiore a 25) ed eventualmente il numero minimo degli allievi che possono essere iscritti al primo anno di corso;   
+7) stabilire la composizione della commissione per l'esame di concorso di merito di cui al comma 2) dell'art. 232 e della commissione per le eventuali prove di idoneita' di cui al comma 3) del medesimo art. 232, nonche' le modalita' dei rispettivi concorsi o prove.   
+Art. 240. - Il funzionamento amministrativo della scuola e' determinato, in armonia con le vigenti disposizioni sulle scuole di specializzazione, da un regolamento interno emanato dal rettore su proposta del direttore della scuola.   
+Art. 241. - Le entrate della scuola sono costituite dalle tasse, soprattasse e contributi scolastici e dai contributi erogati eventualmente dallo Stato, dall'Universita', da enti e da privati.   
+Art. 242. - Gli iscritti alla scuola sono tenuti al pagamento delle tasse, soprattasse e contributi generali nella misura seguente:   
+  
+immatricolazione (primo anno di corso) . . . . . . . . L. 12.000 iscrizione (ogni anno di corso). . . . . . . . . . . . >> 100.000  
+soprattassa esami (ogni anno di corso) . . . . . . . . >> 16.000  
+contributi laboratorio (ogni anno di corso). . . . . . >> 14.000  
+tassa di diploma (ultimo anno di corso). . . . . . . . >> 20.000   
+  
+La misura dei contributi per le esercitazioni pratiche e per le altre prestazioni, di cui gli iscritti fruiscono durante il corso degli studi, e' fissata dal consiglio di amministrazione dell'Universita' su proposta del senato accademico, sentito il parere del consiglio della facolta' di medicina e chirurgia e del consiglio della scuola.   
+Art. 243. - Il direttore della scuola, sulla base delle deliberazioni del consiglio della scuola, compila ogni anno il relativo manifesto-programma che, previa approvazione della facolta' di medicina e chirurgia, sara' reso di pubblica ragione.   
+Nel manifesto viene specificato:   
+1) l'indirizzo o gli indirizzi della scuola che saranno aperti nell'imminente anno accademico;   
+2) il numero massimo (in ogni caso non superiore a 25) e, eventualmente, quello minimo di domande di iscrizione che verranno accettate;   
+3) le modalita' del concorso di merito in caso di domande eccedenti il numero massimo di iscrizioni consentito;   
+4) l'eventuale indicazione di prove di idoneita' per l'ammissione alla scuola, conformemente al comma 3) dell'art. 232;   
+5) l'ordine degli studi, con l'indicazione:   
+a) dell'eventuale scissione degli insegnamenti elencati nell'art. 234 in piu' rami distinti, ai fini dell'insegnamento e degli esami di profitto;   
+b) dell'eventuale raggruppamento degli insegnamenti ai fini dell'esame di profitto;   
+c) della distribuzione degli insegnamenti nei vari anni di corso;   
+d) degli insegnamenti integrativi che verranno impartiti nell'anno;   
+e) dei docenti, per ciascun insegnamento ed anno di corso;   
+6) le modalita' e' le condizioni degli esami di profitto e di diploma;   
+7) le tasse, le soprattasse e i contributi generali e speciali dovuti dagli allievi.   
+Art. 244. - L'inclusione della scuola nello statuto dell'Universita' non costituisce impegno ad impartire i relativi corsi: l'impegno e' costituito dalla pubblicazione del manifesto-programma annuale. Cio' vale sia per la scuola nel suo insieme sia per i singoli indirizzi.   
+Art. 245. - E' prevista, a domanda dell'interessato e non oltre il termine del secondo anno di corso, la possibilita' di passaggio da un indirizzo ad un altro. L'accoglimento della relativa domanda, sempre subordinato alle condizioni previste dall'art. 244, ha luogo a giudizio insindacabile del consiglio della scuola e con piano di studi da stabilire caso per caso.   
+Coloro che hanno compiuto l'intero triennio possono essere ammessi ad altro indirizzo con possibilita' di abbreviazione dei corsi, per convalida di esami gia' sostenuti, secondo quanto sara' stabilito caso per caso dal consiglio della scuola.   
+Art. 246 - Norme transitorie. - All'inizio del funzionamento della scuola, il direttore e' autorizzato a prendere tutte quelle decisioni e deliberazioni che, di norma, sono demandate al consiglio della scuola.   
+  
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1978
+### Dato a Roma, addi' 29 settembre 1975
 
-PERTINI PEDINI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 30 gennaio 1979
+Registrato alla Corte dei conti, addi' 13 dicembre 1975
 
-Registro n. 4 Istruzione, foglio n. 12
+Atti di Governo, registro n. 15, foglio n. 22

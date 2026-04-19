@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1977 n. 294
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 luglio 1977 n. 744
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1977 n. 294
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 luglio 1977 n. 744
 =============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-294. Decreto del Presidente della Repubblica 14 aprile 1977, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Biecari (Foggia) con atto 3 febbraio 1970, n. 82791 di repertorio, a rogito notaio Giovanni Battista Talani, di un appezzamento di terreno esteso mq 750, sito in Biccari, localita' "Campo Fiera", catastalmente descritto in atto, occorso per la costruzione di una caserma forestale.  
+744. Decreto del Presidente della Repubblica 13 luglio 1977, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione disposta dalla signorina Natalia Valli con atto 25 febbraio 1976, n. 41919 di repertorio, a rogito dott. Albino Giacomelli, notaio in Ferrara, consistente in una raccolta di tre dipinti del XIV e XV secolo di notevole interesse artistico e storico, da destinare alla Pinacoteca nazionale di palazzo dei Diamanti in Ferrara.  
   
 Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 7 giugno 1977  
-Registro n. 25 Finanze, foglio n. 234
+Registrato alla Corte dei conti, addi' 7 ottobre 1977  
+Registro n. 14 Beni culturali, foglio n. 280

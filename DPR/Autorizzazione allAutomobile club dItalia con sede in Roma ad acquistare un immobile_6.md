@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1968 n. 500
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1970 n. 1494
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1968 n. 500
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1970 n. 1494
+==============================================================
 
 Autorizzazione all'Automobile club d'Italia, con sede in Roma, ad acquistare un immobile.
 -----------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-500. Decreto del Presidente della Repubblica 6 marzo 1968, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile club d'Italia, con sede in Roma, viene autorizzato ad acquistare dall'Automobile club di Viterbo, per costruirvi un autorifugio e per il prezzo di lire 250.000, la meta' dei diritti indivisi sopra il terreno sito nel comune di Caprarola, alla contrada "Poggio Gallesano", distinto in catasto alla partita n. 523, F. 5, particella 1/b, della superficie di ettari 4.00.15.  
+1494. Decreto del Presidente della Repubblica 18 maggio 1970, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile club d'Italia, con sede in Roma, viene autorizzato ad acquistare in proprieta' dall'Amministrazione finanziaria - Provveditorato generale dello Stato, per il prezzo di lire 240.000, l'appezzamento di terreno demaniale esteso mq. 40, posto al valico di Villa di Chiavenna; nel nuovo catasto edilizio urbano riportato al foglio n. 33, mappale n. 221-B.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 16 aprile 1968  
-Atti del Governo, registro n. 219, foglio n. 6. - GRECO
+Registrato alla Corte dei conti, addi' 4 agosto 1971  
+Atti del Governo, registro n. 243, foglio n. 115. - CARUSO

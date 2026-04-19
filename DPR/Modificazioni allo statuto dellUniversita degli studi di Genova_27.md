@@ -1,173 +1,228 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1970 n. 834
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1965 n. 768
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1970 n. 834
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1965 n. 768
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA   
-  
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
-  
-Decreta:   
-  
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-Dopo l'art. 286 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola speciale di assistenza sociale psichiatrica e della scuola speciale per terapisti della riabilitazione specializzati in cinesiterapia o terapia del linguaggio, presso la facolta' di medicina e chirurgia.   
-  
-Scuola di assistenza sociale psichiatrica   
-(Scuola diretta a fini speciali)   
-  
-Art. 287. - Presso la facolta' di medicina e chirurgia dell'Universita' degli studi di Genova e' annessa la scuola di assistenza sociale psichiatrica (scuola diretta a fini speciali) che fa capo alla cattedra di psichiatria. Essa ha lo scopo di dare una preparazione completa, teorica e pratica, agli assistenti sociali, istruendoli sui problemi dell'intervento presso l'ambiente familiare e sociale dell'ammalato psichico, sulle possibilita' di intervento a tipo casework sui problemi di reinserimento sociale del paziente con disturbi psichici e sulle funzioni dell'assistente sociale presso i servizi di assistenza psichiatrica e le istituzioni psichiatriche ambulatoriali e ospedaliere.   
-  
-Art. 288. - La durata del corso per il conseguimento del diploma di assistente sociale psichiatrico e' di due anni accademici; nel primo anno vengono impartiti insegnamenti teorici ed esercitazioni pratiche su materie propedeutiche e tecniche. Nel secondo anno vengono impartiti insegnamenti teorici e pratici su argomenti di clinica neurologica e psichiatrica, assistenza psichiatrica intra ed extraospedaliera e materie affini. Gli allievi hanno l'obbligo della frequenza.   
-  
-Art. 289. - Possono accedere alla scuola i cittadini italiani di ambo i sessi di 18 anni compiuti, forniti del diploma di scuola media superiore (II grado: cioe' maturita' classica, scientifica o diplomi equipollenti) ed in possesso del diploma di assistente sociale rilasciato da una scuola di servizio sociale italiana qualificata (con corsi triennali di studi teorici e di tirocinio tenuti - in parte o in toto - da docenti universitari).   
-  
-Art. 290. - Chi aspira ad ottenere l'iscrizione al I anno della scuola deve sostenere una selezione sui titoli ed un colloquio attitudinale da parte di una commissione composta dal direttore della cattedra di psichiatria, da un esperto in servizio sociale e da un docente della stessa scuola.   
-  
-Art. 291. - Il numero massimo dei posti disponibili e' stabilito nella misura di 20.   
-  
-Art. 292. - Direttore della scuola e' il titolare della cattedra di psichiatria dell'universita'. Gli insegnanti della scuola sono proposti dal consiglio di facolta' di medicina e chirurgia udito il direttore e nominati dal rettore.   
-  
-Art. 293. - Le materie d'insegnamento teorico del I anno sono:   
-  
-Semeiotica psichiatrica;   
-Psicologia generale;   
-Igiene mentale;   
-Neuropsichiatria infantile;   
-Servizio sociale psichiatrico.   
-  
-Le esercitazioni pratiche del I anno riguardano la presentazione e la discussione di pazienti riguardanti i piu' diversi tipi di patologia psichiatrica.   
-  
-Le materie di insegnamento teorico del II anno sono:   
-  
-Clinica neurologica;   
-Psicologia sociale;   
-Psichiatria forense e legislazione psichiatrica;   
-Medicina sociale e del lavoro;   
-Clinica psichiatrica;   
-Servizio sociale psichiatrico.   
-  
-Le esercitazioni pratiche del II anno consistono nella discussione e nel diretto intervento in casi di pazienti riguardanti i piu' diversi tipi di patologia psichiatrica.   
-Inoltre consistono nella discussione individuale e di gruppo di casi che gli stessi assistenti sociali hanno seguito nel loro ambiente di lavoro.   
-  
-Art. 294. - Al termine del I anno, per essere ammessi al II, gli allievi devono superare una prova di esami sugli insegnamenti teorici e pratici impartiti.   
-  
-Art. 295. - Al termine del II anno, per il conseguimento del diploma di assistente sociale psichiatrico, gli iscritti devono sostenere un esame comprendente: a) una prova orale sulla materia dell'intero corso; b) una prova pratica stabilita dalla commissione esaminatrice.   
-  
-Art. 296. - Le commissioni per gli esami del I anno e per l'esame di diploma sono composte da tre membri - tra cui un esperto in servizio sociale - scelti tra i docenti della scuola e nominati dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Ogni commissario ha a disposizione 10 punti.   
-  
-Art. 297. - I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola; ma se al II esame non sia loro riconosciuta una idoneita' saranno senz'altro esclusi da ulteriori prove.   
-  
-Art. 298. - Agli allievi che avranno superato l'esame finale viene rilasciato il diploma di assistente sociale psichiatrico.   
-  
-Art. 299. - Le tasse e soprattasse per la scuola sono ripartite come segue:   
-  
-  
-  
-1° Anno:  
-  
-tassa iscrizione . . . . . . . . . . . . . . . . . . . . . L. 18.000 contributo . . . . . . . . . . . . . . . . . . . . . . . . " 25.000 tassa esame. . . . . . . . . . . . . . . . . . . . . . . . " 7.000 ------- L. 50.000 -------   
-  
-  
-2° Anno:  
-  
-tassa iscrizione . . . . . . . . . . . . . . . . . . . . . L. 18.000 contributo . . . . . . . . . . . . . . . . . . . . . . . . " 25.000 tassa esame. . . . . . . . . . . . . . . . . . . . . . . . " 7.000 soprattassa esame diploma. . . . . . . . . . . . . . . . . " 3.000 ------- L. 53.000 -------   
-  
-Scuola speciale per terapisti della riabilitazione   
-specializzati in cinesiterapia o terapia del linguaggio   
-(Scuola diretta a fini speciali)   
-  
-Art. 300. - La scuola speciale per terapisti della riabilitazione specializzati in cinesiterapia o terapia del linguaggio (scuola diretta a fini speciali) ha sede presso la clinica delle malattie nervose e mentali. Essa ha lo scopo di dare una preparazione completa, teorica e pratica, agli allievi, istruendoli sui problemi della riabilitazione dei motulesi con particolare riguardo ai pazienti affetti da postumi di apoplessia cerebrale. A tale scopo vengono impartiti insegnamenti teorici e pratici diretti al recupero dei disturbi delle funzioni motorie e del linguaggio.   
-  
-Art. 301. - La durata del corso per il conseguimento del diploma di terapista nelle tecniche riabilitative e' di due anni accademici: nel I anno vengono impartiti insegnamenti teorici ed esercitazioni pratiche su materie propedeutiche e tecniche presso la clinica delle malattie nervose e mentali. Nel II anno, oltre agli insegnamenti teorici e le esercitazioni pratiche presso la clinica delle malattie nervose e mentali, gli allievi seguono alcuni corsi a carattere pratico presso altre cliniche universitarie e centri di riabilitazione. Gli allievi hanno l'obbligo della frequenza alle lezioni ed ai tirocini.   
-  
-Art. 302. - Possono essere ammessi alla scuola gli allievi di eta' non inferiore ai 17 anni in possesso del diploma di scuola media superiore.   
-  
-Art. 303. - Chi aspira ad ottenere l'iscrizione al I anno della scuola deve sostenere un esame di ammissione che consiste in una prova orale attitudinale dinanzi ad una commissione composta da tre docenti della stessa scuola.   
-  
-Art. 304. - Il numero massimo dei posti disponibili annualmente e' stabilito nella misura di 20.   
-  
-Art. 305. - Direttore della scuola e' il titolare della cattedra della clinica delle malattie nervose e mentali dell'universita'.   
-  
-Gli insegnanti della scuola sono proposti dal consiglio di facolta' di medicina e chirurgia, udito il direttore e nominati dal rettore.   
-  
-Art. 306. - Le materie di insegnamento teorico del I anno sono:   
-  
-Nozioni elementari e generalita' di anatomo-fisiologia;   
-Anatomo-fisiologia del sistema nervoso;   
-Anatomo-fisiologia dell'apparato locomotore;   
-Chinesiologia;   
-Elementi di anatomia e fisiologia riguardanti specificamente il sistema fonatorio;   
-Elementi di semeiotica dei disturbi del linguaggio;   
-Esame del linguaggio.   
-  
-Le esercitazioni pratiche del I anno consistono:   
-a) per gli allievi in cinesiterapia nell'assistere e partecipare ai trattamenti riabilitativi di pazienti ricoverati presso la clinica e di pazienti che accedono ambulatoriamente alla palestra di rieducazione annessa al centro per lo studio e la cura dell'apoplessia cerebrale presso la clinica delle malattie nervose e mentali dell'Universita' di Genova;   
-b) per gli allievi in logopedia nell'assistere e partecipare agli esami neuropsicologici ed ai trattamenti logoterapici praticati nel centro per lo studio e la cura dell'apoplessia cerebrale presso la clinica delle malattie nervose e mentali dell'Universita' di Genova.   
-  
-Le materie di insegnamento teorico del II anno sono:   
-  
-Elementi di patologia e clinica neuropsichiatrica;   
-Elementi di patologia e clinica ortopedica;   
-Fisioterapia: tecniche e applicazioni;   
-Cinesiterapia: tecniche e applicazioni;   
-Elementi di patologia del linguaggio;   
-Terapia del linguaggio;   
-Elementi di riabilitazione, psicologia e psichiatria geriatrica.   
-  
-Le esercitazioni pratiche del II anno consistono:   
-a) per gli allievi in cinesiterapia: eseguire valutazioni neuromotorie e praticare trattamenti cinesiterapici ai pazienti ricoverati presso la clinica e a quelli che accedono ambulatoriamente alla palestra di rieducazione annessa al centro per lo studio e la cura della apoplessia cerebrale presso la clinica delle malattie nervose e mentali dell'Universita' di Genova.   
-Una parte del tirocinio pratico viene svolta presso altri istituti e cliniche universitarie e centri di riabilitazione;   
-b) per gli allievi in logopedia: eseguire esami neuropsicologici e praticare trattamenti logoterapici nel centro per lo studio e la cura dell'apoplessia cerebrale dell'Universita' di Genova presso la clinica delle malattie nervose e mentali.   
-  
-Art. 307. - Nel I anno dopo aver seguito gli insegnamenti teorici gli allievi devono sostenere una prova orale sulle materie di osteo-atro-miologia, cinesiologia e logopedia per adire alle esercitazioni pratiche.   
-Al termine del I anno, per essere ammessi al II, gli allievi devono superare una prova di esame sugli insegnamenti teorici e pratici impartiti.   
-  
-Art. 308. - Al termine del II anno, per il conseguimento del diploma di terapista della riabilitazione, gli iscritti devono sostenere un esame comprendente: a) una prova scritta, b) un esame orale sulla materia dell'intero corso, c) una prova pratica stabilita dalla commissione esaminatrice.   
-  
-Art. 309. - Le commissioni per gli esami del I anno e per l'esame di diploma sono composte da tre membri scelti tra i docenti della scuola e nominati dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Ogni commissione ha a disposizione 10 punti.   
-  
-Art. 310. - I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola, ma se al secondo esame non sia loro riconosciuta una idoneita', saranno senz'altro esclusi da ulteriori prove.   
-  
-Art. 311. - Agli allievi che avranno superato l'esame finale viene rilasciato il diploma di terapista della riabilitazione specializzato in cinesiterapia o terapia del linguaggio.   
-  
-Art. 312. - Le tasse e soprattasse per la scuola sono ripartite come segue:   
-  
-  
-  
-1° Anno:  
-  
-tassa iscrizione . . . . . . . . . . . . . . . . . . . . . L. 18.000 contributo . . . . . . . . . . . . . . . . . . . . . . . . " 25.000 tassa esame. . . . . . . . . . . . . . . . . . . . . . . . " 7.000 ------- L. 50.000 -------   
-  
-  
-2° Anno:  
-  
-tassa iscrizione . . . . . . . . . . . . . . . . . . . . . L. 18.000 contributo . . . . . . . . . . . . . . . . . . . . . . . . " 25.000 tassa esame. . . . . . . . . . . . . . . . . . . . . . . . " 7.000 soprattassa esame diploma. . . . . . . . . . . . . . . . . " 3.000 ------- L. 53.000 -------   
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2051](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2051) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-### Dato a Roma, addi' 19 settembre 1970
+Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-SARAGAT MISASI
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati e ulteriormente modificato come appresso:
+
+Art. 29. - Agli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:
+
+39) Storia delle religioni;
+
+40) Storia del cristianesimo;
+
+41) Sociologia;
+
+42) Storia delle tradizioni popolari.
+
+Art. 30. - Agli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti quelli di:
+
+20) Sociologia;
+
+21) Storia contemporanea;
+
+Art. 31. - L'insegnamento complementare di "Statistica sanitaria" del corso di laurea in Medicina e chirurgica e' soppresso e sostituito da quello di "Statistica medica e biometria".
+
+Art. 53. - L'insegnamento complementare di Metodi matematici della fisica, per il corso di laurea in Matematica (indirizzo: generale, didattico e applicativo del II gruppo), e' soppresso.
+
+Art. 55. - Agli insegnamenti complementari dei corso di laurea in Scienze biologiche e' aggiunto quello di "Biologia marina".
+
+Art. 56. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti quelli di: "Geologia nucleare, Cristallografia".
+
+Art. 58, relativo alle norme per le iscrizioni e gli esami per i vari corsi di laurea della Facolta' di Scienze matematiche, fisiche e naturali 1° ultimo comma e' abrogato e sostituito da seguente:
+
+"Per la laurea in Scienze geologiche, l'esame eventuale di Analisi matematica I deve procedere quello di Analisi matematica II e questo deve precedere l'esame di Meccanica razionale".
+
+Gli articoli dal 117 al 123, relativi alla Scuola di specializzazione in Oftalmoiatria e oculistica, sono abrogati e sostituiti dai seguenti concernente la nuova denominazione e il nuovo ordinamento della Scuola stessa.
+
+Scuola di specializzazione in Clinica oculistica
+
+Art. 117. - Presso l'Istituto di Clinica oculistica 6 istituita la Scuola di specializzazione in Clinica oculistica che ha lo scopo di conferire la necessaria competenza a coloro che vogliono specialmente dedicarsi a questa branca della medicina.
+
+Art. 118. - Il corso ha la durata di quattro anni.
+
+Gli iscritti hanno l'obbligo di frequentare per tutto il quadriennio le lezioni, le esercitazioni e le dimostrazioni, prestando regolare servizio come interni della Clinica a norma degli articoli 98 e 99 di questo statuto.
+
+Art. 119. - Al corso possono iscriversi solo i laureati in Medicina e chirurgia. Il numero degli allievi che possono essere accolti nella Scuola viene fissato in numero massimo di venti.
+
+Le norme di iscrizioni, ammissione, pagamento tasse, sono quelle generali delle Scuole di specializzazione contemplate negli articoli 93, 94, 10, 107 di questo - statuto.
+
+Art. 120. - Gli insegnamenti impartiti nella Scuola per ciascun anno di corso e che formano materie di esame al termine di ciascun anno sono i seguenti:
+
+1° Anno:
+
+1) Anatomia ed istologia dell'apparato oculare;
+
+2) Nozioni di embriologia e genetica oculare;
+
+3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;
+
+4) Nozioni di ottica fisiologica, esame della refrazione;
+
+5) Microbiologia ed igiene oculare.
+
+2° Anno:
+
+1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmoscopia, perimetria, campimetria, adattometria, senso cromatico tonometria, tonografia, esami elettrofunzionali, radiologia);
+
+2) Farmacologia oculare e terapia fisica;
+
+3) Anatomia patologica oculare;
+
+4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della sclera).
+
+3° Anno:
+
+1) Patologia e clinica oculare (malattie dell'uvea, della retina), del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);
+
+2) Anomalie e patologia della motilita' oculare e della visione binoculare. Ortottica e Pleottica.
+
+3) Affezioni otorinolaringoiatriche e occhio;
+
+4) Tecnica operatoria - la parte.
+
+4° Anno:
+
+1) Neuroftalmologia;
+
+2) Malattie oculari in rapporto ad affezioni generali;
+
+3) Malattie professionali. Infortunistica e medicina legale oculare;
+
+4) Tecnica operatoria - 2° parte;
+
+5) Tesi di specializzazione.
+
+La Direzione della Scuola ha facolta' di organizzare conferenze, dimostrazioni e seminari da tenersi da docenti di altre materie che abbiano attinenza con gli scopi della Scuola.
+
+Art. 121. - Al termine di ciascun anno di corso gli allievi sono tenuti a sostenere gli esami sulle materie d'insegnamento dell'anno stesso di fronte ad una Commissione composta secondo quanto stabilito dall'articolo 100 di questo statuto.
+
+In seguito al risultato degli esami la Commissione stabilira' la loro idoneita' o meno ad essere ammessi al successivo anno di corso.
+
+Art. 122. - Al termine del quarto anno di corso gli allievi che hanno superato gli esami delle materie di detto anno vengono ammessi a sostenere l'esame di diploma di fronte alla Commissione costituita a norma dell'art. 104 di questo statuto. Tale esame consiste nella presentazione di una tesi di specializzazione scritta su argomento di Clinica oculistica preventivamente assegnato dalla Direzione della Scuola, nel sostenere la relativa, discussione e in una prova pratica sull'ammalato.
+
+Art. 123. - Agli allievi che hanno superato l'esame finale di diploma viene rilasciato il diploma di specialista in Clinica oculistica valido a tutti gli effetti di legge.
+
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 24 maggio 1965
+
+SARAGAT
+
+GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 17 novembre 1970
+Registrato
+----------
 
-Atti del Governo, registro n. 238, foglio n. 62. - CARUSO
+alla Corte dei conti, addi' 1 luglio 1965 Atti del Governo, registro n. 194, foglio n. 68. - VILLA
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
+  
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2051](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2051) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati e ulteriormente modificato come appresso:  
+Art. 29. - Agli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:  
+39) Storia delle religioni;  
+40) Storia del cristianesimo;  
+41) Sociologia;  
+42) Storia delle tradizioni popolari.  
+Art. 30. - Agli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti quelli di:  
+20) Sociologia;  
+21) Storia contemporanea;  
+Art. 31. - L'insegnamento complementare di "Statistica sanitaria" del corso di laurea in Medicina e chirurgica e' soppresso e sostituito da quello di "Statistica medica e biometria".  
+Art. 53. - L'insegnamento complementare di Metodi matematici della fisica, per il corso di laurea in Matematica (indirizzo: generale, didattico e applicativo del II gruppo), e' soppresso.  
+Art. 55. - Agli insegnamenti complementari dei corso di laurea in Scienze biologiche e' aggiunto quello di "Biologia marina".  
+Art. 56. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti quelli di: "Geologia nucleare, Cristallografia".  
+Art. 58, relativo alle norme per le iscrizioni e gli esami per i vari corsi di laurea della Facolta' di Scienze matematiche, fisiche e naturali 1° ultimo comma e' abrogato e sostituito da seguente:  
+"Per la laurea in Scienze geologiche, l'esame eventuale di Analisi matematica I deve procedere quello di Analisi matematica II e questo deve precedere l'esame di Meccanica razionale".  
+Gli articoli dal 117 al 123, relativi alla Scuola di specializzazione in Oftalmoiatria e oculistica, sono abrogati e sostituiti dai seguenti concernente la nuova denominazione e il nuovo ordinamento della Scuola stessa.  
+Scuola di specializzazione in Clinica oculistica  
+Art. 117. - Presso l'Istituto di Clinica oculistica 6 istituita la Scuola di specializzazione in Clinica oculistica che ha lo scopo di conferire la necessaria competenza a coloro che vogliono specialmente dedicarsi a questa branca della medicina.  
+Art. 118. - Il corso ha la durata di quattro anni.  
+Gli iscritti hanno l'obbligo di frequentare per tutto il quadriennio le lezioni, le esercitazioni e le dimostrazioni, prestando regolare servizio come interni della Clinica a norma degli articoli 98 e 99 di questo statuto.  
+Art. 119. - Al corso possono iscriversi solo i laureati in Medicina e chirurgia. Il numero degli allievi che possono essere accolti nella Scuola viene fissato in numero massimo di venti.  
+Le norme di iscrizioni, ammissione, pagamento tasse, sono quelle generali delle Scuole di specializzazione contemplate negli articoli 93, 94, 10, 107 di questo - statuto.  
+Art. 120. - Gli insegnamenti impartiti nella Scuola per ciascun anno di corso e che formano materie di esame al termine di ciascun anno sono i seguenti:  
+1° Anno:  
+1) Anatomia ed istologia dell'apparato oculare;  
+2) Nozioni di embriologia e genetica oculare;  
+3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;  
+4) Nozioni di ottica fisiologica, esame della refrazione;  
+5) Microbiologia ed igiene oculare.  
+2° Anno:  
+1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmoscopia, perimetria, campimetria, adattometria, senso cromatico tonometria, tonografia, esami elettrofunzionali, radiologia);  
+2) Farmacologia oculare e terapia fisica;  
+3) Anatomia patologica oculare;  
+4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della sclera).  
+3° Anno:  
+1) Patologia e clinica oculare (malattie dell'uvea, della retina), del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);  
+2) Anomalie e patologia della motilita' oculare e della visione binoculare. Ortottica e Pleottica.  
+3) Affezioni otorinolaringoiatriche e occhio;  
+4) Tecnica operatoria - la parte.  
+4° Anno:  
+1) Neuroftalmologia;  
+2) Malattie oculari in rapporto ad affezioni generali;  
+3) Malattie professionali. Infortunistica e medicina legale oculare;  
+4) Tecnica operatoria - 2° parte;  
+5) Tesi di specializzazione.  
+La Direzione della Scuola ha facolta' di organizzare conferenze, dimostrazioni e seminari da tenersi da docenti di altre materie che abbiano attinenza con gli scopi della Scuola.  
+Art. 121. - Al termine di ciascun anno di corso gli allievi sono tenuti a sostenere gli esami sulle materie d'insegnamento dell'anno stesso di fronte ad una Commissione composta secondo quanto stabilito dall'articolo 100 di questo statuto.  
+In seguito al risultato degli esami la Commissione stabilira' la loro idoneita' o meno ad essere ammessi al successivo anno di corso.  
+Art. 122. - Al termine del quarto anno di corso gli allievi che hanno superato gli esami delle materie di detto anno vengono ammessi a sostenere l'esame di diploma di fronte alla Commissione costituita a norma dell'art. 104 di questo statuto. Tale esame consiste nella presentazione di una tesi di specializzazione scritta su argomento di Clinica oculistica preventivamente assegnato dalla Direzione della Scuola, nel sostenere la relativa, discussione e in una prova pratica sull'ammalato.  
+Art. 123. - Agli allievi che hanno superato l'esame finale di diploma viene rilasciato il diploma di specialista in Clinica oculistica valido a tutti gli effetti di legge.  
+  
+
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Dato a Roma, addi' 24 maggio 1965
+
+SARAGAT GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato alla Corte dei conti, addi' 1 luglio 1965
+
+Atti del Governo, registro n. 194, foglio n. 68. - VILLA

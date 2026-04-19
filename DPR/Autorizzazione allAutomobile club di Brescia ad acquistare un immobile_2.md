@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1986 n. 143
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 146
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1986 n. 143
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 146
+===============================================================
 
 Autorizzazione all'Automobile club di Brescia ad acquistare un immobile.
 ------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 n.
 
-143. Decreto del Presidente della Repubblica 9 gennaio 1986, col quale, sulla proposta del Ministro del turismo e dello spettacolo, l'Automobile club di Brescia viene autorizzato ad acquistare, al prezzo di L. 140.000.000, una porzione di un immobile sito in Villa Carcina (Brescia), via Statale, di proprieta' del signor Dario Tavelli, come da scrittura privata sotto condizione sospensiva in data 21 novembre 1984, registrato a Brescia in data 22 novembre 1984 al n. 14786, da adibire a sede degli uffici della propria delegazione.  
+146. Decreto del Presidente della Repubblica 10 febbraio 1986, col quale, sulla proposta del Ministro del turismo e dello spettacolo, l'Automobile club di Brescia viene autorizzato ad acquistare, al prezzo di L. 232.627.850, un'area edificabile sita in Brescia, localita' S. Polo, via Mantova, di complessivi mq 19565, distinta al nuovo catasto terreni con i mappali n. 50, foglio n. 214 e numeri 1p., 18p. e 19p. del foglio 216, di proprieta' del comune di Brescia, come da atto di compravendita 21 dicembre 1984, registrato a Brescia in data 24 dicembre 1984 al n. 16127, da adibire a sede degli uffici dell'ente.  
   
 Visto, il Guardasigilli: MARTINAZZOLI  
 Registrato alla Corte dei conti, addi' 17 aprile 1986  
-Registro n. 4 Turismo, foglio n. 291
+Registro n. 4 Turismo, foglio n. 292

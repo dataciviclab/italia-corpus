@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 agosto 1966 n. 809
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 febbraio 1968 n. 641
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 agosto 1966 n. 809
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 febbraio 1968 n. 641
+===============================================================
 
 Modificazioni allo statuto dell'istituto universitario di magistero "G. Cuomo", di Salerno.
 -------------------------------------------------------------------------------------------
@@ -13,29 +13,41 @@ Art. 1
  IL PRESIDENTE DELLA REPUBBLICA  
   
 Veduto lo statuto dell'Istituto universitario di magistero "G.  
-Cuomo" di Salerno, approvato con [decreto del Presidente della Repubblica 9 ottobre 1951, n. 1300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-09;1300) e modificato con [decreto del Presidente della Repubblica 4 febbraio 1955, n. 124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;124) e successive modificazioni;  
+Cuomo" di Salerno, approvato con [decreto del Presidente della Repubblica 9 ottobre 1951, n. 1300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-09;1300) e modificato con [decreto del Presidente della Repubblica 4 febbraio 1955, n. 124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;124), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Istituto anzidetto;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'istituto anzidetto;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-La tabella A, annessa allo statuto dell'Istituto universitario di magistero "G. Cuomo" di Salerno, e' modificata nel senso che il numero dei posti di assistente di ruolo viene aumentato da due a sei.  
+Lo statuto dell'Istituto universitario di magistero "G. Cuomo" di Salerno, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 23. - E' modificato nel senso che dopo l'ultimo periodo del penultimo comma, relativo al corso di laurea in lingue e letterature straniere ("L'esame delle altre due lingue consistera' soltanto in una prova orale") e' aggiunto il seguente periodo, che vale come norma transitoria: "Tale norma trova applicazione anche nei confronti degli studenti iscritti nell'anno accademico 1966-67 ad un anno di corso successivo al primo".  
+Dopo l'art. 23 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi alle norme sul funzionamento degli istituti scientifici annessi alla facolta' di magistero.  
+Art. 24. - Tali istituti hanno lo scopo di promuovere e coordinare la ricerca nelle discipline di loro pertinenza.  
+Con apposita deliberazione del consiglio direttivo sara' provveduto al raggruppamento dei singoli insegnamenti presso ciascun istituto.  
+Art. 25. - Ogni istituto e' retto da un direttore che e' responsabile dell'amministrazione e del funzionamento dell'istituto stesso.  
+Art. 26. - Qualora fra gli insegnamenti assegnati ad un istituto ve ne sia uno solo tenuto da un professore di ruolo questi e' di diritto il direttore dell'istituto.  
+Nel caso vi siano piu' professori di ruolo, il consiglio direttivo, sentito il parere dei medesimi, designera', scegliendolo fra essi, il direttore dell'istituto, il quale restera' in carica tre anni.  
+Nel caso non vi fossero professori di ruolo il direttore sara' scelto fra i professori incaricati. La nomina e' annuale e sara' disposta dal consiglio direttivo, sentiti i professori che fanno parte dello stesso istituto.  
+Art. 27. - Ogni istituto potra' eventualmente disporre, secondo modalita' intese ad assicurare il raggiungimento delle finalita' nel modo piu' idoneo, di fondi per la ricerca e di borse di studio provenienti da enti pubblici o privati italiani e stranieri.  
+Art. 28. - I direttori di ciascun istituto avranno cura di redigere un regolamento interno che sara' sottoposto all'approvazione del consiglio direttivo e, per le norme contabili, alla approvazione del consiglio di amministrazione.  
+Art. 29 (gia' 23). - Nell'elenco degli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto quello di "Filologia dantesca".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 agosto 1966
+### Dato a Roma, addi' 28 febbraio 1968
 
 SARAGAT GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 11 ottobre 1966
+Registrato alla Corte dei conti, addi' 8 maggio 1968
 
-Atti del Governo, registro n. 206, foglio n. 61. - VILLA
+Atti del Governo, registro n. 219, foglio n. 112. - GRECO

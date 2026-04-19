@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1980 n. 278
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1986 n. 421
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1980 n. 278
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1986 n. 421
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-278. Decreto del Presidente della Repubblica 14 aprile 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.na Jole Pavan, con testamento olografo 28 maggio 1976, pubblicato il 1 giugno 1977, n. 45/13 di repertorio, a rogito dott. Ulderico Brambilla, notaio in Milano, registrato a Milano il 16 giugno 1977 al n. 5330, serie H, consistente in due appartamenti siti in Milano, via Lunigiana n. 4, distinti al nuovo catasto edilizio urbano alla partita 36245, foglio 227, mappale 132 sub 32 e 33, nonche' in mobili vari, libretti al portatore, biglietti di banca, ecc., per un valore complessivo netto di L. 35.589.940.  
+421. Decreto del Presidente della Repubblica 11 aprile 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in un immobile sito in Milano, via Fiori Chiari n. 5, distinto nel nuovo catasto edilizio urbano alla partita n. 9702, foglio 349, mappale 49, sub 1 - 12, del valore peritato di L. 230.000.000 elevato dall'ufficio tecnico erariale di Milano a L. 1.200.000.000, e nella quota di un terzo del saldo di conti correnti bancari pari ad un importo di L. 18.477.885, disposta dal sig. Capelli (o Cappelli) Guido Edoardo Andrea detto Guido con testamento olografo 15 settembre 1980, pubblicato in data 11 febbraio 1982, n. 81173/15820 di repertorio, a rogito dott. Luciano Zavanelli, notaio in Milano, registrato a Milano in data 5 maggio 1982 al n. 8562.   
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 18 giugno 1980  
-Registro n. 5 Presidenza, foglio n. 105
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 12 luglio 1986   
+Registro n. 7 Presidenza foglio n. 14

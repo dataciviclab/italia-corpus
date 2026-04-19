@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1204
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1954 n. 1207
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1204
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1954 n. 1207
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
@@ -10,15 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Catania.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1257](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1257), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939 n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con i [regi decreti 16 ottobre 1940 n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-16;1527); [15 aprile 1942, n. 4224](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;4224); [5 settembre 1942 n. 1235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1235); [24 ottobre 1942, n. 1596, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1596) [22 ottobre 1946, n. 423 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-22;423) [20 luglio 1948, n. 1160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-07-20;1160); [30 ottobre 1949, n. 994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;994); [30 ottobre 1949, n. 1167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1167); [30 ottobre 1950, n. 1305](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1305); [11 aprile 1951, n. 564](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;564); [27 ottobre 1951, n. 1793](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1793); [11 febbraio 1952, n. 366](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-11;366); [26 ottobre 1952, n. 4507](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4507); [10 febbraio 1953, n. 544](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;544); [25 giugno 1953, n. 709](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-06-25;709) e [23 marzo 1954, n. 751](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-23;751);
 
-Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,523 +30,137 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-L'art. 157, relativo all'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia e' modificato nel senso che le scuole in "Malattie veneree e della pelle" e in "Anestesiologia" mutano rispettivamente le denominazioni in quelle di "Clinica dermosifilopatica" e di "Anestesiologia e rianimazione".
+Art. 21. - Le lettere b), c) e d) sono sostituite dalle seguenti:
 
-Allo stesso elenco e' aggiunta la scuola di specializzazione in "Malattie dell'apparato digerente".
+b) Istituzioni di diritto pubblico per il diritto internazionale e il diritto amministrativo;
 
-Gli articoli 184 e 185, relativi alla scuola di specializzazione in malattie dell'apparato cardiovascolare; gli articoli 186 e 187 relativi alla scuola di specializzazione in ostetricia e ginecologia; gli articoli 192 e 193, relativi alla scuola di specializzazione in malattie veneree e della pelle che assume la denominazione di scuola di specializzazione in clinica dermosifilopatica; gli articoli 196 e 197, relativi alla scuola di specializzazione in radiologia; gli articoli 200 e 201, relativi alla scuola di specializzazione in anestesiologia che assume la denominazione di scuola di specializzazione in anestesiologia e rianimazione; gli articoli 202 e 203, relativi alla scuola di specializzazione in medicina legale e delle assicurazioni, sono abrogati e sostituiti dai seguenti:
+c) Matematica generale per la statistica e per la matematica finanziaria;
 
-Scuola di specializzazione in malattie dell'apparato cardiovascolare
+d) Economica politica del primo e secondo anno per la scienza delle finanziario per la politica economica e finanziaria per l'economia e politica agraria, per l'economia dei trasporti e per la storia economica.
 
-Art. 184. - Durata del corso: 3 anni.
+Art. 22. - La lettera b) e' sostituita dalla seguente:
 
-Piano di studi
+b) nella discussione orale di due argomenti scelti dal candidato in materie insegnate nella Facolta' diverse fra loro e da quella della dissertazione scritta.
 
-1° Anno:
+L'art. 23 e' sostituito dal seguente:
 
-Anatomia normale dell'apparato cardiovascolare;
+"Alla Facolta' di economia e commercio sono annessi i seguenti Istituti scientifici; ordinati come seminari, ai sensi dell'art. 23 del regolamento generale universitario:
 
-Fisiologia dell'apparato cardiovascolare respiratorio;
+1) Seminario economico;
 
-Fisiopatologia cardiovascolare e respiratoria (primo corso);
+2) Istituto di geografia;
 
-Patologia cardiovascolare (1° corso);
+3) Istituto di merceologia.
 
-Semeiotica fisica (1° corso);
+I detti Istituti hanno lo scopo di potenziare la cultura specializzata di studenti e di studiosi, addestrandoli all'indagine scientifica mediante corsi di lezioni, esercitazioni pratiche e conferenze, tenute, oltre che dai docenti della Facolta', da illustri cultori italiani e stranieri delle discipline insegnate nella Facolta', e discipline affini, nonche' di contribuire al progresso degli studi con ricerche, pubblicazioni ed altre iniziative che verranno ritenute opportune".
 
-Semeiotica strumentale (1° corso);
+Art. 39. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: "Semeiotica medica".
 
-Microbiologia (complementare);
+Art. 107. - Il penultimo comma e' sostituito dal seguente:
 
-Biochimica (complementare).
+"Chi ottiene l'abbreviazione del corso e' tenuto a frequentare le materie e le esercitazioni ed a sostenere e superare gli esami speciali che siano eventualmente previsti per gli anni di corso dai quali e' stato dispensato".
 
-2° Anno:
+Art. 108. - L'ultimo periodo del secondo comma e' sostituito dal seguente:
 
-Fisiopatologia cardiovascolare e respiratoria (2° corso);
+"L'iscritto che non abbia soddisfatto in tutto o in parte agli obblighi suddetti e che non abbia superato gli esami prescritti per ciascun anno di corso non viene ammesso all'anno successivo".
 
-Patologia cardiovascolare (2° corso);
-
-Semeiologia fisica (2° corso);
-
-Semeiologia strumentale (2° corso);
-
-Anatomia patologica dell'apparato cardiovascolare (1° corso);
-
-Radiologia;
-
-Farmacologia;
-
-Clinica e terapia (1° corso).
-
-3° Anno:
-
-Anatomia patologica dell'apparato cardiovascolare (2° corso);
-
-Clinica e terapia (2° corso);
-
-Chirurgia dell'apparato cardiovascolare;
-
-Problemi assicurativi e sociali (complementari);
-
-Statistica (complementare).
-
-Art. 185. - Numero massimo degli iscritti: undici specializzandi per anno. Non sono ammesse abbreviazioni di corso.
-
-Scuola di specializzazione in ostetricia e ginecologia
-
-Art. 186. - Il corso di specializzazione in ostetricia e ginecologia ha la durata di 4 anni. L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami, concorso che deve essere espletato entro il mese di dicembre. Sono da considerare titoli preferenziali a parita' di risultato dell'esame di ammissione:
-
-a) il voto di laurea in medicina e chirurgia;
-
-b) l'aver frequentato come medico o come studente interno una clinica ostetrica e ginecologica universitaria e l'avervi preparato la tesi di laurea;
-
-c) la documentazione di eventuali servizi prestati in grossi reparti ospedalieri della specialita';
-
-d) eventuali pubblicazioni.
-
-Il numero complessivo degli iscritti alla scuola non deve essere superiore a 40 (suddivisi 10 per ogni anno di corso).
-
-Per nessun motivo il corso di 4 anni puo' essere abbreviato.
-
-Nessun titolo puo' esonerare dalla frequenza gli iscritti nei 4 anni di corso.
-
-Gli iscritti oltre all'obbligo della frequenza alle lezioni, esercitazioni, seminari etc. debbono prestare servizio analogo a quello degli assistenti per non meno di 9 mesi all'anno.
-
-Gli iscritti alla scuola debbono sostenere esami annuali di profitto e l'esame finale di diploma. Non puo' essere iscritto all'anno successivo di corso chi non abbia superato tutti gli esami.
-
-Art. 187. - Gli insegnamenti impartiti sono i seguenti:
-
-1° Anno:
-
-1) Elementi di genetica e di eugenica;
-
-2) Anatomia normale ed embriologia dell'apparato genitale femminile;
-
-3) Fisiologia dell'apparato genitale femminile;
-
-4) Endocrinologia fisiologica;
-
-5) Fisiologia ostetrica;
-
-6) Diagnostica ostetrica;
-
-7) Clinica ostetrica e ginecologica.
-
-2° Anno:
-
-1) Tecnica operatoria ostetrica;
-
-2) Diagnostica ginecologica;
-
-3) Tecnica diagnostica di laboratorio nel campo ostetrico e ginecologico esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);
-
-4) Clinica ostetrica e ginecologica.
-
-3° Anno:
-
-1) Anatomia patologica ostetrica e ginecologica;
-
-2) Istologia normale e patologia ostetrica e ginecologica;
-
-3) Puericultura prenatale;
-
-4) Emoterapia nel campo ostetrico e ginecologico;
-
-5) Anestesia ed analgesia nel campo ostetrico e ginecologico;
-
-6) Tecnica operatoria ginecologica;
-
-7) Terapia medica ostetrica e ginecologica;
-
-8) Clinica ostetrica e ginecologica.
-
-4° Anno:
-
-1) Puericultura post-natale e malattia del neonato;
-
-2) Ostetricia e ginecologia forense;
-
-3) Roentgendiagnostica e radioterapia in ostetricia e ginecologia;
-
-4) Urologia ginecologica;
-
-5) Chirurgia addominale extragenitale;
-
-6) Clinica ostetrica e ginecologica (esame alla fine del quarto anno).
-
-Gli esami si fanno per gruppi di materie, ed i membri delle commissioni saranno proposti dal direttore della scuola.
-
-Per il conseguimento del diploma il candidato deve presentare e discutere una dissertazione scritta con contributo personale.
-
-Scuola di specializzazione in clinica dermosifilopatica
-
-Art. 192. - Gli anni di corso della scuola di specializzazione in clinica dermosifilopatica debbono essere tre a tempo pieno.
-
-Il numero degli iscritti alla scuola sara' limitato a 7 per ogni anno di corso.
-
-Per la iscrizione alla scuola sara' richiesta la sola laurea in medicina e chirurgia e cio' affinche' lo specializzando possa conseguire l'abilitazione professionale durante il corso di specializzazione.
-
-Art. 193. - Le materie di studio saranno quelle sottoindicate distribuite per ognuno dei tre anni in corso.
-
-1° Anno:
-
-1) Anatomia e istologia normale della cute;
-
-2) Fisiologia della cute e degli annessi cutanei;
-
-3) Anatomia e fisiologia dell'apparato genitale;
-
-4) Microbiologia e parassitologia applicata;
-
-5) Tecnica di laboratorio con particolare riferimento alla sierologia applicata;
-
-6) Semeiotica dermatologica e venereologia.
-
-2° Anno:
-
-1) Patologia delle malattie cutanee;
-
-2) Patologia delle infezioni sessuali;
-
-3) Anatomia e istologia patologica della cute;
-
-4) Anatomia patologica delle malattie veneree e sessuali;
-
-5) Dermatosi allergiche e professionali;
-
-6) Angiologia;
-
-7) Sessuologia.
-
-3° Anno:
-
-1) Clinica delle malattie cutanee;
-
-2) Clinica delle infezioni sessuali;
-
-3) Farmacologia e terapia medicamentosa;
-
-4) Fisioterapia dermatologica;
-
-5) Cosmetologia;
-
-6) Chirurgia plastica riparatrice;
-
-7) Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.
-
-Gli esami di profitto degli specializzandi verranno dati in tre gruppi o in tre sessioni distinte, ogni gruppo comprendente le materie proprie di ciascun anno di studio.
-
-L'esame di diploma consistera' nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato 24 ore prima della prova.
+Dopo l'art. 138, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione delle scuole di specializzazione in radiologia ed in igiene.
 
 Scuola di specializzazione in radiologia
 
-Art. 196. - La scuola rilascia due tipi di diplomi:
+Art. 139. - Il corso degli studi della scuola di specializzazione in radiologia ha la durata di tre anni.
 
-a) diploma di specializzazione in radiologia;
+La scuola non puo' accogliere piu' di quattro allievi per ciascun anno di corso.
 
-b) diploma di specializzazione in radiologia diagnostica.
+Art. 140. - Gli insegnamenti impartiti nella Scuola sono:
 
-Il corso di studi per la specializzazione in radiologia ha la durata di quattro anni.
+1) Fisica dei raggi X;
 
-Il corso di studi per la specializzazione in radiologia diagnostica ha la durata di tre anni.
+2) Tecnica radiologica;
 
-Art. 197. - Diploma di specializzazione in radiologia.
+3) Anatomia radiografica;
 
-Numero massimo di iscritti: quattro.
+4) Anatomia, patologica in rapporto alla radiologia (biennale);
 
-Gli insegnamenti impartiti nella scuola sono:
+5) Semeiotica radiologica e fisica comparata dei diversi organi ed apparati;
 
-1° Anno:
+6) Radiobiologia;
 
-1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;
+7) Roentgendiagnostica dello scheletro;
 
-2) Nozioni sugli apparecchi ed istrumenti della radiologia;
+8) Roentgendiagnostica del sistema nervoso;
 
-3) Anatomia radiologica normale;
+9) Roentgendiagnostica dell'apparato digerente;
 
-4) Fisiologia radiologica;
+10) Roentgediagnostica dell'apparato urinario e genitale;
 
-5) Tecnica radiologica generale;
+11) Roentgenterapia (biennale);
 
-6) Semeiotica radiologica generale;
+12) Radium-terapia,;
 
-7) Fondamenti di radiobiologia;
+13) Elettro e foto-terapia;
 
-8) Nozioni di statistica e matematica.
+14) Illustrazione e trattazione dei casi clinici esaminati radiologicamente (triennale).
 
-2° Anno:
+Scuola di specializzazione in igiene
 
-1) Tecnica e metodica dell'esame radiologico dei vari organi, apparati e sistemi;
+Art. 141. - Il corso degli studi della scuola di specializzazione in igiene ha la durata di tre anni.
 
-2) Semeiotica radiologica speciale e diagnosi differenziale;
+La scuola non puo' accogliere piu' di otto allievi per ciascun anno di corso.
 
-3) Fondamenti di radioterapia;
+Art. 142. - Gli insegnamenti impartiti nella scuola sono:
 
-4) Danni da radiazioni e mezzi di protezione;
+1) Igiene generale (suolo, aria, acqua);
 
-5) Dimostrazioni cliniche di diagnostica radiologica;
+2) Patologia e clinica delle malattie da infezione, da intossicazione, da carenza;
 
-6) Dimostrazioni cliniche di radioterapia.
+3) Microscopia applicata all'igiene (microbiologia e parassitologia);
 
-3° Anno:
+4) Chimica e fisica applicata all'igiene;
 
-1) Diagnostica radiologica differenziale;
+5) Igiene scolastica, ospitaliera, del lavoro, rurale;
 
-2) Dimostrazioni di casistica di roentgendiagnostica con confronto del quadro anatomopatologico;
+6) Medicina engeneticogeriatrica, igiene individuale, infantile, dietologica;
 
-3) Dimostrazioni di casistica di roentgenterapia con particolare riferimento alla anatomia patologica;
+7) Etiologia, epidemiologia profilassi delle malattie infettivo-contagiose, immunoprofilassi, parassitologia;
 
-4) Radioterapia tradizionale. Curieterapia;
+8) Legislazione sanitaria, polizia sanitaria, demografia;
 
-5) Radioterapia con alte energie;
+9) Climatologia, l'igiene nell'urbanistica, nelle costruzioni delle abitazioni urbane e rurali, delle scuole, ospedali, industrie;
 
-6) Elementi di medicina nucleare;
+10) Statistica sanitaria ragionata;
 
-7) Istrumentario, tecnica e metodica di applicazione;
+11) Vigilanza igienica sul suolo e sull'abitato, sugli alimenti e sulle bevande;
 
-8) Dosimetria.
+12) Malattie sociali;
 
-4° Anno:
-
-1) Moderne tecniche di esplorazione e terapia radiologica;
-
-2) Diagnostica e terapia con isotopi radioattivi somministrati per via interna;
-
-3) Radiodiagnostica e radioterapia clinica (casistica);
-
-4) Medicina legale e legislazione sanitaria in relazione alla radiologia.
-
-I corsi saranno integrati da conferenze, esercitazioni e seminari.
-
-Non sono ammesse abbreviazioni di corso, per nessun motivo.
-
-E' obbligatorio l'internato.
-
-Diploma di specializzazione in radiologia-diagnostica.
-
-Numero massimo di iscritti: quattro per ciascun anno di corso.
-
-Gli insegnamenti impartiti nella scuola sono:
-
-1° Anno:
-
-1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;
-
-2) Nozioni sugli apparecchi ed istrumenti della radiologia;
-
-3) Anatomia radiologica normale;
-
-4) Fisiologia radiologica;
-
-5) Tecnica radiologica generale;
-
-6) Semeiotica radiologica generale;
-
-7) Fondamenti di radiobiologia;
-
-8) Nozioni di statistica e matematica.
-
-2° Anno:
-
-1) Metodica di esplorazione dei vari organi e apparati;
-
-2) Semeiotica radiologica speciale e diagnosi differenziale;
-
-3) Nozioni generali sulle lesioni da radiazioni e mezzi di protezione;
-
-4) Moderne tecniche di esplorazione radiologica.
-
-3° Anno:
-
-1) Esplorazione radiologica nella patologia dei vari organi ed apparati. Diagnostica differenziale. Rapporti con l'anatomia patologica;
-
-2) Radiodiagnostica clinica;
-
-3) Medicina legale e legislazione sanitaria in relazione alla radiologia.
-
-I corsi saranno integrati da conferenze, esercitazioni e seminari.
-
-Non sono ammesse abbreviazioni di corso, per nessun motivo.
-
-E' obbligatorio l'internato.
-
-Scuola di specializzazione in anestesiologia e rianimazione
-
-Art. 200. - Il corso degli studi della scuola di specializzazione in anestesiologia e rianimazione, ha la durata di tre anni.
-
-La scuola non puo' accogliere piu' di venticinque allievi per ciascun anno di corso.
-
-Non e' consentita nessuna abbreviazione di corso, fatta eccezione per quegli aspiranti che, in possesso di diploma di specializzazione in anestesiologia, possono essere ammessi al 3° anno per ottenere il completamento.
-
-Per accedere ai corsi successivi e' obbligatorio il superamento di tutti gli esami del corso precedente, ivi comprese le materie biennali.
-
-Gli esami possono essere sostenuti solamente in due sessioni annuali, una estiva ed una autunnale e comunque non oltre il 30 novembre dell'anno in corso.
-
-Il diploma viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico o sperimentale.
-
-Art. 201. - Gli insegnamenti impartiti nella scuola sono i seguenti:
-
-1° Anno:
-
-Anatomia, biochimica, farmacologia, fisica, fisiologia, applicate alla anestesiologia e rianimazione;
-
-Anestesiologia;
-
-Tecniche chirurgiche di interesse anestesiologico;
-
-Aspetti medico-legali dell'anestesia e della rianimazione;
-
-Internato.
-
-2° Anno:
-
-Anestesiologia;
-
-Terapia antalgica;
-
-Rianimazione;
-
-Internato.
-
-3° Anno:
-
-Rianimazione;
-
-Tecniche speciali di anestesia e rianimazione;
-
-Indagini diagnostiche attinenti alla specialita';
-
-Internato.
-
-Scuola di specializzazione in medicina legale e delle assicurazioni Art. 202. - Il corso di studi della scuola di specializzazione in medicina legale e delle assicurazioni ha la durata di 3 anni. La scuola non puo' accogliere piu' di dieci iscritti per ogni anno di corso. Ad essa potranno accedere i laureati in medicina e chirurgia abilitati all'esercizio della professione.
-
-Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni e le esercitazioni, nonche' di prestare servizio di medico interno per almeno 6 mesi per ciascun anno.
-
-Alla fine di ogni anno gli iscritti sosterranno gli esami di profitto sulle singole materie di insegnamento.
-
-Lo specializzando che non abbia superato tutti gli esami dell'anno frequentato non potra' essere iscritto all'anno successivo.
-
-L'esame di diploma consistera' in una dissertazione scritta su un argomento di medicina legale o di medicina delle assicurazioni.
-
-I candidati non riconosciuti idonei all'esame di diploma si potranno ripresentare dopo un altro anno di frequenza alla scuola; se al secondo esame non sara' loro riconosciuta l'idoneita' verranno senz'altro esclusi da ulteriori prove.
-
-Art. 203. - Materie d'insegnamento:
-
-1° Anno:
-
-Medicina legale generale;
-
-Elementi di diritto pubblico e privato;
-
-Tecnica e diagnostica anatomo-patologica generale e medico-legale;
-
-Traumatologia medico-legale;
-
-Semeiotica medico-legale;
-
-2° Anno:
-
-Medicina legale penalistica;
-
-Deontologia medica;
-
-Neuropsichiatria medico-legale;
-
-Elementi di medicina criminologica e di medicina penitenziaria;
-
-Indagini di sopralluogo;
-
-Identificazione personale;
-
-3° Anno:
-
-Medicina legale civilistica e canonistica;
-
-Tossicologia medico-legale;
-
-Tecniche di laboratorio medico-legale ed anatomia forense;
-
-Ostetricia e ginecologia forensi;
-
-Elementi di legislazione del lavoro;
-
-Elementi di medicina del lavoro;
-
-Medicina delle assicurazioni;
-
-Medicina legale militare e pensionistica civile.
-
-Dopo l'art. 213 e' aggiunto il seguente articolo relativo alla istituzione della scuola di specializzazione in malattie dell'apparato digerente.
-
-Scuola di specializzazione in malattie dell'apparato digerente
-
-Art. 214. - Durata del corso: 3 anni piu' un quarto anno di tirocinio pratico da svolgersi in una clinica medica o in reparti ospedalieri.
-
-Piano di studi
-
-1° Anno:
-
-Anatomia patologica;
-
-Fisiopatologia;
-
-Chimica clinica;
-
-Semeiotica fisica e strumentale (biennale);
-
-Clinica medica (triennale);
-
-Parassitologia (complementare).
-
-2° Anno:
-
-Semeiotica fisica e strumentale;
-
-Semeiotica radiologica;
-
-Malattie del tubo digerente;
-
-Clinica medica.
-
-3° Anno:
-
-Malattie del fegato e del pancreas;
-
-Clinica medica;
-
-Dietetica (complementare).
-
-Per le materie biennali e triennali sara' dato un esame alla fine del biennio e rispettivamente del triennio.
-
-Numero massimo degli iscritti e' cinque specializzandi per anno.
-
-Non sono ammesse abbreviazioni di corso.
+13) Malattie del lavoro.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 30 ottobre 1970
+Dato a Dogliani, addi' 26 ottobre 1954
 
-SARAGAT
+EINAUDI
 
-MISASI
+ERMINI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DE PIETRO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 19 gennaio 1971 Atti del Governo, registro n. 240, foglio n. 70. - CARUSO
+alla Corte dei conti, addi' 30 dicembre 1954 Atti del Governo, registro n. 87, foglio n. 116. - CARLOMAGNO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1257](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1257), e successive modificazioni;  
-Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939 n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con i [regi decreti 16 ottobre 1940 n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-16;1527); [15 aprile 1942, n. 4224](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;4224); [5 settembre 1942 n. 1235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1235); [24 ottobre 1942, n. 1596, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1596) [22 ottobre 1946, n. 423 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-22;423) [20 luglio 1948, n. 1160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-07-20;1160); [30 ottobre 1949, n. 994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;994); [30 ottobre 1949, n. 1167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1167); [30 ottobre 1950, n. 1305](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1305); [11 aprile 1951, n. 564](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;564); [27 ottobre 1951, n. 1793](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1793); [11 febbraio 1952, n. 366](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-11;366); [26 ottobre 1952, n. 4507](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4507); [10 febbraio 1953, n. 544](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;544); [25 giugno 1953, n. 709](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-06-25;709) e [23 marzo 1954, n. 751](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-23;751);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -555,282 +169,74 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-L'art. 157, relativo all'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia e' modificato nel senso che le scuole in "Malattie veneree e della pelle" e in "Anestesiologia" mutano rispettivamente le denominazioni in quelle di "Clinica dermosifilopatica" e di "Anestesiologia e rianimazione".  
-Allo stesso elenco e' aggiunta la scuola di specializzazione in "Malattie dell'apparato digerente".  
-Gli articoli 184 e 185, relativi alla scuola di specializzazione in malattie dell'apparato cardiovascolare; gli articoli 186 e 187 relativi alla scuola di specializzazione in ostetricia e ginecologia; gli articoli 192 e 193, relativi alla scuola di specializzazione in malattie veneree e della pelle che assume la denominazione di scuola di specializzazione in clinica dermosifilopatica; gli articoli 196 e 197, relativi alla scuola di specializzazione in radiologia; gli articoli 200 e 201, relativi alla scuola di specializzazione in anestesiologia che assume la denominazione di scuola di specializzazione in anestesiologia e rianimazione; gli articoli 202 e 203, relativi alla scuola di specializzazione in medicina legale e delle assicurazioni, sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in malattie dell'apparato cardiovascolare  
-Art. 184. - Durata del corso: 3 anni.  
-  
-Piano di studi  
-  
-1° Anno:  
-Anatomia normale dell'apparato cardiovascolare;  
-Fisiologia dell'apparato cardiovascolare respiratorio;  
-Fisiopatologia cardiovascolare e respiratoria (primo corso);  
-Patologia cardiovascolare (1° corso);  
-Semeiotica fisica (1° corso);  
-Semeiotica strumentale (1° corso);  
-Microbiologia (complementare);  
-Biochimica (complementare).  
-  
-2° Anno:  
-Fisiopatologia cardiovascolare e respiratoria (2° corso);  
-Patologia cardiovascolare (2° corso);  
-Semeiologia fisica (2° corso);  
-Semeiologia strumentale (2° corso);  
-Anatomia patologica dell'apparato cardiovascolare (1° corso);  
-Radiologia;  
-Farmacologia;  
-Clinica e terapia (1° corso).  
-  
-3° Anno:  
-Anatomia patologica dell'apparato cardiovascolare (2° corso);  
-Clinica e terapia (2° corso);  
-Chirurgia dell'apparato cardiovascolare;  
-Problemi assicurativi e sociali (complementari);  
-Statistica (complementare).  
-Art. 185. - Numero massimo degli iscritti: undici specializzandi per anno. Non sono ammesse abbreviazioni di corso.  
-Scuola di specializzazione in ostetricia e ginecologia  
-Art. 186. - Il corso di specializzazione in ostetricia e ginecologia ha la durata di 4 anni. L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami, concorso che deve essere espletato entro il mese di dicembre. Sono da considerare titoli preferenziali a parita' di risultato dell'esame di ammissione:  
-a) il voto di laurea in medicina e chirurgia;  
-b) l'aver frequentato come medico o come studente interno una clinica ostetrica e ginecologica universitaria e l'avervi preparato la tesi di laurea;  
-c) la documentazione di eventuali servizi prestati in grossi reparti ospedalieri della specialita';  
-d) eventuali pubblicazioni.  
-Il numero complessivo degli iscritti alla scuola non deve essere superiore a 40 (suddivisi 10 per ogni anno di corso).  
-Per nessun motivo il corso di 4 anni puo' essere abbreviato.  
-Nessun titolo puo' esonerare dalla frequenza gli iscritti nei 4 anni di corso.  
-Gli iscritti oltre all'obbligo della frequenza alle lezioni, esercitazioni, seminari etc. debbono prestare servizio analogo a quello degli assistenti per non meno di 9 mesi all'anno.  
-Gli iscritti alla scuola debbono sostenere esami annuali di profitto e l'esame finale di diploma. Non puo' essere iscritto all'anno successivo di corso chi non abbia superato tutti gli esami.  
-Art. 187. - Gli insegnamenti impartiti sono i seguenti:  
-1° Anno:  
-1) Elementi di genetica e di eugenica;  
-2) Anatomia normale ed embriologia dell'apparato genitale femminile;  
-3) Fisiologia dell'apparato genitale femminile;  
-4) Endocrinologia fisiologica;  
-5) Fisiologia ostetrica;  
-6) Diagnostica ostetrica;  
-7) Clinica ostetrica e ginecologica.  
-2° Anno:  
-1) Tecnica operatoria ostetrica;  
-2) Diagnostica ginecologica;  
-3) Tecnica diagnostica di laboratorio nel campo ostetrico e ginecologico esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);  
-4) Clinica ostetrica e ginecologica.  
-3° Anno:  
-1) Anatomia patologica ostetrica e ginecologica;  
-2) Istologia normale e patologia ostetrica e ginecologica;  
-3) Puericultura prenatale;  
-4) Emoterapia nel campo ostetrico e ginecologico;  
-5) Anestesia ed analgesia nel campo ostetrico e ginecologico;  
-6) Tecnica operatoria ginecologica;  
-7) Terapia medica ostetrica e ginecologica;  
-8) Clinica ostetrica e ginecologica.  
-4° Anno:  
-1) Puericultura post-natale e malattia del neonato;  
-2) Ostetricia e ginecologia forense;  
-3) Roentgendiagnostica e radioterapia in ostetricia e ginecologia;  
-4) Urologia ginecologica;  
-5) Chirurgia addominale extragenitale;  
-6) Clinica ostetrica e ginecologica (esame alla fine del quarto anno).  
-Gli esami si fanno per gruppi di materie, ed i membri delle commissioni saranno proposti dal direttore della scuola.  
-Per il conseguimento del diploma il candidato deve presentare e discutere una dissertazione scritta con contributo personale.  
-  
-Scuola di specializzazione in clinica dermosifilopatica  
-Art. 192. - Gli anni di corso della scuola di specializzazione in clinica dermosifilopatica debbono essere tre a tempo pieno.  
-Il numero degli iscritti alla scuola sara' limitato a 7 per ogni anno di corso.  
-Per la iscrizione alla scuola sara' richiesta la sola laurea in medicina e chirurgia e cio' affinche' lo specializzando possa conseguire l'abilitazione professionale durante il corso di specializzazione.  
-Art. 193. - Le materie di studio saranno quelle sottoindicate distribuite per ognuno dei tre anni in corso.  
-1° Anno:  
-1) Anatomia e istologia normale della cute;  
-2) Fisiologia della cute e degli annessi cutanei;  
-3) Anatomia e fisiologia dell'apparato genitale;  
-4) Microbiologia e parassitologia applicata;  
-5) Tecnica di laboratorio con particolare riferimento alla sierologia applicata;  
-6) Semeiotica dermatologica e venereologia.  
-2° Anno:  
-1) Patologia delle malattie cutanee;  
-2) Patologia delle infezioni sessuali;  
-3) Anatomia e istologia patologica della cute;  
-4) Anatomia patologica delle malattie veneree e sessuali;  
-5) Dermatosi allergiche e professionali;  
-6) Angiologia;  
-7) Sessuologia.  
-3° Anno:  
-1) Clinica delle malattie cutanee;  
-2) Clinica delle infezioni sessuali;  
-3) Farmacologia e terapia medicamentosa;  
-4) Fisioterapia dermatologica;  
-5) Cosmetologia;  
-6) Chirurgia plastica riparatrice;  
-7) Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.  
-Gli esami di profitto degli specializzandi verranno dati in tre gruppi o in tre sessioni distinte, ogni gruppo comprendente le materie proprie di ciascun anno di studio.  
-L'esame di diploma consistera' nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato 24 ore prima della prova.  
+Art. 21. - Le lettere b), c) e d) sono sostituite dalle seguenti:  
+b) Istituzioni di diritto pubblico per il diritto internazionale e il diritto amministrativo;  
+c) Matematica generale per la statistica e per la matematica finanziaria;  
+d) Economica politica del primo e secondo anno per la scienza delle finanziario per la politica economica e finanziaria per l'economia e politica agraria, per l'economia dei trasporti e per la storia economica.  
+Art. 22. - La lettera b) e' sostituita dalla seguente:  
+b) nella discussione orale di due argomenti scelti dal candidato in materie insegnate nella Facolta' diverse fra loro e da quella della dissertazione scritta.  
+L'art. 23 e' sostituito dal seguente:  
+"Alla Facolta' di economia e commercio sono annessi i seguenti Istituti scientifici; ordinati come seminari, ai sensi dell'art. 23 del regolamento generale universitario:  
+1) Seminario economico;  
+2) Istituto di geografia;  
+3) Istituto di merceologia.  
+I detti Istituti hanno lo scopo di potenziare la cultura specializzata di studenti e di studiosi, addestrandoli all'indagine scientifica mediante corsi di lezioni, esercitazioni pratiche e conferenze, tenute, oltre che dai docenti della Facolta', da illustri cultori italiani e stranieri delle discipline insegnate nella Facolta', e discipline affini, nonche' di contribuire al progresso degli studi con ricerche, pubblicazioni ed altre iniziative che verranno ritenute opportune".  
+Art. 39. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: "Semeiotica medica".  
+Art. 107. - Il penultimo comma e' sostituito dal seguente:  
+"Chi ottiene l'abbreviazione del corso e' tenuto a frequentare le materie e le esercitazioni ed a sostenere e superare gli esami speciali che siano eventualmente previsti per gli anni di corso dai quali e' stato dispensato".  
+Art. 108. - L'ultimo periodo del secondo comma e' sostituito dal seguente:  
+"L'iscritto che non abbia soddisfatto in tutto o in parte agli obblighi suddetti e che non abbia superato gli esami prescritti per ciascun anno di corso non viene ammesso all'anno successivo".  
+Dopo l'art. 138, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione delle scuole di specializzazione in radiologia ed in igiene.  
   
 Scuola di specializzazione in radiologia  
-Art. 196. - La scuola rilascia due tipi di diplomi:  
-a) diploma di specializzazione in radiologia;  
-b) diploma di specializzazione in radiologia diagnostica.  
-Il corso di studi per la specializzazione in radiologia ha la durata di quattro anni.  
-Il corso di studi per la specializzazione in radiologia diagnostica ha la durata di tre anni.  
-Art. 197. - Diploma di specializzazione in radiologia.  
-Numero massimo di iscritti: quattro.  
-Gli insegnamenti impartiti nella scuola sono:  
-1° Anno:  
-1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;  
-2) Nozioni sugli apparecchi ed istrumenti della radiologia;  
-3) Anatomia radiologica normale;  
-4) Fisiologia radiologica;  
-5) Tecnica radiologica generale;  
-6) Semeiotica radiologica generale;  
-7) Fondamenti di radiobiologia;  
-8) Nozioni di statistica e matematica.  
-2° Anno:  
-1) Tecnica e metodica dell'esame radiologico dei vari organi, apparati e sistemi;  
-2) Semeiotica radiologica speciale e diagnosi differenziale;  
-3) Fondamenti di radioterapia;  
-4) Danni da radiazioni e mezzi di protezione;  
-5) Dimostrazioni cliniche di diagnostica radiologica;  
-6) Dimostrazioni cliniche di radioterapia.  
-3° Anno:  
-1) Diagnostica radiologica differenziale;  
-2) Dimostrazioni di casistica di roentgendiagnostica con confronto del quadro anatomopatologico;  
-3) Dimostrazioni di casistica di roentgenterapia con particolare riferimento alla anatomia patologica;  
-4) Radioterapia tradizionale. Curieterapia;  
-5) Radioterapia con alte energie;  
-6) Elementi di medicina nucleare;  
-7) Istrumentario, tecnica e metodica di applicazione;  
-8) Dosimetria.  
-4° Anno:  
-1) Moderne tecniche di esplorazione e terapia radiologica;  
-2) Diagnostica e terapia con isotopi radioattivi somministrati per via interna;  
-3) Radiodiagnostica e radioterapia clinica (casistica);  
-4) Medicina legale e legislazione sanitaria in relazione alla radiologia.  
-I corsi saranno integrati da conferenze, esercitazioni e seminari.  
-Non sono ammesse abbreviazioni di corso, per nessun motivo.  
-E' obbligatorio l'internato.  
-Diploma di specializzazione in radiologia-diagnostica.  
-Numero massimo di iscritti: quattro per ciascun anno di corso.  
-Gli insegnamenti impartiti nella scuola sono:  
-1° Anno:  
-1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;  
-2) Nozioni sugli apparecchi ed istrumenti della radiologia;  
-3) Anatomia radiologica normale;  
-4) Fisiologia radiologica;  
-5) Tecnica radiologica generale;  
-6) Semeiotica radiologica generale;  
-7) Fondamenti di radiobiologia;  
-8) Nozioni di statistica e matematica.  
-2° Anno:  
-1) Metodica di esplorazione dei vari organi e apparati;  
-2) Semeiotica radiologica speciale e diagnosi differenziale;  
-3) Nozioni generali sulle lesioni da radiazioni e mezzi di protezione;  
-4) Moderne tecniche di esplorazione radiologica.  
-3° Anno:  
-1) Esplorazione radiologica nella patologia dei vari organi ed apparati. Diagnostica differenziale. Rapporti con l'anatomia patologica;  
-2) Radiodiagnostica clinica;  
-3) Medicina legale e legislazione sanitaria in relazione alla radiologia.  
-I corsi saranno integrati da conferenze, esercitazioni e seminari.  
-Non sono ammesse abbreviazioni di corso, per nessun motivo.  
-E' obbligatorio l'internato.  
   
-Scuola di specializzazione in anestesiologia e rianimazione  
-Art. 200. - Il corso degli studi della scuola di specializzazione in anestesiologia e rianimazione, ha la durata di tre anni.  
-La scuola non puo' accogliere piu' di venticinque allievi per ciascun anno di corso.  
-Non e' consentita nessuna abbreviazione di corso, fatta eccezione per quegli aspiranti che, in possesso di diploma di specializzazione in anestesiologia, possono essere ammessi al 3° anno per ottenere il completamento.  
-Per accedere ai corsi successivi e' obbligatorio il superamento di tutti gli esami del corso precedente, ivi comprese le materie biennali.  
-Gli esami possono essere sostenuti solamente in due sessioni annuali, una estiva ed una autunnale e comunque non oltre il 30 novembre dell'anno in corso.  
-Il diploma viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico o sperimentale.  
-Art. 201. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
+Art. 139. - Il corso degli studi della scuola di specializzazione in radiologia ha la durata di tre anni.  
+La scuola non puo' accogliere piu' di quattro allievi per ciascun anno di corso.  
+Art. 140. - Gli insegnamenti impartiti nella Scuola sono:  
+1) Fisica dei raggi X;  
+2) Tecnica radiologica;  
+3) Anatomia radiografica;  
+4) Anatomia, patologica in rapporto alla radiologia (biennale);  
+5) Semeiotica radiologica e fisica comparata dei diversi organi ed apparati;  
+6) Radiobiologia;  
+7) Roentgendiagnostica dello scheletro;  
+8) Roentgendiagnostica del sistema nervoso;  
+9) Roentgendiagnostica dell'apparato digerente;  
+10) Roentgediagnostica dell'apparato urinario e genitale;  
+11) Roentgenterapia (biennale);  
+12) Radium-terapia,;  
+13) Elettro e foto-terapia;  
+14) Illustrazione e trattazione dei casi clinici esaminati radiologicamente (triennale).  
   
-1° Anno:  
-Anatomia, biochimica, farmacologia, fisica, fisiologia, applicate alla anestesiologia e rianimazione;  
-Anestesiologia;  
-Tecniche chirurgiche di interesse anestesiologico;  
-Aspetti medico-legali dell'anestesia e della rianimazione;  
-Internato.  
+Scuola di specializzazione in igiene  
   
-2° Anno:  
-Anestesiologia;  
-Terapia antalgica;  
-Rianimazione;  
-Internato.  
-  
-3° Anno:  
-Rianimazione;  
-Tecniche speciali di anestesia e rianimazione;  
-Indagini diagnostiche attinenti alla specialita';  
-Internato.  
-  
-Scuola di specializzazione in medicina legale e delle assicurazioni Art. 202. - Il corso di studi della scuola di specializzazione in medicina legale e delle assicurazioni ha la durata di 3 anni. La scuola non puo' accogliere piu' di dieci iscritti per ogni anno di corso. Ad essa potranno accedere i laureati in medicina e chirurgia abilitati all'esercizio della professione.  
-Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni e le esercitazioni, nonche' di prestare servizio di medico interno per almeno 6 mesi per ciascun anno.  
-Alla fine di ogni anno gli iscritti sosterranno gli esami di profitto sulle singole materie di insegnamento.  
-Lo specializzando che non abbia superato tutti gli esami dell'anno frequentato non potra' essere iscritto all'anno successivo.  
-L'esame di diploma consistera' in una dissertazione scritta su un argomento di medicina legale o di medicina delle assicurazioni.  
-I candidati non riconosciuti idonei all'esame di diploma si potranno ripresentare dopo un altro anno di frequenza alla scuola; se al secondo esame non sara' loro riconosciuta l'idoneita' verranno senz'altro esclusi da ulteriori prove.  
-Art. 203. - Materie d'insegnamento:  
-  
-1° Anno:  
-Medicina legale generale;  
-Elementi di diritto pubblico e privato;  
-Tecnica e diagnostica anatomo-patologica generale e medico-legale;  
-Traumatologia medico-legale;  
-Semeiotica medico-legale;  
-  
-2° Anno:  
-Medicina legale penalistica;  
-Deontologia medica;  
-Neuropsichiatria medico-legale;  
-Elementi di medicina criminologica e di medicina penitenziaria;  
-Indagini di sopralluogo;  
-Identificazione personale;  
-  
-3° Anno:  
-Medicina legale civilistica e canonistica;  
-Tossicologia medico-legale;  
-Tecniche di laboratorio medico-legale ed anatomia forense;  
-Ostetricia e ginecologia forensi;  
-Elementi di legislazione del lavoro;  
-Elementi di medicina del lavoro;  
-Medicina delle assicurazioni;  
-Medicina legale militare e pensionistica civile.  
-Dopo l'art. 213 e' aggiunto il seguente articolo relativo alla istituzione della scuola di specializzazione in malattie dell'apparato digerente.  
-  
-Scuola di specializzazione in malattie dell'apparato digerente  
-Art. 214. - Durata del corso: 3 anni piu' un quarto anno di tirocinio pratico da svolgersi in una clinica medica o in reparti ospedalieri.  
-Piano di studi  
-  
-1° Anno:  
-Anatomia patologica;  
-Fisiopatologia;  
-Chimica clinica;  
-Semeiotica fisica e strumentale (biennale);  
-Clinica medica (triennale);  
-Parassitologia (complementare).  
-  
-2° Anno:  
-Semeiotica fisica e strumentale;  
-Semeiotica radiologica;  
-Malattie del tubo digerente;  
-Clinica medica.  
-  
-3° Anno:  
-Malattie del fegato e del pancreas;  
-Clinica medica;  
-Dietetica (complementare).  
-Per le materie biennali e triennali sara' dato un esame alla fine del biennio e rispettivamente del triennio.  
-Numero massimo degli iscritti e' cinque specializzandi per anno.  
-Non sono ammesse abbreviazioni di corso.  
+Art. 141. - Il corso degli studi della scuola di specializzazione in igiene ha la durata di tre anni.  
+La scuola non puo' accogliere piu' di otto allievi per ciascun anno di corso.  
+Art. 142. - Gli insegnamenti impartiti nella scuola sono:  
+1) Igiene generale (suolo, aria, acqua);  
+2) Patologia e clinica delle malattie da infezione, da intossicazione, da carenza;  
+3) Microscopia applicata all'igiene (microbiologia e parassitologia);  
+4) Chimica e fisica applicata all'igiene;  
+5) Igiene scolastica, ospitaliera, del lavoro, rurale;  
+6) Medicina engeneticogeriatrica, igiene individuale, infantile, dietologica;  
+7) Etiologia, epidemiologia profilassi delle malattie infettivo-contagiose, immunoprofilassi, parassitologia;  
+8) Legislazione sanitaria, polizia sanitaria, demografia;  
+9) Climatologia, l'igiene nell'urbanistica, nelle costruzioni delle abitazioni urbane e rurali, delle scuole, ospedali, industrie;  
+10) Statistica sanitaria ragionata;  
+11) Vigilanza igienica sul suolo e sull'abitato, sugli alimenti e sulle bevande;  
+12) Malattie sociali;  
+13) Malattie del lavoro.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1970
+### Dato a Dogliani, addi' 26 ottobre 1954
 
-SARAGAT MISASI
+EINAUDI ERMINI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DE PIETRO
 
-Registrato alla Corte dei conti, addi' 19 gennaio 1971
+Registrato alla Corte dei conti, addi' 30 dicembre 1954
 
-Atti del Governo, registro n. 240, foglio n. 70. - CARUSO
+Atti del Governo, registro n. 87, foglio n. 116. - CARLOMAGNO

@@ -1,20 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1977 n. 95
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1978 n. 493
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1977 n. 95
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1978 n. 493
 =============================================================
 
-Autorizzazione alla fondazione artistica Poldi-Pezzoli, in Milano, ad accettare una donazione.
-----------------------------------------------------------------------------------------------
+Autorizzazione alla fondazione artistica "Poldi-Pezzoli", in Milano, ad accettare una donazione.
+------------------------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-95. Decreto del Presidente della Repubblica 29 gennaio 1977, col quale, sulla proposta del Ministro per i beni culturali e ambientali, la fondazione artistica Poldi-Pezzoli, in Milano, viene autorizzata ad accettare la donazione disposta dalla sig.ra Margherita Pallavicino Mossi ved. Visconti Venosta con atto notarile 13 aprile 1973, n. 185264 di repertorio, a rogito dott.  
-Roberto Franci, notaio in Roma, consistente nelle opere elencate e descritte nel predetto atto notarile, a condizione che una stanza venga intitolata ad "Emilio Visconti Venosta".  
+493. Decreto del Presidente della Repubblica 1 giugno 1978, col quale, sulla proposta del Ministro per i beni culturali e ambientali, la fondazione artistica "Poldi-Pezzoli", in Milano, viene autorizzata ad accettare la donazione, disposta dalla sig.ra Luisa Wanner Quarti, con atto 26 gennaio 1977, n. 47063 di repertorio, a rogito dott. Marco Orombelli, notaio in Milano, consistente in un mobiletto da the', toilette, opera di Eugenio Quarti dell'anno 1910 (circa), con destinazione al museo "Poldi-Pezzoli".  
   
 Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 23 marzo 1977  
-Registro n. 5 Beni culturali, foglio n. 18
+Registrato alla Corte dei conti, addi' 19 agosto 1978  
+Registro n. 11 Beni culturali, foglio n. 181

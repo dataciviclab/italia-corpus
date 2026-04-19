@@ -1,85 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 930
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1968 n. 1374
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 930
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1968 n. 1374
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, numero 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 106. - Il secondo comma, relativo ai titoli di ammissione alla scuola di perfezionamento in lingue e letterature straniere moderne, annessa alla facolta' di lettere e filosofia, e' abrogato e sostituito dal seguente:
-
-"Vi si possono iscrivere i laureati in lingue e letterature straniere e in lingue e letterature straniere moderne, nonche' i laureati in lettere che si siano laureati con una tesi di letteratura o filologia straniera moderna".
-
-Art. 39. - All'elenco degli insegnamenti complementari del corso di laurea in fisica (indirizzo generale, didattico e applicativo) sono aggiunti quelli di:
-
-54) Elettronica quantistica;
-
-55) Algebra.
-
-Art. 42. - All'elenco degli insegnamenti complementari del corso di laurea in matematica sono aggiunti i seguenti:
-
-Indirizzo generale (Tab. A)
-
-17) Calcoli numerici e grafici
-
-Indirizzo didattico (Tab. A)
-
-15) Geometria superiore
-
-Indirizzo applicativo (Tab. A)
-
-17) Geometria superiore;
-
-18) Ricerca operativa.
-
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 5 giugno 1968
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 26 agosto 1968 Atti del Governo, registro n. 222, foglio n. 93. - DI PRETORO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, numero 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
@@ -91,31 +25,18 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 106. - Il secondo comma, relativo ai titoli di ammissione alla scuola di perfezionamento in lingue e letterature straniere moderne, annessa alla facolta' di lettere e filosofia, e' abrogato e sostituito dal seguente:  
-"Vi si possono iscrivere i laureati in lingue e letterature straniere e in lingue e letterature straniere moderne, nonche' i laureati in lettere che si siano laureati con una tesi di letteratura o filologia straniera moderna".  
-Art. 39. - All'elenco degli insegnamenti complementari del corso di laurea in fisica (indirizzo generale, didattico e applicativo) sono aggiunti quelli di:  
-54) Elettronica quantistica;  
-55) Algebra.  
-Art. 42. - All'elenco degli insegnamenti complementari del corso di laurea in matematica sono aggiunti i seguenti:  
-Indirizzo generale (Tab. A)  
-17) Calcoli numerici e grafici  
-Indirizzo didattico (Tab. A)  
-15) Geometria superiore  
-Indirizzo applicativo (Tab. A)  
-17) Geometria superiore;  
-18) Ricerca operativa.  
+Art. 28. - L'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' modificato nel senso che gli insegnamenti di "Fisiopatologia ostetrica e ginecologica" e di "Medicina preventiva dei lavoratori e psicotecnica" sono soppressi e al loro posto vengono istituiti quelli di "Patologia ostetrica o ginecologica"; "Medicina preventiva dei lavoratori"; "Fisiologia applicata".  
   
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 giugno 1968
+### Dato a Roma, addi' 31 ottobre 1968
 
-SARAGAT GUI
+SARAGAT SCAGLIA
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 26 agosto 1968
+Registrato alla Corte dei conti, addi' 22 gennaio 1969
 
-Atti del Governo, registro n. 222, foglio n. 93. - DI PRETORO
+Atti del Governo, registro n. 224, foglio n. 164. - GRECO

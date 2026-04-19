@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1191
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 settembre 1962 n. 1768
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1191
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 settembre 1962 n. 1768
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -12,7 +12,7 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e' modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successivi;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
@@ -26,70 +26,64 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-L'art. 96, relativo all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia, e' modificato nel senso che gli insegnamenti complementari di "Chirurgia sperimentale" e "Scienza dell'alimentazione" mutano rispettivamente la denominazione in "Chirurgia sperimentale e fisiopatologia chirurgica" e "Scienza dell'alimentazione e dietetica".  
-L'art. 141, relativo al corso di laurea in farmacia, e' soppresso, con il relativo spostamento della numerazione degli articoli successivi.  
-La scuola, diretta a fini speciali, per tecnici fisioterapisti muta la denominazione in "Scuola per terapisti della riabilitazione".  
-Gli articoli 595, 596, 597, 598, 599, relativi alla scuola di perfezionamento per tecnici fisioterapisti, sono soppressi e sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi.  
+Art. 88. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti quelli di:  
+Cristallografia;  
+Geologia degli idrocarburi;  
+Geologia e paleontologia del quaternario;  
+Geologia stratigrafica;  
+Idrogeologia;  
+Interpretazione aerofotogeologica;  
+Mineralogia sistematica;  
+Oceanografia;  
+Paleontologia dei vertebrati;  
+Petrografia applicata;  
+Sedimentologia;  
+Vulcanologia.  
+Art. 95. - L'ultimo comma dell'art. 95 relativo alla composizione del Consiglio della Facolta' di chimica industriale e' soppresso.  
+Dopo l'art. 201 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di perfezionamento in Fisica con il conseguente spostamento della numerazione degli articoli successivi:  
   
-Scuola per terapisti della riabilitazione  
+Scuola di perfezionamento in Fisica  
   
-Art. 595. - La sede della scuola e' la clinica ortopedica dell'Universita' di Bologna, ubicata presso l'istituto ortopedico Rizzoli.  
-Il direttore della clinica ortopedica e' il direttore della scuola; la direzione didattica si avvale della collaborazione dei titolari degli insegnamenti di terapia fisica e di clinica neurologica e del dirigente il servizio di riabilitazione.  
-Art. 596. - Scopo della scuola e' quello di dare una preparazione teorica e pratica sui problemi della riabilitazione dei minorati fisici e del loro reinserimento nell'ambiente socio-economico.  
-Art. 597. - La durata del corso per il conseguimento del diploma di terapista della riabilitazione e' di tre anni: i primi due consistenti in lezioni teoriche e pratiche sulle materie propedeutiche; il terzo di tirocinio pratico presso i centri di riabilitazione delle cliniche:  
-ortopedica, neurologica, medica (sezione di terapia fisica) dell'Universita' di Bologna.  
-Art. 598. - Gli allievi hanno l'obbligo della frequenza alle lezioni ed ai tirocini.  
-Art. 599. - Possono accedere alla scuola gli allievi di ambo i sessi di eta' non inferiore a 17 anni, in possesso del titolo di studio prescritto per l'ammissione alla Universita'.  
-Art. 600. - Il numero massimo degli allievi che si possono iscrivere e' di venticinque per ogni anno di corso.  
-Gli aspiranti ad ottenere l'iscrizione al 1° anno della scuola devono sostenere un esame di ammissione consistente in una prova orale di cultura generale ed attitudinale; e' richiesto inoltre, in via preliminare, un certificato di sana e robusta costituzione.  
-Art. 601. - Le materie di insegnamento sono:  
-  
-1° Anno:  
-Nozioni generali di anatomia;  
-Nozioni generali di fisiologia;  
-Fisiologia dell'apparato locomotore;  
-Fisiologia del sistema nervoso centrale e periferico;  
-Fisiologia del sistema cardio-respiratorio;  
-Chinesiologia;  
-Igiene e medicina sociale;  
-Nozioni di fisiche delle energie utilizzate in terapia fisica;  
-Nozioni fondamentali di psichiatria;  
-Psicologia applicata alla riabilitazione;  
-Nozioni generali di patologia generale, medica, chirurgica;  
-Patologia e clinica dell'apparato locomotore;  
-Patologia e clinica del sistema nervoso;  
-Patologia e clinica dell'apparato cardio-vascolare;  
-Patologia e clinica dell'apparato respiratorio;  
-Nozioni di farmacologia applicata alla riabilitazione.  
-  
-2° Anno:  
-Metodologia della riabilitazione;  
-Tecniche di facilitazione neuro-motoria;  
-Apparecchiature fisio-terapiche;  
-Riabilitazione nelle motulesioni ortopediche;  
-Rieducazione e riabilitazione nelle motulesioni neurologiche;  
-Riabilitazione nelle invalidita' respiratorie;  
-Riabilitazione in reumatologia;  
-Riabilitazione in neuropsichiatria infantile;  
-Tecniche fisioterapiche;  
-Disturbi del linguaggio, della fonetica e loro rieducazione;  
-Nozioni generali e terapia occupazionale;  
-Servizio sociale e relazioni umane.  
-Art. 602. - Alla fine del 1° e del 2° anno, gli allievi dovranno superare una prova scritta, orale e pratica riguardante le materie di insegnamento; il superamento della prova e' indispensabile per essere ammessi all'anno successivo.  
-Art. 603. - Il 3° anno e' esclusivamente dedicato al tirocinio pratico e sara' svolto con un internato della durata di dieci mesi, suddiviso nei tre istituti di: clinica ortopedica, clinica neurologica, istituto di terapia fisica dell'ospedale S. Orsola.  
-Art. 604. - L'esame per il conseguimento del diploma di terapista della riabilitazione consiste in una prova teorico-pratica e nella discussione di una tesi scritta, su tema preventivamente assegnato dal direttore della scuola.  
-Art. 603. - Le lezioni teoriche e pratiche si svolgeranno negli istituti di rispettiva competenza.  
+Art. 202. - E' istituita presso la Facolta' di scienze matematiche fisiche e naturali una Scuola di perfezionamento in Fisica; essa ha sede presso l'istituto di fisica dell'Universita'. La Scuola ha fine scientifico e rilascia il diploma di perfezionamento in Fisica.  
+Art. 203. - Alla Scuola vengono ammessi i laureati in Fisica, Matematica, Matematica e Fisica, Chimica e Ingegneria.  
+Il corso ha la durata di due anni. Per poter adire all'esame di diploma gli iscritti alla Scuola dovranno.  
+durante la loro permanenza nella Scuola stessa, superare l'esame sul contenuto di almeno 5 corsi annuali scelti tra gli insegnamenti sotto specificati.  
+Ciascun allievo dovra' comunicare al direttore della Scuola entro il 15 novembre di ciascun anno il piano degli studi che egli intende seguire in relazione alle materie che sono oggetto di insegnamento durante l'anno in corso. Tale piano dovra' essere approvato dal Consiglio dei professori della Scuola (v. successivo articolo 206).  
+Per gli iscritti al primo anno tale piano dovra' contemplare la frequenza di almeno tre corsi; per gli iscritti al secondo anno di almeno due. Il Consiglio dei professori della Scuola potra' riconoscere la validita' dei corsi frequentati o degli esami sostenuti presso al tre Scuole di perfezionamento.  
+Art. 204. - Il direttore proporra' all'inizio di ciascun anno al Consiglio della Facolta' di scienze l'elenco dei professori incaricati dei corsi; questi verranno nominati dal Consiglio di Facolta'.  
+Gli insegnamenti saranno scelti nel seguente piano:  
+1) Complementi di matematica;  
+2) Meccanica quantistica;  
+3) Tecniche sperimentali;  
+4) Fisica nucleare;  
+5) Particelle elementari;  
+6) Fisica dei gas;  
+7) Fisica degli stati condensati;  
+8) Geo-astrofisica;  
+9) Biofisica;  
+10) Corsi monografici.  
+I corsi monografici, in numero non superiore a due, saranno affidati ad esperti italiani o stranieri.  
+Gli insegnamenti potranno essere biennali, annuali o semestrali; a tutti gli effetti due corsi semestrali sono equivalenti ad un corso annuale. Un corso biennale a due corsi annuali.  
+Un corso annuale consistera' di non meno di 40 lezioni.  
+Il programma della Scuola potra' altresi' essere integrato da seminari.  
+La frequenza ai corsi e' obbligatoria.  
+Art. 205. - Le Commissioni per gli esami di profitto sono formate da tre insegnanti della Scuola.  
+La Commissione per l'esame di diploma e' formata da quattro membri (tra i quali il relatore), scelti dal direttore tra gli insegnanti della Scuola stessa e da un contro relatore nominato dal Consiglio dei professori nella persona di un competente nel soggetto particolare della dissertazione, il quale non faccia parte dell'Universita' di Bologna.  
+L'esame di diploma, il quale potra' essere sostenuto dopo che l'allievo abbia sostenuto gli esami di profitto previsti dall'art. 203, consistera' nella discussione sopra una dissertazione originale scritta.  
+Art. 206. - Per quanto attiene al Consiglio dei professori esso e' costituito dal direttore e dai professori che sono incaricati nell'anno in Corso di un insegnamento presso la Scuola.  
+Il direttore e' nominato dal Consiglio della Facolta' di scienze tra i titolari di cattedre di discipline fisiche, dura in carica quattro anni ed e' rieleggibile.  
+Art. 207. - Per le norme di iscrizione, le tasse e i contributi nonche' il rilascio del diploma, vengono richiamate le disposizioni in vigore per la Facolta' di scienze matematiche fisiche e naturali.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1973
+### Dato a Roma, addi' 17 settembre 1962
 
-LEONE MALFATTI
+SEGNI GUI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 19 novembre 1974
+Registrato alla Corte dei conti, addi' 3 gennaio 1963
 
-Atti di Governo, registro n. 6, foglio n. 136. - SCIARRETTA
+Atti del Governo, registrato n. 161, foglio n. 48. - VILLA

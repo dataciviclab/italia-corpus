@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 229
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1986 n. 420
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 229
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1986 n. 420
 =============================================================
 
 Autorizzazione all'Associazione nazionale combattenti e reduci, in Roma, ad acquistare un immobile.
@@ -10,10 +10,10 @@ Autorizzazione all'Associazione nazionale combattenti e reduci, in Roma, ad acqu
 Art. 1
 ------
 
-N.
+n.
 
-229. Decreto del Presidente della Repubblica 11 maggio 1979, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci, in Roma, viene autorizzata ad acquistare dalla sig.ra Luisa Pioli in Guzzi, al prezzo di L. 7.250.000, un appartamento sito in Varese, via Cesare Battisti n. 21, distinto nel nuovo catasto edilizio urbano al foglio 29, mappale 516 sub 4, da adibire a sede della federazione combattenti e reduci di Varese.  
+420. Decreto del Presidente della Repubblica 11 aprile 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci, in Roma, viene autorizzata ad acquistare, al convenuto prezzo di L. 108.000.000, valutato con perizia di parte L. 125.000.000 e ridotto dall'ufficio tecnico erariale di Parma a L. 110.000.000, dai signori Spotti Bruno e Ruggeri Emilia, un appartamento sito in Parma, via XXII Maggio n. 37, distinto al nuovo catasto edilizio urbano alla partita 5528, foglio 34, mappale 322, sub 2.  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 14 giugno 1979  
-Registro n. 4 Presidenza, foglio n. 388
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 12 luglio 1986  
+Registro n. 7 Presidenza, foglio n. 13

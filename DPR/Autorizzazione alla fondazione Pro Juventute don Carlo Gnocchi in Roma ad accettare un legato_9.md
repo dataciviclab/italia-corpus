@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1980 n. 716
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 656
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1980 n. 716
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 656
+================================================================
 
 Autorizzazione alla fondazione "Pro Juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-716. Decreto del Presidente della Repubblica 30 luglio 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato consistente in un brillante di circa 26 grani montato su anello in oro con brillantini, del valore periziato di L. 8.000.000, disposto dalla signora Keller Frieda ved. Bernasconi a favore dell'Opera pia per l'infanzia mutilati don Gnocchi, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, con testamento olografo 8 febbraio 1975, pubblicato il 31 agosto 1976, n. 89.792/9.946 di repertorio, a rogito dott. Landoaldo de Mojana, notaio in Milano, registrato a Milano il 7 settembre 1976 al n. 12200, vol. I.  
+656. Decreto del Presidente della Repubblica 22 settembre 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 10.000.000, disposto dalla sig.ra Emma Olga Acquaroli con testamento pubblico redatto dal dott. Omero Fabbri, notaio in Albino (Bergamo), in data 25 novembre 1978 e dallo stesso attivato in data 19 maggio 1979, n. 49868 di repertorio e n. 6343 di raccolta, registrato a Bergamo l'8 giugno 1979 al n. 3022/71 M1 A.  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 27 ottobre 1980  
-Registro n. 8 Presidenza, foglio n. 203
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 14 novembre 1981  
+Registro n. 10 Presidenza, foglio n. 40

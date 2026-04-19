@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1972 n. 966
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 novembre 1950 n. 1313
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1972 n. 966
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 novembre 1950 n. 1313
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -12,95 +12,44 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Roma approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), modificato con [regi decreti 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-26;1734); [26 ottobre 1940, n. 2069](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2069); [4 maggio 1942, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-05-04;565); [24 luglio 1942, n. 949](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-24;949); [24 agosto 1942, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-08-24;1098); [24 ottobre 1942, n. 1672, con decreto luogotenenziale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo.luogotenenziale:1942-10-24;1672) [8 febbraio 1946, n. 242, con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-02-08;242) [12 aprile 1947, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-12;461); [31 dicembre 1947, n. 1758; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1758) [24 dicembre 1948, n. 1619](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-12-24;1619); [18 luglio 1949, n. 882](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-07-18;882); [20 ottobre 1949, n. 989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;989); [20 ottobre 1949, n. 991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;991); [30 ottobre 1949, n. 1152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1152); [20 ottobre 1949, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;1178); [11 giugno 1950, n. 622](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;622);  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), c successive modificazioni;  
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 411, 413, 414, 417, 418, relativi alla scuola di ricerca e di applicazione per la formazione di educatori di comunita' (scuola diretta a fini speciali) sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di ricerca e di applicazione per la formazione di educatori di comunita'  
-  
-Art. 411. La scuola ha lo scopo di formare, attraverso una autentica integrazione personale di dati teorici, tecnici e sperimentali, giovani che, professionalmente preparati per la educazione di fanciulli adolescenti e giovani, presentanti o meno difficolta' di adattamento, tanto in comunita' educative come nell'ambiente naturale, siano in grado di assolvere compiti di animazione sociale e di assumere responsabilita' anche direttive in seno alle comunita' stesse o in seno ad organismi assistenziali-educativi.  
-La scuola rilascia il diploma di educatore di comunita', attestati di idoneita' e di diploma di educatore di comunita' speciali.  
-Un centro studi provvede alla documentazione e alla ricerca per assicurare un efficace funzionamento della scuola.  
-Art. 413. - La scuola e' diretta dal direttore dell'istituto di pedagogia della facolta' di magistero. In mancanza di esso o in caso di impedimento non temporaneo, il consiglio della facolta' affidera' la direzione della scuola ad altro professore di ruolo, fuori ruolo o incaricato della facolta'.  
-Il direttore e' coadiuvato dal direttore dei corsi ed assistito dal consiglio dei professori; in caso di assenza o impedimento temporaneo il direttore e' sostituito dal vicedirettore da lui designato.  
-Il direttore dei corsi e' nominato dal comitato direttivo, su proposta del direttore della scuola, tra persone esperte, docenti o meno della scuola stessa che abbiano acquisito esperienze professionali nella educazione specializzata.  
-Art. 414. - Il consiglio dei professori e' composto dai direttori della scuola, dal direttore dei corsi, dai docenti e dai monitori della scuola.  
-Il consiglio dei professori determina i corsi e i relativi piani di studio; coordina e approva i programmi dei singoli insegnamenti teorici e tecnico-pratici; esprime parere sul regolamento e relative modifiche e sulle proposte di conferimento degli incarichi di docenza e di monitorato; delibera su ogni altra questione disciplinare e didattica, su convocazione del direttore della scuola.  
-Art. 417. - Gli incarichi di insegnamento sono conferiti su proposta del direttore della scuola, ratificata dal comitato direttivo previo parere del consiglio dei professori, a docenti anche di altre facolta' ed in casi particolari ad esperti o cultori della materia.  
-L'assistenza ai tirocini professionali ed all'attivita' di gruppo e seminari e' curata dai monitori ed e' affidata ad esperti di educazione specializzata.  
-I singoli insegnamenti sono svolti, di regola, lungo l'intero anno accademico; il consiglio dei professori stabilisce di anno in anno quali insegnamenti possono essere svolti in un semestre o mediante seminari.  
-Art. 418. - Per il conseguimento dei diplomi e dello attestato, lo studente deve aver seguito i corsi e superato i relativi esami e prove pratiche.  
-L'esame finale per il conseguimento dei diplomi e dell'attestato consiste nella discussione su una dissertazione scritta connessa alla attivita' di studio, ricerca e applicazione svolta dal candidato durante la frequenza della scuola.  
-La commissione d'esame per il conseguimento dei diplomi o dell'attestato e' composta dal direttore della scuola e da altro professore di ruolo della facolta' da lui delegato che lo presiede e da sei docenti della scuola stessa.  
-Gli iscritti ai corsi di formazione della scuola sono tenuti al versamento annuo delle tasse, soprattasse e contributi nella misura prevista dalla legge vigente per gli studenti della facolta' di magistero.  
-La scuola puo' anche organizzare corsi di preparazione per il conseguimento di un attestato di idoneita' per educatori in servizio.  
-Il piano di studi, l'ammontare delle tasse, i titoli per l'ammissione ed ogni altro aspetto didattico sono stabiliti dal comitato direttivo.  
-Coloro che negli anni precedenti all'entrata in vigore del presente decreto hanno frequentato i corsi organizzati nelle more dell'applicazione del decreto stesso, possono ottenere l'attestato di idoneita' mediante la ridiscussione della tesina conclusiva del corso.  
-La scuola puo' organizzare, secondo i criteri stabiliti dal comitato direttivo, attivita' e corsi di aggiornamento e perfezionamento.  
-Dopo l'art. 754 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi "alla Scuola per tecnici di laboratorio di analisi cliniche" (scuola diretta a fini speciali).  
-  
-Scuola per tecnici di laboratorio di analisi cliniche  
-(scuola diretta a fini speciali)  
-  
-Art. 755. - E' istituita presso l'istituto di microbiologia dell'Universita' di Roma una scuola di insegnamento teorico e pratico al fine di preparare il personale che aspira a svolgere, in qualita' di tecnico di laboratorio di analisi cliniche, ricerche a scopo scientifico clinico, diagnostico o di controllo presso pubblici ospedali, cliniche universitarie, enti sanitari, istituti di cura e laboratori pubblici e privati.  
-Art. 756. - La scuola e' diretta da un professore di ruolo di microbiologia nominato dal rettore su proposta del consiglio di facolta' di medicina e chirurgia.  
-Gli insegnanti della scuola vengono nominati annualmente dal rettore su proposta del direttore della scuola.  
-Art. 757. - Gli aspiranti all'ammissione alla scuola debbono essere in possesso del diploma di istruzione secondaria di primo grado e di un certificato attestante l'ammissione al terzo anno di scuola media superiore o titolo equipollente. Devono altresi' aver compiuto il sedicesimo anno di eta' alla data del 31 dicembre dell'anno accademico cui si riferisce la domanda di ammissione.  
-Art. 758. - Gli aspiranti all'iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova orale di cultura. Coloro che abbiano superato tale prova potranno essere ammessi fino ad un numero massimo di trenta per anno, secondo una graduatoria di merito sulla base del risultato della prova stessa.  
-Art. 759. - Il corso di studi e' della durata di anni tre.  
-Esso comprende lezioni teoriche, dimostrazioni, esercitazioni, conferenze, seminari e tirocini pratici la cui articolazione sara' attuata tenendo particolare conto dell'indirizzo della scuola ai fini della preparazione professionale.  
-Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) Organizzazione generale del laboratorio di ricerche cliniche;  
-2) Igiene generale e ospedaliera;  
-3) Anatomia umana normale;  
-4) Chimica;  
-5) Fisica;  
-6) Tecniche di laboratorio;  
-7) Tecniche istologiche e istochimica.  
-2° Anno:  
-1) Fisiologia umana;  
-2) Biochimica;  
-3) Analisi cliniche I;  
-4) Microbiologia e sierologia I;  
-5) Parassitologia;  
-6) Farmacologia;  
-7) Esami di particolari materiali organici.  
-3° Anno:  
-1) Patologia generale;  
-2) Analisi cliniche II ed enzimologia;  
-3) Microbiologia e sierologia II;  
-4) Ematologia;  
-5) Virologia;  
-6) Legislazione sanitaria;  
-7) Metodiche per l'automazione;  
-8) Metodiche per l'uso dei radioisotopi.  
-Art. 760. - La frequenza ai corsi e' obbligatoria.  
-Al termine di ciascun corso l'allievo dovra' superare il relativo esame di profitto che potra' essere sostenuto in due distinte sessioni, una estiva e l'altra autunnale, dinanzi ad una commissione composta da tre insegnanti con voto espresso in trentesimi.  
-Al termine del corso di studi gli allievi sosterranno un esame finale di abilitazione consistente in tre prove, scritta, orale e pratica, dinanzi ad una commissione esaminatrice composta da sette membri con voto espresso in settantesimi.  
-Art. 761. - Ai candidati che superino l'esame finale di abilitazione viene rilasciato un diploma di tecnico di laboratorio di analisi cliniche, soggetto a tassa di concessione governativa.  
-Art. 762. - Le entrate della scuola sono costituite dalle tasse, soprattasse e contributi scolastici e dai contributi erogati eventualmente dallo Stato, dall'universita', da enti e da privati.  
+Lo statuto dell'Universita' degli studi di Roma approvato e modificato con i decreti sopraindicati, e' cosi' ulteriormente modificato:  
+Attuale art. 36. - E' sostituito dal seguente:  
+"Presso la facolta' sono costituiti i seguenti istituti scientifici:  
+1) istituto di scienze economiche;  
+2) istituto di materie giuridiche;  
+3) istituto di ragioneria;  
+4) istituto di tecnica economica;  
+5) istituto di merceologia;  
+6) istituto di matematica finanziaria;  
+7) istituto di statistica;  
+8) istituto di geografia, economica.  
+Attuale art. 73. - All'elenco degli istituti della Facolta' di medicina e chirurgia e' aggiunto n. 30. Istituto di microbiologia.  
+Attuale art. 176. - Agli insegnamenti della scuola di perfezionamento in diritto romano e diritti dell'Oriente Mediterraneo e' aggiunto quello di:  
+Diritto penale romano.  
+All'attuale art. 267 relativo alla scuola di perfezionamento in scienze etnologiche e' soppressa la parola "costitutivi" ed e' aggiunto il seguente nuovo comma:  
+"Il corso degli studi per ciascun allievo e' stabilito dal Consiglio della scuola in base ai suoi studi precedenti e al ramo in cui egli intende perfezionarsi".  
+Attuale art. 277. - E' soppresso il "corso annuale di perfezionamento in biologia delle razze umane".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1972
+### Dato a Roma, addi' 16 novembre 1950
 
-LEONE SCALFARO
+EINAUDI GONELLA
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: PICCIONI
 
-Registrato alla Corte dei conti, addi' 27 gennaio 1973
+Registrato alla Corte dei conti, addi' 30 ottobre 1951
 
-Atti di Governo, registro n. 255, foglio n. 72. - VALENTINI
+Atti del Governo, registro n. 45, foglio n. 47. - FRASCA

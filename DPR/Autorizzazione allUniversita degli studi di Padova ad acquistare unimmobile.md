@@ -1,20 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1971 n. 1401
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 dicembre 1965 n. 1596
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1971 n. 1401
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 dicembre 1965 n. 1596
+================================================================
 
-Autorizzazione all'Universita' degli studi di Padova ad acquistare un 
-immobile.
---------------------------------------------------------------------------------
+Autorizzazione all'Universita' degli studi di Padova ad acquistare un'immobile.
+-------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-1401. Decreto del Presidente della Repubblica 14 settembre 1971, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Padova viene autorizzata ad acquistare un immobile sito in Padova, via Beato Pellegrino, 1, descritto nel nuovo catasto edilizio urbano del comune di Padova al foglio III, sezione F, numeri 165/1, 165/2, 165/3, 165/4, 165/5, 165/6, 165/7, 496, al prezzo di lire 210.000.000.   
+1596. Decreto del Presidente della Repubblica 15 dicembre 1965, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Padova viene autorizzata ad acquistare dalla signora Wollemberg Elda in Corinaldi, per il prezzo complessivo di L. 145.000.000 (centoquarantacinquemilioni), l'immobile sito in Padova, via del Santo numeri 12, 12-a, 12-b, 12-c e 14.  
   
-Visto, il Guardasigilli: GONELLA   
-Registrato alla Corte dei conti, addi' 24 marzo 1972   
-Atti del Governo, registro n. 247, foglio n. 164. - VALENTINI
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 25 gennaio 1966  
+Atti del Governo, registro n. 200, foglio n. 42. - VILLA

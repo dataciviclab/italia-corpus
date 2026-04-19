@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 232
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1062
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 232
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1062
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 ------------------------------------------------------------------------------
@@ -39,20 +39,21 @@ Articolo unico
 --------------
 
   
-Art. 46 - nell'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono inseriti i seguenti insegnamenti: tecnica e politiche di vendita;  
-organizzazione aziendale;  
-finanza aziendale.  
+Nell'art. 52, all'elenco degli insegnamenti complementari del corso di diploma in statistica e' aggiunto l'insegnamento:  
+statistica (corso avanzato).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 marzo 1983
+### Dato a Roma, addi' 31 dicembre 1985
 
-PERTINI FALCUCCI
+COSSIGA
 
-Visto, il Guardasigilli: DARIDA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 19 maggio 1983
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registro n. 36 Istruzione, foglio n. 69
+Registrato alla Corte dei conti, addi' 17 aprile 1986
+
+Registro n. 30 Istruzione, foglio n. 194

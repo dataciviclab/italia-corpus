@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1984 n. 39
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1984 n. 24
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1984 n. 39
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1984 n. 24
+=============================================================
 
 Autorizzazione alla Societa' italiana degli autori ed editori, in Roma, ad acquistare un immobile.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-39. Decreto del Presidente della Repubblica 10 febbraio 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana degli autori ed editori (S.I.A.E.), in Roma, viene autorizzata ad acquistare, al convenuto prezzo di lire 150.000.000, un immobile sito in Novara, rotonda Massimo d'Azeglio n. 11, costituito da un appartamento al primo piano di mq 148 ed ampio terrazzo, iscritto nel catasto terreni del comune di Novara al foglio 167, part. 179, e regolarmente dichiarato presso il nuovo catasto edilizio urbano di Novara su presentazione rilasciata in data 16 gennaio 1979, n. 414/79, valutato da perizia estimativa di parte L. 160.000.000, come da atto di compravendita 29 gennaio 1981, n. 48459/2756 di repertorio, a rogito dott. Giuseppe Mittino, notaio in Novara, registrato a Novara in data 13 febbraio 1981 al n. 1188.  
+24. Decreto del Presidente della Repubblica 10 gennaio 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana degli autori ed editori (S.I.A.E.), in Roma, viene autorizzata ad acquistare un immobile sito in La Spezia, piazza Verdi n. 41, piano primo, composto di otto vani, censito al nuovo catasto edilizio urbano alla partita n. 5527, foglio 36, mappale 1 subalterno 6, zona censuaria 1, valutato da perizia estimativa di parte L. 170.000.000, come da atto di compravendita 5 febbraio 1981, n. 65.350/4472 di repertorio, a rogito dottor Adriano Cecchi, notaio in La Spezia, registrato a La Spezia in data 12 febbraio 1981 al n. 598.  
   
 Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 14 marzo 1984  
-Registro n. 3 Presidenza, foglio n. 81
+Registrato alla Corte dei conti, addi' 15 febbraio 1984  
+Registro n. 2 Presidenza, foglio n. 129

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1951 n. 1720
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1950 n. 1163
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1951 n. 1720
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1950 n. 1163
+===============================================================
 
 Autorizzazione all'Universita' di Milano ad accettare una donazione.
 --------------------------------------------------------------------
@@ -12,8 +12,7 @@ Art. 1
 
 N.
 
-1720. Decreto del Presidente della Repubblica 4 novembre 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Milano viene autorizzata ad accettare la donazione di lire 500.000, in titoli dello Stato rendita 5%, disposta in suo favore dal dott. Pietro Venino, con atto pubblico amministrativo in data 10 giugno 1951, per l'istituzione di un premio di studio da intitolarsi e Premio prof. Vittorio Alpe" e da conferirsi ogni cinque anni all'autore del miglior lavoro sperimentale in agronomia.  
+1163. Decreto del Presidente della Repubblica 25 ottobre 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Milano viene autorizzata ad accettare la donazione della somma di L. 100.000 nominali, in titoli di Stato 5% e di L. 10.000 in contanti, disposta in suo favore dal rag. Mario Ceccherini, con atto pubblico amministrativo in data 16 maggio 1947, per l'istituzione di un premio di studio biennale da intitolarsi al nome di "Arnaldo Ceccherini" e da conferirsi, ogni due anni, ad uno studente della Facolta' di giurisprudenza dell'Universita' stessa, bisognoso e meritevole.  
   
-Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 2 febbraio 1952  
-Atti del Governo, registro n. 49, foglio n. 74. - FRASCA
+Visto, il Guardasigilli: SEGNI  
+Registrato alla Corte dei conti, addi' 10 febbraio 1951

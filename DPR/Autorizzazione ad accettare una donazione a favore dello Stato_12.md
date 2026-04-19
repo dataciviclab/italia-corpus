@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1974 n. 882
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1975 n. 267
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1974 n. 882
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1975 n. 267
 =============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-882. Decreto del Presidente della Repubblica 7 giugno 1974, col quale, sulla proposta del Ministro per le finanze, di concerto con il Ministro per il tesoro, viene autorizzata l'accettazione della donazione a favore dello Stato, disposta dalla camera di commercio, industria, artigianato ed agricoltura di Cagliari con atto 18 giugno 1969, n. 18179 di repertorio a rogito notaio Ugo Pasolini, dei mobili e delle attrezzature tecnico-scientifiche costituenti la dotazione del laboratorio chimico compartimentale delle dogane e imposte indirette di Cagliari.  
+267. Decreto del Presidente della Repubblica 10 aprile 1975, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Varese Ligure (La Spezia) con atto 12 giugno 1973, n. 696 di repertorio, a rogito notaio Alberto Suetta, dell'appezzamento di terreno di mq 506, catastalmente indicato nell'atto suddetto, e sul quale l'Amministrazione dell'agricoltura e delle foreste ha gia' realizzato una casermetta forestale.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 21 marzo 1975  
-Atti di Governo, registro n. 9, foglio n. 24
+Registrato alla Corte dei conti, addi' 23 giugno 1975  
+Atti di Governo, registro n. 10, foglio n. 76

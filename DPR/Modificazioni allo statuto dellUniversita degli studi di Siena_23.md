@@ -1,127 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1973 n. 1111
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1966 n. 989
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1973 n. 1111
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1966 n. 989
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 80 - dopo l'elenco delle precedenze degli esami dei corsi di laurea in scienze naturali, in scienze biologiche e in scienze geologiche sono abrogate le norme relative ai suddetti corsi di laurea e sostituite dalle seguenti:
-
-"Lo studente, superati gli esami previsti nel piano di studio approvato dalla facolta' e successivamente un esame di cultura generale attinente al corso di laurea, inteso ad accertare la maturita' del candidato, sara' ammesso a sostenere l'esame di laurea.
-
-L'esame di laurea consiste nella discussione sopra una dissertazione scritta, presentata dal candidato alla segreteria almeno dieci giorni prima della data fissata dalla facolta' per l'inizio degli esami di laurea, e contenente l'esposizione di indagini scientifiche eseguite dal candidato in un istituto della stessa o di altra facolta'.
-
-Il preside, ricevuta la dissertazione, designa, tenuto conto della competenza, due controrelatori".
-
-Dopo l'art. 109, e con il conseguente spostamento della numerazione successiva, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola, diretta a fini speciali, di preparazione per tecnici di audiometria, della durata di due anni.
-
-Scuola di preparazione per tecnici di audiometria
-
-Art. 110. - E' istituita presso la facolta' di medicina e chirurgia dell'Universita' di Siena una scuola speciale di preparazione per tecnici di audiometria che ha sede presso la clinica otorinolaringoiatrica dell'Universita'.
-
-Art. 111. - La scuola prende il nome di "Scuola di preparazione per tecnici di audiometria", ha la durata di due anni con indirizzo teorico-pratico e conferisce il diploma di tecnico di audiometria.
-
-Ne e' titolo di ammissione il possesso di un diploma legalmente valido conseguito presso un istituto secondario superiore su non meno di cinque anni di corso.
-
-Art. 112. - Gli aspiranti all'iscrizione al 1° anno di corso sono tenuti a presentare apposita domanda su carta legale diretta al rettore dell'Universita', correlata dai prescritti documenti e a sostenere un esame di ammissione consistente in una prova orale di cultura generale su argomenti facenti parte dei normali programmi dei licei e degli istituti di istruzione secondaria, con particolare riguardo all'insegnamento di fisica acustica.
-
-Art. 113. - Il numero complessivo degli iscritti alla scuola e' di sedici (otto per anno di corso). Qualora le domande di iscrizione fossero in numero superiore a sedici, il consiglio della scuola si riserva di provvedere ad una scelta tra gli idonei in base ai risultati di ammissione.
-
-Art. 114. - Il direttore della scuola e' il titolare della cattedra di clinica otorinolaringoiatrica dell'Universita' di Siena. Gli incarichi di insegnamento sono conferiti dal rettore, su proposta del consiglio di facolta' di medicina e chirurgia udito il direttore della scuola. I professori che svolgono gli insegnamenti costituiscono il consiglio della scuola, al quale spettano le funzioni tecniche e disciplinari necessarie per il regolare funzionamento della scuola.
-
-Art. 115. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria.
-
-Art. 116. - Il corso comprende lezioni teoriche ed esercitazioni pratiche.
-
-Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-Anatomia e fisiologia dell'orecchio, delle vie e dei centri acustici (anatomico-fisico);
-
-Elementi di fisica acustica;
-
-Tecniche audiometriche.
-
-2° Anno:
-
-Patologia dell'udito, del linguaggio e dell'organo dell'equilibrio;
-
-Elementi di otoneurologia;
-
-Elementi di foniatria;
-
-Tecniche audiometriche;
-
-Elementi di diagnostica audiometrica.
-
-Art. 117. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo, per gli allievi, dell'internato per un periodo di due anni nel reparto di audiologia della clinica otorinolaringoiatrica. La frequenza viene comprovata dalla attestazione rilasciata dagli insegnanti sul libretto di iscrizione. L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.
-
-Art. 118. - Alla fine di ogni anno gli allievi devono sostenere un esame sulle materie di insegnamento. Nel caso in cui i candidati non abbiano superato gli esami prescritti, essi rimarranno nella posizione di "ripetenti" fino a quando non avranno assolto tutti gli obblighi di cui sopra.
-
-Art. 119. - Le commissioni per gli esami di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia, su proposta del direttore della clinica. Le commissioni per gli esami di profitto sono composte da tre membri: direttore della scuola, presidente, e da due insegnanti della scuola stessa. La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro insegnanti della scuola stessa o da altri docenti.
-
-Art. 120. - Gli esami di profitto, che consistono in prove teoriche e pratiche, si sostengono in un unico gruppo di materie per ciascun anno di corso. Ogni commissario ha a sua disposizione 10 punti.
-
-Art. 121. - L'esame di diploma consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento, approvata dal direttore della scuola ed in una prova pratica stabilita dalla commissione esaminatrice. I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola ma, se al secondo anno non sia loro riconosciuta la idoneita', saranno senz'altro esclusi da ulteriori prove. Agli allievi che avranno superato l'esame finale verra' rilasciato il diploma di tecnico audiometrista.
-
-Art. 122. - Gli esami di profitto e di diploma si danno in due sessioni, la prima, estiva, ha inizio subito dopo la chiusura annuale dei corsi e la seconda, autunnale, nel mese che precede l'inizio del nuovo anno accademico.
-
-Art. 123. - Le tasse e soprattasse annuali a carico degli iscritti restano cosi' destinate:
-
-tassa annuale di iscrizione . . . . . . . . . . . . . . L. 20.000 soprattassa annuale di esame. . . . . . . . . . . . . . L. 10.000 tassa erariale di diploma . . . . . . . . . . . . . . . L. 12.000 tassa annuale per iscrizione studenti fuori corso. . . . L. 6.000 contributi di laboratorio (utilizzazione di audiometri). L. 35.000
-
-Art. 124. - Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni o contributi di enti pubblici o privati.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 23 ottobre 1973
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: ZAGARI
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 31 maggio 1974 Atti di Governo, registro n. 3, foglio n. 55. - SCIARRETTA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831), e modificato con [regio decreto 31 ottobre 1929, n. 2393](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2393) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella legge 2 gennaio 1936 n. '73;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -130,69 +25,125 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli elenchi degli insegnamenti complementari del corsi di laurea in Scienze naturali e in Scienze biologiche e le norme relative agli esami e alle propedeuticita' sono abrogati e sostituiti nel modo seguente:  
   
-Art. 80 - dopo l'elenco delle precedenze degli esami dei corsi di laurea in scienze naturali, in scienze biologiche e in scienze geologiche sono abrogate le norme relative ai suddetti corsi di laurea e sostituite dalle seguenti:  
-"Lo studente, superati gli esami previsti nel piano di studio approvato dalla facolta' e successivamente un esame di cultura generale attinente al corso di laurea, inteso ad accertare la maturita' del candidato, sara' ammesso a sostenere l'esame di laurea.  
-L'esame di laurea consiste nella discussione sopra una dissertazione scritta, presentata dal candidato alla segreteria almeno dieci giorni prima della data fissata dalla facolta' per l'inizio degli esami di laurea, e contenente l'esposizione di indagini scientifiche eseguite dal candidato in un istituto della stessa o di altra facolta'.  
-Il preside, ricevuta la dissertazione, designa, tenuto conto della competenza, due controrelatori".  
-Dopo l'art. 109, e con il conseguente spostamento della numerazione successiva, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola, diretta a fini speciali, di preparazione per tecnici di audiometria, della durata di due anni.  
+Art. 29. - Sono insegnamenti complementari del corso di laurea in Scienze naturali:  
+1) Antropologia;  
+2) Biologia generale;  
+3) Chimica biologica;  
+4) Chimica fisica;  
+5) Chimica teorica;  
+6) Ecologia ed etologia;  
+7) Fisiologia vegetale;  
+8) Genetica;  
+9) Geochimica;  
+10) Geografia fisica;  
+11) Geologia applicata;  
+12) Giacimenti minerari;  
+13) Igiene;  
+14) Istologia ed embriologia;  
+15) Microbiologia;  
+16) Paleontologia;  
+17) Petrografia;  
+18) Scienza dell'alimentazione;  
+19) Zoocolture (bachi; api, avi, coniglicoltura).  
   
-Scuola di preparazione per tecnici di audiometria  
+Sono insegnamenti complementari del corso di laurea in Scienze biologiche:  
+1) Biologia generale;  
+2) Biologia molecolare;  
+3) Chimica fisica;  
+4) Farmacologia;  
+5) Fisiologia vegetale;  
+6) Genetica;  
+7) Geologia;  
+8) Microbiologia;  
+9) Paleontologia;  
+10) Parassitologia;  
+11) Patologia generale;  
+12) Psicologia;  
+13) Radiobiologia;  
+14) Scienza dell'alimentazione;  
+15) Statistica.  
   
-Art. 110. - E' istituita presso la facolta' di medicina e chirurgia dell'Universita' di Siena una scuola speciale di preparazione per tecnici di audiometria che ha sede presso la clinica otorinolaringoiatrica dell'Universita'.  
+I gruppi di materie complementari istituiti dalla Facolta' sono consigliati per ciascuno dei corsi di laurea secondo il manifesto annuale degli studi.  
+Gli insegnamenti biennali di Botanica e di Zoologia comprendono tanto la parte generale quanto la parte sistematica.  
+L'insegnamento biennale di Botanica comporta due distinti esami, rispettivamente alla fine del primo e alla fine del secondo anno.  
+Tutte le materie della Facolta', per essere materie scientifiche, sono di indole dimostrativa e nel loro insegnamento l'esposizione dottrinale dovra' finche' possibile essere accompagnata da dimostrazioni sperimentali, da illustrazioni di preparati, di modelli e di tavole murali.  
+Oltre alle lezioni gli studenti dovranno anche seguire le esercitazioni pratiche nelle discipline fondamentali ed in quelle complementari, per il completamento statutario della loro preparazione.  
+Per le esercitazioni pratiche gli studenti potranno essere sottoposti al pagamento di un contributo stabilito dal Consiglio di amministrazione, su proposta del Senato accademico, udita la Facolta' a titolo di rimborso spese.  
+Gli esami di profitto si sosterranno per singole materie e debbono tendere ad accertare se lo studente possiede una buona conoscenza della materia e dei metodi di indagine inerenti.  
+Sono previste le seguenti precedenze nella iscrizione ai corsi e negli esami:  
   
-Art. 111. - La scuola prende il nome di "Scuola di preparazione per tecnici di audiometria", ha la durata di due anni con indirizzo teorico-pratico e conferisce il diploma di tecnico di audiometria.  
-Ne e' titolo di ammissione il possesso di un diploma legalmente valido conseguito presso un istituto secondario superiore su non meno di cinque anni di corso.  
+Corso di laurea in Scienze naturali  
+Discipline Precedenze  
   
-Art. 112. - Gli aspiranti all'iscrizione al 1° anno di corso sono tenuti a presentare apposita domanda su carta legale diretta al rettore dell'Universita', correlata dai prescritti documenti e a sostenere un esame di ammissione consistente in una prova orale di cultura generale su argomenti facenti parte dei normali programmi dei licei e degli istituti di istruzione secondaria, con particolare riguardo all'insegnamento di fisica acustica.  
+Chimica generale ed inor- Istituzioni di matematiche,  
+ganica Fisica  
+Botanica Chimica generale  
+Zoologia Chimica generale  
+Chimica organica Chimica generale  
+Mineralogia Chimica generale  
+Anatomia comparata Zoologia, Anatomia umana  
+Geologia Mineralogia  
+Petrografia Mineralogia  
+Paleontologia Zoologia, Botanica, Anatom ia  
+comparata  
+Microbiologia Botanica, Chimica organica, Zo o-  
+logia  
+Chimica biologica Chimica organica  
+Fisiologia generale Chimica organica, Chimica biol o-  
+gica, Anatomia comparata  
+Geochimica Petrografia  
+Giacimenti minerari Geologia, Petrografia  
+Antropologia Anatomia umana  
+Ecologia ed Etologia Zoologia, Botanica, Geologia  
+Geologia applicata Geologia  
   
-Art. 113. - Il numero complessivo degli iscritti alla scuola e' di sedici (otto per anno di corso). Qualora le domande di iscrizione fossero in numero superiore a sedici, il consiglio della scuola si riserva di provvedere ad una scelta tra gli idonei in base ai risultati di ammissione.  
+Corso di laurea in Scienze biologiche  
   
-Art. 114. - Il direttore della scuola e' il titolare della cattedra di clinica otorinolaringoiatrica dell'Universita' di Siena. Gli incarichi di insegnamento sono conferiti dal rettore, su proposta del consiglio di facolta' di medicina e chirurgia udito il direttore della scuola. I professori che svolgono gli insegnamenti costituiscono il consiglio della scuola, al quale spettano le funzioni tecniche e disciplinari necessarie per il regolare funzionamento della scuola.  
+Discipline Precedenze  
   
-Art. 115. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria.  
+Chimica generale ed inor- Istituzioni di matematiche, Fi -  
+ganica sica  
+Botanica Chimica generale  
+Zoologia Chimica generale  
+Chimica organica Chimica generale  
+Anatomia umana Istologia ed embriologia  
+Anatomia comparata Zoologia, Istologia ed embriol o-  
+gia, Anatomia umana  
+Chimica biologica Chimica organica  
+Igiene Chimica biologica  
+Microbiologia Botanica, Chimica organica,  
+Zoologia  
+Fisiologia vegetale Botanica, Chimica organica  
+Biologia molecolare Chimica organica  
+Genetica Zoologia, Botanica, Biologia  
+molecolare  
+Fisiologia generale Chimica biologica, Anatomia  
+comparata  
+Patologia generale Chimica biologica, Fisiologia generale  
+Scienza dell'alimentazione Fisiologia generale  
+Paleontologia Botanica, Anatomia comparata  
+Radiobiologia Genetica  
   
-Art. 116. - Il corso comprende lezioni teoriche ed esercitazioni pratiche.  
-Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-Anatomia e fisiologia dell'orecchio, delle vie e dei centri acustici (anatomico-fisico);  
-Elementi di fisica acustica;  
-Tecniche audiometriche.  
-2° Anno:  
-Patologia dell'udito, del linguaggio e dell'organo dell'equilibrio;  
-Elementi di otoneurologia;  
-Elementi di foniatria;  
-Tecniche audiometriche;  
-Elementi di diagnostica audiometrica.  
-  
-Art. 117. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo, per gli allievi, dell'internato per un periodo di due anni nel reparto di audiologia della clinica otorinolaringoiatrica. La frequenza viene comprovata dalla attestazione rilasciata dagli insegnanti sul libretto di iscrizione. L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.  
-  
-Art. 118. - Alla fine di ogni anno gli allievi devono sostenere un esame sulle materie di insegnamento. Nel caso in cui i candidati non abbiano superato gli esami prescritti, essi rimarranno nella posizione di "ripetenti" fino a quando non avranno assolto tutti gli obblighi di cui sopra.  
-  
-Art. 119. - Le commissioni per gli esami di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia, su proposta del direttore della clinica. Le commissioni per gli esami di profitto sono composte da tre membri: direttore della scuola, presidente, e da due insegnanti della scuola stessa. La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro insegnanti della scuola stessa o da altri docenti.  
-  
-Art. 120. - Gli esami di profitto, che consistono in prove teoriche e pratiche, si sostengono in un unico gruppo di materie per ciascun anno di corso. Ogni commissario ha a sua disposizione 10 punti.  
-  
-Art. 121. - L'esame di diploma consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento, approvata dal direttore della scuola ed in una prova pratica stabilita dalla commissione esaminatrice. I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola ma, se al secondo anno non sia loro riconosciuta la idoneita', saranno senz'altro esclusi da ulteriori prove. Agli allievi che avranno superato l'esame finale verra' rilasciato il diploma di tecnico audiometrista.  
-  
-Art. 122. - Gli esami di profitto e di diploma si danno in due sessioni, la prima, estiva, ha inizio subito dopo la chiusura annuale dei corsi e la seconda, autunnale, nel mese che precede l'inizio del nuovo anno accademico.  
-  
-  
-Art. 123. - Le tasse e soprattasse annuali a carico degli iscritti restano cosi' destinate:  
-tassa annuale di iscrizione . . . . . . . . . . . . . . L. 20.000 soprattassa annuale di esame. . . . . . . . . . . . . . L. 10.000 tassa erariale di diploma . . . . . . . . . . . . . . . L. 12.000 tassa annuale per iscrizione studenti fuori corso. . . . L. 6.000 contributi di laboratorio (utilizzazione di audiometri). L. 35.000  
-  
-Art. 124. - Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni o contributi di enti pubblici o privati.  
+Nel terzo e nel quarto anno di corso gli studenti sono tenuti a frequentare come interni uno degli istituti nel quale sono impartite regolari lezioni per i rispettivi corsi di laurea.  
+La frequenza dell'internato e' consentita anche agli studenti fuori corso. In ogni caso potranno essere accolte solo le domande dei candidati che abbiano superato tutti gli esami fondamentali del primo anno e almeno due del secondo anno di corso.  
+L'internato puo' essere svolto in uno degli istituti della Facolta', o in altri istituti ad indirizzo naturalistico o biologico, previa autorizzazione del Consiglio di Facolta'.  
+Lo studente, superati gli esami delle materie fondamentali ed almeno in quattro tra le materie complementari potra' essere ammesso a sostenere l'esame di laurea.  
+L'esame di laurea consiste nella discussione di una dissertazione scritta presentata dal candidato alla segreteria almeno dieci giorni prima della data fissata dalla Facolta' per l'inizio degli esami di laurea e contenente la esposizione di indagini scientifiche eseguite dal candidato nell'istituto ove questo ha svolto i due anni di internato, e nella presentazione di due tesine scritte, che saranno state preparate in due istituti diversi, la tesi, ma in materie delle quali il laureando abbia sostenuto positivamente l'esame. Tali tesine potranno essere compilative od anche sperimentali, e dovranno testimoniare l'aggiornamento del candidato anche in campi diversi da quello nel quale si e' specializzato quale interno.  
+Il preside ricevuta la dissertazione designa, tenuto conto della competenza almeno tre commissari per la discussione, alla quale peraltro tutti i componenti la Commissione potranno prendere parte.  
+L'esame di laurea sara' preceduto da un colloquio pre-laurea che si svolgera' nei giorni immediatamente precedenti l'esame stesso.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 ottobre 1973
+### Dato a Roma, addi' 13 ottobre 1966
 
-LEONE MALFATTI
+SARAGAT GUI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli; REALE
 
-Registrato alla Corte dei conti, addi' 31 maggio 1974
+Registrato alla Corte dei conti, addi' 16 novembre 1966
 
-Atti di Governo, registro n. 3, foglio n. 55. - SCIARRETTA
+Atti del Governo, registro n. 207, foglio n. 26. - VILLA

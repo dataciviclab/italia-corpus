@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1957 n. 790
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1980 n. 835
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1957 n. 790
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1980 n. 835
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -10,136 +10,93 @@ Modificazioni allo statuto dell'Universita' degli studi di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successivi;
+Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla
+-----
 
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 7. - Il primo comma e' abrogato e sostituito dal seguente: "Salvo quanto e' stabilito, per la Facolta' di farmacia;, all'art. 52 del presente statuto, e, per la Facolta' di giurisprudenza, al comma seguente, per tutte le altre Facolta', per essere ammesso all'esame di laurea, il candidato deve comunicare per iscritto, almeno tre mesi prima della data dell'inizio degli esami, il tema della dissertazione al professore della materia, il quale lo approva, apponendovi la propria firma. Il foglio cosi' firmato viene conservato nella segreteria della Facolta'".
-
-Dopo il primo comma e' aggiunto il seguente:
-
-"Per la Facolta' di giurisprudenza, la comunicazione del tema della dissertazione dovra' avvenire, con le modalita' di cui al comma precedente, non meno di otto mesi prima della sessione in cui lo studente sosterra' l'esame di laurea. Le eventuali specificazioni nell'ambito del tema dovranno essere autorizzate dal professore sotto la cui guida il lavoro verra' condotto".
-
-Art. 12. - Agli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di:
-
-10) "Sociologia".
-
-Art. 28. - E' soppresso l'insegnamento complementare di "Storia della geografia" (storia della scienza e delle esplorazioni)" per il diploma di abilitazione alla vigilanza nelle scuole elementari.
-
-Art. 31. - Il primo comma e' abrogato e sostituito dal seguente:
-
-"Sono istituiti presso la Facolta' di magistero:
-
-1) un Istituto e Laboratorio di geografia allo scopo di fornire agli studenti in materie letterarie che intendano dedicarsi in modo speciale agli studi geografici la possibilita' di approfondire la preparazione teorica e di conoscere i metodi e gli strumenti di lavoro indispensabili per compiere ricerche di geografia generale ed altresi' di saperli applicare direttamente. L'Istituto - laboratorio e' diretto dal professore di geografia della Facolta'".
-
-Art. 33. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: 11) "Genetica medica".
-
-Art. 127. - Agli insegnamenti del secondo anno della Scuola di specializzazione in otorinolaringoiatria e' aggiunto quello di: 7) "Anestesia".
-
-Art. 156. - L'elenco delle materie d'insegnamento per il primo anno della Scuola di specializzazione in medicina del lavoro e' cosi' modificato:
-
-1° anno:
-
-Fisiologia del lavoro;
-
-Patologia del lavoro;
-
-Igiene del lavoro;
-
-Statistica applicata alla medicina del lavoro;
-
-Medicina legale del lavoro (parte generale);
-
-Psicotecnica;
-
-Chimica dei prodotti tossici industriali;
-
-Infortunistica medico-chirurgica (parte generale).
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 30 giugno 1957
-
-GRONCHI
-
-MORO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 5 settembre 1957 Atti del Governo, registro n. 107, foglio n. 106. - RELLEVA
+proposta del Ministro della pubblica istruzione; Decreta:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successivi;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Lo statuto dell'Universita' di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 158. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in igiene.  
+
+Art. 2
+------
+
   
-Decreta:   
   
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 7. - Il primo comma e' abrogato e sostituito dal seguente: "Salvo quanto e' stabilito, per la Facolta' di farmacia;, all'art. 52 del presente statuto, e, per la Facolta' di giurisprudenza, al comma seguente, per tutte le altre Facolta', per essere ammesso all'esame di laurea, il candidato deve comunicare per iscritto, almeno tre mesi prima della data dell'inizio degli esami, il tema della dissertazione al professore della materia, il quale lo approva, apponendovi la propria firma. Il foglio cosi' firmato viene conservato nella segreteria della Facolta'".   
-Dopo il primo comma e' aggiunto il seguente:   
-"Per la Facolta' di giurisprudenza, la comunicazione del tema della dissertazione dovra' avvenire, con le modalita' di cui al comma precedente, non meno di otto mesi prima della sessione in cui lo studente sosterra' l'esame di laurea. Le eventuali specificazioni nell'ambito del tema dovranno essere autorizzate dal professore sotto la cui guida il lavoro verra' condotto".   
-Art. 12. - Agli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di:   
-10) "Sociologia".   
-Art. 28. - E' soppresso l'insegnamento complementare di "Storia della geografia" (storia della scienza e delle esplorazioni)" per il diploma di abilitazione alla vigilanza nelle scuole elementari.   
-Art. 31. - Il primo comma e' abrogato e sostituito dal seguente:   
-"Sono istituiti presso la Facolta' di magistero:   
-1) un Istituto e Laboratorio di geografia allo scopo di fornire agli studenti in materie letterarie che intendano dedicarsi in modo speciale agli studi geografici la possibilita' di approfondire la preparazione teorica e di conoscere i metodi e gli strumenti di lavoro indispensabili per compiere ricerche di geografia generale ed altresi' di saperli applicare direttamente. L'Istituto - laboratorio e' diretto dal professore di geografia della Facolta'".   
-Art. 33. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: 11) "Genetica medica".   
-Art. 127. - Agli insegnamenti del secondo anno della Scuola di specializzazione in otorinolaringoiatria e' aggiunto quello di: 7) "Anestesia".   
-Art. 156. - L'elenco delle materie d'insegnamento per il primo anno della Scuola di specializzazione in medicina del lavoro e' cosi' modificato:   
-1° anno:   
+Dopo l'art. 305, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in igiene:   
   
-Fisiologia del lavoro;   
-Patologia del lavoro;   
-Igiene del lavoro;   
-Statistica applicata alla medicina del lavoro;   
-Medicina legale del lavoro (parte generale);   
-Psicotecnica;   
-Chimica dei prodotti tossici industriali;   
-Infortunistica medico-chirurgica (parte generale).   
+Scuola di specializzazione, in igiene   
+Art. 306. - La scuola di specializzazione in igiene ha sede presso l'istituto di igiene. Essa ha lo scopo di conferire adeguata preparazione teorica e pratica ai laureati che intendono dedicarsi alla carriera dei laboratori di sanita' pubblica e della progettazione di impianti tecnologici di ospedali, scuole, industrie.   
+La scuola si articola nei seguenti due indirizzi:   
+1) laboratorio di sanita' pubblica, al quale possono essere ammessi i laureati in chimica, chimica e tecnologie farmaceutiche, farmacia, scienze biologiche, scienze naturali e medicina veterinaria;   
+2) igiene ed edilizia socio-sanitaria, al quale possono essere ammessi i laureati in architettura, fisica ed ingegneria.   
+Art. 307 - Il numero massimo degli allievi iscrivibili alla scuola e' di ottanta suddivisi in quaranta per ciascun indirizzo.   
+Art. 308. - Le, materie di insegnamento per l'indirizzo di laboratorio di sanita' pubblica sono le seguenti:   
+1° Anno:   
+metodologia statistica e biometria;   
+microbiologia e parassitologia;   
+epidemiologia e profilassi generale;   
+legislazione e organizzazione sanitaria;   
+elementi di patologia generale;   
+biochimica applicata;   
+igiene dell'ambiente fisico e difesa ecologica.   
+2° Anno:   
+metodi e dosaggi chimici, fisici e biologici per il controllo dell'inquinamento ambientale;   
+epidemiologia e profilassi delle malattie infettive e di quelle non infettive di importanza sociale;   
+strumentazione e misure chimico-cliniche;   
+accertamento diagnostico delle malattie infettive e parassitarie;   
+ispezione e controllo degli alimenti;   
+microscopia applicata all'igiene;   
+elementi di informatica.   
+Art. 309. - Le materie di insegnamento per l'indirizzo igiene ed edilizia socio-sanitaria sono le seguenti:   
+1° Anno:   
+metodologia statistica e biometria;   
+elementi di epidemiologia e profilassi delle malattie infettive e non infettive di importanza sociale;   
+legislazione sanitaria;   
+igiene dell'ambiente fisico e difesa ecologica;   
+organizzazione del territorio e programmazione sanitaria;   
+principi di ingegneria del lavoro e della sicurezza.   
+2° Anno:   
+igiene edilizia e dell'aggregato urbano;   
+igiene e tecnica delle costruzioni ospedaliere; - arredamenti ed impianti tecnologici;   
+edilizia ed arredamento scolastico;   
+elementi di fisica tecnica applicata all'igiene;   
+urbanistica ed insediamento industriale;   
+approvvigionamento idrico e smaltimento dei rifiuti.   
+Gli insegnamenti sono svolti sotto forma di lezioni integrate da dimostrazioni pratiche, da esercitazioni e da visite ad impianti e strutture interessanti la scuola di specializzazione.   
+Art. 310. - L'esame di diploma, cui si e' ammessi dopo aver superato tutti gli esami del biennio, consta di una dissertazione scritta, elaborata sotto il controllo di un docente della scuola, su un argomento riguardante l'orientamento scelto.   
+Agli allievi che abbiano ottenuto l'approvazione all'esame di diploma viene rilasciato il diploma di specializzazione in igiene con l'indicazione del relativo orientamento.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 giugno 1957
+### Dato a Roma, addi' 16 ottobre 1980
 
-GRONCHI MORO
+PERTINI SARTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 5 settembre 1957
+Registrato alla Corte dei conti, addi' 26 novembre 1980
 
-Atti del Governo, registro n. 107, foglio n. 106. - RELLEVA
+Registro n. 111 Istruzione, foglio n. 317

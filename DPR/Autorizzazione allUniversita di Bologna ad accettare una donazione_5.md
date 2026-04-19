@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1952 n. 4518
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 gennaio 1951 n. 219
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1952 n. 4518
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 gennaio 1951 n. 219
+==============================================================
 
 Autorizzazione all'Universita' di Bologna ad accettare una donazione.
 ---------------------------------------------------------------------
@@ -12,8 +12,7 @@ Art. 1
 
 N.
 
-4518. Decreto del Presidente della Repubblica 27 dicembre 1952, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Bologna viene autorizzata ad accettare la donazione di lire 910.000 nominali, in titoli di Stato 5%, disposta in suo favore dalla sig.ra Anna Jacchia d'Ajutolo e dalle figlie dott.sse Valeria Jacchia e Adriana Jacchia in Olivo, con atti pubblici amministrativi rispettivamente in data 28 ottobre 1947, n. 254 e 8 marzo 1951, n. 281, per l'istituzione di una borsa di studio da intitolarsi "Borsa di studio avv. Mario Jacchia" e da conferirsi annualmente ad uno studente dell'ultimo anno di giurisprudenza dell'Universita' medesima, che risulti vincitore nel concorso su argomento di diritto civile e che sia di modesta famiglia, cittadino italiano o del territorio di Trieste, di nazionalita' italiana, e che abbia riportato la votazione di almeno 27/30 nell'esame di diritto civile.  
+219. Decreto del Presidente della Repubblica 25 gennaio 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Bologna viene autorizzata ad accettare la donazione della somma di L. 200.000 nominali, rendita 5%, disposta in suo favore dal dott. ing. Antonio Stefano Benni, con atto pubblico in data 27 aprile 1944, per l'istituzione di due premi di studio da intitolarsi al medesimo e da conferirsi a due studenti iscritti al 1° anno della Facolta' di ingegneria.  
   
-Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 17 marzo 1953  
-Atti del Governo, registro n. 75, foglio n. 94. - PALLA
+Visto, il Guardasigilli: PICCIONI  
+Registrato alla Corte dei conti, addi' 7 aprile 1951

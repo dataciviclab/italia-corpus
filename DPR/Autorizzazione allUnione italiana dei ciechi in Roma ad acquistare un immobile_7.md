@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 settembre 1974 n. 542
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1976 n. 150
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 settembre 1974 n. 542
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1976 n. 150
+============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad acquistare un immobile.
 ----------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-542. Decreto del Presidente della Repubblica 3 settembre 1974, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare dal signor Grillo Emanuele, al complessivo convenuto prezzo di L. 4.600.000, un appartamento sito in Macerata, via Lauro Rossi 59, via Padre Matteo Ricci 55, al piano terra, composto di tre camere, cucina e bagno, da destinare a sede della locale sezione provinciale.  
+150. Decreto del Presidente della Repubblica 13 marzo 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare dalla ditta Natrella Domenica di Bari, al convenuto prezzo di lire 18.535.000, un appartamento di mq 151 sito in Lecce al secondo piano del fabbricato di via Imperatore Adriano, scala C, sorto su terreno distinto dal nuovo catasto terreni con foglio n. 259, particella 4284, nonche' un locale sottostante della superficie di mq 100, da destinare a sede della locale sezione provinciale.  
   
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 26 ottobre 1974  
-Atti di Governo, registro n. 6, foglio n. 40. - SCIARRETTA
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 20 aprile 1976  
+Atti di Governo, registro n. 5, foglio n. 20

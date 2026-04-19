@@ -1,78 +1,138 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1967 n. 253
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 962
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1967 n. 253
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 962
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090) e modificato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduto l'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzi.  
-detta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
+Lo statuto dell'Universita' di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Dopo l'art. 623, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in tossicologia forense presso la prima facolta' di medicina e chirurgia.   
+Scuola di specializzazione in tossicologia forense   
+Art. 624. - E' istituita presso l'istituto di medicina legale e delle assicurazioni della prima facolta' di medicina e chirurgia dell'Universita' di Napoli la scuola di specializzazione in tossicologia forense.   
+La scuola si propone lo scopo di mettere a disposizione di coloro che per diversi aspetti gia' si dedicano a questa disciplina uno strumento tecnico adeguato alle sempre piu' numerose e diversificate richieste di intervento nell'ambito della tossicologia.   
+La scuola di specializzazione rilascia i seguenti diplomi:   
+a) specialista in tossicologia forense con indirizzo medico;   
+b) specialista in tossicologia forense con indirizzo chimico.   
+Art. 625. - La durata della scuola e' di quattro anni.   
+Sono ammessi a frequentare detta scuola i laureati in medicina e chirurgia, in farmacia, in chimica e tecnologia farmaceutiche, in chimica, in scienze delle preparazioni alimentari, in scienze biologiche.   
+Il numero degli iscritti e' di venti, distribuiti per non oltre cinque iscritti per ogni anno. Nel caso di eccedenza di domande la selezione tra i richiedenti sara' attuata attraverso concorso interno basato su titoli e su prove d'esame.   
+Al momento dell'iscrizione al quarto anno i candidati saranno ripartiti a seconda del rispettivo indirizzo, essendo l'indirizzo medico esclusivamente riservato ai laureati in medicina e chirurgia e l'indirizzo chimico ai laureati in medicina e chirurgia, in farmacia, in chimica e tecnologia farmaceutiche, in chimica, in scienze delle preparazioni alimentari, in scienze biologiche.   
+Art. 626. - Le materie d'insegnamento sono:   
+1° Anno:   
+tossicologia forense;   
+medicina legale generale;   
+fondamenti di farmacologia;   
+principi di tossicologia generale;   
+elementi di chimica biologica;   
+elementi di fisiopatologia da agenti tossici chimici;   
+prelevamento e conservazione di reperti giudiziari;   
+legislazione in campo tossicologico;   
+elementi di diritto e di procedura penale;   
+struttura, organizzazione e funzioni del laboratorio chimico-tossicologico.   
+2° Anno:   
+tossicologia forense speciale I;   
+farmacocinetica;   
+principi di chimica farmaceutica;   
+biochimica molecolare;   
+elementi di farmacognosia e di micologia;   
+tecniche analitiche di base, attrezzatura e strumentazione del laboratorio chimico-tossicologico;   
+analisi tossicologiche I;   
+diagnosi di ubriachezza negli aspetti teorici, pratici e legislativi;   
+elementi di statistica;   
+controllo di qualita'.   
+3° Anno:   
+tossicologia forense speciale II;   
+analisi tossicologiche II;   
+tossicologia dell'ambiente e del lavoro;   
+tossicologia degli alimenti;   
+chimica bromatologica;   
+tossicologia delle sostanze dell'abuso;   
+elementi di tossicologia veterinaria;   
+analisi merceologiche;   
+microbiologia applicata alla tossicologia;   
+controllo di preparazioni farmaceutiche;   
+protezione e sicurezza nel laboratorio;   
+principi di analisi in tracce.   
   
-Dopo l'art. 470, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Medicina ed igiene scolastica annessa alla Facolta' di medicina e chirurgia.  
-Scuola di specializzazione in Medicina ed igiene scolastica  
-Art. 471. - E' istituita la Scuola di specializzazione in Medicina ed igiene scolastica. Sono ammessi i laureati in Medicina e chirurgia.  
-Art. 472. - Alla Scuola possono iscriversi, per ogni anno accademico, al massimo 30 allievi. La Scuola ha la durata di due anni.  
-Art. 473. - Le materie di insegnamento sono:  
   
-1° Anno:  
-Igiene generale;  
-Legislazione scolastica;  
-Igiene ed edilizia scolastica I corso (biennale);  
-Auxologia normale e patologica I corso (biennale);  
-Diagnostica e profilassi delle malattie I corso (biennale);  
-Patologia, diagnostica e clinica delle principali malattie dell'eta' scolare I corso (biennale);  
-Le malattie genetiche e metaboliche;  
-Neuropsichiatria e psicologia dell'eta' scolare I corso (biennale);  
-Diagnostica radiologica;  
-Educazione fisica e ginnastica medica.  
+INDIRIZZO MEDICO   
   
-2° Anno:  
-Igiene ed edilizia scolastica II corso (biennale);  
-Auxologia normale e patologica II corso (biennale);  
-Diagnostica e profilassi delle malattie infettive II corso (biennale);  
-Patologia, diagnostica e clinica delle principali malattie infettive dell'eta' scolare II corso (biennale);  
-Neuropsichiatria e psicologia dell'eta' scolare II corso (biennale);  
-Ortopedia;  
-Dermatologia;  
-Oculistica;  
-Odontoiatria;  
-Quadri clinici della tubercolosi nell'eta' scolare.  
+4° Anno:   
+diagnosi medico-legale di avvelenamento;   
+effetti tossici a lungo termine;   
+anatomia patologica in tossicologia;   
+clinica tossicologica e terapia;   
+diagnostica chimico-tossicologica d'urgenza;   
+patologia della terapia e responsabilita' professionale;   
+elementi di radioprotezione;   
+deontologia, legislazione sanitaria e aggiornamenti in tema di normativa.   
   
-Art. 474. - La direzione della Scuola sara' tenuta, a bienni alterni, dal titolare della cattedra di Clinica pediatrica e successivamente dal titolare della cattedra di Igiene.  
-Art. 475. - La frequenza alle lezioni ed alle esercitazioni e tirocini pratici, e' obbligatoria.  
-Esercitazioni e tirocinii pratici si svolgeranno presso la clinica pediatrica e l'istituto di igiene e, a discrezione dei direttori della Scuola, presso i centri sanitari del comune di Napoli e della Provincia.  
-Art. 476. - Gli iscritti alla fine del primo anno di corso hanno l'obbligo di sostenere e superare l'esame di profitto, in un gruppo unico, delle materie relative ai corsi di tale anno. Alla fine del secondo anno di corso gli iscritti dovranno sostenere e superare l'esame di profitto, in un gruppo unico, delle materie relative al secondo corso per essere ammessi all'esame di diploma che verra' rilasciato previa discussione di una tesi.  
-Art. 477. - L'abbreviazione di un anno di corso, tuttavia con l'obbligo di frequenza e di esami, e' concessa agli studiosi gia' specializzati in Pediatria o in Igiene su proposta del direttore in carica in quel biennio e dietro decisione della Facolta'.  
-Art. 478. - Per quanto non previsto valgono le norme generali relative alle scuole di specializzazione contenute nel vigente statuto.  
+  
+INDIRIZZO CHIMICO   
+  
+4° Anno:   
+analisi inorganica e organica in tracce;   
+cromatografia;   
+spettroscopia;   
+tecniche immunologiche ed enzimatiche;   
+saggi e dosaggi biologici;   
+tecniche istochimiche applicate alla tossicologia;   
+metodi radiochimici ed elementi di radioprotezione;   
+automatizzazione e elementi di informatica.   
+  
+Esercitazioni pratiche affiancheranno gli insegnamenti indicati.   
+Art. 627. - La frequenza alle lezioni e alle esercitazioni e' obbligatoria; e' altresi' prevista la frequenza obbligatoria ai fini di apprendimento presso i laboratori di tossicologia dell'istituto di medicina legale (cattedra R) per l'intera durata dell'anno accademico.   
+Alla fine di ogni anno gli specializzandi che abbiano ottenuto la firma di frequenza dovranno sostenere un esame di profitto nelle materie d'insegnamento annuali.   
+L'esame di diploma consiste nella discussione di una dissertazione scritta e in una prova pratica su argomenti di tossicologia forense approvati dalla direzione della scuola.   
+Art. 628. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima. Insegnamenti potranno essere impartiti da specialisti di altre Universita' e di istituzioni non universitarie.   
+Art. 629. - La scuola dispone delle attrezzature, delle biblioteche, del materiale e delle altre opportunita' didattiche messe a disposizione dell'istituto di medicina legale e delle assicurazioni. E' previsto altresi' l'utilizzo di sedi esterne, universitarie e non, per lezioni specialistiche ed esercitazioni.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 marzo 1967
+### Dato a Roma, addi' 31 ottobre 1981
 
-SARAGAT GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 3 maggio 1967
+Registrato alla Corte dei conti, addi' 9 febbraio 1982
 
-Atti del Governo, registro n. 211, foglio n. 2. - GRECO
+Registro n. 20 Istruzione, foglio n. 173

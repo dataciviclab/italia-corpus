@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 febbraio 1982 n. 160
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 1129
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 febbraio 1982 n. 160
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 1129
 ===============================================================
 
 Autorizzazione al Comitato olimpico nazionale italiano, in Roma, ad acquistare un immobile.
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-160. Decreto del Presidente della Repubblica 23 febbraio 1982, col quale, sulla proposta del Ministro del turismo e dello spettacolo, il Comitato olimpico nazionale italiano (C.O.N.I.), in Roma, viene autorizzato ad acquistare, al prezzo di L. 51.000.000, un appartamento di mq 330 sito in Gorizia, corso Italia, angolo via 24 Maggio n. 2, distinto come Ente 13, iscritto nel C.T.I. della P.T. 5874 di Gorizia p.c. 1399/1, iscritto al nuovo catasto di Gorizia alla partita 2250, di proprieta' dei signori Bruno, Gianfranco e Mauro Bigot, come da atto preliminare di compravendita 3 settembre 1973, registrato a Gorizia in data 7 settembre 1973 al n. 7417, da adibire a sede di uffici del comitato provinciale di Gorizia.  
+1129. Decreto del Presidente della Repubblica 21 ottobre 1981, col quale, sulla proposta del Ministro del turismo e dello spettacolo, il Comitato olimpico nazionale italiano (C.O.N.I.), in Roma, viene autorizzato ad acquistare, per destinarlo a sedi dei comitati regionale e provinciale, dell'ente, una porzione di un immobile sito in Palermo, via Terrasanta, 93, di proprieta' della S.r.l.  
+Immobiliare Terrasanta", iscritto al catasto alla particella 309 del foglio di mappa 43, con una superficie di mq 754, come da atto preliminare di vendita redatto con scrittura privata registrata a Palermo in data 8 aprile 1968 al n. 943.  
   
 Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 8 aprile 1982  
-Registro n. 4 Turismo, foglio n. 76
+Registrato alla Corte dei conti, addi' 30 marzo 1982  
+Registro n. 4 Turismo, foglio n. 40

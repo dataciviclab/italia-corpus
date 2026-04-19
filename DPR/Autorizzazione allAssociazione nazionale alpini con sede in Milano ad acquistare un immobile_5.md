@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1971 n. 12
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 ottobre 1971 n. 1173
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1971 n. 12
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 ottobre 1971 n. 1173
+===============================================================
 
 Autorizzazione all'Associazione nazionale alpini, con sede in Milano, ad acquistare un immobile.
 ------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-12. Decreto del Presidente della Repubblica 9 gennaio 1971, col quale, sulla proposta del Ministro per la difesa, l'Associazione nazionale alpini, con sede in Milano, viene autorizzata ad acquistare, per adibirlo a sede della redazione del periodico sociale L'Alpino", dai signori Terragni Antonietta ved. Mariani e Mariani Luigia, Giuseppe e Maria, al prezzo di lire venti milioni, l'appartamento situato al primo piano, (secondo fuori terra) del fabbricato che sorge in Milano, via Marsala n. 9, composto di tre vani oltre doppi servizi e disimpegni (con annesso un vano cantina nel sotterraneo) e contraddistinto, nel cessato catasto fabbricati di Milano, sezione citta', con il mappale 78, sub. 11.  
+1173. Decreto del Presidente della Repubblica 12 ottobre 1971, col quale, sulla proposta del Ministro per la difesa, l'Associazione nazionale alpini, con sede in Milano, viene autorizzata ad acquistare, per adibirlo a sede della dipendente sezione di Treviso, dall'imprenditore edile sig. Giuseppe Favarato, al prezzo di lire nove milioni, l'appartamento situato al primo piano del fabbricato che sorge in detta citta', via Inferiore n. 55; cosi' descritto alla pagina 7327 del nuovo catasto edilizio urbano: comune di Treviso, sezione E, Citta', foglio II, mappale n. 939 sub 4, via Inferiore, piano I, cat. A/ 10, classe 4ª, vani 4, rendita L. 3244.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 15 febbraio 1971  
-Atti del Governo, registro n. 240, foglio n. 184. - GRECO
+Visto, il Guardasigilli: COLOMBO  
+Registrato alla Corte dei conti, addi' 4 gennaio 1972  
+Atti del Governo, registro n. 245, foglio n. 200. - VALENTINI

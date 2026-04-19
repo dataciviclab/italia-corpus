@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 966
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 maggio 1985 n. 604
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 966
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 maggio 1985 n. 604
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazione allo statuto dell'Universita' degli studi di Pavia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -21,6 +21,8 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -40,41 +42,22 @@ Articolo unico
 
   
   
-Nell'art. 58, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:   
-applicazioni tecnologiche in chirurgia;   
-chirurgia dei grossi vasi e del cuore;   
-igiene applicata;   
-biologia cellulare;   
-farmacologia cellulare;   
-farmacologia molecolare   
-citologia normale ed ultrastrutturale;   
-auxologia normale e patologica;   
-ematologia pediatrica;   
-semeiotica cardiovascolare;   
-endocrinologia ginecologica ed ostetrica;   
-neurofisiopatologia;   
-patologia ultrastrutturale;   
-genetica umana;   
-psicopatologia forense;   
-tecniche fisiologiche;   
-fisiopatologia dell'emostasi;   
-criminologia;   
-criminologia minorile;   
-igiene scolastica;   
-istochimica normale e patologica;   
-semeiotica ostetrica;   
-neuroftalmologia.   
+Art. 59 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono inclusi i seguenti insegnamenti: tecniche angiochirurgiche;   
+applicazioni tecnologiche in chirurgia vascolare;   
+fisiopatologia delle malattie del ricambio.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 31 maggio 1985
 
-PERTINI BODRATO
+PERTINI
 
-Visto, il Guardasigilli: DARIDA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 9 febbraio 1982
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registro n. 20 Istruzione, foglio n. 190
+Registrato alla Corte dei conti, addi' 25 ottobre 1985
+
+Registro n. 71 Istruzione, foglio n. 195

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 agosto 1985 n. 818
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1976 n. 57
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 agosto 1985 n. 818
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1976 n. 57
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-818. Decreto del Presidente della Repubblica 8 agosto 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in beni mobili per L. 1.243.000, disposto dalla sig.na Croce Rosa a favore della fondazione "Don Carlo Gnocchi (poliomielitici)", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione stessa in data 20 novembre 1981, con testamento olografo 8 febbraio 1975, pubblicato in data 30 aprile 1981, n. 3558 di repertorio e n. 212 di raccolta, a rogito dott. Nicola Maienza, notaio in Milano, registrato a Milano il 5 maggio 1981 al n. 11621.   
+57. Decreto del Presidente della Repubblica 23 gennaio 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Erminia Coppo con testamento olografo 9 luglio 1971, pubblicato e depositato con verbale n. 48147.8353 di repertorio in data 3 luglio 1972 del dott. Fernando Montarolo, notaio in Casale Monferrato (Alessandria), ed ivi registrato il 5 luglio 1972, vol. 413 al n. 1450 atti pubblici, consistente in denaro liquido, oro e valuta estera per un valore presunto di lire 11.067.502.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 30 dicembre 1985   
-Registro n. 11 Presidenza, foglio n. 76
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 13 marzo 1976  
+Atti di Governo, registro n. 4, foglio n. 10

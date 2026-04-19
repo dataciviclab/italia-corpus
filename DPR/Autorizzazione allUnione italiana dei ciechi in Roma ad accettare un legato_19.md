@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1978 n. 517
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 341
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1978 n. 517
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 341
 =============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un legato.
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-517. Decreto del Presidente della Repubblica 25 luglio 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Elisa Ardaine ved.  
-Salvaneschi con testamento olografo 18 ottobre 1954, pubblicato a rogito notaio dott. Federico Bottino di Torino in data 22 maggio 1974, n. 32091 di repertorio e n. 6350 di raccolta, registrato a Torino il 1° giugno 1974 al n. 17974, vol. 1275, consistente nei proventi dei diritti letterari sulle opere del dott. Salvaneschi Giovanni detto Nino, il cui importo per l'anno 1973 e' stato di L. 217.616 e per gli anni successivi si presume in L. 200.000.   
+341. Decreto del Presidente della Repubblica 26 aprile 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 10.000.000, disposto dalla sig.ra Elena Praitano ved. Gargano a favore della sede di Napoli con testamento pubblico 2 marzo 1979, pubblicato in data 15 marzo 1979, n. 82513 di repertorio, a rogito dott. Giovanni Pennacchio, notaio in Roma, registrato a Roma in data 21 marzo 1979 al n. 4300.  
   
-Visto, il Guardasigilli: BONIFACIO   
-Registrato alla Corte dei conti, addi' 30 agosto 1978   
-Registro n. 6 Presidenza, foglio n. 163
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 11 luglio 1984  
+Registro n. 6 Presidenza, foglio n. 299

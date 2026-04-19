@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1982 n. 100
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 dicembre 1981 n. 1007
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1982 n. 100
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 dicembre 1981 n. 1007
+================================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-100. Decreto del Presidente della Repubblica 8 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un negozio sito in Milano, via G. Pascoli n. 18, distinto nel nuovo catasto edilizio urbano alla partita 64183, foglio 317, mappale 364 sub 1, del valore attribuito di L. 22.000.000 elevato dall'ufficio tecnico erariale di Milano a lire 45.750.000, disposto dalla sig.ra Lucia Ortensia Duilia Ferradini ved. Soresina con testamento olografo 30 ottobre 1972, pubblicato a rogito dott. Gaudenzio Traspadini, notaio in Milano, il 22 marzo 1979, numero 23440/3298 di repertorio, registrato a Milano in data 26 marzo 1979 al n. A/4-08039/71 MN.  
+1007. Decreto del Presidente della Repubblica 15 dicembre 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in buoni del Tesoro del valore nominale di L. 5.000.000, disposto dal signor Cairoli Franco con testamento olografo e codicillo del 5 aprile 1968, pubblicato a rogito dott. Enrico Bevilacqua, notaio in Milano, il 3 ottobre 1977, n. 15065/2.811 di repertorio, registrato a Milano il 12 ottobre 1977, al n. A/4-93799 71/ M serie F.  
   
 Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 20 marzo 1982  
-Registro n. 3 Presidenza, foglio n. 53
+Registrato alla Corte dei conti, addi' 24 febbraio 1982  
+Registro n. 2 Presidenza, foglio n. 176

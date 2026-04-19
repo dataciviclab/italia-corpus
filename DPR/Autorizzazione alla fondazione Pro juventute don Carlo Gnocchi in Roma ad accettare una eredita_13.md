@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1985 n. 183
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980 n. 120
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1985 n. 183
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980 n. 120
 ===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-183. Decreto del Presidente della Repubblica 12 febbraio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in un immobile sito in Milano, corso Plebiscito n. 191, distinto nel nuovo catasto edilizio urbano alla partita n. 28130, foglio 356, mappale 449 sub 4, ed in beni mobili come da inventario, per un totale di L. 81.640.536 al netto delle passivita', disposta dalla sig.ra Luraschi Evelina ved. Levi a favore dell'istituto dei mutilatini di don Gnocchi, che si identifica con la fondazione medesima, come si evince dal verbale del consiglio di amministrazione della stessa in data 20 novembre 1982, con testamento olografo 10 dicembre 1976, pubblicato in data 14 dicembre 1982, numero 5981/933 di repertorio, a rogito dott.  
-Ulderico Brambilla, notaio in Milano, registrato a Milano in data 28 gennaio 1982 al n. 850.  
+120. Decreto del Presidente della Repubblica 7 febbraio 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita', consistente nella somma di L. 4.516.523, disposta dalla sig.ra Bice Buonamici ved. Ponzoni a favore dello istituto mutilatini don Gnocchi, che si identifica con la fondazione medesima, con testamento pubblico 14 novembre 1973, pubblicato in data 14 ottobre 1977, n. 16824 di repertorio, a rogito dott. Claudio Malberti, notaio in Corsico (Milano), registrato a Milano in data 25 ottobre 1977, n. A/ 4 5144.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 2 maggio 1985  
-Registro n. 4 Presidenza, foglio n. 85
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 31 marzo 1980  
+Registro n. 3 Presidenza, foglio n. 5

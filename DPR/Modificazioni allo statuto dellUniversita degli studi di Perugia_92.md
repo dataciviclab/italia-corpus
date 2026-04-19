@@ -1,160 +1,97 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1954 n. 1203
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 212
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1954 n. 1203
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 212
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Perugia e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e modificato con [regi decreti 7 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-07;1471); [17 ottobre 1941, n. 1205; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1941-10-17;1205) [5 ottobre 1946, n. 309; con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-05;309) [28 luglio 1950, n. 936](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-28;936); [30 ottobre 1950, n. 1128](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1128); [11 aprile 1951, numero 472](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;472); [27 ottobre 1951, n. 1675](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1675); [14 marzo 1952, numero 768](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-03-14;768); [11 marzo 1953, n. 457](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;457); [6 ottobre 1953, numero 1110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-10-06;1110);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 65. - Il primo comma dell'art. 65 e' sostituito dal seguente:  
-Alla Facolta' di medicina e chirurgia sono annesse le scuole di perfezionamento in: "endocrinologia e malattie del ricambio", "pediatria", "ostetricia e ginecologia", "oculistica", "chirurgia", "medicina interna", "igiene".  
-Dopo l'art. 78, sono aggiunti i seguenti nuovi articoli relativi all'istituzione delle nuove scuole di perfezionamento in "chirurgia", "medicina interna" ed "igiene".  
-  
-Scuola di perfezionamento in chirurgia  
-  
-Art. 79. - La scuola ha la durata di cinque anni: il numero degli studenti che possono essere iscritti e' limitato a cinque per ogni anno di corso.  
-Le materie di insegnamento sono:  
-  
-1° anno:  
-Clinica chirurgica.  
-Patologia chirurgica.  
-Anatomia chirurgica.  
-Fisiologia e biochimica applicata alla chirurgia.  
-Anatomia patologica chirurgica.  
-Microbiologia.  
-Traumatologia e tecnica degli apparecchi.  
-  
-2° anno:  
-Clinica chirurgica.  
-Patologia chirurgica.  
-Oncologia.  
-Medicina opertoria.  
-Semeiotica chirurgica.  
-Anestesiologia e trattamento pre e post-operatorio.  
-Tecnica di laboratorio.  
-Radiologia chirurgica.  
-Ortopedia.  
-  
-3° anno:  
-Clinica chirurgica.  
-Patologia chirurgica.  
-Semeiotica chirurgica.  
-Radiologia chirurgica.  
-Chirurgia d'urgenza.  
-Otorinolaringologia.  
-Chirurgia plastica.  
-  
-4° anno  
-Clinica chirurgica.  
-Patologia chirurgica.  
-Chirurgia delle vie urinarie.  
-Chirurgia dell'apparato digerente.  
-Chirurgia dell'apparato respiratorio.  
-Ginecologia.  
-Chirurgia infantile.  
-Infortunistica.  
-  
-5° anno:  
-Clinica chirurgica.  
-Patologia chirurgica.  
-Chirurgia del sistema nervoso.  
-Chirurgia cardiovascolare.  
-Chirurgia sperimentale.  
-Traumatologia di guerra.  
-  
-Per l'ammissione agli anni successivi di corso gli iscritti dovranno aver superato l'esame del gruppo di materie del precedente anno escluse la clinica chirurgica e la patologia chirurgica per le quali gli iscritti dovranno sostenere un colloquio alla fine del secondo anno ed un esame alla fine del quinto anno.  
-  
-Scuola di perfezionamento in medicina interna  
-  
-Art. 80. - La scuola ha la durata di cinque anni: il numero degli studenti che possono essere iscritti e' limitato a quattro per ogni anno di corso.  
-Le materie d'insegnamento sono:  
-  
-1° anno:  
-Chimica clinica.  
-Microbiologia.  
-Radiologia.  
-Allergologia.  
-Semeiotica fisica e funzionale.  
-  
-2° anno:  
-Malattie infettive.  
-Parassitologia medica.  
-Neuropatologia e sistema nervoso vegetativo.  
-Anatomia patologica.  
-  
-3° anno:  
-Ematologia.  
-Cardiologia e reumatologia.  
-Malattia dell'apparato polmonare.  
-Tisiologia.  
-  
-4° anno:  
-Malattie dell'apparato urinario.  
-Malattie dell'apparato digerente e del fegato.  
-Malattie del ricambio.  
-Endocrinologia.  
-  
-5° anno:  
-Terapia generale e speciale.  
-Idroclimatologia Fisioterapia.  
-Dietetica.  
-  
-Per l'ammissione agli anni successivi di corsi gli iscritti dovranno aver superato l'esame del gruppo di materie del precedente anno.  
-  
-Scuola di perfezionamento in igiene  
-  
-Art. 81. - La scuola ha la durata di due anni: il numero degli studenti che possono essere iscritti e' limitato a dieci per ogni anno di corso.  
-Le materie d'insegnamento sono:  
-  
-1° anno:  
-Istituzione di matematica, statistica e demografia.  
-Chimica applicata all'igiene.  
-Geologia applicata all'igiene.  
-Microscopia applicata all'igiene.  
-Microbiologia e immunologia.  
-Igiene generale e speciale.  
-Clinica delle malattie infettive.  
-Parassitologia.  
-  
-2° anno:  
-Igiene generale e speciale (2°).  
-ingegneria sanitaria.  
-Ispezione degli alimenti.  
-Legislazione sanitaria.  
-Anatomia ed istologia patologica.  
-Fisiopatologia dello sviluppo e patologia dell'infanzia e della adolescenza.  
-  
-Per l'ammissione al secondo anno di corso gli iscritti dovranno aver superato l'esame del gruppo di materie del primo anno.  
+Nell'art. 32, relativo al corso di laurea in lettere della facolta' di lettere e filosofia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+storia della civilta' minoico-micenea;  
+storia dell'economia antica;  
+storia del Mediterraneo orientale antico;  
+storia delle religioni del mondo classico;  
+grammatica latina;  
+grammatica greca;  
+storia degli insediamenti tardo-antichi e medievali;  
+agiografia;  
+storia agraria medievale;  
+istituzioni medievali;  
+storia economica contemporanea;  
+storia dell'agricoltura e del movimento contadino;  
+storia del movimento operaio e sindacale;  
+filologia e critica dantesca;  
+didattica dell'italiano;  
+sociologia della letteratura;  
+storia della musica medievale e rinascimentale;  
+storia del melodramma;  
+storia della poesia per musica;  
+storia della musica moderna;  
+legislazione per i beni culturali;  
+archeologia medievale.  
+Nell'art. 33, relativo al corso di laurea in filosofia della facolta' di lettere e filosofia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+antropologia filosofica;  
+storia della logica;  
+filosofia della politica;  
+storia delle dottrine morali;  
+storia dell'estetica;  
+estetica musicale;  
+psicologia dell'eta' evolutiva;  
+storia della psicologia;  
+didattica della filosofia;  
+storia delle dottrine sociali;  
+psicopedagogia.  
+Nell'art. 35, relativo al corso di laurea in lingue e letterature straniere moderne (indirizzo europeo) della facolta' di lettere e filosofia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+lingua francese;  
+lingua inglese;  
+lingua tedesca;  
+lingua e letteratura nederlandese.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Dogliani, addi' 26 ottobre 1954
+### Dato a Roma, addi' 10 gennaio 1985
 
-EINAUDI ERMINI
+PERTINI
 
-Visto, il Guardasigilli: DE PIETRO
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 29 dicembre 1954
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Atti del Governo, registro n. 87, foglio n. 104. - CARLOMAGNO
+Registrato alla Corte dei conti, addi' 20 maggio 1985
+
+Registro n. 33 Istruzione, foglio n. 72

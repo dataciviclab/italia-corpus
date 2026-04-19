@@ -1,42 +1,105 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 marzo 1973 n. 185
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1969 n. 782
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 marzo 1973 n. 185
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1969 n. 782
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 settembre 1936, n. 772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-09-30;772), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Dopo l'art. 155 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di perfezionamento in singole materie annesso alla facolta' di magistero.
+
+Corso di perfezionamento in singole materie
+
+Art. 156. - Presso la facolta' di magistero dell'Universita' degli studi di Parma e' istituito un corso di perfezionamento di materie singole. La durata del corso e' biennale.
+
+Possono iscriversi al corso gli aspiranti in possesso di un titolo di laurea che dal consiglio di facolta' sia giudicato idoneo in relazione alla materia prescelta per la specializzazione. Oltre che alla materia prescelta i candidati dovranno iscriversi, per la frequenza e per l'esame, a tre materie di loro scelta affini alla materia prescelta per la specializzazione.
+
+Art. 157. - Il diploma di perfezionamento verra' rilasciato dopo che il candidato abbia discusso una dissertazione attinente alla materia di specializzazione, dinnanzi ad una commissione di sette membri, dei quali almeno tre professori di ruolo. A tale prova saranno ammessi i candidati che abbiano in precedenza superato gli esami di cui all'art. 156.
+
+Art. 158. - Le tasse di immatricolazione e di iscrizione e i vari contributi saranno ridotti alla meta' di quanto previsto per la frequenza al corso di laurea. Saranno dispensati per intero dalle tasse e dai contributi i candidati che abbiano conseguito la laurea con votazione non inferiore a 110 su centodieci o che siano assegnatari di borse di studio o di perfezionamento.
+
+Art. 159. - Nel diploma verra' indicata la materia prescelta per il perfezionamento.
+
+Per quanto non previsto negli articoli precedenti, si applicheranno le disposizioni generali vigenti.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 13 ottobre 1969
+
+SARAGAT
+
+FERRARI AGGRADI
+
+Visto, il Guardasigilli: GAVA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 6 novembre 1969 Atti del Governo, registro n. 230, foglio n. 13. - CARUSO
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1983, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1983-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 settembre 1936, n. 772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-09-30;772), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-L'art. 241 relativo alla scuola di specializzazione in gerontologia e geriatria e' modificato nel senso che il numero degli iscritti e' stabilito in novanta per i tre anni di corso (30 iscritti per ogni anno).   
+Dopo l'art. 155 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di perfezionamento in singole materie annesso alla facolta' di magistero.  
+  
+Corso di perfezionamento in singole materie  
+  
+Art. 156. - Presso la facolta' di magistero dell'Universita' degli studi di Parma e' istituito un corso di perfezionamento di materie singole. La durata del corso e' biennale.  
+Possono iscriversi al corso gli aspiranti in possesso di un titolo di laurea che dal consiglio di facolta' sia giudicato idoneo in relazione alla materia prescelta per la specializzazione. Oltre che alla materia prescelta i candidati dovranno iscriversi, per la frequenza e per l'esame, a tre materie di loro scelta affini alla materia prescelta per la specializzazione.  
+Art. 157. - Il diploma di perfezionamento verra' rilasciato dopo che il candidato abbia discusso una dissertazione attinente alla materia di specializzazione, dinnanzi ad una commissione di sette membri, dei quali almeno tre professori di ruolo. A tale prova saranno ammessi i candidati che abbiano in precedenza superato gli esami di cui all'art. 156.  
+Art. 158. - Le tasse di immatricolazione e di iscrizione e i vari contributi saranno ridotti alla meta' di quanto previsto per la frequenza al corso di laurea. Saranno dispensati per intero dalle tasse e dai contributi i candidati che abbiano conseguito la laurea con votazione non inferiore a 110 su centodieci o che siano assegnatari di borse di studio o di perfezionamento.  
+Art. 159. - Nel diploma verra' indicata la materia prescelta per il perfezionamento.  
+Per quanto non previsto negli articoli precedenti, si applicheranno le disposizioni generali vigenti.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 marzo 1973
+### Dato a Roma, addi' 13 ottobre 1969
 
-LEONE SCALFARO
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 2 maggio 1973
+Registrato alla Corte dei conti, addi' 6 novembre 1969
 
-Atti di Governo, registro n. 258, foglio n. 2. - VALENTINI
+Atti del Governo, registro n. 230, foglio n. 13. - CARUSO

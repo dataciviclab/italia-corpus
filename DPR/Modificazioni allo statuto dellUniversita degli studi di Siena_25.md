@@ -1,158 +1,137 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 agosto 1971 n. 904
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 luglio 1967 n. 915
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 agosto 1971 n. 904
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 luglio 1967 n. 915
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo Statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che dopo l'art. 110 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in malattie infettive.
-
-Scuola di specializzazione in malattie infettive
-
-Art. 111. - La durata del corso di studi e' di tre anni. Potra' esservi ammesso un numero di sedici allievi complessivamente.
-
-Direttore della scuola e' il titolare della cattedra di malattie infettive.
-
-Alla scuola possono iscriversi solo i laureati in medicina e chirurgia. Le norme di iscrizione, esami, pagamento tasse, ecc. sono quelle riferite negli articoli dello statuto dell'Universita' degli studi di Siena.
-
-Art. 112. - Le materie di insegnamento sono:
-
-1° Anno:
-
-1) Epidemiologia generale delle malattie infettive;
-
-2) Nozioni generali di batteriologia, di virologia, di parassitologia, di immunologia;
-
-3) Tecnica batteriologica, virologica, parassitologica, immunologica applicata alle malattie infettive (1° anno).
-
-2° Anno:
-
-1) Patologia e clinica delle malattie infettive (1° anno);
-
-2) Semeiotica e diagnostica delle malattie infettive;
-
-3) Anatomia patologica delle malattie infettive;
-
-4) Tecnica batteriologica, virologica, parassitologica, immunologica (2° anno).
-
-3° Anno:
-
-1) Patologia e clinica delle malattie infettive (2° anno);
-
-2) Malattie infettive dei Paesi caldi;
-
-3) Farmacologia e terapia generale delle malattie infettive;
-
-4) Legislazione sanitaria e malattie infettive.
-
-Un regolamento interno regola i doveri degli specializzandi e l'orario delle lezioni ed esercitazioni nonche' la frequenza nei reparti di degenza e nei laboratori.
-
-Al termine di ciascun anno di corso gli allievi sono tenuti a sostenere i seguenti esami:
-
-1° anno: un esame sulle discipline numeri 1) e 2);
-
-2° anno: un esame sulle discipline numeri 2), 3) e 4);
-
-3° anno: un esame sulle discipline numeri 1), 2), 3) e 4).
-
-Esame di diploma.
-
-Agli allievi i quali abbiano ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specializzazione in malattie infettive.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 28 agosto 1971
-
-SARAGAT
-
-MISASI
-
-Visto, il Guardasigilli: COLOMBO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 6 novembre 1971 Atti del Governo, registro n. 245, foglio n. 12. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831), e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo Statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che dopo l'art. 110 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in malattie infettive.  
+Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Il primo comma dell'art. 29 relativo alla Facolta' di Scienze matematiche, fisiche e naturali e' abrogato e sostituito dal seguente:  
+"La Facolta' conferisce:  
+1) la laurea in Scienze naturali;  
+2) la laurea in Scienze biologiche;  
+3) la laurea in Scienze geologiche.  
+La durata del corso degli studi, sia per la laurea in Scienze naturali, sia per la laurea in Scienze biologiche, sia per la laurea in Scienze geologiche e' di quattro anni".  
+Nello stesso articolo, dopo l'elenco degli insegnamenti fondamentali e complementari, relativo al corso di laurea in Scienze biologiche e' aggiunto quanto segue:  
+"Per la laurea in Scienze geologiche sono insegnamenti fondamentali:  
+1. Istituzioni di matematiche;  
+2. Fisica sperimentale (biennale);  
+3. Chimica generale ed inorganica con elementi di  
+organica;  
+4. Geografia;  
+5. Topografia e Cartografia;  
+6. Mineralogia;  
+7. Paleontologia;  
+8. Geografia fisica;  
+9. Petrografia;  
+10. Geologia;  
+11. Fisica terrestre;  
+12. Geologia applicata;  
+Sono insegnamenti complementari:  
+1. Analisi matematica (biennale);  
+2. Analisi mineralogica;  
+3. Antropologia;  
+4. Botanica;  
+5. Chimica fisica;  
+6. Chimica organica;  
+7. Cristallochimica;  
+8. Elementi di coltivazioni minerarie;  
+9. Fisica dei solidi;  
+10. Fotogeologia;  
+11. Geochimica;  
+12. Geofisica applicata;  
+13. Geofisica mineraria;  
+14. Geologia degli idrocarburi;  
+15. Geologia nucleare;  
+16. Geologia regionale;  
+17. Giacimenti minerari;  
+18. Geotecnica;  
+19. Idrogeologia;  
+20. Metodologie petrografiche;  
+21. Micropaleontologia;  
+22. Paleobotanica;  
+23. Pedologia;  
+24. Petrografia applicata;  
+25. Petrografia regionale;  
+26. Preparazione dei minerali;  
+27. Rilevamento geologico 28. Sedimentologia;  
+29. Statistica;  
+30. Tecnologie dei materiali litoidi;  
+31. Vulcanologia;  
+32. Zoologia.  
   
-Scuola di specializzazione in malattie infettive  
+Nello stesso articolo, dopo le norme relative alle propedeuticita' dei corsi e degli esami del corso di laurea in Scienze biologiche e' aggiunto quanto segue:  
   
-Art. 111. - La durata del corso di studi e' di tre anni. Potra' esservi ammesso un numero di sedici allievi complessivamente.  
-Direttore della scuola e' il titolare della cattedra di malattie infettive.  
-Alla scuola possono iscriversi solo i laureati in medicina e chirurgia. Le norme di iscrizione, esami, pagamento tasse, ecc. sono quelle riferite negli articoli dello statuto dell'Universita' degli studi di Siena.  
-Art. 112. - Le materie di insegnamento sono:  
-1° Anno:  
-1) Epidemiologia generale delle malattie infettive;  
-2) Nozioni generali di batteriologia, di virologia, di parassitologia, di immunologia;  
-3) Tecnica batteriologica, virologica, parassitologica, immunologica applicata alle malattie infettive (1° anno).  
-2° Anno:  
-1) Patologia e clinica delle malattie infettive (1° anno);  
-2) Semeiotica e diagnostica delle malattie infettive;  
-3) Anatomia patologica delle malattie infettive;  
-4) Tecnica batteriologica, virologica, parassitologica, immunologica (2° anno).  
-3° Anno:  
-1) Patologia e clinica delle malattie infettive (2° anno);  
-2) Malattie infettive dei Paesi caldi;  
-3) Farmacologia e terapia generale delle malattie infettive;  
-4) Legislazione sanitaria e malattie infettive.  
-Un regolamento interno regola i doveri degli specializzandi e l'orario delle lezioni ed esercitazioni nonche' la frequenza nei reparti di degenza e nei laboratori.  
-Al termine di ciascun anno di corso gli allievi sono tenuti a sostenere i seguenti esami:  
-1° anno: un esame sulle discipline numeri 1) e 2);  
-2° anno: un esame sulle discipline numeri 2), 3) e 4);  
-3° anno: un esame sulle discipline numeri 1), 2), 3) e 4).  
-Esame di diploma.  
-Agli allievi i quali abbiano ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specializzazione in malattie infettive.  
+Corso di laurea in Scienze geologiche  
+  
+Discipline Precedenze  
+  
+Fisica sperimentale Istituzioni di matematiche Mineralogia  
+Fisica sperimentale, Chimi- ca generale ed inorganica con elementi di organica Geografia fisica Geografia, Topografia e Cartografia  
+Discipline Precedenze  
+Petrografia Mineralogia  
+Geologia Petrografia, Paleontologia, Geografia fisica  
+Fisica terrestre Fisica sperimentale  
+Geologia applicata Geologia, Fisica terrestre Geochimica Mineralogia  
+Rilevamento geologico Geologia  
+Vulcanologia Petrografia  
+Geofisica applicata Fisica terrestre  
+Sedimentologia Petrografia  
+Giacimenti minerari Petrografia  
+Geologia degli idrocar- Geologia  
+buri  
+Analisi mineralogica Mineralogia  
+Chimica fisica Fisica sperimentale, Chimi- ca generale ed inorganica con elementi di organica Chimica organica Chimica generale ed inorga- nica con elementi di or- ganica  
+Geologica regionale Geologia  
+Idrogeologia Geologia applicata  
+  
+Petrografia applicata Petrografia  
+  
+Statistica Istituzioni di matematiche Pedologia Petrografia, Geografia fi- sica  
+Geologia nucleare Geologia  
+Geotecnica Geologia applicata  
+Petrografia regionale Petrografia  
+Tecnologie dei materiali Petrografia  
+litoidi  
+Elementi di coltivazioni Geologia applicata  
+minerarie  
+Fisica dei solidi Mineralogia  
+Cristallochimica Mineralogia  
+Preparazione dei minerali Petrografia  
+  
+Nello stesso articolo, il terzo comma dopo le norme relative alle propedeuticita' dei corsi e degli esami del corso di laurea in Scienze biologiche e' abrogato e sostituito dal seguente:  
+  
+L'internato puo' essere svolto in uno degli Istituti della Facolta' o in altri Istituti ad indirizzo naturalistico, biologico o geomineralogico, previa autorizzazione del Consiglio di Facolta'.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 agosto 1971
+### Dato a Roma, addi' 4 luglio 1967
 
-SARAGAT MISASI
+SARAGAT GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 6 novembre 1971
+Registrato alla Corte dei conti, addi' 11 ottobre 1967
 
-Atti del Governo, registro n. 245, foglio n. 12. - CARUSO
+Atti del Governo, registro n. 214, foglio n. 44. - GRECO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1986 n. 553
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1985 n. 742
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1986 n. 553
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1985 n. 742
+==============================================================
 
 Autorizzazione all'istituto nazionale per lo studio e la cura dei tumori, in Milano, ad accettare un legato.
 ------------------------------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione all'istituto nazionale per lo studio e la cura dei tumori, in Mil
 Art. 1
 ------
 
-n.
+N.
 
-553. Decreto del Presidente della Repubblica 8 luglio 1986, col quale, sulla proposta del Ministro della sanita', l'Istituto nazionale per lo studio e la cura dei tumori, in Milano, viene autorizzato ad accettare il legato, consistente in un appartamento sito in Milano, via Cicognara n. 3, del periziato valore di lire 158.000.000, disposto dalla signora Olga Marchi con testamento olografo 2 ottobre 1975, pubblicato in data 31 marzo 1983, n. 51745 di repertorio, a rogito dott. Antonino Di Giovanni, notaio in Massa Marittima (Grosseto), registrato a Massa Marittima in data 11 aprile 1983 al n. 293.  
+742. Decreto del Presidente della Repubblica 1 ottobre 1985, col quale, sulla proposta del Ministro della sanita', l'Istituto nazionale per lo studio e la cura dei tumori, in Milano, viene autorizzato ad accettare il legato, consistente nella somma di lire 28.000.000, depositata presso il Banco di Roma con sede in Milano, ag. 6, disposto dal sig. Angelo Rho con testamento olografo pubblicato in data 27 aprile 1982, n. 3862/2180 di repertorio, a rogito dottor Angelo Biasini, notaio in Lodi (Milano), registrato a Lodi in data 4 maggio 1982 al n. 1317.   
   
-Visto, il Guardasigilli: ROGNONI  
-Registrato alla Corte dei conti, addi' 10 settembre 1986  
-Registro n. 9 Sanita', foglio n. 97
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 23 novembre 1985   
+Registro n. 10 Sanita', foglio n. 80

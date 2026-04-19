@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1986 n. 297
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 445
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1986 n. 297
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 445
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 ------------------------------------------------------------------------------
@@ -22,9 +22,9 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
+Veduta la [legge 30 ottobre 1931, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-10-30;615);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615.
 
 Veduto il parere del Consiglio universitario nazionale;
 
@@ -35,46 +35,27 @@ Decreta:
 
 Lo statuto dell'Universita' "La Sapienza" di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 1
-------
+Articolo unico
+--------------
 
   
   
-Nell'art. 46, relativo al corso di laurea in economia e commercio, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:   
-diritto costituzionale;   
-diritto agrario;   
-costi e ricavi bancari.   
-
-Art. 2
-------
-
-  
-Nell'art. 92, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-chirurgia plastica ricostruttiva;  
-psicologia clinica.  
-
-Art. 3
-------
-
-  
-Nell'art. 104, relativo al corso di laurea in chimica, all'elenco degli insegnamenti complementari e' aggiunto l'insegnamento di "cinetica chimica".  
-Nell'art. 105, relativo al corso di laurea in chimica industriale, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-cinetica chimica;  
-esercitazioni di chimica organica e analisi organica.  
-Nell'art. 115, relativo al corso di laurea in scienze naturali, all'elenco degli insegnamenti complementari e' aggiunto l'insegnamento di "complementi di mineralogia e petrografia".  
+Art. 69 - nell'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono inseriti i seguenti insegnamenti: storia delle tecniche artistiche;   
+storia del disegno, dell'incisione e della grafica.   
+Art. 82 - nell'elenco degli insegnamenti complementari del corso di laurea in sociologia sono inseriti gli insegnamenti di "sociologia dell'amministrazione" e "analisi delle classi e dei gruppi sociali".   
+Nell'elenco degli insegnamenti complementari del corso di laurea in psicologia e' inserito il seguente insegnamento:   
+psicologia dell'apprendimento.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 febbraio 1986
+### Dato a Roma, addi' 21 maggio 1983
 
-COSSIGA
+PERTINI FALCUCCI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DARIDA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 17 agosto 1983
 
-Registrato alla Corte dei conti, addi' 10 giugno 1986
-
-Registro n. 45 Istruzione, foglio n. 365
+Registro n. 59 Istruzione, foglio n. 94

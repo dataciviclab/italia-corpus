@@ -1,121 +1,111 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 aprile 1960 n. 1769
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 939
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 aprile 1960 n. 1769
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 939
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successivi;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso: Gli articoli 1-15 sono abrogati e sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-1) Facolta' di Giurisprudenza;   
-2) Facolta' di Scienze politiche;   
-3) Facolta' di Scienze statistiche, demografiche ed attuariali;  
-4) Facolta' di Economia e commercio;   
-5) Facolta' di Lettere e filosofia;   
-6) Facolta' di Magistero;   
-7) Facolta' di Medicina e chirurgia;   
-8) Facolta' di Scienze matematiche, fisiche e naturali;   
-9) Facolta' di Farmacia;   
-10) Facolta' di Ingegneria;   
-11) Facolta' di Architettura;   
-12) Scuola di Ingegneria aeronautica;   
-13) Scuola speciale per Archivisti e Bibliotecari.   
-Art. 2. - Nelle Facolta' e nelle Scuole di cui all'articolo precedente sono costituiti gli istituti scientifici secondo il criterio dell'affinita' degli insegnamenti e secondo le possibilita' di locali e di personale. Sono degli istituti di addestrare e perfezionare studenti e studiosi nelle discipline a cui gli istituti stessi si riferiscono e di contribuire al progresso di dette discipline con ricerche e pubblicazioni e con altre iniziative che vengano giudicate opportune dai rispettivi direttori.   
-Gli istituti possono suddividersi in laboratori (per le scienze sperimentali) e sezioni (per le altre discipline).   
-Tale suddivisione proposta dai Consigli di Facolta' o Scuole deve essere approvata dal Consiglio di amministrazione, udito il Senato accademico.   
-Gli istituti possono essere ordinati a seminari ai sensi e per gli effetti dell'art. 23 del regolamento generale universitario.   
-Art. 3. - Ogni Istituto, comprendente piu' insegnamenti, ovvero costituito da piu' laboratori o sezioni, ha una parte di mezzi (locali, arredamento, personale, dotazione, ecc.) da servire in comune e un'altra parte dal servire per i vari insegnamenti, laboratori o sezioni secondo la loro necessita'.   
-Art. 4. - Quando l'Istituto comprende un solo insegnamento, il direttore dell'Istituto medesimo e' di diritto il professore di ruolo o incaricato della materia.   
-Quando l'Istituto comprende piu' insegnamenti, se di esso fanno parte uno o piu' professori di ruolo, viene nominato direttore uno dei professori medesimi, se fanno parte soltanto professori incaricati, potra' anche essere nominato direttore o il Preside o altro professore di ruolo della Facolta' o Scuola.   
-I direttori degli istituiti di cui al comma precedente vengono nominati dal Rettore su designazione del Consiglio della Facolta' o Scuola per un triennio accademico, se professori di ruolo, annualmente se professori incaricati, e possono essere confermati.   
-I professori di ruolo che fanno parte dell'Istituto ne costituiscono il Comitato che e' presieduto dal direttore.   
-Alle adunanze del Comitato intervengono con voto consultivo anche i professori incaricati che fanno parte dell'istituto.   
-Art. 5. - Nel caso previsto dal comma secondo dell'articolo precedente il Comitato delibera in merito alla distribuzione dei mezzi di cui all'art. 3.   
-In caso di controversie decide inappellabilmente il Rettore, sentito il Preside di Facolta' o Scuola.   
-Art. 6. - Il Comitato dell'istituto redige un verbale delle deliberazioni che sottopone al visto del Rettore a fine di anno accademico e ogni volta che il Rettore stesso lo richieda.   
-Art. 7. - Disposizioni analoghe, su proposta dei Consigli di Facolta' o Scuola, possono eventualmente essere applicate anche a gruppi di insegnamenti fra loro non affini, in seguito a speciale deliberazione del Consiglio di amministrazione, udito il Senato accademico.   
-Art. 8. - I corsi delle lezioni, oltreche' per trattazione cattedratica, possono essere svolti con conferenze ed esercitazioni per l'addestramento dei giovani alla ricerca scientifica.   
-Allo svolgimento di ogni corso debbono essere dedicate non meno di tre ore settimanali in tre giorni distinti. I professori hanno l'obbligo di far lezione, secondo l'orario, in tutti i giorni fissati dal calendario scolastico, a meno che non sia stabilito diversamente da speciali norme legislative.   
-Art. 9. - Ciascun professore, sia di ruolo, sia incaricato, deve tenere per ogni corso un registro nel quale nota, di volta in volta, l'argomento svolto o la esercitazione tenuta, apponendovi la firma.   
-Questo registro e' ostensibile ad ogni richiesta del Preside e del Rettore e viene consegnato alla segreteria dell'Universita' alla chiusura dei corsi dopo essere stato munito del visto del Preside della Facolta' o Scuola.   
-Art. 10. - I professori di ruolo e incaricati hanno l'obbligo di presentare, entro il 30 giugno, ai Presidi delle rispettive Facolta' o Scuole, i programmi dei corsi che si propongono di svolgere nell'anno accademico successivo, e i Consigli delle Facolta' o Scuole devono, entro il 31 luglio, esaminarli e coordinarli, ai sensi dell'art. 16 del testo unico delle leggi sull'istruzione superiore, specialmente determinando quali corsi devono avere carattere istituzionale o monografico.   
-I termini di cui al comma precedente sono prorogati, quando si tratta di professori di ruolo trasferiti o di nuova nomina, fino alla data di trasferimento o di nuova nomina.   
-Art. 11. - I liberi docenti, che intendono impartire l'insegnamento, hanno l'obbligo di presentare, entro il 30 aprile, ai Presidi delle rispettive Facolta' o Scuole, i programmi dei corsi che si propongono di svolgere nell'anno accademico successivo.   
-I Consigli delle Facolta' o Scuole devono, entro il 31 luglio, esaminarli e coordinarli fra loro e con i corsi ufficiali, ai sensi dell'art. 16 del testo unico delle leggi sull'istruzione superiore specialmente determinando quali corsi devono avere carattere istituzionale o monografico, e dichiarando inoltre, quali corsi si devono ritenere pareggiati a tutti gli effetti di legge.   
-I termini di cui ai commi precedenti, sono prorogati, quando si tratti di liberi docenti che per la prima volta intendano svolgere un corso nell'Universita' di Roma, rispettivamente al 1 e al 31 ottobre.   
-Art. 12. - Nel pronunciarsi sul programma presentato dal libero docente per un corso a titolo privato, il Consiglio della Facolta' o Scuola, oltre ad accertare se il programma presentato risponda come contenuto e ampiezza alle necessita' didattiche, deve verificare, ove trattisi di materie sperimentali e dimostrative, se il libero docente disponga del necessario materiale scientifico e didattico.   
-Conto giudizio del Consiglio di Facolta' o Scuola i liberi docenti possono presentare ricorso al Rettore che giudica inappellabilmente su conforme parere del Senato accademico.   
-I corsi pareggiati debbono avere uno sviluppo di lezioni ed una ampiezza di argomenti corrispondenti a quelli ufficiali.   
-I liberi docenti che svolgono corsi non pareggiati debbono tenere almeno 20 lezioni.   
-Art. 13. - Ciascun libero docente deve tenere per ogni corso un registro nel quale nota, di volta in volta, l'argomento svolto o la esercitazione tenuta, apponendovi la firma.   
-Questo registro e' ostensibile ad ogni richiesta del Preside o del Rettore e viene consegnato alla segreteria dell'Universita' alla chiusura dei corsi, dopo essere stato munito del visto del direttore dell'Istituto ove e' stato tenuto il corso, e di quello del Preside della Facolta' o Scuola.   
-Art. 14. - I professori ufficiali e i liberi docenti si accertano della frequenza, della diligenza e del profitto degli studenti nel modo che credono piu' opportuno.   
-La frequenza ai corsi e' comprovata dalla attestazione dei professori sul libretto d'iscrizione.   
-Gli studenti per i quali manchi tale attestazione, non sono ammessi all'esame di profitto per la materia corrispondente.   
-Art. 15. - Gli esami di profitto si svolgono per singole materie.  
-Salvo che non sia disposto diversamente nei titoli riguardanti ciascuna Facolta' o Scuola, gli insegnamenti di durata pluriennale importano un unico esame al termine del corso.   
-Art. 16. - Le disposizioni per lo svolgimento dello esame di laurea o di diploma sono stabilite nei titoli riguardanti ciascuna Facolta' o Scuola. Il numero delle copie della dissertazione e in generale le formalita' da seguire per l'ammissione all'esame di laurea o di diploma, vengono stabiliti dal Rettore per ogni Facolta' o Scuola, udito il Preside.   
-Art. 17. - Il Senato accademico puo' dichiarare non valido, agli effetti delle iscrizioni, il corso che, a cagione della condotta degli studenti, abbia dovuto subire una prolungata interruzione.   
-Dopo l'art. 159 sono inseriti i seguenti nuovi articoli, con il conseguente spostamento della numerazione degli articoli successivi.   
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni, date dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-TITOLO XV   
-SCUOLE E CORSI DI PERFEZIONAMENTO E DI SPECIALIZZAZIONE   
-ANNESSI ALLE FACOLTA'   
-TITOLO I. - Disposizioni generali   
+Decreta:   
   
-Art. 160. - Il direttore della Scuola o del corso di perfezionamento o di specializzazione, e' il professore di ruolo, titolare della materia che forma oggetto del perfezionamento o della specializzazione.   
-Quando la cattedra non sia coperta da un professore di ruolo e quando la Scuola o il corso non si intitoli ad un insegnamento del corso di studi, il direttore viene nominato per un triennio accademico dal Rettore, su designazione del competente Consiglio di Facolta' e puo' essere confermato.   
-Il direttore della Scuola o del corso, su conforme parere del Consiglio di Facolta', puo' proporre che un insegnante della Scuola o del corso assuma le funzioni di vice-direttore con l'incarico di coadiuvarlo o di sostituirlo e alla nomina provvede il Rettore.   
-Gli insegnanti di ciascuna Scuola o di ciascun corso sono proposti annualmente dal direttore, che puo' sceglierli fra i professori di ruolo e fuori ruolo, fra i liberi docenti, fra gli aiuti e gli assistenti o anche fra persone di riconosciuta competenza nelle rispettive specialita'. Tali proposte sono subordinate all'approvazione del Consiglio di Facolta' e alle nomine provvede il Rettore.   
-Il Consiglio di ciascuna Scuola o di ciascun corso si compone di tutti i professori che vi insegnano ed e' presieduto dal direttore.   
-Le disposizioni di cui al presente articolo si applicano per tutte le Scuole ed i corsi salvo che non sia stabilito diversamente negli ordinamenti delle singole Scuole e dei singoli corsi.   
-Art. 161. - Alle Scuole e ai corsi di perfezionamento e di specializzazione vengono ammessi soltanto i laureati nelle rispettive Facolta' salvo che non sia, disposto diversamente negli ordinamenti delle singole Scuole o dei singoli corsi.   
-Art. 162. - Non e' consentita la contemporanea iscrizione a, piu' di una Scuola o a piu' di un corso ne' ad una. Scuola e ad un corso salvo quanto e' disposto dall'art. 393 dello statuto.   
-Art. 163. - Le Commissioni per gli esami di profitto e per i colloqui saranno nominate dal direttore della Scuola o del corso e saranno costituite da tre membri per gli esami singoli, da un numero eventualmente maggiore per gli esami a gruppo.   
-Un membro di ciascuna Commissione potra' essere scelto al di fuori degli insegnanti di ciascuna Scuola o di ciascun corso.   
-L'esame di diploma verra' sostenuto davanti ad una Commissione di sette membri, nominata dal Rettore, su proposta del direttore della Scuola e composta, in totalita' od in maggioranza, da insegnanti della Scuola stessa.   
-Art. 164. - Per gli iscritti alla Scuola e ai corsi valgono, in quanto applicabili, le disposizioni regolamentari vigenti per gli studenti dei corsi di laurea.   
-Art. 165. - Salvo che non sia disposto diversamente negli ordinamenti delle singole Scuole o dei singoli corsi, gli iscritti alle Scuole e ai corsi sono tenuti a pagare le medesime tasse, soprattasse e contributi generali nella misura stabilita dalle vigenti disposizioni di legge per gli studenti delle Facolta'.   
-La misura dei contributi per le esercitazioni di laboratorio e per le altre prestazioni, di cui gli iscritti usufruiscono durante il corso degli studi, e' fissata dal Consiglio di amministrazione su proposta del Senato accademico, uditi i competenti Consigli di Facolta', Scuola o corso.   
-Art. 166. - Agli iscritti possono essere conferiti su proposta del Consiglio della Scuola o corso borse di studio o premi. Il medesimo Consiglio determina il numero e la misura delle borse di studio o dei premi, in relazione alle disponibilita' finanziarie, nonche' le modalita' di conferimento.   
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+  
+Dopo l'art. 711 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione della seconda scuola di specializzazione in microbiologia.   
+Scuola di specializzazione in microbiologia (2ª scuola)   
+Art. 712. - La scuola di specializzazione in microbiologia ha lo scopo di allargare e completare sul piano scientifico la cultura di coloro che si dedicano allo studio di questa disciplina e di fornire sul piano tecnico una preparazione pratica specifica.   
+Art. 713. - Possono essere ammessi i laureati in medicina e chirurgia, medicina veterinaria, scienze biologiche, scienze naturali e farmacia.   
+Art. 714. - Il corso ha la durata di tre anni ed ha luogo presso l'istituto di microbiologia.   
+Art. 715. - Il numero massimo degli iscritti e' stabilito in venti specializzandi per ogni anno di corso. Nel caso di domande eccedenti, la selezione verra' effettuata mediante concorso con norme che verranno precisate nel manifesto annuale. Qualora un aspirante, sufficientemente fornito di titoli attinenti alle materie della scuola, chieda abbreviazione di corso, dovra' presentare motivata istanza.   
+Art. 716. - La direzione della scuola viene assunta dia un professore di ruolo.   
+Il direttore della scuola puo' nominare un vice direttore che lo coadiuvi e lo supplisca ed un segretario.   
+Art. 717. - L'ordine degli studi (distribuzione degli insegnamenti nei diversi anni di corso) e l'ordine e le modalita' degli esami verranno stabiliti nel manifesto annuale.   
+Art. 718. Gli insegnamenti impartiti dalla scuola sono:   
+1) Chimica microbiologica;   
+2) Batteriologia generale e tecnica batteriologica;   
+3) Analisi statistica del dosaggio biologico;   
+4) Immunologia;   
+5) Batteriologia speciale;   
+6) Virologia generale e tecnica virologica;   
+7) Micologia;   
+8) Protozoologia;   
+9) Genetica dei microrganismi;   
+10) Virologia speciale;   
+11) Microbiologia degli alimenti;   
+12) Microbiologia industriale;   
+13) Metodi e dosaggi microbiologici.   
+Art. 719. - Il direttore puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari di conferenze e seminari su materie e argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola.   
+Art. 720. - L'esame di diploma constera' di una discussione sopra una tesi scritta o di una prova pratica. I candidati non riconosciuti idonei, potranno presentarsi dopo un altro anno di frequenza alla scuola. Ma se al secondo esame non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove. A coloro che abbiano superato l'esame di diploma verra' rilasciato un diploma di specialista in microbiologia.   
+Dopo l'art. 754 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della seconda scuola speciale per terapisti della riabilitazione.   
+Scuola speciale per terapisti della riabilitazione (2ª scuola)   
+Art. 755. - La 2ª scuola speciale per terapisti della riabilitazione ha sede presso la 2ª clinica delle malattie nervose e mentali. Essa ha lo scopo di dare una preparazione completa, teorica e pratica, agli allievi, istruendoli sui problemi della riabilitazione dei minorati fisici e psichici con particolare riguardo ai minorati per lesioni organiche del sistema nervoso e di quelli affetti da disturbi organici del linguaggio, suscettibili di recupero funzionale e sociale mediante terapie fisiche, chinesiterapiche, occupazionali e del linguaggio.   
+Art. 756. - La durata del corso degli studi per il conseguimento del diploma di terapista della riabilitazione e' di tre anni accademici: i primi due consistenti in lezioni teoriche e pratiche su materie propedeutiche e tecniche presso la 2ª clinica delle malattie nervose e mentali, il terzo di tirocinio pratico presso il centro di riabilitazione della clinica stessa o presso centri di riabilitazione riconosciuti idonei a tale scopo dalla scuola.   
+Gli allievi hanno l'obbligo di frequenza alle lezioni ed ai tirocini.   
+Art. 757. - Possono essere ammessi alla scuola gli allievi di ambo i sessi di eta' non inferiore ai 17 anni (l'eta' di 17 anni puo' essere compiuta entro l'anno solare), in possesso del titolo di studio prescritto per l'ammissione alle universita' (preferibilmente del diploma di maturita' classica, del diploma di maturita' scientifica, del diploma di abilitazione magistrale).   
+Art. 758. - Numero massimo dei posti disponibili annualmente e' stabilito nella misura di 30. Chi aspira ad ottenere l'iscrizione al primo anno della scuola dovra' sostenere un esame di ammissione, consistente in una prova orale di cultura generale e in una intervista attitudinale.   
+Art. 759. - Il direttore della scuola e' di diritto il titolare della 2ª clinica delle malattie nervose e mentali dell'universita'.  
+Il direttore puo' farsi coadiuvare da un vice direttore nominato dal rettore su sua proposta.   
+Art. 760. - Le materie d'insegnamento del 1° anno sono:   
+1) Nozioni generali di anatomia, fisiologia;   
+2) Anatomia del sistema nervoso;   
+3) Fisiologia del sistema nervoso;   
+4) Anatomia e fisiologia dell'apparato motore;   
+5) Igiene e medicina sociale;   
+6) Nozioni fondamentali di psichiatria;   
+7) Psicologia e psicopatologia del minorato;   
+8) Chinesiologia e diagnostica dei disturbi del movimento;   
+9) Metodologia e fisioterapia;   
+10) Metodologia di terapia occupazionale;   
+11) Clinica della riabilitazione.   
+Le materie d'insegnamento del 2° anno sono:   
+1) Nozioni generali di patologia;   
+2) Fisiologia del sistema nervoso;   
+3) Patologia e clinica del sistema nervoso;   
+4) Patologia e clinica dell'apparato motore;   
+5) Anatomia, fisiologia, patologia degli organi della parola e dell'udito;   
+6) Neuropsichiatria infantile;   
+7) Paralisi cerebrali infantili;   
+8) Riabilitazione geriatrica;   
+9) Nozioni di reumatologia;   
+10) Elettroterapia ed altre terapie fisiche;   
+11) Chinesiologia e diagnostica dei disturbi del movimento;   
+12) Metodologia di fisioterapia;   
+13) Metodologia di terapia occupazionale;   
+14) Metodologia di terapia del linguaggio;   
+15) Servizio sociale e relazioni umane;   
+16) Clinica della riabilitazione.   
+Nel 2° anno viene dato particolare risalto alle dimostrazioni pratiche per tutte le materie di insegnamento.   
+I corsi regolari saranno integrati da conferenze su argomenti specifici, proiezioni, visite ad altri istituti.   
+Art. 761. - Per essere ammessi al 2° anno occorre aver superato gli esami di cui ai numeri 1), 2), 4), 7), 8), 9), 10) dell'articolo precedente ed aver completato la prima parte del tirocinio. Per essere ammessi al 3° anno gli allievi dovranno aver superato tutti gli esami del 1° anno e gli esami di cui ai numeri 1), 2), 3), 4), 5), 7), 11), 12), 13), 16) del 2° anno ed, aver completato la seconda parte del tirocinio.   
+Art. 762. - Per poter essere ammessi alla discussione della tesi di diploma gli allievi dovranno presentare all'universita' una dichiarazione del direttore della scuola attestante la frequenza del tirocinio del 3° anno.   
+L'esame per il conseguimento del diploma di terapista della riabilitazione consiste nella discussione di una tesi scritta su un tema preventivamente assegnato dal direttore della scuola.   
+L'esame di diploma dovra' essere superato non oltre sei anni dalla data di immatricolazione.   
+Art. 763. - Gli iscritti alla scuola sono tenuti a pagare le medesime tasse, soprattasse e contributi generali nella misura stabilita dalle vigenti disposizioni di legge per gli studenti della facolta'.   
+La misura dei contributi per le esercitazioni di laboratorio e per le altre prestazioni di cui gli iscritti usufruiscono durante il corso degli studi, e' fissata dal consiglio di amministrazione, su proposta del senato accademico.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 aprile 1960
+### Dato a Roma, addi' 31 ottobre 1972
 
-GRONCHI MEDICI
+LEONE SCALFARO
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 31 gennaio 1961
+Registrato alla Corte dei conti, addi' 17 gennaio 1973
 
-Atti del Governo, registro n. 133, foglio n. 125. - VILLA
+Atti di Governo, registro n. 255, foglio n. 40; - VALENTINI

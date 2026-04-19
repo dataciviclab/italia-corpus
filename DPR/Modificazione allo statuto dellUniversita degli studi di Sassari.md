@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 agosto 1986 n. 987
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1956 n. 311
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 agosto 1986 n. 987
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1956 n. 311
+===============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Sassari.
 -------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazione allo statuto dell'Universita' degli studi di Sassari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, numero 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084) e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1941-10-17;1217) e con [decreti del Presidente della Repubblica 28 aprile 1951, n. 769](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-28;769); [27 ottobre 1951, n. 1804](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1804); [1 marzo 1955, n. 331](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-03-01;331) e [20 settembre 1955, n. 899](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-20;899);
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,96 +20,68 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta, intese ad ottenere l'istituzione del corso di laurea in chimica e tecnologia farmaceutiche;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Considerato che e' tuttora in atto la sperimentazione organizzativa e didattica di cui agli [articoli 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art81) - [93 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art93);
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Considerato che le tabelle dell'ordinamento didattico universitario relative ai corsi di laurea sono in fase di riordinamento per effetto di apposite commissioni di studio, e che anzi alcune tabelle sono state gia' riordinate;
-
-Rilevata la necessita' di accogliere la richiesta dell'Universita' degli studi di Sassari di istituire il corso di laurea in chimica e tecnologia farmaceutiche, allo scopo di riequilibrare le iscrizioni presso l'omonimo corso di laurea dell'Universita' di Cagliari, al fine di assicurare una migliore formazione degli studenti;
-
-Rilevata, quindi, la necessita' di accogliere la richiesta stessa in deroga al termine triennale di cui all'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
 Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 15. - Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di:
 
+9) "Ordinamento giuridico della Regione sarda".
+
+Il presente decreto, munito del sigillo dello Stato, sara', inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 25 febbraio 1956
+
+GRONCHI
+
+ROSSI
+
+Visto, il Guardasigilli: MORO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 23 aprile 1956 Atti del Governo, registro n. 97, foglio n. 55. - CARLOMAGNO
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Dopo l'art. 77, con il conseguente scorrimento della numerazione degli articoli successivi, e' inserito il seguente articolo relativo all'ordinamento del corso di laurea in chimica e tecnologia farmaceutiche:  
-Art. 78. - La facolta' di farmacia conferisce la laurea in chimica e tecnologia farmaceutiche, dopo un corso di studi di cinque anni, divisi in un biennio ed in un triennio.  
-E' titolo di ammissione quello previsto dalle vigenti disposizioni di legge.  
-Insegnamenti fondamentali:  
-Biennio:  
-1) analisi chimico-farmaceutica I (analisi qualitativa);  
-\* 2) anatomia umana;  
-\* 3) botanica farmaceutica;  
-\* 4) chimica fisica;  
-5) chimica generale ed inorganica;  
-6) chimica organica I;  
-7) fisica;  
-8) fisiologia generale;  
-\* 9) istituzioni di matematiche;  
-10) microbiologia e igiene.  
-Triennio:  
-11) analisi chimico-farmaceutica II (analisi quantitativa);  
-12) analisi chimico-farmaceutica III (analisi dei medicamenti); \* 13) biochimica applicata;  
-\* 14) chimica biologica;  
-\* 15) chimica degli alimenti;  
-\* 16) chimica farmaceutica applicata;  
-\* 17) chimica farmaceutica e tossicologica I;  
-\* 18) chimica farmaceutica e tossicologica II;  
-\*\*19) chimica organica II;  
-\* 20) farmacologia e farmacognosia;  
-21) impianti dell'industria farmaceutica;  
-22) laboratorio di preparazione estrattiva e sintetica dei farmaci;  
-23) metodi fisici in chimica organica;  
-24) saggi e dosaggi farmacologici;  
-\* 25) tecnica e legislazione farmaceutica.  
-Insegnamenti complementari:  
-zoologia generale;  
-\* mineralogia;  
-chimica delle fermentazioni;  
-fisiologia vegetale;  
-scienza dell'alimentazione;  
-flora ed erboristeria della Sardegna;  
-farmacognosia;  
-chimica dei composti eterociclici;  
-fitofarmacia;  
-\* complementi di chimica tossicologica;  
-biologia generale;  
-patologia generale;  
-stechiometria;  
-chimica clinica;  
-chimica delle sostanze organiche naturali;  
-prodotti dietetici;  
-prodotti cosmetici;  
-chimica analitica.  
-Le materie segnate con un asterisco sono comuni alla laurea in farmacia; quelle con due asterischi sono comuni alla laurea in chimica.  
-Per ottenere l'iscrizione al terzo anno di corso lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per i due anni precedenti.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato tutti gli esami dei corsi fondamentali e almeno due esami a scelta fra i corsi complementari.  
-La prova di laurea comporta la discussione di una tesi sperimentale.  
-Per essere ammesso a sostenere l'esame di Stato per l'esercizio della professione di farmacista, il laureato in chimica e tecnologia farmaceutiche deve aver compiuto un semestre di pratica professionale preso una farmacia oppure un trimestre presso una industria farmaceutica ed un trimestre presso una farmacia. Il periodo di pratica professionale dovra' avere inizio dopo il conseguimento del titolo accademico.  
+Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, numero 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084) e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1941-10-17;1217) e con [decreti del Presidente della Repubblica 28 aprile 1951, n. 769](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-28;769); [27 ottobre 1951, n. 1804](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1804); [1 marzo 1955, n. 331](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-03-01;331) e [20 settembre 1955, n. 899](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-20;899);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 15. - Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di:  
+9) "Ordinamento giuridico della Regione sarda".  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara', inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 agosto 1986
+### Dato a Roma, addi' 25 febbraio 1956
 
-COSSIGA
+GRONCHI ROSSI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: MORO
 
-Visto, il Guardasigilli: ROGNONI Registrato alla Corte dei conti addi' 20 gennaio 1987
+Registrato alla Corte dei conti, addi' 23 aprile 1956
 
-Registro n. 2 Istruzione, foglio n. 66
+Atti del Governo, registro n. 97, foglio n. 55. - CARLOMAGNO

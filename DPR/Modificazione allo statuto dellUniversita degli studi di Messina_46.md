@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 gennaio 1984 n. 150
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 1014
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 gennaio 1984 n. 150
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 1014
+===============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
@@ -39,20 +39,22 @@ Articolo unico
 --------------
 
   
-Nell'art. 85, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-anatomia patologica pediatrica;  
-urologia andrologica.  
+Art. 13 - all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti insegnamenti:  
+dottrina dello Stato;  
+teoria generale dell'interpretazione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 gennaio 1984
+### Dato a Roma, addi' 11 ottobre 1984
 
-PERTINI FALCUCCI
+PERTINI
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 28 aprile 1984
+Registrato alla Corte dei conti, addi' 30 gennaio 1985
 
-Registro n. 25 Istruzione, foglio n. 226
+Registro n. 4 Istruzione, foglio n. 325

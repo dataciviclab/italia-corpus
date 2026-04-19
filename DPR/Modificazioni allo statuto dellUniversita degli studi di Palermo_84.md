@@ -1,115 +1,105 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 maggio 1958 n. 835
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 862
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 maggio 1958 n. 835
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 862
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successivi;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Veduta la [legge 12 febbraio 1957, n. 47](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-02-12;47);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 147 - all'elenco delle scuole di specializzazione e' aggiunta la scuola di specializzazione in chirurgia pediatrica.  
+
+Art. 2
+------
+
   
-Decreta:   
+Dopo l'art. 192, e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo alla istituzione della scuola di specializzazione in chirurgia pediatrica:  
   
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-Dopo l'art. 70, e con il conseguente spostamento della numerazione di quelli successivi, sono aggiunti i seguenti nuovi articoli, relativi all'ordinamento del corso di laurea in architettura.   
-Art. 71. - La Facolta' di architettura conferisce la laurea di "dottore in architettura".   
-Art. 72. - La durata del corso degli studi e' di cinque anni, divisi in due parti:   
-1) biennio di studi propedeutici;   
-2) triennio di applicazione.   
-Art. 73. - Possono essere ammessi al primo anno della Facolta' gli studenti forniti di diploma di maturita' classica, scientifica, artistica.   
-Possono essere ammessi al triennio di applicazione gli studenti che avranno superato gli esami di tutti gli insegnamenti fondamentali e di due complementari del biennio propedeutico.   
-Il Consiglio di facolta' determinera', volta per volta, l'anno al quale potranno essere ammessi gli studenti provenienti da altre Facolta' universitarie od Istituti superiori (purche' provvisti dei diplomi di cui al principio di questo articolo): determinera', anche, gli insegnamenti che dovranno seguire e gli esami da superare.   
-Art. 74. - Il piano degli studi della Facolta' e' il seguente:   
-  
-Biennio propedeutico (materie fondamentali):   
-  
-Analisi matematica e geometria analitica;   
-Geometria descrittiva ed elementi di proiettiva;   
-Chimica generale ed applicata;   
-Elementi costruttivi;   
-Disegno dal vero (biennale);   
-Storia dell'arte e storia e stili di architettura (biennale);   
-Applicazione di geometria descrittiva;   
-Fisica;   
-Mineralogia e geologia;   
-Elementi di architettura e rilievo dei monumenti (biennale).   
-  
-Biennio propedeutico (materie complementari):   
-  
-Letteratura artistica;   
-Plastica e modellistica;   
-Lingua inglese;   
-Lingua tedesca.   
-  
-Triennio di applicazione (materie fondamentali):   
-  
-Architettura degli interni, arredamento e decorazione (biennale);  
-Caratteri distributivi degli edifici;   
-Caratteri stilistici e costruttivi dei monumenti;   
-Composizione architettonica (biennale);   
-Elementi di composizione;   
-Estimo ed esercizio professionale;   
-Fisica tecnica;   
-Igiene edilizia;   
-Impianti tecnici;   
-Meccanica razionale e statica grafica;   
-Restauro dei monumenti;   
-Scienza delle costruzioni (biennale);   
-Tecnologia dei materiali e tecnica delle costruzioni;   
-Topografia e costruzioni stradali;   
-Urbanistica (biennale).   
-  
-Triennio di applicazione (materie complementari):   
-  
-Scenografia;   
-Materie giuridiche.   
-  
-Art. 75. - Gli insegnamenti sono svolti in forma di lezioni teoriche, seminari, esercitazioni pratiche, e sono integrati da visite e viaggi di istruzione.   
-Art. 76. - L'assiduita' alle lezioni, ai seminari, alle esercitazioni ed alle visite e' requisito indispensabile per ottenere, alla fine del corso, l'attestato di frequenza.   
-Art. 77. - Gli esami di profitto sono sostenuti per singole materie e per ciascun anno. Essi possono consistere in interrogazioni orali, in discussioni su elaborati compiuti durante l'anno accademico, in prove grafiche, pratiche, sperimentali.   
-Per essere ammessi agli esami di profitto gli allievi devono ottenere gli attestati di frequenza di cui all'articolo precedente.   
-Art. 78. - Le precedenze per gli esami fra gli insegnamenti della Facolta' sono cosi' stabilite:   
-Geometria descrittiva ed elementi di proiettiva prima di applicazioni di geometria descrittiva;   
-Disegno dal vero prima di elementi di architettura e rilievo;   
-Elementi costruttivi prima di storia dell'arte e storia e stili dell'architettura (prima parte);   
-Meccanica razionale e statica grafica, prima di scienza delle costruzioni (prima parte);   
-Scienza delle costruzioni (prima parte) prima di scienza delle costruzioni (seconda parte) e di composizione architettonica (prima parte);   
-Scienza delle costruzioni (seconda parte) prima di tecnologia dei materiali e questa prima della composizione architettonica (seconda parte);   
-Caratteri stilistici e costruttivi dei monumenti prima di restauro;   
-Igiene edilizia prima di impianti tecnici, caratteri distributivi degli edifici prima di elementi di composizione;   
-Elementi di composizione prima di composizione architettonica;   
-Composizione architettonica (prima parte) prima di urbanistica (prima parte);   
-Composizione architettonica (seconda parte) prima di urbanistica (seconda parte).   
-Art. 79. - Ogni allievo, per essere ammesso all'esame di laurea deve aver superato tutti gli esami delle materie fondamentali del triennio e due materie complementari.   
-Art. 80. - L'esame di laurea consiste nella presentazione e discussione di un progetto concreto corredato da una relazione illustrativa e da calcoli, assegnato a richiesta del laureando, da un docente o da una Commissione di docenti a scelta sotto la guida ed il controllo del docente e dei docenti.   
-La Commissione esaminatrice, durante l'esame di laurea, puo' proporre al candidato qualunque quesito concernente qualsiasi materia del corso quinquennale.   
+Scuola di specializzazione in chirurgia pediatrica  
+Art. 193. - La scuola di specializzazione in chirurgia pediatrica ha sede presso la clinica chirurgica pediatrica; la direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine ed e' retta secondo le norme del regolamento generale per le scuole di specializzazione della facolta' di medicina e chirurgia dell'Universita' di Palermo.  
+La scuola di specializzazione in chirurgia pediatrica conferisce il diploma di specialista in chirurgia pediatrica.  
+La durata del corso di studi per il conseguimento della specialita' in chirurgia pediatrica e' fissata in cinque anni.  
+Possono ottenere l'iscrizione alla scuola solo i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Non e' ammessa abbreviazione di corso.  
+Il numero massimo degli allievi e' di dodici iscritti per l'intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami.  
+Il corso si compone di insegnamenti fondamentali, oltre ad un periodo di frequenza obbligatoria di almeno sei mesi per ogni anno di corso.  
+Il periodo di frequenza obbligatoria puo' essere abbreviato per coloro che documentino di svolgere effettivo servizio presso i reparti di chirurgia pediatrica universitari od ospedalieri.  
+Le materie d'insegnamento sono le seguenti:  
+1° Anno:  
+embriologia e genetica delle malformazioni congenite;  
+anatomia patologica generale (biennale) I;  
+diagnostica radiologica e nucleare generale;  
+anestesiologia;  
+clinica pediatrica (biennale) I;  
+patologia e clinica chirurgica generale (biennale) 1.  
+2° Anno:  
+patologia e clinica chirurgica generale (biennale) Il;  
+rianimazione e terapia intensiva (biennale) I;  
+anatomia patologica generale (biennale) II;  
+diagnostica radiologica e nucleare delle malattie infantili;  
+clinica pediatrica (biennale) II.  
+3° Anno:  
+patologia e clinica chirurgica pediatrica (triennale) I;  
+endocrinologia pediatrica;  
+tecnica chirurgica generale;  
+rianimazione e terapia intensiva (biennale) II;  
+chirurgia neonatale.  
+4° Anno:  
+patologia e clinica chirurgica pediatrica (triennale) II;  
+neurochirurgia pediatrica;  
+tecnica chirurgica pediatrica;  
+ortopedia pediatrica;  
+chirurgia plastica e ricostruttiva pediatrica.  
+5° Anno:  
+patologia e clinica chirurgica pediatrica (triennale) III;  
+otorinolaringoiatria pediatrica;  
+cardiochirurgia pediatrica;  
+urologia pediatrica.  
+La frequenza alle lezioni e' obbligatoria.  
+Al termine di ciascun anno di corso gli specializzandi che abbiano ottenuto le firme di frequenza devono sostenere gli esami di profitto delle materie insegnate.  
+Per accedere ai corsi successivi e' obbligatorio il superamento di tutti gli esami del corso precedente.  
+Al termine del corso gli specializzandi devono presentare una dissertazione scritta su un argomento di chirurgia pediatrica e sostenere l'esame di diploma.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 maggio 1958
+### Dato a Roma, addi' 31 ottobre 1979
 
-GRONCHI MORO
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 19 agosto 1958
+Registrato alla Corte dei conti, addi' 20 marzo 1980
 
-Atti del Governo, registro n. 113, foglio n. 179. - DI PRETORO
+Registro n. 24 Istruzione, foglio n. 160

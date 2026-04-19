@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 novembre 1975 n. 971
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 marzo 1977 n. 361
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 novembre 1975 n. 971
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 marzo 1977 n. 361
+============================================================
 
 Autorizzazione all'Associazione italiana della croce rossa, in Roma, ad accettare un'eredita'.
 ----------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-971. Decreto del Presidente della Repubblica 29 novembre 1975 col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa, in Roma, viene autorizzata ad accettare, con beneficio di inventario, l'eredita' disposta dalla signora Maria D'Este con testamento olografo pubblicato a rogito dott. Mario Froglia, notaio in Trieste, in data 11 gennaio 1972, n. 75948 di repertorio, costituita principalmente da titoli per un valore di circa dodici milioni e da due fabbricati di superficie complessiva di mq 720, siti in Trieste, via Ghiberti, 5, e via Udine, 6, distinti rispettivamente alle partite tavolari 2132, cat. 321 e 1738, e 2080, cat. 1767 e 325, e alla partita 55910 del nuovo catasto edilizio urbano, foglio 7, map. 7342 e 7343, con l'onere per l'Associazione suddetta di costituire un fondo autonomo intangibile gestito a se' e sempre in Trieste separatamente dal resto del patrimonio del locale comitato C.R.I. da utilizzarsi per l'istituzione di una borsa di studio perpetua di L. 500.000 annue intitolata al fratello della testatrice e da assegnare, mediante concorso pubblico, a uno studente in medicina e chirurgia capace e bisognoso.  
+361. Decreto del Presidente della Repubblica 1 marzo 1977, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa, in Roma, viene autorizzata ad accettare, con beneficio d'inventario, la quota ereditaria disposta dalla sig.ra Indri Maria vedova Schiannini, con testamento olografo pubblicato per atto notaio Lombardi di Brescia 10 gennaio 1970, n. 42634 di repertorio, ed il cui ammontare e' di L. 4.600.000.  
   
 Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 10 aprile 1976  
-Atti di Governo, registro n. 4, foglio n. 95
+Registrato alla Corte dei conti, addi' 25 giugno 1977  
+Registro n. 4 Sanita', foglio n. 323

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 agosto 1955 n. 1010
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1948 n. 1518
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 agosto 1955 n. 1010
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1948 n. 1518
+=================================================================
 
 Autorizzazione all'Universita' di Milano ad accettare una donazione.
 --------------------------------------------------------------------
@@ -12,8 +12,7 @@ Art. 1
 
 N.
 
-1010. Decreto del Presidente della Repubblica 31 agosto 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Milano viene autorizzata ad accettare la donazione della somma di L. 3.000.000 nominali, disposta in suo favore dal sig. Candido Capello, allo scopo di costituire il fondo patrimoniale del "Centro di studi e ricerche sulla tubercolosi dott. Amilcare Capello", con sede presso detta Universita'.  
+1518. Decreto del Presidente della Repubblica 14 settembre 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Milano viene autorizzata ad accettare la donazione della somma di L. 60.000 nominali, in titoli di Stato Rendita 5%, disposta in suo favore, con atto pubblico in data 8 luglio 1944, dal dott. prof. Enrico Adami, in nome e in rappresentanza del Comitato per le onoranze al compianto prof. Adriano Valenti, per l'istituzione di un premio di studio da intitolarsi al nome del "prof. Adriano Valenti" medesimo, e da conferirsi, ogni due anni, alternativamente, ad uno studente di medicina, e chirurgia e ad uno di farmacia, cittadino italiano, iscritto per l'anno accademico in cui concorre, ad una Universita' d'Italia, che negli esami di farmacologia abbia riportato una votazione non inferiore a ventisette trentesimi e che sia di disagiata condizione economica.  
   
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 25 ottobre 1955  
-Atti del Governo, registro n. 93, foglio n. 84. - CARLOMAGNO
+Visto, il Guardasigilli: GRASSI  
+Registrato alla Corte dei conti, addi' 23 dicembre 1948

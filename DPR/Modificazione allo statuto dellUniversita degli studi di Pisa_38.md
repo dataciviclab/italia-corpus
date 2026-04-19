@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 1123
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1138
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 1123
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1138
+===============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -39,14 +39,15 @@ Articolo unico
 --------------
 
   
-Nell'art. 96, relativo al corso di laurea in scienze naturali, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-paletnologia.  
+  
+Nell'art. 78, relativo al corso di laurea in medicina e chirurgia, agli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:   
+istituzioni di anatomia ed istologia patologica.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 giugno 1983
+### Dato a Roma, addi' 28 ottobre 1983
 
 PERTINI FALCUCCI
 
@@ -54,4 +55,4 @@ Visto, il Guardasigilli: MARTINAZZOLI
 
 Registrato alla Corte dei conti, addi' 22 marzo 1984
 
-Registro n. 17 Istruzione, foglio n. 335
+Registro n. 17 Istruzione, foglio n. 322

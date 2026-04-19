@@ -1,105 +1,124 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 551
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1969 n. 1296
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 551
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1969 n. 1296
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Art. 89 - all'elenco degli insegnamenti complementari, per tutti gli indirizzi, del corso di laurea in fisica sono aggiunti i seguenti insegnamenti:  
-cosmologia;  
-didattica della fisica;  
-elettronica nucleare;  
-fisica sanitaria;  
-microelettronica;  
-ottica;  
-reti logiche e tecniche digitali.  
-Art. 91 - all'elenco degli insegnamenti complementari del corso di laurea in scienze dell'informazione sono aggiunti i seguenti insegnamenti:  
-cibernetica;  
-teoria dell'informazione.  
-Art. 92 - all'elenco degli insegnamenti complementari del corso di laurea in chimica sono aggiunti i seguenti insegnamenti:  
-Indirizzo inorganico-chimico-fisico:  
-chimica dell'ambiente;  
-analisi degli inquinanti;  
-meccanismi di reazione in chimica inorganica;  
-termodinamica dei processi irreversibili;  
-chimica organica fisica.  
-Indirizzo organico biologico:  
-chimica analitica clinica;  
-chimica biorganica;  
-chimica delle sostanze organiche naturali;  
-chimica dei composti eterociclici;  
-meccanismi di reazione in chimica organica;  
-stereochimica organica;  
-metodi fisici in chimica organica.  
-Art. 96 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti insegnamenti:  
-anatomia vegetale;  
-elettrofisiologia;  
-genetica molecolare;  
-microbiologia generale.  
-Nel medesimo elenco e' soppresso l'insegnamento di "microbiologia".  
-Art. 97 - il comma di cui alla lettera f) e' soppresso e sostituito come segue: "b) Non potra' essere ammesso a sostenere l'esame di genetica senza aver prima superato gli esami di botanica I e di zoologia I".  
-Art. 98 - all'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti insegnamenti:  
-biostratigrafia;  
-climatologia;  
-complementi di geofisica;  
-cristallografia e cristallochimica;  
-fisica del vulcanismo;  
-geochimica applicata;  
-geodinamica;  
-geologia ambientale;  
-geologia del quaternario;  
-geologia strutturale;  
-geologia tecnica;  
-geomorfologia applicata;  
-mineralogia dei sedimenti;  
-paleobiogeografia con elementi di paleoecologia;  
-petrografia regionale;  
-prospezione geofisica.  
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Art. 26. - All'elenco degli insegnamenti complementari per il conseguimento del diploma in statistica sono aggiunti i seguenti:  
+Analisi matematica;  
+Geometria analitica;  
+Calcolo delle probabilita'.  
+Gli articoli 32 e 33, concernenti abbreviazioni di corso per i laureati di altri corsi di laurea che intendono iscriversi al corso di laurea in lettere, e gli articoli 36 e 37, concernenti abbreviazioni di corso per i laureati di altri corsi di laurea, che intendono iscriversi al corso di laurea in filosofia sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.  
+Art. 59. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di "Neuropsichiatria infantile" e "Bioacustica".  
+Art. 62. - All'elenco degli istituti della facolta' di medicina e chirurgia e' aggiunto il seguente: "Istituto di semeiotica chirurgica".  
+Art. 80. - All'elenco degli insegnamenti complementari del corso di laurea in matematica, indirizzo generale, sono aggiunti i seguenti:  
+Analisi numerica;  
+Analisi non lineare;  
+Equazioni differenziali;  
+Magnetofluidodinamica;  
+Metodi di approssimazione;  
+Ricerca operativa (1);  
+Teoria dell'informazione (1);  
+Teoria dell'ottimizzazione (1).  
+Nello stesso elenco l'insegnamento di "Calcolo delle probabilita'" e' contraddistinto da una chiamata (1).  
+All'elenco degli insegnamenti complementari del corso di laurea in matematica, indirizzo didattico, sono aggiunti i seguenti:  
+Analisi numerica;  
+Analisi non lineare;  
+Equazioni differenziali;  
+Magnetofluidodinamica;  
+Metodi di approssimazione;  
+Ricerca operativa (1);  
+Teoria dell'informazione (1);  
+Teoria dell'ottimizzazione (1).  
+Nello stesso elenco l'insegnamento di "Calcolo delle probabilita'" e' contraddistinto da una chiamata (1).  
+All'elenco degli insegnamenti complementari del corso di laurea in matematica, indirizzo applicativo, sono aggiunti i seguenti:  
+Analisi non lineare;  
+Equazioni differenziali;  
+Magnetofluidodinamica;  
+Metodi di approssimazione;  
+Ricerca operativa (1);  
+Teoria dell'informazione (1);  
+Teoria dell'ottimizzazione (1).  
+Nello stesso elenco l'insegnamento di "Calcolo delle probabilita'" e' contraddistinto da una chiamata (1).  
+Nello stesso elenco l'insegnamento di cibernetica e teoria dell'informazione e' soppresso.  
+Gli insegnamenti contraddistinti dalla chiamata (1) hanno carattere ambivalente, sia fisico che matematico.  
+Gli insegnamenti contraddistinti con asterisco sono ad indirizzo fisico.  
+Art. 82. - All'elenco degli insegnamenti complementari del corso di laurea in fisica sono aggiunti i seguenti:  
+Algebra (\*);  
+Analisi dei sistemi;  
+Analisi numerica (\*);  
+Biofisica;  
+Biologia molecolare;  
+Calcolo delle probabilita' (1);  
+Calcolatori elettronici;  
+Cibernetica;  
+Elettronica quantistica;  
+Istituzioni di algebra (\*),  
+Istituzioni di analisi superiore (\*),  
+Istituzioni di fisica matematica (\*);  
+Logica matematica (\*);  
+Metodi di approssimazione (\*);  
+Metodi per il trattamento delle informazioni;  
+Metodi statistici;  
+Misure nucleari;  
+Ricerca operativa (1);  
+Teoria dei campi;  
+Teoria dei gruppi (per fisici);  
+Teoria dell'informazione (1).  
+Nello stesso articolo sono soppressi i seguenti insegnamenti complementari:  
+Acustica;  
+Calcolo delle probabilita' (\*);  
+Chimica teorica;  
+Cibernetica e teoria dell'informazione;  
+Conduzione elettrica nei gas;  
+Elettrotecnica;  
+Epistemologia e metodologia;  
+Fisica dei fluidi;  
+Fisica terrestre (geofisica);  
+Geodesia;  
+Geologia;  
+Mineralogia;  
+Ottica;  
+Semiconduttori;  
+Sismologia Strutturistica;  
+Tecnica del vuoto;  
+Teoria delle reazioni nucleari;  
+Termodinamica.  
+Gli insegnamenti contraddistinti dalla chiamata (1) hanno carattere ambivalente, sia fisico che matematico.  
+Gli insegnamenti contraddistinti con asterisco sono ad indirizzo matematico.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1984
+### Dato a Roma, addi' 15 ottobre 1969
 
-PERTINI FALCUCCI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 24 agosto 1984
+Registrato alla Corte dei conti, addi' 22 aprile 1970
 
-Registro n. 51 Istruzione, foglio n. 78
+Atti del Governo, registro n. 234, foglio n. 196. - CARUSO

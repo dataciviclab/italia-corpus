@@ -1,44 +1,60 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1973 n. 46
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1970 n. 1151
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1973 n. 46
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1970 n. 1151
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla
+-----
+
+proposta del Ministro per la pubblica istruzione; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Presso l'Universita' degli studi di Milano e' istituita la facolta' di scienze politiche.  
+L'attuale corso di laurea in scienze politiche, annesso alla facolta' di giurisprudenza, della stessa universita', passa a far parte della nuova facolta' di scienze politiche.  
+
+Art. 2
+------
+
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 226, relativo alla scuola di specializzazione in igiene e medicina preventiva e' modificato nel senso che sono aggiunti i seguenti nuovi comma:  
-E' titolo di ammissione la laurea in medicina e chirurgia.  
-Sono ammessi altresi', limitatamente ad un massimo di 1/5 del numero dei posti disponibili al primo anno, i laureati in scienze biologiche.  
-Questi ultimi tuttavia potranno ottenere solo il diploma in orientamento di sanita' pubblica e in orientamento, di laboratorio.  
+Per tale facolta' sono assegnati i seguenti posti di ruolo:  
+a) due posti di professore, mediante trasferimento dall'organico di cui e' dotata la facolta' di giurisprudenza della stessa Universita' di Milano e propriamente i posti assegnati alle cattedre di "Storia dei trattati e politica internazionale" e di "Storia economica", piu' un posto prelevato dal contingente di cui all'[art. 1 della legge 24 febbraio 1967, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-24;62~art1) (aliquota 1970).  
+Coi posti sono trasferiti i relativi professori;  
+b) quattro posti di assistente mediante trasferimento dall'organico di cui e' dotata la facolta' di giurisprudenza della stessa Universita' di Milano e propriamente i posti assegnati alle cattedre di "Istituzioni di diritto privato", "Istituzioni di diritto pubblico", "Statistica", "Storia delle dottrine politiche" piu' un posto prelevato dal contingente di cui all'[art. 18 della legge 24 febbraio 1967, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-24;62~art18) (aliquota 1970).  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 febbraio 1973
+### Dato a Roma, addi' 31 ottobre 1970
 
-LEONE SCALFARO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 27 marzo 1973
+Registrato alla Corte dei conti, addi' 11 gennaio 1971
 
-Atti di Governo, registro n. 257, foglio n. 21. - VALENTINI
+Atti del Governo, registro n. 240, foglio n. 26. - CARUSO

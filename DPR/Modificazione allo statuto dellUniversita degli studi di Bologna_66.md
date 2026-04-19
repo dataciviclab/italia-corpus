@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 619
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 921
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 619
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 921
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -39,20 +39,31 @@ Articolo unico
 --------------
 
   
-Nell'art. 154, relativo al corso di laurea in scienze agrarie, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-coltivazioni arboree sub-tropicali;  
-micologia applicata alla patologia vegetale.  
   
+Nell'art. 116, relativo al corso di laurea in scienze naturali della facolta' di scienze matematiche, fisiche e naturali, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:   
+  
+genetica quantitativa.   
+
+((1))
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 maggio 1983
+### Dato a Roma, addi' 31 ottobre 1985
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 15 ottobre 1983
+Registrato alla Corte dei conti, addi' 14 febbraio 1986
 
-Registro n. 66 Istruzione, foglio n. 142
+Registro n. 9 Istruzione, foglio n. 123
+
+---------------
+
+AGGIORNAMENTO (1)
+
+Il D.P.R. 9 marzo 1987 (in G.U. 23/10/1987, n. 248) ha disposto (con l'art. 1, comma 1) che "Nell'art. 118, relativo al corso di laurea in scienze biologiche della facolta' di scienze matematiche, fisiche e naturali dell'Universita' degli studi di Bologna, anziche' nell'art. 116, all'elenco degli insegnamenti complementari e aggiunto il seguente nuovo insegnamento:   
+genetica quantitativa".

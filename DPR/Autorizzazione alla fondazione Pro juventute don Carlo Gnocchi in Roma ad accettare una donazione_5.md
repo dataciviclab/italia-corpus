@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1099
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 novembre 1979 n. 852
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1099
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 novembre 1979 n. 852
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una donazione.
 ------------------------------------------------------------------------------------------------------
@@ -12,12 +12,9 @@ Art. 1
 
 N.
 
-1099. Decreto del Presidente della Repubblica 5 dicembre 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare la donazione consistente in beni immobili siti nel comune di Camogli, frazione Ruta e precisamente:
-
-a) fabbricato ad uso abitazione sito in via Aurelia n. 140 (ex 84) censito nel nuovo catasto edilizio urbano alla partita 1889, foglio 6, mappale sub 1 - 16 con annesso piccolo appezzamento di terreno;
-
-b) fabbricato ad uso abitazione in via Romana, 132, censito nel nuovo catasto edilizio urbano alla partita 1889, foglio 6, mappale 56 sub 1 - 3, valore attribuito con perizia di parte L. 280.000.000 elevato dall'ufficio tecnico erariale di Genova a L. 528.000.000 liberi e lire 398.000.000 occupati. La donazione e' stata disposta dall'Istituto figlie di Maria della Divina Provvidenza - Opere femminili don Luigi Guanella - Roma, con atto redatto dal notaio dott. Ulderico Brambilla di Milano 19 novembre 1980, n. 4071/693 di repertorio, registrato a Milano in data 28 novembre 1980 al n. 25625.   
+852. Decreto del Presidente della Repubblica 28 novembre 1979, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare la donazione, consistente nella nuda proprieta' di un immobile sito nel comune di Desenzano sul Garda (Brescia), via Scuole, censito al nuovo catasto edilizio urbano alla partita 1350, foglio 8, mappale 9976, del valore periziato L. 40.000.000, disposta dalla sig.ra Giulia Gelmini con atto 27 febbraio 1976, n. 25314/2790 di repertorio, a rogito dott.  
+Ferruccio Brambilla, notaio in Milano, registrato a Busto Arsizio (Varese) in data 11 marzo 1976, n. 617, vol. 157.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 25 febbraio 1985   
-Registro n. 2 Presidenza, foglio n. 134
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 21 marzo 1980  
+Registro n. 2 Presidenza, foglio n. 339

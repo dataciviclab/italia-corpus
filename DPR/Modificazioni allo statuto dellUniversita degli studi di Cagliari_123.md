@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1963 n. 1008
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 aprile 1982 n. 807
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1963 n. 1008
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 aprile 1982 n. 807
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -10,133 +10,110 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743) e successivi;
+Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle Autorita' Accademiche dell'Universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Cagliari e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 140 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in Cardiologia.
+Articolo unico
+--------------
 
-Art. 141. - Alla Facolta' di Medicina e Chirurgia e' annessa una scuola di specializzazione in Cardiologia, con sede presso il Centro cardiologico esistente nella clinica medica dell'Universita'.
-
-Art. 142. - La durata dei corsi e' di tre anni.
-
-Il numero massimo degli iscritti e' di venti complessivamente nei tre anni.
-
-Art. 143. - Le materie di insegnamento e la loro ripartizione nei singoli anni sono le seguenti:
-
-Anno 1°:
-
-1) Anatomia dell'apparato cardio-vascolare (annuale);
-
-2) Fisiologia dell'apparato cardio-vascolare (annuale);
-
-3) Semeiotica dell'apparato cardio-vascolare (biennale);
-
-4) Patologia dell'apparato cardio-vascolare (biennale);
-
-5) Anatomia patologica dell'apparato cardio-vascolare (annuale).
-
-Anno 2°:
-
-1) Semeiotica dell'apparato cardio-vascolare (biennale);
-
-2) Patologia dell'apparato cardio-vascolare (biennale);
-
-3) Radiologia dell'apparato cardio-vascolare (annuale);
-
-4) Clinica dell'apparato cardio-vascolare (biennale).
-
-Anno 3°:
-
-1) Clinica dell'apparato cardio-vascolare (biennale);
-
-2) Farmacologia e terapia medica dell'apparato cardio-vascolare (annuale);
-
-3) Terapia chirurgica dell'apparato cardio-vascolare (annuale).
-
-Gli esami dovranno essere sostenuti al termine di ogni insegnamento.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 30 giugno 1963
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 2 agosto 1963 Atti del Governo, registro n. 172, foglio n. 79. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle Autorita' Accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Dopo l'art. 234, con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il nuovo seguente articolo concernente la scuola per terapisti della riabilitazione.  
+Art. 235.- La scuola per terapisti della riabilitazione, istituita presso la clinica ortopedica dell'Universita', ha lo scopo di dare una preparazione teorica e pratica sui problemi della riabilitazione dei minorati fisici e del loro reinserimento nell'ambiente socioeconomico.  
+La durata della scuola per il conseguimento del diploma di terapista della riabilitazione e' di tre anni: i primi due consistenti in lezioni teoriche e pratiche sulle materie propedeutiche; il terzo di tirocinio pratico presso i centri di riabilitazione delle cliniche ortopedica, neurologica, medica (sezione di terapia fisica) di questa Universita'.  
+Possono accedere alla scuola gli allievi di ambo i sessi di eta' non inferiore a diciassette anni, in possesso del titolo di studio prescritto per l'ammissione all'Universita'.  
+Il numero massimo dei posti per ogni anno di corso e' di cinque allievi.  
+Gli aspiranti, per conseguire l'iscrizione al primo anno di corso, dovranno superare una prova scritta di cultura ed attitudinale.  
+La frequenza alle lezioni ed ai tirocinii e' obbligatoria.  
+Materie di insegnamento.  
+1° Anno:  
+nozioni generali di anatomia;  
+nozioni generali di fisiologia;  
+fisiologia dell'apparato locomotore;  
+fisiologia del sistema nervoso centrale e periferico;  
+fisiologia del sistema cardio-respiratorio;  
+chinesiologia;  
+igiene e medicina sociale;  
+nozioni di fisiche delle energie utilizzate in terapia fisica;  
+nozioni fondamentali di psichiatria;  
+psicologia applicata alla riabilitazione;  
+nozioni generali di patologia generale, medica, chirurgica;  
+patologia e clinica dell'apparato locomotore;  
+patologia e clinica del sistema nervoso;  
+patologia e clinica dell'apparato cardio-vascolare;  
+patologia e clinica dell'apparato respiratorio;  
+nozioni di farmacologia applicata alla riabilitazione.  
+2° Anno:  
+metodologia della riabilitazione;  
+tecniche di facilitazione neuro-motoria;  
+apparecchiature fisio-terapiche;  
+riabilitazione nelle motulesioni ortopediche;  
+rieducazione e riabilitazione nelle motulesioni neurologiche;  
+riabilitazione nelle invalidita' respiratorie;  
+riabilitazione in reumatologia;  
+riabilitazione in neuropsichiatria infantile;  
+tecniche fisioterapiche;  
+disturbi del linguaggio, della fonetica e loro rieducazione;  
+nozioni generali e terapia occupazionale;  
+servizio sociale e relazioni umane.  
+Il terzo anno e' esclusivamente dedicato al tirocinio pratico e sara' svolto con un internato della durata di dieci mesi, suddiviso nei tre istituti di: clinica ortopedica, clinica neurologica, istituto di terapia fisica dell'ospedale Marino di Cagliari.  
+Alla fine del primo e del secondo anno, gli allievi dovranno superare una prova scritta, orale e pratica riguardante il gruppo di materie dei relativi insegnamenti; il superamento di detta prova e' indispensabile per essere ammessi all'anno successivo.  
+L'esame di diploma consiste in una prova teorico-pratica e nella discussione di una tesi scritta su un tema preventivamente assegnato dal direttore della scuola, il cui titolo deve essere depositato in segreteria almeno sei mesi prima della discussione stessa.  
+Documenti richiesti per l'ammissione alla scuola.  
+Gli aspiranti all'ammissione alla scuola diretta a fini speciali dovranno presentare entro e non oltre il 5 novembre i seguenti documenti:  
+1) domanda in carta bollata, diretta al magnifico rettore, di ammissione alla scuola, con le generalita' complete, l'indirizzo della citta' di residenza e numero del c.a.p.;  
+2) certificato di scuola media superiore da farsi rilasciare dall'istituto presso il quale fu conseguito il titolo di studio, in bollo;  
+3) certificato di sana e robusta costituzione fisica, rilasciato in bollo, dall'ufficiale sanitario. Detto certificato e' richiesto per gli aspiranti all'ammissione alla scuola;  
+4) due buste con l'indirizzo preciso e il numero di codice di avviamento postale della citta' di residenza.  
+Documenti che dovranno produrre coloro i quali conseguiranno l'iscrizione al primo anno di corso.  
+Coloro i quali risulteranno iscritti, in base alla graduatoria, dovranno presentare entro e non oltre quindici giorni dalla data della notifica della avvenuta iscrizione alla scuola, i seguenti documenti:  
+a) apposito modulo da ritirarsi presso la sede centrale relativo alla domanda di immatricolazione ed a quella di ammissione agli esami di profitto. Detto modulo deve essere corredato da due marche da bollo;  
+b) diploma originale di scuola media superiore, prescritto per l'ammissione all'Universita'. Detto diploma dovra' essere presentato, comunque, prima che abbia luogo la sessione estiva degli esami del primo corso;  
+c) due foto di cui una autenticata in bollo;  
+d) quietanza comprovante il versamento della prima rata di tassa.  
+Modalita' di ammissione al diploma.  
+I diplomandi dovranno presentare, entro i termini stabiliti anno per anno da questa Universita', la seguente documentazione:  
+1) domanda, in carta bollata, di rilascio del diploma originale riguardante il titolo definitivo in via di conseguimento;  
+2) domanda, in carta legale, diretta al magnifico rettore, di ammissione all'esame di diploma;  
+3) quietanza di L. 7.000 per il rilascio del diploma, per il costo della carta pergamena e per la soprattassa di diploma;  
+4) quietanza di L. 50.000 per la tassa di diploma da pagarsi presso un qualsiasi ufficio postale d'Italia sul c/c 53.000 ed intestato all'ufficio tasse scolastiche Roma.  
+Tasse scolastiche di iscrizione alla scuola.  
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Dopo l'art. 140 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in Cardiologia.  
-Art. 141. - Alla Facolta' di Medicina e Chirurgia e' annessa una scuola di specializzazione in Cardiologia, con sede presso il Centro cardiologico esistente nella clinica medica dell'Universita'.  
-Art. 142. - La durata dei corsi e' di tre anni.  
-Il numero massimo degli iscritti e' di venti complessivamente nei tre anni.  
-Art. 143. - Le materie di insegnamento e la loro ripartizione nei singoli anni sono le seguenti:  
-Anno 1°:  
-1) Anatomia dell'apparato cardio-vascolare (annuale);  
-2) Fisiologia dell'apparato cardio-vascolare (annuale);  
-3) Semeiotica dell'apparato cardio-vascolare (biennale);  
-4) Patologia dell'apparato cardio-vascolare (biennale);  
-5) Anatomia patologica dell'apparato cardio-vascolare (annuale).  
-Anno 2°:  
-1) Semeiotica dell'apparato cardio-vascolare (biennale);  
-2) Patologia dell'apparato cardio-vascolare (biennale);  
-3) Radiologia dell'apparato cardio-vascolare (annuale);  
-4) Clinica dell'apparato cardio-vascolare (biennale).  
-Anno 3°:  
-1) Clinica dell'apparato cardio-vascolare (biennale);  
-2) Farmacologia e terapia medica dell'apparato cardio-vascolare (annuale);  
-3) Terapia chirurgica dell'apparato cardio-vascolare (annuale).  
-Gli esami dovranno essere sostenuti al termine di ogni insegnamento.  
-  
+1ª Rata:  
+immatricolazione . . . . . . . . . . . . . . . . . . . . . . L. 5.000 indennita' libretto e tessera. . . . . . . . . . . . . . . . L. 1.250 tassa di iscrizione. . . . . . . . . . . . . . . . . . . . . L. 5.000 soprattassa esami profitto . . . . . . . . . . . . . . . . . L. 7.000 contributo riscaldamento (eventuale). . . . . . . . . . . . L. 15.000 diritto di riscontro . . . . . . . . . . . . . . . . . . . . L. 3.500 contributo attivita' ess. e sport. . . . . . . . . . . . . . L. 1.000 contributo assicurazione e soltanto per  
+gli iscrivendi al primo anno . . . . . . . . . . . . . . . . . L. 600 2ª Rata:  
+tassa di iscrizione . . . . . . . . . . . . . . . . . . . . L. 13.000 contributo di laboratorio . . . . . . . . . . . . . . . . . L. 25.000   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 giugno 1963
+### Dato a Roma, addi' 30 aprile 1982
 
-SEGNI GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 2 agosto 1963
+Registrato alla Corte dei conti, addi' 29 ottobre 1982
 
-Atti del Governo, registro n. 172, foglio n. 79. - VILLA
+Registro n. 121 Istruzione, foglio n. 51

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 marzo 1974 n. 288
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1976 n. 594
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 marzo 1974 n. 288
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1976 n. 594
+=============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-288. Decreto del Presidente della Repubblica 16 marzo 1974, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato, consistente in una porzione del complesso archeologico denominato "Grotta della pace" o "Grotta di Cocceio", disposta dal comune di Pozzuoli con atto 21 febbraio 1969, n. 19110 di rep. e successivo atto di rettifica 5 febbraio 1973, n. 27810 di rep., entrambi a rogito del notaio Flavio Prattico.  
+594. Decreto del Presidente della Repubblica 10 maggio 1976, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Teggiano (Salerno), con atto 19 novembre 1974, n. 12668 di repertorio, a rogito notaio Luigi Coiro, di tutta l'area in sopraelevazione dell'edificio in cui ha sede la casa comunale e l'istituto magistrale, catastalmente indicata nell'atto suddetto, allo scopo di sopraedificarvi i locali da destinare a caserma dell'Arma dei carabinieri.  
   
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 11 luglio 1974  
-Atti di Governo, registro n. 4, foglio n. 61. - SCIARRETTA
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 19 agosto 1976  
+Atti di Governo, registro n. 8, foglio n. 76

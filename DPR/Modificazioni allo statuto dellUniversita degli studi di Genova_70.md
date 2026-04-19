@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 giugno 1977 n. 768
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 maggio 1972 n. 360
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 giugno 1977 n. 768
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 maggio 1972 n. 360
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
@@ -10,19 +10,17 @@ Modificazioni allo statuto dell'Universita' degli studi di Genova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -32,268 +30,712 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 73 - all'elenco degli insegnamenti complementari del corso di laurea in chimica vengono aggiunti i seguenti:
+Art. 122: all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono aggiunte le seguenti:
 
-a) Per l'indirizzo organico-biologico:
+Anatomia e istologia patologica;
 
-complementi di chimica analitica;
+Gerontologia e geriatria;
 
-calcolo numerico e programmazione (corso speciale per chimici e chimici industriali);
+Urologia.
 
-complementi di chimica fisica;
+Gli articoli 251, 252, 253, relativi alla scuola di specializzazione in neuropsichiatria infantile, sono abrogati e sostituiti dai seguenti con il relativo spostamento della numerazione degli articoli successivi.
 
-didattica chimica;
+Scuola di specializzazione in neuropsichiatria infantile
 
-chimica quantistica;
+Art. 251. - Presso l'istituto di clinica delle malattie nervose e mentali e' istituita la scuola di specializzazione in neuropsichiatria infantile che ha lo scopo di conferire adeguata preparazione e competenza teorica e pratica ai laureati in medicina e chirurgia che intendono dedicarsi all'esercizio di tale branca.
 
-chimica merceologica;
+Art. 252. - La durata del corso di studi e' di quattro anni. Alla scuola possono iscriversi esclusivamente i laureati in medicina e chirurgia. Il direttore della scuola valuta i titoli degli aspiranti e sottopone ciascuno di essi ad un esame preliminare.
 
-complementi di chimica organica;
+Il numero massimo degli iscritti non puo' essere superiore a dieci per l'intero corso di studi.
 
-chimica dei composti eterociclici;
+Le norme di iscrizione, esami, pagamento tasse, ecc. sono quelle generali delle scuole di specializzazione e di perfezionamento riferite negli articoli da 122 a 137 dello statuto della universita'.
 
-b) Per l'indirizzo inorganico-chimico fisico:
+Art. 253. - Le materie d'insegnamento sono:
 
-complementi di chimica analitica;
+1° Anno:
 
-complementi di chimica fisica;
+1) Anatomia ed embriologia del sistema nervoso;
 
-calcolo numerico e programmazione (corso speciale per chimici e chimici industriali);
+2) Fisiologia del sistema nervoso con particolare riguardo all'eta' evolutiva;
 
-didattica chimica;
+3) Genetica;
 
-chimica quantistica;
+4) Endocrinologia dell'eta' evolutiva ed auxologia;
 
-chimica merceologica;
+5) Patologia e clinica pediatrica;
 
-complementi di chimica inorganica.
+6) Tecniche di laboratorio.
 
-Art. 74 - all'elenco degli insegnamenti complementari del corso di laurea in chimica industriale vengono aggiunti i seguenti:
+2° Anno:
 
-complementi di chimica analitica;
+7) Anatomia patologica del sistema nervoso;
 
-complementi di chimica fisica;
+8) Biochimica patologica del sistema nervoso;
 
-complementi di chimica industriale;
+9) Psicologia dell'eta' evolutiva;
 
-complementi di impianti industriali chimici;
+10) Semeiotica e clinica neurologica;
 
-calcolo numerico e programmazione (corso speciale per chimici e chimici industriali);
+11) Semeiotica e clinica pediatrica.
 
-didattica chimica;
+3° Anno:
 
-chimica merceologica.
+12) Psicopatologia dell'eta' evolutiva;
 
-Dopo l'art. 154 del titolo XII, e con il conseguente spostamento della numerazione dei titoli e degli articoli successivi, sono inseriti il seguente nuovo titolo con relativi articoli concernenti l'istituzione della scuola di perfezionamento in geografia presso la facolta' di magistero.
+13) Semeiotica e clinica neurologica infantile;
 
-TITOLO XIII
+14) Psicodiagnostica dell'eta' evolutiva;
 
-FACOLTA' DI MAGISTERO
+15) Elettrofisiologia;
 
-Scuola di perfezionamento in geografia
+16) Neuroradiologia;
 
-Art. 155. - La durata del corso e' di due anni.
+17) Neurochirurgia dell'eta' evolutiva;
 
-Alla scuola sono ammessi i laureati in materie letterarie, in pedagogia, in lettere, in storia nonche' i laureati in altri corsi, nel cui curriculum risultino superati due esami di profitto in corsi di materie geografiche di durata annuale oppure anche uno se si tratti di insegnamento di durata biennale.
+18) Semeiotica e clinica psichiatrica infantile (I).
 
-Limitatamente all'indirizzo di analisi dell'organizzazione territoriale sono ammessi anche i laureati in economia e commercio, in scienze politiche, in architettura, purche' abbiano superato nel proprio curriculum un esame annuale di materie geografiche.
+4° Anno:
 
-Art. 156. - La scuola si articola in corsi di lezioni, in esercitazioni ed eventuali seminari.
+19) Clinica psichiatrica infantile (II);
 
-E' obbligatoria la frequenza alle lezioni, alle esercitazioni ed ai seminari.
+20) Terapia generale delle malattie mentali infantili;
 
-Per l'iscrizione al secondo anno e' necessario aver superato almeno due esami.
+21) Psicoterapia dell'eta' evolutiva;
 
-La scuola ha due indirizzi:
+22) Foniatria;
 
-a) qualificazione didattica;
+23) Psicopedagogia;
 
-b) analisi dell'organizzazione territoriale.
+24) Sociologia applicata alla popolazione infantile;
 
-Art. 157. - Gli insegnamenti obbligatori per l'indirizzo di qualificazione didattica sono:
+25) Legislazione.
 
-1) problemi fondamentali e metodologici di geografia generale;
+Tutte le discipline sono svolte sotto forma di lezioni, dimostrazioni pratiche ed illustrazione di casi clinici.
 
-2) geografia politica ed economica;
+Art. 254. - Gli iscritti hanno l'obbligo della frequenza alle lezioni e dell'internato di mesi sei in clinica pediatrica per gli studenti del primo anno, di mesi tre in neurologia e di mesi tre in psichiatria per gli studenti del secondo anno; di mesi sei per gli studenti del terzo anno e di mesi sei per gli studenti del quarto anno in neuropsichiatria infantile.
 
-3) geografia regionale;
+Art. 255. - Gli studenti, a termine di ogni anno di corso, dovranno sostenere i seguenti esami:
 
-4) didattica della geografia.
+1° Anno:
 
-Gli insegnamenti a scelta per l'indirizzo di qualificazione didattica sono:
+1) Embriologia ed anatomia del sistema nervoso;
 
-1) antropologia culturale;
+2) Fisiologia del sistema nervoso;
 
-2) demografia;
+3) Genetica, endocrinologia ed auxologia;
 
-3) etnologia;
+4) Patologia e clinica pediatrica.
 
-4) geografia fisica;
+2° Anno:
 
-5) sociologia;
+5) Anatomia e biochimica patologica del sistema nervoso;
 
-6) storia della geografia e delle esplorazioni;
+6) Psicologia dell'eta' evolutiva;
 
-7) geografia storica.
+7) Semeiotica e clinica neurologica;
 
-Art. 158. - Gli insegnamenti obbligatori per l'indirizzo di analisi dell'organizzazione territoriale sono:
+8) Semeiotica e clinica psichiatrica.
 
-1) problemi fondamentali e metodologici di geografia applicata;
+3° Anno:
 
-2) geografia regionale;
+9) Semeiotica e clinica neurologica infantile;
 
-3) geografia politica ed economica;
+10) Psicopatologia dell'eta' evolutiva;
 
-4) organizzazione e pianificazione territoriale.
+11) Psicodiagnostica dell'eta' evolutiva.
 
-Gli insegnamenti a scelta dell'indirizzo di analisi dell'organizzazione territoriale sono:
+4° Anno:
 
-1) demografia;
+12) Semeiotica e clinica psichiatrica infantile;
 
-2) economia politica;
+13) Psicopedagogia;
 
-3) economia e politica agraria;
+14) Legislazione.
 
-4) economia dei trasporti;
+Art. 256. - Per ottenere l'iscrizione al 2°, 3° e 4° anno di specializzazione, gli iscritti dovranno aver sostenuto gli esami delle materie prescritte per l'anno precedente, tranne che per la clinica psichiatrica infantile il cui esame va sostenuto al 4° anno.
 
-5) geografia storica;
+Gli specialisti in clinica delle malattie nervose e mentali o in neurologia o in psichiatria, sono iscritti d'ufficio al 2° anno della scuola e sono esentati dal sostenere gli esami di profitto n. 1), 2), 5), 7), 8) e dall'espletare il periodo di internato in neurologia e psichiatria.
 
-6) sociologia;
+Gli specialisti in clinica pediatrica sono iscritti d'ufficio al 2° anno della scuola e sono esentati dal sostenere gli esami di profitto n. 3) e 4) e dall'espletare il periodo di internato del 1° anno.
 
-7) statistica.
+Per conseguire il diploma di specialista in neuropsichiatria infantile gli iscritti, al termine degli esami, dovranno presentare e discutere una dissertazione scritta su un argomento di neuropsichiatria infantile.
 
-Art. 159. - La scuola organizza, almeno per gli insegnamenti fondamentali, corsi trimestrali e semestrali di seminario, affidati, in base a deliberazioni del consiglio di facolta', a ricercatori o cultori notoriamente competenti.
+Gli articoli 257, 258, 259, relativi alla scuola di specializzazione in ematologia clinica e di laboratorio, sono abrogati e sostituiti dai seguenti:
 
-Art. 160. - Il diploma menzionera' l'indirizzo seguito.
+Scuola di specializzazione in ematologia clinica e di laboratorio
 
-Oltre agli esami negli insegnamenti obbligatori sono richiesti, per l'indirizzo di qualificazione didattica, esami in quattro discipline fra quelle a scelta; per l'indirizzo di analisi dell'organizzazione territoriale, esami in cinque discipline fra quelle a scelta.
+Art. 257. - Presso l'istituto scientifico di medicina interna e' istituita la scuola di specializzazione in ematologia clinica e di laboratorio, la quale ha lo scopo di conferire adeguata preparazione teorica e pratica ai laureati in medicina e chirurgia i quali intendono conseguire il diploma rilasciato dalla scuola stessa.
 
-L'esame di diploma consiste nella presentazione e discussione di una dissertazione scritta in una delle discipline previste per l'indirizzo prescelto, nonche' in prove pratiche che il consiglio della scuola stabilira' a seconda dell'indirizzo.
+La scuola ha la durata di tre anni.
 
-Art. 161. - Il direttore della scuola e' nominato per un biennio dal rettore, su proposta del consiglio di facolta', tra i professori della scuola. La scuola ha un proprio consiglio costituito da tutti i docenti, da un rappresentante per ciascuna delle categorie indicate nei [commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580~art9-com1) e [2 dell'art. 9 del decreto-legge 1 ottobre 1973, n. 580](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580~art9-com2), convertito nella [legge 30 novembre 1973, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766), nonche' da un rappresentante degli studenti iscritti per ciascun indirizzo.
+Le norme di iscrizione, gli esami, pagamento tasse e tutte le altre norme generali sono quelle comprese negli articoli da 122 e 137 dello statuto dell'universita'.
 
-Spetta al consiglio della scuola formulare al consiglio della facolta' di magistero le proposte per l'attivazione degli insegnamenti mediante conferimento di incarichi annuali o mutuazione di insegnamenti gia' esistenti presso l'Universita'.
+L'abbreviamento del corso, non superiore ad un anno, puo' essere concesso, su proposta del direttore e con la approvazione della facolta', ai liberi docenti in medicina generale, in clinica pediatrica, in patologia generale ed in anatomia patologica, o a coloro che siano assistenti da almeno tre anni in istituti universitari di medicina generale, pediatria, anatomia patologica e patologia generale.
 
-Art. 162. - Le tasse, sopratasse e contributi sono gli stessi della facolta' di magistero. Il contributo di esercitazioni viene fissato con la procedura prevista dalla [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).
+La frequenza e' obbligatoria. Il numero massimo degli iscritti e' di venti complessivamente per tre anni.
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Art. 258. - Le materie d'insegnamento sono:
 
-Dato a Roma, addi' 15 giugno 1977
+1° Anno:
+
+1) Morfologia e morfogenesi normale e patologica del sangue e degli organi emopoietici;
+
+2) Genetica ematologica;
+
+3) Fisiopatologia della coagulazione e della emostasi;
+
+4) Fisiopatologia ematologica;
+
+5) Fisiopatologia del plasma;
+
+6) Biochimica ematologica;
+
+7) Tecniche di laboratorio inerenti all'ematologia.
+
+2° Anno:
+
+1) Morfologia e morfogenesi normale e patologica del sangue e degli organi emopoietici (II anno);
+
+2) Fisiopatologia ematologica;
+
+3) Immunoematologia;
+
+4) Anatomia e istologia patologica delle emopatie e fondamenti di oncologia;
+
+5) Patologia speciale ematologica;
+
+6) Clinica ematologica;
+
+7) Tecniche di laboratorio inerenti alla ematologia.
+
+3° Anno:
+
+1) Clinica ematologica (II anno);
+
+2) Nozioni di radiobiologia e di medicina nucleare applicata all'ematologia;
+
+3) Radiodiagnostica e radioterapia in clinica ematologica;
+
+4) Patologia speciale ematologica;
+
+5) Terapia ematologica sistematica;
+
+6) Terapia trasfusionale;
+
+7) Tecniche di laboratorio inerenti alla ematologia.
+
+Tutte le discipline sono svolte sotto forma di lezioni e dimostrazioni pratiche ed illustrazioni di casi clinici.
+
+Gli iscritti hanno l'obbligo di frequentare assiduamente per tutto il triennio i corsi e prestare servizio in apposito reparto dell'I.S.M.I. Patologia medica come medici interni con diritto a due mesi di vacanza per ogni anno.
+
+Art. 259. - Alla fine del triennio gli allievi che hanno frequentato i corsi saranno ammessi all'esame di diploma, consistente nella presentazione e discussione di una tesi scritta di argomento pertinente alla ematologia, in una prova orale teorica e in una prova pratica.
+
+Agli allievi che hanno ottenuto l'approvazione nello esame di diploma verra' rilasciato il diploma di specializzazione in ematologia clinica e di laboratorio, valido a tutti gli effetti di legge.
+
+Dopo l'articolo 275 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Anatomia e istologia patologica" e in "Gerontologia e geriatria" e in "Urologia".
+
+Scuola di specializzazione in anatomia e istologia patologica
+
+Art. 276. - Presso l'istituto di anatomia patologica ha sede la scuola di specializzazione in anatomia ed istologia patologica.
+
+La scuola ha la durata di tre anni.
+
+Direttore della scuola e' il titolare della cattedra di anatomia e istologia patologica.
+
+Sono ammessi alla scuola i laureati in medicina e chirurgia; il numero massimo complessivo degli iscritti e' di quindici per tutti e tre gli anni di corso.
+
+L'ammissione al corso avviene per titoli ed esame.
+
+Le norme di iscrizione, esami, pagamento tasse, ecc., sono quelle generali delle scuole di specializzazione della facolta' di medicina e chirurgia riferite negli articoli da 122 a 137 dello statuto dell'universita'.
+
+Art. 277. - Il piano degli studi contempla i seguenti insegnamenti:
+
+1° Anno:
+
+Tecnica delle autopsie;
+
+Diagnostica anatomo-patologica macroscopica;
+
+Anatomia patologica sistematica I;
+
+Tecnica istologica e istochimica I.
+
+2° Anno:
+
+Anatomia patologica sistematica II;
+
+Tecnica istologica ed istochimica II;
+
+Diagnostica istopatologica I;
+
+Elementi di microscopia elettronica.
+
+3° Anno:
+
+Diagnostica istopatologica II;
+
+Diagnostica ematologica;
+
+Tecnica e diagnostica citologica;
+
+Legislazione sanitaria tanatologica.
+
+Gli insegnamenti saranno integrati da seminari e cicli di conferenze nonche' esercitazioni, anche in riferimento a indagini complementari.
+
+Art. 278. - Gli iscritti hanno l'obbligo di frequentare l'istituto di anatomia ed istologia patologica.
+
+Per il passaggio agli anni successivi e' obbligatorio il superamento di un esame finale per ogni singolo anno.
+
+Gli esami delle materie biennali potranno essere sostenuti al termine del biennio.
+
+Agli allievi che abbiano ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specialista in anatomia ed istologia patologica valido a tutti gli effetti di legge.
+
+Scuola di specializzazione in gerontologia e geriatria
+
+Art. 279. - Presso la facolta' di medicina e chirurgia dell'Universita' di Genova e' istituita la scuola di specializzazione in gerontologia e geriatria.
+
+La durata del corso e' stabilita in tre anni. Sono ammessi in detta scuola i laureati in medicina e chirurgia in numero complessivo di dodici suddivisi nei tre anni di corso.
+
+Le norme per l'iscrizione sono quelle previste per le scuole di specializzazione e perfezionamento riferite negli articoli da 122 a 137 dello statuto dell'universita'.
+
+Sara' comunque fatto un colloquio ai candidati alla iscrizione, che dovranno altresi' rispondere alle domande contenute in apposito questionario redatto dal direttore della scuola.
+
+Direttore della scuola sara' il professore ufficiale di gerontologia o, in mancanza, altro professore di ruolo di materie mediche.
+
+Art. 280. - Per il corso sono previsti dodici insegnamenti, di cui otto annuali e quattro biennali, cosi' ripartiti:
+
+1° Anno:
+
+Biologia della senescenza;
+
+Fisiopatologia della senescenza I;
+
+Semeiologia della senescenza I;
+
+Anatomia patologica I;
+
+Farmacologia e farmacoterapia.
+
+2° Anno:
+
+Fisiopatologia della senescenza II;
+
+Semeiologia della senescenza II;
+
+Anatomia patologica II;
+
+Clinica geriatrica e terapia I;
+
+Chirurgia geriatrica;
+
+Radiologia e radioterapia;
+
+Neurologia.
+
+3° Anno:
+
+Clinica geriatrica e terapia II;
+
+Tecniche di riabilitazione;
+
+Psichiatria;
+
+Medicina sociale.
+
+Alla fine di ogni anno di corso saranno sostenuti gli esami nelle materie corrispondenti, per ottenere l'iscrizione all'anno successivo.
+
+Gli iscritti alla scuola sono tenuti a seguire le lezioni teoriche, le esercitazioni e gli internati presso la sede della scuola e presso altre istituzioni che d'accordo col direttore della scuola siano disponibili in tal senso.
+
+Art. 281. - Alla fine del triennio gli specializzandi sosterranno la discussione di una dissertazione scritta e gli esami di diploma.
+
+Agli iscritti che avranno superato tali prove sara' rilasciato un diploma di specializzazione in gerontologia e geriatria valido a tutti gli effetti legali.
+
+Scuola di specializzazione in urologia
+
+Art. 282. - La scuola di specializzazione in urologia ha sede presso la cattedra di urologia.
+
+Direttore della scuola e' il titolare della cattedra di urologia.
+
+La durata del corso di studi e' di tre anni.
+
+Il numero complessivo degli iscritti che potranno essere ammessi alla scuola e' di trenta per l'intero corso degli studi.
+
+Per l'iscrizione e' richiesto, oltre al diploma di laurea in medicina e chirurgia o la specializzazione in chirurgia generale o la frequenza per almeno due anni presso un reparto universitario od ospedaliero di chirurgia generale o di urologia.
+
+I candidati dovranno sostenere un esame di ammissione che dimostri la loro preparazione culturale di base.
+
+Art. 283. - Potranno essere concesse abbreviazioni di un anno su proposta del direttore della scuola e dopo approvazione della facolta' medica limitatamente a coloro i quali dimostrino di avere prestato servizio in qualita' di aiuto o assistente per almeno due anni in reparti di chirurgia od urologia universitari od ospedalieri regionali o provinciali.
+
+Coloro che eventualmente usufruissero della agevolazione di cui sopra sono sempre tenuti a sostenere gli esami annuali di profitto ed a pagare per intero i contributi anche per l'anno da cui sono stati esonerati.
+
+La frequenza alle lezioni ufficiali, alle esercitazioni, alle sedute operatorie e corsie e' obbligatoria.
+
+Al termine di ciascun anno di corso gli specializzandi dovranno sostenere un esame di profitto alle materie di cui all'articolo 285.
+
+Art. 284. - Superati tutti gli esami di profitto i candidati dovranno sostenere un esame di diploma che consistera' nella discussione di una dissertazione originale scritta. A coloro che abbiano superato tale esame verra' rilasciato il diploma di specialista in urologia valido a tutti gli effetti di legge.
+
+Le norme per l'ammissione alla scuola (a parte l'obbligo di presentare copia del diploma di specializzazione in chirurgia generale o l'attestato di frequenza per almeno due anni presso reparti universitari od ospedalieri di chirurgia generale o urologia) per le tasse, gli esami, le iscrizioni, i trasferimenti, le commissioni e per tutto quanto non sia stato contemplato nello statuto di questa scuola sono quelle generali per le scuole di specializzazione e di perfezionamento di cui agli articoli da 122 a 137 dello statuto dell'universita'.
+
+Art. 285. - Elenco degli insegnamenti:
+
+1° Anno:
+
+1) Anatomia descrittiva e topografica dell'apparato uro-genitale;
+
+2) Fisiologia dell'apparato uro-genitale;
+
+3) Patologia dell'apparato urinario e genitale maschile;
+
+4) Le nefropatie mediche;
+
+5) Semeiotica dell'apparato uro-genitale (funzionale e di laboratorio);
+
+6) Tecniche strumentali e semeiologia endoscopica;
+
+7) Batteriologia in urologia;
+
+8) Farmacoterapia delle affezioni uro-genitali.
+
+2° Anno:
+
+1) Patologia dell'apparato urinario e genitale maschile;
+
+2) Clinica urologica;
+
+3) Patologia genitale femminile di interesse urologico;
+
+4) Anatomia ed istologia patologica dell'apparato uro-genitale;
+
+5) Semeiotica dell'apparato uro-genitale (funzionale e di laboratorio);
+
+6) Tecniche strumentali e semeiologia endoscopica:
+
+7) Anatomia chirurgica dell'apparato uro-genitale;
+
+8) Radiologia dell'apparato urinario e genitale;
+
+9) Le affezioni cutanee e veneree nei riguardi della urologia;
+
+10) L'anestesiologia ed il trattamento pre e post-operatorio del malato urologico;
+
+11) Nefrologia chirurgica.
+
+3° Anno:
+
+1) Clinica urologica;
+
+2) Patologia e clinica urologica infantile;
+
+3) Radiologia dell'apparato urinario e genitale;
+
+4) Tecniche operatorie sull'apparato urinario e genitale;
+
+5) Urologia ginecologica.
+
+Art. 286. - Elenco degli esami:
+
+1° Anno:
+
+1) Anatomia e fisiologia dell'apparato uro-genitale;
+
+2) Le nefropatie mediche;
+
+3) Batteriologia in urologia e farmacoterapia delle affezioni uro-genitali.
+
+2° Anno:
+
+1) Patologia dell'apparato urinario e genitale maschile: anatomia e istologia patologica;
+
+2) Semeiotica urologica (funzionale e di laboratorio) e tecnica strumentale e semeiologia endoscopica;
+
+3) Patologia genitale femminile di interesse urologico e affezioni cutanee e veneree nei riguardi dell'urologia;
+
+4) Anatomia chirurgica dell'apparato uro-genitale; anestesia e trattamento pre e post-operatorio del malato urologico;
+
+5) Nefrologia chirurgica;
+
+3° Anno:
+
+1) Clinica urologica;
+
+2) Radiologia dell'apparato urinario e genitale;
+
+3) Interventi e procedimenti operatori sull'apparato uro-genitale;
+
+4) Patologia e clinica urologica infantile;
+
+5) Urologia ginecologica.
+
+Il presente decreto, munito del sigillo, dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 16 maggio 1972
 
 LEONE
 
-MALFATTI
+MISASI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 20 ottobre 1977 Registro n. 117 Istruzione, foglio n. 76
+alla Corte dei conti, addi' 25 luglio 1972 Atti del Governo, registro n. 250, foglio n. 56. - CARUSO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 73 - all'elenco degli insegnamenti complementari del corso di laurea in chimica vengono aggiunti i seguenti:  
-a) Per l'indirizzo organico-biologico:  
-complementi di chimica analitica;  
-calcolo numerico e programmazione (corso speciale per chimici e chimici industriali);  
-complementi di chimica fisica;  
-didattica chimica;  
-chimica quantistica;  
-chimica merceologica;  
-complementi di chimica organica;  
-chimica dei composti eterociclici;  
-b) Per l'indirizzo inorganico-chimico fisico:  
-complementi di chimica analitica;  
-complementi di chimica fisica;  
-calcolo numerico e programmazione (corso speciale per chimici e chimici industriali);  
-didattica chimica;  
-chimica quantistica;  
-chimica merceologica;  
-complementi di chimica inorganica.  
-Art. 74 - all'elenco degli insegnamenti complementari del corso di laurea in chimica industriale vengono aggiunti i seguenti:  
-complementi di chimica analitica;  
-complementi di chimica fisica;  
-complementi di chimica industriale;  
-complementi di impianti industriali chimici;  
-calcolo numerico e programmazione (corso speciale per chimici e chimici industriali);  
-didattica chimica;  
-chimica merceologica.  
-Dopo l'art. 154 del titolo XII, e con il conseguente spostamento della numerazione dei titoli e degli articoli successivi, sono inseriti il seguente nuovo titolo con relativi articoli concernenti l'istituzione della scuola di perfezionamento in geografia presso la facolta' di magistero.  
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 122: all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono aggiunte le seguenti:   
   
-TITOLO XIII  
-FACOLTA' DI MAGISTERO  
-Scuola di perfezionamento in geografia  
+Anatomia e istologia patologica;   
+Gerontologia e geriatria;   
+Urologia.   
   
-Art. 155. - La durata del corso e' di due anni.  
-Alla scuola sono ammessi i laureati in materie letterarie, in pedagogia, in lettere, in storia nonche' i laureati in altri corsi, nel cui curriculum risultino superati due esami di profitto in corsi di materie geografiche di durata annuale oppure anche uno se si tratti di insegnamento di durata biennale.  
-Limitatamente all'indirizzo di analisi dell'organizzazione territoriale sono ammessi anche i laureati in economia e commercio, in scienze politiche, in architettura, purche' abbiano superato nel proprio curriculum un esame annuale di materie geografiche.  
-Art. 156. - La scuola si articola in corsi di lezioni, in esercitazioni ed eventuali seminari.  
-E' obbligatoria la frequenza alle lezioni, alle esercitazioni ed ai seminari.  
-Per l'iscrizione al secondo anno e' necessario aver superato almeno due esami.  
-La scuola ha due indirizzi:  
-a) qualificazione didattica;  
-b) analisi dell'organizzazione territoriale.  
-Art. 157. - Gli insegnamenti obbligatori per l'indirizzo di qualificazione didattica sono:  
-1) problemi fondamentali e metodologici di geografia generale;  
-2) geografia politica ed economica;  
-3) geografia regionale;  
-4) didattica della geografia.  
-Gli insegnamenti a scelta per l'indirizzo di qualificazione didattica sono:  
-1) antropologia culturale;  
-2) demografia;  
-3) etnologia;  
-4) geografia fisica;  
-5) sociologia;  
-6) storia della geografia e delle esplorazioni;  
-7) geografia storica.  
-Art. 158. - Gli insegnamenti obbligatori per l'indirizzo di analisi dell'organizzazione territoriale sono:  
-1) problemi fondamentali e metodologici di geografia applicata;  
-2) geografia regionale;  
-3) geografia politica ed economica;  
-4) organizzazione e pianificazione territoriale.  
-Gli insegnamenti a scelta dell'indirizzo di analisi dell'organizzazione territoriale sono:  
-1) demografia;  
-2) economia politica;  
-3) economia e politica agraria;  
-4) economia dei trasporti;  
-5) geografia storica;  
-6) sociologia;  
-7) statistica.  
-Art. 159. - La scuola organizza, almeno per gli insegnamenti fondamentali, corsi trimestrali e semestrali di seminario, affidati, in base a deliberazioni del consiglio di facolta', a ricercatori o cultori notoriamente competenti.  
-Art. 160. - Il diploma menzionera' l'indirizzo seguito.  
-Oltre agli esami negli insegnamenti obbligatori sono richiesti, per l'indirizzo di qualificazione didattica, esami in quattro discipline fra quelle a scelta; per l'indirizzo di analisi dell'organizzazione territoriale, esami in cinque discipline fra quelle a scelta.  
-L'esame di diploma consiste nella presentazione e discussione di una dissertazione scritta in una delle discipline previste per l'indirizzo prescelto, nonche' in prove pratiche che il consiglio della scuola stabilira' a seconda dell'indirizzo.  
-Art. 161. - Il direttore della scuola e' nominato per un biennio dal rettore, su proposta del consiglio di facolta', tra i professori della scuola. La scuola ha un proprio consiglio costituito da tutti i docenti, da un rappresentante per ciascuna delle categorie indicate nei [commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580~art9-com1) e [2 dell'art. 9 del decreto-legge 1 ottobre 1973, n. 580](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580~art9-com2), convertito nella [legge 30 novembre 1973, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766), nonche' da un rappresentante degli studenti iscritti per ciascun indirizzo.  
-Spetta al consiglio della scuola formulare al consiglio della facolta' di magistero le proposte per l'attivazione degli insegnamenti mediante conferimento di incarichi annuali o mutuazione di insegnamenti gia' esistenti presso l'Universita'.  
-Art. 162. - Le tasse, sopratasse e contributi sono gli stessi della facolta' di magistero. Il contributo di esercitazioni viene fissato con la procedura prevista dalla [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).  
+Gli articoli 251, 252, 253, relativi alla scuola di specializzazione in neuropsichiatria infantile, sono abrogati e sostituiti dai seguenti con il relativo spostamento della numerazione degli articoli successivi.   
   
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Dato a Roma, addi' 15 giugno 1977
-
-LEONE MALFATTI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato alla Corte dei conti, addi' 20 ottobre 1977
-
-Registro n. 117 Istruzione, foglio n. 76
+Scuola di specializzazione in neuropsichiatria infantile   
+  
+Art. 251. - Presso l'istituto di clinica delle malattie nervose e mentali e' istituita la scuola di specializzazione in neuropsichiatria infantile che ha lo scopo di conferire adeguata preparazione e competenza teorica e pratica ai laureati in medicina e chirurgia che intendono dedicarsi all'esercizio di tale branca.   
+Art. 252. - La durata del corso di studi e' di quattro anni. Alla scuola possono iscriversi esclusivamente i laureati in medicina e chirurgia. Il direttore della scuola valuta i titoli degli aspiranti e sottopone ciascuno di essi ad un esame preliminare.   
+Il numero massimo degli iscritti non puo' essere superiore a dieci per l'intero corso di studi.   
+Le norme di iscrizione, esami, pagamento tasse, ecc. sono quelle generali delle scuole di specializzazione e di perfezionamento riferite negli articoli da 122 a 137 dello statuto della universita'.   
+Art. 253. - Le materie d'insegnamento sono:   
+1° Anno:   
+1) Anatomia ed embriologia del sistema nervoso;   
+2) Fisiologia del sistema nervoso con particolare riguardo all'eta' evolutiva;   
+3) Genetica;   
+4) Endocrinologia dell'eta' evolutiva ed auxologia;   
+5) Patologia e clinica pediatrica;   
+6) Tecniche di laboratorio.   
+2° Anno:   
+7) Anatomia patologica del sistema nervoso;   
+8) Biochimica patologica del sistema nervoso;   
+9) Psicologia dell'eta' evolutiva;   
+10) Semeiotica e clinica neurologica;   
+11) Semeiotica e clinica pediatrica.   
+3° Anno:   
+12) Psicopatologia dell'eta' evolutiva;   
+13) Semeiotica e clinica neurologica infantile;   
+14) Psicodiagnostica dell'eta' evolutiva;   
+15) Elettrofisiologia;   
+16) Neuroradiologia;   
+17) Neurochirurgia dell'eta' evolutiva;   
+18) Semeiotica e clinica psichiatrica infantile (I).   
+4° Anno:   
+19) Clinica psichiatrica infantile (II);   
+20) Terapia generale delle malattie mentali infantili;   
+21) Psicoterapia dell'eta' evolutiva;   
+22) Foniatria;   
+23) Psicopedagogia;   
+24) Sociologia applicata alla popolazione infantile;   
+25) Legislazione.   
+Tutte le discipline sono svolte sotto forma di lezioni, dimostrazioni pratiche ed illustrazione di casi clinici.   
+Art. 254. - Gli iscritti hanno l'obbligo della frequenza alle lezioni e dell'internato di mesi sei in clinica pediatrica per gli studenti del primo anno, di mesi tre in neurologia e di mesi tre in psichiatria per gli studenti del secondo anno; di mesi sei per gli studenti del terzo anno e di mesi sei per gli studenti del quarto anno in neuropsichiatria infantile.   
+Art. 255. - Gli studenti, a termine di ogni anno di corso, dovranno sostenere i seguenti esami:   
+1° Anno:   
+1) Embriologia ed anatomia del sistema nervoso;   
+2) Fisiologia del sistema nervoso;   
+3) Genetica, endocrinologia ed auxologia;   
+4) Patologia e clinica pediatrica.   
+2° Anno:   
+5) Anatomia e biochimica patologica del sistema nervoso;   
+6) Psicologia dell'eta' evolutiva;   
+7) Semeiotica e clinica neurologica;   
+8) Semeiotica e clinica psichiatrica.   
+3° Anno:   
+9) Semeiotica e clinica neurologica infantile;   
+10) Psicopatologia dell'eta' evolutiva;   
+11) Psicodiagnostica dell'eta' evolutiva.   
+4° Anno:   
+12) Semeiotica e clinica psichiatrica infantile;   
+13) Psicopedagogia;   
+14) Legislazione.   
+Art. 256. - Per ottenere l'iscrizione al 2°, 3° e 4° anno di specializzazione, gli iscritti dovranno aver sostenuto gli esami delle materie prescritte per l'anno precedente, tranne che per la clinica psichiatrica infantile il cui esame va sostenuto al 4° anno.   
+Gli specialisti in clinica delle malattie nervose e mentali o in neurologia o in psichiatria, sono iscritti d'ufficio al 2° anno della scuola e sono esentati dal sostenere gli esami di profitto n. 1), 2), 5), 7), 8) e dall'espletare il periodo di internato in neurologia e psichiatria.   
+Gli specialisti in clinica pediatrica sono iscritti d'ufficio al 2° anno della scuola e sono esentati dal sostenere gli esami di profitto n. 3) e 4) e dall'espletare il periodo di internato del 1° anno.   
+Per conseguire il diploma di specialista in neuropsichiatria infantile gli iscritti, al termine degli esami, dovranno presentare e discutere una dissertazione scritta su un argomento di neuropsichiatria infantile.   
+Gli articoli 257, 258, 259, relativi alla scuola di specializzazione in ematologia clinica e di laboratorio, sono abrogati e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in ematologia clinica e di laboratorio   
+Art. 257. - Presso l'istituto scientifico di medicina interna e' istituita la scuola di specializzazione in ematologia clinica e di laboratorio, la quale ha lo scopo di conferire adeguata preparazione teorica e pratica ai laureati in medicina e chirurgia i quali intendono conseguire il diploma rilasciato dalla scuola stessa.   
+La scuola ha la durata di tre anni.   
+Le norme di iscrizione, gli esami, pagamento tasse e tutte le altre norme generali sono quelle comprese negli articoli da 122 e 137 dello statuto dell'universita'.   
+L'abbreviamento del corso, non superiore ad un anno, puo' essere concesso, su proposta del direttore e con la approvazione della facolta', ai liberi docenti in medicina generale, in clinica pediatrica, in patologia generale ed in anatomia patologica, o a coloro che siano assistenti da almeno tre anni in istituti universitari di medicina generale, pediatria, anatomia patologica e patologia generale.   
+La frequenza e' obbligatoria. Il numero massimo degli iscritti e' di venti complessivamente per tre anni.   
+Art. 258. - Le materie d'insegnamento sono:   
+1° Anno:   
+1) Morfologia e morfogenesi normale e patologica del sangue e degli organi emopoietici;   
+2) Genetica ematologica;   
+3) Fisiopatologia della coagulazione e della emostasi;   
+4) Fisiopatologia ematologica;   
+5) Fisiopatologia del plasma;   
+6) Biochimica ematologica;   
+7) Tecniche di laboratorio inerenti all'ematologia.   
+2° Anno:   
+1) Morfologia e morfogenesi normale e patologica del sangue e degli organi emopoietici (II anno);   
+2) Fisiopatologia ematologica;   
+3) Immunoematologia;   
+4) Anatomia e istologia patologica delle emopatie e fondamenti di oncologia;   
+5) Patologia speciale ematologica;   
+6) Clinica ematologica;   
+7) Tecniche di laboratorio inerenti alla ematologia.   
+3° Anno:   
+1) Clinica ematologica (II anno);   
+2) Nozioni di radiobiologia e di medicina nucleare applicata all'ematologia;   
+3) Radiodiagnostica e radioterapia in clinica ematologica;   
+4) Patologia speciale ematologica;   
+5) Terapia ematologica sistematica;   
+6) Terapia trasfusionale;   
+7) Tecniche di laboratorio inerenti alla ematologia.   
+Tutte le discipline sono svolte sotto forma di lezioni e dimostrazioni pratiche ed illustrazioni di casi clinici.   
+Gli iscritti hanno l'obbligo di frequentare assiduamente per tutto il triennio i corsi e prestare servizio in apposito reparto dell'I.S.M.I. Patologia medica come medici interni con diritto a due mesi di vacanza per ogni anno.   
+Art. 259. - Alla fine del triennio gli allievi che hanno frequentato i corsi saranno ammessi all'esame di diploma, consistente nella presentazione e discussione di una tesi scritta di argomento pertinente alla ematologia, in una prova orale teorica e in una prova pratica.   
+Agli allievi che hanno ottenuto l'approvazione nello esame di diploma verra' rilasciato il diploma di specializzazione in ematologia clinica e di laboratorio, valido a tutti gli effetti di legge.   
+Dopo l'articolo 275 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Anatomia e istologia patologica" e in "Gerontologia e geriatria" e in "Urologia".   
+  
+Scuola di specializzazione in anatomia e istologia patologica   
+  
+Art. 276. - Presso l'istituto di anatomia patologica ha sede la scuola di specializzazione in anatomia ed istologia patologica.   
+La scuola ha la durata di tre anni.   
+Direttore della scuola e' il titolare della cattedra di anatomia e istologia patologica.   
+Sono ammessi alla scuola i laureati in medicina e chirurgia; il numero massimo complessivo degli iscritti e' di quindici per tutti e tre gli anni di corso.   
+L'ammissione al corso avviene per titoli ed esame.   
+Le norme di iscrizione, esami, pagamento tasse, ecc., sono quelle generali delle scuole di specializzazione della facolta' di medicina e chirurgia riferite negli articoli da 122 a 137 dello statuto dell'universita'.   
+Art. 277. - Il piano degli studi contempla i seguenti insegnamenti:   
+1° Anno:   
+Tecnica delle autopsie;   
+Diagnostica anatomo-patologica macroscopica;   
+Anatomia patologica sistematica I;   
+Tecnica istologica e istochimica I.   
+2° Anno:   
+Anatomia patologica sistematica II;   
+Tecnica istologica ed istochimica II;   
+Diagnostica istopatologica I;   
+Elementi di microscopia elettronica.   
+3° Anno:   
+Diagnostica istopatologica II;   
+Diagnostica ematologica;   
+Tecnica e diagnostica citologica;   
+Legislazione sanitaria tanatologica.   
+Gli insegnamenti saranno integrati da seminari e cicli di conferenze nonche' esercitazioni, anche in riferimento a indagini complementari.   
+Art. 278. - Gli iscritti hanno l'obbligo di frequentare l'istituto di anatomia ed istologia patologica.   
+Per il passaggio agli anni successivi e' obbligatorio il superamento di un esame finale per ogni singolo anno.   
+Gli esami delle materie biennali potranno essere sostenuti al termine del biennio.   
+Agli allievi che abbiano ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specialista in anatomia ed istologia patologica valido a tutti gli effetti di legge.   
+  
+Scuola di specializzazione in gerontologia e geriatria   
+  
+Art. 279. - Presso la facolta' di medicina e chirurgia dell'Universita' di Genova e' istituita la scuola di specializzazione in gerontologia e geriatria.   
+La durata del corso e' stabilita in tre anni. Sono ammessi in detta scuola i laureati in medicina e chirurgia in numero complessivo di dodici suddivisi nei tre anni di corso.   
+Le norme per l'iscrizione sono quelle previste per le scuole di specializzazione e perfezionamento riferite negli articoli da 122 a 137 dello statuto dell'universita'.   
+Sara' comunque fatto un colloquio ai candidati alla iscrizione, che dovranno altresi' rispondere alle domande contenute in apposito questionario redatto dal direttore della scuola.   
+Direttore della scuola sara' il professore ufficiale di gerontologia o, in mancanza, altro professore di ruolo di materie mediche.   
+Art. 280. - Per il corso sono previsti dodici insegnamenti, di cui otto annuali e quattro biennali, cosi' ripartiti:   
+1° Anno:   
+Biologia della senescenza;   
+Fisiopatologia della senescenza I;   
+Semeiologia della senescenza I;   
+Anatomia patologica I;   
+Farmacologia e farmacoterapia.   
+2° Anno:   
+Fisiopatologia della senescenza II;   
+Semeiologia della senescenza II;   
+Anatomia patologica II;   
+Clinica geriatrica e terapia I;   
+Chirurgia geriatrica;   
+Radiologia e radioterapia;   
+Neurologia.   
+3° Anno:   
+Clinica geriatrica e terapia II;   
+Tecniche di riabilitazione;   
+Psichiatria;   
+Medicina sociale.   
+Alla fine di ogni anno di corso saranno sostenuti gli esami nelle materie corrispondenti, per ottenere l'iscrizione all'anno successivo.   
+Gli iscritti alla scuola sono tenuti a seguire le lezioni teoriche, le esercitazioni e gli internati presso la sede della scuola e presso altre istituzioni che d'accordo col direttore della scuola siano disponibili in tal senso.   
+Art. 281. - Alla fine del triennio gli specializzandi sosterranno la discussione di una dissertazione scritta e gli esami di diploma.   
+Agli iscritti che avranno superato tali prove sara' rilasciato un diploma di specializzazione in gerontologia e geriatria valido a tutti gli effetti legali.   
+  
+Scuola di specializzazione in urologia   
+  
+Art. 282. - La scuola di specializzazione in urologia ha sede presso la cattedra di urologia.   
+Direttore della scuola e' il titolare della cattedra di urologia.   
+La durata del corso di studi e' di tre anni.   
+Il numero complessivo degli iscritti che potranno essere ammessi alla scuola e' di trenta per l'intero corso degli studi.   
+Per l'iscrizione e' richiesto, oltre al diploma di laurea in medicina e chirurgia o la specializzazione in chirurgia generale o la frequenza per almeno due anni presso un reparto universitario od ospedaliero di chirurgia generale o di urologia.   
+I candidati dovranno sostenere un esame di ammissione che dimostri la loro preparazione culturale di base.   
+Art. 283. - Potranno essere concesse abbreviazioni di un anno su proposta del direttore della scuola e dopo approvazione della facolta' medica limitatamente a coloro i quali dimostrino di avere prestato servizio in qualita' di aiuto o assistente per almeno due anni in reparti di chirurgia od urologia universitari od ospedalieri regionali o provinciali.   
+Coloro che eventualmente usufruissero della agevolazione di cui sopra sono sempre tenuti a sostenere gli esami annuali di profitto ed a pagare per intero i contributi anche per l'anno da cui sono stati esonerati.   
+La frequenza alle lezioni ufficiali, alle esercitazioni, alle sedute operatorie e corsie e' obbligatoria.   
+Al termine di ciascun anno di corso gli specializzandi dovranno sostenere un esame di profitto alle materie di cui all'articolo 285.   
+Art. 284. - Superati tutti gli esami di profitto i candidati dovranno sostenere un esame di diploma che consistera' nella discussione di una dissertazione originale scritta. A coloro che abbiano superato tale esame verra' rilasciato il diploma di specialista in urologia valido a tutti gli effetti di legge.   
+Le norme per l'ammissione alla scuola (a parte l'obbligo di presentare copia del diploma di specializzazione in chirurgia generale o l'attestato di frequenza per almeno due anni presso reparti universitari od ospedalieri di chirurgia generale o urologia) per le tasse, gli esami, le iscrizioni, i trasferimenti, le commissioni e per tutto quanto non sia stato contemplato nello statuto di questa scuola sono quelle generali per le scuole di specializzazione e di perfezionamento di cui agli articoli da 122 a 137 dello statuto dell'universita'.   
+Art. 285. - Elenco degli insegnamenti:   
+1° Anno:   
+1) Anatomia descrittiva e topografica dell'apparato uro-genitale;   
+2) Fisiologia dell'apparato uro-genitale;   
+3) Patologia dell'apparato urinario e genitale maschile;   
+4) Le nefropatie mediche;   
+5) Semeiotica dell'apparato uro-genitale (funzionale e di laboratorio);   
+6) Tecniche strumentali e semeiologia endoscopica;   
+7) Batteriologia in urologia;   
+8) Farmacoterapia delle affezioni uro-genitali.   
+2° Anno:   
+1) Patologia dell'apparato urinario e genitale maschile;   
+2) Clinica urologica;   
+3) Patologia genitale femminile di interesse urologico;   
+4) Anatomia ed istologia patologica dell'apparato uro-genitale;  
+5) Semeiotica dell'apparato uro-genitale (funzionale e di laboratorio);   
+6) Tecniche strumentali e semeiologia endoscopica:   
+7) Anatomia chirurgica dell'apparato uro-genitale;   
+8) Radiologia dell'apparato urinario e genitale;   
+9) Le affezioni cutanee e veneree nei riguardi della urologia;   
+10) L'anestesiologia ed il trattamento pre e post-operatorio del malato urologico;   
+11) Nefrologia chirurgica.   
+3° Anno:   
+1) Clinica urologica;   
+2) Patologia e clinica urologica infantile;   
+3) Radiologia dell'apparato urinario e genitale;   
+4) Tecniche operatorie sull'apparato urinario e genitale;   
+5) Urologia ginecologica.   
+Art. 286. - Elenco degli esami:   
+1° Anno:   
+1) Anatomia e fisiologia dell'apparato uro-genitale;   
+2) Le nefropatie mediche;   
+3) Batteriologia in urologia e farmacoterapia delle affezioni uro-genitali.   
+2° Anno:   
+1) Patologia dell'apparato urinario e genitale maschile: anatomia e istologia patologica;   
+2) Semeiotica urologica (funzionale e di laboratorio) e tecnica strumentale e semeiologia endoscopica;   
+3) Patologia genitale femminile di interesse urologico e affezioni cutanee e veneree nei riguardi dell'urologia;   
+4) Anatomia chirurgica dell'apparato uro-genitale; anestesia e trattamento pre e post-operatorio del malato urologico;   
+5) Nefrologia chirurgica;   
+3° Anno:   
+1) Clinica urologica;   
+2) Radiologia dell'apparato urinario e genitale;   
+3) Interventi e procedimenti operatori sull'apparato uro-genitale;   
+4) Patologia e clinica urologica infantile;   
+5) Urologia ginecologica.   
+  
+Il presente decreto, munito del sigillo, dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 16 maggio 1972   
+  
+LEONE   
+  
+MISASI   
+  
+Visto, il Guardasigilli: GONELLA   
+Registrato alla Corte dei conti, addi' 25 luglio 1972   
+Atti del Governo, registro n. 250, foglio n. 56. - CARUSO   

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 dicembre 1954 n. 1354
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1985 n. 472
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 dicembre 1954 n. 1354
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1985 n. 472
+=============================================================
 
 Autorizzazione all'Universita' degli studi di Roma ad accettare una donazione.
 ------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-1354. Decreto del Presidente della Repubblica 4 dicembre 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Roma viene autorizzata ad accettare la donazione della somma di lire 1.319.615, disposta in suo favore dal Comitato per le onoranze al compianto prof. Guido De Ruggiero, per l'istituzione, con la rendita del capitale donato, di una borsa di studio da conferire ogni due anni intitolata "Borsa di perfezionamento Guido De Ruggiero".  
+472. Decreto del Presidente della Repubblica 12 giugno 1985, col quale, sulla proposta del Ministro della pubblica istruzione, l'Universita' di Roma viene autorizzata ad accettare il legato, consistente nella proprieta' di un negozio sito in Roma, via del Babuino, 52-52/A, disposto dalla sig.ra Caterina Tomassoni ved.  
+Chisesi, con atto pubblico 10 giugno 1981, n. 6223 di repertorio, a rogito dott.ssa Maria Luisa Matteo, conservatore superiore all'uopo delegato con provvedimento approvato dal presidente del [tribunale di Roma il 28 marzo 1981](https://e-justice.europa.eu/ecli/ECLI::::).  
   
-Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 5 febbraio 1955  
-Atti del Governo, registro n. 88, foglio n. 118. - CARLOMAGNO
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 9 settembre 1985  
+Registro n. 60 Istruzione, foglio n. 175

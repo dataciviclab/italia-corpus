@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1955 n. 179
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 febbraio 1955 n. 232
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1955 n. 179
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 febbraio 1955 n. 232
+===============================================================
 
 Autorizzazione alla Cassa scolastica dello statale Istituto tecnico commerciale e per geometri "J. Barozzi" di Modena ad accettare una donazione.
 -------------------------------------------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-179. Decreto del Presidente della Repubblica 22 gennaio 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dello statale Istituto tecnico commerciale e per geometri "J. Barozzi" di Modena viene autorizzata, ad accettare la, donazione di nominali L. 200.000 in titoli di Stato, disposta al fine di istituire, col relativo reddito, una borsa di studio annuale intitolata al ragioniere Renzo Ghittoni.  
+232. Decreto del Presidente della Repubblica 4 febbraio 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dello statale Istituto tecnico commerciale e per geometri "J. Barozzi" di Modena viene autorizzata ad accettare la donazione di nominali L. 20.000 in titoli di Stato, disposta al fine di istituire, col relativo reddito, un premio di studio quinquennale intitolato "Antonio Rosa".  
   
 Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 29 marzo 1955  
-Atti dei Governo, registro n. 89, foglio n. 197. - CARLOMAGNO
+Registrato alla Corte dei conti, addi' 2 aprile 1955  
+Atti del Governo, registro n. 90, foglio n. 6. - CARLOMAGNO

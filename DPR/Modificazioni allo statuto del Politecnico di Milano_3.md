@@ -1,93 +1,110 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 settembre 1969 n. 1338
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1955 n. 624
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 settembre 1969 n. 1338
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1955 n. 624
+=============================================================
 
 Modificazioni allo statuto del Politecnico di Milano.
 -----------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto del Politecnico di Milano, approvato con [regio decreto 20 aprile 1939, n. 1028](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1028), e modificato con [regio decreto 11 luglio 1942, n. 921](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-07-11;921) e con [decreti del Presidente della Repubblica 27 ottobre 1951, n. 1802](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1802) e [14 settembre 1954, n. 1201](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1201);
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dei Politecnico anzidetto;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto del Politecnico di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Dopo l'art. 13, e' aggiunto il seguente nuovo articolo, con il conseguente spostamento della numerazione degli articoli successivi.
+
+Art. 14. - Nel triennio di studi di applicazione del corso di laurea in architettura solo istituiti, ai sensi della [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312), i seguenti nuovi insegnamenti complementari di durata annuale:
+
+1) Architettura sociale;
+
+2) Allestimento e museografia;
+
+3) Arte e tecnica del serramento;
+
+4) Unificazione edilizia e prefabbricazione;
+
+5) Complementi di urbanistica.
+
+L'art. 27 e' sostituito dal seguente:
+
+Le tasse e soprattasse dei singoli corsi di perfezionamento sono determinate ogni anno accademico con deliberazione del Consiglio di amministrazione su proposta del Consiglio della facolta' di ingegneria approvata dal Senato accademico. I contributi sono stabiliti ogni anno accademico dal Consiglio di amministrazione, su proposta del Senato accademico, udita la Facolta' e scuola.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 11 aprile 1955
+
+EINAUDI
+
+ERMINI
+
+Visto, il Guardasigilli: DE PIETRO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 1 agosto 1955 Atti del Governo, registro n. 92, foglio n. 2. - CARLOMAGNO
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto del Politecnico di Milano, approvato con [regio decreto 20 aprile 1939, n. 1028](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1028), e modificato con [regio decreto 11 luglio 1942, n. 921](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-07-11;921), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche del politecnico anzidetto;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto del Politecnico di Milano, approvato con [regio decreto 20 aprile 1939, n. 1028](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1028), e modificato con [regio decreto 11 luglio 1942, n. 921](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-07-11;921) e con [decreti del Presidente della Repubblica 27 ottobre 1951, n. 1802](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1802) e [14 settembre 1954, n. 1201](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1201);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dei Politecnico anzidetto;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto del Politecnico di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto del Politecnico di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'articolo 30 sono aggiunti i seguenti nuovi articoli, relativi all'istituzione dell'istituto speciale di tecnologie industriali meccaniche ISTIM.   
+Dopo l'art. 13, e' aggiunto il seguente nuovo articolo, con il conseguente spostamento della numerazione degli articoli successivi.  
+Art. 14. - Nel triennio di studi di applicazione del corso di laurea in architettura solo istituiti, ai sensi della [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312), i seguenti nuovi insegnamenti complementari di durata annuale:  
+1) Architettura sociale;  
+2) Allestimento e museografia;  
+3) Arte e tecnica del serramento;  
+4) Unificazione edilizia e prefabbricazione;  
+5) Complementi di urbanistica.  
+L'art. 27 e' sostituito dal seguente:  
   
-TITOLO IV.   
-Scuola per istruzione superiore in tecnologie industriali meccaniche (ISTIM)   
-(Scuola diretta a fini speciali)   
-  
-Art. 31. - Presso la facolta' di ingegneria e' istituita una "Scuola per istruzione superiore in tecnologie industriali meccaniche ISTIM" (scuola diretta a fini speciali) ai sensi dell'[art. 20, terzo comma, lettera a), del testo unico del 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20-com3-leta).   
-La scuola si propone di formare giovani preparati nel campo delle tecnologie industriali meccaniche al fine di organizzare e seguire la produzione nelle imprese industriali.   
-La scuola conferisce il diploma in tecnologie industriali meccaniche.   
-Art. 32. - La scuola ha sede propria e gode di autonomia amministrativa, finanziaria e didattica in conformita' alla convenzione stipulata fra il politecnico e l'ente morale G.  
-Feltrinelli quale ente promotore della scuola.   
-Art. 33. - La scuola ha un proprio consiglio di direzione che e' composto di tre membri:   
-il direttore della scuola che e' nominato dal rettore del politecnico su proposta dell'ente morale G. Feltrinelli approvata dalla facolta' di ingegneria del Politecnico di Milano;   
-un membro nominato dal rettore del Politecnico di Milano su proposta del direttore dell'istituto di meccanica e costruzione delle macchine del Politecnico di Milano;   
-un membro nominato dal consiglio di amministrazione dell'ente morale G. Feltrinelli.   
-Art. 34. - Il consiglio di direzione e' l'organo direttivo della scuola: il direttore ne attua le decisioni.   
-Il consiglio di direzione dura in carica tre anni e i suoi membri possono essere riconfermati.   
-Art. 35. - I mezzi finanziari per il funzionamento della scuola sono reperiti dall'ente morale G. Feltrinelli ed amministrati dalla scuola ai sensi dell'art. 32.   
-Art. 36. - Il personale insegnante della scuola e' nominato per la durata di un anno dal rettore su proposta del consiglio di direzione della scuola approvata dal consiglio di facolta' di ingegneria del politecnico.   
-Art. 37. - I professori cosi' nominati unitamente ad un rappresentante eletto dagli studenti per ogni anno di corso formano il consiglio didattico della scuola. Tale consiglio e' diretto dal direttore della scuola, e delibera in merito al coordinamento didattico e alle questioni disciplinari.   
-Art. 38. - Il corso di diploma ha la durata di tre anni e comprende anche periodi di stage in Italia e all'estero. I singoli insegnamenti possono essere a durata annuale o semestrale. Gli esami di profitto si svolgono normalmente in tre sessioni: una invernale, una estiva ed una di ricupero autunnale.   
-Gli esami degli insegnamenti svolti nel primo semestre possono essere tenuti nella sessione invernale alla fine del semestre stesso.   
-Gli allievi che alla fine della sessione autunnale non hanno in arretrato complessivamente piu' di due esami possono iscriversi al corso successivo. Se hanno in arretrato complessivamente piu' di due esami possono iscriversi come fuori corso senza obbligo di frequenza e senza borsa di studio, al massimo per un anno.   
-Gli allievi che hanno superato tutti gli esami di profitto prescritti sono ammessi all'esame di diploma.   
-Art. 39. - L'esame di diploma consiste in un colloquio finale sulle materie del corso davanti ad una commissione composta di almeno cinque professori della scuola nominati dal consiglio di direzione e da due membri esterni nominati uno dal consiglio di amministrazione dell'ente morale G. Feltrinelli ed uno dal preside della facolta' di ingegneria del Politecnico di Milano.   
-Il voto di diploma tiene conto della media degli esami di profitto, delle votazioni riportate anche nei periodi di stage e del risultato del colloquio finale. Nel diploma risulta anche se lo studente ha superato l'esame del Lower Certificate di Cambridge o titolo equivalente.   
-Il diploma e' conferito dal rettore del Politecnico di Milano.   
-Art. 40. - I titoli di ammissione alla scuola sono i diplomi di perito meccanico, metalmeccanico, termotecnico, elettrotecnico ed elettronico. Ogni anno il consiglio di facolta' di ingegneria del Politecnico di Milano su proposta dell'ente morale G. Feltrinelli delibera il numero massimo degli allievi ammissibili al primo anno.  
-L'ammissione viene decisa dal consiglio di direzione della scuola in base al curriculum scolastico per l'ottenimento del diploma di perito ed al risultato di un colloquio secondo modalita' definite anno per anno dal consiglio di direzione della scuola e pubblicate nel manifesto annuale.   
-Art. 41. - Le materie di insegnamento sono:   
-Matematica;   
-Chimica e metallurgia;   
-Meccanica;   
-Tempi e metodi e cicli di lavorazione;   
-Elettrotecnica e misure elettriche, oppure tecnologia e disegno meccanico;   
-Inglese;   
-Elettronica;   
-Fisica tecnica;   
-Trattamenti termici;   
-Lavorazioni meccaniche a caldo;   
-Lavorazioni meccaniche a freddo;   
-Misure meccaniche;   
-Calcolatori ed applicazioni;   
-Automazione;   
-Statistica e controllo statistico di qualita';   
-Organizzazione e fattore umano del lavoro;   
-Economia e ricerca operativa;   
-Tribologia e manutenzione.   
-Tali materie potranno essere anche divise in piu' corsi a durata semestrale o annuale con insegnanti diversi nello stesso od in diversi anni di corso.   
-Ogni anno il consiglio della facolta' di ingegneria del Politecnico di Milano su proposta del consiglio di direzione della scuola delibera il piano di studio, ossia le ore da assegnare alle materie di insegnamento, la loro durata semestrale o annuale, e la loro eventuale suddivisione in piu' corsi, ed i programmi di insegnamento.   
-Art. 42. - Gli studenti sono tenuti, per la frequenza dei corsi, a pagare la tassa di iscrizione e frequenza di L. 50.000 e sono tenuti a pagare la tassa erariale di diploma di L. 6.000.   
-Art. 43. - Norme transitorie. - Nel 1969-70 saranno ammessi direttamente al secondo anno ed al terzo del presente corso di diploma gli allievi che hanno superato rispettivamente il primo e il secondo anno dello attuale corso ISTIM organizzato dall'ente morale G. Feltrinelli.   
+Le tasse e soprattasse dei singoli corsi di perfezionamento sono determinate ogni anno accademico con deliberazione del Consiglio di amministrazione su proposta del Consiglio della facolta' di ingegneria approvata dal Senato accademico. I contributi sono stabiliti ogni anno accademico dal Consiglio di amministrazione, su proposta del Senato accademico, udita la Facolta' e scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 settembre 1969
+### Dato a Roma, addi' 11 aprile 1955
 
-SARAGAT FERRARI AGGRADI
+EINAUDI ERMINI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: DE PIETRO
 
-Registrato alla Corte dei conti, addi' 15 luglio 1970
+Registrato alla Corte dei conti, addi' 1 agosto 1955
 
-Atti del Governo, registro n. 236, foglio n. 162. - CARUSO
+Atti del Governo, registro n. 92, foglio n. 2. - CARLOMAGNO

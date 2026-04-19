@@ -1,249 +1,138 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 luglio 1976 n. 739
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 807
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 luglio 1976 n. 739
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 807
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Riconosciuta la opportunita' di apportare la rettifica al [decreto del Presidente della Repubblica 8 ottobre 1973, n. 1149](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-10-08;1149), relativo alla creazione degli istituti presso la facolta' di medicina e chirurgia, in quanto non e' stato indicato chiaramente a quale delle due facolta' di medicina e chirurgia appartengono gli istituti costituiti;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-L'art. 131 (ex 124), relativo alla creazione degli istituti annessi alle facolta' di medicina e chirurgia, e' rettificato nel modo seguente:
-
-Art. 131 - all'elenco degli istituti annessi alla prima facolta' di medicina e chirurgia sono aggiunti i seguenti:
-
-1) istituto di anatomia umana normale;
-
-2) istituto di anatomia chirurgica e corso di operazioni;
-
-3) istituto di fisiologia umana;
-
-4) istituto di patologia generale;
-
-5) istituto di chimica biologica;
-
-6) istituto di microbiologia;
-
-7) istituto di farmacologia;
-
-8) istituto di patologia speciale medica e metodologia clinica;
-
-9) istituto di patologia speciale chirurgica e propedeutica clinica;
-
-10) istituto di anatomia e istologia patologica;
-
-11) istituto di clinica otorinolaringoiatrica;
-
-12) istituto di clinica medica generale e terapia medica;
-
-13) istituto di clinica chirurgica generale e terapia chirurgica;
-
-14) istituto di clinica pediatrica;
-
-15) istituto di clinica ostetrica e ginecologica;
-
-16) istituto di igiene;
-
-17) istituto di medicina legale e delle assicurazioni;
-
-18) istituto di clinica delle malattie nervose e mentali;
-
-19) istituto di clinica dermosifilopatica;
-
-20) istituto di clinica oculistica;
-
-21) istituto di clinica odontoiatrica e stomatologica;
-
-22) istituto di radiologia;
-
-23) istituto di puericultura;
-
-24) istituto di semeiotica medica;
-
-25) istituto di tisiologia;
-
-26) istituto di clinica delle malattie infettive;
-
-27) istituto di clinica delle malattie tropicali e subtropicali;
-
-28) istituto di medicina del lavoro;
-
-29) istituto di clinica ortopedica e traumatologica dell'apparato locomotore;
-
-30) istituto di psicologia;
-
-31) istituto di semeiotica chirurgica;
-
-32) istituto di anatomia topografica;
-
-33) istituto di chirurgia pediatrica;
-
-34) istituto per lo studio delle ultrastrutture di interesse biologico;
-
-35) istituto di chirurgia d'urgenza;
-
-36) istituto di chirurgia sperimentale;
-
-37) istituto di istituzioni di patologia generale;
-
-38) istituto di anestesiologia e rianimazione;
-
-39) istituto di gerontologia e geriatria;
-
-40) istituto di neurochirurgia;
-
-41) istituto di istologia e embriologia generale;
-
-42) istituto di medicina preventiva dei lavoratori e psicotecnica.
-
-Inoltre, dopo l'art. 146, e con il conseguente spostamento della numerazione degli articoli successivi, e' aggiunto il seguente nuovo articolo relativo alla creazione degli istituti presso la seconda facolta' di medicina e chirurgia.
-
-Art. 147. - Sono costituiti presso la seconda facolta' di medicina e chirurgia i seguenti istituti:
-
-1) istituto di clinica medica;
-
-2) istituto di patologia medica;
-
-3) istituto di clinica chirurgica;
-
-4) istituto di patologia chirurgica;
-
-5) istituto di clinica ostetrica e ginecologica;
-
-6) istituto di patologia generale;
-
-7) istituto di fisiologia umana;
-
-8) istituto di anatomia patologica;
-
-9) istituto di clinica ortopedica;
-
-10) istituto di clinica oculistica;
-
-11) istituto di clinica delle malattie nervose e mentali;
-
-12) istituto di farmacologia;
-
-13) istituto di chimica biologica.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 13 luglio 1976
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 29 ottobre 1976 Atti di Governo, registro n. 11, foglio n. 4
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Riconosciuta la opportunita' di apportare la rettifica al [decreto del Presidente della Repubblica 8 ottobre 1973, n. 1149](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-10-08;1149), relativo alla creazione degli istituti presso la facolta' di medicina e chirurgia, in quanto non e' stato indicato chiaramente a quale delle due facolta' di medicina e chirurgia appartengono gli istituti costituiti;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 131 (ex 124), relativo alla creazione degli istituti annessi alle facolta' di medicina e chirurgia, e' rettificato nel modo seguente:  
-Art. 131 - all'elenco degli istituti annessi alla prima facolta' di medicina e chirurgia sono aggiunti i seguenti:  
-1) istituto di anatomia umana normale;  
-2) istituto di anatomia chirurgica e corso di operazioni;  
-3) istituto di fisiologia umana;  
-4) istituto di patologia generale;  
-5) istituto di chimica biologica;  
-6) istituto di microbiologia;  
-7) istituto di farmacologia;  
-8) istituto di patologia speciale medica e metodologia clinica;  
-9) istituto di patologia speciale chirurgica e propedeutica clinica;  
-10) istituto di anatomia e istologia patologica;  
-11) istituto di clinica otorinolaringoiatrica;  
-12) istituto di clinica medica generale e terapia medica;  
-13) istituto di clinica chirurgica generale e terapia chirurgica;  
-14) istituto di clinica pediatrica;  
-15) istituto di clinica ostetrica e ginecologica;  
-16) istituto di igiene;  
-17) istituto di medicina legale e delle assicurazioni;  
-18) istituto di clinica delle malattie nervose e mentali;  
-19) istituto di clinica dermosifilopatica;  
-20) istituto di clinica oculistica;  
-21) istituto di clinica odontoiatrica e stomatologica;  
-22) istituto di radiologia;  
-23) istituto di puericultura;  
-24) istituto di semeiotica medica;  
-25) istituto di tisiologia;  
-26) istituto di clinica delle malattie infettive;  
-27) istituto di clinica delle malattie tropicali e subtropicali;  
-28) istituto di medicina del lavoro;  
-29) istituto di clinica ortopedica e traumatologica dell'apparato locomotore;  
-30) istituto di psicologia;  
-31) istituto di semeiotica chirurgica;  
-32) istituto di anatomia topografica;  
-33) istituto di chirurgia pediatrica;  
-34) istituto per lo studio delle ultrastrutture di interesse biologico;  
-35) istituto di chirurgia d'urgenza;  
-36) istituto di chirurgia sperimentale;  
-37) istituto di istituzioni di patologia generale;  
-38) istituto di anestesiologia e rianimazione;  
-39) istituto di gerontologia e geriatria;  
-40) istituto di neurochirurgia;  
-41) istituto di istologia e embriologia generale;  
-42) istituto di medicina preventiva dei lavoratori e psicotecnica.  
-Inoltre, dopo l'art. 146, e con il conseguente spostamento della numerazione degli articoli successivi, e' aggiunto il seguente nuovo articolo relativo alla creazione degli istituti presso la seconda facolta' di medicina e chirurgia.  
-Art. 147. - Sono costituiti presso la seconda facolta' di medicina e chirurgia i seguenti istituti:  
-1) istituto di clinica medica;  
-2) istituto di patologia medica;  
-3) istituto di clinica chirurgica;  
-4) istituto di patologia chirurgica;  
-5) istituto di clinica ostetrica e ginecologica;  
-6) istituto di patologia generale;  
-7) istituto di fisiologia umana;  
-8) istituto di anatomia patologica;  
-9) istituto di clinica ortopedica;  
-10) istituto di clinica oculistica;  
-11) istituto di clinica delle malattie nervose e mentali;  
-12) istituto di farmacologia;  
-13) istituto di chimica biologica.  
+Gli articoli 382, 383 e 384, relativi alla "Scuola di specializzazione in dermatologia e sifilografia" che muta la denominazione in quella di "Scuola di specializzazione in clinica dermosifilopatica", sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in clinica dermosifilopatica  
+  
+Art. 382. - La scuola ha la durata di tre anni.  
+Il numero degli iscritti alla scuola e' limitato ad otto per ogni anno di corso.  
+Art. 383. - Le materie di studio saranno quelle sotto indicate distribuite per ognuno dei tre anni di corso:  
+1° Anno:  
+Anatomia e istologia normale della cute;  
+Fisiologia della cute e degli annessi cutanei;  
+Anatomia e fisiologia dell'apparato genitale;  
+Microbiologia e parassitologia applicata;  
+Tecnica di laboratorio con particolare riferimento alla sierologia applicata;  
+Semeiotica dermatologica e venereologica.  
+2° Anno:  
+Patologia delle malattie cutanee;  
+Patologia delle infezioni sessuali;  
+Anatomia e istologia patologica della cute;  
+Anatomia patologica delle malattie veneree e sessuali;  
+Dermatosi allergiche e professionali;  
+Angiologia;  
+Sessuologia.  
+3° Anno:  
+Clinica delle malattie cutanee;  
+Clinica delle infezioni sessuali;  
+Farmacologia e terapia medicamentosa;  
+Fisioterapia dermatologica;  
+Cosmetologia;  
+Chirurgia plastica riparatrice;  
+Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.  
+Art. 384. - Gli esami di profitto degli specializzandi verranno dati in tre gruppi ed in tre sessioni distinte, ogni gruppo comprendente le materie proprie di ciascun anno di studio.  
+L'esame di diploma consistera' nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato 24 ore prima della prova.  
+Gli articoli 392, 393 e 394, relativi alla "Scuola di specializzazione in igiene generale e speciale" che muta la denominazione in quella di "Scuola di specializzazione in igiene e medicina preventiva" sono abrogati e sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi:  
+  
+Scuola di specializzazione in igiene e medicina preventiva  
+  
+Art. 392. - La scuola di specializzazione in igiene e medicina preventiva ha un triplice orientamento:  
+a) Sanita' pubblica;  
+b) Laboratorio;  
+c) Igiene, tecnica e direzione ospedaliera.  
+Il corso di studi ha la durata di tre anni e consiste in un biennio propedeutico completato da un terzo anno con differente orientamento.  
+L'ammissione e' limitata ai laureati in medicina e chirurgia e, all'atto dell'iscrizione, gli aspiranti devono precisare l'orientamento specialistico da loro prescelto.  
+Art. 393. - Orientamento degli studi.  
+Biennio propedeutico.  
+1° Anno:  
+Metodologia statistica e biometria;  
+Educazione sanitaria;  
+Psicologia;  
+Microbiologia;  
+Parassitologia;  
+Epidemiologia e profilassi generale.  
+2° Anno:  
+Patologia e clinica delle malattie infettive;  
+Epidemiologia e profilassi delle malattie infettive;  
+Patologia e clinica delle malattie non infettive di importanza sociale;  
+Epidemiologia e profilassi delle malattie non infettive di importanza sociale;  
+Demografia e statistica sanitaria;  
+Legislazione e organizzazione sanitaria.  
+3° Anno, con orientamento di sanita' pubblica:  
+Approvvigionamento idrico: raccolta e smaltimento dei rifiuti liquidi e solidi: inquinamenti atmosferici;  
+Igiene edilizia e urbanistica;  
+Igiene dell'alimentazione;  
+Igiene e medicina scolastica;  
+Igiene ospedaliera;  
+Servizi di sanita' pubblica.  
+3° Anno, con orientamento di laboratorio:  
+Microscopia applicata all'igiene;  
+Microbiologia applicata all'igiene;  
+Chimica clinica;  
+Accertamento diagnostico delle malattie batteriche e parassitarie;  
+Accertamento diagnostico delle malattie virali;  
+Nozioni di anatomia e istologia patologica.  
+3° Anno, con orientamento di igiene, tecnica e direzione ospedaliera:  
+Storia degli ospedali e principi metodologici dell'assistenza ospedaliera;  
+Igiene e tecnica delle costruzioni ospedaliere, arredamento e impianti sanitari;  
+Organizzazione e funzione degli ospedali generali e speciali;  
+Diritto amministrativo e legislazione ospedaliera;  
+Igiene dell'alimentazione, ispezione degli alimenti e dietologia ospedaliera;  
+Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico;  
+Selezione e istruzione professionale del personale ospedaliero.  
+Gli allievi dovranno inoltre frequentare i seguenti corsi complementari e sostenere i relativi esami:  
+Primo anno: chimica applicata all'igiene.  
+Secondo anno: fisica applicata all'igiene.  
+Terzo anno, con orientamento di sanita' pubblica: malattie professionali e loro prevenzione.  
+Terzo anno, con orientamento di laboratorio: fondamenti chimico-fisici delle tecniche di laboratorio.  
+Terzo anno, con orientamento di igiene, tecnica e direzione ospedaliera; Gerontologia e geriatria.  
+I corsi saranno completati da esercitazioni pratiche e da conferenze.  
+Per ottenere l'iscrizione all'anno successivo e' obbligatorio aver sostenuto alla fine di ogni anno gli esami previsti dal piano di studi.  
+Alla fine del corso gli iscritti saranno sottoposti agli esami di diploma consistenti in tre prove:  
+una prova pratica, riguardante le materie per le quali nei tre anni si sono tenute esercitazioni pratiche;  
+una prova orale su argomenti sviluppati nel corso della specializzazione;  
+la discussione di una dissertazione scritta, precedentemente depositata alla segreteria della facolta' di medicina.  
+Art. 394. - Il numero degli allievi da ammettere ogni anno accademico non puo' essere superiore a quindici per ogni orientamento specialistico.  
+L'ammissione alla scuola viene regolata da un esame scritto vertente su un tema di epidemiologia e igiene generale e speciale.  
+Art. 395. - Non sono consentite abbreviazioni di corso.  
+Il personale medico di ruolo degli istituti universitari, dell'Amministrazione sanitaria, degli uffici comunali di igiene, dei laboratori provinciali e ospedalieri, delle direzioni sanitarie degli ospedali potra' ottenere l'iscrizione al secondo anno di corso, previo parere favorevole della facolta' su proposta del direttore della scuola. Tale iscrizione non comporta l'esonero dagli esami nelle materie del primo anno ne' dal pagamento delle tasse relative.  
+Gli specialisti in igiene e medicina preventiva in uno dei tre orientamenti, possono accedere ad altro orientamento con la convalida del biennio propedeutico.  
+Gli specialisti in igiene generale speciale, o titolo equipollente iscritti alla scuola di specializzazione in igiene e medicina preventiva, possono ottenere la convalida di esami gia' sostenuti che rientrino nel presente ordinamento di studi, previo parere favorevole del direttore della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 luglio 1976
+### Dato a Roma, addi' 22 settembre 1972
 
-LEONE MALFATTI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 29 ottobre 1976
+Registrato alla Corte dei conti, addi' 16 dicembre 1972
 
-Atti di Governo, registro n. 11, foglio n. 4
+Atti di Governo, registro n. 254, foglio n. 29. - CARUSO

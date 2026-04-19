@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 novembre 1974 n. 799
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 maggio 1968 n. 755
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 novembre 1974 n. 799
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 maggio 1968 n. 755
+=============================================================
 
 Autorizzazione all'Automobile club di Modena ad acquistare un immobile.
 -----------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-799. Decreto del Presidente della Repubblica 7 novembre 1974, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile club di Modena viene autorizzato ad acquistare dalla Societa' azionaria immobiliare Modenese - S.A.I.M. - Societa' per azioni, in Modena, in liquidazione, per il prezzo di L. 8.000.000, un immobile sito in Modena, via Mare Adriatico n. 141-143, della superficie complessiva di mq 720 e individuato nel nuovo catasto edilizio urbano di Modena alla partita 20588, mappale n. 4737/1 (ora mappale 4737) da adibire ad archivio e magazzino.  
+755. Decreto del Presidente della Repubblica 8 maggio 1968, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile club di Modena viene autorizzato ad acquistare, in proprieta', dalla societa' in accomandita semplice "Edilcarpi" di Corghi Remo e C., con sede in Carpi, per il prezzo di lire 9.950.000, l'appezzamento di terreno sito in Carpi, esteso mq. 750, in catasto al foglio n. 116, mappale 7017-b, are 7,50, per costruirvi una stazione di rifornimento carburanti.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 1 febbraio 1975  
-Atti di Governo, registro n. 8, foglio n. 98
+Registrato alla Corte dei conti, addi' 25 giugno 1968  
+Atti del Governo, registro n. 220, foglio n. 85. - GRECO

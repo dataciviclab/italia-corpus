@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 523
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 275
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 523
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 275
+============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Chieti.
 ------------------------------------------------------------------
@@ -10,7 +10,9 @@ Modificazione allo statuto dell'Universita' degli studi di Chieti.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Chieti, approvato con [decreto del Presidente della Repubblica 8 maggio 1965, n. 1007](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-05-08;1007), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Chieti, approvato con decreto del Presidente della Repubblica 27 ottobre 1983, in corso di registrazione;
+
+Veduto lo statuto della libera Universita' di Chieti, approvato con [decreto del Presidente della Repubblica 8 maggio 1965, n. 1007](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-05-08;1007);
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -24,34 +26,37 @@ Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http:
 
 Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+Considerato che il citato decreto del Presidente della Repubblica 27 ottobre 1983 dispone che l'approvazione delle norme statutarie relative alla facolta' di lingue e letterature straniere moderne avverra' con successivo provvedimento e che fino all'approvazione del testo integrale dello statuto restano in vigore le norme dello statuto della libera Universita' degli studi "G. D'Annunzio" di Chieti per quanto concerne le norme statutarie relative alla facolta' di lingue e letterature straniere;
 
-Veduto il parere del Consiglio universitario nazionale;
+Considerato che a norma dell'[art. 1 della legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615~art1), e' necessario modificare lo statuto dell'Universita' "G.
+
+D'Annunzio" di Chieti, in quanto la facolta' di lingue e letterature straniere ha proposto l'inquadramento di un professore associato su disciplina non compresa nello statuto vigente;
+
+Sentito il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 --------
 
-Lo statuto dell'Universita' di Chieti, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Chieti, approvato con i decreti sopraindicati, e' modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Art. 48 - nell'elenco degli insegnamenti complementari del corso di laurea di architettura e' inserito il seguente insegnamento:  
-progettazione ambientale.  
+Articolo concernente la facolta' di lingue e letterature straniere (ex. art. 29) - nell'elenco degli insegnamenti complementari della facolta' di lingue e letterature straniere e' inserito l'insegnamento di "filosofia del linguaggio".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 maggio 1983
+### Dato a Roma, addi' 2 marzo 1984
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 23 settembre 1983
+Registrato alla Corte dei conti, addi' 11 giugno 1984
 
-Registro n. 62 Istruzione, foglio n. 313
+Registro n. 34 Istruzione, foglio n. 334

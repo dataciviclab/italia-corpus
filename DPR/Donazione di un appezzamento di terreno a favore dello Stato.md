@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1970 n. 944
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 giugno 1969 n. 1332
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1970 n. 944
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 giugno 1969 n. 1332
+==============================================================
 
 Donazione di un appezzamento di terreno a favore dello Stato.
 -------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-944. Decreto del Presidente della Repubblica 16 luglio 1970, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione disposta a favore dello Stato dal comune di Siniscola con atto 8 luglio 1965, n. 49180 di rep., per notar Bartolomeo Serra di Nuoro, di una striscia di terreno della superficie di mq. 118,50 sito in detto comune, necessario per l'ampliamento dell'adiacente casermetta della guardia di finanza.  
+1332. Decreto del Presidente della Repubblica 2 giugno 1969, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione disposta a favore dello Stato dall'amministrazione provinciale di Novara, con atto 31 gennaio 1968, repertorio n. 28856, a rogito notaio Manlio Ialenti di Galliate, di un appezzamento di terreno della superficie di mq. 10.640, sito in Novara, via Pietro Generale, da destinare alla costruzione della nuova caserma per i vigili del fuoco di Novara.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 27 novembre 1970  
-Atti del Governo, registro n. 238, foglio n. 138. - CARUSO
+Visto, il Guardasigilli: GAVA  
+Registrato alla Corte dei conti, addi' 23 giugno 1970  
+Atti del Governo, registro n. 236, foglio n. 63. - CARUSO

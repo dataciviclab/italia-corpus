@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 agosto 1972 n. 685
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 dicembre 1951 n. 1664
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 agosto 1972 n. 685
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 dicembre 1951 n. 1664
+================================================================
 
 Modificazione allo statuto del Consorzio per la zona industriale apuana.
 ------------------------------------------------------------------------
@@ -10,10 +10,41 @@ Modificazione allo statuto del Consorzio per la zona industriale apuana.
 Art. 1
 ------
 
-N.
-
-685. Decreto del Presidente della Repubblica 31 agosto 1972, col quale, sulla proposta del Ministro per l'industria, il commercio e l'artigianato, viene modificato il terzo comma dell'art. 6 dello statuto del Consorzio per la zona industriale apuana.  
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 15 novembre 1972  
-Atti del Governo, registro n. 253, foglio n. 44. - CARUSO
+Visto il [decreto legislativo del Capo provvisorio dello Stato 3 aprile 1947, n. 372](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-04-03;372), che istituisce il Consorzio per la zona industriale apuana, modificato con [decreto legislativo del Capo provvisorio dello Stato 31 marzo 1948, n. 242](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1948-03-31;242);  
+Visto il proprio decreto in data 19 gennaio 1949, n. 95, che approva lo statuto del Consorzio suddetto;  
+Vista la [legge 21 luglio 1950, n. 818](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-07-21;818);  
+Viste le modifiche apportate dal Consorzio stesso al proprio statuto con deliberazioni del 28 marzo 1951 e del 27 settembre 1951;  
+Sulla proposta del Ministro per l'industria ed il commercio;  
+  
+Decreta:  
+  
+E' approvata la modifica allo statuto del Consorzio per la zona industriale apuana allegata, al presente decreto, vistata dal Ministro per l'industria e il commercio.  
+  
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Dato a Roma, addi' 7 dicembre 1951
+
+EINAUDI CAMPILLI
+
+Visto, il Guardasigilli: ZOLI
+
+Registrato alla Corte dei conti, addi' 29 gennaio 1952
+
+Atti del Governo, registro n. 49, foglio n. 63. - FRASCA
+
+Allegato
+
+ Modifica allo statuto del Consorzio per la zona industriale apuana   
+L'art. 3 dello statuto del Consorzio per la zona industriale apuana e' modificato come segue:   
+"Il Consorzio, per il raggiungimento del suoi scopi, provvedera' in particolare:   
+a) a stimolare ed agevolare lo studio l'esecuzione delle opere e dei lavori necessari per una idonea e completa sistemazione del servizi generali della zona, per la graduale attuazione del piano urbanistico generale previsto dall'[art. 9 del decreto legislativo 3 aprile 1947, n. 372](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-04-03;372~art9);   
+b) a chiedere l'espropriazione degli immobili compresi entro i confini della zona Industriale e nel territori del comuni di Aulla, Villafranca, Filattiera, Pontremoli, Fivizzano, Seravezza, Pietrasanta, Stazzema, Forte dei Marmi, nel limiti e secondo le norme stabiLite dal [regio decreto-legge 24 luglio 1938, n. 1266, dal decreto](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-07-24;1266) istitutivo modificato con [decreto legislativo 31 marzo 1948, n. 242](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-31;242) e dalla [legge 21 luglio 1950, n. 818](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-07-21;818);   
+c) a promuovere e favorire la risoluzione di ogni altro problema tecnico attinente all'impianto ed al funzionamento della zona ed alla riattivazione degli stabilimenti industriali danneggiati per eventi bellici o comunque inattivi entro i confini della zona industriale e nel territorio dei Comuni di cui al comma precedente;   
+d) a promuovere le iniziative dirette alla preparazione professionale dei lavoratori da impiegarsi nella zona industriale, nonche' all'assistenza dei lavoratori stessi".   
+  
+Visto, il Ministro per l'industria e per il commercio   
+CAMPILLI   

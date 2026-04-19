@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1959 n. 639
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1953 n. 545
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1959 n. 639
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1953 n. 545
+============================================================
 
 Modificazioni dello statuto dell'Universita' degli studi di Bologna.
 --------------------------------------------------------------------
@@ -12,11 +12,10 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-12;2227), e successivi;  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regi decreti 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-12;2227); [4 settembre 1930, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-09-04;1312); [1 ottobre 1931, n. 1778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1778); [27 ottobre 1932, n. 2092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2092); [6 dicembre 1934, n. 2394](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2394); [1 ottobre 1936, n. 2502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2502); [12 maggio 1939, n. 1315](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-05-12;1315); [5 ottobre 1939, n. 1644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1644); [11 luglio 1941, n. 848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-07-11;848); [18 luglio 1942, n. 928](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-18;928) e [24 novembre 1942, n. 1595; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-11-24;1595) [16 maggio 1947, n. 694; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-05-16;694) [22 febbraio 1948, n. 411](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-02-22;411): [30 luglio 1950, n. 1268](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-30;1268); [31 ottobre 1950, n. 1307](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1307); [5 agosto 1951, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-05;1311) e [27 ottobre 1951, n. 1792](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1792);  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -24,206 +23,73 @@ Sulla proposta del Ministro per la pubblica istruzione;
   
 Decreta:  
   
-Lo statuto dell'Universita', degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli dal n. 48 al n. 54, relativi all'ordinamento dei corsi di laurea in lettere e filosofia sono abrogati e sostituiti dai seguenti:  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati e' cosi' ulteriormente modificato:  
   
-Art. 48. - La Facolta' di lettere e filosofia conferisce le seguenti lauree:  
-a) laurea, in lettere;  
-b) laurea in filosofia;  
-c) laurea in lingue e letterature straniere moderne (indirizzo europeo).  
-Titolo di ammissione per i detti corsi di laurea e' il diploma di maturita' classica.  
-La durata di ciascuno dei detti corsi di laurea e' di quattro anni.  
+L'attuale art. 121, e' sostituito dal seguente:  
+"Le tasse e sopratasse da pagarsi dagli iscritti alle scuole e corsi di perfezionamento e di specializzazione sono quelle medesime stabilite dalla legge per le Facolta presso le quali le scuole e i corsi sono istituiti.  
+Il Consiglio di amministrazione dell'Universita', su proposta del Senato accademico, udito il Consiglio della facolta' e il Consiglio delle singole scuole, stabilisce anno per anno i contributi che gli iscritti alle varie scuole e ai vari corsi debbono corrispondere per le esercitazioni pratiche e per le prestazioni di qualsiasi natura, di cui usufruiscono durante gli anni di studio.  
+La tassa di diploma e' fissata in L. 6000, a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7)".  
+Dopo l'attuale art. 284, vengono aggiunti i seguenti articoli, relativi alla istituzione della scuola di perfezionamento in cardiologia:  
   
-a) Laurea in lettere.  
+Scuola di perfezionamento in cardiologia  
   
-Art. 49. - Il corso di studi per la laurea in lettere si distingue in due indirizzi: classico e moderno.  
-Gli insegnamenti sono i seguenti:  
-  
-Fondamentali comuni:  
-1) letteratura italiana;  
-2) letteratura latina;  
-3) storia romana (con esercitazioni di epigrafia romana)  
-4) geografia;  
-5) filosofia, (con facolta' di scelta fra gli insegnamenti di filosofia teoretica, filosofia morale, storia della filosofia, pedagogia);  
-  
-Fondamentali per l'indirizzo classico:  
-1) letteratura greca;  
-2) storia greca;  
-3) glottologia;  
-4) archeologia e storia dell'arte greca e romana;  
-  
-Fondamentali per l'indirizzo moderno:  
-1) filologia romanza;  
-2) storia medioevale;  
-3) storia moderna;  
-4) storia dell'arte medioevale e moderna;  
-  
-Complementari:  
-1) antichita' greco-romane;  
-2) antichita' medioevali  
-3) archeologia cristiana;  
-4) biblioteconomia e bibliografia;  
-5) ebraico e lingue semitiche comparate;  
-6) epigrafia greca;  
-7) etnologia;  
-8) etruscologia e archeologia italica;  
-9) filologia bizantina;  
-10) filologia germanica;  
-11) filologia greco-latina;  
-12) filologia iranica;  
-13) filologia slava;  
-14) geografia economica;  
-15) geografia regionale;  
-16) grammatica greca e latina;  
-17) letteratura cristiana antica;  
-18) lingua e letteratura albanese;  
-19) lingua e letteratura araba;  
-20) lingua e letteratura francese;  
-21) lingua e letteratura inglese;  
-22) lingua e letteratura neo-greca;  
-23) lingua e letteratura portoghese;  
-24) lingua e letteratura rumena,;  
-25) lingua e letteratura russa;  
-26) lingua e letteratura spagnola;  
-27) lingua e letteratura tedesca;  
-28) lingua e letteratura, ungherese;  
-29) lingua, letteratura e storia cinese;  
-30) lingua, letteratura e storia giapponese;  
-31) numismatica;  
-32) paleografia e diplomatica;  
-33) paletnologia;  
-34) papirologia;  
-35) sanscrito;  
-36) storia comparata delle lingue classiche;  
-37) storia del cristianesimo;  
-38) storia della chiesa;  
-39) storia della critica d'arte;  
-40) storia dell'arte bizantina;  
-41) storia della letteratura latina medioevale;  
-42) storia della lingua, italiana;  
-43) storia della musica;  
-44) storia delle tradizioni popolari;  
-45) storia del Risorgimento;  
-46) topografia dell'Italia antica;  
-47) uno degli insegnamenti filosofici che non sia stato prescelto come fondamentale.  
-Lo studente deve eseguire i corsi e sostenere gli esami negli insegnamenti fondamentali comuni ed in quelli dell'indirizzo prescelto; lo studente deve inoltre prendere iscrizione e sostenere gli esami in altre otto discipline da lui scelte tra le fondamentali dell'indirizzo diverso da quello che egli sceglie e fra le discipline complementari.  
-Due degli insegnamenti complementari possono essere sostituiti dallo studente con due discipline di altri corsi di studi della stessa o diversa Facolta' dell'Ateneo.  
-Tre degli insegnamenti fondamentali o complementari debbono essere seguiti per un biennio; puo' pero' lo studente seguire per un biennio anche uno o due insegnamenti in piu', ed in tal caso puo' ridurre rispettivamente, di uno o due gli altri insegnamenti.  
-Lo studente deve superare una prova scritta di traduzione latina che deve precedere quella, orale.  
-Essendo gli insegnamenti di "storia greca" e di "storia romana" riuniti in un'unica cattedra i corsi rispettivi saranno tenuti alternativamente, e sara' indicato ogni anno, nel manifesto degli studi, il corso che sara' impartito.  
-L'insegnamento di "archeologia e storia dell'arte greco-romana" puo' essere scisso in due insegnamenti di "archeologia e storia dell'arte greca" e di "archeologia e storia dell'arte romana", e cosi' l'insegnamento di "storia dell'arte medioevale e moderna" sdoppiato nei due insegnamenti di "storia dell'arte medioevale" e di "storia dell'arte moderna".  
-Il preside, sentita, ove lo ritenga, la Facolta', deve controllare i piani di studi presentati dagli studenti per il loro coordinamento ed approvarli prima che siano resi definitivi.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali comuni e dell'indirizzo da lui prescelto ed in tutti gli altri insegnamenti compresi nel piano di studi approvato dal preside della Facolta'.  
-  
-b) Laurea in filosofia.  
-  
-Art. 50. - Gli insegnamenti per la laurea in filosofia sono i seguenti:  
-Fondamentali:  
-1) letteratura italiana;  
-2) letteratura latina;  
-3) storia romana (con esercitazioni di epigrafia romana);  
-4) storia medioevale;  
-5) storia moderna;  
-6) storia della filosofia (biennale);  
-7) filosofia teoretica (biennale);  
-8) filosofia morale (biennale);  
-9) pedagogia;  
-10) un insegnamento scelto fra i seguenti: psicologia o una delle discipline biologiche, fisiche, chimiche e matematiche;  
-  
-Complementari:  
-1) economia politica;  
-2) estetica;  
-3) filosofia della storia;  
-4) filosofia del diritto;  
-5) letteratura greca;  
-6) psicologia;  
-7) storia del cristianesimo;  
-8) storia del diritto italiano;  
-9) storia della filosofia antica;  
-10) storia della filosofia medioevale;  
-11) storia della pedagogia italiana;  
-12) storia delle dottrine politiche;  
-13) storia del Risorgimento;  
-14) una lingua e letteratura straniera moderna a scelta.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in sei da lui scelti fra i complementari, previa approvazione del preside della Facolta'.  
-  
-c) Esercitazioni, passaggi di corso, esame di laurea  
-  
-Art. 51. - Ad ogni insegnamento sono aggiunte esercitazioni, che possono affidarsi a lettori o assistenti.  
-  
-Art. 52. - Per gli studenti che provengono da altre Facolta' il preside stabilisce, caso per caso, l'anno di corso al quale sono ammessi e l'ordine degli studi che debbono seguire.  
-La stessa norma vale per i laureati o diplomati che si iscrivono ai corsi per una delle lauree conferite nella Facolta'.  
-In tutti i casi previsti nel presente articolo i richiedenti debbono essere in possesso del diploma di maturita' classica.  
-  
-Art. 53. - I laureati in filosofia possono essere iscritti al terzo anno del corso per la laurea in lettere e devono seguire questo piano di studi:  
-a) per l'indirizzo classico:  
-1) letteratura italiana;  
-2) letteratura latina;  
-3) letteratura greca;  
-4) glottologia;  
-5) archeologia e storia dell'arte greca e romana;  
-6) storia romana (con esercitazioni di epigrafia romana) oppure storia greca;  
-7) prova scritta di traduzione latina;  
-  
-b) per l'indirizzo moderno:  
-1) letteratura italiana;  
-2) letteratura latina;  
-3) storia medioevale oppure storia moderna;  
-4) filologia romanza;  
-5) storia dell'arte medioevale e moderna;  
-6) una lingua e letteratura moderna a scelta tra:  
-lingua e letteratura tedesca, inglese, francese, spagnola;  
-7) prova scritta di traduzione latina.  
-  
-Art. 54. - I laureati in lettere possono essere iscritti al terzo anno del corso per la laurea in filosofia e devono seguire questo piano di studi:  
-1) filosofia teoretica;  
-2) storia della filosofia;  
-3) filosofia morale;  
-4) pedagogia;  
-5-6) due insegnamenti complementari a scelta.  
-  
-Art. 55. - L'esame di laurea consiste nella discussione di una dissertazione scritta su tema approvato dal professore della materia.  
-Durante lo svolgimento della discussione possono essere rivolte al candidato tutte le interrogazioni atte ad accertare la sua cultura letteraria, storica, filosofica, anche se non attinenti al tema della dissertazione.  
-L'indicazione scritta del tema della dissertazione, col visto del professore che l'ha approvata, deve essere depositata nella segreteria della Facolta' dieci mesi prima della presentazione della dissertazione stessa.  
-Questa in tre esemplari, deve essere consegnata alla segreteria della Facolta' quindici giorni prima dell'inizio di ciascuna sessione.  
-Ove intervengano legittime e gravi cause di ritardo e' in facolta' del preside di concedere, su regolare domanda corredata delle debite giustificazioni, da presentarsi prima della scadenza del termine, una breve proroga del medesimo.  
-La dissertazione puo' riguardare qualunque materia contemplata nell'ordine degli studi della Facolta' di lettere e filosofia, ma per gli aspiranti alla laurea in lettere deve essere in materia non filosofica e per gli aspiranti alla laurea in filosofia in materia filosofica.  
-11) filosofia.  
-  
-d) Laurea in lingue e letterature  
-straniere moderne (indirizzo europeo).  
-  
-Gli articoli dal 55 al 59, relativi al corso di laurea in lingue e letterature straniere moderne restano invariati, ma la numerazione subisce lo spostamento di una unita', percio' va dal 56 al 60.  
-Gli attuali articoli dal 60 al 64, relativi al seminario della Facolta' di lettere e filosofia sono abrogati e sostituiti dai seguenti, con il conseguente spostamento della successiva numerazione:  
-  
-Art. 61. - Presso la Facolta' di lettere e filosofia sono costituiti gli Istituti di:  
-1) filologia classica e medioevale;  
-2) filologia romanza;  
-3) lettere italiane;  
-4) filologia germanica e lingua e letteratura tedesca;  
-5) glottologia;  
-6) storia medioevale e moderna;  
-7) archeologia e storia dell'arte, greca e romana;  
-8) storia dell'arte medioevale e moderna;  
-9) paleografia e diplomatica;  
-10 geografia;  
-11) filosofia;  
-12) Biblioteca.  
-  
-Art. 62. - La Facolta' ha una biblioteca comune per tutti gli insegnamenti, riservata ai docenti e agli studenti dell'Universita' di Bologna, secondo le norme fissate dalla Facolta'.  
-La biblioteca comune ha un direttore, nominato ogni due anni dal rettore su proposta della Facolta', fra i professori di ruolo e fuori ruolo. Il direttore sovraintende alla biblioteca e l'amministra a nome e per delega della Facolta', secondo le norme da questa fissate.  
-Alla biblioteca e' assegnata una sede, una dotazione cui fondi dell'Universita', contributi studenteschi e governativi, ordinari e straordinari.  
+Art. 285. - La scuola di perfezionamento in cardiologia conferisce il diploma di "specialista in cardiologia". L'ammissione alla scuola viene concessa ai candidati laureati in medicina e chirurgia che abbiano compiuto non meno di cinque anni di tirocinio postlaurea in medicina generale presso una clinica universitaria o presso un grande Istituto ospedaliero. Il numero dei posti per anno di corso viene determinato ogni anno dal Consiglio della scuola, su parere del Consiglio della facolta'.  
+Gli anni di studio per conseguire il diploma di specialista in cardiologia sono tre.  
+Art. 286. - Le materie obbligatorie sono le seguenti:  
+1. Anatomia del cuore e dei vasi con particolare riguardo alla specialita';  
+2. Fisiologia dell'apparato cardiovascolare;  
+3. Fisiopatologia dell'apparato cardiovascolare;  
+4. Anatomia patologica dell'apparato cardiovascolare;  
+5. Semeiologia clinica generale dell'apparato cardiovascolare;  
+6. Semeiologia clinica speciale dell'apparato cardiovascolare;  
+7. Tecnica degli esami funzionali in cardiologia;  
+8. Tecnica diagnostica, con particolare riguardo all'elettrocardiografia;  
+9. Patologia medica dell'apparato cardiovascolare;  
+10. Clinica medica;  
+11. Terapia delle malattie di cuore;  
+12. Radiologia cardiovascolare.  
+Art. 287. - Le materie elencate all'articolo precedente sono cosi' distribuite nei tre anni di studio:  
+Anno 1°:  
+Anatomia del cuore e dei vasi con particolare riguardo alla specialita';  
+Fisiologia dell'apparato cardiovascolare;  
+Semeiologia clinica generale dell'apparato cardiovascolare;  
+Patologia medica dell'apparato cardiovascolare;  
+Clinica medica;  
+Terapia delle malattie di cuore.  
+Anno 2°:  
+Fisiopatologia dell'apparato cardiovascolare;  
+Anatomia patologica dell'apparato cardiovascolare;  
+Semeiologia clinica speciale dell'apparato cardiovascolare;  
+Tecnica degli esami funzionali in cardiologia;  
+Tecnica diagnostica con particolare riguardo all'elettrocardiografia;  
+Patologia medica dell'apparato cardiovascolare;  
+Clinica medica;  
+Terapia delle malattie di cuore;  
+Radiologia cardiovascolare.  
+Anno 3°:  
+Fisiologia dell'apparato cardiovascolare;  
+Anatomia patologica dell'apparato cardiovascolare;  
+Semeiologia clinica generale dell'apparato cardiovascolare;  
+Tecnica degli esami funzionali in cardiologia;  
+Tecnica diagnostica con particolare riguardo all'elettrocardiografia;  
+Clinica medica;  
+Terapia delle malattie di cuore;  
+Radiologia cardiovascolare.  
+Art. 288. - Gli allievi hanno l'obbligo di frequentare le lezioni, le visite cliniche, le esercitazioni, gli ambulatori nonche' di prestare, se richiesti, servizio nell'Istituto come medici interni, estendendo storie cliniche e praticando le ricerche di laboratorio inerenti alla specialita', sia durante l'anno accademico che durante le vacanze annuali.  
+L'insegnamento avra' carattere eminentemente pratico, dimostrativo, sperimentale, a mezzo di lezioni, colloqui, esercitazioni sopra casi clinici e ricerche di laboratorio.  
+Art. 289. - L'esame di profitto si sostiene alla fine dei tre anni di corso e si estende a tutte le materie di insegnamento.  
+In un manifesto annuale della clinica medica vengono esposte le norme dettagliate riguardanti i vari insegnamenti.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 giugno 1959
+### Dato a Roma, addi' 11 marzo 1953
 
-GRONCHI MEDICI
+EINAUDI SEGNI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: ZOLI
 
-Registrato alla Corte dei conti, addi' 12 agosto 1959
+Registrato alla Corte dei conti, addi' 37 luglio 1953
 
-Atti del Governo, registro n. 120, foglio n. 34. - VILLA
+Atti del Governo, registro n. 78, foglio n. 54. - PALLA

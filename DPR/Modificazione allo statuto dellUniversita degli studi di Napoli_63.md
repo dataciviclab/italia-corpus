@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 913
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 gennaio 1984 n. 86
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 913
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 gennaio 1984 n. 86
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Napoli.
@@ -39,19 +39,20 @@ Articolo unico
 --------------
 
   
-Nell'art. 66, relativo al corso di laurea in scienze politiche, all'elenco delle materie a scelta dello studente per l'indirizzo politico-sociale e' aggiunto il seguente nuovo insegnamento:  
-geografia urbana e regionale.  
+Nell'art. 232, relativo all'elenco degli insegnamenti complementari dei corsi di laurea in ingegneria, sono aggiunti i seguenti:  
+progettazione urbanistica;  
+fluidodinamica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 giugno 1983
+### Dato a Roma, addi' 20 gennaio 1984
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 30 gennaio 1984
+Registrato alla Corte dei conti, addi' 22 maggio 1984
 
-Registro n. 4 Istruzione, foglio n. 384
+Registro n. 17 Istruzione, foglio n. 338

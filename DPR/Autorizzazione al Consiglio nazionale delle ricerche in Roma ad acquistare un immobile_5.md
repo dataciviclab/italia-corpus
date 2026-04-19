@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 novembre 1978 n. 811
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1984 n. 861
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 novembre 1978 n. 811
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1984 n. 861
+================================================================
 
 Autorizzazione al Consiglio nazionale delle ricerche, in Roma, ad acquistare un immobile.
 -----------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-811. Decreto del Presidente della Repubblica 14 novembre 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, il Consiglio nazionale delle ricerche, in Roma, viene autorizzato ad acquistare dal Consorzio per la zona industriale e per il porto fluviale di Padova, al prezzo di L. 390.000.000, un lotto di terreno di circa 130.000 mq per l'insediamento di cinque laboratori scientifici.  
+861. Decreto del Presidente della Repubblica 14 settembre 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, il Consiglio nazionale delle ricerche, in Roma, viene autorizzato ad acquistare dal consorzio Zona industriale e porto di Ancona (Z.I.P.A.), come da promessa di vendita in data 29 marzo 1977, n. 103515 di repertorio, a rogito dott. Giorgio Sabatini, notaio in Ancona, due aree di terreno sito in Ancona, zona industriale del porto, della superficie di mq 463, al prezzo convenuto di L. 4.630.000, terreno contiguo a quello della sede dell'istituto per la tecnologia della pesca e necessario alla migliore funzionalita' degli edifici attigui.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 18 dicembre 1978  
-Registro n. 8 Presidenza, foglio n. 118
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 10 dicembre 1984  
+Registro n. 10 Presidenza, foglio n. 364

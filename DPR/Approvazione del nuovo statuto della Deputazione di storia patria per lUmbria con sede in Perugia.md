@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1972 n. 245
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 marzo 1955 n. 570
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1972 n. 245
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 marzo 1955 n. 570
+============================================================
 
 Approvazione del nuovo statuto della Deputazione di storia patria per l'Umbria, con sede in Perugia.
 ----------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-245. Decreto del Presidente della Repubblica 28 gennaio 1972, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvato il nuovo statuto della Deputazione di storia patria per l'Umbria, con sede in Perugia.  
+570. Decreto del Presidente della Repubblica 1 marzo 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvato il nuovo statuto della Deputazione di storia patria per l'Umbria, con sede in Perugia.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 12 giugno 1972  
-Atti del Governo, registro n. 249, foglio n. 59. - CARUSO
+Visto, il Guardasigilli: DE PIETRO  
+Registrato alla Corte dei conti, addi' 15 luglio 1955  
+Atti del Governo, registro n. 91, foglio n. 91. - CARLOMAGNO

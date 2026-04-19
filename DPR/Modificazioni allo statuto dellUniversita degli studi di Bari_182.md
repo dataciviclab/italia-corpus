@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1954 n. 1198
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1984 n. 896
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1954 n. 1198
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1984 n. 896
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regi decreti 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2169); [31 ottobre 1929, n. 2481](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1929-10-31;2481); [30 ottobre 1930, n. 1858](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1858); [22 ottobre 1931, n. 1422](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-22;1422); [27 ottobre 1932, n. 2082](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-10-27;2082); [13 dicembre 1934, n. 2404](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-13;2404); [1 ottobre 1936, n. 2020](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2020); [13 luglio 1939, n. 1168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-07-13;1168); [26 ottobre 1940, n. 2029](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2029); [24 ottobre 1942, n. 1785; con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1785) [21 aprile 1949, n. 451](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;451); [31 ottobre 1950, numero 1293](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1293); [11 maggio 1951, n. 633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-05-11;633); [23 gennaio 1952, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;66); [25 giugno 1953, n. 753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-06-25;753); [30 luglio 1953, n. 758](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;758); [25 agosto 1953, n. 857](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;857) e [25 agosto 1953, n. 992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;992);
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,131 +18,99 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 89. - All'elenco delle scuole di perfezionamento annesse alla Facolta' di medicina e chirurgia e' aggiunto la "scuola di perfezionamento in oncologia".
+Articolo unico
+--------------
 
-Dopo l'art. 115, e' aggiunto il seguente nuovo articolo, relativo alla istituzione della scuola di perfezionamento in oncologia.
-
-Scuola di perfezionamento in oncologia.
-
-Art. 116.
-
-a) La scuola di perfezionamento in oncologia e' annessa all'Istituto di patologia generale. La Facolta' si riserva di annettere eventualmente la scuola all'Istituto di anatomia patologica della Universita' di Bari nel caso che particolari condizioni lo richiedessero.
-
-Gli anni di studio per il conseguimento del diploma sono tre.
-
-b) Gli iscritti alla scuola preferibilmente scelti tra laureati gia' in possesso di un titolo di specializzazione hanno i seguenti obblighi di frequenza e di internato negli Istituti universitari e nelle cliniche.
-
-Al primo anno: internato trimestrale in ciascuno dei seguenti Istituti: patologia generale, anatomia patologica, patologia speciale medica, patologia speciale chirurgica.
-
-Al secondo anno: internato trimestrale in ciascuno dei seguenti Istituti e cliniche: patologia generale, anatomia patologica, clinica medica, clinica chirurgica.
-
-Al terzo anno: internato trimestrale nella clinica ostetrico ginecologica: negli altri trimestri seguiranno corsi di aggiornamento nelle cliniche specialistiche (neurologica, pediatrica, dermatologica, oculistica, otorinolaringologica ed ortopedica) ed in radiologia.
-
-c) Gli insegnamenti impartiti nella scuola sono i seguenti:
-
-Primo anno: istituzioni di patologia generale dei tumori.
-
-Biochimica del tessuto neoplastico e dell'organismo portatore di tumore maligno. Anatomia ed istologia patologica generale dei tumori.
-
-Secondo anno: patologia sperimentale ed umana generale dei tumori maligni. Istologia patologica speciale dei tumori maligni dell'uomo.
-
-Diagnostica e terapia radiologica dei tumori maligni dell'uomo.
-
-Semeiotica e clinica generale dei tumori maligni.
-
-Terzo anno: clinica dei tumori maligni dell'apparato genitale femminile. Clinica speciale dei tumori maligni della cute, dell'occhio, dello scheletro, del sistema nervoso, degli apparati respiratorio-digerente ed urogenitale. Clinica delle neoplasie infantili, degli organi a secrezione interna, degli organi emopoietici. Terapia chirurgica dei tumori maligni dell'uomo.
-
-Tecnonologie diagnostiche speciali nei portatori di tumori maligni.
-
-d) La spesa relativa al funzionamento della predetta scuola e' a carico del bilancio ordinario della Universita' di Bari. Eventuali contributi straordinari di altri enti verranno assegnati con apposita deliberazione del Consiglio di amministrazione, all'istituto di patologia generale ed anche a quello di anatomia-patologica.
-
-e) Gli iscritti alla scuola sono tenuti al pagamento delle tasse e sopratasse nella misura indicata dall'articolo 92 dello statuto. Il provento delle tasse e' ripartito dal Consiglio di amministrazione secondo i criteri indicati nello stesso art. 92, mentre il provento delle sopratasse di esami viene ripartito secondo le disposizioni di cui al [decreto del Presidente della Repubblica 1 dicembre 1952, n. 4512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-12-01;4512).
-
-Gli iscritti sono, inoltre, tenuti al pagamento a favore degli Istituti e delle cliniche nelle quali essi hanno l'obbligo d'internato di contributi speciali nella misura che il Consiglio di amministrazione Su proposta del Senato accademico udita la Facolta' di medicina e chirurgia, stabilisce per gli studenti di detta Facolta'.
-
-La tassa di diploma e' fissata in L. 6000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Dogliani, addi' 14 settembre 1954
-
-EINAUDI
-
-MARTINO
-
-Visto, il Guardasigilli: DE PIETRO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 29 dicembre 1954 Atti del Governo, registro n. 87, foglio n. 102. - CARLOMAGNO
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regi decreti 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2169); [31 ottobre 1929, n. 2481](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1929-10-31;2481); [30 ottobre 1930, n. 1858](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1858); [22 ottobre 1931, n. 1422](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-22;1422); [27 ottobre 1932, n. 2082](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-10-27;2082); [13 dicembre 1934, n. 2404](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-13;2404); [1 ottobre 1936, n. 2020](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2020); [13 luglio 1939, n. 1168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-07-13;1168); [26 ottobre 1940, n. 2029](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2029); [24 ottobre 1942, n. 1785; con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1785) [21 aprile 1949, n. 451](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;451); [31 ottobre 1950, numero 1293](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1293); [11 maggio 1951, n. 633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-05-11;633); [23 gennaio 1952, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;66); [25 giugno 1953, n. 753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-06-25;753); [30 luglio 1953, n. 758](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;758); [25 agosto 1953, n. 857](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;857) e [25 agosto 1953, n. 992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;992);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Dopo l'art. 327, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in neuropsichiatria infantile.  
   
-Decreta:  
+Scuola di specializzazione in neuropsichiatria infantile  
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 328. - E' istituita presso l'Universita' di Bari la scuola di specializzazione in neuropsichiatria infantile che conferisce il diploma di specialista in neuropsichiatria infantile.  
+Art. 329. - La direzione della scuola ha sede presso gli istituti di clinica psichiatrica e clinica neurologica dell'Universita' di Bari.  
+Art. 330. - La scuola ha lo scopo di fornire una preparazione professionale specifica nel campo della patologia neurologica e psichiatrica dell'infanzia.  
+Art. 331. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.  
+Art. 332. - Il numero degli iscritti e' di uno per ogni anno e complessivamente di quattro per l'intero corso di studi.  
+Art. 333. - Alla scuola sono ammessi solo i laureati in medicina e chirurgia. E' richiesta l'abilitazione all'esercizio professionale.  
+Art. 334. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
+a) la tesi nella disciplina attinente alla specializzazione;  
+b) il voto di laurea;  
+c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
+d) le pubblicazioni nelle predette materie.  
+Il punteggio dei predetti titoli e' quello stabilito dal [decreto ministeriale 16 settembre 1982, pubblicato nella Gazzetta Ufficiale n. 275 del 6 ottobre 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-10-06&numeroGazzetta=275). Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
+Art. 335. - Le materie d'insegnamento sono le seguenti:  
   
-Art. 89. - All'elenco delle scuole di perfezionamento annesse alla Facolta' di medicina e chirurgia e' aggiunto la "scuola di perfezionamento in oncologia".  
-Dopo l'art. 115, e' aggiunto il seguente nuovo articolo, relativo alla istituzione della scuola di perfezionamento in oncologia.  
+1° Anno:  
+1) anatomia ed embriologia del S.N. (medicina e chirurgia;  
+2) fisiologia del S.N. con particolare riguardo alla eta' evolutiva (medicina e chirurgia);  
+3) genetica (medicina e chirurgia);  
+4) endocrinologia dell'eta' evolutiva e auxologia (medicina e chirurgia);  
+5) patologia e clinica pediatrica (medicina e chirurgia);  
+6) tecniche di laboratorio (medicina e chirurgia).  
   
-Scuola di perfezionamento in oncologia.  
+2° Anno:  
+7) anatomia patologica del S.N. (medicina e chirurgia);  
+8) biochimica patologica del S.N. (medicina e chirurgia);  
+9) psicologia dell'eta' evolutiva (medicina e chirurgia);  
+10) semeiotica e clinica neurologica (medicina e chirurgia);  
+11) semeiotica e clinica psichiatrica (medicina e chirurgia).  
   
-Art. 116.  
+3° Anno:  
+12) psicopatologia dell'eta' evolutiva (medicina e chirurgia);  
+13) semeiotica e clinica neurologica infantile (medicina e chirurgia);  
+14) psicodiagnostica dell'eta' evolutiva (medicina e chirurgia);  
+15) elettrofisiologia (medicina e chirurgia);  
+16) neuroradiologia (medicina e chirurgia);  
+17) neurochirurgia dell'eta' evolutiva (medicina e chirurgia);  
+18) semeiotica e clinica psichiatrica infantile (medicina e chirurgia).  
   
-a) La scuola di perfezionamento in oncologia e' annessa all'Istituto di patologia generale. La Facolta' si riserva di annettere eventualmente la scuola all'Istituto di anatomia patologica della Universita' di Bari nel caso che particolari condizioni lo richiedessero.  
-Gli anni di studio per il conseguimento del diploma sono tre.  
-b) Gli iscritti alla scuola preferibilmente scelti tra laureati gia' in possesso di un titolo di specializzazione hanno i seguenti obblighi di frequenza e di internato negli Istituti universitari e nelle cliniche.  
-Al primo anno: internato trimestrale in ciascuno dei seguenti Istituti: patologia generale, anatomia patologica, patologia speciale medica, patologia speciale chirurgica.  
-Al secondo anno: internato trimestrale in ciascuno dei seguenti Istituti e cliniche: patologia generale, anatomia patologica, clinica medica, clinica chirurgica.  
-Al terzo anno: internato trimestrale nella clinica ostetrico ginecologica: negli altri trimestri seguiranno corsi di aggiornamento nelle cliniche specialistiche (neurologica, pediatrica, dermatologica, oculistica, otorinolaringologica ed ortopedica) ed in radiologia.  
-c) Gli insegnamenti impartiti nella scuola sono i seguenti:  
-Primo anno: istituzioni di patologia generale dei tumori.  
-Biochimica del tessuto neoplastico e dell'organismo portatore di tumore maligno. Anatomia ed istologia patologica generale dei tumori.  
-Secondo anno: patologia sperimentale ed umana generale dei tumori maligni. Istologia patologica speciale dei tumori maligni dell'uomo.  
-Diagnostica e terapia radiologica dei tumori maligni dell'uomo.  
-Semeiotica e clinica generale dei tumori maligni.  
-Terzo anno: clinica dei tumori maligni dell'apparato genitale femminile. Clinica speciale dei tumori maligni della cute, dell'occhio, dello scheletro, del sistema nervoso, degli apparati respiratorio-digerente ed urogenitale. Clinica delle neoplasie infantili, degli organi a secrezione interna, degli organi emopoietici. Terapia chirurgica dei tumori maligni dell'uomo.  
-Tecnonologie diagnostiche speciali nei portatori di tumori maligni.  
-d) La spesa relativa al funzionamento della predetta scuola e' a carico del bilancio ordinario della Universita' di Bari. Eventuali contributi straordinari di altri enti verranno assegnati con apposita deliberazione del Consiglio di amministrazione, all'istituto di patologia generale ed anche a quello di anatomia-patologica.  
-e) Gli iscritti alla scuola sono tenuti al pagamento delle tasse e sopratasse nella misura indicata dall'articolo 92 dello statuto. Il provento delle tasse e' ripartito dal Consiglio di amministrazione secondo i criteri indicati nello stesso art. 92, mentre il provento delle sopratasse di esami viene ripartito secondo le disposizioni di cui al [decreto del Presidente della Repubblica 1 dicembre 1952, n. 4512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-12-01;4512).  
-Gli iscritti sono, inoltre, tenuti al pagamento a favore degli Istituti e delle cliniche nelle quali essi hanno l'obbligo d'internato di contributi speciali nella misura che il Consiglio di amministrazione Su proposta del Senato accademico udita la Facolta' di medicina e chirurgia, stabilisce per gli studenti di detta Facolta'.  
-La tassa di diploma e' fissata in L. 6000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
+4° Anno:  
+19) clinica psichiatrica infantile (seconda) (medicina e chirurgia);  
+20) terapia generale delle; malattie mentali infantili (medicina e chirurgia);  
+21) psicoterapia dell'eta' evolutiva (medicina e chirurgia);  
+22) foniatria (medicina e chirurgia);  
+23) psicopedagogia (medicina e chirurgia);  
+24) sociologia applicata alla popolazione infantile (medicina e chirurgia);  
+25) legislazione (medicina e chirurgia).  
+  
+Art. 336. - La frequenza ai corsi e' obbligatoria. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione dell'candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta. L'esame di clinica psichiatrica infantile va sostenuto al 4° anno.  
+Art. 337. - Per gli studenti del 1° anno e' obbligatoria la frequenza di sei mesi in clinica pediatrica; per gli studenti del 2° anno e' obbligatoria la frequenza di tre mesi in clinica neurologica e di tre mesi in clinica psichiatrica; per gli studenti del 3° e 4° anno e' obbligatoria la frequenza di sei mesi in neuropsichiatrica infantile. Nel corso della frequenza obbligatoria saranno svolte attivita' pratiche attinenti alle rispettive discipline. Per ogni anno di corso saranno organizzati seminari teorico-pratici interdisciplinari la cui frequenza e' obbligatoria. Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti la specializzazione, anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.  
+Art. 338. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.  
+A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specializzazione.  
+Art. 339. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
+Art. 340. - E' costituito per la scuola di specializzazione in neuropsichiatria infantile un consiglio presieduto da un direttore.  
+Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99). Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio del corso di laurea in materia di coordinamento di insegnamenti.  
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Dogliani, addi' 14 settembre 1954
+### Dato a Roma, addi' 30 luglio 1984
 
-EINAUDI MARTINO
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: DE PIETRO
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 29 dicembre 1954
+Registrato alla Corte dei conti, addi' 17 dicembre 1984
 
-Atti del Governo, registro n. 87, foglio n. 102. - CARLOMAGNO
+Registro n. 75 Istruzione, foglio n. 126

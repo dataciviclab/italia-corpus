@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1976 n. 706
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 839
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1976 n. 706
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 839
+================================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-706. Decreto del Presidente della Repubblica 18 maggio 1976, col quale, sulla proposta del Ministro per le finanze, di concerto con il Ministro per il lavoro e la previdenza sociale, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal sig. Menegon Floriano con atto 2 dicembre 1955, n. 10253 di repertorio, a rogito dott. Paolo De Lorenzi, notaio in Ravenna, dell'appezzamento di terreno, catastalmente indicato in atto, sito in comune di Brisighella (Ravenna), parrocchia Zattaglia, strada consorziale torrente Sintria, da stralciarsi dal podere prebendale denominato "Il Casetto", della superficie catastale di mq 3.410 e sul quale il Ministero del lavoro e della previdenza sociale, con le esercitazioni pratiche di corsi di addestramento professionale per lavoratori edili, ha gia' realizzato delle casette minime.  
+839. Decreto del Presidente della Repubblica 22 settembre 1981, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato, consistente in un appezzamento di terreno della superficie di mq. 2865, sito in comune di Pollein (Aosta), destinato alla costruzione di una caserma della guardia di finanza, disposta dalla S.p.a.  
+Autoporto Valle d'Aosta con atto 24 marzo 1980, n. 37527 di repertorio a rogito dottor Guido Marcoz, notaio in Morgex (Aosta).  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 2 ottobre 1976  
-Atti di Governo, registro n. 9, foglio n. 55
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 12 gennaio 1982  
+Registro n. 2 Finanze, foglio n. 127

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1985 n. 690
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 717
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1985 n. 690
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 717
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Cagliari.
@@ -39,23 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 56, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-applicazioni tecnologiche in chirurgia;  
-chirurgia sostitutiva;  
-chirurgia del pronto soccorso.  
+Nell'art. 42, relativo al corso di laurea in pedagogia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+geografia umana.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservate.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 luglio 1985
+### Dato a Roma, addi' 27 giugno 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 16 novembre 1985
+Registrato alla Corte dei conti, addi' 14 dicembre 1983
 
-Registro n. 77 Istruzione, foglio n. 386
+Registro n. 76 Istruzione, foglio n. 294

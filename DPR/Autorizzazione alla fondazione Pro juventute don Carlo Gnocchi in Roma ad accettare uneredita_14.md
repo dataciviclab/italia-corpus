@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1976 n. 37
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1986 n. 980
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1976 n. 37
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1986 n. 980
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un'eredita'.
 ----------------------------------------------------------------------------------------------------
@@ -10,11 +10,10 @@ Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad ac
 Art. 1
 ------
 
-N.
+n.
 
-37. Decreto del Presidente della Repubblica 23 gennaio 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dal sig. Gritti Angelo Arturo, consistente in beni immobili, mobili, titoli azionari e depositi bancari vari per un valore presunto di L. 246.772.931, giusta inventari del dott.  
-Rodolfo Parigi, notaio in Milano, in data 14 luglio 1973, n. 157830 di repertorio e n. 14848 di raccolta; 17 ottobre 1973, n. 159657 di repertorio e n. 15032 di raccolta; 31 ottobre 1973, n. 159981 di repertorio e n. 15070 di raccolta e 31 ottobre 1973, numero 159980 di repertorio e n. 15069 di raccolta, nonche' perizia di stima del geom. Dino Casiraghi in data 25 giugno 1974.  
+980. Decreto del Presidente della Repubblica 3 dicembre 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare col beneficio d'inventario l'eredita', consistente nella quota di 1/2 di beni mobili, saldo conti correnti, depositi di titoli, per un valore complessivo di L. 77.851.131, disposta dal sig. Minghetti Giuseppe a favore della pro juventute (Mutilatini don Gnocchi), che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione stessa in data 16 febbraio 1984, con testamento olografo 14 ottobre 1982, pubblicato in data 15 aprile 1983, n. 25547/945 di repertorio, a rogito dott. Giuseppe Isotti, notaio in Bolzano, registrato a Bolzano in data 2 maggio 1983 al n. 3996.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 1 marzo 1976  
-Atti di Governo, registro n. 3, foglio n. 50
+Visto, il Guardasigilli: ROGNONI  
+Registrato alla Corte dei conti, addi' 14 gennaio 1987  
+Registro n. 1 Presidenza, foglio n. 178

@@ -1,51 +1,162 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 992
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1969 n. 1005
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 992
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1969 n. 1005
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche preposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 120. - All'elenco degli istituti annessi alla facolta' di ingegneria e' aggiunto il seguente:
+
+Istituto di automatica con gli insegnamenti di:
+
+Controlli automatici I;
+
+Controlli automatici II;
+
+Controlli automatici III;
+
+Controlli automatici IV;
+
+Tecnica dei controlli automatici (semestrale);
+
+Regolazione e servocomandi.
+
+Di conseguenza detti insegnamenti non fanno piu' parte rispettivamente degli istituti di "Elettrotecnica" e di "Macchine a tecnologie-meccaniche".
+
+Nello stesso articolo gli insegnamenti sottoelencati passano a far parte degli istituti a fianco indicati:
+
+All'istituto di chimica e' aggregato l'insegnamento di "Chimica delle radiazioni";
+
+All'istituto di chimica applicata e industriale sono aggregati gli insegnamenti di "Chimica degli impianti nucleari" e di "Tecnologia dei materiali e chimica applicata II";
+
+All'istituto di elettronica e' aggregato l'insegnamento di "Elettronica nucleare";
+
+All'istituto di elettrotecnica sono aggregati gli insegnamenti di "Elettrotecnica V (semestrale)", "Impianti nucleari I", "Impianti nucleari II", "Organizzazione industriale", "Fisica del reattore nucleare";
+
+All'istituto di fisica sono aggregati gli insegnamenti di "Fisica atomica", "Fisica nucleare", "Metodi nucleari di analisi tecnologiche", "Misure nucleari";
+
+All'istituto di fisica tecnica e' aggregato l'insegnamento di "Termotecnica del reattore";
+
+All'istituto di macchine e tecnologie meccaniche e' aggregato l'insegnamento di "Macchine";
+
+All'istituto di matematica applicata e' aggregato l'insegnamento di "Complementi di matematica (semestrale)", All'istituto di meccanica applicata alle macchine e aggregato l'insegnamento di "Meccanica delle macchine".
+
+Art. 129, relativo al corso di laurea in ingegneria nucleare e' modificato nel senso che insegnamenti del triennio di applicazione con i relativi indirizzi sono abrogati e sostituiti dai seguenti:
+
+Triennio di applicazione: 12) Controlli automatici I; 13) Elettronica nucleare; 14) ((Elettrotecnica I)); 15) Elettrotecnica V (semestrale); 16) Complementi di matematica (semestrale); 17) Fisica atomica; 18) Fisica del reattore nucleare; 19) Fisica nucleare; 20) Fisica tecnica; 21) Impianti nucleari I; 22) Macchine; 23) Macchine elettriche I; 24) Meccanica delle macchine; 25) Misure elettriche I;
+
+26) Misure nucleari; 27) Scienza delle costruzioni; 28) Tecnologia dei materiali e chimica applicata II; 29) Termotecnica del reattore.
+
+Indirizzo A: 30) Impianti nucleari II; 31) Organizzazione industriale; 32) Impianti elettrici I.
+
+Indirizzo B: 30) Chimica degli impianti nucleari; 31) Chimica delle radiazioni; 32) Metodi nucleari di analisi tecnologiche.
+
+Indirizzo C: 30) Calcolatori elettronici; 31) Controlli automatici;
+
+32) Impianti elettrici I.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 30 ottobre 1969
+
+SARAGAT
+
+FERRARI AGGRADI
+
+Visto, il Guardasigilli: GAVA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 30 dicembre 1969 Atti del Governo, registro n. 230, foglio n. 176. - CARUSO
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche preposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Art. 81, relativo all'elenco degli istituti annessi alla facolta' di medicina e chirurgia e' modificato come segue:  
-L'istituto di terapia medica sistematica e idrologia medica e' soppresso e al suo posto sono istituiti i seguenti:  
-Istituto di idrologia medica;  
-Istituto di terapia medica sistematica.  
-L'istituto di patologia speciale chirurgica e propedeutica clinica e' trasformato in istituto di III clinica chirurgica generale e terapia chirurgica.  
-L'istituto di I clinica chirurgica e' scisso nei seguenti quattro istituti:  
-Istituto di I clinica chirurgica generale e terapia chirurgica;  
-Istituto di II patologia speciale chirurgica e propedeutica clinica;  
-Istituto di chirurgia del cuore e dei grossi vasi;  
-istituto di anestesiologia e rianimazione.  
+Art. 120. - All'elenco degli istituti annessi alla facolta' di ingegneria e' aggiunto il seguente:   
+Istituto di automatica con gli insegnamenti di:   
+Controlli automatici I;   
+Controlli automatici II;   
+Controlli automatici III;   
+Controlli automatici IV;   
+Tecnica dei controlli automatici (semestrale);   
+Regolazione e servocomandi.   
+Di conseguenza detti insegnamenti non fanno piu' parte rispettivamente degli istituti di "Elettrotecnica" e di "Macchine a tecnologie-meccaniche".   
+Nello stesso articolo gli insegnamenti sottoelencati passano a far parte degli istituti a fianco indicati:   
+All'istituto di chimica e' aggregato l'insegnamento di "Chimica delle radiazioni";   
+All'istituto di chimica applicata e industriale sono aggregati gli insegnamenti di "Chimica degli impianti nucleari" e di "Tecnologia dei materiali e chimica applicata II";   
+All'istituto di elettronica e' aggregato l'insegnamento di "Elettronica nucleare";   
+All'istituto di elettrotecnica sono aggregati gli insegnamenti di "Elettrotecnica V (semestrale)", "Impianti nucleari I", "Impianti nucleari II", "Organizzazione industriale", "Fisica del reattore nucleare";   
+All'istituto di fisica sono aggregati gli insegnamenti di "Fisica atomica", "Fisica nucleare", "Metodi nucleari di analisi tecnologiche", "Misure nucleari";   
+All'istituto di fisica tecnica e' aggregato l'insegnamento di "Termotecnica del reattore";   
+All'istituto di macchine e tecnologie meccaniche e' aggregato l'insegnamento di "Macchine";   
+All'istituto di matematica applicata e' aggregato l'insegnamento di "Complementi di matematica (semestrale)", All'istituto di meccanica applicata alle macchine e aggregato l'insegnamento di "Meccanica delle macchine".   
+  
+Art. 129, relativo al corso di laurea in ingegneria nucleare e' modificato nel senso che insegnamenti del triennio di applicazione con i relativi indirizzi sono abrogati e sostituiti dai seguenti:   
+Triennio di applicazione: 12) Controlli automatici I; 13) Elettronica nucleare; 14)
+
+((Elettrotecnica I))
+
+; 15) Elettrotecnica V (semestrale); 16) Complementi di matematica (semestrale); 17) Fisica atomica; 18) Fisica del reattore nucleare; 19) Fisica nucleare; 20) Fisica tecnica; 21) Impianti nucleari I; 22) Macchine; 23) Macchine elettriche I; 24) Meccanica delle macchine; 25) Misure elettriche I;  
+26) Misure nucleari; 27) Scienza delle costruzioni; 28) Tecnologia dei materiali e chimica applicata II; 29) Termotecnica del reattore.   
+Indirizzo A: 30) Impianti nucleari II; 31) Organizzazione industriale; 32) Impianti elettrici I.   
+Indirizzo B: 30) Chimica degli impianti nucleari; 31) Chimica delle radiazioni; 32) Metodi nucleari di analisi tecnologiche.   
+Indirizzo C: 30) Calcolatori elettronici; 31) Controlli automatici;  
+32) Impianti elettrici I.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 30 ottobre 1969
 
-LEONE SCALFARO
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 12 febbraio 1973
+Registrato alla Corte dei conti, addi' 30 dicembre 1969
 
-Atti di Governo, registro n. 255, foglio n. 95. - VALENTINI
+Atti del Governo, registro n. 230, foglio n. 176. - CARUSO

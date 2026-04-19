@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 agosto 1985 n. 573
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 748
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 agosto 1985 n. 573
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 748
+================================================================
 
 Autorizzazione alla Societa' italiana degli autori ed editori, in Roma, ad acquistare un immobile.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-573. Decreto del Presidente della Repubblica 6 agosto 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana degli autori ed editori (S.I.A.E.), in Roma, viene autorizzata ad acquistare, al convenuto prezzo di L. 176.000.000, come da atto di compravendita 28 settembre 1981, n. 4040/787 di repertorio, a rogito dott. Nicodemo Operamolla, notaio in Roma, un immobile sito in Brescia, via Creta n. 68, costituito da un ampio locale, ufficio al piano terra di un nuovo stabile condominiale, ricadente sul mappale 81 del foglio 169 della mappa di Brescia, particella censita al nuovo catasto edilizio urbano con scheda registrata al n. 112 in data 3 gennaio 1981, valutato con perizia di parte L. 192.000.000.  
+748. Decreto del Presidente della Repubblica 22 settembre 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana degli autori ed editori (S.I.A.E.), in Roma, viene autorizzata ad acquistare, al prezzo di L. 67.500.000, un immobile sito in Roma, via Cerreto di Spoleto numeri 31, 33, 35, distinto nel nuovo catasto edilizio urbano alla partita 280096, foglio 931, mappale 42 sub 3, e valutato dall'ufficio tecnico erariale in L. 150.000.000, come da atto di compravendita 1 marzo 1978, n. 131052/12387 di repertorio, a rogito dott. Francesco Varcasia, notaio in Roma, registrato a Roma in data 17 marzo 1978 al n. 2498.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 11 ottobre 1985  
-Registro n. 9 Presidenza, foglio n. 74
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 11 dicembre 1981  
+Registro n. 10 Presidenza, foglio n. 340

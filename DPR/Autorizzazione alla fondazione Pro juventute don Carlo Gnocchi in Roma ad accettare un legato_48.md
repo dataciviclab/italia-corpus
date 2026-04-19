@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1984 n. 209
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1981 n. 722
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1984 n. 209
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1981 n. 722
+==============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-209. Decreto del Presidente della Repubblica 9 aprile 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella quota di 1/2 di titoli BOT e titoli azionari per un valore complessivo di L. 102.460.960 quota 1/2 = L. 51.230.480, disposto dalla sig.ra Gariboldi Giuseppina a favore dei mutilatini di don Gnocchi, che si identificano con la fondazione medesima, con testamento olografo 29 dicembre 1980, pubblicato in data 28 maggio 1981, numero 33378/4776 di repertorio, a rogito dott. Sergio Barenghi, notaio in Milano, registrato a Milano in data 17 giugno 1981 al n. 416423.   
+722. Decreto del Presidente della Repubblica 9 ottobre 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un immobile sito in Torino, corso Siracusa n. 71, distinto nel nuovo catasto edilizio urbano alla partita 127999, foglio 84, mappale 820 sub 19, del valore attribuito di L. 11.500.000, elevato dall'ufficio tecnico erariale di Torino a L. 24.000.000, disposto dalla sig.na Teresa Anna Beltramo a favore della fondazione "Pro juventute don Carlo Gnocchi - Istituto mutilatini e poliomielitici", viale Settimio Severo, 65, Torino, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi" come ha fatto presente lo stesso ente, con scheda testamentaria olografa del 10 marzo 1977, pubblicata a rogito dott. Giuseppe Savio, notaio in Torino, in data 5 maggio 1978, n. 15424 di repertorio e n. 7440 di raccolta, registrato a Torino il 22 maggio 1978 al n. 25276, vol. 41.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 26 maggio 1984   
-Registro n. 4 Presidenza, foglio n. 345
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 1 dicembre 1981  
+Registro n. 10 Presidenza, foglio n. 243

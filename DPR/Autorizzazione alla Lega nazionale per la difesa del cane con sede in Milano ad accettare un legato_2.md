@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 giugno 1970 n. 530
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1970 n. 615
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 giugno 1970 n. 530
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1970 n. 615
 =============================================================
 
 Autorizzazione alla Lega nazionale per la difesa del cane, con sede in Milano, ad accettare un legato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-530. Decreto del Presidente della Repubblica 9 giugno 1970, col quale, sulla proposta del Ministro per la sanita', la Lega nazionale per la difesa del cane, con sede in Milano, viene autorizzata ad accettare il legato disposto dalla defunta Ceradelli Pia vedova Pescetto, con testamento olografo del 10 agosto 1957, pubblicato per atto notaio Antonio Rezia il 21 gennaio 1969, consistente nella somma di L. 1.000.000.  
+615. Decreto del Presidente della Repubblica 12 maggio 1970, col quale, sulla proposta del Ministro per la sanita', la Lega nazionale per la difesa del cane, con sede in Milano, viene autorizzata ad accettare un legato disposto dalla defunta Lampiano Emilia vedova Bragotti con testamento pubblico rogato dal notaio dott. Giorgio Caveglia in Torino in data 29 marzo 1969, al n. 80 di repertorio, consistente nella somma di L. 3.000.000.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 15 luglio 1970  
-Atti del Governo, registro n. 236, foglio n. 160. - CARUSO
+Registrato alla Corte dei conti, addi' 17 agosto 1970  
+Atti del Governo, registro n. 237, luglio n. 33. - CARUSO

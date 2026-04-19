@@ -1,155 +1,101 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1980 n. 676
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1978 n. 192
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1980 n. 676
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1978 n. 192
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923) e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 10 ottobre 1936 n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-10;1923) e modificato con [regio decreto 20 aprile 1939 n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933.   
+n. 1592;   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-L'art. 70, concernente la facolta' di medicina e chirurgia, e' cosi' modificato:   
-Art. 70. - La facolta' di medicina e chirurgia conferisce:   
-a) la laurea in medicina e chirurgia;   
-b) la laurea in odontoiatria e protesi dentaria.   
-
-Art. 2
-------
-
+Decreta:   
   
-  
-Dopo l'art. 73, con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli:   
-  
-Corso di laurea in odontoiatria e protesi dentaria   
-Art. 74. - La durata del corso degli studi per la laurea in odontoiatria e protesi dentaria e' di cinque anni suddivisi in un biennio ed un triennio.   
-Titoli di ammissione: quelli consentiti dalle vigenti disposizioni di legge.   
-Art. 75. - Il numero degli iscritti e' di trentadue per ciascun anno di corso e complessivamente di centosessanta per l'intero corso di studi.   
-L'accesso avviene secondo un ordine di graduatoria stabilito in base ad un punteggio riportato in centesimi, cosi' ripartito:   
-70 cent. riservati all'esito di un test a scelta multipla da completare in un unico giorno vertente su nozioni generali relativi ai seguenti argomenti: chimica, fisica, matematica, biologia generale;   
-30 cent. riservati al punteggio riportato nell'esame finale per il conseguimento del diploma di scuola secondaria superiore.   
-E' prevista la pubblicizzazione dei risultati delle prove che a richiesta debbono essere forniti.   
-Art. 76. - Per il trasferimento degli studenti iscritti al corso di laurea in medicina e chirurgia le abbreviazioni di corso non possono superare l'ammissione oltre il secondo anno subordinatamente al numero dei posti resisi disponibili all'inizio del secondo anno sempre che gli aspiranti abbiano superato gli esami di biologia generale applicata agli studi medici, chimica, fisica medica, istologia ed embriologia generale (compresa la citologia).   
-Per i laureati in medicina e chirurgia le abbreviazioni di corso potranno essere concesse, sempre con iscrizione al secondo anno, subordinatamente al numero dei posti disponibili all'inizio del secondo anno e dopo che sia trascorso un anno accademico dal conseguimento della laurea precedente.   
-Art. 77. - Sono insegnamenti fondamentali:   
-Biennio:   
-1) anestesia generale e speciale odontostomatologica (semestrale);   
-\* 2) biologia generale applicata agli studi medici;   
-\* 3) chimica;   
-\* 4) chimica biologica;   
-5) farmacologia (semestrale);   
-\* 6) fisica medica;   
-7) fisiologia umana e dell'apparato stomatognatico;   
-8) igiene e odontoiatria preventiva e speciale con epidemiologia (semestrale);   
-9) istituzioni di anatomia umana normale e dell'apparato stomatognatico;   
-10) istituzioni di anatomia ed istologia patologica;   
-\* 11) istologia ed embriologia generale (compresa la citologia);   
-12) materiali dentari;   
-13) microbiologia (semestrale);   
-14) odontoiatria conservatrice (triennale: 2°, 3° e 4° anno);   
-15) patologia generale.   
-Triennio:   
-16) chirurgia speciale odontostomatologica (biennale: 3° e 4° anno);   
-17) chimica odontostomatologica (biennale: 4° e 5° anno);   
-18) medicina legale e delle assicurazioni e deontologia in odontostomatologia (semestrale);   
-19) neuropatologia e psicopatologia (semestrale);   
-20) ortognatodonzia e gnatologia (funzione masticatoria) (biennale: 4° e 5° anno);   
-21) parodontologia (biennale: 4° e 5° anno);   
-22) patologia speciale medica e metodologia clinica (compresa la pediatria);   
-23) patologia speciale chirurgica e propedeutica clinica;   
-24) patologia speciale odontostomatologica;   
-25) pedodonzia (semestrale);   
-26) protesi dentaria (triennale: 3°, 4° e 5° anno);   
-27) radiologia generale e speciale odontostomatologica (semestrale).   
+Lo statuto dell'Universita' degli studi di Messine approvato e modificato con i decreti sopraindicati, ulteriormente modificato come appresso:   
+L'art. 32, relativo alla facolta' di economia e commercio, e' modificato nel senso che il primo comma integrato nel modo seguente:   
+4) laurea in scienze statistiche e demografiche.   
+Dopo l'art. 37, e con lo spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo alla istituzione del corso di laurea in scienze statistiche e demografiche, presso la facolta' di economia e commercio.   
+Corso di laurea in scienze statistiche e demografiche   
+Art. 38. - La durata del corso degli studi per il conseguimento della laurea in scienze statistiche e demografiche e' di quattro anni.   
+I titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge.   
+Sono insegnamenti fondamentali:   
+1) istituzioni di analisi matematica;   
+2) analisi matematica;   
+3) geometria analitica;   
+4) calcolo delle probabilita';   
+5) istituzioni di statistica;   
+6) statistica;   
+7) statistica metodologica;   
+8) demografia;   
+9) demografia investigativa;   
+10) istituzioni di economia politica;   
+11) economia applicata;   
+12) istituzioni di statistica economica;   
+13) statistica economica;   
+14) istituzioni di diritto privato;   
+15) istituzioni di diritto pubblico;   
+16) sociologia;   
+17) teoria dei campioni.   
 Sono insegnamenti complementari:   
-\* 1) chirurgia maxillo-facciale;   
-\* 2) dermatologia e venerologia (semestrale);   
-\* 3) otorinolaringoiatria (semestrale);   
-\* 4) statistica sanitaria;   
-altri insegnamenti complementari nel piano della facolta' sempre mutuati dal corso di laurea in medicina e chirurgia.   
-Gli insegnamenti segnati con asterisco sono mutuati dal corso di laurea in medicina e chirurgia.   
-Gli insegnamenti fondamentali sono teorici e pratiche e la loro frequenza e' obbligatoria.   
-Gli insegnamenti specificamente odontostomatologica di ordine clinico comportano un tirocinio pratico continuativo da espletare prima di sostenere i relativi esami.   
-Gli studenti che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le relative prove di esame.   
-Il tirocinio pratico, relativo ad ogni insegnamento clinico, deve provvedere, da parte dei componenti dell'organico, una assistenza didattica adeguata al numero degli studenti.   
-Art. 78. - Ai fini della propedeuticita' degli esami dei diversi insegnamenti vale la seguente tabella:   
-  
-  
-  
-  
-Non si puo' essere ammessi a Se non si e' superato  
-sostenere l'esame di: l'esame di:  
-  
-Fisiologia umana e dell'apparato Istituzioni di anatomia  
-stomatologico umana normale e del-  
-Patologia generale l'apparato stomatognatico  
-Biologia generale applicata  
-agli studi medici  
-Chimica  
-Fisica medica  
-  
-Patologia speciale medica Fisiologia umana e dell'appa-  
-e metodologia clinica rato stomatognatico  
-(compresa la pediatria)  
-Patologia speciale chirurgica Patologia generale  
-e propedeutica clinica  
-  
-Clinica odontostomatologica Patologia speciale medica e  
-metodologia clinica  
-(compresa la pediatria)  
-Chirurgia speciale odonto-  
-stomatologica  
-Istituzioni di anatomia e  
-istologia patologica  
-Patologia speciale chirurgica  
-e propedeutica clinica  
-Patologia speciale odonto-  
-stomatologica  
-  
-  
-Art. 79. - Per essere ammessi a sostenere l'esame di laurea in odontoiatria e protesi dentaria lo studente deve avere seguito i corsi ed aver superato gli esami in tutti gli insegnamenti fondamentali ed almeno in due insegnamenti scelti fra i complementari ed avere, inoltre, seguito le prescritte esercitazioni cliniche, i tirocini pratici ed averne conseguito le relative attestazioni.   
-L'esame di laurea consiste nella discussione di una tesi scritta su argomenti di odontostomatologia da richiedere almeno all'inizio dell'ultimo anno di corso.   
-L'esercizio della professione consegue all'esame di Stato.   
+1) ecologia;   
+2) informatica;   
+3) teoria e tecnica dell'elaborazione matematica dei dati;   
+4) ricerca operativa;   
+5) economia delle aziende bancarie;   
+6) diritto delle assicurazioni private e sociali;   
+7) scienza dell'amministrazione;   
+8) legislazione sul credito e sul risparmio;   
+9) diritto finanziario;   
+10) scienza delle finanze;   
+11) teoria e politica dello sviluppo economico;   
+12) economia matematica;   
+13) economia monetaria e creditizia;   
+14) geografia della popolazione;   
+15) sociologia del lavoro;   
+16) antropologia;   
+17) econometria;   
+18) economia della localizzazione;   
+19) psicologia sociale;   
+20) psicometria;   
+21) economia e tecnica delle aziende di assicurazione;   
+22) economia e tecnica delle aziende industriali;   
+23) economia e tecnica delle aziende mercantili;   
+24) economia della popolazione;   
+25) teorie demografiche e modelli di sviluppo;   
+26) genetica;   
+27) statistica aziendale ed analisi di mercato;   
+28) controllo statistico delle qualita' e statistica industriale;  
+29) statistica del lavoro;   
+30) matematica applicata alle scienze sociali;   
+31) statistica medica.   
+Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e in almeno cinque complementari.   
+Gli insegnamenti complementari possono essere scelti dallo studente anche tra le materie impartite nel biennio per il diploma di statistica e tra quelle impartite nel corso di laurea della facolta' e dalle altre facolta' dell'Ateneo, previa approvazione del preside della facolta'. Detta approvazione deve essere richiesta entro il 31 dicembre di ogni anno.   
+Deve anche aver seguito per due anni e superato, dopo un biennio di frequenza, gli esami di lingua inglese e di un'altra lingua moderna scelta tra quelle insegnate dalla facolta'. Per essere iscritto al secondo anno, lo studente deve aver superato almeno due esami fondamentali del primo anno.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 settembre 1980
+### Dato a Roma, addi' 15 marzo 1978
 
-p. Il Presidente della Repubblica Il Presidente del Senato FANFANI SARTI
+LEONE PEDINI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 21 ottobre 1980
+Registrato alla Corte dei conti, addi' 28 aprile 1978
 
-Registro n. 96 Istruzione, foglio n. 258
+Registro n. 44 Istruzione, foglio n. 277

@@ -1,19 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1968 n. 905
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 febbraio 1966 n. 126
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1968 n. 905
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 febbraio 1966 n. 126
+===============================================================
 
-Autorizzazione all'Associazione nazionale alpini, con sede in Milano, ad acquistare un immobile.
-------------------------------------------------------------------------------------------------
+Autorizzazione all'Associazione nazionale alpini, con sede in Milano ad acquistare un immobile.
+-----------------------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-905. Decreto del Presidente della Repubblica 3 luglio 1968, col quale, sulla proposta del Ministro per la difesa, l'Associazione nazionale alpini, con sede in Milano, viene autorizzata ad acquistare, per la sede della dipendente sezione di Ivrea, dal geometra Giovanni Bennati, al prezzo di L. 3.900.000, l'appartamento situato al piano terreno del fabbricato di nuova costruzione che sorge in detta citta', in via da intestare all'on.le Alcide De Gasperi (su terreno contraddistinto nella vigente mappa dei terreni di Ivrea alla partita n. 9002/10383, foglio XXIII, n. 62), composto di due vani e servizi, della superficie effettiva di mq. 65, e l'annessa cantina, posta nel piano interrato del fabbricato stesso.  
+126. Decreto del Presidente della Repubblica 21 febbraio 1966, col quale, sulla proposta del Ministro per la difesa, l'Associazione nazionale alpini, con sede in Milano, viene autorizzata ad acquistare dalla Comunanza agraria di Pretare, al prezzo di L. 10 al mq., l'appezzamento di terreno, della superficie di mq. 3000, stimata a quota 1510, in localita' Forca di Presta del comune di Arquata del Tronto (Ascoli Piceno), censito presso il catasto terreni di quel Comune, nel foglio n. 14, con la particella n. 58, sub b.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 17 agosto 1968  
-Atti del Governo, registro n. 222, foglio n. 73. - DI PRETORO
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 24 marzo 1964  
+Atti del Governo, registro n. 202, foglio n. 66. - VILLA

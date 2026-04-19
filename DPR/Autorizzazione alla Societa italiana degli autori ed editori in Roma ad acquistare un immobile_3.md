@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 agosto 1985 n. 576
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1981 n. 411
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 agosto 1985 n. 576
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1981 n. 411
 =============================================================
 
 Autorizzazione alla Societa' italiana degli autori ed editori, in Roma, ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-576. Decreto del Presidente della Repubblica 6 agosto 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana degli autori ed editori (SIAE), in Roma, viene autorizzata ad acquistare, come da atto preliminare di compravendita 10 agosto 1981, n. 64200 di repertorio, a rogito dott. Alberto Menazzi, notaio in Udine, al convenuto prezzo di L. 70.000.000, un immobile sito in Udine, via Valussi, costituito da porzione di fabbricato nel complesso condominiale "Gardenia III", distinto nel catasto terreni con la particella 568 del foglio 48, di are 49.16, consistente in un appartamento al piano primo e locale scantinato complessivamente di m quadri 134,80, valutato con perizia di parte L. 70.300.000.  
+411. Decreto del Presidente della Repubblica 29 maggio 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana degli autori ed editori (S.I.A.E.), in Roma, viene autorizzata ad acquistare, al prezzo di L. 42.500.000, un immobile sito in Asti, corso Dante n. 34, censito al nuovo catasto edilizio urbano alla partita 4005, foglio 78, mappale 265 sub 2.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 11 ottobre 1985  
-Registro n. 9 Presidenza, foglio n. 73
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 23 luglio 1931  
+Registro n. 6 Presidenza, foglio n. 343

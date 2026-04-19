@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1970 n. 1478
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 dicembre 1970 n. 1444
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1970 n. 1478
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 dicembre 1970 n. 1444
+================================================================
 
 Autorizzazione all'Associazione italiana della croce rossa ad accettare una donazione.
 --------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1478. Decreto del Presidente della Repubblica 19 settembre 1970, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa viene autorizzata ad accettare la donazione disposta in favore del dipendente sottocomitato di Alessano (Lecce) dalla locale amministrazione comunale di un relitto di terreno della superficie di mq. 320, del valore di L. 1.600.000, sito in Alessano e distinto al vecchio catasto fabbricati sulla partita 139 1/2 del foglio 20, da destinarsi alla costruzione della sede del locale sottocomitato dell'associazione allorche' le disponibilita' dello stesso sottocomitato lo consentiranno.  
+1444. Decreto del Presidente della Repubblica 12 dicembre 1970, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa viene autorizzata ad accettare la donazione disposta dal sig. Landi Carlo con atto pubblico 8 febbraio 1966, n. 10304 di repertorio, a rogito notaio Guido Rogantini in Firenze, costituita da un appezzamento di terreno sito in comune di Greve (Firenze), della superficie di mq. 111, del periziato valore di L. 277.000 distinto al nuovo catasto terreni dello stesso comune nel foglio n. 26 del mappale subalterno provvisorio b, da destinarsi alla costruzione di un garage per le autoambulanze ed alla sede dell'Associazione della croce rossa in Strada in Chianti.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 24 giugno 1971  
-Atti del Governo, registro n. 242, foglio n. 135. - VALENTINI
+Visto, il Guardasigilli: COLOMBO  
+Registrato alla Corte dei conti, addi' 22 aprile 1971  
+Atti del Governo, registro n. 241, foglio n. 157. - VALENTINI

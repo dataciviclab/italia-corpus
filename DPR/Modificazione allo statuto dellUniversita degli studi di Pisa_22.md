@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1985 n. 659
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 1012
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1985 n. 659
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 1012
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -39,23 +39,20 @@ Articolo unico
 --------------
 
   
-Nell'art. 78, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-medicina d'urgenza;  
-chirurgia oncologica;  
-gastroenterologia.  
+Nell'art. 132, relativo al corso di laurea in ingegneria, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+misure termotecniche;  
+complementi di tecnica ed economia dei trasporti.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 giugno 1985
+### Dato a Roma, addi' 4 maggio 1983
 
-PERTINI
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 9 novembre 1985
+Registrato alla Corta dei conti, addi' 29 febbraio 1984
 
-Registro n. 74 Istruzione, foglio n. 127
+Registro n. 13 Istruzione, foglio n. 90

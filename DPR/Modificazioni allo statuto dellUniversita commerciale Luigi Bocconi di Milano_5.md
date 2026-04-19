@@ -1,65 +1,59 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1981 n. 945
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1977 n. 1027
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1981 n. 945
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1977 n. 1027
+===============================================================
 
 Modificazioni allo statuto dell'Universita' commerciale "Luigi Bocconi" di Milano.
 ----------------------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' commerciale "Luigi Bocconi" di Milano, approvato con [regio decreto 8 marzo 1925, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-08;547) e modificato con [regio decreto 2 dicembre 1928, n. 3108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-02;3108), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' commerciale "Luigi Bocconi" di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' commerciale "Luigi Bocconi" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' commerciale "Luigi Bocconi" di Milano, approvato con [regio decreto 8 marzo 1925, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-08;547) e modificato con [regio decreto 2 dicembre 1928, n. 3108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-02;3108), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' commerciale "Luigi Bocconi" di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Gli articoli 20, 21, 22, 23, 24, 25, 26, 27, 28, 29 e 30 sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.   
-Il secondo comma dell'art. 32 e il secondo comma dell'art. 49, concernenti rispettivamente i titoli di studio richiesti per l'ammissione al corso di laurea in economia e commercio ed al corso di laurea in lingue e letterature straniere sono soppressi e sostituiti come segue:   
-Art. 32, secondo comma; art. 49, secondo comma:   
-"Sono titoli di ammissione i diplomi conseguiti in un istituto di durata quinquennale di istruzione secondaria di 2° grado o equiparati" (cosi' come prescrive la [legge 11 dicembre 1969, n. 910, art. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1)).   
-L'art. 82, concernente tasse e soprattasse scolastiche, e' soppresso e sostituito come segue:   
-Art. 82. - Le tasse e soprattasse scolastiche da corrispondersi dagli studenti sono uguali a quelle previste dalle vigenti disposizioni di legge per gli studenti delle universita' e degli istituti superiori statali ([legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551), e successive norme modificative ed integrative).   
-L'art. 83, concernente norme disciplinari del personale, e' soppresso con il conseguente spostamento della numerazione degli articoli successivi.   
-L'art. 84, concernente diritti di segreteria, e' soppresso e sostituito come segue:   
-Art. 84. - La misura dei diritti di segreteria dovuti dagli studenti per particolari prestazioni a loro fornite dal personale addetto ai servizi dell'istruzione universitaria e la destinazione dei proventi relativi, saranno determinati con decreto del presidente del consiglio di amministrazione dell'Universita', su proposta del consiglio stesso.   
+Decreta:  
+  
+Lo statuto dell'Universita' commerciale "Luigi Bocconi" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 4 - il testo del penultimo e dell'ultimo comma sono abrogati e sostituiti con il seguente:  
+"In seno al consiglio di amministrazione e' costituito un comitato esecutivo, composto da cinque a sette membri designati dal consiglio stesso, del quale fanno parte di diritto: il presidente (o, in sua sostituzione, il vice-presidente), il consigliere delegato e il rettore.  
+Al comitato esecutivo competono l'esame e la risoluzione delle questioni ad esso delegate dal consiglio di amministrazione e, in genere, la trattazione di questioni urgenti e l'adozione dei provvedimenti relativi".  
+Art. 40 - all'elenco degli insegnamenti complementari del corso di laurea in economia politica vengono aggiunti i seguenti:  
+calcolo automatico (corso progredito);  
+metodi di ricerca operativa (corso progredito);  
+statistica economica;  
+statistica aziendale;  
+lingua giapponese;  
+economia del turismo.  
+Art. 41 - all'elenco degli insegnamenti complementari del corso di laurea in economia aziendale vengono aggiunti i seguenti:  
+diritto delle assicurazioni private;  
+economia delle amministrazioni pubbliche;  
+marketing;  
+economia della distribuzione commerciale;  
+psicologia commerciale;  
+contabilita' e bilanci (corso progredito);  
+organizzazione del lavoro (corso progredito).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1981
+### Dato a Roma, addi' 7 ottobre 1977
 
-PERTINI BODRATO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 9 febbraio 1982
+Registrato alla Corte dei conti, addi' 21 gennaio 1978
 
-Registro n. 20 Istruzione, foglio n. 198
+Registro n. 6 Istruzione, foglio n. 195

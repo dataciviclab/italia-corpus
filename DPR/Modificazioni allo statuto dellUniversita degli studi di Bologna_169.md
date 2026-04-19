@@ -1,164 +1,119 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1962 n. 217
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 819
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1962 n. 217
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 819
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con regio decreto 13 ottobre 1927, e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Veduto il [decreto del Presidente della Repubblica 26 luglio 1960, n. 1692](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-07-26;1692);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 83, relativo alla laurea in Fisica, e' abrogato e sostituito dal seguente:  
-  
-Art. 83. - Il corso di studi per la laurea in Fisica si distingue in tre indirizzi:  
-a) indirizzo generale; b) indirizzo applicativo; c) indirizzo didattico.  
-Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi, per il primo biennio:  
-1) Fisica generale I;  
-2) Fisica generale II;  
-3) Analisi matematica I;  
-4) Analisi matematica II;  
-5) Geometria I;  
-6) Meccanica razionale;  
-7) Chimica con esercitazioni di laboratorio (per fisici);  
-8) Esperimentazione fisica (biennale).  
-Si richiedera' inoltre, alla fine del primo biennio, la prova di conoscenza di due lingue straniere fra le seguenti: francese, inglese, tedesco, russo.  
-I corsi di Fisica I e Fisica II; Analisi I e Analisi II, non sono biennali ma constano di due corsi distinti, l'uno propedeutico all'altro e con esami distinti.  
-Il corso di Meccanica razionale deve essere distinto da quello destinato agli allievi ingegneri ed in comune con gli allievi matematici.  
-I corsi 1), 2), 3), 4), 5), 6) sono accompagnati da esercitazioni (non di laboratorio, che ne fanno parte integrante).  
-I corsi 7) e 8) devono portare i singoli studenti a sperimentare con le proprie mani.  
-Per ciascuno dei corsi elencati vi e' un esame finale. 7  
-Gli insegnamenti obbligatori per il secondo biennio sono i seguenti:  
-a) corsi comuni ai tre indirizzi:  
-1) Struttura della materia;  
-2) Istituzioni di fisica teorica;  
-3) Metodi matematici della fisica;  
-b) corsi per l'indirizzo generale:  
-4) Fisica superiore;  
-5) Fisica teorica;  
-6) Laboratorio di fisica Iª parte;  
-7) Laboratorio di fisica IIª parte;  
-8) Corso a scelta di Matematiche superiori (segnati con asterisco nell'elenco delle materie complementari);  
-9) Corso a scelta di Fisica;  
-c) corsi per l'indirizzo applicativo:  
-4) Laboratorio di fisica Iª parte;  
-5) Laboratorio di fisica IIª parte;  
-6), 7), 8), 9) Numero 4 corsi da determinare a seconda dell'indirizzo di specializzazione;  
-d) corsi per l'indirizzo didattico:  
-4) Complementi di fisica generale Iª parte;  
-5) Complementi di fisica generale IIª parte;  
-6) Preparazione di esperienze didattiche Iª parte;  
-7) Preparazione di esperienze didattiche IIª parte;  
-8), 9) Numero due corsi a scelta.  
-I corsi a-1), a-2), a-3), b-4), b-5), d-4), d-5) possono essere accompagnati da esercitazioni che ne fanno parte integrante.  
-Per ciascuno dei corsi elencati vi e' un esame finale.  
-  
-Elenco (a carattere orientativo) dei corsi complementari di Fisica, da cui potranno essere prescelti quelli lasciati a scelta dello studente:  
-  
-Acustica;  
-\* Algebra;  
-\* Algebra superiore;  
-\* Analisi funzionale;  
-\* Analisi superiore;  
-Astrofisica;  
-Astronomia;  
-Biofisica;  
-Calcolo delle probabilita';  
-Calcoli numerici e grafici;  
-Chimica fisica;  
-Chimica organica;  
-Chimica teorica;  
-Cibernetica e teoria dell'informazione;  
-Conduzione elettrica nei gas;  
-Economia e organizzazione industriale;  
-Elettrologia Elettronica Elettronica applicata;  
-Elettrotecnica;  
-Epistemologia e metodologia;  
-Fisica dei neutroni;  
-Fisica dei reattori;  
-Fisica dell'atmosfera;  
-Fisica delle particelle elementari;  
-Fisica dello stato solido;  
-Fisica matematica;  
-Fisica nucleare;  
-Fisica superiore;  
-Fisica tecnica;  
-Fisica teorica;  
-Fisica terrestre <geofisica): ;  
-Geodesia;  
-Geologia;  
-Geometria IIª;  
-Geometria differenziale;  
-Geometria superiore;  
-Istituzioni di analisi superiore;  
-Istituzioni di fisica nucleare;  
-Istituzioni di geometria superiore;  
-Istituzioni di fisica matematica;  
-Logica matematica;  
-Matematiche complementari;  
-Matematiche elementari da un punto di vista superiore;  
-Matematiche superiori;  
-Meccanica analitica;  
-Meccanica quantistica;  
-Meccanica statistica;  
-Meccanica superiore;  
-Mineralogia;  
-Mineralogia e geologia (per ingegneri);  
-Misure elettriche;  
-Onde elettromagnetiche;  
-Ottica;  
-Ottica elettronica;  
-Pedagogia;  
-Radioastronomia;  
-Radioattivita';  
-Relativita';  
-Sismologia;  
-Spettroscopia;  
-Storia della fisica;  
-Strutturistica;  
-Tecnica del vuoto;  
-Teoria dei reattori nucleari;  
-\*Teoria delle funzioni;  
-\*Teoria e applicazione delle macchine calcolatrici;  
-Termodinamica;  
-Termotecnica.  
-  
-Propedeuticita' e sbarramenti:  
-Potranno iscriversi ai corsi comuni ai tre indirizzi del II biennio soltanto quegli studenti che abbiano superato Fisica I e II, Analisi matematica I e II.  
-  
-Esame di laurea:  
-L'esame di laurea consiste di: un colloquio di cultura generale in fisica; una tesi di laurea scritta alla quale non si richiede necessariamente il carattere di ricerca originale; due tesine su argomenti di Fisica e di Matematica.  
-Superato l'esame di laurea lo studente consegue il titolo di dottore in Fisica, indipendentemente dallo indirizzo prescelto, del quale verra' fatta menzione soltanto nella carriera scolastica.  
-  
-Art. 90. - Il secondo comma, relativo all'esame di laurea in Fisica e' abrogato.  
+Dopo l'art. 701, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione della terza scuola di specializzazione in chirurgia generale afferente alla facolta' di medicina e chirurgia.  
+Scuola di specializzazione in chirurgia generale III  
+Art. 702. - E' istituita presso l'Universita' di Bologna la scuola di specializzazione in chirurgia generale III che conferisce il diploma di specialista in chirurgia generale.  
+Art. 703. - La direzione della scuola ha sede presso l'istituto di clinica chirurgica e cardiochirurgia.  
+Art. 704. - La scuola ha lo scopo di preparare personale medico specializzato nel campo della chirurgia generale.  
+Art. 705. - La durata del corso e' di cinque anni e non e' suscettibile di abbreviazioni.  
+Art. 706. - Il numero degli iscritti e' di cinque pei ogni anno e complessivamente di venticinque per l'intero corso di studi.  
+Art. 707. - Alla scuola sono ammessi solo i laureati in medicina e chirurgia. E' richiesta l'abilitazione all'esercizio professionale.  
+Art. 708. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
+a) la tesi nella disciplina attinente alla specializzazione;  
+b) il voto di laurea;  
+c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
+d) le pubblicazioni nelle predette materie.  
+Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale 16 settembre 1982.  
+Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
+Art. 709. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+clinica chirurgica generale (quinquennale);  
+patologia speciale chirurgica (triennale);  
+semeiotica chirurgica (biennale);  
+anatomia chirurgica e corso di operazioni (triennale);  
+chirurgia sperimentale;  
+anestesia e rianimazione;  
+ricerche di laboratorio.  
+2° Anno:  
+clinica chirurgica generale (quinquennale);  
+patologia speciale chirurgica (triennale);  
+semeiotica chirurgica (biennale);  
+anatomia chirurgica e corso di operazioni (triennale);  
+fisiopatologia chirurgica;  
+trattamento pre e post-operatorio;  
+anatomia e istologia patologica (biennale).  
+3° Anno:  
+clinica chirurgica generale (quinquennale);  
+patologia strumentale ed endoscopia;  
+anatomia chirurgica e corso di operazioni (triennale);  
+radiologia;  
+anatomia ed istologia patologica (biennale).  
+4° Anno:  
+clinica chirurgica generale (quinquennale);  
+chirurgia ginecologica;  
+chirurgia urologica;  
+neurochirurgia;  
+traumatologia ed ortopedia;  
+chirurgia pediatrica.  
+5° Anno:  
+clinica chirurgica generale (quinquennale);  
+chirurgia toracica;  
+chirurgia cardiovascolare;  
+chirurgia riparativa e plastica;  
+chirurgia d'urgenza;  
+medicina legale.  
+Art. 710. - Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni teoriche e le esercitazioni. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
+Art. 711. - La frequenza nei reparti di degenza, nelle sale operatorie, negli ambulatori, nei laboratori di chirurgia sperimentale e' obbligatoria, con un minimo del 75%.  
+Per i corsi che non siano di clinica chirurgica generale viene stabilita, su parere del direttore della scuola, la continuativa frequenza presso i relativi reparti specializzati.  
+Ai fini della frequenza e delle attivita' pratiche potra' essere riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.  
+Art. 712. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.  
+A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista in chirurgia generale.  
+Art. 713. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
+Art. 714. - Il consiglio della scuola, presieduto dal direttore, e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).  
+Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.  
+La direzione della scuola e' affidata a professore ordinario o straordinario che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 marzo 1962
+### Dato a Roma, addi' 28 ottobre 1983
 
-GRONCHI GUI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte del conti, addi' 4 maggio 1962
+Registrato alla Corte dei conti, addi' 18 gennaio 1984
 
-Atti del Governo, registro n. 146, foglio n. 6. - VILLA
+Registro n. 2 Istruzione, foglio n. 196

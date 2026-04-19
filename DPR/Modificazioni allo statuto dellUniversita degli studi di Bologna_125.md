@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1227
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1976 n. 940
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1227
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1976 n. 940
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -12,39 +12,70 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Vedute le proposte di modifiche di statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 497, primo comma, relativo alla scuola di specializzazione in chirurgia che muta la denominazione in quella di scuola di specializzazione in chirurgia generale, e' abrogato e sostituito dal seguente:  
-"Presso la facolta' di medicina e chirurgia e' istituita la scuola di specializzazione in chirurgia generale che conferisce il diploma di specialista in chirurgia generale".  
-L'art. 529, terzo comma, relativo alla scuola di specializzazione in puericultura, e' abrogato e sostituito dal seguente:  
-"L'ammissione alla scuola viene effettuata per titoli ed esami, non possono essere ammessi piu' di ventiquattro allievi per l'intero corso degli studi".  
-Art. 622 - i primi tre commi sono modificati nel senso che la denominazione della scuola di specializzazione in ematologia clinica e di laboratorio e' cambiata in quella di scuola di specializzazione in ematologia generale.  
-Nello stesso art. 622 il quinto ed il sesto comma sono soppressi e sostituiti dal seguente:  
-"Non sono concesse abbreviazioni di corso".  
-Nello stesso art. 622 l'ultimo comma e' soppresso e sostituito dal seguente:  
-"L'ammissione alla scuola e' riservata a coloro i quali sono in possesso della laurea in medicina e chirurgia.  
-L'ammissione alla scuola e' condizionata al superamento di una prova preliminare di cultura. Qualora il numero degli aspiranti sia superiore al numero dei posti disponibili, per l'accettazione si potra' tener conto degli eventuali titoli".  
+Gli articoli 605, 606, 607, 608 e 609, relativi alla scuola di specializzazione in medicina dello sport, sono abrogati e sostituiti dai seguenti:  
+Art. 605. - La scuola di specializzazione in medicina dello sport dell'Universita' degli studi di Bologna si propone:  
+a) di valorizzare e approfondire gli studi biologici e di medicina applicata nel campo delle attivita' sportive, formative e di competizione e della educazione fisica;  
+b) di preparare adeguatamente sotto l'aspetto teorico e della applicazione pratica, i medici che intendono dedicarsi alle attivita' attinenti a questa particolare branca della medicina applicata, conferendo ad essi il diploma di specialisti in medicina dello sport.  
+Art. 606. - Il titolo richiesto per l'ammissione alla scuola e' la laurea in medicina e chirurgia.  
+Il corso di studi ha la durata di 3 anni, con frequenza obbligatoria, esso ha la sua sede ufficiale presso l'istituto di fisiologia umana.  
+Gli insegnamenti clinici e specialistici si svolgeranno presso i rispettivi istituti clinici e specialistici.  
+Il numero massimo degli allievi sara' di trenta per anno e complessivamente di novanta per l'intero corso.  
+L'ammissione ai corsi avviene per titoli. Nel caso di domande eccedenti il numero dei posti disponibili la selezione dei candidati avverra' in base ai risultati di un esame di ammissione.  
+La direzione del corso e' affidata al direttore dell'istituto di fisiologia umana.  
+Art. 607. - L'ordine degli studi e' il seguente:  
+1° Anno:  
+1) anatomia dell'apparato locomotore;  
+2) fisiologia dell'apparato locomotore;  
+3) biochimica ed energetica muscolare;  
+4) antropometria e auxologia;  
+5) fisiologia applicata allo sport;  
+6) storia dell'educazione fisica e dello sport;  
+7) sistematica delle attivita' sportivo-agonistiche e regolamenti sportivi.  
+2° Anno:  
+1) fisiologia dell'esercizio fisico;  
+2) biomeccanica dell'esercizio fisico;  
+3) metodologia dell'allenamento sportivo;  
+4) scienza della nutrizione applicata all'attivita' sportiva;  
+5) fisiopatologia degli sport e semeiotica medicosportiva;  
+6) farmacologia e tossicologia del doping;  
+7) igiene e medicina preventiva applicata all'attivita' sportiva;  
+8) traumatologia degli sport.  
+3° Anno:  
+1) fisiologia applicata agli sport;  
+2) valutazione funzionale dello sportivo;  
+3) fisiopatologia degli sport e semeiotica medicosportiva;  
+4) fisioterapia e rieducazione funzionale;  
+5) rianimazione e pronto soccorso;  
+6) medicina legale e infortunistica applicata agli sport;  
+7) fisiologia dell'adattamento agli ambienti straordinari.  
+La scuola svolgera' brevi corsi integrativi di conferenze o seminari sopra argomenti e discipline che saranno stabiliti, secondo le possibilita' contingenti, dal consiglio dei docenti della scuola.  
+Saranno inoltre svolte esercitazioni pratiche in sede e sul campo.  
+Art. 608- Alla fine di ogni anno di corso gli allievi dovranno sostenere l'esame di profitto nelle materie di insegnamento (art. 607), previste per ogni anno di corso e articolate in un unico gruppo.  
+L'iscrizione agli anni successivi e' subordinata al superamento di tutti gli esami annuali.  
+Art. 609. - Il diploma si consegue dopo aver superato tutte le prove di esame del triennio; la prova di diploma si svolge con la discussione su una dissertazione scritta concernente un tema assegnato o in ogni altro caso approvato dal direttore della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1977
+### Dato a Roma, addi' 28 ottobre 1976
 
 LEONE MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 27 giugno 1978
+Registrato alla Corte dei conti, addi' 30 dicembre 1976
 
-Registro n. 67 Istruzione, foglio n. 361
+Registro n. 105 Istruzione, foglio n. 310

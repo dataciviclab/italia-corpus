@@ -1,21 +1,70 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 887
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1956 n. 1148
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 887
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1956 n. 1148
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con i [regi decreti 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-26;1734); [26 ottobre 1940, n. 2069](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2069); [4 maggio 1942, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-05-04;565); [24 luglio 1942, n. 949](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-24;949); [24 agosto 1942, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-08-24;1098); [24 ottobre 1942, n. 1672; con decreto luogotenenziale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo.luogotenenziale:1942-10-24;1672) [8 febbraio 1946, n. 242; con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-02-08;242) [12 aprile 1947, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-12;461) e [31 dicembre 1947, n. 1758 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1758) [24 dicembre 1948, n. 1619](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-12-24;1619); [18 luglio 1949, n. 882](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-07-18;882); [20 ottobre 1949, n. 989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;989); [20 ottobre 1949, n. 991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;991); [20 ottobre 1949, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;1178); [30 ottobre 1949, n. 1152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1152), [11 giugno 1950, n. 622](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;622); [16 novembre 1950, n. 1313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-11-16;1313); [11 maggio 1951, n. 653](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-05-11;653); [27 ottobre 1951, n. 1813](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1813); [14 aprile 1952, n. 888](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-04-14;888); [16 agosto 1952, n. 2589](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-08-16;2589); [19 settembre 1952, n. 1697](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-19;1697); [11 marzo 1953, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;565); [12 maggio 1953, n. 570](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-05-12;570); [25 agosto 1953, n. 834](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;834); [26 ottobre 1954, n. 1232](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-26;1232); [12 febbraio 1955, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-12;34); [30 giugno 1955, n. 694](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-06-30;694); [19 luglio 1955, n. 760](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-19;760); [27 luglio 1955, n. 784](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-27;784) e [4 ottobre 1955, n. 962](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-10-04;962);
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 24. - Agli insegnamenti attribuiti all'Istituto di studi economici, finanziari e statistici annesso alla Facolta' di scienze politiche, e' aggiunto quello di "statistica".
+
+Art. 60. - Agli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto quello di "letterature popolari".
+
+Art. 62. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto quello di "letterature popolari".
+
+Art. 161. - Agli insegnamenti complementari del corso di laurea in farmacia in aggiunto quello di "chimica farmaceutica applicata".
+
+Il presente decreto, munito del sigillo dello stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 5 settembre 1956
+
+GRONCHI
+
+ROSSI
+
+Visto, il Guardasigilli: MORO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 18 ottobre 1956 Atti del Governo, registro n. 101, foglio n. 50. - CARLOMAGNO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con i [regi decreti 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-26;1734); [26 ottobre 1940, n. 2069](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2069); [4 maggio 1942, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-05-04;565); [24 luglio 1942, n. 949](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-24;949); [24 agosto 1942, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-08-24;1098); [24 ottobre 1942, n. 1672; con decreto luogotenenziale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo.luogotenenziale:1942-10-24;1672) [8 febbraio 1946, n. 242; con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-02-08;242) [12 aprile 1947, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-12;461) e [31 dicembre 1947, n. 1758 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1758) [24 dicembre 1948, n. 1619](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-12-24;1619); [18 luglio 1949, n. 882](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-07-18;882); [20 ottobre 1949, n. 989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;989); [20 ottobre 1949, n. 991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;991); [20 ottobre 1949, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;1178); [30 ottobre 1949, n. 1152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1152), [11 giugno 1950, n. 622](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;622); [16 novembre 1950, n. 1313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-11-16;1313); [11 maggio 1951, n. 653](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-05-11;653); [27 ottobre 1951, n. 1813](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1813); [14 aprile 1952, n. 888](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-04-14;888); [16 agosto 1952, n. 2589](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-08-16;2589); [19 settembre 1952, n. 1697](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-19;1697); [11 marzo 1953, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;565); [12 maggio 1953, n. 570](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-05-12;570); [25 agosto 1953, n. 834](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;834); [26 ottobre 1954, n. 1232](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-26;1232); [12 febbraio 1955, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-12;34); [30 giugno 1955, n. 694](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-06-30;694); [19 luglio 1955, n. 760](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-19;760); [27 luglio 1955, n. 784](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-27;784) e [4 ottobre 1955, n. 962](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-10-04;962);  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -24,85 +73,18 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 217, 219 e 220, relativi alla scuola di perfezionamento in diritto sindacale e del lavoro, che muta la denominazione in quella di "Scuola di perfezionamento in diritto sindacale, del lavoro e della previdenza sociale", sono abrogati e sostituiti dai seguenti:  
-Art. 217. - La scuola di perfezionamento in diritto sindacale, del lavoro e della previdenza sociale, annessa alla facolta' di giurisprudenza, ha lo scopo di perfezionare i giovani nelle discipline sindacali, del lavoro e della previdenza sociale, di integrarne la preparazione scientifica e di approfondire, nella ricerca, la loro conoscenza del diritto del lavoro, dell'organizzazione sindacale e del sistema previdenziale.  
-Art. 219. - La scuola rilascia un diploma di perfezionamento in diritto sindacale, del lavoro e della previdenza sociale, dopo due anni di corso e dopo che i candidati abbiano superato gli esami nelle materie costitutive della scuola e nelle altre materie in cui sia prescritto l'esame.  
-Art. 220. - Il corso si distingue in due indirizzi:  
-a) sindacale e del lavoro; b) previdenziale.  
-Sono insegnamenti costitutivi dell'indirizzo sindacale e del lavoro:  
-1) Diritto del lavoro;  
-2) Diritto sindacale;  
-3) Principi di sicurezza sociale;  
-4) Diritto della previdenza sociale;  
-5) Storia del lavoro e del movimento sindacale;  
-6) Diritto sindacale e del lavoro comparato;  
-7) Tecnica sindacale;  
-8) Economia del lavoro.  
-Sono insegnamenti costitutivi dell'indirizzo previdenziale:  
-1) Diritto del lavoro;  
-2) Diritto sindacale;  
-3) Principi di sicurezza sociale;  
-4) Diritto della previdenza sociale;  
-5) Storia e comparazione della previdenza sociale;  
-6) Organizzazione amministrativa del lavoro;  
-7) Tecnica delle assicurazioni sociali;  
-8) Assicurazione sociale di invalidita', vecchiaia e superstiti;  
-9) Assicurazione sociale di malattia;  
-10) Assicurazione sociale per infortuni e malattie professionali.  
-Il consiglio stabilisce e pubblica sul manifesto annuale quali degli insegnamenti suddetti abbiano durata biennale e determina quali altri insegnamenti a carattere monografico possono essere impartiti e se su tali insegnamenti debba sostenersi la relativa prova di esame.  
-Al momento dell'iscrizione al corso l'allievo deve indicare quale dei due indirizzi intende seguire.  
-Gli articoli da 355 a 359, relativi alla scuola di glottologia, sono abrogati e sostituiti dai seguenti:  
+Art. 24. - Agli insegnamenti attribuiti all'Istituto di studi economici, finanziari e statistici annesso alla Facolta' di scienze politiche, e' aggiunto quello di "statistica".  
+Art. 60. - Agli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto quello di "letterature popolari".  
+Art. 62. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto quello di "letterature popolari".  
+Art. 161. - Agli insegnamenti complementari del corso di laurea in farmacia in aggiunto quello di "chimica farmaceutica applicata".  
   
-Scuola di glottologia  
-Art. 355. - La scuola di glottologia conferisce il diploma di perfezionamento in glottologia.  
-Art. 356. - Titolo di ammissione e' la laurea in lettere.  
-Per il secondo comma dell'art. 290 del presente statuto, il consiglio della scuola puo' sottoporre gli aspiranti a un colloquio preliminare.  
-Il consiglio della scuola giudica altresi' dell'ammissibilita' di aspiranti provvisti di laurea diversa.  
-Il corso della scuola ha la durata di due anni.  
-Art. 357. - Il perfezionamento in glottologia ha per oggetto due indirizzi di studi:  
-a) la linguistica indoeuropea;  
-b) la linguistica generale.  
-Art. 358. - Sono insegnamenti costitutivi della scuola:  
-a) Per la linguistica indoeuropea:  
-1) Glottologia;  
-2) Storia comparata delle lingue classiche;  
-3) Linguistica celtica;  
-4) Linguistica germanica;  
-5) Linguistica italica;  
-6) Linguistica balto-slava;  
-7) Linguistica indo-iranica;  
-8) Linguistica anatolica;  
-9) Linguistica armenica;  
-10) Linguistica albanese;  
-11) Linguistica romanza;  
-12) Storia della lingua italiana;  
-13) Dialettologia italiana;  
-14) Fonetica sperimentale.  
-b) Per la linguistica generale:  
-1) Glottologia;  
-2) Teoria della lingua e del linguaggio;  
-3) Fonetica sperimentale;  
-4) Linguistica quantitativa e matematica;  
-5) Psicolinguistica;  
-6) Sociolinguistica;  
-7) Etnolinguistica;  
-8) Linguistica applicata;  
-9) Lessicologia applicata.  
-Art. 359. - Per essere ammessi a sostenere l'esame di diploma gli iscritti devono aver superato un esame biennale di glottologia e gli esami di altre sei annualita' di corso tra le materie del gruppo prescelto (a) o b), di cui all'art. 358).  
-Con l'approvazione da parte del consiglio della scuola, nel piano di studio, presentato alla direzione della stessa, possono essere programmate materie di entrambi i gruppi.  
-Previa autorizzazione del consiglio della scuola, gli iscritti possono sostituire al massimo quattro annualita' dei corsi previsti con altrettante annualita' previste in altri corsi di perfezionamento.  
-L'esame di diploma consiste nella discussione di una dissertazione che abbia carattere di ricerca originale e che rientri nell'ambito delle discipline elencate nell'articolo precedente.  
+Il presente decreto, munito del sigillo dello stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.  
   
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Dato a Roma, addi' 31 ottobre 1974
-
-LEONE MALFATTI
-
-Visto, il Guardasigilli: REALE
-
-Registrato alla Corte dei conti, addi' 21 marzo 1975
-
-Atti di Governo, registro n. 9, foglio n. 5
+Dato a Roma, addi' 5 settembre 1956  
+  
+GRONCHI  
+  
+ROSSI   
+Visto, il Guardasigilli: MORO  
+Registrato alla Corte dei conti, addi' 18 ottobre 1956  
+Atti del Governo, registro n. 101, foglio n. 50. - CARLOMAGNO  

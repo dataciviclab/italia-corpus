@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 gennaio 1972 n. 157
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 giugno 1969 n. 523
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 gennaio 1972 n. 157
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 giugno 1969 n. 523
+=============================================================
 
 Autorizzazione all'Associazione italiana della croce rossa ad accettare un legato.
 ----------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-157. Decreto del Presidente della Repubblica 31 gennaio 1972, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa viene autorizzata ad accettare il legato di L. 1.000.000 disposto in favore del dipendente sottocomitato di Codogno (Milano) dalla signora Irma Cassoni vedova Folli con testamento olografo pubblicato per atto del notaio Bignani di Codogno il 9 marzo 1970, repertorio n. 8501/4546.  
+523. Decreto del Presidente della Repubblica 25 giugno 1969, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa viene autorizzata ad accettare il legato di L. 5.000.000, disposto in favore del dipendente comitato provinciale di Milano, dal defunto Balducci ing. Rolandino, detto Rolando, con testamento olografo a rogito notar Guasti di Milano, pubblicato il 9 novembre 1967, registro n. 67246.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 20 aprile 1972  
-Atti del Governo, registro n. 248, foglio n. 59. - VALENTINI
+Visto, il Guardasigilli: GAVA  
+Registrato alla Corte dei conti, addi' 6 agosto 1969  
+Atti del Governo, registro n. 228, foglio n. 139. - CARUSO

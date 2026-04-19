@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1962 n. 1318
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 giugno 1963 n. 903
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1962 n. 1318
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 giugno 1963 n. 903
+=============================================================
 
 Autorizzazione alla "Fondazione Pro Juventute Don Carlo Gnocchi" ad accettare un legato.
 ----------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1318. Decreto del Presidente della Repubblica 1 agosto 1962, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi" viene autorizzata ad accettare la quota parte di un legato disposto dalla defunta signora Anna Maria Ida Biancardi vedova Mauri a termini del testamento olografo 24 novembre 1938, depositato e pubblicato per atto a rogito notaio dott. Giovanni Scamarone di Milano in data 8 ottobre 1960, n. 30312 di repertorio, a favore dell'"Opera Don Carlo Gnocchi" di Milano.  
+903. Decreto del Presidente della Repubblica 2 giugno 1903, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi" viene autorizzata ad accettare un legato consistente nella somma di lire 1.500.000, disposto a suo favore dal defunto signor Adolfo Bellentani con testamento pubblico a rogito notaio dott. Camillo Aggazzotti di Modena, in data 31 ottobre 1961, n. 159 di repertorio, registrato in data 15 novembre 1961, rep. n. 65853,6224.  
   
 Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 31 agosto 1962  
-Atti del Governo, registro n. 158, foglio n. 82. - VILLA
+Registrato alla Corte dei conti, addi' 27 giugno 1963  
+Atti del Governo, registro n. 171, foglio n. 39. - VILLA

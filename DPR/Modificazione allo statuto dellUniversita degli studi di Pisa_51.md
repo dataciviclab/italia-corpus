@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 1020
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1985 n. 852
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 1020
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1985 n. 852
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -39,19 +39,23 @@ Articolo unico
 --------------
 
   
-Nell'art. 67, relativo al corso di laurea in storia, all'elenco degli insegnamenti complementari dell'indirizzo contemporaneo di cui alla lettera D) e' aggiunto il seguente nuovo insegnamento:  
-storia dell'Africa contemporanea.  
+Nell'art. 63, relativo al corso di laurea in filosofia della facolta' di lettere e filosofia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+storia della filosofia dal Rinascimento all'Illuminismo;  
+istituzioni di filosofia;  
+lingue e letterature indiane dravidiche.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 maggio 1983
+### Dato a Roma, addi' 24 settembre 1985
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 29 febbraio 1984
+Registrato alla Corte dei conti, addi' 21 gennaio 1986
 
-Registro n. 13 Istruzione, foglio n. 88
+Registro n. 2 Istruzione, foglio n. 101

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1952 n. 1026
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 gennaio 1982 n. 92
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1952 n. 1026
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 gennaio 1982 n. 92
+=============================================================
 
 Autorizzazione all'Universita' cattolica del Sacro Cuore di Milano ad accettare una eredita'.
 ---------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1026. Decreto del Presidente della Repubblica 2 aprile 1952, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' cattolica del Sacro Cuore di Milano viene autorizzata ad accettare la eredita' della terza parte del patrimonio disposto in suo favore, con testamento olografo in data 4 marzo 1945, dalla defunta signorina Pisano Cristina, ammontante complessivamente a circa L. 15.000.000 e consistente in una casa a Villanova Monferrato ed in terreni.  
+92. Decreto del Presidente della Repubblica 6 gennaio 1982, col quale, sulla proposta del Ministro della pubblica istruzione, l'Universita' cattolica del Sacro Cuore di Milano viene autorizzata ad accettare, con beneficio d'inventario, l'eredita', consistente in terreni e fabbricati siti in Orvieto (Terni), censiti nel nuovo catasto terreni alla partita n. 154, in fabbricati urbani censiti nel catasto edilizio urbano alla partita n. 48, foglio 209, particelle 65/1-84, e in un immobile non censito ma indicato nel nuovo catasto terreni alla partita n. 1, foglio 209, particella 87, il tutto per un valore complessivo di L. 510.000.000, disposta dalla sig.na Anna Astorri con testamento olografo 26 maggio 1976, pubblicato in data 10 luglio 1979, n. 21783 di repertorio, a rogito dott. Cavicchioni Marcello, notaio in Roma, registrato a Roma in data 8 agosto 1979 al n. 10134.  
   
-Visto, ai Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 23 luglio 1952  
-Atti del Governo, registro n. 56, foglio n. 61. - CARLOMAGNO
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 15 marzo 1982  
+Registro n. 41 Istruzione, foglio n. 291

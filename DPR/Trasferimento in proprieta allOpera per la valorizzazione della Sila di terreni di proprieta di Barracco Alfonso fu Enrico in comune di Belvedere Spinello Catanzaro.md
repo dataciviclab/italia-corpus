@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 agosto 1951 n. 845
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1950 n. 775
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 agosto 1951 n. 845
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1950 n. 775
+================================================================
 
 Trasferimento in proprieta' all'Opera per la valorizzazione della Sila di terreni di proprieta' di Barracco Alfonso fu Enrico, in comune di Belvedere Spinello (Catanzaro).
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77, comma primo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77-com1), ed [87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5) della Repubblica;
 
-Vista la [legge 12 maggio 1950, n. 230, e l'art. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art16) della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
+Vista la [legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230);
 
-In virtu' della delegazione concessa con l'[art. 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5);
+In virtu' della delegazione concessa con l'art. 5 della legge predetta;
 
-Udito il parere, in data 5 giugno 1951, della Commissione parlamentare, nominata a norma dell'[art. 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), la quale ha esaminato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di Belvedere Spinello (Catanzaro), della superficie di Ha. 9.85.70, nei confronti di Barracco Alfonso fu Enrico;
+Udito il parere, in data 24 agosto 1950, della Commissione parlamentare, nominata a norma dell'[art. 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), la quale ha esaminato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel Comune di Belvedere Spinello (Catanzaro), della superficie di ettari 716.68.54, nei confronti di Barracco Alfonso fu Enrico.
 
 Sentito il Consiglio dei Ministri;
 
@@ -29,18 +29,15 @@ Art. 1
 ------
 
   
-E' approvato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di Belvedere Spinello (Catanzaro), della superficie di Ha. 9.85.70, nei confronti di Barracco Alfonso fu Enrico.  
+E' approvato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di Belvedere Spinello (Catanzaro), della superficie di ettari 716.68.54, nei confronti di Barracco Alfonso fu Enrico.  
 
 Art. 2
 ------
 
   
 E' ordinata la immediata occupazione, da parte dell'Opera per la valorizzazione della Sila, dei terreni, di cui al precedente art. 1, confinanti:  
-il primo corpo, della superficie di Ha. 1.47.60, a nord, con la proprieta' di Ianopoli Vito fu Giuseppe;  
-a sud, con quella di Arnone Rosa fu Francesco; a sud-est, con quella di Ioele Agata di Luigi maritata Sculco; ad ovest, con quella del comune di Belvedere Spinello;  
-il secondo corpo della superficie di Ha. 0.77.80, a nord, con il fosso Crichimi; a sud, con la proprieta' di De Matteis Giulio fu Domenico; ed est, con quella di Iona Francesco di Antonio; ad ovest, con la proprieta' di Basile Francesco fu Nicola proprietario e Diano Angelina fu Antonio vedova Strada usufruttuaria;  
-il terzo corpo, della superficie di Ha. 3.58.60, a nord, con la proprieta' dello stesso Barracco venduta ai quotisti di Belvedere Spinello; a sud-est, con la comunale Polligrone; ad ovest, con il fosso Malapezza;  
-il quarto corpo, della superficie di Ha. 4.01.70, a nord-est, con la comunale Belvedere Spinello-Rocca di Neto; ad ovest, con il fosso Malapezza; a sud, con la proprieta' della Societa' anonima Bonifiche Idrauliche agrarie del Mezzogiorno.  
+il primo corpo, della superficie di ettari 44.62.30, a nord-ovest, con le particelle 44 e 25, foglio 15, part. 68, intestate a Barracco Alfonso, recentemente vendute ai contadini di Belvedere Spinello; a nord-est, con il limite intercomunale con Casabona; a sud-est, con la strada comunale Polligrone; a sud-ovest, con la particella 53, foglio 15, part. 68 intestata a Barracco Alfonso, recentemente venduta ai contadini di Belvedere Spinello;  
+il secondo corpo, della superficie di ettari 672.06.24, a nord, con il limite intercomunale con Casabona; ad est, con il limite intercomunale con Rocca di Neto; a sud, con quest'ultimo e con la particella 21, foglio 18, part. 635 intestata alla Societa' Beni rustici crotonesi e con la strada comunale Belvedere Spinello-Rocca di Neto; ad ovest, con il fosso Malapezza; a nord-ovest con la strada comunale Polligrone.  
 
 Art. 3
 ------
@@ -58,23 +55,22 @@ L'elenco dei terreni, compresi nel piano di espropriazione di cui all'art. 1, co
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 agosto 1951
+### Dato a Roma, addi' 22 settembre 1950
 
-EINAUDI DE GASPERI - FANFANI
+EINAUDI DE GASPERI - SEGNI
 
-Visto, il Guardasigilli: ZOLI
+Visto, il Guardasigilli: PICCIONI
 
-Registrato alla Corte dei conti, addi' 13 settembre 1951
+Registrato alla Corte dei conti, addi' 22 settembre 1950
 
-Atti del Governo, registro n. 43, foglio n. 30. - CARLOMAGNO
+Atti del Governo, registro n. 35, foglio n. 138. - CARLOMAGNO
 
 Elenco
 
  COMUNE DI BELVEDERE SPINELLO (Catanzaro)   
+  
 Elenco dei terreni espropriati nei confronti di Barracco Alfonso fu Enrico a termini degli [articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art1) e [2 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art2)
   
   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=051U084500100010110001&dgu=1951-09-14&art.dataPubblicazioneGazzetta=1951-09-14&art.codiceRedazionale=051U0845)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=050U077500100010110001&dgu=1950-09-23&art.dataPubblicazioneGazzetta=1950-09-23&art.codiceRedazionale=050U0775)
   

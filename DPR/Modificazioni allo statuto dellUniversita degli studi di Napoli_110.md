@@ -1,109 +1,192 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 886
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1071
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 886
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1071
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
-
-Veduto il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Nell'art. 66, relativo al biennio di specializzazione del corso di laurea in scienze politiche, all'elenco degli insegnamenti a scelta dello studente per l'indirizzo politico-sociale e' aggiunto il seguente nuovo insegnamento:  
-economia e politica agraria.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Nell'art. 173, relativo all'elenco degli insegnamenti complementari del corso di laurea in fisica, e' aggiunto il seguente nuovo insegnamento:  
-didattica della fisica.  
-
-Art. 3
-------
-
+Decreta:  
   
-Nell'art. 188, relativo al corso di laurea in scienze biologiche, sono aggiunti i seguenti nuovi insegnamenti:  
-citochimica ed istochimica;  
-citologia ed istologia.  
-
-Art. 4
-------
-
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 374 - 375, relativi alla "Scuola di specializzazione in malattie nervose e mentali" che muta la denominazione in quella di "Scuola di specializzazione in neurologia" sono abrogati e sostituiti dai seguenti:  
   
-Nell'art. 99, relativo al corso di laurea in lettere, allo elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-didattica del latino;  
-letteratura teatrale italiana;  
-agiografia;  
-filologia italiana;  
-letteratura del Rinascimento;  
-storia economica e sociale del Medioevo.  
-
-Art. 5
-------
-
+Scuola di specializzazione in neurologia  
   
-Nell'art. 232, relativo all'elenco degli insegnamenti complementari dei corsi di laurea in ingegneria, sono aggiunti i nuovi seguenti insegnamenti:  
-conversione statica dell'energia;  
-elettronica industriale;  
-strutture aeromissilistiche.  
-
-Art. 6
-------
-
+Art. 374. - La scuola ha la durata di quattro anni. Il numero degli allievi da ammettere alla scuola non puo' essere superiore a trenta per ogni anno di corso.  
+La scelta dei candidati da ammettere al primo anno di corso sara' fatta in base ai titoli di studio ed al risultato di una prova scritta di esame, seguita eventualmente, da una prova orale.  
+Art. 375. - Le materie di insegnamento, tutte obbligatorie, sono le seguenti:  
   
-Nell'art. 129, relativo al corso di laurea in medicina e chirurgia della prima facolta' di medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-tossicologia industriale.  
-Nell'art. 153, relativo al corso di laurea in medicina e chirurgia della seconda facolta' di medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-otorinolaringoiatria pediatrica.  
-
-Art. 7
-------
-
+1° Anno (internato in psichiatria):  
+Anatomia ed istologia del S.N.;  
+Fisiologia del S.N.;  
+Biochimica del S.N.;  
+Genetica (elementi);  
+Psicologia generale;  
+Psicopatologia;  
+Semeiotica psichiatrica.  
   
-Nell'art. 22, relativo al corso di laurea in giurisprudenza, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
-diritto dell'esecuzione penale.  
+2° Anno:  
+Anatomia ed istologia patologica del S.N.;  
+Semeiotica neurologica;  
+Patologia speciale e diagnostica neurologica (1°);  
+Neuroradiologia;  
+Endocrinologia e neurologia vegetativa.  
+  
+3° Anno:  
+Patologia speciale e diagnostica neurologica (2°);  
+Clinica neurologica (1°);  
+Elettroencefalografia;  
+Elettromiografia, elettrodiagnostica ed elettroterapia;  
+Neuro-oftalmologia;  
+Neuro-otologia;  
+Esami di laboratorio.  
+  
+4° Anno:  
+Clinica neurologica e terapia (2°);  
+Neurochirurgia;  
+Teoria e clinica della riabilitazione;  
+Neuro-traumatologia anche sotto l'aspetto della medicina legale;  
+Neurologia in rapporto alla patologia internistica.  
+  
+Gli iscritti al primo corso hanno l'obbligo di internato in psichiatria per l'intero anno scolastico. Tale internato potra' essere, a giudizio del direttore della scuola, ridotto a non meno di sei mesi per i medici che prestano servizio in reparto neurologico ed a non meno di quattro mesi per coloro che prestano servizio in ospedale psichiatrico.  
+Gli iscritti al secondo, terzo e quarto corso hanno l'obbligo di internato nella clinica neurologica per l'intero anno scolastico.  
+Tale internato potra' essere ridotto, a giudizio del direttore della scuola, a non meno di quattro mesi per anno per i medici che prestano regolare servizio in reparto neurologico.  
+Su proposta del direttore della scuola e previo superamento di un esame di ammissione, potranno essere concesse le seguenti abbreviazioni di corso: di due anni a coloro che sono gia' in possesso di specializzazione in psichiatria o in neuropsichiatria infantile o in neurochirurgia; di un anno a coloro che sono gia' in possesso di specializzazione in discipline affini (medicina interna, otorinolaringoiatria, oculistica, radiologia).  
+Gli esami saranno sostenuti alla fine di ciascun anno; non saranno ammessi al corso successivo coloro i quali non avranno superato gli esami dell'anno a cui sono iscritti.  
+Al termine dei quattro anni di corso, per conseguire il diploma di specializzazione, gli iscritti dovranno presentare una dissertazione scritta su argomenti di neurologia e sostenere un esame pratico dinanzi ad una commissione composta di cinque insegnanti della scuola e presieduta dal direttore della scuola stessa.  
+Gli articoli 376 - 377, relativi alla "Scuola di specializzazione in otorinolaringoiatria" che muta la denominazione in quella di "Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale" sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale  
+  
+Art. 376. - La scuola ha la durata di tre anni. Il numero degli allievi da ammettere alla scuola non puo' essere superiore a dieci; l'ammissione avverra' a seguito di concorso per esame scritto e titoli. Gli iscritti hanno l'obbligo della frequenza in clinica per tutta la durata del corso.  
+Art. 377. - Le materie di insegnamento, tutte obbligatorie, sono le seguenti:  
+  
+1° Anno:  
+Anatomia;  
+Fisiologia;  
+Audiologia (1° anno):  
+Semeiotica otorinolaringoiatrica;  
+Tecnica di laboratorio;  
+Patologia otorinolaringoiatrica e cervico-facciale (1° anno);  
+Anatomia ed istologia patologica otorinolaringoiatrica.  
+  
+2° Anno:  
+Tecniche operatorie in otorinolaringoiatria;  
+Anestesiologia in otorinolaringoiatria;  
+Patologia e clinica otorinolaringoiatrica e cervicofacciale (2° anno);  
+Radiologia in rapporto con l'otorinolaringoiatria;  
+Pediatria in rapporto con l'otorinolaringoiatria;  
+Audiologia (2° anno);  
+Otoneurologia;  
+Foniatria.  
+  
+3° Anno:  
+Patologia e clinica otorinolaringoiatrica e cervicofacciale;  
+Terapia medica e fisica in otorinolaringoiatria;  
+Neuropatologia in rapporto con l'otorinolaringoiatria;  
+Oculistica in rapporto con l'otorinolaringoiatria;  
+Chirurgia plastica;  
+Tracheobroncoscopia;  
+Medicina legale ed infortunistica in otorinolaringoiatria.  
+  
+Gli insegnamenti sono teorici e pratici e vengono integrati da esercitazioni.  
+Gli iscritti alla scuola hanno l'obbligo alla frequenza alle lezioni ed alle esercitazioni.  
+Gli esami di profitto sono dati per materia alla fine di ciascun anno di corso, non saranno ammessi all'anno successivo coloro i quali non avranno superato gli esami dell'anno precedente.  
+Al termine dei tre anni di corso, per conseguire il diploma di specializzazione, gli iscritti dovranno presentare una dissertazione scritta su argomenti di otorinolaringoiatria e sostenere la relativa discussione.  
+Gli articoli da 452 a 460 relativi alla scuola di specializzazione in chirurgia vascolare sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in chirurgia vascolare  
+  
+Art. 452. - Alla facolta' di medicina e chirurgia e' annessa la scuola di specializzazione in chirurgia vascolare.  
+Art. 453. - La durata del corso degli studi per il conseguimento del diploma di specialista in chirurgia vascolare e' di tre anni.  
+Art. 454. - Possono ottenere l'iscrizione alla scuola i laureati in medicina e chirurgia. Il numero massimo degli iscritti e' di nove in ogni anno di corso.  
+Non sono consentite abbreviazioni di corso.  
+Art. 455. - La direzione della scuola e' affidata al titolare della materia o titolare di clinica o di patologia chirurgica.  
+Art. 456. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
+  
+1° Anno:  
+Embriologia, anatomia macro e microscopica dello apparato vascolare;  
+Fisiopatologia dell'apparato vascolare e della coagulazione sanguigna;  
+Anatomia patologica dell'apparato vascolare;  
+Semeiologia fisica e strumentale delle malattie vascolari;  
+Semeiologia radiologica delle malattie vascolari;  
+Vasculopatie di interesse medico e specialistico.  
+  
+2° Anno:  
+Patologia e clinica delle malattie del sistema arterioso;  
+Patologia e clinica delle malattie del sistema venoso;  
+Patologia e clinica delle malattie del sistema linfatico;  
+Patologia e clinica delle malattie dei piccoli vasi.  
+  
+3° Anno:  
+Nozioni di terapia medica delle malattie vascolari;  
+Terapia chirurgica delle malattie vascolari;  
+Chirurgia vascolare applicata a malattie dei vari organi.  
+  
+Art. 457. - L'insegnamento sara' dottrinario o pratico.  
+Gli iscritti hanno l'obbligo di frequenza sia alle lezioni che al tirocinio pratico.  
+Art. 458. - Il superamento degli esami dell'anno precedente e' condizione indispensabile per l'iscrizione all'anno successivo.  
+Art. 459. - Alla fine del triennio gli specializzandi dovranno superare una prova orale teorica ed una prova clinica prima di essere ammessi all'esame del diploma.  
+Art. 460. - L'esame di diploma consistera' nella discussione di una tesi scritta su argomenti di chirurgia vascolare.  
+Dopo l'art. 470 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in "Nefrologia medica".  
+  
+Scuola di specializzazione in nefrologia medica  
+  
+Art. 471. - La scuola di specializzazione in nefrologia medica ha la durata di tre anni. Sono ammessi i laureati in medicina e chirurgia, in numero non superiore a dieci per ogni anno di corso.  
+La direzione della scuola e' affidata al direttore dell'istituto di clinica medica generale I.  
+Art. 472. - Le materie d'insegnamento sono:  
+  
+1° Anno:  
+Struttura ed ultrastruttura normale del rene;  
+Aspetti biochimici della funzione renale;  
+Fisiologia renale;  
+Semeiologia renale (fisica, radiologica, funzionale);  
+Microbiologia ed immunologia applicata alla nefrologia;  
+Struttura ed ultrastruttura patologica del rene.  
+  
+2° Anno:  
+Patologia del ricambio idro-salino;  
+Insufficienza renale acuta e cronica;  
+Nefropatie glomerulari;  
+Nefropatie tubulari;  
+Farmacologia d'interesse nefrologico;  
+Terapia dietetica e dialitica (I corso).  
+  
+3° Anno:  
+Nefropatie interstiziali;  
+Nefropatie malformative e neoplastiche;  
+Nefropatie vascolari;  
+Terapia dietetica e dialitica (II corso);  
+Terapia generale delle nefropatie (antibiotica, antireattiva, sintomatica).  
+  
+Art. 473. - La frequenza alle lezioni e' obbligatoria. Per l'iscrizione all'anno successivo occorre aver superato tutti gli esami dell'anno precedente.  
+Art. 474. - Alla fine del triennio per conseguire il diploma di specializzazione gli iscritti dovranno presentare dissertazione scritta su argomenti attinenti alla scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1983
+### Dato a Roma, addi' 31 ottobre 1972
 
-PERTINI FALCUCCI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 30 gennaio 1984
+Registrato alla Corte dei conti, addi' 3 marzo 1973
 
-Registro n. 4 Istruzione, foglio n. 382
+Atti di Governo, registro n. 256, foglio n. 49. - VALENTINI

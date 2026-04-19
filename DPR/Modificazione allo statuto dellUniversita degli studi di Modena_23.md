@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1038
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1984 n. 875
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1038
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1984 n. 875
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
@@ -33,25 +33,25 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' di Modena, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Art. 9 - nell'elenco degli insegnamenti complementari, relativo al corso di laurea in giurisprudenza, e' aggiunto il seguente nuovo insegnamento:  
-diritto dell'impresa.  
+All'art. 41, relativo al corso di laurea in medicina e chirurgia, nell'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+psicobiologia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1983
+### Dato a Roma, addi' 12 settembre 1984
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 29 febbraio 1984
+Registrato alla Corte dei conti, addi' 11 dicembre 1984
 
-Registro n. 13 Istruzione, foglio n. 77
+Registro n. 74 Istruzione, foglio n. 378

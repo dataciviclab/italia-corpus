@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1985 n. 886
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 1100
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1985 n. 886
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 1100
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -39,21 +39,22 @@ Articolo unico
 --------------
 
   
-Nell'art. 79, relativo al corso di laurea in lingue e letterature straniere e moderne (indirizzo europeo) della facolta' di lettere e filosofia all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
-filologia inglese.  
+Nell'art. 97, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+citologia;  
+organogenesi umana con elementi di embriologia;  
+istologia e tecniche di laboratorio;  
+citochimica ed istochimica.  
   
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 settembre 1985
+### Dato a Roma, addi' 28 marzo 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 29 gennaio 1986
+Registrato alla Corte dei conti, addi' 22 marzo 1984
 
-Registro n. 4 Istruzione, foglio n. 111
+Registro n. 17 Istruzione, foglio n. 350

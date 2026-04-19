@@ -1,113 +1,71 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1964 n. 1219
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1072
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1964 n. 1219
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1072
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Trieste, approvato con [regio decreto 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1961-10-31;1836), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+
+Veduto il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Trieste, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Nell'art. 51, relativo al corso di laurea in lettere, allo elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
+filologia e critica dantesca.  
+
+Art. 2
+------
+
   
-Decreta:  
+Nell'art. 52, relativo al corso di laurea in filosofia, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
+filologia e critica dantesca.  
+
+Art. 3
+------
+
   
-Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 39. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di:  
-Storia delle dottrine politiche;  
-Storia di Trieste e della Regione Giulia;  
-Filologia greco-latina.  
-Gli insegnamenti complementari di "Filologia latina" e di "Filologia greca" sono soppressi.  
-Art. 45. - All'elenco degli Istituti della Facolta' di lettere o filosofia sono aggiunti quelli di:  
-Istituto di studi bizantini e neo-cilenici.  
-Istituto di archeologia e storia dell'arte greca e romana.  
-Istituto di storia dell'arte medioevale e moderna.  
-L'istituto di "Storia dell'arte antica e moderna" e' soppresso.  
-Art. 58. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica (indirizzo organico biologico) sono aggiunti quelli di:  
-Chimica teorica;  
-Strutturistica chimica;  
-Chimica organica superiore;  
-Complementi di matematiche.  
-Art. 61. - All'elenco degli insegnamenti complementari dei corso di laurea in Scienze naturali sono aggiunti quelli di:  
-Statistica;  
-Embriologia sperimentale;  
-Citologia.  
-Art. 76. - La parte riguardante gli insegnamenti del corso di laurea in Ingegneria civile (edile, idraulica e trasporti) e' abrogata e sostituita dal seguente:  
-Per la laurea in Ingegneria civile, comuni alle tre sezioni:  
-1) Architettura tecnica I;  
-2) Architettura tecnica II;  
-3) Costruzioni idrauliche;  
-4) Costruzioni di strade, ferrovie ed aeroporti;  
-5) Elettrotecnica;  
-6) Fisica tecnica;  
-7) Idraulica;  
-8) Meccanica applicata alle macchine e Macchine;  
-9) Scienza delle costruzioni I;  
-10) Scienza delle costruzioni II;  
-11) Tecnica delle costruzioni;  
-12) Topografia;  
-13) Tecnologie dei materiali e chimica applicata.  
-Per la sezione edile:  
-14) Architettura e composizione architettonica;  
-15) Progettazione integrale;  
-16) Tecnica urbanistica;  
-e costituiranno gruppi di indirizzi i seguenti insegnamenti:  
-per l'indirizzo a):  
-17) Pianificazione urbanistica;  
-18) Storia delle tecniche architettoniche;  
-19) Storiografia e critica dell'architettura;  
-per l'indirizzo b):  
-17) Tecnica delle costruzioni II;  
-18) Tecnica delle fondazioni;  
-19) Storia delle tecniche architettoniche.  
-Per la Sezione idraulica:  
-14) Estimo ed economia;  
-15) Impianti speciali idraulici;  
-16) Legislazione del lavoro e delle opere pubbliche;  
-17) Geotecnica;  
-e costituiranno gruppi di indirizzi i seguenti insegnamenti:  
-per l'indirizzo a):  
-18) Complementi di costruzioni idrauliche;  
-19) Costruzioni marittime.  
-per l'indirizzo b):  
-18) Complementi di costruzioni idrauliche;  
-19) Idraulica agraria.  
-Per la Sezione trasporti:  
-14) Estimo ed economia;  
-15) Legislazione del lavoro e delle opere pubbliche;  
-16) Tecnica ed economia dei trasporti;  
-e costituiranno gruppi di indirizzi i seguenti insegnamenti:  
-Per l'indirizzo a):  
-17) Tecnica del traffico e della circolazione;  
-18) Geotecnica;  
-19) Trazione elettrica.  
-Per l'indirizzo b):  
-17) Tecnica delle costruzioni II;  
-18) Costruzioni marittime;  
-19) Tecnica delle fondazioni.  
+Nell'art. 57, relativo al corso di laurea in storia, allo elenco degli insegnamenti complementari della lettera D e' aggiunto il seguente nuovo insegnamento:  
+sociologia del lavoro.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 agosto 1964
+### Dato a Roma, addi' 23 dicembre 1983
 
-SEGNI GUI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 21 novembre 1964
+Registrato alla Corte dei conti, addi' 29 febbraio 1984
 
-Atti del Governo, registro n. 188, foglio n. 104. - VILLA
+Registro n. 13 Istruzione, foglio n. 84

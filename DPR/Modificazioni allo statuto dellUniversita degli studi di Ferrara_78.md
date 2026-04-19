@@ -1,64 +1,220 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1965 n. 862
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 392
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1965 n. 862
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 392
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+La dizione del titolo III dello statuto "Scuole di perfezionamento e di specializzazione annesse alla facolta' di medicina e chirurgia", e' soppressa e sostituita dalla seguente: "Scuole di specializzazione annesse alla facolta' di medicina e chirurgia". Gli articoli 94, 95, 96, 97 e 98, relativi alle norme generali per le scuole di specializzazione annesse alla facolta' di medicina e chirurgia, sono soppressi e sostituiti dai seguenti:
+
+Art. 94. - Le scuole post-universitarie di specializzazione conferiscono i rispettivi diplomi di specialista ai sensi dell'[art. 178 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art178).
+
+Art. 95. - La direzione delle scuole di specializzazione e' affidata ad un professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine. La facolta' di medicina e chirurgia e' chiamata a deliberare in merito.
+
+Il direttore presiede il consiglio della scuola costituito a norma dell'articolo seguente; vigila sul buon funzionamento di essa ed e' tenuto a dare comunicazione al preside della facolta' di medicina e chirurgia di tutti gli atti e di tutte le deliberazioni del consiglio da lui presieduto.
+
+Gli insegnanti sono proposti dal direttore, che puo' sceglierli tra i professori di ruolo, tra i liberi docenti, tra gli assistenti, tra cultori della materia e sono nominati dalla facolta'.
+
+Art. 96. - Il consiglio dei professori di ciascuna delle scuole di specializzazione e' costituito da tutti i docenti, che a qualsiasi titolo vi impartiscono un insegnamento.
+
+Art. 97. - Alle scuole di specializzazione sono ammessi i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. Gli aspiranti debbono nei termini regolamentari, presentare apposita domanda su carta legale, indirizzata al rettore e corredata dal certificato di nascita, dal certificato di laurea e dalle quietanze del pagamento delle tasse, soprattasse e contributi relativi. Il numero degli iscritti e' determinato per ciascuna scuola.
+
+L'ammissione ai corsi avviene per concorso per titoli ed esami.
+
+Gli specializzandi che chiedono il trasferimento dalla Universita' di Ferrara, possono ottenerlo soltanto con il consenso del rettore, udito il parere del direttore della scuola.
+
+Art. 98. - Per il conseguimento del titolo di specialista e' obbligatoria la frequenza ai corsi e l'esercitazione pratica in uno, almeno, degli istituti pertinenti agli insegnamenti impartiti.
+
+Gli insegnamenti di ciascuna scuola sono quelli fissati nel presente statuto.
+
+Quando gli iscritti siano in numero limitato, gli insegnamenti possono non avere il carattere cattedratico ed essere svolti in quella forma che e' consentita dall'indole di ciascuna disciplina.
+
+In ogni caso, pero', per le materie fondamentali debbono essere tenuti appositi corsi per gli iscritti alla scuola.
+
+Non sono consentite iscrizioni con abbreviazioni di corso.
+
+L'art. 99, relativo alle norme generali delle scuole di specializzazione in medicina e chirurgia, e' soppresso con il conseguente spostamento della numerazione degli articoli successivi.
+
+L'art. 102, relativo alle norme generali per le scuole di specializzazione in medicina e chirurgia, e' modificato nel senso che il primo comma e' soppresso e sostituito dal seguente:
+
+"Le tasse e soprattasse da pagarsi dagli iscritti alle scuole di specializzazione sono quelle medesime stabilite dalla legge per le facolta' presso le quali le scuole sono istituite".
+
+Gli articoli 104 e 105, relativi alle norme generali per le scuole di specializzazione in medicina e chirurgia, sono soppressi e sostituiti dai seguenti:
+
+Art. 104. - Alle scuole di specializzazione si intendono applicabili tutte le norme legislative e regolamentari in vigore per tutto quanto non e contemplato nel presente statuto.
+
+Art. 105. - A coloro che hanno frequentato le scuole e superato le prove relative, verra' rilasciato, nelle forme legali, un diploma di specializzazione da valere a tutti gli effetti di legge.
+
+Dopo l'art. 156, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in immunoematologia:
+
+Scuola di specializzazione in immunoematologia
+
+Art. 157. - La scuola di specializzazione in immunoematologia ha sede presso l'istituto di patologia generale e conferisce il diploma di specialista in immunoematologia.
+
+Art. 158. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Art. 159. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+Art. 160. - La durata del corso di studi e' di anni tre e non e' suscettibile di abbreviazioni.
+
+Art. 161. - Il numero massimo degli allievi e' di quindici per anno di corso e complessivamente di quarantacinque iscritti per l'intero corso di studi.
+
+Art. 162. - L'ammissione al corso avviene per titoli ed esami.
+
+Art. 163. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+nozioni di biochimica e di morfologia del sangue;
+
+immunita' ed allergia;
+
+gli antigeni individuali; sistematica dei gruppi sanguigni.
+
+2° Anno:
+
+organizzazione e metodologia trasfusionale I;
+
+malattie da incompatibilita' gruppale;
+
+malattie trasmesse con la trasfusione di sangue e derivati.
+
+3° Anno:
+
+organizzazione e metodologia trasfusionale II;
+
+legislazione e questioni giuridiche attinenti alla trasfusione di sangue e derivati;
+
+aspetti medico-legali dell'immunoematologia.
+
+Le lezioni saranno integrate da esercitazioni pratiche e da conferenze attinenti alle materie di insegnamento e stabilite dal direttore della scuola.
+
+La frequenza alle lezioni, esercitazioni e seminari e' obbligatoria. E' obbligatoria l'esercitazione pratica nei reparti per periodi stabiliti dal direttore della scuola.
+
+Gli iscritti, al termine di ogni anno, per essere ammessi a quello successivo, dovranno superare, per singola disciplina, tutti gli esami di profitto sulle materie di insegnamento.
+
+Per essere ammessi all'esame di diploma gli iscritti dovranno aver superato tutti gli esami relativi alle materie dell'intero corso di studi.
+
+L'esame di diploma consistera' nella esposizione e discussione di una tesi scritta su un argomento attinente all'immunoematologia.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 11 maggio 1979
+
+PERTINI
+
+SPADOLINI
+
+Visto, il Guardasigilli: MORLINO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 28 luglio 1979 Registro n. 60 Istruzione, foglio n. 186
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 12 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-12;1207).  
-e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+La dizione del titolo III dello statuto "Scuole di perfezionamento e di specializzazione annesse alla facolta' di medicina e chirurgia", e' soppressa e sostituita dalla seguente: "Scuole di specializzazione annesse alla facolta' di medicina e chirurgia". Gli articoli 94, 95, 96, 97 e 98, relativi alle norme generali per le scuole di specializzazione annesse alla facolta' di medicina e chirurgia, sono soppressi e sostituiti dai seguenti:   
+Art. 94. - Le scuole post-universitarie di specializzazione conferiscono i rispettivi diplomi di specialista ai sensi dell'[art. 178 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art178).   
+Art. 95. - La direzione delle scuole di specializzazione e' affidata ad un professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine. La facolta' di medicina e chirurgia e' chiamata a deliberare in merito.   
+Il direttore presiede il consiglio della scuola costituito a norma dell'articolo seguente; vigila sul buon funzionamento di essa ed e' tenuto a dare comunicazione al preside della facolta' di medicina e chirurgia di tutti gli atti e di tutte le deliberazioni del consiglio da lui presieduto.   
+Gli insegnanti sono proposti dal direttore, che puo' sceglierli tra i professori di ruolo, tra i liberi docenti, tra gli assistenti, tra cultori della materia e sono nominati dalla facolta'.   
+Art. 96. - Il consiglio dei professori di ciascuna delle scuole di specializzazione e' costituito da tutti i docenti, che a qualsiasi titolo vi impartiscono un insegnamento.   
+Art. 97. - Alle scuole di specializzazione sono ammessi i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. Gli aspiranti debbono nei termini regolamentari, presentare apposita domanda su carta legale, indirizzata al rettore e corredata dal certificato di nascita, dal certificato di laurea e dalle quietanze del pagamento delle tasse, soprattasse e contributi relativi. Il numero degli iscritti e' determinato per ciascuna scuola.   
+L'ammissione ai corsi avviene per concorso per titoli ed esami.   
+Gli specializzandi che chiedono il trasferimento dalla Universita' di Ferrara, possono ottenerlo soltanto con il consenso del rettore, udito il parere del direttore della scuola.   
+Art. 98. - Per il conseguimento del titolo di specialista e' obbligatoria la frequenza ai corsi e l'esercitazione pratica in uno, almeno, degli istituti pertinenti agli insegnamenti impartiti.   
+Gli insegnamenti di ciascuna scuola sono quelli fissati nel presente statuto.   
+Quando gli iscritti siano in numero limitato, gli insegnamenti possono non avere il carattere cattedratico ed essere svolti in quella forma che e' consentita dall'indole di ciascuna disciplina.   
+In ogni caso, pero', per le materie fondamentali debbono essere tenuti appositi corsi per gli iscritti alla scuola.   
+Non sono consentite iscrizioni con abbreviazioni di corso.   
+L'art. 99, relativo alle norme generali delle scuole di specializzazione in medicina e chirurgia, e' soppresso con il conseguente spostamento della numerazione degli articoli successivi.   
+L'art. 102, relativo alle norme generali per le scuole di specializzazione in medicina e chirurgia, e' modificato nel senso che il primo comma e' soppresso e sostituito dal seguente:   
+"Le tasse e soprattasse da pagarsi dagli iscritti alle scuole di specializzazione sono quelle medesime stabilite dalla legge per le facolta' presso le quali le scuole sono istituite".   
+Gli articoli 104 e 105, relativi alle norme generali per le scuole di specializzazione in medicina e chirurgia, sono soppressi e sostituiti dai seguenti:   
+Art. 104. - Alle scuole di specializzazione si intendono applicabili tutte le norme legislative e regolamentari in vigore per tutto quanto non e contemplato nel presente statuto.   
+Art. 105. - A coloro che hanno frequentato le scuole e superato le prove relative, verra' rilasciato, nelle forme legali, un diploma di specializzazione da valere a tutti gli effetti di legge.   
+Dopo l'art. 156, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in immunoematologia:   
   
-Dopo l'art. 28, sono aggiunti i seguenti nuovi articoli relativi alla creazione dell'Istituto di applicazione forense, annesso alla Facolta' di giurisprudenza con il conseguente spostamento della numerazione degli articoli successivi.  
-Istituto di applicazione forense  
-Art. 29. - Alla Facolta' di giurisprudenza e' annesso un Istituto di applicazione forense, il quale si propone di corrispondere alle esigenze tecniche e pratiche della preparazione all'esercizio della professione forense.  
-L'Istituto funziona anche ai fini dell'[art. 18 del regio decreto-legge 27 novembre 1933, n. 1578](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-27;1578~art18).  
-Art. 30. - I mezzi per il funzionamento dell'Istituto sono tratti dai contributi dell'Universita', da eventuali elargizioni di enti pubblici o di privati, e dalle tasse e contributi degli iscritti.  
-Art. 31. - L'Istituto e' retto da un Consiglio direttivo, composto da un direttore, dal preside della Facolta' e dal direttore dell'Istituto giuridico. Il direttore e' eletto per un triennio dal Consiglio della Facolta' di giurisprudenza fra i professori ordinari e straordinari della Facolta' medesima anche fuori ruolo.  
-Art. 32. - Le esercitazioni si svolgono nelle seguenti materie:  
-  
-Diritto civile;  
-Diritto commerciale;  
-Diritto processuale civile;  
-Diritto amministrativo;  
-Diritto penale;  
-Diritto processuale penale;  
-Diritto tributario;  
-Diritto internazionale (pubblico e privato);  
-Diritto del lavoro;  
-Diritto costituzionale.  
-Art. 33. - Presso l'Istituto possono tenersi anche, conferenze ed esercitazioni in altre discipline giuridiche.  
-Art. 34. - Possono iscriversi al corso dell'Istituto, i laureati in giurisprudenza.  
-Art. 35. - Agli iscritti che abbiano frequentato lo Istituto per un anno con diligenza e profitto viene, a loro richiesta, rilasciato un certificato finale agli effetti dell'[art. 6 del regio decreto 22 gennaio 1934, n. 37](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-01-22;37~art6), in relazione all'[art. 18 del regio decreto-legge 27 novembre 1933, n. 1578](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-27;1578~art18).  
-Art. 36. - Il funzionamento dell'Istituto e' regolato da apposite norme deliberate dalla Facolta' giuridica su proposta del Consiglio direttivo ed approvate con decreto del rettore dell'Universita'.  
+Scuola di specializzazione in immunoematologia   
+Art. 157. - La scuola di specializzazione in immunoematologia ha sede presso l'istituto di patologia generale e conferisce il diploma di specialista in immunoematologia.   
+Art. 158. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 159. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+Art. 160. - La durata del corso di studi e' di anni tre e non e' suscettibile di abbreviazioni.   
+Art. 161. - Il numero massimo degli allievi e' di quindici per anno di corso e complessivamente di quarantacinque iscritti per l'intero corso di studi.   
+Art. 162. - L'ammissione al corso avviene per titoli ed esami.   
+Art. 163. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+nozioni di biochimica e di morfologia del sangue;   
+immunita' ed allergia;   
+gli antigeni individuali; sistematica dei gruppi sanguigni.   
+2° Anno:   
+organizzazione e metodologia trasfusionale I;   
+malattie da incompatibilita' gruppale;   
+malattie trasmesse con la trasfusione di sangue e derivati.   
+3° Anno:   
+organizzazione e metodologia trasfusionale II;   
+legislazione e questioni giuridiche attinenti alla trasfusione di sangue e derivati;   
+aspetti medico-legali dell'immunoematologia.   
+Le lezioni saranno integrate da esercitazioni pratiche e da conferenze attinenti alle materie di insegnamento e stabilite dal direttore della scuola.   
+La frequenza alle lezioni, esercitazioni e seminari e' obbligatoria. E' obbligatoria l'esercitazione pratica nei reparti per periodi stabiliti dal direttore della scuola.   
+Gli iscritti, al termine di ogni anno, per essere ammessi a quello successivo, dovranno superare, per singola disciplina, tutti gli esami di profitto sulle materie di insegnamento.   
+Per essere ammessi all'esame di diploma gli iscritti dovranno aver superato tutti gli esami relativi alle materie dell'intero corso di studi.   
+L'esame di diploma consistera' nella esposizione e discussione di una tesi scritta su un argomento attinente all'immunoematologia.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 maggio 1965
+### Dato a Roma, addi' 11 maggio 1979
 
-SARAGAT GUI
+PERTINI SPADOLINI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 14 luglio 1965
+Registrato alla Corte dei conti, addi' 28 luglio 1979
 
-Atti del Governo, registro n. 195, foglio n. 91. - VILLA
+Registro n. 60 Istruzione, foglio n. 186

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1979 n. 774
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1189
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1979 n. 774
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1189
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,70 +18,94 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
 
-Articolo unico
---------------
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
+Art. 62. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto il seguente;
+
+Paleontologia umana.
+
+Art. 156, relativo alla scuola di specializzazione in "Scienza e tecnica dei fenomeni di corrosione" e' modificato nel senso che dopo l'ultimo comma sono aggiunti i seguenti:
+
+"La scuola puo' accogliere come uditori persone laureate in chimica, chimica industriale e ingegneria, interessate a seguire qualcuno dei corsi della scuola in relazione ad un interesse diretto nel settore.
+
+Tali uditori dovranno presentare regolare domanda di iscrizione su carta legale diretta al rettore, indicando i corsi che intendono seguire.
+
+Le domande saranno vagliate analogamente a quelle degli allievi.
+
+Gli uditori saranno tenuti a pagare una quota di iscrizione.
+
+Gli uditori non saranno tenuti a sostenere gli esami relativi ai corsi frequentati e non avranno diritto ad alcun diploma. La direzione della scuola rilascera' loro un attestato di frequenza".
+
+Art. 161, relativo al funzionamento della suddetta scuola e' modificato nel senso che e' aggiunto il seguente comma:
+
+"La scuola potra' avvalersi anche di contributi provenienti da enti o industrie interessate allo sviluppo delle conoscenze in questo campo".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 30 ottobre 1970
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 14 gennaio 1971 Atti del Governo, registro n. 240, foglio n. 44. - CARUSO
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli 135, 136, 137, 138, relativi alla scuola di specializzazione in ,clinica dermosifilopatica, che muta la denominazione in scuola di specializzazione in dermatologia e venerologia, sono abrogati e sostituiti dai seguenti:   
+Decreta:  
   
-Scuola di specializzazione in dermatologia e venereologia   
-  
-Art. 135. - La scuola di specializzazione in dermatologia e venereologia ha sede presso la clinica dermatologica e conferisce il diploma di specialista in dermatologia e venereologia.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Art. 136. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazioni.   
-Il numero massimo degli allievi e' di cinque per anno di corso e complessivamente di quindici iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Art. 137. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) anatomia e istologia normale della cute;   
-2) fisiologia della cute e degli annessi;   
-3) anatomia e fisiologia dell'apparato genitale;   
-4) microbiologia e parassitologia applicate;   
-5) tecniche di laboratorio applicate alla disciplina;   
-6) semeiotica dermatologica e venereologica.   
-2° Anno:   
-1) patologia delle malattie cutanee;   
-2) patologia delle infezioni veneree;   
-3) istopatologia e citologia dermatologica e venereologica;   
-4) immunopatologia cutanea;   
-5) dermatologia allergologica e professionale;   
-6) angiologia;   
-7) sessuologia.   
-3° Anno:   
-1) clinica delle malattie cutanee;   
-2) clinica delle infezioni veneree;   
-3) dermatologia pediatrica;   
-4) farmacologia e terapia;   
-5) fisioterapia dermatologica;   
-6) cosmetologia;   
-7) chirurgia plastica riparatrice;   
-8) igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.   
-Art. 138. - Il corso di lezioni deve essere impartito mediante almeno 50 lezioni annuali, comprensive delle varie materie e la frequenza giornaliera degli iscritti non deve essere inferiore alle 4 ore effettive per tutta la durata dell'anno accademico. Gli specializzandi hanno percio' obbligo di seguire i corsi di lezioni e svolgere contemporaneamente esercitazioni pratiche nei reparti, negli ambulatori e nei laboratori. Gli esami di profitto vengono sostenuti in due sessioni. L'esame di diploma consiste nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato 24 ore prima della prova.   
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 62. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto il seguente;  
+Paleontologia umana.  
+Art. 156, relativo alla scuola di specializzazione in "Scienza e tecnica dei fenomeni di corrosione" e' modificato nel senso che dopo l'ultimo comma sono aggiunti i seguenti:  
+"La scuola puo' accogliere come uditori persone laureate in chimica, chimica industriale e ingegneria, interessate a seguire qualcuno dei corsi della scuola in relazione ad un interesse diretto nel settore.  
+Tali uditori dovranno presentare regolare domanda di iscrizione su carta legale diretta al rettore, indicando i corsi che intendono seguire.  
+Le domande saranno vagliate analogamente a quelle degli allievi.  
+Gli uditori saranno tenuti a pagare una quota di iscrizione.  
+Gli uditori non saranno tenuti a sostenere gli esami relativi ai corsi frequentati e non avranno diritto ad alcun diploma. La direzione della scuola rilascera' loro un attestato di frequenza".  
+Art. 161, relativo al funzionamento della suddetta scuola e' modificato nel senso che e' aggiunto il seguente comma:  
+"La scuola potra' avvalersi anche di contributi provenienti da enti o industrie interessate allo sviluppo delle conoscenze in questo campo".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 ottobre 1979
+### Dato a Roma, addi' 30 ottobre 1970
 
-PERTINI VALITUTTI
+SARAGAT MISASI
 
-Visto, il Guardasigilli MORLINO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 14 febbraio 1980
+Registrato alla Corte dei conti, addi' 14 gennaio 1971
 
-Registro n. 10 Istruzione, foglio n. 390
+Atti del Governo, registro n. 240, foglio n. 44. - CARUSO

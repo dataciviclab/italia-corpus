@@ -1,101 +1,58 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1985 n. 380
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1971 n. 1134
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1985 n. 380
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1971 n. 1134
+=================================================================
 
 Modificazioni alle piante organiche dei magistrati di alcuni uffici giudiziari.
 -------------------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Vista la tabella C relativa alle piante organiche dei magistrati giudicanti e del pubblico ministero addetti ai tribunali ed alle procure della Repubblica, allegata al [decreto presidenziale 31 dicembre 1966, n. 1185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-12-31;1185), e successive variazioni;
-
-Vista la tabella A allegata alla [legge 9 marzo 1971, n. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-03-09;35), con la quale sono state determinate le piante organiche dei magistrati addetti ai tribunali per i minorenni ed alle procure della Repubblica presso gli stessi tribunali, e successive variazioni;
-
-Vista la tabella A allegata alla [legge 12 gennaio 1977, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-01-12;1), che determina le sedi e le giurisdizioni degli uffici di sorveglianza;
-
-Considerata la necessita' di potenziare l'organico dei magistrati dei seguenti uffici giudiziari per le unita' a fianco di ciascuno di essi indicate, al fine di fronteggiare le accresciute esigenze di servizio:
-
-Tribunali per i minorenni:
-
-giudici: Ancona 1, Bari 1, Bologna 1, Brescia 1, Cagliari 1, Catania 1, Firenze 1, Genova 1, L'Aquila 1, Lecce 1, Milano 1, Napoli 2, Palermo 1, Roma 2, Salerno 1, Torino 1, Trento 1, Trieste 1, Venezia 1;
-
-Procure della Repubblica presso i tribunali per i minorenni:
-
-sostituti: Ancona 1, Bari 1, Brescia 1, Cagliari 1, Genova 1, L'Aquila 1, Lecce 1, Milano 1, Napoli 1, Palermo 1, Perugia 1, Potenza 1, Roma 1, Torino 1, Trento 1, Venezia 1;
-
-Uffici di sorveglianza:
-
-magistrati di tribunale: Bari 1, Brescia 1, Catania 1, Catanzaro 1, Firenze 1, Genova 1, Livorno 1, Milano 1, Napoli 1, Palermo 1, Torino 1, Venezia 1;
-
-Visto il parere espresso al riguardo dal Consiglio superiore della magistratura nella seduta del 10 aprile 1985 e in parziale difformita' dello stesso;
-
-Ritenuto che due delle unita' necessarie per gli aumenti in questione possono, tenuto conto degli indici di lavoro, essere reperite nel tribunale di Firenze e nella procura della Repubblica presso lo stesso tribunale;
-
-Ritenute che altre due delle unita' necessarie per i suddetti aumenti possono essere reperite, tenuto conto degli indici di lavoro, anziche' nei tribunali di Savona e di Rovigo, in quelli di Casale Monferrato e di Isernia;
-
-Considerato che per operare i suindicati aumenti e' necessario ridurre l'organico dei magistrati dei seguenti uffici giudiziari, delle unita' a fianco di ciascuno di essi indicate:
-
-Tribunali:
-
-presidenti di sezione: Casale Monferrato 1; giudici: Ascoli Piceno 1, Avellino 1, Bari 2, Belluno 1, Bergamo 1, Cagliari 1, Campobasso 1, Catania 1, Catanzaro 1, Firenze 1, Foggia 1, Genova 1, Grosseto 1, Isernia 1, L'Aquila 1, Larino 1, Lecce 2, Milano 4, Napoli 1, Oristano 1, Palermo 1, Perugia 1, Pinerolo 1, Potenza 1, Reggio Emilia 1, Roma 4, Torino 1, Trento 1, Trieste 1, Venezia 1, Voghera 1;
-
-Procure della Repubblica:
-
-sostituti: Ascoli Piceno 1, Bergamo 1, Brescia 1, Firenze 1, Genova 1, L'Aquila 1, Roma 1, Trento 1, Vercelli 1;
-
-Visto l'art. 1, ultimo comma, della [legge 4 gennaio 1963, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-01-04;1);
-
-Sulla
------
-
-proposta del Ministro di grazia e giustizia; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-La tabella C allegata al [decreto del Presidente della Repubblica 31 dicembre 1966, n. 1185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-12-31;1185), e successive variazioni, relativa alle piante organiche dei magistrati giudicanti e del pubblico ministero addetti ai tribunali, alle procure della Repubblica ed agli uffici di sorveglianza, e' modificata, per la parte relativa agli uffici cui si riferisce, come dalla tabella A allegata al presente decreto, vistata dal Ministro proponente.  
-
-Art. 2
-------
-
+Viste le tabelle C e D allegate al [decreto presidenziale 31 dicembre 1966, n. 1185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-12-31;1185), e successive variazioni, relative alle piante organiche dei magistrati addetti ai tribunali e alle preture;  
+Riconosciuta la necessita' di potenziare di una unita' ciascuno l'organico dei magistrati del tribunale di Varese e delle preture di Adria e di Marano di Napoli per far fronte alle accresciute esigenze di servizio;  
+Constatato che per reperire i posti necessari occorre ridurre l'organico delle preture di Citta' di Castello, Noto e Ravenna, il cui carico di lavoro, valutato comparativamente, consente tale riduzione;  
+Visto il parere espresso al riguardo dal Consiglio superiore della magistratura nella seduta del 14 luglio 1971;  
+Visto l'art. 1, ultimo comma, della [legge 4 gennaio 1963, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-01-04;1);  
+Sulla proposta del Ministro Segretario di Stato per la grazia e giustizia;  
   
-La tabella A allegata alla [legge 9 marzo 1971, n. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-03-09;35), e successive variazioni, relativa alle piante organiche dei magistrati giudicanti e del pubblico ministero addetti ai tribunali per i minorenni ed alle procure della Repubblica presso gli stessi tribunali, e' modificata, per la parte relativa agli uffici cui si riferisce, come dalla tabella B allegata al presente decreto, vistata dal Ministro proponente.  
+Decreta:  
+  
+Le tabelle C e D allegate al [decreto presidenziale 31 dicembre 1966, n. 1185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-12-31;1185), e successive variazioni, relative alle piante organiche dei magistrati addetti ai tribunali e alle preture, sono modificate - per la parte relativa agli uffici cui si riferiscono - come dalle tabelle A e B allegate al presente decreto, vistate dal Ministro proponente.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 maggio 1985
+### Dato a Roma, addi' 24 settembre 1971
 
-PERTINI
+SARAGAT COLOMBO
 
-MARTINAZZOLI, Ministro di grazia e giustizia
+Visto, il Guardasigilli: COLOMBO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 27 dicembre 1971
 
-Registrato alla Corte dei conti, addi' 24 luglio 1985
+Atti del Governo, registro n. 245, foglio n. 138. - VALENTINI
 
-Registro n. 34 Giustizia, foglio n. 374
-
-Tabella A
+Tabelle
 
  TABELLA A   
-MAGISTRATI GIUDICANTI E DEL PUBBLICO MINISTERO ADDETTI AI TRIBUNALI   
+  
+Magistrati giudicanti e del pubblico ministero addetti ai tribunali   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=085U038000100010110001&dgu=1985-07-30&art.dataPubblicazioneGazzetta=1985-07-30&art.codiceRedazionale=085U0380)
-  
-
-Tabella B
-
- TABELLA B   
-MAGISTRATI GIUDICANTI E DEL PUBBLICO MINISTERO ADDETTI AI TRIBUNALI ED ALLE PROCURE PER I MINORENNI   
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=071U113400100010110001&dgu=1972-01-03&art.dataPubblicazioneGazzetta=1972-01-03&art.codiceRedazionale=071U1134)
   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=085U038000200010110001&dgu=1985-07-30&art.dataPubblicazioneGazzetta=1985-07-30&art.codiceRedazionale=085U0380)
+  
+TABELLA B   
+  
+Magistrati addetti alle preture   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=071U113400100010110002&dgu=1972-01-03&art.dataPubblicazioneGazzetta=1972-01-03&art.codiceRedazionale=071U1134)
   

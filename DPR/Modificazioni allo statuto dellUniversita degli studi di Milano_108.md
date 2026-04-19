@@ -1,11 +1,217 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 giugno 1978 n. 633
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1095
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 giugno 1978 n. 633
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1095
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Gli articoli 190, 191, 192, 193, 194, 195, 196 e 197, relativi alla scuola di specializzazione in chirurgia d'urgenza e pronto soccorso, sono soppressi e sostituiti dai seguenti:
+
+Scuola di specializzazione in chirurgia d'urgenza e pronto soccorso
+
+Art. 190. - La scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso ha sede presso l'istituto di chirurgia d'urgenza dell'Universita' di Milano.
+
+Art. 191. - Il corso di studi per il conseguimento del diploma di specialista in chirurgia d'urgenza e di pronto soccorso ha la durata di cinque anni accademici.
+
+Art. 192. - Alla scuola possono iscriversi i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. Il numero massimo degli iscritti e' di venticinque (25) per anno di corso. Non sono ammesse abbreviazioni di corso. L'ammissione al corso avviene per titoli ed esami.
+
+Art. 193. - La frequenza alle lezioni, esercitazioni e seminari e' obbligatoria per tutti gli iscritti. L'internato e' obbligatorio durante tutti i cinque anni di corso sotto forma di permanenza costante in istituto durante le ore della sua attivita'.
+
+Art. 194. - Le materie di insegnamento sono le seguenti:
+
+clinica chirurgica generale d'urgenza e di pronto soccorso;
+
+patologia chirurgica;
+
+anatomia chirurgica;
+
+semeiotica;
+
+anestesiologia;
+
+ricerche di laboratorio;
+
+anatomia patologica;
+
+endoscopia;
+
+fisiopatologia chirurgica;
+
+chirurgia sperimentale;
+
+trattamento pre e post-operatorio in chirurgia d'urgenza;
+
+rianimazione;
+
+chirurgia vascolare d'urgenza;
+
+traumatologia dell'apparato locomotore;
+
+neurotraumatologia;
+
+terapia intensiva;
+
+radiologia;
+
+chirurgia ginecologica d'urgenza;
+
+chirurgia pediatrica d'urgenza;
+
+chirurgia plastica e riparatrice;
+
+chirurgia toracica d'urgenza;
+
+cardiochirurgia d'urgenza;
+
+angioradiologia;
+
+chirurgia urologica d'urgenza;
+
+traumatologia maxillo-facciale;
+
+trattamento del politraumatizzato;
+
+medicina legale.
+
+Art. 195. - Le materie di insegnamento sono cosi' ripartite:
+
+1° Anno:
+
+1) clinica chirurgica generale d'urgenza e di pronto soccorso I;
+
+2) patologia chirurgica I;
+
+3) anatomia chirurgica;
+
+4) semeiotica I;
+
+5) anestesiologia;
+
+6) ricerche di laboratorio;
+
+7) chirurgia sperimentale.
+
+2° Anno:
+
+8) clinica chirurgica generale d'urgenza e di pronto soccorso II;
+
+9) patologia chirurgica II;
+
+10) anatomia patologica;
+
+11) endoscopia;
+
+12) fisiopatologia chirurgica I;
+
+13) semeiotica II;
+
+14) trattamento pre e post-operatorio in chirurgia d'urgenza;
+
+15) rianimazione.
+
+3° Anno:
+
+16) clinica chirurgica generale d'urgenza e di pronto soccorso III;
+
+17) patologia chirurgica III;
+
+18) chirurgia vascolare d'urgenza;
+
+19) traumatologia dell'apparato locomotore I;
+
+20) neurotraumatologia I;
+
+21) fisiopatologia chirurgica II;
+
+22) terapia intensiva I;
+
+23) radiologia.
+
+4° Anno:
+
+24) clinica chirurgica generale d'urgenza e di pronto soccorso IV;
+
+25) chirurgia ginecologica d'urgenza;
+
+26) chirurgia pediatrica d'urgenza;
+
+27) chirurgia plastica e riparatrice I;
+
+28) traumatologia dell'apparato locomotore II;
+
+29) neurotraumatologia II;
+
+30) chirurgia toracica d'urgenza I;
+
+31) terapia intensiva II.
+
+5° Anno:
+
+32) clinica chirurgica generale d'urgenza e di pronto soccorso V;
+
+33) chirurgia plastica e riparatrice II;
+
+34) chirurgia toracica d'urgenza II;
+
+35) cardiochirurgia d'urgenza;
+
+36) chirurgia urologica d'urgenza;
+
+37) angioradiologia;
+
+38) traumatologia maxillo-facciale;
+
+39) trattamento del politraumatizzato;
+
+40) medicina legale.
+
+Art. 196. - Alla fine di ogni anno gli specializzandi per poter ottenere l'ammissione all'anno successivo dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno di corso; per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Art. 197. - L'esame di diploma consiste nella discussione di una tesi su un tema preventivamente approvato dal direttore della scuola.
+
+Il direttore della scuola e' il professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, il professore di ruolo o fuori ruolo di materia affine.
+
+Le norme per l'iscrizione, gli esami, le tasse, ecc., sono quelle generali per le scuole di specializzazione dell'Universita' di Milano.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1978
+
+PERTINI
+
+PEDINI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 28 agosto 1979 Registro n. 66 Istruzione, foglio n. 89
 
 Art. 1
 ------
@@ -16,7 +222,6 @@ Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 nov
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
@@ -25,66 +230,102 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362 e 363, concernenti l'ordinamento della scuola diretta a fini speciali "scuola per ortottisti", che muta denominazione in "scuola speciale per ortottisti-assistenti di oftalmologia", sono soppressi e sostituiti, con il conseguente spostamento della numerazione degli articoli successivi, dai seguenti:   
+Gli articoli 190, 191, 192, 193, 194, 195, 196 e 197, relativi alla scuola di specializzazione in chirurgia d'urgenza e pronto soccorso, sono soppressi e sostituiti dai seguenti:   
   
-Scuola speciale per ortottisti-assistenti di oftalmologia   
-Art. 352. - E' istituita presso la facolta' di medicina e chirurgia dell'Universita' di Milano una scuola speciale di preparazione per ortottisti-assistenti di oftalmologia che ha sede presso la clinica oculistica di questa Universita'.   
-Art. 353. - La scuola ha lo scopo di dare una preparazione completa, teorico-pratica, istruendo gli allievi sui problemi della motilita' oculare, dell'ambliopia, delle tecniche diagnostiche della visione binoculare, del trattamento pre e postoperatorio dei pazienti strabici; dei problemi sui vizi di refrazione e della loro correzione e sulle tecniche diagnostiche in oftalmologia.   
-La durata del corso per conseguire il diploma di ortottista-assistente di oftalmologia e' di tre anni.   
-Ne sono titoli di ammissione il possesso di un diploma legalmente valido ai fini della iscrizione alla Universita' ai sensi dell'[art. 1 della legge n. 910 dell'11 dicembre 1969](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1) e la conoscenza di una lingua straniera (inglese, francese, tedesco, spagnolo).   
-Art. 354. - Gli aspiranti all'iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova di cultura generale e in una prova per la conoscenza della lingua straniera. E' richiesto un certificato di sana e robusta costituzione, con particolare riguardo alla funzione visiva.   
-Art. 355. - Il numero complessivo degli iscritti alla scuola e' di 30 (cioe' 10 per anno di corso). Qualora le domande di iscrizione fossero in numero superiore al numero massimo previsto, il consiglio della scuola si riserva di provvedere ad una scelta tra gli idonei in base ai risultati delle prove d'ammissione; gli idonei possono essere ammessi anche in soprannumero in rapporto a posti che si rendessero vacanti nel corso del secondo o terzo anno.   
-I ripetenti e i fuori corso, qualora riprendano gli studi, sono riammessi in soprannumero.   
-Art. 356. - Il direttore della scuola e' il titolare della cattedra di clinica oculistica o altro docente di disciplina affine, proposto dal titolare della cattedra di clinica oculistica, sentito il consiglio della scuola.   
-Art. 357. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria. La frequenza e' obbligatoria.   
-Art. 358. - Il corso comprende lezioni teoriche ed esercitazioni pratiche.   
-Le materie di insegnamento sono le seguenti:   
+Scuola di specializzazione in chirurgia d'urgenza e pronto soccorso   
+Art. 190. - La scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso ha sede presso l'istituto di chirurgia d'urgenza dell'Universita' di Milano.   
+Art. 191. - Il corso di studi per il conseguimento del diploma di specialista in chirurgia d'urgenza e di pronto soccorso ha la durata di cinque anni accademici.   
+Art. 192. - Alla scuola possono iscriversi i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. Il numero massimo degli iscritti e' di venticinque (25) per anno di corso. Non sono ammesse abbreviazioni di corso. L'ammissione al corso avviene per titoli ed esami.   
+Art. 193. - La frequenza alle lezioni, esercitazioni e seminari e' obbligatoria per tutti gli iscritti. L'internato e' obbligatorio durante tutti i cinque anni di corso sotto forma di permanenza costante in istituto durante le ore della sua attivita'.   
+Art. 194. - Le materie di insegnamento sono le seguenti:   
+clinica chirurgica generale d'urgenza e di pronto soccorso;   
+patologia chirurgica;   
+anatomia chirurgica;   
+semeiotica;   
+anestesiologia;   
+ricerche di laboratorio;   
+anatomia patologica;   
+endoscopia;   
+fisiopatologia chirurgica;   
+chirurgia sperimentale;   
+trattamento pre e post-operatorio in chirurgia d'urgenza;   
+rianimazione;   
+chirurgia vascolare d'urgenza;   
+traumatologia dell'apparato locomotore;   
+neurotraumatologia;   
+terapia intensiva;   
+radiologia;   
+chirurgia ginecologica d'urgenza;   
+chirurgia pediatrica d'urgenza;   
+chirurgia plastica e riparatrice;   
+chirurgia toracica d'urgenza;   
+cardiochirurgia d'urgenza;   
+angioradiologia;   
+chirurgia urologica d'urgenza;   
+traumatologia maxillo-facciale;   
+trattamento del politraumatizzato;   
+medicina legale.   
+Art. 195. - Le materie di insegnamento sono cosi' ripartite:   
 1° Anno:   
-1) elementi di anatomia dell'apparato visivo e del S.N.C.;   
-2) fisiologia dell'occhio, della motilita' oculare, della visione binoculare;   
-3) ottica fisica e fisiopatologica;   
-4) ortottica I;   
-5) psicologia infantile.   
+1) clinica chirurgica generale d'urgenza e di pronto soccorso I;   
+2) patologia chirurgica I;   
+3) anatomia chirurgica;   
+4) semeiotica I;   
+5) anestesiologia;   
+6) ricerche di laboratorio;   
+7) chirurgia sperimentale.   
 2° Anno:   
-1) elementi di patologia oculare;   
-2) elementi di farmacologia oculare;   
-3) elementi di neurooftalmologia;   
-4) nozioni di chirurgia ed assistenza oftalmica;   
-5) ortottica II.   
+8) clinica chirurgica generale d'urgenza e di pronto soccorso II;   
+9) patologia chirurgica II;   
+10) anatomia patologica;   
+11) endoscopia;   
+12) fisiopatologia chirurgica I;   
+13) semeiotica II;   
+14) trattamento pre e post-operatorio in chirurgia d'urgenza;   
+15) rianimazione.   
 3° Anno:   
-1) tecniche semeiologiche dell'apparato visivo (es. refrazione, contattologia, adattometria, campo visivo, senso cromatico);   
-2) tecniche semeiologiche ed elettrofisiologiche (tonometria e tonografia; EOG; EMG; ERG; ecografia; retinografia e fluoroangiografia);   
-3) ortottica III;   
-4) nozioni di riabilitazione senso motoria nell'eta' infantile;  
-5) legislazione sanitaria.   
-Art. 359. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo, per gli allievi, dell'internato per l'intero periodo di corso di studi nella clinica oculistica. La frequenza viene comprovata dalla attestazione rilasciata sul libretto di iscrizione dagli insegnanti e per l'attivita' pratica del direttore della scuola. L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.   
-Art. 360. - Alla fine di ogni anno gli allievi devono sostenere un esame sulle materie di insegnamento.   
-Nel caso in cui i candidati non abbiano superato gli esami prescritti, essi rimarranno nella posizione di "ripetenti".   
-Art. 361. - Gli esami di profitto consistono in prove teoriche e pratiche.   
-Art. 362. - Alla fine del corso gli allievi debbono sostenere un esame di diploma che consiste nella discussione di una tesi scritta su un argomento riguardante le materie d'insegnamento, assegnata dal direttore della scuola e in una prova pratica stabilita da una commissione esaminatrice. I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola ma se al secondo anno non sia loro riconosciuta l'idoneita' saranno senz'altro esclusi da ulteriori prove.   
-Art. 363. - Gli esami di profitto e di diploma si danno in due sessioni, la prima estiva che ha inizio subito dopo la chiusura annuale dei corsi e la seconda autunnale, nel mese che precede l'inizio del nuovo anno accademico.   
-Art. 364. - Le commissioni per gli esami di ammissione, di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della clinica. La commissione per gli esami di ammissione e di profitto sono composte da tre membri: direttore della scuola, presidente, e da due insegnanti della scuola stessa. La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro membri scelti fra gli insegnanti della scuola stessa o altri docenti.   
-Art. 365. - Le tasse e soprattasse annuali a carico degli iscritti restano cosi' destinate:   
-tassa annuale di iscrizione .......... L. 10.000   
-soprattassa annuale di esame ......... L. 5.000   
-tassa erariale di diploma ............ L. 6.000   
-tassa annuale per iscrizioni studenti   
-fuori corso ......................... L. 3.000   
-contributi di laboratorio ............ L. 25.000   
-  
-Art. 366. - Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni o contributi di enti pubblici o privati.   
-Art. 367. - Sono ammessi al 3° anno della scuola, con l'obbligo di tutti gli esami del 3° anno e della tesi, le diplomate delle scuole speciali per ortottiste ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), purche' abbiano esercitato con continuita' una attivita' professionale adeguata e documentata.   
+16) clinica chirurgica generale d'urgenza e di pronto soccorso III;   
+17) patologia chirurgica III;   
+18) chirurgia vascolare d'urgenza;   
+19) traumatologia dell'apparato locomotore I;   
+20) neurotraumatologia I;   
+21) fisiopatologia chirurgica II;   
+22) terapia intensiva I;   
+23) radiologia.   
+4° Anno:   
+24) clinica chirurgica generale d'urgenza e di pronto soccorso IV;   
+25) chirurgia ginecologica d'urgenza;   
+26) chirurgia pediatrica d'urgenza;   
+27) chirurgia plastica e riparatrice I;   
+28) traumatologia dell'apparato locomotore II;   
+29) neurotraumatologia II;   
+30) chirurgia toracica d'urgenza I;   
+31) terapia intensiva II.   
+5° Anno:   
+32) clinica chirurgica generale d'urgenza e di pronto soccorso V;   
+33) chirurgia plastica e riparatrice II;   
+34) chirurgia toracica d'urgenza II;   
+35) cardiochirurgia d'urgenza;   
+36) chirurgia urologica d'urgenza;   
+37) angioradiologia;   
+38) traumatologia maxillo-facciale;   
+39) trattamento del politraumatizzato;   
+40) medicina legale.   
+Art. 196. - Alla fine di ogni anno gli specializzandi per poter ottenere l'ammissione all'anno successivo dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno di corso; per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
+Art. 197. - L'esame di diploma consiste nella discussione di una tesi su un tema preventivamente approvato dal direttore della scuola.   
+Il direttore della scuola e' il professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, il professore di ruolo o fuori ruolo di materia affine.   
+Le norme per l'iscrizione, gli esami, le tasse, ecc., sono quelle generali per le scuole di specializzazione dell'Universita' di Milano.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 giugno 1978
+### Dato a Roma, addi' 31 ottobre 1978
 
-p. Il Presidente della Repubblica Il Presidente del Senato FANFANI PEDINI
+PERTINI PEDINI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registro alla Corte dei conti, addi' 9 ottobre 1978
+Registrato alla Corte dei conti, addi' 28 agosto 1979
 
-Registro n. 109 Istruzione, foglio n. 198
+Registro n. 66 Istruzione, foglio n. 89

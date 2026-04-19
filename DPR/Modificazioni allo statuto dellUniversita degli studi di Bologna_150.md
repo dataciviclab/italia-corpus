@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1455
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1980 n. 699
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1455
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1980 n. 699
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -10,75 +10,96 @@ Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), modificato con [regio decreto 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-12;2227) e successivi;
+Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla
+-----
 
-Decreta:
+proposta del Ministro della pubblica istruzione; Decreta:
 
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Articolo unico
+--------------
 
-Art. 19, relativo alle propedeuticita' degli esami nel corso di laurea in giurisprudenza, e' aggiunto il seguente comma:
-
-"L'esame di diritto canonico non puo' essere sostenuto se prima non sia stato superato quello di istituzioni di diritto privato. Gli esami di esignesi delle fonti del diritto romano e di esignesi delle fonti del diritto italiano non possono essere sostenuti se prima non siano stati superati quelli di istituzioni di diritto romano e di storia del diritto romano. L'esame di diritto della navigazione non puo' essere sostenuto se prima non siano stati superati quelli di diritto privato e di diritto commerciale".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 19 ottobre 1960
-
-GRONCHI
-
-BOSCO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 7 dicembre 1960 Atti del Governo, registro n. 132, foglio n. 57. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), modificato con [regio decreto 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-12;2227) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
+Lo statuto dell'Universita' di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 19, relativo alle propedeuticita' degli esami nel corso di laurea in giurisprudenza, e' aggiunto il seguente comma:  
-"L'esame di diritto canonico non puo' essere sostenuto se prima non sia stato superato quello di istituzioni di diritto privato. Gli esami di esignesi delle fonti del diritto romano e di esignesi delle fonti del diritto italiano non possono essere sostenuti se prima non siano stati superati quelli di istituzioni di diritto romano e di storia del diritto romano. L'esame di diritto della navigazione non puo' essere sostenuto se prima non siano stati superati quelli di diritto privato e di diritto commerciale".  
+Dopo l'art. 678, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione della seconda scuola di specializzazione in chirurgia generale.   
+Seconda scuola di specializzazione in chirurgia generale   
+Art. 679. - Presso la facolta' di medicina e chirurgia e' istituita una seconda scuola di specializzazione in chirurgia generale che conferisce il diploma in chirurgia generale.   
+Art. 680. - La durata del corso e' di cinque anni e non sono consentite abbreviazioni di corso.   
+L'ammissione alla scuola avviene sulla base di titoli ed esami.   
+Sono disponibili sette posti per ciascun anno di corso. Il numero complessivo dei posti, nei cinque anni di corso, non puo' essere superiore a trentacinque.   
+Art. 681. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+clinica chirurgica generale (quinquennale) I;   
+patologia speciale chirurgica (triennale) I;   
+semeiotica chirurgica (biennale) I;   
+anatomia chirurgica e corso d'operazioni (triennale) I;   
+chirurgia sperimentale;   
+anestesia e rianimazione;   
+ricerche di laboratorio.   
+2° Anno:   
+clinica chirurgica generale (quinquennale) II;   
+patologia speciale chirurgica (triennale) II;   
+semeiotica chirurgica (biennale) II;   
+anatomia chirurgica e corso di operazioni (triennale) II;   
+fisiopatologia chirurgica;   
+trattamento pre e post-operatorio;   
+anatomia e istologia patologica (biennale) I.   
+3° Anno:   
+clinica chirurgica generale (quinquennale) III;   
+patologia speciale chirurgica (triennale) III;   
+semeiotica strumentale ed endoscopica;   
+anatomia chirurgica e corso di operazioni (triennale) III;   
+radiologia;   
+anatomia ed istologia patologica (biennale) II.   
+4° Anno:   
+clinica chirurgica generale (quinquennale) IV;   
+chirurgia ginecologica;   
+chirurgia urologica;   
+neurochirurgia;   
+traumatologia e ortopedia;   
+chirurgia pediatrica.   
+5° Anno:   
+clinica chirurgica generale (quinquennale) V;   
+chirurgia toracica;   
+chirurgia cardiovascolare;   
+chirurgia riparativa e plastica;   
+chirurgia d'urgenza;   
+medicina legale.   
+Art. 682. - Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni teoriche e le esercitazioni.   
+Art. 683. - La frequenza nelle sale operatorie si iniziera' dal primo anno di corso, e dopo un periodo di tirocinio, dovra' trasformarsi in compartecipazione attiva agli interventi operatori.   
+Per i corsi che non siano della clinica chirurgica generale puo' essere stabilita, su parere del direttore della scuola, la continuativa frequenza presso i relativi reparti specializzati, qualora esistano reparti indipendenti.   
+Art. 684. - Gli allievi che non abbiano ottemperato gli obblighi di frequenza non possono essere ammessi a sostenere gli esami annuali.  
+Alla fine di ogni anno di corso gli iscritti sono tenuti a superare gli esami relativi ai singoli insegnamenti di ciascun anno per il passaggio all'anno successivo.   
+Gli esami biennali, triennali e quinquennali sono superati rispettivamente alla fine del biennio, del triennio e del quinquennio.   
+Al termine del corso di studi per il conseguimento del diploma di specializzazione, gli allievi devono superare l'esame di diploma consistente nella dissertazione scritta su materie che sono state oggetto dei corsi.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 ottobre 1960
+### Dato a Roma, addi' 16 ottobre 1980
 
-GRONCHI BOSCO
+PERTINI SARTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 7 dicembre 1960
+Registrato alla Corte dei conti, addi' 31 ottobre 1980
 
-Atti del Governo, registro n. 132, foglio n. 57. - VILLA
+Registro n. 100 Istruzione, foglio n. 102.

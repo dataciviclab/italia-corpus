@@ -1,128 +1,80 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 917
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1972 n. 834
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 917
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1972 n. 834
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1701](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1701), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Dopo l'art. 337, e con lo spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo:  
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-NORME GENERALI  
+Decreta:   
   
-Art. 338. - Le tasse e soprattasse che gli iscritti alle scuole dirette a fini speciali di pertinenza della facolta' di medicina e chirurgia sono tenuti a pagare sono quelle previste dall'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7). L'importo dei contributi speciali per biblioteche e per ogni scuola destinati a spese di laboratorio, di esercitazioni e di riscaldamento e' fissato annualmente dal consiglio di amministrazione su proposta del senato accademico, udita la facolta'.  
-
-Art. 2
-------
-
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Gli articoli 347, 356, 368, 380, 388, 399, ultimo comma, e 415, relativi all'importo delle tasse per le seguenti scuole: di tecnici di istituti medico-biologici, di ortottisti, di terapisti della riabilitazione, di massaggiatori e massofisioterapisti, di dietologia e dietetica applicata, di tecnici di radiologia medica, di tecnici di igiene ambientale e del lavoro, sono soppressi.  
-
-Art. 3
-------
-
+Art. 60. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:   
+Patologia ostetrica e ginecologica;   
+Medicina del traffico;   
+Fisica sanitaria;   
+Fisiopatologia cardiorespiratoria;   
+Malattie tropicali e subtropicali;   
+Chirurgia vascolare;   
+Terapia medica sistematica;   
+Gastro-enterologia;   
+Neuro-psichiatria geriatrica;   
+Medicina psicosomatica;   
+Chirurgia riparatrice della mano;   
+Patologia dell'apparato locomotore;   
+Chirurgia del cuore e dei grossi vasi;   
+Chirurgia toracica;   
+Fisiopatologia chirurgica.   
   
-L'art. 407 (ex 354), relativo all'ordinamento degli studi della scuola per tecnici di igiene ambientale e del lavoro, e' sostituito dal seguente:  
-Art. 407. - Il corso comprende lezioni teoriche ed esercitazioni pratiche. Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-chimica;  
-biologia generale;  
-fisica applicata all'igiene;  
-microbiologia;  
-nozioni di epidemiologia, demografia e statistica sanitaria; tecniche di prelevamento ed analisi di campioni di aria, suolo, alimenti (negli ambienti di vita e di lavoro).  
-2° Anno:  
-chimica analitica (microanalisi);  
-igiene dell'ambiente fisico e sociale;  
-nozioni di tecnologia del lavoro industriale ed agricolo;  
-nozioni di tossicologia;  
-organizzazione del lavoro;  
-legislazione ed organizzazione sanitaria.  
-Le esercitazioni pratiche sono biennali e comprendono:  
-1) tecniche di prelievo e/o rilevamento di:  
-aria;  
-acqua;  
-suolo;  
-liquidi biologici;  
-alimenti;  
-agenti fisici;  
-2) tecniche analitiche di:  
-aria;  
-acqua (analisi chimiche e batteriologiche);  
-suolo;  
-liquidi biologici;  
-agenti fisici.  
-
-Art. 4
-------
-
+Art. 77. - All'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti i seguenti:   
+Chimica clinica;   
+Elementi di statistica;   
+Elementi di fisiopatologia;   
+Chemioterapia;   
+Farmacognosia;   
+Farmacologia endocrina;   
+Farmacologia applicata;   
+Tossicologia.   
   
-Dopo l'art. 415, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli:  
+Art. 86. - All'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologia farmaceutiche sono aggiunti i seguenti:   
+Chimica clinica;   
+Elementi di statistica;   
+Elementi di fisiopatologia;   
+Chemioterapia;   
+Farmacologia endocrina;   
+Farmacologia applicata.   
   
-Scuola per tecnici cosmetologi (scuola diretta a fini speciali)  
-  
-Art. 416. - E' istituita presso l'istituto di clinica dermatologica dell'Universita' di Pavia una scuola per la preparazione di personale tecnico specializzato in cosmetologia. La scuola per cosmetologi ha lo scopo di impartire agli allievi con unita' di indirizzo e metodo scientifico tutte le nozioni teoriche e pratiche per ben esercitare l'attivita' di cosmetologo.  
-Art. 417. - La durata del corso degli studi della scuola di preparazione per cosmetologi e' di due anni accademici. Alla scuola possono essere ammessi allievi di ambo i sessi aventi il diploma di scuola media di secondo grado.  
-Art. 418. - Al primo anno della scuola si accede previo esame di cultura generale ed attitudinale davanti ad una commissione composta dal direttore della scuola e da due insegnanti della scuola stessa.  
-L'esame di ammissione avra' luogo entro il mese di ottobre di ciascun anno in un giorno stabilito dalla facolta' di medicina e chirurgia su proposta del direttore della scuola. In casi particolari e' possibile l'ammissione al secondo anno qualora il direttore della scuola ne ravvisi la necessita'.  
-Art. 419. - Il numero massimo degli allievi che possono essere ammessi ad ogni anno di corso della scuola e' di trenta.  
-Art. 420. - Il direttore della scuola e' il direttore dell'istituto di clinica dermatologica dell'Universita' di Pavia che puo' nominare direttore dei corsi uno dei docenti della scuola. La scuola e' sotto la vigilanza della facolta' di medicina e chirurgia. Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' di medicina e chirurgia e nominati dal rettore. Essi possono essere scelti fra i professori ufficiali, fra i docenti, fra gli aiuti e gli assistenti della facolta' di medicina e chirurgia o di altra facolta' dell'Universita' di Pavia o di altre universita', o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.  
-Art. 421. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-dermatologia estetica;  
-chimica cosmetologica;  
-igiene cosmetologica;  
-cosmetologia applicata;  
-nozioni di fisica.  
-2° Anno:  
-nozioni di patologia dermatologica;  
-massoterapia cosmetologica;  
-nozioni di dermatologia correttiva;  
-nozioni di chirurgia estetica.  
-Art. 422. - La frequenza alle lezioni teoriche e alle esercitazioni pratiche e' obbligatoria. Per la validita' dell'anno scolastico l'allievo deve partecipare ai due terzi delle lezioni sia teoriche che pratiche.  
-Art. 423. - Le lezioni verranno impartite agli allievi nelle aule messe a disposizione della clinica dermatologica. I programmi di insegnamento e gli orari vengono predisposti dal direttore della scuola ed approvati dal consiglio della facolta' di medicina e chirurgia. La sorveglianza degli iscritti, per quanto riguarda la loro attivita' pratica, spetta al direttore della scuola. Il tirocinio sara' compiuto dagli allievi sotto la guida degli insegnanti della scuola presso la clinica dermatologica di Pavia, nonche', qualora si rendesse necessario, presso altri istituti ed associazioni specialistiche.  
-Art. 424. - Per essere ammessi a sostenere gli esami di diploma gli allievi dovranno avere seguito il corso, superato gli esami di tutti gli insegnamenti prescritti e avere compiuto, con esito favorevole, tutte le esercitazioni pratiche previste. Non possono essere ammessi al secondo anno gli allievi che non hanno superato gli esami attinenti alle materie del primo anno.  
-Art. 425. - Le commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Le commissioni sono composte da tre membri: dal professore ufficiale della materia, presidente; dal professore ufficiale di materia affine e da un libero docente cultore della materia. Ogni commissario ha a disposizione dieci punti.  
-Art. 426. - L'esame di diploma consiste in un esame orale sui temi trattati durante il corso, ed eventualmente da una prova pratica stabilita dalla commissione esaminatrice. L'esame di diploma viene sostenuto davanti ad una commissione di cinque membri scelti fra i docenti della scuola nominati dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Ogni commissario ha a disposizione dieci punti. I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza nella scuola, ma se al secondo anno non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove. Agli allievi che avranno superato l'esame finale viene rilasciato il diploma di tecnico cosmetologo.  
+Gli articoli 271 e 275 relativi alla "Scuola di paleografia e filologia musicale" (scuola diretta a fini speciali) sono abrogati e sostituiti dai seguenti:   
+Art. 271. - Il direttore della scuola e' un professore di ruolo dell'Universita' di Pavia, eletto ogni tre anni dal consiglio dalla scuola, di cui al successivo articolo.   
+Art. 275. - Gli insegnamenti della scuola sono quelli propri della scuola stessa, indicati nel presente statuto, e vengono impartiti da professori di ruolo della scuola stessa e da professori incaricati.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1979
+### Dato a Roma, addi' 28 ottobre 1972
 
-PERTINI VALITUTTI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 28 maggio 1980
+Registrato alla Corte dei conti, addi' 21 dicembre 1972
 
-Registrato n. 50 Istruzione, foglio n. 114
+Atti di Governo, registro n. 254, foglio n. 39. - CARUSO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1984 n. 646
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 736
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1984 n. 646
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 736
+================================================================
 
 Assegnazione di un posto di tecnico laureato presso l'Universita' degli studi di Roma.
 --------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-646. Decreto del Presidente della Repubblica 30 luglio 1984, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di medicina legale e delle assicurazioni (per l'insegnamento di medicina legale e deontologia medica) della facolta' di medicina e chirurgia dell'Universita' di Roma.  
+736. Decreto del Presidente della Repubblica 22 settembre 1981, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di clinica oculistica della facolta' di medicina e chirurgia dell'Universita' di Roma, per l'immissione in ruolo di un dipendente avente diritto all'applicazione delle norme di cui all'[art. 11 della legge 25 ottobre 1977, n. 808](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-10-25;808~art11).   
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 22 settembre 1984  
-Registro n. 56 Istruzione, foglio n. 92
+Visto, il Guardasigilli: DARIDA   
+Registrato alla Corte dei conti, addi' 5 dicembre 1981   
+Registro n. 121 Istruzione, foglio n. 19

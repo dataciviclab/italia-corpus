@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1963 n. 874
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 1188
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1963 n. 874
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 1188
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,310 +10,67 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), modificato con [regio decreto 31 ottobre 1929, n. 2481](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2481) e successivi;
+Veduto lo statuto dell'Universita' di Rari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, numero 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte Sentito il parere del Consiglio superiore della pubblica istruzione;
+Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+
+Veduto il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 52. - Agli insegnamenti complementari del corso di laurea in Lettere e' aggiunto quello di "Storia della critica letteraria".
-
-Art. 35. - Agli insegnamenti complementari del corso di laurea in Farmacia e' aggiunto quello di "Chimica farmaceutica applicata".
-
-Art. 80. - I primi quattro comma sono abrogati e sostituiti dai seguenti:
-
-"La durata del corso degli studi per la laurea in Matematica, e' di quattro anni".
-
-E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica. Possono essere ammessi i diplomi degli Istituti tecnici industriali, nautici, agrari e per geometri, alle condizioni stabilite dalla legge.
-
-Il corso di studi si distingue in tre indirizzi: generale, didattico, applicativo.
-
-Il primo biennio di studi e' comune a tutti gli indirizzi.
-
-Nello stesso articolo dopo l'elenco degli insegnamenti dell'indirizzo didattico viene inserito il seguente elenco di insegnamenti relativi alla istituzione dell'indirizzo applicativo:
-
-c) Indirizzo applicativo
-
-3° Anno
-
-Insegnamenti fondamentali
-
-1) Istituzioni di analisi superiore;
-
-2) Istituzioni di geometria superiore;
-
-3) Istituzioni di fisica matematica;
-
-4) Calcolo numerico con elementi di programmazione I o II.
-
-4° Anno
-
-Insegnamento fondamentale:
-
-1) Calcolo numerico con elementi di programmazione II o I;
-
-2) Due insegnamenti complementari, di cui uno almeno ad indirizzo fisico.
-
-Insegnamenti complementari:
-
-1) Analisi numerica;
-
-2) Analisi superiore;
-
-3) Astronomia (\*);
-
-4) Calcolo delle probabilita';
-
-5) Cibernetica e teoria della informazione (\*);
-
-6) Complementi di fisica generale (\*)
-
-7) Economia matematica
-
-8) Fisica matematica
-
-9) Geometria differenziale;
-
-10) Geometria superiore;
-
-11) Istituzioni di fisica teorica (\*);
-
-12) Logica matematica
-
-13) Matematica finanziaria ed attuariale;
-
-14) Matematiche complementari I o II;
-
-15) Matematiche elementari da un punto di vista superiore;
-
-16) Matematiche superiori;
-
-17) Meccanica statistica;
-
-18) Statistica matematica;
-
-19) Storia delle matematiche;
-
-20) Struttura della materia; (1)
-
-21) Teoria dei numeri;
-
-22) Teoria delle funzioni
-
-23) Teoria ed applicazioni delle macchine calcolatrici.
-
-Nota:
-
-Art. 81, relativo alle norme comuni del corso di laurea in Matematica, e' modificato nel senso che il terzo comma e' abrogato e sostituito dal seguente:
-
-"Gli insegnamenti fondamentali del primo biennio e gli insegnamenti di Istituzioni di analisi superiore, Istituzioni di geometria superiore, Istituzioni di fisica matematica, Matematiche complementari I e II, Calcolo numerico con elementi di programmazione I e II sono accompagnati ciascuno da un corso di esercitazioni che ne e' parte integrante".
-
-Art. 105. - Agli Istituti annessi alla Facolta' di ingegneria e' aggiunto quello di "Disegno".
-
-Art. 116, relativo alla Scuola di perfezionamento in Diritto del lavoro e previdenza sociale, e' modificato nel senso che il corso biennale di "Diritto del lavoro" e' distinto in due corsi annuali:
-
-"Diritto costituzionale del lavoro" al primo anno;
-
-"Diritto del lavoro" al secondo anno.
-
-Fra gli insegnamenti del secondo anno della suddetta Scuola sono aggiunti i seguenti:
-
-"Diritto internazionale del lavoro";
-
-"Diritto penale del lavoro";
-
-"Diritto processuale del lavoro".
-
-Art. 156. - L'ordinamento degli studi relativo alla Scuola di specializzazione in Neurologia e' abrogato ed in sostituzione viene istituita la "Scuola di specializzazione in Malattie nervose e mentali" con il seguente ordinamento La Scuola di specializzazione in Malattie nervose e mentali e' annessa all'istituto di clinica delle malattie nervose e mentali.
-
-Alla Scuola sono ammessi i laureati in medicina e chirurgia in numero non superiore a 10 ogni anno.
-
-La durata del corso degli studi per il conseguimento del diploma di specialista e' di tre anni.
-
-Gli insegnamenti impartiti nella Scuola sono cosi' suddivisi:
-
-1° Anno:
-
-1) Anatomia del sistema nervoso;
-
-2) Fisiologia e fisiopatologia del sistema nervoso;
-
-3) Psicologia e psicopatologia generale.
-
-2° Anno:
-
-1) Anatomia e istologia patologica del sistema nervoso;
-
-2) Semeiotica neurologica;
-
-3) Semeiotica psichiatrica;
-
-4) Elementi di neuroradiologia e di elettroencefalografia.
-
-3° Anno:
-
-1) Clinica neurologica;
-
-2) Clinica psichiatrica;
-
-3) Psicoterapia e igiene mentale.
-
-Al termine di ciascun anno di corso l'allievo dovra' sostenere un esame teorico pratico sulle materie che sono state oggetto d'insegnamento.
-
-Durante i tre anni di corso gli iscritti alla Scuola di specializzazione sono obbligati a frequentare come interni la clinica delle malattie nervose e mentali.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e del decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 24 maggio 1963
-
-SEGNI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 28 giugno 1963 Atti del Governo, registro n. 171, foglio n. 50. - VILLA
+Lo statuto dell'Universita' di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), modificato con [regio decreto 31 ottobre 1929, n. 2481](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2481) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, numero 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Nell'art. 54, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+ginecologia oncologica;  
+urologia ginecologica;  
+fisiopatologia digestiva;  
+fisiopatologia medica;  
+dermatologia sperimentale;  
+virologia clinica.  
+
+Art. 2
+------
+
   
-Decreta:  
+Nell'art. 91, relativo al corso di laurea in scienze della informazione, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+automazione e organizzazione sanitaria.  
+
+Art. 3
+------
+
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 52. - Agli insegnamenti complementari del corso di laurea in Lettere e' aggiunto quello di "Storia della critica letteraria".  
-  
-Art. 35. - Agli insegnamenti complementari del corso di laurea in Farmacia e' aggiunto quello di "Chimica farmaceutica applicata".  
-  
-Art. 80. - I primi quattro comma sono abrogati e sostituiti dai seguenti:  
-  
-"La durata del corso degli studi per la laurea in Matematica, e' di quattro anni".  
-E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica. Possono essere ammessi i diplomi degli Istituti tecnici industriali, nautici, agrari e per geometri, alle condizioni stabilite dalla legge.  
-Il corso di studi si distingue in tre indirizzi: generale, didattico, applicativo.  
-Il primo biennio di studi e' comune a tutti gli indirizzi.  
-  
-Nello stesso articolo dopo l'elenco degli insegnamenti dell'indirizzo didattico viene inserito il seguente elenco di insegnamenti relativi alla istituzione dell'indirizzo applicativo:  
-c) Indirizzo applicativo  
-  
-3° Anno  
-  
-Insegnamenti fondamentali  
-1) Istituzioni di analisi superiore;  
-2) Istituzioni di geometria superiore;  
-3) Istituzioni di fisica matematica;  
-4) Calcolo numerico con elementi di programmazione I o II.  
-  
-4° Anno  
-  
-Insegnamento fondamentale:  
-1) Calcolo numerico con elementi di programmazione II o I;  
-2) Due insegnamenti complementari, di cui uno almeno ad indirizzo fisico.  
-  
-Insegnamenti complementari:  
-1) Analisi numerica;  
-2) Analisi superiore;  
-3) Astronomia (\*);  
-4) Calcolo delle probabilita';  
-5) Cibernetica e teoria della informazione (\*);  
-6) Complementi di fisica generale (\*)  
-7) Economia matematica  
-8) Fisica matematica  
-9) Geometria differenziale;  
-10) Geometria superiore;  
-11) Istituzioni di fisica teorica (\*);  
-12) Logica matematica  
-13) Matematica finanziaria ed attuariale;  
-14) Matematiche complementari I o II;  
-15) Matematiche elementari da un punto di vista superiore;  
-16) Matematiche superiori;  
-17) Meccanica statistica;  
-18) Statistica matematica;  
-19) Storia delle matematiche;  
-20) Struttura della materia; (1)  
-21) Teoria dei numeri;  
-22) Teoria delle funzioni  
-23) Teoria ed applicazioni delle macchine calcolatrici.  
-  
-Nota:  
-  
-Art. 81, relativo alle norme comuni del corso di laurea in Matematica, e' modificato nel senso che il terzo comma e' abrogato e sostituito dal seguente:  
-  
-"Gli insegnamenti fondamentali del primo biennio e gli insegnamenti di Istituzioni di analisi superiore, Istituzioni di geometria superiore, Istituzioni di fisica matematica, Matematiche complementari I e II, Calcolo numerico con elementi di programmazione I e II sono accompagnati ciascuno da un corso di esercitazioni che ne e' parte integrante".  
-  
-Art. 105. - Agli Istituti annessi alla Facolta' di ingegneria e' aggiunto quello di "Disegno".  
-  
-Art. 116, relativo alla Scuola di perfezionamento in Diritto del lavoro e previdenza sociale, e' modificato nel senso che il corso biennale di "Diritto del lavoro" e' distinto in due corsi annuali:  
-"Diritto costituzionale del lavoro" al primo anno;  
-"Diritto del lavoro" al secondo anno.  
-  
-Fra gli insegnamenti del secondo anno della suddetta Scuola sono aggiunti i seguenti:  
-"Diritto internazionale del lavoro";  
-"Diritto penale del lavoro";  
-"Diritto processuale del lavoro".  
-  
-Art. 156. - L'ordinamento degli studi relativo alla Scuola di specializzazione in Neurologia e' abrogato ed in sostituzione viene istituita la "Scuola di specializzazione in Malattie nervose e mentali" con il seguente ordinamento La Scuola di specializzazione in Malattie nervose e mentali e' annessa all'istituto di clinica delle malattie nervose e mentali.  
-Alla Scuola sono ammessi i laureati in medicina e chirurgia in numero non superiore a 10 ogni anno.  
-La durata del corso degli studi per il conseguimento del diploma di specialista e' di tre anni.  
-  
-Gli insegnamenti impartiti nella Scuola sono cosi' suddivisi:  
-  
-1° Anno:  
-1) Anatomia del sistema nervoso;  
-2) Fisiologia e fisiopatologia del sistema nervoso;  
-3) Psicologia e psicopatologia generale.  
-  
-2° Anno:  
-1) Anatomia e istologia patologica del sistema nervoso;  
-2) Semeiotica neurologica;  
-3) Semeiotica psichiatrica;  
-4) Elementi di neuroradiologia e di elettroencefalografia.  
-  
-3° Anno:  
-1) Clinica neurologica;  
-2) Clinica psichiatrica;  
-3) Psicoterapia e igiene mentale.  
-  
-Al termine di ciascun anno di corso l'allievo dovra' sostenere un esame teorico pratico sulle materie che sono state oggetto d'insegnamento.  
-Durante i tre anni di corso gli iscritti alla Scuola di specializzazione sono obbligati a frequentare come interni la clinica delle malattie nervose e mentali.  
+Nell'art. 130, relativo all'elenco degli insegnamenti complementari del corso di laurea in ingegneria, sono aggiunti i seguenti insegnamenti:  
+statica delle strutture prefabbricate.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e del decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 maggio 1963
+### Dato a Roma, addi' 17 maggio 1983
 
-SEGNI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 28 giugno 1963
+Registrato alla Corte dei conti, addi' 28 aprile 1984
 
-Atti del Governo, registro n. 171, foglio n. 50. - VILLA
-
-(1) Gli insegnamenti contrassegnati con asterisco sono ad indirizzo fisico.
+Registro n. 25 Istruzione, foglio n. 201

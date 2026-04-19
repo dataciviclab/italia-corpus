@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1986 n. 1029
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1981 n. 587
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1986 n. 1029
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1981 n. 587
+=============================================================
 
 Autorizzazione alla Lega italiana per la lotta contro i tumori, in Roma, ad accettare una eredita'.
 ---------------------------------------------------------------------------------------------------
@@ -10,11 +10,10 @@ Autorizzazione alla Lega italiana per la lotta contro i tumori, in Roma, ad acce
 Art. 1
 ------
 
-n.
+N.
 
-1029. Decreto del Presidente della Repubblica 27 dicembre 1986, col quale, sulla proposta del Ministro della sanita', la Lega italiana per la lotta contro i tumori, in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita', consistente in un appartamento sito in Udine, viale Ungheria n. 121, del periziato valore di L. 77.000.000, disposta dalla signora Paola Bonacina con testamento olografo 26 dicembre 1982, pubblicato in data 27 gennaio 1983, n. 35001/2090 di repertorio, a rogito dott.  
-Giovanni Rubini, notaio in Udine, registrato a Udine in data 2 febbraio 1983 al n. 1118.  
+587. Decreto del Presidente della Repubblica 2 maggio 1981, col quale, sulla proposta del Ministro della sanita', la Lega italiana per la lotta contro i tumori, in Roma, viene autorizzata ad accettare l'eredita', consistente in beni immobili e mobili e in un deposito bancario, del valore complessivo di circa lire 2.000.000.000, disposta dalla sig.ra Elena Vitali con testamento olografo 18 aprile 1975, pubblicato in data 30 settembre 1977, n. 52922/6823 di repertorio, a rogito dott. Antonio Cardarelli, notaio in Macerata, registrato a Macerata in data 4 ottobre 1977 al n. 2630.  
   
-Visto, il Guardasigilli: ROGNONI  
-Registrato alla Corte dei conti, addi' 27 febbraio 1987  
-Registro n. 2 Sanita', foglio n. 291
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 8 ottobre 1981  
+Registro n. 5 Sanita', foglio n. 390

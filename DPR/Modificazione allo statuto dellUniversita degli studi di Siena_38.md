@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 febbraio 1983 n. 215
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 364
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 febbraio 1983 n. 215
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 364
+============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -24,7 +24,7 @@ Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http:
 
 Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
 Veduto il parere del Consiglio universitario nazionale;
 
@@ -39,20 +39,21 @@ Articolo unico
 --------------
 
   
-  
-All'art. 11, relativo al corso di laurea in scienze politiche, all'elenco degli insegnamenti complementari per entrambi gli indirizzi storico-politico e politico-amministrativo e' aggiunto il seguente nuovo insegnamento:   
-statistica sociale.   
+Nell'art. 69, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+scienza dell'alimentazione e dietetica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 febbraio 1983
+### Dato a Roma, addi' 10 marzo 1986
 
-PERTINI FALCUCCI
+COSSIGA
 
-Visto, il Guardasigilli: DARIDA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 9 maggio 1983
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registro n. 32 Istruzione, foglio n. 33
+Registrato alla Corte dei conti, addi' 8 luglio 1986
+
+Registro n. 54 Istruzione, foglio n. 331

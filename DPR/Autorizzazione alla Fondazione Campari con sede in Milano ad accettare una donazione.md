@@ -1,19 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1967 n. 883
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 maggio 1958 n. 642
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1967 n. 883
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 maggio 1958 n. 642
 =============================================================
 
-Autorizzazione alla Fondazione Campari, con sede in Milano, ad accettare una donazione.
----------------------------------------------------------------------------------------
+Autorizzazione, alla Fondazione "Campari", con sede in Milano, ad accettare una donazione.
+------------------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-883. Decreto del Presidente della Repubblica 18 luglio 1967, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, la Fondazione Campari, con sede in Milano, viene autorizzata ad accettare la donazione disposta a suo favore dalla S.p.A. Davide Campari costituita da buoni del Tesoro, con scadenza 1973-74, del complessivo ammontare di lire 40.000.000.  
+642. Decreto del Presidente della Repubblica 20 maggio 1958, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, la Fondazione "Campari", con sede in Milano, viene autorizzata ad accettare la donazione delle somme di L. 90.000.000 nominali, in titoli dello Stato, e di L. 1.813.329 in contanti, deliberata dalla Societa' Davide Campari, societa' per azioni, con sede in Milano.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 29 settembre 1967  
-Atti del Governo, registro n. 214, foglio n. 22. - GRECO
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 27 giugno 1958  
+Atti del Governo, registro n. 112, foglio n. 254. - RELLEVA

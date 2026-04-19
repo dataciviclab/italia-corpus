@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1985 n. 704
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1140
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1985 n. 704
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1140
+================================================================
 
 Assegnazione di due posti di tecnico laureato presso la seconda Universita' degli studi di Roma.
 ------------------------------------------------------------------------------------------------
@@ -12,11 +12,10 @@ Art. 1
 
 N.
 
-704. Decreto del Presidente della Repubblica 1 ottobre 1985, col quale, sulla proposta del Ministro della pubblica istruzione, due posti disponibili nel ruolo dei tecnici laureati vengono assegnati alla seconda Universita' di Roma come segue:   
-Facolta' di medicina e chirurgia:   
+1140. Decreto del Presidente della Repubblica 23 dicembre 1983, col quale, sulla proposta del Ministro della pubblica istruzione, due posti disponibili nel ruolo dei tecnici laureati vengono assegnati alla seconda Universita' di Roma come segue:  
   
-cattedra di medicina legale e delle assicurazioni . . . . . . posti 1 cattedra di virologia . . . . . . . . . . . . . . . . . . . . posti 1   
-  
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 26 novembre 1985   
-Registro n. 81 Istruzione, foglio n. 308
+Facolta' di medicina e chirurgia:  
+cattedra di clinica ostetrica . . . . . . . . . . . . . . . . posti 1 cattedra di clinica neurologica . . . . . . . . . . . . . . . posti 1   
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 7 aprile 1984  
+Registro n. 21 Istruzione, foglio n. 211

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1968 n. 650
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1968 n. 502
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1968 n. 650
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1968 n. 502
 ============================================================
 
 Autorizzazione all'Automobile club d'Italia, con sede in Roma, ad acquistare un immobile.
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-650. Decreto del Presidente della Repubblica 11 marzo 1968, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile club d'Italia, con sede in Roma, viene autorizzato ad acquistare in proprieta' dal comune di Campagnano di Roma, per il riattamento e l'ampliamento dell'autodromo e per il prezzo di lire 65.000.000, l'appezzamento di terreno sito in agro di Campagnano di Roma, localita' Vallelunga, della superficie di ha. 14.40.90, distinto nel catasto alla partita 480/2862, foglio 2, particelle: 33, 31, 32, 36, 48, 53, 34, 66, 35, 49, 37, 59, 63, 38, 50, 52 e 60.  
+502. Decreto del Presidente della Repubblica 11 marzo 1968, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile club d'Italia, con sede in Roma, viene autorizzato ad acquistare in proprieta' dalla societa' per azioni "Lubrificanti O.  
+Coppini S.p.A.", con sede in Livorno, per adibirlo a stazione di servizio e per il prezzo di lire 500.000, l'appezzamento di terreno con sovrastante fabbricato a piano terra, sito in Livorno, frazione Antignano, localita' denominata "Marroccone", nel nuovo catasto al F. 79, n. 33 in parte.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 11 maggio 1968  
-Atti del Governo, registro n. 219, foglio n. 129. - GRECO
+Registrato alla Corte dei conti, addi' 16 aprile 1968  
+Atti del Governo, registro n. 219, foglio n. 8 - GRECO

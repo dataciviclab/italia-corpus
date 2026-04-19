@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 475
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1972 n. 365
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 475
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1972 n. 365
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
@@ -12,82 +12,58 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 458, 459, 460, 461, 462 e 463, relativi alla scuola di specializzazione in ostetricia e ginecologia, che muta la denominazione in quella di scuola di specializzazione in ginecologia e ostetricia, sono soppressi e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in ginecologia e ostetricia  
-Art. 458. - Il corso di studi per la specializzazione in ginecologia e ostetricia ha la durata di quattro anni.  
-L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami.  
-Art. 459. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine. Il direttore e' nominato dalla facolta' di medicina e chirurgia per un anno ed e' sempre riconfermabile.  
-Egli presiede il consiglio della scuola costituito a norma dell'art. 187 ed e' tenuto a dare comunicazione al preside della facolta' medico-chirurgica di tutti gli atti e di tutte le deliberazioni del consiglio da lui presieduto.  
-Art. 460. - Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.  
-Per nessun motivo il corso di quattro anni puo' essere abbreviato.  
-Nessun titolo puo' esonerare dalla frequenza gli iscritti ai quattro anni di corso.  
-Art. 461. - Gli iscritti, oltre all'obbligo di frequenza alle lezioni cattedratiche, esercitazioni, seminari, ecc., debbono effettuare esercitazioni pratiche nei reparti per non meno di dieci mesi su dodici all'anno.  
-La scelta dei mesi di permesso e' in facolta' del consiglio della scuola a seconda dell'epoca delle lezioni e delle esigenze di servizio nella clinica.  
-Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.  
-La sessione di esami di profitto e' unica ed e' espletata nel mese di novembre.  
-La frequenza degli iscritti deve essere convalidata e confermata dalla firma degli insegnanti delle rispettive materie.  
-Art. 462. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-a) elementi di genetica medica;  
-b) elementi di embriologia; anatomia macro e micro dell'apparato genitale femminile; anatomia della pelvi;  
-c) elementi di fisiopatologia della riproduzione umana;  
-d) fisiologia ostetrica;  
-e) endocrinologia ginecologica ed ostetrica;  
-f) semeiotica e diagnostica ostetrica;  
-g) patologia ostetrica e ginecologica (biennale) I;  
-h) lingua straniera (inglese) I (quadriennale).  
-2° Anno:  
-a) semeiotica e diagnostica ginecologica;  
-b) operazioni ostetriche I (biennale);  
-c) anatomia e istologia patologica della sfera genitale femminile;  
-d) citologia ginecologica;  
-e) patologia ostetrica e ginecologica II (biennale);  
-f) diagnostica di laboratorio in ostetricia e ginecologia;  
-g) lingua straniera (inglese) II (quadriennale).  
-3° Anno:  
-a) puericultura prenatale;  
-b) immunologia ostetrica e ginecologica;  
-c) analgo-anestesia e rianimazione in ostetricia;  
-d) operazioni ostetriche II (biennale);  
-e) operazioni ginecologiche I (biennale);  
-f) ostetricia e ginecologia forense;  
-g) terapia medica in ostetricia e ginecologia;  
-h) clinica ostetrica e ginecologica I (biennale);  
-i) psicosomatica ostetrica e ginecologica;  
-l) lingua straniera (inglese) III (quadriennale).  
-4° Anno:  
-a) neonatologia;  
-b) urologia ginecologica;  
-c) radio-diagnostica e terapia fisica in ostetricia e ginecologia;  
-d) chirurgia addominale;  
-e) operazioni ginecologiche II (biennale);  
-f) clinica ostetrica e ginecologica II (biennale);  
-g) lingua straniera (inglese) IV (quadriennale).  
-Art. 463. - Al termine del corso di studi per il conseguimento del diploma di specialista in ginecologia ed ostetricia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+Art. 88: all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:  
+Psicologia;  
+Storia della lingua latina;  
+Letteratura cristiana antica;  
+Antropologia culturale;  
+Didattica dell'italiano;  
+Didattica delle lingue moderne;  
+Didattica della filosofia;  
+Didattica della storia;  
+Didattica del latino.  
+Art. 89: all'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti quelli di:  
+Metodologia delle scienze sociali;  
+Didattica dell'italiano;  
+Didattica delle lingue moderne;  
+Didattica della filosofia;  
+Didattica della storia;  
+Didattica del latino.  
+Art. 90: all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:  
+Lingua e letteratura ispano-americana;  
+Lingua e letteratura polacca;  
+Lingua e letteratura portoghese;  
+Lingua e letteratura svedese;  
+Letteratura comparata;  
+Didattica dell'italiano;  
+Didattica delle lingue moderne;  
+Didattica della filosofia;  
+Didattica della storia;  
+Didattica del latino.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale, delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 maggio 1979
+### Dato a Roma, addi' 11 maggio 1972
 
-PERTINI SPADOLINI
+LEONE MISASI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 22 settembre 1979
+Registrato alla Corte dei conti, addi' 25 luglio 1972
 
-Registro n. 69 Istruzione, foglio n. 103
+Atti del Governo, registro n. 250, foglio n. 75. - CARUSO

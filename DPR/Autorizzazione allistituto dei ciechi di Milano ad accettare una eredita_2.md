@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1981 n. 492
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 1959 n. 561
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1981 n. 492
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 1959 n. 561
+===============================================================
 
 Autorizzazione all'istituto dei ciechi di Milano ad accettare una eredita'.
 ---------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-492. Decreto del Presidente della Repubblica 2 marzo 1981, col quale, sulla proposta del Ministro della pubblica istruzione, l'istituto dei ciechi di Milano viene autorizzato ad accettare l'eredita', consistente in beni mobili e immobili del valore complessivo di lire 96.190.225, disposta dalla sig.ra Claudia Bosio vedova Scattone con testamento olografo 10 maggio 1974, pubblicato in data 13 ottobre 1976, n. 120616/23756 di repertorio, a rogito dott. Domenico Moretti, notaio in Milano, registrato a Milano in data 29 ottobre 1976 al n. 15245.  
+561. Decreto del Presidente della Repubblica 13 febbraio 1959, col quale, sulla proposta del Ministro per la pubblica istruzione, l'istituto dei ciechi di Milano viene autorizzato ad accettare l'eredita' disposta in suo favore con testamento olografo in data 3 febbraio 1936 dal defunto sig. ing. Michele Galli fu Francesco con l'obbligo di corrispondere, al netto di qualsiasi onere fiscale e spese, i legati menzionati nel testamento stesso.  
   
-Visto, il Guardasigilli: SARTI  
-Registrato alla Corte dei conti, addi' 25 agosto 1981  
-Registro n. 78 Istruzione, foglio n. 181
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 31 luglio 1959  
+Atti del Governo, registro n. 119, foglio n. 139. - VILLA

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1967 n. 481
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1959 n. 108
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1967 n. 481
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1959 n. 108
+===============================================================
 
 Autorizzazione alla "Fondazione Pro Juventute Don Carlo Gnocchi", con sede in Roma, ad accettare una quota di eredita'.
 -----------------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-481. Decreto del Presidente della Repubblica 28 marzo 1967, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare, col beneficio d'inventario, una quota di eredita' disposta dal defunto sig. Bettini Angelo - con testamento olografo dell'11 dicembre 1960, depositato e pubblicato con verbale a rogito dott. Vittorio Poli, notaio residente in Brescia, in data 29 gennaio 1965, n. 90024 di repertorio, numero 2262 di raccolta - in favore dei "Mutilatini di Don Gnocchi", che si identificano con la Fondazione Pro Juventute suindicata; la predetta quota di eredita' e' costituita da un terzo di tutti i beni di qualsiasi natura lasciati dal de cuius ed ammonta a L. 6.959.000 circa.  
+108. Decreto del Presidente della Repubblica 5 febbraio 1959, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare, col beneficio d'inventario, la quota di eredita' disposta dalla defunta signora Assunta Ricci ved.  
+Delfino con testamento olografo 12 luglio 1955, a favore dell'"Opera dei mutilatini di Don Gnocchi", che si identifica con la Fondazione suindicata.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 13 giugno 1967  
-Atti del Governo, registro n. 211, foglio n. 109. - GRECO
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 27 marzo 1959  
+Atti del Governo, registro n. 117, foglio n. 34. - VILLA

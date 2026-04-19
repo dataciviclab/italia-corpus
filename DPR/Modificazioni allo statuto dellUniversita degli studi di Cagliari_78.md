@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 802
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 maggio 1972 n. 327
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 802
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 maggio 1972 n. 327
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -12,34 +12,67 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi, di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificata con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Cagliari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 35, relativo all'ordinamento degli studi del corso di laurea in lettere, e' modificato nel senso che l'insegnamento complementare di grammatica greca e latina e' abrogato e sostituito dai seguenti:  
-grammatica greca;  
-grammatica latina.  
-L'art. 69, relativo all'ordinamento degli studi del corso di laurea in chimica e tecnologia farmaceutiche, e' modificato nel senso che l'insegnamento complementare di calcoli statistici applicati alla biologia muta la denominazione in quella di "metodi matematici e statistici in chimica e biologia".  
+  
+Art. 40: all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:  
+  
+Didattica;  
+Psicologia scolastica;  
+Sociologia dell'educazione;  
+Psicologia del lavoro;  
+Psicologia applicata e tecniche psicodiagnostiche;  
+Psicologia dinamica;  
+Fondamenti di psico-fisiologia.  
+  
+Art. 41: all'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti quelli di:  
+  
+Storia della scuola e delle istituzioni educative;  
+Pedagogia comparata;  
+Educazione degli adulti;  
+Informatica e tecnologie dell'educazione;  
+Docimologia;  
+Pedagogia speciale e correttiva;  
+Ecologia umana;  
+Sociologia economica;  
+Elementi di cibernetica.  
+  
+Art. 42: all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:  
+  
+Lingua e letteratura portoghese;  
+Lingue e letterature scandinave;  
+Lingua e letteratura polacca;  
+Storia della critica letteraria inglese;  
+Storia della critica letteraria francese;  
+Storia della critica letteraria tedesca;  
+Storia della critica letteraria spagnola;  
+Letteratura inglese moderna e contemporanea;  
+Letteratura tedesca moderna e contemporanea;  
+Letteratura francese moderna e contemporanea;  
+Letteratura spagnola moderna e contemporanea;  
+Lingua e letteratura catalana.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 settembre 1978
+### Dato a Roma, addi' 1 maggio 1972
 
-PERTINI PEDINI
+LEONE MISASI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 11 dicembre 1978
+Registrato alla Corte dei conti, addi' 24 luglio 1972
 
-Registro n. 130 Istruzione, foglio n. 153
+Atti del Governo, registro n. 250, foglio n. 32. - CARUSO

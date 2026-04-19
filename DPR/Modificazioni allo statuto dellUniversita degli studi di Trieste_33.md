@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1973 n. 881
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1972 n. 135
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1973 n. 881
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1972 n. 135
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
@@ -10,15 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,186 +30,145 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 125, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola diretta a fini speciali in "assistenza sociale psichiatrica".
+Dopo l'art. 124 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in oculistica.
 
-Scuola di assistenza sociale psichiatrica
+Scuola di specializzazione in oculistica
 
-(Scuola diretta a fini speciali)
+Art. 125. - E' istituita la scuola di specializzazione in oculistica che conferisce il diploma in oculistica.
 
-Art. 126. - Presso la facolta' di medicina e chirurgia dell'Universita' degli studi di Trieste e' annessa la scuola di assistenza sociale psichiatrica (scuola diretta a fini speciali) che fa capo alla cattedra di psichiatria. Essa ha lo scopo di dare una preparazione completa, teorica e pratica, agli assistenti sociali, istruendoli sui problemi dell'intervento presso l'ambiente familiare e sociale dell'ammalato psichico, sulle possibilita' di intervento a ti po Casework sui problemi di reinserimento sociale del paziente con disturbi psichici e sulle funzioni dell'assistente sociale presso i servizi di assistenza psichiatrica e le istituzioni psichiatriche ambulatoriali ed ospedaliere.
+La scuola ha sede presso la clinica oculistica.
 
-Art. 127. - La durata del corso per il conseguimento del diploma di assistente sociale psichiatrico e' di due anni accademici; nel primo anno vengono impartiti insegnamenti teorici ed esercitazioni pratiche su materie propedeutiche e tecniche. Nel secondo anno vengono impartiti insegnamenti teorici e pratici su argomenti di clinica neurologica e psichiatrica, assistenza psichiatrica intra ed extraospedaliera e materie affini. Gli allievi hanno l'obbligo della frequenza.
+La durata del corso e' di anni quattro.
 
-Art. 128. - Possono accedere alla scuola i cittadini italiani di ambo i sessi di 18 anni compiuti, forniti del diploma di scuola media superiore (II grado: cioe' maturita' classica, scientifica o diplomi equipollenti) ed in possesso del diploma di assistente sociale rilasciato da una scuola di servizio sociale italiana qualificata (con corsi triennali di studi teorici e di tirocinio tenuti - in parte o in toto - da docenti universitari).
-
-Art. 129. - Chi aspira ad ottenere l'iscrizione al 1° anno della scuola deve sostenere una selezione sui titoli ed un colloquio attitudinale da parte di una commissione composta dal direttore della cattedra di psichiatria, da un esperto in servizio sociale e da un docente della stessa scuola.
-
-Art. 130. - Il numero massimo dei posti disponibili e' stabilito nella misura di venti.
-
-Art. 131. - Direttore della scuola e' il titolare della cattedra di psichiatria dell'Universita'. Gli insegnanti della scuola sono proposti dal consiglio di facolta' di medicina e chirurgia udito il direttore e nominati dal rettore.
-
-Art. 132. - Le materie di insegnamento teorico del 1° anno sono:
-
-Semeiotica psichiatrica;
-
-Psicologia generale;
-
-Igiene mentale;
-
-Neuropsichiatria infantile;
-
-Servizio sociale psichiatrico.
-
-Le esercitazioni pratiche del 1° anno riguardano la presentazione e la discussione di pazienti riguardanti i piu' diversi tipi di patologia psichiatrica.
-
-Le materie di insegnamento teorico del 2° anno sono:
-
-Clinica neurologica;
-
-Psicologia sociale;
-
-Psichiatria forense e legislazione psichiatrica;
-
-Medicina sociale e del lavoro;
-
-Clinica psichiatrica;
-
-Servizio sociale psichiatrico.
-
-Le esercitazioni pratiche del 2° anno consistono nella discussione e nel diretto intervento in casi di pazienti riguardanti i piu' diversi tipi di patologia psichiatrica.
-
-Inoltre consistono nella discussione individuale e di gruppo di casi che gli stessi assistenti sociali hanno seguito nel loro ambiente di lavoro.
-
-Art. 133. - Al termine del 1° anno, per essere ammessi al 2°, gli allievi devono superare una prova di esami sugli insegnamenti teorici e pratici impartiti.
-
-Art. 134. - Al termine del 2° anno, per il conseguimento del diploma di assistente sociale psichiatrico, gli iscritti devono sostenere un esame comprendente: a) una prova orale sulla materia dell'intero corso; b) una prova pratica stabilita dalla commissione esaminatrice.
-
-Art. 135. - Le commissioni per gli esami del 1° anno e per l'esame di diploma sono composte da tre membri - tra cui un esperto in servizio sociale - scelti tra i docenti della scuola e nominati dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Ogni commissario ha a disposizione 10 punti.
-
-Art. 136. - I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola; ma se al 2° esame non sia loro riconosciuta una idoneita' saranno senz'altro esclusi da ulteriori prove.
-
-Art. 137. - Agli allievi che avranno superato l'esame finale viene rilasciato il diploma di assistente sociale psichiatrico.
-
-Art. 138. - Le tasse e soprattasse per la scuola sono ripartite come segue:
+Le materie impartite dalla scuola sono:
 
 1° Anno:
 
-tassa iscrizione ............................. L. 18.000
+1) Anatomia ed istologia dell'apparato oculare;
 
-contributo ................................... L. 25.000
+2) Nozioni di embriologia e genetica oculare;
 
-tassa esame .................................. L. 7.000
+3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;
 
----------
+4) Nozioni di ottica fisiologia, esame della rifrazione;
 
-L. 50.000
+5) Microbiologia ed igiene oculare.
 
 2° Anno:
 
-tassa iscrizione ............................. L. 18.000
+1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, gonioscopia, oftalmoscopia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);
 
-contributo ................................... L. 25.000
+2) Farmacologia oculare e terapia fisica;
 
-tassa esame .................................. L. 7.000
+3) Nozioni di patologia generale e di anatomia patologica in rapporto all'oftalmologia;
 
-soprattassa esame diploma .................... L. 3.000
+4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali; della cornea e della sclera).
 
----------
+3° Anno:
 
-L. 53.000
+1) Patologia e clinica oculare (malattie dell'uvea, della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);
+
+2) Anomalie patologiche della motilita' oculare e della visione binoculare. Ortottica e pleottica;
+
+3) Tecnica operatoria ed anestesiologia (1ª parte);
+
+4) Affezioni otorinolaringoiatriche e patologia oculare.
+
+4° Anno:
+
+1) Neuroftalmologia;
+
+2) Malattie oculari in rapporto ad affezioni generali;
+
+3) Malattie professionali. Infortunistica e medicina legale oculare;
+
+4) Tecnica operatoria (2ª parte);
+
+5) Tesi di specializzazione.
+
+Art. 126. - Alla scuola sono ammessi i laureati in medicina e chirurgia ed il numero degli specializzandi e' di otto per i 4 anni di corso.
+
+Gli esami di profitto si danno alla fine di ciascun anno di corso.
+
+Alla fine del corso gli iscritti, oltre a presentare la dissertazione scritta ed a sostenere la relativa discussione, devono sostenere una prova pratica sull'ammalato.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 16 ottobre 1973
+Dato a Roma, addi' 6 marzo 1972
 
 LEONE
 
-MALFATTI
+MISASI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 27 dicembre 1973 Atti di Governo, registro n. 263, foglio n. 36. - CARUSO
+alla Corte dei conti, addi' 20 aprile 1972 Atti del Governo, registro n. 248, foglio n. 64. - VALENTINI
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 125, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola diretta a fini speciali in "assistenza sociale psichiatrica".   
+Dopo l'art. 124 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in oculistica.  
   
-Scuola di assistenza sociale psichiatrica   
-(Scuola diretta a fini speciali)   
+Scuola di specializzazione in oculistica  
   
-Art. 126. - Presso la facolta' di medicina e chirurgia dell'Universita' degli studi di Trieste e' annessa la scuola di assistenza sociale psichiatrica (scuola diretta a fini speciali) che fa capo alla cattedra di psichiatria. Essa ha lo scopo di dare una preparazione completa, teorica e pratica, agli assistenti sociali, istruendoli sui problemi dell'intervento presso l'ambiente familiare e sociale dell'ammalato psichico, sulle possibilita' di intervento a ti po Casework sui problemi di reinserimento sociale del paziente con disturbi psichici e sulle funzioni dell'assistente sociale presso i servizi di assistenza psichiatrica e le istituzioni psichiatriche ambulatoriali ed ospedaliere.   
-Art. 127. - La durata del corso per il conseguimento del diploma di assistente sociale psichiatrico e' di due anni accademici; nel primo anno vengono impartiti insegnamenti teorici ed esercitazioni pratiche su materie propedeutiche e tecniche. Nel secondo anno vengono impartiti insegnamenti teorici e pratici su argomenti di clinica neurologica e psichiatrica, assistenza psichiatrica intra ed extraospedaliera e materie affini. Gli allievi hanno l'obbligo della frequenza.   
-Art. 128. - Possono accedere alla scuola i cittadini italiani di ambo i sessi di 18 anni compiuti, forniti del diploma di scuola media superiore (II grado: cioe' maturita' classica, scientifica o diplomi equipollenti) ed in possesso del diploma di assistente sociale rilasciato da una scuola di servizio sociale italiana qualificata (con corsi triennali di studi teorici e di tirocinio tenuti - in parte o in toto - da docenti universitari).   
-Art. 129. - Chi aspira ad ottenere l'iscrizione al 1° anno della scuola deve sostenere una selezione sui titoli ed un colloquio attitudinale da parte di una commissione composta dal direttore della cattedra di psichiatria, da un esperto in servizio sociale e da un docente della stessa scuola.   
-Art. 130. - Il numero massimo dei posti disponibili e' stabilito nella misura di venti.   
-Art. 131. - Direttore della scuola e' il titolare della cattedra di psichiatria dell'Universita'. Gli insegnanti della scuola sono proposti dal consiglio di facolta' di medicina e chirurgia udito il direttore e nominati dal rettore.   
-Art. 132. - Le materie di insegnamento teorico del 1° anno sono:   
-Semeiotica psichiatrica;   
-Psicologia generale;   
-Igiene mentale;   
-Neuropsichiatria infantile;   
-Servizio sociale psichiatrico.   
-  
-Le esercitazioni pratiche del 1° anno riguardano la presentazione e la discussione di pazienti riguardanti i piu' diversi tipi di patologia psichiatrica.   
-Le materie di insegnamento teorico del 2° anno sono:   
-Clinica neurologica;   
-Psicologia sociale;   
-Psichiatria forense e legislazione psichiatrica;   
-Medicina sociale e del lavoro;   
-Clinica psichiatrica;   
-Servizio sociale psichiatrico.   
-  
-Le esercitazioni pratiche del 2° anno consistono nella discussione e nel diretto intervento in casi di pazienti riguardanti i piu' diversi tipi di patologia psichiatrica.   
-Inoltre consistono nella discussione individuale e di gruppo di casi che gli stessi assistenti sociali hanno seguito nel loro ambiente di lavoro.   
-Art. 133. - Al termine del 1° anno, per essere ammessi al 2°, gli allievi devono superare una prova di esami sugli insegnamenti teorici e pratici impartiti.   
-Art. 134. - Al termine del 2° anno, per il conseguimento del diploma di assistente sociale psichiatrico, gli iscritti devono sostenere un esame comprendente: a) una prova orale sulla materia dell'intero corso; b) una prova pratica stabilita dalla commissione esaminatrice.   
-Art. 135. - Le commissioni per gli esami del 1° anno e per l'esame di diploma sono composte da tre membri - tra cui un esperto in servizio sociale - scelti tra i docenti della scuola e nominati dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Ogni commissario ha a disposizione 10 punti.   
-Art. 136. - I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola; ma se al 2° esame non sia loro riconosciuta una idoneita' saranno senz'altro esclusi da ulteriori prove.   
-Art. 137. - Agli allievi che avranno superato l'esame finale viene rilasciato il diploma di assistente sociale psichiatrico.   
-Art. 138. - Le tasse e soprattasse per la scuola sono ripartite come segue:   
-1° Anno:   
-tassa iscrizione ............................. L. 18.000   
-contributo ................................... L. 25.000   
-tassa esame .................................. L. 7.000   
----------   
-L. 50.000   
-2° Anno:   
-tassa iscrizione ............................. L. 18.000   
-contributo ................................... L. 25.000   
-tassa esame .................................. L. 7.000   
-soprattassa esame diploma .................... L. 3.000   
----------   
-L. 53.000   
+Art. 125. - E' istituita la scuola di specializzazione in oculistica che conferisce il diploma in oculistica.  
+La scuola ha sede presso la clinica oculistica.  
+La durata del corso e' di anni quattro.  
+Le materie impartite dalla scuola sono:  
+1° Anno:  
+1) Anatomia ed istologia dell'apparato oculare;  
+2) Nozioni di embriologia e genetica oculare;  
+3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;  
+4) Nozioni di ottica fisiologia, esame della rifrazione;  
+5) Microbiologia ed igiene oculare.  
+2° Anno:  
+1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, gonioscopia, oftalmoscopia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);  
+2) Farmacologia oculare e terapia fisica;  
+3) Nozioni di patologia generale e di anatomia patologica in rapporto all'oftalmologia;  
+4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali; della cornea e della sclera).  
+3° Anno:  
+1) Patologia e clinica oculare (malattie dell'uvea, della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);  
+2) Anomalie patologiche della motilita' oculare e della visione binoculare. Ortottica e pleottica;  
+3) Tecnica operatoria ed anestesiologia (1ª parte);  
+4) Affezioni otorinolaringoiatriche e patologia oculare.  
+4° Anno:  
+1) Neuroftalmologia;  
+2) Malattie oculari in rapporto ad affezioni generali;  
+3) Malattie professionali. Infortunistica e medicina legale oculare;  
+4) Tecnica operatoria (2ª parte);  
+5) Tesi di specializzazione.  
+Art. 126. - Alla scuola sono ammessi i laureati in medicina e chirurgia ed il numero degli specializzandi e' di otto per i 4 anni di corso.  
+Gli esami di profitto si danno alla fine di ciascun anno di corso.  
+Alla fine del corso gli iscritti, oltre a presentare la dissertazione scritta ed a sostenere la relativa discussione, devono sostenere una prova pratica sull'ammalato.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 ottobre 1973
+### Dato a Roma, addi' 6 marzo 1972
 
-LEONE MALFATTI
+LEONE MISASI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 27 dicembre 1973
+Registrato alla Corte dei conti, addi' 20 aprile 1972
 
-Atti di Governo, registro n. 263, foglio n. 36. - CARUSO
+Atti del Governo, registro n. 248, foglio n. 64. - VALENTINI

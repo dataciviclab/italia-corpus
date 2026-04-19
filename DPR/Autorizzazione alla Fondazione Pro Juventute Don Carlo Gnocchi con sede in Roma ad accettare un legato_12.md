@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1965 n. 244
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 marzo 1967 n. 224
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1965 n. 244
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 marzo 1967 n. 224
+============================================================
 
 Autorizzazione alla "Fondazione Pro Juventute Don Carlo Gnocchi", con sede in Roma, ad accettare un legato.
 -----------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-244. Decreto del Presidente della Repubblica 16 febbraio 1965, col quale, sulla proposta del Presidente del Consiglio dei Ministri la "Fondazione Pro Juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare un legato consistente nella somma di L. 400.000 (quattrocentomila) disposto dalla defunta signora Anna Bernareggi vedova Arienti, con testamento olografo del 12 marzo 1956.  
+224. Decreto del Presidente della Repubblica 3 marzo 1967, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi" viene autorizzata ad accettare un legato consistente in buoni del Tesoro "1973" per l'importo di L. 17.780.000, disposto dal defunto avvocato Bortoli Arrigo Angelo con testamento olografo del 5 aprile 1965, pubblicato e depositato con verbale a rogito dott. Pietro Chiaveri, notaio residente in Melzo, in data 26 luglio 1965, n. 16440 di rep., n. 4465 di fasc.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 8 aprile 1965  
-Atti del Governo, registro n. 192, foglio n. 24. - VILLA
+Registrato alla Corte dei conti, addi' 18 aprile 1967  
+Atti del Governo, registro n. 210, foglio n. 122. - GRECO

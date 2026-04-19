@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1964 n. 1601
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1982 n. 661
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1964 n. 1601
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1982 n. 661
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Bologna approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,108 +20,49 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 19. - Alle propedeuticita' di esami del corso di Laurea in Giurisprudenza 6 aggiunta la seguente: "Lo esame di Diritto Internazionale non puo' essere sostenuto dallo studente, se non abbia gia' superato l'esame di Istituzioni di diritto privato".
-
-Art. 63. - Agli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti quelli di:
-
-Psicologia dell'eta' evolutiva;
-
-Glottologia;
-
-Sociologia;
-
-Storia delle dottrine politiche;
-
-Filosofia della storia;
-
-Storia della scienza.
-
-Art. 64. - Agli insegnamenti complementari del corso di laurea in Pedagogia, sono aggiunti quelli di:
-
-Storia delle dottrine politiche;
-
-Filosofia della storia;
-
-Storia della scienza.
-
-Art. 121, relative agli insegnamenti del corso di laurea in Medicina veterinaria e' modificato nel senso che dopo il secondo comma viene abrogato e sostituito dal seguente:
-
-"Gli insegnamenti biennali di "Patologia speciale e clinica medica" e di "Patologia speciale e clinica chirurgica" comportano due esami distinti: un esame teorico, che dev'essere sostenuto alla fine del 3° anno, e una prova pratica, che dev'essere sostenuta alla fine del 40 anno".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 1 ottobre 1964
-
-Per il Presidente della Repubblica
-
-Il Presidente del Senato
-
-MERZAGORA
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 11 febbraio 1965 Atti del Governo, registro n. 190, foglio n. 84. - VILLA
+Lo statuto dell'Universita' di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Nell'art. 89, relativo al corso di laurea in materie letterarie, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+teoria e metodologia generale della letteratura;  
+stilistica e metrica italiana.  
+
+Art. 2
+------
+
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 19. - Alle propedeuticita' di esami del corso di Laurea in Giurisprudenza 6 aggiunta la seguente: "Lo esame di Diritto Internazionale non puo' essere sostenuto dallo studente, se non abbia gia' superato l'esame di Istituzioni di diritto privato".  
-Art. 63. - Agli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti quelli di:  
-Psicologia dell'eta' evolutiva;  
-Glottologia;  
-Sociologia;  
-Storia delle dottrine politiche;  
-Filosofia della storia;  
-Storia della scienza.  
-Art. 64. - Agli insegnamenti complementari del corso di laurea in Pedagogia, sono aggiunti quelli di:  
-Storia delle dottrine politiche;  
-Filosofia della storia;  
-Storia della scienza.  
-Art. 121, relative agli insegnamenti del corso di laurea in Medicina veterinaria e' modificato nel senso che dopo il secondo comma viene abrogato e sostituito dal seguente:  
-"Gli insegnamenti biennali di "Patologia speciale e clinica medica" e di "Patologia speciale e clinica chirurgica" comportano due esami distinti: un esame teorico, che dev'essere sostenuto alla fine del 3° anno, e una prova pratica, che dev'essere sostenuta alla fine del 40 anno".  
+Nell'art. 91, relativo al corso di laurea in lingue e letterature straniere, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+istituzioni di lingua inglese;  
+istituzioni di lingua francese;  
+istituzioni di lingua tedesca;  
+istituzioni di lingua spagnola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 ottobre 1964
+### Dato a Roma, addi' 15 luglio 1982
 
-Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 11 febbraio 1965
+Registrato alla Corte dei conti, addi' 9 settembre 1982
 
-Atti del Governo, registro n. 190, foglio n. 84. - VILLA
+Registro n. 105 Istruzione, foglio n. 220

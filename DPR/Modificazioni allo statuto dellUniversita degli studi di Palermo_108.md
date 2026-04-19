@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1966 n. 101
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 785
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1966 n. 101
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 785
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
@@ -10,170 +10,249 @@ Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, numero 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933 n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e Successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio universitario, nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 42. - Agli insegnamenti complementari del corpo di laurea in Scienze naturali sono aggiunti quelli di:
+Articolo unico
+--------------
 
-Fisiologia dello sviluppo;
-
-Embriologia chimica.
-
-Art. 43. - Agli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto quello di "Farmacologia".
-
-Art. 44. - All'elenco degli Istituti annessi alla Facolta' di scienze matematiche, fisiche e naturali sono aggiunti quelli di:
-
-Istituto di chimica fisica;
-
-Istituto di fisiologia generale;
-
-Istituto di geofisica mineraria;
-
-Istituto di istologia ed embriologia.
-
-Dopo l'art. 145 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in chirurgia vascolare.
-
-Scuola di specializzazione in Chirurgia vascolare
-
-Art. 146. - Presso la Facolta' di medicina e chirurgia e' istituita la Scuola di specializzazione in "Chirurgia vascolare".
-
-Art. 147. - La durata del corso degli studi per il conseguimento del diploma e' di due anni.
-
-Art. 148. - La Scuola ha sede presso l'Istituto di clinica chirurgica generale e terapia chirurgica dell'Universita'. Direttore della Scuola e' il professore di ruolo titolare della Cattedra di clinica chirurgica o, ove cio' non sia possibile, su proposta della Facolta', altro professore di ruolo il cui insegnamento sia compreso fra quelli impartiti nella Scuola stessa.
-
-Art. 149. - Alla Scuola sono ammessi soltanto i laureati in medicina e chirurgia.
-
-Art. 150. - Il numero massimo di allievi che possono essere accolti e' di quindici per anno di corso.
-
-Art. 6. - Le materie d'insegnamento sono:
-
-1° Anno:
-
-1) Anatomia macro e microscopica dell'apparato vascolare;
-
-2) Fisiopatologia della circolazione periferica e nella coagulazione sanguigna;
-
-3) Anatomia patologica dell'apparato vascolare;
-
-4) Semeiologia fisica e strumentale dell'apparato vascolare;
-
-5) Studio radiologico delle malattie vascolari;
-
-6) Le angiopatie in medicina;
-
-7) Le angiopatie dei tugumenti.
-
-2° Anno:
-
-1) Malattie vascolari (arteriopatie, flebopatie, lesioni dei piccoli vasi e linfopatie);
-
-2) Terapia medica delle malattie vascolari;
-
-3) Chirurgia vascolare.
-
-Art. 151. - Gli allievi alla fine di ogni anno di corso dovranno sostenere di fronte ad una Commissione proposta dal direttore della Scuola ed approvata dal preside, un colloquio per stabilire la loro idoneita' o meno per la iscrizione al successivo anno di corso. Alla fine del biennio gli allievi che hanno frequentato i corsi e superata la prova del colloquio saranno ammessi agli esami di diploma consistenti nella presentazione e discussione di una tesi scritta su argomento pertinente la chirurgia vascolare e in una prova teorica.
-
-Agli allievi che hanno ottenuto l'approvazione dell'esame di diploma verra' rilasciato il diploma di specializzazione in chirurgia vascolare, valido a tutti gli effetti di legge.
-
-Art. 152. - Per quanto non esplicitamente richiamato nei vari articoli riportati valgono le norme generali stabilite dallo statuto dell'Universita' di Palermo.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 14 febbraio 1966
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 15 marzo 1966 Atti del Governo, registro n. 202, foglio n. 43. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, numero 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933 n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e Successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Art. 57 - all'elenco degli insegnamenti complementari del corso di laurea in chimica sono aggiunti i seguenti insegnamenti:  
+Per l'indirizzo organico-biologico:  
+metodi fisici in chimica organica;  
+chimica e tecnologia delle sostanze coloranti;  
+complementi di chimica organica;  
+stereochimica organica;  
+esercitazioni di tecniche e sintesi speciali organiche;  
+cristallochimica;  
+chemiometria;  
+didattica della chimica;  
+epistemologia;  
+chimica analitica clinica;  
+chimica dell'ambiente;  
+catalisi;  
+termodinamica dei processi irreversibili;  
+spettroscopia molecolare;  
+fotochimica;  
+cinetica chimica.  
+Per l'indirizzo inorganico-chimico-fisico:  
+complementi di chimica inorganica;  
+chimica fisica delle interfasi;  
+complementi di chimica fisica;  
+termodinamica statistica;  
+cristallochimica;  
+chemiometria;  
+didattica della chimica;  
+epistemologia;  
+chimica analitica clinica;  
+chimica dell'ambiente;  
+teoria degli elettroliti;  
+chimica fisica dello stato solido;  
+catalisi;  
+termodinamica dei processi irreversibili;  
+fotochimica;  
+spettroscopia molecolare.  
+L'art. 59, relativo al corso di laurea in matematica, a partire dalla lettera b) inclusa, e' soppresso e sostituito come segue:  
+b) Sono insegnamenti fondamentali obbligatori, comuni a tutti e tre gli indirizzi per il III anno:  
+1) istituzioni di geometria superiore;  
+2) istituzioni di analisi superiore;  
+3) istituzioni di fisica matematica.  
+c) Nel secondo biennio, oltre gli insegnamenti 1), 2) e 3) della lettera comune ai tre indirizzi, debbono essere seguiti altri quattro insegnamenti, di cui uno al III anno e gli altri tre al IV.  
+Di questi quattro insegnamenti, due sono fondamentali obbligatori, e due complementari a scelta dello studente.  
+I due insegnamenti fondamentali sono per ciascun indirizzo i seguenti:  
+Per l'indirizzo generale:  
+4) analisi superiore;  
+5) algebra superiore.  
+Per l'indirizzo didattico:  
+4) matematiche complementari (con esercitazioni);  
+5) complementi di geometria e algebra.  
+Per l'indirizzo applicativo:  
+4) calcolo delle probabilita';  
+5) fisica matematica.  
+Per l'indirizzo generale:  
+Primo gruppo:  
+meccanica superiore;  
+meccanica dei continui;  
+teoria delle onde;  
+teorie relativistiche;  
+magnetofluidodinamica;  
+fisica teorica;  
+teoria dei campi;  
+fisica superiore.  
+Secondo gruppo:  
+geometria algebrica;  
+complementi di geometria e algebra;  
+teoria dei gruppi;  
+teoria delle funzioni;  
+topologia;  
+geometria superiore;  
+teoria dei numeri;  
+equazioni differenziali.  
+Per l'indirizzo didattico:  
+Primo gruppo:  
+istituzioni di meccanica superiore;  
+meccanica dei continui;  
+fluidodinamica;  
+elettrodinamica;  
+termodinamica;  
+complementi di fisica generale;  
+istituzioni di fisica teorica;  
+preparazione di esperienze didattiche;  
+istituzioni di meccanica quantistica;  
+fisica nucleare;  
+fisica delle particelle elementari.  
+Secondo gruppo:  
+critica dei principi;  
+didattica della matematica;  
+teoria delle funzioni di variabili reali;  
+geometria differenziale;  
+logica matematica;  
+storia delle matematiche;  
+matematiche elementari da un punto di vista superiore;  
+analisi funzionale;  
+matematica finanziaria e attuariale;  
+algebra superiore;  
+calcolo delle probabilita';  
+analisi superiore;  
+complementi di matematica;  
+algebra superiore;  
+teoria delle funzioni.  
+Per l'indirizzo applicativo:  
+Primo gruppo:  
+teoria dei sistemi dinamici;  
+modelli matematici per l'economia;  
+astronomia;  
+geodesia;  
+metodi matematici della fisica;  
+meccanica statistica;  
+biomatematica;  
+fisica dei solidi.  
+Secondo gruppo:  
+teoria e applicazione delle macchine calcolatrici;  
+cibernetica;  
+teoria degli algoritmi e calcolabilita';  
+linguaggi formali e compilatori;  
+metodi per il trattamento dell'informazione;  
+documentazione automatica;  
+statistica matematica;  
+calcolo numerico;  
+analisi numerica;  
+biomatematica;  
+programmazione;  
+processi aleatori e teoria matematica delle file di attesa.  
+Art. 60 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono inseriti i seguenti insegnamenti:  
+entomologia generale;  
+geomorfologia;  
+ecofisiologia vegetale;  
+didattica naturalistica e biologica;  
+conservazione e protezione della natura;  
+etologia ed ecologia animale;  
+geobotanica;  
+esercitazioni di matematiche;  
+analisi chimica strumentale;  
+zoologia applicata;  
+micologia;  
+biologia cellulare;  
+algologia.  
+Nel medesimo elenco sono soppressi i seguenti insegnamenti:  
+entomologia agraria;  
+zoocoltura (bachi, api, avi-coniglicoltura);  
+biologia delle razze umane.  
+Inoltre al testo del medesimo art. 60 e' aggiunto il seguente comma:  
+"Tutti gli insegnamenti sia fondamentali che complementari si intendono con esercitazioni".  
+Art. 61 - l'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche e' soppresso e sostituito come segue:  
+Sono insegnamenti complementari:  
+chimica fisica;  
+biologia generale;  
+antropologia;  
+idrobiologia e pescicoltura;  
+microbiologia;  
+parassitologia;  
+fisiologia vegetale;  
+paleontologia;  
+statistica;  
+biofisica;  
+embriologia chimica;  
+entomologia;  
+fisiologia dello sviluppo;  
+genetica umana;  
+radiobiologia;  
+farmacologia;  
+biologia molecolare;  
+neurologia comparata;  
+citologia;  
+genetica dei microrganismi;  
+ecologia;  
+biochimica fisica;  
+biologia cellulare;  
+elettrofisiologia;  
+genetica molecolare;  
+immunologia;  
+neurobiologia;  
+virologia;  
+biochimica applicata;  
+citogenetica;  
+endocrinologia comparata;  
+genetica applicata;  
+genetica di popolazioni;  
+patologia generale;  
+anatomia vegetale;  
+biologia marina;  
+biologia vegetale applicata;  
+ecologia vegetale;  
+embriologia comparata;  
+etologia;  
+fisiologia comparata;  
+zoologia dei vertebrati.  
+Art. 62 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono inseriti i seguenti insegnamenti:  
+geochimica degli isotopi;  
+petrografia del sedimentario;  
+petrologia;  
+sismologia;  
+biostratigrafia e paleoecologia;  
+geologia stratigrafica;  
+geomorfologia applicata;  
+geotermia.  
+Nel medesimo elenco sono soppressi i seguenti insegnamenti:  
+chimica organica;  
+astronomia;  
+geodesia;  
+antropologia;  
+analisi matematica (algebra ed infinitesimale) biennale;  
+meccanica razionale con elementi di statistica grafica e disegno; geometria analitica con elementi di proiettiva.  
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 42. - Agli insegnamenti complementari del corpo di laurea in Scienze naturali sono aggiunti quelli di:  
-  
-Fisiologia dello sviluppo;  
-Embriologia chimica.  
-Art. 43. - Agli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto quello di "Farmacologia".  
-Art. 44. - All'elenco degli Istituti annessi alla Facolta' di scienze matematiche, fisiche e naturali sono aggiunti quelli di:  
-Istituto di chimica fisica;  
-Istituto di fisiologia generale;  
-Istituto di geofisica mineraria;  
-Istituto di istologia ed embriologia.  
-Dopo l'art. 145 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in chirurgia vascolare.  
-  
-Scuola di specializzazione in Chirurgia vascolare  
-Art. 146. - Presso la Facolta' di medicina e chirurgia e' istituita la Scuola di specializzazione in "Chirurgia vascolare".  
-Art. 147. - La durata del corso degli studi per il conseguimento del diploma e' di due anni.  
-Art. 148. - La Scuola ha sede presso l'Istituto di clinica chirurgica generale e terapia chirurgica dell'Universita'. Direttore della Scuola e' il professore di ruolo titolare della Cattedra di clinica chirurgica o, ove cio' non sia possibile, su proposta della Facolta', altro professore di ruolo il cui insegnamento sia compreso fra quelli impartiti nella Scuola stessa.  
-Art. 149. - Alla Scuola sono ammessi soltanto i laureati in medicina e chirurgia.  
-Art. 150. - Il numero massimo di allievi che possono essere accolti e' di quindici per anno di corso.  
-Art. 6. - Le materie d'insegnamento sono:  
-1° Anno:  
-1) Anatomia macro e microscopica dell'apparato vascolare;  
-2) Fisiopatologia della circolazione periferica e nella coagulazione sanguigna;  
-3) Anatomia patologica dell'apparato vascolare;  
-4) Semeiologia fisica e strumentale dell'apparato vascolare;  
-5) Studio radiologico delle malattie vascolari;  
-6) Le angiopatie in medicina;  
-7) Le angiopatie dei tugumenti.  
-2° Anno:  
-1) Malattie vascolari (arteriopatie, flebopatie, lesioni dei piccoli vasi e linfopatie);  
-2) Terapia medica delle malattie vascolari;  
-3) Chirurgia vascolare.  
-Art. 151. - Gli allievi alla fine di ogni anno di corso dovranno sostenere di fronte ad una Commissione proposta dal direttore della Scuola ed approvata dal preside, un colloquio per stabilire la loro idoneita' o meno per la iscrizione al successivo anno di corso. Alla fine del biennio gli allievi che hanno frequentato i corsi e superata la prova del colloquio saranno ammessi agli esami di diploma consistenti nella presentazione e discussione di una tesi scritta su argomento pertinente la chirurgia vascolare e in una prova teorica.  
-Agli allievi che hanno ottenuto l'approvazione dell'esame di diploma verra' rilasciato il diploma di specializzazione in chirurgia vascolare, valido a tutti gli effetti di legge.  
-Art. 152. - Per quanto non esplicitamente richiamato nei vari articoli riportati valgono le norme generali stabilite dallo statuto dell'Universita' di Palermo.  
-  
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 febbraio 1966
+### Dato a Roma, addi' 13 marzo 1984
 
-SARAGAT GUI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 15 marzo 1966
+Registrato alla Corte dei conti, addi' 12 novembre 1984
 
-Atti del Governo, registro n. 202, foglio n. 43. - VILLA
+Registro n. 69 Istruzione, foglio n. 121

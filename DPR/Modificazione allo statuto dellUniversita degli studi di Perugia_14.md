@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1985 n. 1013
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 1114
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1985 n. 1013
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 1114
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
@@ -39,21 +39,20 @@ Articolo unico
 --------------
 
   
-Nell'art. 25, relativo al corso di laurea in economia e commercio all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
-istituzioni di statistica economica.  
+  
+Nell'art. 37, relativo al corso di laurea in materie letterarie, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:   
+storia dell'Europa contemporanea.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 novembre 1985
+### Dato a Roma, addi' 4 giugno 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 7 aprile 1986
+Registrato alla Corte dei conti, addi' 22 marzo 1984
 
-Registro n. 24 Istruzione, foglio n. 58
+Registro n. 17 Istruzione, foglio n. 336

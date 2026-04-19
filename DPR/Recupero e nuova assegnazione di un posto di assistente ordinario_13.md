@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1975 n. 817
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 giugno 1976 n. 584
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1975 n. 817
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 giugno 1976 n. 584
+=============================================================
 
 Recupero e nuova assegnazione di un posto di assistente ordinario.
 ------------------------------------------------------------------
@@ -10,13 +10,13 @@ Recupero e nuova assegnazione di un posto di assistente ordinario.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Visto il [decreto del Presidente della Repubblica 12 febbraio 1968, n. 146](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-02-12;146), con il quale, tra l'altro, fu assegnato un posto di assistente ordinario alla cattedra di impianti tecnici della facolta' di architettura dell'Universita' degli studi di Napoli;
+Visto il [decreto del Presidente della Repubblica 26 marzo 1971, n. 216](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-03-26;216), con cui, tra gli altri, e' stato assegnato un posto di assistente ordinario alla cattedra di virologia della facolta' di medicina e chirurgia dell'Universita' degli studi di Roma;
 
-Visto il telegramma n. 20031 del rettore dell'Ateneo napoletano dal quale risulta che il posto in questione e' rimasto inutilizzato fin dalla data della assegnazione;
+Visto il telegramma n. 27 del 30 marzo 1976, con cui il rettore dell'Universita' degli studi di Roma comunica che detto posto e' vacante dall'assegnazione;
 
-Considerato, pertanto, che non si e' provveduto alla copertura del posto nei termini fissati dall'ultimo comma dell'[art. 13 della legge 18 marzo 1958, n. 349](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-18;349~art13);
+Considerato, pertanto, che non si e' provveduto alla copertura del posto nel termine fissato dall'ultimo comma dell'[art. 13 della legge 18 marzo 1958, n. 349](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-18;349~art13);
 
-Ritenuto che per tale ragione siano venuti meno i motivi che a suo tempo determinarono l'assegnazione del posto alla cattedra in questione;
+Ritenuto che per tale ragione sono venuti meno i motivi che a suo tempo determinarono l'assegnazione alla cattedra sopracitata;
 
 Sulla
 -----
@@ -27,26 +27,24 @@ Art. 1
 ------
 
   
-  
-Il posto di assistente ordinario gia' assegnato con il [decreto del Presidente della Repubblica 12 febbraio 1968, n. 146](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-02-12;146), alla cattedra di impianti tecnici della facolta' di architettura dell'Universita' degli studi di Napoli, e' recuperato.   
+Il posto di assistente ordinario gia' assegnato con [decreto del Presidente della Repubblica 26 marzo 1971, n. 216](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-03-26;216), alla cattedra di virologia della facolta' di medicina e chirurgia dell'Universita' degli studi di Roma e' recuperato.  
 
 Art. 2
 ------
 
   
-  
-Il posto di assistente ordinario di cui al precedente articolo e' assegnato all'insegnamento di clinica medica generale e terapia medica attualmente affidato per incarico al prof. Mario Rambaldi, della prima facolta' di medicina e chirurgia dell'Universita' degli studi di Napoli.   
+Il posto di cui si tratta e' assegnato alla cattedra di diritto commerciale I della facolta' di economia e commercio dell'Universita' degli studi di Palermo.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 ottobre 1975
+### Dato a Roma, addi' 25 giugno 1976
 
 LEONE MALFATTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 26 gennaio 1976
+Registrato alla Corte dei conti, addi' 18 agosto 1976
 
-Atti di Governo, registro n. 1, foglio n. 55
+Atti di Governo, registro n. 8, foglio n. 67

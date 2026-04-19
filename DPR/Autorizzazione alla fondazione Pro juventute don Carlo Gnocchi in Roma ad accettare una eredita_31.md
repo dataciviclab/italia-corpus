@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1982 n. 99
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 56
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1982 n. 99
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 56
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-99. Decreto del Presidente della Repubblica 8 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in beni mobili e immobili del valore complessivo, al netto delle passivita', di L. 444.931.414, disposta dalla sig.ra Croci Maria ved. Buratti con testamento pubblico 18 luglio 1977 redatto a rogito dott. Ferruccio Brambilla, notaio in Milano, e dallo stesso pubblicato in data 16 ottobre 1978, n. 32653/4045 di repertorio, registrato a Milano in data 25 ottobre 1978 al n. 14169, serie I.  
+56. Decreto del Presidente della Repubblica 10 gennaio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in beni immobili siti nei comuni di Mendrisio e Balera (Canton Ticino) meglio descritti nella perizia redatta dal geom.  
+Paolo Maddaloni in data 5 maggio 1977 e valutati per complessive L. 682.000.000, disposta dalla sig.ra Fumagalli Virginia Maria Carolina a favore dell'opera mutilatini di don Gnocchi, che si identifica con la fondazione "Pro juventute da Carlo Gnocchi", come si evince dal verbale del consiglio d'amministrazione della fondazione stessa in data 5 giugno 1976, con testamento olografo e codicillo del 14 giugno 1967, pubblicato in data 8 maggio 1968, n. 1720 di repertorio, a rogito dott. Waldo Riva, notaio in Lugano.   
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 20 marzo 1982  
-Registro n. 3 Presidenza, foglio n. 51
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 25 febbraio 1985   
+Registro n. 2 Presidenza, foglio n. 133

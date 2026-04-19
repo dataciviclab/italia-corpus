@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1964 n. 1153
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1973 n. 101
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1964 n. 1153
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1973 n. 101
+===============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, con sede in Roma, ad accettare un legato.
 ----------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1153. Decreto del Presidente della Repubblica 19 settembre 1964, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede in Roma, viene autorizzata ad accettare un legato a favore della "Unione per l'assistenza ai ciechi di Brescia", disposto dal defunto sig. Luigi Colombo, con testamento olografo del 16 marzo 1961, pubblicato per atto a rogito dott. Gerolamo Calini, notaio residente in Brescia, in data 8 giugno 1962, n. 78-41 di repertorio, n. 4985 di racc.  
+101. Decreto del Presidente della Repubblica 5 febbraio 1973, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede in Roma, viene autorizzata ad accettare il legato, disposto dalla signora Giulietta Da Ponte ved. Sertoli, con testamento segreto ricevuto dal dott. Giovanni Averoldi, notaio in Brescia, in data 30 maggio 1970 e da questi pubblicato con rogito in data 30 novembre 1970 (n. 27293 di repertorio e n. 12068 di raccolta) registrato a Brescia il 4 dicembre 1970 al n. 6340, mod. 71/ M Pubb., consistente nella somma di L. 2.000.000.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 6 novembre 1964  
-Atti del Governo, registro n. 188, foglio n. 31. - VILLA
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 3 aprile 1973  
+Atti di Governo, registro n. 257, foglio n. 34. - VALENTINI

@@ -1,268 +1,103 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969 n. 424
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969 n. 384
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969 n. 424
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969 n. 384
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 27, relativo all'elenco degli istituti annessi alla facolta' di economia e commercio e' modificato nel senso che le denominazioni degli istituti di cui al n. 7 "Istituto di politica economica e finanziaria" e al n. 14 "Istituto di lingua e letteratura tedesca" (che comprende anche filologia germanica) sono mutate in quelle di:
-
-7. Istituto di politica economica e finanziaria (che comprende anche scienza delle finanze e diritto finanziario);
-
-14. Istituto di lingue e letterature germaniche.
-
-Art. 41. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:
-
-Dialettologia italiana;
-
-Linguistica generale.
-
-L'art. 42, concernente le norme sulle propedeuticita' ed esami del corso di laurea in materie letterarie e' soppresso.
-
-Art. 59. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:
-
-Antropologia criminale;
-
-Istituzioni di patologia generale;
-
-Oncologia sperimentale;
-
-Immunologia;
-
-Radiobiologia;
-
-Medicina nucleare;
-
-Virologia;
-
-Ottica fisio-patologica;
-
-Nefrologia medica;
-
-Dermatologia allergologica e professionale;
-
-Statistica medica e biometria.
-
-Art. 63. - Il primo comma e' abrogato e sostituito dal seguente: "La facolta' di farmacia conferisce la laurea in farmacia e la laurea in chimica e tecnologia farmaceutiche".
-
-Dopo l'art. 69 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente nuovo articolo relativo alla istituzione del corso di laurea in chimica e tecnologia farmaceutiche annesso alla facolta' di farmacia.
-
-Laurea in chimica e tecnologia farmaceutiche
-
-Art. 70. - Durata del corso degli studi: cinque anni, divisi in un biennio ed un triennio.
-
-Titolo di ammissione: diploma di maturita' classica e scientifica.
-
-Insegnamenti fondamentali:
-
-Biennio:
-
-1) Analisi chimico farmaceutica I (analisi qualitativa);
-
-\* 2) Anatomia umana;
-
-\* 3) Botanica farmaceutica;
-
-\* 4) Chimica fisica;
-
-\* 5) Chimica generale ed inorganica;
-
-\*\* 6) Chimica organica I;
-
-\* 7) Fisica;
-
-8) Fisiologia generale;
-
-\* 9) Istituzioni di matematiche;
-
-10) Microbiologia e igiene.
-
-Triennio:
-
-11) Analisi chimico farmaceutica II (analisi quantitativa);
-
-12) Analisi chimico farmaceutica III (analisi dei medicamenti); \* 13) Biochimica applicata;
-
-\* 14) Chimica biologica;
-
-\* 15) Chimica degli alimenti;
-
-\* 16) Chimica farmaceutica applicata;
-
-\* 17) Chimica farmaceutica e tossicologica I;
-
-\* 18) Chimica farmaceutica e tossicologica II;
-
-\*\* 19) Chimica organica II;
-
-\* 20) Farmacologia e farmacognosia;
-
-21) Impianti dell'industria farmaceutica;
-
-22) Laboratorio di preparazione estrattiva e sintetica dei farmaci;
-
-23) Metodi fisici in chimica organica;
-
-\* 24) Saggi e dosaggi farmacologici;
-
-\* 25) Tecnica e legislazione farmaceutica.
-
-Insegnamenti complementari:
-
-Chimica delle fermentazioni e microbiologia industriale;
-
-\* Chimica delle sostanze organiche naturali;
-
-Chimica dei prodotti dietetici;
-
-\* Complementi di chimica tossicologica;
-
-\* Microchimica;
-
-\* Stechiometria;
-
-Zoologia e parassitologia.
-
-Le materie segnate con un asterisco sono comuni alla laurea in farmacia; quelle segnate con due asterischi sono comuni alla laurea in chimica.
-
-Per ottenere l'iscrizione al 3° anno di corso, lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per i due anni precedenti.
-
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato tutti gli esami dei corsi fondamentali e almeno due esami a scelta fra i corsi complementari.
-
-La prova di laurea comporta la discussione di una tesi sperimentale.
-
-Art. 148, relativo alla scuola di specializzazione in diplomatica ed archivistica e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente:
-
-"Il consiglio della scuola si compone dei professori incaricati degli insegnamenti costitutivi, ed e' presieduto dal direttore nominato per un triennio alternativamente dalla facolta' di giurisprudenza e dalla facolta' di lettere e filosofia nella persona di un professore di ruolo".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 29 maggio 1969
-
-SARAGAT
-
-FERRARI AGGRADI
-
-Visto, il Guardasigilli: GAVA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 18 luglio 1969 Atti del Governo, registro n. 228, foglio n. 29. - CARUSO
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Art. 27, relativo all'elenco degli istituti annessi alla facolta' di economia e commercio e' modificato nel senso che le denominazioni degli istituti di cui al n. 7 "Istituto di politica economica e finanziaria" e al n. 14 "Istituto di lingua e letteratura tedesca" (che comprende anche filologia germanica) sono mutate in quelle di:  
-7. Istituto di politica economica e finanziaria (che comprende anche scienza delle finanze e diritto finanziario);  
-14. Istituto di lingue e letterature germaniche.  
-Art. 41. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:  
-Dialettologia italiana;  
-Linguistica generale.  
-L'art. 42, concernente le norme sulle propedeuticita' ed esami del corso di laurea in materie letterarie e' soppresso.  
-Art. 59. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
-Antropologia criminale;  
-Istituzioni di patologia generale;  
-Oncologia sperimentale;  
-Immunologia;  
-Radiobiologia;  
-Medicina nucleare;  
-Virologia;  
-Ottica fisio-patologica;  
-Nefrologia medica;  
-Dermatologia allergologica e professionale;  
-Statistica medica e biometria.  
-Art. 63. - Il primo comma e' abrogato e sostituito dal seguente: "La facolta' di farmacia conferisce la laurea in farmacia e la laurea in chimica e tecnologia farmaceutiche".  
-Dopo l'art. 69 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente nuovo articolo relativo alla istituzione del corso di laurea in chimica e tecnologia farmaceutiche annesso alla facolta' di farmacia.  
+Gli articoli 201, 202, 203, 204, 205, 206, 207, 208, 209, 210 e 211 relativi alla scuola di specializzazione in igiene sono abrogati e sostituiti dai seguenti:   
   
-Laurea in chimica e tecnologia farmaceutiche  
+Scuola di specializzazione in igiene e medicina preventiva   
   
-Art. 70. - Durata del corso degli studi: cinque anni, divisi in un biennio ed un triennio.  
-Titolo di ammissione: diploma di maturita' classica e scientifica.  
-Insegnamenti fondamentali:  
-Biennio:  
-1) Analisi chimico farmaceutica I (analisi qualitativa);  
-\* 2) Anatomia umana;  
-\* 3) Botanica farmaceutica;  
-\* 4) Chimica fisica;  
-\* 5) Chimica generale ed inorganica;  
-\*\* 6) Chimica organica I;  
-\* 7) Fisica;  
-8) Fisiologia generale;  
-\* 9) Istituzioni di matematiche;  
-10) Microbiologia e igiene.  
-Triennio:  
-11) Analisi chimico farmaceutica II (analisi quantitativa);  
-12) Analisi chimico farmaceutica III (analisi dei medicamenti); \* 13) Biochimica applicata;  
-\* 14) Chimica biologica;  
-\* 15) Chimica degli alimenti;  
-\* 16) Chimica farmaceutica applicata;  
-\* 17) Chimica farmaceutica e tossicologica I;  
-\* 18) Chimica farmaceutica e tossicologica II;  
-\*\* 19) Chimica organica II;  
-\* 20) Farmacologia e farmacognosia;  
-21) Impianti dell'industria farmaceutica;  
-22) Laboratorio di preparazione estrattiva e sintetica dei farmaci;  
-23) Metodi fisici in chimica organica;  
-\* 24) Saggi e dosaggi farmacologici;  
-\* 25) Tecnica e legislazione farmaceutica.  
-Insegnamenti complementari:  
-Chimica delle fermentazioni e microbiologia industriale;  
-\* Chimica delle sostanze organiche naturali;  
-Chimica dei prodotti dietetici;  
-\* Complementi di chimica tossicologica;  
-\* Microchimica;  
-\* Stechiometria;  
-Zoologia e parassitologia.  
-Le materie segnate con un asterisco sono comuni alla laurea in farmacia; quelle segnate con due asterischi sono comuni alla laurea in chimica.  
-Per ottenere l'iscrizione al 3° anno di corso, lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per i due anni precedenti.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato tutti gli esami dei corsi fondamentali e almeno due esami a scelta fra i corsi complementari.  
-La prova di laurea comporta la discussione di una tesi sperimentale.  
-Art. 148, relativo alla scuola di specializzazione in diplomatica ed archivistica e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente:  
-"Il consiglio della scuola si compone dei professori incaricati degli insegnamenti costitutivi, ed e' presieduto dal direttore nominato per un triennio alternativamente dalla facolta' di giurisprudenza e dalla facolta' di lettere e filosofia nella persona di un professore di ruolo".  
+Art. 201. - La scuola e' annessa all'istituto d'igiene.   
+La scuola e' articolata in quattro orientamenti: 1) Sanita' pubblica; 2) Laboratorio; 3) Igiene e tecnica ospedaliera; 4) Igiene e medicina scolastica.   
+Sono ammessi i laureati in medicina e chirurgia.   
+Il corso della scuola ha la durata di tre anni. Esso comprendera' lezioni teoriche ed esercitazioni pratiche e sara' integrato da visite ad istituzioni ed a impianti di interesse igienico-sanitario.   
+Verranno, inoltre, tenute conferenze su argomenti di particolare interesse igienico.   
+La frequenza, sia alle lezioni, che alle esercitazioni, e' obbligatoria.   
+Il numero complessivo degli iscritti alla scuola non puo' essere superiore a quarantacinque.   
+A nessun titolo sono ammesse abbreviazioni di corso.   
+Nel caso che il numero degli aspiranti ala iscrizione sia superiore al numero dei posti disponibili, si provvedera' alla scelta da parte della direzione, in base ai titoli di studio ed eventualmente ad esami.   
+Gli insegnamenti impartiti nella scuola sono i seguenti:   
+Biennio propedeutico (comune ai quattro orientamenti):   
+1° Anno:   
+Metodologia statistica e biometria;   
+Educazione sanitaria;   
+Psicologia;   
+Microbiologia;   
+Parassitologia;   
+Epidemiologia e profilassi generale.   
+2° Anno:   
+Patologia e clinica delle malattie infettive;   
+Epidemiologia e profilassi delle malattie infettive;   
+Patologia e clinica delle malattie non infettive di importanza sociale;   
+Epidemiologia e profilassi delle malattie non infettive di importanza sociale;   
+Demografia e statistica sanitaria;   
+Legislazione e organizzazione sanitaria.   
+3° Anno (orientamento sanita' pubblica):   
+Approvvigionamento idrico; raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici;   
+Igiene edilizia e urbanistica;   
+Igiene dell'alimentazione;   
+Igiene e medicina scolastica;   
+Igiene ospedaliera;   
+Servizi di sanita' pubblica.   
+3° Anno (orientamento laboratorio):   
+Microscopia applicata all'igiene;   
+Microbiologia applicata all'igiene;   
+Chimica clinica;   
+Accertamento diagnostico delle malattie batteriche e parassitarie;   
+Accertamento diagnostico delle infezioni virali;   
+Nozioni di anatomia i istologia patologica.   
+3° Anno (orientamento igiene e tecnica ospedaliera):   
+Storia degli ospedali e principi metodologici della assistenza ospedaliera;   
+Igiene e tecnica delle costruzioni ospedaliere, arredamento ed impianti sanitari;   
+Organizzazione e funzione degli ospedali generali e speciali;  
+Diritto amministrativo e legislazione ospedaliera;   
+Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospedaliera;   
+Selezione e istruzione professionale del personale ospedaliero;   
+Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.   
+3° Anno (orientamento igiene e medicina scolastica):   
+Auxologia normale e patologica;   
+Epidemiologia e profilassi delle malattie dell'eta' scolare;.  
+Servizi di medicina scolastica;   
+Elementi di psicologia e pedagogia per l'eta' scolare;   
+Igiene dell'alimentazione;   
+Assistenza parascolastica;   
+Edilizia scolastica.   
+Materie complementari   
+Ispezione delle carni;   
+Geologia applicata all'igiene;   
+Igiene mentale;   
+Malattie professionali e loro prevenzione;   
+Diritto sanitario;   
+Igiene navale e dell'emigrazione;   
+Antropologia culturale e sociologica;   
+Malattie tropicali;   
+Istituzioni di matematica;   
+Genetica;   
+Gerontologia e geriatria;   
+Elementi di economia politica.   
+Per ogni anno di corso lo specializzando e' obbligato, inoltre, a seguire un insegnamento complementare a sua scelta e a superarne l'esame.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
@@ -274,6 +109,6 @@ SARAGAT FERRARI AGGRADI
 
 Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 18 luglio 1969
+Registrato alla Corte dei conti, addi' 14 luglio 1969
 
-Atti del Governo, registro n. 228, foglio n. 29. - CARUSO
+Atti del Governo, registro n. 228, foglio n. 5. - CARUSO

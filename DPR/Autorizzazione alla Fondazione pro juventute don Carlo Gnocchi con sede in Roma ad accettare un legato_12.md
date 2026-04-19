@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1969 n. 667
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1969 n. 801
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1969 n. 667
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1969 n. 801
+==============================================================
 
 Autorizzazione alla "Fondazione pro juventute don Carlo Gnocchi", con sede in Roma, ad accettare un legato.
 -----------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-667. Decreto del Presidente della Repubblica 13 agosto 1969, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione pro juventute don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare un legato consistente nella somma di lire 500.000, disposto dalla defunta signora Tanzi Maria Bernardina ved. Vaghi, con testamento olografo del 28 settembre 1964, depositato e pubblicato con atto a rogito dott. Guido Solaro, notaio residente in Desio, in data 28 gennaio 1967, n. 7891 di raccolta, n. 17526 di repertorio.  
+801. Decreto del Presidente della Repubblica 8 ottobre 1969, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione pro juventute don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare un legato consistente in titoli azionari per un importo di L. 100.000.000, disposto dal defunto sig. Giacomo Tiziano Eligio Ottolini, con testamento olografo del 10 aprile 1965, pubblicato con verbale a rogito dott. Augusto Bernasconi De Luca, notaio in Milano, in data 30 agosto 1967, n. 21534 di repertorio, n. 6518 di raccolta.  
   
 Visto, il Guardasigilli: GAVA  
-Registrato alla Corte dei conti, addi' 9 ottobre 1969  
-Atti del Governo, registro n. 229, foglio n. 87. - CARUSO
+Registrato alla Corte dei conti, addi' 8 novembre 1969  
+Atti del Governo, registro n. 230, foglio n. 23. - CARUSO

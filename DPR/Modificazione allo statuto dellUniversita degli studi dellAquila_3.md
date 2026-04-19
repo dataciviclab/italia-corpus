@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1984 n. 259
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 558
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1984 n. 259
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 558
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi dell'Aquila.
 --------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi dell'Aquila.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' dell'Aquila, approvato con [decreto del Presidente della Repubblica 27 ottobre 1983, n. 837](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1983-10-27;837), e successive modificazioni;
+Veduto lo statuto dell'Universita' dell'Aquila, approvato con [decreto del presidente della Repubblica 18 agosto 1964, n. 921](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1964-08-18;921), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -39,18 +39,18 @@ Articolo unico
 --------------
 
   
-Art. 49 - nell'elenco degli insegnamenti complementari specifici del corso di laurea in pedagogia e' inserto l'insegnamento di "storia dell'estetica moderna". Nell'elenco degli insegnamenti complementari comuni ai corsi di laurea di materie letterarie e di lingue e letterature straniere e' inserito l'insegnamento di "iconologia".  
+Art. 86 - nell'elenco degli insegnamenti del triennio di applicazione del corso di laurea in ingegneria elettrotecnica e' inserito l'insegnamento di "economia delle aziende industriali".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 febbraio 1984
+### Dato a Roma, addi' 27 giugno 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 11 giugno 1984
+Registrato alla Corte dei conti, addi' 4 ottobre 1983
 
-Registro n. 34 Istruzione, foglio n. 335
+Registro n. 65 Istruzione, foglio n. 11

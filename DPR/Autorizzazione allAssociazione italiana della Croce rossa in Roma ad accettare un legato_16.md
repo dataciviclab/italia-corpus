@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 dicembre 1980 n. 1049
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1983 n. 791
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 dicembre 1980 n. 1049
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1983 n. 791
+===============================================================
 
 Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-1049. Decreto del Presidente della Repubblica 10 dicembre 1980, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato, consistente in un locale di mq 14 al piano terreno di un fabbricato sito in Rossiglione (Genova), via Edoardo Pizzoni n. 26 (gia' 18), valutato dall'ufficio tecnico erariale di Genova in L. 2.000.000 circa, disposto dalla sig.ra Carlotta Parodi con testamento olografo 12 settembre 1956, pubblicato in data 5 giugno 1971, n. 641/561 di repertorio, a rogito dott. Rita Claudio, notaio in Ovada (Alessandria), registrato a Ovada in data 12 giugno 1971.  
+791. Decreto del Presidente della Repubblica 5 dicembre 1983, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato, consistente in lingotti d'oro contenuti in una cassetta del Banco Ambrosiano di Milano, per un valore complessivo di L. 45.637.000 circa, e nella mobilia esistente nell'abitazione del de cuius in Montecarlo (Principato di Monaco), disposto dal dott.  
+Giuseppe Vismara con testamento olografo 16 settembre 1961, pubblicato in data 6 novembre 1975, n. 197390/31690 di repertorio, a rogito dott. Raffaello Meneghini, notaio in Milano, registrato a Milano in data 12 novembre 1975 al numero 10861.  
   
-Visto, il Guardasigilli: SARTI  
-Registrato alla Corte dei conti, addi' 12 febbraio 1981  
-Registro n. 2 Sanita', foglio n. 130
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 5 gennaio 1984  
+Registro n. 1 Sanita', foglio n. 31

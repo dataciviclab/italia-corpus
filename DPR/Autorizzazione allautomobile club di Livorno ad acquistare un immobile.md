@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1976 n. 838
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 gennaio 1974 n. 953
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1976 n. 838
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 gennaio 1974 n. 953
 ==============================================================
 
 Autorizzazione all'automobile club di Livorno ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-838. Decreto del Presidente della Repubblica 2 ottobre 1976, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'automobile club di Livorno viene autorizzato ad acquistare in proprieta' dalla S.r.l. Costruzioni edilizie Cecina, al prezzo di L. 21.000.000, una porzione immobiliare sita nel comune di Cecina (Livorno), via Fratelli Cervi, 9-11-13, PT. int. B, catg. C/1, cl. 6 di mq 123, riportata nel nuovo catasto edilizio urbano alla partita 3928, foglio 27, mappale 298, sub. 3, da adibire a sede di delegazione di zona.  
+953. Decreto del Presidente della Repubblica 4 gennaio 1974, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'automobile club di Livorno viene autorizzato ad acquistare in proprieta' dal sig. Este Camuzzi, per il prezzo di L. 20.750.000, varie porzioni di fabbricato in Rosignano Marittimo (Livorno), frazione Solvay, via Aurelia, il tutto individuato nel nuovo catasto edilizio urbano alla partita 6003, foglio 79, mapp. 2015/9, 2 e 4, 2008 e 2009, da destinare a sede di delegazione ed autoscuola.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 10 dicembre 1976  
-Registro n. 7 Turismo, foglio n. 243
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 2 dicembre 1975  
+Atti di Governo, registro n. 14, foglio n. 100

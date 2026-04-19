@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 ottobre 1985 n. 893
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 706
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 ottobre 1985 n. 893
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 706
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -16,7 +16,7 @@ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regi
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il regio decreto 30 settembre 1938. n. 1652, e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
@@ -40,23 +40,27 @@ Articolo unico
 
   
 Nell'art. 56, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-fisiopatologia digestiva;  
-medicina d'urgenza;  
-tecniche chirurgiche complementari in terapia oncologica;  
-neurologia pediatrica.  
+semeiotica cardiovascolare;  
+fisiopatologia chirurgica;  
+igiene dell'ambiente e del territorio;  
+oncologia ginecologica;  
+epidemiologia;  
+terapia pediatrica sistematica;  
+gastroenterologia pediatrica;  
+scienza dell'ortogenesi;  
+auxologia;  
+malattie infettive dell'infanzia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 ottobre 1985
+### Dato a Roma, addi' 27 giugno 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 29 gennaio 1986
+Registrato alla Corte dei conti, addi' 14 dicembre 1983
 
-Registro n. 4 Istruzione, foglio n. 116
+Registro n. 76 Istruzione, foglio n. 296

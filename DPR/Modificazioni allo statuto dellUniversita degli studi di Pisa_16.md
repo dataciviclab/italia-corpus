@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1969 n. 24
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 ottobre 1957 n. 1002
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1969 n. 24
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 ottobre 1957 n. 1002
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -10,153 +10,670 @@ Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Pisa approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225) e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225) e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 25 luglio 1966, n. 602](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-25;602);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte avanzate dalle autorita' accademiche dell'universita' di Pisa, intese ad ottenere l'istituzione del corso di laurea in scienze dell'informazione presso la facolta' di scienze matematiche, fisiche e naturali;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione;
 
-proposta del Ministro per la pubblica istruzione; Decreta:
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 56. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: "semeiotica chirurgica" in sostituzione di "anatomia chirurgica e corso di operazioni".
+
+Art. 64. - Nell'elenco degli Istituti annessi alla Facolta' di scienze matematiche, fisiche e naturali, e' compreso l'"Istituto e orto botanico".
+
+Gli articoli 162 e 169, riguardanti le norme generali relative alle scuole ed ai corsi di specializzazione e di perfezionamento annessi alla Facolta' di medicina e chirurgia, sono sostituiti dai seguenti:
+
+Norme generali riguardanti le scuole e i corsi di specializzazione e di perfezionamento annesse alla Facolta' di medicina e chirurgia.
+
+Art. 162. - Viene cosi' modificato: "Alla scuola sono ammessi, salvo che non sia diversamente disposto nelle norme particolari delle scuole stesse, i laureati in medicina e chirurgia. Non e' ammessa l'iscrizione contemporanea a piu' scuole o corsi di perfezionamento o di specializzazione".
+
+Art. 169. - Viene cosi' modificato: "Per essere ammessi all'esame di diploma gli iscritti devono aver seguito i corsi e superato gli esami di profitto stabiliti per ciascuna scuola. Salvo disposizione diversa contenuta nelle norme particolari di ogni scuola, dovranno avere conseguito precedentemente l'abilitazione all'esercizio della professione di medico chirurgo. Devono, inoltre, essere in regola con il pagamento delle tasse, soprattasse e contributi".
+
+I seguenti articoli, concernenti gli ordinamenti delle scuole e corsi predetti, sono modificati come segue:
+
+Art. 173, relativo alla scuola di perfezionamento in pediatria.
+
+Le materie d'insegnamento sono le seguenti:
+
+1° anno:
+
+1) Fisiologia pediatrica;
+
+2) Semiologia fisica e funzionale;
+
+3) Patologia e clinica pediatrica;
+
+4) Terapia.
+
+2° anno:
+
+1) Patologia e clinica pediatrica;
+
+2) Terapia.
+
+Gli insegnamenti saranno integrati da conferenze di embriologia e anatomia, patologia fetale, anatomia patologica, igiene microbiologia, oculistica, dermatologia, otorinolaringoiatria, ortopedia, odontoiatria su argomenti attinenti la specialita', scelti dal direttore della scuola.
+
+Art. 181, relativo alla scuola di specializzazione in otorinolaringoiatria.
+
+Le materie d'insegnamento sono le seguenti:
+
+1° anno:
+
+1) Patologia e clinica delle malattie del naso orecchio e gola;
+
+2) Semeiotica e tecnica, endoscopica.
+
+2° anno:
+
+1) Patologia e clinica delle malattie del naso orecchio e gola;
+
+2) Terapia medica.
+
+3° anno:
+
+1) Patologia e clinica delle malattie del naso orecchio e gola;
+
+2) Terapia chirurgica e tecnica operatoria.
+
+Gli insegnamenti sono integrati dia conferenze di anatomia normale, anatomia ed istologia patologica fisiologia, patologia generale, microbiologia ed igiene.
+
+Art. 203, relativo alla scuola di specializzazione in medicina generale.
+
+Le materie d'insegnamento sono le seguenti:
+
+1° anno:
+
+1) Clinica medica;
+
+2) Anatomia ed istologia patologica;
+
+3) Semeiologia fisica.
+
+2° anno:
+
+1) Clinica medica;
+
+2) Semeiologia fisica;
+
+3) Terapia clinica.
+
+3° anno:
+
+1) Clinica medica;
+
+2) Anatomia ed istologia patologica;
+
+3) Semeiologia funzionale;
+
+4) Terapia clinica.
+
+4° anno:
+
+1) Clinica medica;
+
+2) Semeiologia funzionale;
+
+3) Terapia clinica.
+
+Gli insegnamenti saranno integrati da conferenze scelte dal direttore, attinenti alla fisiopatologia generale, epidemiologia e profilassi delle infezioni, eziologia generale ed immunologia.
+
+Art. 210 e 211, relativi alla scuola di specializzazione in dermosifilopatica.
+
+Art. 210. - La scuola ha la durata di tre anni. Ha sede presso la clinica dermosifilopatica il cui professore di ruolo e' il direttore della scuola.
+
+Art. 211. - Le materie d'insegnamento sono le seguenti:
+
+1° anno:
+
+1) Morfologia della cute e degli organi sessuali;
+
+2) Patologia generale della cute e degli organi sessuali;
+
+3) Semeiotica, patologia e clinica dermosifilopatica, venereologia clinica.
+
+2° anno:
+
+1) Semeiotica patologica e clinica dermosifilopatica;
+
+2) Terapia medica dermatologica, terapia venereologica e profilassi antivenerea;
+
+3) Radiologia esterna e terapia fisica.
+
+3° anno:
+
+1) Semeiotica, patologia, e clinica dermatologica;
+
+2) Dottrina e pratica dell'udermia;
+
+3) Igiene della cute e terapia artodermica;
+
+4) Artomorfia cutanea e chirurgia esterna.
+
+Articoli 223 e 224, relativi alla scuola di specializzazione in cardiologia e reumatologia.
+
+Art. 223. - La scuola ha la durata di tre anni ed ha sede presso la clinica medica il cui professore di ruolo e' direttore della scuola.
+
+Art. 224. - Le materie d'insegnamento sono le seguenti:
+
+1° anno:
+
+1) Patologia e clinica delle malattie cardiovascolari;
+
+2) Semeiologia fisica e radiologia.
+
+2° anno:
+
+1) Patologia e clinica delle malattie cardiovascolari;
+
+2) Patologia e clinica reumatologica;
+
+3) Semeiologia radiologica e funzionale;
+
+4) Terapia clinica.
+
+3° anno:
+
+1) Patologia e clinica delle malattie cardiovascolari;
+
+2) Patologia e clinica reumatologica;
+
+3) Semeiotica funzionale;
+
+4) Terapia clinica.
+
+Oltre gli insegnamenti suddetti, saranno tenute conferenze su argomenti attinenti alla scuola, scelti dal direttore (anatomia normale, anatomia patologica, fisiopatologia generale e speciale, farmacologia, medicina del lavoro) ed esercitazioni pratiche.
+
+Art. 227, relativo alla scuola di perfezionamento in tisiologia.
+
+Le materie d'insegnamento sono le seguenti:
+
+1° anno:
+
+1) Patologia e clinica tisiologica;
+
+2) Anatomia patologica;
+
+3) Semelologia fisica e funzionale;
+
+4) Semeiologia radiologica;
+
+6) Terapia clinica.
+
+2° anno:
+
+1) Patologia e clinica tisiologica;
+
+2) Semeiotica radiologica;
+
+3) Terapia clinica.
+
+Gli allievi devono frequentare oltre i corsi d'insegnamento anche le esercitazioni stabilite dal direttore.
+
+Art. 233, relativo alla scuola di specializzazione in igiene e sanita' pubblica.
+
+E' modificato come segue: "Al termine di ogni anno il perfezionando e' tenuto a sostenere un unico esame di profitto comprendente tutte le materie d'insegnamento impartite. Tale esame conste nello svolgimento di un tema scritto, d'una prova orale e di prova pratiche di laboratorio relative al programma svolto durante l'anno di corso".
+
+Il titolo della scuola di specializzazione in anestesia e' modificato in quello di "scuola di specializzazione in anestesiologia".
+
+Alle scuole di perfezionamento e di specializzazione esistenti presso la Facolta' di medicina e chirurgia sono aggiunte le seguenti:
+
+Scuola di perfezionamento in immunoematologia
+
+Art. 253. - La scuola ha la durata di due anni, ha sede presso gli Istituti di medicina legale e di patologia generale. Fanno parte del Consiglio della scuola i professori ufficiali di medicina legale e di patologia generale, tra i quali il Consiglio di facolta' scegliera' ogni due anni il direttore della scuola.
+
+Art. 254. - Le materie d'insegnamento sono le seguenti:
+
+1° anno:
+
+1) Biochimica e morfologia del sangue;
+
+2) Gli antigeni individuali: gruppi e fattori ematici;
+
+2° anno:
+
+1) Immunita' ed allergia dal punto di vista ematologico;
+
+2) Organizzazione e metodologia trasfusionale;
+
+3) Malattie da incompatibilita' gruppale.
+
+Le lezioni saranno integrate da esercitazioni pratiche e da conferenze attinenti alle materie d'insegnamento scelte dal direttore.
+
+Scuola di specializzazione in radiologia e terapia fisica
+
+Art. 255. - La scuola ha la durata di due anni ed ha sede presso l'Istituto di radiologia il cui professore di ruolo e' il direttore della scuola.
+
+Art. 256. - Le materie d'insegnamento sono le seguenti:
+
+1° anno:
+
+1) Fisica delle radiazioni ionizzanti;
+
+2) Anatomia radiologica;
+
+3) Tecnica radiologica;
+
+4) Semeiotica e diagnostica radiologica.
+
+2° anno:
+
+1) Radiobiologia;
+
+2) Tecnica Roentegenterapica;
+
+3) Tecnica radiumterapica;
+
+4) Elettroterapia.
+
+I corsi sono integrati da esercitazioni pratiche e da conferenze su argomenti attinenti le materie d'insegnamento. Gli allievi sono tenuti alla frequenza continuativa nell'Istituto di radiologia.
+
+Scuola di specializzazione in idrologia medica
+
+Art. 257. - La scuola ha la durata di due anni ed ha sede nell'Istituto di idrologia, presso la clinica dermosifilopatica. Il direttore della scuola e' il professore di ruolo di clinica dermosifilopatica e professore ufficiale di idrologia. In sua assenza il direttore viene nominato dal Consiglio di facolta'. Fanno parte del Consiglio della scuola i professori, di ruolo di igiene, farmacologia, clinica medica, clinica chirurgica, clinica ostetrica ginecologica, clinica pediatrica, medicina legale.
+
+Art. 258. - Le materie d'insegnamento sono le seguenti:
+
+1° anno:
+
+1) Igiene idrologica;
+
+2) Farmacologia idrologica;
+
+3) Idrologia generale a) interna, b) esterna;
+
+4) Terapia idrologica;
+
+5) Terapia fisica idrologica.
+
+2° anno:
+
+1) Medicina interna e terapia idrologica;
+
+2) Idrologia ortopedica;
+
+3) Idrologia ginecologica;
+
+4) Idrologia pediatrica;
+
+5) Medicina, preventiva e terapia idrologica.
+
+Oltre ai corsi saranno tenute esercitazioni, attivita' dimostrative, conferenze a cui gli allievi sono tenuti ad assistere.
+
+Scuola di perfezionamento in puericultura e dietetica infantile
+
+Art. 259. - La scuola ha la durata di due anni, ha sede presso la clinica pediatrica, il cui professore di ruolo e direttore della scuola.
+
+Art. 260. - Le materie d'insegnamento sono le seguenti:
+
+1° anno:
+
+1) Fisiologia della nutrizione nell'infanzia;
+
+2) Alimentazione del lattante e del bambino fino all'adolescenza;
+
+3) L'alimentazione nella patologia del bambino.
+
+2° anno:
+
+1) Auxologia;
+
+2) Psicologia del bambino;
+
+3) Igiene-profilassi delle malattie infettive;
+
+4) Assistenza sociale all'infanzia.
+
+I corsi di insegnamento potranno essere integrati da conferenze scelte dalla Direzione.
+
+Scuola di specializzazione in igiene e medicina scolastica
+
+Art. 261. - La scuola ha la durata di due anni ed ha sede presso gli Istituti di igiene e clinica pediatrica. Fanno parte del Consiglio della scuola i professori ufficiali di igiene e clinica pediatrica, fra i quali il Consiglio di facolta' designa ogni due anni il direttore della scuola.
+
+Art. 262. - Le materie d'insegnamento sono le seguenti:
+
+1° anno:
+
+1) Demografia, statistica sanitaria e medicina sociale;
+
+2) Igiene dell'alimentazione;
+
+3) Igiene scolastica e legislazione scolastica;
+
+4) Patologia e clinica delle malattie proprie dell'eta' scolare (1° corso);
+
+5) Epidemiologia e profilassi delle malattie proprie dell'eta' scolare (1° corso);
+
+6) Diagnostica di laboratorio delle malattie infettive e parassitarie dell'eta' scolare.
+
+2° anno:
+
+1) Padagogia e artofrenia;
+
+2) Psicologia del lavoro mentale e psicologia sperimentale;
+
+3) Auxologia, ed educazione fisica;
+
+4) Patologia e clinica delle malattie proprie dell'eta' scolare (2° corso);
+
+5) Epidemiologia e profilassi delle malattie proprie dell'eta' scolare (2° corso);
+
+6) Fisiopatologia dell'eta' puberale.
+
+Gli insegnamenti sono integrati da esercitazioni teoriche e pratiche.
+
+Saranno altresi' tenute conferenze su argomenti attinenti all'igiene, all'organizzazione di assistenza medico scolastica e alla neuropsichiatria infantile.
+
+Art. 263. - Gli allievi sono tenuti a compiere turni di internato stabiliti dal direttore, che comportano un servizio identico a quello di assistente.
+
+Scuola di perfezionamento di igiene, tecnica e direzione ospedaliera
+
+Art. 264. - La scuola ha la durata di due anni e ha sede presso l'Istituto d'igiene.
+
+Il direttore della scuola e' il professore di ruolo d'igiene.
+
+Art. 265. - Le materie d'insegnamento sono le seguenti:
+
+1° anno:
+
+1) L'assistenza ospedaliera nel quadro dell'organizzazione sanitaria. Storia degli ospedali e delle costruzioni ospedaliere;
+
+2) Demografia, statistica sanitaria e medicina sociale;
+
+3) Epidemiologia e profilassi delle malattie infettive;
+
+4) Igiene e tecnica delle costruzioni ospedaliere, arredamento ed impianti sanitari (1° corso);
+
+5) Organizzazione e funzionamento degli ospedali generali (1° corso);
+
+6) Diagnostica di laboratorio delle malattie infettive e parassitarie.
+
+2° anno:
+
+1) Diritto amministrativo e legislazione ospedaliera;
+
+2) Igiene e tecnica delle costruzioni ospedaliere; arredamento ed impianti sanitari (2° corso);
+
+3) Organizzazione e funzionamento degli ospedali generali (2° corso);
+
+4) Legalizzazione e funzionamento degli ospedali speciali;
+
+5) Alimentazione e dietetica ospedaliera;
+
+6) Istruzione professionale del personale di assistenza immediata.
+
+Art. 266. - Gli insegnamenti sono accompagnati da esercitazioni pratiche presso l'Istituto di igiene, da visite ad ospedali ed impianti medico sanitari.
+
+Saranno tenute conferenze su argomenti attinenti alle discipline igieniche ed alla organizzazione dei servizi di assistenza ospedaliera.
+
+Art. 267. - Gli allievi sono tenuti a compiere periodi di internato stabiliti dal direttore della scuola, con obblighi di servizio identici a quelli di assistente volontario.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 3 ottobre 1957
+
+GRONCHI
+
+MORO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 31 ottobre 1957 Atti del Governo, registro n. 108, foglio n. 126. - RELLEVA
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Presso la facolta' di scienze matematiche, fisiche e naturali puo' essere istituito il corso di laurea in scienze dell'informazione.  
-Il titolo di studio per l'ammissione al predetto corso di laurea, la durata e l'ordinamento del corso medesimo sono stabiliti dalla tabella annessa al presente decreto firmata, d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione.  
-All'elenco delle lauree e dei diplomi, di cui alla tabella I, annessa al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e' aggiunta la laurea in scienze dell'informazione.  
-La tabella II, annessa al citato regio decreto numero 1652, e' integrata nel senso che la facolta' di scienze matematiche, fisiche e naturali rilascia anche la laurea in scienze dell'informazione.  
-Dopo la tabella XXVI, annessa al citato regio decreto n. 1652, e' inserita, assumendo il numero XXVI-bis, la tabella annessa al presente decreto.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-A decorrere dall'anno accademico 1969-70 e' istituito presso la facolta' di scienze matematiche, fisiche e naturali dell'Universita' degli studi di Pisa il corso di laurea in scienze dell'informazione.
-
-Art. 3
-------
-
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti suindicati, e' ulteriormente modificato come appresso:  
-Art. 70. - All'elenco delle lauree conferite dalla facolta' di scienze matematiche, fisiche e naturali e' aggiunta la seguente: "Laurea in scienze dell'informazione".  
-Art. 95. - Dopo il sesto comma e' aggiunto il seguente: "L'esame di laurea in scienze dell'informazione consiste nella discussione di una dissertazione scritta oppure in una prova orale di cultura secondo quanto sara' stabilito caso per caso dal consiglio di facolta'".  
-Dopo l'art. 101, e con il conseguente spostamento della successiva numerazione, sono aggiunti gli articoli 102 e 103 contenente le norme relative all'ordinamento del corso di studi per il conseguimento della laurea in scienze dell'informazione secondo l'ordinamento riportato nella annessa tabella.  
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 56. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: "semeiotica chirurgica" in sostituzione di "anatomia chirurgica e corso di operazioni".  
+Art. 64. - Nell'elenco degli Istituti annessi alla Facolta' di scienze matematiche, fisiche e naturali, e' compreso l'"Istituto e orto botanico".  
+Gli articoli 162 e 169, riguardanti le norme generali relative alle scuole ed ai corsi di specializzazione e di perfezionamento annessi alla Facolta' di medicina e chirurgia, sono sostituiti dai seguenti:  
+  
+Norme generali riguardanti le scuole e i corsi di specializzazione e di perfezionamento annesse alla Facolta' di medicina e chirurgia.  
+  
+Art. 162. - Viene cosi' modificato: "Alla scuola sono ammessi, salvo che non sia diversamente disposto nelle norme particolari delle scuole stesse, i laureati in medicina e chirurgia. Non e' ammessa l'iscrizione contemporanea a piu' scuole o corsi di perfezionamento o di specializzazione".  
+Art. 169. - Viene cosi' modificato: "Per essere ammessi all'esame di diploma gli iscritti devono aver seguito i corsi e superato gli esami di profitto stabiliti per ciascuna scuola. Salvo disposizione diversa contenuta nelle norme particolari di ogni scuola, dovranno avere conseguito precedentemente l'abilitazione all'esercizio della professione di medico chirurgo. Devono, inoltre, essere in regola con il pagamento delle tasse, soprattasse e contributi".  
+I seguenti articoli, concernenti gli ordinamenti delle scuole e corsi predetti, sono modificati come segue:  
+Art. 173, relativo alla scuola di perfezionamento in pediatria.  
+Le materie d'insegnamento sono le seguenti:  
+1° anno:  
+1) Fisiologia pediatrica;  
+2) Semiologia fisica e funzionale;  
+3) Patologia e clinica pediatrica;  
+4) Terapia.  
+2° anno:  
+1) Patologia e clinica pediatrica;  
+2) Terapia.  
+Gli insegnamenti saranno integrati da conferenze di embriologia e anatomia, patologia fetale, anatomia patologica, igiene microbiologia, oculistica, dermatologia, otorinolaringoiatria, ortopedia, odontoiatria su argomenti attinenti la specialita', scelti dal direttore della scuola.  
+Art. 181, relativo alla scuola di specializzazione in otorinolaringoiatria.  
+Le materie d'insegnamento sono le seguenti:  
+1° anno:  
+1) Patologia e clinica delle malattie del naso orecchio e gola;  
+2) Semeiotica e tecnica, endoscopica.  
+2° anno:  
+1) Patologia e clinica delle malattie del naso orecchio e gola;  
+2) Terapia medica.  
+3° anno:  
+1) Patologia e clinica delle malattie del naso orecchio e gola;  
+2) Terapia chirurgica e tecnica operatoria.  
+Gli insegnamenti sono integrati dia conferenze di anatomia normale, anatomia ed istologia patologica fisiologia, patologia generale, microbiologia ed igiene.  
+Art. 203, relativo alla scuola di specializzazione in medicina generale.  
+Le materie d'insegnamento sono le seguenti:  
+1° anno:  
+1) Clinica medica;  
+2) Anatomia ed istologia patologica;  
+3) Semeiologia fisica.  
+2° anno:  
+1) Clinica medica;  
+2) Semeiologia fisica;  
+3) Terapia clinica.  
+3° anno:  
+1) Clinica medica;  
+2) Anatomia ed istologia patologica;  
+3) Semeiologia funzionale;  
+4) Terapia clinica.  
+4° anno:  
+1) Clinica medica;  
+2) Semeiologia funzionale;  
+3) Terapia clinica.  
+Gli insegnamenti saranno integrati da conferenze scelte dal direttore, attinenti alla fisiopatologia generale, epidemiologia e profilassi delle infezioni, eziologia generale ed immunologia.  
+Art. 210 e 211, relativi alla scuola di specializzazione in dermosifilopatica.  
+Art. 210. - La scuola ha la durata di tre anni. Ha sede presso la clinica dermosifilopatica il cui professore di ruolo e' il direttore della scuola.  
+Art. 211. - Le materie d'insegnamento sono le seguenti:  
+1° anno:  
+1) Morfologia della cute e degli organi sessuali;  
+2) Patologia generale della cute e degli organi sessuali;  
+3) Semeiotica, patologia e clinica dermosifilopatica, venereologia clinica.  
+2° anno:  
+1) Semeiotica patologica e clinica dermosifilopatica;  
+2) Terapia medica dermatologica, terapia venereologica e profilassi antivenerea;  
+3) Radiologia esterna e terapia fisica.  
+3° anno:  
+1) Semeiotica, patologia, e clinica dermatologica;  
+2) Dottrina e pratica dell'udermia;  
+3) Igiene della cute e terapia artodermica;  
+4) Artomorfia cutanea e chirurgia esterna.  
+Articoli 223 e 224, relativi alla scuola di specializzazione in cardiologia e reumatologia.  
+Art. 223. - La scuola ha la durata di tre anni ed ha sede presso la clinica medica il cui professore di ruolo e' direttore della scuola.  
+Art. 224. - Le materie d'insegnamento sono le seguenti:  
+1° anno:  
+1) Patologia e clinica delle malattie cardiovascolari;  
+2) Semeiologia fisica e radiologia.  
+2° anno:  
+1) Patologia e clinica delle malattie cardiovascolari;  
+2) Patologia e clinica reumatologica;  
+3) Semeiologia radiologica e funzionale;  
+4) Terapia clinica.  
+3° anno:  
+1) Patologia e clinica delle malattie cardiovascolari;  
+2) Patologia e clinica reumatologica;  
+3) Semeiotica funzionale;  
+4) Terapia clinica.  
+Oltre gli insegnamenti suddetti, saranno tenute conferenze su argomenti attinenti alla scuola, scelti dal direttore (anatomia normale, anatomia patologica, fisiopatologia generale e speciale, farmacologia, medicina del lavoro) ed esercitazioni pratiche.  
+Art. 227, relativo alla scuola di perfezionamento in tisiologia.  
+Le materie d'insegnamento sono le seguenti:  
+1° anno:  
+1) Patologia e clinica tisiologica;  
+2) Anatomia patologica;  
+3) Semelologia fisica e funzionale;  
+4) Semeiologia radiologica;  
+6) Terapia clinica.  
+2° anno:  
+1) Patologia e clinica tisiologica;  
+2) Semeiotica radiologica;  
+3) Terapia clinica.  
+Gli allievi devono frequentare oltre i corsi d'insegnamento anche le esercitazioni stabilite dal direttore.  
+Art. 233, relativo alla scuola di specializzazione in igiene e sanita' pubblica.  
+E' modificato come segue: "Al termine di ogni anno il perfezionando e' tenuto a sostenere un unico esame di profitto comprendente tutte le materie d'insegnamento impartite. Tale esame conste nello svolgimento di un tema scritto, d'una prova orale e di prova pratiche di laboratorio relative al programma svolto durante l'anno di corso".  
+Il titolo della scuola di specializzazione in anestesia e' modificato in quello di "scuola di specializzazione in anestesiologia".  
+Alle scuole di perfezionamento e di specializzazione esistenti presso la Facolta' di medicina e chirurgia sono aggiunte le seguenti:  
+  
+Scuola di perfezionamento in immunoematologia  
+  
+Art. 253. - La scuola ha la durata di due anni, ha sede presso gli Istituti di medicina legale e di patologia generale. Fanno parte del Consiglio della scuola i professori ufficiali di medicina legale e di patologia generale, tra i quali il Consiglio di facolta' scegliera' ogni due anni il direttore della scuola.  
+Art. 254. - Le materie d'insegnamento sono le seguenti:  
+1° anno:  
+1) Biochimica e morfologia del sangue;  
+2) Gli antigeni individuali: gruppi e fattori ematici;  
+2° anno:  
+1) Immunita' ed allergia dal punto di vista ematologico;  
+2) Organizzazione e metodologia trasfusionale;  
+3) Malattie da incompatibilita' gruppale.  
+Le lezioni saranno integrate da esercitazioni pratiche e da conferenze attinenti alle materie d'insegnamento scelte dal direttore.  
+  
+Scuola di specializzazione in radiologia e terapia fisica  
+  
+Art. 255. - La scuola ha la durata di due anni ed ha sede presso l'Istituto di radiologia il cui professore di ruolo e' il direttore della scuola.  
+Art. 256. - Le materie d'insegnamento sono le seguenti:  
+1° anno:  
+1) Fisica delle radiazioni ionizzanti;  
+2) Anatomia radiologica;  
+3) Tecnica radiologica;  
+4) Semeiotica e diagnostica radiologica.  
+2° anno:  
+1) Radiobiologia;  
+2) Tecnica Roentegenterapica;  
+3) Tecnica radiumterapica;  
+4) Elettroterapia.  
+I corsi sono integrati da esercitazioni pratiche e da conferenze su argomenti attinenti le materie d'insegnamento. Gli allievi sono tenuti alla frequenza continuativa nell'Istituto di radiologia.  
+  
+Scuola di specializzazione in idrologia medica  
+  
+Art. 257. - La scuola ha la durata di due anni ed ha sede nell'Istituto di idrologia, presso la clinica dermosifilopatica. Il direttore della scuola e' il professore di ruolo di clinica dermosifilopatica e professore ufficiale di idrologia. In sua assenza il direttore viene nominato dal Consiglio di facolta'. Fanno parte del Consiglio della scuola i professori, di ruolo di igiene, farmacologia, clinica medica, clinica chirurgica, clinica ostetrica ginecologica, clinica pediatrica, medicina legale.  
+Art. 258. - Le materie d'insegnamento sono le seguenti:  
+1° anno:  
+1) Igiene idrologica;  
+2) Farmacologia idrologica;  
+3) Idrologia generale a) interna, b) esterna;  
+4) Terapia idrologica;  
+5) Terapia fisica idrologica.  
+2° anno:  
+1) Medicina interna e terapia idrologica;  
+2) Idrologia ortopedica;  
+3) Idrologia ginecologica;  
+4) Idrologia pediatrica;  
+5) Medicina, preventiva e terapia idrologica.  
+Oltre ai corsi saranno tenute esercitazioni, attivita' dimostrative, conferenze a cui gli allievi sono tenuti ad assistere.  
+  
+Scuola di perfezionamento in puericultura e dietetica infantile  
+  
+Art. 259. - La scuola ha la durata di due anni, ha sede presso la clinica pediatrica, il cui professore di ruolo e direttore della scuola.  
+Art. 260. - Le materie d'insegnamento sono le seguenti:  
+1° anno:  
+1) Fisiologia della nutrizione nell'infanzia;  
+2) Alimentazione del lattante e del bambino fino all'adolescenza;  
+3) L'alimentazione nella patologia del bambino.  
+2° anno:  
+1) Auxologia;  
+2) Psicologia del bambino;  
+3) Igiene-profilassi delle malattie infettive;  
+4) Assistenza sociale all'infanzia.  
+I corsi di insegnamento potranno essere integrati da conferenze scelte dalla Direzione.  
+  
+Scuola di specializzazione in igiene e medicina scolastica  
+  
+Art. 261. - La scuola ha la durata di due anni ed ha sede presso gli Istituti di igiene e clinica pediatrica. Fanno parte del Consiglio della scuola i professori ufficiali di igiene e clinica pediatrica, fra i quali il Consiglio di facolta' designa ogni due anni il direttore della scuola.  
+Art. 262. - Le materie d'insegnamento sono le seguenti:  
+1° anno:  
+1) Demografia, statistica sanitaria e medicina sociale;  
+2) Igiene dell'alimentazione;  
+3) Igiene scolastica e legislazione scolastica;  
+4) Patologia e clinica delle malattie proprie dell'eta' scolare (1° corso);  
+5) Epidemiologia e profilassi delle malattie proprie dell'eta' scolare (1° corso);  
+6) Diagnostica di laboratorio delle malattie infettive e parassitarie dell'eta' scolare.  
+2° anno:  
+1) Padagogia e artofrenia;  
+2) Psicologia del lavoro mentale e psicologia sperimentale;  
+3) Auxologia, ed educazione fisica;  
+4) Patologia e clinica delle malattie proprie dell'eta' scolare (2° corso);  
+5) Epidemiologia e profilassi delle malattie proprie dell'eta' scolare (2° corso);  
+6) Fisiopatologia dell'eta' puberale.  
+Gli insegnamenti sono integrati da esercitazioni teoriche e pratiche.  
+Saranno altresi' tenute conferenze su argomenti attinenti all'igiene, all'organizzazione di assistenza medico scolastica e alla neuropsichiatria infantile.  
+Art. 263. - Gli allievi sono tenuti a compiere turni di internato stabiliti dal direttore, che comportano un servizio identico a quello di assistente.  
+  
+Scuola di perfezionamento di igiene, tecnica e direzione ospedaliera   
+Art. 264. - La scuola ha la durata di due anni e ha sede presso l'Istituto d'igiene.  
+Il direttore della scuola e' il professore di ruolo d'igiene.  
+Art. 265. - Le materie d'insegnamento sono le seguenti:  
+1° anno:  
+1) L'assistenza ospedaliera nel quadro dell'organizzazione sanitaria. Storia degli ospedali e delle costruzioni ospedaliere;  
+2) Demografia, statistica sanitaria e medicina sociale;  
+3) Epidemiologia e profilassi delle malattie infettive;  
+4) Igiene e tecnica delle costruzioni ospedaliere, arredamento ed impianti sanitari (1° corso);  
+5) Organizzazione e funzionamento degli ospedali generali (1° corso);  
+6) Diagnostica di laboratorio delle malattie infettive e parassitarie.  
+2° anno:  
+1) Diritto amministrativo e legislazione ospedaliera;  
+2) Igiene e tecnica delle costruzioni ospedaliere; arredamento ed impianti sanitari (2° corso);  
+3) Organizzazione e funzionamento degli ospedali generali (2° corso);  
+4) Legalizzazione e funzionamento degli ospedali speciali;  
+5) Alimentazione e dietetica ospedaliera;  
+6) Istruzione professionale del personale di assistenza immediata.  
+Art. 266. - Gli insegnamenti sono accompagnati da esercitazioni pratiche presso l'Istituto di igiene, da visite ad ospedali ed impianti medico sanitari.  
+Saranno tenute conferenze su argomenti attinenti alle discipline igieniche ed alla organizzazione dei servizi di assistenza ospedaliera.  
+Art. 267. - Gli allievi sono tenuti a compiere periodi di internato stabiliti dal direttore della scuola, con obblighi di servizio identici a quelli di assistente volontario.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 gennaio 1969
+### Dato a Roma, addi' 3 ottobre 1957
 
-SARAGAT SULLO
+GRONCHI MORO
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 28 febbraio 1969
+Registrato alla Corte dei conti, addi' 31 ottobre 1957
 
-Atti del Governo, registro n. 225, foglio n. 96. - GRECO
-
-Tabella XXVI bis
-
- ALLEGATO   
-TABELLA XXVI-bis   
-  
-LAUREA IN SCIENZE DELL'INFORMAZIONE   
-  
-Durata del corso: quattro anni.   
-Titolo di ammissione: diploma di maturita' classica, di maturita' scientifica, diploma di abilitazione per i provenienti dagli istituti tecnici industriali, nautici, agrari e per geometri.   
-Il corso si distingue in tre indirizzi: indirizzo generale, indirizzo applicativo (gestione), indirizzo tecnico (sistemi per l'elaborazione).   
-  
-A) Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi per il primo biennio:   
-1° Anno:   
-1) Fisica I;   
-2) Analisi matematica I;   
-3) Algebra (semestrale);   
-4) Geometria (semestrale);   
-5) Teoria ed applicazioni delle macchine calcolatrici.   
-2° Anno:   
-6) Fisica II;   
-7) Analisi matematica II;   
-8) Calcolo numerico (semestrale);   
-9) Calcolo delle probabilita' e statistica (semestrale);   
-10) Sistemi per l'elaborazione dell'informazione I;   
-11) Ricerca operativa e gestione aziendale.   
-  
-B) Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi per il secondo biennio:   
-12) Sistemi per l'elaborazione dell'informazione II;   
-13) Teoria dell'informazione e della trasmissione;   
-14) Metodi per il trattamento dell'informazione.   
-  
-C) Sono insegnamenti fondamentali obbligatori:   
-a) per l'indirizzo generale:   
-15-a) Linguaggi formali e compilatori;   
-16-a) Metodi di approssimazione;   
-b) per l'indirizzo applicativo:   
-15-b) Teoria e metodi dell'ottimizzazione;   
-16-b) Economia ed organizzazione aziendale (semestrale);   
-17-b) Trattamento, dell'informazione nell'impresa (semestrale);   
-c) per l'indirizzo tecnico:   
-15-c) Teoria dei sistemi;   
-15-b) Tecniche numeriche ed analogiche.   
-  
-Insegnamenti complementari comuni ai tre indirizzi:   
-1) Analisi numerica;   
-2) Bioelettronica;   
-3) Calcolo delle probabilita';   
-4) Cibernetica e teoria dell'informazione;   
-5) Complementi di gestione aziendale;   
-6) Comunicazioni elettriche;   
-7) Controlli automatici;   
-8) Controllo dei processi industriali;   
-9) Documentazione automatica;   
-10) Econometrica;   
-11) Elaborazione dell'informazione non numerica;   
-12) Elaborazione di immagini;   
-13) Elaborazione dei testi letterali;   
-14) Elettronica;   
-15) Fisica numerica;   
-16) Fisica superiore;   
-17) Istituzioni di fisica teorica;   
-18) Istituzioni di analisi superiore;   
-19) Istituzioni di fisica matematica;   
-20) Linguaggi speciali di programmazione;   
-21) Logica matematica;   
-22) Macchine calcolatrici analogiche;   
-23) Teoria dei modelli;   
-24) Progetto di sistemi numerici;   
-25) Simulazione;   
-26) Statistica;   
-27) Tecniche di progettazione automatica;   
-28) Tecniche direzionali;   
-29) Tecniche speciali di elaborazione;   
-30) Teoria degli algoritmi e calcolabilita';   
-31) Teoria degli atomi;   
-32) Teoria dei giochi;   
-33) Teoria dei grafi;   
-34) Teoria delle decisioni.   
-  
-Alcuni di questi corsi complementari potranno avere la durata semestrale.   
-Ciascuno degli insegnamenti, sia fondamentali che complementari comporta un esame finale.   
-Ciascuno insegnamento fondamentale di un indirizzo puo' essere scelto come insegnamento complementare per altro indirizzo in cui non sia fondamentale.   
-La scelta delle materie complementari da parte dello studente e' sottoposta alla preventiva approvazione della facolta'.   
-Per ottenere l'iscrizione al secondo biennio, lo studente deve aver seguito i corsi e superato gli esami di almeno cinque materie annuali del primo biennio (due corsi semestrali sono valutati come un corso annuale).   
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in quattro scelti fra i complementari se a corso semestrale, in almeno tre se uno di essi annuale, o in almeno due se ambedue sono annuali.   
-  
-Visto, d'ordine del Presidente della Repubblica   
-  
-Il Ministro per la pubblica istruzione   
-SULLO   
+Atti del Governo, registro n. 108, foglio n. 126. - RELLEVA

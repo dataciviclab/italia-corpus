@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 1006
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1982 n. 414
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 1006
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1982 n. 414
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una donazione.
 ------------------------------------------------------------------------------------------------------
@@ -12,12 +12,8 @@ Art. 1
 
 N.
 
-1006. Decreto del Presidente della Repubblica 11 ottobre 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la   
-fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene   
-autorizzata ad accettare la donazione, consistente nella quota di 2/6 di terreni siti nel comune di Cilavegna (Pavia), distinti nel nuovo catasto terreni alle partite 3784 e 2671, valore dichiarato con perizia di parte lire 160.000.000 elevato dall'ufficio tecnico erariale di Pavia a L. 68.000.000 (quota 2/6 = L. 22.666.666),   
-disposta dalla sig.ra Montanari Rita con atto in data 19 novembre 1981, n. 5576/902 di repertorio, a rogito dott. Ulderico Brambilla,   
-notaio in Milano, registrato a Milano in data 23 settembre 1981 al n. 23539.   
+414. Decreto del Presidente della Repubblica 14 maggio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare la donazione, disposta dalla sig.ra Marani Oresta ved. Lotterio, con atto redatto dal notaio dott. Cesare Gallavresi di Milano in data 23 gennaio 1979, n. 67475/22839 di repertorio, registrato a Milano il 26 gennaio 1979 al n. A/ 2396, consistente in un fabbricato urbano sito in Brissago Valtravaglia, via Piave n. 5 censito nel nuovo catasto edilizio urbano alla partita 251 foglio 6 mappale 512 e circostante terreno censito nel nuovo catasto terreni alla partita 832, foglio 6, mappale 265 di Ha. 0.33.70, del valore attribuito dal perito di parte di L. 27.000.000 ritenuto congruo dall'ufficio tecnico erariale di Varese.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 25 gennaio 1985   
-Registro n. 1 Presidenza, foglio n. 179
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 30 giugno 1982  
+Registro n. 6 Presidenza, foglio n. 68

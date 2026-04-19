@@ -1,99 +1,53 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 febbraio 1981 n. 662
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 928
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 febbraio 1981 n. 662
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 928
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Modena e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Veduta la necessita' di adeguare le norme sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Dopo l'art. 274 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola diretta a fini speciali per ortottisti-assistenti di oftalmologia.   
-Scuola diretta a fini speciali per ortottisti-assistenti di   
-oftalmologia   
-Art. 275. - E' istituita presso la facolta' di medicina e chirurgia dell'Universita' di Modena una scuola speciale di preparazione per ortottisti-assistenti di oftalmologia che ha sede presso la clinica oculistica di questa Universita'.   
-Art. 276. - La scuola ha lo scopo di dare una preparazione completa, teorico-pratica, istruendo allievi sui problemi delle motilita' oculare, della ambliopia, delle tecniche diagnostiche della visione binoculare del trattamento pre e post-operatorio dei pazienti strabici; dei problemi sui vizi di refrazione e della loro correzione e sulle tecniche diagnostiche in oftalmologia. La durata del corso per conseguire il diploma di ortottista-assistente di oftalmologia e' di tre anni.   
-Ne sono titolo di ammissione il possesso di un diploma legalmente valido ai fini della iscrizione alla Universita' ai sensi dell'[art. 1 della legge n. 910 dell'11 dicembre 1969](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1), e la conoscenza di una lingua straniera (inglese, francese, tedesco, spagnolo).   
-Art. 277. - Gli aspiranti alla iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova di cultura generale e in una prova per la conoscenza della lingua straniera. E' richiesto un certificato di sana e robusta costituzione, con particolare riguardo alla funzione visiva.   
-Art. 278. - Il numero complessivo degli iscritti alla scuola e' da sei a quindici, in totale (da due a cinque, per anno di corso).   
-Qualora le domande di iscrizione fossero in numero superiore al numero massimo previsto, il consiglio della scuola si riserva di provvedere ad una scelta tra gli idonei in base ai risultati delle prove di ammissione; gli idonei possono essere ammessi anche in soprannumero in rapporto a posti che si rendessero vacanti nel corso del secondo e terzo anno.   
-I ripetenti e i fuori corso, qualora riprendano gli studi, sono riammessi in soprannumero.   
-Art. 279. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.   
-Art. 280. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria. La frequenza e' obbligatoria.   
-Art. 281. - Il corso comprende le lezioni teoriche ed esercitazioni pratiche.   
-Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-elementi di anatomia dell'apparato visivo e del S.N.C.;   
-fisiologia dell'occhio, della motilita' oculare, della visione binoculare;   
-ottica fisica e fisiopatologica;   
-ortottica I;   
-psicologia infantile.   
-2° Anno:   
-elementi di patologia oculare;   
-elementi di farmacologia oculare;   
-elementi di neurooftalmologia;   
-nozioni di chirurgia ed assistenza oftalmica;   
-ortottica II.   
-3° Anno:   
-tecniche semeiologiche dell'apparato visivo (contattologia, adattometria, campo visivo, senso cromatico);   
-tecniche semeiologiche ed elettrofisiologiche (tonometria e tonografia, ERG, EOG, ENG, ecografia, retinografia e fluoroangiografia, ecc.);   
-ortottica III;   
-nozioni di riabilitazione, senso motorio nell'eta' infantile; legislazione sanitaria.   
-Art. 282. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo, per gli allievi, dell'internato per l'intero periodo di corso di studi nella clinica oculistica.   
-La frequenza viene comprovata dalla attestazione rilasciata sul libretto di iscrizione dagli insegnanti e per l'attivita' pratica dal direttore della scuola.   
-L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.   
-Art. 283. - Alla fine di ogni anno gli allievi devono sostenere un esame sulle materie di insegnamento. Nel caso in cui i candidati non abbiano superato gli esami prescritti, essi rimarranno nella posizione di "ripetenti".   
-Art. 284. - Gli esami di profitto consistono in prove teoriche e pratiche.   
-Art. 285. - Alla fine del corso gli allievi debbono sostenere un esame di diploma che consiste nella discussione di una tesi su un argomento riguardante le materie di insegnamento, assegnata dal direttore della scuola, e in una prova pratica stabilita da una commissione esaminatrice.   
-I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola ma se al secondo non sia loro riconosciuta la idoneita' saranno senz'altro esclusi da ulteriori prove.   
-Art. 286. - Gli esami di profitto e di diploma si danno in due sessioni, la prima estiva che ha inizio subito dopo la chiusura annuale dei corsi e la seconda autunnale, nel mese che precede l'inizio del nuovo anno accademico.   
-Art. 287. - Le commissioni per gli esami di ammissione, di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della clinica. Le commissioni per gli esami di ammissione e di profitto sono composte da tre membri:   
-direttore della scuola, presidente, e da due insegnanti della scuola stessa. La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro membri scelti tra gli insegnanti della scuola stessa o altri docenti.   
-Art. 288. - Le tasse di iscrizione alla scuola speciale per ortottisti-assistenti di oftalmologia, le soprattasse ed i contributi sono fissati in una somma corrispondente alle tasse, soprattasse e contributi a qualsiasi titolo corrisposti da uno studente iscritto al primo anno del corso di laurea in medicina e chirurgia, salvo i contributi di laboratorio, seminario e di esercitazioni che vengono fissati di anno in anno dal consiglio di amministrazione sentito il parere della facolta'.   
-Art. 289. - Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni di enti pubblici o privati.   
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che l'art. 79 e' abrogato e sostituito dal seguente:  
+Art. 79. - La misura delle tasse e sopratasse per le singole scuole di specializzazione medico-chirurgiche e' fissata nel modo seguente:  
+  
+a) specializzandi in corso regolare di studi:  
+Tassa di immatricolazione. . . . . . . . . . . . . . . . . L. 5.000 Iscrizione. . . . . . . . . . . . . . . . . . . . . . . . L. 10.000 Sopratassa esami . . . . . . . . . . . . . . . . . . . . . L. 7.000 Contributo biblioteca . . . . . . . . . . . . . . . . . . L. 10.000 Contributo riscaldamento . . . . . . . . . . . . . . . . . L. 4.000 Diritto aggiuntivo di segreteria . . . . . . . . . . . . . L. 3.000 b) specializzandi fuori corso:  
+Tassa di ricognizione . . . . . . . . . . . . . . . . . . L. 11.500 Sopratassa esami . . . . . . . . . . . . . . . . . . . . . L. 7.000 Contributo riscaldamento . . . . . . . . . . . . . . . . . L. 4.000 Contributo biblioteca . . . . . . . . . . . . . . . . . . L. 10.000 Diritti aggiuntivi di segreteria . . . . . . . . . . . . . L. 3.000   
+Per ogni anno fuori corso oltre il secondo dovra' essere versata la somma di L. 3450 in piu'.  
+La misura dei "contributi esercitazione" e del "contributo scuola" presso le singole scuole di specializzazione, verra' stabilita dal consiglio di amministrazione,  
+sentito il consiglio dei direttori delle scuole, e resa nota ogni anno con apposito manifesto.  
+Le tasse, sopratasse e contributi possono essere pagati in quattro rate: la prima all'atto della iscrizione;  
+la seconda entro il 31 gennaio; la terza entro il 31 marzo e la quarta entro il 31 maggio.  
+  
+Sopratassa esame di diploma. . . . . . . . . . . . . . . . . L. 3.000 Rimborso spese per rilascio del diploma di specializzazione. L. 1.000   
+La sopratassa per ripetizione esame; la mora; il contributo per libretto e tessera; per duplicato di libretto e tessera; diritto di segreteria per rilascio certificati, pergamena, diplomi di maturita'; per domande di iscrizione, esame di profitto e di diploma, diritto di urgenza, diritto di trasferimento da e per altre universita', sono fissati nella misura pari a quella stabilita per gli studenti della facolta'.  
+L'allievo che ha ottenuto la iscrizione ad un anno di corso non ha diritto in nessun caso alla restituzione delle tasse, sopratasse e contributi versati.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 febbraio 1981
+### Dato a Roma, addi' 31 ottobre 1972
 
-PERTINI BODRATO Visto il Guardasigilli: SARTI
+LEONE SCALFARO
 
-Registrato alla Corte dei conti, addi' 14 novembre 1981
+Visto, il Guardasigilli: GONELLA
 
-Registro n. 107 Istruzione, foglio n. 187
+Registrato alla Corte dei conti, addi' 17 gennaio 1973
+
+Atti di Governo, registro n. 255, foglio, n. 35. - VALENTINI

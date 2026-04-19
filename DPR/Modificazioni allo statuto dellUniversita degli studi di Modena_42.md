@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1977 n. 991
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1234
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1977 n. 991
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1234
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Modena.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,9 +18,9 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Modena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -28,477 +28,240 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 145 - la scuola di specializzazione in chirurgia muta la propria denominazione in quella di chirurgia generale.
+gli articoli da 138 a 141, relativi alla scuola di specializzazione in malattie dell'apparato digerente e del ricambio che muta la denominazione in scuola di specializzazione in malattie dell'apparato digerente;
 
-Art. 155 - la scuola di specializzazione in oculistica muta la denominazione in quella di oftalmologia.
+gli articoli da 164 a 166, relativi alla scuola di specializzazione in malattie del sangue che muta la denominazione in scuola di specializzazione in ematologia clinica e di laboratorio, sono abrogati e sostituiti dai seguenti:
 
-Art. 170 - la scuola di specializzazione in odontoiatria e protesi dentaria muta la propria denominazione in quella di odontostomatologia.
+Scuola di specializzazione in malattie dell'apparato digerente
 
-Art. 198 - la scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale muta la propria denominazione in quella di otorinolaringoiatria.
+Art. 138. - La scuola di specializzazione in malattie dell'apparato digerente conferisce un diploma di specialista in malattie dell'apparato digerente.
 
-Dopo l'art. 253, e con il conseguente spostamento della numerazione degli articoli successivi, sono istituite la scuola di specializzazione in criminologia clinica e la scuola di specializzazione in neurochirurgia.
+Art. 139. - Alla scuola sono ammessi i laureati in medicina e chirurgia.
 
-Scuola di specializzazione in criminologia clinica
+Il numero dei posti e' fissato in 10 per il 1° corso; in 11 per il 2° corso, 3° e 4° corso.
 
-Art. 254. - La scuola di specializzazione in criminologia clinica conferisce il diploma di specialista in criminologia clinica ed ha sede presso la cattedra di antropologia criminale della facolta' di medicina e chirurgia dell'Universita'. La scuola e' diretta dal professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, dal professore di ruolo o fuori ruolo di materia affine.
+Art. 140. - La scuola, che ha sede presso la clinica medica, ha la durata di anni quattro di cui uno di tirocinio pratico.
 
-Art. 255. - La scuola ha due indirizzi:
-
-a) indirizzo medico-psicologico e psichiatrico forense per i laureati in medicina e chirurgia;
-
-b) indirizzo socio-psicologico per i laureati in giurisprudenza, scienze politiche, pedagogia, sociologia, psicologia, lettere e filosofia.
-
-Dell'indirizzo seguito viene fatta espressa menzione sul diploma di specializzazione.
-
-La durata del corso della scuola e' di tre anni, la frequenza e' obbligatoria. Non sono consentite abbreviazioni del corso.
-
-Art. 256. - Gli insegnamenti impartiti nella scuola sono i seguenti:
-
-Insegnamenti fondamentali comuni ai due indirizzi:
-
-1) criminologia generale I;
-
-2) elementi di diritto;
-
-3) elementi di sociologia;
-
-4) elementi di psicologia;
-
-5) elementi di biologia;
-
-6) metodologia della ricerca;
-
-7) criminologia generale II;
-
-8) criminologia minorile;
-
-9) trattamento criminologico;
-
-10) politica criminale e diritto penitenziario.
-
-Insegnamenti fondamentali dell'indirizzo medico-psicologico e psichiatrico forense:
-
-1) psicopatologia generale;
-
-2) psichiatria clinica;
-
-3) diagnostica criminologica;
-
-4) medicina legale e criminalistica;
-
-5) psicodiagnostica;
-
-6) neurologia e psichiatria forense;
-
-7) prevenzione della patologia del comportamento;
-
-8) tecniche di rieducazione minorile;
-
-9) legislazione socio-sanitaria.
-
-Insegnamenti fondamentali dell'indirizzo socio-psicologico:
-
-1) elementi di psicopatologia generale;
-
-2) elementi di psichiatria clinica forense;
-
-3) tecniche di servizio sociale;
-
-4) antropologia culturale;
-
-5) elementi di medicina legale;
-
-6) psicologia sociale;
-
-7) tecniche psicopedagogiche;
-
-8) sociologia della devianza;
-
-9) metodi della prevenzione.
-
-Insegnamenti complementari:
-
-1) antropofenomenologia;
-
-2) etologia dei comportamenti criminosi;
-
-3) sociologia del diritto;
-
-4) psicobiologia;
-
-5) economia della sicurezza e della difesa sociale;
-
-6) psicologia e psicopatologia dell'eta' evolutiva;
-
-7) igiene mentale;
-
-8) psicoterapia.
-
-Il piano di studi della scuola di specializzazione e' il seguente:
-
-1° Anno (comune ai due indirizzi):
-
-1) criminologia generale I;
-
-2) elementi di diritto;
-
-3) elementi di sociologia;
-
-4) elementi di psicologia;
-
-5) elementi di biologia;
-
-6) metodologia della ricerca;
-
-7) una materia integrativa a scelta.
-
-2° Anno:
-
-a) indirizzo medico-psicologico e psichiatrico forense:
-
-1) criminologia generale II;
-
-2) psicopatologia generale;
-
-3) psichiatria clinica;
-
-4) diagnostica criminologica;
-
-5) medicina legale e criminalistica;
-
-6) psicodiagnostica;
-
-7) criminologia minorile;
-
-8) una materia integrativa a scelta;
-
-b) indirizzo socio-psicologico:
-
-1) criminologia generale II;
-
-2) elementi di psicopatologia generale;
-
-3) elementi di psichiatria clinica e forense;
-
-4) tecniche di servizio sociale;
-
-5) antropologia culturale;
-
-6) elementi di medicina legale;
-
-7) criminologia minorile;
-
-8) una materia integrativa a scelta.
-
-3° Anno:
-
-a) indirizzo medico-psicologico e psichiatrico forense:
-
-1) neurologia e psichiatria forense;
-
-2) trattamento criminologico;
-
-3) prevenzione della patologia del comportamento;
-
-4) tecniche di rieducazione minorile;
-
-5) legislazione socio-sanitaria;
-
-6) politica criminale e diritto penitenziario;
-
-7) una materia integrativa a scelta;
-
-b) indirizzo socio-psicologico:
-
-1) psicologia sociale;
-
-2) tecniche psico-pedagogiche;
-
-3) sociologia della devianza;
-
-4) metodi di prevenzione;
-
-5) trattamento criminologico;
-
-6) politica criminale e diritto penitenziario;
-
-7) una materia integrativa a scelta.
-
-Art. 257. - All'atto della domanda di iscrizione a ciascuno dei tre anni di corso l'allievo dovra' indicare alla segreteria della scuola una materia integrativa da scegliere fra le materie complementari ovvero tra quelle fondamentali appartenenti all'indirizzo al quale non e' iscritto. L'indicazione e' vincolante.
-
-Art. 258. - Gli insegnamenti potranno essere integrati da esercitazioni pratiche nonche' da conferenze tenute da esperti italiani e stranieri.
-
-Art. 259. - Alla scuola sono ammessi i laureati in medicina e chirurgia, in giurisprudenza, in scienze politiche, in pedagogia, in sociologia, in psicologia, in lettere, in filosofia, in numero complessivo non superiore a trenta per i tre anni di corso.
-
-L'ammissione alla scuola avverra' mediante concorso per esami.
-
-Art. 260. - Gli esami di profitto sono tenuti ogni anno per singole materie o per gruppi di materie.
-
-Per essere ammesso all'esame di diploma l'allievo deve aver sostenuto ventidue esami, dei quali diciannove relativi alle materie fondamentali dell'indirizzo seguito e tre relativi alle materie integrative scelte.
-
-Art. 261. - L'esame di diploma consiste nella discussione di una dissertazione scritta originale, in una delle materie oggetto d'insegnamento. Il tema, concordato con il docente, dovra' essere presentato al direttore della scuola, per l'approvazione, entro 30 giorni dalla data di inizio dell'ultimo anno di corso.
-
-A coloro che hanno superato l'esame di diploma viene rilasciato il diploma di specialista in criminologia clinica, con la specificazione dell'indirizzo seguito.
-
-Art. 262. - Le norme per l'iscrizione, per gli esami, per le tasse, ecc., sono quelle previste dal titolo 111 dello statuto relativo all'ordinamento delle scuole di specializzazione dell'Universita' di Modena.
-
-Scuola di specializzazione in neurochirurgia
-
-Art. 263. - La scuola di specializzazione in neurochirurgia conferisce il diploma di specialista in neurochirurgia. Gli anni di corso necessari per il conseguimento del diploma sono cinque. Alla scuola sono ammessi i laureati in medicina e chirurgia abilitati all'esercizio della professione.
-
-La scuola e' istituita presso la cattedra di neurochirurgia dell'Universita' degli studi di Modena. La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
-
-Art. 264. - La selezione dei candidati aspiranti all'ammissione alla scuola avviene sulla base dei titoli presentati e in seguito ad un esame scritto. La commissione esaminatrice e' presieduta dal direttore della scuola di specializzazione.
-
-Art. 265. - Il corso di cinque anni non potra' essere abbreviato per alcun motivo e pertanto non sono consentite iscrizioni con abbreviazioni di corso.
-
-Art. 266. - Il numero degli allievi e' di due per anno di corso e complessivamente di dieci iscritti per intero corso di studi.
-
-Art. 267. - Gli insegnamenti della scuola di specializzazione in neurochirurgia sono cosi' distribuiti nei cinque anni di corso:
+Art. 141. - Gli insegnamenti impartiti dalla scuola sono:
 
 1° Anno:
 
-neuroanatomia;
+Anatomia patologica;
 
-neurofisiologia;
+Fisiopatologia;
 
-semeiotica e clinica neurologica;
+Chimica clinica;
 
-elementi di psichiatria;
+Semeiotica fisica e strumentale (biennale);
 
-clinica neurochirurgica I.
+Clinica medica (triennale).
 
 2° Anno:
 
-neurooftalmologia;
+Semeiotica fisica e strumentale (biennale);
 
-neurootoiatria;
+Semeiotica radiologica;
 
-neurofisiologia clinica;
+Patologia speciale delle malattie del tubo digerente;
 
-clinica neurochirurgica II.
+Clinica medica (triennale).
 
 3° Anno:
 
-neuroanestesia e rianimazione;
+Patologia speciale delle malattie del fegato e del pancreas;
 
-neuroradiologia I;
+Clinica medica (triennale).
 
-neuropatologia;
-
-clinica neurochirurgica III.
+A queste materie fondamentali possono essere aggiunte materie complementari in numero non superiore a 4 per la totalita' del corso, secondo i particolari sviluppi di ricerca e di dottrina caratteristici della scuola.
 
 4° Anno:
 
-neuroradiologia II;
+Internato: applicazione delle tecniche diagnostiche della specialita'.
 
-neurotraumatologia;
+Gli insegnamenti saranno integrati da esercitazioni pratiche.
 
-tecniche operatorie I;
+L'esame di profitto si sosterra' alla fine dei singoli corsi e gli insegnamenti biennali e triennali importano un unico esame alla fine del corso.
 
-clinica neurochirurgica IV.
+Gli allievi del 1°, del 2° e 3° anno, per essere ammessi rispettivamente al 2°, 3° e 4° anno, debbono aver ottenuto tutte le firme di frequenza dei corsi e devono avere superato tutti i relativi esami.
 
-5° Anno:
+Scuola di specializzazione in ematologia clinica e di laboratorio
 
-neurochirurgia funzionale e stereotassica;
+Art. 164. - La scuola di specializzazione in ematologia clinica e di laboratorio conferisce il diploma di specialista in ematologia e clinica di laboratorio.
 
-neurochirurgia infantile;
+La durata del corso e' di tre anni. Il numero dei posti disponibili e' di dodici per anno di corso (totale 36 posti).
 
-tecniche operatorie II;
+La scuola ha sede presso l'istituto di patologia medica e metodologia clinica.
 
-clinica neurochirurgica V.
+La direzione della scuola di specializzazione in ematologia clinica e di laboratorio spetta di diritto al professore di ruolo dell'istituto di patologia medica e metodologia clinica: nel caso che tale cattedra non sia ricoperta da un professore di ruolo, la facolta' nomina un professore di ruolo scegliendolo fra i propri componenti.
 
-Art. 268. - La frequenza alle lezioni ed alle attivita' cliniche e' obbligatoria.
+Art. 165. - Le materie di insegnamento sono le seguenti:
 
-Art. 269. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Al termine del corso di studi per il conseguimento del diploma di specialista in neurochirurgia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento di pertinenza neurochirurgica.
+1° Anno:
+
+Morfologia e morfogenesi normale e patologica del sangue (biennale);
+
+Genetica ematologica (annuale);
+
+Fisiopatologia della coagulazione e dell'emostasi (annuale);
+
+Fisiopatologia ematologica (biennale);
+
+Biochimica ematologica (annuale);
+
+Fisiopatologia del plasma (annuale);
+
+Tecniche di laboratorio inerenti all'ematologia (triennale).
+
+2° Anno:
+
+Morfologia e morfogenesi normale e patologica del sangue (biennale);
+
+Fisiopatologia ematologica (biennale);
+
+Immunoematologia (annuale);
+
+Tecniche di laboratorio inerenti all'ematologia (triennale);
+
+Patologia speciale ematologica (biennale);
+
+Clinica delle emopatie (biennale);
+
+Anatomia e istologia patologica delle emopatie e fondamenti di oncologia (annuale).
+
+3° Anno:
+
+Tecniche di laboratorio inerenti all'ematologia (triennale);
+
+Nozioni di radiobiologia e di medicina nucleare applicate all'ematologia (annuale);
+
+Radiodiagnostica e radioterapia ematologica (annuale);
+
+Patologia speciale ematologica (biennale);
+
+Clinica delle emopatie (biennale);
+
+Terapia sistematica ematologica (annuale);
+
+Terapia trasfusionale (annuale).
+
+E' obbligatoria la frequenza alle lezioni, alle esercitazioni cliniche e di laboratorio annesse ai corsi.
+
+Art. 166. - L'esame di profitto si sostiene alla fine dell'anno in corso.
+
+Gli esami degli insegnamenti biennali e triennali si sostengono alla fine del biennio o del triennio.
+
+L'esame di diploma consiste nella discussione di una dissertazione.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 19 ottobre 1977
+Dato a Roma, addi' 30 ottobre 1970
 
-LEONE
+SARAGAT
 
-MALFATTI
+MISASI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 29 dicembre 1977 Registro n. 146 Istruzione, foglio n. 323
+alla Corte dei conti, addi' 19 gennaio 1971 Atti del Governo, registro n. 240, foglio n. 84. - CARUSO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Modena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 145 - la scuola di specializzazione in chirurgia muta la propria denominazione in quella di chirurgia generale.  
-Art. 155 - la scuola di specializzazione in oculistica muta la denominazione in quella di oftalmologia.  
-Art. 170 - la scuola di specializzazione in odontoiatria e protesi dentaria muta la propria denominazione in quella di odontostomatologia.  
-Art. 198 - la scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale muta la propria denominazione in quella di otorinolaringoiatria.  
-Dopo l'art. 253, e con il conseguente spostamento della numerazione degli articoli successivi, sono istituite la scuola di specializzazione in criminologia clinica e la scuola di specializzazione in neurochirurgia.  
-Scuola di specializzazione in criminologia clinica  
-Art. 254. - La scuola di specializzazione in criminologia clinica conferisce il diploma di specialista in criminologia clinica ed ha sede presso la cattedra di antropologia criminale della facolta' di medicina e chirurgia dell'Universita'. La scuola e' diretta dal professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, dal professore di ruolo o fuori ruolo di materia affine.  
-Art. 255. - La scuola ha due indirizzi:  
-a) indirizzo medico-psicologico e psichiatrico forense per i laureati in medicina e chirurgia;  
-b) indirizzo socio-psicologico per i laureati in giurisprudenza, scienze politiche, pedagogia, sociologia, psicologia, lettere e filosofia.  
-Dell'indirizzo seguito viene fatta espressa menzione sul diploma di specializzazione.  
-La durata del corso della scuola e' di tre anni, la frequenza e' obbligatoria. Non sono consentite abbreviazioni del corso.  
-Art. 256. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
-Insegnamenti fondamentali comuni ai due indirizzi:  
-1) criminologia generale I;  
-2) elementi di diritto;  
-3) elementi di sociologia;  
-4) elementi di psicologia;  
-5) elementi di biologia;  
-6) metodologia della ricerca;  
-7) criminologia generale II;  
-8) criminologia minorile;  
-9) trattamento criminologico;  
-10) politica criminale e diritto penitenziario.  
-Insegnamenti fondamentali dell'indirizzo medico-psicologico e psichiatrico forense:  
-1) psicopatologia generale;  
-2) psichiatria clinica;  
-3) diagnostica criminologica;  
-4) medicina legale e criminalistica;  
-5) psicodiagnostica;  
-6) neurologia e psichiatria forense;  
-7) prevenzione della patologia del comportamento;  
-8) tecniche di rieducazione minorile;  
-9) legislazione socio-sanitaria.  
-Insegnamenti fondamentali dell'indirizzo socio-psicologico:  
-1) elementi di psicopatologia generale;  
-2) elementi di psichiatria clinica forense;  
-3) tecniche di servizio sociale;  
-4) antropologia culturale;  
-5) elementi di medicina legale;  
-6) psicologia sociale;  
-7) tecniche psicopedagogiche;  
-8) sociologia della devianza;  
-9) metodi della prevenzione.  
-Insegnamenti complementari:  
-1) antropofenomenologia;  
-2) etologia dei comportamenti criminosi;  
-3) sociologia del diritto;  
-4) psicobiologia;  
-5) economia della sicurezza e della difesa sociale;  
-6) psicologia e psicopatologia dell'eta' evolutiva;  
-7) igiene mentale;  
-8) psicoterapia.  
-Il piano di studi della scuola di specializzazione e' il seguente:  
-1° Anno (comune ai due indirizzi):  
-1) criminologia generale I;  
-2) elementi di diritto;  
-3) elementi di sociologia;  
-4) elementi di psicologia;  
-5) elementi di biologia;  
-6) metodologia della ricerca;  
-7) una materia integrativa a scelta.  
-2° Anno:  
-a) indirizzo medico-psicologico e psichiatrico forense:  
-1) criminologia generale II;  
-2) psicopatologia generale;  
-3) psichiatria clinica;  
-4) diagnostica criminologica;  
-5) medicina legale e criminalistica;  
-6) psicodiagnostica;  
-7) criminologia minorile;  
-8) una materia integrativa a scelta;  
-b) indirizzo socio-psicologico:  
-1) criminologia generale II;  
-2) elementi di psicopatologia generale;  
-3) elementi di psichiatria clinica e forense;  
-4) tecniche di servizio sociale;  
-5) antropologia culturale;  
-6) elementi di medicina legale;  
-7) criminologia minorile;  
-8) una materia integrativa a scelta.  
-3° Anno:  
-a) indirizzo medico-psicologico e psichiatrico forense:  
-1) neurologia e psichiatria forense;  
-2) trattamento criminologico;  
-3) prevenzione della patologia del comportamento;  
-4) tecniche di rieducazione minorile;  
-5) legislazione socio-sanitaria;  
-6) politica criminale e diritto penitenziario;  
-7) una materia integrativa a scelta;  
-b) indirizzo socio-psicologico:  
-1) psicologia sociale;  
-2) tecniche psico-pedagogiche;  
-3) sociologia della devianza;  
-4) metodi di prevenzione;  
-5) trattamento criminologico;  
-6) politica criminale e diritto penitenziario;  
-7) una materia integrativa a scelta.  
-Art. 257. - All'atto della domanda di iscrizione a ciascuno dei tre anni di corso l'allievo dovra' indicare alla segreteria della scuola una materia integrativa da scegliere fra le materie complementari ovvero tra quelle fondamentali appartenenti all'indirizzo al quale non e' iscritto. L'indicazione e' vincolante.  
-Art. 258. - Gli insegnamenti potranno essere integrati da esercitazioni pratiche nonche' da conferenze tenute da esperti italiani e stranieri.  
-Art. 259. - Alla scuola sono ammessi i laureati in medicina e chirurgia, in giurisprudenza, in scienze politiche, in pedagogia, in sociologia, in psicologia, in lettere, in filosofia, in numero complessivo non superiore a trenta per i tre anni di corso.  
-L'ammissione alla scuola avverra' mediante concorso per esami.  
-Art. 260. - Gli esami di profitto sono tenuti ogni anno per singole materie o per gruppi di materie.  
-Per essere ammesso all'esame di diploma l'allievo deve aver sostenuto ventidue esami, dei quali diciannove relativi alle materie fondamentali dell'indirizzo seguito e tre relativi alle materie integrative scelte.  
-Art. 261. - L'esame di diploma consiste nella discussione di una dissertazione scritta originale, in una delle materie oggetto d'insegnamento. Il tema, concordato con il docente, dovra' essere presentato al direttore della scuola, per l'approvazione, entro 30 giorni dalla data di inizio dell'ultimo anno di corso.  
-A coloro che hanno superato l'esame di diploma viene rilasciato il diploma di specialista in criminologia clinica, con la specificazione dell'indirizzo seguito.  
-Art. 262. - Le norme per l'iscrizione, per gli esami, per le tasse, ecc., sono quelle previste dal titolo 111 dello statuto relativo all'ordinamento delle scuole di specializzazione dell'Universita' di Modena.  
-Scuola di specializzazione in neurochirurgia  
-Art. 263. - La scuola di specializzazione in neurochirurgia conferisce il diploma di specialista in neurochirurgia. Gli anni di corso necessari per il conseguimento del diploma sono cinque. Alla scuola sono ammessi i laureati in medicina e chirurgia abilitati all'esercizio della professione.  
-La scuola e' istituita presso la cattedra di neurochirurgia dell'Universita' degli studi di Modena. La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Art. 264. - La selezione dei candidati aspiranti all'ammissione alla scuola avviene sulla base dei titoli presentati e in seguito ad un esame scritto. La commissione esaminatrice e' presieduta dal direttore della scuola di specializzazione.  
-Art. 265. - Il corso di cinque anni non potra' essere abbreviato per alcun motivo e pertanto non sono consentite iscrizioni con abbreviazioni di corso.  
-Art. 266. - Il numero degli allievi e' di due per anno di corso e complessivamente di dieci iscritti per intero corso di studi.  
-Art. 267. - Gli insegnamenti della scuola di specializzazione in neurochirurgia sono cosi' distribuiti nei cinque anni di corso:  
-1° Anno:  
-neuroanatomia;  
-neurofisiologia;  
-semeiotica e clinica neurologica;  
-elementi di psichiatria;  
-clinica neurochirurgica I.  
-2° Anno:  
-neurooftalmologia;  
-neurootoiatria;  
-neurofisiologia clinica;  
-clinica neurochirurgica II.  
-3° Anno:  
-neuroanestesia e rianimazione;  
-neuroradiologia I;  
-neuropatologia;  
-clinica neurochirurgica III.  
-4° Anno:  
-neuroradiologia II;  
-neurotraumatologia;  
-tecniche operatorie I;  
-clinica neurochirurgica IV.  
-5° Anno:  
-neurochirurgia funzionale e stereotassica;  
-neurochirurgia infantile;  
-tecniche operatorie II;  
-clinica neurochirurgica V.  
-Art. 268. - La frequenza alle lezioni ed alle attivita' cliniche e' obbligatoria.  
-Art. 269. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Al termine del corso di studi per il conseguimento del diploma di specialista in neurochirurgia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento di pertinenza neurochirurgica.  
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+gli articoli da 138 a 141, relativi alla scuola di specializzazione in malattie dell'apparato digerente e del ricambio che muta la denominazione in scuola di specializzazione in malattie dell'apparato digerente;   
+gli articoli da 164 a 166, relativi alla scuola di specializzazione in malattie del sangue che muta la denominazione in scuola di specializzazione in ematologia clinica e di laboratorio, sono abrogati e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in malattie dell'apparato digerente   
+  
+Art. 138. - La scuola di specializzazione in malattie dell'apparato digerente conferisce un diploma di specialista in malattie dell'apparato digerente.   
+Art. 139. - Alla scuola sono ammessi i laureati in medicina e chirurgia.   
+Il numero dei posti e' fissato in 10 per il 1° corso; in 11 per il 2° corso, 3° e 4° corso.   
+Art. 140. - La scuola, che ha sede presso la clinica medica, ha la durata di anni quattro di cui uno di tirocinio pratico.   
+Art. 141. - Gli insegnamenti impartiti dalla scuola sono:   
+1° Anno:   
+Anatomia patologica;   
+Fisiopatologia;   
+Chimica clinica;   
+Semeiotica fisica e strumentale (biennale);   
+Clinica medica (triennale).   
+2° Anno:   
+Semeiotica fisica e strumentale (biennale);   
+Semeiotica radiologica;   
+Patologia speciale delle malattie del tubo digerente;   
+Clinica medica (triennale).   
+3° Anno:   
+Patologia speciale delle malattie del fegato e del pancreas;   
+Clinica medica (triennale).   
+A queste materie fondamentali possono essere aggiunte materie complementari in numero non superiore a 4 per la totalita' del corso, secondo i particolari sviluppi di ricerca e di dottrina caratteristici della scuola.   
+4° Anno:   
+Internato: applicazione delle tecniche diagnostiche della specialita'.   
+Gli insegnamenti saranno integrati da esercitazioni pratiche.   
+L'esame di profitto si sosterra' alla fine dei singoli corsi e gli insegnamenti biennali e triennali importano un unico esame alla fine del corso.   
+Gli allievi del 1°, del 2° e 3° anno, per essere ammessi rispettivamente al 2°, 3° e 4° anno, debbono aver ottenuto tutte le firme di frequenza dei corsi e devono avere superato tutti i relativi esami.   
+  
+Scuola di specializzazione in ematologia clinica e di laboratorio   
+Art. 164. - La scuola di specializzazione in ematologia clinica e di laboratorio conferisce il diploma di specialista in ematologia e clinica di laboratorio.   
+La durata del corso e' di tre anni. Il numero dei posti disponibili e' di dodici per anno di corso (totale 36 posti).   
+La scuola ha sede presso l'istituto di patologia medica e metodologia clinica.   
+La direzione della scuola di specializzazione in ematologia clinica e di laboratorio spetta di diritto al professore di ruolo dell'istituto di patologia medica e metodologia clinica: nel caso che tale cattedra non sia ricoperta da un professore di ruolo, la facolta' nomina un professore di ruolo scegliendolo fra i propri componenti.   
+Art. 165. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+Morfologia e morfogenesi normale e patologica del sangue (biennale);   
+Genetica ematologica (annuale);   
+Fisiopatologia della coagulazione e dell'emostasi (annuale);   
+Fisiopatologia ematologica (biennale);   
+Biochimica ematologica (annuale);   
+Fisiopatologia del plasma (annuale);   
+Tecniche di laboratorio inerenti all'ematologia (triennale).   
+2° Anno:   
+Morfologia e morfogenesi normale e patologica del sangue (biennale);   
+Fisiopatologia ematologica (biennale);   
+Immunoematologia (annuale);   
+Tecniche di laboratorio inerenti all'ematologia (triennale);   
+Patologia speciale ematologica (biennale);   
+Clinica delle emopatie (biennale);   
+Anatomia e istologia patologica delle emopatie e fondamenti di oncologia (annuale).   
+3° Anno:   
+Tecniche di laboratorio inerenti all'ematologia (triennale);   
+Nozioni di radiobiologia e di medicina nucleare applicate all'ematologia (annuale);   
+Radiodiagnostica e radioterapia ematologica (annuale);   
+Patologia speciale ematologica (biennale);   
+Clinica delle emopatie (biennale);   
+Terapia sistematica ematologica (annuale);   
+Terapia trasfusionale (annuale).   
+E' obbligatoria la frequenza alle lezioni, alle esercitazioni cliniche e di laboratorio annesse ai corsi.   
+Art. 166. - L'esame di profitto si sostiene alla fine dell'anno in corso.   
+Gli esami degli insegnamenti biennali e triennali si sostengono alla fine del biennio o del triennio.   
+L'esame di diploma consiste nella discussione di una dissertazione.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 ottobre 1977
+### Dato a Roma, addi' 30 ottobre 1970
 
-LEONE MALFATTI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 29 dicembre 1977
+Registrato alla Corte dei conti, addi' 19 gennaio 1971
 
-Registro n. 146 Istruzione, foglio n. 323
+Atti del Governo, registro n. 240, foglio n. 84. - CARUSO

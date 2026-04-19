@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1982 n. 1036
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1979 n. 220
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1982 n. 1036
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1979 n. 220
+============================================================
 
 Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
 --------------------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e successive modificazioni;
+Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,111 +20,125 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
---------
 
 Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 11 - all'elenco degli insegnamenti complementari del corso di laurea in scienze politiche sono aggiunti i seguenti:
 
+psicologia politica;
+
+diritto dei collegi rappresentativi;
+
+storia e legislazione delle istituzioni scolastiche;
+
+storia delle istituzioni militari;
+
+storia dell'organizzazione internazionale;
+
+logica;
+
+ecologia;
+
+economia e politica del lavoro;
+
+legislazione sociale;
+
+analisi economica;
+
+teoria e politica dello sviluppo economico;
+
+statistica economica;
+
+tecnica industriale e commerciale;
+
+storia della scienza;
+
+economia e politica creditizia;
+
+relazioni industriali;
+
+organizzazione del lavoro;
+
+diritto delle societa';
+
+diritto bancario;
+
+diritto delle assicurazioni.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 14 marzo 1979
+
+PERTINI
+
+PEDINI
+
+Visto, il Guardasigilli: MORLINO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 12 giugno 1979 Registro n. 46 Istruzione, foglio n. 107
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA   
   
+Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Nel titolo IX, il punto 1. - Laurea in matematica (indirizzo didattico) e l'art. 24, concernente l'ordinamento di tale corso di laurea, sono soppressi e sostituiti come segue:   
+Decreta:   
   
-1. - LAUREA IN MATEMATICA   
-(indirizzi didattico ed applicativo)   
-Art. 24. - Titoli di ammissione al corso di laurea in matematica sono quelli stabiliti dall'[art. 1 della legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1). I corsi di studio si distinguono in due indirizzi: didattico e applicativo. Gli insegnamenti sono i seguenti:   
-  
-Insegnamenti fondamentali   
-1° BIENNIO (comune ai due indirizzi).   
-1° Anno:   
-1) analisi matematica I;   
-2) geometria I;   
-3) algebra;   
-4) fisica generale I.   
-2° Anno:   
-5) analisi matematica II;   
-6) geometria II;   
-7) fisica generale II;   
-8) meccanica razionale.   
-Per ciascuno degli insegnamenti sopra elencati vi e' un esame finale.   
-Gli insegnamenti fondamentali sopra elencati sono accompagnati ciascuno da un corso di esercitazioni che ne e' parte integrante.   
-I corsi di analisi matematica, di geometria, di fisica generale non devono essere considerati come dei comuni corsi biennali; essi constano ciascuno di due parti annuali distinte, la prima propedeutica alla seconda; e con esami distinti il primo propedeutico al secondo.   
-Potranno essere iscritti al secondo anno quegli studenti che abbiano superato almeno due degli esami di analisi matematica I, geometria I, algebra.   
-2° BIENNIO (insegnamenti comuni ai due indirizzi).   
-3° Anno:   
-9) istituzioni di analisi superiore;   
-10) istituzioni di geometria superiore;   
-11) istituzioni di fisica matematica.   
-Dovranno inoltre essere seguiti i seguenti corsi:   
-a) per l'indirizzo didattico:   
-12) matematiche elementari da un punto di vista superiore;   
-b) per l'indirizzo applicativo:   
-12) teoria ed applicazioni delle macchine calcolatrici.   
-4° Anno:   
-a) per l'indirizzo didattico:   
-13) matematiche complementari;   
-14-15) due insegnamenti complementari di cui almeno uno ad   
-indirizzo fisico (fra quelli effettivamente impartiti di anno in anno);   
-b) per l'indirizzo applicativo:   
-13) analisi numerica;   
-14-15) due insegnamenti complementari di cui almeno uno   
-ad indirizzo fisico (fra quelli effettivamente impartiti di anno in anno).   
-Insegnamenti complementari:   
-a) per l'indirizzo didattico:   
-1) chimica con esercitazioni di laboratorio (per   
-fisici);   
-2) elaboratori elettronici;   
-3) fisica superiore;   
-4) istituzioni di fisica teorica;   
-5) logica matematica;   
-6) matematica finanziaria attuariale;   
-7) pedagogia delle scienze matematiche, fisiche e   
-naturali;   
-8) statistica matematica;   
-9) storia della matematica;   
-10) struttura della materia;   
-11) algebra superiore;   
-12) analisi funzionale;   
-13) geometria differenziale;   
-14) topologia;   
-15) meccanica superiore;   
-16) preparazione di esperienze didattiche;   
-b) per l'indirizzo applicativo:   
-1) statistica matematica;   
-2) calcolo delle probabilita';   
-3) economia matematica;   
-4) biomatematica;   
-5) logica matematica;   
-6) matematica finanziaria attuariale;   
-7) ricerca operativa;   
-8) teoria dei linguaggi;   
-9) teoria dei sistemi;   
-10) fisica matematica;   
-11) meccanica superiore.   
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti previsti dall'ordinamento dell'indirizzo prescelto.   
+Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 11 - all'elenco degli insegnamenti complementari del corso di laurea in scienze politiche sono aggiunti i seguenti:   
+psicologia politica;   
+diritto dei collegi rappresentativi;   
+storia e legislazione delle istituzioni scolastiche;   
+storia delle istituzioni militari;   
+storia dell'organizzazione internazionale;   
+logica;   
+ecologia;   
+economia e politica del lavoro;   
+legislazione sociale;   
+analisi economica;   
+teoria e politica dello sviluppo economico;   
+statistica economica;   
+tecnica industriale e commerciale;   
+storia della scienza;   
+economia e politica creditizia;   
+relazioni industriali;   
+organizzazione del lavoro;   
+diritto delle societa';   
+diritto bancario;   
+diritto delle assicurazioni.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 ottobre 1982
+### Dato a Roma, addi' 14 marzo 1979
 
-PERTINI BODRATO
+PERTINI PEDINI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 10 gennaio 1983
+Registrato alla Corte dei conti, addi' 12 giugno 1979
 
-Registro n. 1 Istruzione, foglio n. 24
+Registro n. 46 Istruzione, foglio n. 107

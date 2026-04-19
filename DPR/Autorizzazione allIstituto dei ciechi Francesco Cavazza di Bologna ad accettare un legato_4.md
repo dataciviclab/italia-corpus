@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 dicembre 1949 n. 1187
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1951 n. 1776
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 dicembre 1949 n. 1187
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1951 n. 1776
 ================================================================
 
 Autorizzazione all'Istituto dei ciechi "Francesco Cavazza" di Bologna ad accettare un legato.
@@ -12,7 +12,8 @@ Art. 1
 
 N.
 
-1187. Decreto del Presidente della Repubblica 22 dicembre 1949, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto dei ciechi "Francesco Cavazza" di Bologna viene autorizzato ad accettare un legato di L. 50.000 (lire cinquantamila) disposto in suo favore dalla defunta signorina Tommasini Margherita fu Giuseppe, con testamento olografo 27 ottobre 1948.  
+1776. Decreto del Presidente della Repubblica 24 dicembre 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto dei ciechi "Francesco Cavazza" di Bologna, viene autorizzato ad accettare un legato consistente in fabbricati e terreni per un valore approssimativo di L. 15.000.000 disposto in suo favore dalla defunta signora Giustina Sacerdoti detta Haydie', fu Ercole, coniugata Momigliano, con testamento olografo in data 2 gennaio 1947.  
   
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 6 giugno 1950
+Visto, il Guardasigilli: ZOLI  
+Registrato alla Corte dei conti, addi' 14 marzo 1952  
+Atti del Governo, registro n. 50, foglio n. 88. - CARLOMAGNO

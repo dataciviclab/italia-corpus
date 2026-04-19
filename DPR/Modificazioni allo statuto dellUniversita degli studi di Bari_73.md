@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1977 n. 481
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1089
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1977 n. 481
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1089
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,17 +10,17 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Bari approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -30,181 +30,135 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 191 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica.
+Art. 174. - All'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia e' aggiunta la scuola in "Nefrologia medica". Dopo l'art. 223 e' aggiunto il seguente nuovo articolo relativo alla istituzione della scuola di specializzazione in "Nefrologia medica".
 
-L'art. 246, secondo comma, relativo alla scuola di specializzazione in oculistica, e' modificato nel senso che il numero degli iscritti e' stabilito in trentadue per i quattro anni di corso (otto per ogni anno di corso).
+Scuola di specializzazione in nefrologia medica
 
-Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica.
+Art. 224. - La scuola e' annessa all'istituto di patologia medica.
 
-Scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica.
+Il corso di studi per il conseguimento del diploma di specialista ha la durata di tre anni.
 
-La scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica che conferisce il titolo di specialista in medicina preventiva dei lavoratori e psicotecnica a laureati in medicina e chirurgia, e' istituita presso l'istituto di medicina del lavoro dell'Universita' di Bari. La direzione della scuola e' affidata al titolare di medicina del lavoro di detta Universita'. La scuola dispone delle attrezzature e delle opportunita' didattiche dell'istituto di medicina del lavoro.
+Il numero massimo complessivo degli iscritti non potra' superare quello di venti.
 
-Inoltre potra' disporre delle attrezzature di istituti i cui docenti collaboreranno allo svolgimento dei nuovi insegnamenti.
+Nel caso che le domande eccedano il numero previsto per gli iscritti alla scuola, la selezione verra' fatta mediante concorso da parte di una commissione presieduta dal direttore della scuola (graduatoria per titoli ed esami). Non sono ammesse abbreviazioni di corso per alcun motivo.
 
-Art. 266. - Durante il corso, che ha la durata di tre anni, le lezioni relative alle materie indicate nel piano verranno integrate da esercitazioni di ricerca diagnostica differenziale, di ricerca ecologica, di valutazione medico-biologica e di controllo tecnico dei limiti di sicurezza del lavoro. Tali esercitazioni saranno collegate a visite didattiche negli ambienti di lavoro.
+La direzione della scuola sara' affidata al direttore dell'istituto di patologia medica.
 
-La frequenza alle lezioni, alle esercitazioni ed alle visite negli ambienti di lavoro e' obbligatoria secondo le modalita' che saranno enunciate dalla direzione del corso e avranno per fine la programmazione e la organizzazione pratica della medicina preventiva dei lavoratori e psicotecnica nel lavoro agricolo, artigianale e industriale. Al terzo anno di corso le esercitazioni si svolgeranno sotto forma di ricerca di gruppo interdisciplinare per la costruzione e la validazione di modelli operativi.
-
-Art. 267. - Il numero massimo degli iscritti e' di venti per anno di corso. La selezione dei candidati aspiranti all'ammissione avverra' per titoli ed esami.
-
-Art. 268. - Alla fine di ogni anno i medici chirurghi specializzandi che abbiano ottenuto la firma di frequenza, dovranno sostenere un esame di profitto nelle materie di insegnamento annuale.
-
-Art. 269. - L'esame di diploma consiste nella discussione di una dissertazione scritta su un argomento di medicina preventiva dei lavoratori e psicotecnica che deve essere approvato dalla direzione della scuola; la dissertazione deve essere presentata per l'approvazione almeno un mese prima delle prove di esame. Le commissioni per gli esami di profitto e gli esami di diploma saranno nominate secondo le norme generali.
-
-Il piano di studi e' il seguente:
+Gli insegnamenti impartiti sono i seguenti:
 
 1° Anno:
 
-dottrina generale della medicina preventiva;
+Struttura ed ultrastruttura normale del rene;
 
-dottrina generale della medicina preventiva dei lavoratori e psicotecnica.
+Aspetti biochimici della funzione renale;
 
-2° Anno:
+Fisiologia renale;
 
-ecologia umana ed ecologia medica dei lavoratori;
+Semeiologia renale (fisica, radiologica, funzionale);
 
-tossicologia dei lavoratori;
+Microbiologia ed immunologia applicate alla nefrologia;
 
-basi biologiche, cliniche, medico-legali per l'abilitazione e la riabilitazione al lavoro specifico;
-
-definizione biologica, medica, psicofisiologica dei limiti di sicurezza consentiti nel lavoro.
-
-3° Anno:
-
-organizzazione e metodologia della medicina preventiva dei lavoratori e psicotecnica in funzione dei rischi connessi al lavoro nell'uomo e nella donna nell'eta' evolutiva, nell'eta' adulta e nella senescenza.
-
-Il piano di studio sara' svolto mediante le seguenti materie di insegnamento:
-
-1° Anno:
-
-1) basi biologiche cliniche della medicina preventiva (evoluzione del processo scientifico e costituzione di modelli operativi in medicina preventiva);
-
-2) elementi di organizzazione artigianale, agricola, industriale, (aggiornamento sul valore e sul significato culturale e socio-economico della organizzazione del lavoro agli effetti della salute dei lavoratori);
-
-3) fisiologia della capacita' del lavoro e della fatica (teoria della fatica, fatica ischemica; fattori condizionati di origine endogena ed esogena);
-
-4) psicologia e psicofisiologia della capacita' del lavoro e della fatica (teorie sulla motivazione; fatica sensoriale, fatica mentale; vigilanza);
-
-5) capacita' di lavorare e fatica nella malattia (malattie metaboliche, endocrine, neurologiche, sensoriali, ecc.);
-
-6) basi biologiche cliniche nella medicina preventiva dei lavoratori e psicotecnica (evoluzione del processo scientifico e costituzione dei modelli operativi in medicina preventiva dei lavoratori e psicotecnica).
+Struttura ed ultrastruttura patologica del rene.
 
 2° Anno:
 
-1) effetti dei fattori ambientali sui sistemi biologici (mutageni);
+Patologia del ricambio idro-salino;
 
-2) analisi dei sistemi in ecologia umana;
+Insufficienza renale acuta e cronica;
 
-3) ecologia medica dei lavoratori (distribuzione delle malattie dei lavoratori in rapporto alla natura del loro lavoro);
+Nefropatie glomerulari;
 
-4) tossicologia dei lavoratori morfologica, metabolica e comportamentale;
+Nefropatie tubulari;
 
-5) basi biologiche e cliniche per l'abilitazione e la riabilitazione dal lavoro;
+Farmacologia d'interesse nefrologico;
 
-6) basi medico-legali per l'abilitazione e la riabilitazione al lavoro;
-
-7) definizione biologica, medica psicofisiologica dei limiti di sicurezza consentiti nel lavoro.
+Terapia dietetica e dialitica (I corso).
 
 3° Anno:
 
-1) controllo tecnico e medico dei limiti di sicurezza consentiti nei posti di lavoro e prevenzione della tossicologia dei lavoratori;
+Nefropatie interstiziali;
 
-2) controllo tecnico e medico degli scambi di energia e prevenzione della fatica dei lavoratori;
+Nefropatie malformative e neoplastiche;
 
-3) controllo psicofisiologico per la prevenzione della patologia sensoriale e della psicopatologia dei lavoratori;
+Nefropatie vascolari;
 
-4) controllo medico della sicurezza del lavoro e prevenzione degli infortuni dei lavoratori;
+Terapia dietetica e dialitica (II corso)
 
-5) organizzazione e metodologia della prevenzione medica in funzione dei rischi connessi al lavoro nell'uomo e nella donna in eta' evolutiva, in eta' adulta e nella senescenza.
+Terapia generale delle nefropatie (antibiotica, antireattiva, sintomatica).
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 25 maggio 1977
+Dato a Roma, addi' 31 ottobre 1969
 
-LEONE
+SARAGAT
 
-MALFATTI
+FERRARI AGGRADI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GAVA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 28 luglio 1977 Registro n. 88 Istruzione, foglio n. 395
+alla Corte dei conti, addi' 19 gennaio 1970 Atti del Governo, registro n. 231, foglio n. 39. - CARUSO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Bari approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 191 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica.   
-L'art. 246, secondo comma, relativo alla scuola di specializzazione in oculistica, e' modificato nel senso che il numero degli iscritti e' stabilito in trentadue per i quattro anni di corso (otto per ogni anno di corso).   
-Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica.   
-Scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica.   
-La scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica che conferisce il titolo di specialista in medicina preventiva dei lavoratori e psicotecnica a laureati in medicina e chirurgia, e' istituita presso l'istituto di medicina del lavoro dell'Universita' di Bari. La direzione della scuola e' affidata al titolare di medicina del lavoro di detta Universita'. La scuola dispone delle attrezzature e delle opportunita' didattiche dell'istituto di medicina del lavoro.   
-Inoltre potra' disporre delle attrezzature di istituti i cui docenti collaboreranno allo svolgimento dei nuovi insegnamenti.   
-Art. 266. - Durante il corso, che ha la durata di tre anni, le lezioni relative alle materie indicate nel piano verranno integrate da esercitazioni di ricerca diagnostica differenziale, di ricerca ecologica, di valutazione medico-biologica e di controllo tecnico dei limiti di sicurezza del lavoro. Tali esercitazioni saranno collegate a visite didattiche negli ambienti di lavoro.   
-La frequenza alle lezioni, alle esercitazioni ed alle visite negli ambienti di lavoro e' obbligatoria secondo le modalita' che saranno enunciate dalla direzione del corso e avranno per fine la programmazione e la organizzazione pratica della medicina preventiva dei lavoratori e psicotecnica nel lavoro agricolo, artigianale e industriale. Al terzo anno di corso le esercitazioni si svolgeranno sotto forma di ricerca di gruppo interdisciplinare per la costruzione e la validazione di modelli operativi.   
-Art. 267. - Il numero massimo degli iscritti e' di venti per anno di corso. La selezione dei candidati aspiranti all'ammissione avverra' per titoli ed esami.   
-Art. 268. - Alla fine di ogni anno i medici chirurghi specializzandi che abbiano ottenuto la firma di frequenza, dovranno sostenere un esame di profitto nelle materie di insegnamento annuale.   
-Art. 269. - L'esame di diploma consiste nella discussione di una dissertazione scritta su un argomento di medicina preventiva dei lavoratori e psicotecnica che deve essere approvato dalla direzione della scuola; la dissertazione deve essere presentata per l'approvazione almeno un mese prima delle prove di esame. Le commissioni per gli esami di profitto e gli esami di diploma saranno nominate secondo le norme generali.   
-Il piano di studi e' il seguente:   
-1° Anno:   
-dottrina generale della medicina preventiva;   
-dottrina generale della medicina preventiva dei lavoratori e psicotecnica.   
-2° Anno:   
-ecologia umana ed ecologia medica dei lavoratori;   
-tossicologia dei lavoratori;   
-basi biologiche, cliniche, medico-legali per l'abilitazione e la riabilitazione al lavoro specifico;   
-definizione biologica, medica, psicofisiologica dei limiti di sicurezza consentiti nel lavoro.   
-3° Anno:   
-organizzazione e metodologia della medicina preventiva dei lavoratori e psicotecnica in funzione dei rischi connessi al lavoro nell'uomo e nella donna nell'eta' evolutiva, nell'eta' adulta e nella senescenza.   
-Il piano di studio sara' svolto mediante le seguenti materie di insegnamento:   
-1° Anno:   
-1) basi biologiche cliniche della medicina preventiva (evoluzione del processo scientifico e costituzione di modelli operativi in medicina preventiva);   
-2) elementi di organizzazione artigianale, agricola, industriale, (aggiornamento sul valore e sul significato culturale e socio-economico della organizzazione del lavoro agli effetti della salute dei lavoratori);   
-3) fisiologia della capacita' del lavoro e della fatica (teoria della fatica, fatica ischemica; fattori condizionati di origine endogena ed esogena);   
-4) psicologia e psicofisiologia della capacita' del lavoro e della fatica (teorie sulla motivazione; fatica sensoriale, fatica mentale; vigilanza);   
-5) capacita' di lavorare e fatica nella malattia (malattie metaboliche, endocrine, neurologiche, sensoriali, ecc.);   
-6) basi biologiche cliniche nella medicina preventiva dei lavoratori e psicotecnica (evoluzione del processo scientifico e costituzione dei modelli operativi in medicina preventiva dei lavoratori e psicotecnica).   
-2° Anno:   
-1) effetti dei fattori ambientali sui sistemi biologici (mutageni);   
-2) analisi dei sistemi in ecologia umana;   
-3) ecologia medica dei lavoratori (distribuzione delle malattie dei lavoratori in rapporto alla natura del loro lavoro);   
-4) tossicologia dei lavoratori morfologica, metabolica e comportamentale;   
-5) basi biologiche e cliniche per l'abilitazione e la riabilitazione dal lavoro;   
-6) basi medico-legali per l'abilitazione e la riabilitazione al lavoro;   
-7) definizione biologica, medica psicofisiologica dei limiti di sicurezza consentiti nel lavoro.   
-3° Anno:   
-1) controllo tecnico e medico dei limiti di sicurezza consentiti nei posti di lavoro e prevenzione della tossicologia dei lavoratori;   
-2) controllo tecnico e medico degli scambi di energia e prevenzione della fatica dei lavoratori;   
-3) controllo psicofisiologico per la prevenzione della patologia sensoriale e della psicopatologia dei lavoratori;   
-4) controllo medico della sicurezza del lavoro e prevenzione degli infortuni dei lavoratori;   
-5) organizzazione e metodologia della prevenzione medica in funzione dei rischi connessi al lavoro nell'uomo e nella donna in eta' evolutiva, in eta' adulta e nella senescenza.   
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 174. - All'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia e' aggiunta la scuola in "Nefrologia medica". Dopo l'art. 223 e' aggiunto il seguente nuovo articolo relativo alla istituzione della scuola di specializzazione in "Nefrologia medica".  
+  
+Scuola di specializzazione in nefrologia medica  
+  
+Art. 224. - La scuola e' annessa all'istituto di patologia medica.  
+Il corso di studi per il conseguimento del diploma di specialista ha la durata di tre anni.  
+Il numero massimo complessivo degli iscritti non potra' superare quello di venti.  
+Nel caso che le domande eccedano il numero previsto per gli iscritti alla scuola, la selezione verra' fatta mediante concorso da parte di una commissione presieduta dal direttore della scuola (graduatoria per titoli ed esami). Non sono ammesse abbreviazioni di corso per alcun motivo.  
+La direzione della scuola sara' affidata al direttore dell'istituto di patologia medica.  
+Gli insegnamenti impartiti sono i seguenti:  
+1° Anno:  
+Struttura ed ultrastruttura normale del rene;  
+Aspetti biochimici della funzione renale;  
+Fisiologia renale;  
+Semeiologia renale (fisica, radiologica, funzionale);  
+Microbiologia ed immunologia applicate alla nefrologia;  
+Struttura ed ultrastruttura patologica del rene.  
+2° Anno:  
+Patologia del ricambio idro-salino;  
+Insufficienza renale acuta e cronica;  
+Nefropatie glomerulari;  
+Nefropatie tubulari;  
+Farmacologia d'interesse nefrologico;  
+Terapia dietetica e dialitica (I corso).  
+3° Anno:  
+Nefropatie interstiziali;  
+Nefropatie malformative e neoplastiche;  
+Nefropatie vascolari;  
+Terapia dietetica e dialitica (II corso)  
+Terapia generale delle nefropatie (antibiotica, antireattiva, sintomatica).  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 maggio 1977
+### Dato a Roma, addi' 31 ottobre 1969
 
-LEONE MALFATTI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 28 luglio 1977
+Registrato alla Corte dei conti, addi' 19 gennaio 1970
 
-Registro n. 88 Istruzione, foglio n. 395
+Atti del Governo, registro n. 231, foglio n. 39. - CARUSO

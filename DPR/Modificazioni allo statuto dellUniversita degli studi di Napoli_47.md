@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1171
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1963 n. 611
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1171
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1963 n. 611
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,309 +10,122 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che presso la seconda facolta' di medicina e chirurgia sono istituite le seguenti scuole di specializzazione:   
-Ostetricia e ginecologia;   
-Ortopedia e traumatologia;   
-Scienza dell'alimentazione;   
-Tecnologie biomediche;   
-Tossicologia medica;   
-Terapia fisica e riabilitazione.   
-Dopo l'art. 487, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in ostetricia e ginecologia, ortopedia e traumatologia, scienza dell'alimentazione, tecnologie biomediche, tossicologia medica, terapia fisica e riabilitazione.   
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
+Gli articoli 300 e 301 relativi alla Scuola di specializzazione in Radiologia ed elettroterapia sono abrogati e sostituti dai seguenti.  
   
-Scuola di specializzazione in ostetricia e ginecologia   
+Scuola di specializzazione in Radiologia medica  
+e medicina nucleare  
+Art. 300. - La Scuola ha la durata di tre anni. Il numero massimo degli iscritti e' di dodici per ogni anno di corso.  
+Gli insegnamenti impartiti nella Scuola sono:  
+1° Anno:  
+1) Elettrologia e Fisica delle radiazioni;  
+2) Tecnica radiografica;  
+3) Anatomia e fisiologia radiologica;  
+4) Semeiologia radiologica (biennale).  
+2° Anno:  
+1) Radiobiologia;  
+2) Semeiologia radiologica;  
+3) Diagnostica radiologica dell'apparato locomotore;  
+4) Diagnostica radiologica dell'apparato respiratorio e cardio-vascolare:  
+5) Diagnostica radiologica dell'apparato digerente e ghiandolare annesse;  
+6) Radioterapia clinica (biennale) (Raggi X sostanze radioattive normali ed isotopoterapia);  
+7) Terapia fisica.  
+3° Anno:  
+1) Diagnostica radiologica in craniologia Rontgen;  
+2) Diagnostica radiologica dell'apparato urogenitale;  
+3) Radioterapia clinica;  
+4) Patologia da radiazioni e protezioni.  
+Gli insegnamenti saranno completati da esercitazioni pratiche e possono essere integrate da conferenze su argomenti di particolare interesse e novita' affidate anche a cultori della materia estranei al corpo insegnante della Scuola.  
+Art. 301. - Gli esami di profitto sono dati per singola materia alla fine di ciascun anno.  
+Alla fine del corso gli iscritti, oltre a presentare la dissertazione scritta e sostenere la relativa discussione a norma dell'art. 283 devono sostenere una prova pratica.  
+Dopo l'art. 389 relativo alla Scuola di specializzazione in Chirurgia vascolare sono inseriti, con il conseguente spostamento della numerazione degli articoli successivi, gli articoli concernenti l'istituzione della Scuola di specializzazione in "Semeiotica e diagnostica di laboratorio" e della Scuola per ortottiste (Scuola diretta a fini speciali).  
   
-Art. 488. - Alla seconda facolta' di medicina e chirurgia dell'Universita' degli studi di Napoli e' annessa la scuola di specializzazione in ostetricia e ginecologia con sede presso la cattedra di clinica ostetrica e ginecologica ed e' diretta dal titolare della cattedra medesima.   
-La durata della scuola e' di quattro anni.   
-Il numero degli allievi da ammettere non puo' essere superiore a dieci per ogni anno.   
-L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami.   
-Sono da considerarsi titoli preferenziali, a parita' di risultato dell'esame di ammissione:   
-A) il voto di laurea in medicina e chirurgia;   
-B) aver frequentato come studente interno una clinica ostetrica e ginecologica;   
-C) aver svolto la tesi di laurea nella clinica ostetrica e ginecologica;   
-D) documentazione di eventuali servizi prestati in grossi reparti ospitalieri della specialita';   
-E) eventuali pubblicazioni inerenti la specialita';   
-L'esame di ammissione deve espletarsi entro il mese di dicembre.   
-Non sono consentite abbreviazioni di corso.   
+Scuola di specializzazione in semeiotica  
+e diagnostica di laboratorio  
+Art. 390. - La Scuola di specializzazione in Semeiotica e diagnostica di laboratorio, ha la durata di due anni. Possono ottenere la iscrizione alla Scuola, previo esame di ammissione, i laureati in Medicina e chirurgia.  
+Il numero massimo degli iscritti e' di dodici per ogni anno di corso.  
+Art. 391. - La Scuola e' costituita presso l'Istituto di semeiotica, medica dell'Universita' di Napoli, ed e' posta sotto la direzione del titolare della cattedra di Semeiotica medica, coadiuvato da docenti particolarmente competenti nelle singole branche.  
+Il materiale didattico e' rappresentato dalle attrezzature scientifiche e dalla biblioteca dell'Istituto e di altri Istituti nei quali avranno sede lezioni ed esercitazioni.  
+Il corso si compone di insegnamenti fondamentali, di esercitazioni pratiche di laboratorio e da conferenze su argomenti di particolare interesse.  
+La frequenza alle conferenze e' obbligatoria.  
+Art. 392. - Gli iscritti debbono, durante l'anno accademico, frequentare i laboratori specializzati dello Istituto di Semeiotica medica e degli altri Istituti sede di insegnamento per branche singole.  
+Alla fine di ogni anno accademico gli specializzandi dovranno sostenere gli esami di profitto nelle materie di insegnamento di ciascun anno.  
+L'iscrizione al secondo anno avviene previo superamento degli esami del primo anno di corso.  
+Su proposta del direttore della Scuola potra' concedersi l'iscrizione diretta al secondo anno agli aiuti e agli assistenti delle cliniche universitarie e degli ospedali di 1ª categoria, sempre previo superamento degli esami del primo anno di corso.  
+Al termine del corso gli specializzandi dovranno presentare una dissertazione scritta su un argomento di Semeiotica funzionale e di Tecnica di laboratorio e sostenere la relativa discussione.  
+Art. 393. - Gli insegnamenti da impartire sono i seguenti:  
+1° Anno:  
+1) Legislazione sanitarie ed organizzazioni inerenti alla pratica di un laboratorio di analisi applicate alla clinica (Responsabilita' professionale da errore diagnostico - Semeiotica medico-forense di laboratorio);  
+2) Chimica e fisica applicate alla diagnostica di laboratorio (metodiche generali e particolari riguardanti i liquidi biologici);  
+3) Ematologia (morfologia del sangue e degli organi sanguigni, delle prove emogeniche, della velocita' di entrosedimentazione, della labilita' colloidale del siero e della massa sanguigna circolante);  
+4) Batteriologia e sierologia (generalita' di tecnica e di identificazione degli agenti di infezione, allestimenti di autovaccini. Premesse di tecnica sierologica, agglutinazioni sierodiagnostiche e batterio-diagnostiche, altre reazioni diagnosticamente importanti sul siero e su altri liquories);  
+5) Virologia (isolamento di virus, fissazione del complemento con antigeni virali, determinazione di enzimi plasmatici di interesse diagnostico, determinazioni di anticorpi neutralizzati serici)  
+6) Parassitologia (parassiti ematici, intestinali, elmiti intestinali rari, acari);  
+7) Prove biologiche e norme di stabilizzazione degli animali da esperimento.  
+2° Anno:  
+1) Semeiotica analitica e funzionale applicata al sangue, organi emopoietici, immunoematologia e coagulazione;  
+2) Semeiotica analitica e funzionale applicate alle malattie del fegato, vie biliari, pancreas esocrino e tubo digerente;  
+3) Semeiotica analitica e funzionale applicate alle malattie dell'apparato respiratorio e cardiovascolare:  
+4) Semeiotica analitica e funzionale applicate alle malattie endocrine e del ricambio (glicidico, azotato, protidico, lipidico, minerale, idrosalino, porfirinico, vitaminico ed enzimatico);  
+5) Semeiotica analitica e funzionale applicate alle malattie del rene  
+6) Semeiotica analitico-funzionale applicate alle malattie nervose e mentali;  
+7) Cito e Istopatologia bioptica;  
+8) Nozioni elementari di tisica nucleare applicate alle indagini cliniche.  
   
-Art. 489. - Le materie di insegnamento sono:   
+Scuola per ortottiste (Scuola diretta a fini speciali)  
+Art. 394. - La Scuola speciale per Ortottiste ha sede presso la Clinica oculistica dell'Universita' di Napoli.  
+La durata del corso per il conseguimento del diploma di Ortottiste e' di due anni.  
+La Scuola ha lo scopo di preparare le allieve perche' possano coadiuvare i medici oculisti nel campo della diagnosi e della terapia dei difetti di rifrazione, dei disturbi della motilita' oculare in genere ed in particolare dell'ambliopia.  
+Art. 395. - Possono essere ammesse alla Scuola allieve in possesso del titolo di studio prescritto per la ammissione alla Universita' (preferibilmente diploma di maturita' classica o scientifica o di abilitazione magistrale).  
+Art. 396. - Il numero dei posti e' limitato a quattro.  
+Chi aspira alla iscrizione al 1° anno, dovra' sostenere un esame di ammissione consistente in una prova di cultura generale, dinanzi ad una Commissione composta di tre professori ufficiali della Facolta', tra cui il direttore della Scuola.  
+Art. 397. - Il direttore della Scuola e' di diritto il titolare della cattedra di Clinica oculistica.  
+Gli insegnanti della Scuola sono designati dal Consiglio della Facolta' di medicina e chirurgia, su proposta del direttore della Scuola e nominati dal rettore.  
+Art. 398. - Le materie di insegnamento sono:  
+1° Anno:  
+Anatomia e fisiologia generale;  
+Anatomia e fisiologia dell'apparato oculare;  
+Ottica, fisica e fisiologica, vizi di rifrazione;  
+Ortottica.  
+2° Anno:  
+Ortottica;  
+Elementi di patologia oculare;  
+Nozioni di infermieristica oculare.  
+Le allieve devono sostenere gli esami alla fine di ciascun anno.  
+Esse hanno l'obbligo di frequenza alle lezioni teoriche ed alle esercitazioni pratiche e devono prestare regolare servizio nel reparto di ortottica della Clinica.  
+Art. 399. - Per essere ammesso a sostenere l'esame di diploma le allieve dovranno aver seguito i corsi e superato gli esami in tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole tutte le esercitazioni pratiche previste.  
+Art. 400. - Le Commissioni per gli esami di profitto sono nominate dal preside della Facolta' di medicina e chirurgia, su proposta del direttore della Scuola. Esse sono composte del professore ufficiale della materia, presidente, di un professore ufficiale di materia affine e di un libero docente o cultore della materia.  
+Art. 401. - L'esame per il conseguimento diploma di ortottista consiste in un colloquio su di un tema preventivamente assegnato dal direttore della Scuola, dinanzi ad una Commissione di cinque membri composta del direttore della Scuola e di altri quattro membri, designati dal preside della Facolta' di medicina, e chirurgia, scelti fra gli insegnanti della Scuola.  
   
-1° Anno:   
-1) Elementi di genetica e eugenica;   
-2) Anatomia normale ed embriologia dell'apparato genitale femminile;   
-3) Fisiologia dell'apparato genitale femminile;   
-4) Endocrinologia ginecologica;   
-5) Fisiologia ostetrica;   
-6) Diagnostica ostetrica;   
-7) Clinica ostetrica e ginecologica.   
-  
-2° Anno:   
-1) Tecnica operatoria ostetrica;   
-2) Diagnostica ginecologica;   
-3) Tecnica diagnostica di laboratorio nel campo ostetrico-ginecologico, esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);   
-4) Clinica ostetrica e ginecologica.   
-  
-3° Anno:   
-1) Anatomia patologica ostetrica e ginecologica;   
-2) Istologia normale e patologica nel campo delle specialita';   
-3) Puericultura prenatale;   
-4) Emoterapia nel campo ostetrico e ginecologico;   
-5) Anestesia e analgesia nel campo ostetrico e ginecologico;   
-6) Tecnica operatoria ostetrica e ginecologica;   
-7) Clinica ostetrica e ginecologica;   
-8) Terapia medica ostetrica e ginecologica.   
-  
-4° Anno:   
-1) Puericultura postnatale e malattie del neonato;   
-2) Ostetricia e ginecologia forense;   
-3) Diagnostica roengten, radioterapia in ostetricia e ginecologia;   
-4) Clinica ostetrica e ginecologica (esame alla fine del 4° anno);   
-5) Urologia ginecologica;   
-6) Chirurgia addominale ed extra addominale.   
-  
-Art. 490. - Nessun titolo puo' esonerare dalla frequenza gli iscritti nei 4 anni di corso. Gli iscritti, oltre all'obbligo di frequenza delle lezioni, esercitazioni, seminari, ecc., devono prestare servizio analogo a quello degli assistenti per non meno di 10 mesi all'anno.   
-La scelta dei mesi di permesso e' in facolta' del consiglio della scuola, a seconda dell'epoca delle lezioni e delle esigenze di servizio nella clinica.   
-La frequenza degli iscritti deve essere convalidata e confermata dalla firma degli insegnanti delle rispettive materie.   
-  
-Art. 491. - Gli iscritti alla scuola debbono sostenere esami annuali di profitto e l'esame finale di diploma. La sessione di esami di profitto e' unica, ed e' espletata nel mese di ottobre.   
-Non puo' essere iscritto all'anno successivo di corso chi non abbia superato le materie fondamentali della specialita'.   
-Gli esami di profitto si danno per gruppi di materie alla fine di ciascun anno di corso ed i membri delle commissioni sono proposti dal direttore della scuola.   
-Al termine dei quattro anni di corso per il conseguimento del diploma, gli iscritti devono presentare e discutere una dissertazione scritta con contributo personale.   
-  
-Art. 492. - A giudizio del consiglio della scuola, formulato sulla base del rendimento di ogni iscritto, gli specializzandi potranno essere esonerati dal pagamento delle tasse universitarie.   
-  
-  
-Scuola di specializzazione in ortopedia e traumatologia   
-  
-Art. 493. - Alla seconda facolta' di medicina e chirurgia dell'Universita' degli studi di Napoli e' annessa la scuola di specializzazione in ortopedia e traumatologia, con sede presso la cattedra di clinica ortopedica ed e' diretta dal titolare della cattedra medesima.   
-La durata della scuola e di tre anni.   
-Il numero degli allievi da ammettere non puo' essere superiore a dieci per ogni anno.   
-L'ammissione alla scuola e' subordinata all'esito di una prova scritta di cultura medica generale con attinenza alla ortopedia ed alla valutazione del voto di laurea e dei voti conseguiti durante il corso di laurea in clinica ortopedica ed in patologia chirurgica.   
-  
-Art. 494. - La frequenza e' obbligatoria nella clinica sede della scuola per un periodo di nove mesi per ogni anno accademico.   
-E' in facolta' del consiglio della scuola di concedere una deroga a tale norma solo agli iscritti alle scuole che facciano parte di cliniche ortopediche che non abbiano la scuola di specializzazione e che siano assistenti di ruolo in divisioni di ortopedia e traumatologia di ospedali regionali; per queste due categorie di iscritti il periodo di frequenza presso l'istituto sede della scuola puo' essere ridotto fino a non meno di un mese ogni anno.   
-Per nessun motivo sono ammesse abbreviazioni della durata degli studi.   
-  
-Art. 495. - Le materie di insegnamento sono le seguenti:   
-  
-1° Anno:   
-1) Clinica ortopedica e traumatologica (triennale 1° anno);   
-2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale 1° anno);   
-3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale 1° anno);   
-4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale 1° anno);   
-5) Anatomia ed istologia dell'apparato locomotore;   
-6) Fisiologia dell'apparato locomotore;   
-7) Nozioni di chirurgia generale (8) Nozioni di pediatria.   
-  
-2° Anno:   
-1) Clinica ortopedica e traumatologica (triennale 2° anno);   
-2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale 2° anno);   
-3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale 2° anno);   
-4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale 20 anno);   
-5) Neuropatologia dell'apparato locomotore ed elettrodiagnostica;   
-6) Anatomia ed istologia patologica dell'apparato locomotore.   
-  
-3° Anno:   
-1) Clinica ortopedica e traumatologica (triennale 3° anno);   
-2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale 3° anno);   
-3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale 3° anno);   
-4) Apparato-terapia ortopedica;   
-5) Fisiochinesiterapia;   
-6) Infortunistica.   
-Tali insegnamenti sono ritenuti indispensabili per la preparazione dello specialista.   
-  
-Art. 496. - Gli esami si svolgeranno per singole materie. Gli esami di clinica ortopedica e traumatologica, di tecnica operatoria cruenta ed incruenta ortopedica e traumatologica, di radiodiagnostica, saranno teorici e pratici. Per l'ammissione al corso successivo e' obbligatorio il superamento degli esami delle materie di ciascun corso.   
-  
-  
-Scuola di specializzazione in scienza dell'alimentazione   
-  
-Art. 497. - Alla seconda facolta' di medicina e chirurgia dell'Universita' degli studi di Napoli e' annessa la scuola di specializzazione in scienza dell'alimentazione con sede presso la cattedra di fisiologia umana ed e' diretta dal titolare della cattedra medesima.   
-La durata della scuola e' di tre anni. Essa si articola in tre indirizzi:   
-1) Dietetico;   
-2) Nutrizionistico;   
-3) Tecnologico.   
-Il numero degli allievi da ammettere non puo' essere superiore a dieci per ogni anno.   
-Al primo indirizzo (dietetico), possono iscriversi i laureati in medicina e chirurgia.   
-Al secondo (nutrizionistico), i laureati in chimica, tecnologie farmaceutiche, farmacia, medicina e chirurgia, medicina veterinaria, scienze biologiche e scienze naturali.   
-All'indirizzo tecnologico, infine, i laureati in chimica, chimica e tecnologie farmaceutiche, ingegneria chimica, scienze agrarie, biologiche, scienza delle preparazioni alimentari.   
-L'ammissione avviene per titoli. Nel caso che le domande di ammissione superino il numero dei posti, l'ammissione avverra' per titoli ed esami.   
-  
-Art. 498. - Le materie di insegnamento sono le seguenti:   
-  
-1° Anno (comune ai tre indirizzi):   
-1) Chimica degli alimenti;   
-2) Biochimica della nutrizione;   
-3) Fisiologia generale della nutrizione;   
-4) Istituzione di statistica applicata ai problemi alimentari.   
-  
-2° Anno (comune ai tre indirizzi):   
-1) Fisiologia della nutrizione umana;   
-2) Igiene alimentare ed elementi della legislazione sanitaria;   
-3) Istituzione di tecnologia alimentare;   
-4) Biochimica patologica della nutrizione.   
-  
-3° Anno (distinto per i tre indirizzi):   
-Indirizzo dietetico:   
-1) Alimentazione umana;   
-2) Dietetica dell'eta' adulta;   
-3) Dietetica dell'infanzia;   
-4) Dietetica per le collettivita';   
-5) Malattie da alimentazione e dietoterapia;   
-6) Dietetica ospedaliera ed organizzazione dei relativi servizi.   
-Indirizzo nutrizionistico:   
-1) Alimentazione umana;   
-2) Alimentazione degli animali da allevamento e di laboratorio;   
-3) Ecologia e geografia dell'alimentazione;   
-4) Economia e statistica applicata all'alimentazione;   
-5) Tecnica dei rilevamenti alimentari;   
-6) Analisi chimica degli alimenti, additivi chimici, sofisticazioni ed adulterazioni alimentari.   
-Indirizzo tecnologico:   
-1) Microbiologia e chimica delle fermentazioni nella industria alimentare;   
-2) Tecnologie industriali di preparazione, conservazione e confezionamento degli alimenti di origine animale;   
-3) Tecnologie industriali di preparazione, conservazione e confezionamento degli alimenti di origine vegetale;   
-4) Analisi chimiche degli alimenti, additivi chimici, adulterazioni e sofisticazioni alimentari.   
-  
-Art. 499. - Gli iscritti hanno l'obbligo di frequentare le lezioni, le esercitazioni ed i seminari didattici, senza le attestazioni di frequenza non saranno ammessi a sostenere le prove di esame.   
-Per la iscrizione all'anno successivo e' obbligatorio aver sostenuto alla fine di ogni anno gli esami previsti dal piano di studio.   
-  
-Art. 500. - Per il conseguimento del diploma di specialista in scienza dell'alimentazione gli allievi, dopo aver superato gli esami del 3° corso, dovranno discutere una tesi scritta riguardante le materie e le ricerche svolte durante il corso.   
-  
-  
-Scuola di specializzazione in tecnologie biomediche   
-  
-Art. 501. - Alla seconda facolta' di medicina e chirurgia dell'Universita' degli studi di Napoli e' annessa la scuola di specializzazione in tecnologie biomediche, con sede presso la cattedra di fisiologia umana ed e' diretta dal titolare della cattedra medesima.   
-La durata della scuola e' di tre anni.   
-Il numero degli allievi da ammettere non puo' essere superiore a dieci per ogni anno.   
-Possono essere ammessi laureati in medicina e chirurgia, in ingegneria, in scienze biologiche ed in fisica e matematica.   
-L'ammissione avviene per titoli. Nel caso che le domande di ammissione superino il numero dei posti, l'ammissione avverra' per titoli ed esami.   
-  
-Art. 502. - Gli insegnamenti sono i seguenti:   
-  
-1° Anno:   
-a) Insegnamenti per ingegneri e fisici:   
-1) Biologia;   
-2) Anatomia;   
-3) Fisiologia.   
-b) Insegnamenti per medici, biologi, ingegneri, fisici e matematici;   
-1) Tecniche strumentali in medicina.   
-c) Insegnamenti per medici e biologi:   
-1) Principi di matematica e fisica I;   
-2) Complementi di fisiologia.   
-  
-2° Anno:   
-a) Insegnamenti per ingegneri e fisici:   
-1) Fisiopatologia.   
-b) Insegnamenti per medici, biologi, ingegneri, fisici e matematici:   
-1) Tecniche strumentali in medicina;   
-2) Rilievo, analisi ed interpretazione dei dati medico-biologici.   
-c) Insegnamenti per medici e biologi:   
-1) Principi di matematica e fisica II.   
-  
-3° Anno:   
-a) Insegnamenti per medici, biologi, ingegneri, fisici e matematici:   
-1) Organi artificiali;   
-2) Biochimica e materiali;   
-3) Principi di controllo dei sistemi medico-biologici;   
-4) Impianti ospedalieri.   
-Gli insegnamenti del terzo anno sono comuni.   
-  
-Art. 503. - Gli iscritti hanno l'obbligo di frequentare le lezioni, le esercitazioni ed i seminari didattici; in caso contrario non potranno conseguire le attestazioni di frequenza necessarie per essere ammessi a sostenere le prove di esame.   
-Il passaggio all'anno successivo sara' condizionato da superamento del colloquio che vertera' su una tesi sperimentale svolta collettivamente dagli allievi di ogni anno di corso.   
-  
-Art. 504. - Per il conseguimento del diploma di specialista in bio-ingegneria, gli allievi, dopo aver superato il colloquio del terzo anno di corso, dovranno discutere una tesi scritta riguardante le materie e le ricerche svolte durante l'intero corso di studio.   
-  
-  
-Scuola di specializzazione in tossicologia medica   
-  
-Art. 505. - Alla seconda facolta' di medicina e chirurgia dell'Universita' degli studi di Napoli e' annessa la scuola di specializzazione in tossicologia medica con sede presso la cattedra medesima.   
-La durata della scuola e' di tre anni.   
-Il numero degli allievi da ammettere non puo' essere superiore a cinque per ogni anno.   
-Per l'ammissione alla scuola i candidati dovranno dar prova di avere nozioni di cultura tossicologica.   
-  
-Art. 506. - Le materie di insegnamento sono cosi' suddivise nei tre anni di corso:   
-  
-1° Anno:   
-Chimica tossicologica con esercizi;   
-Tossicologia generale;   
-Tossicologia sperimentale con esercizi, I.   
-  
-2° Anno:   
-Tossicologia sistematica;   
-Cancerogenesi da agenti chimici;   
-Tossicologia sperimentale con esercizi, II;   
-Clinica e terapia delle malattie da agenti chimici, I;   
-Teratogenesi da agenti chimici.   
-  
-3° Anno:   
-Diagnostica chimica delle malattie da agenti chimici;   
-Clinica e terapia delle malattie da agenti chimici, II;   
-Tecniche di rianimazione: in tossicologia;   
-Legislazione in campo tossicologico.   
-L'allievo e' tenuto alla frequenza obbligatoria delle lezioni e delle esercitazioni relative, oltre a partecipare a ricerche concernenti problemi di tossicologia.   
-  
-Art. 507. - Durante i tre anni di frequenza alla scuola, tutti gli ammalati di interesse tossicologico che vengono ricoverati nelle cliniche della facolta' saranno seguiti o studiati dai laureati in medicina che sono iscritti al corso; casi interessanti di intossicazioni singole o collettive potranno essere oggetto di ricerche speciali e di pubblicazioni da parte di uno o piu' iscritti al corso, a seconda del giudizio del direttore.   
-  
-Art. 508. - Alla fine del 1°, 2° e 3° anno, avranno luogo esami speciali sugli insegnamenti impartiti e per ottenere il diploma i candidati dovranno superare un esame finale riassuntivo e discutere una tesi sperimentale (e clinica) su argomenti di tossicologia.   
-  
-  
-Scuola di specializzazione in terapia fisica e riabilitazione   
-  
-Art. 509. - Alla seconda facolta' di medicina e chirurgia dell'Universita' degli studi di Napoli e' annessa la scuola di specializzazione in terapia fisica e riabilitazione con sede presso la cattedra di clinica ortopedica ed e' diretta dal titolare della cattedra medesima.   
-La durata della scuola e' di tre anni.   
-Il numero degli allievi da ammettere non puo' essere superiore a quindici per ogni anno.   
-L'ammissione alla scuola e' subordinata all'esito di una prova scritta di cultura medica generale con attinenza alla terapia fisica e riabilitazione ed alla valutazione del voto di laurea e dei voti conseguiti durante il corso di laurea in clinica ortopedica.   
-  
-Art. 510. - La frequenza e' obbligatoria nella clinica sede della scuola per un periodo di 9 mesi per ogni anno accademico.   
-E' in facolta' del consiglio della scuola di concedere una deroga a tale norma solo agli iscritti alla scuola che facciano parte di cliniche ortopediche che non abbiano la scuola di specializzazione e che siano assistenti di ruolo in divisioni di ortopedia e traumatologia di ospedali di frequenza presso l'istituto sede della scuola puo' essere ridotto fino a non meno di un mese ogni anno.   
-Per nessun motivo sono ammesse abbreviazioni della durata degli studi.   
-  
-Art. 511. - Le materie di insegnamento sono le seguenti:   
-  
-1° Anno:   
-1) Principi di anatomia funzionale (propedeutico di tutte le materie di base degli anni successivi e per quelle facoltative);   
-2) Fisiopatologia dell'apparato neuro motore (come sopra);   
-  
-2° Anno:   
-1) Semeiotica e clinica delle motulesioni neurologiche (propedeutico per le materie dell'insegnamento di base del terzo anno);   
-2) Semeiotica e clinica delle deformita' e motulesioni ortopediche (come sopra);   
-3) Massoterapia, terapia manuale (chiroterapia);   
-4) Cinesiologia, cinesiterapia e ginnastica medica;   
-5) Idroterapia e balneoterapia.   
-  
-3° Anno:   
-1) Elettroterapia ed elettrologia;   
-2) Terapia con onde corte ed altri mezzi fisici;   
-3) Rieducazione motoria e riabilitazione in campo ortopedico e traumatologico;   
-4) Rieducazione motoria e riabilitazione in campo neurologico.   
-  
-Art. 512. - Gli esami si svolgeranno per singole materie.   
-Per l'ammissione al corso successivo e' obbligatorio il superamento degli esami della materia di ciascun corso.   
-  
-Art. 513. - Per conseguire il diploma di specialista, i candidati dovranno superare l'esame di diploma consistente nella dissertazione della tesi a stampa o dattiloscritta su argomento della specialita' dinnanzi alla commissione formata dal direttore della scuola e da sei membri del corpo insegnante della scuola stessa.   
+Art. 402. - Le tasse e soprattasse sono le seguenti:  
+Tassa annuale di iscrizione: L. 10.000;  
+Soprattassa annuale di esami: L. 5.000.  
+La tassa di diploma e' fissata nella misura di L. 6000.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1973
+### Dato a Roma, addi' 14 marzo 1963
 
-LEONE MALFATTI
+SEGNI GUI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 26 ottobre 1974
+Registrato alla Corte dei conti, addi' 29 aprile 1963
 
-Atti di Governo, registro n. 6, foglio n. 32. - SCIARRETTA
+Atti del Governo, registro n. 168, foglio n. 102. - VILLA

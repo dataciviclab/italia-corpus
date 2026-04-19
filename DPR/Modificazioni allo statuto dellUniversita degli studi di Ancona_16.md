@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1980 n. 1235
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1980 n. 675
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1980 n. 1235
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1980 n. 675
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ancona.
 ------------------------------------------------------------------
@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' di Ancona, approvato con [decreto del Presidente della Repubblica 4 ottobre 1971, n. 1330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-10-04;1330) e modificato con [decreto del Presidente della Repubblica 7 agosto 1973, n. 909](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-08-07;909), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,85 +20,131 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvar le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ancona e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ancona e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Sulla
------
+Sulla proposta del Ministro della pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Ancona, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
   
-Lo statuto dell'Universita' degli studi di Ancona, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+L'[art. 14 di cui al decreto del Presidente della Repubblica n. 1330 del 4 ottobre 1971](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-10-04;1330~art14) e' cosi' modificato:   
+La facolta' di medicina e chirurgia conferisce la laurea in:   
+a) medicina e chirurgia;   
+b) odontoiatria e protesi dentaria.   
+La durata del corso degli studi e' di sei anni per la laurea in medicina e chirurgia e di cinque anni per la laurea in odontoiatria e protesi dentaria.   
+Dopo l'art. 17, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in odontoiatria e protesi dentaria:   
   
-Dopo l'art. 28 si inseriscono, con conseguente spostamento degli articoli successivi, le norme relative all'ordinamento della scuola diretta a fini speciali per ortottisti - assistenti di oftalmologia.   
+Laurea in odontoiatria e protesi dentaria   
+Art. 18. - Il corso degli studi per il conseguimento della laurea e' stabilito in cinque anni, suddivisi in un biennio ed in un triennio.   
+Il titolo di studio per l'ammissione al predetto corso di laurea e' quello consentito dalle vigenti disposizioni di legge.   
+L'accesso al corso di laurea verra' regolato da un esame di ammissione; il punteggio da attribuire nell'esame sara' cosi' ripartito: il 30% sara' riservato a voto riportato dal candidato nell'esame di Stato di licenza della scuola secondaria superiore ed il 70% sara' riservato alla prova di esame di ammissione al corso di laurea con tests a scelta multipla su argomenti di biologia generale, chimica, fisica e matematica secondo i programmi della scuola secondaria superiore.
+
+((Il numero massimo degli allievi iscrivibili e' di venti per anno di corso))
+
+.   
+Art. 19. - Per il trasferimento degli studenti iscritti al corso di laurea in medicina e chirurgia, le abbreviazioni di corso non possono superare l'ammissione oltre il secondo anno, subordinatamente al numero di post resisi disponibili all'inizio del secondo anno, sempre che gli aspiranti abbiano superato gli esami di biologia generale (compresa la citologia).   
+Per i laureati in medicina e chirurgia le abbreviazioni di corso potranno essere concesse sempre con iscrizione al secondo anno, subordinatamente al numero di posti resisi eventualmente disponibili all'inizio del secondo anno e dopo che sia trascorso un anno accademico dal conseguimento della laurea precedente.   
+Art. 20. - L'ordinamento del corso di laurea e' stabilito come segue:   
+INSEGNAMENTI FONDAMENTALI:   
+Biennio:   
+1) anestesia generale e speciale odontostomatologica (semestrale);   
+\*2) biologia generale applicata agli studi medici;   
+\*3) chimica;   
+4) chimica biologica\*;   
+5) farmacologia (semestrale);   
+\*6) fisica medica;   
+7) fisiologia umana e dell'apparato stomatognatico;   
+8) igiene e odontoiatria preventiva e sociale con epidemiologia (semestrale);   
+9) istituzioni di anatomia umana normale e dell'apparato stomatognatico;   
+10) istituzioni di anatomia ed istologia patologica;   
+\*11) istologia ed embriologia generale (compresa la citologia);   
+12) materiali dentari;   
+13) microbiologia (semestrale);   
+14) odontoiatria conservatrice (triennale 2°, 3° e 4° anno);   
+15) patologia generale.   
+Triennio:   
+16) chirurgia speciale odontostomatologica (biennale 3° e 4° anno);   
+17) clinica odontostomatologica (biennale 4° e 5° anno);   
+18) medicina legale e delle assicurazioni e deontologia in odontostomatologia (semestrale);   
+19) neuropatologia e psicopatologia (semestrale);   
+20) ortognatodonzia e gnatologia (funzione masticatoria) (biennale 4° e 5° anno);   
+21) parodontologia (biennale 4° e 5° anno);   
+22) patologia speciale chirurgica e propedeutica clinica;   
+23) patologia speciale medica e metodologia clinica (compresa la pediatria);   
+24) patologia speciale odontostomatologica;   
+25) pedodonzia (semestrale);   
+26) protesi dentaria (triennale 3°, 4° e 5° anno);   
+27) radiologia generale e speciale odontostomatologica (semestrale).   
   
-Scuola per ortottisti - assistenti di oftalmologia   
-(scuola diretta a fini speciali)   
+INSEGNAMENTI COMPLEMENTARI:   
+\*1) chirurgia maxillo-facciale;   
+\*2) dermatologia e venerologia (semestrale);   
+\*3) otorinolaringoiatria (semestrale);   
+\*4) statistica sanitaria;   
+altri insegnamenti complementari nel piano della facolta' sempre mutuati dal corso di laurea in medicina e chirurgia.   
+Gli insegnamenti segnati con asterisco sono mutuati dal corso di laurea in medicina e chirurgia.   
+Gli insegnamenti fondamentali sono teorici e pratici e la loro frequenza e' obbligatoria.   
+Gli insegnamenti specificatamente odontostomatologici di ordine clinico comportano anche un tirocinio pratico continuativo da espletare prima di sostenere i relativi esami.   
+Gli allievi, che non conseguono le attestazioni di frequenza, non possono essere ammessi a sostenere le relative prove di esame.   
+Il tirocinio pratico, relativo ad ogni insegnamento clinico, deve prevedere da parte di componenti dell'organico, una assistenza didattica adeguata al numero degli studenti.   
   
-Art. 29. - La scuola speciale per ortottisti - assistenti di oftalmologia ha sede presso l'istituto di clinica oculistica.   
-Art. 30. - La scuola ha lo scopo di dare una preparazione completa, teorico-pratica, istruendo gli allievi su problemi della motilita' oculare, della ambliopia, delle tecniche diagnostiche della visione binoculare, del trattamento pre e post-operatorio dei pazienti strabici e i problemi sui vizi di refrazione e della loro correzione e sulle tecniche diagnostiche in oftalmologia. La durata del corso per conseguire il diploma di ortottista - assistente di oftalmologia e' di tre anni.   
-Ne sono titolo di ammissione il possesso di un diploma legalmente valido ai fini della iscrizione all'Universita' ai sensi dell'[art. 1 della legge n. 910 dell'11 dicembre 1969](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1) e la conoscenza di una lingua straniera (inglese, tedesco, spagnolo).   
-Art. 31. - Gli aspiranti all'iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova di cultura generale e in una prova per la conoscenza della lingua straniera.   
-E' richiesto un certificato di sana e robusta costituzione con particolare riguardo alla funzione visiva.   
-Art. 32. - Il numero massimo degli iscritti alla scuola e' di ventiquattro (otto per ogni anno di corso).   
-L'ammissione alla scuola avviene in base alla graduatoria formulata a seguito di prove di esame.   
-Art. 33. - Il direttore della scuola e' un professore ordinario, fuori ruolo o straordinario di clinica oculistica, che insegni anche nella scuola stessa. In caso di motivato impedimento dello stesso, la direzione della scuola e' affidata a professore associato che pure insegni nella scuola stessa.   
-Il direttore medesimo propone al consiglio di facolta', che delibera, i docenti dei vari insegnamenti scelti tra il corpo accademico della stessa Universita' o tra cultori delle materie.   
-Art. 34. - Il consiglio della scuola e' costituito dal direttore e dal corpo docente della scuola.   
-Art. 35. - L'anno accademico ha inizio e termina nelle date stabilite dalle leggi in vigore per l'istruzione universitaria. La frequenza e' obbligatoria.   
-Art. 36. - Il corso comprende lezioni teoriche ed esercitazioni pratiche. Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) elementi di anatomia dell'apparato visivo e del S.N.C.;   
-2) fisiologia dell'occhio, della motilita' oculare, della visione binoculare;   
-3) ottica fisica e fisiopatologica;   
-4) ortottica I;   
-5) psicologia infantile.   
-2° Anno:   
-1) elementi di patologia oculare;   
-2) elementi di farmacologia oculare;   
-3) elementi di neurooftalmologia;   
-4) nozioni di chirurgia ed assistenza oftalmica;   
-5) ortottica II.   
-3° Anno:   
-1) tecniche semeiologiche ed elettrofisiologiche (tonometria e tonografia, ERG, EOG, EMG econografi, retinografia, fluorangiografia);   
-2) tecniche semeiologiche dell'apparato visivo I (es. refrazione, contattologia, adattometria, campo visivo, senso cromatico);   
-3) ortottica III;   
-4) nozioni di riabilitazione sensomotoria nell'eta' infantile;   
-5) legislazione sanitaria.   
-Art. 37. - L'intero corso di studio e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo, per gli allievi, della frequenza alle esercitazioni pratiche per l'intero periodo di corso di studi nella clinica oculistica. La frequenza viene comprovata dalla attestazione rilasciata sul libretto di iscrizione dagli insegnanti e per l'attivita' pratica dal direttore della scuola. L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.   
-Art. 38. - Alla fine di ogni anno gli allievi devono sostenere un esame sulle materie di insegnamento.Nel caso in cui i candidati non abbiano superato gli esami prescritti, essi rimarranno nella posizione di "ripetenti".   
-Art. 39. - Gli esami di profitto consistono in prove pratiche e teoriche.   
-Art. 40. - Alla fine del corso gli allievi debbono sostenere un esame di diploma che consiste nella discussione di una tesi scritta su un argomento riguardante la materia di insegnamento assegnata al direttore della scuola e una prova pratica stabilita da una commissione esaminatrice. I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola, ma se al secondo anno non sia loro riconosciuta la idoneita' saranno senz'altro esclusi da ulteriori prove.   
-Art. 41. - Gli esami di profitto e di diploma si danno in due sessioni, la prima estiva che ha inizio subito dopo la chiusura annuale dei corsi e la seconda autunnale, nel mese che precede l'inizio del nuovo anno accademico.   
-Art. 42. - Le commissioni per gli esami di ammissione, di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della clinica.   
-Le commissioni per gli esami di ammissione e di profitto sono composte da tre membri: direttore della scuola, presidente, e da due insegnanti della scuola stessa.   
-La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro scelti tra gli insegnanti della scuola stessa o altri docenti.   
-Art. 43. - Le tasse e le sopratasse annuali a carico degli iscritti restano cosi' destinate:   
   
-tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 20.000 sopratassa annuale di esame . . . . . . . . . . . . . . . . L. 10.000 tassa erariale di diploma (da versare interamente all'erario). L.   
-6.000   
-tassa annuale per iscrizione studenti fuori corso. . . . . . L. 6.000 contributi di laboratorio . . . . . . . . . . . . . . . . . L. 35.000   
   
-Art. 44. - Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, sopratasse e contributi dovuti dagli iscritti e con eventuali elargizioni o contributi di enti pubblici o privati.   
+Non si puo' essere ammessi Se non si e' superato  
+a sostenere l'esame di: l'esame di:  
+  
+Fisiologia umana e dell'apparato Istituzioni di anatomia  
+stomatognatico umana normale e dell'appa- Patologia generale rato stomatognatico  
+Chimica  
+Biologia generale applicata agli studi medici  
+Fisica medica  
+Patologia speciale medica e Fisiologia umana e del-  
+metodologia clinica l'apparato stomatognatico  
+(compresa la pediatria)  
+Patologia speciale chirurgica Patologia generale  
+e propedeutica clinica  
+  
+Clinica odontostomatologica Patologia speciale medica e metodologia clinica  
+(compresa la pediatria)  
+Patologia speciale chirurgica  
+e propedeutica clinica  
+Istituzioni di anatomia ed  
+istologia patologica  
+Patologia speciale odonto-  
+stomatologica  
+Chirurgia speciale odonto-  
+stomatologica  
+  
+  
+  
+  
+Per essere ammesso a sostenere l'esame di laurea in odontoiatria e protesi dentaria lo studente deve aver seguito i corsi ed aver superato gli esami in tutti gli insegnamenti fondamentali ed almeno in due insegnamenti scelti tra i complementari ed aver, inoltre, seguito le prescritte esercitazioni cliniche, i tirocini pratici ed averne conseguito le relative attestazioni.   
+L'esame di laurea consiste nella discussione di una tesi scritta su argomento di odontostomatologia da richiedere almeno all'inizio dell'ultimo anno di corso.   
+Per il trasferimento degli studenti iscritti al corso di laurea in medicina e chirurgia le abbreviazioni di corso non possono superare l'ammissione oltre il secondo anno subordinatamente al numero dei posti resisi disponibili all'inizio del secondo anno sempre che gli aspiranti abbiano superato gli esami di biologia generale applicata agli studi medici, chimica, fisica medica, istologia ed embriologia generale (compresa la citologia).   
+Per i laureati in medicina e chirurgia le abbreviazioni di corso potranno essere concesse, sempre con iscrizione al secondo anno, subordinatamente al numero di posti resisi disponibili all'inizio del secondo anno e dopo che sia trascorso un anno accademico dal conseguimento della laurea precedente.   
+Per esercitare la professione i laureati in odontoiatria e protesi dentaria devono superare un apposito esame di Stato.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 ottobre 1980
+### Dato a Roma, addi' 25 settembre 1980
 
-PERTINI SARTI
+p. Il Presidente della Repubblica Il Presidente del Senato FANFANI SARTI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 14 novembre 1981
+Registrato alla Corte dei conti, addi' 21 ottobre 1980
 
-Registro n. 107 Istruzione, foglio n. 188
+Registro n. 95 Istruzione, foglio n. 315

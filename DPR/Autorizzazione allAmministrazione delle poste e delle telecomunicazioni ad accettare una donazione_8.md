@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 ottobre 1967 n. 1373
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 febbraio 1968 n. 284
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 ottobre 1967 n. 1373
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 febbraio 1968 n. 284
 ===============================================================
 
 Autorizzazione all'Amministrazione delle poste e delle telecomunicazioni ad accettare una donazione.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1373. Decreto del Presidente della Repubblica 12 dicembre 1967, col quale, sulla proposta del relativo Ministro, l'Amministrazione delle poste e delle telecomunicazioni viene autorizzata ad accettare la donazione di un'area di mq. 368,64, sita in Susa, piazza Europa, confinante con la societa' I.C.E.I.A. a nord cooperativa "Casa Nostra" ad est, piazza Europa a sud e via Mazzini ad ovest, da destinare alla costruzione dell'edificio delle poste e telecomunicazioni.  
+284. Decreto del Presidente della Repubblica 23 febbraio 1968, col quale, sulla proposta del relativo Ministro, l'Amministrazione delle poste e delle telecomunicazioni, viene autorizzata ad accettare, dal comune di Gessopalena (Chieti) la donazione di un'area di mq. 370, sita in Gessopalena, viale Gennaro Finamore, da destinare alla costruzione di un edificio p.t., giusta atto a rogito notaio Andrea Costantini in data 12 aprile 1965, rep. 31, raccolta 28, registrato a Torricella Peligna il 3 maggio 1965.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 23 gennaio 1968  
-Atti del Governo, registro n. 217, foglio n. 3. - GRECO
+Registrato alla Corte dei conti, addi' 21 marzo 1968  
+Atti del Governo, registro n. 218, foglio n. 65. - DI PRETORO

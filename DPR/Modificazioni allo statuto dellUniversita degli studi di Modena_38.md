@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1074
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1970 n. 534
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1074
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1970 n. 534
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
@@ -10,396 +10,252 @@ Modificazioni allo statuto dell'Universita' degli studi di Modena.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, numero 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulato dalle autorita' accademiche dell'universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Modena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli 117, 118, 119, 120, 121 e 122, relativi alla scuola di specializzazione in ostetricia e ginecologia, che muta la denominazione in quella di scuola di specializzazione in ginecologia e ostetricia, sono soppressi e sostituiti dai seguenti:
+Gli articoli da 146 a 151 relativi alla scuola di specializzazione in medicina legale e delle assicurazioni; gli articoli da 184 a 187 relativi alla scuola di specializzazione in gerontologia e geriatria, sono abrogati e sostituiti dai seguenti:
 
-Scuola di specializzazione in ginecologia e ostetricia
+Scuola di specializzazione in medicina legale e delle assicurazioni
 
-Art. 117. - La scuola di specializzazione in ginecologia ed ostetricia ha sede presso la clinica ostetrica e ginecologica e conferisce il diploma di specialista in ginecologia ed ostetricia.
+Art. 146. - La scuola di specializzazione in medicina legale e delle assicurazioni conferisce il diploma di specialista in medicina legale e delle assicurazioni.
 
-Art. 118. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+Art. 147. - La scuola ha sede presso l'istituto di medicina legale e delle assicurazioni. Alla scuola sono ammessi i laureati in medicina e chirurgia.
 
-Art. 119. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+Art. 148. - La scuola ha la durata di tre anni. Sono ammessi dieci specializzandi per ciascun anno di corso (totale: trenta iscritti).
 
-Art. 120. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
+Art. 149. - E' fatto obbligo all'allievo di frequentare le lezioni ed un periodo di internato di almeno sei mesi per ciascun anno.
 
-Il numero massimo degli allievi e' di otto per anno di corso e complessivamente di trentadue iscritti per l'intero corso di studi.
-
-L'ammissione al corso avviene per titoli ed esami.
-
-Art. 121. - Le materie di insegnamento sono le seguenti:
+Art. 150. - Gli insegnamenti impartiti nella scuola sono i seguenti:
 
 1° Anno:
 
-a) elementi di genetica medica;
+Insegnamenti fondamentali:
 
-b) elementi di embriologia; anatomia macro e micro dell'apparato genitale femminile; anatomia della pelvi;
+1) Medicina legale generale;
 
-c) elementi di fisiopatologia della riproduzione umana;
+2) Elementi di diritto pubblico e privato;
 
-d) fisiologia ostetrica;
+3) Tecnica e diagnostica anatomo-patologica generale e medico-legale;
 
-e) endocrinologia ginecologica ed ostetrica;
+4) Traumatologia medico-legale;
 
-f) semeiotica e diagnostica ostetrica;
-
-g) patologia ostetrica e ginecologica (biennale) I;
-
-h) lingua straniera (inglese)-(quadriennale) I.
+5) Semeiotica medico-legale.
 
 2° Anno:
 
-a) semeiotica e diagnostica ginecologica;
+Insegnamenti fondamentali:
 
-b) operazioni ostetriche (biennale) I;
+1) Medicina legale penalistica;
 
-c) anatomia ed istologia patologica della sfera genitale femminile;
+2) Deontologia medica;
 
-d) citologia ginecologica;
+3) Neuropsichiatria medico-legale;
 
-e) patologia ostetrica e ginecologica (biennale) II;
+4) Elementi di medicina criminologica e medicina penitenziaria;
 
-f) diagnostica di laboratorio in ostetricia e ginecologia;
+5) Indagini di sopraluogo;
 
-g) lingua straniera (inglese) (quadriennale) II.
+6) Identificazione personale.
 
 3° Anno:
 
-a) puericultura prenatale;
+Insegnamenti fondamentali:
 
-b) immunologia ostetrica e ginecologica;
+1) Medicina legale civilistica e canonistica;
 
-c) analgo-anestesia e rianimazione in ostetricia;
+2) Tossicologia medico-legale;
 
-d) operazioni ostetriche (biennale) II;
+3) Tecniche di laboratorio medico-legale ed ematologia forense;
 
-e) operazioni ginecologiche (biennale) I;
+4) Ostetricia e ginecologia forensi;
 
-f) ostetricia e ginecologia forense;
+5) Elementi di legislazione del lavoro;
 
-g) terapia medica in ostetricia e ginecologia;
+6) Elementi di medicina del lavoro;
 
-h) clinica ostetrica e ginecologica (biennale) I;
+7) Medicina delle assicurazioni;
 
-i) psicosomatica ostetrica e ginecologica;
+8) Medicina legale militare e pensionistica civile.
 
-l) lingua straniera (inglese) (quadriennale) III.
+Art. 151. - Alla fine di ogni anno gli iscritti sosterranno gli esami di profitto sulle singole materie di insegnamento. Chi non ha superato tutti gli esami dell'anno frequentato non puo' essere iscritto all'anno successivo.
 
-4° Anno:
+Scuola di specializzazione in gerontologia e geriatria
 
-a) neonatologia;
+Art. 184. - La scuola ha sede presso l'istituto di clinica medica generale e terapia medica dell'universita' e conferisce il diploma di specialista in gerontologia e geriatria.
 
-b) urologia ginecologica;
+Art. 185. - Alla scuola, che ha la durata di tre anni, sono ammessi i laureati in medicina e chirurgia per un numero massimo complessivo di trentadue specializzandi.
 
-c) radiodiagnostica e terapia fisica in ostetricia e ginecologia;
+L'ammissione e' per esame.
 
-d) chirurgia addominale;
-
-e) operazioni ginecologiche (biennale) II;
-
-f) clinica ostetrica e ginecologica (biennale) II;
-
-g) lingua straniera (inglese) (quadriennale) IV.
-
-Art. 122. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.
-
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
-
-Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.
-
-Al termine del corso di studi per il conseguimento del diploma di specialista in ginecologia ed ostetricia gli interessati dovranno superare l'esame di diploma di un argomento attinente alla specializzazione.
-
-Dopo l'art. 253, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti articoli relativi alla istituzione della scuola di specializzazione in chirurgia d'urgenza e pronto soccorso:
-
-Scuola di specializzazione in chirurgia d'urgenza e pronto soccorso
-
-Art. 254. - La scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso ha sede presso la cattedra di chirurgia d'urgenza.
-
-Art. 255. - Il corso di studi per il conseguimento del diploma di specialista in chirurgia d'urgenza e di pronto soccorso ha la durata di cinque anni accademici.
-
-Art. 256. - Alla scuola possono iscriversi i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio della professione di medico chirurgico rilasciato dalla autorita' competente di numero massimo degli iscritti e' di tre per anno di corso.
-
-Non sono ammesse abbreviazioni di corso.
-
-L'ammissione al corso avviene per titoli ed esami.
-
-Art. 257. - La frequenza alle lezioni, esercitazioni e seminari e' obbligatoria per tutti gli iscritti. L'internato e' obbligatorio durante tutti e cinque gli anni di corso sotto forma di permanenza costante in istituto durante le ore della sua attivita'.
-
-Art. 258. - Le materie di insegnamento sono le seguenti:
+Art. 186. - Gli insegnamenti impartiti dalla scuola sono:
 
 1° Anno:
 
-1) clinica chirurgica generale d'urgenza e di pronto soccorso (I) (quinquennale);
+1) Biologia della senescenza (annuale);
 
-2) patologia chirurgica (I) (triennale);
+2) Fisiopatologia della senescenza (biennale I);
 
-3) anatomia chirurgica;
+3) Semeiologia della senescenza (biennale I);
 
-4) semeiotica (I) (biennale);
+4) Anatomia patologica (biennale);
 
-5) anestesiologia;
-
-6) ricerche di laboratorio;
-
-7) chirurgia sperimentale.
+5) Farmacologia e farmacoterapia (annuale).
 
 2° Anno:
 
-8) clinica chirurgica generale d'urgenza e pronto soccorso II (quinquennale);
+1) Fisiopatologia della senescenza (biennale II);
 
-9) patologia chirurgica II (triennale);
+2) Semeiologia della senescenza (biennale II);
 
-10) anatomia patologica;
+3) Anatomia patologica (biennale II);
 
-11) endoscopia;
+4) Clinica geriatrica e terapia (biennale I);
 
-12) fisiopatologia chirurgica I (biennale);
+5) Chirurgia geriatrica (annuale);
 
-13) semeiotica II (biennale);
+6) Radiologia e radioterapia (annuale);
 
-14) trattamento pre e post operatorio in chirurgia d'urgenza;
-
-15) rianimazione.
+7) Neurologia (annuale).
 
 3° Anno:
 
-16) clinica chirurgica generale d'urgenza e di pronto soccorso III (quinquennale);
+1) Clinica geriatrica e terapia (biennale II);
 
-17) patologia chirurgica III (triennale);
+2) Tecniche di riabilitazione (annuale);
 
-18) chirurgia vascolare d'urgenza;
+3) Psichiatria (annuale);
 
-19) traumatologia dell'apparato locomotore I (biennale);
+4) Medicina sociale (annuale).
 
-20) neurotraumatologia I (biennale);
+Nel terzo anno sono previste conferenze d'aggiornamento su problemi speciali.
 
-21) fisiopatologia chirurgica II;
+Art. 187. - L'esame di profitto si sosterra' alla fine dei singoli corsi: gli insegnamenti biennali importano un unico esame alla fine del corso.
 
-22) terapia intensiva I (biennale);
-
-23) radiologia.
-
-4° Anno:
-
-24) clinica chirurgica generale, d'urgenza e di pronto soccorso IV (quinquennale);
-
-25) chirurgia ginecologica d'urgenza;
-
-26) chirurgia pediatrica d'urgenza;
-
-27) chirurgia plastica e riparatrice I (biennale);
-
-28) traumatologia dell'apparato locomotore II (biennale);
-
-29) neurotraumatologia II (biennale);
-
-30) chirurgia toracica d'urgenza I (biennale);
-
-31) terapia intensiva II (biennale).
-
-5° Anno:
-
-32) clinica chirurgica generale d'urgenza e di pronto soccorso V (quinquennale);
-
-33) chirurgia plastica e riparatrice II (biennale);
-
-34) chirurgia toracica d'urgenza II (biennale);
-
-35) cardiochirurgia d'urgenza;
-
-36) chirurgia urologica d'urgenza;
-
-37) angioradiologia;
-
-38) traumatologia maxillo-facciale;
-
-39) trattamento del politraumatizzato;
-
-40) medicina legale.
-
-Art. 259. - Alla fine di ogni anno accademico gli specializzandi per poter ottenere l'ammissione all'anno successivo dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno di corso; per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
-
-Art. 260. - L'esame di diploma consiste nella discussione di una tesi su un tema preventivamente approvato dal direttore della scuola.
-
-Il direttore della scuola e' il professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, il professore di ruolo o fuori ruolo di materia affine.
-
-Le norme per l'iscrizione, gli esami, le tasse, ecc., sono quelle generali per le scuole di specializzazione dell'Universita' di Modena.
+Gli allievi del primo e del secondo anno, per essere ammessi, rispettivamente al secondo ed al terzo anno, debbono aver ottenuto tutte le firme di frequenza dei corsi e devono aver superato tutti i relativi esami.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1978
+Dato a Roma, addi' 1 giugno 1970
 
-PERTINI
+SARAGAT
 
-PEDINI
+MISASI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 23 maggio 1979 Registro n. 38 Istruzione, foglio n. 393
+alla Corte dei conti, addi' 22 luglio 1970 Atti del Governo, registro n. 236, foglio n. 174. - IZZI
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Modena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, numero 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulato dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli 117, 118, 119, 120, 121 e 122, relativi alla scuola di specializzazione in ostetricia e ginecologia, che muta la denominazione in quella di scuola di specializzazione in ginecologia e ostetricia, sono soppressi e sostituiti dai seguenti:   
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli da 146 a 151 relativi alla scuola di specializzazione in medicina legale e delle assicurazioni; gli articoli da 184 a 187 relativi alla scuola di specializzazione in gerontologia e geriatria, sono abrogati e sostituiti dai seguenti:  
   
-Scuola di specializzazione in ginecologia e ostetricia   
+Scuola di specializzazione in medicina legale e delle assicurazioni   
+Art. 146. - La scuola di specializzazione in medicina legale e delle assicurazioni conferisce il diploma di specialista in medicina legale e delle assicurazioni.  
+Art. 147. - La scuola ha sede presso l'istituto di medicina legale e delle assicurazioni. Alla scuola sono ammessi i laureati in medicina e chirurgia.  
+Art. 148. - La scuola ha la durata di tre anni. Sono ammessi dieci specializzandi per ciascun anno di corso (totale: trenta iscritti).  
+Art. 149. - E' fatto obbligo all'allievo di frequentare le lezioni ed un periodo di internato di almeno sei mesi per ciascun anno.  
+Art. 150. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1° Anno:  
+Insegnamenti fondamentali:  
+1) Medicina legale generale;  
+2) Elementi di diritto pubblico e privato;  
+3) Tecnica e diagnostica anatomo-patologica generale e medico-legale;  
+4) Traumatologia medico-legale;  
+5) Semeiotica medico-legale.  
+2° Anno:  
+Insegnamenti fondamentali:  
+1) Medicina legale penalistica;  
+2) Deontologia medica;  
+3) Neuropsichiatria medico-legale;  
+4) Elementi di medicina criminologica e medicina penitenziaria;  
+5) Indagini di sopraluogo;  
+6) Identificazione personale.  
+3° Anno:  
+Insegnamenti fondamentali:  
+1) Medicina legale civilistica e canonistica;  
+2) Tossicologia medico-legale;  
+3) Tecniche di laboratorio medico-legale ed ematologia forense;  
+4) Ostetricia e ginecologia forensi;  
+5) Elementi di legislazione del lavoro;  
+6) Elementi di medicina del lavoro;  
+7) Medicina delle assicurazioni;  
+8) Medicina legale militare e pensionistica civile.  
+Art. 151. - Alla fine di ogni anno gli iscritti sosterranno gli esami di profitto sulle singole materie di insegnamento. Chi non ha superato tutti gli esami dell'anno frequentato non puo' essere iscritto all'anno successivo.  
   
-Art. 117. - La scuola di specializzazione in ginecologia ed ostetricia ha sede presso la clinica ostetrica e ginecologica e conferisce il diploma di specialista in ginecologia ed ostetricia.   
-Art. 118. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Art. 119. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-Art. 120. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
-Il numero massimo degli allievi e' di otto per anno di corso e complessivamente di trentadue iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Art. 121. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-a) elementi di genetica medica;   
-b) elementi di embriologia; anatomia macro e micro dell'apparato genitale femminile; anatomia della pelvi;   
-c) elementi di fisiopatologia della riproduzione umana;   
-d) fisiologia ostetrica;   
-e) endocrinologia ginecologica ed ostetrica;   
-f) semeiotica e diagnostica ostetrica;   
-g) patologia ostetrica e ginecologica (biennale) I;   
-h) lingua straniera (inglese)-(quadriennale) I.   
-2° Anno:   
-a) semeiotica e diagnostica ginecologica;   
-b) operazioni ostetriche (biennale) I;   
-c) anatomia ed istologia patologica della sfera genitale femminile;   
-d) citologia ginecologica;   
-e) patologia ostetrica e ginecologica (biennale) II;   
-f) diagnostica di laboratorio in ostetricia e ginecologia;   
-g) lingua straniera (inglese) (quadriennale) II.   
-3° Anno:   
-a) puericultura prenatale;   
-b) immunologia ostetrica e ginecologica;   
-c) analgo-anestesia e rianimazione in ostetricia;   
-d) operazioni ostetriche (biennale) II;   
-e) operazioni ginecologiche (biennale) I;   
-f) ostetricia e ginecologia forense;   
-g) terapia medica in ostetricia e ginecologia;   
-h) clinica ostetrica e ginecologica (biennale) I;   
-i) psicosomatica ostetrica e ginecologica;   
-l) lingua straniera (inglese) (quadriennale) III.   
-4° Anno:   
-a) neonatologia;   
-b) urologia ginecologica;   
-c) radiodiagnostica e terapia fisica in ostetricia e ginecologia;   
-d) chirurgia addominale;   
-e) operazioni ginecologiche (biennale) II;   
-f) clinica ostetrica e ginecologica (biennale) II;   
-g) lingua straniera (inglese) (quadriennale) IV.   
-Art. 122. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.   
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
-Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in ginecologia ed ostetricia gli interessati dovranno superare l'esame di diploma di un argomento attinente alla specializzazione.   
-Dopo l'art. 253, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti articoli relativi alla istituzione della scuola di specializzazione in chirurgia d'urgenza e pronto soccorso:   
+Scuola di specializzazione in gerontologia e geriatria  
   
-Scuola di specializzazione in chirurgia d'urgenza e pronto soccorso   
-Art. 254. - La scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso ha sede presso la cattedra di chirurgia d'urgenza.   
-Art. 255. - Il corso di studi per il conseguimento del diploma di specialista in chirurgia d'urgenza e di pronto soccorso ha la durata di cinque anni accademici.   
-Art. 256. - Alla scuola possono iscriversi i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio della professione di medico chirurgico rilasciato dalla autorita' competente di numero massimo degli iscritti e' di tre per anno di corso.   
-Non sono ammesse abbreviazioni di corso.   
-L'ammissione al corso avviene per titoli ed esami.   
-Art. 257. - La frequenza alle lezioni, esercitazioni e seminari e' obbligatoria per tutti gli iscritti. L'internato e' obbligatorio durante tutti e cinque gli anni di corso sotto forma di permanenza costante in istituto durante le ore della sua attivita'.   
-Art. 258. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) clinica chirurgica generale d'urgenza e di pronto soccorso (I) (quinquennale);   
-2) patologia chirurgica (I) (triennale);   
-3) anatomia chirurgica;   
-4) semeiotica (I) (biennale);   
-5) anestesiologia;   
-6) ricerche di laboratorio;   
-7) chirurgia sperimentale.   
-2° Anno:   
-8) clinica chirurgica generale d'urgenza e pronto soccorso II (quinquennale);   
-9) patologia chirurgica II (triennale);   
-10) anatomia patologica;   
-11) endoscopia;   
-12) fisiopatologia chirurgica I (biennale);   
-13) semeiotica II (biennale);   
-14) trattamento pre e post operatorio in chirurgia d'urgenza;   
-15) rianimazione.   
-3° Anno:   
-16) clinica chirurgica generale d'urgenza e di pronto soccorso III (quinquennale);   
-17) patologia chirurgica III (triennale);   
-18) chirurgia vascolare d'urgenza;   
-19) traumatologia dell'apparato locomotore I (biennale);   
-20) neurotraumatologia I (biennale);   
-21) fisiopatologia chirurgica II;   
-22) terapia intensiva I (biennale);   
-23) radiologia.   
-4° Anno:   
-24) clinica chirurgica generale, d'urgenza e di pronto soccorso IV (quinquennale);   
-25) chirurgia ginecologica d'urgenza;   
-26) chirurgia pediatrica d'urgenza;   
-27) chirurgia plastica e riparatrice I (biennale);   
-28) traumatologia dell'apparato locomotore II (biennale);   
-29) neurotraumatologia II (biennale);   
-30) chirurgia toracica d'urgenza I (biennale);   
-31) terapia intensiva II (biennale).   
-5° Anno:   
-32) clinica chirurgica generale d'urgenza e di pronto soccorso V (quinquennale);   
-33) chirurgia plastica e riparatrice II (biennale);   
-34) chirurgia toracica d'urgenza II (biennale);   
-35) cardiochirurgia d'urgenza;   
-36) chirurgia urologica d'urgenza;   
-37) angioradiologia;   
-38) traumatologia maxillo-facciale;   
-39) trattamento del politraumatizzato;   
-40) medicina legale.   
-Art. 259. - Alla fine di ogni anno accademico gli specializzandi per poter ottenere l'ammissione all'anno successivo dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno di corso; per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
-Art. 260. - L'esame di diploma consiste nella discussione di una tesi su un tema preventivamente approvato dal direttore della scuola.   
-Il direttore della scuola e' il professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, il professore di ruolo o fuori ruolo di materia affine.   
-Le norme per l'iscrizione, gli esami, le tasse, ecc., sono quelle generali per le scuole di specializzazione dell'Universita' di Modena.   
+Art. 184. - La scuola ha sede presso l'istituto di clinica medica generale e terapia medica dell'universita' e conferisce il diploma di specialista in gerontologia e geriatria.  
+Art. 185. - Alla scuola, che ha la durata di tre anni, sono ammessi i laureati in medicina e chirurgia per un numero massimo complessivo di trentadue specializzandi.  
+L'ammissione e' per esame.  
+Art. 186. - Gli insegnamenti impartiti dalla scuola sono:  
+1° Anno:  
+1) Biologia della senescenza (annuale);  
+2) Fisiopatologia della senescenza (biennale I);  
+3) Semeiologia della senescenza (biennale I);  
+4) Anatomia patologica (biennale);  
+5) Farmacologia e farmacoterapia (annuale).  
+2° Anno:  
+1) Fisiopatologia della senescenza (biennale II);  
+2) Semeiologia della senescenza (biennale II);  
+3) Anatomia patologica (biennale II);  
+4) Clinica geriatrica e terapia (biennale I);  
+5) Chirurgia geriatrica (annuale);  
+6) Radiologia e radioterapia (annuale);  
+7) Neurologia (annuale).  
+3° Anno:  
+1) Clinica geriatrica e terapia (biennale II);  
+2) Tecniche di riabilitazione (annuale);  
+3) Psichiatria (annuale);  
+4) Medicina sociale (annuale).  
+Nel terzo anno sono previste conferenze d'aggiornamento su problemi speciali.  
+Art. 187. - L'esame di profitto si sosterra' alla fine dei singoli corsi: gli insegnamenti biennali importano un unico esame alla fine del corso.  
+Gli allievi del primo e del secondo anno, per essere ammessi, rispettivamente al secondo ed al terzo anno, debbono aver ottenuto tutte le firme di frequenza dei corsi e devono aver superato tutti i relativi esami.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1978
+### Dato a Roma, addi' 1 giugno 1970
 
-PERTINI PEDINI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 23 maggio 1979
+Registrato alla Corte dei conti, addi' 22 luglio 1970
 
-Registro n. 38 Istruzione, foglio n. 393
+Atti del Governo, registro n. 236, foglio n. 174. - IZZI

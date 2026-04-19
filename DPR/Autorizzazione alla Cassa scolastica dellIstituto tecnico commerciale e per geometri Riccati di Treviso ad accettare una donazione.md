@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 gennaio 1953 n. 722
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1949 n. 1172
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 gennaio 1953 n. 722
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1949 n. 1172
+===============================================================
 
 Autorizzazione alla Cassa scolastica dell'Istituto tecnico commerciale e per geometri "Riccati" di Treviso ad accettare una donazione.
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,7 @@ Art. 1
 
 N.
 
-722. Decreto del Presidente della Repubblica 20 gennaio 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dell'Istituto tecnico commerciale e per geometri "Riccati" di Treviso, viene autorizzata ad accettare la donazione di nominali L. 295.000 in titoli di Stato, disposta al fine di istituire, col relativo reddito, un premio di studio intitolato al nome del preside prof. G. B. Cervellini.  
+1172. Decreto del Presidente della Repubblica 20 ottobre 1949, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dell'Istituto tecnico commerciale e per geometri "Riccati" di Treviso viene autorizzata ad accettare la donazione di L. 25.000 in titoli di State 5% disposta in suo favore dalla signora Marta Ottolenghi Minerbi, al fine dell'istituzione di un premio di studio intitolato al nome di prof. Alessandro Ottolenghi.  
   
-Visto, il Guardasigilli: AZARA  
-Registrato alla Corte dei conti, addi' 29 settembre 1953  
-Atti del Governo, registro n. 79, foglio n. 62. - PALLA
+Visto, il Guardasigilli: GRASSI  
+Registrato alla Corte dei conti, addi' 11 aprile 1950

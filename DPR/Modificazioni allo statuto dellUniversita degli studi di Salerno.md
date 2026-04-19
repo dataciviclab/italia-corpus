@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1985 n. 907
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 giugno 1971 n. 618
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1985 n. 907
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 giugno 1971 n. 618
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Salerno.
 -------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Salerno.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Salerno, approvato con [decreto del Presidente della Repubblica 18 dicembre 1968, n. 1436](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-12-18;1436), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Salerno, approvato con [decreto del Presidente della Repubblica 18 dicembre 1968, n. 1436](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-12-18;1436) e modificato con [decreto del Presidente della Repubblica 10 settembre 1969, n. 695](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-09-10;695), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,49 +20,172 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Veduto il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Salerno, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Salerno, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 9: all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:
+
+Geografia politica;
+
+Geografia economica.
+
+Art. 11: all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:
+
+Geografia politica;
+
+Geografia economica.
+
+Art. 17: all'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:
+
+Indologia;
+
+Papirologia;
+
+Etnologia;
+
+Numismatica greca e romana;
+
+Numismatica medioevale;
+
+Topografia di Roma e dell'Italia antica;
+
+Archeologia cristiana;
+
+Archeologia medioevale;
+
+Antichita' ed epigrafia greca;
+
+Antichita' ed epigrafia latina;
+
+Antichita' ed epigrafia medioevale;
+
+Filologia micenea;
+
+Storia dei paesi afro-asiatici;
+
+Storia della lingua latina;
+
+Iconologia.
+
+Art. 20: all'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:
+
+Antropologia culturale;
+
+Psicologia dell'eta' evolutiva;
+
+Sociologia dell'educazione;
+
+Sociologia religiosa;
+
+Psicologia sociale.
+
+Art. 23: all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne e' aggiunto quello di "Lingua e letteratura araba".
+
+Art. 26: all'elenco degli istituti annessi alla facolta' di magistero e alla facolta' di lettere e filosofia sono aggiunti i seguenti:
+
+Istituto di storia antica e archeologia;
+
+Istituto di filologia e storia medioevale.
+
+Nello stesso articolo gli istituti di "Filologia classica e storia antica" e di "Storia medioevale, moderna e contemporanea" mutano denominazione in quelli di "Istituto di filologia classica" e "Istituto di storia moderna e contemporanea".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 21 giugno 1971
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: COLOMBO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 17 agosto 1971 Atti del Governo, registro n. 243, foglio n. 131. - PASQUALUCCI
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Nell'art. 29, relativo al corso di laurea in filosofia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+Veduto lo statuto dell'Universita' degli studi di Salerno, approvato con [decreto del Presidente della Repubblica 18 dicembre 1968, n. 1436](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-12-18;1436) e modificato con [decreto del Presidente della Repubblica 10 settembre 1969, n. 695](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-09-10;695), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-storia delle dottrine morali.  
-
-Art. 2
-------
-
+Decreta:  
   
-Nell'art. 34, relativo al corso di laurea in sociologia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+Lo statuto dell'Universita' degli studi di Salerno, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-scienza della politica.  
+Art. 9: all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:  
+  
+Geografia politica;  
+Geografia economica.  
+  
+Art. 11: all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:  
+  
+Geografia politica;  
+Geografia economica.  
+  
+Art. 17: all'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
+  
+Indologia;  
+Papirologia;  
+Etnologia;  
+Numismatica greca e romana;  
+Numismatica medioevale;  
+Topografia di Roma e dell'Italia antica;  
+Archeologia cristiana;  
+Archeologia medioevale;  
+Antichita' ed epigrafia greca;  
+Antichita' ed epigrafia latina;  
+Antichita' ed epigrafia medioevale;  
+Filologia micenea;  
+Storia dei paesi afro-asiatici;  
+Storia della lingua latina;  
+Iconologia.  
+  
+Art. 20: all'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:  
+  
+Antropologia culturale;  
+Psicologia dell'eta' evolutiva;  
+Sociologia dell'educazione;  
+Sociologia religiosa;  
+Psicologia sociale.  
+  
+Art. 23: all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne e' aggiunto quello di "Lingua e letteratura araba".  
+Art. 26: all'elenco degli istituti annessi alla facolta' di magistero e alla facolta' di lettere e filosofia sono aggiunti i seguenti:  
+  
+Istituto di storia antica e archeologia;  
+Istituto di filologia e storia medioevale.  
+  
+Nello stesso articolo gli istituti di "Filologia classica e storia antica" e di "Storia medioevale, moderna e contemporanea" mutano denominazione in quelli di "Istituto di filologia classica" e "Istituto di storia moderna e contemporanea".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 ottobre 1985
+### Dato a Roma, addi' 21 giugno 1971
 
-COSSIGA
+SARAGAT MISASI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: COLOMBO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 17 agosto 1971
 
-Registrato alla Corte dei conti, addi' 14 febbraio 1986
-
-Registro n. 9 Istruzione, foglio n. 131
+Atti del Governo, registro n. 243, foglio n. 131. - PASQUALUCCI

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1964 n. 79
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1962 n. 1318
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1964 n. 79
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1962 n. 1318
+==============================================================
 
 Autorizzazione alla "Fondazione Pro Juventute Don Carlo Gnocchi" ad accettare un legato.
 ----------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-79. Decreto del Presidente della Repubblica 3 gennaio 1964, col quale, sulla proposta Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi", viene autorizzata ad accettare, un legato di L. 500.000 cinquecentomila, disposto dalla defunta signora Emilia Carminiati, vedova Sacco, con testamento olografo del 10 marzo 1961, pubblicato per atto n. 21885, repertorio numero 49815, in data 2 ottobre 1961, a rogito dottor Ugo Marrocchi, notaio in Roma, a favore dei "Mutilatini di Don Gnocchi" che si identificano nella Fondazione sopra indicata.  
+1318. Decreto del Presidente della Repubblica 1 agosto 1962, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi" viene autorizzata ad accettare la quota parte di un legato disposto dalla defunta signora Anna Maria Ida Biancardi vedova Mauri a termini del testamento olografo 24 novembre 1938, depositato e pubblicato per atto a rogito notaio dott. Giovanni Scamarone di Milano in data 8 ottobre 1960, n. 30312 di repertorio, a favore dell'"Opera Don Carlo Gnocchi" di Milano.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 4 marzo 1964  
-Atti del Governo, registro n. 181, foglio n. 156. - VILLA
+Visto, il Guardasigilli: BOSCO  
+Registrato alla Corte dei conti, addi' 31 agosto 1962  
+Atti del Governo, registro n. 158, foglio n. 82. - VILLA

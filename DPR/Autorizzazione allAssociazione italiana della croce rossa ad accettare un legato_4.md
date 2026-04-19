@@ -1,19 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1970 n. 554
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1969 n. 710
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1970 n. 554
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1969 n. 710
+================================================================
 
-Autorizzazione all'Associazione italiana della croce rossa, ad accettare un legato.
------------------------------------------------------------------------------------
+Autorizzazione all'Associazione italiana della croce rossa ad accettare un legato.
+----------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-554. Decreto del Presidente della Repubblica 10 aprile 1970, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa viene autorizzata ad accettare un legato di venticinque buoni fruttiferi postali, del valore nominale di L. 25.000 ed effettivo di L. 78.825, disposto a favore del dipendente comitato provinciale di Bergamo dalla defunta sig.na Luisa Casali con testamento olografo del 15 aprile 1968, pubblicato per atto del notaio Omero Fabri di Bergamo il 12 dicembre 1968, repertorio n. 7871.  
+710. Decreto del Presidente della Repubblica 10 settembre 1969, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa, viene autorizzata ad accettare il legato di L. 10.000.000 disposto dalla signora Brambilla Lidia Maria vedova Carraro, con testamento olografo del 16 aprile 1963, depositato e pubblicato con verbale in data 25 settembre 1968, n. 109421 di repertorio a rogito notar dott. Guido Saya in Milano.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 27 luglio 1970  
-Atti del Governo, registro n. 236, foglio n. 196. - IZZI
+Visto, il Guardasigilli: GAVA  
+Registrato alla Corte dei conti, addi' 21 ottobre 1969  
+Atti del Governo, registro n. 229, foglio n. 124. - CARUSO

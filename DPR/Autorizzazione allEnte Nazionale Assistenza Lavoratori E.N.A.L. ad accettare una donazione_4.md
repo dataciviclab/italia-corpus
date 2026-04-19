@@ -1,19 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1966 n. 121
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1964 n. 1053
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1966 n. 121
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1964 n. 1053
+==============================================================
 
-Autorizzazione all'Ente Nazionale Assistenza Lavoratori (E.N.A.L.), ad accettare una donazione.
------------------------------------------------------------------------------------------------
+Autorizzazione all'Ente Nazionale Assistenza Lavoratori (E.N.A.L.) ad accettare una donazione.
+----------------------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-121. Decreto del Presidente della Repubblica 14 febbraio 1966, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Ente Nazionale Assistenza Lavoratori (E.N.A.L.), viene autorizzato ad accettare dal comune di Colli del Tronto (Ascoli Piceno) la donazione - disposta con atto a rogito signor Monti Guido, notaio in Spinetoli, in data 12 agosto 1939, rep. gen. 4183 - di un appezzamento di terreno della superficie di "tavole una, pari ad are dieci" sito nel Comune anzidetto.  
+1053. Decreto del Presidente della Repubblica 13 agosto 1964, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Ente Nazionale Assistenza Lavoratori (E.N.A.L.), viene autorizzato ad accettare in donazione un edificio, attualmente adibito a circolo E.N.A.L., sito in frazione Ama del comune di Gaiole in Chianti (Siena), disposta dai signori dottor Alessandro Bonci Casuccini, Chiara Bonci Casuccini vedova Casini, Elisa Bindi Sergardi vedova Bonci Casuccini, come da atto a rogito dott. Fabio Marelli, notaio residente in Siena, in data 13 luglio 1963, al n. 4660 di rep., n. 1657 di raccolta.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 18 marzo 1966  
-Atti del Governo, registro n. 202, foglio n. 51. - VILLA
+Registrato alla Corte dei Conti, addi' 14 ottobre 1964  
+Atti del Governo, registro n. 187, foglio n. 125. - VILLA

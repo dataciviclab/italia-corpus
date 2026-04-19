@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1953 n. 377
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1983 n. 871
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1953 n. 377
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1983 n. 871
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
@@ -10,75 +10,83 @@ Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [regio decreto 12 ottobre 1927, numero 2255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-12;2255) e modificato coi [regi decreti 15 novembre 1928, n. 2606](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1928-11-15;2606); [31 ottobre 1929, n. 2400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1929-10-31;2400); [1 ottobre 1931, n. 1372](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-01;1372); [27 ottobre 1932, n. 2062](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-10-27;2062); [27 dicembre 1934, n. 2448](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-27;2448); [27 ottobre 1936, n. 2457](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-27;2457); [27 marzo 1939, numero 1296](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-03-27;1296); [9 maggio 1939, n. 1469](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-05-09;1469); [26 ottobre 1940, n. 2065](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2065); [27 aprile 1942, n. 470](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-04-27;470) e [5 settembre 1942, numero 1266, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-09-05;1266) [30 ottobre 1949, n. 1028](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1028); [18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e [25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207);
+Veduto lo statuto dell'Universita' di Ferrara, approvato con decreto del Presidente della Repubblica 18 aprile 1951, e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifica, dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'art. 17 del teste unico 31 agosto 1933, n. 1592, per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati e' cosi' ulteriormente modificato:
+Lo statuto dell'Universita' di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 19. - Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di:
+Articolo unico
+--------------
 
-7) "Diritto canonico".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 10 febbraio 1953
-
-EINAUDI
-
-SEGNI
-
-Visto, il Guardasigilli: ZOLI
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 15 maggio 1953 Atti dei Governo, registro n. 76, foglio n. 101. - PALLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [regio decreto 12 ottobre 1927, numero 2255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-12;2255) e modificato coi [regi decreti 15 novembre 1928, n. 2606](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1928-11-15;2606); [31 ottobre 1929, n. 2400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1929-10-31;2400); [1 ottobre 1931, n. 1372](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-01;1372); [27 ottobre 1932, n. 2062](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-10-27;2062); [27 dicembre 1934, n. 2448](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-27;2448); [27 ottobre 1936, n. 2457](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-27;2457); [27 marzo 1939, numero 1296](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-03-27;1296); [9 maggio 1939, n. 1469](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-05-09;1469); [26 ottobre 1940, n. 2065](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2065); [27 aprile 1942, n. 470](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-04-27;470) e [5 settembre 1942, numero 1266, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-09-05;1266) [30 ottobre 1949, n. 1028](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1028); [18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e [25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifica, dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
+Dopo il titolo VI, relativo alle scuole di perfezionamento e di specializzazione annesse ala facolta' di farmacia, e' aggiunto il nuovo seguente titolo relativo ai centri dell'Universita':   
   
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati e' cosi' ulteriormente modificato:  
-Art. 19. - Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di:  
-7) "Diritto canonico".  
+Titolo VII   
+CENTRI DELL'UNIVERSITA'   
+  
+Capo I   
+Facolta' di medicina e chirurgia   
+Centro di studi biochimici sul morbo di Cooley   
+  
+Art. 316. - Presso la facolta' di medicina e chirurgia dell'Universita' degli studi di Ferrara e' istituito il centro di studi biochimici sul morbo di Cooley, che per le finalita' perseguite e per la diffusione della talassemia e' centro di medicina preventiva e sociale.   
+Art. 317. - Gli scopi del centro sono:   
+a) le definizioni della struttura e dell'espressione dei geni globinici nelle talassemie;   
+b) la diagnostica prenatale e postnatale delle talassemie;   
+c) la terapia molecolare delle talassemie.   
+Art. 318. - Organi di governo del centro sono:   
+a) il consiglio direttivo;   
+b) il direttore del centro.   
+Art. 319. - Il consiglio direttivo e' costituito da tre professori di ruolo del gruppo discipline biochimiche dell'Universita' di Ferrara.   
+I membri del consiglio direttivo sono nominati dal rettore su proposta della facolta' di medicina e chirurgia per un triennio e possono essere rinominati.   
+Il consiglio direttivo e' presieduto dal direttore del centro.   
+Art. 320. - Compiti del consiglio direttivo sono:   
+a) proporre al rettore la nomina del direttore del centro scelto tra membri del consiglio stesso;   
+b) coordinare i programmi e l'attivita' del centro;   
+c) deliberare sulla relazione annuale del direttore del centro e inoltrarla al rettore e al preside della facolta' di medicina e chirurgia.   
+Il consiglio direttivo si riunisce in seduti ordinaria almeno una volta all'anno e ogni qualvolta il direttore lo ritenga opportuno o uno dei suoi membri ne faccia motivata richiesta al direttore.   
+Art. 321. - Il direttore del centro e' nominato dal rettore, su proposta del consiglio direttivo, che lo sceglie tra i suoi membri.   
+Il direttore dura in carica tre anni e puo' essere rieletto.   
+Compiti del direttore sono:   
+a) curare l'attivita' del centro in base alle delibere programmatiche del consiglio direttivo;   
+b) disporre che lo svolgimento dell'attivita' dei ricercatori avvenga secondo modalita' predisposte dal consiglio direttivo e nel rispetto della normativa concernente i ricercatori di ruolo di cui al [decreto del Presidente della Repubblica 13 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-13;382) e al [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);   
+c) seguire quanto necessario per il buon funzionamento del centro stesso;   
+d) preparare alla fine di ogni anno accademico una relazione sull'attivita' del centro che viene esaminata ed approvata dal consiglio direttivo ed inoltrata al rettore e al preside della facolta' di medicina e chirurgia.   
+Art. 322. - Il direttore del centro e' responsabile della gestione amministrativa e contabile del centro stesso.   
+Il centro dispone di proprie attrezzature iscritte in apposito inventario, tenuto in consegna dal direttore del centro in conformita' alle norme contabili ed amministrative in vigore per gli istituti universitari di cui al [decreto del Presidente della Repubblica 4 marzo 1982, n. 371](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-04;371).   
+Art. 323. - I fondi per il funzionamento del centro sono quelli provenienti da erogazioni di enti pubblici e privati interessati alle finalita' istituzionali e scientifiche sia di base che applicate. Il centro puo' disporre anche di eventuali contributi concessi dall'Universita' sul proprio bilancio in armonia a quanto previsto dal [decreto del Presidente della Repubblica 4 marzo 1982, n. 371](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-04;371).   
+Art. 324. - Possono svolgere attivita' di ricerca presso il centro i ricercatori italiani e stranieri interessati al problema della patologia molecolare del morbo di Cooley e che siano autorizzati dal direttore del centro, previa specifica richiesta.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 febbraio 1953
+### Dato a Roma, addi' 11 ottobre 1983
 
-EINAUDI SEGNI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: ZOLI
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 15 maggio 1953
+Registrato alla Corte dei conti, addi' 18 gennaio 1984
 
-Atti dei Governo, registro n. 76, foglio n. 101. - PALLA
+Registro n. 2 Istruzione, foglio n. 194

@@ -1,624 +1,97 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 giugno 1969 n. 490
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 febbraio 1971 n. 1391
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 giugno 1969 n. 490
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 febbraio 1971 n. 1391
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato, con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Gli articoli 105, 106, 117, 118, 119, 120, 121, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, relativi alla scuola di specializzazione in pediatria, otorinolaringoiatria, odontoiatria e protesi dentaria, cardiologia, oncologia sono abrogati e sostituiti dai seguenti:
-
-Scuola di specializzazione in clinica pediatrica
-
-Art. 105. - L'ammissione al corso e' per esami e per titoli. La durata del corso e' di tre anni. Il numero massimo complessivo di iscritti e' stabilito in 36 specializzandi. L'internato e' obbligatorio con non piu' di due mesi di ferie all'anno.
-
-L'iscrizione direttamente al 2° corso puo' essere consentita a giudizio del consiglio della scuola per i candidati che abbiano conseguito il diploma di specializzazione in puericultura e che abbiano titoli pediatrici.
-
-Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-Clinica pediatrica (trienn.);
-
-Patologia pediatrica (bienn.);
-
-Puericultura (bienn.);
-
-Semeiotica pediatrica e tecnica diagnostica (bienn.);
-
-Auxologia normale e patologica;
-
-Psicologia dell'eta' evolutiva.
-
-2° Anno:
-
-Clinica pediatrica;
-
-Patologia pediatrica;
-
-Puericultura;
-
-Semeiotica pediatrica e tecnica diagnostica;
-
-Terapia pediatrica;
-
-Radiologia pediatrica;
-
-Malattie infettive dell'infanzia.
-
-3° Anno:
-
-Clinica pediatrica;
-
-Neuropsichiatria e igiene mentale dell'infanzia.
-
-Le materie fondamentali sopra elencate saranno integrate a giudizio del consiglio di ciascuna scuola da almeno tre insegnamenti scelti fra i seguenti:
-
-Chirurgia pediatrica;
-
-Ortopedia e traumatologia infantile;
-
-Odontoiatria;
-
-Clinica dermosifilopatica;
-
-Clinica oculistica;
-
-Clinica otorinolaringoiatrica;
-
-Cardiologia;
-
-Genetica;
-
-ed altre eventuali che il consiglio della scuola puo' stabilire di anno in anno.
-
-Art. 106. - Il direttore della scuola puo' disporre inoltre che si tengano un certo numero di conferenze su argomenti d'interesse pediatrico.
-
-Per conseguire il diploma di specializzazione in clinica pediatrica gli iscritti al corso dopo aver superato tutti gli esami e completata la frequenza obbligatoria, dovranno presentare e discutere una dissertazione scritta su un argomento di pediatria.
-
-Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale
-
-Art. 117. - La scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale ha la durata di tre anni.
-
-Il numero massimo degli iscritti e' limitato a 20, complessivamente per i tre anni.
-
-E' obbligatoria la presenza nell'istituto per tutta la durata della specializzazione.
-
-Gli esami di profitto vengono dati ogni anno sul programma svolto nell'anno stesso.
-
-L'esame di diploma consiste nella discussione da parte del candidato di una dissertazione scritta e nell'esecuzione della prova pratica sul malato.
-
-Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-Anatomia;
-
-Fisiologia;
-
-Audiologia (1° anno);
-
-Semeiotica otorinolaringoiatrica;
-
-Tecnica di laboratorio;
-
-Patologia otorinolaringoiatrica e cervico-facciale (1° anno);
-
-Anatomia ed istologia patologica otorinolaringoiatrica.
-
-2° Anno:
-
-Tecniche operatorie in otorinolaringoiatria;
-
-Anestesiologia in otorinolaringoiatria;
-
-Patologia e clinica otorinolaringoiatrica e cervicofacciale (2° anno);
-
-Radiologia in rapporto con l'otorinolaringoiatria;
-
-Pediatria in rapporto con l'otorinolaringoiatria;
-
-Audiologia (2° anno);
-
-Otoneurologia;
-
-Foniatria.
-
-3° Anno:
-
-Patologia e clinica otorinolaringoiatrica cervico-facciale (3° anno);
-
-Terapia medica e fisica in otorinolaringoiatria;
-
-Neuropatologia in rapporto con l'otorinolaringoiatria;
-
-Oculistica in rapporto con l'otorinolaringoiatria;
-
-Chirurgia plastica;
-
-Tracheo-broncoscopia;
-
-Medicina legale ed infortunistica in otorinolaringoiatria.
-
-Scuola di specializzazione in odontoiatria e protesi dentaria
-
-Art. 118. - Titolo di iscrizione: laurea in medicina e chirurgia.
-
-Ammissione: il numero massimo complessivo degli iscritti e fissato in 30 specializzandi.
-
-Durata: tre anni.
-
-Frequenza: obbligatoria per l'intero anno scolastico.
-
-Vacanze: conformi al calendario universitario, con un solo mese completo estivo (agosto).
-
-Art. 119. - Materie di insegnamento:
-
-1) Embriologia e anatomia dentaria e maxillo-facciale;
-
-2) Anatomia e istopatologia odontostomatologica;
-
-3) Microbiologia e igiene orale;
-
-4) Farmacologia odontostomatologica;
-
-5) Patologia odontostomatologica;
-
-6) Clinica odontostomatologica;
-
-7) Chirurgia maxillo-facciale;
-
-8) Anestesia e chirurgia stomatologica;
-
-9) Odontoiatria conservativa;
-
-10) Parodontologia;
-
-11) Clinica protesica dentaria e maxillo-facciale;
-
-12) Ortopedia dento-maxillo-facciale;
-
-13) Radiologia odontostomatologica;
-
-14) Odontotecnica;
-
-15) Odontoiatria infantile;
-
-16) Medicina legale odontostomatologica e delle assicurazioni.
-
-Esercitazioni pratiche affiancheranno gli insegnamenti.
-
-Art. 120. - Materie di insegnamento nei tre anni di corso:
-
-1° Anno:
-
-1) Embriologia ed anatomia dentaria e maxillo-facciale;
-
-2) Microbiologia e igiene orale;
-
-3) Farmacologia;
-
-4) Patologia odontostomatologica;
-
-5) Odontotecnica;
-
-6) Anestesia e chirurgia stomatologica;
-
-7) Odontoiatria conservativa (1° anno) (bienn.).
-
-Esercitazioni pratiche.
-
-2° Anno:
-
-1) Odontoiatria conservativa;
-
-2) Clinica protesica dentaria e maxillo-facciale (1° anno) (bienn.);
-
-3) Parodontologia (1° anno) (bienn.);
-
-4) Anatomia e istopatologia odontostomatologica;
-
-5) Odontoiatria infantile;
-
-6) Radiologia odontostomatologica;
-
-7) Ortopedia dento-maxillo-facciale (1° anno) (biennale);
-
-8) Chirurgia maxillo-facciale (1° anno) (bienn.).
-
-Esercitazioni pratiche.
-
-3° Anno:
-
-1) Clinica odontostomatologica;
-
-2) Chirurgia maxillo-facciale (2° anno);
-
-3) Medicina legale odontostomatologica e delle assicurazioni;
-
-4) Ortopedia dento-maxillo-facciale (2° anno);
-
-5) Clinica protesica dentaria e maxillo-facciale (2° anno);
-
-6) Parodontologia (2° anno).
-
-Esercitazioni pratiche.
-
-Art. 121. - Gli esami di profitto teorici e pratici saranno sostenuti alla fine di ogni anno in una unica sessione (ottobre);
-
-Alla fine del terzo anno, dopo aver superato gli esami di profitto, gli allievi saranno ammessi a sostenere l'esame di diploma che consiste nella discussione scritta, su un tema proposto in precedenza dall'insegnante della materia sulla quale verte l'argomento, e approvata dal direttore della scuola.
-
-Scuola di specializzazione in malattie dell'apparato cardiovascolare
-
-Art. 135. - Durata della scuola: La durata della scuola e' di tre anni.
-
-Art. 136. - Piano di studi: Comprende i seguenti insegnamenti ripartiti nei singoli anni:
-
-1° Anno:
-
-Anatomia normale dell'apparato cardiovascolare;
-
-Fisiopatologia dell'apparato cardio-vascolare e respiratorio;
-
-Fisiopatologia cardio-vascolare e respiratoria (1° corso);
-
-Patologia cardio-vascolare (1° corso);
-
-Semeiologia fisica (1° corso);
-
-Semeiologia strumentale (1° corso).
-
-2° Anno:
-
-Fisiopatologia cardio-vascolare e respiratoria (2° corso);
-
-Patologia cardio-vascolare (2° corso);
-
-Semeiologia fisica (2° corso);
-
-Semeiologia strumentale (2° corso);
-
-Anatomia patologica dell'apparato cardio-vascolare (1° corso);
-
-Radiologia;
-
-Farmacologia;
-
-Clinica e terapia (1° corso).
-
-3° Anno:
-
-Anatomia patologica dell'apparato cardio-vascolare (2° corso);
-
-Clinica e terapia (2° corso);
-
-Chirurgia dell'apparato cardio-vascolare;
-
-Problemi assicurativi e sociali (facoltativo).
-
-Art. 137. - Ammissione alla scuola: Alla scuola sono ammessi trenta laureati in medicina e chirurgia, per i tre anni di corso.
-
-La direzione della scuola si riserva di procedere ad una scelta in base ai titoli di studio ed eventualmente a mezzo di esami.
-
-Internato: L'internato e' obbligatorio.
-
-Art. 138. - Esami di profitto: L'iscritto al corso alla fine di ogni anno deve sostenere un esame di profitto complessivo il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo.
-
-Art. 139. - Esami di diploma: Al termine del corso ha luogo l'esame di diploma consistente nella presentazione e discussione di una dissertazione scritta su argomento cardiologico il cui argomento e' stato concordato tra il diplomando ed il direttore della scuola. La dissertazione deve essere depositata presso la segreteria universitaria quindici giorni prima dell'esame.
-
-Scuola di specializzazione in oncologia
-
-Art. 140. - La scuola di specializzazione in oncologia ha lo scopo ed il compito di formare la necessaria competenza scientifica e di completare la preparazione biologica e di patologia clinica di coloro che vogliono dedicarsi all'esercizio della medicina e chirurgia con speciale riguardo allo studio di tumori, alla diagnosi precoce, al loro rilievo ed alla loro prevenzione.
-
-La scuola e' diretta dal titolare della cattedra di anatomia ed istologia patologica o di patologia generale.
-
-Art. 141. - Alla scuola sono ammessi i laureati in medicina e chirurgia (con preferenza per gli specializzati in altre materie biologiche e cliniche) in numero limitato per ogni corso.
-
-Il numero complessivo di specializzandi, in ogni caso, non puo' superare i 60.
-
-Qualora le domande di iscrizione fossero superiori al numero dei posti disponibili, la direzione della scuola si riserva di formare una graduatoria in base ai titoli presentati, o ad esami.
-
-La frequenza al corso ed alle esercitazioni e' obbligatoria, con obbligo d'internato semestrale nei vari Istituti designati dal direttore della scuola.
-
-Art. 142. - Le materie di insegnamento sono cosi' suddivise nei singoli Corsi:
-
-1° Anno:
-
-Etiopatogenesi oncologica;
-
-Biochimica oncologica;
-
-Anatomia ed istologia patologica dei tumori.
-
-2° Anno:
-
-Oncologia sperimentale;
-
-Epidemiologia e statistica dei tumori.
-
-3° Anno:
-
-Diagnostica citologica e citologia dei tumori;
-
-Nozioni di diagnostica clinica o terapia dei tumori;
-
-Nozioni di clinica medica dei tumori;
-
-Nozioni di clinica ginecologica dei tumori;
-
-Organizzazione della lotta contro i tumori.
-
-Art. 143. - Il corso ha la durata di tre anni e l'insegnamento avra' carattere dottrinale, dimostrativo e pratico.
-
-La direzione della scuola ha la facolta' di invitare i cultori della materia a tenere conferenze, su capitoli dell'oncologia.
-
-Gli insegnamenti saranno completati con esercitazioni pratiche che si svolgeranno durante il corso nei vari istituti.
-
-Art. 144. - Alla fine di ogni corso, per essere ammessi al corso successivo, gli iscritti, ottenuta la firma di frequenza, dovranno sostenere un colloquio o un esame delle materie svolte.
-
-Alla fine del terzo anno, gli iscritti, che avranno ottenuta la firma di frequenza, saranno ammessi alla prova finale, consistente in un esame teorico-pratico che, superato, dara' diritto al candidato a discutere una dissertazione scritta su un argomento di oncologia generale o speciale.
-
-L'esame (od il colloquio), la prova pratica e teorica e la discussione della tesi di perfezionamento o di specializzazione, saranno sostenuti davanti ad una commissione costituita dal direttore della scuola, da tre titolari delle materie d'insegnamento del corso e da un libero docente di anatomia ed istologia patologica, o di patologia generale, quale segretario.
-
-Agli iscritti alla scuola, che avranno superato le prove prescritte sara' rilasciato un diploma di specialista in oncologia, da esibirsi a tutti gli effetti legali.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 25 giugno 1969
-
-SARAGAT
-
-FERRARI AGGRADI
-
-Visto, il Guardasigilli: GAVA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 1 agosto 1969 Atti del Governo, registro n. 228, foglio n. 101. - GRECO
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato, con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione di concerto con il Ministro per la sanita';   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 105, 106, 117, 118, 119, 120, 121, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, relativi alla scuola di specializzazione in pediatria, otorinolaringoiatria, odontoiatria e protesi dentaria, cardiologia, oncologia sono abrogati e sostituiti dai seguenti:  
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Scuola di specializzazione in clinica pediatrica  
+Dopo l'art. 216 e con il conseguente spostamento della successiva numerazione sono, inseriti i seguenti nuovi articoli relativi alla istituzione della scuola per tecnici di radiologia medica (scuola diretta a fini speciali).   
   
-Art. 105. - L'ammissione al corso e' per esami e per titoli. La durata del corso e' di tre anni. Il numero massimo complessivo di iscritti e' stabilito in 36 specializzandi. L'internato e' obbligatorio con non piu' di due mesi di ferie all'anno.  
-L'iscrizione direttamente al 2° corso puo' essere consentita a giudizio del consiglio della scuola per i candidati che abbiano conseguito il diploma di specializzazione in puericultura e che abbiano titoli pediatrici.  
-Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-Clinica pediatrica (trienn.);  
-Patologia pediatrica (bienn.);  
-Puericultura (bienn.);  
-Semeiotica pediatrica e tecnica diagnostica (bienn.);  
-Auxologia normale e patologica;  
-Psicologia dell'eta' evolutiva.  
-2° Anno:  
-Clinica pediatrica;  
-Patologia pediatrica;  
-Puericultura;  
-Semeiotica pediatrica e tecnica diagnostica;  
-Terapia pediatrica;  
-Radiologia pediatrica;  
-Malattie infettive dell'infanzia.  
-3° Anno:  
-Clinica pediatrica;  
-Neuropsichiatria e igiene mentale dell'infanzia.  
-Le materie fondamentali sopra elencate saranno integrate a giudizio del consiglio di ciascuna scuola da almeno tre insegnamenti scelti fra i seguenti:  
-Chirurgia pediatrica;  
-Ortopedia e traumatologia infantile;  
-Odontoiatria;  
-Clinica dermosifilopatica;  
-Clinica oculistica;  
-Clinica otorinolaringoiatrica;  
-Cardiologia;  
-Genetica;  
-ed altre eventuali che il consiglio della scuola puo' stabilire di anno in anno.  
-Art. 106. - Il direttore della scuola puo' disporre inoltre che si tengano un certo numero di conferenze su argomenti d'interesse pediatrico.  
-Per conseguire il diploma di specializzazione in clinica pediatrica gli iscritti al corso dopo aver superato tutti gli esami e completata la frequenza obbligatoria, dovranno presentare e discutere una dissertazione scritta su un argomento di pediatria.  
+Scuola per tecnici di radiologia medica   
+(Scuola diretta a fini speciali)   
   
-Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale  
+Art. 217. - E' istituita presso l'Universita' di Pavia e nell'ambito dell'ospedale policlinico S. Matteo una scuola per tecnici di radiologia medica.   
+Il funzionamento della scuola e' in accordo con gli articoli della [legge n. 1103 del 4 agosto 1965](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-08-04;1103) e' del relativo [regolamento del 6 marzo 1968, n. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1968-03-06;160).   
+Compito della scuola e' la preparazione dei tecnici di radiologia medica secondo l'intendimento indicato nell'art. 13 di detta legge.   
+Art. 218. - La scuola e' gestita e amministrata dalla Universita' di Pavia. I mezzi finanziari per il funzionamento della scuola gravano sui fondi dell'istituto.   
+Art. 219. - La direzione della scuola e' affidata al direttore dell'istituto di radiologia.   
+Nel caso di vacanza del posto di direttore dell'Istituto universitario di radiologia la direzione della scuola e' affidata, nei modi previsti all'[art. 9 della legge del 4 agosto 1965, n. 1103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-08-04;1103~art9), alla persona incaricata per legge, per regolamento o per disposizione della competente autorita' di sostituire il titolare mancante.   
+Art. 220. - Il direttore della scuola ha la piena responsabilita' didattica e funzionale della scuola, nei confronti della quale esercita costante opera di vigilanza e di controllo.   
+Il personale insegnante risponde direttamente verso il direttore della scuola dell'insegnamento affidatogli.   
+Il direttore della scuola convoca, quando lo crede opportuno, e presiede il consiglio degli insegnanti, per trattare questioni generali o particolari interessanti l'insegnamento e ne sottopone poi i deliberati al consiglio di amministrazione dell'universita' per provvedimenti di competenza.   
+Art. 221. - Gli insegnanti della scuola vengono scelti fra i docenti universitari e ospedalieri dell'istituto di radiologia.   
+L'insegnamento puo' essere affidato a docenti della facolta' di medicina e chirurgia e di altre facolta' universitarie, o a medici ospedalieri non dipendenti dall'insegnamento puo' essere affidato anche ad altri esperti che siano muniti del diploma di abilitazione di cui all'[art. 1 della legge 4 agosto 1965, n. 1103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-08-04;1103~art1) e che siano iscritti negli appositi albi previsti dalla legge.   
+Art. 222. - Possono essere ammessi alla scuola allievi di ambo i sessi.   
+Art. 223. - Gli aspiranti all'ammissione alla scuola devono essere in possesso di diploma di istruzione secondaria di 1° grado, aver compiuto il diciassettesimo anno alla data del 31 dicembre dell'anno scolastico cui si riferisce la domanda di ammissione e non aver superato il 32° anno di eta', salve le maggiorazioni di legge (vedi art. 10 del regolamento).   
+Costituisce titolo preferenziale per l'ammissione alla scuola, in aggiunta al diploma di istruzione secondaria di 1° grado predetto, il possesso di qualsiasi diploma di scuola professionale o di altro genere.   
+Art. 224. - Il corso di studi e' di tre anni.   
+Ogni anno scolastico ha la durata di nove mesi.   
+E' prevista la possibilita' che allievi iscritti ad altre scuole per tecnici di radiologia si trasferiscano presso questa scuola, purche' possano documentare di avere frequentato con profitto fino al momento del trasferimento. Questo comunque non deve avvenire oltre la meta' dell'anno scolastico.   
+Art. 225. - Il numero massimo degli allievi e' fissato in ventuno (21) e cioe' sette (7) per ogni anno.   
+Art. 226. - Non sono ammesse abbreviazioni della durata del corso di studio.   
+Art. 227. - Gli aspiranti all'ammissione devono fare domanda al direttore della scuola entro il termine di 10 giorni prima dell'inizio dell'anno scolastico. La domanda deve essere corredata dei documenti previsti all'art. 11 del regolamento del 6 marzo 1968 e che verranno indicati negli appositi bandi.   
+Come stabilito dall'art. 12 del regolamento del 6 marzo 1968 gli allievi ammessi devono preliminarmente essere sottoposti ad una visita medica generale con particolare riferimento alle condizioni ematologiche, da parte di uno o piu' sanitari designati dal consiglio di amministrazione dell'universita'.   
+Sull'ammissione degli aspiranti decide il direttore della scuola nei limiti dei posti stabiliti. Gli aspiranti sono ammessi alla scuola con provvedimento del direttore secondo l'ordine cronologico di presentazione della domanda, salvi criteri preferenziali fissati nel [terzo comma dell'art. 4 della legge n. 1103 del 4 agosto 1965](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-08-04;1103~art4-com3).   
+I minori di anni ventuno possono essere ammessi alla scuola con l'esplicito consenso scritto del padre o di chi esercita la patria potesta' o tutela.   
+I bandi per l'iscrizione verranno inviati agli istituti universitari di radiologia, di radiobiologia e di medicina nucleare, nonche' agli ospedali e ai principali enti pubblici.   
+L'iscrizione e la frequenza alla scuola sono gratuite.   
+Art. 228. - Al termine di ogni anno scolastico gli allievi devono sostenere un colloquio sulle materie di insegnamento del rispettivo anno.   
+Verra' eseguito uno scrutinio calcolando la media dei voti riportati dall'allievo, nell'anno, per il profitto di ciascuna materia. Gli allievi che non abbiano raggiunto la media di sei decimi non ottengono il passaggio all'anno successivo, se trattasi di allievi del primo e del secondo anno; mentre se trattasi di allievi del terzo anno non sono ammessi all'esame della sessione estiva per il conseguimento del titolo di abilitazione.   
+Al termine del corso di studio gli allievi sosterranno una prova di esame orale e pratica. Tale prova si svolgera' in due sessioni secondo le modalita' stabilite all'art. 17 del regolamento del 4 marzo 1968. Ogni membro della commissione esaminatrice dispone di dieci punti per la valutazione della prova di esame orale e di dieci punti per la prova pratica. Per conseguire il diploma l'allievo deve riportare in ciascuna delle due prove almeno sei decimi del punteggio totale a disposizione della commissione.   
+Art. 229. - La commissione esaminatrice e' nominata dal medico provinciale, che la presiede ed e' composta:   
   
-Art. 117. - La scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale ha la durata di tre anni.  
-Il numero massimo degli iscritti e' limitato a 20, complessivamente per i tre anni.  
-E' obbligatoria la presenza nell'istituto per tutta la durata della specializzazione.  
-Gli esami di profitto vengono dati ogni anno sul programma svolto nell'anno stesso.  
-L'esame di diploma consiste nella discussione da parte del candidato di una dissertazione scritta e nell'esecuzione della prova pratica sul malato.  
-Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-Anatomia;  
-Fisiologia;  
-Audiologia (1° anno);  
-Semeiotica otorinolaringoiatrica;  
-Tecnica di laboratorio;  
-Patologia otorinolaringoiatrica e cervico-facciale (1° anno);  
-Anatomia ed istologia patologica otorinolaringoiatrica.  
-2° Anno:  
-Tecniche operatorie in otorinolaringoiatria;  
-Anestesiologia in otorinolaringoiatria;  
-Patologia e clinica otorinolaringoiatrica e cervicofacciale (2° anno);  
-Radiologia in rapporto con l'otorinolaringoiatria;  
-Pediatria in rapporto con l'otorinolaringoiatria;  
-Audiologia (2° anno);  
-Otoneurologia;  
-Foniatria.  
-3° Anno:  
-Patologia e clinica otorinolaringoiatrica cervico-facciale (3° anno);  
-Terapia medica e fisica in otorinolaringoiatria;  
-Neuropatologia in rapporto con l'otorinolaringoiatria;  
-Oculistica in rapporto con l'otorinolaringoiatria;  
-Chirurgia plastica;  
-Tracheo-broncoscopia;  
-Medicina legale ed infortunistica in otorinolaringoiatria.  
+a) dal direttore della scuola;   
+b) da un primario ospedaliero di ruolo della specialita', designato dall'ordine dei medici della provincia;   
+c) da un docente di materia obbligatoria del corso di studio;   
+d) da un rappresentante del Ministero della pubblica istruzione.   
   
-Scuola di specializzazione in odontoiatria e protesi dentaria  
-  
-Art. 118. - Titolo di iscrizione: laurea in medicina e chirurgia.  
-Ammissione: il numero massimo complessivo degli iscritti e fissato in 30 specializzandi.  
-Durata: tre anni.  
-Frequenza: obbligatoria per l'intero anno scolastico.  
-Vacanze: conformi al calendario universitario, con un solo mese completo estivo (agosto).  
-Art. 119. - Materie di insegnamento:  
-1) Embriologia e anatomia dentaria e maxillo-facciale;  
-2) Anatomia e istopatologia odontostomatologica;  
-3) Microbiologia e igiene orale;  
-4) Farmacologia odontostomatologica;  
-5) Patologia odontostomatologica;  
-6) Clinica odontostomatologica;  
-7) Chirurgia maxillo-facciale;  
-8) Anestesia e chirurgia stomatologica;  
-9) Odontoiatria conservativa;  
-10) Parodontologia;  
-11) Clinica protesica dentaria e maxillo-facciale;  
-12) Ortopedia dento-maxillo-facciale;  
-13) Radiologia odontostomatologica;  
-14) Odontotecnica;  
-15) Odontoiatria infantile;  
-16) Medicina legale odontostomatologica e delle assicurazioni.  
-Esercitazioni pratiche affiancheranno gli insegnamenti.  
-Art. 120. - Materie di insegnamento nei tre anni di corso:  
-1° Anno:  
-1) Embriologia ed anatomia dentaria e maxillo-facciale;  
-2) Microbiologia e igiene orale;  
-3) Farmacologia;  
-4) Patologia odontostomatologica;  
-5) Odontotecnica;  
-6) Anestesia e chirurgia stomatologica;  
-7) Odontoiatria conservativa (1° anno) (bienn.).  
-Esercitazioni pratiche.  
-  
-2° Anno:  
-1) Odontoiatria conservativa;  
-2) Clinica protesica dentaria e maxillo-facciale (1° anno) (bienn.);  
-3) Parodontologia (1° anno) (bienn.);  
-4) Anatomia e istopatologia odontostomatologica;  
-5) Odontoiatria infantile;  
-6) Radiologia odontostomatologica;  
-7) Ortopedia dento-maxillo-facciale (1° anno) (biennale);  
-8) Chirurgia maxillo-facciale (1° anno) (bienn.).  
-Esercitazioni pratiche.  
-  
-3° Anno:  
-1) Clinica odontostomatologica;  
-2) Chirurgia maxillo-facciale (2° anno);  
-3) Medicina legale odontostomatologica e delle assicurazioni;  
-4) Ortopedia dento-maxillo-facciale (2° anno);  
-5) Clinica protesica dentaria e maxillo-facciale (2° anno);  
-6) Parodontologia (2° anno).  
-Esercitazioni pratiche.  
-  
-Art. 121. - Gli esami di profitto teorici e pratici saranno sostenuti alla fine di ogni anno in una unica sessione (ottobre);  
-Alla fine del terzo anno, dopo aver superato gli esami di profitto, gli allievi saranno ammessi a sostenere l'esame di diploma che consiste nella discussione scritta, su un tema proposto in precedenza dall'insegnante della materia sulla quale verte l'argomento, e approvata dal direttore della scuola.  
-  
-Scuola di specializzazione in malattie dell'apparato cardiovascolare   
-Art. 135. - Durata della scuola: La durata della scuola e' di tre anni.  
-Art. 136. - Piano di studi: Comprende i seguenti insegnamenti ripartiti nei singoli anni:  
-1° Anno:  
-Anatomia normale dell'apparato cardiovascolare;  
-Fisiopatologia dell'apparato cardio-vascolare e respiratorio;  
-Fisiopatologia cardio-vascolare e respiratoria (1° corso);  
-Patologia cardio-vascolare (1° corso);  
-Semeiologia fisica (1° corso);  
-Semeiologia strumentale (1° corso).  
-2° Anno:  
-Fisiopatologia cardio-vascolare e respiratoria (2° corso);  
-Patologia cardio-vascolare (2° corso);  
-Semeiologia fisica (2° corso);  
-Semeiologia strumentale (2° corso);  
-Anatomia patologica dell'apparato cardio-vascolare (1° corso);  
-Radiologia;  
-Farmacologia;  
-Clinica e terapia (1° corso).  
-3° Anno:  
-Anatomia patologica dell'apparato cardio-vascolare (2° corso);  
-Clinica e terapia (2° corso);  
-Chirurgia dell'apparato cardio-vascolare;  
-Problemi assicurativi e sociali (facoltativo).  
-Art. 137. - Ammissione alla scuola: Alla scuola sono ammessi trenta laureati in medicina e chirurgia, per i tre anni di corso.  
-La direzione della scuola si riserva di procedere ad una scelta in base ai titoli di studio ed eventualmente a mezzo di esami.  
-Internato: L'internato e' obbligatorio.  
-Art. 138. - Esami di profitto: L'iscritto al corso alla fine di ogni anno deve sostenere un esame di profitto complessivo il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo.  
-Art. 139. - Esami di diploma: Al termine del corso ha luogo l'esame di diploma consistente nella presentazione e discussione di una dissertazione scritta su argomento cardiologico il cui argomento e' stato concordato tra il diplomando ed il direttore della scuola. La dissertazione deve essere depositata presso la segreteria universitaria quindici giorni prima dell'esame.  
-  
-Scuola di specializzazione in oncologia  
-  
-Art. 140. - La scuola di specializzazione in oncologia ha lo scopo ed il compito di formare la necessaria competenza scientifica e di completare la preparazione biologica e di patologia clinica di coloro che vogliono dedicarsi all'esercizio della medicina e chirurgia con speciale riguardo allo studio di tumori, alla diagnosi precoce, al loro rilievo ed alla loro prevenzione.  
-La scuola e' diretta dal titolare della cattedra di anatomia ed istologia patologica o di patologia generale.  
-Art. 141. - Alla scuola sono ammessi i laureati in medicina e chirurgia (con preferenza per gli specializzati in altre materie biologiche e cliniche) in numero limitato per ogni corso.  
-Il numero complessivo di specializzandi, in ogni caso, non puo' superare i 60.  
-Qualora le domande di iscrizione fossero superiori al numero dei posti disponibili, la direzione della scuola si riserva di formare una graduatoria in base ai titoli presentati, o ad esami.  
-La frequenza al corso ed alle esercitazioni e' obbligatoria, con obbligo d'internato semestrale nei vari Istituti designati dal direttore della scuola.  
-Art. 142. - Le materie di insegnamento sono cosi' suddivise nei singoli Corsi:  
-1° Anno:  
-Etiopatogenesi oncologica;  
-Biochimica oncologica;  
-Anatomia ed istologia patologica dei tumori.  
-2° Anno:  
-Oncologia sperimentale;  
-Epidemiologia e statistica dei tumori.  
-3° Anno:  
-Diagnostica citologica e citologia dei tumori;  
-Nozioni di diagnostica clinica o terapia dei tumori;  
-Nozioni di clinica medica dei tumori;  
-Nozioni di clinica ginecologica dei tumori;  
-Organizzazione della lotta contro i tumori.  
-Art. 143. - Il corso ha la durata di tre anni e l'insegnamento avra' carattere dottrinale, dimostrativo e pratico.  
-La direzione della scuola ha la facolta' di invitare i cultori della materia a tenere conferenze, su capitoli dell'oncologia.  
-Gli insegnamenti saranno completati con esercitazioni pratiche che si svolgeranno durante il corso nei vari istituti.  
-Art. 144. - Alla fine di ogni corso, per essere ammessi al corso successivo, gli iscritti, ottenuta la firma di frequenza, dovranno sostenere un colloquio o un esame delle materie svolte.  
-Alla fine del terzo anno, gli iscritti, che avranno ottenuta la firma di frequenza, saranno ammessi alla prova finale, consistente in un esame teorico-pratico che, superato, dara' diritto al candidato a discutere una dissertazione scritta su un argomento di oncologia generale o speciale.  
-L'esame (od il colloquio), la prova pratica e teorica e la discussione della tesi di perfezionamento o di specializzazione, saranno sostenuti davanti ad una commissione costituita dal direttore della scuola, da tre titolari delle materie d'insegnamento del corso e da un libero docente di anatomia ed istologia patologica, o di patologia generale, quale segretario.  
-Agli iscritti alla scuola, che avranno superato le prove prescritte sara' rilasciato un diploma di specialista in oncologia, da esibirsi a tutti gli effetti legali.  
+Un funzionario della carriera direttiva amministrativa del Ministero della sanita' esercita le funzioni di segretario.   
+Le spese per il funzionamento della commissione di esame sono liquidate dall'Universita' di Pavia.   
+Art. 230. - Il corso di studi comprende lezioni teoriche, esercitazioni e tirocinio pratico.   
+Il programma di insegnamento e' quello indicato dal decreto ministeriale del 19 aprile 1968, pubblicato nella Gazzetta Ufficiale del 20 dicembre 1968.   
+Il primo anno di studio comprende solo lezioni teoriche ed esercitazioni pratiche, con esclusione di ogni contatto degli allievi con gli ammalati.   
+Gli allievi non possono rimanere occupati per piu' di sei ore al giorno comprendendo in questo periodo tanto il tempo delle lezioni, quanto quello assegnato alle esercitazioni di tirocinio pratico, che non possono superare le due ore giornaliere.   
+Durante le esercitazioni e il tirocinio pratico ciascun allievo deve essere munito di idonei mezzi di protezione, nonche' degli apparecchi di misurazione delle radiazioni ionizzanti.   
+Art. 231. - Il tirocinio degli allievi presso l'istituto di radiologia dell'Universita' di Pavia, non da' luogo ad alcun rapporto di lavoro con l'universita', che e' esonerata dall'obbligo di corrispondere qualsiasi emolumento a titolo di stipendio o salario e qualsiasi contributo assicurativo e previdenziale.   
+L'universita' per contro provvede con i mezzi a disposizione dell'istituto di radiologia alla assicurazione degli allievi contro gli infortuni, le malattie e le lesioni causate da raggi X e sostanze radioattive e provvede a ricoverarli gratuitamente in caso di malattia acuta contratta durante il corso.   
+Art. 232. - Le visite mediche preventive, i controlli sanitari, di laboratorio e dosimetrici, richiesti all'art. 12 del regolamento del 6 marzo 1968 e della [legge del 20 febbraio 1958, n. 93](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-20;93), vengono svolti presso il servizio di radioprotezione funzionante nell'istituto di radiologia.   
+Le documentazioni relative verranno accluse ai fascicoli dei singoli allievi.   
+Art. 233. - Le trasgressioni di cui gli allievi si siano resi colpevoli nell'adempimento dei doveri scolastici debbono essere riferiti immediatamente al direttore per i conseguenti provvedimenti disciplinari.   
+Per le infrazioni si applicano, in quanto compatibili, le norme previste dalle disposizioni vigenti per gli istituti professionali dello Stato.   
+I provvedimenti che non implicano l'allontanamento dalla scuola sono di competenza del direttore.   
+I provvedimenti espulsivi vengono adottati dal consiglio dei professori. Contro i provvedimenti di allontanamento dalla scuola e' ammesso il ricorso per motivi di legittimita' e di merito al consiglio di amministrazione dell'Universita' di Pavia.   
+Art. 234. - La scuola si avvale degli impianti e dei mezzi per l'insegnamento e per il tirocinio gia' esistenti presso l'istituto di radiologia dell'universita'.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 giugno 1969
+### Dato a Roma, addi' 1 febbraio 1971
 
-SARAGAT FERRARI AGGRADI
+SARAGAT MISASI - MARIOTTI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 1 agosto 1969
+Registrato alla Corte dei conti, addi' 20 marzo 1972
 
-Atti del Governo, registro n. 228, foglio n. 101. - GRECO
+Atti del Governo, registro n. 247, foglio n. 147. - VALENTINI

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1958 n. 1077
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1975 n. 769
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1958 n. 1077
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1975 n. 769
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successivi;
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -22,7 +22,7 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni delle autorita' accademiche dell'Universita' di Pisa e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -30,55 +30,118 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita', degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 108. - Agli insegnamenti complementari del Corso di laurea in ingegneria e' aggiunto quello di "servomeccanismi".
+Art. 79 - l'elenco degli istituti, annessi alla facolta' di medicina e chirurgia, e' modificato nel senso che l'istituto di medicina del lavoro viene trasformato nel seguente istituto policattedra:
+
+istituto di metodologia clinica e medicina del lavoro.
+
+Art. 96 - l'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' modificato nel senso che l'insegnamento di "biologia delle razze umane" muta denominazione in quella di: "biologia delle popolazioni umane".
+
+Nello stesso elenco sono aggiunti i seguenti insegnamenti complementari:
+
+antropometria;
+
+ecologia preistorica.
+
+Art. 142 - all'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:
+
+sociologia rurale;
+
+economia della commercializzazione dei prodotti agricoli;
+
+assistenza, consulenza e divulgazione agricola;
+
+idrologia agraria e tecnica dell'irrigazione;
+
+tecnica del diserbo chimico;
+
+tecnica vivaistica (semestrale);
+
+entomologia ortofrutticola;
+
+floricoltura industriale.
+
+Nello stesso elenco gli insegnamenti di "orticoltura e floricoltura in serra" (semestrale); "virologia" (semestrale); "nematologia" e "acarologia" mutano la denominazione rispettivamente in quella di:
+
+tecnica delle colture protette;
+
+virologia vegetale (semestrale);
+
+nematologia agraria (semestrale);
+
+acarologia agraria (semestrale).
+
+L'art. 145, relativo all'elenco degli istituti annessi alla facolta' di agraria, e' modificato nel senso che l'istituto di anatomia e fisiologia degli animali domestici assume la seguente denominazione:
+
+istituto di anatomia e fisiologia degli animali domestici "Narciso Favilli".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 27 ottobre 1958
+Dato a Roma, addi' 13 ottobre 1975
 
-GRONCHI
+LEONE
 
-MORO
+MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 18 Dicembre 1958 Atti del Governo, registro n. 115, foglio n. 73. - RELLEVA
+alla Corte dei conti, addi' 13 gennaio 1976 Atti di Governo, registro n. 1, foglio n. 35
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successivi;   
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni delle autorita' accademiche dell'Universita' di Pisa e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita', degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 108. - Agli insegnamenti complementari del Corso di laurea in ingegneria e' aggiunto quello di "servomeccanismi".   
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 79 - l'elenco degli istituti, annessi alla facolta' di medicina e chirurgia, e' modificato nel senso che l'istituto di medicina del lavoro viene trasformato nel seguente istituto policattedra:  
+istituto di metodologia clinica e medicina del lavoro.  
+Art. 96 - l'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' modificato nel senso che l'insegnamento di "biologia delle razze umane" muta denominazione in quella di: "biologia delle popolazioni umane".  
+Nello stesso elenco sono aggiunti i seguenti insegnamenti complementari:  
+antropometria;  
+ecologia preistorica.  
+Art. 142 - all'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:  
+sociologia rurale;  
+economia della commercializzazione dei prodotti agricoli;  
+assistenza, consulenza e divulgazione agricola;  
+idrologia agraria e tecnica dell'irrigazione;  
+tecnica del diserbo chimico;  
+tecnica vivaistica (semestrale);  
+entomologia ortofrutticola;  
+floricoltura industriale.  
+Nello stesso elenco gli insegnamenti di "orticoltura e floricoltura in serra" (semestrale); "virologia" (semestrale); "nematologia" e "acarologia" mutano la denominazione rispettivamente in quella di:  
+tecnica delle colture protette;  
+virologia vegetale (semestrale);  
+nematologia agraria (semestrale);  
+acarologia agraria (semestrale).  
+L'art. 145, relativo all'elenco degli istituti annessi alla facolta' di agraria, e' modificato nel senso che l'istituto di anatomia e fisiologia degli animali domestici assume la seguente denominazione:  
+istituto di anatomia e fisiologia degli animali domestici "Narciso Favilli".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 ottobre 1958
+### Dato a Roma, addi' 13 ottobre 1975
 
-GRONCHI MORO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 18 Dicembre 1958
+Registrato alla Corte dei conti, addi' 13 gennaio 1976
 
-Atti del Governo, registro n. 115, foglio n. 73. - RELLEVA
+Atti di Governo, registro n. 1, foglio n. 35

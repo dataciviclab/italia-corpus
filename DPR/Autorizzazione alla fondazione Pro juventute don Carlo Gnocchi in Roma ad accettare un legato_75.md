@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1978 n. 623
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1984 n. 651
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1978 n. 623
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1984 n. 651
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
@@ -12,12 +12,8 @@ Art. 1
 
 N.
 
-623. Decreto del Presidente della Repubblica 1 agosto 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.na Miotti Maria con testamento olografo 3 marzo 1973, pubblicato a rogito notaio dott. Carlo D'Este in data 4 febbraio 1975, n. 7308 di repertorio e n. 3126 di raccolta, registrato a Rapallo il 17 febbraio 1975 al n. 261, vol. 180 mod. 1, consistente in beni immobili siti in Rapallo:
-
-a) appartamento sito in via Vespucci 22/9, riportato al nuovo catasto edilizio urbano alla partita 4485, foglio 35, mappale 429 sub 18 di vani 8;
-
-b) magazzino sito in via Vespucci 22/9, riportato nel nuovo catasto edilizio urbano alla partita 4485, foglio 35, mappale 429 sub 6, di mq. 14, il tutto per un valore complessivo di L. 17.000.000.  
+651. Decreto del Presidente della Repubblica 20 giugno 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di lire 15.000.000, disposto dal sig. Picozzi Alessandro con testamento olografo 6 ottobre 1980, pubblicato in data 7 maggio 1981, n. 132021 di repertorio e n. 5425 di raccolta, a rogito dott. Michele Palermo-Patera, notaio in Milano, registrato a Milano il 15 maggio 1982 al n. 12610.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 11 ottobre 1978  
-Registro n. 7 Presidenza, foglio n. 13
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 27 settembre 1984  
+Registro n. 8 Presidenza, foglio n. 91

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 532
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1985 n. 987
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 532
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1985 n. 987
+==============================================================
 
 Autorizzazione all'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, ad acquistare un immobile.
 --------------------------------------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-532. Decreto del Presidente della Repubblica 11 maggio 1979, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, viene autorizzata ad acquistare, al prezzo di L. 87.600.000, l'immobile costituito da due monolocali con servizi, un appartamento di sei vani e accessori, un locale al piano seminterrato sito in Firenze alla via Capodimondo-via Mannelli, distinto nel nuovo catasto edilizio urbano al foglio 96 dalle particelle 21, 24, 533, 534 e 535, di proprieta' della S.p.a.  
-Manifatture specchi e vetri Felice Quentin, come da atto di compravendita in data 20 giugno 1974, n. 10192 di repertorio, a rogito notaio Mario Speranzini.  
+987. Decreto del Presidente della Repubblica 25 ottobre 1985, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, viene autorizzata ad acquistare, al prezzo di L. 57.200.000, un appartamento al primo piano, scala D, dell'immobile sito in Foggia, via Zuretti, censito al nuovo catasto edilizio urbano alla partita n. 3322, foglio n. 95, particelle n. 30 e n. 35, di proprieta' della S.p.a. S.I.F.T. di Napoli, come da atto preliminare di compravendita 1° luglio 1975, n. 124272 di repertorio, a rogito dott. Francesco Mustilli, notaio in Napoli, da adibire a sede della sezione provinciale dell'Ente.   
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 10 ottobre 1979  
-Registro n. 1 Lavoro, foglio n. 76
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 22 marzo 1986   
+Registro n. 1 Lavoro, foglio n. 236

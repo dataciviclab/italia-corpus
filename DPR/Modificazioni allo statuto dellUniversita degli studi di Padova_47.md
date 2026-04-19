@@ -1,22 +1,112 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1050
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 settembre 1966 n. 925
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1050
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 settembre 1966 n. 925
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847) e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 172. - E' abrogato e sostituito dal seguente:
+
+La Facolta' di agraria conferisce:
+
+la laurea in Scienze agrarie;
+
+la laurea in Scienze forestali.
+
+Dopo l'art. 176, e con il conseguente spostamento della numerazione degli articoli successivi, viene aggiunto il seguente nuovo articolo, relativo alla istituzione del corso di laurea in Scienze forestali:
+
+Art. 177. - La durata del corso degli studi per la laurea in Scienze forestali e' di due anni.
+
+Titolo di ammissione: certificato di aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali dal primo biennio di studi per la laurea in Scienze agrarie:
+
+Insegnamenti fondamentali:
+
+1) Botanica forestale;
+
+2) Alpicoltura I (prati, pascoli, agricoltura nella regione di montagna) (semestrale);
+
+3) Alpicoltura II (zootecnia nella regione di montagna) (semestrale);
+
+4) Chimica forestale;
+
+5) Zoologia forestale venatoria e acquicoltura;
+
+6) Dendrometria (semestrale);
+
+7) Selvicoltura I (ecologia e selvicoltura generale);
+
+8) Selvicoltura II (selvicoltura speciale);
+
+9) Topografia;
+
+10) Costruzioni forestali (semestrale);
+
+11) Sistemazioni idraulico-forestali;
+
+12) Assestamento forestale;
+
+13) Tecnologia e utilizzazione forestale (compresa meccanica applicata);
+
+14) Patologia vegetale forestale;
+
+15) Industrie chimico-forestali (semestrale);
+
+16) Legislazione forestale;
+
+17) Economia ed estimo forestale.
+
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali del biennio.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 20 settembre 1966
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 29 ottobre 1966 Atti del Governo, registro n. 206, foglio n. 136. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847) e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -24,61 +114,44 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 353, relativo ai titoli di ammissione alle scuole di specializzazione in medicina e chirurgia e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente:  
-"Alle scuole di specializzazione possono iscriversi solamente i laureati in medicina e chirurgia".  
   
-Art. 362, relativo all'elenco delle scuole di specializzazione in medicina e chirurgia e' modificato nel senso che la scuola in igiene e medicina preventiva conferisce il diploma di specialista in igiene e medicina preventiva (con orientamento di sanita' pubblica, laboratorio, igiene e tecnica ospedaliera, igiene e medicina scolastica).  
-Allo stesso elenco e' aggiunta la seguente scuola:  
-Scuola in chirurgia plastica che conferisce il diploma di "Specialista in chirurgia plastica".  
-  
-Art. 363. - Dopo l'ordinamento della scuola in psichiatria, e' aggiunta la scuola di specializzazione in chirurgia plastica con il seguente piano di studi.  
-  
-Scuola di specializzazione in chirurgia plastica  
-(durata del corso anni tre)  
-  
-1° Anno:  
-Patologia generale;  
-Concetti di patologia secondaria;  
-Guarigione delle ferite;  
-Trapianti;  
-Omoinnesti;  
-Traumatologia dei tessuti molli;  
-Malattia ustione (fisiopatologia e clinica) (biennale);  
-Anatomia ed embriologia (con specifico riferimento alla faccia, collo, organi genitali, arti superiori ed inferiori);  
-Anatomia ed istologia patologica (con specifico riferimento alla malattia ustione e ai tumori cutanei benigni e maligni);  
-Anestesiologia e rianimazione (concetti generali sui principi che suggeriscono l'adozione dei vari metodi e tecniche anestesiologiche).   
-2° Anno:  
-Tecnica operatoria;  
-Anatomia chirurgica;  
-Malformazioni congenite;  
-Malattia ustione (terapia medica e chirurgica);  
-Elementi di otorinolaringoiatria;  
-Elementi di stomatologia;  
-Elementi di ortopedia generale;  
-  
-Dermatologia generale (con specifico riferimento alle malattie o lesioni congenite, di competenza plastica, passibili di trattamento chirurgico) (biennale).  
-  
-3° Anno:  
-Metodologia chirurgica differenziale;  
-Conservazione e tipizzazione dei tessuti;  
-Chirurgia riparatrice della mano;  
-Chirurgia riparatrice e correttiva del volto;  
-Dermatologia generale (biennale);  
-Medicina legale e delle assicurazioni (con riferimento alle deformita' anatomiche e alle menomazioni funzionali di origine traumatica);  
-Elementi di criobiologia e di criochirurgia.  
-Ammissione alla scuola previo superamento di esame, con prova scritta e orale, inteso a chiarire il grado di preparazione generale del candidato ed i suoi specifici interessi ed attitudini verso la chirurgia plastica.  
-Numero massimo complessivo degli iscritti ai tre anni di corso: trenta (dieci per ogni anno di corso).  
+Art. 172. - E' abrogato e sostituito dal seguente:  
+La Facolta' di agraria conferisce:  
+la laurea in Scienze agrarie;  
+la laurea in Scienze forestali.  
+Dopo l'art. 176, e con il conseguente spostamento della numerazione degli articoli successivi, viene aggiunto il seguente nuovo articolo, relativo alla istituzione del corso di laurea in Scienze forestali:  
+Art. 177. - La durata del corso degli studi per la laurea in Scienze forestali e' di due anni.  
+Titolo di ammissione: certificato di aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali dal primo biennio di studi per la laurea in Scienze agrarie:  
+Insegnamenti fondamentali:  
+1) Botanica forestale;  
+2) Alpicoltura I (prati, pascoli, agricoltura nella regione di montagna) (semestrale);  
+3) Alpicoltura II (zootecnia nella regione di montagna) (semestrale);  
+4) Chimica forestale;  
+5) Zoologia forestale venatoria e acquicoltura;  
+6) Dendrometria (semestrale);  
+7) Selvicoltura I (ecologia e selvicoltura generale);  
+8) Selvicoltura II (selvicoltura speciale);  
+9) Topografia;  
+10) Costruzioni forestali (semestrale);  
+11) Sistemazioni idraulico-forestali;  
+12) Assestamento forestale;  
+13) Tecnologia e utilizzazione forestale (compresa meccanica applicata);  
+14) Patologia vegetale forestale;  
+15) Industrie chimico-forestali (semestrale);  
+16) Legislazione forestale;  
+17) Economia ed estimo forestale.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali del biennio.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1969
+### Dato a Roma, addi' 20 settembre 1966
 
-SARAGAT FERRARI AGGRADI
+SARAGAT GUI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 5 gennaio 1970
+Registrato alla Corte dei conti, addi' 29 ottobre 1966
 
-Atti del Governo, registro n. 231, foglio n. 10. - CARUSO
+Atti del Governo, registro n. 206, foglio n. 136. - VILLA

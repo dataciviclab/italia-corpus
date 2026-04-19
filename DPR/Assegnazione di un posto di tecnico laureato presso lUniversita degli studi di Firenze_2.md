@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1984 n. 669
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 580
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1984 n. 669
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 580
 =============================================================
 
 Assegnazione di un posto di tecnico laureato presso l'Universita' degli studi di Firenze.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-669. Decreto del Presidente della Repubblica 9 aprile 1984, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di storia dell'arte della facolta' di lettere e filosofia dell'Universita' di Firenze.   
+580. Decreto del Presidente della Repubblica 15 luglio 1983, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di clinica medica IV (per le esigenze della cattedra di fisiopatologia respiratoria) della facolta' di medicina e chirurgia dell'Universita' di Firenze.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 1° ottobre 1984   
-Registro n. 58 Istruzione, foglio n. 289
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 11 ottobre 1983  
+Registro n. 66 Istruzione, foglio n. 95

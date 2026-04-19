@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1965 n. 1255
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1965 n. 1341
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1965 n. 1255
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1965 n. 1341
+===============================================================
 
 Autorizzazione all'Automobile Club di Lucca ad acquistare un immobile.
 ----------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1255. Decreto del Presidente della Repubblica 27 settembre 1965, col quale, sulla proposta dei Ministri per il turismo e lo spettacolo, l'Automobile Club di Lucca, viene autorizzato ad acquistare in proprieta' dalla Societa' a.r.l. "Societa' Lucchese Appalti e Forniture" - SLAF, con sede in Lucca, per il prezzo di L. 3.160.000, l'appezzamento di terreno esteso mq. 395 sito in Lucca, frazione Sant'Anna, luogo detto alle Tagliate o dietro l'A.C.I., per l'ampliamento, della sede dei propri uffici.  
+1341. Decreto del Presidente della Repubblica 19 ottobre 1965, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile Club di Lucca viene autorizzato ad acquistare in proprieta' dal dott. Gabbrielli o Gabbrielli Bacci Rodolfo, per il prezzo di L. 10.000.000, l'intero villino composto di due piani (con corte annessa e casetta interna) sito in Viareggio alla via Buonarroti n. 11, da destinare a sede della propria delegazione.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 13 novembre 1965  
-Atti del Governo, registro n. 198, foglio n. 32. - VILLA
+Registrato alla Corte dei conti, addi' 4 dicembre 1965  
+Atti del Governo, registro n. 198, foglio n. 77. - VILLA

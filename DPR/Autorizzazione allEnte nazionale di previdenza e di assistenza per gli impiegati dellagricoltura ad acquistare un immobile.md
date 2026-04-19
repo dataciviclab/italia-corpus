@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1972 n. 314
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 agosto 1971 n. 1027
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1972 n. 314
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 agosto 1971 n. 1027
+==============================================================
 
 Autorizzazione all'Ente nazionale di previdenza e di assistenza per gli impiegati dell'agricoltura ad acquistare un immobile.
 -----------------------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-314. Decreto del Presidente della Repubblica 26 aprile 1972, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Ente nazionale di previdenza ed assistenza per gli impiegati dell'agricoltura viene autorizzato ad acquistare per il prezzo di L. 14.750.000 l'immobile costituito da un appartamento al piano seminterrato composto da otto vani commerciali per una superficie coperta di mq. 181, sito in Roma, via Po, 22, di proprieta' della signora Raffaella Curioni ved. Patamia, come da rogito per notaio avv. Tito Staderini del 23 marzo 1971, repertorio n. 293251.  
+1027. Decreto del Presidente della Repubblica 28 agosto 1971, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Ente nazionale di previdenza e di assistenza per gli impiegati dell'agricoltura viene autorizzato ad acquistare per il prezzo di L. 300.000.000 l'immobile costituito da un appezzamento di terreno della superficie di mq. 350.000, sito in Roma, localita' S. Maria Nuova, di proprieta' dei signori Enrico Balestrieri Cosimelli, Lina Bambagini, Fausto Grisi, Ulisse Miserocchi e Guido Brandolini d'Adda, come da rogito per notaio avv. Tito Staderini del 25 novembre 1961, rep. n. 316302.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 27 giugno 1972  
-Atti del Governo, registro n. 249, foglio n. 116. - VALENTINI
+Visto, il Guardasigilli: COLOMBO  
+Registrato alla Corte dei conti, addi' 2 dicembre 1971  
+Atti del Governo, registro n. 245, foglio n. 113. - CARUSO

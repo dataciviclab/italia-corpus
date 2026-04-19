@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1972 n. 407
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1969 n. 956
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1972 n. 407
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1969 n. 956
+==============================================================
 
 Modificazioni allo statuto dell'Universita' cattolica del "S. Cuore" di Milano.
 -------------------------------------------------------------------------------
@@ -18,8 +18,6 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
@@ -30,385 +28,398 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' cattolica del "S. Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso.
+Lo statuto dell'Universita' cattolica del "S. Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-L'art. 11, relativo al corso di laurea in scienze politiche, e' integrato con il seguente comma:
+dopo l'articolo 108 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Clinica dermosifilopatica", "Medicina nucleare", "Ortopedia e traumatologia", "Clinica pediatrica".
 
-Gli insegnamenti a scelta del piano di studi di ciascun indirizzo potranno essere individuati dalla facolta' fra quelli obbligatori in un altro indirizzo ovvero nel seguente elenco:
+Scuola di specializzazione in clinica dermosifilopatica
 
-Contabilita' nazionale;
+Art. 109. - La scuola di specializzazione in clinica dermosifilopatica ha la durata di 3 anni. Alla scuola possono iscriversi, previo esame di ammissione, i laureati in medicina e chirurgia in numero totale di diciotto per i tre anni di corso.
 
-Demografia;
+Le materie di insegnamento sono le seguenti:
 
-Diritto amministrativo internazionale;
+1° Anno:
 
-Diritto canonico;
+1) Anatomia ed istologia della cute;
 
-Diritto delle Comunita' europee;
+2) Fisiologia della cute e degli annessi cutanei;
 
-Diritto diplomatico e consolare;
+3) Anatomia e fisiologia dell'apparato genitale;
 
-Diritto ecclesiastico italiano e comparato;
+4) Microbiologia e parassitologia applicate;
 
-Diritto dell'economia;
+5) Tecnica di laboratorio con particolare riferimento alla sierologia applicata;
 
-Diritto degli enti locali;
+6) Semeiotica dermatologica e venereologica.
 
-Diritto finanziario;
+2° Anno:
 
-Diritto internazionale del lavoro;
+1) Patologia delle malattie cutanee;
 
-Diritto internazionale privato;
+2) Patologia delle infezioni sessuali;
 
-Diritto del lavoro;
+3) Anatomia ed istologia patologica della cute;
 
-Diritto parlamentare;
+4) Anatomia patologica delle malattie veneree e sessuali;
 
-Diritto pubblico comparato;
+5) Angiologia;
 
-Diritto regionale;
+6) Sessuologia.
 
-Diritto degli scambi internazionali;
+3° Anno:
 
-Diritto tributario;
+1) Clinica delle malattie cutanee;
 
-Dottrina dello Stato;
+2) Clinica delle infezioni sessuali;
 
-Econometria;
+3) Farmacologia e terapia medicamentosa;
 
-Economia aziendale;
+4) Fisioterapia dermatologica;
 
-Economia e politica agraria;
+5) Cosmetologia;
 
-Economia e politica industriale;
+6) Chirurgia plastica riparatrice;
 
-Economia, e politica monetaria;
+7) Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.
 
-Economia dei trasporti;
+Gli esami di profitto degli specializzandi verranno espletati in tre gruppi e in tre sessioni distinte, ogni gruppo comprendente le materie proprie di ciascun anno di studio.
 
-Economia urbanistica;
+L'esame di diploma consistera' nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato 24 ore prima della prova.
 
-Etnologia;
+Scuola di specializzazione in medicina nucleare
 
-Geografia economica;
+Art. 110. - La scuola di specializzazione in medicina nucleare ha la durata di tre anni.
 
-Geografia politica;
+Alla scuola possono iscriversi, previo esame di ammissione, i laureati in medicina e chirurgia, in numero totale di diciotto per i tre anni di corso.
 
-Logica;
+Le materie di insegnamento sono le seguenti:
 
-Matematica generale;
+1° Anno:
 
-Matematica per le scienze sociali;
+1) Fondamenti di matematica e statistica;
 
-Metodologia della ricerca storica;
+2) Fisica nucleare e delle radiazioni;
 
-Organizzazione e amministrazione delle grandi aziende pubbliche e private;
+3) Tecniche per le misure di radioattivita';
 
-Organizzazione economica internazionale;
+4) Dosimetria.
 
-Pedagogia;
+2° Anno:
 
-Pianificazione e organizzazione territoriale;
+1) Teoria dei traccianti;
 
-Politica economica e finanziaria;
+2) Elementi di radiochimica;
 
-Politica internazionale;
+3) Applicazioni diagnostiche I;
 
-Principi e tecnica delle applicazioni meccanografiche ed elettroniche;
+4) Elementi di radiobiologia.
 
-Programmazione economica;
+3° Anno:
 
-Psicologia;
+1) Applicazioni diagnostiche II;
 
-Psicologia sociale;
+2) Applicazioni terapeutiche;
 
-Ricerca operativa;
+3) Radioprotezione e legislazione.
 
-Scienza dell'amministrazione;
+Scuola di specializzazione in ortopedia e traumatologia
 
-Sistema e controllo della spesa pubblica;
+Art. 111. - La scuola di specializzazione in ortopedia e traumatologia ha la durata di tre anni. Alla scuola possono iscriversi, previo esame di ammissione, i laureati in medicina e chirurgia in numero totale di ventotto per i tre anni di corso.
 
-Sociologia delle comunicazioni;
+Le materie di insegnamento sono le seguenti:
 
-Sociologia delle comunita' locali;
+1° Anno:
 
-Sociologia del diritto;
+1) Clinica ortopedica e traumatologica (triennale);
 
-Sociologia dell'educazione;
+2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);
 
-Sociologia della famiglia;
+3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);
 
-Sociologia del lavoro e dell'industria;
+4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);
 
-Sociologia politica;
+5) Anatomia e istologia dell'apparato locomotore;
 
-Sociologia religiosa;
+6) Fisiologia dell'apparato locomotore;
 
-Sociologia rurale;
+7) Nozioni di chirurgia generale;
 
-Sociologia urbana;
+8) Nozioni di pediatria.
 
-Statistica per la ricerca economica;
+2° Anno:
 
-Statistica per la ricerca sociale;
+1) Clinica ortopedica e traumatologica (triennale);
 
-Storia antica;
+2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);
 
-Storia dei concordati;
+3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);
 
-Storia delle costituzioni;
+4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);
 
-Storia del diritto internazionale;
+5) Neuropatologia dell'apparato locomotore ed elettrodiagnostica;
 
-Storia del diritto italiano;
+6) Anatomia ed istologia patologica dell'apparato locomotore;
 
-Storia delle dottrine economiche;
+7) Anestesia e rianimazione.
 
-Storia dell'espansione coloniale e della decolonizzazione;
+3° Anno:
 
-Storia del giornalismo;
+1) Clinica ortopedica e traumatologica (triennale);
 
-Storia ed istituzioni dell'Europa orientale;
+2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);
 
-Storia ed istituzioni del mondo musulmano;
+3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);
 
-Storia ed istituzioni dei paesi dell'Africa nera;
+4) Apparato - terapia ortopedica;
 
-Storia ed istituzioni dell'America latina;
+5) Fisiochinesiterapia;
 
-Storia ed istituzioni dei paesi asiatici;
+6) Infortunistica.
 
-Storia delle istituzioni economiche;
+Gli esami si svolgeranno per singole materie. Gli esami di clinica ortopedica e traumatologica, di tecnica operatoria cruenta ed incruenta ortopedica e traumatologica, di radiodiagnostica, saranno teorici e pratici. Per l'ammissione al corso successivo e' obbligatorio il superamento degli esami delle materie di ciascun corso.
 
-Storia delle istituzioni religiose;
+Per l'ammissione all'esame di diploma il candidato dovra' presentare una tesi a stampa o dattiloscritta su un argomento della specialita'.
 
-Storia medioevale;
+Scuola di specializzazione in clinica pediatrica
 
-Storia del movimento sindacale;
+Art. 112. - La scuola ha la durata di tre anni.
 
-Storia dei partiti e dei movimenti politici;
+Ad essa possono iscriversi previa valutazione dei titoli di studio e di carriera e previo superamento di un esame di ammissione i laureati in medicina e chirurgia in numero totale di diciotto per i tre anni di corso.
 
-Storia degli Stati Uniti d'America;
+Le materie di insegnamento sono le seguenti:
 
-Storia della storiografia;
+1° Anno:
 
-Storia dei trattati e politica internazionale;
+1) Clinica pediatrica (1°);
 
-Tecnica del commercio internazionale;
+2) Patologia pediatrica (1°);
 
-Tecnica dell'organizzazione e dei servizi amministrativi;
+3) Puericultura (1°);
 
-Teoria generale del diritto;
+4) Semeiotica pediatrica e tecnica diagnostica (1°);
 
-Teoria delle organizzazioni complesse.
+5) Auxologia normale e patologica;
 
-Art. 14: all'elenco degli insegnamenti complementari del corso di laurea in lettere e' aggiunto il seguente:
+6) Psicologia dell'eta' evolutiva.
 
-Storia del giornalismo.
+2° Anno:
 
-Art. 15: all'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:
+1) Clinica pediatrica (2°);
 
-Istituzioni di filosofia;
+2) Patologia pediatrica (2°);
 
-Biologia generale.
+3) Puericultura (2°);
 
-Art. 16: all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne, sono aggiunti i seguenti:
+4) Semeiotica pediatrica e tecnica diagnostica (2°);
 
-Lingua e letteratura cecoslovacca;
+5) Terapia pediatrica;
 
-Lingua e letteratura bulgara.
+6) Radiologia pediatrica;
 
-Art. 17: all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:
+7) Malattie infettive dell'infanzia.
 
-Geografia fisica;
+3° Anno:
 
-Ecologia.
+1) Clinica pediatrica (3°);
 
-Art. 21: all'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:
+2) Neuropsichiatria e igiene mentale dell'infanzia.
 
-Chimica lattiero-casearia;
+Le materie fondamentali potranno essere integrate a giudizio della direzione della scuola con insegnamenti scelti tra i seguenti:
 
-Chimica agraria vegetale;
+1) Chirurgia pediatrica;
 
-Colture foraggere;
+2) Ortopedia e traumatologia infantile;
 
-Tecnologia lattiero-casearia;
+3) Odontoiatria;
 
-Principi economici della produzione agricola;
+4) Clinica dermosifilopatica;
 
-Politica agraria della C.E.E.;
+5) Clinica oculistica;
 
-Enzimologia;
+6) Clinica otorinolaringoiatrica;
 
-Tecnologie chimiche-agrarie degli antiparassitari;
+7) Cardiologia;
 
-Parassitologia animale e difesa degli alimenti;
+8) Genetica,
 
-Zoologia agraria;
+ed altre eventuali che la direzione della scuola puo' stabilire di anno in anno.
 
-Valutazione zootecnica degli alimenti.
+Il direttore della scuola puo' disporre che si tengano un certo numero di conferenze e seminari su argomenti di interesse pediatrico.
 
-Il secondo comma dell'art. 112, relativo alla scuola di specializzazione in clinica pediatrica istituita con [decreto del Presidente della Repubblica 30 ottobre 1969, n. 956](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-10-30;956), e' modificato nel senso che il numero degli iscritti e' aumentato a trentasei per i tre anni di corso.
+Il funzionamento della scuola si esplica mediante le attrezzature cliniche e scientifiche dell'istituto di clinica pediatrica presso il quale e' obbligatorio un periodo di internato di almeno dieci mesi per ogni anno di corso.
+
+Eventuali abbreviazioni di corso saranno decise dietro richieste dell'interessato dal consiglio della scuola.
+
+L'insegnamento avra' carattere prevalentemente pratico-dimostrativo.
+
+Alla fine di ogni anno di corso gli allievi dovranno sostenere prove teoriche e pratiche sulle materie di insegnamento.
+
+L'esame di diploma vertera' sulla discussione di tesi scritta compilata o sperimentale su argomento di pediatria concordato con la direzione della scuola.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 7 giugno 1972
+Dato a Roma, addi' 30 ottobre 1969
 
-LEONE
+SARAGAT
 
-MISASI
+FERRARI AGGRADI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: GAVA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 25 luglio 1972 Atti del Governo, registro n. 250, foglio n. 78. - CARUSO
+alla Corte dei conti, addi' 17 dicembre 1969 Atti del Governo, registro n. 230, foglio n. 150. - CARUSO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' cattolica del "S. Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso.  
-L'art. 11, relativo al corso di laurea in scienze politiche, e' integrato con il seguente comma:  
-Gli insegnamenti a scelta del piano di studi di ciascun indirizzo potranno essere individuati dalla facolta' fra quelli obbligatori in un altro indirizzo ovvero nel seguente elenco:  
-Contabilita' nazionale;  
-Demografia;  
-Diritto amministrativo internazionale;  
-Diritto canonico;  
-Diritto delle Comunita' europee;  
-Diritto diplomatico e consolare;  
-Diritto ecclesiastico italiano e comparato;  
-Diritto dell'economia;  
-Diritto degli enti locali;  
-Diritto finanziario;  
-Diritto internazionale del lavoro;  
-Diritto internazionale privato;  
-Diritto del lavoro;  
-Diritto parlamentare;  
-Diritto pubblico comparato;  
-Diritto regionale;  
-Diritto degli scambi internazionali;  
-Diritto tributario;  
-Dottrina dello Stato;  
-Econometria;  
-Economia aziendale;  
-Economia e politica agraria;  
-Economia e politica industriale;  
-Economia, e politica monetaria;  
-Economia dei trasporti;  
-Economia urbanistica;  
-Etnologia;  
-Geografia economica;  
-Geografia politica;  
-Logica;  
-Matematica generale;  
-Matematica per le scienze sociali;  
-Metodologia della ricerca storica;  
-Organizzazione e amministrazione delle grandi aziende pubbliche e private;  
-Organizzazione economica internazionale;  
-Pedagogia;  
-Pianificazione e organizzazione territoriale;  
-Politica economica e finanziaria;  
-Politica internazionale;  
-Principi e tecnica delle applicazioni meccanografiche ed elettroniche;  
-Programmazione economica;  
-Psicologia;  
-Psicologia sociale;  
-Ricerca operativa;  
-Scienza dell'amministrazione;  
-Sistema e controllo della spesa pubblica;  
-Sociologia delle comunicazioni;  
-Sociologia delle comunita' locali;  
-Sociologia del diritto;  
-Sociologia dell'educazione;  
-Sociologia della famiglia;  
-Sociologia del lavoro e dell'industria;  
-Sociologia politica;  
-Sociologia religiosa;  
-Sociologia rurale;  
-Sociologia urbana;  
-Statistica per la ricerca economica;  
-Statistica per la ricerca sociale;  
-Storia antica;  
-Storia dei concordati;  
-Storia delle costituzioni;  
-Storia del diritto internazionale;  
-Storia del diritto italiano;  
-Storia delle dottrine economiche;  
-Storia dell'espansione coloniale e della decolonizzazione;  
-Storia del giornalismo;  
-Storia ed istituzioni dell'Europa orientale;  
-Storia ed istituzioni del mondo musulmano;  
-Storia ed istituzioni dei paesi dell'Africa nera;  
-Storia ed istituzioni dell'America latina;  
-Storia ed istituzioni dei paesi asiatici;  
-Storia delle istituzioni economiche;  
-Storia delle istituzioni religiose;  
-Storia medioevale;  
-Storia del movimento sindacale;  
-Storia dei partiti e dei movimenti politici;  
-Storia degli Stati Uniti d'America;  
-Storia della storiografia;  
-Storia dei trattati e politica internazionale;  
-Tecnica del commercio internazionale;  
-Tecnica dell'organizzazione e dei servizi amministrativi;  
-Teoria generale del diritto;  
-Teoria delle organizzazioni complesse.  
+Lo statuto dell'Universita' cattolica del "S. Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+dopo l'articolo 108 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Clinica dermosifilopatica", "Medicina nucleare", "Ortopedia e traumatologia", "Clinica pediatrica".   
   
-Art. 14: all'elenco degli insegnamenti complementari del corso di laurea in lettere e' aggiunto il seguente:  
-Storia del giornalismo.  
+Scuola di specializzazione in clinica dermosifilopatica   
   
-Art. 15: all'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:  
-Istituzioni di filosofia;  
-Biologia generale.  
+Art. 109. - La scuola di specializzazione in clinica dermosifilopatica ha la durata di 3 anni. Alla scuola possono iscriversi, previo esame di ammissione, i laureati in medicina e chirurgia in numero totale di diciotto per i tre anni di corso.   
+Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+1) Anatomia ed istologia della cute;   
+2) Fisiologia della cute e degli annessi cutanei;   
+3) Anatomia e fisiologia dell'apparato genitale;   
+4) Microbiologia e parassitologia applicate;   
+5) Tecnica di laboratorio con particolare riferimento alla sierologia applicata;   
+6) Semeiotica dermatologica e venereologica.   
+2° Anno:   
+1) Patologia delle malattie cutanee;   
+2) Patologia delle infezioni sessuali;   
+3) Anatomia ed istologia patologica della cute;   
+4) Anatomia patologica delle malattie veneree e sessuali;   
+5) Angiologia;   
+6) Sessuologia.   
+3° Anno:   
+1) Clinica delle malattie cutanee;   
+2) Clinica delle infezioni sessuali;   
+3) Farmacologia e terapia medicamentosa;   
+4) Fisioterapia dermatologica;   
+5) Cosmetologia;   
+6) Chirurgia plastica riparatrice;   
+7) Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.   
+Gli esami di profitto degli specializzandi verranno espletati in tre gruppi e in tre sessioni distinte, ogni gruppo comprendente le materie proprie di ciascun anno di studio.   
+L'esame di diploma consistera' nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato 24 ore prima della prova.   
   
-Art. 16: all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne, sono aggiunti i seguenti:  
-Lingua e letteratura cecoslovacca;  
-Lingua e letteratura bulgara.  
+Scuola di specializzazione in medicina nucleare   
   
-Art. 17: all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:  
-Geografia fisica;  
-Ecologia.  
+Art. 110. - La scuola di specializzazione in medicina nucleare ha la durata di tre anni.   
+Alla scuola possono iscriversi, previo esame di ammissione, i laureati in medicina e chirurgia, in numero totale di diciotto per i tre anni di corso.   
+Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+1) Fondamenti di matematica e statistica;   
+2) Fisica nucleare e delle radiazioni;   
+3) Tecniche per le misure di radioattivita';   
+4) Dosimetria.   
+2° Anno:   
+1) Teoria dei traccianti;   
+2) Elementi di radiochimica;   
+3) Applicazioni diagnostiche I;   
+4) Elementi di radiobiologia.   
+3° Anno:   
+1) Applicazioni diagnostiche II;   
+2) Applicazioni terapeutiche;   
+3) Radioprotezione e legislazione.   
   
-Art. 21: all'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:  
-Chimica lattiero-casearia;  
-Chimica agraria vegetale;  
-Colture foraggere;  
-Tecnologia lattiero-casearia;  
-Principi economici della produzione agricola;  
-Politica agraria della C.E.E.;  
-Enzimologia;  
-Tecnologie chimiche-agrarie degli antiparassitari;  
-Parassitologia animale e difesa degli alimenti;  
-Zoologia agraria;  
-Valutazione zootecnica degli alimenti.  
+Scuola di specializzazione in ortopedia e traumatologia   
   
-Il secondo comma dell'art. 112, relativo alla scuola di specializzazione in clinica pediatrica istituita con [decreto del Presidente della Repubblica 30 ottobre 1969, n. 956](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-10-30;956), e' modificato nel senso che il numero degli iscritti e' aumentato a trentasei per i tre anni di corso.  
+Art. 111. - La scuola di specializzazione in ortopedia e traumatologia ha la durata di tre anni. Alla scuola possono iscriversi, previo esame di ammissione, i laureati in medicina e chirurgia in numero totale di ventotto per i tre anni di corso.   
+Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+1) Clinica ortopedica e traumatologica (triennale);   
+2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);   
+3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);   
+4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);   
+5) Anatomia e istologia dell'apparato locomotore;   
+6) Fisiologia dell'apparato locomotore;   
+7) Nozioni di chirurgia generale;   
+8) Nozioni di pediatria.   
+2° Anno:   
+1) Clinica ortopedica e traumatologica (triennale);   
+2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);   
+3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);   
+4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);   
+5) Neuropatologia dell'apparato locomotore ed elettrodiagnostica;   
+6) Anatomia ed istologia patologica dell'apparato locomotore;   
+7) Anestesia e rianimazione.   
+3° Anno:   
+1) Clinica ortopedica e traumatologica (triennale);   
+2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);   
+3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);   
+4) Apparato - terapia ortopedica;   
+5) Fisiochinesiterapia;   
+6) Infortunistica.   
+Gli esami si svolgeranno per singole materie. Gli esami di clinica ortopedica e traumatologica, di tecnica operatoria cruenta ed incruenta ortopedica e traumatologica, di radiodiagnostica, saranno teorici e pratici. Per l'ammissione al corso successivo e' obbligatorio il superamento degli esami delle materie di ciascun corso.   
+Per l'ammissione all'esame di diploma il candidato dovra' presentare una tesi a stampa o dattiloscritta su un argomento della specialita'.   
+  
+Scuola di specializzazione in clinica pediatrica   
+  
+Art. 112. - La scuola ha la durata di tre anni.   
+Ad essa possono iscriversi previa valutazione dei titoli di studio e di carriera e previo superamento di un esame di ammissione i laureati in medicina e chirurgia in numero totale di diciotto per i tre anni di corso.   
+Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+1) Clinica pediatrica (1°);   
+2) Patologia pediatrica (1°);   
+3) Puericultura (1°);   
+4) Semeiotica pediatrica e tecnica diagnostica (1°);   
+5) Auxologia normale e patologica;   
+6) Psicologia dell'eta' evolutiva.   
+2° Anno:   
+1) Clinica pediatrica (2°);   
+2) Patologia pediatrica (2°);   
+3) Puericultura (2°);   
+4) Semeiotica pediatrica e tecnica diagnostica (2°);   
+5) Terapia pediatrica;   
+6) Radiologia pediatrica;   
+7) Malattie infettive dell'infanzia.   
+3° Anno:   
+1) Clinica pediatrica (3°);   
+2) Neuropsichiatria e igiene mentale dell'infanzia.   
+Le materie fondamentali potranno essere integrate a giudizio della direzione della scuola con insegnamenti scelti tra i seguenti:   
+1) Chirurgia pediatrica;   
+2) Ortopedia e traumatologia infantile;   
+3) Odontoiatria;   
+4) Clinica dermosifilopatica;   
+5) Clinica oculistica;   
+6) Clinica otorinolaringoiatrica;   
+7) Cardiologia;   
+8) Genetica,   
+ed altre eventuali che la direzione della scuola puo' stabilire di anno in anno.   
+Il direttore della scuola puo' disporre che si tengano un certo numero di conferenze e seminari su argomenti di interesse pediatrico.   
+Il funzionamento della scuola si esplica mediante le attrezzature cliniche e scientifiche dell'istituto di clinica pediatrica presso il quale e' obbligatorio un periodo di internato di almeno dieci mesi per ogni anno di corso.   
+Eventuali abbreviazioni di corso saranno decise dietro richieste dell'interessato dal consiglio della scuola.   
+L'insegnamento avra' carattere prevalentemente pratico-dimostrativo.   
+Alla fine di ogni anno di corso gli allievi dovranno sostenere prove teoriche e pratiche sulle materie di insegnamento.   
+L'esame di diploma vertera' sulla discussione di tesi scritta compilata o sperimentale su argomento di pediatria concordato con la direzione della scuola.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 giugno 1972
+### Dato a Roma, addi' 30 ottobre 1969
 
-LEONE MISASI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 25 luglio 1972
+Registrato alla Corte dei conti, addi' 17 dicembre 1969
 
-Atti del Governo, registro n. 250, foglio n. 78. - CARUSO
+Atti del Governo, registro n. 230, foglio n. 150. - CARUSO

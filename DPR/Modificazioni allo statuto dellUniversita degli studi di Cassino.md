@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1986 n. 1085
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1982 n. 978
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1986 n. 1085
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1982 n. 978
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cassino.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Cassino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Cassino, approvato con [decreto del Presidente della Repubblica 31 ottobre 1981, n. 1122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-10-31;1122), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Cassino approvato con [decreto del Presidente della Repubblica 31 ottobre 1981, n. 1122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-10-31;1122);
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,42 +20,124 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
+Veduta la [legge 3 aprile 1979, n. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-04-03;122), istitutiva dell'Universita' statale degli studi di Cassino;
+
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta, ai sensi della citata legge n. 615;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Cassino;
 
-Veduto il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 --------
 
-Lo statuto dell'Universita' degli studi di Cassino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Cassino, approvato con il decreto sopra indicato, e' modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Nell'art. 11, all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie, e' aggiunto l'insegnamento di:  
-"storia del Mezzogiorno".  
-Nell'art. 12, all'elenco degli insegnamenti complementari del corso di laurea in pedagogia, e' aggiunto l'insegnamento di:  
-"storia del Mezzogiorno".  
+  
+Dopo l'art. 14 del capitolo II, con il conseguente spostamento dei capitoli e degli articoli successivi, sono aggiunti il seguente nuovo capitolo e i seguenti nuovi articoli:   
+  
+Capitolo III   
+  
+FACOLTA' DI ECONOMIA E COMMERCIO   
+  
+Art. 15. - La facolta' di economia e commercio ha lo scopo di promuovere la cultura economica generale ed economico-aziendale e di fornire la preparazione specialistica per gli operatori economici e i dirigenti di azienda.   
+Art. 16. - La facolta' di economia e commercio conferisce la laurea in economia e commercio.   
+L'esame di laurea consiste in una o piu' dissertazioni scritte in uno degli insegnamenti del corso per il quale lo studente abbia superato l'esame.   
+Art. 17. - L'ordinamento degli studi per la laurea in economia e commercio e' di quattro anni e prevede le seguenti materie:   
+  
+Insegnamenti fondamentali:   
+1) istituzioni di diritto privato;   
+2) istituzioni di diritto pubblico;   
+3) diritto commerciale (biennale);   
+4) matematica generale;   
+5) matematica finanziaria (biennale);   
+6) statistica (biennale);   
+7) economia politica (biennale);   
+8) diritto del lavoro;   
+9) scienza delle finanze e diritto finanziario;   
+10) economia e politica agraria;   
+11) politica economica e finanziaria;   
+12) storia economica;   
+13) geografia economica (biennale);   
+14) ragioneria generale ed applicata (biennale);   
+15) tecnica bancaria e professionale;   
+16) tecnica industriale e commerciale;   
+17) merceologia;   
+18) lingua francese o spagnola (triennale);   
+19) lingua inglese o tedesca (triennale).   
+  
+Insegnamenti complementari:   
+1) diritto della navigazione;   
+2) diritto industriale;   
+3) diritto amministrativo;   
+4) diritto processuale civile;   
+5) diritto internazionale;   
+6) demografia;   
+7) legislazione bancaria;   
+8) economia e finanza delle imprese di assicurazione;   
+9) economia dei trasporti;   
+10) economia e tecnica dell'armamento e della navigazione;   
+11) tecnica del commercio internazionale;   
+12) tecnica commerciale dei prodotti agricoli;   
+13) storia delle esplorazioni geografiche;   
+14) lingua araba;   
+15) lingua albanese;   
+16) lingua ungherese;   
+17) lingua russa;   
+18) lingua ceco-slovacca;   
+19) lingua serbo-croata;   
+20) economia montana e forestale;   
+21) tecnica delle ricerche di mercato;   
+22) contabilita' di Stato e degli enti pubblici;   
+23) tecnica della revisione aziendale;   
+24) diritto della previdenza sociale;   
+25) diritto fallimentare;   
+26) diritto sindacale;   
+27) diritto tributario;   
+28) econometria;   
+29) economia dell'azienda agraria;   
+30) economia aziendale;   
+31) economia e politica del lavoro;   
+32) economia dello sviluppo;   
+33) economia e politica industriale;   
+34) economia e tecnica degli impianti industriali;   
+35) economia e tecnica della pubblicita';   
+36) economia e politica internazionale;   
+37) economia e politica monetarie;   
+38) economia regionale;   
+39) applicazione dell'elaborazione automatica dei dati alla gestione aziendale;   
+40) finanza aziendale;   
+41) organizzazione aziendale;   
+42) programmazione economica;   
+43) ragioneria pubblica;   
+44) ricerca operativa applicata alla gestione aziendale;   
+45) sociologia;   
+46) tecnica amministrativa delle imprese di pubblici servizi;   
+47) tecnologia dei cicli produttivi.   
+  
+Gli insegnamenti di diritto commerciale e di geografia economica comportano un unico esame alla fine del corso biennale; per gli altri insegnamenti biennali e' prescritto l'esame alla fine di ciascun corso annuale, dovendosi il primo corso considerare come propedeutico al secondo.   
+L'insegnamento triennale delle lingue estere comporta per ciascuna una prova scritta ed una orale alla fine del triennio.   
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in due da lui scelti tra i complementari.   
+Art. 18. - Ai fini di un piu' completo insegnamento delle lingue straniere, alle cattedre di tali materie possono essere assegnati lettori di nazionalita' straniere secondo le modalita' stabilite dall'[art. 28 del decreto del Presidente della Repubblica n. 382/80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art28).   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 dicembre 1986
+### Dato a Roma, addi' 29 ottobre 1982
 
-COSSIGA
+PERTINI BODRATO
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DARIDA
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 10 gennaio 1983
 
-Registrato alla Corte dei conti, addi' 28 marzo 1987
-
-Registro n. 19 Istruzione, foglio n. 31
+Registro n. 1 Istruzione, foglio n. 2

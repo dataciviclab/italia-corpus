@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1980 n. 225
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1970 n. 984
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1980 n. 225
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1970 n. 984
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,79 +18,192 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Veduto il [parere della sezione prima del Consiglio di Stato, n. 1902/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
+Sulla proposta del Ministro per la pubblica istruzione;
 
-Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
+Decreta:
 
-Sulla
------
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Art. 15. - All'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto il seguente: "Diritto penale commerciale".
+
+Art. 27, relativo alla scuola di applicazione forense e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente: "La scuola svolge la sua attivita' con speciali esercitazioni, scritte oppure orali, nelle seguenti materie: diritto privato, diritto processuale civile, diritto penale, procedura penale, diritto amministrativo, diritto finanziario".
+
+Art. 28, relativo alla scuola suddetta e' abrogato e sostituito dal seguente:
+
+"Le esercitazioni di cui all'articolo precedente sono tenute di regola da professori di ruolo e incaricati della facolta' di giurisprudenza, ma possono essere anche affidate a persone estranee alla facolta', di riconosciuta competenza".
+
+Art. 29, relativo alla scuola suddetta e' abrogato e sostituito dal seguente:
+
+"Alla scuola e' preposto un direttore nominato, su proposta della facolta' di giurisprudenza, dal rettore dell'universita', fra i professori ordinari di essa facolta' i quali svolgano esercitazioni presso la scuola.
+
+Il direttore e' assistito da un consiglio direttivo, da lui presieduto e composto di due professori di ruolo, designati dalla facolta' di giurisprudenza fra i suoi membri che svolgono esercitazioni presso la scuola, di un presidente di sezione di corte di appello designato dal primo presidente della corte d'appello di Venezia e dal presidente dell'ordine degli avvocati e procuratori di Padova e Venezia.
+
+Il direttore e il consiglio direttivo durano in carica per un triennio accademico".
+
+Art. 31, relativo alla scuola suddetta e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente:
+
+"Gli iscritti che abbiano seguito con diligenza e profitto almeno per un anno le esercitazioni svolte durante un anno accademico dalla scuola, possono ottenere un certificato degli studi compiuti, rilasciato dal direttore e controfirmato dal presidente della facolta' di giurisprudenza e dal rettore".
+
+Art. 87. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto il seguente: "Fisiochinesiterapia e riabilitazione".
+
+Dopo l'art. 231 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla istituzione della scuola speciale per storici dell'arte medioevale e moderna e conservatori dei beni artistici.
+
+Scuola speciale per storici dell'arte medioevale e moderna e conservatori dei beni artistici
+
+(Scuola diretta a fini speciali)
+
+Art. 232. - La scuola speciale per storici dell'arte medioevale e moderna e conservatori di beni artistici e' istituita presso l'Universita' degli studi di Padova.
+
+Art. 233. - La scuola ha lo scopo di formare il personale scientificamente, tecnicamente e professionalmente preparato per la conservazione e il restauro del patrimonio artistico italiano, e per le funzioni della carriera direttiva e di concetto dell'amministrazione delle antichita' e belle arti.
+
+Art. 233. - La scuola speciale cura la preparazione professionale dei conservatori delle opere d'arte.
+
+Art. 234. - I corsi hanno insegnamenti teorici e sperimentali ed esercitazioni speciali, hanno la durata di un biennio e danno adito al conferimento del diploma di conservatore delle opere d'arte. Ogni anno di corso ha la durata di un anno accademico.
+
+Art. 235. - Possono iscriversi alla scuola speciale i laureati in lettere, in filosofia, in pedagogia, in materie letterarie, in architettura, in ingegneria civile, nonche' gli studenti dei medesimi corsi di laurea che abbiano superato gli esami del primo biennio.
+
+L'iscrizione alla scuola si puo' conseguire anche mediante una prova di esame d'ammissione sostenuta davanti al consiglio della scuola e vertente su almeno cinque delle discipline oggetto degli insegnamenti.
+
+Art. 236. - Gli iscritti alla scuola sono tenuti a versare le tasse, soprattasse e contributi secondo le disposizioni vigenti per gli studenti delle facolta' di lettere e filosofia.
+
+Art. 237. - Il direttore della scuola speciale e' il direttore dell'istituto di storia dell'arte. Il direttore della scuola puo' proporre al rettore la nomina di un insegnante della scuola a vicedirettore, con l'incarico di coadiuvarlo.
+
+Art. 238. - Gli insegnanti della scuola speciale sono proposti annualmente dal direttore all'approvazione del consiglio di facolta' di lettere e filosofia. Il direttore puo' scegliere gli insegnanti tra i professori di ruolo e fuori ruolo, aggregati, liberi docenti, aiuti ed assistenti, i soprintendenti e direttori ed ispettori delle sovraintendenze ai monumenti e gallerie, nonche' tra persone di riconosciuta competenza nelle rispettive specialita'. Alle nomine provvede il rettore.
+
+Il consiglio della scuola e' composto da tutti i docenti che vi insegnano.
+
+Art. 239. - Sono insegnamenti della scuola speciale:
+
+1) Archeologia cristiana;
+
+2) Storia dell'arte medioevale;
+
+3) Storia dell'arte moderna;
+
+4) Storia della critica d'arte;
+
+5) Morfologia e tecnica del conoscitore;
+
+6) Legislazione e amministrazione artistica;
+
+7) Analisi formale e strutturale delle opere d'arte;
+
+8) Storia e tecniche del restauro delle opere d'arte;
+
+9) Museografia e conservazione delle opere d'arte;
+
+10) Storia della grafica disegnativa e incisoria;
+
+11) Numismatica;
+
+12) Storia della miniatura;
+
+13) Storia e tecnica delle arti minori (con corsi da stabilire annualmente sulla ceramica, il vetro, l'arazzo, i tessuti, etc.).
+
+La scuola, a domanda degli iscritti, oltre ai precedenti, puo' istituire corsi di lezioni, conferenze ed esercitazioni affidati a competenti per settori particolari riguardanti la storia delle arti in Italia, in paesi stranieri, l'etnologia, le tradizioni popolari, le scienze ausiliarie, ed ogni altra specializzazione attinente alla preparazione professionale. Di ognuno degli insegnamenti sono integrative le esercitazioni e le attivita' sperimentali tra le quali la catalogazione, il disegno, la fotografia, il restauro nei suoi aspetti scientifici ed operativi.
+
+Gli insegnamenti, le esercitazioni e la partecipazione alle attivita' sperimentali, si svolgono presso l'Istituto di storia dell'arte medioevale e moderna e presso le sovraintendenze e i musei del Veneto. Nel biennio di studi un periodo di sei mesi e' riservato ad un servizio volontario prestato dagli iscritti presso dette sovraintendenze e musei.
+
+Art. 240. - Il diploma e' conferito agli iscritti sulla base di un certificato di frequenza dei corsi, delle esercitazioni e delle attivita' sperimentali e professionali, e di un esame generale sostenuto davanti al consiglio della scuola e vertente sui risultati dell'esperienza compiuta sia con gli insegnamenti comuni che con quelli speciali.
+
+Art. 241. - Agli iscritti possono essere conferiti dal consiglio della scuola borse ed assegni di studio, il consiglio determina il numero e la misura delle borse e degli assegni di studio, in relazione alle disponibilita' finanziarie, nonche' le modalita' di conferimento.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 1 ottobre 1970
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 7 dicembre 1970 Atti del Governo, registro n. 238, foglio n. 214. - CARUSO
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Lo statuto dell'Universita' di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 421.- All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in endocrinochirurgia, che conferisce il diploma di specialista in endocrinochirurgia.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-L'art. 422, relativo agli ordinamenti delle scuole di specializzazione in medicina e chirurgia, e' integrato con l'inserimento dell'ordinamento della scuola di specializzazione in endocrinochirurgia:  
+Decreta:   
   
-Scuola di specializzazione in endocrinochirurgia  
-La scuola di specializzazione in endocrinochirurgia ha sede presso l'istituto di clinica chirurgica generale servizio di endocrinochirurgia, dell'Universita' di Padova e conferisce il diploma di specialista in endocrinochirurgia.  
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale.  
-La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazioni.  
-Il numero massimo degli allievi e' di sei per anno di corso e complessivamente di diciotto iscritti per l'intero corso di studi.  
-L'ammissione alla scuola avviene per titoli ed esami.  
-Le materie d'insegnamento sono le seguenti:  
-1° Anno:  
-1) anatomia chirurgica delle ghiandole endocrine;  
-2) fisiopatologia delle ghiandole endocrine;  
-3) semeiotica chirurgica generale e speciale delle ghiandole endocrine;  
-4) anatomia patologica delle affezioni chirurgiche delle ghiandole endocrine (primo corso);  
-5) clinica chirurgica delle ghiandole endocrine (primo corso). 2° Anno:  
-1) radiologia e medicina nucleare in endocrinochirurgia;  
-2) anestesia e rianimazione in endocrinochirurgia;  
-3) chirurgia della ipofisi;  
-4) chirurgia della tiroide e delle paratiroidi;  
-5) chirurgia del pancreas;  
-6) clinica chirurgica delle ghiandole endocrine (secondo corso).  
-3° Anno:  
-1) chirurgia del surrene;  
-2) chirurgia dell'ovaio;  
-3) chirurgia del testicolo;  
-4) chirurgia plastica in endocrinochirurgia;  
-5) terapie complementari nelle affezioni chirurgiche delle ghiandole endocrine;  
-6) clinica chirurgica delle ghiandole endocrine (terzo corso).  
-La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.  
-Gli allievi che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le prove di esame.  
-Alla fine di ogni corso gli iscritti devono sostenere i relativi esami, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo; per le materie corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.  
-Alla fine del terzo anno, dopo aver superato tutti gli esami, ha luogo l'esame di diploma consistente nella discussione di una dissertazione scritta su un argomento attinente alla specializzazione e la cui scelta sia stata concordata tra il diplomando ed il direttore della scuola.  
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 15. - All'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto il seguente: "Diritto penale commerciale".   
+Art. 27, relativo alla scuola di applicazione forense e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente: "La scuola svolge la sua attivita' con speciali esercitazioni, scritte oppure orali, nelle seguenti materie: diritto privato, diritto processuale civile, diritto penale, procedura penale, diritto amministrativo, diritto finanziario".   
+Art. 28, relativo alla scuola suddetta e' abrogato e sostituito dal seguente:   
+"Le esercitazioni di cui all'articolo precedente sono tenute di regola da professori di ruolo e incaricati della facolta' di giurisprudenza, ma possono essere anche affidate a persone estranee alla facolta', di riconosciuta competenza".   
+Art. 29, relativo alla scuola suddetta e' abrogato e sostituito dal seguente:   
+"Alla scuola e' preposto un direttore nominato, su proposta della facolta' di giurisprudenza, dal rettore dell'universita', fra i professori ordinari di essa facolta' i quali svolgano esercitazioni presso la scuola.   
+Il direttore e' assistito da un consiglio direttivo, da lui presieduto e composto di due professori di ruolo, designati dalla facolta' di giurisprudenza fra i suoi membri che svolgono esercitazioni presso la scuola, di un presidente di sezione di corte di appello designato dal primo presidente della corte d'appello di Venezia e dal presidente dell'ordine degli avvocati e procuratori di Padova e Venezia.   
+Il direttore e il consiglio direttivo durano in carica per un triennio accademico".   
+Art. 31, relativo alla scuola suddetta e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente:   
+"Gli iscritti che abbiano seguito con diligenza e profitto almeno per un anno le esercitazioni svolte durante un anno accademico dalla scuola, possono ottenere un certificato degli studi compiuti, rilasciato dal direttore e controfirmato dal presidente della facolta' di giurisprudenza e dal rettore".   
+Art. 87. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto il seguente: "Fisiochinesiterapia e riabilitazione".   
+Dopo l'art. 231 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla istituzione della scuola speciale per storici dell'arte medioevale e moderna e conservatori dei beni artistici.   
+  
+Scuola speciale per storici dell'arte medioevale e moderna e conservatori dei beni artistici   
+(Scuola diretta a fini speciali)   
+  
+Art. 232. - La scuola speciale per storici dell'arte medioevale e moderna e conservatori di beni artistici e' istituita presso l'Universita' degli studi di Padova.   
+Art. 233. - La scuola ha lo scopo di formare il personale scientificamente, tecnicamente e professionalmente preparato per la conservazione e il restauro del patrimonio artistico italiano, e per le funzioni della carriera direttiva e di concetto dell'amministrazione delle antichita' e belle arti.   
+Art. 233. - La scuola speciale cura la preparazione professionale dei conservatori delle opere d'arte.   
+Art. 234. - I corsi hanno insegnamenti teorici e sperimentali ed esercitazioni speciali, hanno la durata di un biennio e danno adito al conferimento del diploma di conservatore delle opere d'arte. Ogni anno di corso ha la durata di un anno accademico.   
+Art. 235. - Possono iscriversi alla scuola speciale i laureati in lettere, in filosofia, in pedagogia, in materie letterarie, in architettura, in ingegneria civile, nonche' gli studenti dei medesimi corsi di laurea che abbiano superato gli esami del primo biennio.  
+L'iscrizione alla scuola si puo' conseguire anche mediante una prova di esame d'ammissione sostenuta davanti al consiglio della scuola e vertente su almeno cinque delle discipline oggetto degli insegnamenti.   
+Art. 236. - Gli iscritti alla scuola sono tenuti a versare le tasse, soprattasse e contributi secondo le disposizioni vigenti per gli studenti delle facolta' di lettere e filosofia.   
+Art. 237. - Il direttore della scuola speciale e' il direttore dell'istituto di storia dell'arte. Il direttore della scuola puo' proporre al rettore la nomina di un insegnante della scuola a vicedirettore, con l'incarico di coadiuvarlo.   
+Art. 238. - Gli insegnanti della scuola speciale sono proposti annualmente dal direttore all'approvazione del consiglio di facolta' di lettere e filosofia. Il direttore puo' scegliere gli insegnanti tra i professori di ruolo e fuori ruolo, aggregati, liberi docenti, aiuti ed assistenti, i soprintendenti e direttori ed ispettori delle sovraintendenze ai monumenti e gallerie, nonche' tra persone di riconosciuta competenza nelle rispettive specialita'. Alle nomine provvede il rettore.   
+Il consiglio della scuola e' composto da tutti i docenti che vi insegnano.   
+Art. 239. - Sono insegnamenti della scuola speciale:   
+1) Archeologia cristiana;   
+2) Storia dell'arte medioevale;   
+3) Storia dell'arte moderna;   
+4) Storia della critica d'arte;   
+5) Morfologia e tecnica del conoscitore;   
+6) Legislazione e amministrazione artistica;   
+7) Analisi formale e strutturale delle opere d'arte;   
+8) Storia e tecniche del restauro delle opere d'arte;   
+9) Museografia e conservazione delle opere d'arte;   
+10) Storia della grafica disegnativa e incisoria;   
+11) Numismatica;   
+12) Storia della miniatura;   
+13) Storia e tecnica delle arti minori (con corsi da stabilire annualmente sulla ceramica, il vetro, l'arazzo, i tessuti, etc.).   
+La scuola, a domanda degli iscritti, oltre ai precedenti, puo' istituire corsi di lezioni, conferenze ed esercitazioni affidati a competenti per settori particolari riguardanti la storia delle arti in Italia, in paesi stranieri, l'etnologia, le tradizioni popolari, le scienze ausiliarie, ed ogni altra specializzazione attinente alla preparazione professionale. Di ognuno degli insegnamenti sono integrative le esercitazioni e le attivita' sperimentali tra le quali la catalogazione, il disegno, la fotografia, il restauro nei suoi aspetti scientifici ed operativi.   
+Gli insegnamenti, le esercitazioni e la partecipazione alle attivita' sperimentali, si svolgono presso l'Istituto di storia dell'arte medioevale e moderna e presso le sovraintendenze e i musei del Veneto. Nel biennio di studi un periodo di sei mesi e' riservato ad un servizio volontario prestato dagli iscritti presso dette sovraintendenze e musei.   
+Art. 240. - Il diploma e' conferito agli iscritti sulla base di un certificato di frequenza dei corsi, delle esercitazioni e delle attivita' sperimentali e professionali, e di un esame generale sostenuto davanti al consiglio della scuola e vertente sui risultati dell'esperienza compiuta sia con gli insegnamenti comuni che con quelli speciali.   
+Art. 241. - Agli iscritti possono essere conferiti dal consiglio della scuola borse ed assegni di studio, il consiglio determina il numero e la misura delle borse e degli assegni di studio, in relazione alle disponibilita' finanziarie, nonche' le modalita' di conferimento.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 febbraio 1980
+### Dato a Roma, addi' 1 ottobre 1970
 
-PERTINI VALITUTTI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 28 maggio 1980
+Registrato alla Corte dei conti, addi' 7 dicembre 1970
 
-Registro n. 50 istruzione, foglio n. 116
+Atti del Governo, registro n. 238, foglio n. 214. - CARUSO

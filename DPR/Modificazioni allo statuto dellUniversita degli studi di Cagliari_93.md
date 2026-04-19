@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1958 n. 830
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1974 n. 589
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1958 n. 830
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1974 n. 589
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
@@ -10,15 +10,13 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successivi;
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -32,187 +30,137 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 23. - Agli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti:
+Gli articoli 163, 164, 165, relativi alla "Scuola di specializzazione in cardiologia" che muta la denominazione in quella di "Scuola di specializzazione in malattie dell'apparato cardiovascolare", sono abrogati e sostituiti dai seguenti:
 
-"Tecnica delle ricerche di mercato e della distribuzione generale";
+Scuola di specializzazione in malattie dell'apparato cardiovascolare
 
-"Contabilita' degli Enti pubblici";
+Art. 163. - Alla facolta' di medicina e chirurgia e' annessa una scuola di speciaizzazione in malattie dell'apparato cardio-vascolare con sede presso la clinica medica generale dell'Universita'.
 
-"Diritto minerario".
+Art. 164. - La durata del corso e' di tre anni.
 
-Dopo l'art. 119 sono aggiunti i seguenti nuovi articoli relativi
+Il numero massimo degli iscritti e' di dodici complessivamente nei tre anni.
 
-alla istituzione della
+Art. 165. - Le materie di insegnamento e la loro ripartizione nei singoli anni sono le seguenti:
 
-Scuola di specializzazione in stomatologia
+1° Anno:
 
-(odontoiatria e protesi dentaria).
+Anatomia normale dell'apparato cardiovascolare;
 
-Art. 120. - Alla Facolta' di medicina e chirurgia e' annessa una Scuola di specializzazione in stomatologia (odontoiatria e protesi dentaria) con sede presso l'Istituto di clinica odontoiatrica.
+Fisiologia dell'apparato cardiovascolare e respiratorio;
 
-Art. 121. - Alla Scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia in numero di cinque per anno.
+Fisiopatologia cardiovascolare e respiratoria (1° corso);
 
-L'ammissione si fa previo concorso per titoli ed esami.
+Patologia cardiovascolare (1° corso);
 
-Art. 122. - La durata dei corsi e' di due anni.
+Semeiologia fisica (1° corso);
 
-Art. 123. - Gli iscritti hanno l'obbligo della frequenza ai corsi ed alle esercitazioni; debbono altresi' frequentare il laboratorio di odontotecnica e per almeno sei mesi di ogni anno di corso debbono svolgere una reale attivita' in Istituto, con orario pieno.
+Semeiologia strumentale (1° corso).
 
-Art. 124. - Saranno ammessi a sostenere gli esami solo gli iscritti che abbiano adempiuto agli obblighi dell'articolo precedente.
+2° Anno:
 
-Art. 125. - L'ammissione al secondo anno e' possibile solamente per gli specializzandi che hanno frequentato il primo anno ed abbiano superato le relative prove di esami.
+Fisiopatologia cardiovascolare e respiratoria (2° corso);
 
-Art. 126. - Alla fine del corso per ottenere il titolo di specialista in stomatologia (odontoiatria e protesi dentaria) il candidato deve sostenere una prova di diploma discutendo una tesi scritta.
+Patologia cardiovascolare (2° corso);
 
-Art. 127. - Le materie di insegnamento sono le seguenti:
+Semeiologia fisica (2° corso);
 
-1) Embriologia, istologia e anatomia normale dei denti e della bocca;
+Semeiologia strumentale (2° corso);
 
-2) Anatomia patologica (biennale);
+Anatomia patologica dell'apparato cardiovascolare (1° corso);
 
-3) Radiologia dentaria e mascellare;
+Radiologia dell'apparato cardiovascolare;
 
-4) Patologia e clinica odontostomatologica (biennale);
+Farmacologia dell'apparato cardiovascolare;
 
-5) Odontotecnica (biennale);
+Clinica e terapia dell'apparato cardiovascolare (1° corso).
 
-6) Conservativa (biennale);
+3° Anno:
 
-7) Chirurgia dentaria e della bocca (biennale);
+Anatomia patologica dell'apparato cardiovascolare (2° corso);
 
-8) Anestesia;
+Clinica e terapia dell'apparato cardiovascolare (2° corso);
 
-9) Clinica ortodontica (biennale);
+Chirurgia dell'apparato cardiovascolare.
 
-10) Clinica odontoprotesica (biennale).
+Gli esami dovranno essere sostenuti al termine di ogni insegnamento.
 
-Art. 128. - L'ordine degli esami e' il seguente:
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Al termine del primo anno:
+Dato a Roma, addi' 9 aprile 1974
 
-Embriologia, istologia e anatomia normale;
+LEONE
 
-Anestesia;
+MALFATTI
 
-Patologia odontostomatologica;
-
-Conservativa (tecnica e metodi);
-
-Anatomia patologica dell'organo dentale;
-
-Laboratorio (merceologia e metallurgia).
-
-Al termine del secondo anno:
-
-Clinica odontoiatrica;
-
-Chirurgia orale e dentale;
-
-Conservativa (clinica);
-
-Clinica odontoprotesica;
-
-Ortodonzia;
-
-Radiologia;
-
-Laboratorio (prova pratica);
-
-Anatomia patologica della bocca.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 3 maggio 1958
-
-GRONCHI
-
-MORO
-
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: ZAGARI
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 19 agosto 1958 Atti del Governo, registro n. 113, foglio n. 178. - DI PRETORO
+alla Corte dei conti, addi' 21 novembre 1974 Atti di Governo, registro n. 7, foglio n. 10. - SCIARRETTA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successivi;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 163, 164, 165, relativi alla "Scuola di specializzazione in cardiologia" che muta la denominazione in quella di "Scuola di specializzazione in malattie dell'apparato cardiovascolare", sono abrogati e sostituiti dai seguenti:  
   
-Art. 23. - Agli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti:   
-"Tecnica delle ricerche di mercato e della distribuzione generale";   
-"Contabilita' degli Enti pubblici";   
-"Diritto minerario".   
-Dopo l'art. 119 sono aggiunti i seguenti nuovi articoli relativi   
-alla istituzione della   
+Scuola di specializzazione in malattie dell'apparato cardiovascolare   
+Art. 163. - Alla facolta' di medicina e chirurgia e' annessa una scuola di speciaizzazione in malattie dell'apparato cardio-vascolare con sede presso la clinica medica generale dell'Universita'.  
   
-Scuola di specializzazione in stomatologia   
-(odontoiatria e protesi dentaria).   
+Art. 164. - La durata del corso e' di tre anni.  
+Il numero massimo degli iscritti e' di dodici complessivamente nei tre anni.  
   
-Art. 120. - Alla Facolta' di medicina e chirurgia e' annessa una Scuola di specializzazione in stomatologia (odontoiatria e protesi dentaria) con sede presso l'Istituto di clinica odontoiatrica.   
-Art. 121. - Alla Scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia in numero di cinque per anno.  
-L'ammissione si fa previo concorso per titoli ed esami.   
-Art. 122. - La durata dei corsi e' di due anni.   
-Art. 123. - Gli iscritti hanno l'obbligo della frequenza ai corsi ed alle esercitazioni; debbono altresi' frequentare il laboratorio di odontotecnica e per almeno sei mesi di ogni anno di corso debbono svolgere una reale attivita' in Istituto, con orario pieno.   
-Art. 124. - Saranno ammessi a sostenere gli esami solo gli iscritti che abbiano adempiuto agli obblighi dell'articolo precedente.   
-Art. 125. - L'ammissione al secondo anno e' possibile solamente per gli specializzandi che hanno frequentato il primo anno ed abbiano superato le relative prove di esami.   
-Art. 126. - Alla fine del corso per ottenere il titolo di specialista in stomatologia (odontoiatria e protesi dentaria) il candidato deve sostenere una prova di diploma discutendo una tesi scritta.   
-Art. 127. - Le materie di insegnamento sono le seguenti:   
-1) Embriologia, istologia e anatomia normale dei denti e della bocca;   
-2) Anatomia patologica (biennale);   
-3) Radiologia dentaria e mascellare;   
-4) Patologia e clinica odontostomatologica (biennale);   
-5) Odontotecnica (biennale);   
-6) Conservativa (biennale);   
-7) Chirurgia dentaria e della bocca (biennale);   
-8) Anestesia;   
-9) Clinica ortodontica (biennale);   
-10) Clinica odontoprotesica (biennale).   
-Art. 128. - L'ordine degli esami e' il seguente:   
+Art. 165. - Le materie di insegnamento e la loro ripartizione nei singoli anni sono le seguenti:  
   
-Al termine del primo anno:   
-Embriologia, istologia e anatomia normale;   
-Anestesia;   
-Patologia odontostomatologica;   
-Conservativa (tecnica e metodi);   
-Anatomia patologica dell'organo dentale;   
-Laboratorio (merceologia e metallurgia).   
+1° Anno:  
+Anatomia normale dell'apparato cardiovascolare;  
+Fisiologia dell'apparato cardiovascolare e respiratorio;  
+Fisiopatologia cardiovascolare e respiratoria (1° corso);  
+Patologia cardiovascolare (1° corso);  
+Semeiologia fisica (1° corso);  
+Semeiologia strumentale (1° corso).  
   
-Al termine del secondo anno:   
-Clinica odontoiatrica;   
-Chirurgia orale e dentale;   
-Conservativa (clinica);   
-Clinica odontoprotesica;   
-Ortodonzia;   
-Radiologia;   
-Laboratorio (prova pratica);   
-Anatomia patologica della bocca.   
+2° Anno:  
+Fisiopatologia cardiovascolare e respiratoria (2° corso);  
+Patologia cardiovascolare (2° corso);  
+Semeiologia fisica (2° corso);  
+Semeiologia strumentale (2° corso);  
+Anatomia patologica dell'apparato cardiovascolare (1° corso);  
+Radiologia dell'apparato cardiovascolare;  
+Farmacologia dell'apparato cardiovascolare;  
+Clinica e terapia dell'apparato cardiovascolare (1° corso).  
+  
+3° Anno:  
+Anatomia patologica dell'apparato cardiovascolare (2° corso);  
+Clinica e terapia dell'apparato cardiovascolare (2° corso);  
+Chirurgia dell'apparato cardiovascolare.  
+  
+Gli esami dovranno essere sostenuti al termine di ogni insegnamento.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 maggio 1958
+### Dato a Roma, addi' 9 aprile 1974
 
-GRONCHI MORO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 19 agosto 1958
+Registrato alla Corte dei conti, addi' 21 novembre 1974
 
-Atti del Governo, registro n. 113, foglio n. 178. - DI PRETORO
+Atti di Governo, registro n. 7, foglio n. 10. - SCIARRETTA

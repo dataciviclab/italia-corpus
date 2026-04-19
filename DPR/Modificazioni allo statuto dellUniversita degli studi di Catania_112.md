@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 marzo 1965 n. 366
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1981 n. 1144
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 marzo 1965 n. 366
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1981 n. 1144
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
@@ -10,158 +10,84 @@ Modificazioni allo statuto dell'Universita' degli studi di Catania.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto n. 1073 del 20 aprile 1939](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto n. 1527 del 16 ottobre 1940](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Riconosciuta la particolare necessita' dai approvare le nuove modifiche proposte;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Riconosciuta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso;
 
-Art. 26. - Agli insegnamenti complementari del corso di Laurea in lettere e' aggiunto quello di "Letteratura umanistica".
+Articolo unico
+--------------
 
-Art. 33. - Agli insegnamenti complementari del corso di laurea in Filosofia e' aggiunto quello di "Letteratura umanistica".
-
-Art. 46. - L'insegnamento complementare di "Fisiopatologia ostetrica e ginecologica" tra le materie del corso di laurea in medicina e chirurgia assume la denominazione di "Patologia ostetrica e ginecologica".
-
-Art. 66. - L'insegnamento complementare di "Tecnologia elettronica" tra le materie del corso di laurea in Chimica industriale assume la denominazione di "Tecnologia elettrochimica".
-
-Gli articoli 188 e 189 relativi alla Scuola di specializzazione in oculistica sono abrogati e sostituiti dai seguenti.
-
-Scuola di specializzazione in oculistica
-
-Art. 188. - Il corso di studi della Scuola di specializzazione in Oculistica ha la durata di 4 anni. La scuola non puo' accogliere piu' di 5 allievi per ciascun anno di corso.
-
-Art. 189. - Gli insegnamenti impartiti dalla Scuola sono i seguenti:
-
-1° Anno:
-
-1) Anatomia ed istologia dell'apparato oculare;
-
-2) Nozioni di embriologia generale oculare;
-
-3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e liquidi oculari;
-
-4) Nozioni di ottica fisiologica ed esame della refrazione;
-
-5) Microbiologia ed igiene oculare.
-
-2° Anno:
-
-1) Semeiotica e mezzi di indagine dell'apparato oculare;
-
-2) Farmacologia oculare e terapia clinica;
-
-3) Anatomia patologica dell'occhio;
-
-4) Patologia e clinica oculare (biennale), 1° corso.
-
-3° Anno:
-
-1) Patologia e clinica oculare (biennale), 2° corso;
-
-2) Anomalie e patologia della motilita' oculare e della visione binoculare (ortottica e pleottica);
-
-3) Affezioni otorinolaringoiatriche ed occhio;
-
-4) Tecnica operatoria (biennale), 1° corso.
-
-4° Anno:
-
-1) Neuro-oftalmologia;
-
-2) Malattie oculari in rapporto ad affezioni generali;
-
-3) Malattie professionali, infortunistica e medicina legale oculare;
-
-4) Tecnica operatoria (biennale), 2° corso.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 22 marzo 1965
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla corte dei conti, addi' 26 aprile 1965 Atti del Governo, registro n. 192, foglio n. 92. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' dai approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Alle scuole dirette a fini speciali della facolta' di medicina e chirurgia e' aggiunta la seguente nuova scuola:  
   
-Decreta:  
+Scuola di assistenza sociale psichiatrica  
+(scuola diretta a fini speciali)  
+Art. 279. - Presso la facolta' di medicina e chirurgia dell'Universita' degli studi di Catania e' annessa la scuola di assistenza sociale psichiatrica (scuola diretta a fini speciali) che fa capo alla clinica psichiatrica. Essa ha lo scopo di dare una preparazione completa, teorica e pratica agli assistenti sociali, istruendoli sui problemi dell'intervento presso l'amministrazione familiare e sociale dell'ammalato psichico, sulle possibilita' di un intervento a tipo casework sui problemi di reinserimento sociale del paziente con disturbi psichici e sulle funzioni dell'assistente sociale presso i servizi di assistenza psichiatrica e le istituzioni psichiatriche ambulatoriali e ospedaliere.  
+Art. 280. - La durata del corso per il conseguimento del diploma di assistente sociale psichiatrico e' di due anni accademici: nel primo anno vengono impartiti insegnamenti teorici ed esercitazioni pratiche su materie propedeutiche e tecniche. Nel secondo anno vengono impartiti insegnamenti teorici e pratici su argomenti di clinica neurologica e psichiatrica, assistenza psichiatrica intra e extra ospedaliera e materie affini. Gli allievi hanno obbligo di frequenza.  
+Art. 281. - Possono accedere alla scuola i candidati di ambo i sessi di 18 anni compiuti, forniti di diploma di scuola media superiore di secondo grado.  
+Art. 282. - Chi aspira ad ottenere l'iscrizione al primo anno della scuola deve sostenere una selezione sui titoli ed un colloquio attitudinale da parte di una commissione composta dal direttore della clinica psichiatrica e da due docenti della stessa scuola.  
+Art. 283. - Il numero massimo dei posti disponibili e' stabilito nella misura di 20.  
+Art. 284. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+Art. 285. - Le materie d'insegnamento teorico del primo anno sono: semeiotica psichiatrica;  
+psicologia generale;  
+igiene mentale;  
+neuropsichiatria infantile;  
+servizio sociale psichiatrico;  
+psicoterapia I;  
+terapia psichiatrica I;  
+diritto e legislazione sanitaria.  
+Le materie di insegnamento teorico del secondo anno sono:  
+clinica neurologica;  
+psicologia sociale;  
+psichiatria forense e legislazione psichiatrica;  
+medicina sociale e del lavoro;  
+clinica psichiatrica;  
+psicoterapia II;  
+terapia psichiatrica II;  
+servizio sociale psichiatrico.  
+Le esercitazioni pratiche del primo e secondo anno consistono nella presentazione per iscritto, discussione e diretto intervento di casi di patologia riguardanti diversi tipi di patologia psichiatrica con intervento individuale e di gruppo.  
+Art. 286. - Al termine del primo anno, per essere ammessi al secondo gli allievi devono aver superato almeno sei degli otto esami previsti nelle due sessioni, estiva ed autunnale.  
+Art. 287. - A completamento di tutti gli esami previsti per i due anni i candidati per conseguire il diploma di assistente sociale psichiatrico discutono una tesi scritta su argomento di assistenza sociale psichiatrica davanti ad una commissione nominata dal preside della facolta' di medicina e chirurgia e composta dal direttore della scuola, da un docente della scuola, relatore della tesi e da un altro docente, correlatore.  
+Art. 288. - Le votazioni agli esami vengono assegnate in trentesimi; mentre quelle per il diploma in cinquantesimi.  
+Art. 289. - Agli allievi che avranno superato l'esame finale viene rilasciato il diploma di assistente sociale psichiatrico.  
+Art. 290. - Le tasse e soprattasse per la scuola sono ripartite come segue:  
   
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 26. - Agli insegnamenti complementari del corso di Laurea in lettere e' aggiunto quello di "Letteratura umanistica".  
-Art. 33. - Agli insegnamenti complementari del corso di laurea in Filosofia e' aggiunto quello di "Letteratura umanistica".  
-Art. 46. - L'insegnamento complementare di "Fisiopatologia ostetrica e ginecologica" tra le materie del corso di laurea in medicina e chirurgia assume la denominazione di "Patologia ostetrica e ginecologica".  
-Art. 66. - L'insegnamento complementare di "Tecnologia elettronica" tra le materie del corso di laurea in Chimica industriale assume la denominazione di "Tecnologia elettrochimica".  
-Gli articoli 188 e 189 relativi alla Scuola di specializzazione in oculistica sono abrogati e sostituiti dai seguenti.  
-  
-Scuola di specializzazione in oculistica  
-  
-Art. 188. - Il corso di studi della Scuola di specializzazione in Oculistica ha la durata di 4 anni. La scuola non puo' accogliere piu' di 5 allievi per ciascun anno di corso.  
-Art. 189. - Gli insegnamenti impartiti dalla Scuola sono i seguenti:  
 1° Anno:  
-1) Anatomia ed istologia dell'apparato oculare;  
-2) Nozioni di embriologia generale oculare;  
-3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e liquidi oculari;  
-4) Nozioni di ottica fisiologica ed esame della refrazione;  
-5) Microbiologia ed igiene oculare.  
-2° Anno:  
-1) Semeiotica e mezzi di indagine dell'apparato oculare;  
-2) Farmacologia oculare e terapia clinica;  
-3) Anatomia patologica dell'occhio;  
-4) Patologia e clinica oculare (biennale), 1° corso.  
-3° Anno:  
-1) Patologia e clinica oculare (biennale), 2° corso;  
-2) Anomalie e patologia della motilita' oculare e della visione binoculare (ortottica e pleottica);  
-3) Affezioni otorinolaringoiatriche ed occhio;  
-4) Tecnica operatoria (biennale), 1° corso.  
-4° Anno:  
-1) Neuro-oftalmologia;  
-2) Malattie oculari in rapporto ad affezioni generali;  
-3) Malattie professionali, infortunistica e medicina legale oculare;  
-4) Tecnica operatoria (biennale), 2° corso.  
-  
+tassa iscrizione. . . . . . . . . . . . . . . . . . . . . . L. 18.000 contributo. . . . . . . . . . . . . . . . . . . . . . . . . L. 50.000 soprattassa esame. . . . . . . . . . . . . . . . . . . . . . L. 7.000 2° Anno:  
+tassa iscrizione. . . . . . . . . . . . . . . . . . . . . . L. 18.000 contributo. . . . . . . . . . . . . . . . . . . . . . . . . L. 50.000 soprattassa esame. . . . . . . . . . . . . . . . . . . . . . L. 7.000 soprattasa esame diploma . . . . . . . . . . . . . . . . . . L. 3.000 tassa erariale di diploma . . . . . . . . . . . . . . . . . L. 50.000   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 marzo 1965
+### Dato a Roma, addi' 28 ottobre 1981
 
-SARAGAT GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla corte dei conti, addi' 26 aprile 1965
+Registrato alla Corte dei conti, addi' 6 maggio 1982
 
-Atti del Governo, registro n. 192, foglio n. 92. - VILLA
+Registro n. 60 Istruzione, foglio n. 134

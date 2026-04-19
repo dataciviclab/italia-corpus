@@ -1,78 +1,103 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1408
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1968 n. 1679
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1408
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1968 n. 1679
+==============================================================
 
 Modificazioni allo statuto della libera Universita' degli studi "Luigi Bocconi" di Milano.
 ------------------------------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto della libera Universita' degli studi "Luigi Bocconi" di Milano, approvato con [regio decreto 8 marzo 1925, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-08;547) e modificato con [regio decreto 2 dicembre 1928, n. 3108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-02;3108), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione, di concerto con quello per il tesoro;
+
+Decreta:
+
+Lo statuto della libera Universita' "Luigi Bocconi" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Dopo l'art. 7 e con il conseguente spostamento della successiva numerazione, sono aggiunti i seguenti nuovi articoli relativi alla istituzione del ruolo organico degli assistenti.
+
+Art. 8. - Il ruolo organico degli assistenti e' costituito da ventidue, posti di cui quindici per la facolta' di economia e commercio e sette per la facolta' di lingue e letterature straniere.
+
+Gli assistenti coadiuvano i professori nella ricerca scientifica e nella attivita' didattica, con particolare riguardo alle esercitazioni.
+
+Art. 9. - La ripartizione dei posti di assistente di ruolo, fra le cattedre e gli istituti scientifici di ciascuna facolta', e' disposta con provvedimento del presidente del consiglio di amministrazione da emanare su proposta della facolta' interessata, sentito il parere del senato accademico.
+
+Le modifiche al reparto dei posti hanno attuazione dall'inizio dell'anno accademico successivo a quello in cui venga emanato il relativo provvedimento.
+
+Art. 10. - Agli assistenti di ruolo spetta il trattamento economico e di carriera che lo Stato attribuisce agli assistenti di ruolo delle universita' statali. Ai fini del trattamento di previdenza, ai predetti assistenti verranno applicate le vigenti e future disposizioni di legge in materia di assicurazione invalidita', vecchiaia e superstiti. Tale personale ha diritto, inoltre, alla cessazione del servizio ad una indennita' di buona uscita nella misura prevista per i dipendenti statali.
+
+Per quanto si riferisce all'assistenza malattia, sara' provveduto come per legge.
+
+In caso di trasferimento all'Universita' Bocconi di assistenti di ruolo appartenenti ad altri istituti universitari, saranno applicate le disposizioni vigenti in materia per gli assistenti di ruolo delle universita' statali.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 18 ottobre 1968
+
+SARAGAT
+
+SCAGLIA - COLOMBO
+
+Visto, il Guardasigilli: GAVA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 8 settembre 1969 Atti del Governo, registro n. 229, luglio n. 12. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto della libera Universita' degli studi "Luigi Bocconi" di Milano, approvato con [regio decreto 8 marzo 1925, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-08;547) e modificato con [regio decreto 2 dicembre 1928, n. 3108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-02;3108) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto della libera Universita' degli studi "Luigi Bocconi" di Milano, approvato con [regio decreto 8 marzo 1925, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-08;547) e modificato con [regio decreto 2 dicembre 1928, n. 3108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-02;3108), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione, di concerto con quello per il tesoro;  
   
 Decreta:  
   
 Lo statuto della libera Universita' "Luigi Bocconi" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 36. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere sono aggiunti quelli di "Letteratura ispano-americana" e "Letteratura anglo-americana".  
-Dopo l'art. 48, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di perfezionamento in economia delle fonti di energia, con il conseguente spostamento della numerazione degli articoli successivi.  
-Scuola di perfezionamento in economia delle fonti di energia  
-Art. 49. - E' istituito presso l'Universita' commerciale "Luigi Bocconi" di Milano un Istituto di economia delle fonti di energia con annessa omonima scuola di perfezionamento.  
-All'Istituto presiede un Comitato direttivo composto da sette a nove membri nominati all'inizio di ogni biennio dal Consiglio di amministrazione dell'Universita', fanno parte di diritto del Comitato direttivo il presidente del Consiglio di amministrazione e il rettore.  
-Art. 50. - La Scuola e' diretta da un direttore nominato per la durata di un biennio dal Comitato esecutivo dell'Universita' su proposta del Comitato direttivo dell'istituto.  
-I docenti sono nominati anno per anno dal Comitato esecutivo della Universita' su proposta del Consiglio di Facolta'.  
-Art. 51. - La durata del corso e' di due anni e comprende gli insegnamenti di cui al successivo art. 55.  
-Art. 52. - Alla Scuola di perfezionamento possono iscriversi i laureati in economia e commercio, i giurisprudenza, in scienze politiche, in ingegneria, in fisica, in chimica industriale o in chimica, entro il numero dei posti stabiliti di cui all'articolo seguente.  
-Art. 53. - Ogni anno, entro il mese di maggio, il Comitato direttivo dell'Istituto stabilisce il numero dei poeti disponibili per l'ammissione al primo corso, nonche' le modalita' e i termini per la presentazione delle domande.  
-I posti disponibili saranno conferiti in base alla graduatoria di merito formata dal Comitato direttivo dell'Istituto, con giudizio insindacabile entro il 15 novembre di ciascun anno.  
-Art. 54. - Agli iscritti puo' essere concesso, su conforme parere del Comitato direttivo dell'Istituto, l'esonero dalla frequenza e dall'esame di quegli insegnamenti che, precedentemente seguiti per il conseguimento della laurea, siano considerati equipollenti agli insegnamenti propri della Scuola.  
-Art. 55. - Le materie di insegnamento sono:  
-1° Anno:  
-Economia generale delle fonti di energia;  
-Statistica delle fonti di energia;  
-Legislazione delle fonti di energia;  
-Geografia economica delle fonti di energia;  
-Tecnologia dei combustibili;  
-Tecnologia dell'elettricita';  
-Tecnologia, nucleare;  
-Elementi di ragioneria;  
-Elementi di economia delle aziende industriali;  
-2° Anno:  
-Economia dell'energia elettronucleare;  
-Bilanci delle aziende produttrici o distributrici di energia;  
-Economia delle aziende di pubblici servizi;  
-Costi e prezzi dell'energia;  
-Problemi di organizzazione delle aziende produttrici e distributrici di energia;  
-Problemi tributari dell'energia;  
-Problemi finanziari dell'energia.  
-Oltre agli insegnamenti sopra specificati potranno essere tenuti, durante il biennio di studi, corsi complementari, su specifici argomenti interessanti la preparazione degli allievi.  
-Art. 56. - La durata degli insegnamenti di cui al precedente articolo e' di circa ore 25 per ogni materia:  
-la frequenza alle lezioni e alle esercitazioni e' obbligatoria e saranno ammessi agli esami solo gli allievi che abbiano frequentato i singoli insegnamenti.  
-Al secondo anno di corso saranno ammessi solo gli allievi che abbiano superato almeno quattro degli insegnamenti del primo anno, a loro scelta.  
-Art. 57. - Le Commissioni per gli esami di profitto saranno formate dagli stessi professori incaricati dello svolgimento delle materie di insegnamento e presiedute dal direttore del corso. Ai candidati che abbiano seguito i corsi e superato gli esami di tutti gli insegnamenti prescritti dal piano di studi, verra' rilasciato il diploma di perfezionamento in economia delle fonti di energia.  
-Art. 58. - Le tasse di frequenza e gli eventuali contributi per le esercitazioni saranno stabiliti anno per anno, dal Consiglio di amministrazione della Universita' udito il parere del Comitato direttivo dell'Istituto.  
+  
+Dopo l'art. 7 e con il conseguente spostamento della successiva numerazione, sono aggiunti i seguenti nuovi articoli relativi alla istituzione del ruolo organico degli assistenti.  
+Art. 8. - Il ruolo organico degli assistenti e' costituito da ventidue, posti di cui quindici per la facolta' di economia e commercio e sette per la facolta' di lingue e letterature straniere.  
+Gli assistenti coadiuvano i professori nella ricerca scientifica e nella attivita' didattica, con particolare riguardo alle esercitazioni.  
+Art. 9. - La ripartizione dei posti di assistente di ruolo, fra le cattedre e gli istituti scientifici di ciascuna facolta', e' disposta con provvedimento del presidente del consiglio di amministrazione da emanare su proposta della facolta' interessata, sentito il parere del senato accademico.  
+Le modifiche al reparto dei posti hanno attuazione dall'inizio dell'anno accademico successivo a quello in cui venga emanato il relativo provvedimento.  
+Art. 10. - Agli assistenti di ruolo spetta il trattamento economico e di carriera che lo Stato attribuisce agli assistenti di ruolo delle universita' statali. Ai fini del trattamento di previdenza, ai predetti assistenti verranno applicate le vigenti e future disposizioni di legge in materia di assicurazione invalidita', vecchiaia e superstiti. Tale personale ha diritto, inoltre, alla cessazione del servizio ad una indennita' di buona uscita nella misura prevista per i dipendenti statali.  
+Per quanto si riferisce all'assistenza malattia, sara' provveduto come per legge.  
+In caso di trasferimento all'Universita' Bocconi di assistenti di ruolo appartenenti ad altri istituti universitari, saranno applicate le disposizioni vigenti in materia per gli assistenti di ruolo delle universita' statali.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 ottobre 1960
+### Dato a Roma, addi' 18 ottobre 1968
 
-GRONCHI BOSCO
+SARAGAT SCAGLIA - COLOMBO
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 28 novembre 1960
+Registrato alla Corte dei conti, addi' 8 settembre 1969
 
-Atti del Governo, registro n. 131, foglio n. 99. - VILLA
+Atti del Governo, registro n. 229, luglio n. 12. - CARUSO

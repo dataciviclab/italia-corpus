@@ -1,11 +1,103 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1967 n. 987
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969 n. 444
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1967 n. 987
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969 n. 444
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 2. - E' abrogato e sostituito dal seguente: "I professori ufficiali, sia di ruolo che incaricati, hanno l'obbligo di presentare, entro il mese di giugno, al preside delle rispettive facolta' i programmi dei corsi che si propongono di svolgere nel successivo anno accademico, e i consigli di facolta' debbono esaminarli entro il mese di ottobre, e coordinarli fra loro, introducendovi, se del caso, le opportune modificazioni, ai sensi dell'art. 16 del testo unico delle leggi sull'istruzione superiore".
+
+Art. 9. - All'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:
+
+Diritto fallimentare;
+
+Diritto finanziario;
+
+Diritto pubblico comparato;
+
+Giustizia costituzionale;
+
+Logica giuridica;
+
+Sociologia del diritto;
+
+Diritto di famiglia;
+
+Diritto bancario (e di borsa);
+
+Diritto penale commerciale;
+
+Diritto e procedura penale militare;
+
+Diritto urbanistico;
+
+Diritto della previdenza e delle assicurazioni sociali;
+
+Diritto anglo-americano;
+
+Diritto dei paesi socialisti;
+
+Diritto e organizzazione delle comunita' europee;
+
+Contabilita' dello Stato;
+
+Teoria generale del processo;
+
+Storia delle codificazioni moderne;
+
+Storia del pensiero giuridico;
+
+Politica economica e finanziaria.
+
+Nel predetto corso di laurea l'insegnamento complementare di "Diritto internazionale privato" muta denominazione in quella di "Diritto internazionale privato e processuale".
+
+Nello stesso corso di laurea gli insegnamenti complementari di: demografia, legislazione del lavoro, diritto pubblico nord-americano, diritto coloniale e diritto pubblico francese sono soppressi.
+
+Nel predetto corso di laurea, dopo l'ultimo comma 6 aggiunto il seguente: "La scelta degli insegnamenti complementari e la scelta della tesi di laurea devono coordinarsi secondo i criteri e gli orientamenti omogenei fissati dal consiglio di facolta'".
+
+Art. 10, relativo alle norme sulla propedeuticita' ed esami e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente: "Gli esami di diritto costituzionale e di istituzioni di diritto privato devono precedere tutti gli esami di materie giuridiche non istituzionali".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 29 maggio 1969
+
+SARAGAT
+
+FERRARI AGGRADI
+
+Visto, il Guardasigilli: GAVA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 18 luglio 1969 Atti del Governo, registro n. 228, foglio n. 35. - CARUSO
 
 Art. 1
 ------
@@ -13,12 +105,11 @@ Art. 1
  IL PRESIDENTE DELLA REPUBBLICA  
   
 Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071).  
-convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -26,64 +117,44 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 43. - All'elenco degli insegnamenti complementari del corso di laurea in Materie letterarie e' aggiunto quello di: "Storia economica".  
-Art. 44. - All'elenco degli insegnamenti complementari del corso di laurea in Pedagogia e' aggiunto quello di:  
-15) Didattica generale.  
-Art. 86. - All'elenco degli insegnamenti complementari del corso di laurea in Medicina veterinaria sono aggiunti quelli di:  
-14) Istologia ed embriologia generale;  
-15) Zooeconomia;  
-16) Scienza dell'alimentazione degli animali;  
-17) Patologia aviare.  
-L'insegnamento complementare di "Economia rurale (semestrale) del predetto corso di laurea e' soppresso.  
-Gli articoli dal 304 al 311 relativi al corso di specializzazione in Viticoltura ed enologia "Alberto Marone Cinzano" sono abrogati e sostituiti dai seguenti:  
+Art. 2. - E' abrogato e sostituito dal seguente: "I professori ufficiali, sia di ruolo che incaricati, hanno l'obbligo di presentare, entro il mese di giugno, al preside delle rispettive facolta' i programmi dei corsi che si propongono di svolgere nel successivo anno accademico, e i consigli di facolta' debbono esaminarli entro il mese di ottobre, e coordinarli fra loro, introducendovi, se del caso, le opportune modificazioni, ai sensi dell'art. 16 del testo unico delle leggi sull'istruzione superiore".  
+Art. 9. - All'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:  
   
-Corso di specializzazione in Viticoltura ed enologia.  
-Art. 304. - Alla Facolta' di agraria e' annesso un corso di specializzazione in Viticoltura ed enologia, avente lo scopo di dare ai laureati, mediante un corso teorico e applicato, una specifica preparazione nelle suddette specialita'.  
-Art. 305. - La durata del corso e' annuale. Esso viene distinto in due periodi:  
-1) prevalentemente teorico-didattico, nel primo semestre dell'anno solare, da trascorrersi presso la Facolta' di agraria di Torino;  
-2) prevalentemente didattico-applicativo, nel secondo semestre solare, da trascorrersi presso la Stazione enologica sperimentale di Asti, nonche' presso i vari Istituti della Facolta' e presso aziende viticole e stabilimenti enologici indicati dal Consiglio.  
-Art. 306. - Gli insegnamenti impartiti nel corso sono i seguenti:  
-1) Corso di Viticoltura;  
-2) Corso di Esercitazioni di viticoltura;  
-3) Corso di Enologia;  
-4) Corso di Esercitazioni di Chimica enologica;  
-5) Corso di Esercitazioni di Chimica tecnologica;  
-6) Corso di Microbiologia enologica;  
-7) Corso di Esercitazioni di microbiologia enologica;  
-8) Corso di Costruzioni enologiche;  
-9) Corso di Meccanica viticolo-enologica;  
-10) Corso di Patologia viticola;  
-11) Corso di Zoologia viticola;  
-12) Corso di Legislazione viticolo-enologica;  
-13) Corso di Economia viti-vinicola.  
-Potranno inoltre essere tenuti brevi cicli di lezioni e conferenze isolate in particolari argomenti interessanti le varie discipline del corso.  
-Art. 307. - Sono ammessi al corso di specializzazione i laureati in Scienze agrarie, in Chimica, in Chimica industriale, in Ingegneria chimica.  
-Il numero degli allievi ammessi annualmente al corso e', al massimo, di dieci di cittadinanza italiana e, senza limiti, di cittadinanza straniera.  
-Qualora il numero delle domande dei primi sia superiore, e l'attrezzatura didattica ne consenta in via eccezionale l'ammissione, sara' data la preferenza agli aspiranti che abbiano particolari titoli nei riguardi delle finalita' del corso. Per l'ammissione dei laureati stranieri il Consiglio del corso decidera' caso per caso la validita' dei titoli presentati.  
-Il Consiglio di facolta' si riserva di sospendere il corso qualora ne ravveda l'opportunita'.  
-Art. 308. - Al termine del corso annuale sara' rilasciato agli iscritti un certificato di frequenza e di esame in base:  
-a) alla regolare frequenza ai due periodi del corso;  
-b) all'esito degli esami sostenuti alla fine dei due semestri;  
-c) al giudizio emesso dai Direttori degli Istituti, Enti o Aziende frequentati durante il corso;  
-d) all'esame finale, che consiste nella presentazione di una dissertazione scritta di carattere sperimentale, da sostenersi davanti ad apposita Commissione di docenti del corso.  
-Art. 309. - Il direttore del corso sara' designato dal Consiglio della Facolta' di agraria dell'Universita' di Torino fra i professori di ruolo e fuori ruolo della stessa Facolta'.  
-Art. 310. - Il Consiglio direttivo del corso si compone di tutti i docenti di ruolo e fuori ruolo della Facolta', del direttore della Stazione enologica sperimentale di Asti e dei docenti degli insegnamenti propriamente detti (esercitazioni escluse) del corso stesso.  
-Esso fa le proposte relative all'ordinamento degli studi e dell'insegnamento e da' pareri su tutti i provvedimenti riguardanti il corso medesimo.  
-Art. 311. - Gli iscritti al corso saranno tenuti a pagare la tassa di iscrizione, le tasse e soprattasse di esame, compresi i contributi integrativi, secondo quanto e' stabilito per gli studenti della Facolta' di agraria.  
-Art. 320, relativo alla Scuola di specializzazione in Fisiopatologia della riproduzione degli animali domestici, il primo comma e' abrogato e sostituito dal seguente.  
-"Il numero dei partecipanti al corso sara' stabilito di anno in anno ed il corso sara' svolto purche' gli iscritti raggiungano il numero di quindici.  
-Qualora tale numero minimo non venisse raggiunto il Consiglio della scuola stabilira' di anno in anno se i corsi dovranno ugualmente effettuarsi".  
+Diritto fallimentare;  
+Diritto finanziario;  
+Diritto pubblico comparato;  
+Giustizia costituzionale;  
+Logica giuridica;  
+Sociologia del diritto;  
+Diritto di famiglia;  
+Diritto bancario (e di borsa);  
+Diritto penale commerciale;  
+Diritto e procedura penale militare;  
+Diritto urbanistico;  
+Diritto della previdenza e delle assicurazioni sociali;  
+Diritto anglo-americano;  
+Diritto dei paesi socialisti;  
+Diritto e organizzazione delle comunita' europee;  
+Contabilita' dello Stato;  
+Teoria generale del processo;  
+Storia delle codificazioni moderne;  
+Storia del pensiero giuridico;  
+Politica economica e finanziaria.  
+Nel predetto corso di laurea l'insegnamento complementare di "Diritto internazionale privato" muta denominazione in quella di "Diritto internazionale privato e processuale".  
+Nello stesso corso di laurea gli insegnamenti complementari di: demografia, legislazione del lavoro, diritto pubblico nord-americano, diritto coloniale e diritto pubblico francese sono soppressi.  
+Nel predetto corso di laurea, dopo l'ultimo comma 6 aggiunto il seguente: "La scelta degli insegnamenti complementari e la scelta della tesi di laurea devono coordinarsi secondo i criteri e gli orientamenti omogenei fissati dal consiglio di facolta'".  
+Art. 10, relativo alle norme sulla propedeuticita' ed esami e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente: "Gli esami di diritto costituzionale e di istituzioni di diritto privato devono precedere tutti gli esami di materie giuridiche non istituzionali".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 agosto 1967
+### Dato a Roma, addi' 29 maggio 1969
 
-SARAGAT GUI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 2 novembre 1967
+Registrato alla Corte dei conti, addi' 18 luglio 1969
 
-Atti del Governo, registro n. 214, foglio n. 111. - GRECO
+Atti del Governo, registro n. 228, foglio n. 35. - CARUSO

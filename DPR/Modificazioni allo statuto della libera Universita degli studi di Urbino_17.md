@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1981 n. 1080
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 765
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1981 n. 1080
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 765
 ==============================================================
 
 Modificazioni allo statuto della libera Universita' degli studi di Urbino.
@@ -10,9 +10,9 @@ Modificazioni allo statuto della libera Universita' degli studi di Urbino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Urbino, approvato con [regio decreto 8 febbraio 1925, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-08;230) e modificato con [regio decreto 31 ottobre 1929, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2475), e successive modificazioni;
+Veduto lo statuto della libera Universita' degli studi di Urbino, approvato con [regio decreto 8 febbraio 1925, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-08;230), e modificato con [regio decreto 31 ottobre 1929, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2475), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,333 +20,397 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Urbino e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto della libera Universita' degli studi di Urbino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Urbino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 17 - all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di "Giustizia costituzionale".
+
+Gli articoli 18, 19, 20, 21, 22, 23, 24, 25 e 26, relativi al corso di laurea in scienze politiche, sono abrogati e sostituiti dai seguenti:
+
+Art. 18. - La durata del corso degli studi per la laurea in scienze politiche e' di quattro anni.
+
+E' titolo di ammissione quello consentito dalle vigenti disposizioni di legge.
+
+Il corso degli studi si distingue in un biennio propedeutico comune e in un biennio progredito corrispondente agli indirizzi determinati dalla facolta'.
+
+Superato l'esame di laurea lo studente consegue il titolo di dottore in scienze politiche. Nel relativo diploma e' indicato l'indirizzo seguito dal laureato.
+
+Art. 19. - Il primo biennio comune del corso quadriennale di studio ha funzione preminentemente propedeutica a scopo largamente formativo e comprende i seguenti insegnamenti obbligatori:
+
+1° Anno:
+
+1) Istituzioni di diritto pubblico;
+
+2) Storia delle dottrine politiche;
+
+3) Economia politica;
+
+4) Organizzazione internazionale;
+
+5) Sociologia.
+
+2° Anno:
+
+1) Diritto costituzionale italiano e comparato;
+
+2) Storia moderna;
+
+3) Statistica;
+
+4) Politica economica e finanziaria.
+
+L'esame di istituzioni di diritto pubblico deve essere sostenuto prima di quello di diritto costituzionale italiano e comparato; l'esame di economia politica deve essere sostenuto prima di quello di politica economica finanziaria.
+
+Lo studente potra' aggiungere ai nove insegnamenti obbligatori sopra elencati del biennio propedeutico non piu' di tre insegnamenti del biennio progredito, scelti fra quelli resi obbligatori per l'indirizzo prescelto del biennio di specializzazione. Gli insegnamenti cosi' anticipati saranno detratti dal numero degli insegnamenti del biennio di specializzazione. Gli insegnamenti a scelta dello studente non possono essere anticipati al biennio propedeutico.
+
+Art. 20. - Il biennio progredito contempla i seguenti tre indirizzi di specializzazione:
+
+A) Politico-amministrativo;
+
+B) Politico-internazionale;
+
+C) Storico-politico.
+
+Art. 21. - Fermi restando gli insegnamenti obbligatori del biennio propedeutico comune elencati nell'art. 19, gli insegnamenti che possono essere impartiti o mutuati dalla facolta', in relazione agli indirizzi di cui sopra, sono i seguenti:
+
+Antropologia culturale;
+
+Contabilita' di Stato;
+
+Criminologia;
+
+Demografia;
+
+Diritto amministrativo;
+
+Diritto canonico;
+
+Diritto commerciale;
+
+Diritto del lavoro;
+
+Diritto diplomatico e consolare;
+
+Diritto ecclesiastico;
+
+Diritto ed economia delle fonti di energia;
+
+Diritto industriale;
+
+Diritto internazionale;
+
+Diritto internazionale privato;
+
+Diritto parlamentare;
+
+Diritto privato comparato;
+
+Diritto pubblico dell'economia;
+
+Diritto pubblico romano;
+
+Diritto sanmarinese;
+
+Diritto tributario;
+
+Dottrina dello Stato;
+
+Economia e politica industriale;
+
+Economia e politica monetaria;
+
+Economia internazionale;
+
+Elementi di diritto romano;
+
+Ermeneutica politica;
+
+Esegesi dei trattati;
+
+Filosofia del diritto;
+
+Geografia politica ed economica;
+
+Istituzioni di diritto e procedura penale;
+
+Istituzioni di diritto privato;
+
+Istituzioni politiche comparate;
+
+Legislazione bancaria;
+
+Legislazione sociale e del lavoro;
+
+Lingua francese;
+
+Lingua inglese;
+
+Lingua russa;
+
+Lingua spagnola;
+
+Lingua tedesca;
+
+Metodologia della ricerca storica;
+
+Ordinamento delle comunita' europee;
+
+Ordinamento giudiziario;
+
+Ordinamento regionale;
+
+Organizzazione economica internazionale;
+
+Organizzazione politica europea;
+
+Programmazione economica;
+
+Relazioni internazionali;
+
+Scienza dell'amministrazione;
+
+Scienza della politica;
+
+Scienza delle finanze;
+
+Sociologia del diritto;
+
+Storia antica;
+
+Storia contemporanea;
+
+Storia dei movimenti sindacali;
+
+Storia dei partiti e dei movimenti politici;
+
+Storia dei rapporti fra Stato e Chiesa;
+
+Storia dei trattati e politica internazionale;
+
+Storia del Cristianesimo;
+
+Storia del diritto italiano;
+
+Storia della costituzione romana;
+
+Storia della filosofia moderna e contemporanea;
+
+Storia della storiografia;
+
+Storia delle codificazioni;
+
+Storia delle costituzioni moderne;
+
+Storia delle dottrine economiche;
+
+Storia delle istituzioni parlamentari;
+
+Storia delle istituzioni politiche;
+
+Storia economica;
+
+Storia ed istituzioni dei paesi afro-asiatici;
+
+Storia medioevale;
+
+Teoria generale del diritto.
+
+La facolta' si riserva, inoltre, nel predisporre all'inizio di ogni anno accademico l'elenco di cui al comma terzo dell'art. 22, di includere in detto elenco insegnamenti impartiti presso il corso di laurea in giurisprudenza o presso altre facolta' dell'Ateneo urbinate, che abbiano stretta attinenza con gli studi di scienze politiche.
+
+Art. 22. - Al termine del biennio propedeutico comune, ogni studente dovra' scegliere uno degli indirizzi di specializzazione previsti per il biennio progredito e formulare il piano di studio da sottoporre all'approvazione del consiglio di facolta', che potra' invitare lo studente ad un colloquio orientativo per concordare la scelta dell'indirizzo e determinare le modalita' del proseguimento degli studi.
+
+Nel biennio progredito lo studente e' tenuto a seguire i corsi ed a sostenere le prove di esame di almeno dieci unita' annuali di insegnamento scelte nell'elenco stabilito dalla facolta'. Egli e' inoltre, tenuto a seguire i corsi ed a superare le prove di esame di due lingue straniere. Per tutti gli indirizzi e' obbligatoria la lingua inglese. Per l'indirizzo politico-internazionale sono obbligatorie le lingue inglese e francese. Le lingue obbligatorie possono essere anticipate al biennio propedeutico.
+
+All'inizio di ogni anno accademico il consiglio di facolta' stabilisce e rende noto agli studenti per ciascun indirizzo l'elenco degli insegnamenti, in numero non superiore a quindici, che verranno professati durante l'anno nonche' la durata (pluriennale, annuale, semestrale o trimestrale) dei corsi ed il loro carattere obbligatorio ovvero opzionale. Gli insegnamenti obbligatori di ciascun indirizzo non potranno essere meno di quattro e piu' di sette. Gli altri saranno scelti dallo studente fra i restanti insegnamenti dell'indirizzo.
+
+Lo studente potra' modificare il piano di studio per quanto concerne le materie a scelta previo consenso del consiglio di facolta'. Egli potra' anche cambiare indirizzo: in tal caso il consiglio di facolta' stabilira' quali degli esami gia' sostenuti possono essere convalidati e prescrivera' il nuovo piano di studio da seguire per il conseguimento della laurea.
+
+Art. 23. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superati gli esami relativi a non meno di ventuno corsi annuali, compresi quelli di lingue straniere.
+
+Per il computo degli esami la facolta' stabilisce l'equivalenza fra i corsi annuali ed i corsi frazionali (trimestrali o semestrali) eventualmente impartiti. Qualora vengano istituiti corsi biennali o pluriennali di una stessa disciplina, ogni esame annuale viene computato ai fini del numero minimo di esami di cui al secondo comma dell'art. 22.
+
+Art. 24. - I laureati in giurisprudenza o in economia e commercio possono essere iscritti al terzo anno del corso di laurea in scienze politiche con dispensa dagli esami nelle materie comuni e di durata non inferiore.
+
+Coloro che siano in possesso di lauree diverse dalle suindicate, ma il cui corso di studi presenti affinita' con quello per la laurea in scienze politiche, possono essere ammessi, a giudizio del consiglio di facolta', ad anno di corso non superiore al secondo, con l'obbligo di sostenere tutti gli esami prescritti, ad eccezione di quelli che avessero eventualmente superato durante la precedente carriera scolastica.
+
+Art. 25 - Disposizioni transitorie per gli studenti regolarmente iscritti. - Al momento dell'entrata in vigore del nuovo ordinamento del corso di laurea in scienze politiche gli studenti regolarmente iscritti possono optare per il medesimo. In tal caso la facolta' si riserva di provvedere alla convalida o meno degli esami gia' sostenuti in relazione all'indirizzo di specializzazione prescelto dallo studente, fissando, inoltre, di volta in volta, il piano di studi da seguire per il conseguimento della laurea.
+
+Capo VII
+
+DEGLI STUDENTI - DEGLI ESAMI - DELLE TASSE
+
+Art. 86 (ex 77). - L'esame di laurea in scienze politiche consiste:
+
+a) nella discussione di una dissertazione scritta sul tema concordato tra il candidato ed il professore della materia prescelta che deve rientrare tra quelle dell'indirizzo seguito dallo studente con esclusione delle lingue straniere;
+
+b) nello svolgimento orale di una o piu' tesine scelte dal candidato in materie dell'indirizzo prescelto diverse da quella su cui sia caduta la scelta della dissertazione scritta e delle quali abbia dato saggio negli esami di profitto.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1974
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 27 gennaio 1975 Atti di Governo, registro n. 8, foglio n. 16
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-All'art. 79, relativo alla scuola di perfezionamento in filosofia, dopo l'insegnamento fondamentale di storia della filosofia antica del primo, secondo e terzo anno e' aggiunto l'insegnamento di storia della filosofia moderna e contemporanea. Nello stesso articolo e' soppresso dall'elenco delle materie integrative l'insegnamento di storia della filosofia moderna e contemporanea.  
-
-Art. 2
-------
-
+Veduto lo statuto della libera Universita' degli studi di Urbino, approvato con [regio decreto 8 febbraio 1925, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-08;230), e modificato con [regio decreto 31 ottobre 1929, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2475), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
+Decreta:  
   
-L'art. 81, relativo alla scuola di perfezionamento in lingue e letterature straniere moderne, e' sostituito dal seguente:   
-Art. 81. - La scuola ha lo scopo di promuovere la formazione scientifica e il perfezionamento didattico dei laureati che intendono dedicarsi all'insegnamento delle lingue e letterature straniere moderne nei vari tipi di istituti elementari, medi e superiori. Il corso ha la durata di due anni.   
-Sono ammessi alla scuola i laureati in lingue e letterature straniere nonche' i laureati in lettere e materie letterarie o titoli equipollenti che abbiano svolto una tesi di laurea in letteratura o filologia straniera moderna. Sul parere del consiglio della scuola possono essere ammessi anche i laureati italiani e stranieri di altre facolta' o corsi di laurea affini.   
-La scuola di perfezionamento in lingue e letterature straniere moderne prevede l'insegnamento di lingua e letteratura francese, spagnola, inglese, tedesca e russa.   
-Per tutte le lingue e' previsto un indirizzo linguistico e un indirizzo letterario fra i quali gli iscritti alla scuola possono optare. Il piano di studio comprende quattro insegnamenti per ogni anno del corso di cui due fondamentali e due integrativi a scelta dell'iscritto. Nessun iscritto potra' essere ammesso al secondo anno di corso se non avra' completato il piano di studi previsto per il primo anno. All'inizio di ogni anno il consiglio della scuola delibera, in relazione al numero degli iscritti, quanti e quali saranno gli insegnamenti integrativi attivati tra i quali gli iscritti potranno scegliere.   
-L'insegnamento si svolge in forma di seminari per ciascun insegnamento, articolati secondo un calendario annuale. Si effettuano, inoltre, incontri di informazione con esperti su temi che saranno preventivamente indicati.   
+Lo statuto dell'Universita' degli studi di Urbino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 17 - all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di "Giustizia costituzionale".  
+Gli articoli 18, 19, 20, 21, 22, 23, 24, 25 e 26, relativi al corso di laurea in scienze politiche, sono abrogati e sostituiti dai seguenti:  
+Art. 18. - La durata del corso degli studi per la laurea in scienze politiche e' di quattro anni.  
+E' titolo di ammissione quello consentito dalle vigenti disposizioni di legge.  
+Il corso degli studi si distingue in un biennio propedeutico comune e in un biennio progredito corrispondente agli indirizzi determinati dalla facolta'.  
+Superato l'esame di laurea lo studente consegue il titolo di dottore in scienze politiche. Nel relativo diploma e' indicato l'indirizzo seguito dal laureato.  
+Art. 19. - Il primo biennio comune del corso quadriennale di studio ha funzione preminentemente propedeutica a scopo largamente formativo e comprende i seguenti insegnamenti obbligatori:  
+1° Anno:  
+1) Istituzioni di diritto pubblico;  
+2) Storia delle dottrine politiche;  
+3) Economia politica;  
+4) Organizzazione internazionale;  
+5) Sociologia.  
+2° Anno:  
+1) Diritto costituzionale italiano e comparato;  
+2) Storia moderna;  
+3) Statistica;  
+4) Politica economica e finanziaria.  
+L'esame di istituzioni di diritto pubblico deve essere sostenuto prima di quello di diritto costituzionale italiano e comparato; l'esame di economia politica deve essere sostenuto prima di quello di politica economica finanziaria.  
+Lo studente potra' aggiungere ai nove insegnamenti obbligatori sopra elencati del biennio propedeutico non piu' di tre insegnamenti del biennio progredito, scelti fra quelli resi obbligatori per l'indirizzo prescelto del biennio di specializzazione. Gli insegnamenti cosi' anticipati saranno detratti dal numero degli insegnamenti del biennio di specializzazione. Gli insegnamenti a scelta dello studente non possono essere anticipati al biennio propedeutico.  
+Art. 20. - Il biennio progredito contempla i seguenti tre indirizzi di specializzazione:  
+A) Politico-amministrativo;  
+B) Politico-internazionale;  
+C) Storico-politico.  
+Art. 21. - Fermi restando gli insegnamenti obbligatori del biennio propedeutico comune elencati nell'art. 19, gli insegnamenti che possono essere impartiti o mutuati dalla facolta', in relazione agli indirizzi di cui sopra, sono i seguenti:  
+Antropologia culturale;  
+Contabilita' di Stato;  
+Criminologia;  
+Demografia;  
+Diritto amministrativo;  
+Diritto canonico;  
+Diritto commerciale;  
+Diritto del lavoro;  
+Diritto diplomatico e consolare;  
+Diritto ecclesiastico;  
+Diritto ed economia delle fonti di energia;  
+Diritto industriale;  
+Diritto internazionale;  
+Diritto internazionale privato;  
+Diritto parlamentare;  
+Diritto privato comparato;  
+Diritto pubblico dell'economia;  
+Diritto pubblico romano;  
+Diritto sanmarinese;  
+Diritto tributario;  
+Dottrina dello Stato;  
+Economia e politica industriale;  
+Economia e politica monetaria;  
+Economia internazionale;  
+Elementi di diritto romano;  
+Ermeneutica politica;  
+Esegesi dei trattati;  
+Filosofia del diritto;  
+Geografia politica ed economica;  
+Istituzioni di diritto e procedura penale;  
+Istituzioni di diritto privato;  
+Istituzioni politiche comparate;  
+Legislazione bancaria;  
+Legislazione sociale e del lavoro;  
+Lingua francese;  
+Lingua inglese;  
+Lingua russa;  
+Lingua spagnola;  
+Lingua tedesca;  
+Metodologia della ricerca storica;  
+Ordinamento delle comunita' europee;  
+Ordinamento giudiziario;  
+Ordinamento regionale;  
+Organizzazione economica internazionale;  
+Organizzazione politica europea;  
+Programmazione economica;  
+Relazioni internazionali;  
+Scienza dell'amministrazione;  
+Scienza della politica;  
+Scienza delle finanze;  
+Sociologia del diritto;  
+Storia antica;  
+Storia contemporanea;  
+Storia dei movimenti sindacali;  
+Storia dei partiti e dei movimenti politici;  
+Storia dei rapporti fra Stato e Chiesa;  
+Storia dei trattati e politica internazionale;  
+Storia del Cristianesimo;  
+Storia del diritto italiano;  
+Storia della costituzione romana;  
+Storia della filosofia moderna e contemporanea;  
+Storia della storiografia;  
+Storia delle codificazioni;  
+Storia delle costituzioni moderne;  
+Storia delle dottrine economiche;  
+Storia delle istituzioni parlamentari;  
+Storia delle istituzioni politiche;  
+Storia economica;  
+Storia ed istituzioni dei paesi afro-asiatici;  
+Storia medioevale;  
+Teoria generale del diritto.  
+La facolta' si riserva, inoltre, nel predisporre all'inizio di ogni anno accademico l'elenco di cui al comma terzo dell'art. 22, di includere in detto elenco insegnamenti impartiti presso il corso di laurea in giurisprudenza o presso altre facolta' dell'Ateneo urbinate, che abbiano stretta attinenza con gli studi di scienze politiche.  
+Art. 22. - Al termine del biennio propedeutico comune, ogni studente dovra' scegliere uno degli indirizzi di specializzazione previsti per il biennio progredito e formulare il piano di studio da sottoporre all'approvazione del consiglio di facolta', che potra' invitare lo studente ad un colloquio orientativo per concordare la scelta dell'indirizzo e determinare le modalita' del proseguimento degli studi.  
+Nel biennio progredito lo studente e' tenuto a seguire i corsi ed a sostenere le prove di esame di almeno dieci unita' annuali di insegnamento scelte nell'elenco stabilito dalla facolta'. Egli e' inoltre, tenuto a seguire i corsi ed a superare le prove di esame di due lingue straniere. Per tutti gli indirizzi e' obbligatoria la lingua inglese. Per l'indirizzo politico-internazionale sono obbligatorie le lingue inglese e francese. Le lingue obbligatorie possono essere anticipate al biennio propedeutico.  
+All'inizio di ogni anno accademico il consiglio di facolta' stabilisce e rende noto agli studenti per ciascun indirizzo l'elenco degli insegnamenti, in numero non superiore a quindici, che verranno professati durante l'anno nonche' la durata (pluriennale, annuale, semestrale o trimestrale) dei corsi ed il loro carattere obbligatorio ovvero opzionale. Gli insegnamenti obbligatori di ciascun indirizzo non potranno essere meno di quattro e piu' di sette. Gli altri saranno scelti dallo studente fra i restanti insegnamenti dell'indirizzo.  
+Lo studente potra' modificare il piano di studio per quanto concerne le materie a scelta previo consenso del consiglio di facolta'. Egli potra' anche cambiare indirizzo: in tal caso il consiglio di facolta' stabilira' quali degli esami gia' sostenuti possono essere convalidati e prescrivera' il nuovo piano di studio da seguire per il conseguimento della laurea.  
+Art. 23. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superati gli esami relativi a non meno di ventuno corsi annuali, compresi quelli di lingue straniere.  
+Per il computo degli esami la facolta' stabilisce l'equivalenza fra i corsi annuali ed i corsi frazionali (trimestrali o semestrali) eventualmente impartiti. Qualora vengano istituiti corsi biennali o pluriennali di una stessa disciplina, ogni esame annuale viene computato ai fini del numero minimo di esami di cui al secondo comma dell'art. 22.  
+Art. 24. - I laureati in giurisprudenza o in economia e commercio possono essere iscritti al terzo anno del corso di laurea in scienze politiche con dispensa dagli esami nelle materie comuni e di durata non inferiore.  
+Coloro che siano in possesso di lauree diverse dalle suindicate, ma il cui corso di studi presenti affinita' con quello per la laurea in scienze politiche, possono essere ammessi, a giudizio del consiglio di facolta', ad anno di corso non superiore al secondo, con l'obbligo di sostenere tutti gli esami prescritti, ad eccezione di quelli che avessero eventualmente superato durante la precedente carriera scolastica.  
+Art. 25 - Disposizioni transitorie per gli studenti regolarmente iscritti. - Al momento dell'entrata in vigore del nuovo ordinamento del corso di laurea in scienze politiche gli studenti regolarmente iscritti possono optare per il medesimo. In tal caso la facolta' si riserva di provvedere alla convalida o meno degli esami gia' sostenuti in relazione all'indirizzo di specializzazione prescelto dallo studente, fissando, inoltre, di volta in volta, il piano di studi da seguire per il conseguimento della laurea.  
   
-INSEGNAMENTI E PIANI DI STUDIO   
+Capo VII  
+DEGLI STUDENTI - DEGLI ESAMI - DELLE TASSE  
   
-Lingua e letteratura francese   
-Insegnamenti fondamentali:   
-1) linguistica generale;   
-2) storia della lingua francese;   
-3) glottodidattica;   
-4) letteratura francese classica;   
-5) letteratura francese moderna e contemporanea;   
-6) letterature comparate.   
-Insegnamenti integrativi:   
-1) sociolinguistica;   
-2) psicolinguistica;   
-3) linguistica del testo;   
-4) linguistica contrastiva;   
-5) teoria della comunicazione;   
-6) teoria e storia della traduzione;   
-7) teoria e storia della grammatica francese;   
-8) dialettologia francese;   
-9) filologia francese;   
-10) filologia romanza;   
-11) semiotica generale;   
-12) semiotica della letteratura;   
-13) teoria della letteratura;   
-14) sociologia della letteratura;   
-15) stilistica e retorica;   
-16) metrica e versificazione francese;   
-17) letteratura francese medioevale;   
-18) letteratura francese del Rinascimento;   
-19) letteratura drammatica francese;   
-20) letterature francofone;   
-21) letteratura folclorica della Francia;   
-22) storia della civilta' francese;   
-23) didattica della letteratura francese;   
-24) metodologia della ricerca letteraria francese;   
-25) storia della critica letteraria francese.   
-Piano di studio per l'indirizzo linguistico:   
-1° Anno:   
-1) linguistica generale I;   
-2) storia della lingua francese;   
-3) (integrativo);   
-4) (integrativo).   
-2° Anno:   
-1) linguistica generale II;   
-2) glottodidattica;   
-3) (integrativo);   
-4) (integrativo).   
-Piano di studio per l'indirizzo letterario:   
-1° Anno:   
-1) letteratura francese classica;   
-2) letteratura francese moderna e contemporanea I;   
-3) (integrativo);   
-4) (integrativo).   
-2° Anno:   
-1) letteratura francese moderna e contemporanea II;   
-2) letterature comparate;   
-3) (integrativo);   
-4) (integrativo).   
-Lingua e letteratura spagnola   
-Insegnamenti fondamentali:   
-1) linguistica generale;   
-2) storia della lingua spagnola;   
-3) glottodidattica;   
-4) letteratura spagnola classica;   
-5) letteratura spagnola moderna e contemporanea;   
-6) letteratura ispano-americana.   
-Insegnamenti integrativi:   
-1) sociolinguistica;   
-2) psicolinguistica;   
-3) linguistica del testo;   
-4) linguistica contrastiva;   
-5) teoria della comunicazione;   
-6) teoria e storia della traduzione;   
-7) teoria e storia della grammatica spagnola;   
-8) dialettologia spagnola;   
-9) filologia spagnola;   
-10) filologia romanza;   
-11) semiotica generale;   
-12) semiotica della letteratura;   
-13) teoria della letteratura;   
-14) sociologia della letteratura;   
-15) stilistica e retorica;   
-16) metrica e versificazione spagnola;   
-17) letteratura spagnola del Medioevo e del Rinascimento;   
-18) letteratura spagnola del Romanticismo;   
-19) letteratura drammatica spagnola;   
-20) letteratura folclorica spagnola;   
-21) storia della civilta' spagnola;   
-22) didattica della letteratura spagnola;   
-23) letteratura ispano-americana;   
-24) letteratura folclorica ispano-americana;   
-25) storia della critica letteraria spagnola.   
-Piano di studio per l'indirizzo linguistico:   
-1° Anno:   
-1) linguistica generale I;   
-2) storia della lingua spagnola;   
-3) (integrativo);   
-4) (integrativo);   
-2° Anno:   
-1) linguistica generale II;   
-2) glottodidattica;   
-3) (integrativo);   
-4) (integrativo).   
-Piano di studio per l'indirizzo letterario:   
-1° Anno:   
-1) letteratura spagnola classica;   
-2) letteratura spagnola moderna e contemporanea I;   
-3) (integrativo);   
-4) (integrativo).   
-2° Anno:   
-1) letteratura spagnola moderna e contemporanea II;   
-2) letteratura ispano-americana;   
-3) (integrativo);   
-4) (integrativo).   
-Lingua e letteratura inglese   
-Insegnamenti fondamentali:   
-1) linguistica generale;   
-2) storia della lingua inglese;   
-3) glottodidattica;   
-4) letteratura inglese del Rinascimento;   
-5) letteratura inglese moderna;   
-6) letteratura inglese contemporanea;   
-7) letteratura americana.   
-Insegnamenti integrativi:   
-1) sociolinguistica;   
-2) psicolinguistica;   
-3) linguistica del testo;   
-4) linguistica contrastiva;   
-5) teoria della comunicazione;   
-6) teoria e storia della traduzione;   
-7) teoria e storia della grammatica inglese;   
-8) filologia inglese;   
-9) dialettologia inglese;   
-10) filologia germanica;   
-11) semiotica generale;   
-12) semiotica della letteratura;   
-13) teoria della letteratura;   
-14) sociologia della letteratura;   
-15) stilistica e retorica;   
-16) metrica e versificazione inglese;   
-17) letteratura inglese del periodo anglosassone;   
-18) letteratura del Middle English;   
-19) letteratura drammatica inglese;   
-20) letterature anglofone;   
-21) letteratura folclorica della Gran Bretagna;   
-22) letteratura folclorica degli Stati Uniti;   
-23) storia della civilta' anglosassone;   
-24) didattica della letteratura inglese;   
-25) letterature comparate;   
-26) metodologia dell'analisi letteraria;   
-27) letteratura australiana;   
-28) letteratura anglocanadase.   
-Piano di studio per l'indirizzo linguistico:   
-1° Anno:   
-1) linguistica generale I;   
-2) storia della lingua inglese;   
-3) (integrativo);   
-4) (integrativo).   
-2° Anno:   
-1) linguistica generale II;   
-2) glottodidattica;   
-3) (integrativo);   
-4) (integrativo).   
-Piano di studio per l'indirizzo letterario:   
-1° Anno:   
-1) letteratura inglese del Rinascimento;   
-2) letteratura inglese moderna;   
-3) (integrativo);   
-4) (integrativo).   
-2° Anno:   
-1) letteratura inglese contemporanea;   
-2) letteratura anglo-americana;   
-3) (integrativo);   
-4) (integrativo).   
-Lingua e letteratura tedesca   
-Insegnamenti fondamentali:   
-1) linguistica generale;   
-2) linguistica del testo;   
-3) storia della lingua tedesca;   
-4) glottodidattica;   
-5) letteratura tedesca classica e romantica;   
-6) letteratura tedesca moderna e contemporanea;   
-7) teoria della letteratura;   
-8) letterature comparate.   
-Insegnamenti integrativi:   
-1) sociolinguistica;   
-2) psicolinguistica;   
-3) linguistica contrastiva;   
-4) teoria della comunicazione;   
-5) teoria e storia della traduzione;   
-6) teoria e storia della grammatica tedesca;   
-7) filologia tedesca;   
-8) dialettologia tedesca;   
-9) filologia germanica;   
-10) semiotica generale;   
-11) semiotica della letteratura;   
-12) sociologia della letteratura;   
-13) stilistica e retorica;   
-14) metrica e versificazione tedesca;   
-15) letteratura tedesca medioevale;   
-16) letteratura tedesca dall'Umanesimo all'Illuminismo;   
-17) letteratura tedesca drammatica;   
-18) letteratura folclorica dei Paesi di lingua tedesca;   
-19) storia della civilta' tedesca;   
-20) didattica della letteratura tedesca.   
-Piano di studio per l'indirizzo linguistico:   
-1° Anno:   
-1) linguistica generale;   
-2) storia della lingua tedesca;   
-3) (integrativo);   
-4) (integrativo).   
-2° Anno:   
-1) linguistica del testo;   
-2) glottodidattica;   
-3) (integrativo);   
-4) (integrativo).   
-Piano di studio per l'indirizzo letterario:   
-1° Anno:   
-1) letteratura tedesca classica e romantica;   
-2) teoria della letteratura;   
-3) (integrativo);   
-4) (integrativo).   
-2° Anno:   
-1) letteratura tedesca moderna e contemporanea;   
-2) letterature comparale;   
-3) (integrativo);   
-4) (integrativo).   
-Lingua e letteratura russa   
-Insegnamenti fondamentali:   
-1) linguistica generale;   
-2) storia della lingua russa;   
-3) glottodidattica;   
-4) letteratura russa classica;   
-5) letteratura russa moderna;   
-6) letteratura russa contemporanea;   
-7) letterature comparate.   
-Insegnamenti integrativi:   
-1) sociolinguistica;   
-2) psicolinguistica;   
-3) linguistica del testo;   
-4) linguistica contrastiva;   
-5) teoria della comunicazione;   
-6) teoria e storia della traduzione;   
-7) teoria e storia della grammatica russa;   
-8) filologia russa;   
-9) dialettologia russa;   
-10) semiotica generale;   
-11) semiotica della letteratura;   
-12) teoria della letteratura;   
-13) sociologia della letteratura;   
-14) stilistica e retorica;   
-15) metrica e versificazione russa;   
-16) letteratura russa medioevale;   
-17) letteratura drammatica russa;   
-18) letteratura folclorica russa;   
-19) storia della civilta' russa;   
-20) didattica della letteratura russa;   
-21) storia della critica letteraria russa.   
-Piano di studio per l'indirizzo linguistico:   
-1° Anno:   
-1) linguistica generale I;   
-2) storia della lingua russa;   
-3) (integrativo);   
-4) (integrativo).   
-2° Anno:   
-1) linguistica generale II;   
-2) glottodidattica;   
-3) (integrativo);   
-4) (integrativo).   
-Piano di studio per l'indirizzo letterario:   
-1° Anno:   
-1) letteratura russa classica;   
-2) letteratura russa moderna;   
-3) (integrativo);   
-4) (integrativo).   
-2° Anno:   
-1) letteratura russa contemporanea;   
-2) letterature comparate;   
-3) (integrativo);   
-4) (integrativo).   
-Per conseguire il diploma di perfezionamento in lingue e letterature straniere moderne, ogni iscritto alla scuola deve:   
-1) partecipare attivamente a tutti i seminari, agli incontri di formazione e alle esercitazioni;   
-2) sostenere alla fine di ogni anno del corso gli esami in forma di colloquio di accertamento in ognuno dei quattro insegnamenti del suo piano di studio e, inoltre, nella lingua straniera;   
-3) sostenere una discussione finale su una dissertazione scritta con carattere di originalita' su un tema concordato con il docente di uno degli insegnamenti del piano di studio.   
-La partecipazione e la frequenza sono obbligatorie per gli iscritti alla scuola e sono condizione per il conseguimento del diploma.   
+Art. 86 (ex 77). - L'esame di laurea in scienze politiche consiste:  
+a) nella discussione di una dissertazione scritta sul tema concordato tra il candidato ed il professore della materia prescelta che deve rientrare tra quelle dell'indirizzo seguito dallo studente con esclusione delle lingue straniere;  
+b) nello svolgimento orale di una o piu' tesine scelte dal candidato in materie dell'indirizzo prescelto diverse da quella su cui sia caduta la scelta della dissertazione scritta e delle quali abbia dato saggio negli esami di profitto.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 luglio 1981
+### Dato a Roma, addi' 31 ottobre 1974
 
-PERTINI BODRATO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 10 marzo 1982
+Registrato alla Corte dei conti, addi' 27 gennaio 1975
 
-Registro n. 38 Istruzione, foglio n. 259
+Atti di Governo, registro n. 8, foglio n. 16

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1279
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1984 n. 1119
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1279
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1984 n. 1119
+==============================================================
 
 Assegnazione di un posto di tecnico laureato presso l'Universita' degli studi "La Sapienza" di Roma.
 ----------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1279. Decreto del Presidente della Repubblica 23 dicembre 1983, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di patologia generale (per le esigenze della terza cattedra) della facolta' di medicina e chirurgia dell'Universita' "La Sapienza" di Roma.  
+1119. Decreto del Presidente della Repubblica 7 giugno 1984, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato alla clinica neurologica (per le esigenze della terza cattedra) della facolta' di medicina e chirurgia dell'Universita' "La Sapienza" di Roma.   
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 24 agosto 1984  
-Registro n. 51 Istruzione, foglio n. 63
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 5 marzo 1985   
+Registro n. 13 Istruzione, foglio n. 375

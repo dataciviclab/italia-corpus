@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1979 n. 371
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 931
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1979 n. 371
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 931
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
@@ -10,76 +10,83 @@ Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli 267, 268, 269 e 270, relativi alla scuola di specializzazione in chirurgia vascolare, sono soppressi e sostituiti dai seguenti:   
-  
-Scuola di specializzazione in chirurgia vascolare   
-  
-Art. 267. - La scuola di specializzazione in chirurgia vascolare ha sede presso l'istituto di chirurgia vascolare e conferisce il diploma di specializzazione in chirurgia vascolare.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Art. 268. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.   
-Il numero massimo degli allievi e' di otto per anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Art. 269. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) embriologia, anatomia macro e microscopica dell'apparato vascolare;   
-2) fisiopatologia dell'apparato vascolare e della coagulazione sanguigna;   
-3) anatomia patologica dell'apparato vascolare;   
-4) semeiologia fisica e strumentale delle malattie vascolari;   
-5) semeiologia radiologica delle malattie vascolari;   
-6) vasculopatie di interesse medico e specialistico.   
-2° Anno:   
-7) patologia e clinica delle malattie del sistema arterioso;   
-8) patologia e clinica delle malattie del sistema venoso;   
-9) patologia e clinica delle malattie del sistema linfatico;   
-10) patologia e clinica delle malattie dei piccoli vasi.   
-3° Anno:   
-11) nozioni di terapia medica delle malattie vascolari;   
-12) terapia chirurgica delle malattie vascolari;   
-13) chirurgia vascolare applicata a malattie dei vari organi I.   
-4° Anno:   
-14) informatica medica;   
-15) rianimazione e terapia intensiva;   
-16) patologia e clinica vascolare pediatrica I;   
-17) epidemiologia delle malattie vascolari;   
-18) elementi di legislazione sanitaria comunitaria;   
-19) chirurgia vascolare applicata a malattie dei vari organi II.   
-5° Anno:   
-20) elementi di bioingegneria applicati al circolo;   
-21) principi e tecnica di circolazione extracorporea;   
-22) terapia intensiva;   
-23) patologia e clinica vascolare pediatrica II;   
-24) tecniche chirurgiche applicate alla patologia vascolare;   
-25) chirurgia vascolare applicata a malattie dei vari organi III.   
-Art. 270. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
-Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sugli insegnamenti impartiti durante l'anno.   
-Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in chirurgia vascolare gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione e dovranno sostenere una prova clinica.   
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 59 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:  
+medicina nucleare.  
+Art. 66 - all'elenco degli insegnamenti complementari del corso di laurea in matematica, primo gruppo, sono aggiunti i seguenti:  
+complementi di algebra;  
+calcolo numerico e programmazione;  
+metodi di approssimazione;  
+processi stocastici;  
+teoria dei giochi;  
+metodi matematici di analisi economica;  
+linguaggi formali e compilatori;  
+metodi per il trattamento dell'informazione;  
+teoria dei sistemi;  
+struttura dei sistemi dinamici;  
+teorie ergodiche;  
+geometrie finite;  
+teorie combinatorie;  
+programmazione matematica;  
+gruppi di Lie;  
+algebre topologiche;  
+teoria delle rappresentazioni;  
+fondamenti della matematica;  
+equazioni a derivate parziali.  
+Art. 67 - all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:  
+esperimentazioni di chimica;  
+analisi numerica e programmazione: corso speciale per le scienze naturali;  
+climatologia;  
+mineralogia sistematica;  
+geologia nucleare;  
+rilevamento geologico;  
+difesa del suolo;  
+idrogeologia;  
+fotogeologia;  
+geologia regionale;  
+geologia applicata;  
+paleobiologia;  
+geologia storica.  
+Art. 68 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:  
+esperimentazioni di chimica;  
+analisi numerica e programmazione: corso speciale per le scienze biologiche;  
+biochimica vegetale;  
+microbiologia industriale;  
+pedologia biologica;  
+biologia degli animali da laboratorio;  
+equilibri naturali e lotta biologica;  
+fisiologia degli insetti.  
+Art. 69 - all'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti:  
+fotogeologia;  
+petrografia applicata;  
+difesa del suolo;  
+paleobiologia;  
+geologia storica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 marzo 1979
+### Dato a Roma, addi' 31 ottobre 1975
 
-PERTINI PEDINI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 28 luglio 1979
+Registrato alla Corte dei conti, addi' 13 marzo 1976
 
-Registro n. 60 Istruzione, foglio n. 199
+Atti di Governo, registro n. 4, foglio n. 7

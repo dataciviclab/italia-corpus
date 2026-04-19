@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1954 n. 495
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1960 n. 1059
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1954 n. 495
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1960 n. 1059
+=================================================================
 
 Autorizzazione alla Cassa pensioni per gli impiegati della sede centrale della Cassa di risparmio e depositi di Firenze ad acquistare un immobile sito in Firenze.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -10,35 +10,10 @@ Autorizzazione alla Cassa pensioni per gli impiegati della sede centrale della C
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+N.
+
+1059. Decreto del Presidente della Repubblica 2 settembre 1960, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, la Cassa pensioni per gli impiegati della sede centrale della Cassa di risparmio e depositi di Firenze, viene autorizzata ad acquistare al prezzo di L. 30.000.000 (trentamilioni) il piano terreno di un edificio, di proprieta' della Cassa di risparmio di Firenze, sito in Firenze in angolo fra il viale dei Mille ed il viale Manfredo Fanti, con accesso da quest'ultimo viale dal civico n. 15/A, comprendente sette fondi di negozi, con retrostanze e una parte dello scantinato, contraddistinti con i numeri civici 3, 3/A, 3/B, 3/C e 3/D rossi sul viale Manfredo Fanti e dai numeri civici 2, 2/A, 2/B e 2/C rossi sul viale dei Mille, meglio descritti nell'atto privato di vendita stipulato, fra le parti, in Firenze il 30 dicembre 1959 e registrato dall'Ufficio del registro di Firenze il 7 gennaio 1960 al n. 32542, vol. 127.  
   
-Visto il [regio decreto 27 gennaio 1927, n. 289](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-01-27;289), col quale fu eretta in ente morale la Cassa pensioni per gli impiegati della sede centrale della Cassa di risparmio e depositi di Firenze;  
-Vista la domanda, in data 30 dicembre 1953, avanzata al Prefetto di Firenze dalla Cassa pensioni per gli impiegati della sede centrale della Cassa di risparmio e depositi di Firenze, ai fini di ottenere l'autorizzazione ad acquistare un immobile in Firenze;  
-Visto lo statuto organico della Cassa pensioni per gli impiegati della sede centrale della Cassa di risparmio e depositi di Firenze, approvato dal Consiglio di amministrazione nell'adunanza del 7 dicembre 1921;  
-Visto l'estratto del verbale dell'adunanza dell'11 dicembre 1953, del Consiglio d'amministrazione della Cassa pensioni suddetta, relativo alla delibera di acquisto di alcune porzioni di un immobile sito in Firenze;  
-Vista la perizia giurata effettuata per conto della Cassa pensioni dall'ing. Alberto Bruscalupi, il 5 dicembre 1953;  
-Vista la promessa di vendita del sig. Tebaldo Baldini in data 23 dicembre 1953;  
-Visti l'[art. 17 del Codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art17) e gli articoli 1 e 5 delle disposizioni di attuazione del Codice stesso;  
-Visti la legge 5 giugno 1850, n. 1037 ed il [regio decreto 26 giugno 1864, n. 1817](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1864-06-26;1817), sugli acquisti dei corpi morali;  
-Visto il parere favorevole espresso dal Prefetto di Firenze, con la nota n. 8816 del 24 febbraio 1954;  
-Udito il parere del Consiglio di Stato nell'adunanza n. 302 della Sezione seconda del 28 aprile 1954;  
-Ritenuta l'opportunita' che la Cassa; pensioni per gli impiegati della sede centrale della Cassa di risparmio e depositi di Firenze investa parzialmente in beni immobili i capitali disponibili;  
-Sulla proposta del Ministro per il lavoro e la previdenza sociale;  
-  
-Decreta:  
-  
-Alla Cassa pensioni per gli impiegati della sede centrale della Cassa di risparmio e depositi di Firenze, e' concessa, ai sensi e per gli effetti della legge 5 giugno 1850, n. 1037, l'autorizzazione ad acquistare, al prezzo massimo di L. 26.000.000 alcune porzioni dell'immobile sito in Firenze, in via dei Servi n. 38 nero, angolo via degli Alfani, come specificato nell'istanza al Prefetto di cui nelle premesse, di proprieta' del sig. Tebaldo Baldini.  
-  
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Dato a Roma, addi' 29 maggio 1954
-
-EINAUDI VIGORELLI
-
-Visto, il Guardasigilli: DE PIETRO
-
-Registrato alla Corte dei conti, addi' 15 luglio 1954
-
-Atti del Governo, registro n. 84, foglio n. 108. - CARLOMAGNO
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 24 settembre 1960  
+Atti del Governo, registro n. 129, foglio n. 109. - VILLA

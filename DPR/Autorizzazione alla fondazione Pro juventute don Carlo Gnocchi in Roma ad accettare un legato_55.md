@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 dicembre 1981 n. 1007
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 151
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 dicembre 1981 n. 1007
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 151
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,12 @@ Art. 1
 
 N.
 
-1007. Decreto del Presidente della Repubblica 15 dicembre 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in buoni del Tesoro del valore nominale di L. 5.000.000, disposto dal signor Cairoli Franco con testamento olografo e codicillo del 5 aprile 1968, pubblicato a rogito dott. Enrico Bevilacqua, notaio in Milano, il 3 ottobre 1977, n. 15065/2.811 di repertorio, registrato a Milano il 12 ottobre 1977, al n. A/4-93799 71/ M serie F.  
+151. Decreto del Presidente della Repubblica 26 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto, a favore dei mutilatini di don Gnocchi, dalla sig.na Morandi Amalia con testamento olografo 10 luglio 1968, pubblicato a rogito dott. Elso Bucchini, notaio in Magenta (Milano) il 15 marzo 1979, n. 64249 di repertorio e n. 3921 di raccolta, registrato a Magenta il 26 marzo 1979 al n. 519, consistente:
+
+a) nella nuda proprieta' di un immobile sito in Magenta, via 4 Giugno n. 36, distinto nel nuovo catasto edilizio urbano alla partita 653, foglio 5, mappale 649 sub 1 ÷ 15, valore attribuito con perizia di parte L. 35.000.000;
+
+b) appezzamento di terreno sito nel comune di Magenta, distinto nel nuovo catasto terreni alla partita 5089, foglio 21, mappale 25, valore attribuito con perizia di parte L. 15.000.000, quota 3/4 L. 11.250.000, totale L. 46.250.000, valori elevati dall'ufficio tecnico erariale di Milano come segue: punto a) L. 109.000.000, punto b), intero L. 136.000.000, quota 3/4 L. 102.000.000, totale L. 211.000.000.  
   
 Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 24 febbraio 1982  
-Registro n. 2 Presidenza, foglio n. 176
+Registrato alla Corte dei conti, addi' 31 marzo 1982  
+Registro n. 3 Presidenza, foglio n. 113

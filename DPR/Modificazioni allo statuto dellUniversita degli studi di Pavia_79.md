@@ -1,70 +1,109 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 987
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1975 n. 607
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 987
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1975 n. 607
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Nell'art. 15, relativo al corso di laurea in giurisprudenza, all'elenco degli insegnamenti complementari sono aggiunti i seguenti: diritto amministrativo comparato;  
-diritto commerciale comparato;  
-diritto pubblico americano;  
-diritto parlamentare;  
-giustizia costituzionale;  
-storia dell'amministrazione pubblica;  
-storia del diritto italiano moderno e temporaneo;  
-diritto internazionale penale;  
-diritto bancario e di borsa;  
-diritto delle assicurazioni;  
-diritto d'autore;  
-diritto privato dell'economia;  
-ordinamento giudiziario;  
-diritto della previdenza e delle assicurazioni sociali;  
-diritti dell'uomo.  
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
+  
+Decreta:   
+  
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+  
+Dopo l'art. 270 sono inseriti, con il conseguente spostamento della numerazione degli articoli successivi, i seguenti nuovi articoli concernenti l'istituzione delle scuole di specializzazione in fisiopatologia e fisiochinesiterapia respiratoria e in neurochirurgia.   
+Scuola di specializzazione in fisiopatologia e in fisiochinesiterapia respiratoria   
+Art. 271. - La scuola di specializzazione in fisiopatologia e in fisiochinesiterapia respiratoria ha la durata dei corsi di anni 3.   
+Il piano di studi e' il seguente:   
+1° Anno:   
+1) anatomia funzionale dell'apparato respiratorio;   
+2) fisiomeccanica della respirazione;   
+3) le funzioni respiratorie ai vari livelli;   
+4) le funzioni del circolo polmonare;   
+5) attivita' non respiratorie del polmone;   
+6) metodologia di indagine della funzionalita' respiratoria;   
+7) i farmaci del respiro.   
+2° Anno:   
+1) inquadramento generale e diagnostico di patologia bronco-pleuro-polmonare;   
+2) le alterazioni funzionali respiratorie in patologia bronco-pleuro-polmonare;   
+3) l'insufficienza respiratoria nei suoi aspetti eziopatogenetici, clinici e terapeutici;   
+4) fisiopatologia cardiocircolatoria nei broncopneumopatici;   
+5) le alterazioni funzionali respiratorie nei vasculopatici e nei cardiopatici.   
+3° Anno:   
+1) terapia medica generale delle sindromi da disfunzione respiratoria;   
+2) terapia strumentale della insufficienza respiratoria;   
+3) metodologie di rieducazione funzionale respiratoria;   
+4) la rieducazione respiratoria nelle broncopneumopatie invalidanti;   
+5) terapia cardiologica e del circolo nei broncopneumopatici cronici;   
+6) terapia d'urgenza nelle sindromi disfunzionali respiratorie;  
+7) prevenzione e cura dell'invalidita' respiratoria.   
+Art. 273. - Il numero degli iscritti per ogni anno e' 10 (dieci).   
+Art. 274 - Esercitazioni, esami, diploma. - I corsi di insegnamento sono integrati da turni obbligatori di internato nei reparti di degenza, nei laboratori di ricerca, da esercitazioni pratiche e da conferenze; gli esami di profitto hanno luogo al termine di ogni anno di corso; per il conseguimento del diploma di specializzazione e' prescritta la presentazione e la discussione di una dissertazione scritta.   
+Scuola di specializzazione in neurochirurgia   
+Art. 275. - La scuola di specializzazione in neurochirurgia ha la durata di quattro anni.   
+Per l'iscrizione alla scuola e' richiesta la laurea in medicina e chirurgia ed il superamento di un esame di ammissione.   
+Il numero complessivo di iscritti e' stabilito in 20 specializzandi. L'iscrizione direttamente al secondo corso puo' essere consentita a giudizio del consiglio della scuola per i candidati che abbiano conseguito il diploma di specialita' o la libera docenza in materia affine alla neurochirurgia.   
+Art. 276. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+neuroanatomia;   
+neurofisiologia;   
+semeiotica e clinica neurologica;   
+elementi di psichiatria;   
+clinica neurochirurgica.   
+2° Anno:   
+neurooftalmologia;   
+neurootoiatria;   
+elettroencefalografia ed elettromiografia;   
+clinica neurochirurgica.   
+3° Anno:   
+anestesiologia e rianimazione;   
+neuropatologia;   
+neuroradiologia;   
+clinica neurochirurgica.   
+4° Anno:   
+tecniche operatorie;   
+neuroradiologia;   
+clinica neurochirurgica;   
+neurotraumatologia;   
+neurochirurgia stereotassica;   
+neurochirurgia infantile;   
+neurochirurgia spinale.   
+Le materie fondamentali sopraelencate sono integrate dai seguenti insegnamenti complementari:   
+neurochimica;   
+neurofarmacologia;   
+medicina nucleare in neurochirurgia;   
+neurooncologia sperimentale e clinica;   
+fisiochinesiterapia e riabilitazione;   
+medicina legale in neurochirurgia;   
+neurochirurgia del dolore.   
+Art. 277. - La frequenza della scuola e' obbligatoria durante l'anno accademico. Su concessione del consiglio della scuola l'esonero della frequenza e' previsto per gli specializzandi che prestino regolare ed attivo servizio in una clinica neurochirurgica di una universita', che non sia sede di scuola di specializzazione e per gli assistenti di primariati neurochirurgici. Anche in caso delle sopradette eccezioni vi e' pero' l'obbligo di frequenza delle lezioni.   
+Alla fine di ogni corso gli specializzandi devono sostenere gli esami delle materie fondamentali. Il superamento di tali esami consentira' l'ammissione al corso successivo.   
+Art. 278. - Per conseguire il diploma di specializzazione in neurochirurgia, gli iscritti al corso dopo aver superato tutti gli esami, dovranno presentare e discutere una dissertazione scritta su un argomento di neurochirurgia.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 29 settembre 1975
 
-PERTINI BODRATO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 9 febbraio 1982
+Registrato alla Corte dei conti, addi' 3 dicembre 1975
 
-Registro n. 20 Istruzione, foglio n. 193
+Atti di Governo, registro n. 14, foglio n. 110

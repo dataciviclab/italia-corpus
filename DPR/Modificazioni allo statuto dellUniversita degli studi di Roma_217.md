@@ -1,55 +1,70 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 novembre 1950 n. 1313
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 dicembre 1980 n. 1078
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 novembre 1950 n. 1313
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 dicembre 1980 n. 1078
 ================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA.
+-------------------------------
+
+Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio universitario nazionale nei suoi pareri;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), modificato con [regi decreti 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-26;1734); [26 ottobre 1940, n. 2069](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2069); [4 maggio 1942, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-05-04;565); [24 luglio 1942, n. 949](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-24;949); [24 agosto 1942, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-08-24;1098); [24 ottobre 1942, n. 1672, con decreto luogotenenziale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo.luogotenenziale:1942-10-24;1672) [8 febbraio 1946, n. 242, con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-02-08;242) [12 aprile 1947, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-12;461); [31 dicembre 1947, n. 1758; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1758) [24 dicembre 1948, n. 1619](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-12-24;1619); [18 luglio 1949, n. 882](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-07-18;882); [20 ottobre 1949, n. 989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;989); [20 ottobre 1949, n. 991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;991); [30 ottobre 1949, n. 1152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1152); [20 ottobre 1949, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;1178); [11 giugno 1950, n. 622](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;622);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), c successive modificazioni;  
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Lo statuto dell'Universita' di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Decreta:  
+Dopo l'art. 544, e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo alla istituzione della seconda scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio.  
+Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio (2ª scuola)  
+Art. 545. - La seconda scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio ha sede presso la seconda cattedra di tisiologia e malattie dell'apparato respiratorio.  
+Il numero massimo degli iscritti e' stabilito in quaranta specializzandi (dieci per anno di corso).  
+Per quanto riguarda la direzione della scuola, la durata del corso, i titoli di ammissione, l'ordinamento degli studi ed ogni altra norma si rimanda all'ordinamento della prima scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio (articoli 542-544).
+
+Art. 2
+------
+
   
-Lo statuto dell'Universita' degli studi di Roma approvato e modificato con i decreti sopraindicati, e' cosi' ulteriormente modificato:  
-Attuale art. 36. - E' sostituito dal seguente:  
-"Presso la facolta' sono costituiti i seguenti istituti scientifici:  
-1) istituto di scienze economiche;  
-2) istituto di materie giuridiche;  
-3) istituto di ragioneria;  
-4) istituto di tecnica economica;  
-5) istituto di merceologia;  
-6) istituto di matematica finanziaria;  
-7) istituto di statistica;  
-8) istituto di geografia, economica.  
-Attuale art. 73. - All'elenco degli istituti della Facolta' di medicina e chirurgia e' aggiunto n. 30. Istituto di microbiologia.  
-Attuale art. 176. - Agli insegnamenti della scuola di perfezionamento in diritto romano e diritti dell'Oriente Mediterraneo e' aggiunto quello di:  
-Diritto penale romano.  
-All'attuale art. 267 relativo alla scuola di perfezionamento in scienze etnologiche e' soppressa la parola "costitutivi" ed e' aggiunto il seguente nuovo comma:  
-"Il corso degli studi per ciascun allievo e' stabilito dal Consiglio della scuola in base ai suoi studi precedenti e al ramo in cui egli intende perfezionarsi".  
-Attuale art. 277. - E' soppresso il "corso annuale di perfezionamento in biologia delle razze umane".  
+L'art. 618, primo comma, relativo alla scuola di specializzazione in neuropsichiatria infantile, e' modificato nel senso che il numero massimo degli iscritti e' stabilito complessivamente in ottantacinque specializzandi.  
+
+Art. 3
+------
+
+  
+L'art. 620, relativo alla scuola di specializzazione in neuropsichiatria infantile, e' modificato nel senso che il secondo e terzo comma sono soppressi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 novembre 1950
+### Dato a Roma, addi' 2 dicembre 1980
 
-EINAUDI GONELLA
+PERTINI BODRATO
 
-Visto, il Guardasigilli: PICCIONI
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 30 ottobre 1951
+Registrato alla Corte dei conti, addi' 4 marzo 1981
 
-Atti del Governo, registro n. 45, foglio n. 47. - FRASCA
+Registro n. 20 Istruzione, foglio n. 16

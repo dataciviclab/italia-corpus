@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1962 n. 1621
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1967 n. 275
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1962 n. 1621
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1967 n. 275
+============================================================
 
 Autorizzazione all'Unione nazionale ufficiali in congedo d'Italia, con sede in Roma, ad acquistare un immobile.
 ---------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1621. Decreto del Presidente della Repubblica 19 ottobre 1962, col quale, sulla proposta del Ministro per la difesa, l'Unione nazionale ufficiali in congedo d'Italia, con sede in Roma, viene autorizzata ad acquistare dall'impresa Costruzioni edili e stradali ing. Conti Luigi, al prezzo di L. 6.240.000 circa, in appartamento di quattro stanze e servizi, di complessivi mq. 80, situato al primo piano di un fabbricato in costruzione in Mantova, via Tezze, da destinare alla sede del gruppo provinciale di detta citta'.  
+275. Decreto del Presidente della Repubblica 14 marzo 1967, col quale, sulla proposta del Ministro per la difesa, l'Unione nazionale ufficiali in congedo d'Italia, con sede in Roma, viene autorizzata ad acquistare, dalla signora Villa Cesarina maritata Mauri, al prezzo di L. 12.200.000, l'appartamento di tre camere ed accessori, situato al primo piano del fabbricato che sorge in Lecco, via Cavour n. 78, da adibire a sede della dipendente Sezione di Lecco.  
   
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 21 novembre 1962  
-Atti del Governo, registro n. 160, foglio n. 38. - VILLA
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 9 maggio 1967  
+Atti del Governo, registro n. 211, foglio n. 8. - GRECO

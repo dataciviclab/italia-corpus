@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1982 n. 415
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1980 n. 721
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1982 n. 415
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1980 n. 721
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-415. Decreto del Presidente della Repubblica 5 giugno 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 500.000, disposto dalla sig.ra Baroni Regina Mercede, a favore dei mutilatini di don Gnocchi che si identificano con la fondazione predetta come si rileva dal verbale del consiglio di amministrazione nella riunione del 28 novembre 1980, con testamento olografo 1 marzo 1980, pubblicato in data 20 giugno 1980, n. 153 di repertorio e n. 63 di raccolta, a rogito dottore Giro De Vincenzo, notaio in Milano, registrato a Milano il 10 luglio 1980 al n. 16505.  
+721. Decreto del Presidente della Repubblica 22 luglio 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato a favore dell'Istituto don Carlo Gnocchi che si identifica con la fondazione don Carlo Gnocchi, come ha fatto presente la fondazione medesima, consistente in un immobile sito in Bologna, via Riva Reno n. 104, distinto nel nuovo catasto edilizio urbano alla partita n. 20027, foglio 81, mappale 330 sub 2, 3 e 14 e mappale 531, valutato in lire 32.400.000 con perizia giurata del geom. Maddaloni Pietro ed elevato a L. 65.000.000 dall'ufficio tecnico erariale di Bologna, disposto dalla sig.ra Dora Cuppini con testamento olografo 24 luglio 1975 pubblicato in data 7 maggio 1976, n. 40114 di repertorio, n. 20410 di fascicolo, a rogito dott. Malaguti Carlo, notaio in Bologna, registrato a Bologna il 25 maggio 1976 al n. 7230.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 30 giugno 1982  
-Registro n. 6 Presidenza, foglio n. 71
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 27 ottobre 1980  
+Registro n. 8 Presidenza, foglio n. 199

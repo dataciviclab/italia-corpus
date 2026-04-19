@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 aprile 1983 n. 327
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 967
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 aprile 1983 n. 327
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 967
+==============================================================
 
 Modificazione allo statuto del Politecnico di Milano.
 -----------------------------------------------------
@@ -39,26 +39,19 @@ Articolo unico
 --------------
 
   
-Art. 29 - nell'elenco degli insegnamenti complementari della facolta' di ingegneria sono inseriti i seguenti insegnamenti:  
-catalisi industriale;  
-misure delle radiazioni e protezione;  
-misure geodetiche;  
-processi elettrochimici;  
-aeroelasticita';  
-strumentazione biomedica;  
-elaborazione dei dati biologici;  
-termocinetica biomedica.  
-  
+Art. 29 - nell'elenco degli insegnamenti complementari della facolta' di ingegneria e' inserito l'insegnamento di "principi di bioingegneria".  
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 aprile 1983
+### Dato a Roma, addi' 31 ottobre 1985
 
-PERTINI FALCUCCI
+COSSIGA
 
-Visto, il Guardasigilli: DARIDA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 5 luglio 1983
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registro n. 49 Istruzione, foglio n. 52
+Registrato alla Corte dei conti, addi' 20 marzo 1986 Registro n. 18
+
+Istruzione, foglio n. 71

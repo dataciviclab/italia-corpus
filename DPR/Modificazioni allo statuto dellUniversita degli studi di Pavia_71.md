@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1088
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1974 n. 222
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1088
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1974 n. 222
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,191 +18,85 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Veduto il [decreto del Presidente della Repubblica dell'11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 397, e con lo spostamento della numerazione degli articoli successivi, sono Inseriti i seguenti nuovi articoli, relativi alla istituzione delle seguenti scuole:
+Art. 101 - il settimo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in neurologia e' stabilito in diciannove per ogni anno di corso (totale settantasei iscritti).
 
-scuola di specializzazione in anatomia patologica;
+Art. 102 - il settimo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in psichiatria e' stabilito in quindici per ogni anno di corso (totale sessanta iscritti).
 
-scuola
-------
+L'art. 130 e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in igiene e medicina preventiva e' stabilito in trentacinque per ogni anno di corso (totale centocinque iscritti).
 
-di specializzazione in neurofisiologia clinica; di specializzazione in tossicologia forense.
+Art. 137 - il primo comma e modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in malattie dell'apparato cardiovascolare e' stabilito in quindici per ogni anno di corso (totale quarantacinque iscritti).
+
+Art. 142 - all'elenco degli insegnamenti del 3° anno di corso della scuola di specializzazione in oncologia e' aggiunto quello di "Radiologia" (diagnostica e terapia dei tumori).
+
+L'art. 179 e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in medicina interna e' stabilito in trenta per ogni anno di corso (totale centocinquanta iscritti).
+
+Art. 222 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in tossicologia medica e' stabilito in dodici per ogni anno di corso (totale trentasei iscritti).
+
+Art. 224 - il primo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio e' stabilito in quindici per ogni anno di corso (totale quarantacinque iscritti).
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 22 febbraio 1974
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: ZAGARI
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 1 giugno 1974 Atti di Governo, registro n. 4, foglio n. 4. - SCIARRETTA
 
 Art. 1
 ------
 
-Scuola di specializzazione in anatomia patologica
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Art. 398. - Alla scuola di specializzazione in anatomia patologica vengono ammessi laureati In medicina e chirurgia in possesso del diploma di abilitazione allo esercizio professionale rilasciato dall'autorita' competente. La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
-La scuola ha sede presso l'istituto di anatomia e istologia patologica. Essa conferisce il diploma di specialista in anatomia patologica.   
-La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima. Il numero massimo di allievi e' di cinque per anno di corso e complessivamente di venti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Art. 399. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-anatomia patologica sistematica I;   
-tecnica delle autopsie;   
-diagnostica anatomo-patologica macroscopica I;   
-tecniche istologiche ed istochimiche.   
-2° Anno:   
-anatomia patologica sistematica II;   
-diagnostica anatomo-patologica macroscopica II;   
-diagnostica istopatologica I;   
-tecniche e diagnostica citologica e citogenetica.   
-3° Anno:   
-diagnostica istopatologica II;   
-tecniche di microscopia elettronica e biologica ultrastrutturale;   
-immunopatologia.   
-4° Anno:   
-diagnostica istopatologica III;   
-diagnostica istocitopatologica ultrastrutturale;   
-diagnostica autoptica medico-legale ed elementi di legislazione sanitaria;   
-applicazioni statistiche ed epidemiologiche.   
-Art. 400. - Agli allievi della scuola e' fatto obbligo di frequentare le lezioni ed i seminari programmati nonche' di partecipare quotidianamente all'attivita' diagnostica e scientifica svolta nell'istituto di anatomia ed istologia patologica o nel centro di diagnostica istopatologica dell'Universita' di Pavia ovvero di altro istituto o servizio anatomo-patologico che per qualificazione scientifica e professionale dei relativi specialisti, e per attrezzature e casistica disponibili garantisca all'allievo una effettiva ed approfondita esperienza pratica nella disciplina.   
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
-Art. 401. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno.Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in anatomia patologica gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
-
-Art. 2
-------
-
-Scuola di specializzazione in neurofisiologia clinica
-
+Decreta:  
   
-  
-Art. 402. - La scuola di specializzazione in neurofisiologia clinica ha sede presso la clinica neurologica della facolta' di medicina e chirurgia e conferisce il diploma di specializzazione in neurofisiologia clinica.  
-Art. 403. - La durata del corso e' di tre anni accademici.  
-Art. 404. - Il numero massimo degli allievi iscrivibili e' di quarantacinque complessivamente per l'intero corso di studi.  
-Art. 405. - Gli insegnamenti impartiti nella scuola sono:  
-1° Anno:  
-neuroanatomia funzionale;  
-neurofisiologia;  
-neurochimica;  
-neurofarmacologia;  
-elementi di fisica ed elettronica biomedica;  
-informatica e statistica biomedica.  
-2° Anno:  
-neurofisiopatologia I;  
-psicologia sperimentale;  
-neurologia;  
-anestesia rianimazione;  
-neuropsichiatria infantile;  
-elettroencefalografia I;  
-elettrodiagnostica ed elettroterapia.  
-3° Anno:  
-neurofisiopatologia II;  
-elettroencefalografia II;  
-elettromiografia;  
-tecniche speciali di diagnostica strumentale del sistema nervoso.  
-Art. 406. - Il direttore puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari e conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti ripartiti nella scuola stessa.  
-Per le discipline svolte in corsi pluriennali l'esame deve essere sostenuto anno per anno.  
-Art. 407. - Per conseguire il diploma di specializzazione, al termine del corso triennale, oltre ad aver superato tutti gli esami delle singole materie, e' obbligatorio sostenere l'esame finale su una dissertazione scritta, preferibilmente di carattere sperimentale.
-
-Art. 3
-------
-
-Scuola di specializzazione in tossicologia forense
-
-  
-  
-Art. 408. - E' istituita presso l'istituto di medicina legale e delle assicurazioni la scuola di specializzazione in tossicologia forense.   
-La scuola si propone lo scopo di mettere a disposizione di coloro che per diversi aspetti gia' si dedicano a questa disciplina, uno strumento tecnico adeguato alle sempre piu' numerose e diversificate richieste di intervento nell'ambito della tossicologia.   
-La scuola di specializzazione rilascia i seguenti diplomi:   
-a) specialista in tossicologia forense con indirizzo medico;   
-b) specialista in tossicologia forense con indirizzo chimico.   
-Art. 409. - La durata della scuola e' di quattro anni.Sono ammessi a frequentare detta scuola i laureati in medicina e chirurgia, in farmacia, in chimica e tecnologia farmaceutiche, in chimica, in scienze delle preparazioni alimentari, in scienze biologiche.   
-Il numero degli iscritti e' di venti, distribuiti per non oltre cinque iscritti per ogni anno. Nel caso di eccedenza di domande la selezione tra i richiedenti sara' attuata attraverso concorso basato sui titoli e su prove d'esame.   
-Al momento della iscrizione al quarto anno i candidati saranno ripartiti a seconda del rispettivo indirizzo, essendo l'indirizzo medico esclusivamente riservato ai laureati in medicina e chirurgia e l'indirizzo chimico riservato ai laureati in medicina e chirurgia, in farmacia, in chimica e tecnologia farmaceutiche, in chimica, in scienze delle preparazioni alimentari, in scienze biologiche.   
-Art. 410. - Le materie di insegnamento sono:   
-1° Anno:   
-tossicologia forense;   
-medicina legale generale;   
-fondamenti di farmacologia;   
-principi di tossicologia generale;   
-elementi di chimica biologica;   
-elementi di fisiopatologia da agenti tossici chimici;   
-prelevamento e conservazione di reparti giudiziari;   
-legislazione in campo tossicologico;   
-elementi di diritto e di procedura penale;   
-struttura, organizzazione e funzioni del laboratorio chimico-tossicologico.   
-2° Anno:   
-tossicologia forense speciale I;   
-farmacocinetica;   
-principi di chimica farmaceutica;   
-biochimica molecolare;   
-elementi di farmacognosia e di micologia;   
-tecniche analitiche di base, attrezzatura e strumentazione del laboratorio chimico-tossicologico;   
-analisi tossicologiche I;   
-diagnosi di ubriachezza negli aspetti teorici, pratici e legislativi;   
-elementi di statistica;   
-controllo di qualita'.   
-3° Anno:   
-tossicologia forense speciale II;   
-analisi tossicologiche II;   
-tossicologia dell'ambiente e del lavoro;   
-tossicologia degli alimenti;   
-chimica bromatologica;   
-tossicologia delle sostanze dell'abuso;   
-elementi di tossicologia veterinaria;   
-analisi merceologiche;   
-microbiologia applicata alla tossicologia;   
-controllo di preparazioni farmaceutiche;   
-protezione e sicurezza nel laboratorio;   
-principi di analisi in tracce.   
-4° Anno (indirizzo medico):   
-diagnosi medico-legale di avvelenamento;   
-effetti tossici a lungo termine;   
-anatomia patologica in tossicologia;   
-clinica tossicologica e terapia;   
-diagnostica chimico-tossicologica d'urgenza;   
-patologia della terapia e responsabilita' professionale;   
-elementi di radioprotezione;   
-deontologia, legislazione sanitaria e aggiornamenti in tenia di normativa.   
-4° Anno (indirizzo chimico):   
-analisi inorganica e organica in tracce;   
-cromatografia;   
-spettroscopia;   
-tecniche immunologiche ed enzimatiche;   
-saggi e dosaggi biologici;   
-tecniche istochimiche applicate alla tossicologia;   
-metodi radiochimici ed elementi di radioprotezione;   
-automatizzazione ed elementi di informatica.   
-Esercitazioni pratiche affiancheranno gli insegnamenti indicati.   
-Art. 411. - La frequenza alle lezioni e alle esercitazioni e' obbligatoria; e' altresi' obbligatoria la frequenza ai fini di apprendimento presso i laboratori di tossicologia dell'istituto di medicina legale per l'intera durata dell'anno accademico.   
-Alla fine di ogni anno gli specializzandi che abbiano ottenuto la firma di frequenza dovranno sostenere un esame di profitto nelle materie di insegnamento annuali.   
-L'esame di diploma consiste nella discussione di una dissertazione scritta e in una prova pratica su argomenti di tossicologia forense approvati dalla direzione della scuola.   
-Art. 412. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e affidata a professore associato che pure insegni nella scuola medesima.   
-Insegnamenti potranno essere impartiti da specialisti di altre Universita' e di istituzioni non universitarie.   
-Art. 413. - La scuola dispone delle attrezzature, delle biblioteche, del materiale e delle altre opportunita' didattiche messe a disposizione dall'istituto di medicina legale e delle assicurazioni. E' previsto altresi' l'utilizzo di sedi esterne, universitarie e non, per lezioni specialistiche ed esercitazioni.   
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 101 - il settimo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in neurologia e' stabilito in diciannove per ogni anno di corso (totale settantasei iscritti).  
+Art. 102 - il settimo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in psichiatria e' stabilito in quindici per ogni anno di corso (totale sessanta iscritti).  
+L'art. 130 e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in igiene e medicina preventiva e' stabilito in trentacinque per ogni anno di corso (totale centocinque iscritti).  
+Art. 137 - il primo comma e modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in malattie dell'apparato cardiovascolare e' stabilito in quindici per ogni anno di corso (totale quarantacinque iscritti).  
+Art. 142 - all'elenco degli insegnamenti del 3° anno di corso della scuola di specializzazione in oncologia e' aggiunto quello di "Radiologia" (diagnostica e terapia dei tumori).  
+L'art. 179 e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in medicina interna e' stabilito in trenta per ogni anno di corso (totale centocinquanta iscritti).  
+Art. 222 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in tossicologia medica e' stabilito in dodici per ogni anno di corso (totale trentasei iscritti).  
+Art. 224 - il primo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio e' stabilito in quindici per ogni anno di corso (totale quarantacinque iscritti).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 22 febbraio 1974
 
-PERTINI BODRATO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 10 marzo 1982
+Registrato alla Corte dei conti, addi' 1 giugno 1974
 
-Registro n. 38 Istruzione, foglio n. 251
+Atti di Governo, registro n. 4, foglio n. 4. - SCIARRETTA

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1075
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 1181
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1075
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 1181
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -14,7 +14,7 @@ Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio dec
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella legge 2 gennaio 1936, n) 73;
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
@@ -28,98 +28,140 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+La tabella II annessa al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e' modificata nel senso che la facolta' di medicina veterinaria rilascia anche la laurea in scienze della produzione animale di cui alla tabella XXXI-ter.
 
-Dopo l'art. 177 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti nuovi articoli relativi alla istituzione della scuola di perfezionamento in scienze linguistiche presso la facolta' di lettere e filosofia.
+Pertanto lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso.
 
-Scuola di perfezionamento in scienze linguistiche
+Art. 133, relativo alla facolta' di medicina veterinaria, e' abrogato e sostituito dal seguente: "La facolta' di medicina veterinaria conferisce la laurea in medicina veterinaria e la laurea in scienze della produzione animale".
 
-Art. 178. - Alla facolta' di lettere e filosofia e' annessa una scuola di perfezionamento in scienze linguistiche, che ha lo scopo di promuovere a livello post universitario studi di linguistica generale, storica e comparata.
+Dopo l'art. 138 e con il conseguente spostamento della successiva numerazione e' aggiunto un nuovo articolo relativo all'istituzione del corso di laurea in "Scienze della produzione animale".
 
-Art. 179. - La scuola ha la durata di due anni, ha sede nell'istituto di glottologia e ne e' direttore uno dei titolari della cattedra di glottologia nominato dal rettore su proposta del consiglio della scuola. Il direttore dura in carica quattro anni ed e' rieleggibile. Il consiglio della scuola e' composto dai docenti che vi insegnano ed e' presieduto dal direttore.
+Laurea in scienze della produzione animale
 
-Art. 180. - Alla scuola sono ammessi laureati in lettere e in filosofia o in lingue e letterature straniere moderne. Il numero massimo di allievi che annualmente possono essere accolti al primo corso, e' fissato dal consiglio della scuola, in rapporto alle possibilita' didattiche dell'istituto e dei docenti.
+Art. 139. - Durata del corso degli studi: quattro anni, divisi in due bienni.
 
-L'immatricolazione e' subordinata alla presentazione del curriculum degli studi, della tesi di laurea e di eventuali pubblicazioni e titoli in base ai quali il consiglio della scuola formula una graduatoria di merito. Per l'ammissione puo' essere richiesto un colloquio.
+Titolo di ammissione: diploma di maturita' classica o di maturita' scientifica.
 
-Non sono consentite abbreviazioni di corso.
+Diploma di abilitazione per i provenienti dagli istituti tecnici agrari e per geometri.
 
-Art. 181. - Gli insegnamenti della scuola sono i seguenti:
+Insegnamenti fondamentali:
 
-Linguistica generale;
+1° biennio:
 
-Linguistica indoeuropea;
+1) agronomia generale e coltivazioni erbacee;
 
-Linguistica indiana;
+2) anatomia degli animali domestici;
 
-linguistica iranica;
+3) botanica generale;
 
-Linguistica tocaria;
+4) chimica;
 
-Linguistica balto-slava;
+5) principi di economia politica e di statistica;
 
-Linguistica armena;
+6) estimo rurale e contabilita';
 
-Linguistica germanica;
+7) fisiologia degli animali domestici;
 
-Linguistica celtica;
+8) biochimica;
 
-Linguistica greca;
+9) patologia generale comparata;
 
-Linguistica egeo-anatolica;
+10) zoologia generale;
 
-Linguistica ittita;
+11) alimentazione animale;
 
-Linguistica italica;
+12) genetica animale e zootecnica generale.
 
-Linguistica latina;
+2° biennio:
 
-Linguistica latino tarda;
+1) avicoltura;
 
-Linguistica romanza;
+2) coltivazione e di conservazione dei foraggi;
 
-Dialettologia italiana;
+3) igiene veterinaria;
 
-Linguistica semitica;
+4) industrie alimentari dei prodotti di origine animale;
 
-Linguistica ugro-finnica;
+5) topografia e costruzioni rurali con applicazioni di disegno;
 
-Fonetica generale e sperimentale;
+6) microbiologia agraria e tecnica;
 
-Storia della glottologia;
+7) economia e politica agraria;
 
-Linguistica matematica e computazionale.
+8) zooeconomia;
 
-I corsi possono essere integrati da esercitazioni e da conferenze di eminenti studiosi italiani e stranieri.
+9) zootecnica speciale (biennale);
 
-Art. 182. - Gli allievi devono frequentare annualmente almeno due corsi a scelta tra quelli attivati nell'anno in corso. Qualora, in ciascun anno, l'iscritto non abbia frequentato assiduamente i corsi, puo' essere ammesso a ripetere l'anno stesso una sola volta, prima di essere dimesso definitivamente.
+10) zoognostica.
 
-Art. 183. - Il corso si conclude con la presentazione di un lavoro scientifico, che e' sottoposto all'esame di cinque professori di riconosciuta competenza nel campo delle scienze linguistiche, anche non appartenenti all'Universita' di Pisa, designati, per ciascun allievo dal consiglio direttivo.
+Insegnamenti complementari:
 
-A coloro che ottengono dai predetti cinque commissari la dichiarazione di dignita' di pubblicazione del lavoro compilato, viene rilasciato il diploma di perfezionamento in scienze linguistiche. Il lavoro stesso e' poi pubblicato, a cura della scuola.
+1) chimica agraria;
 
-Art. 184. - Spetta al direttore della scuola il compito di stabilire lo svolgimento degli insegnamenti e l'accertamento della frequenza.
+2) edilizia zootecnica (semestrale);
 
-Gli insegnamenti vengono affidati dalla facolta' su proposta del direttore, sentito il consiglio della scuola.
+3) entomologia agraria (semestrale);
 
-Art. 185. - L'iscrizione alla scuola e' gratuita.
+4) fisica;
 
-La tassa di diploma e' fissata nella misura di L. 6.000 a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).
+5) fisioclimatologia (semestrale);
+
+6) immunogenetica (semestrale);
+
+7) meccanica agraria con applicazioni di disegno;
+
+8) microbiologia dei prodotti zootecnici (semestrale);
+
+9) meccanizzazione degli impianti zootecnici
+
+10) organizzazione del lavoro (semestrale);
+
+11) fisiopatologia della riproduzione;
+
+12) parassitologia;
+
+13) patologia vegetale (semestrale);
+
+14) tecnica mangimistica;
+
+15) legislazione zootecnica e contrattazione degli animali domestici (semestrale);
+
+16) idrobiologia. Piscicoltura (semestrale);
+
+17) matematica;
+
+18) approvvigionamenti annonari, mercati ed industrie degli alimenti di origine animale;
+
+19) igiene zootecnica;
+
+20) patologia aviare (semestrale).
+
+Per ottenere l'iscrizione al 2° biennio di applicazione, lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali del 1° biennio.
+
+L'esame di anatomia degli animali domestici e di biochimica debbono precedere quello di fisiologia degli animali domestici.
+
+L'esame di fisiologia degli animali domestici deve precedere quelli di zoognostica, zootecnica speciale, zootecnica generale, zoocolture e alimentazione animale.
+
+L'esame di chimica deve precedere quello di biochimica.
+
+L'esame di genetica animale e zootecnica generale deve precedere quello di zootecnica speciale.
+
+Per essere ammesso all'esame di laurea in scienze della produzione animale lo studente deve aver seguito tutti i corsi e superato gli esami in tutti gli insegnamenti fondamentali del 2° biennio ed almeno in sei complementari a corso annuale. A tale effetto due corsi complementari semestrali sono computati come corso annuale.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1972
+Dato a Roma, addi' 5 giugno 1968
 
-LEONE
+SARAGAT
 
-SCALFARO
+GUI
 
 Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 9 marzo 1973 Atti di Governo, registro n. 256, foglio n. 57. - VALENTINI
+alla Corte dei conti addi' 21 novembre 1968 Atti del Governo, registro n. 223, foglio n. 130. - GRECO
 
 Art. 1
 ------
@@ -128,7 +170,7 @@ Art. 1
   
 Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella legge 2 gennaio 1936, n) 73;  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
@@ -137,61 +179,75 @@ Sulla proposta del Ministro per la pubblica istruzione;
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Dopo l'art. 177 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti nuovi articoli relativi alla istituzione della scuola di perfezionamento in scienze linguistiche presso la facolta' di lettere e filosofia.  
-  
-Scuola di perfezionamento in scienze linguistiche  
-  
-Art. 178. - Alla facolta' di lettere e filosofia e' annessa una scuola di perfezionamento in scienze linguistiche, che ha lo scopo di promuovere a livello post universitario studi di linguistica generale, storica e comparata.  
-Art. 179. - La scuola ha la durata di due anni, ha sede nell'istituto di glottologia e ne e' direttore uno dei titolari della cattedra di glottologia nominato dal rettore su proposta del consiglio della scuola. Il direttore dura in carica quattro anni ed e' rieleggibile. Il consiglio della scuola e' composto dai docenti che vi insegnano ed e' presieduto dal direttore.  
-Art. 180. - Alla scuola sono ammessi laureati in lettere e in filosofia o in lingue e letterature straniere moderne. Il numero massimo di allievi che annualmente possono essere accolti al primo corso, e' fissato dal consiglio della scuola, in rapporto alle possibilita' didattiche dell'istituto e dei docenti.  
-L'immatricolazione e' subordinata alla presentazione del curriculum degli studi, della tesi di laurea e di eventuali pubblicazioni e titoli in base ai quali il consiglio della scuola formula una graduatoria di merito. Per l'ammissione puo' essere richiesto un colloquio.  
-Non sono consentite abbreviazioni di corso.  
-Art. 181. - Gli insegnamenti della scuola sono i seguenti:  
-  
-Linguistica generale;  
-Linguistica indoeuropea;  
-Linguistica indiana;  
-linguistica iranica;  
-Linguistica tocaria;  
-Linguistica balto-slava;  
-Linguistica armena;  
-Linguistica germanica;  
-Linguistica celtica;  
-Linguistica greca;  
-Linguistica egeo-anatolica;  
-Linguistica ittita;  
-Linguistica italica;  
-Linguistica latina;  
-Linguistica latino tarda;  
-Linguistica romanza;  
-Dialettologia italiana;  
-Linguistica semitica;  
-Linguistica ugro-finnica;  
-Fonetica generale e sperimentale;  
-Storia della glottologia;  
-Linguistica matematica e computazionale.  
-  
-I corsi possono essere integrati da esercitazioni e da conferenze di eminenti studiosi italiani e stranieri.  
-Art. 182. - Gli allievi devono frequentare annualmente almeno due corsi a scelta tra quelli attivati nell'anno in corso. Qualora, in ciascun anno, l'iscritto non abbia frequentato assiduamente i corsi, puo' essere ammesso a ripetere l'anno stesso una sola volta, prima di essere dimesso definitivamente.  
-Art. 183. - Il corso si conclude con la presentazione di un lavoro scientifico, che e' sottoposto all'esame di cinque professori di riconosciuta competenza nel campo delle scienze linguistiche, anche non appartenenti all'Universita' di Pisa, designati, per ciascun allievo dal consiglio direttivo.  
-A coloro che ottengono dai predetti cinque commissari la dichiarazione di dignita' di pubblicazione del lavoro compilato, viene rilasciato il diploma di perfezionamento in scienze linguistiche. Il lavoro stesso e' poi pubblicato, a cura della scuola.  
-Art. 184. - Spetta al direttore della scuola il compito di stabilire lo svolgimento degli insegnamenti e l'accertamento della frequenza.  
-Gli insegnamenti vengono affidati dalla facolta' su proposta del direttore, sentito il consiglio della scuola.  
-Art. 185. - L'iscrizione alla scuola e' gratuita.  
-La tassa di diploma e' fissata nella misura di L. 6.000 a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
+La tabella II annessa al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e' modificata nel senso che la facolta' di medicina veterinaria rilascia anche la laurea in scienze della produzione animale di cui alla tabella XXXI-ter.  
+Pertanto lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso.  
+Art. 133, relativo alla facolta' di medicina veterinaria, e' abrogato e sostituito dal seguente: "La facolta' di medicina veterinaria conferisce la laurea in medicina veterinaria e la laurea in scienze della produzione animale".  
+Dopo l'art. 138 e con il conseguente spostamento della successiva numerazione e' aggiunto un nuovo articolo relativo all'istituzione del corso di laurea in "Scienze della produzione animale".  
+Laurea in scienze della produzione animale  
+Art. 139. - Durata del corso degli studi: quattro anni, divisi in due bienni.  
+Titolo di ammissione: diploma di maturita' classica o di maturita' scientifica.  
+Diploma di abilitazione per i provenienti dagli istituti tecnici agrari e per geometri.  
+Insegnamenti fondamentali:  
+1° biennio:  
+1) agronomia generale e coltivazioni erbacee;  
+2) anatomia degli animali domestici;  
+3) botanica generale;  
+4) chimica;  
+5) principi di economia politica e di statistica;  
+6) estimo rurale e contabilita';  
+7) fisiologia degli animali domestici;  
+8) biochimica;  
+9) patologia generale comparata;  
+10) zoologia generale;  
+11) alimentazione animale;  
+12) genetica animale e zootecnica generale.  
+2° biennio:  
+1) avicoltura;  
+2) coltivazione e di conservazione dei foraggi;  
+3) igiene veterinaria;  
+4) industrie alimentari dei prodotti di origine animale;  
+5) topografia e costruzioni rurali con applicazioni di disegno;  
+6) microbiologia agraria e tecnica;  
+7) economia e politica agraria;  
+8) zooeconomia;  
+9) zootecnica speciale (biennale);  
+10) zoognostica.  
+Insegnamenti complementari:  
+1) chimica agraria;  
+2) edilizia zootecnica (semestrale);  
+3) entomologia agraria (semestrale);  
+4) fisica;  
+5) fisioclimatologia (semestrale);  
+6) immunogenetica (semestrale);  
+7) meccanica agraria con applicazioni di disegno;  
+8) microbiologia dei prodotti zootecnici (semestrale);  
+9) meccanizzazione degli impianti zootecnici  
+10) organizzazione del lavoro (semestrale);  
+11) fisiopatologia della riproduzione;  
+12) parassitologia;  
+13) patologia vegetale (semestrale);  
+14) tecnica mangimistica;  
+15) legislazione zootecnica e contrattazione degli animali domestici (semestrale);  
+16) idrobiologia. Piscicoltura (semestrale);  
+17) matematica;  
+18) approvvigionamenti annonari, mercati ed industrie degli alimenti di origine animale;  
+19) igiene zootecnica;  
+20) patologia aviare (semestrale).  
+Per ottenere l'iscrizione al 2° biennio di applicazione, lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali del 1° biennio.  
+L'esame di anatomia degli animali domestici e di biochimica debbono precedere quello di fisiologia degli animali domestici.  
+L'esame di fisiologia degli animali domestici deve precedere quelli di zoognostica, zootecnica speciale, zootecnica generale, zoocolture e alimentazione animale.  
+L'esame di chimica deve precedere quello di biochimica.  
+L'esame di genetica animale e zootecnica generale deve precedere quello di zootecnica speciale.  
+Per essere ammesso all'esame di laurea in scienze della produzione animale lo studente deve aver seguito tutti i corsi e superato gli esami in tutti gli insegnamenti fondamentali del 2° biennio ed almeno in sei complementari a corso annuale. A tale effetto due corsi complementari semestrali sono computati come corso annuale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 5 giugno 1968
 
-LEONE SCALFARO
+SARAGAT GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti addi' 21 novembre 1968
 
-Registrato alla Corte dei conti, addi' 9 marzo 1973
-
-Atti di Governo, registro n. 256, foglio n. 57. - VALENTINI
+Atti del Governo, registro n. 223, foglio n. 130. - GRECO

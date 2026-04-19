@@ -1,77 +1,222 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 aprile 1971 n. 299
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1969 n. 771
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 aprile 1971 n. 299
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1969 n. 771
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 115. - Il primo comma e' abrogato e sostituito dal seguente: "La facolta' di farmacia conferisce la laurea in farmacia e la laurea in chimica e tecnologia farmaceutiche".
+
+Dopo l'art. 125 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente nuovo articolo relativo all'istituzione del corso di laurea in chimica e tecnologia farmaceutiche annesse alla facolta' di farmacia.
+
+LAUREA IN CHIMICA E TECNOLOGIA FARMACEUTICHE
+
+Art. 126. - Durata del corso degli studi: cinque anni, divisi in un biennio ed un triennio.
+
+Titolo di ammissione: diploma di maturita' classica o scientifica.
+
+Insegnamenti fondamentali
+
+Biennio:
+
+1) Analisi chimico farmaceutica I (analisi qualitativa);
+
+\* 2) Anatomia umana;
+
+\* 3) Botanica farmaceutica;
+
+\* 4) Chimica fisica;
+
+\* 5) Chimica generale ed inorganica;
+
+\*\* 6) Chimica organica I;
+
+\* 7) Fisica;
+
+8) Fisiologia generale;
+
+\* 9) Istituzioni di matematiche;
+
+10) Microbiologia ed igiene.
+
+Triennio:
+
+11) Analisi chimico farmaceutica II (analisi quantitativa);
+
+12) Analisi chimico farmaceutica III (analisi dei medicamenti);
+
+\* 13) Biochimica applicata;
+
+\* 14) Chimica biologica;
+
+\* 15) Chimica degli alimenti;
+
+\* 16) Chimica farmaceutica applicata;
+
+\* 17) Chimica farmaceutica e tossicologica I;
+
+\* 18) Chimica farmaceutica e tossicologica II;
+
+\*\* 19) Chimica organica II;
+
+\* 20) Farmacologia e farmacognosia;
+
+21) Impianti dell'industria farmaceutica;
+
+22) Laboratorio di preparazione estrattiva e sintetica dei farmaci;
+
+23) Metodi fisici in chimica organica;
+
+24) Saggi e dosaggi farmacologici;
+
+\* 25) Tecnica e legislazione farmaceutica.
+
+Insegnamenti complementari
+
+1) Chimica delle fermentazioni e microbiologia industriale;
+
+2) Chimica delle sostanze organiche naturali;
+
+3) Scienza dell'alimentazione e prodotti dietetici;
+
+4) Prodotti cosmetici;
+
+5) Istituzioni di patologia generale;
+
+6) Istituzioni di biologia generale;
+
+7) Statistica e biometria.
+
+Gli insegnamenti contrassegnati con un asterisco sono comuni al corso di laurea in farmacia; quelli contrassegnati con due asterischi sono comuni al corso di laurea in chimica. L'insegnamento di "Chimica degli alimenti" si identifica con quello di "Chimica bromatologica" del corso di laurea in farmacia.
+
+Per ottenere l'iscrizione al 3° anno lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per i due anni precedenti.
+
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato tutti gli esami dei corsi fondamentali e almeno due esami a scelta fra i corsi complementari.
+
+La prova di laurea comporta la discussione di una tesi sperimentale.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 8 ottobre 1969
+
+SARAGAT
+
+FERRARI AGGRADI
+
+Visto, il Guardasigilli: GAVA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 5 novembre 1969 Atti del Governo, registro n. 230, foglio n. 3. - CARUSO
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 115. - Il primo comma e' abrogato e sostituito dal seguente: "La facolta' di farmacia conferisce la laurea in farmacia e la laurea in chimica e tecnologia farmaceutiche".   
+Dopo l'art. 125 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente nuovo articolo relativo all'istituzione del corso di laurea in chimica e tecnologia farmaceutiche annesse alla facolta' di farmacia.   
   
-Art. 64. - All'elenco degli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di:  
-"Religioni e filosofie del medio ed estremo oriente".  
-Art. 65. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia e' aggiunto quello di:  
-"Religioni e filosofie del medio ed estremo oriente".  
-Art. 70. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne e' aggiunto quello di: "Religioni e filosofie del medio ed estremo oriente".  
-Art. 74. - L'ultimo comma e' abrogato e sostituito dal seguente:  
-"Per i corsi di laurea in lettere e filosofia, la dissertazione puo' riguardare qualunque materia contemplata nell'ordine degli studi della facolta'. Mentre per gli aspiranti alla laurea in lettere deve trattarsi di materia non filosofica; per gli aspiranti alla laurea in filosofia: puo' trattarsi oltre che di materia filosofica anche di argomento storico. In questo caso la tesi stessa dovra' essere guidata contemporaneamente da un relatore e un correlatore, l'uno docente in materia storica e l'altro filosofica.  
-Per il corso di laurea in lingue e letterature straniere moderne la dissertazione deve riguardare la lingua e letteratura straniera prescelta dallo studente come quadriennale".  
-Gli articoli 226 e 227 relativi alla scuola di perfezionamento in "Filologia classica" sono abrogati e sostituiti dai seguenti:  
-Art. 226. - Alla scuola di perfezionamento in filologia classica possono essere iscritti i laureati in lettere, in filosofia e i laureati in materie letterarie presso la facolta' di magistero.  
-La scuola di perfezionamento in filologia classica comprende insegnamenti caratterizzanti ed insegnamenti complementari.  
-Sono insegnamenti caratterizzanti:  
-Letteratura latina (con esercitazioni);  
-Letteratura greca (con esercitazioni);  
-Fitologia greco-latina;  
-Grammatica greca e latina;  
-Storia comparata delle lingue classiche.  
-Sono insegnamenti complementari:  
-Glottologia:  
-Storia greca;  
-Storia romana (con esercitazioni di epigrafia romana);  
-Archeologia e storia dell'arte greca e romana;  
-Etruscologia ed archeologia italica;  
-Topografia dell'Italia antica;  
-Paleontologia;  
-Storia della filosofia;  
-Storia della lingua latina;  
-Storia della lingua greca.  
-Art. 227. - Per conseguire il diploma gli iscritti alla scuola di perfezionamento in filologia classica dovranno:  
-a) seguire per un biennio i corsi dell'insegnamento caratterizzante in cui intendono perfezionarsi e superare i due relativi esami annuali;  
-b) seguire per un biennio, superando annualmente i relativi esami, due altri insegnamenti scelti tra i caratterizzanti e i complementari della scuola, con l'approvazione del consiglio dei professori della scuola; oppure seguire per un biennio un altro insegnamento e per una annualita' due altri insegnamenti del pari scelti fra i caratterizzanti e i complementari, con l'approvazione del consiglio dei professori della scuola, e superare annualmente i relativi esami; oppure seguire per una annualita' quattro altri insegnamenti, scelti con le stesse modalita', e superare i relativi esami;  
-c) fare una prova scritta di composizione in lingua latina su argomento letterario (sara' consentito l'uso del vocabolario);  
-d) presentare e discutere una dissertazione scritta avente carattere di originalita' su tema assegnato dal professore dell'insegnamento caratterizzante in cui intendono perfezionarsi.  
-Le attivita' didattica e di ricerca scientifica della scuola si svolgono presso l'istituto di filologia classica dell'Universita' di Bologna.  
-La partecipazione degli iscritti e' obbligatoria.  
+LAUREA IN CHIMICA E TECNOLOGIA FARMACEUTICHE   
+  
+Art. 126. - Durata del corso degli studi: cinque anni, divisi in un biennio ed un triennio.   
+Titolo di ammissione: diploma di maturita' classica o scientifica.   
+  
+Insegnamenti fondamentali   
+  
+Biennio:   
+1) Analisi chimico farmaceutica I (analisi qualitativa);   
+\* 2) Anatomia umana;   
+\* 3) Botanica farmaceutica;   
+\* 4) Chimica fisica;   
+\* 5) Chimica generale ed inorganica;   
+\*\* 6) Chimica organica I;   
+\* 7) Fisica;   
+8) Fisiologia generale;   
+\* 9) Istituzioni di matematiche;   
+10) Microbiologia ed igiene.   
+Triennio:   
+11) Analisi chimico farmaceutica II (analisi quantitativa);   
+12) Analisi chimico farmaceutica III (analisi dei medicamenti);   
+\* 13) Biochimica applicata;   
+\* 14) Chimica biologica;   
+\* 15) Chimica degli alimenti;   
+\* 16) Chimica farmaceutica applicata;   
+\* 17) Chimica farmaceutica e tossicologica I;   
+\* 18) Chimica farmaceutica e tossicologica II;   
+\*\* 19) Chimica organica II;   
+\* 20) Farmacologia e farmacognosia;   
+21) Impianti dell'industria farmaceutica;   
+22) Laboratorio di preparazione estrattiva e sintetica dei farmaci;   
+23) Metodi fisici in chimica organica;   
+24) Saggi e dosaggi farmacologici;   
+\* 25) Tecnica e legislazione farmaceutica.   
+  
+Insegnamenti complementari   
+  
+1) Chimica delle fermentazioni e microbiologia industriale;   
+2) Chimica delle sostanze organiche naturali;   
+3) Scienza dell'alimentazione e prodotti dietetici;   
+4) Prodotti cosmetici;   
+5) Istituzioni di patologia generale;   
+6) Istituzioni di biologia generale;   
+7) Statistica e biometria.   
+Gli insegnamenti contrassegnati con un asterisco sono comuni al corso di laurea in farmacia; quelli contrassegnati con due asterischi sono comuni al corso di laurea in chimica. L'insegnamento di "Chimica degli alimenti" si identifica con quello di "Chimica bromatologica" del corso di laurea in farmacia.   
+Per ottenere l'iscrizione al 3° anno lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per i due anni precedenti.   
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato tutti gli esami dei corsi fondamentali e almeno due esami a scelta fra i corsi complementari.   
+La prova di laurea comporta la discussione di una tesi sperimentale.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 aprile 1971
+### Dato a Roma, addi' 8 ottobre 1969
 
-SARAGAT MISASI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 26 maggio 1971
+Registrato alla Corte dei conti, addi' 5 novembre 1969
 
-Atti del Governo, registro n. 242, foglio n. 42. - VALENTINI
+Atti del Governo, registro n. 230, foglio n. 3. - CARUSO

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1970 n. 1409
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1966 n. 137
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1970 n. 1409
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1966 n. 137
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,7 +20,7 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,93 +30,106 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:
 
-Art. 15, relativo al corso di laurea in scienze politiche e' modificato nel senso che il terzo comma e' abrogato e sostituito dal seguente:
+Art. 18, relativo alle propedeuticita' di esami nel corso di laurea in Scienze politiche e' modificato nel senso che viene aggiunto il seguente comma:
 
-Il corso di studi comprende un biennio propedeutico e un biennio di specializzazione, ordinato in cinque indirizzi: a) politico-amministrativo; b) storico-internazionale; c) economico-sociale; d) storico-sociale; e) storico-economico.
+"Gli esami di Istituzioni di diritto pubblico e di Storia moderna (biennale) devono precedere quello di Storia ed istituzioni dei paesi afro-asiatici".
 
-Art. 17. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche (biennio di specializzazione) sono aggiunti i seguenti:
+Art. 32. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di:
 
-Diritto regionale;
+13) Semeiotica chirurgica.
 
-Economia dei Paesi in via di sviluppo;
+Art. 68. - Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo organico-biologico) sono aggiunti quelli di:
 
-Matematica per le scienze sociali;
+23) Chimica industriale;
 
-Storia dei movimenti sindacali;
+24) Chimica quantistica;
 
-Storia dell'Asia orientale;
+25) Cinetica chimica;
 
-Economia dei trasporti;
+26) Chimica delle sostanze naturali.
 
-Storia dei trattati e politica internazionale;
+Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo inorganico-chimico-fisico) sono aggiunti quelli di:
 
-Contabilita' dello Stato e degli enti pubblici;
+24) Spettroscopia molecolare;
 
-Storia dell'America;
+25) Cinetica chimica;
 
-Scienza dell'opinione pubblica.
+26) Chimica dello stato solido;
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+27) Cristallografia.
 
-Dato a Roma, addi' 31 ottobre 1970
+L'insegnamento complementare di Spettroscopia e' soppresso.
+
+Art. 92, relativo alle norme generali riguardante le Scuole di perfezionamento annesse alla Facolta' di medicina e chirurgia e' abrogato e sostituito dal seguente:
+
+"Alla Facolta' di medicina e chirurgia sono ammesse le scuole di specializzazione in: "Endocrinologia e malattie del ricambio", "Pediatria", "Ostetricia e ginecologia", "Oculistica", "Chirurgia", "Medicina interna", "Igiene", "Gastroenterologia", "Anestesiologia", "Otorinolaringoiatria" e "Cardiologia".
+
+Esse hanno lo scopo di promuovere il maggior incremento degli studi medico-chirurgici, impartendo una particolare istruzione a quei laureati che intendono migliorare la loro cultura e preparazione specializzandosi in qualche branca. Le scuole di specializzazione conducono al conferimento del diploma di "specialista", a norma dell'[art. 178 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art178)".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti, di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 18 febbraio 1966
 
 SARAGAT
 
-MISASI
+GUI
 
 Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 15 marzo 1971 Atti del Governo, registro n. 241, foglio n. 36. - CARUSO
+alla Corte dei conti, addi' 24 marzo 1966 Atti del Governo, registro n. 202, foglio n. 63. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 15, relativo al corso di laurea in scienze politiche e' modificato nel senso che il terzo comma e' abrogato e sostituito dal seguente:  
-  
-Il corso di studi comprende un biennio propedeutico e un biennio di specializzazione, ordinato in cinque indirizzi: a) politico-amministrativo; b) storico-internazionale; c) economico-sociale; d) storico-sociale; e) storico-economico.  
-Art. 17. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche (biennio di specializzazione) sono aggiunti i seguenti:  
-  
-Diritto regionale;  
-Economia dei Paesi in via di sviluppo;  
-Matematica per le scienze sociali;  
-Storia dei movimenti sindacali;  
-Storia dell'Asia orientale;  
-Economia dei trasporti;  
-Storia dei trattati e politica internazionale;  
-Contabilita' dello Stato e degli enti pubblici;  
-Storia dell'America;  
-Scienza dell'opinione pubblica.  
+Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:  
+Art. 18, relativo alle propedeuticita' di esami nel corso di laurea in Scienze politiche e' modificato nel senso che viene aggiunto il seguente comma:  
+"Gli esami di Istituzioni di diritto pubblico e di Storia moderna (biennale) devono precedere quello di Storia ed istituzioni dei paesi afro-asiatici".  
+Art. 32. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di:  
+13) Semeiotica chirurgica.  
+Art. 68. - Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo organico-biologico) sono aggiunti quelli di:  
+23) Chimica industriale;  
+24) Chimica quantistica;  
+25) Cinetica chimica;  
+26) Chimica delle sostanze naturali.  
+Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo inorganico-chimico-fisico) sono aggiunti quelli di:  
+24) Spettroscopia molecolare;  
+25) Cinetica chimica;  
+26) Chimica dello stato solido;  
+27) Cristallografia.  
+L'insegnamento complementare di Spettroscopia e' soppresso.  
+Art. 92, relativo alle norme generali riguardante le Scuole di perfezionamento annesse alla Facolta' di medicina e chirurgia e' abrogato e sostituito dal seguente:  
+"Alla Facolta' di medicina e chirurgia sono ammesse le scuole di specializzazione in: "Endocrinologia e malattie del ricambio", "Pediatria", "Ostetricia e ginecologia", "Oculistica", "Chirurgia", "Medicina interna", "Igiene", "Gastroenterologia", "Anestesiologia", "Otorinolaringoiatria" e "Cardiologia".  
+Esse hanno lo scopo di promuovere il maggior incremento degli studi medico-chirurgici, impartendo una particolare istruzione a quei laureati che intendono migliorare la loro cultura e preparazione specializzandosi in qualche branca. Le scuole di specializzazione conducono al conferimento del diploma di "specialista", a norma dell'[art. 178 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art178)".  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti, di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1970
+### Dato a Roma, addi' 18 febbraio 1966
 
-SARAGAT MISASI
+SARAGAT GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 15 marzo 1971
+Registrato alla Corte dei conti, addi' 24 marzo 1966
 
-Atti del Governo, registro n. 241, foglio n. 36. - CARUSO
+Atti del Governo, registro n. 202, foglio n. 63. - VILLA

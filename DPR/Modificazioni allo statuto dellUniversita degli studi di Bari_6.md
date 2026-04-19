@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1985 n. 589
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 agosto 1953 n. 857
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1985 n. 589
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 agosto 1953 n. 857
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
@@ -10,108 +10,192 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con i [regi decreti 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2169); [31 ottobre 1929, n. 2481](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1929-10-31;2481); [30 ottobre 1930, n. 1858](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1858); [27 ottobre 1932, n. 2082](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-10-27;2082); [13 dicembre 1934, n. 2404](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-13;2404); [1 ottobre 1936, n. 2020](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2020); [13 luglio 1939, n. 1168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-07-13;1168); [26 ottobre 1940, n. 2029](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2029) e [24 ottobre 1942, n. 1785; con regio decreto-legge](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto.legge:1942-10-24;1785) [27 gennaio 1944, n. 58, con decreto legislativo luogotenenziale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo.luogotenenziale:1944-01-27;58) [5 aprile 1945, n. 238, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1945-04-05;238) [21 aprile 1949, n. 451](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;451); [31 ottobre 1950, n. 1293](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1293); [11 maggio 1951, n. 633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-05-11;633) e [23 gennaio 1952, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;66);
 
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 88 (gia' 85). - La dicitura usata di "scuole di perfezionamento" nell'art. 88 (gia' 85) ed in quelli successivi e' modificata con quella di "scuole di specializzazione".
 
+L'art. 113 (gia' 110), relativo alla scuola di perfezionamento in otorinolaringoiatrica, e' cosi' modificato:
+
+Scuola di specializzazione
+
+in clinica otorinolaringoiatrica.
+
+Art. 113. - La scuola di specializzazione in clinica otorinolaringoiatrica e' annessa alla clinica otorinolaringoiatrica.
+
+Gli anni di studio per il conseguimento del diploma di specialista sono tre.
+
+Gli insegnamenti impartiti nella scuola sono i seguenti:
+
+1° anno: Anatomia clinica e fisiopatologia dell'orecchio e delle prime vie aeree e digerenti.
+
+2° anno: Tecnica diagnostica speciale.
+
+3° anno: Patologia e clinica otorinolaringologica.
+
+Gli iscritti alla scuola di specializzazione hanno l'obbligo dell'internato nella clinica otorinolaringoiatrica per tutta la durata del corso.
+
+Dopo l'art. 113, sono aggiunti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in medicina interna e in urologia.
+
+Scuola di specializzazione in medicina interna.
+
+Art. 114. - La scuola di specializzazione in medicina interna e' annessa all'Istituto di clinica medica.
+
+Gli anni di studio per il conseguimento del diploma di specialista sono cinque.
+
+Gli insegnamenti impartiti nella scuola sono:
+
+1° anno: Propedeutica clinica.
+
+2° anno: Semeiotica clinica.
+
+3° anno: Indagini di laboratorio.
+
+4° anno: Radiologia clinica.
+
+5° anno: Clinica medica.
+
+Durante lo svolgimento dell'intero corso gli aspiranti al diploma hanno l'obbligo di internato nella clinica medica.
+
+Scuola di specializzazione in urologia.
+
+Art. 115. - La scuola di specializzazione in urologia e' annessa all'Istituto di clinica chirurgica.
+
+Gli anni di studio per il conseguimento del diploma di specialista sono tre.
+
+1° anno:
+
+Anatomia;
+
+Fisiologia;
+
+Patologia chirurgica urologica.
+
+2° anno:
+
+Anatomia patologica;
+
+Clinica chirurgica urologica;
+
+Tecnica di laboratorio e cistoscopia;
+
+Patologia chirurgica urologica.
+
+3° anno:
+
+Clinica chirurgica urologica;
+
+Tecnica di laboratorio e cistoscopia;
+
+Radiologia urologica.
+
+Gli iscritti alla scuola di specializzazione hanno l'obbligo di internato nella clinica chirurgica per tutta la durata dell'insegnamento.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 25 agosto 1953
+
+EINAUDI
+
+SEGNI
+
+Visto, il Guardasigilli: AZARA
+
+Registrato
+----------
+
+atta Corte dei conti, addi' 17 novembre 1953 Atti del Governo, registro n. 80, foglio n. 18. - PALLA
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Dopo l'art. 327, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia pediatrica afferente alla facolta' di medicina e chirurgia.  
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con i [regi decreti 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2169); [31 ottobre 1929, n. 2481](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1929-10-31;2481); [30 ottobre 1930, n. 1858](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1858); [27 ottobre 1932, n. 2082](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-10-27;2082); [13 dicembre 1934, n. 2404](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-13;2404); [1 ottobre 1936, n. 2020](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2020); [13 luglio 1939, n. 1168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-07-13;1168); [26 ottobre 1940, n. 2029](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2029) e [24 ottobre 1942, n. 1785; con regio decreto-legge](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto.legge:1942-10-24;1785) [27 gennaio 1944, n. 58, con decreto legislativo luogotenenziale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo.luogotenenziale:1944-01-27;58) [5 aprile 1945, n. 238, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1945-04-05;238) [21 aprile 1949, n. 451](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;451); [31 ottobre 1950, n. 1293](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1293); [11 maggio 1951, n. 633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-05-11;633) e [23 gennaio 1952, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;66);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Scuola di specializzazione in chirurgia pediatrica  
+Decreta:  
   
-Art. 328. - E' istituita presso l'Universita' di Bari la scuola di specializzazione in chirurgia pediatrica, che conferisce il diploma di specializzazione in chirurgia pediatrica.  
-Art. 329. - La direzione della scuola ha sede presso la divisione di chirurgia pediatrica, annessa alla clinica chirurgica generale dell'Universita' di Bari.  
-Art. 330. - La scuola ha lo scopo di creare specialisti in chirurgia pediatrica.  
-Art. 331. - La durata del corso e' di cinque anni e non e' suscettibile di abbreviazioni.  
-Art. 332. - Il numero degli iscritti e' di tre per ogni anno di corso e complessivamente quindici per l'intero corso di studi.  
-Art. 333. - Alla scuola sono ammessi solo i laureati in medicina e chirurgia. E' richiesto il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.  
-Art. 334. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
-a) la tesi nella disciplina attinente alla specializzazione;  
-b) il voto di laurea;  
-c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
-d) le pubblicazioni nelle predette materie.  
-Il punteggio dei predetti titoli verra' valutato secondo le norme di legge vigenti.  
-Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
-Art. 335. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-embriologia e genetica delle malformazioni congenite;  
-anatomia patologica generale (biennale);  
-diagnostica radiologica e nucleare generale (biennale);  
-anestesiologia;  
-clinica pediatrica (biennale);  
-patologia e clinica chirurgica generale (biennale).  
-2° Anno:  
-patologia e clinica chirurgica generale (biennale);  
-rianimazione e terapia intensiva (biennale);  
-anatomia patologica generale (biennale);  
-diagnostica radiologica e nucleare delle malattie infantili;  
-clinica pediatrica (biennale).  
-3° Anno:  
-patologia e clinica chirurgica pediatrica (triennale);  
-endocrinologia pediatrica;  
-tecnica chirurgica generale;  
-rianimazione e terapia intensiva (biennale);  
-chirurgia neonatale.  
-4° Anno:  
-patologia e clinica chirurgica pediatrica (triennale);  
-neurochirurgia pediatrica;  
-tecnica chirurgica pediatrica;  
-ortopedia pediatrica;  
-chirurgia plastica e ricostruttiva pediatrica.  
-5° Anno:  
-patologia e clinica chirurgica pediatrica (triennale);  
-otorinolaringoiatria pediatrica;  
-cardiochirurgia pediatrica;  
-urologia pediatrica.  
-Gli insegnamenti sopra elencati afferiscono tutti alla facolta' di medicina e chirurgia dell'Universita' di Bari.  
-Art. 336. - La frequenza ai corsi e' obbligatoria. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
-Art. 337. - Gli allievi sono tenuti a presenziare, secondo le modalita' stabilite dal direttore della scuola, alle sedute operatorie ed alle attivita' chirurgiche connesse (ambulatorio, accertamenti diagnostici specialistici tradizionali, endoscopici e dinamici, meetings sull'inquadramento diagnostico dei casi, ecc.) entro i limiti consentiti dalla legge.  
-Per essere ammessi a sostenere l'esame annuale di profitto gli allievi sono tenuti ad assistere a tutte le lezioni teoriche, frequentando a tempo pieno le strutture cliniche della scuola.  
-Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitarie, attinenti alla specializzazione, anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.  
-Art. 338. - Superato l'esame teorico-pratico dell'ultimo anno, il corso della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso. A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.  
-Art. 339. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
-Art. 340. - La direzione della scuola viene affidata al professore ordinario della materia, o ad altro professore ordinario e straordinario fuori ruolo che insegni anche nella stessa scuola. Solo in caso di motivato impedimento la direzione sara' affidata a professore associato che insegni nella scuola medesima.  
-Art. 341. - Viene costituito il consiglio della scuola presieduto dal direttore. Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;38~art99).  
-Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.  
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 88 (gia' 85). - La dicitura usata di "scuole di perfezionamento" nell'art. 88 (gia' 85) ed in quelli successivi e' modificata con quella di "scuole di specializzazione".  
+L'art. 113 (gia' 110), relativo alla scuola di perfezionamento in otorinolaringoiatrica, e' cosi' modificato:  
+  
+Scuola di specializzazione  
+in clinica otorinolaringoiatrica.  
+  
+Art. 113. - La scuola di specializzazione in clinica otorinolaringoiatrica e' annessa alla clinica otorinolaringoiatrica.  
+Gli anni di studio per il conseguimento del diploma di specialista sono tre.  
+Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1° anno: Anatomia clinica e fisiopatologia dell'orecchio e delle prime vie aeree e digerenti.  
+2° anno: Tecnica diagnostica speciale.  
+3° anno: Patologia e clinica otorinolaringologica.  
+Gli iscritti alla scuola di specializzazione hanno l'obbligo dell'internato nella clinica otorinolaringoiatrica per tutta la durata del corso.  
+Dopo l'art. 113, sono aggiunti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in medicina interna e in urologia.  
+  
+Scuola di specializzazione in medicina interna.  
+  
+Art. 114. - La scuola di specializzazione in medicina interna e' annessa all'Istituto di clinica medica.  
+Gli anni di studio per il conseguimento del diploma di specialista sono cinque.  
+Gli insegnamenti impartiti nella scuola sono:  
+1° anno: Propedeutica clinica.  
+2° anno: Semeiotica clinica.  
+3° anno: Indagini di laboratorio.  
+4° anno: Radiologia clinica.  
+5° anno: Clinica medica.  
+Durante lo svolgimento dell'intero corso gli aspiranti al diploma hanno l'obbligo di internato nella clinica medica.  
+  
+Scuola di specializzazione in urologia.  
+  
+Art. 115. - La scuola di specializzazione in urologia e' annessa all'Istituto di clinica chirurgica.  
+Gli anni di studio per il conseguimento del diploma di specialista sono tre.  
+1° anno:  
+Anatomia;  
+Fisiologia;  
+Patologia chirurgica urologica.  
+2° anno:  
+Anatomia patologica;  
+Clinica chirurgica urologica;  
+Tecnica di laboratorio e cistoscopia;  
+Patologia chirurgica urologica.  
+3° anno:  
+Clinica chirurgica urologica;  
+Tecnica di laboratorio e cistoscopia;  
+Radiologia urologica.  
+Gli iscritti alla scuola di specializzazione hanno l'obbligo di internato nella clinica chirurgica per tutta la durata dell'insegnamento.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 maggio 1985
+### Dato a Roma, addi' 25 agosto 1953
 
-PERTINI
+EINAUDI SEGNI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: AZARA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato atta Corte dei conti, addi' 17 novembre 1953
 
-Registrato alla Corte dei conti, addi' 21 ottobre 1985
-
-Registro n. 70 Istruzione, foglio n. 380
+Atti del Governo, registro n. 80, foglio n. 18. - PALLA

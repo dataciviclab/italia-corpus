@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 aprile 1970 n. 457
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1965 n. 213
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 aprile 1970 n. 457
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1965 n. 213
+===============================================================
 
 Autorizzazione all'Universita' degli studi di Perugia ad acquistare un immobile.
 --------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-457. Decreto del Presidente della Repubblica 24 aprile 1970, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Perugia viene autorizzata ad acquistare l'immobile, sito in Perugia, via del Verzaro 61-67, di proprieta' del sig. Alceste Silvi Antonini, al prezzo di L. 29.000.000.  
+213. Decreto del Presidente della Repubblica 20 febbraio 1965, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Perugia viene autorizzata ad acquistare dal sig. Giulio Purgotti un complesso immobiliare sito in Perugia, via Fabretti n. 48, descritto nel nuovo catasto edilizio urbano del comune di Perugia alla partita 6027, foglio 234, part. 195/sub 1 - 2 - 3 - 4, al prezzo complessivo di L. 82.000.000 (lire ottantaduemilioni).  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 30 giugno 1970  
-Atti del Governo, registro n. 236, foglio n. 86. - CARUSO
+Registrato alla Corte dei conti, addi' 30 marzo 1965  
+Atti del Governo, registro n. 192, foglio n. 1. - VILLA

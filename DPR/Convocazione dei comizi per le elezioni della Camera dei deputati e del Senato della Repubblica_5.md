@@ -1,39 +1,41 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 gennaio 1994 n. 28
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 febbraio 2006 n. 33
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 gennaio 1994 n. 28
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 febbraio 2006 n. 33
+==============================================================
 
 Convocazione dei comizi per le elezioni della Camera dei deputati e del Senato della Repubblica.
 ------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 1/2/1994
+Entrata in vigore del provvedimento: 11/2/2006
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
-Visto il proprio decreto in pari data recante scioglimento della Camera dei deputati e del Senato della Repubblica;  
-Visti gli [articoli 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art61) e [87, terzo comma, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com3);  
-Visto il testo unico delle leggi per l'elezione della Camera dei deputati, approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-03-30;361), e successive modificazioni e integrazioni;  
-Visto il testo unico delle leggi recanti norme per l'elezione del Senato della Repubblica, emanato con [decreto legislativo 20 dicembre 1993, n. 533](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-20;533);  
-Vista la [legge 23 aprile 1976, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-23;136), recante norme per la riduzione dei termini e la semplificazione del procedimento elettorale;  
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 16 gennaio 1994;  
+  
+Visto il proprio decreto in data odierna, che dispone lo  
+scioglimento della Camera dei deputati e del Senato della Repubblica; Visti gli [articoli 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art61) e [87, terzo comma, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com3);  
+Visto il testo unico delle leggi recanti norme per l'elezione della Camera dei deputati, di cui al [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-03-30;361), e successive modificazioni;  
+Visto il testo unico delle leggi recanti norme per l'elezione del Senato della Repubblica, di cui al [decreto legislativo 20 dicembre 1993, n. 533](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-20;533), e successive modificazioni;  
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione dell'11 febbraio 2006;  
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'interno;  
-E M A N A  
+  
+Emana  
 il seguente decreto:  
-I comizi per le elezioni della Camera dei deputati e del Senato della Repubblica sono convocati per domenica 27 marzo 1994.  
-La prima riunione delle Camere avra' luogo il giorno di venerdi' 15 aprile 1994.  
+  
+I comizi per le elezioni della Camera dei deputati e del Senato della Repubblica sono convocati per i giorni di domenica 9 aprile e di lunedi' 10 aprile 2006.  
+La prima riunione delle Camere avra' luogo il giorno di venerdi' 28 aprile 2006.  
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 gennaio 1994
+### Dato a Roma, addi' 11 febbraio 2006
 
-SCALFARO
+CIAMPI
 
-CIAMPI, Presidente del Consiglio dei Ministri
+Berlusconi, Presidente del Consiglio dei Ministri
 
-MANCINO, Ministro dell'interno
+Pisanu, Ministro dell'interno
 
-Visto, il Guardasigilli: CONSO
+Visto, il Guardasigilli: Castelli

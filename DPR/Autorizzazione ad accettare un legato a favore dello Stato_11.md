@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 1981 n. 187
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1982 n. 1118
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 1981 n. 187
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1982 n. 1118
 ===============================================================
 
 Autorizzazione ad accettare un legato a favore dello Stato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-187. Decreto del Presidente della Repubblica 13 febbraio 1981, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato del legato, consistente in un dipinto ad olio su tela raffigurante la "Carita'" attribuibile a scuola emiliana del XVI secolo, il quale riveste un importante interesse artistico e storico, disposto dalla sig.ra Lina Marzari con testamento olografo 12 maggio 1968, pubblicato in data 23 gennaio 1978, n. 376 di repertorio, a rogito dott. Luigi Rossi, notaio in Bologna, da destinare alla Pinacoteca nazionale di Bologna.  
+1118. Decreto del Presidente della Repubblica 13 ottobre 1982, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato del legato disposto dal gen.le Renato Trucchetti con testamento olografo 5 giugno 1973, pubblicato in data 9 febbraio 1979, n. 10637/4341 di repertorio, a rogito dott. Gian Maria Piacentino, notaio in Torino, consistente in una raccolta di mobili e arredi, i quali rivestono un importante interesse artistico e storico, da destinare al Castello reale di Moncalieri (Torino).  
   
-Visto, il Guardasigilli: SARTI  
-Registrato alla Corte dei conti, addi' 28 aprile 1981  
-Registro n. 8 Beni culturali, foglio n. 397
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 14 febbraio 1983  
+Registro n. 4 Beni culturali, foglio n. 218

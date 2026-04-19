@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1983 n. 352
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 548
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1983 n. 352
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 548
+=============================================================
 
 Autorizzazione alla Societa' italiana degli autori ed editori, in Roma, ad acquistare un immobile.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-352. Decreto del Presidente della Repubblica 31 marzo 1983, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana degli autori ed editori (SIAE), in Roma, viene autorizzata ad acquistare, al convenuto prezzo di. L. 140.000.000, un immobile sito in Palermo, via Francesco Guardione n. 3, distinto nel nuovo catasto edilizio urbano alla partita 101752, foglio 123, particella 498 sub 2, immobile valutato da perizia estimativa di parte in lire 151.000.000 e dall'ufficio tecnico erariale di Palermo L. 132.000.000, come da atto di compravendita 30 luglio 1900, n. 2161 di repertorio, a rogito dott. Alberto Cali, notaio in Palermo, registrato a Palermo in data 11 agosto 1980 al n. 17109.  
+548. Decreto del Presidente della Repubblica 17 maggio 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana degli autori ed editori (SIAE), in Roma, viene autorizzata ad acquistare, al convenuto prezzo di L. 77.805.000, un immobile sito in Messina, via Longo isol. 381, comp. II del P.R., piano primo, interno n. 5, composto di un vano ed accessori, denunziato al nuovo catasto edilizio urbano in data 4 settembre 1979 con scheda n. 15123, valutato da perizia estimativa di parte L. 79.000.000, come da atto in data 21 dicembre 1979, n. 31030 di repertorio, a rogito dott. Antonino Campagna, notaio in Messina, registrato a Messina il 9 gennaio 1980 al n. 227.   
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 13 luglio 1983  
-Registro n. 6 Presidenza, foglio n. 239
+Visto, il Guardasigilli: ROGNONI   
+Registrato alla Corte dei conti, addi' 11 settembre 1986   
+Registro n. 9 Presidenza, foglio n. 29

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1233
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 settembre 1955 n. 940
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1233
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 settembre 1955 n. 940
+================================================================
 
 Modificazioni allo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano.
 ----------------------------------------------------------------------------------
@@ -12,53 +12,58 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;  
+Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 17 ottobre 1944, n. 1282](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1944-10-17;1282), con [decreto del Capo provvisorio dello Stato 27 luglio 1947, n. 1242](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-07-27;1242) e con [decreti del Presidente della Repubblica 20 ottobre 1949, n. 1026](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;1026); [30 ottobre 1950, n. 1306](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1306); [31 agosto 1954, n. 1774](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-08-31;1774); [11 marzo 1953, n. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;417); [26 gennaio 1954, n. 7](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-01-26;7); [14 settembre 1954, n. 1055](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1055) e [4 febbraio 1955, n. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;119);  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduto il regio decreto 50 settembre 1938, n. 1652, e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-dopo l'art. 97 e con il conseguente spostamento della successiva numerazione e' inserito il seguente articolo relativo alla istituzione della scuola di specializzazione in malattie dell'apparato digerente.  
-Scuola di specializzazione in malattie dell'apparato digerente  
-Art. 98. - La scuola di specializzazione in malattie dell'apparato digerente ha la durata di tre anni di corso, ai quali fara' seguito un quarto anno di tirocinio pratico da svolgersi da parte degli specializzandi presso l'istituto sede della scuola.  
-Alla scuola possono iscriversi i laureati in medicina e chirurgia in numero totale di quindici per i tre anni di corso.  
-Il programma delle materie di insegnamento e' il seguente:  
-1° Anno:  
-1) Anatomia patologica;  
-2) Fisiopatologia;  
-3) Chimica clinica;  
-4) Semeiotica fisica e strumentale;  
-5) Clinica medica.  
-2° Anno:  
-1) Semeiotica fisica e strumentale;  
-2) Semeiotica radiologica;  
-3) Malattie del tubo digerente;  
-4) Clinica medica.  
-3° Anno:  
-1) Malattie del fegato e del pancreas;  
-2) Clinica medica.  
-4° Anno:  
-Tirocinio pratico da svolgersi nell'istituto presso cui ha sede la scuola.  
-  
-Per l'ammissione al corso successivo e' obbligatorio il superamento degli esami delle materie di ciascun corso dell'anno precedente.  
-Per l'ammissione all'esame di diploma il candidato dovra' presentare una tesi a stampa o dattiloscritta su un argomento della specialita'.  
+Lo statuto dell'Universita' cattolica di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 2. - E' aggiunto il seguente comma:  
+"Nella Facolta' di lettere e filosofia e' costituita la scuola di specializzazione in psicologia del lavoro e psicotecnica".  
+Art. 69. - Al quarto comma e' aggiunto quanto appresso:  
+"Alla scuola di specializzazione in psicologia del lavoro e psicotecnica costituita nella Facolta' di lettere e filosofia possono essere iscritti per il conseguimento del diploma di specializzazione in psicotecnica i soli laureati in medicina, per il conseguimento del diploma di specializzazione in orientamento professionale i laureati in medicina e i laureati in pedagogia e in filosofia.  
+Coloro che hanno gia' conseguito il diploma di perfezionamento in psicologia in una Universita' italiana, purche' in possesso del titolo di laurea che da' accesso all'iscrizione a uno dei diplomi rilasciato dalla scuola di specializzazione in psicologia del lavoro e psicotecnica, potranno essere iscritti al secondo anno di corso della scuola di specializzazione".  
+Art. 70. - Il primo e terzo comma sono rispettivamente modificati nel modo seguente:  
+"Le scuole di perfezionamento e di specializzazione rilasciano un diploma".  
+"Gli studi per il conseguimento di ciascun diploma di perfezionamento e di specializzazione durano due anni".  
+Art. 71. - Dopo il n. 2 del primo comma e' apportato il seguente nuovo comma:  
+"L'esame di diploma nella scuola di specializzazione consiste:  
+1) in un esame orale nelle materie costitutive della scuola;  
+2) nella presentazione di una tesi scritta su argomento monografico con ricerche personali;  
+3) nella discussione intorno a detta tesi".  
+Dopo l'art. 86 e' aggiunto il seguente nuovo articolo, con il conseguente spostamento della numerazione degli articoli successivi.  
+Art. 87. - La scuola di specializzazione in psicologia del lavoro e psicotecnica rilascia due diplomi:  
+a) diploma di specializzazione in psicotecnica;  
+b) diploma di specializzazione in orientamento professionale.  
+Le materie costitutive per conseguire il diploma di specializzazione in psicotecnica sono:  
+psicologia generale;  
+psicotecnica;  
+statistica.  
+Gli iscritti che aspirano a conseguire il diploma di specializzazione in psicotecnica, debbono seguire le seguenti materie ausiliarie:  
+legislazione del lavoro;  
+organizzazione scientifica del lavoro.  
+Le materie costitutive per conseguire il diploma di specializzazione in orientamento professionale sono:  
+psicologia generale; psicologia dell'eta' evolutiva;  
+metodi di selezione e di orientamento professionale.  
+Gli iscritti, che aspirano a conseguire il diploma di specializzazione in orientamento professionale, debbono seguire le seguenti materie ausiliarie:  
+legislazione del lavoro; statistica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1970
+### Dato a Roma, addi' 20 settembre 1955
 
-SARAGAT MISASI
+GRONCHI ROSSI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli MORO
 
-Registrato alla Corte dei conti, addi' 19 gennaio 1971
+Registrato alla Corte dei conti, addi' 22 ottobre 1955
 
-Atti del Governo, registro n. 240, foglio n. 83. - CARUSO
+Atti del Governo, registro n. 93, foglio n. 69. - CARLOMAGNO

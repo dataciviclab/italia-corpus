@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 gennaio 1971 n. 128
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1965 n. 860
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 gennaio 1971 n. 128
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1965 n. 860
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, numero 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,7 +20,7 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -32,480 +32,125 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli dal 120 al 132, relativi all'ordinamento degli studi della facolta' di architettura sono abrogati e sostituiti dai seguenti:
+Art. 59. - Agli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:
 
-TITOLO X
+Storia contemporanea;
 
-FACOLTA' DI ARCHITETTURA
+Storia dell'Europa orientale;
 
-Art. 120. - La facolta' di architettura conferisce la laurea in architettura.
+Storia della geografia e delle esplorazioni geografiche;
 
-Art. 121. - La durata del corso degli studi per la laurea in architettura e' di cinque anni. Il titolo di ammissione e' quello stabilito dalle vigenti disposizioni di legge.
+Paleografia e diplomatica.
 
-Art. 122. - Gli insegnamenti fondamentali sono:
+Art. 60. - Agli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di:
 
-1) analisi matematica e geometria analitica (annuale + un semestre);
+Metodologia e didattica;
 
-2) arredamento (annuale);
+Psicologia sociale;
 
-3) composizione architettonica (quinquennale);
+Filosofia della scienza.
 
-4) disegno e rilievo (annuale);
+Art. 61. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere sono aggiunti quelli di:
 
-5) estimo ed esercizio professionale (semestrale);
+Storia contemporanea Storia dell'Europa orientale;
 
-6) fisica (semestrale);
+Storia della geografia e delle esplorazioni geografiche;
 
-7) fisica tecnica ed impianti (annuale);
+Paleografia e diplomatica;
 
-8) geometria descrittiva (annuale);
+Filologia ispanica;
 
-9) igiene edilizia (semestrale);
+Lingua e letteratura luso-brasiliana.
 
-10) statica (annuale);
+L'insegnamento complementare di "Lingua e letteratura ibero-americana" cambia la denominazione in "Lingua e letteratura ispano-americana".
 
-11) restauro dei monumenti (annuale);
+Nell'art. 79 relativo al corso di laurea in Fisica, il terzo comma e' abrogato e sostituito dal seguente:
 
-12) scienza delle costruzioni (annuale);
+"Il corso di studi si svolge nei seguenti indirizzi a) generale; b) applicativo; c) didattico".
 
-13) storia dell'architettura (biennale);
+Ai corsi a scelta per il nono insegnamento complementare (indirizzo generale) vengono aggiunti i seguenti: "Radioattivita'" e "Relativita'".
 
-14) tecnica delle costruzioni (annuale);
+Ai corsi a scelta per il nono insegnamento complementare (indirizzo applicativo) vengono aggiunti quelli di "Radioattivita'", "Astrofisica teorica", "Cosmologia", "Elettrodinamica cosmica", "Fisica solare" e "Tecniche astrofisiche".
 
-15) tecnologia dell'architettura (biennale);
+Art. 136. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie vengono aggiunti quelli di:
 
-16) urbanistica (biennale).
+17) Diritto agrario e legislazione forestale;
 
-Sono insegnamenti complementari:
+18) Microbiologia forestale;
 
-1) letteratura italiana;
-
-2) plastica ornamentale;
-
-3) lingua straniera;
-
-4) arte dei giardini;
-
-5) scenografia;
-
-6) decorazione;
-
-7) materie giuridiche;
-
-8) applicazione di geometria descrittiva;
-
-9) architettura sociale;
-
-10) allestimento e museografia;
-
-11) indirizzi dell'architettura moderna;
-
-12) caratteri stilistici e costruttivi dei monumenti;
-
-13) complementi di matematica;
-
-14) consolidamento ed adattamento degli edifici;
-
-15) disegno dal vero;
-
-16) ponti e grandi strutture;
-
-17) impianti speciali;
-
-18) istituzioni di storia dell'arte;
-
-19) illuminazione ed acustica nell'edilizia;
-
-20) letteratura artistica;
-
-21) pianificazione territoriale urbanistica;
-
-22) progettazione artistica per l'industria;
-
-23) storia dell'urbanistica;
-
-24) geotecnica e tecnica delle fondazioni;
-
-25) tipologia strutturale;
-
-26) unificazione edilizia e prefabbricazione;
-
-27) materiali da costruzione speciali;
-
-28) complementi di fisica;
-
-29) costruzioni in zone sismiche;
-
-30) sociologia;
-
-31) economia dello spazio;
-
-32) topografia;
-
-33) analisi dei sistemi urbani.
-
-Per essere ammesso all'esame di laurea, lo studente deve aver seguito le lezioni e le esercitazioni e deve aver superato i relativi esami di tutti gli insegnamenti fondamentali e di sei insegnamenti complementari della durata di un anno (o equivalente), da lui scelti fra quelli propri della facolta'.
-
-Art. 123. Per gli insegnamenti pluriennali, gli esami sono cosi' determinati:
-
-per analisi matematica 1 esame alla fine del II anno
-
-e geometria analitica
-
-per composizione archi- 1 esame alla fine del I anno
-
-tettonica
-
-1 esame alla fine del III anno
-
-1 esame alla fine del V anno
-
-per storia dell'architet- 1 esame alla fine di ciascun
-
-tura e per tecnologia della corso annuale
-
-architettura
-
-per urbanistica 1 esame alla fine di ciascun corso.
-
-Art. 124. - Nella serie degli esami stabiliti dalla facolta' per materie pluriennali, non puo' essere sostenuto un esame senza che sia stato superato il precedente.
-
-Sono stabilite, inoltre, le seguenti precedenze di esami:
-
-Non si puo essere ammessi se non e stato superato
-
-a sostenere l'esame di: l'esame di:
-
-Arredamento Composizione architettonica I e III;
-
-Estimo ed esercizio profes- Tutti gli esami del I anno
-
-sionale e l'esame di composizione
-
-architettonica III;
-
-Analisi dei sistemi urbani Storia dell'architettura II e
-
-composizione architettonica
-
-I e III;
-
-Arte dei giardini Composizione architettonica I e III;
-
-Allestimento e museografia Composizione architettonica III,
-
-storia dell'architettura I e II;
-
-Pianificazione territoriale Materie giuridiche;
-
-urbanistica
-
-Restauro dei monumenti Storia dell'architettura I e II;
-
-Storia dell'architettura II Disegno e rilievo;
-
-Tecnologia dell'architettu- Analisi matematica e geometria
-
-ra II analitica I e II, fisica;
-
-Fisica Analisi matematica e geometria
-
-analitica I e II;
-
-Statica Analisi matematica e geometria
-
-analitica I e II, fisica;
-
-Scienza delle costruzioni Statica, tecnologia dell'architet-
-
-tura I e II, fisica;
-
-Tecnica delle costruzioni Scienza delle costruzioni;
-
-Fisica tecnica ed impianti Tecnologia dell'architettura I e II,
-
-analisi matematica e geometria
-
-analitica II;
-
-Geometria descrittiva Analisi matematica e geometria
-
-analitica I e II;
-
-Impianti speciali Fisica tecnica ed impianti;
-
-Materiali da costruzione spe- Tecnica delle costruzioni,
-
-ciali fisica tecnica ed impianti;
-
-Geotecnica e tecnica delle Tecnica delle costruzioni;
-
-fondazioni
-
-Tipologia strutturale Tecnica delle costruzioni, fisica
-
-tecnica ed impianti;
-
-Ponti e grandi strutture Scienza delle costruzioni;
-
-Topografia Tecnica delle costruzioni, analisi
-
-matematica e geometria
-
-analitica I e II, fisica;
-
-Caratteri stilistici Storia dell'architettura I e II.
-
-Per sostenere l'esame di urbanistica II ed estimo, e' opportuno aver frequentato il corso di materie giuridiche.
-
-Art. 125. - Gli studenti del I, II, III, IV anno di corso potranno ottenere l'iscrizione, rispettivamente al II, III, IV e V anno di corso, qualora abbiano seguito i corsi e superato, per ogni anno, almeno 2 esami, scelti tra quelli previsti nel precedente anno di corso. Tali esami devono essere superati entro e non oltre la sessione autunnale.
-
-Art. 126. - L'insegnamento viene svolto, secondo le materie, mediante lezioni orali, esercizi grafici, ed esercitazioni varie seminariali, di laboratorio e di cantiere.
-
-Art. 127. - Nell'ambito del V anno gli insegnamenti si svolgono anche sulla redazione del progetto di laurea.
-
-Art. 128. - I professori si accertano dell'assiduita' e del profitto degli studenti mediante appelli, interrogazioni, ed ogni altro mezzo che essi ritengano opportuno e ne attestano la frequenza.
-
-Art. 129. - Per gli studenti provenienti da altre facolta' universitarie o istituti superiori, e sempreche' siano forniti del titolo di studio prescritto per l'ammissione al corso di laurea in architettura, il consiglio di facolta', tenuto conto degli studi compiuti e degli esami superati ed in relazione al piano di studi proposto, determina caso per caso l'anno di corso al quale possono essere iscritti, gli insegnamenti che debbono seguire e gli esami che debbono superare, e stabilisce il piano di studi.
-
-Art. 130. - I laureati in ingegneria possono essere iscritti in base al piano di studio seguito, al IV o al V anno di corso, con dispensa dagli esami, previo giudizio del consiglio di facolta'.
-
-Art. 131. - Lo studente puo' variare il piano di studi consigliato dalla facolta', purche' frequenti, in ogni anno, almeno tre e non piu' di otto insegnamenti, e rispetti le norme di precedenza.
-
-Art. 132. - Gli esami di profitto consistono in prove orali, pratiche e grafiche. Le modalita' per ciascuna prova sono stabilite dal consiglio di facolta'.
-
-Nel giudizio, le commissioni tengono conto anche dei lavori eseguiti dai candidati durante l'anno accademico.
-
-Art. 133. - L'esame di laurea in architettura consiste nella discussione di una tesi presentata dal candidato, assistito da un relatore, scelto fra i professori ufficiali della facolta' e gli assistenti di ruolo liberi docenti.
-
-Il titolo della tesi deve essere depositato almeno sei mesi prima, ed approvato da una apposita commissione composta dal preside e da altri due professori, la quale ha la facolta' di richiedere al candidato prove integrative, grafiche o speciali prima della discussione.
-
-L'elaborato presentato dal candidato per la discussione della tesi deve presentare carattere di contributo originale.
-
-Le tesi presentate per il conseguimento della laurea in architettura devono tendere ad essere:
-
-1) od un contributo originale a carattere professionale, consistente nella redazione di un progetto architettonico od urbanistico, definito, almeno in parte, a livello esecutivo. Nel caso di un progetto particolarmente complesso, e le cui parti siano chiaramente distinguibili, piu' candidati possono associarsi nella redazione dello stesso progetto, ferma restando la possibilita' individuale dello sviluppo delle singole parti;
-
-2) oppure, un contributo originale di ricerca scientifica applicata che deve consistere nell'apporto individuale ad una ricerca (che puo' anche essere contemporaneamente svolta da piu' persone nel campo della pianificazione e della meta-progettazione). Anche se il valore del contributo si accentra, in questo caso, sulla ricerca, la tesi dovra' sempre concludersi con una proposta specifica anche a livello normativo o pianificatorio;
-
-3) infine, un contributo originale con carattere essenziale di ricerca scientifica, che si puo' esaurire nella ricerca stessa o nelle proposte metodologiche che ne derivano.
-
-Anche in questo caso la ricerca dovra' essere specifica dell'area che interessi l'architetto e l'urbanistica, cioe' derivare dagli insegnamenti impartiti nella facolta', dalla storia dell'architettura e quella del territorio, dalla scienza alla tecnica delle costruzioni ed al restauro, fino alle metodologie di progettazione e di pianificazione.
-
-Le tesi di cui al punto 1) saranno presentate e discusse estemporaneamente con la illustrazione, da parte del candidato, di una serie di elaborati essenzialmente grafici.
-
-Le tesi di cui al punto 3), che illustrano una ricerca pura, vanno consegnate in sei copie, alla segreteria della facolta' almeno quindici giorni prima della data stabilita per la discussione. La tesi sara' esaminata preliminarmente dal relatore, da almeno due correlatori e da due controrelatori, nominati dal preside all'interno della commissione di laurea.
-
-Prima della discussione, il relatore riferira' alla commissione sui risultati della ricerca.
-
-Le tesi di cui al punto 2) seguiranno le norme dettate per il punto 3) per la loro parte introduttiva e di ricerca, e quelle dettate per il punto 1) per la parte conclusiva pianificatoria progettuale.
-
-L'originale delle tesi sono di proprieta' della facolta'.
-
-Esse sono depositate presso la biblioteca della facolta'.
-
-E' costituito un "Archivio lauree", a disposizione degli studenti.
-
-Un tecnico di ruolo e' addetto alla loro conservazione.
-
-Gli elaborati grafici saranno microfilmati, e nella loro redazione si dovra' tener conto della riproducibilita' tecnica degli stessi.
+19) Sociologia rurale.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 25 gennaio 1971
+Dato a Roma, addi' 26 aprile 1965
 
 SARAGAT
 
-MISASI
+GUI
 
 Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 25 marzo 1971 Atti del Governo, registro n. 241, foglio n. 90. - GRECO.
+alla Corte dei conti, addi' 14 luglio 1965 Atti del Governo, registro n. 195, foglio n. 90. - VILLA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, numero 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli dal 120 al 132, relativi all'ordinamento degli studi della facolta' di architettura sono abrogati e sostituiti dai seguenti:   
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 59. - Agli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:  
   
-TITOLO X   
-FACOLTA' DI ARCHITETTURA   
+Storia contemporanea;  
+Storia dell'Europa orientale;  
+Storia della geografia e delle esplorazioni geografiche;  
+Paleografia e diplomatica.  
+Art. 60. - Agli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di:  
   
-Art. 120. - La facolta' di architettura conferisce la laurea in architettura.   
-Art. 121. - La durata del corso degli studi per la laurea in architettura e' di cinque anni. Il titolo di ammissione e' quello stabilito dalle vigenti disposizioni di legge.   
-Art. 122. - Gli insegnamenti fondamentali sono:   
-1) analisi matematica e geometria analitica (annuale + un semestre);   
-2) arredamento (annuale);   
-3) composizione architettonica (quinquennale);   
-4) disegno e rilievo (annuale);   
-5) estimo ed esercizio professionale (semestrale);   
-6) fisica (semestrale);   
-7) fisica tecnica ed impianti (annuale);   
-8) geometria descrittiva (annuale);   
-9) igiene edilizia (semestrale);   
-10) statica (annuale);   
-11) restauro dei monumenti (annuale);   
-12) scienza delle costruzioni (annuale);   
-13) storia dell'architettura (biennale);   
-14) tecnica delle costruzioni (annuale);   
-15) tecnologia dell'architettura (biennale);   
-16) urbanistica (biennale).   
-Sono insegnamenti complementari:   
-1) letteratura italiana;   
-2) plastica ornamentale;   
-3) lingua straniera;   
-4) arte dei giardini;   
-5) scenografia;   
-6) decorazione;   
-7) materie giuridiche;   
-8) applicazione di geometria descrittiva;   
-9) architettura sociale;   
-10) allestimento e museografia;   
-11) indirizzi dell'architettura moderna;   
-12) caratteri stilistici e costruttivi dei monumenti;   
-13) complementi di matematica;   
-14) consolidamento ed adattamento degli edifici;   
-15) disegno dal vero;   
-16) ponti e grandi strutture;   
-17) impianti speciali;   
-18) istituzioni di storia dell'arte;   
-19) illuminazione ed acustica nell'edilizia;   
-20) letteratura artistica;   
-21) pianificazione territoriale urbanistica;   
-22) progettazione artistica per l'industria;   
-23) storia dell'urbanistica;   
-24) geotecnica e tecnica delle fondazioni;   
-25) tipologia strutturale;   
-26) unificazione edilizia e prefabbricazione;   
-27) materiali da costruzione speciali;   
-28) complementi di fisica;   
-29) costruzioni in zone sismiche;   
-30) sociologia;   
-31) economia dello spazio;   
-32) topografia;   
-33) analisi dei sistemi urbani.   
-Per essere ammesso all'esame di laurea, lo studente deve aver seguito le lezioni e le esercitazioni e deve aver superato i relativi esami di tutti gli insegnamenti fondamentali e di sei insegnamenti complementari della durata di un anno (o equivalente), da lui scelti fra quelli propri della facolta'.   
+Metodologia e didattica;  
+Psicologia sociale;  
+Filosofia della scienza.  
+Art. 61. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere sono aggiunti quelli di:  
   
-Art. 123. Per gli insegnamenti pluriennali, gli esami sono cosi' determinati:   
-  
-  
-per analisi matematica 1 esame alla fine del II anno  
-e geometria analitica  
-per composizione archi- 1 esame alla fine del I anno  
-tettonica  
-1 esame alla fine del III anno  
-  
-1 esame alla fine del V anno  
-per storia dell'architet- 1 esame alla fine di ciascun  
-tura e per tecnologia della corso annuale  
-architettura  
-per urbanistica 1 esame alla fine di ciascun corso.  
-  
-  
-Art. 124. - Nella serie degli esami stabiliti dalla facolta' per materie pluriennali, non puo' essere sostenuto un esame senza che sia stato superato il precedente.   
-Sono stabilite, inoltre, le seguenti precedenze di esami:   
-  
-  
-Non si puo essere ammessi se non e stato superato  
-a sostenere l'esame di: l'esame di:  
-  
-Arredamento Composizione architettonica I e III;  
-Estimo ed esercizio profes- Tutti gli esami del I anno  
-sionale e l'esame di composizione  
-architettonica III;  
-Analisi dei sistemi urbani Storia dell'architettura II e  
-composizione architettonica  
-I e III;  
-Arte dei giardini Composizione architettonica I e III;  
-Allestimento e museografia Composizione architettonica III,  
-storia dell'architettura I e II;  
-Pianificazione territoriale Materie giuridiche;  
-urbanistica  
-Restauro dei monumenti Storia dell'architettura I e II;  
-Storia dell'architettura II Disegno e rilievo;  
-Tecnologia dell'architettu- Analisi matematica e geometria  
-ra II analitica I e II, fisica;  
-Fisica Analisi matematica e geometria  
-analitica I e II;  
-Statica Analisi matematica e geometria  
-analitica I e II, fisica;  
-Scienza delle costruzioni Statica, tecnologia dell'architet-  
-tura I e II, fisica;  
-Tecnica delle costruzioni Scienza delle costruzioni;  
-Fisica tecnica ed impianti Tecnologia dell'architettura I e II,  
-analisi matematica e geometria  
-analitica II;  
-Geometria descrittiva Analisi matematica e geometria  
-analitica I e II;  
-Impianti speciali Fisica tecnica ed impianti;  
-Materiali da costruzione spe- Tecnica delle costruzioni,  
-ciali fisica tecnica ed impianti;  
-Geotecnica e tecnica delle Tecnica delle costruzioni;  
-fondazioni  
-Tipologia strutturale Tecnica delle costruzioni, fisica  
-tecnica ed impianti;  
-Ponti e grandi strutture Scienza delle costruzioni;  
-Topografia Tecnica delle costruzioni, analisi  
-matematica e geometria  
-analitica I e II, fisica;  
-Caratteri stilistici Storia dell'architettura I e II.  
-  
-  
-Per sostenere l'esame di urbanistica II ed estimo, e' opportuno aver frequentato il corso di materie giuridiche.   
-Art. 125. - Gli studenti del I, II, III, IV anno di corso potranno ottenere l'iscrizione, rispettivamente al II, III, IV e V anno di corso, qualora abbiano seguito i corsi e superato, per ogni anno, almeno 2 esami, scelti tra quelli previsti nel precedente anno di corso. Tali esami devono essere superati entro e non oltre la sessione autunnale.   
-Art. 126. - L'insegnamento viene svolto, secondo le materie, mediante lezioni orali, esercizi grafici, ed esercitazioni varie seminariali, di laboratorio e di cantiere.   
-Art. 127. - Nell'ambito del V anno gli insegnamenti si svolgono anche sulla redazione del progetto di laurea.   
-Art. 128. - I professori si accertano dell'assiduita' e del profitto degli studenti mediante appelli, interrogazioni, ed ogni altro mezzo che essi ritengano opportuno e ne attestano la frequenza.   
-Art. 129. - Per gli studenti provenienti da altre facolta' universitarie o istituti superiori, e sempreche' siano forniti del titolo di studio prescritto per l'ammissione al corso di laurea in architettura, il consiglio di facolta', tenuto conto degli studi compiuti e degli esami superati ed in relazione al piano di studi proposto, determina caso per caso l'anno di corso al quale possono essere iscritti, gli insegnamenti che debbono seguire e gli esami che debbono superare, e stabilisce il piano di studi.   
-Art. 130. - I laureati in ingegneria possono essere iscritti in base al piano di studio seguito, al IV o al V anno di corso, con dispensa dagli esami, previo giudizio del consiglio di facolta'.   
-Art. 131. - Lo studente puo' variare il piano di studi consigliato dalla facolta', purche' frequenti, in ogni anno, almeno tre e non piu' di otto insegnamenti, e rispetti le norme di precedenza.   
-Art. 132. - Gli esami di profitto consistono in prove orali, pratiche e grafiche. Le modalita' per ciascuna prova sono stabilite dal consiglio di facolta'.   
-Nel giudizio, le commissioni tengono conto anche dei lavori eseguiti dai candidati durante l'anno accademico.   
-Art. 133. - L'esame di laurea in architettura consiste nella discussione di una tesi presentata dal candidato, assistito da un relatore, scelto fra i professori ufficiali della facolta' e gli assistenti di ruolo liberi docenti.   
-Il titolo della tesi deve essere depositato almeno sei mesi prima, ed approvato da una apposita commissione composta dal preside e da altri due professori, la quale ha la facolta' di richiedere al candidato prove integrative, grafiche o speciali prima della discussione.   
-L'elaborato presentato dal candidato per la discussione della tesi deve presentare carattere di contributo originale.   
-Le tesi presentate per il conseguimento della laurea in architettura devono tendere ad essere:   
-1) od un contributo originale a carattere professionale, consistente nella redazione di un progetto architettonico od urbanistico, definito, almeno in parte, a livello esecutivo. Nel caso di un progetto particolarmente complesso, e le cui parti siano chiaramente distinguibili, piu' candidati possono associarsi nella redazione dello stesso progetto, ferma restando la possibilita' individuale dello sviluppo delle singole parti;   
-2) oppure, un contributo originale di ricerca scientifica applicata che deve consistere nell'apporto individuale ad una ricerca (che puo' anche essere contemporaneamente svolta da piu' persone nel campo della pianificazione e della meta-progettazione). Anche se il valore del contributo si accentra, in questo caso, sulla ricerca, la tesi dovra' sempre concludersi con una proposta specifica anche a livello normativo o pianificatorio;   
-3) infine, un contributo originale con carattere essenziale di ricerca scientifica, che si puo' esaurire nella ricerca stessa o nelle proposte metodologiche che ne derivano.   
-Anche in questo caso la ricerca dovra' essere specifica dell'area che interessi l'architetto e l'urbanistica, cioe' derivare dagli insegnamenti impartiti nella facolta', dalla storia dell'architettura e quella del territorio, dalla scienza alla tecnica delle costruzioni ed al restauro, fino alle metodologie di progettazione e di pianificazione.   
-Le tesi di cui al punto 1) saranno presentate e discusse estemporaneamente con la illustrazione, da parte del candidato, di una serie di elaborati essenzialmente grafici.   
-Le tesi di cui al punto 3), che illustrano una ricerca pura, vanno consegnate in sei copie, alla segreteria della facolta' almeno quindici giorni prima della data stabilita per la discussione. La tesi sara' esaminata preliminarmente dal relatore, da almeno due correlatori e da due controrelatori, nominati dal preside all'interno della commissione di laurea.   
-Prima della discussione, il relatore riferira' alla commissione sui risultati della ricerca.   
-Le tesi di cui al punto 2) seguiranno le norme dettate per il punto 3) per la loro parte introduttiva e di ricerca, e quelle dettate per il punto 1) per la parte conclusiva pianificatoria progettuale.   
-L'originale delle tesi sono di proprieta' della facolta'.   
-Esse sono depositate presso la biblioteca della facolta'.   
-E' costituito un "Archivio lauree", a disposizione degli studenti.  
-Un tecnico di ruolo e' addetto alla loro conservazione.   
-Gli elaborati grafici saranno microfilmati, e nella loro redazione si dovra' tener conto della riproducibilita' tecnica degli stessi.   
+Storia contemporanea Storia dell'Europa orientale;  
+Storia della geografia e delle esplorazioni geografiche;  
+Paleografia e diplomatica;  
+Filologia ispanica;  
+Lingua e letteratura luso-brasiliana.  
+L'insegnamento complementare di "Lingua e letteratura ibero-americana" cambia la denominazione in "Lingua e letteratura ispano-americana".  
+Nell'art. 79 relativo al corso di laurea in Fisica, il terzo comma e' abrogato e sostituito dal seguente:  
+"Il corso di studi si svolge nei seguenti indirizzi a) generale; b) applicativo; c) didattico".  
+Ai corsi a scelta per il nono insegnamento complementare (indirizzo generale) vengono aggiunti i seguenti: "Radioattivita'" e "Relativita'".  
+Ai corsi a scelta per il nono insegnamento complementare (indirizzo applicativo) vengono aggiunti quelli di "Radioattivita'", "Astrofisica teorica", "Cosmologia", "Elettrodinamica cosmica", "Fisica solare" e "Tecniche astrofisiche".  
+Art. 136. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie vengono aggiunti quelli di:  
+17) Diritto agrario e legislazione forestale;  
+18) Microbiologia forestale;  
+19) Sociologia rurale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 gennaio 1971
+### Dato a Roma, addi' 26 aprile 1965
 
-SARAGAT MISASI
+SARAGAT GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 25 marzo 1971
+Registrato alla Corte dei conti, addi' 14 luglio 1965
 
-Atti del Governo, registro n. 241, foglio n. 90. - GRECO.
+Atti del Governo, registro n. 195, foglio n. 90. - VILLA

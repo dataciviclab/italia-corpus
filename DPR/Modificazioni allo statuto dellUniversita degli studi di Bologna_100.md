@@ -1,83 +1,228 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1981 n. 853
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1005
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1981 n. 853
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1005
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Lo statuto dell'Universita' di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-All'art. 457 sono aggiunti i seguenti commi:  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-La frequenza alle esercitazioni pratiche e' obbligatoria.  
-La frequenza e' regolamentata secondo modalita' stabilite dal consiglio della scuola e ratificate dal consiglio di facolta'.  
-L'art. 489, relativo alla scuola di specializzazione in odontostomatologia, e' sostituito dal seguente:  
+Decreta:  
   
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.  
-Gli esami di profitto teorici e pratici saranno sostenuti alla fine di ogni anno in un'unica sessione (ottobre).  
-Alla fine del terzo anno, dopo aver superato gli esami di profitto, gli allievi saranno ammessi a sostenere l'esame di diploma che consiste nella discussione orale di una dissertazione scritta, su un tema proposto in precedenza dall'insegnante della materia sulla quale verte l'argomento, e' approvato dal direttore della scuola.  
-Ogni iscritto deve provvedere al proprio corredo di strumenti.  
-L'art. 500, relativo alla scuola di specializzazione in chirurgia generale, e' sostituito dal seguente:  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso: presso la facolta' di lettere e' istituita la laurea in storia. Dopo l'art. 84, e con il conseguente spostamento della numerazione degli articoli successivi, e' aggiunto il seguente nuovo articolo relativo all'ordinamento del corso di laurea in storia.  
   
-La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.  
-L'art. 501 e' sostituito dal seguente:  
+e) LAUREA IN STORIA  
   
-La frequenza e' regolamentata con modalita' stabilite dal consiglio della scuola e ratificate dal consiglio di facolta'.  
-L'art. 510, relativo alla scuola di specializzazione in medicina legale e delle assicurazioni, e' sostituito dal seguente:  
+Art. 85. - Durata del corso di studi: quattro anni.  
+Il corso di studi si distingue nei seguenti indirizzi:  
+A) Antico; B) Medioevale; C) Moderno; D) Orientale.  
+Sono titoli di ammissione: a) il diploma di scuola media superiore di durata quinquennale; b) il diploma rilasciato al termine dell'anno integrativo frequentato dopo il conseguimento del diploma di maturita' o abilitazione magistrale. Quest'ultimo titolo non e' valido per l'indirizzo antico.  
   
-Sono disponibili dieci posti per ciascun anno di corso.  
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.  
-L'art. 519, relativo alla scuola di specializzazione in neurologia, viene sostituito dal seguente:  
+A) INDIRIZZO ANTICO.  
   
-La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.  
-L'insegnamento avra' carattere eminentemente pratico-dimostrativo-sperimentale a mezzo di lezioni, colloqui, esercitazioni, sopra casi clinici e ricerche di laboratorio. Le ricerche cliniche ed individuali sia a scopo pratico, sia a scopo scientifico, dovranno essere approvate dal direttore dell'istituto.  
-Il superamento degli esami e' obbligatorio alla fine di ogni anno di corso per il passaggio all'anno successivo. Gli esami riguardano le singole materie di ciascun anno di corso. Gli allievi, oltre a dover superare gli esami speciali del predetto quarto anno, sono tenuti, per conseguire il diploma, a discutere una dissertazione scritta.  
-L'art. 545, relativo alla scuola di specializzazione in medicina interna, viene sostituito dal seguente:  
+Sono insegnamenti fondamentali:  
   
-Sono disponibili dieci posti per ciascun anno di corso.  
-Il numero complessivo dei posti nei cinque anni di corso non dovra' superare i cinquanta iscritti.  
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.  
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Storia greca;  
+Storia romana;  
+Storia del Mediterraneo antico orientale;  
+Epigrafia e antichita' greche;  
+Epigrafia e antichita' romane;  
+Papirologia;  
+Numismatica antica;  
+Archeologia;  
+Storia della filosofia antica;  
+Paleografia greca e latina;  
+Storia orientale antica.  
+  
+Sono insegnamenti complementari:  
+  
+Topografia antica;  
+Archeologia delle province romane;  
+Climatologia storica;  
+Ebraico;  
+Esegesi delle fonti di storia greca e romana;  
+Esegesi delle fonti di diritto romano;  
+Etruscologia ed archeologia italica;  
+Filologia greca e latina;  
+Geologia e sedimentologia storica;  
+Istituzioni di diritto romano;  
+Paleoetnologia;  
+Letteratura cristiana antica;  
+Letteratura greca;  
+Letteratura latina;  
+Storia del cristianesimo antico;  
+Storia delle religioni del mondo classico;  
+Storia del diritto romano;  
+Storia dell'economia antica;  
+Storia del diritto greco;  
+Storia sociale del mondo antico;  
+Storia delle costituzioni del mondo antico;  
+Una storia regionale dell'antichita'.  
+  
+B) INDIRIZZO MEDIOEVALE.  
+  
+Sono insegnamenti fondamentali:  
+  
+Storia medioevale;  
+Paleografia latina e diplomatica;  
+Archivistica;  
+Letteratura latina medioevale;  
+Filologia romanza;  
+Storia bizantina;  
+Storia medioevale dell'oriente europeo (oppure: Storia e antichita' mussulmane);  
+Storia della filologia medioevale;  
+Lettorato latino;  
+Istituzioni medioevali;  
+Storia dei Paesi islamici.  
+  
+Sono insegnamenti complementari:  
+  
+Archeologia medioevale;  
+Antichita' ed istituzioni medioevali;  
+Bibliografia e biblioteconomia;  
+Cronologia e cronografia;  
+Numismatica, sfragistica e araldica;  
+Linguistica, onomastica e toponomastica medioevali;  
+Epigrafia medioevale;  
+Filologia italiana;  
+Storia del diritto romano;  
+Storia del diritto italiano;  
+Storia del commercio e della navigazione;  
+Codicologia;  
+Pubblicistica e cronachistica medioevali;  
+Paleografia musicale;  
+Storia delle esplorazioni geografiche;  
+Storia e civilta' precolombiane dell'America;  
+Lingua e letteratura catalana;  
+Paleografia greca;  
+Esegesi delle fonti della storia medioevale;  
+Papirologia;  
+Istituzioni di diritto romano;  
+Geografia storica;  
+Storia dell'arte medioevale;  
+Letteratura umanistica;  
+Storia agraria medioevale;  
+Una storia regionale del Medioevo;  
+Storia degli insediamenti tardo-antichi medioevali.  
+  
+C) INDIRIZZO MODERNO.  
+  
+Sono insegnamenti fondamentali:  
+  
+Storia moderna;  
+Storia degli antichi Stati italiani;  
+Storia dei Paesi afro-asiatici nell'eta' moderna;  
+Storia dei Paesi slavi;  
+Storia americana;  
+Storia del Rinascimento;  
+Storia della filosofia moderna;  
+Storia del pensiero scientifico nell'eta' moderna;  
+Storia della letteratura italiana moderna;  
+Cinematica dei fatti economici e sociali;  
+Geografia politica ed economica.  
+  
+Sono insegnamenti complementari (quelli indicati in gruppo possono essere scelti separatamente fuorche' sia indicato "oppure"):  
+  
+Storia dell'eta' della riforma e della controriforma;  
+Storia dell'eta' dell'illuminismo;  
+Storia del Risorgimento;  
+Storia delle Chiese cristiane, diritto ecclesiastico o diritto canonico;  
+Storia delle istituzioni politiche, istituzioni di diritto pubblico;  
+Storia del diritto italiano;  
+Storia dei trattati e relazioni internazionali, diritto internazionale;  
+Una storia regionale nell'eta' moderna;  
+Filosofia della storia;  
+Storia della lingua italiana;  
+Statistica oppure calcolo delle probabilita', istituzioni di matematiche;  
+Storia delle matematiche, istituzioni di matematiche;  
+Storia della medicina, antropologia oppure genetica, oppure anatomia comparata, oppure istologia ed embriologia, oppure biologia generale;  
+Storia della dottrina chimico-inorganica;  
+Storia dell'urbanistica;  
+Storia della tecnica, elementi di macchine, oppure elettrotecnica, oppure arte mineraria, oppure idraulica, oppure tecnologie generali, oppure tecnica ed economia dei trasporti;  
+Cronologia e tecniche della misura del tempo;  
+Storia della geografia, oppure storia delle esplorazioni, geografia fisica;  
+Storia dell'agricoltura, ecologia;  
+Storia del commercio, oppure storia dell'industria, economia politica, merceologia;  
+Storia della moneta e della borsa, scienza delle finanze;  
+Storia navale, tecnologia della nave, oppure costruzioni navali, oppure architettura navale;  
+Storia dell'arte moderna.  
+  
+D) INDIRIZZO ORIENTALE.  
+  
+Sono insegnamenti fondamentali:  
+  
+Storia dei Paesi afro-asiatici;  
+Storia e geografia dell'Asia orientale;  
+Storia religiosa dell'Oriente cristiano;  
+Islamistica;  
+Indologia;  
+Egittologia;  
+Iranistica;  
+Assirologia;  
+Archeologia orientale;  
+Filosofia dell'India e dell'Asia orientale;  
+Sanscrito.  
+  
+Sono insegnamenti complementari:  
+  
+Lingua e letteratura araba;  
+Lingua e letteratura persiana;  
+Filologia semitica;  
+Lingua e letteratura armena;  
+Religioni dell'India e dell'estremo oriente;  
+Epigrafia semitica;  
+Lingua e letteratura turca;  
+Lingua e letteratura cinese;  
+Lingua e letteratura giapponese;  
+Ittitologia;  
+Storia dell'arte orientale;  
+Archeologia fenicio-punica;  
+Sinologia;  
+Ebraico;  
+Lingue antiche dell'Asia centrale;  
+Dialettologia araba;  
+Lingue arie moderne dell'India.  
+  
+Per essere ammesso all'esame di laurea lo studente deve aver superato gli esami di tutti gli insegnamenti fondamentali e almeno in nove insegnamenti scelti tra quelli complementari oltre a due esami superati per gli insegnamenti scelti tra i seguenti:  
+Lingua e letteratura inglese;  
+Lingua e letteratura francese;  
+Lingua e letteratura tedesca;  
+Lingua e letteratura spagnola;  
+Lingua e letteratura russa.  
+E' opportuno che non piu' di tre esami in ciascuno indirizzo siano scelti tra gli insegnamenti di altri indirizzi e corsi di laurea e che le discipline indicate congiuntamente siano scelte assieme.  
+Almeno due esami complementari dovranno preferibilmente essere scelti fra gli insegnamenti seguenti:  
+Storia economica;  
+Storia delle dottrine politiche;  
+Storia delle dottrine economiche;  
+Teoria e storia della storiografia;  
+Storia della scienza e della tecnica.  
+L'esame di laurea in storia consiste nella discussione di una dissertazione scritta svolta dal candidato in uno degli insegnamenti relativi al corso di laurea ed in rapporto al carattere della laurea stessa e dell'indirizzo prescelto.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 luglio 1981
+### Dato a Roma, addi' 31 ottobre 1972
 
-PERTINI BODRATO
+LEONE SCALFARO
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 7 gennaio 1982
+Registrato alla Corte dei conti, addi' 17 febbraio 1973
 
-Registro n. 1 Istruzione, foglio n. 126
+Atti di Governo, registro n. 255, foglio n. 119. - VALENTINI

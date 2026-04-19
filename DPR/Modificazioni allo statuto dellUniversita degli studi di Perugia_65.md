@@ -1,110 +1,96 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1957 n. 1430
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 settembre 1979 n. 572
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1957 n. 1430
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 settembre 1979 n. 572
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Perugia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
   
 Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Il primo capoverso dell'art. 75 del vigente statuto, viene modificato come appresso:  
-Art. 75. - Alla Facolta' di medicina e chirurgia sono annesse le scuole di perfezionamento in "endocrinologia e malattie del ricambio", "pediatria", "ostetricia e ginecologia", "oculistica", "chirurgia", "medicina interna", "igiene", "gastroenterologia", "anestesiologia", "otorinolaringoiatria" e "cardiologia".  
-Dopo l'art. 94 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione delle scuole di perfezionamento in "otorinolaringoiatria a ed in "cardiologia".  
+L'art. 95, primo comma, e' modificato nel senso che all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in dermatologia e venereologia.  
+
+Art. 2
+------
+
   
-Scuola di perfezionamento in otorinolaringoiatria  
+Dopo l'art. 123, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in dermatologia e venereologia:  
   
-Art. 95. - La scuola ha la durata di tre anni.  
-L'ammissione viene effettuata in base a concorso per esami: il numero degli studenti che possono essere iscritti e' limitato a sei per ogni anno di corso.  
-Le materie di insegnamento sono:  
-1° anno:  
-Clinica otorinolaringoiatrica;  
-Patologia e semeiotica dell'orecchio;  
-Patologia e semeiotica del naso;  
-Patologia e semeiotica della faringe-laringe;  
-Anatomia umana in rapporto alla specialita';  
-Neuropatologia in rapporto alla specialita';  
-Esercitazioni ciniche.  
-2° anno:  
-Clinica otorinolaringoiatrica;  
-Patologia e semeiotica dell'orecchio;  
-Patologia e semeiotica del naso;  
-Patologia e semeiotica della faringe-laringe;  
-Patologia generale in rapporto alla specialita';  
-Endoscopia bronco-esofagea;  
-Esercitazioni cliniche.  
-3° anno:  
-Clinica otorinolaringoiatrica;  
-Tecnica operatoria dell'orecchio;  
-Tecnica operatoria del naso e delle cavita' accessorie;  
-Tecnica operatoria della faringe-laringe;  
-Oculistica in rapporto alla specialita';  
-Chirurgia plastica della specialita';  
-Audiologia e foniatria;  
-Esercitazioni cliniche.  
-  
-Scuola di perfezionamento in cardiologia  
-  
-Art. 96. - La scuola ha la durata di tre anni.  
-Il numero degli studenti che possono essere iscritti e' limitato ad otto per ogni anno di corso.  
-Le materie di insegnamento sono:  
-1° anno:  
-Anatomia normale;  
-Fisiologia;  
-Anatomia patologica;  
-Chimica biologica;  
-Semeiotica fisica;  
-Reumatologia;  
-Patologia delle malattie di cuore;  
-Semeiotica strumentale;  
-Elettrocardiografia e vettocardiografia;  
-Fonocardiografia (semestrale);  
-Ballistocardiografia (semestrale).  
-2° anno:  
-Clinica delle malattie di cuore;  
-Patologia delle malattie di cuore;  
-Elettrocardiografia e vettocardiografia;  
-Radiologia;  
-Patologia cardiorespiratoria (semestrale);  
-Patologia vascolare (semestrale);  
-Ricambio elettrolitico (semestrale);  
-Oculistica (semestrale);  
-Cardiopatie congenite.  
-3° anno:  
-Clinica delle malattie di cuore;  
-Terapia;  
-Dietetica (semestrale);  
-Terapia chirurgica (semestrale);  
-Angiocardiografia (semestrale);  
-Cateterismo cardiaco e studio del gas del sangue e respiratori.  
+Scuola di specializzazione in dermatologia e venereologia  
+Art. 124. - La scuola di specializzazione in dermatologia e venereologia ha sede presso l'istituto di clinica dermatologica dell'Universita' di Perugia e conferisce il diploma di specialista in dermatologia e venereologia.  
+Art. 125. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Art. 126. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Art. 127. - La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazioni.  
+Art. 128. - Il numero massimo degli allievi e' di sei per anno di corso e complessivamente di diciotto iscritti per l'intero corso di studi.  
+Art. 129. - L'ammissione al corso viene fatta per titoli ed esami.  
+Art. 130. - Le materie d'insegnamento sono le seguenti:  
+1° Anno:  
+1) anatomia ed istologia normale della cute;  
+2) fisiologia della cute e degli annessi;  
+3) anatomia e fisiologia dell'apparato genitale;  
+4) microbiologia e parassitologia applicate;  
+5) tecniche di laboratorio applicato alla disciplina;  
+6) semeiotica dermatologica e venereologica.  
+2° Anno:  
+1) patologia delle malattie cutanee;  
+2) patologia delle infezioni veneree;  
+3) istopatologia e citologia dermatologica e venereologica;  
+4) immunologia cutanea;  
+5) dermatologia allergologica e professionale;  
+6) angiologia;  
+7) sessuologia.  
+3° Anno:  
+1) clinica delle malattie cutanee;  
+2) clinica delle infezioni veneree;  
+3) dermatologia pediatrica;  
+4) farmacologia e terapia;  
+5) fisioterapia dermatologica;  
+6) cosmetologia;  
+7) chirurgia plastica riparatrice;  
+8) igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.  
+Art. 131. - I corso delle lezioni deve essere impartito mediante almeno cinquanta lezioni annuali, comprensive delle varie materie e la frequenza giornaliera degli iscritti non deve essere inferiore alle quattro ore effettive per tutta la durata dell'anno accademico.  
+Gli specializzandi hanno percio' obblighi di effettuare esercitazioni pratiche nei reparti onde seguire i corsi di lezione e svolgere contemporaneamente esercitazioni pratiche nelle corsie, negli ambulatori e nei laboratori.  
+L'esame di diploma consiste nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato ventiquattro ore prima della prova.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1957
+### Dato a Roma, addi' 15 settembre 1979
 
-GRONCHI MORO
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 18 marzo 1958
+Registrato alla Corte dei conti, addi' 31 ottobre 1979
 
-Atti del Governo, registro n. 111, foglio n. 154. - RELLEVA
+Registro n. 83 Istruzione, foglio n. 74

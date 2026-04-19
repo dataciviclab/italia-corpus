@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1960 n. 346
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 491
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1960 n. 346
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 491
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
@@ -10,240 +10,213 @@ Modificazioni allo statuto dell'Universita' degli studi di Catania.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), modificato con, regio decreto 16 ottobre 1940 e successivi;
+Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Visto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 41. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di "Ottica fisiologica".
+Art. 176 - l'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola di specializzazione in ematologia clinica e di laboratorio muta la denominazione in quella di scuola di specializzazione in ematologia generale (clinica e laboratorio).
 
-Art. 130. - All'elenco delle Scuole di specializzazione annesse alla Facolta' di medicina e chirurgia sono aggiunte quelle di "Medicina legale e delle assicurazioni" e di "Malattie del sangue e del ricambio".
+Gli articoli 227, 228, relativi alla scuola di specializzazione in ematologia clinica e di laboratorio, che muta la denominazione in quella di scuola di specializzazione in ematologia generale (clinica e laboratorio), sono soppressi e sostituiti dai seguenti:
 
-Art. 155. - Il primo comma, riguardante le tasse dovute per l'iscrizione e frequenza alle Scuole di specializzazione in Medicina e chirurgia, e' modificato nel senso che esse vengono fissate nella misura del 50% in piu' di quelle stabilite per il corso di laurea in Medicina e chirurgia.
+Art. 227. - Presso la facolta' di medicina e chirurgia dell'Universita' di Catania e' istituita una scuola di specializzazione in ematologia generale (clinica e laboratorio).
 
-Dopo l'art. 174, sono aggiunti i seguenti nuovi articoli concernenti le Scuole di specializzazione in "Medicina legale e delle assicurazioni" ed in "Malattie del sangue e del ricambio".
+Art. 228. - Il corso di studi della scuola di specializzazione in ematologia generale (clinica e laboratorio) ha la durata di tre anni.
 
-Scuola di specializzazione in Medicina legale e delle assicurazioni
+Gli articoli 242, 243, relativi alla scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio, sono soppressi e sostituiti dai seguenti:
 
-Art. 175. - Il corso degli studi della Scuola di specializzazione in Medicina legale e delle assicurazioni ha la durata di tre anni.
+Art. 242. - La scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio ha sede presso l'istituto di tisiologia e malattia dell'apparato respiratorio e conferisce il diploma di specialista in tisiologia e malattie dell'apparato respiratorio.
 
-La Scuola non puo' accogliere piu' di dieci iscritti per ciascun anno di corso.
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo a fuori ruolo di materia affine.
 
-Art. 176. - Gli insegnamenti impartiti nella Scuola sono i seguenti:
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
 
-1° anno:
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
 
-1) Medicina legale, penale e civile (1° corso);
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
 
-2) Medicina legale assicurativa (1° corso);
+Il numero massimo degli allievi e' di venticinque per anno di corso e complessivamente di cento iscritti per l'intero corso di studi.
 
-3) Elementi di diritto pubblico e privato;
+L'ammissione al corso avviene per titoli ed esami.
 
-4) Elementi di diritto penale e processuale penale;
+Art. 243. - Le materie di insegnamento sono le seguenti:
 
-5) Traumatologia forense (semeiotica) (1° corso);
+1° Anno:
 
-6) Tossicologia forense;
+anatomia e istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) I;
 
-7) Esami di laboratorio; microscopia clinica (1° corso).
+patologia della tubercolosi polmonare ed extrapolmonare;
 
-2° anno:
+patologia delle malattie dell'apparato respiratorio;
 
-1) Medicina legale, penale e civile (2° corso);
+fisiologia e fisiopatologia generale dell'apparato respiratorio;
 
-2) Medicina legale assicurativa (2° corso);
+semeiotica fisica e funzionale dell'apparato respiratorio;
 
-3) Legislazione del lavoro e delle assicurazioni;
+microbiologia;
 
-4) Elementi di matematica attuariale e tecnica delle assicurazioni;
+epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.
 
-5) Traumatologia forense (semeiotica) (2° corso);
+2° Anno:
 
-6) Infortunistica (tecnica degli accertamenti e valutazioni medico-legali);
+anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) II;
 
-7) Malattie del lavoro;
+clinica della tubercolosi (triennale) I;
 
-8) Esami di laboratorio: microscopia clinica (2° corso).
+clinica delle malattie dell'apparato respiratorio, (triennale) I;
 
-3° anno:
+fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;
 
-1) Infortunistica (tecnica degli accertamenti e valutazioni medico-legali) (2° corso);
+broncologia;
 
-2) Tecnica delle autopsie e diagnostica anatomopatologia;
+i radiologia dell'apparato respiratorio;
 
-3) Polizia scientifica medico-giudiziaria;
+profilassi della tubercolosi;
 
-4) Psicopatologia forense e antropologia criminale;
+igiene e legislazione sociale.
 
-5) Esami di laboratorio: microscopia clinica (3° corso).
+3° Anno:
 
-Scuola di specializzazione in malattie del sangue e del ricambio
+clinica delle malattie dell'apparato respiratorio (triennale) II;
 
-Art. 177. - E' istituita presso l'Istituto di patologia speciale medica e metodologia clinica dell'Universita' di Catania una Scuola di specializzazione in malattie del sangue e del ricambio.
+clinica della tubercolosi (triennale) II;
 
-Art. 178. - Direttore della Scuola sara' il direttore dell'Istituto di patologia medica dell'Universita' di Catania.
+chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;
 
-Art. 179. - La Scuola svolge un corso triennale alla fine del quale i candidati che avranno superato gli esami di profitto discuteranno una tesi scritta per il conseguimento del titolo di specialista in malattie del sangue e del ricambio.
+terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;
 
-Art. 180. - Sono ammessi alla Scuola non piu' di dieci laureati per ogni anno di corso.
+terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.
 
-L'ammissione al primo corso sara' fatta tutti gli anni su proposta del direttore della Scuola in base ai titoli o previo esame qualora i richiedenti meritevoli superassero il numero di dieci.
+4° Anno:
 
-Art. 181. - Possono essere ammessi direttamente al 2° anno, sempre che la disponibilita' dei posti lo consenta, i laureati in Medicina e chirurgia che abbiano prestato almeno tre anni di servizio in qualita' di assistente effettivo od incaricato in un istituto universitario di Clinica medica o di Patologia medica o Semeiotica medica od almeno cinque anni di aiuto effettivo in un reparto di Medicina interna di un ospedale di prima categoria. In via transitoria per il primo anno di funzionamento della Scuola, potranno essere ammessi direttamente al secondo anno i medici che abbiano prestato servizio di assistente volontario e di medico interno per almeno cinque anni negli istituti di Clinica medica e di Patologia medica o di Semeiotica medica della Universita' di Catania.
+clinica delle malattie dell'apparato respiratorio (triennale) III;
 
-Art. 182. - Gli insegnamenti impartiti nella Scuola sono:
+clinica della tubercolosi (triennale) III.
 
-1° anno:
+Gli insegnamenti complementari sono:
 
-1) Morfologia e morfogenesi normale e patologia del sangue;
+immunologia clinica;
 
-2) Biochimica ematologica;
+cardiologia;
 
-3) Metodologia ematologica;
+medicina nucleare;
 
-4) Anatomia e fisiologia generale dell'apparato digerente;
+malattie professionali dell'apparato respiratorio;
 
-5) Fisiologia generale del ricambio (1° corso).
+terapia intensiva pneumologica.
 
-2° anno:
+I corsi d'insegnamento sono integrati da conferenze, da esercitazioni pratiche, da seminari interdisciplinari (questi ultimi prevalentemente destinati al 4° anno) e da esercitazioni pratiche nei reparti per le quali gli allievi hanno l'obbligo di frequenza al pari delle lezioni.
 
-1) Fisiopatologia generale del ricambio (2° corso);
+Alla fine di ogni anno di corso gli allievi dovranno superare una prova di esame sulle materie del rispettivo anno.
 
-2) Immunoematologia;
-
-3) Anatomia e istologia patologica delle malattie del sangue e del ricambio;
-
-4) Patologia speciale e clinica delle malattie del sangue;
-
-5) Patologia speciale e clinica delle malattie del ricambio.
-
-3° anno:
-
-1) Diagnostica e terapia ematologica;
-
-2) Diagnostica e terapia delle malattie del ricambio;
-
-3) Radiodiagnostica e radioterapica delle malattie del sangue e del ricambio.
+Alla fine del 4° anno gli allievi dovranno sostenere l'esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione assegnata dal direttore della scuola o da uno degli insegnanti della scuola.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 9 marzo 1960
+Dato a Roma, addi' 11 maggio 1979
 
-GRONCHI
+PERTINI
 
-MEDICI
+SPADOLINI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MORLINO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 30 aprile 1960 Atti del Governo, registro n. 125, foglio n. 250. - VILLA
+alla Corte dei conti, addi' 28 settembre 1979 Registro n. 71 Istruzione, foglio n. 108
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), modificato con, regio decreto 16 ottobre 1940 e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Visto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 41. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di "Ottica fisiologica".  
-Art. 130. - All'elenco delle Scuole di specializzazione annesse alla Facolta' di medicina e chirurgia sono aggiunte quelle di "Medicina legale e delle assicurazioni" e di "Malattie del sangue e del ricambio".  
-Art. 155. - Il primo comma, riguardante le tasse dovute per l'iscrizione e frequenza alle Scuole di specializzazione in Medicina e chirurgia, e' modificato nel senso che esse vengono fissate nella misura del 50% in piu' di quelle stabilite per il corso di laurea in Medicina e chirurgia.  
-Dopo l'art. 174, sono aggiunti i seguenti nuovi articoli concernenti le Scuole di specializzazione in "Medicina legale e delle assicurazioni" ed in "Malattie del sangue e del ricambio".  
-  
-Scuola di specializzazione in Medicina legale e delle assicurazioni   
-Art. 175. - Il corso degli studi della Scuola di specializzazione in Medicina legale e delle assicurazioni ha la durata di tre anni.  
-La Scuola non puo' accogliere piu' di dieci iscritti per ciascun anno di corso.  
-Art. 176. - Gli insegnamenti impartiti nella Scuola sono i seguenti:  
-1° anno:  
-1) Medicina legale, penale e civile (1° corso);  
-2) Medicina legale assicurativa (1° corso);  
-3) Elementi di diritto pubblico e privato;  
-4) Elementi di diritto penale e processuale penale;  
-5) Traumatologia forense (semeiotica) (1° corso);  
-6) Tossicologia forense;  
-7) Esami di laboratorio; microscopia clinica (1° corso).  
-2° anno:  
-1) Medicina legale, penale e civile (2° corso);  
-2) Medicina legale assicurativa (2° corso);  
-3) Legislazione del lavoro e delle assicurazioni;  
-4) Elementi di matematica attuariale e tecnica delle assicurazioni;  
-5) Traumatologia forense (semeiotica) (2° corso);  
-6) Infortunistica (tecnica degli accertamenti e valutazioni medico-legali);  
-7) Malattie del lavoro;  
-8) Esami di laboratorio: microscopia clinica (2° corso).  
-3° anno:  
-1) Infortunistica (tecnica degli accertamenti e valutazioni medico-legali) (2° corso);  
-2) Tecnica delle autopsie e diagnostica anatomopatologia;  
-3) Polizia scientifica medico-giudiziaria;  
-4) Psicopatologia forense e antropologia criminale;  
-5) Esami di laboratorio: microscopia clinica (3° corso).  
-  
-Scuola di specializzazione in malattie del sangue e del ricambio  
-  
-Art. 177. - E' istituita presso l'Istituto di patologia speciale medica e metodologia clinica dell'Universita' di Catania una Scuola di specializzazione in malattie del sangue e del ricambio.  
-Art. 178. - Direttore della Scuola sara' il direttore dell'Istituto di patologia medica dell'Universita' di Catania.  
-Art. 179. - La Scuola svolge un corso triennale alla fine del quale i candidati che avranno superato gli esami di profitto discuteranno una tesi scritta per il conseguimento del titolo di specialista in malattie del sangue e del ricambio.  
-Art. 180. - Sono ammessi alla Scuola non piu' di dieci laureati per ogni anno di corso.  
-L'ammissione al primo corso sara' fatta tutti gli anni su proposta del direttore della Scuola in base ai titoli o previo esame qualora i richiedenti meritevoli superassero il numero di dieci.  
-Art. 181. - Possono essere ammessi direttamente al 2° anno, sempre che la disponibilita' dei posti lo consenta, i laureati in Medicina e chirurgia che abbiano prestato almeno tre anni di servizio in qualita' di assistente effettivo od incaricato in un istituto universitario di Clinica medica o di Patologia medica o Semeiotica medica od almeno cinque anni di aiuto effettivo in un reparto di Medicina interna di un ospedale di prima categoria. In via transitoria per il primo anno di funzionamento della Scuola, potranno essere ammessi direttamente al secondo anno i medici che abbiano prestato servizio di assistente volontario e di medico interno per almeno cinque anni negli istituti di Clinica medica e di Patologia medica o di Semeiotica medica della Universita' di Catania.  
-Art. 182. - Gli insegnamenti impartiti nella Scuola sono:  
-1° anno:  
-1) Morfologia e morfogenesi normale e patologia del sangue;  
-2) Biochimica ematologica;  
-3) Metodologia ematologica;  
-4) Anatomia e fisiologia generale dell'apparato digerente;  
-5) Fisiologia generale del ricambio (1° corso).  
-2° anno:  
-1) Fisiopatologia generale del ricambio (2° corso);  
-2) Immunoematologia;  
-3) Anatomia e istologia patologica delle malattie del sangue e del ricambio;  
-4) Patologia speciale e clinica delle malattie del sangue;  
-5) Patologia speciale e clinica delle malattie del ricambio.  
-3° anno:  
-1) Diagnostica e terapia ematologica;  
-2) Diagnostica e terapia delle malattie del ricambio;  
-3) Radiodiagnostica e radioterapica delle malattie del sangue e del ricambio.  
+Lo statuto dell'Universita' di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 176 - l'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola di specializzazione in ematologia clinica e di laboratorio muta la denominazione in quella di scuola di specializzazione in ematologia generale (clinica e laboratorio).  
+Gli articoli 227, 228, relativi alla scuola di specializzazione in ematologia clinica e di laboratorio, che muta la denominazione in quella di scuola di specializzazione in ematologia generale (clinica e laboratorio), sono soppressi e sostituiti dai seguenti:  
+Art. 227. - Presso la facolta' di medicina e chirurgia dell'Universita' di Catania e' istituita una scuola di specializzazione in ematologia generale (clinica e laboratorio).  
+Art. 228. - Il corso di studi della scuola di specializzazione in ematologia generale (clinica e laboratorio) ha la durata di tre anni.  
+Gli articoli 242, 243, relativi alla scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio, sono soppressi e sostituiti dai seguenti:  
+Art. 242. - La scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio ha sede presso l'istituto di tisiologia e malattia dell'apparato respiratorio e conferisce il diploma di specialista in tisiologia e malattie dell'apparato respiratorio.  
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo a fuori ruolo di materia affine.  
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.  
+Il numero massimo degli allievi e' di venticinque per anno di corso e complessivamente di cento iscritti per l'intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami.  
+Art. 243. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+anatomia e istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) I;  
+patologia della tubercolosi polmonare ed extrapolmonare;  
+patologia delle malattie dell'apparato respiratorio;  
+fisiologia e fisiopatologia generale dell'apparato respiratorio;  
+semeiotica fisica e funzionale dell'apparato respiratorio;  
+microbiologia;  
+epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.  
+2° Anno:  
+anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) II;  
+clinica della tubercolosi (triennale) I;  
+clinica delle malattie dell'apparato respiratorio, (triennale) I;  
+fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;  
+broncologia;  
+i radiologia dell'apparato respiratorio;  
+profilassi della tubercolosi;  
+igiene e legislazione sociale.  
+3° Anno:  
+clinica delle malattie dell'apparato respiratorio (triennale) II;  
+clinica della tubercolosi (triennale) II;  
+chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;  
+terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;  
+terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.  
+4° Anno:  
+clinica delle malattie dell'apparato respiratorio (triennale) III;  
+clinica della tubercolosi (triennale) III.  
+Gli insegnamenti complementari sono:  
+immunologia clinica;  
+cardiologia;  
+medicina nucleare;  
+malattie professionali dell'apparato respiratorio;  
+terapia intensiva pneumologica.  
+I corsi d'insegnamento sono integrati da conferenze, da esercitazioni pratiche, da seminari interdisciplinari (questi ultimi prevalentemente destinati al 4° anno) e da esercitazioni pratiche nei reparti per le quali gli allievi hanno l'obbligo di frequenza al pari delle lezioni.  
+Alla fine di ogni anno di corso gli allievi dovranno superare una prova di esame sulle materie del rispettivo anno.  
+Alla fine del 4° anno gli allievi dovranno sostenere l'esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione assegnata dal direttore della scuola o da uno degli insegnanti della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 marzo 1960
+### Dato a Roma, addi' 11 maggio 1979
 
-GRONCHI MEDICI
+PERTINI SPADOLINI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 30 aprile 1960
+Registrato alla Corte dei conti, addi' 28 settembre 1979
 
-Atti del Governo, registro n. 125, foglio n. 250. - VILLA
+Registro n. 71 Istruzione, foglio n. 108

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1984 n. 25
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 aprile 1982 n. 458
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1984 n. 25
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 aprile 1982 n. 458
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-25. Decreto del Presidente della Repubblica 10 gennaio 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato consistente in beni mobili e libretto di risparmio, per un valore di L. 25.593.393, disposto dalla sig.ra Terzoli Maria Petronilla a favore dell'istituto "Don Gnocchi", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale 20 novembre 1981 del consiglio di amministrazione della fondazione stessa, con testamento olografo 4 gennaio 1962, pubblicato in data 16 settembre 1981, n. 55778/7616 di repertorio, a rogito dott. Riccardo Ferrario, notaio in Milano, registrato a Milano il 22 settembre 1981 al n. 23394.  
+458. Decreto del Presidente della Repubblica 30 aprile 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un appartamento sito in Milano, via Pasubio n. 1, distinto nel nuovo catasto edilizio urbano alla partita 167802, foglio 311, mappale 16 sub 55, del valore attribuito con perizia di parte di L. 25.000.000, elevato dall'ufficio tecnico erariale di Milano a L. 37.800.000, disposto dal sig. Praderio Giuseppe a favore dell'istituto don Gnocchi "mutilatini", che si identificano con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione medesima in data 24 novembre 1979, con testamento olografo e codicilli vari del 30 gennaio 1979, pubblicato in data 15 ottobre 1979, n. 175410 di repertorio e n. 11555 di raccolta, a rogito dott. Pietro Villa, notaio in Milano, registrato a Milano il 19 ottobre 1979, al n. 26033.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 15 febbraio 1984  
-Registro n. 2 Presidenza, foglio n. 130
+Visto: il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 15 luglio 1982  
+Registro n. 6 Presidenza, foglio n. 369

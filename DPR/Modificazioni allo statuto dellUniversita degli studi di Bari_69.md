@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1094
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1969 n. 783
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1094
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1969 n. 783
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -12,80 +12,113 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;   
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;   
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
 Decreta:   
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appreso:   
   
-Dopo l'art. 267 sono istituiti i seguenti nuovi articoli relativi all'istituzione della scuola diretta a fini speciali per tecnici di audiometria.   
+Dopo l'art. 83 e con il conseguente spostamento della numerazione degli articoli successivi e' inserito il seguente nuovo articolo relativo all'istituzione, presso la facolta' di scienze matematiche, fisiche e naturali, del corso di laurea in scienze dell'informazione.   
   
-Scuola di preparazione per tecnici di audiometria (Scuola diretta a fini speciali)   
-Art. 268. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una scuola speciale di preparazione per tecnici di audiometria che ha sede presso la cattedra di bioacustica dell'Universita'.   
-Art. 269. - La durata del corso degli studi della scuola di preparazione per tecnici di audiometria e' di tre anni.   
-L'indirizzo e' teorico-pratico.   
-Il numero massimo complessivo degli iscritti alla scuola e' di quindici (cinque per anno di corso).   
-Art. 270. - Possono essere ammessi alla scuola coloro che siano in possesso del titolo di studio prescritto per l'ammissione all'Universita' o ad istituto di istruzione universitaria.   
-Gli aspiranti debbono nei termini regolamentari, presentare apposita domanda diretta al rettore e corredata dai prescritti documenti e sostenere un esame di ammissione che avra' luogo nei giorni stabiliti dal rettore con apposito manifesto.   
-Le domande di iscrizione ad anni successivi al primo vanno presentate nei termini regolamentari.   
-Art. 271. - Alla scuola si accede previo esame di cultura generale su argomenti facenti parte dei normali programmi dei licei e degli istituti di istruzione secondaria, con particolare riguardo alla parte dell'insegnamento di fisica acustica.   
-La commissione giudicatrice viene nominata dalla facolta' di medicina e chirurgia ed e' composta dal direttore della scuola, presidente, e da due membri scelti fra i professori di ruolo, incaricati, liberi docenti e cultori della materia.   
-Art. 272. - Il direttore della scuola e' un professore di bioacustica dell'Universita' di Bari.   
-Gli incarichi di insegnamento sono conferiti dal rettore su proposta del consiglio di facolta' di medicina e chirurgia, udito il direttore della scuola.   
-Art. 273. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria. La data di inizio e termine delle lezioni sono di regola eguali a quelle fissate per l'anno accademico. Tali date, tuttavia, possono essere spostate per ragioni speciali, inerenti la natura dei corsi.   
-Art. 274. - Le materie d'insegnamento sono:   
+Laurea in scienze dell'informazione   
+  
+Art. 84. - La durata del corso di studi per la laurea in scienze dell'informazione e' di quattro anni. Titolo di ammissione: diploma di maturita' classica, di maturita' scientifica, diploma di abilitazione per i provenienti dagli istituti tecnici industriali, nautici, agrari e per geometri.   
+Il corso degli studi si distingue in tre indirizzi: indirizzo generale, indirizzo tecnico, indirizzo applicativo.   
+Il primo biennio di studi e' comune ai tre indirizzi. La scelta dell'indirizzo viene fatta dallo studente all'atto della sua iscrizione al terzo anno di corso.   
+a) Sono insegnamenti fondamentali obbligatori per il primo biennio per tutti gli indirizzi:   
 1° Anno:   
-anatomia degli organi e dei sistemi audio-fono-articolatori;   
-fisiologia degli organi e dei sistemi audio-fono-articolatori; elementi di fisica acustica e tecnica di fonometria;   
-psicologia generale;   
-elementi di audiologia;   
-elementi di fonetica e di linguistica.   
+1) Analisi matematica I;   
+2) Algebra (semestrale);   
+3) Fisica I;   
+4) Geometria (semestrale);   
+5) Teoria e applicazione delle macchine calcolatrici.   
 2° Anno:   
-tecniche audiometriche I;   
-audiometria infantile;   
-neuropsichiatria infantile;   
-tecniche di esplorazione vestibolare;   
-audiometria di massa e prevenzione delle sordita'.   
-3° Anno:   
-tecniche audiometriche II;   
-patologia dell'udito, del linguaggio e dell'organo dell'equilibrio;   
-tecniche di protesizzazione acustica;   
-tecniche di audiometria obbiettiva;   
-elementi di logopedia.   
-L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni, e dall'obbligo per gli allievi dell'internato per un periodo di due anni nel reparto di bioacustica.   
-La frequenza viene comprovata dall'attestazione rilasciata dagli insegnanti sul libretto di iscrizione. L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.   
-Art. 275. - Le commissioni per gli esami di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola.   
-Le commissioni per gli esami di profitto sono composte di tre membri: il direttore della scuola, presidente, e da due insegnanti della scuola stessa. La commissione per gli esami di diploma e' costituita dal direttore della scuola stessa, e da altri docenti.  
-Ogni commissario ha a sua disposizione 10 punti. L'esame di diploma consiste, a scelta del candidato, o nella discussione di una tesi scritta su argomento riguardante le materie di insegnamento, eventualmente integrata da una prova pratica stabilita dalla commissione esaminatrice, o in un esame generale teorico-pratico.   
-I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola ma, se al secondo anno non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove. Agli allievi che avranno superato l'esame finale, verra' rilasciato il diploma di tecnico di audiometria.   
-Art. 276. - Per essere ammessi a frequentare gli anni di corso successivi al primo, gli iscritti debbono aver superato gli esami dell'anno precedente.   
-Alla fine del terzo anno di corso, per essere ammessi all'esame di diploma, gli iscritti debbono aver superato tutti gli esami prescritti.   
-Art. 277. - Gli esami di profitto e di diploma si danno in due sessioni; la prima, estiva, ha inizio subito dopo la chiusura annuale dei corsi e la seconda, autunnale, un mese innanzi il principio del nuovo anno accademico.   
-Art. 278. - Il consiglio di amministrazione dell'Universita', su proposta della direzione della scuola, approvata dal consiglio di facolta', stabilira' di anno in anno l'ammontare dei contributi.   
-Le tasse e soprattasse annuali a carico degli iscritti restano cosi' destinate:   
-  
-tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 15.000 soprattassa annuale di esami . . . . . . . . . . . . . . . . L. 7.000 tassa erariale di diploma. . . . . . . . . . . . . . . . . . L. 6.000 tassa annuale di iscrizione per studenti fuori corso . . . . L. 8.000   
-  
-Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni o contributi di enti pubblici o privati.   
+1) Analisi matematica II;   
+2) Calcolo delle probabilita' e statistica (semestrale;   
+3) Calcolo numerico (semestrale);   
+4) Fisica II;   
+5) Ricerca operativa e gestione aziendale;   
+6) Sistemi per l'elaborazione dell'informazione I.   
+b) Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi per il secondo biennio:   
+1) Metodi per il trattamento dell'informazione;   
+2) Sistemi per l'elaborazione dell'informazione II;   
+3) Teoria dell'informazione e della trasmissione.   
+Sono insegnamenti, fondamentali obbligatori:   
+a) per l'indirizzo generale:   
+1) Linguaggi formali e compilatori;   
+2) Metodi di approssimazione;   
+b) per l'indirizzo tecnico:   
+1) Tecniche numeriche e analogiche;   
+2) Teoria dei sistemi;   
+c) per l'indirizzo applicativo:   
+1) Teoria e metodi dell'ottimizzazione;   
+2) Economia ed organizzazione aziendale (semestrale);   
+3) Trattamento dell'informazione nell'impresa (semestrale).   
+L'indirizzo applicativo potra' avere vari orientamenti (gestione, controllo dei processi, progettazione automatica, istruzione programmata, meccanico-missilistico, ecc.) che la facolta' si riserva di fissare anno per anno nei piani di studio.   
+Per il secondo biennio sono anche previsti due corsi complementari annuali, o uno annuale e due semestrali, o quattro semestrali, stabiliti tra i seguenti:   
+1) Analisi e realizzazione dei sistemi;   
+2) Analisi numerica;   
+3) Bioelettronica;   
+4) Comunicazioni elettriche;   
+5) Controlli automatici;   
+6) Econometria;   
+7) Elaborazione dell'informazione non numerica;   
+8) Istituzioni di algebra;   
+9) Linguaggi di programmazione;   
+10) Linguaggi formali e compilatori;   
+11) Macchine calcolatrici numeriche e analogiche;   
+12) Matematica applicata;   
+13) Metodi di analisi numerica;   
+14) Metodi di approssimazione;   
+15) Ricerca operativa;   
+16) Riconoscimento automatico delle forme;   
+17) Sistemi operativi;   
+18) Tecnica di organizzazione delle informazioni;   
+19) Tecnica di progettazione automatica;   
+20) Tecnica di simulazioni;   
+21) Tecnica di documentazione automatica;   
+22) Tecnologia degli elaboratori elettronici;   
+23) Tecnologia degli elaboratori in tempo reale I (hardware);   
+24) Tecnologia degli elaboratori in tempo reale II (software);   
+25) Teoria degli algoritmi e della calcolabilita';   
+26) Teoria degli atomi;   
+27) Teoria dei codici;   
+28) Teoria dei grafici e tecniche decisionali;   
+29) Teoria dei sistemi;   
+30) Teoria della probabilita';   
+31) Teoria e metodi dell'ottimizzazione.   
+La facolta' si riserva di stabilire sul piano degli studi quali dei predetti corsi debbano considerarsi semestrali.   
+Gli insegnamenti fondamentali e complementari sono accompagnati ciascuno da un corso di esercitazioni che ne e' parte integrante.   
+Per tutti gli indirizzi la facolta' puo' introdurre nel piano degli studi quali complementari anche altri insegnamenti previsti dallo statuto dell'Universita' di Bari per la laurea in matematica e per la laurea in fisica.   
+Per l'indirizzo applicativo la facolta' puo' inoltre introdurre nel piano degli studi quali complementari anche altri insegnamenti impartiti presso le facolta' della Universita' di Bari.   
+I curricula per i vari indirizzi e per gli orientamenti vengono stabiliti dalla facolta' o approvati dalla stessa su proposta dello studente.   
+Per ottenere l'iscrizione al secondo biennio lo studente deve aver seguito i corsi e superato gli esami di almeno cinque materie annuali del primo biennio (due corsi semestrali sono valutati come un corso annuale).   
+Gli esami di analisi I e fisica I sono propedeutici rispettivamente agli esami di analisi II e fisica II e tutti gli esami del primo biennio sono propedeutici agli esami del secondo biennio.   
+Inoltre per poter sostenere gli esami del secondo biennio e' necessario aver superato la prova di conoscenza della lingua inglese, nonche' di un'altra lingua moderna straniera a scelta dello studente.   
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali e almeno di quattro fra i complementari se a corso semestrale, di almeno tre se uno di questi e' annuale e di almeno due se ambedue sono annuali.   
+Lo studente deve inoltre aver compiuto un anno di internato presso l'istituto ove svolge la tesi di laurea.   
+L'esame di laurea consiste nelle seguenti prove:   
+una prova di cultura generale nelle varie discipline del corso di studi seguito;   
+discussione di una tesi scritta.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1978
+### Dato a Roma, addi' 13 ottobre 1969
 
-PERTINI PEDINI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 28 agosto 1979
+Registrato alla Corte dei conti, addi' 6 novembre 1969
 
-Registro n. 66 Istruzione, foglio n. 90
+Atti del Governo, registro n. 230, foglio n. 12. - CARUSO

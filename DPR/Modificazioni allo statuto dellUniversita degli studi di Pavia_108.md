@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1982 n. 852
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1980 n. 256
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1982 n. 852
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1980 n. 256
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Pavia approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,11 +20,9 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio universitario nazionale nel proprio parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
@@ -33,39 +31,26 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 1
-------
-
-  
-Nell'art. 68, relativo al corso di laurea in scienze naturali, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-zoologia dei vertebrati;  
-zoogeografia.  
-
-Art. 2
-------
+Articolo unico
+--------------
 
   
-Nell'art. 69, relativo al corso di laurea in scienze biologiche, all'elenco degli insegnamenti complementari sono aggiunti i nuovi insegnamenti:  
-genetica di popolazioni;  
-immunogenetica;  
-zoologia dei vertebrati;  
-protozoologia;  
-palinologia;  
-farmacologia applicata;  
-biomatematica.  
+L'art. 50, relativo agli istituti annessi alla facolta' di economia e commercio, e' modificato nel senso che il punto 2) e' sostituito dal seguente:  
+"istituto di scienze economiche e statistiche, al quale fanno capo gli insegnamenti di economia politica, politica economica e finanziaria, scienze delle finanze e diritto finanziario, econometria, economia dei trasporti, contabilita' nazionale, organizzazione internazionale, statistica, statistica economica, demografia ed eventuali altri corsi di materie economiche che venissero in seguito deliberati;".  
+Il punto 6) viene soppresso.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 settembre 1982
+### Dato a Roma, addi' 11 marzo 1980
 
-PERTINI BODRATO
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 8 novembre 1982
+Registrato alla Corte dei conti, addi' 13 giugno 1980
 
-Registro n. 123 Istruzione, foglio n. 240
+Registro n. 55 Istruzione, foglio n. 33

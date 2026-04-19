@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1972 n. 246
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 settembre 1969 n. 824
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1972 n. 246
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 settembre 1969 n. 824
+================================================================
 
 Autorizzazione alla camera di commercio, industria, artigianato e agricoltura di L'Aquila ad acquistare un immobile.
 --------------------------------------------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-246. Decreto del Presidente della Repubblica 14 marzo 1972, col quale, sulla proposta del Ministro per l'industria, il commercio e l'artigianato, la camera di commercio, industria, artigianato e agricoltura di L'Aquila viene autorizzata ad acquistare dalla signora Di Carlo Lucia in Ciccozzi, un locale interrato dello edificio in corso di demolizione e conseguente ricostruzione per la sede camerale, posto in via del Guastatore, al prezzo di L. 1.600.000 ed alle altre condizioni previste nella [deliberazione n. 391 del 30 luglio 1971](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1971-07-30;391)
+824. Decreto del Presidente della Repubblica 16 settembre 1969, col quale, sulla proposta del Ministro per l'industria, il commercio e l'artigianato, la camera di commercio, industria, artigianato e agricoltura di L'Aquila viene autorizzata ad acquistare dal signor Gaetano Michele Gigotti un immobile, posto nel centro urbano di L'Aquila, via del Guastatore n. 7, al prezzo di L. 44.000.000.  
   
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti; addi' 12 giugno 1972  
-Atti del Governo, registro n. 249, foglio n. 56. - CARUSO
+Visto, il Guardasigilli: GAVA  
+Registrato alla Corte dei conti, addi' 17 novembre 1969  
+Atti del Governo, registro n. 230, foglio n. 51. - CARUSO

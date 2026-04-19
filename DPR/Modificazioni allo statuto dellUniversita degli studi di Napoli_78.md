@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1027
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 agosto 1968 n. 1491
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1027
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 agosto 1968 n. 1491
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -12,10 +12,10 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e, successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
@@ -26,31 +26,68 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 23. - All'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di:  
-Storia delle dottrine politiche.  
-L'art. 286 relativo alla scuola di perfezionamento in diritto amministrativo e scienze dell'amministrazione viene soppresso e sostituito dal seguente:  
+Art. 204, relativo agli istituti annessi alla facolta' di ingegneria e' modificato nel modo seguente:  
+L'istituto di impianti meccanici e' soppresso e pertanto gli insegnamenti di impianti meccanici e impianti tecnologici sono aggregati all'istituto di costruzioni di macchine;  
+L'istituto di disegno muta denominazione e assume quella di istituto di costruzioni edili.  
+Art. 245, relativo alle norme che regolano gli esami degli insegnamenti del corso di laurea in scienze agrarie, e' modificato nel senso che viene aggiunto il seguente nuovo comma:  
+"Il corso di chimica agraria (biennale) pur restando unito quanto all'insegnamento, che viene impartito da un unico docente, comporta due esami distinti, uno alla fine del primo anno e uno alla fine del secondo anno di corso".  
+Art. 262. - All'elenco degli insegnamenti complementari del corso di laurea in medicina veterinaria sono aggiunti quelli di:  
+Anestesiologia;  
+Biochimica;  
+Embriologia sperimentale;  
+Oftalmologia comparata sperimentale;  
+Tecnica conserviera degli alimenti di origine animale.  
+Dopo l'art. 524 e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli, relativi all'istituzione della scuola di specializzazione in difesa ed utilizzazione del suolo annessa alla facolta' di agraria.  
   
-Art. 286. - Il corso degli studi ha la durata di due anni, al termine del quale viene rilasciato un diploma di perfezionamento in diritto amministrativo e scienze dell'amministrazione. Il numero massimo degli iscritti e' di ottanta per ogni anno di corso. La frequenza e' obbligatoria.  
-L'art. 291 e' modificato nel senso che il 2° comma e' abrogato e sostituito dal seguente:  
+Scuola di specializzazione in difesa ed utilizzazione del suolo  
   
-"Esso dovra' comprendere per il 1° anno cinque materie fondamentali ed una complementare; e per il secondo anno quattro materie fondamentali ed una complementare".  
-Art. 309. - All'elenco degli insegnamenti complementari della scuola di perfezionamento in diritto civile e' aggiunto quello di:  
-Diritto fallimentare.  
-Gli articoli 329 e 330 relativi al corso di perfezionamento in diritto ecclesiastico e canonico sono abrogati e sostituiti dai seguenti:  
-  
-Art. 329. - Il richiedente l'ammissione alla scuola dovra' proporsi un proprio piano biennale di studi redatto conformemente alle proprie finalita' comprendente dieci dei sopraelencati insegnamenti, il quale sia stato approvato dal collegio dei professori ufficiali delle materie corrispondenti alle cattedre dello Istituto.  
-Art. 330. - La frequenza biennale alla scuola di perfezionamento, il superamento di cinque esami in ciascun anno di corso, o di un colloquio finale di cultura generale, nonche' la discussione di una tesi scritta su argomento assegnato dai docenti, daranno diritto al rilascio di un diploma di perfezionamento. La tesi deve mirare a risolvere e a contribuire a risolvere con contributi personali, una questione di rilevante interesse relativo ad uno dei campi di insegnamento.  
+Art. 525. - E' istituita, presso la facolta' di agraria, la scuola di specializzazione in difesa ed utilizzazione del suolo.  
+Art. 526. - I corsi hanno la durata di due anni, al termine dei quali viene rilasciato un diploma di specializzazione in difesa ed utilizzazione del suolo.  
+Art. 527. - Alla scuola sono ammessi i laureati in scienze agrarie e forestali. Il numero massimo degli allievi da ammettere alla scuola e' di dieci per ogni anno accademico.  
+Art. 528. - Il consiglio direttivo della scuola e' composto dai professori universitari di ruolo che insegnano nella scuola medesima.  
+Art. 529. - Il direttore della scuola e' eletto dai membri del consiglio direttivo della scuola fra i componenti del consiglio medesimo ed e' nominato con decreto del rettore. Rimane in carica per un biennio e puo' essere rieletto.  
+Art. 530. - Nella scuola si impartiscono i seguenti insegnamenti teorici ed esercitazioni pratiche:  
+Insegnamenti teorici:  
+Geologia applicata;  
+Topografia;  
+Catasto geometrico particellare;  
+Meteorologia ed idrologia;  
+Fisica del terreno;  
+Chimica del terreno;  
+Complementi di idraulica agraria;  
+Bonifica idraulica e irrigazione;  
+Sistemazione montane e collinari;  
+Sistemazione superficiale e scelta delle colture;  
+Selvicoltura e alpicoltura;  
+Complementi di meccanica agraria;  
+Complementi di economia ed estimo;  
+Riordinamento fondiario ed aziendale;  
+Miglioramento delle strutture agrarie.  
+Esercitazioni pratiche:  
+Apparecchiature e misure fisiche;  
+Analisi meccanica dei terreni;  
+Analisi chimica dei terreni;  
+Rilievi topografici;  
+Compilazione di carte;  
+Progetti;  
+Stime.  
+Per il conseguimento del diploma e' necessario aver superato gli esami relativi alle materie teoriche ed aver ottenuto l'attestazione di frequenza alle esercitazioni pratiche.  
+Art. 531. - La commissione per gli esami speciali, composta da tre professori della scuola, e' presieduta dal titolare della materia di esame. Il diploma viene conseguito attraverso la discussione di una dissertazione scritta, dinanzi all'intero consiglio direttivo della scuola.  
+Art. 532. - Gli incarichi di insegnamento delle singole discipline sono conferiti dal consiglio della facolta' su proposta del direttore della scuola, con l'approvazione del senato accademico e del consiglio di amministrazione dell'universita'.  
+Art. 533. - I programmi di insegnamento sono approvati all'inizio di ogni anno dal consiglio direttivo della scuola.  
+Art. 534. - Gli iscritti alla scuola sono tenuti a pagare le tasse, sopratasse e contributi secondo quanto stabilito per gli studenti della facolta' di agraria, e la tassa di diploma nella misura di L. 6000, ai sensi dello [art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
+Sono tenuti, altresi', a pagare un contributo speciale nella misura che sara' determinata annualmente dal consiglio di amministrazione, previo parere della facolta' su proposta del direttore della scuola.  
   
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato ad Antagnod, addi' 7 agosto 1968
 
-LEONE SCALFARO
+SARAGAT SCAGLIA
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 20 febbraio 1973
+Registrato alla Corte dei conti, addi' 15 marzo 1969
 
-Atti di Governo, registro n. 256, foglio n. 11. - VALENTINI
+Atti del Governo, registro n. 225, foglio n. 152. - GRECO

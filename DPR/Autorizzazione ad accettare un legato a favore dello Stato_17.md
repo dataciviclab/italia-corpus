@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1979 n. 921
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1986 n. 893
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1979 n. 921
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1986 n. 893
+=============================================================
 
 Autorizzazione ad accettare un legato a favore dello Stato.
 -----------------------------------------------------------
@@ -10,8 +10,11 @@ Autorizzazione ad accettare un legato a favore dello Stato.
 Art. 1
 ------
 
-N. 921 del Presidente della Repubblica 14 settembre 1979, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata la accettazione a favore dello Stato del legato disposto dal sig. Amedeo Bocchi con testamento olografo 30 novembre 1976, pubblicato in data 23 maggio 1977, n. 45303 di repertorio, a rogito avv. Franco Galiani, notaio in Roma, consistente in una raccolta di sei dipinti, i quali rivestono un importante interesse artistico e storico, da destinare alla Galleria nazionale in Parma.  
+n.
+
+893. Decreto del presidente della Repubblica 4 giugno 1986, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato del legato, consistente in un bicchiere d'argento con custodia di cuoio antico e con lo stemma della famiglia Troyli, il quale riveste un notevole interesse artistico, da destinare al Museo degli argenti di Palazzo Pitti, in Firenze, disposte dall'avv.  
+Goffredo Troyli con testamento olografo 10 aprile 1967, pubblicato in data 17 gennaio 1983, n. 88462/14021 di repertorio, a rogito dott. Sandro Scoccianti, notaio in Ancona.  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 30 maggio 1980  
-Registro n. 9 Beni culturali, foglio n. 122  
+Visto, il Guardasigilli: ROGNONI  
+Registrato alla Corte dei conti, addi' 15 dicembre 1956  
+Registro n. 35 Beni culturali, foglio n. 37

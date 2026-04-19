@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 aprile 1972 n. 564
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1969 n. 885
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 aprile 1972 n. 564
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1969 n. 885
+==============================================================
 
 Autorizzazione all'Associazione italiana della croce rossa ad accettare una eredita'.
 -------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-564. Decreto del Presidente della Repubblica 17 aprile 1972, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa viene autorizzata ad accettare l'eredita' disposta a favore del dipendente comitato provinciale di Bergamo dal dott. Marcello Schwarz con testamento olografo pubblicato per atto notaio Leidi di Bergamo in data 11 settembre 1967, rep. n. 9669, consistente nei seguenti immobili siti in Genova: 1) appartamento distinto al N.C.E.U., sez. Pra', foglio n. 12, mappale 292. sub. 11, ubicato in via Pra' n. 60/A/11, primo piano, vani 4; 2) nuda proprieta', con riserva di usufrutto a favore della signora Albertina Bertoldi dell'appartamento distinto al N.C.E.U., sez. Pra', foglio n. 12, mappale 292, sub. 16, ubicato in via Pra' n. 60/A/6, primo piano, vani 4, 5; 3) nuda proprieta', con riserva di usufrutto a favore della signora Amelia Sacco, dell'appartamento distinto al N.C.E.U., sezione Pegli, foglio n. 44, mappale 246 sub. 5, ubicato in via Zaccaria n. 4/2, piano terreno, vani 6; 4) nuda proprieta', con riserva di usufrutto a favore delle signore Gina e Bruna Francini, dell'appartamento distinto al N.C.E.U., sezione Pegli, foglio n. 44, mappale 227 sub. 33, ubicato in via N. da Recco n. 2, piano IV, vani 6; 5) appartamento distinto al N.C.E.U., sezione Pra', foglio n. 12, mappale 303 sub. 31, ubicato in via Murtola n. 5/B/31, piano V, vani 4; 6) nuda proprieta', con riserva di usufrutto a favore del sig. Cosimo Capriuolo, dell'appartamento distinto al N.C.E.U., sezione Apparizione, foglio n. 15, mappale 395, sub. 4, ubicato in via G. Dezza n. 29, piano 2°, vani 5. La suddetta eredita', costituita dalla proprieta' di sei appartamenti siti in Genova, su quattro dei quali e' stato disposto usufrutto a favore di altrettante persone, ha un valore complessivo oscillante tra L. 30.000.000 e L. 32.000.000.  
+885. Decreto del Presidente della Repubblica 15 ottobre 1969, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa, viene autorizzata ad accettare, con beneficio di inventario e con effetto dal 22 luglio 1961, l'eredita' con clausola di sostituzione fede commissaria disposta dal defunto Rasasco Giovanni risultante dal testamento olografo del 15 novembre 1954, depositato e pubblicato con verbale 26 marzo 1956, n. 5160 di repertorio, a rogito notar Abele Messuti, in Chiavari.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 2 ottobre 1972  
-Atti del Governo, registro n. 251, foglio n. 52. - CARUSO
+Visto, il Guardasigilli: GAVA  
+Registrato alla Corte dei conti, addi' 2 dicembre 1969  
+Atti del Governo, registro n. 230, foglio n. 95. - CARUSO

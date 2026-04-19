@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1952 n. 884
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1981 n. 711
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1952 n. 884
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1981 n. 711
+=============================================================
 
 Autorizzazione all'Universita' cattolica del Sacro Cuore di Milano ad accettare un legato.
 ------------------------------------------------------------------------------------------
@@ -12,8 +12,12 @@ Art. 1
 
 N.
 
-884. Decreto del Presidente della Repubblica 14 marzo 1952, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' cattolica del Sacro Cuore di Milano viene autorizzata ad accettare il legato di L. 300.000 disposto in suo favore della defunta signorina Serena Giselda, con testamento pubblico in data 15 gennaio 1951, per l'istituenda Facolta' di medicina e chirurgia.  
+711. Decreto del Presidente della Repubblica 31 luglio 1981, col quale, sulla proposta del Ministro della pubblica istruzione, l'Universita' cattolica del Sacro Cuore di Milano viene autorizzata ad accettare il legato, consistente della nuda proprieta' di:
+
+a) un podere agricolo in localita' "Verano" censito nel catasto rustico del comune di Podenzano (Piacenza) alla partita n. 150 foglio 29 mappali 17, 18, 19 e 47; foglio 34 mappali 19, 20; foglio 35 mappali 1, 2, 3, 4, 7, 8, 9 e 10 e partita n. 1297 foglio 29 mappale 46; foglio 35 mappali 11, 12, 14, 8, 24;
+
+b) fabbricato civile censito alla partita 79 foglio 35 mappale 13 sub 3 e mappale 12-13 sub 2 o 41 per un valore complessivo di L. 493.000.000, disposto dal dott. Vittore Buzzetti con testamento olografo 11 marzo 1976, pubblicato in data 11 aprile 1978, n. 11603/2816 di repertorio, a rogito dott. Luigi Giancani, notaio in Piacenza, da destinare per i fini istituzionali dell'Ateneo.  
   
-Visto, il Guardasigilli: ZOLI  
-Registrato alla Carte dei conti, addi' 9 luglio 1952  
-Atti del Governo, registro n. 55, foglio n. 92. - FRASCA
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 28 novembre 1981  
+Registro n. 117 Istruzione, foglio n. 137

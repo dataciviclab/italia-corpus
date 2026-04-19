@@ -1,54 +1,138 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1979 n. 822
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1968 n. 1685
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1979 n. 822
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1968 n. 1685
+===============================================================
 
 Modificazioni allo statuto della libera Universita' degli studi dell'Aquila.
 ----------------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto della libera Universita' degli studi dell'Aquila degli Abruzzi, approvato con [decreto del Presidente della Repubblica 18 agosto 1964, n. 921](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1964-08-18;921) e modificato con [decreto del Presidente della Repubblica 30 ottobre 1965, n. 1516](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-10-30;1516), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;.
-
-Veduta la [legge 11 aprile 1935, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-11;312);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici della libera Universita' degli studi dell'Aquila degli Abruzzi e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione di concerto con il Ministro del tesoro; Decreta:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-La tabella C, annessa allo statuto della libera Universita' degli studi dell'Aquila degli Abruzzi, concernente il ruolo organico del personale amministrativo, di biblioteca, tecnico ed ausiliario, e' soppressa e sostituita con la seguente:  
+Veduto lo statuto della libera Universita' degli studi dell'Aquila approvato con [decreto del Presidente della Repubblica 18 agosto 1964, n. 921](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1964-08-18;921), e modificato con [decreto del Presidente della Repubblica 30 ottobre 1965, n. 1516](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-10-30;1516), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione, di concerto con il Ministro per il tesoro;   
   
-----> Parte di provvedimento in formato grafico <----  
+Decreta:   
+  
+Lo statuto della libera Universita' degli studi dell'Aquila, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che la tabella C) annessa allo statuto e' abrogata e sostituita dalla seguente:   
+  
+TABELLA C   
+  
+Ruolo organico del personale amministrativo, di biblioteca, tecnico ed ausiliario   
+  
+Ruolo organico della carriera direttiva del personale amministrativo:   
+  
+  
+Posti Qualifica Coefficiente - - -  
+1 - Direttore amministrativo di 2ª classe 500  
+1 - Direttore di sezione................. 402  
+| Consigliere di 1ª classe............. 325  
+1 < Consigliere di 2ª classe............. 271  
+| Consigliere di 3ª classe............. 229  
+  
+  
+  
+Ruolo organico della carriera di concetto del personale amministrativo:   
+  
+  
+Posti Qualifica Coefficiente - - -  
+1 - Primo segretario..................... 325  
+| Segretario........................... 271  
+4 < Segretario aggiunto.................. 229  
+| Vice segretario...................... 202  
+  
+  
+Ruolo organico della carriera esecutiva di segreteria:   
+  
+  
+Posti Qualifica Coefficiente - - -  
+1 - Archivista capo...................... 271  
+1 - Primo archivista..................... 229  
+| Archivista........................... 202  
+6 < Applicato............................ 180  
+| Applicato aggiunto................... 157  
+  
+  
+Ruolo organico della carriera di ragioneria:   
+  
+  
+Posti Qualifica Coefficiente - - -  
+1 - Primo ragioniere..................... 325  
+| Ragioniere........................... 271  
+1 < Ragioniere aggiunto.................. 229  
+| Vice ragioniere...................... 202  
+  
+  
+  
+Ruolo organico della carriera direttiva del personale delle biblioteche:   
+  
+  
+Posti Qualifica Coefficiente - - -  
+| Bibliotecario di 3ª classe........... 325  
+1 < Bibliotecario aggiunto............... 271  
+| Vice bibliotecario................... 229  
+  
+  
+Ruolo organico della carriera di concetto del personale delle biblioteche:   
+  
+  
+Posti Qualifica Coefficiente - - -  
+1 - Aiuto bibliotecario principale....... 325  
+| Aiuto bibliotecario.................. 271  
+1 < Aiuto bibliotecario aggiunto......... 229  
+| Aiuto vice bibliotecario............. 202  
+  
+  
+Ruolo organico della carriera di concetto dei tecnici coadiutori:   
+  
+  
+Posti Qualifica Coefficiente - - -  
+| Tecnico coadiutore di 1ª classe...... 325  
+| Tecnico, coadiutore di 2ª classe..... 271  
+4 < Tecnico coadiutore di 3ª classe...... 229  
+| Tecnico coadiutore aggiunto.......... 202  
+  
+  
+  
+Ruolo organico della carriera esecutiva del personale tecnico:   
+  
+  
+Posti Qualifica Coefficiente - - -  
+| Tecnico di 1ª classe................. 229  
+| Tecnico di 2ª classe................. 202  
+8 < Tecnico di 3ª classe................. 180  
+| Tecnico in prova..................... 157  
+  
+  
+Ruolo organico del personale ausiliario:   
+  
+  
+Posti Qualifica Coefficiente - - -  
+| Usciere di 1ª classe................. 173  
+13 < Usciere di 2ª classe................. 159  
+| sciere di 3ª classe.................. 151  
+  
+  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto
-------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+### Dato a Roma, addi' 28 ottobre 1968
 
-Dato a Roma, addi' 27 giugno 1979 PERTINI SPADOLINI - PANDOLFI
+SARAGAT SCAGLIA - COLOMBO
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 8 marzo 1980
+Registrato alla Corte dei conti, addi' 29 settembre 1969
 
-Registro n. 18 Istruzione, foglio n. 129
+Atti del Governo, registro n. 229, foglio n. 62. - GRECO

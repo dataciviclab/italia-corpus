@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1964 n. 214
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 agosto 1972 n. 549
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1964 n. 214
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 agosto 1972 n. 549
 =============================================================
 
 Modificazioni alle tariffe telefoniche interurbane.
@@ -10,149 +10,213 @@ Modificazioni alle tariffe telefoniche interurbane.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Visto il Codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645);
+Visto il codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645), e successive modificazioni;
 
 Visto il [regio decreto 19 luglio 1941, n. 1198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-07-19;1198);
 
-Visto l'art. 49 delle convenzioni stipulate con le Societa' concessionarie del servizio telefonico ad uso pubblico, approvate con [decreti del Presidente della Repubblica 14 dicembre 1957, numeri 1405](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-12-14;1405), [1406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-12-14;1406), [1407](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-12-14;1407), [1409 e 28 dicembre 1957](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-12-28;1409), [n. 1408](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-12-28;1408);
+Vista la convenzione stipulata il 21 ottobre 1964 con la SIP - Societa' italiana per l'esercizio telefonico p. a., per la concessione di servizi telefonici ad uso pubblico, approvata con [decreto del Presidente della Repubblica 26 ottobre 1964, n. 1594](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1964-10-26;1594);
 
 Visto il [decreto del Presidente della Repubblica 22 settembre 1959, n. 770](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-09-22;770);
 
-Visto il decreto del Presidente della Repubblica 80 marzo 1961, n. 413;
+Visto il [decreto del Presidente della Repubblica 30 marzo 1961, n. 413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-03-30;413);
 
-Visto il [provvedimento del Comitato interministeriale dei prezzi n. 1069 del 14 aprile 1964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:comitato.interministeriale.prezzi:provvedimento:1964-04-14;1069);
+Visto il [decreto del Presidente della Repubblica 26 aprile 1964, n. 214](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1964-04-26;214);
+
+Visto il [decreto del Presidente della Repubblica 22 luglio 1965, n. 875](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-07-22;875);
+
+Visto il [decreto del Presidente della Repubblica 31 luglio 1965, n. 941](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-07-31;941);
+
+Vista la delibera del C.I.P.E. del 12 agosto 1972;
+
+Visto il provvedimento della giunta del [Comitato interministeriale dei prezzi n. 11 del 12 agosto 1972](http://www.normattiva.it/uri-res/N2Ls?urn:nir:comitato.interministeriale.prezzi::1972-08-12;11);
 
 Sentito il Consiglio dei Ministri;
 
 Sulla
 -----
 
-proposta del Ministro per le poste e le telecomunicazioni di concerto con il Ministro per il tesoro; Decreta:
+proposta del Ministro per le poste e le telecomunicazioni, di concerto con il Ministro per il tesoro; Decreta:
 
 Art. 1
 ------
 
   
-L'[art. 3 del decreto del Presidente della Repubblica 22 settembre 1959, n. 770](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-09-22;770~art3), parzialmente modificato dagli [articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-03-30;413~art2) e [3 del decreto del Presidente della Repubblica 30 marzo 1961, n. 413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-03-30;413~art3), e' sostituito dal seguente:  
-"La tariffa di ciascuna comunicazione settoriale, distrettuale od interdistrettuale, effettuata in teleselezione da utente con il sistema di conteggio unitario, viene applicata mediante l'invio al contatore dell'apparecchio richiedente del seguente numero di impulsi:  
-Numero  
-degli impulsi per ogni unita '  
-  
-a) comunicazioni settoriali......................... 2  
-b) comunicazioni distrettuali:  
-fino a 25 km..................................... 5  
-da oltre 25 km. fino a 50 km..................... 7  
-oltre 50 km...................................... 12  
-c) comunicazioni interdistrettuali:  
-(escluse quelle di cui alla lettera d)  
-fino a 50 km..................................... 9  
-da oltre 50 km. fino a 100 km.................... 14  
-da oltre 100 km. fino a 200 km................... 18  
-da oltre 200 km. fino a 400 km................... 23  
-da oltre 400 km. fino a 600 km................... 26  
-oltre 600 km..................................... 28  
-d) comunicazioni interdistrettuali fra settori  
-coniugi di distretti diversi e fra distretti con  
-tigui i cui rispettivi centri siano a distanza  
-tariffaria non superiore a 25 km., purche in en  
-trambi i casi la lunghezza dei circuiti interur  
-bani impegnati non superi i 100 km.:  
-fino a 50 km..................................... 7  
-da oltre 50 km. fino a 100 km.................... 12  
-Valore di ciascun impulso: L. 15.  
-  
-La tariffa di ciascuna comunicazione settoriale, distrettuale od interdistrettuale effettuata in teleselezione da utente con il sistema di conteggio ritmico, viene applicata mediante l'invio al contatore dell'apparecchio richiedente del numero di impulsi indicato nella seguente tabella:  
-Ritmo  
-Numero degli impulsi degli Impulsi durante la alla risposta comunicazione dell'utente -  
-chiamato secondi  
-  
-a) comunicazioni settoriali.............. 1 60  
-b) comunicazioni distrettuali:  
-fino a 25 km.......................... 1 25  
-da oltre 25 km. fino a 50 km.......... 2 17,5  
-oltre 50 km........................... 2 10  
-c) comunicazioni interdistrettuali  
-(escluse quelle di cui alla lettera  
-d)  
-fino a 50 km.......................... 2 14  
-da oltre 50 km. fino a 100 km......... 2 10  
-da oltre 100 km. fino a 200 km........ 4 7,5  
-da oltre 200 km. fino a 400 km........ 4 6  
-da oltre 400 km. fino a 600 km........ 4 5  
-oltre 600 km.......................... 4 5  
-d) comunicazioni interdistrettuali  
-fra settori contigui di distretti di  
-versi e fra distretti contigui i cui  
-rispettivi centri siano a distanza ta  
-riffaria non superiore a 25 km., pur  
-che in entrambi i casi la lunghezza  
-dei circuiti interurbani impegnati non  
-superi i 100 Km.:  
-fino a 50 km.......................... 2 17,5  
-da oltre 50 km. fino a 100 km......... 2 10  
-Valore di ciascun impulso: L. 15".  
+La tariffa per le comunicazioni che si svolgono fra le reti urbane dello stesso settore (comunicazioni settoriali) e' stabilita in misura unica indipendentemente dalla distanza.  
+Le reti che abbiano tutti i capoluoghi comunali, facenti parte della rete stessa, a meno di 10 km. di distanza dal centro di settore, sono considerate, a tutti gli effetti come appartenenti alla rete del centro di settore.  
+Per le comunicazioni che si svolgono tra settori diversi (interurbane), le distanze, ai fini dell'applicazione della tariffa, vengono misurate in linea d'aria:  
+tra i centri di distretto, per le comunicazioni scambiate tra i distretti i cui centri distino oltre 100 km., purche' tutte le distanze tra i rispettivi centri di settore siano superiori a 60 km.; tra i centri di settore per tutte le restanti comunicazioni.  
+Fanno testo le distanze in linea d'aria determinate sulla base degli elementi di calcolo forniti dall'Istituto geografico militare tra le residenze municipali dei comuni sede dei centri telefonici sopradetti. Questi centri sono stabiliti dal piano regolatore telefonico nazionale, approvato con decreto ministeriale 27 luglio 1970.  
+Per le isole, sede di un centro di settore che disti piu' di 15 km. dal relativo centro di distretto, posto fuori dell'isola stessa, l'ubicazione del centro di settore agli effetti della misura delle distanze per l'applicazione delle tariffe interurbane viene spostata sulla congiungente i due centri anzidetti a 15 km. dal centro di distretto.  
 
 Art. 2
 ------
 
   
-All'[art. 4 del decreto del Presidente della Repubblica 30 marzo 1961, n. 413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-03-30;413~art4), si aggiunge il seguente comma:  
-"Per le comunicazioni distrettuali od interdistrettuali effettuate in teleselezione da utente con il sistema di conteggio ritmico si applicano, con decorrenza 1 luglio 1961, le seguenti tariffe ridotte valevoli nei giorni festivi e nel periodo dalle ore ventitre alle ore sette dei giorni feriali:  
-Ritmo  
-Numero degli impulsi degli Impulsi durante la alla risposta comunicazione dell'utente -  
-chiamato secondi  
+La tariffa ordinaria di ciascuna comunicazione settoriale ed interurbana effettuata in teleselezione da utente si applica mediante l'invio al contatore dell'apparecchio richiedente del numero degli impulsi indicato nella tabella seguente (valore di ciascun impulso L. 25):  
+Numero Ritmo  
+di impulsi degli impulsi alla risposta durante la  
+dell'utente comunicazione chiamato (secondi)  
   
-a) comunicazioni distrettuali:  
-fino a 25 km.......................... 1 50  
-da oltre 25 km. fino a 50 km......... 2 35  
-oltre 50 km........................... 2 20  
-b) comunicazioni interdistrettuali:  
-(escluse quelle di cui alla lettera  
-e)  
-fino a 50 km.......................... 2 28  
-da oltre 50 km. fino a 100 Km......... 2 20  
-da oltre 100 km. fino a 200 km........ 4 15  
-da oltre 200 km. fino a 400 km........ 4 12  
-da oltre 400 km. fino a 600 km........ 4 10  
-oltre 600 km.......................... 4 10  
-c) comunicazioni interdistrettuali fra  
-settori contigui di distretti diversi  
-e fra distretti contigui i cui rispet  
-tivi centri siano a distanza tariffa  
-ria non superiore a 25 km., purche in  
-entrambi i casi la lunghezza dei cir  
-cuiti interurbani impegnati non superi  
-i 100 km.:  
-fino a 50 km.......................... 2 85  
-da oltre 50 km. fino a 100 km......... 2 20  
-Valore di ciascun impulso: L. 15".  
+Comunicazioni settoriali . . . . . . 1 120  
+  
+Comunicazioni interurbane:  
+sino a 15 km. . . . . . . . . . . 1 60  
+da oltre 15 fino a 30 km. . . . . 1 32  
+da oltre 30 fino a 60 km. . . . . 1 17,5  
+da oltre 60 fino a 120 km. . . . . 1 12  
+da oltre 120 fino a 240 km. . . . 1 9  
+oltre 240 km. . . . . . . . . . . 1 8  
 
 Art. 3
 ------
 
   
-Gli [articoli 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-09-22;770~art5) e [7 del decreto del Presidente della Repubblica 22 settembre 1959, n. 770](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-09-22;770~art7), sono sostituiti dai seguenti:  
-"Art. 5. - La tariffa per le comunicazioni nello ambito della rete urbana, effettuate da posti pubblici o da apparecchi a prepagamento, e' stabilita in L. 45 per ogni conversazione.  
-Per le comunicazioni in partenza da od in arrivo a posto telefonico pubblico impegnanti linee settoriali, distrettuali, od interdistrettuali, oltre alla relativa tariffa extraurbana e' dovuta, per ogni comunicazione, la tariffa di cui al comma precedente.  
-Per le comunicazioni in partenza da e in arrivo a posto telefonico pubblico nell'ambito del settore la tariffa di cui al primo comma e' applicata una sola volta".  
-"Art. 7. - Le comunicazioni distrettuali ed interdistrettuali tramite operatrice, richieste con la qualifica di "urgente", sono soggette ad una tariffa pari al doppio della tariffa ordinaria al netto della soprattassa di cui all'art. 6 che resta invariata".  
+Le tariffe per le comunicazioni tramite operatrice sono composte da una quota fissa per ogni comunicazione, pari a L. 125, cui si aggiungono le quote seguenti per ogni unita' di 3 minuti di comunicazione:  
+Comunicazioni settoriali . . . . . . . . . . . . . . . . . L. 30   
+Comunicazioni interurbane:  
+sino a 15 km. . . . . . . . . . . . . . . . . . . . . . " 50 da oltre 15 fino a 30 km. . . . . . . . . . . . . . . . " 100 da oltre 30 fino a 60 km. . . . . . . . . . . . . . . . " 175 da oltre 60 fino a 120 km. . . . . . . . . . . . . . . . " 250 da oltre 120 fino a 240 km. . . . . . . . . . . . . . . " 325 oltre 240 km. . . . . . . . . . . . . . . . . . . . . . " 400   
+La quota fissa di cui sopra e' dovuta anche per le comunicazioni urbane stabilite tramite operatrice.  
 
 Art. 4
 ------
 
   
-Le disposizioni del presente decreto, salvo quanto previsto nell'art. 2, si applicano dal 1 maggio 1961.  
+Le tariffe ridotte relative alle comunicazioni teleselettive interurbane effettuate dalle ore 0 alle 8 e dalle ore 20,30 alle 24 dei giorni feriali, dalle ore 0 alle ore 8 e dalle 13 alle 24 del sabato, dalle ore 0 alle 24 dei giorni festivi sono cosi' fissate (valore dell'impulso L. 25):  
+Numero Ritmo  
+di impulsi degli impulsi alla risposta durante la  
+dell'utente comunicazione chiamato (secondi)  
+  
+sino a 15 km. . . . . . . . . . . . 1 120  
+da oltre 15 fino a 30 km. . . . . . 1 64  
+da oltre 30 fino a 60 km. . . . . . 1 35  
+da oltre 60 fino a 120 km. . . . . . 1 24  
+da oltre 120 fino a 240 km. . . . . 1 18  
+oltre 240 km. . . . . . . . . . . . 1 16  
+
+Art. 5
+------
+
+  
+Le tariffe ridotte relative alle comunicazioni interurbane tramite operatrice effettuate in partenza dai posti telefonici pubblici dalle ore 0 alle 8 e dalle ore 20,30 alle 24 dei giorni feriali, dalle ore 0 alle 8 e dalle 13 alle 24 del sabato, dalle ore 0 alle 24 dei giorni festivi, sono composte da una quota fissa per ogni comunicazione, pari a L. 60, cui si aggiungono le quote seguenti per ogni unita' di 3 minuti di comunicazione:  
+sino a 15 km. . . . . . . . . . . . . . . . . . . . . . . L. 25 da oltre 15 km. fino a 30 km. . . . . . . . . . . . . . . " 50 da oltre 30 km. fino a 60 km. . . . . . . . . . . . . . . " 85 da oltre 60 km. fino a 120 km. . . . . . . . . . . . . . . " 125 da oltre 120 km. fino a 240 km. . . . . . . . . . . . . . " 160 oltre 240 km. . . . . . . . . . . . . . . . . . . . . . . " 200
+
+Art. 6
+------
+
+  
+L'utente ha facolta' di avvalersi, a sua scelta, del servizio tramite operatrice o di quello in teleselezione.  
+
+Art. 7
+------
+
+  
+Per i circuiti extraurbani nazionali eventualmente necessari per la realizzazione delle derivazioni esterne, collegamenti a centrali interurbane o speciali, collegamenti diretti in genere; si applicano - in relazione alla distanza tariffaria tra i punti estremi - i canoni annui seguenti:  
+Circuiti settoriali . . . . . . . . . . . . . . . . . L. 600.000   
+Circuiti interurbani:  
+sino a 15 km. . . . . . . . . . . . . . . . . . . . " 990.000 da oltre 15 fino a 30 km. . . . . . . . . . . . . . " 1.980.000 da oltre 30 fino a 60 km. . . . . . . . . . . . . . " 3.465.000 da oltre 60 fino a 120 km. . . . . . . . . . . . . " 4.950.000 da oltre 120 fino a 240 km. . . . . . . . . . . . . " 6.435.000 oltre 240 km. . . . . . . . . . . . . . . . . . . . " 7.920.000
+
+Art. 8
+------
+
+  
+La tariffa per ciascuna conversazione nell'ambito della rete urbana, effettuata da telefono a disposizione del pubblico, e' stabilita in L. 50.  
+A ciascuna conversazione extraurbana in partenza da telefono a disposizione del pubblico, si applica, oltre alla relativa tariffa extraurbana la tariffa di cui al comma precedente.  
+Le tariffe di cui ai commi precedenti si applicano anche alle comunicazioni effettuate da apparecchio destinato ad essere utilizzato dal pubblico in alberghi e pensioni ufficialmente riconosciuti.  
+
+Art. 9
+------
+
+  
+La soprattassa prevista dall'art. 224 del codice postale e delle telecomunicazioni e' stabilita per le conversazioni interurbane nazionali nella misura di L. 20 per ogni conversazione effettuata dal domicilio degli abbonati e dai telefoni a disposizione del pubblico.  
+Di tale soprattassa, gia' compresa nelle tariffe di cui ai precedenti articoli del presente decreto, spetta all'Azienda di Stato per i servizi telefonici una quota di L. 5, che verra' acquisita dall'Azienda medesima nel proprio bilancio, fermi restando i contributi previsti dall'[art. 36 della legge 12 marzo 1968, n. 325](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-12;325~art36).  
+
+Art. 10
+-------
+
+  
+Quando una conversazione tramite operatrice non ha luogo perche', al momento in cui e' stabilito il collegamento, il richiesto o il richiedente non risponde, e' dovuto un importo pari a L. 125.  
+Il richiedente, che rinunzi espressamente al collegamento prima che sia trascorsa un'ora dalla richiesta, dovra' corrispondere un importo pari a L. 125.  
+
+Art. 11
+-------
+
+  
+Per l'invio di un preavviso telefonico, destinato a prefissare una conversazione con un abbonato, il richiedente dovra' pagare un importo pari a L. 125.  
+Per l'invio di un avviso telefonico, destinato a prefissare una conversazione con una persona non abbonata al telefono, e' dovuta, oltre a quanto indicato nel precedente comma, la tassa di recapito dell'avviso per espresso al domicilio indicato, prevista dall'[art. 1 del decreto luogotenenziale 2 aprile 1946, n. 392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-02;392~art1).  
+
+Art. 12
+-------
+
+  
+Gli importi di L. 125, di cui ai precedenti articoli 10 e 11 vengono ridotti a L. 60 quando si riferiscono a comunicazioni richieste presso i posti telefonici pubblici nei periodi orari nei quali vigono le tariffe ridotte previste dal precedente art. 5.  
+
+Art. 13
+-------
+
+  
+Ai fini tariffari gli aeroporti civili si considerano inclusi nelle reti urbane delle rispettive citta'.  
+
+Art. 14
+-------
+
+  
+Gli abbonati collegati ad una centrale equipaggiata per la documentazione del traffico interurbano ed internazionale, che viene fornita mediante periodica distinta delle comunicazioni effettuate, sono tenuti a corrispondere un compenso di L. 15 per ogni comunicazione documentata.  
+
+Art. 15
+-------
+
+  
+  
+Le disposizioni del presente decreto si applicano a partire dal 1 ottobre 1972 ad eccezione delle norme degli articoli 1 (secondo comma), 2 e 4, le quali entreranno in vigore al momento dell'avvenuta modifica agli impianti e comunque non oltre il termine ultimo del 1 agosto 1973.   
+Per la materia regolata dai summenzionati articoli 2 e 4, avranno vigore, fino alla avvenuta modifica agli impianti, le norme transitorie seguenti:   
+a) la tariffa ordinaria di ciascuna comunicazione settoriale ed interurbana effettuata in teleselezione da utente si applica mediante l'invio, al contatore dell'apparecchio richiedente, del numero degli impulsi indicato nella tabella seguente (valore di ciascun impulso L. 25):   
+  
+  
+Numero Ritmo  
+di impulsi degli impulsi alla risposta durante la  
+dell'utente comunicazione chiamato (secondi)  
+  
+Comunicazioni settoriali . . . . . . 1 120  
+Comunicazioni distrettuali . . . . . 1 32  
+  
+Comunicazioni interurbane:  
+sino a 30 km . . . . . . . . . . . 1 32  
+da oltre 30 fino a 60 km. . . . . 1 17,5  
+da oltre 60 fino a 130 km. . . . . 1 12  
+da oltre 130 fino a 250 km. . . . 1 9  
+oltre 250 km. . . . . . . . . . . 1 8  
+  
+  
+  
+b) le tariffe ridotte relative alle comunicazioni teleselettive interurbane effettuate dalle ore 0 alle 8 e dalle ore 20,30 alle 24 dei giorni feriali, dalle ore 0 alle ore 8 e dalle ore 13 alle 24 del sabato, dalle ore 0 alle 24 dei giorni festivi, sono cosi' fissate (valore dell'impulso L. 25):   
+  
+  
+Numero Ritmo  
+di impulsi degli impulsi alla risposta durante la  
+dell'utente comunicazione chiamato (secondi)  
+  
+Distrettuali . . . . . . . . . . . . 1 64  
+  
+Interdistrettuali:  
+sino a 30 km. . . . . . . . . . . 1 64  
+da oltre 30 fino a 60 km. . . . . 1 35  
+da oltre 60 fino a 130 km. . . . . 1 24  
+da oltre 130 fino a 250 km. . . . 1 18  
+oltre 250 km. . . . . . . . . . . 1 16  
+  
+  
+  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1964
+### Dato a Roma, addi' 28 agosto 1972
 
-SEGNI MORO - RUSSO - COLOMBO
+LEONE ANDREOTTI - GIOIA - MALAGODI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 23 aprile 1964
+Registrato alla Corte dei conti, addi' 27 settembre 1972
 
-Atti del Governo, registro n. 183, foglio n. 21. - VILLA
+Atti del Governo, registro n. 251, foglio n. 50. - VALENTINI

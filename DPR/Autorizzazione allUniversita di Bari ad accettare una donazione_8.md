@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1954 n. 212
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 marzo 1954 n. 756
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1954 n. 212
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 marzo 1954 n. 756
+============================================================
 
 Autorizzazione all'Universita' di Bari ad accettare una donazione.
 ------------------------------------------------------------------
@@ -12,8 +12,10 @@ Art. 1
 
 N.
 
-212. Decreto del Presidente della Repubblica 26 gennaio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Bari viene autorizzata ad accettare la donazione di un elettrocardiografo a penna scrivente del valore di L. 500.000, disposta in suo favore, per uso della clinica medica, dal prof. Virgilio Chini, con atto pubblico amministrativo 31 dicembre 1952, n. 84 di repertorio.  
+756. Decreto del Presidente della Repubblica 23 marzo 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Bari viene autorizzata ad accettare la donazione di lire 200.000 in contanti, disposta in suo favore dal prof.  
+Saverio La Sorsa, con atto pubblico amministrativo in data 31 dicembre 1952, per l'istituzione, con la rendita del capitale donato, di un premio di studio intitolato "Premio capitano dott.  
+Fulvio La Sorsa" e da conferirsi, annualmente e per concorso, alla migliore tesi di laurea in ostetricia.  
   
 Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte del conti, addi' 15 maggio 1954  
-Atti del Governo, registro n. 83, foglio n. 60. - CARLOMAGNO
+Registrato alla Corte del conti, addi' 25 agosto 1954  
+Atti del Governo, registro n. 85, foglio n. 86. - TEMPESTA

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 agosto 1986 n. 847
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 luglio 1985 n. 837
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 agosto 1986 n. 847
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 luglio 1985 n. 837
 =============================================================
 
 Assegnazione di un posto di tecnico laureato presso l'Universita' degli studi di Reggio Calabria.
@@ -10,10 +10,10 @@ Assegnazione di un posto di tecnico laureato presso l'Universita' degli studi di
 Art. 1
 ------
 
-N.
+n.
 
-847. Decreto del Presidente della Repubblica 29 agosto 1986, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato alla cattedra di clinica chirurgica della facolta' di medicina e chirurgia dell'Universita' di Reggio Calabria.   
+837. Decreto del Presidente della Repubblica 17 luglio 1985, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato alla cattedra di farmacologia della facolta' di medicina e chirurgia dell'Universita' di Reggio Calabria.  
   
-Visto, il Guardasigilli: ROGNONI   
-Registrato alla Corte dei conti, addi' 2 dicembre 1986   
-Registro n. 87 Istruzione, foglio n. 19
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 21 gennaio 1986  
+Registro n. 2 Istruzione, foglio n. 118

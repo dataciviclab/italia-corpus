@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 716
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 813
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 716
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 813
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Siena.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831), e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,344 +20,303 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli 138, 139 e 140, relativi alla scuola di specializzazione in urologia, sono soppressi e sostituiti dai seguenti:
+Dopo l'art. 167 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia:
 
-Scuola di specializzazione in urologia
+Scuola di specializzazione in chirurgia
 
-Art. 138. - La scuola di specializzazione in urologia ha sede presso l'istituto di semeiotica chirurgica e conferisce il diploma di specialista in urologia.
+Art. 168. - Presso gli istituti di clinica chirurgica generale, di patologia speciale chirurgica e di semeiotica chirurgica e' istituita la scuola di specializzazione in chirurgia.
 
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+Il direttore della scuola sara' nominato dal consiglio di facolta' fra i direttori degli istituti di clinica chirurgica, patologia chirurgica e di semeiotica chirurgica.
 
-Possono iscriversi alla scuola tutti i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+La scuola di specializzazione in chirurgia conferisce il diploma di specialista in chirurgia.
 
-La durata del corso di studi e' di 5 anni e non e' suscettibile di abbreviazione.
+Alla scuola possono iscriversi soltanto i laureati in medicina e chirurgia.
 
-Il numero massimo degli allievi e' di 9 per anno di corso e complessivamente di 45 iscritti per l'intero corso di studi.
+Art. 169. - Gli anni necessari per il conseguimento del diploma sono cinque.
 
-L'ammissione al corso avviene per titoli ed esami.
+Il numero complessivo degli iscritti e' di 30 per tutti i cinque anni di corso.
 
-Art. 139. - Le materie d'insegnamento e gli esami sono i seguenti:
+La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base di titoli ed esami.
 
-=====================================================================
+Non sono consentite iscrizioni con abbreviazione di corso.
 
-Insegnamenti | Esami
+Art. 170. - Le materie del corso sono le seguenti:
 
-=====================================================================
+1) Anatomia chirurgica e corso di operazioni (triennale);
 
-Primo anno |Primo anno
+2) Anatomia e istologia patologica (biennale);
 
----------------------------------------------------------------------
+3) Anestesia e rianimazione;
 
-1) Anatomia sistematica e |1) Anatomia sistematica e
+4) Chirurgia cardiovascolare;
 
-topografica dell'apparato urinario|topografica dell'apparato urinario
+5) Chirurgia d'urgenza;
 
-e genitale maschile |e genitale maschile
+6) Chirurgia ginecologica;
 
----------------------------------------------------------------------
+7) Chirurgia pediatrica;
 
-2) Fisiologia dell'apparato |2) Fisiologia dell'apparato
+8) Chirurgia riparativa e plastica;
 
-urinario e genitale maschile |urinario e genitale maschile
+9) Chirurgia sperimentale;
 
----------------------------------------------------------------------
+10) Chirurgia toracica;
 
-3) Batteriologia in urologia |3) Batteriologia in urologia
+11) Chirurgia urologica;
 
----------------------------------------------------------------------
+12) Clinica chirurgica generale (quinquennale);
 
-4) Semeiotica funzionale e |
+13) Fisiopatologia chirurgica;
 
-strumentale dell'apparato |
+14) Medicina legale;
 
-uro-genitale I |
+15) Neurochirurgia;
 
----------------------------------------------------------------------
+16) Patologia speciale chirurgica (triennale);
 
-Secondo anno |Secondo anno
+17) Radiologia;
 
----------------------------------------------------------------------
+18) Ricerche di laboratorio;
 
-1) Semeiotica funzionale e |1) Semeiotica funzionale e
+19) Semeiotica chirurgica (biennale);
 
-strumentale dell'apparato |strumentale dell'apparato
+20) Semeiotica strumentale ed endoscopia;
 
-uro-genitale II |uro-genitale
+21) Trattamento pre e post-operatorio;
 
----------------------------------------------------------------------
+22) Traumatologia ed ortopedia.
 
-2) Le nefropatie mediche |2) Le nefropatie mediche
+Le materie sopraelencate sono cosi' distribuite:
 
----------------------------------------------------------------------
+1° Anno:
 
-3) Anatomia chirurgica |3) Anatomia chirurgica
+Clinica chirurgica generale 1°;
 
-dell'apparato urinario e genitale |dell'apparato urinario e genitale
+Patologia speciale chirurgica 1°;
 
-maschile |maschile
+Semeiotica chirurgica 1°;
 
----------------------------------------------------------------------
+Anatomia chirurgica e corso di operazioni 1°;
 
-4) Patologia dell'apparato |
+Chirurgia sperimentale;
 
-urinario e genitale maschile I |
+Anestesia e rianimazione;
 
----------------------------------------------------------------------
+Ricerche di laboratorio.
 
-5) Radiologia dell'apparato |
+2° Anno:
 
-urinario e genitale maschile I |
+Clinica chirurgica generale 2°;
 
----------------------------------------------------------------------
+Patologia speciale chirurgica 2°;
 
-Terzo anno |Terzo anno
+Semeiotica chirurgica 2°;
 
----------------------------------------------------------------------
+Anatomia chirurgica e corso di operazioni 2°;
 
-1) Patologia dell'apparato |1) Patologia dell'apparato
+Fisiopatologia chirurgica;
 
-urinario e genitale maschile II |urinario e genitale maschile
+Trattamento pre e post-operatorio;
 
----------------------------------------------------------------------
+Anatomia e istologia patologica 1°.
 
-2) Radiologia dell'apparato |2) Radiologia dell'apparato
+3° Anno:
 
-urinario e genitale maschile II |urinario e genitale maschile
+Clinica chirurgica generale 3°;
 
----------------------------------------------------------------------
+Patologia speciale chirurgica 3°;
 
-3) Le affezioni cutanee e veneree |3) Le affezioni cutanee e veneree
+Semeiotica strumentale ed endoscopia;
 
-nei riguardi dell'urologia |nei riguardi dell'urologia
+Anatomia chirurgica e corso di operazioni 3°;
 
----------------------------------------------------------------------
+Radiologia;
 
-4) Andrologia |4) Andrologia
+Anatomia e istologia patologica 2°.
 
----------------------------------------------------------------------
+4° Anno:
 
-Quarto anno |Quarto anno
+Clinica chirurgica generale 4°;
 
----------------------------------------------------------------------
+Chirurgia ginecologica;
 
-1) Anatomia ed istologia |1) Anatomia ed istologia
+Chirurgia urologica;
 
-patologica dell'apparato urinario |patologica dell'apparato urinario
+Neurochirurgia;
 
-e genitale maschile |e genitale maschile
+Traumatologia e ortopedia;
 
----------------------------------------------------------------------
+Chirurgia pediatrica.
 
-2) Farmacoterapia delle affezioni |2) Farmacoterapia delle affezioni
+5° Anno:
 
-uro-genitali |uro-genitali
+Clinica chirurgica generale 5°;
 
----------------------------------------------------------------------
+Chirurgia toracica;
 
-3) Anestesia e trattamento |3) Anestesia e trattamento
+Chirurgia cardiovascolare;
 
-pre-post operatorio del malato |pre-post-operatorio del malato
+Chirurgia riparativa e plastica;
 
-urologico |urologico
+Chirurgia d'urgenza;
 
----------------------------------------------------------------------
+Medicina legale.
 
-4) Nefrologia chirurgica |4) Nefrologia chirurgica
+I corsi dovranno essere corredati da esercitazioni pratiche.
 
----------------------------------------------------------------------
+Art. 171. - La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.
 
-5) Clinica urologica I |
+L'internato e' obbligatorio durante tutti i cinque anni del corso e si svolgera' presso istituti di chirurgia della facolta' con modalita' e per periodi che saranno fissati all'inizio di ogni anno accademico dal consiglio della, scuola.
 
----------------------------------------------------------------------
+Art. 172. - Gli allievi hanno doveri ed attribuzioni analoghi a quelli degli assistenti. Gli specializzandi che abbiano, compiuto il primo triennio e superato i relativi esami, potranno essere chiamati a prestare servizio presso il reparto operatorio.
 
-6) Procedimenti di chirurgia |
+Art. 173. - Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.
 
-endoscopica I |
+L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.
 
----------------------------------------------------------------------
+Alla fine dei corsi l'allievo, inoltre, dovra' sostenere un esame generale di profitto.
 
-7) Interventi e procedimenti |
+L'esame di diploma consistera' nella discussione di una tesi scritta su argomenti di chirurgia generale.
 
-operatori sullo apparato urinario |
+Agli iscritti alla scuola che avranno superato gli esami prescritti sara' rilasciato un diploma di specialista in chirurgia valido a tutti gli effetti di legge.
 
-e genitale maschile I |
-
----------------------------------------------------------------------
-
-Quinto anno |Quinto anno
-
----------------------------------------------------------------------
-
-1) Clinica urologica II |1) Clinica urologica
-
----------------------------------------------------------------------
-
-2) Patologia e clinica urologica |2) Patologia e clinica urologica
-
-infantile |infantile
-
----------------------------------------------------------------------
-
-3) Urologia ginecologica |3) Urologia ginecologica
-
----------------------------------------------------------------------
-
-|4) Interventi e procedimenti
-
-4) Procedimenti di chirurgia |operatori sullo apparato urinario
-
-endoscopica II |e genitale maschile
-
----------------------------------------------------------------------
-
-5) La chirurgia dell'intestino |
-
----------------------------------------------------------------------
-
-6) La chirurgia vascolare |
-
----------------------------------------------------------------------
-
-7) Interventi e procedimenti |
-
-operatori sull'apparato urinario e|
-
-genitale maschile II. |
-
-Art. 140. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
-
-Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante lo anno ad eccezione delle discipline svolte in corsi pluriennali il cui esame sara' sostenuto alla fine dei corsi medesimi.
-
-Al termine del corso di studi per il conseguimento del diploma di specialista in urologia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
-
-Le tasse, soprattasse e contributi della scuola di specializzazione in urologia sono cosi' fissate:
-
-immatricolazione. . . . . . . . . . . . . . . . . . . . L. 12.000 tassa annuale di iscrizione. . . . . . . . . . . . . . L. 200.000 soprattassa annuale di esame. . . . . . . . . . . . . . L. 16.000 contributi annui di laboratorio . . . . . . . . . . . . L. 14.000 tassa di diploma. . . . . . . . . . . . . . . . . . . . L. 20.000
-
-L'art. 163, relativo alla scuola di specializzazione in radiologia, e' soppresso e sostituito dal seguente:
-
-Art. 163. - La scuola e' riservata ai laureati in medicina e chirurgia che possono essere accolti in numero massimo di 20 al primo anno di corso per un totale di 70 nei sette anni di corso (4 anni di radiologia e 3 anni di radiologia diagnostica).
-
-L'art. 215, relativo alla scuola di specializzazione in psichiatria, e' soppresso e sostituito dal seguente:
-
-Art. 215. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in psichiatria con sede presso la clinica psichiatrica. Il numero degli iscritti e' di 4 per ogni anno di corso per un totale complessivo di 16.
+Art. 174. - Tassa di immatricolazione (1° anno di corso) L. 12.000; tassa di iscrizione (ogni anno di corso) L. 100.000; sopratassa esami (ogni anno) L. 16.000; contributi di laboratorio (ogni anno di corso) L. 14.000; tassa di diploma (ultimo anno di corso) L. 20.000.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 12 settembre 1978
+Dato a Roma, addi' 31 ottobre 1974
 
-PERTINI
+LEONE
 
-PEDINI
+MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 6 novembre 1978 Registro n. 119 Istruzione, foglio n. 54
+alla Corte dei conti, addi' 27 gennaio 1975 Atti di Governo, registro n. 8, foglio n. 76
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831), e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Dopo l'art. 167 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia:  
   
-Gli articoli 138, 139 e 140, relativi alla scuola di specializzazione in urologia, sono soppressi e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in urologia  
-  
-Art. 138. - La scuola di specializzazione in urologia ha sede presso l'istituto di semeiotica chirurgica e conferisce il diploma di specialista in urologia.  
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Possono iscriversi alla scuola tutti i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-La durata del corso di studi e' di 5 anni e non e' suscettibile di abbreviazione.  
-Il numero massimo degli allievi e' di 9 per anno di corso e complessivamente di 45 iscritti per l'intero corso di studi.  
-L'ammissione al corso avviene per titoli ed esami.  
-Art. 139. - Le materie d'insegnamento e gli esami sono i seguenti: 
-
-|  |  |
-| --- | --- |
-| Insegnamenti | Esami |
-| Primo anno | Primo anno |
-| 1) Anatomia sistematica e topografica dell'apparato urinario e genitale maschile | 1) Anatomia sistematica e topografica dell'apparato urinario e genitale maschile |
-| 2) Fisiologia dell'apparato urinario e genitale maschile | 2) Fisiologia dell'apparato urinario e genitale maschile |
-| 3) Batteriologia in urologia | 3) Batteriologia in urologia |
-| 4) Semeiotica funzionale e strumentale dell'apparato uro-genitale I |  |
-| Secondo anno | Secondo anno |
-| 1) Semeiotica funzionale e strumentale dell'apparato uro-genitale II | 1) Semeiotica funzionale e strumentale dell'apparato uro-genitale |
-| 2) Le nefropatie mediche | 2) Le nefropatie mediche |
-| 3) Anatomia chirurgica dell'apparato urinario e genitale maschile | 3) Anatomia chirurgica dell'apparato urinario e genitale maschile |
-| 4) Patologia dell'apparato urinario e genitale maschile I |  |
-| 5) Radiologia dell'apparato urinario e genitale maschile I |  |
-| Terzo anno | Terzo anno |
-| 1) Patologia dell'apparato urinario e genitale maschile II | 1) Patologia dell'apparato urinario e genitale maschile |
-| 2) Radiologia dell'apparato urinario e genitale maschile II | 2) Radiologia dell'apparato urinario e genitale maschile |
-| 3) Le affezioni cutanee e veneree nei riguardi dell'urologia | 3) Le affezioni cutanee e veneree nei riguardi dell'urologia |
-| 4) Andrologia | 4) Andrologia |
-| Quarto anno | Quarto anno |
-| 1) Anatomia ed istologia patologica dell'apparato urinario e genitale maschile | 1) Anatomia ed istologia patologica dell'apparato urinario e genitale maschile |
-| 2) Farmacoterapia delle affezioni uro-genitali | 2) Farmacoterapia delle affezioni uro-genitali |
-| 3) Anestesia e trattamento pre-post operatorio del malato urologico | 3) Anestesia e trattamento pre-post-operatorio del malato urologico |
-| 4) Nefrologia chirurgica | 4) Nefrologia chirurgica |
-| 5) Clinica urologica I |  |
-| 6) Procedimenti di chirurgia endoscopica I |  |
-| 7) Interventi e procedimenti operatori sullo apparato urinario e genitale maschile I |  |
-| Quinto anno | Quinto anno |
-| 1) Clinica urologica II | 1) Clinica urologica |
-| 2) Patologia e clinica urologica infantile | 2) Patologia e clinica urologica infantile |
-| 3) Urologia ginecologica | 3) Urologia ginecologica |
-| 4) Procedimenti di chirurgia endoscopica II | 4) Interventi e procedimenti operatori sullo apparato urinario e genitale maschile |
-| 5) La chirurgia dell'intestino |  |
-| 6) La chirurgia vascolare |  |
-
-  
-  
-Art. 140. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
-Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante lo anno ad eccezione delle discipline svolte in corsi pluriennali il cui esame sara' sostenuto alla fine dei corsi medesimi.  
-Al termine del corso di studi per il conseguimento del diploma di specialista in urologia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
-Le tasse, soprattasse e contributi della scuola di specializzazione in urologia sono cosi' fissate:  
-  
-immatricolazione. . . . . . . . . . . . . . . . . . . . L. 12.000 tassa annuale di iscrizione. . . . . . . . . . . . . . L. 200.000 soprattassa annuale di esame. . . . . . . . . . . . . . L. 16.000 contributi annui di laboratorio . . . . . . . . . . . . L. 14.000 tassa di diploma. . . . . . . . . . . . . . . . . . . . L. 20.000   
-L'art. 163, relativo alla scuola di specializzazione in radiologia, e' soppresso e sostituito dal seguente:  
-Art. 163. - La scuola e' riservata ai laureati in medicina e chirurgia che possono essere accolti in numero massimo di 20 al primo anno di corso per un totale di 70 nei sette anni di corso (4 anni di radiologia e 3 anni di radiologia diagnostica).  
-L'art. 215, relativo alla scuola di specializzazione in psichiatria, e' soppresso e sostituito dal seguente:  
-Art. 215. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in psichiatria con sede presso la clinica psichiatrica. Il numero degli iscritti e' di 4 per ogni anno di corso per un totale complessivo di 16.  
+Scuola di specializzazione in chirurgia  
+Art. 168. - Presso gli istituti di clinica chirurgica generale, di patologia speciale chirurgica e di semeiotica chirurgica e' istituita la scuola di specializzazione in chirurgia.  
+Il direttore della scuola sara' nominato dal consiglio di facolta' fra i direttori degli istituti di clinica chirurgica, patologia chirurgica e di semeiotica chirurgica.  
+La scuola di specializzazione in chirurgia conferisce il diploma di specialista in chirurgia.  
+Alla scuola possono iscriversi soltanto i laureati in medicina e chirurgia.  
+Art. 169. - Gli anni necessari per il conseguimento del diploma sono cinque.  
+Il numero complessivo degli iscritti e' di 30 per tutti i cinque anni di corso.  
+La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base di titoli ed esami.  
+Non sono consentite iscrizioni con abbreviazione di corso.  
+Art. 170. - Le materie del corso sono le seguenti:  
+1) Anatomia chirurgica e corso di operazioni (triennale);  
+2) Anatomia e istologia patologica (biennale);  
+3) Anestesia e rianimazione;  
+4) Chirurgia cardiovascolare;  
+5) Chirurgia d'urgenza;  
+6) Chirurgia ginecologica;  
+7) Chirurgia pediatrica;  
+8) Chirurgia riparativa e plastica;  
+9) Chirurgia sperimentale;  
+10) Chirurgia toracica;  
+11) Chirurgia urologica;  
+12) Clinica chirurgica generale (quinquennale);  
+13) Fisiopatologia chirurgica;  
+14) Medicina legale;  
+15) Neurochirurgia;  
+16) Patologia speciale chirurgica (triennale);  
+17) Radiologia;  
+18) Ricerche di laboratorio;  
+19) Semeiotica chirurgica (biennale);  
+20) Semeiotica strumentale ed endoscopia;  
+21) Trattamento pre e post-operatorio;  
+22) Traumatologia ed ortopedia.  
+Le materie sopraelencate sono cosi' distribuite:  
+1° Anno:  
+Clinica chirurgica generale 1°;  
+Patologia speciale chirurgica 1°;  
+Semeiotica chirurgica 1°;  
+Anatomia chirurgica e corso di operazioni 1°;  
+Chirurgia sperimentale;  
+Anestesia e rianimazione;  
+Ricerche di laboratorio.  
+2° Anno:  
+Clinica chirurgica generale 2°;  
+Patologia speciale chirurgica 2°;  
+Semeiotica chirurgica 2°;  
+Anatomia chirurgica e corso di operazioni 2°;  
+Fisiopatologia chirurgica;  
+Trattamento pre e post-operatorio;  
+Anatomia e istologia patologica 1°.  
+3° Anno:  
+Clinica chirurgica generale 3°;  
+Patologia speciale chirurgica 3°;  
+Semeiotica strumentale ed endoscopia;  
+Anatomia chirurgica e corso di operazioni 3°;  
+Radiologia;  
+Anatomia e istologia patologica 2°.  
+4° Anno:  
+Clinica chirurgica generale 4°;  
+Chirurgia ginecologica;  
+Chirurgia urologica;  
+Neurochirurgia;  
+Traumatologia e ortopedia;  
+Chirurgia pediatrica.  
+5° Anno:  
+Clinica chirurgica generale 5°;  
+Chirurgia toracica;  
+Chirurgia cardiovascolare;  
+Chirurgia riparativa e plastica;  
+Chirurgia d'urgenza;  
+Medicina legale.  
+I corsi dovranno essere corredati da esercitazioni pratiche.  
+Art. 171. - La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.  
+L'internato e' obbligatorio durante tutti i cinque anni del corso e si svolgera' presso istituti di chirurgia della facolta' con modalita' e per periodi che saranno fissati all'inizio di ogni anno accademico dal consiglio della, scuola.  
+Art. 172. - Gli allievi hanno doveri ed attribuzioni analoghi a quelli degli assistenti. Gli specializzandi che abbiano, compiuto il primo triennio e superato i relativi esami, potranno essere chiamati a prestare servizio presso il reparto operatorio.  
+Art. 173. - Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.  
+L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.  
+Alla fine dei corsi l'allievo, inoltre, dovra' sostenere un esame generale di profitto.  
+L'esame di diploma consistera' nella discussione di una tesi scritta su argomenti di chirurgia generale.  
+Agli iscritti alla scuola che avranno superato gli esami prescritti sara' rilasciato un diploma di specialista in chirurgia valido a tutti gli effetti di legge.  
+Art. 174. - Tassa di immatricolazione (1° anno di corso) L. 12.000; tassa di iscrizione (ogni anno di corso) L. 100.000; sopratassa esami (ogni anno) L. 16.000; contributi di laboratorio (ogni anno di corso) L. 14.000; tassa di diploma (ultimo anno di corso) L. 20.000.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 settembre 1978
+### Dato a Roma, addi' 31 ottobre 1974
 
-PERTINI PEDINI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 6 novembre 1978
+Registrato alla Corte dei conti, addi' 27 gennaio 1975
 
-Registro n. 119 Istruzione, foglio n. 54
+Atti di Governo, registro n. 8, foglio n. 76

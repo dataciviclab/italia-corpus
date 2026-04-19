@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1980 n. 800
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1978 n. 412
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1980 n. 800
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1978 n. 412
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Siena.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929 n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395) e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,84 +20,352 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
-Sentito il parere del Consiglio nazionale universitario;
-
-Veduto il [parere della sezione prima del Consiglio di Stato, n. 1902/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
-
-Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
-
-Sulla proposta del Ministro della pubblica, istruzione;
+Sentito il parere del Consiglio superiore della superiore della proposta del Ministro della pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Gli articoli 145, 146 e 147, relativi alla scuola di specializzazione in clinica pediatrica, che muta la denominazione in quella di scuola di specializzazione in pediatria, sono abrogati e sostituiti dai seguenti:
 
+Scuola di specializzazione in pediatria
+
+Art. 145. - La scuola di specializzazione in pediatria ha sede presso l'istituto di clinica pediatrica e conferisce il diploma di specialista in pediatria.
+
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione, o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente.
+
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
+
+Il numero massimo degli allievi e' di 10 per anno di corso e complessivamente di 40 per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Art. 146. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+genetica;
+
+auxologia;
+
+alimentazione;
+
+epidemiologia;
+
+malattie infettive;
+
+clinica pediatrica I.
+
+2° Anno:
+
+radiologia;
+
+legislazione del minore;
+
+organizzazione sanitaria;
+
+psicologia pediatrica;
+
+oculistica e ortottica;
+
+otorino e foniatria;
+
+odonto;
+
+neonatologia I;
+
+chirurgia pediatrica I;
+
+pediatria preventiva e sociale I;
+
+clinica pediatrica II.
+
+3° Anno:
+
+neurologia;
+
+psichiatria infantile;
+
+nefrologia e urologia;
+
+ginecologia pediatrica;
+
+neonatologia II;
+
+chirurgia pediatrica II;
+
+pediatria preventiva e sociale II;
+
+cardiologia I;
+
+endocrinologia I;
+
+ematologia I;
+
+immunologia I;
+
+gastroenterologia I;
+
+clinica pediatrica III.
+
+4° Anno:
+
+oncologia;
+
+pneumologia;
+
+ortopedia e traumatologia;
+
+dermatologia;
+
+cardiologia II;
+
+endocrinologia II;
+
+ematologia II;
+
+immunologia II;
+
+gastroenterologia II;
+
+clinica pediatrica IV.
+
+Art. 147. - La frequenza alle lezioni, alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere le prove di esame.
+
+Alla fine di ciascun anno di corso gli iscritti per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in pediatria, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+Le tasse, soprattasse e contributi della scuola di specializzazione in pediatria sono cosi' fissate:
+
+immatricolazione. . . . . . . . . . . . . . . . . . . . L. 12.000 tassa annuale di iscrizione. . . . . . . . . . . . . . L. 200.000 soprattassa annuale di esame. . . . . . . . . . . . . . L. 16.000 contributi annui di laboratorio . . . . . . . . . . . . L. 14.000 tassa di diploma. . . . . . . . . . . . . . . . . . . . L. 20.000
+
+L'art. 151, relativo alla scuola di specializzazione in anestesiologia e rianimazione, che muta la denominazione in quella di scuola di specializzazione in anestesia e rianimazione, e' abrogato e sostituito dal seguente:
+
+Scuola di specializzazione in anestesia e rianimazione
+
+Art. 151. - La scuola di specializzazione in anestesia e rianimazione ha sede presso l'istituto di anestesiologia e rianimazione e conferisce il diploma di specialista in anestesia e rianimazione.
+
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+
+E' richiesto, almeno per l'inizio del corso, il possesso di diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente.
+
+La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazione.
+
+Il numero massimo degli allievi e' di 30 per anno di corso e complessivamente di 90 iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+anatomia applicata all'anestesia ed alla rianimazione;
+
+biochimica applicata all'anestesia ed alla rianimazione;
+
+farmacologia applicata all'anestesia ed alla rianimazione;
+
+fisica applicata all'anestesia ed alla rianimazione;
+
+fisiologia applicata all'anestesia ed alla rianimazione;
+
+anestesiologia I;
+
+tecniche chirurgiche di interesse anestesiologico;
+
+aspetti medico-legali dell'anestesia e della rianimazione;
+
+esercitazioni pratiche.
+
+2° Anno:
+
+anestesiologia II;
+
+terapia antalgica;
+
+rianimazione I;
+
+esercitazioni pratiche.
+
+3° Anno:
+
+rianimazione II;
+
+tecniche speciali di anestesia;
+
+tecniche speciali di rianimazione;
+
+indagini diagnostiche attinenti alla specialita';
+
+esercitazioni pratiche.
+
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.
+
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.
+
+Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in anestesia e rianimazione gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+Le tasse, soprattasse e contributi della scuola di specializzazione in anestesia e rianimazione sono cosi' fissate:
+
+immatricolazione. . . . . . . . . . . . . . . . . . . . L. 12.000 tassa annuale di iscrizione. . . . . . . . . . . . . . L. 200.000 soprattassa annuale di esame. . . . . . . . . . . . . . L. 16.000 contributi annui di laboratorio . . . . . . . . . . . . L. 14.000 tassa di diploma. . . . . . . . . . . . . . . . . . . . L. 20.000
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 10 aprile 1978
+
+LEONE
+
+PEDINI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 15 luglio 1978 Registro n. 75 Istruzione, foglio n. 320
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della superiore della proposta del Ministro della pubblica istruzione;  
   
-Dopo l'art. 227 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in scienza e tecnologia cosmetiche presso la facolta' di farmacia.   
+Decreta:  
   
-FACOLTA' DI FARMACIA   
-Scuola di specializzazione in scienza e tecnologia cosmetiche   
-Art. 228. - E' istituita presso la facolta' di farmacia una scuola di specializzazione in scienza e tecnologia cosmetiche con sede presso l'istituto di scienze farmacologiche dell'Universita'. Il suo scopo e' di impartire lezioni ed esercitazioni pratiche al fine di fornire agli allievi una preparazione completa teorica e sperimentale nella scienza e nella tecnologia dei cosmetici.   
-Art. 229. - Il direttore della scuola e' nominato dalla facolta' di farmacia tra i professori di ruolo o fuori ruolo delle materie afferenti alla scuola o, in carenza, tra i professori di ruolo o fuori ruolo di materia affine. Egli presiede il consiglio della scuola che e' composto da tutti gli insegnanti dei vari corsi.   
-I docenti sono proposti dal direttore e sono nominati dalla facolta'.   
-Art. 230. - La scuola rilascia un diploma di specializzazione in scienza e tecnologia cosmetiche.   
-La durata del corso di studi per il conseguimento del diploma e' di due anni.   
-Alla scuola possono essere iscritti dieci allievi per anno. Qualora il numero delle domande di iscrizione ecceda quello fissato, il consiglio della scuola procedera' ad una scelta insindacabile in base ai titoli presentati.   
-Possono iscriversi i laureati in farmacia, chimica e tecnologia farmaceutiche, chimica, chimica industriale e scienze biologiche.   
-Su proposta della facolta' di farmacia, udito il consiglio della scuola, il senato accademico puo' eventualmente ammettere alla scuola candidati che presentino diplomi di laurea diversi da quelli stabiliti. Gli aspiranti debbono, nei termini regolamentari, presentare apposita domanda su carta legale diretta al rettore e corredata dai prescritti documenti e della quietanza del pagamento di tasse, soprattasse e contributi relativi.   
-Art. 231. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) biologia e biochimica cellulare;   
-2) fisiologia applicata;   
-3) farmacologia e tossicologia cosmetica;   
-4) microbiologia applicata ed igiene;   
-5) chimica fisica applicata;   
-6) chimica prodotti cosmetici I;   
-7) tecnologia e formulazione cosmetica I;   
-8) controllo chimico di qualita' I.   
-2° Anno:   
-1) chimica prodotti cosmetici II;   
-2) tecnologia e formulazione cosmetica II;   
-3) legislazione cosmetica e documentaristica;   
-4) impianti e macchinario cosmetico;   
-5) marketing, pubblicita' e psicocosmesi;   
-6) controllo chimico di qualita' II;   
-7) controllo microbiologico di qualita'.   
-Ad ogni corso corrispondera' un adeguato numero di lezioni teoriche ed esercitazioni pratiche che potranno essere svolte da piu' docenti in relazione alla particolare necessita' di ciascun corso.   
-Oltre alle predette materie, possono essere tenuti seminari e conferenze di aggiornamento nel campo della cosmetologia.   
-Gli iscritti sono obbligati alla frequenza costante ai corsi di lezioni ed esercitazioni.   
-La frequenza viene comprovata dall'attestazione rilasciata dagli insegnanti sul libretto di iscrizione. L'attestazione di frequenza e' indispensabile ai fini della ammissione agli esami.   
-Art. 232. - Le tasse per l'iscrizione ai corsi ed i contributi per le esercitazioni pratiche sono stabilite come segue:   
+Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 145, 146 e 147, relativi alla scuola di specializzazione in clinica pediatrica, che muta la denominazione in quella di scuola di specializzazione in pediatria, sono abrogati e sostituiti dai seguenti:  
   
-tassa immatricolazione (primo anno) . . . . . . . . . . . . L. 12.000 tassa iscrizione (ogni anno) . . . . . . . . . . . . . . . L. 200.000 soprattassa esami (ogni anno) . . . . . . . . . . . . . . . L. 16.000 contributi di laboratorio (ogni anno) . . . . . . . . . . . L. 20.000 tassa diploma (ultimo anno). . . . . . . . . . . . . . . . . L. 6.000 tassa trasferimento per altra sede. . . . . . . . . . . . . L. 10.000   
-tassa registrazione congedi provenienti   
-da altra sede. . . . . . . . . . . . . . . . . . . . . . . . L. 2.000   
+Scuola di specializzazione in pediatria  
   
-Art. 233. - Le date di inizio e termine delle lezioni sono fissate dalla facolta', udito il consiglio della scuola, in dipendenza a ragioni speciali inerenti alla natura dei corsi.   
-Art. 234. - Le commissioni per gli esami di profitto e di diploma sono nominate dal preside di facolta' di farmacia su proposta del direttore della scuola e sono composte, di norma, rispettivamente di tre e sette membri.   
-Gli esami di profitto e di diploma si sostengono di regola in due sessioni in un periodo successivo alla conclusione di ciascun anno.  
-Gli esami di profitto, che consistono in prove teoriche e tecnico-pratiche, si sostengono nelle singole materie o anche in gruppi di materie strettamente affini.   
-L'esame di diploma, al quale i candidati potranno essere ammessi dopo aver superato tutti gli esami di profitto, consiste in una discussione di una dissertazione scritta svolta dal candidato su un argomento tecnico-scientifico assegnato allo specializzando dal direttore della scuola.   
-Art. 235. - Al funzionamento della scuola si provvedera' con il provento delle tasse, soprattasse e contributi da parte degli iscritti. La scuola potra' avvalersi anche di contributi provenienti da enti o industrie interessate allo sviluppo delle conoscenze in questo campo.   
-L'istituto di scienze farmacologiche mettera' a disposizione della scuola aule e locali per lezioni ed esercitazioni, unitamente agli altri istituti della facolta' interessati alla scuola.   
+Art. 145. - La scuola di specializzazione in pediatria ha sede presso l'istituto di clinica pediatrica e conferisce il diploma di specialista in pediatria.  
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione, o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente.  
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
+Il numero massimo degli allievi e' di 10 per anno di corso e complessivamente di 40 per l'intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami.  
+Art. 146. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+genetica;  
+auxologia;  
+alimentazione;  
+epidemiologia;  
+malattie infettive;  
+clinica pediatrica I.  
+2° Anno:  
+radiologia;  
+legislazione del minore;  
+organizzazione sanitaria;  
+psicologia pediatrica;  
+oculistica e ortottica;  
+otorino e foniatria;  
+odonto;  
+neonatologia I;  
+chirurgia pediatrica I;  
+pediatria preventiva e sociale I;  
+clinica pediatrica II.  
+3° Anno:  
+neurologia;  
+psichiatria infantile;  
+nefrologia e urologia;  
+ginecologia pediatrica;  
+neonatologia II;  
+chirurgia pediatrica II;  
+pediatria preventiva e sociale II;  
+cardiologia I;  
+endocrinologia I;  
+ematologia I;  
+immunologia I;  
+gastroenterologia I;  
+clinica pediatrica III.  
+4° Anno:  
+oncologia;  
+pneumologia;  
+ortopedia e traumatologia;  
+dermatologia;  
+cardiologia II;  
+endocrinologia II;  
+ematologia II;  
+immunologia II;  
+gastroenterologia II;  
+clinica pediatrica IV.  
+Art. 147. - La frequenza alle lezioni, alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere le prove di esame.  
+Alla fine di ciascun anno di corso gli iscritti per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in pediatria, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+Le tasse, soprattasse e contributi della scuola di specializzazione in pediatria sono cosi' fissate:  
   
+immatricolazione. . . . . . . . . . . . . . . . . . . . L. 12.000 tassa annuale di iscrizione. . . . . . . . . . . . . . L. 200.000 soprattassa annuale di esame. . . . . . . . . . . . . . L. 16.000 contributi annui di laboratorio . . . . . . . . . . . . L. 14.000 tassa di diploma. . . . . . . . . . . . . . . . . . . . L. 20.000   
+L'art. 151, relativo alla scuola di specializzazione in anestesiologia e rianimazione, che muta la denominazione in quella di scuola di specializzazione in anestesia e rianimazione, e' abrogato e sostituito dal seguente:  
+  
+Scuola di specializzazione in anestesia e rianimazione  
+  
+Art. 151. - La scuola di specializzazione in anestesia e rianimazione ha sede presso l'istituto di anestesiologia e rianimazione e conferisce il diploma di specialista in anestesia e rianimazione.  
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno per l'inizio del corso, il possesso di diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente.  
+La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazione.  
+Il numero massimo degli allievi e' di 30 per anno di corso e complessivamente di 90 iscritti per l'intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami.  
+Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+anatomia applicata all'anestesia ed alla rianimazione;  
+biochimica applicata all'anestesia ed alla rianimazione;  
+farmacologia applicata all'anestesia ed alla rianimazione;  
+fisica applicata all'anestesia ed alla rianimazione;  
+fisiologia applicata all'anestesia ed alla rianimazione;  
+anestesiologia I;  
+tecniche chirurgiche di interesse anestesiologico;  
+aspetti medico-legali dell'anestesia e della rianimazione;  
+esercitazioni pratiche.  
+2° Anno:  
+anestesiologia II;  
+terapia antalgica;  
+rianimazione I;  
+esercitazioni pratiche.  
+3° Anno:  
+rianimazione II;  
+tecniche speciali di anestesia;  
+tecniche speciali di rianimazione;  
+indagini diagnostiche attinenti alla specialita';  
+esercitazioni pratiche.  
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.  
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.  
+Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in anestesia e rianimazione gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+Le tasse, soprattasse e contributi della scuola di specializzazione in anestesia e rianimazione sono cosi' fissate:  
+  
+immatricolazione. . . . . . . . . . . . . . . . . . . . L. 12.000 tassa annuale di iscrizione. . . . . . . . . . . . . . L. 200.000 soprattassa annuale di esame. . . . . . . . . . . . . . L. 16.000 contributi annui di laboratorio . . . . . . . . . . . . L. 14.000 tassa di diploma. . . . . . . . . . . . . . . . . . . . L. 20.000   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 luglio 1980
+### Dato a Roma, addi' 10 aprile 1978
 
-PERTINI SARTI
+LEONE PEDINI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 24 novembre 1980
+Registrato alla Corte dei conti, addi' 15 luglio 1978
 
-Registro n. 109 Istruzione, foglio n. 77
+Registro n. 75 Istruzione, foglio n. 320

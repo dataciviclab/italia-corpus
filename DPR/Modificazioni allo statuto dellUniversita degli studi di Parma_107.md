@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1965 n. 734
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1038
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1965 n. 734
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1038
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -10,155 +10,98 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Parma, approvato con [regio decreto 12 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-12;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto il [decreto-legge 26 settembre 1981, n. 539](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-09-26;539);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Decreta Lo statuto dell'Universita' degli studi di Parma approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Sentito il parere del Consiglio universitario nazionale;
 
-L'art. 99, relativo alla Scuola di specializzazione in Oculistica, e' abrogato e sostituito dal seguente con il conseguente spostamento della numerazione degli articoli successivi.
+Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Scuola di specializzazione in Oculistica
+Sulla proposta del Ministro della pubblica istruzione;
 
-Art. 99. - La Scuola ha la durata di quattro anni.
+Decreta:
+--------
 
-Il numero complessivo degli iscritti ai quattro anni del corso e' di venticinque.
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli insegnamenti impartiti dalla Scuola sono i seguenti:
+Articolo unico
+--------------
 
-1° Anno:
-
-1) Anatomia ed istologia dell'apparato oculare;
-
-2) Nozioni di embriologia e genetica oculare;
-
-3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari 4) Nozioni di ottica fisiologica, esame della refrazione;
-
-5) Microbiologia ed igiene oculare.
-
-2° Anno:
-
-1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmologia, perimetria, campimetria, adattometria senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);
-
-2) Farmacologia oculare e terapia fisica;
-
-3) Anatomia patologica oculare;
-
-4) Patologia e clinica oculare malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della sclera).
-
-3° Anno:
-
-1) Patologia e clinica oculare (malattie dell'uvea, della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita glaucoma);
-
-2) Anomalia e patologia della motilita' oculare e della, visione binoculare. Ortottica e pleottica;
-
-3) Affezioni otorinolaringoiatriche e occhio;
-
-4) Tecnica operatoria. (I).
-
-4° Anno:
-
-1) Neuroftalmologia;
-
-2) Malattie oculari in rapporto ad affezioni generali;
-
-3) Malattie professionali. Infortunistica e medicina legale oculare;
-
-4) Tecnica operatoria (II)
-
-5) Tesi di specializzazione.
-
-Art. 100. - Il corso sara' integrato da conferenze su argomenti attinenti alla specialita' (patologia oculare infantile, dermosifilopatica e occhio, malattie oculari da cause ginecologiche, ecc.). Durante il corso si svolgeranno esercitazioni di laboratorio di istologia patologica, microbiologia, sierologia e chimica biologica.
-
-Gli esami di profitto si danno alla fine di ciascun anno di corso.
-
-Alla fine del corso gli iscritti, oltre a presentare la dissertazione scritta ed a sostenere la relativa discussione, devono sostenere una prova pratica sull'ammalato.
-
-L'art. 119, relativo alla, Scuola di specializzazione in Otorinolaringoiatria, e' modificato nel senso che l'insegnamento di cui al n. 3) di "Fisica acustica" del 1° anno di corso cambia denominazione in quello di "Fisica acustica e audiologia".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 21 maggio 1965
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 30 giugno 1965 Atti del Governo, registro n. 194, foglio n. 33. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-Decreta Lo statuto dell'Universita' degli studi di Parma approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-L'art. 99, relativo alla Scuola di specializzazione in Oculistica, e' abrogato e sostituito dal seguente con il conseguente spostamento della numerazione degli articoli successivi.  
-Scuola di specializzazione in Oculistica  
-Art. 99. - La Scuola ha la durata di quattro anni.  
-Il numero complessivo degli iscritti ai quattro anni del corso e' di venticinque.  
-Gli insegnamenti impartiti dalla Scuola sono i seguenti:  
-1° Anno:  
-1) Anatomia ed istologia dell'apparato oculare;  
-2) Nozioni di embriologia e genetica oculare;  
-3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari 4) Nozioni di ottica fisiologica, esame della refrazione;  
-5) Microbiologia ed igiene oculare.  
-2° Anno:  
-1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmologia, perimetria, campimetria, adattometria senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);  
-2) Farmacologia oculare e terapia fisica;  
-3) Anatomia patologica oculare;  
-4) Patologia e clinica oculare malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della sclera).  
-3° Anno:  
-1) Patologia e clinica oculare (malattie dell'uvea, della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita glaucoma);  
-2) Anomalia e patologia della motilita' oculare e della, visione binoculare. Ortottica e pleottica;  
-3) Affezioni otorinolaringoiatriche e occhio;  
-4) Tecnica operatoria. (I).  
-4° Anno:  
-1) Neuroftalmologia;  
-2) Malattie oculari in rapporto ad affezioni generali;  
-3) Malattie professionali. Infortunistica e medicina legale oculare;  
-4) Tecnica operatoria (II)  
-5) Tesi di specializzazione.  
-Art. 100. - Il corso sara' integrato da conferenze su argomenti attinenti alla specialita' (patologia oculare infantile, dermosifilopatica e occhio, malattie oculari da cause ginecologiche, ecc.). Durante il corso si svolgeranno esercitazioni di laboratorio di istologia patologica, microbiologia, sierologia e chimica biologica.  
-Gli esami di profitto si danno alla fine di ciascun anno di corso.  
-Alla fine del corso gli iscritti, oltre a presentare la dissertazione scritta ed a sostenere la relativa discussione, devono sostenere una prova pratica sull'ammalato.  
-L'art. 119, relativo alla, Scuola di specializzazione in Otorinolaringoiatria, e' modificato nel senso che l'insegnamento di cui al n. 3) di "Fisica acustica" del 1° anno di corso cambia denominazione in quello di "Fisica acustica e audiologia".  
+Dopo l'art. 291, e con il conseguente spostamento degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla istituzione della scuola di specializzazione in "farmacia ospedaliera", annessa alla facolta' di farmacia.   
+  
+Capo XI   
+Scuola di specializzazione in farmacia ospedaliera   
+  
+Art. 292. - La scuola di specializzazione in farmacia ospedaliera ha il compito di assicurare ai laureati in discipline farmaceutiche (farmacia e chimica e tecnologia farmaceutiche) la possibilita' di una migliore qualificazione scientifica e professionale nelle materie necessarie all'esercizio della loro attivita' nella farmacia ospedaliera.   
+Art. 293. - La scuola ha durata biennale e rilascia il "diploma di specializzazione in farmacia ospedaliera".   
+Art. 294. - Alla scuola di specializzazione sono ammessi i laureati in farmacia ed in chimica e tecnologia farmaceutiche.   
+L'ammissione alla scuola e' condizionata al superamento dell'esame di istituzioni di matematiche (programma del corso di laurea in chimica e tecnologia farmaceutiche). Qualora questo non sia stato sostenuto nel corso degli studi universitari, il candidato dovra' superarlo a livello dell'esame di ammissione alla scuola.   
+Art. 295. - Gli insegnamenti della scuola sono i seguenti:   
+1° Anno:   
+1) matematica ed informatica;   
+2) patologia generale (\*);   
+3) biofarmaceutica e farmacocinetica I;   
+4) tossicita', interazione, effetti secondari dei farmaci;   
+5) radiochimica e radiobiologia;   
+6) microbiologia ed igiene (\*);   
+7) tecnologia delle preparazioni magistrali.   
+2° Anno:   
+1) biofarmaceutica e farmacocinetica II;   
+2) immunochimica;   
+3) farmacia clinica;   
+4) documentazione ed informazione sui farmaci;   
+5) officina galenica;   
+6) chimica degli alimenti (\*);   
+7) economia, organizzazione e legislazione ospedaliera.   
+Gli insegnamenti comprendono lezioni teoriche ed esercitazioni pratiche.   
+Ove gli esami delle materie segnate con l'asterisco non fossero stati sostenuti durante gli studi per il conseguimento della laurea richiesta, queste materie devono essere seguite in un regolare corso universitario o, quando non esista, da un corso all'uopo istituito e saranno oggetto d'esame al pari di tutte le altre comprese nel piano di studi della scuola. E' prevista la possibilita' di insegnamento e di esami integrati.   
+Per essere ammesso all'esame di diploma il candidato deve aver superato gli undici esami speciali del biennio e pagato tutte le tasse, soprattasse e contributi.   
+Art. 296. - La scuola e' organizzata dalla facolta' di farmacia dell'Universita' di Parma. Potranno essere invitati a tenere lezioni, conferenze, seminari ed esercitazioni, docenti di altre facolta' od Universita' ed esperti anche dall'estero.   
+La scuola ha un suo direttore ed un suo consiglio direttivo, ai quali e' affidato il funzionamento della scuola. La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima. Il consiglio direttivo si compone di cinque membri nominati dal rettore su proposta del consiglio di facolta', scelti fra i docenti di discipline chimico-farmaceutiche (due), farmaco-biologiche (due) e tecnologiche (uno) della stessa scuola.   
+Il direttore, scelto fra i membri del consiglio direttivo, che sara' da lui presieduto, e' nominato dal rettore, su proposta del consiglio di facolta'.   
+Il direttore ed i membri del consiglio direttivo hanno mandato triennale e sono rieleggibili. In caso di decadenza il nuovo eletto resta in carica per la parte restante del triennio.   
+Art. 297. - Gli incarichi di insegnamento, udito il consiglio direttivo, sono proposti dal consiglio di facolta', e conferiti dal rettore.   
+Art. 298. - Gli iscritti alla scuola sono tenuti a pagare le tasse, soprattasse e contributi, secondo quanto stabilito per gli studenti della facolta' di farmacia, nonche' la tassa di diploma nella misura di L. 50.000 ai sensi dell'[art. 6 del decreto-legge 26 settembre 1981, n. 539](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-09-26;539~art6). Sono tenuti, altresi', a pagare un contributo speciale nella misura che sara' determinata dal consiglio di amministrazione, previo parere della facolta', su proposta del direttore della scuola.   
+I candidati, che abbiano conseguito la laurea con votazione non inferiore a centodieci su centodieci o siano assegnatari di borse di studio o di perfezionamento, possono, previo parere favorevole del consiglio di amministrazione, su proposta del consiglio direttivo essere dispensati per intero dal pagamento delle tasse e dei contributi, purche' non superino il reddito previsto dalle vigenti disposizioni.   
+Art. 299.- Il numero massimo dei candidati che possono essere accolti alla scuola e' dieci. La scuola non potra' essere attivata se il numero degli iscritti e' inferiore a tre. Se, tuttavia, i corsi sono iniziati, essi devono essere portati a compimento qualunque sia il numero degli iscritti.   
+Art. 300. - La domanda di ammissione alla scuola deve essere diretta al rettore, corredata di un certificato di laurea, con i voti conseguiti in tutti gli esami speciali ed in quello di laurea, del diploma di scuola media superiore e degli altri titoli che l'aspirante ritenga presentare.   
+Art. 301. - L'ammissione nella scuola e' per esami e per titoli. In base agli elementi raccolti, il direttore, con il consiglio direttivo, provvede alla compilazione della graduatoria dei vincitori e degli idonei, graduatoria che deve essere approvata e resa esecutiva dal preside della facolta'.   
+Art. 302. - La frequenza e' obbligatoria sia per le lezioni teoriche che per le esercitazioni pratiche.   
+La frequenza ai singoli insegnamenti deve essere attestata dai rispettivi docenti e notificata al direttore della scuola.   
+Non e' consentita la contemporanea iscrizione a piu' scuole, ne' abbreviazioni di corso, a qualunque titolo.   
+Art. 303. - Gli esami speciali sono sostenuti dagli allievi alla fine di ogni corso per le singole discipline o per gruppi di discipline strettamente affini fra loro, secondo il piano di studi stabilito dalla scuola.   
+Le commissioni per gli esami di profitto sono composte di tre membri, nominati dal preside, su proposta del direttore della scuola.   
+Non puo' essere ammesso al nuovo anno di corso chi non ha superato gli esami prescritti per il precedente.   
+Art. 304. - L'esame di diploma consiste in una discussione sopra una dissertazione originale scritta, di carattere sperimentale, preparata durante il periodo di specializzazione.   
+I candidati non riconosciuti idonei possono ripresentarsi all'esame dopo un altro anno di frequenza alla scuola; se anche nel secondo esame di diploma non sara' a loro riconosciuta l'idoneita' essi saranno esclusi da prove ulteriori.   
+La commissione, per l'esame di diploma, e' composta di cinque membri scelti dal preside fra i docenti della scuola e, dei quali, uno ha il compito di presidente.   
+Art. 305. - Per tutte le altre norme, non espressamente formulate dallo statuto della scuola, valgono quelle adottate dallo statuto vigente dell'Universita' di Parma.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 maggio 1965
+### Dato a Roma, addi' 31 ottobre 1981
 
-SARAGAT GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 30 giugno 1965
+Registrato alla Corte dei conti, addi' 24 febbraio 1982
 
-Atti del Governo, registro n. 194, foglio n. 33. - VILLA
+Registro n. 30 Istruzione, foglio n. 389

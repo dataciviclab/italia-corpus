@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1980 n. 954
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 428
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1980 n. 954
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 428
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
@@ -35,59 +35,93 @@ Art. 1
 ------
 
   
-Lo statuto dell'Universita' di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 148 - all'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola in microchirurgia e chirurgia sperimentale.  
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+L'art. 148, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la scuola di specializzazione in chirurgia plastica ricostruttiva muta la denominazione in quella di scuola di specializzazione in chirurgia plastica.  
 
 Art. 2
 ------
 
   
-Dopo l'art. 264, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in microchirurgia e chirurgia sperimentale.  
-Microchirurgia e chirurgia sperimentale  
-Art. 265. - La scuola di specializzazione in microchirurgia e chirurgia sperimentale ha la durata di tre anni e conferisce il diploma di specialista in tale materia. Essa ha lo scopo di impartire un insegnamento specialistico sulle tecniche della chirurgia sperimentale e della microchirurgia applicata alla chirurgia generale, di curare l'approfondimento dottrinario sugli argomenti della chirurgia clinica che non sono completamente risolti nell'applicazione pratica e di fornire una preparazione scientifico e tecnico-pratica su metodiche terapeutiche di avanguardia non ancora di comune impiego nel trattamento delle malattie chirurgiche.  
-Art. 266 - Alla scuola possono essere ammessi i laureati in medicina e chirurgia per un numero complessivo di trenta iscritti la selezione dei candidati avviene per mezzo di un concorso per titoli ed esami da espletarsi entro il mese di dicembre. In nessun caso e' consentita i abbreviazione di durata del corso E' obbligatoria la frequenza alle lezioni, esercitazioni pratiche o didattiche realizzate nell'ambito della scuola di specializzazione. Gli iscritti devono inoltre effettuare esercitazioni pratiche nei reparti per non meno di nove mesi all'anno negli ambienti di diagnosi e cura e nel laboratorio, con l'orario stabilito per gli assistenti.  
-Art. 267. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-anatomia comparata e fisiologia applicata dei mammiferi superiori, con particolare riferimento agli animali da esperimento;  
-l'anestesia e la rianimazione nell'animale da esperimento;  
-gli organi interni artificiali: il rene;  
-problemi ancora insoluti nella chirurgia del tubo digerente;  
-problemi ancora insoluti nella chirurgia delle ghiandole endocrine;  
-fondamenti di immunologia chirurgica;  
-problematica generale dei trapianti di organo;  
-attrezzatura, strumenti e tecniche generali in microchirurgia. 2° Anno:  
-stabulazione, alimentazione, tecniche di prelievo di campione dell'animale da esperimento;  
-fisiopatologia dello shock traumatico, settico, ipovolemico;  
-gli organi interni artificiali: il polmone;  
-problemi ancora insoluti nella chirurgia del pancreas;  
-chirurgia sperimentale del fegato e del circolo portale;  
-tecniche di laboratorio in uso nella immunologia chirurgica;  
-l'omotrapianto di rene nella clinica e nella sperimentazione;  
-microangiochirurgia.  
-3° Anno:  
-fisiopatologia del digiuno; il trattamento di nutrizione parenterale controllata;  
-gli organi interni artificiali: il cuore ed il fegato;  
-tecniche di conservazione di organi isolati a scopo di trapianto;  
-problemi ancora insoluti nella chirurgia delle vie biliari;  
-l'omotrapianto di fegato nella clinica e nella sperimentazione; aspetti medico-legali del prelievo di organi da cadavere;  
-il trattamento post-operatorio del paziente portatore di trapianto;  
-microneurochirurgia.  
-I corsi sono corredati da esercitazioni pratiche ed integrati da seminari su argomenti specifici tenuti da esperti italiani e stranieri.  
-Art. 268. - Al termine di ogni anno di corso gli iscritti devono sostenere gli esami di profitto sugli insegnamenti previsti dai piani di studio; il superamento di tali esami consente l'ammissione all'anno successivo. L'esame finale di diploma consiste nella stesura e discussione di una tesi scritta in cui sono esposti i risultati personali ottenuti nell'attivita' sia di indole clinica che sperimentale.  
-Art. 269. - La direzione della scuola e' conferita dalla facolta' secondo le norme generali che regolano la direzione della scuola di perfezionamento. Gli insegnanti della scuola sono nominati dal rettore dell'Universita', su proposta del consiglio della facolta' di medicina e chirurgia su proposta del direttore della scuola. Le commissioni sono composte di tre membri: dal direttore della scuola, da un professore ufficiale di materia affine o da un professore incaricato stabilizzato della materia e da un libero docente cultore di chirurgia sperimentale e microchirurgia. Ogni commissario ha a disposizione dieci punti la commissione per l'esame di diploma e' composta da cinque membri scelti fra i docenti della scuola nominati dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Ogni commissario ha a disposizione dieci punti.  
-Art. 270. - Alle spese occorrenti per il funzionamento della scuola si provvede con contributi eventualmente concessi da Ministeri, dalle regioni, da enti pubblici o privati e dalle seguenti tasse, soprattasse e contributi degli iscritti:  
+Gli articoli 198, 199, 200, 201 e 202, relativi alla scuola di specializzazione in chirurgia plastica ricostruttiva, che muta la denominazione in quella di scuola di specializzazione in chirurgia plastica, sono soppressi e sostituiti dai seguenti:  
   
-tassa di immatricolazione (da versare una sola volta). . . . L. 8.000 tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 18.000 soprattassa annuale di esame . . . . . . . . . . . . . . . . L. 7.000 contributi vari . . . . . . . . . . . . . . . . . . . . . . L. 24.000 contributo scuola. . . . . . . . . . . . . . . . . . . . . L. 241.000   
+Scuola di specializzazione in chirurgia plastica  
+  
+Art. 198. - La scuola di specializzazione in chirurgia plastica ha sede presso l'istituto di chirurgia plastica e conferisce il diploma di specialista in chirurgia plastica.  
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. La durata del corso degli studi e' di cinque anni e non e' suscettibile di abbreviazioni.  
+Il numero massimo degli allievi e' di nove per anno di corso e complessivamente di quarantacinque iscritti per l'intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami.  
+Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+anatomia ed embriologia, con particolare riguardo al capo, collo, arti superiori ed inferiori, organi genitali;  
+patologia generale (infezioni, flogosi, immunita', etiopatogenesi delle malformazioni congenite, neoplasie maligne e benigne);  
+anatomia ed istopatologia, con particolare riferimento alla malattia ustione e alle neoplasie maligne e benigne;  
+anestesiologia e rianimazione: concetti generali;  
+patologia secondaria;  
+guarigione delle ferite;  
+principi e regole pratiche di chirurgia (strumenti, sterilita', emostasi);  
+trapianti (biennale) I;  
+autoinnesti: indicazioni per l'utilizzazione terapeutica di cute, derma, grasso, fascia, cartilagine, ossa, tendini, segmenti nervosi e tessuti composti;  
+semeiologia del sistema nervoso periferico.  
+2° Anno:  
+anatomia chirurgica;  
+tecniche e procedure operatorie in chirurgia generale e in chirurgia plastica;  
+trapianti (biennale) II;  
+omoinnesti: concetti generali (con particolare riferimento agli aspetti genetici ed immunitari);  
+tipizzazione dei tessuti;  
+utilizzazione clinica degli omoinnesti;  
+etero-innesti: estensione e limiti della loro utilizzazione clinica;  
+inserti non biologici: estensione e limiti della loro utilizzazione clinica;  
+traumatologia dei tessuti molli;  
+traumi complessi interessanti cute, tessuti molli e ossa;  
+shock emorragico;  
+shock traumatico;  
+shock da ustione;  
+malattia-ustione: fisiopatologia e clinica (biennale) I.  
+3° Anno:  
+malattia-ustione: terapia medica e chirurgica (biennale) II;  
+lesioni da raggi;  
+elementi di chirurgia addominale;  
+elementi di otorinolaringoiatria;  
+elementi di stomatologia;  
+elementi di ortopedia generale;  
+dermatologia generale, con specifico riferimento alle malattie o lesioni di competenza plastica, passibili di trattamento chirurgico (biennale) I;  
+elementi di genetica.  
+4° Anno:  
+metodologia chirurgica differenziale;  
+malformazioni congenite del volto, delle mani e degli organi genitali;  
+agenesie;  
+chirurgia riparatrice e ricostruttiva della mano;  
+trattamento chirurgico delle lesioni del volto e delle fratture del massiccio facciale;  
+trattamento chirurgico delle deformita' congenite ed acquisite del naso, delle labbra, del mento, della mandibola, del palato, del pavimento dell'orbita, del padiglione auricolare;  
+metodologia chirurgica differenziale applicata ai danni anatomici e funzionali derivanti dalla paralisi del 7°;  
+chirurgia d'urgenza;  
+dermatologia generale, con specifico riferimento alle malattie o lesioni congenite di competenza plastica, passibili di trattamento chirurgico (biennale) II.  
+5° Anno:  
+patologia traumatica delle arterie e dei nervi periferici;  
+elementi di chirurgia vascolare;  
+microchirurgia vascolare e nervosa;  
+elementi di criobiologia e crioterapia;  
+elementi di fisio-chinesiterapia;  
+problemi psichiatrici e psicologici in chirurgia plastica;  
+medicina legale e delle assicurazioni, con particolare riferimento alle deformita' anatomiche e alle menomazioni funzionali di origine traumatica.  
+Art. 199. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.  
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere la prova di esame.  
+Art. 200. - E' fatto obbligo agli allievi del I biennio a presenziare ad un minimo di trenta sedute operatorie per anno; gli allievi del 3°, 4° e 5° anno devono partecipare quali primi assistenti ad un numero di cinquanta interventi per anno.  
+Art. 201. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno; per le materie a corsi pluriennali l'esame e' sostenuto alla fine dei corsi medesimi.  
+Art. 202. - Al termine del corso di studi per il conseguimento del diploma di specializzazione in chirurgia plastica, gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+  
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1980
+### Dato a Roma, addi' 14 gennaio 1980
 
-PERTINI BODRATO
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: MORLINO
 
-Registrati alla Corte dei conti, addi' 30 dicembre 1980
+Registrato alla Corte dei conti, addi' 31 luglio 1980
 
-Registro n. 122 Istruzione, foglio n. 33
+Registro n. 75 Istruzione, foglio n. 104

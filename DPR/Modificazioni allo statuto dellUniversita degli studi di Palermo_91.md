@@ -1,161 +1,394 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1569
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1981 n. 830
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1569
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1981 n. 830
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927 n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240) e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Palermo, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, numero 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Veduto il [decreto del Presidente della Repubblica 26 agosto 1959, n. 1341](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-08-26;1341);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Il testo dell'art. 149, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la denominazione della scuola di ostetricia e ginecologia muta in quella di:  
+scuola di ginecologia e ostetricia.  
+Nello stesso elenco sono aggiunte le seguenti scuole:  
+seconda scuola di specializzazione in ginecologia ed ostetricia; seconda scuola di specializzazione in medicina interna;  
+scuola di specializzazione in chirurgia oncologica;  
+scuola di specializzazione in microbiologia;  
+scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio.  
+
+Art. 2
+------
+
   
-Decreta:  
   
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Il testo dell'art. 166, relativo all'ordinamento degli studi della scuola di specializzazione in ostetricia e ginecologia che muta la denominazione in quella di ginecologia ed ostetricia, e' sostituito dai seguenti con lo spostamento della numerazione degli articoli successivi.   
   
-Dopo l'art. 82, sono aggiunti i seguenti nuovi articoli, relativi all'ordinamento della Facolta' di magistero con il conseguente spostamento della numerazione degli articoli successivi.  
+Prima scuola di specializzazione in ginecologia ed ostetricia   
   
-SEZIONE IX  
-FACOLTA' DI MAGISTERO  
+Art. 166. - La scuola di specializzazione in ginecologia ed ostetricia ha sede presso l'istituto di ginecologia e conferisce il diploma di specialista in ginecologia e ostetricia.   
+Art. 167. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento, la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.   
+I docenti della scuola sono nominati annualmente dalla facolta' di medicina e chirurgia su proposta del direttore della scuola.   
+La sede per le lezioni e per gli esami di profitto e di diploma deve rimanere quella universitaria.   
+Art. 168. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+Art. 169. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
+Art. 170. - Il numero massimo degli allievi e' di 12 per anno di corso e complessivamente di 48 iscritti per l'intero corso di studi.   
+Art. 171. - L'ammissione al corso avviene per titoli ed esami.   
+Art. 172. - Le materie d'insegnamento sono le seguenti:   
+1° Anno:   
+a) elementi di genetica medica;   
+b) elementi di embriologia, anatomia macro e micro dell'apparato genitale; anatomia delle pelvi;   
+c) elementi di fisiopatologia della riproduzione umana;   
+d) fisiologia ostetrica;   
+e) endocrinologia ginecologia ed ostetrica;   
+f) semeiotica e diagnostica ostetrica;   
+g) lingua straniera (inglese) (quadriennale);   
+h) patologia ostetrica e ginecologica (biennale) I.   
+2° Anno:   
+a) semeiotica e diagnostica ginecologica;   
+b) operazioni ostetriche (biennale) I;   
+c) anatomia ed istologia patologica della sfera genitale femminile;   
+d) citologia ginecologica;   
+e) patologia ostetrica e ginecologica (biennale) II;   
+f) diagnostica di laboratorio in ostetrica e ginecologia;   
+g) lingua straniera (inglese) (quadriennale) II.   
+3° Anno:   
+a) puericultura prenatale;   
+b) immunologia ostetrica e ginecologica;   
+c) analgo-anestesia e rianimazione in ostetricia;   
+d) operazioni ostetriche (biennale) II;   
+e) operazioni ginecologiche (biennale) I;   
+f) ostetricia e ginecologia forense;   
+g) terapia medica in ostetricia e ginecologia;   
+h) clinica ostetrica e ginecologica (biennale) I;   
+i) psicosomatica ostetrica e ginecologica;   
+l) lingua straniera (inglese) (quadriennale) III.   
+4° Anno:   
+a) neonatologia;   
+b) urologia ginecologica;   
+c) radio-diagnostica e terapia fisica in ostetricia e ginecologia;   
+d) chirurgia addominale;   
+e) operazioni ginecologiche (biennale) II;   
+f) clinica ostetrica e ginecologica (biennale) II;   
+g) lingua straniera (inglese) (quadriennale) IV.   
+Art. 173. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Gli iscritti oltre all'obbligo della frequenza alle lezioni, esercitazioni, seminari, ecc., debbono prestare servizio per undici mesi ogni anno accademico presso le strutture universitarie od ospedaliere convenzionate.   
+Gli iscritti alla scuola debbono sostenere esami annuali di profitto per le materie in programma nell'anno e l'esame finale di diploma. Per le materie o corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.   
+Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, debbono superare le prove di esame sulle materie impartite durante l'anno.   
+Per il conseguimento del diploma (votazione in cinquantesimi), gli iscritti dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+Inoltre dovra' essere documentata l'attivita' clinica operatoria personale.   
+L'esame di diploma e' unico ed e' espletato alla fine della sessione autunnale.   
+
+Art. 3
+------
+
   
-Art. 83. - La Facolta' di magistero rilascia le lauree in materie letterarie, in pedagogia ed in lingue e letterature straniere.  
-Rilascia inoltre il diploma di abilitazione alla vigilanza nelle scuole elementari.  
-Corso di laurea in materie letterarie  
-Art. 84. - La durata del corso di studi per la laurea in materie letterarie e' di quattro anni.  
-Titolo di ammissione: diploma di abilitazione magistrale e concorso.  
-Il concorso di ammissione consiste:  
-a) nella valutazione dei voti riportati negli esami per il conseguimento del diploma di abilitazione magistrale nel gruppo delle materie letterarie;  
-b) una prova scritta di cultura generale per la quale sono concesse sei ore di tempo.  
-Sono insegnamenti fondamentali:  
-1) Lingua, e letteratura italiana (triennale);  
-2) Lingua e letteratura latina (triennale);  
-3) Storia (triennale);  
-4) Geografia (triennale);  
-5) Pedagogia;  
-6) Storia della filosofia;  
-7) Lingua e letteratura moderna straniera a scelta (biennale).  
-Sono insegnamenti complementari:  
-1) Grammatica latina;  
-2) Filologia romanza;  
-3) Storia delle tradizioni popolari;  
-4) Lingua e civilta' greca;  
-5) Istituzioni di diritto pubblico e legislazione scolastica;  
-6) Storia della grammatica e della lingua italiana;  
-7) Storia dell'arte medioevale e moderna;  
-8) Storia della musica;  
-9) Storia della geografia (Storia della scienza e delle esplorazioni);  
-10) Storia del risorgimento;  
-11) Etnologia.  
-Il terzo anno del corso di geografia deve essere differenziato come corso di applicazione.  
-Nel corso di storia (triennale) un anno deve essere dedicato alla storia romana, un anno alla storia medioevale ed uno alla storia moderna, alternativamente.  
-Lo studente deve sostenere una prova scritta di traduzione latina, una della lingua straniera scelta ed una di cultura generale.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari.  
-Corso di laurea in pedagogia  
-Art. 85. - La durata del corso per la laurea in pedagogia e' di quattro anni.  
-Titoli di ammissione: diploma di abilitazione magistrale e concorso.  
-Il concorso di ammissione consiste:  
-a) nella valutazione dei voti riportati per il conseguimento del diploma di abilitazione magistrale, nella filosofia e nella pedagogia;  
-b) in una prova scritta di cultura generale, per cui sono concesse sei ore di tempo.  
-Sono insegnamenti fondamentali:  
-1) Lingua e letteratura italiana (biennale);  
-2) Lingua e letteratura latina (biennale);  
-3) Storia della filosofia (biennale);  
-4) Filosofia (biennale);  
-5) Pedagogia (triennale);  
-6) Storia (biennale);  
-7) Lingua e letteratura moderna straniera a scelta (biennale).  
-Sono insegnamenti complementari:  
-1) Filologia romanza;  
-2) Istituzioni di diritto pubblico e legislazione scolastica;  
-3) Psicologia;  
-4) Storia delle tradizioni popolari;  
-5) Storia dell'arte medioevale e moderna;  
-6) Storia della grammatica e della lingua italiana;  
-7) Etnologia;  
-8) Storia della musica;  
-9) Storia della pedagogia.  
-Nel corso di storia (biennale) un anno deve essere dedicato alla storia medioevale ed uno alla storia moderna alternativamente.  
-Lo studente deve sostenere una prova scritta di italiano, una di traduzione latina, una della lingua straniera a scelta, ed una di cultura generale sulle discipline filosofiche.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari.  
-Corso di laurea in lingue o letterature straniere  
-Art. 86. - La durata del corso degli studi per la laurea in lingue e letterature straniere e' di quattro anni.  
-Titoli di ammissione: diploma di abilitazione magistrale, o licenza, a norma dell'[art. 2 della legge 9 ottobre 1951 n. 1130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-10-09;1130~art2), dalla Scuola civica "Regina Margherita" di Genova, ora "Grazia Deledda", o dalla Scuola civica "Alessandro Manzoni" di Milano, o dall'Istituto di cultura e di lingue "Marcelline" di Milano, ovvero licenza a norma della [legge 12 marzo 1957, n. 94](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-03-12;94), o dal Liceo linguistico femminile "Santa Caterina da Siena" di Venezia, o dal Liceo linguistico "Orsoline del Sacro Cuore" di Cortina d'Ampezzo, e concorso.  
-Il concorso di ammissione consiste:  
-a) nella valutazione dei voti riportati, nel gruppo delle materie letterarie agli esami per il conseguimento dei titoli di studi medi prescritto per l'ammissione;  
-b) in una prova scritta, di cultura generale per la quale sono concesse sei ore di tempo.  
-Sono insegnamenti fondamentali:  
-1) Lingua e letteratura italiana (biennale);  
-2) Lingua e letteratura latina (biennale);  
-3) Lingua e letteratura francese;  
-4) Lingua e letteratura tedesca;  
-5) Lingua e letteratura spagnola;  
-6) Lingua e letteratura inglese;  
-7) Filologia romanza;  
-8) Filologia germanica;  
-9) Storia (biennale);  
-10) Geografia.  
-Sono insegnamenti complementari:  
-1) Storia della filosofia;  
-2) Filosofia;  
-3) Pedagogia;  
-4) Storia delle tradizioni popolari;  
-5) Storia e letteratura romena;  
-6) Storia della musica;  
-7) Storia della geografia (Storia della scienza e delle esplorazioni);  
-8) Etnologia;  
-9) Storia delle religioni.  
-Lo studente deve seguire per tutti i quattro anni del corso di laurea l'insegnamento della lingua straniera alla quale intende dedicare i suoi studi, e per due anni quello di un'altra, delle lingue straniere; egli puo' inoltre seguire, pure per due anni, l'insegnamento di una terza lingua straniera, nel quale caso puo' diminuire di uno gli insegnamenti complementari.  
-Nel corso di storia (biennale) un anno deve essere dedicato alla storia medioevale ed uno alla storia moderna, alternativamente.  
-Lo studente deve sostenere una prova scritta di italiano, una di traduzione latina, e una di cultura generale nella lingua straniera nella quale ha approfondito i suoi studi per il conseguimento della laurea.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in tre da lui scelti fra i complementari.  
-Diploma di abilitazione alla vigilanza nelle scuole elementari  
-Art. 87. - La durata del corso degli studi per il conseguimento del diploma di abilitazione alla vigilanza nelle scuole elementari e' di tre anni.  
-Titoli di ammissione: diploma di abilitazione magistrale e concorso.  
-Il concorso di ammissione consiste:  
-a) nella valutazione dei voti riportati agli esami per il conseguimento del diploma di abilitazione magistrale, nel gruppo delle materie letterarie e nella filosofia e pedagogia;  
-b) in una prova scritta di cultura generale per la quale sono concesse sei ore di tempo.  
-Sono insegnamenti fondamentali:  
-1) Pedagogia (triennale);  
-2) Lingua e letteratura italiana (biennale);  
-3) Lingua e letteratura latina (biennale);  
-4) Storia (biennale);  
-5) Istituzioni di diritto pubblico e legislazione scolastica;  
-6) Geografia (biennale);  
-7) Storia della filosofia (biennale);  
-8) Igiene.  
-Sono insegnamenti complementari:  
-1) Lingua straniera moderna a scelta (biennale).  
-Lo studente deve sostenere una prova scritta di pedagogia, una di italiano e una della lingua straniera prescelta.  
-Per conseguire il diploma lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali, ed in quello complementare.  
-Art. 88. - Lo studente, all'atto della presentazione della domanda di ammissione all'esame di concorso, dovra' dichiarare a quale tipo di corso di laurea o di diploma intende iscriversi.  
-Art. 89. - Gli esami saranno sostenuti per singole materie. Per gli insegnamenti triennali o biennale lo esame sara' sostenuto alla fine del singolo anno di corso.  
-Art. 90. - Il preside controlla ed approva i piani di studi presentati dagli studenti per ogni anno di corso.  
-Art. 91. - Per quanto riguarda l'iscrizione ad anno successivo al primo di studenti gia' laureati in materie letterarie, o pedagogia, o lingue e letterature straniere, o di altre Facolta' universitarie o Istituti superiori che siano, pero' in possesso di diploma di abilitazione magistrale o degli studenti gia' in possesso del diploma di abilitazione alla vigilanza nelle scuole elementari, valgono le disposizioni di cui agli [articoli 10](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-04;1269~art10) e [11 del regio decreto 4 giugno 1938, n. 1269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-04;1269~art11).  
+Dopo l'art. 173, e con lo spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo alla istituzione della seconda scuola di specializzazione in ginecologia e ostetricia.  
+Art. 174. - La seconda scuola di specializzazione in ginecologia e ostetricia ha sede presso l'istituto di ginecologia e patologia infantile.  
+Il numero degli iscritti e' di dodici per anno di corso per complessivi quarantotto iscritti ripartiti nei quattro anni.  
+Per quanto riguarda la direzione della scuola, la durata del corso, i titoli di ammissione, l'ordinamento degli studi ed ogni altra norma, si rimanda all'ordinamento della prima scuola di specializzazione in ginecologia ed ostetricia (articoli 166-173).  
+
+Art. 4
+------
+
+  
+Il secondo e l'ultimo comma dell'art. 199, relativi alla scuola di specializzazione in medicina dello sport, sono sostituiti rispettivamente dai seguenti:  
+"Numero massimo degli iscritti quindici per anno di corso (totale quarantacinque iscritti)".  
+"La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima".  
+Il testo dell'art. 200, relativo all'ordinamento degli studi della predetta scuola, e' sostituito dal seguente:  
+Art. 200. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1° Anno:  
+1) anatomia dell'apparato locomotore;  
+2) fisiologia dell'apparato locomotore;  
+3) biochimica ed energetica muscolare;  
+4) antropometria e auxologia;  
+5) psicologia applicata allo sport;  
+6) storia dell'educazione fisica e dello sport;  
+7) sistematica dell'attivita' sportivo-agonistiche e regolamenti sportivi.  
+2° Anno:  
+1) fisiologia dell'esercizio fisico;  
+2) biomeccanica dell'esercizio fisico;  
+3) metodologia dell'allenamento sportivo;  
+4) scienza della nutrizione applicata all'attivita' sportiva;  
+5) fisiologia degli sports e semeiotica medico-sportiva I;  
+6) farmacologia e tossicologia del doping;  
+7) igiene e medicina preventiva applicata all'attivita' sportiva;  
+8) traumatologia degli sports.  
+3° Anno:  
+1) fisiologia applicata agli sports;  
+2) valutazione funzionale dello sportivo;  
+3) fisiopatologia degli sports e semeiotica medico-sportiva II;  
+4) fisioterapia e rieducazione funzionale;  
+5) rianimazione e pronto soccorso;  
+6) medicina legale e infortunistica applicata agli sports;  
+7) fisiologia dell'adattamento agli ambienti straordinari.  
+
+Art. 5
+------
+
+  
+Dopo l'art. 220, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle seguenti scuole di specializzazione:  
+seconda scuola di medicina interna;  
+scuola di chirurgia oncologica;  
+scuola di microbiologia;  
+scuola di tisiologia e malattie dell'apparato respiratorio.  
+  
+Seconda scuola di specializzazione in medicina interna  
+  
+Art. 221. - La seconda scuola di specializzazione in medicina interna ha sede presso l'istituto di clinica medica e conferisce il diploma di specialista in medicina interna.  
+Art. 222. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+Art. 223. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno per l'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.  
+Art. 224. - Il corso di specializzazione ha la durata di cinque anni, non e' suscettibile di abbreviazione e prevede l'insegnamento di tutte le branche della medicina interna.  
+L'ammissione al corso avviene per titoli ed esami.  
+Art. 225. - Il numero degli iscritti e' di sei per anno di corso per un totale di trenta iscritti nell'intero corso di studi.  
+Insegnamenti impartiti nella scuola:  
+1° Anno:  
+malattie infettive, disreattive e del sangue;  
+istituzioni di terapia;  
+anatomia ed istologia patologica (biennale) I;  
+clinica medica generale e terapia medica (quinquennale I.  
+2° Anno:  
+malattie dell'apparato cardio-vascolare;  
+microbiologia e sierologia;  
+chimica clinica;  
+anatomia e istologia patologica (biennale) II;  
+clinica medica generale e terapia medica (quinquennale) II.  
+3° Anno:  
+malattie dell'apparato digerente;  
+malattie renali;  
+clinica medica generale e terapia medica (quinquennale) III.  
+4° Anno:  
+malattie dell'apparato respiratorio;  
+malattie del sistema nervoso;  
+clinica medica generale e terapia medica (quinquennale) IV.  
+5° Anno:  
+malattie del ricambio;  
+malattie delle ghiandole endocrine;  
+clinica medica generale e terapia medica (quinquennale) V.  
+Insegnamenti complementari:  
+parassitologia medica;  
+genetica medica;  
+semeiotica dermatologica;  
+semeiotica oculistica;  
+semeiotica ginecologica;  
+radiologia.  
+Art. 226. - Il corso si compone di lezioni, esercitazioni pratiche nei reparti ai fini di apprendimento, di conferenze e di turni in corsie.  
+La partecipazione alle lezioni, alle esercitazioni pratiche nei reparti ai fini di apprendimento, alle conferenze ed ai turni in corsia e' obbligatoria. In caso contrario i candidati non possono ottenere la attestazione di frequenza necessaria per l'ammissione agli esami.  
+Art. 227. - Alla fine di ogni anno di corso gli specializzandi in regola con la firma di frequenza devono sostenere un esame di profitto, su ognuna delle materie di insegnamento. Il superamento di tutti gli esami e' condizione indispensabile per l'ammissione all'anno successivo e, per coloro che frequentano l'ultimo anno della scuola, per essere ammessi all'esame di diploma.  
+Art. 228. - Per gli specializzandi che hanno superato tutti gli esami dei cinque anni di corso e' previsto, alla fine dell'ultimo, l'esame di diploma che consiste nella presentazione di una dissertazione scritta su di un argomento di medicina interna.  
+L'argomento della sovraddetta dissertazione deve essere preventivamente concordato con il direttore della scuola.  
+
+Art. 6
+------
+
+Scuola di specializzazione in medicina in chirurgia oncologica
+
+  
+  
+Art. 229. - La scuola di specializzazione in chirurgia oncologica ha sede presso l'istituto di clinica e patologia chirurgica dell'Universita' degli studi di Palermo e conferisce il diploma di specialista in chirurgia oncologica. La scuola ha lo scopo di fornire al giovane laureato che si voglia dedicare allo studio dei mezzi di diagnosi e di cura chirurgica della neoplasia, un corso di perfezionamento nel quale trovi spazio ogni utile conoscenza in questo settore.  
+Art. 230. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
+Art. 231. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Art. 232. - La durata del corso e' di cinque anni e non e' suscettibile di abbreviazioni.  
+Art. 233. - Il numero massimo degli iscritti e' di quattro per anno di corso, e complessivamente di venti allievi per l'intero corso di studi.  
+Art. 234. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 235. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) etiopatogenesi dei tumori ed immunologia in oncologia;  
+2) anatomia ed istologia patologica dei tumori;  
+3) epidemiologia dei tumori;  
+4) oncologia clinica;  
+5) clinica chirurgica oncologica I;  
+6) senologia ed endocrinologia oncologica.  
+2° Anno:  
+1) clinica chirurgica oncologica II;  
+2) semeiotica chirurgica generale e speciale (mezzi di diagnosi precoce);  
+3) principi di programmazione terapeutica;  
+4) oncologia ginecologica;  
+5) oncologia maxillo-facciale e stomatologica;  
+6) oncologia otorinolaringoiatrica;  
+7) oncologia ortopedica.  
+3° Anno:  
+1) diagnosi radiologica generale e speciale, isotopi radioattivi e tecniche angiografiche in oncologia;  
+2) diagnosi citologica e diagnostica istopatologica estemporanea;  
+3) principi di anestesia e rianimazione, terapia del dolore;  
+4) oncologia neurologica;  
+5) tecniche chirurgiche in oncologia (apparato digerente e ghiandole annesse) I;  
+6) chirurgia plastica ricostruttiva.  
+4° Anno:  
+1) tecniche chirurgiche speciali e trattamento chemioterapico distrettuale;  
+2) radioterapia oncologica;  
+3) chemioterapia oncologica;  
+4) profilassi oncologica;  
+5) prognosi dei vari tipi di tumori e significato dei controlli periodici dei curati;  
+6) tecniche chirurgiche in oncologia II.  
+5° Anno:  
+1) tecniche chirurgiche in oncologia: apparato respiratorio e mediastino;  
+2)tecniche chirurgiche in oncologia: apparato urinario e genitale maschile;  
+3) endocrinochirurgia oncologica;  
+4) chirurgia del dolore;  
+5) possibilita' e tecniche della riabilitazione e del recupero;  
+6) tecniche chirurgiche in oncologia III.  
+Art. 236. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
+Art. 237. - Alla fine di ogni corso, gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi. Al termine del corso di studi per il conseguimento del diploma di specialista in chirurgia oncologica gli allievi dovranno superare l'esame di diploma, che consiste nella dissertazione scritta su di un argomento attinente alla specializzazione, proposto dal direttore della scuola o da un docente della stessa, e dovranno sostenere una prova clinica.  
+Art. 238. - La direzione della scuola ha la facolta' di invitare i cultori della materia italiani e stranieri a tenere conferenze o seminari su argomenti di oncologia.  
+
+Art. 7
+------
+
+Scuola di specializzazione in microbiologia
+
+  
+  
+Art. 239. - La scuola di specializzazione in microbiologia ha sede presso l'istituto di microbiologia e conferisce il diploma di specialista in microbiologia o in microbiologia con indirizzo tecnico.   
+La scuola di specializzazione in microbiologia ha lo scopo di allargare e approfondire sul piano scientifico la cultura di coloro che si dedicano allo studio di questa disciplina e di fornire sul piano tecnico una preparazione pratica specifica.   
+Art. 240. - La direzione della scuola e' affidata al professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata al professore associato, che pure insegni nella scuola medesima.   
+Art. 241. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. E' contemplato un secondo indirizzo in tecniche microbiologiche al quale sono ammessi i laureati in medicina veterinaria, in scienze biologiche, in scienze naturali, in farmacia, in chimica e tecnologia farmaceutiche.   
+Art. 242. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
+Art. 243. - Il numero massimo degli allievi e' per ciascun indirizzo di cinque per anno di corso e complessivamente di venti iscritti per ciascun indirizzo per l'intero corso di studi.   
+Art. 244. - L'ammissione al corso avviene per titoli ed esami.   
+Art. 245. - Le materie di insegnamento sono le seguenti:   
+  
+PRIMO BIENNIO   
+(comune ai due indirizzi)   
+1° Anno:   
+1) batteriologia generale I;   
+2) tecniche batteriologiche;   
+3) immunologia generale;   
+4) genetica dei microorganismi.   
+2° Anno:   
+5) batteriologia generale II;   
+6) antibiotici e chemioterapici;   
+7) virologia generale;   
+8) immunologia generale e tecniche immunologiche;   
+9) dosaggio biologico ed analisi statistica.   
+  
+SECONDO BIENNIO   
+(indirizzo medico)   
+3° Anno:   
+10) microorganismi patogeni e malattia;   
+11) batteriologia speciale I;   
+12) virologia speciale e tecniche virologiche;   
+13) micologia medica;   
+14) epidemiologia delle malattie infettive.   
+4° Anno:   
+15) batteriologia speciale II;   
+16) sierologia;   
+17) microbiologia degli alimenti;   
+18) microbiologia dell'ambiente;   
+19) protozoologia medica.   
+  
+SECONDO BIENNIO   
+(indirizzo in tecniche microbiologiche)   
+3° Anno:   
+10) azione patogena dei microorganismi;   
+11) tecniche batteriologiche e batteriologia speciale I;   
+12) microbiologia generale e tecniche micologiche;   
+13) tecniche virologiche e virologia speciale;   
+14) protozoologia.   
+4° Anno:   
+15) tecniche batteriologiche e batteriologia speciale II;   
+16) microbiologia industriale;   
+17) esame microbiologico dell'ambiente;   
+18) controllo microbiologico degli alimenti;   
+19) tecniche sierologiche.   
+Il direttore puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari di conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola.   
+Art. 246. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Art. 247. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi, l'esame di diploma constera' in una discussione sopra una tesi scritta.   
+A coloro che abbiano superato l'esame finale verra' rilasciato un diploma di specialista in microbiologia o, per i non laureati in medicina e chirurgia, un diploma di "specialista in microbiologia con indirizzo tecnico".   
+
+Art. 8
+------
+
+Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio
+
+  
+  
+Art. 248. - La scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio ha sede presso l'istituto di medicina generale e pneumologia e conferisce il diploma di specialista in tisiologia e malattie dell'apparato respiratorio.  
+Art."249. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
+Art. 250. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto all'inizio del corso il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Art. 251. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
+Art. 252. - Il numero massimo degli allievi e' di quindici per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi.  
+Art. 253. - L'ammissione avviene per titoli ed esami.  
+Art. 254. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) I;  
+patologia della tubercolosi polmonare ed extra polmonare;  
+patologia delle malattie dell'apparato respiratorio;  
+fisiologia e fisiopatologia generale dell'apparato respiratorio;  
+semeiotica fisica e funzionale dell'apparato respiratorio;  
+microbiologia;  
+epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.  
+2° Anno:  
+anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) II;  
+clinica della tubercolosi (triennale) I;  
+clinica delle malattie dell'apparato respiratorio (triennale) I;  
+fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;  
+broncologia;  
+radiologia dell'apparato respiratorio;  
+profilassi della tubercolosi;  
+igiene e legislazione sociale.  
+3° Anno:  
+clinica delle malattie dell'apparato respiratorio (triennale) II;  
+clinica della tubercolosi (triennale) II;  
+chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;  
+terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;  
+terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.  
+4° Anno:  
+clinica delle malattie dell'apparato respiratorio (triennale) III;  
+clinica della tubercolosi (triennale) III.  
+Gli insegnamenti complementari sono i seguenti:  
+immunologia clinica;  
+cardiologia;  
+medicina nucleare;  
+terapia intensiva pneumologica;  
+malattie professionali dell'apparato respiratorio.  
+I corsi di insegnamento sono integrati da conferenze, da esercitazioni pratiche, da seminari interdisciplinari (questi ultimi prevalentemente destinati al 4° anno) e da turni di frequenza obbligatoria a fine di apprendimento, per i quali gli allievi hanno l'obbligo di frequenza al pari delle lezioni.  
+Alla fine di ogni anno di corso gli allievi dovranno superare una prova di esame sulle materie del rispettivo anno.  
+Alla fine del 4° anno gli allievi dovranno sostenere l'esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione assegnato dal direttore della scuola o da uno degli insegnanti della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 ottobre 1960
+### Dato a Roma, addi' 28 ottobre 1981
 
-GRONCHI BOSCO
+PERTINI BODRATO
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 22 dicembre 1960
+Registrato alla Corte dei conti, addi' 7 gennaio 1982
 
-Atti del Governo, registro n. 132, foglio n. 116. - VILLA
+Registro n. 1 Istruzione, foglio n. 145

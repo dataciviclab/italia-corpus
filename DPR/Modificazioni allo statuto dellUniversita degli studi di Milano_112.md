@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1239
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979 n. 427
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1239
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979 n. 427
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -18,9 +18,11 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -30,101 +32,13 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-L'art. 148, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel modo seguente:
+Art. 148 - all'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola di specializzazione in chirurgia maxillo-facciale ed il corso di perfezionamento in neonatologia.
 
-la scuola di specializzazione in chirurgia dell'infanzia muta la denominazione in quella di scuola di specializzazione in chirurgia pediatrica;
+Gli articoli 258, 259 e 260, relativi alla scuola di specializzazione in reumatologia, sono soppressi e sostituiti dai seguenti:
 
-la scuola di specializzazione in oculistica muta la denominazione in quella di scuola di specializzazione in oftalmologia.
+Scuola di specializzazione in reumatologia
 
-Gli articoli 182, 183, 184, 185, 186, 187, 188 e 189, relativi alla scuola di specializzazione in chirurgia dell'infanzia che muta la denominazione in quella di scuola di specializzazione in chirurgia pediatrica, sono abrogati e sostituiti dai seguenti:
-
-Scuola di specializzazione in chirurgia pediatrica
-
-Art. 182. - La scuola di specializzazione in chirurgia pediatrica ha sede presso una cattedra di materie chirurgiche e conferisce il diploma di specialista in chirurgia pediatrica.
-
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
-
-Art. 183. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione allo esercizio professionale rilasciato dall'autorita' competente.
-
-La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni.
-
-Art. 184. - Il numero massimo degli allievi e' di 10 (dieci) per anno di corso e complessivamente di cinquanta iscritti per l'intero corso di studi.
-
-Art. 185. - L'ammissione al corso avviene per titoli ed esami.
-
-Art. 186. - Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-embriologia e genetica delle malformazioni congenite;
-
-anatomia patologica generale (biennale) I;
-
-diagnostica radiologica e nucleare generale;
-
-anestesiologia;
-
-clinica pediatrica (biennale) I;
-
-patologia e clinica chirurgica generale (biennale) I.
-
-2° Anno:
-
-patologia e clinica chirurgica generale (biennale) II;
-
-rianimazione e terapia intensiva (biennale) I;
-
-anatomia patologica generale (biennale) II;
-
-diagnostica radiologica e nucleare delle malattie infantili;
-
-clinica pediatrica (biennale) II.
-
-3° Anno:
-
-patologia e clinica chirurgica pediatrica (triennale) I;
-
-endocrinologia pediatrica;
-
-tecnica chirurgica generale;
-
-rianimazione e terapia intensiva (biennale) II;
-
-chirurgia neonatale.
-
-4° Anno:
-
-patologia e clinica chirurgica pediatrica (triennale) II;
-
-neurochirurgia pediatrica;
-
-tecnica chirurgica pediatrica;
-
-ortopedia pediatrica;
-
-chirurgia plastica e ricostruttiva pediatrica.
-
-5° Anno:
-
-patologia e clinica chirurgica pediatrica (triennale) III;
-
-otorinolaringoiatria pediatrica;
-
-cardiochirurgia pediatrica;
-
-urologia pediatrica.
-
-Art. 187. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
-
-Art. 188. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi, devono superare le prove d'esame sulle materie impartite durante l'anno ad eccezione delle discipline svolte in corsi pluriennali il cui esame sara' sostenuto alla fine dei corsi medesimi.
-
-Art. 189.- Al termine del corso di studio per il conseguimento del diploma di specialista in chirurgia pediatrica gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
-
-L'art. 217, relativo alla scuola di specializzazione in medicina del lavoro, e' abrogato e sostituito dal seguente:
-
-Scuola di specializzazione in medicina del lavoro
-
-Art. 217. - La scuola di specializzazione in medicina del lavoro ha sede presso l'istituto di medicina del lavoro e conferisce il diploma di specializzazione in medicina del lavoro.
+Art. 258. - La scuola di specializzazione in reumatologia ha sede presso la cattedra di reumatologia e conferisce il diploma di specialista in reumatologia.
 
 La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
 
@@ -132,172 +46,232 @@ Possono iscriversi alla scuola i laureati in medicina e chirurgia.
 
 E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
 
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
 
-Il numero massimo degli allievi e' di quaranta per anno di corso e complessivamente di centosessanta iscritti per l'intero corso di studi.
+Il numero massimo degli allievi e' di quindici per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi.
 
 L'ammissione al corso avviene per titoli ed esami.
 
-Le materie di insegnamento sono le seguenti:
+Art. 259. - Le materie d'insegnamento sono le seguenti:
 
 1° Anno:
 
-1) igiene del lavoro (I corso);
+anatomia, istologia e morfogenesi dell'apparato locomotore;
 
-2) fisiologia del lavoro ed ergonomia (I corso);
+fisiologia e fisiopatologia dell'apparato locomotore;
 
-3) tecnologia industriale;
+biochimica di interesse reumatologico;
 
-4) statistica medica e biometria;
+microbiologia in relazione alle malattie reumatiche;
 
-5) tecniche di laboratorio.
+immunologia reumatologica;
 
-2° Anno:
+semeiotica fisica e strumentale in reumatologia I (biennale). 2° Anno:
 
-1) patologia e clinica delle malattie da lavoro (I corso);
+semeiotica fisica e strumentale in reumatologia II (biennale); esami di laboratorio in reumatologia;
 
-2) igiene del lavoro (II corso);
+diagnostica radiologica delle reumo-artropatie;
 
-3) fisiologia del lavoro ed ergonomia (II corso);
+farmacologia reumatologica;
 
-4) psicologia del lavoro;
+anatomia ed istologia patologica delle malattie reumatiche;
 
-5) tossicologia industriale.
+clinica e terapia delle malattie reumatiche I (triennale).
 
 3° Anno:
 
-1) patologia e clinica delle malattie da lavoro (II corso);
+clinica e terapia ortopedica I (biennale);
 
-2) prevenzione degli infortuni e delle malattie da lavoro (I corso);
+fisiochinesi-terapia reumatologica;
 
-3) epidemiologia delle malattie da lavoro;
+idro-climatologia di interesse reumatologico;
 
-4) radiobiologia e radioprotezione;
+reumo-artropatie professionali;
 
-5) dermatologia professionale.
+clinica e terapia delle malattie reumatiche II (triennale).
 
 4° Anno:
 
-1) patologia e clinica delle malattie da lavoro (III corso);
+epidemiologia e aspetti sociali dei reumatismi;
 
-2) prevenzione degli infortuni e delle malattie da lavoro (II corso);
+riabilitazione del malato reumatico;
 
-3) pronto soccorso;
+clinica e terapia ortopedica II (biennale);
 
-4) medicina legale e delle assicurazioni;
+clinica e terapia delle malattie reumatiche III (triennale).
 
-5) organizzazione dei servizi di medicina e igiene del lavoro.
+Art. 260. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove d'esame.
 
-Gli esami delle discipline svolte in corsi pluriennali verranno sostenuti alla fine dell'ultimo corso.
+Alla fine di ogni corso gli iscritti per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie biennali o triennali l'esame e' sostenuto alla fine del biennio o del triennio.
 
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.
+Al termine del corso di studi per il conseguimento del diploma di specialista in reumatologia, gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
 
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in chirurgia maxillo-facciale e del corso di perfezionamento in neonatologia:
 
-Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie biennali o triennali l'esame sara' sostenuto alla fine del biennio o del triennio.
+Scuola di specializzazione in chirurgia maxillo-facciale
 
-Al termine del corso di studi per il conseguimento del diploma di specialista in medicina del lavoro, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione.
+Art. 265. - E' istituita presso la facolta' di medicina e chirurgia dell'Universita' degli studi di Milano la scuola di specializzazione in chirurgia maxillo-facciale.
 
-L'art. 218, relativo alla scuola di specializzazione in medicina dello sport, e' abrogato e sostituito dal seguente:
+La durata del corso e' di cinque anni.
 
-Scuola di specializzazione in medicina dello sport
+Non sono consentite, per alcun motivo, abbreviazioni di corso.
 
-Art. 218. - La scuola di specializzazione in medicina dello sport dell'Universita' degli studi di Milano si propone:
+Il numero massimo degli iscritti non puo' superare le ventidue unita'.
 
-a) di valorizzare e approfondire gli studi biologici e di medicina applicata nel campo delle attivita' sportive, formative e di competizione, e della educazione fisica;
+Titolo di ammissione alla suddetta scuola e' la laurea in medicina e chirurgia e gli aspiranti vengono scelti tra i migliori per i titoli e per esami secondo le norme dello statuto universitario.
 
-b) di preparare adeguatamente sotto l'aspetto teorico e della applicazione pratica i medici che intendono dedicarsi alle attivita' attinenti a questa particolare branca della medicina applicata, conferendo ad essi il diploma di specialista in medicina dello sport.
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
 
-Il titolo richiesto per l'ammissione alla scuola e' la laurea in medicina e chirurgia.
+La frequenza ai corsi ed eventuali esercitazioni pratiche nei reparti sono obbligatori.
 
-Il corso di studi ha durata di tre anni, con frequenza obbligatoria; esso ha la sua sede ufficiale presso l'istituto di fisiologia umana. Gli insegnamenti clinici e specialistici si svolgeranno presso i rispettivi istituti clinici e specialistici.
-
-Il numero massimo degli allievi sara' di venti per anno e complessivamente di sessanta per l'intero corso.
-
-L'ammissione ai corsi avviene per titoli. Nel caso di domande eccedenti il numero dei posti disponibili la selezione dei candidati avverra' in base ai risultati di un esame di ammissione.
-
-Non sono previste abbreviazioni di corso.
-
-La direzione del corso e' affidata al direttore dell'istituto di fisiologia umana.
-
-L'ordine degli studi e' il seguente:
+Art. 266. - Le materie di insegnamento sono:
 
 1° Anno:
 
-1) anatomia dell'apparato locomotore;
+embriologia, istologia, anatomia normale e topografica del distretto maxillo-facciale con particolare riguardo all'apparato stomatognatico;
 
-2) fisiologia dell'apparato locomotore;
+anatomia chirurgica del distretto maxillo-facciale
 
-3) biochimica ed energetica muscolare;
+con particolare riguardo all'apparato stomatognatico;
 
-4) antropometria e auxologia:
+le malformazioni e deformazioni maxillo-facciali;
 
-5) psicologia applicata allo sport;
+cefalometria e gnatologia;
 
-6) storia dell'educazione fisica e dello sport;
+nozioni di ortognatodonzia;
 
-7) sistematica delle attivita' sportivo-agonistiche e regolamenti sportivi.
+nozioni generali di tecnica operatoria I (biennale).
 
 2° Anno:
 
-1) fisiologia dell'esercizio fisico;
+anatomia patologica del distretto maxillo-facciale;
 
-2) biomeccanica dell'esercizio fisico;
+anatomia patologica della A.T.M. e nozioni di anatomia patologica e dentale e paradentale;
 
-3) metodologia dell'allenamento sportivo;
+nozioni di farmacologia ed anestesia;
 
-4) scienza della nutrizione applicata all'attivita' sportiva;
+patologia e clinica delle ossa mascellari e della A.T.M.;
 
-5) fisiopatologia degli sport e semeiotica medicosportiva I;
+nozioni di patologia e clinica dei tessuti dentari e parodontari;
 
-6) farmacologia e tossicologia del doping;
-
-7) igiene e medicina preventiva applicata all'attivita' sportiva;
-
-8) traumatologia degli sport.
+nozioni generali di tecnica operatoria II (biennale).
 
 3° Anno:
 
-1) fisiologia applicata agli sport;
+anatomia patologica e clinica dei tumori dell'apparato stomatognatico;
 
-2) valutazione funzionale dello sportivo;
+patologia e clinica dei tessuti molli;
 
-3) fisiopatologia degli sport e semeiotica medicosportiva II;
+patologia e clinica delle malformazioni e deformazioni maxillo-facciali;
 
-4) fisioterapia e rieducazione funzionale;
+radio-diagnostica maxillo-facciale;
 
-5) rianimazione e pronto soccorso;
+diagnosi dei tumori: tecnica bioptica e dell'esame citologico; esercitazioni pratiche.
 
-6) medicina legale e infortunistica legata agli sport;
+4° Anno:
 
-7) fisiologia dell'adattamento agli ambienti straordinari.
+terapia chirurgica delle lesioni dei tessuti molli I (biennale);
 
-La scuola svolgera' brevi corsi integrativi di conferenze o seminari sopra argomenti e discipline che saranno stabiliti secondo le possibilita' contingenti, da consiglio dei docenti della scuola.
+terapia chirurgica delle lesioni delle ossa e della A.T.M. I (biennale);
 
-Saranno inoltre svolte esercitazioni pratiche in sede e sul campo.
+terapia chirurgica delle malformazioni e deformazioni del distretto maxillo-facciale I;
 
-Alla fine di ogni anno di corso gli allievi dovranno sostenere l'esame di profitto nelle materie di insegnamento, previste per ogni anno di corso e articolato in un unico gruppo.
+trattamenti contenitivi secondari alla terapia chirurgica delle malformazioni e deformazioni;
 
-L'iscrizione agli anni successivi e' subordinata al superamento di tutti gli esami annuali.
+radioterapia (nozioni);
 
-Il diploma si consegue dopo aver superato tutte le prove di esame del triennio; la prova di diploma si svolge con la discussione su una dissertazione scritta concernente un tema assegnato o in ogni altro caso approvato dal direttore della scuola.
+esercitazioni pratiche.
 
-La scuola di specializzazione in oculistica di cui all'art. 242 muta la denominazione in quella di scuola di specializzazione in oftalmologia.
+5° Anno:
+
+terapia chirurgica delle lesioni dei tessuti molli II (biennale);
+
+terapia chirurgica delle lesioni delle ossa e della A.T.M. II (biennale);
+
+terapia chirurgica delle malformazioni e deformazioni del distretto maxillo-facciale II;
+
+protesi ricostruttive maxillo-facciali;
+
+terapia ortopedica e chirurgia delle fratture.
+
+Art. 267. - I corsi sono integrati da conferenze su argomenti di cliniche parallele: oculistica, otorinolaringoiatrica, odontostomatologia, chirurgia plastica, anestesiologia, medicina legale, oncologia.
+
+Al termine di ciascun anno accademico gli specializzandi devono superare un esame di profitto; per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del quinto anno accademico gli specializzandi devono presentare una dissertazione scritta (preventivamente approvata dal direttore della scuola) su argomento attinente al corso stesso e sostenere l'esame di diploma secondo le norme speciali per le scuole di specializzazione della facolta'.
+
+Corso di perfezionamento in neonatologia
+
+Art. 268. - E' istituito presso la facolta' di medicina e chirurgia dell'Universita' di Milano un corso di perfezionamento in neonatologia. Il corso ha fini di aggiornamento sul piano teorico, ma soprattutto di perfezionamento clinico pratico nell'ambito della neonatologia.
+
+La durata del corso e' annuale.
+
+Possono essere ammessi al corso gli aspiranti in possesso di un titolo di specializzazione in pediatria (o clinica pediatrica) o in puericultura, conseguito presso una scuola di specializzazione di durata almeno biennale.
+
+Il numero degli ammessi resta fissato in dieci. L'ammissione al corso e' per titoli ed esami.
+
+Art. 269. - La direzione del corso e' affidata al professore di ruolo o fuori ruolo della materia del corso di perfezionamento o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Il direttore del corso viene designato di anno in anno dal consiglio di facolta' e puo' essere con fermato. Il personale insegnante e' nominato di anno in anno dal consiglio di facolta' su proposta del direttore del corso.
+
+Art. 270. - Le materie d'insegnamento sono le seguenti:
+
+clinica della gravidanza, del parto normale e a rischio;
+
+fisiopatologia e teratologia embrio-fetale;
+
+genetica della patologia cromosomica e delle materie metaboliche congenite;
+
+fisiologia neonatale;
+
+immunologia neonatale;
+
+biochimica neonatale;
+
+farmacologia neonatale;
+
+patologia neonatale;
+
+diagnostica radiologica neonatale;
+
+tecniche di laboratorio riguardanti la fisiologia e patologia neonatale;
+
+assistenza al neonato sano ed ammalato;
+
+clinica e terapia neonatale;
+
+rianimazione e cure intensive neonatali;
+
+affezioni chirurgiche del neonato;
+
+anatomia e patologia del feto e del neonato;
+
+evoluzione ed esiti della patologia feto-neonatale.
+
+Gli insegnamenti vengono impartiti attraverso lezioni, seminari, discussioni cliniche ed integrati da conferenze su argomenti specifici pertinenti a problemi di neonatologia.
+
+Art. 271. - L'allievo deve ottemperare all'obbligo di effettuare esercitazioni pratiche nei reparti per la durata di dieci mesi. In tale periodo egli esplica attivita' in sala parto e nei diversi servizi di assistenza e cura del neonato.
+
+Art. 272. - Alla fine del corso l'allievo sostiene un esame globale di profitto con prove teoriche e pratiche e svolge una dissertazione orale su un argomento in campo neonatologico con relativa discussione dinnanzi ad una commissione formata dal direttore e dagli insegnanti del corso.
+
+La sessione di esami e' unica alla fine del corso.
+
+All'allievo che ha completato le prove con esito favorevole verra' rilasciato un diploma di perfezionamento in neonatologia.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1977
+Dato a Roma, addi' 4 giugno 1979
 
-LEONE
+PERTINI
 
-MALFATTI
+SPADOLINI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: MORLINO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 15 luglio 1978 Registro n. 75 Istruzione, foglio n. 304
+alla Corte dei conti, addi' 28 agosto 1979 Registro n. 66 Istruzione, foglio n. 93
 
 Art. 1
 ------
@@ -308,155 +282,142 @@ Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 nov
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' dell'Universita' anzidetta;   
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
 Sulla proposta del Ministro della pubblica istruzione;   
   
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-L'art. 148, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel modo seguente:   
-la scuola di specializzazione in chirurgia dell'infanzia muta la denominazione in quella di scuola di specializzazione in chirurgia pediatrica;   
-la scuola di specializzazione in oculistica muta la denominazione in quella di scuola di specializzazione in oftalmologia.   
-Gli articoli 182, 183, 184, 185, 186, 187, 188 e 189, relativi alla scuola di specializzazione in chirurgia dell'infanzia che muta la denominazione in quella di scuola di specializzazione in chirurgia pediatrica, sono abrogati e sostituiti dai seguenti:   
+Art. 148 - all'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola di specializzazione in chirurgia maxillo-facciale ed il corso di perfezionamento in neonatologia.   
+Gli articoli 258, 259 e 260, relativi alla scuola di specializzazione in reumatologia, sono soppressi e sostituiti dai seguenti:   
   
-Scuola di specializzazione in chirurgia pediatrica   
-Art. 182. - La scuola di specializzazione in chirurgia pediatrica ha sede presso una cattedra di materie chirurgiche e conferisce il diploma di specialista in chirurgia pediatrica.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Art. 183. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione allo esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni.   
-Art. 184. - Il numero massimo degli allievi e' di 10 (dieci) per anno di corso e complessivamente di cinquanta iscritti per l'intero corso di studi.   
-Art. 185. - L'ammissione al corso avviene per titoli ed esami.   
-Art. 186. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-embriologia e genetica delle malformazioni congenite;   
-anatomia patologica generale (biennale) I;   
-diagnostica radiologica e nucleare generale;   
-anestesiologia;   
-clinica pediatrica (biennale) I;   
-patologia e clinica chirurgica generale (biennale) I.   
-2° Anno:   
-patologia e clinica chirurgica generale (biennale) II;   
-rianimazione e terapia intensiva (biennale) I;   
-anatomia patologica generale (biennale) II;   
-diagnostica radiologica e nucleare delle malattie infantili;   
-clinica pediatrica (biennale) II.   
-3° Anno:   
-patologia e clinica chirurgica pediatrica (triennale) I;   
-endocrinologia pediatrica;   
-tecnica chirurgica generale;   
-rianimazione e terapia intensiva (biennale) II;   
-chirurgia neonatale.   
-4° Anno:   
-patologia e clinica chirurgica pediatrica (triennale) II;   
-neurochirurgia pediatrica;   
-tecnica chirurgica pediatrica;   
-ortopedia pediatrica;   
-chirurgia plastica e ricostruttiva pediatrica.   
-5° Anno:   
-patologia e clinica chirurgica pediatrica (triennale) III;   
-otorinolaringoiatria pediatrica;   
-cardiochirurgia pediatrica;   
-urologia pediatrica.   
-Art. 187. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
-Art. 188. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi, devono superare le prove d'esame sulle materie impartite durante l'anno ad eccezione delle discipline svolte in corsi pluriennali il cui esame sara' sostenuto alla fine dei corsi medesimi.   
-Art. 189.- Al termine del corso di studio per il conseguimento del diploma di specialista in chirurgia pediatrica gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
-L'art. 217, relativo alla scuola di specializzazione in medicina del lavoro, e' abrogato e sostituito dal seguente:   
-  
-Scuola di specializzazione in medicina del lavoro   
-Art. 217. - La scuola di specializzazione in medicina del lavoro ha sede presso l'istituto di medicina del lavoro e conferisce il diploma di specializzazione in medicina del lavoro.   
+Scuola di specializzazione in reumatologia   
+Art. 258. - La scuola di specializzazione in reumatologia ha sede presso la cattedra di reumatologia e conferisce il diploma di specialista in reumatologia.   
 La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
 Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
 E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
-Il numero massimo degli allievi e' di quaranta per anno di corso e complessivamente di centosessanta iscritti per l'intero corso di studi.   
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
+Il numero massimo degli allievi e' di quindici per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi.   
 L'ammissione al corso avviene per titoli ed esami.   
-Le materie di insegnamento sono le seguenti:   
+Art. 259. - Le materie d'insegnamento sono le seguenti:   
 1° Anno:   
-1) igiene del lavoro (I corso);   
-2) fisiologia del lavoro ed ergonomia (I corso);   
-3) tecnologia industriale;   
-4) statistica medica e biometria;   
-5) tecniche di laboratorio.   
-2° Anno:   
-1) patologia e clinica delle malattie da lavoro (I corso);   
-2) igiene del lavoro (II corso);   
-3) fisiologia del lavoro ed ergonomia (II corso);   
-4) psicologia del lavoro;   
-5) tossicologia industriale.   
+anatomia, istologia e morfogenesi dell'apparato locomotore;   
+fisiologia e fisiopatologia dell'apparato locomotore;   
+biochimica di interesse reumatologico;   
+microbiologia in relazione alle malattie reumatiche;   
+immunologia reumatologica;   
+semeiotica fisica e strumentale in reumatologia I (biennale). 2° Anno:   
+semeiotica fisica e strumentale in reumatologia II (biennale); esami di laboratorio in reumatologia;   
+diagnostica radiologica delle reumo-artropatie;   
+farmacologia reumatologica;   
+anatomia ed istologia patologica delle malattie reumatiche;   
+clinica e terapia delle malattie reumatiche I (triennale).   
 3° Anno:   
-1) patologia e clinica delle malattie da lavoro (II corso);   
-2) prevenzione degli infortuni e delle malattie da lavoro (I corso);   
-3) epidemiologia delle malattie da lavoro;   
-4) radiobiologia e radioprotezione;   
-5) dermatologia professionale.   
+clinica e terapia ortopedica I (biennale);   
+fisiochinesi-terapia reumatologica;   
+idro-climatologia di interesse reumatologico;   
+reumo-artropatie professionali;   
+clinica e terapia delle malattie reumatiche II (triennale).   
 4° Anno:   
-1) patologia e clinica delle malattie da lavoro (III corso);   
-2) prevenzione degli infortuni e delle malattie da lavoro (II corso);   
-3) pronto soccorso;   
-4) medicina legale e delle assicurazioni;   
-5) organizzazione dei servizi di medicina e igiene del lavoro.   
-Gli esami delle discipline svolte in corsi pluriennali verranno sostenuti alla fine dell'ultimo corso.   
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
-Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie biennali o triennali l'esame sara' sostenuto alla fine del biennio o del triennio.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in medicina del lavoro, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione.   
-L'art. 218, relativo alla scuola di specializzazione in medicina dello sport, e' abrogato e sostituito dal seguente:   
+epidemiologia e aspetti sociali dei reumatismi;   
+riabilitazione del malato reumatico;   
+clinica e terapia ortopedica II (biennale);   
+clinica e terapia delle malattie reumatiche III (triennale).   
+Art. 260. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove d'esame.   
+Alla fine di ogni corso gli iscritti per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie biennali o triennali l'esame e' sostenuto alla fine del biennio o del triennio.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in reumatologia, gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in chirurgia maxillo-facciale e del corso di perfezionamento in neonatologia:   
   
-Scuola di specializzazione in medicina dello sport   
-Art. 218. - La scuola di specializzazione in medicina dello sport dell'Universita' degli studi di Milano si propone:   
-a) di valorizzare e approfondire gli studi biologici e di medicina applicata nel campo delle attivita' sportive, formative e di competizione, e della educazione fisica;   
-b) di preparare adeguatamente sotto l'aspetto teorico e della applicazione pratica i medici che intendono dedicarsi alle attivita' attinenti a questa particolare branca della medicina applicata, conferendo ad essi il diploma di specialista in medicina dello sport.   
-Il titolo richiesto per l'ammissione alla scuola e' la laurea in medicina e chirurgia.   
-Il corso di studi ha durata di tre anni, con frequenza obbligatoria; esso ha la sua sede ufficiale presso l'istituto di fisiologia umana. Gli insegnamenti clinici e specialistici si svolgeranno presso i rispettivi istituti clinici e specialistici.   
-Il numero massimo degli allievi sara' di venti per anno e complessivamente di sessanta per l'intero corso.   
-L'ammissione ai corsi avviene per titoli. Nel caso di domande eccedenti il numero dei posti disponibili la selezione dei candidati avverra' in base ai risultati di un esame di ammissione.   
-Non sono previste abbreviazioni di corso.   
-La direzione del corso e' affidata al direttore dell'istituto di fisiologia umana.   
-L'ordine degli studi e' il seguente:   
+Scuola di specializzazione in chirurgia maxillo-facciale   
+Art. 265. - E' istituita presso la facolta' di medicina e chirurgia dell'Universita' degli studi di Milano la scuola di specializzazione in chirurgia maxillo-facciale.   
+La durata del corso e' di cinque anni.   
+Non sono consentite, per alcun motivo, abbreviazioni di corso.   
+Il numero massimo degli iscritti non puo' superare le ventidue unita'.   
+Titolo di ammissione alla suddetta scuola e' la laurea in medicina e chirurgia e gli aspiranti vengono scelti tra i migliori per i titoli e per esami secondo le norme dello statuto universitario.   
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La frequenza ai corsi ed eventuali esercitazioni pratiche nei reparti sono obbligatori.   
+Art. 266. - Le materie di insegnamento sono:   
 1° Anno:   
-1) anatomia dell'apparato locomotore;   
-2) fisiologia dell'apparato locomotore;   
-3) biochimica ed energetica muscolare;   
-4) antropometria e auxologia:   
-5) psicologia applicata allo sport;   
-6) storia dell'educazione fisica e dello sport;   
-7) sistematica delle attivita' sportivo-agonistiche e regolamenti sportivi.   
+embriologia, istologia, anatomia normale e topografica del distretto maxillo-facciale con particolare riguardo all'apparato stomatognatico;   
+anatomia chirurgica del distretto maxillo-facciale   
+con particolare riguardo all'apparato stomatognatico;   
+le malformazioni e deformazioni maxillo-facciali;   
+cefalometria e gnatologia;   
+nozioni di ortognatodonzia;   
+nozioni generali di tecnica operatoria I (biennale).   
 2° Anno:   
-1) fisiologia dell'esercizio fisico;   
-2) biomeccanica dell'esercizio fisico;   
-3) metodologia dell'allenamento sportivo;   
-4) scienza della nutrizione applicata all'attivita' sportiva;   
-5) fisiopatologia degli sport e semeiotica medicosportiva I;   
-6) farmacologia e tossicologia del doping;   
-7) igiene e medicina preventiva applicata all'attivita' sportiva;   
-8) traumatologia degli sport.   
+anatomia patologica del distretto maxillo-facciale;   
+anatomia patologica della A.T.M. e nozioni di anatomia patologica e dentale e paradentale;   
+nozioni di farmacologia ed anestesia;   
+patologia e clinica delle ossa mascellari e della A.T.M.;   
+nozioni di patologia e clinica dei tessuti dentari e parodontari;   
+nozioni generali di tecnica operatoria II (biennale).   
 3° Anno:   
-1) fisiologia applicata agli sport;   
-2) valutazione funzionale dello sportivo;   
-3) fisiopatologia degli sport e semeiotica medicosportiva II;   
-4) fisioterapia e rieducazione funzionale;   
-5) rianimazione e pronto soccorso;   
-6) medicina legale e infortunistica legata agli sport;   
-7) fisiologia dell'adattamento agli ambienti straordinari.   
-La scuola svolgera' brevi corsi integrativi di conferenze o seminari sopra argomenti e discipline che saranno stabiliti secondo le possibilita' contingenti, da consiglio dei docenti della scuola.  
-Saranno inoltre svolte esercitazioni pratiche in sede e sul campo.   
-Alla fine di ogni anno di corso gli allievi dovranno sostenere l'esame di profitto nelle materie di insegnamento, previste per ogni anno di corso e articolato in un unico gruppo.   
-L'iscrizione agli anni successivi e' subordinata al superamento di tutti gli esami annuali.   
-Il diploma si consegue dopo aver superato tutte le prove di esame del triennio; la prova di diploma si svolge con la discussione su una dissertazione scritta concernente un tema assegnato o in ogni altro caso approvato dal direttore della scuola.   
-La scuola di specializzazione in oculistica di cui all'art. 242 muta la denominazione in quella di scuola di specializzazione in oftalmologia.   
+anatomia patologica e clinica dei tumori dell'apparato stomatognatico;   
+patologia e clinica dei tessuti molli;   
+patologia e clinica delle malformazioni e deformazioni maxillo-facciali;   
+radio-diagnostica maxillo-facciale;   
+diagnosi dei tumori: tecnica bioptica e dell'esame citologico; esercitazioni pratiche.   
+4° Anno:   
+terapia chirurgica delle lesioni dei tessuti molli I (biennale);   
+terapia chirurgica delle lesioni delle ossa e della A.T.M. I (biennale);   
+terapia chirurgica delle malformazioni e deformazioni del distretto maxillo-facciale I;   
+trattamenti contenitivi secondari alla terapia chirurgica delle malformazioni e deformazioni;   
+radioterapia (nozioni);   
+esercitazioni pratiche.   
+5° Anno:   
+terapia chirurgica delle lesioni dei tessuti molli II (biennale);   
+terapia chirurgica delle lesioni delle ossa e della A.T.M. II (biennale);   
+terapia chirurgica delle malformazioni e deformazioni del distretto maxillo-facciale II;   
+protesi ricostruttive maxillo-facciali;   
+terapia ortopedica e chirurgia delle fratture.   
+Art. 267. - I corsi sono integrati da conferenze su argomenti di cliniche parallele: oculistica, otorinolaringoiatrica, odontostomatologia, chirurgia plastica, anestesiologia, medicina legale, oncologia.   
+Al termine di ciascun anno accademico gli specializzandi devono superare un esame di profitto; per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
+Al termine del quinto anno accademico gli specializzandi devono presentare una dissertazione scritta (preventivamente approvata dal direttore della scuola) su argomento attinente al corso stesso e sostenere l'esame di diploma secondo le norme speciali per le scuole di specializzazione della facolta'.   
+  
+Corso di perfezionamento in neonatologia   
+Art. 268. - E' istituito presso la facolta' di medicina e chirurgia dell'Universita' di Milano un corso di perfezionamento in neonatologia. Il corso ha fini di aggiornamento sul piano teorico, ma soprattutto di perfezionamento clinico pratico nell'ambito della neonatologia.   
+La durata del corso e' annuale.   
+Possono essere ammessi al corso gli aspiranti in possesso di un titolo di specializzazione in pediatria (o clinica pediatrica) o in puericultura, conseguito presso una scuola di specializzazione di durata almeno biennale.   
+Il numero degli ammessi resta fissato in dieci. L'ammissione al corso e' per titoli ed esami.   
+Art. 269. - La direzione del corso e' affidata al professore di ruolo o fuori ruolo della materia del corso di perfezionamento o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Il direttore del corso viene designato di anno in anno dal consiglio di facolta' e puo' essere con fermato. Il personale insegnante e' nominato di anno in anno dal consiglio di facolta' su proposta del direttore del corso.   
+Art. 270. - Le materie d'insegnamento sono le seguenti:   
+clinica della gravidanza, del parto normale e a rischio;   
+fisiopatologia e teratologia embrio-fetale;   
+genetica della patologia cromosomica e delle materie metaboliche congenite;   
+fisiologia neonatale;   
+immunologia neonatale;   
+biochimica neonatale;   
+farmacologia neonatale;   
+patologia neonatale;   
+diagnostica radiologica neonatale;   
+tecniche di laboratorio riguardanti la fisiologia e patologia neonatale;   
+assistenza al neonato sano ed ammalato;   
+clinica e terapia neonatale;   
+rianimazione e cure intensive neonatali;   
+affezioni chirurgiche del neonato;   
+anatomia e patologia del feto e del neonato;   
+evoluzione ed esiti della patologia feto-neonatale.   
+Gli insegnamenti vengono impartiti attraverso lezioni, seminari, discussioni cliniche ed integrati da conferenze su argomenti specifici pertinenti a problemi di neonatologia.   
+Art. 271. - L'allievo deve ottemperare all'obbligo di effettuare esercitazioni pratiche nei reparti per la durata di dieci mesi. In tale periodo egli esplica attivita' in sala parto e nei diversi servizi di assistenza e cura del neonato.   
+Art. 272. - Alla fine del corso l'allievo sostiene un esame globale di profitto con prove teoriche e pratiche e svolge una dissertazione orale su un argomento in campo neonatologico con relativa discussione dinnanzi ad una commissione formata dal direttore e dagli insegnanti del corso.   
+La sessione di esami e' unica alla fine del corso.   
+All'allievo che ha completato le prove con esito favorevole verra' rilasciato un diploma di perfezionamento in neonatologia.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1977
+### Dato a Roma, addi' 4 giugno 1979
 
-LEONE MALFATTI
+PERTINI SPADOLINI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 15 luglio 1978
+Registrato alla Corte dei conti, addi' 28 agosto 1979
 
-Registro n. 75 Istruzione, foglio n. 304
+Registro n. 66 Istruzione, foglio n. 93

@@ -1,75 +1,65 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 maggio 1965 n. 740
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 430
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 maggio 1965 n. 740
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 430
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+
+Veduto il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933 numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Nell'art. 52, relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari sono aggiunti i nuovi seguenti insegnamenti:  
+storia dell'archeologia classica;  
+storia moderna e contemporanea della Chiesa e delle altre confessioni cristiane.  
+
+Art. 2
+------
+
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 42. - Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo organico-biologico) a aggiunto quello di "Chimica organica superiore".  
-L'insegnamento complementare di "Fisica superiore" del corso di laurea in Chimica (indirizzo inorganico-chimico-fisico) e' soppresso e sostituito con quello di "Struttura della materia".  
-Art. 43. - Agli insegnamenti complementari del corso di laurea in Fisica (indirizzo applicativo) sono aggiunti quelli di "Biofisica", "Biologia molecolare", "Radiochimica o Chimica nucleare con esercitazioni".  
-Art. 46. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche e' aggiunto quello di "Istologia patologica.)".  
-Art. 52. - E' abrogato e sostituito dal seguente:  
-"Il professore di ruolo di Chimica farmaceutica e tossicologica della Facolta' di Farmacia, il quale tenga l'incarico di Chimica farmaceutica nella Facolta' di Scienze matematiche, fisiche e naturali, e' aggregato alla Facolta' medesima.  
-Gli articoli 95 e 96 relativi alla Scuola di specializzazione in Oculistica, sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in Oculistica  
-Art. 95. - La durata della Scuola e' di quattro anni.  
-Il numero complessivo degli iscritti ai quattro anni del corso e' di venti.  
-Gli insegnamenti impartiti nella Scuola sono i seguenti:  
-1° Anno:  
-1) Anatomia ed istologia, dell'apparato oculare;  
-2) Nozioni di embriologia e genetica oculare;  
-3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;  
-4) Nozioni di ottica fisiologica, esame della refrazione;  
-5) Microbiologia ed igiene oculare.  
-2° Anno:  
-1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmologia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);  
-2) Farmacologia oculare e terapia fisica;  
-3) Anatomia patologica oculare;  
-4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della sclera).  
-3° Anno:  
-1) Patologia e clinica oculare (malattie dell'uvea, della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);  
-2) Anomalie e patologia della motilita' oculare e della visione binoculare, ortottica e pleottica;  
-3) Affezioni otorinolaringoiatriche e occhio;  
-4) Tecnica operatoria - 1ª parte.  
-4° Anno:  
-1) Neuro-oftalmologia;  
-2) Malattie oculari in rapporto ad affezioni generali;  
-3) Malattie professionali. Infortunistica e medicina legale oculare.  
-4) Tecnica operatoria - 2ª parte:  
-5) Tesi di specializzazione.  
-Art. 96. - Gli esami di profitto si danno alla fine di ciascun anno di corso. Alla fine del corso gli iscritti, oltre a presentare la dissertazione scritta ed a sostenere la relativa discussione, devono sostenere una prova pratica sull'ammalato.  
+Nell'art. 54, relativo al corso di laurea in filosofia, all'elenco degli insegnamenti complementari e' aggiunto il nuovo seguente insegnamento:  
+psicologia differenziale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 maggio 1965
+### Dato a Roma, addi' 26 aprile 1983
 
-SARAGAT GUI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 1 luglio 1965
+Registrato alla Corte dei conti, addi' 17 agosto 1983
 
-Atti del Governo, registro n. 194, foglio n. 6. - VILLA
+Registro n. 59 Istruzione, foglio n. 110

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 aprile 1960 n. 513
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1976 n. 880
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 aprile 1960 n. 513
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1976 n. 880
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -10,17 +10,17 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772) e successivi;
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella legge 2 gennaio 193, n. 73;
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -30,159 +30,167 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 109. - Agli insegnamenti del primo anno di corso della Scuola di specializzazione in Idrologia, crenologia e climatoterapia e' aggiunto quello di "Idrologia sperimentale".
+Art. 164 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in oncologia clinica.
 
-Art. 123, relativo alla Scuola di specializzazione in Clinica delle malattie nervose e mentali e' modificato nel senso che il numero degli allievi che possono essere iscritti alla Scuola e' limitato a quindici anziche' a dieci.
+Dopo l'art. 291, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in oncologia clinica.
 
-Dopo l'art. 143, e con il conseguente spostamento della successiva numerazione, vengono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Medicina ed igiene scolastica.
+Scuola di specializzazione in oncologia clinica
 
-Scuola di specializzazione in Medicina ed igiene scolastica
+Art. 292. - La scuola ha la durata di 3 anni.
 
-Art. 144. - E' istituita la Scuola di specializzazione in Medicina ed igiene scolastica.
+Art. 293. - Sono ammessi i laureati in medicina e chirurgia. Nella iscrizione alla scuola di specializzazione sara' data la preferenza a candidati gia' in possesso della libera docenza e di specializzazione in altre materie biologiche e cliniche.
 
-Art. 145. - Sono ammessi i laureati in Medicina e chirurgia.
+Art. 294. - Il numero complessivo degli specializzandi da ammettere alla scuola nei tre anni di corso e' di 15 allievi (5 ogni anno accademico).
 
-Art. 146. - L'iscrizione alla Scuola e' limitata per ogni anno accademico a n. 20 allievi.
+Art. 295. - Gli insegnamenti previsti sono cosi' ripartiti:
 
-Art. 147. La Scuola ha la durata di due anni.
+1° Anno:
 
-Art. 148. - Le materie di insegnamento sono:
+patologia generale dei tumori;
 
-1° anno.
+biochimica dei tumori;
 
-1) L'igiene e la medicina scolastica come parte essenziale dell'igiene pubblica e della medicina preventiva (biennale);
+patologia oncologica speciale;
 
-2) Edilizia scolastica;
+diagnosi istologica e citocardiologica dei tumori;
 
-3) Fisio-patologia dello sviluppo (biennale) 4) Malattie infettive con speciale riguardo alla diagnosi e profilassi (biennale);
+registrazione epidemiologica dei tumori.
 
-5) Propaganda igienica ed educazione sanitaria nelle scuole;
+2° Anno:
 
-6) Psicologia dell'eta' scolare ed elementi di pedagogia;
+prevenzione dei tumori;
 
-7) Colonie climatiche e loro organizzazione;
+diagnosi precoce dei tumori;
 
-8) Igiene pedagogica.
+riscontri anatomo clinici;
 
-2° anno:
+clinica medica generale dei tumori;
 
-1) L'igiene e la medicina scolastica come parte essenziale dell'igiene pubblica e della medicina preventiva (biennale);
+clinica chirurgica generale dei tumori;
 
-2) Fisio-patologia dello sviluppo (biennale);
+diagnosi e terapia radiologica dei tumori;
 
-3) Malattie infettive con speciale riguardo alla diagnosi e profilassi (biennale);
+gli isotopi radioattivi nella diagnosi e nella terapia;
 
-4) Cartella medica-scolastica;
+immunologia e immunoterapia dei tumori.
 
-5) Scuole speciali;
+3° Anno:
 
-6) Neuropsichiatria dell'eta' scolare;
+diagnosi e terapia dei tumori ORL;
 
-7) Rieducazione dell'apparato motorio;
+diagnosi e terapia dei tumori del cavo orale;
 
-8) Nozioni di clinica oculistica;
+diagnosi e terapia dei tumori genitali femminili;
 
-9) Nozioni di otorinolaringoiatria;
+diagnosi e terapia dei tumori cutanei;
 
-10) Nozioni di odontoiatria e ortodonzia;
+chirurgia oncologica;
 
-11) Nozioni di cardiologia;
+terapia antalgica dei tumori;
 
-12) Nozioni di ortopedia;
+chemioterapia antiblastica.
 
-13) Nozioni di dermatologia;
+INSEGNAMENTI FACOLTATIVI:
 
-14) Chirurgia d'urgenza;
+semeiotica dei tumori;
 
-15) Nozioni di educazione fisica.
+tecniche chirurgiche complementari;
 
-Art. 149. - La direzione della Scuola sara' tenuta alternativamente per un biennio dal direttore della Clinica pediatrica e per il biennio successivo dal titolare della Cattedra di igiene.
+chirurgia riparatrice.
 
-Art. 150. - La frequenza alle lezioni ed ai tirocini e' obbligatoria: i tirocini pratici si svolgeranno presso i servizi di vigilanza medico-scolastica dell'Ufficio di igiene del comune di Parma.
+Art. 296. - La frequenza ai corsi e alle esercitazioni e' obbligatoria.
 
-Art. 151. - Alla fine di ciascun anno gli allievi che abbiano ottenuto le prescritte attestazioni di frequenza, dovranno sostenere un esame di profitto il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo e per quelli che sono iscritti al secondo anno, per accedere all'esame di diploma.
+Art. 297. - Alla fine di ogni anno gli allievi dovranno sostenere un esame di profitto sulle materie che sono state oggetto di insegnamento.
+
+Art. 298. - Alla fine del triennio gli allievi dovranno presentare una dissertazione scritta e sostenere un esame di diploma.
+
+Art. 299. - Il direttore della scuola, al di fuori dei docenti incaricati ufficialmente, puo' invitare studiosi competenti ad impartire lezioni o conferenze su argomenti di speciale interesse oncologico.
+
+Art. 300. - Gli iscritti alle scuole di specializzazione sono tenuti a pagare le tasse e soprattasse secondo quanto stabilito per gli studenti della facolta' di medicina e chirurgia, nonche' la tassa di diploma nella misura di L. 6.000 ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7). Sono altresi' tenuti al pagamento di speciali contributi nella misura che sara' determinata dal consiglio di amministrazione, previo parere della facolta', su proposta del direttore della scuola.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 20 aprile 1960
+Dato a Roma, addi' 27 ottobre 1976
 
-GRONCHI
+LEONE
 
-MEDICI
+MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 6 giugno 1960 Atti del Governo, registro n. 127, foglio n. 19. - VILLA
+alla Corte dei conti, addi' 28 dicembre 1976 Registro n. 102 Istruzione, foglio n. 73
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella legge 2 gennaio 193, n. 73;  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Riconosciuta la particolare necessita' di approvare le modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 109. - Agli insegnamenti del primo anno di corso della Scuola di specializzazione in Idrologia, crenologia e climatoterapia e' aggiunto quello di "Idrologia sperimentale".  
-Art. 123, relativo alla Scuola di specializzazione in Clinica delle malattie nervose e mentali e' modificato nel senso che il numero degli allievi che possono essere iscritti alla Scuola e' limitato a quindici anziche' a dieci.  
-Dopo l'art. 143, e con il conseguente spostamento della successiva numerazione, vengono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Medicina ed igiene scolastica.  
+Art. 164 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in oncologia clinica.  
+Dopo l'art. 291, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in oncologia clinica.  
+Scuola di specializzazione in oncologia clinica  
+Art. 292. - La scuola ha la durata di 3 anni.  
+Art. 293. - Sono ammessi i laureati in medicina e chirurgia. Nella iscrizione alla scuola di specializzazione sara' data la preferenza a candidati gia' in possesso della libera docenza e di specializzazione in altre materie biologiche e cliniche.  
+Art. 294. - Il numero complessivo degli specializzandi da ammettere alla scuola nei tre anni di corso e' di 15 allievi (5 ogni anno accademico).  
+Art. 295. - Gli insegnamenti previsti sono cosi' ripartiti:  
+1° Anno:  
+patologia generale dei tumori;  
+biochimica dei tumori;  
+patologia oncologica speciale;  
+diagnosi istologica e citocardiologica dei tumori;  
+registrazione epidemiologica dei tumori.  
+2° Anno:  
+prevenzione dei tumori;  
+diagnosi precoce dei tumori;  
+riscontri anatomo clinici;  
+clinica medica generale dei tumori;  
+clinica chirurgica generale dei tumori;  
+diagnosi e terapia radiologica dei tumori;  
+gli isotopi radioattivi nella diagnosi e nella terapia;  
+immunologia e immunoterapia dei tumori.  
+3° Anno:  
+diagnosi e terapia dei tumori ORL;  
+diagnosi e terapia dei tumori del cavo orale;  
+diagnosi e terapia dei tumori genitali femminili;  
+diagnosi e terapia dei tumori cutanei;  
+chirurgia oncologica;  
+terapia antalgica dei tumori;  
+chemioterapia antiblastica.  
   
-Scuola di specializzazione in Medicina ed igiene scolastica  
-  
-Art. 144. - E' istituita la Scuola di specializzazione in Medicina ed igiene scolastica.  
-Art. 145. - Sono ammessi i laureati in Medicina e chirurgia.  
-Art. 146. - L'iscrizione alla Scuola e' limitata per ogni anno accademico a n. 20 allievi.  
-Art. 147. La Scuola ha la durata di due anni.  
-Art. 148. - Le materie di insegnamento sono:  
-1° anno.  
-1) L'igiene e la medicina scolastica come parte essenziale dell'igiene pubblica e della medicina preventiva (biennale);  
-2) Edilizia scolastica;  
-3) Fisio-patologia dello sviluppo (biennale) 4) Malattie infettive con speciale riguardo alla diagnosi e profilassi (biennale);  
-5) Propaganda igienica ed educazione sanitaria nelle scuole;  
-6) Psicologia dell'eta' scolare ed elementi di pedagogia;  
-7) Colonie climatiche e loro organizzazione;  
-8) Igiene pedagogica.  
-2° anno:  
-1) L'igiene e la medicina scolastica come parte essenziale dell'igiene pubblica e della medicina preventiva (biennale);  
-2) Fisio-patologia dello sviluppo (biennale);  
-3) Malattie infettive con speciale riguardo alla diagnosi e profilassi (biennale);  
-4) Cartella medica-scolastica;  
-5) Scuole speciali;  
-6) Neuropsichiatria dell'eta' scolare;  
-7) Rieducazione dell'apparato motorio;  
-8) Nozioni di clinica oculistica;  
-9) Nozioni di otorinolaringoiatria;  
-10) Nozioni di odontoiatria e ortodonzia;  
-11) Nozioni di cardiologia;  
-12) Nozioni di ortopedia;  
-13) Nozioni di dermatologia;  
-14) Chirurgia d'urgenza;  
-15) Nozioni di educazione fisica.  
-Art. 149. - La direzione della Scuola sara' tenuta alternativamente per un biennio dal direttore della Clinica pediatrica e per il biennio successivo dal titolare della Cattedra di igiene.  
-Art. 150. - La frequenza alle lezioni ed ai tirocini e' obbligatoria: i tirocini pratici si svolgeranno presso i servizi di vigilanza medico-scolastica dell'Ufficio di igiene del comune di Parma.  
-Art. 151. - Alla fine di ciascun anno gli allievi che abbiano ottenuto le prescritte attestazioni di frequenza, dovranno sostenere un esame di profitto il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo e per quelli che sono iscritti al secondo anno, per accedere all'esame di diploma.  
+INSEGNAMENTI FACOLTATIVI:  
+semeiotica dei tumori;  
+tecniche chirurgiche complementari;  
+chirurgia riparatrice.  
+Art. 296. - La frequenza ai corsi e alle esercitazioni e' obbligatoria.  
+Art. 297. - Alla fine di ogni anno gli allievi dovranno sostenere un esame di profitto sulle materie che sono state oggetto di insegnamento.  
+Art. 298. - Alla fine del triennio gli allievi dovranno presentare una dissertazione scritta e sostenere un esame di diploma.  
+Art. 299. - Il direttore della scuola, al di fuori dei docenti incaricati ufficialmente, puo' invitare studiosi competenti ad impartire lezioni o conferenze su argomenti di speciale interesse oncologico.  
+Art. 300. - Gli iscritti alle scuole di specializzazione sono tenuti a pagare le tasse e soprattasse secondo quanto stabilito per gli studenti della facolta' di medicina e chirurgia, nonche' la tassa di diploma nella misura di L. 6.000 ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7). Sono altresi' tenuti al pagamento di speciali contributi nella misura che sara' determinata dal consiglio di amministrazione, previo parere della facolta', su proposta del direttore della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 aprile 1960
+### Dato a Roma, addi' 27 ottobre 1976
 
-GRONCHI MEDICI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 6 giugno 1960
+Registrato alla Corte dei conti, addi' 28 dicembre 1976
 
-Atti del Governo, registro n. 127, foglio n. 19. - VILLA
+Registro n. 102 Istruzione, foglio n. 73

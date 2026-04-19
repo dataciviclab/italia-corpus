@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 novembre 1986 n. 1071
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1983 n. 245
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 novembre 1986 n. 1071
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1983 n. 245
+===============================================================
 
 Modificazione allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 ------------------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazione allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' "La Sapienza" di Roma, approvato con [regio decreto 14 ottobre 1926, n. 2319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2319), e successive modificazioni:
+Veduto lo statuto dell'Universita' "La Sapienza" di Roma, approvato con [regio decreto n. 2319 del 14 ottobre 1926](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2319), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -24,9 +24,9 @@ Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http:
 
 Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta, ai sensi della citata legge n. 615;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata [legge n. 615/1981](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;615);
 
-Veduto il parere del Consiglio universitario nazionale;
+Veduti i pareri espressi dal Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
@@ -39,20 +39,23 @@ Articolo unico
 --------------
 
   
-Nell'art. 46, relativo al corso di laurea in "economia e commercio", nell'elenco degli insegnamenti complementari e' inserito l'insegnamento di "diritto del mercato finanziario".  
+Art. 59 - nell'elenco degli insegnamenti complementari del corso di laurea in lettere sono inseriti i seguenti insegnamenti:  
+letterature comparate;  
+storia della tradizione manoscritta;  
+filologia latina;  
+storia degli studi classici;  
+didattica del latino.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 novembre 1986
+### Dato a Roma, addi' 7 febbraio 1983
 
-COSSIGA
+PERTINI FALCUCCI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DARIDA
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 21 maggio 1983
 
-Registrato alta Corte dei conti, addi' 24 marzo 1987
-
-Registro n. 18 Istruzione, foglio n. 119
+Registro n. 37 Istruzione, foglio n. 216

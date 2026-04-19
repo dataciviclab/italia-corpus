@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 novembre 1979 n. 846
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1981 n. 77
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 novembre 1979 n. 846
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1981 n. 77
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-846. Decreto del Presidente della Repubblica 28 novembre 1979, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in beni mobili, titoli, saldo c.c. presso la Cassa di risparmio delle province lombarde del valore di L. 16.023.300 (quota 50% = L. 8.011.650), disposto dalla sig.ra Vincenza Girola, a favore dei mutilatini di don Gnocchi, che si identificano con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, con testamento olografo 30 aprile 1977, pubblicato in data 19 maggio 1977, n. 267623 di repertorio, a rogito avv. Vincenzo Maienza, notaio in Milano, e registrato a Milano in data 20 maggio 1977, n. 03939/71/ M, serie H.  
+77. Decreto del Presidente della Repubblica 29 gennaio 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Ternetz Paola Clara, come risulta dalla pubblicazione della disposizione testamentaria di cui all'atto in data 6 novembre 1975, n. 82341 di repertorio, n. 19156 di fascicolo, a rogito dott. Pietro Cassina, notaio in Milano, registrato a Milano il 19 novembre 1975 al n. A/4 -10727, serie M, consistente in titoli obbligazionari del complessivo valore di L. 3.000.000.  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 21 marzo 1980  
-Registro n. 2 Presidenza, foglio n. 338
+Visto, il Guardasigilli: SARTI  
+Registrato alla Corte dei conti, addi' 12 marzo 1981  
+Registro n. 2 Presidenza, foglio n. 215

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 marzo 1955 n. 358
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 maggio 1954 n. 647
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 marzo 1955 n. 358
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 maggio 1954 n. 647
+=============================================================
 
 Autorizzazione all'Istituto nazionale per ciechi "Vittorio Emanuele II" di Firenze ad accettare un legato.
 ----------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-358. Decreto del Presidente della Repubblica 1 marzo 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto nazionale per ciechi "Vittorio Emanuele II" di Firenze viene autorizzato ad accettare un legato di lire cinquantamila, disposto in suo favore dalla defunta signora Maria Corinna Frosini fu Nicola vedova Vezzosi.  
+647. Decreto del Presidente della Repubblica 7 maggio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto nazionale per ciechi "Vittorio Emanuele II" di Firenze viene autorizzato ad accettare un legato disposto in suo favore dalla defunta Maria Luisa Musetti fu Giuseppe ved. Wilson  
   
 Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 4 maggio 1955  
-Atti del Governo, registro n. 90, foglio n. 116. - CARLOMAGNO
+Registrato alla Corte dei conti, addi' 13 agosto 1954  
+Atti del Governo, registro n. 85, foglio n. 32. - TEMPESTA

@@ -1,59 +1,62 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1977 n. 1027
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1982 n. 1056
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1977 n. 1027
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1982 n. 1056
+==============================================================
 
 Modificazioni allo statuto dell'Universita' commerciale "Luigi Bocconi" di Milano.
 ----------------------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' commerciale "Luigi Bocconi" di Milano, approvato con [regio decreto 8 marzo 1925, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-08;547), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' commerciale "Luigi Bocconi" di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione, di concerto con il Ministro del tesoro;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' commerciale "Luigi Bocconi" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' commerciale "Luigi Bocconi" di Milano, approvato con [regio decreto 8 marzo 1925, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-08;547) e modificato con [regio decreto 2 dicembre 1928, n. 3108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-02;3108), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' commerciale "Luigi Bocconi" di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' commerciale "Luigi Bocconi" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 4 - il testo del penultimo e dell'ultimo comma sono abrogati e sostituiti con il seguente:  
-"In seno al consiglio di amministrazione e' costituito un comitato esecutivo, composto da cinque a sette membri designati dal consiglio stesso, del quale fanno parte di diritto: il presidente (o, in sua sostituzione, il vice-presidente), il consigliere delegato e il rettore.  
-Al comitato esecutivo competono l'esame e la risoluzione delle questioni ad esso delegate dal consiglio di amministrazione e, in genere, la trattazione di questioni urgenti e l'adozione dei provvedimenti relativi".  
-Art. 40 - all'elenco degli insegnamenti complementari del corso di laurea in economia politica vengono aggiunti i seguenti:  
-calcolo automatico (corso progredito);  
-metodi di ricerca operativa (corso progredito);  
-statistica economica;  
-statistica aziendale;  
-lingua giapponese;  
-economia del turismo.  
-Art. 41 - all'elenco degli insegnamenti complementari del corso di laurea in economia aziendale vengono aggiunti i seguenti:  
-diritto delle assicurazioni private;  
-economia delle amministrazioni pubbliche;  
-marketing;  
-economia della distribuzione commerciale;  
-psicologia commerciale;  
-contabilita' e bilanci (corso progredito);  
-organizzazione del lavoro (corso progredito).  
+Gli articoli 15, 16, 17, 18 e 19 dello statuto, concernenti il trattamento economico, di previdenza e quiescenza del personale non docente, sono soppressi e sostituiti come segue:  
+Art. 15. - L'Universita' "Bocconi" per l'esplicazione dei vari servizi amministrativi dispone di personale delle carriere direttive, di concetto, esecutiva ed ausiliaria. L'organizzazione dei vari servizi e l'assegnazione del personale agli uffici e' disposta dal consiglio di amministrazione.  
+Art. 16. - Al personale amministrativo, d'ordine e di servizio, competono normalmente le stesse mansioni e funzioni previste dalle vigenti norme per le corrispondenti qualifiche funzionali ed i profili professionali del personale delle universita' governative.  
+Art. 17. - Alle qualifiche iniziali dei singoli livelli funzionali si accede a seguito di concorso. La nomina e' disposta dal consiglio di amministrazione dell'Universita'.  
+Art. 18. - La disciplina dei rapporti con il personale non docente dell'Universita' "Bocconi" deve prevedere uno stato giuridico ed un trattamento economico e di quiescenza non inferiori, ne' deteriori, rispetto a quelli del personale non docente delle universita' e degli istituti superiori statali, che svolga le stesse mansioni e funzioni.  
+Eventuali ulteriori norme regolamentari riguardanti il personale posto a carico del bilancio dell'Universita', debbono essere contenute in un regolamento interno da approvarsi con la procedura stabilita dalle vigenti norme di legge ([art. 44 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art44)).  
+Art. 19.- A favore del personale non insegnante vengono applicate le vigenti norme di legge in materia di assicurazioni sociali obbligatorie, di assistenza sanitaria e di indennita' di anzianita'.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 ottobre 1977
+### Dato a Selva di Val Gardena, addi' 2 agosto 1982
 
-LEONE MALFATTI
+PERTINI BODRATO - ANDREATTA
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 21 gennaio 1978
+Registrato alla Corte dei conti, addi' 20 gennaio 1983
 
-Registro n. 6 Istruzione, foglio n. 195
+Registro n. 4 Istruzione, foglio n. 133

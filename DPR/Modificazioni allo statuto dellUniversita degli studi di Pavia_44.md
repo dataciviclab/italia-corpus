@@ -1,11 +1,427 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 settembre 1969 n. 767
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1969 n. 797
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 settembre 1969 n. 767
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1969 n. 797
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:
+
+Gli articoli 96, 97, 98, 99, 100, 101, 102, 103 e 104 relativi alle scuole di specializzazione in ostetricia e ginecologia, dermosifilopatia, neurologia e psichiatria, oculistica sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in ostetricia e ginecologia
+
+Art. 96. - Il corso di specializzazione in ostetricia e ginecologia ha la durata di quattro anni. L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami.
+
+Sono da considerarsi titoli preferenziali, a parita' di risultato dell'esame di ammissione:
+
+a) il voto di laurea in medicina e chirurgia;
+
+b) aver frequentato come studente interno una clinica ostetrica e ginecologica dell'universita';
+
+c) aver svolto la tesi di laurea nella clinica ostetrica e ginecologica;
+
+d) documentazione di eventuali servizi prestati in grossi reparti ospedalieri della specialita';
+
+e) eventuali pubblicazioni.
+
+L'esame di ammissione deve espletarsi entro il mese di dicembre.
+
+Il numero totale degli iscritti e' di trentacinque (35).
+
+Per nessun motivo il corso di quattro anni puo' essere abbreviato.
+
+Nessun titolo puo' esonerare dalla frequenza gli iscritti nei quattro anni di corso.
+
+Gli iscritti, oltre all'obbligo di frequenza delle lezioni, esercitazioni, seminari, ecc., devono prestare servizio analogo a quello degli assistenti per non meno di nove mesi all'anno.
+
+Art. 97. - Gli iscritti alla scuola debbono sostenere esami annuali di profitto e l'esame finale di diploma. La sessione di esami di profitto e' unica, ed e' espletata nel mese di ottobre. Non puo' essere iscritto all'anno successivo di corso chi non abbia superato le materie fondamentali della specialita'.
+
+Art. 98. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+Elementi di genetica e di eugenica;
+
+Anatomia normale ed embriologia dell'apparato genitale femminile;
+
+Fisiologia dell'apparato genitale femminile;
+
+Endocrinologia fisiologica;
+
+Fisiologia ostetrica;
+
+Diagnostica ostetrica;
+
+Clinica ostetrica e ginecologica.
+
+2° Anno:
+
+Tecnica operatoria ostetrica;
+
+Diagnostica ginecologica;
+
+Tecnica diagnostica di laboratorio nel campo ostetrico-ginecologico, esclusa la istologia (sierologia batteriologia, citologia, ematologia, biochimica);
+
+Clinica ostetrica e ginecologica.
+
+3° Anno:
+
+Anatomia patologica ostetrica e ginecologica;
+
+Istologia normale e patologica nel campo della specialita';
+
+Puericultura prenatale;
+
+Emoterapia nel campo ostetrico e ginecologico;
+
+Anestesia e analgesia nel campo ostetrico e ginecologico;
+
+Tecnica operatoria ginecologica;
+
+Clinica ostetrica e ginecologica;
+
+Terapia medica ostetrica e ginecologica.
+
+4° Anno:
+
+Puericultura postnatale e malattie del neonato;
+
+Ostetricia e ginecologia forense;
+
+Diagnostica roentgen, radioterapia in ostetricia e ginecologia;
+
+Clinica ostetrica e ginecologica (esame alla fine del quarto anno);
+
+Urologia ginecologica;
+
+Chirurgia addominale extra genitale.
+
+Gli esami si fanno per gruppi di materie ed i membri delle commissioni saranno proposti dai direttori delle scuole.
+
+Per il conseguimento del diploma, l'iscritto deve presentare e discutere una dissertazione scritta con contributo personale.
+
+Scuola di specializzazione in clinica dermosifilopatica
+
+Art. 99. - La durata del corso e' di anni tre a tempo pieno.
+
+Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+1) Anatomia e istologia normale della cute;
+
+2) Fisiologia della cute e degli annessi cutanei;
+
+3) Anatomia e fisiologia dell'apparato genitale;
+
+4) Microbiologia e parassitologia applicate;
+
+5) Tecnica di laboratorio con particolare riferimento alla sierologia applicata;
+
+6) Semeiotica dermatologica e venereologia.
+
+2° Anno:
+
+1) Patologia delle malattie cutanee;
+
+2) Patologia delle infezioni sessuali;
+
+3) Anatomia e istologia patologica della cute;
+
+4) Anatomia patologica delle malattie veneree e sessuali;
+
+5) Dermatosi allergiche e professionali;
+
+6) Angiologia;
+
+7) Sessuologia,
+
+3° Anno:
+
+1) Clinica delle malattie cutanee;
+
+2) Clinica delle infezioni sessuali;
+
+3) Farmacologia e terapia medicamentosa;
+
+4) Fisioterapia dermatologica;
+
+5) Cosmetologia;
+
+6) Chirurgia plastica riparatrice;
+
+7) Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.
+
+Art. 100. - Le iscrizioni sono limitate a dieci per ogni anno di corso (totale trenta iscritti).
+
+Per le iscrizioni alla scuola e' richiesta la laurea in medicina e chirurgia ed il superamento di un esame di ammissione.
+
+Gli iscritti saranno obbligati ad una frequenza giornaliera delle corsie, ambulatori e laboratori della clinica dermosifilopatica per tutta la durata dell'anno accademico.
+
+Gli esami di profitto degli specializzandi verranno dati in tre gruppi e in tre sessioni distinte, ogni gruppo comprendente le materie proprie di ciascun anno di studio.
+
+L'esame di diploma consistera' nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato 24 ore prima della prova.
+
+Scuola di specializzazione in neurologia
+
+Art. 101. - La scuola di specializzazione in neurologia ha la durata di quattro anni.
+
+Le materie di insegnamento sono le seguenti:
+
+1° Anno (internato in psichiatria):
+
+Anatomia e istologia del S.N.
+
+Fisiologia del S.N.;
+
+Biochimica del S.N.;
+
+Genetica (elementi);
+
+Psicologia generale;
+
+Psicopatologia (I);
+
+Semeiotica psichiatrica.
+
+2° Anno:
+
+Anatomia e istologia patologica del S.N.;
+
+Semeiotica neurologica;
+
+Patologia speciale e diagnostica neurologica (I);
+
+Neuro-radiologia;
+
+Endocrinologia e neurologia vegetativa.
+
+3° Anno:
+
+Patologia speciale e diagnostica neurologica (II);
+
+Clinica neurologica (I);
+
+Elettroencefalografia;
+
+Elettromiografia, elettrodiagnostica e elettroterapia;
+
+Neuro-oftalmologia;
+
+Neuro-otologia;
+
+Esami di laboratorio.
+
+4° Anno:
+
+Clinica neurologica e terapia (II);
+
+Neuro-chirurgia;
+
+Teoria e clinica della riabilitazione;
+
+Neuro-traumatologia anche sotto l'aspetto della medicina legale;
+
+Neurologia in rapporto alla patologia internistica.
+
+Internato obbligatorio per l'intero anno scolastico nel 2°, 3° e 4° anno in clinica neurologica sede della scuola. Tale internato potra' essere ridotto a non meno di mesi quattro per anno per i medici che prestino regolare servizio in reparto neurologico.
+
+Internato obbligatorio per l'intero anno scolastico in psichiatria nel 1° anno.
+
+Tale internato potra' essere ridotto a non meno di mesi sei per i medici che prestino servizio in reparto neurologico e a non meno di mesi quattro per coloro che prestino servizio in ospedale psichiatrico.
+
+Esami obbligatori per il passaggio all'anno successivo.
+
+Il numero massimo totale degli iscritti e' di quaranta.
+
+Un abbuono di due anni puo' essere concesso per i gia' specializzati in psichiatria, neuropsichiatria infantile e neurochirurgia.
+
+Un anno di abbuono per i gia' specializzati in altre materie affini (medicina interna, otorinolaringoiatria, oculistica, radiologia).
+
+Gli abbuoni possono essere concessi solo superando un esame di ammissione.
+
+Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.
+
+L'esame di diploma consiste nella presentazione di una dissertazione scritta a carattere clinico o sperimentale, relativa discussione e prova pratica sul malato.
+
+Scuola di specializzazione in psichiatria
+
+Art. 102. - La scuola di specializzazione in psichiatria ha la durata di quattro anni.
+
+Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+Anatomia e istologia del S.N.;
+
+Fisiologia del S.N.;
+
+Biochimica del S.N.;
+
+Genetica (elementi);
+
+Psicologia generale;
+
+Psicopatologia (I);
+
+Semeiotica psichiatrica.
+
+2° Anno (internato in neurologia):
+
+Anatomia e istologia patologica del S.N.;
+
+Semeiotica neurologica;
+
+Patologia speciale e diagnostica neurologica;
+
+Neuro-radiologia;
+
+Endocrinologia e neurologia vegetativa;
+
+Elettroencefalografia.
+
+3° Anno:
+
+Patologia speciale psichiatrica;
+
+Psicopatologia (II);
+
+Clinica psichiatrica (I);
+
+Psicologia clinica e psicodiagnostica;
+
+Psicofarmacologia;
+
+Psichiatria in rapporto con la patologia internistica;
+
+Esami di laboratorio.
+
+4° Anno:
+
+Clinica psichiatrica (II);
+
+Terapia psichiatrica generale;
+
+Psicoterapia;
+
+Neuropsichiatria infantile;
+
+Psichiatria forense e legislazione psichiatrica;
+
+Psichiatria sociale (del lavoro, scolastica, igiene e profilassi mentale).
+
+Internato obbligatorio per l'intero anno scolastico per il 1°, 3° e 4° anno in clinica psichiatrica sede della scuola.
+
+Tale internato potra' essere ridotto a non meno di quattro mesi all'anno per i medici che prestino servizio regolare in ospedale psichiatrico.
+
+L'internato e' obbligatorio per il 2° anno in neurologia (sede della scuola) per l'intero anno scolastico, salvo per i medici che prestino regolare servizio in ospedale psichiatrico per i quali potra' essere ridotto a non meno di mesi sei, e per i medici che prestino regolare servizio in un reparto neurologico per i quali potra' essere ridotto a non meno di mesi quattro.
+
+Esami obbligatori per il passaggio all'anno successivo.
+
+Il numero massimo totale degli iscritti e' di quaranta.
+
+Per i gia' specializzati in neurologia, neuropsichiatria infantile potra' esservi abbuono di due anni.
+
+Un anno di abbuono per i gia' specializzati in altre materie affini (psicologia, medicina generale, neurochirurgia).
+
+Tali abbuoni possono essere concessi solo dopo aver superato l'esame di ammissione.
+
+Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.
+
+L'esame di diploma consiste nella presentazione di una dissertazione scritta a carattere clinico o sperimentale, relativa discussione e prova pratica sul malato.
+
+Scuola di specializzazione in clinica oculistica
+
+Art. 103. - Il corso degli studi nella scuola di specializzazione in clinica oculistica ha la durata di quattro anni.
+
+Il numero totale degli iscritti per i quattro anni calcolato sui letti della clinica e' di venti o al massimo di trentacinque specializzandi.
+
+Gli insegnamenti impartiti sono:
+
+1° Anno:
+
+1) Anatomia ed istologia dell'apparato oculare;
+
+2) Nozioni di embriologia e genetica oculare;
+
+3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;
+
+4) Nozioni di ottica fisiologica, esame della refrazione;
+
+5) Microbiologia ed igiene oculare.
+
+2° Anno:
+
+1) Semeiologia oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmoscopia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);
+
+2) Farmacologia oculare. Terapia fisica;
+
+3) Anatomia patologica oculare;
+
+4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della sclera, della cornea).
+
+3° Anno:
+
+1) Patologia clinica oculare (malattie dell'uvea, della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);
+
+2) Anomalie e patologia della motivita' oculare e della visione binoculare;
+
+3) Affezioni otorinolaringoiatriche e occhio;
+
+4) Tecnica operatoria 1ª parte.
+
+4° Anno:
+
+1) Neuroftalmologia;
+
+2) Malattie oculari in rapporto ad affezioni generali;
+
+3) Malattie professionali. Infortunistica e medicina legale oculare;
+
+4) Tecnica operatoria 2ª parte;
+
+5) Tesi di specializzazione.
+
+Art. 104. - Gli esami di profitto si danno alla fine di ciascun anno di corso. Alla fine del corso gli iscritti, oltre a presentare la dissertazione scritta ed a sostenere la relativa discussione, devono sostenere una prova pratica sull'ammalato.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle, leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 8 ottobre 1969
+
+SARAGAT
+
+FERRARI AGGRADI
+
+Visto, il Guardasigilli: GAVA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 7 novembre 1969 Atti del Governo, registro n. 230, foglio n. 21. - CARUSO
 
 Art. 1
 ------
@@ -13,10 +429,9 @@ Art. 1
  IL PRESIDENTE DELLA REPUBBLICA   
   
 Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
@@ -24,184 +439,263 @@ Sulla proposta del Ministro per la pubblica istruzione;
   
 Decreta:   
   
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:   
+Gli articoli 96, 97, 98, 99, 100, 101, 102, 103 e 104 relativi alle scuole di specializzazione in ostetricia e ginecologia, dermosifilopatia, neurologia e psichiatria, oculistica sono abrogati e sostituiti dai seguenti:   
   
-Gli articoli da 23 a 27, relativi all'ordinamento del corso di laurea in scienze politiche, sono abrogati e sostituiti dai seguenti con il conseguente spostamento della numerazione degli articoli successivi.   
+Scuola di specializzazione in ostetricia e ginecologia   
   
-FACOLTA' DI SCIENZE POLITICHE   
+Art. 96. - Il corso di specializzazione in ostetricia e ginecologia ha la durata di quattro anni. L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami.   
   
-Art. 23. - La durata del corso per il conseguimento della laurea in scienze politiche e' di quattro ammesso si articola in un biennio propedeutico e in un biennio di specializzazione;   
-E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.   
-Lo studente per essere ammesso all'esame di laurea deve avere eseguito i corsi e superato gli esami relativi ad almeno diciannove insegnamenti annuali e a quelli relativi a due lingue straniere.   
-Gli insegnamenti possono essere anche mutuati da altre facolta'.   
-Art. 24. - Il biennio propedeutico comprende i seguenti insegnamenti obbligatori:   
-1) Diritto costituzionale, italiano e comparato;   
-2) Economia politica;   
-3) Istituzioni di diritto privato;   
-4) Istituzioni di diritto pubblico;   
-5) Politica economica e finanziaria;   
-6) Sociologia;   
-7) Statistica;   
-8) Storia delle dottrine politiche;   
-9) Storia moderna.   
-L'insegnamento di istituzioni di diritto privato approfondira' anche gli aspetti storico-comparatistici della materia.   
-Art. 25. - All'inizio del terzo anno di corso lo studente presenta domanda di iscrizione a uno dei cinque indirizzi del biennio di specializzazione.   
-Lo studente per essere ammesso al biennio di specializzazione deve aver superato almeno sei esami dei nove obbligatori del biennio propedeutico. I rimanenti esami dovranno comunque essere superati prima della laurea.   
-Art. 26. - Lo studente durante il biennio propedeutico, puo' anticipare fino a tre insegnamenti obbligatori dell'indirizzo di specializzazione che intende seguire.   
-Gli insegnamenti di indirizzo a scelta dello studente non possono essere anticipati.   
-Art. 27. - Lo studente e' tenuto a seguire i corsi con durata biennale e a superare i relativi esami in due lingue straniere moderne. Una di queste deve essere l'inglese; l'altra e' a scelta dello studente, con preferenza per quelle insegnate nella facolta'.  
-La frequenza del corso di lingua inglese deve aver luogo nel biennio propedeutico.   
-Art. 28. - Gli esami di diritto amministrativo, di diritto internazionale, di diritto dell'economia e del lavoro non possono essere sostenuti, se prima non siano stati superati gli esami di istituzioni di diritto privato e di istituzioni di diritto pubblico.   
-L'esame di istituzioni di diritto e procedura penale non puo' essere sostenuto se prima non sia stato superato l'esame di istituzioni di diritto pubblico.   
-Gli esami di politica economica e finanziaria e di scienza delle finanze non possono essere sostenuti se prima non sia stato superato l'esame di economia politica.   
-L'esame di organizzazione economica internazionale non puo' essere sostenuto se prima non sia stato superato l'esame di politica economica e finanziaria.   
-L'esame di demografia e statistica sociale non puo' essere sostenuto se prima non sia stato superato l'esame di statistica.   
-Gli esami di storia dei trattati e relazioni internazionali e di storia ed istituzioni dei paesi afro-asiatici non possono essere sostenuti se prima non sono stati superati gli esami di storia moderna e di storia contemporanea, ove quest'ultima sia prevista come obbligatoria nell'indirizzo prescelto.   
-Gli esami dei corsi a carattere superiore non possono essere sostenuti se prima non sia stato superato l'esame del corso di base.   
-Art. 29. - Il biennio di specializzazione e' suddiviso in cinque indirizzi:   
-1) Politico-amministrativo;   
-2) Politico-economico;   
-3) Politico-internazionale;   
-4) Politico-sociale;   
-5) Storico-politico.   
-Sul diploma di laurea viene indicato l'indirizzo seguito.   
-Art. 30. - Lo studente deve seguire i corsi e superare gli esami di almeno dieci materie indicate nell'elenco predisposto dalla facolta' per ciascun indirizzo. Di questi corsi non piu' di sette e non meno di quattro seno stabiliti come obbligatori; gli altri sono a scelta dello studente nell'ambito dei restanti insegnamenti del suddetto elenco.   
-Art. 31. - L'elenco degli insegnamenti obbligatori e a scelta di indirizzo e' predisposto dalla facolta', prima dell'inizio di ogni anno accademico, ai sensi del capo 5° dell'allegato, tabella IV, del [decreto del Presidente della Repubblica 31 ottobre 1968, n. 1189](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-10-31;1189), sulla base delle indicazioni date nel successivo articolo 13 in relazione ai fini che ciascun indirizzo si propone e avendo riguardo alle esigenze della continuita' degli studi.   
-Art. 32. - La facolta' con riguardo a specifici fini di orientamento didattico puo' predisporre l'elenco degli insegnamenti "a scelta" dei singoli indirizzi in modo differenziato a seconda dei campi di studio che articolano ciascun indirizzo.   
-Art. 33. - La facolta' sceglie gli insegnamenti dei singoli indirizzi nel seguente elenco orientativo:   
-Antropologia culturale;   
-Contabilita' nazionale;   
-Contabilita' dello Stato e degli enti pubblici;   
-Controlli costituzionali;   
-Criminologia;   
-Demografia;   
-Diplomazia e diritto diplomatico;   
-Diritto americano;   
-Diritto amministrativo;   
-Diritto inglese;   
-Diritto commerciale;   
-Diritto della Comunita' europea;   
-Diritto ecclesiastico;   
-Diritto dell'economia e del lavoro;   
-Diritto internazionale;   
-Diritto parlamentare;   
-Diritto penale comparato;   
-Diritto penale e dell'economia;   
-Diritto privato comparato;   
-Diritto processuale civile;   
-Diritto pubblico comparato;   
-Diritto pubblico comparato degli Stati africani;   
-Diritto pubblico regionale;   
-Diritto pubblico romano;   
-Diritto degli scambi internazionali;   
-Diritto tributario;   
-Dottrina dello Stato;   
-Econometria;   
-Economia aziendale;   
-Economia bancaria e monetaria;   
-Economia dei Paesi afro-asiatici;   
-Economia dei Paesi in via di sviluppo;   
-Economia e politica agraria;   
-Economia, del settore pubblico;   
-Etnologia;   
-Filosofia del diritto;   
-Filosofia morale;   
-Filosofia della politica;   
-Filosofia della scienza;   
-Filosofia della storia;   
-Geografia politica ed economica;   
-Istituzioni di diritto e procedura penale;   
-Istituzioni di matematiche;   
-Logica;   
-Metodologia della ricerca storica;   
-Metodologia delle scienze sociali;   
-Organizzazione economica internazionale;   
-Organizzazione internazionale;   
-Organizzazione politica europea;   
-Paleografia e diplomatica;   
-Pedagogia;   
-Politica comparata;   
-Programmazione economica;   
-Psicologia;   
-Psicologia sociale;   
-Ricerca operativa;   
-Scienza dell'amministrazione;   
-Scienza delle finanze;   
-Scienza della politica;   
-Sociologia applicata;   
-Sociologia economica;   
-Sociologia giuridica;   
-Sociologia del lavoro e dell'industria;   
-Sociologia politica;   
-Sociologia urbana e rurale;   
-Statistica economica;   
-Statistica sociale;   
-Storia dell'Africa e dell'Asia mediterranea;   
-Storia americana;   
-Storia antica;   
-Storia degli arabi;   
-Storia contemporanea;   
-Storia costituzionale e amministrativa dell'Italia contemporanea;   
-Storia del Cristianesimo;   
-Storia del diritto italiano;   
-Storia delle dottrine economiche;   
-Storia economica;   
-Storia della filosofia;   
-Storia ed istituzioni dell'Europa orientale,   
-Storia ed istituzioni dei Paesi afro-asiatici;   
-Storia delle istituzioni politiche;   
-Storia medioevale;   
-Storia moderna e contemporanea dell'Africa;   
-Storia moderna e contemporanea dell'Asia centrale;   
-Storia dei partiti e dei movimenti politici;   
-Storia del pensiero sociologico;   
-Storia politica e diplomatica dell'Asia orientale;   
-Storia dei rapporti fra Stato e Chiesa;   
-Storia del Risorgimento;   
-Storia e tecnica dei mezzi di informazione;   
-Storia dei trattati e relazioni internazionali;   
-Tecnica della ricerca sociale;   
-Tecnica degli scambi internazionali;   
-Teoria dell'organizzazione;   
-Teoria dello sviluppo economico;   
-Teoria dello sviluppo politico.   
-Art. 34. - Qualora la facolta' istituisca corsi semestrali o trimestrali due corsi semestrali, tre corsi trimestrali, un corso semestrale e uno trimestrale, equivarranno a un corso annuale.   
-Qualora la facolta' istituisca corsi pluriennali di una stessa materia, ogni esame annuale verra' computato ai fini del numero minimo dei corsi stabilito.   
-Art. 35. - E' consentito il passaggio ad altro indirizzo prima dell'inizio del quarto anno di corso mediante presentazione di apposita domanda. Il consiglio di facolta' decide sulla validita' dei corsi frequentati e degli esami superati nel precedente indirizzo ai fini del proseguimento degli studi nel nuovo indirizzo.   
-Art. 36. - E' ammessa la combinazione di due indirizzi. A tale effetto lo studente deve seguire i corsi e superare gli esami di ambedue gli indirizzi e comunque in non meno di quattordici materie indicate nell'elenco predisposto dalla facolta' rispetto ai due indirizzi scelti.   
-Superato l'esame di laurea lo studente consegue il titolo di dottore in scienze politiche con l'indicazione dell'indirizzo prescelto.   
-Art. 37. - Il consiglio di facolta' stabilisce la distribuzione cronologica degli insegnamenti entro i bienni e le modalita' degli esami.   
-Art. 38. - Il biennio di specializzazione utilizza in particolare anche esercitazioni, dibattiti, ricerche individuali e di gruppo e ogni altro strumento didattico che si riveli opportuno: fa altresi', ricorso a letture, ricerche integrative in campi di studio affini agli argomenti impartiti.   
-Art. 39. - Quando una stessa materia sia prevista in piu' indirizzi, fermo restando il carattere unitario del corso di lezioni per tutti gli studenti, i professori ufficiali, nello svolgimento delle esercitazioni e nelle indicazioni dei testi sui quali lo studente deve compiere la sua preparazione cosi' come negli esami, terranno conto della differenziata caratterizzazione dei vari indirizzi.   
-Art. 40. - L'esame di laurea consiste:   
-a) in una dissertazione scritta su un tema scelto dal candidato nell'ambito delle materie dell'indirizzo seguito e di quelle del biennio propedeutico direttamente connesse e nella discussione della stessa;   
-b) in due dissertazioni orali su argomenti scelti dal candidato nell'ambito delle materie dell'indirizzo seguito e di quelle del biennio propedeutico direttamente connesse.   
-Tali dissertazioni orali possono basarsi su letture, ricerche o esercitazioni compiute, individualmente o in gruppo, nell'ambito degli istituti o dei centri di studi annessi alla facolta'. La scelta del tema della dissertazione scritta e di quelle orali deve essere approvata dal professore ufficiale della materia.   
-La relativa comunicazione alla segreteria della facolta' deve avere luogo almeno sei mesi prima della sessione d'esame per la dissertazione scritta e almeno due mesi prima della sessione d'esame per le dissertazioni orali.   
-Art. 41. - Alla facolta' sono ammessi:   
-una biblioteca   
-e i seguenti istituti:   
-Istituto di studi storici e di politica internazionale;   
-Istituto di storia delle dottrine e delle istituzioni politiche;   
-Istituto di storia e istituzioni dei Paesi afro-asiatici;   
-Istituto di studi politico-economici;   
-Istituto di statistica;   
-Istituto di studi politico-sociali;   
-Istituto di studi politico-giuridici.   
-Gli istituti sono diretti da professori di ruolo o da professori incaricati.   
-Ogni istituto e' disciplinato con apposito regolamento interno.   
+Sono da considerarsi titoli preferenziali, a parita' di risultato dell'esame di ammissione:   
   
-Disposizioni transitorie   
+a) il voto di laurea in medicina e chirurgia;   
+b) aver frequentato come studente interno una clinica ostetrica e ginecologica dell'universita';   
+c) aver svolto la tesi di laurea nella clinica ostetrica e ginecologica;   
+d) documentazione di eventuali servizi prestati in grossi reparti ospedalieri della specialita';   
+e) eventuali pubblicazioni.   
+L'esame di ammissione deve espletarsi entro il mese di dicembre.   
+Il numero totale degli iscritti e' di trentacinque (35).   
+Per nessun motivo il corso di quattro anni puo' essere abbreviato.  
+Nessun titolo puo' esonerare dalla frequenza gli iscritti nei quattro anni di corso.   
+Gli iscritti, oltre all'obbligo di frequenza delle lezioni, esercitazioni, seminari, ecc., devono prestare servizio analogo a quello degli assistenti per non meno di nove mesi all'anno.   
   
-Art. 42. - Il nuovo piano di studi entra in vigore a partire dall'anno accademico 1969-70.   
-Art. 43. - Gli studenti gia' iscritti possono seguire, a loro scelta, sia il presente piano di studi, sia il precedente ordinamento didattico.   
-Art. 44. - Gli studenti iscritti al quarto anno sono ammessi agli indirizzi a condizione che, prima della laurea, abbiano superato gli esami prescritti per l'indirizzo e abbiano svolto, oltre le ordinarie attivita' di seminario, tre ricerche specializzate integrative.   
-Gli studenti fuori corso sono ammessi agli indirizzi purche' rinnovino l'iscrizione al quarto anno e si adeguino alle suddette condizioni.   
-Art. 45. - Il consiglio di facolta' decidera' ai fini della validita' della frequenza e degli esami, sull'equivalenza tra gli insegnamenti previsti del, precedente ordinamento didattico e quelli impartiti in base al presente piano di studi.   
+Art. 97. - Gli iscritti alla scuola debbono sostenere esami annuali di profitto e l'esame finale di diploma. La sessione di esami di profitto e' unica, ed e' espletata nel mese di ottobre. Non puo' essere iscritto all'anno successivo di corso chi non abbia superato le materie fondamentali della specialita'.   
+  
+Art. 98. - Le materie di insegnamento sono le seguenti:   
+  
+1° Anno:   
+  
+Elementi di genetica e di eugenica;   
+Anatomia normale ed embriologia dell'apparato genitale femminile;  
+Fisiologia dell'apparato genitale femminile;   
+Endocrinologia fisiologica;   
+Fisiologia ostetrica;   
+Diagnostica ostetrica;   
+Clinica ostetrica e ginecologica.   
+  
+2° Anno:   
+  
+Tecnica operatoria ostetrica;   
+Diagnostica ginecologica;   
+Tecnica diagnostica di laboratorio nel campo ostetrico-ginecologico, esclusa la istologia (sierologia batteriologia, citologia, ematologia, biochimica);   
+Clinica ostetrica e ginecologica.   
+  
+3° Anno:   
+  
+Anatomia patologica ostetrica e ginecologica;   
+Istologia normale e patologica nel campo della specialita';   
+Puericultura prenatale;   
+Emoterapia nel campo ostetrico e ginecologico;   
+Anestesia e analgesia nel campo ostetrico e ginecologico;   
+Tecnica operatoria ginecologica;   
+Clinica ostetrica e ginecologica;   
+Terapia medica ostetrica e ginecologica.   
+  
+4° Anno:   
+  
+Puericultura postnatale e malattie del neonato;   
+Ostetricia e ginecologia forense;   
+Diagnostica roentgen, radioterapia in ostetricia e ginecologia;   
+Clinica ostetrica e ginecologica (esame alla fine del quarto anno);   
+Urologia ginecologica;   
+Chirurgia addominale extra genitale.   
+  
+Gli esami si fanno per gruppi di materie ed i membri delle commissioni saranno proposti dai direttori delle scuole.   
+Per il conseguimento del diploma, l'iscritto deve presentare e discutere una dissertazione scritta con contributo personale.   
+  
+Scuola di specializzazione in clinica dermosifilopatica   
+  
+Art. 99. - La durata del corso e' di anni tre a tempo pieno.   
+  
+Le materie di insegnamento sono le seguenti:   
+  
+1° Anno:   
+  
+1) Anatomia e istologia normale della cute;   
+2) Fisiologia della cute e degli annessi cutanei;   
+3) Anatomia e fisiologia dell'apparato genitale;   
+4) Microbiologia e parassitologia applicate;   
+5) Tecnica di laboratorio con particolare riferimento alla sierologia applicata;   
+6) Semeiotica dermatologica e venereologia.   
+  
+2° Anno:   
+  
+1) Patologia delle malattie cutanee;   
+2) Patologia delle infezioni sessuali;   
+3) Anatomia e istologia patologica della cute;   
+4) Anatomia patologica delle malattie veneree e sessuali;   
+5) Dermatosi allergiche e professionali;   
+6) Angiologia;   
+7) Sessuologia,   
+  
+3° Anno:   
+  
+1) Clinica delle malattie cutanee;   
+2) Clinica delle infezioni sessuali;   
+3) Farmacologia e terapia medicamentosa;   
+4) Fisioterapia dermatologica;   
+5) Cosmetologia;   
+6) Chirurgia plastica riparatrice;   
+7) Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.   
+  
+Art. 100. - Le iscrizioni sono limitate a dieci per ogni anno di corso (totale trenta iscritti).   
+Per le iscrizioni alla scuola e' richiesta la laurea in medicina e chirurgia ed il superamento di un esame di ammissione.   
+Gli iscritti saranno obbligati ad una frequenza giornaliera delle corsie, ambulatori e laboratori della clinica dermosifilopatica per tutta la durata dell'anno accademico.   
+Gli esami di profitto degli specializzandi verranno dati in tre gruppi e in tre sessioni distinte, ogni gruppo comprendente le materie proprie di ciascun anno di studio.   
+  
+L'esame di diploma consistera' nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato 24 ore prima della prova.   
+  
+Scuola di specializzazione in neurologia   
+  
+Art. 101. - La scuola di specializzazione in neurologia ha la durata di quattro anni.   
+  
+Le materie di insegnamento sono le seguenti:   
+  
+1° Anno (internato in psichiatria):   
+  
+Anatomia e istologia del S.N.   
+Fisiologia del S.N.;   
+Biochimica del S.N.;   
+Genetica (elementi);   
+Psicologia generale;   
+Psicopatologia (I);   
+Semeiotica psichiatrica.   
+  
+2° Anno:   
+  
+Anatomia e istologia patologica del S.N.;   
+Semeiotica neurologica;   
+Patologia speciale e diagnostica neurologica (I);   
+Neuro-radiologia;   
+Endocrinologia e neurologia vegetativa.   
+  
+3° Anno:   
+  
+Patologia speciale e diagnostica neurologica (II);   
+Clinica neurologica (I);   
+Elettroencefalografia;   
+Elettromiografia, elettrodiagnostica e elettroterapia;   
+Neuro-oftalmologia;   
+Neuro-otologia;   
+Esami di laboratorio.   
+  
+4° Anno:   
+  
+Clinica neurologica e terapia (II);   
+Neuro-chirurgia;   
+Teoria e clinica della riabilitazione;   
+Neuro-traumatologia anche sotto l'aspetto della medicina legale;   
+Neurologia in rapporto alla patologia internistica.   
+  
+Internato obbligatorio per l'intero anno scolastico nel 2°, 3° e 4° anno in clinica neurologica sede della scuola. Tale internato potra' essere ridotto a non meno di mesi quattro per anno per i medici che prestino regolare servizio in reparto neurologico.   
+Internato obbligatorio per l'intero anno scolastico in psichiatria nel 1° anno.   
+Tale internato potra' essere ridotto a non meno di mesi sei per i medici che prestino servizio in reparto neurologico e a non meno di mesi quattro per coloro che prestino servizio in ospedale psichiatrico.   
+Esami obbligatori per il passaggio all'anno successivo.   
+Il numero massimo totale degli iscritti e' di quaranta.   
+Un abbuono di due anni puo' essere concesso per i gia' specializzati in psichiatria, neuropsichiatria infantile e neurochirurgia.   
+Un anno di abbuono per i gia' specializzati in altre materie affini (medicina interna, otorinolaringoiatria, oculistica, radiologia).   
+Gli abbuoni possono essere concessi solo superando un esame di ammissione.   
+Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.   
+  
+L'esame di diploma consiste nella presentazione di una dissertazione scritta a carattere clinico o sperimentale, relativa discussione e prova pratica sul malato.   
+  
+Scuola di specializzazione in psichiatria   
+  
+Art. 102. - La scuola di specializzazione in psichiatria ha la durata di quattro anni.   
+  
+Le materie di insegnamento sono le seguenti:   
+  
+1° Anno:   
+  
+Anatomia e istologia del S.N.;   
+Fisiologia del S.N.;   
+Biochimica del S.N.;   
+Genetica (elementi);   
+Psicologia generale;   
+Psicopatologia (I);   
+Semeiotica psichiatrica.   
+  
+2° Anno (internato in neurologia):   
+  
+Anatomia e istologia patologica del S.N.;   
+Semeiotica neurologica;   
+Patologia speciale e diagnostica neurologica;   
+Neuro-radiologia;   
+Endocrinologia e neurologia vegetativa;   
+Elettroencefalografia.   
+  
+3° Anno:   
+  
+Patologia speciale psichiatrica;   
+Psicopatologia (II);   
+Clinica psichiatrica (I);   
+Psicologia clinica e psicodiagnostica;   
+Psicofarmacologia;   
+Psichiatria in rapporto con la patologia internistica;   
+Esami di laboratorio.   
+  
+4° Anno:   
+  
+Clinica psichiatrica (II);   
+Terapia psichiatrica generale;   
+Psicoterapia;   
+Neuropsichiatria infantile;   
+Psichiatria forense e legislazione psichiatrica;   
+Psichiatria sociale (del lavoro, scolastica, igiene e profilassi mentale).   
+  
+Internato obbligatorio per l'intero anno scolastico per il 1°, 3° e 4° anno in clinica psichiatrica sede della scuola.   
+Tale internato potra' essere ridotto a non meno di quattro mesi all'anno per i medici che prestino servizio regolare in ospedale psichiatrico.   
+L'internato e' obbligatorio per il 2° anno in neurologia (sede della scuola) per l'intero anno scolastico, salvo per i medici che prestino regolare servizio in ospedale psichiatrico per i quali potra' essere ridotto a non meno di mesi sei, e per i medici che prestino regolare servizio in un reparto neurologico per i quali potra' essere ridotto a non meno di mesi quattro.   
+Esami obbligatori per il passaggio all'anno successivo.   
+Il numero massimo totale degli iscritti e' di quaranta.   
+Per i gia' specializzati in neurologia, neuropsichiatria infantile potra' esservi abbuono di due anni.   
+Un anno di abbuono per i gia' specializzati in altre materie affini (psicologia, medicina generale, neurochirurgia).   
+Tali abbuoni possono essere concessi solo dopo aver superato l'esame di ammissione.   
+Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.   
+L'esame di diploma consiste nella presentazione di una dissertazione scritta a carattere clinico o sperimentale, relativa discussione e prova pratica sul malato.   
+  
+Scuola di specializzazione in clinica oculistica   
+  
+Art. 103. - Il corso degli studi nella scuola di specializzazione in clinica oculistica ha la durata di quattro anni.   
+Il numero totale degli iscritti per i quattro anni calcolato sui letti della clinica e' di venti o al massimo di trentacinque specializzandi.   
+  
+Gli insegnamenti impartiti sono:   
+  
+1° Anno:   
+  
+1) Anatomia ed istologia dell'apparato oculare;   
+2) Nozioni di embriologia e genetica oculare;   
+3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;   
+4) Nozioni di ottica fisiologica, esame della refrazione;   
+5) Microbiologia ed igiene oculare.   
+  
+2° Anno:   
+  
+1) Semeiologia oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmoscopia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);   
+2) Farmacologia oculare. Terapia fisica;   
+3) Anatomia patologica oculare;   
+4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della sclera, della cornea).   
+  
+3° Anno:   
+  
+1) Patologia clinica oculare (malattie dell'uvea, della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);   
+2) Anomalie e patologia della motivita' oculare e della visione binoculare;   
+3) Affezioni otorinolaringoiatriche e occhio;   
+4) Tecnica operatoria 1ª parte.   
+  
+4° Anno:   
+  
+1) Neuroftalmologia;   
+2) Malattie oculari in rapporto ad affezioni generali;   
+3) Malattie professionali. Infortunistica e medicina legale oculare;   
+4) Tecnica operatoria 2ª parte;   
+5) Tesi di specializzazione.   
+  
+Art. 104. - Gli esami di profitto si danno alla fine di ciascun anno di corso. Alla fine del corso gli iscritti, oltre a presentare la dissertazione scritta ed a sostenere la relativa discussione, devono sostenere una prova pratica sull'ammalato.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle, leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Dato a Roma, addi' 8 ottobre 1969
 
@@ -209,6 +703,6 @@ SARAGAT FERRARI AGGRADI
 
 Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 30 ottobre 1969
+Registrato alla Corte dei conti, addi' 7 novembre 1969
 
-Atti del Governo registro, n. 229, foglio n. 163. - CARUSO
+Atti del Governo, registro n. 230, foglio n. 21. - CARUSO

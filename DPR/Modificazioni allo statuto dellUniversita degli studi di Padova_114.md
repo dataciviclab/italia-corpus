@@ -1,90 +1,217 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 694
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1976 n. 942
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 694
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1976 n. 942
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA   
   
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione.   
   
-Dopo l'art. 394 con il conseguente spostamento degli articoli successivi e' inserita la seguente nuova scuola:   
+Decreta:   
   
-Scuola di specializzazione in farmacia ospedaliera   
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Art. 395. - La scuola di specializzazione in farmacia ospedaliera ha l'intento di assicurare ai laureati in discipline farmaceutiche (farmacia e chimica e tecnologia farmaceutiche) la possibilita' di un perfezionamento nelle materie necessarie ad esercitare la loro attivita' nella farmacia ospedaliera.   
-Art. 396. - La scuola rilascia il diploma di specializzazione in farmacia ospedaliera al termine del corso di studi che ha durata biennale.   
-Art. 397. - Alla scuola di specializzazione sono ammessi i laureati in farmacia ed in chimica e tecnologia farmaceutiche.   
-L'ammissione alla scuola e' condizionata al superamento dell'esame di istituzioni di matematiche (programma del corso di laurea in chimica e tecnologia farmaceutiche), ove questo non sia stato superato nel corso degli studi universitari.   
-Art. 398. - Gli insegnamenti della scuola sono i seguenti:   
+L'art. 396, relativo alle norme generali per le scuole di specializzazione in medicina e chirurgia, e' modificato nel senso che il primo comma e' integrato con la seguente frase: "ad eccezione della scuola in scienza dell'alimentazione alla quale possono essere ammessi anche i laureati in chimica e tecnologia farmaceutiche; in farmacia, in medicina veterinaria, in scienze biologiche, in scienze naturali (per l'indirizzo nutrizionistico), in chimica, in ingegneria chimica, in scienze agrarie, in scienze biologiche, in scienze delle preparazioni alimentari (per l'indirizzo tecnologico)".   
+Art. 405 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono aggiunte le seguenti:   
+scuola di specializzazione in scienza dell'alimentazione che conferisce il diploma di specialista in scienza dell'alimentazione; scuola di specializzazione in tossicologia medica che conferisce il diploma di specialista in tossicologia medica;   
+scuola di specializzazione in diabetologia e malattie del ricambio che conferisce il diploma di specialista in diabetologia e malattie del ricambio;   
+scuola di specializzazione in malattie dell'apparato cardiovascolare che conferisce il diploma di specialista in malattie dell'apparato cardiovascolare;   
+scuola di specializzazione in audiologia che conferisce il diploma di specialista in audiologia.   
+All'art. 406, concernente gli ordinamenti delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, sono aggiunti gli ordinamenti delle scuole di specializzazione di cui all'art. 405.   
+  
+Scuola di specializzazione in scienza dell'alimentazione   
+(durata del corso: 3 anni)   
+La scuola e' articolata in tre indirizzi:   
+1) indirizzo dietetico;   
+2) indirizzo nutrizionistico;   
+3) indirizzo tecnologico.   
+L'indirizzo dietetico mira ad approfondire nei medici le basi teoriche e pratiche di fondamentale importanza per la dietetica preventiva e curativa ed a stimolare altresi' la ricerca scientifica nel vasto campo della nutrizione umana. A tale indirizzo possono iscriversi soltanto i laureati in medicina e chirurgia.   
+L'indirizzo nutrizionistico, mira alla preparazione specialistica di laureati in settori concernenti lo studio di problemi generali e speciali dell'alimentazione negli aspetti fisiologici, biochimici, igienici, ecologici, economico-sociali, nonche' a stimolare la ricerca scientifica nei sopracitati settori. A tale indirizzo sono ammessi i laureati in chimica e tecnologia farmaceutiche, in farmacia, in medicina e chirurgia, in medicina veterinaria, in scienze biologiche, in scienze naturali.   
+L'indirizzo tecnologico mira alla preparazione di laureati per le attivita' direttive in settori concernenti le tecnologie alimentari in funzione dei loro riflessi nutrizionali e igienici sul prodotto finito, nonche' a stimolare la ricerca in questo settore. A tale indirizzo sono ammessi laureati in chimica, chimica e tecnologia farmaceutiche, farmacia, ingegneria chimica, scienze agrarie, scienze biologiche, scienza delle preparazioni alimentari.   
+L'attivazione di quest'ultimo indirizzo e' facoltativa.   
+Gli insegnamenti del primo biennio saranno comuni ai tre indirizzi: gli insegnamenti speciali, che qualificano i tre indirizzi, saranno svolti nel terzo anno.   
+Le materie di insegnamento sono:   
+1° Anno (comuni ai tre indirizzi):   
+1) chimica degli alimenti;   
+2) biochimica della nutrizione;   
+3) fisiologia generale della nutrizione;   
+4) Istituzione di statistica applicata ai problemi alimentari. 2° Anno (comuni ai tre indirizzi):   
+1) fisiologia della nutrizione umana;   
+2) igiene alimentare ed elementi di legislazione;   
+3) istituzioni di tecnologia alimentare;   
+4) biochimica patologica della nutrizione.   
+3° Anno:   
+A) Indirizzo dietetico:   
+1) alimentazione umana;   
+2) dietetica nell'eta' adulta;   
+3) dietetica nell'infanzia;   
+4) dietetica per le collettivita';   
+5) malattie dell'alimentazione e dietoterapia;   
+6) dietetica ospedaliera e organizzazione dei relativi servizi.   
+B) Indirizzo nutrizionistico:   
+1) alimentazione umana;   
+2) alimentazione degli animali da allevamento e da lavoro;   
+3) ecologia e geografia dell'alimentazione;   
+4) economia e statistica applicata alla alimentazione;   
+5) tecnica dei rilevamenti alimentari;   
+6) analisi chimiche degli alimenti: additivi chimici, sofisticazioni e adulterazioni alimentari.   
+C) Indirizzo tecnologico:   
+1) microbiologia e chimica delle fermentazioni nell'industria alimentare;   
+2) tecnologie industriali di preparazione, conservazione e confezionamento degli alimenti di origine animale;   
+3) tecnologie industriali di preparazione, conservazione e confezionamento degli alimenti di origine vegetale;   
+4) analisi chimiche degli alimenti, additivi chimici, sofisticazioni ed adulterazioni alimentari.   
+I corsi sopraindicati possono essere integrati da insegnamenti complementari, nonche' da conferenze su argomenti speciali (psicologia dell'alimentazione, antropologia nutrizionale, organizzazione della vigilanza e del controllo sulla produzione e commercio degli alimenti e bevande, ecc.).   
+Al termine di ciascun anno si avra' un solo esame generale, che sara' effettuato a gruppo dai docenti delle varie discipline.   
+La specializzazione sara' conseguita dopo la discussione di una apposita tesi.   
+Il numero dei posti disponibili al primo anno resta fissato in venti.   
+Per il pagamento delle tasse, soprattasse e contributi valgono le norme generali previste all'art. 379 del vigente statuto per tutte le scuole di specializzazione della facolta' medica.   
+Scuola di specializzazione in tossicologia medica   
+Alla facolta' di medicina e chirurgia dell'Universita' degli studi di Padova e' annessa la scuola di specializzazione in tossicologia medica.   
+La durata del corso degli studi per il conseguimento del diploma di specialista in tossicologia medica e' di tre anni.   
+Il numero degli allievi da ammettere non puo' essere superiore a cinque per ogni anno.   
+Per l'ammissione alla scuola i candidati dovranno dar prova di avere nozioni di cultura tossicologica.   
+Le materie di insegnamento sono cosi' suddivise nei tre anni di corso:   
 1° Anno:   
-1) matematica e informatica;   
-2) patologia generale (\*);   
-3) biofarmaceutica e farmacocinetica I;   
-4) tossicita', interazioni, effetti secondari dei farmaci;   
-5) radiochimica e radiobiologia;   
-6) microbiologia e igiene (\*);   
-7) tecnologia della preparazione magistrali.   
+1) chimica tossicologica con esercizi;   
+2) tossicologia generale;   
+3) tossicologia sperimentale con esercizi (I).   
 2° Anno:   
-1) biofarmaceutica e farmacocinetica II;   
-2) immunochimica;   
-3) farmacia clinica;   
-4) documentazione e informazione sui farmaci;   
-5) officina galenica;   
-6) chimica degli alimenti (\*);   
-7) economia, organizzazione e legislazione ospedaliera.   
-Gli insegnamenti comprendono lezioni teoriche ed esercitazioni pratiche.   
-Ove gli esami delle materie segnate con asterisco non fossero stati superati durante gli studi universitari; queste materie dovranno essere seguite in un regolare corso universitario.   
-Esse sono oggetto d'esame, al pari di tutte le altre materie comprese nel piano di studi della scuola. E' prevista la possibilita' di insegnamento e di esami integrati.   
-Art. 399. - La scuola e' organizzata dalla facolta' di farmacia dell'Universita' di Padova. Potranno essere invitati a tenere lezioni, conferenze, seminari ed esercitazioni, docenti di altre facolta' o Universita', od esperti, anche dall'estero.   
-La direzione della scuola e' affidata ad un docente di ruolo o fuori ruolo eletto dal consiglio direttivo costituito da cinque docenti nominati dal consiglio di facolta', per la durata di tre anni, scelti fra i docenti di discipline chimico-farmaceutiche (due), farmaco-biologiche (due) e tecnologie (uno).   
-Il direttore ed i membri del consiglio sono rieleggibili. In caso di decadenza, il nuovo membro resta in carica fino alla scadenza del mandato triennale.   
-Art. 400. - Gli incarichi di insegnamento, anche per un limitato numero di lezioni o esercitazioni, sono conferiti dal rettore su proposta del consiglio direttivo della scuola con l'approvazione del senato accademico e del consiglio di amministrazione dell'Universita'.   
-Art. 401. - Le tasse e sopratasse per l'iscrizione alla scuola sono quelle stabilite per la facolta' di farmacia.   
-I contributi a carico degli iscritti dovranno essere fissati annualmente dal consiglio di amministrazione su proposta del consiglio della scuola e verranno resi noti ogni anno con apposito manifesto.   
-Art. 402. - Il numero massimo di iscritti alla scuola e' di quindici per ogni anno di corso. Iscrizioni in numero superiore possono essere ammesse eccezionalmente su parere favorevole del consiglio direttivo della scuola. L'ammissione alla scuola e' decisa dal consiglio direttivo sulla base di un concorso, per esami e per titoli. La frequenza e' obbligatoria sia per le lezioni che per le esercitazioni.   
-Art. 403. - La scuola e' finanziata con le quote di iscrizione e attraverso contributi della Societa' italiana di farmacia ospedaliera e di contributi, lasciti o donazioni di altri enti e privati.   
+1) tossicologia sistematica;   
+2) cancerogenesi da agenti chimici;   
+3) teratogenesi da agenti chimici;   
+4) tossicologia sperimentale con esercizi (II);   
+5) clinica e terapia delle malattie da agenti chimici (I).   
+3° Anno:   
+1) diagnostica chimica delle malattie da agenti chimici;   
+2) clinica e terapia delle malattie da agenti chimici;   
+3) tecniche di rianimazione in tossicologia;   
+4) legislazione in campo tossicologico.   
+L'allievo e' tenuto alla frequenza obbligatoria delle lezioni e delle esercitazioni relative oltre a partecipare a ricerche concernenti problemi di tossicologia.   
+Durante i tre anni di frequenza alla scuola, tutti gli ammalati di interesse tossicologico che vengono ricoverati nelle cliniche della facolta' saranno seguiti e studiati dai laureati in medicina che sono iscritti al corso; casi interessanti di intossicazioni singole o collettive potranno essere oggetto di ricerche speciali e di pubblicazioni da parte di uno o piu' iscritti al corso, a seconda del giudizio del direttore.   
+Alla fine del primo, secondo e terzo anno avranno luogo esami speciali sugli insegnamenti impartiti e per ottenere il diploma i candidati dovranno superare un esame finale riassuntivo e discutere una tesi sperimentale (o clinica) su argomenti di tossicologia.   
+La misura delle tasse, soprattasse e contributi e' quella stessa fissata dall'art. 400 del vigente statuto per tutte le scuole di specializzazione della facolta' di medicina e chirurgia.   
+  
+Scuola di specializzazione in diabetologia e malattie del ricambio   
+La scuola ha la durata di tre anni e la frequenza ai corsi e' obbligatoria.   
+Le materie di insegnamento sono:   
+1° Anno:   
+1) anatomia e citomorfologia funzionale;   
+2) elementi di genetica del diabete e delle malattie del ricambio;   
+3) metodi di analisi chimica quantitativa;   
+4) patologia molecolare;   
+5) fisiopatologia clinica del diabete e delle malattie del ricambio;   
+6) elementi di biometria e di statistica complementare;   
+7) auxologia e auxopatia metaboliche (complementare).   
+2° Anno:   
+1) clinica del diabete e delle malattie del ricambio (I);   
+2) patologia sperimentale metabolica;   
+3) semeiotica fisica e funzionale del diabete e delle malattie del ricambio;   
+4) neuropatologia del diabete e delle malattie del ricambio (complementare);   
+5) fisiopatologia e clinica ostetrica e ginecologica del diabete e delle malattie del ricambio (complementare);   
+6) medicina sociale e preventiva del diabete e delle malattie del ricambio.   
+3° Anno:   
+1) clinica del diabete e delle malattie del ricambio (II);   
+2) farmacologia e terapia del diabete e delle malattie del ricambio;   
+3) dietologia del diabete e delle malattie del ricambio;   
+4) elementi di psicologia nel diabete e nelle malattie del ricambio (complementare);   
+5) terapia chirurgica nel diabete e nelle malattie del ricambio (complementare);   
+6) oftalmologia nel diabete e nelle malattie del ricambio (complementare).   
+I corsi saranno integrati da conferenze su argomenti specialistici e da esercitazioni pratiche, cliniche e di laboratorio.   
+Il numero degli specializzandi ammesso nei tre anni di corso e' fissato in dodici in rapporto al numero dei letti a disposizione.   
+Alla fine di ogni anno, per potersi iscrivere al successivo, gli allievi dovranno superare un esame di profitto comprensivo delle materie di insegnamento dell'anno stesso.   
+Per l'ammissione all'esame e' necessario ottenere l'attestazione di frequenza.   
+L'esame di diploma consistera' nella discussione di una dissertazione scritta su un tema approvato dal direttore della scuola stessa.   
+Le norme per l'ammissione e la misura delle tasse, soprattasse e contributi sono quelle previste dagli articoli 396 e 400 del vigente statuto universitario per tutte le scuole della facolta' di medicina e chirurgia.   
+  
+La Scuola di specializzazione in malattie dell'apparato cardiovascolare   
+(durata del corso: anni 3)   
+1° Anno:   
+1) anatomia normale dell'apparato cardiovascolare;   
+2) fisiologia dell'apparato cardiovascolare e respiratorio;   
+3) fisiopatologia cardiovascolare e respiratoria;   
+4) patologia cardiovascolare (primo corso);   
+5) semeiologia fisica (primo corso);   
+6) semeiologia strumentale (primo corso);   
+7) elettrocardiografia ed elettrofisiologia (facoltativo);   
+8) patologia del ricambio e cardiovasculopatie (facoltativo) (primo corso);   
+9) ipertensione: fisiopatologia (facoltativo);   
+10) statistica (facoltativo).   
+2° Anno:   
+1) fisiopatologia cardiovascolare e respiratoria (secondo corso);  
+2) patologia cardiovascolare (secondo corso);   
+3) semeiologia fisica (secondo corso);   
+4) anatomia patologica dell'apparato cardiovascolare (primo corso);   
+5) radiologia;   
+6) farmacologia;   
+7) clinica e terapia (primo corso);   
+8) elettrocardiografia e vettorcardiografia (facoltativo);   
+9) ipertensione: patologia (facoltativo);   
+10) patologia del ricambio e cardiovasculopatie (facoltativo) (secondo corso);   
+11) cardiologia pediatrica (facoltativo) (primo corso);   
+12) epidemiologia e prevenzione (facoltativo) (primo corso).   
+3° Anno:   
+1) anatomia patologica dell'apparato cardiovascolare (secondo corso);   
+2) clinica e terapia (secondo corso);   
+3) chirurgia dell'apparato cardiovascolare;   
+4) patologia del ricambio e cardiovasculopatie (facoltativo) (terzo corso);   
+5) fisiopatologia delle aritmie (facoltativo);   
+6) epidemiologia e prevenzione (facoltativo) (secondo corso);   
+7) cardiologia pediatrica (facoltativo) (secondo corso).   
+Il numero degli iscritti e' stabilito in dodici per anno di corso per un totale di trentasei.   
+Le norme di iscrizione, esame, pagamento tasse, ecc., sono quelle generali delle scuole di specializzazione della facolta' di medicina e chirurgia previste negli articoli da 394 a 404 del vigente statuto universitario.   
+Scuola di specializzazione in audiologia   
+La scuola ha sede presso la clinica otorinolaringoiatrica dell'Universita' di Padova.   
+La durata del corso e' fissata in tre anni.   
+Il numero degli iscritti alla scuola, complessivo per i tre anni, e' fissato ad un massimo di dodici (quattro per anno).   
+Non e' concesso alcun abbreviamento di corso.   
+Le materie di insegnamento sono:   
+1° Anno:   
+1) nozioni di fisica acustica;   
+2) anatomia dell'orecchio, delle vie e dei centri acustici e vestibolari;   
+3) fisiologia dell'orecchio, delle vie e dei centri acustici e vestibolari;   
+4) nozioni di psichiatria.   
+2° Anno:   
+1) tecniche audiometriche;   
+2) nozioni di neurologia;   
+3) nozioni di vestibologia.   
+3° Anno:   
+1) patologia dell'udito;   
+2) terapia medica, chirurgia e protesica della sordita';   
+3) la sordita' sotto il profilo sociale;   
+4) la rieducazione dell'ipoacustico.   
+Per accedere al 2° e 3° anno e' obbligatorio il superamento di tutti gli esami, rispettivamente del 1° e del 2° anno. Gli esami possono essere sostenuti solamente in due sessioni annuali, una estiva ed una autunnale.   
+Il direttore della scuola e dei corsi e' il titolare della cattedra di clinica otorinolaringoiatrica dell'Universita' di Padova. Gli insegnanti sono proposti dal direttore della scuola e scelti tra i titolari di altre cattedre della facolta' di medicina e chirurgia dell'Universita' di Padova, tra i liberi docenti in audiologia ed in altre materie.   
+Il diploma di specialista in audiologia viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico e sperimentale.   
+La misura delle tasse e soprattasse e' quella stessa fissata dall'art. 400 del vigente statuto per tutte le scuole di specializzazione della facolta' di medicina e chirurgia e cioe':   
+  
+  
+tassa di immatricolazione ................................ L. 5.000 tassa di iscrizione ...................................... L. 100.000 tassa di iscrizione quali fuori corso .................... L. 5.000 soprattassa esami ........................................ L. 7.000   
+  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 settembre 1980
+### Dato a Roma, addi' 28 ottobre 1976
 
-PERTINI SARTI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 27 ottobre 1980
+Registrato alla Corte dei conti, addi' 30 dicembre 1976
 
-Registro n. 97 Istruzione, foglio n. 232
+Registro n. 105 Istruzione, foglio n. 309

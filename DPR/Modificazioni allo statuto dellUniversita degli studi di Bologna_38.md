@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1970 n. 655
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1963 n. 1768
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1970 n. 655
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1963 n. 1768
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -10,17 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926,numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1392);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1632](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1632), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le Proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita', anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,70 +28,127 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Bologna approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso.
 
-L'art. 117 relativo alle propedeuticita' di alcuni insegnamenti agli effetti della iscrizione e degli esami per il corso di laurea in farmacia e' abrogato e sostituito dal seguente:
+Dopo l'art. 187, e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della Scuola di perfezionamento in Archeologia.
 
-Art. 117. - Agli effetti della iscrizione e degli esami sono da considerarsi materie propedeutiche: A) la chimica generale ed inorganica rispetto alla chimica organica; B) la chimica organica e la fisica rispetto alla chimica farmaceutica e tossicologica e alla chimica biologica; C) l'anatomia umana e la chimica biologica rispetto alla fisiologia generale; D) la fisiologia generale rispetto alla farmacologia e farmacognosia.
+Art. 188. - Al corso biennale di perfezionamento in Archeologia possono iscriversi i laureati in Lettere.
 
-L'ultimo comma dell'art. 125 relativo al corso di laurea in farmacia e' abrogato e sostituito dal seguente:
+Art. 189. - Per conseguire il diploma gli iscritti alla Scuola di perfezionamento in Archeologia dovranno:
 
-"I laureati in chimica ed in chimica industriale potranno essere ammessi al terzo corso per la laurea in farmacia".
+a) superare due esami biennali nelle materie obbligatorie della Scuola e un terzo, pure biennale, scelto fra gli insegnamenti fondamentali o complementari.
 
-L'art. 134 relativo all'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie e' modificato nel senso che l'insegnamento di "Economia della commercializzazione dei prodotti agricoli" da semestrale, diventa annuale.
+Ove l'iscritto scelga per la dissertazione prescritta per il conseguimento del diploma di specializzazione una disciplina fondamentale o complementare, il terzo esame biennale dovra' vertere sulla stessa;
 
-L'art. 236, relativo alla scuola di perfezionamento in storia dell'arte medioevale e moderna annessa alla facolta' di lettere e filosofia, e' modificato nel senso che alla predetta scuola possono essere ammessi anche i laureati in lingue e letterature straniere moderne.
+b) superare tre esami annuali scelti fra le discipline fondamentali e complementari;
+
+c) sostenere una prova scritta consistente in traduzioni, con l'uso del dizionario, dal greco antico e da due lingue moderne, di brevi passi riguardanti l'arte antica;
+
+d) presentare e discutere una dissertazione scritta su una delle discipline della Scuola. Il tema, dovra' essere scelto agli inizi del primo anno di corso.
+
+Art. 190. - Sono corsi biennali obbligatori:
+
+Archeologia;
+
+Storia dell'arte medioevale e moderna.
+
+Sono insegnamenti fondamentali:
+
+Antichita' greche e romane;
+
+Archeologia cristiana;
+
+Etruscologia ed archeologia italica;
+
+Numismatica;
+
+Paletnologia;
+
+Topografia dell'Italia antica.
+
+Sono insegnamenti complementari:
+
+Critica d'arte;
+
+Paleografia e diplomatica;
+
+Storia greca;
+
+Storia romana.
+
+Art. 191. - Potranno essere concesse abbreviazioni di corso con deliberazione del Consiglio della scuola ai laureati in possesso di titoli post-universitari attinenti allo studio della Archeologia.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 14 luglio 1970
+Dato a Roma, addi' 22 ottobre 1963
 
-SARAGAT
+SEGNI
 
-MISASI
+GUI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BOSCO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 7 settembre 1970 Atti del Governo, registro n. 237, foglio n. 72. - CARUSO
+alla Corte dei conti, addi' 9 dicembre 1963 Atti del Governo, registro n. 178, foglio n. 30. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926,numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1392);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduto il [regio decreto 30 settembre 1938, n. 1632](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1632), e successive modificazioni;  
+Vedute le Proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita', anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 117 relativo alle propedeuticita' di alcuni insegnamenti agli effetti della iscrizione e degli esami per il corso di laurea in farmacia e' abrogato e sostituito dal seguente:  
-Art. 117. - Agli effetti della iscrizione e degli esami sono da considerarsi materie propedeutiche: A) la chimica generale ed inorganica rispetto alla chimica organica; B) la chimica organica e la fisica rispetto alla chimica farmaceutica e tossicologica e alla chimica biologica; C) l'anatomia umana e la chimica biologica rispetto alla fisiologia generale; D) la fisiologia generale rispetto alla farmacologia e farmacognosia.  
-L'ultimo comma dell'art. 125 relativo al corso di laurea in farmacia e' abrogato e sostituito dal seguente:  
-"I laureati in chimica ed in chimica industriale potranno essere ammessi al terzo corso per la laurea in farmacia".  
-L'art. 134 relativo all'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie e' modificato nel senso che l'insegnamento di "Economia della commercializzazione dei prodotti agricoli" da semestrale, diventa annuale.  
-L'art. 236, relativo alla scuola di perfezionamento in storia dell'arte medioevale e moderna annessa alla facolta' di lettere e filosofia, e' modificato nel senso che alla predetta scuola possono essere ammessi anche i laureati in lingue e letterature straniere moderne.  
+Lo statuto dell'Universita' degli studi di Bologna approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso.  
+Dopo l'art. 187, e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della Scuola di perfezionamento in Archeologia.  
+  
+Art. 188. - Al corso biennale di perfezionamento in Archeologia possono iscriversi i laureati in Lettere.  
+  
+Art. 189. - Per conseguire il diploma gli iscritti alla Scuola di perfezionamento in Archeologia dovranno:  
+a) superare due esami biennali nelle materie obbligatorie della Scuola e un terzo, pure biennale, scelto fra gli insegnamenti fondamentali o complementari.  
+Ove l'iscritto scelga per la dissertazione prescritta per il conseguimento del diploma di specializzazione una disciplina fondamentale o complementare, il terzo esame biennale dovra' vertere sulla stessa;  
+b) superare tre esami annuali scelti fra le discipline fondamentali e complementari;  
+c) sostenere una prova scritta consistente in traduzioni, con l'uso del dizionario, dal greco antico e da due lingue moderne, di brevi passi riguardanti l'arte antica;  
+d) presentare e discutere una dissertazione scritta su una delle discipline della Scuola. Il tema, dovra' essere scelto agli inizi del primo anno di corso.  
+  
+Art. 190. - Sono corsi biennali obbligatori:  
+Archeologia;  
+Storia dell'arte medioevale e moderna.  
+Sono insegnamenti fondamentali:  
+Antichita' greche e romane;  
+Archeologia cristiana;  
+Etruscologia ed archeologia italica;  
+Numismatica;  
+Paletnologia;  
+Topografia dell'Italia antica.  
+Sono insegnamenti complementari:  
+Critica d'arte;  
+Paleografia e diplomatica;  
+Storia greca;  
+Storia romana.  
+  
+Art. 191. - Potranno essere concesse abbreviazioni di corso con deliberazione del Consiglio della scuola ai laureati in possesso di titoli post-universitari attinenti allo studio della Archeologia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 luglio 1970
+### Dato a Roma, addi' 22 ottobre 1963
 
-SARAGAT MISASI
+SEGNI GUI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 7 settembre 1970
+Registrato alla Corte dei conti, addi' 9 dicembre 1963
 
-Atti del Governo, registro n. 237, foglio n. 72. - CARUSO
+Atti del Governo, registro n. 178, foglio n. 30. - VILLA

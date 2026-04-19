@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 settembre 1956 n. 1155
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 156
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 settembre 1956 n. 1155
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 156
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
@@ -10,463 +10,133 @@ Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926;, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con i [regi decreti 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2240); [31 ottobre 1929, n. 2477](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1929-10-31;2477); [30 ottobre 1930, n. 1844](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1844); [1 ottobre 1931, n. 1379](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1379); [20 ottobre 1932, n. 1806](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-20;1806); [26 ottobre 1933, n. 1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1933-10-26;1991); [6 dicembre 1934, n. 2430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2430); [1 ottobre 1936, n. 2449](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2449); [23 giugno 1939, n. 1167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-06-23;1167); [27 aprile 1942, n. 485](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;485); [11 luglio 1942, n. 922](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-11;922); [5 settembre 1942, n. 1429, e con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-09-05;1429) [13 luglio 1947, n. 826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-07-13;826), e [31 dicembre 1947, n. 1870, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1870) [28 ottobre 1948, n. 1431](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-10-28;1431); [30 ottobre 1949, n. 1151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1151); [16 dicembre 1950, n. 1314](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-12-16;1314); [11 febbraio 1952, n. 999](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-11;999); [16 agosto 1952, n. 1354](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-08-16;1354); [19 luglio 1955, n. 762](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-19;762); [31 agosto 1955, n. 913](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-08-31;913); 20 settembre -1955, n. 938 e 20 giugno 1956, n. 727;
+Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592); convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta,;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio universitario nazionale nei suoi pareri;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla
+-----
 
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 18. - L'elenco degli insegnamenti complementari del corso di laurea in economia e commercio e' sostituito dal seguente:
-
-1) Diritto della navigazione;
-
-2) Diritto industriale;
-
-3) Diritto amministrativo;
-
-4) Diritto processuale civile;
-
-5) Diritto internazionale;
-
-6) Demografia;
-
-7) Economia dei trasporti;
-
-8) Tecnica del commercio internazionale;
-
-9) Diritto tributario;
-
-10) Statistica aziendale;
-
-11) Storia delle dottrine economiche e finanziarie;
-
-12) Economia e finanza delle imprese di assicurazione;
-
-13) Contabilita' nazionale.
-
-Art. 19. - L'insegnamento di matematica generale deve considerarsi propedeutico anche agli insegnamenti di statistica (1° anno) e di ragioneria (1°anno).
-
-Art. 3. - L'elenco degli insegnamenti complementari del corso di laurea in fisica, e sotituito dal seguente:
-
-1) Chimica organica;
-
-2) Fisiche tecnica;
-
-3) Elettrotecnica;
-
-4) Onde elettromagnetiche;
-
-5) Radioattivita';
-
-6) Astronomia;
-
-7) Mineralogia;
-
-8) Geodesia;
-
-9) Fisica terrestre;
-
-10) Calcolo delle probabilita';
-
-11) Spettroscopia;
-
-12) Meccanica superiore.
-
-Art. 40. - L'elenco degli insegnamenti complementari del corso di laurea in scienze matematiche e sostituito dal seguente:
-
-1) Matematiche superiori;
-
-2) Matematiche complementari;
-
-3) Matematiche elementari dal punto di vista superiore;
-
-4) Calcolo delle probabilita';
-
-5) Teoria delle funzioni;
-
-6) Teoria dei numeri;
-
-7) Geometria differenziale;
-
-8) Geometria algebrica;
-
-9) Fisica teorica;
-
-10) Fisica superiore;
-
-11) Meccanica superiore;
-
-12) Astronomia;
-
-13) Geodesia;
-
-14) Topologia;
-
-15) Storia delle matematiche.
-
-Art. 41. - L'elenco degli insegnamenti complementari del corso di laurea in matematica e fisica e' sostituito dal seguente:
-
-1) Matematiche superiori;
-
-2) Matematiche elementari dal punto di vista superiore;
-
-3) Calcolo delle probabilita';
-
-4) Teoria delle funzioni;
-
-5) Geometria differenziale;
-
-6) Geometria superiore;
-
-7) Meccanica superiore;
-
-8) Meccanica statica;
-
-9) Topologia;
-
-10) Fisica matematica;
-
-11) Fisica tecnica;
-
-12) Fisica terrestre;
-
-13) Mineralogia;
-
-14) Storia delle matematiche;
-
-15) Elettrotecnica;
-
-16) Onde elettromagnetiche;
-
-17) Astronomia;
-
-18) Geodesia.
-
-Art. 42. - L'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' sostituito dal seguente:
-
-1) Biologia generale;
-
-2) Istologia ed embriologia;
-
-3) Chimica fisica;
-
-4) Paleontologia;
-
-5) Antropologia;
-
-6) Etnologia;
-
-7) Idrobiologia e pescicoltura;
-
-8) Entomologia agraria;
-
-9) Zoocolture (bachi, api, avi, coniglicoltura);
-
-10) Patologia vegetale;
-
-11) Genetica;
-
-12) Geografia fisica;
-
-13) Geochimica;
-
-14) Petrografia;
-
-15) Vulcanologia;
-
-16) Fisica terrestre e climatologia;
-
-17) Oceanografia;
-
-18) Igiene;
-
-19) Statistica;
-
-20) Chimica biologica;
-
-21) Biologia delle, razze umane;
-
-22) Fisiologia vegetale.
-
-Art. 46. - Il punto e), concernente le precedenze, per l'esame, fra gli insegnamenti del corso di laurea in scienze naturali e' sostituito dal seguente: e per la laurea in scienze naturali:
-
-l'esame di primo anno di zoologia e botanica deve precedere gli esami di fisiologia generale e di anatomia comparata. L'esame di mineralogia deve precedere quello di geologia. L'esame di chimica generale ed inorganica deve precedere quello di mineralogia".
-
-Art. 57. - L'insegnamento di "architettura tecnica", fondamentale del triennio di applicazione del corso di laurea in ingegneria - Sezione di ingegneria civile - e' biennale.
-
-Gli articoli dal n. 58 al n. 68, riguardanti l'ordinamento della Facolta' di ingegneria, sono abrogati e sostituiti dai seguenti
-
-Art. 58. - Gli allievi della Sezione civile dovranno iscriversi ai corsi di due almeno fra gli insegnamenti complementari elencati nel precedente articolo; gli allievi della Sezione industriale dovranno seguire sei almeno fra detti insegnamenti complementari. In nessun caso potranno seguirsi, come "complementari", insegnamenti che siano compresi fra quelli fondamentali della Sezione prescelta.
-
-Art. 59. - Tutti gli insegnamenti, complementari e fondamentali, sono impartiti mediante lezioni teoriche, dimostrative e sperimentali, integrate da esercitazioni pratiche e visite.
-
-Le esercitazioni e le visite fanno parte dei rispettivi corsi e sono obbligatorie.
-
-Art. 60. - La Facolta' stabilisce anno per anno il piano di studi consigliato per ogni sottosezione, con particolare riguardo alle materie complementari. Gli studenti che intendano seguire un piano differente da quello consigliato debbono darne comunicazione per iscritto, al preside della Facolta', specificando i motivi della diversa scelta.
-
-Art. 61. - Ogni allievo, per essere ammesso agli esami di laurea, deve aver superato tutti gli esami delle materie fondamentali obbligatorie per la sezione e sottosezione alla quale e' iscritto, nonche' gli esami delle materie complementari indicate, per la stessa sezione e sottosezione, nel piano di studi consigliato dalla facolta' (o direttamente prescelto con le modalita' di cui nel precedente articolo) nel numero minimo specificato dall'art. 58.
-
-Art. 62. - Per gli esami del triennio di applicazione sono stabilite le seguenti precedenze obbligatorie:
-
-a) l'esame di scienza delle costruzioni deve precedere quello di costruzioni in legno, ferro e cemento armato, costruzioni stradali e ferroviarie, costruzioni idrauliche, costruzione di ponti, costruzioni di macchine, costruzioni aeronautiche e arte mineraria;
-
-b) l'esame di meccanica applicata alle macchine deve precedere quelli di macchine, costruzione di macchine, disegno di macchine e progetti, costruzione di macchine elettriche, tecnologie generali;
-
-c) l'esame di fisica tecnica deve precedere quelli di macchine idraulica, aerodinamica, arte mineraria;
-
-d) l'esame di architettura tecnica 1° anno, quello di architettura tecnica 2° anno.
-
-Quest'ultimo deve precedere quello di architettura e composizione architettonica;
-
-e) l'esame di idraulica deve precedere quelli di costruzioni idrauliche e di impianti speciali idraulici;
-
-f) l'esame di elettrotecnica deve precedere quelli di impianti industriali elettrici, costruzione di macchine elettriche, misure elettriche, radiotecnica e arte mineraria;
-
-g) l'esame di elementi di macchine deve precedere l'esame di costruzione di macchine, e questo deve precedere l'esame di disegno di macchine e progetti;
-
-h) l'esame di macchine deve precedere quelli di disegno di macchine e progetti e di arte mineraria;
-
-i) l'esame di tecnologie generali deve precedere quelli di tecnologie speciali e di impianti industriali meccanici;
-
-l) l'esame di aerodinamica deve precedere quello di costruzioni aeronautiche.
-
-Art. 63. - Gli esami di profitto debbono essere sostenuti per singole materie, o per singole parti di esse ove le materie stesse siano svolte in corsi biennali.
-
-Detti esami potranno consistere in interrogazioni orali, prove scritte, discussioni su esercitazioni svolte durante il corso, in prove grafiche, pratiche e sperimentali.
-
-Le prove scritte, grafiche, pratiche e sperimentali possono svolgersi sia individualmente che per gruppi o collettivamente.
-
-Per essere ammessi agli esami di profitto gli allievi debbono avere ottenuto dai rispettivi insegnanti le firme attestanti la loro frequenza alle lezioni e alle esercitazioni.
-
-Art. 64. - Gli aspiranti alla laurea (studenti del 5° anno o studenti fuori corso) che abbiano superato gli esami fondamentali del 3° e 4° anno, dovranno presentare entro i termini che saranno stabiliti anno per anno dal Consiglio di facolta', apposita domanda al preside specificando:
-
-1) il tipo di laurea cui aspirano;
-
-2) la materia o il gruppo di materie in cui intendono svolgere la tesi ed eventualmente l'argomento di questa;
-
-3) gli esami superati e le corrispondenti votazioni.
-
-Le domande di cui sopra saranno prese in esame dal Consiglio di facolta' che assegnera' la tesi e designera' il relatore.
-
-Nel caso che il candidato intenda presentare una tesi assegnata e svolta presso altre Universita', egli deve chiederne l'autorizzazione con apposita domanda, sulla quale decidera' pure il Consiglio di facolta'.
-
-Art. 65. - L'esame di laurea consistera':
-
-a) in una prova scritta nel campo della specializzazione prescelta;
-
-b) in una prova orale a carattere generale;
-
-c) nella discussione della tesi (progetto corredato da favole grafiche, calcoli e relazione illustrativa).
-
-Art. 66. - Ai laureati in ingegneria Che aspirano ai conseguimento di un'altra, laurea in ingegneria, in altra sottosezione, si concede l'iscrizione al 3° anno di applicazione.
-
-Art. 67, - Ai laureati in matematica o in matematica e fisica, sara' concessa l'iscrizione al 2° anno di applicazione, con l'obbligo di superare i residui esami del biennio propedeutico di ingegneria, prima di sostenere quelli del corso di applicazione e di seguire il piano di studi che verra', singolarmente stabilito dal rettore su proposta della Facolta'.
-
-Art. 68. - Lo studente regolarmente iscritto in una delle sottosezioni puo' ottenere il passaggio ad un'altra, purche' ne faccia domanda entro il 31 dicembre.
-
-Le modalita' della nuova carriera scolastica saranno determinate caso per caso dal rettore su proposta della Facolta'.
-
-Art. 69. - Gli allievi ingegneri che domandino di essere iscritti nella Facolta' di Palermo, provenendo da altre Universita' con foglio di congedo, dovranno nella domanda d'iscrizione precisare l'ulteriore corsa di studi che desiderano seguire nella nuova sede. Su tale domanda si dovra' pronunciare il Consiglio di facolta', che potra' raccomandare all'interessato opportune modifiche od integrazioni al corso di studio come sopra specificato in relazione ai programmi di insegnamento svolti presso la Facolta' di Palermo.
-
-I richiedenti potranno essere sottoposti ad un preventivo colloquio culturale.
-
-Per gli esami complementari da superare non e' necessaria la iscrizione al corso qualora lo studente abbia gia' ottenuta la firma di frequenza nell'Universita' di provenienza, e l'insegnamento sia effettivamente impartito nella Facolta' di Palermo. Ove manchi questo insegnamento e la facolta', dichiari di non potere o di non volere costituire la Commissione di esame, lo studente e' tenuto ad iscriversi ripetente.
-
-Art. 70. - A norma dell'art. 144, secondo comma testo unico delle leggi sulla istruzione superiore, possono essere iscritti al triennio di applicazione per la laurea in ingegneria i tenenti in servizio permanente effettivo provenienti dalla scuola di applicazione di artiglieria e del genio: se del genio al 3° anno di applicazione; se di artiglieria ai 2° anno di applicazione.
-
-Il rettore, su proposta della Facolta', stabilira' caso per caso il piano di studi.
-
-L'art. 85, riguardante l'ordinamento del corso di specializzazione in studi coloniali, e' soppresso.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 11 settembre 1956
-
-GRONCHI
-
-ROSSI
-
-Visto, il Guardasigilli: MORO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 22 ottobre 1956 Atti del Governo, registro n. 101, foglio n. 53. - CARLOMAGNO
+proposta del Ministro della pubblica istruzione; Decreta:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926;, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con i [regi decreti 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2240); [31 ottobre 1929, n. 2477](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1929-10-31;2477); [30 ottobre 1930, n. 1844](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1844); [1 ottobre 1931, n. 1379](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1379); [20 ottobre 1932, n. 1806](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-20;1806); [26 ottobre 1933, n. 1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1933-10-26;1991); [6 dicembre 1934, n. 2430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2430); [1 ottobre 1936, n. 2449](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2449); [23 giugno 1939, n. 1167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-06-23;1167); [27 aprile 1942, n. 485](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;485); [11 luglio 1942, n. 922](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-11;922); [5 settembre 1942, n. 1429, e con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-09-05;1429) [13 luglio 1947, n. 826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-07-13;826), e [31 dicembre 1947, n. 1870, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1870) [28 ottobre 1948, n. 1431](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-10-28;1431); [30 ottobre 1949, n. 1151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1151); [16 dicembre 1950, n. 1314](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-12-16;1314); [11 febbraio 1952, n. 999](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-11;999); [16 agosto 1952, n. 1354](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-08-16;1354); [19 luglio 1955, n. 762](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-19;762); [31 agosto 1955, n. 913](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-08-31;913); 20 settembre -1955, n. 938 e 20 giugno 1956, n. 727;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592); convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta,;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Lo statuto dell'Universita' di Palermo, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:  
+Art. 147 - all'elenco delle scuole di specializzazione in medicina e chirurgia sono aggiunte le seguenti nuove scuole: scuola di specializzazione in diabetologia e malattie del ricambio - scuola di specializzazione in geriatria e gerontologia.  
+
+Art. 2
+------
+
   
-Decreta:  
+Dopo l'art. 196, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in diabetologia e malattie del ricambio e della scuola di specializzazione in geriatria e gerontologia:  
   
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Scuola di specializzazione in diabetologia e malattie del ricambio  
   
-Art. 18. - L'elenco degli insegnamenti complementari del corso di laurea in economia e commercio e' sostituito dal seguente:  
-1) Diritto della navigazione;  
-2) Diritto industriale;  
-3) Diritto amministrativo;  
-4) Diritto processuale civile;  
-5) Diritto internazionale;  
-6) Demografia;  
-7) Economia dei trasporti;  
-8) Tecnica del commercio internazionale;  
-9) Diritto tributario;  
-10) Statistica aziendale;  
-11) Storia delle dottrine economiche e finanziarie;  
-12) Economia e finanza delle imprese di assicurazione;  
-13) Contabilita' nazionale.  
-Art. 19. - L'insegnamento di matematica generale deve considerarsi propedeutico anche agli insegnamenti di statistica (1° anno) e di ragioneria (1°anno).  
-Art. 3. - L'elenco degli insegnamenti complementari del corso di laurea in fisica, e sotituito dal seguente:  
-1) Chimica organica;  
-2) Fisiche tecnica;  
-3) Elettrotecnica;  
-4) Onde elettromagnetiche;  
-5) Radioattivita';  
-6) Astronomia;  
-7) Mineralogia;  
-8) Geodesia;  
-9) Fisica terrestre;  
-10) Calcolo delle probabilita';  
-11) Spettroscopia;  
-12) Meccanica superiore.  
-Art. 40. - L'elenco degli insegnamenti complementari del corso di laurea in scienze matematiche e sostituito dal seguente:  
-1) Matematiche superiori;  
-2) Matematiche complementari;  
-3) Matematiche elementari dal punto di vista superiore;  
-4) Calcolo delle probabilita';  
-5) Teoria delle funzioni;  
-6) Teoria dei numeri;  
-7) Geometria differenziale;  
-8) Geometria algebrica;  
-9) Fisica teorica;  
-10) Fisica superiore;  
-11) Meccanica superiore;  
-12) Astronomia;  
-13) Geodesia;  
-14) Topologia;  
-15) Storia delle matematiche.  
-Art. 41. - L'elenco degli insegnamenti complementari del corso di laurea in matematica e fisica e' sostituito dal seguente:  
-1) Matematiche superiori;  
-2) Matematiche elementari dal punto di vista superiore;  
-3) Calcolo delle probabilita';  
-4) Teoria delle funzioni;  
-5) Geometria differenziale;  
-6) Geometria superiore;  
-7) Meccanica superiore;  
-8) Meccanica statica;  
-9) Topologia;  
-10) Fisica matematica;  
-11) Fisica tecnica;  
-12) Fisica terrestre;  
-13) Mineralogia;  
-14) Storia delle matematiche;  
-15) Elettrotecnica;  
-16) Onde elettromagnetiche;  
-17) Astronomia;  
-18) Geodesia.  
-Art. 42. - L'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' sostituito dal seguente:  
-1) Biologia generale;  
-2) Istologia ed embriologia;  
-3) Chimica fisica;  
-4) Paleontologia;  
-5) Antropologia;  
-6) Etnologia;  
-7) Idrobiologia e pescicoltura;  
-8) Entomologia agraria;  
-9) Zoocolture (bachi, api, avi, coniglicoltura);  
-10) Patologia vegetale;  
-11) Genetica;  
-12) Geografia fisica;  
-13) Geochimica;  
-14) Petrografia;  
-15) Vulcanologia;  
-16) Fisica terrestre e climatologia;  
-17) Oceanografia;  
-18) Igiene;  
-19) Statistica;  
-20) Chimica biologica;  
-21) Biologia delle, razze umane;  
-22) Fisiologia vegetale.  
-Art. 46. - Il punto e), concernente le precedenze, per l'esame, fra gli insegnamenti del corso di laurea in scienze naturali e' sostituito dal seguente: e per la laurea in scienze naturali:  
-l'esame di primo anno di zoologia e botanica deve precedere gli esami di fisiologia generale e di anatomia comparata. L'esame di mineralogia deve precedere quello di geologia. L'esame di chimica generale ed inorganica deve precedere quello di mineralogia".  
-Art. 57. - L'insegnamento di "architettura tecnica", fondamentale del triennio di applicazione del corso di laurea in ingegneria - Sezione di ingegneria civile - e' biennale.  
-Gli articoli dal n. 58 al n. 68, riguardanti l'ordinamento della Facolta' di ingegneria, sono abrogati e sostituiti dai seguenti  
-Art. 58. - Gli allievi della Sezione civile dovranno iscriversi ai corsi di due almeno fra gli insegnamenti complementari elencati nel precedente articolo; gli allievi della Sezione industriale dovranno seguire sei almeno fra detti insegnamenti complementari. In nessun caso potranno seguirsi, come "complementari", insegnamenti che siano compresi fra quelli fondamentali della Sezione prescelta.  
-Art. 59. - Tutti gli insegnamenti, complementari e fondamentali, sono impartiti mediante lezioni teoriche, dimostrative e sperimentali, integrate da esercitazioni pratiche e visite.  
-Le esercitazioni e le visite fanno parte dei rispettivi corsi e sono obbligatorie.  
-Art. 60. - La Facolta' stabilisce anno per anno il piano di studi consigliato per ogni sottosezione, con particolare riguardo alle materie complementari. Gli studenti che intendano seguire un piano differente da quello consigliato debbono darne comunicazione per iscritto, al preside della Facolta', specificando i motivi della diversa scelta.  
-Art. 61. - Ogni allievo, per essere ammesso agli esami di laurea, deve aver superato tutti gli esami delle materie fondamentali obbligatorie per la sezione e sottosezione alla quale e' iscritto, nonche' gli esami delle materie complementari indicate, per la stessa sezione e sottosezione, nel piano di studi consigliato dalla facolta' (o direttamente prescelto con le modalita' di cui nel precedente articolo) nel numero minimo specificato dall'art. 58.  
-Art. 62. - Per gli esami del triennio di applicazione sono stabilite le seguenti precedenze obbligatorie:  
-a) l'esame di scienza delle costruzioni deve precedere quello di costruzioni in legno, ferro e cemento armato, costruzioni stradali e ferroviarie, costruzioni idrauliche, costruzione di ponti, costruzioni di macchine, costruzioni aeronautiche e arte mineraria;  
-b) l'esame di meccanica applicata alle macchine deve precedere quelli di macchine, costruzione di macchine, disegno di macchine e progetti, costruzione di macchine elettriche, tecnologie generali;  
-c) l'esame di fisica tecnica deve precedere quelli di macchine idraulica, aerodinamica, arte mineraria;  
-d) l'esame di architettura tecnica 1° anno, quello di architettura tecnica 2° anno.  
-Quest'ultimo deve precedere quello di architettura e composizione architettonica;  
-e) l'esame di idraulica deve precedere quelli di costruzioni idrauliche e di impianti speciali idraulici;  
-f) l'esame di elettrotecnica deve precedere quelli di impianti industriali elettrici, costruzione di macchine elettriche, misure elettriche, radiotecnica e arte mineraria;  
-g) l'esame di elementi di macchine deve precedere l'esame di costruzione di macchine, e questo deve precedere l'esame di disegno di macchine e progetti;  
-h) l'esame di macchine deve precedere quelli di disegno di macchine e progetti e di arte mineraria;  
-i) l'esame di tecnologie generali deve precedere quelli di tecnologie speciali e di impianti industriali meccanici;  
-l) l'esame di aerodinamica deve precedere quello di costruzioni aeronautiche.  
-Art. 63. - Gli esami di profitto debbono essere sostenuti per singole materie, o per singole parti di esse ove le materie stesse siano svolte in corsi biennali.  
-Detti esami potranno consistere in interrogazioni orali, prove scritte, discussioni su esercitazioni svolte durante il corso, in prove grafiche, pratiche e sperimentali.  
-Le prove scritte, grafiche, pratiche e sperimentali possono svolgersi sia individualmente che per gruppi o collettivamente.  
-Per essere ammessi agli esami di profitto gli allievi debbono avere ottenuto dai rispettivi insegnanti le firme attestanti la loro frequenza alle lezioni e alle esercitazioni.  
-Art. 64. - Gli aspiranti alla laurea (studenti del 5° anno o studenti fuori corso) che abbiano superato gli esami fondamentali del 3° e 4° anno, dovranno presentare entro i termini che saranno stabiliti anno per anno dal Consiglio di facolta', apposita domanda al preside specificando:  
-1) il tipo di laurea cui aspirano;  
-2) la materia o il gruppo di materie in cui intendono svolgere la tesi ed eventualmente l'argomento di questa;  
-3) gli esami superati e le corrispondenti votazioni.  
-Le domande di cui sopra saranno prese in esame dal Consiglio di facolta' che assegnera' la tesi e designera' il relatore.  
-Nel caso che il candidato intenda presentare una tesi assegnata e svolta presso altre Universita', egli deve chiederne l'autorizzazione con apposita domanda, sulla quale decidera' pure il Consiglio di facolta'.  
-Art. 65. - L'esame di laurea consistera':  
-a) in una prova scritta nel campo della specializzazione prescelta;  
-b) in una prova orale a carattere generale;  
-c) nella discussione della tesi (progetto corredato da favole grafiche, calcoli e relazione illustrativa).  
-Art. 66. - Ai laureati in ingegneria Che aspirano ai conseguimento di un'altra, laurea in ingegneria, in altra sottosezione, si concede l'iscrizione al 3° anno di applicazione.  
-Art. 67, - Ai laureati in matematica o in matematica e fisica, sara' concessa l'iscrizione al 2° anno di applicazione, con l'obbligo di superare i residui esami del biennio propedeutico di ingegneria, prima di sostenere quelli del corso di applicazione e di seguire il piano di studi che verra', singolarmente stabilito dal rettore su proposta della Facolta'.  
-Art. 68. - Lo studente regolarmente iscritto in una delle sottosezioni puo' ottenere il passaggio ad un'altra, purche' ne faccia domanda entro il 31 dicembre.  
-Le modalita' della nuova carriera scolastica saranno determinate caso per caso dal rettore su proposta della Facolta'.  
-Art. 69. - Gli allievi ingegneri che domandino di essere iscritti nella Facolta' di Palermo, provenendo da altre Universita' con foglio di congedo, dovranno nella domanda d'iscrizione precisare l'ulteriore corsa di studi che desiderano seguire nella nuova sede. Su tale domanda si dovra' pronunciare il Consiglio di facolta', che potra' raccomandare all'interessato opportune modifiche od integrazioni al corso di studio come sopra specificato in relazione ai programmi di insegnamento svolti presso la Facolta' di Palermo.  
-I richiedenti potranno essere sottoposti ad un preventivo colloquio culturale.  
-Per gli esami complementari da superare non e' necessaria la iscrizione al corso qualora lo studente abbia gia' ottenuta la firma di frequenza nell'Universita' di provenienza, e l'insegnamento sia effettivamente impartito nella Facolta' di Palermo. Ove manchi questo insegnamento e la facolta', dichiari di non potere o di non volere costituire la Commissione di esame, lo studente e' tenuto ad iscriversi ripetente.  
-Art. 70. - A norma dell'art. 144, secondo comma testo unico delle leggi sulla istruzione superiore, possono essere iscritti al triennio di applicazione per la laurea in ingegneria i tenenti in servizio permanente effettivo provenienti dalla scuola di applicazione di artiglieria e del genio: se del genio al 3° anno di applicazione; se di artiglieria ai 2° anno di applicazione.  
-Il rettore, su proposta della Facolta', stabilira' caso per caso il piano di studi.  
-L'art. 85, riguardante l'ordinamento del corso di specializzazione in studi coloniali, e' soppresso.  
+Art. 197. - Viene istituita nella facolta' di medicina e chirurgia dell'Universita' di Palermo la scuola di specializzazione in diabetologia e malattie del ricambio con sede presso il reparto di patologia medica I.  
+Il corso di studi ha la durata di tre anni.  
+La durata complessiva del corso di studi non e' suscettibile di abbreviazione.  
+La frequenza alla scuola e' obbligatoria.  
+Gli allievi che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le singole prove di esame.  
+Alla scuola vengono ammessi i laureati in medicina e chirurgia, ai quali dopo aver superato l'esame finale, e' rilasciato il diploma di specialista in diabetologia e malattie del ricambio.  
+Il numero complessivo degli iscritti e' di quattro per ogni anno di corso.  
+L'ammissione al corso di specializzazione avviene per titoli ed esami.  
+Art. 198. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+anatomia e citomorfologia funzionale;  
+elementi di genetica del diabete e delle malattie del ricambio; metodi di analisi chimica e quantitativa;  
+patologia molecolare;  
+fisiopatologia clinica del diabete e delle malattie del ricambio;  
+elementi di biometria e statistica (complementare).  
+2° Anno:  
+patologia sperimentale metabolica;  
+semeiotica fisica e funzionale del diabete e delle malattie del ricambio;  
+clinica del diabete e delle malattie del ricambio (I);  
+medicina sociale e preventiva del diabete e delle malattie del ricambio;  
+neuropatologia del diabete e delle malattie del ricambio (complementare);  
+fisiopatologia e clinica ostetrica ginecologica del diabete e delle malattie del ricambio (complementare).  
+3° Anno:  
+clinica del diabete e delle malattie del ricambio (II);  
+farmacologia e terapia medica del diabete e delle malattie del ricambio;  
+dietologia del diabete e delle malattie del ricambio;  
+elementi di psicologia nel diabete e nelle malattie del ricambio (complementare);  
+oftalmologia del diabete e nelle malattie del ricambio (complementare).  
+Art. 199. - La direzione della scuola e' affidata ad un professore di ruolo o fuori ruolo o, in carenza, ad un professore di ruolo o fuori ruolo di materia affine.  
+Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni successivi devono superare le prove di esame sulle materie impartite durante l'anno.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in diabetologia e malattie del ricambio devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+  
+Scuola di specializzazione in geriatria e gerontologia  
+  
+Art. 200. - La scuola di specializzazione in geriatria e gerontologia ha sede presso il reparto di geriatria e gerontologia e conferisce il diploma di specialista in geriatria e gerontologia.  
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
+Il numero massimo degli allievi e' di otto per anno di corso e complessivamente di trentadue iscritti per l'intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami.  
+Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+farmacologia (annuale);  
+principi e tecniche della riabilitazione della patologia dell'apparato locomotore (annuale);  
+anatomia e istologia patologica (biennale I);  
+biologia della senescenza (biennale I);  
+fisiopatologia (biennale I);  
+geriatria sociale (biennale I);  
+semeiotica (biennale I);  
+principi e tecniche di materie specialistiche in geriatria (triennale I).  
+2° Anno:  
+principi e tecniche della riabilitazione cardiovascolare e respiratoria (annuale);  
+anatomia e istologia patologica (biennale II);  
+biologia della senescenza (biennale II);  
+fisiopatologia (biennale II);  
+geriatria sociale (biennale II);  
+semeiotica (biennale II);  
+radiologia e radioterapia (biennale I);  
+principi e tecniche di materie specialistiche in geriatria (triennale II).  
+3° Anno:  
+neurologia (annuale);  
+principi e tecniche della riabilitazione neurologica (annuale); psicologia (annuale);  
+radiologia e radioterapia (biennale II);  
+principi e tecniche di materie specialistiche in geriatria (triennale III);  
+clinica geriatrica (biennale I);  
+terapia medica (biennale I);  
+pratica geriatrica extraospedaliera (biennale I).  
+4° Anno:  
+chirurgia geriatrica (annuale);  
+formazione degli operatori geriatrici (annuale);  
+principi e tecniche della riabilitazione nel campo delle funzioni cerebrali superiori (annuale);  
+principi e tecniche di riattivazione, terapia occupazionale;  
+geragogia (annuale);  
+psicogeriatria (annuale);  
+clinica geriatrica (biennale II);  
+terapia medica (biennale II);  
+pratica geriatrica extraospedaliera (biennale II).  
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
+Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in geriatria e gerontologia devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 settembre 1956
+### Dato a Roma, addi' 14 gennaio 1980
 
-GRONCHI ROSSI
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 22 ottobre 1956
+Registrato alla Corte dei conti, addi' 26 aprile 1980
 
-Atti del Governo, registro n. 101, foglio n. 53. - CARLOMAGNO
+Registro n. 38 Istruzione, foglio n. 28

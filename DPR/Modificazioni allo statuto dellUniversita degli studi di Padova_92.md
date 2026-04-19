@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1978 n. 1048
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 1173
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1978 n. 1048
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 1173
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
@@ -10,105 +10,151 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1842](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1842), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 421 - l'elenco delle scuole di specializzazione e dirette a fini speciali e' modificato nel senso che la scuola di preparazione per tecnici di fisio-chinesiterapia (scuola diretta a fini speciali) muta la denominazione in quella di scuola per tecnici di fisio-chinesiterapia e della riabilitazione (scuola diretta a fini speciali).   
-Art. 422 - l'ordinamento della scuola di preparazione per tecnici di fisio-chinesiterapia, che muta la denominazione in quella di scuola per tecnici di fisio-chinesiterapia e della riabilitazione, e' abrogato e sostituito dal seguente:   
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Scuola per tecnici di fisio-chinesiterapia e della riabilitazione (Scuola diretta a fini speciali)   
+L'art. 380 relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che il n. 17 e' abrogato e sostituito dal seguente:  
+n. 17) Scuola di odontoiatria e protesi dentaria che conferisce il diploma di specialista in odontoiatria e protesi dentaria.  
+Nello stesso elenco il n. 24 relativo alla scuola in puericultura e' soppresso, ed e' aggiunto il n. 29 relativo all'istituzione della scuola in "Malattie dell'apparato digerente";  
+n. 29) Scuola di specializzazione in malattie dello apparato digerente che conferisce il diploma di specialista in malattie dell'apparato digerente.  
+Art. 381. - L'ordinamento della scuola di specializzazione in "Chirurgia dell'infanzia" e' abrogato e sostituito dal seguente:  
   
-E' istituita presso l'istituto di clinica ortopedica dell'Universita' di Padova una scuola per tecnici di fisio-chinesiterapia e della riabilitazione che ha lo scopo di preparare adeguatamente personale tecnico nel campo della fisio-chinesiterapia e della riabilitazione.   
-La scuola ha indirizzo teorico-pratico.   
-La durata del corso e' di tre anni accademici.   
-Alla scuola possono essere ammessi allievi di ambo i sessi forniti del titolo di istruzione di secondo grado che abbiano compiuto il diciasettesimo anno di eta'.   
-Gli aspiranti dovranno inoltre presentare un certificato medico rilasciato dalle autorita' sanitarie competenti, attestante la loro idoneita' fisica e psichica.   
-Per l'ammissione alla scuola, i candidati dovranno superare un esame scritto su argomenti di cultura generale e di scienze naturali e fisiche che rientrino nei programmi degli istituti di istruzione secondaria.   
-L'esame di ammissione avra' luogo entro il 30 novembre di ciascun anno in un giorno stabilito dalla facolta' di medicina e chirurgia su proposta del direttore della scuola.   
-La commissione giudicatrice dell'esame di ammissione sara' composta dal direttore della scuola e da 4 insegnanti della scuola stessa nominata dalla facolta' di medicina e chirurgia.   
-Il numero massimo dei partecipanti ammessi ad ogni anno e' fissato in 15.   
-Il direttore della scuola e' il direttore dell'istituto di clinica ortopedica dell'Universita' di Padova.   
-La scuola e' sotto la vigilanza della facolta' di medicina e chirurgia dell'Universita' di Padova.   
-Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' di medicina e chirurgia e nominati dal rettore. Essi possono essere scelti fra i professori ufficiali, tra i liberi docenti, tra gli aiuti ed assistenti della facolta' di medicina e chirurgia o di un'altra facolta' dell'Ateneo e tra persone di riconosciuta competenza nel campo della terapia fisica e della riabilitazione anche al di fuori dell'ambito universitario.   
-Gli iscritti alla scuola hanno l'obbligo della frequenza secondo il calendario dell'anno accademico e con un impegno di ore settimanali che saranno fissate dal direttore della scuola e dal corpo insegnante. Non saranno ammessi all'anno successivo ed all'esame di diploma gli allievi che abbiano ripetute assenze ingiustificate, o anche assenze giustificate (ad esempio per malattia) per piu' della meta' delle lezioni, sia teoriche che di tirocinio pratico.   
-Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-anatomia generale;   
-anatomia dell'apparato locomotore;   
-anatomia del sistema nervoso;   
-fisiologia dell'apparato locomotore (chinesiologia);   
-fisiologia del sistema nervoso;   
-patologia generale;   
-fisioterapia in generale: fangoterapia, idroterapia, elioclimatoterapia, termoterapia, crioterapia, psammoterapia;   
-psicologia;   
-elementi di fisica.   
-2° Anno:   
-semeiotica, patologia e clinica delle malattie e lesioni traumatiche dell'apparato locomotore (biennale);   
-semeiotica, patologia e clinica delle malattie del sistema nervoso;   
-patologia medica;   
-patologia chirurgica;   
-fisio-chinesiterapia dell'apparato respiratorio;   
-fisio-chinesiterapia dell'apparato cardiocircolatorio;   
-kinesiterapia;   
-massoterapia;   
-fisioterapia strumentale ed elettroterapia;   
-terapia occupazionale;   
-logoterapia;   
-neuropsichiatria;   
-ginnastica medica nei dismorfismi e paramorfismi.   
-3° Anno:   
-semeiotica, patologia e clinica delle malattie e lesioni traumatiche dell'apparato locomotore (biennale);   
-clinica della riabilitazione e tecniche riabilitative;   
-problemi di riabilitazione in geriatria;   
-elementi di igiene e medicina preventiva;   
-nozioni di patologia della cute e del sottocute;   
-elementi di pronto soccorso;   
-elementi di legislazione sanitaria, servizio sociale e deontologia.   
-Le lezioni verranno impartite agli allievi nelle aule messe a disposizione dalla clinica ortopedica. I programmi di insegnamento e gli orari vengono predisposti dal direttore della scuola ed approvati dal consiglio della facolta' di medicina e chirurgia.   
-La sorveglianza degli iscritti, per quanto riguarda la loro attivita' pratica, spetta al direttore della scuola.   
-Il tirocinio sara' compiuto dagli allievi sotto la guida dei medici e dei terapisti della riabilitazione didattici, presso il servizio di terapia tisica e riabilitazione della clinica ortopedica dell'Universita' di Padova, nonche', qualora si rendesse necessario, presso altri istituti ed associazioni specialistiche.   
-Durante l'anno accademico saranno tenute interrogazioni, prove pratiche ed eventuali prove scritte.   
-Al termine di ciascun anno accademico i candidati dovranno sostenere, nella sessione estiva, un esame per ciascuna delle materie oggetto di insegnamento durante l'anno.   
-Gli allievi che risultino insufficienti in piu' di tre materie dovranno ripetere il corso nell'anno successivo. Gli altri saranno ammessi all'esame di riparazione nella sessione autunnale.   
-Le commissioni di esame per ciascuna materia sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Sono composte da tre membri, tra cui il professore ufficiale della materia. Ogni commissario ha a disposizione 10 punti. Per la promozione e' necessario conseguire una votazione di almeno 18 punti.   
-Viene ammesso all'esame di diploma l'allievo che ha regolarmente frequentato il terzo anno ed abbia superato tutti gli esami.   
-L'esame di diploma consiste:   
-a) nella discussione di una tesi scritta che verra' assegnata all'inizio del terzo anno;   
-b) in una prova scritta su un caso clinico;   
-c) in una prova pratica su malato.   
-La commissione dell'esame di diploma e' composta da cinque membri, scelti fra i docenti della scuola, ed e' nominata dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Ogni commissario ha a disposizione 10 punti.   
-I candidati che non abbiano superato l'esame di diploma nella sessione estiva potranno ripetere la prova nella sessione autunnale.  
-Qualora fossero respinti anche in questa sessione, dovranno ripetere un altro anno di frequenza.   
-Agli allievi che avranno superato l'esame di diploma verra' rilasciato il diploma di terapista della riabilitazione.   
-Il consiglio di amministrazione dell'Universita', su proposta della direzione della scuola, approvata dal consiglio di facolta', stabilira' di anno in anno l'ammontare dei contributi.   
-Le tasse e soprattasse annuali a carico degli iscritti restano cosi' determinate:   
+Scuola di specializzazione in chirurgia dell'infanzia  
+(durata del corso: anni 2)  
   
-tassa di immatricolazione. . . . . . . . . . . . . . . . . . L. 2.000 tassa di iscrizione . . . . . . . . . . . . . . . . . . . . L. 50.000 soprattassa esami . . . . . . . . . . . . . . . . . . . . . L. 10.000 tassa erariale di diploma. . . . . . . . . . . . . . . . . . L. 6.000 tassa di ricognizione per i fuoricorso . . . . . . . . . . . L. 5.000   
+La scuola di specializzazione in chirurgia dell'infanzia conferisce il diploma di specialista in "Chirurgia della infanzia".  
+La durata del corso degli studi per il conseguimento della specialita' in chirurgia dell'infanzia e' fissata in due anni.  
+Possono ottenere l'iscrizione alla scuola i laureati in medicina e chirurgia che siano in possesso del diploma di specialista in chirurgia generale o abbiano conseguito la libera docenza in clinica chirurgica, o patologia chirurgica, o semeiotica chirurgica, o anatomia chirurgica, o in chirurgia pediatrica.  
+Non e' ammessa abbreviazione di corso.  
+Il numero degli iscritti alla scuola per anno di corso e' di dieci.  
+Qualora il numero degli aspiranti superi quello stabilito l'ammissione sara' subordinata ad una prova di esame.  
+La direzione della scuola e' affidata al titolare dell'insegnamento della clinica chirurgica generale o della chirurgia pediatrica.  
+Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali, oltre ad un periodo di internato obbligatorio di almeno sei mesi per ogni anno di corso.  
+Il periodo di internato potra' essere abbreviato per coloro che documentino di svolgere effettivo servizio presso reparti di chirurgia pediatrica.  
+Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali, oltre ad un periodo di internato obbligatorio di almeno sei mesi per ogni anno di corso.  
+Il periodo di internato potra' essere abbreviato per coloro che documentino di svolgere effettivo servizio presso reparti di chirurgia pediatrica universitari od ospedalieri.  
+Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+a) Anatomia patologica e teratologia (lezioni);  
+b) Endocrinologia infantile (conferenze);  
+c) Clinica pediatrica (lezioni);  
+d) Clinica chirurgica pediatrica (lezioni);  
+e) Patologia chirurgica e semeiotica chirurgica (lezioni);  
+f) Diagnostica radiologica e nucleare delle malattie chirurgiche dell'infanzia (lezioni);  
+g) Anestesiologia e rianimazione (conferenze).  
+2° Anno:  
+a) Clinica pediatrica (lezioni);  
+b) Clinica chirurgica pediatrica (lezioni);  
+c) Chirurgia d'urgenza nell'infanzia (lezioni);  
+d) Otorinolaringoiatria nell'infanzia (conferenze);  
+e) Ortopedia nell'infanzia (conferenze);  
+f) Urologia nell'infanzia (conferenze);  
+g) Neurochirurgia infantile (conferenze);  
+h) Chirurgia del cuore e dei grossi vasi (conferenze).  
+La frequenza alle lezioni e alle conferenze e' obbligatoria.  
+Al termine di ciascun anno accademico gli specializzandi, che abbiano ottenuto le firme di frequenza, dovranno sostenere gli esami di profitto nelle materie oggetto di insegnamento.  
+Al termine del corso di specializzazione gli specializzandi dovranno presentare una dissertazione scritta su argomento di chirurgia infantile e sostenere l'esame di diploma.  
+L'ammissione alla scuola avviene per titoli ed esami.  
+Le tasse che gli iscritti devono versare per il conseguimento del diploma di specialista, sono fissate come segue:  
   
-Al funzionamento della suddetta scuola si provvedera' con i proventi delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni o contributi delle regioni, di enti pubblici o di privati.   
+tassa di immatricolazione. . . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione. . . . . . . . . . . . . . . . . . L. 100.000 soprattassa esami. . . . . . . . . . . . . . . . . . . . L. 7.000 tassa quali fuori corso. . . . . . . . . . . . . . . . . L. 5.000   
+I contributi sono determinati di anno in anno dal consiglio di amministrazione, su proposta del senato accademico, sentito il consiglio della facolta' di medicina e chirurgia.  
+Nello stesso articolo l'ordinamento della "Scuola di specializzazione in neurochirurgia" e' modificato nel senso che tra le materie di insegnamento del IV anno della scuola stessa, sono inserite le seguenti:  
+Neurotraumatologia;  
+Neurochirurgia stereotassica;  
+Neurochirurgia infantile;  
+Neurochirurgia spinale.  
+Nello stesso articolo l'ordinamento della "Scuola di specializzazione in odontoiatria e protesi dentaria" e' abrogato e sostituito dal seguente:  
+  
+Scuola di specializzazione in odontoiatria e protesi dentaria  
+(durata del corso: anni 3)  
+  
+1° Anno:  
+Embriologia e anatomia dentaria e maxillo facciale;  
+Microbiologia e igiene orale;  
+Farmacologia;  
+Patologia odontostomatologica;  
+Odontotecnica;  
+Anestesia e chirurgia stomatologica;  
+Odontoiatria e conservatica - 1° anno;  
+Esercitazioni pratiche.  
+2° Anno:  
+Odontoiatria e conservatica - 2° anno;  
+Clinica protesica dentaria e maxillo-facciale - 1° anno;  
+Paradontologia - 1° anno;  
+Anatomia e istopatologia odontostomatologica;  
+Odontoiatria infantile;  
+Radiologia odontostomatologica;  
+Ortopedia dento-maxillo-facciale - 1° anno;  
+Chirurgia maxillo-facciale - 1° anno;  
+Esercitazioni pratiche.  
+3° Anno:  
+Clinica odontostomatologica;  
+Chirurgia maxillo-facciale - 2° anno;  
+Medicina legale odontostomatologica e delle assicurazioni;  
+Ortopedia dento-maxillo-facciale - 2° anno;  
+Clinica protesica dentaria e maxillo-facciale - 2° anno;  
+Paradontologia - 2° anno;  
+Esercitazioni pratiche.  
+Internato obbligatorio nell'istituto di clinica odontoiatrica per tutta la durata degli studi.  
+Il numero complessivo degli iscritti ai tre anni di corso e' di settantacinque.  
+L'ammissione alla scuola avviene per titoli ed esami.  
+Le tasse che gli iscritti devono versare per il conseguimento del diploma di specialista, sono fissate come segue:  
+  
+tassa di immatricolazione. . . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione. . . . . . . . . . . . . . . . . . L. 100.000 soprattassa esami. . . . . . . . . . . . . . . . . . . . L. 7.000 tassa quali fuori corso. . . . . . . . . . . . . . . . . L. 5.000   
+I contributi sono determinati di anno in anno dal consiglio di amministrazione, su proposta del senato accademico, sentito il consiglio della facolta' di medicina e chirurgia.  
+Nello stesso articolo l'ordinamento della "Scuola di specializzazione in puericultura" e' soppresso. Nello stesso articolo e' aggiunto il seguente comma relativo alla scuola di specializzazione in malattie dell'apparato digerente:  
+  
+Scuola di specializzazione in malattie dell'apparato digerente  
+(durata del corso: anni 4)  
+  
+1° Anno:  
+Anatomia patologica;  
+Fisiopatologia;  
+Chimica clinica;  
+Semeiotica fisica e strumentale (biennale);  
+Clinica medica (triennio).  
+2° Anno:  
+Semeiotica fisica e strumentale (biennale);  
+Semeiotica radiologica;  
+Malattie del tubo digerente;  
+Clinica medica (triennale).  
+3° Anno:  
+Malattie del fegato e del pancreas;  
+Clinica medica (triennale).  
+4° Anno:  
+Tirocinio pratico da svolgersi in una clinica o patologia medica o in reparti ospedalieri.  
+Per le materie biennali e triennali sara' sostenuto un esame alla fine del biennio o triennio.  
+Alle materie fondamentali potranno essere aggiunte, a richiesta della direzione della scuola, materie complementari in numero non superiore a sei per la totalita' del corso.  
+Il numero massimo complessivo degli iscritti e' quaranta, distribuiti nei quattro anni di corso.  
+L'ammissione alla scuola avviene per titoli ed esami.  
+Le tasse che gli iscritti devono versare per il conseguimento del diploma di specialista, sono fissate come segue:  
+  
+tassa di immatricolazione. . . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione. . . . . . . . . . . . . . . . . . L. 100.000 soprattassa esami. . . . . . . . . . . . . . . . . . . . L. 7.000 tassa quali fuori corso. . . . . . . . . . . . . . . . . L. 5.000   
+I contributi sono determinati di anno in anno dal consiglio di amministrazione, su proposta del senato accademico, sentito il consiglio della facolta' di medicina e chirurgia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1978
+### Dato a Roma, addi' 2 ottobre 1972
 
-PERTINI PEDINI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 23 aprile 1979
+Registrato alla Corte dei conti, addi' 25 giugno 1973
 
-Registro n. 27 Istruzione, foglio n. 32
+Atti di Governo, registro n. 258, foglio n. 130 - VALENTINI

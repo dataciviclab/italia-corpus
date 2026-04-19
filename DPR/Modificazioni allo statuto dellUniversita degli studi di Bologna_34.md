@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1974 n. 585
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1962 n. 217
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1974 n. 585
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1962 n. 217
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -12,10 +12,12 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con regio decreto 13 ottobre 1927, e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Veduto il [decreto del Presidente della Repubblica 26 luglio 1960, n. 1692](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-07-26;1692);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -24,74 +26,139 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+L'art. 83, relativo alla laurea in Fisica, e' abrogato e sostituito dal seguente:  
   
-Presso la facolta' di medicina veterinaria sono aggiunti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in biochimica marina, con il conseguente spostamento della numerazione degli articoli successivi.  
+Art. 83. - Il corso di studi per la laurea in Fisica si distingue in tre indirizzi:  
+a) indirizzo generale; b) indirizzo applicativo; c) indirizzo didattico.  
+Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi, per il primo biennio:  
+1) Fisica generale I;  
+2) Fisica generale II;  
+3) Analisi matematica I;  
+4) Analisi matematica II;  
+5) Geometria I;  
+6) Meccanica razionale;  
+7) Chimica con esercitazioni di laboratorio (per fisici);  
+8) Esperimentazione fisica (biennale).  
+Si richiedera' inoltre, alla fine del primo biennio, la prova di conoscenza di due lingue straniere fra le seguenti: francese, inglese, tedesco, russo.  
+I corsi di Fisica I e Fisica II; Analisi I e Analisi II, non sono biennali ma constano di due corsi distinti, l'uno propedeutico all'altro e con esami distinti.  
+Il corso di Meccanica razionale deve essere distinto da quello destinato agli allievi ingegneri ed in comune con gli allievi matematici.  
+I corsi 1), 2), 3), 4), 5), 6) sono accompagnati da esercitazioni (non di laboratorio, che ne fanno parte integrante).  
+I corsi 7) e 8) devono portare i singoli studenti a sperimentare con le proprie mani.  
+Per ciascuno dei corsi elencati vi e' un esame finale. 7  
+Gli insegnamenti obbligatori per il secondo biennio sono i seguenti:  
+a) corsi comuni ai tre indirizzi:  
+1) Struttura della materia;  
+2) Istituzioni di fisica teorica;  
+3) Metodi matematici della fisica;  
+b) corsi per l'indirizzo generale:  
+4) Fisica superiore;  
+5) Fisica teorica;  
+6) Laboratorio di fisica Iª parte;  
+7) Laboratorio di fisica IIª parte;  
+8) Corso a scelta di Matematiche superiori (segnati con asterisco nell'elenco delle materie complementari);  
+9) Corso a scelta di Fisica;  
+c) corsi per l'indirizzo applicativo:  
+4) Laboratorio di fisica Iª parte;  
+5) Laboratorio di fisica IIª parte;  
+6), 7), 8), 9) Numero 4 corsi da determinare a seconda dell'indirizzo di specializzazione;  
+d) corsi per l'indirizzo didattico:  
+4) Complementi di fisica generale Iª parte;  
+5) Complementi di fisica generale IIª parte;  
+6) Preparazione di esperienze didattiche Iª parte;  
+7) Preparazione di esperienze didattiche IIª parte;  
+8), 9) Numero due corsi a scelta.  
+I corsi a-1), a-2), a-3), b-4), b-5), d-4), d-5) possono essere accompagnati da esercitazioni che ne fanno parte integrante.  
+Per ciascuno dei corsi elencati vi e' un esame finale.  
   
-Scuola di specializzazione in biochimica marina  
+Elenco (a carattere orientativo) dei corsi complementari di Fisica, da cui potranno essere prescelti quelli lasciati a scelta dello studente:  
   
-Art. 422. - Presso la facolta' di medicina veterinaria e' istituita una scuola biennale di specializzazione in biochimica marina.  
-Art. 423. - Scopo della scuola e' quello di fornire agli iscritti le cognizioni scientifiche e tecniche necessarie per svolgere l'attivita' di biochimico nel campo dell'ecologia marina, della produttivita', del controllo igienico-sanitario, di qualita' e delle utilizzazioni industriali delle risorse biologiche marine.  
-La scuola conferira' a tal fine il diploma di specialista in biochimica marina ai sensi dell'art. 196 del presente statuto.  
-Art. 424. - Direttore della scuola e' il titolare della cattedra di biochimica della facolta' di medicina veterinaria dell'Universita' di Bologna, o in mancanza, un professore di ruolo nominato dalla facolta' di medicina veterinaria per un anno e sempre riconfermabile.  
-A norma dell'art. 186 egli presiede il consiglio della scuola, vigila sul buon funzionamento di essa ed e' tenuto a dare comunicazione al preside della facolta' di medicina veterinaria di tutti gli atti e di tutte le deliberazioni del consiglio da lui presieduto.  
-Art. 425. - Alla scuola possono iscriversi i laureati in medicina veterinaria, chimica, chimica industriale, scienze biologiche, scienze naturali, farmacia, scienze agrarie, scienza delle produzioni animali, chimica e tecnologie farmaceutiche, scienze geologiche, medicina e chirurgia.  
-Il numero massimo degli iscritti viene stabilito dal consiglio della scuola ed approvato dal consiglio di facolta'.  
-Art. 426. - Per il conseguimento del titolo di specialista e' obbligatoria la frequenza alle lezioni, alle esercitazioni, alle conferenze, ai colloqui tenuti espressamente per il corso in oggetto.  
-E' altresi' obbligatorio l'internato della durata di sei mesi.  
-L'internato potra' essere svolto presso l'istituto di biochimica o il laboratorio di biochimica marina del centro studi di Cesenatico o in altro istituto o laboratorio previa approvazione del consiglio.  
-Art. 427. - Gli insegnamenti avranno carattere cattedratico e potranno essere svolti in quella diversa forma ed in quella sede che le esigenze di ciascuna disciplina consigliano.  
-Art. 428. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
+Acustica;  
+\* Algebra;  
+\* Algebra superiore;  
+\* Analisi funzionale;  
+\* Analisi superiore;  
+Astrofisica;  
+Astronomia;  
+Biofisica;  
+Calcolo delle probabilita';  
+Calcoli numerici e grafici;  
+Chimica fisica;  
+Chimica organica;  
+Chimica teorica;  
+Cibernetica e teoria dell'informazione;  
+Conduzione elettrica nei gas;  
+Economia e organizzazione industriale;  
+Elettrologia Elettronica Elettronica applicata;  
+Elettrotecnica;  
+Epistemologia e metodologia;  
+Fisica dei neutroni;  
+Fisica dei reattori;  
+Fisica dell'atmosfera;  
+Fisica delle particelle elementari;  
+Fisica dello stato solido;  
+Fisica matematica;  
+Fisica nucleare;  
+Fisica superiore;  
+Fisica tecnica;  
+Fisica teorica;  
+Fisica terrestre <geofisica): ;  
+Geodesia;  
+Geologia;  
+Geometria IIª;  
+Geometria differenziale;  
+Geometria superiore;  
+Istituzioni di analisi superiore;  
+Istituzioni di fisica nucleare;  
+Istituzioni di geometria superiore;  
+Istituzioni di fisica matematica;  
+Logica matematica;  
+Matematiche complementari;  
+Matematiche elementari da un punto di vista superiore;  
+Matematiche superiori;  
+Meccanica analitica;  
+Meccanica quantistica;  
+Meccanica statistica;  
+Meccanica superiore;  
+Mineralogia;  
+Mineralogia e geologia (per ingegneri);  
+Misure elettriche;  
+Onde elettromagnetiche;  
+Ottica;  
+Ottica elettronica;  
+Pedagogia;  
+Radioastronomia;  
+Radioattivita';  
+Relativita';  
+Sismologia;  
+Spettroscopia;  
+Storia della fisica;  
+Strutturistica;  
+Tecnica del vuoto;  
+Teoria dei reattori nucleari;  
+\*Teoria delle funzioni;  
+\*Teoria e applicazione delle macchine calcolatrici;  
+Termodinamica;  
+Termotecnica.  
   
-1° Anno:  
-Oceanografia fisica e chimica;  
-Biochimica dei vegetali acquatici;  
-Biochimica degli animali acquatici;  
-Biochimica analitica;  
-Istochimica;  
-Biochimica ecologica;  
+Propedeuticita' e sbarramenti:  
+Potranno iscriversi ai corsi comuni ai tre indirizzi del II biennio soltanto quegli studenti che abbiano superato Fisica I e II, Analisi matematica I e II.  
   
-2° Anno:  
-Chimica fisiologica degli animali acquatici;  
-Biochimica dei prodotti della pesca;  
-Biochimica microbiologica;  
-Patologia biochimica degli animali acquatici;  
-Biochimica farmacologica e tossicologica;  
-Biochimica applicata alle zone di pesca.  
+Esame di laurea:  
+L'esame di laurea consiste di: un colloquio di cultura generale in fisica; una tesi di laurea scritta alla quale non si richiede necessariamente il carattere di ricerca originale; due tesine su argomenti di Fisica e di Matematica.  
+Superato l'esame di laurea lo studente consegue il titolo di dottore in Fisica, indipendentemente dallo indirizzo prescelto, del quale verra' fatta menzione soltanto nella carriera scolastica.  
   
-Art. 429. - I docenti dei singoli insegnamenti sono nominati per incarico, anno per anno, dal consiglio di facolta' su proposta del direttore della scuola.  
-Art. 430. - Alla fine del 1° anno si sostengono i seguenti esami di profitto:  
-  
-Oceanografia fisica e chimica;  
-Biochimica dei vegetali acquatici;  
-Biochimica degli animali acquatici;  
-Biochimica analitica;  
-Istochimica;  
-Biochimica ecologica.  
-  
-Alla fine del 2° anno si sostengono i seguenti esami di profitto:  
-  
-Chimica fisiologica degli animali acquatici;  
-Biochimica dei prodotti della pesca;  
-Biochimica microbiologica;  
-Patologia biochimica degli animali acquatici;  
-Biochimica farmacologica e tossicologica;  
-Biochimica applicata alle zone di pesca.  
-  
-Art. 431. - L'esame di diploma consiste nella discussione di una dissertazione scritta svolta dal candidato si argomento da lui scelto con approvazione del direttore della scuola, di fronte alla commissione di diploma costituita a norma dell'art. 191, primo comma, dello statuto dell'Universita' di Bologna.  
-Art. 432. - Le tasse e sopratasse da pagarsi dagli iscritti alla scuola sono le stesse stabilite dalla legge per gli iscritti alla facolta' di medicina veterinaria.  
-Il contributo annuo che gli iscritti debbono corrispondere per le esercitazioni pratiche e per le prestazioni di qualunque natura di cui usufruiscono durante l'anno di studio, e' stabilito anno per anno dal consiglio di amministrazione dell'Universita', uditi il consiglio di facolta' e il senato accademico.  
-Art. 433. - Al finanziamento della scuola viene provveduto oltre che con introiti di cui all'articolo precedente, con eventuali contributi dei Ministeri interessati e del consorzio per il centro universitario di studi e ricerche sulle risorse biologiche marine di Cesenatico che intendono cooperare all'attuazione dei fini che la scuola si propone di conseguire.  
+Art. 90. - Il secondo comma, relativo all'esame di laurea in Fisica e' abrogato.  
   
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 febbraio 1974
+### Dato a Roma, addi' 9 marzo 1962
 
-LEONE MALFATTI
+GRONCHI GUI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 21 novembre 1974
+Registrato alla Corte del conti, addi' 4 maggio 1962
 
-Atti di Governo, registro n. 7, foglio n. 2. - SCIARRETTA
+Atti del Governo, registro n. 146, foglio n. 6. - VILLA

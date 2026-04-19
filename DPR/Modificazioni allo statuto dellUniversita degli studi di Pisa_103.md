@@ -1,123 +1,1525 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1955 n. 1085
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1977 n. 1251
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1955 n. 1085
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1977 n. 1251
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Gli articoli da 126 a 140, relativi all'ordinamento degli studi per il conseguimento delle varie lauree rilasciate dalla facolta' di ingegneria, sono abrogati e sostituiti dai seguenti:
+
+Art. 126 (ex 114). La facolta' di ingegneria comprende cinque anni di corso i primi due dei quali hanno funzione preminentemente propedeutica e saranno indicati ove occorre, col nome di "biennio" e gli altri, indicati, ove occorra, col nome di "triennio", hanno piu' specificamente indirizzo applicativo.
+
+Art. 127 (ex 115). - La facolta' comprende i seguenti corsi di laurea in ingegneria:
+
+1) ingegneria civile (sezioni edile, idraulica, trasporti);
+
+2) ingegneria meccanica:
+
+3) ingegneria elettrotecnica;
+
+4) ingegneria chimica;
+
+5) ingegneria aeronautica;
+
+6) ingegneria elettronica;
+
+7) ingegneria nucleare.
+
+Per il conseguimento della laurea in ingegneria civile, sezione edile, dovranno essere superati 30 esami di insegnamento annuali (o equivalenti) di cui 19A, 7B e 4C; per la sezione trasporti 30 esami di insegnamento annuali (o equivalenti) di cui 18A, 6B e 6C; per la sezione idraulica 30 esami di insegnamento annuali (o equivalenti) di cui 18A, 10B e 2C.
+
+Per il conseguimento della laurea in ingegneria meccanica dovranno essere superati 28 esami di insegnamento annuali (o equivalenti) di cui 18A, 4B e 6C.
+
+Per il conseguimento della laurea in ingegneria elettrotecnica dovranno essere superati 27 esami di insegnamento annuali (o equivalenti) di cui 19A, 4B e 4C.
+
+Per il conseguimento della laurea in ingegneria chimica dovranno essere superati 29 esami di insegnamento annuali (o equivalenti) di cui 19A, 7B e 3C.
+
+Per il conseguimento della laurea in ingegneria aeronautica dovranno essere superati 29 esami di insegnamento annuali (o equivalenti) di cui 18A, 8B e 3C.
+
+Per il conseguimento della laurea in ingegneria elettronica dovranno essere superati 28 (29) esami di insegnamento annuali (o equivalenti) di cui 18A, 6B e 4 (5)C. (I numeri tra parentesi si riferiscono all'indirizzo "avionica").
+
+Per il conseguimento della laurea in ingegneria nucleare dovranno essere superati 30 esami di insegnamento annuali (o equivalenti) di cui 19A, 9B e 2C.
+
+Art. 128 (ex 116). - Gli insegnamenti del biennio a norma dell'[art. 2 del decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53~art2), sono:
+
+a) per tutti i corsi di laurea:
+
+analisi matematica I;
+
+geometria I;
+
+fisica I;
+
+chimica;
+
+disegno (il corso di disegno potra' avere diverso contenuto per i diversi corsi di laurea);
+
+analisi matematica II;
+
+meccanica razionale;
+
+fisica II;
+
+b) il corso di geometria II di cui all'art. 2 del citato decreto sara' sostituito da:
+
+chimica applicata per i corsi di laurea in ingegneria aeronautica e meccanica;
+
+chimica organica per il corso di laurea in ingegneria chimica; disegno II per il corso di laurea in ingegneria civile, sezione edile;
+
+tecnologia dei materiali e chimica applicata per il corso di laurea in ingegneria civile, sezione idraulica e trasporti;
+
+meccanica delle macchine e macchine per il corso di laurea in ingegneria elettronica;
+
+metodi di osservazione e di misura per il corso di laurea in ingegneria elettrotecnica;
+
+tecnologie generali dei materiali per il corso di laurea in ingegneria nucleare;
+
+c) oltre ai predetti saranno impartiti i seguenti insegnamenti: chimica applicata per il corso di laurea in ingegneria chimica; scienza delle costruzioni per il corso di laurea in ingegneria civile;
+
+fisica atomica per il corso di laurea in ingegneria nucleare.
+
+Art. 129 (ex 117).- Per ottenere l'iscrizione al 2° anno del biennio gli studenti dovranno avere superato almeno due fra i quattro seguenti esami: analisi matematica I, geometria I, fisica I, chimica.
+
+Art. 130 (ex 118). - Per essere ammessi al 3° anno di corso gli
+
+studenti dovranno avere superato tutti gli esami di cui ai commi a) e b) dell'art. 128. Lo studente, tuttavia, che sia in debito anche di un solo esame a sua scelta del 2° anno di corso, potra' ugualmente essere iscritto al 3° anno, con obbligo di superare tale esame prima di sostenere qualsiasi esame del triennio di applicazione ([decreto del Presidente della Repubblica 15 aprile 1965, n. 572 - Gazzetta Ufficiale n. 173 del 4 giugno 1965](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1965-06-04&numeroGazzetta=173)).
+
+Art. 131 (ex 119). - Gli esami del triennio sono i seguenti:
+
+Per il corso di laurea in ingegneria aeronautica:
+
+a) obbligatori sul piano nazionale:
+
+scienza delle costruzioni;
+
+meccanica applicata alle macchine;
+
+fisica tecnica;
+
+elettrotecnica;
+
+aerodinamica;
+
+aeronautica generale;
+
+motori per aeromobili;
+
+costruzioni aeronautiche;
+
+gasdinamica;
+
+b) obbligatori sul piano della facolta':
+
+calcoli numerici, grafici, meccanici ed elettronici;
+
+aerodinamica sperimentale ed applicata;
+
+strutture aeronautiche;
+
+costruzione di macchine;
+
+tecnologie speciali aeronautiche;
+
+servomeccanismi;
+
+dinamica del volo;
+
+tecnologia meccanica.
+
+Per il corso di laurea in ingegneria chimica:
+
+a) obbligatori sul piano nazionale:
+
+scienza delle costruzioni;
+
+meccanica applicata alle macchine;
+
+fisica tecnica;
+
+elettrotecnica;
+
+chimica fisica;
+
+macchine;
+
+principi di ingegneria chimica;
+
+impianti chimici;
+
+chimica industriale;
+
+b) obbligatori sul piano della facolta':
+
+principi di ingegneria chimica II;
+
+calcoli numerici, grafici, meccanici ed elettronici;
+
+processi chimici fondamentali;
+
+economia ed organizzazione aziendale (corso speciale per ingegneri chimici);
+
+costruzione di apparecchiature chimiche;
+
+processi ed apparecchiature di trasferimento;
+
+chimica analitica e strumentazione.
+
+Per il corso di laurea in ingegneria civile, comuni a tutte le sezioni:
+
+a) obbligatori sul piano nazionale:
+
+meccanica applicata alle macchine e macchine;
+
+elettrotecnica;
+
+fisica tecnica;
+
+idraulica;
+
+architettura tecnica;
+
+tecnica delle costruzioni;
+
+topografia;
+
+b) obbligatori sul piano della facolta':
+
+scienza delle costruzioni II;
+
+materie giuridiche;
+
+economia ed estimo.
+
+Per il corso di laurea in ingegneria civile, sezione edile:
+
+a) obbligatori sul piano nazionale:
+
+tecnologia dei materiali e chimica applicata;
+
+architettura e composizione architettonica I;
+
+b) obbligatori sul piano della facolta':
+
+costruzione di strade, ferrovie ed aeroporti;
+
+igiene applicata;
+
+architettura tecnica II;
+
+tecnica urbanistica.
+
+Per il corso di laurea in ingegneria civile, sezione idraulica:
+
+a) obbligatori sul piano nazionale:
+
+costruzioni idrauliche;
+
+b) obbligatori sul piano della facolta':
+
+costruzione di strade, ferrovie ed aeroporti;
+
+igiene applicata;
+
+impianti speciali idraulici;
+
+geotecnica;
+
+idromeccanica applicata;
+
+idraulica sanitaria;
+
+geologia applicata.
+
+Per il corso di laurea in ingegneria civile, sezione trasporti:
+
+a) obbligatori sul piano nazionale:
+
+costruzione di strade, ferrovie ed aeroporti;
+
+b) obbligatori sul piano della facolta':
+
+geotecnica;
+
+tecnica ed economia dei trasporti;
+
+geologia applicata.
+
+Per il corso di laurea in ingegneria elettronica:
+
+a) obbligatori sul piano nazionale:
+
+scienza delle costruzioni;
+
+elettrotecnica;
+
+fisica tecnica;
+
+elettronica applicata;
+
+misure elettriche;
+
+comunicazioni elettriche;
+
+campi elettromagnetici e circuiti;
+
+controlli automatici;
+
+radiotecnica;
+
+b) obbligatori sul piano della facolta':
+
+elettronica generale;
+
+teoria dei segnali;
+
+reti logiche e tecniche digitali;
+
+macchine elettriche;
+
+((misure)) elettroniche;
+
+calcoli numerici, grafici, meccanici ed elettronici.
+
+Per il corso di laurea in ingegneria elettrotecnica:
+
+a) obbligatori sul piano nazionale:
+
+scienza delle costruzioni;
+
+meccanica applicata alle macchine;
+
+elettrotecnica;
+
+fisica tecnica;
+
+idraulica;
+
+macchine;
+
+elettronica applicata;
+
+misure elettriche;
+
+macchine elettriche;
+
+impianti elettrici;
+
+b) obbligatori sul piano della facolta':
+
+complementi di matematica;
+
+costruzione di macchine elettriche;
+
+tecnologia e costruzione di macchine;
+
+controlli automatici.
+
+Per il corso di laurea in ingegneria meccanica:
+
+a) obbligatori sul piano nazionale:
+
+scienza delle costruzioni;
+
+meccanica applicata alle macchine;
+
+fisica tecnica;
+
+elettrotecnica;
+
+idraulica;
+
+tecnologia meccanica;
+
+macchine;
+
+costruzione di macchine;
+
+impianti meccanici;
+
+b) obbligatori sul piano della facolta':
+
+scienza dei metalli;
+
+economia ed organizzazione aziendale;
+
+complementi di tecnologia meccanica e studi di fabbricazione; calcolo e progetto di macchine.
+
+Per il corso di laurea in ingegneria nucleare:
+
+a) obbligatori sul piano nazionale:
+
+scienza delle costruzioni;
+
+meccanica delle macchine;
+
+fisica tecnica;
+
+elettrotecnica;
+
+fisica nucleare;
+
+macchine;
+
+elettronica nucleare;
+
+fisica del reattore nucleare;
+
+impianti nucleari;
+
+b) obbligatori sul piano della facolta':
+
+metallurgia dei materiali nucleari;
+
+tecnologia meccanica;
+
+costruzione di macchine;
+
+calcoli numerici, grafici, meccanici ed elettronici;
+
+strumentazione e misure nucleari;
+
+controllo dei reattori nucleari;
+
+costruzioni nucleari;
+
+ingegneria del nocciolo;
+
+protezione e sicurezza negli impianti nucleari.
+
+I restanti corsi per il raggiungimento del numero previsto dall'ultimo comma dell'[art. 8 del decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53~art8), per ogni corso di laurea, sono a scelta dello studente.
+
+Gli insegnamenti a scelta dello studente sono indicati nell'elenco di cui all'art. 132.
+
+Da tale elenco la facolta' trarra' per i singoli corsi di laurea le materie da attivare che indichera', anno per anno, nel manifesto degli studi. Nel manifesto pero' le materie non figureranno isolate, ma raggruppate a costituire indirizzi di specializzazione.
+
+Art. 132 (ex 120). - Insegnamenti complementari:
+
+aeroelasticita';
+
+analisi degli incidenti nucleari;
+
+analisi del valore e analisi di mercato;
+
+analisi e sviluppo dei progetti;
+
+applicazioni elettromeccaniche;
+
+architettura e composizione architettonica II;
+
+calcoli numerici, grafici, meccanici ed elettronici;
+
+catalisi industriale;
+
+centrali elettriche;
+
+calcolatori elettronici;
+
+chimica macromolecolare;
+
+complementi di costruzione di macchine elettriche;
+
+complementi di costruzione di strade, ferrovie ed aeroporti;
+
+complementi di impianti meccanici;
+
+complementi di impianti nucleari;
+
+complementi di macchine;
+
+complementi di macchine elettriche;
+
+complementi di matematica;
+
+complementi di matematica (semestrale);
+
+complementi di misure elettriche;
+
+complementi di scienza delle costruzioni;
+
+complementi di tecnica delle costruzioni;
+
+componenti elettronici;
+
+composizione urbanistica;
+
+controllo numerico delle macchine utensili;
+
+conversione diretta di energia;
+
+costruzione di autoveicoli;
+
+costruzione di materiale ferroviario;
+
+costruzione di macchine utensili;
+
+costruzioni idrauliche;
+
+dinamica dei gas rarefatti;
+
+dinamica delle strutture;
+
+dinamica e controllo dei processi chimici;
+
+economia ed esercizio degli impianti elettrici;
+
+economia ed organizzazione aziendale;
+
+elementi di elettronica;
+
+elementi di elettronica e radiotrasmissioni;
+
+elettronica applicata;
+
+elettronica industriale;
+
+elettronica per telecomunicazioni;
+
+elettronica quantistica;
+
+geologia applicata;
+
+geotecnica;
+
+gestione e rilevazione aziendale;
+
+idraulica fluviale e costiera;
+
+idraulica sanitaria;
+
+idrologia;
+
+impianti di bordo e di navigazione;
+
+impianti elettrici navali;
+
+impianti e reattori nucleari;
+
+impianti nucleari di potenza;
+
+impianti per telecomunicazioni;
+
+impianti termici;
+
+istituzione di aeronautica;
+
+lavorazioni meccaniche speciali;
+
+macchine per l'elaborazione dell'informazione;
+
+materie giuridiche;
+
+meccanica aerospaziale;
+
+meccanica agraria;
+
+meccanica delle strutture;
+
+metodi di osservazione e misura;
+
+metodi variazionali;
+
+metodologia statistica;
+
+metrologia tecnologica;
+
+missilistica;
+
+motori per aeromobili;
+
+pianificazione dei trasporti;
+
+pianificazione territoriale;
+
+ponti e strutture speciali;
+
+ponti radio;
+
+processi e tecnologie di produzione di plastomeri, elastomeri e fibre;
+
+progetto e sperimentazione di motori per autoveicoli;
+
+proprieta' fisiche e tecnologiche degli alti polimeri;
+
+prove su macchine e impianti elettrici;
+
+radioaiuti alla navigazione;
+
+reattori chimici;
+
+regolazione delle macchine elettriche;
+
+regolazione delle macchine e degli impianti meccanici;
+
+regolazione ed esercizio degli impianti nucleari (semestrale);
+
+reti logiche e tecniche digitali;
+
+ricerca operativa;
+
+scienza dei metalli;
+
+siderurgia;
+
+sistemi di guida e navigazione;
+
+sistemi di programmazione;
+
+sistemi operativi;
+
+sociologia urbana;
+
+statistica e ricerca operativa;
+
+storia della citta' e del territorio;
+
+strumentazione e circuiti a fluido;
+
+strumentazione misure elettroniche;
+
+tecnica degli endoreattori;
+
+tecnica degli impianti di trasporto;
+
+tecnica degli impianti elettrici;
+
+tecnica dei lavori stradali, ferroviari ed aeroportuali;
+
+tecnica della circolazione e traffico stradale;
+
+tecnica della sperimentazione delle strutture;
+
+tecnica delle alte tensioni;
+
+tecnica delle comunicazioni elettriche;
+
+tecnica ed economia dei trasporti;
+
+tecnica ed economia dei trasporti aerei;
+
+tecnica urbanistica;
+
+tecniche ed impianti anti-inquinamento;
+
+tecniche organizzative;
+
+tecnologie chimiche, inorganiche (e nucleari);
+
+tecnologie elettroniche;
+
+tecnologie generali ed industrializzazione dell'edilizia;
+
+tecnologie petrolchimiche;
+
+teoria dei sistemi di comunicazione;
+
+teoria dell'informazione e della trasmissione;
+
+teoria e sviluppo dei processi chimici;
+
+teoria e tecnica dei sistemi di guida aeromissilistici;
+
+teoria e tecnica radar;
+
+topografia operativa;
+
+trasporti aerei e navali;
+
+trazione elettrica.
+
+Art. 133 (ex 121). - Le materie sopra elencate per i vari corsi di laurea saranno corredate da esercitazioni scritte orali, grafiche e pratiche nella misura e nei modi stabiliti dal consiglio di facolta'.
+
+Art. 134 (ex 122). Discipline dello stesso nome comuni a piu' corsi di laurea, potranno avere diverso svolgimento, in conformita' dei programmi stabiliti di anno in anno dal consiglio di facolta'.
+
+Art. 135 (ex 123). - Per essere ammesso all'esame di laurea lo studente dovra' avere seguito tutti i corsi obbligatori per ogni corso di laurea sia sul piano nazionale, sia sul piano locale, nonche' quelli di uno dei gruppi a scelta indicati per ciascun corso di laurea e superati i relativi esami.
+
+Art. 136 (ex 124). - Gli studenti dovranno dichiarare all'atto dell'iscrizione al primo anno della facolta' a quale corso di laurea intendono iscriversi. Gli studenti che seguono il corso di laurea in ingegneria civile dovranno dichiarare inoltre all'atto dell'iscrizione al 2° anno di corso, a quale sezione intendono iscriversi.
+
+Potra' essere concesso il passaggio da un corso di laurea ad un altro o da una sezione ad un'altra sezione quando cio' sia ritenuto possibile dal consiglio di facolta' ed alle condizioni che saranno da esse indicate.
+
+Art. 137 (ex 125). - Il consiglio di facolta' puo' integrare gli insegnamenti ufficiali con conferenze, sia di carattere sintetico, sia di carattere complementare, su speciali argomenti specifici e tecnici, affidandole a professori ufficiali, a liberi docenti o a persone di riconosciuta competenza.
+
+Art. 138 (ex 126). - Gli esami di profitto consistono in prove orali, grafiche, scritte e pratiche secondo le modalita' stabilite per ciascun esame dal consiglio di facolta'.
+
+Valgono per l'ammissione agli esami speciali le seguenti condizioni di precedenza:
+
+Biennio:
+
+analisi matematica II (analisi matematica I);
+
+chimica applicata (chimica);
+
+chimica organica (chimica);
+
+disegno II (disegno);
+
+fisica II (fisica);
+
+fisica atomica (fisica I, analisi matematica I, chimica);
+
+meccanica delle macchine e macchine (disegno, fisica I);
+
+meccanica razionale (analisi matematica I);
+
+scienza delle costruzioni (geometria, fisica I, analisi matematica I);
+
+tecnologie generali dei materiali (chimica);
+
+tecnologia dei materiali e chimica applicata (chimica);
+
+Triennio:
+
+aerodinamica sperimentale ed applicata (aerodinamica);
+
+analisi del valore e analisi di mercato (economia ed organizzazione aziendale, complementi di tecnologia meccanica e studi di fabbricazione);
+
+analisi e sviluppo dei progetti (calcoli numerici, grafici,
+
+meccanici ed elettronici, processi chimici fondamentali, processi ed apparecchiature di trasferimento, principi di ingegneria chimica II);
+
+analisi degli incidenti nucleari (fisica del reattore nucleare,
+
+fisica tecnica);
+
+applicazioni elettromeccaniche (macchine elettriche);
+
+architettura e composizione architettonica II (architettura e composizione architettonica I);
+
+architettura tecnica II (architettura tecnica);
+
+campi elettromagnetici e circuiti (elettrotecnica);
+
+calcolatori elettronici (reti logiche e tecniche digitali);
+
+catalisi industriale (calcoli numerici, grafici, meccanici ed elettronici, processi chimici fondamentali, processi ed apparecchiature di trasferimento, principi di ingegneria e chimica II);
+
+centrali elettriche (idraulica, macchine, elettrotecnica);
+
+calcolo e progetto di macchine (meccanica applicata alle macchine e scienza delle costruzioni);
+
+chimica industriale (processi chimici fondamentali, processi e apparecchiature di trasferimento, principi di ingegneria chimica II, chimica analitica e strumentazione, economia ed organizzazione aziendale);
+
+chimica macromolecolare (calcoli numerici, grafici, meccanici ed elettronici, processi chimici fondamentali, processi ed
+
+apparecchiature di trasferimento, principi di ((ingegneria)) chimica II);
+
+complementi di costruzione di macchine elettriche (macchine
+
+elettriche);
+
+complementi di impianti nucleari (macchine);
+
+impianti elettrici (elettrotecnica);
+
+impianti elettrici navali (macchine elettriche);
+
+impianti meccanici (complementi di tecnologia meccanica e studi di fabbricazione);
+
+impianti nucleari (macchine);
+
+impianti e reattori nucleari (macchine, macchine elettriche); impianti nucleari di potenza (macchine);
+
+impianti per telecomunicazioni (elettronica applicata, comunicazioni elettriche);
+
+impianti tecnici (fisica tecnica, macchine);
+
+ingegneria del nocciolo (fisica tecnica, fisica del reattore nucleare);
+
+lavorazioni meccaniche speciali (complementi di tecnologia meccanica e studi di fabbricazione);
+
+macchine (meccanica applicata alle macchine, fisica tecnica); macchine elettriche (elettrotecnica);
+
+macchine per l'elaborazione dell'informazione (reti logiche e tecniche digitali);
+
+meccanica aerospaziale (istituzioni di aeronautica);
+
+meccanica agraria (meccanica applicata alle macchine);
+
+meccanica delle strutture (meccanica applicata alle macchine, scienza delle costruzioni);
+
+misure elettriche (elettrotecnica);
+
+misure elettroniche (elettronica applicata, misure elettriche);
+
+motori per aeromobili (meccanica applicata alle macchine,
+
+fisica tecnica);
+
+ponti radio (elettronica applicata, comunicazioni elettriche); ponti e strutture speciali (tecnica delle costruzioni);
+
+principi di ingegneria, ingegneria chimica II (principi di ingegneria chimica, chimica fisica);
+
+processi chimici fondamentali (chimica fisica, chimica applicata);
+
+processi ed apparecchiature di trasferimento (principi di ingegneria chimica, chimica fisica, fisica tecnica);
+
+processi e tecnologie di produzione di plastomeri, elastomeri e fibre (calcoli numerici, grafici, meccanici ed elettronici, processi chimici fondamentali, processi ed apparecchiature di trasferimento, principi di ingegneria chimica II);
+
+proprieta' fisiche e tecnologiche degli alti polimeri (calcoli numerici, grafici, meccanici ed elettronici, processi chimici fondamentali, processi ed apparecchiature di trasferimento, principi di ingegneria chimica II);
+
+prove su macchine e impianti elettrici (macchine elettriche, misure elettriche);
+
+protezione e sicurezza negli impianti nucleari (macchine, elettronica nucleare, fisica del reattore nucleare);
+
+radioaiuti alla navigazione (comunicazioni elettriche, elettronica applicata);
+
+reattori chimici (calcoli numerici, grafici, meccanici ed
+
+elettronici, processi chimici fondamentali, processi ed
+
+apparecchiature di trasferimento, principi di ingegneria chimica II);
+
+radiotecnica (comunicazioni elettriche, elettronica applicata);
+
+regolazione delle macchine elettriche (elettronica applicata,
+
+macchine elettriche);
+
+regolazione ed esercizio degli impianti nucleari (elettronica nucleare, fisica del reattore nucleare, macchine);
+
+reti logiche e tecniche digitali (elettronica generale);
+
+ricerca operativa (metodologia statistica);
+
+scienza dei metalli (chimica applicata);
+
+scienza dei metalli (corso di laurea in ingegneria chimica) (calcoli numerici, grafici, meccanici ed elettronici, processi chimici fondamentali, processi ed apparecchiature di trasferimento, principi di ingegneria chimica II);
+
+scienza delle costruzioni II (scienza delle costruzioni);
+
+servomeccanismi (meccanica applicata alle macchine);
+
+siderurgia (calcoli numerici, grafici, meccanici ed
+
+elettronici, processi chimici fondamentali, processi ed
+
+apparecchiature di trasferimento, principi di ingegneria chimica II); sistemi di programmazione (reti logiche e tecniche digitali);
+
+sistemi operativi (reti logiche e tecniche digitali);
+
+complementi di costruzione di strade, ferrovie ed aeroporti (costruzione di strade, ferrovie ed aeroporti);
+
+complementi di macchine (macchine);
+
+complementi di macchine elettriche (macchine elettriche);
+
+complementi di misure elettriche (misure elettriche);
+
+complementi di scienza delle costruzioni (scienza delle costruzioni II);
+
+complementi di tecnica delle costruzioni (tecnica delle costruzioni);
+
+complementi di tecnologia meccanica (studi di fabbricazione, tecnologia meccanica);
+
+componenti elettronici (elettronica applicata);
+
+composizione urbanistica (tecnica urbanistica);
+
+comunicazioni elettriche (elettrotecnica, teoria dei segnali); controlli automatici (corso di laurea in ingegneria elettrotecnica) (elettronica applicata, complementi di matematica); controlli automatici (corso di laurea in ingegneria elettronica) (elettronica applicata);
+
+controllo dei reattori nucleari (elettronica nucleare, fisica del reattore nucleare, fisica tecnica);
+
+controllo numerico delle macchine utensili (regolazione delle macchine e degli impianti meccanici);
+
+costruzione di apparecchiature chimiche (scienza delle costruzioni, meccanica applicata alle macchine);
+
+costruzione di macchine (meccanica applicata alle macchine, scienza delle costruzioni, tecnologia meccanica);
+
+costruzione di macchine elettriche (macchine elettriche);
+
+costruzione di macchine utensili (complementi di tecnologia meccanica e studi di fabbricazione);
+
+costruzioni aeronautiche (aeronautica generale, calcoli
+
+numerici, grafici, meccanici ed elettronici, strutture aeronautiche);
+
+costruzione di autoveicoli (meccanica applicata alle macchine,
+
+scienza delle costruzioni, tecnologia meccanica);
+
+costruzione di materiale ferroviario (meccanica applicata alle macchine, scienza delle costruzioni, tecnologia meccanica);
+
+costruzioni idrauliche (idraulica);
+
+costruzioni nucleari (scienza delle costruzioni);
+
+dinamica delle strutture (scienza delle costruzioni II);
+
+dinamica del volo (aeronautica generale);
+
+dinamica e controllo dei processi chimici (calcoli numerici, grafici, meccanici ed elettronici, processi chimici fondamentali, processi ed apparecchiature di trasferimento, principi di ingegneria chimica II);
+
+economia ed esercizio degli impianti elettrici (impianti elettrici);
+
+elementi di elettronica (elettrotecnica);
+
+elettronica industriale (elettronica applicata);
+
+elettrochimica e tecnologie elettrochimiche (calcoli numerici, grafici, meccanici ed elettronici, processi ed apparecchiature di trasferimento, principi di ingegneria chimica II);
+
+elettronica applicata (corso di laurea in ingegneria elettronica) (elettronica generale);
+
+elettronica applicata (corso di laurea in ingegneria elettrotecnica) (elettrotecnica);
+
+elettronica generale (elettrotecnica);
+
+elettronica nucleare (elettrotecnica);
+
+elettronica per telecomunicazioni (elettronica applicata, comunicazioni elettriche);
+
+elettronica quantistica (elettronica generale);
+
+fisica nucleare (fisica atomica);
+
+fisica del reattore nucleare (fisica atomica, fisica nucleare); geotecnica (scienza delle costruzioni, idraulica);
+
+idraulica sanitaria (idraulica);
+
+idraulica fluviale e costiera (idraulica);
+
+idromeccanica applicata (idraulica);
+
+impianti chimici (processi chimici fondamentali, principi di ingegneria chimica II, processi ed apparecchiature di trasferimento, costruzione di apparecchiature chimiche, economia ed organizzazione aziendale);
+
+strumentazione e misure elettroniche (elettronica applicata); strumentazione e misure nucleari (fisica atomica, fisica nucleare);
+
+strutture aeronautiche (scienza delle costruzioni);
+
+tecnica delle alte tensioni (misure elettriche);
+
+tecnica delle comunicazioni elettriche (comunicazioni elettriche);
+
+tecnica delle costruzioni (scienza delle costruzioni II);
+
+tecnica degli impianti elettrici (impianti elettrici);
+
+tecniche ed impianti anti-inquinamento (calcoli numerici, grafici, meccanici ed elettronici, processi chimici fondamentali, processi ed apparecchiature di trasferimento, principi di ingegneria chimica II, chimica analitica e strumentazione);
+
+tecniche organizzative (economia ed organizzazione aziendale); tecnologia e costruzione di macchine (meccanica applicata alle macchine, scienza delle costruzioni);
+
+tecnologie chimiche inorganiche (e nucleari) (calcoli numerici, grafici, meccanici ed elettronici, processi chimici fondamentali, processi ed apparecchiature di trasferimento, principi di ingegneria chimica II);
+
+tecnologie elettroniche (elettronica applicata);
+
+tecnologie petrolchimiche (calcoli numerici, grafici, meccanici
+
+ed elettronici, processi chimici fondamentali, processi ed
+
+apparecchiature di trasferimento, principi di ingegneria chimica II); tecnologie speciali aeronautiche (tecnologia meccanica);
+
+teoria dei sistemi di comunicazione (comunicazioni
+
+elettriche); teoria dell'informazione e della trasmissione (comunicazioni
+
+elettriche);
+
+teoria e tecnica dei sistemi di guida aeromissilistici (corso di laurea in ingegneria elettronica) (comunicazioni elettriche);
+
+teoria e sviluppo dei processi chimici (calcoli numerici, grafici, meccanici ed elettronici, processi chimici fondamentali, processi ed apparecchiature di trasferimento, principi di ingegneria chimica II);
+
+teoria e tecnica radar (comunicazioni elettriche);
+
+topografia operativa (topografia);
+
+trazione elettrica (elettrotecnica);
+
+tecnica della sperimentazione delle strutture (scienza delle costruzioni II).
+
+Art. 139 (ex 127). - L'esame di laurea consiste in una prova di cultura sulle materie obbligatorie (sia sul piano nazionale, sia sul piano della facolta) relativa al corso di studi seguito dal candidato e nella discussione orale di un elaborato costituito da un progetto o dalla relazione di una ricerca tecnica attinenti al corso di laurea ed alla sezione cui appartiene il candidato, elaborato redatto sotto la guida e la sorveglianza di almeno due professori ufficiali. Gli argomenti oggetto del predetto elaborato dovranno avere preventivo assenso dei relatori e del preside.
+
+Le modalita' per la prova di cultura generale (scritta, orale, grafica e pratica) saranno stabilite di anno in anno dal consiglio di facolta'.
+
+Art. 140 (ex 128). - Gli istituti scientifici della facolta' sono i seguenti:
+
+istituto di aeronautica;
+
+istituto di architettura e urbanistica;
+
+istituto di chimica generale;
+
+istituto di chimica industriale ed applicata;
+
+istituto di costruzioni stradali e trasporti;
+
+istituto di elettronica e telecomunicazioni;
+
+istituto di elettrotecnica;
+
+istituto di fisica generale ed applicata;
+
+istituto di geodesia, topografia e fotogrammetria;
+
+istituto di idraulica;
+
+istituto di impianti nucleari;
+
+istituto di macchine e meccanica agraria;
+
+istituto di matematiche applicate "Ulisse Dini";
+
+istituto di meccanica applicata e costruzione di macchine;
+
+istituto di scienza delle costruzioni;
+
+istituto di tecnologia meccanica.
+
+Due o piu' dei predetti istituti potranno essere temporaneamente raggruppati su deliberazione del consiglio di facolta' in considerazione di particolari situazioni di carattere transitorio.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 26 ottobre 1977
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 25 luglio 1978 Registro n. 83 Istruzione, foglio n. 137
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con il [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con i [regi decreti 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2225); [20 settembre 1928, n. 2251](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1928-09-20;2251); [31 ottobre 1929, n. 2473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1929-10-31;2473); [30 ottobre 1930, n. 1916](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1916); [22 ottobre 1931, n. 1339](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-22;1339); [27 ottobre 1932, n. 2098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2098); [13 dicembre 1934, n. 2408](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-13;2408); [1 ottobre 1936, n. 2462](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2462); [27 ottobre 1937, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1937-10-27;2170); [9 maggio 1939, n. 1314](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-05-09;1314); [5 ottobre 1939, n. 1744](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1744); [26 ottobre 1940, n. 2071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2071); [27 aprile 1942, n. 469](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;469); [24 ottobre 1942, n. 1652, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1652) [30 dicembre 1947, n. 1689 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1689) [17 febbraio 1949, n. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-17;97); [30 ottobre 1949, n. 1169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1169); [31 ottobre 1950, n. 1309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1309); [11 aprile 1951, n. 566](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;566), [27 ottobre 1951, n. 1801](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1801); [25 marzo 1952, n. 872](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-03-25;872); [25 luglio 1952, n. 1351](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1351); [12 settembre 1952, n. 3861](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-12;3861): [30 ottobre 1952, n. 4558](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-30;4558); [11 marzo 1953, n. 546](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;546); [11 marzo 1953, n. 756](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;756); [6 ottobre 1953, n. 1089](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-10-06;1089); [23 marzo 1954, n. 743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-23;743); [10 aprile 1954, n. 737](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-10;737); [26 ottobre 1954, n. 1294](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-26;1294); [11 aprile 1955, n 625](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-04-11;625);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato, come appresso, nella parte relativa all'ordinamento della Facolta' di scienze matematiche, fisiche e naturali:  
-Art. 58. - Il primo comma e' abrogato e sostituito dai seguenti:  
-"Gli insegnamenti sono impartiti in corsi di lezioni cattedratiche o in corsi di laboratorio; i corsi di lezioni cattedratiche sono integrati, per le discipline per cui e' necessario, da esercitazioni orali, grafiche, o sperimentali.  
-L'orario delle lezioni e delle esercitazioni e' stabilito dalla Facolta'".  
-Art. 60. - Gli Istituti di "mineralogia e petrografia" e di "astronomia e geodesia" assumono, rispettivamente, le nuove denominazioni di "Istituto e Museo di mineralogia e petrografia" e di "Istituto di astronomia".  
-Il secondo comma e' abrogato e sostituito dai seguenti:  
-"Gli Istituti di cui ai nn. 10, 11, 12, 13, 14 e 15 costituiscono nel toro complesso l'Istituto di matematica "Leonida Tonelli" dell'Universita' di Pisa.  
-L'Istituto ha patrimonio indivisibile ed e' amministrato collegialmente".  
-  
-Corso di laurea in chimica.  
-  
-Art. 62. - Dall'elenco degli insegnamenti complementari del triennio di studi di applicazione (indirizzo organico-biologico) e' soppresso quello di "chimica applicata (ai materiali da costruzione)".  
-Art. 63. - Il secondo comma e' abrogato e sostituito dal seguente: "L'insegnamento di "analisi matematica" sara' impartito da due professori, ciascuno dei quali insegnera' alternativamente "analisi algebrica" per il primo anno ed "analisi infinitesimale" per il secondo anno; lo studente dovra' sostenere due esami distinti".  
-I commi quinto e sesto sono abrogati e sostituiti dai seguenti:  
-"All'atto dell'iscrizione al primo anno del triennio di applicazione lo studente deve sottoporre all'approvazione della Facolta' l'elenco degli insegnamenti complementari prescelti.  
-La scelta fatta in tale modo e' impegnativa e non puo' comunque subire variazioni durante il corso degli studi".  
-  
-Corso di laurea in chimica industriale  
-  
-Art. 64. - Dall'elenco degli insegnamenti complementari del triennio di studi di applicazione del corso di laurea in chimica industriale e' soppresso quello di "chimica organica industriale".  
-  
-Corso di laurea in fisica  
-  
-Art. 65. - Agli insegnamenti complementari del corso di laurea, in fisica sono aggiunti quelli di "calcolo delle probabilita'" e "fisica atomica".  
-Art. 67. - E' abrogato e sostituito dal seguente:  
-"Nell'ordine degli esami per il corso di laurea in fisica dovranno essere rispettate le seguenti precedenze:  
-l'esame di analisi matematica algebrica deve precedere l'esame di analisi matematica infinitesimale;  
-gli esami di analisi matematica algebrica e analisi matematica infinitesimale debbono precedere l'esame di analisi superiore;  
-gli esami di analisi matematica algebrica e di geometria analitica debbono precedere l'esame di meccanica razionale;  
-gli esami di analisi matematica algebrica, analisi matematica infinitesimale, geometria analitica, meccanica razionale, fisica, sperimentale debbono precedere gli esami di fisica matematica, fisica teorica, fisica superiore, spettroscopia, fisica tecnica, elettrotecnica, astronomia, geodesia, fisica terrestre, meccanica superiore, meccanica statistica, onde elettromagnetiche, calcolo delle probabilita';  
-gli esami di fisica sperimentale e chimica generale debbono precedere l'esame di chimica fisica;  
-l'esame di chimica generale deve precedere l'esame di chimica organica e mineralogia.  
-  
-Corso di laurea in scienze matematiche  
-  
-Art. 68. - Agli insegnamenti complementari del corso di laurea in scienze matematiche sono aggiunti quelli di "meccanica statistica," "calcolo delle probabilita'" e "topologia".  
-Art. 70. - E' abrogato e sostituito dal seguente:  
-"Nell'ordine degli esami per il corso di laurea in scienze matematiche dovranno essere rispettate, oltre alle precedenze indicate nell'art. 67, per il corso di laurea in fisica, le seguenti precedenze:  
-gli esami di analisi matematica algebrica, analisi matematica infinitesimale, geometria analitica con elementi di proiettiva e geometria descrittiva con disegno debbono precedere gli esami di geometria superiore, matematiche superiori, matematiche complementari, teoria delle funzioni, geometria algebrica, topologia; gli esami di analisi matematica algebrica, analisi matematica infinitesimale, geometria analitica con elementi di proiettiva e geometria descrittiva con disegno, meccanica razionale, debbono precedere gli esami di calcoli numerici e grafici, geometria differenziale, storia delle matematiche".  
-  
-Corso di laurea in matematica e fisica  
-  
-Art. 71. - Agli insegnamenti complementari del corso di laurea in matematica e fisica e' aggiunto quello di "calcolo delle probabilita'".  
-Art. 73. - E' abrogato e sostituito dal seguente:  
-"Nell'ordine degli esami per il corso di laurea in matematica e fisica dovranno essere rispettate le precedenze indicate negli articoli 67 e 70, valevoli per il corso di laurea in scienze matematiche".  
-  
-Corso di laurea in scienze naturali  
-  
-Art. 74. - Agli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti quelli di "biologia generale" e "geochimica".  
-Il comma quinto e' abrogato e sostituito dai seguenti:  
-"Gli insegnamenti biennali di botanica e di zoologia comprendono tanto la parte generale quanto quella sistematica e comportano ciascuno due esami distinti.  
-Il superamento dell'esame di botanica generale e di zoologia generale non e' condizione necessaria per la iscrizione ai corsi di botanica sistematica e di zoologia sistematica".  
-Art. 75. - Il terzo comma e' abrogato e sostituito dal seguente:  
-"Gli esami di botanica generale e di zoologia generale debbono precedere rispettivamente gli esami di botanica sistematica e di zoologia sistematica e questi ultimi debbono precedere l'esame di paleontologia".  
-Sono aggiunti i seguenti commi:  
-"L'esame di chimica generale deve precedere l'esame di mineralogia.  
-L'esame di mineralogia deve precedere l'esame di geologia".  
-Art. 76. - Il primo comma e' abrogato e sostituito dal seguente:  
-"A coloro che ottengono l'iscrizione in base ad una laurea giu' conseguita o che provengono da corsi di studio di altre lauree, e sempreche' siano in possesso del diploma di maturita' classica o scientifica, sono convalidati le iscrizioni delle materie in comune e gli esami relativi eventualmente gia' sostenuti; gli altri corsi o esami sono convalidati nel modo seguente: corsi vari di matematica per istituzioni di matematiche".  
-  
-Corso di laurea in scienze biologiche  
-  
-Art. 77. - Il comma quinto e' abrogato e sostituito dai seguenti:  
-"Gli insegnamenti biennali di botanica e di zoologia comprendono tanto la parte generale quanto quella sistematica e comportano ciascuno due esami distinti.  
-Il superamento dell'esame di botanica generale e di zoologia generale non e' condizione necessaria per la iscrizione ai corsi di botanica sistematica e di zoologia sistematica".  
-Art. 78. - Il comma terzo e' abrogato e sostituito dai seguenti:  
-"Gli esami di botanica generale e di zoologia generale debbono precedere rispettivamente gli esami di botanica sistematica e di zoologia sistematica e questi ultimi debbono precedere l'esame di paleontologia.  
-L'esame di zoologia deve precedere gli esami di anatomia comparata, di parassitologia e di entomologia agraria".  
-E' aggiunto il seguente comma:  
-"L'esame di istologia ed embriologia deve precedere l'esame di anatomia comparata".  
-  
-Corso di laurea in scienze geologiche  
-  
-Art. 79. - Agli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti: "giacimenti minerari", "oceanografia", "micropaleontologia", "paleoclimatologia" e "geologia dell'Appennino".  
-Art. 80. - L'ultimo comma e' abrogato e sostituito dal seguente:  
-"L'esame di mineralogia precede gli esami di "petrografia" e di "geologia".  
-Art. 81. - Il punto 4° del primo comma, "geologia e mineralogia applicata, o mineralogia o geologia per geologia applicata", e' soppresso.  
-Art. 84. - La seconda parte del punto b), relativo alle abbreviazioni di corso per l'iscrizione al corso di laurea in fisica, e' abrogata e sostituita dalla seguente:  
-"Dal biennio propedeutico d'ingegneria, gli studenti possono essere ammessi al secondo o al terzo anno a seconda degli studi fatti e degli esami superati, ma comunque a condizione di superare appositi colloqui integrativi sui corsi di analisi matematica e di fisica sperimentale".  
-La seconda parte del punto d), relativo alle abbreviazioni di corso per l'iscrizione al corso di laurea in matematica e fisica, e' abrogata e sostituita dalla seguente:  
-"Dal biennio propedeutico all'ingegneria gli studenti possono essere ammessi al secondo o al terzo anno del corso per la laurea in matematica e fisica a seconda degli studi fatti e degli esami superati, ma comunque a condizione di superare appositi colloqui integrativi sui corsi di analisi matematica e di fisica sperimentale".  
-Art. 87. - E' aggiunto il seguente comma:  
-"Su parere della Facolta' lo studente puo' essere chiamato a sostenere un colloquio di laurea che comprovi la sua cultura sugli argomenti fondamentali del corso di laurea seguito".  
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli da 126 a 140, relativi all'ordinamento degli studi per il conseguimento delle varie lauree rilasciate dalla facolta' di ingegneria, sono abrogati e sostituiti dai seguenti:   
+Art. 126 (ex 114). La facolta' di ingegneria comprende cinque anni di corso i primi due dei quali hanno funzione preminentemente propedeutica e saranno indicati ove occorre, col nome di "biennio" e gli altri, indicati, ove occorra, col nome di "triennio", hanno piu' specificamente indirizzo applicativo.   
+Art. 127 (ex 115). - La facolta' comprende i seguenti corsi di laurea in ingegneria:   
+1) ingegneria civile (sezioni edile, idraulica, trasporti);   
+2) ingegneria meccanica:   
+3) ingegneria elettrotecnica;   
+4) ingegneria chimica;   
+5) ingegneria aeronautica;   
+6) ingegneria elettronica;   
+7) ingegneria nucleare.   
+Per il conseguimento della laurea in ingegneria civile, sezione edile, dovranno essere superati 30 esami di insegnamento annuali (o equivalenti) di cui 19A, 7B e 4C; per la sezione trasporti 30 esami di insegnamento annuali (o equivalenti) di cui 18A, 6B e 6C; per la sezione idraulica 30 esami di insegnamento annuali (o equivalenti) di cui 18A, 10B e 2C.   
+Per il conseguimento della laurea in ingegneria meccanica dovranno essere superati 28 esami di insegnamento annuali (o equivalenti) di cui 18A, 4B e 6C.   
+Per il conseguimento della laurea in ingegneria elettrotecnica dovranno essere superati 27 esami di insegnamento annuali (o equivalenti) di cui 19A, 4B e 4C.   
+Per il conseguimento della laurea in ingegneria chimica dovranno essere superati 29 esami di insegnamento annuali (o equivalenti) di cui 19A, 7B e 3C.   
+Per il conseguimento della laurea in ingegneria aeronautica dovranno essere superati 29 esami di insegnamento annuali (o equivalenti) di cui 18A, 8B e 3C.   
+Per il conseguimento della laurea in ingegneria elettronica dovranno essere superati 28 (29) esami di insegnamento annuali (o equivalenti) di cui 18A, 6B e 4 (5)C. (I numeri tra parentesi si riferiscono all'indirizzo "avionica").   
+Per il conseguimento della laurea in ingegneria nucleare dovranno essere superati 30 esami di insegnamento annuali (o equivalenti) di cui 19A, 9B e 2C.   
+Art. 128 (ex 116). - Gli insegnamenti del biennio a norma dell'[art. 2 del decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53~art2), sono:   
+a) per tutti i corsi di laurea:   
+analisi matematica I;   
+geometria I;   
+fisica I;   
+chimica;   
+disegno (il corso di disegno potra' avere diverso contenuto per i diversi corsi di laurea);   
+analisi matematica II;   
+meccanica razionale;   
+fisica II;   
+b) il corso di geometria II di cui all'art. 2 del citato decreto sara' sostituito da:   
+chimica applicata per i corsi di laurea in ingegneria aeronautica e meccanica;   
+chimica organica per il corso di laurea in ingegneria chimica; disegno II per il corso di laurea in ingegneria civile, sezione edile;   
+tecnologia dei materiali e chimica applicata per il corso di laurea in ingegneria civile, sezione idraulica e trasporti;   
+meccanica delle macchine e macchine per il corso di laurea in ingegneria elettronica;   
+metodi di osservazione e di misura per il corso di laurea in ingegneria elettrotecnica;   
+tecnologie generali dei materiali per il corso di laurea in ingegneria nucleare;   
+c) oltre ai predetti saranno impartiti i seguenti insegnamenti: chimica applicata per il corso di laurea in ingegneria chimica; scienza delle costruzioni per il corso di laurea in ingegneria civile;   
+fisica atomica per il corso di laurea in ingegneria nucleare.   
+Art. 129 (ex 117).- Per ottenere l'iscrizione al 2° anno del biennio gli studenti dovranno avere superato almeno due fra i quattro seguenti esami: analisi matematica I, geometria I, fisica I, chimica.   
+Art. 130 (ex 118). - Per essere ammessi al 3° anno di corso gli   
+studenti dovranno avere superato tutti gli esami di cui ai commi a) e b) dell'art. 128. Lo studente, tuttavia, che sia in debito anche di un solo esame a sua scelta del 2° anno di corso, potra' ugualmente essere iscritto al 3° anno, con obbligo di superare tale esame prima di sostenere qualsiasi esame del triennio di applicazione ([decreto del Presidente della Repubblica 15 aprile 1965, n. 572 - Gazzetta Ufficiale n. 173 del 4 giugno 1965](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1965-06-04&numeroGazzetta=173)).   
+Art. 131 (ex 119). - Gli esami del triennio sono i seguenti:   
+Per il corso di laurea in ingegneria aeronautica:   
+a) obbligatori sul piano nazionale:   
+scienza delle costruzioni;   
+meccanica applicata alle macchine;   
+fisica tecnica;   
+elettrotecnica;   
+aerodinamica;   
+aeronautica generale;   
+motori per aeromobili;   
+costruzioni aeronautiche;   
+gasdinamica;   
+b) obbligatori sul piano della facolta':   
+calcoli numerici, grafici, meccanici ed elettronici;   
+aerodinamica sperimentale ed applicata;   
+strutture aeronautiche;   
+costruzione di macchine;   
+tecnologie speciali aeronautiche;   
+servomeccanismi;   
+dinamica del volo;   
+tecnologia meccanica.   
+Per il corso di laurea in ingegneria chimica:   
+a) obbligatori sul piano nazionale:   
+scienza delle costruzioni;   
+meccanica applicata alle macchine;   
+fisica tecnica;   
+elettrotecnica;   
+chimica fisica;   
+macchine;   
+principi di ingegneria chimica;   
+impianti chimici;   
+chimica industriale;   
+b) obbligatori sul piano della facolta':   
+principi di ingegneria chimica II;   
+calcoli numerici, grafici, meccanici ed elettronici;   
+processi chimici fondamentali;   
+economia ed organizzazione aziendale (corso speciale per ingegneri chimici);   
+costruzione di apparecchiature chimiche;   
+processi ed apparecchiature di trasferimento;   
+chimica analitica e strumentazione.   
+Per il corso di laurea in ingegneria civile, comuni a tutte le sezioni:   
+a) obbligatori sul piano nazionale:   
+meccanica applicata alle macchine e macchine;   
+elettrotecnica;   
+fisica tecnica;   
+idraulica;   
+architettura tecnica;   
+tecnica delle costruzioni;   
+topografia;   
+b) obbligatori sul piano della facolta':   
+scienza delle costruzioni II;   
+materie giuridiche;   
+economia ed estimo.   
+Per il corso di laurea in ingegneria civile, sezione edile:   
+a) obbligatori sul piano nazionale:   
+tecnologia dei materiali e chimica applicata;   
+architettura e composizione architettonica I;   
+b) obbligatori sul piano della facolta':   
+costruzione di strade, ferrovie ed aeroporti;   
+igiene applicata;   
+architettura tecnica II;   
+tecnica urbanistica.   
+Per il corso di laurea in ingegneria civile, sezione idraulica:   
+a) obbligatori sul piano nazionale:   
+costruzioni idrauliche;   
+b) obbligatori sul piano della facolta':   
+costruzione di strade, ferrovie ed aeroporti;   
+igiene applicata;   
+impianti speciali idraulici;   
+geotecnica;   
+idromeccanica applicata;   
+idraulica sanitaria;   
+geologia applicata.   
+Per il corso di laurea in ingegneria civile, sezione trasporti:   
+a) obbligatori sul piano nazionale:   
+costruzione di strade, ferrovie ed aeroporti;   
+b) obbligatori sul piano della facolta':   
+geotecnica;   
+tecnica ed economia dei trasporti;   
+geologia applicata.   
+Per il corso di laurea in ingegneria elettronica:   
+a) obbligatori sul piano nazionale:   
+scienza delle costruzioni;   
+elettrotecnica;   
+fisica tecnica;   
+elettronica applicata;   
+misure elettriche;   
+comunicazioni elettriche;   
+campi elettromagnetici e circuiti;   
+controlli automatici;   
+radiotecnica;   
+b) obbligatori sul piano della facolta':   
+elettronica generale;   
+teoria dei segnali;   
+reti logiche e tecniche digitali;   
+macchine elettriche;   
+
+((misure))
+
+elettroniche;   
+calcoli numerici, grafici, meccanici ed elettronici.   
+Per il corso di laurea in ingegneria elettrotecnica:   
+a) obbligatori sul piano nazionale:   
+scienza delle costruzioni;   
+meccanica applicata alle macchine;   
+elettrotecnica;   
+fisica tecnica;   
+idraulica;   
+macchine;   
+elettronica applicata;   
+misure elettriche;   
+macchine elettriche;   
+impianti elettrici;   
+b) obbligatori sul piano della facolta':   
+complementi di matematica;   
+costruzione di macchine elettriche;   
+tecnologia e costruzione di macchine;   
+controlli automatici.   
+Per il corso di laurea in ingegneria meccanica:   
+a) obbligatori sul piano nazionale:   
+scienza delle costruzioni;   
+meccanica applicata alle macchine;   
+fisica tecnica;   
+elettrotecnica;   
+idraulica;   
+tecnologia meccanica;   
+macchine;   
+costruzione di macchine;   
+impianti meccanici;   
+b) obbligatori sul piano della facolta':   
+scienza dei metalli;   
+economia ed organizzazione aziendale;   
+complementi di tecnologia meccanica e studi di fabbricazione; calcolo e progetto di macchine.   
+Per il corso di laurea in ingegneria nucleare:   
+a) obbligatori sul piano nazionale:   
+scienza delle costruzioni;   
+meccanica delle macchine;   
+fisica tecnica;   
+elettrotecnica;   
+fisica nucleare;   
+macchine;   
+elettronica nucleare;   
+fisica del reattore nucleare;   
+impianti nucleari;   
+b) obbligatori sul piano della facolta':   
+metallurgia dei materiali nucleari;   
+tecnologia meccanica;   
+costruzione di macchine;   
+calcoli numerici, grafici, meccanici ed elettronici;   
+strumentazione e misure nucleari;   
+controllo dei reattori nucleari;   
+costruzioni nucleari;   
+ingegneria del nocciolo;   
+protezione e sicurezza negli impianti nucleari.   
+I restanti corsi per il raggiungimento del numero previsto dall'ultimo comma dell'[art. 8 del decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53~art8), per ogni corso di laurea, sono a scelta dello studente.   
+Gli insegnamenti a scelta dello studente sono indicati nell'elenco di cui all'art. 132.   
+Da tale elenco la facolta' trarra' per i singoli corsi di laurea le materie da attivare che indichera', anno per anno, nel manifesto degli studi. Nel manifesto pero' le materie non figureranno isolate, ma raggruppate a costituire indirizzi di specializzazione.   
+Art. 132 (ex 120). - Insegnamenti complementari:   
+aeroelasticita';   
+analisi degli incidenti nucleari;   
+analisi del valore e analisi di mercato;   
+analisi e sviluppo dei progetti;   
+applicazioni elettromeccaniche;   
+architettura e composizione architettonica II;   
+calcoli numerici, grafici, meccanici ed elettronici;   
+catalisi industriale;   
+centrali elettriche;   
+calcolatori elettronici;   
+chimica macromolecolare;   
+complementi di costruzione di macchine elettriche;   
+complementi di costruzione di strade, ferrovie ed aeroporti;   
+complementi di impianti meccanici;   
+complementi di impianti nucleari;   
+complementi di macchine;   
+complementi di macchine elettriche;   
+complementi di matematica;   
+complementi di matematica (semestrale);   
+complementi di misure elettriche;   
+complementi di scienza delle costruzioni;   
+complementi di tecnica delle costruzioni;   
+componenti elettronici;   
+composizione urbanistica;   
+controllo numerico delle macchine utensili;   
+conversione diretta di energia;   
+costruzione di autoveicoli;   
+costruzione di materiale ferroviario;   
+costruzione di macchine utensili;   
+costruzioni idrauliche;   
+dinamica dei gas rarefatti;   
+dinamica delle strutture;   
+dinamica e controllo dei processi chimici;   
+economia ed esercizio degli impianti elettrici;   
+economia ed organizzazione aziendale;   
+elementi di elettronica;   
+elementi di elettronica e radiotrasmissioni;   
+elettronica applicata;   
+elettronica industriale;   
+elettronica per telecomunicazioni;   
+elettronica quantistica;   
+geologia applicata;   
+geotecnica;   
+gestione e rilevazione aziendale;   
+idraulica fluviale e costiera;   
+idraulica sanitaria;   
+idrologia;   
+impianti di bordo e di navigazione;   
+impianti elettrici navali;   
+impianti e reattori nucleari;   
+impianti nucleari di potenza;   
+impianti per telecomunicazioni;   
+impianti termici;   
+istituzione di aeronautica;   
+lavorazioni meccaniche speciali;   
+macchine per l'elaborazione dell'informazione;   
+materie giuridiche;   
+meccanica aerospaziale;   
+meccanica agraria;   
+meccanica delle strutture;   
+metodi di osservazione e misura;   
+metodi variazionali;   
+metodologia statistica;   
+metrologia tecnologica;   
+missilistica;   
+motori per aeromobili;   
+pianificazione dei trasporti;   
+pianificazione territoriale;   
+ponti e strutture speciali;   
+ponti radio;   
+processi e tecnologie di produzione di plastomeri, elastomeri e fibre;   
+progetto e sperimentazione di motori per autoveicoli;   
+proprieta' fisiche e tecnologiche degli alti polimeri;   
+prove su macchine e impianti elettrici;   
+radioaiuti alla navigazione;   
+reattori chimici;   
+regolazione delle macchine elettriche;   
+regolazione delle macchine e degli impianti meccanici;   
+regolazione ed esercizio degli impianti nucleari (semestrale);   
+reti logiche e tecniche digitali;   
+ricerca operativa;   
+scienza dei metalli;   
+siderurgia;   
+sistemi di guida e navigazione;   
+sistemi di programmazione;   
+sistemi operativi;   
+sociologia urbana;   
+statistica e ricerca operativa;   
+storia della citta' e del territorio;   
+strumentazione e circuiti a fluido;   
+strumentazione misure elettroniche;   
+tecnica degli endoreattori;   
+tecnica degli impianti di trasporto;   
+tecnica degli impianti elettrici;   
+tecnica dei lavori stradali, ferroviari ed aeroportuali;   
+tecnica della circolazione e traffico stradale;   
+tecnica della sperimentazione delle strutture;   
+tecnica delle alte tensioni;   
+tecnica delle comunicazioni elettriche;   
+tecnica ed economia dei trasporti;   
+tecnica ed economia dei trasporti aerei;   
+tecnica urbanistica;   
+tecniche ed impianti anti-inquinamento;   
+tecniche organizzative;   
+tecnologie chimiche, inorganiche (e nucleari);   
+tecnologie elettroniche;   
+tecnologie generali ed industrializzazione dell'edilizia;   
+tecnologie petrolchimiche;   
+teoria dei sistemi di comunicazione;   
+teoria dell'informazione e della trasmissione;   
+teoria e sviluppo dei processi chimici;   
+teoria e tecnica dei sistemi di guida aeromissilistici;   
+teoria e tecnica radar;   
+topografia operativa;   
+trasporti aerei e navali;   
+trazione elettrica.   
+Art. 133 (ex 121). - Le materie sopra elencate per i vari corsi di laurea saranno corredate da esercitazioni scritte orali, grafiche e pratiche nella misura e nei modi stabiliti dal consiglio di facolta'.   
+Art. 134 (ex 122). Discipline dello stesso nome comuni a piu' corsi di laurea, potranno avere diverso svolgimento, in conformita' dei programmi stabiliti di anno in anno dal consiglio di facolta'.   
+Art. 135 (ex 123). - Per essere ammesso all'esame di laurea lo studente dovra' avere seguito tutti i corsi obbligatori per ogni corso di laurea sia sul piano nazionale, sia sul piano locale, nonche' quelli di uno dei gruppi a scelta indicati per ciascun corso di laurea e superati i relativi esami.   
+Art. 136 (ex 124). - Gli studenti dovranno dichiarare all'atto dell'iscrizione al primo anno della facolta' a quale corso di laurea intendono iscriversi. Gli studenti che seguono il corso di laurea in ingegneria civile dovranno dichiarare inoltre all'atto dell'iscrizione al 2° anno di corso, a quale sezione intendono iscriversi.   
+Potra' essere concesso il passaggio da un corso di laurea ad un altro o da una sezione ad un'altra sezione quando cio' sia ritenuto possibile dal consiglio di facolta' ed alle condizioni che saranno da esse indicate.   
+Art. 137 (ex 125). - Il consiglio di facolta' puo' integrare gli insegnamenti ufficiali con conferenze, sia di carattere sintetico, sia di carattere complementare, su speciali argomenti specifici e tecnici, affidandole a professori ufficiali, a liberi docenti o a persone di riconosciuta competenza.   
+Art. 138 (ex 126). - Gli esami di profitto consistono in prove orali, grafiche, scritte e pratiche secondo le modalita' stabilite per ciascun esame dal consiglio di facolta'.   
+Valgono per l'ammissione agli esami speciali le seguenti condizioni di precedenza:   
+Biennio:   
+analisi matematica II (analisi matematica I);   
+chimica applicata (chimica);   
+chimica organica (chimica);   
+disegno II (disegno);   
+fisica II (fisica);   
+fisica atomica (fisica I, analisi matematica I, chimica);   
+meccanica delle macchine e macchine (disegno, fisica I);   
+meccanica razionale (analisi matematica I);   
+scienza delle costruzioni (geometria, fisica I, analisi matematica I);   
+tecnologie generali dei materiali (chimica);   
+tecnologia dei materiali e chimica applicata (chimica);   
+Triennio:   
+aerodinamica sperimentale ed applicata (aerodinamica);   
+analisi del valore e analisi di mercato (economia ed organizzazione aziendale, complementi di tecnologia meccanica e studi di fabbricazione);   
+analisi e sviluppo dei progetti (calcoli numerici, grafici,   
+meccanici ed elettronici, processi chimici fondamentali, processi ed apparecchiature di trasferimento, principi di ingegneria chimica II);   
+analisi degli incidenti nucleari (fisica del reattore nucleare,   
+fisica tecnica);   
+applicazioni elettromeccaniche (macchine elettriche);   
+architettura e composizione architettonica II (architettura e composizione architettonica I);   
+architettura tecnica II (architettura tecnica);   
+campi elettromagnetici e circuiti (elettrotecnica);   
+calcolatori elettronici (reti logiche e tecniche digitali);   
+catalisi industriale (calcoli numerici, grafici, meccanici ed elettronici, processi chimici fondamentali, processi ed apparecchiature di trasferimento, principi di ingegneria e chimica II);   
+centrali elettriche (idraulica, macchine, elettrotecnica);   
+calcolo e progetto di macchine (meccanica applicata alle macchine e scienza delle costruzioni);   
+chimica industriale (processi chimici fondamentali, processi e apparecchiature di trasferimento, principi di ingegneria chimica II, chimica analitica e strumentazione, economia ed organizzazione aziendale);   
+chimica macromolecolare (calcoli numerici, grafici, meccanici ed elettronici, processi chimici fondamentali, processi ed   
+apparecchiature di trasferimento, principi di
+
+((ingegneria))
+
+chimica II);   
+complementi di costruzione di macchine elettriche (macchine   
+elettriche);   
+complementi di impianti nucleari (macchine);   
+impianti elettrici (elettrotecnica);   
+impianti elettrici navali (macchine elettriche);   
+impianti meccanici (complementi di tecnologia meccanica e studi di fabbricazione);   
+impianti nucleari (macchine);   
+impianti e reattori nucleari (macchine, macchine elettriche); impianti nucleari di potenza (macchine);   
+impianti per telecomunicazioni (elettronica applicata, comunicazioni elettriche);   
+impianti tecnici (fisica tecnica, macchine);   
+ingegneria del nocciolo (fisica tecnica, fisica del reattore nucleare);   
+lavorazioni meccaniche speciali (complementi di tecnologia meccanica e studi di fabbricazione);   
+macchine (meccanica applicata alle macchine, fisica tecnica); macchine elettriche (elettrotecnica);   
+macchine per l'elaborazione dell'informazione (reti logiche e tecniche digitali);   
+meccanica aerospaziale (istituzioni di aeronautica);   
+meccanica agraria (meccanica applicata alle macchine);   
+meccanica delle strutture (meccanica applicata alle macchine, scienza delle costruzioni);   
+misure elettriche (elettrotecnica);   
+misure elettroniche (elettronica applicata, misure elettriche);   
+motori per aeromobili (meccanica applicata alle macchine,   
+fisica tecnica);   
+ponti radio (elettronica applicata, comunicazioni elettriche); ponti e strutture speciali (tecnica delle costruzioni);   
+principi di ingegneria, ingegneria chimica II (principi di ingegneria chimica, chimica fisica);   
+processi chimici fondamentali (chimica fisica, chimica applicata);   
+processi ed apparecchiature di trasferimento (principi di ingegneria chimica, chimica fisica, fisica tecnica);   
+processi e tecnologie di produzione di plastomeri, elastomeri e fibre (calcoli numerici, grafici, meccanici ed elettronici, processi chimici fondamentali, processi ed apparecchiature di trasferimento, principi di ingegneria chimica II);   
+proprieta' fisiche e tecnologiche degli alti polimeri (calcoli numerici, grafici, meccanici ed elettronici, processi chimici fondamentali, processi ed apparecchiature di trasferimento, principi di ingegneria chimica II);   
+prove su macchine e impianti elettrici (macchine elettriche, misure elettriche);   
+protezione e sicurezza negli impianti nucleari (macchine, elettronica nucleare, fisica del reattore nucleare);   
+radioaiuti alla navigazione (comunicazioni elettriche, elettronica applicata);   
+reattori chimici (calcoli numerici, grafici, meccanici ed   
+elettronici, processi chimici fondamentali, processi ed   
+apparecchiature di trasferimento, principi di ingegneria chimica II);   
+radiotecnica (comunicazioni elettriche, elettronica applicata);   
+regolazione delle macchine elettriche (elettronica applicata,   
+macchine elettriche);   
+regolazione ed esercizio degli impianti nucleari (elettronica nucleare, fisica del reattore nucleare, macchine);   
+reti logiche e tecniche digitali (elettronica generale);   
+ricerca operativa (metodologia statistica);   
+scienza dei metalli (chimica applicata);   
+scienza dei metalli (corso di laurea in ingegneria chimica) (calcoli numerici, grafici, meccanici ed elettronici, processi chimici fondamentali, processi ed apparecchiature di trasferimento, principi di ingegneria chimica II);   
+scienza delle costruzioni II (scienza delle costruzioni);   
+servomeccanismi (meccanica applicata alle macchine);   
+siderurgia (calcoli numerici, grafici, meccanici ed   
+elettronici, processi chimici fondamentali, processi ed   
+apparecchiature di trasferimento, principi di ingegneria chimica II); sistemi di programmazione (reti logiche e tecniche digitali);   
+sistemi operativi (reti logiche e tecniche digitali);   
+complementi di costruzione di strade, ferrovie ed aeroporti (costruzione di strade, ferrovie ed aeroporti);   
+complementi di macchine (macchine);   
+complementi di macchine elettriche (macchine elettriche);   
+complementi di misure elettriche (misure elettriche);   
+complementi di scienza delle costruzioni (scienza delle costruzioni II);   
+complementi di tecnica delle costruzioni (tecnica delle costruzioni);   
+complementi di tecnologia meccanica (studi di fabbricazione, tecnologia meccanica);   
+componenti elettronici (elettronica applicata);   
+composizione urbanistica (tecnica urbanistica);   
+comunicazioni elettriche (elettrotecnica, teoria dei segnali); controlli automatici (corso di laurea in ingegneria elettrotecnica) (elettronica applicata, complementi di matematica); controlli automatici (corso di laurea in ingegneria elettronica) (elettronica applicata);   
+controllo dei reattori nucleari (elettronica nucleare, fisica del reattore nucleare, fisica tecnica);   
+controllo numerico delle macchine utensili (regolazione delle macchine e degli impianti meccanici);   
+costruzione di apparecchiature chimiche (scienza delle costruzioni, meccanica applicata alle macchine);   
+costruzione di macchine (meccanica applicata alle macchine, scienza delle costruzioni, tecnologia meccanica);   
+costruzione di macchine elettriche (macchine elettriche);   
+costruzione di macchine utensili (complementi di tecnologia meccanica e studi di fabbricazione);   
+costruzioni aeronautiche (aeronautica generale, calcoli   
+numerici, grafici, meccanici ed elettronici, strutture aeronautiche);   
+costruzione di autoveicoli (meccanica applicata alle macchine,   
+scienza delle costruzioni, tecnologia meccanica);   
+costruzione di materiale ferroviario (meccanica applicata alle macchine, scienza delle costruzioni, tecnologia meccanica);   
+costruzioni idrauliche (idraulica);   
+costruzioni nucleari (scienza delle costruzioni);   
+dinamica delle strutture (scienza delle costruzioni II);   
+dinamica del volo (aeronautica generale);   
+dinamica e controllo dei processi chimici (calcoli numerici, grafici, meccanici ed elettronici, processi chimici fondamentali, processi ed apparecchiature di trasferimento, principi di ingegneria chimica II);   
+economia ed esercizio degli impianti elettrici (impianti elettrici);   
+elementi di elettronica (elettrotecnica);   
+elettronica industriale (elettronica applicata);   
+elettrochimica e tecnologie elettrochimiche (calcoli numerici, grafici, meccanici ed elettronici, processi ed apparecchiature di trasferimento, principi di ingegneria chimica II);   
+elettronica applicata (corso di laurea in ingegneria elettronica) (elettronica generale);   
+elettronica applicata (corso di laurea in ingegneria elettrotecnica) (elettrotecnica);   
+elettronica generale (elettrotecnica);   
+elettronica nucleare (elettrotecnica);   
+elettronica per telecomunicazioni (elettronica applicata, comunicazioni elettriche);   
+elettronica quantistica (elettronica generale);   
+fisica nucleare (fisica atomica);   
+fisica del reattore nucleare (fisica atomica, fisica nucleare); geotecnica (scienza delle costruzioni, idraulica);   
+idraulica sanitaria (idraulica);   
+idraulica fluviale e costiera (idraulica);   
+idromeccanica applicata (idraulica);   
+impianti chimici (processi chimici fondamentali, principi di ingegneria chimica II, processi ed apparecchiature di trasferimento, costruzione di apparecchiature chimiche, economia ed organizzazione aziendale);   
+strumentazione e misure elettroniche (elettronica applicata); strumentazione e misure nucleari (fisica atomica, fisica nucleare);   
+strutture aeronautiche (scienza delle costruzioni);   
+tecnica delle alte tensioni (misure elettriche);   
+tecnica delle comunicazioni elettriche (comunicazioni elettriche);   
+tecnica delle costruzioni (scienza delle costruzioni II);   
+tecnica degli impianti elettrici (impianti elettrici);   
+tecniche ed impianti anti-inquinamento (calcoli numerici, grafici, meccanici ed elettronici, processi chimici fondamentali, processi ed apparecchiature di trasferimento, principi di ingegneria chimica II, chimica analitica e strumentazione);   
+tecniche organizzative (economia ed organizzazione aziendale); tecnologia e costruzione di macchine (meccanica applicata alle macchine, scienza delle costruzioni);   
+tecnologie chimiche inorganiche (e nucleari) (calcoli numerici, grafici, meccanici ed elettronici, processi chimici fondamentali, processi ed apparecchiature di trasferimento, principi di ingegneria chimica II);   
+tecnologie elettroniche (elettronica applicata);   
+tecnologie petrolchimiche (calcoli numerici, grafici, meccanici   
+ed elettronici, processi chimici fondamentali, processi ed   
+apparecchiature di trasferimento, principi di ingegneria chimica II); tecnologie speciali aeronautiche (tecnologia meccanica);   
+teoria dei sistemi di comunicazione (comunicazioni   
+elettriche); teoria dell'informazione e della trasmissione (comunicazioni   
+elettriche);   
+teoria e tecnica dei sistemi di guida aeromissilistici (corso di laurea in ingegneria elettronica) (comunicazioni elettriche);   
+teoria e sviluppo dei processi chimici (calcoli numerici, grafici, meccanici ed elettronici, processi chimici fondamentali, processi ed apparecchiature di trasferimento, principi di ingegneria chimica II);   
+teoria e tecnica radar (comunicazioni elettriche);   
+topografia operativa (topografia);   
+trazione elettrica (elettrotecnica);   
+tecnica della sperimentazione delle strutture (scienza delle costruzioni II).   
+Art. 139 (ex 127). - L'esame di laurea consiste in una prova di cultura sulle materie obbligatorie (sia sul piano nazionale, sia sul piano della facolta) relativa al corso di studi seguito dal candidato e nella discussione orale di un elaborato costituito da un progetto o dalla relazione di una ricerca tecnica attinenti al corso di laurea ed alla sezione cui appartiene il candidato, elaborato redatto sotto la guida e la sorveglianza di almeno due professori ufficiali. Gli argomenti oggetto del predetto elaborato dovranno avere preventivo assenso dei relatori e del preside.   
+Le modalita' per la prova di cultura generale (scritta, orale, grafica e pratica) saranno stabilite di anno in anno dal consiglio di facolta'.   
+Art. 140 (ex 128). - Gli istituti scientifici della facolta' sono i seguenti:   
+istituto di aeronautica;   
+istituto di architettura e urbanistica;   
+istituto di chimica generale;   
+istituto di chimica industriale ed applicata;   
+istituto di costruzioni stradali e trasporti;   
+istituto di elettronica e telecomunicazioni;   
+istituto di elettrotecnica;   
+istituto di fisica generale ed applicata;   
+istituto di geodesia, topografia e fotogrammetria;   
+istituto di idraulica;   
+istituto di impianti nucleari;   
+istituto di macchine e meccanica agraria;   
+istituto di matematiche applicate "Ulisse Dini";   
+istituto di meccanica applicata e costruzione di macchine;   
+istituto di scienza delle costruzioni;   
+istituto di tecnologia meccanica.   
+Due o piu' dei predetti istituti potranno essere temporaneamente raggruppati su deliberazione del consiglio di facolta' in considerazione di particolari situazioni di carattere transitorio.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 ottobre 1955
+### Dato a Roma, addi' 26 ottobre 1977
 
-GRONCHI ROSSI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 18 novembre 1955
+Registrato alla Corte dei conti, addi' 25 luglio 1978
 
-Atti del Governo, registro n. 93, foglio n. 184. - CARLOMAGNO
+Registro n. 83 Istruzione, foglio n. 137

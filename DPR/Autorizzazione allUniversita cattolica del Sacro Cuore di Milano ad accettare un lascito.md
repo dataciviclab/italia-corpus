@@ -1,19 +1,18 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1955 n. 660
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 settembre 1950 n. 893
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1955 n. 660
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 settembre 1950 n. 893
+================================================================
 
-Autorizzazione all'Universita' cattolica del Sacro Cuore di Milano ad accettare un lascito.
--------------------------------------------------------------------------------------------
+Autorizzazione all'Universita' cattolica del Sacro Cuore di Milano, ad accettare un lascito.
+--------------------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-660. Decreto del Presidente della Repubblica 30 giugno 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' cattolica del Sacro Cuore di Milano viene autorizzata a conseguire un legato della somma di L. 600.000 (seicentomila), disposto in suo favore dalla sig.na Livia Costa.  
+893. Decreto del Presidente della Repubblica 21 settembre 1050, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' cattolica del Sacro Onore di Milano, viene autorizzata ad accettare la somma di L. 50.000 in cartelle fondiarie, legata in suo favore dal defunto sig. Giovanni Colli, con testamento pubblico in data 17 giugno 1944, per atti del notaio dott. Carlo Nogara di Milano, al n. 40 di repertorio, per l'istituzione di un premio di studio quinquennale, da intitolarsi al proprio nome.  
   
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 3 agosto 1955  
-Atti del Governo, registro n. 92, foglio n. 21. - CARLOMAGNO
+Visto, il Guardasigilli: PICCIONI  
+Registrato alla Corte dei conti, addi' 14 novembre 1950

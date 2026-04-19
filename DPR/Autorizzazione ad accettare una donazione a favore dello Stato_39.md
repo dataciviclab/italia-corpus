@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1977 n. 80
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1978 n. 387
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1977 n. 80
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1978 n. 387
 =============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-80. Decreto del Presidente della Repubblica 21 gennaio 1977, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dalla S.A.N.E. S.p.a. per il commercio e il traffico marittimo con l'Africa, in liquidazione, con atto 9 dicembre 1974, n. 10182 di repertorio, a rogito notaio Arnaldo Spicacci, concernente l'immobile-magazzino sito in Genova, quartiere S.  
-Lorenzo, alla via Davide Oliva n. 2.  
+387. Decreto del Presidente della Repubblica 3 maggio 1978, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione disposta dalla sig.ra Maria Arrighi vedova Jesi con atto di donazione 21 luglio 1976, n. 32603 di repertorio, a rogito dott. Domenico Acquarone, notaio in Milano, consistente in una collezione composta di quarantotto quadri e cinque sculture che testimoniano l'arte figurativa italiana degli ultimi anni dell'800 e dei primi del 900, i quali rivestono un importante interesse storico e artistico, da destinare alla Pinacoteca nazionale di Brera, in Milano.  
   
 Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 16 marzo 1977  
-Registro n. 13 Finanze, foglio n. 304
+Registrato alla Corte dei conti, addi' 10 luglio 1978  
+Registro n. 9 Beni culturali, foglio n. 313

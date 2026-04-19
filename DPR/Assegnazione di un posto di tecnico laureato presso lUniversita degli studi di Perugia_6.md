@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 gennaio 1982 n. 701
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1049
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 gennaio 1982 n. 701
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1049
+================================================================
 
 Assegnazione di un posto di tecnico laureato presso l'Universita' degli studi di Perugia.
 -----------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Assegnazione di un posto di tecnico laureato presso l'Universita' degli studi di
 Art. 1
 ------
 
-N.
+n.
 
-701. Decreto del Presidente della Repubblica 6 gennaio 1982, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di filosofia della facolta' di lettere e filosofia dell'Universita' di Perugia.  
+1049. Decreto del Presidente della Repubblica 31 dicembre 1985, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di microbiologia (per le esigenze della cattedra di microbiologia medica) per il corso di laurea in odontoiatria e protesi dentaria della facolta' di medicina e chirurgia dell'Universita' di Perugia.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 28 settembre 1982  
-Registro n. 112 Istruzione, foglio n. 362
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 12 aprile 1986  
+Registro n. 27 Istruzione, foglio n. 331

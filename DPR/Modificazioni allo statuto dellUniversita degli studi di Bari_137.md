@@ -1,45 +1,374 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1958 n. 901
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979 n. 579
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1958 n. 901
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979 n. 579
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 102 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono apportate le seguenti modifiche:
+
+la scuola di specializzazione in anatomia e istologia patologica muta la denominazione in quella di scuola di specializzazione in anatomia patologica;
+
+la scuola di specializzazione in chirurgia muta la denominazione in quella di scuola di specializzazione in chirurgia generale;
+
+la scuola di specializzazione in oculistica muta la denominazione in quella di scuola di specializzazione in oftalmologia;
+
+la scuola di specializzazione in odontoiatria e protesi dentaria muta la denominazione in quella di scuola di specializzazione in odontostomatologia.
+
+Gli articoli 207, 208 e 209, relativi alla scuola di specializzazione in anatomia e istologia patologica, che muta la denominazione in quella di scuola di specializzazione in anatomia patologica, sono soppressi e sostituiti dai seguenti:
+
+Scuola di specializzazione in anatomia patologica
+
+Art. 207. - La scuola di specializzazione in anatomia patologica ha sede presso l'istituto di anatomia patologica e conferisce il diploma di specialista in anatomia patologica.
+
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della specializzazione e, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
+
+Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di quaranta per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Art. 208. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+anatomia patologica sistematica II;
+
+tecnica delle autopsie;
+
+diagnostica anatomo-patologica macroscopica I;
+
+tecniche istologiche ed istochimiche.
+
+2° Anno:
+
+anatomia patologica sistematica II;
+
+diagnostica anatomopatologica macroscopica II;
+
+diagnostica istopatologica I;
+
+tecniche e diagnostica citologica e citogenetica.
+
+3° Anno:
+
+diagnostica istopatologica II;
+
+tecniche di microscopia elettronica e biologia ultrastrutturale;
+
+immunopatologia.
+
+4° Anno:
+
+diagnostica istopatologica III;
+
+diagnostica isto-citopatologica ultrastrutturale;
+
+diagnostica autoptica medico legale ed elementi di legislazione sanitaria;
+
+applicazioni statistiche ed epidemiologiche.
+
+Art. 209. - La frequenza alle lezioni, alle esercitazioni pratiche, e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.
+
+Alla fine di ogni corso gli iscritti per essere ammessi agli anni successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi. Al termine del corso di studi per il conseguimento del diploma di specialista in anatomia patologica gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+La scuola di specializzazione in chirurgia di cui all'art. 217 muta la denominazione in quella di scuola di specializzazione in chirurgia generale.
+
+La scuola di specializzazione in oculistica di cui all'art. 247 muta la denominazione in quella di scuola di specializzazione in oftalmologia.
+
+Gli articoli 215 e 216, relativi alla scuola di specializzazione in cardioangiochirurgia, sono soppressi e sostituiti dai seguenti:
+
+Scuola di specializzazione in cardioangiochirurgia
+
+Art. 215. - La scuola di specializzazione in cardioangiochirurgia ha sede presso l'istituto di cardiochirurgia dell'Universita' di Bari e conferisce il diploma di specialista in cardioangiochirurgia.
+
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.
+
+Il numero degli allievi e' di cinque per anno di corso e complessivamente di venticinque iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Art. 216. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+embriologia e teratologia;
+
+anatomia descrittiva e topografica generale con particolare riguardo all'apparato cardiocircolatorio (biennale) I;
+
+patologia chirurgica generale;
+
+fisiologia dell'apparato cardiocircolatorio;
+
+radiologia generale;
+
+semeiotica clinica delle cardiopatie chirurgiche;
+
+principi di informatica medica;
+
+elementi di ingegneria medica.
+
+2° Anno:
+
+anatomia descrittiva e topografica generale con particolare riguardo all'apparato cardiocircolatorio (biennale) II;
+
+clinica chirurgica generale;
+
+anatomia ed istologia patologica con particolare riguardo all'apparato cardiocircolatorio (biennale) I;
+
+cardioangioradiologia (biennale) I;
+
+semeiotica strumentale delle cardiopatie chirurgiche;
+
+elementi di anestesia e rianimazione;
+
+fisiopatologia respiratoria;
+
+fisiopatologia cardiocircolatoria (biennale) I;
+
+patologia e clinica delle angiopatie chirurgiche.
+
+3° Anno:
+
+anatomia ed istologia patologica con particolare riguardo all'apparato cardiocircolatorio (biennale) II;
+
+cardioangioradiologia (biennale) II;
+
+semeiotica di laboratorio delle cardiopatie chirurgiche;
+
+semeiotica angiologica;
+
+cardiologia medica (biennale) I;
+
+terapia chirurgica e tecnica operatoria delle malattie di cuore e dei grossi vasi (triennale) I;
+
+principi tecniche della circolazione extra-corporea;
+
+fisiopatologia cardiocircolatoria (biennale) II;
+
+patologia e clinica delle cardiopatie chirurgiche (biennale) I.
+
+4° Anno:
+
+cardiologia medica (biennale) II;
+
+angiologia medica;
+
+terapia chirurgica e tecnica operatoria delle malattie del cuore e dei grossi vasi (triennale) II;
+
+terapia chirurgica e tecnica operatoria delle vasculopatie periferiche;
+
+terapia intensiva (biennale) I;
+
+patologia e clinica cardiologica pediatrica;
+
+cardiochirurgia pediatrica (biennale) I;
+
+patologia e clinica delle cardiopatie chirurgiche (biennale) II.
+
+5° Anno:
+
+terapia chirurgica e tecnica operatoria delle malattie del cuore e dei grossi vasi (triennale) III;
+
+terapia intensiva (biennale) II;
+
+cardiochirurgia pediatrica (biennale) II;
+
+assistenza meccanica cardiocircolatoria.
+
+La frequenza alle lezioni ed alle esercitazioni e' obbligatoria.
+
+Gli allievi che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le prove di esame.
+
+Alla fine di ogni corso gli iscritti devono sostenere i relativi esami, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo; per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.
+
+Alla fine del quinto anno, dopo aver superato tutti gli esami, ha luogo l'esame di diploma consistente nella discussione di una dissertazione scritta su un argomento attinente alla specializzazione e la cui scelta sia stata concordata tra diplomando e direttore della scuola.
+
+L'art. 248, relativo alla scuola di specializzazione in odontoiatria e protesi dentaria, che muta la denominazione in quella di scuola di specializzazione in odontostomatologia, e' integrato con il seguente nuovo comma:
+
+"Alla scuola possono iscriversi soltanto i laureati in medicina e chirurgia".
+
+Il quinto comma del suddetto art. 248 e' soppresso e sostituito dal seguente:
+
+"L'ammissione alla scuola avverra' in seguito a concorso per titoli ed esami scritti ed orali".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 4 giugno 1979
+
+PERTINI
+
+SPADOLINI
+
+Visto, il Guardasigilli: MORLINO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 31 ottobre 1979 Registro n. 83 Istruzione, foglio n. 71
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e modificato con [regio decreto 31 ottobre 1929, n. 2481](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2481) e successivi;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 91. - Agli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di "statistica".   
-Art. 92. - Al primo comma, relativo alle propedeuticita' degli esami nel corso di laurea in scienze naturali, e' aggiunta la seguente disposizione: "non potra' essere ammesso a sostenere l'esame di fisiologia senza aver prima superato gli esami di chimica generale ed inorganica e di chimica organica".   
-Art. 95. - Agli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto quello di "scienza dell'alimentazione".   
-Art. 96. - All'articolo relativo alle propedeuticita' degli esami nel corso di laurea in scienze biologiche, e' aggiunta la seguente disposizione: "non potra' essere ammesso a sostenere l'esame di fisiologia senza aver prima superato gli esami di chimica generale ed inorganica e di chimica organica".   
-Art. 98. - All'elenco degli Istituti annessi alla Facolta' di scienze matematiche, fisiche e naturali e' aggiunto quello di "Istituto di chimica fisica" in sostituzione dell'"Istituto di chimica industriale" che viene soppresso.   
+Art. 102 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono apportate le seguenti modifiche:   
+la scuola di specializzazione in anatomia e istologia patologica muta la denominazione in quella di scuola di specializzazione in anatomia patologica;   
+la scuola di specializzazione in chirurgia muta la denominazione in quella di scuola di specializzazione in chirurgia generale;   
+la scuola di specializzazione in oculistica muta la denominazione in quella di scuola di specializzazione in oftalmologia;   
+la scuola di specializzazione in odontoiatria e protesi dentaria muta la denominazione in quella di scuola di specializzazione in odontostomatologia.   
+Gli articoli 207, 208 e 209, relativi alla scuola di specializzazione in anatomia e istologia patologica, che muta la denominazione in quella di scuola di specializzazione in anatomia patologica, sono soppressi e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in anatomia patologica   
+Art. 207. - La scuola di specializzazione in anatomia patologica ha sede presso l'istituto di anatomia patologica e conferisce il diploma di specialista in anatomia patologica.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della specializzazione e, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
+Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di quaranta per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Art. 208. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+anatomia patologica sistematica II;   
+tecnica delle autopsie;   
+diagnostica anatomo-patologica macroscopica I;   
+tecniche istologiche ed istochimiche.   
+2° Anno:   
+anatomia patologica sistematica II;   
+diagnostica anatomopatologica macroscopica II;   
+diagnostica istopatologica I;   
+tecniche e diagnostica citologica e citogenetica.   
+3° Anno:   
+diagnostica istopatologica II;   
+tecniche di microscopia elettronica e biologia ultrastrutturale;   
+immunopatologia.   
+4° Anno:   
+diagnostica istopatologica III;   
+diagnostica isto-citopatologica ultrastrutturale;   
+diagnostica autoptica medico legale ed elementi di legislazione sanitaria;   
+applicazioni statistiche ed epidemiologiche.   
+Art. 209. - La frequenza alle lezioni, alle esercitazioni pratiche, e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
+Alla fine di ogni corso gli iscritti per essere ammessi agli anni successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi. Al termine del corso di studi per il conseguimento del diploma di specialista in anatomia patologica gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+La scuola di specializzazione in chirurgia di cui all'art. 217 muta la denominazione in quella di scuola di specializzazione in chirurgia generale.   
+La scuola di specializzazione in oculistica di cui all'art. 247 muta la denominazione in quella di scuola di specializzazione in oftalmologia.   
+Gli articoli 215 e 216, relativi alla scuola di specializzazione in cardioangiochirurgia, sono soppressi e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in cardioangiochirurgia   
+Art. 215. - La scuola di specializzazione in cardioangiochirurgia ha sede presso l'istituto di cardiochirurgia dell'Universita' di Bari e conferisce il diploma di specialista in cardioangiochirurgia.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.   
+Il numero degli allievi e' di cinque per anno di corso e complessivamente di venticinque iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Art. 216. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+embriologia e teratologia;   
+anatomia descrittiva e topografica generale con particolare riguardo all'apparato cardiocircolatorio (biennale) I;   
+patologia chirurgica generale;   
+fisiologia dell'apparato cardiocircolatorio;   
+radiologia generale;   
+semeiotica clinica delle cardiopatie chirurgiche;   
+principi di informatica medica;   
+elementi di ingegneria medica.   
+2° Anno:   
+anatomia descrittiva e topografica generale con particolare riguardo all'apparato cardiocircolatorio (biennale) II;   
+clinica chirurgica generale;   
+anatomia ed istologia patologica con particolare riguardo all'apparato cardiocircolatorio (biennale) I;   
+cardioangioradiologia (biennale) I;   
+semeiotica strumentale delle cardiopatie chirurgiche;   
+elementi di anestesia e rianimazione;   
+fisiopatologia respiratoria;   
+fisiopatologia cardiocircolatoria (biennale) I;   
+patologia e clinica delle angiopatie chirurgiche.   
+3° Anno:   
+anatomia ed istologia patologica con particolare riguardo all'apparato cardiocircolatorio (biennale) II;   
+cardioangioradiologia (biennale) II;   
+semeiotica di laboratorio delle cardiopatie chirurgiche;   
+semeiotica angiologica;   
+cardiologia medica (biennale) I;   
+terapia chirurgica e tecnica operatoria delle malattie di cuore e dei grossi vasi (triennale) I;   
+principi tecniche della circolazione extra-corporea;   
+fisiopatologia cardiocircolatoria (biennale) II;   
+patologia e clinica delle cardiopatie chirurgiche (biennale) I.   
+4° Anno:   
+cardiologia medica (biennale) II;   
+angiologia medica;   
+terapia chirurgica e tecnica operatoria delle malattie del cuore e dei grossi vasi (triennale) II;   
+terapia chirurgica e tecnica operatoria delle vasculopatie periferiche;   
+terapia intensiva (biennale) I;   
+patologia e clinica cardiologica pediatrica;   
+cardiochirurgia pediatrica (biennale) I;   
+patologia e clinica delle cardiopatie chirurgiche (biennale) II.   
+5° Anno:   
+terapia chirurgica e tecnica operatoria delle malattie del cuore e dei grossi vasi (triennale) III;   
+terapia intensiva (biennale) II;   
+cardiochirurgia pediatrica (biennale) II;   
+assistenza meccanica cardiocircolatoria.   
+La frequenza alle lezioni ed alle esercitazioni e' obbligatoria.  
+Gli allievi che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le prove di esame.   
+Alla fine di ogni corso gli iscritti devono sostenere i relativi esami, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo; per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.   
+Alla fine del quinto anno, dopo aver superato tutti gli esami, ha luogo l'esame di diploma consistente nella discussione di una dissertazione scritta su un argomento attinente alla specializzazione e la cui scelta sia stata concordata tra diplomando e direttore della scuola.   
+L'art. 248, relativo alla scuola di specializzazione in odontoiatria e protesi dentaria, che muta la denominazione in quella di scuola di specializzazione in odontostomatologia, e' integrato con il seguente nuovo comma:   
+"Alla scuola possono iscriversi soltanto i laureati in medicina e chirurgia".   
+Il quinto comma del suddetto art. 248 e' soppresso e sostituito dal seguente:   
+"L'ammissione alla scuola avverra' in seguito a concorso per titoli ed esami scritti ed orali".   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 giugno 1958
+### Dato a Roma, addi' 4 giugno 1979
 
-GRONCHI MORO
+PERTINI SPADOLINI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 15 settembre 1958
+Registrato alla Corte dei conti, addi' 31 ottobre 1979
 
-Atti del Governo, registro n. 114, foglio n. 44. - RELLEVA
+Registro n. 83 Istruzione, foglio n. 71

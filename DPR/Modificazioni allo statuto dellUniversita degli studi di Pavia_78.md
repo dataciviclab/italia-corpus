@@ -1,797 +1,206 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 aprile 1979 n. 453
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 maggio 1975 n. 513
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 aprile 1979 n. 453
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 maggio 1975 n. 513
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Gli articoli 146, 147 e 148, riguardanti la scuola di specializzazione in radiologia, sono soppressi e sostituiti dai seguenti:
-
-Scuola di specializzazione in radiologia
-
-Art. 146. - La scuola di specializzazione in radiologia ha sede presso l'istituto di radiologia ed e' diretta da un professore di ruolo o fuori ruolo della stessa materia o, in carenza, di materia affine. Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso del diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione per titoli ed esami.
-
-Non sono ammesse abbreviazioni di corso.
-
-La scuola conferisce i seguenti diplomi:
-
-a) diploma di specialista in radiodiagnostica. Gli anni di studio necessari per conseguire questo titolo sono quattro;
-
-b) diploma di specialista in radioterapia oncologica.
-
-Gli anni di studio necessari per conseguire questo titolo sono quattro.
-
-La scuola ha un tronco comune di due anni identico per i diplomi in radiodiagnostica e radioterapia oncologica.
-
-Art. 147. - Gli insegnamenti per il diploma di specialista in radiodiagnostica sono cosi' distribuiti nei quattro anni di corso:
-
-1° Anno (comune alla specializzazione in radioterapia oncologica):
-
-a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);
-
-b) radiobiologia, legislazione e norme generali di radioprotezione;
-
-c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;
-
-d) nozioni di anatomia e fisiologia generale.
-
-2° Anno (comune alla radioterapia oncologica):
-
-a) anatomia patologica;
-
-b) apparecchiature e tecniche radiologiche;
-
-c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);
-
-d) radiopatologia;
-
-e) dosimetria applicata.
-
-3° Anno:
-
-a) tecniche speciali e relativa semeiotica I;
-
-b) radiodiagnostica speciale dei vari organi ed apparati I.
-
-4° Anno:
-
-a) tecniche speciali e relativa semeiotica (termografia, ecografia, xerografia, TAC) II;
-
-b) radiodiagnostica speciale dei vari organi ed apparati II.
-
-Art. 148. - Gli insegnamenti per il diploma di specialista in radioterapia oncologica sono cosi' distribuiti nei quattro anni di corso:
-
-1° Anno (comune alla specializzazione in radiodiagnostica):
-
-a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);
-
-b) radiobiologia, legislazione e norme generali di radioprotezione;
-
-c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;
-
-d) nozioni di anatomia e fisiologia generale.
-
-2° Anno (comune a radiodiagnostica):
-
-a) anatomia patologica;
-
-b) apparecchiature e tecniche radiologiche;
-
-c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);
-
-d) radiopatologia;
-
-e) dosimetria applicata.
-
-3° Anno:
-
-a) oncologia generale;
-
-b) oncologia clinica I;
-
-c) tecniche radioterapiche.
-
-4° Anno:
-
-a) oncologia clinica II;
-
-b) fondamenti di terapia chirurgica dei tumori;
-
-c) radioterapia clinica;
-
-d) trattamento del canceroso in fase avanzata.
-
-I singoli insegnamenti saranno tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento.
-
-Il numero massimo di iscritti in corso alla scuola e' A di quaranta da ripartirsi annualmente fra i vari corsi di diploma previsti dall'art. 146 (dieci per ogni anno di corso, pari a complessivi quaranta).
-
-La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei.
-
-L'insegnamento verra' svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti ecc. Gli allievi per essere ammessi a sostenere gli esami delle singole materie, dovranno avere la firma di frequenza da parte del direttore della scuola stessa.
-
-Gli allievi al termine di ogni anno dovranno superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.
-
-Gli allievi per conseguire il diploma di specializzazione, oltre ad essere stati approvati in tutti gli esami, dovranno elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.
-
-Dopo l'art. 270, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in allergologia, in chirurgia d'urgenza e pronto soccorso e in statistica medica.
-
-Scuola di specializzazione in allergologia
-
-Art. 271. - La durata del corso degli studi per il conseguimento del diploma di specializzazione in allergologia e' di tre anni.
-
-Possono ottenere l'iscrizione alla scuola, previo concorso per titoli ed esami, i laureati in medicina e chirurgia.
-
-Il numero dei posti disponibili per gli allievi e' di venti per ciascun anno di corso.
-
-Art. 272. - La scuola ha sede presso l'istituto di medicina del lavoro ed e' diretta dal professore di ruolo o fuori ruolo della materia o, in carenza, di materia affine.
-
-Le lezioni saranno integrate da esercitazioni e dimostrazioni pratiche nei reparti e nei laboratori degli istituti.
-
-Al termine di ogni anno di corso gli allievi dovranno sostenere un esame di profitto sulle materie che sono state oggetto di insegnamento.
-
-Per il conseguimento del diploma di specializzazione, gli allievi dovranno sostenere davanti all'apposita commissione la discussione di una tesi scritta su un argomento di allergologia.
-
-Le tasse e soprattasse sono quelle stabilite dalla facolta' di medicina e chirurgia dell'Universita' di Pavia. La tassa di diploma e' di L. 6.000, ai sensi della [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).
-
-Art. 273. - Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-basi immunologiche e patogenesi dell'allergia;
-
-istopatologia generale;
-
-la patologia allergica in riferimento ai diversi agenti etiologici;
-
-la patologia autoimmune;
-
-semeiotica e diagnostica allergologica.
-
-2° Anno:
-
-basi immunologiche e patogenesi dell'allergia;
-
-semeiotica e diagnostica allergologica;
-
-patologia dell'allergia dell'apparato respiratorio;
-
-allergia e otorinolaringoiatria;
-
-le malattie cutanee a patogenesi allergica;
-
-allergia ai medicamenti;
-
-farmacologia dei medicamenti antiallergici.
-
-3° Anno:
-
-clinica dell'allergia dell'apparato respiratorio;
-
-allergia e apparato digerente;
-
-allergia ed altri organi ed apparati;
-
-la terapia specifica e aspecifica delle sindromi allergiche;
-
-allergopatie professionali.
-
-Art. 274. - Le lezioni verranno integrate da conferenze sui singoli argomenti tenute da esperti italiani e stranieri. Agli iscritti saranno comunicate con successivi avvisi le date della prova di ammissione e dei vari corsi di lezione.
-
-Scuola di specializzazione in chirurgia d'urgenza e pronto soccorso
-
-Art. 275. - La scuola di specializzazione in chirurgia d'urgenza e pronto soccorso ha sede presso l'istituto di patologia speciale chirurgica.
-
-Art. 276. - Il corso di studi per il conseguimento del diploma di specialista in chirurgia d'urgenza e pronto soccorso ha la durata di cinque anni accademici.
-
-Art. 277. - Alla scuola possono iscriversi i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. Il numero massimo degli iscritti e' di cinque per anno di corso.
-
-Non sono ammesse abbreviazioni di corso.
-
-L'ammissione al corso avviene per titoli ed esami.
-
-Art. 278. - La frequenza alle lezioni, esercitazioni e seminari e' obbligatoria per tutti gli iscritti. L'esercitazione pratica nei reparti e' obbligatoria durante tutti i cinque anni di corso sotto forma di permanenza costante in istituto durante le ore della sua attivita'.
-
-Art. 279. - Le materie di insegnamento sono le seguenti:
-
-clinica chirurgica generale d'urgenza e di pronto soccorso;
-
-patologia chirurgica;
-
-anatomia chirurgica;
-
-semeiotica;
-
-anestesiologia;
-
-ricerche di laboratorio;
-
-anatomia patologica;
-
-endoscopia;
-
-fisiopatologia chirurgica;
-
-chirurgia sperimentale;
-
-trattamento pre e post operatorio in chirurgia d'urgenza;
-
-rianimazione;
-
-traumatologia dell'apparato locomotore;
-
-neurotraumatologia;
-
-terapia intensiva;
-
-radiologia;
-
-chirurgia ginecologica d'urgenza;
-
-chirurgia pediatrica d'urgenza;
-
-chirurgia plastica e riparatrice;
-
-chirurgia toracica d'urgenza;
-
-cardiochirurgia d'urgenza;
-
-angioradiologia;
-
-chirurgia urologica d'urgenza;
-
-traumatologia maxillo-facciale;
-
-trattamento del politraumatizzato;
-
-medicina legale.
-
-Art. 280. - Le materie di insegnamento sono cosi' distribuite:
-
-1° Anno:
-
-1) clinica chirurgica generale d'urgenza e di pronto soccorso I;
-
-2) patologia chirurgica I;
-
-3) anatomia chirurgica I;
-
-4) semeiotica I;
-
-5) anestesiologia;
-
-6) ricerche di laboratorio;
-
-7) chirurgia sperimentale.
-
-2° Anno:
-
-8) clinica chirurgica generale d'urgenza e di pronto soccorso II;
-
-9) patologia chirurgica II;
-
-10) anatomia patologica II;
-
-11) endoscopia;
-
-12) fisiopatologia chirurgica II;
-
-13) semeiotica II;
-
-14) trattamento pre e post operatorio in chirurgia d'urgenza;
-
-15) rianimazione.
-
-3° Anno:
-
-16) clinica chirurgica generale d'urgenza e di pronto soccorso III;
-
-17) patologia chirurgica III;
-
-18) chirurgia vascolare d'urgenza;
-
-19) traumatologia dell'apparato locomotore I;
-
-20) neurotraumatologia;
-
-21) fisiopatologia chirurgica II;
-
-22) terapia intensiva I;
-
-23) radiologia.
-
-4° Anno:
-
-24) clinica chirurgica generale d'urgenza e di pronto soccorso IV;
-
-25) chirurgia ginecologica d'urgenza;
-
-26) chirurgia pediatrica d'urgenza;
-
-27) chirurgia plastica e riparatrice I;
-
-28) traumatologia dell'apparato locomotore II;
-
-29) neurotraumatologia II;
-
-30) chirurgia toracica d'urgenza;
-
-31) terapia intensiva II.
-
-5° Anno:
-
-32) clinica chirurgica generale d'urgenza e di pronto soccorso V;
-
-33) chirurgia plastica e riparatrice II;
-
-34) chirurgia toracica d'urgenza;
-
-35) cardiochirurgia d'urgenza;
-
-36) chirurgia urologica d'urgenza;
-
-37) angioradiologia;
-
-38) traumatologia maxillo-facciale;
-
-39) trattamento del politraumatizzato;
-
-40) medicina legale.
-
-Art. 281. - Alla fine di ogni anno gli specializzandi per poter ottenere l'ammissione all'anno successivo dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno di corso; per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
-
-Art. 282. - L'esame di diploma consiste nella discussione di una tesi su un tema preventivamente approvato dal direttore della scuola.
-
-Il direttore della scuola e' il professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, il professore di ruolo o fuori ruolo di materia affine. Le norme per l'iscrizione, gli esami, tasse, ecc. sono quelle generali per le scuole di specializzazione dell'Universita' di Pavia.
-
-Scuola di specializzazione in statistica medica
-
-Art. 283. - La scuola e' articolata nei seguenti orientamenti:
-
-a) clinico;
-
-b) epidemiologico,
-
-sulla base di materie di insegnamento comuni a tutti gli allievi e materie differenziate per i due orientamenti come specificato dall'art. 286. La scuola rilascia il diploma di specialista in statistica medica con l'indicazione dell'orientamento prescelto.
-
-Art. 284. - La durata del corso e' fissata in tre anni.
-
-Il numero degli iscritti e' fissato ad un massimo di dieci per il primo anno e per un totale complessivo di trenta specializzandi per i tre anni di corso.
-
-Art. 285. - Alla scuola di specializzazione in statistica medica, sono ammessi oltre ai laureati in medicina e chirurgia anche i laureati in altre discipline (limitatamente all'orientamento epidemiologico) su motivato parere della direzione della scuola, previo accertamento diretto della loro idoneita'.
-
-Art. 286. - Le materie di insegnamento per la scuola di specializzazione in statistica medica sono le seguenti:
-
-1° Anno:
-
-insegnamenti comuni ai due orientamenti:
-
-1) matematica generale I;
-
-2) metodologia statistica I;
-
-3) calcolo automatico;
-
-4) metodologia demografica;
-
-insegnamenti per l'orientamento clinico:
-
-5) l'evidenza clinica;
-
-6) tassometria per la nosografia;
-
-insegnamenti per l'orientamento epidemiologico:
-
-5) sociologia medica;
-
-6) storia medica.
-
-2° Anno:
-
-insegnamenti comuni ai due orientamenti:
-
-1) matematica generale II;
-
-2) metodologia statistica II;
-
-3) informatica medica;
-
-4) metodologia epidemiologica generale;
-
-insegnamenti per l'orientamento clinico:
-
-5) il ragionamento diagnostico;
-
-6) il riconoscimento automatico;
-
-insegnamenti per l'orientamento epidemiologico:
-
-5) geografia medica;
-
-6) econometria sanitaria.
-
-3° Anno:
-
-insegnamenti comuni ai due orientamenti:
-
-1) disegno ed analisi dell'esperimento clinico;
-
-2) disegno ed analisi dell'inchiesta sanitaria;
-
-insegnamenti per l'orientamento clinico:
-
-3) biometria umana;
-
-4) programmazione e valutazione terapeutica;
-
-5) il dossier clinico;
-
-6) demografia ospedaliera;
-
-7) il sistema informativo sanitario;
-
-insegnamenti per l'orientamento epidemiologico:
-
-3) metodologia epidemiologica applicata alla patologia infantile;
-
-4) metodologia epidemiologica applicata alla patologia infettiva;
-
-5) metodologia epidemiologica applicata alla patologia genetica;
-
-6) metodologia epidemiologica applicata alla patologia degenerativa;
-
-7) metodologia epidemiologica applicata alla patologia da lavoro;
-
-8) metodologia epidemiologica applicata alla patologia psichiatrica.
-
-Art. 287. - I corsi sono composti di lezioni teoriche e di esercitazioni pratiche sulle materie di cui all'art. 286 e si terranno nella sede della cattedra di statistica sanitaria o in altre sedi opportune.
-
-Art. 288. - La frequenza alle lezioni ed alle esercitazioni e' obbligatoria e condiziona l'ammissione degli allievi all'esame annuale di profitto. Durante uno dei primi tre anni di corso gli allievi sono tenuti a svolgere l'esercitazione pratica presso la cattedra di statistica sanitaria, secondo un piano deciso dal direttore della scuola.
-
-Art. 289. - Alla fine di ogni anno di corso gli specializzandi, per poter ottenere l'ammissione all'anno successivo, dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno in corso.
-
-Art. 290. - Per essere ammesso all'esame finale di diploma l'allievo dovra' dimostrare di aver seguito regolarmente i corsi e superato gli esami di profitto dei tre anni. L'esame di diploma consiste nella discussione orale di una dissertazione scritta su tema approvato in precedenza dal direttore della scuola, corredata da dati originali.
-
-Per tutte le altre condizioni e i dovuti adempimenti questa scuola si uniforma a quanto prescritto dallo statuto della Universita' di Pavia.
-
-L'ordinamento della scuola di specializzazione in fisiopatologia e fisiochinesiterapia respiratoria istituita con [decreto del Presidente della Repubblica 29 settembre 1975, n. 607](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1975-09-29;607), e' modificato nel senso che il numero degli iscritti e' fissato in cinquantaquattro per l'intero corso di studi.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 4 aprile 1979
-
-PERTINI
-
-SPADOLINI
-
-Visto, il Guardasigilli: MORLINO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 7 settembre 1979 Registro n. 67 Istruzione, foglio n. 392
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), in quanto l'Universita' di Pavia e' tenuta ad uniformarsi al disposto di cui all'[art. 1 del decreto del Presidente della Repubblica 27 settembre 1970, n. 827](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-09-27;827~art1);   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Gli articoli 146, 147 e 148, riguardanti la scuola di specializzazione in radiologia, sono soppressi e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in radiologia  
-  
-Art. 146. - La scuola di specializzazione in radiologia ha sede presso l'istituto di radiologia ed e' diretta da un professore di ruolo o fuori ruolo della stessa materia o, in carenza, di materia affine. Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso del diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione per titoli ed esami.  
-Non sono ammesse abbreviazioni di corso.  
-La scuola conferisce i seguenti diplomi:  
-a) diploma di specialista in radiodiagnostica. Gli anni di studio necessari per conseguire questo titolo sono quattro;  
-b) diploma di specialista in radioterapia oncologica.  
-Gli anni di studio necessari per conseguire questo titolo sono quattro.  
-La scuola ha un tronco comune di due anni identico per i diplomi in radiodiagnostica e radioterapia oncologica.  
-Art. 147. - Gli insegnamenti per il diploma di specialista in radiodiagnostica sono cosi' distribuiti nei quattro anni di corso:  
-  
-1° Anno (comune alla specializzazione in radioterapia oncologica):  
-a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);  
-b) radiobiologia, legislazione e norme generali di radioprotezione;  
-c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;  
-d) nozioni di anatomia e fisiologia generale.  
-  
-2° Anno (comune alla radioterapia oncologica):  
-a) anatomia patologica;  
-b) apparecchiature e tecniche radiologiche;  
-c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);  
-d) radiopatologia;  
-e) dosimetria applicata.  
-  
-3° Anno:  
-a) tecniche speciali e relativa semeiotica I;  
-b) radiodiagnostica speciale dei vari organi ed apparati I.  
-  
-4° Anno:  
-a) tecniche speciali e relativa semeiotica (termografia, ecografia, xerografia, TAC) II;  
-b) radiodiagnostica speciale dei vari organi ed apparati II.  
-  
-Art. 148. - Gli insegnamenti per il diploma di specialista in radioterapia oncologica sono cosi' distribuiti nei quattro anni di corso:  
-  
-1° Anno (comune alla specializzazione in radiodiagnostica):  
-a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);  
-b) radiobiologia, legislazione e norme generali di radioprotezione;  
-c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;  
-d) nozioni di anatomia e fisiologia generale.  
-  
-2° Anno (comune a radiodiagnostica):  
-a) anatomia patologica;  
-b) apparecchiature e tecniche radiologiche;  
-c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);  
-d) radiopatologia;  
-e) dosimetria applicata.  
-  
-3° Anno:  
-a) oncologia generale;  
-b) oncologia clinica I;  
-c) tecniche radioterapiche.  
-  
-4° Anno:  
-a) oncologia clinica II;  
-b) fondamenti di terapia chirurgica dei tumori;  
-c) radioterapia clinica;  
-d) trattamento del canceroso in fase avanzata.  
-  
-I singoli insegnamenti saranno tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento.  
-Il numero massimo di iscritti in corso alla scuola e' A di quaranta da ripartirsi annualmente fra i vari corsi di diploma previsti dall'art. 146 (dieci per ogni anno di corso, pari a complessivi quaranta).  
-La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei.  
-L'insegnamento verra' svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti ecc. Gli allievi per essere ammessi a sostenere gli esami delle singole materie, dovranno avere la firma di frequenza da parte del direttore della scuola stessa.  
-Gli allievi al termine di ogni anno dovranno superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.  
-Gli allievi per conseguire il diploma di specializzazione, oltre ad essere stati approvati in tutti gli esami, dovranno elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.  
-Dopo l'art. 270, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in allergologia, in chirurgia d'urgenza e pronto soccorso e in statistica medica.  
-  
-Scuola di specializzazione in allergologia  
-  
-Art. 271. - La durata del corso degli studi per il conseguimento del diploma di specializzazione in allergologia e' di tre anni.  
-Possono ottenere l'iscrizione alla scuola, previo concorso per titoli ed esami, i laureati in medicina e chirurgia.  
-Il numero dei posti disponibili per gli allievi e' di venti per ciascun anno di corso.  
-Art. 272. - La scuola ha sede presso l'istituto di medicina del lavoro ed e' diretta dal professore di ruolo o fuori ruolo della materia o, in carenza, di materia affine.  
-Le lezioni saranno integrate da esercitazioni e dimostrazioni pratiche nei reparti e nei laboratori degli istituti.  
-Al termine di ogni anno di corso gli allievi dovranno sostenere un esame di profitto sulle materie che sono state oggetto di insegnamento.  
-Per il conseguimento del diploma di specializzazione, gli allievi dovranno sostenere davanti all'apposita commissione la discussione di una tesi scritta su un argomento di allergologia.  
-Le tasse e soprattasse sono quelle stabilite dalla facolta' di medicina e chirurgia dell'Universita' di Pavia. La tassa di diploma e' di L. 6.000, ai sensi della [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).  
-Art. 273. - Le materie di insegnamento sono le seguenti:  
-  
-1° Anno:  
-basi immunologiche e patogenesi dell'allergia;  
-istopatologia generale;  
-la patologia allergica in riferimento ai diversi agenti etiologici;  
-la patologia autoimmune;  
-semeiotica e diagnostica allergologica.  
-  
-2° Anno:  
-basi immunologiche e patogenesi dell'allergia;  
-semeiotica e diagnostica allergologica;  
-patologia dell'allergia dell'apparato respiratorio;  
-allergia e otorinolaringoiatria;  
-le malattie cutanee a patogenesi allergica;  
-allergia ai medicamenti;  
-farmacologia dei medicamenti antiallergici.  
-  
-3° Anno:  
-clinica dell'allergia dell'apparato respiratorio;  
-allergia e apparato digerente;  
-allergia ed altri organi ed apparati;  
-la terapia specifica e aspecifica delle sindromi allergiche;  
-allergopatie professionali.  
-  
-Art. 274. - Le lezioni verranno integrate da conferenze sui singoli argomenti tenute da esperti italiani e stranieri. Agli iscritti saranno comunicate con successivi avvisi le date della prova di ammissione e dei vari corsi di lezione.  
-  
-Scuola di specializzazione in chirurgia d'urgenza e pronto soccorso   
-Art. 275. - La scuola di specializzazione in chirurgia d'urgenza e pronto soccorso ha sede presso l'istituto di patologia speciale chirurgica.  
-Art. 276. - Il corso di studi per il conseguimento del diploma di specialista in chirurgia d'urgenza e pronto soccorso ha la durata di cinque anni accademici.  
-Art. 277. - Alla scuola possono iscriversi i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. Il numero massimo degli iscritti e' di cinque per anno di corso.  
-Non sono ammesse abbreviazioni di corso.  
-L'ammissione al corso avviene per titoli ed esami.  
-Art. 278. - La frequenza alle lezioni, esercitazioni e seminari e' obbligatoria per tutti gli iscritti. L'esercitazione pratica nei reparti e' obbligatoria durante tutti i cinque anni di corso sotto forma di permanenza costante in istituto durante le ore della sua attivita'.  
-Art. 279. - Le materie di insegnamento sono le seguenti:  
-clinica chirurgica generale d'urgenza e di pronto soccorso;  
-patologia chirurgica;  
-anatomia chirurgica;  
-semeiotica;  
-anestesiologia;  
-ricerche di laboratorio;  
-anatomia patologica;  
-endoscopia;  
-fisiopatologia chirurgica;  
-chirurgia sperimentale;  
-trattamento pre e post operatorio in chirurgia d'urgenza;  
-rianimazione;  
-traumatologia dell'apparato locomotore;  
-neurotraumatologia;  
-terapia intensiva;  
-radiologia;  
-chirurgia ginecologica d'urgenza;  
-chirurgia pediatrica d'urgenza;  
-chirurgia plastica e riparatrice;  
-chirurgia toracica d'urgenza;  
-cardiochirurgia d'urgenza;  
-angioradiologia;  
-chirurgia urologica d'urgenza;  
-traumatologia maxillo-facciale;  
-trattamento del politraumatizzato;  
-medicina legale.  
-Art. 280. - Le materie di insegnamento sono cosi' distribuite:  
-  
-1° Anno:  
-1) clinica chirurgica generale d'urgenza e di pronto soccorso I;  
-2) patologia chirurgica I;  
-3) anatomia chirurgica I;  
-4) semeiotica I;  
-5) anestesiologia;  
-6) ricerche di laboratorio;  
-7) chirurgia sperimentale.  
-  
-2° Anno:  
-8) clinica chirurgica generale d'urgenza e di pronto soccorso II;  
-9) patologia chirurgica II;  
-10) anatomia patologica II;  
-11) endoscopia;  
-12) fisiopatologia chirurgica II;  
-13) semeiotica II;  
-14) trattamento pre e post operatorio in chirurgia d'urgenza;  
-15) rianimazione.  
-  
-3° Anno:  
-16) clinica chirurgica generale d'urgenza e di pronto soccorso III;  
-17) patologia chirurgica III;  
-18) chirurgia vascolare d'urgenza;  
-19) traumatologia dell'apparato locomotore I;  
-20) neurotraumatologia;  
-21) fisiopatologia chirurgica II;  
-22) terapia intensiva I;  
-23) radiologia.  
-  
-4° Anno:  
-24) clinica chirurgica generale d'urgenza e di pronto soccorso IV;  
-25) chirurgia ginecologica d'urgenza;  
-26) chirurgia pediatrica d'urgenza;  
-27) chirurgia plastica e riparatrice I;  
-28) traumatologia dell'apparato locomotore II;  
-29) neurotraumatologia II;  
-30) chirurgia toracica d'urgenza;  
-31) terapia intensiva II.  
-  
-5° Anno:  
-32) clinica chirurgica generale d'urgenza e di pronto soccorso V;  
-33) chirurgia plastica e riparatrice II;  
-34) chirurgia toracica d'urgenza;  
-35) cardiochirurgia d'urgenza;  
-36) chirurgia urologica d'urgenza;  
-37) angioradiologia;  
-38) traumatologia maxillo-facciale;  
-39) trattamento del politraumatizzato;  
-40) medicina legale.  
-  
-Art. 281. - Alla fine di ogni anno gli specializzandi per poter ottenere l'ammissione all'anno successivo dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno di corso; per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.  
-Art. 282. - L'esame di diploma consiste nella discussione di una tesi su un tema preventivamente approvato dal direttore della scuola.  
-Il direttore della scuola e' il professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, il professore di ruolo o fuori ruolo di materia affine. Le norme per l'iscrizione, gli esami, tasse, ecc. sono quelle generali per le scuole di specializzazione dell'Universita' di Pavia.  
-  
-Scuola di specializzazione in statistica medica  
-  
-Art. 283. - La scuola e' articolata nei seguenti orientamenti:  
-a) clinico;  
-b) epidemiologico,  
-sulla base di materie di insegnamento comuni a tutti gli allievi e materie differenziate per i due orientamenti come specificato dall'art. 286. La scuola rilascia il diploma di specialista in statistica medica con l'indicazione dell'orientamento prescelto.  
-Art. 284. - La durata del corso e' fissata in tre anni.  
-Il numero degli iscritti e' fissato ad un massimo di dieci per il primo anno e per un totale complessivo di trenta specializzandi per i tre anni di corso.  
-Art. 285. - Alla scuola di specializzazione in statistica medica, sono ammessi oltre ai laureati in medicina e chirurgia anche i laureati in altre discipline (limitatamente all'orientamento epidemiologico) su motivato parere della direzione della scuola, previo accertamento diretto della loro idoneita'.  
-Art. 286. - Le materie di insegnamento per la scuola di specializzazione in statistica medica sono le seguenti:  
-  
-1° Anno:  
-  
-insegnamenti comuni ai due orientamenti:  
-1) matematica generale I;  
-2) metodologia statistica I;  
-3) calcolo automatico;  
-4) metodologia demografica;  
-  
-insegnamenti per l'orientamento clinico:  
-5) l'evidenza clinica;  
-6) tassometria per la nosografia;  
-  
-insegnamenti per l'orientamento epidemiologico:  
-5) sociologia medica;  
-6) storia medica.  
-  
-2° Anno:  
-  
-insegnamenti comuni ai due orientamenti:  
-1) matematica generale II;  
-2) metodologia statistica II;  
-3) informatica medica;  
-4) metodologia epidemiologica generale;  
-  
-insegnamenti per l'orientamento clinico:  
-5) il ragionamento diagnostico;  
-6) il riconoscimento automatico;  
-  
-insegnamenti per l'orientamento epidemiologico:  
-5) geografia medica;  
-6) econometria sanitaria.  
-  
-3° Anno:  
-  
-insegnamenti comuni ai due orientamenti:  
-1) disegno ed analisi dell'esperimento clinico;  
-2) disegno ed analisi dell'inchiesta sanitaria;  
-  
-insegnamenti per l'orientamento clinico:  
-3) biometria umana;  
-4) programmazione e valutazione terapeutica;  
-5) il dossier clinico;  
-6) demografia ospedaliera;  
-7) il sistema informativo sanitario;  
-  
-insegnamenti per l'orientamento epidemiologico:  
-3) metodologia epidemiologica applicata alla patologia infantile;  
-4) metodologia epidemiologica applicata alla patologia infettiva;  
-5) metodologia epidemiologica applicata alla patologia genetica;  
-6) metodologia epidemiologica applicata alla patologia degenerativa;  
-7) metodologia epidemiologica applicata alla patologia da lavoro;  
-8) metodologia epidemiologica applicata alla patologia psichiatrica.  
-  
-Art. 287. - I corsi sono composti di lezioni teoriche e di esercitazioni pratiche sulle materie di cui all'art. 286 e si terranno nella sede della cattedra di statistica sanitaria o in altre sedi opportune.  
-Art. 288. - La frequenza alle lezioni ed alle esercitazioni e' obbligatoria e condiziona l'ammissione degli allievi all'esame annuale di profitto. Durante uno dei primi tre anni di corso gli allievi sono tenuti a svolgere l'esercitazione pratica presso la cattedra di statistica sanitaria, secondo un piano deciso dal direttore della scuola.  
-Art. 289. - Alla fine di ogni anno di corso gli specializzandi, per poter ottenere l'ammissione all'anno successivo, dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno in corso.  
-Art. 290. - Per essere ammesso all'esame finale di diploma l'allievo dovra' dimostrare di aver seguito regolarmente i corsi e superato gli esami di profitto dei tre anni. L'esame di diploma consiste nella discussione orale di una dissertazione scritta su tema approvato in precedenza dal direttore della scuola, corredata da dati originali.  
-Per tutte le altre condizioni e i dovuti adempimenti questa scuola si uniforma a quanto prescritto dallo statuto della Universita' di Pavia.  
-L'ordinamento della scuola di specializzazione in fisiopatologia e fisiochinesiterapia respiratoria istituita con [decreto del Presidente della Repubblica 29 settembre 1975, n. 607](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1975-09-29;607), e' modificato nel senso che il numero degli iscritti e' fissato in cinquantaquattro per l'intero corso di studi.  
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+L'art. 91, relativo al biennio di studi per il conseguimento della laurea in ingegneria, e' modificato nel senso che e' aggiunto il seguente ultimo comma:   
+"Gli insegnamenti segnati con un asterisco sono obbligatori sul piano nazionale".   
+Gli articoli 92, 93, 94, relativi ai vari corsi di laurea della facolta' di ingegneria, sono abrogati e sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi.   
+Art. 92. - Per il corso di laurea in ingegneria elettrotecnica sono insegnamenti del triennio:   
+a) Obbligatori su piano nazionale:   
+1) fisica tecnica;   
+2) idraulica;   
+3) scienza delle costruzioni;   
+4) meccanica applicata alle macchine;   
+5) macchine elettriche;   
+6) impianti elettrici I;   
+7) misure elettriche;   
+8) elettronica applicata;   
+9) macchine.   
+b) Obbligatori sul piano della facolta':   
+10) controlli automatici;   
+11) costruzione di macchine elettriche;   
+12) elettrotecnica industriale.   
+c) Un gruppo di materie a scelta tra quelle elencate nell'art. 95 e negli articoli 93 e 94.   
+Art. 93. - Per il corso di laurea in ingegneria elettronica sono insegnamenti del triennio:   
+a) Obbligatori su piano nazionale:   
+1) scienza delle costruzioni;   
+2) meccanica delle macchine e macchine;   
+3) campi elettromagnetici e circuiti;   
+4) elettronica applicata;   
+5) misure elettriche;   
+6) comunicazioni elettriche;   
+7) radiotecnica;   
+8) controlli automatici.   
+b) Obbligatori sul piano della facolta':   
+9) complementi di fisica;   
+10) metodi matematici per l'ingegneria;   
+11) teoria dei sistemi;   
+12) calcolatori elettronici.   
+c) Un gruppo di materie a scelta tra quelle elencate nell'art. 95 e negli articoli 92 e 94.   
+Art. 94. - Per il corso di laurea in ingegneria civile sono insegnamenti del triennio:   
+a) Obbligatori su piano nazionale:   
+1) scienza delle costruzioni;   
+2) meccanica applicata alle macchine e macchine;   
+3) fisica tecnica;   
+4) idraulica;   
+5) tecnologia dei materiali e chimica applicata;   
+6) tecnica delle costruzioni;   
+7) architettura tecnica;   
+8) topografia;   
+per idraulica:   
+9) costruzioni idrauliche;   
+per trasporti:   
+9) costruzioni di strade, ferrovie ed aeroporti.   
+b) Obbligatori sul piano della facolta':   
+per idraulici:   
+10) geologia applicata;   
+11) ingegneria sanitaria;   
+12) idraulica II;   
+per trasporti:   
+10) geologia applicata;   
+11) costruzione di ponti e grandi strutture;   
+12) tecnica ed economia dei trasporti.   
+c) Un gruppo di materie a scelta tra quelle elencate nell'art. 95 e negli articoli 92 e 93.   
+Art. 95. - Sono insegnamenti complementari ai sensi dell'[art. 1 del decreto del Presidente della Repubblica 27 settembre 1970, n. 827](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-09-27;827~art1), i seguenti:   
+1) acquedotti e fognature;   
+2) affidabilita' e controllo statistico della qualita' (semestrale);   
+3) analisi dei sistemi I;   
+4) analisi dei sistemi II;   
+5) antenne e propagazione;   
+6) bonifica ed irrigazione;   
+7) calcolo numerico e programmazione;   
+8) centrali elettriche;   
+9) chimica applicata;   
+10) chimica e biologia sanitaria;   
+11) chimica fisica;   
+12) collaudo e controllo delle strutture;   
+13) complementi di architettura tecnica;   
+14) complementi di geotecnica;   
+15) complementi di ingegneria sanitaria;   
+16) complementi di misure elettriche;   
+17) complementi di programmazione;   
+18) complementi di scienza delle costruzioni;   
+19) controllo dei processi;   
+20) costruzione di apparecchi elettrici;   
+21) costruzione di macchine;   
+22) costruzioni marittime;   
+23) costruzioni metalliche;   
+24) dinamica delle strutture;   
+25) diritto del lavoro (semestrale);   
+26) dispositivi elettronici;   
+27) ecologia (semestrale);   
+28) economia applicata all'ingegneria;   
+29) elettronica biologica;   
+30) elettronica industriale I;   
+31) elettronica industriale II;   
+32) elettronica numerica;   
+33) elettronica di potenza;   
+34) elettronica quantistica;   
+35) ergonomia (semestrale);   
+36) ergotecnica;   
+37) estimo (semestrale);   
+38) fenomeni aleatori e rumore;   
+39) fisica dei semiconduttori;   
+40) fisiopatologia del lavoro (semestrale);   
+41) fotogrammetria;   
+42) geotecnica;   
+43) geotecnica applicata alla difesa del suolo (semestrale);   
+44) gestione aziendale;   
+45) idrogeologia (semestrale);   
+46) idrologia tecnica;   
+47) igiene applicata all'ingegneria (semestrale);   
+48) impianti elettrici II;   
+49) impianti per l'elaborazione delle informazioni;   
+50) impianti speciali idraulici;   
+51) impianti tecnici per l'edilizia;   
+52) impianti termoelettrici e di potenza;   
+53) informatica industriale;   
+54) infrastrutture idrauliche;   
+55) inquinamento atmosferico (semestrale);   
+56) istituzioni di scienze sociali ed economiche (semestrale);   
+57) tecnica delle alte frequenze;   
+58) progetti di componenti e circuiti integrati;   
+59) costruzioni elettroniche;   
+60) macchine elettriche speciali;   
+61) macchine fluidodinamiche;   
+62) complementi di matematica;   
+63) macchine ed organizzazione dei cantieri;   
+64) materie giuridiche e legislazione dei lavori pubblici;   
+65) materiali e tecnologie elettroniche;   
+66) meccanica dei fluidi;   
+67) meccanica delle rocce;   
+68) medicina del lavoro applicata all'ingegneria (semestrale);   
+69) meteorologia e fisica dell'atmosfera (semestrale);   
+70) metodi probabilistici, statistici e processi stocastici;   
+71) microonde;   
+72) misure elettroniche;   
+73) modelli matematici I;   
+74) modelli matematici II;   
+75) modelli per sistemi idrici (semestrale);   
+76) organizzazione aziendale (semestrale);   
+77) pianificazione delle risorse idriche;   
+78) pianificazione della produzione (semestrale);   
+79) pianificazione territoriale;   
+80) progetti di strutture;   
+81) programmazione dei calcolatori elettronici;   
+82) radiochimica;   
+83) ricerca operativa;   
+84) rifiuti solidi (semestrale);   
+85) scienza dei materiali;   
+86) sistemi di comunicazioni elettriche;   
+87) sistemi elettroottici;   
+88) sistemi per l'elaborazione dell'informazione;   
+89) sistemi di regolazione;   
+90) sistemi di trasporto;   
+91) strumentazione biomedica;   
+92) strumentazione elettronica;   
+93) tecnica delle alte tensioni;   
+94) tecnica del traffico;   
+95) tecnica delle costruzioni II;   
+96) tecnica ed economia dei trasporti II;   
+97) tecnologia delle acque di approvvigionamento e di rifiuto I;   
+98) tecnologia delle acque di approvvigionamento e di rifiuto II;  
+99) teoria dell'informazione;   
+100) teoria delle reti elettriche;   
+101) trazione elettrica;   
+102) unificazione dell'edilizia e prefabbricazione;   
+103) tecnica urbanistica I;   
+104) tecnica urbanistica II.   
+Dall'elenco delle materie complementari la facolta' trarra', per i singoli corsi di laurea, le materie da attivare che indichera' anno per anno nel manifesto degli studi. In tale manifesto pero' le materie non figureranno isolate ma raggruppate a costituire indirizzi di specializzazione relativi a ciascun corso di laurea. Per ciascun indirizzo saranno prescritti sei corsi annuali (o equivalenti).   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 aprile 1979
+### Dato a Roma, addi' 26 maggio 1975
 
-PERTINI SPADOLINI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 7 settembre 1979
+Registrato alla Corte dei conti, addi' 25 ottobre 1975
 
-Registro n. 67 Istruzione, foglio n. 392
+Atti di Governo, registro n. 13, foglio n. 37

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1951 n. 1411
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 settembre 1951 n. 1028
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1951 n. 1411
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 settembre 1951 n. 1028
+=================================================================
 
 Trasferimento in proprieta' all'Opera per la valorizzazione della Sila di terreni di proprieta' di Arturi Raffaele fu Francesco, in comune di Cutro (Catanzaro).
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -10,13 +10,13 @@ Trasferimento in proprieta' all'Opera per la valorizzazione della Sila di terren
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Visti gli [articoli 77, comma primo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77-com1), ed [87, comma quinto, della, Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5) della Repubblica;
+Visti gli [articoli 77, comma primo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77-com1), ed [87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5) della Repubblica;
 
 Vista la [legge 12 maggio 1950, n. 230 e l'art. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art16) della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
 
-In virtu' della delegazione concessa dall'[art. 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5);
+In virtu' della delegazione concessa con l'[art. 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5);
 
-Udito il parere, in data 29 novembre 1951, della Commissione parlamentare, nominata a norma dell'[art. 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), la quale ha esaminato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di Cutro (provincia di Catanzaro), della superficie di Ha. 3.65.00, nei confronti della ditta Arturi Raffaele fu Francesco;
+Udito il parere, in data 7 agosto 1951, della Commissione parlamentare, nominata a norma dell'[art. 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), la quale ha esaminato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di Cutro (Catanzaro), della superficie di Ha. 166.86.20, nei confronti di Arturo Raffaele fu Francesco;
 
 Sentito il Consiglio dei Ministri;
 
@@ -29,47 +29,49 @@ Art. 1
 ------
 
   
-E' approvato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di Cutro (provincia di Catanzaro), della superficie di Ha. 3.65.00, nei confronti della ditta Arturi Raffaele fu Francesco.  
+E' approvato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di Cutro (Catanzaro), della superficie di Ha. 16.86.20, nei confronti di Arturi Raffaele fu Francesco.  
 
 Art. 2
 ------
 
   
-I terreni, indicati nel precedente articolo e specificamente designati nell'elenco unito al presente decreto, sono trasferiti in proprieta' all'Opera per la valorizzazione della Sila.  
+E' ordinata la immediata occupazione, da parte dell'Opera per la valorizzazione della Sila, dei terreni di cui al precedente art. 1, confinanti a nord, con la proprieta' di Ciliberto Gregorio fu Pasquale, con quella della Prebenda dell'Arcipretura di Cutro e con quella di Berlingieri Pierluigi di Arturo; a nord-ovest, con la la proprieta' di Barracco Alfonso fu Enrico; a nord-est, con la vicinale Cavaliere-Cutro; a sud, con la proprieta' di Pitera' Romilda e Angelina sorelle fu Antonio e Foresta Chiarina fu Ercole proprietarie per 5/6 e Polimena Francesca fu Giuseppe ved. Pitera' per 1/6; ad est, con fosso Grasa'; ad ovest, con la proprieta' di Barracco Alfonso fu Enrico, con quella della Prebenda dell'Arcipretura di Cutro, con quella del predetto Barracco Alfonso e con la proprieta' di Colacino Antonio e Salvatore fratelli di Nicola.  
 
 Art. 3
 ------
 
   
-E' ordinata la immediata occupazione, da parte dell'Opera per la valorizzazione della Sila, dei terreni indicati nei precedenti articoli 1 e 2.  
+I terreni di cui sopra sono trasferiti in proprieta' all'Opera per la valorizzazione della Sila.  
 
 Art. 4
 ------
 
   
-L'elenco dei terreni, con l'indicazione dell'indennita' di espropriazione offerta, munito del visto del Ministro proponente, forma parte integrante del presente decreto, che entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
+L'elenco dei terreni, compresi nel piano di espropriazione di cui all'art. 1, con l'indicazione dell'indennita' offerta, munito del visto del Ministro proponente, forma parte integrante del presente decreto, che entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e de decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 dicembre 1951
+### Dato a Genova, addi' 16 settembre 1951
 
-EINAUDI DE GASPERI - FANFANI
+EINAUDI PICCIONI - FANFANI
 
 Visto, il Guardasigilli: ZOLI
 
-Registrato alla Corte dei conti, addi' 29 dicembre 1951
+Registrato alla Corte dei conti, addi' 29 settembre 1951
 
-Atti del Governo, registro n. 48, foglio n. 3. - FRASCA
+Atti del Governo, registro n. 44, foglio n. 76. - FRASCA
 
-Elenco
+Allegato
 
  COMUNE DI CUTRO (Catanzaro)   
   
-Elenco dei terreni espropriati nei confronti di Arturi Raffaele fu Francesco a termini degli [articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art1) e [2 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art2)
+Elenco dei terreni espropriati nei confronti di   
+Arturi dott. Raffaele fu Francesco a termini degli [articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art1) e [2 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art2)
   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=051U141100100010110001&dgu=1951-12-31&art.dataPubblicazioneGazzetta=1951-12-31&art.codiceRedazionale=051U1411)
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=051U102800100010110001&dgu=1951-10-03&art.dataPubblicazioneGazzetta=1951-10-03&art.codiceRedazionale=051U1028)
   

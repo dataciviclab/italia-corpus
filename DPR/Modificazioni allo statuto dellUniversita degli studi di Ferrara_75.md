@@ -1,68 +1,385 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 settembre 1955 n. 953
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1091
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 settembre 1955 n. 953
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1091
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso: gli articoli 121, 122 e 123, relativi alla scuola di specializzazione in psichiatria, sono soppressi e sostituiti dai seguenti:
+
+Scuola di specializzazione in psichiatria
+
+Art. 121. - La scuola di specializzazione in psichiatria ha sede presso la cattedra di clinica psichiatrica e conferisce il diploma di specialista in psichiatria.
+
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
+
+Il numero complessivo degli allievi e' di cinque per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Art. 122. - Le materie d'insegnamento sono le seguenti:
+
+1° Anno:
+
+metodologia del rapporto medico-paziente (annuale);
+
+psicologia (annuale);
+
+elementi di genetica e biochimica (annuale);
+
+struttura e funzioni integrative del SNC (annuale);
+
+neurologia clinica (annuale);
+
+clinica psichiatrica I (quadriennale).
+
+2° Anno:
+
+psicopatologia e psicodinamica (annuale);
+
+psicoterapia I (triennale);
+
+psicofarmacologia (annuale);
+
+psicofarmacoterapia (annuale);
+
+clinica psichiatrica II (quadriennale).
+
+3° Anno:
+
+psicodiagnostica ed informatica psichiatrica (annuale);
+
+psichiatria sociale I (biennale);
+
+psichiatria infantile (annuale);
+
+psicoterapia II (triennale);
+
+clinica psichiatrica III (quadriennale).
+
+4° Anno:
+
+psicosomatica (annuale);
+
+psichiatria sociale II (biennale);
+
+psichiatria forense (annuale);
+
+psicoterapia III (triennale);
+
+clinica psichiatrica IV (quadriennale).
+
+Note esplicative.
+
+1) Strutture e funzioni integrative del SNC: tale materia, annuale, e' comprensiva dell'anatomofisiologia del SNC e della psicofisiologia.
+
+2) Neurologia clinica: tale insegnamento, annuale, deve essere comprensivo, eventualmente con sottodivisioni di cenni di anatomia patologica del SN, di semeiotica neurologica, clinica e strumentale, di neuroradiologia.
+
+3) Clinica psichiatrica: tale materia, quadriennale, e' comprensiva anche degli elementi di semeiotica psichiatrica, delle tecniche laboratoristiche, delle terapie biologiche.
+
+4) Psicoterapia: tale materia, triennale, comprende e considera nel corso dei tre anni, le tecniche ed i principi fondamentali delle principali psicoterapie individuali, direttive e non direttive, i principi fondamentali e le dinamiche delle piu' importanti psicoterapie di gruppo, delle prassi psicoterapiche, socioterapiche e delle sociodinamiche delle istituzioni psichiatriche.
+
+5) Psicodiagnostica ed informatica psichiatrica: tale materia, annuale, e' comprensiva di cenni di statistica, dei reattivi mentali e psicodiagnostica strumentale e di metodologia della ricerca psichiatrica.
+
+6) Psichiatria sociale: tale materia, biennale, con molte possibilita' di suddivisioni, e' comprensiva di elementi di sociologia, di antropologia culturale, di etologia, di ecologia psichiatrica, di epidemiologia psichiatrica, di psichiatria transculturale, di psichiatria preventiva e di igiene mentale, prassi ed organizzazione di assistenza psichiatrica sul territorio extra istituzionale.
+
+7) Psicosomatica: tale materia, annuale, e' comprensiva degli aspetti psichici delle malattie somatiche della cosiddetta medicina, integrata, della endocrinologia in riferimento alla psichiatria, delle cosiddette specifiche malattie psicosomatiche.
+
+Art. 123. - E' obbligatoria la frequenza per undici mesi all'anno; tale periodo comprende sia la frequenza alle lezioni, sia l'attivita' nei reparti di degenza e nelle strutture ambulatoriali a disposizione della scuola. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.
+
+La scuola programma lo svolgimento dei corsi di insegnamento. Per il passaggio agli anni successivi e' obbligatorio il superamento degli esami per ogni singolo anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Le lezioni teoriche sono integrate da seminari anche interdisciplinari, da documentazioni cliniche e da esperienze effettuate nei vari settori della disciplina.
+
+Alla fine dei quattro anni gli allievi che hanno frequentato i corsi saranno ammessi all'esame di diploma, consistente nella presentazione e discussione di una tesi scritta di argomento pertinente alla psichiatria, in una prova orale ed in una prova pratica.
+
+Agli allievi che hanno ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specializzazione in psichiatria valido a tutti gli effetti di legge.
+
+L'ordinamento della scuola di specializzazione in radiologia di cui al [decreto del Presidente della Repubblica 25 maggio 1976, n. 539](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-05-25;539), e' soppresso e sostituito dal seguente:
+
+Scuola di specializzazione in radiologia
+
+Art. 157. - La scuola di specializzazione in radiologia ha sede presso l'istituto di radiologia ed e' diretta da un professore di ruolo o fuori ruolo della stessa materia o, in carenza, di materia affine. Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso di diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione per titoli ed esami.
+
+Non sono ammesse abbreviazioni di corso.
+
+Art. 158. - La scuola conferisce i seguenti diplomi:
+
+a) diploma di specialista in radiodiagnostica.
+
+Gli anni di studio necessari per conseguire questo titolo sono quattro;
+
+b) diploma di specialista in radioterapia oncologica.
+
+Gli anni di studio necessari per conseguire questo titolo sono quattro.
+
+La scuola ha un tronco comune di due anni identico per il diploma in radiodiagnostica e radioterapia oncologica.
+
+Gli insegnamenti per il diploma di specialista in radiodiagnostica sono cosi' distribuiti nei quattro anni di corso:
+
+1° Anno (comune alla specializzazione in radioterapia oncologica):
+
+a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);
+
+b) radiobiologia, legislazione e norme generali di radioprotezione;
+
+c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;
+
+d) nozioni di anatomia e fisiologia generale.
+
+2° Anno (comune alla specializzazione in radioterapia oncologica):
+
+a) anatomia patologica;
+
+b) apparecchiature e tecniche radiologiche;
+
+c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);
+
+d) radiopatologia;
+
+e) dosimetria applicata.
+
+3° Anno
+
+a) tecniche speciali e relativa semeiotica (I);
+
+b) radiodiagnostica speciale dei vari organi ed apparati (I). 4° Anno:
+
+a) tecniche speciali e relativa semeiotica (temiografia, ecografia, xerografia, TAC) (II);
+
+b) radiodiagnostica speciale dei vari organi ed apparati (II).
+
+Gli insegnamenti per il diploma di specialista in radioterapia oncologica sono cosi' distribuiti nei quattro anni di corso:
+
+1° Anno (comune alla specializzazione in radiodiagnostica):
+
+a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);
+
+b) radiobiologia, legislazione e norme generali di radioprotezione;
+
+c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione ed archiviazione;
+
+d) nozioni di anatomia e fisiologia generale.
+
+2° Anno:
+
+a) anatomia patologica;
+
+b) apparecchiature e tecniche radiologiche;
+
+c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);
+
+d) radiopatologia;
+
+e) dosimetria applicata.
+
+3° Anno:
+
+a) oncologia generale;
+
+b) oncologia clinica (I);
+
+c) tecniche radioterapiche.
+
+4° Anno:
+
+a) oncologia clinica (II);
+
+b) fondamenti di terapia chirurgica dei tumori;
+
+c) radioterapia clinica;
+
+d) trattamento del canceroso in fase avanzata.
+
+I singoli insegnamenti saranno tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento.
+
+Il numero massimo di iscritti in corso alla scuola e' di trentadue da ripartirsi annualmente fra i vari corsi di diploma previsti dall'art. 158.
+
+La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei.
+
+L'insegnamento verra' svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti ecc. Gli allievi per essere ammessi a sostenere gli esami delle singole materie, dovranno avere la firma di frequenza da parte del direttore della scuola stessa.
+
+Gli allievi al termine di ogni anno dovranno superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.
+
+Gli allievi per conseguire il diploma di specializzazione, oltre ad essere stati approvati in tutti gli esami, dovranno elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1978
+
+PERTINI
+
+PEDINI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 18 luglio 1979 Registro n. 56 Istruzione, foglio n. 76
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [regio decreto 12 ottobre 1927, n. 2255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-12;2255) e modificato con i [regi decreti 15 novembre 1928, n. 2606](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1928-11-15;2606); [31 ottobre 1929, n. 2400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1929-10-31;2400); [1 ottobre 1931, n. 1372](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-01;1372); [27 ottobre 1932, n. 2062](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-10-27;2062); [27 dicembre 1934, n. 2448](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-27;2448); [27 ottobre 1936, n. 2457](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-27;2457); [27 marzo 1939, numero 1296](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-03-27;1296); [9 maggio 1939, n. 1469](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-05-09;1469); [26 ottobre 1940, n. 2065](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2065); [27 aprile 1942, n. 470](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-04-27;470); [5 settembre 1942, numero 1266 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-09-05;1266) [30 ottobre 1949, n. 1028](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1028); [18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964); [25 luglio 1952, n 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207); [10 febbraio 1953, n. 377](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;377); [8 febbraio 1954, n. 402](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-02-08;402) e [19 luglio 1955, n. 778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-19;778);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 3 novembre 1952, n. 1787](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-11-03;1787);  
-Veduta, la [legge 20 ottobre 1954, n. 1034](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-10-20;1034);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso: gli articoli 121, 122 e 123, relativi alla scuola di specializzazione in psichiatria, sono soppressi e sostituiti dai seguenti:   
   
-Agli articoli 25 e 26 sono aggiunte le seguenti disposizioni concernenti il terzo biennio della Facolta' di medicina e chirurgia.  
-Sono inoltre inclusi nuovi insegnamenti complementari nei corsi di laurea in medicina e chirurgia ed in farmacia.  
-Art. 25. - Dopo il terzo comma e' aggiunto:  
-Terzo biennio:  
-14) Clinica medica generale e terapia medica (biennale;  
-15) Clinica chirurgica generale e terapia chirurgica (biennale);  
-16) Clinica pediatrica;  
-17) Clinica ostetrica e ginecologica;  
-18) Igiene;  
-19) Medicina legale e delle assicurazioni;  
-20) Clinica delle malattie nervose e mentali (semestrale);  
-21) Clinica dermosifilopatica (semestrale);  
-22) Clinica oculistica (semestrale);  
-23) Clinica odontoiatrica (semestrale);  
-24) Radiologia (semestrale).  
-Agli insegnamenti complementari del corso di laurea in medicina, e chirurgia e' aggiunto quello di:  
-12) Psicologia.  
-L'art. 26 e' sostituito dal seguente:  
-Per ottenere l'iscrizione al terzo anno ed al quinto anno, lo studente deve avere seguito gli insegnamenti fondamentali prescritti rispettivamente per il primo e per il secondo biennio e superato i relativi esami.  
-Gli esami di "fisiologia umana" e di "patologia generale" debbono essere superati prima di sostenere quelli di "patologia speciale medica" e di "patologia speciale chirurgica".  
-Per l'insegnamento di "anatomia ed istologia patologica" e' prescritto alla fine del quarto anno, un colloquio sulle "istituzioni" e sulla "istologia patologica", ed un esame su tutta la materia alla fine del quinto anno; lo studente che non abbia superato questo esame non puo' essere ammesso a sostenere gli esami nelle discipline del sesto anno.  
-L'insegnamento delle cliniche medica, chirurgica ed ostetrico-ginecologica deve essere completato da un tirocinio pratico continuativo di almeno sei mesi, in istituti ospedalieri, da iniziare dopo la chiusura dei corsi di insegnamento del sesto anno e da compiere prima che i giovani si presentino a sostenere l'esamne di abilitazione all'esercizio professionale.  
-Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in tre da lui scelti fra i complementari, e deve avere inoltre seguito le prescritte esercitazioni pratiche e cliniche.  
-Art. 66. - Agli insegnamenti complementari del corso di laurea in farmacia e' aggiunto quello di:  
-8) Scienza dell'alimentazione.  
+Scuola di specializzazione in psichiatria   
+  
+Art. 121. - La scuola di specializzazione in psichiatria ha sede presso la cattedra di clinica psichiatrica e conferisce il diploma di specialista in psichiatria.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
+Il numero complessivo degli allievi e' di cinque per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Art. 122. - Le materie d'insegnamento sono le seguenti:   
+1° Anno:   
+metodologia del rapporto medico-paziente (annuale);   
+psicologia (annuale);   
+elementi di genetica e biochimica (annuale);   
+struttura e funzioni integrative del SNC (annuale);   
+neurologia clinica (annuale);   
+clinica psichiatrica I (quadriennale).   
+2° Anno:   
+psicopatologia e psicodinamica (annuale);   
+psicoterapia I (triennale);   
+psicofarmacologia (annuale);   
+psicofarmacoterapia (annuale);   
+clinica psichiatrica II (quadriennale).   
+3° Anno:   
+psicodiagnostica ed informatica psichiatrica (annuale);   
+psichiatria sociale I (biennale);   
+psichiatria infantile (annuale);   
+psicoterapia II (triennale);   
+clinica psichiatrica III (quadriennale).   
+4° Anno:   
+psicosomatica (annuale);   
+psichiatria sociale II (biennale);   
+psichiatria forense (annuale);   
+psicoterapia III (triennale);   
+clinica psichiatrica IV (quadriennale).   
+Note esplicative.   
+1) Strutture e funzioni integrative del SNC: tale materia, annuale, e' comprensiva dell'anatomofisiologia del SNC e della psicofisiologia.   
+2) Neurologia clinica: tale insegnamento, annuale, deve essere comprensivo, eventualmente con sottodivisioni di cenni di anatomia patologica del SN, di semeiotica neurologica, clinica e strumentale, di neuroradiologia.   
+3) Clinica psichiatrica: tale materia, quadriennale, e' comprensiva anche degli elementi di semeiotica psichiatrica, delle tecniche laboratoristiche, delle terapie biologiche.   
+4) Psicoterapia: tale materia, triennale, comprende e considera nel corso dei tre anni, le tecniche ed i principi fondamentali delle principali psicoterapie individuali, direttive e non direttive, i principi fondamentali e le dinamiche delle piu' importanti psicoterapie di gruppo, delle prassi psicoterapiche, socioterapiche e delle sociodinamiche delle istituzioni psichiatriche.   
+5) Psicodiagnostica ed informatica psichiatrica: tale materia, annuale, e' comprensiva di cenni di statistica, dei reattivi mentali e psicodiagnostica strumentale e di metodologia della ricerca psichiatrica.   
+6) Psichiatria sociale: tale materia, biennale, con molte possibilita' di suddivisioni, e' comprensiva di elementi di sociologia, di antropologia culturale, di etologia, di ecologia psichiatrica, di epidemiologia psichiatrica, di psichiatria transculturale, di psichiatria preventiva e di igiene mentale, prassi ed organizzazione di assistenza psichiatrica sul territorio extra istituzionale.   
+7) Psicosomatica: tale materia, annuale, e' comprensiva degli aspetti psichici delle malattie somatiche della cosiddetta medicina, integrata, della endocrinologia in riferimento alla psichiatria, delle cosiddette specifiche malattie psicosomatiche.   
+Art. 123. - E' obbligatoria la frequenza per undici mesi all'anno; tale periodo comprende sia la frequenza alle lezioni, sia l'attivita' nei reparti di degenza e nelle strutture ambulatoriali a disposizione della scuola. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
+La scuola programma lo svolgimento dei corsi di insegnamento. Per il passaggio agli anni successivi e' obbligatorio il superamento degli esami per ogni singolo anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
+Le lezioni teoriche sono integrate da seminari anche interdisciplinari, da documentazioni cliniche e da esperienze effettuate nei vari settori della disciplina.   
+Alla fine dei quattro anni gli allievi che hanno frequentato i corsi saranno ammessi all'esame di diploma, consistente nella presentazione e discussione di una tesi scritta di argomento pertinente alla psichiatria, in una prova orale ed in una prova pratica.   
+Agli allievi che hanno ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specializzazione in psichiatria valido a tutti gli effetti di legge.   
+L'ordinamento della scuola di specializzazione in radiologia di cui al [decreto del Presidente della Repubblica 25 maggio 1976, n. 539](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-05-25;539), e' soppresso e sostituito dal seguente:   
+  
+Scuola di specializzazione in radiologia   
+  
+Art. 157. - La scuola di specializzazione in radiologia ha sede presso l'istituto di radiologia ed e' diretta da un professore di ruolo o fuori ruolo della stessa materia o, in carenza, di materia affine. Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso di diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione per titoli ed esami.   
+Non sono ammesse abbreviazioni di corso.   
+Art. 158. - La scuola conferisce i seguenti diplomi:   
+a) diploma di specialista in radiodiagnostica.   
+Gli anni di studio necessari per conseguire questo titolo sono quattro;   
+b) diploma di specialista in radioterapia oncologica.   
+Gli anni di studio necessari per conseguire questo titolo sono quattro.   
+La scuola ha un tronco comune di due anni identico per il diploma in radiodiagnostica e radioterapia oncologica.   
+Gli insegnamenti per il diploma di specialista in radiodiagnostica sono cosi' distribuiti nei quattro anni di corso:   
+1° Anno (comune alla specializzazione in radioterapia oncologica):   
+a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);   
+b) radiobiologia, legislazione e norme generali di radioprotezione;   
+c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;   
+d) nozioni di anatomia e fisiologia generale.   
+2° Anno (comune alla specializzazione in radioterapia oncologica):   
+a) anatomia patologica;   
+b) apparecchiature e tecniche radiologiche;   
+c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);   
+d) radiopatologia;   
+e) dosimetria applicata.   
+3° Anno   
+a) tecniche speciali e relativa semeiotica (I);   
+b) radiodiagnostica speciale dei vari organi ed apparati (I). 4° Anno:   
+a) tecniche speciali e relativa semeiotica (temiografia, ecografia, xerografia, TAC) (II);   
+b) radiodiagnostica speciale dei vari organi ed apparati (II).   
+Gli insegnamenti per il diploma di specialista in radioterapia oncologica sono cosi' distribuiti nei quattro anni di corso:   
+1° Anno (comune alla specializzazione in radiodiagnostica):   
+a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);   
+b) radiobiologia, legislazione e norme generali di radioprotezione;   
+c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione ed archiviazione;   
+d) nozioni di anatomia e fisiologia generale.   
+2° Anno:   
+a) anatomia patologica;   
+b) apparecchiature e tecniche radiologiche;   
+c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);   
+d) radiopatologia;   
+e) dosimetria applicata.   
+3° Anno:   
+a) oncologia generale;   
+b) oncologia clinica (I);   
+c) tecniche radioterapiche.   
+4° Anno:   
+a) oncologia clinica (II);   
+b) fondamenti di terapia chirurgica dei tumori;   
+c) radioterapia clinica;   
+d) trattamento del canceroso in fase avanzata.   
+I singoli insegnamenti saranno tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento.   
+Il numero massimo di iscritti in corso alla scuola e' di trentadue da ripartirsi annualmente fra i vari corsi di diploma previsti dall'art. 158.   
+La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei.   
+L'insegnamento verra' svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti ecc. Gli allievi per essere ammessi a sostenere gli esami delle singole materie, dovranno avere la firma di frequenza da parte del direttore della scuola stessa.   
+Gli allievi al termine di ogni anno dovranno superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.   
+Gli allievi per conseguire il diploma di specializzazione, oltre ad essere stati approvati in tutti gli esami, dovranno elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 settembre 1955
+### Dato a Roma, addi' 31 ottobre 1978
 
-GRONCHI ROSSI
+PERTINI PEDINI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 25 ottobre 1955
+Registrato alla Corte dei conti, addi' 18 luglio 1979
 
-Atti del Governo, registro n. 93, foglio n. 90. - CARLOMAGNO
+Registro n. 56 Istruzione, foglio n. 76

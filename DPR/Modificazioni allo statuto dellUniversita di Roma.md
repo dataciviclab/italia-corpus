@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 dicembre 1969 n. 1162
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1949 n. 1178
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 dicembre 1969 n. 1162
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1949 n. 1178
+===============================================================
 
 Modificazioni allo statuto dell'Universita' di Roma.
 ----------------------------------------------------
@@ -10,313 +10,86 @@ Modificazioni allo statuto dell'Universita' di Roma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 14 ottobre 1926, n. 2319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2319), e modificato con i [regi decreti 13 ottobre 1927, n. 2819](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2819); [20 settembre 1928, n. 3018](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-09-20;3018); [31 ottobre 1929, n. 2483](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2483); [30 ottobre 1930, n. 1828](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1828); [1 ottobre 1931, n. 1329](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-01;1329); [22 ottobre 1931, n. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-22;17).4; 22 ottobre 1932, n. 2090; 26 ottobre 1933, n. 2391; 27 dicembre 1934, n. 2419; 1 ottobre 1906, n. 2498; 27 ottobre 1937, n. 2619; 20 aprile 1939, n. 1350; 26 ottobre 1939, n. 1734; 26 ottobre 1940, n. 2069;, 4 maggio 1942, n. 565; 24 luglio 1942, n. 964; 24 agosto 1942, n. 1098; 24 ottobre 1942, n. 1672; e con [decreti del Capo provvisorio dello Stato 12 febbraio 1947, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-12;461); [31 dicembre 1947, n. 1758 e con decreto del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1758) [18 luglio 1949, n. 882](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-07-18;882);
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1502);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte relative alla modifica allo statuto formulate dalle autorita' accademiche della Universita' predetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la necessita' di approvare le nuove modificazioni proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla
+-----
 
-Decreta:
+proposta del Ministro per la pubblica istruzione; Decreta:
 
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Articolo unico
+--------------
 
-Gli articoli 146, 149, 152, 155, 156, 157 relativi alla scuola di ingegneria aerospaziale sono modificati nel modo seguente:
-
-Art. 146. - E' modificato nel senso che il secondo comma e' soppresso.
-
-Art. 149. - E' modificato nel senso che nel primo periodo, sono soppresse le parole "e indirizzo".
-
-Art. 152. - E' abrogato e sostituito dal seguente:
-
-"Alla preparazione del progetto di laurea sara' destinata una parte delle esercitazioni che potranno, per speciali esigenze, essere prolungate oltre il limite stabilito".
-
-Art. 155. - E' abrogato e sostituito dal seguente:
-
-"Le materie d'insegnamento della scuola di ingegneria aerospaziale sono le seguenti:
-
-1) Meccanica del volo spaziale;
-
-2) Costruzioni aeronautiche;
-
-3) Aerodinamica e astrodinamica;
-
-4) Tecnica aerospaziale;
-
-5) Elettronica aerospaziale;
-
-6) Propulsione aerospaziale;
-
-7) Calcolo elettronico;
-
-8) Biologia aerospaziale;
-
-9) Economia dei trasporti aerospaziali;
-
-10) Elementi costruttivi dei velivoli;
-
-11) Gasdinamica sperimentale;
-
-12) Impianti e sperimentazione aerospaziale;
-
-13) Telemisure aerospaziali;
-
-14) Meccanica e stabilita' delle aerodine;
-
-15) Astrodinamica applicata;
-
-16) Gasdinamica;
-
-17) Dinamica dei fluidi ionizzati e rarefatti;
-
-18) Sistemi di propulsione aeromissilistica;
-
-19) Sistemi di propulsione spaziale;
-
-20) Servosistemi aeromissilistici;
-
-21) Sistemi spaziali;
-
-22) Complementi di sistematica applicata;
-
-23) Materiali aerospaziali".
-
-Art. 156. - E' abrogato e sostituito dal seguente:
-
-"L'ordine degli studi della scuola e' il seguente:
-
-1° Anno (comune alle due sezioni):
-
-Materie fondamentali:
-
-1) Meccanica del volo spaziale;
-
-2) Costruzioni aeronautiche;
-
-3) Aerodinamica e astrodinamica;
-
-4) Tecnica aerospaziale;
-
-5) Elettronica aerospaziale;
-
-6) Propulsione aerospaziale.
-
-Materie complementari: una a scelta fra le seguenti:
-
-1) Calcolo elettronico;
-
-2) Biologia aerospaziale;
-
-3) Economia dei trasporti aerospaziali.
-
-2° Anno:
-
-SEZIONE AEROMISSILISTICA
-
-Materie fondamentali:
-
-1) Elementi costruttivi dei velivoli;
-
-2) Gasdinamica sperimentale;
-
-3) Impianti e sperimentazione aerospaziale;
-
-4) Telemisure aerospaziali;
-
-5) Meccanica e stabilita' delle aerodine;
-
-6) Gasdinamica;
-
-7) Sistemi di propulsione aeromissilistica;
-
-8) Servosistemi aeromissilistici.
-
-Materie complementari: una a scelta tra le seguenti:
-
-1) Complementi di sistematica applicata;
-
-2) Materiali aerospaziali.
-
-SEZIONE ASTRONAUTICA
-
-Materie fondamentali:
-
-1) Elementi costruttivi dei velivoli;
-
-2) Gasdinamica sperimentale;
-
-3) Impianti e sperimentazione aerospaziale;
-
-4) Telemisure aerospaziali;
-
-5) Astrodinamica applicata;
-
-6) Dinamica dei fluidi ionizzati e rarefatti;
-
-7) Sistemi di propulsione spaziale;
-
-8) Sistemi spaziali.
-
-Materie complementari:
-
-1) Complementi di sistematica applicata;
-
-2) Materiali aerospaziali".
-
-Art. 157. - E' abrogato e sostituito dal seguente:
-
-"Sono istituiti i seguenti criteri di propedeuticita':
-
-a) L'esame di meccanica del volo e' propedeutico agli esami di:
-
-Meccanica e stabilita' delle aerodine. Astrodinamica applicata.
-
-b) L'esame di costruzioni aeronautiche e' propedeutico agli esami di: Elementi costruttivi dei velivoli. Sistemi spaziali.
-
-c) L'esame di aerodinamica e astrodinamica e' propedeutico agli esami di: Gasdinamica sperimentale. Meccanica e stabilita' delle aerodine. Gasdinamica. Dinamica dei fluidi ionizzati e rarefatti.
-
-d) L'esame di elettronica aerospaziale e' propedeutico all'esame di telemisure aerospaziali.
-
-e) L'esame di propulsione aerospaziale e' propedeutico agli esami di: Sistemi di propulsione aeromissilistica. Sistemi di propulsione spaziale".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 10 dicembre 1969
-
-SARAGAT
-
-FERRARI AGGRADI
-
-Visto, il Guardasigilli: GAVA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 14 febbraio 1970 Atti del Governo, registro n. 231, foglio n. 121. - CARUSO
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
+Lo statuto dell'Universita' di Roma, approvato e modificato con i decreti sopra indicati e' cosi' ulteriormente modificato:  
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Gli articoli 146, 149, 152, 155, 156, 157 relativi alla scuola di ingegneria aerospaziale sono modificati nel modo seguente:  
-Art. 146. - E' modificato nel senso che il secondo comma e' soppresso.  
-Art. 149. - E' modificato nel senso che nel primo periodo, sono soppresse le parole "e indirizzo".  
-Art. 152. - E' abrogato e sostituito dal seguente:  
-"Alla preparazione del progetto di laurea sara' destinata una parte delle esercitazioni che potranno, per speciali esigenze, essere prolungate oltre il limite stabilito".  
-Art. 155. - E' abrogato e sostituito dal seguente:  
-"Le materie d'insegnamento della scuola di ingegneria aerospaziale sono le seguenti:  
-1) Meccanica del volo spaziale;  
-2) Costruzioni aeronautiche;  
-3) Aerodinamica e astrodinamica;  
-4) Tecnica aerospaziale;  
-5) Elettronica aerospaziale;  
-6) Propulsione aerospaziale;  
-7) Calcolo elettronico;  
-8) Biologia aerospaziale;  
-9) Economia dei trasporti aerospaziali;  
-10) Elementi costruttivi dei velivoli;  
-11) Gasdinamica sperimentale;  
-12) Impianti e sperimentazione aerospaziale;  
-13) Telemisure aerospaziali;  
-14) Meccanica e stabilita' delle aerodine;  
-15) Astrodinamica applicata;  
-16) Gasdinamica;  
-17) Dinamica dei fluidi ionizzati e rarefatti;  
-18) Sistemi di propulsione aeromissilistica;  
-19) Sistemi di propulsione spaziale;  
-20) Servosistemi aeromissilistici;  
-21) Sistemi spaziali;  
-22) Complementi di sistematica applicata;  
-23) Materiali aerospaziali".  
-Art. 156. - E' abrogato e sostituito dal seguente:  
-"L'ordine degli studi della scuola e' il seguente:  
-  
-1° Anno (comune alle due sezioni):  
-Materie fondamentali:  
-1) Meccanica del volo spaziale;  
-2) Costruzioni aeronautiche;  
-3) Aerodinamica e astrodinamica;  
-4) Tecnica aerospaziale;  
-5) Elettronica aerospaziale;  
-6) Propulsione aerospaziale.  
-Materie complementari: una a scelta fra le seguenti:  
-1) Calcolo elettronico;  
-2) Biologia aerospaziale;  
-3) Economia dei trasporti aerospaziali.  
-  
-2° Anno:  
-SEZIONE AEROMISSILISTICA  
-  
-Materie fondamentali:  
-1) Elementi costruttivi dei velivoli;  
-2) Gasdinamica sperimentale;  
-3) Impianti e sperimentazione aerospaziale;  
-4) Telemisure aerospaziali;  
-5) Meccanica e stabilita' delle aerodine;  
-6) Gasdinamica;  
-7) Sistemi di propulsione aeromissilistica;  
-8) Servosistemi aeromissilistici.  
-Materie complementari: una a scelta tra le seguenti:  
-1) Complementi di sistematica applicata;  
-2) Materiali aerospaziali.  
-  
-SEZIONE ASTRONAUTICA  
-  
-Materie fondamentali:  
-1) Elementi costruttivi dei velivoli;  
-2) Gasdinamica sperimentale;  
-3) Impianti e sperimentazione aerospaziale;  
-4) Telemisure aerospaziali;  
-5) Astrodinamica applicata;  
-6) Dinamica dei fluidi ionizzati e rarefatti;  
-7) Sistemi di propulsione spaziale;  
-8) Sistemi spaziali.  
-Materie complementari:  
-1) Complementi di sistematica applicata;  
-2) Materiali aerospaziali".  
-  
-Art. 157. - E' abrogato e sostituito dal seguente:  
-"Sono istituiti i seguenti criteri di propedeuticita':  
-a) L'esame di meccanica del volo e' propedeutico agli esami di:  
-Meccanica e stabilita' delle aerodine. Astrodinamica applicata.  
-b) L'esame di costruzioni aeronautiche e' propedeutico agli esami di: Elementi costruttivi dei velivoli. Sistemi spaziali.  
-c) L'esame di aerodinamica e astrodinamica e' propedeutico agli esami di: Gasdinamica sperimentale. Meccanica e stabilita' delle aerodine. Gasdinamica. Dinamica dei fluidi ionizzati e rarefatti.  
-d) L'esame di elettronica aerospaziale e' propedeutico all'esame di telemisure aerospaziali.  
-e) L'esame di propulsione aerospaziale e' propedeutico agli esami di: Sistemi di propulsione aeromissilistica. Sistemi di propulsione spaziale".  
+Titolo XIV - Scuola d'ingegneria aeronautica - Articolo 137: la denominazione dell'insegnamento di "Aeronautica generale" viene modificata in quella di "Meccanica del volo".  
+Nello stesso art. 137 viene soppresso dalle materie della predetta Scuola l'insegnamento di "balistica ed armi aeronautiche".  
+L'art. 137, pertanto, viene cosi' modificato;  
+Le materie d'insegnamento nella Scuola di ingegneria aeronautica sono le seguenti:  
+1) meccanica del volo (con esercitazioni di laboratorio);  
+2) aerodinamica (con esercitazioni di laboratorio);  
+3) costruzioni aeronautiche (con esercitazioni di laboratorio);  
+4) motori d'aviazione (con esercitazioni, laboratorio e sala montaggio);  
+5) aerologia;  
+6) diritto aeronautico;  
+7) elementi costruttivi dei velivoli;  
+8) elementi costruttivi dei motori;  
+9) tecnologia dei materiali dei velivoli (con esercitazioni di laboratorio);  
+10) tecnologia dei materiali dei motori (con esercitazioni di laboratorio);  
+11) complementi di termodinamica tecnica;  
+12) accessori e istallazioni dei motori;  
+13) collaudo e strumenti di bordo;  
+14) economia dei trasporti aerei.  
+Tali insegnamenti sono suddivisi come appresso tra il ramo velivoli e il ramo motori:  
+Ramo velivoli Ramo motori  
+Meccanica del volo (con Meccanica del volo (con  
+esercitazioni e labora- esercitazioni e labora-  
+torio) torio)  
+Aerodinamica (con eser- Aerodinamica (con eser-  
+citazioni e laborato- citazioni e laborato-  
+rio) rio)  
+Costruzioni aeronautiche Costruzioni aeronautiche  
+(con esercitazioni e (con esercitazioni e  
+laboratorio) laboratorio)  
+Motori d'aviazione (con Motori d'aviazione (con  
+esercitazioni e labora- esercitazioni, labora-  
+torio e sala montaggio) torio e sala montaggio)  
+Aerologia Dinamica dei motori  
+Diritto aeronautico Diritto aeronautico  
+Elementi costruttivi dei Elementi costruttivi dei  
+velivoli motori  
+Tecnologia dei materiali Tecnologia dei materiali  
+dei velivoli (con eser- dei motori (con eserci-  
+citazioni e laborato- tazioni e laboratorio)  
+rio)  
+Economia trasporti aerei Termodinamica  
+Accessori e istallazioni Accessori e istallazioni  
+dei motori dei motori  
+Collaudo e strumenti di Prove e collaudo dei mo-  
+bordo tori  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 dicembre 1969
+### Dato a Roma, addi' 20 ottobre 1949
 
-SARAGAT FERRARI AGGRADI
+EINAUDI GONELLA
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: GRASSI
 
-Registrato alla Corte dei conti, addi' 14 febbraio 1970
+Registrato alla Corte dei conti, addi' 16 maggio 1930
 
-Atti del Governo, registro n. 231, foglio n. 121. - CARUSO
+Atti del Governo, registro n. 33, foglio n. 15. - FRASCA

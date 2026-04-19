@@ -1,120 +1,23 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1968 n. 1132
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 settembre 1965 n. 1210
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1968 n. 1132
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 settembre 1965 n. 1210
 =================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-dopo l'art. 196 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi all'istituzione, presso la facolta' di medicina e chirurgia, della scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale.
-
-Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale
-
-Art. 197. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale, con sede presso la clinica otorinolaringoiatrica.
-
-Art. 198. - Il numero massimo di iscritti per l'intero corso di studi e' di sei. Nel caso che le domande di iscrizione al primo anno superino il numero compatibile con quanto disposto nel precedente comma, l'ammissione e' subordinata all'esito di un concorso per titoli e per esami; l'esame consiste in un prova scritta su argomento medico chirurgico generale.
-
-Art. 199. - La durata dei corsi e' di tre anni.
-
-Art. 200. - Le materie di insegnamento sono le seguenti, distribuite nei tre anni di corso:
-
-1° Anno:
-
-1. Anatomia;
-
-2. Fisiologia;
-
-3. Audiologia (1° anno);
-
-4. Semeiotica otorinolaringoiatrica;
-
-5. Tecnica di laboratorio;
-
-6. Patologia otorinolaringoiatrica e cervico-facciale (1° anno);
-
-7. Anatomia ed istologia patologica otorinolaringoiatrica.
-
-2° Anno:
-
-1. Tecniche operatorie in otorinolaringoiatria;
-
-2. Anestesiologia in otorinolaringoiatria;
-
-3. Patologia e clinica otorinolaringoiatrica e cervico facciale (2° anno);
-
-4. Radiologia in rapporto con l'otorinolaringoiatria 5.
-
-Pediatria in rapporto con l'otorinolaringoiatria 6. Audiologia (2° anno);
-
-7. Otoneurologia;
-
-8. Foniatria.
-
-3° Anno:
-
-1. Patologia e clinica otorinolaringoiatrica e cervico-facciale;
-
-2. Terapia medica e fisica in otorinolaringoiatria;
-
-3. Neuropatologia in rapporto con l'otorinolaringoiatria;
-
-4. Oculistica in rapporto con l'otorinolaringoiatria 5.
-
-Chirurgia plastica;
-
-6. Tracheo-broncoscopia;
-
-7. Medicina legale ed infortunistica in otorinolaringoiatria.
-
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 24 settembre 1968
-
-SARAGAT
-
-SCAGLIA
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 2 novembre 1968 Atti del Governo, registro n. 223, foglio n. 77. - GRECO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -122,49 +25,34 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-dopo l'art. 196 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi all'istituzione, presso la facolta' di medicina e chirurgia, della scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale.  
-  
-Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale  
-  
-Art. 197. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale, con sede presso la clinica otorinolaringoiatrica.  
-Art. 198. - Il numero massimo di iscritti per l'intero corso di studi e' di sei. Nel caso che le domande di iscrizione al primo anno superino il numero compatibile con quanto disposto nel precedente comma, l'ammissione e' subordinata all'esito di un concorso per titoli e per esami; l'esame consiste in un prova scritta su argomento medico chirurgico generale.  
-Art. 199. - La durata dei corsi e' di tre anni.  
-Art. 200. - Le materie di insegnamento sono le seguenti, distribuite nei tre anni di corso:  
-1° Anno:  
-1. Anatomia;  
-2. Fisiologia;  
-3. Audiologia (1° anno);  
-4. Semeiotica otorinolaringoiatrica;  
-5. Tecnica di laboratorio;  
-6. Patologia otorinolaringoiatrica e cervico-facciale (1° anno);  
-7. Anatomia ed istologia patologica otorinolaringoiatrica.  
-2° Anno:  
-1. Tecniche operatorie in otorinolaringoiatria;  
-2. Anestesiologia in otorinolaringoiatria;  
-3. Patologia e clinica otorinolaringoiatrica e cervico facciale (2° anno);  
-4. Radiologia in rapporto con l'otorinolaringoiatria 5.  
-Pediatria in rapporto con l'otorinolaringoiatria 6. Audiologia (2° anno);  
-7. Otoneurologia;  
-8. Foniatria.  
-3° Anno:  
-1. Patologia e clinica otorinolaringoiatrica e cervico-facciale;  
-2. Terapia medica e fisica in otorinolaringoiatria;  
-3. Neuropatologia in rapporto con l'otorinolaringoiatria;  
-4. Oculistica in rapporto con l'otorinolaringoiatria 5.  
-Chirurgia plastica;  
-6. Tracheo-broncoscopia;  
-7. Medicina legale ed infortunistica in otorinolaringoiatria.  
+Art. 21. - Agli istituti annessi alla Facolta' di giurisprudenza e' aggiunto il seguente: (Istituto di studi africani".  
+Art. 26. - All'elenco degli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti i seguenti:  
+Statistica assicurativa;  
+Tecnica delle assicurazioni sociali;  
+Diritto delle assicurazioni sociali.  
+Nello stesso elenco l'insegnamento complementare di "Assicurazioni sociali" e' soppresso.  
+Art. 27, relativo agli Istituti della Facolta' di economia e commercio e' modificato nel senso che l'"Istituto di ragioneria e tecnica aziendale" muta denominazione in "Istituto di tecnica economica e di ragioneria".  
+Art. 35. - All'elenco degli insegnamenti complementari del corso di laurea in Materie letterarie e' aggiunto quello di "Storia contemporanea".  
+Art. 36. - All'elenco degli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti i seguenti:  
+Psicologia sociale;  
+Storia contemporanea.  
+Art. 37. - All'elenco degli insegnamenti complementari dei corso di laurea in Lingue e letterature straniere sono aggiunti i seguenti Storia contemporanea:  
+Storia della letteratura italiana moderna e contemporanea.  
+Art. 50. - All'elenco degli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti i seguenti:  
+Virologia;  
+Tecnica e diagnostica istopatologica.  
+Nello stesso elenco l'insegnamento complementare di "Fisica nucleare applicata alla medicina" muta denominazione in "Medicina nucleare".  
   
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 settembre 1968
+### Dato a Roma, addi' 28 settembre 1965
 
-SARAGAT SCAGLIA
+SARAGAT GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 2 novembre 1968
+Registrato alla Corte dei conti, addi' 30 ottobre 1965
 
-Atti del Governo, registro n. 223, foglio n. 77. - GRECO
+Atti del Governo, registro n. 197, foglio n. 143. - VILLA

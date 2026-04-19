@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1981 n. 77
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1984 n. 1005
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1981 n. 77
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1984 n. 1005
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,18 @@ Art. 1
 
 N.
 
-77. Decreto del Presidente della Repubblica 29 gennaio 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Ternetz Paola Clara, come risulta dalla pubblicazione della disposizione testamentaria di cui all'atto in data 6 novembre 1975, n. 82341 di repertorio, n. 19156 di fascicolo, a rogito dott. Pietro Cassina, notaio in Milano, registrato a Milano il 19 novembre 1975 al n. A/4 -10727, serie M, consistente in titoli obbligazionari del complessivo valore di L. 3.000.000.  
+1005. Decreto del Presidente della Repubblica 22 ottobre 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la   
+fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene   
+autorizzata ad accettare il legato, consistente nella quota di 1/5 del 50% del valore di un appartamento sito in Milano, via Aselli n.   
+26, censito nel nuovo catasto edilizio urbano alla partita n.   
+33049, foglio n. 319, mappale n. 170 sub 11, e di beni mobili il   
+tutto, detratte le passivita', pari a L. 12.666.664, disposto dalla   
+sig.ra Giulia Vaccari ved. Morassutti con testamento pubblico 31   
+giugno 1968, redatto dal notaio dott. Domenico Moretti e dallo   
+stesso pubblicato in data 17 luglio 1981, n. 14396/26267 di   
+repertorio e registrato a Milano in data 29 luglio 1981 al n.   
+20924.   
   
-Visto, il Guardasigilli: SARTI  
-Registrato alla Corte dei conti, addi' 12 marzo 1981  
-Registro n. 2 Presidenza, foglio n. 215
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 25 gennaio 1985   
+Registro n. 1 Presidenza, foglio n. 181

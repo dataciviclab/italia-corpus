@@ -1,53 +1,154 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1950 n. 1277
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 690
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1950 n. 1277
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 690
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090) e modificato con [regio decreto 13 ottobre 1927, n. 2281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2281), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regi decreti 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;1904), [4 maggio 1942, n. 557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-05-04;557), [5 settembre 1942, n. 1120, e con decreto del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-09-05;1120) [26 febbraio 1949, n. 612](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;612);   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:   
+Gli articoli da 975 a 983, relativi alla scuola di specializzazione in farmacia ospedaliera, sono soppressi e sostituiti dai seguenti con il conseguente spostamento della numerazione degli articoli successivi:   
   
-Lo statuto dell'Universita' di Napoli approvato e modificato con i decreti sopraindicati e' cosi' ulteriormente modificato:   
-Attuale art. 51. - Alle materie complementari del corso di laurea in lettere sono aggiunti i seguenti insegnamenti:   
-13° lingua e letteratura francese;   
-14°lingua e letteratura rumena;   
-15°lingua e letteratura spagnola.   
-Dopo l'attuale art. 59, sono aggiunti i seguenti nuovi articoli, relativi alla creazione dell'Istituto di glottologia, con il conseguente spostamento della numerazione degli articoli successivi:   
-Art. 60. - Alla Facolta' di lettere e filosofia e' annesso un Istituto di glottologia, ordinato come Seminario ai sensi dell'art. 23 del regolamento generale universitario, approvato con regio decreto O aprile 1924, n. 674.   
-Art. 61. - L'Istituto il fine di promuovere ed agevolare studi e ricerche nel campo della glottologia antica e moderna.   
-Art. 62. - Per il raggiungimento della finalita' di cui al precedente articolo, l'Istituto dispone di una biblioteca, specializzata ed organizza discussioni, conferenze, pubblicazioni, raccolte di materiale bibliografico, ecc.   
-Art. 63. - Direttore dell'Istituto e' di diritto il titolare della cattedra di glottologia dell'Universita' di Napoli ed, in caso di vacanza, chi lo sostituisce nell'insegnamento ufficiale della glottologia.   
-Art. 64. - All'Istituto si glottica sono addetti un assistente cui sono affidati compiti scientifici e didattici; un subalterno di ruolo.   
-Art. 65. - Tutti gli studenti iscritti alla glottologia, nonche' i laureati in detta disciplina, possono partecipare a conferenze e a discussioni scientifiche ed in generale servirsi di tutti i mezzi di studio offerti dall'Istituto Attuale art. 107. - Alle materie complementari sono aggiunte le seguenti:   
-18. Aeronautica generale;   
-19. Attrezzatura e strumenti di bordo.   
-Dopo l'attuale art. 108, e' aggiunto il seguente comma"L'insegnamento di architettura tecnica, per i soli allievi della sezione civile, sottosezione edile, e' impartito in due anni accademici, sia in forma di lezioni che di esercitazioni pratiche e grafiche. L'esame e' unico alla fine del secondo anno".   
+Scuola di specializzazione in farmacia ospedaliera   
+  
+Art. 975. - E' istituita presso l'Universita' degli studi di Napoli la scuola di specializzazione in "farmacia ospedaliera" che conferisce il diploma di specializzazione in farmacia ospedaliera.   
+Art. 976. - La scuola ha lo scopo di assicurare ai laureati in discipline farmaceutiche la possibilita' di un perfezionamento nelle materie necessarie ad esercitare la loro attivita' nella farmacia ospedaliera. La scuola soddisfa precise esigenze espresse dal piano sanitario nazionale e/o regionale che richiede specialisti ospedalieri da inserire nelle strutture operanti sul territorio.   
+Art. 977. - La durata del corso e' di tre anni e non e' suscettibile di abbreviazioni.   
+Art. 978. - Il numero degli iscritti e' di quindici per ogni anno e complessivamente di quarantacinque per l'intero corso di studi.   
+Art. 979. - Alla scuola sono ammessi i laureati in farmacia, in chimica e tecnologie farmaceutiche. Per l'ammissione alla scuola e' richiesto il diploma di abilitazione all'esercizio professionale.   
+Art. 980. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta, integrata eventualmente da un colloquio, e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:   
+a) la tesi in una disciplina attinente alla specializzazione;   
+b) il voto di laurea;   
+c) il voto riportato negli esami di profitto del corso di laurea nelle materie attinenti alla specializzazione.   
+Il punteggio dei predetti titoli e' quello stabilito con decreto ministeriale del 16 settembre 1982. Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero di posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato. La commissione giudicatrice e' nominata dal rettore su proposta del consiglio di facolta' di farmacia.   
+Essa e' composta dal direttore, che la presiede, e da due professori che insegnano nella scuola stessa.   
+Art. 981. - Le materie di insegnamento sono le seguenti:   
+1° Anno.   
+matematica e biostatistica;   
+patologia generale;   
+chimica farmaceutica generale;   
+immunologia;   
+microbiologia e igiene;   
+controlli di qualita';   
+basi farmacologiche della terapia.   
+2° Anno.   
+informatica;   
+biofarmaceutica e farmacocinetica I;   
+tossicita', interazioni, effetti secondari dei farmaci;   
+radiochimica e radiobiologia;   
+tecnologia delle preparazioni magistrali;   
+chimica degli alimenti;   
+immunochimica.   
+3° Anno:   
+biofarmaceutica e farmacocinetica II;   
+farmacia clinica;   
+documentazione e informazione sui farmaci;   
+officina galenica;   
+scienza dell'alimentazione e nutrizione clinica;   
+legislazione sanitaria e ospedaliera, economia ed organizzazione.   
+La scuola comprende tre aree d'insegnamento e tirocinio professionale. Gli insegnamenti relativi a ciascuna arca didattica e formativa professionale sono i seguenti:   
+a) Area propedeutica:   
+1) matematica e biostatistica;   
+2) informatica;   
+3) patologia generale;   
+4) chimica farmaceutica generale;   
+5) basi farmacologiche della terapia;   
+6) radiochimica e radiobiologia.   
+b) Area teorico-sperimentale:   
+7) controlli di qualita';   
+8) immunochimica;   
+9) immunologia;   
+10) microbiologia e igiene;   
+11) biofarmaceutica e farmacocinetica I;   
+12) chimica degli alimenti;   
+13) biofarmaceutica e farmacocinetica II.   
+c) Area teorico-applicativa:   
+14) tossicita', interazioni, effetti secondari dei farmaci;   
+15) tecnologia delle preparazioni magistrali;   
+16) farmacia clinica;   
+17) documentazione ed informazione sui farmaci;   
+18) officina galenica;   
+19) scienza dell'alimentazione e nutrizione clinica;   
+20) legislazione sanitaria e ospedaliera, economia ed organizzazione.   
+Tutti gli insegnamenti afferiscono alla facolta' di farmacia. I titolari degli insegnamenti possono essere proposti anche tra i professori di ruolo di altre facolta', nei termini previsti dalla legislazione vigente.   
+Il consiglio della facolta' di farmacia, su proposta del consiglio della scuola, sentite le facolta' interessate, coordina annualmente le attivita' didattiche della scuola e designa altresi' i professori a contratto cui affidare corsi specialistici, secondo quanto previsto dagli [articoli 7](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art7), [9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art9) e [25 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art25).   
+Art. 982. - La frequenza dei corsi e' obbligatoria. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio al corso successivo. La commissione di esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno del corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno in corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.   
+Art. 983. - Per ogni anno di corso sono previste ottocento ore di attivita' didattica formale e di tirocinio professionale guidato.  
+Tali attivita' sono organizzate in un'attivita' didattica teorico-pratica, di complessive quattrocento ore, come di seguito ripartite ed in un'attivita' didattica elettiva, prevalentemente di carattere tecnico-applicativo, di ulteriori quattrocento ore, rivolta all'approfondimento del curriculum di studi professionali:   
+  
+1° Anno.   
+a) Area propedeutica (460 ore):   
+I) matematica e biostatistica . . . . . . . . . . . . . . . . (40+80) II) patologia generale. . . . . . . . . . . . . . . . . . . . (80+40) III) chimica farmaceutica generale . . . . . . . . . . . . . (55+ 55) IV) basi farmacologiche della terapia . . . . . . . . . . . . (55+55) b) Area teorico-sperimentale (340 ore):   
+V) immunologia. . . . . . . . . . . . . . . . . . . . . . . (55 + 55) VI) microbiologia e igiene. . . . . . . . . . . . . . . . . (55 + 55) VII) controlli di qualita . . . . . . . . . . . . . . . . . . (60+60)   
+  
+2° Anno.   
+a) Area propedeutica (230 ore):   
+VIII) informatica . . . . . . . . . . . . . . . . . . . . . . (60+60) IX) radiochimica e radiobiologia. . . . . . . . . . . . . . (55 + 55) b) Area teorico-sperimentale (350 ore):   
+X) biofarmaceutica e farmacocinetica I. . . . . . . . . . . (55 + 55) XI) chimica degli alimenti. . . . . . . . . . . . . . . . . . (60+60) XII) immunochimica . . . . . . . . . . . . . . . . . . . . . (60+ 60) c) Area tecnico-applicativa (220 ore):   
+XIII) tossicita', interazioni, effetti secondari dei farmaci. (55 + 55)   
+XIV) tecnologia delle preparazioni magistrali . . . . . . . . (55+55)   
+  
+3° Anno:   
+a) Area teorico-sperimentale (110 ore):   
+XVII) biofarmaceutica e farmacocinetica II. . . . . . . . . (55 + 55) b) Area tecnico-applicativa (690 ore):   
+XVIII) farmacia clinica . . . . . . . . . . . . . . . . . . . (70+60) XIX) documentazione e informazione sui farmaci. . . . . . . . (70+60) XX) officina galenica . . . . . . . . . . . . . . . . . . . (75 + 75) XXI) scienza dell'alimentazione e nutrizione clinica. . . . (75 + 75) XXII) legislazione sanitaria e ospedaliera, economia ed organizzazione. . . . . . . . . . . . . . . . . . . . . . . . (65+65)   
+  
+Per l'ammissione agli esami e' richiesta la frequenza a tutte le esercitazioni pratiche e ad almeno i 3/4 di ognuno dei corsi. Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitarie attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.   
+Art. 984. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso. A coloro che abbiano superato l'esame finale viene rilasciato un diploma di specialista.   
+Art. 985. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.   
+Art. 986. - Il consiglio della scuola e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art.   
+4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).   
+Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.   
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa.   
+In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1950
+### Dato a Roma, addi' 19 luglio 1986
 
-EINAUDI GONELLA
+COSSIGA
 
-Visto, il Guardasigilli: PICCIONI
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 19 aprile 1951
+Visto, il Guardasigilli: ROGNONI
 
-Atti del Governo, registro n. 38, foglio n. 131. - CONSOLI
+Registrato alla Corte dei conti, addi' 13 ottobre 1986
+
+Registro n. 76 Istruzione, foglio n. 345

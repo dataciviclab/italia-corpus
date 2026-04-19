@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 settembre 1969 n. 721
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1970 n. 1478
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 settembre 1969 n. 721
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1970 n. 1478
+=================================================================
 
 Autorizzazione all'Associazione italiana della croce rossa ad accettare una donazione.
 --------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-721. Decreto del Presidente della Repubblica 1 settembre 1969, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa, viene autorizzata ad accettare la donazione di un immobile, sito in Sanremo, via G. Leopardi, distinto in catasto al foglio 21, mappale 1175, costituito da una villetta di 2 piani e vani 5 oltre gli accessori, con annesso terreno, del periziato valore di lire 10.180.000, disposta dalla signorina Dorato Fiora con atto del notaio Giacomo Birone di Sanremo datato 12 settembre 1961, rep. 48634 e con successivo atto di rettifica del notaio Traverso di Genova datato 7 febbraio 1963, rep. 129084.   
+1478. Decreto del Presidente della Repubblica 19 settembre 1970, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa viene autorizzata ad accettare la donazione disposta in favore del dipendente sottocomitato di Alessano (Lecce) dalla locale amministrazione comunale di un relitto di terreno della superficie di mq. 320, del valore di L. 1.600.000, sito in Alessano e distinto al vecchio catasto fabbricati sulla partita 139 1/2 del foglio 20, da destinarsi alla costruzione della sede del locale sottocomitato dell'associazione allorche' le disponibilita' dello stesso sottocomitato lo consentiranno.  
   
-Visto, il Guardasigilli: GAVA   
-Registrato alla Corte dei conti, addi' 21 ottobre 1969   
-Atti del Governo, registro n. 229, foglio n. 126. - CARUSO
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 24 giugno 1971  
+Atti del Governo, registro n. 242, foglio n. 135. - VALENTINI

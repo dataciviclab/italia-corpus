@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 giugno 1955 n. 753
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 settembre 1976 n. 745
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 giugno 1955 n. 753
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 settembre 1976 n. 745
+================================================================
 
 Autorizzazione all'Universita' degli studi di Catania ad accettare una donazione.
 ---------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-753. Decreto del Presidente della Repubblica 13 giugno 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Catania viene autorizzata ad accettare la donazione della somma di L. 500.000 (cinquecentomila) nominali, disposta dal dott. Giuseppe Barbagallo Sangiorgi, e con la rendita del capitale donato viene istituito un premio di studio di L. 25.000 (venticinquemila), intitolato "Premio Maria Sangiorgi Barbagallo".  
+745. Decreto del Presidente della Repubblica 16 settembre 1976, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Catania viene autorizzata ad accettare la donazione del monastero S. Nicolo' l'Arena (ex convento dei benedettini), censito al nuovo catasto edilizio urbano alla partita 4641 foglio 69/R particelle 3312 (parte), 22580, 22581, 22583, 22584, 22585, 22586, 22587, 22588, 22589, 22590, 22591 (parte), 22592, 22593, 22595, 22596, 22597, 22598, 22600, 23401, 23403, per un valore complessivo di L. 1.700.000.000, comprese le aree di sedime e pertinenza, disposta dal comune di Catania, e intesa per la sistemazione edilizia delle facolta' di lettere e magistero del predetto Ateneo.  
   
-Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 3 agosto 1955  
-Atti del Governo, registro n. 9-2, foglio n. 26. - E. GRECO
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 29 ottobre 1976  
+Atti di Governo, registro n. 11, foglio n. 18

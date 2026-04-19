@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 maggio 1972 n. 447
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1958 n. 657
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 maggio 1972 n. 447
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1958 n. 657
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
@@ -10,231 +10,86 @@ Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), modificato con [regio decreto 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-12;2227), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli da 426 a 431, relativi alla "Scuola di perfezionamento in ostetricia e ginecologia" che muta la denominazione in quella di "Scuola di specializzazione in ostetricia e ginecologia", sono abrogati e sostituiti dai seguenti:   
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Scuola di specializzazione in ostetricia e ginecologia   
+Dopo l'art. 358 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di perfezionamento per tecnici fisioterapisti (scuola diretta a fini speciali).  
   
-Art. 426. - Il corso di studi per la specializzazione in ostetricia e ginecologia ha la durata di quattro anni.   
-Quando il numero dei candidati all'iscrizione al primo anno di corso superi il numero di dieci, l'ammissione alla scuola avverra' a seguito di concorso per titoli ed esami, concorso che deve essere espletato entro il mese di dicembre; le domande di iscrizione devono essere presentate alla segreteria della scuola presso l'Universita' di Bologna entro il 30 novembre dell'anno accademico in corso.   
-Sono da considerare titoli preferenziali, a parita' di risultato dell'esame di ammissione (prova scritta ed orale su temi di medicina generale o di anatomia patologica):   
-a) il voto di laurea in medicina e chirurgia;   
-b) l'aver frequentato come medico o come studente interno una clinica ostetrica e ginecologica e l'avervi preparato la tesi di laurea;   
-c) la documentazione di eventuali servizi prestati in grossi reparti ospedalieri della specialita';   
-d) eventuali pubblicazioni attinenti alla materia.   
-Nel caso in cui il numero delle domande di iscrizione fosse inferiore a dieci, il consiglio della scuola, a parere unanime, puo' decidere di non dare luogo agli esami di ammissione, ma puo' ammettere, senza altre formalita', i candidati al primo anno di corso. In tali casi l'ammissione potra' avvenire anche in base ai soli titoli presentati.   
-Art. 427. - Direttore della scuola di specializzazione in ostetricia e ginecologia e' il titolare della cattedra, che da' il titolo alla scuola; egli e' nominato dalla facolta' di medicina e chirurgia per un anno ed e' sempre riconfermabile. Nel caso in cui il detto titolare non sia professore di ruolo, il direttore e' scelto dalla facolta' fra i titolari di studio. Egli presiede il consiglio della scuola, costituito a norma dell'art. 186 ed e' tenuto a dare comunicazione al preside della facolta' medico-chirurgica di tutti gli atti e di tutte le deliberazioni del consiglio da lui presieduto.   
-Art. 428. - Il numero complessivo degli iscritti alla scuola non deve essere superiore a quaranta.   
-Per nessun motivo il corso di quattro anni puo' essere abbreviato.  
-Nessun titolo puo' esonerare dalla frequenza gli iscritti ai quattro anni di corso.   
-Art. 429. - Gli iscritti, oltre all'obbligo di frequenza alle lezioni cattedratiche, esercitazioni, seminari ecc., debbono prestare servizio analogo a quello degli assistenti per non meno di dieci mesi su dodici all'anno.   
-La scelta dei mesi di permesso e' in facolta' del consiglio della scuola, a seconda dell'epoca delle lezioni e delle esigenze di servizio nella clinica.   
-Gli iscritti alla scuola debbono sostenere esami annuali di profitto (per le materie in programma nello anno) e l'esame finale di diploma, dopo un esame di profitto in clinica ostetrica e ginecologica.   
-La sessione di esami di profitto e' unica ed e' espletata nel mese di novembre.   
-Non puo' essere iscritto all'anno successivo chi non abbia superato le materie fondamentali della specialita'.   
-La frequenza degli iscritti deve essere convalidata e confermata dalla firma degli insegnanti delle rispettive materie.   
-Art. 430. - Le materie di insegnamento sono:   
+SCUOLA DI PERFEZIONAMENTO PER TECNICI FISIOTERAPISTI  
+(scuola diretta a fini speciali)  
   
-1° Anno:   
-A) Elementi di genetica e di eugenica;   
-B) Anatomia normale ed embriologia dell'apparato genitale femminile;   
-C) Fisiologia ostetrica;   
-D) Fisiologia dell'apparato genitale femminile;   
-E) Endocrinologia fisiologica;   
-F) Diagnostica ostetrica;   
-G) Clinica ostetrica e ginecologica.   
+Art. 359. - La scuola per fisioterapisti viene istituita allo scopo di formare tecnici specializzati, cui compete l'assistenza diretta e continuativa di malati o minorati suscettibili di recupero funzionale degli organi di movimento mediante cure fisiche.  
+Tali tecnici fisioterapisti potranno svolgere la loro funzione sotto la direzione e dietro indicazione medica.  
+Art. 360. - La scuola ha sede presso la clinica ortopedica dell'Universita' di Bologna (Istituto ortopedico Rizzoli) ed il corso ha la durata di due anni.  
+Art. 361. - Il corso viene svolto con il seguente regolamento:  
   
-2° Anno:   
-A) Tecnica operatoria ostetrica;   
-B) Diagnostica ginecologica;   
-C) Clinica ostetrica e ginecologica;   
-D) Tecnica diagnostica di laboratorio nel campo ostetrico e ginecologico, esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica).   
+1. Ammissione.  
   
-3° Anno:   
-A) Anatomia patologica ostetrica e ginecologica;   
-B) Istologia normale e patologica nel campo della specialita';   
-C) Puericultura prenatale;   
-D) Emoterapia nel campo ostetrico e ginecologico;   
-E) Anestesia e analgesia nel campo ostetrico e ginecologico;   
-F) Tecnica operatoria ginecologica;   
-G) Clinica ostetrica e ginecologica;   
-H) Terapia medica ostetrica e ginecologica.   
+a) Al corso possono essere ammessi annualmente n. 6 allievi;  
+b) I candidati non debbono avere superato il 30° anno di eta'; se pero' sono in possesso di certificati comprovanti la loro attivita' in ospedale specializzato come addetti a reparto di fisioterapia per un periodo non inferiore a tre anni, il limite di eta' potra' essere elevato a quaranta anni;  
+c) Il titolo di studio per l'ammissione alla scuola e' il diploma di scuola media superiore;  
+d) I candidati debbono presentare certificato medico comprovante la sana e robusta costituzione fisica;  
+e) Tali documenti, e quanti altri i candidati ritengano opportuno produrre, dovranno essere presentati insieme a domanda in carta bollata da L. 100;  
+f) I candidati verranno sottoposti ad un esame di ammissione che consistera' in una prova orale nella quale saranno saggiate sia le qualita' culturali che la attitudine specialistica. Al termine di tale esame verra' stabilita una graduatoria per l'ammissione;  
+g) La Commissione esaminatrice sara' composta dal direttore della scuola e da due professori ordinari nominati dalla Facolta' medica;  
+h) Il candidato ammesso che entro cinque giorni dall'inizio del corso non si fosse presentato, perdera' ogni diritto alla frequenza ed al conseguimento dei diplomi e verra' sostituito, a giudizio della Commissione esaminatrice, con uno degli idonei non ammessi seguendo la graduatoria dell'esame di ammissione.  
   
-4° Anno:   
-A) Puericultura postnatale e malattie del neonato;   
-B) Ostetricia e ginecologia forense;   
-C) Clinica ostetrica e ginecologica (esame alla fine del 4° anno);   
-D) Urologia ginecologica;   
-E) Chirurgia addominale extragenitale;   
-F) Diagnostica roentgen, radioterapia in ostetricia e ginecologia.   
+2. Durata del corso.  
   
-Gli esami si fanno per gruppo di materie ed i membri delle commissioni saranno proposti dal direttore della scuola.   
-Art. 431. - A giudizio del consiglio della scuola, formulato sulla base del rendimento di ogni iscritto (media agli esami 9/10), gli specializzandi potranno essere esonerati dal pagamento delle tasse universitarie.   
-Per il conseguimento del diploma (votazione in settantesimi), l'iscritto deve presentare e discutere una dissertazione scritta con contributo personale.   
-Gli articoli da 437 a 442, relativi alla "Scuola di perfezionamento in dermosifilopatia e venereologia" che muta la denominazione in quella di "Scuola di specializzazione in clinica dermosifilopatica", sono abrogati e sostituiti dai seguenti:   
+Art. 362. - Il corso e' biennale con obbligo di frequenza continuativa, salvo un mese di ferie che dovra' essere preso in una sola volta.  
   
-Scuola di specializzazione in clinica dermosifilopatica   
+3. Programmi.  
   
-Art. 437. - La scuola di specializzazione in clinica dermosifilopatica, della durata di tre anni accademici, conferisce il diploma di specialista in clinica dermosifilopatica.   
-Art. 438. - L'ammissione alla scuola avviene per titoli. Sono ammessi i laureati in medicina e chirurgia.   
-Abbreviazioni di corso potranno essere concesse, a giudizio insindacabile del consiglio della scuola, ai candidati che presentino titoli equivalenti all'abbreviazione richiesta.   
-Art. 439. - Sono disponibili sedici posti per ciascun anno. Il numero complessivo dei posti dei tre anni di corso non potra' essere superiore a quarantotto.   
-Art. 440. - Le materie di insegnamento, distribuite nei tre anni di corso, sono le seguenti:   
+Art. 363. - Le materie del corso sono suddivise in due anni, come dalla seguente tabella:  
   
-1° Anno:   
-1) Anatomia e istologia normale della cute;   
-2) Fisiologia della cute e degli annessi cutanei;   
-3) Semeiotica dermatologica e venereologica;   
-4) Tecnica di laboratorio con particolare riferimento alla sierologia applicata;   
-5) Anatomia e fisiologia dell'apparato genitale;   
-6) Microbiologia e parassitologia applicata.   
+Materie d'insegnamento  
+1° anno.  
+Corsi teorici:  
+Anatomia degli organi di movimento;  
+Fisiologia degli organi di movimento;  
+Patologia e terapia degli organi di movimento (biennale);  
+Fisica medica;  
+Igiene;  
+Fisioterapia (biennale).  
+Esercitazioni pratiche:  
+Fasciature, pronto soccorso infermieristico, massaggio, forni alla Bier, elioterapia, balneoterapia, applicazioni di raggi ultravioletti ed infrarossi.  
+2° anno.  
+Corsi teorici:  
+Patologia e terapia degli organi di movimento (biennale);  
+Fisioterapia (biennale);  
+Elettroterapia.  
+Esercitazioni pratiche:  
+Radarterapia, marconiterapia, ultrasuonoterapia elettroterapia, ginnastica ortopedica, mobilizzazione articolare, applicazione di apparecchi ortopedici.  
   
-2° Anno:   
-1) Patologia delle malattie cutanee;   
-2) Patologia delle infezioni sessuali;   
-3) Anatomia e istologia patologica della cute;   
-4) Anatomia patologica delle malattie veneree e sessuali;   
-5) Angiologia;   
-6) Sessuologia.   
+4. Esami di diploma.  
   
-3° Anno:   
-1) Clinica delle malattie cutanee;   
-2) Clinica delle infezioni sessuali;   
-3) Farmacologia e terapia medicamentosa;   
-4) Fisioterapia dermatologica;   
-5) Cosmetologia;   
-6) Chirurgia plastica riparatrice;   
-7) Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.   
-  
-Art. 441. - Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni, i laboratori e gli ambulatori, nonche' di svolgere turni di internato.   
-Art. 442. - Gli iscritti, alla fine di ogni corso, per il passaggio all'anno successivo, hanno l'obbligo di superare l'esame di profitto, in un gruppo unico, delle materie relative all'anno di corso corrispondente. Alla fine del corso, gli allievi, dopo aver superato l'esame di profitto, in un unico gruppo, delle materie del terzo anno, per conseguire il diploma di specializzazione dovranno superare l'esame di diploma consistente nella discussione di una tesi scritta di argomento pertinente alla clinica dermosifilopatica.   
-Gli articoli da 449 a 453, relativi alla "Scuola di perfezionamento in ortopedia e traumatologia" che muta la denominazione in quella di "Scuola di specializzazione in ortopedia e traumatologia", sono abrogati e sostituiti dai seguenti:   
-  
-Scuola di specializzazione in ortopedia e traumatologia   
-  
-Art. 449. - La scuola di specializzazione in ortopedia e traumatologia ha sede presso l'istituto di clinica ortopedica e conferisce il diploma di specializzazione in ortopedia e traumatologia.   
-Il corso ha la durata di tre anni.   
-Potranno essere ammessi alla scuola, per titoli, i laureati in medicina e chirurgia.   
-Il numero degli iscritti e' di dieci per ogni anno e non potra' superare il numero di trenta per l'intero corso.   
-Art. 450. - La frequenza e' obbligatoria nell'istituto sede della scuola per un periodo almeno di nove mesi per ogni anno accademico.   
-E' in facolta' del consiglio della scuola di concedere una deroga a tale norma solo agli iscritti alla scuola che facciano parte di cliniche ortopediche che non abbiano la scuola di specializzazione e che siano assistenti di ruolo in divisioni di ortopedia e traumatologia di ospedali di prima categoria: per queste due categorie di iscritti il periodo di frequenza presso l'istituto sede della scuola puo' essere ridotto fino a non meno di un mese ogni anno.   
-Per nessun motivo sono ammesse abbreviazioni della durata degli studi.   
-Art. 451. - Gli insegnamenti si svolgeranno con indirizzo prevalentemente pratico, dimostrativo, ma per ogni singola materia di insegnamento dovra' anche svolgersi un corso regolare di lezioni, il cui numero verra' fissato annualmente dal direttore della scuola in accordo con i docenti delle singole materie.   
-Art. 452. - Le materie di insegnamento sono le seguenti:   
-  
-1° Anno:   
-1) Clinica ortopedica e traumatologica (triennale);   
-2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);   
-3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);   
-4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);   
-5) Anatomia ed istologia dell'apparato locomotore;   
-6) Fisiologia dell'apparato locomotore;   
-7) Nozioni di chirurgia generale;   
-8) Nozioni di pediatria.   
-  
-2° Anno:   
-1) Clinica ortopedica e traumatologica (triennale);   
-2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);   
-3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (biennale);   
-4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);   
-5) Neuropatologia dell'apparato locomotore ed elettrodiagnostica;   
-6) Anatomia ed istologia patologica dell'apparato locomotore.   
-  
-3° Anno:   
-1) Clinica ortopedica e traumatologica (triennale);   
-2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);   
-3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);   
-4) Apparato-terapia ortopedica;   
-5) Fisiochinesiterapia;   
-6) Infortunistica.   
-  
-Art. 453. - Gli esami si svolgeranno per singole materie. Gli esami di clinica ortopedica e traumatologica, di tecnica operatoria cruenta ed incruenta ortopedica e traumatologica, di radiodiagnostica, saranno teorici e pratici. Per l'ammissione al corso successivo e' obbligatorio il superamento degli esami delle materie di ciascun corso.   
-Per conseguire il diploma di specialista i candidati dovranno superare l'esame di diploma, consistente nella dissertazione di una tesi a stampa o dattiloscritta su argomento della specialita'.   
-Gli articoli da 454 a 460, relativi alla "Scuola di specializzazione in stomatologia (malattie della bocca e protesi dentaria)" che muta la denominazione in quella di "Scuola di specializzazione in odontoiatria e protesi dentaria", sono abrogati e sostituiti dai seguenti con il relativo spostamento della numerazione degli articoli successivi.   
-Scuola di specializzazione in odontoiatria e protesi dentaria   
-Art. 454. - La scuola di specializzazione in odontoiatria e protesi dentaria conferisce il diploma di specialista in odontoiatria e protesi dentaria.   
-Il titolo per l'iscrizione e' la laurea in medicina e chirurgia.   
-Il corso della scuola ha la durata di tre anni.   
-Art. 455. - Gli insegnamenti che formano materia del corso di studio sono i seguenti:   
-1) Embriologia e anatomia dentaria e maxillo-facciale;   
-2) Anatomia e istopatologia odontostomatologica;   
-3) Microbiologia e igiene orale;   
-4) Farmacologia odontostomatologica;   
-5) Patologia odontostomatologica;   
-6) Clinica odontostomatologica;   
-7) Chirurgia maxillo-facciale;   
-8) Anestesia e chirurgia stomatologica;   
-9) Odontoiatria conservativa;   
-10) Paradontologia;   
-11) Clinica protesica dentaria e maxillo-facciale;   
-12) Ortopedia dento-maxillo-facciale;   
-13) Radiologia odontostomatologica;   
-14) Odontotecnica;   
-15) Odontoiatria infantile;   
-16) Medicina legale odontostomatologica e delle assicurazioni.   
-Esercitazioni pratiche affiancheranno gli insegnamenti.   
-Art. 456. - Le materie elencate all'articolo precedente sono cosi' distribuite nei tre anni di corso:   
-  
-1° Anno:   
-1) Odontotecnica;   
-2) Embriologia ed anatomia dentaria e maxillo-facciale;   
-3) Microbiologia e igiene orale;   
-4) Farmacologia odontostomatologica;   
-5) Patologia odontostomatologica;   
-6) Anestesia e chirurgia stomatologica;   
-7) Odontoiatria conservativa (I anno) (biennale).   
-Esercitazioni pratiche.   
-  
-2° Anno:   
-1) Odontoiatria conservativa (II anno);   
-2) Clinica protesica dentaria e maxillo-facciale (I anno) (biennale);   
-3) Parodontologia (I anno) (biennale);   
-4) Anatomia e istopatologia odontostomatologica;   
-5) Odontoiatria infantile;   
-6) Radiologia odontostomatologica;   
-7) Ortopedia dento-maxillo-facciale (I anno) (biennale);   
-8) Chirurgia maxillo-facciale (I anno) (biennale).   
-Esercitazioni pratiche.   
-  
-3° Anno:   
-1) Clinica odontostomatologica;   
-2) Chirurgia maxillo-facciale (II anno);   
-3) Medicina legale odontostomatologica e delle assicurazioni;   
-4) Ortopedia dento-maxillo-facciale (II anno);   
-5) Clinica protesica dentaria e maxillo-facciale (II anno);   
-6) Parodontologia (II anno).   
-Esercitazioni pratiche.   
-  
-Art. 457. - La frequenza e' obbligatoria per l'intero anno scolastico.   
-Gli esami di profitto teorici e pratici saranno sostenuti alla fine di ogni anno in un'unica sessione (ottobre).   
-Alla fine del 30 anno, dopo aver superato gli esami di profitto, gli allievi saranno ammessi a sostenere l'esame di diploma che consiste nella discussione orale di una dissertazione scritta, su un tema proposto in precedenza dall'insegnante della materia sulla quale verte l'argomento, e approvato dal direttore della scuola.   
-Ogni iscritto deve provvedere al proprio corredo di strumenti.   
-Le vacanze sono conformi al calendario universitario, con un solo mese completo estivo (agosto).   
-Art. 458. - Il numero degli iscritti e' fissato in settantacinque unita' (venticinque per ciascuno dei tre anni di corso). Tuttavia il numero dei posti disponibili al 1° anno per ogni anno accademico e' limitato alla capacita' di ricezione della scuola medesima.   
+La Commissione esaminatrice sara' composta dal direttore della scuola, dall'insegnante della materia, che verra' nominato dalla Facolta' su proposta del direttore della scuola e da un altro membro pure nominato dalla Facolta'.  
+Al termine del 1° anno gli allievi, per essere ammessi al 2° anno, dovranno sostenere un esame per ogni singolo insegnamento ed una prova pratica sulle esercitazioni.  
+Alla fine del biennio gli allievi dovranno superare gli esami sulle materie di insegnamento dell'anno e sostenere una prova pratica generale.  
+Ad esame superato verra' rilasciato all'allievo il "diploma di tecnico fisioterapista".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 maggio 1972
+### Dato a Roma, addi' 4 maggio 1958
 
-LEONE MISASI
+GRONCHI MORO
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 3 agosto 1972
+Registrato alla Corte dei conti, addi' 27 giugno 1958
 
-Atti del Governo, registro n. 250, foglio n. 109. - VALENTINI
+Atti del Governo, registro n. 112, foglio n. 260. - RELLEVA

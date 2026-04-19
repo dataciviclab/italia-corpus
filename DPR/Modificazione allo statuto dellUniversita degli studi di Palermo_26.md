@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 305
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 589
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 305
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 589
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
@@ -39,18 +39,19 @@ Articolo unico
 --------------
 
   
-Art. 50 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' inserito l'insegnamento di "chirurgia oncologica".  
+Nell'art. 67, relativo al corso di laurea in farmacia, all'elenco degli insegnamenti complementari, e' aggiunto il seguente nuovo insegnamento:  
+farmaci chemioterapici.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 marzo 1984
+### Dato a Roma, addi' 26 aprile 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 26 giugno 1984
+Registrato alla Corte dei conti, addi' 15 ottobre 1983
 
-Registro n. 39 Istruzione, foglio n. 29
+Registro n. 66 Istruzione, foglio n. 151

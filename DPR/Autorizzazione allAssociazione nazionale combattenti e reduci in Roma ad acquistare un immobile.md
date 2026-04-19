@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1986 n. 908
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1975 n. 65
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1986 n. 908
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1975 n. 65
 ==============================================================
 
 Autorizzazione all'Associazione nazionale combattenti e reduci, in Roma, ad acquistare un immobile.
@@ -10,10 +10,10 @@ Autorizzazione all'Associazione nazionale combattenti e reduci, in Roma, ad acqu
 Art. 1
 ------
 
-n.
+N.
 
-908. Decreto del Presidente della Repubblica 29 ottobre 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci, in Roma, viene autorizzata ad acquistare, al convenuto prezzo di L. 220.000.000, una porzione di fabbricato sito in Ascoli Piceno, via della Fortezza numeri 5, 7 e 9, censito nel nuovo catasto edilizio urbano alla partita 129, foglio 169/A, mappale 563 sub. 1 - 5, di proprieta' della ditta F.lli Silvestri S.r.l., da destinare a sede sociale.   
+65. Decreto del Presidente della Repubblica 10 febbraio 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci, in Roma, viene autorizzata ad acquistare al complessivo convenuto prezzo di lire 5.900.000 dalla sig.ra Manchiaro Ines un appartamento sito in Lignano Pineta del comune di Lignano Sabbiadoro (Udine), viale Centrale n. 14, facente parte della torre A del condominio "Las Vegas", distinto al nuovo catasto edilizio urbano del comune di Lignano Sabbiadoro alla partita n. 2955, foglio 52, mappale 183/19, da destinare a casa per ex combattenti bisognosi di cure marine.  
   
-Visto, il Guardasigilli: ROGNONI   
-Registrato alla Corte dei conti, addi' 20 dicembre 1986   
-Registro n. 12 Presidenza, foglio n. 201
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 21 marzo 1975  
+Atti di Governo, registro n. 9, foglio n. 26

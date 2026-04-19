@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 ottobre 1972 n. 623
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 agosto 1959 n. 789
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 ottobre 1972 n. 623
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 agosto 1959 n. 789
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
@@ -12,12 +12,12 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, numero 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 78](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;78);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -25,31 +25,63 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 40. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
   
-Patologia neonatale;  
-Patologia ostetrica e ginecologica;  
-Dermatologia allergologica e professionale;  
-Ortognatodonzia;  
-Farmacologia clinica.  
+Art. 9. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di "storia delle dottrine politiche" e "diritto industriale".  
   
-Art. 70. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti:  
+L'art. 46, e' abrogato e sostituito dal seguente:  
+La Facolta' di scienze matematiche, fisiche e naturali conferisce:  
+a) la laurea in scienze matematiche;  
+b) la laurea in fisica;  
+c) la laurea in matematica e fisica;  
+d) la laurea in chimica;  
+e) la laurea in scienze naturali;  
+f) la laurea in scienze geologiche;  
+g) la laurea in scienze biologiche.  
+Dopo l'art. 53 e' aggiunto il seguente nuovo articolo, relativo alla istituzione del corso di laurea in scienze biologiche, con il conseguente spostamento della numerazione degli articoli successivi.  
   
-Economia industriale;  
-Teoria economica II;  
-Economia e politica del lavoro;  
-Statistica economica.  
+Art. 54. - La durata del corso di laurea in scienze biologiche e' di quattro anni.  
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.  
+  
+Sono insegnamenti fondamentali:  
+1) istituzioni di matematiche;  
+2) fisica;  
+3) chimica generale ed inorganica;  
+4) chimica organica;  
+5) botanica (biennale);  
+6) zoologia (biennale);  
+7) anatomia comparata;  
+8) anatomia umana;  
+9) istologia ed embriologia;  
+10) fisiologia generale (biennale);  
+11) chimica biologica;  
+12) igiene.  
+  
+Sono insegnamenti complementari:  
+1) chimica fisica;  
+2) antropologia;  
+3) genetica;  
+4) patologia generale;  
+5) microbiologia;  
+6) entomologia agraria;  
+7) geologia;  
+8) paleontologia;  
+9) scienza dell'alimentazione;  
+10) farmacologia.  
+  
+Lo studente non potra' sostenere l'esame di anatomia comparata se non avra' superato quello di zoologia e non potra' sostenere l'esame di fisiologia generale se non avra' superato quello di anatomia umana.  
+Gli insegnamenti biennali di botanica e di zoologia comprendono tanto la parte generale quanto quella sistematica.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e in quattro almeno da lui scelti fra i complementari.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 ottobre 1972
+### Dato a Roma, addi' 26 agosto 1959
 
-LEONE SCALFARO
+GRONCHI MEDICI
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 25 ottobre 1972
+Registrato alla Corte dei conti, addi' 30 settembre 1959
 
-Atti del Governo, registro n. 251, foglio n. 127. - CARUSO
+Atti del Governo, registro n. 120, foglio n. 168. - VILLA

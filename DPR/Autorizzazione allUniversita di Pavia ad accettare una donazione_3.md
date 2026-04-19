@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1954 n. 770
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1950 n. 1210
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1954 n. 770
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1950 n. 1210
+===============================================================
 
 Autorizzazione all'Universita' di Pavia ad accettare una donazione.
 -------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-770. Decreto del Presidente della Repubblica 26 gennaio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Pavia viene autorizzata ad accettare la donazione di L. 200.000 nominali, in titoli di Stato, buoni del Tesoro 5% 1959, da convertirsi in certificati nominativi intestati all'Universita' medesima, con annotazione di vincolo a favore del premio di studio "Dott. Giampiero Veratti" disposta in suo favore dal prof. Emilio Veratti, con atto pubblico amministrativo 25 giugno 1953, allo scopo di incrementare il capitale del gia' costituito premio di studio intitolato "Dott. Giampiero Veratti".  
+1210. Decreto del Presidente della Repubblica 25 ottobre 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Pavia viene autorizzata ad accettare la donazione della somma di L. 312.000 nominali, in titoli di Rendita italiana 5%, e di L. 15.600, in contanti, disposta in suo favore dal prof.  
+Luigi Fasso', in nome e in rappresentanza del Comitato per le onoranze al prof. Bruno Castiglioni, con atto pubblico amministrativo in data 29 marzo 1950, per l'istituzione di una borsa di studio da intitolarsi al nome del "Prof. Bruno Castiglioni" e da conferirsi, ogni biennio, a uno studente o a un laureato dell'Universita' medesima, che attenda con attitudine e profitto a studi di geografia.  
   
-Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 26 agosto 1954  
-Atti del Governo, registro n. 85, foglio n. 88. - CARLOMAGNO
+Visto, il Guardasigilli: PICCIONI  
+Registrate alla Corte dei conti, addi' 16 febbraio 1951

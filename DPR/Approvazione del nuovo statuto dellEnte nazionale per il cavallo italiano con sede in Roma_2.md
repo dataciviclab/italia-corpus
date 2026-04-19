@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1962 n. 2079
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1973 n. 663
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1962 n. 2079
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1973 n. 663
+=============================================================
 
 Approvazione del nuovo statuto dell'Ente nazionale per il cavallo italiano, con sede in Roma.
 ---------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-2079. Decreto del Presidente della Repubblica 3 dicembre 1962, col quale, sulla proposta del Ministro per l'agricoltura e le foreste, viene approvato il nuovo statuto dell'Ente nazionale per il cavallo italiano, con sede in Roma.  
+663. Decreto del Presidente della Repubblica 16 luglio 1973, col quale, sulla proposta del Ministro per l'agricoltura e le foreste, viene approvato il nuovo statuto dell'Ente nazionale per il cavallo italiano (E.N.C.I.), con sede in Roma.  
   
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 11 giugno 1963  
-Atti del Governo, registro n. 170, foglio n. 92. - VILLA
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 31 ottobre 1973  
+Atti di Governo, registro n. 261, foglio n. 76. - VALENTINI

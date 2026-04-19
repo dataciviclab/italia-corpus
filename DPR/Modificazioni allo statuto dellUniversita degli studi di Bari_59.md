@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1973 n. 730
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 maggio 1968 n. 795
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1973 n. 730
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 maggio 1968 n. 795
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -14,9 +14,11 @@ Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio dec
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Visto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
@@ -30,36 +32,40 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 127, relativo al funzionamento del corso di laurea in medicina veterinaria e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente:
+Art. 86, relativo al corso di laurea in scienze naturali e' modificato nel senso che il quinto e il sesto comma sono abrogati e sostituiti dal seguente:
 
-"Il funzionamento del corso di laurea in medicina veterinaria e' limitato ai primi tre anni".
+"Gli insegnamenti biennali di botanica, di zoologia e di fisiologia generale importano un esame alla fine di ogni anno: il primo sulla parte generale, il secondo sulla parte sistematica (per i primi due insegnamenti)".
 
-Dopo l'art. 127 e con il conseguente spostamento della numerazione degli articoli successivi, e' aggiunto il seguente nuovo art. 128.
+Art. 88, relativo al corso di laurea in scienze biologiche e' modificato nel senso che il quinto e il sesto comma sono abrogati e sostituiti dal seguente:
 
-Art. 128. - Alla facolta' di medicina veterinaria sono annessi i seguenti istituti:
+"Gli insegnamenti biennali di botanica, di zoologia e di fisiologia generale importano un esame alla fine di ogni anno: il primo sulla parte generale, il secondo sulla parte sistematica (per i primi due insegnamenti)".
 
-Istituto di anatomia veterinaria sistematica e comparata;
+Art. 117, relativo al corso di laurea in ingegneria civile (sez. edile, idraulica e trasporti) e' modificato nel senso che l'insegnamento obbligatorio sul piano della facolta' di "geologia applicata" e' soppresso e sostituito da quello di "geologia applicata all'ingegneria".
 
-Istituto di zoologia;
+Art. 119, relativo alle norme degli esami del corso di laurea in ingegneria civile e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente:
 
-Istituto di chimica;
+"L'esame di laurea consistera' nella discussione di un progetto particolare presentato come tesi".
 
-Istituto di istologia generale e speciale.
+Art. 120, relativo al corso di laurea in ingegneria elettrotecnica e' modificato nel senso che gli insegnanti obbligatori sul piano della facolta' di "impianti elettrici II" e "misure elettriche II" sono soppressi e sostituiti dai seguenti:
+
+"Impianti di trasformazione e distribuzione della energia elettrica";
+
+"Misure sulle macchine elettriche".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 8 ottobre 1973
+Dato a Roma, addi' 28 maggio 1968
 
-LEONE
+SARAGAT
 
-MALFATTI
+GUI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 15 novembre 1973 Atti di Governo, registro n. 262, foglio n. 36. - VALENTINI
+alla Corte dei conti, addi' 17 luglio 1968 Atti del Governo, registro n. 221, foglio n. 44. - GRECO
 
 Art. 1
 ------
@@ -68,8 +74,9 @@ Art. 1
   
 Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Visto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -78,26 +85,27 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 127, relativo al funzionamento del corso di laurea in medicina veterinaria e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente:  
-"Il funzionamento del corso di laurea in medicina veterinaria e' limitato ai primi tre anni".  
-Dopo l'art. 127 e con il conseguente spostamento della numerazione degli articoli successivi, e' aggiunto il seguente nuovo art. 128.  
-Art. 128. - Alla facolta' di medicina veterinaria sono annessi i seguenti istituti:  
-  
-Istituto di anatomia veterinaria sistematica e comparata;  
-Istituto di zoologia;  
-Istituto di chimica;  
-Istituto di istologia generale e speciale.  
+Art. 86, relativo al corso di laurea in scienze naturali e' modificato nel senso che il quinto e il sesto comma sono abrogati e sostituiti dal seguente:  
+"Gli insegnamenti biennali di botanica, di zoologia e di fisiologia generale importano un esame alla fine di ogni anno: il primo sulla parte generale, il secondo sulla parte sistematica (per i primi due insegnamenti)".  
+Art. 88, relativo al corso di laurea in scienze biologiche e' modificato nel senso che il quinto e il sesto comma sono abrogati e sostituiti dal seguente:  
+"Gli insegnamenti biennali di botanica, di zoologia e di fisiologia generale importano un esame alla fine di ogni anno: il primo sulla parte generale, il secondo sulla parte sistematica (per i primi due insegnamenti)".  
+Art. 117, relativo al corso di laurea in ingegneria civile (sez. edile, idraulica e trasporti) e' modificato nel senso che l'insegnamento obbligatorio sul piano della facolta' di "geologia applicata" e' soppresso e sostituito da quello di "geologia applicata all'ingegneria".  
+Art. 119, relativo alle norme degli esami del corso di laurea in ingegneria civile e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente:  
+"L'esame di laurea consistera' nella discussione di un progetto particolare presentato come tesi".  
+Art. 120, relativo al corso di laurea in ingegneria elettrotecnica e' modificato nel senso che gli insegnanti obbligatori sul piano della facolta' di "impianti elettrici II" e "misure elettriche II" sono soppressi e sostituiti dai seguenti:  
+"Impianti di trasformazione e distribuzione della energia elettrica";  
+"Misure sulle macchine elettriche".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 ottobre 1973
+### Dato a Roma, addi' 28 maggio 1968
 
-LEONE MALFATTI
+SARAGAT GUI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 15 novembre 1973
+Registrato alla Corte dei conti, addi' 17 luglio 1968
 
-Atti di Governo, registro n. 262, foglio n. 36. - VALENTINI
+Atti del Governo, registro n. 221, foglio n. 44. - GRECO

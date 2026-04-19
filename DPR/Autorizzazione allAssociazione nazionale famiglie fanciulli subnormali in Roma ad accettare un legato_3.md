@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 439
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 novembre 1983 n. 754
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 439
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 novembre 1983 n. 754
+===============================================================
 
 Autorizzazione all'Associazione nazionale famiglie fanciulli subnormali, in Roma, ad accettare un legato.
 ---------------------------------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-439. Decreto del Presidente della Repubblica 27 giugno 1983, col quale, sulla proposta del Ministro della sanita', l'Associazione nazionale famiglie fanciulli subnormali, in Roma, viene autorizzata ad accettare il legato di L. 15.000.000, disposto a favore della sezione di Milano dalla sig.ra Zoe Castioni ved. Herly detto Bellini con testamento pubblico 25 maggio 1974, pubblicato in data 5 novembre 1980, n. 277607/6660 di repertorio, a rogito avv.  
-Vincenzo Maienza, notaio in Milano, e registrato a Milano in data 7 novembre 1980 al n. 26512.  
+754. Decreto del Presidente della Repubblica 5 novembre 1983, col quale, sulla proposta del Ministro della sanita', l'Associazione nazionale famiglie fanciulli subnormali (A.N.F.Fa.S.), in Roma, viene autorizzata ad accettare il legato, consistente in L. 5.000.000, disposto dalla sig.ra Itala o Itala Maria Maneglia, in favore della sezione di Biella, con testamento pubblico 27 febbraio 1981, pubblicato in data 20 marzo 1981, n. 28011 di repertorio, a rogito dott. Giovanni Fulcheris, notaio in Biella (Vercelli), registrato a Biella in data 24 marzo 1981 al n. 1765, destinato all'acquisto di attrezzature per il centro di ergoterapia gestito dalle sezioni di Biella e Gaglianico.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 23 agosto 1983  
-Registro n. 6 Sanita', foglio n. 289
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 27 dicembre 1983  
+Registro n. 8 Sanita', foglio n. 325

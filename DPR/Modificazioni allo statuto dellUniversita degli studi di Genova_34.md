@@ -1,123 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1163
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 giugno 1967 n. 709
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1163
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 giugno 1967 n. 709
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 122 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in medicina nucleare.
-
-Dopo l'art. 275, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina nucleare.
-
-Scuola di specializzazione in medicina nucleare
-
-Art. 276. - La scuola di specializzazione in medicina nucleare ha la durata di tre anni. Essa ha sede presso l'istituto scientifico di medicina interna.
-
-Il direttore della scuola e' un professore di ruolo designato dalla facolta' a norma dell'art. 123 dello statuto dell'Universita'.
-
-Art. 277. - Alla scuola possono essere iscritti solo i laureati in medicina e chirurgia. In ogni anno accademico possono essere ammessi al primo anno di corso un numero massimo di 10 candidati. Il totale massimo degli iscritti per tutti e tre gli anni e' di trenta.
-
-Non e' consentita alcuna abbreviazione di corso.
-
-Art. 278. - Gli aspiranti saranno ammessi alla scuola dopo il superamento di un esame preliminare che comprende una prova scritta ed una prova orale e che si svolgera' entro il mese di dicembre.
-
-Art. 279. - Gli iscritti alla scuola hanno l'obbligo di frequentare gli insegnamenti secondo il programma del corso, nonche' l'istituto sede della scuola.
-
-Coloro che non ottempereranno all'obbligo di frequenza ai corsi di insegnamento ed al servizio di corsi e di laboratorio non potranno ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.
-
-Art. 280. - Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-Fondamenti di matematica e di statistica;
-
-Fisica nucleare e delle radiazioni;
-
-Tecniche per le misure di radioattivita';
-
-Dosimetria.
-
-2° Anno:
-
-Teoria dei traccianti;
-
-Elementi di radiochimica;
-
-Applicazioni diagnostiche I;
-
-Elementi di radiobiologia.
-
-3° Anno:
-
-Applicazioni diagnostiche II;
-
-Applicazioni terapeutiche;
-
-Radioprotezione e legislazione.
-
-Il programma sara' svolto in complessive otto settimane per un totale di almeno 60 lezioni globali e sara' integrato da seminari, conferenze, esercitazioni. Il direttore della scuola potra' ripartire lo svolgimento del programma in due o piu' periodi tra il 15 gennaio ed il 30 giugno.
-
-Art. 281. - Alla fine di ciascun anno accademico coloro i quali abbiano ottenuto la prescritta attestazione di frequenza, potranno sostenere gli esami di profitto, il cui superamento e' condizione necessaria per la iscrizione al corso successivo.
-
-Gli esami consistono in prove scritte (risposte ad un questionario di almeno cinque domande) ed in una prova orale su ciascuna delle materie di insegnamento che sono oggetto di esame in ogni anno di corso.
-
-Art. 282. - Al termine del terzo anno, per conseguire il diploma di specializzazione, gli iscritti, oltre ad aver superato le prove di esame nelle singole materie, dovranno presentare una dissertazione scritta su un argomento di medicina nucleare (clinico o sperimentale) che sara' stabilito in base agli accordi presi con il direttore della scuola.
-
-I candidati non riconosciuti idonei agli esami di ciascun corso e all'esame di diploma potranno sostenere le prove dopo un altro anno di frequenza.
-
-Art. 283. - Le norme per l'iscrizione, per le tasse, ecc. sono quelle generali delle scuole di specializzazione e di perfezionamento riferite negli articoli da 122 a 137 dello statuto dell'Universita'.
-
-Art. 284. - Agli allievi che abbiano ottenuto l'approvazione nell'esame finale viene rilasciato il diploma di specializzazione in medicina nucleare.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1973
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: ZAGARI
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 28 ottobre 1974 Atti di Governo, registro n. 6, foglio n. 53. - SCIARRETTA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846) e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -126,55 +25,63 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 122 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in medicina nucleare.  
-Dopo l'art. 275, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina nucleare.  
   
-Scuola di specializzazione in medicina nucleare  
-  
-Art. 276. - La scuola di specializzazione in medicina nucleare ha la durata di tre anni. Essa ha sede presso l'istituto scientifico di medicina interna.  
-Il direttore della scuola e' un professore di ruolo designato dalla facolta' a norma dell'art. 123 dello statuto dell'Universita'.  
-Art. 277. - Alla scuola possono essere iscritti solo i laureati in medicina e chirurgia. In ogni anno accademico possono essere ammessi al primo anno di corso un numero massimo di 10 candidati. Il totale massimo degli iscritti per tutti e tre gli anni e' di trenta.  
-Non e' consentita alcuna abbreviazione di corso.  
-Art. 278. - Gli aspiranti saranno ammessi alla scuola dopo il superamento di un esame preliminare che comprende una prova scritta ed una prova orale e che si svolgera' entro il mese di dicembre.  
-Art. 279. - Gli iscritti alla scuola hanno l'obbligo di frequentare gli insegnamenti secondo il programma del corso, nonche' l'istituto sede della scuola.  
-Coloro che non ottempereranno all'obbligo di frequenza ai corsi di insegnamento ed al servizio di corsi e di laboratorio non potranno ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.  
-Art. 280. - Le materie di insegnamento sono le seguenti:  
-  
-1° Anno:  
-Fondamenti di matematica e di statistica;  
-Fisica nucleare e delle radiazioni;  
-Tecniche per le misure di radioattivita';  
-Dosimetria.  
-  
-2° Anno:  
-Teoria dei traccianti;  
-Elementi di radiochimica;  
-Applicazioni diagnostiche I;  
-Elementi di radiobiologia.  
-  
-3° Anno:  
-Applicazioni diagnostiche II;  
-Applicazioni terapeutiche;  
-Radioprotezione e legislazione.  
-  
-Il programma sara' svolto in complessive otto settimane per un totale di almeno 60 lezioni globali e sara' integrato da seminari, conferenze, esercitazioni. Il direttore della scuola potra' ripartire lo svolgimento del programma in due o piu' periodi tra il 15 gennaio ed il 30 giugno.  
-Art. 281. - Alla fine di ciascun anno accademico coloro i quali abbiano ottenuto la prescritta attestazione di frequenza, potranno sostenere gli esami di profitto, il cui superamento e' condizione necessaria per la iscrizione al corso successivo.  
-Gli esami consistono in prove scritte (risposte ad un questionario di almeno cinque domande) ed in una prova orale su ciascuna delle materie di insegnamento che sono oggetto di esame in ogni anno di corso.  
-Art. 282. - Al termine del terzo anno, per conseguire il diploma di specializzazione, gli iscritti, oltre ad aver superato le prove di esame nelle singole materie, dovranno presentare una dissertazione scritta su un argomento di medicina nucleare (clinico o sperimentale) che sara' stabilito in base agli accordi presi con il direttore della scuola.  
-I candidati non riconosciuti idonei agli esami di ciascun corso e all'esame di diploma potranno sostenere le prove dopo un altro anno di frequenza.  
-Art. 283. - Le norme per l'iscrizione, per le tasse, ecc. sono quelle generali delle scuole di specializzazione e di perfezionamento riferite negli articoli da 122 a 137 dello statuto dell'Universita'.  
-Art. 284. - Agli allievi che abbiano ottenuto l'approvazione nell'esame finale viene rilasciato il diploma di specializzazione in medicina nucleare.  
+Art. 29. - All'elenco degli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di:  
+Storia della lingua italiana;  
+Storia della letteratura italiana moderna e contemporanea;  
+Topografia antica;  
+Dialettologia italiana;  
+Storia marittima;  
+Storia dei partiti politici;  
+Storia dei trattati e politica internazionale;  
+Storia e civilta' precolombiane dell'America;  
+Storia bizantina;  
+Storia della critica d'arte;  
+Estetica.  
+L'insegnamento complementare di "Filologia umanistica" del predetto corso di laurea muta denominazione in quello di "Letteratura umanistica".  
+Art. 30. - All'elenco degli insegnamenti complementari del corso di laurea in Filosofia e' aggiunto quello di "Filosofia della Storia".  
+Art. 31. - All'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere moderne (indirizzo europeo) sono aggiunti quelli di:  
+Storia dell'Europa orientale;  
+Filologia slava;  
+Filologia ugro-finnica;  
+Letteratura umanistica;  
+Lingue e letterature nordiche;  
+Lingua e letteratura catalana;  
+Lingua e letteratura inglese medioevale;  
+Lingua e letteratura polacca;  
+Storia contemporanea;  
+Storia del risorgimento;  
+Storia dei trattati e politica internazionale;  
+Storia americana;  
+Storia bizantina;  
+Paleografia e diplomatica;  
+Una materia filosofica a scelta;  
+Storia e civilta' precolombiane dell'America.  
+Art. 32. - All'elenco degli insegnamenti complementari del corso di laurea in geografia sono aggiunti quelli di:  
+Statistica;  
+Demografia;  
+Geografia regionale;  
+Economia politica;  
+Zoologia;  
+Paletnologia;  
+Botanica;  
+Storia contemporanea;  
+Storia moderna;  
+Topografia antica;  
+Storia e geografia dell'Asia orientale;  
+Storia e istituzioni dei paesi afro-asiatici.  
+Nello stesso corso di laurea gli insegnamenti complementari di "Geodesia e topografia" e "Geografia ed etnografia dell'Africa italiana" vengono sostituiti con quelli di "Topografia con elementi di geodesia" e "Geografia ed etnografia dell'Africa".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1973
+### Dato a Roma, addi' 24 giugno 1967
 
-LEONE MALFATTI
+SARAGAT GUI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 28 ottobre 1974
+Registrato alla Corte dei conti, addi' 7 agosto 1967
 
-Atti di Governo, registro n. 6, foglio n. 53. - SCIARRETTA
+Atti del Governo, registro n. 212, foglio n. 108. - GRECO

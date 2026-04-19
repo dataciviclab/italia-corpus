@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1046
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1969 n. 1087
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1046
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1969 n. 1087
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
@@ -10,47 +10,273 @@ Modificazioni allo statuto dell'Universita' degli studi di Catania.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio universitario nazionale nel suo parere;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 157, relativo all'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Igiene" muta denominazione in quella di "Igiene e medicina preventiva".
 
+Gli articoli 198-199, relativi alla scuola di specializzazione in igiene sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in igiene e medicina preventiva
+
+Art. 198. - Il corso degli studi della scuola di specializzazione in igiene e medicina preventiva ha la durata di tre anni ed e' distinto in un biennio di studi comuni mentre il 3° anno e' articolato nei seguenti quattro orientamenti:
+
+a) orientamento di sanita' pubblica;
+
+b) orientamento di laboratorio;
+
+c) orientamento di igiene e tecnica ospedaliera;
+
+d) orientamento di igiene e medicina scolastica.
+
+All'atto dell'iscrizione al 3° anno di corso, l'allievo dovra' indicare l'orientamento prescelto e alla fine dell'anno stesso potra' conseguire il diploma di specialista in igiene e medicina preventiva con o di sanita' pubblica, o di laboratorio, o di igiene e tecnica ospedaliera, o di igiene e medicina scolastica.
+
+Il conseguimento del diploma di specializzazione in uno degli orientamenti sopra menzionati, offre la possibilita' di accedere agli altri orientamenti mediante la iscrizione diretta al 3° anno di corso e con la convalida degli studi e degli esami del biennio comune.
+
+L'ammissione alla scuola e' subordinata ad un esame di ammissione.
+
+La scuola non puo' accogliere piu' di quindici allievi per ciascun anno di corso.
+
+Art. 199. - Gli insegnamenti impartiti nella scuola sono:
+
+1° Anno:
+
+1) Metodologia statistica e biometria;
+
+2) Educazione sanitaria;
+
+3) Psicologia;
+
+4) Microbiologia;
+
+5) Parassitologia;
+
+6) Epidemiologia e profilassi generale.
+
+2° Anno:
+
+1) Patologia e clinica delle malattie infettive;
+
+2) Epidemiologia e profilassi delle malattie infettive;
+
+3) Patologia e clinica delle malattie non infettive di importanza sociale;
+
+4) Demografia e statistica sanitaria;
+
+5) Legislazione e organizzazione sanitaria;
+
+6) Epidemiologia e profilassi delle malattie infettive di importanza sociale.
+
+3° Anno:
+
+Per l'orientamento di sanita' pubblica:
+
+1) Approvvigionamento idrico, raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici;
+
+2) Igiene edilizia e urbanistica;
+
+3) Igiene dell'alimentazione;
+
+4) Igiene e medicina scolastica;
+
+5) Igiene ospedaliera;
+
+6) Servizi di sanita' pubblica.
+
+Per l'orientamento di laboratorio.
+
+1) Microscopia applicata all'igiene;
+
+2) Microbiologia applicata all'igiene;
+
+3) Chimica clinica;
+
+4) Accertamento diagnostico delle malattie batteriche e parassitarie;
+
+5) Accertamento diagnostico delle infezioni virali;
+
+6) Nozioni di anatomia e istologia patologica.
+
+Per l'orientamento di igiene e tecnica ospedaliera.
+
+1) Storia degli ospedali e principi metodologici dell'assistenza ospedaliera;
+
+2) Igiene e tecniche delle costruzioni ospedaliere, arredamento ed impianti sanitari;
+
+3) Organizzazione e funzioni degli ospedali generali e speciali;
+
+4) Diritto amministrativo e legislazione ospedaliera;
+
+5) Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospedaliera;
+
+6) Selezione e istruzione professionale del personale ospedaliero;
+
+7) Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.
+
+Per l'orientamento di igiene e medicina scolastica.
+
+1) Auxologia normale e patologica;
+
+2) Epidemiologia e profilassi delle malattie dell'eta' scolastica;
+
+3) Servizi di medicina scolastica;
+
+4) Elementi di psicologia e pedagogia per l'eta' scolastica;
+
+5) Igiene dell'alimentazione;
+
+6) Assistenza parascolastica;
+
+7) Edilizia scolastica.
+
+Insegnamenti complementari (uno per ogni anno di corso) a scelta fra i seguenti:
+
+1) Ispezione delle carni;
+
+2) Geologia applicata all'igiene;
+
+3) Igiene mentale;
+
+4) Malattie professionali e loro prevenzione;
+
+5) Igiene navale e dell'emigrazione;
+
+6) Malattie tropicali;
+
+7) Genetica;
+
+8) Gerontologia e geriatria.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 23 ottobre 1969
+
+SARAGAT
+
+FERRARI AGGRADI
+
+Visto, il Guardasigilli: GAVA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 19 gennaio 1970 Atti del Governo, registro n. 231, foglio n. 33. - CARUSO
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Gli articoli 278 e 280, relativi alla scuola di specializzazione in medicina interna, sono sostituiti dai seguenti:  
-Art. 278. - La frequenza alle lezioni ed alle esercitazioni pratiche nei reparti e' obbligatoria.  
-Art. 280. - Il numero degli allievi che possono essere accolti e' di sedici per anno di corso, mentre con parere della facolta' possono far parte di un corso, in soprannumero, allievi ripetenti e provenienti da altre scuole o istituti universitari.  
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 157, relativo all'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Igiene" muta denominazione in quella di "Igiene e medicina preventiva".  
+Gli articoli 198-199, relativi alla scuola di specializzazione in igiene sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in igiene e medicina preventiva  
+  
+Art. 198. - Il corso degli studi della scuola di specializzazione in igiene e medicina preventiva ha la durata di tre anni ed e' distinto in un biennio di studi comuni mentre il 3° anno e' articolato nei seguenti quattro orientamenti:  
+a) orientamento di sanita' pubblica;  
+b) orientamento di laboratorio;  
+c) orientamento di igiene e tecnica ospedaliera;  
+d) orientamento di igiene e medicina scolastica.  
+All'atto dell'iscrizione al 3° anno di corso, l'allievo dovra' indicare l'orientamento prescelto e alla fine dell'anno stesso potra' conseguire il diploma di specialista in igiene e medicina preventiva con o di sanita' pubblica, o di laboratorio, o di igiene e tecnica ospedaliera, o di igiene e medicina scolastica.  
+Il conseguimento del diploma di specializzazione in uno degli orientamenti sopra menzionati, offre la possibilita' di accedere agli altri orientamenti mediante la iscrizione diretta al 3° anno di corso e con la convalida degli studi e degli esami del biennio comune.  
+L'ammissione alla scuola e' subordinata ad un esame di ammissione.  
+La scuola non puo' accogliere piu' di quindici allievi per ciascun anno di corso.  
+Art. 199. - Gli insegnamenti impartiti nella scuola sono:  
+1° Anno:  
+1) Metodologia statistica e biometria;  
+2) Educazione sanitaria;  
+3) Psicologia;  
+4) Microbiologia;  
+5) Parassitologia;  
+6) Epidemiologia e profilassi generale.  
+2° Anno:  
+1) Patologia e clinica delle malattie infettive;  
+2) Epidemiologia e profilassi delle malattie infettive;  
+3) Patologia e clinica delle malattie non infettive di importanza sociale;  
+4) Demografia e statistica sanitaria;  
+5) Legislazione e organizzazione sanitaria;  
+6) Epidemiologia e profilassi delle malattie infettive di importanza sociale.  
+3° Anno:  
+  
+Per l'orientamento di sanita' pubblica:  
+1) Approvvigionamento idrico, raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici;  
+2) Igiene edilizia e urbanistica;  
+3) Igiene dell'alimentazione;  
+4) Igiene e medicina scolastica;  
+5) Igiene ospedaliera;  
+6) Servizi di sanita' pubblica.  
+Per l'orientamento di laboratorio.  
+1) Microscopia applicata all'igiene;  
+2) Microbiologia applicata all'igiene;  
+3) Chimica clinica;  
+4) Accertamento diagnostico delle malattie batteriche e parassitarie;  
+5) Accertamento diagnostico delle infezioni virali;  
+6) Nozioni di anatomia e istologia patologica.  
+Per l'orientamento di igiene e tecnica ospedaliera.  
+1) Storia degli ospedali e principi metodologici dell'assistenza ospedaliera;  
+2) Igiene e tecniche delle costruzioni ospedaliere, arredamento ed impianti sanitari;  
+3) Organizzazione e funzioni degli ospedali generali e speciali;  
+4) Diritto amministrativo e legislazione ospedaliera;  
+5) Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospedaliera;  
+6) Selezione e istruzione professionale del personale ospedaliero;  
+7) Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.  
+Per l'orientamento di igiene e medicina scolastica.  
+1) Auxologia normale e patologica;  
+2) Epidemiologia e profilassi delle malattie dell'eta' scolastica;  
+3) Servizi di medicina scolastica;  
+4) Elementi di psicologia e pedagogia per l'eta' scolastica;  
+5) Igiene dell'alimentazione;  
+6) Assistenza parascolastica;  
+7) Edilizia scolastica.  
+Insegnamenti complementari (uno per ogni anno di corso) a scelta fra i seguenti:  
+1) Ispezione delle carni;  
+2) Geologia applicata all'igiene;  
+3) Igiene mentale;  
+4) Malattie professionali e loro prevenzione;  
+5) Igiene navale e dell'emigrazione;  
+6) Malattie tropicali;  
+7) Genetica;  
+8) Gerontologia e geriatria.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 23 ottobre 1969
 
-PERTINI BODRATO
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 24 febbraio 1982
+Registrato alla Corte dei conti, addi' 19 gennaio 1970
 
-Registro n. 30 Istruzione, foglio n. 377
+Atti del Governo, registro n. 231, foglio n. 33. - CARUSO

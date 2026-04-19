@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1975 n. 885
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 575
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1975 n. 885
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 575
+=============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad acquistare un immobile.
 ----------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-885. Decreto del Presidente della Repubblica 18 dicembre 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare dal Centro internazionale genti e culture della compagnia di Gesu', al prezzo di L. 80.000.000, un immobile costituito da un appezzamento di terreno con entrostante fabbricato di tre piani fuori terra, sito in Torino, via Monti n. 43, angolo via Chiabrera n. 7, censito al nuovo catasto edilizio urbano alle partite 31143, foglio 185, n. 369, sub 1 ed alle particelle 78070, foglio 185, n. 369, sub 2, da destinare a sede di una casa di riposo per ciechi.   
+575. Decreto del Presidente della Repubblica 16 luglio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare dai fratelli Romagnoli Giulia, Alfonso, Margherita e Mario, al convenuto prezzo di L. 63.000.000, ritenuto congruo dall'ufficio tecnico erariale di Piacenza, un immobile sito in detta citta', via Mazzini n. 51, distinto al nuovo catasto edilizio urbano alla partita 2970, foglio 15, mappale 65 sub 2, da destinare a sede sociale.  
   
-Visto, il Guardasigilli: REALE   
-Registrato alla Corte dei conti, addi' 18 febbraio 1976   
-Atti di Governo, registro n. 3, foglio n. 23
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 11 ottobre 1985  
+Registro n. 9 Presidenza, foglio n. 75

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1978 n. 454
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979 n. 408
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1978 n. 454
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979 n. 408
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
@@ -13,9 +13,10 @@ Art. 1
  IL PRESIDENTE DELLA REPUBBLICA  
   
 Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -23,27 +24,20 @@ Sulla proposta del Ministro della pubblica istruzione;
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:  
-L'art. 55, concernente le norme di propedeuticita' per gli esami del corso di laurea in farmacia e' modificato nel senso che l'ultimo comma e' soppresso e sostituito con i seguenti due nuovi commi:  
-"Per essere ammesso al corso di esercitazioni di chimica farmaceutica e tossicologica I lo studente deve aver superato l'esame di chimica generale.  
-Per essere ammesso al corso di esercitazioni di chimica farmaceutica e tossicologica III lo studente deve aver superato l'esame di chimica organica".  
-L'art. 57, concernente norme di propedeuticita' per gli esami del corso di laurea in chimica e tecnologia farmaceutiche e' modificato nel senso che l'ultimo comma e' abrogato e sostituito con i seguenti due nuovi commi:  
-"Per essere ammesso al corso di analisi chimico farmaceutica I lo studente deve aver superato l'esame di chimica generale ed inorganica.  
-Per essere ammesso al corso di analisi chimico-farmaceutica III lo studente deve aver superato l'esame di chimica organica I".  
-L'art. 68, concernente il corso di laurea in medicina veterinaria, e' modificato nel senso che dopo il penultimo comma e' inserito il seguente nuovo comma:  
-"Per il raggiungimento del numero delle ore richieste per gli insegnamenti clinici, e' utilizzabile il periodo semestrale di tirocinio pratico da iniziarsi dopo la chiusura dei corsi di insegnamento del quinto anno e da compiersi prima che i giovani si presentino a sostenere l'esame di abilitazione all'esercizio professionale, purche' questo sia svolto a tempo pieno e sotto il controllo diretto dell'autorita' competente".  
-L'art. 69, concernente il corso di laurea in medicina veterinaria e' modificato nel senso che e' soppresso il testo del secondo comma.  
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 54 - nell'elenco degli insegnamenti complementari del corso di laurea in farmacia l'insegnamento "complementi di chimica tossicologica" muta la denominazione in quella di "chimica tossicologica".  
+Art. 56 - nell'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologia farmaceutiche l'insegnamento "complementi di chimica tossicologica" muta la denominazione in quella di "chimica tossicologica".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 aprile 1978
+### Dato a Roma, addi' 4 giugno 1979
 
-LEONE PEDINI
+PERTINI SPADOLINI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 25 luglio 1978
+Registrato alla Corte dei conti, addi' 28 luglio 1979
 
-Registro n. 83 Istruzione, foglio n. 145
+Registro n. 60 Istruzione, foglio n. 200

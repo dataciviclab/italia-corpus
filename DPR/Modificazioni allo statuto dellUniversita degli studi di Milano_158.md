@@ -1,165 +1,159 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 settembre 1949 n. 942
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 926
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 settembre 1949 n. 942
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 926
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni:
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, n. 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166), e modificato con i [regi decreti 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2056) e [26 aprile 1942, n. 123, e con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-04-26;123) [27 luglio 1947, n. 1138](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-07-27;1138);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 21 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-21;1592);  
-Vedute le proposte di modifica allo statuto, formulate dalle autorita' accademiche della predetta Universita';  
-Riconosciuta la particolare necessita' di approvare lo nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Dopo l'art. 195, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in cardiologia (seconda scuola):  
   
-Decreta:  
+Scuola di specializzazione in cardiologia (seconda scuola)  
   
-Lo statuto dell'Universita', degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 196. - E' istituita la seconda scuola di specializzazione in cardiologia presso l'Universita' degli studi di Milano.  
+La scuola ha lo scopo di insegnare e di approfondire gli studi nel campo della cardiologia e di fornire le competenze professionali necessarie per il conseguimento del diploma che legittima l'assunzione della qualifica di specialista in cardiologia.  
+La scuola rilascia il titolo di specialista in cardiologia.  
+Art. 197. - La scuola ha la durata di quattro anni.  
+Ciascun anno di corso prevede ottocento ore di insegnamento e di attivita' pratiche guidate.  
+In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in otto per ciascun anno di corso, per un totale di trentadue specializzandi.  
+Art. 198. - Per l'attuazione delle attivita' didattiche programmate dal consiglio della scuola provvede la facolta' di medicina e chirurgia.  
+Art. 199. - Sono ammessi alle prove per ottenere l'iscrizione i laureati in medicina e chirurgia.  
+Per l'iscrizione alla scuola e' richiesto il possesso del diploma di abilitazione all'esercizio professionale.  
+Art. 200. - La scuola comprende dieci aree di insegnamento e tirocinio professionale:  
+a) strutture e metabolismo del cuore e dei vasi;  
+b) fisiologia dell'apparato cardiovascolare;  
+c) fisiopatologia cardiorespiratoria;  
+d) medicina interna generale;  
+e) semeiotica generale cardiovascolare;  
+f) informatica medica e strumentazione biomedica;  
+g) metodologie diagnostiche non invasive;  
+h) metodologie diagnostiche invasive e cardiochirurgia;  
+i) patologia e clinica cardiovascolare;  
+l) farmacologia e terapia cardiovascolare.  
+Art. 201. - Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:  
+a) struttura e metabolismo del cuore e dei vasi:  
+anatomia umana normale ed embriologia dell'apparato cardiovascolare;  
+biochimica;  
+biofisica.  
+b) fisiologia dell'apparato cardiovascolare:  
+fisiologia dell'apparato cardiovascolare I;  
+fisiologia dell'apparato cardiovascolare II.  
+c) fisiopatologia cardiorespiratoria:  
+fisiopatologia cardiorespiratoria I;  
+fisiopatologia cardiorespiratoria II.  
+d) medicina interna generale:  
+fondamenti di semeiotica medica;  
+rapporti tra patologia dei vari apparati e patologia cardiovascolare.  
+e) semeiotica generale cardiovascolare:  
+semeiotica del ricambio idrosalino;  
+semeiotica fisica cardiovascolare I;  
+semeiotica fisica cardiovascolare II.  
+f) informatica medica e strumentazione biomedica:  
+informatica medica e strumentazione biomedica I;  
+informatica medica e strumentazione biomedica II.  
+g) metodologie diagnostiche non invasive:  
+indagini diagnostiche non invasive I (elettrocardiografia e vettocardiografia, fonocardiografia e poligrafia);  
+indagini diagnostiche non invasive II (semeiotica funzionale vascolare periferica, ergometria);  
+indagini diagnostiche non invasive III (elettrocardiografia dinamica, ecocardiografia, radiologia non contrastografica, TAC, risonanza magnetica nucleare (RMN), metodiche radioisotopiche).  
+h) metodologie diagnostiche invasive e cardiochirurgia:  
+indagini diagnostiche invasive I (emodinamica, elettrofisiologia);  
+indagini diagnostiche invasive II (radiologia contrastografica);  
+cardiochirurgia.  
+i) patologia e clinica cardiovascolare:  
+anatomia patologica I;  
+anatomia patologica II;  
+patologia e clinica cardiovascolare I;  
+patologia e clinica cardiovascolare II;  
+patologia e clinica cardiovascolare III.  
+l) farmacologia e terapia cardiovascolare:  
+farmacologia cardiovascolare;  
+farmacologia e terapia cardiovascolare;  
+terapie intensive cardiologiche.  
+Art. 202. - L'attivita' didattica comprende ogni anno ottocento ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in una attivita' didattica teorico-pratica comune per tutti gli studenti (quattrocento ore come di seguito ripartite) ed in una attivita' didattica elettiva, prevalentemente di carattere tecnico-applicativo di ulteriori quattrocento ore, rivolta all'apprendimento del curriculum corrispondente ad uno dei settori formativo-professionali (monte ore elettivo).  
   
-Gli articoli dell'attuale statuto dal n. 78 al n. 86 vengono sostituiti dai seguenti, col relativo spostamento della numerazione degli articoli successivi.  
-Art. 78. - Presso la Facolta' di medicina e chirurgia sono istituite scuole di perfezionamento che conferiscono diplomi di specialista nelle discipline professionali medico-chirurgiche, ai sensi dell'[art. 4 del regio decreto 31 dicembre 1923, n. 2909](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;2909~art4).  
-Art. 79. - li direttore di ciascuna, scuola di perfezionamento e' di diritto il professore di ruolo che copre la cattedra da cui si intitola, la scuola. Nel caso in cui la cattedra non sia coperta da un professore di ruolo, il direttore della scuola e' scelto dalla Facolta'. Il Consiglio di ciascuna scuola si compone dei professori che vi tengono gli insegnamenti prescritti ed e' presieduto dal direttore.  
-Art. 80. - Alle scuole di perfezionamento della Facolta' di medicina e chirurgia, possono iscriversi i laureati in medicina e chirurgia (ad eccezione di quella in farmacia industriale alla quale sono ammessi i laureati in chimica e farmacia ed i diplomati in farmacia) entro il numero dei posti stabiliti per ciascuna, scuola.  
-Ogni anno, entro il mese di maggio, la Facolta', su proposta del Consiglio dei direttori delle scuole, stabilisce il numero dei posti disponibili del primo corso di ciascuna scuola.  
-Gli aspiranti all'iscrizione al primo corso di ciascuna scuola di perfezionamento dovranno presentare entro e non oltre il 30 novembre alla segreteria domanda di ammissione in bollo competente, corredata dei documenti prescritti e di quei titoli che ciascun candidato ritenga opportuno presentare nel proprio interesse (carriera scolastica, titoli scientifici e pratici, conoscenza delle Lingue estere, ecc.). I documenti prescritti per l'immatricolazione sono:  
-a) certificato di nascita in carta, legale, debitamente legalizzato per i nati fuori della giurisdizione di Milano;  
-b) diploma originale di maturita' classica o scientifica;  
-c) diploma originale di laurea in medicina e chirurgia per tutte le scuole, ad eccezione di quella in farmacia industriale alla quale sono ammessi i laureati in chimica e farmacia ed i diplomati in farmacia;  
-d) un certificato di laurea con tutti i voti riportati in ogni singolo esame di profitto;  
-e) tre fotografie, di cui una autenticata, debitamente legalizzata per i residenti fuori della giurisdizione di Milano;  
-f) foglio di iscrizione ai corsi su modulo rilasciato dall'ufficio di economato della Universita' di Milano.  
-Coloro che non presenteranno tutti i documenti di cui sopra saranno esclusi dagli esami di concorso.  
-Gli aspiranti alla ammissione al primo corso dovranno sostenere presso la scuola prescelta un concorso per titoli e per esami, secondo le particolari esigenze didattiche di ciascuna scuola.  
-I posti disponibili per ciascuna scuola saranno contenuti in base alla graduatoria del concorso.  
-I prescelti debbono immediatamente regolarizzare la propria posizione, presentando alla segreteria i seguenti documenti:  
-a) quietanza del pagamento delle tasse, sopratasse e contributi;  
-b) libretto e tessera che si ritirano presso l'ufficio di economato dell'Universita' di Milano.  
-Art. 81. - Agli anni successivi al primo saranno ammessi gli allievi che abbiano regolarmente frequentato il primo corso e che abbiano ottenuto giudizio favorevole negli esami annuali di profitto in programma.  
-Le iscrizioni a tutti gli anni di corso successivi al primo si aprono il primo agosto e si chiudono improrogabilmente il 5 novembre.  
-Per le iscrizioni agli anni di corso successivi al primo, la domanda, redatta, su carta da bollo competente, deve essere corredata:  
-a) del libretto personale di iscrizione;  
-b) della, quietanza del pagamento delle tasse, sopratasse e contributi;  
-c) del foglio di iscrizione ai corsi da ritirarsi presso l'ufficio di economato dell'Universita' di Milano;  
-d) della scheda anagrafica da ritirarsi presso l'ufficio di economato della Universita' di Milano.  
-Coloro che non hanno ottenuto le firme di frequenza annuali e che non hanno superato, ove prescritto, l'esame annuale di profitto dovranno ripetere l'anno di corso con il conseguente pagamento di tutte le tasse, sopratasse e contributi.  
-Coloro che hanno ottenuto le firme di frequenza annuali, ma che non hanno superato l'esame di profitto, ove prescritto, non potranno essere iscritti all'anno di corso successivo, ma dovranno essere iscritti fuori corso.  
-Art. 82. - Le domande di passaggio da una scuola ad un' altra debbono essere presentate alla segreteria dal 1 agosto al 31 dicembre.  
-Il Consiglio di facolta', sentito il direttore della scuola interessata, e tenuto conto della disponibilita' dei posti, decide in merito al passaggio.  
-Art. 83. - Coloro che chiedono il trasferimento da altra universita' sono ammessi alla scuola prescelta, sempreche' i posti siano disponibili, il direttore della scuola stessa abbia espresso parere favorevole, ed il Consiglio di facolta' abbia approvato.  
-Se non concorrono queste condizioni, i documenti verranno restituiti d'ufficio alla universita' di provenienza.  
-Art. 84. - Le abbreviazioni di corso non sono consentite per nessun motivo.  
-Art. 85. - La sorveglianza su gli iscritti, per tutto quanto riguarda la loro attivita', spetta al direttore della scuola.  
-Art. 86. - Le tasse e sopratasse per gli iscritti alle scuole suddette sono quelle stabilite per la Facolta' di medicina e chirurgia.  
-L'ammontare dei contributi vari e scuola verra' reso noto ogni anno con apposito manifesto.  
-Le tasse, sopratasse e contributi possono essere pagati in quattro rate: la prima all'atto della iscrizione; la seconda entro il 31 gennaio; la terza entro il 31 marzo; la quarta entro il 31 maggio. Lo studente che ha ottenuto l'iscrizione ad un anno di corso non ha diritto in nessun caso alla restituzione delle tasse, sopratasse e contributi pagati.  
-Art. 87. - L'insegnamento si svolge normalmente secondo il calendario universitario durante il periodo delle lezioni. La durata del corso si prolunga tuttavia per l'anno solare, senza interruzione, per la, pratica clinica, che si applica attraverso l'internato.  
-La frequenza ai corsi e l'internato sono obbligatori e gli allievi non possono avere impegni tali da limitare l'obbligo di tale frequenza.  
-Possono essere esonerati da, tale internato unicamente gli assistenti effettivi nelle rispettive specialita' cliniche che prestino servizio regolare nelle cliniche o negli istituti universitari o in istituti ospitalieri riconosciuti idonei, volta a volta, a giudizio insindacabile della Facolta'.  
-Art. 88. - Le domande di esame di profitto dovranno essere presentate nei termini che saranno stabiliti all'inizio di ogni sessione, con apposito manifesto, e dovranno essere accompagnate dal libretto d'iscrizione con le prescritte attestazioni di frequenza. Ai termine di ogni anno gli iscritti dovranno sostenere un esame di profitto, ove prescritto, secondo le norme dello statuto universitario.  
-Art. 89. - Per essere ammesso all'esame di diploma il perfezionando deve aver seguito i corsi e superato gli esami annuali di profitto.  
-L'esame di diploma consiste nella discussione orale di una dissertazione scritta su un tema approvato in precedenza dal professore della materia, corredata da rilievi clinici o sperimentali personali.  
-Per essere ammesso all'esame di diploma il candidato deve presentare alla segreteria nei termini che saranno stabiliti all'inizio di ogni sessione con apposito manifesto, domanda in bollo competente al Magnifico Rettore e contenente, oltre i dati anagrafici, il titolo della tesi e la firma del professore relatore.  
-La dissertazione, in quattro copie, deve essere depositata nella segreteria almeno quindici giorni prima dell'esame.  
-I candidati riprovati all'esame di diploma possono ripresentarsi alla prova soltanto dopo due anni.  
-Art. 90. - Le Commissioni per gli esami di profitto, composte di non meno di tre membri, compreso un libero docente, sono nominate dal direttore della scuola.  
-La Commissione per l'esame di diploma e' costituita da sette membri, nominati dal preside della Facolta', udito il direttore della scuola.  
-I commissari devono rivestire la qualita' di professori ufficiali ed e' chiamato a far parte della Commissione anche un libero docente.  
-Art. 91. - Dopo la scuola di perfezionamento in tisiologia e malattie dell'apparato respiratorio vengono aggiunte le seguenti nuove scuole:  
-a) Scuola di perfezionamento in igiene e tecnica ospedaliera;  
-b) Scuola di specializzazione in idrologia, climatologia, e talassologia;  
-c) scuola di perfezionamento in anestesia.  
+La frequenza nelle diverse aree avviene pertanto come di seguito specificato:  
   
-Scuola di perfezionamento in igiene e tecnica ospedaliera  
-Vengono aboliti gli articoli dal n. 70 al n. 77 relativi al corso teorico pratico di perfezionamento in igiene tecnica ospedaliera per aspiranti direttori sanitari di ospedali ed istituti affini.  
-La scuola di perfezionamento in igiene e tecnica ospedaliera, ha, la durata di due anni.  
-a) La scuola fa parte integrante dell'Istituto d'igiene dell'Universita' e dispone della biblioteca, dei laboratori e del materiale didattico nonche' dei reparti e servizi degli Istituti ospitalieri della citta'.  
-b) La scuola e' diretta dal direttore dell'Istituto d'igiene dell'Universita'.  
-c) Durante il corso vengono tenute lezioni ed esercitazioni pratiche presso l'Istituto d'igiene e gli Istituti ospitalieri di Milano. Il corso e' integrato da tirocini presso i reparti e i servizi di detti Istituti, da visite ad ospedali e ad impianti sanitari interessanti la specialita'.  
-d) La frequenza sia alle lezioni che alle esercitazioni ed i tirocini sono obbligatori.  
-e) Alla scuola si possono inscrivere i laureati in medicina e chirurgia; non sono ammessi piu' di quindici iscritti per ciascun anno. A nessun titolo sono ammesse abbreviazioni di corso. Nel caso che il numero degli aspiranti alla, inscrizione sia superiore a quindici, si provvede alla scelta da parte della Direzione in base ai titoli di studio e di carriera ed eventualmente mediante esami.  
-f) Il termine per la, presentazione delle domande di inscrizione alla scuola e' stabilito inderogabilmente al 30 novembre di ogni anno.  
-g) Alla, fine di ciascun anno scolastico i perfezionandi che abbiano ottenuto la firma di frequenza dovranno sostenere un esame di profitto il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo e per quelli che sono stati inscritti al secondo corso per accedere all'esame di diploma.  
-h) Alla fine del secondo anno del corso ha luogo l'esame di diploma consistente nella presentazione e discussione di una dissertazione originale scritta su argomento di igiene e tecnica ospedaliera, concordato fra, il diplomando e il direttore della scuola all'inizio del secondo anno del corso. La dissertazione deve essere approvata dal direttore stesso e depositata presso la segreteria della Facolta' di medicina almeno quindici giorni prima dell'esame.  
-i) La Commissione giudicatrice degli esami di profitto e' costituita dal direttore della scuola, da un insegnante della scuola, e da un professore della Facolta' designato dal preside.  
-l) La Commissione dell'esame di diploma e' costituita da, sette membri, e' presieduta dal preside della Facolta' o da un professore da lui delegato. Di essa fanno parte il direttore e tre insegnanti della scuola. Gli altri membri sono scelti dal preside tra i professori e i liberi docenti dell'Universita' di Milano.  
-m) Gli iscritti sono tenuti al pagamento delle tasse e sopratasse stabilite per legge per gli studenti del corso di laurea in medicina e chirurgia nonche' ad un contributo di internato nella misura stabilita anno per anno dal Consiglio di amministrazione.  
-n) Durata del corso anni due.  
-Anno 1°: a) igiene generale e speciale; b) batteriologia, immunologia, e microbiologia applicata all'igiene; c) parassitologia;  
-d) legislazione sanitaria, statistica e demografia; e) zoonosi - ispezioni delle carni; f) nozioni di anatomia, e istologia patologica.  
-Anno 2°: a) igiene, generale speciale; b) patologia e clinica delle malattie da infezioni, da intossicazione, da carenza, da, eredita', morbosa;, ecc. e ingegneria sanitaria; c) chimica applicata all'igiene; d) geologia applicata all'igiene.  
-Conferenze su argomenti speciali e internati presso l'istituto di igiene e l'ufficio municipale d'igiene.  
+1° Anno:  
+strutture e metabolismo del cuore e dei vasi. . . . . (ore 50): anatomia umana normale ed embriologia dell'apparato cardiovascolare. . . . . . . . . . . . . . . . . . . . . . . . ore 20 biochimica e biofisica. . . . . . . . . . . . . . . . ore 30. fisiologia dell'apparato cardiovascolare. . . . . . . (ore 50): fisiologia dell'apparato cardiovascolare I. . . . . . ore 50. fisiopatologia cardiorespiratoria. . . . . . . . . . (ore 100): fisiopatologia cardiorespiratoria I. . . . . . . . . ore 100. medicina interna generale. . . . . . . . . . . . . . (ore 100): fondamenti di semeiotica medica. . . . . . . . . . . . ore 50 rapporti fra patologia di vari apparati e patologia cardiovascolare . . . . . . . . . . . . . . . . . . . . . . . ore 50. semeiotica generale cardiovascolare . . . . . . . . . (ore 50): semeiotica del ricambio idrosalino. . . . . . . . . . ore 50. informatica medica e strumentazione biomedica . . . . (ore 50): informatica medica e strumentazione biomedica I . . . ore 50.  
+Monte ore elettivo . . . . . . . . . . . . . . . . . . ore 400.   
+2° Anno:  
+fisiologia dell'apparato cardiovascolare. . . . . . . (ore 50): fisiologia dell'apparato cardiovascolare II . . . . . ore 50. fisiopatologia cardiorespiratoria . . . . . . . . . . (ore 50): fisiopatologia cardiorespiratoria II. . . . . . . . . ore 50. semeiotica generale cardiovascolare . . . . . . . . . (ore 50): semeiotica fisica cardiovascolare II. . . . . . . . . ore 50. informatica medica e strumentazione biomedica . . . . (ore 50): informatica medica e strumentazione biomedica II. . . ore 50. metodologie diagnostiche non invasive . . . . . . . . (ore 50): indagini diagnostiche non invasive I. . . . . . . . . ore 50. metodologie diagnostiche invasive e cardiochirurgia . (ore 50): indagini diagnostiche invasive I. . . . . . . . . . . ore 50. patologia clinica cardiovascolare . . . . . . . . . . (ore 50): anatomia patologica I. . . . . . . . . . . . . . . . . ore 20 patologia e clinica cardiovascolare I . . . . . . . . ore 30. farmacologia e terapia cardiovascolare. . . . . . . . (ore 50): farmacologia cardiovascolare. . . . . . . . . . . . . ore 50.  
+Monte ore elettivo . . . . . . . . . . . . . . . . . . ore 400.   
+3° Anno:  
+semeiotica generale e cardiovascolare (ore 50):  
+semeiotica fisica cardiovascolare II. . . . . . . . . ore 50. metodologie diagnostiche non invasive. . . . . . . . (ore 100); indagini diagnostiche non invasive II. . . . . . . . . ore 100. metodologie diagnostiche invasive e cardiochirurgia . . (ore 50): indagini diagnostiche invasive II . . . . . . . . . . . ore 50. patologia e clinica cardiovascolare. . . . . . . . . . (ore 100): anatomia patologica II . . . . . . . . . . . . . . . . . ore 20 patologia e clinica cardiovascolare II. . . . . . . . . ore 80. farmacologia e terapia cardiovascolare . . . . . . . . (ore 100): farmacologia e terapia cardiovascolare . . . . . . . . ore 100.  
+Monte ore elettivo . . . . . . . . . . . . . . . . . . . ore 400.   
+4° Anno:  
+metodologie diagnostiche non invasive. . . . . . . . . (ore 100): indagini diagnostiche non invasive III . . . . . . . . ore 100. metodologie diagnostiche invasive e cardiochirurgia. . (ore 100):  
+cardiochirurgia. . . . . . . . . . . . . . . . . . . . ore 100. patologia clinica cardiovascolare. . . . . . . . . . . (ore 100): patologia e clinica cardiovascolare III. . . . . . . . ore 100. farmacologia e terapia cardiovascolare . . . . . . . . (ore 100): terapie intensive cardiologiche. . . . . . . . . . . . ore 100.  
+Monte ore elettivo . . . . . . . . . . . . . . . . . . . ore 400.  
   
-Scuola di specializzazione in idrologia,  
-climatologia e talassoterapia  
-a) La scuola di specializzazione in idrologia, climatologia e talassoterapia, ha sede presso l'Istituto di farmacologia della Universita', dove il "Centro di studi medici di idrologia, climatologia e talassologia" ha i propri laboratori attrezzati e una propria biblioteca Specializzata.  
-b) La direzione della, scuola di specializzazione e' affidata al professore che tiene a titolo ufficiale l'insegnamento della idrologia nella Facolta' medica, di Milano. Gli insegnamenti specializzati saranno tenuti dai docenti designati dalla stessa Facolta'.  
-c) Il materiale didattico della scuola di specializzazione e' costituito oltre che dai laboratori e dalla biblioteca del a Centro di studi medici di idrologia e climatologia, e talassologia" dagli ammalati delle cliniche generali e speciali della Universita' di Milano, e da quelli frequentanti gli ambulatori specializzati dell'Istituto di farmacologia o degenti nel reparto clinico "Victor De Marchi" annesso al medesimo Istituto.  
-d) Il corso avra' la durata di due anni e non verranno concesse a nessun titolo abbreviazioni di corso.  
-e) Durante il biennio verranno impartiti i seguenti insegnamenti:  
-Anno 1°:  
-nozioni di geologia, geofisica, metereologia;  
-nozioni di fisiologia e farmacologia applicate alla idrologia climatologica, e talassologia, mediche;  
-idrologia;  
-metodologia termale;  
-climatologia, e climatoterapia;  
-talassotologia e talassoterapia;  
-fisioterapia;  
-dietetica generale e speciale;  
-organizzazione impianto delle stazioni termali, talassiche e climatiche;  
-funzionamento delle colonie marine, montane e termali.  
-Anno 2°:  
-clinica e terapeutica, idrotalassoclimatologica in:  
-a) medicina generale; b) ginecologia; c) pediatria; d) dermatologia; e) tisiologia; f) cardiologia; g) ortopedia e traumatologia; h) otorinolaringoiatria.  
-f) Durante il biennio, oltre i sopracitati corsi di lezioni, verranno tenute delle esercitazioni pratiche per gli esami chimico-clinici di laboratorio piu' comuni connessi con le cure climatologiche e idrotermali, ed inoltre avranno luogo anche:  
-1) esercitazioni pratiche di applicazioni idro-lutoterapiche negli ambulatori e al letto dei degenti nelle corsie ricordate alla lettera c);  
-2) esercitazioni pratiche di meteorologia, e climatologia con rilievi diretti dei dati meteriologici e climatici;  
-3) visite alle principali stazioni termali climatiche e talassiche;  
-4) conferenze, su argomenti da, determinarsi e da tenersi da studiosi italiani o stranieri di particolare competenza, in qualche ramo nel campo idrologico e climatologico.  
-g) Gli allievi dovranno fare inoltre un periodo di internato pratico, con funzioni di medico residente, in una o piu' stazioni termali climatiche e talassiche fra quelle autorizzate dalla Facolta' medica e per la, durata complessi va non inferiore a due mesi.  
-h) Alla scuola di specializzazione potranno essere ammessi per ogni anno non piu' di dieci medici. Nel caso che i richiedenti la iscrizione fossero in numero superiore, il direttore della, scuola provvedera' alla scelta fra gli aspiranti in base ai loro titoli ed eventualmente per esami.  
-i) Le iscrizioni alla scuola si chiuderanno entro il 30 novembre di ogni anno.  
-l) La frequenza sia alle lezioni che alle conferenze che alle esercitazioni teorico-pratiche negli ambulatori, nelle corsie e nei laboratori e' strettamente obbligatoria. Durante gli anni del corso di specializzazione, gli allievi non potranno tenere altre occupazioni, anche di carattere professionale, che li distolgano dai loro doveri verso la scuola.  
-m) Alla fine di ciascun anno gli allievi dovranno sostenere un esame di profitto mediante prove orali, pratiche, scritte, e, soltanto superate queste, potranno ottenere la iscrizione all'anno successivo oppure presentarsi all'esame di diploma.  
-n) Alla fine del secondo anno di corso, lo specializzando sosterra' l'esame di diploma che consistera' nel presentare e nel discutere una dissertazione scritta riguardante argomenti della specialita', che dimostri nel candidato sia una buona cultura, scientifica, e clinica nel campo specialistico sia una soddisfacente capacita' di ricerca, e di critica.  
-  
-Scuola di perfezionamento in anestesia  
-a) Il direttore della scuola e' designato dalla Facolta' anno per anno.  
-b) Sono ammessi alla scuola, in numero non superiore a dodici, i laureati in medicina e chirurgia delle Universita' italiane.  
-c) Il termine per la presentazione delle domande e' tassativamente fissato al 30 novembre di ogni anno.  
-d) La selezione dei richiedenti la iscrizione, al fine della, ammissione entro il numero dei posti disponibili, e' fatta dalla facolta' sentito il direttore della scuola che provvedera' alla valutazione degli aspiranti in base ai titoli e, occorrendo, ad esame.  
-e) La durata del corso e' di un anno; in questo periodo gli allievi sono tenuti a prestare servizio di internato nella, clinica chirurgica generale.  
-f) Le materie di insegnamento sono le seguenti:  
-1) i fondamenti anatomici delle anestesie;  
-2) i fondamenti fisiologici delle anestesie;  
-3) i fondamenti farmacologici delle anestesie;  
-4) le anestesie generali;  
-5) le anestesie loco-regionali;  
-6) trattamenti pre e post-anestetici.  
-g) Gli insegnanti della scuola sono designati dalla Facolta' su proposta del direttore.  
-h) Al termine del corso gli allievi dovranno superare:  
-un esame speciale sulla materia degli insegnamenti fondamentali; un esame speciale sulla materia, degli insegnamenti teorico-pratici un esame di diploma, consistente in una dissertazione orale su argomento attinente all'anestesia, scelto dall'allievo ed approvato dal direttore.  
-i) Le Commissioni degli esami speciali saranno costituite di tre membri, nominati dal preside della Facolta' e scelti fra gli insegnanti della scuola, su proposta del direttore.  
-La Commissione dell'esame di diploma e' composta di cinque membri ed e' presieduta dal preside od in sua assenza dal direttore della scuola, il quale ne fa parte di diritto.  
-l) Gli iscritti sono tenuti al pagamento delle tasse e sopratasse stabilite per legge per gli studenti del corso di laurea in medicina e chirurgia, nonche' ad un contributo di internato nella misura stabilita, anno per anno, dal Consiglio di amministrazione della universita'.  
-Le spese relative al funzionamento delle predette scuole saranno a carico del bilancio ordinario della Universita' di Milano.  
+Art. 203. - Durante i quattro anni di corso e' richiesta la frequenza ai fini dell'apprendimento nei seguenti reparti/divisioni/ambulatori/laboratori:  
+reparti clinici di degenza;  
+ambulatori di cardiologia;  
+ambulatori di ipertensione;  
+reparti di cura intensiva e semintensiva coronarica;  
+laboratori di informatica;  
+laboratori di analisi radioimmunologica;  
+laboratori di diagnostica delle arteriopatie periferiche;  
+laboratori di cardiologia e ipertensione sperimentale;  
+laboratori di emodinamica cardiaca non invasiva e invasiva;  
+laboratorio di radiodiagnostica cardiovascolare e coronarica;  
+laboratorio di indagine dei sistemi di controllo nervoso ed umorale del circolo sanguigno;  
+laboratorio di elettrofisiologia sperimentale;  
+laboratorio di elettrofisiologia clinica ed elettrocardiografia dinamica;  
+laboratorio di monitoraggio in continuo della pressione arteriosa;  
+laboratori di farmacologia clinica.  
+La frequenza nelle varie aree per complessive ottocento ore annue, compreso il monte ore elettivo di quattrocento annue, avverra' secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienza e di formazione professionale. Il consiglio della scuola ripartira' annualmente il monte ore elettivo.  
+Il consiglio della scuola predispone apposito libretto di formazione che consenta allo specializzando ed al consiglio stesso il controllo della attivita' svolta e dell'acquisizione dei progressi compiuti, per sostenere gli esami annuali e finali.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 settembre 1949
+### Dato a Roma, addi' 31 ottobre 1985
 
-EINAUDI GONNELLA
+COSSIGA
 
-Visto, il Guardasigilli: GRASSI
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 20 Dicembre 1949
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Atti del Governo, registro n. 30, foglio n. 139. - FRASCA
+Registrato alla Corte dei conti, addi' 14 febbraio 1986
+
+Registro n. 9 Istruzione, foglio n. 120

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 572
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1976 n. 172
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 572
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1976 n. 172
+============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-572. Decreto del Presidente della Repubblica 16 luglio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di lire 20.000.000, disposto dalla sig.ra Ponta Giustina Rosita a favore dell'opera "Don Gnocchi" che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale 16 gennaio 1984 del consiglio di amministrazione della fondazione stessa, con testamento pubblico 9 novembre 1982, redatto a rogito dott. Massimo Di Paolo, notaio in Genova, e dallo stesso pubblicato in data 2 marzo 1983 n. 1449 d'ordine e n. 9750 di repertorio, registrato a Genova il 14 marzo 1983 al n. 5223.   
+172. Decreto del Presidente della Repubblica 2 marzo 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.na Anna Consonni in favore dell'Istituto mutilatini don Gnocchi di Pessano (Milano), dipendente dalla fondazione "Pro juventute don Carlo Gnocchi" come ha fatto presente la fondazione medesima, con testamento olografo 22 febbraio 1969, pubblicato a rogito dott.  
+Domenico Moretti, notaio in Milano, in data 8 ottobre 1971, n. 100725/20815 di repertorio, ed ivi registrato il 16 ottobre 1971 con il n. 17734, vol. G, consistente in un appartamento sito in Gorgonzola (Milano), via Argenzia n. 8, identificato all'ufficio tecnico erariale di Milano con scheda n. 0724779, mapp. 216 - 216-A, e foglio 9, mappali 12 e 74.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 11 ottobre 1985   
-Registro n. 9 Presidenza, foglio n. 77
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 24 aprile 1976  
+Atti di Governo, registro n. 5, foglio n. 38

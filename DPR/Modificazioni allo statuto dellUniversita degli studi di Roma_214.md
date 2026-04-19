@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1949 n. 989
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1980 n. 774
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1949 n. 989
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1980 n. 774
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -10,130 +10,114 @@ Modificazioni allo statuto dell'Universita' degli studi di Roma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regi decreti 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-26;1734), [26 ottobre 1940, n. 2069](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2069), [4 maggio 1942, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-05-04;565), [24 luglio 1942, n. 949](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-24;949), [24 agosto 1942, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-08-24;1098), [24 ottobre 1942, n. 1672, con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1672) [12 aprile 1947, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-12;461) e [31 dicembre 1947, n. 1758, e con decreto del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1758) [24 dicembre 1948, n. 1619](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-12-24;1619);
+Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Sulla
------
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-proposta del Ministro per la pubblica istruzione; Decreta:
+Riconosciuta la particolare necessita' di approvare le nuove proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Articolo unico
---------------
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Roma, approvato e modificato con i decreti su indicati, e' ulteriormente modificato come appresso:
+
+Art. 1
+------
 
   
+All'art. 50, relativo alla facolta' di scienze statistiche, demografiche ed attuariali, dopo la laurea in scienze statistiche ed attuariali e' aggiunta:  
+laurea in scienze statistiche ed economiche.  
+
+Art. 2
+------
+
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' cosi' ulteriormente modificato:  
-  
-Dopo l'art. 142 vengono inseriti i seguenti nuovi articoli col conseguente spostamento della numerazione degli articoli successivi.  
-Gli articoli dal 238 al 245 vengono abrogati.  
-  
-TITOLO XV.  
-Scuola speciale per bibliotecari e archisti paleografi.  
-  
-Art. 143. - La scuola speciale per bibliotecari e archivisti paleografi si propone di fornire la preparazione scientifica e tecnica, particolarmente paleografica, a coloro che intendano dedicarsi al governo delle biblioteche e degli archivi pubblici, e altresi' di perfezionare coloro che, appartenendo al personale di quegli istituti, gia' abbiano iniziato tale preparazione.  
-Art. 144. - Alla scuola possono iscriversi i laureati in lettere o in filosofia o in giurisprudenza o in scienze politiche (questi ultimi purche' provvisti del diploma di maturita' classica).  
-Agli iscritti si applicano per quanto concerne le tasse e sopratasse, le disposizioni stabilite per gli studenti della Facolta' di lettere e filosofia.  
-Art. 145. - Il corso della scuola ha la durata di due anni e si distingue in due indirizzi, i quali conducono ai diplomi:  
-a) di bibliotecario-paleografo;  
-b) di archivista-paleografo.  
-All'atto dell'iscrizione gli allievi debbono dichiarare l'indirizzo prescelto. Durante il corso e' consentito il passaggio da un indirizzo all'altro su conforme parere del Consiglio della scuola.  
-Art. 146. - Gli insegnamenti costitutivi della scuola sono i seguenti:  
-1) antichita' medioevali;  
-2) archivistica con esercitazioni;  
-3) bibliografia e biblioteconomia con esercitazioni;  
-4) diplomatica;  
-5) filologia romanza;  
-6) istituzioni giuridiche medioevali e moderne;  
-7) lingua e letteratura latina medioevale;  
-8) paleografia greca e papirologia;  
-9) paleografia latina;  
-10) papirologia giuridica;  
-11) storia della lingua italiana;  
-12) storia della tradizione manoscritta;  
-13) storia delle arti decorative del manoscritto e del libro;  
-14) storia dell'ordinamento amministrativo e giudiziario dei singoli Stati italiani;  
-15) storia del Risorgimento;  
-16) storia medioevale;  
-17) storia moderna.  
-Questi insegnamenti sono impartiti o come corsi ufficiali o come parte dei corsi ufficiali di altri insegnamenti piu' comprensivi delle Facolta' di lettere e filosofia e di giurisprudenza.  
-Il Consiglio della scuola deve controllare e approvare i piani di studio presentati dagli allievi, al quali puo' prescrivere, o semplicemente raccomandare, la frequenza di corsi di insegnamenti, anche diversi da quelli sopra enumerati, impartiti nella Facolta' di lettere e filosofia o in altra Facolta', che abbiano particolare interesse ai fini della scuola.  
-Art. 147. - Sono insegnamenti fondamentali:  
-a) per gli allievi che aspirino al diploma di bibliotecario-paleografo:  
-1) bibliografia e biblioteconomia con esercitazioni (biennale);  
-2) paleografia, latina (biennale);  
-3) paleografia greca e papirologia;  
-4) storia delle arti decorative del manoscritto e del libro;  
-5) lingua e letteratura, latina medioevale;  
-6) storia della tradizione manoscritta;  
-7) archivistica con esercitazioni;  
-b) per gli allievi che aspirino al diploma di archivista-paleografo;  
-1) archivistica con esercitazioni (biennale);  
-2) paleografia latina (biennale);  
-3) diplomatica (biennale);  
-4) istituzioni giuridiche medioevali e moderne (biennale);  
-5) storia dell'ordinamento amministrativo e giudiziario dei singoli Stati italiani;  
-6) antichita' medioevali;  
-7) bibliografia e biblioteconomia con esercitazioni.  
-Sono insegnamenti complementari comuni ai due indirizzi i rimanenti e quelli fra i fondamentali che non siano propri dell'indirizzo prescelto.  
-Per essere ammessi a sostenere l'esame di diploma gli allievi debbono aver seguito i corsi e superato gli esami negli insegnamenti fondamentali propri dell'indirizzo prescelto e almeno in uno od eventualmente due o tre o quattro dei complementari, con l'obbligo di includere fra questi, qualora non ne abbiano seguito i corsi e superato gli esami come studenti delle Facolta' da lettere e filosofia o di giurisprudenza:  
-a) se aspiranti al diploma di bibliotecario-paleografo: filologia romanza, storia medioevale e storia moderna;  
-b) se aspiranti al diploma di archivista paleografo: lingua, e letteratura latina medioevale, storia medioevale, storia moderna e storia del Risorgimento.  
-Gli allievi possono sostenere al termine del primo anno di iscrizione esami biennali negli insegnamenti costitutivi della scuola di cui abbiano seguito i corsi durante l'anno precedente come studenti della Facolta' di lettere e filosofia e di giurisprudenza.  
-L'esame di paleografia latina e' preceduto dalla trascrizione con illustrazione critica e, se il caso, transunto di un testo letterario o documentario, a seconda che trattasi di aspiranti al diploma di bibliotecariopaleografo o a quello di archivista-paleografo.  
-Le esercitazioni pratiche di bibliografia, di biblioteconomia e di archivistica (lavori di ordinamento, catalogazione, ecc.) si fanno presso biblioteche e archivi pubblici, da designarsi a cura del Consiglio della scuola previa intese con i capi di tali istituti.  
-Gli allievi debbono pure dimostrare con titoli o con esami:  
-a) se aspiranti al diploma di bibliotecario-paleografo, di conoscere la lingua francese e la lingua inglese o tedesca, di sapere adoperare materiali bibliografici inglesi, tedeschi e spagnoli e di avere nozioni pratiche di schedatura in altre lingue;  
-b) se aspiranti al diploma di archivista-paleografo, di conoscere la lingua francese e di avere elementi di altre due lingue estere, fra le quali l'inglese o la tedesca.  
-Art. 148. - L'esame di diploma consiste nella presentazione e discussione orale di una dissertazione scritta su di un tema:  
-di bibliografia o di biblioteconomia o di storia delle arti decorative del manoscritto e del libro per gli aspiranti al diploma di bibliotecario-paleografo;  
-di archivistica o di diplomatica o di storia dell'ordinamento amministrativo e giudiziario dei singoli Stati italiani per gli aspiranti al diploma di archivista-paleografo;  
-di paleografia latina o di paleografia greca o di papirologia o di storia della tradizione manoscritta per gli uni e per gli altri.  
-Art. 149. - Agli iscritti che durante gli studi universitari abbiano seguito un corso di paleografia latina e superato il relativo esame o che siano provvisti di diploma, rilasciato da una scuola di paleografia italiana o estera, puo' eccezionalmente essere concessa, a domanda, l'abbreviazione di un anno di corso, quando il Consiglio della scuola lo riconosca giustificato in rapporto ai titoli presentati dai richiedenti a documento della loro preparazione specifica.  
-A coloro che, essendo provvisti di uno dei due diplomi rilasciati dalla scuola o dalla scuola speciale per bibliotecari e archivisti paleografi dell'Universita' degli studi di Firenze, aspirino all'altro, e a coloro che appargano ai ruoli del personale di gruppo A delle biblioteche governative o degli archivi di Stato e rispettivamente aspirino al diploma di bibliotecario -paleografo o a quello di archivista-paleografo, l'abbreviazione e' concessa di diritto.  
-Agli effetti del terzo comma dell'art. 147 gli allievi ai quali sia concessa l'abbreviazione, debbono seguire i corsi e superare gli esami negli insegnamenti fondamentali propri dell'indirizzo prescelto, sostenendo come annuali gli esami biennali; e, su conforme parere del Consiglio della scuola, possono essere dispensati in tutto o in parte dal seguire i corsi e sostenere gli esami negli insegnamenti complementari, se in questi stessi insegnamenti abbiano seguito i corsi e superato gli esami durante gli studi universitari.  
-Hanno di diritto tale dispensa coloro ai quali sia concessa l'abbreviazione ai sensi del comma precedente.  
-Art. 150. - Agli allievi e ai diplomati possono essere conferiti, su proposta del Consiglio della scuola, sussidi per visitare biblioteche o archivi, italiani o esteri, e borse di perfezionamento.  
-Il numero e la misura delle borse e dei sussidi sono determinati annualmente dal Consiglio della scuola in relazione alle disponibilita' finanziarie.  
-Il concorso alle borse e' per titoli, secondo le norme che saranno fissate dal Consiglio della scuola.  
-Gli attuali articoli dal 214 al 221 vengono sostituiti dai seguenti col relativo spostamento della numerazione degli articoli successivi.  
-  
-Scuola di archeologia.  
-  
-Art. 214. - La scuola di archeologia si propone il compito di promuovere il perfezionamento nelle discipline archeologiche e di fornire la preparazione scientifica e l'addestramento pratico ai giovani che intendono dedicarsi allo studio della storia dell'arte e delle antichita' classiche e al governo del monumenti, musei e scavi di antichita'.  
-Art. 215. - Alla scuola possono iscriversi i laureati in lettere.  
-Il corso della scuola ha la durata di tre anni.  
-Art. 216. - Gli insegnamenti costitutivi della Scuola sono: 1) archeologia e storia dell'arte greca e romana; 2) Storia romana con esercitazioni di epigrafia romana; 3) Epigrafia greca; 4) Antichita' greche e romane; 5) Etruscologia, e archeologia italica; 6) Topografia romana; 7) Topografia dell'Italia antica; 8) Paleontologia; 9) Numismatica; 10) Archeologia dell'Africa romana.  
-Art. 217. - La scuola potra' inoltre promuovere lezioni speciali ed esercitazioni pratiche di: 1) Elementi di disegno, cartografia, architettura e rilievo di monumenti; 2) Elementi di mineralogia e geologia applicati all'archeologia 3) Tecnica degli scavi; 4) Tecnica del restauro; 5) Catalogo e ordinamento dei musei.  
-Art. 218. - Il corso di studio si distingue in quattro indirizzi:  
-1) Storia dell'arte antica; 2) Epigrafia e antichita'; 3) Topografia archeologica; 4) Preistoria e protostoria.  
-Ciascun indirizzo comprende sette insegnamenti. Il Consiglio della scuola indichera', all'inizio del corso di studi di ciascun allievo, in rapporto con l'indirizzo da lui prescelto e previo un esame del precedente curricolo, di studi, i sette insegnamenti costitutivi della scuola nei quali egli dovra' compiere il suo perfezionamento.  
-Gli prescrivera' inoltre le lezioni speciali e le esercitazioni pratiche che riterra' opportune.  
-Art. 219. - Al termine di ciascuno dei primi dei due anni gli allievi dovranno dimostrare la loro preparazione attraverso prove di maturita' nei sette insegnamenti indicati a ciascuno dal Consiglio della scuola. Di tali prove quattro saranno sostenute nel primo anno; tre nel secondo anno. Esse potranno avere carattere di colloquio sia sopra il corso, sia sopra un argomento speciale assegnato dal professore o proposto dall'allievo ed accettato dal professore. Due di sette prove, indicate a ciascun allievo dal Consiglio della scuola una nel primo e l'altra nel secondo anno, avranno la forma di saggio scritto.  
-Art. 220. - Il Consiglio della scuola si riserva di prendere gli opportuni accordi con le Soprintendenze e le Direzioni dei musei e degli scavi per agevolare il tirocinio degli allievi e di determinare i programmi dei saggi di scavo, dei sopraluoghi e dei viaggi d'istruzione da compiere di preferenza durante i periodi di vacanza dei primi due anni.  
-Art. 221. - Nel terzo anno gli allievi debbono a loro scelta recarsi in Grecia, a compiere il loro perfezionamento presso la Scuola archeologica italiana di Atene, oppure svolgere in Italia un programma di studio concordato con il Consiglio della scuola, consistente nella partecipazione ad uno scavo appositamente organizzato e, a seconda dei casi, in viaggi, ricognizioni archeologiche od epigrafiche, lavori di catalogazione nei musei, ricerche bibliografiche, ecc. Gli allievi sono tenuti a presentare una relazione scritta dell'attivita' da loro svolta.  
-Il viaggio in Grecia per il perfezionamento e' obbligatorio per gli allievi che siano forniti di una delle borse di studio concesse a norma del [regio decreto 24 maggio 1926, n. 1113](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-05-24;1113). In caso di assoluta impossibilita' il Consiglio della scuola si riserva di indicare il modo di sostituirlo.  
-Art. 222. - Compiuto il terzo anno, gli allievi debbono presentare una dissertazione scritta, di carattere critico, che dia prova della loro maturita' scientifica.  
-Se questa dissertazione e la relativa discussione orale hanno l'approvazione della Commissione giudicatrice, e' rilasciato all'allievo il diploma di perfezionamento.  
-Art. 223. - Il Consiglio della scuola si riserva, in via del tutto eccezionale, la facolta' di concedere l'ammissione al secondo anno della scuola a quegli aspiranti che per gli studi precedentemente compiuti ne siano meritevoli a parere unanime del Consiglio stesso.  
+Dopo l'art. 56, con il conseguente spostamento della numerazione degli articoli successivi, e' aggiunto il seguente nuovo articolo:  
+Art. 57. - La durata del corso degli studi per la laurea in scienze statistiche ed economiche e' di quattro anni.  
+Titoli di ammissione: quelli previsti dalle vigenti disposizioni.  
+I diplomati in statistica sono ammessi al terzo anno, ma il consiglio di facolta' provvedera' a prescrivere di volta in volta il piano di studi per adire la laurea.  
+Per le abbreviazioni di corso e il riconoscimento di esami in base ad altre lauree conseguite presso Universita' o Istituti superiori italiani e per i provenienti da altri corsi di laurea, decide il consiglio di facolta' caso per caso.  
+Sono insegnamenti fondamentali:  
+1) istituzioni di analisi matematica;  
+2) analisi matematica;  
+3) geometria analitica;  
+4) calcolo delle probabilita';  
+5) istituzioni di statistica;  
+6) statistica;  
+7) statistica metodologica;  
+8) demografia;  
+9)-10) economia politica (biennale);  
+11) politica economica e finanziaria;  
+12) istituzioni di statistica economica;  
+13) statistica economica;  
+14) economia d'azienda;  
+15) statistica aziendale e analisi di mercato;  
+16) controllo statistico della qualita' e statistica industriale;  
+17) istituzioni di diritto privato;  
+18) istituzioni di diritto pubblico;  
+19) teoria dei campioni.  
+Sono insegnamenti complementari:  
+1) analisi economica;  
+2) analisi economica II;  
+3) complementi di econometria;  
+4) contabilita' nazionale;  
+5) demografia investigativa;  
+6) econometria;  
+7) economia applicata;  
+8) economia industriale (I semestre);  
+9) economia industriale (II semestre);  
+10) economia internazionale;  
+11) economia del lavoro;  
+12) economia matematica;  
+13) economia monetaria;  
+14) economia della pianificazione economica;  
+15) economia pubblica;  
+16) geografia politica ed economica;  
+17) matematica finanziaria ed istituzioni di matematica attuariale;  
+18) metodi matematici di ottimizzazione;  
+19) metodologia della scienza;  
+20) politica economica e finanziaria II;  
+21) processi aleatori e teoria delle file di attesa;  
+22) metodologia statistica della ricerca sperimentale;  
+23) ragioneria generale (semestrale);  
+24) ricerca operativa;  
+25) scienza delle finanze;  
+26) statistica matematica;  
+27) storia economica;  
+28) storia delle dottrine economiche;  
+29) teoria dei giochi e delle decisioni;  
+30) teoria e politica dello sviluppo economico (I semestre);  
+31) teoria e politica dello sviluppo economico (II semestre);  
+32) teoria dei sistemi;  
+33) teoria delle informazioni;  
+34) elaborazione automatica dei dati.  
+Gli insegnamenti complementari possono essere scelti dallo studente anche fra le discipline impartite nel biennio per il diploma in statistica o fra quelle impartite in altre facolta' dell'ateneo, previa approvazione del preside della facolta'. Detta approvazione deve essere richiesta entro il 31 dicembre di ogni anno.  
+Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e in almeno tre complementari. Deve anche aver superato gli esami di due lingue straniere moderne, dei quali almeno uno di lingua francese o inglese o tedesca presso la facolta' di scienze politiche, e l'altro di lingua il cui insegnamento sia impartito presso qualsiasi facolta' dell'ateneo.  
+Per essere iscritto al secondo anno lo studente deve aver superato almeno due esami fondamentali del primo anno.  
+Per l'insegnamento biennale di economia politica e' prescritto l'esame alla fine di ciascun corso annuale, dovendosi il primo considerare propedeutico rispetto al secondo.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 ottobre 1949
+### Dato a Roma, addi' 10 settembre 1980
 
-EINAUDI GONELLA
+PERTINI SARTI
 
-Visto, il Guardasigilli: GRASSI
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 3 gennaio 1950
+Registrato alla Corte dei conti, addi' 13 novembre 1980
 
-Atti del Governo, registro n. 31, foglio n. 5. - FRASCA
+Registro n. 106 Istruzione, foglio n. 273

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 febbraio 1972 n. 20
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 marzo 1958 n. 154
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 febbraio 1972 n. 20
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 marzo 1958 n. 154
+============================================================
 
 Convocazione dei comizi per la elezione del Senato della Repubblica e della Camera dei deputati.
 ------------------------------------------------------------------------------------------------
@@ -10,26 +10,26 @@ Convocazione dei comizi per la elezione del Senato della Repubblica e della Came
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Visto il decreto in pari data relativo allo scioglimento del Senato della Repubblica e della Camera dei deputati;   
-Visti gli [articoli 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art61) e [87, terzo comma, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com3);   
-Visto il testo unico delle leggi per l'elezione della Camera dei deputati, approvato con [decreto presidenziale 30 marzo 1957, n. 361](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-03-30;361);   
-Vista la [legge 6 febbraio 1948, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-02-06;29), recante norme per l'elezione del Senato della Repubblica e successive modificazioni;   
-Sentito il Consiglio dei Ministri;   
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per l'interno;   
+Visto il decreto in pari data relativo allo scioglimento del Senato della Repubblica e della Camera dei deputati;  
+Visti gli [articoli 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art61) e [87, terzo comma, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com3);  
+Visto il testo unico delle leggi per l'elezione della Camera dei deputati, approvato con [decreto Presidenziale 30 marzo 1957, n. 361](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-03-30;361);  
+Vista la [legge 6 febbraio 1948, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-02-06;29), recante norme per l'elezione del Senato della Repubblica, modificata con la [legge 27 febbraio 1958, n. 64](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-27;64);  
+Sentito il Consiglio dei Ministri;  
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per l'interno;  
   
-Decreta:   
+Decreta:  
   
-I comizi per la elezione del Senato della Repubblica e della Camera dei deputati sono convocati per il giorno di domenica 7 maggio 1972.   
-La prima riunione delle Camere avra' luogo il giorno 25 maggio 1972.   
+I comizi per la elezione del Senato della Repubblica e della Camera dei deputati sono convocati per il giorno di domenica 25 maggio 1958.  
+La prima riunione delle Camere avra' luogo il giorno 12 giugno 1958.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 febbraio 1972
+### Dato a Roma, addi' 17 marzo 1958
 
-LEONE ANDREOTTI - RUMOR
+GRONCHI ZOLI - TAMBRONI
 
 Visto, il Guardasigilli: GONELLA

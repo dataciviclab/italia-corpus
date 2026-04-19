@@ -1,489 +1,114 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1955 n. 345
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1978 n. 1048
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1955 n. 345
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1978 n. 1048
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con i [regi decreti 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-10-05;1847); [26 ottobre 1940, n. 2058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2058); [16 marzo 1942, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-03-16;323); [24 ottobre 1942, n. 1597; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1597) [23 settembre 1949, n. 932](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;932); [31 ottobre 1950, n. 1308](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1308); [11 aprile 1951, n. 953](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;953); [25 luglio 1952, n. 1501](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1501); [26 ottobre 1952, n. 4529](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4529); [10 febbraio 1953, n. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;384); [30 luglio 1953, n. 715](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;715) e [24 settembre 1954, n. 1205](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-24;1205);
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 15. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:
-
-16) Sociologia;
-
-17) Storia delle dottrine politiche.
-
-Art. 39. - Dall'elenco delle materie complementari del corso di laurea in scienze politiche e' soppresso l'insegnamento di "legislazione del lavoro".
-
-Art. 40. - E' soppresso il riferimento all'insegnamento complementare di legislazione del lavoro.
-
-Art. 60. - Agli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti quelli di:
-
-6) Storia della pedagogia;
-
-7) Psicologia dell'eta' evolutiva.
-
-Art. 79. - Dall'elenco degli insegnamenti complementari del corso di laurea in chimica - indirizzo organico-biologico - e' soppresso l'insegnamento di chimica di guerra. Sono poi aggiunti i seguenti insegnamenti:
-
-(\*) Radiochimica;
-
-Chimica teorica;
-
-Spettroscopia;
-
-Strutturistica chimica;
-
-Misure elettriche (corso speciale per chimici e chimici industriali).
-
-Dall'elenco degli insegnamenti complementari per l'indirizzo inorganico-chimico-fisico e' soppresso l'insegnamento di chimica di guerra. Sono poi aggiunti i seguenti nuovi insegnamenti:
-
-(\*) Radiochimica;
-
-(\*) Chimica teorica;
-
-(\*) Strutturistica chimica.
-
-Il terz'ultimo capoverso e' sostituito dal seguente:
-
-"Si consiglia di scegliere, in via preferenziale, gli insegnamenti complementari tra quelli contrassegnati con asterisco, nell'elenco corrispondente all'indirizzo prescelto".
-
-L'ultimo capoverso e' cosi' modificato:
-
-"La scelta fatta in tal modo e' impegnativa e non puo' subire variazioni arbitrarie da parte dello studente",
-
-Art. -82. - Dall'elenco degli insegnamenti complementari del corso di laurea in chimica industriale e' soppresso l'insegnamento di "chimica applicata".
-
-Sono poi aggiunti i seguenti nuovi insegnamenti complementari:
-
-(\*) Chimica teorica;
-
-(\*) Radiochimica;
-
-(\*) Spettroscopia;
-
-(\*) Strutturistica chimica;
-
-(\*) Chimica applicata ai materiali da costruzione.
-
-Viene aggiunto l'asterisco agli insegnamenti complementari di chimica delle fermentazioni e batteriologia industriale, chimica organica industriale, elettrochimica e scienza dei metalli.
-
-Dopo il penultimo capoverso e' aggiunto quanto segue "Si consiglia di scegliere, in via preferenziale, gli insegnamenti complementari fra quelli segnati con asterisco".
-
-Alla fine dell'ultimo capoverso le parole: "La scelta fatta in tal modo e' impegnativa e non puo' subire comunque variazioni durante il corso degli studi", sono sostituite dalle seguenti: "La scelta fatta in tal modo e' impegnativa e non puo' subire variazioni arbitrarie da parte dello studente. Gli studenti che intendessero scegliere corsi complementari diversi dovranno chiedere la convalida alla Facolta'".
-
-Art. 85. - Agli insegnamenti complementari del corso di laurea in fisica sono aggiunti quelli di:
-
-14) Fisica atomica;
-
-15) Fisica nucleare;
-
-16) Elettrologia;
-
-17) Elettronica;
-
-18) Meccanica statistica;
-
-19) Astrofisica.
-
-Nel penultimo capoverso, le parole finali "deve inoltre aver sostenuto e superato una prova di cultura generale di matematica e fisica" sono sostituite con le seguenti: "deve avere inoltre sostenuto e superato una prova di cultura generale".
-
-L'art. 86 e' sostituito dal seguente: "Gli insegnamenti di analisi matematica algebrica, di analisi matematica infinitesimale, di geometria analitica con elementi di proiettiva, di meccanica razionale con elementi di statica grafica, di fisica teorica, di fisica superiore, di elettrotecnica, di mineralogia, comportano delle esercitazioni che ne fanno parte integrante".
-
-Art. 88. - Agli insegnamenti complementari del corso di laurea in scienze matematiche sono aggiunti i seguenti:
-
-13) Algebra superiore;
-
-14) Analisi funzionale;
-
-15) Calcolo tensoriale;
-
-16) Relativita';
-
-17) Meccanica non lineare;
-
-18) Meccanica celeste;
-
-19) Astronomia statistica.
-
-Nel capoverso successivo le parole "Gli insegnamenti biennali di analisi matematica e di geometria analitica importano ciascuno due esami distinti" sono sostituite dalle seguenti: "Gli insegnamenti biennali di analisi matematica, di geometria analitica e geometria descrittiva importano ciascuno due esami distinti".
-
-Nell'ultimo capoverso, le parole "deve inoltre aver sostenuto e superato una prova di cultura generale di matematica e fisica" sono sostituite dalle seguenti: "deve aver inoltre sostenuto e superato una prova di cultura generale".
-
-L'art. 92 e' soppresso e sostituito dal seguente:
-
-"Gli insegnamenti di analisi matematica algebrica, di analisi matematica infinitesimale, di geometria analitica con elementi di proiettiva e geometria descrittiva con disegno, di meccanica razionale con elementi di statica grafica e disegno, di fisica teorica, di fisica superiore, di matematiche complementari, di mineralogia, di elettrotecnica, comportano delle esercitazioni che ne fanno parte integrante".
-
-Art. 93 - Alla fine dell'articolo le parole "di elettrotecnica ed eventualmente di fisica matematica" sono sostituite dalle seguenti: "di elettrotecnica e di fisica matematica".
-
-Art. 94. - Dall'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' soppresso quello di "statistica".
-
-L'art. 95 e' sostituito dal seguente:
-
-"I corsi fondamentali di fisica, di chimica generale e inorganica, di mineralogia, di geologia, di anatomia comparata e quelli complementari di antropologia, di chimica biologica, di geografia fisica, di paleontologia, di petrografia, di genetica comportano ciascuno un corso annuale di esercizi di laboratorio, quelli di botanica e di zoologia un corso biennale di esercizi di laboratorio.
-
-Alcune esercitazioni a carattere naturalistico si potranno svolgere anche come escursioni di campagna".
-
-L'art. 96 e' sostituito dal seguente: "Dopo il primo biennio lo studente dovra' frequentare per due anni, come interno, uno degli Istituti di botanica, zoologia, mineralogia, geologia, geografia fisica, antropologia, nel quale attendera' alla elaborazione della tesi di laurea. Durante tale biennio lo studente e' tenuto a seguire l'attivita' didattica che si svolge nell'istituto.
-
-Non potra' essere ammesso all'internato di laurea lo studente che non abbia ancora superati gli esami di istituzioni di matematiche, chimica generale e inorganica e fisica. Di regola non potra' essere ammesso all'elaborazione della dissertazione di laurea in una determinata materia lo studente che non abbia ancora superato l'esame del relativo corso.
-
-Gli studenti che desiderano frequentare l'internato di un Istituto per elaborare la dissertazione in una materia del secondo biennio possono essere eventualmente autorizzati ad anticipare la iscrizione e a sostenere il relativo esame durante il primo biennio".
-
-Art. 97. - Agli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti quelli di:
-
-12) Entomologia;
-
-13) Patologia vegetale;
-
-14) Citologia;
-
-15) Embriologia sperimentale;
-
-16) Fitogeografia ed ecologia vegetale.
-
-L'insegnamento complementare di statistica e' sostituito con quello di:
-
-"Statistica e biometria".
-
-L'art. 98 e' cosi' modificato:
-
-"I corsi di fisica, di chimica generale e inorganica, di anatomia comparata, di antropologia, di geologia, di chimica biologica, di paleontologia e di genetica comportano ciascuno un corso annuale di esercizio di laboratorio, quelli di botanica e di zoologia un corso biennale di esercizi di laboratorio.
-
-Alcune esercitazioni a carattere naturalistico si potranno svolgere anche come escursioni in campagna".
-
-L'art. 99 e' abrogato e sostituito dal seguente:
-
-"Dopo il primo biennio lo studente dovra' frequentare per due anni come interno, uno degli Istituti di botanica, di zoologia, o di antropologia, oppure con l'approvazione della Facolta', anche di anatomia umana, istologia, fisiologia, chimica biologica, patologia generale, igiene, entomologia agraria; in tale Istituto attendera' all'elaborazione della tesi di laurea. Durante tale biennio lo studente e' tenuto a seguire l'attivita' didattica che si svolge nell'Istituto stesso.
-
-Non potra' essere ammesso all'internato lo studente che non abbia ancora superati gli esami di istituzioni di matematiche, di chimica generale ed inorganica e di fisica.
-
-Di regola non potra' essere ammesso alla elaborazione della dissertazione di laurea in una determinata disciplina lo studente che non abbia ancora superato l'esame del relativo corso.
-
-Gli studenti che desiderano frequentare l'internato in un Istituto per elaborare la dissertazione in una materia del secondo biennio, possono essere eventualmente autorizzati ad anticipare la iscrizione e a sostenere il relativo esame durante il primo biennio".
-
-Art. 100. - Dall'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche e' soppresso quello di astronomia.
-
-Agli insegnamenti complementari sono aggiunti i seguenti:
-
-Giacimenti minerari;
-
-Micropaleontologia;
-
-Geotecnica.
-
-L'art. 101 e' abrogato e sostituito dal seguente:
-
-"Il corso biennale di fisica sperimentale comporta un esame alla fine di ogni anno.
-
-I corsi di chimica generale ed inorganica di mineralogia, di geologia, di geologia applicata, di geografia fisica, di petrografia, di paleontologia, di fisica terrestre, e quelli complementari di antropologia, di botanica e di zoologia comportano un corso annuale di esercitazioni pratiche alcune delle quali potranno essere svolte come escursioni in campagna".
-
-L'art. 102 e' abrogato e sostituito dal seguente:
-
-"Dopo il primo biennio lo studente dovra' frequentare per due anni come interno uno degli Istituti di mineralogia, geologia, geografia fisica, e fisica terrestre, nel quale attendera' alla elaborazione della tesi di laurea.
-
-Durante tale biennio lo studente e' tenuto a seguire l'attivita' didattica che si svolge nell'Istituto. Quando risulti opportuno al fine della assegnazione dello sviluppo di una tesi di laurea ad indirizzo misto, e' consentito che l'internato biennale si compia in due Istituti affini (un anno in geologia ed uno in geografia fisica e fisica terrestre; un anno in mineralogia ed uno in geologia; un anno in mineralogia ed uno in fisica terrestre).
-
-Non potra' essere ammesso all'internato lo studente che non abbia superato gli esami di Istituzioni di matematiche, di chimica generale ed inorganica, di fisica sperimentale, e di mineralogia. Di regola non potra' essere ammesso all'elaborazione della tesi di laurea in una determinata materia lo studente che non abbia superato l'esame del rispettivo corso".
-
-Art. 107. - La dizione "Stazione di biologia marina di Chioggia" e' cambiata in quella di: "Stazione idrobiologica di Chioggia".
-
-All'art. 125 relativo al triennio di studi di applicazione d'ingegneria, l'insegnamento complementare di tecnologie speciali e' soppresso.
-
-Agli insegnamenti complementari comuni a tutte le sezioni sono aggiunti quelli di:
-
-Tecnologie speciali elettriche;
-
-Tecnologie speciali meccaniche;
-
-Motori e macchine agricole;
-
-Geotecnica;
-
-Impianti interni;
-
-Tecnica del freddo;
-
-Idrografia;
-
-Elettrotecnica applicata;
-
-Servomeccanismi e misuratori meccanici;
-
-Organizzazione industriale.
-
-Il primo comma dopo l'elenco degli insegnamenti complementari e' soppresso.
-
-Art. 132. - All'elenco degli Istituti della Facolta' di ingegneria e' aggiunto quello di:
-
-"Istituto di costruzioni marittime".
-
-La dizione di: "Istituto di idraulica" e' sostituita con quella di: "Istituto di idraulica e costruzioni idrauliche".
-
-Art. 137. - Agli insegnamenti complementari del corso di laurea in scienze agrarie e' aggiunto quello di:
-
-"Tecnica delle colture irrigue".
-
-Art. 138. - L'ottavo capoverso e' modificato come segue:
-
-"L'esame di matematica deve precedere gli esami di topografia e costruzioni rurali con applicazioni di disegno, di idraulica agraria con applicazioni di disegno e di meccanica agraria con applicazione di disegno".
-
-Il decimo capoverso e' cosi' modificato:
-
-"Gli esami di chimica agraria e di microbiologia agraria e tecnica devono precedere gli esami di industrie agrarie e di agronomia generale e coltivazioni erbacee".
-
-Dopo l'art. 173 vengono aggiunti i seguenti nuovi articoli relativi alla istituzione di scuole e corsi di perfezionamento e di specializzazione annessi alla Facolta' di scienze matematiche, fisiche e naturali, con il conseguente spostamento della numerazione degli articoli successivi.
-
-Facolta' di scienze matematiche, fisiche e naturali
-
-"Corso di perfezionamento in matematica"
-
-Art. 174. - Alla Facolta' di scienze matematiche, fisiche e naturali e' annesso un "corso di perfezionamento in matematica" a carattere didattico-professionale, particolarmente dedicato a coloro che intendono dedicarsi all'insegnamento presso le scuole medie.
-
-Art. 175. - La durata del corso e' di un anno accademico. Le materie di insegnamento sono: didattica matematica, complementi di matematica, esercitazioni di matematica.
-
-Art. 176. - Possono iscriversi al corso i laureati in scienze matematiche, in fisica, in matematica e fisica.
-
-Agli iscritti al corso che avranno superati gli esami nelle discipline di cui all'articolo precedente verra' rilasciato dal rettore un certificato di frequenza ed esami.
-
-Art. 177. - Il corso di perfezionamento in matematica viene tenuto presso il seminario matematico dell'Universita'.
-
-Art. 178. - A tutti gli iscritti e' fatto obbligo di versare le tasse fissate dal Consiglio di amministrazione, sentito il Senato accademico, su proposta del Consiglio di Facolta' di scienze matematiche, fisiche e naturali.
-
-Art. 179. - Il corso e' diretto da un direttore nominato dal Consiglio del seminario matematico. Il direttore dura in carica un anno e puo' essere confermato.
-
-Gli insegnamenti sono affidati a professori ed assistenti scelti dal Consiglio direttivo del seminario matematico, Scuola di specializzazione in studi talassografici
-
-Art. 180. - Alla Facolta' di scienze matematiche, fisiche e naturali e' annessa la scuola di specializzazione in studi talassografici, che si propone di promuovere gli studi fisici e biologici del mare, e di preparare il personale specializzato per le ricerche talassografiche, anche nelle loro applicazioni.
-
-Art. 181. - La scuola e' retta da un direttore, nominato dal rettore dell'Universita', su designazione del Consiglio della Facolta' di scienze. Il direttore e' coadiuvato da un Consiglio della scuola, costituito dai professori di ruolo che vi tengono insegnamenti.
-
-Art. 182. - Alla scuola possono iscriversi i laureati in scienze naturali, in scienze biologiche e in scienze geologiche, in chimica, in fisica ed in geografia.
-
-Art. 183. - La durata degli studi e' di due anni.
-
-Art. 184. - I corsi della scuola comprendono le seguenti materie obbligatorie: geografia marina, oceanografia fisica, chimica delle acque, oceanografia biologica, zoologia marina, botanica marina, geologia marina, petrografia dei sedimenti marini, batteriologia marina, talassobiologia applicata.
-
-I predetti corsi saranno integrati con esercitazioni pratiche in laboratorio e in mare, con dimostrazioni e cicli di conferenze.
-
-Ciascun anno il Consiglio della scuola predispone il programma dei corsi.
-
-Art. 185. - Gli iscritti alla scuola saranno tenuti alla frequenza di tutte le manifestazioni didattiche e alla frequenza in qualita' di interni per un biennio di uno dei seguenti Istituti della Facolta' di scienze: zoologia, anatomia comparata, botanica, geologia, mineralogia, chimica generale, geofisica, Stazione idrobiologica di Chioggia.
-
-Alla fine di ciascun corso gli iscritti alla scuola dovranno sostenere gli esami delle materie obbligatorie.
-
-Alla fine del biennio sosterranno un esame di diploma consistente nella discussione di una tesi sperimentale su argomento talassografico.
-
-Art. 186. - Il Consiglio di amministrazione stabilira' su proposta del Consiglio della Facolta' l'ammontare delle tasse che gli iscritti sono tenuti a pagare.
-
-Art. 187. - La scuola rilascia il diploma di specialista in studi talassografici.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 14 marzo 1955
-
-EINAUDI
-
-ERMINI
-
-Visto, il Guardasigilli: DE PIETRO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 5 maggio 1955 Atti del Governo, registro n. 90, foglio n. 121. - CARLOMAGNO
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con i [regi decreti 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-10-05;1847); [26 ottobre 1940, n. 2058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2058); [16 marzo 1942, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-03-16;323); [24 ottobre 1942, n. 1597; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1597) [23 settembre 1949, n. 932](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;932); [31 ottobre 1950, n. 1308](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1308); [11 aprile 1951, n. 953](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;953); [25 luglio 1952, n. 1501](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1501); [26 ottobre 1952, n. 4529](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4529); [10 febbraio 1953, n. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;384); [30 luglio 1953, n. 715](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;715) e [24 settembre 1954, n. 1205](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-24;1205);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1842](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1842), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 421 - l'elenco delle scuole di specializzazione e dirette a fini speciali e' modificato nel senso che la scuola di preparazione per tecnici di fisio-chinesiterapia (scuola diretta a fini speciali) muta la denominazione in quella di scuola per tecnici di fisio-chinesiterapia e della riabilitazione (scuola diretta a fini speciali).   
+Art. 422 - l'ordinamento della scuola di preparazione per tecnici di fisio-chinesiterapia, che muta la denominazione in quella di scuola per tecnici di fisio-chinesiterapia e della riabilitazione, e' abrogato e sostituito dal seguente:   
   
-Art. 15. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:  
-16) Sociologia;  
-17) Storia delle dottrine politiche.  
-Art. 39. - Dall'elenco delle materie complementari del corso di laurea in scienze politiche e' soppresso l'insegnamento di "legislazione del lavoro".  
-Art. 40. - E' soppresso il riferimento all'insegnamento complementare di legislazione del lavoro.  
-Art. 60. - Agli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti quelli di:  
-6) Storia della pedagogia;  
-7) Psicologia dell'eta' evolutiva.  
-Art. 79. - Dall'elenco degli insegnamenti complementari del corso di laurea in chimica - indirizzo organico-biologico - e' soppresso l'insegnamento di chimica di guerra. Sono poi aggiunti i seguenti insegnamenti:  
-(\*) Radiochimica;  
-Chimica teorica;  
-Spettroscopia;  
-Strutturistica chimica;  
-Misure elettriche (corso speciale per chimici e chimici industriali).  
-Dall'elenco degli insegnamenti complementari per l'indirizzo inorganico-chimico-fisico e' soppresso l'insegnamento di chimica di guerra. Sono poi aggiunti i seguenti nuovi insegnamenti:  
-(\*) Radiochimica;  
-(\*) Chimica teorica;  
-(\*) Strutturistica chimica.  
-Il terz'ultimo capoverso e' sostituito dal seguente:  
-"Si consiglia di scegliere, in via preferenziale, gli insegnamenti complementari tra quelli contrassegnati con asterisco, nell'elenco corrispondente all'indirizzo prescelto".  
-L'ultimo capoverso e' cosi' modificato:  
-"La scelta fatta in tal modo e' impegnativa e non puo' subire variazioni arbitrarie da parte dello studente",  
-Art. -82. - Dall'elenco degli insegnamenti complementari del corso di laurea in chimica industriale e' soppresso l'insegnamento di "chimica applicata".  
-Sono poi aggiunti i seguenti nuovi insegnamenti complementari:  
-(\*) Chimica teorica;  
-(\*) Radiochimica;  
-(\*) Spettroscopia;  
-(\*) Strutturistica chimica;  
-(\*) Chimica applicata ai materiali da costruzione.  
-Viene aggiunto l'asterisco agli insegnamenti complementari di chimica delle fermentazioni e batteriologia industriale, chimica organica industriale, elettrochimica e scienza dei metalli.  
-Dopo il penultimo capoverso e' aggiunto quanto segue "Si consiglia di scegliere, in via preferenziale, gli insegnamenti complementari fra quelli segnati con asterisco".  
-Alla fine dell'ultimo capoverso le parole: "La scelta fatta in tal modo e' impegnativa e non puo' subire comunque variazioni durante il corso degli studi", sono sostituite dalle seguenti: "La scelta fatta in tal modo e' impegnativa e non puo' subire variazioni arbitrarie da parte dello studente. Gli studenti che intendessero scegliere corsi complementari diversi dovranno chiedere la convalida alla Facolta'".  
-Art. 85. - Agli insegnamenti complementari del corso di laurea in fisica sono aggiunti quelli di:  
-14) Fisica atomica;  
-15) Fisica nucleare;  
-16) Elettrologia;  
-17) Elettronica;  
-18) Meccanica statistica;  
-19) Astrofisica.  
-Nel penultimo capoverso, le parole finali "deve inoltre aver sostenuto e superato una prova di cultura generale di matematica e fisica" sono sostituite con le seguenti: "deve avere inoltre sostenuto e superato una prova di cultura generale".  
-L'art. 86 e' sostituito dal seguente: "Gli insegnamenti di analisi matematica algebrica, di analisi matematica infinitesimale, di geometria analitica con elementi di proiettiva, di meccanica razionale con elementi di statica grafica, di fisica teorica, di fisica superiore, di elettrotecnica, di mineralogia, comportano delle esercitazioni che ne fanno parte integrante".  
-Art. 88. - Agli insegnamenti complementari del corso di laurea in scienze matematiche sono aggiunti i seguenti:  
-13) Algebra superiore;  
-14) Analisi funzionale;  
-15) Calcolo tensoriale;  
-16) Relativita';  
-17) Meccanica non lineare;  
-18) Meccanica celeste;  
-19) Astronomia statistica.  
-Nel capoverso successivo le parole "Gli insegnamenti biennali di analisi matematica e di geometria analitica importano ciascuno due esami distinti" sono sostituite dalle seguenti: "Gli insegnamenti biennali di analisi matematica, di geometria analitica e geometria descrittiva importano ciascuno due esami distinti".  
-Nell'ultimo capoverso, le parole "deve inoltre aver sostenuto e superato una prova di cultura generale di matematica e fisica" sono sostituite dalle seguenti: "deve aver inoltre sostenuto e superato una prova di cultura generale".  
-L'art. 92 e' soppresso e sostituito dal seguente:  
-"Gli insegnamenti di analisi matematica algebrica, di analisi matematica infinitesimale, di geometria analitica con elementi di proiettiva e geometria descrittiva con disegno, di meccanica razionale con elementi di statica grafica e disegno, di fisica teorica, di fisica superiore, di matematiche complementari, di mineralogia, di elettrotecnica, comportano delle esercitazioni che ne fanno parte integrante".  
-Art. 93 - Alla fine dell'articolo le parole "di elettrotecnica ed eventualmente di fisica matematica" sono sostituite dalle seguenti: "di elettrotecnica e di fisica matematica".  
-Art. 94. - Dall'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' soppresso quello di "statistica".  
-L'art. 95 e' sostituito dal seguente:  
-"I corsi fondamentali di fisica, di chimica generale e inorganica, di mineralogia, di geologia, di anatomia comparata e quelli complementari di antropologia, di chimica biologica, di geografia fisica, di paleontologia, di petrografia, di genetica comportano ciascuno un corso annuale di esercizi di laboratorio, quelli di botanica e di zoologia un corso biennale di esercizi di laboratorio.  
-Alcune esercitazioni a carattere naturalistico si potranno svolgere anche come escursioni di campagna".  
-L'art. 96 e' sostituito dal seguente: "Dopo il primo biennio lo studente dovra' frequentare per due anni, come interno, uno degli Istituti di botanica, zoologia, mineralogia, geologia, geografia fisica, antropologia, nel quale attendera' alla elaborazione della tesi di laurea. Durante tale biennio lo studente e' tenuto a seguire l'attivita' didattica che si svolge nell'istituto.  
-Non potra' essere ammesso all'internato di laurea lo studente che non abbia ancora superati gli esami di istituzioni di matematiche, chimica generale e inorganica e fisica. Di regola non potra' essere ammesso all'elaborazione della dissertazione di laurea in una determinata materia lo studente che non abbia ancora superato l'esame del relativo corso.  
-Gli studenti che desiderano frequentare l'internato di un Istituto per elaborare la dissertazione in una materia del secondo biennio possono essere eventualmente autorizzati ad anticipare la iscrizione e a sostenere il relativo esame durante il primo biennio".  
-Art. 97. - Agli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti quelli di:  
-12) Entomologia;  
-13) Patologia vegetale;  
-14) Citologia;  
-15) Embriologia sperimentale;  
-16) Fitogeografia ed ecologia vegetale.  
-L'insegnamento complementare di statistica e' sostituito con quello di:  
-"Statistica e biometria".  
-L'art. 98 e' cosi' modificato:  
-"I corsi di fisica, di chimica generale e inorganica, di anatomia comparata, di antropologia, di geologia, di chimica biologica, di paleontologia e di genetica comportano ciascuno un corso annuale di esercizio di laboratorio, quelli di botanica e di zoologia un corso biennale di esercizi di laboratorio.  
-Alcune esercitazioni a carattere naturalistico si potranno svolgere anche come escursioni in campagna".  
-L'art. 99 e' abrogato e sostituito dal seguente:  
-"Dopo il primo biennio lo studente dovra' frequentare per due anni come interno, uno degli Istituti di botanica, di zoologia, o di antropologia, oppure con l'approvazione della Facolta', anche di anatomia umana, istologia, fisiologia, chimica biologica, patologia generale, igiene, entomologia agraria; in tale Istituto attendera' all'elaborazione della tesi di laurea. Durante tale biennio lo studente e' tenuto a seguire l'attivita' didattica che si svolge nell'Istituto stesso.  
-Non potra' essere ammesso all'internato lo studente che non abbia ancora superati gli esami di istituzioni di matematiche, di chimica generale ed inorganica e di fisica.  
-Di regola non potra' essere ammesso alla elaborazione della dissertazione di laurea in una determinata disciplina lo studente che non abbia ancora superato l'esame del relativo corso.  
-Gli studenti che desiderano frequentare l'internato in un Istituto per elaborare la dissertazione in una materia del secondo biennio, possono essere eventualmente autorizzati ad anticipare la iscrizione e a sostenere il relativo esame durante il primo biennio".  
-Art. 100. - Dall'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche e' soppresso quello di astronomia.  
-Agli insegnamenti complementari sono aggiunti i seguenti:  
-Giacimenti minerari;  
-Micropaleontologia;  
-Geotecnica.  
-L'art. 101 e' abrogato e sostituito dal seguente:  
-"Il corso biennale di fisica sperimentale comporta un esame alla fine di ogni anno.  
-I corsi di chimica generale ed inorganica di mineralogia, di geologia, di geologia applicata, di geografia fisica, di petrografia, di paleontologia, di fisica terrestre, e quelli complementari di antropologia, di botanica e di zoologia comportano un corso annuale di esercitazioni pratiche alcune delle quali potranno essere svolte come escursioni in campagna".  
-L'art. 102 e' abrogato e sostituito dal seguente:  
-"Dopo il primo biennio lo studente dovra' frequentare per due anni come interno uno degli Istituti di mineralogia, geologia, geografia fisica, e fisica terrestre, nel quale attendera' alla elaborazione della tesi di laurea.  
-Durante tale biennio lo studente e' tenuto a seguire l'attivita' didattica che si svolge nell'Istituto. Quando risulti opportuno al fine della assegnazione dello sviluppo di una tesi di laurea ad indirizzo misto, e' consentito che l'internato biennale si compia in due Istituti affini (un anno in geologia ed uno in geografia fisica e fisica terrestre; un anno in mineralogia ed uno in geologia; un anno in mineralogia ed uno in fisica terrestre).  
-Non potra' essere ammesso all'internato lo studente che non abbia superato gli esami di Istituzioni di matematiche, di chimica generale ed inorganica, di fisica sperimentale, e di mineralogia. Di regola non potra' essere ammesso all'elaborazione della tesi di laurea in una determinata materia lo studente che non abbia superato l'esame del rispettivo corso".  
-Art. 107. - La dizione "Stazione di biologia marina di Chioggia" e' cambiata in quella di: "Stazione idrobiologica di Chioggia".  
-All'art. 125 relativo al triennio di studi di applicazione d'ingegneria, l'insegnamento complementare di tecnologie speciali e' soppresso.  
-Agli insegnamenti complementari comuni a tutte le sezioni sono aggiunti quelli di:  
-Tecnologie speciali elettriche;  
-Tecnologie speciali meccaniche;  
-Motori e macchine agricole;  
-Geotecnica;  
-Impianti interni;  
-Tecnica del freddo;  
-Idrografia;  
-Elettrotecnica applicata;  
-Servomeccanismi e misuratori meccanici;  
-Organizzazione industriale.  
-Il primo comma dopo l'elenco degli insegnamenti complementari e' soppresso.  
-Art. 132. - All'elenco degli Istituti della Facolta' di ingegneria e' aggiunto quello di:  
-"Istituto di costruzioni marittime".  
-La dizione di: "Istituto di idraulica" e' sostituita con quella di: "Istituto di idraulica e costruzioni idrauliche".  
-Art. 137. - Agli insegnamenti complementari del corso di laurea in scienze agrarie e' aggiunto quello di:  
-"Tecnica delle colture irrigue".  
-Art. 138. - L'ottavo capoverso e' modificato come segue:  
-"L'esame di matematica deve precedere gli esami di topografia e costruzioni rurali con applicazioni di disegno, di idraulica agraria con applicazioni di disegno e di meccanica agraria con applicazione di disegno".  
-Il decimo capoverso e' cosi' modificato:  
-"Gli esami di chimica agraria e di microbiologia agraria e tecnica devono precedere gli esami di industrie agrarie e di agronomia generale e coltivazioni erbacee".  
-Dopo l'art. 173 vengono aggiunti i seguenti nuovi articoli relativi alla istituzione di scuole e corsi di perfezionamento e di specializzazione annessi alla Facolta' di scienze matematiche, fisiche e naturali, con il conseguente spostamento della numerazione degli articoli successivi.  
+Scuola per tecnici di fisio-chinesiterapia e della riabilitazione (Scuola diretta a fini speciali)   
   
-Facolta' di scienze matematiche, fisiche e naturali  
-"Corso di perfezionamento in matematica"  
+E' istituita presso l'istituto di clinica ortopedica dell'Universita' di Padova una scuola per tecnici di fisio-chinesiterapia e della riabilitazione che ha lo scopo di preparare adeguatamente personale tecnico nel campo della fisio-chinesiterapia e della riabilitazione.   
+La scuola ha indirizzo teorico-pratico.   
+La durata del corso e' di tre anni accademici.   
+Alla scuola possono essere ammessi allievi di ambo i sessi forniti del titolo di istruzione di secondo grado che abbiano compiuto il diciasettesimo anno di eta'.   
+Gli aspiranti dovranno inoltre presentare un certificato medico rilasciato dalle autorita' sanitarie competenti, attestante la loro idoneita' fisica e psichica.   
+Per l'ammissione alla scuola, i candidati dovranno superare un esame scritto su argomenti di cultura generale e di scienze naturali e fisiche che rientrino nei programmi degli istituti di istruzione secondaria.   
+L'esame di ammissione avra' luogo entro il 30 novembre di ciascun anno in un giorno stabilito dalla facolta' di medicina e chirurgia su proposta del direttore della scuola.   
+La commissione giudicatrice dell'esame di ammissione sara' composta dal direttore della scuola e da 4 insegnanti della scuola stessa nominata dalla facolta' di medicina e chirurgia.   
+Il numero massimo dei partecipanti ammessi ad ogni anno e' fissato in 15.   
+Il direttore della scuola e' il direttore dell'istituto di clinica ortopedica dell'Universita' di Padova.   
+La scuola e' sotto la vigilanza della facolta' di medicina e chirurgia dell'Universita' di Padova.   
+Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' di medicina e chirurgia e nominati dal rettore. Essi possono essere scelti fra i professori ufficiali, tra i liberi docenti, tra gli aiuti ed assistenti della facolta' di medicina e chirurgia o di un'altra facolta' dell'Ateneo e tra persone di riconosciuta competenza nel campo della terapia fisica e della riabilitazione anche al di fuori dell'ambito universitario.   
+Gli iscritti alla scuola hanno l'obbligo della frequenza secondo il calendario dell'anno accademico e con un impegno di ore settimanali che saranno fissate dal direttore della scuola e dal corpo insegnante. Non saranno ammessi all'anno successivo ed all'esame di diploma gli allievi che abbiano ripetute assenze ingiustificate, o anche assenze giustificate (ad esempio per malattia) per piu' della meta' delle lezioni, sia teoriche che di tirocinio pratico.   
+Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+anatomia generale;   
+anatomia dell'apparato locomotore;   
+anatomia del sistema nervoso;   
+fisiologia dell'apparato locomotore (chinesiologia);   
+fisiologia del sistema nervoso;   
+patologia generale;   
+fisioterapia in generale: fangoterapia, idroterapia, elioclimatoterapia, termoterapia, crioterapia, psammoterapia;   
+psicologia;   
+elementi di fisica.   
+2° Anno:   
+semeiotica, patologia e clinica delle malattie e lesioni traumatiche dell'apparato locomotore (biennale);   
+semeiotica, patologia e clinica delle malattie del sistema nervoso;   
+patologia medica;   
+patologia chirurgica;   
+fisio-chinesiterapia dell'apparato respiratorio;   
+fisio-chinesiterapia dell'apparato cardiocircolatorio;   
+kinesiterapia;   
+massoterapia;   
+fisioterapia strumentale ed elettroterapia;   
+terapia occupazionale;   
+logoterapia;   
+neuropsichiatria;   
+ginnastica medica nei dismorfismi e paramorfismi.   
+3° Anno:   
+semeiotica, patologia e clinica delle malattie e lesioni traumatiche dell'apparato locomotore (biennale);   
+clinica della riabilitazione e tecniche riabilitative;   
+problemi di riabilitazione in geriatria;   
+elementi di igiene e medicina preventiva;   
+nozioni di patologia della cute e del sottocute;   
+elementi di pronto soccorso;   
+elementi di legislazione sanitaria, servizio sociale e deontologia.   
+Le lezioni verranno impartite agli allievi nelle aule messe a disposizione dalla clinica ortopedica. I programmi di insegnamento e gli orari vengono predisposti dal direttore della scuola ed approvati dal consiglio della facolta' di medicina e chirurgia.   
+La sorveglianza degli iscritti, per quanto riguarda la loro attivita' pratica, spetta al direttore della scuola.   
+Il tirocinio sara' compiuto dagli allievi sotto la guida dei medici e dei terapisti della riabilitazione didattici, presso il servizio di terapia tisica e riabilitazione della clinica ortopedica dell'Universita' di Padova, nonche', qualora si rendesse necessario, presso altri istituti ed associazioni specialistiche.   
+Durante l'anno accademico saranno tenute interrogazioni, prove pratiche ed eventuali prove scritte.   
+Al termine di ciascun anno accademico i candidati dovranno sostenere, nella sessione estiva, un esame per ciascuna delle materie oggetto di insegnamento durante l'anno.   
+Gli allievi che risultino insufficienti in piu' di tre materie dovranno ripetere il corso nell'anno successivo. Gli altri saranno ammessi all'esame di riparazione nella sessione autunnale.   
+Le commissioni di esame per ciascuna materia sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Sono composte da tre membri, tra cui il professore ufficiale della materia. Ogni commissario ha a disposizione 10 punti. Per la promozione e' necessario conseguire una votazione di almeno 18 punti.   
+Viene ammesso all'esame di diploma l'allievo che ha regolarmente frequentato il terzo anno ed abbia superato tutti gli esami.   
+L'esame di diploma consiste:   
+a) nella discussione di una tesi scritta che verra' assegnata all'inizio del terzo anno;   
+b) in una prova scritta su un caso clinico;   
+c) in una prova pratica su malato.   
+La commissione dell'esame di diploma e' composta da cinque membri, scelti fra i docenti della scuola, ed e' nominata dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Ogni commissario ha a disposizione 10 punti.   
+I candidati che non abbiano superato l'esame di diploma nella sessione estiva potranno ripetere la prova nella sessione autunnale.  
+Qualora fossero respinti anche in questa sessione, dovranno ripetere un altro anno di frequenza.   
+Agli allievi che avranno superato l'esame di diploma verra' rilasciato il diploma di terapista della riabilitazione.   
+Il consiglio di amministrazione dell'Universita', su proposta della direzione della scuola, approvata dal consiglio di facolta', stabilira' di anno in anno l'ammontare dei contributi.   
+Le tasse e soprattasse annuali a carico degli iscritti restano cosi' determinate:   
   
-Art. 174. - Alla Facolta' di scienze matematiche, fisiche e naturali e' annesso un "corso di perfezionamento in matematica" a carattere didattico-professionale, particolarmente dedicato a coloro che intendono dedicarsi all'insegnamento presso le scuole medie.  
-Art. 175. - La durata del corso e' di un anno accademico. Le materie di insegnamento sono: didattica matematica, complementi di matematica, esercitazioni di matematica.  
-Art. 176. - Possono iscriversi al corso i laureati in scienze matematiche, in fisica, in matematica e fisica.  
-Agli iscritti al corso che avranno superati gli esami nelle discipline di cui all'articolo precedente verra' rilasciato dal rettore un certificato di frequenza ed esami.  
-Art. 177. - Il corso di perfezionamento in matematica viene tenuto presso il seminario matematico dell'Universita'.  
-Art. 178. - A tutti gli iscritti e' fatto obbligo di versare le tasse fissate dal Consiglio di amministrazione, sentito il Senato accademico, su proposta del Consiglio di Facolta' di scienze matematiche, fisiche e naturali.  
-Art. 179. - Il corso e' diretto da un direttore nominato dal Consiglio del seminario matematico. Il direttore dura in carica un anno e puo' essere confermato.  
-Gli insegnamenti sono affidati a professori ed assistenti scelti dal Consiglio direttivo del seminario matematico, Scuola di specializzazione in studi talassografici  
-Art. 180. - Alla Facolta' di scienze matematiche, fisiche e naturali e' annessa la scuola di specializzazione in studi talassografici, che si propone di promuovere gli studi fisici e biologici del mare, e di preparare il personale specializzato per le ricerche talassografiche, anche nelle loro applicazioni.  
-Art. 181. - La scuola e' retta da un direttore, nominato dal rettore dell'Universita', su designazione del Consiglio della Facolta' di scienze. Il direttore e' coadiuvato da un Consiglio della scuola, costituito dai professori di ruolo che vi tengono insegnamenti.  
-Art. 182. - Alla scuola possono iscriversi i laureati in scienze naturali, in scienze biologiche e in scienze geologiche, in chimica, in fisica ed in geografia.  
-Art. 183. - La durata degli studi e' di due anni.  
-Art. 184. - I corsi della scuola comprendono le seguenti materie obbligatorie: geografia marina, oceanografia fisica, chimica delle acque, oceanografia biologica, zoologia marina, botanica marina, geologia marina, petrografia dei sedimenti marini, batteriologia marina, talassobiologia applicata.  
-I predetti corsi saranno integrati con esercitazioni pratiche in laboratorio e in mare, con dimostrazioni e cicli di conferenze.  
-Ciascun anno il Consiglio della scuola predispone il programma dei corsi.  
-Art. 185. - Gli iscritti alla scuola saranno tenuti alla frequenza di tutte le manifestazioni didattiche e alla frequenza in qualita' di interni per un biennio di uno dei seguenti Istituti della Facolta' di scienze: zoologia, anatomia comparata, botanica, geologia, mineralogia, chimica generale, geofisica, Stazione idrobiologica di Chioggia.  
-Alla fine di ciascun corso gli iscritti alla scuola dovranno sostenere gli esami delle materie obbligatorie.  
-Alla fine del biennio sosterranno un esame di diploma consistente nella discussione di una tesi sperimentale su argomento talassografico.  
-Art. 186. - Il Consiglio di amministrazione stabilira' su proposta del Consiglio della Facolta' l'ammontare delle tasse che gli iscritti sono tenuti a pagare.  
-Art. 187. - La scuola rilascia il diploma di specialista in studi talassografici.  
+tassa di immatricolazione. . . . . . . . . . . . . . . . . . L. 2.000 tassa di iscrizione . . . . . . . . . . . . . . . . . . . . L. 50.000 soprattassa esami . . . . . . . . . . . . . . . . . . . . . L. 10.000 tassa erariale di diploma. . . . . . . . . . . . . . . . . . L. 6.000 tassa di ricognizione per i fuoricorso . . . . . . . . . . . L. 5.000   
+  
+Al funzionamento della suddetta scuola si provvedera' con i proventi delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni o contributi delle regioni, di enti pubblici o di privati.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 marzo 1955
+### Dato a Roma, addi' 30 ottobre 1978
 
-EINAUDI ERMINI
+PERTINI PEDINI
 
-Visto, il Guardasigilli: DE PIETRO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 5 maggio 1955
+Registrato alla Corte dei conti, addi' 23 aprile 1979
 
-Atti del Governo, registro n. 90, foglio n. 121. - CARLOMAGNO
+Registro n. 27 Istruzione, foglio n. 32

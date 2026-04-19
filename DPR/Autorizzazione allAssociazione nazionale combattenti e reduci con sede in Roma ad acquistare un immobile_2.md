@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1972 n. 797
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 gennaio 1970 n. 50
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1972 n. 797
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 gennaio 1970 n. 50
 =============================================================
 
 Autorizzazione all'Associazione nazionale combattenti e reduci, con sede in Roma, ad acquistare un immobile.
@@ -12,10 +12,8 @@ Art. 1
 
 N.
 
-797. Decreto del Presidente della Repubblica 19 giugno 1972, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci, con sede in Roma, viene autorizzata ad acquistare dalla signora Arcarisi Gabriella al complessivo convenuto prezzo di L. 60.000.000 le seguenti porzioni del complesso edilizio denominato "Piovego" che sorgera' in Padova, via Trieste angolo via G. Gozzi sull'area di cui al mapp. 179, sezione A, foglio XXV di circa mq. 4.300:
-
-a) ufficio di mq. 435 posto al piano II del corpo "A" e precisamente quello formato dai locali di angolo tra via Trieste e via G. Gozzi, da destinare a "Casa del combattente".  
+50. Decreto del Presidente della Repubblica 7 gennaio 1970, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci, con sede in Roma, viene autorizzata ad acquistare dal sig. Rovatti Mario, dalla moglie Catelani Gina Amelia in Rovatti e dalla figlia Anna Maria Rovatti, per il prezzo di L. 3.400.000, un immobile, costituito da un vano ad uso negozio, al piano terreno, lato nord, del fabbricato sito in Viareggio (Lucca), piazzale Dante n. 16, da adibire ad uso di uffici della locale sezione dell'associazione anzidetta.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 11 dicembre 1972  
-Atti del Governo, registro n. 254, foglio n. 1. - CARUSO
+Visto, il Guardasigilli: GAVA  
+Registrato alla Corte dei conti, addi' 26 febbraio 1970  
+Atti del Governo, registro n. 233, foglio n. 22. - CARUSO

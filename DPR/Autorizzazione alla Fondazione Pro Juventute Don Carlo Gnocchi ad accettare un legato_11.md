@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1962 n. 70
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1966 n. 1041
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1962 n. 70
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1966 n. 1041
+===============================================================
 
 Autorizzazione alla "Fondazione Pro Juventute Don Carlo Gnocchi" ad accettare un legato.
 ----------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-70. Decreto del Presidente della Repubblica 26 gennaio 1962, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi", viene autorizzata ad accettare il legato di L. 600.000 (seicentomila), disposto dalla defunta signorina Gelsomina Della Monica, con testamento pubblico a rogito dott. Alberto Ricci, notaio in Savignano sul Rubicone, in data 5 luglio 1960, n. 30 di repertorio.  
+1041. Decreto del Presidente della Repubblica 31 ottobre 1966, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi" viene autorizzata ad accettare un legato, consistente nella somma di lire cinquecentomila, disposto dal defunto sig. Arturo De Gobbi, con testamento olografo del 2 novembre 1960, pubblicato (assieme al, codicillo testamentario del 6 novembre 1960) per atto a rogito dott. Angela Japoce, notaio residente a Gorgonzola, in data 14 marzo 1964, n. 14143 di rep., n. 3112 d'archivio.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 24 febbraio 1962  
-Atti del Governo, registro n. 144, foglio n. 2. - VILLA
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 28 novembre 1966  
+Atti del Governo, registro n. 207, luglio n. 79. VILLA

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1958 n. 556
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 855
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1958 n. 556
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 855
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -10,15 +10,13 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successivi;
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -32,83 +30,94 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 35. - Agli insegnamenti complementari del corso di laurea in materie letterarie, sono aggiunti i seguenti:
+Gli articoli 178, 179, 180, 181, 182, relativi alla scuola di specializzazione in gerontologia e geriatria, sono abrogati e sostituiti dai seguenti:
 
-"Storia del Risorgimento";
+Scuola di specializzazione in gerontologia e geriatria
 
-"Storia della grammatica e della lingua italiana";
+Art. 178. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in gerontologia e geriatria con sede presso l'istituto di clinica medica generale, il cui direttore e' anche direttore della scuola.
 
-"Storia delle tradizioni popolari";
+Il corso ha la durata di tre anni. In nessun caso sono ammesse abbreviazioni di corso.
 
-"Latino medioevale".
+Art. 179. - Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia in numero di 7 (sette) per l'intero corso. Nel caso che le domande di iscrizione al 1° anno superino il numero compatibile con la disposizione di cui sopra, l'ammissione sara' subordinata all'esito di un concorso per esami. Gli esami, che consisteranno in una prova scritta ed in una orale, si svolgeranno entro il mese di dicembre.
 
-Art. 36. - Agli insegnamenti complementari del corso di laurea, in pedagogia sono aggiunti i seguenti:
+Art. 180. - Gli iscritti hanno l'obbligo di partecipare a tutte le attivita' didattiche (conferenze, lezioni, esercitazioni, seminari, ecc.) contemplate nel programma dei corsi, nonche' di prestare servizio presso i reparti di degenza, gli ambulatori ed i laboratori dell'istituto sede della scuola. L'ottemperanza agli obblighi suddetti e' indispensabile per ottenere la firma di frequenza a sua volta necessaria per l'ammissione agli esami di profitto.
 
-"Storia del Risorgimento";
+Questi hanno luogo alla fine di ogni anno di corso: il loro superamento e' condizione necessaria per l'iscrizione all'anno di corso successivo.
 
-"Storia delle dottrine politiche";
+Art. 181. - All'esame di diploma verranno ammessi coloro che avranno superato gli esami di profitto, concernenti le dodici materie di insegnamento obbligatorio.
 
-"Storia della grammatica e della lingua italiana" "Latino medioevale".
+Esso consistera' nella presentazione e discussione di una dissertazione scritta su argomento di gerontologia e geriatria concordato con il direttore della scuola all'inizio del 2° anno e depositato presso la direzione almeno quindici giorni prima dell'esame.
 
-Art. 37 - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:
+Art. 182. - Gli iscritti non riconosciuti idonei agli esami di un determinato corso o all'esame di diploma potranno ripresentarsi alle prove dopo un altro anno di frequenza (fuori corso).
 
-"Storia del Risorgimento";
+L'ultimo comma dell'art. 183 e' soppresso.
 
-"Storia della grammatica e della lingua italiana";
+Gli articoli 184, 185, 186, 187, 188, relativi alla scuola di specializzazione in medicina interna, sono abrogati e sostituiti dai seguenti:
 
-"Storia delle tradizioni popolari";
+Scuola di specializzazione in medicina interna
 
-"Lingua e letteratura russa";
+Art. 184. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in medicina interna con sede presso l'istituto di clinica medica generale il cui direttore e' anche direttore della scuola.
 
-"Latino medioevale".
+Il corso ha la durata di cinque anni. In nessun caso sono ammesse abbreviazioni di corso.
 
-L'art. 48 e' cosi' modificato: "Alla Facolta' di magistero e' annessa la Biblioteca (in comune con quella della Facolta' di lettere e filosofia).
+Art. 185. - Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia in numero di 22 (ventidue) per l'intero corso. Nel caso che le domande di iscrizione al 1° anno superino il numero compatibile con la disposizione di cui sopra, l'ammissione sara' subordinata all'esito di un concorso per esami.
 
-La direzione della Biblioteca verra' assunta con turno triennale, da un professore, possibilmente di ruolo della Facolta' di lettere e filosofia o di magistero. La scelta del bibliotecario verra' determinata alternativamente e di comune accordo dai Consigli delle due Facolta'.
+Gli esami che consisteranno in una prova scritta ed in una orale, si svolgeranno entro il mese di dicembre.
 
-Il funzionamento della Biblioteca e' assicurato con un regolamento approvato dalle due Facolta' e dal rettore".
+Art. 186. - Gli iscritti hanno l'obbligo di partecipare a tutte le attivita' didattiche (conferenze, lezioni, esercitazioni, seminari, ecc., contemplate nel programma dei corsi, nonche' di prestare servizio presso i reparti di degenza, gli ambulatori ed i laboratori dell'istituto sede della scuola. L'ottemperanza agli obblighi suddetti e' indispensabile per ottenere la firma di frequenza a sua volta necessaria per l'ammissione agli esami di profitto.
 
-Dopo l'art. 48, e con il conseguente spostamento di quelli successivi, e' aggiunto il seguente: sp;
+Questi hanno luogo alla fine di ogni anno di corso: il loro superamento e' condizione necessaria per l'iscrizione all'anno di corso successivo.
 
-Art. 19. - "Alla Facolta' di magistero appartengono gli Istituti di:
+Art. 187. - All'esame di diploma verranno ammessi coloro che avranno superato gli esami di profitto concernenti le tredici materie di insegnamento obbligatorie ed almeno una scelta fra le facoltative.
 
-1) Letterature moderne (francese, inglese, tedesco, spagnolo);
+Esso consistera' nella presentazione e discussione di una dissertazione scritta su argomento di medicina interna concordato con il direttore della scuola all'inizio del 2° anno e depositato presso la direzione almeno quindici giorni prima dell'esame.
 
-2) Pedagogia;
+Art. 188. - Gli iscritti non riconosciuti idonei agli esami di un determinato corso o all'esame di diploma potranno ripresentarsi alle prove dopo un altro anno di frequenza (fuori corso).
 
-3) Psicologia.
+L'ultimo comma dell'art. 189 e' soppresso.
 
-La direzione degli Istituti verra' assunta dai rispettivi titolari delle materie e nel caso vi siano piu' titolari, dai piu' anziano. In mancanza di titolare di ruolo la direzione viene assunta dagli incaricati. Ove manchino i titolari di pedagogia e psicologia, la direzione viene assunta dal professore piu' anziano di materie filosofiche".
+Gli articoli 190, 191, 192, 194, relativi alla scuola di specializzazione in nefrologia medica, sono abrogati e sostituiti dai seguenti:
 
-Art. 50. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:
+Scuola di specializzazione in nefrologia medica
 
-"Neurochirurgia".
+Art. 190. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in nefrologia medica con sede presso l'istituto di clinica medica generale, il cui direttore e' anche direttore della scuola.
+
+Il corso ha la durata di tre anni. In nessun caso sono ammesse abbreviazioni di corso.
+
+Art. 191. - Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia in numero di 5 (cinque) per l'intero corso. Nel caso che le domande di iscrizione al 1° anno superino il numero compatibile con la disposizione di cui sopra, l'ammissione sara' subordinata all'esito di un concorso per esami. Gli esami, che consisteranno in una prova scritta ed in una orale, si svolgeranno entro il mese di dicembre.
+
+Art. 192. - Gli iscritti hanno l'obbligo di partecipare a tutte le attivita' didattiche (conferenze, lezioni, esercitazioni, seminari, ecc.) contemplate nel programma dei corsi, nonche' di prestare servizio presso i reparti di degenza, gli ambulatori ed i laboratori dell'istituto sede della scuola. L'ottemperanza agli obblighi suddetti e' indispensabile per ottenere la firma di frequenza a sua volta necessaria per l'ammissione agli esami di profitto.
+
+Questi hanno luogo alla fine di ogni anno di corso: il loro superamento e' condizione necessaria per l'iscrizione all'anno di corso successivo.
+
+Art. 194. - All'esame di diploma verranno ammessi coloro che avranno superato gli esami di profitto, concernenti le sedici materie di insegnamento obbligatorio. Esso consistera' nella presentazione e discussione di una dissertazione scritta su argomento nefrologico concordato con il direttore della scuola all'inizio del 2° anno e depositato presso la direzione almeno quindici giorni prima dell'esame.
+
+Gli iscritti non riconosciuti idonei agli esami di un determinato corso o all'esame di diploma potranno ripresentarsi alle prove dopo un altro anno di frequenza (fuori corso).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 2 aprile 1958
+Dato a Roma, addi' 31 ottobre 1974
 
-GRONCHI
+LEONE
 
-MORO
+MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 6 giugno 1958 Atti del Governo, registro n. 112, foglio n. 172. - RELLEVA
+alla Corte dei conti, addi' 17 febbraio 1975 Atti di Governo, registro n. 8, foglio n. 133
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -117,44 +126,55 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 178, 179, 180, 181, 182, relativi alla scuola di specializzazione in gerontologia e geriatria, sono abrogati e sostituiti dai seguenti:  
   
-Art. 35. - Agli insegnamenti complementari del corso di laurea in materie letterarie, sono aggiunti i seguenti:  
-"Storia del Risorgimento";  
-"Storia della grammatica e della lingua italiana";  
-"Storia delle tradizioni popolari";  
-"Latino medioevale".  
-Art. 36. - Agli insegnamenti complementari del corso di laurea, in pedagogia sono aggiunti i seguenti:  
-"Storia del Risorgimento";  
-"Storia delle dottrine politiche";  
-"Storia della grammatica e della lingua italiana" "Latino medioevale".  
-Art. 37 - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:  
-"Storia del Risorgimento";  
-"Storia della grammatica e della lingua italiana";  
-"Storia delle tradizioni popolari";  
-"Lingua e letteratura russa";  
-"Latino medioevale".  
-L'art. 48 e' cosi' modificato: "Alla Facolta' di magistero e' annessa la Biblioteca (in comune con quella della Facolta' di lettere e filosofia).  
-La direzione della Biblioteca verra' assunta con turno triennale, da un professore, possibilmente di ruolo della Facolta' di lettere e filosofia o di magistero. La scelta del bibliotecario verra' determinata alternativamente e di comune accordo dai Consigli delle due Facolta'.  
-Il funzionamento della Biblioteca e' assicurato con un regolamento approvato dalle due Facolta' e dal rettore".  
-Dopo l'art. 48, e con il conseguente spostamento di quelli successivi, e' aggiunto il seguente: sp;  
-Art. 19. - "Alla Facolta' di magistero appartengono gli Istituti di:  
-1) Letterature moderne (francese, inglese, tedesco, spagnolo);  
-2) Pedagogia;  
-3) Psicologia.  
-La direzione degli Istituti verra' assunta dai rispettivi titolari delle materie e nel caso vi siano piu' titolari, dai piu' anziano. In mancanza di titolare di ruolo la direzione viene assunta dagli incaricati. Ove manchino i titolari di pedagogia e psicologia, la direzione viene assunta dal professore piu' anziano di materie filosofiche".  
-Art. 50. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:  
-"Neurochirurgia".  
+Scuola di specializzazione in gerontologia e geriatria  
+  
+Art. 178. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in gerontologia e geriatria con sede presso l'istituto di clinica medica generale, il cui direttore e' anche direttore della scuola.  
+Il corso ha la durata di tre anni. In nessun caso sono ammesse abbreviazioni di corso.  
+Art. 179. - Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia in numero di 7 (sette) per l'intero corso. Nel caso che le domande di iscrizione al 1° anno superino il numero compatibile con la disposizione di cui sopra, l'ammissione sara' subordinata all'esito di un concorso per esami. Gli esami, che consisteranno in una prova scritta ed in una orale, si svolgeranno entro il mese di dicembre.  
+Art. 180. - Gli iscritti hanno l'obbligo di partecipare a tutte le attivita' didattiche (conferenze, lezioni, esercitazioni, seminari, ecc.) contemplate nel programma dei corsi, nonche' di prestare servizio presso i reparti di degenza, gli ambulatori ed i laboratori dell'istituto sede della scuola. L'ottemperanza agli obblighi suddetti e' indispensabile per ottenere la firma di frequenza a sua volta necessaria per l'ammissione agli esami di profitto.  
+Questi hanno luogo alla fine di ogni anno di corso: il loro superamento e' condizione necessaria per l'iscrizione all'anno di corso successivo.  
+Art. 181. - All'esame di diploma verranno ammessi coloro che avranno superato gli esami di profitto, concernenti le dodici materie di insegnamento obbligatorio.  
+Esso consistera' nella presentazione e discussione di una dissertazione scritta su argomento di gerontologia e geriatria concordato con il direttore della scuola all'inizio del 2° anno e depositato presso la direzione almeno quindici giorni prima dell'esame.  
+Art. 182. - Gli iscritti non riconosciuti idonei agli esami di un determinato corso o all'esame di diploma potranno ripresentarsi alle prove dopo un altro anno di frequenza (fuori corso).  
+L'ultimo comma dell'art. 183 e' soppresso.  
+Gli articoli 184, 185, 186, 187, 188, relativi alla scuola di specializzazione in medicina interna, sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in medicina interna  
+  
+Art. 184. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in medicina interna con sede presso l'istituto di clinica medica generale il cui direttore e' anche direttore della scuola.  
+Il corso ha la durata di cinque anni. In nessun caso sono ammesse abbreviazioni di corso.  
+Art. 185. - Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia in numero di 22 (ventidue) per l'intero corso. Nel caso che le domande di iscrizione al 1° anno superino il numero compatibile con la disposizione di cui sopra, l'ammissione sara' subordinata all'esito di un concorso per esami.  
+Gli esami che consisteranno in una prova scritta ed in una orale, si svolgeranno entro il mese di dicembre.  
+Art. 186. - Gli iscritti hanno l'obbligo di partecipare a tutte le attivita' didattiche (conferenze, lezioni, esercitazioni, seminari, ecc., contemplate nel programma dei corsi, nonche' di prestare servizio presso i reparti di degenza, gli ambulatori ed i laboratori dell'istituto sede della scuola. L'ottemperanza agli obblighi suddetti e' indispensabile per ottenere la firma di frequenza a sua volta necessaria per l'ammissione agli esami di profitto.  
+Questi hanno luogo alla fine di ogni anno di corso: il loro superamento e' condizione necessaria per l'iscrizione all'anno di corso successivo.  
+Art. 187. - All'esame di diploma verranno ammessi coloro che avranno superato gli esami di profitto concernenti le tredici materie di insegnamento obbligatorie ed almeno una scelta fra le facoltative.  
+Esso consistera' nella presentazione e discussione di una dissertazione scritta su argomento di medicina interna concordato con il direttore della scuola all'inizio del 2° anno e depositato presso la direzione almeno quindici giorni prima dell'esame.  
+Art. 188. - Gli iscritti non riconosciuti idonei agli esami di un determinato corso o all'esame di diploma potranno ripresentarsi alle prove dopo un altro anno di frequenza (fuori corso).  
+L'ultimo comma dell'art. 189 e' soppresso.  
+Gli articoli 190, 191, 192, 194, relativi alla scuola di specializzazione in nefrologia medica, sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in nefrologia medica  
+  
+Art. 190. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in nefrologia medica con sede presso l'istituto di clinica medica generale, il cui direttore e' anche direttore della scuola.  
+Il corso ha la durata di tre anni. In nessun caso sono ammesse abbreviazioni di corso.  
+Art. 191. - Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia in numero di 5 (cinque) per l'intero corso. Nel caso che le domande di iscrizione al 1° anno superino il numero compatibile con la disposizione di cui sopra, l'ammissione sara' subordinata all'esito di un concorso per esami. Gli esami, che consisteranno in una prova scritta ed in una orale, si svolgeranno entro il mese di dicembre.  
+Art. 192. - Gli iscritti hanno l'obbligo di partecipare a tutte le attivita' didattiche (conferenze, lezioni, esercitazioni, seminari, ecc.) contemplate nel programma dei corsi, nonche' di prestare servizio presso i reparti di degenza, gli ambulatori ed i laboratori dell'istituto sede della scuola. L'ottemperanza agli obblighi suddetti e' indispensabile per ottenere la firma di frequenza a sua volta necessaria per l'ammissione agli esami di profitto.  
+Questi hanno luogo alla fine di ogni anno di corso: il loro superamento e' condizione necessaria per l'iscrizione all'anno di corso successivo.  
+Art. 194. - All'esame di diploma verranno ammessi coloro che avranno superato gli esami di profitto, concernenti le sedici materie di insegnamento obbligatorio. Esso consistera' nella presentazione e discussione di una dissertazione scritta su argomento nefrologico concordato con il direttore della scuola all'inizio del 2° anno e depositato presso la direzione almeno quindici giorni prima dell'esame.  
+Gli iscritti non riconosciuti idonei agli esami di un determinato corso o all'esame di diploma potranno ripresentarsi alle prove dopo un altro anno di frequenza (fuori corso).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 aprile 1958
+### Dato a Roma, addi' 31 ottobre 1974
 
-GRONCHI MORO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 6 giugno 1958
+Registrato alla Corte dei conti, addi' 17 febbraio 1975
 
-Atti del Governo, registro n. 112, foglio n. 172. - RELLEVA
+Atti di Governo, registro n. 8, foglio n. 133

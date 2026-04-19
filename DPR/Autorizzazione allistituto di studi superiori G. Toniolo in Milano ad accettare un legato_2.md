@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1980 n. 1034
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1981 n. 707
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1980 n. 1034
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1981 n. 707
+=============================================================
 
 Autorizzazione all'istituto di studi superiori "G. Toniolo", in Milano, ad accettare un legato.
 -----------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-1034. Decreto del Presidente della Repubblica 16 ottobre 1980, col quale, sulla proposta del Ministro della pubblica istruzione, l'istituto di studi superiori "G. Toniolo", in Milano, viene autorizzato ad accettare il legato, consistente nell'intera proprieta' di beni immobili per un valore di L. 30.000.000, disposto dalla sig.ra Giulia Fiorini con testamento pubblico 5 marzo 1974, pubblicato in data 21 maggio 1974, n. 16742/8256 di repertorio, a rogito dott. Francesco Bonardi, notaio in Palazzolo sull'Oglio (Brescia).  
+707. Decreto del Presidente della Repubblica 3 luglio 1981, col quale, sulla proposta del Ministro della pubblica istruzione, l'Istituto di studi superiori "G.Toniolo" di Milano, viene autorizzato ad accettare il legato,   
+consistente nella nuda proprieta' di beni immobili, per un valore di L. 56.550.000, disposto dal dott. Giancarlo Brasca con testamento olografo 30 luglio 1976, pubblicato in data 6 marzo 1979, n. 33995/4202 di repertorio, a rogito dottor Ferruccio Brambilla, notaio in Milano, registrato a Milano in data 13 marzo 1979, n. 7059.   
   
-Visto, il Guardasigilli: SARTI  
-Registrato alla Corte dei conti, addi' 28 gennaio 1981  
-Registro n. 7 Istruzione, foglio n. 256
+Visto, il Guardasigilli: DARIDA   
+Registrato alla Corte dei conti, addi' 28 novembre 1981   
+Registro n. 117 Istruzione foglio n. 141

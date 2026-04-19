@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 1000
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1978 n. 414
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 1000
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1978 n. 414
+=============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1000. Decreto del Presidente della Repubblica 22 settembre 1981, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato, disposta dal comune di Verbania (Novara) con atto 4 dicembre 1975, n. 42186 di repertorio, a rogito dott. Mario Matricardi, notaio in Verbania-Pallanza, consistente in un appezzamento di terreno della superficie di mq 8540 circa, per la costruzione di una stazione di controllo autoveicoli.  
+414. Decreto del Presidente della Repubblica 3 maggio 1978, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione disposta dalla n.d. principessa Maria Concetta Fossi ved. Barberini con atto di donazione 12 dicembre 1975, n. 68515/30495 di repertorio, a rogito dottor Vincenzo Colapietro, notaio in Roma, consistente in un affresco di Guido Reni raffigurante un "putto dormiente" (cm 58 X 56), il quale riveste un notevole interesse artistico, da destinare dopo la morte della donatrice alla Galleria nazionale d'arte antica in Roma.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 30 novembre 1981  
-Registro n. 36 Finanze, foglio n. 260
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 24 luglio 1978  
+Registro n. 10 Beni culturali, foglio n. 284

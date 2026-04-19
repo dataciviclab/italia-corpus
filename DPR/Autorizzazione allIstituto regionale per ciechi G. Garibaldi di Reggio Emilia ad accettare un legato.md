@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1954 n. 1250
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 maggio 1953 n. 1216
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1954 n. 1250
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 maggio 1953 n. 1216
+==============================================================
 
 Autorizzazione all'Istituto regionale per ciechi "G. Garibaldi" di Reggio Emilia ad accettare un legato.
 --------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1250. Decreto del Presidente della Repubblica 30 ottobre 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto regionale per ciechi "G. Garibaldi" di Reggio Emilia viene autorizzato ad accettare un legato di lire cinquemila disposto in suo favore dalla defunta signorina Elvira Fontana fu Giuseppe.  
+1216. Decreto del Presidente della Repubblica 30 maggio 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto regionale per ciechi "G. Garibaldi" di Reggio Emilia, viene autorizzato ad accettare il legato disposto in suo favore dalla defunta signora Garavini Esponina ved. Mattioli Mario.  
   
-Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 8 gennaio 1955  
-Atti del Governo, registro n. 88, foglio n. 16. - CARLOMAGNO
+Visto, il Guardasigilli: ZOLI  
+Registrato alla Corte dei conti, addi' 28 aprile 1954  
+Atti del Governo, registro n. 82, foglio n. 176. - CARLOMAGNO

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 luglio 1985 n. 669
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 535
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 luglio 1985 n. 669
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 535
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bari.
@@ -39,21 +39,18 @@ Articolo unico
 --------------
 
   
-Nell'art. 31, relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-storia dell'industria.  
+Nell'art. 19, relativo al corso di laurea in economia e commercio, all'elenco degli insegnamenti complementari sono aggiunti i seguenti: storia economica contemporanea.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 luglio 1985
+### Dato a Roma, addi' 17 maggio 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 9 novembre 1985
+Registrato alla Corte dei conti, addi' 28 settembre 1983
 
-Registro n. 74 Istruzione, foglio n. 144
+Registro n. 63 Istruzione, foglio n. 133

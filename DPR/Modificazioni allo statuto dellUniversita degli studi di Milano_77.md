@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1029
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1972 n. 744
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1029
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1972 n. 744
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,72 +18,240 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
+Sulla proposta del Ministro per la pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
+Decreta:
 
-Considerata la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Ritenuta anche l'opportunita' di adeguare detta normativa ai corsi di perfezionamento;
+Art. 132. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola in "Chirurgia d'urgenza e di pronto soccorso".
 
-Sulla
------
+Dopo l'art. 225 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso.
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso
 
-Articolo unico
---------------
+Art. 226. - La scuola di specializzazione in chirurgia generale d'urgenza e di pronto soccorso ha sede presso l'istituto di chirurgia d'urgenza dell'Universita' di Milano, ospedale Policlinico, via F.
 
+Sforza, 33, Milano.
+
+Art. 227. - Il corso degli studi per il conseguimento del diploma di specialista in chirurgia generale d'urgenza e di pronto soccorso ha la durata di due anni accademici.
+
+Art. 228. - Alla scuola possono iscriversi: i laureati in medicina e chirurgia che abbiano superato gli esami del terzo anno della scuola di specializzazione in chirurgia e che saranno pertanto esclusi dalla prosecuzione di quest'ultima; gli specialisti in chirurgia; i docenti in branche chirurgiche a indirizzo clinico. Il numero massimo degli iscritti alla scuola e' di quindici (15) per ogni anno di corso per un totale di trenta (30) iscritti.
+
+Art. 229. - Le materie di insegnamento del corso sono le seguenti:
+
+1) Chirurgia generale d'urgenza e di pronto soccorso (biennale);
+
+2) Chirurgia cardio-vascolare d'urgenza;
+
+3) Chirurgia ginecologica d'urgenza;
+
+4) Chirurgia plastica e riparatrice (biennale);
+
+5) Chirurgia pediatrica d'urgenza;
+
+6) Chirurgia toracica d'urgenza (biennale);
+
+7) Chirurgia urologica d'urgenza;
+
+8) Fisiopatologia del politraumatizzato;
+
+9) Neurotraumatologia (biennale);
+
+10) Radiologia;
+
+11) Rianimazione;
+
+12) Ricerche di laboratorio in chirurgia d'urgenza;
+
+13) Semeiologia chirurgica nell'urgenza;
+
+14) Trattamento del politraumatizzato;
+
+15) Trattamento pre e postoperatorio in chirurgia d'urgenza;
+
+16) Traumatologia dell'apparato locomotore (biennale);
+
+17) Traumatologia maxillo-facciale;
+
+18) Valutazione medico-legale delle lesioni chirurgiche.
+
+Art. 230. - Le materie sopra elencate sono cosi' distribuite:
+
+1° Anno:
+
+1) Chirurgia generale d'urgenza e di pronto soccorso (biennale);
+
+2) Chirurgia cardio-vascolare d'urgenza;
+
+3) Chirurgia ginecologica d'urgenza;
+
+4) Chirurgia pediatrica d'urgenza;
+
+5) Chirurgia plastica e riparatrice (biennale);
+
+6) Chirurgia toracica d'urgenza (biennale);
+
+7) Neurotraumatologia (biennale);
+
+8) Ricerche di laboratorio in chirurgia d'urgenza;
+
+9) Radiologia;
+
+10) Semeiologia chirurgica d'urgenza;
+
+11) Traumatologia dell'apparato locomotore (biennale);
+
+12) Trattamento pre e postoperatorio in chirurgia d'urgenza.
+
+2° Anno:
+
+1) Chirurgia generale d'urgenza e di pronto soccorso (biennale);
+
+2) Chirurgia plastica e riparatrice (biennale);
+
+3) Chirurgia toracica d'urgenza (biennale);
+
+4) Chirurgia urologica d'urgenza;
+
+5) Neurotraumatologia (biennale);
+
+6) Traumatologia maxillo-facciale;
+
+7) Traumatologia dell'apparato locomotore (biennale);
+
+8) Fisiopatologia del politraumatizzato;
+
+9) Trattamento del politraumatizzato;
+
+10) Rianimazione;
+
+11) Valutazione medico-legale delle lesioni chirurgiche.
+
+Art. 231. - La frequenza alle lezioni ed alle esercitazioni e ai seminari e' obbligatoria per tutti gli iscritti.
+
+L'internato e' obbligatorio durante tutti i due anni del corso sotto forma di permanenza costante in istituto durante le ore della sua attivita'.
+
+Tale internato avra' la durata annuale di almeno 6 mesi.
+
+Dall'obbligo di tale internato potranno essere esentati, valutato caso per caso, quegli allievi che, in qualita' di assistenti o di aiuti, prestino effettivamente servizio presso reparti di chirurgia d'urgenza e di pronto soccorso delle universita' e di ospedali generali regionali o provinciali.
+
+Art. 232. - Alla fine del 1° anno di corso gli specializzandi, per poter ottenere l'ammissione all'anno successivo, dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno in corso.
+
+Art. 233. - L'esame di diploma consiste nella discussione di una tesi scritta su un tema preventivamente approvato dal direttore della scuola.
+
+Le norme per l'iscrizione, gli esami, le tasse, ecc. sono quelle generali per la scuola di specializzazione della Universita' di Milano.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 17 ottobre 1972
+
+LEONE
+
+SCALFARO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 29 novembre 1972 Atti del Governo, registro n. 253, foglio n. 93. - CARUSO
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
+  
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
   
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 132. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola in "Chirurgia d'urgenza e di pronto soccorso".  
+Dopo l'art. 225 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso.  
   
-Nell'art. 284, concernente l'elenco dei corsi e delle scuole di perfezionamento e specializzazione annesse alla facolta' di medicina veterinaria, dopo il corso di perfezionamento in clinica bovina e' inserito il corso di perfezionamento in patologia equina.  
-Dopo l'art. 327 si inseriscono, con il conseguente spostamento della numerazione degli articoli successivi, le norme relative all'istituzione del corso di perfezionamento in patologia equina.  
-Corso di perfezionamento in patologia equina  
-Art. 328. - Il corso ha la durata di un anno accademico.  
-Art. 329. - Al corso possono essere ammessi i laureati in medicina veterinaria.  
-Art. 330. - Le materie di insegnamento sono:  
-patologia e profilassi delle malattie infettive;  
-patologia e profilassi delle malattie parassitarie;  
-anatomia topografica;  
-semeiotica medica;  
-semeiotica chirurgica e medicina operatoria;  
-clinica medica;  
-clinica chirurgica;  
-clinica ostetrica e ginecologica;  
-radiologia.  
-Durante il corso saranno tenute lezioni o conferenze su argomenti di anatomia, fisiologia, farmacologia, zootecnia (alimentazione), igiene zootecnica, medicina legale, podologia e anestesiologia.  
-Art. 331. - La direzione del corso e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nel corso stesso.  
-In caso di motivato impedimento la direzione del corso e' affidata a professore associato che pure insegni nel corso medesimo.  
-Art. 332. - Il direttore, di concerto con i docenti delle singole materie, stabilisce la durata e il programma particolareggiato dei corsi.  
-Gli insegnamenti saranno svolti sotto forma di lezioni, esercitazioni teorico-pratiche, conferenze e seminari.  
-Art. 333. - I professori ai quali devono essere affidate le lezioni, le conferenze, le esercitazioni teorico-pratiche e i seminari saranno nominati dal rettore su proposta del consiglio di facolta', sentito il direttore del corso.  
-Art. 334. - I posti disponibili sono venticinque.  
-Qualora il numero degli aspiranti superasse quello dei posti disponibili, si procedera' alla scelta dei partecipanti in base alla valutazione dei titoli accordando preferenza nell'ordine a: 1) titoli scientifici e pratici in relazione alle materie del corso, 2) carriera scolastica, 3) altri.  
-Art. 335. - Le norme relative al funzionamento amministrativo del corso sono regolate dalle leggi e dai regolamenti relativi all'istruzione universitaria.  
-L'importo delle tasse e soprattasse e' quello stabilito per gli studenti in corso per la facolta' di medicina veterinaria a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
-L'ammontare dei contributi di laboratorio viene stabilito dal consiglio di amministrazione, su proposta del senato accademico, sentita la facolta'.  
-Art. 336. - La frequenza ai corsi di lezione, alle esercitazioni e seminari e' obbligatoria.  
-Gli esami di profitto saranno tenuti alla fine dell'anno.  
-Per ottenere l'attestato di frequenza e di profitto, l'allievo deve avere seguito i corsi e superato gli esami nonche' la discussione orale di una dissertazione scritta su un tema avente carattere di originalita' precedentemente approvato dal direttore del corso.  
-Le commissioni per gli esami di profitto composte da non meno di tre membri sono nominate dal preside sentito il direttore del corso.  
+Scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso  
+  
+Art. 226. - La scuola di specializzazione in chirurgia generale d'urgenza e di pronto soccorso ha sede presso l'istituto di chirurgia d'urgenza dell'Universita' di Milano, ospedale Policlinico, via F.  
+Sforza, 33, Milano.  
+Art. 227. - Il corso degli studi per il conseguimento del diploma di specialista in chirurgia generale d'urgenza e di pronto soccorso ha la durata di due anni accademici.  
+Art. 228. - Alla scuola possono iscriversi: i laureati in medicina e chirurgia che abbiano superato gli esami del terzo anno della scuola di specializzazione in chirurgia e che saranno pertanto esclusi dalla prosecuzione di quest'ultima; gli specialisti in chirurgia; i docenti in branche chirurgiche a indirizzo clinico. Il numero massimo degli iscritti alla scuola e' di quindici (15) per ogni anno di corso per un totale di trenta (30) iscritti.  
+Art. 229. - Le materie di insegnamento del corso sono le seguenti:  
+1) Chirurgia generale d'urgenza e di pronto soccorso (biennale);  
+2) Chirurgia cardio-vascolare d'urgenza;  
+3) Chirurgia ginecologica d'urgenza;  
+4) Chirurgia plastica e riparatrice (biennale);  
+5) Chirurgia pediatrica d'urgenza;  
+6) Chirurgia toracica d'urgenza (biennale);  
+7) Chirurgia urologica d'urgenza;  
+8) Fisiopatologia del politraumatizzato;  
+9) Neurotraumatologia (biennale);  
+10) Radiologia;  
+11) Rianimazione;  
+12) Ricerche di laboratorio in chirurgia d'urgenza;  
+13) Semeiologia chirurgica nell'urgenza;  
+14) Trattamento del politraumatizzato;  
+15) Trattamento pre e postoperatorio in chirurgia d'urgenza;  
+16) Traumatologia dell'apparato locomotore (biennale);  
+17) Traumatologia maxillo-facciale;  
+18) Valutazione medico-legale delle lesioni chirurgiche.  
+Art. 230. - Le materie sopra elencate sono cosi' distribuite:  
+1° Anno:  
+1) Chirurgia generale d'urgenza e di pronto soccorso (biennale);  
+2) Chirurgia cardio-vascolare d'urgenza;  
+3) Chirurgia ginecologica d'urgenza;  
+4) Chirurgia pediatrica d'urgenza;  
+5) Chirurgia plastica e riparatrice (biennale);  
+6) Chirurgia toracica d'urgenza (biennale);  
+7) Neurotraumatologia (biennale);  
+8) Ricerche di laboratorio in chirurgia d'urgenza;  
+9) Radiologia;  
+10) Semeiologia chirurgica d'urgenza;  
+11) Traumatologia dell'apparato locomotore (biennale);  
+12) Trattamento pre e postoperatorio in chirurgia d'urgenza.  
+2° Anno:  
+1) Chirurgia generale d'urgenza e di pronto soccorso (biennale);  
+2) Chirurgia plastica e riparatrice (biennale);  
+3) Chirurgia toracica d'urgenza (biennale);  
+4) Chirurgia urologica d'urgenza;  
+5) Neurotraumatologia (biennale);  
+6) Traumatologia maxillo-facciale;  
+7) Traumatologia dell'apparato locomotore (biennale);  
+8) Fisiopatologia del politraumatizzato;  
+9) Trattamento del politraumatizzato;  
+10) Rianimazione;  
+11) Valutazione medico-legale delle lesioni chirurgiche.  
+Art. 231. - La frequenza alle lezioni ed alle esercitazioni e ai seminari e' obbligatoria per tutti gli iscritti.  
+L'internato e' obbligatorio durante tutti i due anni del corso sotto forma di permanenza costante in istituto durante le ore della sua attivita'.  
+Tale internato avra' la durata annuale di almeno 6 mesi.  
+Dall'obbligo di tale internato potranno essere esentati, valutato caso per caso, quegli allievi che, in qualita' di assistenti o di aiuti, prestino effettivamente servizio presso reparti di chirurgia d'urgenza e di pronto soccorso delle universita' e di ospedali generali regionali o provinciali.  
+Art. 232. - Alla fine del 1° anno di corso gli specializzandi, per poter ottenere l'ammissione all'anno successivo, dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno in corso.  
+Art. 233. - L'esame di diploma consiste nella discussione di una tesi scritta su un tema preventivamente approvato dal direttore della scuola.  
+Le norme per l'iscrizione, gli esami, le tasse, ecc. sono quelle generali per la scuola di specializzazione della Universita' di Milano.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 17 ottobre 1972
 
-PERTINI BODRATO
+LEONE SCALFARO
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 24 febbraio 1982
+Registrato alla Corte dei conti, addi' 29 novembre 1972
 
-Registro n. 30 Istruzione, foglio n. 383
+Atti del Governo, registro n. 253, foglio n. 93. - CARUSO

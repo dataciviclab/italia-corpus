@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1177
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1968 n. 1498
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1177
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1968 n. 1498
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
@@ -12,11 +12,11 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -24,79 +24,82 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 359, e' modificato nel senso che la scuola di specializzazione in radiologia conferisce il diploma di specialista in radiologia e il diploma di specialista in radiologia diagnostica.  
+Art. 360, e' modificato nel senso che l'ordinamento della scuola di specializzazione in radiologia e' abrogato e sostituito dal seguente:  
   
-Art. 380. - All'elenco delle scuole di specializzazione e delle scuole dirette a fini speciali annesse alla facolta' di medicina e chirurgia, e' aggiunta la seguente:  
+Scuola di specializzazione in radiologia  
   
-Scuola per tecnici di colpocitologia.  
+A) diploma di specializzazione in radiologia.  
+(durata del corso anni 4)  
   
-L'articolo 381 e' modificato nel senso che e' aggiunto l'ordinamento della scuola per tecnici di colpocitologia.  
-  
-Scuola per tecnici di colpocitologia  
-(scuola diretta a fini speciali)  
-  
-E' istituita presso la clinica ostetrica e ginecologica dell'Universita' di Padova (ai sensi dell'art. 20 del testo unico delle leggi sull'istruzione universitaria 31 agosto 1933, n. 1592) una scuola di preparazione per citotecnici, che ha lo scopo di preparare adeguatamente personale tecnico nel campo della diagnostica precoce del cancro genitale femminile.  
-La scuola ha indirizzo teorico-pratico e la durata del corso degli studi e' di due anni.  
-I titoli di ammissione devono essere: il diploma di scuola media unica, il diploma di avviamento professionale, commerciale od industriale od agrario o ad altro indirizzo.  
-Le tasse e soprattasse che gli iscritti sono tenuti a versare sono fissate come segue:  
-  
-tassa di immatricolazione. . . . . . . . . . . . . . . . L. 2.000 tassa di iscrizione . . . . . . . . . . . . . . . . . . L. 50.000 soprattassa esami . . . . . . . . . . . . . . . . . . . L. 10.000 tassa erariale di diploma. . . . . . . . . . . . . . . . L. 1.200   
-I contributi sono determinati di anno in anno dal consiglio di amministrazione su proposta del senato accademico, sentito il consiglio della facolta' di medicina e chirurgia.  
-Alla frequenza della scuola per tecnici si accede previo esame di cultura generale davanti ad una commissione composta dal direttore della scuola e da due insegnanti della stessa.  
-L'esame di ammissione e la valutazione dei titoli ha luogo entro la prima quindicina del mese di ottobre di ciascun anno, in un giorno stabilito dalla facolta' di medicina e chirurgia, su proposta del direttore della scuola.  
-Il numero massimo dei partecipanti e' di dodici per anno di corso.  
-Il direttore della scuola e' il direttore dell'istituto di clinica ostetrica dell'Universita' di Padova.  
-La scuola e' posta sotto la vigilanza della facolta' di medicina e chirurgia dell'universita' di Padova.  
-Gli insegnanti della scuola devono essere proposti dal direttore della stessa, approvati dalla facolta' di medicina e chirurgia e nominati dal rettore. Essi sono scelti tra i professori ufficiali, tra i liberi docenti, tra gli aiuti ed assistenti della facolta' di medicina e chirurgia o di altra facolta' dell'ateneo o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.  
-Tra gli insegnanti deve essere compreso il medico provinciale in quanto esponente ed esperto di medicina preventiva e di educazione sanitaria.  
-Le materie di insegnamento sono le seguenti:  
 1° Anno:  
-1) Citologia generale;  
-2) Nozioni di anatomia ed istologia normale dell'apparato genitale femminile;  
-3) Nozioni di fisiologia dell'apparato genitale femminile;  
-4) Nozioni di anatomia ed istologia patologica dell'apparato genitale femminile;  
-5) Nozioni di endocrinologia ginecologica;  
-6) Nozioni di microscopia;  
-7) Tecnica citologica;  
-8) Nozioni di microbiologia (batteriologia, parassitologia, virologia) applicate alla ginecologia;  
-9) Fisiocitologia ginecologica;  
-10) Cariologia;  
-11) Colpomicroscopia;  
-12) Colposcopia (I).  
+Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;  
+Nozioni sugli apparecchi ed istrumenti della radiologia;  
+Anatomia radiologica normale Fisiologia radiologica;  
+Tecnica radiologica generale;  
+Semeiotica radiologica generale;  
+Fondamenti di radiobiologia;  
+Nozioni di statistica e matematica.  
 2° Anno:  
-1) Tecnica istologica;  
-2) Istopatologia del collo dell'utero;  
-3) Istopatologia endometriale;  
-4) Citopatologia ginecologica;  
-5) Colposcopia (II);  
-6) Citochimica;  
-7) Medicina sociale ed educazione sanitaria;  
-8) Isto e citopatologia mammaria;  
-9) Tecniche di diagnosi precoce del carcinoma mammario;  
-10) Citopatologia peritoneale;  
-11) Urocitogramma in ginecologia;  
-12) Cito, isto e colpo-fotografia.  
-Gli iscritti alla scuola hanno l'obbligo di seguire un tirocinio pratico mediante la frequenza nel laboratorio di citologia e nell'ambulatorio di colposcopia della clinica ostetrica e ginecologica dell'Universita' per la durata di due anni.  
-I programmi di insegnamento e gli orari sono predisposti dal direttore della scuola ed approvati dal consiglio della facolta' di medicina e chirurgia.  
-La sorveglianza degli iscritti, per quanto riguarda la loro attivita' teorica e pratica, spetta al direttore della scuola.  
-Assenze ingiustificate comportano l'esclusione dal corso.  
-Per essere ammessi a sostenere gli esami di diploma, gli allievi devono aver seguito i corsi ed aver compiuto con esito favorevole tutte le esercitazioni pratiche previste.  
-Le commissioni per gli esami sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola.  
-Le commissioni sono composte da tre membri: il professore ufficiale di clinica ostetrica e ginecologica, presidente, un docente della scuola ed il medico provinciale.  
-Ogni commissario ha a disposizione dieci punti.  
-L'esame di diploma consiste in un esame orale sui temi trattati durante il corso ed in una o piu' prove pratiche stabilite dalla commissione esaminatrice.  
-L'esame di diploma viene sostenuto davanti ad una commissione composta di cinque membri scelti fra i docenti della scuola, nominata dal preside della facolta' di medicina e chirurgia, su proposta del direttore della scuola. Ogni commissario ha a disposizione dieci punti.  
-I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza della Scuola.  
+Tecnica e metodica dell'esame radiologico dei vari organi, apparati e sistemi;  
+Semeiotica radiologica speciale e diagnosi differenziale;  
+Fondamenti di radioterapia;  
+Danni da radiazioni e mezzi di protezione;  
+Dimostrazioni cliniche di diagnostica radiologica;  
+Dimostrazioni cliniche di radioterapia.  
+3° Anno:  
+Diagnostica radiologica differenziale;  
+Dimostrazione di casistica di roentgendiagnostica con confronto del quadro anatomo-patologico;  
+Radioterapia con alta energia;  
+Radioterapia tradizionale. Curieterapia;  
+Elementi di medicina nucleare;  
+Istrumentario, tecnica e metodiche di applicazione;  
+Dimostrazioni di casistica di roentgenterapia con particolare riferimento alla anatomia patologica;  
+Radioterapia con alte energie;  
+Dosimetria.  
+4° Anno:  
+Moderne tecniche di esplorazione e terapia radiologica;  
+Diagnostica e terapia con isotopi radioattivi somministrati per via interna;  
+Radiodiagnostica e radioterapia clinica (casistica);  
+Medicina legale e legislazione sanitaria in relazione alla radiologia.  
+  
+B) diploma di specializzazione in radiologia diagnostica.  
+(durata del corso anni 3)  
+  
+1° Anno:  
+Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;  
+Nozioni sugli apparecchi ed istrumenti della radiologia;  
+Anatomia radiologica normale;  
+Fisiologia radiologica;  
+Tecnica radiologica generale;  
+Semeiotica radiologica generale;  
+Fondamenti di radiobiologia;  
+Nozioni di statistica e matematica.  
+2° Anno:  
+Metodica di esplorazione dei vari organi ed apparati;  
+Semeiotica radiologica speciale e diagnosi differenziale;  
+Nozioni generali sulle lesioni da radiazioni e mezzi di protezione;  
+Moderne tecniche di esplorazione radiologica.  
+3° Anno:  
+Esplorazione radiologica nella patologia dei vari organi ed apparati; diagnostica differenziale; rapporti con l'anatomia patologica;  
+Radiodiagnostica clinica;  
+Medicina legale e legislazione sanitaria in relazione alla radiologia.  
+E' obbligatorio l'internato.  
+I corsi, per entrambi i diplomi, saranno integrati da conferenze, esercitazioni e seminari.  
+L'obbligo della frequenza durante tutto l'anno accademico (nove mesi) presso l'istituto di radiologia, sede della scuola, puo) essere ridotto ad un mese (su concessione del direttore della scuola) per gli specializzandi che fanno parte di istituti universitari della stessa disciplina che non abbiano la scuola e per gli assistenti di ruolo di primariati della stessa disciplina presso ospedali di 1ª categoria. Non e' consentita l'abbreviazione dei corsi, fatta eccezione per gli specializzati di radiologia diagnostica che intendano conseguire il diploma di specializzazione in radiologia, i quali potranno essere ammessi al 3° o 4° anno del corso in radiologia, a giudizio del direttore della scuola, in base alla valutazione dei loro titoli.  
+E' obbligatorio il superamento degli esami di un corso per l'ammissione al corso successivo.  
+Il numero degli iscritti alla scuola di radiologia non deve superare quello medio di 12 per anno (totale n. 42).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 14 ottobre 1968
 
-LEONE SCALFARO
+SARAGAT SCAGLIA
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 28 giugno 1973
+Registrato alla Corte dei conti, addi' 24 marzo 1969
 
-Atti di Governo, registro n. 258, foglio n. 132. - VALENTINI
+Atti del Governo, registro n. 226, foglio n. 10. - GRECO

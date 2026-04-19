@@ -1,65 +1,11 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1974 n. 222
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1968 n. 1318
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1974 n. 222
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1968 n. 1318
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 101 - il settimo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in neurologia e' stabilito in diciannove per ogni anno di corso (totale settantasei iscritti).
-
-Art. 102 - il settimo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in psichiatria e' stabilito in quindici per ogni anno di corso (totale sessanta iscritti).
-
-L'art. 130 e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in igiene e medicina preventiva e' stabilito in trentacinque per ogni anno di corso (totale centocinque iscritti).
-
-Art. 137 - il primo comma e modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in malattie dell'apparato cardiovascolare e' stabilito in quindici per ogni anno di corso (totale quarantacinque iscritti).
-
-Art. 142 - all'elenco degli insegnamenti del 3° anno di corso della scuola di specializzazione in oncologia e' aggiunto quello di "Radiologia" (diagnostica e terapia dei tumori).
-
-L'art. 179 e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in medicina interna e' stabilito in trenta per ogni anno di corso (totale centocinquanta iscritti).
-
-Art. 222 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in tossicologia medica e' stabilito in dodici per ogni anno di corso (totale trentasei iscritti).
-
-Art. 224 - il primo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio e' stabilito in quindici per ogni anno di corso (totale quarantacinque iscritti).
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 22 febbraio 1974
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: ZAGARI
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 1 giugno 1974 Atti di Governo, registro n. 4, foglio n. 4. - SCIARRETTA
 
 Art. 1
 ------
@@ -70,7 +16,8 @@ Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio de
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -78,25 +25,52 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 101 - il settimo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in neurologia e' stabilito in diciannove per ogni anno di corso (totale settantasei iscritti).  
-Art. 102 - il settimo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in psichiatria e' stabilito in quindici per ogni anno di corso (totale sessanta iscritti).  
-L'art. 130 e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in igiene e medicina preventiva e' stabilito in trentacinque per ogni anno di corso (totale centocinque iscritti).  
-Art. 137 - il primo comma e modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in malattie dell'apparato cardiovascolare e' stabilito in quindici per ogni anno di corso (totale quarantacinque iscritti).  
-Art. 142 - all'elenco degli insegnamenti del 3° anno di corso della scuola di specializzazione in oncologia e' aggiunto quello di "Radiologia" (diagnostica e terapia dei tumori).  
-L'art. 179 e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in medicina interna e' stabilito in trenta per ogni anno di corso (totale centocinquanta iscritti).  
-Art. 222 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in tossicologia medica e' stabilito in dodici per ogni anno di corso (totale trentasei iscritti).  
-Art. 224 - il primo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio e' stabilito in quindici per ogni anno di corso (totale quarantacinque iscritti).  
+Art. 42. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: "Neurochirurgia".  
+Gli articoli 200, 201, 202, 203, 204, 205, 206, 207, 208 e 209 relativi alla scuola speciale per tecnici di istituti medico-biologici sono abrogati e sostituiti dai seguenti:  
+  
+Scuola per tecnici di istituti medico-biologici  
+(Scuola diretta a fini speciali)  
+  
+Art. 241 (gia' 200). - E' istituita presso l'Universita' di Pavia una scuola ad indirizzo essenzialmente pratico diretta a preparare personale tecnico per gli istituti e laboratori medico-biologici. Il direttore della scuola viene nominato dal rettore su proposta della facolta' di medicina e chirurgia.  
+Gli insegnanti della scuola sono proposti dal direttore che puo' sceglierli fra i professori di ruolo, fra i liberi docenti, fra gli aiuti ed assistenti.  
+Il consiglio della scuola si compone di tutti i professori che tengono gli insegnamenti prescritti ed e' presieduto dal direttore.  
+Art. 242 (gia' 201). - La scuola prende il nome di "Scuola per tecnici di istituti medico-biologici", ha la durata di due anni e conferisce il diploma di "tecnico di istituti medico-biologici", ne e' titolo di ammissione la maturita' classica, scientifica, l'abilitazione magistrale e di istituti tecnici. La facolta' udito il consiglio della scuola puo' concedere un abbreviamento di corso non superiore ad un anno a quegli iscritti che si presentino gia' forniti di notevoli titoli di riconosciuto valore.  
+Art. 243 (gia' 202). - Gli aspiranti all'iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova orale di cultura generale ed in una prova orale di conoscenza di una lingua straniera moderna, scelta tra l'inglese, il francese ed il tedesco.  
+Art. 244 (gia' 203). - Alla scuola non sono ammessi piu' di venti allievi. Qualora le domande di iscrizione fossero in numero superiore la direzione della scuola si riserva di provvedere ad una scelta in base ai risultati dell'esame di ammissione.  
+Art. 245 (gia' 204). - Il corso comprende lezioni tecniche ed esercitazioni pratiche. Le materie di insegnamento sono le seguenti: 1° Anno:  
+Anatomia e istologia;  
+Chimica generale e biochimica;  
+Fisiologia;  
+Farmacologia.  
+2° Anno:  
+Microbiologia;  
+Anatomia patologica;  
+Patologia.  
+Le esercitazioni pratiche comprendono.  
+1° Anno:  
+Tecnica istologica, istochimica, cultura in vitro, microscopia elettronica;  
+Tecnica biochimica;  
+Prove biologiche (di fisiologia e di farmacologia).  
+2° Anno:  
+Tecnica microbiologica;  
+Istologia patologica;  
+Analisi cliniche.  
+Art. 246 (gia' 205). - E' fatto obbligo agli allievi di frequentare le lezioni teoriche e le esercitazioni: queste ultime in forma di tirocinio pratico della durata non inferiore a mesi due consecutivi presso un istituto universitario ad indirizzo biologico o clinico.  
+Art. 247 (gia' 206). - Alla fine di ogni anno di corso gli allievi devono sostenere un esame sulle materie di insegnamento. Nel caso in cui i candidati non abbiano superato gli esami prescritti, essi rimarranno nella posizione di "fuori corso" fino a quando non avranno assolto tutti gli obblighi di cui sopra.  
+Art. 248 (gia' 207). - A conclusione dei loro studi gli allievi devono sostenere un esame di diploma che consiste nella discussione di una dissertazione scritta su argomento che a scelta del candidato potra' essere biologico o clinico e nella esecuzione di una prova pratica di laboratorio.  
+Art. 249 (gia' 208). - I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola. Se al secondo esame non venga loro riconosciuta la idoneita', essi saranno senz'altro esclusi da ulteriori prove.  
+Art. 250 (gia' 209). - Gli iscritti sono tenuti al pagamento di tasse, sopratasse e contributi annuali approvati dal consiglio di amministrazione su proposta della facolta' di medicina e chirurgia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 febbraio 1974
+### Dato a Roma, addi' 31 ottobre 1968
 
-LEONE MALFATTI
+SARAGAT SCAGLIA
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 1 giugno 1974
+Registrato alla Corte dei conti, addi' 2 gennaio 1969
 
-Atti di Governo, registro n. 4, foglio n. 4. - SCIARRETTA
+Atti del Governo, registro n. 224, foglio n. 117. - GRECO

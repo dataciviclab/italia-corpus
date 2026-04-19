@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1984 n. 290
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 905
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1984 n. 290
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 905
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
@@ -39,19 +39,30 @@ Articolo unico
 --------------
 
   
-Nell'art. 50, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-chirurgia sostitutiva dei trapianti d'organo e di organi artificiali.  
+Nell'art. 48, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+anestesia sperimentale;  
+chirurgia neonatale;  
+fisiopatologia medica;  
+fisiopatologia e terapia del dolore;  
+medicina nucleare;  
+medicina subacquea e iperbarica;  
+nefrologia medica;  
+neurofisiopatologia;  
+neuropsico-farmacologia;  
+neuroradiologia;  
+patologia urologica;  
+radiologia sperimentale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 febbraio 1984
+### Dato a Roma, addi' 26 aprile 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 26 giugno 1984
+Registrato alla Corte dei conti, addi' 30 gennaio 1984
 
-Registro n. 39 Istruzione, foglio n. 28
+Registro n. 4 Istruzione, foglio n. 393

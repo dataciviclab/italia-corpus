@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1977 n. 86
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 marzo 1978 n. 519
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1977 n. 86
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 marzo 1978 n. 519
+============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-86. Decreto del Presidente della Repubblica 21 gennaio 1977, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal dott. Francesco Ambrosoli, con atto 24 settembre 1974, n. 40712 di repertorio, a rogito notaio Achille Pedraglio, di un appezzamento di terreno di mq 1500, sito in comune di Ronago (Como).  
+519. Decreto del Presidente della Repubblica 23 marzo 1978, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Rimini con atto 18 febbraio 1976, n. 187094 di repertorio, a rogito notaio Ulisse Pizzi, di un appezzamento di terreno della superficie catastale di mq 31.189 e reale di mq 31.140, occorso per la costruzione del nuovo carcere giudiziario (casa circondariale).  
   
 Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 26 marzo 1977  
-Registro n. 15 Finanze, foglio n. 323
+Registrato alla Corte dei conti, addi' 22 giugno 1978  
+Registro n. 25 Finanze, foglio n. 202

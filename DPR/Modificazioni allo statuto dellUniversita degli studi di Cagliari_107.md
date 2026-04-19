@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1964 n. 101
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1257
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1964 n. 101
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1257
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
@@ -12,31 +12,99 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Cagliari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 23. - Agli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti quelli di: "Diritto bancario" e "Sociologia".  
+  
+Dopo l'art. 228, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in ortopedia.  
+  
+Scuola di specializzazione in ortopedia  
+  
+Art. 229. - La scuola di specializzazione in ortopedia ha sede presso l'istituto di clinica ortopedica e conferisce il diploma di specializzazione in ortopedia. Direttore della scuola e' un professore ordinario dell'istituto di clinica ortopedica.  
+Il corso ha durata di cinque anni.  
+Potranno essere ammessi alla scuola soltanto i laureati in medicina e chirurgia.  
+Il numero degli iscritti non potra' superare il numero di venti complessivamente.  
+Art. 230. - La frequenza e' obbligatoria nell'istituto sede della scuola, per un periodo di almeno dieci mesi per anno accademico. E' in facolta' del direttore della scuola di concedere una deroga a tale norma solo agli iscritti alla scuola che facciano parte di cliniche ortopediche che non abbiano la scuola di specializzazione o che siano assistenti di ruolo in divisioni di ortopedia e traumatologia di ospedali regionali o provinciali; per queste due categorie di iscritti il periodo di frequenza presso l'istituto sede della scuola, puo' essere ridotto fino a non meno di un mese ogni anno.  
+Per nessun motivo sono ammesse abbreviazioni alla durata degli studi. Gli insegnamenti si svolgeranno con indirizzo prevalentemente pratico e dimostrativo, ma per ogni singola materia di insegnamento dovra' anche svolgersi un corso regolare di lezioni, il cui numero verra' fissato nell'allegato piano idi studio.  
+Art. 231. - Il piano di studi della scuola di specializzazione in ortopedia e' il seguente:  
+1° Anno:  
+Insegnamento pratico:  
+chirurgia generale;  
+pronto soccorso generale;  
+fisioterapia.  
+Insegnamento teorico:  
+anatomia dell'apparato locomotore;  
+fisiologia dell'apparato locomotore;  
+semeiotica ortopedica;  
+nozioni di chirurgia generale;  
+bioingegneria dell'apparato locomotore I.  
+2° Anno:  
+Insegnamento pratico:  
+chirurgia generale (con frequenza eventuale in reparti specialistici interessanti per l'apparato locomotore);  
+reparti di pronto soccorso traumatologico;  
+reparti di ortopedia e traumatologia.  
+Insegnamento teorico:  
+anatomia e istologia patologica dell'apparato locomotore I;  
+patologia dell'apparato locomotore I;  
+clinica ortopedica I;  
+traumatologia dell'apparato locomotore I;  
+radiologia I;  
+nozioni di chirurgia d'urgenza e p.s.;  
+bioingegneria dell'apparato locomotore II.  
+3° Anno:  
+Insegnamento pratico:  
+reparti di ortopedia e traumatologia (in particolare sale di degenza e sale gessi).  
+Insegnamenti teorici:  
+anatomia e istologia patologica dell'apparato locomotore II; patologia dell'apparato locomotore II;  
+clinica ortopedica II;  
+traumatologia dell'apparato locomotore II;  
+radiologia II;  
+tecnica operatoria I;  
+apparatoterapia e tecnica degli apparecchi gessati;  
+elementi di reumatologia.  
+4° Anno:  
+Insegnamento pratico:  
+reparti di ortopedia e traumatologia (frequenza nei reparti operatori).  
+Insegnamenti teorici:  
+patologia dell'apparato locomotore III;  
+clinica ortopedica III;  
+traumatologia dell'apparato locomotore III;  
+tecnica operatoria II;  
+fisiokinesiterapia;  
+neuropatologia dell'apparato locomotore ed elettrodiagnostica;  
+nozioni di medicina legale.  
+5° Anno:  
+Insegnamento pratico:  
+reparti di ortopedia e traumatologia (frequenza nei reparti operatori);  
+officine ortopediche.  
+Insegnamenti teorici:  
+patologia dell'apparato locomotore IV;  
+clinica ortopedica IV;  
+traumatologia dell'apparato locomotore IV;  
+tecnica operatoria III;  
+fisioterapia.  
+Art. 232. - Gli esami si svolgeranno per singole materie. Gli esami di clinica ortopedica e traumatologica, di tecnica operatoria cruenta ed incruenta ortopedica e traumatologica, di radiodiagnostica, saranno teorici e pratici. Per l'ammissione al corso successivo e' obbligatorio il superamento degli esami delle materie di ciascun corso.  
+Per l'ammissione all'esame di diploma il candidato dovra' presentare una tesi a stampa o dattiloscritta su un argomento della specialita'.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 febbraio 1964
+### Dato a Roma, addi' 31 ottobre 1977
 
-SEGNI GUI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 13 marzo 1961
+Registrato alla Corte dei conti, addi' 4 agosto 1978
 
-Atti del Governo, registro n. 182, foglio n. 16. - VILLA
+Registro n. 88 Istruzione, foglio n. 2

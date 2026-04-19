@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 febbraio 1970 n. 278
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 febbraio 1970 n. 302
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 febbraio 1970 n. 278
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 febbraio 1970 n. 302
 ===============================================================
 
 Autorizzazione all'Istituto nazionale per l'addestramento e per il perfezionamento del lavoratori dell'industria, con sede in Roma, ad acquistare un complesso immobiliare.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-278. Decreto del Presidente della Repubblica 19 febbraio 1970, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Istituto nazionale per l'addestramento e per il perfezionamento dei lavoratori dell'industria (INAPLI), con sede in Roma, viene autorizzato ad acquistare un compendio immobiliare, intestato ad Aldo Bramerini, ubicato in Arcidosso (Grosseto) della superficie di are 28,70 riportato in catasto alla partita n. 5153, foglio di mappa n. 43 particella 288, reddito dominicale L. 36,74, reddito agrario L. 27,26, sul quale insiste un fabbricato ad un piano della superficie coperta di circa mq. 600, alle condizioni ed agli effetti specificati nel decreto di trasferimento di immobile del [tribunale di Grosseto, ivi registrato il 2 dicembre 1964 al n. 554](https://e-justice.europa.eu/ecli/ECLI::::) Mod. III.  
+302. Decreto del Presidente della Repubblica 19 febbraio 1970, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Istituto nazionale per l'addestramento e per il perfezionamento dei lavoratori dell'industria (INAPLI), con sede in Roma, viene autorizzato ad acquistare dai signori Alfredo e Alberto Guido e Antonio e Giuseppe Raho, tre appezzamenti di terreno, dell'estensione complessiva di mq. 16.820, siti in Lecce e riportati in catasto alla pagina 12941, fol. 211, particella 677, 761, 68/d; alla pagina 7695, fol. 211, particella 678, 679, 69/b e pagina 9386, fol. 211, particella 69/a alle condizioni ed agli effetti specificati nell'atto pubblico di compravendita per notar Bruno Franco, repertorio n. 46067, raccolta n. 6630, del 13 dicembre 1962.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 14 maggio 1970  
-Atti del Governo, registro n. 235, foglio n. 88. - CARUSO
+Registrato alla Corte dei conti, addi' 18 maggio 1970  
+Atti del Governo, registro n. 235, foglio n. 100. - CARUSO

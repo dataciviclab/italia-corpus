@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1101
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1967 n. 132
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1101
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1967 n. 132
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
@@ -10,15 +10,17 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,167 +32,88 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 174, relativo all'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia, e' modificato nel senso che la scuola in "Pediatria" muta denominazione in quella di "Clinica pediatrica".
+Art. 49. - L'elenco degli Istituti annessi alla Facolta' di agraria e' modificato nel senso che il primo e secondo comma sono abrogati e sostituiti dai seguenti:
 
-Allo stesso elenco e' aggiunta la scuola di specializzazione in "Malattie dell'apparato digerente".
+1) Istituto di anatomia e fisiologia degli animali domestici, cui fanno capo gli insegnamenti di: "Anatomia e fisiologia degli animali domestici" e "Zoognostica".
 
-L'art. 188 relativo alla scuola di specializzazione in pediatria e' abrogato e sostituito dal seguente:
+2) Istituto di entomologia agraria, cui fanno capo gli insegnamenti di "Entomologia agraria" e "Zoologia generale".
 
-Scuola di specializzazione in clinica pediatrica
+Art. 56. - All'elenco degli insegnamenti complementari del corso di laurea in Filosofia e' aggiunto quello di:
 
-Art. 188. - La scuola e' annessa all'istituto di clinica pediatrica. Il corso della scuola ha la durata di tre anni.
+20) Pedagogia sociale.
 
-Alla scuola si accede per concorso per esami e per titoli.
+Art. 104, relativo al Seminario di studi chimici presso la Facolta' di scienze matematiche, fisiche e naturali e' abrogato e sostituito dal seguente:
 
-Il numero degli iscritti e' stabilito in venti per l'intero corso.
+Organo direttivo del Seminario di studi chimici e' un Comitato costituito da tutti i professori di ruolo delle discipline chimiche della Facolta' di scienze.
 
-L'internato e' obbligatorio con non piu' di due mesi di ferie all'anno.
+Il Comitato direttivo puo' cooptare all'unanimita' professori di materie chimiche di altre Facolta'. Questi vengono in tal modo a far parte del Comitato direttivo a parita' di diritti.
 
-L'iscrizione al secondo anno del corso puo' essere consentito, a giudizio del consiglio della scuola, per i candidati che abbiano conseguito il diploma di specializzazione in puericultura o che abbiano titoli pediatrici.
+Il Comitato nomina nel suo seno un direttore del Seminario, che durera' in carica un anno accademico.
 
-Le materie di insegnamento sono:
+Art. 117, relativo al corso di laurea di Ingegneria civile - Sezione edile, gli insegnamenti del gruppo c) materie a scelta dello studente (obbligatorio uno dei due gruppi) sono abrogati e sostituiti dai seguenti:
 
-1° Anno:
+| 20. Cantieri edili;
 
-1) Clinica pediatrica I;
+I <
 
-2) Patologia pediatrica II
+| 21. Igiene applicata.
 
-3) Puericultura 1;
+| 20. Tecnologie dei materiali edili;
 
-4) Semeiotica pediatrica e tecnica diagnostica I;
+II <
 
-5) Auxologia normale e patologica;
+| 21. Tecnologie della produzione.
 
-6) Psicologia dell'eta' evolutiva.
+Art. 120.- Nel corso di laurea in Ingegneria elettrotecnica l'insegnamento obbligatorio sul piano nazionale di "Elettrotecnica I" e' soppresso e sostituito da quello di "Elettrotecnica".
 
-2° Anno:
+Nello stesso corso di laurea l'insegnamento obbligatorio sul piano della Facolta' di "Elettrotecnica. II" e' soppresso e sostituito da quello di "Complementi di elettrotecnica".
 
-1) Clinica pediatrica II;
+Nel gruppo c) di materie a scelta dello studente del predetto corso di laurea, l'insegnamento di "Misure elettriche III" (\*) per l'orientamento elettromeccanico e' soppresso e sostituito da quello di "Collaudi elettrici".
 
-2) Patologia pediatrica II;
+Art. 121, relativo alle norme sulle propedeuticita' del triennio di Ingegneria e' modificato nel senso che gli insegnamenti di "Elettrotecnica I" e di "Elettrotecnica II" sono soppressi e sostituiti dai seguenti: "Elettrotecnica" e "Complementi di elettrotecnica".
 
-3) Puericultura II;
+Nello stesso articolo il nono e decimo comma sono abrogati e sostituiti dai seguenti:
 
-4) Semeiotica pediatrica e tecnica diagnostica II;
+Macchine elettriche: propedeutico per gli esami di Costruzioni elettromeccaniche, di Controlli automatici, di Impianti elettrici II, di Misure elettriche II e di Collaudi elettrici.
 
-5) Terapia pediatrica;
+Misure elettriche II: propedeutico per l'esame di Collaudi elettrici.
 
-6) Radiologia pediatrica;
+Dopo il decimo comma sono aggiunti i seguenti nuovi commi:
 
-7) Malattie infettive dell'infanzia.
+Fisica tecnica: propedeutico per l'esame di Macchine, Per ottenere l'iscrizione al quarto anno di corso lo studente deve aver superato l'esame di Elettrotecnica I.
 
-3° Anno:
+Per ottenere l'iscrizione al quinto anno di corso lo studente deve aver superato l'esame di Macchine elettriche.
 
-1) Clinica pediatrica III;
+Art. 122, relativo alle norme degli esami, nei corsi di laurea in Ingegneria, dopo il primo comma e' aggiunto il seguente: L'esame di Elettrotecnica I comporta anche una prova scritta.
 
-2) Neuropsichiatria ed igiene mentale dell'infanzia.
-
-Le materie fondamentali sopraelencate saranno integrate, a giudizio del consiglio della scuola, da almeno tre insegnamenti scelti tra i seguenti:
-
-Chirurgia pediatrica;
-
-Ortopedia e traumatologia infantile;
-
-Odontoiatria;
-
-Clinica dermosifilopatica;
-
-Clinica oculistica;
-
-Clinica otorinolaringoiatrica;
-
-Cardiologia;
-
-Genetica;
-
-ed altri eventuali che il consiglio della scuola puo' stabilire di anno in anno.
-
-Le modalita' di svolgimento e l'attribuzione ai vari anni di corso degli insegnamenti integrativi saranno fissate annualmente dal consiglio della scuola.
-
-Il direttore della scuola, inoltre, puo' disporre che si tengano un certo numero di conferenze su argomenti di interesse pediatrico.
-
-Per conseguire il diploma di specializzazione in pediatria gli iscritti al corso, dopo aver superato tutti gli esami e completata la frequenza obbligatoria, dovranno presentare e discutere una dissertazione scritta su un argomento in pediatria.
-
-Dopo l'art. 223 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in malattie dell'apparato digerente.
-
-Scuola di specializzazione in malattie dell'apparato digerente
-
-Art. 224. - L'ammissione alla scuola avverra' un seguito a concorso per esami.
-
-La data del concorso verra' notificata nell'albo della scuola in tempo utile.
-
-Il numero complessivo degli specializzandi nella scuola non puo' essere superiore a dodici.
-
-La durata del corso e' di quattro anni.
-
-Non sono ammesse abbreviazioni di corso.
-
-La scuola ha sede presso l'istituto di patologia speciale medica e metodologia clinica.
-
-Gli iscritti alla scuola hanno l'obbligo di internato, di frequenza alle lezioni, alle conferenze speciali ed alle esercitazioni.
-
-Gli insegnamenti fondamentali sono i seguenti:
-
-1° Anno:
-
-Anatomia patologica;
-
-Fisiopatologia;
-
-Chimica clinica;
-
-Semeiotica fisica e strumentale (1° corso);
-
-Clinica medica (1° corso).
-
-2° Anno:
-
-Semeiotica fisica e strumentale (2° corso);
-
-Semeiotica radiologica;
-
-Malattie del tubo digerente;
-
-Clinica medica (2° corso).
-
-3° Anno:
-
-Malattie del fegato e del pancreas;
-
-Clinica medica (3° corso).
-
-4° Anno:
-
-Tirocinio pratico da svolgersi, da parte degli specializzandi, presso l'istituto presso il quale ha sede la scuola.
-
-L'esame di diploma di specializzazione consiste nella discussione di una dissertazione scritta su argomento precedentemente concordato con il direttore della scuola.
+Nello stesso articolo l'ultimo comma e' abrogato e sostituito dal seguente: l'esame di laurea consistera' nella discussione di un progetto particolare presentato come tesi.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1969
+Dato a Roma, addi' 16 febbraio 1967
 
 SARAGAT
 
-FERRARI AGGRADI
+GUI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 23 gennaio 1970 Atti del Governo, registro n. 231, foglio n. 57. - CARUSO
+alla Corte dei conti, addi' 23 marzo 1967 Atti del Governo, registro n. 210, foglio n. 52. - GRECO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -198,89 +121,46 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 174, relativo all'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia, e' modificato nel senso che la scuola in "Pediatria" muta denominazione in quella di "Clinica pediatrica".  
-Allo stesso elenco e' aggiunta la scuola di specializzazione in "Malattie dell'apparato digerente".  
-L'art. 188 relativo alla scuola di specializzazione in pediatria e' abrogato e sostituito dal seguente:  
+Art. 49. - L'elenco degli Istituti annessi alla Facolta' di agraria e' modificato nel senso che il primo e secondo comma sono abrogati e sostituiti dai seguenti:  
+1) Istituto di anatomia e fisiologia degli animali domestici, cui fanno capo gli insegnamenti di: "Anatomia e fisiologia degli animali domestici" e "Zoognostica".  
+2) Istituto di entomologia agraria, cui fanno capo gli insegnamenti di "Entomologia agraria" e "Zoologia generale".  
+Art. 56. - All'elenco degli insegnamenti complementari del corso di laurea in Filosofia e' aggiunto quello di:  
+20) Pedagogia sociale.  
+Art. 104, relativo al Seminario di studi chimici presso la Facolta' di scienze matematiche, fisiche e naturali e' abrogato e sostituito dal seguente:  
+Organo direttivo del Seminario di studi chimici e' un Comitato costituito da tutti i professori di ruolo delle discipline chimiche della Facolta' di scienze.  
+Il Comitato direttivo puo' cooptare all'unanimita' professori di materie chimiche di altre Facolta'. Questi vengono in tal modo a far parte del Comitato direttivo a parita' di diritti.  
+Il Comitato nomina nel suo seno un direttore del Seminario, che durera' in carica un anno accademico.  
+Art. 117, relativo al corso di laurea di Ingegneria civile - Sezione edile, gli insegnamenti del gruppo c) materie a scelta dello studente (obbligatorio uno dei due gruppi) sono abrogati e sostituiti dai seguenti:  
+| 20. Cantieri edili;  
+I <  
+| 21. Igiene applicata.  
+| 20. Tecnologie dei materiali edili;  
+II <  
+| 21. Tecnologie della produzione.  
   
-Scuola di specializzazione in clinica pediatrica  
-  
-Art. 188. - La scuola e' annessa all'istituto di clinica pediatrica. Il corso della scuola ha la durata di tre anni.  
-Alla scuola si accede per concorso per esami e per titoli.  
-Il numero degli iscritti e' stabilito in venti per l'intero corso.  
-L'internato e' obbligatorio con non piu' di due mesi di ferie all'anno.  
-L'iscrizione al secondo anno del corso puo' essere consentito, a giudizio del consiglio della scuola, per i candidati che abbiano conseguito il diploma di specializzazione in puericultura o che abbiano titoli pediatrici.  
-Le materie di insegnamento sono:  
-1° Anno:  
-1) Clinica pediatrica I;  
-2) Patologia pediatrica II  
-3) Puericultura 1;  
-4) Semeiotica pediatrica e tecnica diagnostica I;  
-5) Auxologia normale e patologica;  
-6) Psicologia dell'eta' evolutiva.  
-2° Anno:  
-1) Clinica pediatrica II;  
-2) Patologia pediatrica II;  
-3) Puericultura II;  
-4) Semeiotica pediatrica e tecnica diagnostica II;  
-5) Terapia pediatrica;  
-6) Radiologia pediatrica;  
-7) Malattie infettive dell'infanzia.  
-3° Anno:  
-1) Clinica pediatrica III;  
-2) Neuropsichiatria ed igiene mentale dell'infanzia.  
-Le materie fondamentali sopraelencate saranno integrate, a giudizio del consiglio della scuola, da almeno tre insegnamenti scelti tra i seguenti:  
-Chirurgia pediatrica;  
-Ortopedia e traumatologia infantile;  
-Odontoiatria;  
-Clinica dermosifilopatica;  
-Clinica oculistica;  
-Clinica otorinolaringoiatrica;  
-Cardiologia;  
-Genetica;  
-ed altri eventuali che il consiglio della scuola puo' stabilire di anno in anno.  
-Le modalita' di svolgimento e l'attribuzione ai vari anni di corso degli insegnamenti integrativi saranno fissate annualmente dal consiglio della scuola.  
-Il direttore della scuola, inoltre, puo' disporre che si tengano un certo numero di conferenze su argomenti di interesse pediatrico.  
-Per conseguire il diploma di specializzazione in pediatria gli iscritti al corso, dopo aver superato tutti gli esami e completata la frequenza obbligatoria, dovranno presentare e discutere una dissertazione scritta su un argomento in pediatria.  
-Dopo l'art. 223 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in malattie dell'apparato digerente.  
-  
-Scuola di specializzazione in malattie dell'apparato digerente  
-  
-Art. 224. - L'ammissione alla scuola avverra' un seguito a concorso per esami.  
-La data del concorso verra' notificata nell'albo della scuola in tempo utile.  
-Il numero complessivo degli specializzandi nella scuola non puo' essere superiore a dodici.  
-La durata del corso e' di quattro anni.  
-Non sono ammesse abbreviazioni di corso.  
-La scuola ha sede presso l'istituto di patologia speciale medica e metodologia clinica.  
-Gli iscritti alla scuola hanno l'obbligo di internato, di frequenza alle lezioni, alle conferenze speciali ed alle esercitazioni.  
-Gli insegnamenti fondamentali sono i seguenti:  
-1° Anno:  
-Anatomia patologica;  
-Fisiopatologia;  
-Chimica clinica;  
-Semeiotica fisica e strumentale (1° corso);  
-Clinica medica (1° corso).  
-2° Anno:  
-Semeiotica fisica e strumentale (2° corso);  
-Semeiotica radiologica;  
-Malattie del tubo digerente;  
-Clinica medica (2° corso).  
-3° Anno:  
-Malattie del fegato e del pancreas;  
-Clinica medica (3° corso).  
-4° Anno:  
-Tirocinio pratico da svolgersi, da parte degli specializzandi, presso l'istituto presso il quale ha sede la scuola.  
-L'esame di diploma di specializzazione consiste nella discussione di una dissertazione scritta su argomento precedentemente concordato con il direttore della scuola.  
+Art. 120.- Nel corso di laurea in Ingegneria elettrotecnica l'insegnamento obbligatorio sul piano nazionale di "Elettrotecnica I" e' soppresso e sostituito da quello di "Elettrotecnica".  
+Nello stesso corso di laurea l'insegnamento obbligatorio sul piano della Facolta' di "Elettrotecnica. II" e' soppresso e sostituito da quello di "Complementi di elettrotecnica".  
+Nel gruppo c) di materie a scelta dello studente del predetto corso di laurea, l'insegnamento di "Misure elettriche III" (\*) per l'orientamento elettromeccanico e' soppresso e sostituito da quello di "Collaudi elettrici".  
+Art. 121, relativo alle norme sulle propedeuticita' del triennio di Ingegneria e' modificato nel senso che gli insegnamenti di "Elettrotecnica I" e di "Elettrotecnica II" sono soppressi e sostituiti dai seguenti: "Elettrotecnica" e "Complementi di elettrotecnica".  
+Nello stesso articolo il nono e decimo comma sono abrogati e sostituiti dai seguenti:  
+Macchine elettriche: propedeutico per gli esami di Costruzioni elettromeccaniche, di Controlli automatici, di Impianti elettrici II, di Misure elettriche II e di Collaudi elettrici.  
+Misure elettriche II: propedeutico per l'esame di Collaudi elettrici.  
+Dopo il decimo comma sono aggiunti i seguenti nuovi commi:  
+Fisica tecnica: propedeutico per l'esame di Macchine, Per ottenere l'iscrizione al quarto anno di corso lo studente deve aver superato l'esame di Elettrotecnica I.  
+Per ottenere l'iscrizione al quinto anno di corso lo studente deve aver superato l'esame di Macchine elettriche.  
+Art. 122, relativo alle norme degli esami, nei corsi di laurea in Ingegneria, dopo il primo comma e' aggiunto il seguente: L'esame di Elettrotecnica I comporta anche una prova scritta.  
+Nello stesso articolo l'ultimo comma e' abrogato e sostituito dal seguente: l'esame di laurea consistera' nella discussione di un progetto particolare presentato come tesi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1969
+### Dato a Roma, addi' 16 febbraio 1967
 
-SARAGAT FERRARI AGGRADI
+SARAGAT GUI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 23 gennaio 1970
+Registrato alla Corte dei conti, addi' 23 marzo 1967
 
-Atti del Governo, registro n. 231, foglio n. 57. - CARUSO
+Atti del Governo, registro n. 210, foglio n. 52. - GRECO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1986 n. 255
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 febbraio 1983 n. 224
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1986 n. 255
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 febbraio 1983 n. 224
+===============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Lecce.
 -----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Lecce.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Lecce, approvato con [decreto del Presidente della Repubblica, 2 giugno 1968, n. 1200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-06-02;1200), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Lecce, approvato con [decreto del Presidente della Repubblica 22 giugno 1968, n. 1200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-06-22;1200), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -24,7 +24,7 @@ Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http:
 
 Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata [legge n. 615/1981](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;615);
 
 Veduto il parere del Consiglio universitario nazionale;
 
@@ -39,21 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 15, relativo al corso di laurea in filosofia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-storia della filosofia italiana.  
+Nell'art. 24, relativo al corso di laurea in materie letterarie, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+sociologia dell'arte e della letteratura.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 gennaio 1986
+### Dato a Roma, addi' 9 febbraio 1983
 
-COSSIGA
+PERTINI FALCUCCI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DARIDA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 19 maggio 1983
 
-Registrato alla Corte dei conti, addi' 30 maggio 1986
-
-Registro n. 44 Istruzione, foglio n. 292
+Registro n. 36 Istruzione, foglio n. 62

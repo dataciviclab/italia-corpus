@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 luglio 1949 n. 794
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1949 n. 314
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 luglio 1949 n. 794
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1949 n. 314
+============================================================
 
 Autorizzazione all'Universita' di Bologna ad accettare una donazione.
 ---------------------------------------------------------------------
@@ -12,7 +12,7 @@ Art. 1
 
 N.
 
-794. Decreto del Presidente della Repubblica 17 luglio 1949, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Bologna viene autorizzata ad accettare la donazione della somma di L. 40.000 nominali, in titoli di Rendita italiana 5%, disposta in suo favore dalla ditta G. Battistini e C., con atto pubblico in data 23 marzo 1946, per l'istituzione di un premio di studio triennale da intitolarsi "Premio Annibale Battistini", a favore di laureati in farmacia.  
+314. Decreto del Presidente della Repubblica 18 marzo 1949, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Bologna viene autorizzata ad accettare la donazione della, somma di L. 300.000 nominali, in buoni del Tesoro 5%, disposta in suo favore, con atto pubblico in data 14 novembre 1946, dalla famiglia ed amici del defunto industriale Francesco Pecori e dalle maestranze e impiegati della S. A. Conserve Pecori, per l'istituzione di una borsa di studio da intitolarsi al nome di "Francesco Pecori" e da conferirsi a studenti universitari figli di dipendenti della predetta Societa' immatricolati nell'Universita' di Bologna.  
   
 Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 26 ottobre 1949
+Registrato alla Corte dei conti, addi' 11 giugno 1949

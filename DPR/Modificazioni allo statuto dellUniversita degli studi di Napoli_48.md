@@ -1,153 +1,54 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1972 n. 199
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 marzo 1963 n. 636
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1972 n. 199
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 marzo 1963 n. 636
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla
------
-
-proposta del Ministro per la pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Presso l'Universita' degli studi di Napoli e' istituita la facolta' di scienze politiche, a decorrere dall'anno accademico 1972-73.  
-L'attuale corso di laurea in scienze politiche, annesso alla facolta' di giurisprudenza della stessa universita', passa a far parte della nuova facolta' di scienze politiche.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1632](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1632), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Per tale facolta' sono assegnati i seguenti posti di ruolo:  
-a) tre posti di professore mediante trasferimento dall'organico di cui e' dotata la facolta' di giurisprudenza della stessa Universita' di Napoli e propriamente i posti assegnati alle cattedre di diritto costituzionale italiano e comparato, di istituzioni di diritto e procedura penale e di diritto tributario.  
-I titolari dei predetti posti di professore di ruolo di diritto costituzionale italiano e comparato, di istituzioni di diritto e procedura penale e di diritto tributario sono contemporaneamente trasferiti alla stessa facolta' di scienze politiche.  
-b) tre posti di assistente mediante trasferimento dall'organico di cui e' dotata la facolta' di giurisprudenza della stessa Universita' di Napoli e propriamente i posti assegnati alle cattedre di diritto costituzionale italiano e comparato, di istituzioni di diritto e procedura penale e di diritto tributario.  
-
-Art. 3
-------
-
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come dal testo annesso al presente decreto, vistato dal Ministro per la pubblica istruzione, contenente le norme relative all'ordinamento del corso di studi per il conseguimento della laurea in scienze politiche.  
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Dopo l'art. 38, e con il conseguente spostamento della successiva numerazione, sono aggiunti i seguenti nuovi articoli relativi alla costituzione dell'Istituto di diritto amministrativo e scienza dell'amministrazione.  
+Art. 39. - E' costituito presso la Facolta' di giurisprudenza l'Istituto di diritto amministrativo e scienza dell'amministrazione.  
+L'Istituto raggruppa le cattedre di: Diritto amministrativo;  
+Contabilita' di Stato; Scienza e tecnica della organizzazione amministrativa; Diritto processuale amministrativo; Diritto degli Enti locali.  
+Art. 40. - L'Istituto ha il fine di promuovere e coordinare l'insegnamento e la ricerca del campo delle discipline che ad esso fanno capo.  
+A tale scopo disporra' di una biblioteca specializzata che, coordinata con quella della Facolta', funzionera' come una filiazione di essa.  
+L'Istituto organizza corsi di informazione e di aggiornamento, congressi, e cicli di conferenze. Provvede altresi' a curare pubblicazioni e raccolte di materiale didattico e scientifico.  
+Art. 41. - Direttore dell'Istituto e' di diritto il titolare della cattedra di Diritto amministrativo e, in caso di vacanza, chi lo sostituisce nell'insegnamento ufficiale di Diritto amministrativo.  
+Art. 42. - L'istituto utilizza il personale assegnato alle singole cattedre e quello che eventualmente gli fosse messo a disposizione dell'Amministrazione universitaria.  
+Art. 43. - Sono ammessi a frequentare l'Istituto gli studenti ed i laureati della Facolta'. Sono ammessi altresi', gli studenti ed i laureati di altre Facolta' che, in base a regolare domanda, ne ottengano l'autorizzazione dal direttore.  
+Art. 44. - Il direttore rilascia, su richiesta, allo iscritto che abbia frequentato con apprezzabili risultati l'istituto per almeno sei mesi, un attestato degli studi compiuti.  
+Art. 45. - L'Istituto potra' eventualmente disporre di borse di studio che verranno conferite dal Consiglio della Facolta' con le modalita' che da esso saranno stabilite ed in base alle disposizioni degli Enti pubblici e privati che abbiano concorso al finanziamento delle borse.  
+Art. 46. - Il regolamento interno dell'Istituto e' emanato dal direttore, ed approvato dal Consiglio della Facolta' di giurisprudenza.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 gennaio 1972
+### Dato a Roma, addi' 25 marzo 1963
 
-LEONE MISASI
+SEGNI GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 13 maggio 1972
+Registrato alla Corte dei conti, addi' 8 maggio 1963
 
-Atti del Governo, registro n. 249, foglio n. 3. - VALENTINI
-
-Allegato
-
-Testo delle modifiche dello statuto dell'Universita' degli studi di Napoli, relativo alla istituzione della facolta' di scienze politiche.   
-  
-Art. 9: all'elenco delle facolta' che comprende l'Universita' di Napoli e' aggiunta la seguente:   
-Facolta' di scienze politiche.   
-Art. 20: e' abrogato e sostituito dal seguente:   
-La facolta' di giurisprudenza conferisce la laurea in giurisprudenza.   
-Gli articoli da 30 a 55 relativi agli istituti della facolta' di giurisprudenza assumono la numerazione da 25 a 50.   
-Gli articoli da 25 a 29 sono soppressi.   
-Dopo l'art. 50 e con lo spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione della facolta' di scienze politiche.   
-  
-FACOLTA' DI SCIENZE POLITICHE   
-  
-Art. 51. - La facolta' di scienze politiche conferisce la laurea in scienze politiche. La durata del corso di studi per il conseguimento della laurea e' di quattro anni ed il titolo di ammissione e' quello richiesto dalla legge.   
-Art. 52. - Gli insegnamenti per il conseguimento della laurea in scienze politiche si articolano in un biennio propedeutico ed un biennio di specializzazione ordinato secondo i seguenti indirizzi:   
-a) politico-amministrativo;   
-b) politico-sociale.   
-Art. 53. - Biennio propedeutico.   
-Gli insegnamenti del biennio propedeutico, comuni ai due indirizzi, sono i seguenti:   
-a) Obbligatori sul piano nazionale:   
-1) Istituzioni di diritto pubblico;   
-2) Diritto costituzionale italiano e comparato;   
-3) Economia politica;   
-4) Statistica;   
-5) Sociologia;   
-6) Storia moderna.   
-b) Obbligatori sul piano della facolta':   
-7) Istituzioni di diritto privato;   
-8) Politica economica e finanziaria;   
-9) Storia delle dottrine politiche.   
-Lo studente potra' aggiungere ai nove insegnamenti del biennio propedeutico non piu' di tre insegnamenti obbligatori del biennio di specializzazione dell'indirizzo prescelto. Tali insegnamenti anticipati al biennio propedeutico vanno in detrazione dal numero degli insegnamenti del biennio di specializzazione.   
-Art. 54. - Biennio di specializzazione.   
-Gli insegnamenti del biennio di specializzazione dell'indirizzo politico-amministrativo sono i seguenti:   
-a) Obbligatori sul piano della facolta':   
-1) Diritto amministrativo;   
-2) Diritto finanziario;   
-3) Istituzioni di diritto e procedura penale;   
-4) Diritto internazionale;   
-5) Dottrina dello Stato.   
-b) A scelta dello studente:   
-6) Diritto ecclesiastico;   
-7) Scienza delle finanze;   
-8) Filosofia del diritto;   
-9) Storia contemporanea;   
-10) Diritto internazionale della navigazione;   
-11) Organizzazione sindacale e del lavoro;   
-12) Contabilita' di Stato;   
-13) Storia delle istituzioni dei paesi afro-asiatici;   
-14) Storia dei trattati e politica internazionale;   
-15) Diritto pubblico romano.   
-Gli insegnamenti del biennio di specializzazione dell'indirizzo politico-sociale sono i seguenti:   
-a) Obbligatori sul piano della facolta':   
-1) Diritto pubblico comparato;   
-2) Istituzioni di diritto penale;   
-3) Organizzazione economica internazionale;   
-4) Storia delle dottrine economiche.   
-b) A scelta dello studente:   
-5) Dottrina dello Stato;   
-6) Storia delle istituzioni dei paesi afro-asiatici;   
-7) Geografia politica ed economica;   
-8) Criminologia;   
-9) Demografia;   
-10) Diritto tributario;   
-11) Diritto regionale;   
-12) Legislazione sociale;   
-13) Statistica economica;   
-14) Storia dell'amministrazione pubblica;   
-15) Storia dell'economia.   
-Gli insegnamenti di diritto internazionale e di diritto costituzionale italiano e comparato sono comuni a quelli impartiti per il corso di laurea in giurisprudenza.   
-Gli insegnamenti a scelta dello studente non possono essere anticipati al biennio propedeutico.   
-Lo studente e' obbligato a frequentare i corsi ed a sostenere gli esami di almeno dieci materie stabilite nell'elenco dell'indirizzo prescelto.   
-Art. 55. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superati gli esami relativi ad almeno diciannove corsi annuali e quelli relativi a due lingue straniere scelte fra le seguenti:   
-Francese;   
-Inglese;   
-Tedesco;   
-Russo.   
-Art. 56. - Coloro che, forniti del titolo di studio richiesto, sono in possesso di una laurea o diploma di altra facolta', possono essere iscritti ad un anno successivo al primo, per decreto del rettore, udito il consiglio dei professori, tenuto conto dei corsi seguiti e degli esami superati. In ogni caso gli ammessi debbono superare gli esami prescritti per il conseguimento della nuova laurea, salvo quelli comuni superati per il conseguimento della precedente.   
-Art. 57. - Superato l'esame di laurea lo studente consegue il titolo di dottore in scienze politiche con l'indicazione dell'indirizzo prescelto.   
-  
-Visto, d'ordine del Presidente della Repubblica   
-  
-Il Ministro per la pubblica istruzione   
-MISASI   
+Atti del Governo, registro n. 169, foglio n. 12 - VILLA

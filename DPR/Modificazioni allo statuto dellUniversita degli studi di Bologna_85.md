@@ -1,133 +1,86 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 420
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 856
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 420
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 856
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Art. 106 - all'elenco degli insegnamenti complementari del corso di laurea in matematica sono aggiunti i seguenti insegnamenti:   
-equazioni differenziali;   
-geometria analitica;   
-istruzioni di algebra superiore;   
-sistemi per l'elaborazione dell'informazione;   
-teoria dei gruppi;   
-topologia algebrica.   
-Art. 107 - all'elenco degli insegnamenti complementari del corso di laurea in fisica sono aggiunti i seguenti insegnamenti:   
-didattica della fisica;   
-fisica degli stati condensati;   
-fisica dei metalli;   
-fisica dei semiconduttori;   
-fisica sanitaria;   
-meccanica dei continui;   
-teoria delle forze nucleari;   
-teoria dei campi.   
-Art. 116 - all'elenco degli insegnamenti complementari del corso di laurea in chimica si apportano le seguenti modifiche:   
+Decreta:  
   
-Indirizzo organico-biologico   
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Sono soppressi i seguenti insegnamenti:   
-farmacologia;   
-chimica delle fermentazioni;   
-chimica agraria;   
-scienza dell'alimentazione;   
-fisiologia generale e igiene del lavoro industriale;   
-chimica e analisi merceologica con esercitazioni;   
-biochimica generale;   
-storia della dottrina chimico-organica;   
-magnetochimica.   
-Sono aggiunti i seguenti insegnamenti:   
-meccanismi di reazione in chimica organica;   
-metodi fisici in chimica organica;   
-complementi di chimica organica;   
-chimica analitica clinica.   
+Dopo l'art. 520 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti articoli relativi alla istituzione della scuola di specializzazione in medicina dello sport.  
   
-Indirizzo inorganico-chimico-fisico   
+Scuola di specializzazione in medicina dello sport  
   
-Sono soppressi i seguenti insegnamenti:   
-idrologia chimica;   
-storia della dottrina chimico-inorganica;   
-strumentazione didattica da laboratorio;   
-chimica isotopica.   
-Sono aggiunti i seguenti insegnamenti:   
-analisi chimica spettroscopica;   
-termodinamica statistica;   
-meccanismi di reazione in chimica inorganica.   
-Art. 117 - all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti insegnamenti:   
-astronomia;   
-ecologia vegetale;   
-embriologia comparata;   
-etologia;   
-geologia ambientale;   
-laboratorio didattico delle scienze naturali;   
-paleobotanica;   
-paleontologia stratigrafica;   
-paleontologia dei vertebrati.   
-Art. 118 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti insegnamenti: metodologie biochimiche;   
-genetica vegetale;   
-ecologia umana;   
-biologia umana;   
-virologia;   
-palinologia;   
-storia della biologia;   
-fisiologia cellulare.   
-Art. 119 - all'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti insegnamenti: biostratigrafia e paleoecologia;   
-paleontologia stratigrafica;   
-geodinamica;   
-esplorazione geologica del sottosuolo;   
-geopedologia;   
-geomorfologia applicata;   
-mineralogia dei sedimenti;   
-metodologie mineralogiche-petrografiche;   
-geochimica applicata;   
-petrografia del sedimentario;   
-stratigrafia sismica;   
-geologia matematica.   
+Art. 521. - La scuola di specializzazione in medicina dello sport dell'Universita' degli studi di Bologna si propone:  
+a) di valorizzare e approfondire gli studi biologici e di medicina applicata nel campo delle attivita' sportive, formative e di competizione, e della educazione fisica;  
+b) di preparare adeguatamente sotto l'aspetto teorico e della pratica applicazione, i medici che intendono dedicarsi alle attivita' attinenti a questa particolare branca della medicina applicata, conferendo ad essi il diploma di "Specialisti in medicina dello sport".  
+Art. 522. - Il titolo richiesto per l'ammissione alla scuola e' la laurea in medicina e chirurgia.  
+Il corso di studi ha la durata di 3 anni, con frequenza obbligatoria, esso ha la sua sede ufficiale presso l'istituto di fisiologia umana. Gli insegnamenti clinici e specialistici si svolgeranno presso i rispettivi istituti clinici e specialistici.  
+La concessione di eventuali abbreviazioni del corso avverra' a insindacabile giudizio del consiglio dei docenti della scuola.  
+Il numero massimo degli allievi sara' di dodici per anno e complessivamente di trentasei per l'intero corso.  
+L'ammissione ai corsi avviene per titoli. Nel caso di domande eccedenti il numero di posti disponibili l'ammissione dei candidati aventi pari titoli e uguale data di presentazione della domanda, sara' regolata da prove di esami davanti a una commissione nominata dal consiglio dei docenti della scuola.  
+La direzione del corso e' affidata al direttore dell'istituto di fisiologia umana.  
+Art. 523. - L'ordine degli studi e' il seguente:  
+1° Anno:  
+Anatomia dell'apparato locomotore;  
+Biomeccanica applicata all'esercizio fisico;  
+Biochimica generale e applicata;  
+Antropometria e auxologia;  
+Storia, sistematica e tecnologia degli sport;  
+Istituzioni di psicologia generale e psicologia applicata agli sport;  
+Istituzioni di scienza della nutrizione e dietetica applicata alla attivita' sportiva.  
+2° Anno:  
+Anatomia degli apparati circolatorio, respiratorio e nervoso;  
+Fisiologia delle ossa, delle articolazioni e dei muscoli;  
+Biochimica ed energetica muscolare;  
+Valutazione funzionale dello sportivo e tecnica fisiologica;  
+Biofisica del muscolo (facoltativo);  
+Fisioterapia e rieducazione funzionale (facoltativo);  
+Farmacologia applicata all'attivita' sportiva (doping) (facoltativo);  
+Igiene e medicina preventiva applicata all'attivita' sportiva (facoltativo).  
+3° Anno:  
+Fisiologia del sistema nervoso motorio, della respirazione e della circolazione;  
+Educazione fisica e tecnica dell'allenamento sportivo;  
+Chirurgia d'urgenza, rianimazione e pronto soccorso;  
+Medicina legale ed infortunistica;  
+Traumatologia ed ortopedia dello sport;  
+Fisiopatologia degli sport (facoltativo);  
+Assistenza medico-sportiva nei grandi agglomerati urbani (facoltativo).  
+La scuola inoltre svolgera' brevi corsi integrativi di conferenze o seminari sopra argomenti e discipline che saranno stabiliti, secondo le possibilita' contingenti, dal consiglio dei docenti della scuola.  
+Saranno inoltre svolte esercitazioni pratiche in sede e sul campo.  
+Art. 524. - Gli esami annuali si svolgeranno per gruppo di materie, comprendenti discipline incluse nel piano di studio esposto nell'art. 523.  
+Il gruppo di materie comprende tutte le materie di insegnamento fondamentali e quelle facoltative scelte dal candidato, previste per ogni anno di corso.  
+L'iscrizione agli anni successivi e' subordinata al superamento di tutti gli esami annuali.  
+Art. 525. - Il diploma si consegue dopo aver superato tutte le prove di esami del triennio; la prova di diploma si svolge con la discussione su una dissertazione scritta concernente un tema assegnato o in ogni altro caso approvato dal direttore della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1984
+### Dato a Roma, addi' 4 agosto 1971
 
-PERTINI FALCUCCI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 20 luglio 1984
+Registrato alla Corte dei conti, addi' 18 ottobre 1971
 
-Registro n. 45 Istruzione, foglio n. 330
+Atti del Governo, registro n. 244, foglio n. 162. - CARUSO

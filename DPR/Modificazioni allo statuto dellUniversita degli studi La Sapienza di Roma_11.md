@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 331
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 401
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 331
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 401
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 ------------------------------------------------------------------------------
@@ -35,38 +35,27 @@ Decreta:
 
 Lo statuto dell'Universita' "La Sapienza" di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 1
-------
+Articolo unico
+--------------
 
   
-  
-Nell'art. 92, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:   
-medicina d'urgenza;   
-embriologia;   
-immunopatologia.   
-
-Art. 2
-------
-
-  
-  
-Nell'art. 104, relative al corso di laurea in chimica, all'elenco degli insegnamenti complementari e' aggiunto l'insegnamento di "chimica fisica delle interfasi".   
-Nell'art. 105, relative al corso di laurea in chimica industriale, all'elenco degli insegnamenti complementari e' aggiunto l'insegnante di "chimica fisica, delle interfasi".   
-Nell'art. 115, relativo al corso di laurea in scienze naturali, all'elenco degli insegnamenti complementari e' aggiunto l'insegnamento di "botanica sistematica".   
-Nell'art. 117, relativo al corso di laurea in scienze biologiche, all'elenco degli insegnamenti complementari e' aggiunto l'insegnamento di "botanica sistematica".   
+Art. 104 e art. 105 - nell'elenco degli insegnamenti complementari del corso di laurea in chimica ed in chimica industriale e' inserito il seguente insegnamento:  
+teoria degli elettroliti.  
+Art. 108 - nell'elenco degli insegnamenti complementari del corso di laurea in fisica sono inseriti i seguenti insegnamenti:  
+fisica dei metalli;  
+teoria dei campi.  
+Art. 119 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche e' inserito il seguente insegnamento: paleontologia stratigrafica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 marzo 1986
+### Dato a Roma, addi' 21 maggio 1983
 
-COSSIGA
+PERTINI FALCUCCI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DARIDA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 11 agosto 1983
 
-Registrato alla Corte dei conti, addi' 20 giugno 1986
-
-Registrato n. 49 Istruzione, foglio n. 240
+Registro n. 58 Istruzione, foglio n. 142

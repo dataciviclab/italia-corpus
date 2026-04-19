@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 272
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 agosto 1975 n. 535
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 272
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 agosto 1975 n. 535
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad ac
 Art. 1
 ------
 
-n.
+N.
 
-272. Decreto del Presidente della Repubblica 10 marzo 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella quota di 1/6 pari a L. 11.666.666 ricavata dalla vendita di un immobile sito in Bergamo, via Ghirardelli n. 12, del valore di L. 70.000.000, disposto dalla signora Angeloni Ida, vedova Mistri, a favore dell'istituto "Don Gnocchi", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione con testamento olografo 14 novembre 1980, pubblicato in data 19 ottobre 1981, n. 41760 di repertorio, a rogito dott. Gian Mario Grazioli, notaio in Bergamo, registrato a Bergamo in data 23 ottobre 1981 al n. 7260.  
+535. Decreto del Presidente della Repubblica 11 agosto 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato consistente nella somma di lire 3.000.000 disposto dal sig. Ennio Brandini in favore della fondazione stessa, collegio di Parma, con testamento olografo 29 dicembre 1971, pubblicato a rogito del notaio dott. Giovanni Bergonza in data 31 ottobre 1972, n. 50401 di repertorio, n. 1226 di raccolta, registrato a Parma il 20 novembre 1972 con il n. 4314, vol. 425.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 6 giugno 1986  
-Registro n. 5 Presidenza, foglio n. 86
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 29 ottobre 1975  
+Atti di Governo, registro n. 13, foglio n. 43

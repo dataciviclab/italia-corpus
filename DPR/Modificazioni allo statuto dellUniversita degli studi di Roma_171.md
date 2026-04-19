@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1955 n. 931
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1973 n. 1148
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1955 n. 931
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1973 n. 1148
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -12,11 +12,10 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con i [regi decreti 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-26;1734); [26 ottobre 1940, n. 2069](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2069); [4 maggio 1942, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-05-04;565); [24 luglio 1942, n. 949](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-24;949); [24 agosto 1942, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-08-24;1098); [24 ottobre 1942, n. 1672; con decreto luogotenenziale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo.luogotenenziale:1942-10-24;1672) [8 febbraio 1946, n. 242; con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-02-08;242) [12 aprile 1947, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-12;461) e [31 dicembre 1947, n. 1758, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1758) [24 dicembre 1948, n. 1619](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-12-24;1619); [18 luglio 1949, n. 882](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-07-18;882); [20 ottobre 1949, n. 989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;989); [20 ottobre 1949, n. 991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;991); [20 ottobre 1949, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;1178); [30 ottobre 1949, n. 1152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1152); [11 giugno 1950, n. 622](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;622); [16 novembre 1950, n. 1313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-11-16;1313); [11 maggio 1951, n. 653](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-05-11;653); [27 ottobre 1951, n. 1813](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1813); [14 aprile 1952, n. 888](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-04-14;888); [16 agosto 1952, n. 2589](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-08-16;2589); [19 settembre 1952, n. 1697](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-19;1697); [11 marzo 1953, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;565); [12 maggio 1953, n. 570](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-05-12;570); [25 agosto 1953, n. 834](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;834); [26 ottobre 1954, n. 1232](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-26;1232); [12 febbraio 1955, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-12;34); [30 giugno 1955, n. 694](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-06-30;694) e [19 luglio 1955, n. 760](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-19;760);  
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -25,92 +24,40 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 74. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di "medicina costituzionale ed endocrinologia".  
-Dopo l'art. 294, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione del "corso di perfezionamento in matematica e fisica", con il conseguente spostamento della numerazione degli articoli successivi Corso di perfezionamento in matematica e fisica.  
-Art. 295. - Alla Facolta' di scienze matematiche, fisiche e naturali e' annesso il corso di perfezionamento in matematica e fisica a carattere storico didattico.  
-Il corsa ha lo scopo di approfondire la conoscenza delle discipline matematiche e fisiche che costituiscono materia d'insegnamento nelle scuole di istruzione secondaria, attraverso una visione storica dello sviluppo delle varie dottrine e dei riflessi in campo didattico.  
-Art. 296. - Al corso possono iscriversi i laureati in scienze matematiche, in fisica e in matematica e fisica.  
-La durata del corso e' di un anno accademico.  
-Art. 297. - Il corso e' articolato in due sezioni; una dedicata alla matematica, l'altra alla fisica. Non e' consentita la contemporanea iscrizione alle due sezioni del corso.  
-Art. 298. - Le materie d'insegnamento per la sezione matematica sono:  
-1) Storia della matematica (l'evoluzione storica del pensiero matematico);  
-2) Didattica e metodologia della matematica;  
-3) Matematica elementare dal punto di vista superiore;  
-4) Esercitazioni matematiche.  
-Per la sezione fisica:  
-1) Storia della fisica;  
-2) Didattica e metodologia della fisica;  
-3) Fisica elementare dal punto di vista superiore;  
-4) Esercitazioni di fisica.  
-Art. 299. - Alla fine del corso agli iscritti che avranno frequentato tutti gli insegnamenti della sezione seguita e superato i relativi esami verra' rilasciato un certificato di frequenza e di esami.  
-Art. 300. - Il corso viene tenuto presso l'Istituto matematico presso l'Istituto fisico dell'Universita'.  
-Le lezioni vengono svolte da docenti dei due Istituti.  
-Art. 301. - I professori di ruolo dei due Istituti propongono al rettore la nomina del direttore del corso e di due vice-direttori, uno per ciascuna sezione. Tali incarichi si rinnovano ogni biennio. I professori che escono di carica possono essere riconfermati.  
-Art. 302. - Gli insegnanti di ciascuna sezione del corso sono proposti dal direttore e dai due vice-direttori. Tali proposte debbono essere approvate dal Consiglio della facolta'.  
-Art. 303. - Gli iscritti al corso di perfezionamento sono tenuti a pagare le medesime tasse, soprattasse e contributi generali stabiliti dalle vigenti disposizioni di legge per gli studenti delle Facolta'.  
-La misura dei contributi per le esercitazioni di laboratorio e per le altre prestazioni, di cui, gli iscritti usufruiscono durante il corso degli studi, e' fissata dal Consiglio di amministrazione, su proposta del Senato accademico, uditi il Consiglio della facolta' di scienze matematiche, fisiche e naturali e il direttore del corso.  
-Gli articoli dal n. 324 al n. 327, relativi alla "scuola di ortopedia e traumatologia dell'apparato motore" sono abrogati e sostituiti dai seguenti:  
+Gli articoli 569, 570, 571, 572, 573, relativi alla scuola di specializzazione in gastroenterologia, che muta la denominazione in quella di scuola di specializzazione in malattie dell'apparato digerente, sono abrogati e sostituiti dai seguenti:  
   
-Scuola di ortopedia e traumatologia dell'apparato motore  
-  
-Art. 324. - La Scuola comprende i seguenti corsi:  
-1) corso della durata di tre anni per il conseguimento di un diploma di specialista in ortopedia e traumatologia dell'apparato motore;  
-2) corso della durata di due anni per il conseguimento di un diploma di specialista in cinesiterapia, fisioterapia, riabilitazione e ginnastica medica in ortopedia.  
-Art. 325. - Gli insegnamenti impartiti nella scuola sono:  
-Corso triennale:  
-1) Clinica ortopedica e traumatologica (triennale)  
-2) Clinica chirurgica;  
-3) Neuropatologia dell'apparato motore ed elettrodiagnostica;  
-4) Patologia speciale delle deformita' congenite ed acquisite dell'apparato motore (biennale)  
-5) Anatomia radiologica e radio-diagnostica dello scheletro;  
-6) Tecnica degli apparecchi (triennale);  
-7) Fisioterapia e studio delle protesi (biennale).  
-Corso biennale:  
-1) Rapporti tra lesioni ortopediche, traumatologiche e rieducazione funzionale;  
-2) Anatomia funzionale dell'apparato motore;  
-3) Cure con radiazioni;  
-4) Cure elettriche;  
-5) Balneoterapia, idroterapia e lutoterapia;  
-6) Clinicatoterapia;  
-7) Massoterapia;  
-8) Terapia del movimento e meccanoterapia;  
-9) Ginnastica medica;  
-10) Rieducazione motoria e riabilitazione.  
-Art. 326. - Coloro che abbiano conseguito il diploma di specialista del corso triennale potranno ottenere l'altro diploma con un ulteriore anno di studio.  
-Coloro che abbiano conseguito il diploma di specialista del corso biennale potranno ottenere l'ammissione al secondo anno del corso triennale.  
-Art. 327. - Tutti gli insegnamenti sono dimostrativi sia nelle lezioni che nelle esercitazioni.  
-Art. 328. - L'ordine degli studi (distribuzione degli insegnamenti nei diversi anni di corso) e l'ordine e le modalita' degli esami di profitto verranno stabiliti nel manifesto annuale.  
-Dopo l'art. 384, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della scuola di specializzazione in gastro-enterologia.  
-  
-Scuola di gastro-enterologia  
-  
-Art. 385. - La scuola svolge un corso di specializzazione in gastroenterologia.  
-Art. 386. - Il corso degli studi ha la durata biennale ed ha luogo nella clinica delle malattie tropicali e subtropicali.  
-Art. 387. - Gli iscritti debbono:  
-a) seguire per due anni le lezioni e le esercitazioni della scuola;  
-b) frequentare durante il biennio i reparti e prestare servizio con funzioni di assistenti volontari nelle sale dei malati e nei laboratori.  
-Alla fine del biennio gli iscritti che hanno dimostrato assiduita' e diligenza e che hanno superato gli esami dei 1° anno, debbono sostenere un esame teorico pratico e la discussione su una tesi scritta per conseguire il diploma di specialista in gastroenterologia.  
-Art. 388. - Il corso comprende le seguenti lezioni ed esercitazioni:  
-1) Clinica, semeiotica e terapia delle malattie dell'apparato digerente;  
-2) Anatomia e fisiologia dell'apparato digerente;  
-3) Ematologia e patologia del ricambio in relazione alle malattie dell'apparato digerente;  
-4) Coprologia, batteriologia, parassitologia, micologia, sierologia e farmacologia, in relazione alle malattie dell'apparato digerente;  
-5) Radiologia nelle malattie dell'apparato digerente;  
-6) Endoscopia;  
-7) Esami di laboratorio;  
-8) Relazioni psico-somatiche nelle malattie dell'apparato digerente.  
-Art. 389. - L'ordine degli studi (distribuzione degli insegnamenti dei due anni di corso) e l'ordine e le modalita' degli esami verranno stabiliti nel manifesto  
+Scuola di specializzazione in malattie dell'apparato digerente (I scuola)  
+Art. 569. - La scuola svolge un corso di specializzazione in malattie dell'apparato digerente.  
+Alla scuola sono ammessi i laureati in medicina e chirurgia in numero massimo di venti allievi. L'ammissione avviene in base ad un esame preliminare.  
+Art. 570. - Il corso ha la durata di tre anni ed un quarto anno deve essere dedicato al tirocinio pratico gastroenterologico.  
+Il corso ha luogo nell'istituto di clinica delle malattie tropicali e infettive dell'Universita'.  
+Art. 571. - Gli iscritti debbono:  
+a) seguire per i primi tre anni gli insegnamenti della scuola;  
+b) prestare servizio continuativo nelle corsie e nei laboratori della clinica;  
+c) svolgere l'anno di tirocinio pratico gastroenterologico nella clinica o in reparti ospedalieri.  
+Alla fine del corso gli iscritti che abbiano superato tutti gli esami debbono sostenere la discussione su una tesi scritta per conseguire il diploma di specializzazione.  
+Art. 572. - Il corso comprende i seguenti insegnamenti, con esami da sostenere alla fine di ciascuno di essi:  
+1) Anatomia normale e patologica;  
+2) Fisiologia normale e patologica;  
+3) Chimica clinica;  
+4) Semeiotica fisica e strumentale (biennale);  
+5) Semeiotica radiologica;  
+6) Malattie del tubo digerente;  
+7) Malattie del fegato e del pancreas;  
+8) Clinica medica (triennale).  
+Insegnamenti complementari con corsi semestrali, saranno aggiunti in numero non superiore a sei per la totalita' del corso.  
+Art. 573. - L'ordine degli studi (distribuzione degli insegnamenti negli anni di corso), l'ordine e le modalita' degli esami sono stabiliti nel manifesto annuale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 settembre 1955
+### Dato a Roma, addi' 29 settembre 1973
 
-GRONCHI ROSSI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 24 ottobre 1955
+Registrato alla Corte dei conti, addi' 28 ottobre 1974
 
-Atti del Governo, registro n. 93, foglio n. 74. - CARLOMAGNO
+Atti di Governo, registro n. 6, foglio n. 73. - SCIARRETTA

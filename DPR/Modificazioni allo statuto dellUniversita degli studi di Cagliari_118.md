@@ -1,107 +1,116 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1966 n. 375
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 977
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1966 n. 375
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 977
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Cagliari e convalidati dal Consiglio universitario nazionale nei suoi pareri;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con regio decreto 5 ottobre 1919, p. 1741, e successiva modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Gli articoli 101, 102, 103, 104, 105, 106 e 107, relativi al corso di perfezionamento in archeologia e storia dell'arte, sono soppressi e sostituiti dai seguenti:  
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che - presso la Facolta' di ingegneria e' istituito il corso di laurea in ingegneria chimica.  
-Detto corso funzionera' gradualmente per quanto riguarda il triennio di applicazione, a decorrere dallo anno accademico 1966-67 e di conseguenza vengono apportate allo statuto dell'Universita' di Cagliari le seguenti modificazioni:  
-Art. 42. - La prima parte viene cosi' integrata:  
-Presso la Facolta' di ingegneria il quinquennio di studio da' adito alle seguenti lauree:  
-a) laurea in Ingegneria civile (sezione edile, idraulica e trasporti);  
-b) laurea In Ingegneria mineraria;  
-c) laurea in Ingegneria meccanica;  
-d) laurea in Ingegneria chimica.  
-Dopo l'art. 68 e con il conseguente spostamento della successiva numerazione vengono inseriti i seguenti nuovi articoli relativi all'ordinamento degli studi del corso di laurea in Ingegneria chimica.  
-Art. 69. - Il corso di laurea in Ingegneria chimica comprende i seguenti insegnamenti:  
-1° Anno:  
-1. Analisi matematica I - gruppo A;  
-2. Chimica - gruppo A;  
-3. Disegno I - gruppo A;  
-4. Fisica I - gruppo A;  
-5. Geometria - gruppo A;  
-2° Anno:  
-6. Analisi matematica II - gruppo A;  
-7. Disegno II - gruppo A;  
-8. Fisica II - gruppo A;  
-9. Meccanica razionale - gruppo A;  
-10. Chimica organica - gruppo B;  
-  
-Triennio di applicazione:  
-  
-11. Chimica applicata - gruppo A;  
-12. Chimica fisica - gruppo A;  
-13. Chimica industriale - gruppo A;  
-14. Elettrotecnica - gruppo A;  
-15. Fisica tecnica - gruppo A;  
-16. Impianti chimici - gruppo A;  
-17. Macchine - gruppo A;  
-18. Meccanica applicata alle macchine - gruppo A;  
-19. Principi di Ingegneria chimica - gruppo A;  
-20. Scienza delle costruzioni - gruppo A;  
-21. Chimica analitica - gruppo B;  
-22. Combustibili e lubrificanti (semestrale) - gruppo B;  
-23. Economia ed organizzazione aziendale - gruppo B;  
-24. Elettrochimica - gruppo B;  
-25. Idraulica - gruppo B;  
-26. Metallurgia - gruppo B;  
-27. Stechiometria industriale (semestrale) - gruppo B;  
-28. Strumentazione, misure e collaudi - gruppo B;  
-  
-Gruppi di materie a scelta  
-  
-Orientamento A:  
-29. Trattamento dei solidi - gruppo C;  
-30. Chimica degli alti polimeri - gruppo C;  
-31. Impianti petrolchimici - gruppo C.  
-  
-Orientamento B:  
-29. Scienza dei metalli - gruppo C;  
-30. Tecnologie speciali metallurgiche - gruppo C;  
-31. Preparazione dei minerali - gruppo C.  
-  
-Orientamento C:  
-29. Chimica organica - gruppo C;  
-30. Industrie agrarie e alimentari - gruppo C;  
-31. Tecnica del freddo - gruppo C.  
-Art. 70. - Le precedenze per gli insegnamenti del corso di laurea in ingegneria chimica sono le seguenti:  
-Chimica organica prima di Chimica fisica, Chimica analitica, Chimica applicata, Stechiometria industriale, Combustibili e Lubrificanti;  
-Chimica fisica, Chimica applicata e Chimica analitica prima di Principi di Ingegneria chimica, Chimica industriale, Metallurgia, Elettrochimica, Impianti chimici, Scienza dei metalli, Tecnologie speciali metallurgiche, Preparazione dei minerali, Chimica agraria, Industrie agrarie e alimentari, Chimica degli altri polimeri, Impianti petrolchimici;  
-Stechiometria industriale prima di Principi di Ingegneria chimica, Chimica industriale, Impianti petrolchimici;  
-Principi di Ingegneria chimica prima di Impianti chimici, Strumentazione, misure e collaudi, Impianti petrolchimici, Industrie agrarie e alimentari;  
-Fisica tecnica e Meccanica applicata alle Macchine prima di Macchine;  
-Macchine e idraulica prima di impianti chimici, Strumentazione, misure e collaudi, Impianti petrolchimici, Industrie agrarie e alimentari, Tecnica del freddo.  
+Corso di perfezionamento in archeologia e storia dell'arte  
+Art. 101. - Presso la facolta' di lettere e filosofia, con sede nell'istituto di antichita' archeologia e arte, sono istituiti corsi biennali di perfezionamento in archeologia e storia dell'arte.  
+Il corso di perfezionamento in archeologia si articola nell'indirizzo paletnologico e nell'indirizzo archeologico.  
+Scopo dei corsi e' di permettere l'approfondimento dello studio dell'archeologia e della storia dell'arte, e, in particolare, di preparare i laureati all'esercizio della funzione di tutela del patrimonio archeologico e artistico nell'ambito delle soprintendenze archeologica e ai beni architettonici, storici e dell'ambiente.  
+Art. 102. - Ai corsi possono iscriversi i laureati nella facolta' di lettere e filosofia, magistero e architettura.  
+Il consiglio di facolta', su motivata proposta del direttore dei corsi, puo' concedere l'iscrizione a laureati di altre facolta' o istituti superiori.  
+Per l'ammissione ai corsi e' richiesto un colloquio nelle discipline fondamentali di ciascun corso e indirizzo.  
+Art. 103. - a) Sono materie fondamentali per il corso di archeologia, indirizzo paletnologico (e complementari per gli altri corsi e indirizzi):  
+1) paletnologia;  
+2) antichita' sarde.  
+b) Sono materie fondamentali per il corso di archeologia, indirizzo archeologico (e complementari per gli altri corsi e indirizzi):  
+1) archeologia e storia dell'arte greca;  
+2) archeologia e storia dell'arte romana.  
+c) Sono materie fondamentali per il corso di storia dell'arte (e complementari per gli altri corsi e indirizzi):  
+1) storia dell'arte medioevale;  
+2) storia dell'arte moderna.  
+Sono materie complementari per entrambi i corsi:  
+1) antichita' greche e romane;  
+2) archeologia cristiana;  
+3) archeologia fenicio-punica;  
+4) archeologia delle province romane;  
+5) archeologia medioevale;  
+6) epigrafia greca;  
+7) epigrafia latina;  
+8) estetica;  
+9) etruscologia e antichita' italiche;  
+10) legislazione sulla tutela del patrimonio archeologico e artistico;  
+11) museografia e museologia;  
+12) numismatica antica;  
+13) numismatica medioevale e moderna;  
+14) paleografia e diplomatica;  
+15) preistoria e protostoria europea;  
+16) preistoria e protostoria mediterranea;  
+17) semitistica;  
+18) storia contemporanea;  
+19) storia dell'arte contemporanea;  
+20) storia dell'arte in Sardegna;  
+21) storia dell'Asia anteriore e del vicino Oriente;  
+22) storia del cinema;  
+23) storia della critica d'arte;  
+24) storia della musica;  
+25) storia della Sardegna;  
+26) storia delle religioni;  
+27) storia delle tecniche artistiche;  
+28) storia delle tradizioni popolari;  
+29) storia del teatro e dello spettacolo;  
+30) storia e tecnica del restauro;  
+31) storia greca;  
+32) storia medioevale;  
+33) storia romana;  
+35) topografia antica;  
+36) urbanistica.  
+Art. 104. - Sono obbligatori l'iscrizione e la frequenza e il superamento dell'esame nelle materie fondamentali e di tre complementari scelte dal candidato d'accordo con il docente della materia della dissertazione finale prescelta entro il 31 dicembre del primo anno. I perfezionandi sono tenuti a partecipare anche a esercitazioni e ricerche di tipo specialistico inerenti alle discipline che fanno oggetto d'esame.  
+L'anno di corso non e' valido se lo studente non avra' preso l'iscrizione ad almeno due corsi di insegnamento e sostenuto due esami nel primo anno. Alla fine dei corsi e' prevista la preparazione di una dissertazione, da discutere davanti a una commissione composta da almeno tre dei cinque docenti ufficiali delle materie scelte dal candidato. La commissione e' costituita dal rettore, su proposta del direttore dei corsi, informandone il direttore dell'istituto di antichita' archeologia e arte e il preside della facolta' di lettere e filosofia.  
+Al termine dei corsi, dopo il superamento di tutti gli esami, viene rilasciato un diploma di perfezionamento, nel quale saranno indicati il corso e l'indirizzo seguito.  
+Art. 105. - La direzione dei corsi e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nei corsi stessi. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nei corsi medesimi.  
+Il direttore dei corsi e' nominato dalla facolta' di lettere e filosofia su proposta del direttore dell'istituto di antichita' archeologia e arte. L'incarico di direttore e' triennale e puo' essere rinnovato.  
+Art. 106. - I diplomati in uno dei corsi che intendessero iscriversi ad altro corso, saranno ammessi direttamente al secondo anno con l'obbligo di sostenere, oltre l'esame di dissertazione, gli esami normali stabiliti, caso per caso, dal direttore dei corsi, udito il consiglio di facolta'. Eventuali altri titoli dei diplomati potranno essere presi in considerazione dal consiglio di facolta', caso per caso, ai fini di eventuale abbreviazione dei corsi e dispensa da esami.  
+Art. 107. - Per l'iscrizione a ciascuno dei corsi e' previsto il pagamento di tasse e soprattasse pari al doppio di quelle richieste per il corso di laurea in lettere e filosofia. La ripartizione delle tasse e soprattasse pagate dagli allievi dei corsi sara' disposta dal consiglio di amministrazione dell'Universita'.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1966
+### Dato a Roma, addi' 31 ottobre 1981
 
-SARAGAT GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 1 giugno 1966
+Registrato alla Corte dei conti, addi' 9 febbraio 1982
 
-Atti del Governo, registro n. 203, foglio n. 104. - VILLA
+Registro n. 20 Istruzione, foglio n. 234

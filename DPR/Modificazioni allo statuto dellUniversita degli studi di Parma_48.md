@@ -1,122 +1,329 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1196
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1968 n. 1135
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1196
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1968 n. 1135
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA   
-  
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
-  
-Decreta:   
-  
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-Dopo l'art. 32, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di notariato e della scuola di specializzazione nelle discipline del lavoro, annesse alla facolta' di giurisprudenza.   
-  
-Scuola di notariato   
-  
-Art. 33. - E' istituita presso la facolta' di giurisprudenza la "Scuola di notariato" annessa alla medesima facolta'.   
-La scuola ha lo scopo di integrare la preparazione scientifica dei laureati e di approfondire, nella ricerca, la conoscenza dei problemi del notariato a fini di specializzazione professionale.   
-Art. 34. - La scuola e' retta dal direttore.   
-Il direttore e' nominato dal rettore dell'Universita' di Parma su designazione della facolta' di giurisprudenza.   
-Il direttore puo' designare un vice-direttore che lo coadiuva e lo sostituisce in caso d'impedimento.   
-Art. 35. - Il consiglio della scuola e' composto dai professori docenti. Fanno anche parte del consiglio, quali membri di diritto, il presidente dell'ordine dei notai di Parma e il preside della facolta' di giurisprudenza dell'Universita' di Parma.   
-I docenti sono scelti fra i professori di ruolo, incaricati, liberi docenti, assistenti della facolta' di giurisprudenza dell'Universita' di Parma e fra notai iscritti all'ordine dei notai di Parma.   
-Gli incarichi d'insegnamento sono conferiti dal rettore dell'universita' su proposta del direttore della scuola, sentito il preside della facolta' di giurisprudenza per quanto concerne le nomine di professori di ruolo, incaricati, liberi docenti, assistenti dell'ateneo; sentito il presidente dell'ordine dei notai di Parma, per quanto concerne le nomine dei notai.   
-Art. 36. - Alla scuola possono iscriversi soltanto laureati in giurisprudenza.   
-Art. 37. - La scuola si distingue in due corsi della durata di un anno per ciascun corso.   
-Al termine di essi la scuola rilascia, dopo che i candidati abbiano superato le prove delle materie fondamentali di cui all'art. 40 e l'esame di diploma, un diploma di perfezionamento in "Discipline del notariato".   
-Art. 38. - Il consiglio puo' determinare, anno per anno, il numero massimo degli iscritti.   
-Il consiglio puo' anche deliberare che uno o entrambi i corsi non siano accesi nel caso di mancato raggiungimento di un numero minimo di iscritti.   
-Art. 39. - Gli insegnamenti fondamentali della scuola sono:   
-  
-1° Corso:   
-Ordinamento del notariato;   
-Diritto delle persone e diritto di famiglia;   
-Diritto successorio;   
-Diritti reali;   
-Obbligazioni e contratti;   
-Diritto tributario (1° anno).   
-  
-2° Corso:   
-Diritto delle societa';   
-Tutela dei diritti e legislazione sulla pubblicita';   
-Fallimento;   
-Titoli di credito;   
-Volontaria giurisdizione;   
-Diritto tributario (2° anno).   
-  
-Art. 40. - Con deliberazione del consiglio della scuola possono essere fissati altri insegnamenti integrativi a carattere monografico. Il consiglio determina anche se, per tali insegnamenti, debba sostenersi una prova d'esame.   
-Tutte le deliberazioni di cui al presente articolo debbono essere prese prima dell'inizio dei corsi.   
-Art. 41. - L'esame di diploma consiste nella discussione di una memoria originale su argomento preventivamente approvato dal direttore della scuola.   
-Art. 42. - Gli iscritti alla scuola sono tenuti a pagare le tasse, soprattasse e contributi, secondo quanto stabilito per gli studenti della facolta' di giurisprudenza, nonche' la tassa di diploma nella misura di L. 6.000 nei sensi dell'[art. 7 della legge 19 dicembre 1951, n. 1951](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-19;1951~art7).   
-Sono tenuti, altresi', a pagare un contributo speciale nella misura che sara' determinata dal consiglio di amministrazione, previo parere della facolta', su proposta del direttore della scuola.   
-Art. 43. - Le commissioni giudicatrici per gli esami sono composte di tre membri; quelle di diploma sono composte di cinque membri.   
-I membri sono nominati dal direttore fra i docenti della scuola.   
-  
-Scuola di specializzazione nelle discipline del lavoro   
-  
-Art. 44. - E' istituita presso la facolta' di giurisprudenza la "Scuola di specializzazione nelle discipline del lavoro" annessa alla medesima facolta'.   
-La scuola ha lo scopo di integrare la preparazione scientifica dei laureati e di approfondire, nella ricerca, la conoscenza dei problemi del lavoro, anche ai fini di specializzazione professionale.   
-Art. 45. - La scuola e' retta dal direttore.   
-E' direttore il professore titolare della cattedra di diritto del lavoro della facolta' di giurisprudenza.   
-Il direttore puo' designare un vice-direttore che lo coadiuva e lo sostituisce in caso di impedimento.   
-Art. 46. - Gli incarichi d'insegnamento sono conferiti dal rettore dell'Universita' di Parma, su proposta del direttore della scuola.   
-Art. 47. - I professori incaricati, sotto la presidenza del direttore costituiscono il consiglio della scuola.   
-Art. 48. - Alla scuola possono iscriversi soltanto i laureati in giurisprudenza, scienze politiche, economia e commercio.   
-Art. 49. - La scuola si distingue in due corsi della durata di un anno per ciascun corso.   
-Al termine di essi la scuola rilascia, dopo che i candidati abbiano superato le prove delle materie fondamentali di cui all'art. 53 e l'esame di diploma, un diploma di perfezionamento in diritto del lavoro.   
-Art. 50. - Il consiglio puo' determinare, anno per anno, il numero massimo di coloro che possono essere iscritti.   
-Il consiglio puo' anche deliberare che uno o entrambi i corsi non siano accesi nel caso di mancato raggiungimento minimo di iscritti.   
-Art. 51. - Gli insegnamenti della scuola sono:   
-  
-1° Corso:   
-Storia del diritto del lavoro;   
-Storia dei movimenti sindacali;   
-Economia del lavoro;   
-Diritto del lavoro;   
-Diritto sindacale e tecnica della contrattazione collettiva;   
-Elementi di medicina e psicologia del lavoro (semestrale).   
-  
-2° Corso:   
-Selezione del personale, valutazione delle mansioni e tecniche retributive;   
-Sociologia del lavoro;   
-Diritto della cooperazione;   
-Diritto internazionale del lavoro;   
-Diritto comparato del lavoro;   
-Diritto penale del lavoro (semestrale);   
-Diritto processuale del lavoro (semestrale).   
-  
-Art. 52. - Con deliberazione del consiglio della scuola, possono essere fissati altri insegnamenti integrativi a carattere monografico. Il consiglio determina anche se, per tali insegnamenti, debba sostenersi una prova d'esame. Tutte le deliberazioni di cui al presente articolo debbono essere prese prima dell'inizio dei corsi annuali.   
-Art. 53. - L'esame di diploma consiste nella discussione di una memoria originale su argomento preventivamente approvato dal direttore della scuola.   
-Art. 54. - Gli iscritti alla scuola sono tenuti a pagare le tasse, soprattasse e contributi, secondo quanto stabilito per gli studenti della facolta' di giurisprudenza, nonche' la tassa di diploma nella misura di L. 6.000 nei sensi dell'[art. 7 della legge 19 dicembre 1951, n. 1951](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-19;1951~art7).   
-Sono tenuti, altresi', a pagare un contributo speciale nella misura che sara' determinata dal consiglio di amministrazione, previo parere della facolta', su proposta del direttore della scuola.   
-Art. 55. - Le commissioni giudicatrici per gli esami speciali sono composte di tre membri; quelle di diploma sono composte di cinque membri. I membri sono nominati dal direttore fra docenti della scuola.   
-  
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-### Dato a Roma, addi' 31 ottobre 1972
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-LEONE SCALFARO
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Gli articoli da 127 a 132 relativi alla scuola di specializzazione in ostetricia e ginecologia e alla scuola di specializzazione in pediatria e puericultura sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in ostetricia e ginecologia
+
+Art. 127. - La scuola ha la durata di quattro anni.
+
+L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami.
+
+Sono da considerarsi titoli preferenziali, a parita' di risultato dell'esame di ammissione:
+
+a) il voto di laurea in medicina e chirurgia;
+
+b) aver frequentato come studente interno una clinica ostetrica e ginecologica della universita';
+
+c) aver svolto la tesi di laurea nella clinica ostetrica e ginecologica;
+
+d) documentazione di eventuali servizi prestati in grossi reparti ospitalieri della specialita';
+
+e) eventuali pubblicazioni.
+
+Il numero complessivo degli specializzandi da ammettere alla scuola e' fissato in 52 allievi, ripartiti in 13 allievi per ogni anno di corso.
+
+Per nessun motivo il corso di quattro anni puo' essere abbreviato.
+
+Nessun titolo puo' esonerare dalla frequenza gli iscritti nei quattro anni di corso.
+
+Art. 128. - Gli iscritti, oltre all'obbligo di frequenza delle lezioni, esercitazioni, seminari, ecc., devono presta servizio analogo a quello degli assistenti per non meno di nove mesi all'anno.
+
+Gli iscritti alla scuola debbono sostenere esami annuali di profitto e l'esame finale di diploma. La sessione di esami di profitto e' unica, ed e' espletata nel mese di ottobre. Non puo' essere iscritto all'anno successivo di corso chi non abbia superato le materie fondamentali della specialita'.
+
+Art. 129. - Le materie di insegnamento sono:
+
+1° Anno:
+
+1. Elementi di genetica e di eugenica;
+
+2. Anatomia normale ed embriologia dell'apparato genitale femminile;
+
+3. Fisiologia dell'apparato genitale femminile;
+
+4. Endocrinologia fisiologica;
+
+5. Fisiologia ostetrica;
+
+6. Diagnostica ostetrica;
+
+7. Clinica ostetrica e ginecologica.
+
+2° Anno:
+
+1. Tecnica operatoria ostetrica;
+
+2. Diagnostica ginecologica;
+
+3. Tecnica diagnostica di laboratorio nel campo ostetrico e ginecologico esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);
+
+4. Clinica ostetrica e ginecologica.
+
+3° Anno:
+
+1. Anatomia patologica ostetrica e ginecologica;
+
+2. Istologia normale e patologica nel campo della specialita';
+
+3. Puericultura prenatale;
+
+4. Emoterapia nel campo ostetrico e ginecologico;
+
+5. Anestesia e analgesia nel campo ostetrico e ginecologico;
+
+6. Tecnica operatoria e ginecologica;
+
+7. Clinica ostetrica e ginecologica;
+
+8. Terapia medica ostetrica e ginecologica.
+
+4° Anno:
+
+1. Puericultura post-natale e malattie del neonato;
+
+2. Ostetricia e ginecologia forense;
+
+3. Diagnostica Rontgen, radioterapia in ostetricia e ginecologia;
+
+4. Clinica ostetrica e ginecologica (esame alla fine del quarto anno);
+
+5. Urologia ginecologica;
+
+6. Chirurgia addominale extra genitale.
+
+Gli esami si fanno per gruppi di materie ed i membri delle commissioni saranno proposti dai direttori delle scuole.
+
+A giudizio del consiglio della scuola, formulato sulla base del rendimento di ogni iscritto, gli specializzandi potranno essere esonerati dal pagamento delle tasse universitarie.
+
+Per il conseguimento del diploma, l'iscritto deve presentare e discutere una dissertazione scritta con contributo personale.
+
+Scuola di specializzazione in clinica pediatrica
+
+Art. 130. - La scuola di specializzazione in clinica pediatrica ha la durata di tre anni.
+
+L'ammissione alla scuola avviene per esami e titoli.
+
+Il numero complessivo degli specializzandi da ammettere alla scuola e' fissato in 60 allievi, ripartito in 20 allievi per ogni anno di corso.
+
+L'iscrizione al secondo anno di corso puo' essere consentita, a giudizio del consiglio della scuola, ai candidati che abbiano conseguito il diploma di specializzazione in puericultura o che abbiano titoli pediatrici.
+
+Art. 131. - Le materie di insegnamento sono:
+
+1° Anno:
+
+1. Clinica pediatrica (triennale);
+
+2. Patologia pediatrica (biennale);
+
+3. Puericoltura (biennale);
+
+4. Semeiotica pediatrica e tecnica diagnostica (biennale;
+
+5. Auxologia normale e patologica (annuale);
+
+6. Psicologia dell'eta' evolutiva (annuale).
+
+2° Anno:
+
+1. Clinica pediatrica;
+
+2. Patologia pediatrica;
+
+3. Puericoltura;
+
+4. Semeiotica pediatrica e tecnica diagnostica;
+
+5. Terapia pediatrica (annuale);
+
+6. Radiologia pediatrica (annuale);
+
+7. Malattie infettive dell'infanzia (annuale).
+
+3° Anno:
+
+1. Clinica pediatrica;
+
+2. Neuropsichiatria infantile.
+
+Gli insegnamenti fondamentali saranno integrati, a giudizio del consiglio della scuola, da almeno tre insegnamenti scelti fra i seguenti o da altri eventuali che possono essere stabiliti di anno in anno:
+
+Chirurgia pediatrica;Ortopedia e traumatologia infantile;
+
+Odontoiatria;
+
+Clinica dermosifilopatica;
+
+Clinica oculistica;
+
+Clinica otorinolaringoiatrica;
+
+Cardiologia;
+
+Genetica.
+
+Il direttore della scuola, inoltre, puo' disporre che si tengano un certo numero di conferenze su argomenti di interesse pediatrico.
+
+Art. 132. - Gli allievi dovranno seguire l'internato obbligatorio con non piu' di due mesi di ferie all'anno Per conseguire il diploma di specializzazione in clinica pediatrica gli allievi dovranno superare gli esami in tutti gli insegnamenti fondamentali e almeno in tre insegnamenti scelti dall'allievo e presentare e discutere una dissertazione scritta su un argomento di pediatria.
+
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 24 settembre 1968
+
+SARAGAT
+
+SCAGLIA
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 13 settembre 1973
+Registrato
+----------
 
-Atti di Governo, registro n. 260, foglio n. 11. - VALENTINI
+alla Corte dei conti, addi' 2 novembre 1968 Atti del Governo, registro n. 223, foglio n. 76. - GRECO
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
+  
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Gli articoli da 127 a 132 relativi alla scuola di specializzazione in ostetricia e ginecologia e alla scuola di specializzazione in pediatria e puericultura sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in ostetricia e ginecologia  
+  
+Art. 127. - La scuola ha la durata di quattro anni.  
+L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami.  
+Sono da considerarsi titoli preferenziali, a parita' di risultato dell'esame di ammissione:  
+a) il voto di laurea in medicina e chirurgia;  
+b) aver frequentato come studente interno una clinica ostetrica e ginecologica della universita';  
+c) aver svolto la tesi di laurea nella clinica ostetrica e ginecologica;  
+d) documentazione di eventuali servizi prestati in grossi reparti ospitalieri della specialita';  
+e) eventuali pubblicazioni.  
+Il numero complessivo degli specializzandi da ammettere alla scuola e' fissato in 52 allievi, ripartiti in 13 allievi per ogni anno di corso.  
+Per nessun motivo il corso di quattro anni puo' essere abbreviato.  
+Nessun titolo puo' esonerare dalla frequenza gli iscritti nei quattro anni di corso.  
+Art. 128. - Gli iscritti, oltre all'obbligo di frequenza delle lezioni, esercitazioni, seminari, ecc., devono presta servizio analogo a quello degli assistenti per non meno di nove mesi all'anno.  
+Gli iscritti alla scuola debbono sostenere esami annuali di profitto e l'esame finale di diploma. La sessione di esami di profitto e' unica, ed e' espletata nel mese di ottobre. Non puo' essere iscritto all'anno successivo di corso chi non abbia superato le materie fondamentali della specialita'.  
+Art. 129. - Le materie di insegnamento sono:  
+1° Anno:  
+1. Elementi di genetica e di eugenica;  
+2. Anatomia normale ed embriologia dell'apparato genitale femminile;  
+3. Fisiologia dell'apparato genitale femminile;  
+4. Endocrinologia fisiologica;  
+5. Fisiologia ostetrica;  
+6. Diagnostica ostetrica;  
+7. Clinica ostetrica e ginecologica.  
+2° Anno:  
+1. Tecnica operatoria ostetrica;  
+2. Diagnostica ginecologica;  
+3. Tecnica diagnostica di laboratorio nel campo ostetrico e ginecologico esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);  
+4. Clinica ostetrica e ginecologica.  
+3° Anno:  
+1. Anatomia patologica ostetrica e ginecologica;  
+2. Istologia normale e patologica nel campo della specialita';  
+3. Puericultura prenatale;  
+4. Emoterapia nel campo ostetrico e ginecologico;  
+5. Anestesia e analgesia nel campo ostetrico e ginecologico;  
+6. Tecnica operatoria e ginecologica;  
+7. Clinica ostetrica e ginecologica;  
+8. Terapia medica ostetrica e ginecologica.  
+4° Anno:  
+1. Puericultura post-natale e malattie del neonato;  
+2. Ostetricia e ginecologia forense;  
+3. Diagnostica Rontgen, radioterapia in ostetricia e ginecologia;  
+4. Clinica ostetrica e ginecologica (esame alla fine del quarto anno);  
+5. Urologia ginecologica;  
+6. Chirurgia addominale extra genitale.  
+Gli esami si fanno per gruppi di materie ed i membri delle commissioni saranno proposti dai direttori delle scuole.  
+A giudizio del consiglio della scuola, formulato sulla base del rendimento di ogni iscritto, gli specializzandi potranno essere esonerati dal pagamento delle tasse universitarie.  
+Per il conseguimento del diploma, l'iscritto deve presentare e discutere una dissertazione scritta con contributo personale.  
+  
+Scuola di specializzazione in clinica pediatrica  
+  
+Art. 130. - La scuola di specializzazione in clinica pediatrica ha la durata di tre anni.  
+L'ammissione alla scuola avviene per esami e titoli.  
+Il numero complessivo degli specializzandi da ammettere alla scuola e' fissato in 60 allievi, ripartito in 20 allievi per ogni anno di corso.  
+L'iscrizione al secondo anno di corso puo' essere consentita, a giudizio del consiglio della scuola, ai candidati che abbiano conseguito il diploma di specializzazione in puericultura o che abbiano titoli pediatrici.  
+Art. 131. - Le materie di insegnamento sono:  
+1° Anno:  
+1. Clinica pediatrica (triennale);  
+2. Patologia pediatrica (biennale);  
+3. Puericoltura (biennale);  
+4. Semeiotica pediatrica e tecnica diagnostica (biennale;  
+5. Auxologia normale e patologica (annuale);  
+6. Psicologia dell'eta' evolutiva (annuale).  
+2° Anno:  
+1. Clinica pediatrica;  
+2. Patologia pediatrica;  
+3. Puericoltura;  
+4. Semeiotica pediatrica e tecnica diagnostica;  
+5. Terapia pediatrica (annuale);  
+6. Radiologia pediatrica (annuale);  
+7. Malattie infettive dell'infanzia (annuale).  
+3° Anno:  
+1. Clinica pediatrica;  
+2. Neuropsichiatria infantile.  
+Gli insegnamenti fondamentali saranno integrati, a giudizio del consiglio della scuola, da almeno tre insegnamenti scelti fra i seguenti o da altri eventuali che possono essere stabiliti di anno in anno:  
+Chirurgia pediatrica;Ortopedia e traumatologia infantile;  
+Odontoiatria;  
+Clinica dermosifilopatica;  
+Clinica oculistica;  
+Clinica otorinolaringoiatrica;  
+Cardiologia;  
+Genetica.  
+Il direttore della scuola, inoltre, puo' disporre che si tengano un certo numero di conferenze su argomenti di interesse pediatrico.  
+Art. 132. - Gli allievi dovranno seguire l'internato obbligatorio con non piu' di due mesi di ferie all'anno Per conseguire il diploma di specializzazione in clinica pediatrica gli allievi dovranno superare gli esami in tutti gli insegnamenti fondamentali e almeno in tre insegnamenti scelti dall'allievo e presentare e discutere una dissertazione scritta su un argomento di pediatria.  
+  
+
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Dato a Roma, addi' 24 settembre 1968
+
+SARAGAT SCAGLIA
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 2 novembre 1968
+
+Atti del Governo, registro n. 223, foglio n. 76. - GRECO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1973 n. 383
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1972 n. 1133
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1973 n. 383
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1972 n. 1133
+================================================================
 
 Autorizzazione alla fondazione "Pro juventute Don Carlo Gnocchi", con sede in Roma, ad accettare una eredita'.
 --------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-383. Decreto del Presidente della Repubblica 24 maggio 1973, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla signorina Alesina Anna Emilia, con testamento olografo del 23 settembre 1969, pubblicato con verbale a rogito dott. Piero Dentone, notaio in Voghera, in data 10 gennaio 1970 (rep. n. 8356/41223), registrato a Voghera il 16 gennaio 1970 al n. 81, volume 211, consistente in un immobile ed accessori sito in Godiasco (Pavia), per un valore presunto di L. 9.500.000.  
+1133. Decreto del Presidente della Repubblica 18 dicembre 1972, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', disposta dalla signorina Carlotta Camagna, con testamento olografo del 22 novembre 1967, pubblicato il 16 febbraio 1968 con atto del dott. Giovanni Caire, notaio in Casale Monferrato, col n. 4766 di repertorio e n. 1308 di raccolta, registrato a Casale Monferrato il 21 febbraio 1968 al n. 418, vol. 404, consistente (giusta perizia eseguita dalla fondazione) in un negozio, sito in Milano, corso XXII Marzo n. 5, del valore presunto di L. 18.000.000 e in due appartamenti pure siti in Milano al n. 5 della predetta via, del valore complessivo presunto di L. 12.000.000.  
   
 Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 4 luglio 1973  
-Atti del Governo, registro n. 258, foglio n. 156. - VALENTINI
+Registrato alla Corte dei conti, addi' 27 marzo 1973  
+Atti di Governo, registro n. 257, foglio n. 18. - VALENTINI

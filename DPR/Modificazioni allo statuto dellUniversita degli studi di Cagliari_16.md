@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 866
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1958 n. 556
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 866
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1958 n. 556
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -10,13 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743);
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successivi;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -30,238 +32,83 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-L'art. 114, relativo alla scuola di specializzazione in ostetricia e ginecologia, e' modificato nel senso che il numero degli iscritti e' stabilito in trentadue (32) per l'intero corso di studi.
+Art. 35. - Agli insegnamenti complementari del corso di laurea in materie letterarie, sono aggiunti i seguenti:
 
-Gli articoli 128, 129, 130, relativi alla scuola di specializzazione in radiologia, sono abrogati e sostituiti dai seguenti.
+"Storia del Risorgimento";
 
-Scuola di specializzazione in radiologia
+"Storia della grammatica e della lingua italiana";
 
-Art. 128. - La scuola rilascia i seguenti diplomi di specializzazioni: in radiologia e in radiologia diagnostica.
+"Storia delle tradizioni popolari";
 
-La scuola e' riservata ai laureati in medicina e chirurgia, che possono essere accolti in numero massimo di trenta.
+"Latino medioevale".
 
-Art. 129. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia e' di quattro anni.
+Art. 36. - Agli insegnamenti complementari del corso di laurea, in pedagogia sono aggiunti i seguenti:
 
-Gli insegnamenti sono i seguenti:
+"Storia del Risorgimento";
 
-a) Matematica, fisica, nozioni di statistica e informatica (annuale) comprendente:
+"Storia delle dottrine politiche";
 
-1) richiami di matematica e fisica generale;
+"Storia della grammatica e della lingua italiana" "Latino medioevale".
 
-2) costituzione della materia;
+Art. 37 - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:
 
-3) produzione, assorbimento e misura delle radiazioni;
+"Storia del Risorgimento";
 
-4) statistica applicata alla medicina;
+"Storia della grammatica e della lingua italiana";
 
-5) informatica e cibernetica applicate alla radiologia.
+"Storia delle tradizioni popolari";
 
-b) Radiodiagnostica (triennale) comprendente:
+"Lingua e letteratura russa";
 
-1) principi generali di radiodiagnostica;
+"Latino medioevale".
 
-2) apparecchi, strumenti e tecnica radiodiagnostica;
+L'art. 48 e' cosi' modificato: "Alla Facolta' di magistero e' annessa la Biblioteca (in comune con quella della Facolta' di lettere e filosofia).
 
-3) tecnica e fisiologia applicate alla radiodiagnostica;
+La direzione della Biblioteca verra' assunta con turno triennale, da un professore, possibilmente di ruolo della Facolta' di lettere e filosofia o di magistero. La scelta del bibliotecario verra' determinata alternativamente e di comune accordo dai Consigli delle due Facolta'.
 
-4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;
+Il funzionamento della Biblioteca e' assicurato con un regolamento approvato dalle due Facolta' e dal rettore".
 
-5) semeiotica radiologica;
+Dopo l'art. 48, e con il conseguente spostamento di quelli successivi, e' aggiunto il seguente: sp;
 
-6) diagnostica differenziale radiologica;
+Art. 19. - "Alla Facolta' di magistero appartengono gli Istituti di:
 
-7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;
+1) Letterature moderne (francese, inglese, tedesco, spagnolo);
 
-8) dimostrazioni di casistica clinica.
+2) Pedagogia;
 
-c) Radiobiologia (annuale) comprendente:
+3) Psicologia.
 
-1) radiobiologia generale;
+La direzione degli Istituti verra' assunta dai rispettivi titolari delle materie e nel caso vi siano piu' titolari, dai piu' anziano. In mancanza di titolare di ruolo la direzione viene assunta dagli incaricati. Ove manchino i titolari di pedagogia e psicologia, la direzione viene assunta dal professore piu' anziano di materie filosofiche".
 
-2) danni da radiazioni e radiopatie.
+Art. 50. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:
 
-d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
-
-1) legislazione sanitaria applicata alla radiologia;
-
-2) compiti e responsabilita' medico-legali del radiologo;
-
-3) radioprotezione fisica e dosimetria ad essa connessa;
-
-4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;
-
-5) radioprotezione chimica;
-
-6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.
-
-e) Radioterapia e terapia fisica (triennale) comprendente:
-
-1) radiobiologia applicata;
-
-2) fondamenti generali di radioterapia e terapia fisica;
-
-3) istopatologia speciale dei tumori;
-
-4) nozioni sugli apparecchi e strumenti per la radioterapia;
-
-5) tecnica e metodica radioterapica;
-
-6) dosimetria;
-
-7) clinica radioterapica;
-
-8) fondamenti generali di chemioterapia oncologica;
-
-9) chemioterapia clinica dei tumori e sua associazione alla radioterapia;
-
-10) dimostrazione di casistica clinica.
-
-f) Medicina nucleare (biennale) comprendente:
-
-1) elementi di medicina nucleare;
-
-2) istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare;
-
-3) dosimetria dei radioisotopi somministrati per via interna;
-
-4) diagnostica con radioisotopi somministrati per via interna;
-
-5) radioterapia metabolica;
-
-6) dimostrazioni di casistica clinica.
-
-I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nei quattro anni di corso:
-
-1° Anno (tronco comune):
-
-Matematica, fisica, nozioni di statistica ed informatica;
-
-Radiobiologia;
-
-Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;
-
-Radiodiagnostica (I).
-
-2° Anno:
-
-Radiodiagnostica (II);
-
-Radioterapia e terapia fisica (I).
-
-3° Anno:
-
-Radiodiagnostica (III);
-
-Radioterapia e terapia fisica (II);
-
-Medicina nucleare (I).
-
-4° Anno:
-
-Radioterapia e terapia fisica (III);
-
-Medicina nucleare (Il).
-
-Art. 130. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.
-
-Gli insegnamenti sono i seguenti:
-
-a) Matematica, fisica, nozioni di statistica e di informatica (annuale) comprendente:
-
-1) richiami di matematica e fisica generale;
-
-2) costituzione della materia;
-
-3) produzione, assorbimento e misura delle radiazioni;
-
-4) statistica applicata alla medicina;
-
-5) informatica e cibernetica applicate alla radiologia.
-
-b) Radiodiagnostica (triennale) comprendente:
-
-1) principi generali di radiodiagnostica;
-
-2) apparecchi, strumenti e tecnica radiodiagnostica;
-
-3) tecnica e fisiologia applicate alla radiodiagnostica;
-
-4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;
-
-5) semeiotica radiologica;
-
-6) diagnostica differenziale radiologica;
-
-7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;
-
-8) dimostrazioni di casistica clinica.
-
-c) Radiobiologia (annuale) comprendente:
-
-1) radiobiologia generale;
-
-2) danni da radiazioni e radiopatie.
-
-d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
-
-1) legislazione sanitaria applicata alla radiologia;
-
-2) compiti e responsabilita' medico-legali del radiologo;
-
-3) radioprotezione fisica e dosimetria ad essa connessa;
-
-4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;
-
-5) radioprotezione chimica;
-
-6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.
-
-I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:
-
-1° Anno (tronco comune):
-
-Matematica, fisica, nozioni di statistica ed informatica;
-
-Radiobiologia;
-
-Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;
-
-Radiodiagnostica (I).
-
-2° Anno:
-
-Radiodiagnostica (II).
-
-3° Anno:
-
-Radiodiagnostica (III).
-
-Per essere ammessi agli esami di diploma in radiologia e in radiologia diagnostica, gli iscritti oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia d'insegnamento ed elaborata una tesi scritta su di un argomento radiologico concordato con il direttore della scuola.
+"Neurochirurgia".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1974
+Dato a Roma, addi' 2 aprile 1958
 
-LEONE
+GRONCHI
 
-MALFATTI
+MORO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 3 marzo 1975 Atti di Governo, registro n. 8, foglio n. 163
+alla Corte dei conti, addi' 6 giugno 1958 Atti del Governo, registro n. 112, foglio n. 172. - RELLEVA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743);  
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successivi;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -271,144 +118,43 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-L'art. 114, relativo alla scuola di specializzazione in ostetricia e ginecologia, e' modificato nel senso che il numero degli iscritti e' stabilito in trentadue (32) per l'intero corso di studi.  
-Gli articoli 128, 129, 130, relativi alla scuola di specializzazione in radiologia, sono abrogati e sostituiti dai seguenti.  
-  
-Scuola di specializzazione in radiologia  
-  
-Art. 128. - La scuola rilascia i seguenti diplomi di specializzazioni: in radiologia e in radiologia diagnostica.  
-La scuola e' riservata ai laureati in medicina e chirurgia, che possono essere accolti in numero massimo di trenta.  
-Art. 129. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia e' di quattro anni.  
-Gli insegnamenti sono i seguenti:  
-  
-a) Matematica, fisica, nozioni di statistica e informatica (annuale) comprendente:  
-1) richiami di matematica e fisica generale;  
-2) costituzione della materia;  
-3) produzione, assorbimento e misura delle radiazioni;  
-4) statistica applicata alla medicina;  
-5) informatica e cibernetica applicate alla radiologia.  
-  
-b) Radiodiagnostica (triennale) comprendente:  
-1) principi generali di radiodiagnostica;  
-2) apparecchi, strumenti e tecnica radiodiagnostica;  
-3) tecnica e fisiologia applicate alla radiodiagnostica;  
-4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;  
-5) semeiotica radiologica;  
-6) diagnostica differenziale radiologica;  
-7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;  
-8) dimostrazioni di casistica clinica.  
-  
-c) Radiobiologia (annuale) comprendente:  
-1) radiobiologia generale;  
-2) danni da radiazioni e radiopatie.  
-  
-d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:  
-1) legislazione sanitaria applicata alla radiologia;  
-2) compiti e responsabilita' medico-legali del radiologo;  
-3) radioprotezione fisica e dosimetria ad essa connessa;  
-4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;  
-5) radioprotezione chimica;  
-6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.  
-  
-e) Radioterapia e terapia fisica (triennale) comprendente:  
-1) radiobiologia applicata;  
-2) fondamenti generali di radioterapia e terapia fisica;  
-3) istopatologia speciale dei tumori;  
-4) nozioni sugli apparecchi e strumenti per la radioterapia;  
-5) tecnica e metodica radioterapica;  
-6) dosimetria;  
-7) clinica radioterapica;  
-8) fondamenti generali di chemioterapia oncologica;  
-9) chemioterapia clinica dei tumori e sua associazione alla radioterapia;  
-10) dimostrazione di casistica clinica.  
-  
-f) Medicina nucleare (biennale) comprendente:  
-1) elementi di medicina nucleare;  
-2) istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare;  
-3) dosimetria dei radioisotopi somministrati per via interna;  
-4) diagnostica con radioisotopi somministrati per via interna;  
-5) radioterapia metabolica;  
-6) dimostrazioni di casistica clinica.  
-  
-I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nei quattro anni di corso:  
-  
-1° Anno (tronco comune):  
-Matematica, fisica, nozioni di statistica ed informatica;  
-Radiobiologia;  
-Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;  
-Radiodiagnostica (I).  
-  
-2° Anno:  
-Radiodiagnostica (II);  
-Radioterapia e terapia fisica (I).  
-  
-3° Anno:  
-Radiodiagnostica (III);  
-Radioterapia e terapia fisica (II);  
-Medicina nucleare (I).  
-  
-4° Anno:  
-Radioterapia e terapia fisica (III);  
-Medicina nucleare (Il).  
-  
-Art. 130. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.  
-Gli insegnamenti sono i seguenti:  
-  
-a) Matematica, fisica, nozioni di statistica e di informatica (annuale) comprendente:  
-1) richiami di matematica e fisica generale;  
-2) costituzione della materia;  
-3) produzione, assorbimento e misura delle radiazioni;  
-4) statistica applicata alla medicina;  
-5) informatica e cibernetica applicate alla radiologia.  
-  
-b) Radiodiagnostica (triennale) comprendente:  
-1) principi generali di radiodiagnostica;  
-2) apparecchi, strumenti e tecnica radiodiagnostica;  
-3) tecnica e fisiologia applicate alla radiodiagnostica;  
-4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;  
-5) semeiotica radiologica;  
-6) diagnostica differenziale radiologica;  
-7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;  
-8) dimostrazioni di casistica clinica.  
-  
-c) Radiobiologia (annuale) comprendente:  
-1) radiobiologia generale;  
-2) danni da radiazioni e radiopatie.  
-  
-d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:  
-1) legislazione sanitaria applicata alla radiologia;  
-2) compiti e responsabilita' medico-legali del radiologo;  
-3) radioprotezione fisica e dosimetria ad essa connessa;  
-4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;  
-5) radioprotezione chimica;  
-6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.  
-  
-I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:  
-  
-1° Anno (tronco comune):  
-Matematica, fisica, nozioni di statistica ed informatica;  
-Radiobiologia;  
-Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;  
-Radiodiagnostica (I).  
-  
-2° Anno:  
-Radiodiagnostica (II).  
-  
-3° Anno:  
-Radiodiagnostica (III).  
-  
-Per essere ammessi agli esami di diploma in radiologia e in radiologia diagnostica, gli iscritti oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia d'insegnamento ed elaborata una tesi scritta su di un argomento radiologico concordato con il direttore della scuola.  
+Art. 35. - Agli insegnamenti complementari del corso di laurea in materie letterarie, sono aggiunti i seguenti:  
+"Storia del Risorgimento";  
+"Storia della grammatica e della lingua italiana";  
+"Storia delle tradizioni popolari";  
+"Latino medioevale".  
+Art. 36. - Agli insegnamenti complementari del corso di laurea, in pedagogia sono aggiunti i seguenti:  
+"Storia del Risorgimento";  
+"Storia delle dottrine politiche";  
+"Storia della grammatica e della lingua italiana" "Latino medioevale".  
+Art. 37 - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:  
+"Storia del Risorgimento";  
+"Storia della grammatica e della lingua italiana";  
+"Storia delle tradizioni popolari";  
+"Lingua e letteratura russa";  
+"Latino medioevale".  
+L'art. 48 e' cosi' modificato: "Alla Facolta' di magistero e' annessa la Biblioteca (in comune con quella della Facolta' di lettere e filosofia).  
+La direzione della Biblioteca verra' assunta con turno triennale, da un professore, possibilmente di ruolo della Facolta' di lettere e filosofia o di magistero. La scelta del bibliotecario verra' determinata alternativamente e di comune accordo dai Consigli delle due Facolta'.  
+Il funzionamento della Biblioteca e' assicurato con un regolamento approvato dalle due Facolta' e dal rettore".  
+Dopo l'art. 48, e con il conseguente spostamento di quelli successivi, e' aggiunto il seguente: sp;  
+Art. 19. - "Alla Facolta' di magistero appartengono gli Istituti di:  
+1) Letterature moderne (francese, inglese, tedesco, spagnolo);  
+2) Pedagogia;  
+3) Psicologia.  
+La direzione degli Istituti verra' assunta dai rispettivi titolari delle materie e nel caso vi siano piu' titolari, dai piu' anziano. In mancanza di titolare di ruolo la direzione viene assunta dagli incaricati. Ove manchino i titolari di pedagogia e psicologia, la direzione viene assunta dal professore piu' anziano di materie filosofiche".  
+Art. 50. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:  
+"Neurochirurgia".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1974
+### Dato a Roma, addi' 2 aprile 1958
 
-LEONE MALFATTI
+GRONCHI MORO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 3 marzo 1975
+Registrato alla Corte dei conti, addi' 6 giugno 1958
 
-Atti di Governo, registro n. 8, foglio n. 163
+Atti del Governo, registro n. 112, foglio n. 172. - RELLEVA

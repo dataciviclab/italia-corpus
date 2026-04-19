@@ -1,87 +1,45 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1967 n. 1365
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 marzo 1965 n. 385
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1967 n. 1365
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 marzo 1965 n. 385
+============================================================
 
 Modificazioni allo statuto dell'Istituto universitario di economia e commercio e di lingue e letterature straniere di Venezia.
 ------------------------------------------------------------------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Istituto universitario di economia e commercio e di lingue e letterature straniere di Venezia approvato con [regio decreto 20 aprile 1939, numero 1029](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1029), e modificato con [regio decreto 26 marzo 1942, n. 352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-26;352), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'istituto anzidetto;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Istituto universitario di economia e commercio e di lingue e letterature straniere di Venezia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 15. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di: "Storia comparata delle letterature moderne" e "Letteratura ispano-americana".
-
-Art. 20. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature orientali sono aggiunti i seguenti: "Lingua e letteratura etiopica"; "Lingua e letteratura urdu"; "Filologia semitica"; "Storia delle istituzioni politiche dell'oriente contemporaneo"; "Lingua tedesca".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 20 giugno 1967
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 23 gennaio 1968 Atti del Governo, registro n. 217, foglio n. 10. - GRECO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Istituto universitario di economia e commercio e di lingue e letterature straniere di Venezia approvato con [regio decreto 20 aprile 1939, numero 1029](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1029), e modificato con [regio decreto 26 marzo 1942, n. 352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-26;352), e successive modificazioni;  
+Veduto lo statuto dell'Istituto universitario di economia e commercio 12 di lingue e letterature straniere di Venezia approvato con [regio decreto 20 aprile 1939, n. 1029](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1029), e modificato con [regio decreto 26 marzo 1942, n. 352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-26;352) e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) a successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'istituto anzidetto;  
+Vedute le proposte di modifiche dello statuto formulate dalle Autorita' accademiche dell'Istituto anzidetto;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sentito il parere del Consiglio superiore della pubblica istruzione Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Istituto universitario di economia e commercio e di lingue e letterature straniere di Venezia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 15. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di: "Storia comparata delle letterature moderne" e "Letteratura ispano-americana".  
-Art. 20. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature orientali sono aggiunti i seguenti: "Lingua e letteratura etiopica"; "Lingua e letteratura urdu"; "Filologia semitica"; "Storia delle istituzioni politiche dell'oriente contemporaneo"; "Lingua tedesca".  
+Lo statuto dell'Istituto universitario di economia e commercio e di Lingue e letterature straniere di Venezia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso.  
+L'art. 1, e' modificato nel senso che l'istituto di storia economica assume la denominazione di "Istituto di storia economica Gino Luzzatto".  
+L'art. 11, relativo alle norme sulla propedeuticita' del corso di laurea in Economia e commercio e' abrogato e sostituito dal seguente: "Per ogni materia biennale lo studente non puo' sostenere l'esame del corso successivo se non ha superato quello del corso precedente".  
+Lo studente deve inoltre aver superato l'esame di Istituzioni di diritto privato per potersi presentare agli esami di diritto commerciale, di diritto della navigazione, di diritto industriale, di diritto del lavoro, di diritto fallimentare, di diritto delle assicurazioni (private e pubbliche), di legislazione bancaria, di diritto processuale civile e di diritto tributario; quello di istituzioni di diritto pubblico per potersi presentare agli esami di diritto amministrativo, di diritto del lavoro, di scienza delle finanze e diritto finanziario, di diritto processuale civile, di legislazione bancaria e di diritto tributario; l'esame di matematica generale per potersi presentare a quelli di matematica finanziaria, di statistica, di demografia e di economia politica; l'esame di ragioneria generale ed applicata di 1° anno per potersi presentare agli esami di tecnica industriale e commerciale e di tecnica bancaria e professionale; di economia.  
+politica, di statistica e di scienza delle finanze e diritto finanziario per presentarsi agli esami di politica economica e finanziaria, e di economia dei trasporti; di economia politica del 1° anno per gli esami di storia economica e di statistica economica; di economia politica del 1° e 2° anno per gli esami di scienza delle finanze e diritto finanziario, di econometrica e di economia e politica agraria; di matematica finanziaria del 1° anno per l'esame di econometrica; di statistica del 1° anno per gli esami di econometrica e di statistica economica.  
+Nell'art. 16, agli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto quello di: "Storia del teatro e dello spettacolo".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 giugno 1967
+### Dato a Roma, addi' 4 marzo 1965
 
 SARAGAT GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 23 gennaio 1968
+Registrato alla Corte dei conti, addi' 28 aprile 1965
 
-Atti del Governo, registro n. 217, foglio n. 10. - GRECO
+Atti del Governo, registro n. 192, foglio n. 127. - VILLA

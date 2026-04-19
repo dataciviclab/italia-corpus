@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1957 n. 1381
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1978 n. 808
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1957 n. 1381
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1978 n. 808
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -10,61 +10,73 @@ Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-12;2227), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli 547, 548, 549, 550, 551 e 552, relativi alla scuola di specializzazione in anestesiologia e rianimazione, che muta la denominazione in quella di scuola di specializzazione in anestesia e rianimazione, sono abrogati e sostituiti dai seguenti con il conseguente spostamento della numerazione degli articoli successivi:   
   
-Scuola di perfezionamento in fisio-chinesiterapia ortopedica  
-  
-Art. 354. - Presso la clinica ortopedica dell'Universita' di Bologna e' istituita una scuola di perfezionamento in fisio-chinesiterapia ortopedica che conferisce il diploma di specialista in fisio-chinesiterapia ortopedica.  
-Il direttore della scuola e' il direttore della clinica ortopedica.  
-I docenti del corso saranno scelti tra i professori della Facolta' di medicina e chirurgia su designazione della Facolta' stessa.  
-Art. 355. - Alla scuola sono ammessi i laureati in medicina e chirurgia. Essa ha indirizzo teorico-pratico con lo scopo di specializzare nella rieducazione e riabilitazione funzionale e professionale di tutti i motulesi.  
-L'ammissione alla scuola avviene attraverso concorso interno con esami ed eventuali prove pratiche.  
-Il numero degli ammessi e' stabilito anno per anno dalla Direzione della scuola, numero che non puo' superare i dieci.  
-Art. 356. - La durata del corso e' di due anni.  
-Gli iscritti hanno l'obbligo di una frequenza continuata ed ininterrotta.  
-Art. 357. - Gli insegnamenti obbligatori sono i seguenti:  
-1° anno:  
-1) Anatomia dell'apparato motore;  
-2) Fisiologia dell'apparato motore;  
-3) Patologia delle motulesioni;  
-4) Termoterapia;  
-5) Massoterapia;  
-6) Idroterapia, balneoterapia.  
-2° anno:  
-1) Clinica delle motulesioni;  
-2) Terapia delle radiazioni;  
-3) Elettroterapia;  
-4) Ginnastica, medica (profilattica e correttiva);  
-5) Terapia del movimento e meccanoterapia;  
-6) Rieducazione motoria e riabilitazione.  
-In un manifesto annuale della clinica ortopedica vengono esposte le norme dettagliate riguardanti i vari insegnamenti.  
-Art. 358. - Alla fine del primo anno gli iscritti dovranno sostenere un esame di profitto nel gruppo di materie del primo corso.  
-Alla fine del secondo anno gli iscritti dovranno sostenere un esame di profitto nel gruppo di materie del secondo corso.  
-L'esame di diploma consiste nella discussione di una dissertazione scritta.  
+Scuola di specializzazione in anestesia e rianimazione   
+Art. 547. - La scuola di specializzazione in anestesia e rianimazione ha sede presso la facolta' di medicina e chirurgia e conferisce il diploma di specialista in anestesia e rianimazione.   
+La direzione della scuola e' affidata al professore di ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo di materia affine.   
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.   
+E' richiesto, almeno per l'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di tre anni (3) e non e' suscettibile di abbreviazioni.   
+Il numero massimo degli allievi e' di 30 per anno di corso e complessivamente di 90 iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Art. 548. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+1) anatomia applicata all'anestesia ed alla rianimazione;   
+2) biochimica applicata all'anestesia ed alla rianimazione;   
+3) farmacologia applicata all'anestesia e alla rianimazione;   
+4) fisiologia applicata all'anestesia ed alla rianimazione;   
+5) fisica applicata all'anestesia ed alla rianimazione;   
+6) anestesiologia I;   
+7) tecniche chirurgiche di interesse anestesiologico;   
+8) aspetti medico-legali dell'anestesia e della rianimazione;   
+9) esercitazioni pratiche.   
+2° Anno:   
+1) anestesiologia II;   
+2) terapia antalgica;   
+3) rianimazione I;   
+4) esercitazioni pratiche.   
+3° Anno:   
+1) rianimazione (II);   
+2) tecniche speciali di anestesia;   
+3) tecniche speciali di rianimazione;   
+4) indagini diagnostiche attinenti alla specialita';   
+5) esercitazioni pratiche.   
+Vengono inoltre impartiti insegnamenti complementari sulle seguenti materie:   
+tecnica degli esami endoscopici (I anno);   
+cardiologia per la rianimazione (II anno);   
+nozioni di tossicologia clinica (III anno).   
+Tali insegnamenti costituiscono materia di esame.   
+Art. 549. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Art. 550. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.   
+Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.   
+Art. 551. - Al termine del corso di studi per il conseguimento del diploma di specialista in anestesia e rianimazione gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 ottobre 1957
+### Dato a Roma, addi' 2 ottobre 1978
 
-GRONCHI MORO
+PERTINI PEDINI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 26 novembre 1957
+Registrato alla Corte dei conti, addi' 11 dicembre 1978
 
-Atti del Governo, registro n. 109, foglio n. 55. - DI PRETORO
+Registro n. 130 Istruzione, foglio n. 151

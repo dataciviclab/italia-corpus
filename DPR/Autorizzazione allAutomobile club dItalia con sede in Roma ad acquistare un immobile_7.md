@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1968 n. 502
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 novembre 1971 n. 1377
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1968 n. 502
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 novembre 1971 n. 1377
+================================================================
 
 Autorizzazione all'Automobile club d'Italia, con sede in Roma, ad acquistare un immobile.
 -----------------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-502. Decreto del Presidente della Repubblica 11 marzo 1968, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile club d'Italia, con sede in Roma, viene autorizzato ad acquistare in proprieta' dalla societa' per azioni "Lubrificanti O.  
-Coppini S.p.A.", con sede in Livorno, per adibirlo a stazione di servizio e per il prezzo di lire 500.000, l'appezzamento di terreno con sovrastante fabbricato a piano terra, sito in Livorno, frazione Antignano, localita' denominata "Marroccone", nel nuovo catasto al F. 79, n. 33 in parte.  
+1377. Decreto del Presidente della Repubblica 3 novembre 1971, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile club d'Italia, con sede in Roma, viene autorizzato ad acquistare in proprieta' dai signori Edmondo Sobrero ed Adriana Paganini, per il prezzo di L. 35.730.000, l'appartamento posto al quarto piano del fabbricato sito in Torino alla via S. Francesco da Paola n. 22, composto di sette vani, doppi servizi ed accessori con una cantina; riportato nel nuovo catasto edilizio urbano alla partita 109750, foglio n. 197, mappale 94 sub 19.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 16 aprile 1968  
-Atti del Governo, registro n. 219, foglio n. 8 - GRECO
+Visto, il Guardasigilli: COLOMBO  
+Registrato alla Corte dei conti, addi' 29 febbraio 1972  
+Atti del Governo, registro n. 247, foglio n. 79. - VALENTINI

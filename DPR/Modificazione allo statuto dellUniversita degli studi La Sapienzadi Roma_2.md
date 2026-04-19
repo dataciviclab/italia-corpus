@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 marzo 1983 n. 216
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 995
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 marzo 1983 n. 216
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 995
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi "La Sapienza" 
 di Roma.
@@ -11,7 +11,7 @@ di Roma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' "La Sapienza" di Roma, approvato con [regio decreto n. 2319 del 14 ottobre 1926](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2319);
+Veduto lo statuto dell'Universita' "La Sapienza" di Roma, approvato con [regio decreto 14 ottobre 1926, n. 2319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2319), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -25,9 +25,9 @@ Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http:
 
 Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata [legge n. 615/81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;615);
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
-Veduti i pareri espressi dal Consiglio universitario nazionale;
+Veduto il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
@@ -40,32 +40,18 @@ Articolo unico
 --------------
 
   
-  
-Art. 92 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono inseriti i seguenti insegnamenti:   
-neurologia pediatrica;   
-cardiologia pediatrica;   
-neuroftalmologia;   
-istituzioni di patologia generale;   
-anestesia e chirurgia orale;   
-odontoiatria infantile;   
-virologia clinica;   
-traumatologia;   
-semeiotica cardiovascolare;   
-immunologia;   
-oncologia sperimentale;   
-fisiopatologia digestiva;   
-medicina delle comunita'.   
+Art. 183 - nell'elenco degli insegnamenti complementari, comuni alle tre sezioni, della scuola speciale per archivisti e bibliotecari e' inserito l'insegnamento di "cronologia".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 marzo 1983
+### Dato a Roma, addi' 28 ottobre 1983
 
 PERTINI FALCUCCI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 9 maggio 1983
+Registrato alla Corte dei conti, addi' 15 febbraio 1984
 
-Registro n. 32 Istruzione, foglio n. 34
+Registro n. 8 Istruzione, foglio n. 70

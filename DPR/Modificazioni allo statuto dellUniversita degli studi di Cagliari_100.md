@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1961 n. 176
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1976 n. 538
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1961 n. 176
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1976 n. 538
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -12,14 +12,12 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con regio decreto 20 aprile 1939.  
-n. 1098, modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743) e successivi;  
+Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1934, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Riconosciuta la particolare necessita' di approvare le modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Cagliari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
@@ -27,65 +25,123 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 51. - All'elenco delle lauree rilasciate dalla Facolta' di scienze matematiche, fisiche e naturali e' aggiunto:  
-"Laurea in scienze biologiche".  
-Dopo l'art. 57 e con il conseguente spostamento della numerazione degli articoli successivi e' aggiunto il seguente e nuovo articolo relativo alla istituzione del corso di laurea in Scienze biologiche.  
-Art. 58. - La durata del corso degli studi per la laurea in Scienze biologiche e' di quattro anni. E' titolo di ammissione il diploma, di maturita' classica o scientifica.  
-Sono insegnamenti fondamentali:  
-1) Istituzioni di matematica;  
-2) Fisica;  
-3) Chimica generale ed inorganica;  
-4) Chimica organica;  
-5) Botanica (biennale);  
-6) Zoologia (biennale);  
-7) Anatomia comparata;  
-8) Anatomia umana;  
-9) Istologia ed embriologia;  
-10) Fisiologia generale (biennale);  
-11) Chimica biologica;  
-12) Igiene.  
-Insegnamenti complementari:  
-1) Chimica fisica;  
-2) Biologia generale;  
-3) Antropologia;  
-4) Biologia delle razze umane;  
-5) Etnologia;  
-6) Genetica;  
-7) Zooculture (bachi, api, avi, coniglicoltura);  
-8) Idrobiologia e piscicoltura;  
-9) Patologia generale;  
-10) Microbiologia;  
-11) Parassitologia;  
-12) Entomologia agraria;  
-13) Fisiologia vegetale;  
-14) Patologia vegetale;  
-15) Geologia;  
-16) Paleontologia;  
-17) Statistica;  
-18) Scienza dell'alimentazione (regio decreto 1 luglio 1840, n. 992).  
-Gli insegnamenti di "Botanica" e di "Zoologia" comprendono tanto la parte generale quanto quella sistematica ed importano un esame ciascuno a fine di ogni anno.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi ed aver superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra, i complementari.  
-Alcune esercitazioni di carattere naturalistico si potranno svolgere anche come escursione in campagna.  
-Gli esami di Anatomia umana, di Chimica generale ed inorganica, di Chimica organica debbono precedere quello di Fisiologia generale.  
-Gli esami di Botanica e Zoologia sia generale che sistematica debbono precedere quello di "Paleontologia" e di "Anatomia comparata".  
-Dopo il primo biennio lo studente dovra' frequentare per due anni, come interno, in uno degli Istituti di scienze biologiche, ove attendera' all'elaborazione della tesi di laurea: durante tale biennio egli e' tenuto a seguire la attivita' scientifica e didattica che si svolge nell'Istituto stesso.  
-Durante gli anni per il conseguimento di detta laurea lo studente e' tenuto altresi' a frequentare due internati per la durata di un anno in altri due Istituti biologici diversi e differenti da quello in cui compie il biennio per la elaborazione della tesi di laurea.  
-Lo studente deve inoltre aver sostenuto un colloquio - che non ha carattere eliminatorio - di cultura generale nelle Scienze biologiche.  
-L'esame di laurea comprende:  
-1) una prova pratica, sulla materia scelta per la tesi di laurea;  
-2) la discussione orale della prova pratica e della tesi di laurea;  
-3) la discussione di due fra tre argomenti, scelti dal candidato su materie sulle quali ha sostenuto l'esame, diverse tra loro.  
+Dopo l'art. 228, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle seguenti scuole di specializzazione in chirurgia toracica e chirurgia dell'infanzia.  
+  
+Scuola di specializzazione in chirurgia toracica  
+Art. 229. - La scuola di specializzazione in chirurgia toracica ha la durata di 4 anni e prevede l'insegnamento in tutte le branche della chirurgia toracica:  
+chirurgia polmonare, chirurgia cardiaca, chirurgia esofagea, chirurgia del mediastino e della parete toracica.  
+Art. 230. - Alla scuola possono accedere i laureati in medicina e chirurgia che abbiano almeno 3 anni di frequenza in una scuola di specializzazione in chirurgia generale e medici che, a giudizio del consiglio degli insegnanti della scuola stessa, abbiano acquisito sufficiente pratica in chirurgia generale attraverso servizi prestati in reparti chirurgici.  
+Art. 231. - Coloro che siano in possesso del diploma di specializzazione in chirurgia generale e di libera docenza in una disciplina chirurgica (clinica chirurgica, patologia speciale chirurgica, semeiotica chirurgica, anatomia chirurgica) possono essere ammessi al secondo anno di corso previo esame integrativo vertente sulle materie del primo anno di corso.  
+In nessuna altra circostanza puo' essere concessa abbreviazione di corso.  
+Art. 232. - Il numero degli iscritti alla scuola e' fissato in dodici per i quattro anni di corso (tre per ogni anno).  
+Art. 233. - Il corso si compone di insegnamenti fondamentali, di esercitazioni pratiche, di periodi di internato, di conferenze riguardanti argomenti specialistici, di turni in corsia ed in sala operatoria. La frequenza ai corsi, agli internati in corsia ed in sala operatoria, alle esercitazioni, e' obbligatoria. In caso contrario, i candidati non potranno ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.  
+Art. 234. - Alla fine di ciascun anno accademico gli specializzandi che abbiano ottenuto la firma di frequenza dovranno sostenere un esame di profitto nelle materie fondamentali, il cui superamento e' condizione necessaria ed indispensabile per ottenere l'iscrizione all'anno accademico successivo e per quelli che sono stati iscritti al quarto anno, per l'ammissione all'esame di diploma.  
+Nell'ultimo anno di corso gli specializzandi frequenteranno la sala operatoria in maniera assidua, dovranno assistere a numerosi interventi di chirurgia toracica ed essere in grado di eseguirne essi stessi.  
+La loro preparazione tecnica sara' convalidata o meno alla fine del corso dal direttore della scuola di specializzazione.  
+Art. 235. - Per tutti gli specializzandi che abbiano superato gli esami dei quattro anni, alla fine del quarto anno di corso ha luogo l'esame di diploma, consistente nella presentazione e discussione di una dissertazione scritta su di un argomento di chirurgia toracica (polmonare, cardiaca, esofagea, mediastinica) precedentemente concordata tra il direttore della scuola ed il diplomando all'inizio del terzo e quarto anno.  
+La tesi deve essere approvata dallo stesso direttore e depositata presso la direzione almeno quindici giorni prima dell'esame di diploma.  
+Il candidato dovra' sostenere inoltre una prova clinica.  
+I candidati non riconosciuti idonei all'esame di diploma dovranno ripresentarsi all'esame dopo un altro anno di frequenza alla scuola.  
+Se al secondo esame non sia riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.  
+Art. 236. - Le materie di insegnamento sono:  
+1° Anno:  
+1) embriologia, anatomia descrittiva e topografica del torace e degli organi endotoracici (parete toracica, apparato respiratorio, diaframma, mediastino, organi mediastinici, cuore e grossi vasi endotoracici) (annuale);  
+2) anatomia chirurgica del torace e degli organi endotoracici (annuale);  
+3) anatomia patologica delle malattie del torace (annuale);  
+4) anestesia e rianimazione nella chirurgia toracopolmonare ed in cardio-chirurgia (annuale).  
+2° Anno:  
+1) fisiopatologia dell'apparato respiratorio e valutazione funzionale (annuale);  
+2) fisiopatologia dell'apparato cardio-circolatorio (annuale);  
+3) semeiotica e diagnostica clinica e strumentale dell'apparato respiratorio dell'esofago, del mediastino (annuale);  
+4) semeiotica e diagnostica clinica e strumentale dell'apparato cardio-circolatorio (annuale);  
+5) diagnostica radiologica toraco-polmonare, del cuore e dei grossi vasi endotoracici (annuale).  
+3° Anno:  
+1) patologia e clinica chirurgica delle affezioni dell'apparato respiratorio del mediastino e della parete toracica (biennale) I;  
+2) patologia e clinica chirurgica delle affezioni del cuore e dei grossi vasi endotoracici (biennale) I;  
+3) patologia e clinica chirurgica delle affezioni dell'esofago e del diaframma (annuale);  
+4) terapia chirurgica della tubercolosi polmonare (annuale);  
+5) elementi di terapia medica delle cardio-angiopatie (annuale);  
+6) elementi di fisioterapia respiratoria (annuale).  
+4° Anno:  
+1) patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (biennale) II;  
+2) patologia e clinica chirurgica delle affezioni del cuore e dei grossi vasi endotoracici (biennale) II;  
+3) tecnica operatoria per le affezioni della parete toracica, dell'apparato respiratorio, dell'esofago, del mediastino e del diaframma (annuale);  
+4) tecnica operatoria delle affezioni del cuore, pericardio e grossi vasi endotoracici (annuale);  
+5) principi e tecniche della circolazione extracorporea e della ipotermia (annuale).  
+Art. 237. - Le tasse di specializzazione saranno cosi' suddivise:  
+  
+1° Anno Altri anni Fuori corso  
+  
+Immatricolazione. . . . . 20.000  
+Iscrizione. . . . . . . . 50.000 50.000 50.000  
+Esami profitto. . . . . . 10.000 10.000  
+Laboratori. . . . . . . . 150.000 150.000 50.000  
+Associazione studenti . . 1.000 1.000 1.000  
+Riscaldamento . . . . . . 5.000 5.000 5.000  
+  
+Totale. . . 236.000 216.000 106.000  
+  
+Contemporaneamente al pagamento della prima rata gli iscritti debbono versare un contributo di riscontro di lire mille.  
+Gli iscritti al primo anno sono tenuti all'atto della immatricolazione al pagamento di lire mille per libretto e tessera.  
+La tassa annuale di iscrizione per gli studenti fuori corso aumenta di L. 1.500 per ciascun anno successivo ai primi due.  
+  
+Scuola di specializzazione in chirurgia dell'infanzia  
+Art. 238. - Presso la facolta' di medicina e chirurgia dell'Universita' di Cagliari e' istituita la scuola di specializzazione in chirurgia dell'infanzia, della durata di due anni, che conferisce il diploma di specialista in chirurgia dell'infanzia.  
+Art. 239. - Possono ottenere l'iscrizione alla scuola i laureati in medicina e chirurgia che siano in possesso del diploma di specialista in chirurgia generale o abbiano conseguito la libera docenza in clinica chirurgica pediatrica, o in clinica chirurgica generale o in patologia chirurgica o in semeiotica chirurgica o in anatomia chirurgica.  
+Art. 240. - Non e' ammessa abbreviazione di corso.  
+Art. 241. - Il numero degli iscritti alla scuola e' di sette per anno di corso.  
+Art. 242. - Qualora il numero degli aspiranti superi quello stabilito, l'ammissione sara' subordinata ad una prova d'esame.  
+Art. 243. - Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali, oltre il periodo di internato obbligatorio di almeno sei mesi per ogni anno di corso.  
+Art. 244. - Il periodo di internato potra' essere abbreviato per coloro che documentino di svolgere effettivo servizio presso reparti di chirurgia pediatrica universitari o ospedalieri.  
+Art. 245. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+a) clinica chirurgica pediatrica (lezioni);  
+b) anatomia patologica e teratologia (lezioni);  
+c) endocrinologia infantile (conferenze);  
+d) clinica pediatrica (lezioni);  
+e) patologia chirurgica e semeiotica chirurgica (lezioni);  
+f) diagnostica radiologica e nucleare delle malattie chirurgiche dell'infanzia (lezioni);  
+g) anestesiologia e rianimazione (conferenze).  
+2° Anno:  
+a) clinica chirurgica pediatrica (lezioni);  
+b) clinica pediatrica (lezioni);  
+c) chirurgia d'urgenza nell'infanzia (lezioni);  
+d) otorinolaringoiatria nell'infanzia (conferenze);  
+e) ortopedia nell'infanzia (conferenze);  
+f) urologia nell'infanzia (conferenze);  
+g) neurochirurgia infantile (conferenze);  
+h) chirurgia del cuore e dei grossi vasi.  
+Art. 246. - La frequenza alle lezioni e alle conferenze e' obbligatoria.  
+Art. 247. - Al termine di ciascun anno accademico gli specializzandi che abbiano ottenuto le firme di frequenza dovranno sostenere gli esami di profitto nelle materie oggetto di insegnamento.  
+Art. 248. - Al termine del corso di specializzazione gli specializzandi dovranno presentare una dissertazione scritta su argomento di chirurgia infantile e sostenere l'esame di diploma.  
+Art. 249. - La direzione della scuola e' affidata al titolare dell'insegnamento di clinica chirurgica pediatrica.  
+Art. 250. - Le tasse di specializzazione saranno cosi' suddivise:  
+  
+1° Anno Altri anni Fuori corso  
+  
+Immatricolazione. . . . . 20.000  
+Iscrizione. . . . . . . . 50.000 50.000 50.000  
+Esami profitto. . . . . . 10.000 10.000  
+Laboratori. . . . . . . . 150.000 150.000 50.000  
+Associazione studenti . . 1.000 1.000 1.000  
+Riscaldamento . . . . . . 5.000 5.000 5.000  
+  
+Totale. . . 236.000 216.000 106.000  
+  
+Contemporaneamente al pagamento della prima rata gli iscritti debbono versare un contributo di riscontro di lire mille.  
+Gli iscritti al primo anno sono tenuti all'atto della immatricolazione al pagamento di lire mille per libretto e tessera.  
+La tassa annuale di iscrizione per gli studenti fuori corso aumenta di L. 1.500 per ciascun anno successivo ai primi due.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 febbraio 1961
+### Dato a Roma, addi' 25 maggio 1976
 
-GRONCHI BOSCO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 28 marzo 1961
+Registrato alla Corte dei conti, addi' 26 luglio 1976
 
-Atti del Governo, registro n. 135, foglio n. 111. - VILLA
+Atti di Governo, registro n. 8, foglio n. 18

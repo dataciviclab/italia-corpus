@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1982 n. 848
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1152
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1982 n. 848
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1152
+===============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazione allo statuto dell'Universita' degli studi di Roma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Roma approvato con [regio decreto n. 2319 del 14 ottobre 1926](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2319), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Roma approvato con [regio decreto n. 2319 del 14 ottobre 1926](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2319) e modificato con [regio decreto n. 2819 del 13 ottobre 1927](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2819) e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -39,18 +39,21 @@ Articolo unico
 --------------
 
   
-Nell'art. 60, concernente il corso di laurea in filosofia, all'elenco degli insegnamenti complementari e' aggiunto l'insegnamento di "metodologia della ricerca pedagogica". Inoltre nel medesimo elenco l'insegnamento di "docimologia e psicometria" cambia la denominazione in quella di "docimologia".  
+All'art. 148, concernente gli istituti annessi alla facolta' di architettura, e' aggiunto il seguente comma:  
+"La facolta' di architettura comprende altresi':  
+a) un laboratorio per le applicazioni di calcolo;  
+b) un laboratorio per la produzione e l'applicazione di sistemi audiovisivi ai processi di formazione dello architetto".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 settembre 1982
+### Dato a Roma, addi' 31 ottobre 1981
 
 PERTINI BODRATO
 
 Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 8 novembre 1982
+Registrato alla Corte dei conti, addi' 22 giugno 1982
 
-Registro n. 123 Istruzione, foglio n. 238
+Registro n. 82 Istruzione, foglio n. 144

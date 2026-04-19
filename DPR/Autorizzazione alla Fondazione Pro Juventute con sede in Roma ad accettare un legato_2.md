@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1955 n. 1478
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1956 n. 475
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1955 n. 1478
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1956 n. 475
+=============================================================
 
 Autorizzazione alla Fondazione "Pro Juventute", con sede in Roma, ad accettare un legato.
 -----------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1478. Decreto del Presidente della Repubblica 24 dicembre 1955, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Fondazione "Pro Juventute", con sede in Roma, viene autorizzata ad accettare un legato, disposto dal dott. Carlo Cainelli fu Giuseppe con testamento olografo in data 6 aprile 1954.  
+475. Decreto del Presidente della Repubblica 10 maggio 1956, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Fondazione "Pro Juventute", con sede in Roma, viene autorizzata ad accettare, con beneficio d'inventario, il legato disposto dalla defunta signora Angela Poero ved. Marangoni con testamento olografo in data 20 dicembre 1952.  
   
 Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 26 gennaio 1956  
-Atti del Governo, registro n. 95, foglio n. 122. - E. GRECO
+Registrato alla Corte dei conti, addi' 1 giugno 1956  
+Atti del Governo, registro n. 98, foglio n. 10. - CARLOMAGNO

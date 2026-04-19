@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1981 n. 403
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1982 n. 963
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1981 n. 403
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1982 n. 963
 =============================================================
 
 Autorizzazione ad accettare un legato a favore dello Stato.
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-403. Decreto del Presidente della Repubblica 29 maggio 1981, col quale, sulla proposta del Ministro della difesa, il medesimo viene autorizzato ad accettare il legato disposto a favore dello Stato, e per esso al Ministero della difesa - Comando truppe alpine, dall'ing. Filippo Borrello con testamento olografo pubblicato con atto 27 novembre 1975 n. 478260/10754 di repertorio, a rogito dott.  
-Salvatore Albano, notaio in Valmontone (Roma), registrato a Velletri (Roma) il 9 dicembre 1975 al n. 2850, vol. 186, destinato all'istituzione di gare alpine cosi' specificate: 1) gare di gran fondo - Premio magg. Borrello; 2) scuola militare di alpinismo - Premio magg. Borrello per scalate di 5° grado e di 6° grado I superiore.  
+963. Decreto del Presidente della Repubblica 30 giugno 1982, col quale, sulla proposta del Ministro per i beni culturali ed ambientali, viene autorizzata l'accettazione di un legato a favore dello Stato, consistente in una raccolta di quadri, disegni, stampe, legni incisi, album di disegni e appunti, da destinare alla galleria degli Uffizi, al gabinetto disegni e stampe e alla galleria d'arte moderna di Firenze e alla soprintendenza speciale alla galleria nazionale d'arte moderna di Roma, disposto dalla sig.ra Ferre' Sigrid De Witt con testamento olografo 4 luglio 1972, pubblicato in data 1 giugno 1974, n. 19175 di repertorio, a rogito dottor Giampaolo Valiani, notaio in Firenze, registrato a Firenze in data 12 giugno 1974 al n. 5646.  
   
 Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 16 luglio 1981  
-Registro n. 24 Difesa, foglio n. 231
+Registrato alla Corte dei conti, addi' 11 dicembre 1982  
+Registro n. 35 Beni culturali, foglio n. 202

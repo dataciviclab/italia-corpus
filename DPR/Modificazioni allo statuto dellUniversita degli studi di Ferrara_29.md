@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1971 n. 470
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1967 n. 607
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1971 n. 470
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1967 n. 607
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
@@ -18,7 +18,7 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,251 +30,187 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli 101, 102 e 103, relativi alla "scuola di specializzazione in anestesiologia" che assume la denominazione di "scuola di specializzazione in anestesiologia e rianimazione", sono abrogati e sostituiti dai seguenti:
+Dopo l'art. 143, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Scienza e tecnica dei fenomeni di corrosione annessa alla Facolta' di scienze matematiche, fisiche e naturali.
 
-Scuola di specializzazione in anestesiologia e rianimazione
+Scuola di specializzazione in Scienza e tecnica dei fenomeni di corrosione
 
-Art. 101. - La scuola di specializzazione in anestesiologia e rianimazione ha sede presso la clinica chirurgica, ed ha la durata di tre anni.
+Art. 144. - E' istituita presso la Facolta' di scienze matematiche, fisiche e naturali la Scuola di specializzazione in Scienza e tecnica dei fenomeni di corrosione con sede presso l'Istituto chimico dell'Universita'.
 
-Direttore della scuola e' il direttore della clinica chirurgica.
+Essa ha lo scopo di impartire lezioni ed esercitazioni pratiche al fine di fornire agli allievi una preparazione completa, teorica e pratica nella scienza e nella tecnologia dei fenomeni di corrosione.
 
-Alla scuola potranno essere iscritti i laureati in medicina e chirurgia per un numero complessivo di trentasette specializzandi.
+Art. 145. - Il direttore della Scuola e' nominato dal rettore su designazione del Consiglio della facolta' di scienze matematiche, fisiche e naturali fra i professori di ruolo della Facolta' stessa.
 
-Art. 102. - Le materie di insegnamento sono:
+Il direttore e' coadiuvato da un Consiglio costituito dagli insegnanti della Scuola.
 
-1° Anno:
+Gli insegnanti sono proposti dal direttore e sono nominati dalla Facolta'.
 
-Anatomia, biochimica, farmacologia, fisica, fisiologia applicata alla anestesiologia e rianimazione;
+Art. 146. - La Scuola rilascia un diploma di specializzazione in Scienza e tecnica dei fenomeni di corrosione ai sensi dell'[art. 178 del testo unico 31 agosto 1933 n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art178).
 
-Anestesiologia;
+Art. 147. - La durata del corso di studi per il conseguimento del diploma e' di due anni Alla Scuola possono essere iscritti dieci allievi per ciascun anno del corso.
 
-Tecniche chirurgiche di interesse anestesiologico;
+Qualora il numero delle domande di iscrizione ecceda quello fissato, il Consiglio della Scuola procedera' ad una scelta in base ai titoli presentati.
 
-Aspetti medico-legali dell'anestesiologia e della rianimazione;
+Possono inscriversi i laureati in Chimica, Chimica industriale e Ingegneria.
 
-Internato.
+Su proposta della Facolta' di scienze matematiche, fisiche e naturali udito il Consiglio della Scuola, il Senato accademico puo' ammettere alla Scuola candidati che presentino diplomi di laurea diversi da quelli stabiliti.
 
-2° Anno:
+La Facolta', su parere del Consiglio della Scuola, puo' esonerare dalla frequenza di una parte dei corsi prescritti per il conseguimento del diploma quei laureati che presentino particolari titoli di studio nel campo specifico della corrosione. L'esonero, pero', non potra' in nessun caso essere superiore ad un anno di corso, fermo restando che l'iscritto deve superare gli esami ed ottemperare al pagamento delle tasse, soprattasse o contributi relativi all'anno di corso esonerato.
 
-Anestesiologia;
+Gli aspiranti debbono nei termini regolamentari presentare apposita domanda su carta legale diretta al rettore e corredata dei prescritti documenti e dalla quietanza del pagamento delle tasse, soprattasse e contributi relativi.
 
-Terapia antalgica;
-
-Rianimazione;
-
-Internato.
-
-3° Anno:
-
-Rianimazione;
-
-Tecniche speciali di anestesia e rianimazione;
-
-Indagini diagnostiche attinenti alla specialita';
-
-l'Internato.
-
-Art. 103. - Non e' concessa nessuna abbreviazione di corso, ad eccezione dei candidati che gia' in possesso del diploma di specializzazione in anestesiologia, possono essere ammessi al 3° anno, per ottenere il completamento.
-
-Per accedere ai corsi successivi, e' obbligatorio il superamento di tutti gli esami del corso precedente, ivi comprese le materie biennali.
-
-Il diploma viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi a carattere clinico o sperimentale.
-
-Dopo l'art. 127 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in psichiatria.
-
-Scuola di specializzazione in psichiatria
-
-Art. 128. - Il corso della scuola di specializzazione in psichiatria ha la durata di quattro anni ed e' tenuto presso la clinica delle malattie nervose e mentali.
-
-Alla scuola non potranno essere iscritti, complessivamente, piu' di cinque laureati in medicina e chirurgia, previa ammissione per titoli ed esame.
-
-Art. 129. - Le materie di insegnamento sono le seguenti:
+Art. 148. - Le materie di insegnamento sono le seguenti:
 
 1° Anno:
 
-1) Anatomia e istologia del sistema nervoso;
+1. Termodinamica e cinetica chimica dei fenomeni di corrosione, con esercitazioni.
 
-2) Fisiologia del sistema nervoso;
+2. Elettrochimica dei fenomeni di corrosione, con esercitazioni.
 
-3) Biochimica del sistema nervoso;
+3. Elementi di scienza dei metalli e di metallurgia.
 
-4) Genetica (elementi);
+4. Corrosione secca e corrosione ad umido.
 
-5) Psicologia generale;
-
-6) Psicopatologia (1°);
-
-7) Semeiotica psichiatrica.
+5. Corrosione negli impianti industriali.
 
 2° Anno:
 
-1) Anatomia e istologia patologica del sistema nervoso;
+1. Corrosione di materiali ferrosi.
 
-2) Semeiotica neurologica;
+2. Corrosione di materiali non ferrosi.
 
-3) Patologia speciale e diagnostica neurologica;
+3. Metodi di studio e di testing dei fenomeni di corrosione, con esercitazioni.
 
-4) Neuro-radiologia;
+4. Prevenzione della corrosione; interventi sul metallo.
 
-5) Endocrinologia e neurologia vegetativa;
+5. Prevenzione della corrosione; interventi sull'ambiente.
 
-6) Elettroencefalografia.
+6. Esercitazioni sui metodi di prevenzione della corrosione.
 
-3° Anno:
+Gli iscritti sono tenuti alla frequenza ai corsi di lezioni e di esercitazioni. La frequenza viene comprovata dall'attestazione rilasciata dagli insegnanti sul libretto di iscrizione.
 
-1) Patologia speciale psichiatrica;
+L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.
 
-2) Psicopatologia (2°);
+Art. 149. - "Le tasse e le soprattasse che gli iscritti sono tenuti a pagare sono le stesse che la legge stabilisce per gli studenti della Facolta' di scienze matematiche, fisiche e naturali.
 
-3) Clinica psichiatrica (1°);
+La misura dei contributi per le esercitazioni e per le prestazioni di qualsiasi natura, di cui gli iscritti usufruiscono durante gli anni di studio, e' fissata anno per anno dal Consiglio di amministrazione dell'Universita', su proposta del Senato accademico, udito il Consiglio di facolta'.
 
-4) Psicologia clinica e psicodiagnostica;
+La tassa erariale di diploma e' fissata in L. 6.000, a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7)".
 
-5) Psicofarmacologia;
+Art. 150. - La data di inizio e termine delle lezioni sono di regola eguali a quelle fissate per l'anno accademico. Tali date, tuttavia, possono essere spostate e prorogate dalla Facolta' per ragioni speciali inerenti alla natura dei corsi.
 
-6) Psichiatria in rapporto con la patologia internistica;
+Art. 151. - Le Commissioni per gli esami di profitto e di diploma sono nominate dal preside della Facolta' di scienze matematiche, fisiche e naturali, su proposta del direttore della Scuola e sono composte rispettivamente di tre e di sette membri.
 
-7) Esami di laboratorio.
+Gli esami di profitto e di diploma si danno di regola in due sessioni: una estiva e l'altra autunnale.
 
-4° Anno:
+Gli esami di profitto, che consistono in prove teoriche e pratiche, si sostengono nei seguenti gruppi di materie:
 
-1) Clinica psichiatrica (2°);
+1. Termodinamica e cinetica chimica dei fenomeni di corrosione.
 
-2) Terapia psichiatrica generale;
+Elettrochimica dei fenomeni di corrosione ed elementi di scienza dei metalli e di metallurgia.
 
-3) Psicoterapia;
+2. Corrosione secca e corrosione ad umido e corrosione negli impianti industriali.
 
-4) Neuropsichiatria infantile;
+3. Corrosione di materiali ferrosi, corrosione di materiali non ferrosi e metodi di studio e di testing dei fenomeni di corrosione.
 
-5) Psichiatria forense e legislazione psichiatrica;
+4. Prevenzione della corrosione; interventi sul metallo.
 
-6) Psichiatria sociale (del lavoro, scolastica, igiene e profilassi mentale).
+Prevenzione della corrosione; interventi sull'ambiente ed esercitazioni sui metodi di prevenzione della corrosione.
 
-Art. 130. - L'internato e' obbligatorio per l'intero anno scolastico presso la clinica delle malattie nervose e mentali, sede della scuola. L'internato del 1°, 3° e 4° anno potra' essere ridotto a non meno di 4 mesi per anno per i medici che prestino servizio regolare in un ospedale psichiatrico.
+L'esame di diploma, al quale i candidati potranno essere ammessi dopo aver superato tutti gli esami di profitto, consiste in una discussione di una dissertazione scritta svolta dal candidato su un argomento tecnico-scientifico, assegnato allo specializzando dal direttore della Scuola.
 
-L'internato per il 2° anno potra' essere ridotto a non meno di mesi 6 per i medici che prestino regolare servizio in un ospedale psichiatrico e a non meno di mesi 5 per coloro che prestino regolare servizio in un reparto neurologico.
-
-Non potranno accedere ai corsi superiori gli iscritti che non avranno superato gli esami del corso precedente.
-
-Possono ottenere l'esonero di due anni gli specialisti in neurologia, neuropsichiatria infantile. Un anno di esonero possono ottenere gli specialisti in materie affini (psicologia, medicina generale, neurochirurgia).
-
-Tali esoneri possono essere concessi solo dopo aver superato l'esame di ammissione, e a giudizio del direttore della scuola.
-
-Alla fine del corso il candidato dovra' presentare e discutere una tesi scritta.
+Art. 152. - Al funzionamento della suddetta Scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 11 maggio 1971
+Dato a Roma, addi' 24 maggio 1967
 
 SARAGAT
 
-MISASI
+GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 20 luglio 1971 Atti del Governo, registro n. 243, foglio n. 54. - CARUSO
+alla Corte dei conti, addi' 20 luglio 1967 Atti del Governo, registro n. 212, foglio n. 54. - GRECO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli 101, 102 e 103, relativi alla "scuola di specializzazione in anestesiologia" che assume la denominazione di "scuola di specializzazione in anestesiologia e rianimazione", sono abrogati e sostituiti dai seguenti:   
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Scuola di specializzazione in anestesiologia e rianimazione   
+Dopo l'art. 143, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Scienza e tecnica dei fenomeni di corrosione annessa alla Facolta' di scienze matematiche, fisiche e naturali.  
   
-Art. 101. - La scuola di specializzazione in anestesiologia e rianimazione ha sede presso la clinica chirurgica, ed ha la durata di tre anni.   
-Direttore della scuola e' il direttore della clinica chirurgica.   
-Alla scuola potranno essere iscritti i laureati in medicina e chirurgia per un numero complessivo di trentasette specializzandi.   
-Art. 102. - Le materie di insegnamento sono:   
-1° Anno:   
-Anatomia, biochimica, farmacologia, fisica, fisiologia applicata alla anestesiologia e rianimazione;   
-Anestesiologia;   
-Tecniche chirurgiche di interesse anestesiologico;   
-Aspetti medico-legali dell'anestesiologia e della rianimazione;  
-Internato.   
-2° Anno:   
-Anestesiologia;   
-Terapia antalgica;   
-Rianimazione;   
-Internato.   
-3° Anno:   
-Rianimazione;   
-Tecniche speciali di anestesia e rianimazione;   
-Indagini diagnostiche attinenti alla specialita';   
-l'Internato.   
-Art. 103. - Non e' concessa nessuna abbreviazione di corso, ad eccezione dei candidati che gia' in possesso del diploma di specializzazione in anestesiologia, possono essere ammessi al 3° anno, per ottenere il completamento.   
-Per accedere ai corsi successivi, e' obbligatorio il superamento di tutti gli esami del corso precedente, ivi comprese le materie biennali.   
-Il diploma viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi a carattere clinico o sperimentale.   
-Dopo l'art. 127 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in psichiatria.   
+Scuola di specializzazione in Scienza e tecnica dei fenomeni di corrosione  
   
-Scuola di specializzazione in psichiatria   
-  
-Art. 128. - Il corso della scuola di specializzazione in psichiatria ha la durata di quattro anni ed e' tenuto presso la clinica delle malattie nervose e mentali.   
-Alla scuola non potranno essere iscritti, complessivamente, piu' di cinque laureati in medicina e chirurgia, previa ammissione per titoli ed esame.   
-Art. 129. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) Anatomia e istologia del sistema nervoso;   
-2) Fisiologia del sistema nervoso;   
-3) Biochimica del sistema nervoso;   
-4) Genetica (elementi);   
-5) Psicologia generale;   
-6) Psicopatologia (1°);   
-7) Semeiotica psichiatrica.   
-2° Anno:   
-1) Anatomia e istologia patologica del sistema nervoso;   
-2) Semeiotica neurologica;   
-3) Patologia speciale e diagnostica neurologica;   
-4) Neuro-radiologia;   
-5) Endocrinologia e neurologia vegetativa;   
-6) Elettroencefalografia.   
-3° Anno:   
-1) Patologia speciale psichiatrica;   
-2) Psicopatologia (2°);   
-3) Clinica psichiatrica (1°);   
-4) Psicologia clinica e psicodiagnostica;   
-5) Psicofarmacologia;   
-6) Psichiatria in rapporto con la patologia internistica;   
-7) Esami di laboratorio.   
-4° Anno:   
-1) Clinica psichiatrica (2°);   
-2) Terapia psichiatrica generale;   
-3) Psicoterapia;   
-4) Neuropsichiatria infantile;   
-5) Psichiatria forense e legislazione psichiatrica;   
-6) Psichiatria sociale (del lavoro, scolastica, igiene e profilassi mentale).   
-Art. 130. - L'internato e' obbligatorio per l'intero anno scolastico presso la clinica delle malattie nervose e mentali, sede della scuola. L'internato del 1°, 3° e 4° anno potra' essere ridotto a non meno di 4 mesi per anno per i medici che prestino servizio regolare in un ospedale psichiatrico.   
-L'internato per il 2° anno potra' essere ridotto a non meno di mesi 6 per i medici che prestino regolare servizio in un ospedale psichiatrico e a non meno di mesi 5 per coloro che prestino regolare servizio in un reparto neurologico.   
-Non potranno accedere ai corsi superiori gli iscritti che non avranno superato gli esami del corso precedente.   
-Possono ottenere l'esonero di due anni gli specialisti in neurologia, neuropsichiatria infantile. Un anno di esonero possono ottenere gli specialisti in materie affini (psicologia, medicina generale, neurochirurgia).   
-Tali esoneri possono essere concessi solo dopo aver superato l'esame di ammissione, e a giudizio del direttore della scuola.   
-Alla fine del corso il candidato dovra' presentare e discutere una tesi scritta.   
+Art. 144. - E' istituita presso la Facolta' di scienze matematiche, fisiche e naturali la Scuola di specializzazione in Scienza e tecnica dei fenomeni di corrosione con sede presso l'Istituto chimico dell'Universita'.  
+Essa ha lo scopo di impartire lezioni ed esercitazioni pratiche al fine di fornire agli allievi una preparazione completa, teorica e pratica nella scienza e nella tecnologia dei fenomeni di corrosione.  
+Art. 145. - Il direttore della Scuola e' nominato dal rettore su designazione del Consiglio della facolta' di scienze matematiche, fisiche e naturali fra i professori di ruolo della Facolta' stessa.  
+Il direttore e' coadiuvato da un Consiglio costituito dagli insegnanti della Scuola.  
+Gli insegnanti sono proposti dal direttore e sono nominati dalla Facolta'.  
+Art. 146. - La Scuola rilascia un diploma di specializzazione in Scienza e tecnica dei fenomeni di corrosione ai sensi dell'[art. 178 del testo unico 31 agosto 1933 n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art178).  
+Art. 147. - La durata del corso di studi per il conseguimento del diploma e' di due anni Alla Scuola possono essere iscritti dieci allievi per ciascun anno del corso.  
+Qualora il numero delle domande di iscrizione ecceda quello fissato, il Consiglio della Scuola procedera' ad una scelta in base ai titoli presentati.  
+Possono inscriversi i laureati in Chimica, Chimica industriale e Ingegneria.  
+Su proposta della Facolta' di scienze matematiche, fisiche e naturali udito il Consiglio della Scuola, il Senato accademico puo' ammettere alla Scuola candidati che presentino diplomi di laurea diversi da quelli stabiliti.  
+La Facolta', su parere del Consiglio della Scuola, puo' esonerare dalla frequenza di una parte dei corsi prescritti per il conseguimento del diploma quei laureati che presentino particolari titoli di studio nel campo specifico della corrosione. L'esonero, pero', non potra' in nessun caso essere superiore ad un anno di corso, fermo restando che l'iscritto deve superare gli esami ed ottemperare al pagamento delle tasse, soprattasse o contributi relativi all'anno di corso esonerato.  
+Gli aspiranti debbono nei termini regolamentari presentare apposita domanda su carta legale diretta al rettore e corredata dei prescritti documenti e dalla quietanza del pagamento delle tasse, soprattasse e contributi relativi.  
+Art. 148. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1. Termodinamica e cinetica chimica dei fenomeni di corrosione, con esercitazioni.  
+2. Elettrochimica dei fenomeni di corrosione, con esercitazioni.  
+3. Elementi di scienza dei metalli e di metallurgia.  
+4. Corrosione secca e corrosione ad umido.  
+5. Corrosione negli impianti industriali.  
+2° Anno:  
+1. Corrosione di materiali ferrosi.  
+2. Corrosione di materiali non ferrosi.  
+3. Metodi di studio e di testing dei fenomeni di corrosione, con esercitazioni.  
+4. Prevenzione della corrosione; interventi sul metallo.  
+5. Prevenzione della corrosione; interventi sull'ambiente.  
+6. Esercitazioni sui metodi di prevenzione della corrosione.  
+Gli iscritti sono tenuti alla frequenza ai corsi di lezioni e di esercitazioni. La frequenza viene comprovata dall'attestazione rilasciata dagli insegnanti sul libretto di iscrizione.  
+L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.  
+Art. 149. - "Le tasse e le soprattasse che gli iscritti sono tenuti a pagare sono le stesse che la legge stabilisce per gli studenti della Facolta' di scienze matematiche, fisiche e naturali.  
+La misura dei contributi per le esercitazioni e per le prestazioni di qualsiasi natura, di cui gli iscritti usufruiscono durante gli anni di studio, e' fissata anno per anno dal Consiglio di amministrazione dell'Universita', su proposta del Senato accademico, udito il Consiglio di facolta'.  
+La tassa erariale di diploma e' fissata in L. 6.000, a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7)".  
+Art. 150. - La data di inizio e termine delle lezioni sono di regola eguali a quelle fissate per l'anno accademico. Tali date, tuttavia, possono essere spostate e prorogate dalla Facolta' per ragioni speciali inerenti alla natura dei corsi.  
+Art. 151. - Le Commissioni per gli esami di profitto e di diploma sono nominate dal preside della Facolta' di scienze matematiche, fisiche e naturali, su proposta del direttore della Scuola e sono composte rispettivamente di tre e di sette membri.  
+Gli esami di profitto e di diploma si danno di regola in due sessioni: una estiva e l'altra autunnale.  
+Gli esami di profitto, che consistono in prove teoriche e pratiche, si sostengono nei seguenti gruppi di materie:  
+1. Termodinamica e cinetica chimica dei fenomeni di corrosione.  
+Elettrochimica dei fenomeni di corrosione ed elementi di scienza dei metalli e di metallurgia.  
+2. Corrosione secca e corrosione ad umido e corrosione negli impianti industriali.  
+3. Corrosione di materiali ferrosi, corrosione di materiali non ferrosi e metodi di studio e di testing dei fenomeni di corrosione.  
+4. Prevenzione della corrosione; interventi sul metallo.  
+Prevenzione della corrosione; interventi sull'ambiente ed esercitazioni sui metodi di prevenzione della corrosione.  
+L'esame di diploma, al quale i candidati potranno essere ammessi dopo aver superato tutti gli esami di profitto, consiste in una discussione di una dissertazione scritta svolta dal candidato su un argomento tecnico-scientifico, assegnato allo specializzando dal direttore della Scuola.  
+Art. 152. - Al funzionamento della suddetta Scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 maggio 1971
+### Dato a Roma, addi' 24 maggio 1967
 
-SARAGAT MISASI
+SARAGAT GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 20 luglio 1971
+Registrato alla Corte dei conti, addi' 20 luglio 1967
 
-Atti del Governo, registro n. 243, foglio n. 54. - CARUSO
+Atti del Governo, registro n. 212, foglio n. 54. - GRECO

@@ -1,41 +1,278 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1955 n. 877
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1979 n. 331
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1955 n. 877
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1979 n. 331
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formula alle autorita' accademiche dell'Universita' anzidette.
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Modena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Gli articoli 123, 124, 125, 126, 127 e 128, relativi alla scuola di specializzazione in radiologia, sono soppressi e sostituiti dai seguenti:
+
+Scuola di specializzazione in radiologia
+
+Art. 123. - La scuola di specializzazione in radiologia ha sede presso l'istituto di radiologia ed e' diretta da un professore di ruolo o fuori ruolo della stessa materia o, in carenza, di materia affine. Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso di diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione per titoli ed esami.
+
+Non sono ammesse abbreviazioni di corso.
+
+Art. 124. - La scuola conferisce i seguenti diplomi:
+
+a) diploma di specialita' in radiodiagnostica.
+
+Gli anni di studio necessari per conseguire questo titolo sono quattro;
+
+b) diploma di specialista in radioterapia oncologica.
+
+Gli anni di studio necessari per conseguire questo titolo sono quattro.
+
+Art. 125. - La scuola ha un tronco comune di due anni identici per i diplomi di radiodiagnostica e radioterapia oncologica.
+
+Art. 126. - Gli insegnamenti per il diploma di specialista in radiodiagnostica sono cosi' distribuiti nei quattro anni di corso:
+
+1° Anno (comune alla specializzazione in radioterapia oncologica):
+
+fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);
+
+radiobiologia, legislazione e norme generali di radioprotezione;
+
+tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;
+
+nozioni di anatomia e fisiologia generale.
+
+2° Anno (comune con radioterapia oncologica):
+
+anatomia patologica;
+
+apparecchiature e tecniche radiologiche;
+
+semeiotica radiologica (integrata con le semeiotiche clinica, istologica e di laboratorio);
+
+radiopatologia;
+
+dosimetria applicata.
+
+3° Anno:
+
+tecniche speciali e relativa semeiotica I;
+
+radiodiagnostica speciale dei vari organi ed apparati I.
+
+4° Anno:
+
+tecniche speciali e relativa semeiotica (termografia, ecografia, xerografia, TAC) II;
+
+radiodiagnostica speciale dei vari organi ed apparati II.
+
+Art. 127. - Gli insegnamenti per il diploma di specialista in radioterapia oncologica sono cosi' distribuiti nei quattro anni di corso:
+
+1° Anno (comune alla specializzazione in radiodiagnostica):
+
+fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);
+
+radiobiologia, legislazione e norme generali di radioprotezione;
+
+tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;
+
+nozioni di anatomia e fisiologia generale.
+
+2° Anno (comune con radiodiagnostica):
+
+anatomia patologica;
+
+apparecchiature e tecniche radiologiche;
+
+semeiotica radiologica (integrata con la semeiotica clinica, isotopica e di laboratorio);
+
+radiopatologia;
+
+dosimetria applicata.
+
+3° Anno:
+
+oncologia generale;
+
+oncologia clinica I;
+
+tecniche radioterapiche.
+
+4° Anno:
+
+oncologia clinica II;
+
+fondamenti di terapia chirurgica dei tumori;
+
+radioterapia clinica;
+
+trattamento del canceroso in fase avanzata.
+
+Art. 128. - I singoli insegnamenti saranno tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento.
+
+Il numero massimo di iscritti in corso alla scuola e' di cento, da ripartirsi annualmente fra i vari corsi di diploma previsti dall'art.
+
+2.
+
+La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei.
+
+L'insegnamento verra' svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti ecc. Gli allievi per essere ammessi a sostenere gli esami delle singole materie, dovranno avere la firma di frequenza da parte del direttore della scuola stessa.
+
+Gli allievi al termine di ogni anno dovranno superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.
+
+Gli allievi per conseguire il diploma di specializzazione, oltre ad essere stati approvati in tutti gli esami, dovranno elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.
+
+Gli [articoli 254](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-30;950~art254) e [255 del decreto del Presidente della Repubblica 30 ottobre 1976, n. 950](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-30;950~art255), concernente l'istituzione del corso di perfezionamento in neonatologia, sono soppressi e sostituiti dai seguenti:
+
+Art. 254. - E' istituito presso la facolta' di medicina e chirurgia dell'Universita' di Modena un corso di perfezionamento in neonatologia. Il corso ha fini di aggiornamento sul piano teorico, ma soprattutto di perfezionamento clinico-pratico nell'ambito della neonatologia.
+
+La durata del corso e' annuale.
+
+Possono essere ammessi al corso gli aspiranti in possesso di un titolo di specializzazione in pediatria (o clinica pediatrica) o in puericultura, conseguito presso una scuola di specializzazione di durata almeno biennale.
+
+Il numero degli ammessi resta fissato in dieci.
+
+L'ammissione e' per titoli ed esami.
+
+Art. 255. - Il corso e' diretto da un consiglio direttivo di cui fanno parte i professori ordinari e straordinari degli istituti di clinica pediatrica e puericultura, i direttori degli istituti di clinica ostetrica che collaborano all'insegnamento, nonche' tutti gli altri docenti del corso.
+
+La direzione del corso e' affidata al professore di ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+L'ultimo comma dell'art. 258 del suddetto [decreto del Presidente della Repubblica 30 ottobre 1976, n. 950](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-30;950), relativo al corso di perfezionamento in neonatologia, e' soppresso e sostituito dal seguente: "All'allievo che avra' completato le prove con esito favorevole verra' rilasciato un diploma di perfezionamento che non da' diritto alla qualifica di specialista".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 14 marzo 1979
+
+PERTINI
+
+PEDINI
+
+Visto, il Guardasigilli: MORLINO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 19 luglio 1979 Registro n. 57 Istruzione, foglio n. 36
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), modificato con i [regi decreti 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2170); [30 ottobre 1930, n. 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1825); [1 ottobre 1931, n. 1336](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1336); [27 ottobre 1932, n. 2073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2073); [6 dicembre 1934, n. 2291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2291); [1 ottobre 1936, n. 2088](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2088); [20 aprile 1939, n. 1075; con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1939-04-20;1075) [15 ottobre 1917, n. 1874](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1917-10-15;1874) e [30 dicembre 1917, n. 1877, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1917-12-30;1877) [23 settembre 1919, n. 817](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1919-09-23;817); [28 aprile 1951, n. 955](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-28;955); [19 giugno 1951, n. 709](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-19;709); [26 aprile 1954, n. 739](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;739) e [1 marzo 1955, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-03-01;223);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formula alle autorita' accademiche dell'Universita' anzidette.   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Modena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 41. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di "Tisiologia".  
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli 123, 124, 125, 126, 127 e 128, relativi alla scuola di specializzazione in radiologia, sono soppressi e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in radiologia   
+  
+Art. 123. - La scuola di specializzazione in radiologia ha sede presso l'istituto di radiologia ed e' diretta da un professore di ruolo o fuori ruolo della stessa materia o, in carenza, di materia affine. Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso di diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione per titoli ed esami.   
+Non sono ammesse abbreviazioni di corso.   
+Art. 124. - La scuola conferisce i seguenti diplomi:   
+a) diploma di specialita' in radiodiagnostica.   
+Gli anni di studio necessari per conseguire questo titolo sono quattro;   
+b) diploma di specialista in radioterapia oncologica.   
+Gli anni di studio necessari per conseguire questo titolo sono quattro.   
+Art. 125. - La scuola ha un tronco comune di due anni identici per i diplomi di radiodiagnostica e radioterapia oncologica.   
+Art. 126. - Gli insegnamenti per il diploma di specialista in radiodiagnostica sono cosi' distribuiti nei quattro anni di corso:   
+1° Anno (comune alla specializzazione in radioterapia oncologica):   
+fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);   
+radiobiologia, legislazione e norme generali di radioprotezione;   
+tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;   
+nozioni di anatomia e fisiologia generale.   
+2° Anno (comune con radioterapia oncologica):   
+anatomia patologica;   
+apparecchiature e tecniche radiologiche;   
+semeiotica radiologica (integrata con le semeiotiche clinica, istologica e di laboratorio);   
+radiopatologia;   
+dosimetria applicata.   
+3° Anno:   
+tecniche speciali e relativa semeiotica I;   
+radiodiagnostica speciale dei vari organi ed apparati I.   
+4° Anno:   
+tecniche speciali e relativa semeiotica (termografia, ecografia, xerografia, TAC) II;   
+radiodiagnostica speciale dei vari organi ed apparati II.   
+Art. 127. - Gli insegnamenti per il diploma di specialista in radioterapia oncologica sono cosi' distribuiti nei quattro anni di corso:   
+1° Anno (comune alla specializzazione in radiodiagnostica):   
+fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);   
+radiobiologia, legislazione e norme generali di radioprotezione;   
+tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;   
+nozioni di anatomia e fisiologia generale.   
+2° Anno (comune con radiodiagnostica):   
+anatomia patologica;   
+apparecchiature e tecniche radiologiche;   
+semeiotica radiologica (integrata con la semeiotica clinica, isotopica e di laboratorio);   
+radiopatologia;   
+dosimetria applicata.   
+3° Anno:   
+oncologia generale;   
+oncologia clinica I;   
+tecniche radioterapiche.   
+4° Anno:   
+oncologia clinica II;   
+fondamenti di terapia chirurgica dei tumori;   
+radioterapia clinica;   
+trattamento del canceroso in fase avanzata.   
+Art. 128. - I singoli insegnamenti saranno tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento.   
+Il numero massimo di iscritti in corso alla scuola e' di cento, da ripartirsi annualmente fra i vari corsi di diploma previsti dall'art.   
+2.   
+La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei.   
+L'insegnamento verra' svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti ecc. Gli allievi per essere ammessi a sostenere gli esami delle singole materie, dovranno avere la firma di frequenza da parte del direttore della scuola stessa.   
+Gli allievi al termine di ogni anno dovranno superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.   
+Gli allievi per conseguire il diploma di specializzazione, oltre ad essere stati approvati in tutti gli esami, dovranno elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.   
+Gli [articoli 254](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-30;950~art254) e [255 del decreto del Presidente della Repubblica 30 ottobre 1976, n. 950](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-30;950~art255), concernente l'istituzione del corso di perfezionamento in neonatologia, sono soppressi e sostituiti dai seguenti:   
+Art. 254. - E' istituito presso la facolta' di medicina e chirurgia dell'Universita' di Modena un corso di perfezionamento in neonatologia. Il corso ha fini di aggiornamento sul piano teorico, ma soprattutto di perfezionamento clinico-pratico nell'ambito della neonatologia.   
+La durata del corso e' annuale.   
+Possono essere ammessi al corso gli aspiranti in possesso di un titolo di specializzazione in pediatria (o clinica pediatrica) o in puericultura, conseguito presso una scuola di specializzazione di durata almeno biennale.   
+Il numero degli ammessi resta fissato in dieci.   
+L'ammissione e' per titoli ed esami.   
+Art. 255. - Il corso e' diretto da un consiglio direttivo di cui fanno parte i professori ordinari e straordinari degli istituti di clinica pediatrica e puericultura, i direttori degli istituti di clinica ostetrica che collaborano all'insegnamento, nonche' tutti gli altri docenti del corso.   
+La direzione del corso e' affidata al professore di ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+L'ultimo comma dell'art. 258 del suddetto [decreto del Presidente della Repubblica 30 ottobre 1976, n. 950](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-30;950), relativo al corso di perfezionamento in neonatologia, e' soppresso e sostituito dal seguente: "All'allievo che avra' completato le prove con esito favorevole verra' rilasciato un diploma di perfezionamento che non da' diritto alla qualifica di specialista".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 agosto 1955
+### Dato a Roma, addi' 14 marzo 1979
 
-GRONCHI ROSSI
+PERTINI PEDINI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 8 ottobre 1955
+Registrato alla Corte dei conti, addi' 19 luglio 1979
 
-Atti del Governo, registro n. 93, foglio n. 8. - E. GRECO
+Registro n. 57 Istruzione, foglio n. 36

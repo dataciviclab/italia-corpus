@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 settembre 1955 n. 952
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1051
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 settembre 1955 n. 952
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1051
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -10,187 +10,140 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, n. 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166) e modificato con [legge 1 giugno 1939, n. 872](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;872); e con i [regi decreti 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2056); [15 aprile 1942, n. 423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;423); [24 ottobre 1942, n. 1847; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1847) [27 luglio 1947, n. 1138; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-07-27;1138) [23 settembre 1949, n. 942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;942); [21 novembre 1949, n. 1194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-11-21;1194); [13 marzo 1950, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;283); [27 ottobre 1951, n. 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1825); [23 aprile 1952, n. 873](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-04-23;873); [10 febbraio 1953, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;383); [13 febbraio 1954, n. 750](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-02-13;750); [14 settembre 1954, n. 1161](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1161); [27 gennaio 1955, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-01-27;219); [16 febbraio 1955, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-16;136); [21 giugno 1955, n. 560](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-06-21;560) e [30 giugno 1955, n. 693](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-06-30;693);
+Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto l'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Decreta:
+Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Sulla
+-----
 
-Dopo l'art. 118 sono aggiunti i seguenti nuovi articoli relativi all'istituzione della scuola speciale per ortottiste.
+proposta del Ministro della pubblica istruzione; Decreta:
 
-Scuola per ortottiste
+Articolo unico
+--------------
 
-Art. 119. - E' istituita ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), una scuola speciale per ortottiste.
-
-La scuola per ortottiste ha sede presso la clinica oculistica della Universita'. Essa ha lo scopo di dare una preparazione completa teorica e pratica alle allieve iscritte, istruendole sui problemi dei difetti di rifrazione, disturbi delle oculomozioni, dell'ambliopia in genere, per avviarle alla professione di ortottiste.
-
-Art. 120. - La durata del corso degli studi per il conseguimento del diploma di ortottista e' di due anni.
-
-Possono essere ammesse alla scuola allieve di eta' non inferiore ai 17 anni di sana costituzione rispondenti a determinati requisiti oculari, in possesso del diploma di maturita' classica, del diploma di maturita' scientifica o dei diploma di abilitazione magistrale.
-
-Art. 121. - Chi aspira ad ottenere la iscrizione al primo anno della scuola dovra' sostenere un esame di ammissione per un numero di posti determinato, anno per anno, con decreto del rettore, udito il direttore della scuola.
-
-Art. 122. - L'esame di ammissione consiste in una prova orale di cultura generale innanzi ad una Commissione composta dal preside della Facolta' di medicina, dal direttore della scuola e da un terzo membro designato dal rettore della Universita'.
-
-L'esame di ammissione avra' luogo entro la prima quindicina del mese di novembre di ciascun anno, nel giorno che sara' stabilito dal rettore con apposito manifesto.
-
-Art. 123. - L'anno accademico ha inizio il 1 dicembre e termina il 30 giugno di ogni anno.
-
-La domanda di iscrizione deve essere corredata dai seguenti documenti:
-
-1) certificato di nascita, in carta legale debitamente legalizzato per i nati fuori della giurisdizione di Milano;
-
-2) titolo di studi medi superiori in originale;
-
-3) tre fotografie di cui una autenticata;
-
-4) quietanza del pagamento delle tasse;
-
-5) foglio di iscrizione al corso su modulo rilasciato dall'Economato dell'Universita'.
-
-Art. 124. - Il direttore della scuola e' di diritto il titolare della cattedra di clinica oculistica della Universita' di Milano.
-
-Gli insegnanti della scuola sono proposti dal Consiglio della Facolta' di medicina e chirurgia, udito il direttore e nominati dal rettore.
-
-Art. 125. - Le materie di insegnamento sono le seguenti:
-
-1° anno:
-
-1) Elementi di anatomia e fisiologia generale;
-
-2) Anatomia, e fisiologia dell'apparato oculare;
-
-3) Ottica fisica e fisiologica, vizi di rifrazione;
-
-4) Ortottica.
-
-2° anno:
-
-1) Ortottica;
-
-2) Elementi di patologia generale;
-
-3) Nozioni di infermieristica oculare.
-
-L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni nel reparto ortottico della clinica oculistica.
-
-Durante il secondo anno di studi le allieve presteranno regolare servizio nel reparto ortottico della clinica.
-
-Art. 126. - Per essere ammesse a frequentare il secondo anno di studi le allieve debbono aver superato tutti gli esami del primo anno. Nel caso in cui le allieve non abbiano superato gli esami prescritti del primo anno, esse rimarranno nella posizione di fuori corso fino a quando non avranno assolto gli obblighi di cui sopra.
-
-Art. 127. - Per essere ammesse a sostenere l'esame di diploma le allieve dovranno aver seguito i corsi, superato gli esami in tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole tutte le esercitazioni pratiche previste.
-
-Art. 128. - Le Commissioni per gli esami di profitto sono nominate dal preside della Facolta' di medicina e chirurgia, su proposta dei direttore della scuola. Le Commissioni sono composte di tre membri: dal professore ufficiale della materia, presidente; di un professore ufficiale di materia affine e di un libero docente o cultore della materia. Ogni commissario ha a disposizione dieci punti.
-
-Art. 129. - L'esame di diploma consiste in un colloquio su un tema preventivamente assegnato dal direttore della scuola di fronte ad una Commissione di cinque membri, composta dal direttore della scuola e da altri quattro membri designati dal preside della Facolta' di medicina e chirurgia. Ogni commissario ha a disposizione dieci punti.
-
-Le candidate non riconosciute idonee possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola; ma se al secondo esame non sua loro riconosciuta la idoneita', saranno, senz'altro, escluse da ulteriori prove.
-
-Art. 130. - Le tasse e sopratasse per la scuola sono le seguenti:
-
-tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 10.000 sopratassa annuale di esame. . . . . . . . . . . . . . . . . L. 5.000
-
-La tassa di diploma e' fissata nella misura di L. 6000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 21 settembre 1955
-
-GRONCHI
-
-ROSSI
-
-Visto, il Guardasigilli: MORO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 25 otto tre 1955 Atti del Governo, registro n. 93, foglio n. 88. - CARLOMAGNO
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, n. 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166) e modificato con [legge 1 giugno 1939, n. 872](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;872); e con i [regi decreti 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2056); [15 aprile 1942, n. 423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;423); [24 ottobre 1942, n. 1847; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1847) [27 luglio 1947, n. 1138; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-07-27;1138) [23 settembre 1949, n. 942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;942); [21 novembre 1949, n. 1194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-11-21;1194); [13 marzo 1950, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;283); [27 ottobre 1951, n. 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1825); [23 aprile 1952, n. 873](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-04-23;873); [10 febbraio 1953, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;383); [13 febbraio 1954, n. 750](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-02-13;750); [14 settembre 1954, n. 1161](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1161); [27 gennaio 1955, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-01-27;219); [16 febbraio 1955, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-16;136); [21 giugno 1955, n. 560](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-06-21;560) e [30 giugno 1955, n. 693](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-06-30;693);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
+Lo statuto dell'Universita' di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, e' aggiunto il seguente nuovo articolo relativo alla istituzione della scuola di specializzazione in pediatria preventiva e puericultura.   
   
-Dopo l'art. 118 sono aggiunti i seguenti nuovi articoli relativi all'istituzione della scuola speciale per ortottiste.  
-  
-Scuola per ortottiste  
-  
-Art. 119. - E' istituita ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), una scuola speciale per ortottiste.  
-La scuola per ortottiste ha sede presso la clinica oculistica della Universita'. Essa ha lo scopo di dare una preparazione completa teorica e pratica alle allieve iscritte, istruendole sui problemi dei difetti di rifrazione, disturbi delle oculomozioni, dell'ambliopia in genere, per avviarle alla professione di ortottiste.  
-Art. 120. - La durata del corso degli studi per il conseguimento del diploma di ortottista e' di due anni.  
-Possono essere ammesse alla scuola allieve di eta' non inferiore ai 17 anni di sana costituzione rispondenti a determinati requisiti oculari, in possesso del diploma di maturita' classica, del diploma di maturita' scientifica o dei diploma di abilitazione magistrale.  
-Art. 121. - Chi aspira ad ottenere la iscrizione al primo anno della scuola dovra' sostenere un esame di ammissione per un numero di posti determinato, anno per anno, con decreto del rettore, udito il direttore della scuola.  
-Art. 122. - L'esame di ammissione consiste in una prova orale di cultura generale innanzi ad una Commissione composta dal preside della Facolta' di medicina, dal direttore della scuola e da un terzo membro designato dal rettore della Universita'.  
-L'esame di ammissione avra' luogo entro la prima quindicina del mese di novembre di ciascun anno, nel giorno che sara' stabilito dal rettore con apposito manifesto.  
-Art. 123. - L'anno accademico ha inizio il 1 dicembre e termina il 30 giugno di ogni anno.  
-La domanda di iscrizione deve essere corredata dai seguenti documenti:  
-1) certificato di nascita, in carta legale debitamente legalizzato per i nati fuori della giurisdizione di Milano;  
-2) titolo di studi medi superiori in originale;  
-3) tre fotografie di cui una autenticata;  
-4) quietanza del pagamento delle tasse;  
-5) foglio di iscrizione al corso su modulo rilasciato dall'Economato dell'Universita'.  
-Art. 124. - Il direttore della scuola e' di diritto il titolare della cattedra di clinica oculistica della Universita' di Milano.  
-Gli insegnanti della scuola sono proposti dal Consiglio della Facolta' di medicina e chirurgia, udito il direttore e nominati dal rettore.  
-Art. 125. - Le materie di insegnamento sono le seguenti:  
-1° anno:  
-1) Elementi di anatomia e fisiologia generale;  
-2) Anatomia, e fisiologia dell'apparato oculare;  
-3) Ottica fisica e fisiologica, vizi di rifrazione;  
-4) Ortottica.  
-2° anno:  
-1) Ortottica;  
-2) Elementi di patologia generale;  
-3) Nozioni di infermieristica oculare.  
-L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni nel reparto ortottico della clinica oculistica.  
-Durante il secondo anno di studi le allieve presteranno regolare servizio nel reparto ortottico della clinica.  
-Art. 126. - Per essere ammesse a frequentare il secondo anno di studi le allieve debbono aver superato tutti gli esami del primo anno. Nel caso in cui le allieve non abbiano superato gli esami prescritti del primo anno, esse rimarranno nella posizione di fuori corso fino a quando non avranno assolto gli obblighi di cui sopra.  
-Art. 127. - Per essere ammesse a sostenere l'esame di diploma le allieve dovranno aver seguito i corsi, superato gli esami in tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole tutte le esercitazioni pratiche previste.  
-Art. 128. - Le Commissioni per gli esami di profitto sono nominate dal preside della Facolta' di medicina e chirurgia, su proposta dei direttore della scuola. Le Commissioni sono composte di tre membri: dal professore ufficiale della materia, presidente; di un professore ufficiale di materia affine e di un libero docente o cultore della materia. Ogni commissario ha a disposizione dieci punti.  
-Art. 129. - L'esame di diploma consiste in un colloquio su un tema preventivamente assegnato dal direttore della scuola di fronte ad una Commissione di cinque membri, composta dal direttore della scuola e da altri quattro membri designati dal preside della Facolta' di medicina e chirurgia. Ogni commissario ha a disposizione dieci punti.  
-Le candidate non riconosciute idonee possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola; ma se al secondo esame non sua loro riconosciuta la idoneita', saranno, senz'altro, escluse da ulteriori prove.  
-Art. 130. - Le tasse e sopratasse per la scuola sono le seguenti:  
-  
-tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 10.000 sopratassa annuale di esame. . . . . . . . . . . . . . . . . L. 5.000   
-La tassa di diploma e' fissata nella misura di L. 6000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
+Scuola di specializzazione in pediatria preventiva e puericultura   
+Art. 265. - Presso l'istituto di clinica pediatrica II dell'Universita' di Milano e' istituita la scuola di specializzazione in pediatria preventiva e puericultura.   
+Alla scuola stessa possono iscriversi esclusivamente i laureati in medicina e chirurgia.   
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La scuola si propone di conferire la preparazione teorico-pratica sia nel campo della neonatologia e patologia neonatale, sia nel campo della pratica pediatrica preventiva e sociale, con particolare riguardo alla prevalente funzione preventiva e sociale della medicina infantile sul territorio, che il pediatra e' chiamato a svolgere.   
+Essa ha la durata di quattro anni ed e' articolata in due indirizzi:   
+a) neonatologia e patologia neonatale;   
+b) pediatria sociale.   
+Dopo un primo biennio comune ai due indirizzi, e' istituito un secondo biennio differenziato per ciascuno dei due indirizzi.   
+I medici che abbiano gia' conseguito la specializzazione in pediatria preventiva e puericultura con uno dei due indirizzi, potranno iscriversi direttamente al secondo biennio della scuola con l'altro indirizzo previsto dallo statuto.   
+Il numero massimo degli allievi che possono essere iscritti e' di trentadue (otto per anno) complessivamente per l'intera durata del corso di studi, bienni orientativi inclusi.   
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.   
+Le materie di insegnamento sono:   
+BIENNIO PROPEDEUTICO COMUNE:   
+1° Anno:   
+1) anatomia e fisiologia dell'eta' evolutiva I;   
+2) elementi di ostetricia e ginecologia;   
+3) semeiotica infantile;   
+4) genetica medica;   
+5) elementi di laboratorio e biochimica clinica;   
+6) fisiologia della nutrizione;   
+7) metabolismo dell'eta' evolutiva I;   
+8) embriologia e fisiologia prenatali;   
+9) patologia infantile I;   
+10) alimentazione nell'eta' evolutiva.   
+2° Anno:   
+1) anatomia e fisiologia dell'eta' evolutiva II;   
+2) metabolismo dell'eta' evolutiva II;   
+3) patologia infantile II;   
+4) auxologia normale;   
+5) malattie infettive e loro prevenzione;   
+6) patologia prenatale;   
+7) patologia perinatale;   
+8) elementi di clinica pediatrica;   
+9) dietologia infantile;   
+10) anatomia patologica infantile;   
+11) O.R.L. e audiologia infantili;   
+12) oculistica e ottica fisio-patologica infantili.   
+INDIRIZZO DI NEONATOLOGIA E PATOLOGIA NEONATALE:   
+3° Anno:   
+1) clinica della gravidanza e del parto normale;   
+2) fisiopatologia embrio-fetale;   
+3) fisiologia neonatale;   
+4) biochimica neonatale;   
+5) immunologia neonatale;   
+6) diagnostica radiologica neonatale;   
+7) tecniche di laboratorio (con riferimento alla fisiopatologia neonatale);   
+8) patologia neonatale I;   
+9) assistenza al neonato sano ed ammalato;   
+10) semeiotica neonatale.   
+4° Anno:   
+1) patologia neonatale II;   
+2) il neonato a rischio;   
+3) farmacologia neonatale;   
+4) clinica e terapia neonatali;   
+5) rianimazione e terapia intensiva del neonato;   
+6) alimentazione del neonato sano e patologico;   
+7) anatomia patologica del feto e del neonato;   
+8) patologia chirurgica neonatale;   
+9) neurologia neonatale.   
+INDIRIZZO DI PEDIATRIA SOCIALE:   
+3° Anno:   
+1) adolescentologia I;   
+2) auxologia patologica ed endocrinologia infantile;   
+3) neuropsichiatria infantile;   
+4) epidemiologia, statistica medica e biometria;   
+5) epidemiologia e prevenzione di malattie di importanza sociale nell'eta' evolutiva;   
+6) igiene dell'alimentazione;   
+7) medicina scolastica e sua legislazione;   
+8) psicologia dell'eta' evolutiva;   
+9) fisioterapia e riabilitazione;   
+10) consulenza genetica sul territorio;   
+11) patologia e clinica delle malattie di importanza sociale nell'eta' evolutiva.   
+4° Anno:   
+1) adolescentologia II;   
+2) medicina dello sport nell'eta' evolutiva;   
+3) odontologia e odontoiatria;   
+4) ortopedia e traumatologia nell'eta' evolutiva;   
+5) legislazione ed assistenza sociale per l'infanzia e l'adolescenza;   
+6) informazione sanitaria;   
+7) servizi pubblici extra-ospedalieri di sanita' e assistenza per l'eta' evolutiva;   
+8) psicopedagogia;   
+9) sociologia applicata alla popolazione infantile.   
+Le norme generali per l'iscrizione, gli esami, le tasse, ecc., sono quelle che regolano le scuole di specializzazione dell'Universita' di Milano. La frequenza alle lezioni, alle esercitazioni pratiche nei reparti e' obbligatoria: gli allievi che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le prove di esame.   
+Il tirocinio pratico durante il quarto anno della scuola per l'indirizzo neonatologia e patologia neonatale potra' essere svolto oltreche' presso l'istituto ove la scuola ha sede, presso strutture assistenziali che abbiano, a giudizio del consiglio della scuola, caratteristiche idonee allo scopo. Tale tirocinio sara' attestato per iscritto dal responsabile di ciascuna struttura.   
+Il tirocinio pratico durante il quarto anno per l'indirizzo di pediatria sociale, e' previsto sia svolto almeno in parte, in accordo con le amministrazioni competenti (regioni, province, comuni) presso strutture assistenziali sul territorio (consultori, ecc.) che abbiano, a giudizio del consiglio della scuola, caratteristiche idonee allo scopo. Tale tirocinio sara' attestato dall'ente responsabile della struttura.   
+Alla fine di ciascun anno di corso gli allievi, per essere ammessi agli anni successivi, debbono superare le prove di esame teorico-pratiche sulle materie impartite durante l'anno; per le materie a corso biennale, l'esame sara' sostenuto sotto forma di colloquio, al termine di ciascun anno.   
+Superati gli esami finali, l'allievo sosterra' l'esame di diploma, che potra' essere costituito anche da una dissertazione orale su un argomento precedentemente concordato.   
+All'allievo risultato idoneo verra' rilasciato il diploma di specialista in pediatria preventiva e puericultura, con espressa menzione dell'indirizzo seguito, valido a tutti gli effetti di legge.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 settembre 1955
+### Dato a Roma, addi' 31 ottobre 1981
 
-GRONCHI ROSSI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 25 otto tre 1955
+Registrato alla Corte dei conti, addi' 24 febbraio 1982
 
-Atti del Governo, registro n. 93, foglio n. 88. - CARLOMAGNO
+Registro n. 30 Istruzione, foglio n. 373

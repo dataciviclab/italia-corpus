@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1972 n. 372
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 agosto 1955 n. 936
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1972 n. 372
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 agosto 1955 n. 936
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
@@ -12,11 +12,11 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con i [regi decreti 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2230); [30 ottobre 1930, n. 1826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1826); [1 ottobre 1931, n. 1441](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-01;1441); [6 dicembre 1934, n. 2449](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-06;2449); [1 ottobre 1936, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2475); [27 ottobre 1937, n. 2620](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1937-10-27;2620); [5 maggio 1939, n. 1165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-05-05;1165); [12 ottobre 1939, n. 1712](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-10-12;1712); [26 ottobre 1940, n. 2057](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2057); [27 aprile 1942, n. 467](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-04-27;467); [24 ottobre 1942, n. 1439; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1439) [11 giugno 1950, n. 616](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;616); [30 ottobre 1950, n. 1127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1127); [30 ottobre 1950, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1304); [30 giugno 1951, n. 1681](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-30;1681); [23 gennaio 1952, n. 168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;168); [26 ottobre 1952, n. 4543](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4543); [26 ottobre 1952, numero 4557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4557); [10 febbraio 1953, n. 376](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;376); [30 luglio 1953, n. 710](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;710); [2 marzo 1954, n. 183](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-02;183); [14 settembre 1954, n. 1202](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1202); [22 gennaio 1955, n. 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-01-22;69); [16 febbraio 1955, n. 120](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-16;120) e [19 luglio 1955, n. 761](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-19;761);  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -24,131 +24,33 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-L'art. 257, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la "Scuola di specializzazione in malattie nervose e mentali" muta la denominazione in quella di "Scuola di specializzazione in neurologia".  
-L'art. 271, relativo alla "Scuola di specializzazione in malattie nervose e mentali" che muta la denominazione in quella di "Scuola di specializzazione in neurologia", e' abrogato e sostituito dal seguente:  
-  
-Scuola di specializzazione in neurologia  
-  
-Art. 271. - La durata del corso degli studi per il conseguimento del diploma di specializzazione in neurologia e' di 4 anni.  
-Il numero degli iscritti non puo' superare gli otto iscritti per anno di corso; potranno essere ammessi al terzo anno coloro che sono in possesso del diploma di specialista in psichiatria, neuropsichiatria infantile e neurochirurgia; potranno essere ammessi al secondo anno coloro che sono in possesso del diploma di specialista in altre materie affini.  
-Tali abbuoni possono essere concessi solo dopo aver superato l'esame di ammissione. Tutti gli abbuoni di cui sopra sono concessi, su proposta del direttore della scuola, dal consiglio di facolta'.  
-Gli insegnamenti della scuola sono cosi' suddivisi nei quattro anni di corso:  
-  
-1° Anno:  
-Anatomia del sistema nervoso;  
-Fisiologia del sistema nervoso;  
-Biochimica del sistema nervoso;  
-Genetica (elementi);  
-Psicologia generale;  
-Psicopatologia generale;  
-Semeiotica psichiatrica.  
-  
-2° Anno:  
-Anatomia patologica del sistema nervoso;  
-Semeiotica neurologica;  
-Patologia speciale e diagnostica neurologica (1°);  
-Neuro-radiologia;  
-Endocrinologia e neurologia vegetativa.  
-  
-3° Anno:  
-Patologia speciale e diagnostica neurologica (2°);  
-Clinica neurologica e terapia (1°);  
-Elettroencefalografia;  
-Elettromiografia, elettrodiagnostica e elettroterapia;  
-Neuro-oftalmologia;  
-Neuro-otologia;  
-Esami di laboratorio.  
-  
-4° Anno:  
-Clinica neurologica e terapia (2°);  
-Neurochirurgia;  
-Teoria e clinica delle riabilitazioni;  
-Neurotraumatologia;  
-Neurologia in rapporto, alla patologia internistica.  
-  
-Internato obbligatorio per l'intero anno scolastico e per i 4 anni del corso. Detto internato sara' presso i reparti neurologici della clinica per il 1°, 3°, e 4° anno e sara' ridotto a non meno di 4 mesi all'anno per i medici che prestino servizio regolare in reparto neurologico.  
-Per il secondo anno l'internato sara' presso i reparti psichiatrici della clinica, la relativa frequenza potra' essere ridotta a non meno di 6 mesi per i medici che prestino regolare servizio in reparto neurologico e a non meno di 4 mesi per i medici che prestino servizio in ospedale psichiatrico.  
-Al termine di ciascun anno del corso, l'allievo dovra' sostenere un esame teorico-pratico sulle materie che sono state oggetto di insegnamento durante l'anno.  
-Per il conseguimento del diploma di specialista lo allievo dovra' sostenere dinanzi all'apposita commissione la discussione di un caso clinico e la discussione di una tesi scritta su di un argomento attinente alla specialita'.  
-L'art. 272, relativo alla "Scuola di specializzazione in igiene e medicina preventiva", e' integrato con la seguente norma:  
-Puo' essere concessa l'abbreviazione di un anno, oltre che agli aspiranti che si trovano nelle condizioni previste dall'art. 251 anche agli aspiranti che siano sanitari di ruolo in servizio da almeno tre anni presso: gli uffici sanitari provinciali, gli uffici sanitari comunali, i laboratori provinciali di igiene e profilassi, le direzioni sanitarie degli ospedali regionali e provinciali.  
-L'art. 274, relativo alla "Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio", e' abrogato e sostituito dal seguente:  
-  
-Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio  
-  
-Art. 274. - La durata del corso degli studi per il conseguimento del diploma di specialista in tisiologia e malattie dell'apparato respiratorio e' di tre anni.  
-Al corso si accede superando una prova scritta e orale di cultura medica generale e per titoli.  
-Al termine di ogni anno di corso gli specializzandi sosterranno un esame sulle singole materie che nel corso dell'anno sono state oggetto d'insegnamento.  
-Per conseguire il diploma di specializzazione gli iscritti alla fine del triennio, oltre agli esami prescritti, dovranno sostenere la discussione di una tesi scritta.  
-Le lezioni sono integrate da esercitazioni e dimostrazioni pratiche nei reparti dell'istituto di patologia medica e della divisione tisio-pneumologica di Careggio, nei laboratori di ricerca nei servizi allegati, ed inoltre da seminari e conferenze.  
-Il numero degli iscritti per ogni anno di corso e' fissato in quindici.  
-I candidati dovranno effettuare un periodo di frequenza presso detti istituti durante i tre anni di corso.  
-Gli insegnamenti impartiti dalla scuola sono cosi' suddivisi nei tre anni di corso:  
-  
-1° Anno:  
-Anatomia e istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);  
-Patologia della tubercolosi polmonare ed extrapolmonare;  
-Patologia delle malattie dell'apparato respiratorio;  
-Fisiologia e fisiopatologia generale dell'apparato respiratorio;  
-Semeiotica fisica e funzionale dell'apparato respiratorio;  
-Microbiologia;  
-Epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.  
-  
-2° Anno:  
-Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);  
-Clinica della tubercolosi (biennale);  
-Clinica delle malattie dell'apparato respiratorio (biennale);  
-Fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;  
-Broncologia;  
-Radiologia dell'apparato respiratorio;  
-Profilassi della tubercolosi;  
-Igiene e legislazione sociale.  
-  
-3° Anno:  
-Clinica della tubercolosi (biennale);  
-Clinica delle malattie dell'apparato respiratorio (biennale);  
-Chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;  
-Terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;  
-Terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.  
-  
-L'art. 282, relativo alla "Scuola di specializzazione in medicina nucleare", e' abrogato e sostituito dal seguente:  
-  
-Scuola di specializzazione in medicina nucleare  
-  
-Art. 282. - La durata del corso di studi per il conseguimento del diploma di specializzazione in medicina nucleare e' di tre anni.  
-Gli insegnamenti impartiti nella scuola sono cosi' suddivisi nei tre anni di corso:  
-  
-1° Anno:  
-Fondamenti di matematica e statistica;  
-Fisica nucleare e delle radiazioni;  
-Tecniche delle misure di radioattivita';  
-Dosimetria.  
-  
-2° Anno:  
-Teoria dei traccianti;  
-Elementi di radiochimica;  
-Applicazioni diagnostiche I;  
-Elementi di radiobiologia.  
-  
-3° Anno:  
-Applicazioni diagnostiche II;  
-Applicazioni terapeutiche;  
-Radioprotezione e legislazione.  
-  
-Ogni allievo ha l'obbligo di un internato effettivo della durata di almeno 4 mesi per ciascun anno di corso.  
-Il numero degli iscritti e' di dodici per ogni anno di corso.  
+L'art. 165 relativo alla scuola di perfezionamento negli studi sui problemi del lavoro e' abrogato e sostituito dal seguente:  
+"Gli insegnamenti impartiti dalla scuola sono:  
+1) Storia del sindacalismo e del problema sociale.  
+2) Problemi di economia e politica economica del lavoro.  
+3) Problemi di diritto del lavoro.  
+4) Problemi e tecnica del lavoro direttivo.  
+5) Problemi dei rapporti umani nel lavoro.  
+6) Psicologia del lavoro.  
+7) Statistica applicata ai problemi del lavoro.  
+8) Problemi di diritto pubblico comparato del lavoro.  
+9) Problemi dell'assistenza e dell'educazione del lavoratore.  
+10) Intervista e altre tecniche di comunicazione e di indagine.  
+11) Problemi politici del lavoro.  
+12) Tecnica delle organizzazioni sindacali.  
+13) Garanzie costituzionali del lavoro.  
+14) Problemi di addestramento, di qualificazione e riqualificazione del lavoratore".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 giugno 1972
+### Dato a Roma, addi' 31 agosto 1955
 
-LEONE MISASI
+GRONCHI ROSSI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MORO
 
-Registrato alla Corte dei conti, addi' 25 luglio 1972
+Registrato alla Corte dei conti, addi' 25 ottobre 1955
 
-Atti del Governo, registro n. 250, foglio n. 69. - CARUSO
+Atti del Governo, registro n. 93, foglio n. 77. - CARLOMAGNO

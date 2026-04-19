@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 novembre 1969 n. 1030
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 novembre 1966 n. 1102
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 novembre 1969 n. 1030
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 novembre 1966 n. 1102
 ================================================================
 
 Modificazione allo statuto del Consorzio per il nucleo di industrializzazione di Ascoli Piceno.
@@ -13,27 +13,23 @@ Art. 1
  IL PRESIDENTE DELLA REPUBBLICA  
   
 Visto il [decreto del Presidente della Repubblica dell'8 gennaio 1964, n. 103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1964-01-08;103), con il quale e' stato approvato lo statuto del Consorzio per il nucleo di industrializzazione di Ascoli Piceno;  
-Visto il [decreto del Presidente della Repubblica dell'8 novembre 1966, n. 1102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-11-08;1102), con il quale e' stato modificato l'art. 3 dello statuto del Consorzio per il nucleo di industrializzazione di Ascoli Piceno;  
-Vista la deliberazione del consiglio generale del Consorzio per il nucleo di industrializzazione di Ascoli Piceno n. 10 del 30 dicembre 1967;  
-Viste le note del [Ministero dell'industria, del commercio e dell'artigianato n. 100575 del 23 febbraio 1968](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.industria.commercio.artigianato::1968-02-23;100575) e [n. 101873 del 10 luglio 1969](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.industria.commercio.artigianato::1969-07-10;101873);  
-Visto l'[art. 145 del testo unico 30 giugno 1967, n. 1523](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1967-06-30;1523~art145);  
-Vista la deliberazione del 26 aprile 1968 del Comitato dei Ministri per il Mezzogiorno con l'intervento del Ministro per l'interno;  
+Vista la [deliberazione n. 9 del 18 dicembre 1965](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1965-12-18;9) del Consiglio generale del Consorzio per il nucleo di industrializzazione di Ascoli Piceno;  
+Vista la nota del Ministero dell'industria e del commercio, n. 125094 del 15 gennaio 1966, concernente l'approvazione della suindicata deliberazione da parte della Commissione per la vigilanza e la tutela dei Consorzi di sviluppo industriale;  
+Vista la [legge 29 luglio 1957, n. 634](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-07-29;634), modificata ed integrata dalla [legge 18 luglio 1959, n. 555](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-18;555);  
+Vista la deliberazione del 25 marzo 1966 del Comitato dei Ministri per il Mezzogiorno, con l'intervento del Ministro per l'interno;  
 Sulla proposta del Presidente del Consiglio dei Ministri;  
   
 Decreta:  
   
-E' approvata la modifica apportata all'art. 3 dello statuto del Consorzio per il nucleo di industrializzazione di Ascoli Piceno nei termini indicati dalla [delibera n. 10 del 30 dicembre 1967](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1967-12-30;10) del consiglio generale del consorzio stesso.  
+E' approvata la modifica apportata all'art. 3 dello statuto del Consorzio per il nucleo di industrializzazione di Ascoli Piceno nei termini indicati dalla [deliberazione n. 9 del 18 dicembre 1965](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1965-12-18;9) del Consiglio generale del Consorzio stesso.  
   
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Dato a Roma, addi' 20 novembre 1969
-
-SARAGAT RUMOR
-
-Visto, il Guardasigilli: GAVA
-
-Registrato alla Corte dei conti, addi' 30 dicembre 1969
-
-Atti del Governo, registro n. 230, foglio n. 181. - CARUSO
+Il presente decreto, munito del sigillo di Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.  
+  
+Dato a Roma, addi' 8 novembre 1966  
+  
+SARAGAT  
+  
+MORO   
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 14 dicembre 1966  
+Atti del Governo, registro n. 208, foglio n. 4. - VILLA  

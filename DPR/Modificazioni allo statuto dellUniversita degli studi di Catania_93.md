@@ -1,44 +1,256 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 settembre 1956 n. 1133
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 474
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 settembre 1956 n. 1133
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 474
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 176 - l'elenco delle scuole di specializzazione in medicina e chirurgia e' modificato nel senso che la scuola di specializzazione in clinica pediatrica muta la denominazione in quella di scuola di specializzazione in pediatria.
+
+Gli articoli 239, 240 e 241, relativi alla scuola di specializzazione in clinica pediatrica, che muta la denominazione in quella di scuola di specializzazione in pediatria, sono soppressi e sostituiti dai seguenti:
+
+Scuola di specializzazione in pediatria
+
+Art. 239. - La scuola di specializzazione in pediatria ha sede presso la clinica pediatrica e conferisce il diploma di specialista in pediatria.
+
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.
+
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
+
+Il numero massimo degli allievi e' di venticinque per anno di corso e complessivamente di cento per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Art. 240. - Le materie d'insegnamento sono le seguenti:
+
+1° Anno:
+
+genetica;
+
+auxologia;
+
+alimentazione;
+
+epidemiologia;
+
+malattie infettive;
+
+clinica pediatrica I.
+
+2° Anno:
+
+radiologia;
+
+legislazione del minore;
+
+organizzazione sanitaria;
+
+psicologia pediatrica;
+
+oculistica ed ortottica;
+
+otorino e fonoiatria;
+
+odonto;
+
+neonatologia I;
+
+chirurgia pediatrica I;
+
+pediatria preventiva e sociale I;
+
+clinica pediatrica II.
+
+3° Anno:
+
+neurologia;
+
+psichiatria infantile;
+
+nefrologia e urologia;
+
+ginecologia pediatrica;
+
+neonatologia II;
+
+chirurgia pediatrica II;
+
+pediatria preventiva e sociale II;
+
+cardiologia I;
+
+endocrinologia I;
+
+ematologia I;
+
+immunologia I;
+
+gastroenterologia I;
+
+clinica pediatrica III.
+
+4° Anno:
+
+oncologia;
+
+pneumologia;
+
+ortopedia e traumatologia;
+
+dermatologia;
+
+cardiologia II;
+
+endocrinologia II;
+
+ematologia II;
+
+immunologia II;
+
+gastroenterologia II;
+
+clinica pediatrica IV.
+
+Art. 241. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere le prove di esame.
+
+Alla fine di ciascun anno di corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno.
+
+Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del corso di studi, per il conseguimento del diploma di specialista in pediatria, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 11 maggio 1979
+
+PERTINI
+
+SPADOLINI
+
+Visto, il Guardasigilli: MORLINO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 22 settembre 1979 Registro n. 69 Istruzione, foglio n. 102
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con regio decreto 20 aprile 1939. n. 1073, e modificato con i [regi decreti 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-16;1527); [15 aprile 1942, n. 424](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;424); [5 settembre 1942, n. 1235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1235); [24 ottobre 1942, n. 1596; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1596) [22 ottobre 1946, n. 423 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-22;423) [20 luglio 1948, n. 1160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-07-20;1160); [30 ottobre 1949, n. 994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;994); [30 ottobre 1949, n. 1167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1167); [30 ottobre 1950, n. 1305](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1305); [11 aprile 1951, n. 564](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;564); [27 ottobre 1951, n. 1793](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1793); [11 febbraio 1952, n. 366](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-11;366); [26 ottobre 1952, n. 4507](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4507); [10 febbraio 1953, n. 544](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;544); [25 giugno 1953, n. 709](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-06-25;709); [23 marzo 1954, n. 751](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-23;751); [26 ottobre 1954, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-26;1207); [11 aprile 1955, n. 622](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-04-11;622); [20 settembre 1955, n. 937](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-20;937); [25 settembre 1955, n. 959](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-25;959) e [16 marzo 1956, n. 529](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-03-16;529);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 3071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;3071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita', accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso  
-Art. 26. - L'insegnamento complementare di "letteratura delle tradizioni popolari" del corso di laurea in lettere e' soppresso e sostituito dal seguente "storia delle tradizioni popolari".  
-Art. 48. - Agli insegnamenti complementari del corso di laurea in fisica e' aggiunto quello di "astrofisica".  
-Art. 54. - Agli insegnamenti complementari del corso di laurea in matematica e fisica e' aggiunto quello di "astrofisica".  
-Art. 57. - Agli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di "chimica biologica".  
-Art. 68. - Il primo comma cosi' formulato: "I laureati in scienze naturali, in fisica, in medicina e chirurgia, in medicina veterinaria e in scienze agrarie aspiranti alla laurea in farmacia, sono ammessi al 3° anno" e' abrogato.  
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 176 - l'elenco delle scuole di specializzazione in medicina e chirurgia e' modificato nel senso che la scuola di specializzazione in clinica pediatrica muta la denominazione in quella di scuola di specializzazione in pediatria.   
+Gli articoli 239, 240 e 241, relativi alla scuola di specializzazione in clinica pediatrica, che muta la denominazione in quella di scuola di specializzazione in pediatria, sono soppressi e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in pediatria   
+Art. 239. - La scuola di specializzazione in pediatria ha sede presso la clinica pediatrica e conferisce il diploma di specialista in pediatria.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.   
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
+Il numero massimo degli allievi e' di venticinque per anno di corso e complessivamente di cento per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Art. 240. - Le materie d'insegnamento sono le seguenti:   
+1° Anno:   
+genetica;   
+auxologia;   
+alimentazione;   
+epidemiologia;   
+malattie infettive;   
+clinica pediatrica I.   
+2° Anno:   
+radiologia;   
+legislazione del minore;   
+organizzazione sanitaria;   
+psicologia pediatrica;   
+oculistica ed ortottica;   
+otorino e fonoiatria;   
+odonto;   
+neonatologia I;   
+chirurgia pediatrica I;   
+pediatria preventiva e sociale I;   
+clinica pediatrica II.   
+3° Anno:   
+neurologia;   
+psichiatria infantile;   
+nefrologia e urologia;   
+ginecologia pediatrica;   
+neonatologia II;   
+chirurgia pediatrica II;   
+pediatria preventiva e sociale II;   
+cardiologia I;   
+endocrinologia I;   
+ematologia I;   
+immunologia I;   
+gastroenterologia I;   
+clinica pediatrica III.   
+4° Anno:   
+oncologia;   
+pneumologia;   
+ortopedia e traumatologia;   
+dermatologia;   
+cardiologia II;   
+endocrinologia II;   
+ematologia II;   
+immunologia II;   
+gastroenterologia II;   
+clinica pediatrica IV.   
+Art. 241. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere le prove di esame.   
+Alla fine di ciascun anno di corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno.   
+Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di studi, per il conseguimento del diploma di specialista in pediatria, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 settembre 1956
+### Dato a Roma, addi' 11 maggio 1979
 
-GRONCHI ROSSI
+PERTINI SPADOLINI
 
-Registrato alla Corte dei conti, addi' 12 ottobre 1956
+Visto, il Guardasigilli: MORLINO
 
-Atti del Governo, registro n. 101, foglio n. 23. - CARLOMAGNO
+Registrato alla Corte dei conti, addi' 22 settembre 1979
+
+Registro n. 69 Istruzione, foglio n. 102

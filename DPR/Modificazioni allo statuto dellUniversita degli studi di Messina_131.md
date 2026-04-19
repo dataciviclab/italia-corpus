@@ -1,46 +1,112 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1965 n. 1296
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 aprile 1984 n. 667
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1965 n. 1296
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 aprile 1984 n. 667
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1° ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
+Nell'art. 72, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:   
+applicazioni tecnologiche in chirurgia;   
+radioterapia;   
+analisi chimico-cliniche.   
+
+Art. 2
+------
+
   
-Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 39. - All'elenco degli insegnamenti complementari del corso di laurea in Materie letterarie e' aggiunto quello di "Filologia medioevale e umanistica".  
-Art. 41. - All'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere e' aggiunto quello di "Filologia medioevale e umanistica".  
-Art. 49. - All'elenco degli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti i seguenti:  
-Urologia;  
-Neurochirurgia.  
+  
+Nell'art. 78, relativo al corso di laurea in fisica, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:   
+Indirizzo generale:   
+fisica atomica;   
+fisica dei liquidi;   
+fisica dei metalli;   
+elettronica dei dispositivi a stato solido;   
+acceleratori di particelle;   
+teoria delle reazioni nucleari;   
+laboratorio di fisica nucleare;   
+metodi per il trattamento dell'informazione;   
+teoria dei gruppi;   
+calcolatori elettronici e programmazione;   
+chimica fisica dello stato solido;   
+geofisica nucleare;   
+geotermia;   
+geomagnetismo.   
+Indirizzo didattico:   
+fisica atomica;   
+fisica dei metalli;   
+elettronica dei dispositivi a stato solido;   
+acceleratori di particelle;   
+metodi per il trattamento dell'informazione;   
+teoria dei gruppi;   
+fisica ambientale.   
+Indirizzo applicativo:   
+fisica atomica;   
+fisica dei liquidi;   
+fisica dei metalli;   
+elettronica dei dispositivi a stato solido;   
+acceleratori di particelle;   
+teoria delle reazioni nucleari;   
+laboratorio di fisica nucleare;   
+metodi per il trattamento dell'informazione;   
+teoria dei gruppi;   
+calcolatori elettronici e programmazione;   
+chimica fisica dello stato solido;   
+fisica ambientale;   
+sismica applicata;   
+geofisica nucleare;   
+geotermia;   
+geomagnetismo.   
+Nell'art. 80, relativo al corso di laurea in chimica industriale, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:   
+analisi merceologica;   
+tecnologia dei cicli produttivi.   
+Nell'art. 81, relativo al corso di laurea in scienze naturali, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:   
+analisi mineralogiche delle rocce.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 ottobre 1965
+### Dato a Roma, addi' 6 aprile 1984
 
-SARAGAT GUI
+PERTINI FALCUCCI
 
-Visto, ti Guardasigilli: REALE
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 23 novembre 1965
+Registrato alla Corte dei conti, addi' 1° ottobre 1984
 
-Atti del Governo, registro n. 198, foglio n. 62. - VILLA
+Registro n. 58 Istruzione, foglio n. 295

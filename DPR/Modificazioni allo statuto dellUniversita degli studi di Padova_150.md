@@ -1,43 +1,103 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 luglio 1955 n. 798
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1981 n. 947
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 luglio 1955 n. 798
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1981 n. 947
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui, all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con i [regi decreti 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-10-05;1847); [26 ottobre 1940, n. 2058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2058); [16 marzo 1942, numero 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-03-16;323); [24 ottobre 1942, n. 1597 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1597) [23 settembre 1949, n. 932](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;932); [31 ottobre 1950, n. 1308](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1308); [11 aprile 1951, n. 953](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;953); [25 luglio 1952, n. 1501](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1501); [26 ottobre 1952, n. 4529](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4529); [10 febbraio 1953, n. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;384); [30 luglio 1953, n. 715](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;715); [24 settembre 1954, n. 1205](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-24;1205) e [14 marzo 1955, n. 345](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-03-14;345);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Il testo dell'art. 421, relativo all'elenco delle scuole e dei corsi annessi alla facolta' di medicina e chirurgia, e' modificato nel senso che dopo il n. 21 e con lo spostamento dei numeri successivi e' inserita la seguente scuola:  
+22) scuola di specializzazione in neuropatologia che conferisce il diploma di specialista in neuropatologia.  
+
+Art. 2
+------
+
   
-Decreta:  
   
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Il testo dell'art. 422, relativo agli ordinamenti di ciascuna scuola di specializzazione, e' modificato nel senso che dopo l'ordinamento della scuola di specializzazione in neurologia e' inserito l'ordinamento della scuola di specializzazione in neuropatologia.   
+Scuola di specializzazione in neuropatologia   
+La scuola di specializzazione in neuropatologia conferisce il diploma di specialista in neuropatologia.   
+Gli anni di corso necessari per il conseguimento del diploma sono quattro.   
+Alla scuola sono ammessi i laureati in medicina e chirurgia abilitati all'esercizio della professione.   
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.   
+Il consiglio della scuola si compone dei professori che tengono gli insegnamenti prescritti ed e' presieduto dal direttore.   
+Gli insegnanti della scuola sono nominati dal rettore, su proposta del consiglio di facolta', udito il direttore della scuola.   
+Il direttore affida l'organizzazione della coordinazione dei corsi ad un coordinatore della didattica:   
+quest'ultimo deve possedere una riconosciuta e documentata competenza in neuropatologia e viene scelto dal direttore della scuola fra gli insegnanti delle materie previste dal piano di studi.   
+La selezione dei candidati aspiranti alla ammissione alla scuola avviene sulla base dei titoli presentati e in seguito ad un esame scritto. La commissione esaminatrice e' presieduta dal direttore della scuola di specializzazione.   
+Il corso di quattro anni non puo' essere abbreviato e pertanto non sono consentite abbreviazioni di corso.   
+Il numero massimo degli iscritti e' stabilito in cinque per anno per un totale di venti per i quattro anni di corso.   
+Gli insegnamenti della scuola di specializzazione in neuropatologia sono cosi' distribuiti nei quattro anni di corso:   
+1° Anno:   
+anatomia del sistema nervoso;   
+fisiologia del sistema nervoso;   
+genetica del sistema nervoso;   
+biochimica del sistema nervoso (I);   
+tecnica e diagnostica delle autopsie.   
+2° Anno:   
+anatomia patologica macroscopica generale;   
+anatomia patologica microscopica generale;   
+biochimica del sistema nervoso (II);   
+immunologia ed immunopatologia del sistema nervoso.   
+3° Anno:   
+anatomia patologica macroscopica del sistema nervoso;   
+anatomia patologica microscopica del sistema nervoso (I);   
+patologia speciale neurologica;   
+diagnostica di laboratorio in neurologia.   
+4° Anno:   
+anatomia patologica microscopica del sistema nervoso (II);   
+anatomia patologica delle malattie neuromuscolari;   
+semeiotica neurologica;   
+clinica neurologica.   
+Per ottenere il diploma di specializzazione in neuropatologia, gli specializzandi devono frequentare per il primo anno un laboratorio di anatomia patologica generale, per il secondo e terzo anno un laboratorio di neuropatologia, per il quarto anno un reparto clinico nell'ambito del dipartimento di scienze neurologiche (clinica neurologica o clinica neurochirurgica).   
   
-Art. 97. - Agli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto quello di "psicologia sperimentale".  
+La scuola di specializzazione in neuropatologia e' solo parzialmente clinica.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 luglio 1955
+### Dato a Roma, addi' 28 ottobre 1981
 
-GRONCHI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 1 settembre 1955
+Registrato alla Corte dei conti, addi' 9 febbraio 1982
 
-Atti del Governo, registro n. 92, foglio n. 133. - CARLOMAGNO
+Registro n. 20 Istruzione, foglio n. 174

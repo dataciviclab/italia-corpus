@@ -1,188 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1969 n. 994
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1970 n. 654
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1969 n. 994
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1970 n. 654
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-gli articoli da 129 a 134 relativi alla scuola di specializzazione in igiene che muta denominazione in quella di igiene e medicina preventiva, sono abrogati e sostituiti dai seguenti:
-
-Scuola di specializzazione in igiene e medicina preventiva
-
-Art. 129. - La scuola di specializzazione in igiene e medicina preventiva e' articolata in quattro orientamenti: a) Sanita' pubblica; b) Laboratorio; c) Igiene e direzione ospedaliera; d) Igiene e medicina scolastica.
-
-Il corso della scuola ha la durata di tre anni.
-
-Sono ammessi, previo esame di ammissione, i laureati in medicina e chirurgia.
-
-Sono previste decurtazioni di un anno: A) per il personale medico di ruolo della amministrazione sanitaria centrale e periferica; B) per il personale medico di ruolo degli istituti universitari di igiene e microbiologia; C) per i candidati in possesso del diploma di specializzazione in: igiene, igiene e medicina scolastica, igiene e tecnica ospedaliera, scienza dell'alimentazione, microbiologia, medicina del lavoro, malattie infettive, medici laboratoristi.
-
-Art. 130. - il numero massimo degli iscritti e' di venticinque per ogni anno di corso (totale settantacinque iscritti).
-
-Art. 131. - Il programma di insegnamento e' il seguente:
-
-1° Anno:
-
-Metodologia statistica e biometria;
-
-Educazione sanitaria;
-
-Psicologia;
-
-Microbiologia;
-
-Parassitologia;
-
-Epidemiologia e profilassi generale.
-
-2° Anno:
-
-Patologia e clinica delle malattie infettive;
-
-Epidemiologia e profilassi delle malattie infettive;
-
-Patologia e clinica delle malattie non infettive di importanza sociale;
-
-Demografia e statistica sanitaria;
-
-Legislazione e organizzazione sanitaria.
-
-3° Anno (con orientamento di sanita' pubblica):
-
-Approvvigionamento idrico, raccolta e smaltimenti dei rifiuti liquidi e solidi, inquinamenti atmosferici;
-
-Igiene edilizia e urbanistica;
-
-Igiene dell'alimentazione;
-
-Igiene e medicina scolastica;
-
-Igiene ospitaliera;
-
-Servizi di sanita' pubblica.
-
-3° Anno (con orientamento di laboratorio):
-
-Microscopia applicata all'igiene;
-
-Microbiologia applicata all'igiene;
-
-Chimica clinica;
-
-Accertamento diagnostico delle malattie batteriche e parassitarie;
-
-Accertamento diagnostico delle infezioni virali;
-
-Nozioni di anatomia e istologia patologica.
-
-3° Anno (con orientamento di igiene e direzione ospitaliera):
-
-Storia degli ospedali e principi metodologici della assistenza ospitaliera; - Igiene e tecnica delle costruzioni ospitaliere, arredamento ed impianti sanitari;
-
-Organizzazione e funzione degli ospedali generali e speciali;
-
-Diritto amministrativo e legislazione ospitaliera;
-
-Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera;
-
-Selezione a istruzione professionale del personale ospitaliero;
-
-Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.
-
-3° Anno (con ordinamento di igiene e medicina scolastica):
-
-Auxologia normale e patologica;
-
-Epidemiologia e profilassi delle malattie dell'eta' scolare;
-
-Servizi di medicina scolastica;
-
-Elementi di psicologia e pedagogia per l'eta' scolare;
-
-Igiene dell'alimentazione;
-
-Assistenza parascolastica;
-
-Edilizia scolastica.
-
-Art. 32. - Le materie complementari, una per anno a scelta dell'iscritto sono le seguenti:
-
-Ispezione delle carni;
-
-Geologia applicata all'igiene;
-
-Igiene mentale;
-
-Malattie professionali e loro prevenzione;
-
-Diritto sanitario;
-
-Igiene navale e dell'emigrazione;
-
-Antropologia culturale e sociologica;
-
-Malattie tropicali;
-
-Istituzioni di matematica;
-
-Genetica;
-
-Gerontologia e geriatria;
-
-Elementi di economia politica.
-
-Art. 133. - Gli esami di profitto si svolgono al termine di ogni anno di corso.
-
-Art. 134. - Per il diploma l'iscritto preparera' una dissertazione scritta su argomento concordato col direttore della scuola. Tale dissertazione sara' discussa davanti alla commissione di diploma; seguira' un esame pratico su argomento della scuola.
-
-Gli articoli da 197 a 203 relativi alla scuola di specializzazione in igiene e medicina scolastica sono soppressi.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 30 ottobre 1969
-
-SARAGAT
-
-FERRARI AGGRADI
-
-Visto, il Guardasigilli: GAVA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 24 dicembre 1969 Atti del Governo, registro n. 230, foglio n. 170. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229);  
+e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
@@ -194,86 +25,21 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-gli articoli da 129 a 134 relativi alla scuola di specializzazione in igiene che muta denominazione in quella di igiene e medicina preventiva, sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in igiene e medicina preventiva  
-  
-Art. 129. - La scuola di specializzazione in igiene e medicina preventiva e' articolata in quattro orientamenti: a) Sanita' pubblica; b) Laboratorio; c) Igiene e direzione ospedaliera; d) Igiene e medicina scolastica.  
-Il corso della scuola ha la durata di tre anni.  
-Sono ammessi, previo esame di ammissione, i laureati in medicina e chirurgia.  
-Sono previste decurtazioni di un anno: A) per il personale medico di ruolo della amministrazione sanitaria centrale e periferica; B) per il personale medico di ruolo degli istituti universitari di igiene e microbiologia; C) per i candidati in possesso del diploma di specializzazione in: igiene, igiene e medicina scolastica, igiene e tecnica ospedaliera, scienza dell'alimentazione, microbiologia, medicina del lavoro, malattie infettive, medici laboratoristi.  
-Art. 130. - il numero massimo degli iscritti e' di venticinque per ogni anno di corso (totale settantacinque iscritti).  
-Art. 131. - Il programma di insegnamento e' il seguente:  
-1° Anno:  
-Metodologia statistica e biometria;  
-Educazione sanitaria;  
-Psicologia;  
-Microbiologia;  
-Parassitologia;  
-Epidemiologia e profilassi generale.  
-2° Anno:  
-Patologia e clinica delle malattie infettive;  
-Epidemiologia e profilassi delle malattie infettive;  
-Patologia e clinica delle malattie non infettive di importanza sociale;  
-Demografia e statistica sanitaria;  
-Legislazione e organizzazione sanitaria.  
-3° Anno (con orientamento di sanita' pubblica):  
-Approvvigionamento idrico, raccolta e smaltimenti dei rifiuti liquidi e solidi, inquinamenti atmosferici;  
-Igiene edilizia e urbanistica;  
-Igiene dell'alimentazione;  
-Igiene e medicina scolastica;  
-Igiene ospitaliera;  
-Servizi di sanita' pubblica.  
-3° Anno (con orientamento di laboratorio):  
-Microscopia applicata all'igiene;  
-Microbiologia applicata all'igiene;  
-Chimica clinica;  
-Accertamento diagnostico delle malattie batteriche e parassitarie;  
-Accertamento diagnostico delle infezioni virali;  
-Nozioni di anatomia e istologia patologica.  
-3° Anno (con orientamento di igiene e direzione ospitaliera):  
-Storia degli ospedali e principi metodologici della assistenza ospitaliera; - Igiene e tecnica delle costruzioni ospitaliere, arredamento ed impianti sanitari;  
-Organizzazione e funzione degli ospedali generali e speciali;  
-Diritto amministrativo e legislazione ospitaliera;  
-Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera;  
-Selezione a istruzione professionale del personale ospitaliero;  
-Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.  
-3° Anno (con ordinamento di igiene e medicina scolastica):  
-Auxologia normale e patologica;  
-Epidemiologia e profilassi delle malattie dell'eta' scolare;  
-Servizi di medicina scolastica;  
-Elementi di psicologia e pedagogia per l'eta' scolare;  
-Igiene dell'alimentazione;  
-Assistenza parascolastica;  
-Edilizia scolastica.  
-Art. 32. - Le materie complementari, una per anno a scelta dell'iscritto sono le seguenti:  
-Ispezione delle carni;  
-Geologia applicata all'igiene;  
-Igiene mentale;  
-Malattie professionali e loro prevenzione;  
-Diritto sanitario;  
-Igiene navale e dell'emigrazione;  
-Antropologia culturale e sociologica;  
-Malattie tropicali;  
-Istituzioni di matematica;  
-Genetica;  
-Gerontologia e geriatria;  
-Elementi di economia politica.  
-Art. 133. - Gli esami di profitto si svolgono al termine di ogni anno di corso.  
-Art. 134. - Per il diploma l'iscritto preparera' una dissertazione scritta su argomento concordato col direttore della scuola. Tale dissertazione sara' discussa davanti alla commissione di diploma; seguira' un esame pratico su argomento della scuola.  
-Gli articoli da 197 a 203 relativi alla scuola di specializzazione in igiene e medicina scolastica sono soppressi.  
+gli articoli 93, 94 e 95 relativi alla scuola di specializzazione in malattie del tubo digerente, del sangue e del ricambio sono soppressi.  
+Dopo l'art. 216, e con il conseguente spostamento della successiva numerazione, e' inserito il seguente articolo concernente la norma che regola il passaggio dalla scuola di specializzazione in malattie del tubo digerente, del sangue e del ricambio, che viene soppressa, alla scuola di specializzazione in ematologia clinica e di laboratorio:  
+Art. 217. - Gli iscritti alla scuola di specializzazione in malattie dell'apparato digerente, del sangue e del ricambio possono continuare a frequentare i corsi per il conseguimento del relativo diploma oppure possono optare per l'iscrizione alla nuova scuola di specializzazione in ematologia clinica e di laboratorio.  
+Per coloro che sono gia' iscritti alla scuola di specializzazione in malattie dell'apparato digerente, del sangue e del ricambio l'ammissione all'anno di corso della nuova scuola di ematologia viene stabilita dal consiglio di facolta', sentito il parere del direttore di detta scuola, in base agli esami sostenuti dallo specializzando.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1969
+### Dato a Roma, addi' 14 luglio 1970
 
-SARAGAT FERRARI AGGRADI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 24 dicembre 1969
+Registrato alla Corte dei conti, addi' 7 settembre 1970
 
-Atti del Governo, registro n. 230, foglio n. 170. - CARUSO
+Atti del Governo, registro n. 237, foglio n. 73. - CARUSO

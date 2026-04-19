@@ -1,400 +1,103 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1969 n. 353
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 marzo 1955 n. 222
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1969 n. 353
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 marzo 1955 n. 222
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle, autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:
-
-Gli articoli 181 e 182 relativi alla scuola di perfezionamento in scienze amministrative sono abrogati e sostituiti dai seguenti:
-
-Art. 181. - Il corso biennale di formazione e perfezionamento si articola in un programma unico e comune a tutti gli allievi per il primo anno, ed in una serie di insegnamenti a carattere specialistico, rispettivamente a contenuto giuridico-amministrativo e tecnico-amministrativo, per il secondo anno.
-
-Gli insegnamenti del primo anno di corso biennale sono i seguenti:
-
-Materie comuni obbligatorie:
-
-1) Principi costituzionali ed amministrativi dello ordinamento italiano.
-
-2) Contabilita' pubblica.
-
-3) Programmazione e bilancio.
-
-4) Politica economica e di mercato.
-
-5) Amministrazione del personale.
-
-6) Ordinamento delle Comunita', europee.
-
-7) Elementi di statistica applicata.
-
-8) Elementi di scienza dell'amministrazione (I).
-
-Gli insegnamenti del secondo anno di corso sono i seguenti:
-
-Indirizzo giuridico:
-
-1) Diritto amministrativo speciale.
-
-a) Atti e procedimenti amministrativi.
-
-b) Espropriazione ed urbanistica.
-
-c) Il rapporto di pubblico impiego.
-
-d) I controlli amministrativi.
-
-e) La responsabilita' della pubblica amministrazione.
-
-2) Ordinamento giuridico degli enti locali.
-
-3) Giustizia amministrativa.
-
-4) Pubbliche imprese.
-
-5) Diritto pubblico dell'economia.
-
-6) Diritto sindacale e relazioni industriali.
-
-7) Diritto delle Comunita' europee.
-
-Indirizzo tecnico:
-
-1) Sociologia applicata.
-
-2) Psicologia applicata.
-
-3) Scienza dell'amministrazione II.
-
-4) Teoria dell'organizzazione.
-
-5) Tecniche di organizzazione e metodo.
-
-6) Tecniche di selezione e valutazione del personale.
-
-7) Analisi quantitativa e ricerca operativa.
-
-8) Metodologia della ricerca.
-
-Integrano il programma degli insegnamenti suesposti appositi cicli di conferenze.
-
-Nel primo anno di corso gli allievi sono tenuti a frequentare le lezioni di tutte le materie del programma sostenendo al termine dell'anno un esame orale per ciascuna materia.
-
-Durante il secondo anno di corso gli allievi sono tenuti a frequentare le lezioni delle materie corrispondenti all'indirizzo da essi prescelto, sostenendone i relativi esami orali.
-
-Al fine del conseguimento del diploma di perfezionamento gli allievi sono tenuti a svolgere un elaborato finale, con oggetto rientrante nell'ambito delle materie corrispondenti all'indirizzo da essi prescelto.
-
-Disposizione transitoria
-
-Gli allievi che al momento dell'entrata in vigore della presente modifica statutaria, si iscrivono al secondo anno del corso sono tenuti alla scelta dell'indirizzo con conseguente obbligo di frequenze ed esami relativamente agli insegnamenti che essi non hanno ancora sostenuto alla fine del primo anno.
-
-Art. 182. - I corsi sono integrati da esercitazioni di seminario.
-
-Durante il secondo anno possono essere organizzate visite ai pubblici uffici o privati per studiarne l'organizzazione ed il funzionamento.
-
-Dopo l'art. 221 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione e di perfezionamento in storia economica e in geografia annesse alla facolta' di economia e commercio.
-
-Scuola di specializzazione in storia economica
-
-Art. 222. - Alla facolta' di economia e commercio e' annessa una scuola di specializzazione in storia economica. Essa funziona presso l'istituto di storia economica e sociale della facolta'.
-
-Art. 223. - Alla scuola possono accedere i laureati in economia e commercio, in lettere e filosofia, in materie letterarie, in scienze politiche, in giurisprudenza, in scienze economiche.
-
-Art. 224. - La scuola ha la durata di due anni.
-
-Art. 225. - La scuola ha un direttore, un vice direttore e un corpo di docenti.
-
-E' direttore della scuola il direttore dell'istituto di storia economica.
-
-Art. 226. - Le lezioni in genere sono mutuate dagli insegnamenti della facolta' di economia e commercio e di altre facolta' dell'Universita' di Bologna.
-
-Art. 227. - Gli insegnamenti della scuola a carattere cattedratico sono:
-
-1) Storia economica;
-
-2) Storia delle dottrine economiche;
-
-3) Economia politica;
-
-4) Paleografia;
-
-5) Storia del diritto italiano;
-
-6) Statistica;
-
-7) Latino;
-
-8) Fonti della storia economica;
-
-9) Storia sociale.
-
-Gli insegnamenti potranno essere integrati da esercitazioni, seminari, conferenze e altre forme didattiche, su delibera del consiglio di facolta'.
-
-Art. 228. - Gli allievi debbono partecipare all'attivita' scientifica dell'istituto e preparare delle monografie originali, per cui si rendera' necessario lo studio di alcune materie complementari da scegliersi d'accordo col direttore della scuola. Queste materie, che potranno essere insegnate attraverso seminari od esercitazioni, si riferiscono a tutti gli insegnamenti che possono interessare la storia economica anche indirettamente.
-
-Art. 229. - Gli iscritti alla scuola dovranno sostenere gli esami di profitto relativamente alle materie fondamentali e preparare una monografia scritta in tema di storia economica.
-
-Art. 230. - I proventi della scuola sono costituiti:
-
-a) dalle tasse di iscrizione e frequenza e dalla soprattassa di esame;
-
-b) da contributi, sovvenzioni, fondazioni di imprese ed enti vari che il direttore della scuola decide di accogliere.
-
-Art. 231. - L'esame finale che avra' per oggetto la discussione della monografia presentata dal candidato sara' sostenuto di fronte ad una commissione di sette membri presieduta dal direttore della scuola.
-
-Scuola di perfezionamento in geografia
-
-Art. 232. - Alla facolta' di economia e commercio e' annessa una scuola di perfezionamento in geografia. Essa funziona presso l'istituto di geografia economica della facolta'.
-
-Art. 233. - La scuola ha lo scopo di valorizzare gli studi di geografia al fine di preparare i laureati sia all'insegnamento che all'attivita' professionale.
-
-Art. 234. - Alla scuola possono accedere i laureati in economia e commercio, in lettere, in materie letterarie, in scienze geologiche, in scienze politiche, nonche' coloro che hanno conseguito un diploma di laurea che dia titolo a sostenere l'esame di abilitazione all'insegnamento della geografia.
-
-Art. 235. - La scuola ha la durata di due anni.
-
-Art. 236. - La scuola ha un direttore, un vice direttore e un corpo di docenti. Il direttore e il vice direttore sono eletti dal consiglio di facolta' per un biennio e alla scadenza possono essere confermati.
-
-Art. 237. - Le lezioni sono tenute da docenti nominati dal rettore dell'Universita' di Bologna su proposta del consiglio di facolta'.
-
-Art. 238. - Gli insegnamenti fondamentali della scuola sono mutuati dai corsi di laurea dell'Universita' di Bologna:
-
-1) Geografia;
-
-2) Geografia economica;
-
-3) Geografia politica;
-
-4) Geografia fisica.
-
-Gli insegnamenti complementari sono:
-
-1) Geografia regionale;
-
-2) Geografia applicata;
-
-3) Geografia sociale;
-
-4) Geografia del turismo;
-
-5) Geografia urbana;
-
-6) Didattica della geografia;
-
-7) Storia delle esplorazioni geografiche;
-
-8) Merceologia;
-
-9) Sociologia;
-
-10) Statistica economica e demografica.
-
-Saranno altresi' impartite esercitazioni di: a) cartografia; b) elementi di geologia; c) statistica per geografi.
-
-Gli insegnamenti potranno essere integrati da esercitazioni, seminari, conferenze e altre forme didattiche, su delibera del consiglio di facolta'.
-
-Art. 239. - Gli iscritti alla scuola dovranno sostenere esami di profitto relativamente a:
-
-1) i quattro insegnamenti fondamentali;
-
-2) tre insegnamenti complementari a loro scelta, concordati con la direzione della scuola.
-
-Gli iscritti dovranno altresi' sostenere un colloquio relativo agli argomenti su cui vertono le esercitazioni.
-
-Art. 240. - L'esame finale della scuola, al quale gli iscritti potranno presentarsi dopo aver superato i prescritti esami, consiste nella discussione su un tema svolto dal candidato e sara' sostenuto di fronte ad una commissione composta di sette membri presieduti dal direttore, della scuola.
-
-Art. 241. - I proventi della scuola sono costituiti:
-
-a) dalle tasse di iscrizione e frequenza e dalla soprattassa di esame;
-
-b) da contributi, sovvenzioni, fondazioni di imprese ed enti vari che il direttore della scuola decida di accogliere.
-
-Art. 243 (gia' 224). - All'elenco degli insegnamenti complementari della scuola di perfezionamento in filologia moderna e' aggiunto quello di filologia italiana.
-
-Art. 247 (gia' 228), relativo alla scuola di perfezionamento in biblioteconomia e archivistica e' modificato nel modo seguente:
-
-"Alla scuola di perfezionamento in biblioteconomia e archivistica possono essere iscritti i laureati in lettere, in filosofia, in lingue e letterature straniere moderne, in giurisprudenza e in scienze politiche presso le rispettive facolta', nonche' in materie letterarie, in pedagogia e in lingue e letterature straniere presso la facolta' di magistero o in lingue e letterature straniere presso le relative facolta'".
-
-Gli articoli 259, 260 e 261 (gia' 240, 241 e 242), relativi all'ordinamento della scuola di perfezionamento in geografia presso la facolta' di lettere e filosofia sono soppressi.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 14 maggio 1969
-
-SARAGAT
-
-FERRARI AGGRADI
-
-Visto, il Guardasigilli: GAVA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 5 luglio 1969 Atti del Governo, registro n. 227, foglio n. 112. - CARUSO
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle, autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con i [regi decreti 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-12;2227); [4 settembre 1930, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-09-04;1312); [1 ottobre 1931, n. 1778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1778); [27 ottobre 1932, n. 2092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2092); [6 dicembre 1934, n. 2394](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2394); [1 ottobre 1936, n. 2502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2502); [12 maggio 1939, n. 1315](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-05-12;1315); [5 ottobre 1939, n. 1644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1644); [11 luglio 1941, n. 848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-07-11;848); [18 luglio 1942, n. 928](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-18;928); [24 novembre 1942, n. 1595, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-11-24;1595) [16 maggio 1947, n. 694, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-05-16;694) [22 febbraio 1948, n. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-02-22;414); [30 luglio 1950, n. 1268](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-30;1268); [31 ottobre 1950, n. 1307](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1307); [5 agosto 1951, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-05;1311); [27 ottobre 1951, n. 1792](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1792); [3 ottobre 1952, n. 4541](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-03;4541); [11 marzo 1953, n. 545](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;545); [12 maggio 1953, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-05-12;547); [30 giugno 1954, n. 742](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;742); [30 giugno 1954, n. 755](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;755); [14 agosto 1954, n. 862](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-08-14;862) e [14 settembre 1954, n. 1231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1231);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:   
-  
-Gli articoli 181 e 182 relativi alla scuola di perfezionamento in scienze amministrative sono abrogati e sostituiti dai seguenti:   
-Art. 181. - Il corso biennale di formazione e perfezionamento si articola in un programma unico e comune a tutti gli allievi per il primo anno, ed in una serie di insegnamenti a carattere specialistico, rispettivamente a contenuto giuridico-amministrativo e tecnico-amministrativo, per il secondo anno.   
-Gli insegnamenti del primo anno di corso biennale sono i seguenti:   
-Materie comuni obbligatorie:   
-1) Principi costituzionali ed amministrativi dello ordinamento italiano.   
-2) Contabilita' pubblica.   
-3) Programmazione e bilancio.   
-4) Politica economica e di mercato.   
-5) Amministrazione del personale.   
-6) Ordinamento delle Comunita', europee.   
-7) Elementi di statistica applicata.   
-8) Elementi di scienza dell'amministrazione (I).   
-Gli insegnamenti del secondo anno di corso sono i seguenti:   
-Indirizzo giuridico:   
-1) Diritto amministrativo speciale.   
-a) Atti e procedimenti amministrativi.   
-b) Espropriazione ed urbanistica.   
-c) Il rapporto di pubblico impiego.   
-d) I controlli amministrativi.   
-e) La responsabilita' della pubblica amministrazione.   
-2) Ordinamento giuridico degli enti locali.   
-3) Giustizia amministrativa.   
-4) Pubbliche imprese.   
-5) Diritto pubblico dell'economia.   
-6) Diritto sindacale e relazioni industriali.   
-7) Diritto delle Comunita' europee.   
-Indirizzo tecnico:   
-1) Sociologia applicata.   
-2) Psicologia applicata.   
-3) Scienza dell'amministrazione II.   
-4) Teoria dell'organizzazione.   
-5) Tecniche di organizzazione e metodo.   
-6) Tecniche di selezione e valutazione del personale.   
-7) Analisi quantitativa e ricerca operativa.   
-8) Metodologia della ricerca.   
-Integrano il programma degli insegnamenti suesposti appositi cicli di conferenze.   
-Nel primo anno di corso gli allievi sono tenuti a frequentare le lezioni di tutte le materie del programma sostenendo al termine dell'anno un esame orale per ciascuna materia.   
-Durante il secondo anno di corso gli allievi sono tenuti a frequentare le lezioni delle materie corrispondenti all'indirizzo da essi prescelto, sostenendone i relativi esami orali.   
-Al fine del conseguimento del diploma di perfezionamento gli allievi sono tenuti a svolgere un elaborato finale, con oggetto rientrante nell'ambito delle materie corrispondenti all'indirizzo da essi prescelto.   
-  
-Disposizione transitoria   
-  
-Gli allievi che al momento dell'entrata in vigore della presente modifica statutaria, si iscrivono al secondo anno del corso sono tenuti alla scelta dell'indirizzo con conseguente obbligo di frequenze ed esami relativamente agli insegnamenti che essi non hanno ancora sostenuto alla fine del primo anno.   
-Art. 182. - I corsi sono integrati da esercitazioni di seminario.   
-Durante il secondo anno possono essere organizzate visite ai pubblici uffici o privati per studiarne l'organizzazione ed il funzionamento.   
-Dopo l'art. 221 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione e di perfezionamento in storia economica e in geografia annesse alla facolta' di economia e commercio.   
-  
-Scuola di specializzazione in storia economica   
-  
-Art. 222. - Alla facolta' di economia e commercio e' annessa una scuola di specializzazione in storia economica. Essa funziona presso l'istituto di storia economica e sociale della facolta'.   
-Art. 223. - Alla scuola possono accedere i laureati in economia e commercio, in lettere e filosofia, in materie letterarie, in scienze politiche, in giurisprudenza, in scienze economiche.   
-Art. 224. - La scuola ha la durata di due anni.   
-Art. 225. - La scuola ha un direttore, un vice direttore e un corpo di docenti.   
-E' direttore della scuola il direttore dell'istituto di storia economica.   
-Art. 226. - Le lezioni in genere sono mutuate dagli insegnamenti della facolta' di economia e commercio e di altre facolta' dell'Universita' di Bologna.   
-Art. 227. - Gli insegnamenti della scuola a carattere cattedratico sono:   
-1) Storia economica;   
-2) Storia delle dottrine economiche;   
-3) Economia politica;   
-4) Paleografia;   
-5) Storia del diritto italiano;   
-6) Statistica;   
-7) Latino;   
-8) Fonti della storia economica;   
-9) Storia sociale.   
-Gli insegnamenti potranno essere integrati da esercitazioni, seminari, conferenze e altre forme didattiche, su delibera del consiglio di facolta'.   
-Art. 228. - Gli allievi debbono partecipare all'attivita' scientifica dell'istituto e preparare delle monografie originali, per cui si rendera' necessario lo studio di alcune materie complementari da scegliersi d'accordo col direttore della scuola. Queste materie, che potranno essere insegnate attraverso seminari od esercitazioni, si riferiscono a tutti gli insegnamenti che possono interessare la storia economica anche indirettamente.   
-Art. 229. - Gli iscritti alla scuola dovranno sostenere gli esami di profitto relativamente alle materie fondamentali e preparare una monografia scritta in tema di storia economica.   
-Art. 230. - I proventi della scuola sono costituiti:   
-a) dalle tasse di iscrizione e frequenza e dalla soprattassa di esame;   
-b) da contributi, sovvenzioni, fondazioni di imprese ed enti vari che il direttore della scuola decide di accogliere.   
-Art. 231. - L'esame finale che avra' per oggetto la discussione della monografia presentata dal candidato sara' sostenuto di fronte ad una commissione di sette membri presieduta dal direttore della scuola.   
-  
-Scuola di perfezionamento in geografia   
-  
-Art. 232. - Alla facolta' di economia e commercio e' annessa una scuola di perfezionamento in geografia. Essa funziona presso l'istituto di geografia economica della facolta'.   
-Art. 233. - La scuola ha lo scopo di valorizzare gli studi di geografia al fine di preparare i laureati sia all'insegnamento che all'attivita' professionale.   
-Art. 234. - Alla scuola possono accedere i laureati in economia e commercio, in lettere, in materie letterarie, in scienze geologiche, in scienze politiche, nonche' coloro che hanno conseguito un diploma di laurea che dia titolo a sostenere l'esame di abilitazione all'insegnamento della geografia.   
-Art. 235. - La scuola ha la durata di due anni.   
-Art. 236. - La scuola ha un direttore, un vice direttore e un corpo di docenti. Il direttore e il vice direttore sono eletti dal consiglio di facolta' per un biennio e alla scadenza possono essere confermati.   
-Art. 237. - Le lezioni sono tenute da docenti nominati dal rettore dell'Universita' di Bologna su proposta del consiglio di facolta'.   
-Art. 238. - Gli insegnamenti fondamentali della scuola sono mutuati dai corsi di laurea dell'Universita' di Bologna:   
-1) Geografia;   
-2) Geografia economica;   
-3) Geografia politica;   
-4) Geografia fisica.   
-Gli insegnamenti complementari sono:   
-1) Geografia regionale;   
-2) Geografia applicata;   
-3) Geografia sociale;   
-4) Geografia del turismo;   
-5) Geografia urbana;   
-6) Didattica della geografia;   
-7) Storia delle esplorazioni geografiche;   
-8) Merceologia;   
-9) Sociologia;   
-10) Statistica economica e demografica.   
-Saranno altresi' impartite esercitazioni di: a) cartografia; b) elementi di geologia; c) statistica per geografi.   
-Gli insegnamenti potranno essere integrati da esercitazioni, seminari, conferenze e altre forme didattiche, su delibera del consiglio di facolta'.   
-Art. 239. - Gli iscritti alla scuola dovranno sostenere esami di profitto relativamente a:   
-1) i quattro insegnamenti fondamentali;   
-2) tre insegnamenti complementari a loro scelta, concordati con la direzione della scuola.   
-Gli iscritti dovranno altresi' sostenere un colloquio relativo agli argomenti su cui vertono le esercitazioni.   
-Art. 240. - L'esame finale della scuola, al quale gli iscritti potranno presentarsi dopo aver superato i prescritti esami, consiste nella discussione su un tema svolto dal candidato e sara' sostenuto di fronte ad una commissione composta di sette membri presieduti dal direttore, della scuola.   
-Art. 241. - I proventi della scuola sono costituiti:   
-a) dalle tasse di iscrizione e frequenza e dalla soprattassa di esame;   
-b) da contributi, sovvenzioni, fondazioni di imprese ed enti vari che il direttore della scuola decida di accogliere.   
-Art. 243 (gia' 224). - All'elenco degli insegnamenti complementari della scuola di perfezionamento in filologia moderna e' aggiunto quello di filologia italiana.   
-Art. 247 (gia' 228), relativo alla scuola di perfezionamento in biblioteconomia e archivistica e' modificato nel modo seguente:   
-"Alla scuola di perfezionamento in biblioteconomia e archivistica possono essere iscritti i laureati in lettere, in filosofia, in lingue e letterature straniere moderne, in giurisprudenza e in scienze politiche presso le rispettive facolta', nonche' in materie letterarie, in pedagogia e in lingue e letterature straniere presso la facolta' di magistero o in lingue e letterature straniere presso le relative facolta'".   
-Gli articoli 259, 260 e 261 (gia' 240, 241 e 242), relativi all'ordinamento della scuola di perfezionamento in geografia presso la facolta' di lettere e filosofia sono soppressi.   
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 63. - Agli insegnamenti complementari del corso di laurea in scienze matematiche sono aggiunti quelli di:  
+13) Teoria generale delle vibrazioni;  
+14) Teoria della relativita';  
+15) Storia delle matematiche;  
+16) Elasticita' e fluidodinamica;  
+17) Topologia;  
+18) Teoria dei numeri.  
+Art. 64. - Agli insegnamenti complementari del corso di laurea in fisica sono aggiunti quelli di:  
+14) Astrofisica;  
+15) Fisica atomica;  
+16) Tecniche elettroniche;  
+17) Fisica nucleare;  
+18) Teoria generale delle vibrazioni;  
+19) Fisica delle particelle elementari;  
+20) Meccanica statistica;  
+21) Teoria della relativita'.  
+Art. 65. - Agli insegnamenti complementari del corso di laurea in matematica e fisica sono aggiunti quelli di:  
+18) Teoria generale delle vibrazioni;  
+19) Teoria della relativita';  
+20) Fisica atomica;  
+21) Tecniche elettroniche;  
+22) Fisica nucleare;  
+23) Astrofisica;  
+24) Storia delle matematiche;  
+25) Fisica delle particelle elementari;  
+26) Meccanica statistica;  
+27) Teoria dei numeri;  
+28) Topologia.  
+Art. 66. - Agli insegnamenti complementari del corso di laurea in chimica (indirizzo organicobiologico) sono aggiunti quelli di:  
+17) Analisi chimica spettroscopica;  
+18) Chimica teorica;  
+19) Chimica tossicologica;  
+20) Tecnologie microbiologiche.  
+Art. 67. - Agli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti quelli di:  
+22) Antropometria;  
+23) Giacimenti minerari;  
+24) Geologia regionale;  
+25) Petrotettonica;  
+26) Citomorfologia (morfologia submicroscopica del protoplasma);  
+27) Embriologia sperimentale;  
+28) Geologia applicata;  
+29) Cristallochimica;  
+30) Mineralogia applicata;  
+31) Paleontologia umana e paletnologia.  
+Art. 68. - Agli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti quelli di:  
+16) Antropometria;  
+17) Citomorfologia (morfologia submicroscopica del protoplasma);  
+18) Embriologia sperimentale;  
+19) Farmacologia;  
+20) Chimica delle fermentazioni e batteriologia industriale;  
+21) Paleontologia umana e paletnologia.  
+Art. 69. - Agli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti quelli di:  
+13) Petrotettonica;  
+14) Geologia regionale;  
+15) Giacimenti minerari;  
+16) Cristallochimica;  
+17) Paleontologia umana e paletnologia;  
+18) Mineralogia applicata.  
+Art. 75. Agli insegnamenti complementari del corso di laurea in chimica industriale sono aggiunti quelli di:  
+15) Tecnologie elettrochimiche;  
+16) Chimica degli intermedi e degli esplosivi;  
+17) Cristallochimica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 maggio 1969
+### Dato a Roma, addi' 1 marzo 1955
 
-SARAGAT FERRARI AGGRADI
+EINAUDI ERMINI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: DE PIETRO
 
-Registrato alla Corte dei conti, addi' 5 luglio 1969
+Registrato alla Corte dei conti, addi' 2 aprile 1955
 
-Atti del Governo, registro n. 227, foglio n. 112. - CARUSO
+Atti del Governo, registro n. 90, foglio n. 21. - CARLOMAGNO

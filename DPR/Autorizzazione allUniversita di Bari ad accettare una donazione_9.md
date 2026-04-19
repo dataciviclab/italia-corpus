@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1954 n. 206
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1954 n. 809
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1954 n. 206
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1954 n. 809
+=============================================================
 
 Autorizzazione all'Universita' di Bari ad accettare una donazione.
 ------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-206. Decreto del Presidente della Repubblica 26 gennaio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Bari viene autorizzata ad accettare la donazione della biblioteca del prof. Enrico Pantanelli, del valore complessivo di L. 1.500.000, composta di 850 volumi fra annate di riviste ed opere italiane e straniere e di 8000 opuscoli in lingua italiana, francese, tedesca e inglese, disposta in suo favore dalla signora Enrichetta Giovanardi vedova Pantanelli, con atto pubblico amministrativo in data 8 gennaio 1953.  
+809. Decreto del Presidente della Repubblica 10 aprile 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Bari, viene autorizzata ad accettare la donazione di L. 102.000 contanti, proveniente dalla somma di 100.000 raccolte mediante sottoscrizioni e dalla somma di L. 2000 versate dal prof.  
+Giuseppe Sangiorgi, disposta in suo favore dal prof. Bernardo Terio, con atto pubblico amministrativo del 28 giugno 1952, per l'istituzione, con la rendita del capitale donato, di un premio di studio biennale intitolato "Premio prof. Augusto Stefanelli" e da conferirsi, per concorso, secondo le modalita' che saranno fissate in apposito regolamento.  
   
 Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 15 maggio 1954  
-Atti del Governo, registro n. 83, foglio n. 52. - CARLOMAGNO
+Registrato alla Corte dei conti, addi' 21 agosto 1954  
+Atti del Governo, registro n. 85, foglio n. 71. - TEMPESTA

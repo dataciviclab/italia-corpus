@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1955 n. 423
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 giugno 1955 n. 753
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1955 n. 423
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 giugno 1955 n. 753
 =============================================================
 
 Autorizzazione all'Universita' degli studi di Catania ad accettare una donazione.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-423. Decreto del Presidente della Repubblica 2 aprile 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Catania viene autorizzata ad accettare la donazione di L. 116.000 (centosedicimila), disposta in suo favore dalla sig.ra Luisa Lombardi vedova Libertini ad incremento del capitale del "Premio Guido Libertini".  
+753. Decreto del Presidente della Repubblica 13 giugno 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Catania viene autorizzata ad accettare la donazione della somma di L. 500.000 (cinquecentomila) nominali, disposta dal dott. Giuseppe Barbagallo Sangiorgi, e con la rendita del capitale donato viene istituito un premio di studio di L. 25.000 (venticinquemila), intitolato "Premio Maria Sangiorgi Barbagallo".  
   
 Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 6 maggio 1955  
-Atti del Governo, registro n. 90, foglio n. 135. CARLOMAGNO
+Registrato alla Corte dei conti, addi' 3 agosto 1955  
+Atti del Governo, registro n. 9-2, foglio n. 26. - E. GRECO

@@ -1,22 +1,91 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1971 n. 629
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1969 n. 246
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1971 n. 629
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1969 n. 246
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, numero 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170) e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Dopo l'art. 194, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione del corso di perfezionamento in fisica - ad indirizzo didattico - presso la facolta' di scienze matematiche, fisiche e naturali.
+
+Corso di perfezionamento in fisica (ad indirizzo didattico)
+
+Art. 195. - Presso la facolta' di scienze matematiche, fisiche e naturali, e' istituito un corso di perfezionamento in fisica ad indirizzo didattico, il quale conduce al conseguimento di un attestato di perfezionamento in fisica ad indirizzo didattico.
+
+Art. 196. - Al corso annuale di perfezionamento in fisica ad indirizzo didattico e' titolo di ammissione qualunque laurea che, secondo le leggi vigenti, consenta l'insegnamento della fisica in qualche tipo di scuola secondaria. Della accettazione delle domande alla iscrizione al corso giudica il consiglio di facolta' su proposta del direttore del corso.
+
+Art. 197. - Il corso si svolge presso l'istituto di fisica dell'Universita' di Modena ed ha la durata di un anno.
+
+Il direttore del corso e' nominato di anno in anno dalla facolta' e puo' essere confermato.
+
+Art. 198. - La tassa di iscrizione e le sopratasse vengono fissate uguali a quelle che si richiedono a uno studente iscritto per la laurea in fisica fuori corso d'un anno.
+
+Art. 199. - Il corso comprende i seguenti insegnamenti:
+
+Critica dei fondamenti della fisica generale;
+
+Complementi di fisica generale;
+
+Didattica della fisica;
+
+Storia della fisica;
+
+Aggiornamento sugli sviluppi della fisica.
+
+Esso consiste di lezioni teoriche ed esercitazioni; puo' mutuare insegnamenti della facolta' di scienze matematiche, fisiche e naturali ed eventualmente anche di altre facolta' su parere del consiglio di facolta'.
+
+Art. 200. - Il profitto degli allievi e' accertato dagli insegnanti durante il corso e mediante una prova finale d'esame al termine di esso.
+
+Art. 201. - L'attestato di cui all'art. 195 verra' rilasciato a cura dell'Universita' di Modena.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 marzo 1969
+
+SARAGAT
+
+FERRARI AGGRADI
+
+Visto, il Guardasigilli: GAVA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 21 maggio 1969 Atti del Governo, registro n. 226, foglio n. 193. - GRECO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, numero 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, numero 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -25,42 +94,36 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 47: il penultimo comma relativo agli esami del corso di laurea in matematica e' modificato nel senso che le parole "per l'indirizzo applicativo di una prova di calcolo matematico" sono abrogate e sostituite dalle seguenti: "per l'indirizzo applicativo di una prova orale e di una prova di calcolo matematico".  
-Art. 50: all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:  
   
-Fisiologia vegetale;  
-Patologia vegetale;  
-Ecologia vegetale;  
-Fitogeografia;  
-Biologia marina;  
-Idrobiologia e pescicoltura;  
-Istologia ed embriologia.  
+Dopo l'art. 194, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione del corso di perfezionamento in fisica - ad indirizzo didattico - presso la facolta' di scienze matematiche, fisiche e naturali.  
   
-Nello stesso articolo, dopo l'elenco degli insegnamenti complementari, il penultimo comma e' abrogato e sostituito dal seguente:  
-"L'insegnamento biennale di botanica comprende tanto la parte generale quanto quella sistematica.  
-L'insegnamento biennale di zoologia comporta due esami distinti alla fine di ciascun anno di corso".  
-Art. 53: all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:  
+Corso di perfezionamento in fisica (ad indirizzo didattico)  
   
-Fisiologia vegetale;  
-Patologia vegetale;  
-Ecologia vegetale;  
-Fitogeografia.  
-  
-Nello stesso articolo, dopo l'elenco degli insegnamenti complementari, il penultimo comma e' abrogato e sostituito dal seguente:  
-"L'insegnamento biennale di botanica comprende tanto la parte generale quanto quella sistematica.  
-L'insegnamento biennale di zoologia comporta due esami distinti alla fine di ciascun anno di corso".  
-Art. 54, relativo al biennio di studi propedeutico per il corso di laurea in ingegneria e' modificato nel senso che all'elenco degli insegnamenti sostitutivi della geometria II e' incluso, contrassegnato con la lettera E, quello di "Metodi di osservazione e misura, per il corso di laurea in ingegneria elettronica".  
+Art. 195. - Presso la facolta' di scienze matematiche, fisiche e naturali, e' istituito un corso di perfezionamento in fisica ad indirizzo didattico, il quale conduce al conseguimento di un attestato di perfezionamento in fisica ad indirizzo didattico.  
+Art. 196. - Al corso annuale di perfezionamento in fisica ad indirizzo didattico e' titolo di ammissione qualunque laurea che, secondo le leggi vigenti, consenta l'insegnamento della fisica in qualche tipo di scuola secondaria. Della accettazione delle domande alla iscrizione al corso giudica il consiglio di facolta' su proposta del direttore del corso.  
+Art. 197. - Il corso si svolge presso l'istituto di fisica dell'Universita' di Modena ed ha la durata di un anno.  
+Il direttore del corso e' nominato di anno in anno dalla facolta' e puo' essere confermato.  
+Art. 198. - La tassa di iscrizione e le sopratasse vengono fissate uguali a quelle che si richiedono a uno studente iscritto per la laurea in fisica fuori corso d'un anno.  
+Art. 199. - Il corso comprende i seguenti insegnamenti:  
+Critica dei fondamenti della fisica generale;  
+Complementi di fisica generale;  
+Didattica della fisica;  
+Storia della fisica;  
+Aggiornamento sugli sviluppi della fisica.  
+Esso consiste di lezioni teoriche ed esercitazioni; puo' mutuare insegnamenti della facolta' di scienze matematiche, fisiche e naturali ed eventualmente anche di altre facolta' su parere del consiglio di facolta'.  
+Art. 200. - Il profitto degli allievi e' accertato dagli insegnanti durante il corso e mediante una prova finale d'esame al termine di esso.  
+Art. 201. - L'attestato di cui all'art. 195 verra' rilasciato a cura dell'Universita' di Modena.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 maggio 1971
+### Dato a Roma, addi' 31 marzo 1969
 
-SARAGAT MISASI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 18 agosto 1971
+Registrato alla Corte dei conti, addi' 21 maggio 1969
 
-Atti del Governo, registro n. 243, foglio n. 136. - PASQUALUCCI
+Atti del Governo, registro n. 226, foglio n. 193. - GRECO

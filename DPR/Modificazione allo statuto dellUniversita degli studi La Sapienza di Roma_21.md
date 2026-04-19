@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1985 n. 657
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 478
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1985 n. 657
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 478
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' "La Sapienza" di Roma, approvato con [regio decreto 14 ottobre 1926, n. 2319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2319), e successive modificazioni;
+Veduto lo statuto dell'Universita' "La Sapienza" di Roma, approvato con [regio decreto del 14 ottobre 1926, n. 2319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2319), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -39,20 +39,19 @@ Articolo unico
 --------------
 
   
-Art. 59 - nell'elenco degli insegnamenti complementari del corso di laurea in lettere e' inserito l'insegnamento di "grammatica latina".  
+Art. 32 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' inserito il seguente nuovo insegnamento:  
+storia moderna e contemporanea della Chiesa e delle altre confessioni cristiane.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 giugno 1985
+### Dato a Roma, addi' 16 giugno 1983
 
-PERTINI
+PERTINI FALCUCCI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DARIDA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 17 agosto 1983
 
-Registrato alla Corte dei conti, addi' 9 novembre 1985
-
-Registro n. 74 Istruzione, foglio n. 141
+Registro n. 59 Istruzione, foglio n. 144

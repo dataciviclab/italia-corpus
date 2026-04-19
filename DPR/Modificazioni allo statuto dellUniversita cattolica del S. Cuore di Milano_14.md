@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 774
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1971 n. 674
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 774
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1971 n. 674
 =============================================================
 
 Modificazioni allo statuto dell'Universita' cattolica del S. Cuore di Milano.
@@ -10,13 +10,13 @@ Modificazioni allo statuto dell'Universita' cattolica del S. Cuore di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030) e successive modificazioni Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto lo statuto dell'Universita' cattolica del S. Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652); e successive modificazioni;
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
@@ -28,56 +28,80 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' cattolica del "S. Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' cattolica del S. Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che dopo l'art. 108 e con il conseguente spostamento della successiva numerazione e inserito il seguente articolo relativo alla istituzione della scuola di specializzazione in patologia generale.
 
-Art. 11. - All'elenco degli insegnamenti complementari di scienze politiche sono aggiunti i seguenti:
+Scuola di specializzazione in patologia generale
 
-Economia politica (progredito);
+Art. 109. - Alla scuola di specializzazione in patologia generale vengono ammessi i laureati in medicina e chirurgia, in scienze biologiche e di altre facolta', nel cui ordinamento degli studi e' inserito l'insegnamento di patologia generale.
 
-Storia e sistemi delle relazioni fra Stato e Chiesa nell'eta' moderna;
+Il corso ha la durata di tre anni. Le iscrizioni ai singoli anni non potranno superare il numero di dieci.
 
-Diritto parlamentare;
+Nel caso di eccedenza di domande, la scelta tra i richiedenti sara' fatta in base a concorso interno, per esame.
 
-Diritto diplomatico e consolare;
+A giudizio del direttore, entro il numero stabilito per i singoli anni di corso, possono essere ammessi al secondo corso direttamente i richiedenti sufficientemente forniti di titoli attinenti alla patologia generale (assistenti volontari di patologia generale o affini; specializzati in altre discipline affini alla patologia generale; ecc.).
 
-Scienza della politica;
+I candidati non riconosciuti idonei all'esame di diploma potranno ripresentarsi dopo un altro anno di frequenza alla scuola. Ma se al secondo esame non sia loro riconosciuta la idoneita', saranno senz'altro esclusi da ulteriori prove.
 
-Metodologia delle scienze sociali;
+Le materie di insegnamento sono le seguenti:
 
-Economia internazionale;
+1° Anno:
 
-Ordinamenti e istituzioni dei paesi africani;
+1) Biologia generale (cause patogene: fisiche, chimiche e biologiche);
 
-Antropologia culturale;
+2) Patologia istochimica;
 
-Storia della Germania moderna e contemporanea;
+3) Patologia delle infezioni;
 
-Storia degli Stati Uniti d'America.
+4) Laboratorio di patologia generale (triennale).
+
+2° Anno:
+
+1) Patologia delle infezioni;
+
+2) Immunologia;
+
+3) Fisiopatologia sistemica (biennale) (fisiopatologia della termoregolazione, del cuore e dei vasi, della respirazione);
+
+4) Patologia del metabolismo (dei protidi, dei lipidi, dell'acqua; e dei minerali e dei bioregolatori);
+
+5) Laboratorio di patologia generale.
+
+3° Anno:
+
+1) Fisiopatologia sistemica (della digestione, del rene, del sangue e del sistema neuro-endocrino);
+
+2) Patologia oncologica;
+
+3) Laboratorio di patologia generale.
+
+Alla fine di ogni anno saranno sostenuti gli esami di ciascuna delle materie suindicate.
+
+Per conseguire il diploma di specializzazione in patologia generale, al termine del corso triennale, oltre ad avere superato tutti gli esami delle singole materie, e' di obbligo presentare una dissertazione scritta, preferibilmente di carattere sperimentale elaborata nello istituto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 5 giugno 1968
+Dato a Roma, addi' 19 maggio 1971
 
 SARAGAT
 
-GUI
+MISASI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: COLOMBO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 10 luglio 1968 Atti del Governo, registro n. 221, foglio n. 11. - GRECO
+alla Corte dei conti, addi' 25 agosto 1971 Atti del Governo, registro n. 243, foglio n. 171. - PASQUALUCCI
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030) e successive modificazioni Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' cattolica del S. Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652); e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -85,31 +109,44 @@ Sulla proposta del Ministro per la pubblica istruzione;
   
 Decreta:  
   
-Lo statuto dell'Universita' cattolica del "S. Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 11. - All'elenco degli insegnamenti complementari di scienze politiche sono aggiunti i seguenti:  
+Lo statuto dell'Universita' cattolica del S. Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che dopo l'art. 108 e con il conseguente spostamento della successiva numerazione e inserito il seguente articolo relativo alla istituzione della scuola di specializzazione in patologia generale.  
   
-Economia politica (progredito);  
-Storia e sistemi delle relazioni fra Stato e Chiesa nell'eta' moderna;  
-Diritto parlamentare;  
-Diritto diplomatico e consolare;  
-Scienza della politica;  
-Metodologia delle scienze sociali;  
-Economia internazionale;  
-Ordinamenti e istituzioni dei paesi africani;  
-Antropologia culturale;  
-Storia della Germania moderna e contemporanea;  
-Storia degli Stati Uniti d'America.  
+Scuola di specializzazione in patologia generale  
+  
+Art. 109. - Alla scuola di specializzazione in patologia generale vengono ammessi i laureati in medicina e chirurgia, in scienze biologiche e di altre facolta', nel cui ordinamento degli studi e' inserito l'insegnamento di patologia generale.  
+Il corso ha la durata di tre anni. Le iscrizioni ai singoli anni non potranno superare il numero di dieci.  
+Nel caso di eccedenza di domande, la scelta tra i richiedenti sara' fatta in base a concorso interno, per esame.  
+A giudizio del direttore, entro il numero stabilito per i singoli anni di corso, possono essere ammessi al secondo corso direttamente i richiedenti sufficientemente forniti di titoli attinenti alla patologia generale (assistenti volontari di patologia generale o affini; specializzati in altre discipline affini alla patologia generale; ecc.).  
+I candidati non riconosciuti idonei all'esame di diploma potranno ripresentarsi dopo un altro anno di frequenza alla scuola. Ma se al secondo esame non sia loro riconosciuta la idoneita', saranno senz'altro esclusi da ulteriori prove.  
+Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) Biologia generale (cause patogene: fisiche, chimiche e biologiche);  
+2) Patologia istochimica;  
+3) Patologia delle infezioni;  
+4) Laboratorio di patologia generale (triennale).  
+2° Anno:  
+1) Patologia delle infezioni;  
+2) Immunologia;  
+3) Fisiopatologia sistemica (biennale) (fisiopatologia della termoregolazione, del cuore e dei vasi, della respirazione);  
+4) Patologia del metabolismo (dei protidi, dei lipidi, dell'acqua; e dei minerali e dei bioregolatori);  
+5) Laboratorio di patologia generale.  
+3° Anno:  
+1) Fisiopatologia sistemica (della digestione, del rene, del sangue e del sistema neuro-endocrino);  
+2) Patologia oncologica;  
+3) Laboratorio di patologia generale.  
+Alla fine di ogni anno saranno sostenuti gli esami di ciascuna delle materie suindicate.  
+Per conseguire il diploma di specializzazione in patologia generale, al termine del corso triennale, oltre ad avere superato tutti gli esami delle singole materie, e' di obbligo presentare una dissertazione scritta, preferibilmente di carattere sperimentale elaborata nello istituto.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 giugno 1968
+### Dato a Roma, addi' 19 maggio 1971
 
-SARAGAT GUI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 10 luglio 1968
+Registrato alla Corte dei conti, addi' 25 agosto 1971
 
-Atti del Governo, registro n. 221, foglio n. 11. - GRECO
+Atti del Governo, registro n. 243, foglio n. 171. - PASQUALUCCI

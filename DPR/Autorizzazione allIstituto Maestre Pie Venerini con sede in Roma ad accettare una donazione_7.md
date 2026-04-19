@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1951 n. 1816
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1952 n. 2363
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1951 n. 1816
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1952 n. 2363
 ==============================================================
 
 Autorizzazione all'Istituto "Maestre Pie Venerini", con sede in Roma, ad accettare una donazione.
@@ -10,10 +10,10 @@ Autorizzazione all'Istituto "Maestre Pie Venerini", con sede in Roma, ad accetta
 Art. 1
 ------
 
-null
+N.
 
-  
+2362. Decreto del Presidente della Repubblica 18 giugno 1952, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto "Maestre Pie Venerini", con sede in Roma, viene autorizzato ad accettare la donazione di un appartamento sito in Velletri, del valore periziato di L. 800.000, dalle consorelle Tornese Concetta e Muratori Giorgina.  
   
 Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 5 maggio 1952  
-Atti del Governo, registro n. 53, foglio n. 19. - FRASCA  
+Registrato alla Corte dei conti, addi' 24 novembre 1952  
+Atti del Governo, registro n. 61, foglio n. 120. - PALLA

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 427
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 590
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 427
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 590
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Urbino.
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Urbino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Urbino, approvato con [regio decreto 8 febbraio 1925, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-08;230), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Urbino, approvato con [regio decreto 8 febbraio 1929, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-02-08;2475), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -39,21 +39,20 @@ Articolo unico
 --------------
 
   
-Nell'art. 62, relative al corso di laurea in materie letterarie, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-epigrafia e antichita' romane.  
+Nell'art. 40, relativo al corso di laurea in filosofia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+storia della filosofia morale;  
+storia della filosofia politica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 aprile 1986
+### Dato a Roma, addi' 4 maggio 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 17 luglio 1986
+Registrato alla Corte dei conti, addi' 15 ottobre 1983
 
-Registro n. 57 Istruzione, foglio n. 78
+Registro n. 66 Istruzione, foglio n. 118

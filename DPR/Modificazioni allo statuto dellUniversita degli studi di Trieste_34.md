@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1295
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1972 n. 353
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1295
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1972 n. 353
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,11 +18,11 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio superiore della pubblica Istruzione;
 
 Sulla proposta del Ministro per la pubblica istruzione;
 
@@ -30,354 +30,407 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 124 sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "ematologia clinica e di laboratorio", in "medicina legale e delle assicurazioni", in "otorinolaringoiatria e patologia cervico-facciale".
+dopo l'art. 124 sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Malattie dell'apparato digerente", in "Neurologia", in "Ostetricia e ginecologia".
 
-Scuola di specializzazione in ematologia clinica e di laboratorio
+Scuola di specializzazione in malattie dell'apparato digerente
 
-Art. 125. - La scuola di specializzazione in ematologia clinica e di laboratorio ha sede presso l'istituto di patologia speciale medica.
-
-Alla scuola possono essere iscritti i laureati in medicina e chirurgia.
-
-La durata del corso di specializzazione e' di tre anni.
-
-Il numero complessivo degli iscritti ai tre anni di corso e' di quindici.
-
-Le tasse e soprattasse che gli iscritti sono tenuti a versare, sono fissate come segue:
-
-tassa di immatricolazione. . . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione. . . . . . . . . . . . . . . . . . L. 100.000 soprattasse esami. . . . . . . . . . . . . . . . . . . . L. 7.000
-
-Art. 126. - Gli insegnamenti impartiti sono i seguenti:
-
-1° Anno:
-
-1) Morfologia e morfogenesi normale e patologica del sangue;
-
-2) Genetica ematologica;
-
-3) Fisiopatologia della coagulazione e dell'emostasi;
-
-4) Fisiopatologia ematologica;
-
-5) Biochimica ematologica;
-
-6) Fisiopatologia del plasma;
-
-7) Tecniche di laboratorio inerenti all'ematologia.
-
-2° Anno:
-
-1) Morfologia e morfogenesi normale e patologica del sangue;
-
-2) Fisiopatologia ematologica;
-
-3) Immunoematologia;
-
-4) Tecniche di laboratorio inerenti all'ematologia;
-
-5) Patologia speciale ematologica;
-
-6) Clinica delle emopatie;
-
-7) Anatomia ed istologia patologica della emopatia e fondamenti di oncologia.
-
-3° Anno:
-
-1) Tecniche di laboratorio inerenti all'ematologia;
-
-2) Nozioni di radiobiologia e di medicina nucleare applicate all'ematologia;
-
-3) Radiodiagnostica e radioterapia ematologica;
-
-4) Patologia speciale ematologica;
-
-5) Clinica delle emopatie;
-
-6) Terapia sistematica ematologica;
-
-7) Terapia trasfusionale.
-
-E' lasciata facolta' alla direzione della scuola di inserire uno o piu' insegnamenti facoltativi.
-
-Scuola di specializzazione in medicina legale e delle assicurazioni
-
-Art. 127. - La scuola ha sede presso l'istituto di medicina legale della Universita' (ospedale maggiore).
+Art. 125. - Alla facolta' di medicina e chirurgia dell'Universita' di Trieste e' annessa una scuola di specializzazione in malattie dell'apparato digerente che conferisce il diploma di specialista in malattie dell'apparato digerente.
 
 Alla scuola sono ammessi i laureati in medicina e chirurgia.
 
-Durata: 3 anni.
+Il numero dei posti e' fissato complessivamente in ventidue.
 
-Numero massimo degli iscritti 5 per anno (totale 15 iscritti).
+La scuola ha sede presso la clinica medica.
 
-Le tasse e soprattasse che gli iscritti sono tenuti a versare, sono fissate come segue:
+La scuola ha la durata di quattro anni.
 
-tassa di immatricolazione. . . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione. . . . . . . . . . . . . . . . . . L. 100.000 soprattasse esami. . . . . . . . . . . . . . . . . . . . L. 7.000
-
-Art. 128. - Insegnamenti impartiti nella scuola:
+Gli insegnamenti impartiti sono:
 
 1° Anno:
 
-1) Medicina legale generale;
+Anatomia patologica;
 
-2) Elementi di diritto pubblico e privato;
+Fisiopatologia;
 
-3) Tecnica e diagnostica anatomo-patologica generale e medico-legale;
+Chimica clinica;
 
-4) Traumatologia medico-legale;
+Semeiotica fisica e strumentale (biennale);
 
-5) Semeiotica medico-legale.
+Clinica medica (triennale).
 
 2° Anno:
 
-1) Medicina legale penalistica;
+Semeiotica fisica e strumentale (biennale);
 
-2) Deontologia medica;
+Semeiotica radiologica;
 
-3) Neuropsichiatria medico-legale;
+Patologia speciale delle malattie del tubo digerente;
 
-4) Elementi di medicina criminologica e di medicina penitenziaria;
-
-5) Indagini di sopralluogo;
-
-6) Identificazione personale.
+Clinica medica (triennale).
 
 3° Anno:
 
-1) Medicina legale civilistica e canonistica;
+Patologia speciale delle malattie del fegato e del pancreas;
 
-2) Tossicologia medico-legale;
+Clinica medica (triennale).
 
-3) Tecniche di laboratorio medico-legale ed ematologia forense;
+A queste materie fondamentali possono essere aggiunte materie complementari in numero non superiore a quattro per la totalita' del corso, secondo i particolari sviluppi di ricerca e di dottrina caratteristici della scuola.
 
-4) Ostetricia e ginecologia forensi;
+4° Anno:
 
-5) Elementi di legislazione del lavoro;
+Internato: tirocinio pratico ed applicazione delle tecniche della specialita'. Gli insegnamenti saranno integrati da esercitazioni pratiche.
 
-6) Elementi di medicina del lavoro;
+L'esame di profitto si sosterra' alla fine dei singoli corsi: gli insegnamenti biennali e triennali importano un unico esame alla fine del corso.
 
-7) Medicina delle assicurazioni;
+Gli allievi del 1°, del 2° e del 3° anno, per essere ammessi rispettivamente al 2°, 3° e 4° anno, devono avere ottenute tutte le firme di frequenza dei corsi e devono aver superato tutti i relativi esami.
 
-8) Medicina legale militare e pensionistica civile.
+Scuola di specializzazione in neurologia
 
-Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale
+Art. 126. - La scuola di specializzazione in neurologia ha la durata di quattro anni.
 
-Art. 129. - Alla scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale, che ha sede presso l'omonimo istituto, vengono ammessi i laureati in medicina e chirurgia. Il numero dei perfezionandi e' di (5) cinque per ogni anno di corso; se le domande superano i posti disponibili, l'ammissione sara' fatta per concorso interno con esame scritto su un argomento scelto dal direttore della scuola.
+Le materie di insegnamento sono le seguenti:
 
-Per accedere ai corsi successivi e' obbligatorio aver superato gli esami del corso precedente, ivi comprese le materie biennali.
+1° Anno (internato in psichiatria):
 
-Gli esami possono essere sostenuti solo in due sessioni annuali, una estiva ed una autunnale, e comunque non oltre il 30 novembre dell'anno in corso.
+Anatomia ed istologia del sistema nervoso;
 
-Il diploma di specialista viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico o sperimentale.
+Fisiologia del sistema nervoso;
 
-La durata del corso di specializzazione e' di anni 3.
+Biochimica del sistema nervoso;
 
-Internato per 3 anni in clinica otorinolaringoiatrica con servizio effettivo di assistente volontario.
+Genetica (elementi);
 
-Le tasse e soprattasse che gli iscritti sono tenuti a versare, sono fissate come segue:
+Psicologia generale;
 
-tassa di immatricolazione. . . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione. . . . . . . . . . . . . . . . . . L. 100.000 soprattasse esami. . . . . . . . . . . . . . . . . . . . L. 7.000
+Psicopatologia;
 
-Art. 130. - Gli insegnamenti impartiti sono i seguenti:
+Semeiotica psichiatrica.
+
+2° Anno:
+
+Anatomia ed istologia patologica del sistema nervoso;
+
+Semeiotica neurologica;
+
+Patologia speciale e diagnostica neurologica (I);
+
+Neuro-radiologia;
+
+Endocrinologia e neurologia vegetativa.
+
+3° Anno:
+
+Patologia speciale e diagnostica neurologica (II);
+
+Clinica neurologica e terapia (I);
+
+Elettroencefalografia;
+
+Elettromiografia, elettrodiagnostica ed elettroterapia;
+
+Neuro-oftalmologia;
+
+Neuro-otologia;
+
+Esami di laboratorio.
+
+4° Anno:
+
+Clinica neurologica e terapia (II);
+
+Neurochirurgia;
+
+Teoria e clinica della riabilitazione;
+
+Neuro-traumatologia anche sotto l'aspetto della medicina legale;
+
+Neurologia in rapporto alla patologia internistica.
+
+Art. 127. - Il numero massimo totale degli iscritti e' di ventiquattro (sei per anno). L'ammissione alla scuola avviene per titoli ed esami, internato obbligatorio per l'intero anno scolastico nel 2°, 3° e 4° anno in clinica neurologica sede della scuola. Tale internato potra' essere ridotto a non meno di sei mesi per anno per i medici che prestino regolare servizio in reparto neurologico.
+
+Internato obbligatorio per l'intero anno scolastico in psichiatria nel 1° anno. Tale internato potra' essere ridotto a non meno di mesi cinque per i medici che prestino servizio in reparto neurologico e a non meno di mesi quattro per coloro che prestino servizio in ospedale psichiatrico.
+
+Esame obbligatorio per il passaggio all'anno successivo.
+
+Un abbuono di anni due puo' essere concesso agli specialisti in psichiatria, neuropsichiatria infantile e neurochirurgia. Un anno di abbuono per gli specialisti in altre materie affini (medicina interna, otorinolaringoiatria, oculistica, radiologia). Gli abbuoni possono essere concessi solo superando un esame di ammissione. Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.
+
+L'esame di diploma consiste nella presentazione di una dissertazione scritta a carattere clinico o sperimentale, relativa discussione e prova pratica sul malato.
+
+Scuola di specializzazione in ostetricia e ginecologia
+
+Art. 128. - Alla facolta' di medicina e chirurgia dell'Universita' di Trieste e' annessa una scuola di specializzazione in ostetricia e ginecologia che conferisce il diploma di specialista in ostetricia e ginecologia.
+
+La scuola ha sede presso la clinica ostetrico-ginecologica dell'universita'.
+
+La scuola di specializzazione in ostetricia e ginecologia ha la durata di quattro anni.
+
+L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami.
+
+Sono da considerarsi titoli preferenziali, a parita' di risultato dell'esame di ammissione:
+
+a) il voto di laurea in medicina e chirurgia;
+
+b) aver frequentato come studente interno una clinica ostetrica e ginecologica dell'universita';
+
+c) aver svolto la tesi di laurea nella clinica ostetrica e ginecologica;
+
+d) documentazione di eventuali servizi prestati in grossi reparti ospedalieri della specialita';
+
+e) eventuali pubblicazioni.
+
+L'esame di ammissione deve espletarsi entro il mese di dicembre.
+
+Il numero dei candidati ammessi al 1° anno e' di venti.
+
+Per nessun motivo il corso di quattro anni puo' essere abbreviato.
+
+Nessun titolo puo' esonerare dalla frequenza gli iscritti nei quattro anni di corso.
+
+Gli iscritti, oltre all'obbligo di frequenza delle lezioni, esercitazioni, seminari, ecc. devono prestare servizio analogo a quello degli assistenti per non meno di nove mesi all'anno.
+
+Gli iscritti alla scuola debbono sostenere esami annuali di profitto e l'esame finale di diploma. La sessione di esami di profitto e' unica, ed e' espletata nel mese di ottobre. Non puo' essere iscritto all'anno successivo di corso chi non abbia superato le materie fondamentali della specialita'.
+
+Art. 129. - Il programma di studi e' il seguente:
 
 1° Anno:
 
-1) Anatomia;
+Elementi di genetica e di eugenetica;
 
-2) Fisiologia;
+Anatomia normale ed embriologia dell'apparato genitale femminile;
 
-3) Audiologia (1° anno);
+Fisiologia dell'apparato genitale femminile;
 
-4) Semeiotica otorinolaringoiatrica;
+Endocrinologia fisiologica;
 
-5) Tecnica di laboratorio;
+Fisiologia ostetrica;
 
-6) Patologia otorinolaringoiatrica e cervico-facciale (1°anno);
+Diagnostica ostetrica;
 
-7) Anatomia e istologia patologica otorinolaringoiatrica.
+Clinica ostetrica e ginecologica.
 
 2° Anno:
 
-1) Tecniche operatorie in otorinolaringoiatria;
+Tecnica operatoria ostetrica;
 
-2) Anestesiologia in otorinolaringoiatria;
+Diagnostica ginecologica;
 
-3) Patologia e clinica otorinolaringoiatrica e cervico-facciale (2° anno);
+Tecnica diagnostica di laboratorio nel campo ostetrico-ginecologico, esclusa l'istologia (sierologia, batteriologia, citologia, ematologia, biochimica);
 
-4) Radiologia in rapporto con l'otorinolaringoiatria;
-
-5) Pediatria in rapporto con l'otorinolaringoiatria;
-
-6) Audiologia (2° anno);
-
-7) Otoneurologia;
-
-8) Foniatria.
+Clinica ostetrica e ginecologica.
 
 3° Anno:
 
-1) Patologia e clinica otorinolaringoiatrica e cervico-facciale; 2) Terapia medica e fisica in otorinolaringoiatria;
+Anatomia patologica ostetrica e ginecologica;
 
-3) Neuropatologia in rapporto con l'otorinolaringoiatria;
+Istologia normale e patologica nel campo della specialita';
 
-4) Oculistica in rapporto con l'otorinolaringoiatria;
+Puericultura prenatale;
 
-5) Chirurgia plastica;
+Emoterapia nel campo ostetrico e ginecologico;
 
-6) Tracheo-broncoscopia;
+Anestesia e analgesia nel campo ostetrico e ginecologico;
 
-7) Medicina legale ed infortunistica in otorinolaringoiatria.
+Tecnica operatoria ginecologica;
+
+Clinica ostetrica e ginecologica;
+
+Terapia medica ostetrica e ginecologica.
+
+4° Anno:
+
+Puericultura postnatale e malattie del neonato;
+
+Ostetricia e ginecologia forense;
+
+Diagnostica roentgen, radioterapia in ostetricia e ginecologia;
+
+Clinica ostetrica e ginecologica (esame alla fine del 4° anno);
+
+Urologia ginecologica;
+
+Chirurgia addominale extra genitale.
+
+Gli esami si fanno per gruppi di materie ed i membri delle commissioni saranno proposti dai direttori delle scuole.
+
+Per il conseguimento del diploma, l'iscritto deve presentare e discutere una dissertazione scritta con contributo personale.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1972
+Dato a Roma, addi' 11 maggio 1972
 
 LEONE
 
-SCALFARO
+MISASI
 
 Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 22 dicembre 1973 Atti di Governo, registro n. 263, foglio n. 12. - CARUSO
+alla Corte dei conti, addi' 25 luglio 1972 Atti del Governo, registro n. 250, foglio n. 54. - CARUSO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica Istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+dopo l'art. 124 sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Malattie dell'apparato digerente", in "Neurologia", in "Ostetricia e ginecologia".  
   
-Dopo l'art. 124 sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "ematologia clinica e di laboratorio", in "medicina legale e delle assicurazioni", in "otorinolaringoiatria e patologia cervico-facciale".   
+Scuola di specializzazione in malattie dell'apparato digerente  
   
-Scuola di specializzazione in ematologia clinica e di laboratorio   
-Art. 125. - La scuola di specializzazione in ematologia clinica e di laboratorio ha sede presso l'istituto di patologia speciale medica.   
-Alla scuola possono essere iscritti i laureati in medicina e chirurgia.   
-La durata del corso di specializzazione e' di tre anni.   
-Il numero complessivo degli iscritti ai tre anni di corso e' di quindici.   
-Le tasse e soprattasse che gli iscritti sono tenuti a versare, sono fissate come segue:   
+Art. 125. - Alla facolta' di medicina e chirurgia dell'Universita' di Trieste e' annessa una scuola di specializzazione in malattie dell'apparato digerente che conferisce il diploma di specialista in malattie dell'apparato digerente.  
+Alla scuola sono ammessi i laureati in medicina e chirurgia.  
+Il numero dei posti e' fissato complessivamente in ventidue.  
+La scuola ha sede presso la clinica medica.  
+La scuola ha la durata di quattro anni.  
+Gli insegnamenti impartiti sono:  
   
-tassa di immatricolazione. . . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione. . . . . . . . . . . . . . . . . . L. 100.000 soprattasse esami. . . . . . . . . . . . . . . . . . . . L. 7.000   
+1° Anno:  
+Anatomia patologica;  
+Fisiopatologia;  
+Chimica clinica;  
+Semeiotica fisica e strumentale (biennale);  
+Clinica medica (triennale).  
   
-Art. 126. - Gli insegnamenti impartiti sono i seguenti:   
-1° Anno:   
-1) Morfologia e morfogenesi normale e patologica del sangue;   
-2) Genetica ematologica;   
-3) Fisiopatologia della coagulazione e dell'emostasi;   
-4) Fisiopatologia ematologica;   
-5) Biochimica ematologica;   
-6) Fisiopatologia del plasma;   
-7) Tecniche di laboratorio inerenti all'ematologia.   
-2° Anno:   
-1) Morfologia e morfogenesi normale e patologica del sangue;   
-2) Fisiopatologia ematologica;   
-3) Immunoematologia;   
-4) Tecniche di laboratorio inerenti all'ematologia;   
-5) Patologia speciale ematologica;   
-6) Clinica delle emopatie;   
-7) Anatomia ed istologia patologica della emopatia e fondamenti di oncologia.   
-3° Anno:   
-1) Tecniche di laboratorio inerenti all'ematologia;   
-2) Nozioni di radiobiologia e di medicina nucleare applicate all'ematologia;   
-3) Radiodiagnostica e radioterapia ematologica;   
-4) Patologia speciale ematologica;   
-5) Clinica delle emopatie;   
-6) Terapia sistematica ematologica;   
-7) Terapia trasfusionale.   
-E' lasciata facolta' alla direzione della scuola di inserire uno o piu' insegnamenti facoltativi.   
+2° Anno:  
+Semeiotica fisica e strumentale (biennale);  
+Semeiotica radiologica;  
+Patologia speciale delle malattie del tubo digerente;  
+Clinica medica (triennale).  
   
-Scuola di specializzazione in medicina legale e delle assicurazioni   
-Art. 127. - La scuola ha sede presso l'istituto di medicina legale della Universita' (ospedale maggiore).   
-Alla scuola sono ammessi i laureati in medicina e chirurgia.   
-Durata: 3 anni.   
-Numero massimo degli iscritti 5 per anno (totale 15 iscritti).   
-Le tasse e soprattasse che gli iscritti sono tenuti a versare, sono fissate come segue:   
+3° Anno:  
+Patologia speciale delle malattie del fegato e del pancreas;  
+Clinica medica (triennale).  
   
-tassa di immatricolazione. . . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione. . . . . . . . . . . . . . . . . . L. 100.000 soprattasse esami. . . . . . . . . . . . . . . . . . . . L. 7.000   
+A queste materie fondamentali possono essere aggiunte materie complementari in numero non superiore a quattro per la totalita' del corso, secondo i particolari sviluppi di ricerca e di dottrina caratteristici della scuola.  
   
-Art. 128. - Insegnamenti impartiti nella scuola:   
-1° Anno:   
-1) Medicina legale generale;   
-2) Elementi di diritto pubblico e privato;   
-3) Tecnica e diagnostica anatomo-patologica generale e medico-legale;   
-4) Traumatologia medico-legale;   
-5) Semeiotica medico-legale.   
-2° Anno:   
-1) Medicina legale penalistica;   
-2) Deontologia medica;   
-3) Neuropsichiatria medico-legale;   
-4) Elementi di medicina criminologica e di medicina penitenziaria;   
-5) Indagini di sopralluogo;   
-6) Identificazione personale.   
-3° Anno:   
-1) Medicina legale civilistica e canonistica;   
-2) Tossicologia medico-legale;   
-3) Tecniche di laboratorio medico-legale ed ematologia forense;  
-4) Ostetricia e ginecologia forensi;   
-5) Elementi di legislazione del lavoro;   
-6) Elementi di medicina del lavoro;   
-7) Medicina delle assicurazioni;   
-8) Medicina legale militare e pensionistica civile.   
+4° Anno:  
+Internato: tirocinio pratico ed applicazione delle tecniche della specialita'. Gli insegnamenti saranno integrati da esercitazioni pratiche.  
   
-Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale   
+L'esame di profitto si sosterra' alla fine dei singoli corsi: gli insegnamenti biennali e triennali importano un unico esame alla fine del corso.  
+Gli allievi del 1°, del 2° e del 3° anno, per essere ammessi rispettivamente al 2°, 3° e 4° anno, devono avere ottenute tutte le firme di frequenza dei corsi e devono aver superato tutti i relativi esami.  
   
-Art. 129. - Alla scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale, che ha sede presso l'omonimo istituto, vengono ammessi i laureati in medicina e chirurgia. Il numero dei perfezionandi e' di (5) cinque per ogni anno di corso; se le domande superano i posti disponibili, l'ammissione sara' fatta per concorso interno con esame scritto su un argomento scelto dal direttore della scuola.   
-Per accedere ai corsi successivi e' obbligatorio aver superato gli esami del corso precedente, ivi comprese le materie biennali.   
-Gli esami possono essere sostenuti solo in due sessioni annuali, una estiva ed una autunnale, e comunque non oltre il 30 novembre dell'anno in corso.   
-Il diploma di specialista viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico o sperimentale.   
-La durata del corso di specializzazione e' di anni 3.   
-Internato per 3 anni in clinica otorinolaringoiatrica con servizio effettivo di assistente volontario.   
-Le tasse e soprattasse che gli iscritti sono tenuti a versare, sono fissate come segue:   
+Scuola di specializzazione in neurologia  
   
-tassa di immatricolazione. . . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione. . . . . . . . . . . . . . . . . . L. 100.000 soprattasse esami. . . . . . . . . . . . . . . . . . . . L. 7.000   
+Art. 126. - La scuola di specializzazione in neurologia ha la durata di quattro anni.  
+Le materie di insegnamento sono le seguenti:  
   
-Art. 130. - Gli insegnamenti impartiti sono i seguenti:   
-1° Anno:   
-1) Anatomia;   
-2) Fisiologia;   
-3) Audiologia (1° anno);   
-4) Semeiotica otorinolaringoiatrica;   
-5) Tecnica di laboratorio;   
-6) Patologia otorinolaringoiatrica e cervico-facciale (1°anno);   
-7) Anatomia e istologia patologica otorinolaringoiatrica.   
-2° Anno:   
-1) Tecniche operatorie in otorinolaringoiatria;   
-2) Anestesiologia in otorinolaringoiatria;   
-3) Patologia e clinica otorinolaringoiatrica e cervico-facciale (2° anno);   
-4) Radiologia in rapporto con l'otorinolaringoiatria;   
-5) Pediatria in rapporto con l'otorinolaringoiatria;   
-6) Audiologia (2° anno);   
-7) Otoneurologia;   
-8) Foniatria.   
-3° Anno:   
-1) Patologia e clinica otorinolaringoiatrica e cervico-facciale; 2) Terapia medica e fisica in otorinolaringoiatria;   
-3) Neuropatologia in rapporto con l'otorinolaringoiatria;   
-4) Oculistica in rapporto con l'otorinolaringoiatria;   
-5) Chirurgia plastica;   
-6) Tracheo-broncoscopia;   
-7) Medicina legale ed infortunistica in otorinolaringoiatria.   
+1° Anno (internato in psichiatria):  
+Anatomia ed istologia del sistema nervoso;  
+Fisiologia del sistema nervoso;  
+Biochimica del sistema nervoso;  
+Genetica (elementi);  
+Psicologia generale;  
+Psicopatologia;  
+Semeiotica psichiatrica.  
+  
+2° Anno:  
+Anatomia ed istologia patologica del sistema nervoso;  
+Semeiotica neurologica;  
+Patologia speciale e diagnostica neurologica (I);  
+Neuro-radiologia;  
+Endocrinologia e neurologia vegetativa.  
+  
+3° Anno:  
+Patologia speciale e diagnostica neurologica (II);  
+Clinica neurologica e terapia (I);  
+Elettroencefalografia;  
+Elettromiografia, elettrodiagnostica ed elettroterapia;  
+Neuro-oftalmologia;  
+Neuro-otologia;  
+Esami di laboratorio.  
+  
+4° Anno:  
+Clinica neurologica e terapia (II);  
+Neurochirurgia;  
+Teoria e clinica della riabilitazione;  
+Neuro-traumatologia anche sotto l'aspetto della medicina legale;  
+Neurologia in rapporto alla patologia internistica.  
+  
+Art. 127. - Il numero massimo totale degli iscritti e' di ventiquattro (sei per anno). L'ammissione alla scuola avviene per titoli ed esami, internato obbligatorio per l'intero anno scolastico nel 2°, 3° e 4° anno in clinica neurologica sede della scuola. Tale internato potra' essere ridotto a non meno di sei mesi per anno per i medici che prestino regolare servizio in reparto neurologico.  
+Internato obbligatorio per l'intero anno scolastico in psichiatria nel 1° anno. Tale internato potra' essere ridotto a non meno di mesi cinque per i medici che prestino servizio in reparto neurologico e a non meno di mesi quattro per coloro che prestino servizio in ospedale psichiatrico.  
+Esame obbligatorio per il passaggio all'anno successivo.  
+Un abbuono di anni due puo' essere concesso agli specialisti in psichiatria, neuropsichiatria infantile e neurochirurgia. Un anno di abbuono per gli specialisti in altre materie affini (medicina interna, otorinolaringoiatria, oculistica, radiologia). Gli abbuoni possono essere concessi solo superando un esame di ammissione. Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.  
+L'esame di diploma consiste nella presentazione di una dissertazione scritta a carattere clinico o sperimentale, relativa discussione e prova pratica sul malato.  
+  
+Scuola di specializzazione in ostetricia e ginecologia  
+  
+Art. 128. - Alla facolta' di medicina e chirurgia dell'Universita' di Trieste e' annessa una scuola di specializzazione in ostetricia e ginecologia che conferisce il diploma di specialista in ostetricia e ginecologia.  
+La scuola ha sede presso la clinica ostetrico-ginecologica dell'universita'.  
+La scuola di specializzazione in ostetricia e ginecologia ha la durata di quattro anni.  
+L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami.  
+Sono da considerarsi titoli preferenziali, a parita' di risultato dell'esame di ammissione:  
+a) il voto di laurea in medicina e chirurgia;  
+b) aver frequentato come studente interno una clinica ostetrica e ginecologica dell'universita';  
+c) aver svolto la tesi di laurea nella clinica ostetrica e ginecologica;  
+d) documentazione di eventuali servizi prestati in grossi reparti ospedalieri della specialita';  
+e) eventuali pubblicazioni.  
+L'esame di ammissione deve espletarsi entro il mese di dicembre.  
+Il numero dei candidati ammessi al 1° anno e' di venti.  
+Per nessun motivo il corso di quattro anni puo' essere abbreviato.  
+Nessun titolo puo' esonerare dalla frequenza gli iscritti nei quattro anni di corso.  
+Gli iscritti, oltre all'obbligo di frequenza delle lezioni, esercitazioni, seminari, ecc. devono prestare servizio analogo a quello degli assistenti per non meno di nove mesi all'anno.  
+Gli iscritti alla scuola debbono sostenere esami annuali di profitto e l'esame finale di diploma. La sessione di esami di profitto e' unica, ed e' espletata nel mese di ottobre. Non puo' essere iscritto all'anno successivo di corso chi non abbia superato le materie fondamentali della specialita'.  
+Art. 129. - Il programma di studi e' il seguente:  
+  
+1° Anno:  
+Elementi di genetica e di eugenetica;  
+Anatomia normale ed embriologia dell'apparato genitale femminile;  
+Fisiologia dell'apparato genitale femminile;  
+Endocrinologia fisiologica;  
+Fisiologia ostetrica;  
+Diagnostica ostetrica;  
+Clinica ostetrica e ginecologica.  
+  
+2° Anno:  
+Tecnica operatoria ostetrica;  
+Diagnostica ginecologica;  
+Tecnica diagnostica di laboratorio nel campo ostetrico-ginecologico, esclusa l'istologia (sierologia, batteriologia, citologia, ematologia, biochimica);  
+Clinica ostetrica e ginecologica.  
+  
+3° Anno:  
+Anatomia patologica ostetrica e ginecologica;  
+Istologia normale e patologica nel campo della specialita';  
+Puericultura prenatale;  
+Emoterapia nel campo ostetrico e ginecologico;  
+Anestesia e analgesia nel campo ostetrico e ginecologico;  
+Tecnica operatoria ginecologica;  
+Clinica ostetrica e ginecologica;  
+Terapia medica ostetrica e ginecologica.  
+  
+4° Anno:  
+Puericultura postnatale e malattie del neonato;  
+Ostetricia e ginecologia forense;  
+Diagnostica roentgen, radioterapia in ostetricia e ginecologia;  
+Clinica ostetrica e ginecologica (esame alla fine del 4° anno);  
+Urologia ginecologica;  
+Chirurgia addominale extra genitale.  
+  
+Gli esami si fanno per gruppi di materie ed i membri delle commissioni saranno proposti dai direttori delle scuole.  
+Per il conseguimento del diploma, l'iscritto deve presentare e discutere una dissertazione scritta con contributo personale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 11 maggio 1972
 
-LEONE SCALFARO
+LEONE MISASI
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 22 dicembre 1973
+Registrato alla Corte dei conti, addi' 25 luglio 1972
 
-Atti di Governo, registro n. 263, foglio n. 12. - CARUSO
+Atti del Governo, registro n. 250, foglio n. 54. - CARUSO

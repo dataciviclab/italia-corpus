@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1984 n. 1201
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 448
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1984 n. 1201
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 448
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -24,7 +24,7 @@ Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http:
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17) per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
@@ -39,33 +39,18 @@ Articolo unico
 --------------
 
   
-Art. 54 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti insegnamenti: bioetica;  
-traumatologia oculare;  
-traumatologia dell'apparato locomotore da sport;  
-patologia oculare;  
-organogenesi umana con elementi di embriologia;  
-oftalmologia sperimentale;  
-nefrologia sperimentale;  
-medicina subacquea ed iperbarica;  
-medicina sociale;  
-fisiopatologia delle malattie reumatiche;  
-endocrinochirurgia;  
-antropologia;  
-criminologia;  
-ginecologia dell'infanzia e dell'adolescenza.  
+Nell'art. 61, relativo agli istituti annessi alla facolta' di medicina e chirurgia, gli istituti di "puericultura" e "clinica pediatrica" mutano la denominazione rispettivamente in istituti policattedra di "pediatria clinica e sociale" e "pediatria clinica e preventiva".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1984
+### Dato a Roma, addi' 4 giugno 1983
 
-PERTINI
+PERTINI FALCUCCI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DARIDA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 17 agosto 1983
 
-Registrato alla Corte dei conti, addi' 20 maggio 1985
-
-Registro n. 33 Istruzione, foglio n. 81
+Registro n. 59 Istruzione, foglio n. 130

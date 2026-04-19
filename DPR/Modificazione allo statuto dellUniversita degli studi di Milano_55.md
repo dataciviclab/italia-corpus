@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 454
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1985 n. 934
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 454
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1985 n. 934
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -26,9 +26,9 @@ Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
-Veduto il parere del Consiglio universitario nazionale;
+Veduto il parere del Consiglio universitario nazionale:
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione:
 
 Decreta:
 --------
@@ -39,19 +39,21 @@ Articolo unico
 --------------
 
   
-Art. 16 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' inserito il seguente insegnamento:  
-elementi di teoria dei campioni.  
+  
+Art. 30 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' inserite l'insegnamento di "diagnostica e chirurgia endoscopica".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 giugno 1983
+### Dato a Roma, addi' 27 settembre 1985
 
-PERTINI FALCUCCI
+COSSIGA
 
-Visto, il Guardasigilli: DARIDA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 17 agosto 1983
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registro n. 59 Istruzione, foglio n. 137
+Registrato alla Corte dei conti, addi' 25 febbraio 1986
+
+Registro n. 12 Istruzione, foglio n. 263

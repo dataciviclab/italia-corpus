@@ -1,21 +1,122 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1973 n. 1150
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 marzo 1963 n. 609
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1973 n. 1150
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 marzo 1963 n. 609
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Modena approvato con [regio decreto 14 ottobre 1926, numero 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170) e successivi;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 9. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:
+
+15) Diritto fallimentare;
+
+16) Scienza dell'amministrazione;
+
+17) Organizzazione internazionale;
+
+18) Dottrina dello Stato.
+
+Art. 53. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche e' aggiunto quello di:
+
+13) Geologia regionale.
+
+Dopo l'art. 168 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Stomatologia (malattia della bocca, e protesi dentaria).
+
+Scuola di specializzazione in Stomatologia (Malattie della bocca e protesi dentaria)
+
+Art. 169. - La Scuola di specializzazione in Stomatologia, con sede presso la Clinica odontoiatrica, conferisce il diploma di specialista in stomatologia (malattie della bocca e protesi dentaria).
+
+Art. 170. - Alla Scuola sono ammessi i laureati in medicina e chirurgia. Il corso ha la durata di due anni e vi sono 20 posti disponibili per ogni anno.
+
+Art. 171. - Gli insegnamenti impartiti dalla Scuola sono:
+
+1° anno:
+
+1) Anatomia, embriologia e fisiologia della bocca e dei denti;
+
+2) Patologia e clinica stomatologica;
+
+3) Odontoiatria conservativa;
+
+4) Chirurgia dentaria;
+
+5) Radiologia dentaria e mascellare;
+
+6) Anatomia e istologia patologica orale;
+
+7) Protesi dentaria (biennale);
+
+8) Odontotecnica.
+
+2° anno:
+
+1) Protesi dentaria (biennale);
+
+2) Ortodonzia;
+
+3) Chirurgia della bocca;
+
+4) Paradentologia;
+
+5) Medicina legale e infortunistica stomatologica.
+
+Inoltre saranno tenute conferenze interessanti le specialita' in apporto alla medicina interna, alla clinica pediatrica otorinolaringoiatrica e radioterapia. Gli allievi sono tenuti a seguire i turni di internato stabiliti dalla Direzione della scuola.
+
+Art. 172. - Tutte le lezioni cattedratiche possono essere impartite in modo esplicativo, dimostrativo, sperimentale, di colloquio e di conferenza a seconda delle opportunita' didattiche.
+
+Art. 173. - L'esame di profitto, teorico-pratico su ogni materia di insegnamento, si sosterra' alla fine dei singoli corsi. L'allievo dei 1° anno per essere ammesso al 2° anno deve avere superato gli esami del 1° anno.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 12 marzo 1963
+
+SEGNI
+
+GUI
+
+Visto, il Guardasigilli: BOSCO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 29 aprile 1963 Atti del Governo, registro n. 168, foglio n. 99. -- VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Modena approvato con [regio decreto 14 ottobre 1926, numero 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -24,161 +125,47 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Dopo l'art. 212, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Chirurgia vascolare", in "Neuropsichiatria infantile", in "Tisiologia e malattie dell'apparato respiratorio".  
+Art. 9. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:  
+15) Diritto fallimentare;  
+16) Scienza dell'amministrazione;  
+17) Organizzazione internazionale;  
+18) Dottrina dello Stato.  
+Art. 53. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche e' aggiunto quello di:  
+13) Geologia regionale.  
+Dopo l'art. 168 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Stomatologia (malattia della bocca, e protesi dentaria).  
+Scuola di specializzazione in Stomatologia (Malattie della bocca e protesi dentaria)  
+Art. 169. - La Scuola di specializzazione in Stomatologia, con sede presso la Clinica odontoiatrica, conferisce il diploma di specialista in stomatologia (malattie della bocca e protesi dentaria).  
+Art. 170. - Alla Scuola sono ammessi i laureati in medicina e chirurgia. Il corso ha la durata di due anni e vi sono 20 posti disponibili per ogni anno.  
+Art. 171. - Gli insegnamenti impartiti dalla Scuola sono:  
+1° anno:  
+1) Anatomia, embriologia e fisiologia della bocca e dei denti;  
+2) Patologia e clinica stomatologica;  
+3) Odontoiatria conservativa;  
+4) Chirurgia dentaria;  
+5) Radiologia dentaria e mascellare;  
+6) Anatomia e istologia patologica orale;  
+7) Protesi dentaria (biennale);  
+8) Odontotecnica.  
+2° anno:  
+1) Protesi dentaria (biennale);  
+2) Ortodonzia;  
+3) Chirurgia della bocca;  
+4) Paradentologia;  
+5) Medicina legale e infortunistica stomatologica.  
+Inoltre saranno tenute conferenze interessanti le specialita' in apporto alla medicina interna, alla clinica pediatrica otorinolaringoiatrica e radioterapia. Gli allievi sono tenuti a seguire i turni di internato stabiliti dalla Direzione della scuola.  
+Art. 172. - Tutte le lezioni cattedratiche possono essere impartite in modo esplicativo, dimostrativo, sperimentale, di colloquio e di conferenza a seconda delle opportunita' didattiche.  
+Art. 173. - L'esame di profitto, teorico-pratico su ogni materia di insegnamento, si sosterra' alla fine dei singoli corsi. L'allievo dei 1° anno per essere ammesso al 2° anno deve avere superato gli esami del 1° anno.  
   
-Scuola di specializzazione in chirurgia vascolare  
-  
-Art. 213. - La scuola di specializzazione in chirurgia vascolare conferisce il diploma di specialista in "Chirurgia vascolare" ed ha sede presso l'istituto di patologia chirurgica dell'Universita'.  
-  
-Art. 214. - La durata del corso di studi per il conseguimento della specialita' in chirurgia vascolare e' fissata in anni tre. Non e' concesso nessun abbreviamento di corso. Possono ottenere la iscrizione i laureati in medicina e chirurgia.  
-  
-Art. 215. - Il numero degli iscritti per la scuola e' di cinque per ogni anno di corso, per un totale complessivo di quindici.  
-L'ammissione al primo corso sara' subordinata ad un concorso per titoli e per esami. I posti disponibili saranno conferiti in base alla graduatoria del concorso.  
-  
-Art. 216. - La direzione della scuola e' affidata ad un professore di ruolo di disciplina chirurgica, nominato dalla facolta'.  
-  
-Art. 217. - Il corso si compone di insegnamenti fondamentali, oltre ad un periodo di internato obbligatorio. La frequenza alle lezioni e' obbligatoria.  
-  
-Art. 218. - Gli insegnamenti impartiti dalla scuola sono:  
-  
-1° Anno:  
-1) Embriologia, anatomia macro e microscopica dell'apparato vascolare;  
-2) Fisiopatologia dell'apparato vascolare e della coagulazione ematica;  
-3) Anatomia patologica dell'apparato vascolare;  
-4) Semeiotica fisica e strumentale delle malattie vascolari;  
-5) Semeiologia radiologica delle malattie vascolari;  
-6) Vasculopatie di interesse medico e specialistico.  
-  
-2° Anno:  
-1) Patologia e clinica delle malattie del sistema arterioso;  
-2) Patologia e clinica delle malattie del sistema venoso;  
-3) Patologia e clinica delle malattie del sistema linfatico;  
-4) Patologia e clinica delle malattie dei piccoli vasi.  
-  
-3° Anno:  
-1) Nozioni di terapia medica delle malattie vascolari;  
-2) Terapia chirurgica delle malattie vascolari;  
-3) Chirurgia vascolare applicata a malattie dei vari organi.  
-  
-Art. 219. - Al termine di ciascun anno di insegnamento gli specializzandi, che abbiano ottenuto le firme di frequenza, dovranno sostenere gli esami di profitto nelle materie oggetto di insegnamento. Per accedere ai corsi successivi e' obbligatorio il superamento di tutti gli esami del corso precedente.  
-Il diploma viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta, a carattere clinico o sperimentale, su argomenti di chirurgia vascolare.  
-  
-Scuola di specializzazione in neuropsichiatria infantile  
-  
-Art. 220. - La scuola di specializzazione in neuropsichiatria infantile ha sede presso la clinica delle malattie nervose e mentali dell'Universita' e conferisce il diploma di specialista in neuropsichiatria infantile.  
-  
-Art. 221. - Alla scuola, che ha la durata di anni quattro, vengono iscritti i laureati in medicina e chirurgia in numero di cinque per anno. Per un totale di venti posti.  
-  
-Art. 222. - Gli insegnamenti impartiti dalla scuola sono:  
-1° Anno:  
-1) Anatomia ed ambiologia del sistema nervoso;  
-2) Fisiologia del sistema nervoso con particolare riguardo all'eta' evolutiva;  
-3) Genetica;  
-4) Endocrinologia dell'eta' evolutiva ed auxologia;  
-5) Patologia e clinica pediatrica;  
-6) Tecniche di laboratorio.  
-  
-2° Anno:  
-1) Anatomia patologica del sistema nervoso;  
-2) Biochimica patologica del sistema nervoso;  
-3) Psicologia dell'eta' evolutiva;  
-4) Semeiotica e clinica neurologica;  
-5) Semeiotica e clinica psichiatrica.  
-  
-3° Anno:  
-1) Psicopatologia dell'eta' evolutiva;  
-2) Semeiotica e clinica neurologica infantile;  
-3) Psicodiagnostica dell'eta' evolutiva;  
-4) Elettrofisiologia;  
-5) Neuroradiologia;  
-6) Neurochirurgia dell'eta' evolutiva;  
-7) Semeiotica e clinica psichiatrica infantile 1°.  
-  
-4° Anno:  
-1) Clinica psichiatrica infantile 2°;  
-2) Terapia generale delle malattie mentali infantili;  
-3) Psicoterapia dell'eta' evolutiva;  
-4) Foniatria;  
-5) Psicopedagogia;  
-6) Sociologia applicata alla popolazione infantile;  
-7) Legislazione.  
-  
-Art. 223. - Gli iscritti hanno l'obbligo di frequentare i corsi di lezione e le esercitazioni pratiche con internato nelle rispettive cliniche, secondo il piano di studi concordato col direttore della scuola.  
-Gli allievi per essere ammessi all'anno successivo, devono aver ottenuto tutte le firme di frequenza ai corsi dell'anno e devono sostenere i seguenti esami:  
-  
-1° Anno:  
-1) Embriologia e anatomia del sistema nervoso;  
-2) Fisiologia del sistema nervoso;  
-3) Genetica, endocrinologia e auxologia;  
-4) Patologia e clinica pediatrica.  
-  
-2° Anno:  
-5) Anatomia e biochimica patologica del sistema nervoso;  
-6) Psicologia dell'eta' evolutiva;  
-7) Semeiotica e clinica neurologica;  
-8) Semeiotica e clinica psichiatrica.  
-  
-3° Anno:  
-9) Semeiotica e clinica neurologica infantile;  
-10) Psicopatologia dell'eta' evolutiva;  
-11) Psicodiagnostica dell'eta' evolutiva.  
-  
-4° Anno:  
-12) Semeiotica e clinica psichiatrica infantile;  
-13) Psicopedagogia;  
-14) Legislazione.  
-  
-Art. 224. - Gli specialisti in clinica delle malattie nervose e mentali, in neurologia o in psichiatria, vengono iscritti direttamente al 20 anno senza esame, a giudizio del direttore della scuola e sono esentati dal sostenere gli esami di profitto di cui ai numeri 1), 2), 5), 7), 8) e dall'espletare e il periodo di internato in neurologia e psichiatria.  
-Gli specialisti in clinica pediatrica vengono iscritti al 2° anno della scuola, direttamente senza esame, a giudizio del direttore della scuola e sono esentati dal sostenere gli esami di cui ai numeri 3) e 4), e vengono esentati dall'espletare il periodo di internato dell'anno.  
-Le abbreviazioni di cui sopra sono pero' condizionate alla disponibilita' dei posti.  
-  
-Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio  
-  
-Art. 225. - La scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio conferisce il diploma di specialista in tisiologia e malattie dell'apparato respiratorio.  
-  
-Art. 226. - Alla scuola, che ha sede presso l'istituto di tisiologia e malattie dell'apparato respiratorio dell'Universita', sono ammessi i laureati in medicina e chirurgia.  
-  
-Art. 227. - La scuola ha la durata di anni tre. Sono ammessi dodici iscritti al 1° anno, quindici al 2° e 3° anno, per un totale di quarantadue iscritti.  
-  
-Art. 228. - Gli insegnamenti impartiti nella scuola, sono:  
-  
-1° Anno:  
-1) Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio 1°;  
-2) Patologia della tubercolosi polmonare ed extrapolmonare;  
-3) Patologia delle malattie dell'apparato respiratorio;  
-4) Fisiologia e fisiopatologia generale dell'apparato respiratorio;  
-5) Semeiotica fisica e funzionale dell'apparato respiratorio;  
-6) Microbiologia;  
-7) Epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.  
-  
-2° Anno:  
-1) Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio 2°;  
-2) Clinica della tubercolosi 1°;  
-3) Clinica delle malattie dell'apparato respiratorio 1°:  
-4) Fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;  
-5) Broncologia;  
-6) Radiologia dell'apparato respiratorio;  
-7) Profilassi della tubercolosi;  
-8) Igiene e legislazione sociale.  
-  
-3° Anno:  
-1) Clinica della tubercolosi 2°;  
-2) Clinica delle malattie dell'apparato respiratorio 29;  
-3) Chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;  
-4) Terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;  
-5) Terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.  
-  
-Art. 229. - L'allievo, per essere ammesso al corso successivo, deve aver ottenuto tutte le firme di frequenza del corso e deve averne superato gli esami relativi.  
 
-Il presente decreto munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 ottobre 1973
+### Dato a Roma, addi' 12 marzo 1963
 
-LEONE MALFATTI
+SEGNI GUI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 26 ottobre 1974
+Registrato alla Corte dei conti, addi' 29 aprile 1963
 
-Atti di Governo, registro n. 6, foglio n. 42. - SCIARRETTA
+Atti del Governo, registro n. 168, foglio n. 99. -- VILLA

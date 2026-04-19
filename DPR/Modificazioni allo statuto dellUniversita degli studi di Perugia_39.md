@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 settembre 1979 n. 572
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969 n. 413
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 settembre 1979 n. 572
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969 n. 413
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
@@ -10,87 +10,63 @@ Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la proposta di modifica dello statuto formulata dalle autorita' accademiche dell'universita' anzidetta;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Perugia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
 Sulla
 -----
 
-proposta del Ministro della pubblica istruzione; Decreta:
+proposta del Ministro per la pubblica istruzione; Decreta:
 
 Art. 1
 ------
 
   
-Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-L'art. 95, primo comma, e' modificato nel senso che all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in dermatologia e venereologia.  
+Presso l'Universita' degli studi di Perugia e' istituita la facolta' di economia e commercio.  
+L'attuale corso di laurea in economia e commercio, annesso alla facolta' di scienze politiche della stessa universita', passa a far parte della nuova facolta' di economia e commercio.  
 
 Art. 2
 ------
 
   
-Dopo l'art. 123, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in dermatologia e venereologia:  
+Per tale facolta' sono assegnati i seguenti posti di ruolo:  
+a) otto posti di professore, mediante trasferimento dall'organico di cui e' dotata la facolta' di scienze politiche della stessa universita' di Perugia e propriamente i posti assegnati alle cattedre di diritto commerciale; statistica; ragioneria generale ed applicata; merceologia; tecnica delle ricerche di mercato e della distribuzione generale; istituzioni di diritto pubblico; storia delle dottrine economiche; politica economica e finanziaria;  
+b) diciassette posti di assistente mediante trasferimento dall'organico di cui e' dotata la facolta' di scienze politiche della stessa Universita' di Perugia e propriamente i posti assegnati alle cattedre di matematica finanziaria (1); economia politica (2); merceologia (3); istituzioni di diritto privato (1); economia e politica agraria (1); istituzioni di diritto pubblico (1); tecniche delle ricerche di mercato e della distribuzione generale (1); ragioneria generale ed applicata (2); politica economica e finanziaria (1); diritto commerciale (1), tecnica bancaria professionale (1); statistica (1); tecnica industriale e commerciale (1).  
+
+Art. 3
+------
+
   
-Scuola di specializzazione in dermatologia e venereologia  
-Art. 124. - La scuola di specializzazione in dermatologia e venereologia ha sede presso l'istituto di clinica dermatologica dell'Universita' di Perugia e conferisce il diploma di specialista in dermatologia e venereologia.  
-Art. 125. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Art. 126. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Art. 127. - La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazioni.  
-Art. 128. - Il numero massimo degli allievi e' di sei per anno di corso e complessivamente di diciotto iscritti per l'intero corso di studi.  
-Art. 129. - L'ammissione al corso viene fatta per titoli ed esami.  
-Art. 130. - Le materie d'insegnamento sono le seguenti:  
-1° Anno:  
-1) anatomia ed istologia normale della cute;  
-2) fisiologia della cute e degli annessi;  
-3) anatomia e fisiologia dell'apparato genitale;  
-4) microbiologia e parassitologia applicate;  
-5) tecniche di laboratorio applicato alla disciplina;  
-6) semeiotica dermatologica e venereologica.  
-2° Anno:  
-1) patologia delle malattie cutanee;  
-2) patologia delle infezioni veneree;  
-3) istopatologia e citologia dermatologica e venereologica;  
-4) immunologia cutanea;  
-5) dermatologia allergologica e professionale;  
-6) angiologia;  
-7) sessuologia.  
-3° Anno:  
-1) clinica delle malattie cutanee;  
-2) clinica delle infezioni veneree;  
-3) dermatologia pediatrica;  
-4) farmacologia e terapia;  
-5) fisioterapia dermatologica;  
-6) cosmetologia;  
-7) chirurgia plastica riparatrice;  
-8) igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.  
-Art. 131. - I corso delle lezioni deve essere impartito mediante almeno cinquanta lezioni annuali, comprensive delle varie materie e la frequenza giornaliera degli iscritti non deve essere inferiore alle quattro ore effettive per tutta la durata dell'anno accademico.  
-Gli specializzandi hanno percio' obblighi di effettuare esercitazioni pratiche nei reparti onde seguire i corsi di lezione e svolgere contemporaneamente esercitazioni pratiche nelle corsie, negli ambulatori e nei laboratori.  
-L'esame di diploma consiste nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato ventiquattro ore prima della prova.  
+Lo statuto dell'Universita' degli studi di Perugia, pertanto, approvato e modificato con i decreti suindicati, e' ulteriormente modificato come appresso:  
+  
+L'art. 15 e' abrogato e sostituito dal seguente: "La facolta' di scienze politiche conferisce, dopo un corso di studi della durata di quattro anni, la laurea in scienze politiche.  
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica".  
+Dopo l'art. 20 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente articolo, sotto il cap. IV.  
+Art. 21. - La facolta' di economia e commercio conferisce, dopo un corso di studi della durata di quattro anni, la laurea in economia e commercio.  
+E' titolo di ammissione il diploma di maturita' classica o scientifica; o il diploma di abilitazione per i provenienti dagli istituti tecnici commerciali, per geometri, industriali, agrari, nautici, per periti aziendali e corrispondenti in lingue estere, per il turismo, tecnici femminili.  
+Gli articoli 25 e 26 sono soppressi con il conseguente spostamento della successiva numerazione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 settembre 1979
+### Dato a Roma, addi' 29 maggio 1969
 
-PERTINI VALITUTTI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 31 ottobre 1979
+Registrato alla Corte dei conti, addi' 16 luglio 1969
 
-Registro n. 83 Istruzione, foglio n. 74
+Atti del Governo, registro n. 228, foglio n. 28. - CARUSO

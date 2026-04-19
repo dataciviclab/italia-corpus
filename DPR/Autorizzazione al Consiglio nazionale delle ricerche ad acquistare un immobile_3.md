@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1968 n. 322
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1973 n. 891
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1968 n. 322
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1973 n. 891
+==============================================================
 
 Autorizzazione al Consiglio nazionale delle ricerche ad acquistare un immobile.
 -------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-322. Decreto del Presidente della Repubblica 16 febbraio 1968, col quale, sulla proposta del Presidente del Consiglio dei Ministri, il Consiglio nazionale delle ricerche viene autorizzato ad acquistare della signora Panza Mariasofia o Maria Sofia in Bogoncelli, per il prezzo di L. 70.750.000 come da atto a rogito dottor Paolo Consolandi, notaio in Milano, in data 8 ottobre 1963, n. 10.825/4129 di rep., un immobile sito nel comune di Cinisello Balsamo (Milano), via Alberto Martini numeri 21 e 23, costituito da terreno e fabbricati industriali (formante le unita' 21 e 23 del quartiere industriale), da destinare, rispettivamente, a sede del laboratorio del centro di ricerca sulla tecnologia della propulsione e dei materiali relativi, e a sede del laboratorio del centro sperimentale per le macchine utensili.  
+891. Decreto del Presidente della Repubblica 18 ottobre 1973, col quale, sulla proposta del Presidente del Consiglio dei Ministri, il Consiglio nazionale delle ricerche viene autorizzato ad acquistare al prezzo di L. 92.400.000 dal sig. Esterino Ferrero un terreno di circa 12 ettari in provincia di Torino, costituente una porzione della tenuta di Prato Fiorito, sito per ettari 6 ed are 60 circa in comune di None (foglio catastale n. 8, particelle n. 1 parte e n. 15 parte) e per ettari 5 ed are 40 circa in comune di Candiolo (foglio catastale n. 9, particella n. 1 parte), da destinare a sede del laboratorio di ricerca per la meccanizzazione agricola.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 25 marzo 1968  
-Atti del Governo, registro n. 218, foglio n. 77. - DI PRETORO
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 27 dicembre 1973  
+Atti di Governo, registro n. 263, foglio n. 40. - CARUSO

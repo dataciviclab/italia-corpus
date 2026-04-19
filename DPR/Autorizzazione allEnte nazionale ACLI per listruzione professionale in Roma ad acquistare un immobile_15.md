@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 maggio 1975 n. 450
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1981 n. 769
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 maggio 1975 n. 450
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1981 n. 769
 =============================================================
 
 Autorizzazione all'Ente nazionale ACLI per l'istruzione professionale, in Roma, ad acquistare un immobile.
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-450. Decreto del Presidente della Repubblica 26 maggio 1975, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Ente nazionale ACLI per l'istruzione professionale (ENAIP), in Roma, viene autorizzato ad acquistare, al prezzo di lire 44.000.000, un appezzamento di terreno della estensione di circa mq 18000, a corpo, sito nel comune di Botticino Sera (Brescia) distinto nel catasto terreni con i mappali: n. 83 di ha 1.13.60, n. 339 di ha 063.80, di proprieta' dei fratelli Brunori Bartolomea, Giovanni, Filippo, Margherita, Mario e Bruno, tutti domiciliati a Brescia, come da contratto condizionato di compravendita in data 14 giugno 1973 a rogito notar Giuseppe Intersimone di Roma, registrato all'ufficio atti privati il 3 luglio 1973, n. 12960.  
+769. Decreto del Presidente della Repubblica 6 giugno 1981, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Ente nazionale ACLI per l'istruzione professionale (ENAIP), in Roma, viene autorizzato ad acquistare, al prezzo di L. 45.000.000, un appartamento al piano terreno di complessivi vani nove, sito in Genova, salita S. Brigida, n. 8/1, censito al nuovo catasto edilizio urbano alla cat. 110873, sezione G.C.A., foglio n. 79, mappale 359-sub 15 di proprieta' della societa' semplice "S.  
+Giuseppe lavoratore", in Genova, come da atto di compravendita 1 aprile 1977, n. 126469/29520 di repertorio, a rogito dott. Giuseppe Intersimone, notaio in Roma, registrato a Roma in data 12 aprile 1977, da adibire a sede per gli uffici regionali dell'ente in Liguria operanti per la formazione professionale.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 2 settembre 1975  
-Atti di Governo, registro n. 11, foglio n. 88
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 16 dicembre 1981  
+Registro n. 1 Lavoro, foglio n. 163

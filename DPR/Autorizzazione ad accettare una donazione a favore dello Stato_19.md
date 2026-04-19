@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1974 n. 480
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1975 n. 751
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1974 n. 480
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1975 n. 751
+==============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-480. Decreto del Presidente della Repubblica 22 luglio 1974, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato, consistente in un terreno di effettivi mq 235, disposta dal comune di Montichiari (Brescia), con atto 20 settembre 1972, n. 20997/10648 di repertorio, a rogito notaio Luigi Lechi, da destinare ad ampliamento del fabbricato demaniale in cui hanno sede i locali uffici finanziari.  
+751. Decreto del Presidente della Repubblica 30 ottobre 1975, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione di una donazione, consistente in cinque opere dello scultore Ettore Colla, disposta a favore dello Stato dalla sig.ra Maria Carboni vedova Colla con atto in data 12 dicembre 1974, n. 2396/5822 di repertorio, a rogito dott. Franco Maria Gargiullo, notaio in Roma, da destinare alla galleria nazionale d'arte moderna di Roma.  
   
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 26 settembre 1974  
-Atti di Governo, registro n. 5, foglio n. 88. - SCIARRETTA
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 18 dicembre 1975  
+Atti di Governo, registro n. 15, foglio n. 51

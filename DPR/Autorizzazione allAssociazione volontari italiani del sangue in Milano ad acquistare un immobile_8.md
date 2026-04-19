@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1975 n. 455
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1984 n. 879
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1975 n. 455
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1984 n. 879
+================================================================
 
 Autorizzazione all'Associazione volontari italiani del sangue, in Milano, ad acquistare un immobile.
 ----------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-455. Decreto del Presidente della Repubblica 18 marzo 1975, col quale, sulla proposta del Ministro per la sanita', l'Associazione volontari italiani del sangue, in Milano, viene autorizzata ad acquistare dal comune di Bergamo, al prezzo di L. 5.000 il mq, un lotto di terreno sito in localita' Monterosso (Bergamo), di complessiva superficie di mq 1032,70, distinto in catasto del comune di Bergamo, sezione censuaria di Redona, con i mappali numeri 420/e, 107/1, coerenziati a nord con il mappale n. 107/a, ad est con i mappali numeri 107/a e 107/b, a sud con i mappali numeri 107/f, 420/d e 107/e, ad ovest con la via L. da Vinci a muro di controripa compreso.  
+879. Decreto del Presidente della Repubblica 14 settembre 1984, col quale, sulla proposta del Ministro della sanita', l'Associazione volontari italiani del sangue, in Milano, viene autorizzata ad acquistare, al prezzo di L. 22.500.000, una porzione di fabbricato di mq 50 sito in Cagliari, piazza Galilei n. 31, da adibire ad ufficio stampa e magazzino materiali per la sede AVIS di Cagliari.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 2 settembre 1975  
-Atti di Governo, registro n. 11, foglio n. 97
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 10 dicembre 1984  
+Registro n. 8 Sanita', foglio n. 206

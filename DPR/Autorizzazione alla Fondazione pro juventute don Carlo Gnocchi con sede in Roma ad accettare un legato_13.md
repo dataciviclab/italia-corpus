@@ -1,19 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1969 n. 463
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 novembre 1969 n. 1047
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1969 n. 463
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 novembre 1969 n. 1047
+================================================================
 
-Autorizzazione alla Fondazione pro juventute don Carlo Gnocchi, con sede in Roma, ad accettare un legato.
----------------------------------------------------------------------------------------------------------
+Autorizzazione alla "Fondazione pro juventute don Carlo Gnocchi", con sede in Roma, ad accettare un legato.
+-----------------------------------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-463. Decreto del Presidente della Repubblica 12 giugno 1969, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Fondazione pro juventute don Carlo Gnocchi, con sede in Roma, viene autorizzata ad accettare un legato, consistente nella somma di L. 12.000.000, disposto dalla defunta signorina Giustina Fermi, con testamento olografo del 13 novembre 1962, depositato e pubblicato con verbale a rogito dott. Almerico Vegezzi, notaio in Piacenza, in data 19 luglio 1966, rep. not. n. 3721, n. 779 di racc.  
+1047. Decreto del Presidente della Repubblica 20 novembre 1969, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione pro juventute don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 2.000.000 in titoli, disposto dalla signora Luigia Macchetta ved. Maggi, con testamento olografo aperto e pubblicato con verbale 4 gennaio 1968 a rogito del dott. Mario Matricardi, notaio in Verbania-Pallanza, repertorio n. 26597, raccolta n. 7289, registrato il 23 gennaio 1968.  
   
 Visto, il Guardasigilli: GAVA  
-Registrato alla Corte dei conti, addi' 25 luglio 1969  
-Atti del Governo, registro n. 228, foglio n. 86. - GRECO
+Registrato alla Corte dei conti, addi' 5 gennaio 1970  
+Atti del Governo, registro n. 231, foglio n. 5. - CARUSO

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 settembre 1964 n. 1675
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 settembre 1961 n. 1931
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 settembre 1964 n. 1675
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 settembre 1961 n. 1931
 =================================================================
 
 Istituzione di un Istituto professionale di Stato per il commercio in Roma.
@@ -14,31 +14,29 @@ Veduta la [legge 15 giugno 1931, n. 889](http://www.normattiva.it/uri-res/N2Ls?u
 
 Veduto il [regio decreto 3 marzo 1934, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383), che approva il testo unico della legge comunale e provinciale;
 
-Veduto l'art. 9 del regio decreto-legge 21 settembre 1938, a. 2038, convertito nella [legge 2 giugno 1939, n. 739](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739);
-
-Veduta la [legge 22 novembre 1961, n. 1282](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-11-22;1282);
-
-Ritenuto che occorre regolarizzare formalmente il funzionamento dell'Istituto professionale di Stato per il commercio "Umberto di Savoia" in Roma, gia' in atto, per ragioni di servizio, con il relativo organico, dal 10 ottobre 1963;
+Veduto l'[art. 9 del regio decreto-legge 21 settembre 1938, n. 2038](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-21;2038~art9), convertito nella [legge 2 giugno 1939; n. 739](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739);
 
 Sulla
 -----
 
-proposta del Ministro Segretario di Stato per la pubblica istruzione di concerto con quelli per l'interno, per il tesoro e per l'industria e commercio; Decreta:
+proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con quelli per lo interno e per il tesoro Decreta:
 
 Art. 1
 ------
 
   
-A decorrere dal 1 ottobre 1963 e' istituita in Roma una scuola avente finalita' e ordinamento speciali che assume la denominazione di Istituto professionale di Stato per il commercio.  
-A decorrere dalla stessa data, la Scuola tecnica commerciale statale "Umberto di Savoia" di Roma e' soppressa, salvo il funzionamento, ad esaurimento, dei corsi gia' iniziati.  
+A decorrere dal 1 ottobre 1961 e' istituita in Roma una Scuola avente finalita' e ordinamento speciali che assume la denominazione di Istituto professionale di Stato per il commercio.  
 
 Art. 2
 ------
 
   
 Il predetto Istituto professionale ha lo scopo di preparare personale idoneo all'esercizio delle attivita' di ordine esecutivo nei vari settori del commercio.  
+  
 Esso e' costituito da una scuola professionale per attivita' e impieghi commerciali, con sezioni per:  
-applicato ai servizi amministrativi (biennale), numero 2 sezioni; stenodattilografo (biennale), n. 2 sezioni.  
+stenodattilografo;  
+corrispondente commerciale in lingue estere;  
+addetto alla vendita.  
 
 Art. 3
 ------
@@ -54,7 +52,7 @@ Art. 4
 ------
 
   
-Le sezioni sono di durata variabile da due a tre anni in relazione alle esigenze professionali e possono essere diurne e serali.  
+Le sezioni sono di durata variabile da due a cinque anni in relazione alle esigenze professionali e possono essere serali.  
 I corsi possono avere durata variabile non superiore ad un anno.  
 
 Art. 5
@@ -62,8 +60,8 @@ Art. 5
 
   
 Con deliberazione del Consiglio di amministrazione sottoposta alla approvazione del Ministero della pubblica istruzione, previo parere del Consorzio provinciale per l'istruzione tecnica, sono stabilite le sezioni ed i corsi che debbono funzionare ogni anno nell'Istituto e vengono fissate le particolari modalita' di attuazione.  
-Le variazioni annuali da apportare al numero ed ai tipi delle varie scuole, sezioni e corsi potranno essere disposte sempre che la relativa spesa possa rientrare nelle disponibilita' di bilancio dell'Istituto.  
-Qualora tale spesa, ritenuta indispensabile dal Consiglio di amministrazione, non possa essere sostenuta dal bilancio dell'Istituto, potra' provvedersi all'istituzione di nuove scuole, sezioni e corsi mediante la normale procedura e con i fondi annualmente stanziati nel bilancio del Ministero della pubblica istruzione per l'istituzione di nuove scuole e istituti di istruzione tecnica e professionale.  
+Le variazioni annuali da apportare al numero ed ai tipi delle varie scuole, sezioni e corsi potranno essere, disposte sempre che la relativa spesa possa rientrare nelle disponibilita' di bilancio dell'Istituto.  
+Qualora tale spesa, ritenuta indispensabile dal Consiglio di amministrazione, non possa essere sostenuta dal bilancio dell'Istituto, potra' provvedersi all'istituzione di nuove scuole, sezioni e corsi mediante la normale procedura e con i fondi annualmente stanziati nel bilancio del Ministero della pubblica istruzione per la istituzione di nuove scuole e istituti di istruzione tecnica e professionale.  
 
 Art. 6
 ------
@@ -76,7 +74,7 @@ Art. 7
 ------
 
   
-L'Istituto puo' avere scuole coordinate anche in altri Comuni, costituendo, ognuna di esse, una unita' tecnico didattica.  
+L'istituto puo' avere scuole coordinate anche in altri Comuni, costituendo, ognuna di esse, una unita' tecnico-didattica.  
 Tali scuole possono avere le stesse sezioni o sezioni diverse da quelle della sede centrale.  
 
 Art. 8
@@ -89,36 +87,36 @@ Art. 9
 ------
 
   
-Nelle sezioni dell'istituto professionale indicate nel precedente art. 2 si impartiscono i seguenti insegnamenti: cultura generale ed educazione civica; materie di cultura professionale; materie di tecnica professionale; lingua estera; dattilografia; stenografia; pratica professionale; religione; educazione fisica.  
+Nelle sezioni dell'Istituto professionale indicate nel precedente art. 2 si impartiscono i seguenti insegnamenti: educazione civica e cultura generale; matematica: materie di cultura commerciale, tecnica ed economica; materie tecniche; lingue estere; dattilografia; stenografia; merceologia; disegno professionale; psicologia e tecnica della vendita; contabilita'; economia domestica; religione; educazione fisica.  
 
 Art. 10
 -------
 
   
 Alle scuole professionali dell'Istituto possono accedere, senza esami di ammissione, i licenziati dalla scuola media e i licenziati dalla scuola secondaria di avviamento professionale di qualsiasi tipo e, mediante esame di ammissione, coloro che, sforniti di tali licenze, abbiano compiuto il 14° anno di eta'.  
-In ogni caso l'ammissione alle scuole professionali e' subordinata ad accertamenti di carattere sanitario e psicologico.  
-Le condizioni di ammissione ai corsi di cui alle lettere a), b) e c) dell'anzidetto art. 3, saranno stabilite dal Consiglio di amministrazione ed approvate dal competente Consorzio provinciale per l'istruzione tecnica.  
+In ogni caso l'amministrazione alle scuole professionali e' subordinata ad accertamenti di carattere sanitario e psicologico.  
+Le condizioni di ammissione ai corsi di cui alle lettere a), b) e c) dell'anzidetto art. 3, saranno stabilite dal consiglio di amministrazione ed approvate dal competente Consorzio provinciale per l'istruzione  
 
 Art. 11
 -------
 
   
-Al termine del corso di ciascuna sezione delle scuole professionali gli alunni sostengono gli esami finali per il conseguimento del diploma di qualifica.  
-Al termine dei corsi di cui alle lettere a), b) e c) del precedente art. 3 gli alunni conseguono un attestato.  
+Al termine del corso di ciascuna delle scuole professionali gli alunni sostengono gli esami finali per il conseguimento del diploma di qualifica.  
+Al termine dei corsi di cui alle lettere a), b) e c) del precedente art. 3, gli alunni conseguono un attestato.  
 
 Art. 12
 -------
 
   
-Le Commissioni di esami sono costituite dal direttore della scuola, da insegnanti di materie tecniche della, scuola stessa, da insegnanti di materie culturali, da due esperti delle categorie economiche e produttive interessate anche non appartenenti all'Amministrazione dello Stato.  
-La Commissione e' presieduta dal preside dell'Istituto e, in caso di impedimento, dal direttore della scuola.  
+Le Commissioni di esami sono costituite dal direttore della scuola, da insegnanti di materie tecniche della scuola stessa e da due esperti delle categorie economiche e produttive interessate anche non appartenenti all'Amministrazione dello Stato.  
+La Commissione e' presieduta dal preside dell'Istituto e in caso di impedimento, dal direttore della scuola.  
 
 Art. 13
 -------
 
   
-Le tasse scolastiche di ammissione, di frequenza, di esame e di diploma sono stabilite nella stessa misura di quelle fissate per gli Istituti tecnici commerciali.  
-Agli alunni puo', inoltre essere richiesto un contributo per il consumo di materie prime, nonche' un deposito di garanzia per eventuali danni.  
+Le tasse scolastiche di ammissione di frequenza, di esame e di diploma sono stabilite nella stessa misura di quelle fissate per gli istituti tecnici commerciali.  
+Agli alunni puo', inoltre, essere richiesto un contributo per il consumo di materie prime, nonche' un deposito di garanzia per eventuali danni.  
 La misura del contributo e del deposito e' fissata dal Consiglio di amministrazione.  
 Il Consiglio di amministrazione puo' disporre la concessione di premi e sussidi a favore degli allievi.  
 
@@ -126,22 +124,24 @@ Art. 14
 -------
 
   
-L'Istituto e' dotato di personalita' giuridica e di autonomia amministrativa, ed e' sottoposto alla vigilanza del Ministero della pubblica istruzione.  
-Il governo amministrativo dell'Istituto e' affidato ad un Consiglio di amministrazione costituito come appresso:  
-due rappresentanti del Ministero della pubblica istruzione;  
-un rappresentante dell'Amministrazione provinciale;  
+L'istituto e' dotato di personalita' giuridica e di autonomia amministrativa, ed e' sottoposto alla, vigilanza del Ministero della pubblica istruzione.  
+  
+Il governo amministrativo dell'Istituto e' affidato ad un consiglio di amministrazione costituito come appresso:  
+  
+due rappresentanti del Ministero della pubblica istruzione un rappresentante dell'Amministrazione provinciale;  
 un rappresentante del Comune;  
-un rappresentante della Camera di commercio, industria e agricoltura;  
+un rappresentante della Camera di commercio, industria e agricoltura:  
 il preside dell'Istituto, che ha voto deliberativo ed esercita le funzioni di segretario.  
+  
 La nomina del Consiglio di amministrazione e' disposta con decreto del Ministro per la pubblica istruzione il quale nomina, altresi', tra i consiglieri il presidente.  
-Possono essere chiamati a far parte del Consiglio quelle persone e quegli Enti che diano un notevole contributo tecnico o economico al funzionamento dall'istituto.  
+Possono essere chiamati a far parte del Consiglio, quelle persone e quegli enti che diano un notevole contributo tecnico o economico al funzionamento dello Istituto.  
 
 Art. 15
 -------
 
   
 Il riscontro della gestione finanziaria e amministrativa dell'Istituto e' affidato a due revisori dei conti, dei quali uno e' nominato dal Ministro per la pubblica istruzione e l'altro dal Ministro per il tesoro.  
-I revisori esaminano il bilancio preventivo e il conto consuntivo e compiono tutte le verifiche necessarie per assicurarsi del regolare andamento della gestione dell'Istituto.  
+I revisori esaminano il bilancio preventivo e il conto consuntivo e compiono tutte le verifiche necessarie per assicurarsi del regolare andamento della gestione dello Istituto.  
 I revisori sono nominati per la durata di un triennio e possono essere confermati.  
 
 Art. 16
@@ -149,7 +149,7 @@ Art. 16
 
   
 Il Consiglio di amministrazione dura in carica tre anni.  
-Quando ne sia riconosciuta la necessita' il Ministro per la pubblica istruzione scioglie, con suo decreto, il Consiglio di amministrazione e nomina un commissario governativo per l'amministrazione straordinaria, fissando il termine entro il quale il Consiglio di amministrazione dovra' essere ricostituito.  
+Quando ne sia riconosciuta la necessita' il Ministro per la pubblica istruzione scioglie, con suo decreto, il Consiglio di amministrazione e nomina un Commissario governativo per l'amministrazione straordinaria, fissando il termine entro il quale il Consiglio di amministrazione dovra' essere ricostituito.  
 
 Art. 17
 -------
@@ -157,47 +157,48 @@ Art. 17
   
 A capo dell'Istituto e' un preside il quale e', in ogni caso, dispensato dall'obbligo dell'insegnamento. Egli sovraintende all'andamento didattico e disciplinare dell'Istituto e ne ha la direzione amministrativa.  
 A capo di ogni scuola e' un direttore che risponde verso il preside dell'andamento didattico e disciplinare della scuola da lui diretta.  
-Le funzioni di direttore sono affidate per incarico dal Consiglio di amministrazione, su proposta del preside, di regola ad insegnanti di ruolo di materie tecniche.  
+Le funzioni di direttore sono affidate per incarico dal Consiglio di amministrazione, su proposta del preside di regola ad insegnanti di ruolo di materie tecniche.  
 Presso l'Istituto funziona un Consiglio di presidenza costituito dal preside che lo presiede, dai direttori di scuole e da uno o piu' insegnanti.  
-Il Consiglio di presidenza coadiuva il preside nel governo didattico e disciplinare dell'Istituto, cura l'organizzazione dei vari insegnamenti e il loro mutuo collegamento e da' parere su ogni altra, questione di carattere didattico e organizzativo.  
+Il Consiglio di presidenza coadiuva il preside nel governo didattico e disciplinare dell'Istituto, cura l'organizzazione dei vari insegnamenti e il loro mutuo collegamento e da' parere su ogni altra questione di carattere didattico e organizzativo.  
 
 Art. 18
 -------
 
   
-Il posto di preside e' conferito mediante pubblico con corso per titoli e per esami tra gli insegnanti di ruolo degli Istituti professionali per il commercio, alberghieri, per il turismo e tra il personale che abbia titolo a partecipare ai concorsi a preside negli Istituti tecnici commerciali a norma delle disposizioni di cui al [decreto del Capo provvisorio dello Stato n. 629 del 21 aprile 1947](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-21;629) e successive modificazioni.  
-Gli altri posti di ruolo del personale insegnante sono conferiti mediante pubblico concorso per titoli e per esami e, qualora se ne ravvisi l'opportunita', secondo le norme dell'[art. 36 della legge 15 giugno 1931, n. 889](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889~art36), sul riordinamento dell'istruzione media tecnica.
+Il posto di preside e' conferito mediante pubblico concorso per titoli e per esami tra gli insegnanti di ruolo di materie tecniche degli istituti professionali per il commercio, alberghieri per il turismo e degli Istituti tecnici commerciali, nonche' tra i direttori delle scuole tecniche commerciali che abbiano la necessaria competenza specifica in materia che siano in possesso degli altri requisiti previsti dal decreto del Capo, provvisorio dello Stato n. 629 del 21 aprile 1947.  
+Gli altri posti di ruolo del personale insegnante sono conferiti mediante pubblico concorso per titoli e per esami e qualora se ne ravvisi l'opportunita', secondo le norme dell'art. 36 della legge 13 giugno, n. 889, sul riordinamento dell'istruzione media tecnica.  
 
 Art. 19
 -------
 
   
-Il personale direttivo e insegnante di ruolo negli Istituti e Scuole di istruzione secondaria che, alla data di pubblicazione del presente decreto nella Gazzetta Ufficiale, trovasi in servizio nell'Istituto professionale e che, per l'attivita' svolta, abbia dimostrato particolare competenza e perizia nelle mansioni esercitate, puo' essere inquadrato nell'organico dell'Istituto professionale su proposta del Consiglio di amministrazione, previe parere di una Commissione tecnica nominata dal Ministero della pubblica istruzione, la quale sottoporra' il suddetto personale ad un apposito colloquio su argomenti attinenti al posto da ricoprire.  
-Il personale ritenuto meritevole di inquadramento collocato nel posto previsto nell'annessa tabella organica, conservando i diritti acquisiti di carriera e di stipendio previsti dall'[art. 6 del regio decreto-legge 6 maggio 1923, n. 1051](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-05-06;1051~art6).  
-La tabella organica annessa al presente decreto, vista e firmata d'ordine del Presidente della Repubblica, dai Ministro per la pubblica istruzione e da quello per il tesoro, indica le qualifiche del personale di ruolo e incaricato.  
+  
+Il personale direttivo e insegnante di ruolo che, alla data di pubblicazione del presente decreto nella Gazzetta Ufficiale, trovasi in servizio nell'Istituto professionale e che, per l'attivita' svolta, abbia dimostrato particolare competenza e perizia nelle mansioni esercitate, puo' essere inquadrato nell'organico dell'Istituto professionale su proposta del Consiglio di amministrazione, previo parere di una Commissione tecnica nominata dal Ministero della pubblica istruzione, la quale sottoporra' il suddetto personale ad un apposito colloquio sui argomenti attinenti al posto da ricoprire.   
+Il personale ritenuto meritevole di inquadramento e' collocato nel posto previsto nell'annessa tabella organica, conservando i diritti acquisiti di carriera e di stipendio previsti dall'[art. 6 del regio decreto-legge 6 maggio 1923, n. 1054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-05-06;1054~art6).   
+La tabella organica annessa al decreto, vista e firmata d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione e da quello per il tesoro, indica le qualifiche del personale di ruolo e incaricato.   
 
 Art. 20
 -------
 
   
 Al personale di ruolo si applicano le disposizioni vigenti per il personale degli Istituti tecnici statali.  
-Per la nomina del personale insegnante non di ruolo il Consiglio di amministrazione provvede ai sensi della [legge 15 febbraio 1963, n. 354](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-15;354).  
-In relazione alle specifiche esigenze dell'addestramento pratico il Consiglio di amministrazione puo' assumere in servizio temporaneo esperti nel campo della produzione e del lavoro.  
-Quando funzionino Scuole coordinate a norma dell'art. 7 del presente decreto, il personale di ruolo e non di ruolo puo' essere assegnato dalla Presidenza, sia alle scuole della sede centrale, sia a quelle coordinate che, ad ogni effetto, sono considerate sedi ordinarie di servizio.  
+Per la nomina del personale incaricato e supplente il Consiglio di amministrazione provvede direttamente, in conformita' delle concrete necessita' dell'istruzione professionale.  
+In relazione alle specifiche esigenze dell'addestramento pratico il Consiglio di amministrazione puo' assumere in servizio temporaneo esperti nel Campo della produzione del lavoro.  
+Quando funzionino scuole coordinate a norma dell'art. 7 del presente decreto, il personale di ruolo e non di ruolo puo' essere assegnato dalla Presidenza, sia alle scuole della sede centrale, sia a quelle coordinate che, ad ogni effetto, sono considerate sedi ordinarie di servizio.  
 
 Art. 21
 -------
 
   
-Il Consiglio di amministrazione puo' concedere, annualmente, nei limiti delle disponibilita' del proprio bilancio, al personale direttivo, insegnante e amministrativo, assegni speciali non computabili agli effetti della pensione.  
-La concessione di tali assegni e' subordinata all'esistenza, di una o piu' delle condizioni previste dall'[art. 49 della legge 15 giugno 1931, n. 889](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889~art49), ad eccezione del personale tecnico incaricato e temporaneo per il quale, ferme restando tutte le altre modalita' e condizioni indicate dal suddetto art. 49, si prescinde dal limite posto nell'ultimo comma dell'articolo medesimo.  
+Il Consiglio di amministrazione puo' concedere, annualmente, nei limiti delle disponibilita' del proprio bilancio, al personale direttivo, insegnante ed amministrativo, assegni speciali non computabili, per il personale di ruolo, agli effetti della pensione.  
+La concessione di tali assegni e' subordinata alla esistenza di una o piu' delle condizioni previste dall'[art. 49 della legge 13 giugno 1931, n. 889](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-13;889~art49), ad eccezione del personale tecnico incaricato e temporaneo per il quale, ferme restando tutte le altre modalita' e condizioni indicate dal suddetto art. 49, si prescinde dal limite posto nell'ultimo comma dell'articolo medesimo.  
 
 Art. 22
 -------
 
   
 Alle spese di mantenimento dell'Istituto si provvede:  
-1) con un contributo del Ministero della pubblica istruzione fissato in L. 61.500.000;  
+1) con un contributo del Ministero della pubblica istruzione fissato in L. 36.200.000;  
 2) con gli eventuali contributi degli Enti locali, delle organizzazioni professionali di categoria e di privati;  
 3) con lasciti e donazioni da parte di enti e di privati;  
 4) con i contributi degli alunni.  
@@ -206,54 +207,55 @@ Art. 23
 -------
 
   
-Per quanto riguarda gli oneri a carico degli Enti locali, all'Istituto professionale si applicano le disposizioni dell'art. 91, lettera f) del testo unico della legge comunale e provinciale approvato con [regio decreto 3 marzo 1934, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383).  
-Per quanto non e' previsto dal presente decreto, si applicano le disposizioni vigenti per gli Istituti d'istruzione tecnica.  
-L'onere della spesa a carico del Ministero della pubblica istruzione, derivante dall'attuazione del presente decreto, grava sul cap. 131 dello stato di previsioni della spesa del Ministero stesso per l'esercizio 1963-64 e sui capitoli corrispondenti per gli esercizi successivi.  
+Per quanto riguarda gli oneri a carico degli Enti locali, all'istituto professionale si applicano le disposizioni dell'art. 91, lett. f) del testo unico della legge comunale e provinciale approvato con [regio decreto 3 marzo 1934, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383).  
+Per quanto non e' previsto dal presente decreto, si appicano le disposizioni vigenti per gli Istituti di istruzione tecnica.  
+L'onere della spesa a carico del Ministero della pubblica istruzione, derivante dall'attuazione del presente decreto, gravera' sul cap. 117 dello stato di previsione della spesa del Ministero stesso per l'esercizio 1961-62 e sui capitoli corrispondenti per gli esercizi successivi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 settembre 1964
+### Dato a Roma, addi' 30 settembre 1961
 
-Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI - MEDICI - TAVIANI - COLOMBO
+GRONCHI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 5 luglio 1965
+Registrato alla Corte dei conti, addi' 18 febbraio 1963
 
-Atti del Governo, registro n. 195, foglio n. 9. - VILLA
+Atti del Governo, registro n. 164, foglio n. 10. - VILLA
 
 Tabella
 
- Tabella organica dell'Istituto professionale di   
-Stato per il commercio "Umberto di Savoia" di Roma   
-  
-n. 2 sezioni per applicati ai servizi amministrativi (biennale)   
-n. 2 sezioni per stenodattilografo (biennale)   
-per complessive n. 8 classi.   
+Tabella organica dell'Istituto professionale di Stato per il commercio di Roma   
 Numero   
 Qualifica dei posti   
   
+  
 Personale di ruolo   
   
-1. Preside senza insegnamento (I categoria).............. 1   
-2. Cattedre d'insegnamento (ruolo A)..................... 6   
-3. Segretario economo.................................... 1   
-4. Applicati............................................. 2   
-5. Aiutanti tecnici...................................... -   
-6. Magazzinieri.......................................... -   
-7. Bidelli............................................... 3   
+1. Preside senza insegnamento (I categoria)...... 1   
+2. Cattedre di insegnamento (ruolo A)............ 6   
+3. Segretario economico.......................... 1   
+4. Applicati..................................... 1   
+  
   
 Personale incaricato   
-8. Incarichi d'insegnamento per complessive ore 136 set-   
-timanali.   
   
-N.B. - Fermo restando il numero complessivo dei posti di ruolo e di quelli da affidare per incarico, le materie costituenti le cattedre di insegnamento e le qualifiche da attribuire al personale tecnico saranno determinate con decreto del Ministro per la pubblica istruzione.   
+5. Incarichi d'insegnamento per complessive ore22   
+settimanali   
+6. Applicati..................................... 2   
+7. Personale di servizio......................... 5   
+  
+  
+  
+N. B. - Fermo restando il numero complessivo dei posti di ruolo e di quelli da affidare per incarico, le materie costituenti le cattedre di insegnamento e le qualifiche da attribuire al personale tecnico saranno determinate con decreto del Ministro per la pubblica istruzione.   
   
 Visto, d'ordine del Presidente della Repubblica   
+  
+  
 Il Ministro per la pubblica istruzione   
-GUI   
+BOSCO   
   
 Il Ministro per il tesoro   
-COLOMBO   
+TAVIANI   

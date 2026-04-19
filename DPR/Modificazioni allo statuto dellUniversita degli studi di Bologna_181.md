@@ -1,71 +1,139 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1954 n. 862
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 348
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1954 n. 862
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 348
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), modificato con i [regi decreti 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-12;2227); [4 settembre 1930, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-09-04;1312); [1 ottobre 1931, n. 1778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1778); [27 ottobre 1932, n. 2092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2092); [6 dicembre 1934, n. 2394](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2394); [1 ottobre 1936, n. 2502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2502); [12 maggio 1939, numero 1315](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-05-12;1315); [5 ottobre 1939, n. 1644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1644); [11 luglio 1941, n. 848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-07-11;848); [18 luglio 1942, n. 928](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-18;928); [24 novembre 1942, n. 1595; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-11-24;1595) [16 maggio 1947, n. 694 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-05-16;694) [22 febbraio 1948, n. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-02-22;414); [30 luglio 1950, numero 1269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-30;1269); [31 ottobre 1950, n. 1307](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1307); [5 agosto 1951, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-05;1311); [27 ottobre 1951, n. 1792](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1792); [3 ottobre 1952, numero 4541](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-03;4541); [11 marzo 1953, n. 545](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;545) e [12 maggio 1953, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-05-12;547);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
+Gli articoli 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209 e 210, relativi alla scuola di perfezionamento in scienze amministrative, che muta la denominazione in scuola di specializzazione in diritto amministrativo e scienza dell'amministrazione, afferente alla facolta' di giurisprudenza, sono soppressi e sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi:   
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Dopo l'art. 41 sono aggiunti i seguenti nuovi articoli, relativi all'istituzione della scuola di statistica, presso la Facolta' di economia e commercio, con il conseguente spostamento della numerazione degli articoli successivi:  
+Scuola di specializzazione in diritto amministrativo   
+e scienza dell'amministrazione   
   
-Scuola di statistica  
-  
-Art. 41. - Alla Facolta' di economia e commercio e' annessa la scuola di statistica che ha sede presso l'Istituto di statistica della Facolta' di economia e commercio.  
-La scuola e' diretta dal direttore dell'istituto suddetto e conferisce il diploma in statistica.  
-Art. 42. - La durata del corso degli studi per il conseguimento del diploma in statistica e' di due anni.  
-E' titolo di ammissione il diploma di maturita' classica; di maturita' scientifica; di abilitazione per i provenienti dagli Istituti tecnici commerciali, industriali, agrari, nautici e per geometri.  
-Sono insegnamenti fondamentali:  
-1. Elementi di matematica.  
-2. Statistica.  
-3. Statistica economica - corso elementare.  
-4. Statistica giudiziaria (semestrale).  
-5. Statistica sociale (semestrale).  
-6. Antropometria (semestrale).  
-7. Statistica sanitaria (semestrale).  
-8. Sociologia generale e sociologia coloniale.  
-9. Demografia.  
-10. Geografia politica ed economica.  
-Sono insegnamenti complementari:  
-1. Economia politica - corso elementare.  
-2. Biometria.  
-3. Antropologia.  
-4. Nozioni elementari di diritto privato e pubblico.  
-Gli insegnamenti semestrali di "statistica giudiziaria" e di "statistica sociale" e quelli, pure semestrali, di "statistica sanitaria" e di "antropometria" comportano rispettivamente esami unici. L'insegnamento biennale di statistica economica comporta un esame alla fine di ogni anno.  
-Gli insegnamenti complementari possono essere scelti dallo studente anche fra le altre discipline impartite nella Facolta' di economia e commercio e le discipline impartite in altre Facolta' dell'Ateneo, previa approvazione del preside della Facolta' di economia e commercio.  
-Per essere ammesso all'esame di diploma lo studente deve aver seguito i corsi e superati gli esami in tutti gli insegnamenti fondamentali e almeno in due complementari.  
-Art. 43. - Lo studente non puo' sostenere l'esame di statistica se non abbia superato l'esame di elementi di matematica; non puo' sostenere gli esami di statistica economica, anche per il primo anno, di statistica giudiziaria e sociale, di statistica sanitaria e di antropometria, di demografia, se non abbia superato l'esame di statistica. L'esame di diploma consiste nella discussione orale di una dissertazione scritta, svolta su tema approvato dal professore della materia. L'esame sara' sostenuto dai candidati di fronte ad una commissione composta di sette membri e presieduta dal direttore della scuola di statistica.  
-Art. 44. - Le tasse e soprattasse per la iscrizione e la frequenza ai corsi, e per gli esami di profitto sono pari a quelle stabilite per il primo ed il secondo corso della Facolta' di economia e commercio; i contributi di laboratorio verranno fissati annualmente dal Consiglio di amministrazione su proposta del Senato accademico, udita la Facolta' e scuola.  
-Art. 45. L'Istituto di statistica, per le materie di statistica, statistica economica, statistica giudiziaria, statistica sociale, statistica sanitaria, demografia, funziona come seminario ai sensi dell'art. 23 del regolamento generale universitario.  
-Art. 46. - I diplomati della scuola, che hanno regolarmente seguito almeno per un corso gli insegnamenti di due lingue secondo i programmi della Facolta' di economia e commercio, potranno essere ammessi al terzo corso degli studi della Facolta' stessa.  
+Art. 206 - Presso l'Universita' di Bologna e' istituita la scuola di specializzazione in diritto amministrativo e scienza dell'amministrazione che conferisce il diploma di specialista in diritto amministrativo e scienza dell'amministrazione.   
+Art. 207 - La direzione della scuola ha sede presso la facolta' di giurisprudenza.   
+Art. 208 - La scuola ha lo scopo di provvedere alla formazione di quanti aspirano a posti di responsabilita' direttiva presso amministrazioni dello Stato ed enti pubblici e privati e che percio' intendono acquisire la necessaria preparazione di base ed applicativa e la formazione tecnica, nonche' di quanti intendono dedicarsi ad attivita' di ricerca presso enti ed istituzioni o centri di studio e di ricerca applicata.   
+Per il conseguimento di tali fini possono essere stipulate convenzioni con scuole, centri, istituti, dipartimenti, enti pubblici o privati anche stranieri.   
+Art. 209 - La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazioni.   
+Art. 210 - Il numero degli iscritti per il primo anno e' di quaranta e complessivamente di centoventi.   
+Art. 211 - Alla scuola sono ammessi i laureati in giurisprudenza, in scienze politiche, in economia e commercio.   
+Possono essere iscritti alla scuola coloro i quali sono dotati di titolo di studio conseguito all'estero equivalente a quelli indicati nel comma precedente.   
+Art. 212 - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che potra' svolgersi in attuazione dell'[art. 13 del decreto del Presidente della Repubblica n. 162/82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;162~art13) mediante domanda a risposte multiple integrate eventualmente da un colloquio e da una valutazione in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:   
+a) tesi nella disciplina attinente alla specializzazione;   
+b) voto di laurea;   
+c) voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;   
+d) pubblicazioni nelle predette materie.   
+Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale del 16 settembre 1982.   
+Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero di posti disponibili, si siano collocati in posizioni utili nella graduatoria compilata sulla base del punteggio complessivo riportato.   
+In caso di rinunzia sono ammessi coloro che seguono nella graduatoria.   
+Art. 213 - La scuola si articola in un programma unico e comune a tutti gli allievi per il primo e secondo anno, ed in una serie di insegnamenti a carattere specialistico, rispettivamente a contenuto giuridico-amministrativo e tecnico-amministrativo, per il terzo anno.   
+Gli insegnamenti della scuola consistono in materie fondamentali ed in materie a scelta dell'iscritto.   
+Sono insegnamenti fondamentali del primo anno:   
+diritto amministrativo;   
+politica economica e di mercato;   
+scienza dell'amministrazione.   
+Sono materie a scelta degli iscritti del primo anno:   
+storia dell'amministrazione pubblica;   
+elementi di statistica;   
+diritto pubblico comparato.   
+Sono insegnamenti fondamentali del secondo anno:   
+contabilita' dello Stato;   
+diritto delle Comunita' europee;   
+diritto finanziario e tributario.   
+Sono materie a scelta degli iscritti del secondo anno:   
+programmazione e bilancio;   
+amministrazione del personale;   
+diritto regionale.   
+Sono insegnamenti fondamentali del terzo anno (indirizzo giuridico-amministrativo):   
+contabilita' degli enti locali;   
+ordinamento giuridico degli enti locali;   
+impiego pubblico e privato;   
+reati contro la pubblica amministrazione;   
+appalti ed opere pubbliche.   
+Sono materie a scelta degli iscritti del terzo anno (indirizzo giuridico-amministrativo):   
+diritto pubblico dell'economia;   
+diritto sindacale e relazioni industriali;   
+giustizia amministrativa;   
+legislazione urbanistica;   
+uso degli elaboratori nella pubblica amministrazione.   
+Sono insegnamenti fondamentali del terzo anno (indirizzo tecnico-amministrativo):   
+tecniche di selezione e valutazione del personale;   
+diritto sindacale e relazioni industriali;   
+elementi di macroeconomia;   
+elementi di microeconomia;   
+organizzazione aziendale.   
+Sono materie a scelta degli iscritti al terzo anno (indirizzo tecnico-amministrativo):   
+ricerca operativa;   
+uso degli elaboratori nella pubblica amministrazione;   
+legislazione doganale e valutaria;   
+tecnica e legislazione bancaria;   
+diritto penale commerciale;   
+contratti.   
+Art. 214 - Per i primi due anni di corso lo specializzando e' tenuto a seguire, oltre ai corsi obbligatori, almeno due corsi opzionali fra quelli attivati dalla scuola. All'atto dell'iscrizione al terzo anno della scuola gli studenti dovranno indicare l'indirizzo prescelto e scegliere due materie opzionali ad esso relative.   
+Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno una sola volta.   
+Art. 215 - La frequenza ai corsi e' obbligatoria ai sensi dell'[art. 11 del decreto del Presidente della Repubblica n. 162/82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;162~art11); detta frequenza non puo' comunque essere inferiore ai 2/3 dei corsi, delle esercitazioni e delle attivita' pratiche eventualmente programmate.   
+Art. 216 - Superato l'esame teorico-pratico dell'ultimo anno, lo studente dovra' sostenere un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie previste nell'indirizzo prescelto.   
+A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specializzazione in scienze amministrative.   
+Art. 217 - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge.   
+I contributi sono stabiliti anno per anno dal consiglio di amministrazione dell'Universita' degli studi di Bologna.   
+La scuola, oltre che dai contributi ordinari e straordinari dell'Universita', puo' essere finanziata da sovvenzioni, lasciti e donazioni di aziende, enti e privati che figureranno nel bilancio dell'Universita' stessa.   
+Art. 218 - Per la scuola di specializzazione e' costituito un unico consiglio presieduto da un direttore.   
+Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).   
+Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.   
+La direzione della scuola e' affidata a professore ordinario o straordinario, che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.   
+Il direttore e' eletto dai componenti il consiglio dei docenti: dura in carica un triennio ed e' rieleggibile.   
+Art. 219 (Norma transitoria). - Con l'entrata in funzione della scuola di specializzazione in diritto amministrativo e scienza dell'amministrazione l'attuale scuola biennale di perfezionamento in scienze amministrative e' soppressa.   
+Gli allievi che nell'anno accademico 1985-86 abbiano frequentato il secondo anno della scuola di perfezionamento in scienze amministrative, sostenendo i relativi esami di profitto, sono ammessi all'esame teorico-pratico nonche' all'esame finale, ai sensi del precedente art. 216, ai fini del conseguimento del diploma di specialista.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a S. Vincent, addi' 14 agosto 1954
+### Dato a Roma, addi' 10 febbraio 1986
 
-EINAUDI MARTINO
+COSSIGA
 
-Visto, il Guardasigilli: DE PIETRO
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 23 settembre 1954
+Visto, il Guardasigilli MARTINAZZOLI
 
-Atti del Governo, registro n. 86, foglio n. 34. - CARLOMAGNO
+Registrato alla Corte dei conti, addi' 8 luglio 1986
+
+Registro n. 54 Istruzione, foglio n. 344

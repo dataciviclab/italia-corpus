@@ -1,11 +1,107 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1102
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1965 n. 734
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1102
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1965 n. 734
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta Lo statuto dell'Universita' degli studi di Parma approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+L'art. 99, relativo alla Scuola di specializzazione in Oculistica, e' abrogato e sostituito dal seguente con il conseguente spostamento della numerazione degli articoli successivi.
+
+Scuola di specializzazione in Oculistica
+
+Art. 99. - La Scuola ha la durata di quattro anni.
+
+Il numero complessivo degli iscritti ai quattro anni del corso e' di venticinque.
+
+Gli insegnamenti impartiti dalla Scuola sono i seguenti:
+
+1° Anno:
+
+1) Anatomia ed istologia dell'apparato oculare;
+
+2) Nozioni di embriologia e genetica oculare;
+
+3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari 4) Nozioni di ottica fisiologica, esame della refrazione;
+
+5) Microbiologia ed igiene oculare.
+
+2° Anno:
+
+1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmologia, perimetria, campimetria, adattometria senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);
+
+2) Farmacologia oculare e terapia fisica;
+
+3) Anatomia patologica oculare;
+
+4) Patologia e clinica oculare malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della sclera).
+
+3° Anno:
+
+1) Patologia e clinica oculare (malattie dell'uvea, della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita glaucoma);
+
+2) Anomalia e patologia della motilita' oculare e della, visione binoculare. Ortottica e pleottica;
+
+3) Affezioni otorinolaringoiatriche e occhio;
+
+4) Tecnica operatoria. (I).
+
+4° Anno:
+
+1) Neuroftalmologia;
+
+2) Malattie oculari in rapporto ad affezioni generali;
+
+3) Malattie professionali. Infortunistica e medicina legale oculare;
+
+4) Tecnica operatoria (II)
+
+5) Tesi di specializzazione.
+
+Art. 100. - Il corso sara' integrato da conferenze su argomenti attinenti alla specialita' (patologia oculare infantile, dermosifilopatica e occhio, malattie oculari da cause ginecologiche, ecc.). Durante il corso si svolgeranno esercitazioni di laboratorio di istologia patologica, microbiologia, sierologia e chimica biologica.
+
+Gli esami di profitto si danno alla fine di ciascun anno di corso.
+
+Alla fine del corso gli iscritti, oltre a presentare la dissertazione scritta ed a sostenere la relativa discussione, devono sostenere una prova pratica sull'ammalato.
+
+L'art. 119, relativo alla, Scuola di specializzazione in Otorinolaringoiatria, e' modificato nel senso che l'insegnamento di cui al n. 3) di "Fisica acustica" del 1° anno di corso cambia denominazione in quello di "Fisica acustica e audiologia".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 21 maggio 1965
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 30 giugno 1965 Atti del Governo, registro n. 194, foglio n. 33. - VILLA
 
 Art. 1
 ------
@@ -14,43 +110,55 @@ Art. 1
   
 Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
+Decreta Lo statuto dell'Universita' degli studi di Parma approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 22 - all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto il seguente:  
-  
-Economia della Comunita' economica europea.  
-Art. 61 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di:  
-  
-Neurofisiopatologia;  
-Malattie del ricambio;  
-Chirurgia riparatrice della mano;  
-Puericultura prenatale;  
-Semeiotica ostetrica;  
-Radioterapia;  
-Gastroenterologia;  
-Oncologia medica;  
-Foniatria;  
-Virologia clinica.  
+L'art. 99, relativo alla Scuola di specializzazione in Oculistica, e' abrogato e sostituito dal seguente con il conseguente spostamento della numerazione degli articoli successivi.  
+Scuola di specializzazione in Oculistica  
+Art. 99. - La Scuola ha la durata di quattro anni.  
+Il numero complessivo degli iscritti ai quattro anni del corso e' di venticinque.  
+Gli insegnamenti impartiti dalla Scuola sono i seguenti:  
+1° Anno:  
+1) Anatomia ed istologia dell'apparato oculare;  
+2) Nozioni di embriologia e genetica oculare;  
+3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari 4) Nozioni di ottica fisiologica, esame della refrazione;  
+5) Microbiologia ed igiene oculare.  
+2° Anno:  
+1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmologia, perimetria, campimetria, adattometria senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);  
+2) Farmacologia oculare e terapia fisica;  
+3) Anatomia patologica oculare;  
+4) Patologia e clinica oculare malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della sclera).  
+3° Anno:  
+1) Patologia e clinica oculare (malattie dell'uvea, della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita glaucoma);  
+2) Anomalia e patologia della motilita' oculare e della, visione binoculare. Ortottica e pleottica;  
+3) Affezioni otorinolaringoiatriche e occhio;  
+4) Tecnica operatoria. (I).  
+4° Anno:  
+1) Neuroftalmologia;  
+2) Malattie oculari in rapporto ad affezioni generali;  
+3) Malattie professionali. Infortunistica e medicina legale oculare;  
+4) Tecnica operatoria (II)  
+5) Tesi di specializzazione.  
+Art. 100. - Il corso sara' integrato da conferenze su argomenti attinenti alla specialita' (patologia oculare infantile, dermosifilopatica e occhio, malattie oculari da cause ginecologiche, ecc.). Durante il corso si svolgeranno esercitazioni di laboratorio di istologia patologica, microbiologia, sierologia e chimica biologica.  
+Gli esami di profitto si danno alla fine di ciascun anno di corso.  
+Alla fine del corso gli iscritti, oltre a presentare la dissertazione scritta ed a sostenere la relativa discussione, devono sostenere una prova pratica sull'ammalato.  
+L'art. 119, relativo alla, Scuola di specializzazione in Otorinolaringoiatria, e' modificato nel senso che l'insegnamento di cui al n. 3) di "Fisica acustica" del 1° anno di corso cambia denominazione in quello di "Fisica acustica e audiologia".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1973
+### Dato a Roma, addi' 21 maggio 1965
 
-LEONE MALFATTI
+SARAGAT GUI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 24 maggio 1974
+Registrato alla Corte dei conti, addi' 30 giugno 1965
 
-Atti di Governo, registro n. 3, foglio n. 31. - SCIARRETTA
+Atti del Governo, registro n. 194, foglio n. 33. - VILLA

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1049
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1267
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1049
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1267
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
@@ -10,90 +10,109 @@ Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso: dopo l'art. 300, e con lo spostamento della numerazione degli articoli e titoli successivi, sono inseriti i seguenti nuovi articoli e titolo relativi all'inserimento delle norme generali della facolta' di farmacia e alla istituzione della scuola di perfezionamento in farmacologia.   
-  
-TITOLO XIII   
-FACOLTA' DI FARMACIA   
-  
-Norme generali   
-  
-Art. 301. - Le scuole di perfezionamento istituite presso la facolta' di farmacia, hanno lo scopo di fornire ai giovani laureati la preparazione necessaria nei singoli campi, dell'analisi e della tecnologia farmaceutica, della farmacologia, in relazione alle esigenze dei lavoratori universitari industriali ed ospedalieri e rilasciano i relativi diplomi di perfezionamento.   
-Art. 302. - I direttori delle scuole sono scelti tra i professori ordinari e straordinari della facolta' di farmacia dell'Universita' di Pavia e nominati dalla facolta' per la durata di un triennio. Il funzionamento della scuola e' affidato ad un consiglio direttivo che e' formato dal direttore e da altri due membri, scelti tra gli insegnanti della scuola, e viene nominato ogni triennio dalla facolta'.   
-Gli insegnanti della scuola sono proposti, d'intesa col consiglio direttivo, dal direttore, che puo' scegliere tra i professori di ruolo e non di ruolo della facolta' ed anche tra persone di riconosciuta competenza nelle materie d'insegnamento delle scuole; tali proposte sono sottoposte all'approvazione della facolta'.   
-Art. 303. - Il programma di ogni scuola viene compilato anno per anno dal direttore della scuola, sottoposto all'approvazione della facolta' e quindi reso pubblico.   
-Art. 304. - La facolta', udito il consiglio della scuola, puo' concedere un abbreviamento di corso di perfezionamento, non superiore ad un anno, a quegli iscritti che si presentino gia' forniti di notevoli titoli di riconosciuto valore.   
-Coloro che eventualmente usufruiscono dell'agevolazione di cui sopra, sono sempre tenuti a sostenere tutti gli esami di profitto e quello di diploma e ad ottemperare agli obblighi amministrativi al pari di quelli che frequentano i corsi secondo la durata regolare.   
-Art. 305. - Per ciascuna scuola puo' essere stabilito un numero minimo di iscrizioni; qualora questo numero non venga raggiunto, il direttore della scuola ha facolta' di non iniziare i corsi. Ma se questi verranno iniziati dovranno essere portati a termine, qualunque sia il numero degli iscritti.   
-Del pari puo' essere fissato un numero massimo di iscritti, oltre al quale non saranno accolte ulteriori iscrizioni.   
-Art. 306. - La sorveglianza sugli iscritti, per tutto quanto riguarda la loro attivita', spetta al direttore della scuola.   
-La frequenza ai singoli insegnamenti annuali deve essere attestata dai rispettivi insegnanti e notificata al direttore della scuola.   
-Art. 307. - Le commissioni per gli esami di profitto sono nominate dal preside della facolta' su proposta del direttore della scuola.  
-Ciascuna commissione non puo' essere composta con meno di tre membri.   
-Art. 308. - L'esame di diploma viene sostenuto davanti ad una commissione di cinque membri, tra cui un relatore ed un controrelatore, nominata a norma dell'art. 42 del regio decreto-legge 4 giugno 1938, fra i professori componenti la scuola.   
-L'esame di diploma consiste in una discussione sopra una dissertazione originale scritta di carattere sperimentale preparata durante il periodo di perfezionamento.   
-I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola. Ma, se al secondo esame non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.   
-A coloro che hanno superato l'esame di diploma viene rilasciato il diploma di perfezionamento.   
-Art. 309. - Le tasse e soprattasse che gli iscritti sono tenuti a pagare sono le stesse che la legge stabilisce per gli studenti della facolta' di farmacia, oltre alla tassa di diploma di L. 6.000.   
-La misura dei contributi per le esercitazioni pratiche e per le altre prestazioni di cui gli iscritti usufruiscono durante il corso di studi, e' fissata anno per anno dal consiglio di amministrazione su proposta della facolta'.   
-L'importo netto delle soprattasse di profitto e di diploma viene ripartito secondo i criteri di cui al [decreto presidenziale 1 dicembre 1952, n. 4512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-12-01;4512).   
-Scuola di perfezionamento in farmacologia   
-Art. 310. - La scuola di perfezionamento, in farmacologia rilascia il diploma di perfezionamento in farmacologia.   
-La durata del corso e' di tre anni.   
-Art. 311. - Alla scuola possono essere ammessi i laureati in farmacia, in chimica e tecnologia farmaceutiche, in medicina e chirurgia, in scienze biologiche, in scienze delle preparazioni alimentari, in medicina veterinaria, in scienze della produzione animale.   
-Art. 312. - Il numero degli ammessi non puo' essere superiore a 20 per anno di corso.   
-Art. 313. - Gli insegnamenti impartiti dalla scuola nei tre anni sono i seguenti:   
-1° Anno:   
-farmacologia generale;   
-farmacologia sistematica I;   
-farmacologia sperimentale I;   
-statistica;   
-tossicologia e teratologia;   
-animali da sperimentazione (semestrale);   
-farmacocinetica (semestrale).   
-2° Anno:   
-farmacologia sistematica II;   
-farmacologia sperimentale II;   
-farmacologia molecolare;   
-farmacologia biochimica;   
-caratteristiche delle forme farmaceutiche;   
-chemioterapia (annuale);   
-immuno-farmacologia (semestrale).   
-3° Anno:   
-progettazione di farmaci;   
-farmacoterapia;   
-valutazione clinica dei farmaci;   
-neuropsicofarmacologia (semestrale);   
-endocrinologia (semestrale).   
-I corsi saranno accompagnati da dimostrazioni ed esercitazioni pratiche e saranno integrati da seminari su argomenti di particolare attualita'.   
-In aggiunta agli insegnamenti sopra indicati gli iscritti alla scuola dovranno seguire ogni anno un corso universitario scelto su parere del consiglio direttivo della scuola, al fine di colmare eventuali lacune derivanti dal tipo di laurea conseguita; sul corso seguito gli iscritti alla scuola dovranno sostenere un colloquio.   
-Art. 314. - Alla fine di ogni anno gli iscritti dovranno sostenere un esame vertente sugli insegnamenti impartiti dalla scuola in quell'anno, di fronte ad una commissione formata da professori incaricati dei corsi e presieduta dal direttore della scuola.   
-Art. 315. - La facolta' si riserva di attivare il corso del 1° anno in funzione del numero di coloro che hanno presentato domanda d'iscrizione (minimo 10).   
-Gli altri due corsi verranno comunque attivati qualunque sia il numero degli iscritti.   
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 25, 27, 30, 31, 33, 36 e 40, relativi al corso di laurea in scienze politiche, sono modificati nel modo seguente:  
+Art. 25 - e' integrato con il seguente ultimo comma:  
+"Il consiglio di facolta' puo' derogare alla norma di cui al comma precedente nel caso di studenti provenienti da altre facolta' o gia' laureati".  
+Art. 27 - e' abrogato e sostituito dal seguente:  
+"Lo studente e' tenuto a seguire i corsi con durata biennale ed a superare i relativi esami in due lingue straniere moderne. Una di queste deve essere l'inglese o il francese; l'altra e' a scelta dello studente, con preferenza per quelle insegnate nella facolta'. La frequenza del corso di lingua inglese o di lingua francese deve aver luogo nel biennio propedeutico".  
+Art. 30 - e' abrogato e sostituito dal seguente:  
+"Lo studente deve seguire i corsi e superare gli esami di almeno dieci materie indicate nell'elenco predisposto dalla facolta' per ciascun indirizzo. Di questi corsi non piu' di sette e non meno di quattro sono stabiliti nel piano ufficiale della facolta' come obbligatori; gli altri sono a scelta dello studente nell'ambito dei restanti insegnamenti del suddetto elenco".  
+Art. 31 - e' abrogato e sostituito dal seguente:  
+"Il consiglio di facolta' prima dell'inizio di ciascun anno accademico predispone il piano di studi ufficiale che fissa gli insegnamenti, distribuiti per l'anno di corso.  
+Comunque, a norma delle vigenti leggi gli studenti possono presentare motivati piani di studio individuali, divisi per anno di corso e contenenti un numero di insegnamenti pari a quello indicato nel piano ufficiale.  
+Tali piani, ove approvati dal consiglio di facolta', sostituiscono a tutti gli effetti il piano ufficiale".  
+Art. 33 - all'elenco degli insegnamenti complementari del corso di laurea in scienze politiche sono aggiunti i seguenti:  
+analisi del linguaggio politico;  
+demografia storica;  
+diritto commerciale internazionale;  
+diritto degli enti locali;  
+economia internazionale;  
+governo locale;  
+matematiche per le scienze sociali;  
+politica economica regionale;  
+politica economica internazionale;  
+sistemi economici comparati;  
+storia dell'America latina;  
+storia delle istituzioni sociali e politiche;  
+storia dei movimenti sindacali;  
+storia del movimento operaio;  
+storia delle dottrine sociali;  
+storia moderna e contemporanea dell'Asia;  
+storia moderna contemporanea del sub-continente indiano;  
+geografia sociale;  
+sociologia della conoscenza;  
+sociologia dell'educazione;  
+sociologia delle comunicazioni di massa.  
+Lo stesso elenco e' modificato nel senso che l'insegnamento complementare di "Storia moderna e contemporanea dell'Asia centrale" muta la denominazione in quella di "Storia moderna e contemporanea dell'Iran e dell'Asia centrale".  
+Art. 36 - e' abrogato e sostituito dal seguente:  
+"Superato l'esame di laurea lo studente consegue il titolo di dottore in scienze politiche con l'indicazione dell'indirizzo prescelto".  
+Art. 40 - e' abrogato e sostituito dal seguente:  
+"L'esame di laurea consiste in una dissertazione scritta su un tema scelto dal candidato nell'ambito delle materie dell'indirizzo seguito e di quelle del biennio propedeutico direttamente connesse e nella discussione della stessa. La relativa comunicazione alla segreteria della facolta' deve aver luogo almeno sei mesi prima della sessione di esame".  
+Dopo l'art. 62, e con lo spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo agli istituti annessi alla facolta' di medicina e chirurgia:  
+Art. 63. - Alla facolta' di medicina e chirurgia sono annessi i seguenti istituti:  
+anatomia ed istologia patologica;  
+anatomia umana normale;  
+antropologia criminale;  
+biologia generale e genetica medica;  
+chimica biologica;  
+chirurgia vascolare;  
+clinica chirurgica generale e terapia chirurgica;  
+clinica delle malattie infettive;  
+clinica delle malattie nervose e mentali;  
+clinica dermosifilopatica;  
+clinica medica generale e terapia medica I;  
+clinica medica generale e terapia medica II;  
+clinica neurochirurgica;  
+clinica oculistica;  
+clinica odontoiatrica;  
+clinica ortopedica;  
+clinica ostetrica e ginecologica;  
+clinica otorinolaringoiatrica;  
+clinica pediatrica;  
+clinica psichiatrica;  
+clinica tisiologica e delle malattie dell'apparato respiratorio;  
+farmacologia I;  
+farmacologia II;  
+fisiologia umana;  
+gerontologia e geriatria;  
+idrologia medica;  
+igiene;  
+istologia ed embriologia generale;  
+medicina del lavoro;  
+medicina legale delle assicurazioni;  
+medicina preventiva dei lavoratori e psicotecnica;  
+microbiologia;  
+patologia generale;  
+patologia speciale chirurgica e propedeutica clinica;  
+patologia speciale medica e metodologia clinica I;  
+radiologia e terapia fisica;  
+semeiotica chirurgica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1978
+### Dato a Roma, addi' 31 ottobre 1977
 
-PERTINI PEDINI
+LEONE MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 23 aprile 1979
+Registrato alla Corte dei conti, addi' 9 ottobre 1978
 
-Registro n. 27 Istruzione, foglio n. 28
+Registro n. 109 Istruzione, foglio n. 190

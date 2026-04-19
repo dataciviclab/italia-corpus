@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1966 n. 455
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 886
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1966 n. 455
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 886
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,83 +20,90 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Veduto il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 26, relativo alle propedeuticita' di esami per il corso di laurea in scienze politiche, e' modificato nel senso che e' aggiunta la seguente propedeuticita':
-
-c) "le Istituzioni di diritto pubblico rispetto alle Istituzioni di diritto e procedura penale".
-
-Art. 116, agli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di:
-
-Neuropsichiatria infantile;
-
-Chirurgia d'urgenza;
-
-Istochimica normale e patologica.
-
-L'insegnamento complementare di "Anestesiologia" muta denominazione in quello di "Anestesiologia e rianimazione".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 13 maggio 1966
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 24 giugno 1966 Atti del Governo, registro n. 203, foglio n. 166. - VILLA.
+Lo statuto dell'Universita' di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Nell'art. 66, relativo al biennio di specializzazione del corso di laurea in scienze politiche, all'elenco degli insegnamenti a scelta dello studente per l'indirizzo politico-sociale e' aggiunto il seguente nuovo insegnamento:  
+economia e politica agraria.  
+
+Art. 2
+------
+
   
-Decreta:  
+Nell'art. 173, relativo all'elenco degli insegnamenti complementari del corso di laurea in fisica, e' aggiunto il seguente nuovo insegnamento:  
+didattica della fisica.  
+
+Art. 3
+------
+
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 26, relativo alle propedeuticita' di esami per il corso di laurea in scienze politiche, e' modificato nel senso che e' aggiunta la seguente propedeuticita':  
-c) "le Istituzioni di diritto pubblico rispetto alle Istituzioni di diritto e procedura penale".  
-Art. 116, agli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di:  
-Neuropsichiatria infantile;  
-Chirurgia d'urgenza;  
-Istochimica normale e patologica.  
-L'insegnamento complementare di "Anestesiologia" muta denominazione in quello di "Anestesiologia e rianimazione".  
+Nell'art. 188, relativo al corso di laurea in scienze biologiche, sono aggiunti i seguenti nuovi insegnamenti:  
+citochimica ed istochimica;  
+citologia ed istologia.  
+
+Art. 4
+------
+
+  
+Nell'art. 99, relativo al corso di laurea in lettere, allo elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+didattica del latino;  
+letteratura teatrale italiana;  
+agiografia;  
+filologia italiana;  
+letteratura del Rinascimento;  
+storia economica e sociale del Medioevo.  
+
+Art. 5
+------
+
+  
+Nell'art. 232, relativo all'elenco degli insegnamenti complementari dei corsi di laurea in ingegneria, sono aggiunti i nuovi seguenti insegnamenti:  
+conversione statica dell'energia;  
+elettronica industriale;  
+strutture aeromissilistiche.  
+
+Art. 6
+------
+
+  
+Nell'art. 129, relativo al corso di laurea in medicina e chirurgia della prima facolta' di medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+tossicologia industriale.  
+Nell'art. 153, relativo al corso di laurea in medicina e chirurgia della seconda facolta' di medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+otorinolaringoiatria pediatrica.  
+
+Art. 7
+------
+
+  
+Nell'art. 22, relativo al corso di laurea in giurisprudenza, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
+diritto dell'esecuzione penale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 maggio 1966
+### Dato a Roma, addi' 26 aprile 1983
 
-SARAGAT GUI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 24 giugno 1966
+Registrato alla Corte dei conti, addi' 30 gennaio 1984
 
-Atti del Governo, registro n. 203, foglio n. 166. - VILLA.
+Registro n. 4 Istruzione, foglio n. 382

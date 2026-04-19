@@ -1,194 +1,86 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 luglio 1969 n. 606
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 796
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 luglio 1969 n. 606
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 796
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successiva modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare la nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla
------
-
-proposta del Ministro per la pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Presso l'Universita' degli studi di Torino e' istituita la facolta' di scienze politiche.  
-L'attuale corso di laurea in scienze politiche, annesso alla facolta' di giurisprudenza della stessa universita', passa a far parte della nuova facolta' di scienze politiche.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Per tale facolta' sono assegnati i seguenti posti di ruolo:  
-a) cinque posti di professore, mediante trasferimento dall'organico della facolta' di giurisprudenza della stessa Universita' di Torino di due, posti di ruolo statale, e propriamente il posto assegnato alla cattedra di filosofia della politica e di un posto vacante, nonche' con l'assegnazione dei posti convenzionati di storia moderna (convenzione di cui al [decreto del Presidente della Repubblica 11 giugno 1965, n. 1046](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-06-11;1046)), di storia delle dottrine politiche (convenzione di cui al [decreto del Presidente della Repubblica 14 gennaio 1958, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1958-01-14;12)), di politica economica e finanziaria (convenzione di cui al [decreto del Presidente della Repubblica 30 giugno 1962, n. 1271](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-06-30;1271)) della stessa facolta' di giurisprudenza.  
-I titolari dei predetti posti di professore di ruolo di filosofia della politica, di storia moderna, di storia delle dottrine politiche, di politica economica e finanziaria sono contemporaneamente trasferiti alla stessa facolta' di scienze politiche;  
-b) cinque posti di assistente mediante trasferimento dall'organico di cui e' dotata la facolta' di giurisprudenza della stessa Universita' di Torino e propriamente i posti assegnati alle cattedre di storia moderna, di politica economica e finanziaria, di dottrina dello Stato, di storia delle dottrine politiche (2).  
-
-Art. 3
-------
-
+Decreta:  
   
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 75. - E' abrogato e sostituito dal seguente: "La facolta' di farmacia conferisce la laurea in farmacia e la laurea in chimica e tecnologia farmaceutiche".  
+Dopo l'art. 81 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente nuovo articolo relativo all'istituzione del corso di laurea in chimica e tecnologia farmaceutiche annesso alla facolta' di farmacia.  
   
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come dal testo annesso al presente decreto - vistato dal Ministro per la pubblica istruzione - contenente le norme relative all'ordinamento del corso di studi per il conseguimento della laurea in scienze politiche.   
+Laurea in chimica e tecnologia farmaceutiche  
+  
+Art. 82. - Durata del corso degli studi: cinque anni, divisi in un biennio ed un triennio.  
+Titolo di ammissione: diploma di maturita' classica o scientifica.  
+Insegnamenti fondamentali:  
+Biennio:  
+1) analisi chimico farmaceutica I (analisi qualitativa);  
+(\*) 2) anatomia umana;  
+(\*) 3) botanica farmaceutica;  
+(\*) 4) chimica fisica;  
+(\*) 5) chimica generale ed inorganica;  
+(\*\*) 6) chimica organica I;  
+(\*) 7) fisica;  
+8) fisiologia generale;  
+(\*) 9) istituzioni di matematiche;  
+10) microbiologia e igiene.  
+Triennio:  
+11) analisi chimico farmaceutica II (analisi quantitativa);  
+12) analisi chimico farmaceutica 111 (analisi dei medicamenti); (\*) 13) biochimica applicata;  
+(\*) 14) chimica biologica;  
+(\*) 15) chimica degli alimenti;  
+(\*) 16) chimica farmaceutica applicata;  
+(\*) 17) chimica farmaceutica e tossicologia I;  
+(\*) 18) chimica farmaceutica e tossicologica II;  
+(\*\*) 19) chimica organica II;  
+(\*) 20) farmacologia e farmacognosia;  
+21) impianti dell'industria farmaceutica;  
+22) laboratorio di preparazione estrattiva e sintetica dei farmaci;  
+23) metodi fisici in chimica organica;  
+24) saggi e dosaggi farmacologici;  
+(\*) 25) tecnica e legislazione farmaceutica.  
+Insegnamenti complementari:  
+(\*) chimica delle fermentazioni e microbiologia industriale;  
+chimica delle sostanze organiche naturali;  
+(\*\*) complementi di chimica tossicologica;  
+(\*) microchimica;  
+chimica dei prodotti dietetici;  
+chimica dei prodotti cosmetici.  
+Le materie segnate con un asterisco sono comuni alla laurea in farmacia; quelle segnate con due asterischi sono comuni alla laurea in chimica.  
+Per ottenere l'iscrizione al terzo anno di corso, lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per i due precedenti.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato tutti gli esami dei corsi fondamentali e almeno due esami a scelta fra i corsi complementari.  
+La prova di laurea comporta la discussione di una tesi sperimentale.  
+  
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 luglio 1969
+### Dato a Roma, addi' 5 giugno 1968
 
-SARAGAT FERRARI AGGRADI
+SARAGAT GUI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 8 settembre 1969
+Registrato alla Corte dei conti, addi' 17 luglio 1968
 
-Atti del Governo, registro n. 229, foglio n. 13. - CARUSO
-
-allegato
-
-Testo delle modifiche dello statuto dell'Universita' di Torino relativo alla istituzione della facolta' di scienze politiche   
-  
-Art. 1. - All'elenco delle facolta' che comprende l'Universita' di Torino e' aggiunta la seguente:   
-Facolta' di scienze politiche.   
-Art. 8. - E' abrogato e sostituito dal seguente:   
-La facolta' di giurisprudenza conferisce la laurea in giurisprudenza.   
-Gli articoli 15 e 16 relativi agli istituti della facolta' di giurisprudenza assumono la numerazione di 12 e 13. Nell'art. 12 (ex art. 15) e' cancellato l'istituto di scienze politiche che passa a far parte della facolta' di scienze politiche.   
-Gli ex articoli 12, 13, 14, sono abrogati e sostituiti dai seguenti con il conseguente spostamento della successiva numerazione.   
-Sezione II   
-Facolta' di scienze politiche   
-Art. 12. - La facolta' di scienze politiche conferisce la laurea in scienze politiche.   
-Art. 13. - La durata del corso di studi per la laurea in scienze politiche e' di quattro anni. Titolo di ammissione e' il diploma di maturita' classica o scientifica.   
-Il corso di studi comprende un biennio propedeutico e un biennio di specializzazione ordinato secondo i seguenti indirizzi:   
-a) politico-economico;   
-b) politico-internazionale;   
-c) politico-sociale;   
-d) storico-politico.   
-Il biennio propedeutico comprende nove insegnamenti obbligatori che sono:   
-1) Diritto costituzionale italiano e comparato;   
-2) Economia politica;   
-3) Filosofia della politica;   
-4) Istituzioni di diritto pubblico;   
-5) Politica economica e finanziaria;   
-6) Sociologia;   
-7) Statistica;   
-8) Storia delle dottrine politiche;   
-9) Storia moderna.   
-Lo studente potra' aggiungere ai nove insegnamenti del biennio propedeutico non piu' di tre degli insegnamenti obbligatori del biennio di speclalizzazione indicati nel presente statuto, a seconda dell'indirizzo prescelto. Tali insegnamenti, anticipati al biennio propedeutico vanno in detrazione del numero degli insegnamenti del biennio di specializzazione. Gli insegnamenti a scelta dello studente non possono venire anticipati al biennio propedeutico.   
-Alcuni insegnamenti possono essere mutuati da quelli impartiti in altre facolta' o corsi di laurea.   
-Nel biennio di specializzazione quattro insegnamenti saranno obbligatori per ciascun indirizzo. Essi sono:   
-a) per l'indirizzo politico-economico:   
-1) Dinamica economica;   
-2) Economia politica II;   
-3) Politica economica II;   
-4) Scienza delle finanze;   
-b) per l'indirizzo politico-internazionale:   
-1) Istituzioni di diritto e procedura penale;   
-2) Istituzioni di diritto privato italiano e comparato;   
-3) Diritto internazionale pubbiico;   
-4) Relazioni internazionali;   
-c) per l'indirizzo politico-sociale:   
-1) Scienza della politica;   
-2) Metodologia delle scienze sociali;   
-3) Sociologia II;   
-4) Storia del pensiero sociologico;   
-d) per l'indirizzo storico-politico:   
-1) Metodologia della ricerca storica;   
-2) Storia contemporanea;   
-3) Storia economica;   
-4) Storia moderna II.   
-Per ciascuno degli indirizzi la facolta' dovra' inoltre predisporre all'inizio di ogni anno accademico un elenco di non meno di otto e di non piu' di undici insegnamenti annuali. Nell'ambito di detti elenchi lo studente dovra' sciegliere almeno sei materie delle quali sara' obbligato a frequentare i corsi e a sostenere gli esami. La scelta da parte della facolta' avra' luogo nell'ambito del seguente elenco di materie:   
-1) Antropologia culturale;   
-2) Contabilita' dello Stato e degli enti pubblici;   
-3) Demografia;   
-4) Diritto amministrativo;   
-5) Diritto anglo-americano;   
-6) Diritto commerciale;   
-7) Diritto delle comunita' europee;   
-8) Diritto diplomatico e consolare;   
-9) Diritto finanziario;   
-10) Diritto internazionale privato;   
-11) Diritto del lavoro;   
-12) Diritto regionale;   
-13) Dottrina dello Stato;   
-14) Econometria;   
-15) Economia aziendale;   
-16) Economia internazionale;   
-17) Economia monetaria;   
-18) Economia e politica agraria;   
-19) Economia e politica industriale;   
-20) Economia e politica del territorio;   
-21) Geografia e politica economica;   
-22) Matematica economica;   
-23) Metodologia della ricerca storica;   
-24) Metodologia delle scienze sociali;   
-25) Organizzazione internazionale;   
-26» Programmazione economica;   
-27) Psicologia sociale;   
-28» Scienza delle finanze;   
-29) Servizio sociale;   
-30) Sociologia delle comunicazioni;   
-31) Sociologia della conoscenza;   
-32) Sociologia del diritto;   
-33) Sociologia dell'educazione;   
-34) Sociologia della famiglia;   
-35) Sociologia industriale;   
-36) Sociologia del lavoro;   
-37) Sociologia matematica e sociometrica;   
-38) Sociologia dell'organizzazione;   
-39) Sociologia religiosa;   
-40» Sociologia urbana e rurale;   
-41) Statistica economica;   
-42) Storia dell'America settentrionale;   
-43) Storia dell'America latina;   
-44) Storia antica;   
-45) Storia della Chiesa;   
-46) Storia e istituzioni dell'Africa   
-47) Storia e istituzioni dell'Asia;   
-48) Storia e istituzioni dell'Islam;   
-49) Storia del diritto italiano;   
-50) Storia dei diritti dell'antichita';   
-51) Storia economica dell'Italia unita;   
-52) Storia del giornalismo;   
-53) Storia delle dottrine economiche;   
-54) Storia delle dottrine politiche;   
-55» Storia medioevale;   
-56) Storia dei popoli slavi;   
-57) Storia dei movimenti sindacali;   
-58) Storia dei partiti e dei movimenti politici;   
-59) Storia del pensiero politico contemporaneo;   
-60) Storia del pensiero politico classico;   
-61) Storia del pensiero politico medioevale;   
-62» Storia dei rapporti tra Stato e Chiesa;   
-63) Teoria e politica dello sviluppo.   
-Art. 14. - Per essere ammesso all'esame di laurea lo studente dovra' aver seguito i corsi e superato gli esami relativi ad almeno diciannove e a non piu' di ventiquattro corsi annuali, e inoltre quelli relativi a due lingue straniere. Nel caso che la facolta' decida di istituire corsi semestrali o trimestrali, ai fini del computo predetto, due corsi semestrali oppure tre corsi trimestrali equivarranno ad un corso annuale.   
-La scelta delle lingue straniere non e' vincolata ai singoli indirizzi. Almeno una di esse deve essere il francese o d'inglese o il russo; per l'altra lingua e' consentita la scelta tra quelle effettivamente insegnate nell'ateneo.   
-Art. 15. - Superato l'esame di laurea lo studente consegue il titolo di dottore in scienze politiche; il relativo diploma rechera' l'indicazione dell'indirizzo prescelto.   
-Art. 16. - Per il laureato in corsi diversi da quelli in scienze politiche, la facolta' deliberera' caso per caso: l'anno di corso cui potranno essere iscritti; il numero minimo degli insegnamenti che dovranno seguire, sostenendo il relativo esame; quali tra questi saranno obbligatori, tenuto conto degli studi compiuti, degli esami superati e dell'indirizzo prescelto. Analoga deliberazione verra' presa dalla facolta' per il passaggio dall'uno all'altro indirizzo.   
-Art. 17. - E' annesso alla facolta' di scienze politiche l'istituto di scienze politiche, esso e' retto da apposito regolamento e i suoi organi direttivi sono nominati a termini dell'art. 23 del regolamento generale universitario.   
-  
-Visto, d'ordine del Presidente della Repubblica   
-Il Ministro per la pubblica istruzione   
-FERRARI - AGGRADI   
+Atti del Governo, registro n. 221, foglio n. 36. - GRECO

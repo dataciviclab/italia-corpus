@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 1037
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1985 n. 659
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 1037
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1985 n. 659
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -39,19 +39,23 @@ Articolo unico
 --------------
 
   
-Nell'art. 57, relativo al corso di lingue e letterature straniere, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-metodologia della critica delle arti.  
+Nell'art. 78, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+medicina d'urgenza;  
+chirurgia oncologica;  
+gastroenterologia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 giugno 1983
+### Dato a Roma, addi' 12 giugno 1985
 
-PERTINI FALCUCCI
+PERTINI
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 29 febbraio 1984
+Registrato alla Corte dei conti, addi' 9 novembre 1985
 
-Registro n. 13 Istruzione, foglio n. 93
+Registro n. 74 Istruzione, foglio n. 127

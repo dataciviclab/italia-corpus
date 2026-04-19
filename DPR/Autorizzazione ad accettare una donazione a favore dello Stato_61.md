@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 272
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 marzo 1983 n. 302
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 272
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 marzo 1983 n. 302
+============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-272. Decreto del Presidente della Repubblica 26 aprile 1983, col quale, sulla proposta del Ministro della difesa, il Ministero della difesa viene autorizzato ad accettare la donazione a favore dello Stato, consistente nel panfilo "Caroly" GE-70, disposta dai fratelli Mario, Alberto e Cesare Preve con atto 25 novembre 1982, n. 77055 di repertorio, a rogito dott. Ottavio Ferrando, notaio in Sestri Levante (Genova), registrato a Chiavari (Genova) in data 29 novembre 1982, al n. 3194, da destinare all'addestramento degli allievi dell'Accademia navale di Livorno.  
+302. Decreto del Presidente della Repubblica 21 marzo 1983, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione a favore dello Stato della donazione, consistente nel complesso monumentale denominato "Oratorio Madonna delle nevi" sito in Siena, disposta dai signori Cinughi de Pazzi con atto pubblico 30 ottobre 1981, n. 28449 di repertorio, a rogito dott.  
+Alberto Bartalini Bigi, notaio in Siena.  
   
 Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 27 maggio 1983  
-Registro n. 19 Difesa, foglio n. 155
+Registrato alla Corte dei conti, addi' 17 giugno 1983  
+Registro n. 32 Finanze, foglio n. 166

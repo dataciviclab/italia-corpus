@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1976 n. 433
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 861
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1976 n. 433
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 861
+================================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-433. Decreto del Presidente della Repubblica 2 aprile 1976, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione disposta a favore dello Stato dall'ente ospedaliero "Ospedale civile di Piacenza" e dall'ente morale "Ospizi civili di Piacenza" con atto 14 aprile 1975, n. 40605 di repertorio, a rogito dott. Alberto Vullo, notaio in Piacenza, del complesso monumentale sito in Alseno (Piacenza), denominato ex monastero di Chiaravalle, ivi compreso il chiostro, con esclusione del terreno agricolo entrostante il muro di cinta.  
+861. Decreto del Presidente della Repubblica 22 settembre 1981, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato consistente in un terreno della superficie di are trenta e centiare novantatre, sul quale insistono i ruderi dell'antica citta' di Megara Hyblaea, in comune di Augusta (Siracusa), disposta dalla Scuola francese di Roma con atto 17 dicembre 1963, n. 62628 di repertorio, a rogito dott. Giuseppe Adorno, notaio in Siracusa.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 16 giugno 1976  
-Atti di Governo, registro n. 6, foglio n. 79
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 12 gennaio 1982  
+Registro n. 2 Finanze, foglio n. 129

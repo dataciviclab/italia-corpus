@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1953 n. 1276
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 novembre 1967 n. 1490
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1953 n. 1276
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 novembre 1967 n. 1490
+================================================================
 
 Istituzione di istituti tecnici industriali.
 --------------------------------------------
@@ -10,13 +10,19 @@ Istituzione di istituti tecnici industriali.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Vista la [legge 15 giugno 1931, n. 889](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento della istruzione tecnica;
+Vista la [legge 15 giugno 1931, n. 889](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento della istruzione media tecnica;
 
 Visto il [regio decreto 3 marzo 1934, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383), che approva il testo unico della legge comunale e provinciale;
 
-Visto l'[art. 9 del regio decreto-legge 21 settembre 1938, n. 2038](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-21;2038~art9), convertito nella [legge 2 giugno 1939, n. 739](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739);
+Visto il [regio decreto-legge 21 settembre 1938, numero 2038](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-21;2038), convertito nella [legge 2 giugno 1939, n. 739](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739), contenente, tra l'altro, norme sull'ordinamento degli istituti di istruzione tecnica;
 
-Ritenuto che occorre regolarizzare formalmente il funzionamento degli Istituti tecnici industriali gia' in atto, per ragioni di servizio, con i relativi organici, dal 10 ottobre 1952;
+Visto il [decreto del Presidente della Repubblica 30 settembre 1961, n. 1222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-09-30;1222), relativo agli orari e ai programmi di insegnamento negli istituti tecnici;
+
+Vista la [legge 22 novembre 1961, n. 1282](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-11-22;1282), sul riordinamento dei servizi di vigilanza contabile e delle carriere del personale non insegnante delle scuole e degli istituti di istruzione tecnica e professionale e dei convitti annessi;
+
+Visto il [decreto del Presidente della Repubblica 3 maggio 1964, n. 506](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1964-05-03;506), relativo all'approvazione delle materie e dei gruppi di materie per gli istituti tecnici industriali;
+
+Vista la [legge 3 novembre 1964, n. 1122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-11-03;1122), contenente, tra l'altro, nuove norme sull'orario degli insegnanti tecnico-pratici con effetto 1 ottobre 1964;
 
 Sulla
 -----
@@ -27,61 +33,241 @@ Art. 1
 ------
 
   
-A decorrere dal 1 ottobre 1952, sono istituiti:  
-a) l'indirizzo specializzato per "chimici industriali" presso l'Istituto tecnico industriale statale di Cagliari, istituito con [decreto del Capo provvisorio dello Stato 3 maggio 1947, n. 1637](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-05-03;1637);  
-b) l'indirizzo specializzato per "radiotecnici" presso l'Istituto tecnico industriale statale di Chieti, istituito con [regio decreto 17 settembre 1936, n. 1932](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-09-17;1932).  
-Nella tabella A annessa al presente decreto, firmata, d'ordine del Presidente della Repubblica, dai Ministri per la pubblica istruzione e da quello per il tesoro, sono indicati i posti di ruolo relativi ai suddetti indirizzi specializzati.  
+A decorrere dal 1 ottobre 1967 sono istituiti i seguenti istituti tecnici industriali:  
+1) Arpino (Frosinone) per la chimica industriale;  
+2) Augusta (Siracusa) per l'elettrotecnica e la meccanica;  
+3) Bitonto (Bari) per la meccanica;  
+4) Carate Brianza (Milano) per le industrie metalmeccaniche;  
+5) Casarano (Lecce) per la meccanica;  
+6) Cassino (Frosinone) per la meccanica;  
+7) Colleferro (Roma) per la chimica industriale;  
+8) Desio (Milano) per l'elettrotecnica e la meccanica;  
+9) Firenze per la meccanica;  
+10) Frascati (Roma) per l'energia nucleare;  
+11) Lauria (Potenza) per la meccanica;  
+12) Milazzo (Messina) per l'elettrotecnica;  
+13) Roma per l'elettrotecnica e la meccanica - IX istituto;  
+14) Roma per l'elettrotecnica e la meccanica - X Istituto;  
+15) Roma per l'elettrotecnica - XI istituto;  
+16) Salerno per la chimica industriale - II Istituto;  
+17) S. Giovanni Rotondo (Foggia) per l'elettrotecnica;  
+18) Velletri (Roma) per l'elettronica industriale.  
+Gli istituti predetti, ai sensi dell'[art. 3 della legge 15 giugno 1931, n. 889](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889~art3), sono riconosciuti come enti dotati di personalita' giuridica e di autonomia nel loro funzionamento e sono sottoposti alla vigilanza del Ministero della pubblica istruzione.  
 
 Art. 2
 ------
 
   
-A decorrere dalla stessa data e' soppressa la scuola tecnica industriale annessa all'Istituto tecnico industriale statale "Omar" di Novara.  
-Sono di conseguenza soppressi tutti i posti di ruoli e non di ruolo previsti per della scuola, dalla tabella organica del suddetto Istituto approvata con [regio decreto 1 maggio 1941, n. 610](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-05-01;610).  
+I posti di ruolo e quelli da conferire per incarico sono indicati, per ciascuno degli istituti di cui all'art. 1, nella rispettiva tabella organica annessa al presente decreto, firmata, d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione e da quello per il tesoro.  
 
 Art. 3
 ------
 
   
-Alle istituzioni di cui al precedente art. 1 si applicano le norme stabilite dagli [articoli 7](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-21;2038~art7) e [8 del regio decreto-legge 21 settembre 1938, n. 2038](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-21;2038~art8), convertito nella [legge 2 giugno 1939, n. 739](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739).  
-I contributi a carico dello Stato per gli indirizzi specializzati di cui al precedente art. 1 sono fissati nella misura indicata nella tabella B annessa al presente decreto, firmata, d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione e da quello per il tesoro.  
+Con la stessa decorrenza di cui all'art. 1 presso l'istituto tecnico industriale "G. Galilei" di Salerno e' soppressa la specializzazione per la chimica industriale. Di conseguenza l'istituto stesso resta ordinato con le specializzazioni per l'elettrotecnica e la meccanica, secondo quanto indicato nella tabella organica annessa al presente decreto, firmata, d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione e da quello per il tesoro.  
 
 Art. 4
 ------
 
   
-Alla spesa derivante dall'attuazione del presente decreto verra' fatto fronte con i normali stanziamenti di bilancio previsti per le nuove istituzioni di scuole e istituti di istruzione tecnica per l'anno 1952-53.  
+I contributi annui a carico dello Stato per il mantenimento degli istituti di cui agli articoli 1 e 3 sono stabiliti nella misura di cui alla tabella A annessa al presente decreto, firmata, d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione e da quello per il tesoro.  
+La spesa derivante dall'applicazione del presente decreto gravera' sui capitoli 2007, 2035 e 2037 del bilancio del Ministero della pubblica istruzione per l'esercizio finanziario 1967 e sui capitoli corrispondenti degli esercizi finanziari successivi.  
+Ai sensi dell'art. 144, lettera E, n. 3 del [regio decreto 3 marzo 1934, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383), la somministrazione, la manutenzione, il riscaldamento, la illuminazione e la provvista di acqua dei locali occorrenti agli istituti di cui all'articolo 1 sono a carico delle amministrazioni provinciali competenti. Qualora altri enti assumano volontaria mente gli oneri di cui al presente comma, le amministrazioni provinciali sono tenute a garantire con apposita delibera l'adempimento da parte di tali enti.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 maggio 1953
+### Dato a Roma, addi' 14 novembre 1967
 
-EINAUDI SEGNI - SCELBA - PELLA
+SARAGAT GUI - TAVIANI - COLOMBO
 
-Visto, il Guardasigilli: DE PIETRO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 14 luglio 1954
+Registrato alla Corte dei conti, addi' 5 aprile 1968
 
-Atti del Governo, registro n. 84, foglio n. 92. - CARLOMAGNO
+Atti del Governo, reg. n. 218, foglio n. 116. - GRECO
 
-Tabelle
+Tabelle-Tabella 1
+
+ TABELLA 1   
+  
+Tabella organica degli Istituti tecnici industriali statali di Arpino e Colleferro   
+  
+Numero dei corsi: 2 per la chimica industriale   
+  
+  
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U149000100010110001&dgu=1968-04-17&art.dataPubblicazioneGazzetta=1968-04-17&art.codiceRedazionale=067U1490)
+  
+
+Tabelle-Tabella 2
+
+ TABELLA 2   
+  
+Tabella organica dell'Istituto tecnico industriale statale di Augusta   
+  
+  
+|2 per l'elettrotecnica  
+Numero dei corsi: 3 |  
+|1 per la meccanica  
+  
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U149000100020110001&dgu=1968-04-17&art.dataPubblicazioneGazzetta=1968-04-17&art.codiceRedazionale=067U1490)
+  
+
+Tabelle-Tabella 3
+
+ TABELLA 3   
+  
+Tabella organica degli Istituti tecnici industriali statali di Bitonto; Casarano; Cassino; Firenze; Lauria   
+  
+Numero dei corsi: 2 per la meccanica   
+  
+  
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U149000100030110001&dgu=1968-04-17&art.dataPubblicazioneGazzetta=1968-04-17&art.codiceRedazionale=067U1490)
+  
+
+Tabelle-Tabella 4
+
+ TABELLA 4   
+  
+Tabella organica dell'Istituto tecnico industriale statale di Carate Brianza   
+  
+Numero dei corsi: 1 per le industrie metalmeccaniche   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U149000100040110001&dgu=1968-04-17&art.dataPubblicazioneGazzetta=1968-04-17&art.codiceRedazionale=067U1490)
+  
+
+Tabelle-Tabella 5
+
+ TABELLA 5   
+  
+Tabella organica degli Istituti tecnici industriali statali di Desio;   
+Roma "IX Istituto"; Roma "X Istituto"   
+  
+  
+|1 per l'elettrotecnica  
+Numero dei corsi: 2 |  
+|1 per la meccanica  
+  
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U149000100050110001&dgu=1968-04-17&art.dataPubblicazioneGazzetta=1968-04-17&art.codiceRedazionale=067U1490)
+  
+
+Tabelle-Tabella 6
+
+ TABELLA 6   
+  
+Tabella organica dell'Istituto tecnico industriale statale di Frascati   
+  
+Numero dei corsi: 3 per l'energia nucleare   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U149000100060110001&dgu=1968-04-17&art.dataPubblicazioneGazzetta=1968-04-17&art.codiceRedazionale=067U1490)
+  
+
+Tabelle-Tabella 7
+
+ TABELLA 7   
+  
+Tabella organica degli Istituti tecnici industriali statali di Milazzo e San Giovanni Rotondo   
+  
+Numero dei corsi: 2 per l'elettrotecnica   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U149000100070110001&dgu=1968-04-17&art.dataPubblicazioneGazzetta=1968-04-17&art.codiceRedazionale=067U1490)
+  
+
+Tabelle-Tabella 8
+
+ TABELLA 8   
+  
+Tabella organica dell'XI Istituto tecnico industriale statale di Roma   
+  
+Numero dei corsi: 1 per l'elettrotecnica   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U149000100080110001&dgu=1968-04-17&art.dataPubblicazioneGazzetta=1968-04-17&art.codiceRedazionale=067U1490)
+  
+
+Tabelle-Tabella 9
+
+ TABELLA 9   
+  
+Tabella organica del II Istituto tecnico industriale statale di Salerno   
+  
+Numero dei corsi: 3 per la chimica industriale   
+  
+  
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U149000100090110001&dgu=1968-04-17&art.dataPubblicazioneGazzetta=1968-04-17&art.codiceRedazionale=067U1490)
+  
+
+Tabelle-Tabella 10
+
+ TABELLA 10   
+  
+Tabella organica dell'Istituto tecnico industriale statale   
+"G. Galilei" di Salerno   
+  
+  
+| 5 per l'elettrotecnica  
+Numero dei corsi: 8 |  
+| 3 per la meccanica  
+  
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U149000100100110001&dgu=1968-04-17&art.dataPubblicazioneGazzetta=1968-04-17&art.codiceRedazionale=067U1490)
+  
+
+Tabelle-Tabella 11
+
+ TABELLA 11   
+  
+Tabella organica dell'Istituto tecnico industriale statale di Velletri   
+  
+Numero dei corsi: 3 per l'elettrotecnica industriale   
+  
+  
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U149000100110110001&dgu=1968-04-17&art.dataPubblicazioneGazzetta=1968-04-17&art.codiceRedazionale=067U1490)
+  
+
+Tabelle-Tabella A
 
  TABELLA A   
   
-Indirizzi specializzati di istituti tecnici industriali, istituiti a decorrere dal 1 ottobre 1952   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=053U127600100010110001&dgu=1954-07-24&art.dataPubblicazioneGazzetta=1954-07-24&art.codiceRedazionale=053U1276)
+Tabella dei contributi annui a carico dello Stato per il funzionamento degli istituti tecnici industriali istituiti dal 1 ottobre 1967   
   
   
   
   
-TABELLA B   
-  
-Prospetto del contributi per il funzionamento degli indirizzi specializzati Istituiti presso gli istituti tecnici industriali statali, a decorrere dal 1 ottobre 1952   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=053U127600100010110002&dgu=1954-07-24&art.dataPubblicazioneGazzetta=1954-07-24&art.codiceRedazionale=053U1276)
+Istituto tecnico industriale di Arpino L. 121.570.000  
+" " " " Augusta " 148.815.000  
+" " " " Bitonto " 112.000.000  
+" " " " Carate Brianza " 73.865.000  
+" " " " Casarano " 112.000.000  
+" " " " Cassino " 117.500.000  
+" " " " Colleferro " 124.025.000  
+" " " " Desio " 116.620.000  
+" " " " Firenze " 124.750.000  
+" " " " Frascati " 156.180.000  
+" " " " Lauria " 108.380.000  
+" " " " Milazzo " 108.160.000  
+" " " " Roma (IX) " 112.995.000  
+" " " " Roma (X) " 129.680.000  
+" " " " Roma (XI) " 78.680.000  
+" " " " "Galilei" di Salerno " 361.860.000  
+" " " " Salerno (II) " 183.245.000  
+" " " " S. Giovanni Rotondo " 108.160.000  
+" " " " Velletri " 154.494.000  
   

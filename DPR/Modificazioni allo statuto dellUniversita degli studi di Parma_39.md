@@ -1,22 +1,77 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 settembre 1971 n. 928
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 settembre 1966 n. 900
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 settembre 1971 n. 928
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 settembre 1966 n. 900
 ================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 82. - All'elenco degli insegnamenti del biennio di Ingegneria - corso ingegneria meccanica - e' aggiunto quello di "Teoria e pratica delle misure".
+
+Art. 149, relativo alla scuola di specializzazione in Clinica delle malattie nervose e mentali e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente: "La scuola ha la durata di tre anni. La iscrizione per ogni anno accademico e' limitata a n. 20 allievi".
+
+Art. 158, relativo alla scuola di specializzazione in Igiene; e' abrogato e sostituito dal seguente: "L'iscrizione alla scuola e' limitata, per ogni anno accademico, a trenta allievi".
+
+Art. 166, relativo alla scuola di specializzazione in Medicina ed igiene scolastica, e' abrogato e sostituito dal seguente: "L'iscrizione alla scuola e' limitata, per ogni anno accademico, a trenta allievi".
+
+Art. 174, relativo alla scuola di specializzazione in Endocrinologia e malattie del ricambio, e' abrogato e sostituito dal seguente: "L'iscrizione alla scuola e' limitata, per ogni anno accademico, a quindici allievi".
+
+Art. 212, relativo alla scuola di specializzazione in Odontoiatria e stomatologia e' modificato nel senso che il secondo comma e' abrogato e sostituito dal seguente:
+
+"Sono ammessi alla scuola i laureati in Medicina e chirurgia e l'iscrizione, per ogni anno accademico, e' limitata a venti allievi".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque, spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 20 settembre 1966
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 27 ottobre 1966 Atti del Governo, registro n. 206, foglio n. 121. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta.  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -24,47 +79,24 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 240, 241, 242, 243, 244, 245, 246, relativi alla scuola di specializzazione in gerontologia e geriatria sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in gerontologia e geriatria  
-  
-Art. 240. - La scuola di specializzazione in gerontologia e geriatria conferisce il diploma di specialista in gerontologia e geriatria. Essa ha la durata di tre anni.  
-Art. 241. - Sono ammessi alla scuola i laureati in medicina e chirurgia.  
-Il numero complessivo degli specializzandi da ammettere alla scuola e' fissato in sessanta allievi, ripartiti in venti allievi per ogni anno di corso.  
-Art. 242. - Le materie di insegnamento sono:  
-1° Anno:  
-1) Biologia della senescenza (annuale);  
-2) Fisiopatologia della senescenza (biennale);  
-3) Semiologia della senescenza (biennale);  
-4) Anatomia patologica (biennale);  
-5) Farmacologia e farmacoterapia (annuale).  
-2° Anno:  
-1) Fisiopatologia della senescenza (biennale);  
-2) Semeiologia della senescenza (biennale);  
-3) Anatomia patologica (biennale);  
-4) Clinica geriatrica e terapia (biennale);  
-5) Chirurgia geriatrica (annuale);  
-6) Radiologia e radioterapia (annuale);  
-7) Neurologia (annuale).  
-3° Anno:  
-1) Clinica geriatrica e terapia (biennale);  
-2) Tecniche di riabilitazione (annuale);  
-3) Psichiatria (annuale);  
-4) Medicina sociale (annuale).  
-Durante il terzo anno sono previste conferenze di aggiornamento sui problemi speciali.  
-Art. 243. - Gli allievi sono tenuti a seguire le lezioni teoriche, le esercitazioni ed i turni di internato stabiliti dal direttore della scuola. Alla fine di ogni anno gli allievi che abbiano ottenuto la prescritta attestazione di frequenza, dovranno sostenere un esame di profitto.  
-Alla fine del triennio gli allievi dovranno presentare una dissertazione scritta e sostenere un esame di diploma.  
+Art. 82. - All'elenco degli insegnamenti del biennio di Ingegneria - corso ingegneria meccanica - e' aggiunto quello di "Teoria e pratica delle misure".  
+Art. 149, relativo alla scuola di specializzazione in Clinica delle malattie nervose e mentali e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente: "La scuola ha la durata di tre anni. La iscrizione per ogni anno accademico e' limitata a n. 20 allievi".  
+Art. 158, relativo alla scuola di specializzazione in Igiene; e' abrogato e sostituito dal seguente: "L'iscrizione alla scuola e' limitata, per ogni anno accademico, a trenta allievi".  
+Art. 166, relativo alla scuola di specializzazione in Medicina ed igiene scolastica, e' abrogato e sostituito dal seguente: "L'iscrizione alla scuola e' limitata, per ogni anno accademico, a trenta allievi".  
+Art. 174, relativo alla scuola di specializzazione in Endocrinologia e malattie del ricambio, e' abrogato e sostituito dal seguente: "L'iscrizione alla scuola e' limitata, per ogni anno accademico, a quindici allievi".  
+Art. 212, relativo alla scuola di specializzazione in Odontoiatria e stomatologia e' modificato nel senso che il secondo comma e' abrogato e sostituito dal seguente:  
+"Sono ammessi alla scuola i laureati in Medicina e chirurgia e l'iscrizione, per ogni anno accademico, e' limitata a venti allievi".  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque, spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 settembre 1971
+### Dato a Roma, addi' 20 settembre 1966
 
-SARAGAT MISASI
+SARAGAT GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 12 novembre 1971
+Registrato alla Corte dei conti, addi' 27 ottobre 1966
 
-Atti del Governo, registro n. 245, foglio n. 19. - CARUSO
+Atti del Governo, registro n. 206, foglio n. 121. - VILLA

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1984 n. 1164
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1982 n. 816
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1984 n. 1164
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1982 n. 816
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Sassari.
 -------------------------------------------------------------------
@@ -39,23 +39,19 @@ Articolo unico
 --------------
 
   
-  
-L'art. 77, concernente l'esame di laurea per il corso di laurea in farmacia e' soppresso e sostituito come segue:   
-Art. 77. - L'esame di laurea in farmacia consiste nella discussione di una dissertazione scritta preferibilmente di natura sperimentale.  
-Detta dissertazione, in triplice copia dattiloscritta, dovra' essere depositata presso la segreteria della facolta' almeno quindici giorni prima dell'esame di laurea.   
+Nell'art. 40, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+oncologia sperimentale.  
   
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1984
+### Dato a Roma, addi' 15 luglio 1982
 
-PERTINI
+PERTINI BODRATO
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DARIDA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 26 ottobre 1982
 
-Registrato alla Corte dei conti, addi' 18 marzo 1985
-
-Registro n. 15 Istruzione, foglio n. 390
+Registro n. 121 Istruzione, foglio n. 45

@@ -1,126 +1,23 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 giugno 1970 n. 628
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1967 n. 60
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 giugno 1970 n. 628
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1967 n. 60
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 122. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in leprologia e dermatologia tropicale.
-
-Dopo l'art. 275 sono inseriti, con il conseguente spostamento della successiva numerazione, i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in leprologia e dermatologia tropicale.
-
-Scuola di specializzazione in leprologia e dermatologia tropicale
-
-Art. 276. - Presso l'istituto di clinica dermosifilopatica dell'Universita' degli studi di Genova e' istituita la scuola di specializzazione in leprologia e dermatologia tropicale allo scopo di conferire una adeguata competenza teorica e pratica ai laureati in medicina e chirurgia i quali intendono conseguire il diploma di specializzazione in leprologia e dermatologia tropicale. La scuola ha sede presso l'istituto di clinica dermosifilopatica ed e' diretta dal titolare della stessa. Il corso della scuola ha la durata di tre anni. Il numero massimo di allievi e' di ventiquattro per l'intero corso di studi.
-
-Art. 277. - L'iscrizione alla scuola e' aperta solo a laureati in medicina e chirurgia. Le norme d'iscrizione, esami, pagamento tasse, ecc. sono analoghe a quelle contemplate negli articoli da 122 a 137 dello statuto dell'Universita' degli studi di Genova.
-
-Art. 278. - Le materie d'insegnamento del corso sono le seguenti:
-
-1° Anno:
-
-Igiene e profilassi;
-
-Microbiologia immunologia;
-
-Parassitologia;
-
-Patologia generale;
-
-Dermatologia;
-
-Leprologia.
-
-2° Anno:
-
-Dermatologia;
-
-Venerologia;
-
-Leprologia;
-
-Clinica ortopedica;
-
-Clinica neuropsichiatrica;
-
-Clinica otorinolaringoiatrica;
-
-Fisiochinesiterapia e chinesi profilassi.
-
-3° Anno:
-
-Dermatologia;
-
-Leprologia;
-
-Clinica malattie infettive tropicali;
-
-Clinica chirurgica correttiva;
-
-Clinica oculistica;
-
-Clinica odontoiatrica;
-
-Fisiochinesiterapia e chinesi profilassi.
-
-Un regolamento interno stabilira' l'orario delle lezioni ed esercitazioni, la frequenza nel reparto per hanseniani e nei laboratori, nonche' i doveri degli specializzandi.
-
-Art. 279. - Al termine di ciascun anno di corso gli allievi sono tenuti a sostenere gli esami sulle materie di insegnamento dell'anno stesso di fronte ad una commissione composta secondo quanto stabilito dall'articolo 134 dello statuto dell'Universita' degli studi di Genova.
-
-In seguito al risultato degli esami la commissione stabilira' la loro idoneita' o meno ad essere ammessi al successivo anno di corso.
-
-Art. 280. - Agli allievi i quali abbiano ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specializzazione in leprologia e dermatologia tropicale.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 23 giugno 1970
-
-SARAGAT
-
-MISASI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 20 agosto 1970 Atti del Governo, registro n. 237, foglio n. 42. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -128,52 +25,28 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 122. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in leprologia e dermatologia tropicale.  
-Dopo l'art. 275 sono inseriti, con il conseguente spostamento della successiva numerazione, i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in leprologia e dermatologia tropicale.  
   
-Scuola di specializzazione in leprologia e dermatologia tropicale  
-  
-Art. 276. - Presso l'istituto di clinica dermosifilopatica dell'Universita' degli studi di Genova e' istituita la scuola di specializzazione in leprologia e dermatologia tropicale allo scopo di conferire una adeguata competenza teorica e pratica ai laureati in medicina e chirurgia i quali intendono conseguire il diploma di specializzazione in leprologia e dermatologia tropicale. La scuola ha sede presso l'istituto di clinica dermosifilopatica ed e' diretta dal titolare della stessa. Il corso della scuola ha la durata di tre anni. Il numero massimo di allievi e' di ventiquattro per l'intero corso di studi.  
-Art. 277. - L'iscrizione alla scuola e' aperta solo a laureati in medicina e chirurgia. Le norme d'iscrizione, esami, pagamento tasse, ecc. sono analoghe a quelle contemplate negli articoli da 122 a 137 dello statuto dell'Universita' degli studi di Genova.  
-Art. 278. - Le materie d'insegnamento del corso sono le seguenti:  
-1° Anno:  
-Igiene e profilassi;  
-Microbiologia immunologia;  
-Parassitologia;  
-Patologia generale;  
-Dermatologia;  
-Leprologia.  
-2° Anno:  
-Dermatologia;  
-Venerologia;  
-Leprologia;  
-Clinica ortopedica;  
-Clinica neuropsichiatrica;  
-Clinica otorinolaringoiatrica;  
-Fisiochinesiterapia e chinesi profilassi.  
-3° Anno:  
-Dermatologia;  
-Leprologia;  
-Clinica malattie infettive tropicali;  
-Clinica chirurgica correttiva;  
-Clinica oculistica;  
-Clinica odontoiatrica;  
-Fisiochinesiterapia e chinesi profilassi.  
-Un regolamento interno stabilira' l'orario delle lezioni ed esercitazioni, la frequenza nel reparto per hanseniani e nei laboratori, nonche' i doveri degli specializzandi.  
-Art. 279. - Al termine di ciascun anno di corso gli allievi sono tenuti a sostenere gli esami sulle materie di insegnamento dell'anno stesso di fronte ad una commissione composta secondo quanto stabilito dall'articolo 134 dello statuto dell'Universita' degli studi di Genova.  
-In seguito al risultato degli esami la commissione stabilira' la loro idoneita' o meno ad essere ammessi al successivo anno di corso.  
-Art. 280. - Agli allievi i quali abbiano ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specializzazione in leprologia e dermatologia tropicale.  
+Art. 45. - All'elenco degli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di:  
+Fisiologia della nutrizione;  
+Immunologia;  
+Virologia;  
+Gerontologia;  
+Patologia ostetrica e ginecologica;  
+Neuropsichiatria infantile;  
+Chirurgia pediatrica;  
+Chirurgia plastica.  
+Nello stesso elenco gli insegnamenti di: "Scienza dell'ortogenesi"; "Chirurgia d'urgenza"; "Clinica delle malattie tropicali e subtropicali" e "Storia della medicina" sono soppressi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 giugno 1970
+### Dato a Roma, addi' 7 febbraio 1967
 
-SARAGAT MISASI
+SARAGAT GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 20 agosto 1970
+Registrato alla Corte dei conti, addi' 7 marzo 1967
 
-Atti del Governo, registro n. 237, foglio n. 42. - CARUSO
+Atti del Governo, registro n. 209, foglio n. 93. - VILLA

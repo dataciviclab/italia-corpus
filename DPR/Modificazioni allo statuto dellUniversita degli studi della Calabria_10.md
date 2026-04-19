@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 635
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1983 n. 1031
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 635
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1983 n. 1031
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi della Calabria.
 -----------------------------------------------------------------------
@@ -39,19 +39,21 @@ Articolo unico
 --------------
 
   
-Nell'art. 50, e nelle tabelle C1 e C2 allegate all'art. 30, agli elenchi degli insegnamenti complementari afferenti al dipartimento di sistemi e' aggiunto il seguente nuovo insegnamento:  
-teoria e metodi della ottimizzazione.  
+Nell'art. 50 e nella tabella D, allegata all'art. 30, allo elenco degli insegnamenti afferenti al dipartimento di sistemi e' aggiunto il seguente nuovo insegnamento complementare:  
+ingegneria dei sistemi aerospaziali.  
+Nell'art. 51 e nella tabella C 1, allegata all'art. 30, all'elenco degli insegnamenti afferenti al dipartimento di strutture e' aggiunto il seguente nuovo insegnamento complementare:  
+costruzioni in zone sismiche.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 giugno 1983
+### Dato a Roma, addi' 11 ottobre 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 25 ottobre 1983
+Registrato alla Corte dei conti, addi' 29 febbraio 1984
 
-Registro n. 67 Istruzione, foglio n. 48
+Registro n. 13 Istruzione, foglio n. 46

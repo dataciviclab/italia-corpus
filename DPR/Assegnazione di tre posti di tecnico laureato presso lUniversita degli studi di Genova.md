@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 553
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 febbraio 1980 n. 1114
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 553
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 febbraio 1980 n. 1114
+================================================================
 
 Assegnazione di tre posti di tecnico laureato presso l'Universita' degli studi di Genova.
 -----------------------------------------------------------------------------------------
@@ -10,14 +10,37 @@ Assegnazione di tre posti di tecnico laureato presso l'Universita' degli studi d
 Art. 1
 ------
 
-N.
-
-553. Decreto del Presidente della Repubblica 15 luglio 1983, col quale, sulla proposta del Ministro della pubblica istruzione, tre posti disponibili nel ruolo dei tecnici laureati vengono assegnati come segue:  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-UNIVERSITA' DI GENOVA  
-Facolta' di medicina e chirurgia:  
-istituto di igiene. . . . . . . . . . . . . . . . . . . . . . posti 1 istituto di clinica ortopedica. . . . . . . . . . . . . . . . posti 1 Facolta' di ingegneria:  
-istituto di chimica . . . . . . . . . . . . . . . . . . . . . posti 1   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 4 ottobre 1983  
-Registro n. 65 Istruzione, foglio n. 10
+Veduta la [legge 3 novembre 1961, n. 1255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-11-03;1255);   
+Veduta la [legge 3 giugno 1970, n. 380](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-06-03;380);   
+Veduto il [decreto-legge 1 ottobre 1973, n. 580](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580), recante misure urgenti per le universita', convertito con modificazioni in [legge 30 novembre 1973, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766);   
+Veduta la [legge 25 ottobre 1977, n. 808](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-10-25;808), ed in particolare l'art. 11;   
+Considerato che, a norma del citato art. 11, il personale assunto con rapporto di lavoro subordinato a carico del bilancio dello Stato o delle singole amministrazioni universitarie, in servizio alla data del 1 gennaio 1977 e che abbia prestato servizio per un periodo, anche non continuativo, non inferiore a diciotto mesi nell'ultimo triennio, e' immesso nei ruoli del personale non docente delle universita' e degli istituti di istruzione universitaria, con effetto dalla data del 23 novembre 1977;   
+Considerato, altresi', che l'immissione in ruolo di cui trattasi e' disposta nella carriera corrispondente alla categoria di impiego non di ruolo nella quale il personale interessato e' stato originariamente assunto, mediante l'utilizzazione dei posti disponibili nelle singole dotazioni organiche;   
+Tenuto conto che presso l'Universita' di Genova prestano servizio tre tecnici laureati, aventi diritto all'immissione in ruolo ai sensi di quanto previsto dal sopramenzionato [art. 11 della legge n. 808/1977](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977;808~art11);   
+Considerata, infine, la disponibilita' dei posti del ruolo dei tecnici laureati degli istituti scientifici universitari;   
+Ritenuta l'opportunita' di provvedere ad assegnare al suddetto Ateneo tre posti del ruolo dei tecnici laureati, per l'immissione in ruolo di altrettanti dipendenti aventi diritto all'applicazione delle norme del piu' volte citato art. 11;   
+Sulla motivata proposta del Ministro della pubblica istruzione;   
+  
+Decreta:   
+  
+I tre posti dei tecnici laureati, indicati nelle premesse, sono assegnati come segue:   
+  
+UNIVERSITA' DI GENOVA   
+Facolta' di medicina e chirurgia:   
+istituto di clinica dermosifilopatica . . . . . . . . . . . . posti 1 istituto di clinica ostetrica e ginecologica. . . . . . . . . posti 1 istituto di clinica chirurgica generale I . . . . . . . . . . posti 1   
+  
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiuncque spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Dato a Roma, addi' 27 febbraio 1980
+
+PERTINI VALITUTTI
+
+Visto, il Guardasigilli: MORLINO
+
+Registrato alla Corte dei conti, addi' 2 aprile 1981
+
+Registro n. 31 Istruzione, foglio n. 300

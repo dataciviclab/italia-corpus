@@ -1,16 +1,16 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 novembre 1956 n. 1463
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 859
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 novembre 1956 n. 1463
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 859
+==============================================================
 
-Modificazioni allo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano.
-----------------------------------------------------------------------------------
+Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
+--------------------------------------------------------------------------------
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e modificato con [regio decreto 17 ottobre 1941, n. 1282](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-10-17;1282), con [decreto del Capo provvisorio dello Stato 27 luglio 1917, n. 1212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1917-07-27;1212) e con [decreti del Presidente della Repubblica 20 ottobre 1949, n. 1026](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;1026); [30 ottobre 1950, n. 1306](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1306); [31 agosto 1951, n. 1774](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-31;1774); [11 marzo 1953, n. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;417); [26 gennaio 1954, n. 7](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-01-26;7); [14 settembre 1954, n. 1055](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1055); [4 febbraio 1955, n. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;119); [20 settembre 1955, n. 940](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-20;940) e [20 settembre 1955, n. 1547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-20;1547);
+Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,106 +18,54 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto, formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare e nuove modifiche proposte;.
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla
+-----
 
-Decreta:
-
-Lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 16 - Agli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:
-
-7) Storia delle tradizioni popolari;
-
-8) Storia del Risorgimento;
-
-9) Latino medioevale;
-
-10) Storia della geografia e delle esplorazioni.
-
-Art. 17. - Agli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti quelli di:
-
-7) Storia della pedagogia;
-
-8) Psicologia dell'eta' evolutiva;
-
-9) Storia delle tradizioni popolari;
-
-10) Storia del Risorgimento.
-
-Art. 18. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:
-
-5) Storia delle tradizioni popolari;
-
-6) Latino medioevale;
-
-7) Storia della grammatica e della lingua italiana.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 9 novembre 1956
-
-GRONCHI
-
-ROSSI
-
-Visto, il Guardasigilli: MORO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 20 dicembre 1956 Atti del Governo, registro n. 102, foglio n. 141. - CARLOMAGNO
+proposta del Ministro della pubblica istruzione; Decreta:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e modificato con [regio decreto 17 ottobre 1941, n. 1282](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-10-17;1282), con [decreto del Capo provvisorio dello Stato 27 luglio 1917, n. 1212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1917-07-27;1212) e con [decreti del Presidente della Repubblica 20 ottobre 1949, n. 1026](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;1026); [30 ottobre 1950, n. 1306](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1306); [31 agosto 1951, n. 1774](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-31;1774); [11 marzo 1953, n. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;417); [26 gennaio 1954, n. 7](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-01-26;7); [14 settembre 1954, n. 1055](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1055); [4 febbraio 1955, n. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;119); [20 settembre 1955, n. 940](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-20;940) e [20 settembre 1955, n. 1547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-20;1547);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare e nuove modifiche proposte;.  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 103, primo comma - la scuola di specializzazione in ematologia clinica e di laboratorio muta la denominazione in quella di scuola di specializzazione in ematologia generale (clinica e laboratorio).  
+
+Art. 2
+------
+
   
-Decreta:  
+L'art. 107, quarto comma, relativo alla scuola di specializzazione in urologia, e' modificato nel senso che il numero massimo degli iscritti e' stabilito in quindici per anno di corso e complessivamente in settantacinque iscritti per l'intero corso di studi.  
+
+Art. 3
+------
+
   
-Lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 16 - Agli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:  
-7) Storia delle tradizioni popolari;  
-8) Storia del Risorgimento;  
-9) Latino medioevale;  
-10) Storia della geografia e delle esplorazioni.  
-Art. 17. - Agli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti quelli di:  
-7) Storia della pedagogia;  
-8) Psicologia dell'eta' evolutiva;  
-9) Storia delle tradizioni popolari;  
-10) Storia del Risorgimento.  
-Art. 18. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:  
-5) Storia delle tradizioni popolari;  
-6) Latino medioevale;  
-7) Storia della grammatica e della lingua italiana.  
+L'art. 114, primo comma, relativo alla scuola di specializzazione in psichiatria, e' modificato nel senso che il numero degli iscritti e' stabilito in dieci per anno di corso e complessivamente in quaranta iscritti per l'intero corso di studi.  
+
+Art. 4
+------
+
+  
+L'[art. 150, terzo comma, del decreto del Presidente della Repubblica 31 ottobre 1977, n. 1260](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-10-31;1260~art150-com3), relativo alla scuola di specializzazione in chirurgia plastica, e' modificato nel senso che il numero degli iscritti e' stabilito in otto per anno di corso e complessivamente in quaranta iscritti per l'intero corso di studi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 novembre 1956
+### Dato a Roma, addi' 31 ottobre 1979
 
-GRONCHI ROSSI
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 20 dicembre 1956
+Registrato alla Corte dei conti, addi' 20 marzo 1980
 
-Atti del Governo, registro n. 102, foglio n. 141. - CARLOMAGNO
+Registro n. 24 Istruzione, foglio n. 147

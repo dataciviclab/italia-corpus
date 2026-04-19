@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1981 n. 290
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 gennaio 1981 n. 15
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1981 n. 290
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 gennaio 1981 n. 15
+=============================================================
 
 Autorizzazione all'Associazione nazionale alpini, in Milano, ad acquistare un immobile.
 ---------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-290. Decreto del Presidente della Repubblica 21 gennaio 1981, col quale, sulla proposta del Ministro della difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad acquistare, al prezzo di L. 1.000.000, un terreno in comune di Monghidoro (Bologna), destinato dal piano di fabbricazione ad attrezzature sociali, distinto nel nuovo catasto terreni al foglio n. 18, mappale 593, di metri quadrati 2005, e mappale 623, di metri quadrati 183 (parte), di proprieta' dei signori Gabriella, Gianfranco, Giuseppe e Giovanni Giorgi, nonche' della signora Lea Leognani vedova Giorgi, come da contratto preliminare di compravendita 27 marzo 1979, da utilizzare per la costruzione di una "baita per alpini" da assegnare come sede per il gruppo alpini di quella zona, dipendente dalla sezione di Bologna dell'Associazione stessa.  
+15. Decreto del Presidente della Repubblica 3 gennaio 1981, col quale, sulla proposta del Ministro della difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad acquistare dai signori Rosmilia, Maddalena, Maria Teresa, Carlo Giuseppe, Paolo, Mario, Francesca, Angiola Maria, Rosa Emilia e Anna Maria Battaglia, nudi proprietari, nonche' dalla signora Amalia Garelli ved. Battaglia, usufruttuaria, al prezzo di L. 8.000.000, l'appartamento di sei vani posto al primo piano del fabbricato che sorge in Mondovi', via Beccaria n. 13, censito al nuovo catasto edilizio urbano alla partita 505, foglio 92, mappale 171 sub 8 parte, da adibire a sede della sezione di Mondovi'.  
   
 Visto, il Guardasigilli: SARTI  
-Registrato alla Corte dei conti, addi' 13 maggio 1981  
-Registro n. 16 Difesa, foglio n. 257
+Registrato alla Corte dei conti, addi' 3 febbraio 1981  
+Registro n. 7 Difesa, foglio n. 26

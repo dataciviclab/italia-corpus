@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 951
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1974 n. 529
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 951
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1974 n. 529
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,7 +20,7 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -30,271 +30,288 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 164 - nell'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia la scuola di specializzazione in idrologia, crenologia e climatoterapia, muta la denominazione in quella di "Scuola di specializzazione in idroclimatologia medica e clinica termale".
+Art. 142 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, sono aggiunte le seguenti scuole di specializzazione:
 
-L'art. 181, relativo alla determinazione delle tasse e soprattasse per l'iscrizione alle scuole di specializzazione in medicina e chirurgia, e' abrogato e sostituito dal seguente:
+Chirurgia plastica;
 
-"Gli iscritti alle scuole di specializzazione sono tenuti a pagare le tasse e soprattasse, secondo quanto stabilito per gli studenti della facolta' di medicina e chirurgia, nonche' la tassa di diploma nella misura di lire 6.000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).
+Medicina del lavoro.
 
-Sono tenuti, altresi', al pagamento di speciali contributi nella misura che sara' determinata dal consiglio di amministrazione, previo parere della facolta', su proposta del direttore della scuola".
+Dopo l'art. 265, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in chirurgia plastica e in medicina del lavoro.
 
-L'art. 186 e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in medicina interna e' stabilito in 27 (ventisette) per ogni anno di corso.
+Scuola di specializzazione in chirurgia plastica
 
-Gli articoli 199, 200, 201, relativi alla scuola di specializzazione in idrologia, crenologia e climatoterapia, che muta la denominazione in quella di "Scuola di specializzazione in idroclimatologia medica e clinica termale", sono abrogati e sostituiti dai seguenti:
+Art. 266. - La scuola e' posta sotto la direzione del titolare della cattedra di chirurgia plastica coadiuvato da docenti particolarmente preparati nelle materie di insegnamento.
 
-Scuola di specializzazione in idroclimatologia medica e clinica termale
+Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali.
 
-Art. 199. - La scuola ha la durata di tre anni. Il numero massimo complessivo degli iscritti per i tre anni di corso e' di 30 (trenta):
+Durante i tre anni del corso verranno quotidianamente tenute esercitazioni di diagnostica, di tecnica operatoria, di laboratorio ed altre di indole pratica.
 
-10 per ogni anno accademico.
+La frequenza sia alle lezioni e conferenze che alle esercitazioni teoriche e pratiche e' obbligatoria.
 
-Le materie di insegnamento sono:
+Art. 267. - L'ammissione alla scuola avviene previo superamento di esame, con prova scritta e orale, inteso a chiarire il grado di preparazione generale del candidato ed i suoi specifici interessi ed attitudine verso la chirurgia plastica.
 
-1° Anno:
+Sono da considerarsi titoli preferenziali, a parita' di risultato dell'esame di ammissione: 1) il voto di laurea in medicina e chirurgia; 2) aver frequentato come studente interno un istituto di chirurgia generale e specialistica; 3) aver svolto la tesi di laurea su argomenti di interesse per la chirurgia plastica; 4) documentazione di eventuali servizi prestati in reparti della specialita'; 5) eventuali pubblicazioni.
 
-1) geologia idrologica, geofisica, meteorologica e climatologia generale;
+Art. 268. - Il numero massimo complessivo degli iscritti ai tre anni di corso e' di 12 (4 per anno di corso).
 
-2) chimica chimico-fisica idroclimatologica;
+Alla fine di ciascun anno scolastico, gli specializzandi che abbiano ottenuto la firma di frequenza, dovranno sostenere un esame di profitto, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo e per quelli che sono stati iscritti all'ultimo anno, per poter accedere all'esame di diploma.
 
-3) effetti biologici e meccanismo d'azione dei fattori idroclimatologici;
+Alla fine del terzo anno del corso, ha luogo l'esame di diploma, consistente nella preparazione e discussione di una dissertazione scritta su argomento di chirurgia plastica, concordato fra il diplomando e il direttore della scuola all'inizio del terzo anno. La dissertazione deve essere approvata dal direttore stesso e depositata presso la segreteria almeno quindici giorni prima dell'esame.
 
-4) ecologia medica, geografia idroclimatologica;
-
-5) cure idroclimatologiche e terapie fisiche nelle malattie reumatiche.
-
-2° Anno:
-
-1) cure idroclimatologiche nelle malattie dell'apparato respiratorio;
-
-2) cure idroclimatologiche nelle malattie dell'apparato cardiovascolare;
-
-3) cure idroclimatologiche nelle malattie del fegato e del tubo digerente;
-
-4) cure idroclimatologiche in otorinolaringoiatria (complementare);
-
-5) cure idroclimatologiche in dermatologia (complementare).
-
-3° Anno:
-
-1) cure idroclimatologiche nelle malattie delle vie urinarie;
-
-2) cure idroclimatologiche nelle malattie del ricambio e malattie endocrine;
-
-3) cure idroclimatologiche in ginecologia (complementare);
-
-4) organizzazione termale e legislazione in campo idroclimatologico;
-
-5) tecniche per l'applicazione delle cure idroclimatologiche.
-
-Le lezioni del 1° e 2° anno sono corredate da esercitazioni di carattere sperimentale e clinico; potranno essere effettuate visite alle stazioni termali.
-
-Art. 200. - La scuola ha sede presso l'istituto di clinica medica generale e terapia medica I.
-
-La frequenza alle lezioni ed alle esercitazioni nonche' l'internato sono obbligatori.
-
-Gli aspiranti saranno ammessi alla scuola in base alla classifica di un esame preliminare che si svolgera' entro il mese di dicembre di ciascun anno accademico.
-
-Art. 201. - Al termine di ogni anno verra' sostenuto un esame teorico-pratico sugli insegnamenti impartiti.
-
-Al termine dei tre anni verra' presentata una tesi di specializzazione compilativa o sperimentale che verra' giudicata da una commissione di cinque membri.
-
-Gli articoli 273, 274, 275, 276, 277, 278, relativi alla "Scuola di specializzazione in biochimica e chimica clinica", sono abrogati e sostituiti dai seguenti:
-
-Scuola di specializzazione in biochimica e chimica clinica
-
-Art. 273. - La scuola di specializzazione in biochimica e chimica clinica ha lo scopo di poter offrire una migliore qualificazione scientifica professionale a coloro che intendono dedicarsi alle discipline biochimiche con indirizzo medico-biologico.
-
-Art. 274. - Alla scuola, che ha la durata di tre anni, possono essere ammessi i laureati in medicina e chirurgia, scienze biologiche, chimica e tecnologia farmaceutiche, chimica (indirizzo organico biologico). Gli insegnamenti sono parzialmente differenziati secondo il tipo di laurea degli iscritti. L'insegnamento per i laureati in medicina e chirurgia avra' un indirizzo prevalentemente diagnostico; quello per i laureati nelle altre discipline avra' un indirizzo prevalentemente biochimico e chimico-clinico.
-
-Art. 275. - Il numero complessivo di specializzandi da ammettere alla scuola e' fissato in 90 (novanta) allievi, ripartiti in 30 (trenta) allievi per anno. L'ammissione alla scuola avviene per titoli e per esami. Qualora un aspirante in possesso di titoli, attinenti alla materia della scuola, chieda abbreviazione del corso, dovra' presentare istanza motivata.
-
-Art. 276. - La direzione della scuola viene assunta da un professore di ruolo di chimica biologica o di materia affine. Il direttore della scuola puo' nominare un vice direttore che lo coadiuvi ed un segretario.
-
-Art. 277. - Gli insegnamenti impartiti nei tre anni saranno i seguenti:
+Art. 269. - Gli insegnamenti impartiti nella scuola di specializzazione in chirurgia plastica sono i seguenti:
 
 1° Anno:
 
-1) biologia generale e speciale;
+Patologia generale;
 
-2) biologia molecolare;
+Concetti di patologia secondaria;
 
-3) biologia analitica;
+Guarigione delle ferite;
 
-4) biometria.
+Trapianti;
+
+Omoinnesti;
+
+Traumatologia dei tessuti molli;
+
+Malattia-ustione (fisiopatologia e clinica) (1° anno);
+
+Anatomia ed embriologia (con specifico riferimento alla faccia, collo, organi genitali, arti superiori ed inferiori);
+
+Anatomia ed istologia patologica (con specifico riferimento alla malattia-ustione e ai tumori cutanei benigni e maligni);
+
+Anestesiologia e rianimazione (concetti generali sui principi che suggeriscono l'adozione dei vari metodi e tecniche anestesiologiche).
 
 2° Anno:
 
-1) chimica clinica;
+Tecnica operatoria;
 
-2) biochimica patologica;
+Anatomia chirurgica;
 
-3) enzimologia clinica;
+Malformazioni congenite;
 
-4) biochimica dinamica.
+Malattia-ustione (terapia medica e chirurgica) (2° anno);
+
+Elementi di otorinolaringoiatria;
+
+Elementi di stomatologia;
+
+Elementi di ortopedia generale;
+
+Dermatologia generale (con specifico riferimento alle malattie o lesioni congenite, di competenza plastica, passibili di trattamento chirurgico) (biennale 1° anno).
 
 3° Anno:
 
-1) biochimica dei tessuti e degli organi;
+Metodologia chirurgica differenziale;
 
-2) biochimica ormonale;
+Conservazione e tipizzazione dei tessuti;
 
-3) biochimica farmacologica;
+Chirurgia riparatrice della mano;
 
-4) tossicologia.
+Chirurgia riparatrice e correttiva del volto;
 
-INSEGNAMENTI COMPLEMENTARI
+Dermatologia generale (biennale 2° anno);
 
-Primo gruppo:
+Medicina legale e delle assicurazioni (con riferimento alle deformita' anatomiche e alle menomazioni funzionali di origine traumatica);
 
-1) elementi di ematologia;
+Elementi di criobiologia e di criochirurgia;
 
-2) complementi di istologia patologica;
+Fisioterapia delle lesioni cutanee (con elementi di criobiologia e di criochirurgia).
 
-3) immunochimica;
+Art. 270. - Gli iscritti alla scuola di specializzazione sono tenuti a pagare le tasse e soprattasse, secondo quanto stabilito per gli studenti della facolta' di medicina e chirurgia, nonche' la tassa di diploma nella misura di L. 6.000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).
 
-4) igiene applicata al laboratorio di analisi chimico-cliniche;
+Sono tenuti, altresi', al pagamento di speciali contributi nella misura che sara' determinata dal consiglio di amministrazione, previo parere della facolta', su proposta del direttore della scuola.
 
-5) elementi di legislazione sanitaria.
+Scuola di specializzazione in medicina del lavoro
 
-Secondo gruppo:
+Art. 271. - La scuola di specializzazione in medicina del lavoro ha la durata di tre anni.
 
-1) elementi di anatomia e fisiopatologia;
+Art. 272. - Il numero degli iscritti da ammettere alla scuola e' di tre per ogni anno di corso (totale nove iscritti).
 
-2) immunochimica;
+Art. 273. - Le materie di insegnamento sono le seguenti:
 
-3) biofisica applicata con elementi di elettronica;
+1° Anno:
 
-4) igiene applicata al laboratorio di analisi chimico-cliniche;
+1) Fisiologia del lavoro ed ergonomia 1° anno;
 
-5) elementi di legislazione sanitaria.
+2) Tecnologia ed igiene del lavoro 1° anno;
 
-Per ottenere il diploma di specializzazione in biochimica e chimica clinica gli allievi dovranno superare almeno tre materie complementari (una per anno). I laureati in medicina e chirurgia devono scegliere i tre insegnamenti complementari fra quelli del 1° gruppo i laureati nelle altre discipline devono scegliere i tre insegnamenti complementari tra quelli del 2° gruppo. Gli allievi possono frequentare anche altri insegnamenti complementari scelti liberamente tra i due gruppi di materie elencate.
+3) Patologia e clinica del lavoro 1° anno;
 
-Art. 278. - Ogni materia di insegnamento e' anche materia di esame, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo. Alla fine dei tre anni gli allievi dovranno presentare una tesi scritta e sostenere un esame di diploma. I candidati non riconosciuti idonei potranno ripresentarsi dopo un altro anno di frequenza alla scuola.
+4) Psicologia del lavoro 1° anno.
 
-A coloro che abbiano superato l'esame finale verra' rilasciato il diploma di specialista in biochimica e chimica clinica.
+2° Anno:
+
+1) Fisiologia del lavoro ed ergonomia 2° anno;
+
+2) Tecnologia ed igiene del lavoro 2° anno;
+
+3) Patologia e clinica del lavoro 2° anno:
+
+4) Psicologia del lavoro 2° anno;
+
+5) Tossicologia industriale e diagnostica di laboratorio 1° anno;
+
+6) Infortunistica e pronto soccorso 1° anno;
+
+7) Biometria e statistica sanitaria;
+
+8) Medicina preventiva dei lavoratori 1° anno.
+
+3° Anno:
+
+1) Patologia e clinica del lavoro 3° anno;
+
+2) Tecnologia ed igiene del lavoro 3° anno;
+
+3) Infortunistica e pronto soccorso 2° anno;
+
+4) Medicina legale e delle assicurazioni;
+
+5) Medicina preventiva dei lavoratori 2° anno;
+
+6) Radiologia e medicina nucleare;
+
+7) Tossicologia industriale e diagnostica di laboratorio 2° anno;
+
+8) Dermatologia professionale.
+
+Art. 274. - Gli iscritti alla scuola di specializzazione sono tenuti a pagare le tasse e soprattasse, secondo quanto stabilito per gli studenti della facolta' di medicina e chirurgia, nonche' la tassa di diploma nella misura di L. 6.000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).
+
+Sono tenuti, altresi', al pagamento di speciali contributi nella misura che sara' determinata dal consiglio di amministrazione, previo parere della facolta', su proposta del direttore della scuola.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1975
+Dato a Roma, addi' 6 giugno 1974
 
 LEONE
 
 MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: ZAGARI
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 30 marzo 1976 Atti di Governo, registro n. 4, foglio n. 44
+alla Corte dei conti, addi' 29 ottobre 1974 Atti di Governo, registro n. 6, foglio n. 83. - SCIARRETTA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;   
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;   
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
 Sulla proposta del Ministro per la pubblica istruzione;   
   
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 164 - nell'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia la scuola di specializzazione in idrologia, crenologia e climatoterapia, muta la denominazione in quella di "Scuola di specializzazione in idroclimatologia medica e clinica termale".   
-L'art. 181, relativo alla determinazione delle tasse e soprattasse per l'iscrizione alle scuole di specializzazione in medicina e chirurgia, e' abrogato e sostituito dal seguente:   
-"Gli iscritti alle scuole di specializzazione sono tenuti a pagare le tasse e soprattasse, secondo quanto stabilito per gli studenti della facolta' di medicina e chirurgia, nonche' la tassa di diploma nella misura di lire 6.000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).   
-Sono tenuti, altresi', al pagamento di speciali contributi nella misura che sara' determinata dal consiglio di amministrazione, previo parere della facolta', su proposta del direttore della scuola".   
-L'art. 186 e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in medicina interna e' stabilito in 27 (ventisette) per ogni anno di corso.   
-Gli articoli 199, 200, 201, relativi alla scuola di specializzazione in idrologia, crenologia e climatoterapia, che muta la denominazione in quella di "Scuola di specializzazione in idroclimatologia medica e clinica termale", sono abrogati e sostituiti dai seguenti:   
+Art. 142 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, sono aggiunte le seguenti scuole di specializzazione:   
   
-Scuola di specializzazione in idroclimatologia medica e clinica termale   
+Chirurgia plastica;   
+Medicina del lavoro.   
   
-Art. 199. - La scuola ha la durata di tre anni. Il numero massimo complessivo degli iscritti per i tre anni di corso e' di 30 (trenta):   
-10 per ogni anno accademico.   
-Le materie di insegnamento sono:   
+Dopo l'art. 265, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in chirurgia plastica e in medicina del lavoro.   
+  
+Scuola di specializzazione in chirurgia plastica   
+  
+Art. 266. - La scuola e' posta sotto la direzione del titolare della cattedra di chirurgia plastica coadiuvato da docenti particolarmente preparati nelle materie di insegnamento.   
+Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali.   
+Durante i tre anni del corso verranno quotidianamente tenute esercitazioni di diagnostica, di tecnica operatoria, di laboratorio ed altre di indole pratica.   
+La frequenza sia alle lezioni e conferenze che alle esercitazioni teoriche e pratiche e' obbligatoria.   
+Art. 267. - L'ammissione alla scuola avviene previo superamento di esame, con prova scritta e orale, inteso a chiarire il grado di preparazione generale del candidato ed i suoi specifici interessi ed attitudine verso la chirurgia plastica.   
+Sono da considerarsi titoli preferenziali, a parita' di risultato dell'esame di ammissione: 1) il voto di laurea in medicina e chirurgia; 2) aver frequentato come studente interno un istituto di chirurgia generale e specialistica; 3) aver svolto la tesi di laurea su argomenti di interesse per la chirurgia plastica; 4) documentazione di eventuali servizi prestati in reparti della specialita'; 5) eventuali pubblicazioni.   
+Art. 268. - Il numero massimo complessivo degli iscritti ai tre anni di corso e' di 12 (4 per anno di corso).   
+Alla fine di ciascun anno scolastico, gli specializzandi che abbiano ottenuto la firma di frequenza, dovranno sostenere un esame di profitto, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo e per quelli che sono stati iscritti all'ultimo anno, per poter accedere all'esame di diploma.   
+Alla fine del terzo anno del corso, ha luogo l'esame di diploma, consistente nella preparazione e discussione di una dissertazione scritta su argomento di chirurgia plastica, concordato fra il diplomando e il direttore della scuola all'inizio del terzo anno. La dissertazione deve essere approvata dal direttore stesso e depositata presso la segreteria almeno quindici giorni prima dell'esame.   
+Art. 269. - Gli insegnamenti impartiti nella scuola di specializzazione in chirurgia plastica sono i seguenti:   
+  
 1° Anno:   
-1) geologia idrologica, geofisica, meteorologica e climatologia generale;   
-2) chimica chimico-fisica idroclimatologica;   
-3) effetti biologici e meccanismo d'azione dei fattori idroclimatologici;   
-4) ecologia medica, geografia idroclimatologica;   
-5) cure idroclimatologiche e terapie fisiche nelle malattie reumatiche.   
+Patologia generale;   
+Concetti di patologia secondaria;   
+Guarigione delle ferite;   
+Trapianti;   
+Omoinnesti;   
+Traumatologia dei tessuti molli;   
+Malattia-ustione (fisiopatologia e clinica) (1° anno);   
+Anatomia ed embriologia (con specifico riferimento alla faccia, collo, organi genitali, arti superiori ed inferiori);   
+Anatomia ed istologia patologica (con specifico riferimento alla malattia-ustione e ai tumori cutanei benigni e maligni);   
+Anestesiologia e rianimazione (concetti generali sui principi che suggeriscono l'adozione dei vari metodi e tecniche anestesiologiche).   
+  
 2° Anno:   
-1) cure idroclimatologiche nelle malattie dell'apparato respiratorio;   
-2) cure idroclimatologiche nelle malattie dell'apparato cardiovascolare;   
-3) cure idroclimatologiche nelle malattie del fegato e del tubo digerente;   
-4) cure idroclimatologiche in otorinolaringoiatria (complementare);   
-5) cure idroclimatologiche in dermatologia (complementare).   
+Tecnica operatoria;   
+Anatomia chirurgica;   
+Malformazioni congenite;   
+Malattia-ustione (terapia medica e chirurgica) (2° anno);   
+Elementi di otorinolaringoiatria;   
+Elementi di stomatologia;   
+Elementi di ortopedia generale;   
+Dermatologia generale (con specifico riferimento alle malattie o lesioni congenite, di competenza plastica, passibili di trattamento chirurgico) (biennale 1° anno).   
+  
 3° Anno:   
-1) cure idroclimatologiche nelle malattie delle vie urinarie;   
-2) cure idroclimatologiche nelle malattie del ricambio e malattie endocrine;   
-3) cure idroclimatologiche in ginecologia (complementare);   
-4) organizzazione termale e legislazione in campo idroclimatologico;   
-5) tecniche per l'applicazione delle cure idroclimatologiche.   
-Le lezioni del 1° e 2° anno sono corredate da esercitazioni di carattere sperimentale e clinico; potranno essere effettuate visite alle stazioni termali.   
-Art. 200. - La scuola ha sede presso l'istituto di clinica medica generale e terapia medica I.   
-La frequenza alle lezioni ed alle esercitazioni nonche' l'internato sono obbligatori.   
-Gli aspiranti saranno ammessi alla scuola in base alla classifica di un esame preliminare che si svolgera' entro il mese di dicembre di ciascun anno accademico.   
-Art. 201. - Al termine di ogni anno verra' sostenuto un esame teorico-pratico sugli insegnamenti impartiti.   
-Al termine dei tre anni verra' presentata una tesi di specializzazione compilativa o sperimentale che verra' giudicata da una commissione di cinque membri.   
-Gli articoli 273, 274, 275, 276, 277, 278, relativi alla "Scuola di specializzazione in biochimica e chimica clinica", sono abrogati e sostituiti dai seguenti:   
+Metodologia chirurgica differenziale;   
+Conservazione e tipizzazione dei tessuti;   
+Chirurgia riparatrice della mano;   
+Chirurgia riparatrice e correttiva del volto;   
+Dermatologia generale (biennale 2° anno);   
+Medicina legale e delle assicurazioni (con riferimento alle deformita' anatomiche e alle menomazioni funzionali di origine traumatica);   
+Elementi di criobiologia e di criochirurgia;   
+Fisioterapia delle lesioni cutanee (con elementi di criobiologia e di criochirurgia).   
   
-Scuola di specializzazione in biochimica e chimica clinica   
+Art. 270. - Gli iscritti alla scuola di specializzazione sono tenuti a pagare le tasse e soprattasse, secondo quanto stabilito per gli studenti della facolta' di medicina e chirurgia, nonche' la tassa di diploma nella misura di L. 6.000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).   
+Sono tenuti, altresi', al pagamento di speciali contributi nella misura che sara' determinata dal consiglio di amministrazione, previo parere della facolta', su proposta del direttore della scuola.   
   
-Art. 273. - La scuola di specializzazione in biochimica e chimica clinica ha lo scopo di poter offrire una migliore qualificazione scientifica professionale a coloro che intendono dedicarsi alle discipline biochimiche con indirizzo medico-biologico.   
-Art. 274. - Alla scuola, che ha la durata di tre anni, possono essere ammessi i laureati in medicina e chirurgia, scienze biologiche, chimica e tecnologia farmaceutiche, chimica (indirizzo organico biologico). Gli insegnamenti sono parzialmente differenziati secondo il tipo di laurea degli iscritti. L'insegnamento per i laureati in medicina e chirurgia avra' un indirizzo prevalentemente diagnostico; quello per i laureati nelle altre discipline avra' un indirizzo prevalentemente biochimico e chimico-clinico.   
-Art. 275. - Il numero complessivo di specializzandi da ammettere alla scuola e' fissato in 90 (novanta) allievi, ripartiti in 30 (trenta) allievi per anno. L'ammissione alla scuola avviene per titoli e per esami. Qualora un aspirante in possesso di titoli, attinenti alla materia della scuola, chieda abbreviazione del corso, dovra' presentare istanza motivata.   
-Art. 276. - La direzione della scuola viene assunta da un professore di ruolo di chimica biologica o di materia affine. Il direttore della scuola puo' nominare un vice direttore che lo coadiuvi ed un segretario.   
-Art. 277. - Gli insegnamenti impartiti nei tre anni saranno i seguenti:   
+Scuola di specializzazione in medicina del lavoro   
+  
+Art. 271. - La scuola di specializzazione in medicina del lavoro ha la durata di tre anni.   
+Art. 272. - Il numero degli iscritti da ammettere alla scuola e' di tre per ogni anno di corso (totale nove iscritti).   
+Art. 273. - Le materie di insegnamento sono le seguenti:   
+  
 1° Anno:   
-1) biologia generale e speciale;   
-2) biologia molecolare;   
-3) biologia analitica;   
-4) biometria.   
+1) Fisiologia del lavoro ed ergonomia 1° anno;   
+2) Tecnologia ed igiene del lavoro 1° anno;   
+3) Patologia e clinica del lavoro 1° anno;   
+4) Psicologia del lavoro 1° anno.   
+  
 2° Anno:   
-1) chimica clinica;   
-2) biochimica patologica;   
-3) enzimologia clinica;   
-4) biochimica dinamica.   
+1) Fisiologia del lavoro ed ergonomia 2° anno;   
+2) Tecnologia ed igiene del lavoro 2° anno;   
+3) Patologia e clinica del lavoro 2° anno:   
+4) Psicologia del lavoro 2° anno;   
+5) Tossicologia industriale e diagnostica di laboratorio 1° anno;   
+6) Infortunistica e pronto soccorso 1° anno;   
+7) Biometria e statistica sanitaria;   
+8) Medicina preventiva dei lavoratori 1° anno.   
+  
 3° Anno:   
-1) biochimica dei tessuti e degli organi;   
-2) biochimica ormonale;   
-3) biochimica farmacologica;   
-4) tossicologia.   
+1) Patologia e clinica del lavoro 3° anno;   
+2) Tecnologia ed igiene del lavoro 3° anno;   
+3) Infortunistica e pronto soccorso 2° anno;   
+4) Medicina legale e delle assicurazioni;   
+5) Medicina preventiva dei lavoratori 2° anno;   
+6) Radiologia e medicina nucleare;   
+7) Tossicologia industriale e diagnostica di laboratorio 2° anno;   
+8) Dermatologia professionale.   
   
-INSEGNAMENTI COMPLEMENTARI   
-  
-Primo gruppo:   
-1) elementi di ematologia;   
-2) complementi di istologia patologica;   
-3) immunochimica;   
-4) igiene applicata al laboratorio di analisi chimico-cliniche;   
-5) elementi di legislazione sanitaria.   
-Secondo gruppo:   
-1) elementi di anatomia e fisiopatologia;   
-2) immunochimica;   
-3) biofisica applicata con elementi di elettronica;   
-4) igiene applicata al laboratorio di analisi chimico-cliniche;   
-5) elementi di legislazione sanitaria.   
-Per ottenere il diploma di specializzazione in biochimica e chimica clinica gli allievi dovranno superare almeno tre materie complementari (una per anno). I laureati in medicina e chirurgia devono scegliere i tre insegnamenti complementari fra quelli del 1° gruppo i laureati nelle altre discipline devono scegliere i tre insegnamenti complementari tra quelli del 2° gruppo. Gli allievi possono frequentare anche altri insegnamenti complementari scelti liberamente tra i due gruppi di materie elencate.   
-Art. 278. - Ogni materia di insegnamento e' anche materia di esame, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo. Alla fine dei tre anni gli allievi dovranno presentare una tesi scritta e sostenere un esame di diploma. I candidati non riconosciuti idonei potranno ripresentarsi dopo un altro anno di frequenza alla scuola.   
-A coloro che abbiano superato l'esame finale verra' rilasciato il diploma di specialista in biochimica e chimica clinica.   
+Art. 274. - Gli iscritti alla scuola di specializzazione sono tenuti a pagare le tasse e soprattasse, secondo quanto stabilito per gli studenti della facolta' di medicina e chirurgia, nonche' la tassa di diploma nella misura di L. 6.000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).   
+Sono tenuti, altresi', al pagamento di speciali contributi nella misura che sara' determinata dal consiglio di amministrazione, previo parere della facolta', su proposta del direttore della scuola.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1975
+### Dato a Roma, addi' 6 giugno 1974
 
 LEONE MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 30 marzo 1976
+Registrato alla Corte dei conti, addi' 29 ottobre 1974
 
-Atti di Governo, registro n. 4, foglio n. 44
+Atti di Governo, registro n. 6, foglio n. 83. - SCIARRETTA

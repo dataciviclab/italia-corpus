@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1977 n. 723
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1971 n. 456
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1977 n. 723
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1971 n. 456
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
@@ -12,13 +12,12 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
@@ -26,27 +25,18 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-L'art. 136, relativo alle propedeuticita' degli esami del corso di laurea in farmacia, e' integrato con il seguente comma:  
-e) lo studente non puo' iscriversi al laboratorio del primo corso di esercitazioni di chimica farmaceutica e tossicologia se non ha superato l'esame di chimica generale ed inorganica. Lo studente non puo' iscriversi al laboratorio del secondo corso di esercitazioni di chimica farmaceutica e tossicologia se non ha superato l'esame di chimica organica.  
-L'art. 144, relativo all'ordinamento degli studi del corso di laurea in chimica e tecnologia, e' modificato nel senso che dopo il primo comma successivo all'elenco degli insegnamenti complementari sono inseriti i seguenti due commi:  
-  
-Lo studente non puo' iscriversi al laboratorio del primo corso di analisi chimico-farmaceutica se non ha superato l'esame di chimica generale ed inorganica.  
-Lo studente non puo' iscriversi al laboratorio del terzo corso di analisi chimico-farmaceutica se non ha superato l'esame di chimica organica.  
-L'art. 292, relativo ai titoli di ammissione alla scuola di perfezionamento in archeologia, e' modificato nel senso che sono aggiunte le seguenti parole: "e in storia, purche' il laureato in storia abbia sostenuto con esito favorevole almeno un esame in storia antica, o in storia dell'arte antica o in archeologia o materia affine".  
-Dopo l'art. 298, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla scuola in musicologia.  
-Art. 299. - Le entrate della scuola sono costituite dalle tasse, soprattasse e contributi scolastici e dai contributi erogati eventualmente dallo Stato, dall'Universita', da enti e da privati.  
-Art. 300. - Per raggiungere i suoi scopi didattici e scientifici, la scuola affianca agli insegnamenti previsti, esercitazioni, seminari, conferenze, gruppi di ricerca, corsi di musicologia, convegni, ecc. Possono essere attuate serie di pubblicazioni a stampa, con cui docenti, diplomandi e diplomati diano atto del loro lavoro di ricerca e di studio.  
+Il terzo comma dell'art. 447, relativo alla scuola di specializzazione in neurologia, istituita con [decreto del Presidente della Repubblica 8 ottobre 1969, n. 796](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-10-08;796), e' modificato nel senso che il numero complessivo degli specializzandi da ammettere alla scuola e' aumentato a quaranta.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 giugno 1977
+### Dato a Roma, addi' 3 maggio 1971
 
-LEONE MALFATTI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 26 settembre 1977
+Registrato alla Corte dei conti, addi' 16 luglio 1971
 
-Registro n. 106 Istruzione, foglio n. 365
+Atti del Governo, registro n. 243, foglio n. 17. - VALENTINI

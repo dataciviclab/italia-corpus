@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1964 n. 1555
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1959 n. 195
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1964 n. 1555
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1959 n. 195
+===============================================================
 
 Autorizzazione all'Unione italiana dei ciechi ad accettare una eredita'.
 ------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-188. Decreto del Presidente della Repubblica 25 novembre 1964, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi viene autorizzata ad accettare, col beneficio di inventario, l'eredita' disposta dalla defunta signorina Annita Ester Redini con testamento pubblico per atto a rogito dott. Umberto Mario Olampi, notaio in Cascina (Pisa), in data 30 novembre 1959, rep. U.V. n. 84 - allegato al relativo verbale di pubblicazione per atto a rogito dello stesso notaio dott. Ciampi, in data 9 febbraio 1960, rep. n. 37755, fase n. 939 - a favore della "Sezione o reparto o nucleo del comune di Pisa dell'Unione italiana ciechi". L'eredita' in parola, su cui gravano le limitazioni indicate nel suddetto testamento pubblico, risulta costituita da beni mobili per un valore complessivo di L. 458.450, da un utile netto di rendiconto di L. 1.154.616, e da beni.  
-Immobili valutati per complessive L. 13.815.000.  
+195. Decreto del Presidente della Repubblica 16 febbraio 1959, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta a proprio favore dalla signora Matilde de Pizzini vedova Viesi con testamento pubblico per atto a rogito notaio dott. Carlo Ranzi di Equa, in data 28 giugno 1956 (n. 282 repertorio atti di ultima volonta), risultante costituita da beni immobili.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 23 gennaio 1965  
-Atti del Governo, registro n. 190, foglio n. 55. - VILLA
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 18 aprile 1959  
+Atti del Governo, registro n. 118, foglio n. 44. - VILLA

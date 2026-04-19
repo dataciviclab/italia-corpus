@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 172
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 543
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 172
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 543
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 ------------------------------------------------------------------------------
@@ -26,7 +26,7 @@ Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
-Sentito il parere del Consiglio universitario nazionale;
+Veduto il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
@@ -39,20 +39,18 @@ Articolo unico
 --------------
 
   
-Art. 59 - all'elenco degli insegnamenti complementari del corso di laurea in lettere e' aggiunto l'insegnamento di "antichita' nubiane".  
+Art. 59 - nell'elenco degli insegnamenti complementari del corso di laurea in lettere e' inserito l'insegnamento di "storia dell'archeologia classica".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 gennaio 1985
+### Dato a Roma, addi' 15 luglio 1983
 
-PERTINI
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 29 aprile 1985
+Registrato alla Corte dei conti, addi' 28 settembre 1983
 
-Registro n. 27 Istruzione, loglio n. 155
+Registro n. 63 Istruzione, foglio n. 134

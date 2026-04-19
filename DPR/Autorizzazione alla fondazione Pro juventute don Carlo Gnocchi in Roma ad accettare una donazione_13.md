@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 luglio 1978 n. 552
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1986 n. 1028
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 luglio 1978 n. 552
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1986 n. 1028
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una donazione.
 ------------------------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad ac
 Art. 1
 ------
 
-N.
+n.
 
-552. Decreto del Presidente della Repubblica 20 luglio 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare la donazione disposta dai fratelli Sada Pietro, Claudio e Alberto con atto a rogito dott. Giovanni Lainati, notaio in Milano, in data 26 luglio 1976, n. 432904 di repertorio e n. 26153 di raccolta, registrato a Milano il 2 agosto 1976 al n. 1319471/M, serie H, consistente in titoli obbligazionari per complessivi nominali dollari USA 250.000 pari a lire 208.950.000, da destinare ai fini istituzionali dell'ente.  
+1028. Decreto del Presidente della Repubblica 29 ottobre 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare la donazione, consistente nella quota di 1/2 di un appartamento sito in Roma, via Tiburtina, 208, distinto nel nuovo catasto edilizio urbano alla partita n. 199888, foglio 611, mappale 75 sub 38, del valore attribuito con perizia di parte L. 4.000.000, elevato dall'ufficio tecnico erariale di Roma a L. 21.000.000, quota 1/2 = L. 10.500.000, disposta dalla signora Poddesu Arvida o Elvira con atto 8 aprile 1980, n. 16202 di repertorio e n. 5883 di raccolta, a rogito dott. Violo Osvaldo, notaio in Roma, registrato a Roma l'11 aprile 1980.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 13 settembre 1978  
-Registro n. 6 Presidenza, foglio n. 285
+Visto, il Guardasigilli: ROGNONI  
+Registrato alla Corte dei conti, addi' 26 febbraio 1987  
+Registro n. 4 Presidenza, foglio n. 114

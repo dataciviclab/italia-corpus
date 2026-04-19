@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1975 n. 575
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 270
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1975 n. 575
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 270
+============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad acquistare un immobile.
 ----------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione all'Unione italiana dei ciechi, in Roma, ad acquistare un immobil
 Art. 1
 ------
 
-N.
+n.
 
-575. Decreto del Presidente della Repubblica 29 settembre 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare al prezzo di L. 15.000.000, un appartamento sito in Enna, via Longo, angolo via Manzoni, 15, composto di sei vani, di proprieta' del sig. Lunardo Giuseppe, distinto nel nuovo catasto edilizio urbano alla partita 8211, foglio 18 con il n. 410/14, da adibire a sede della locale sezione U.I.C.   
+270. Decreto del Presidente della Repubblica 10 marzo 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare, al prezzo di L. 53.000.000, un appartamento sito in Bolzano, via Garibaldi, n. 6, censito al nuovo catasto edilizio urbano alla partita 22335, fogli 27 e 29, particella 2136 sub 34, di proprieta' del sig. Pfaffstaller Peter Franz, da adibire a sede della locale sezione.  
   
-Visto, il Guardasigilli: REALE   
-Registrato alla Corte dei conti, addi' 26 novembre 1975   
-Atti di Governo, registro n. 14, foglio n. 45
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 6 giugno 1986  
+Registro n. 5 Presidenza, foglio n. 81

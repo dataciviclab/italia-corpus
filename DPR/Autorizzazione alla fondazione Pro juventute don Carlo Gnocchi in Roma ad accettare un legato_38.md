@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 settembre 1977 n. 746
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 728
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 settembre 1977 n. 746
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 728
 ================================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-746. Decreto del Presidente della Repubblica 7 settembre 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Luigia Sangiorgi in favore dei mutilatini don Gnocchi, che si identificano con la fondazione "Pro juventute don Carlo Gnocchi", con testamento olografo 24 novembre 1963, pubblicato a rogito del notaio dott.  
-Angelo Gallizia di Milano il 18 luglio 1975, n. 12497 di repertorio, registrato a Lodi (Milano) il 23 luglio 1975 al n. 2819, vol. 5, consistente nella somma di lire 2.000.000.  
+728. Decreto del Presidente della Repubblica 5 settembre 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un appartamento con cantina sito in Milano, via Vittadini n. 25, censito al nuovo catasto edilizio urbano alla partita 33026, foglio 527, mappale 82 sub 2, del valore attribuito di L. 20.500.000 e in beni mobili del valore attribuito di L. 972.500, disposto dalla sig.na Giovanna Morandi con testamento olografo 27 novembre 1969, pubblicato il 5 gennaio 1978, n. 46546 di repertorio e n. 13700 progr., a rogito dott. Enrico Masini, notaio in Milano, registrato a Milano il 13 gennaio 1978, n. 780, serie N.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 10 ottobre 1977  
-Registro n. 8 Presidenza, foglio n. 65
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 27 ottobre 1980  
+Registro n. 8 Presidenza, foglio n. 202

@@ -1,19 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 dicembre 1978 n. 990
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1983 n. 803
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 dicembre 1978 n. 990
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1983 n. 803
 ===============================================================
 
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
+Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma ad accettare un legato.
+-------------------------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-990. Decreto del Presidente della Repubblica 21 dicembre 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Zaffonato Maddalena, con testamento olografo 17 aprile 1963, pubblicato a rogito del dott. Giovanni Carraro, notaio in Schio in data 29 ottobre 1974, n. 4315 di repertorio e n. 12669 di raccolta, registrato a Schio l'11 novembre 1974 al n. 1702, volume 208/1, consistente nella somma di L. 2.000.000.  
+803. Decreto del Presidente della Repubblica 25 novembre 1983, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un appartamento sito in Firenze, via Pacinotti n. 12, censito al nuovo catasto edilizio urbano alla partita 8393, foglio 81, mappale 110 sub 3, del valore dichiarato di L. 9.500.000 elevato a L. 14.000.000 dall'ufficio tecnico erariale di Firenze, disposto dalla sig.ra Eleonora Curetti vedova Taddei a favore dell'istituto mutilatini di don Gnocchi che si identifica con la fondazione "Pro Juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione stessa in data 5 giugno 1976, con testamento pubblico 7 gennaio 1975, pubblicato in data 26 novembre 1975, n. 36896 di repertorio, a rogito dott. Ugolini Golini, notaio in Firenze, registrato a Firenze in data 1 dicembre 1975 al n. 7379.   
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 15 febbraio 1979  
-Registro n. 2 Presidenza, foglio n. 28
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 11 gennaio 1984   
+Registro n. 1 Presidenza, foglio n. 84

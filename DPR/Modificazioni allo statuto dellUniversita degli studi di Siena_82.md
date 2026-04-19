@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1980 n. 626
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 956
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1980 n. 626
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 956
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'Istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,95 +20,202 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
-Sentito il parere del Consiglio universitario nazionale;
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Veduto il [parere della sezione prima del Consiglio di Stato, n. 1902/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
-
-Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Siena approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Dopo l'art. 177, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva:
 
+Scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva
+
+Art. 178. - La scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva ha sede presso gli istituti di clinica chirurgica generale, patologia speciale chirurgica e semeiotica chirurgica dell'Universita' di Siena, e conferisce il diploma di specialista in chirurgia dell'apparato digerente ed endoscopia digestiva.
+
+Art. 179. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Art. 180. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.
+
+Art. 181. - La durata del corso degli studi e' di cinque anni e non e' suscettibile di abbreviazione.
+
+Art. 182. - Il numero massimo degli allievi e' di nove per anno di corso e, complessivamente, di quarantacinque iscritti per l'intero corso di studi.
+
+Art. 183. - L'ammissione al corso avviene per titoli ed esami.
+
+Art. 184. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+anatomia descrittiva e topografica specialistica I;
+
+fisiopatologia e semeiotica funzionale I;
+
+anatomia ed istologia patologica I;
+
+patologia chirurgica I.
+
+2° Anno:
+
+anatomia descrittiva e topografica specialistica II fisiopatologia e semeiotica funzionale II;
+
+anatomia ed istologia patologica II;
+
+patologia chirurgica II;
+
+semeiotica chirurgica I;
+
+radiologia e medicina nucleare I;
+
+endoscopia digestiva diagnostica e terapeutica I
+
+3° Anno:
+
+patologia chirurgica III;
+
+semeiotica chirurgica II;
+
+radiologia e medicina nucleare II;
+
+endoscopia digestiva diagnostica e terapeutica II;
+
+clinica e terapia chirurgica I;
+
+tecniche operatorie I.
+
+4° Anno:
+
+semeiotica chirurgica III;
+
+radiologia e medicina nucleare III;
+
+endoscopia digestiva diagnostica e terapeutica III;
+
+clinica e terapia chirurgica II;
+
+tecniche operatorie II;
+
+anestesia e rianimazione;
+
+riabilitazione in chirurgia digestiva.
+
+5° Anno:
+
+clinica chirurgica e terapia chirurgica III;
+
+tecniche operatorie III;
+
+chirurgia d'urgenza dell'apparato digerente;
+
+chirurgia pediatrica dell'apparato digerente;
+
+terapia intensiva.
+
+Art. 185. - La frequenza alle lezioni, alle esercitazioni pratiche, ai periodi di internato e' obbligatoria per l'ammissione agli esami; il superamento degli esami di ciascun anno sara' condizione indispensabile per l'iscrizione all'anno successivo.
+
+Art. 186. - Al termine del quinquennio, per ottenere il diploma, i candidati dovranno presentare una dissertazione scritta su un argomento di chirurgia dell'apparato digerente ed endoscopia digestiva da discutere davanti all'apposita commissione e dovranno inoltre sostenere una prova clinica.
+
+Art. 187. - Le tasse, soprattasse e contributi della scuola sono cosi' fissate:
+
+immatricolazione. . . . . . . . . . . . . . . . . . . . . . L. 12.000 tassa annuale di iscrizione. . . . . . . . . . . . . . . . L. 200.000 soprattassa annuale di esame. . . . . . . . . . . . . . . . L. 16.000 contributi annui di laboratorio . . . . . . . . . . . . . . L. 14.000 tassa di diploma. . . . . . . . . . . . . . . . . . . . . . L. 20.000
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1978
+
+PERTINI
+
+PEDINI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 30 gennaio 1979 Registro n. 4 Istruzione, foglio n. 12
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
-Gli articoli 99, 100, 101, 102, 103, 104, 105, 106, 107 e 108, relativi alla scuola di perfezionamento in discipline bancarie sono sostituiti dai seguenti:   
+Decreta:  
   
-Titolo X   
-Scuola di specializzazione in discipline bancarie   
+Lo statuto dell'Universita' di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Dopo l'art. 177, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva:  
   
-Art. 99. - Nella facolta' di scienze economiche e bancarie e' istituita la scuola di specializzazione in discipline bancarie. Alla scuola possono accedere i cittadini italiani in possesso del diploma di laurea rilasciato dalle facolta' economiche, giuridiche, politiche, statistiche e sociali, nonche' i cittadini stranieri in possesso di titolo equipollente conseguito all'estero.   
-Art. 100. - Il direttore ed i docenti della scuola sono nominati dal rettore su proposta conforme del consiglio di facolta' di scienze bancarie; i docenti delle discipline giuridiche di cui al successivo art. 103, qualora le stesse non siano attivate presso la facolta' di scienze bancarie ed economiche sono nominati su proposta conforme della facolta' di giurisprudenza.   
-Il direttore deve essere prescelto fra i professori di ruolo o fuori ruolo; dura in carica un biennio e puo' essere riconfermato.  
-L'incarico conferito ai docenti della scuola e' annuale e puo' essere rinnovato. Allo svolgimento del programma possono partecipare come docenti esterni personalita' di particolare rilievo sotto il profilo scientifico e professionale. Tali nominativi proposti dal docente incaricato del singolo corso, devono essere approvati dal direttore della scuola.   
-Art. 101. - Il consiglio della scuola si compone del direttore che lo presiede e di tutti i professori appartenenti alla scuola. Al consiglio competono le funzioni inerenti alla organizzazione, funzionamento dell'attivita' didattica e scientifica della scuola, salvo i casi riservati per legge, per regolamento e per statuto alle altre autorita' accademiche.   
-Alle riunioni del consiglio partecipa con voto consultivo un rappresentante degli studenti della scuola eletto annualmente dagli stessi.   
-Entro il mese di ottobre di ogni anno il consiglio approva i programmi didattici e scientifici della scuola presentati per iscritto dal direttore e dai singoli docenti; stabilisce altresi' l'orario delle lezioni.   
-Art. 102. - Il numero massimo delle iscrizioni annualmente consentite e' di venti, ma puo' essere ridotto con delibera del consiglio della scuola, sentito il senato accademico. L'ammissione alla scuola ha luogo a seguito di concorso pubblico per titoli ed esami, consistenti in una prova scritta ed in un colloquio orale aventi per oggetto le discipline aziendali, economiche e giuridiche.  
-La commissione giudicatrice e' composta da cinque membri ed e' nominata annualmente dal rettore, su proposta del consiglio della scuola.   
-Art. 103. - Il corso degli studi della scuola ha la durata di due anni. Il piano di studi e' il seguente:   
-1° Anno:   
-1) metodi statistici (annuale);   
-2) legislazione sulle banche, sulle borse e sul risparmio (annuale);   
-3) teoria monetaria e del credito (annuale);   
-4) storia delle istituzioni creditizie (semestrale);   
-5) analisi della struttura dei sistemi economici (annuale);   
-6) economia delle imprese industriali (annuale);   
-7) mercato monetario e gestione di tesoreria degli intermediari creditizi (annuale);   
-8) mercato finanziario e gestione del portafoglio titoli (semestrale);   
-9) analisi finanziaria (semestrale);   
-10) gestione valutaria (annuale);   
-11) lingua inglese I (annuale).   
-2° Anno:   
-1) teoria delle decisioni (annuale);   
-2) politica monetaria e creditizia (annuale);   
-3) analisi del sistema finanziario internazionale (annuale);   
-4) analisi della congiuntura (annuale);   
-5) diritto bancario (annuale);   
-6) titoli di credito (semestrale);   
-7) tecniche di gestione del portafoglio fidi (semestrale);   
-8) analisi dei progetti di investimenti (semestrale);   
-9) analisi di redditivita', degli intermediari creditizi (semestrale);   
-10) lingua inglese II (annuale).   
-La frequenza ai corsi di lingua inglese ed i relativi esami di profitto sono obbligatori solo per gli iscritti che, in apposita prova scritta ed orale sostenuta all'inizio del 1° anno di corso non abbiano dimostrato un'adeguata conoscenza della lingua inglese.   
-Art. 104. - L'attivita' didattica si svolge attraverso lezioni, esercitazioni e seminari anche a carattere interdisciplinare. La frequenza e' obbligatoria ed i docenti hanno l'obbligo di registrare le assenze.   
-Nell'ambito di ciascun corso, ogni allievo e' tenuto alla preparazione di periodici elaborati scritti su temi concordati con il docente: la discussione e la valutazione di tali elaborati possono essere individuali o di gruppo.   
-Art. 105. - Gli iscritti alla scuola debbono sostenere per tutte le materie del piano di studi esami di profitto. La sessione degli esami e' unica e verra' espletata nel mese di giugno per i corsi semestrali e nel mese di ottobre per i corsi annuali.   
-Non puo' essere iscritto al 2° anno di corso chi non abbia superato tutti gli esami del primo anno.   
-L'esame finale di diploma consiste in una dissertazione scritta avente per oggetto un argomento inerente le discipline aziendali, economiche e giuridiche incluse nel piano di studi della scuola.   
-A coloro che abbiano superato tutti gli esami prescritti e' rilasciato il diploma di specializzazione in discipline bancarie.   
-Art. 106. - Le tasse, soprattasse e contributi della scuola di specializzazione in discipline bancarie sono cosi' fissate:   
+Scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva  
   
+Art. 178. - La scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva ha sede presso gli istituti di clinica chirurgica generale, patologia speciale chirurgica e semeiotica chirurgica dell'Universita' di Siena, e conferisce il diploma di specialista in chirurgia dell'apparato digerente ed endoscopia digestiva.  
+Art. 179. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Art. 180. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.  
+Art. 181. - La durata del corso degli studi e' di cinque anni e non e' suscettibile di abbreviazione.  
+Art. 182. - Il numero massimo degli allievi e' di nove per anno di corso e, complessivamente, di quarantacinque iscritti per l'intero corso di studi.  
+Art. 183. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 184. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+anatomia descrittiva e topografica specialistica I;  
+fisiopatologia e semeiotica funzionale I;  
+anatomia ed istologia patologica I;  
+patologia chirurgica I.  
+2° Anno:  
+anatomia descrittiva e topografica specialistica II fisiopatologia e semeiotica funzionale II;  
+anatomia ed istologia patologica II;  
+patologia chirurgica II;  
+semeiotica chirurgica I;  
+radiologia e medicina nucleare I;  
+endoscopia digestiva diagnostica e terapeutica I  
+3° Anno:  
+patologia chirurgica III;  
+semeiotica chirurgica II;  
+radiologia e medicina nucleare II;  
+endoscopia digestiva diagnostica e terapeutica II;  
+clinica e terapia chirurgica I;  
+tecniche operatorie I.  
+4° Anno:  
+semeiotica chirurgica III;  
+radiologia e medicina nucleare III;  
+endoscopia digestiva diagnostica e terapeutica III;  
+clinica e terapia chirurgica II;  
+tecniche operatorie II;  
+anestesia e rianimazione;  
+riabilitazione in chirurgia digestiva.  
+5° Anno:  
+clinica chirurgica e terapia chirurgica III;  
+tecniche operatorie III;  
+chirurgia d'urgenza dell'apparato digerente;  
+chirurgia pediatrica dell'apparato digerente;  
+terapia intensiva.  
+Art. 185. - La frequenza alle lezioni, alle esercitazioni pratiche, ai periodi di internato e' obbligatoria per l'ammissione agli esami; il superamento degli esami di ciascun anno sara' condizione indispensabile per l'iscrizione all'anno successivo.  
+Art. 186. - Al termine del quinquennio, per ottenere il diploma, i candidati dovranno presentare una dissertazione scritta su un argomento di chirurgia dell'apparato digerente ed endoscopia digestiva da discutere davanti all'apposita commissione e dovranno inoltre sostenere una prova clinica.  
+Art. 187. - Le tasse, soprattasse e contributi della scuola sono cosi' fissate:  
   
-tassa di immatricolazione 1° anno . . . . . . . . . . . . . .L. 12.000  
-tassa annuale di iscrizione. . . . . . . . . . . . . . . . .L. 200.000  
-soprattassa annuale di esame. . . . . . . . . . . . . . . . .L. 16.000  
-contributo annuale per esercitazioni  
-e laboratorio linguistico. L.. . . . . . . . . . . . . . . . . 14.000  
-tassa di diploma . . . . . . . . . . . . . . . . . . . . . . .L. 6.000  
-  
-  
-Le modifiche alle tasse, soprattasse e contributi della scuola di specializzazione in discipline bancarie sono deliberate dal consiglio di amministrazione dell'Universita', su proposta del senato accademico, sentiti i consigli di scienze economiche e bancarie e della scuola di specializzazione in discipline bancarie.   
-Art. 107. - I proventi della scuola di specializzazione in discipline bancarie sono costituiti dalle tasse, soprattasse e contributi di cui all'articolo precedente nonche' da eventuali contributi dello Stato, dell'Universita' e di enti pubblici e privati.   
-Art. 108. - Entro i limiti di queste norme statutarie, il consiglio della scuola potra' proporre un regolamento interno che sara' emanato con decreto del rettore, previa approvazione del consiglio della facolta' di scienze economiche e bancarie.   
+immatricolazione. . . . . . . . . . . . . . . . . . . . . . L. 12.000 tassa annuale di iscrizione. . . . . . . . . . . . . . . . L. 200.000 soprattassa annuale di esame. . . . . . . . . . . . . . . . L. 16.000 contributi annui di laboratorio . . . . . . . . . . . . . . L. 14.000 tassa di diploma. . . . . . . . . . . . . . . . . . . . . . L. 20.000   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 marzo 1980
+### Dato a Roma, addi' 31 ottobre 1978
 
-PERTINI VALITUTTI
+PERTINI PEDINI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 29 settembre 1980
+Registrato alla Corte dei conti, addi' 30 gennaio 1979
 
-Registro n. 89 Istruzione, foglio n. 257
+Registro n. 4 Istruzione, foglio n. 12

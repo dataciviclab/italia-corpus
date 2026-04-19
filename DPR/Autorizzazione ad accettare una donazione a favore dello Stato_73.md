@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 aprile 1975 n. 458
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 679
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 aprile 1975 n. 458
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 679
 =============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-458. Decreto del Presidente della Repubblica 28 aprile 1975, col quale, sulla proposta del Ministro per le finanze, di concerto con il Ministro per il lavoro e la previdenza sociale, viene autorizzata l'accettazione di una donazione a favore dello Stato, disposta dal comune di Forlimpopoli (Forli), con atto 18 settembre 1954, n. 591 di repertorio, a rogito notaio Vincenzo Santelmo, consistente in un suolo di mq 216, catastalmente indicato nell'atto suddetto e sul quale il Ministero del lavoro e della previdenza sociale, con le esercitazioni pratiche di un corso di qualificazione professionale, ha gia' realizzato un edificio adibito a sede dell'ufficio di collocamento di quel comune.  
+679. Decreto del Presidente della Repubblica 17 maggio 1986, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione, consistente in una raccolta di cinque tavole e una statuetta di porcellana, le quali rivestono un interesse artistico, con destinazione alla Pinacoteca nazionale di Brera, in Milano, disposta dal conte Alfredo Gerli con atto 1 dicembre 1982, a rogito prof. Carlo Bertelli, soprintendente per i beni artistici e storici di Milano, registrato a Milano in data 13 dicembre 1982 al n. 55208.   
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 13 settembre 1975  
-Atti di Governo, registro n. 12, foglio n. 11
+Visto, il Guardasigilli: ROGNONI   
+Registrato alla Corte dei conti, addi' 10 ottobre 1986   
+Registro n. 26 Beni culturali, foglio n. 121

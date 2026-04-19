@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 941
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1956 n. 1209
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 941
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1956 n. 1209
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -10,46 +10,28 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE BELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098); modificato con i [regi decreti 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1743); [26 marzo 1942, n. 328, e con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-03-26;328) [22 ottobre 1946, n. 398 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-22;398) [30 ottobre 1949, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1027); [11 aprile 1951, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;565); [23 gennaio 1952, n. 365](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;365); [26 ottobre 1952, n. 4542](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4542); [10 febbraio 1953, n. 550](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;550); [30 luglio 1953, n. 716](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;716); [6 ottobre 1953, n. 1097](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-10-06;1097); [29 maggio 1954, n. 752](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-05-29;752); [24 settembre 1954, n. 1206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-24;1206); [16 febbraio 1955, n. 137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-16;137); [15 luglio 1955, n. 759](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-15;759); [8 agosto 1955, numero 911](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-08-08;911); [21 settembre 1955, n. 955](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-21;955) e [20 giugno 1956, n. 728](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-06-20;728);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 49. - Agli insegnamenti del biennio propedeutico di studi per la laurea in ingegneria e' aggiunto quello complementare di "elementi di architettura e rilievo di monumenti (biennale)".  
   
-Art. 56. - I commi sesto e settimo, relativi alle propedeuticita' degli esami nel corso di laurea in medicina e chirurgia sono abrogati e sostituiti dai seguenti:   
+Il presente decreto, munito delle sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.  
   
-Gli esami di "chimica" e di "fisica" debbono essere superati prima di sostenere quello di "chimica biologica" Gli esami di "anatomia umana normale" e di "chimica biologica" debbono essere superati prima di sostenere quello di "fisiologia umana".   
-L'esame di "fisiologia umana" deve essere superato prima di sostenere quello di "patologia generale".   
-Gli esami di "fisiologia umana" e di "patologia generale" debbono essere superati prima di sostenere quelli di "patologia speciale medica e metodologia clinica" e di "patologia speciale chirurgica e propedeutica clinica".   
-Gli esami di "fisiologia umana", di "patologia speciale medica e metodologia clinica" e di "patologia speciale chirurgica e propedeutica clinica" debbono essere superati prima di sostenere quello di "farmacologia".   
-L'esame di "patologia generale" deve essere superato prima di sostenere quelli di "patologia speciale chirurgica e propedeutica clinica".   
-L'esame di "patologia generale deve essere superato prima di sostenere quello di "anatomia e istologia patologica".   
-Gli esami di "anatomia patologica" e di "farmacologia" debbono essere superati prima di sostenere quelli di "medicina legale" e di "anestesiologia".   
-Gli esami di "patologia speciale medica e metodologia clinica", di "patologia speciale chirurgica e propedeutica clinica" e di "anatomia patologica" debbono essere superati prima di quelli di "clinica medica generale e terapia medica", di "clinica chirurgica generale e terapia chirurgica", di "clinica pediatrica", di "clinica delle malattie nervose e mentali", di "clinica ostetrica e ginecologica" e di "clinica ortopedica".   
-Gli esami di "patologia speciale medica e metodologia clinica" e di "patologia speciale chirurgica e propedeutica clinica" debbono essere superati prima di sostenere quelli di "anestesiologia e rianimazione", "medicina nucleare", "ortognatodonzia", "chirurgia maxillo-facciale", "medicina del lavoro", "medicina preventiva dei lavoratori e psicotecnica", "medicina sociale", "clinica delle malattie infettive e tropicali", "malattie dell'apparato digerente e del ricambio", "malattie dell'apparato cardiovascolare", "tisiologia", "endocrinologia", "gerontologia e geriatria", "farmacologia clinica", "terapia medica sistematica", "urologia", "chirurgia toracica", "neurochirurgia", "clinica chirurgica pediatrica", "neuropsichiatria infantile", "psichiatria" e "clinica delle malattie infettive".   
-L'esame di "patologia ostetrica e ginecologica" deve essere superato, dagli studenti che hanno scelto tale insegnamento complementare, prima di quello di "clinica ostetrica e ginecologica".   
-Gli articoli 115 e 116 concernenti le norme sulle abbreviazioni di corso per le scuole di specializzazione in medicina e chirurgia sono soppressi.   
+Dato a Roma, addi' 5 settembre 1956  
   
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo, a chiunque spetti di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Dato a Roma, addi' 31 ottobre 1972
-
-LEONE SCALFARO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 17 gennaio 1973
-
-Atti di Governo, registro n. 255, foglio n. 41. VALENTINI
+GRONCHI  
+  
+ROSSI   
+Visto, il Guardasigilli: MORO  
+Registrato alla Corte del conti, addi' 31 ottobre 1956  
+Atti del Governo, registro n. 101, foglio n. 109. - CARLOMAGNO  

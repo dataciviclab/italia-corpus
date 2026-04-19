@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 926
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 gennaio 1955 n. 219
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 926
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 gennaio 1955 n. 219
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni:
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, numero 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166) e modificato con [legge 1 giugno 1939, n. 872](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;872); con [regi decreti 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2056); [15 aprile 1942, n. 423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;423); [24 ottobre 1942, n. 1847; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1847) [27 luglio 1947, n. 1138 e con decreti dei Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-07-27;1138) [23 settembre 1949, n. 942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;942); [21 novembre 1949, n. 1194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-11-21;1194); [13 marzo 1950, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;283); [13 febbraio 1954, n. 750](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-02-13;750) e [14 settembre 1954, n. 1161](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1161);
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,142 +18,146 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi da Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 9. - Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di:
 
+15) "Istituzioni di diritto penale".
+
+Art. 18. - Agli insegnamenti complementari del corso di laurea in filosofia e' aggiunto quello di:
+
+17) "Filosofia della scienza".
+
+Art. 44. - Agli insegnamenti complementari del corso di laurea in scienze agrarie e' aggiunto quello di:
+
+11) "Genetica vegetale".
+
+Art. 98. - Dopo la scuola di perfezionamento in farmacia industriale e' aggiunta la "Scuola di specializzazione in chirurgia plastica ricostruttiva".
+
+Scuola di specializzazione in chirurgia plastica ricostruttica.
+
+a) La durata del corso degli studi della scuola di specializzazione in chirurgia plastica ricostruttiva e' di tre anni.
+
+b) La scuola fa parte integrante dell'Istituto di chimica chirurgica generale e la direzione della scuola e' conferita dalla Facolta' secondo le norme generali che regolano la direzione delle scuole di perfezionamento.
+
+c) Gli insegnanti della scuola sono nominati dal rettore dell'Universita', su proposta del Consiglio della Facolta' di medicina e chirurgia, udito il direttore della scuola.
+
+d) Durante i tre anni di corso lo specializzando e' tenuto a prestare servizio nei reparto al quale viene assegnato ed a frequentare le lezioni e le esercitazioni.
+
+e) Gli specializzandi sono assegnati in turni periodici ai reparti di chirurgia plastica istituiti presso il Policlinico universitario, gli Istituti ospedalieri di Milano, l'Istituto mutilati del viso e gli altri eventuali reparti della specialita', secondo le disposizioni del direttore della scuola.
+
+f) Durante i tre anni di corso verranno impartiti i seguenti insegnamenti:
+
+1) Fondamenti embriologici, anatomici e fisiologici della chirurgia plastica;
+
+2) Nozioni di patologia generale ed anatomia patologica (processo di guarigione delle ferite, patologia delle cicatrici, infiammazioni, tumori, malformazioni, biologia degli innesti e dei trapianti);
+
+3) Nozioni di oculistica, otorinolaringologia, stomatologia, traumatologia, urologia e dermatologia nei rapporti con la chirurgia plastica;
+
+4) Nozioni di radiodiagnostica e radioterapia;
+
+5) Anatomia chirurgica e medicina operatoria;
+
+6) Tecniche speciali di chirurgia plastica;
+
+7) Tecniche di anestesia e particolari indicazioni;
+
+8) Trattamento pre e post-operatorio;
+
+9) Esercitazioni pratiche cliniche e operatorie.
+
+Nel manifesto annuale la Facolta' comunichera' il piano di studi consigliato e la ripartizione degli insegnanti fra i vari anni di corso. Il manifesto annuale indichera' pure il numero massimo di posti disponibili al primo corso e le modalita' per l'ammissione alla scuola.
+
+g) Al termine di ogni anno accademico, lo specializzando che abbia ottenuto le prescritte attestazioni di frequenza, dovra', per potersi iscrivere al successivo anno, di corso, superare gli esami in tutte le materie comprese nel piano degli studi.
+
+Per essere ammesso all'esame di diploma lo specializzando dovra' aver superato tutti gli esami di profitto previsti dal piano degli studi.
+
+h) Per l'ammissione agli esami di profitto e all'esame di diploma, e per la composizione delle relative Commissioni esaminatrici, valgono le norme generali previste dallo statuto per le scuole di perfezionamento della Facolta' di medicina e chirurgia.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 27 gennaio 1955
+
+EINAUDI
+
+ERMINI
+
+Visto, il Guardasigilli: DE PIETRO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 2 aprile 1955 Atti del Governo, registro n. 80, foglio n. 3. - CARLOMAGNO
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Dopo l'art. 195, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in cardiologia (seconda scuola):  
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, numero 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166) e modificato con [legge 1 giugno 1939, n. 872](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;872); con [regi decreti 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2056); [15 aprile 1942, n. 423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;423); [24 ottobre 1942, n. 1847; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1847) [27 luglio 1947, n. 1138 e con decreti dei Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-07-27;1138) [23 settembre 1949, n. 942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;942); [21 novembre 1949, n. 1194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-11-21;1194); [13 marzo 1950, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;283); [13 febbraio 1954, n. 750](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-02-13;750) e [14 settembre 1954, n. 1161](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1161);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Scuola di specializzazione in cardiologia (seconda scuola)  
+Decreta:  
   
-Art. 196. - E' istituita la seconda scuola di specializzazione in cardiologia presso l'Universita' degli studi di Milano.  
-La scuola ha lo scopo di insegnare e di approfondire gli studi nel campo della cardiologia e di fornire le competenze professionali necessarie per il conseguimento del diploma che legittima l'assunzione della qualifica di specialista in cardiologia.  
-La scuola rilascia il titolo di specialista in cardiologia.  
-Art. 197. - La scuola ha la durata di quattro anni.  
-Ciascun anno di corso prevede ottocento ore di insegnamento e di attivita' pratiche guidate.  
-In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in otto per ciascun anno di corso, per un totale di trentadue specializzandi.  
-Art. 198. - Per l'attuazione delle attivita' didattiche programmate dal consiglio della scuola provvede la facolta' di medicina e chirurgia.  
-Art. 199. - Sono ammessi alle prove per ottenere l'iscrizione i laureati in medicina e chirurgia.  
-Per l'iscrizione alla scuola e' richiesto il possesso del diploma di abilitazione all'esercizio professionale.  
-Art. 200. - La scuola comprende dieci aree di insegnamento e tirocinio professionale:  
-a) strutture e metabolismo del cuore e dei vasi;  
-b) fisiologia dell'apparato cardiovascolare;  
-c) fisiopatologia cardiorespiratoria;  
-d) medicina interna generale;  
-e) semeiotica generale cardiovascolare;  
-f) informatica medica e strumentazione biomedica;  
-g) metodologie diagnostiche non invasive;  
-h) metodologie diagnostiche invasive e cardiochirurgia;  
-i) patologia e clinica cardiovascolare;  
-l) farmacologia e terapia cardiovascolare.  
-Art. 201. - Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:  
-a) struttura e metabolismo del cuore e dei vasi:  
-anatomia umana normale ed embriologia dell'apparato cardiovascolare;  
-biochimica;  
-biofisica.  
-b) fisiologia dell'apparato cardiovascolare:  
-fisiologia dell'apparato cardiovascolare I;  
-fisiologia dell'apparato cardiovascolare II.  
-c) fisiopatologia cardiorespiratoria:  
-fisiopatologia cardiorespiratoria I;  
-fisiopatologia cardiorespiratoria II.  
-d) medicina interna generale:  
-fondamenti di semeiotica medica;  
-rapporti tra patologia dei vari apparati e patologia cardiovascolare.  
-e) semeiotica generale cardiovascolare:  
-semeiotica del ricambio idrosalino;  
-semeiotica fisica cardiovascolare I;  
-semeiotica fisica cardiovascolare II.  
-f) informatica medica e strumentazione biomedica:  
-informatica medica e strumentazione biomedica I;  
-informatica medica e strumentazione biomedica II.  
-g) metodologie diagnostiche non invasive:  
-indagini diagnostiche non invasive I (elettrocardiografia e vettocardiografia, fonocardiografia e poligrafia);  
-indagini diagnostiche non invasive II (semeiotica funzionale vascolare periferica, ergometria);  
-indagini diagnostiche non invasive III (elettrocardiografia dinamica, ecocardiografia, radiologia non contrastografica, TAC, risonanza magnetica nucleare (RMN), metodiche radioisotopiche).  
-h) metodologie diagnostiche invasive e cardiochirurgia:  
-indagini diagnostiche invasive I (emodinamica, elettrofisiologia);  
-indagini diagnostiche invasive II (radiologia contrastografica);  
-cardiochirurgia.  
-i) patologia e clinica cardiovascolare:  
-anatomia patologica I;  
-anatomia patologica II;  
-patologia e clinica cardiovascolare I;  
-patologia e clinica cardiovascolare II;  
-patologia e clinica cardiovascolare III.  
-l) farmacologia e terapia cardiovascolare:  
-farmacologia cardiovascolare;  
-farmacologia e terapia cardiovascolare;  
-terapie intensive cardiologiche.  
-Art. 202. - L'attivita' didattica comprende ogni anno ottocento ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in una attivita' didattica teorico-pratica comune per tutti gli studenti (quattrocento ore come di seguito ripartite) ed in una attivita' didattica elettiva, prevalentemente di carattere tecnico-applicativo di ulteriori quattrocento ore, rivolta all'apprendimento del curriculum corrispondente ad uno dei settori formativo-professionali (monte ore elettivo).  
+Lo statuto dell'Universita' degli studi da Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 9. - Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di:  
+15) "Istituzioni di diritto penale".  
+Art. 18. - Agli insegnamenti complementari del corso di laurea in filosofia e' aggiunto quello di:  
+17) "Filosofia della scienza".  
+Art. 44. - Agli insegnamenti complementari del corso di laurea in scienze agrarie e' aggiunto quello di:  
+11) "Genetica vegetale".  
+Art. 98. - Dopo la scuola di perfezionamento in farmacia industriale e' aggiunta la "Scuola di specializzazione in chirurgia plastica ricostruttiva".  
   
-La frequenza nelle diverse aree avviene pertanto come di seguito specificato:  
-  
-1° Anno:  
-strutture e metabolismo del cuore e dei vasi. . . . . (ore 50): anatomia umana normale ed embriologia dell'apparato cardiovascolare. . . . . . . . . . . . . . . . . . . . . . . . ore 20 biochimica e biofisica. . . . . . . . . . . . . . . . ore 30. fisiologia dell'apparato cardiovascolare. . . . . . . (ore 50): fisiologia dell'apparato cardiovascolare I. . . . . . ore 50. fisiopatologia cardiorespiratoria. . . . . . . . . . (ore 100): fisiopatologia cardiorespiratoria I. . . . . . . . . ore 100. medicina interna generale. . . . . . . . . . . . . . (ore 100): fondamenti di semeiotica medica. . . . . . . . . . . . ore 50 rapporti fra patologia di vari apparati e patologia cardiovascolare . . . . . . . . . . . . . . . . . . . . . . . ore 50. semeiotica generale cardiovascolare . . . . . . . . . (ore 50): semeiotica del ricambio idrosalino. . . . . . . . . . ore 50. informatica medica e strumentazione biomedica . . . . (ore 50): informatica medica e strumentazione biomedica I . . . ore 50.  
-Monte ore elettivo . . . . . . . . . . . . . . . . . . ore 400.   
-2° Anno:  
-fisiologia dell'apparato cardiovascolare. . . . . . . (ore 50): fisiologia dell'apparato cardiovascolare II . . . . . ore 50. fisiopatologia cardiorespiratoria . . . . . . . . . . (ore 50): fisiopatologia cardiorespiratoria II. . . . . . . . . ore 50. semeiotica generale cardiovascolare . . . . . . . . . (ore 50): semeiotica fisica cardiovascolare II. . . . . . . . . ore 50. informatica medica e strumentazione biomedica . . . . (ore 50): informatica medica e strumentazione biomedica II. . . ore 50. metodologie diagnostiche non invasive . . . . . . . . (ore 50): indagini diagnostiche non invasive I. . . . . . . . . ore 50. metodologie diagnostiche invasive e cardiochirurgia . (ore 50): indagini diagnostiche invasive I. . . . . . . . . . . ore 50. patologia clinica cardiovascolare . . . . . . . . . . (ore 50): anatomia patologica I. . . . . . . . . . . . . . . . . ore 20 patologia e clinica cardiovascolare I . . . . . . . . ore 30. farmacologia e terapia cardiovascolare. . . . . . . . (ore 50): farmacologia cardiovascolare. . . . . . . . . . . . . ore 50.  
-Monte ore elettivo . . . . . . . . . . . . . . . . . . ore 400.   
-3° Anno:  
-semeiotica generale e cardiovascolare (ore 50):  
-semeiotica fisica cardiovascolare II. . . . . . . . . ore 50. metodologie diagnostiche non invasive. . . . . . . . (ore 100); indagini diagnostiche non invasive II. . . . . . . . . ore 100. metodologie diagnostiche invasive e cardiochirurgia . . (ore 50): indagini diagnostiche invasive II . . . . . . . . . . . ore 50. patologia e clinica cardiovascolare. . . . . . . . . . (ore 100): anatomia patologica II . . . . . . . . . . . . . . . . . ore 20 patologia e clinica cardiovascolare II. . . . . . . . . ore 80. farmacologia e terapia cardiovascolare . . . . . . . . (ore 100): farmacologia e terapia cardiovascolare . . . . . . . . ore 100.  
-Monte ore elettivo . . . . . . . . . . . . . . . . . . . ore 400.   
-4° Anno:  
-metodologie diagnostiche non invasive. . . . . . . . . (ore 100): indagini diagnostiche non invasive III . . . . . . . . ore 100. metodologie diagnostiche invasive e cardiochirurgia. . (ore 100):  
-cardiochirurgia. . . . . . . . . . . . . . . . . . . . ore 100. patologia clinica cardiovascolare. . . . . . . . . . . (ore 100): patologia e clinica cardiovascolare III. . . . . . . . ore 100. farmacologia e terapia cardiovascolare . . . . . . . . (ore 100): terapie intensive cardiologiche. . . . . . . . . . . . ore 100.  
-Monte ore elettivo . . . . . . . . . . . . . . . . . . . ore 400.  
-  
-Art. 203. - Durante i quattro anni di corso e' richiesta la frequenza ai fini dell'apprendimento nei seguenti reparti/divisioni/ambulatori/laboratori:  
-reparti clinici di degenza;  
-ambulatori di cardiologia;  
-ambulatori di ipertensione;  
-reparti di cura intensiva e semintensiva coronarica;  
-laboratori di informatica;  
-laboratori di analisi radioimmunologica;  
-laboratori di diagnostica delle arteriopatie periferiche;  
-laboratori di cardiologia e ipertensione sperimentale;  
-laboratori di emodinamica cardiaca non invasiva e invasiva;  
-laboratorio di radiodiagnostica cardiovascolare e coronarica;  
-laboratorio di indagine dei sistemi di controllo nervoso ed umorale del circolo sanguigno;  
-laboratorio di elettrofisiologia sperimentale;  
-laboratorio di elettrofisiologia clinica ed elettrocardiografia dinamica;  
-laboratorio di monitoraggio in continuo della pressione arteriosa;  
-laboratori di farmacologia clinica.  
-La frequenza nelle varie aree per complessive ottocento ore annue, compreso il monte ore elettivo di quattrocento annue, avverra' secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienza e di formazione professionale. Il consiglio della scuola ripartira' annualmente il monte ore elettivo.  
-Il consiglio della scuola predispone apposito libretto di formazione che consenta allo specializzando ed al consiglio stesso il controllo della attivita' svolta e dell'acquisizione dei progressi compiuti, per sostenere gli esami annuali e finali.  
+Scuola di specializzazione in chirurgia plastica ricostruttica.  
+a) La durata del corso degli studi della scuola di specializzazione in chirurgia plastica ricostruttiva e' di tre anni.  
+b) La scuola fa parte integrante dell'Istituto di chimica chirurgica generale e la direzione della scuola e' conferita dalla Facolta' secondo le norme generali che regolano la direzione delle scuole di perfezionamento.  
+c) Gli insegnanti della scuola sono nominati dal rettore dell'Universita', su proposta del Consiglio della Facolta' di medicina e chirurgia, udito il direttore della scuola.  
+d) Durante i tre anni di corso lo specializzando e' tenuto a prestare servizio nei reparto al quale viene assegnato ed a frequentare le lezioni e le esercitazioni.  
+e) Gli specializzandi sono assegnati in turni periodici ai reparti di chirurgia plastica istituiti presso il Policlinico universitario, gli Istituti ospedalieri di Milano, l'Istituto mutilati del viso e gli altri eventuali reparti della specialita', secondo le disposizioni del direttore della scuola.  
+f) Durante i tre anni di corso verranno impartiti i seguenti insegnamenti:  
+1) Fondamenti embriologici, anatomici e fisiologici della chirurgia plastica;  
+2) Nozioni di patologia generale ed anatomia patologica (processo di guarigione delle ferite, patologia delle cicatrici, infiammazioni, tumori, malformazioni, biologia degli innesti e dei trapianti);  
+3) Nozioni di oculistica, otorinolaringologia, stomatologia, traumatologia, urologia e dermatologia nei rapporti con la chirurgia plastica;  
+4) Nozioni di radiodiagnostica e radioterapia;  
+5) Anatomia chirurgica e medicina operatoria;  
+6) Tecniche speciali di chirurgia plastica;  
+7) Tecniche di anestesia e particolari indicazioni;  
+8) Trattamento pre e post-operatorio;  
+9) Esercitazioni pratiche cliniche e operatorie.  
+Nel manifesto annuale la Facolta' comunichera' il piano di studi consigliato e la ripartizione degli insegnanti fra i vari anni di corso. Il manifesto annuale indichera' pure il numero massimo di posti disponibili al primo corso e le modalita' per l'ammissione alla scuola.  
+g) Al termine di ogni anno accademico, lo specializzando che abbia ottenuto le prescritte attestazioni di frequenza, dovra', per potersi iscrivere al successivo anno, di corso, superare gli esami in tutte le materie comprese nel piano degli studi.  
+Per essere ammesso all'esame di diploma lo specializzando dovra' aver superato tutti gli esami di profitto previsti dal piano degli studi.  
+h) Per l'ammissione agli esami di profitto e all'esame di diploma, e per la composizione delle relative Commissioni esaminatrici, valgono le norme generali previste dallo statuto per le scuole di perfezionamento della Facolta' di medicina e chirurgia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1985
+### Dato a Roma, addi' 27 gennaio 1955
 
-COSSIGA
+EINAUDI ERMINI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DE PIETRO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 2 aprile 1955
 
-Registrato alla Corte dei conti, addi' 14 febbraio 1986
-
-Registro n. 9 Istruzione, foglio n. 120
+Atti del Governo, registro n. 80, foglio n. 3. - CARLOMAGNO

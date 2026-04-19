@@ -1,198 +1,23 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 ottobre 1972 n. 758
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 settembre 1955 n. 950
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 ottobre 1972 n. 758
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 settembre 1955 n. 950
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 settembre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-09-02;1471), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Dopo l'art. 124 sono aggiunti i seguenti nuovi articoli relativi alla scuola speciale di servizio sociale annessa alla facolta' di scienze politiche.
-
-Scuola di servizio sociale
-
-Art. 125. - Presso la facolta' di scienze politiche dell'Universita' degli studi di Perugia e' istituita una "Scuola speciale di servizio sociale" ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20).
-
-La scuola si propone di preparare all'esercizio; della professione di assistente sociale mediante l'insegnamento teorico delle discipline necessarie e la sua integrazione con le opportune esercitazioni pratiche.
-
-La scuola conferisce il diploma di assistente sociale.
-
-Art. 126. - Per l'ammissione alla scuola e' richiesto il medesimo titolo di studio che consente l'iscrizione ad una facolta' universitaria, compreso il diploma di abilitazione magistrale, nonche' il superamento di una prova a carattere attitudinale.
-
-Art. 127. - I proventi della scuola costituiti dalle tasse scolastiche, dal contributo dell'universita' ed eventualmente dello Stato, della regione e di altri enti pubblici e privati, sono amministrati separatamente dalle entrate universitarie.
-
-La scuola ha un proprio bilancio che viene approvato dal consiglio di amministrazione dell'universita', quale allegato del bilancio universitario.
-
-Art. 128. - Il consiglio della scuola e' composto:
-
-a) dai docenti della scuola;
-
-b) dal direttore delle esercitazioni e dei tirocini professionali;
-
-c) da un rappresentante degli assistenti ai corsi - (monitori);
-
-d) da un rappresentante per corso degli studenti;
-
-e) dai rappresentanti, in numero non superiore a tre, degli enti o privati finanziatori della scuola per un minimo di un milione annuo.
-
-Art. 129. - Il consiglio della scuola propone al rettore il direttore da scegliersi fra i docenti della scuola.
-
-Il rettore procede alla nomina sentita la facolta' di scienze politiche.
-
-Il direttore presiede il consiglio della scuola, ha la rappresentanza e la direzione della scuola e ne assicura la disciplina.
-
-Il direttore convoca il consiglio della scuola almeno due volte all'anno per deliberare sulle questioni di natura didattica e disciplinare.
-
-Il direttore dura in carica un triennio e puo' essere riconfermato.
-
-Art. 130. - I docenti, il direttore delle esercitazioni e dei tirocini professionali ed il personale della scuola sono nominati dal rettore, su proposta del consiglio della facolta' di scienze politiche, sentito il direttore della scuola.
-
-I docenti della scuola sono scelti tra i professori di ruolo, aggregati, incaricati, liberi docenti, e assistenti della Universita' di Perugia, nonche' tra coloro che, per opere o per funzioni, per le attivita' esercitate o gli insegnamenti tenuti, siano di riconosciuta competenza ed esperienza nelle materie che formano oggetto dell'insegnamento.
-
-L'assistenza alle esercitazioni e ai tirocini professionali e' affidata ad esperti di servizio sociale (monitori) - la cui attivita' e' coordinata dal direttore delle esercitazioni e dei tirocini professionali.
-
-I docenti degli insegnamenti professionali, il direttore delle esercitazioni e dei tirocini professionali, ed i monitori, debbono possedere il diploma di assistente sociale.
-
-Art. 131. - Il corso degli studi per il conseguimento del diploma di assistente sociale ha la durata di tre anni.
-
-Le materie d'insegnamento della scuola sono le seguenti:
-
-Gruppo A - Insegnamenti di base:
-
-1) Filosofia morale;
-
-2) Psicologia;
-
-3) Psicopatologia;
-
-4) Psicologia sociale;
-
-5) Antropologia culturale;
-
-6) Sociologia (biennale);
-
-7) Storia politica-sociale dell'Italia nel secolo xx e problemi di politica economica;
-
-8) Organizzazione e amministrazione dello Stato e degli enti pubblici;
-
-9) Diritto di famiglia e legislazione minorile;
-
-10) Diritto del lavoro e legislazione sociale;
-
-11) Legislazione assistenziale (semestrale);
-
-12) Biologia e fisiologia umana (semestrale);
-
-13) Igiene e medicina sociale (semestrale);
-
-14) Metodologia della ricerca sociale.
-
-Gruppo B - Insegnamenti professionali:
-
-1) Teoria, principi e metodologia del servizio sociale;
-
-2) Servizio sociale individuale (biennale);
-
-3) Servizio sociale di gruppo (biennale);
-
-4) Servizio sociale di comunita' (biennale);
-
-5) Amministrazione dei servizi sociali (biennale);
-
-6) Ricerca sociale e servizio sociale (biennale);
-
-7) Etica professionale.
-
-Gli insegnamenti teorici vengono impartiti con lezioni e discussioni, esercitazioni e seminari allo scopo di favorire l'integrazione e il coordinamento interdisciplinare.
-
-Attivita' pratiche e tirocini.
-
-A completamento ed applicazione degli insegnamenti teorici, vengono effettuati nel triennio esercitazioni pratiche, visite ad enti ed istituzioni e tirocini professionali.
-
-Questi ultimi, consistenti in esperienze concrete di servizio sociale, sono svolti dagli studenti in diversi settori, sotto la guida di assistenti sociali (monitrici).
-
-Art. 132. - Il consiglio della scuola, ogni anno, stabilisce, per ogni triennio, il piano generale degli studi e degli addestramenti pratici e determina le ore di lezione da assegnare a ciascuna disciplina secondo le esigenze di ogni singolo insegnamento. Su proposta del direttore puo' stabilire un numero minimo di iscrizioni; qualora tale numero non sia raggiunto, il rettore dell'universita' ha la facolta' di disporre il non inizio dei corsi.
-
-Art. 133. - Le commissioni per gli esami di profitto sono composte da tre membri nominati dal direttore.
-
-(Il docente della materia e due docenti di altri insegnamenti).
-
-Per essere ammessi agli esami gli iscritti dovranno aver ottenuto le relative firme di frequenza alle lezioni ed esercitazioni.
-
-Per essere ammessi agli esami di diploma gli iscritti dovranno aver superato gli esami di profitto stabiliti dal programma della scuola.
-
-La commissione per l'esame di diploma e' composta da sette membri scelti dal rettore fra gli insegnanti della scuola.
-
-L'esame di diploma consiste in una discussione sopra una dissertazione originale scelta tra una delle discipline insegnate nella scuola.
-
-L'argomento della dissertazione di diploma dovra' essere concordato con l'insegnante della materia prescelta, almeno quattro mesi prima della discussione.
-
-Art. 134. - La scuola ha un regolamento proposto dal consiglio ed approvato dal rettore su parere conforme del consiglio di amministrazione della universita':
-
-Art. 135. - Gli studenti provenienti da altre scuole di servizio sociale possono ottenere l'abbreviazione degli studi in base agli esami sostenuti ed essere ammessi, a giudizio del consiglio della scuola, al 2° o al 3° anno di corso.
-
-Art. 136. - Le tasse e soprattasse sono fissate, a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7), nelle seguenti misure:
-
-Tassa di immatricolazione, L. 5000;
-
-Tassa annuale di iscrizione, L. 18.000.
-
-Tassa di diploma, L. 6000.
-
-Soprattassa annuale per esami di profitto, L. 7000.
-
-Soprattassa per esami di diploma, L. 3000.
-
-La tassa annuale per gli studenti fuori corso che chiedono la ricognizione della qualita' di studente, e' di L. 5000 per i primi due anni fuori corso e aumenta del 30% di detta somma per ogni anno successivo; l'ammontare della soprattassa per la ripetizione degli esami di profitto e di diploma e' fissata nella misura di L. 500 per ogni esame di profitto e di L. 1000 per l'esame di diploma. Gli eventuali contributi sono stabiliti dal consiglio di amministrazione dell'universita' su proposta del senato accademico, sentito il consiglio dei professori della scuola.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 12 ottobre 1972
-
-LEONE
-
-SCALFARO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 5 dicembre 1972 Atti del Governo, registro n. 253, foglio n. 104. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 settembre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-09-02;1471), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con i [regi decreti 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-02;1471); [17 ottobre 1941, n. 1205](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-10-17;1205); [5 settembre 1942, n. 1239](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1239); [24 ottobre 1942, n. 1651; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1651) [5 ottobre 1946, n. 309 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-05;309) [28 luglio 1950, n. 936](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-28;936); [30 ottobre 1950, n. 1128](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1128); [11 aprile 1951, n. 472](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;472); [27 ottobre 1951, n. 1675](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1675); [14 marzo 1952, n. 768](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-03-14;768); [11 marzo 1953, n. 457](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;457); [6 ottobre 1953, n. 1110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-10-06;1110); [14 settembre 1954, n. 1009](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1009); [26 ottobre 1954, n. 1203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-26;1203); [4 febbraio 1955, n. 117](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;117) e [27 luglio 1955, n. 803](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-27;803);  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -200,91 +25,31 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Dopo l'art. 124 sono aggiunti i seguenti nuovi articoli relativi alla scuola speciale di servizio sociale annessa alla facolta' di scienze politiche.  
-  
-Scuola di servizio sociale  
-  
-Art. 125. - Presso la facolta' di scienze politiche dell'Universita' degli studi di Perugia e' istituita una "Scuola speciale di servizio sociale" ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20).  
-La scuola si propone di preparare all'esercizio; della professione di assistente sociale mediante l'insegnamento teorico delle discipline necessarie e la sua integrazione con le opportune esercitazioni pratiche.  
-La scuola conferisce il diploma di assistente sociale.  
-Art. 126. - Per l'ammissione alla scuola e' richiesto il medesimo titolo di studio che consente l'iscrizione ad una facolta' universitaria, compreso il diploma di abilitazione magistrale, nonche' il superamento di una prova a carattere attitudinale.  
-Art. 127. - I proventi della scuola costituiti dalle tasse scolastiche, dal contributo dell'universita' ed eventualmente dello Stato, della regione e di altri enti pubblici e privati, sono amministrati separatamente dalle entrate universitarie.  
-La scuola ha un proprio bilancio che viene approvato dal consiglio di amministrazione dell'universita', quale allegato del bilancio universitario.  
-Art. 128. - Il consiglio della scuola e' composto:  
-a) dai docenti della scuola;  
-b) dal direttore delle esercitazioni e dei tirocini professionali;  
-c) da un rappresentante degli assistenti ai corsi - (monitori);  
-d) da un rappresentante per corso degli studenti;  
-e) dai rappresentanti, in numero non superiore a tre, degli enti o privati finanziatori della scuola per un minimo di un milione annuo.  
-Art. 129. - Il consiglio della scuola propone al rettore il direttore da scegliersi fra i docenti della scuola.  
-Il rettore procede alla nomina sentita la facolta' di scienze politiche.  
-Il direttore presiede il consiglio della scuola, ha la rappresentanza e la direzione della scuola e ne assicura la disciplina.  
-Il direttore convoca il consiglio della scuola almeno due volte all'anno per deliberare sulle questioni di natura didattica e disciplinare.  
-Il direttore dura in carica un triennio e puo' essere riconfermato.  
-Art. 130. - I docenti, il direttore delle esercitazioni e dei tirocini professionali ed il personale della scuola sono nominati dal rettore, su proposta del consiglio della facolta' di scienze politiche, sentito il direttore della scuola.  
-I docenti della scuola sono scelti tra i professori di ruolo, aggregati, incaricati, liberi docenti, e assistenti della Universita' di Perugia, nonche' tra coloro che, per opere o per funzioni, per le attivita' esercitate o gli insegnamenti tenuti, siano di riconosciuta competenza ed esperienza nelle materie che formano oggetto dell'insegnamento.  
-L'assistenza alle esercitazioni e ai tirocini professionali e' affidata ad esperti di servizio sociale (monitori) - la cui attivita' e' coordinata dal direttore delle esercitazioni e dei tirocini professionali.  
-I docenti degli insegnamenti professionali, il direttore delle esercitazioni e dei tirocini professionali, ed i monitori, debbono possedere il diploma di assistente sociale.  
-Art. 131. - Il corso degli studi per il conseguimento del diploma di assistente sociale ha la durata di tre anni.  
-Le materie d'insegnamento della scuola sono le seguenti:  
-Gruppo A - Insegnamenti di base:  
-1) Filosofia morale;  
-2) Psicologia;  
-3) Psicopatologia;  
-4) Psicologia sociale;  
-5) Antropologia culturale;  
-6) Sociologia (biennale);  
-7) Storia politica-sociale dell'Italia nel secolo xx e problemi di politica economica;  
-8) Organizzazione e amministrazione dello Stato e degli enti pubblici;  
-9) Diritto di famiglia e legislazione minorile;  
-10) Diritto del lavoro e legislazione sociale;  
-11) Legislazione assistenziale (semestrale);  
-12) Biologia e fisiologia umana (semestrale);  
-13) Igiene e medicina sociale (semestrale);  
-14) Metodologia della ricerca sociale.  
-Gruppo B - Insegnamenti professionali:  
-1) Teoria, principi e metodologia del servizio sociale;  
-2) Servizio sociale individuale (biennale);  
-3) Servizio sociale di gruppo (biennale);  
-4) Servizio sociale di comunita' (biennale);  
-5) Amministrazione dei servizi sociali (biennale);  
-6) Ricerca sociale e servizio sociale (biennale);  
-7) Etica professionale.  
-Gli insegnamenti teorici vengono impartiti con lezioni e discussioni, esercitazioni e seminari allo scopo di favorire l'integrazione e il coordinamento interdisciplinare.  
-  
-Attivita' pratiche e tirocini.  
-  
-A completamento ed applicazione degli insegnamenti teorici, vengono effettuati nel triennio esercitazioni pratiche, visite ad enti ed istituzioni e tirocini professionali.  
-Questi ultimi, consistenti in esperienze concrete di servizio sociale, sono svolti dagli studenti in diversi settori, sotto la guida di assistenti sociali (monitrici).  
-Art. 132. - Il consiglio della scuola, ogni anno, stabilisce, per ogni triennio, il piano generale degli studi e degli addestramenti pratici e determina le ore di lezione da assegnare a ciascuna disciplina secondo le esigenze di ogni singolo insegnamento. Su proposta del direttore puo' stabilire un numero minimo di iscrizioni; qualora tale numero non sia raggiunto, il rettore dell'universita' ha la facolta' di disporre il non inizio dei corsi.  
-Art. 133. - Le commissioni per gli esami di profitto sono composte da tre membri nominati dal direttore.  
-(Il docente della materia e due docenti di altri insegnamenti).  
-Per essere ammessi agli esami gli iscritti dovranno aver ottenuto le relative firme di frequenza alle lezioni ed esercitazioni.  
-Per essere ammessi agli esami di diploma gli iscritti dovranno aver superato gli esami di profitto stabiliti dal programma della scuola.  
-La commissione per l'esame di diploma e' composta da sette membri scelti dal rettore fra gli insegnanti della scuola.  
-L'esame di diploma consiste in una discussione sopra una dissertazione originale scelta tra una delle discipline insegnate nella scuola.  
-L'argomento della dissertazione di diploma dovra' essere concordato con l'insegnante della materia prescelta, almeno quattro mesi prima della discussione.  
-Art. 134. - La scuola ha un regolamento proposto dal consiglio ed approvato dal rettore su parere conforme del consiglio di amministrazione della universita':  
-Art. 135. - Gli studenti provenienti da altre scuole di servizio sociale possono ottenere l'abbreviazione degli studi in base agli esami sostenuti ed essere ammessi, a giudizio del consiglio della scuola, al 2° o al 3° anno di corso.  
-Art. 136. - Le tasse e soprattasse sono fissate, a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7), nelle seguenti misure:  
-Tassa di immatricolazione, L. 5000;  
-Tassa annuale di iscrizione, L. 18.000.  
-Tassa di diploma, L. 6000.  
-Soprattassa annuale per esami di profitto, L. 7000.  
-Soprattassa per esami di diploma, L. 3000.  
-La tassa annuale per gli studenti fuori corso che chiedono la ricognizione della qualita' di studente, e' di L. 5000 per i primi due anni fuori corso e aumenta del 30% di detta somma per ogni anno successivo; l'ammontare della soprattassa per la ripetizione degli esami di profitto e di diploma e' fissata nella misura di L. 500 per ogni esame di profitto e di L. 1000 per l'esame di diploma. Gli eventuali contributi sono stabiliti dal consiglio di amministrazione dell'universita' su proposta del senato accademico, sentito il consiglio dei professori della scuola.  
+Art. 56. - Agli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti quelli di:  
+14) Etnologia;  
+15) Fisiologia vegetale;  
+16) Patologia vegetale;  
+17) Scienze dell'alimentazione;  
+18) Biochimica applicata.  
+Art. 60. - Agli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti quelli di:  
+10) Etnologia;  
+11) Patologia generale;  
+12) Parassitologia;  
+13) Fisiologia vegetale;  
+14) Patologia vegetale;  
+15) Scienza dell'alimentazione;  
+16) Biochimica applicata.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 ottobre 1972
+### Dato a Roma, addi' 20 settembre 1955
 
-LEONE SCALFARO
+GRONCHI ROSSI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MORO
 
-Registrato alla Corte dei conti, addi' 5 dicembre 1972
+Registrato alla Corte dei conti, addi' 22 ottobre 1955
 
-Atti del Governo, registro n. 253, foglio n. 104. - CARUSO
+Atti del Governo, registro n. 93, foglio n. 71. - CARLOMAGNO

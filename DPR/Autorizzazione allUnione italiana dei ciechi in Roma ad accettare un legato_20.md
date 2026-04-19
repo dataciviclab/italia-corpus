@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1978 n. 514
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 novembre 1984 n. 1033
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1978 n. 514
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 novembre 1984 n. 1033
+================================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un legato.
 -------------------------------------------------------------------------------
@@ -12,8 +12,13 @@ Art. 1
 
 N.
 
-514. Decreto del Presidente della Repubblica 25 luglio 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato disposto dal sig. Giudici Davide con testamento pubblico ricevuto dal notaio dott. Gian Mario Grazioli di Bergamo il 10 novembre 1973 ed annotato al n. 232 rep. testamenti, allegato al verbale di passaggio di testamento pubblico agli atti tra vivi il 12 febbraio 1975, n. 30332 di repertorio e n. 12301 di raccolta, registrato a Bergamo il 13 febbraio 1975 ai n. 560 mod. 71/ M, consistente nella somma di L. 100.000.   
+1033. Decreto del Presidente della Repubblica 26 novembre 1984, col quale, sulla proposta del Presidente del Consiglio dei   
+Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato, consistente in un terreno di mq 972 sito in   
+Beinasco (Torino), del valore periziato di L. 2.000.000 elevato   
+dall'ufficio tecnico erariale di Torino a L. 19.500.000 e dal   
+tribunale di Torino a L. 22.842.000, disposto dalla sig.ra Bricco Teresa ved. Ron, a favore dell'associazione ciechi di Torino, con testamento olografo 16 novembre 1976, pubblicato in data 20 luglio 1977, n. 38555 di repertorio, a rogito dott. Guglielmo Morino,   
+notaio in Torino, registrato a Torino in data 3 agosto 1977 al n. 30215.   
   
-Visto, il Guardasigilli: BONIFACIO   
-Registrato alla Corte dei conti, addi' 30 agosto 1978   
-Registro n. 6 Presidenza, foglio n. 161
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 1 febbraio 1985   
+Registro n. 1 Presidenza, foglio n. 301

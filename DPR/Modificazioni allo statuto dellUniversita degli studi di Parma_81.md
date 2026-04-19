@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1978 n. 452
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 gennaio 1974 n. 779
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1978 n. 452
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 gennaio 1974 n. 779
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -10,44 +10,34 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-Dopo l'art. 353, sono inseriti i seguenti nuovi articoli, relativi alla istituzione di un centro interfacolta' di misure.   
-Centro interfacolta' di misure   
-Art. 354. - Il centro interfacolta' di misure ha il fine di porre a disposizione degli istituti scientifici e di ricerca dell'Universita' di Parma, le strumentazioni di misura di cui esso dispone, nonche' di promuovere la conoscenza e l'impiego di nuove metodiche di misura.   
-Art. 355. - Sono organi del centro:   
-a) il direttore;   
-b) il consiglio direttivo.   
-Il direttore del centro e' nominato dal rettore su proposta del consiglio direttivo fra i professori di ruolo dell'Universita'.   
-Il consiglio direttivo e' composto da due rappresentanti di ciascuna facolta' scientifica scelti fra i docenti delle facolta' che intendono avvalersi del centro.   
-Art. 356. - Il direttore ed il consiglio direttivo durano in carica un triennio.   
-Art. 357. - Mediante apposita convenzione, il centro puo' fornire prestazioni a pagamento, su commissioni di istituti appartenenti ad altre Universita', di pubblica amministrazione e privata, nell'osservanza delle norme approvate dal regolamento del centro.   
-Art. 358. - Le norme relative al funzionamento del centro formano oggetto di apposito regolamento approvato dal consiglio di amministrazione dell'Universita', previo parere del senato accademico e dei consigli delle facolta' interessate. Il regolamento viene reso esecutivo con decreto del rettore.   
-Art. 359. - Il centro fruisce di una dotazione annua stabilita dal consiglio di amministrazione ogni biennio.   
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+L'art. 118, relativo all'elenco degli insegnamenti fondamentali del corso di laurea in farmacia, e' modificato nel senso che agli insegnamenti di "Chimica organica I e II" e di "Fisica" viene tolto l'asterisco. Nello stesso articolo e' aggiunto il seguente comma:  
+"Possono inoltre essere scelti tutti gli insegnamenti complementari del corso di laurea in farmacia, non in comune ai due corsi di laurea".  
+L'art. 267, relativo ai titoli di ammissione alla scuola di specializzazione in "Biochimica e chimica clinica", e' modificato nel senso che possono iscriversi alla suddetta scuola anche i laureati in farmacia ed in chimica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 marzo 1978
+### Dato a Roma, addi' 30 gennaio 1974
 
-LEONE PEDINI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 25 luglio 1978
+Registrato alla Corte dei conti, addi' 27 gennaio 1975
 
-Registro n. 83 Istruzione, foglio n. 144
+Atti di Governo, registro n. 8, foglio n. 69

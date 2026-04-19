@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 dicembre 1986 n. 982
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 ottobre 1974 n. 626
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 dicembre 1986 n. 982
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 ottobre 1974 n. 626
+==============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un'eredita'.
 ----------------------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad ac
 Art. 1
 ------
 
-n.
+N.
 
-982. Decreto del Presidente della Repubblica 3 dicembre 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare col beneficio d'inventario l'eredita', consistente in un appartamento sito in Roma, viale Angelico n. 38, distinto nel nuovo catasto edilizio urbano alla partita 104084, foglio 400, mappale 119, sub 7, valutato con perizia di parte L. 72.500.000, elevate dall'ufficio tecnico erariale a L. 170.000.000, nonche' in titoli, conti correnti, ecc., come da inventario, per un importo complessivo determinato, al netto delle passivita', in L. 239.849.707, disposta dalla sig.ra Santoro Maria ved. Saturnini a favore dell'Opera don Gnocchi, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi" come si evince dal verbale del consiglio di amministrazione della fondazione medesima in data 3 dicembre 1977, con testamento olografo e codicillo 4 aprile 1967, pubblicato in data 22 marzo 1977, n. 17509/4948 di repertorio, a rogito dott. Fulvio Scuccimarra, notaio in Roma, registrato a Roma in data 30 marzo 1977.  
+626. Decreto del Presidente della Repubblica 10 ottobre 1974, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.ra Pedrocco Carlotta in Vio con testamento olografo in data 10 agosto 1963, pubblicato il 24 novembre 1970 per atto del dott. Angelo Sandi, notaio in Venezia, n. 26319 di repertorio e n. 2567 di raccolta, registrato a Venezia in data 14 dicembre 1970 al n. 6896 - Vol. 22, in favore dei mutilatini di don Gnocchi che si identificano con la fondazione "Pro juventute don Carlo Gnocchi", consistente nella quota parte di immobili, titoli, buoni postali e depositi bancari vari per un valore presunto di lire 72.880.945.   
   
-Visto, il Guardasigilli: ROGNONI  
-Registrato alla Corte dei conti, addi' 13 gennaio 1987  
-Registro n. 1 Presidenza, foglio n. 175
+Visto, il Guardasigilli: ZAGARI   
+Registrato alla Corte dei conti, addi' 25 novembre 1974   
+Atti di Governo, registro n. 7, foglio n. 41. - SCIARRETTA

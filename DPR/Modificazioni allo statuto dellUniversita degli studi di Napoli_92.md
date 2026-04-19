@@ -1,124 +1,136 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 152
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1971 n. 619
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 152
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1971 n. 619
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090) e modificato con [regio decreto 13 ottobre 1927, n. 2281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2281), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
-
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Dopo l'art. 379, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in diritto commerciale afferente alla facolta' di giurisprudenza.  
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Scuola di specializzazione in diritto commerciale  
+Decreta:   
   
-Art. 380. - E' istituita presso l'Universita' di Napoli la scuola di specializzazione in diritto commerciale che conferisce il diploma di specializzazione in diritto commerciale.  
-Art. 381. - La direzione della scuola ha sede in Napoli, presso la facolta' di giurisprudenza.  
-Art. 382. - La scuola ha lo scopo di approfondire ed estendere la preparazione nelle discipline commercialistiche, di organizzare conferenze, seminari, convegni di studio e pubblicazioni.  
-Art. 383. - La durata del corso e' di due anni e non e' suscettibile di abbreviazione.  
-Art. 384. - Il numero degli iscritti e' di trenta per ogni anno e complessivamente di sessanta per l'intero corso di studi.  
-Art. 385. - Alla scuola sono ammessi solo i laureati in giurisprudenza, in scienze politiche, in economia e commercio e in scienze economiche-marittime. E' richiesto il diploma di abilitazione all'esercizio professionale qualora prescritto.  
-Art. 386. - Per l'ammissione alla scuola e' richiesto il superamento di esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrate eventualmente da un colloquio e d'una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
-a) la tesi nella disciplina attinente alla specializzazione;  
-b) il voto di laurea;  
-c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
-d) le pubblicazioni delle predette materie.  
-Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale del 16 settembre 1982 previsto dall'[art. 13, comma quinto, del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art13-com5).  
-Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
-Art. 387. - Le materie di insegnamento sono le seguenti:  
-Materie obbligatorie:  
-1) diritto commerciale (biennale);  
-2) diritto industriale;  
-3) diritto d'autore;  
-4) diritto fallimentare;  
-5) diritto e legislazione bancaria;  
-6) diritto delle obbligazioni e dei contratti;  
-7) diritto privato comparato;  
-8) storia del diritto commerciale.  
-Materie opzionali:  
-1) diritto dell'impresa;  
-2) diritto commerciale europeo;  
-3) diritto della societa';  
-4) diritto comparato della societa';  
-5) diritto della borsa;  
-6) diritto delle assicurazioni;  
-7) diritto della navigazione;  
-8) diritto dei trasporti;  
-9) diritto cartolare;  
-10) diritto penale commerciale;  
-11) teoria giuridica del commercio internazionale;  
-12) diritto delle associazioni e fondazioni.  
-Gli insegnamenti sono cosi' ripartiti:  
-1° Anno:  
-diritto commerciale I;  
-storia del diritto commerciale;  
-diritto delle obbligazioni e dei contratti;  
-diritto privato comparato;  
-diritto industriale;  
-una materia opzionale.  
-2° Anno:  
-diritto commerciale II;  
-diritto e legislazione bancaria;  
-diritto fallimentare;  
-diritto d'autore;  
-una materia opzionale.  
-Art. 388. - La frequenza ai corsi e' obbligatoria.  
-Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprimono un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non supereranno detto esame potranno ripetere l'anno di corso una sola volta.  
-Art. 389. - Ai fini dell'ammissione all'esame teorico-pratico per il passaggio all'anno di corso successivo e dell'ultimo anno, gli specializzandi devono:  
-a) aver frequentato i corsi obbligatori;  
-b) aver frequentato i corsi opzionali prescelti;  
-c) aver svolto esercitazioni pratiche come la predisposizione del testo di contratti commerciali nominati e innominati e di modelli-tipo e formulari di contratti bancari e assicurativi, ovvero la esegesi di decisioni giurisprudenziali inerenti alle materie di insegnamento della scuola.  
-Gli specializzandi sono tenuti a documentare la loro frequenza ai corsi e alle attivita' pratiche svolte, con la apposizione della loro firma sui registri all'uopo predisposti.  
-L'esame di diploma si sostiene innanzi ad una commissione composta dal direttore e da due professori della scuola.  
-L'esame di diploma si sostiene innanzi ad una commissione composta dal direttore e da due professori della scuola.  
-A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specializzazione.  
-Art. 391. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
-Art. 392. - Per ciascuna scuola di specializzazione anche se comprendente piu' indirizzi e' costituito un unico consiglio presieduto da un direttore.  
-Il consiglio e' composto da docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99). Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti. La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+  
+Dopo l'art. 479 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola speciale per dirigenti dell'assistenza infermieristica.   
+  
+Scuola speciale per dirigenti dell'assistenza infermieristica   
+  
+Art. 480. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una scuola speciale per dirigenti dell'assistenza infermieristica che ha sede presso l'istituto di igiene della facolta' di medicina e chirurgia dell'Universita' di Napoli. Essa ha lo scopo di formare personale dirigente ed insegnante per le scuole professionali per infermiere, per assistenti sanitarie, visitatrici, per ostetriche, per vigilatrici della infanzia e personale dirigente di servizi infermieristici ospedalieri e di sanita' pubblica.   
+Art. 481. - La durata del corso degli studi per il conseguimento del diploma di dirigenti dell'assistenza infermieristica e' di due anni.   
+Possono essere ammesse alla scuola allieve di eta' non inferiore a 25 anni in possesso dei seguenti titoli:   
+1) del titolo di studio prescritto per l'ammissione all'universita' (preferibilmente del diploma di maturita' classica, del diploma di maturita' scientifica e del diploma di abilitazione magistrale);   
+2) del diploma di infermiere professionale o di ostetrica o di vigilatrice d'infanzia, con votazione media non inferiore ai 147/210.   
+Le infermiere professionali e le vigilatrici dell'infanzia devono aver prestato almeno tre anni di servizio senza demerito presso un ospedale o una scuola per infermiere professionali o vigilatrici dell'infanzia o in un servizio di sanita' pubblica. Tale periodo e' ridotto a due anni per le candidate in possesso del diploma di assistente sanitaria visitatrice, del certificato di abilitazione alle funzioni direttive di ostetricia o di altra specializzazione legalmente riconosciuta;   
+3) per le candidate della sezione dei servizi medico-sociali, e' prescritto il diploma di assistente sanitaria visitatrice conseguito con votazione media non inferiore ai 147/210.   
+Art. 482. - La scuola speciale si suddivide in tre sezioni:   
+1) Pedagogica per la formazione di personale infermieristico insegnante e di direttrice di scuola per: infermiere professionali e assistenti sanitarie visitatrici, ostetriche, vigilatrici dell'infanzia, infermiere ed infermieri generici;   
+2) Amministrativa per servizi assistenziali, per la formazione del personale infermieristico dirigente di servizi assistenziali (ospedalieri, ambulatoriali, mutualistici, etc.);   
+3) Amministrativa per i servizi medico-sociali, per la formazione di personale dirigente di servizi di sanita' pubblica.   
+Art. 483. - L'ammissione al 1° anno della scuola avviene per titoli.   
+Le candidate, tuttavia, prima di essere ammesse definitivamente dovranno essere sottoposte ad un colloquio preliminare. Il numero dei posti disponibili annualmente e' stabilito nella misura massima di trenta complessivamente per le tre sezioni e per ciascun anno di corso. La distribuzione dei posti fra le tre sezioni verra' effettuata annualmente.   
+Art. 484. - II direttore della scuola e' di diritto il titolare della cattedra di igiene della facolta' di medicina e chirurgia della universita'. Gli insegnanti della scuola sono proposti dal consiglio di facolta' di medicina e chirurgia, udito il direttore e nominati dal rettore.   
+La scuola speciale affida la preparazione specifica delle allieve alla scuola convitto professionale per infermiere della C.R.I. di Napoli, via Antonio Cardarelli, 11-A.   
+Il direttore della scuola speciale, sentita la direttrice della scuola convitto professionale della C.R.I. nomina una infermiera altamente qualificata, preferibilmente in possesso del diploma di dirigente dell'assistenza infermieristica o di titolo similare, che viene preposta alla preparazione specifica teorico-pratica delle allieve e riceve la qualifica di vicedirettrice della scuola speciale.   
+Il corpo insegnante e' costituito da docenti delle facolta' di:   
+Medicina e Chirurgia;   
+Magistero;   
+Lettere;   
+Giurisprudenza,   
+e da esperti del campo dell'assistenza infermieristica, dell'amministrazione, dell'educazione sanitaria e da un rappresentante del Ministero della sanita'.   
+Art. 485. - Le materie di insegnamento sono le seguenti:   
+  
+1° Anno:   
+  
+a) Insegnamenti fondamentali comuni a tutte e tre le sezioni:   
+1) Psicologia;   
+2) Pedagogia;   
+3) Sociologia;   
+4) Filosofia morale;   
+5) Statistica e biometria;   
+6) Elementi di igiene generale e speciale;   
+7) Storia dell'assistenza infermieristica;   
+8) Deontologia professionale;   
+9) Tecnica infermieristica;   
+10) Elementi di diritto costituzionale.   
+b) Insegnamenti complementari comuni a tutte e tre le sezioni:   
+1) Elementi di biologia;   
+2) Elementi di fisiologia e chimica biologica;   
+3) Medicina sociale.   
+  
+Inoltre le allieve sono tenute ad effettuare i seguenti tirocini:   
+1) Sezione pedagogica:   
+Esercizi didattici preparatori;   
+Insegnamento clinico.   
+2) Sezione amministrativa per i servizi assistenziali:   
+Esercitazioni nei servizi ospedalieri.   
+3) Sezione amministrativa per i servizi medico-sociali:   
+Esercitazioni nei servizi di sanita' pubblica.   
+  
+2° Anno:   
+  
+a) Insegnamenti fondamentali comuni a tutte e tre le sezioni:   
+1) Elementi di pubblica amministrazione;   
+2) Elementi di diritto del lavoro;   
+3) Principi di amministrazione pubblica applicata all'assistenza infermieristica;   
+4) Psicologia applicata alla professione;   
+5) Pedagogia applicata alla professione;   
+6) Elementi di legislazione sanitaria;   
+7) Igiene e tecnica ospedaliera;   
+8) Organizzazione delle associazioni professionali infermieristiche nazionali ed internazionali;   
+9) Organizzazione di scuola per infermiere in Italia e all'estero.   
+  
+b) Insegnamenti complementari comuni a tutte e tre le sezioni:   
+1) Elementi di patologia medica e chirurgica;   
+2) Elementi di farmacologia e terapia clinica.   
+  
+Inoltre le allieve sono tenute ad effettuare i seguenti tirocini:   
+1) Sezione pedagogica:   
+Esercitazioni didattiche;   
+Organizzazione e funzionamento delle scuole;   
+Visite documentative.   
+2) Sezioni amministrative per i servizi assistenziali:   
+Esercitazioni nei servizi ospedalieri;   
+Visite documentative.   
+3) Sezione amministrativa per i servizi medico-sociali:   
+Esercitazioni nei servizi di sanita' pubblica;   
+Visite documentative.   
+  
+Art. 486. - Per essere ammesse al 2° anno le allieve dovranno aver seguito i corsi, superato gli esami in tutti gli insegnamenti fondamentali dell'anno stesso e almeno uno, scelto all'inizio dell'anno scolastico, fra i complementari ed aver compiuto con esito favorevole, tutti i tirocini prescritti.   
+Art. 487. - La commissione, per gli esami di idoneita' al 2ª anno e di ammissione agli esami di diploma sono nominate dal consiglio di facolta' di medicina e chirurgia su proposta del direttore della scuola.   
+Le commissioni sono composte dal presidente che, di regola, e' il professore ufficiale della materia, e da altri due membri di materia affine e da un rappresentante del Ministero della sanita'.   
+Ogni commissario ha a disposizione 10 punti.   
+Art. 488. - Per essere ammesse a sostenere l'esame di diploma le allieve devono aver seguito i corsi del 2° anno, superato gli esami in tutti gli insegnamenti fondamentali dell'anno stesso e almeno uno, scelto allo inizio dell'anno scolastico, fra i complementari ed aver compiuto, con esito favorevole, tutti i tirocini prescritti.   
+Art. 489. - L'esame per il conseguimento del diploma di dirigente della assistenza infermieristica secondo le varie sezioni della scuola consiste nella discussione su un elaborato scritto, preventivamente assegnato dal direttore della scuola, di fronte a una commissione di cinque membri, composta dal direttore della scuola; da tre docenti designati dalla facolta' di medicina e chirurgia e dalla infermiera responsabile della preparazione specifica. Ogni commissario ha a disposizione 10 punti.   
+Art. 490. - Le tasse e le soprattasse per la scuola sono le seguenti:   
+tassa di immatricolazione. . . . . . . . . . . . L. 20.000   
+tassa annuale di iscrizione. . . . . . . . . . . " 100.000   
+soprattassa annuale di esami . . . . . . . . . . " 20.000   
+tassa per l'esame di diploma . . . . . . . . . . " 10.000   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 marzo 1984
+### Dato a Roma, addi' 8 giugno 1971
 
-PERTINI FALCUCCI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 11 maggio 1984
+Registrato alla Corte dei conti, addi' 17 agosto 1971
 
-Registro n. 27 Istruzione, foglio n. 276
+Atti del Governo, registro n. 243, foglio n. 120. - PASQUALUCCI

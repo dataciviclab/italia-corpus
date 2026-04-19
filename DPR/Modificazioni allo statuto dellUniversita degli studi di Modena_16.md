@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1974 n. 720
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1744
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1974 n. 720
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1744
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
@@ -10,19 +10,21 @@ Modificazioni allo statuto dell'Universita' degli studi di Modena.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), modificato con [regio decreto 18 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-18;2170) e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
+Veduta la [legge 11 aprile 1953, n. 812](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;812);
+
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio superiore della pubblica Istruzione;
 
 Sulla proposta del Ministro per la pubblica istruzione;
 
@@ -30,167 +32,144 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 139 - all'elenco degli insegnamenti del terzo anno di corso della scuola di specializzazione in oncologia e' aggiunto quello di "Radiologia (diagnostica e terapia dei tumori)".
+Art. 53. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche vengono aggiunti quelli di:
 
-Dopo l'art. 212, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia della mano.
+"Giacimenti minerari";
 
-Scuola di specializzazione in chirurgia della mano
+"Micropaleontologia".
 
-Art. 213. - La scuola di specializzazione in chirurgia della mano ha sede presso l'istituto di clinica ortopedica e conferisce il diploma di specialista in chirurgia della mano.
+Gli articoli 123, 124 e 125, relativi alla scuola di specializzazione in radiologia e terapia fisica sono modificati come segue:
 
-Art. 214. - Il corso ha la durata di tre anni. Possono essere ammessi alla scuola i laureati in medicina e chirurgia.
+Art. 123. - La scuola ha la durata di tre anni il numero dei posti disponibili per ogni anno e' il seguente:
 
-Art. 215. - Il numero di posti disponibili e' di cinque per ogni anno.
+1° anno 15 (quindici);
 
-Art. 216. - La frequenza e' obbligatoria nell'istituto sede della scuola per un periodo di nove mesi per ogni anno accademico.
+2° anno 20 (venti);
 
-Per nessun motivo sono ammesse abbreviazioni della durata degli studi.
+3° anno 20 (venti).
 
-Art. 217. - Gli insegnamenti impartiti dalla scuola sono:
+Art. 124. - Gli insegnamenti impartiti nella scuola sono:
 
-1° Anno:
+Insegnamenti fondamentali:
 
-Clinica ortopedica dell'arto superiore (biennale 1° anno);
+1° anno:
 
-Traumatologia dell'arto superiore (biennale 1° anno);
+1) Elettrologia e fisica delle radiazioni;
 
-Chirurgia plastica ricostruttiva (biennale 1° anno);
+2) Radiobiologia;
 
-Anatomia funzionale della mano;
+3) Diagnostica radiologica (tecnica, anatomia e fisiologia);
 
-Anatomia chirurgica dell'arto superiore;
+2° anno:
 
-Anatomia e istologia patologica;
+1) Diagnostica radiologica (semeiotica e diagnostica) (biennale);
 
-Radiodiagnostica dell'arto superiore e nozioni di radioterapia;
+2) Radioterapia (raggi X, sostanze radioattive naturali e Isoterapia) (biennale);
 
-Anestesiologia e rianimazione.
+3) Patologia da radiazioni e protezioni;
 
-2° Anno:
+4) Terapia fisica;
 
-Clinica ortopedica dell'arto superiore (biennale 2° anno);
+3° anno:
 
-Traumatologia dell'arto superiore (biennale 2° anno);
+1) Diagnostica radiologica (semeiotica e diagnostica) (biennale);
 
-Chirurgia plastica ricostruttiva (biennale 2° anno);
+2) Radioterapia (raggi X, sostanze radioattive naturali ed Isoterapia) (biennale).
 
-Tecniche di chirurgia tendinea;
+Insegnamento complementare:
 
-Tecniche di chirurgia osteo-articolare;
+1) legislazione e deontologia professionale radiologiche.
 
-Chirurgia vascolare dell'arto superiore.
+Gli insegnamenti saranno completati da esercitazioni pratiche e possono essere integrati da conferenze di argomenti di particolare interesse e novita', affidate anche a cultori della materia estranei al corpo insegnante della scuola.
 
-3° Anno:
+Art. 125. - L'allievo del primo anno, per essere ammesso al secondo anno, deve avere ottenuto tutte le firme di frequenza dei corsi del primo anno e deve avere superato gli esami delle materie fondamentali del primo anno.
 
-Semeiotica e clinica neurologica dell'arto superiore;
+L'allievo del secondo anno, per essere ammesso al terzo, deve avere ottenuto tutte le firme di frequenza dei corsi del secondo e deve avere superato gli esami delle materie fondamentali del secondo anno.
 
-Elettrodiagnostica ed elettromiografia;
+Art. 159, relativo alla scuola di specializzazione in oculistica, e' modificato nel senso che l'insegnamento n. 3) del 2° anno e n. 1) del 3° anno viene denominato:
 
-Microchirurgia dei nervi periferici;
+"Fisiopatologia e chimica oculistica".
 
-Fisiochinesiterapia;
-
-Clinica dermatologica;
-
-Nozioni di medicina legale;
-
-Nozioni di psicologia;
-
-Protesi sostitutive nelle amputazioni dell'arto superiore.
-
-Art. 218. - L'allievo del primo anno, per essere ammesso al secondo, deve aver superato tutti gli esami del primo anno.
-
-L'allievo del secondo anno, per essere ammesso al terzo, deve aver superato i tre esami biennali e tutti gli altri esami del secondo anno.
-
-Per l'ammissione all'esame di diploma il candidato deve presentare una dissertazione scritta su un argomento della specialita'.
-
-Art. 219. - I fondi a disposizione della scuola sono rappresentati dagli introiti delle tasse di iscrizione e di laboratorio, dalle sovvenzioni di enti o di privati, di cui principalmente la clinica ortopedica e traumatologica.
+Art. 168, relativo alla scuola di specializzazione in malattie del sangue e' modificato nel senso che l'insegnamento n. 1) del 1° anno viene denominato: "Citologia normale e patologica del sangue e degli organi ematopoietici".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 9 aprile 1974
+Dato a Roma, addi' 19 ottobre 1960
 
-LEONE
+GRONCHI
 
-MALFATTI
+BOSCO
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 22 gennaio 1975 Atti di Governo, registro n. 7, foglio n. 122
+alla Corte dei conti, addi' 26 gennaio 1961 Atti del Governo, registro n. 133, foglio n. 96. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), modificato con [regio decreto 18 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-18;2170) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 812](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;812);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sentito il parere del Consiglio superiore della pubblica Istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 139 - all'elenco degli insegnamenti del terzo anno di corso della scuola di specializzazione in oncologia e' aggiunto quello di "Radiologia (diagnostica e terapia dei tumori)".  
-Dopo l'art. 212, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia della mano.  
-Scuola di specializzazione in chirurgia della mano  
-Art. 213. - La scuola di specializzazione in chirurgia della mano ha sede presso l'istituto di clinica ortopedica e conferisce il diploma di specialista in chirurgia della mano.  
-Art. 214. - Il corso ha la durata di tre anni. Possono essere ammessi alla scuola i laureati in medicina e chirurgia.  
-Art. 215. - Il numero di posti disponibili e' di cinque per ogni anno.  
-Art. 216. - La frequenza e' obbligatoria nell'istituto sede della scuola per un periodo di nove mesi per ogni anno accademico.  
-Per nessun motivo sono ammesse abbreviazioni della durata degli studi.  
-Art. 217. - Gli insegnamenti impartiti dalla scuola sono:  
   
-1° Anno:  
-Clinica ortopedica dell'arto superiore (biennale 1° anno);  
-Traumatologia dell'arto superiore (biennale 1° anno);  
-Chirurgia plastica ricostruttiva (biennale 1° anno);  
-Anatomia funzionale della mano;  
-Anatomia chirurgica dell'arto superiore;  
-Anatomia e istologia patologica;  
-Radiodiagnostica dell'arto superiore e nozioni di radioterapia;  
-Anestesiologia e rianimazione.  
+Art. 53. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche vengono aggiunti quelli di:  
+"Giacimenti minerari";  
+"Micropaleontologia".  
+Gli articoli 123, 124 e 125, relativi alla scuola di specializzazione in radiologia e terapia fisica sono modificati come segue:  
+Art. 123. - La scuola ha la durata di tre anni il numero dei posti disponibili per ogni anno e' il seguente:  
+1° anno 15 (quindici);  
+2° anno 20 (venti);  
+3° anno 20 (venti).  
+Art. 124. - Gli insegnamenti impartiti nella scuola sono:  
+Insegnamenti fondamentali:  
   
-2° Anno:  
-Clinica ortopedica dell'arto superiore (biennale 2° anno);  
-Traumatologia dell'arto superiore (biennale 2° anno);  
-Chirurgia plastica ricostruttiva (biennale 2° anno);  
-Tecniche di chirurgia tendinea;  
-Tecniche di chirurgia osteo-articolare;  
-Chirurgia vascolare dell'arto superiore.  
+1° anno:  
+1) Elettrologia e fisica delle radiazioni;  
+2) Radiobiologia;  
+3) Diagnostica radiologica (tecnica, anatomia e fisiologia);  
+2° anno:  
+1) Diagnostica radiologica (semeiotica e diagnostica) (biennale);  
+2) Radioterapia (raggi X, sostanze radioattive naturali e Isoterapia) (biennale);  
+3) Patologia da radiazioni e protezioni;  
+4) Terapia fisica;  
+3° anno:  
+1) Diagnostica radiologica (semeiotica e diagnostica) (biennale);  
+2) Radioterapia (raggi X, sostanze radioattive naturali ed Isoterapia) (biennale).  
   
-3° Anno:  
-Semeiotica e clinica neurologica dell'arto superiore;  
-Elettrodiagnostica ed elettromiografia;  
-Microchirurgia dei nervi periferici;  
-Fisiochinesiterapia;  
-Clinica dermatologica;  
-Nozioni di medicina legale;  
-Nozioni di psicologia;  
-Protesi sostitutive nelle amputazioni dell'arto superiore.  
+Insegnamento complementare:  
   
-Art. 218. - L'allievo del primo anno, per essere ammesso al secondo, deve aver superato tutti gli esami del primo anno.  
-L'allievo del secondo anno, per essere ammesso al terzo, deve aver superato i tre esami biennali e tutti gli altri esami del secondo anno.  
-Per l'ammissione all'esame di diploma il candidato deve presentare una dissertazione scritta su un argomento della specialita'.  
-Art. 219. - I fondi a disposizione della scuola sono rappresentati dagli introiti delle tasse di iscrizione e di laboratorio, dalle sovvenzioni di enti o di privati, di cui principalmente la clinica ortopedica e traumatologica.  
+1) legislazione e deontologia professionale radiologiche.  
+Gli insegnamenti saranno completati da esercitazioni pratiche e possono essere integrati da conferenze di argomenti di particolare interesse e novita', affidate anche a cultori della materia estranei al corpo insegnante della scuola.  
+Art. 125. - L'allievo del primo anno, per essere ammesso al secondo anno, deve avere ottenuto tutte le firme di frequenza dei corsi del primo anno e deve avere superato gli esami delle materie fondamentali del primo anno.  
+L'allievo del secondo anno, per essere ammesso al terzo, deve avere ottenuto tutte le firme di frequenza dei corsi del secondo e deve avere superato gli esami delle materie fondamentali del secondo anno.  
+Art. 159, relativo alla scuola di specializzazione in oculistica, e' modificato nel senso che l'insegnamento n. 3) del 2° anno e n. 1) del 3° anno viene denominato:  
+"Fisiopatologia e chimica oculistica".  
+Art. 168, relativo alla scuola di specializzazione in malattie del sangue e' modificato nel senso che l'insegnamento n. 1) del 1° anno viene denominato: "Citologia normale e patologica del sangue e degli organi ematopoietici".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 aprile 1974
+### Dato a Roma, addi' 19 ottobre 1960
 
-LEONE MALFATTI
+GRONCHI BOSCO
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 22 gennaio 1975
+Registrato alla Corte dei conti, addi' 26 gennaio 1961
 
-Atti di Governo, registro n. 7, foglio n. 122
+Atti del Governo, registro n. 133, foglio n. 96. - VILLA

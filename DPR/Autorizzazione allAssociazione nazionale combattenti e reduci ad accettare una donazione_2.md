@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1964 n. 1310
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 agosto 1953 n. 770
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1964 n. 1310
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 agosto 1953 n. 770
+=============================================================
 
 Autorizzazione all'Associazione nazionale combattenti e reduci ad accettare una donazione.
 ------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1310. Decreto del Presidente della Repubblica 22 ottobre 1964, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci viene autorizzata ad accettare la donazione disposta in suo favore dai signori Chies Giovanni, Sonego Paolo, Altoe' Giuseppe, Zanon Tiziano, Scarpis Italo, Pagotto Angelo, Dam Giacomo Andrea, Vendrame Natale, Tomasi GioBatta, Fioretti Armando e Tomasi Giuliano, con atto a rogito dott. Luigi Di Francia, notaio residente in Vittorio Veneto (iscritto nel ruolo del Distretto notarile di Treviso), in data 24 agosto 1962, n. 11827 di repertorio, n. 3452 di raccolta. Detta donazione ha per oggetto un immobile, costituito dalla porzione di un fabbricato sito in comune di Colle Umberto (Treviso), da destinare a sede alla Sezione di San Martino di Colle Umberto dell'Associazione suindicata.  
+770. Decreto del Presidente della Repubblica 25 agosto 1953, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci viene autorizzata ad accettare la donazione di un appezzamento di terreno di proprieta' del comune di Prato da destinare alla costruzione della "Casa del Combattente" in quel Comune.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 2 dicembre 1964  
-Atti del Governo, registro n. 188, foglio n. 151. - VILLA
+Visto, il Guardasigilli: AZARA  
+Registrato alla Corte dei conti, addi' 8 ottobre 1953  
+Atti del Governo, registro n. 79, foglio n. 102. - PALLA

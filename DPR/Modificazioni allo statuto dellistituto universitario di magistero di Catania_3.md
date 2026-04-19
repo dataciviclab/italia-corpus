@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1964 n. 661
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1165
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1964 n. 661
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1165
+===============================================================
 
 Modificazioni allo statuto dell'istituto universitario di magistero di Catania.
 -------------------------------------------------------------------------------
@@ -10,166 +10,54 @@ Modificazioni allo statuto dell'istituto universitario di magistero di Catania.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Istituto universitario di magistero di Catania, approvato con [decreto del Presidente della Repubblica 18 settembre 1951, n. 1160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-09-18;1160), e modificato con [decreto del Presidente della Repubblica 29 settembre 1955, n. 957](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-29;957), e successive modificazioni;
+Veduto lo statuto dell'Istituto universitario di magistero di Catania, approvato con [decreto del Presidente della Repubblica 18 settembre 1951, n. 1160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-09-18;1160) e modificato con [decreto del Presidente della Repubblica 25 settembre 1955, n. 957](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-25;957), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Istituto anzidetto;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Istituto universitario di magistero di Catania e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione di concerto col Ministro del tesoro;
 
 Decreta:
+--------
 
 Lo statuto dell'Istituto universitario di magistero di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 15. - A) Agli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti i seguenti:
+Articolo unico
+--------------
 
-Storia della letteratura latina medioevale;
-
-Paleografia Civilta' greca;
-
-letteratura cristiana antica;
-
-Storia del Cristianesimo;
-
-Storia del Risorgimento;
-
-Storia della Sicilia;
-
-Linguistica Estetica Letterature moderne;
-
-Lingua e letteratura anglo-americana;
-
-Lingua e letteratura russa.
-
-Art. 15. - B) Agli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti i seguenti:
-
-Storia della letteratura latina medioevale;
-
-Paleografia;
-
-Civilta' greca;
-
-Letteratura cristiana antica;
-
-Storia del Cristianesimo;
-
-Storia del Risorgimento;
-
-Storia della Sicilia;
-
-Storia della filosofia antica;
-
-Storia della filosofia medioevale;
-
-Storia della filosofia moderna;
-
-Psicologia;
-
-Psicologia dell'eta' evolutiva;
-
-Filosofia della religione;
-
-Storia delle dottrine politiche;
-
-Teoria e storia della didattica;
-
-Linguistica.
-
-Art. 15. - C) Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere sono aggiunti i seguenti:
-
-Estetica;
-
-Letterature moderne;
-
-Lingua e letteratura anglo-americana;
-
-Lingua e letteratura russa.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo, a chiunque spetti, di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 12 luglio 1964
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 7 agosto 1964 Atti del Governo, registro n. 185, foglio n. 18. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Istituto universitario di magistero di Catania, approvato con [decreto del Presidente della Repubblica 18 settembre 1951, n. 1160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-09-18;1160), e modificato con [decreto del Presidente della Repubblica 29 settembre 1955, n. 957](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-29;957), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Istituto anzidetto;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Dopo l'art. 73 e' aggiunto il seguente nuovo articolo:  
+"Art. 74. - In applicazione dell'art. 3, comma primo dello statuto e del [decreto del Presidente della Repubblica n. 382 dell'11 luglio 1981](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-07-11;382), e' istituito il ruolo dei professori associati e dei ricercatori universitari di ruolo, i quali sono equiparati, giuridicamente ed economicamente, ai professori associati e ai ricercatori universitari di ruolo delle Universita' statali.  
+Per quanto attiene al trattamento di previdenza e di quiescenza dei summenzionati professori associati e ricercatori universitari di ruolo si fa riferimento a quanto previsto nei precedenti articoli 67 e 73, precisando che ai professori associati e ai ricercatori universitari di ruolo verra' corrisposta, all'atto del collocamento in pensione, oltre alla pensione, una indennita' di buonuscita, per gli anni di servizio calcolati secondo le vigenti disposizioni di legge in materia, pari all'ottanta per cento dello stipendio e della tredicesima mensilita' in godimento al momento del collocamento a riposo.  
+Per quanto non esplicitamente previsto si rimanda al [decreto del Presidente della Repubblica n. 382 dell'11 luglio 1980](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382)".  
+La tabella 1, relativa all'organico dei professori e degli assistenti, e' soppressa ed e' aggiunta la seguente nuova tabella:  
   
-Decreta:  
-  
-Lo statuto dell'Istituto universitario di magistero di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 15. - A) Agli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti i seguenti:  
-Storia della letteratura latina medioevale;  
-Paleografia Civilta' greca;  
-letteratura cristiana antica;  
-Storia del Cristianesimo;  
-Storia del Risorgimento;  
-Storia della Sicilia;  
-Linguistica Estetica Letterature moderne;  
-Lingua e letteratura anglo-americana;  
-Lingua e letteratura russa.  
-Art. 15. - B) Agli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti i seguenti:  
-Storia della letteratura latina medioevale;  
-Paleografia;  
-Civilta' greca;  
-Letteratura cristiana antica;  
-Storia del Cristianesimo;  
-Storia del Risorgimento;  
-Storia della Sicilia;  
-Storia della filosofia antica;  
-Storia della filosofia medioevale;  
-Storia della filosofia moderna;  
-Psicologia;  
-Psicologia dell'eta' evolutiva;  
-Filosofia della religione;  
-Storia delle dottrine politiche;  
-Teoria e storia della didattica;  
-Linguistica.  
-Art. 15. - C) Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere sono aggiunti i seguenti:  
-Estetica;  
-Letterature moderne;  
-Lingua e letteratura anglo-americana;  
-Lingua e letteratura russa.  
-  
+TABELLA 1   
+Organico dei professori e degli assistenti:  
+professori ordinari . . . . . . . . . . . . . . . . . . . . . . . . 5 professori associati . . . . . . . . . . . . . . . . . . . . . . . 35 assistenti e lettori (ad esaurimento). . . . . . . . . . . . . . . 12 ricercatori universitari . . . . . . . . . . . . . . . . . . . . . 37   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo, a chiunque spetti, di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 luglio 1964
+### Dato a Roma, addi' 31 ottobre 1981
 
-SEGNI GUI
+PERTINI BODRATO - ANDREATTA
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 7 agosto 1964
+Registrato alla Corte dei conti, addi' 14 settembre 1982
 
-Atti del Governo, registro n. 185, foglio n. 18. - VILLA
+Registro n. 106 Istruzione, foglio n. 253

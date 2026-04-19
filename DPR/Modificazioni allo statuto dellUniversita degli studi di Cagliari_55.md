@@ -1,20 +1,117 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1973 n. 47
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1968 n. 1132
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1973 n. 47
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1968 n. 1132
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+dopo l'art. 196 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi all'istituzione, presso la facolta' di medicina e chirurgia, della scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale.
+
+Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale
+
+Art. 197. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale, con sede presso la clinica otorinolaringoiatrica.
+
+Art. 198. - Il numero massimo di iscritti per l'intero corso di studi e' di sei. Nel caso che le domande di iscrizione al primo anno superino il numero compatibile con quanto disposto nel precedente comma, l'ammissione e' subordinata all'esito di un concorso per titoli e per esami; l'esame consiste in un prova scritta su argomento medico chirurgico generale.
+
+Art. 199. - La durata dei corsi e' di tre anni.
+
+Art. 200. - Le materie di insegnamento sono le seguenti, distribuite nei tre anni di corso:
+
+1° Anno:
+
+1. Anatomia;
+
+2. Fisiologia;
+
+3. Audiologia (1° anno);
+
+4. Semeiotica otorinolaringoiatrica;
+
+5. Tecnica di laboratorio;
+
+6. Patologia otorinolaringoiatrica e cervico-facciale (1° anno);
+
+7. Anatomia ed istologia patologica otorinolaringoiatrica.
+
+2° Anno:
+
+1. Tecniche operatorie in otorinolaringoiatria;
+
+2. Anestesiologia in otorinolaringoiatria;
+
+3. Patologia e clinica otorinolaringoiatrica e cervico facciale (2° anno);
+
+4. Radiologia in rapporto con l'otorinolaringoiatria 5.
+
+Pediatria in rapporto con l'otorinolaringoiatria 6. Audiologia (2° anno);
+
+7. Otoneurologia;
+
+8. Foniatria.
+
+3° Anno:
+
+1. Patologia e clinica otorinolaringoiatrica e cervico-facciale;
+
+2. Terapia medica e fisica in otorinolaringoiatria;
+
+3. Neuropatologia in rapporto con l'otorinolaringoiatria;
+
+4. Oculistica in rapporto con l'otorinolaringoiatria 5.
+
+Chirurgia plastica;
+
+6. Tracheo-broncoscopia;
+
+7. Medicina legale ed infortunistica in otorinolaringoiatria.
+
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 24 settembre 1968
+
+SARAGAT
+
+SCAGLIA
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 2 novembre 1968 Atti del Governo, registro n. 223, foglio n. 77. - GRECO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743).  
-e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
@@ -25,18 +122,49 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+dopo l'art. 196 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi all'istituzione, presso la facolta' di medicina e chirurgia, della scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale.  
   
-L'art. 154 e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in anestesiologia e rianimazione e' aumentato a sessanta (60) per l'intero corso.  
+Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale  
+  
+Art. 197. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale, con sede presso la clinica otorinolaringoiatrica.  
+Art. 198. - Il numero massimo di iscritti per l'intero corso di studi e' di sei. Nel caso che le domande di iscrizione al primo anno superino il numero compatibile con quanto disposto nel precedente comma, l'ammissione e' subordinata all'esito di un concorso per titoli e per esami; l'esame consiste in un prova scritta su argomento medico chirurgico generale.  
+Art. 199. - La durata dei corsi e' di tre anni.  
+Art. 200. - Le materie di insegnamento sono le seguenti, distribuite nei tre anni di corso:  
+1° Anno:  
+1. Anatomia;  
+2. Fisiologia;  
+3. Audiologia (1° anno);  
+4. Semeiotica otorinolaringoiatrica;  
+5. Tecnica di laboratorio;  
+6. Patologia otorinolaringoiatrica e cervico-facciale (1° anno);  
+7. Anatomia ed istologia patologica otorinolaringoiatrica.  
+2° Anno:  
+1. Tecniche operatorie in otorinolaringoiatria;  
+2. Anestesiologia in otorinolaringoiatria;  
+3. Patologia e clinica otorinolaringoiatrica e cervico facciale (2° anno);  
+4. Radiologia in rapporto con l'otorinolaringoiatria 5.  
+Pediatria in rapporto con l'otorinolaringoiatria 6. Audiologia (2° anno);  
+7. Otoneurologia;  
+8. Foniatria.  
+3° Anno:  
+1. Patologia e clinica otorinolaringoiatrica e cervico-facciale;  
+2. Terapia medica e fisica in otorinolaringoiatria;  
+3. Neuropatologia in rapporto con l'otorinolaringoiatria;  
+4. Oculistica in rapporto con l'otorinolaringoiatria 5.  
+Chirurgia plastica;  
+6. Tracheo-broncoscopia;  
+7. Medicina legale ed infortunistica in otorinolaringoiatria.  
+  
 
-Il presente decreto munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 febbraio 1973
+### Dato a Roma, addi' 24 settembre 1968
 
-LEONE SCALFARO
+SARAGAT SCAGLIA
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 27 marzo 1973
+Registrato alla Corte dei conti, addi' 2 novembre 1968
 
-Atti di Governo, registro n. 257, foglio n. 22. - VALENTINI
+Atti del Governo, registro n. 223, foglio n. 77. - GRECO

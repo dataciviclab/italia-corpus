@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 marzo 1983 n. 498
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 aprile 1986 n. 399
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 marzo 1983 n. 498
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 aprile 1986 n. 399
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -14,7 +14,7 @@ Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 14 ot
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nelle [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
@@ -39,20 +39,21 @@ Articolo unico
 --------------
 
   
-Nell'art. 86, relativo all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-terapia neurologica;  
-istituzioni di patologia generale.  
+Nell'art. 30, relativo al corso di laurea in scienze politiche all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
+teoria dei prezzi e delle forme di mercato.  
   
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e de decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 marzo 1983
+### Dato a Roma, addi' 8 aprile 1986
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 22 settembre 1983
+Registrato alla Corte dei conti, addi' 11 luglio 1986
 
-Registro n. 62 Istruzione, foglio n. 299
+Registro n. 56 Istruzione, foglio n. 2

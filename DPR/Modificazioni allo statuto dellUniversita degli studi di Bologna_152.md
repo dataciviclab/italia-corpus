@@ -1,73 +1,161 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1963 n. 2378
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 gennaio 1981 n. 82
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1963 n. 2378
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 gennaio 1981 n. 82
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti suindicati, e' ulteriormente modificato come appresso:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+All'art. 73, relativo al corso di laurea in lettere, e' soppresso l'insegnamento di:  
+storia delle tradizioni popolari.  
+Nello stesso articolo sono aggiunti i seguenti insegnamenti complementari:  
+una storia regionale dell'antichita';  
+storia dell'economia antica;  
+epigrafia e antichita' romane;  
+storia della critica;  
+una storia regionale del medioevo;  
+storia agraria medioevale;  
+storia dell'estetica;  
+psicolinguistica;  
+logica matematica;  
+letteratura popolare;  
+letteratura italiana moderna e contemporanea;  
+filologia dantesca;  
+didattica dell'italiano;  
+sociolinguistica;  
+glottodidattica;  
+fonetica generale;  
+storia dell'arte russa;  
+tecnica dello scavo e delle esplorazioni archeologiche;  
+storia dell'urbanistica e dell'architettura antica;  
+archeologia delle civilta' africane;  
+civilta' egee.  
+
+Art. 2
+------
+
   
-Decreta:  
+All'art. 74, relativo agli insegnamenti complementari del corso di laurea in filosofia, sono soppressi i seguenti:  
+storia della pedagogia italiana;  
+storia del diritto italiano;  
+storia del Risorgimento;  
+storia della civilta' e delle istituzioni classiche;  
+geografia storica dell'antichita';  
+religioni e filosofie del Medio ed Estremo Oriente;  
+filmologia;  
+letterature francofone.  
+Nello stesso articolo sono aggiunti i seguenti insegnamenti complementari:  
+filologia classica;  
+storia dell'estetica;  
+psicolinguistica;  
+psicologia dei processi cognitivi;  
+filosofia della politica;  
+logica matematica;  
+sociolinguistica;  
+storia della filosofia moderna;  
+storia della filosofia contemporanea;  
+storia delle dottrine economiche;  
+storia della scienza e della tecnica;  
+metodologia della progettazione;  
+storia della lingua italiana.  
+
+Art. 3
+------
+
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 38. - Agli insegnamenti complementari del corso di laurea in Economia e commercio e' aggiunto quello di "Ricerca operativa".  
-Art. 46, relativo all'Istituto di statistica e' abrogato e sostituito dal seguente:  
-"L'Istituto di statistica, per le materie di Statistica, Statistica economica, Statistica giudiziaria, Statistica sociale, Statistica sanitaria, Demografia e sociologia, funziona come seminario ai sensi dell'art. 23 del regolamento generale universitario".  
-L'art. 48, relativo agli istituti della Facolta' di economia e commercio, e' abrogato e sostituito dal seguente:  
+All'art. 79, relativo al corso di laurea in lingue e letterature straniere moderne (indirizzo europeo), sono soppressi i seguenti insegnamenti:  
+storia delle tradizioni popolari;  
+religioni e filosofie del Medio ed Estremo Oriente;  
+geografia storica dell'antichita'.  
+Nello stesso articolo sono aggiunti i seguenti insegnamenti complementari:  
+storia della critica;  
+psicolinguistica;  
+logica matematica;  
+letteratura popolare;  
+sociolinguistica;  
+glottodidattica;  
+fonetica generale;  
+storia dell'arte russa;  
+filologia baltica;  
+linguistica uralo-altaica;  
+linguistica basco-caucasica.  
+
+Art. 4
+------
+
   
-Art. 48. - Alla Facolta', di economia e commercio sono annessi i seguenti istituti:  
-1) Istituto di diritto - per tutti gli insegnamenti giuridici della Facolta' per il corso di laurea di diploma in Statistica.  
-2) Istituto di Economia - per gli insegnamenti di Economia politica e di Scienze delle finanze e diritto finanziario.  
-3) Istituto di Geografia economica - per gli insegnamenti di Geografia, economica, di Geografia politica ed economia dei trasporti.  
-4) Istituto di Lingue - per tutti gli insegnamenti di Lingue impartiti nella Facolta'.  
-5) Istituto di Matematica finanziaria - per gli insegnamenti di Matematica generale, di Matematica finanziaria, di Elementi di matematica.  
-6) Istituto di Merceologia per gli insegnamenti di Merceologia e delle ulteriori discipline che possono essere istituite a carattere tecnico-chimico.  
-7) Istituto di Politica economica - per gli insegnamenti di Economia e politica agraria, di Politica economica e finanziaria, Economia e finanza delle imprese di assicurazione.  
-8) Istituto di Ragioneria pubblica e privata - per gli insegnamenti di Ragioneria generale e applicata, Contabilita' nazionale, Ragioneria pubblica.  
-9) Istituto di Statistica - per gli insegnamenti di Statistica, Statistica economica, Statistica sociale, Statistica giudiziaria, Statistica sanitaria, Demografia, Sociologia.  
-10) Istituto di Storia economica e sociale - per gli insegnamenti di Storia economica di storia delle dottrine economiche, Storia delle esplorazioni geografiche.  
-11) Istituto di Tecnica economica - per gli insegnamenti di Tecnica industriale e commerciale, Tecnica bancaria e professionale, Organizzazione aziendale, Ricerca operativa.  
-Dopo l'articolo 48, e con il conseguente spostamento della successiva numerazione, e' aggiunto il seguente nuovo articolo, relativo alla regolamentazione degli istituti annessi alla Facolta' di economia e commercio.  
-Art. 49. - La direzione degli istituti di cui all'articolo precedente spetta:  
-al professore di ruolo che impartisce l'insegnamento del Diritto commerciale per l'Istituto di Diritto;  
-al professore di ruolo che impartisce l'insegnamento dell'Economia politica per l'Istituto di Economia;  
-al professore di ruolo che impartisce l'insegnamento di Geografia economica per l'Istituto di Geografia economica;  
-al professore di ruolo di Lingue che sara' designato dal Consiglio di Facolta' per l'Istituto di Lingue;  
-al professore di ruolo che impartisce l'insegnamento di Matematica finanziaria per l'Istituto di Matematica finanziaria;  
-al professore di ruolo che impartisce l'insegnamento di Merceologia per l'Istituto di Merceologia;  
-al professore di ruolo che impartisce l'insegnamento della Politica economica e finanziaria per l'Istituto di Politica economica;  
-al professore di ruolo che impartisce l'insegnamento di Ragioneria generale e applicata per l'Istituto di Ragioneria pubblica e privata;  
-al professore di ruolo che impartisce l'insegnamento di Statistica per l'Istituto di Statistica;  
-al professore di ruolo che impartisce l'insegnamento di Storia economica per l'Istituto di Storia economica e sociale;  
-al professore di ruolo che impartisce l'insegnamento della Tecnica commerciale e industriale per l'Istituto di Tecnica economica.  
-I professori di ruolo s'intendono riferiti ai corsi per laurea. Nel caso di sdoppiamento di corsi, la direzione spetta al professore che 6 piu' anziano per appartenenza al Consiglio di Facolta'.  
-In mancanza di professore di ruolo la direzione sara' tenuta dal professore che sara' designato dal Consiglio di Facolta'.  
+All'art. 84, relativo al corso di laurea in disciplina delle arti, della musica e dello spettacolo, sono aggiunti i seguenti insegnamenti complementari:  
+storia della musica medioevale e rinascimentale;  
+storia della musica moderna e contemporanea;  
+paleografia musicale;  
+storia delle teorie musicali;  
+metodologia dell'educazione musicale;  
+filologia della musica.  
+
+Art. 5
+------
+
+  
+All'art. 85, relativo al corso di laurea in storia, e' soppresso l'insegnamento di:  
+storia dell'arte orientale (indirizzo orientale).  
+Nello stesso articolo sono aggiunti i seguenti insegnamenti complementari:  
+storia delle lingue dell'Italia preromana (indirizzo antico);  
+filologia medioevale e umanistica (indirizzo medioevale);  
+storia della Chiesa medioevale (indirizzo medioevale);  
+filologia italiana (indirizzo moderno);  
+filologia medioevale e umanistica (indirizzo moderno);  
+Filologia italiana (indirizzo contemporaneo);  
+lingua e letteratura demotica (indirizzo orientale);  
+lingua e letteratura copta (indirizzo orientale);  
+storia dell'Asia meridionale (indirizzo orientale);  
+storia dell'arte dell'India e dell'Asia centrale (indirizzo orientale);  
+storia dell'arte dell'Estremo Oriente (indirizzo orientale);  
+storia dell'impero cinese (indirizzo orientale);  
+storia dell'arte islamica (indirizzo orientale);  
+diritto islamico (indirizzo orientale);  
+ebraismo post-biblico (indirizzo orientale).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Sassari, addi' 31 dicembre 1963
+### Dato a Roma, addi' 8 gennaio 1981
 
-SEGNI GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 18 marzo 1964
+Registrato alla Corte dei conti, addi' 16 marzo 1981
 
-Atti del Governo, registro n. 182, foglio n. 50. - VILLA
+Registro n. 24 Istruzione, foglio n. 262

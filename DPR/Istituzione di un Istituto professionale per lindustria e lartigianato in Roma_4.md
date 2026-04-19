@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 settembre 1956 n. 1736
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1956 n. 1728
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 settembre 1956 n. 1736
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1956 n. 1728
 =================================================================
 
 Istituzione di un Istituto professionale per l'industria e l'artigianato in Roma.
@@ -14,19 +14,17 @@ Veduta la [legge 15 giugno 1931, n. 889](http://www.normattiva.it/uri-res/N2Ls?u
 
 Veduto l'[art. 9 del regio decreto-legge 21 settembre 1938, n. 2038](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-21;2038~art9), convertito nella [legge 2 giugno 1939, n. 739](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739);
 
-Veduto il [regio decreto 3 marzo 1931, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-03-03;383), che approva il testo unico della legge comunale e provinciale;
+Veduto
+------
 
-Sulla
------
-
-proposta del Ministro Segretario di Stato per la pubblica istruzione di concerto con quelli per l'interno e per il tesoro; Decreta:
+il regio decreto 3 marzo 1934, n. 383, che approva il testo unico della legge comunale e provinciale Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con quelli per l'interno e per il tesoro; Decreta:
 
 Art. 1
 ------
 
   
-A decorrere dal 1 ottobre 1956 e' istituita in Roma una scuola avente finalita' ed ordinamento speciali che assume, la denominazione di Istituto professionale per l'industria e per l'artigianato.  
-A decorrere dalla stessa data, la Scuola tecnica industriale statale "Duca d'Aosta" di Roma e' soppressa. La Scuola secondaria di avviamento professionale, gia' annessa alla predetta Scuola tecnica, viene aggregata all'Istituto professionale.  
+A decorrere dal 1 ottobre 1956 e' istituita in Roma una scuola avente finalita' ed ordinamento speciali che assume la denominazione di Istituto professionale per l'industria e per l'artigianato.  
+A decorrere dalla stessa data, la Scuola tecnica industriale statale "Carlo Cattaneo" di Roma e' soppressa. La Scuola secondaria di avviamento professionale, gia' aggregata alla predetta Scuola tecnica, viene annessa all'Istituto professionale.  
 
 Art. 2
 ------
@@ -34,20 +32,11 @@ Art. 2
   
 Il predetto Istituto professionale ha lo scopo di preparare personale idoneo all'esercizio delle attivita' di ordine esecutivo nei vari settori dell'industria e dell'artigianato.  
 Esso e' costituito dalle seguenti scuole professionali, ciascuna delle quali comprende varie sezioni:  
-1) Scuola professionale per l'industria meccanica, con sezioni per:  
-battitore di lamiera e verniciatore a spruzzo;  
-installatore e riparatore impianti idraulici.  
-2) Scuola professionale per l'industria delle materie plastiche, con sezione per:  
-costruttore di stampi e stampatore di oggetti di materie plastiche.  
-3) Scuola professionale per l'industria del legno, con sezione per:  
-falegname ebanista.  
-4) Scuola professionale per l'industria elettrica, con sezioni per:  
-elettricista bassa tensione;  
-bobinatore;  
-installatore e riparatore impianti telefonici.  
-5) Scuola professionale per l'industria fotografica, con sezioni per:  
-fotostampatore;  
-fotoritoccatore.  
+1. Scuola professionale per l'industria meccanica, con sezioni per:  
+congegnatore meccanico;  
+riparatore di auto mezzi;  
+2. Scuola professionale per l'industria elettrica, con sezione per:  
+elettrauto.  
 
 Art. 3
 ------
@@ -65,14 +54,15 @@ Art. 4
 
   
 Le sezioni sono di durata variabile da due a cinque anni in relazione alle esigenze professionali e possono essere diurne e serali.  
+I corsi possono avere durata variabile non superiore ad un anno.  
 
 Art. 5
 ------
 
   
-Con deliberazione del Consiglio di amministrazione sottoposta alla approvazione del Ministero della pubblica istruzione, previo parere del Consorzio provinciale per l'istruzione tecnica, sono stabilite le sezioni ed i corsi che debbono funzionare ogni anno nell'Istituto e vengono fissate le particolari modalita' di attuazione.  
-Le variazioni annuali da apportare al numero ed ai tipi delle varie scuole; sezioni e corsi, potranno essere disposte sempre che la relativa spesa possa rientrare nelle disponibilita' di bilancio dell'Istituto.  
-Qualora tale spesa, ritenuta indispensabile dal Consiglio di amministrazione, non possa essere sostenuta dal bilancio dell'Istituto, potra' provvedersi all'istituzione di nuove scuole, sezioni e corsi mediante la normale procedura e con i fondi annualmente stanziati nel bilancio del Ministero della pubblica istruzione per la istituzione di nuove scuole e istituti di istruzione tecnica e professionale.  
+Con deliberazione del Consiglio di amministrazione sottoposta alla approvazione del Ministero della pubblica istruzione, previo parere dei Consorzio provinciale per l'istruzione tecnica, sono stabilite le sezioni ed i corsi che debbono funzionare ogni anno nell'Istituto e vengono fissate le particolari modalita' di attuazione.  
+Le variazioni annuali da apportare al numero ed ai tipi delle varie scuole, sezioni e corsi, potranno essere disposte sempre che la relativa spesa possa rientrare nelle disponibilita' di bilancio dell'Istituto.  
+Qualora tale spesa, ritenuta indispensabile dal Consiglio di amministrazione, non possa essere sostenuta dal bilancio dell'istituto, potra' provvedersi all'istituzione di nuove scuole, sezioni e corsi mediante la normale procedura e con i fondi annualmente stanziati nel bilancio del Ministero della pubblica istruzione per l'istituzione di nuove scuole e istituti di istruzione tecnica e professionale.  
 
 Art. 6
 ------
@@ -85,7 +75,7 @@ Art. 7
 ------
 
   
-L'Istituto puo' avere scuole staccate anche in altri Comuni, costituendo, ognuna di esse, una unita' tecnicodidattica.  
+L'Istituto puo' avere scuole staccate anche in altri Comuni, costituendo, ognuna di esse, una unita' tecnico-didattica.  
 Tali scuole possono avere le stesse sezioni o sezioni diverse da quelle della sede centrale.  
 
 Art. 8
@@ -98,14 +88,14 @@ Art. 9
 ------
 
   
-Nelle sezioni delle scuole professionali indicate nel precedente art. 2 si impartiscono i seguenti insegnamenti: educazione civica; matematica; geometria; nozioni commerciali; disegno professionale; meccanica; macchine; tecnologia meccanica e laboratorio; tecnologia delle materie spruzzanti e delle resine sintetiche; tecnologia idraulica tecnologia delle materie plastiche e degli stampi; chimica; caratteristiche chimiche, chimico-fisiche e fisiche delle materie plastiche; chimica, fisica e ottica fotografica; tecnica fotografica; storia dell'arte; tecnologie elettriche e telefoniche; telefonia, manuale e automatica; radiotecnica e telefonia interurbana; elettrotecnica e misure elettriche; religione; educazione fisica.  
+Nelle sezioni delle scuole professionali indicate nel precedente art. 2 si impartiscono i seguenti insegnamenti: educazione civica; matematica e fisica; tecnologia e laboratorio tecnologico; disegno; elettrotecnica; economia aziendale; religione; educazione fisica.  
 
 Art. 10
 -------
 
   
-Alle scuole professionali dell'Istituto possono accedere, senza esami di ammissione, i licenziati dalla scuola media e i licenziati dalla scuola secondaria di avviamento professionale di qualsiasi tipo e, mediante esame di ammissione, coloro che, sforniti di tali licenze, abbiano compiuto il 14° anno di eta'.  
-In ogni caso l'ammissione alle scuole professionali e' subordinata ad accertamenti di carattere sanitario e psicologico.  
+Alle scuole professionali dell'Istituto possono accedere, senza esami di ammissione, i licenziati dalla scuola media, e i licenziati dalla scuola secondaria di avviamento professionale di qualsiasi tipo e, mediante esame di ammissione, coloro che, sforniti di tali licenze, abbiano compiuto il 14° anno di eta'.  
+In ogni caso l'ammissione alle scuole professionali e' subordinata, ad accertamenti di carattere sanitario e psicologico.  
 Le condizioni di ammissione alle scuole e ai corsi di cui alle lettere a), b), c) e d) dell'anzidetto art. 3, saranno stabilite dal Consiglio di amministrazione ed approvate dal competente Consorzio provinciale per l'istruzione tecnica.  
 
 Art. 11
@@ -113,14 +103,14 @@ Art. 11
 
   
 Al termine del corso di ciascuna sezione delle scuole professionali gli alunni sostengono gli esami finali per il conseguimento del diploma di qualifica.  
-Al termine delle scuole di cui alla lettera a) dell'art. 3, gli alunni sostengono i relativi esami finali per il conseguimento della patente di maestro artigiano o tecnico patentato.  
+Al termine delle scuole di cui alla lettera a) dell'articolo 3, gli alunni sostengono i relativi esami finali per il conseguimento della patente di maestro artigiano o tecnico patentato.  
 Al termine dei corsi di cui alle lettere b), c) e d) del precedente art. 3 gli alunni conseguono un attestato.  
 
 Art. 12
 -------
 
   
-Le Commissioni di esami sono costituite dal direttore della scuola, da insegnanti di materie tecniche e da insegnanti tecnico pratici della scuola stessa e da due esperti delle categorie economiche e produttive interessate anche non appartenenti all'Amministrazione dello Stato.  
+Le Commissioni di esami sono costituite dal direttore della scuola, da insegnanti di materie tecniche e da insegnanti tecnici pratici della scuola stessa e da due esperti delle categorie economiche e produttive interessate anche non appartenenti all'Amministrazione dello Stato.  
 La Commissione e' presieduta dal preside dell'Istituto e, in caso di impedimento, dal direttore della scuola.  
 
 Art. 13
@@ -136,7 +126,7 @@ Art. 14
 
   
 L'Istituto e' dotato di personalita' giuridica e di autonomia amministrativa, ed e' sottoposto alla vigilanza del Ministero della pubblica istruzione.  
-Il governo amministrativo dell'Istituto e' affidato ad un Consiglio di amministrazione costituito conte appresso:  
+Il governo amministrativo dell'Istituto e' affidato ad un Consiglio di amministrazione costituito come appresso:  
 due rappresentanti del Ministero della pubblica istruzione;  
 un rappresentante dell'Amministrazione provinciale;  
 un rappresentante del Comune;  
@@ -164,18 +154,18 @@ Art. 17
 -------
 
   
-A capo dell'Istituto e' un preside il quale e', in ogni caso, dispensato dall'obbligo dell'insegnamento e ne ha la direzione amministrativa.  
+A capo dell'Istituto e' un preside il quale e', in ogni caso, dispensato dall'obbligo dell'insegnamento. Egli sovraintende all'andamento didattico e disciplinare dell'Istituto e ne ha la direzione amministrativa.  
 A capo di ogni scuola e' un direttore che risponde verso il preside dell'andamento didattico e disciplinare della scuola da lui diretta.  
 Le funzioni di direttore sono affidate per incarico dal Consiglio di amministrazione, su proposta del preside, di regola ad insegnanti di ruolo di materie tecniche.  
-Presso l'Istituto funziona un Consiglio di presidenza costituito dal preside che lo presiede, dai direttori di scuole e da uno o piu' insegnanti tecnico pratici.  
+Presso l'Istituto funziona un Consiglio di presidenza costituito dal preside che lo presiede, dai direttori di scuole e da uno o piu' insegnanti tecnici pratici.  
 Il Consiglio di presidenza coadiuva il preside nel governo didattico e disciplinare dell'Istituto, cura la organizzazione dei vari insegnamenti e il loro mutuo collegamento e da' parere su ogni altra questione di carattere didattico e organizzativo.  
 
 Art. 18
 -------
 
   
-Il posto di preside e' conferito mediante pubblico concorso per titoli e per esami tra gli insegnanti di ruolo di materie tecniche degli Istituti professionali per l'industria e per l'artigianato e degli Istituti tecnici industriali, nonche' tra i direttori delle scuole tecniche industriali che abbiano la necessaria competenza specifica in materia e che siano in possesso degli altri requisiti previsti dal [decreto del Capo provvisorio dello Stato n. 629 del 21 aprile 1947](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-21;629).  
-Gli altri posti di ruolo del personale insegnante e tecnico pratico sono conferiti mediante pubblico concorso per titoli e per esami e, qualora se ne ravvisi l'opportunita', secondo le norme dell'[art. 36 della legge 15 giugno 1931, n. 889](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889~art36), sul riordinamento dell'istruzione media tecnica.  
+Il posto di preside e' conferito mediante pubblico concorso per titoli e per esami tra gli insegnanti di ruolo di materie tecniche degli Istituti professionali per l'industria e per l'artigianato e degli Istituti tecnici industriali, nonche' tra i direttori delle Scuole tecniche industriali che abbiano la necessaria competenza specifica in materia e che siano in possesso degli altri requisiti previsti dal [decreto del Capo provvisorio dello stato n. 629 del 21 aprile 1947](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-21;629).  
+Gli altri posti di ruolo del personale insegnante e tecnico pratico sono conferiti mediante pubblico concorso per titoli e per esami e, qualora se ne ravvisi opportunita', secondo le norme dell'[art. 36 della legge 5 giugno 1931, n. 889](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-05;889~art36), sul riordinamento dell'istruzione media tecnica.  
 
 Art. 19
 -------
@@ -183,22 +173,22 @@ Art. 19
   
 Il personale direttivo, insegnante e tecnico di ruolo che, alla data di pubblicazione del presente decreto nella Gazzetta Ufficiale, trovasi in servizio nell'Istituto professionale e che, per l'attivita' svolta, abbia dimostrato particolare competenza e perizia nelle mansioni esercitate, puo' essere inquadrato nell'organico dell'Istituto professionale su proposta del Consiglio di amministrazione, previo parere di una Commissione tecnica nominata dal Ministero della pubblica istruzione, la quale sottoporra' il suddetto personale ad un apposito colloquio su argomenti attinenti al posto da ricoprire.  
 Il personale ritenuto meritevole di inquadramento e' collocato nel posto previsto nell'annessa tabella organica, conservando i diritti acquisiti di carriera e di stipendio previsti dall'[art. 6 del regio decreto-legge 6 maggio 1923, n. 1054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-05-06;1054~art6).  
-La tabella organica annessa al presente decreto, vista e firmata d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione e da quello per il tesoro, indica il posto, il gruppo e il grado del personale di ruolo ed i posti da ricoprire per incarico.  
+La tabella organica annessa al presente decreto, vista e firmata d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione e da quello per il tesoro, indica le qualifiche e i posti del personale di ruolo ed i posti da ricoprire per incarico.
 
 Art. 20
 -------
 
   
 Al personale di ruolo si applicano le disposizioni vigenti per il personale degli istituti tecnici governativi.  
-Per la nomina del personale incaricato e supplente il Consiglio di amministrazione provvede direttamente, in conformita' delle concrete necessita' dell'istruzione professionale.  
-In relazione, sia alle specifiche esigenze dell'addestramento pratico, sia al funzionamento delle officine e dei laboratori, il Consiglio di amministrazione puo' assumere in servizio temporaneo esperti nel campo della produzione e del lavoro.  
+Per la nomina del personale incaricato e supplente il Consiglio di amministrazione provvede direttamente, in conformita' delle concrete necessita' dell'istituzione professionale.  
+In relazione, sia alle specifiche esigenze, dell'addestramento pratico, sia al funzionamento delle officine e dei laboratori, il Consiglio di amministrazione puo' assumere in servizio temporaneo esperti nel campo della produzione e del lavoro.  
 Quando funzionino scuole staccate a norma dell'articolo 7 del presente decreto, il personale di ruolo e non di ruolo puo' essere assegnato dalla Presidenza, sia alle scuole della sede centrale, sia a quelle staccate che, ad ogni effetto, sono considerate sedi ordinarie di servizio.  
 
 Art. 21
 -------
 
   
-Il Consiglio di amministrazione puo' concedere, annualmente, nei limiti delle disponibilita' del proprio bilancio, al personale direttivo, insegnante, tecnico ed amministrativo assegni speciali non computabili, per il personale di ruolo, agli effetti della pensione.  
+Il Consiglio di amministrazione puo' concedere, annualmente, nei limiti delle disponibilita' dei proprio bilancio, al personale direttivo, insegnante, tecnico ed amministrativo assegni speciali non computabili, per il personale di ruolo, agli effetti della pensione.  
 La concessione di tali assegni e' subordinata all'esistenza di una o piu' delle condizioni previste dall'[articolo 49 della legge 15 giugno 1931, n. 889](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889~art49), ad eccezione del personale tecnico incaricato e temporaneo per il quale, ferme restando tutte le altre modalita' e condizioni indicate dal suddetto art. 49, si prescinde dal limite posto nell'ultimo comma dell'articolo medesimo.  
 
 Art. 22
@@ -206,7 +196,7 @@ Art. 22
 
   
 Alle spese di mantenimento dell'Istituto si provvede:  
-1) con un contributo del Ministero della pubblica istruzione fissato in L. 71.000.000;  
+1) con un contributo del Ministero della pubblica istruzione in L. 28.000.000;  
 2) con gli eventuali contributi degli Enti locali, delle organizzazioni professionali di categoria e di privati;  
 3) con lasciti e donazioni da parte di enti e di privati;  
 4) con i proventi dei laboratori e delle officine;  
@@ -216,7 +206,7 @@ Art. 23
 -------
 
   
-Per quanto riguarda gli oneri a carico degli enti locali, all'istituto professionale si applicano le disposizioni dell'art. 91, lettera f) del testo unico della legge comunale e provinciale approvata con [regio decreto 3 marzo 1934, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383).  
+Per quanto riguarda gli oneri a carico degli enti locali, all'Istituto professionale si applicano le disposizioni dell'art. 91, lettera f) del testo unico della legge comunale e provinciale, approvata con [regio decreto 3 marzo 1934, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383).  
 Per quanto non e' previsto dal presente decreto, si applicano le disposizioni vigenti per gli Istituti d'istruzione tecnica.  
   
 
@@ -229,15 +219,39 @@ GRONCHI ROSSI - TAMBRONI - MEDICI
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 17 ottobre 1957
+Registrato alla Corte dei conti, addi' 13 settembre 1957
 
-Atti del Governo, registro n. 108, foglio n. 82. - RELLEVA
+Atti del Governo, registro n. 107, foglio n. 122. - RELLEVA
 
 Tabella
 
-Tabella organica dell'istituto professionale per l'industria e per l'artigianato "Duca d'Aosta" di Roma   
+Tabella organica dell'Istituto professionale per l'industria e per l'artigianato "Carlo Cattaneo" di Roma   
+Numero   
+Qualifica dei posti   
   
+PERSONALE DI RUOLO   
   
+1. Preside senza insegnamento (1ª categoria).............. 1   
+2. Cattedre di insegnamento (ruolo A)..................... 4   
+3. Insegnanti tecnici pratici (1)......................... 3   
+4. Segretario economo..................................... 1   
+5. Applicati.............................................. 1   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=056U173600100010110001&dgu=1957-10-22&art.dataPubblicazioneGazzetta=1957-10-22&art.codiceRedazionale=056U1736)
+PERSONALE INCARICATO   
   
+6. Incarichi d'insegnamento (per complessive 82 ore setti-   
+manali).............................................. 6   
+7. Insegnanti tecnici pratici............................. 3   
+8. Applicati.............................................. 1   
+9. Persone di servizio.................................... 4   
+  
+(1) Il trattamento economico e di carriera e' quello previsto per gli insegnanti tecnici pratici degli istituti tecnici.   
+  
+N.B. - Fermo restando il numero complessivo dei posti di ruolo e di quelli da affidare per incarico, le materie costituenti le cattedre di insegnamento e le qualifiche da attribuire al personale tecnico saranno determinate con decreto del Ministro per la pubblica istruzione.   
+  
+Visto, d'ordine del Presidente della Repubblica   
+Il Ministro per la pubblica istruzione   
+ROSSI   
+  
+Il Ministro per il tesoro   
+MEDICI   

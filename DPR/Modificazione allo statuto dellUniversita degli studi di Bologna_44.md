@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 1153
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 1146
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 1153
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 1146
 =================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bologna.
@@ -39,8 +39,8 @@ Articolo unico
 --------------
 
   
-Nell'art. 154, relativo al corso di laurea in scienze agrarie, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-apicoltura e bachicoltura.  
+Nell'art. 106, relativo al corso di laurea in fisica, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+fisica sanitaria.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
@@ -54,4 +54,4 @@ Visto, il Guardasigilli: MARTINAZZOLI
 
 Registrato alla Corte dei conti, addi' 22 marzo 1984
 
-Registro n. 17 Istruzione, foglio n. 328
+Registro n. 17 Istruzione, foglio n. 358

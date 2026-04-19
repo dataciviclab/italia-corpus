@@ -1,115 +1,23 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1062
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1965 n. 1313
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1062
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1965 n. 1313
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e modificato con [regio decreto 30 ottobre 1930, n. 1826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1826), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 19. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche vengono aggiunti i seguenti:
-
-Diritto commerciale;
-
-Storia del diritto internazionale;
-
-Diritto del mercato finanziario;
-
-Informatica;
-
-Sociologia del mutamento;
-
-Sociologia della leadership;
-
-Sociologia comparata;
-
-Analisi del funzionamento del potere legislativo;
-
-Diritto dell'assetto territoriale;
-
-Sociologia della storia;
-
-Storia politica e diplomatica dell'Asia orientale.
-
-Nello stesso articolo viene soppresso l'insegnamento di "Filosofia del diritto".
-
-Art. 51. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne sono aggiunti i seguenti:
-
-Storia della lingua francese;
-
-Storia della lingua inglese;
-
-Storia della lingua spagnola;
-
-Storia della lingua tedesca;
-
-Storia della lingua russa;
-
-Didattica generale delle lingue straniere moderne.
-
-Gli articoli 283, 284, terzo comma, 285, primo comma, e 287 sono modificati nel senso che la sede e la direzione della scuola di specializzazione in allergologia e immunologia clinica sono trasferite dall'Istituto di patologia speciale medica e metodologia clinica II all'Istituto di patologia speciale medica e metodologia clinica I.
-
-Art. 307, relativo alla scuola di perfezionamento in fisica viene modificato nel senso che il sesto comma relativo alle tasse e soprattasse e' abrogato e sostituito dal seguente:
-
-6) quietanze comprovanti il pagamento delle seguenti tasse, soprattasse e contributi:
-
-Tassa immatricolazione . . . . . . . . . . . . . . . . . . . L. 5.000 Tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 18.000 Soprattassa annuale per gli esami di profitto. . . . . . . . L. 7.000 Contributo annuale di riscaldamento. . . . . . . . . . . . . L. 2.000 Libretto studi e tessera . . . . . . . . . . . . . . . . . . L. 2.000 Contributi studenteschi. . . . . . . . . . . . . . . . . . . L. 1.000
-
-L'ammontare di eventuali contributi di laboratorio e di esercitazioni e' stabilito dal consiglio di amministrazione su proposta della facolta'.
-
-Le tasse relative al rilascio del diploma sono le stesse di quelle relative al rilascio del diploma di laurea della facolta' di scienze.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1972
-
-LEONE
-
-SCALFARO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 5 marzo 1973 Atti di Governo, registro n. 256, foglio n. 53. - VALENTINI
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e modificato con [regio decreto 30 ottobre 1930, n. 1826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1826), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -117,46 +25,18 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 19. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche vengono aggiunti i seguenti:  
-  
-Diritto commerciale;  
-Storia del diritto internazionale;  
-Diritto del mercato finanziario;  
-Informatica;  
-Sociologia del mutamento;  
-Sociologia della leadership;  
-Sociologia comparata;  
-Analisi del funzionamento del potere legislativo;  
-Diritto dell'assetto territoriale;  
-Sociologia della storia;  
-Storia politica e diplomatica dell'Asia orientale.  
-Nello stesso articolo viene soppresso l'insegnamento di "Filosofia del diritto".  
-Art. 51. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne sono aggiunti i seguenti:  
-  
-Storia della lingua francese;  
-Storia della lingua inglese;  
-Storia della lingua spagnola;  
-Storia della lingua tedesca;  
-Storia della lingua russa;  
-Didattica generale delle lingue straniere moderne.  
-Gli articoli 283, 284, terzo comma, 285, primo comma, e 287 sono modificati nel senso che la sede e la direzione della scuola di specializzazione in allergologia e immunologia clinica sono trasferite dall'Istituto di patologia speciale medica e metodologia clinica II all'Istituto di patologia speciale medica e metodologia clinica I.  
-Art. 307, relativo alla scuola di perfezionamento in fisica viene modificato nel senso che il sesto comma relativo alle tasse e soprattasse e' abrogato e sostituito dal seguente:  
-6) quietanze comprovanti il pagamento delle seguenti tasse, soprattasse e contributi:  
-  
-Tassa immatricolazione . . . . . . . . . . . . . . . . . . . L. 5.000 Tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 18.000 Soprattassa annuale per gli esami di profitto. . . . . . . . L. 7.000 Contributo annuale di riscaldamento. . . . . . . . . . . . . L. 2.000 Libretto studi e tessera . . . . . . . . . . . . . . . . . . L. 2.000 Contributi studenteschi. . . . . . . . . . . . . . . . . . . L. 1.000   
-L'ammontare di eventuali contributi di laboratorio e di esercitazioni e' stabilito dal consiglio di amministrazione su proposta della facolta'.  
-Le tasse relative al rilascio del diploma sono le stesse di quelle relative al rilascio del diploma di laurea della facolta' di scienze.  
+Art. 9. - All'elenco degli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di "Teoria generale del diritto".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 30 ottobre 1965
 
-LEONE SCALFARO
+SARAGAT GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 5 marzo 1973
+Registrato alla Corte dei conti, addi' 4 dicembre 1965
 
-Atti di Governo, registro n. 256, foglio n. 53. - VALENTINI
+Atti del Governo, registro n. 198, foglio n. 94. - VILLA

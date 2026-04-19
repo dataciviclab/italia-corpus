@@ -1,54 +1,235 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1978 n. 1063
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1973 n. 585
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1978 n. 1063
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1973 n. 585
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Gli articoli 192 e 193 relativi alla scuola di specializzazione in urologia, sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in urologia
+
+Art. 192. - Per il conseguimento del diploma di specialista in urologia si richiedono tre anni di corso.
+
+Il numero degli iscritti e' stabilito in sedici (16) per i tre anni di corso.
+
+Art. 193. - Gli insegnamenti impartiti nella scuola sono i seguenti:
+
+1° Anno:
+
+1) Anatomia descrittiva e topografica dell'apparato uro-genitale;
+
+2) Fisiologia dell'apparato uro-genitale;
+
+3) Patologia dell'apparato urinario e genitale maschile;
+
+4) Le nefropatie mediche;
+
+5) Semeiotica dell'apparato uro-genitale (funzionale e di laboratorio);
+
+6) Tecniche strumentali e semeiologia endoscopica;
+
+7) Batteriologia in urologia;
+
+8) Farmacoterapia delle affezioni uro-genitali.
+
+2° Anno:
+
+1) Patologia dell'apparato urinario e genitale maschile;
+
+2) Clinica urologica;
+
+3) Patologia genitale femminile di interesse urologico;
+
+4) Nefrologia chirurgica;
+
+5) Anatomia ed istologia patologica dell'apparato uro-genitale;
+
+6) Semeiotica dell'apparato uro-genitale (funzionale e di laboratorio);
+
+7) Tecniche strumentali e semeiologia endoscopica;
+
+8) Anatomia chirurgica dell'apparato uro-genitale;
+
+9) Radiologia dell'apparato urinario e genitale;
+
+10) Le affezioni cutanee e veneree nei riguardi dell'urologia;
+
+11) L'anestesia ed il trattamento pre e post-operatorio del malato urologico.
+
+3° Anno:
+
+1) Clinica urologica;
+
+2) Patologia e clinica urologica infantile;
+
+3) Radiologia dell'apparato urinario e genitale;
+
+4) Tecniche operatorie sull'apparato urinario e genitale;
+
+5) Urologia ginecologica.
+
+ESAMI
+
+1° Anno:
+
+1) Anatomia e fisiologia dell'apparato uro-genitale;
+
+2) Le nefropatie mediche;
+
+3) Batteriologia in urologia e farmacoterapia delle affezioni uro-genitali.
+
+2° Anno:
+
+1) Patologia dell'apparato urinario e genitale maschile, anatomia ed istologia patologica;
+
+2) Semeiotica urologica (funzionale e di laboratorio) e tecnica strumentale e semeiologia endoscopica;
+
+3) Patologia genitale femminile di interesse urologico; le affezioni cutanee e veneree nei riguardi della urologia;
+
+4) Anatomia chirurgica dell'apparato uro-genitale; anestesia e trattamento pre e post-operatorio del malato urologico;
+
+5) Nefrologia chirurgica.
+
+3° Anno:
+
+1) Clinica urologica;
+
+2) Radiologia dell'apparato urinario e genitale;
+
+3) Interventi e procedimenti operatori sull'apparato uro-genitale;
+
+4) Patologia e clinica urologica infantile;
+
+5) Urologia ginecologica.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 25 luglio 1973
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: ZAGARI
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 3 ottobre 1973 Atti di Governo, registro n. 261, foglio n. 9. - VALENTINI
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 43 - all'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
-diplomatica;  
-esegesi delle fonti di storia greca e romana;  
-sanscrito;  
-storia dell'Italia contemporanea.  
-Art. 44 - all'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:  
-sociologia economica;  
-storia del pensiero sociologico.  
-Art. 45 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo) sono aggiunti i seguenti:  
-letterature ibero-americane;  
-lingua e letteratura slovena;  
-lingua e letterature scandinave;  
-storia della lingua russa.  
+Gli articoli 192 e 193 relativi alla scuola di specializzazione in urologia, sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in urologia  
+  
+Art. 192. - Per il conseguimento del diploma di specialista in urologia si richiedono tre anni di corso.  
+Il numero degli iscritti e' stabilito in sedici (16) per i tre anni di corso.  
+  
+Art. 193. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
+  
+1° Anno:  
+1) Anatomia descrittiva e topografica dell'apparato uro-genitale;  
+2) Fisiologia dell'apparato uro-genitale;  
+3) Patologia dell'apparato urinario e genitale maschile;  
+4) Le nefropatie mediche;  
+5) Semeiotica dell'apparato uro-genitale (funzionale e di laboratorio);  
+6) Tecniche strumentali e semeiologia endoscopica;  
+7) Batteriologia in urologia;  
+8) Farmacoterapia delle affezioni uro-genitali.  
+  
+2° Anno:  
+1) Patologia dell'apparato urinario e genitale maschile;  
+2) Clinica urologica;  
+3) Patologia genitale femminile di interesse urologico;  
+4) Nefrologia chirurgica;  
+5) Anatomia ed istologia patologica dell'apparato uro-genitale;  
+6) Semeiotica dell'apparato uro-genitale (funzionale e di laboratorio);  
+7) Tecniche strumentali e semeiologia endoscopica;  
+8) Anatomia chirurgica dell'apparato uro-genitale;  
+9) Radiologia dell'apparato urinario e genitale;  
+10) Le affezioni cutanee e veneree nei riguardi dell'urologia;  
+11) L'anestesia ed il trattamento pre e post-operatorio del malato urologico.  
+  
+3° Anno:  
+1) Clinica urologica;  
+2) Patologia e clinica urologica infantile;  
+3) Radiologia dell'apparato urinario e genitale;  
+4) Tecniche operatorie sull'apparato urinario e genitale;  
+5) Urologia ginecologica.  
+  
+ESAMI  
+  
+1° Anno:  
+1) Anatomia e fisiologia dell'apparato uro-genitale;  
+2) Le nefropatie mediche;  
+3) Batteriologia in urologia e farmacoterapia delle affezioni uro-genitali.  
+  
+2° Anno:  
+1) Patologia dell'apparato urinario e genitale maschile, anatomia ed istologia patologica;  
+2) Semeiotica urologica (funzionale e di laboratorio) e tecnica strumentale e semeiologia endoscopica;  
+3) Patologia genitale femminile di interesse urologico; le affezioni cutanee e veneree nei riguardi della urologia;  
+4) Anatomia chirurgica dell'apparato uro-genitale; anestesia e trattamento pre e post-operatorio del malato urologico;  
+5) Nefrologia chirurgica.  
+  
+3° Anno:  
+1) Clinica urologica;  
+2) Radiologia dell'apparato urinario e genitale;  
+3) Interventi e procedimenti operatori sull'apparato uro-genitale;  
+4) Patologia e clinica urologica infantile;  
+5) Urologia ginecologica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma addi' 11 aprile 1978
+### Dato a Roma, addi' 25 luglio 1973
 
-LEONE PEDINI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 7 maggio 1979
+Registrato alla Corte dei conti, addi' 3 ottobre 1973
 
-Registro n. 33 Istruzione, foglio n. 79
+Atti di Governo, registro n. 261, foglio n. 9. - VALENTINI

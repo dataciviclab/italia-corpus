@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1979 n. 377
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1970 n. 914
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1979 n. 377
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1970 n. 914
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,285 +20,230 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla
+-----
 
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-All'art. 150 e' aggiunto il seguente comma:
-
-La facolta' di agraria rilascia anche la laurea in agricoltura tropicale e subtropicale.
-
-Dopo l'art. 152, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in agricoltura tropicale e subtropicale:
-
-Art. 153. - La durata del corso degli studi per la laurea in agricoltura tropicale e subtropicale e' di quattro anni.
-
-I titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge.
-
-Sono insegnamenti fondamentali:
-
-(\*) anatomia e fisiologia degli animali domestici;
-
-(\*) botanica generale;
-
-(\*) chimica generale ed inorganica con applicazioni di analitica; (\*) chimica organica;
-
-(\*) matematica;
-
-(\*) fisica;
-
-(\*) principi di economia politica e di statistica;
-
-(\*) economia e politica agraria (biennale);
-
-(\*) microbiologia agraria e tecnica;
-
-(\*) topografia, costruzioni rurali con applicazioni di disegno;
-
-(\*) zootecnica generale;
-
-(\*) agronomia generale e coltivazioni erbacee (biennale);
-
-(\*) estimo rurale e contabilita';
-
-(\*) meccanica agraria con applicazioni di disegno;
-
-(\*\*) meccanizzazione delle colture tropicali e subtropicali;
-
-(\*\*) coltivazioni erbacee delle regioni tropicali e subtropicali (semestrale);
-
-(\*\*) industrie agrarie tropicali e subtropicali;
-
-biogeografia ed ecologia;
-
-botanica sistematica ad indirizzo tropicale;
-
-pedologia tropicale e subtropicale;
-
-coltivazioni arboree tropicali e subtropicali;
-
-patologia vegetale tropicale e subtropicale;
-
-zootecnica speciale tropicale subtropicale;
-
-chimica del suolo tropicale e subtropicale;
-
-entomologia agraria tropicale e subtropicale;
-
-nutrizione e alimentazione animale;
-
-tecniche irrigue dei Paesi aridi.
-
-Sono insegnamenti complementari:
-
-biochimica vegetale;
-
-costruzioni stradali forestali e agrarie;
-
-difesa e conservazione del suolo;
-
-fitogeografia tropicale e subtropicale;
-
-lingua inglese;
-
-lingua francese;
-
-partecipazione, sviluppo, divulgazione;
-
-pianificazione, sviluppo e gestione delle risorse idriche;
-
-trattrici agricole e macchine per la lavorazione del terreno;
-
-elementi di meccanica e motori;
-
-litologia e geomorfologia tropicale e subtropicale;
-
-gestione dei pascoli tropicali e subtropicali;
-
-assestamento e dendrometria forestale tropicale e subtropicale;
-
-economia e politica forestale;
-
-tecnologia del legno e utilizzazioni forestali tropicali e subtropicali;
-
-entomologia forestale tropicale e subtropicale;
-
-manutenzioni e riparazioni (semestrale);
-
-aridocoltura e coltivazioni delle terre salse (semestrale);
-
-conservazione dei prodotti agricoli (semestrale);
-
-cooperazione agricola (semestrale);
-
-economia e pianificazione dei Paesi tropicali e subtropicali (semestrale);
-
-impianti elettrici e fonti alternative di energia (semestrale);
-
-tecnica di lotta alle malerbe (semestrale);
-
-inventari forestali (semestrale);
-
-tecnica della progettazione (semestrale);
-
-selvicoltura tropicale e subtropicale;
-
-geografia economica dei Paesi tropicali e subtropicali;
-
-metodologia statistica e sperimentale;
-
-orticoltura e floricoltura tropicale e subtropicale;
-
-principi di diritto dei Paesi tropicali e subtropicali;
-
-cartografia e fotointerpretazione (semestrale);
-
-fisiopatologia degli allevamenti (semestrale);
-
-gestione dei parchi e delle riserve (semestrale);
-
-morfologia degli animali domestici dei Paesi tropicali e subtropicali (semestrale);
-
-piante arboree ed arbustive ornamentali tropicali e subtropicali (semestrale);
-
-produzione delle sementi (semestrale).
-
-Gli insegnamenti contrassegnati con un asterisco sono in comune con il corso di laurea in scienze agrarie.
-
-Gli insegnamenti indicati con due asterischi sono comuni con il corso di laurea in scienze agrarie solo se attivati per detto corso.
-
-Art. 154. - Sono anche complementari tutte le altre discipline fondamentali e complementari dei corsi di scienze agrarie e di scienze forestali.
-
-Art. 155. - Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in quattro almeno da lui scelti fra i complementari se a corso annuale, in cinque almeno se due di essi sono a corso semestrale.
-
-Art. 156. - Sono valide, per quanto pertinenti, le disposizioni contenute negli articoli 157 (ex art. 153), 158, 159, 160 e 161 dello statuto approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e successivi aggiornamenti.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 14 marzo 1979
-
-PERTINI
-
-PEDINI
-
-Visto, il Guardasigilli: MORLINO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 28 luglio 1979 Registro n. 60 Istruzione, foglio n. 184
+proposta del Ministro per la pubblica istruzione; Decreta:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Presso l'Universita' degli studi di Firenze e' istituita la facolta' di ingegneria con i corsi di laurea in ingegneria chimica, in ingegneria meccanica, in ingegneria elettronica e in ingegneria civile (sezioni edile, idraulica e trasporti).  
+
+Art. 2
+------
+
   
-Decreta:  
+Per tale facolta' sono assegnati i seguenti posti di ruolo:  
+a) cinque posti di professore, prelevati sul contingente di cui all'[art. 1 della legge 24 febbraio 1967, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-24;62~art1) (aliquota 1970-71);  
+b) otto posti di assistente, prelevati sul contingente di cui all'art. 18, secondo comma, della suddetta legge n. 62 (aliquota 1970-71).  
+
+Art. 3
+------
+
   
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-All'art. 150 e' aggiunto il seguente comma:  
+Le attribuzioni, demandate dalle vigenti disposizioni di legge di regolamento al consiglio di facolta', vengono esercitate da un apposito comitato composto di tre professori di ruolo o fuori ruolo, nominati dal Ministro per la pubblica istruzione.  
+I professori di ruolo che in base alle vigenti disposizioni verranno a far parte della predetta facolta', saranno aggregati al comitato anzidetto. Tale comitato cessera' dalle sue funzioni allorche' alla facolta' stessa risulteranno assegnati tre professori di ruolo.  
+In ogni caso detto comitato non potra' rimanere in carica oltre un triennio e, qualora allo scadere del triennio medesimo, non risultino assegnati alla facolta' tre professori di ruolo, il Ministro per la pubblica istruzione provvedera' alla nomina di un nuovo comitato con le stesse modalita' indicate nel primo comma del presente articolo.  
+
+Art. 4
+------
+
   
-La facolta' di agraria rilascia anche la laurea in agricoltura tropicale e subtropicale.  
-Dopo l'art. 152, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in agricoltura tropicale e subtropicale:  
-Art. 153. - La durata del corso degli studi per la laurea in agricoltura tropicale e subtropicale e' di quattro anni.  
-I titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge.  
-Sono insegnamenti fondamentali:  
-(\*) anatomia e fisiologia degli animali domestici;  
-(\*) botanica generale;  
-(\*) chimica generale ed inorganica con applicazioni di analitica; (\*) chimica organica;  
-(\*) matematica;  
-(\*) fisica;  
-(\*) principi di economia politica e di statistica;  
-(\*) economia e politica agraria (biennale);  
-(\*) microbiologia agraria e tecnica;  
-(\*) topografia, costruzioni rurali con applicazioni di disegno;  
-(\*) zootecnica generale;  
-(\*) agronomia generale e coltivazioni erbacee (biennale);  
-(\*) estimo rurale e contabilita';  
-(\*) meccanica agraria con applicazioni di disegno;  
-(\*\*) meccanizzazione delle colture tropicali e subtropicali;  
-(\*\*) coltivazioni erbacee delle regioni tropicali e subtropicali (semestrale);  
-(\*\*) industrie agrarie tropicali e subtropicali;  
-biogeografia ed ecologia;  
-botanica sistematica ad indirizzo tropicale;  
-pedologia tropicale e subtropicale;  
-coltivazioni arboree tropicali e subtropicali;  
-patologia vegetale tropicale e subtropicale;  
-zootecnica speciale tropicale subtropicale;  
-chimica del suolo tropicale e subtropicale;  
-entomologia agraria tropicale e subtropicale;  
-nutrizione e alimentazione animale;  
-tecniche irrigue dei Paesi aridi.  
-Sono insegnamenti complementari:  
-biochimica vegetale;  
-costruzioni stradali forestali e agrarie;  
-difesa e conservazione del suolo;  
-fitogeografia tropicale e subtropicale;  
-lingua inglese;  
-lingua francese;  
-partecipazione, sviluppo, divulgazione;  
-pianificazione, sviluppo e gestione delle risorse idriche;  
-trattrici agricole e macchine per la lavorazione del terreno;  
-elementi di meccanica e motori;  
-litologia e geomorfologia tropicale e subtropicale;  
-gestione dei pascoli tropicali e subtropicali;  
-assestamento e dendrometria forestale tropicale e subtropicale;  
-economia e politica forestale;  
-tecnologia del legno e utilizzazioni forestali tropicali e subtropicali;  
-entomologia forestale tropicale e subtropicale;  
-manutenzioni e riparazioni (semestrale);  
-aridocoltura e coltivazioni delle terre salse (semestrale);  
-conservazione dei prodotti agricoli (semestrale);  
-cooperazione agricola (semestrale);  
-economia e pianificazione dei Paesi tropicali e subtropicali (semestrale);  
-impianti elettrici e fonti alternative di energia (semestrale);  
-tecnica di lotta alle malerbe (semestrale);  
-inventari forestali (semestrale);  
-tecnica della progettazione (semestrale);  
-selvicoltura tropicale e subtropicale;  
-geografia economica dei Paesi tropicali e subtropicali;  
-metodologia statistica e sperimentale;  
-orticoltura e floricoltura tropicale e subtropicale;  
-principi di diritto dei Paesi tropicali e subtropicali;  
-cartografia e fotointerpretazione (semestrale);  
-fisiopatologia degli allevamenti (semestrale);  
-gestione dei parchi e delle riserve (semestrale);  
-morfologia degli animali domestici dei Paesi tropicali e subtropicali (semestrale);  
-piante arboree ed arbustive ornamentali tropicali e subtropicali (semestrale);  
-produzione delle sementi (semestrale).  
-Gli insegnamenti contrassegnati con un asterisco sono in comune con il corso di laurea in scienze agrarie.  
-Gli insegnamenti indicati con due asterischi sono comuni con il corso di laurea in scienze agrarie solo se attivati per detto corso.  
-Art. 154. - Sono anche complementari tutte le altre discipline fondamentali e complementari dei corsi di scienze agrarie e di scienze forestali.  
-Art. 155. - Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in quattro almeno da lui scelti fra i complementari se a corso annuale, in cinque almeno se due di essi sono a corso semestrale.  
-Art. 156. - Sono valide, per quanto pertinenti, le disposizioni contenute negli articoli 157 (ex art. 153), 158, 159, 160 e 161 dello statuto approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e successivi aggiornamenti.  
+Lo statuto dell'Universita' di Firenze, approvato e modificato con i decreti suindicati e' ulteriormente modificato come dal testo annesso al presente decreto, vistato dal Ministro per la pubblica istruzione, contenente le norme relative all'ordinamento del triennio di applicazione dei corsi di laurea in ingegneria.  
+Il biennio propedeutico all'ingegneria, esistente presso la facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Firenze passa a far parte integrante della facolta' di ingegneria, istituita con il presente decreto.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 marzo 1979
+### Dato a Roma, addi' 27 settembre 1970
 
-PERTINI PEDINI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 28 luglio 1979
+Registrato alla Corte dei conti, addi' 27 novembre 1970
 
-Registro n. 60 Istruzione, foglio n. 184
+Atti del Governo, registro n. 238, foglio n. 137. - CARUSO
+
+Allegato
+
+Testo delle modifiche allo statuto dell'Universita' di Firenze relativo all'istituzione della facolta' di ingegneria   
+  
+Art. 1. - E' modificato nel senso che all'elenco delle facolta' che   
+comprende l'Universita' di Firenze e' aggiunta la seguente: "Facolta' di ingegneria".   
+L'articolo relativo al biennio propedeutico agli studi in   
+ingegneria esistente presso la facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Firenze che passa a far parte integrante della facolta' di ingegneria, assume una nuova numerazione contraddistinta con il n. 104.   
+Dopo il n. 104 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli, relativi all'istituzione del triennio di applicazione dei corsi di laurea in ingegneria chimica, in ingegneria meccanica, in ingegneria elettronica ed in ingegneria civile (sezioni edile, idraulica e trasporti).   
+Art. 105. - Gli insegnamenti del triennio di applicazione (3°, 4° e   
+5° anno) in ingegneria chimica sono i seguenti:   
+a) Insegnamenti obbligatori su piano nazionale:   
+1) Scienza delle costruzioni;   
+2) Meccanica applicata alle macchine;   
+3) Fisica tecnica;   
+4) Elettrotecnica;   
+5) Chimica fisica;   
+6) Chimica applicata;   
+7) Macchine;   
+8) Principi di ingegneria chimica;   
+9) Chimica industriale;   
+10) Impianti chimici.   
+b) Insegnamenti obbligatori comuni agli indirizzi proposti su   
+piano locale:   
+1) Teoria e sviluppo dei processi chimici;   
+2) Chimica industriale II;   
+3) Complementi di ingegneria chimica;   
+4) Chimica fisica tecnica;   
+5) Automazione e servomeccanismi;   
+6) Economia e organizzazione aziendale.   
+c) Insegnamenti caratterizzanti i singoli indirizzi:   
+Gruppo A (organico-industriale): Tessile   
+1) Tecnologia delle fibre tessili;   
+2) Chimica macromolecolare e tecnologia degli alti polimeri;   
+3) Tecnologie tintorie;   
+4) Chimica delle sostanze coloranti.   
+Gruppo B (inorganico-industriale): Vetro-ceramica   
+1) Complementi di chimica fisica;   
+2) Chimica e tecnologia del vetro;   
+3) Chimica e tecnologia dei prodotti ceramici;   
+4) Tecnologia dei materiali sintetizzati.   
+Gruppo C (metallurgica speciale)   
+1) Elettrochimica;   
+2) Tecnologie speciali metallurgiche;   
+3) Scienze dei metalli;   
+4) Chimica fisica dello stato solido e delle superfici.   
+Art. 106. - Gli insegnamenti del triennio di applicazione (3°, 4° e   
+5° anno) in ingegneria meccanica sono i seguenti:   
+a) Insegnamenti obbligatori su piano nazionale:   
+1) Scienza delle costruzioni;   
+2) Meccanica applicata alle macchine;   
+3) Fisica tecnica;   
+4) Elettrotecnica;   
+5) Idraulica;   
+6) Chimica applicata;   
+7) Macchine;   
+8) Costruzioni di macchine;   
+9) Impianti meccanici;   
+10) Tecnologia meccanica.   
+b) Insegnamenti obbligatori comuni agli indirizzi su piano   
+locale:   
+1) Complementi di macchine;   
+2) Costruzioni di macchine II;   
+3) Progetti di macchine;   
+4) Macchine utensili;   
+5) Controlli e servomeccanismi;   
+6) Economia e organizzazione aziendale.   
+c) Insegnamenti caratterizzanti i singoli indirizzi:   
+Gruppo A - Meccanica di precisione   
+1) Meccanica cinematica;   
+2) Ottica;   
+3) Misure di precisione;   
+4) Trattamenti termici.   
+Gruppo B - Meccanica tessile   
+1) Tecnologie tessili;   
+2) Macchine tessili;   
+3) Impiantistica dell'industria tessile;   
+4) Progetti di macchine II.   
+Art. 107. - Gli insegnamenti del triennio di applicazione (3°, 4° e   
+5° anno) in ingegneria elettronica sono i seguenti:   
+a) Insegnamenti comuni su piano nazionale:   
+1) Scienze delle costruzioni;   
+2) Meccanica delle macchine e macchine;   
+3) Fisica tecnica;   
+4) Elettrotecnica;   
+5) Campi elettromagnetici e circuiti;   
+6) Misure elettriche;   
+7) Comunicazioni elettriche;   
+8) Elettronica applicata;   
+9) Controlli automatici;   
+10) Radiotecnica.   
+b) Insegnamenti obbligatori - comuni agli indirizzi - su piano   
+locale:   
+1) Elettronica generale;   
+2) Teoria dell'informazione;   
+3) Tecnologie elettroniche;   
+4) Teoria delle reti elettriche;   
+5) Misure elettroniche;   
+6) Teorie dei sistemi.   
+c) Insegnamenti caratterizzanti i singoli indirizzi:   
+Gruppo A - Telecomunicazioni e comunicazioni   
+1) Teoria dei sistemi di comunicazione;   
+2) Comunicazioni spaziali;   
+3) Ponti radio;   
+4) Elettronica spaziale.   
+Gruppo B - Elaborazione dell'informazione   
+1) Teoria del rumore e dei fenomeni causali;   
+2) Teoria dei codici;   
+3) Logica dei circuiti;   
+4) Sistemi per elaborazione dell'informazione.   
+Gruppo C - Radiolocalizzazione   
+1) Teoria e tecnica;   
+2) Teoria e tecnica delle microonde;   
+3) Metodi elettronici della geodesia;   
+4) Radioaiuti alla navigazione.   
+Art. 108. - Gli insegnamenti del triennio di applicazione (3°, 4° e   
+5° anno) in ingegneria civile sono i seguenti:   
+a) Insegnamenti comuni su piano nazionale:   
+1) Scienza delle costruzioni;   
+2) Meccanica applicata alle macchine e macchine;   
+3) Fisica tecnica;   
+4) Elettrotecnica;   
+5) Idraulica;   
+6) Tecnologie dei materiali e chimica applicata;   
+7) Tecnica delle costruzioni;   
+8) Architettura tecnica;   
+9) Topografia;   
+per edili:   
+10) Architettura e composizione architettonica;   
+per idraulici:   
+10) Costruzioni idrauliche;   
+per trasporti:   
+10) Costruzioni di strade, ferrovie ed aeroporti.   
+b) Insegnamenti obbligatori su piano locale, comuni a tutte le   
+sezioni:   
+1) Complementi di scienza delle costruzioni;   
+2) Materie giuridiche;   
+3) Geologia applicata;   
+4) Architettura ed urbanistica tecniche;   
+5) Principi di economia ed estimo;   
+per edili:   
+6) Architettura e composizione urbanistica;   
+per idraulici:   
+6) Impianti idraulici;   
+per trasporti:   
+6) Progetti di costruzioni stradali e ferroviarie.   
+c) Insegnamenti caratterizzanti le singole sezioni:   
+per edili:   
+1) Tecnica urbanistica;   
+2) Costruzioni edili;   
+3) Progetti di strutture;   
+4) Complementi di tecnica delle costruzioni;   
+per idraulici:   
+1) Impianti speciali per idraulici;   
+2) Geotecnica;   
+3) Complementi di idraulica;   
+4) Acquedotti e fognature;   
+per trasporti:   
+1) Costruzioni di ponti;   
+2) Tecnica ed economia dei trasporti;   
+3) Macchine ed organizzazione dei cantieri;   
+4) Legislazione del lavoro ed opere pubbliche.   
+Art. 109. - Per essere ammesso all'esame di laurea lo studente deve   
+aver seguito i corsi e superati gli esami di tutti gli insegnamenti prescritti per il corso di laurea prescelto. Lo studente deve svolgere per la laurea un elaborato consistente nello sviluppo di un progetto specifico, attinente alle materie in cui egli intende laurearsi, sotto il controllo di insegnanti di tali materie e con le modalita' stabilite dal consiglio di facolta'.   
+Tale elaborato potra' essere sostituito da una tesi di carattere   
+teorico sperimentale o monografico da svolgersi sotto la guida di uno o piu' relatori.   
+Art. 110. - L'esame di laurea consiste nella discussione   
+dell'elaborato o della tesi, estesa in modo da accertare le cognizioni del candidato nelle materie fondamentali ed in modo particolare in quelle attinenti alla laurea da lui scelta.   
+  
+Visto, d'ordine del Presidente della Repubblica   
+  
+Il Ministro per la pubblica istruzione   
+MISASI   

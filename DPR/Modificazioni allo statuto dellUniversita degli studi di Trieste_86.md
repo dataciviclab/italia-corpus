@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1982 n. 897
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1110
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1982 n. 897
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1110
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Trieste approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -24,7 +24,7 @@ Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http:
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati del Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
@@ -35,29 +35,45 @@ Decreta:
 
 Lo statuto dell'Universita' di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 1
+------
 
   
-Nell'art. 82, concernente il corso di laurea in scienze geologiche, dopo il quinto comma sono inseriti i nuovi seguenti commi:  
+Nell'art. 90, relativo al corso di laurea in farmacia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+farmacia veterinaria;  
+tossicologia e controllo degli inquinamenti;  
+analisi biologiche;  
+farmacognosia;  
+farmacologia applicata;  
+tossicologia.  
+
+Art. 2
+------
+
   
-Lo studente per sostenere l'esame di mineralogia con esercitazioni, dovra' aver superato gli esami di chimica generale ed inorganica con elementi di organica con esercitazioni; di fisica sperimentale I con esercitazioni; di istituzioni di matematica con esercitazioni.  
-Per sostenere l'esame di petrografia con esercitazioni dovra' aver superato l'esame di mineralogia con esercitazioni.  
-Per sostenere l'esame di geologia con esercitazioni dovra' aver superato l'esame di petrografia con esercitazioni.  
-Per sostenere l'esame di fisica sperimentale II con esercitazioni dovra' aver superato l'esame di istituzioni di matematica con esercitazioni e fisica sperimentale I con esercitazioni.  
-L'esame di fisica terrestre deve essere preceduto dagli esami di mineralogia e fisica.  
-Per sostenere gli esami di discipline ad indirizzo professionale o specialistico dovra' aver superato gli esami propedeutici relativi.  
+L'art. 91 e' soppresso e sostituito dal seguente:  
+Art. 91. - Il corso biennale di chimica farmaceutica e tossicologica ed il corso triennale di esercitazioni di chimica farmaceutica e tossicologica comportano esami distinti alla fine di ciascun anno.  
+Gli studenti non possono sostenere l'esame di:  
+a) esercitazioni di chimica farmaceutica e tossicologica (primo anno) se non hanno superato l'esame di chimica generale ed inorganica;  
+b) esercitazioni di chimica farmaceutica e tossicologica (secondo anno) se non hanno superato l'esame di chimica organica;  
+c) chimica organica se non hanno superato l'esame di chimica generale ed inorganica;  
+d) chimica biologica se non hanno superato l'esame di chimica organica e di fisica;  
+e) chimica farmaceutica e tossicologica (primo e secondo anno) se non hanno superato l'esame di chimica organica;  
+f) fisiologia generale se non hanno superato l'esame di anatomia umana e di chimica biologica;  
+g) farmacologia se non hanno superato l'esame di fisiologia generale;  
+h) tecnica e legislazione farmaceutica se non hanno superato l'esame di farmacologia.  
+Taluni corsi possono essere mutuati da altre facolta'.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 settembre 1982
+### Dato a Roma, addi' 31 ottobre 1981
 
 PERTINI BODRATO
 
 Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 26 novembre 1982
+Registrato alla Corte dei conti, addi' 10 marzo 1982
 
-Registro n. 128 Istruzione, foglio n. 330
+Registro n. 38 Istruzione, foglio n. 272

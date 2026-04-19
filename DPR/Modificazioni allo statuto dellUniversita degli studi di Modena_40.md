@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1030
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1970 n. 806
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1030
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1970 n. 806
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, numero 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
@@ -25,33 +25,40 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 62. - All'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti i seguenti:  
   
-Chimica dei prodotti cosmetici;  
-Chimica dei prodotti dietetici;  
-Metodi fisici in chimica organica;  
-Chemioterapia;  
-Farmacologia molecolare.  
+L'art. 39, relativo all'istituto giuridico della facolta' di giurisprudenza e' soppresso con il conseguente spostamento della numerazione degli articoli successivi.  
+Art. 70. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti:  
   
-Nello stesso articolo l'insegnamento di "Chimica bromatologica" muta denominazione in quello di "Chimica degli alimenti".  
-Art. 68. - All'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologia farmaceutiche vengono aggiunti i seguenti:  
-  
-Chemioterapia;  
-Chimica dei composti eterociclici;  
-Farmacologia molecolare.  
-  
-Nello stesso articolo dagli insegnamenti di chimica organica I e chimica organica II viene tolto l'asterisco.  
+Economia monetaria;  
+Storia delle dottrine economiche;  
+Storia delle dottrine politiche;  
+Storia dell'economia italiana dell'unita' nazionale;  
+Organizzazione aziendale;  
+Econometria;  
+Economia internazionale;  
+Ricerca operativa;  
+Tecnica di borsa;  
+Finanza aziendale;  
+Ragioneria delle imprese pubbliche (con elementi di contabilita' dello Stato);  
+Sociologia del lavoro e dell'industria;  
+Storia sociale contemporanea;  
+Calcolo delle probabilita';  
+Lingua russa;  
+Diritto fallimentare;  
+Diritto tributario;  
+Diritto penale commerciale;  
+Pianificazione economica territoriale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 27 settembre 1970
 
-LEONE SCALFARO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 23 febbraio 1973
+Registrato alla Corte dei conti, addi' 13 novembre 1970
 
-Atti di Governo, registro n. 256, foglio n. 19. - VALENTINI
+Atti del Governo, registro n. 238, foglio n. 54. - GRECO

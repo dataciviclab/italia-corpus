@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1981 n. 292
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1984 n. 445
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1981 n. 292
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1984 n. 445
+=============================================================
 
 Autorizzazione all'istituto "Maestre pie Venerini", in Roma, ad accettare una donazione.
 ----------------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-292. Decreto del Presidente della Repubblica 25 febbraio 1981, col quale, sulla proposta del Ministro della pubblica istruzione, l'istituto "Maestre pie Venerini", in Roma, viene autorizzato ad accettare la donazione, consistente in una porzione di fabbricato sito in Rieti, vicolo Stoli, 5, composto da venti vani catastali, il tutto meglio identificato nella perizia estimativa del geom.  
-Carmine Di Lorenzo in data 10 febbraio 1978, del valore di L. 34.000.000 disposta dall'educatrice Alfea Zandri con atto 14 dicembre 1977, n. 40919 di repertorio, n. 174 di raccolta, a rogito dott. Giovanni Filippi, notaio in Rieti, e registrato a Rieti in data 29 dicembre 1977, n. 4302.  
+445. Decreto del Presidente della Repubblica 11 maggio 1984, col quale, sulla proposta del Ministro della pubblica istruzione, l'istituto "Maestre pie Venerini", in Roma, viene autorizzato ad accettare la donazione, consistente in una porzione di fabbricato sito in Amelia (Terni), via della Piaggiola, 2, di catastali piani 2 e vani 6, del valore di L. 30.000.000 valutato dall'ufficio tecnico erariale di Terni, disposta da suor Pia Epifani con atto 12 giugno 1981, n. 14714/5103 di repertorio, a rogito dott. Giovanni Spagnoli, notaio in Amelia.  
   
-Visto, il Guardasigilli: SARTI  
-Registrato alla Corte dei conti, addi' 3 giugno 1981  
-Registro n. 53 Istruzione, foglio n. 215
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 24 luglio 1984  
+Registro n. 46 Istruzione, loglio n. 346

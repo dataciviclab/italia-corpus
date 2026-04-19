@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1976 n. 150
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 novembre 1983 n. 802
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1976 n. 150
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 novembre 1983 n. 802
+===============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad acquistare un immobile.
 ----------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-150. Decreto del Presidente della Repubblica 13 marzo 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare dalla ditta Natrella Domenica di Bari, al convenuto prezzo di lire 18.535.000, un appartamento di mq 151 sito in Lecce al secondo piano del fabbricato di via Imperatore Adriano, scala C, sorto su terreno distinto dal nuovo catasto terreni con foglio n. 259, particella 4284, nonche' un locale sottostante della superficie di mq 100, da destinare a sede della locale sezione provinciale.  
+802. Decreto del Presidente della Repubblica 21 novembre 1983, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare, al convenuto prezzo di L. 50.000.000, un immobile sito in Brindisi, via Santa Margherita n. 21, censito al nuovo catasto edilizio urbano alla partita 510, foglio 190, mappale 1890/2, di proprieta' dei signori Maria Elisabetta Errico quale usufruttuaria per un terzo e Giovanni, Carlo, Cecilia e Anna Maria Caputo quali proprietari.   
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 20 aprile 1976  
-Atti di Governo, registro n. 5, foglio n. 20
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 11 gennaio 1984   
+Registro n. 1 Presidenza, foglio n. 85

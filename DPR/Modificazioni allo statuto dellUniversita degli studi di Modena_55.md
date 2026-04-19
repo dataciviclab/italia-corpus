@@ -1,100 +1,64 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1981 n. 745
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 ottobre 1972 n. 769
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1981 n. 745
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 ottobre 1972 n. 769
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Modena e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Lo statuto dell'Universita' di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la' particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Dopo l'art. 253, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in medicina interna.  
+Decreta:  
   
-Scuola di specializzazione in medicina interna  
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 254. - E' istituita presso la facolta' di medicina e chirurgia dell'Universita' di Modena la scuola di specializzazione in medicina interna che ha sede presso la cattedra di clinica medica generale e terapia medica I e conferisce il diploma di specialista in medicina interna. La direzione della scuola e' affidata al professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione e' affidata al professore associato che pure insegni nella scuola medesima. Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Art. 255. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione. Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di cinquanta iscritti per l'intero corso di studi.  
-Art. 256. - L'ammissione alla scuola avviene per titoli ed esami.  
-Art. 257. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-malattie infettive disreattive e del sangue;  
-istituzione di terapia;  
-anatomia ed istologia patologica I (biennale);  
-clinica medica generale e terapia medica I (quinquennale).  
-2° Anno:  
-malattie dell'apparato cardiovascolare;  
-microbiologia e sierologia;  
-chimica clinica;  
-anatomia e istologia patologica II (biennale);  
-clinica medica generale e terapia medica II (quinquennale).  
-3° Anno:  
-malattie dell'apparato digerente;  
-malattie renali;  
-clinica medica generale e terapia medica III (quinquennale).  
-4° Anno:  
-malattie dell'apparato respiratorio;  
-malattie del sistema nervoso;  
-clinica medica generale e terapia medica IV (quinquennale).  
-5° Anno:  
-malattie del ricambio;  
-malattie delle ghiandole endocrine;  
-clinica medica generale e terapia medica V (quinquennale).  
-Gli insegnamenti fondamentali sono integrati, a giudizio del consiglio della scuola, da almeno tra insegnamenti scelti fra i seguenti, che possono essere stabiliti di anno in anno:  
-Insegnamenti complementari:  
-parassitologia medica;  
-genetica medica;  
-semeiotica dermatologica;  
-radiologia;  
-semeiotica oculistica;  
-semeiotica ginecologica.  
-Art. 258. - La frequenza alle lezioni e' obbligatoria.  
-Gli allievi che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le prove di esame alla fine di ogni anno di corso. Gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno; per le materie pluriennali, invece, sara' dato l'esame alla fine dei corsi medesimi.  
-Art. 259. - Al termine del corso di studi per il conseguimento del diploma di specialista in medicina interna, gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
-Art. 260. - Le norme generali per l'iscrizione, gli esami, le tasse ecc., sono quelle che regolano le scuole di specializzazione dell'Universita' di Modena.  
+Dopo l'articolo 219 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti, i seguenti nuovi articoli relativi all'istituzione del corso di perfezionamento in chimica ad indirizzo didattico presso la facolta' di scienze matematiche, fisiche e naturali.  
+  
+Corso di perfezionamento in chimica ad indirizzo didattico  
+  
+Art. 220. - Presso la facolta' di scienze matematiche, fisiche e naturali, viene istituito un corso di perfezionamento in chimica ad indirizzo didattico il quale conferisce un attestato di perfezionamento in chimica ad indirizzo didattico.  
+Il corso ha sede presso l'istituto di chimica fisica dell'Universita' di Modena.  
+Art. 221. - Il corso ha lo scopo di condurre gli allievi iscritti ad una approfondita conoscenza dei problemi della didattica chimica e di fornire a questi una esperienza nel campo dell'insegnamento della chimica nelle scuole secondarie.  
+Il corso ha ancora per scopo l'organizzazione di corsi di aggiornamento per insegnanti di materie chimiche nelle scuole secondarie e lo sviluppo di studi sui problemi didattici della chimica sia teorici che applicativi.  
+Art. 222. - Per l'iscrizione al corso di perfezionamento in chimica ad indirizzo didattico e' titolo di ammissione qualunque laurea che, secondo le leggi vigenti, consente l'insegnamento di materia chimica o di cui la chimica, anche nelle sue varie specializzazioni, sia parte, in qualunque tipo di scuola secondaria.  
+Art. 223. - Gli insegnamenti si svolgeranno presso gli istituti chimici dell'Universita' di Modena ed hanno la durata di un anno accademico.  
+Il direttore del corso e' nominato di anno in anno dal consiglio di facolta' e puo' essere confermato.  
+Art. 224. - La tassa di iscrizione, le sopratasse e i contributi sono fissati in una somma corrispondente alle tasse, sopratasse e contributi a qualsiasi titolo corrisposti da uno studente iscritto al 1° anno di corso di laurea in chimica, salvo i contributi di laboratorio, di seminario e di esercitazioni che vengono fissati di anno in anno dal consiglio di amministrazione sentito il parere della facolta'.  
+L'integrale somma delle tasse, sopratasse e contributi di laboratorio, di esercitazioni e di seminario di cui sopra corrisposta dagli iscritti al corso costituisce il fondo di cui e' dotato il corso stesso per il suo funzionamento. Per questo fondo vengono pure integralmente devoluti i contributi eventuali elargiti da enti e privati a favore del corso.  
+Art. 225. - Gli insegnamenti impartiti dal corso sono:  
+Elementi di didattica generale;  
+Didattica della chimica;  
+Esercitazioni di didattica della chimica;  
+Complementi di chimica;  
+Storia della chimica;  
+Strumentazione didattica.  
+Essi consistono in lezioni teoriche, lezioni di seminario e di esercitazioni anche di laboratori da tenere, queste ultime, anche presso le scuole secondarie, previo accordi con il provveditore agli studi. Il corso puo' mutuare insegnamenti dalla facolta' di scienze matematiche, fisiche e naturali, e, eventualmente, anche di altre facolta' sul parere del consiglio di facolta'.  
+Art. 226. - Il profitto degli allievi e' accertato dagli insegnanti durante il corso e mediante una prova finale di esame al termine del corso.  
+Art. 227. - L'attestato di cui all'art. 220 verra' rilasciato a cura dell'Universita' di Modena.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 maggio 1981
+### Dato a Roma, addi' 12 ottobre 1972
 
-PERTINI BODRATO
+LEONE SCALFARO
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 11 dicembre 1981
+Registrato alla Corte dei conti, addi' 5 dicembre 1972
 
-Registro n. 123 Istruzione, foglio n. 380
+Atti del Governo, registro n. 253, foglio n. 105. - CARUSO

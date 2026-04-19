@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1971 n. 293
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1966 n. 99
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1971 n. 293
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1966 n. 99
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
@@ -10,80 +10,88 @@ Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Veduta la [legge 26 luglio 1957, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-07-26;741);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-Dopo l'art. 54, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi all'istituzione del corso di laurea in chimica e tecnologia farmaceutiche.   
-  
-Corso di laurea in chimica e tecnologia farmaceutiche   
-  
-Art. 55. - Durata del corso di studi: cinque anni, divisi in un biennio ed un triennio. Il titolo di ammissione e' quello previsto dalle vigenti disposizioni di legge.   
-Art. 56. - Gli insegnamenti sono i seguenti:   
-Fondamentali del biennio:   
-1) Analisi chimico farmaceutica la (analisi qualitativa);   
-\* 2) Anatomia umana;   
-\* 3) Botanica farmaceutica;   
-\* 4) Chimica fisica;   
-\* 5) Chimica generale ed inorganica;   
-\*\* 6) Chimica organica 1ª;   
-7) Fisica;   
-8) Fisiologia generale;   
-\* 9) Istituzioni di matematiche;   
-10) Microbiologia e igiene.   
-Fondamentali del triennio:   
-11) Analisi chimico farmaceutica 2ª (analisi quantitativa);   
-12) Analisi chimico farmaceutica 3ª (analisi dei medicamenti); \* 13) Biochimica applicata;   
-\* 14) Chimica biologica;   
-15) Chimica degli alimenti;   
-\* 16) Chimica farmaceutica applicata;   
-\* 17) Chimica farmaceutica e tossicologica 1ª;   
-\* 18) Chimica farmaceutica e tossicologica 2ª;   
-\*\*19) Chimica organica 2ª;   
-\* 20) Farmacologia e farmacognosia;   
-21) Impianti dell'industria farmaceutica;   
-22) Laboratorio di preparazione estrattiva e sintetica dei farmaci;   
-23) Metodi fisici in chimica organica;   
-24) Saggi e dosaggi farmacologici;   
-\* 25) Tecnica e legislazione farmaceutica.   
-Insegnamenti complementari:   
-\* 1) Microbiologia industriale farmaceutica;   
-2) Chimica delle sostanze naturali;   
-3) Scienza dell'alimentazione;   
-4) Chimica dei prodotti dietetici;   
-5) Chimica dei prodotti cosmetici;   
-6) Biologia molecolare;   
-7) Farmacologia molecolare;   
-8) Complementi di chimica tossicologica;   
-9) Impianti per laboratori galenici;   
-10) Prodotti dietetici;   
-11) Prodotti cosmetici.   
-Le materie segnate con un asterisco sono comuni alla laurea in farmacia; quelle segnate con due asterischi sono comuni alla laurea in chimica.   
-Art. 57. - Per ottenere l'iscrizione al terzo anno di corso lo studente deve aver seguito e superato gli esami in tutti gli insegnamenti fissati per i due anni precedenti.   
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami dei corsi fondamentali e almeno due esami a scelta tra i corsi complementari. La prova di laurea comporta la discussione di una tesi sperimentale.   
+Lo statuto dell'Universita' degli studi di Perugia approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+L'art. 27 e' abrogato e sostituito dal seguente:  
+"La Facolta' di lettere e filosofia conferisce la laurea in Lettere, la laurea in Filosofia e la laurea in Lingue e letterature straniere moderne (indirizzo europeo).  
+Dopo l'art. 30 e' aggiunto il seguente nuovo articolo, relativo alla istituzione del corso di laurea in Lingue e letterature straniere moderne (indirizzo europeo) presso la Facolta' di lettere e filosofia, con il conseguente spostamento della numerazione degli articoli successivi.  
+Corso di laurea in Lingue o letterature straniere moderne (indirizzo europeo)  
+Art. 31. - La durata del corso degli studi per la laurea in Lingue e letterature straniere moderne (indirizzo europeo) e' di quattro anni.  
+E' titolo di ammissione il diploma di maturita' classica.  
+a) Insegnamenti fondamentali:  
+1) Letteratura italiana;  
+2) Letteratura latina;  
+3) Glottologia;  
+4) Una lingua e letteratura straniera moderna;  
+5) Una seconda lingua e letteratura straniera moderna;  
+6) Filologia romanza (o germanica o ugro-finnica);  
+7) Storia medioevale;  
+8) Storia moderna;  
+9) Storia dell'arte moderna (o storia dell'arte medioevale e moderna);  
+10) Geografia;  
+b) Insegnamenti complementari (quando non siano scelti come fondamentali ai su indicati numeri 4), 5) e 6):  
+1) Lingua e letteratura francese;  
+2) Lingua e letteratura spagnola;  
+3) Lingua e letteratura portoghese;  
+4) Lingua e letteratura romena;  
+5) Lingua e letteratura inglese;  
+6) Lingua e letteratura tedesca;  
+7) Lingua e letteratura russa;  
+8) Filologia romanza;  
+9) Filologia germanica;  
+10) Letteratura anglo-americana;  
+11) Letteratura ispano-americana;  
+12) Storia della lingua italiana;  
+13) Storia della letteratura italiana moderna e contemporanea;  
+14) Storia delle tradizioni popolari;  
+15) Storia della musica;  
+16) Storia del teatro e dello spettacolo;  
+17) Letteratura greca;  
+18) Lingua e letteratura latina medioevale;  
+19) Storia romana;  
+20) Storia greca;  
+21) Storia della filosofia;  
+22) Storia della filosofia moderna e contemporanea.  
+Lo studente dovra' seguire i corsi e sostenere gli esami in tutti gli insegnamenti fondamentali e in tre altri insegnamenti da lui scelti fra i complementari. Uno degli insegnamenti complementari potra' essere sostituito dallo studente con una disciplina di altri corsi di studio della stessa o diversa Facolta'.  
+L'insegnamento della lingua e letteratura straniera moderna, alla quale lo studente intende principalmente dedicarsi, dovra' essere seguito per tutti i quattro anni, alla fine di ciascuno dei quali egli sara' sottoposto a prove scritte, di anno in anno gradualmente progressive.  
+Dovranno poi essere seguiti per due anni l'insegnamento della filologia a cui quella stessa prima lingua si ricollega e l'insegnamento della seconda lingua e letteratura straniera moderna prescelta. Due altri insegnamenti fondamentali dovranno pure essere seguiti per un biennio, lo studente potra' poi seguire per un biennio anche un altro insegnamento, ed in tal caso potra' ridurre da tre a due gli insegnamenti complementari a sua scelta.  
+Gli esami di letteratura italiana e di letteratura latina comprendono una prova scritta preliminare.  
+Il preside, sentita, ove ritenga, la Facolta', deve controllare i piani di studio presentati dagli studenti e approvarli prima che siano resi definitivi.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali dell'indirizzo prescelto e in tutti gli altri insegnamenti compresi nel piano degli studi approvato dal preside.  
+Art. 33 (gia' 32). - Agli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti quelli di:  
+11) Storia della scuola e delle istituzioni educative;  
+12) Storia della musica;  
+13) Storia del teatro.  
+Art. 34 (gia' 33). - Agli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di:  
+8) Storia della scuola e delle istituzioni educative;  
+9) Didattica;  
+10) Storia del teatro;  
+Il) Storia della letteratura per l'infanzia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 febbraio 1971
+### Dato a Roma, addi' 8 febbraio 1966
 
-SARAGAT MISASI
+SARAGAT GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 21 maggio 1971
+Registrato alla Corte dei conti, addi' 12 marzo 1966
 
-Atti del Governo, registro n. 242, foglio n. 30. - VALENTINI
+Atti del Governo, registro n. 202, foglio n. 27. - VILLA

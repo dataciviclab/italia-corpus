@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1976 n. 38
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 aprile 1985 n. 345
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1976 n. 38
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 aprile 1985 n. 345
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-38. Decreto del Presidente della Repubblica 23 gennaio 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla signora Benussi-Bossi Cecchina, con testamenti olografi 20 giugno 1965 e 30 novembre 1970, pubblicati a rogito del dott. Alberto Gallizia, notaio in Milano, in data 19 giugno 1973, n. 10196/1806 di repertorio e registrati a Milano il 5 luglio 1973 con il n. 12577, serie D, consistente nella somma di L. 1.500.000.  
+345. Decreto del Presidente della Repubblica 17 aprile 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella quota di 1/3 di beni mobili del valore complessivo di L. 8.809.740: quota di 1/3 = L. 2.936.580, disposto dalla sig.ra Bissacco Emilia ved. Maso a favore dei "Mutilatini di don Gnocchi", che si identificano con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione in data 16 ottobre 1984, con testamento pubblico 24 febbraio 1981 redatto a rogito dott. Luigi Tassitani, notaio in Castelfranco Veneto e dallo stesso pubblicato il 3 marzo 1983 con il n. 36383 di repertorio e n. 2698 di raccolta, registrato a Castelfranco Veneto in data 10 marzo 1983 al n. 271.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 3 marzo 1976  
-Atti di Governo, registro n. 3, foglio n. 56
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 4 luglio 1985  
+Registro n. 7 Presidenza, foglio n. 98

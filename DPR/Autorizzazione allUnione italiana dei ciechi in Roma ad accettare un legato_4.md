@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 gennaio 1985 n. 177
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1977 n. 330
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 gennaio 1985 n. 177
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1977 n. 330
+=============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un legato.
 -------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-177. Decreto del Presidente della Repubblica 24 gennaio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il lascito di L. 5.000.000 disposto dalla sig.ra Mrakitsch Maria con testamento pubblico 16 febbraio 1982, pubblicato in data 25 febbraio 1983, n. 56473/610 di repertorio, a rogito dott. Ianni Tracanella Edda, notaio in Trieste, registrato a Trieste in data 19 settembre 1983 al n. 875.  
+330. Decreto del Presidente della Repubblica 25 maggio 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Maria Clara Emma detta Maria Folli, in favore dell'Unione italiana dei ciechi per la Scuola nazionale cani guida, con testamento olografo 12 dicembre 1971, integrato il 4 maggio 1974, pubblicato a rogito del notaio dott. Paolo Consolandi in data 25 settembre 1974, n. 33130/9813 di repertorio, registrato a Milano il 7 ottobre 1974 al n. A/115221, consistente nella somma di L. 5.000.000.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 2 maggio 1985  
-Registro n. 4 Presidenza, foglio n. 83
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 15 giugno 1977  
+Registro n. 5 Presidenza, foglio n. 211

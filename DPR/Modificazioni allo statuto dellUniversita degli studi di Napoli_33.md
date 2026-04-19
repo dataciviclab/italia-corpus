@@ -1,23 +1,141 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1970 n. 972
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 agosto 1959 n. 799
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1970 n. 972
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 agosto 1959 n. 799
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 20 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-20;1904) e successivi;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1935, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 20 luglio 1957, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-07-20;741);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 75. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo) sono aggiunti quelli di "lingua e letteratura portoghese", "letteratura angloamericana", "storia della lingua italiana".
+
+Art. 105, e' abrogato e sostituito dal seguente:
+
+"Gli insegnamenti complementari di "clinica delle malattie tropicali e subtropicali" e di "malattie infettive" possono essere riuniti in un'unica cattedra con la denominazione di "clinica delle malattie infettive e delle malattie tropicali".
+
+Art. 145. - Agli insegnamenti complementari della Facolta' di ingegneria e' aggiunto quello di "tecnica del traffico e della circolazione".
+
+SEZIONE XIV. - Scuole e corsi di perfezionamento e di specializzazione
+
+Dopo l'art. 186 vengono inseriti i seguenti nuovi articoli, relativi alla istituzione della Scuola di perfezionamento in diritto romano, con il conseguente spostamento della numerazione degli articoli successivi.
+
+FACOLTA DI GIURISPRUDENZA
+
+Scuola di perfezionamento in diritto romano
+
+Art. 186. - E' istituita, presso la Facolta' di giurisprudenza, la Scuola di perfezionamento in diritto romano, con l'intento di promuovere ricerche scientifiche sul diritto del mondo romano, di organizzare conferenze, discussioni, esercitazioni, pubblicazioni, viaggi, di raccogliere la bibliografia relativa, di coordinare gli insegnamenti impartiti nella Facolta' di giurisprudenza delle discipline speciali, riflettenti gli studi romanistici. Essa e' una Scuola di addestramento e di perfezionamento per chi intenda specializzarvisi.
+
+Art. 187. - La Scuola rilascia il diploma di perfezionamento in diritto romano ed ha la durata di due anni.
+
+Art. 188. - Sono ammessi alla Scuola i laureati in giurisprudenza.
+
+Art. 159. - Gli insegnamenti della Scuola sono i seguenti:
+
+Fondamentali:
+
+diritto romano privato (biennale);
+
+diritto romano pubblico (biennale);
+
+esercitazioni esegetiche (biennale).
+
+Complementari storia romana;
+
+storia greca e bizantina;
+
+epigrafia giuridica;
+
+papirologia giuridica;
+
+paleografia e diplomatica; antica e medioevale;
+
+storia dei diritti europei medioevali.
+
+Gli insegnamenti sono cosi' ripartiti:
+
+1° anno:
+
+diritto romano privato;
+
+diritto romano pubblico;
+
+esercitazioni esegetiche;
+
+tre insegnamenti complementari.
+
+2° anno:
+
+diritto romano privato;
+
+diritto romano pubblico;
+
+esercitazioni esegetiche.
+
+Gli insegnamenti fondamentali importano un unico esame alla fine del biennio.
+
+Art. 190. - La Commissione degli esami speciali e' composta dal professore ufficiale della materia, che la presiede, e da due professori della Scuola.
+
+Art. 191. - E' ammesso all'esame di diploma chi abbia superato gli esami negli insegnamenti fondamentali ed in tre complementari.
+
+Art. 192. - L'esame di diploma si sostiene innanzi al Consiglio direttivo riunito in Commissione. Il candidato deve presentare una dissertazione scritta con previa approvazione, anche sotto il profilo della originalita', di un professore insegnante nella Scuola. Deve discuterla oralmente davanti alla Commissione nell'ambito di un colloquio che dimostri la sua adeguata preparazione nella specializzazione.
+
+Art. 193. - La Scuola e' retta da un Consiglio direttivo composto dai professori ordinari della Facolta' di giurisprudenza delle discipline romanistiche, i quali eleggono il direttore che lo presiede per un triennio ed e' rieleggibile.
+
+Art. 194. - Gli incarichi d'insegnamento sono conferiti su proposta del Consiglio della scuola, approvata dal Senato accademico e dal Consiglio di amministrazione dell'Universita' di Napoli.
+
+Art. 195. - Gli iscritti alla Scuola di perfezionamento sono tenuti a pagare le tasse, le soprattasse, la tassa di diploma, nonche' tutti gli altri contributi stabiliti per gli studenti iscritti alla Facolta' di giurisprudenza dell'Universita' di Napoli.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Napoli, addi' 20 agosto 1959
+
+GRONCHI
+
+MEDICi
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 5 ottobre 1959 Atti del Governo, registro n. 121, foglio n. 2. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 20 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-20;1904) e successivi;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduto il [regio decreto 30 settembre 1935, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-09-30;1652), e successive modificazioni;  
+Veduta la [legge 20 luglio 1957, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-07-20;741);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -25,102 +143,73 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli dal 217 al 229, relativi all'ordinamento degli studi della facolta' di architettura, sono abrogati e sostituiti dai seguenti:  
   
-Sezione XI  
-Facolta' di architettura  
+Art. 75. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo) sono aggiunti quelli di "lingua e letteratura portoghese", "letteratura angloamericana", "storia della lingua italiana".  
   
-Art. 217. - La facolta' di architettura conferisce la laurea in architettura.  
-Art. 218. - La durata del corso degli studi per la laurea in architettura e' di cinque anni; il titolo di ammissione e' quello stabilito dalle vigenti disposizioni di legge.  
-Art. 219. - Gli insegnamenti fondamentali sono:  
-1) Analisi matematica e geometria analitica (annuale + 1 semestrale);  
-2) Arredamento (annuale);  
-3) Composizione architettonica (quinquennale);  
-4) Disegno e rilievo (due semestri);  
-5) Estimo ed esercizio professionale (semestrale);  
-6) Fisica (semestrale);  
-7) Fisica tecnica e impianti (annuale);  
-8) Geometria descrittiva (annuale);  
-9) Igiene edilizia (semestrale);  
-10) Restauro dei monumenti (annuale);  
-11) Statica (annuale);  
-12) Scienza delle costruzioni (annuale);  
-13) Storia dell'architettura (biennale);  
-14) Tecnica delle costruzioni (annuale);  
-15) Tecnologia dell'architettura (biennale);  
-16) Urbanistica (biennale).  
-Gli insegnamenti complementari (tutti annuali) sono:  
-1) Allestimento e museografia;  
-2) Analisi dei sistemi urbani;  
-3) Arte dei giardini;  
-4) Caratteri stilistici e costruttivi dei monumenti;  
-5) Complementi di matematica;  
-6) Consolidamento e adattamento degli edifici;  
-7) Decorazione;  
-8) Illuminazione ed acustica nella edilizia;  
-9) Indirizzi dell'architettura moderna;  
-10) Letteratura artistica;  
-11) Lingua straniera;  
-12) Materiali da costruzione speciali;  
-13) Materie giuridiche;  
-14) Pianificazione territoriale urbanistica;  
-15) Plastica ornamentale;  
-16) Ponti e grandi strutture;  
-17) Progettazione artistica per l'industria;  
-18) Scenografia;  
-19) Storia dell'urbanistica;  
-20) Tipologia strutturale;  
-21) Topografia;  
-22) Unificazione edilizia e prefabbricazione.  
-Art. 220. - Gli insegnamenti sono svolti sotto forma di lezioni teoriche e di esercitazioni pratiche e possono essere integrati da visite a monumenti, edifici e cantieri, che presentino particolare interesse ai fini dell'insegnamento. Gli insegnamenti comportano l'esame alla fine di ogni anno o semestre di corso.  
-Art. 221. - Sono stabilite le seguenti precedenze di esame:  
-Non si puo essere ammessi Se non e stato superato  
-a sostenere l'esame di: l'esame di:  
+Art. 105, e' abrogato e sostituito dal seguente:  
+"Gli insegnamenti complementari di "clinica delle malattie tropicali e subtropicali" e di "malattie infettive" possono essere riuniti in un'unica cattedra con la denominazione di "clinica delle malattie infettive e delle malattie tropicali".  
   
-Statica e fisica tecnica Analisi matematica e  
-e impianti geometria analitica  
+Art. 145. - Agli insegnamenti complementari della Facolta' di ingegneria e' aggiunto quello di "tecnica del traffico e della circolazione".  
   
-Scienze delle costruzioni Statica  
+SEZIONE XIV. - Scuole e corsi di perfezionamento e di specializzazione  
   
-Composizione architettonica Nella serie degli esami  
-stabiliti dalla facolta per  
-questa materia non puo'  
-essere sostenuto un esame  
-senza che sia stato  
-superato il precedente  
-Composizione architettonica Scienza delle costruzioni  
+Dopo l'art. 186 vengono inseriti i seguenti nuovi articoli, relativi alla istituzione della Scuola di perfezionamento in diritto romano, con il conseguente spostamento della numerazione degli articoli successivi.  
   
-Restauro Storia dell'architettura II  
+FACOLTA DI GIURISPRUDENZA  
   
+Scuola di perfezionamento in diritto romano  
   
-Art. 222. - Per essere ammesso all'esame di laurea, lo studente deve aver seguito le lezioni e le esercitazioni e deve aver superato i relativi esami di tutti gli insegnamenti fondamentali e dei sei complementari della durata di un anno o equivalente da lui scelti fra quelli indicati all'art. 219.  
-Art. 223. - L'esame di laurea si svolge mediante la discussione su una tesi consistente in un progetto di architettura e di urbanistica e di restauro dei monumenti o in una monografia su tematiche inerenti ai problemi dell'architettura, dell'urbanistica e di storiografia dell'architettura e dell'urbanistica. La tesi di laurea deve essere redatta con la diretta responsabilita' dei professori relatori.  
-Art. 224. - I laureati presso altre facolta' in base agli studi compiuti per il conseguimento dell'altra laurea, possono, per decreto del rettore, udito il consiglio dei professori della facolta', essere ammessi ad un anno successivo al primo con eventuale dispensa da iscrizioni a corsi e da esami di materie comuni ed affini.  
+Art. 186. - E' istituita, presso la Facolta' di giurisprudenza, la Scuola di perfezionamento in diritto romano, con l'intento di promuovere ricerche scientifiche sul diritto del mondo romano, di organizzare conferenze, discussioni, esercitazioni, pubblicazioni, viaggi, di raccogliere la bibliografia relativa, di coordinare gli insegnamenti impartiti nella Facolta' di giurisprudenza delle discipline speciali, riflettenti gli studi romanistici. Essa e' una Scuola di addestramento e di perfezionamento per chi intenda specializzarvisi.  
   
-Istituti della facolta' di architettura  
+Art. 187. - La Scuola rilascia il diploma di perfezionamento in diritto romano ed ha la durata di due anni.  
   
-Art. 225. - Sono costituiti presso la facolta' di architettura i seguenti istituti:  
-1) Analisi architettonica;  
-2) Costruzioni;  
-3) Matematica;  
-4) Metodologia architettonica;  
-5) Progettazione architettonica;  
-6) Storia dell'architettura;  
-7) Tecnologia dell'architettura;  
-8) Urbanistica.  
-Tali istituti hanno lo scopo di promuovere e coordinare l'insegnamento e la ricerca nelle discipline di loro pertinenza.  
-Essi utilizzano i locali, il personale e le dotazioni assegnati alla cattedra che li costituiscono.  
+Art. 188. - Sono ammessi alla Scuola i laureati in giurisprudenza.  
+  
+Art. 159. - Gli insegnamenti della Scuola sono i seguenti:  
+Fondamentali:  
+diritto romano privato (biennale);  
+diritto romano pubblico (biennale);  
+esercitazioni esegetiche (biennale).  
+Complementari storia romana;  
+storia greca e bizantina;  
+epigrafia giuridica;  
+papirologia giuridica;  
+paleografia e diplomatica; antica e medioevale;  
+storia dei diritti europei medioevali.  
+Gli insegnamenti sono cosi' ripartiti:  
+1° anno:  
+diritto romano privato;  
+diritto romano pubblico;  
+esercitazioni esegetiche;  
+tre insegnamenti complementari.  
+2° anno:  
+diritto romano privato;  
+diritto romano pubblico;  
+esercitazioni esegetiche.  
+Gli insegnamenti fondamentali importano un unico esame alla fine del biennio.  
+  
+Art. 190. - La Commissione degli esami speciali e' composta dal professore ufficiale della materia, che la presiede, e da due professori della Scuola.  
+  
+Art. 191. - E' ammesso all'esame di diploma chi abbia superato gli esami negli insegnamenti fondamentali ed in tre complementari.  
+  
+Art. 192. - L'esame di diploma si sostiene innanzi al Consiglio direttivo riunito in Commissione. Il candidato deve presentare una dissertazione scritta con previa approvazione, anche sotto il profilo della originalita', di un professore insegnante nella Scuola. Deve discuterla oralmente davanti alla Commissione nell'ambito di un colloquio che dimostri la sua adeguata preparazione nella specializzazione.  
+  
+Art. 193. - La Scuola e' retta da un Consiglio direttivo composto dai professori ordinari della Facolta' di giurisprudenza delle discipline romanistiche, i quali eleggono il direttore che lo presiede per un triennio ed e' rieleggibile.  
+  
+Art. 194. - Gli incarichi d'insegnamento sono conferiti su proposta del Consiglio della scuola, approvata dal Senato accademico e dal Consiglio di amministrazione dell'Universita' di Napoli.  
+  
+Art. 195. - Gli iscritti alla Scuola di perfezionamento sono tenuti a pagare le tasse, le soprattasse, la tassa di diploma, nonche' tutti gli altri contributi stabiliti per gli studenti iscritti alla Facolta' di giurisprudenza dell'Universita' di Napoli.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 ottobre 1970
+### Dato a Napoli, addi' 20 agosto 1959
 
-SARAGAT MISASI
+GRONCHI MEDICi
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 3 dicembre 1970
+Registrato alla Corte dei conti, addi' 5 ottobre 1959
 
-Atti del Governo, registro n. 238, foglio n. 186. - GRECO
+Atti del Governo, registro n. 121, foglio n. 2. - VILLA

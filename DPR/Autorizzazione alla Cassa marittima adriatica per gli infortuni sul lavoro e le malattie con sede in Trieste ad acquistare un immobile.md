@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 gennaio 1967 n. 220
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 gennaio 1967 n. 216
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 gennaio 1967 n. 220
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 gennaio 1967 n. 216
 ==============================================================
 
 Autorizzazione alla Cassa marittima adriatica per gli infortuni sul lavoro e le malattie, con sede in Trieste, ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-220. Decreto del Presidente della Repubblica 17 gennaio 1967, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, la Cassa marittima adriatica per gli infortuni sul lavoro e le malattie, con sede in Trieste, viene autorizzata ad acquistare per il prezzo di lire 114.000.000 (centoquattordicimilioni) il terreno distinto nel catasto di Trieste alle particelle 954-2 e 954-3, di proprieta' della signora Santina Carli.  
+216. Decreto del Presidente della Repubblica 17 gennaio 1967, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, la Cassa marittima adriatica per gli infortuni sul lavoro e le malattie, con sede in Trieste, viene autorizzata ad acquistare per il prezzo di lire 29.000.000 (ventinovemilioni) il terreno distinto nel catasto di Venezia, sezione Mestre, con i mappali 1866 A, 1866 C, 336 A e 336 H, foglio n. 18, di mq. 745, sito nel comune di Venezia-Mestre, di proprieta' del dott. Spinazzi Giampietro e delle signore Alma Biscaro e Iole Barina in Brunelli.  
   
 Visto, il Guardasigilli: REALE  
 Registrato alla Corte dei conti, addi' 20 aprile 1967  
-Atti del Governo, registro n. 210, foglio n. 130. - GRECO
+Atti del Governo, registro n. 210, foglio n. 129. - GRECO

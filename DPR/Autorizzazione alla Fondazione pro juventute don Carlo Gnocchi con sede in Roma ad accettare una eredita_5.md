@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1969 n. 861
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1969 n. 1116
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1969 n. 861
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1969 n. 1116
+================================================================
 
 Autorizzazione alla "Fondazione pro juventute don Carlo Gnocchi", con sede in Roma, ad accettare una eredita'.
 --------------------------------------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-861. Decreto del Presidente della Repubblica 13 ottobre 1969, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione pro juventute don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla signora Francesca Olivero ved.  
-Chiappello, consistente in beni mobili ed immobili per il valore complessivo di L. 183.637.610, con testamento olografo del 26 maggio 1960, pubblicato e registrato, assieme alle due aggiunte esplicative del 3 maggio 1961, con atto a rogito notaio Carlo Giannattasio, residente in Genova, in data 24 marzo 1967, n. 26598 di repertorio, n. 12146 di raccolta.  
+1116. Decreto del Presidente della Repubblica 23 dicembre 1969, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione pro juventute don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' che risulta ammontare a L. 7.187.000, costituita di vari titoli di rendita e denaro liquido, gravata da alcuni oneri e pesi, disposta dalla signora Marengo Giuseppina vedova Quarello con testamento pubblico a rogito dott. Giuseppe Motta, notaio in Montanaro (iscritto al collegio notarile dei distretti riuniti di Torino e di Pinerolo), in data 18 ottobre 1967, n. 1 del repertorio atti di ultima volonta', registrato con atto a rogito dello stesso notaio in data 25 novembre 1967, n. 119 di repertorio.  
   
 Visto, il Guardasigilli: GAVA  
-Registrato alla Corte dei conti, addi' 26 novembre 1969  
-Atti del Governo, registro n. 230, foglio n. 63. - CARUSO
+Registrato alla Corte dei conti, addi' 2 febbraio 1970  
+Atti del Governo, registro n. 231, foglio n. 76. - CARUSO

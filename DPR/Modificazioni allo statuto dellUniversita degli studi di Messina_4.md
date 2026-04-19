@@ -1,152 +1,50 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1986 n. 702
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 luglio 1955 n. 779
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1986 n. 702
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 luglio 1955 n. 779
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923) e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
-
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Dopo l'art. 387, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia plastica e ricostruttiva.  
-Scuola di specializzazione in chirurgia plastica e ricostruttiva  
-Art. 388. - E' istituita la scuola di specializzazione in chirurgia plastica e ricostruttiva presso la facolta' di medicina e chirurgia dell'Universita' di Messina.  
-La scuola ha lo scopo di provvedere alla formazione teorico-pratica dei medici specialisti in chirurgia plastica.  
-La scuola rilascia il titolo di specialista in chirurgia plastica.  
-Art. 389. - La scuola ha durata di cinque anni.  
-Ciascun anno di corso prevede ottocento ore di insegnamento e di attivita' guidate.  
-In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in due per ciascun anno di corso, per un totale di dieci specializzandi.  
-Art. 390. - Per l'attuazione delle attivita' didattiche programmate dal consiglio della scuola provvede la facolta' di medicina e chirurgia dell'Universita' degli studi di Messina.  
-Art. 391. - Sono ammessi alle prove per ottenere l'iscrizione i laureati in medicina e chirurgia; sono altresi' ammessi al concorso per l'ammissione alla scuola coloro che siano in possesso del titolo di studio conseguito presso universita' straniere e che sia, ai sensi dell'[art. 332 del testo unico del 31 agosto 1983, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1983-08-31;1592~art332), equipollente a quello richiesto.  
-Per l'iscrizione alla scuola e' richiesto il possesso del diploma di abilitazione all'esercizio della professione.  
-Art. 392. - La scuola comprende sei aree di insegnamento e tirocinio professionale:  
-a) biologica;  
-b) morfologica;  
-c) fisio-patologica;  
-d) clinica propedeutica ed integrativa;  
-e) terapia e tecnica chirurgica;  
-f) metodologie complementari.  
-Art. 393. - Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:  
-a) Biologica:  
-genetica;  
-tipizzazione dei tessuti;  
-biologia dei trapianti.  
-b) Morfologica:  
-anatomia;  
-embriologia;  
-anatomia chirurgica;  
-anatomia e istologia patologica;  
-malformazioni congenite.  
-c) Fisio-patologica:  
-patologia generale;  
-fisio-patologia della malattia da ustione;  
-oncologia;  
-la riparazione tissutale.  
-d) Clinica propedeutica ed integrativa:  
-chirurgia generale;  
-otorinolaringoiatria;  
-odontostomatologia ed ortopedia maxillo-facciale;  
-dermatologia;  
-oculistica;  
-neurochirurgia;  
-ortopedia e traumatologia;  
-radiodiagnostica e radioterapia;  
-anestesiologia e rianimazione;  
-problemi psichiatrici e psicologici in chirurgia plastica.  
-e) Terapia e tecnica chirurgica:  
-chirurgia plastica;  
-chirurgia plastica in eta' pediatrica;  
-le urgenze in chirurgia plastica;  
-chirurgia riparatrice della mano;  
-tecniche di microchirurgia ricostruttiva;  
-clinica e terapia della malattia da ustione;  
-chirurgia estetica;  
-trapianti in chirurgia plastica.  
-f) Metodologie complementari:  
-criobiologia e banca dei tessuti;  
-riabilitazione e terapia fisica;  
-medicina legale e deontologia;  
-metodiche di diagnostica strumentale;  
-applicazioni tecnologiche in chirurgia plastica.  
-Art. 394. - L'attivita' didattica comprende ogni anno ottocento ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in una attivita' didattica teorico-pratica comune per tutti gli studenti (quattrocento ore come di seguito ripartite) ed in una attivita' didattica elettiva, prevalentemente di carattere tecnico-applicativo di ulteriori quattrocento ore rivolta all'approfondimento del curriculum corrispondente ad uno dei settori formativo-professionali (monte ore elettivo).  
-La frequenza nelle diverse aree avviene pertanto come di seguito specificato:  
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con i [regi decreti 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;1905); [28 maggio 1942, n. 643; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-05-28;643) [22 giugno 1947, n. 774 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-06-22;774) [5 agosto 1951, n. 1335](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-05;1335); [27 ottobre 1951, n. 1827](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1827); [30 luglio 1953, n. 999](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;999); [8 febbraio 1954, n. 403](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-02-08;403) e [27 marzo 1954, n. 735](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-27;735);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-1° Anno:  
-Biologica (ore 50):  
-genetica . . . . . . . . . . . . . . . . . . . . . . . . . . . ore 20 tipizzazione dei tessuti . . . . . . . . . . . . . . . . . . . ore 20 biologia dei trapianti . . . . . . . . . . . . . . . . . . . . ore 10 Morfologica (ore 50):  
-anatomia . . . . . . . . . . . . . . . . . . . . . . . . . . . ore 15 embriologia. . . . . . . . . . . . . . . . . . . . . . . . . . ore 15 anatomia ed istologia patologica . . . . . . . . . . . . . . . ore 20 Clinica propedeutica ed integrativa (ore 200):  
-chirurgia generale. . . . . . . . . . . . . . . . . . . . . . ore 120 radiodiagnostica e radioterapia. . . . . . . . . . . . . . . . ore 40 anestesiologia e rianimazione. . . . . . . . . . . . . . . . . ore 40 Terapia e tecnica chirurgica (ore 100):  
-chirurgia plastica. . . . . . . . . . . . . . . . . . . . . . ore 100 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-2° Anno:  
-Morfologica (ore 50):  
-anatomia chirurgica. . . . . . . . . . . . . . . . . . . . . . ore 40 malformazioni congenite. . . . . . . . . . . . . . . . . . . . ore 10 Fisio-patologica (ore 100):  
-patologia generale . . . . . . . . . . . . . . . . . . . . . . ore 40 fisio-patologia della malattia da ustione. . . . . . . . . . . ore 20 oncologia. . . . . . . . . . . . . . . . . . . . . . . . . . . ore 30 la riparazione tissutale . . . . . . . . . . . . . . . . . . . ore 10 Clinica propedeutica ed integrativa (ore 200):  
-chirurgia generale. . . . . . . . . . . . . . . . . . . . . . ore 100 otorinolaringoiatria . . . . . . . . . . . . . . . . . . . . . ore 50 odontostomatologia ed ortopedia maxillo-facciale . . . . . . . ore 50 Terapia e tecnica chirurgica (ore 50):  
-chirurgia plastica . . . . . . . . . . . . . . . . . . . . . . ore 50 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-3° Anno:  
-Clinica propedeutica ed integrativa (ore 200):  
-chirurgia generale. . . . . . . . . . . . . . . . . . . . . . ore 120 dermatologia . . . . . . . . . . . . . . . . . . . . . . . . . ore 40 oculistica . . . . . . . . . . . . . . . . . . . . . . . . . . ore 40 ortopedia e traumatologia. . . . . . . . . . . . . . . . . . . ore 20 Terapia e tecnica chirurgica (ore 200):  
-chirurgia plastica. . . . . . . . . . . . . . . . . . . . . . ore 100 chirurgia plastica in eta' pediatrica. . . . . . . . . . . . . ore 30 le urgenze in chirurgia plastica . . . . . . . . . . . . . . . ore 30 chirurgia riparatrice della mano . . . . . . . . . . . . . . . ore 40 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-4° Anno:  
-Clinica propedeutica ed integrativa (ore 100):  
-chirurgia generale . . . . . . . . . . . . . . . . . . . . . . ore 40 neurochirurgia . . . . . . . . . . . . . . . . . . . . . . . . ore 60 Terapia e tecnica chirurgica (ore 200):  
-chirurgia plastica. . . . . . . . . . . . . . . . . . . . . . ore 100 chirurgia plastica in eta' pediatrica. . . . . . . . . . . . . ore 60 clinica e terapia della malattia da ustione. . . . . . . . . . ore 40 Metodologie complementari (ore 100):  
-metodiche di diagnostica strumentale . . . . . . . . . . . . . ore 50 applicazioni tecnologiche in chirurgia plastica. . . . . . . . ore 50 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-5° Anno:  
-Terapia e tecnica chirurgica (ore 200):  
-chirurgia plastica . . . . . . . . . . . . . . . . . . . . . . ore 40 chirurgia estetica . . . . . . . . . . . . . . . . . . . . . . ore 80 trapianti in chirurgia plastica. . . . . . . . . . . . . . . . ore 80 Metodologie complementari (ore 200):  
-criobiologia e banca dei tessuti . . . . . . . . . . . . . . . ore 30 riabilitazione e terapia fisica. . . . . . . . . . . . . . . . ore 50 medicina legale e deontologia. . . . . . . . . . . . . . . . . ore 10 metodiche di diagnostica strumentale . . . . . . . . . . . . . ore 30 applicazioni tecnologiche in chirurgia plastica. . . . . . . . ore 80 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-Art. 395. - Durante i cinque anni di corso e' richiesta la frequenza nei seguenti reparti/divisioni/ambulatori/laboratori:  
-reparto di chirurgia plastica - chirurgia generale - chirurgie specialistiche;  
-ambulatori di chirurgia plastica - chirurgia generale - chirurgie specialistiche.  
-La frequenza nelle varie aree per complessive ottocento ore annue, compreso il monte ore elettivo di quattrocento ore annue, avviene secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienza e di - formazione professionale. Il consiglio della scuola ripartisce annualmente il monte ore elettivo.  
-Il consiglio della scuola predispone apposito libretto di formazione, che consenta allo specializzando ed al consiglio stesso il controllo dell'attivita' svolta e dell'acquisizione dei progressi compiuti, per sostenere gli esami annuali e finali.  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 22. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di:  
+"Filologia medioevale ed umanistica".  
+Art. 32. - Agli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti quelli di:  
+7) "Filosofia morale;  
+8) Storia della pedagogia".  
+Art. 33. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto quello di:  
+5) "Linguistica".  
+Art. 43. - Nell'elenco degli Istituti della Facolta' di scienze matematiche, fisiche e naturali e' aggiunto quello di:  
+13) "Istituto di chimica analitica".  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella, Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 maggio 1986
+### Dato a Roma, addi' 24 luglio 1955
 
-COSSIGA
+GRONCHI ROSSI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: MORO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 27 agosto 1955
 
-Registrato alla Corte dei conti, addi' 14 ottobre 1986
-
-Registro n. 76 Istruzione, foglio n. 359
+Atti del Governo, registro n. 92, foglio n. 112. - CARLOMAGNO

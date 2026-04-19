@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 marzo 1965 n. 240
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 412
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 marzo 1965 n. 240
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 412
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -10,186 +10,68 @@ Modificazioni allo statuto dell'Universita' degli studi di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, numero 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 10 e' modificato nel senso che e' soppressa la propedeuticita' del diritto penale rispetto alla Procedura penale.
+Articolo unico
+--------------
 
-Art. 25. - Agli insegnamenti complementari del corso di laurea in Materie letterarie e' aggiunto quello di:
-
-"Cultura greca".
-
-Art. 26. - Agli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti quelli di:
-
-Cultura greca;
-
-Sociologia.
-
-Art. 27. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere e' aggiunto quello di "Cultura greca".
-
-Art. 50 (gia' 45), relativo alle norme di esami dei vari corsi di laurea della Facolta' di scienze matematiche, fisiche e naturali e' modificato nel senso che dopo il secondo comma sono inseriti i seguenti:
-
-Per il corso di laurea in Fisica:
-
-"Lo studente non puo' essere ammesso agli esami di Fisica matematica, Fisica superiore, Fisica teorica, Istituzioni di fisica matematica e Istituzioni di fisica teorica se non ha superato l'esame di Meccanica razionale".
-
-Per il corso di laurea in Matematica:
-
-"Lo studente non puo' essere ammesso agli esami di Fisica matematica, Fisica superiore, Fisica teorica, Istituzioni di fisica matematica e Istituzioni di fisica teorica se non ha superato l'esame di meccanica razionale".
-
-Gli articoli 122 e 123 relativi all'ordinamento della Scuola di specializzazione in Pediatria sono abrogati e sostituiti dai seguenti:
-
-Scuola di specializzazione in Pediatria
-
-Art. 122. - Per il conseguimento del diploma di specialista in Pediatria, si richiedono 3 anni di corso, con internato, per il periodo di 3 anni accademici.
-
-Art. 123. - Il numero degli iscritti e' limitato a 30 per ogni anno di corso.
-
-Art. 124. - Gli insegnamenti impartiti nella scuola sono i seguenti:
-
-1° Anno:
-
-1) Fisiologia dell'accrescimento;
-
-2) Igiene infantile;
-
-3) Psicologia dell'eta' evolutiva;
-
-4) Semeiotica infantile (biennale);
-
-5) Genetica medica.
-
-2° Anno:
-
-1) Puericultura (biennale);
-
-2) Radiologia infantile;
-
-3) Semeiotica infantile;
-
-4) Patologia e clinica infantile (biennale).
-
-3° Anno:
-
-1) Puericultura;
-
-2) Malattie infettive e contagiose dell'infanzia;
-
-3) Patologia e clinica delle cardiopatie congenite;
-
-4) Ortopedia infantile;
-
-5) Patologia e clinica infantile.
-
-Per il conseguimento del diploma il candidato deve inoltre presentare e discutere una dissertazione scritta con contributo personale clinico o clinico-sperimentale.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 4 marzo 1965
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 8 aprile 1965 Atti del Governo, registro n. 192, foglio n. 26. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, numero 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 10 e' modificato nel senso che e' soppressa la propedeuticita' del diritto penale rispetto alla Procedura penale.  
-Art. 25. - Agli insegnamenti complementari del corso di laurea in Materie letterarie e' aggiunto quello di:  
-"Cultura greca".  
-Art. 26. - Agli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti quelli di:  
-Cultura greca;  
-Sociologia.  
-Art. 27. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere e' aggiunto quello di "Cultura greca".  
-Art. 50 (gia' 45), relativo alle norme di esami dei vari corsi di laurea della Facolta' di scienze matematiche, fisiche e naturali e' modificato nel senso che dopo il secondo comma sono inseriti i seguenti:  
-  
-Per il corso di laurea in Fisica:  
-"Lo studente non puo' essere ammesso agli esami di Fisica matematica, Fisica superiore, Fisica teorica, Istituzioni di fisica matematica e Istituzioni di fisica teorica se non ha superato l'esame di Meccanica razionale".  
-  
-Per il corso di laurea in Matematica:  
-"Lo studente non puo' essere ammesso agli esami di Fisica matematica, Fisica superiore, Fisica teorica, Istituzioni di fisica matematica e Istituzioni di fisica teorica se non ha superato l'esame di meccanica razionale".  
-  
-Gli articoli 122 e 123 relativi all'ordinamento della Scuola di specializzazione in Pediatria sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in Pediatria  
-  
-Art. 122. - Per il conseguimento del diploma di specialista in Pediatria, si richiedono 3 anni di corso, con internato, per il periodo di 3 anni accademici.  
-Art. 123. - Il numero degli iscritti e' limitato a 30 per ogni anno di corso.  
-Art. 124. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
-  
-1° Anno:  
-1) Fisiologia dell'accrescimento;  
-2) Igiene infantile;  
-3) Psicologia dell'eta' evolutiva;  
-4) Semeiotica infantile (biennale);  
-5) Genetica medica.  
-  
-2° Anno:  
-1) Puericultura (biennale);  
-2) Radiologia infantile;  
-3) Semeiotica infantile;  
-4) Patologia e clinica infantile (biennale).  
-  
-3° Anno:  
-1) Puericultura;  
-2) Malattie infettive e contagiose dell'infanzia;  
-3) Patologia e clinica delle cardiopatie congenite;  
-4) Ortopedia infantile;  
-5) Patologia e clinica infantile.  
-  
-Per il conseguimento del diploma il candidato deve inoltre presentare e discutere una dissertazione scritta con contributo personale clinico o clinico-sperimentale.  
+Art. 43 - nell'elenco degli insegnamenti complementari del corso di laurea in lettere sono inserite le seguenti discipline:  
+africanistica;  
+esegesi delle fonti della storia medioevale;  
+etnolinguistica;  
+filologia biblica;  
+lingua e letteratura pali;  
+storia dei partiti e dei movimenti politici;  
+storia della Chiesa medievale e dei movimenti ereticali;  
+storia della regione subalpina nel medioevo;  
+storia dell'eta' dell'illuminismo;  
+storia delle tecniche artistiche;  
+storia economica e sociale dell'eta' moderna e contemporanea;  
+storia economica e sociale del medioevo.  
+Art. 44 - nell'elenco degli insegnamenti complementari del corso di laurea in filosofia sono inserite le seguenti discipline:  
+antropologia sociale;  
+storia della filosofia del rinascimento.  
+Art. 45 - nell'elenco degli insegnamenti complementari del corso di lingue e letterature straniere moderne (indirizzo europeo) sono inserite le seguenti discipline:  
+glottodidattica;  
+letteratura francese moderna e contemporanea;  
+letteratura inglese moderna e contemporanea;  
+letteratura tedesca moderna e contemporanea;  
+letteratura spagnola moderna e contemporanea.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 marzo 1965
+### Dato a Roma, addi' 26 febbraio 1982
 
-SARAGAT GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 8 aprile 1965
+Registrato alla Corte dei conti, addi' 22 giugno 1982
 
-Atti del Governo, registro n. 192, foglio n. 26. - VILLA
+Registro n. 82 Istruzione, foglio n. 154

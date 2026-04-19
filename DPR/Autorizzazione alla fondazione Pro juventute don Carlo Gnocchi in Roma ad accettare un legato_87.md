@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1980 n. 788
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 559
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1980 n. 788
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 559
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-788. Decreto del Presidente della Repubblica 22 luglio 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in libretti bancari e beni mobili per un valore complessivo di L. 26.954.431, disposto dalla sig.ra Girardi Maria ved. Leiss De Leimburg a favore dell'opera mutilatini di don Gnocchi, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, con testamento olografo 15 agosto 1977, pubblicato in data 26 settembre 1978, n. 17260 di repertorio, a rogito dott. Anna Maria Callari Bennati, notaio in Torino, registrato a Torino in data 2 ottobre 1978 al n. 39960.  
+559. Decreto del Presidente della Repubblica 16 luglio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 2.000.000, disposto dal sig. Gallotti Attilio con testamento olografo 3 aprile 1977, pubblicato a rogito dott. Marco Serpi, notaio in Milano, il 9 febbraio 1978, n. 135245 di repertorio e n. 215113 di raccolta, registrato a Milano il 24 febbraio 1978 al n. 03523-71.  
   
-Visto, il Guardasigilli: SARTI  
-Registrato alla Corte dei conti, addi' 21 novembre 1980  
-Registro n. 9 Presidenza, foglio n. 9
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 11 ottobre 1985  
+Registro n. 9 Presidenza, foglio n. 68

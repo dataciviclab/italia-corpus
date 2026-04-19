@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1972 n. 503
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 febbraio 1972 n. 127
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1972 n. 503
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 febbraio 1972 n. 127
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute Don Carlo Gnocchi", con sede in Roma, ad accettare una eredita'.
 --------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-503. Decreto del Presidente della Repubblica 18 luglio 1972, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' - consistente in immobili (appartamento con orto ed un negozio) siti in Milano, via Graziano Imperatore n. 43, del valore presunto di L. 15.000.000, come si rileva da perizia giurata del geom. Dino Casiraghi, gravati di usufrutto in favore del marito e della sorella della de cuius - disposta dalla signora Natalina Pizzi in Villani, con testamento olografo del 10 novembre 1966 pubblicato con verbale a rogito del dottor Virgilio Neri, notaio in Milano, in data 11 marzo 1969 (n. 28914 di repertorio, n. 6220 di raccolta), registrato a Milano il 22 marzo 1969 al n. 5219 - Serie G.  
+127. Decreto del Presidente della Repubblica 21 febbraio 1972, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', disposta dalla signora Ada Lambertini vedova De Palma, con testamento olografo del 22 settembre 1966 depositato e pubblicato con verbale a rogito dott. Isidoro Finazzi, notaio in Palombara Sabina, in data 16 giugno 1970, n. 1513/464 del repertorio, che si concreta in un appartamento ubicato in Roma in via Nicolo' Tartaglia n. 21 (piano III, int. 8) del valore presunto di L. 18.000.000.   
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 30 agosto 1972  
-Atti del Governo, registro n. 251, foglio n. 1. - VALENTINI
+Visto, il Guardasigilli: GONELLA   
+Registrato alla Corte dei conti, addi' 10 aprile 1972   
+Atti del Governo, registro n. 248, foglio n. 31. - VALENTINI

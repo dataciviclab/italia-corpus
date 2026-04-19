@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1982 n. 1118
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1986 n. 672
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1982 n. 1118
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1986 n. 672
+=============================================================
 
 Autorizzazione ad accettare un legato a favore dello Stato.
 -----------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1118. Decreto del Presidente della Repubblica 13 ottobre 1982, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato del legato disposto dal gen.le Renato Trucchetti con testamento olografo 5 giugno 1973, pubblicato in data 9 febbraio 1979, n. 10637/4341 di repertorio, a rogito dott. Gian Maria Piacentino, notaio in Torino, consistente in una raccolta di mobili e arredi, i quali rivestono un importante interesse artistico e storico, da destinare al Castello reale di Moncalieri (Torino).  
+672. Decreto del Presidente della Repubblica 13 maggio 1986, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato del legato, consistente in due dipinti dell'autore G. Ottani, raffiguranti "Due tempeste", i quali rivestono un interesse artistico e storico, da destinare alla soprintendenza per i beni artistici e storici - Pinacoteca nazionale di Bologna, disposto dalla sig.ra Albertina Villoresi con testamento olografo 23 marzo 1982, pubblicato in data 26 aprile 1982, n. 25168 di repertorio, a rogito dottor Alessandro Ruggiero, notaio in Firenze, registrato a Firenze in data 3 maggio 1981 al n. 4978.   
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 14 febbraio 1983  
-Registro n. 4 Beni culturali, foglio n. 218
+Visto, il Guardasigilli: ROGNONI   
+Registrato alla Corte dei conti, addi' 10 ottobre 1986   
+Registro n. 26 Beni culturali, foglio n. 120

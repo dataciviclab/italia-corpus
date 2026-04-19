@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 aprile 1960 n. 506
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1976 n. 950
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 aprile 1960 n. 506
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1976 n. 950
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Modena.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170) e successivi;
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,7 +20,7 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Modena e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -30,324 +30,462 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 154 sono aggiunti i seguenti nuovi articoli relativi alla istituzione delle Scuole di specializzazione in Oculistica, in Anestesiologia e in Malattie del sangue, annesse alla Facolta' di medicina e chirurgia.
+Gli articoli 123, 124, 125, 126, 127 e 128, relativi alla scuola di specializzazione in radiologia, sono abrogati e sostituiti dai seguenti:
 
-Scuola di specializzazione in Oculistica
+Scuola di specializzazione in radiologia
 
-Art. 155. - La Scuola di specializzazione in Oculistica conferisce il diploma di specialista in Oculistica.
+Art. 123. - La scuola rilascia i seguenti diplomi di specializzazione: in radiologia e in radiologia diagnostica.
 
-Art. 156. - La Scuola ha sede presso la Clinica oculistica della Universita'.
+La scuola e' riservata ai laureati in medicina e chirurgia, che possono essere accolti in numero massimo di 8 per ciascun anno di corso per radiologia e in numero massimo di 7 per radiologia diagnostica (totale 15).
 
-Art. 157. - Alla Scuola sono ammessi i laureati in Medicina e chirurgia.
+Art. 124. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia e' di quattro anni.
 
-Art. 158. - La Scuola ha la durata di tre anni con posti disponibili n. 10 per ogni anno.
+La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.
 
-L'ammissione e' per esami.
+Art. 125. - Gli insegnamenti per il conseguimento del diploma di specializzazione in radiologia sono i seguenti:
 
-Art. 159. - Gli insegnamenti impartiti nella Scuola sono:
+a) matematica, fisica, nozioni di statistica e informatica (annuale) comprendente:
 
-1° anno:
+1) richiami di matematica e fisica generale;
 
-Insegnamenti fondamentali:
+2) costituzione della materia;
 
-1) Anatomia normale e patologica oculare;
+3) produzione, assorbimento e misura delle radiazioni;
 
-2) Ottica fisiologica;
+4) statistica applicata alla medicina;
 
-3) Semeiotica oculare;
+5) informatica e cibernetica applicate alla radiologia;
 
-4) Refrattometria;
+b) radiodiagnostica (triennale) comprendente:
 
-5) Oftalmoscopia;
+1) principi generali di radiodiagnostica;
 
-6) Fisiopatologia e chimica oculistica.
+2) apparecchi, strumenti e tecnica radiodiagnostica;
 
-Insegnamenti complementari:
+3) tecnica e fisiologia applicata alla radiodiagnostica;
 
-1) Batteriologia oculare;
+4) i mezzi di contrasto artificiale in radiodiagnostica; effetti collaterali connessi con il loro impiego e loro terapia;
 
-2) Biomicroscopia oculare del segmento anteriore.
+5) semeiotica radiologica;
 
-2° anno:
+6) diagnostica differenziale radiologica;
 
-Insegnamenti fondamentali:
+7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;
 
-1) Oftalmoscopia;
+8) dimostrazioni di casistica clinica;
 
-2) Medicina operatoria oculare;
+c) radiobiologia (annuale) comprendente:
 
-3) Fisiopatologia o clinica oculistica.
+1) radiobiologia generale;
 
-Insegnamenti complementari:
+2) danni da radiazioni e radiopatie;
 
-1) Biomicroscopia del cristallino, del vitreo e del fondo;
+d) protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
 
-2) Perimetria.
+1) legislazione sanitaria applicata alla radiologia;
 
-3° anno:
+2) compiti e responsabilita' medico-legali del radiologo;
 
-Insegnamenti fondamentali:
+3) radioprotezione fisica e dosimetria ad essa connessa;
 
-1) Fisiopatologia o clinica oculistica;
+4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;
 
-2) Medicina operatoria oculare;
+5) radioprotezione chimica;
 
-3) Medicina generale in rapporto all'oculistica;
+6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici;
 
-4) Neurologia in rapporto all'oculistica;
+e) radioterapia e terapia fisica (triennale) comprendente:
 
-Insegnamenti complementari:
+1) radiobiologia applicata;
 
-1) Infortunistica;
+2) fondamenti generali di radioterapia e terapia fisica;
 
-2) Radiologia in rapporto all'oculistica;
+3) istopatologia speciale dei tumori;
 
-3) Otorinolaringologia in rapporto all'oculistica;
+4) nozioni sugli apparecchi e strumenti per la radioterapia;
 
-4) Nozioni di neurochirurgia.
+5) tecnica e metodica radioterapica;
 
-Art. 160. - L'allievo del primo anno per essere ammesso al secondo anno deve avere ottenuto tutte le firme di frequenza dei corsi fondamentali e complementari del primo anno e deve avere superato gli esami delle materie fondamentali.
+6) dosimetria;
 
-L'allievo del secondo anno per essere ammesso al terzo anno deve avere ottenuto tutte le firme di frequenza dei corsi fondamentali e complementari del secondo anno e deve aver superato gli esami delle materie fondamentali.
+7) clinica radioterapica;
 
-Alla fine del terzo anno gli allievi devono sostenere gli esami delle materie fondamentali.
+8) fondamenti generali di chemioterapia oncologica;
 
-Scuola di specializzazione in Anestesiologia
+9) chemioterapia clinica dei tumori e sua associazione alla radioterapia;
 
-Art. 161. - La Scuola di specializzazione in Anestesiologia conferisce il diploma di specialista in Anestesiologia.
+10) dimostrazione di casistica clinica.
 
-Art. 162. - La Scuola ha sede presso la Clinica chirurgica generale.
+f) medicina nucleare (biennale) comprendente:
 
-Art. 163. - Alla Scuola sono ammessi i laureati in Medicina e chirurgia.
+1) elementi di medicina nucleare;
 
-Art. 164. - La Scuola ha la durata di due anni con posti disponibili n. 8 per ogni anno. L'ammissione e' per esami.
+2) istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare;
 
-Art. 165. - Gli insegnamenti impartiti dalla Scuola sono:
+3) dosimetria dei radioisotopi somministrati per via interna;
 
-1° anno:
+4) diagnostica con radioisotopi somministrati per via interna;
 
-1) Anatomia del sistema nervoso centrale e periferico;
+5) radioterapia metabolica;
 
-2) Fisiologia applicata alla anestesia;
+6) dimostrazioni di casistica clinica.
 
-3) Farmacologia applicata alla anestesia;
+Art. 126. - I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nei quattro anni di corso:
 
-4) Tecnica anestesiologica generale e speciale (biennale);
+1° Anno (tronco comune):
 
-5) Valutazione dell'operando e cure preoperatorie.
+matematica, fisica, nozioni di statistica ed informatica;
 
-2° anno:
+radiobiologia;
 
-1) Tecnica anestesiologica generale e speciale (biennale);
+protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;
 
-2) Cure postoperatorie;
+radiodiagnostica (I).
 
-3) Rianimazione.
+2° Anno:
 
-Gli allievi sono tenuti a seguire i turni di internato stabiliti dalla Direzione della Scuola.
+radiodiagnostica (II);
 
-Art. 166. - L'esame di profitto su ogni materia di insegnamento si sosterra' alla fine dei singoli corsi.
+radioterapia e terapia fisica (I).
 
-L'allievo del primo anno per essere ammesso al secondo anno deve avere superato gli esami del primo anno.
+3° Anno:
 
-Scuola di specializzazione in Malattie del sangue
+radiodiagnostica (III);
 
-Art. 167. - La Scuola di specializzazione in Malattie del sangue conferisce il diploma di specialista in Malattie del sangue.
+radioterapia e terapia fisica (II);
 
-La durata del corso e' di anni due. Il numero dei posti disponibili per ogni anno e' di 20.
+medicina nucleare (I).
 
-Art. 168. - Le materie di insegnamento sono le seguenti:
+4° Anno:
 
-1° anno:
+radioterapia e terapia fisica (III);
 
-Insegnamenti fondamentali:
+medicina nucleare (II).
 
-1) Citologia e patologia del sangue e degli organi ematopoietici;
+Art. 127. - Gli insegnamenti per il conseguimento del diploma di specializzazione in radiologia diagnostica sono i seguenti:
 
-2) Istologia normale e patologica degli organi ematopoietici;
+a) matematica, fisica, nozioni di statistica e di informatica (annuale) comprendente:
 
-3) Fisiopatologia dell'emopoiesi;
+1) richiami di matematica e fisica generale;
 
-4) Fisiopatologia dell'emostasi;
+2) costituzione della materia;
 
-5) Fisiopatologia del plasma;
+3) produzione, assorbimento e misura delle radiazioni;
 
-6) I gruppi sanguigni:
+4) statistica applicata alla medicina;
 
-7) Immunoematologia.
+5) informatica e cibernetica applicata alla radiologia;
 
-Insegnamenti complementari:
+b) radiodiagnostica (triennale) comprendente:
 
-1) Applicazioni degli isotopi radioattivi in ematologia;
+1) principi generali di radiodiagnostica;
 
-2) Microscopia e chimica clinica relativa alla specialita'.
+2) apparecchi, strumenti e tecnica radiodiagnostica;
 
-2° anno:
+3) tecnica e fisiologia applicate alla radiodiagnostica;
 
-Insegnamenti fondamentali:
+4) i mezzi di contrasto artificiale in radiodiagnostica; effetti collaterali connessi con il loro impiego e loro terapia;
 
-1) Clinica generale delle emopatie;
+5) semeiotica radiologica;
 
-2) Terapia generale e speciale delle emopatie.
+6) diagnostica differenziale radiologica;
 
-Insegnamenti complementari
+7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;
 
-1) Malattie parassitarie ed infettive di interesse ematologico;
+8) dimostrazioni di casistica clinica;
 
-2) Clinica delle emopatie infantili.
+c) radiologia (annuale) comprendente:
 
-E' obbligatoria la frequenza alle esercitazioni cliniche e di laboratorio annesse ai corsi.
+1) radiobiologia generale;
 
-Art. 169. - L'esame di profitto si sostiene alla fine dell'anno di corso.
+2) danni da radiazioni e radiopatie;
 
-Tutte le materie fondamentali costituiscono un unico gruppo; un esame a parte vertera' sulle materie complementari. L'esame di diploma consiste nella discussione di una dissertazione scritta ed in una prova clinica corredata di ricerche complementari di laboratorio.
+d) protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
+
+1) legislazione sanitaria applicata alla radiologia;
+
+2) compiti e responsabilita' medico-legali del radiologo;
+
+3) radioprotezione fisica e dosimetria ad essa connessa;
+
+4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;
+
+5) radioprotezione chimica;
+
+6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.
+
+I singoli insegnamenti tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:
+
+1° Anno (tronco comune):
+
+matematica, fisica, nozioni di statistica ed informatica;
+
+radiobiologia;
+
+protezioni radiologiche;
+
+legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;
+
+radiodiagnostica (I).
+
+2° Anno:
+
+radiodiagnostica (II).
+
+3° Anno:
+
+radiodiagnostica (III).
+
+Art. 128. - Per essere ammessi agli esami di diploma in radiologia e radiologia diagnostica gli iscritti, oltre ad aver compiuto un congruo periodo di internato debbono elaborare una tesi scritta su di un argomento radiologico concordato con il direttore dalla scuola.
+
+Dopo l'art. 253, e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione del corso di perfezionamento in neonatologia.
+
+Corso di perfezionamento in neonatologia
+
+Art. 254. - E' istituito presso la facolta' di medicina e chirurgia dell'Universita' di Modena un corso di perfezionamento in neonatologia. Il corso ha fini di aggiornamento sul piano teorico, ma soprattutto di perfezionamento clinico-pratico nell'ambito della neonatologia.
+
+La durata del corso e' annuale.
+
+Possono essere ammessi al corso gli aspiranti in possesso di un titolo di specializzazione in pediatria (o clinica pediatrica) o in puericultura, conseguito presso una scuola di specializzazione di durata almeno biennale.
+
+Il numero degli ammessi resta fissato in dieci.
+
+Art. 255. - Il direttore del corso viene designato di anno in anno dal consiglio di facolta' e puo' essere confermato. Il personale insegnante e' nominato di anno in anno dal consiglio di facolta' su proposta del direttore del corso.
+
+Art. 256. - Le materie d'insegnamento sono le seguenti:
+
+1) clinica della gravidanza, del parto normale e a rischio;
+
+2) fisiopatologia e teratologia embrio-fetale;
+
+3) genetica della patologia cromosomica e delle materie metaboliche congenite;
+
+4) fisiologia neonatale;
+
+5) immunologia neonatale;
+
+6) biochimica neonatale;
+
+7) farmacologia neonatale;
+
+8) patologia neonatale;
+
+9) diagnostica radiologica neonatale;
+
+10) tecniche ii laboratorio riguardanti la fisiologia e patologia neonatale;
+
+11) assistenza al neonato sano ed ammalato;
+
+12) clinica e terapia neonatale;
+
+13) rianimazione e cure intensive neonatali;
+
+14) affezioni chirurgiche del neonato;
+
+15) anatomia e patologia del feto e del neonato;
+
+16) evoluzione ed esiti della patologia feto-neonatale.
+
+Gli insegnamenti verranno impartiti attraverso lezioni, seminari, discussioni cliniche ed integrati da conferenze su argomenti specifici pertinenti a problemi di neonatologia.
+
+Art. 257. - L'allievo dovra' ottemperare all'internato obbligatorio per la durata di 10 mesi. In tale periodo egli esplichera' attivita' in sala parto e nei diversi servizi di assistenza e cura del neonato.
+
+Art. 258. - Alla fine del corso l'allievo sosterra' un esame globale di profitto con prove teoriche e pratiche e svolgera' una dissertazione orale su un argomento in campo neonatologico con relativa discussione dinanzi ad una commissione formata dal direttore e dagli insegnanti del corso.
+
+La sessione di esami sara' unica alla fine del corso.
+
+All'allievo che avra' completato le prove con esito favorevole verra' rilasciato un diploma di perfezionamento in neonatologia.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 20 aprile 1960
+Dato a Roma, addi' 30 ottobre 1976
 
-GRONCHI
+LEONE
 
-MEDICI
+MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 1 giugno 1960 Atti del governo, registro n. 127, foglio n. 9. - VILLA
+alla Corte dei conti, addi' 30 dicembre 1976 Registro n. 105 Istruzione, foglio n. 312
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Modena e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli 123, 124, 125, 126, 127 e 128, relativi alla scuola di specializzazione in radiologia, sono abrogati e sostituiti dai seguenti:   
   
-Dopo l'art. 154 sono aggiunti i seguenti nuovi articoli relativi alla istituzione delle Scuole di specializzazione in Oculistica, in Anestesiologia e in Malattie del sangue, annesse alla Facolta' di medicina e chirurgia.  
+Scuola di specializzazione in radiologia   
   
-Scuola di specializzazione in Oculistica  
+Art. 123. - La scuola rilascia i seguenti diplomi di specializzazione: in radiologia e in radiologia diagnostica.   
+La scuola e' riservata ai laureati in medicina e chirurgia, che possono essere accolti in numero massimo di 8 per ciascun anno di corso per radiologia e in numero massimo di 7 per radiologia diagnostica (totale 15).   
   
-Art. 155. - La Scuola di specializzazione in Oculistica conferisce il diploma di specialista in Oculistica.  
-Art. 156. - La Scuola ha sede presso la Clinica oculistica della Universita'.  
-Art. 157. - Alla Scuola sono ammessi i laureati in Medicina e chirurgia.  
-Art. 158. - La Scuola ha la durata di tre anni con posti disponibili n. 10 per ogni anno.  
-L'ammissione e' per esami.  
-Art. 159. - Gli insegnamenti impartiti nella Scuola sono:  
-1° anno:  
+Art. 124. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia e' di quattro anni.   
+La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.   
   
-Insegnamenti fondamentali:  
-1) Anatomia normale e patologica oculare;  
-2) Ottica fisiologica;  
-3) Semeiotica oculare;  
-4) Refrattometria;  
-5) Oftalmoscopia;  
-6) Fisiopatologia e chimica oculistica.  
+Art. 125. - Gli insegnamenti per il conseguimento del diploma di specializzazione in radiologia sono i seguenti:   
+a) matematica, fisica, nozioni di statistica e informatica (annuale) comprendente:   
+1) richiami di matematica e fisica generale;   
+2) costituzione della materia;   
+3) produzione, assorbimento e misura delle radiazioni;   
+4) statistica applicata alla medicina;   
+5) informatica e cibernetica applicate alla radiologia;   
+b) radiodiagnostica (triennale) comprendente:   
+1) principi generali di radiodiagnostica;   
+2) apparecchi, strumenti e tecnica radiodiagnostica;   
+3) tecnica e fisiologia applicata alla radiodiagnostica;   
+4) i mezzi di contrasto artificiale in radiodiagnostica; effetti collaterali connessi con il loro impiego e loro terapia;   
+5) semeiotica radiologica;   
+6) diagnostica differenziale radiologica;   
+7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;   
+8) dimostrazioni di casistica clinica;   
+c) radiobiologia (annuale) comprendente:   
+1) radiobiologia generale;   
+2) danni da radiazioni e radiopatie;   
+d) protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:   
+1) legislazione sanitaria applicata alla radiologia;   
+2) compiti e responsabilita' medico-legali del radiologo;   
+3) radioprotezione fisica e dosimetria ad essa connessa;   
+4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;   
+5) radioprotezione chimica;   
+6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici;   
+e) radioterapia e terapia fisica (triennale) comprendente:   
+1) radiobiologia applicata;   
+2) fondamenti generali di radioterapia e terapia fisica;   
+3) istopatologia speciale dei tumori;   
+4) nozioni sugli apparecchi e strumenti per la radioterapia;   
+5) tecnica e metodica radioterapica;   
+6) dosimetria;   
+7) clinica radioterapica;   
+8) fondamenti generali di chemioterapia oncologica;   
+9) chemioterapia clinica dei tumori e sua associazione alla radioterapia;   
+10) dimostrazione di casistica clinica.   
+f) medicina nucleare (biennale) comprendente:   
+1) elementi di medicina nucleare;   
+2) istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare;   
+3) dosimetria dei radioisotopi somministrati per via interna;   
+4) diagnostica con radioisotopi somministrati per via interna;   
+5) radioterapia metabolica;   
+6) dimostrazioni di casistica clinica.   
   
-Insegnamenti complementari:  
-1) Batteriologia oculare;  
-2) Biomicroscopia oculare del segmento anteriore.  
-2° anno:  
+Art. 126. - I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nei quattro anni di corso:   
+1° Anno (tronco comune):   
+matematica, fisica, nozioni di statistica ed informatica;   
+radiobiologia;   
+protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;   
+radiodiagnostica (I).   
+2° Anno:   
+radiodiagnostica (II);   
+radioterapia e terapia fisica (I).   
+3° Anno:   
+radiodiagnostica (III);   
+radioterapia e terapia fisica (II);   
+medicina nucleare (I).   
+4° Anno:   
+radioterapia e terapia fisica (III);   
+medicina nucleare (II).   
   
-Insegnamenti fondamentali:  
-1) Oftalmoscopia;  
-2) Medicina operatoria oculare;  
-3) Fisiopatologia o clinica oculistica.  
+Art. 127. - Gli insegnamenti per il conseguimento del diploma di specializzazione in radiologia diagnostica sono i seguenti:   
+a) matematica, fisica, nozioni di statistica e di informatica (annuale) comprendente:   
+1) richiami di matematica e fisica generale;   
+2) costituzione della materia;   
+3) produzione, assorbimento e misura delle radiazioni;   
+4) statistica applicata alla medicina;   
+5) informatica e cibernetica applicata alla radiologia;   
+b) radiodiagnostica (triennale) comprendente:   
+1) principi generali di radiodiagnostica;   
+2) apparecchi, strumenti e tecnica radiodiagnostica;   
+3) tecnica e fisiologia applicate alla radiodiagnostica;   
+4) i mezzi di contrasto artificiale in radiodiagnostica; effetti collaterali connessi con il loro impiego e loro terapia;   
+5) semeiotica radiologica;   
+6) diagnostica differenziale radiologica;   
+7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;   
+8) dimostrazioni di casistica clinica;   
+c) radiologia (annuale) comprendente:   
+1) radiobiologia generale;   
+2) danni da radiazioni e radiopatie;   
+d) protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:   
+1) legislazione sanitaria applicata alla radiologia;   
+2) compiti e responsabilita' medico-legali del radiologo;   
+3) radioprotezione fisica e dosimetria ad essa connessa;   
+4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;   
+5) radioprotezione chimica;   
+6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.   
   
-Insegnamenti complementari:  
-1) Biomicroscopia del cristallino, del vitreo e del fondo;  
-2) Perimetria.  
-3° anno:  
+I singoli insegnamenti tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:   
+1° Anno (tronco comune):   
+matematica, fisica, nozioni di statistica ed informatica;   
+radiobiologia;   
+protezioni radiologiche;   
+legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;   
+radiodiagnostica (I).   
+2° Anno:   
+radiodiagnostica (II).   
+3° Anno:   
+radiodiagnostica (III).   
   
-Insegnamenti fondamentali:  
-1) Fisiopatologia o clinica oculistica;  
-2) Medicina operatoria oculare;  
-3) Medicina generale in rapporto all'oculistica;  
-4) Neurologia in rapporto all'oculistica;  
+Art. 128. - Per essere ammessi agli esami di diploma in radiologia e radiologia diagnostica gli iscritti, oltre ad aver compiuto un congruo periodo di internato debbono elaborare una tesi scritta su di un argomento radiologico concordato con il direttore dalla scuola.   
+Dopo l'art. 253, e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione del corso di perfezionamento in neonatologia.   
   
-Insegnamenti complementari:  
-1) Infortunistica;  
-2) Radiologia in rapporto all'oculistica;  
-3) Otorinolaringologia in rapporto all'oculistica;  
-4) Nozioni di neurochirurgia.  
-Art. 160. - L'allievo del primo anno per essere ammesso al secondo anno deve avere ottenuto tutte le firme di frequenza dei corsi fondamentali e complementari del primo anno e deve avere superato gli esami delle materie fondamentali.  
-L'allievo del secondo anno per essere ammesso al terzo anno deve avere ottenuto tutte le firme di frequenza dei corsi fondamentali e complementari del secondo anno e deve aver superato gli esami delle materie fondamentali.  
-Alla fine del terzo anno gli allievi devono sostenere gli esami delle materie fondamentali.  
+Corso di perfezionamento in neonatologia   
   
-Scuola di specializzazione in Anestesiologia  
+Art. 254. - E' istituito presso la facolta' di medicina e chirurgia dell'Universita' di Modena un corso di perfezionamento in neonatologia. Il corso ha fini di aggiornamento sul piano teorico, ma soprattutto di perfezionamento clinico-pratico nell'ambito della neonatologia.   
+La durata del corso e' annuale.   
+Possono essere ammessi al corso gli aspiranti in possesso di un titolo di specializzazione in pediatria (o clinica pediatrica) o in puericultura, conseguito presso una scuola di specializzazione di durata almeno biennale.   
+Il numero degli ammessi resta fissato in dieci.   
   
-Art. 161. - La Scuola di specializzazione in Anestesiologia conferisce il diploma di specialista in Anestesiologia.  
-Art. 162. - La Scuola ha sede presso la Clinica chirurgica generale.  
-Art. 163. - Alla Scuola sono ammessi i laureati in Medicina e chirurgia.  
-Art. 164. - La Scuola ha la durata di due anni con posti disponibili n. 8 per ogni anno. L'ammissione e' per esami.  
-Art. 165. - Gli insegnamenti impartiti dalla Scuola sono:  
-1° anno:  
-1) Anatomia del sistema nervoso centrale e periferico;  
-2) Fisiologia applicata alla anestesia;  
-3) Farmacologia applicata alla anestesia;  
-4) Tecnica anestesiologica generale e speciale (biennale);  
-5) Valutazione dell'operando e cure preoperatorie.  
-2° anno:  
-1) Tecnica anestesiologica generale e speciale (biennale);  
-2) Cure postoperatorie;  
-3) Rianimazione.  
-Gli allievi sono tenuti a seguire i turni di internato stabiliti dalla Direzione della Scuola.  
-Art. 166. - L'esame di profitto su ogni materia di insegnamento si sosterra' alla fine dei singoli corsi.  
-L'allievo del primo anno per essere ammesso al secondo anno deve avere superato gli esami del primo anno.  
+Art. 255. - Il direttore del corso viene designato di anno in anno dal consiglio di facolta' e puo' essere confermato. Il personale insegnante e' nominato di anno in anno dal consiglio di facolta' su proposta del direttore del corso.   
   
-Scuola di specializzazione in Malattie del sangue  
+Art. 256. - Le materie d'insegnamento sono le seguenti:   
+1) clinica della gravidanza, del parto normale e a rischio;   
+2) fisiopatologia e teratologia embrio-fetale;   
+3) genetica della patologia cromosomica e delle materie metaboliche congenite;   
+4) fisiologia neonatale;   
+5) immunologia neonatale;   
+6) biochimica neonatale;   
+7) farmacologia neonatale;   
+8) patologia neonatale;   
+9) diagnostica radiologica neonatale;   
+10) tecniche ii laboratorio riguardanti la fisiologia e patologia neonatale;   
+11) assistenza al neonato sano ed ammalato;   
+12) clinica e terapia neonatale;   
+13) rianimazione e cure intensive neonatali;   
+14) affezioni chirurgiche del neonato;   
+15) anatomia e patologia del feto e del neonato;   
+16) evoluzione ed esiti della patologia feto-neonatale.   
+Gli insegnamenti verranno impartiti attraverso lezioni, seminari, discussioni cliniche ed integrati da conferenze su argomenti specifici pertinenti a problemi di neonatologia.   
   
-Art. 167. - La Scuola di specializzazione in Malattie del sangue conferisce il diploma di specialista in Malattie del sangue.  
-La durata del corso e' di anni due. Il numero dei posti disponibili per ogni anno e' di 20.  
-Art. 168. - Le materie di insegnamento sono le seguenti:  
-1° anno:  
+Art. 257. - L'allievo dovra' ottemperare all'internato obbligatorio per la durata di 10 mesi. In tale periodo egli esplichera' attivita' in sala parto e nei diversi servizi di assistenza e cura del neonato.   
   
-Insegnamenti fondamentali:  
-1) Citologia e patologia del sangue e degli organi ematopoietici;  
-2) Istologia normale e patologica degli organi ematopoietici;  
-3) Fisiopatologia dell'emopoiesi;  
-4) Fisiopatologia dell'emostasi;  
-5) Fisiopatologia del plasma;  
-6) I gruppi sanguigni:  
-7) Immunoematologia.  
-  
-Insegnamenti complementari:  
-1) Applicazioni degli isotopi radioattivi in ematologia;  
-2) Microscopia e chimica clinica relativa alla specialita'.  
-2° anno:  
-  
-Insegnamenti fondamentali:  
-1) Clinica generale delle emopatie;  
-2) Terapia generale e speciale delle emopatie.  
-  
-Insegnamenti complementari  
-1) Malattie parassitarie ed infettive di interesse ematologico;  
-2) Clinica delle emopatie infantili.  
-E' obbligatoria la frequenza alle esercitazioni cliniche e di laboratorio annesse ai corsi.  
-Art. 169. - L'esame di profitto si sostiene alla fine dell'anno di corso.  
-Tutte le materie fondamentali costituiscono un unico gruppo; un esame a parte vertera' sulle materie complementari. L'esame di diploma consiste nella discussione di una dissertazione scritta ed in una prova clinica corredata di ricerche complementari di laboratorio.  
+Art. 258. - Alla fine del corso l'allievo sosterra' un esame globale di profitto con prove teoriche e pratiche e svolgera' una dissertazione orale su un argomento in campo neonatologico con relativa discussione dinanzi ad una commissione formata dal direttore e dagli insegnanti del corso.   
+La sessione di esami sara' unica alla fine del corso.   
+All'allievo che avra' completato le prove con esito favorevole verra' rilasciato un diploma di perfezionamento in neonatologia.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 aprile 1960
+### Dato a Roma, addi' 30 ottobre 1976
 
-GRONCHI MEDICI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 1 giugno 1960
+Registrato alla Corte dei conti, addi' 30 dicembre 1976
 
-Atti del governo, registro n. 127, foglio n. 9. - VILLA
+Registro n. 105 Istruzione, foglio n. 312

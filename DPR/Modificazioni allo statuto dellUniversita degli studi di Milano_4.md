@@ -1,121 +1,54 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 931
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 aprile 1952 n. 873
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 931
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 aprile 1952 n. 873
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
-
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Gli articoli da 427 a 440, relativi alla scuola di specializzazione in fisica sanitaria ed ospedaliera che muta denominazione in scuola di specializzazione in fisica sanitaria, sono sostituiti dai seguenti con il conseguente spostamento della numerazione degli articoli successivi:  
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, numero 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166) e modificato con [legge 1 giugno 1939, n. 872](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;872); con i decreti 26 ottobre 1940, n. 2056 e 15 aprile 1942, n. 423 e con [decreto del Capo provvisorio dello Stato 27 luglio 1947, n. 1138](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-07-27;1138) e con [decreti del Presidente della Repubblica 23 settembre 1949, n. 942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;942); [21 novembre 1949, n. 1194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-11-21;1194) e [13 marzo 1950, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;283);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Scuola di specializzazione in fisica sanitaria  
-Art. 427. - E' istituita la scuola di specializzazione in fisica sanitaria presso l'Universita' degli studi di Milano.  
-La scuola ha lo scopo di provvedere alla formazione dei fisici sanitari da impiegarsi presso unita' sanitarie locali, centri di ricerca pubblici e privati, centri nucleari e di controllo ecologico.  
-La scuola rilascia il titolo di specialista in fisica sanitaria.  
-Art. 428. - La scuola ha la durata di due anni.  
-Ciascun anno di corso prevede duecentocinquanta ore di insegnamento e centocinquanta ore di attivita' pratiche guidate.  
-In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in quindici per ciascun anno di corso per un totale di trenta specializzandi.  
-Art. 429. - Ai sensi della normativa generale, concorrono al funzionamento della scuola le facolta' di scienze matematiche, fisiche e naturali, medicina e chirurgia, il dipartimento di fisica e l'istituto di fisica generale ed applicata.  
-Nel manifesto annuale degli studi viene indicata la sede della direzione della scuola.  
-Art. 430. - Sono ammessi al concorso per ottenere l'iscrizione alla scuola i laureati del corso di laurea in fisica, chimica, chimica industriale ed ingegneria.  
-Sono altresi' ammessi al concorso per l'ammissione alla scuola coloro che siano in possesso del titolo di studio, conseguito presso Universita' straniere e che sia equipollente, ai sensi dell'[art. 332 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art332), a quelli richiesti nei commi precedenti.  
-Art. 431. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-complementi di fisica;  
-elementi di biologia, anatomia e fisiologia umana;  
-fisica e dosimetria delle radiazioni I;  
-strumentazione e tecnologie biometriche I;  
-informatica e statistica nelle applicazioni sanitarie I.  
-2° Anno:  
-protezione personale e ambientale;  
-strumentazione e tecnologie biomediche II;  
-fisica e dosimetria delle radiazioni II;  
-informatica e statistica nelle applicazioni sanitarie II;  
-biofisica.  
-Art. 432. - Oltre le lezioni lo specializzando dovra' frequentare esercitazioni ed attivita' pratiche presso il dipartimento di fisica, i servizi sanitari ospedalieri e i centri di ricerca nazionali ed internazionali.  
-Ai fini delle frequenze e delle attivita' pratiche va riconosciuta utile sulla base di idonea documentazione l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione.  
-Art. 433. - L'Universita', su proposta del consiglio della scuola, puo' stabilire convenzioni con enti pubblici e privati, con finalita' di sovvenzionamento e di utilizzazione di strutture extrauniversitarie per lo svolgimento di attivita' didattiche ai sensi del [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382) e del [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162).  
-
-Art. 2
-------
-
+Decreta:  
   
-Dopo l'art. 433 e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in tecnologie chimiche di processo:  
-  
-Scuola di specializzazione in tecnologie chimiche di processo  
-Art. 434. - E' istituita la scuola di specializzazione in tecnologie chimiche di processo presso l'Universita' di Milano.  
-La scuola prepara tecnologi di moderna formazione per assecondare la conversione dell'industria verso attivita' ad alto contenuto tecnologico. Lo specialista in tecnologie chimiche costituira' l'anello di congiunzione tra il lavoro eseguito dal chimico ricercatore e quello svolto dall'ingegnere di processo.  
-La scuola rilascia il titolo di specialista in tecnologie chimiche di processo.  
-Art. 435. - La scuola ha la durata di due anni.  
-Ciascun anno di corso prevede centoventi ore di insegnamento e duecentoquaranta ore di attivita' pratiche guidate.  
-In base alle strutture e attrezzature disponibili e' in grado di accettare il numero massimo di iscritti determinato in quindici per ciascun anno di corso per un totale di trenta specializzandi.  
-Art. 436. - Concorrono al funzionamento della scuola la facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Milano ed il dipartimento di chimica fisica ed elettrochimica - Universita' di Milano.  
-Nel manifesto annuale degli studi viene indicata la sede della direzione della scuola.  
-Art. 437. - Sono ammessi al concorso per ottenere l'iscrizione alla scuola i laureati del corso di laurea in chimica, chimica industriale e ingegneria chimica.  
-Sono altresi' ammessi al concorso per l'ammissione alla scuola coloro che siano in possesso del titolo di studio conseguito presso Universita' straniere o che sia equipollente ai sensi dell'[art. 332 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art332).  
-Art. 438. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-cinetica applicata ai reattori e catalisi;  
-termodinamica applicata ai processi di separazione;  
-sviluppo dei processi chimici;  
-un corso a scelta tra i seguenti:  
-materiale per l'industria chimica; processi catalitici industriali; chimica organica industriale.  
-2° Anno:  
-misure di regolazione e automazione;  
-affidabilita' e sicurezza nell'industria chimica;  
-due corsi a scelta tra i seguenti:  
-aspetti giuridici e tecnico-economici dell'industria chimica; metodologia di protezione, inibizione e monitoraggio della corrosione; chimica fisica dello stato solido; elettrocatalisi; catalisi e chimica dell'ambiente; catalisi enzimatica, catalisi applicata ai problemi energetici, smaltimento e riutilizzo dei sottoprodotti; metodi sperimentali in catalisi; chimica e tecnologia dell'adesione; risparmi energetici nei processi chimici.  
-Art. 439. - All'inizio di ciascun anno di corso gli specializzandi dovranno concordare con il consiglio della scuola la scelta dei corsi opzionali che dovranno costituire orientamento all'interno della specializzazione, e l'attivita' sperimentale di laboratorio che sara' svolta sotto la guida di un relatore nominato dal consiglio della scuola.  
-Ai fini della frequenza alle lezioni teoriche e altre attivita' pratiche il consiglio della scuola potra' riconoscere utile, sulla base di idonea documentazione, l'attivita', attinente alla specializzazione, svolta all'estero in laboratori universitari o extrauniversitari.  
-Art. 440. - L'Universita' su proposta del consiglio della scuola stabilisce convenzioni con enti pubblici o privati con finalita' di sovvenzionamento e di utilizzazione di strutture extrauniversitarie per lo svolgimento delle attivita' didattiche degli specializzandi ai sensi del [decreto del Presidente della Repubblica n. 382/80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382) e del [decreto del Presidente della Repubblica n. 162/82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;162).  
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' cosi' ulteriormente modificato:  
+Art. 9. - Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di:  
+14) "Storia dei trattati e politica internazionale".  
+All'art. 91 relativo alla scuola di perfezionamento in igiene e tecnica, ospedaliera, il primo, secondo terzo e quarto comma della lettera n), sono abrogati e cosi' sostituiti:  
+Programma:  
+1) L'assistenza ospedaliera nel quadro dell'organizzazione sanitaria; principi ed organizzazione. Storia degli ospedali e delle costruzioni ospedaliere.  
+2) Legislazione sanitaria ed orientamento sanitario italiano.  
+3) L'assistenza e la previdenza sociale in Italia e negli altri Paesi: evoluzione, principi, organizzazione.  
+4) Nozioni di diritto amministrativo e legislazione ospedaliera.  
+5) Epidemiologia e profilassi delle malattie infettive.  
+6) Igiene e tecnica delle costruzioni ospedaliere. Arredamento e impianti sanitari (biennale).  
+7) Organizzazione e funzionamento degli ospedali generali (biennale).  
+8) Organizzazione e funzionamento degli ospedali speciali.  
+9) Alimentazione e dietetica ospedaliera.  
+10) Istruzione professionale del personale di assistenza immediata. Esercitazioni pratiche e tirocini presso l'Istituto di igiene e gli Istituti ospedalieri di Milano. Visite ad ospedali ed impianti sanitari.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 luglio 1986
+### Dato a Torino, addi' 23 aprile 1952
 
-COSSIGA
+EINAUDI SEGNI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: ZOLI
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 14 luglio 1952
 
-Registrato alla Corte dei conti, addi' 18 dicembre 1986
-
-Registro n. 89 Istruzione, foglio n. 380
+Atti dei Governo, registro n. 55, foglio n. 124. - FRASCA

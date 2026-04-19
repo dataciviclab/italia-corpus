@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1981 n. 144
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 155
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1981 n. 144
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 155
 ===============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un legato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-144. Decreto del Presidente della Repubblica 25 febbraio 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 1.000.000, disposto dalla sig.na Giotti Ida a favore dell'Associazione nazionale ciechi, che si identifica con l'Unione italiana dei ciechi, con testamento olografo 10 febbraio 1975, pubblicato in data 3 settembre 1975, n. 47190 di repertorio e n. 12130 di fascicolo, a rogito dott. Franco Lobetti Bodoni, notaio in Torino, registrato a Torino in data 5 settembre 1975 al n. 22773 vol. 1302.  
+155. Decreto del Presidente della Repubblica 26 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato di L. 2.000.000 disposto dalla sig.na Borsetti Clelia con testamento olografo 30 luglio 1977, pubblicato a rogito dott. Afferni Angelo, notaio in Biella (Vercelli), il 28 settembre 1978, n. 1651 di repertorio e n. 110 di fascicolo, registrato a Biella il 16 ottobre 1978 al n. 5865, vol. 149.  
   
-Visto, il Guardasigilli: SARTI  
-Registrato alla Corte dei conti, addi' 13 aprile 1981  
-Registro n. 3 Presidenza, foglio n. 118
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 31 marzo 1982  
+Registro n. 3 Presidenza, foglio n. 115

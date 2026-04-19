@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 marzo 1986 n. 368
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1986 n. 195
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 marzo 1986 n. 368
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1986 n. 195
+===============================================================
 
 Autorizzazione alla fondazione "F.A.I. - Fondo per l'ambiente", in Milano, ad accettare una donazione.
 ------------------------------------------------------------------------------------------------------
@@ -10,11 +10,10 @@ Autorizzazione alla fondazione "F.A.I. - Fondo per l'ambiente", in Milano, ad ac
 Art. 1
 ------
 
-N.
+n.
 
-368. Decreto del Presidente della Repubblica 19 marzo 1986, col quale, sulla proposta del Ministro per i beni culturali e ambientali, la fondazione "F.A.I. - Fondo per l'ambiente", in Milano, viene autorizzata ad accettare la donazione, consistente in un appezzamento di terreno di mq 2783, sito in comune di Camogli, localita' S.  
-Nicolo' - S. Caio, del valore di L. 840.000, disposta dalla sig.ra Maria Luisa Colli, con atto 9 giugno 1977, n. 6068 di repertorio, a rogito dott. Paolo Sala, notaio in Giussano (Milano) e registrato a Giussano in data 21 giugno 1977 al n. 3397.   
+195. Decreto del Presidente della Repubblica 7 febbraio 1986, col quale, sulla proposta del Ministro per i beni culturali e ambientali, la fondazione "F.A.I. - Fondo per l'ambiente", in Milano, viene autorizzata ad accettare la donazione, consistente in un appezzamento di terreno boschivo sito in comune di Rapallo (Genova), con annessa torre antica (saracena), del valore di L. 5.000.000, disposta dalle signore Laura Macchi De Grossi e Mariella De Grossi con atto 2 ottobre 1981, n. 26759 di repertorio, a rogito dottor Francesca Testa, notaio in Milano e registrato a Milano in data 9 ottobre 1981 al n. 17950.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 8 luglio 1986   
-Registro n. 17 Beni culturali, foglio n. 8
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 6 maggio 1986  
+Registro n. 10 Beni culturali, foglio n. 326

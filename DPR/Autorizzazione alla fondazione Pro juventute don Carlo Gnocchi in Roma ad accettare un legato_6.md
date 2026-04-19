@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 532
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 giugno 1975 n. 345
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 532
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 giugno 1975 n. 345
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-532. Decreto del Presidente della Repubblica 28 giugno 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella quota di 1/2 del ricavato della vendita di un immobile sito in Mantova del valore peritato di L. 43.000.000 - quota 1/2 ÷ L. 21.500.000 - disposto dalla sig.ra Benatti Angela a favore dei bambini handicappati della fondazione "Don Gnocchi", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale 16 gennaio 1984 del consiglio di amministrazione della fondazione stessa, con testamento olografo 21 gennaio 1981 e codicillo 16 novembre 1982, pubblicato in data 18 aprile 1983, n. 30039 di repertorio e n. 12059 di raccolta, a rogito dott. Bagnoli Enrico, notaio in Volta Mantovana (Mantova), registrato a Castiglione delle Stiviere (Mantova) il 21 aprile 1983 al n. 780.   
+345. Decreto del Presidente della Repubblica 24 giugno 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dal prof. Guido Riva Crugnola con testamento olografo 17 gennaio 1971, pubblicato per atto del dott. Pietro Cassina, notaio in Milano, in data 2 marzo 1972, n. 76789 di repertorio e n. 17978 di fascicolo, registrato a Milano il 9 marzo 1972 al n. 4794/71. M. serie E, consistente in obbligazioni bancarie per un valore complessivo di lire 9.222.610.  
   
-Visto, il Guardasigilli: ROGNONI   
-Registrato alla Corte dei conti, addi' 22 agosto 1986   
-Registro n. 8 Presidenza, foglio n. 180
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 30 luglio 1975  
+Atti di Governo, registro n. 11, foglio n. 34

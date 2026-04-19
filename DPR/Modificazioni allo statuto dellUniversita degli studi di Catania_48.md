@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1232
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1969 n. 411
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1232
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1969 n. 411
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Catania.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,1034 +20,244 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio universitario nazionale nel suo parere;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sulla
+-----
 
-Sulla proposta del Ministro della pubblica istruzione;
+proposta del Ministro per la pubblica istruzione; Decreta:
 
-Decreta:
---------
-
-Lo statuto dell'Universita' di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
+Art. 1
+------
 
   
+Presso l'Universita' degli studi di Catania e' istituita la facolta' di scienze politiche.  
+L'attuale corso di laurea in scienze politiche, annesso alla facolta' di giurisprudenza, della stessa universita', passa a far parte della nuova facolta' di scienze politiche.  
+
+Art. 2
+------
+
   
-Gli articoli 89, 90, 91, 92, 93, 94 e 95 sono soppressi e, con il conseguente spostamento della numerazione degli articoli successivi, sostituiti dai seguenti:   
-Art. 89. - La durata del corso degli studi e' di cinque anni.   
-Il corso di studi e' articolato nei seguenti tre indirizzi: "produzione vegetale", "tecnico-economico" e "zootecnico". Lo studente e' tenuto a scegliere l'indirizzo non oltre il termine del secondo anno.   
-I titoli di ammissione sono quelli prescritti dalle vigenti disposizioni di legge.   
-Art. 90 - Discipline comuni a tutti gli indirizzi:   
-1) anatomia, fisiologia e morfologia degli animali domestici;   
-2) biochimica agraria;   
-3) botanica generale;   
-3,5) botanica sistematica (semestrale);   
-4,5) chimica;   
-5,5) chimica del suolo;   
-6,5) fisica;   
-7,5) genetica agraria;   
-8,5) istituzioni di economia e di statistica agraria;   
-9,5) matematica;   
-10) zoologia generale agraria (semestrale);   
-11) agronomia generale;   
-12) coltivazioni arboree;   
-13) coltivazioni erbacee;   
-14) costruzioni rurali e topografia;   
-15) economia politica agraria;   
-16) estimo rurale e contabilita';   
-17) industrie agrarie;   
-17,5) istituzioni di entomologia agraria (semestrale);   
-18) istituzioni di microbiologia agraria (semestrale);   
-18,5) istituzioni di patologia vegetale (semestrale);   
-19,5) meccanica e meccanizzazione agricola;   
-20,5) zootecnica;   
-- accertamento della conoscenza di almeno una lingua straniera, mediante colloquio e traduzione di testi scientifici da effettuarsi prima dell'assegnazione della tesi di laurea con docenti di discipline attinenti alla tesi stessa. Le lingue straniere ammesse all'accertamento saranno precisate nel manifesto annuale degli studi.   
-Art. 91 - Discipline caratterizzanti gli indirizzi.   
-Indirizzo di "produzione vegetale":   
-- arboricoltura generale (in sostituzione di "coltivazioni arboree");   
-21) arboricoltura speciale (semestrale) (\*);   
-- coltivazioni erbacee speciali (\*) (in sostituzione di "coltivazioni erbacee");   
-22) fisiologia delle piante coltivate;   
-22,5) entomologia agraria (in sostituzione di "istituzioni di entomologia agraria");   
-23) irrigazione e drenaggio (semestrale) (\*);   
-23,5) microbiologia agraria (in sostituzione di "istituzioni di microbiologia agraria");   
-24,5) miglioramento genetico delle piante agrarie;   
-25) orticoltura (semestrale) (\*);   
-25,5) patologia vegetale (in sostituzione di "istituzioni di patologia vegetale");   
-Indirizzo "tecnico economico":   
-21,5) economia agraria (in sostituzione di "economia e politica agraria");   
-- politica agraria (in sostituzione di "economia e politica agraria");   
-22) entomologia agraria (in sostituzione di "istituzioni di entomologia agraria");   
-23) estimo rurale (in sostituzione di "estimo rurale e contabilita'");   
-- contabilita' e tecnica amministrativa delle imprese in agricoltura (in sostituzione di "estimo rurale e contabilita'");   
-24) economia del mercato dei prodotti agricoli;   
-(\*) Discipline che in determinati orientamenti possono essere sostituite dalla facolta' con corsi a svolgimento piu' ampio, purche' attivate e afferenti alla stessa area disciplinare, fermo restando in 31 il numero complessivo delle annualita'.   
-25) idraulica agraria;   
-- meccanizzazione agricola (in sostituzione di "meccanica e meccanizzazione agricola");   
-25,5) patologia vegetale (in sostituzione di "istituzioni di patologia vegetale");   
-Indirizzo "zootecnico":   
-21,5) fisiologia degli animali in produzione zootecnica;   
-22) foraggicoltura (semestrale);   
-22,5) microbiologia agraria (in sostituzione di "istituzioni di microbiologia agraria");   
-23,5) nutrizione e alimentazione animale;   
-- zootecnica generale e miglioramento genetico (in sostituzione di "zootecnica");   
-24,5) zootecnica speciale I;   
-25,5) zootecnica speciale II.   
-Art. 92 - Orientamenti. - Ogni indirizzo e' articolato in "orientamenti" stabiliti dalla facolta' nel manifesto annuale in base agli insegnamenti attivati. Ciascun orientamento viene definito da un gruppo di discipline, il cui numero concorre al raggiungimento di complessive 31 annualita', scelto dallo studente fra gruppi predisposti dalla facolta'.   
-Art. 93 - Laurea. - Lo studente per accedere all'esame di laurea dovra' aver seguito i corsi e superato gli esami relativi a trentuno discipline annuali o equivalenti (due discipline semestrali equivalgono ad una annuale), avere elaborato una tesi di laurea derivante da ricerca o progettazione o sperimentazione originali ed avere effettuato un tirocinio pratico-applicativo della durata minima da 3 a 6 mesi presso aziende della facolta' o aziende riconosciute dalla facolta' con apposite convenzioni ed indicate nel manifesto annuale degli studi.   
-Art. 94. - Gli insegnamenti impartiti nella facolta' possono comportare esercitazioni pratiche dirette a far acquistare agli studenti l'idoneita' alla ricerca scientifica ed all'esercizio professionale e possono essere integrati da visite ad opifici e ad aziende agricole.   
-Art. 95. - Gli esami di profitto sono orali, ma possono essere integrati da prove scritte o pratiche per le discipline sperimentali e per le materie che sono accompagnate da applicazioni di disegno.   
-Il voto e' pero' complessivo.   
-Il profitto, per il disegno, puo' essere desunto dalle prove grafiche fornite dallo studente durante l'anno.   
-Art. 96. - L'esame di laurea consiste in una discussione orale relativa alla tesi di laurea. Superato l'esame di laurea lo studente consegue il titolo di dottore in scienze agrarie con l'indicazione dell'indirizzo seguito.   
-Art. 97 - Elenco in ordine alfabetico delle discipline del corso di laurea in scienze agrarie.   
+Per tale facolta' sono assegnati i seguenti posti di ruolo:  
+a) tre posti di professore, mediante trasferimento dall'organico di cui e' dotata la facolta' di giurisprudenza della stessa Universita' di Catania e propriamente i posti assegnati alle cattedre di sociologia, istituzioni di diritto privato, istituzioni di diritto pubblico.  
+b) sei posti di assistente mediante trasferimento dall'organico di cui e' dotata la facolta' di giurisprudenza della stessa Universita' di Catania e propriamente i posti assegnati alle cattedre di sociologia, istituzioni di diritto privato, istituzioni di diritto pubblico, diritto pubblico regionale, diritto costituzionale italiano e comparato, istituzioni di diritto e procedura penale.  
+
+Art. 3
+------
+
   
-A   
-Acarologia agraria   
-Acquicoltura   
-Agricoltura e sviluppo economico   
-Agrometereologia   
-Agrometereologia e climatologia   
-Agronomia   
-Agronomia generale   
-Agronomia generale e coltivazioni erbacee   
-Agronomia montana   
-Agronomia tropicale e sub-tropicale   
-Agrumicoltura   
-Algologia   
-Allevamento degli animali di interesse faunistico e venatorio   
-Apicoltura (prati, pascoli e colture di montagna)   
-Analisi chimico-agrarie   
-Analisi chimico-biologica degli alimenti zootecnici   
-Analisi contabile in agricoltura   
-Analisi dei residui fitofarmaci   
-Analisi dei prodotti alimentari   
-Analisi dei sistemi produttivi   
-Anatomia, fisiologia e morfologia degli animali domestici   
-Anatomia vegetale   
-Antiparassitari agricoli   
-Apicoltura   
-Apicoltura e bachicoltura   
-Applicazioni fitoiatriche   
-Approvvigionamenti e industrie degli alimenti di origine animale   
-Approvvigionamento dei prodotti agricoli e alimentari   
-Approvvigionamento energetico in agricoltura   
-Approvvigionamento idrico per l'agricoltura   
-Arboricoltura generale   
-Arboricoltura speciale   
-Architettura rurale   
-Aridocultura   
-Assetto del territorio agricolo e forestale   
-Avicoltura   
-B   
-Bachicoltura   
-Batteriologia fitopatologica   
-Biochimica   
-Biochimica agraria   
-Biochimica degli alimenti   
-Biochimica del suolo   
-Biochimica industriale   
-Biochimica vegetale   
-Biochimica zootecnica   
-Biofisica   
-Biologia agraria   
-Biologia cellulare   
-Biologia generale   
-Biologia, produzione e tecnologia delle sementi   
-Biomatematica   
-Biotecnologia dei microrganismi fotosintetici   
-Biotecnologia delle fermentazioni   
-Botanica   
-Botanica agraria   
-Botanica forestale   
-Botanica generale   
-Botanica sistematica   
-C   
-Cartografia e fotointerpretazione agricola   
-Catasto terreni e fabbricati   
-Cerealicoltura   
-Chimica   
-Chimica agraria   
-Chimica analitica agraria   
-Chimica analitica e strumentale   
-Chimica degli antiparassitari   
-Chimica dei composti urnici   
-Chimica e biochimica dei fitofarmaci e dei fitoregolatori   
-Chimica del suolo   
-Chimica della fertilizzazione   
-Chimica delle acque per uso irriguo   
-Chimica delle fermentazioni   
-Chimica delle sostanze naturali   
-Chimica e tecnologia degli aromi alimentari   
-Chimica forestale   
-Chimica generale ed inorganica   
-Chimica lattiero-casearia   
-Chimica organica   
-Chimica propedeutica I per agraria   
-Chimica propedeutica II per agraria   
-Citologia ed embriologia vegetale   
-Citogenetica vegetale   
-Citogenetica zootecnica   
-Citotassonomia vegetale   
-Classificazione agronomica e cartografia dei suoli   
-Climatologia   
-Climatologia e geopedologia   
-Coltivazione delle specie aromatiche e medicinali   
-Coltivazione e conservazione dei foraggi   
-Coltivazioni arboree   
-Coltivazioni arboree da legno e da frangivento   
-Coltivazioni erbacee   
-Coltivazioni erbacee delle regioni tropicali e subtropicali   
-Coltivazioni erbacee speciali   
-Coltivazioni legnose ornamentali   
-Colture erbacee industriali   
-Colture protette   
-Commercio internazionale dei prodotti agricoli   
-Complementi di costruzioni rurali   
-Complementi di idraulica agraria   
-Complementi di meccanica agraria   
-Coniglicoltura e allevamento degli animali da pelliccia e da   
-laboratorio   
-Contabilita' e tecnica amministrativa delle imprese in agricoltura   
-Controllo degli inquinamenti in agricoltura   
-Controllo delle attivita' vegetative e riproduttive in arboricoltura Controllo e climatizzazione degli ambienti agricoli   
-Cooperazione ed associazione in agricoltura   
-Costruzioni ed impianti per coltivazioni protette   
-Costruzioni rurali   
-Costruzioni rurali e topografia   
-Costruzioni stradali forestali ed agrarie   
-Costruzioni zootecniche   
-D   
-Danni alle colture da avversita' atmosferiche   
-Demografia zootecnica   
-Detergenza e sanificazione degli impianti delle industrie alimentari Diagnostica e terapia fitopatologica   
-Diagnostica e terapia fitovirologica   
-Difesa degli alimenti dagli animali infestanti   
-Difesa e conservazione del suolo   
-Diritto agrario   
-Diritto agrario pubblico   
-Diritto regionale   
-Disegno tecnico e materiali   
-Diserbanti   
-E   
-Ecofisiologia vegetale   
-Ecologia ed epidemiologia dei virus vegetali   
-Ecologia forestale   
-Ecologia microbica   
-Ecologia vegetale agraria   
-Ecologia zootecnica   
-Econometria agraria   
-Economia agraria   
-Economia degli investimenti pubblici e privati in agricoltura   
-Economia del mercato dei mezzi tecnici in agricoltura   
-Economia del mercato dei prodotti agricoli   
-Economia del mercato dei prodotti forestali   
-Economia del mercato dei prodotti zootecnici   
-Economia del mercato fondiario   
-Economia della irrigazione   
-Economia della meccanizzazione in agricoltura   
-Economia della produzione ittica   
-Economia delle industrie agro-alimentari   
-Economia e pianificazione dei Paesi tropicali e sub-tropicali   
-Economia e politica agraria   
-Economia e politica forestale   
-Economia ed estimo forestale   
-Economia montana e forestale   
-Elementi di fisica   
-Elementi di matematica   
-Elementi di meccanica applicata alle macchine agricole   
-Elementi di patologia vegetale   
-Elementi di scienza e tecnica delle costruzioni   
-Elettrificazione agricola   
-Enologia   
-Entomologia agraria   
-Entomologia agraria generale   
-Entomologia agraria speciale   
-Entomologia agraria tropicale e sub-tropicale   
-Entomologia delle piante ortensi, da fiore e ornamentali   
-Entomologia forestale   
-Entomologia forestale tropicale e sub-tropicale   
-Entomologia frutticola   
-Entomologia medica   
-Entomologia merceologica   
-Entomologia urbana   
-Entomologia veterinaria   
-Enzimologia   
-Epidemiologia e previsione delle malattie delle piante   
-Ergotecnica e organizzazione aziendale   
-Ergotecnica, infortunistica e organizzazione del lavoro in   
-agricoltura   
-Erosione e conservazione del suolo   
-Esercitazioni di analisi chimica dei prodotti alimentari   
-Estimo forestale e contabilita'   
-Estimo rurale   
-Estimo rurale e contabilita'   
-Etnologia ed etnografia zootecnica   
-Etologia degli animali da produzione zootecnica   
-F   
-Fertilita' del suolo e nutrizione delle piante   
-Finanziamento e credito in agricoltura   
-Fisica   
-Fisica del terreno agrario   
-Fisica tecnica   
-Fisica tecnica applicata all'agricoltura   
-Fisiologia delle piante coltivate   
-Fisiologia degli animali in produzione zootecnica   
-Fisiologia e tecnica della riproduzione animale   
-Fisiologia post-raccolta dei prodotti frutticoli   
-Fisiologia post-raccolta dei prodotti ortofloricoli   
-Fisiologia vegetale   
-Fisiopatologia degli animali in produzione zootecnica   
-Fisiopatologia vegetale   
-Fitofarmaci   
-Fitogeografia ed ecologia vegetale   
-Fitoiatria   
-Fitomizologia   
-Fitopatie da frigoconservazione   
-Fitopatie non parassitarie   
-Fitormoni e fitoregolatori in arboricoltura   
-Fitormoni e fitoregolatori in ortofloricoltura   
-Fitosociologia   
-Fitotossicita' degli inquinamenti ambientali   
-Flora mellifora e impollinazione   
-Floricoltura   
-Fondamenti di chimica agraria   
-Fondamenti di idrotecnica per l'agricoltura   
-Foraggicoltura   
-Frutticoltura   
-Frutticoltura protetta   
-Frutticoltura tropicale e sub-tropicale   
-G   
-Genesi, classificazione e cartografia dei suoli   
-Genetica agraria   
-Genetica biometrica   
-Genetica dei microrganismi   
-Genetica della produzione sementiera   
-Geobotanica   
-Geologia applicata   
-Geopedologia   
-I   
-Idraulica agraria   
-Idrologia agraria   
-Idrologia e pianificazione delle risorse idriche (facolta' agraria) Igiene degli allevamenti e profilassi   
-Igiene per l'industria alimentare   
-Immunogenetica zootecnica   
-Impianti aziendali   
-Industrie agrarie   
-Industrie alimentari dei prodotti di origine animale   
-Industrie chimico-forestali   
-Infestanti del legname   
-Infrastrutture territoriali agrarie e forestali   
-Ingegneria ambientale dei sistemi agricoli e forestali   
-Ingegneria genetica applicata ai vegetali   
-Ingegneria zootecnica   
-Interazioni macchine e prodotti agricoli   
-Irrigazione e drenaggio   
-Ispezione degli alimenti di origine animale   
-Ispezione fitosanitaria dei prodotti annonari vegetali   
-Istituzioni di agricoltura   
-Istituzioni di economia   
-Istituzioni di economia politica   
-Istituzioni di economia e di statistica agraria   
-Istituzioni di entomologia agraria   
-Istituzioni di genio rurale   
-Istituzioni di microbiologia agraria   
-Istituzioni di patologia vegetale   
-Istituzioni di statistica economico-agraria   
-Istituzioni di tecnologie alimentari   
-Istituzioni e servizi internazionali in agricoltura   
-L   
-Legislazione agraria   
-Legislazione alimentare   
-Legislazione forestale   
-Legislazione zootecnica   
-Lotta alle malerbe   
-Lotta biologica e integrata   
-Lingua francese   
-Lingua inglese   
-Lingua russa   
-Lingua spagnola   
-Lingua tedesca   
-Lingua araba   
-Lingua greca   
-M   
-Macchine agricole   
-Macchine ed automatismi per l'irrigazione   
-Macchine ed impianti di industrie agro-alimentari   
-Macchine per la sistemazione dei terreni agricoli   
-Malattie delle colture industriali da legno   
-Matematica   
-Materiali e tecnica delle costruzioni rurali   
-Meccanica agraria   
-Meccanica del suolo ed interazione macchina terreno   
-Meccanica e meccanizzazione agricola   
-Meccanizzazione agricola   
-Meccanizzazione agricolo-forestale   
-Meccanizzazione degli impianti zootecnici   
-Meccanizzazione delle colture tropicali e sub-tropicali   
-Metodi di lotta chimica contro le crittogame   
-Metodi numerici e statistici applicati all'agricoltura   
-Metodi statistici in economia agraria   
-Metodologia dell'assistenza tecnica e divulgazione in agricoltura   
-Metodologia della pratica estimativa   
-Metodologia sperimentale in agricoltura   
-Metodologia statistica e sperimentale in agricoltura   
-Metodologia statistica in agricoltura   
-Metodologie avanzate di selezione genetica   
-Metodologie di gestione della meccanizzazione agricola   
-Metodologie di selezione per la resistenza genetica alle avversita' Micologia   
-Micologia agraria   
-Micologia fitopatologica   
-Microbiologia agraria   
-Microbiologia degli alimenti di origine animale   
-Microbiologia dei prodotti alimentari   
-Microbiologia del terreno   
-Microbiologia dell'apparato digerente degli animali   
-Microbiologia delle acque   
-Microbiologia enologica   
-Microbiologia forestale   
-Microbiologia generale   
-Microbiologia industriale   
-Microbiologia lattiero-casearia   
-Microbiologia marina   
-Miglioramento genetico degli alberi forestali   
-Miglioramento genetico degli animali in produzione zootecnica   
-Miglioramento genetico delle piante agrarie   
-Miglioramento genetico delle piante legnose da frutto   
-Mineralogia del suolo   
-Mineralogia e geologia   
-Modellistica e programmazione delle aziende in agricoltura   
-Motori e trattrici agricole   
-N   
-Nematologia agraria   
-Neuroendocrinologia degli animali in produzione zootecnica   
-Nutrizione e alimentazione animale   
-Nutrizione minerale delle piante   
-O   
-Olivicoltura   
-Ordinamento e gestione delle industrie zootecniche   
-Organizzazione del lavoro in agricoltura   
-Organizzazione di mercato dei prodotti agricolo-alimentari   
-Organizzazione e gestione dell'azienda agraria   
-Orticoltura   
-Orticoltura e floricoltura   
-Orticoltura e floricoltura tropicale e sub-tropicale   
-P   
-Paesaggistica, parchi e giardini   
-Parassitologia   
-Parassitologia animale dei vegetali   
-Pascoli e foraggere tropicali e sub-tropicali   
-Patologia apicola   
-Patologia dei prodotti e delle derrate agrarie   
-Patologia del legno e derivati   
-Patologia delle colture mediterranee   
-Patologia delle colture protette   
-Patologia delle piante da frutto   
-Patologia delle piante ornamentali e da fiore   
-Patologia delle piante ortensi   
-Patologia delle piante tropicali e sub-tropicali   
-Patologia delle sementi   
-Patologia generale delle piante   
-Patologia vegetale   
-Patologia vegetale forestale   
-Pedologia   
-Pedologia forestale   
-Pedologia tropicale e sub-tropicale   
-Pianificazione agricola e organizzazione del territorio   
-Pianificazione e gestione delle risorse idriche   
-Pianificazione e gestione economica del territorio   
-Pianificazione e programmazione economica in agricoltura   
-Piante ornamentali   
-Piante parassitarie e nocive alle colture agrarie   
-Politica agraria   
-Politica agraria comparata   
-Politica agraria della Comunita' economica europea   
-Pomologia   
-Principi di economia agraria   
-Principi e metodi di applicazione della lotta chimica contro gli   
-insetti   
-Prodotti chimici di uso agrario   
-Produzioni delle sementi ortive e floreali   
-Programmazione economica in agricoltura ed utilizzazione delle   
-risorse   
-Propagazione e vivaismo in orticoltura e floricoltura   
-Proprieta' fisico-meccaniche dei prodotti agricoli e alimentari   
-Protezione della natura e riassetto del paesaggio   
-R   
-Residui e additivi alimentari   
-Resistenza alle malattie e selezione sanitaria delle piante   
-Ricerca operativa in agricoltura   
-Ricerche di mercato in agricoltura   
-Riordinamento fondiario   
-Risorse genetiche agrarie   
-S   
-Selvicoltura e colture industriali da legno   
-Servizi fitopatologici, norme fitosanitarie e quarantena   
-Sistematica ed ecologia delle piante ortive e ornamentali   
-Sistemazioni idrauliche e difesa del suolo   
-Sistemazioni idraulico-forestali   
-Sistemi agricoli comparati   
-Sociologia rurale   
-Statistica agraria Storia dell'agricoltura   
-T   
-Tappeti erbosi   
-Tecnica agronomica dell'irrigazione   
-Tecnica agronomica della fertilizzazione   
-Tecnica degli impianti di riscaldamento e frigoriferi per   
-l'agricoltura   
-Tecnica degli impianti irrigui   
-Tecnica del diserbo   
-Tecnica della bonifica   
-Tecnica della bonifica e dell'irrigazione   
-Tecnica della coltivazione dei funghi   
-Tecnica delle applicazioni frigorifere   
-Tecnica mangimistica   
-Tecnica vivaistica   
-Tecniche delle colture irrigue   
-Tecniche di lotta antiparassitaria   
-Tecniche di lotta biologica   
-Tecniche di protezione delle colture   
-Tecniche di valutazione delle malattie delle piante   
-Tecnologia birraria   
-Tecnologia degli olii, grassi e derivati   
-Tecnologia dei cereali e derivati   
-Tecnologia dei prodotti agrumari   
-Tecnologia dei prodotti alimentari tropicali e sub-tropicali   
-Tecnologia del condizionamento e della distribuzione   
-Tecnologia della conservazione dei prodotti agricoli   
-Tecnologia delle bevande alcooliche   
-Tecnologia delle conserve alimentari   
-Tecnologia delle fermentazioni   
-Tecnologia delle produzioni bovine   
-Tecnologia delle produzioni equine   
-Tecnologia delle produzioni ovine e caprine   
-Tecnologia delle produzioni suine   
-Tecnologia di conservazione e di trasformazione della frutta   
-Tecnologia lattiero-casearia   
-Tecnologia saccarifera dell'amido e derivati   
-Tecnologie alimentari (operazioni fondamentali, processi)   
-Tecnologie chimico-agrarie   
-Tecnologie energetiche per l'agricoltura   
-Tecnologie fisiche in agricoltura   
-Topografia, fotogrammetria e cartografia   
-Topografia rurale   
-Tossine e micotossine di parassiti vegetali   
-Trasformazione e conservazione dei prodotti agricoli   
-Trasformazioni montane e rimboschimento   
-Trattamento dei sottoprodotti degli affluenti e approvvigionamento   
-delle acque   
-U   
-Urbanistica rurale   
-Uso e riciclo delle biomasse in agricoltura   
-V   
-Valore alimentare e qualita' degli ortaggi   
-Valutazione ed amministrazione forestali   
-Valutazione morfo-funzionale degli animali in produzione zootecnica Viabilita' rurale   
-Virologia vegetale   
-Virologia vegetale molecolare   
-Virosi delle colture mediterranee   
-Viticoltura   
-Z   
-Zoocolture   
-Zooeconomia   
-Zoologia agraria   
-Zoologia agraria generale   
-Zoologia agraria speciale   
-Zoologia forestale   
-Zoologia forestale, venatoria e acquicoltura   
-Zoologia generale agraria   
-Zootecnica   
-Zootecnica generale   
-Zootecnica generale e miglioramento genetico   
-Zootecnica montana   
-Zootecnica speciale I   
-Zootecnica speciale II   
-Zootecnica tropicale e sub-tropicale   
-  
-Elenco delle predette discipline del corso di laurea in scienze   
-agrarie suddivise per aree disciplinari   
-  
-Area n. 1 - AGRONOMIA.   
-Agrometereologia   
-Agrometereologia e climatologia   
-Agronomia   
-Agronomia generale   
-Agronomia generale e coltivazioni erbacee   
-Agronomia montana   
-Agronomia tropicale e sub-tropicale   
-Alpicoltura (prati, pascoli e colture di montagna)   
-Aridocoltura   
-Biologia, produzione e tecnologia delle sementi   
-Cerealicoltura   
-Classificazione agronomica e cartografia dei suoli   
-Climatologia   
-Coltivazione e conservazione dei foraggi   
-Coltivazioni erbacee   
-Coltivazioni erbacee speciali   
-Coltivazioni erbacee delle regioni tropicali e sub-tropicali   
-Colture erbacee industriali   
-Ecologia vegetale agraria   
-Fisica del terreno agrario   
-Foraggicoltura   
-Istituzioni di agricoltura   
-Lotta alle malerbe   
-Metodologia sperimentale in agricoltura   
-Metodologia statistica e sperimentale in agricoltura   
-Pascoli e foraggere tropicali e sub-tropicali   
-Tecnica agronomica dell'irrigazione   
-Tecnica agronomica della fertilizzazione   
-Tecnica del diserbo   
-Tecnica delle colture irrigue   
-Area n. 2 - BOTANICA.   
-Algologia   
-Anatomia vegetale   
-Biologia agraria   
-Biologia cellulare   
-Biologia generale   
-Botanica   
-Botanica agraria   
-Botanica forestale   
-Botanica generale   
-Botanica sistematica   
-Cartografia e fotointerpretazione agricola   
-Citologia ed embriologia vegetale   
-Citotassonomia vegetale   
-Ecofisiologia vegetale   
-Ecologia forestale   
-Fisiologia delle piante coltivate   
-Fisiologia vegetale   
-Fitogeografia ed ecologia vegetale   
-Fitosociologia   
-Geobotanica   
-Ingegneria ambientale dei sistemi agricoli e forestali   
-Protezione della natura e riassetto del paesaggio   
-Area n. 3 - CHIMICA AGRARIA.   
-Analisi chimico-agrarie   
-Analisi dei residui di fitofarmaci   
-Biochimica agraria   
-Biochimica del suolo   
-Biochimica vegetale   
-Biochimica zootecnica   
-Chimica   
-Chimica agraria   
-Chimica analitica agraria   
-Chimica analitica e strumentale   
-Chimica degli antiparassitari   
-Chimica dei composti urnici   
-Chimica del suolo   
-Chimica della fertilizzazione   
-Chimica delle acque per uso irriguo   
-Chimica delle sostanze naturali   
-Chimica e biochimica dei fitofarmaci e dei fitoregolatori   
-Chimica forestale   
-Chimica generale ed inorganica   
-Chimica organica   
-Chimica propedeutica I per agraria   
-Chimica propedeutica II per agraria   
-Controllo degli inquinamenti in agricoltura   
-Fertilita' del suolo e nutrizione delle piante   
-Fondamenti di chimica agraria   
-Industrie chimico-forestali   
-Mineralogia e geologia   
-Nutrizione minerale delle piante   
-Prodotti chimici di uso agrario   
-Tecnologie chimico-agrarie   
-Uso e riciclo delle biomasse in agricoltura   
-Area n. 4 - COLTIVAZIONI ARBOREE.   
-Agrumicoltura   
-Arboricoltura generale   
-Arboricoltura speciale   
-Coltivazioni arboree   
-Coltivazioni arboree da legno e da frangivento   
-Coltivazioni legnose sperimentali   
-Controllo delle attivita' vegetative e riproduttive in arboricoltura Fisiologia post-raccolta dei prodotti fruttiferi   
-Fitormoni e fitoregolatori in arboricoltura   
-Frutticoltura   
-Frutticoltura protetta   
-Frutticoltura tropicale e sub-tropicale   
-Miglioramento genetico delle piante legnose da frutta   
-Olivicoltura   
-Pomologia   
-Selvicoltura e colture industriali da legno   
-Tecnica vivaistica   
-Viticoltura   
-Area n. 5 - COSTRUZIONI RURALI.   
-Architettura rurale   
-Assetto del territorio agricolo e forestale   
-Complementi di costruzioni rurali   
-Controllo e climatizzazione degli ambienti agricoli   
-Costruzioni ed impianti per coltivazioni protette   
-Costruzioni rurali   
-Costruzioni rurali e topografia   
-Costruzioni stradali forestali ed agrarie   
-Costruzioni zootecniche   
-Elementi di scienza e tecnica delle costruzioni   
-Infrastrutture territoriali agrarie e forestali   
-Materiali e tecnica delle costruzioni rurali   
-Topografia, fotogrammetria e cartografia   
-Topografia rurale   
-Urbanistica rurale   
-Viabilita' rurale   
-Area n. 6 - ECONOMICO ESTIMATIVA.   
-Agricoltura e sviluppo economico   
-Analisi contabile in agricoltura   
-Analisi dei sistemi produttivi   
-Approvvigionamento dei prodotti agricoli e alimentari   
-Catasto terreni e fabbricati   
-Commercio internazionale dei prodotti agricoli   
-Contabilita' e tecnica amministrativa delle imprese in agricoltura   
-Cooperazione ed associazione in agricoltura   
-Diritto agrario   
-Diritto agrario pubblico   
-Diritto regionale   
-Econometria agraria   
-Economia agraria   
-Economia degli investimenti pubblici e privati in agricoltura   
-Economia del mercato dei mezzi tecnici in agricoltura   
-Economia del mercato dei prodotti agricoli   
-Economia del mercato dei prodotti forestali   
-Economia del mercato dei prodotti zootecnici   
-Economia del mercato fondiario   
-Economia della irrigazione   
-Economia della meccanizzazione in agricoltura   
-Economia della produzione ittica   
-Economia delle industrie agro-alimentari   
-Economia e pianificazione dei Paesi tropicali e sub-tropicali   
-Economia e politica agraria   
-Economia e politica forestale   
-Economia ed estimo forestale   
-Economia montana e forestale   
-Ergotecnica e organizzazione aziendale   
-Estimo forestale e contabilita'   
-Estimo rurale   
-Estimo rurale e contabilita'   
-Finanziamento e credito in agricoltura   
-Istituzioni di economia   
-Istituzioni di economia politica   
-Istituzioni di economia e di statistica agraria   
-Istituzioni di statistica economico-agraria   
-Istituzioni e servizi internazionali in agricoltura   
-Legislazione agraria   
-Legislazione forestale   
-Legislazione zootecnica   
-Metodi numerici e statistici applicati all'agricoltura   
-Metodi statistici in economia agraria   
-Metodologia dell'assistenza tecnica e divulgazione in agricoltura   
-Metodologia della pratica estimativa   
-Metodologia statistica in agricoltura   
-Metodologie di gestione della meccanizzazione agricola   
-Modellistica e programmazione delle aziende in agricoltura   
-Ordinamento e gestione delle industrie zootecniche   
-Organizzazione del lavoro in agricoltura   
-Organizzazione di mercato dei prodotti agricolo-alimentari   
-Organizzazione e gestione dell'azienda agraria   
-Pianificazione agricola ed organizzazione del territorio   
-Pianificazione e gestione economica del territorio   
-Pianificazione e programmazione economica in agricoltura   
-Politica agraria   
-Politica agraria comparata   
-Politica agraria della Comunita' economica europea   
-Principi di economia agraria   
-Programmazione economica in agricoltura ed utilizzazione delle   
-risorse   
-Ricerca operativa in agricoltura   
-Ricerche di mercato in agricoltura   
-Riordinamento fondiario   
-Sistemi agricoli comparati   
-Sociologia rurale   
-Statistica agraria   
-Storia dell'agricoltura   
-Trasformazioni montane e rimboschimento   
-Valutazioni ed amministrazione forestali   
-Zooeconomia   
-Area n. 7 - ENTOMOLOGIA AGRARIA.   
-Acarologia agraria   
-Antiparassitari agricoli   
-Apicoltura   
-Apicoltura e bachicoltura   
-Bachicoltura   
-Difesa degli alimenti dagli animali infestanti   
-Entomologia agraria   
-Entomologia agraria generale   
-Entomologia agraria speciale   
-Entomologia agraria tropicale e sub-tropicale   
-Entomologia delle piante ortensi, da fiore e ornamentali   
-Entomologia forestale   
-Entomologia forestale tropicale e sub-tropicale   
-Entomologia frutticola   
-Entomologia medica   
-Entomologia merceologica   
-Entomologia urbana   
-Entomologia veterinaria   
-Fitomizologia   
-Flora mellifera e impollinazione   
-Infestanti del legname   
-Istituzioni di entomologia agraria   
-Lotta biologica e integrata   
-Nematologia agraria   
-Parassitologia   
-Parassitologia animale dei vegetali   
-Patologia apicola   
-Principi e metodi di applicazione della lotta chimica contro gli   
-insetti   
-Tecniche di lotta antiparassitaria   
-Tecniche di lotta biologica   
-Zoologia agraria   
-Zoologia agraria generale   
-Zoologia agraria speciale   
-Zoologia forestale   
-Zoologia forestale, venatoria e acquicoltura   
-Zoologia generale agraria   
-Area n. 8 - FISICA.   
-Biofisica   
-Elementi di fisica   
-Fisica   
-Area n. 9 - IDRAULICA AGRARIA.   
-Approvvigionamento idrico per l'agricoltura   
-Complementi di idraulica agraria   
-Fondamenti di idrotecnica per l'agricoltura   
-Idraulica agraria   
-Idrologia agraria   
-Idrologia e pianificazione delle risorse idriche (facolta' agraria) Irrigazione e drenaggio   
-Pianificazione e gestione delle risorse idriche   
-Sistemazioni idrauliche e difesa del suolo   
-Sistemazioni idraulico-forestali   
-Tecnica degli impianti irrigui   
-Tecnica della bonifica   
-Tecnica della bonifica e dell'irrigazione   
-Area n. 10 - INDUSTRIE AGRARIE.   
-Analisi dei prodotti alimentari   
-Biochimica   
-Biochimica degli alimenti   
-Biochimica industriale   
-Chimica e tecnologia degli aromi alimentari   
-Chimica lattiero-casearia   
-Detergenza e sanificazione degli impianti delle industrie alimentari Enologia   
-Enzimologia   
-Esercitazioni di analisi chimica dei prodotti alimentari   
-Fisica tecnica   
-Industrie agrarie   
-Industrie alimentari dei prodotti di origine animale   
-Istituzioni di tecnologie alimentari   
-Legislazione alimentare   
-Proprieta' fisico-meccaniche dei prodotti agricoli e alimentari   
-Residui e additivi alimentari   
-Tecnica delle applicazioni frigorifere   
-Tecnologia birraria   
-Tecnologia degli olii, grassi e derivati   
-Tecnologia dei cereali e derivati   
-Tecnologia dei prodotti agrumari   
-Tecnologia dei prodotti alimentari tropicali e sub-tropicali   
-Tecnologia del condizionamento e della distribuzione   
-Tecnologia della conservazione dei prodotti agricoli   
-Tecnologia delle bevande alcooliche   
-Tecnologia delle conserve alimentari   
-Tecnologia di conservazione e di trasformazione della frutta   
-Tecnologia lattiero-casearia   
-Tecnologia saccarifera dell'amido e derivati   
-Tecnologie alimentari (operazioni fondamentali, processi)   
-Tecnologie fisiche in agricoltura   
-Trasformazione e conservazione dei prodotti agricoli   
-Trattamento dei sottoprodotti, degli affluenti e approvvigionamento delle acque   
-Area n. 11 - LINGUE.   
-Lingua francese   
-Lingua inglese   
-Lingua russa   
-Lingua spagnola   
-Lingua tedesca   
-Lingua araba   
-Lingua greca   
-Area n. 12 - MATEMATICA.   
-Biomatematica   
-Elementi di matematica   
-Matematica   
-Area n. 13 - MECCANICA AGRARIA.   
-Approvvigionamento energetico in agricoltura   
-Complementi di meccanica agraria   
-Disegno tecnico e materiali   
-Elementi di meccanica applicata alle macchine agricole   
-Elettrificazione agricola   
-Ergotecnica, infortunistica e organizzazione del lavoro in   
-agricoltura   
-Fisica tecnica applicata all'agricoltura   
-Impianti aziendali   
-Interazioni macchine e prodotti agricoli   
-Istituzioni di genio rurale   
-Macchine agricole   
-Macchine ed automezzi per l'irrigazione   
-Macchine ed impianti di industrie agro-alimentari   
-Macchine per la sistemazione dei terreni agricoli   
-Meccanica agraria   
-Meccanica del suolo ed interazione macchina terreno   
-Meccanica e meccanizzazione agricola   
-Meccanizzazione agricola   
-Meccanizzazione agricolo-forestale   
-Meccanizzazione degli impianti zootecnici   
-Meccanizzazione delle colture tropicali e sub-tropicali   
-Motori e trattrici agricole   
-Tecnica degli impianti di riscaldamento e frigoriferi per   
-l'agricoltura   
-Tecnologie energetiche per l'agricoltura   
-Area n. 14 - MICROBIOLOGIA AGRARIA.   
-Biotecnologia degli organismi fotosintetici   
-Biotecnologia delle fermentazioni   
-Chimica delle fermentazioni   
-Ecologia microbica   
-Genetica dei microrganismi   
-Igiene per l'industria alimentare   
-Ispezione degli alimenti di origine animale   
-Istituzioni di microbiologia agraria   
-Microbiologia agraria   
-Microbiologia degli alimenti di origine animale   
-Microbiologia dei prodotti alimentari   
-Microbiologia del terreno   
-Microbiologia dell'apparato digerente degli animali   
-Microbiologia delle acque   
-Microbiologia enologica   
-Microbiologia forestale   
-Microbiologia generale   
-Microbiologia industriale   
-Microbiologia lattiero-casearia   
-Microbiologia marina   
-Tecnologia delle fermentazioni   
-Area n. 15 - MIGLIORAMENTO GENETICO DELLE PIANTE AGRARIE.   
-Citogenetica vegetale   
-Genetica agraria   
-Genetica biometrica   
-Genetica della produzione sementiera   
-Ingegneria genetica applicata ai vegetali   
-Metodologie avanzate di selezione genetica   
-Metodologie di selezione per la resistenza genetica alle avversita' Miglioramento genetico degli alberi forestali   
-Miglioramento genetico delle piante agrarie   
-Risorse genetiche agrarie   
-Area n. 16 - ORTICOLTURA E FLORICOLTURA.   
-Coltivazione delle specie aromatiche e medicinali   
-Colture protette   
-Fisiologia post-raccolta dei prodotti ortofloricoli   
-Fitormoni e fitoregolatori in ortofloricoltura   
-Floricoltura   
-Orticoltura   
-Orticoltura e floricoltura   
-Orticoltura e floricoltura tropicale e sub-tropicale   
-Paesaggistica, parchi e giardini   
-Piante ornamentali   
-Produzione delle sementi ortive e floreali   
-Propagazione e vivaismo in orticoltura e floricoltura   
-Sistematica ed ecologia delle piante ortive e ornamentali   
-Tappeti erbosi   
-Tecnica della coltivazione dei funghi   
-Tecniche di protezione delle colture   
-Valore alimentare e qualita' degli ortaggi   
-Area n. 17 - PATOLOGIA VEGETALE.   
-Applicazioni fitoiatriche   
-Batteriologia fitopatologica   
-Danni alle colture da avversita' atmosferiche   
-Diagnostica e terapia fitopatologica   
-Diagnostica e terapia fitovirologica   
-Diserbanti   
-Ecologia ed epidemiologia dei virus vegetali   
-Elementi di patologia vegetale   
-Epidemiologia e previsione delle malattie delle piante   
-Fisiopatologia vegetale   
-Fitofarmaci   
-Fitoiatria   
-Fitopatie da frigoconservazione   
-Fitopatie non parassitarie   
-Fitotossicita' degli inquinanti ambientali   
-Ispezione fitosanitaria dei prodotti annonari vegetali   
-Istituzioni di patologia vegetale   
-Malattie delle colture industriali da legno   
-Metodi di lotta chimica contro le crittogame   
-Micologia   
-Micologia agraria   
-Micologia fitopatologica   
-Patologia dei prodotti e delle derrate agrarie   
-Patologia del legno e derivati   
-Patologia delle colture mediterranee   
-Patologia delle colture protette   
-Patologia delle piante da frutto   
-Patologia delle piante ornamentali da fiore   
-Patologia delle piante ortensi   
-Patologia delle piante tropicali e sub-tropicali   
-Patologia delle sementi   
-Patologia generale delle piante   
-Patologia vegetale   
-Patologia vegetale forestale   
-Piante parassitarie e nocive alle colture agrarie   
-Resistenza alle malattie e selezione sanitaria delle piante   
-Servizi fitopatologici, norme fitosanitarie e quarantena   
-Tecniche di valutazione delle malattie delle piante   
-Tossine e micotossine di parassiti vegetali   
-Virologia vegetale   
-Virologia vegetale molecolare   
-Virosi delle colture mediterranee   
-Area n. 18 - PEDOLOGIA.   
-Climatologia e geopedologia   
-Difesa e conservazione del suolo   
-Erosione e conservazione del suolo   
-Genesi, classificazione e cartografia dei suoli   
-Geologia applicata   
-Geopedologia   
-Mineralogia del suolo   
-Pedologia   
-Pedologia forestale   
-Pedologia tropicale e sub-tropicale   
-Area n. 19 - PRODUZIONE ANIMALE.   
-Acquicoltura   
-Allevamento degli animali di interesse faunistico e venatorio   
-Analisi chimico-biologica degli alimenti zootecnici   
-Anatomia, fisiologia e morfologia degli animali domestici   
-Approvvigionamenti e industrie degli alimenti di origine animale   
-Avicoltura   
-Citogenetica zootecnica   
-Coniglicoltura e allevamento degli animali da pelliccia e da   
-laboratorio   
-Demografia zootecnica   
-Ecologia zootecnica   
-Etnologia ed etnografia zootecnica   
-Etologia degli animali in produzione zootecnica   
-Fisiologia degli animali in produzione zootecnica   
-Fisiologia e tecnica della riproduzione animale   
-Fisiopatologia degli animali in produzione zootecnica   
-Igiene degli allevamenti e profilassi   
-Immunogenetica zootecnica   
-Ingegneria zootecnica   
-Miglioramento genetico degli animali in produzione zootecnica   
-Neuroendocrinologia degli animali in produzione zootecnica   
-Nutrizione e alimentazione animale   
-Tecnica mangimistica   
-Tecnologia delle produzioni bovine   
-Tecnologia delle produzioni equine   
-Tecnologia delle produzioni ovine e caprine   
-Tecnologia delle produzioni suine   
-Valutazioni morfo-funzionali degli animali in produzione zootecnica Zoocolture   
-Zootecnica   
-Zootecnica generale   
-Zootecnica generale e miglioramento genetico   
-Zootecnica montana   
-Zootecnica speciale I   
-Zootecnica speciale II   
-Zootecnica tropicale e sub-tropicale   
-  
-Art. 98. - Ogni insegnamento, a giudizio della facolta', nel manifesto potra' avere durata semestrale o annuale.   
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti suindicati', e' ulteriormente modificato come nel testo annesso al presente decreto - vistato dal Ministro per la pubblica istruzione - contenente le norme relative all'ordinamento del corso di studi per il conseguimento della laurea in scienze politiche.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1983
+### Dato a Roma, addi' 2 maggio 1969
 
-PERTINI FALCUCCI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 11 maggio 1984
+Registrato alla Corte dei conti, addi' 23 luglio 1969
 
-Registro n. 27 Istruzione, foglio n. 273
+Atti del Governo, registro n. 228, foglio n. 79. - GRECO
+
+Allegato A
+
+ ALLEGATO A   
+  
+Testo delle modifiche dello statuto dell'Universita' di Catania relativo all'istituzione della facolta' di scienze politiche.   
+  
+Art. 1. - All'elenco delle facolta' che comprende l'Universita' di Catania e' aggiunta la seguente:   
+Facolta' di scienze politiche.   
+Art. 8. - E' abrogato e sostituito dal seguente:   
+Il cap. III e gli articoli 14, 15, 16 e 17 sono abrogati e sostituiti dai seguenti con il conseguente spostamento della successiva numerazione.   
+  
+TITOLO IV   
+  
+Art. 14. - La facolta' di scienze politiche conferisce la laurea in scienze politiche. Nel diploma di laurea e' indicato l'indirizzo seguito dal laureato.   
+Art. 15. - La durata del corso di studi per la laurea in scienze politiche e' di quattro anni. E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.   
+Art. 16. - Il corso di laurea e' articolato in due bienni di cui il primo e' comune a tutti gli iscritti. Il secondo biennio e' articolato in cinque indirizzi:   
+I. - Politico-amministrativo;   
+II. - Politico-economico;   
+III. - Politico-internazionale;   
+IV. - Storico-politico;   
+V. - Politico-sociale.   
+Art. 17. - Per essere ammesso agli esami di laurea lo studente deve aver seguito i corsi e superati gli esami relativi ad almeno venti corsi annuali, oltre a quelli di due lingue straniere. Nel caso di discipline opzionali a corso semestrale, due di esse vengono a formare un unico insegnamento.   
+Art. 18. - Costituiscono insegnamenti obbligatori del primo biennio:   
+a) Istituzioni di diritto pubblico;   
+b) Diritto costituzionale italiano e comparato;   
+c) Economia politica;   
+d) Storia moderna;   
+e) Sociologia;   
+f) Statistica;   
+g) Istituzioni di diritto privato;   
+h) Storia delle dottrine politiche;   
+i) Scienze della politica;   
+l) Prima lingua straniera (biennale).   
+Lo studente potra' aggiungere agli insegnamenti del primo biennio non piu' di tre insegnamenti obbligatori del biennio di specializzazione che intendera' seguire. Tali insegnamenti anticipati andranno in detrazione del numero degli insegnamenti del biennio di specializzazione.   
+Art. 19. - Costituiscono insegnamenti dei bienni di specializzazione:   
+  
+I. - Indirizzo politico-amministrativo:   
+a) Insegnamenti obbligatori:   
+1) Diritto amministrativo (biennale);   
+2) Scienza delle finanze;   
+3) Politica economica e finanziaria;   
+4) Diritto dell'economia;   
+5) Seconda lingua (biennale);   
+b) Sei insegnamenti opzionali, da scegliersi dallo studente nell'elenco predisposto dalla facolta' all'inizio di ogni anno accademico.   
+  
+II. - Indirizzo politicoeconomico:   
+a) Insegnamenti obbligatori:   
+1) Economia politica (2° corso);   
+2) Politica economica e finanziaria;   
+3) Scienza delle finanze;   
+4) Statistica (2° corso);   
+5) Seconda lingua (biennale);   
+b) Sette insegnamenti opzionali, da scegliersi dallo studente nell'elenco predisposto dalla facolta' all'inizio di ogni anno accademico.   
+  
+III. - Indirizzo politico-internazionale:   
+a) Insegnamenti obbligatori:   
+1) Diritto internazionale (biennale);   
+2) Organizzazione internazionale;   
+3) Storia contemporanea;   
+4) Politica economica e finanziaria;   
+5) Seconda lingua (biennale);   
+b) Sei insegnamenti opzionali, da scegliersi dallo studente nell'elenco predisposto dalla facolta' all'inizio di ogni anno accademico.   
+  
+IV. - Indirizzo storico-politico.   
+a) Insegnamenti obbligatori:   
+1) Storia contemporanea (biennale):   
+2) Storia delle istituzioni politiche;   
+3) Storia economica;   
+4) Seconda lingua (biennale);   
+b) Sette insegnamenti opzionali, da scegliersi dallo studente nell'elenco predisposto dalla facolta' all'inizio di ogni anno accademico.   
+  
+V. - Indirizzo politico-sociale:   
+a) Insegnamenti obbligatori:   
+1) Sociologia (2° corso);   
+2) Storia contemporanea;   
+3) Metodologia della ricerca sociale;   
+4) Statistica (2° corso);   
+5) Seconda lingua (biennale);   
+b) Sette insegnamenti opzionali, da scegliersi dallo studente nell'elenco predisposto dalla facolta' all'inizio di ogni anno accademico.   
+Di anno in anno la facolta' potra' modificare l'elenco delle materie obbligatorie e, in ogni caso, deliberera' l'elenco delle materie opzionali da impartirsi, scegliendo le une e le altre dall'elenco che segue:   
+Dottrina dello Stato;   
+Diritto amministrativo;   
+Diritto internazionale;   
+Diritto del lavoro;   
+Storia ed istituzioni dei paesi afro-asiatici;   
+Storia dei trattati e politica internazionale;   
+Geografia politica ed economica;   
+Scienza delle finanze;   
+Istituzioni di diritto e di procedura penale;   
+Antropologia culturale;   
+Contabilita' di Stato;   
+Contabilita' dello Stato e degli enti pubblici;   
+Criminologia;   
+Demografia;   
+Diplomazia e diritto diplomatico;   
+Diritto anglo-americano;   
+Diritto canonico;   
+Diritto commerciale;   
+Diritto degli enti locali;   
+Diritto delle comunita' europee;   
+Diritto dell'economia;   
+Diritto diplomatico e consolare;   
+Diritto ecclesiastico;   
+Diritto ecclesiastico italiano e comparato;   
+Diritto finanziario;   
+Diritto internazionale privato;   
+Diritto parlamentare;   
+Diritto privato comparato;   
+Diritto processuale amministrativo;   
+Diritto processuale civile;   
+Diritto pubblico americano;   
+Diritto pubblico comparato;   
+Diritto pubblico dell'economia;   
+Diritto pubblico romano;   
+Diritto regionale;   
+Diritto tributario;   
+Dottrine giuridiche;   
+Econometria;   
+Economia aziendale;   
+Economia dei paesi in via di sviluppo;   
+Economia e politica agraria;   
+Economia e politica Industriale;   
+Economia e politica monetaria;   
+Economia internazionale;   
+Elementi di diritto romano;   
+Etnologia;   
+Filosofia del diritto;   
+Filosofia morale;   
+Istituzioni giuridiche dell'Europa orientale;   
+Istituzioni politiche comparate;   
+Legislazione del lavoro;   
+Legislazione sociale;   
+Matematica per economisti;   
+Matematiche per le scienze sociali;   
+Metodologia della ricerca storica;   
+Metodologia delle scienze sociali;   
+Organizzazione economico-internazionale;   
+Pianificazione ed organizzazione territoriale;   
+Programmazione economica;   
+Psicologia;   
+Psicologia dinamica;   
+Psicologia sociale;   
+Relazioni internazionali;   
+Ricerca operativa;   
+Scienza dell'amministrazione;   
+Sociologia del lavoro e della industria;   
+Sociologia della conoscenza;   
+Sociologia della famiglia;   
+Sociologia delle comunicazioni;   
+Sociologia dell'educazione;   
+Sociologia dell'organizzazione;   
+Sociologia economica;   
+Sociologia giuridica;   
+Sociologia politica;   
+Sociologia religiosa;   
+Sociologia urbana e rurale;   
+Statistica economica;   
+Statistica per la ricerca economica;   
+Storia antica;   
+Storia dei concordati;   
+Storia dei movimenti sindacali;   
+Storia dei partiti e dei movimenti politici;   
+Storia del giornalismo;   
+Storia dei rapporti fra Stato e Chiesa;   
+Storia del diritto italiano;   
+Storia della Chiesa;   
+Storia dell'amministrazione pubblica;   
+Storia dell'economia;   
+Storia delle dottrine economiche;   
+Storia delle istituzioni religiose;   
+Storia del pensiero sociologico;   
+Storia del Risorgimento;   
+Storia e istituzioni dei paesi di lingua orientale;   
+Storia e istituzioni dell'Europa orientale;   
+Storia e politica monetaria;   
+Storia e politica navale;   
+Storia medioevale;   
+Storia e sistemi delle relazioni fra Stato e Chiesa nella eta' moderna;   
+Storia moderna e contemporanea della Chiesa e delle altre confessioni cristiane;   
+Storia politica e diplomatica dell'Asia orientale;   
+Tecnica dell'organizzazione e dei servizi amministrativi;   
+Teoria e politica dello sviluppo;   
+Teoria generale del diritto.   
+Per ogni indirizzo l'elenco predisposto dalla facolta' non puo' comprendere piu' di quindici insegnamenti annuali. Di questi non piu' di sette, e non meno di quattro, sono fissati dalla facolta' come obbligatori a tutti gli studenti dell'indirizzo.   
+Gli altri saranno scelti dallo studente nell'ambito dei restanti insegnamenti del suddetto elenco, predisposto dalla facolta' all'inizio di ogni anno accademico.   
+Gli insegnamenti a scelta dello studente non possono essere anticipati al biennio propedeutico.   
+Alcuni insegnamenti possono essere mutuati da quelli impartiti in altre facolta'.   
+Art. 20. - Per superare gli esami di laurea, lo studente ha facolta' di scegliere fra una dissertazione scritta, singola o di gruppo, su argomento concordato col professore ufficiale di una delle materie di insegnamento, o una dissertazione orale concordata con tre professori ufficiali dei gruppi di discipline che caratterizzano l'indirizzo specialistico seguito. Nel caso di dissertazione di gruppo, deve essere individuabile il contributo di ciascun candidato.   
+Art. 21. - Lo studente, all'atto dell'iscrizione al 3° anno di corso, dovra' indicare per quale degli indirizzi previsti ed attuati intenda optare. La iscrizione al 3° anno di corso e' subordinata al superamento di almeno sette esami del primo biennio, esclusi quelli di lingue. Gli esami del primo biennio sono propedeutici' rispetto agli esami del secondo biennio, esclusi quelli di lingue.   
+Art. 22. - Il passaggio da un indirizzo ad un altro potra' essere autorizzato dalla facolta', previa convalida degli esami gia' sostenuti e delle frequenze. Lo studente, solo su autorizzazione della facolta', potra' scegliere corsi opzionali diversi da quelli previsti per ogni singolo indirizzo, anche se svolti per altri indirizzi o presso altre facolta'. Per gli insegnamenti pluriennali', lo studente deve sostenere le prove di esame alla fine di ciascun anno di corso.   
+  
+Visto, d'ordine del Presidente della Repubblica   
+  
+Il Ministro per la pubblica istruzioni   
+FERRARI AGGRADI   

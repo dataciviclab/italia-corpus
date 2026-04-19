@@ -1,118 +1,39 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 879
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1970 n. 540
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 879
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1970 n. 540
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Perugia e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Il primo comma dell'art. 110, relativo alla scuola di specializzazione in endocrinologia, e' sostituito dal seguente:  
-"La scuola ha la durata di anni tre; il numero degli iscritti e' limitato a dodici per ogni anno di corso".  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933; n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [decreto del Presidente della Repubblica 27 maggio 1969, n. 325](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-05-27;325), con il quale veniva assegnato un posto di assistente di ruolo alla cattedra di istituzioni di diritto pubblico del corso di laurea in economia e commercio;  
+Veduto il [decreto del Presidente della Repubblica 27 maggio 1969, n. 326](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-05-27;326), con il quale veniva assegnato un posto di assistente di ruolo alla cattedra di istituzioni di diritto pubblico e un posto di assistente di ruolo alla cattedra di politica economica e finanziaria entrambi del corso di laurea in economia e commercio;  
+Veduto il [decreto del Presidente della Repubblica 29 maggio 1969, n. 413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-05-29;413), con il quale veniva stabilito l'organico della nuova facolta' di economia e commercio della stessa Universita' di Perugia;  
+Riconosciuta la necessita' di specificare meglio l'assegnazione dei suddetti posti di assistente di ruolo;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Il primo comma dell'art. 113, relativo alla scuola di specializzazione in oftalmologia, e' sostituito dal seguente:  
-"La scuola ha la durata di quattro anni. Il numero degli studenti che possono essere iscritti e' limitato a cinque per ogni anno di corso".  
-
-Art. 3
-------
-
+Decreta:  
   
-Il primo comma dell'art. 114, relativo alla scuola di specializzazione in chirurgia, e' sostituito dal seguente:  
-"La scuola ha la durata di cinque anni; il numero degli iscritti e' limitato a nove per ogni anno di corso".  
-
-Art. 4
-------
-
-  
-Il primo comma dell'art. 115, relativo alla scuola di specializzazione in medicina interna, e' sostituito dal seguente:  
-"La scuola ha la durata di cinque anni; il numero degli iscritti e' limitato a dieci per ogni anno di corso".  
-
-Art. 5
-------
-
-  
-Il primo comma dell'art. 116, relativo alla scuola di specializzazione in igiene e medicina preventiva, e' sostituito dal seguente:  
-"La scuola ha la durata di tre anni; il numero degli studenti che possono essere iscritti e' limitato a venti per ogni anno di corso".
-
-Art. 6
-------
-
-  
-Il quinto comma dell'art. 118, relativo alla scuola di specializzazione in anestesia e rianimazione, e' sostituito dal seguente:  
-"Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di trenta iscritti per l'intero corso di studi".  
-
-Art. 7
-------
-
-  
-Il quinto comma dell'art. 121, relativo alla scuola di specializzazione in cardiologia, e' sostituito dal seguente:  
-"Il numero massimo degli allievi e' di dodici per anno di corso e complessivamente di quarantotto iscritti per l'intero corso di studi".  
-
-Art. 8
-------
-
-  
-Il secondo comma dell'art. 122, relativo alla scuola di specializzazione in odontostomatologia, e' sostituito dal seguente:  
-"Il numero dei posti disponibili per ogni anno accademico e' limitato a sei (totale diciotto iscritti)".  
-
-Art. 9
-------
-
-  
-Il primo comma dell'art. 125, relativo alla scuola di specializzazione in neurologia e' sostituito dal seguente:  
-"La scuola ha la durata di quattro anni; il numero degli iscritti e' limitato a sei per ogni anno di corso".  
-
-Art. 10
--------
-
-  
-Il primo comma dell'art. 127, relativo alla scuola di specializzazione in psichiatria, e' sostituito dal seguente:  
-"La scuola ha la durata di quattro anni; il numero degli iscritti e' limitato ad otto per ogni anno di corso".  
+L'art. 2 del suddetto nostro decreto 29 maggio 1969, n. 413, e' integrato nel senso che ai diciassette posti di assistente di ruolo assegnati alla facolta' di economia e commercio, mediante trasferimento dall'organico di cui e' dotata la facolta' di scienze politiche, sono aggiunti i tre posti di assistenti di ruolo concessi con i nostri due decreti 27 maggio 1969, n. 325 e 326 e assegnati al corso di laurea in economia e commercio e cioe': due assegnati alla cattedra di istituzioni di diritto pubblico e uno alla cattedra di politica economica e finanziaria.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 ottobre 1981
+### Dato a Roma, addi' 18 maggio 1970
 
-PERTINI BODRATO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 20 gennaio 1982
+Registrato alla Corte dei conti, addi' 24 luglio 1970
 
-Registro n. 6 Istruzione, foglio n. 93
+Atti del Governo, registro n. 236, foglio n. 184. - IZZI

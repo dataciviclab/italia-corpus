@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 giugno 1976 n. 577
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 64
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 giugno 1976 n. 577
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 64
 =============================================================
 
 Modificazioni allo statuto del libero Istituto universitario di medicina e chirurgia dell'Aquila.

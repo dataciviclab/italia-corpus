@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 980
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1106
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 980
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1106
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
@@ -12,53 +12,60 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1933, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1935, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-11;312);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Sulla
------
+Sulla proposta del Ministro della pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
+--------
 
-Articolo unico
---------------
+Lo statuto dell'Universita' di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 1
+------
 
   
-Lo statuto dell'Universita' di Trieste e' cosi' modificato:  
-Dopo l'art. 69, con il conseguente spostamento della numerazione dei successivi articoli, sono aggiunti i nuovi seguenti articoli:  
-Art. 70. - Alla facolta' di magistero dell'Universita' di Trieste e' annesso un centro europeo di ricerca e di documentazione per la formazione degli insegnanti.  
-Esso fa parte integrante dell'istituto di pedagogia gia' esistente presso la stessa facolta'.  
-La finalita' di tale centro e' promuovere ricerche a livello scientifico e indagini comparative sui metodi, le tecniche, i curricoli per la formazione di base e in servizio degli insegnanti dei vari ordini e gradi; raccogliere una documentazione in proposito; organizzare gruppi di studio e seminari a carattere internazionale; attuare scambi in particolare con i Paesi confinanti con la regione Friuli-Venezia Giulia.  
-Art. 71. - Il consiglio della facolta' di magistero nomina il consiglio direttivo del centro: sono membri di diritto il preside della facolta' di magistero o un suo rappresentante, il direttore dell'istituto di pedagogia e tre docenti scelti tra quelli ufficiali della facolta'.  
-Il consiglio potra' invitare anno per anno, come aggregati, rappresentanti di altre universita', di organizzazioni internazionali, delle amministrazioni locali e delle categorie professionali.  
-Gli aggregati avranno titolo di consulenti senza voto deliberativo.  
-Il consiglio direttivo del centro si riunira' di norma al completo due volte all'anno.  
-Art. 72. - Il finanziamento del centro sara' costituito di una dotazione annua nell'ambito del finanziamento dell'istituto e da contributi speciali dell'Universita', della facolta', dello Stato, degli enti locali e dei privati o dai proventi risultanti di iniziative del centro stesso.  
-La contabilita' del centro e' prevista nell'ambito della contabilita' dell'istituto di pedagogia secondo le norme amministrative vigenti nell'Universita'.  
-Art. 73. - Il centro si vale delle attrezzature didattiche e scientifiche della facolta' di magistero e in particolare di quelle dell'istituto di pedagogia, con le integrazioni che via via saranno previste dal consiglio del centro e approvate dal consiglio della facolta'.  
-Art. 74. - Il consiglio direttivo puo' istituire un albo di esperti del centro e di corrispondenti; il consiglio della facolta' potra' autorizzare che la documentazione raccolta dal centro e le sue ricerche siano fatte pubblicamente conoscere anche con pubblicazioni sia in volume sia in periodico.  
+Nell'art. 61, relativo al corso di laurea in materie letterarie, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+filologia italiana;  
+geografia economica;  
+storia contemporanea;  
+storia economica.  
+
+Art. 2
+------
+
+  
+Nell'art. 62, relativo al corso di laurea in pedagogia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+psicologia sociale;  
+psicolinguistica;  
+sociologia dell'educazione;  
+educazione degli adulti;  
+glottodidattica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1979
+### Dato a Roma, addi' 31 ottobre 1981
 
-PERTINI VALITUTTI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 8 ottobre 1980
+Registrato alla Corte dei conti, addi' 10 marzo 1982
 
-Registro n. 92 Istruzione, foglio n. 131
+Registro n. 38 Istruzione, foglio n. 273

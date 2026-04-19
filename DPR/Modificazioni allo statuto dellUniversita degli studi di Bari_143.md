@@ -1,45 +1,102 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1961 n. 163
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 212
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1961 n. 163
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 212
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione; Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
+Articolo unico
+--------------
+
   
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Dopo l'art. 267 e' inserito il seguente nuovo articolo relativo alla istituzione della scuola diretta a fini speciali di preparazione per tecnici di colpocitologia presso la facolta' di medicina e chirurgia:  
   
-Art. 52. - Dall'elenco degli insegnamenti complementari del corso di laurea in lettere e' soppresso quello di "Letteratura anglo-americana".  
-Art. 64. - Agli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti quelli di "Sociologia", "Estetica", "Storia del Cristianesimo", "Igiene".  
-Dopo l'art. 77, e' aggiunto il seguente nuovo articolo, relativo alla creazione dell'Istituto di geografia presso la Facolta' di magistero, con il conseguente spostamento della, numerazione degli articoli successivi.  
-Art. 78. - Alla Facolta' di magistero e' annesso lo Istituto di geografia.  
+Scuola speciale di preparazione per tecnici di colpocitologia Presso la prima clinica ostetrica e ginecologica dell'Universita' degli studi di Bari si istituisce la scuola speciale di preparazione per tecnici di colpocitologia, che ha lo scopo di preparare adeguatamente personale tecnico nel campo della diagnostica precoce delle neoplasie maligne dell'apparato genitale femminile.  
+La scuola ha indirizzo teorico-pratico.  
+La durata del corso degli studi della scuola e' di due anni accademici.  
+L'istituto e' provvisto di dieci microscopi: tre di essi corredati di contrasto di fase; due forniti di apparecchiature fotografiche; tre colposcopi di cui uno con apparecchiatura fotografica; coloratore automatico per vetrini, quattro serie complete di vaschette per colorazione; diapositive, proiettore, schemi e materiale vario per didattica.  
+L'istituto ha un organico di personale non docente costituito da tre tecnici diplomati, tre tecniche ostetriche, un bibliotecario ed un bidello.  
+Il titolo di studio richiesto per l'ammissione e' il diploma di scuola media di secondo grado.  
+Il numero massimo dei partecipanti e' di dodici per anno di corso.  
+Al primo anno di scuola si accede previo esame di cultura generale sostenuto davanti ad una commissione composta dal direttore della scuola e da due insegnanti della stessa scuola. Le domande di iscrizione, su carta legale, dovranno essere presentate dal 1 agosto al 30 ottobre ed essere corredate dai seguenti documenti tutti in regola con il bollo: 1) certificato di nascita in carta legale; 2) diploma di scuola media superiore; 3) due fotografie di cui una autenticata in bollo; 4) titoli eventualmente posseduti dal candidato.  
+L'esame di ammissione avra' luogo il 15 novembre.  
+Le materie di insegnamento saranno cosi' ripartite:  
+1° Anno:  
+cardiologia;  
+citologia generale;  
+nozioni di anatomia ed istologia normale dell'apparato genitale femminile;  
+nozioni di fisiologia dell'apparato genitale femminile;  
+nozioni di anatomia ed istologia patologica dello apparato genitale femminile;  
+nozioni di endocrinologia ginecologica;  
+nozioni di microscopia;  
+tecnica citologica;  
+nozioni di microbiologia applicata alla ginecologia;  
+fisiocitologia ginecologica;  
+colpomicroscopia;  
+colposcopia I.  
+2° Anno:  
+tecnica istologica;  
+istopatologia del collo dell'utero;  
+istopatologia endometriale;  
+citopatologia ginecologica;  
+citochimica;  
+colposcopia II;  
+medicina sociale ed educazione sanitaria;  
+isto e citopatologia mammaria;  
+tecniche di diagnosi precoce del carcinoma mammario;  
+cito-patologia peritoneale;  
+urocitogramma in ginecologia;  
+cito-isto e colpofotografia.  
+Direttore della scuola e' un insegnante di una delle materie impartite nella scuola, designato dal direttore della prima clinica ostetrica e ginecologica presso cui e' annessa la scuola stessa, previo parere del consiglio di facolta' di medicina e chirurgia.  
+Gli incarichi di insegnamento sono conferiti dal rettore, su proposta del consiglio di facolta' di medicina e chirurgia, udito il direttore della scuola.  
+Le tasse e soprattasse annuali a carico degli iscritti resteranno cosi' destinate:  
+  
+tassa di immatricolazione. . . . . . . . . . . . . . . . . . L. 2.000 tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 50.000 soprattassa annuale di esami. . . . . . . . . . . . . . . . L. 15.000 tassa di diploma . . . . . . . . . . . . . . . . . . . . . . L. 6.000   
+Il consiglio di amministrazione dell'universita', su proposta della direzione della scuola, approvata dal consiglio di facolta', stabilisce di anno in anno l'ammontare dei contributi.  
+Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni e contributi di enti pubblici e di privati.  
+Gli iscritti alla scuola hanno l'obbligo alla frequenza. Per essere ammessi al secondo anno di corso debbono aver superato gli esami del primo corso. Per sostenere gli esami di diploma gli allievi dovranno aver seguito i corsi, superati gli esami di tutte le materie prescritte e aver compiuto con esito favorevole tutte le esercitazioni pratiche previste.  
+L'esame di diploma consiste in un esame orale sui temi trattati durante il corso ed in una o piu' prove pratiche stabilite dalla commissione esaminatrice.  
+Agli allievi che avranno superato gli esami finali verra' rilasciato un diploma di tecnico di citologia.  
+La commissione per gli esami di profitto e' nominata dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola, presidente, da un professore ufficiale di materie affini e da un libero docente della materia.  
+La commissione per gli esami di diploma e' formata da cinque membri, composta dal direttore della scuola e da quattro altri insegnanti della scuola nominati dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 febbraio 1961
+### Dato a Roma, addi' 14 gennaio 1980
 
-GRONCHI BOSCO
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 27 marzo 1961
+Registrato alla Corte dei conti, addi' 26 maggio 1980
 
-Atti del Governo, registro n. 135, foglio n. 91. - VILLA
+Registro n. 49 Istruzione, foglio n. 235

@@ -1,16 +1,16 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 luglio 1978 n. 712
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 842
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 luglio 1978 n. 712
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 842
+==============================================================
 
-Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
---------------------------------------------------------------------------------
+Modificazioni allo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano.
+----------------------------------------------------------------------------------
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
+Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -22,159 +22,398 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 12 - all'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti:
+
+Diritto dell'economia;
+
+Diritto della previdenza sociale;
+
+Analisi finanziaria e finanza aziendale;
+
+Statistica matematica;
+
+Tecnica dei cambi.
+
+Art. 13 - all'elenco degli insegnamenti complementari del corso di diploma in statistica sono aggiunti i seguenti;
+
+Elementi di calcolo delle probabilita';
+
+Elementi di teoria dei campioni;
+
+Controllo statistico delle qualita'.
 
 Art. 15 - all'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:
 
-storia comparata delle lingue classiche;
+Storia del diritto canonico medioevale;
 
-egittologia;
+Lingua a letteratura ceca;
 
-storia della teologia patristica;
+Lingua e letteratura slovacca;
 
-storia della teologia medioevale;
+Storia dell'Europa orientale;
 
-storia della teologia moderna e contemporanea;
+Storia della lingua russa;
 
-sociologia religiosa;
+Lingua e letteratura olandese;
 
-storia dell'arte contemporanea;
+Lingua ceca;
 
-storia della critica e della storiografia letteraria;
+Lingua polacca;
 
-drammaturgia teorica;
+Lingua serbo-croata;
 
-semiologia;
+Lingua danese;
 
-sociologia della comunicazione e della cultura;
+Lingua svedese;
 
-storia delle teoriche del cinema;
+Lingua neo-greca;
 
-storia delle teoriche teatrali;
+Lingua francese;
 
-storia e teoria degli audiovisivi;
+Lingua inglese;
 
-dottrina e tecnica del giornalismo;
+Lingua spagnola;
 
-storia e teoria del linguaggio giornalistico;
+Lingua russa;
 
-disciplina giuridica dei mezzi di comunicazione sociale;
+Lingua tedesca;
 
-storia delle tecniche artistiche e del restauro;
+Lingua ungherese;
 
-storia dell'arte lombarda.
+Lingua araba;
+
+Lingua romena;
+
+Lingua ebraica.
 
 Art. 16 - all'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:
 
-drammaturgia teorica;
+Storia del diritto canonico medioevale;
 
-semiologia;
+Lingua e letteratura ceca;
 
-sociologia della comunicazione e della cultura;
+Lingua e letteratura slovacca;
 
-storia delle teoriche del cinema;
+Storia dell'Europa orientale;
 
-storia delle teoriche teatrali;
+Storia della lingua russa;
 
-storia e teoria degli audiovisivi;
+Lingua e letteratura olandese;
 
-dottrina e tecnica del giornalismo;
+Lingua ceca;
 
-storia e teoria del linguaggio giornalistico;
+Lingua polacca;
 
-disciplina giuridica dei mezzi di comunicazione sociale.
+Lingua serbo-croata;
+
+Lingua danese;
+
+Lingua svedese;
+
+Lingua neo-greca;
+
+Lingua francese;
+
+Lingua inglese;
+
+Lingua spagnola;
+
+Lingua russa;
+
+Lingua tedesca;
+
+Lingua ungherese;
+
+Lingua araba;
+
+Lingua romena;
+
+Lingua ebraica.
 
 Art. 17 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne sono aggiunti i seguenti:
 
-storia comparata delle lingue classiche;
+Lingua e letteratura ceca;
 
-lingue e letterature scandinave.
+Lingua e letteratura slovacca;
+
+Storia dell'Europa orientale;
+
+Storia della lingua russa;
+
+Lingua e letteratura olandese;
+
+Lingua ceca;
+
+Lingua polacca;
+
+Lingua serbo-croata;
+
+Lingua danese;
+
+Lingua svedese;
+
+Lingua neo-greca;
+
+Lingua francese;
+
+Lingua inglese;
+
+Lingua spagnola;
+
+Lingua russa
+
+Lingua tedesca;
+
+Lingua ungherese;
+
+Lingua araba;
+
+Lingua romena;
+
+Lingua ebraica.
+
+Art. 18 - all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:
+
+Antropologia culturale;
+
+Psicolinguistica;
+
+Teorie della personalita';
+
+Storia del Cristianesimo;
+
+Storia delle istituzioni politiche e sociali;
+
+Storia della scienza e della tecnica;
+
+Glottodidattica;
+
+Metodologia e didattica delle lingue straniere;
+
+Storia della storiografia;
+
+Metodologia della ricerca storica;
+
+Storia e tecnica dell'informazione.
+
+Art. 19 - all'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti seguenti:
+
+Storia del Cristianesimo;
+
+Storia delle istituzioni politiche e sociali;
+
+Storia della scienza e della tecnica;
+
+Storia della storiografia;
+
+Metodologia della ricerca storica;
+
+Storia e tecnica dell'informazione;
+
+Glottodidattica;
+
+Metodologia e didattica delle lingue straniere;
+
+Pedagogia comparata;
+
+Pedagogia speciale;
+
+Teorie della personalita';
+
+Psicolinguistica;
+
+Neuropsichiatria infantile.
+
+Art. 20 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:
+
+Storia della lingua francese;
+
+Storia della lingua inglese;
+
+Storia della lingua tedesca;
+
+Glottodidattica;
+
+Storia delle istituzioni politiche e sociali;
+
+Metodologia e didattica delle lingue straniere;
+
+Antropologia culturale;
+
+Psicolinguistica.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 27 luglio 1978
+Dato a Roma, addi' 31 ottobre 1974
 
-PERTINI
+LEONE
 
-PEDINI
+MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 6 novembre 1978 Registro n. 119 Istruzione, foglio n. 63
+alla Corte dei conti, addi' 13 febbraio 1975 Atti di Governo, registro n. 8, foglio n. 123
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;  
+Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Riconosciuta la particolare necessita' di approvare le modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Art. 12 - all'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti:  
+Diritto dell'economia;  
+Diritto della previdenza sociale;  
+Analisi finanziaria e finanza aziendale;  
+Statistica matematica;  
+Tecnica dei cambi.  
+  
+Art. 13 - all'elenco degli insegnamenti complementari del corso di diploma in statistica sono aggiunti i seguenti;  
+Elementi di calcolo delle probabilita';  
+Elementi di teoria dei campioni;  
+Controllo statistico delle qualita'.  
+  
 Art. 15 - all'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
-storia comparata delle lingue classiche;  
-egittologia;  
-storia della teologia patristica;  
-storia della teologia medioevale;  
-storia della teologia moderna e contemporanea;  
-sociologia religiosa;  
-storia dell'arte contemporanea;  
-storia della critica e della storiografia letteraria;  
-drammaturgia teorica;  
-semiologia;  
-sociologia della comunicazione e della cultura;  
-storia delle teoriche del cinema;  
-storia delle teoriche teatrali;  
-storia e teoria degli audiovisivi;  
-dottrina e tecnica del giornalismo;  
-storia e teoria del linguaggio giornalistico;  
-disciplina giuridica dei mezzi di comunicazione sociale;  
-storia delle tecniche artistiche e del restauro;  
-storia dell'arte lombarda.  
+Storia del diritto canonico medioevale;  
+Lingua a letteratura ceca;  
+Lingua e letteratura slovacca;  
+Storia dell'Europa orientale;  
+Storia della lingua russa;  
+Lingua e letteratura olandese;  
+Lingua ceca;  
+Lingua polacca;  
+Lingua serbo-croata;  
+Lingua danese;  
+Lingua svedese;  
+Lingua neo-greca;  
+Lingua francese;  
+Lingua inglese;  
+Lingua spagnola;  
+Lingua russa;  
+Lingua tedesca;  
+Lingua ungherese;  
+Lingua araba;  
+Lingua romena;  
+Lingua ebraica.  
+  
 Art. 16 - all'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:  
-drammaturgia teorica;  
-semiologia;  
-sociologia della comunicazione e della cultura;  
-storia delle teoriche del cinema;  
-storia delle teoriche teatrali;  
-storia e teoria degli audiovisivi;  
-dottrina e tecnica del giornalismo;  
-storia e teoria del linguaggio giornalistico;  
-disciplina giuridica dei mezzi di comunicazione sociale.  
+Storia del diritto canonico medioevale;  
+Lingua e letteratura ceca;  
+Lingua e letteratura slovacca;  
+Storia dell'Europa orientale;  
+Storia della lingua russa;  
+Lingua e letteratura olandese;  
+Lingua ceca;  
+Lingua polacca;  
+Lingua serbo-croata;  
+Lingua danese;  
+Lingua svedese;  
+Lingua neo-greca;  
+Lingua francese;  
+Lingua inglese;  
+Lingua spagnola;  
+Lingua russa;  
+Lingua tedesca;  
+Lingua ungherese;  
+Lingua araba;  
+Lingua romena;  
+Lingua ebraica.  
+  
 Art. 17 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne sono aggiunti i seguenti:  
-storia comparata delle lingue classiche;  
-lingue e letterature scandinave.  
+Lingua e letteratura ceca;  
+Lingua e letteratura slovacca;  
+Storia dell'Europa orientale;  
+Storia della lingua russa;  
+Lingua e letteratura olandese;  
+Lingua ceca;  
+Lingua polacca;  
+Lingua serbo-croata;  
+Lingua danese;  
+Lingua svedese;  
+Lingua neo-greca;  
+Lingua francese;  
+Lingua inglese;  
+Lingua spagnola;  
+Lingua russa  
+Lingua tedesca;  
+Lingua ungherese;  
+Lingua araba;  
+Lingua romena;  
+Lingua ebraica.  
+  
+Art. 18 - all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:  
+Antropologia culturale;  
+Psicolinguistica;  
+Teorie della personalita';  
+Storia del Cristianesimo;  
+Storia delle istituzioni politiche e sociali;  
+Storia della scienza e della tecnica;  
+Glottodidattica;  
+Metodologia e didattica delle lingue straniere;  
+Storia della storiografia;  
+Metodologia della ricerca storica;  
+Storia e tecnica dell'informazione.  
+  
+Art. 19 - all'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti seguenti:  
+Storia del Cristianesimo;  
+Storia delle istituzioni politiche e sociali;  
+Storia della scienza e della tecnica;  
+Storia della storiografia;  
+Metodologia della ricerca storica;  
+Storia e tecnica dell'informazione;  
+Glottodidattica;  
+Metodologia e didattica delle lingue straniere;  
+Pedagogia comparata;  
+Pedagogia speciale;  
+Teorie della personalita';  
+Psicolinguistica;  
+Neuropsichiatria infantile.  
+  
+Art. 20 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:  
+Storia della lingua francese;  
+Storia della lingua inglese;  
+Storia della lingua tedesca;  
+Glottodidattica;  
+Storia delle istituzioni politiche e sociali;  
+Metodologia e didattica delle lingue straniere;  
+Antropologia culturale;  
+Psicolinguistica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 luglio 1978
+### Dato a Roma, addi' 31 ottobre 1974
 
-PERTINI PEDINI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 6 novembre 1978
+Registrato alla Corte dei conti, addi' 13 febbraio 1975
 
-Registro n. 119 Istruzione, foglio n. 63
+Atti di Governo, registro n. 8, foglio n. 123

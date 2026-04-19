@@ -1,51 +1,81 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 maggio 1983 n. 147
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1992 n. 62
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 maggio 1983 n. 147
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1992 n. 62
+==============================================================
 
 Assegnazione alle regioni del numero dei seggi per la elezione del Senato della Repubblica.
 -------------------------------------------------------------------------------------------
 
+Entrata in vigore del decreto: 07/02/1992
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
-  
-Visto il decreto in data odierna, con il quale i comizi per la elezione del Senato della Repubblica sono stati convocati per il giorno di domenica 26 giugno 1983;   
-Vista la [legge costituzionale 27 dicembre 1963, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-12-27;3): "Modificazioni agli [articoli 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art131) e [57 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art57) e istituzione della regione Molise";   
-Visto l'[art. 1 della legge 27 febbraio 1958, n. 64](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-27;64~art1), recante modificazioni alla [legge 6 febbraio 1948, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-02-06;29):   
-"Norme per la elezione del Senato della Repubblica";   
-Vista la [legge 25 febbraio 1963, n. 282](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-25;282): "Modificazioni all'[art. 1 della legge 27 febbraio 1958, n. 64](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-27;64~art1), sulla elezione del Senato della Repubblica";   
-Vista la [legge 23 aprile 1976, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-23;136), recante norme per la riduzione dei termini e semplificazione del procedimento elettorale;   
-Vista la [legge 14 febbraio 1963, n. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-14;55), per la revisione delle circoscrizioni dei collegi senatoriali del Friuli-Venezia Giulia;   
-Visto il decreto 25 marzo 1983, n. 95, [pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 95 del 7 aprile 1983](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1983-04-07&numeroGazzetta=95), con il quale vengono dichiarati i risultati ufficiali relativi alla popolazione legale secondo il censimento del 25 ottobre 1981;   
-Sulla proposta del Ministro dell'interno;   
-  
-Decreta:   
-  
-Alle regioni di cui all'[art. 131 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art131), modificato dall'[art. 1 della legge costituzionale 27 dicembre 1963, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-12-27;3~art1), e' assegnato il numero di seggi senatoriali rispettivamente indicato nella tabella allegata al presente decreto, vistata dal Ministro dell'interno.   
-Il presente decreto entra in vigore lo stesso giorno della sua pubblicazione nella Gazzetta Ufficiale della Repubblica.   
-  
+ IL PRESIDENTE DELLA REPUBBLICA  
+Visto il decreto in data odierna, con il quale i comizi per la elezione del Senato della Repubblica sono stati convocati per il giorno di domenica 5 aprile 1992;  
+Vista la [legge costituzionale 27 dicembre 1963, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-12-27;3): "Modificazione agli [articoli 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art131) e [57 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art57) e istituzione della regione Molise";  
+Visto l'[art. 1 della legge 27 febbraio 1958, n. 64](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-27;64~art1), recante modificazioni alla [legge 6 febbraio 1948, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-02-06;29): "Norme per la elezione del Senato della Repubblica";  
+Vista la [legge 25 febbraio 1963, n. 282](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-25;282): "Modificazioni all'[articolo 1 della legge 27 febbraio 1958, n. 64](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-27;64~art1), sulla elezione del Senato della Repubblica";  
+Vista la [legge 23 aprile 1976, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-23;136), recante norme per la riduzione dei termini e semplificazione del procedimento elettorale;  
+Vista la [legge 14 febbraio 1963, n. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-14;55), per la revisione delle circoscrizioni dei collegi senatoriali del Friuli-Venezia Giulia;  
+Vista la [legge 30 dicembre 1991, n. 422](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;422): "Elezioni del Senato della Repubblica per l'attuazione della misura 111 a favore della popolazione alto-atesina";  
+Visto il decreto 25 marzo 1983, n. 95, [pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 95 del 7 aprile 1983](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1983-04-07&numeroGazzetta=95), con il quale vengono dichiarati i risultati ufficiali relativi alla popolazione legale secondo il censimento del 25 ottobre 1981;  
+Sulla proposta del Ministro dell'interno;  
+E M A N A  
+il seguente decreto:  
+Alle regioni di cui all'[art. 131 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art131), modificato dall'[art. 1 della legge costituzionale 27 dicembre 1963, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-12-27;3~art1), e' assegnato il numero dei seggi senatoriali rispettivamente indicato nella tabella allegata al presente decreto, vistata dal Ministro dell'interno.  
+Il presente decreto entra in vigore lo stesso giorno della sua pubblicazione nella Gazzetta Ufficiale della Repubblica.  
+Il presente decreto sara' inviato alla Corte dei conti per la registrazione.  
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 maggio 1983
+### Dato a Roma, addi' 2 febbraio 1992
 
-PERTINI
+COSSIGA
 
-Visto, il Guardasigilli: DARIDA ROGNONI
+SCOTTI, Ministro dell'interno
 
-Registrato alla Corte dei conti, addi' 5 maggio 1983
+Visto, il Guardasigilli: MARTELLI Registrato alla Corte dei conti il 7 febbraio 1992
 
-Atti di Governo, registro n. 46, foglio n. 4
+Atti di Governo, registro n. 85, foglio n. 3
 
 Tabella
 
-TABELLA DI ASSEGNAZIONE ALLE REGIONI DEL NUMERO DEI SEGGI PER LA ELEZIONE DEL SENATO DELLA REPUBBLICA   
+ TABELLA DI ASSEGNAZIONE ALLE REGIONI DEL NUMERO DEI SEGGI   
+PER LA ELEZIONE DEL SENATO DELLA REPUBBLICA   
+  
+=====================================================================  
+Quoziente: 184.965  
+REGIONI Popolazione 1981 Quozienti Resti Seggi  
+interi assegnati \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Piemonte 4.479.031 24 39.871 24  
+Valle d'Aosta 112.353 - - (\*) 1  
+Lombardia 8.891.652 48 13.332 48  
+Trentino-Alto  
+Adige 873.413 - - (\*) 7  
+Veneto 4.345.047 23 90.852 23  
+Friuli-Venezia  
+Giulia 1.233.984 6 124.194 (\*\*) 7  
+Liguria 1.807.893 9 143.208 (\*\*) 10  
+Emilia-Romagna 3.957.513 21 73.248 21  
+Toscana 3.581.051 19 66.716 19  
+Umbria 807.552 - - (\*) 7  
+Marche 1.412.404 7 117.649 (\*\*) 8  
+Lazio 5.001.684 27 7.629 27  
+Abruzzo 1.217.791 6 108.001 (\*\*) 7  
+Molise 328.371 - - (\*) 2  
+Campania 5.463.134 29 99.149 (\*\*) 30  
+Puglia 3.871.617 20 172.317 (\*\*) 21  
+Basilicata 610.186 - - (\*) 7  
+Calabria 2.061.182 11 26.567 11  
+Sicilia 4.906.878 26 97.788 26  
+Sardegna 1.594.175 8 114.455 (\*\*) 9  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+56.556.911 284 1.294.976 315  
   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=083U014700100010110001&dgu=1983-05-05&art.dataPubblicazioneGazzetta=1983-05-05&art.codiceRedazionale=083U0147)
-  
+N.B. - Sono contraddistinte con un asterisco le regioni alle quali i seggi sono stati assegnati in esecuzione dell'[art. 57, terzo comma, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art57-com3), modificato dalla [legge costituzionale 27 dicembre 1963, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-12-27;3). Il quoziente 184.965 per il riparto proporzionale, di cui al quarto comma dell'articolo citato, e' dato dal totale della popolazione delle regioni per le quali non trova applicazione la norma del terzo comma, diviso per 291, cifra corrispondente alla differenza tra il totale dei seggi assegnati al Senato della Repubblica (315) e il totale dei seggi (24) previamente assegnati alle regioni contraddistinte da un solo asterisco, in applicazione delle succitate norme. Sono contraddistinte da due asterischi le regioni alle quali e' stato assegnato un seggio in piu' in base ai piu alti resti.   
+Visto, il Ministro dell'interno   
+SCOTTI   

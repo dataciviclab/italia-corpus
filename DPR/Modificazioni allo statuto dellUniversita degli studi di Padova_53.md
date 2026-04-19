@@ -1,97 +1,178 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 1171
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1968 n. 780
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 1171
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1968 n. 780
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 105](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;105).3 e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), a successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduta la [legge 25 luglio 1966, n. 602](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-25;602);
+
+Vedute le proposte avanzate dalle autorita' accademiche dell'Universita' di Padova intese ad ottenere l'istituzione del corso di laurea in astronomia presso la facolta' di scienze matematiche, fisiche e naturali;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla
+-----
+
+proposta del Ministro per la pubblica Istruzione; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulato dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Presso la facolta' di scienze matematiche, fisiche e naturali puo' essere istituito il corso di laurea in astronomia.  
+Il titolo di studio per l'ammissione al predetto corso di laurea, la durata e l'ordinamento del corso medesimo sono stabiliti dalla tabella annessa al presente decreto firmato, d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione.  
+All'elenco delle lauree e dei diplomi, di cui alla tabella I, annessa al [regio decreto 30 settembre 1938, numero 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e' aggiunta la laurea in astronomia.  
+La tabella 11, annessa al citato regio decreto n. 1652, e' integrata nel senso che la facolta' di scienze matematiche, fisiche e naturali rilascia anche la laurea in astronomia.  
+Dopo la tabella XXII, annessa al citato regio decreto n. 1652, e' inserita, assumendo il numero XXII-bis, la tabella allegata al presente decreto (allegato A).  
+
+Art. 2
+------
+
   
-Decreta:   
+A decorrere dall'anno accademico 1968 -69 e' istituito presso la facolta' di scienze matematiche, fisiche e naturali dell'Universita' degli studi di Padova il corso di laurea in astronomia.  
+
+Art. 3
+------
+
   
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-L'art. 380 relativo all'elenco delle scuole di specializzazione e delle scuole dirette a fini speciali annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che e' aggiunta la scuola di preparazione per tecnici di laboratorio di istopatologia (scuola diretta a fini speciali).   
-L'art. 381 e' integrato con le norme relative all'ordinamento della scuola di preparazione per tecnici di laboratorio di istopatologia.   
-  
-Scuola di preparazione per tecnici di laboratorio di istopatologia (Scuola diretta a fini speciali)   
-  
-a) E' istituita presso l'istituto di anatomia e istologia patologica dell'Universita' di Padova, ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), una "Scuola speciale di preparazione per tecnici di laboratorio di istopatologia" che ha lo scopo di preparare adeguatamente personale tecnico in grado di collaborare nella ricerca scientifica e nella pratica ospedaliera. La scuola ha indirizzo teorico e pratico.   
-b) La durata del corso degli studi della scuola speciale di preparazione per tecnici di laboratorio di istopatologia e' di due anni accademici.   
-E' titolo di ammissione il diploma di scuola media unica, il diploma di avviamento professionale, commerciale o industriale o agrario o ad altro indirizzo.   
-c) Al primo anno della scuola si accede previo esame orale di cultura generale sostenuto davanti ad una commissione composta dal direttore della scuola e da due membri designati dal consiglio della facolta' di medicina e chirurgia e da una prova di lettura di un testo scientifico in lingua inglese o francese.   
-L'esame di ammissione avra' luogo entro la prima quindicina del mese di ottobre di ciascun anno, in un giorno stabilito dalla facolta' di medicina e chirurgia, su proposta del direttore della scuola.   
-d) Il numero massimo dei partecipanti e' di sei per ogni anno di corso.   
-e) Le domande di iscrizione devono essere corredate dai seguenti documenti:   
-1) certificato di nascita in carta legale debitamente legalizzato per i nati fuori la giurisdizione di Padova;   
-2) titolo di studio di scuola media inferiore;   
-3) tre fotografie di cui una autenticata;   
-4) quietanza del pagamento della tassa;   
-5) domanda di iscrizione al corso in carta legale.   
-f) Il direttore della scuola e' il direttore dell'istituto di anatomia e istologia patologica dell'Universita' di Padova. La scuola e' sotto la vigilanza della facolta' di medicina e chirurgia. Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' di medicina e chirurgia, e nominati dal rettore.   
-Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli aiuti ed assistenti della facolta' di medicina e chirurgia o di altra facolta' dell'ateneo o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.   
-g) Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) Organizzazione di laboratorio;   
-2) Anatomia e fisiologia umana;   
-3) Chimica;   
-4) Tecnica istologica e istochimica (1);   
-5) Anatomia patologica (1).   
-2° Anno:   
-1) Citologia;   
-2) Tecnica istologica e istochimica (2);   
-3) Anatomia patologica (2);   
-4) Fisica tecnica;   
-5) Tecnica microfotografica.   
-Inoltre gli allievi devono compiere un internato nell'istituto di anatomia e istologia patologica della durata di due anni, compiendo un tirocinio di quattro mesi per ciascuno dei seguenti reparti:   
-1) Laboratorio di biologia sperimentale;   
-2) Laboratorio di istopatologia bioptica;   
-3) Laboratorio di istopatologia autoptica;   
-4) Laboratorio di citologia;   
-5) Laboratorio di microscopia elettronica;   
-6) Laboratorio di microfotografia.   
-h) I programmi di insegnamento e gli orari vengono predisposti dal direttore della scuola e approvati dal consiglio di facolta' di medicina e chirurgia.   
-La sorveglianza degli iscritti per quanto riguarda le attivita' di laboratorio spetta al direttore della scuola.   
-La frequenza e' obbligatoria. Assenze ingiustificate comportano l'esclusione dal corso.   
-Per essere ammessi a frequentare il secondo anno gli allievi dovranno aver sostenuto tutti gli esami del primo corso. Nel caso in cui gli allievi non abbiano superato gli esami prescritti, essi rimarranno nella posizione di fuori corso fino a quando non avranno assolto gli obblighi di cui sopra.   
-i) Per essere ammessi a sostenere l'esame di diploma, gli allievi dovranno aver seguito i corsi, superato gli esami in tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole tutte le esercitazioni pratiche previste.   
-l) Le commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia, su proposta del direttore della scuola.   
-Le commissioni sono composte di tre membri: dal professore ufficiale di materia, presidente; da un professore ufficiale di materia affine e da un libero docente o cultore della materia. Ogni commissario ha a disposizione dieci punti.   
-m) L'esame di diploma consiste in un esame orale sui temi trattati durante il corso e in una prova pratica di laboratorio stabilita dalla commissione esaminatrice.   
-L'esame di diploma viene sostenuto davanti ad una commissione di cinque membri scelti fra i docenti della scuola, nominata dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola.   
-Ogni commissario ha a sua disposizione dieci punti.   
-I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola; ma se al secondo esame non sia loro riconosciuta una idoneita' saranno senz'altro esclusi da ulteriori prove.   
-Agli allievi che avranno superato l'esame finale viene rilasciato un diploma di "Tecnico di laboratorio istopatologico".   
-n) Le tasse e soprattasse che gli iscritti sono tenuti a versare sono fissate come segue:   
-  
-Tassa di immatricolazione. . . . . . . . . . . . . . . . L. 2.000 Tassa di iscrizione . . . . . . . . . . . . . . . . . . L. 50.000 Soprattassa esami . . . . . . . . . . . . . . . . . . . L. 10.000 Tassa erariale di diploma. . . . . . . . . . . . . . . . L. 1.200   
-  
-I contributi sono determinati di anno in anno dal consiglio di amministrazione, su proposta del senato accademico sentito il consiglio della facolta' di medicina e chirurgia.   
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti suindicati, e' ulteriormente modificato nel senso che dopo l'art. 110, e con il conseguente spostamento della successiva numerazione, viene aggiunto l'art. 111, contenente le norme relative all'ordinamento del corso di studi per il conseguimento della laurea in astronomia secondo l'ordinamento riportato nell'annessa tabella e con le precisazioni seguenti:  
+"Gli esami di fisica generale I, analisi matematica I, geometria, chimica, sono propedeutici a quelli di astronomia, fisica generale II, analisi matematica II, meccanica razionale".  
+I due insegnamenti richiesti dal n. 5 dell'ordinamento sono i seguenti:  
+"per l'indirizzo fisico: istituzioni di fisica teorica";  
+"per l'indirizzo matematico: meccanica celeste".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 settembre 1972
+### Dato a Roma, addi' 25 maggio 1968
 
-LEONE SCALFARO
+SARAGAT GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 25 giugno 1973
+Registrato alla Corte dei conti, addi' 6 luglio 1968
 
-Atti di Governo, registro n. 258, foglio n. 129. - VALENTINI
+Atti del Governo, registro n. 220, foglio n. 105. - GRECO
+
+Allegato A
+
+ ALLEGATO A   
+  
+TABELLA XXII-bis   
+Laurea in astronomia   
+  
+1) durata del corso: quattro anni.   
+2) titolo di ammissione: diploma di maturita' classica, di   
+maturita' scientifica.   
+Diploma di abilitazione per i provenienti dagli istituti tecnici, industriali, nautici, agrari e per geometri.   
+3) sono insegnamenti fondamentali, obbligatori per il primo   
+biennio:   
+  
+1. astronomia;   
+2. fisica generale I;   
+3. fisica generale II;   
+4. analisi matematica I;   
+5. analisi matematica II;   
+6. geometria I;   
+7. chimica;   
+8. meccanica razionale;   
+  
+Si richiedera' inoltre alla fine del primo biennio la prova di   
+conoscenza di due lingue straniere di importanza scientifica. Le singole facolta' fisseranno l'ordine di propedeuticita' dei precedenti esami.   
+I corsi di fisica generale I e II, analisi matematica I e II, non devono essere considerati come corsi biennali: essi constano di due corsi distinti, l'uno propedeutico all'altro e con esami distinti.   
+I corsi numeri 1, 2, 3, 4, 5, 6, 7, 8 sono accompagnati da   
+esercitazioni che ne fanno parte integrante. Per ciascuno dei corsi elencati vi e' un esame finale.   
+4) Gli insegnamenti obbligatori per il secondo biennio sono i   
+seguenti:   
+  
+1. complementi di astronomia;   
+2. astrofisica;   
+3. struttura della materia;   
+4-5 esercitazioni di astronomia (biennale)   
+  
+A giudizio della facolta', le esercitazioni di astronomia potranno essere sostituite con il laboratorio di fisica biennale del corso di laurea in fisica.   
+5) Nel secondo biennio, oltre agli insegnamenti di cui al   
+precedente paragrafo, dovranno essere impartite altre quattro discipline, di cui una dovra' essere ad indirizzo fisico e una ad indirizzo matematico.   
+Le singole facolta' indicheranno nei loro statuti due dei predetti quattro insegnamenti. I rimanenti due saranno insegnamenti complementari che lo studente potra' scegliere da un elenco preparato dalla facolta'. Le proposte della facolta' dovranno essere approvate dalla I sezione del Consiglio superiore della pubblica istruzione.   
+6) Elenco a carattere orientativo di insegnamenti entro cui   
+potranno essere scelti i quattro insegnamenti di cui al paragrafo 5:   
+  
+Astrofisica teorica;   
+Astrometria;   
+Astronautica;   
+Calcolo delle probabilita';   
+Calcolo numerici e grafici;   
+Chimica fisica;   
+Chimica organica;   
+Conduzione elettrica nei gas;   
+Cosmologia;   
+Elettrodinamica;   
+Elettronica;   
+Elettronica applicata;   
+Fisica del sistema solare;   
+Fisica del plasma;   
+Fisica solare;   
+Fisica dello spazio;   
+Fisica matematica;   
+Fisica nucleare;   
+Fisica superiore;   
+Fisica teorica;   
+Geofisica;   
+Geodesia;   
+Istituzioni di analisi superiore;   
+Istituzioni di fisica teorica;   
+Istituzioni di fisica nucleare;   
+Istituzioni di fisica matematica.   
+Matematiche complementari;   
+Matematiche superiori;   
+Meccanica analitica;   
+Meccanica celeste;   
+Meccanica quantistica;   
+Meccanica statistica;   
+Meccanica superiore;   
+Metodi matematici per la fisica;   
+Metodi matematici per l'astronomia;   
+Ottica;   
+Ottica elettronica;   
+Radioastronomia;   
+Relativita';   
+Spettroscopia;   
+Statistica stellare;   
+Storia dell'astronomia;   
+Storia delle matematiche;   
+Teoria delle funzioni;   
+Teoria delle orbite;   
+Teoria e applicazione delle macchine calcolatrici.   
+  
+7) Potranno iscriversi ai corsi del secondo biennio soltanto quegli   
+studenti che abbiano superato gli esami di analisi matematica I e II, fisica I, meccanica razionale, astronomia generale, geometria I.   
+8) L'esame di laurea dovra' comprendere in ogni caso, secondo le   
+modalita' stabilite dalle singole facolta', un lavoro scritto e la discussione di tesine orali.   
+A giudizio delle singole facolta' potra' richiedersi anche un esame   
+di cultura generale.   
+Superato l'esame di laurea lo studente consegue il titolo di   
+dottore in astronomia.   
+  
+Visto, d'ordine del Presidente della Repubblica   
+  
+Il Ministro per la pubblica istruzione   
+GUI   

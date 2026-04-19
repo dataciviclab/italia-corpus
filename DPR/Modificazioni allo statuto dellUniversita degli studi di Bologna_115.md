@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 gennaio 1981 n. 82
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1974 n. 905
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 gennaio 1981 n. 82
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1974 n. 905
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,142 +20,150 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti suindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 18 - all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti insegnamenti:
+
+Istituzioni di diritto pubblico;
+
+Diritto penitenziario.
+
+Art. 115 - all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti insegnamenti:
+
+Analisi mineralogica;
+
+Cristallografia;
+
+Biologia marina;
+
+Etologia;
+
+Metodologia biometrica;
+
+Istochimica;
+
+Pedologia;
+
+Algologia.
+
+Art. 116 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti insegnamenti:
+
+Biologia marina;
+
+Etologia;
+
+Metodologia biometrica;
+
+Istochimica;
+
+Pedologia;
+
+Algologia.
+
+Art. 117 - all'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti insegnamenti:
+
+Oceanografia fisica;
+
+Oceanografia chimica;
+
+Geologia strutturale;
+
+Geologia nucleare.
+
+Nello stesso articolo l'ultimo comma e' abrogato e sostituito dal seguente:
+
+"Nel terzo e quarto anno di corso gli studenti sono tenuti a frequentare come interni uno degli istituti di mineralogia, o geologia, o, dietro approvazione del preside, altro istituto della facolta', per la preparazione della tesi di laurea".
+
+L'art. 118, relativo alle modalita' d'esame dei corsi di laurea della facolta' di scienze matematiche, fisiche e naturali, e' modificato nel senso che l'ultimo comma, concernente la laurea in scienze geologiche, e' abrogato e sostituito dal seguente:
+
+"L'esame di laurea in scienze geologiche consiste nella discussione di una dissertazione scritta basata sopra un rilevamento geologico, o su altro argomento originale, e di due tesine su argomento geologico mineralogico, paleontologico e petrografico.
+
+La dissertazione di laurea dovra' essere presentata almeno quindici giorni prima del giorno fissato per l'esame di laurea".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 30 ottobre 1974
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 4 giugno 1975 Atti di Governo, registro n. 10, foglio n. 54
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-All'art. 73, relativo al corso di laurea in lettere, e' soppresso l'insegnamento di:  
-storia delle tradizioni popolari.  
-Nello stesso articolo sono aggiunti i seguenti insegnamenti complementari:  
-una storia regionale dell'antichita';  
-storia dell'economia antica;  
-epigrafia e antichita' romane;  
-storia della critica;  
-una storia regionale del medioevo;  
-storia agraria medioevale;  
-storia dell'estetica;  
-psicolinguistica;  
-logica matematica;  
-letteratura popolare;  
-letteratura italiana moderna e contemporanea;  
-filologia dantesca;  
-didattica dell'italiano;  
-sociolinguistica;  
-glottodidattica;  
-fonetica generale;  
-storia dell'arte russa;  
-tecnica dello scavo e delle esplorazioni archeologiche;  
-storia dell'urbanistica e dell'architettura antica;  
-archeologia delle civilta' africane;  
-civilta' egee.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-All'art. 74, relativo agli insegnamenti complementari del corso di laurea in filosofia, sono soppressi i seguenti:  
-storia della pedagogia italiana;  
-storia del diritto italiano;  
-storia del Risorgimento;  
-storia della civilta' e delle istituzioni classiche;  
-geografia storica dell'antichita';  
-religioni e filosofie del Medio ed Estremo Oriente;  
-filmologia;  
-letterature francofone.  
-Nello stesso articolo sono aggiunti i seguenti insegnamenti complementari:  
-filologia classica;  
-storia dell'estetica;  
-psicolinguistica;  
-psicologia dei processi cognitivi;  
-filosofia della politica;  
-logica matematica;  
-sociolinguistica;  
-storia della filosofia moderna;  
-storia della filosofia contemporanea;  
-storia delle dottrine economiche;  
-storia della scienza e della tecnica;  
-metodologia della progettazione;  
-storia della lingua italiana.  
-
-Art. 3
-------
-
+Decreta:  
   
-All'art. 79, relativo al corso di laurea in lingue e letterature straniere moderne (indirizzo europeo), sono soppressi i seguenti insegnamenti:  
-storia delle tradizioni popolari;  
-religioni e filosofie del Medio ed Estremo Oriente;  
-geografia storica dell'antichita'.  
-Nello stesso articolo sono aggiunti i seguenti insegnamenti complementari:  
-storia della critica;  
-psicolinguistica;  
-logica matematica;  
-letteratura popolare;  
-sociolinguistica;  
-glottodidattica;  
-fonetica generale;  
-storia dell'arte russa;  
-filologia baltica;  
-linguistica uralo-altaica;  
-linguistica basco-caucasica.  
-
-Art. 4
-------
-
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-All'art. 84, relativo al corso di laurea in disciplina delle arti, della musica e dello spettacolo, sono aggiunti i seguenti insegnamenti complementari:  
-storia della musica medioevale e rinascimentale;  
-storia della musica moderna e contemporanea;  
-paleografia musicale;  
-storia delle teorie musicali;  
-metodologia dell'educazione musicale;  
-filologia della musica.  
-
-Art. 5
-------
-
-  
-All'art. 85, relativo al corso di laurea in storia, e' soppresso l'insegnamento di:  
-storia dell'arte orientale (indirizzo orientale).  
-Nello stesso articolo sono aggiunti i seguenti insegnamenti complementari:  
-storia delle lingue dell'Italia preromana (indirizzo antico);  
-filologia medioevale e umanistica (indirizzo medioevale);  
-storia della Chiesa medioevale (indirizzo medioevale);  
-filologia italiana (indirizzo moderno);  
-filologia medioevale e umanistica (indirizzo moderno);  
-Filologia italiana (indirizzo contemporaneo);  
-lingua e letteratura demotica (indirizzo orientale);  
-lingua e letteratura copta (indirizzo orientale);  
-storia dell'Asia meridionale (indirizzo orientale);  
-storia dell'arte dell'India e dell'Asia centrale (indirizzo orientale);  
-storia dell'arte dell'Estremo Oriente (indirizzo orientale);  
-storia dell'impero cinese (indirizzo orientale);  
-storia dell'arte islamica (indirizzo orientale);  
-diritto islamico (indirizzo orientale);  
-ebraismo post-biblico (indirizzo orientale).  
+Art. 18 - all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti insegnamenti:  
+Istituzioni di diritto pubblico;  
+Diritto penitenziario.  
+Art. 115 - all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti insegnamenti:  
+Analisi mineralogica;  
+Cristallografia;  
+Biologia marina;  
+Etologia;  
+Metodologia biometrica;  
+Istochimica;  
+Pedologia;  
+Algologia.  
+Art. 116 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti insegnamenti:  
+Biologia marina;  
+Etologia;  
+Metodologia biometrica;  
+Istochimica;  
+Pedologia;  
+Algologia.  
+Art. 117 - all'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti insegnamenti:  
+Oceanografia fisica;  
+Oceanografia chimica;  
+Geologia strutturale;  
+Geologia nucleare.  
+Nello stesso articolo l'ultimo comma e' abrogato e sostituito dal seguente:  
+"Nel terzo e quarto anno di corso gli studenti sono tenuti a frequentare come interni uno degli istituti di mineralogia, o geologia, o, dietro approvazione del preside, altro istituto della facolta', per la preparazione della tesi di laurea".  
+L'art. 118, relativo alle modalita' d'esame dei corsi di laurea della facolta' di scienze matematiche, fisiche e naturali, e' modificato nel senso che l'ultimo comma, concernente la laurea in scienze geologiche, e' abrogato e sostituito dal seguente:  
+"L'esame di laurea in scienze geologiche consiste nella discussione di una dissertazione scritta basata sopra un rilevamento geologico, o su altro argomento originale, e di due tesine su argomento geologico mineralogico, paleontologico e petrografico.  
+La dissertazione di laurea dovra' essere presentata almeno quindici giorni prima del giorno fissato per l'esame di laurea".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 gennaio 1981
+### Dato a Roma, addi' 30 ottobre 1974
 
-PERTINI BODRATO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 16 marzo 1981
+Registrato alla Corte dei conti, addi' 4 giugno 1975
 
-Registro n. 24 Istruzione, foglio n. 262
+Atti di Governo, registro n. 10, foglio n. 54

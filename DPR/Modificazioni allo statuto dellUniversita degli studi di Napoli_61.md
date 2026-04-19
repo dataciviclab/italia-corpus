@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1971 n. 697
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 settembre 1965 n. 1222
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1971 n. 697
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 settembre 1965 n. 1222
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,97 +10,123 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
+Venduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1910, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-10-26;1904) e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro per la' pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:
 
-Art. 172: all'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti i seguenti:
+Art. 132. - Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo organico-biologico ed inorganico chimico-fisico) sono aggiunti quelli di:
 
-Istituzioni di matematica;
+"Chimica inorganica superiore", "Stereochimica" e "Scienza dei materiali".
 
-Idrologia chimica;
+Art. 135. - Agli insegnamenti complementari del corso di laurea in Chimica sono aggiunti quelli di:
 
-Analisi chimico-tossicologica;
+"Chimica inorganica superiore", "Stereochimica" e "Scienza dei materiali".
 
-Farmacotecnica galenica;
+Art. 141. - Agli insegnamenti complementari del corso di laurea in fisica sono aggiunti quelli di: "Fisica molecolare", "Teoria dei campi", "Storia della scienza", (Fisica delle basse temperature", "Elettromagnetismo" e "Radiobiologia".
 
-Microbiologia farmaceutica;
+Art. 152. - Agli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti quelli di:
 
-Saggi e dosaggi farmacologici;
+24) Paleontologia dei vertebrati;
 
-Fitofarmacia.
+25) Embriologia degli invertebrati;
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+26) Paleontologia umana.
 
-Dato a Roma, addi' 12 luglio 1971
+Art. 156. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti quelli di:
+
+21) Embriologia degli invertebrati;
+
+22) Chimica fisica.
+
+L'art. 157, relativo al corso di laurea in Scienze biologiche, l'ultimo comma e' abrogato e sostituito dal seguente:
+
+"o) in cinque prove pratiche orali di Zoologia, Botanica, Anatomia comparata, Istologia ed Embriologia e Fisiologia generale.
+
+Queste prove pratiche precedono quelle delle lettere a) e b) e.
+
+Art. 160, relativo al corso di laurea in Scienze geologiche dopo il secondo comma e' aggiunto il seguente:
+
+"L'insegnamento di Fisica sperimentale comporta due esami distinti alla fine del 1° e del 2° anno di corso".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e del decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 28 settembre 1965
 
 SARAGAT
 
-MISASI
+GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 30 agosto 1971 Atti del Governo, registro n. 244, foglio n. 41. - PASQUALUCCI
+alla Corte dei conti, addi' 2 novembre 1965 Atti del Governo, registro n. 198, foglio n. 8. - VILLA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Venduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1910, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-10-26;1904) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la' pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 172: all'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti i seguenti:   
-  
-Istituzioni di matematica;   
-Idrologia chimica;   
-Analisi chimico-tossicologica;   
-Farmacotecnica galenica;   
-Microbiologia farmaceutica;   
-Saggi e dosaggi farmacologici;   
-Fitofarmacia.   
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:  
+Art. 132. - Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo organico-biologico ed inorganico chimico-fisico) sono aggiunti quelli di:  
+"Chimica inorganica superiore", "Stereochimica" e "Scienza dei materiali".  
+Art. 135. - Agli insegnamenti complementari del corso di laurea in Chimica sono aggiunti quelli di:  
+"Chimica inorganica superiore", "Stereochimica" e "Scienza dei materiali".  
+Art. 141. - Agli insegnamenti complementari del corso di laurea in fisica sono aggiunti quelli di: "Fisica molecolare", "Teoria dei campi", "Storia della scienza", (Fisica delle basse temperature", "Elettromagnetismo" e "Radiobiologia".  
+Art. 152. - Agli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti quelli di:  
+24) Paleontologia dei vertebrati;  
+25) Embriologia degli invertebrati;  
+26) Paleontologia umana.  
+Art. 156. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti quelli di:  
+21) Embriologia degli invertebrati;  
+22) Chimica fisica.  
+L'art. 157, relativo al corso di laurea in Scienze biologiche, l'ultimo comma e' abrogato e sostituito dal seguente:  
+"o) in cinque prove pratiche orali di Zoologia, Botanica, Anatomia comparata, Istologia ed Embriologia e Fisiologia generale.  
+Queste prove pratiche precedono quelle delle lettere a) e b) e.  
+Art. 160, relativo al corso di laurea in Scienze geologiche dopo il secondo comma e' aggiunto il seguente:  
+"L'insegnamento di Fisica sperimentale comporta due esami distinti alla fine del 1° e del 2° anno di corso".  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e del decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 luglio 1971
+### Dato a Roma, addi' 28 settembre 1965
 
-SARAGAT MISASI
+SARAGAT GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 30 agosto 1971
+Registrato alla Corte dei conti, addi' 2 novembre 1965
 
-Atti del Governo, registro n. 244, foglio n. 41. - PASQUALUCCI
+Atti del Governo, registro n. 198, foglio n. 8. - VILLA

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1965 n. 1516
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 737
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1965 n. 1516
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 737
+================================================================
 
 Modificazioni allo statuto della libera Universita' degli studi di L'Aquila.
 ----------------------------------------------------------------------------
@@ -12,60 +12,52 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' libera degli studi di L'Aquila, approvato con [decreto del Presidente della Repubblica 18 agosto 1964, n. 921](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1964-08-18;921);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933 n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto della libera Universita' degli studi di L'Aquila approvato con [decreto del Presidente della Repubblica 18 agosto 1964, n. 921](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1964-08-18;921) e modificato con [decreto del Presidente della Repubblica 30 ottobre 1965, n. 1516](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-10-30;1516), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto della libera Universita' degli studi di L'Aquila, approvato con il decreto sopraindicato e' modificato come appresso:  
-Art. 70, relativo agli indirizzi del corso di laurea in Fisica, viene abrogato e sostituito dal seguente:  
-Il corso degli studi si distingue in due indirizzi:  
-didattico ed applicativo.  
-Sono insegnamenti fondamentali comuni ai due indirizzi:  
-per il primo anno: Analisi matematica I; Geometria I; Fisica generale I; Chimica con esercitazioni di laboratorio;  
-Esperimentazioni di fisica I;  
-per il secondo anno: Analisi matematica II; Fisica generale II; Meccanica razionale; Esperimentazioni di fisica II.  
-Gli insegnamenti di Fisica generale I e II; Analisi - matematica I e II constano ciascuno di due corsi distinti, il primo propedeutico al secondo sia per la frequenza, che per gli esami che sono distinti.  
-Gli insegnamenti di Esperimentazioni di fisica I e II e di Chimica con esercitazioni di laboratorio devono avere carattere pratico, in modo da portare i singoli studenti a sperimentare di persona. Gli altri corsi sono accompagnati da esercitazioni (non di laboratorio) che ne fanno parte integrante.  
-Per essere ammesso a sostenere gli esami del 2° biennio lo studente dovra' aver superato una prova di conoscenza della lingua inglese e di un'altra lingua di importanza scientifica.  
-L'art. 71 relativo allo sbarramento, circa l'iscrizione al secondo anno del corso di laurea in Fisica, e' soppresso con il relativo spostamento della successiva numerazione.  
-Art. 73, relativo agli insegnamenti del corso di laurea in Fisica, e' abrogato e sostituito dal seguente:  
-Sono insegnamenti fondamentali obbligatori:  
-a) per l'indirizzo didattico: Complementi di Fisica generale I e II (biennale); Preparazioni di esperienze didattiche I e II (biennale);  
-b) per l'indirizzo applicativo: Laboratorio di fisica I;  
-Laboratorio di fisica I.  
-Inoltre per ogni orientamento dell'indirizzo applicativo dovranno essere seguiti altri quattro insegnamenti qualificativi, e per l'indirizzo didattico due tra quelli dell'elenco successivo secondo curricula consigliati annualmente dalla Facolta', nei rispettivi piani di studio o proposti all'approvazione della Facolta' dallo studente stesso.  
-Corsi a scelta:  
-Aereologia; Analisi numerica; Astronomia; Calcolo delle probabilita'; Calcolo elettronico; Cibernetica e teoria dell'informazione; Complementi di fisica; Elettronica; Elettronica applicata;. Fisica molecolare; Fisica nucleare; Fisica dello stato solido; Fisica superiore; Fisica terrestre; Fisica teorica;  
-Geofisica; Geofisica applicata; Geologia; Geomagnetismo; Istituzioni di fisica matematica; Matematiche complementari; Meccanica superiore;  
-Meteorologia; Mineralogia; Onde elettromagnetiche; Relativita';  
-Sismologia; Storia della fisica.  
-Per ciascuno degli insegnamenti, anche biennali, dovra' essere sostenuto un esame distinto per ogni anno di corso.  
-Art. 75, relativo alle modalita' degli esami di laurea del corso di laurea in Fisica, e' abrogato e sostituito dal seguente:  
-"L'esame di laurea comprende due prove di cui la prima deve precedere la seconda:  
-1) esame di cultura generale nelle scienze fisiche;  
-2-a) discussione di una tesi scritta su argomento attinente ad uno dei corsi di cui lo studente abbia superato l'esame e che sia compreso nel piano di studi dell'indirizzo seguito. Alla tesi non si richiede necessariamente carattere di ricerca originale;  
-2-b) discussione di una tesina orale scelta dalla Commissione tra due assegnate in materie del corso di laurea diverse tra di loro e da quella della tesi.  
-Quindici giorni prima della data fissata per la discussione della tesi di laurea il candidato deve depositare presso la segreteria dell'Universita' il testo della dissertazione scritta ed i titoli delle due tesine, tutti debitamente firmati dai relatori.  
-Superato l'esame di laurea lo studente consegue il titolo di dottore in fisica, indipendentemente dall'indirizzo prescelto, del quale verra' fatta menzione solo nella carriera scolastica.  
+Lo statuto della libera Universita' degli studi di L'Aquila, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 66. - All'elenco degli insegnamenti complementari del corso di laurea in matematica e' aggiunto il seguente:  
+  
+Teoria della programmazione per le macchine calcolatrici.  
+  
+Nello stesso elenco vengono soppressi gli insegnamenti di:  
+  
+Macchine calcolatrici;  
+Calcolo elettronico.  
+  
+Art. 73. - All'elenco degli insegnamenti complementari del corso di laurea in fisica sono aggiunti i seguenti:  
+  
+Elettronica dello stato solido;  
+Psicologia;  
+Fisiologia generale I;  
+Geotecnica.  
+  
+Art. 77. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:  
+  
+Botanica farmaceutica;  
+Fitogeografia.  
+  
+Art. 85. - E' modificato nel senso che l'insegnamento di disegno II (industriale civile) del 2° anno del biennio propedeutico del corso di laurea in ingegneria passa da semestrale ad annuale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1965
+### Dato a Roma, addi' 22 settembre 1972
 
-SARAGAT GUI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 21 gennaio 1966
+Registrato alla Corte dei conti, addi' 28 novembre 1972
 
-Atti del Governo, registro n. 200, foglio n. 26. - VILLA
+Atti del Governo, registro n. 253, foglio n. 85. - CARUSO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1984 n. 109
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1982 n. 219
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1984 n. 109
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1982 n. 219
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-109. Decreto del Presidente della Repubblica 20 marzo 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di lire 10 milioni, disposto dalla sig.ra Giuseppa Dosio a favore dei mutilatini di don Gnocchi, che si identificano con la fondazione medesima, con testamento olografo 19 ottobre 1979, pubblicato in data 27 marzo 1980, n. 33135/10048 di repertorio, a rogito dott.ssa Adriana Lazzerini Quaranta, notaio in Torino, registrato a Chieri (Torino) in data 9 aprile 1980 al n. 509.  
+219. Decreto del Presidente della Repubblica 8 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato di L. 5.000.000 disposto dalla sig.ra Quarti Amelia ved. Sfondrini con testamento pubblico 20 novembre 1975 a rogito dott. Albertario Francesco, notaio in Casorate Primo (Pavia), pubblicato in data 20 febbraio 1976, n. 12779/5485 di repertorio, a rogito dello stesso notaio, registrato a Pavia in data 9 marzo 1976 al n. 485.   
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 27 aprile 1984  
-Registro n. 4 Presidenza, foglio n. 69
+  
+Visto, il Guardasigilli: DARIDA   
+Registrato alla Corte dei conti, addi' 23 aprile 1982   
+Registro n. 9 Presidenza, foglio n. 323

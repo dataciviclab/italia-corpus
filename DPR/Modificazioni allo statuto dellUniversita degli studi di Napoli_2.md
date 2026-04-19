@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 827
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1949 n. 1059
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 827
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1949 n. 1059
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,82 +10,83 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regi decreti 25 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-25;1904); [4 maggio 1942, n. 557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-05-04;557); [5 settembre 1942, n. 1120; con il decreto del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-09-05;1120) [26 febbraio 1949, n. 612](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;612);
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche della predetta Universita';
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Sulla
+-----
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+proposta del Ministro per la pubblica istruzione; Decreta:
 
 Articolo unico
 --------------
 
   
-Art. 164 - all'elenco degli insegnamenti complementari del corso di laurea in chimica sono aggiunti i seguenti insegnamenti:  
-Indirizzo organico-biologico:  
-microbiologia generale;  
-Indirizzo inorganico-chimico-fisico:  
-complementi di matematica.  
-Art. 167 - all'elenco degli insegnamenti complementari del corso di laurea in chimica industriale e' aggiunto l'insegnamento di "microbiologia generale".  
-Art. 173 - all'elenco degli insegnamenti complementari del corso di laurea in fisica sono aggiunti i seguenti insegnamenti:  
-cibernetica e teoria dell'informazione;  
-elettrodinamica quantistica;  
-cosmologia;  
-fisica sanitaria;  
-ottica quantistica;  
-teoria degli algoritmi e della calcolabilita';  
-logica della programmazione;  
-automi e linguaggi formali;  
-reazioni nucleari.  
-Art. 178 - all'elenco degli insegnamenti complementari del corso di laurea in matematica ad indirizzo generale sono aggiunti i seguenti insegnamenti:  
-teoria degli automi;  
-teoria degli algoritmi e della calcolabilita'.  
-Art. 180 - all'elenco degli insegnamenti complementari del corso di laurea in matematica ad indirizzo applicativo con piano di studio ad orientamento numerico sono aggiunti i seguenti insegnamenti:  
-teoria degli algoritmi e della calcolabilita';  
-teoria degli automi.  
-Art. 184 - all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto il seguente insegnamento: "microbiologia generale".  
-Art. 188 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto l'insegnamento di "microbiologia generale" ed e' soppresso l'insegnamento di "geologia".  
-Art. 191 - all'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti insegnamenti:  
-geologia storica;  
-paleontologia stratigrafica;  
-paleontologia vegetale;  
-geologia del cristallino;  
-geomagnetismo;  
-geotermia;  
-analisi mineralogica;  
-cristallografia;  
-prospezioni geochimiche;  
-mineralogia dei sedimenti;  
-petrografia applicata.  
+  
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso.  
+Dopo l'art. 211 vengono aggiunti i seguenti nuovi articoli:  
+  
+Scuola di perfezionamento in medicina interna.  
+  
+Art. 212. - La scuola di perfezionamento in medicina interna ha la durata di cinque anni; essa ha sede presso l'Istituto di clinica medica generale ed e' diretta dal direttore della clinica.  
+Art. 213. - Gli iscritti hanno l'obbligo di prestare servizio esclusivo e continuativo nella clinica in qualita' di medico interno per tutta la durata della scuola.  
+Art. 214. - Ogni anno potranno essere iscritti alla scuola non piu' di otto candidati, scelti in base al risultato di una prova scritta che sara' tenuta all'inizio dell'anno accademico nell'Istituto di clinica medica. Qualora uno degli otto candidati riusciti vincitori del concorso chieda di essere ammesso ad un corso superiore al primo, dovra' presentare istanza motivata al direttore della scuola, cui spetta ogni decisione in merito. Nel caso che l'istanza venga accolta per uno o piu' candidati, il numero degli iscritti al primo anno di corso verra' corrispondentemente diminuito. In nessun caso la nuova iscrizione potra' essere fatta oltre il 3° anno di corso.  
+Art. 215. - Per l'iscrizione all'anno successivo occorre aver superato tutti gli esami dell'anno precedente.  
+Art. 216. - Le materie di insegnamento, tutte obbligatorie, sono le seguenti:  
+1° anno:  
+1) farmacologia;  
+2) elementi di semeiotica boccale;  
+3) elementi di semeiotica otorinolaringoiaitrica;  
+4) elementi di semeiotica dermatologica;  
+5) batteriologia e sierologia.  
+2° anno:  
+1) semeiotica fisica e funzionale;  
+2) elementi di semeiotica oculare;  
+3) chimica clinica;  
+4) patologia speciale medica;  
+5) anatomia patologica.  
+3° anno:  
+1) neuropatologia;  
+2) malattie infettive;  
+3) endocrinologia;  
+4) tisiologia.  
+4° anno:  
+1) ematologia;  
+2) malattie dell'apparato uropoietico;  
+3) malattie dell'apparato digerente;  
+4) malattie del ricambio.  
+5° anno:  
+1) clinica medica generale;  
+2) malattie dell'apparato respiratorio;  
+3) malattie dell'apparato cardio-vascolare;  
+4) radiologia.  
+Non ottemperando all'obbligo di frequenza ai corsi di insegnamento non si potra' ottenere l'attestato necessario per l'ammissione ai singoli esami.  
+Art. 217. - Al termine dei cinque anni, per conseguire il diploma di perfezionamento che da' diritto al titolo di specialista in medicina interna, gli iscritti dovranno presentare una dissertazione scritta, elaborata nell'Istituto di clinica medica, su argomento di medicina interna, e dovranno sostenere un esame pratico dinanzi alla Commissione formata da almeno sette insegnanti della scuola.  
+  
+Disposizioni transitorie.  
+  
+In linea transitoria, e limitatamente al primo anno di funzionamento della scuola, potranno essere accettate domande di ammissione direttamente al secondo ed al terzo corso da parte di coloro che ne hanno i titoli sufficienti, e per un numero complessivo di otto per ogni corso.  
+La spesa relativa al funzionamento della predetta scuola sara' a carico del bilancio ordinario dell'Universita' di Napoli.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1984
+### Dato a Dogliani, addi' 30 ottobre 1949
 
-PERTINI FALCUCCI
+EINAUDI GONELLA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: GRASSI
 
-Registrato alla Corte dei conti, addi' 24 novembre 1984
+Registrato alla Corte dei conti, addi' 25 gennaio 1950
 
-Registro n. 72 Istruzione, foglio n. 1
+Atti del Governo, registro n. 31, foglio n. 58. - FRASCA

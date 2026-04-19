@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1952 n. 92
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 febbraio 1952 n. 344
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1952 n. 92
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 febbraio 1952 n. 344
+===============================================================
 
 Autorizzazione all'Opera nazionale assistenza all'Italia redenta ad acquistare alcuni immobili.
 -----------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-92. Decreto del Presidente della Repubblica 23 gennaio 1952, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Opera nazionale assistenza all'Italia redenta viene autorizzata ad acquistare, dal sig. De Ritter Zahony Guglielmo, alcuni immobili.  
+344. Decreto del Presidente della Repubblica 11 febbraio 1952, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Opera nazionale assistenza all'Italia redenta viene autorizzata ad acquistare alcuni immobili.  
   
 Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 19 febbraio 1952  
-Atti del Governo, registro n. 50, foglio n. 35. - FRASCA
+Registrato alla Corte dei conti, addi' 11 aprile 1952  
+Atti del Governo, registro n. 51, foglio n. 42. - FRASCA

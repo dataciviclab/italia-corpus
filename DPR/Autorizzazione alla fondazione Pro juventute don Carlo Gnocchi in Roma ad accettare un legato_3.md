@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1984 n. 651
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1974 n. 410
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1984 n. 651
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1974 n. 410
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-651. Decreto del Presidente della Repubblica 20 giugno 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di lire 15.000.000, disposto dal sig. Picozzi Alessandro con testamento olografo 6 ottobre 1980, pubblicato in data 7 maggio 1981, n. 132021 di repertorio e n. 5425 di raccolta, a rogito dott. Michele Palermo-Patera, notaio in Milano, registrato a Milano il 15 maggio 1982 al n. 12610.  
+410. Decreto del Presidente della Repubblica 18 giugno 1974, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di lire 2.000.000, disposto dalla sig.ra Rosa Casagrande, con testamento olografo in data 12 marzo 1970, pubblicato con verbale 13 maggio 1972, repertorio n. 60755/ 15242, a rogito del dott. Carlo Gallizia, notaio in Milano ed ivi registrato il 20 maggio 1972 al n. 09480 atti pubblici.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 27 settembre 1984  
-Registro n. 8 Presidenza, foglio n. 91
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 22 agosto 1974  
+Atti di Governo, registro n. 5, foglio n. 16. - SCIARRETTA

@@ -1,101 +1,342 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1984 n. 516
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 giugno 1971 n. 638
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1984 n. 516
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 giugno 1971 n. 638
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 132: all'elenco delle scuole di specializzazione in medicina e chirurgia sono aggiunte le scuole di specializzazione in "Audiologia", in "Nefrologia medica" e in "Ematologia clinica e di laboratorio".
+
+Dopo l'art. 225 e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Audiologia", in "Nefrologia medica" e in "Ematologia clinica e di laboratorio".
+
+Scuola di specializzazione in audiologia
+
+Art. 226. - La scuola ha sede presso la cattedra di audiologia dell'Universita' di Milano.
+
+La durata del corso e' fissata in tre anni.
+
+Il numero degli iscritti alla scuola, complessivo per i tre anni, e' fissato ad un massimo di dodici (quattro per anno).
+
+Non e' concesso alcun abbreviamento del corso.
+
+Le materie di insegnamento sono:
+
+1° Anno:
+
+Nozioni di fisica acustica;
+
+Anatomia dell'orecchio, delle vie e dei centri acustici e vestibolari;
+
+Fisiologia dell'orecchio, delle vie e dei centri acustici e vestibolari;
+
+Nozioni di psichiatria.
+
+2° Anno:
+
+Tecniche audiometriche;
+
+Nozioni di neurologia;
+
+Nozioni di vestibologia.
+
+3° Anno:
+
+Patologia dell'udito;
+
+Terapia medica, chirurgica e protesica della sordita';
+
+La sordita' sotto il profilo sociale;
+
+La rieducazione dell'ipoacusico.
+
+Per accedere al 2° e al 3° anno e' obbligatorio il superamento di tutti gli esami, rispettivamente del 1° e del 2° anno. Gli esami possono essere sostenuti solamente in due sessioni annuali, una estiva ed una autunnale.
+
+Il direttore della scuola e dei corsi e' il titolare della cattedra di audiologia dell'Universita' di Milano. Gli insegnanti sono proposti dal direttore della scuola e scelti tra i titolari di altre cattedre della facolta' di medicina e chirurgia dell'Universita' di Milano, tra i liberi docenti in audiologia ed in altre materie.
+
+Il diploma di specialista in audiologia viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico e sperimentale.
+
+Scuola di specializzazione in nefrologia medica
+
+Art. 227. - Alla scuola di specializzazione sono ammessi i laureati in medicina e chirurgia.
+
+Il corso di studi per il conseguimento del diploma di specialista ha la durata di tre anni.
+
+Le ammissioni sono previste nel numero di otto per ogni anno di corso.
+
+Nel caso che le domande eccedano il numero previsto per gli iscritti alla scuola, la selezione verra' fatta mediante concorso da parte di una commissione presieduta dal direttore della scuola (graduatoria per titoli ed esami).
+
+Gli iscritti alla scuola avranno l'obbligo di frequentare le lezioni, le esercitazioni, le visite di istruzione e le eventuali conferenze; in caso contrario, non potranno avere l'attestato di frequenza necessario per essere ammessi a sostenere le prove di esame.
+
+Al termine di ogni anno accademico, l'allievo della scuola di specializzazione dovra' sostenere un esame di profitto che comprenda il gruppo delle materie in programma; ove non sia superato tale esame, il candidato non potra' essere ammesso al corso successivo.
+
+L'esame di diploma si svolgera' con le norme generali del testo unico universitario.
+
+Al termine del corso di studi, verra' conseguito il diploma di specialista in "Nefrologia medica".
+
+Art. 228. - Gli insegnamenti impartiti saranno i seguenti:
+
+1° Anno:
+
+Struttura ed ultrastruttura del rene;
+
+Aspetti biochimici della funzione renale;
+
+Fisiologia renale;
+
+Semeiologia renale (fisica, radiologica, funzionale);
+
+Microbiologia ed immunologia applicata alla nefrologia;
+
+Struttura ed ultrastruttura patologica del rene.
+
+2° Anno:
+
+Patologia del ricambio idro-salino;
+
+Insufficienza renale acuta e cronica;
+
+Nefropatie glomerulari;
+
+Nefropatie tubulari;
+
+Farmacologia di interesse nefrologico;
+
+Terapia dietetica e dialitica (1° anno).
+
+3° Anno:
+
+Nefropatie interstiziali;
+
+Nefropatie vascolari;
+
+Nefropatie malformative e neoplastiche;
+
+Terapia dietetica e dialitica (2° anno);
+
+Terapia generale delle nefropatie (antibiotica, antireattiva, sintomatica).
+
+Scuola di specializzazione in ematologia clinica e di laboratorio
+
+Art. 229. - La durata del corso e' di tre anni.
+
+La frequenza alla scuola e' obbligatoria.
+
+Il numero degli iscritti alla scuola e' fissato in sette per ogni anno di corso.
+
+Le materie di insegnamento sono:
+
+1° Anno:
+
+Morfologia e morfogenesi normale e patologica del sangue (1°);
+
+Genetica ematologica;
+
+Fisiopatologia della coagulazione e dell'emostasi;
+
+Fisiopatologia ematologica (1°);
+
+Biochimica ematologica;
+
+Fisiopatologia del plasma;
+
+Tecniche di laboratorio inerenti all'ematologia.
+
+2° Anno:
+
+Morfologia e morfogenesi normale e patologica del sangue (2°);
+
+Fisiopatologia ematologica (2°);
+
+Immunoematologia;
+
+Tecniche di laboratorio inerenti all'ematologia (2°);
+
+Patologia speciale ematologica (1°);
+
+Clinica delle emopatie (1°);
+
+Anatomia ed istologia patologica delle emopatie e fondamenti in oncologia.
+
+3° Anno:
+
+Tecniche di laboratorio inerenti all'ematologia (3°);
+
+Nozioni di radiobiologia e di medicina nucleare applicate all'ematologia;
+
+Radiodiagnostica e radioterapia ematologica;
+
+Patologia speciale ematologica (2°);
+
+Clinica delle emopatie (2°);
+
+Terapia sistematica ematologica;
+
+Terapia trasfusionale.
+
+Il direttore della scuola, al di fuori dei docenti incaricati ufficialmente, puo' invitare studiosi competenti ad impartire lezioni e conferenze su argomenti di speciale interesse ematologico.
+
+L'ammissione alla scuola e' condizionata al superamento di una prova preliminare di cultura; qualora il numero degli aspiranti sia superiore al numero dei posti disponibili, per l'accettazione si potra' tener conto degli eventuali titoli.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 21 giugno 1971
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: COLOMBO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 18 agosto 1971 Atti del Governo, registro n. 243, foglio n. 142. - PASQUALUCCI
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);  
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);  
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);  
-Sentito il parere del Consiglio universitario nazionale;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 132: all'elenco delle scuole di specializzazione in medicina e chirurgia sono aggiunte le scuole di specializzazione in "Audiologia", in "Nefrologia medica" e in "Ematologia clinica e di laboratorio".  
+Dopo l'art. 225 e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Audiologia", in "Nefrologia medica" e in "Ematologia clinica e di laboratorio".  
   
-Dopo l'art. 419, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia vascolare (seconda).  
+Scuola di specializzazione in audiologia  
   
-Seconda scuola di specializzazione in chirurgia vascolare  
-Art. 420. - E' istituita presso l'Universita' di Milano la seconda scuola di specializzazione in chirurgia vascolare, che conferisce il diploma di specialista in chirurgia vascolare.  
-Art. 421. - La direzione della scuola ha sede presso la facolta' di medicina e chirurgia dell'Universita' degli studi di Milano.  
-Art. 422. - La scuola ha lo scopo di conferire ai laureati in medicina e chirurgia il diploma di specialista in chirurgia vascolare con una adeguata e qualificata preparazione professionale.  
-Art. 423. - La durata del corso e' di cinque anni e non e' suscettibile di abbreviazioni.  
-Art. 424. - Il numero degli iscritti e' di quattro per ogni anno e complessivamente di venti per l'intero corso di studi.  
-Art. 425. - Alla scuola sono ammessi solo i laureati in medicina e chirurgia. E' richiesta l'abilitazione all'esercizio professionale.  
-Art. 426. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
-a) la tesi nella disciplina attinente alla specializzazione;  
-b) il voto di laurea;  
-c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
-d) le pubblicazioni nelle predette materie.  
-Il punteggio dei predetti titoli e' quello stabilito dal [decreto ministeriale 16 settembre 1982 (Gazzetta Ufficiale n. 775 del 6 ottobre 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-10-06&numeroGazzetta=775)).  
-Sono ammessi alla scuola di specializzazione coloro che in relazione al numero dei posti disponibili si siano collocati in posizioni utili nelle graduatorie compilate sulla base del punteggio complessivamente riportato.  
-Art. 427. - Le materie di insegnamento, tutte afferenti alla facolta' di medicina e chirurgia, sono le seguenti:  
+Art. 226. - La scuola ha sede presso la cattedra di audiologia dell'Universita' di Milano.  
+La durata del corso e' fissata in tre anni.  
+Il numero degli iscritti alla scuola, complessivo per i tre anni, e' fissato ad un massimo di dodici (quattro per anno).  
+Non e' concesso alcun abbreviamento del corso.  
+Le materie di insegnamento sono:  
 1° Anno:  
-1) embriologia, anatomia macro e microscopica dell'apparato vascolare;  
-2) fisiopatologia dell'apparato vascolare e della coagulazione sanguigna;  
-3) anatomia patologica dell'apparato vascolare;  
-4) semeiologia fisica e strumentale delle malattie vascolari;  
-5) semeiologia radiologica delle malattie vascolari;  
-6) vasculopatie di interesse medico e specialistico.  
+Nozioni di fisica acustica;  
+Anatomia dell'orecchio, delle vie e dei centri acustici e vestibolari;  
+Fisiologia dell'orecchio, delle vie e dei centri acustici e vestibolari;  
+Nozioni di psichiatria.  
 2° Anno:  
-7) patologia e clinica delle malattie del sistema arterioso;  
-8) patologia e clinica delle malattie del sistema venoso;  
-9) patologia e clinica delle malattie del sistema linfatico;  
-10) patologia e clinica delle malattie dei piccoli vasi.  
+Tecniche audiometriche;  
+Nozioni di neurologia;  
+Nozioni di vestibologia.  
 3° Anno:  
-11) nozioni di terapia medica delle malattie vascolari;  
-12) terapia chirurgica delle malattie vascolari;  
-13) chirurgia vascolare applicata a malattie dei vari organi (I).  
-4° Anno:  
-14) informatica medica;  
-15) rianimazione e terapia intensiva;  
-16) patologia e clinica vascolare pediatrica (I);  
-17) epidemiologia delle malattie vascolari;  
-18) elementi di legislazione sanitaria comunitaria;  
-19) chirurgia vascolare applicata a malattie dei vari organi (II).  
-5° Anno:  
-20) elementi di bioingegneria applicati al circolo;  
-21) principi e tecnica di circolazione extracorporea;  
-22) terapia intensiva;  
-23) patologia e clinica vascolare pediatrica (II);  
-24) tecniche chirurgiche applicate alla patologia vascolare;  
-25) chirurgia vascolare applicata a malattie dei vari organi (III).  
-Art. 428. - La frequenza ai vari corsi e' obbligatoria.  
-Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno in corso una sola volta.  
-Art. 429. - Il corso sara' articolato secondo cicli di lezioni teoriche e pratiche, queste ultime tenute presso i vari reparti, i cui letti afferiscono alla scuola di specialita' stessa, della durata di una settimana ogni mese, per sei mesi.  
-Al termine dei corsi verra' rilasciato un attestato di frequenza necessario per sostenere gli esami. Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio sociosanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.  
-Art. 430. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio delle scuole di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.  
-A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista in chirurgia vascolare.  
-Art. 431. - L'importo delle tasse e soprattasse dovuto dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge: i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
-Art. 432. - Per la scuola di specializzazione e' costituito un consiglio presieduto da un direttore.  
-Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).  
-Il consiglio esercita le competenze spettanti ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382 al consiglio del corso di laurea in materia di coordinamento di insegnamenti. La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata ad un professore associato che pure insegni nella scuola stessa.  
+Patologia dell'udito;  
+Terapia medica, chirurgica e protesica della sordita';  
+La sordita' sotto il profilo sociale;  
+La rieducazione dell'ipoacusico.  
+Per accedere al 2° e al 3° anno e' obbligatorio il superamento di tutti gli esami, rispettivamente del 1° e del 2° anno. Gli esami possono essere sostenuti solamente in due sessioni annuali, una estiva ed una autunnale.  
+Il direttore della scuola e dei corsi e' il titolare della cattedra di audiologia dell'Universita' di Milano. Gli insegnanti sono proposti dal direttore della scuola e scelti tra i titolari di altre cattedre della facolta' di medicina e chirurgia dell'Universita' di Milano, tra i liberi docenti in audiologia ed in altre materie.  
+Il diploma di specialista in audiologia viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico e sperimentale.  
+  
+Scuola di specializzazione in nefrologia medica  
+  
+Art. 227. - Alla scuola di specializzazione sono ammessi i laureati in medicina e chirurgia.  
+Il corso di studi per il conseguimento del diploma di specialista ha la durata di tre anni.  
+Le ammissioni sono previste nel numero di otto per ogni anno di corso.  
+Nel caso che le domande eccedano il numero previsto per gli iscritti alla scuola, la selezione verra' fatta mediante concorso da parte di una commissione presieduta dal direttore della scuola (graduatoria per titoli ed esami).  
+Gli iscritti alla scuola avranno l'obbligo di frequentare le lezioni, le esercitazioni, le visite di istruzione e le eventuali conferenze; in caso contrario, non potranno avere l'attestato di frequenza necessario per essere ammessi a sostenere le prove di esame.  
+Al termine di ogni anno accademico, l'allievo della scuola di specializzazione dovra' sostenere un esame di profitto che comprenda il gruppo delle materie in programma; ove non sia superato tale esame, il candidato non potra' essere ammesso al corso successivo.  
+L'esame di diploma si svolgera' con le norme generali del testo unico universitario.  
+Al termine del corso di studi, verra' conseguito il diploma di specialista in "Nefrologia medica".  
+Art. 228. - Gli insegnamenti impartiti saranno i seguenti:  
+1° Anno:  
+Struttura ed ultrastruttura del rene;  
+Aspetti biochimici della funzione renale;  
+Fisiologia renale;  
+Semeiologia renale (fisica, radiologica, funzionale);  
+Microbiologia ed immunologia applicata alla nefrologia;  
+Struttura ed ultrastruttura patologica del rene.  
+2° Anno:  
+Patologia del ricambio idro-salino;  
+Insufficienza renale acuta e cronica;  
+Nefropatie glomerulari;  
+Nefropatie tubulari;  
+Farmacologia di interesse nefrologico;  
+Terapia dietetica e dialitica (1° anno).  
+3° Anno:  
+Nefropatie interstiziali;  
+Nefropatie vascolari;  
+Nefropatie malformative e neoplastiche;  
+Terapia dietetica e dialitica (2° anno);  
+Terapia generale delle nefropatie (antibiotica, antireattiva, sintomatica).  
+  
+Scuola di specializzazione in ematologia clinica e di laboratorio  
+  
+Art. 229. - La durata del corso e' di tre anni.  
+La frequenza alla scuola e' obbligatoria.  
+Il numero degli iscritti alla scuola e' fissato in sette per ogni anno di corso.  
+Le materie di insegnamento sono:  
+1° Anno:  
+Morfologia e morfogenesi normale e patologica del sangue (1°);  
+Genetica ematologica;  
+Fisiopatologia della coagulazione e dell'emostasi;  
+Fisiopatologia ematologica (1°);  
+Biochimica ematologica;  
+Fisiopatologia del plasma;  
+Tecniche di laboratorio inerenti all'ematologia.  
+2° Anno:  
+Morfologia e morfogenesi normale e patologica del sangue (2°);  
+Fisiopatologia ematologica (2°);  
+Immunoematologia;  
+Tecniche di laboratorio inerenti all'ematologia (2°);  
+Patologia speciale ematologica (1°);  
+Clinica delle emopatie (1°);  
+Anatomia ed istologia patologica delle emopatie e fondamenti in oncologia.  
+3° Anno:  
+Tecniche di laboratorio inerenti all'ematologia (3°);  
+Nozioni di radiobiologia e di medicina nucleare applicate all'ematologia;  
+Radiodiagnostica e radioterapia ematologica;  
+Patologia speciale ematologica (2°);  
+Clinica delle emopatie (2°);  
+Terapia sistematica ematologica;  
+Terapia trasfusionale.  
+Il direttore della scuola, al di fuori dei docenti incaricati ufficialmente, puo' invitare studiosi competenti ad impartire lezioni e conferenze su argomenti di speciale interesse ematologico.  
+L'ammissione alla scuola e' condizionata al superamento di una prova preliminare di cultura; qualora il numero degli aspiranti sia superiore al numero dei posti disponibili, per l'accettazione si potra' tener conto degli eventuali titoli.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 giugno 1984
+### Dato a Roma, addi' 21 giugno 1971
 
-PERTINI FALCUCCI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 8 agosto 1984
+Registrato alla Corte dei conti, addi' 18 agosto 1971
 
-Registro n. 49 Istruzione, foglio n. 208
+Atti del Governo, registro n. 243, foglio n. 142. - PASQUALUCCI

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1980 n. 339
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 1099
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1980 n. 339
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 1099
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ancona.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Ancona.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Ancona, approvato con [decreto del Presidente della Repubblica 4 ottobre 1971, n. 1330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-10-04;1330) e modificato con decreto del Presidente della P pubblici 7 agosto 1973, 909 e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Ancona, approvato con [decreto del Presidente della Repubblica 4 ottobre 1971, n. 1330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-10-04;1330), e modificato con [decreto del Presidente della Repubblica 7 agosto 1973, n. 909](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-08-07;909), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,85 +20,120 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ancona e convalidati dal Consiglio universitario nazionale nel suo parere;
+Veduto il [Decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Veduto il [parere della sezione prima del Consiglio di Stato, n. 1902/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
+Sulla proposta del Ministro della pubblica istruzione;
 
-Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli Atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
+Decreta:
+--------
 
-Sulla
------
+Lo statuto dell'Universita' degli studi di Ancona, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-proposta del Ministro della pubblica istruzione; Decreta:
-
-Articolo unico
---------------
+Art. 1
+------
 
   
-  
-Lo statuto dell'Universita' di Ancona, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-Dopo l'art. 17, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in oncologia.   
-  
-Scuola di specializzazione in oncologia   
-  
-Art. 18. - La scuola di specializzazione in oncologia ha sede presso l'istituto di anatomia patologica e conferisce il diploma di specialista in oncologia.   
-Art. 19. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Art. 20. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.   
-Art. 21. - La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazione.   
-Art. 22. -
+Gli articoli da 27 a 40, relativi alle norme comuni delle scuole di specializzazione in medicina e chirurgia, sono soppressi.  
 
-((Il numero massimo degli allievi e' di quindici per anno di corso, e complessivamente di quarantacinque iscritti per l'intero corso di studi.))
+Art. 2
+------
 
   
-Art. 23. - L'ammissione al corso avviene per titoli ed esami.   
-Art. 24. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-patologia generale dei tumori (I);   
-oncologia sperimentale (I);   
-anatomia ed istologia patologica dei tumori (I);   
-epidemiologia dei tumori;   
-cancerogenesi ambientale e professionale e prevenzione primaria;   
-immunologia dei tumori.   
-2° Anno:   
-patologia generale dei tumori (II);   
-oncologia sperimentale (II);   
-anatomia e istologia patologica dei tumori (II);   
-citodiagnostica dei tumori;   
-prevenzione clinica e tecniche diagnostiche e di laboratorio; radiodiagnostica dei tumori;   
-oncologia medica (I);   
-oncologia chirurgica (I).   
-3° Anno:   
-oncologia medica (II);   
-oncologia chirurgica (II);   
-radioterapia dei tumori;   
-oncologia dell'apparato genitale femminile;   
-oncologia pediatrica;   
-principi di riabilitazione oncologica;   
-organizzazione della lotta contro i tumori.   
-Ogni scuola deve provvedere ad organizzare seminari e conferenze su specifici argomenti con l'integrazioni di quelli elencati nello statuto.   
-Art. 25. - La frequenza alle lezioni, alle esercitazioni pratiche e' obbligatoria per l'ammissione agli esami; il superamento degli esami di ciascun anno e' condizione indispensabile per l'iscrizione all'anno successivo.   
-Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.   
-Art. 26. - Al termine del triennio per ottenere il diploma i candidati devono presentare una dissertazione scritta su un argomento attinente alla specializzazione.(1)   
+Al titolo I, dopo l'art. 14-bis e' inserito l'art. 14-ter, relativo alla normativa generale delle scuole di specializzazione.  
+  
+NORMATIVA GENERALE DELLE SCUOLE DI SPECIALIZZAZIONE  
+Art. 14-ter. - A) Nell'Universita' degli studi di Ancona sono  
+istituite le seguenti scuole di specializzazione:  
+Facolta' di medicina e chirurgia:  
+1) anatomia patologica;  
+2) anestesia e rianimazione;  
+3) cardiologia;  
+4) chirurgia generale;  
+5) chirurgia toracica;  
+6) dermatologia e venereologia;  
+7) ematologia generale (clinica e laboratorio);  
+8) fisioterapia;  
+9) gastroenterologia ed endoscopia digestiva;  
+10) ginecologia ed ostetricia;  
+11) igiene;  
+12) igiene e medicina preventiva;  
+13) immunoematologia;  
+14) malattie infettive;  
+15) medicina del lavoro;  
+16) medicina interna;  
+17) neurologia;  
+18) odontostomatologia;  
+19) oftalmologia;  
+20) oncologia;  
+21) ortopedia;  
+22) pediatria;  
+23) psichiatria;  
+24) reumatologia;  
+25) urologia.  
+B) I concorsi di ammissione relativi a ciascuna scuola, con specificazione del numero degli iscrivibili, sono banditi con decreto rettorale in tempo utile per il successivo anno accademico.  
+I candidati alle specializzazioni, per le quali e' requisito indispensabile il possesso dell'abilitazione professionale, possono partecipare "sub condizione" all'esame di ammissione; all'atto di regolare l'iscrizione debbono depositare anche il diploma di abilitazione.  
+L'eventuale differenza, fra il totale degli iscrivibili previsto per ciascuna scuola e il corrispondente numero di posti effettivamente banditi, potra' essere destinata a concorrenti di cittadinanza straniera, limitatamente alle scuole per le quali non e' prevista l'esistenza di un albo professionale.  
+Il numero complessivo degli specializzandi di cittadinanza straniera non potra' essere comunque superiore al venti per cento di quelli di cittadinanza italiana.  
+Limitazioni e condizioni di ammissione per specializzandi stranieri sono inclusi negli statuti specifici e riportati nel bando di concorso.  
+C) Il concorso di ammissione secondo quanto previsto dall'[art. 13 del decreto del Presidente della Repubblica n. 162/1982](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;162~art13), e' per esami e titoli.  
+L'esame consiste:  
+a) in una prova scritta intesa ad accertare la cultura generale dell'area di specializzazione;  
+b) in una eventuale prova orale, sempre sulle medesime tematiche, integrate, se del caso, da una prova pratica.  
+Il bando di concorso di ammissione a ciascuna scuola indichera' eventuali modalita' diverse, come le prove attraverso risposta a quesiti multipli, ed i programmi di esame.  
+Il candidato dovra' dare prova di buona conoscenza strumentale della lingua o delle lingue straniere secondo quanto indicato nel bando.  
+La valutazione dei titoli integrera' il punteggio, conseguito nell'esame di cui ai commi precedenti, in misura non superiore al trenta per cento dello stesso.  
+Costituiscono titolo:  
+a) la tesi di laurea;  
+b) il voto di laurea;  
+c) il voto riportato negli esami di profitto nel corso di laurea in discipline attinenti la specializzazione ed indicate nel bando di concorso per ciascuno dei corsi di laurea che danno accesso alla scuola;  
+d) le pubblicazioni scientifiche.  
+Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale del 16 settembre 1982, emanato ai sensi dell'[art. 13, quinto comma, del decreto del Presidente della Repubblica n. 162/82, pubblicato nella Gazzetta Ufficiale n. 275 del 6 ottobre 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-10-06&numeroGazzetta=275).  
+D) La commissione per l'esame di ammissione e costituita da cinque professori di ruolo designati dal consiglio della scuola. Nel caso di convenzione con enti pubblici o privati, che preveda, a carico di quest'ultimi, la concessione di borse per frequentare la scuola, la commissione puo' essere integrata da un docente o cultore di materie attinenti alla scuola, scelto dal consiglio della scuola entro una terna designata dagli, enti erogatori.  
+E) La commissione giudicatrice dell'esame finale per il conseguimento del diploma di specialista e' composta da cinque professori di ruolo della scuola designati dal consiglio della scuola, di cui al punto I).  
+Eventuali allargamenti che comportino integrazioni non superiori a due membri, e le modalita' relative sono definiti dalle normative specifiche di ciascuna scuola.  
+F) L'importo delle tasse e sovrattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione dell'Universita'.  
+G) Sono organi della scuola il direttore ed il consiglio della scuola.  
+H) Il direttore ha la responsabilita' della scuola. E' un professore di ruolo che insegni nella scuola, di norma di prima fascia. In caso di motivato impedimento dei professori di prima fascia la direzione e' affidata a professori di seconda fascia.  
+Il direttore e' eletto, con voto segreto, dal consiglio della scuola, di cui al successivo punto I); convoca il consiglio della scuola e lo presiede; ha, nell'ambito della conduzione della scuola, le funzioni proprie dei presidenti di consiglio di corso di laurea.  
+Il direttore promuove, per la stipula attraverso il consiglio di amministrazione ed il rettore, le convenzioni per lo svolgimento delle attivita' di formazione.  
+Per la gestione dei fondi a disposizione della scuola si applicano le norme dettate per gli istituti dal regolamento per l'amministrazione e la contabilita' generale dell'Universita'.  
+Il direttore dura in carica tre anni ed e' rieleggibile.  
+Nel manifesto annuale degli studi viene indicata la sede della direzione della scuola.  
+I) Il consiglio della scuola e' composto da tutti i docenti della scuola compresi gli eventuali docenti a contratto, e da una rappresentanza di tre specializzandi, eletta secondo quanto previsto dall'[art. 99 del decreto del Presidente della Repubblica n. 382/80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art99).  
+L) Il consiglio della scuola ne conduce e coordina le attivita' con i consigli dei dipartimenti e delle facolta' interessati inclusi la designazione dei docenti, l'affidamento degli insegnamenti e le eventuali proposte di contratti.  
+In prima istituzione, i docenti che costituiscono il consiglio della scuola vengono designati in rapporto agli insegnamenti da attivare con apposita delibera dei consigli delle facolta' interessate sentiti i consigli dei dipartimenti coinvolti.  
+M) Lo specializzando e' tenuto a seguire tutti i corsi di lezioni e a partecipare a tutte le attivita' pratiche ed alle esercitazioni previste, per ciascun anno di corso, dal manifesto degli studi nel quadro delle norme piu' sotto indicate.  
+La frequenza della scuola e' obbligatoria per tutti gli iscritti.  
+Modalita' di accertamento della frequenza sono determinate dal consiglio della scuola e rese note nel manifesto annuale degli studi, ovvero attraverso altre idonee forme.  
+N) Alla fine di ciascun anno, lo specializzando deve superare un esame teorico-pratico sulle attivita' di formazione svolte nell'anno, valutato da una commissione, appositamente nominata e presieduta dal direttore della scuola, e costituita dai docenti della scuola delle discipline interessate dal programma di formazione dei candidati.  
+Coloro che non superano l'esame non possono essere ammessi al successivo anno di corso e debbono ripetere l'anno.  
+E' ammessa la ripetizione dell'anno per una sola volta.  
+O) Il calendario dei corsi di studio e delle attivita' pratiche e' stabilito, anno per anno, dal consiglio della scuola, nel monte ore previsto dall'ordinamento di ogni singola scuola.  
+I corsi potranno articolarsi in cicli di lezioni, seminari e moduli di formazione, nell'ambito delle leggi vigenti.  
+P) Il corso si conclude con un esame di diploma, che consiste nella discussione di una dissertazione scritta, che dimostri la preparazione scientifica e le capacita' operative collegate alla specifica professionalita'.  
+Q) Nel caso di scuole di specializzazione istituite in base a convenzioni con altre Universita', per i docenti che debbono esplicare le previste attivita' didattiche in sede diversa da quella ordinaria di servizio, e che abbiano incluso tali attivita' nel proprio piano didattico annuale approvato dalla facolta' di appartenenza e' prevista la corresponsione di un rimborso spese relative al trasporto e all'eventuale pernottamento.  
+R) Le scuole gia' funzionanti presso le Universita' con il vecchio ordinamento sono progressivamente disattivate; le scuole di cui al punto A) sono progressivamente attivate a partire dall'anno accademico nel quale entra in vigore il riordinamento di ciascuna scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 febbraio 1980
+### Dato a Roma, addi' 4 ottobre 1986
 
-PERTINI VALITUTTI
+COSSIGA
 
-Visto, il Guardasigilli: MORLINO
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 26 giugno 1980
+Visto, il Guardasigilli: ROGNONI
 
-Registro n. 61 Istruzione, foglio n. 294 ---------------- AGGIORNAMENTO (1)
+Registrato alla Corte dei conti, addi' 6 maggio 1987
 
-Il D.P.R. 31 ottobre 1980, n. 1076 ha disposto (con l'articolo unico) che " Il dispositivo del decreto del Presidente della
-
-Repubblica 20 febbraio 1980, n. 339, deve intendersi riferito al riordinamento della scuola di specializzazione in oncologia dell'Universita' di Ancona e non all'istituzione."
+Registro n. 27 Istruzione, foglio n. 177

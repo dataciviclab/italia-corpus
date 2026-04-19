@@ -1,65 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1968 n. 587
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 giugno 1967 n. 708
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1968 n. 587
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 giugno 1967 n. 708
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 127. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie e' aggiunto quello di: "Fisiopatologia".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 20 marzo 1968
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 24 aprile 1968 Atti del Governo, registro n. 219, foglio n. 62. - GRECO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227) e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -67,18 +24,56 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 127. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie e' aggiunto quello di: "Fisiopatologia".  
+  
+Dopo l'art. 324 e con il conseguente spostamento della numerazione degli articoli successivi sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Patologia aviare annessa alla Facolta' di medicina veterinaria.  
+  
+Scuola di specializzazione in Patologia aviare  
+  
+Art. 325. - Presso la Facolta' di medicina veterinaria e' istituita una Scuola biennale di specializzazione in Patologia aviare. Scopo del corso e' di fornire agli iscritti tutte quelle cognizioni necessarie per espletare la professione nel campo dell'avicoltura intensiva. La Scuola conferira' il diploma di specialista in Patologia aviare ai sensi dell'art. 159 del presente statuto.  
+Art. 326. - Direttore della Scuola e' il titolare della cattedra di Patologia aviare, o, in mancanza, un professore di ruolo nominato dalla Facolta' di medicina veterinaria per un anno e sempre riconfermabile. Egli presiede il Consiglio della Scuola, costituito a norma dell'art. 149, vigila al buon funzionamento di essa ed e' tenuto a dare comunicazione al preside della Facolta' di medicina veterinaria di tutti gli atti e di tutte le deliberazioni del Consiglio da lui presieduto.  
+Art. 327. - Al corso possono iscriversi i laureati in Medicina veterinaria.  
+Art. 328. - Per il conseguimento del titolo di specialista e' obbligatoria la frequenza alle lezioni, alle esercitazioni, alle conferenze, ai colloqui, tenuti espressamente per il corso in oggetto. Nel secondo anno e' obbligatorio l'internato per un periodo non inferiore ad un mese.  
+Art. 329. - Gli insegnamenti avranno carattere cattedratico o potranno essere svolti in quella diversa forma ed in quella sede che le esigenze di ciascuna disciplina consigliano.  
+Art. 330. - Gli insegnamenti impartiti nella Scuola sono i seguenti:  
+1) Tecnologia dell'avicoltura (biennale);  
+2) Anatomia, istologia ed embriologia (semestrale);  
+3) Biochimica e fisiologia (semestrale);  
+4) Microbiologia, immunologia e diagnostica di laboratorio.  
+Profilassi e polizia veterinaria (biennale);  
+5) Patologia generale applicata alla patologia aviare;  
+6) Patologia speciale e terapia (malattie infettive, malattie parassitarie, patologia dell'alimentazione, patologia dell'embrione, tossicosi);  
+7) Scienza dell'alimentazione;  
+8) Approvvigionamenti ed ispezione sanitaria dei prodotti avicoli.  
+Art. 331. - I docenti dei singoli insegnamenti sono nominati per incarico, anno per anno, dal Consiglio di facolta' su proposta del direttore della Scuola.  
+Art. 332. - Alla fine del primo anno, per accedere al secondo, e' obbligatorio aver superato i seguenti esami di profitto:  
+1) Anatomia, istologia ed embriologia;  
+2) Biochimica e fisiologia;  
+3) Patologia generale applicata alla patologia aviare;  
+4) Tecnologia dell'avicoltura (1 parte);  
+5) Microbiologia, immunologia e diagnostica di laboratorio.  
+Profilassi e polizia veterinaria (1ª parte).  
+Alla fine del 2° anno si sostengono i seguenti esami di profitto:  
+1) Tecnologia dell'avicoltura (2a parte);  
+2) Microbiologia, immunologia e diagnostica di laboratorio;  
+Profilassi e polizia veterinaria (2a parte);  
+3) Patologia speciale e terapia;  
+4) Scienza dell'alimentazione;  
+5) Approvvigionamenti ed ispezione sanitaria dei prodotti avicoli.  
+L'esame di diploma consistera' nella discussione di una dissertazione scritta svolta dal candidato su argomento da lui scelto con approvazione del direttore della Scuola, di fronte alla Commissione di diploma costituita a norma dell'art. 141, primo comma, dello statuto dell'Universita' di Bologna.  
+Art. 333. - Le tasse e sopratasse da pagarsi dagli iscritti alla Scuola sono le stesse stabilite dalla legge per gli iscritti alla Facolta' di medicina veterinaria.  
+Il contributo annuo che gli iscritti debbono corrispondere per le esercitazioni pratiche e per le prestazioni di qualunque natura di cui usufruiscono durante l'anno di studio, e' stabilito anno per anno dal Consiglio di amministrazione dell'Universita', uditi il Consiglio di facolta' ed il Senato accademico.  
+Art. 334. - Al finanziamento della Scuola viene provveduto, oltre che con introiti di cui all'articolo precedente, con eventuali contributi dei Ministeri interessati e di altri Enti o privati che intendano cooperare alla attuazione dei fini che la Scuola si propone di conseguire.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 marzo 1968
+### Dato a Roma, addi' 24 giugno 1967
 
 SARAGAT GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 24 aprile 1968
+Registrato alla Corte dei conti, addi' 8 agosto 1967
 
-Atti del Governo, registro n. 219, foglio n. 62. - GRECO
+Atti del Governo, registro n. 212, foglio n. 120. - GRECO

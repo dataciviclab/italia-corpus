@@ -1,169 +1,59 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1968 n. 167
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1953 n. 546
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1968 n. 167
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1953 n. 546
+============================================================
 
 Modificazioni dello statuto dell'Universita' degli studi di Pisa.
 -----------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), o successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), a successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Dopo l'art. 163 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli, relativi alla istituzione della scuola speciale per storici dell'arte medioevale e moderna e conservatori dei beni artistici annessa alla facolta' di lettere e filosofia.
-
-Scuola speciale per storici dell'arte medioevale e moderna e conservatori dei beni artistici
-
-Art. 164. - La scuola speciale per storici dell'arte medioevale e moderna e conservatori dei beni artistici e' istituita presso l'Universita' degli studi di Pisa, ai sensi dell'art. 20, comma terzo, lettera A, del testo unico delle vigenti leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592).
-
-La scuola ha per scopo di formare il personale scientificamente, tecnicamente e professionalmente preparato per la conservazione e il restauro del patrimonio artistico italiano, e per le funzioni della carriera direttiva e di concetto dell'amministrazione delle antichita' e belle arti.
-
-Art. 165. - La scuola speciale cura la preparazione professionale dei conservatori delle opere d'arte.
-
-Art. 166. - I corsi hanno insegnamenti teorici e sperimentali ed esercitazioni speciali, hanno la durata di un biennio e danno adito al conferimento del diploma di conservatore delle opere d'arte. Ogni anno di corso ha la durata di un anno accademico.
-
-Art. 167. - Possono iscriversi alla scuola speciale i laureati in lettere, in filosofia, in pedagogia, in materie letterarie, in architettura, in ingegneria civile, nonche' gli studenti dei medesimi corsi di laurea che abbiano superato gli esami del primo biennio.
-
-L'iscrizione alla scuola si puo' conseguire anche mediante una prova di esame di ammissione sostenuta davanti al Consiglio della scuola e vertente su almeno cinque delle discipline oggetto degli insegnamenti.
-
-Art. 168. - Gli iscritti alla scuola sono tenuti a versare le tasse, soprattasse e contributi secondo le disposizioni vigenti per gli studenti delle facolta' di lettere e filosofia.
-
-Art. 169. - Il direttore della scuola speciale e' il professore di ruolo titolare di storia dell'arte medioevale e moderna e direttore del relativo istituto.
-
-Quando la cattedra non sia coperta da un professore di ruolo, il direttore e' nominato per un triennio accademico dal rettore su designazione del Consiglio della facolta' di lettere e filosofia, e puo' essere confermato.
-
-Il direttore della scuola puo' proporre al rettore la nomina di un insegnante della scuola a vicedirettore, con l'incarico di coadiuvarlo.
-
-Art. 170. - Gli insegnanti della scuola speciale sono proposti annualmente dal direttore all'approvazione del Consiglio di facolta' di lettere e filosofia. Il direttore puo' scegliere gli insegnanti tra i professori di ruolo e fuori ruolo, aggregati, liberi docenti, aiuti ed assistenti, i soprintendenti e direttori ed ispettori delle soprintendenze ai monumenti e gallerie, nonche' tra persone di riconosciuta competenza nelle rispettive specialita'. Alle nomine provvede il rettore.
-
-Il Consiglio della scuola e' composto da tutti i docenti che vi insegnano.
-
-Art. 171. - Sono insegnamenti della scuola speciale:
-
-1) archeologia e storia dell'arte medioevale;
-
-2) storia dell'arte moderna;
-
-3) storia della critica d'arte;
-
-4) morfologia e tecnica del conoscitore;
-
-5) legislazione ed amministrazione artistica;
-
-6) analisi formale e strutturale delle opere d'arte;
-
-7) storia e tecniche del restauro delle opere d'arte;
-
-8) museografia e conservazione delle opere d'arte;
-
-9) storia del disegno e della grafica;
-
-10) storia della miniatura.
-
-La scuola, a domanda degli iscritti, oltre ai precedenti, puo' istituire corsi di lezioni, conferenze ed esercitazioni affidati a competenti per settori particolari riguardanti la storia delle arti in Italia, in paesi stranieri, l'etnologia, le tradizioni popolari, le scienze ausiliarie, ed ogni altra specializzazione attinente alla preparazione professionale. Di ognuno degli insegnamenti sono integrative le esercitazioni e le attivita' sperimentali tra le quali la catalogazione, il disegno, la fotografia, il restauro nei suoi aspetti scientifici ed operativi.
-
-Gli insegnamenti, le esercitazioni e la partecipazione alle attivita' sperimentali si svolgono presso l'istituto di storia dell'arte medioevale e moderna e la relativa scuola di perfezionamento, e presso le soprintendenze ai monumenti e gallerie di Pisa, Firenze e Siena.
-
-Nel biennio di studi un periodo di sei mesi e' riservato ad un servizio volontario prestato dagli iscritti presso dette soprintendenze.
-
-Art. 172. - Il diploma e' conferito agli iscritti sulla base di un certificato di frequenza dei corsi, delle esercitazioni e delle attivita' sperimentali e professionali, e di un esame generale sostenuto davanti, al Consiglio della scuola e vertente sui risultati dell'esperienza compiuta sia con gli insegnamenti comuni che con quelli speciali.
-
-Art. 173. - Agli iscritti possono essere conferiti dal Consiglio della scuola borse ed assegni di studio. Il Consiglio determina il numero e la misura delle borse e degli assegni di studio, in relazione alle disponibilita' finanziarie, nonche' le modalita' di conferimento.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 12 febbraio 1968
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 9 marzo 1968 Atti del Governo, registro n. 217, foglio n. 143. - GRECO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), o successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con i [regi decreti 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2225); [20 settembre 1928, n. 2251](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1928-09-20;2251); [31 ottobre 1929, n. 2473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1929-10-31;2473); [30 ottobre 1930, n. 1916](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1916); [22 ottobre 1931, n. 1339](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-22;1339); [27 ottobre 1932, n. 2098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2098); [13 dicembre 1934, n. 2408](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-13;2408); [1 ottobre 1936, n. 2462](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2462); [27 ottobre 1937, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1937-10-27;2170); [9 maggio 1939, n. 1314](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-05-09;1314); [5 ottobre 1939, n. 1744](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1744); [26 ottobre 1940, n. 2071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2071); [27 aprile 1942, n. 469](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;469) e [24 ottobre 1942, n. 1652, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1652) [30 dicembre 1947, n. 1689, con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1689) [17 febbraio 1949, n. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-17;97); [30 ottobre 1949, n. 1169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1169); [31 ottobre 1950, n. 1309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1309); [11 aprile 1951, n. 566](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;566); [27 ottobre 1951, n. 1801](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1801); [25 marzo 1952, n. 872](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-03-25;872); [25 luglio 1952, n. 1351](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1351) e [12 settembre 1952, n. 3861](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-12;3861);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), a successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Dopo l'art. 163 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli, relativi alla istituzione della scuola speciale per storici dell'arte medioevale e moderna e conservatori dei beni artistici annessa alla facolta' di lettere e filosofia.  
-Scuola speciale per storici dell'arte medioevale e moderna e conservatori dei beni artistici  
-Art. 164. - La scuola speciale per storici dell'arte medioevale e moderna e conservatori dei beni artistici e' istituita presso l'Universita' degli studi di Pisa, ai sensi dell'art. 20, comma terzo, lettera A, del testo unico delle vigenti leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592).  
-La scuola ha per scopo di formare il personale scientificamente, tecnicamente e professionalmente preparato per la conservazione e il restauro del patrimonio artistico italiano, e per le funzioni della carriera direttiva e di concetto dell'amministrazione delle antichita' e belle arti.  
-Art. 165. - La scuola speciale cura la preparazione professionale dei conservatori delle opere d'arte.  
-Art. 166. - I corsi hanno insegnamenti teorici e sperimentali ed esercitazioni speciali, hanno la durata di un biennio e danno adito al conferimento del diploma di conservatore delle opere d'arte. Ogni anno di corso ha la durata di un anno accademico.  
-Art. 167. - Possono iscriversi alla scuola speciale i laureati in lettere, in filosofia, in pedagogia, in materie letterarie, in architettura, in ingegneria civile, nonche' gli studenti dei medesimi corsi di laurea che abbiano superato gli esami del primo biennio.  
-L'iscrizione alla scuola si puo' conseguire anche mediante una prova di esame di ammissione sostenuta davanti al Consiglio della scuola e vertente su almeno cinque delle discipline oggetto degli insegnamenti.  
-Art. 168. - Gli iscritti alla scuola sono tenuti a versare le tasse, soprattasse e contributi secondo le disposizioni vigenti per gli studenti delle facolta' di lettere e filosofia.  
-Art. 169. - Il direttore della scuola speciale e' il professore di ruolo titolare di storia dell'arte medioevale e moderna e direttore del relativo istituto.  
-Quando la cattedra non sia coperta da un professore di ruolo, il direttore e' nominato per un triennio accademico dal rettore su designazione del Consiglio della facolta' di lettere e filosofia, e puo' essere confermato.  
-Il direttore della scuola puo' proporre al rettore la nomina di un insegnante della scuola a vicedirettore, con l'incarico di coadiuvarlo.  
-Art. 170. - Gli insegnanti della scuola speciale sono proposti annualmente dal direttore all'approvazione del Consiglio di facolta' di lettere e filosofia. Il direttore puo' scegliere gli insegnanti tra i professori di ruolo e fuori ruolo, aggregati, liberi docenti, aiuti ed assistenti, i soprintendenti e direttori ed ispettori delle soprintendenze ai monumenti e gallerie, nonche' tra persone di riconosciuta competenza nelle rispettive specialita'. Alle nomine provvede il rettore.  
-Il Consiglio della scuola e' composto da tutti i docenti che vi insegnano.  
-Art. 171. - Sono insegnamenti della scuola speciale:  
-1) archeologia e storia dell'arte medioevale;  
-2) storia dell'arte moderna;  
-3) storia della critica d'arte;  
-4) morfologia e tecnica del conoscitore;  
-5) legislazione ed amministrazione artistica;  
-6) analisi formale e strutturale delle opere d'arte;  
-7) storia e tecniche del restauro delle opere d'arte;  
-8) museografia e conservazione delle opere d'arte;  
-9) storia del disegno e della grafica;  
-10) storia della miniatura.  
-La scuola, a domanda degli iscritti, oltre ai precedenti, puo' istituire corsi di lezioni, conferenze ed esercitazioni affidati a competenti per settori particolari riguardanti la storia delle arti in Italia, in paesi stranieri, l'etnologia, le tradizioni popolari, le scienze ausiliarie, ed ogni altra specializzazione attinente alla preparazione professionale. Di ognuno degli insegnamenti sono integrative le esercitazioni e le attivita' sperimentali tra le quali la catalogazione, il disegno, la fotografia, il restauro nei suoi aspetti scientifici ed operativi.  
-Gli insegnamenti, le esercitazioni e la partecipazione alle attivita' sperimentali si svolgono presso l'istituto di storia dell'arte medioevale e moderna e la relativa scuola di perfezionamento, e presso le soprintendenze ai monumenti e gallerie di Pisa, Firenze e Siena.  
-Nel biennio di studi un periodo di sei mesi e' riservato ad un servizio volontario prestato dagli iscritti presso dette soprintendenze.  
-Art. 172. - Il diploma e' conferito agli iscritti sulla base di un certificato di frequenza dei corsi, delle esercitazioni e delle attivita' sperimentali e professionali, e di un esame generale sostenuto davanti, al Consiglio della scuola e vertente sui risultati dell'esperienza compiuta sia con gli insegnamenti comuni che con quelli speciali.  
-Art. 173. - Agli iscritti possono essere conferiti dal Consiglio della scuola borse ed assegni di studio. Il Consiglio determina il numero e la misura delle borse e degli assegni di studio, in relazione alle disponibilita' finanziarie, nonche' le modalita' di conferimento.  
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati e' cosi' ulteriormente modificato:  
+Art. 60. - E' sostituito dal seguente:  
+"Gli Istituti scientifici della Facolta' sono:  
+1) Istituto di fisica;  
+2) Istituto di chimica generale;  
+3) Istituto di chimica-fisica;  
+4) Istituto di chimica organica;  
+5) Istituto e museo di zoologia e anatomia comparata;  
+6) Istituto e museo di geologia e paleontologia;  
+7) Istituto di mineralogia e petrografia;  
+8) Istituto e museo di antropologia e paleontologia umana;  
+9) Istituto di astronomia e geodesia;  
+10) Istituto di analisi algebrica e infinitesimale;  
+11) Istituto di geometria analitica, descrittiva e proiettiva;  
+12) Istituto di meccanica razionale;  
+13) Istituto di analisi superiore;  
+14) Istituto di geometria superiore;  
+15) Istituto di fisica-matematica;  
+16) Scuola di disegno.  
+Gli Istituti di cui ai nn. 10, 11, 12, 13, 14 e 15 costituiscono nel loro complesso l'Istituto di matematica "Leonida Tonelli" dell'Universita' di Pisa il quale ha patrimonio indivisibile ed e' amministrato collegialmente".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 febbraio 1968
+### Dato a Roma, addi' 11 marzo 1953
 
-SARAGAT GUI
+EINAUDI SEGNI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: ZOLI
 
-Registrato alla Corte dei conti, addi' 9 marzo 1968
+Registrato alla Corte dei conti, addi' 27 luglio 1953
 
-Atti del Governo, registro n. 217, foglio n. 143. - GRECO
+Atti del Governo, registro n. 78, foglio n. 56. - PALLA

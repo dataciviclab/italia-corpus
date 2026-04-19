@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1970 n. 671
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1963 n. 1008
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1970 n. 671
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1963 n. 1008
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -10,15 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1473), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743) e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle Autorita' Accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,91 +30,73 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 189, e con il successivo spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in nefrologia medica.
+Dopo l'art. 140 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in Cardiologia.
 
-Scuola di specializzazione in nefrologia medica
+Art. 141. - Alla Facolta' di Medicina e Chirurgia e' annessa una scuola di specializzazione in Cardiologia, con sede presso il Centro cardiologico esistente nella clinica medica dell'Universita'.
 
-Art. 190. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in nefrologia medica, con sede presso la clinica medica generale.
+Art. 142. - La durata dei corsi e' di tre anni.
 
-La direzione della scuola sara' affidata dal consiglio della facolta' di medicina al direttore della clinica o di istituto che sia un noto cultore della nefrologia medica e che continui a dedicarsi ad essa insieme con i suoi collaboratori.
+Il numero massimo degli iscritti e' di venti complessivamente nei tre anni.
 
-Art. 191. - Alla scuola di specializzazione sono ammessi i laureati in medicina e chirurgia, in numero di quarantacinque per l'intero corso. Nel caso che le domande eccedano tale numero, la selezione verra' fatta mediante concorso per titoli ed esami espletato da una commissione presieduta dal direttore della scuola.
+Art. 143. - Le materie di insegnamento e la loro ripartizione nei singoli anni sono le seguenti:
 
-Art. 192. - La durata del corso degli studi e' di tre anni.
+Anno 1°:
 
-Art. 193. - Gli insegnamenti impartiti saranno i seguenti, suddivisi nei tre anni di corso:
+1) Anatomia dell'apparato cardio-vascolare (annuale);
 
-1° Anno:
+2) Fisiologia dell'apparato cardio-vascolare (annuale);
 
-Struttura ed ultrastruttura normale del rene;
+3) Semeiotica dell'apparato cardio-vascolare (biennale);
 
-Aspetti biochimici della funzione renale;
+4) Patologia dell'apparato cardio-vascolare (biennale);
 
-Fisiologia renale;
+5) Anatomia patologica dell'apparato cardio-vascolare (annuale).
 
-Semeiologia renale (fisica, radiologica, funzionale);
+Anno 2°:
 
-Microbiologia ed immunologia applicata alla nefrologia;
+1) Semeiotica dell'apparato cardio-vascolare (biennale);
 
-Struttura ed ultrastruttura patologica del rene.
+2) Patologia dell'apparato cardio-vascolare (biennale);
 
-2° Anno:
+3) Radiologia dell'apparato cardio-vascolare (annuale);
 
-Patologia del ricambio idro-salino;
+4) Clinica dell'apparato cardio-vascolare (biennale).
 
-Insufficienza renale acuta e cronica;
+Anno 3°:
 
-Nefropatie glomerulari;
+1) Clinica dell'apparato cardio-vascolare (biennale);
 
-Nefropatie tubulari;
+2) Farmacologia e terapia medica dell'apparato cardio-vascolare (annuale);
 
-Farmacologia di interesse nefrologico;
+3) Terapia chirurgica dell'apparato cardio-vascolare (annuale).
 
-Terapia dietetica e dialitica (1° anno).
-
-3° Anno:
-
-Nefropatie interstiziali;
-
-Nefropatie vascolari;
-
-Nefropatie malformative e neoplastiche;
-
-Terapia dialitica (2° anno);
-
-Terapia generale delle nefropatie (antibiotica, antireattiva, sintomatica).
-
-Art. 194. - Per ottenere l'attestato di frequenza necessario per l'ammissione alle prove di esame, gli allievi debbono sottostare all'obbligo di frequentare le lezioni, le esercitazioni, le visite di istruzione, nonche' le eventuali conferenze organizzate dalla direzione della scuola.
-
-Al termine di ogni anno accademico, gli allievi dovranno sostenere un esame di profitto che comprende il gruppo delle materie in programma, ove detto esame non venga superato, il candidato non potra' essere ammesso al corso successivo.
-
-L'esame di diploma si svolgera' col rispetto delle norme generali del testo unico sull'istruzione superiore e di quelle del presente statuto.
+Gli esami dovranno essere sostenuti al termine di ogni insegnamento.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 14 luglio 1970
+Dato a Roma, addi' 30 giugno 1963
 
-SARAGAT
+SEGNI
 
-MISASI
+GUI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BOSCO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 15 settembre 1970 Atti del Governo, registro n. 237, foglio n. 92. - GRECO
+alla Corte dei conti, addi' 2 agosto 1963 Atti del Governo, registro n. 172, foglio n. 79. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1473), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle Autorita' Accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -123,49 +105,38 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 189, e con il successivo spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in nefrologia medica.  
-  
-Scuola di specializzazione in nefrologia medica  
-  
-Art. 190. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in nefrologia medica, con sede presso la clinica medica generale.  
-La direzione della scuola sara' affidata dal consiglio della facolta' di medicina al direttore della clinica o di istituto che sia un noto cultore della nefrologia medica e che continui a dedicarsi ad essa insieme con i suoi collaboratori.  
-Art. 191. - Alla scuola di specializzazione sono ammessi i laureati in medicina e chirurgia, in numero di quarantacinque per l'intero corso. Nel caso che le domande eccedano tale numero, la selezione verra' fatta mediante concorso per titoli ed esami espletato da una commissione presieduta dal direttore della scuola.  
-Art. 192. - La durata del corso degli studi e' di tre anni.  
-Art. 193. - Gli insegnamenti impartiti saranno i seguenti, suddivisi nei tre anni di corso:  
-1° Anno:  
-Struttura ed ultrastruttura normale del rene;  
-Aspetti biochimici della funzione renale;  
-Fisiologia renale;  
-Semeiologia renale (fisica, radiologica, funzionale);  
-Microbiologia ed immunologia applicata alla nefrologia;  
-Struttura ed ultrastruttura patologica del rene.  
-2° Anno:  
-Patologia del ricambio idro-salino;  
-Insufficienza renale acuta e cronica;  
-Nefropatie glomerulari;  
-Nefropatie tubulari;  
-Farmacologia di interesse nefrologico;  
-Terapia dietetica e dialitica (1° anno).  
-3° Anno:  
-Nefropatie interstiziali;  
-Nefropatie vascolari;  
-Nefropatie malformative e neoplastiche;  
-Terapia dialitica (2° anno);  
-Terapia generale delle nefropatie (antibiotica, antireattiva, sintomatica).  
-Art. 194. - Per ottenere l'attestato di frequenza necessario per l'ammissione alle prove di esame, gli allievi debbono sottostare all'obbligo di frequentare le lezioni, le esercitazioni, le visite di istruzione, nonche' le eventuali conferenze organizzate dalla direzione della scuola.  
-Al termine di ogni anno accademico, gli allievi dovranno sostenere un esame di profitto che comprende il gruppo delle materie in programma, ove detto esame non venga superato, il candidato non potra' essere ammesso al corso successivo.  
-L'esame di diploma si svolgera' col rispetto delle norme generali del testo unico sull'istruzione superiore e di quelle del presente statuto.  
+Dopo l'art. 140 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in Cardiologia.  
+Art. 141. - Alla Facolta' di Medicina e Chirurgia e' annessa una scuola di specializzazione in Cardiologia, con sede presso il Centro cardiologico esistente nella clinica medica dell'Universita'.  
+Art. 142. - La durata dei corsi e' di tre anni.  
+Il numero massimo degli iscritti e' di venti complessivamente nei tre anni.  
+Art. 143. - Le materie di insegnamento e la loro ripartizione nei singoli anni sono le seguenti:  
+Anno 1°:  
+1) Anatomia dell'apparato cardio-vascolare (annuale);  
+2) Fisiologia dell'apparato cardio-vascolare (annuale);  
+3) Semeiotica dell'apparato cardio-vascolare (biennale);  
+4) Patologia dell'apparato cardio-vascolare (biennale);  
+5) Anatomia patologica dell'apparato cardio-vascolare (annuale).  
+Anno 2°:  
+1) Semeiotica dell'apparato cardio-vascolare (biennale);  
+2) Patologia dell'apparato cardio-vascolare (biennale);  
+3) Radiologia dell'apparato cardio-vascolare (annuale);  
+4) Clinica dell'apparato cardio-vascolare (biennale).  
+Anno 3°:  
+1) Clinica dell'apparato cardio-vascolare (biennale);  
+2) Farmacologia e terapia medica dell'apparato cardio-vascolare (annuale);  
+3) Terapia chirurgica dell'apparato cardio-vascolare (annuale).  
+Gli esami dovranno essere sostenuti al termine di ogni insegnamento.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 luglio 1970
+### Dato a Roma, addi' 30 giugno 1963
 
-SARAGAT MISASI
+SEGNI GUI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 15 settembre 1970
+Registrato alla Corte dei conti, addi' 2 agosto 1963
 
-Atti del Governo, registro n. 237, foglio n. 92. - GRECO
+Atti del Governo, registro n. 172, foglio n. 79. - VILLA

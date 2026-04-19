@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 settembre 1955 n. 955
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1977 n. 722
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 settembre 1955 n. 955
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1977 n. 722
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Cagliari approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), modificato con i [regi decreti 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1743); [26 marzo 1942, n. 328, e con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-03-26;328) [22 ottobre 1946, n. 398, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-22;398) [30 ottobre 1949, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1027); [11 aprile 1951, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;565); [23 gennaio 1952, n. 365](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;365); [26 ottobre 1952, n. 4542](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4542); [10 febbraio 1953, n. 550](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;550); [30 luglio 1953, n. 716](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;716); [6 ottobre 1953, n. 1097](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-10-06;1097); [29 maggio 1954, n. 752](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-05-29;752); [24 settembre 1954, n. 1206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-24;1206); [16 febbraio 1955, n. 137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-16;137) e [15 luglio 1955, n. 759](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-15;759);
+Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,9 +18,11 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Cagliari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -30,220 +32,53 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 103, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della scuola di specializzazione in chirurgia generale.
+Art. 12 - all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:
 
-Scuola di specializzazione in chirurgia generale
+storia del diritto italiano moderno e contemporaneo;
 
-Art. 104. - Alla Facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in chirurgia generale, con sede presso l'Istituto di clinica chirurgica generale e terapia chirurgica.
+diritto penitenziario;
 
-Art. 105. - La durata dei corsi e' di cinque anni.
+storia e sistemi dei rapporti fra Stato e Chiesa.
 
-Art. 106. - Alla scuola vengono ammessi i laureati in medicina e chirurgia in numero non superiore a cinque per ogni anno. Qualora il numero delle domande d'iscrizione al primo corso sia superiore a cinque l'accettazione verra' fatta in base a concorso interno per esami.
+L'art. 67, relativo all'ordinamento degli studi del corso di laurea in farmacia, e' modificato nel senso che dopo il secondo comma successivo all'elenco degli insegnamenti complementari sono inseriti i seguenti due commi, relativi alle propedeuticita' degli esami:
 
-Art. 107. - Gli iscritti alla scuola hanno l'obbligo di frequentare i corsi ufficiali e le esercitazioni; hanno inoltre l'obbligo di frequenza nelle corsie della clinica ed in sala operatoria, svolgendo una reale attivita' pratica con orario pieno per almeno sei mesi per ogni anno di corso.
+Lo studente non puo' iscriversi al laboratorio di esercitazioni di chimica farmaceutica e tossicologica (triennale primo) se non ha superato l'esame di chimica generale ed inorganica, pertanto non puo' ottenere la firma di frequenza del suddetto corso.
 
-Art. 108. - Saranno ammessi a sostenere gli esami solo gli iscritti che abbiano adempiuto agli obblighi di cui all'articolo precedente.
+Lo studente non puo' iscriversi al laboratorio di esercitazioni di chimica farmaceutica e tossicologica (triennale terzo) se non ha superato l'esame di chimica organica, pertanto non puo' ottenere la firma del suddetto corso.
 
-Art. 109. - Gli insegnamenti impartiti nella scuola sono i seguenti:
+L'art. 70, relativo all'ammissione all'esame di laurea in chimica e tecnologia farmaceutiche, e' modificato nel senso che sono inseriti come primo e secondo comma i seguenti:
 
-1) Anatomia chirurgica (biennale).
+Lo studente non puo' iscriversi al laboratorio di analisi chimico farmaceutica I (analisi qualitativa) se non ha superato l'esame di chimica generale ed inorganica, pertanto non puo' ottenere la firma di frequenza del suddetto corso.
 
-2) Fisiopatologia chirurgica (biennale.
-
-3) Anatomia patologica (biennale).
-
-4) Semeiotica chirurgica (biennale).
-
-5) Patologia chirurgica (quadriennale).
-
-6) Medicina operatoria (biennale).
-
-7) Trattamento pre e post-operatorio (annuale).
-
-8) Clinica chirurgica generale (quinquennale).
-
-9) Esami di laboratorio (annuale).
-
-10) Chirurgia d'urgenza (annuale).
-
-11) Chirurgia di guerra (annuale).
-
-12) Neuropatologia chirurgica (annuale).
-
-13) Chirurgia del sistema nervoso (annuale).
-
-14) Traumatologia ed ortopedia (biennale).
-
-15) Otorinolaringoiatra (annuale).
-
-16) Endoscopia (annuale).
-
-17) Radiologia (biennale).
-
-18) Ginecologia (annuale).
-
-19) Medicina legale applicata alla chirurgia (annuale).
-
-20) Nozioni d'anestesia (annuale).
-
-Art. 110. - La ripartizione degli insegnamenti nei cinque anni di corso e' la seguente:
-
-1° anno:
-
-Anatomia chirurgica (biennale 1°).
-
-Semeiotica chirurgica (biennale 1°).
-
-Patologia chirurgica (quadriennale 1°).
-
-Clinica chirurgica generale (quinquennale 1°).
-
-Esami di laboratorio (annuale).
-
-Otorinolaringoiatria (annuale).
-
-Endoscopia (annuale).
-
-Nozioni d'anestesia (annuale).
-
-2° anno:
-
-Anatomia chirurgica (biennale 2°).
-
-Fisiopatologia chirurgica (biennale 1°).
-
-Semeiotica chirurgica (biennale 2°).
-
-Patologia chirurgica (quadriennale 2°).
-
-Clinica chirurgica generale (quinquennale 2°).
-
-Chirurgia d'urgenza (annuale).
-
-Radiologia (biennale 1°).
-
-Ginecologia (annuale).
-
-3° anno:
-
-Fisiopatologia chirurgica (biennale 2°).
-
-Anatomia patologica (biennale 1°).
-
-Patologia chirurgica (quadriennale 3°).
-
-Medicina operatoria (biennale 1°).
-
-Clinica chirurgica generale (quinquennale 3°).
-
-Chirurgia di guerra (annuale).
-
-Radiologia (biennale 2°).
-
-Medicina legale applicata alla chirurgia (annuale).
-
-4° anno:
-
-Anatomia patologica (biennale 2°).
-
-Patologia chirurgica (quadriennale 4°).
-
-Medicina operatoria (biennale 2°).
-
-Clinica chirurgica generale (quinquennale 4°).
-
-Neuropatologia chirurgica (annuale).
-
-Traumatologia ed ortopedia (biennale 1°).
-
-5° anno:
-
-Trattamento pre e post-operatorio (annuale).
-
-Clinica chirurgica generale (quinquennale 5°).
-
-Chirurgia del sistema nervoso (annuale).
-
-Traumatologia ed ortopedia (biennale 2°).
-
-Art. 115. - L'ordine degli esami e' il seguente:
-
-al termine del primo anno:
-
-esami di laboratorio;
-
-otorinolaringoiatria;
-
-endoscopia;
-
-nozioni d'anestesia;
-
-al termine del secondo anno:
-
-anatomia chirurgica;
-
-semeiotica chirurgica;
-
-chirurgia d'urgenza;
-
-ginecologia;
-
-al termine del terzo anno:
-
-fisiopatologia chirurgica;
-
-chirurgia di guerra;
-
-radiologia;
-
-medicina legale applicata alla chirurgia;
-
-al termine del quarto anno:
-
-anatomia patologica;
-
-patologia chirurgica;
-
-medicina operatoria;
-
-neuropatologia chirurgica;
-
-al termine del quinto anno:
-
-trattamento pre e post-operatorio;
-
-clinica chirurgica generale;
-
-chirurgia del sistema nervoso;
-
-traumatologia e ortopedia.
+Lo studente non puo' iscriversi al laboratorio di analisi chimico farmaceutica III (analisi dei medicamenti) se non ha superato l'esame di chimica organica I, pertanto non puo' ottenere la frequenza del suddetto corso.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 21 settembre 1955
+Dato a Roma, addi' 1 giugno 1977
 
-GRONCHI
+LEONE
 
-ROSSI
+MALFATTI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 28 ottobre 1955 Atti del Governo, registro n. 93, foglio n. 97. - CARLOMAGNO
+alla Corte dei conti, addi' 26 settembre 1977 Registro n. 106 Istruzione, foglio n. 364
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), modificato con i [regi decreti 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1743); [26 marzo 1942, n. 328, e con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-03-26;328) [22 ottobre 1946, n. 398, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-22;398) [30 ottobre 1949, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1027); [11 aprile 1951, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;565); [23 gennaio 1952, n. 365](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;365); [26 ottobre 1952, n. 4542](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4542); [10 febbraio 1953, n. 550](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;550); [30 luglio 1953, n. 716](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;716); [6 ottobre 1953, n. 1097](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-10-06;1097); [29 maggio 1954, n. 752](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-05-29;752); [24 settembre 1954, n. 1206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-24;1206); [16 febbraio 1955, n. 137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-16;137) e [15 luglio 1955, n. 759](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-15;759);  
+Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Cagliari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
@@ -251,113 +86,29 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 103, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della scuola di specializzazione in chirurgia generale.  
+Art. 12 - all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:  
+storia del diritto italiano moderno e contemporaneo;  
+diritto penitenziario;  
+storia e sistemi dei rapporti fra Stato e Chiesa.  
+L'art. 67, relativo all'ordinamento degli studi del corso di laurea in farmacia, e' modificato nel senso che dopo il secondo comma successivo all'elenco degli insegnamenti complementari sono inseriti i seguenti due commi, relativi alle propedeuticita' degli esami:  
   
-Scuola di specializzazione in chirurgia generale  
+Lo studente non puo' iscriversi al laboratorio di esercitazioni di chimica farmaceutica e tossicologica (triennale primo) se non ha superato l'esame di chimica generale ed inorganica, pertanto non puo' ottenere la firma di frequenza del suddetto corso.  
+Lo studente non puo' iscriversi al laboratorio di esercitazioni di chimica farmaceutica e tossicologica (triennale terzo) se non ha superato l'esame di chimica organica, pertanto non puo' ottenere la firma del suddetto corso.  
+L'art. 70, relativo all'ammissione all'esame di laurea in chimica e tecnologia farmaceutiche, e' modificato nel senso che sono inseriti come primo e secondo comma i seguenti:  
   
-Art. 104. - Alla Facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in chirurgia generale, con sede presso l'Istituto di clinica chirurgica generale e terapia chirurgica.  
-Art. 105. - La durata dei corsi e' di cinque anni.  
-Art. 106. - Alla scuola vengono ammessi i laureati in medicina e chirurgia in numero non superiore a cinque per ogni anno. Qualora il numero delle domande d'iscrizione al primo corso sia superiore a cinque l'accettazione verra' fatta in base a concorso interno per esami.  
-Art. 107. - Gli iscritti alla scuola hanno l'obbligo di frequentare i corsi ufficiali e le esercitazioni; hanno inoltre l'obbligo di frequenza nelle corsie della clinica ed in sala operatoria, svolgendo una reale attivita' pratica con orario pieno per almeno sei mesi per ogni anno di corso.  
-Art. 108. - Saranno ammessi a sostenere gli esami solo gli iscritti che abbiano adempiuto agli obblighi di cui all'articolo precedente.  
-Art. 109. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
-1) Anatomia chirurgica (biennale).  
-2) Fisiopatologia chirurgica (biennale.  
-3) Anatomia patologica (biennale).  
-4) Semeiotica chirurgica (biennale).  
-5) Patologia chirurgica (quadriennale).  
-6) Medicina operatoria (biennale).  
-7) Trattamento pre e post-operatorio (annuale).  
-8) Clinica chirurgica generale (quinquennale).  
-9) Esami di laboratorio (annuale).  
-10) Chirurgia d'urgenza (annuale).  
-11) Chirurgia di guerra (annuale).  
-12) Neuropatologia chirurgica (annuale).  
-13) Chirurgia del sistema nervoso (annuale).  
-14) Traumatologia ed ortopedia (biennale).  
-15) Otorinolaringoiatra (annuale).  
-16) Endoscopia (annuale).  
-17) Radiologia (biennale).  
-18) Ginecologia (annuale).  
-19) Medicina legale applicata alla chirurgia (annuale).  
-20) Nozioni d'anestesia (annuale).  
-Art. 110. - La ripartizione degli insegnamenti nei cinque anni di corso e' la seguente:  
-1° anno:  
-Anatomia chirurgica (biennale 1°).  
-Semeiotica chirurgica (biennale 1°).  
-Patologia chirurgica (quadriennale 1°).  
-Clinica chirurgica generale (quinquennale 1°).  
-Esami di laboratorio (annuale).  
-Otorinolaringoiatria (annuale).  
-Endoscopia (annuale).  
-Nozioni d'anestesia (annuale).  
-2° anno:  
-Anatomia chirurgica (biennale 2°).  
-Fisiopatologia chirurgica (biennale 1°).  
-Semeiotica chirurgica (biennale 2°).  
-Patologia chirurgica (quadriennale 2°).  
-Clinica chirurgica generale (quinquennale 2°).  
-Chirurgia d'urgenza (annuale).  
-Radiologia (biennale 1°).  
-Ginecologia (annuale).  
-3° anno:  
-Fisiopatologia chirurgica (biennale 2°).  
-Anatomia patologica (biennale 1°).  
-Patologia chirurgica (quadriennale 3°).  
-Medicina operatoria (biennale 1°).  
-Clinica chirurgica generale (quinquennale 3°).  
-Chirurgia di guerra (annuale).  
-Radiologia (biennale 2°).  
-Medicina legale applicata alla chirurgia (annuale).  
-4° anno:  
-Anatomia patologica (biennale 2°).  
-Patologia chirurgica (quadriennale 4°).  
-Medicina operatoria (biennale 2°).  
-Clinica chirurgica generale (quinquennale 4°).  
-Neuropatologia chirurgica (annuale).  
-Traumatologia ed ortopedia (biennale 1°).  
-5° anno:  
-Trattamento pre e post-operatorio (annuale).  
-Clinica chirurgica generale (quinquennale 5°).  
-Chirurgia del sistema nervoso (annuale).  
-Traumatologia ed ortopedia (biennale 2°).  
-Art. 115. - L'ordine degli esami e' il seguente:  
-al termine del primo anno:  
-esami di laboratorio;  
-otorinolaringoiatria;  
-endoscopia;  
-nozioni d'anestesia;  
-al termine del secondo anno:  
-anatomia chirurgica;  
-semeiotica chirurgica;  
-chirurgia d'urgenza;  
-ginecologia;  
-al termine del terzo anno:  
-fisiopatologia chirurgica;  
-chirurgia di guerra;  
-radiologia;  
-medicina legale applicata alla chirurgia;  
-al termine del quarto anno:  
-anatomia patologica;  
-patologia chirurgica;  
-medicina operatoria;  
-neuropatologia chirurgica;  
-al termine del quinto anno:  
-trattamento pre e post-operatorio;  
-clinica chirurgica generale;  
-chirurgia del sistema nervoso;  
-traumatologia e ortopedia.  
+Lo studente non puo' iscriversi al laboratorio di analisi chimico farmaceutica I (analisi qualitativa) se non ha superato l'esame di chimica generale ed inorganica, pertanto non puo' ottenere la firma di frequenza del suddetto corso.  
+Lo studente non puo' iscriversi al laboratorio di analisi chimico farmaceutica III (analisi dei medicamenti) se non ha superato l'esame di chimica organica I, pertanto non puo' ottenere la frequenza del suddetto corso.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 settembre 1955
+### Dato a Roma, addi' 1 giugno 1977
 
-GRONCHI ROSSI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 28 ottobre 1955
+Registrato alla Corte dei conti, addi' 26 settembre 1977
 
-Atti del Governo, registro n. 93, foglio n. 97. - CARLOMAGNO
+Registro n. 106 Istruzione, foglio n. 364

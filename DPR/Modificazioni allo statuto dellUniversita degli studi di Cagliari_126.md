@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1964 n. 702
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 500
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1964 n. 702
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 500
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
@@ -18,151 +18,106 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
-Sulla proposta del Ministro per la pubblica istituzione;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 109, relativo alla Scuola di specializzazione in, neurologia e psichiatria, e' abrogato e sostituito dal seguente:
+Articolo unico
+--------------
 
-"Alla Facolta' di medicina e chirurgia, e' annessa, una Scuola di specializzazione in clinica delle malattie nervose e mentali, con sede presso la Clinica delle malattie nervose e mentali dell'Universita' di Cagliari, col numero massimo di trenta iscritti fra i tre corsi.
-
-Art. 131, relativo alla Scuola di specializzazione in anestesiologia, e' abrogato e sostituito dal seguente:
-
-"Alla Scuola vengono ammessi i laureati in Medicina e Chirurgia in numero non superiore a venti per ogni anno. Qualora il numero delle domande di iscrizione superi quello dei posti disponibili, l'accettazione verra' fatta in base a concorso interno per esami".
-
-Art. 142, relativo alla Scuola di specializzazione in Cardiologia, il secondo comma e' abrogato e sostituito dal seguente:
-
-"Il numero massimo degli iscritti e' di trenta complessivamente nei tre anni".
-
-Dopo l'art. 143 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola, di specializzazione in fisiologia e scienza, dell'alimentazione.
-
-Scuola di specializzazione in fisiologia
-
-e scienza della alimentazione
-
-Art. 144. - Alla Facolta' di medicina e chirurgia della Universita' di Cagliari e' annessa una Scuola di specializzazione in fisiologia e scienza dell'alimentazione, con sede presso l'Istituto di fisiologia.
-
-Alla Scuola vengono ammessi i laureati in Medicina e Chirurgia, in Scienze biologiche ed in Scienze naturali, in Chimica, in Farmacia, in Medicina veterinaria.
-
-Il numero massimo degli iscritti al corso e' di dieci per anno.
-
-Qualora il numero di domande di iscrizione al primo anno sia superiore a dieci, l'accettazione verra' fatta in base al concorso interno per esami.
-
-Per le altre condizioni di ammissione alla Scuola si applicano le norme previste per tutte le Scuole di specializzazione annesse alla Facolta' di medicina e chirurgia.
-
-Art. 145. - La durata del corso e' di due anni e comprende i seguenti insegnamenti:
-
-Al primo anno:
-
-1) Fisiologia e Biochimica applicate alla nutrizione. a) Gli alimenti (biennale).
-
-2) Igiene degli alimenti.
-
-3) Metodologia alimentare e statistica metodologica.
-
-4) Diagnostica chimico-clinica.
-
-Al secondo anno:
-
-1) Fisiologia e Biochimica applicata alla nutrizione. b) I bisogni alimentari (biennale).
-
-2) L'alimentazione nell'uomo malato.
-
-3) Geografia e Geopolitica degli alimenti e della alimentazione.
-
-4) Dietologia, e problemi nutrizionali nelle comunita' di adulti o di gruppi infantili (parte pratica).
-
-Art. 146. - Le lezioni teoriche sono integrate da esercitazioni.
-
-Gli iscritti alla Scuola hanno l'obbligo di frequentare i corsi ufficiali e le esercitazioni.
-
-Alla fine di ogni anno gli specializzandi sono tenuti a sostenere un unico esame generale su tutte le discipline, che sono materie di insegnamento davanti a una commissione di docenti delle varie discipline.
-
-La specializzazione sara' conseguita dopo discussione di una tesi scritta.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 12 luglio 1964
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 17 agosto 1964 Atti del Governo, registro n. 185, foglio n. 45. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istituzione;  
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 109, relativo alla Scuola di specializzazione in, neurologia e psichiatria, e' abrogato e sostituito dal seguente:  
-"Alla Facolta' di medicina e chirurgia, e' annessa, una Scuola di specializzazione in clinica delle malattie nervose e mentali, con sede presso la Clinica delle malattie nervose e mentali dell'Universita' di Cagliari, col numero massimo di trenta iscritti fra i tre corsi.  
-Art. 131, relativo alla Scuola di specializzazione in anestesiologia, e' abrogato e sostituito dal seguente:  
-"Alla Scuola vengono ammessi i laureati in Medicina e Chirurgia in numero non superiore a venti per ogni anno. Qualora il numero delle domande di iscrizione superi quello dei posti disponibili, l'accettazione verra' fatta in base a concorso interno per esami".  
-Art. 142, relativo alla Scuola di specializzazione in Cardiologia, il secondo comma e' abrogato e sostituito dal seguente:  
-"Il numero massimo degli iscritti e' di trenta complessivamente nei tre anni".  
-Dopo l'art. 143 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola, di specializzazione in fisiologia e scienza, dell'alimentazione.  
-  
-Scuola di specializzazione in fisiologia  
-e scienza della alimentazione  
-  
-Art. 144. - Alla Facolta' di medicina e chirurgia della Universita' di Cagliari e' annessa una Scuola di specializzazione in fisiologia e scienza dell'alimentazione, con sede presso l'Istituto di fisiologia.  
-Alla Scuola vengono ammessi i laureati in Medicina e Chirurgia, in Scienze biologiche ed in Scienze naturali, in Chimica, in Farmacia, in Medicina veterinaria.  
-Il numero massimo degli iscritti al corso e' di dieci per anno.  
-Qualora il numero di domande di iscrizione al primo anno sia superiore a dieci, l'accettazione verra' fatta in base al concorso interno per esami.  
-Per le altre condizioni di ammissione alla Scuola si applicano le norme previste per tutte le Scuole di specializzazione annesse alla Facolta' di medicina e chirurgia.  
-Art. 145. - La durata del corso e' di due anni e comprende i seguenti insegnamenti:  
-Al primo anno:  
-1) Fisiologia e Biochimica applicate alla nutrizione. a) Gli alimenti (biennale).  
-2) Igiene degli alimenti.  
-3) Metodologia alimentare e statistica metodologica.  
-4) Diagnostica chimico-clinica.  
-Al secondo anno:  
-1) Fisiologia e Biochimica applicata alla nutrizione. b) I bisogni alimentari (biennale).  
-2) L'alimentazione nell'uomo malato.  
-3) Geografia e Geopolitica degli alimenti e della alimentazione.  
-4) Dietologia, e problemi nutrizionali nelle comunita' di adulti o di gruppi infantili (parte pratica).  
-Art. 146. - Le lezioni teoriche sono integrate da esercitazioni.  
-Gli iscritti alla Scuola hanno l'obbligo di frequentare i corsi ufficiali e le esercitazioni.  
-Alla fine di ogni anno gli specializzandi sono tenuti a sostenere un unico esame generale su tutte le discipline, che sono materie di insegnamento davanti a una commissione di docenti delle varie discipline.  
-La specializzazione sara' conseguita dopo discussione di una tesi scritta.  
+Dopo l'art. 122, e con lo spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli, relativi alla istituzione della scuola di specializzazione in "chirurgia dell'apparato digerente ed endoscopia digestiva".   
+Scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva   
+Art. 123. - E' istituita presso l'Universita' degli studi di Cagliari la scuola di specializzazione in "chirurgia dell'apparato digerente ed endoscopia digestiva" che conferisce il diploma di specialista in chirurgia dello apparato digerente ed endoscopia digestiva.   
+Art. 124. - La direzione della scuola ha sede nello istituto di prima patologia speciale chirurgica e propedeutica clinica dell'Universita' di Cagliari.   
+Art. 125. - La scuola ha lo scopo di formare, successivamente al corso di laurea, dei medici specialisti in chirurgia dell'apparato digerente ed endoscopia digestiva, facendo loro conseguire un diploma che legittimi, nei rami dell'esercizio professionale, l'assunzione della qualifica di specialista.   
+Art. 126. - La durata del corso e' di 5 (cinque) anni e non e' suscettibile di abbreviazioni.   
+Art. 127. - Il numero massimo degli iscritti e' di 3 (tre) per ogni anno e complessivamente di 15 (quindici) per l'intero corso di studi.   
+Art. 128. - Alla scuola sono ammessi solo i laureati in medicina e chirurgia che siano in possesso della abilitazione all'esercizio professionale.   
+Art. 129. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che potra' svolgersi mediante domande e risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:   
+a) il voto di laurea;   
+b) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;   
+c) la tesi di laurea nella disciplina attinente alla specializzazione;   
+d) le pubblicazioni nelle predette materie.   
+Il punteggio dei predetti titoli, stabilito dal decreto del Ministro della pubblica istruzione del 16 settembre 1982, e' il seguente:   
+fino ad un massimo di 5 punti per il voto di laurea;   
+0,30 per punto da 99 a 109; 4 per i pieni voti assoluti e 5 per la lode;   
+fino ad un massimo di 5 punti per i voti riportati negli esami di corso laurea attinenti alla specializzazione (e' possibile valutare fino ad un massimo di sette esami a discrezione motivata della commissione) cosi' attribuibili: 0,25 per esame superato con i pieni voti legali (da 27 a 29/30); 0,50 per esame superato con i pieni voti assoluti; 0,75 per esame superato con i pieni voti assoluti e lode; fino ad un massimo di 10 punti per la valutazione della tesi di laurea in disciplina attinente alla specializzazione, considerata come lavoro scientifico non stampato (se pubblicata viene valutata, in ogni caso, una sola volta);   
+fino ad un massimo di 10 punti per le pubblicazioni nelle materie attinenti alla specializzazione.   
+Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nella graduatoria compilata sulla base del punteggio complessivo riportato.   
+Art. 130. - Le materie di insegnamento tutte afferenti alla facolta' di medicina e chirurgia sono le seguenti:   
+1° Anno:   
+1) anatomia descrittiva e topografica specialistica (I);   
+2) fisiopatologia e semeiotica funzionale (I);   
+3) anatomia e istologia patologica (I);   
+4) patologia chirurgica (I).   
+2° Anno:   
+5) anatomia descrittiva e topografica specialistica (II);   
+6) fisiopatologia e semeiotica funzionale (II);   
+7) anatomia e istologia patologica (II);   
+8) patologia chirurgica (II);   
+9) semeiotica chirurgica (I);   
+10) radiologia e medicina nucleare (I);   
+11) endoscopia digestiva diagnostica e terapeutica (I).   
+3° Anno:   
+12) patologia chirurgica (III);   
+13) semeiotica chirurgica (II);   
+14) radiologia e medicina nucleare (II);   
+15) endoscopia digestiva diagnostica e terapeutica (II);   
+16) clinica e terapia chirurgica (I);   
+17) tecniche operatorie (I).   
+4° Anno:   
+18) semeiotica chirurgica (III);   
+19) radiologia e medicina nucleare (III);   
+20) endoscopia digestiva diagnostica e terapeutica (III);   
+21) clinica e terapia chirurgica (II);   
+22) tecniche operatorie (II);   
+23) anestesia e rianimazione;   
+24) riabilitazione in chirurgia digestiva.   
+5° Anno:   
+25) clinica chirurgica e terapia chirurgica (III);   
+26) tecniche operatorie (III);   
+27) terapia intensiva;   
+28) chirurgia pediatrica dell'apparato digerente;   
+29) chirurgia d'urgenza dell'apparato digerente.   
+Art. 131. - La frequenza ai corsi e' obbligatoria. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio allo anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno in corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.   
+Art. 132. - La frequenza alle lezioni ed alle esercitazioni e' obbligatoria. E' obbligatorio inoltre un periodo annuale di tirocinio pratico da svolgere nell'istituto sede della scuola conforme alle scelte approvate dal consiglio della scuola. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove d'esame.   
+Ai fini della frequenza e delle attivita' pratiche potra' essere riconosciuta utile dal consiglio della scuola, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio sanitario attinenti alla specializzazione anche all'estero o nello ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.   
+Art. 133. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.   
+A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.   
+Art. 134. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.   
+Art. 135. - Il consiglio della scuola e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art.   
+4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate le attivita' didattiche della scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).   
+Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.   
+La direzione della scuola e' affidata a un professore ordinario o straordinario che insegni anche nella scuola stessa.   
+In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 luglio 1964
+### Dato a Roma, addi' 15 luglio 1983
 
-SEGNI GUI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 17 agosto 1964
+Registrato alla Corte dei conti, addi' 22 settembre 1983
 
-Atti del Governo, registro n. 185, foglio n. 45. - VILLA
+Registro n. 62 Istruzione, foglio n. 305

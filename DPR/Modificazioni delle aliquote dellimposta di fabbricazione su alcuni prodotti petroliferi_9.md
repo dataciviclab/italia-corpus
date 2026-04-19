@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1987 n. 4
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1986 n. 243
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1987 n. 4
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1986 n. 243
+=============================================================
 
 Modificazioni delle aliquote dell'imposta di fabbricazione su alcuni prodotti petroliferi.
 ------------------------------------------------------------------------------------------
@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art76) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
 
-Vista la [legge 25 marzo 1986, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-03-25;73), recante delega al Governo per la emanazione di norme concernenti l'aumento o la riduzione dell'imposta di fabbricazione sui prodotti petroliferi con riferimento alla riduzione o all'aumento dei prezzi medi di tali prodotti;
+Vista la [legge 25 marzo 1986, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-03-25;73), recante delega al Governo per la emanazione di norme concernenti l'aumento o la riduzione dell'imposta di fabbricazione sui prodotti petroliferi con riferimento alla riduzione o all'aumento dei prezzi medi europei di tali prodotti;
 
-Vista la comunicazione della segreteria del Comitato interministeriale prezzi in data 7 gennaio 1987, concernente la variazione dei prezzi medi europei sui prodotti petroliferi;
+Vista la comunicazione della segreteria del Comitato interministeriale prezzi in data 4 giugno 1986, concernente la variazione dei prezzi medi europei sui prodotti petroliferi;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione dell'8 gennaio 1987;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 5 giugno 1986;
 
-Sulla proposta del Ministro delle finanze, di concerto con i Ministri del tesoro e dell'industria, del commercio e dell'artigianato;
+Sulla proposta del Ministro delle finanze;
 
 EMANA
 -----
@@ -28,23 +28,23 @@ il seguente decreto:
 Art. 1
 ------
 
-1. A partire dal 10 gennaio 1987, l'imposta di fabbricazione e la corrispondente sovrimposta di confine sui seguenti prodotti petroliferi sono diminuite:
+1. A partire dal 6 giugno 1986, l'imposta di fabbricazione e la corrispondente sovrimposta di confine sui seguenti prodotti petroliferi sono diminuite:
 
-a) da L. 84.096 a L. 83.574 per ettolitro, alla temperatura di 15° centigradi, per le benzine speciali diverse dall'acqua ragia minerale, per la benzina e per il petrolio diverso da quello lampante;
+a) da L. 79.328 a L. 78.013 per ettolitro, alla temperatura di 15° centigradi, per le benzine speciali diverse dall'acqua ragia minerale, per la benzina e per il petrolio diverso da quello lampante;
 
-b) da L. 8.409,60 a L. 8.357,40 per ettolitro, alla temperatura di 15° centigradi, per il prodotto denominato "Jet Fuel JP/4", destinato all'Amministrazione della difesa, relativamente al quantitativo eccedente il contingente annuo di tonnellate 18.000 sulle quali e' dovuta l'imposta nella misura normale stabilita per la benzina.
+b) da L. 7.932,80 a L. 7.801,30 per ettolitro, alla temperatura di 15° centigradi, per il prodotto denominato "Jet Fuel JP/4", destinato all'Amministrazione della difesa, relativamente al quantitativo eccedente il contingente annuo di tonnellate 18.000 sulle quali e' dovuta l'imposta nella misura normale stabilita per la benzina.
+
+2. A partire dal 6 giugno 1986, l'imposta di fabbricazione e la corrispondente sovrimposta di confine sul petrolio lampante per uso di illuminazione e riscaldamento domestico, di cui alla lettera D), punto 3), della tabella B allegata alla [legge 19 marzo 1973, n. 32](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-03-19;32), e' aumentata da L. 21.054 a L. 21.791 per ettolitro, alla temperatura di 15° centigradi.
 
 Art. 2
 ------
 
-1. Alle minori entrate derivanti dall'attuazione del presente decreto, valutate in lire 81 miliardi per l'anno 1987, si provvede mediante corrispondente riduzione dello stanziamento iscritto al capitolo 6840 dello stato di previsione del Ministero del tesoro per l'anno finanziario 1987.
+1. Alle minori entrate derivanti dall'attuazione del presente decreto, valutate in lire 121 miliardi per l'anno 1986, si provvede a valere sulle maggiori entrate derivanti per l'anno medesimo dall'attuazione dei decreti del Presidente della Repubblica emanati alla data del presente decreto in forza della [legge 25 marzo 1986, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-03-25;73).
 
-2. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Dato a Roma, addi' 9 gennaio 1987
+### Dato a Roma, addi' 5 giugno 1986
 
 COSSIGA
 
@@ -52,12 +52,8 @@ CRAXI, Presidente del Consiglio dei Ministri
 
 VISENTINI, Ministro delle finanze
 
-GORIA, Ministro del tesoro
+Visto, il Guardasigilli: MARTINAZZOLI
 
-ZANONE, Ministro dell'industria, del commercio e dell'artigianato
+Registrato alla Corte dei conti, addi' 6 giugno 1986
 
-Visto, il Guardasigilli: ROGNONI
-
-Registrato alla Corte dei conti, addi' 10 gennaio 1987
-
-Atti di Governo, registro n. 63, foglio n. 4
+Atti di Governo, registro n. 61, foglio n. 8

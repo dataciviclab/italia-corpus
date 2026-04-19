@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1982 n. 499
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 dicembre 1975 n. 1213
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1982 n. 499
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 dicembre 1975 n. 1213
+================================================================
 
 Autorizzazione all'Associazione volontari italiani del sangue, in Milano, ad acquistare un immobile.
 ----------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-499. Decreto del Presidente della Repubblica 9 marzo 1982, col quale, sulla proposta del Ministro della sanita', l'Associazione volontari italiani del sangue, in Milano, viene autorizzata ad acquistare, al prezzo di circa L. 23.000.000, un terreno di mq. 6350 sito in prossimita' della sede dell'AVIS comunale di Pavia (mappale n. 74 del piano regolatore generale di Pavia), di proprieta' dell'avv. Luigi Spizzi, sul quale edificare un capannone per la custodia degli automezzi.  
+1213. Decreto del Presidente della Repubblica 13 dicembre 1975, col quale, sulla proposta del Ministro per la sanita', l'Associazione volontari italiani del sangue, in Milano, viene autorizzata ad acquistare, al prezzo complessivo di L. 45.000.000, un fabbricato sito in Torino, corso Moncalieri, 272, distinto in catasto terreni al foglio 134, mappale 194, in corso di censimento al nuovo catasto edilizio urbano, coerenziato a levante con il corso Moncalieri, a mezzodi' con un passaggio di accesso al cortile dello stesso fabbricato, a ponente con le parti comuni del cortile condominiale, a settentrione con la piazza Merano, da destinare a sede sociale.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 23 luglio 1982  
-Registro n. 5 Sanita', foglio n. 143
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 8 gennaio 1977  
+Registro n. 1 Sanita', foglio n. 7

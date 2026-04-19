@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1974 n. 826
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1958 n. 877
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1974 n. 826
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1958 n. 877
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788) e successivi;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,7 +18,7 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello Statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,237 +30,91 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli 184 e 185, relativi alla scuola di specializzazione in radiologia, sono abrogati e sostituiti dai seguenti:
+Art. 80, relativo ai titoli di ammissione alla Scuola di perfezionamento in psicologia, in pedagogia e in psico-pedagogia, annessa alla Facolta' di magistero, e' cosi' integrato: "Titolo di ammissione e' la laurea in qualsiasi disciplina, compresi i diplomi conseguiti al termine dei corsi quadriennali degli ex Istituti superiori di magistero".
 
-Scuola di specializzazione in radiologia (Statuto scuola di specializzazione in radiologia)
+Dopo l'art. 185, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione del Corso di perfezionamento in medicina scolastica, con il conseguente spostamento della numerazione degli articoli successivi.
 
-Art. 184. - La scuola rilascia i seguenti diplomi di specializzazione: in radiologia e in radiologia diagnostica.
+Corso di perfezionamento in medicina scolastica
 
-La scuola e' riservata ai laureati in medicina e chirurgia, che possono essere accolti in numero massimo di 12 per ciascun anno di corso per radiologia e radiologia diagnostica.
+Art. 186. - E' istituito presso la Facolta' di medicina e chirurgia un Corso di perfezionamento in medicina scolastica.
 
-Art. 185. - A) La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia e' di quattro anni.
+Il Corso ha sede nella Clinica pediatrica universitaria e la direzione e' affidata al suo direttore.
 
-Gli insegnamenti sono i seguenti:
+Il materiale didattico ed i locali adibiti all'insegnamento sono anche quelli della Clinica pediatrica.
 
-a) Matematica, fisica, nozioni di statistica e informatica (annuale) comprendente:
+Art. 187. - Il Corso ha la durata di un anno accademico e di questo ne segue il calendario.
 
-1) Richiami di matematica e fisica generale;
+Art. 188. - Possono iscriversi al Corso i laureati in medicina e chirurgia.
 
-2) Costituzione della materia;
+Gli iscritti sono tenuti alla frequenza dei singoli insegnamenti, internati, esercitazioni, tirocini pratici e conferenze integrative.
 
-3) Produzione, assorbimento e misura delle radiazioni;
+Art. 189. - Per ogni materia di insegnamento, o per gruppi di esse, dovra' essere sostenuto l'esame di profitto alla fine del corso. Per l'ammissione agli esami e' necessario aver conseguita l'attestazione di frequenza, sia agli insegnamenti fondamentali che alle conferenze.
 
-4) Statistica applicata alla medicina;
+Art. 190. - Per il conseguimento del certificato di frequenza e profitto occorre aver superato l'esame finale, che consiste nella presentazione e discussione di una dissertazione scritta, con contributo personale, su un tema attinente a materia di insegnamento del Corso, assegnato dal direttore.
 
-5) Informatica e cibernetica applicate alla radiologia.
+Art. 191. - Gli insegnamenti impartiti nel Corso sono i seguenti:
 
-b) Radiodiagnostica (triennale) comprendente:
+Fondamentali: (con esame alla fine del corso):
 
-1) Principi generali di radiodiagnostica;
+a) Auxologia e fisiopatologia dell'accrescimento.
 
-2) Apparecchi, strumenti e tecnica radiodiagnostica;
+Esercitazioni;
 
-3) Tecnica e fisiologia applicate alla radiodiagnostica;
+b) Igiene scolastica;
 
-4) I mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e la loro terapia;
+c) Legislazione sanitaria scolastica;
 
-5) Semeiotica radiologica;
+d) Diagnostica delle malattie infettive contagiose dell'infanzia. Internato presso la Clinica pediatrica;
 
-6) Diagnostica differenziale radiologica;
+e) Profilassi antitubercolare e delle malattie infettive.
 
-7) Dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;
+Tirocinio pratico;
 
-8) Dimostrazioni di casistica clinica.
+f) Psicopedagogia ed orientamento professionale. Esercitazioni;
 
-c) Radiobiologia (annuale) comprendente:
+g) Neuropsichiatria infantile.
 
-1) Radiobiologia generale;
+Conferenze: (senza esame: obbligo di frequenza):
 
-2) Danni da radiazioni e radiopatie.
+Neuropsichiatria dell'eta' evolutiva;
 
-d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
+Oftalmologia scolastica;
 
-1) Legislazione sanitaria applicata alla radiologia;
+Nozioni sugli ordinamenti scolastici;
 
-2) Compiti e responsabilita' medico-legali del radiologo;
+Reumatologia infantile;
 
-3) Radioprotezione fisica e dosimetria ad essa connessa;
+Medicina sportiva dell'eta' evolutiva;
 
-4) Fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radio-protezioni;
+Dietetica nelle comunita' infantile;
 
-5) Radioprotezione chimica;
+Dermatologia.
 
-6) Problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-e) Radioterapia e terapia fisica (triennale) comprendente:
+Dato a Roma, addi' 2 aprile 1958
 
-1) Radiobiologia applicata;
+GRONCHI
 
-2) Fondamenti generali di radioterapia e terapia fisica;
+MORO
 
-3) Istopatologia speciale dei tumori;
-
-4) Nozioni sugli apparecchi e strumenti per la radioterapia;
-
-5) Tecnica e metodica radioterapica;
-
-6) Dosimetria;
-
-7) Clinica radioterapica;
-
-8) Fondamenti generali di chemioterapia oncologica;
-
-9) Chemioterapia clinica dei tumori e sua associazione alla radioterapia;
-
-10) Dimostrazione di casistica clinica.
-
-f) Medicina nucleare (biennale) comprendente:
-
-1) Elementi di medicina nucleare;
-
-2) Istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare;
-
-3) Dosimetria dei radioisotopi somministrati per via interna;
-
-4) Diagnostica con radioisotopi somministrati per via interna;
-
-5) Radioterapia metabolica;
-
-6) Dimostrazioni di casistica clinica.
-
-I singoli insegnamenti tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nei quattro anni di corso:
-
-1° Anno (tronco comune):
-
-Matematica, fisica, nozioni di statistica ed informatica;
-
-Radiobiologia;
-
-Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;
-
-Radiodiagnostica (I).
-
-2° Anno:
-
-Radiodiagnostica (II);
-
-Radioterapia e terapia fisica (I).
-
-3° Anno:
-
-Radiodiagnostica (III);
-
-Radioterapia e terapia fisica (II);
-
-Medicina nucleare (I).
-
-4° Anno:
-
-Radioterapia e terapia fisica (III);
-
-Medicina nucleare (II).
-
-B) La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.
-
-Gli insegnamenti sono i seguenti:
-
-a) Matematica, fisica, nozioni di statistica e informatica (annuale) comprendente:
-
-1) Richiami di matematica e fisica generali;
-
-2) Costituzione della materia;
-
-3) Produzione, assorbimento e misura delle radiazioni;
-
-4) Statistica applicata alla medicina;
-
-5) Informatica e cibernetica applicate alla radiologia;
-
-b) Radiodiagnostica (triennale) comprendente:
-
-1) Principi generali di radiodiagnostica;
-
-2) Apparecchi, strumenti e tecnica radiodiagnostica;
-
-3) Tecnica e fisiologia applicate alla radiodiagnostica;
-
-4) I mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;
-
-5) Semeiotica radiologica;
-
-6) Diagnostica differenziale radiologica;
-
-7) Dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;
-
-8) Dimostrazioni di casistica clinica.
-
-c) Radiobiologia (annuale) comprendente:
-
-1) Radiobiologia generale;
-
-2) Danni da radiazioni e radiopatie.
-
-d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente;
-
-1) Legislazione sanitaria applicata alla radiologia;
-
-2) Compiti e responsabilita' medico-legali del radiologo;
-
-3) Radioprotezione fisica e dosimetria ad essa connessa;
-
-4) Fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radio-protezioni;
-
-5) Radioprotezione chimica;
-
-6) Problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.
-
-I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:
-
-1° Anno (tronco comune):
-
-Matematica, fisica, nozioni di statistica ed informatica;
-
-Radiobiologia;
-
-Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;
-
-Radiodiagnostica (I).
-
-2° Anno:
-
-Radiodiagnostica (II).
-
-3° Anno:
-
-Radiodiagnostica (III).
-
-Per essere ammessi agli esami di diploma in radiologia e in radiologia diagnostica, gli iscritti, oltre ad avere compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia di insegnamento ed elaborata una tesi scritta su di un argomento radiologico concordato con il direttore della scuola.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 28 ottobre 1974
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 27 gennaio 1975 Atti di Governo, registro n. 8, foglio n. 42
+alla Corte dei conti, addi' 12 settembre 1958 Atti del Governo, registro n. 114, foglio n. 15. - RELLEVA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;   
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788) e successivi;   
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Vedute le proposte di modifiche dello Statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
 Sulla proposta del Ministro per la pubblica istruzione;   
@@ -268,130 +122,49 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli 184 e 185, relativi alla scuola di specializzazione in radiologia, sono abrogati e sostituiti dai seguenti:   
+Art. 80, relativo ai titoli di ammissione alla Scuola di perfezionamento in psicologia, in pedagogia e in psico-pedagogia, annessa alla Facolta' di magistero, e' cosi' integrato: "Titolo di ammissione e' la laurea in qualsiasi disciplina, compresi i diplomi conseguiti al termine dei corsi quadriennali degli ex Istituti superiori di magistero".   
+Dopo l'art. 185, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione del Corso di perfezionamento in medicina scolastica, con il conseguente spostamento della numerazione degli articoli successivi.   
   
-Scuola di specializzazione in radiologia (Statuto scuola di specializzazione in radiologia)   
+Corso di perfezionamento in medicina scolastica   
   
-Art. 184. - La scuola rilascia i seguenti diplomi di specializzazione: in radiologia e in radiologia diagnostica.   
-La scuola e' riservata ai laureati in medicina e chirurgia, che possono essere accolti in numero massimo di 12 per ciascun anno di corso per radiologia e radiologia diagnostica.   
-Art. 185. - A) La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia e' di quattro anni.   
-Gli insegnamenti sono i seguenti:   
-a) Matematica, fisica, nozioni di statistica e informatica (annuale) comprendente:   
-1) Richiami di matematica e fisica generale;   
-2) Costituzione della materia;   
-3) Produzione, assorbimento e misura delle radiazioni;   
-4) Statistica applicata alla medicina;   
-5) Informatica e cibernetica applicate alla radiologia.   
-b) Radiodiagnostica (triennale) comprendente:   
-1) Principi generali di radiodiagnostica;   
-2) Apparecchi, strumenti e tecnica radiodiagnostica;   
-3) Tecnica e fisiologia applicate alla radiodiagnostica;   
-4) I mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e la loro terapia;   
-5) Semeiotica radiologica;   
-6) Diagnostica differenziale radiologica;   
-7) Dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;   
-8) Dimostrazioni di casistica clinica.   
-c) Radiobiologia (annuale) comprendente:   
-1) Radiobiologia generale;   
-2) Danni da radiazioni e radiopatie.   
-d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:   
-1) Legislazione sanitaria applicata alla radiologia;   
-2) Compiti e responsabilita' medico-legali del radiologo;   
-3) Radioprotezione fisica e dosimetria ad essa connessa;   
-4) Fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radio-protezioni;   
-5) Radioprotezione chimica;   
-6) Problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.   
-e) Radioterapia e terapia fisica (triennale) comprendente:   
-1) Radiobiologia applicata;   
-2) Fondamenti generali di radioterapia e terapia fisica;   
-3) Istopatologia speciale dei tumori;   
-4) Nozioni sugli apparecchi e strumenti per la radioterapia;   
-5) Tecnica e metodica radioterapica;   
-6) Dosimetria;   
-7) Clinica radioterapica;   
-8) Fondamenti generali di chemioterapia oncologica;   
-9) Chemioterapia clinica dei tumori e sua associazione alla radioterapia;   
-10) Dimostrazione di casistica clinica.   
-f) Medicina nucleare (biennale) comprendente:   
-1) Elementi di medicina nucleare;   
-2) Istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare;   
-3) Dosimetria dei radioisotopi somministrati per via interna;   
-4) Diagnostica con radioisotopi somministrati per via interna;   
-5) Radioterapia metabolica;   
-6) Dimostrazioni di casistica clinica.   
-I singoli insegnamenti tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nei quattro anni di corso:   
-  
-1° Anno (tronco comune):   
-Matematica, fisica, nozioni di statistica ed informatica;   
-Radiobiologia;   
-Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;   
-Radiodiagnostica (I).   
-  
-2° Anno:   
-Radiodiagnostica (II);   
-Radioterapia e terapia fisica (I).   
-  
-3° Anno:   
-Radiodiagnostica (III);   
-Radioterapia e terapia fisica (II);   
-Medicina nucleare (I).   
-  
-4° Anno:   
-Radioterapia e terapia fisica (III);   
-Medicina nucleare (II).   
-B) La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.   
-Gli insegnamenti sono i seguenti:   
-a) Matematica, fisica, nozioni di statistica e informatica (annuale) comprendente:   
-1) Richiami di matematica e fisica generali;   
-2) Costituzione della materia;   
-3) Produzione, assorbimento e misura delle radiazioni;   
-4) Statistica applicata alla medicina;   
-5) Informatica e cibernetica applicate alla radiologia;   
-b) Radiodiagnostica (triennale) comprendente:   
-1) Principi generali di radiodiagnostica;   
-2) Apparecchi, strumenti e tecnica radiodiagnostica;   
-3) Tecnica e fisiologia applicate alla radiodiagnostica;   
-4) I mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;   
-5) Semeiotica radiologica;   
-6) Diagnostica differenziale radiologica;   
-7) Dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;   
-8) Dimostrazioni di casistica clinica.   
-c) Radiobiologia (annuale) comprendente:   
-1) Radiobiologia generale;   
-2) Danni da radiazioni e radiopatie.   
-d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente;   
-1) Legislazione sanitaria applicata alla radiologia;   
-2) Compiti e responsabilita' medico-legali del radiologo;   
-3) Radioprotezione fisica e dosimetria ad essa connessa;   
-4) Fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radio-protezioni;   
-5) Radioprotezione chimica;   
-6) Problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.   
-I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:   
-  
-1° Anno (tronco comune):   
-Matematica, fisica, nozioni di statistica ed informatica;   
-Radiobiologia;   
-Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;   
-Radiodiagnostica (I).   
-  
-2° Anno:   
-Radiodiagnostica (II).   
-  
-3° Anno:   
-Radiodiagnostica (III).   
-  
-Per essere ammessi agli esami di diploma in radiologia e in radiologia diagnostica, gli iscritti, oltre ad avere compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia di insegnamento ed elaborata una tesi scritta su di un argomento radiologico concordato con il direttore della scuola.   
+Art. 186. - E' istituito presso la Facolta' di medicina e chirurgia un Corso di perfezionamento in medicina scolastica.   
+Il Corso ha sede nella Clinica pediatrica universitaria e la direzione e' affidata al suo direttore.   
+Il materiale didattico ed i locali adibiti all'insegnamento sono anche quelli della Clinica pediatrica.   
+Art. 187. - Il Corso ha la durata di un anno accademico e di questo ne segue il calendario.   
+Art. 188. - Possono iscriversi al Corso i laureati in medicina e chirurgia.   
+Gli iscritti sono tenuti alla frequenza dei singoli insegnamenti, internati, esercitazioni, tirocini pratici e conferenze integrative.   
+Art. 189. - Per ogni materia di insegnamento, o per gruppi di esse, dovra' essere sostenuto l'esame di profitto alla fine del corso. Per l'ammissione agli esami e' necessario aver conseguita l'attestazione di frequenza, sia agli insegnamenti fondamentali che alle conferenze.   
+Art. 190. - Per il conseguimento del certificato di frequenza e profitto occorre aver superato l'esame finale, che consiste nella presentazione e discussione di una dissertazione scritta, con contributo personale, su un tema attinente a materia di insegnamento del Corso, assegnato dal direttore.   
+Art. 191. - Gli insegnamenti impartiti nel Corso sono i seguenti:   
+Fondamentali: (con esame alla fine del corso):   
+a) Auxologia e fisiopatologia dell'accrescimento.  
+Esercitazioni;   
+b) Igiene scolastica;   
+c) Legislazione sanitaria scolastica;   
+d) Diagnostica delle malattie infettive contagiose dell'infanzia. Internato presso la Clinica pediatrica;   
+e) Profilassi antitubercolare e delle malattie infettive.  
+Tirocinio pratico;   
+f) Psicopedagogia ed orientamento professionale. Esercitazioni;  
+g) Neuropsichiatria infantile.   
+Conferenze: (senza esame: obbligo di frequenza):   
+Neuropsichiatria dell'eta' evolutiva;   
+Oftalmologia scolastica;   
+Nozioni sugli ordinamenti scolastici;   
+Reumatologia infantile;   
+Medicina sportiva dell'eta' evolutiva;   
+Dietetica nelle comunita' infantile;   
+Dermatologia.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1974
+### Dato a Roma, addi' 2 aprile 1958
 
-LEONE MALFATTI
+GRONCHI MORO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 27 gennaio 1975
+Registrato alla Corte dei conti, addi' 12 settembre 1958
 
-Atti di Governo, registro n. 8, foglio n. 42
+Atti del Governo, registro n. 114, foglio n. 15. - RELLEVA

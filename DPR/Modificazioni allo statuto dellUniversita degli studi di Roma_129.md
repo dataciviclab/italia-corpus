@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1978 n. 411
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 maggio 1971 n. 416
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1978 n. 411
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 maggio 1971 n. 416
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
@@ -12,48 +12,35 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 19, relativo all'elenco degli istituti annessi alla facolta' di giurisprudenza, e' modificato nel senso che all'istituto di filosofia del diritto sono attribuiti i seguenti insegnamenti:  
-filosofia del diritto;  
-sociologia giuridica;  
-teoria dell'interpretazione;  
-teoria generale del diritto;  
-storia delle dottrine politiche.  
-Conseguentemente, l'insegnamento di sociologia giuridica e' depennato dall'elenco degli insegnamenti attribuiti all'istituto di diritto pubblico.  
-L'art. 20, relativo all'elenco degli insegnamenti complementari per il corso di laurea in giurisprudenza, e' modificato nel senso che l'insegnamento di diritti dei Paesi del Common Law muta la denominazione in quella di "Common Law e diritto comune moderno".  
-Art. 58 - all'elenco degli insegnamenti complementari del corso di laurea in lettere e' aggiunto il seguente:  
-lingua e letteratura gaelica.  
-Art. 59 - all'elenco degli insegnamenti complementari del corso di laurea in filosofia e' aggiunto il seguente:  
-lingua e letteratura gaelica.  
-Art. 60 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne e' aggiunto il seguente:  
-lingua e letteratura gaelica.  
-L'art. 108, relativo al corso di laurea in scienze naturali, e' modificato nel senso che dopo l'elenco degli insegnamenti complementari i primi due commi relativi alle modalita' d'esame di insegnamento biennale sono abrogati e sostituiti dal seguente:  
-"Gli insegnamenti biennali di botanica e zoologia comprendono tanto la parte generale quanto quella sistematica e possono importare, a scelta dello studente, due distinti esami alla fine di ciascun anno, ovvero un unico esame al termine del biennio".  
-L'art. 110, relativo al corso di laurea in scienze biologiche, e' modificato nel senso che dopo l'elenco, degli insegnamenti complementari il primo comma relativo alle modalita' di esame di insegnamenti biennali e' abrogato e sostituito dal seguente:  
-"Gli insegnamenti biennali di botanica e di zoologia comprendono tanto la parte generale quanto quella sistematica e possono importare, a scelta dello studente, due distinti esami alla fine di ciascun anno, ovvero un unico esame al termine del biennio".  
+  
+Art. 40. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti:  
+Istituzioni di diritto e procedura penale;  
+Diritto della previdenza sociale.  
+Nello stesso articolo l'insegnamento di "Tecnica delle ricerche di mercato e della distribuzione generale" muta denominazione in "Tecnica delle ricerche di mercato".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 aprile 1978
+### Dato a Roma, addi' 27 maggio 1971
 
-LEONE PEDINI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 18 luglio 1978
+Registrato alla Corte dei conti, addi' 30 giugno 1971
 
-Registro n. 77 Istruzione, foglio n. 338
+Atti del Governo, registro n. 243, foglio n. 1. - VALENTINI

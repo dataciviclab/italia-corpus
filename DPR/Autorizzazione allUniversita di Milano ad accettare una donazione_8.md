@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1950 n. 476
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 agosto 1955 n. 1010
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1950 n. 476
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 agosto 1955 n. 1010
+==============================================================
 
 Autorizzazione all'Universita' di Milano ad accettare una donazione.
 --------------------------------------------------------------------
@@ -12,7 +12,8 @@ Art. 1
 
 N.
 
-476. Decreto del Presidente della Repubblica 3 maggio 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Milano viene autorizzata ad accettare la donazione disposta in suo favore, con atto pubblico amministrativo in data 15 marzo 1949, dal conte Giacomo Foltrinelli, consistente in una villa sita nel comune di Gargnano sul Garda, da adibirsi a sede di istituendi corsi di cultura per stranieri.  
+1010. Decreto del Presidente della Repubblica 31 agosto 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Milano viene autorizzata ad accettare la donazione della somma di L. 3.000.000 nominali, disposta in suo favore dal sig. Candido Capello, allo scopo di costituire il fondo patrimoniale del "Centro di studi e ricerche sulla tubercolosi dott. Amilcare Capello", con sede presso detta Universita'.  
   
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 12 luglio 1950
+Visto, il Guardasigilli: MORO  
+Registrato alla Corte dei conti, addi' 25 ottobre 1955  
+Atti del Governo, registro n. 93, foglio n. 84. - CARLOMAGNO

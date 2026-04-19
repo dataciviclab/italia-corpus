@@ -1,331 +1,47 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1095
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 750
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1095
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 750
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Gli articoli 190, 191, 192, 193, 194, 195, 196 e 197, relativi alla scuola di specializzazione in chirurgia d'urgenza e pronto soccorso, sono soppressi e sostituiti dai seguenti:
-
-Scuola di specializzazione in chirurgia d'urgenza e pronto soccorso
-
-Art. 190. - La scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso ha sede presso l'istituto di chirurgia d'urgenza dell'Universita' di Milano.
-
-Art. 191. - Il corso di studi per il conseguimento del diploma di specialista in chirurgia d'urgenza e di pronto soccorso ha la durata di cinque anni accademici.
-
-Art. 192. - Alla scuola possono iscriversi i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. Il numero massimo degli iscritti e' di venticinque (25) per anno di corso. Non sono ammesse abbreviazioni di corso. L'ammissione al corso avviene per titoli ed esami.
-
-Art. 193. - La frequenza alle lezioni, esercitazioni e seminari e' obbligatoria per tutti gli iscritti. L'internato e' obbligatorio durante tutti i cinque anni di corso sotto forma di permanenza costante in istituto durante le ore della sua attivita'.
-
-Art. 194. - Le materie di insegnamento sono le seguenti:
-
-clinica chirurgica generale d'urgenza e di pronto soccorso;
-
-patologia chirurgica;
-
-anatomia chirurgica;
-
-semeiotica;
-
-anestesiologia;
-
-ricerche di laboratorio;
-
-anatomia patologica;
-
-endoscopia;
-
-fisiopatologia chirurgica;
-
-chirurgia sperimentale;
-
-trattamento pre e post-operatorio in chirurgia d'urgenza;
-
-rianimazione;
-
-chirurgia vascolare d'urgenza;
-
-traumatologia dell'apparato locomotore;
-
-neurotraumatologia;
-
-terapia intensiva;
-
-radiologia;
-
-chirurgia ginecologica d'urgenza;
-
-chirurgia pediatrica d'urgenza;
-
-chirurgia plastica e riparatrice;
-
-chirurgia toracica d'urgenza;
-
-cardiochirurgia d'urgenza;
-
-angioradiologia;
-
-chirurgia urologica d'urgenza;
-
-traumatologia maxillo-facciale;
-
-trattamento del politraumatizzato;
-
-medicina legale.
-
-Art. 195. - Le materie di insegnamento sono cosi' ripartite:
-
-1° Anno:
-
-1) clinica chirurgica generale d'urgenza e di pronto soccorso I;
-
-2) patologia chirurgica I;
-
-3) anatomia chirurgica;
-
-4) semeiotica I;
-
-5) anestesiologia;
-
-6) ricerche di laboratorio;
-
-7) chirurgia sperimentale.
-
-2° Anno:
-
-8) clinica chirurgica generale d'urgenza e di pronto soccorso II;
-
-9) patologia chirurgica II;
-
-10) anatomia patologica;
-
-11) endoscopia;
-
-12) fisiopatologia chirurgica I;
-
-13) semeiotica II;
-
-14) trattamento pre e post-operatorio in chirurgia d'urgenza;
-
-15) rianimazione.
-
-3° Anno:
-
-16) clinica chirurgica generale d'urgenza e di pronto soccorso III;
-
-17) patologia chirurgica III;
-
-18) chirurgia vascolare d'urgenza;
-
-19) traumatologia dell'apparato locomotore I;
-
-20) neurotraumatologia I;
-
-21) fisiopatologia chirurgica II;
-
-22) terapia intensiva I;
-
-23) radiologia.
-
-4° Anno:
-
-24) clinica chirurgica generale d'urgenza e di pronto soccorso IV;
-
-25) chirurgia ginecologica d'urgenza;
-
-26) chirurgia pediatrica d'urgenza;
-
-27) chirurgia plastica e riparatrice I;
-
-28) traumatologia dell'apparato locomotore II;
-
-29) neurotraumatologia II;
-
-30) chirurgia toracica d'urgenza I;
-
-31) terapia intensiva II.
-
-5° Anno:
-
-32) clinica chirurgica generale d'urgenza e di pronto soccorso V;
-
-33) chirurgia plastica e riparatrice II;
-
-34) chirurgia toracica d'urgenza II;
-
-35) cardiochirurgia d'urgenza;
-
-36) chirurgia urologica d'urgenza;
-
-37) angioradiologia;
-
-38) traumatologia maxillo-facciale;
-
-39) trattamento del politraumatizzato;
-
-40) medicina legale.
-
-Art. 196. - Alla fine di ogni anno gli specializzandi per poter ottenere l'ammissione all'anno successivo dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno di corso; per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
-
-Art. 197. - L'esame di diploma consiste nella discussione di una tesi su un tema preventivamente approvato dal direttore della scuola.
-
-Il direttore della scuola e' il professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, il professore di ruolo o fuori ruolo di materia affine.
-
-Le norme per l'iscrizione, gli esami, le tasse, ecc., sono quelle generali per le scuole di specializzazione dell'Universita' di Milano.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1978
-
-PERTINI
-
-PEDINI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 28 agosto 1979 Registro n. 66 Istruzione, foglio n. 89
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli 190, 191, 192, 193, 194, 195, 196 e 197, relativi alla scuola di specializzazione in chirurgia d'urgenza e pronto soccorso, sono soppressi e sostituiti dai seguenti:   
-  
-Scuola di specializzazione in chirurgia d'urgenza e pronto soccorso   
-Art. 190. - La scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso ha sede presso l'istituto di chirurgia d'urgenza dell'Universita' di Milano.   
-Art. 191. - Il corso di studi per il conseguimento del diploma di specialista in chirurgia d'urgenza e di pronto soccorso ha la durata di cinque anni accademici.   
-Art. 192. - Alla scuola possono iscriversi i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. Il numero massimo degli iscritti e' di venticinque (25) per anno di corso. Non sono ammesse abbreviazioni di corso. L'ammissione al corso avviene per titoli ed esami.   
-Art. 193. - La frequenza alle lezioni, esercitazioni e seminari e' obbligatoria per tutti gli iscritti. L'internato e' obbligatorio durante tutti i cinque anni di corso sotto forma di permanenza costante in istituto durante le ore della sua attivita'.   
-Art. 194. - Le materie di insegnamento sono le seguenti:   
-clinica chirurgica generale d'urgenza e di pronto soccorso;   
-patologia chirurgica;   
-anatomia chirurgica;   
-semeiotica;   
-anestesiologia;   
-ricerche di laboratorio;   
-anatomia patologica;   
-endoscopia;   
-fisiopatologia chirurgica;   
-chirurgia sperimentale;   
-trattamento pre e post-operatorio in chirurgia d'urgenza;   
-rianimazione;   
-chirurgia vascolare d'urgenza;   
-traumatologia dell'apparato locomotore;   
-neurotraumatologia;   
-terapia intensiva;   
-radiologia;   
-chirurgia ginecologica d'urgenza;   
-chirurgia pediatrica d'urgenza;   
-chirurgia plastica e riparatrice;   
-chirurgia toracica d'urgenza;   
-cardiochirurgia d'urgenza;   
-angioradiologia;   
-chirurgia urologica d'urgenza;   
-traumatologia maxillo-facciale;   
-trattamento del politraumatizzato;   
-medicina legale.   
-Art. 195. - Le materie di insegnamento sono cosi' ripartite:   
-1° Anno:   
-1) clinica chirurgica generale d'urgenza e di pronto soccorso I;   
-2) patologia chirurgica I;   
-3) anatomia chirurgica;   
-4) semeiotica I;   
-5) anestesiologia;   
-6) ricerche di laboratorio;   
-7) chirurgia sperimentale.   
-2° Anno:   
-8) clinica chirurgica generale d'urgenza e di pronto soccorso II;   
-9) patologia chirurgica II;   
-10) anatomia patologica;   
-11) endoscopia;   
-12) fisiopatologia chirurgica I;   
-13) semeiotica II;   
-14) trattamento pre e post-operatorio in chirurgia d'urgenza;   
-15) rianimazione.   
-3° Anno:   
-16) clinica chirurgica generale d'urgenza e di pronto soccorso III;   
-17) patologia chirurgica III;   
-18) chirurgia vascolare d'urgenza;   
-19) traumatologia dell'apparato locomotore I;   
-20) neurotraumatologia I;   
-21) fisiopatologia chirurgica II;   
-22) terapia intensiva I;   
-23) radiologia.   
-4° Anno:   
-24) clinica chirurgica generale d'urgenza e di pronto soccorso IV;   
-25) chirurgia ginecologica d'urgenza;   
-26) chirurgia pediatrica d'urgenza;   
-27) chirurgia plastica e riparatrice I;   
-28) traumatologia dell'apparato locomotore II;   
-29) neurotraumatologia II;   
-30) chirurgia toracica d'urgenza I;   
-31) terapia intensiva II.   
-5° Anno:   
-32) clinica chirurgica generale d'urgenza e di pronto soccorso V;   
-33) chirurgia plastica e riparatrice II;   
-34) chirurgia toracica d'urgenza II;   
-35) cardiochirurgia d'urgenza;   
-36) chirurgia urologica d'urgenza;   
-37) angioradiologia;   
-38) traumatologia maxillo-facciale;   
-39) trattamento del politraumatizzato;   
-40) medicina legale.   
-Art. 196. - Alla fine di ogni anno gli specializzandi per poter ottenere l'ammissione all'anno successivo dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno di corso; per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
-Art. 197. - L'esame di diploma consiste nella discussione di una tesi su un tema preventivamente approvato dal direttore della scuola.   
-Il direttore della scuola e' il professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, il professore di ruolo o fuori ruolo di materia affine.   
-Le norme per l'iscrizione, gli esami, le tasse, ecc., sono quelle generali per le scuole di specializzazione dell'Universita' di Milano.   
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+L'ultimo comma dell'art. 226 relativo alla scuola di specializzazione in igiene e medicina preventiva e' abrogato e sostituito dal seguente:  
+"Il numero degli iscritti e' stabilito in un massimo di 40 per il primo anno di corso".  
+Nello stesso articolo e' aggiunto il seguente nuovo comma:  
+"E' ammessa l'abbreviazione di corso di un anno (con ammissione al secondo anno) per:  
+a) i titolari del diploma di specializzazione in igiene, igiene pubblica, igiene generale e speciale, igiene e sanita' pubblica, igiene ed epidemiologia, igiene e tecnica ospedaliera, igiene, tecnica e direzione ospedaliera, igiene scolastica, igiene e medicina scolastica;  
+b) i liberi docenti di igiene.  
+E' prevista, a domanda dell'interessato e non oltre il termine del secondo anno di corso, la possibilita' di passaggio da un indirizzo all'altro. L'accoglimento della relativa domanda ha luogo a giudizio insindacabile della facolta', sentito il direttore della scuola, e sempre che nell'indirizzo prescelto vi siano, per il corrispondente anno in corso, posti disponibili".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1978
+### Dato a Roma, addi' 31 ottobre 1974
 
-PERTINI PEDINI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 28 agosto 1979
+Registrato alla Corte dei conti, addi' 27 gennaio 1975
 
-Registro n. 66 Istruzione, foglio n. 89
+Atti di Governo, registro n. 8, foglio n. 21

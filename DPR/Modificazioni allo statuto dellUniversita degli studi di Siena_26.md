@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 882
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1967 n. 1124
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 882
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1967 n. 1124
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -12,11 +12,12 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -24,78 +25,42 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 6. - E' abrogato e sostituito dal seguente:  
+"Gli insegnamenti pluriennali importano un unico esame alla fine dei corsi salvo disposizioni particolari del presente statuto".  
+Art. 9. - All'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:  
+24) Diritto fallimentare;  
+25) Diritto della navigazione;  
+26) Diritto bancario.  
+Art. 26. - All'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti quelli di:  
   
-Art. 40, relativo agli istituti della facolta' di scienze economiche e bancarie e' abrogato e sostituito dal seguente:  
-  
-Sono costituiti i seguenti istituti:  
-Istituto di economia;  
-Istituto di ragioneria generale ed applicata;  
-Istituto di matematica;  
-Istituto di materie giuridiche;  
-Istituto di tecnica economica;  
-Istituto di lingue;  
-Istituto di statistica.  
-Art. 41. - I suddetti istituti sono regolamentati dalle seguenti norme:  
-  
-Gli istituti hanno lo scopo di promuovere e coordinare l'insegnamento e la ricerca nelle discipline di propria pertinenza.  
-Art. 42. - Ogni istituto e' retto da un professore di ruolo nominato dal consiglio di facolta'. In mancanza di professori di ruolo, la direzione dell'istituto puo' essere affidata al professore incaricato della materia da cui l'istituto trae la denominazione.  
-Art. 43. - Agli istituti possono essere addetti assistenti, tecnici, bibliotecari, personale amministrativo e subalterno, purche' siano appartenenti ai ruoli universitari e non gravino, quindi, sui fondi di dotazione dell'istituto.  
-Art. 44. - Gli istituti dovranno disporre, secondo modalita' intese a conseguire, nel modo piu' idoneo, il raggiungimento delle proprie finalita', di una dotazione e potranno, eventualmente, disporre di fondi e di borse di studio di enti pubblici e privati, italiani e stranieri.  
-Art. 45. - All'istituto di economia sono attribuiti i seguenti insegnamenti:  
-Istituzioni di economia politica;  
-Economia politica;  
-Storia economica;  
-Economia monetaria e creditizia;  
-Scienza delle finanze;  
-Politica economica;  
-Storia delle dottrine economiche;  
-Economia e politica agraria;  
-Economia internazionale;  
-Econometria;  
-Economia applicata;  
-Economia matematica;  
-Storia economica italiana dall'Unita' nazionale.  
-Art. 46. - All'istituto di ragioneria generale ed applicata sono attribuiti i seguenti insegnamenti:  
-Ragioneria generale ed applicata;  
-Contabilita' economica nazionale;  
-Contabilita' di Stato.  
-Art. 47. - All'istituto di materie giuridiche sono attribuiti i seguenti insegnamenti:  
-Istituzioni di diritto privato;  
-Istituzioni di diritto pubblico;  
-Diritto commerciale;  
-Diritto pubblico dell'economia;  
-Diritto finanziario;  
-Diritto amministrativo;  
-Diritto del lavoro;  
-Diritto fallimentare;  
-Legislazione sulle banche, sulle borse e sul risparmio;  
-Storia delle dottrine politiche;  
-Sociologia.  
-Art. 48. - All'istituto di tecnica economica sono attribuiti i seguenti insegnamenti:  
-Tecnica bancaria;  
-Tecnica industriale e commerciale;  
-Tecnica di borsa;  
-Tecnica del commercio interno ed internazionale;  
-Economia e tecnica delle imprese di assicurazione.  
-Art. 49. - All'istituto di lingue sono attribuiti i seguenti insegnamenti:  
-Lingua inglese;  
-Lingua francese;  
-Lingua tedesca.  
-Art. 50. - All'istituto di statistica sono attribuiti i seguenti insegnamenti:  
-Istituzioni di statistica;  
-Statistica;  
-Demografia.  
+Istituzioni di matematiche;  
+Chimica farmaceutica applicata.  
+Nel predetto corso di laurea dopo il terzo comma sono aggiunti i seguenti comma:  
+"Il corso biennale di chimica farmaceutica e tossicologica importa un esame alla fine di ogni anno.  
+Il corso triennale di esercitazioni di chimica farmaceutica e tossicologica importa un esame alla fine di ogni anno".  
+Art. 27, relativo agli esami di laurea e' modificato nel senso che il secondo e il terzo comma sono abrogati e sostituiti dai seguenti: "L'esame di laurea in farmacia consiste in:  
+a) un'analisi chimica qualitativa con miscuglio di almeno tre cationi e tre anioni;  
+b) un'analisi chimica quantitativa di un prodotto iscritto nella F. U.;  
+c) una prova di riconoscimento e saggi di purezza di due prodotti iscritti nella F. U.;  
+d) discussione delle relazioni scritte sui risultati delle predette prove;  
+e) prova orale di cultura tecnico-professionale;  
+f) discussione di una dissertazione scritta, compilativa o sperimentale, in una disciplina scelta dal candidato fra quelle seguite durante il corso di studio e presentate alla segreteria universitaria almeno quindici giorni prima dell'esame di laurea.  
+Dopo l'art. 39, e col conseguente spostamento della successiva numerazione e' aggiunto il seguente nuovo articolo, relativo alla creazione di nuovi istituti annessi alla facolta' di scienze economiche e bancarie.  
+Art. 40. - Fanno parte della facolta' di scienze economiche e bancarie i seguenti istituti:  
+1) Istituto di economia politica;  
+2) Istituto di matematica;  
+3) Istituto di ragioneria generale ed applicata.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 agosto 1971
+### Dato a Roma, addi' 14 agosto 1967
 
-SARAGAT MISASI
+SARAGAT GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 28 ottobre 1971
+Registrato alla Corte dei conti, addi' 28 novembre 1967
 
-Atti del Governo, registro n. 244, foglio n. 187. - CARUSO
+Atti del Governo, registro n. 215, foglio n. 29. - GRECO

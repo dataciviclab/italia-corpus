@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1972 n. 449
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1971 n. 624
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1972 n. 449
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1971 n. 624
 =============================================================
 
 Modificazioni allo statuto del libero Istituto universitario di medicina e chirurgia di L'Aquila.

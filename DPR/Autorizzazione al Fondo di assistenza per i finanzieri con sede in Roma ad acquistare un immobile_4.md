@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1967 n. 170
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 settembre 1970 n. 1055
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1967 n. 170
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 settembre 1970 n. 1055
+=================================================================
 
 Autorizzazione al Fondo di assistenza per i finanzieri, con sede in Roma, ad acquistare un immobile.
 ----------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-170. Decreto del Presidente della Repubblica 25 febbraio 1967, col quale, sulla proposta del Ministro per le finanze, il Fondo di assistenza per i finanzieri, con sede in Roma, viene autorizzato ad acquistare, al prezzo di L. 1.875.000.000, l'immobile sito in Roma, con accessi da via Listz, 48; via Chopin, 49 e via privata congiungente le predette vie ai numeri civici 8 e 24, alle condizioni specificate nella deliberazione consiliare del 16 novembre 1964. L'autorizzazione ha efficacia dal 19 dicembre 1964.  
+1055. Decreto del Presidente della Repubblica 11 settembre 1970, col quale, sulla proposta del Ministro per le finanze, il Fondo di assistenza per i finanzieri, con sede in Roma, viene autorizzato ad acquistare, al prezzo di L. 650.000.000, l'immobile sito in Roma con accesso da via Dante de Blasi n. 26 prov., alle condizioni specificate nella deliberazione consiliare del 9 aprile 1970.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 3 aprile 1967  
-Atti del Governo, registro n. 210, foglio n. 67. - GRECO
+Registrato alla Corte dei conti, addi' 21 dicembre 1970  
+Atti del Governo, registro n. 239, foglio n. 20. - CARUSO

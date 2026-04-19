@@ -1,203 +1,131 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1975 n. 979
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1974 n. 810
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1975 n. 979
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1974 n. 810
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 147 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in medicina dello sport.
-
-Dopo l'art. 196, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina dello sport di cui all'art. 147.
-
-Scuola di specializzazione in medicina dello sport
-
-Art. 197. - Titolo per l'iscrizione: laurea in medicina e chirurgia. Numero massimo di iscritti: 10 per ogni anno di corso (totale 30 iscritti).
-
-Durata del corso: 3 anni.
-
-Frequenza: obbligatoria per l'intero anno accademico.
-
-Sede ufficiale: istituto di fisiologia umana.
-
-Gli insegnamenti clinici e specialistici si svolgeranno presso i rispettivi istituti clinici e specialistici.
-
-L'ammissione ai corsi avviene per titoli.
-
-Nel caso di domande eccedenti il numero dei posti disponibili, l'ammissione dei candidati aventi pari titoli e uguale data di presentazione della domanda, sara' regolata da prove di esami davanti ad una commissione nominata dal consiglio dei docenti della scuola.
-
-La direzione del corso e' affidata al direttore dell'istituto di fisiologia umana.
-
-Art. 198. - Materie di insegnamento:
-
-1° Anno:
-
-1) anatomia dell'apparato locomotore;
-
-2) biomeccanica applicata all'esercizio fisico;
-
-3) biochimica generale ed applicata;
-
-4) antropometria e auxologia;
-
-5) storia, sistematica e tecnologia degli sports;
-
-6) istituzioni di psicologia generale e psicologia applicata agli sports;
-
-7) istituzioni di scienza della nutrizione e dietetica applicata all'attivita' sportiva.
-
-2° Anno:
-
-1) anatomia degli apparati circolatorio, respiratorio e nervoso;
-
-2) fisiologia delle ossa, delle articolazioni e dei muscoli;
-
-3) biochimica ed energetica muscolare;
-
-4) valutazione funzionale dello sportivo e tecnica fisiologica;
-
-5) biofisica del muscolo (facoltativa);
-
-6) fisioterapia e rieducazione funzionale (facoltativa);
-
-7) farmacologia applicata all'attivita' sportiva (facoltativa);
-
-8) igiene e medicina preventiva applicata all'attivita' sportiva (facoltativa).
-
-3° Anno:
-
-1) fisiologia del sistema nervoso motorio, della respirazione e della circolazione;
-
-2) educazione fisica e tecnica dell'allenamento sportivo;
-
-3) chirurgia d'urgenza, rianimazione e pronto soccorso;
-
-4) medicina legale e infortunistica;
-
-5) traumatologia e ortopedia dello sport;
-
-6) fisiopatologia degli sports (facoltativa);
-
-7) assistenza medico sportiva nei grandi agglomerati urbani (facoltativa).
-
-Art. 199. - La scuola inoltre svolgera' brevi corsi integrativi di conferenze o seminari sopra argomenti e discipline che saranno stabiliti dal consiglio dei docenti della scuola.
-
-Saranno inoltre svolte esercitazioni pratiche e sul campo. Gli esami annuali si svolgeranno per gruppi di materie, comprendenti discipline incluse nel piano di studio esposto.
-
-Il gruppo di materie comprende tutte le materie di insegnamento e quelle facoltative scelte dal candidato, previste per ogni anno di corso.
-
-L'iscrizione agli anni successivi e' subordinata al superamento di tutti gli esami annuali. Il diploma si consegue dopo aver superato tutte le prove di esame del triennio; la prova di diploma si svolge con la discussione su una dissertazione scritta concernente un tema assegnato o in altro caso approvato dal direttore della scuola.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 24 ottobre 1975
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 23 aprile 1976 Atti di Governo, registro n. 5, foglio n. 24
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936; n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 147 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in medicina dello sport.  
-Dopo l'art. 196, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina dello sport di cui all'art. 147.  
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli da 90 a 99 relativi all'ordinamento degli studi della facolta' di architettura sono abrogati e sostituiti dai seguenti:   
   
-Scuola di specializzazione in medicina dello sport  
+FACOLTA' DI ARCHITETTURA   
   
-Art. 197. - Titolo per l'iscrizione: laurea in medicina e chirurgia. Numero massimo di iscritti: 10 per ogni anno di corso (totale 30 iscritti).  
-Durata del corso: 3 anni.  
-Frequenza: obbligatoria per l'intero anno accademico.  
-Sede ufficiale: istituto di fisiologia umana.  
-Gli insegnamenti clinici e specialistici si svolgeranno presso i rispettivi istituti clinici e specialistici.  
-L'ammissione ai corsi avviene per titoli.  
-Nel caso di domande eccedenti il numero dei posti disponibili, l'ammissione dei candidati aventi pari titoli e uguale data di presentazione della domanda, sara' regolata da prove di esami davanti ad una commissione nominata dal consiglio dei docenti della scuola.  
-La direzione del corso e' affidata al direttore dell'istituto di fisiologia umana.  
-Art. 198. - Materie di insegnamento:  
-1° Anno:  
-1) anatomia dell'apparato locomotore;  
-2) biomeccanica applicata all'esercizio fisico;  
-3) biochimica generale ed applicata;  
-4) antropometria e auxologia;  
-5) storia, sistematica e tecnologia degli sports;  
-6) istituzioni di psicologia generale e psicologia applicata agli sports;  
-7) istituzioni di scienza della nutrizione e dietetica applicata all'attivita' sportiva.  
-2° Anno:  
-1) anatomia degli apparati circolatorio, respiratorio e nervoso;  
-2) fisiologia delle ossa, delle articolazioni e dei muscoli;  
-3) biochimica ed energetica muscolare;  
-4) valutazione funzionale dello sportivo e tecnica fisiologica;  
-5) biofisica del muscolo (facoltativa);  
-6) fisioterapia e rieducazione funzionale (facoltativa);  
-7) farmacologia applicata all'attivita' sportiva (facoltativa);  
-8) igiene e medicina preventiva applicata all'attivita' sportiva (facoltativa).  
-3° Anno:  
-1) fisiologia del sistema nervoso motorio, della respirazione e della circolazione;  
-2) educazione fisica e tecnica dell'allenamento sportivo;  
-3) chirurgia d'urgenza, rianimazione e pronto soccorso;  
-4) medicina legale e infortunistica;  
-5) traumatologia e ortopedia dello sport;  
-6) fisiopatologia degli sports (facoltativa);  
-7) assistenza medico sportiva nei grandi agglomerati urbani (facoltativa).  
-Art. 199. - La scuola inoltre svolgera' brevi corsi integrativi di conferenze o seminari sopra argomenti e discipline che saranno stabiliti dal consiglio dei docenti della scuola.  
-Saranno inoltre svolte esercitazioni pratiche e sul campo. Gli esami annuali si svolgeranno per gruppi di materie, comprendenti discipline incluse nel piano di studio esposto.  
-Il gruppo di materie comprende tutte le materie di insegnamento e quelle facoltative scelte dal candidato, previste per ogni anno di corso.  
-L'iscrizione agli anni successivi e' subordinata al superamento di tutti gli esami annuali. Il diploma si consegue dopo aver superato tutte le prove di esame del triennio; la prova di diploma si svolge con la discussione su una dissertazione scritta concernente un tema assegnato o in altro caso approvato dal direttore della scuola.  
+Art. 90. - La facolta' di architettura ha il fine di pro muovere e di sviluppare gli studi sull'architettura ne campo della progettazione dell'ambiente.   
+Al termine del corso degli studi, la cui durata e' di cinque anni, conferisce la laurea in dottore in architettura.   
+Art. 91. - Nel contesto della facolta' sono attivati gli istituti, come servizio alla didattica ed alla ricerca, sono retti da un direttore, che e' responsabile del loro funzionamento e della loro amministrazione.   
+Art. 92. - La facolta' comprende i seguenti istituti policattedra ai quali fanno capo tutti gli insegnamenti attivati:   
+1) Istituto di composizione architettonica;   
+2) Istituto di elementi di architettura;   
+3) Istituto di scienza e tecnica delle costruzioni   
+4) Istituto di storia dell'architettura;   
+5) Istituto di studi sull'architettura;   
+6) Istituto di tecnologia ambientale;   
+7) Istituto di urbanistica e pianificazione territoriale.   
+Art. 93. - I titoli di studio che danno diritto all'ammissione al 1° anno della facolta' sono quelli previsti dalle vigenti disposizioni di legge. Il consiglio di facolta' determinera' di volta in volta, a quale anno potranno essere ammessi gli studenti od i laureati provenienti da altre facolta' universitarie od istituti superiori, stabilendo quali esami da essi superati siano convalidabili al fine del corso di studi da cui il presente statuto.   
+Art. 94. - Nella facolta' sono istituiti i seguenti insegnamenti:   
+A) Fondamentali:   
+1) Analisi matematica e geometria analitica (annuale + un semestre);   
+2) Arredamento (annuale);   
+3) Composizione architettonica (quinquennale);   
+4) Disegno e rilievo (annuale);   
+5) Estimo ed esercizio professionale (semestrale);   
+6) Fisica (semestrale);   
+7) Fisica tecnica ed impianti (annuale);   
+8) Geometria descrittiva (annuale);   
+9) Igiene edilizia (semestrale);   
+10) Statica (annuale);   
+11) Restauro dei monumenti (annuale);   
+12) Scienza delle costruzioni (annuale);   
+13) Storia dell'architettura (biennale);   
+14) Tecnica delle costruzioni (annuale);   
+15) Tecnologia dell'architettura (biennale);   
+16) Urbanistica (biennale).   
+B) Complementari:   
+1) Letteratura italiana;   
+2) Plastica ornamentale;   
+3) Lingua straniera;   
+4) Arte dei giardini;   
+5) Scenografia;   
+6) Decorazione;   
+7) Materie giuridiche;   
+8) Applicazione di geometria descrittiva;   
+9) Architettura sociale;   
+10) Allestimento e museografia;   
+11) Indirizzi dell'architettura moderna;   
+12) Caratteri stilistici e costruttivi dei monumenti;   
+13) Complementi di matematica;   
+14) Consolidamento ed adattamento degli edifici;   
+15) Disegno dal vero;   
+16) Ponti e grandi strutture;   
+17) Impianti speciali;   
+18) Istituzioni di storia dell'arte;   
+19) Illuminazione ed acustica nell'edilizia;   
+20) Letteratura artistica;   
+21) Pianificazione territoriale urbanistica;   
+22) Progettazione artistica per l'industria;   
+23) Storia dell'urbanistica;   
+24) Geotecnica e tecnica delle fondazioni;   
+25) Tipologia strutturale;   
+26) Unificazione edilizia e prefabbricazione;   
+27) Materiali da costruzioni speciali;   
+28) Complementi di fisica;   
+29) Costruzioni in zone sismiche;   
+30) Sociologia;   
+31) Economia dello spazio;   
+32) Topografia;   
+33) Analisi dei sistemi urbani;   
+34) Infrastrutture dei trasporti;   
+35) Geografia urbana;   
+36) Metodologia della progettazione;   
+37) Percezione e metodi di rappresentazione;   
+38) Istituzione di analisi matematica;   
+39) Metodologia degli approcci scientifici;   
+40) Controllo ecologico dell'ambiente;   
+41) Strumenti di comunicazione visiva;   
+42) Teoria dei modelli nella progettazione;   
+43) Architettura e mezzi di produzione;   
+44) Teorie dell'architettura.   
+Tutti gli insegnamenti complementari compresi nella tabella B) sono annuali.   
+Art. 95. - Nella concorrenza alla formazione del numero minimo di esami da superare per l'ammissione alla laurea, giusta quanto dettato dal successivo art. 98, due insegnamenti semestrali si considerano equivalenti ad un insegnamento annuale.   
+La facolta' attiva annualmente un numero di insegnamenti complementari pari o equivalenti a quattordici insegnamenti di durata annuale.   
+Art. 96. - Sono stabilite le seguenti precedenze di esami:   
+non si puo' essere ammessi a sostenere l'esame di statica e di fisica tecnica ed impianti se non e' stato superato l'esame di analisi matematica e geometria analitica;   
+non si puo' essere ammesso a sostenere l'esame di scienza delle costruzioni se non e' stato superato l'esame dia statica.   
+Nella serie degli esami stabiliti dalla facolta' per la composizione architettonica, non puo' essere sostenuto un esame senza che sia stato superato il precedente.   
+Art. 97. - Gli insegnamenti sono svolti mediante lezioni, integrate da seminari, esercitazioni pratiche, conferenze, visite, etc.   
+Gli esami di profitto consistono in colloqui sugli argomenti e le tematiche dei corsi svolti.   
+Art. 98. - Per essere ammesso all'esame di laurea lo studente deve aver seguito le lezioni e le esercitazioni, e deve aver superato i relativi esami di tutti gli esami fondamentali e di sei insegnamenti complementari della durata di un anno (o equivalente) da lui scelti tra i quattordici proposti dalla facolta'.   
+Art. 99. - L'esame di laurea consiste nella valutazione dell'attivita' svolta e del profitto tratto dal candidato durante il corso di studi e nella discussione d'una tesi riguardante il campo disciplinare della facolta'.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 ottobre 1975
+### Dato a Roma, addi' 29 ottobre 1974
 
 LEONE MALFATTI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 23 aprile 1976
+Registrato alla Corte dei conti, addi' 27 gennaio 1975
 
-Atti di Governo, registro n. 5, foglio n. 24
+Atti di Governo, registro n. 8, foglio n. 68

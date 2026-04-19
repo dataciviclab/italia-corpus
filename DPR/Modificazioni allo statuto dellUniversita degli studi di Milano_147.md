@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 settembre 1962 n. 1472
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 938
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 settembre 1962 n. 1472
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 938
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -10,91 +10,93 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1936, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-11-04;2280), modificato con [regio decreto 26 ottobre 1940, n. 2096](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2096), e successivi;
+Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita', accademiche dell'Universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato nel senso che l'art. 10, relativo al corso di laurea in giurisprudenza concernente la discussione dell'esame di laurea e' abrogato e sostituito dal seguente:
+Lo statuto dell'Universita' di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 10. - "L'esame di laurea consiste:
+Articolo unico
+--------------
 
-a) nella discussione orale di una dissertazione scritta, su tema precedentemente approvato dal professore della materia;
-
-b) nella discussione orale di una breve dissertazione scritta su altro tema parimenti approvato dal professore della materia, su argomento di diritto positivo diverso da quello della dissertazione di laurea.
-
-La dissertazione in quadruplice copia e la sottotesi in triplice copia, debbono essere depositate in segreteria almeno un mese prima della data stabilita per l'esame di laurea".
-
-Art. 32, relativo al corso di laurea in matematica, sono aggiunti i seguenti insegnamenti complementari:
-
-12) Storia delle matematiche per l'indirizzo didattico (tabella A);
-
-12) Calcolo delle probabilita' per l'indirizzo applicativo (tabella A).
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 4 settembre 1962
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 20 ottobre 1962 Atti del Governo, registro n. 159, foglio n. 64. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1936, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-11-04;2280), modificato con [regio decreto 26 ottobre 1940, n. 2096](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2096), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita', accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato nel senso che l'art. 10, relativo al corso di laurea in giurisprudenza concernente la discussione dell'esame di laurea e' abrogato e sostituito dal seguente:  
-  
-Art. 10. - "L'esame di laurea consiste:  
-a) nella discussione orale di una dissertazione scritta, su tema precedentemente approvato dal professore della materia;  
-b) nella discussione orale di una breve dissertazione scritta su altro tema parimenti approvato dal professore della materia, su argomento di diritto positivo diverso da quello della dissertazione di laurea.  
-La dissertazione in quadruplice copia e la sottotesi in triplice copia, debbono essere depositate in segreteria almeno un mese prima della data stabilita per l'esame di laurea".  
-Art. 32, relativo al corso di laurea in matematica, sono aggiunti i seguenti insegnamenti complementari:  
-12) Storia delle matematiche per l'indirizzo didattico (tabella A);  
-12) Calcolo delle probabilita' per l'indirizzo applicativo (tabella A).  
+Nell'art. 27, concernente il corso di laurea in storia, all'insegnamento fondamentale dell'indirizzo medioevale di "storia romana" e apposto l'asterisco.  
+Nell'elenco degli insegnamenti complementari del medesimo indirizzo medioevale e' apposto l'asterisco agli insegnamenti di "archivistica" e di "antropologia culturale"; inoltre sono inseriti i seguenti insegnamenti:  
+storia greca;  
+demografia storica;  
+letteratura latina;  
+geografia.  
+Nell'elenco degli insegnamenti complementari dell'indirizzo moderno sono inseriti i seguenti insegnamenti:  
+storia dell'Europa occidentale nell'eta' moderna;  
+\* archivistica;  
+bibliografia e biblioteconomia;  
+storia del diritto italiano;  
+museologia;  
+didattica della storia;  
+\* antropologia culturale;  
+storia delle esplorazioni geografiche;  
+storia del commercio e della navigazione;  
+\* storia romana;  
+storia contemporanea;  
+demografia storica;  
+storia della Chiesa;  
+storia delle dottrine politiche;  
+storia economica;  
+storia delle dottrine economiche;  
+storia e civilta' dei Paesi arabi;  
+storia delle istituzioni politiche;  
+storia del giornalismo;  
+storia delle relazioni internazionali;  
+storia dei partiti e dei movimenti politici;  
+storia dell'Italia contemporanea;  
+storia dell'industria;  
+storia della musica;  
+storia della letteratura italiana moderna e contemporanea;  
+storia greca;  
+letteratura ispanoamericana;  
+storia dell'arte contemporanea;  
+storia e civilta' dell'India e dell'Estremo Oriente;  
+storia della pedagogia;  
+storia dell'arte moderna;  
+geografia;  
+geografia politica;  
+geografia economica;  
+geografia storica;  
+storia della geografia;  
+metodologia della ricerca geografica;  
+geografia regionale (per aree linguistiche);  
+geografia delle popolazioni;  
+geografia urbana e rurale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 settembre 1962
+### Dato a Roma, addi' 28 ottobre 1983
 
-SEGNI GUI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 20 ottobre 1962
+Registrato alla Corte dei conti, addi' 30 gennaio 1984
 
-Atti del Governo, registro n. 159, foglio n. 64. - VILLA
+Registro n. 4 Istruzione, foglio n. 400

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 giugno 1980 n. 608
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1980 n. 685
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 giugno 1980 n. 608
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1980 n. 685
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,85 +20,130 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifica dello statuto formulato dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' degli studi di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla
------
+Sulla proposta del Ministro della pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
   
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Nell'art. 274 sono soppressi i primi quattro commi e sostituiti come segue:   
-La scuola di perfezionamento in biologia conferisce il diploma di perfezionamento in biologia secondo i seguenti indirizzi:   
-ricerche biologiche;   
-genetica applicata;   
-biologia applicata;   
-biologia sanitaria.   
-Nel diploma di perfezionamento conferito dalla scuola e' fatta menzione dell'indirizzo svolto. Titolo preferenziale per l'ammissione al corso e' la laurea in scienze biologiche e naturali. Limitatamente all'indirizzo genetico sono ammessi i laureati in medicina veterinaria ed in agraria. Limitatamente all'indirizzo in biologia applicata ed in biologia sanitaria sono ammessi anche i laureati in chimica (indirizzo organico-biologico).   
-La frequenza ai corsi ed alle esercitazioni e' obbligatoria.  
-Inoltre e' richiesto il tirocinio presso istituti e laboratori qualificati su indicazione del comitato direttivo della scuola.   
-Le iscrizioni sono limitate alla disponibilita' dei posti per ciascun indirizzo come segue:   
-indirizzo di ricerche biologiche, posti n. 8;   
-indirizzo di genetica applicata, posti n. 5;   
-indirizzo di biologia applicata, posti n. 8;   
-indirizzo di biologia sanitaria, posti n. 5.   
-Gli aspiranti verranno scelti in base ai titoli presentati e al risultato di un colloquio, da una commissione costituita da insegnanti del corso.   
-I commi concernenti l'indirizzo in biologia applicata sono soppressi e sostituiti come segue:   
-Indirizzo in biologia applicata. Le materie di insegnamento sono:   
-1° Anno:   
-elementi di biologia degli animali di laboratorio;   
-titolazioni biologiche;   
-tecniche biochimiche;   
-statistica applicata;   
-tecniche microbiologiche.   
-2° Anno:   
-metodi biochimici di separazione;   
-tecniche microscopiche;   
-tecniche fisiologiche;   
-titolazioni microbiologiche;   
-tecniche farmacologiche.   
-Per l'ammissione al secondo anno e' obbligatorio il superamento di almeno due esami degli insegnamenti del primo anno.   
-L'ammissione all'esame di diploma e' subordinata al superamento degli esami di tutti i corsi sopraelencati.   
-L'esame di diploma consiste in una prova pratica seguita da una discussione e da un esame di cultura generale.   
-Sono aggiunti i seguenti nuovi commi relativi all'istituzione dell'indirizzo in biologia sanitaria.   
-Indirizzo in biologia sanitaria.   
-Le materie di insegnamento sono:   
-1° Anno:   
-organizzazione e strumentazione di laboratorio;   
-fisiopatologia;   
-chimica clinica;   
-tecniche chimico-cliniche;   
-microbiologia sanitaria.   
-2° Anno:   
-citologia normale e patologica;   
-tecniche immunologiche;   
-ematologia;   
-dosaggi ormonali;   
-farmacologia e tossicologia sanitaria.   
-Per l'ammissione a questo indirizzo occorre il diploma di perfezionamento in biologia applicata.   
-Per l'ammissione al secondo anno e' obbligatorio il superamento di almeno due esami degli insegnamenti del primo anno.   
-L'ammissione all'esame di diploma e' subordinata al superamento degli esami di tutti i corsi sopraelencati.   
-L'esame di diploma consiste in una prova pratica seguita da una discussione e da un esame di cultura generale.   
+L'art. 27, relativo alla facolta' di medicina e chirurgia, e' cosi' riformulato: La facolta' di medicina e chirurgia conferisce le seguenti lauree:   
+in medicina e chirurgia;   
+in odontoiatria e protesi dentaria.   
+Dopo l'art. 29, con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo alla istituzione del corso di laurea in odontoiatria e protesi dentaria.   
+Laurea in odontoiatria e protesi dentaria   
+Art. 30. - La durata del corso di studi e' di cinque anni, suddivisi in un biennio ed un triennio.   
+Il titolo di ammissione e' quello previsto dalle vigenti disposizioni di legge.   
+Il numero degli iscritti e' di cento per anno di corso.   
+L'accesso al corso di laurea verra' regolato da un esame di ammissione. Il punteggio da attribuire nell'esame sara' cosi' ripartito: il 30% sara' riservato al voto riportato dal candidato nell'esame di diploma di scuola secondaria superiore ed il 70% sara' riservato alla prova di esame di ammissione al corso di laurea con tests a scelta multipla su argomenti di biologia generale, chimica, fisica e matematica, secondo i programmi della scuola secondaria superiore.   
+Sono insegnamenti fondamentali:   
+Biennio:   
+1) anestesia generale e speciale odontostomatologia (semestrale);   
+\*2) biologia generale applicata agli studi medici;   
+\*3) chimica;   
+\*4) chimica biologica;   
+5) farmacologia (semestrale);   
+6) fisica medica;   
+7) fisiologia umana e dell'apparato stomatognatico;   
+8) igiene e odontoiatria preventiva e sociale con epidemiologia (semestrale);   
+9) istituzioni di anatomia umana normale e dell'apparato stomatognatico;   
+10) istituzioni di anatomia ed istologia patologica;   
+\*11) istologia ed embriologia generale (compresa la citologia);   
+12) materiali dentari;   
+13) microbiologia (semestrale);   
+14) odontoiatria conservatrice (triennale - 2°, 3° e 4° anno);   
+15) patologia generale.   
+Triennio:   
+16) chirurgia speciale odontostomatologica (biennale - 3° e 4° anno);   
+17) clinica odontostomatologica (biennale - 4° e 5° anno);   
+18) medicina legale e delle assicurazioni e deontologia in odontostomatologia (semestrale);   
+19) neuropatologia e psicopatologia (semestrale);   
+20) ortognatodonzia e gnatologia (funzione masticatoria) (biennale - 4° e 5° anno);   
+21) parodontologia (biennale);   
+22) patologia speciale chirurgica e propedeutica clinica;   
+23) patologia speciale medica e metodologia clinica (compresa la pediatria);   
+24) patologia speciale odontostomatologica;   
+25) pedodonzia (semestrale);   
+26) protesi dentaria (triennale - 3°, 4° e 5° anno);   
+27) radiologia generale e speciale odontostomatologica (semestrale).   
+Insegnamenti complementari:   
+\*1) chirurgia maxillo-facciale;   
+\*2) dermatologia e venereologia (semestrale);   
+\*3) otorinolaringoiatria (semestrale);   
+\*4) statistica sanitaria;   
+altri insegnamenti complementari nel piano della facolta' sempre mutuati dal corso di laurea in medicina e chirurgia.   
+Gli insegnamenti segnati con asterisco sono mutuati dal corso di laurea in medicina e chirurgia.   
+Gli insegnamenti fondamentali sono teorici e pratici e la loro frequenza e' obbligatoria.   
+Gli insegnamenti specificatamente odontostomatologici di ordine clinico comportano anche un tirocinio pratico continuativo da espletare prima di sostenere i relativi esami.   
+Gli allievi, che non conseguono le attestazioni di frequenza, non possono essere ammessi a sostenere le relative prove di esame.   
+Il tirocinio pratico relativo ad ogni insegnamento clinico, deve prevedere da parte di componenti dello organico, una assistenza didattica adeguata al numero degli studenti.   
+  
+  
+  
+Non si puo' essere ammessi Se non si e' superato  
+a sostenere l'esame di: l'esame di:  
+  
+  
+Fisiologia umana e dell'apparato Istituzioni di anatomia  
+Stomatognatico umana normale e dell'apparato  
+stomatognatico  
+Patologia generale  
+Chimica  
+Biologia generale applicata  
+agli studi medici  
+Fisica medica  
+  
+Patologia speciale medica Fisiologia umana e del-  
+e metodologica clinica l'apparato stomatognatico  
+(compresa la pediatria)  
+  
+Patologia speciale chirurgica Patologia generale  
+e propedeutica clinica  
+  
+Clinica odontostomatologica Patologia speciale medica  
+e metodologia clinica  
+(compresa la pediatria)  
+  
+Patologia speciale chirurgica  
+e propedeutica clinica  
+  
+Istituzioni di anatomia e  
+istologia patologica  
+  
+Patologia speciale odonto-  
+stomatologica  
+  
+Chirurgia speciale odonto-  
+stomatologia  
+  
+  
+Per essere ammesso a sostenere l'esame di laurea in odontoiatria e protesi dentaria, lo studente deve aver seguito i corsi ed aver superato gli esami in tutti gli insegnamenti fondamentali ed almeno in due insegnamenti scelti tra i complementari ed aver, inoltre, seguito le prescritte esercitazioni cliniche, i tirocini pratici ed averne conseguito le relative attestazioni.   
+L'esame di laurea consiste nella discussione di una tesi scritta su argomenti di odontostomatologia da richiedere almeno all'inizio dell'ultimo anno di corso.   
+Per il trasferimento degli studenti iscritti al corso di laurea in medicina e chirurgia le abbreviazioni di corso non possono superare l'ammissione oltre il secondo anno, subordinatamente al numero di posti resisi disponibili all'inizio del secondo anno sempre che gli aspiranti abbiano superato gli esami di biologia generale applicata agli studi medici, chimica, fisica medica, istologia ed embriologia generale (compresa la citologia).   
+Per i laureati in medicina e chirurgia le abbreviazioni di corso potranno essere concesse, sempre con iscrizione al secondo anno, subordinatamente al numero di posti resisi disponibili all'inizio del secondo anno e dopo che sia trascorso un anno accademico dal conseguimento della laurea precedente.   
+Per esercitare la professione i laureati in odontoiatria e protesi dentaria devono superare un apposito esame di Stato.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 giugno 1980
+### Dato a Roma, addi' 25 settembre 1980
 
-PERTINI SARTI
+p. Il Presidente della Repubblica Il Presidente del Senato FANFANI SARTI
 
-Visto, il guardasigilli: MORLINO
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 25 settembre 1980
+Registrato alla Corte dei conti, addi' 21 ottobre 1980
 
-Registro n. 88 Istruzione, foglio n. 77
+Registro n. 95 Istruzione, foglio n. 307

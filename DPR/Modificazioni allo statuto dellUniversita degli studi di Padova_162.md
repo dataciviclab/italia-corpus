@@ -1,94 +1,81 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1966 n. 219
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1982 n. 1057
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1966 n. 219
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1982 n. 1057
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 14 ottobre 1926, n. 2133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2133), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 53. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di:  
-73) Estetica;  
-74) Storia della Chiesa;  
-75) Storia dell'arte contemporanea;  
-76) Storia dell'architettura e dell'urbanistica;  
-77) Istituzioni medioevali;  
-78) Filologia dantesca.  
-Dopo l'art. 68 e con il conseguente spostamento della numerazione degli articoli successivi e' aggiunto il seguente nuovo articolo relativo alla istituzione del seminario di lingue e letterature straniere moderne ammesso alla Facolta' di lettere e filosofia.  
-  
-Seminario di lingue e letterature straniere moderne  
-  
-Art. 69. - Il seminario di lingue e letterature straniere moderne comprende ed integra gli insegnamenti di lingua e letteratura francese, inglese, tedesca, spagnola, olandese e fiamminga, rumena, russa, le letterature ispano-americana e nord-americana e le eventuali altre letterature moderne.  
-Art. 70. - Agli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti quelli di:  
-19) Linguistica;  
-20) Storia e critica del cinema;  
-21) Metodologia e didattica degli audiovisivi;  
-22) Storia della lingua latina;  
-23) Storia contemporanea.  
-Gli articoli dal n. 357 al 364, relativi alla Scuola di perfezionamento in Economia montana delle Venezie sono abrogati e sostituiti dai seguenti relativi al corso di perfezionamento in Economia montana delle Venezie.  
-  
-Corso di perfezionamento in Economia montana delle Venezie  
-  
-Art. 357. - Alla Facolta' di agraria e' annesso il corso di perfezionamento in "Economia montana delle Venezie".  
-Il corso ha lo scopo di preparare i laureati in Scienze agrarie e in Scienze forestali per metterli in grado di affrontare i problemi dell'economia montana, di dirigere, amministrare ed assistere aziende silvane e pastorali di montagna, di condurre ricerche in luogo, svolgere azione di propaganda e di impartire l'insegnamento in Istituti e Scuole professionali agrarie specializzate, in relazione alle attivita' preminenti delle singole zone.  
-Il corso ha due diversi indirizzi:  
-a) ecologico-selvicolturale;  
-b) economico-zootecnico.  
-Alla fine del corso viene rilasciato un certificato di frequenza e di esami.  
-Art. 358. - Al corso di perfezionamento in Economia montana delle Venezie possono iscriversi, per il conseguimento del certificato di frequenza e di esami, i laureati in Scienze agrarie o in Scienze forestali.  
-Il numero massimo degli iscritti e' determinato annualmente dal direttore del corso, con preferenza ai cittadini residenti nelle Venezie.  
-Art. 359. - E' direttore del corso il professore ufficiale di Economia e politica agraria della Facolta' di agraria dell'Universita' di Padova e vicedirettore il professore ufficiale di Selvicoltura.  
-Art. 360. - La durata degli studi per il conseguimento del certificato di frequenza e di esami del corso di perfezionamento e' di un anno.  
-Art. 361. - Durante il corso per l'indirizzo ecologico-selvicolturale gli iscritti debbono frequentare i seguenti insegnamenti:  
-1) Geologia, mineralogia e petrografia;  
-2) Climatologia;  
-3) Sistematica delle specie di interesse forestale;  
-4) Pedologia (chimica, fisica e biologia del suolo);  
-5) Metodologie per la definizione dei caratteri stazionali;  
-6) Selvicoltura: trattamento del bosco, biologia ed ecologia degli alberi forestali e dei vegetali del sottobosco.  
-Durante il corso per l'indirizzo economico-zootecnico gli iscritti debbono frequentare i seguenti insegnamenti:  
-1) Agronomia montana: pascolicoltura, praticoltura;  
-2) Economia dell'azienda di montagna;  
-3) Legislazione relativa alla montagna;  
-4) Zoologia forestale venatoria ed acquicoltura;  
-5) Zootecnica.  
-I corsi possono essere integrati da conferenze, esercitazioni e da visite sul luogo.  
-Durante il corso gli iscritti si dedicano anche alla compilazione di un lavoro applicativo originale (piano, progetto, studio, ecc.) in una delle materie professionali, procedendo nelle zone montane oggetto della ricerca, alla raccolta di dati, indagini ed esperienze necessari.  
-L'argomento del lavoro deve essere approvato dal competente professore ufficiale.  
-Art. 362. - Per essere ammesso all'esame per il conseguimento del certificato, l'iscritto deve aver ottenuto tutte le attestazioni di frequenza agli insegnamenti del corso, superando i relativi esami ed aver compilato il lavoro originale di cui all'articolo precedente.  
-Art. 363. - L'esame per il conseguimento del certificato consiste nella discussione del lavoro compilato dall'iscritto durante il corso.  
-La Commissione di esame per il conseguimento del certificato e' presieduta dal preside della Facolta' di agraria e composta di almeno cinque professori ufficiali scelti tra i docenti del corso e della Facolta' di agraria.  
-Art. 364. - Le tasse e sopratasse che gli iscritti sono tenuti a pagare per la iscrizione e la frequenza del corso sono fissate dal Consiglio di amministrazione su proposta della Facolta' di agraria.  
-L'ammontare dei contributi viene stabilito dal Consiglio di amministrazione, su proposta del Senato accademico, udita la Facolta' e il direttore del corso.  
+Nell'art. 108, relativo al corso di laurea in scienze biologiche, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+biogeografia;  
+citomorfologia e citofisiologia animale;  
+protozoologia;  
+genetica ecologica;  
+genetica dei microorganismi;  
+biofisica;  
+storia della biologia;  
+citofisiologia vegetale;  
+citotassonomia ed embriologia vegetale;  
+fitosociologia;  
+igiene ambientale e del territorio.  
+Nel medesimo articolo sono soppressi i seguenti insegnamenti complementari:  
+fitogeografia;  
+zoogeografia;  
+esercitazioni di chimica fisica;  
+esercitazioni di fisica sperimentale;  
+esercitazioni di istituzioni matematiche I;  
+esercitazioni di istituzioni matematiche II;  
+termodinamica;  
+geologia;  
+psicologia sperimentale.  
+E inoltre, gli insegnamenti di citologia, citologia ed embriologia vegetale, oceanografia, sempre nel medesimo succitato art. 108, mutano rispettivamente la denominazione in quella di:  
+citologia animale;  
+citologia vegetale;  
+oceanografia biologica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 febbraio 1966
+### Dato a Roma, addi' 11 ottobre 1982
 
-SARAGAT GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 18 aprile 1966
+Registrato alla Corte dei conti, addi' 17 gennaio 1983
 
-Atti del Governo, registro n. 202, foglio n. 138. - VILLA
+Registro n. 4 Istruzione, foglio n. 127

@@ -1,250 +1,135 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 171
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1203
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 171
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1203
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio universitario nazionale nei suoi pareri;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 421 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, sono apportate le seguenti modifiche:  
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847) e successive modificazioni;   
+Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-La scuola di specializzazione in chirurgia toraco-polmonare che conferisce il diploma di specialista in chirurgia toraco-polmonare, muta la denominazione in quella di scuola di specializzazione in chirurgia toracica che conferisce in diploma di specialista in chirurgia toracica.  
-La scuola di specializzazione in clinica dermosifilopatica che conferisce il diploma di specialista in clinica dermosifilopatica, muta la denominazione in quella di scuola di specializzazione in dermatologia e venereologia che conferisce il diploma di specialista in dermatologia e venereologia.  
-Allo stesso elenco e' aggiunta la scuola di specializzazione in foniatria che conferisce il diploma di specialista in foniatria.  
-
-Art. 2
-------
-
+Decreta:   
   
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-All'art. 422, relativo agli ordinamenti delle scuole di specializzazione in medicina e chirurgia, sono apportate le seguenti modifiche:   
-L'ordinamento della scuola di specializzazione in chirurgia toraco-polmonare, che muta la denominazione in quella di scuola di specializzazione in chirurgia toracica, e' soppresso e sostituito dal seguente:   
+Art. 362, relativo all'elenco delle scuole di specializzazione in medicina e chirurgia e' modificato nel senso che il n. 12) e' abrogato e sostituito dal seguente:   
+n. 12) Scuola di medicina legale e delle assicurazioni che conferisce il diploma di "Specialista in medicina legale e delle assicurazioni".   
+Nello stesso elenco e' aggiunta la seguente scuola di specializzazione:   
   
-Scuola di specializzazione in chirurgia toracica.   
-La scuola di specializzazione in chirurgia toracica ha sede presso l'istituto di patologia chirurgica e conferisce il diploma di specialista in chirurgia toracica.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di cinque anni, non e' suscettibile di abbreviazione e prevede l'insegnamento di tutte le branche della chirurgia toracica, chirurgia polmonare, chirurgia cardiaca, chirurgia esofagea, chirurgia del mediastino e della parete toracica.   
-Il numero massimo degli allievi e' di otto per anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per concorso per titoli ed esami.   
-Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) embriologia, anatomia descrittiva e topografica del torace e degli organi endotoracici;   
-2) anatomia chirurgica del torace e degli organi endotoracici;   
-3) anatomia patologica delle malattie del torace (biennale I);   
-4) anestesia in chirurgia toracica.   
-2° Anno:   
-1) fisiopatologia dell'apparato respiratorio;   
-2) fisiopatologia dell'apparato cardiocircolatorio;   
-3) semeiotica dell'apparato respiratorio, dell'esofago e del mediastino;   
-4) semeiotica dell'apparato cardiocircolatorio;   
-5) anatomia patologica delle malattie del torace (biennale II).   
-3° Anno:   
-1) patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (biennale I);   
-2) patologia e clinica chirurgica delle affezioni del cuore e dei grossi vasi endotoracici;   
-3) patologia e clinica chirurgica delle affezioni dell'esofago e del diaframma;   
-4) elementi di terapia medica delle cardio-angiopatie;   
-5) elementi di fisioterapia respiratoria;   
-6) diagnostica radiologica nelle malattie chirurgiche del torace.   
-4° Anno:   
-1) patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (biennale II);   
-2) tecnica operatoria per le affezioni della parete toracica, dell'apparato respiratorio, dell'esofago, del mediastino e del diaframma (biennale I);   
-3) tecnica operatoria delle affezioni del cuore, pericardio e grossi vasi endotoracici;   
-4) principi e tecniche della circolazione extracorporea.   
-5° Anno:   
-1) terapia intensiva e rianimazione in chirurgia toracica;   
-2) tecnica operatoria per le affezioni della parete toracica, dell'apparato respiratorio, dell'esofago, del mediastino e del diaframma (biennale II);   
-3) terapia chirurgica della tbc pleuropolmonare.   
-Il corso si compone di lezioni, di esercitazioni pratiche, di conferenze riguardanti argomenti specialistici, di turni in corsia ed in sala operatoria.   
-La frequenza ai corsi, in corsia ed in sala operatoria, alle esercitazioni e' obbligatoria. In caso contrario i candidati non possono ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.   
-Alla fine di ciascun anno di corso gli specializzandi che abbiano ottenuto la firma di frequenza devono sostenere un esame di profitto sulle materie di insegnamento il cui superamento e' condizione necessaria ed indispensabile per ottenere l'iscrizione all'anno successivo e, per quelli che sono stati iscritti al quinto anno, per l'ammissione all'esame di diploma.   
-Durante il corso gli specializzandi frequentano la sala operatoria in maniera assidua, devono assistere a numerosi interventi di chirurgia toracica ed essere in grado di eseguirne essi stessi.   
-Per tutti gli specializzandi che hanno superato gli esami dei cinque anni, alla fine del quinto anno di corso ha luogo l'esame di diploma, consistente nella presentazione e discussione di una dissertazione scritta su un argomento di chirurgia toracica concordata con la direzione della scuola.   
-L'ordinamento della scuola di specializzazione in clinica dermosifilopatica, che muta la denominazione in quella di scuola di specializzazione in dermatologia e venereologia, e' soppresso e sostituito dal seguente:   
+Scuola di medicina nucleare che conferisce il diploma di "Specialista in medicina nucleare".   
+Art. 363. - E' modificato nel senso che gli ordinamenti delle scuole di specializzazione in "Medicina legale e delle assicurazioni", e in "Urologia" sono abrogati e sostituiti dai seguenti:   
   
-Scuola di specializzazione in dermatologia e venereologia   
-La scuola di specializzazione in dermatologia e venereologia ha sede presso la clinica dermosifilopatica e conferisce il diploma di specialista in dermatologia e venereologia.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazioni.   
-Il numero massimo degli allievi e' di otto per anno di corso e complessivamente di ventiquattro iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-anatomia e istologia normale della cute;   
-fisiologia della cute e degli annessi;   
-anatomia e fisiologia dell'apparato genitale;   
-microbiologia e parassitologia applicate;   
-tecniche di laboratorio applicate alla disciplina;   
-semeiotica dermatologica e venereologica.   
-2° Anno:   
-patologia delle malattie cutanee;   
-patologia delle infezioni veneree;   
-istopatologia e citologia dermatologica e venereologica;   
-immunopatologia cutanea;   
-dermatologia allergologica e professionale;   
-angiologia;   
-sessuologia.   
-3° Anno:   
-clinica delle malattie cutanee;   
-clinica delle infezioni veneree;   
-dermatologia pediatrica;   
-farmacologia e terapia;   
-fisioterapia dermatologica;   
-cosmetologia;   
-chirurgia plastica riparatrice;   
-igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.   
-Il corso di lezioni deve essere impartito mediante almeno 50 lezioni annuali, comprensive delle varie materie e la frequenza giornaliera degli iscritti non deve essere inferiore alle ore 4 effettive per tutta la durata dell'anno accademico.   
-Gli specializzandi hanno percio' obblighi di frequenza onde seguire i corsi di lezioni e svolgere contemporaneamente attivita' pratica nelle corsie, negli ambulatori e nei laboratori. Gli esami di profitto vengono sostenuti in due sessioni. L'esame di diploma consiste nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato 24 ore prima della prova.   
-L'ordinamento della scuola di specializzazione in oftalmologia e' modificato nel senso che il numero degli iscritti e' stabilito in otto per anno di corso per un totale di trentadue iscritti per i quattro anni.   
-L'ordinamento della scuola di specializzazione di ortognatodonzia e' soppresso e sostituito dal seguente:   
-  
-Scuola di specializzazione in ortognatodonzia   
-Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in ortognatodonzia che conferisce il diploma di specialista in ortognatodonzia.   
-Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazioni.   
-Il numero massimo degli allievi e' di cinque per anno di corso e complessivamente di quindici iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Le materie di insegnamento sono le seguenti:   
-1) embriologia e anatomia dell'apparato stomatognatico;   
-2) fisiologia dell'apparato stomatognatico;   
-3) farmacologia clinica;   
-4) patologia odontostomatologica;   
-5) chirurgia odontostomatologica;   
-6) odontoiatria conservativa;   
-7) radiologia odontostomatologica;   
-8) stomatologia preventiva;   
-9) ortognatodonzia;   
-10) odontotecnica;   
-11) semeiotica ortognatodontica;   
-12) cefalometria clinica;   
-13) pedodonzia;   
-14) metallurgia e merceologia in ortognatodonzia;   
-15) pediatria auxologica applicata;   
-16) paradontologia;   
-17) chirurgia ortognatodontica;   
-18) genetica applicata;   
-19) statistica applicata alla ricerca scientifica;   
-20) medicina legale e delle assicurazioni in odontostomatologia; esercitazioni cliniche, di laboratorio e di cefalometria.   
-La didattica del primo anno di corso e' particolarmente dedicata alla preparazione stomatologica di base, essenziale alla formazione dello specialista in ortognatodonzia.   
-  
-SUDDIVISIONE DELLE MATERIE DI INSEGNAMENTO NEI TRE ANNI DI CORSO   
+Scuola di specializzazione in medicina legale e delle assicurazioni (durata del corso: anni 3)   
   
 1° Anno:   
-1) embriologia e anatomia dell'apparato stomatognatico;   
-2) fisiologia dell'apparato stomatognatico (1° anno biennale);   
-3) farmacologia clinica;   
-4) patologia odontostomatologica;   
-5) chirurgia odontostomatologica;   
-6) odontoiatria conservativa;   
-7) radiologia odontostomatologica;   
-8) stomatologia preventiva;   
-9) ortognatodonzia (1° anno triennale);   
-10) odontotecnica;   
-esercitazioni cliniche;   
-esercitazioni di laboratorio.   
+Medicina legale generale;   
+Elementi di diritto pubblico e privato;   
+Tecnica diagnostica anatomo-patologica generale e medico-legale;   
+Traumatologia medico-legale;   
+Semeiotica medico-legale.   
+  
 2° Anno:   
-1) fisiologia dell'apparato stomatognatico (2° anno biennale);   
-2) semeiotica ortognatodontica;   
-3) ortognatodonzia (2° anno triennale);   
-4) cefalometria clinica (1° anno biennale);   
-5) pedodonzia;   
-6) metallurgia e merceologia in ortognatodonzia;   
-7) pediatria auxologica applicata;   
-8) paradontologia;   
-esercitazioni cliniche;   
-esercitazioni di laboratorio.   
+Medicina legale penalistica;   
+Deontologia medica;   
+Neuropsichiatria medico-legale;   
+Elementi di medicina criminologica e di medicina penitenziaria;   
+Indagini di sopralluogo;   
+Identificazione personale.   
+  
 3° Anno:   
-1) ortognatodonzia (3° anno triennale);   
-2) cefalometria clinica (2° anno biennale);   
-3) chirurgia ortognatodontica;   
-4) genetica applicata;   
-5) statistica applicata alla ricerca scientifica;   
-6) medicina legale e delle assicurazioni in odontostomatologia; esercitazioni cliniche;   
-esercitazioni di laboratorio;   
-esercitazioni di cefalometria clinica.   
-I corsi sono integrati da seminari su argomenti di interesse interdisciplinare.   
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria per l'intero anno scolastico. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
-Le vacanze sono conformi al calendario universitario con un solo mese completo estivo (agosto).   
-Gli esami di profitto teorici e pratici sono sostenuti alla fine di ogni anno in un'unica sessione.   
-L'iscrizione agli anni successivi e' subordinata al superamento degli esami.   
-Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.   
-Alla fine del terzo anno, dopo aver superato gli esami di profitto, gli allievi sono ammessi a sostenere l'esame di diploma che consiste nella discussione di una tesi scelta su un argomento proposto dall'insegnante della materia su cui verte l'argomento e approvato dal direttore della scuola.   
-Ogni iscritto deve provvedere al corredo personale di strumenti.   
-L'ordinamento della scuola di specializzazione in scienze dell'alimentazione e' modificato nel senso che il numero degli iscritti e' stabilito in trenta per anno di corso.   
-Lo stesso art. 422 e' integrato con l'inserimento dell'ordinamento relativo all'istituzione della scuola di specializzazione in foniatria.   
-Scuola di specializzazione in foniatria   
-La scuola di specializzazione in foniatria ha sede presso l'istituto di clinica otorinolaringoiatrica dell'Universita' di Padova. Essa e' diretta dal professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, dal professore di ruolo o fuori ruolo di materia affine.   
-La scuola e' retta secondo le norme del regolamento generale delle scuole di specializzazione dell'Universita' di Padova.   
-La durata del corso e' di tre anni. L'indirizzo e' teorico-pratico.  
-Il numero massimo degli iscritti e' di dodici (quattro per anno). La durata del corso non e' suscettibile di abbreviazione.   
-L'ammissione al corso e' per titoli ed esami; il titolo necessario per l'ammissione al corso e' la laurea in medicina e chirurgia.   
-Alla fine di ciascun anno scolastico gli specializzandi devono sostenere un esame di profitto il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo e, per quelli che sono iscritti all'ultimo anno, per poter accedere all'esame di diploma. Alla fine del terzo anno di corso ha luogo l'esame di diploma, consistente nella preparazione e discussione di una dissertazione scritta su di un argomento di foniatria previamente concordato tra il diplomando e il direttore della scuola.   
-Gli insegnamenti impartiti nella scuola sono i seguenti:   
+Medicina legale e canonistica;   
+Tossicologia medico-legale;   
+Tecniche di laboratorio medico-legale e di ematologia forense;   
+Ostetricia e ginecologia forense;   
+Elementi di legislazione del lavoro;   
+Elementi di medicina del lavoro;   
+Medicina delle assicurazioni;   
+Medicina legale militare e pensionistica civile.   
+Internato obbligatorio per almeno sei mesi continuativi ed a tempo pieno per ciascun anno.   
+Esami di profitto sulle singole materie di insegnamento al termine di ogni anno.   
+E' obbligatorio il superamento degli esami di un anno per il passaggio all'anno successivo.   
+Numero massimo complessivo degli specializzandi per l'intero corso:  
+quindici.   
+  
+Scuola di specializzazione in urologia   
+(durata del corso: anni 3)   
+  
 1° Anno:   
-anatomia dei sistemi uditivo e fonatorio;   
-fisiologia dei sistemi uditivo e fonatorio;   
-fonetica ed elementi di linguistica;   
-clinica otorinolaringoiatrica;   
-elementi di fisica acustica;   
-audiologia.   
+Anatomia descrittiva e topografica dell'apparato uro-genitale;   
+Fisiologia dell'apparato urogenitale;   
+Patologia dell'apparato urinario e genitale maschile (biennale);   
+Le nefropatie mediche;   
+Semeiotica dell'apparato uro-genitale (funzionale e di laboratorio) (biennale);   
+Tecniche strumentali e semeiologia endoscopica (biennale);   
+Microbiologia in urologia;   
+Farmacoterapia delle affezioni urogenitali.   
+  
 2° Anno:   
-foniatria (I);   
-semeiotica foniatrica;   
-elementi di psicologia generale;   
-psicologia del linguaggio;   
-fonetica sperimentale;   
-tecnica di riabilitazione fonetica (I).   
+Patologia dell'apparato urinario e genitale maschile (biennale);   
+Clinica urologica (biennale);   
+Patologia genitale femminile di interesse urologico;   
+Nefrologia chirurgica;   
+Anatomia e istologia patologica dell'apparato urogenitale;   
+Semeiotica dell'apparato uro-genitale (funzionale e di laboratorio) (biennale);   
+Tecniche strumentali e semeiologia endoscopica (biennale);   
+Anatomia chirurgica dell'apparato uro-genitale;   
+Radiologia dell'apparato urinario e genitale;   
+Le affezioni cutanee e veneree nei riguardi della urologia;   
+L'anestesia ed il trattamento pre e post-operatorio del malato urologico.   
+  
 3° Anno:   
-foniatria (II);   
-tecnica di riabilitazione fonetica (II);   
-informatica del linguaggio;   
-disturbi del linguaggio in rapporto alle sindromi neurologiche; neuropsichiatria infantile;   
-psicometria in rapporto alla foniatria;   
-fono-chirurgia.   
-Per tasse, sopratasse e contributi si fa riferimento alle norme statutarie in vigore.   
+Clinica urologica (biennale);   
+Patologia e clinica urologica infantile;   
+Radiologia dell'apparato urinario e genitale;   
+Urologia ginecologica.   
+Il numero massimo complessivo degli iscritti, e' di trentanove, distribuiti nei tre anni di corso.   
+Nello stesso articolo dopo la scuola in urologia e' aggiunta la scuola di specializzazione in medicina nucleare con il seguente ordinamento:   
+  
+Scuola di specializzazione in medicina nucleare   
+(durata del corso: anni 3)   
+  
+1° Anno:   
+Fondamenti di matematica e statistica;   
+Fisica nucleare e delle radiazioni;   
+Tecniche per le misure di radioattivita';   
+Dosimetria.   
+  
+2° Anno:   
+Teoria dei traccianti;   
+Elementi di radiochimica;   
+Applicazioni diagnostiche I;   
+Elementi di radiobiologia.   
+  
+3° Anno:   
+Applicazioni diagnostiche II;   
+Applicazioni terapeutiche;   
+Radioterapia e legislazione.   
+E' obbligatorio per tutti gli iscritti l'internato presso l'istituto di semeiotica medica, sede della scuola.   
+Numero massimo degli iscritti ai tre anni di corso: ventuno.   
+Nel predetto art. 363 il comma relativo alla scuola di specializzazione in nefrologia medica, istituita con [decreto del Presidente della Repubblica 31 ottobre 1969, n. 957](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-10-31;957), e' modificato nel senso che il numero complessivo degli specializzandi da ammettere alla scuola e' aumentato a quarantacinque.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 gennaio 1980
+### Dato a Roma, addi' 30 ottobre 1970
 
-PERTINI VALITUTTI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 26 aprile 1980
+Registrato alla Corte dei conti, addi' 19 gennaio 1971
 
-Registro n. 38 Istruzione, foglio n. 30
+Atti del Governo, registro n. 240, foglio n. 71. - CARUSO

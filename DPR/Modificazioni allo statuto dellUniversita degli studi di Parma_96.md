@@ -1,84 +1,175 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 aprile 1961 n. 593
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1978 n. 596
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 aprile 1961 n. 593
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1978 n. 596
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 164 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in patologia della riproduzione umana.
+
+Dopo l'art. 291, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in patologia della riproduzione umana.
+
+Scuola di specializzazione in patologia della riproduzione umana
+
+Art. 292. - La scuola ha la durata di tre anni e conferisce il diploma di specialista in patologia della riproduzione umana.
+
+Art. 293. - Sono ammessi i laureati in medicina e chirurgia.
+
+Art. 294. - Il numero complessivo degli specializzandi da ammettere nella scuola nei tre anni di corso e' di quindici allievi.
+
+Art. 295. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+biologia generale della riproduzione;
+
+embriologia ed anatomia dell'apparato riproduttivo umano;
+
+fisiologia della riproduzione umana;
+
+genetica umana;
+
+immunologia e patologia della riproduzione umana.
+
+2° Anno:
+
+fisiopatologia della riproduzione umana;
+
+anatomia ed istologia patologica dell'apparato riproduttivo;
+
+endocrinologia ginecologica;
+
+andrologia;
+
+teratologia;
+
+patologia della gravidanza;
+
+urologia e patologia della riproduzione umana.
+
+3° Anno:
+
+nosografia della patologia della riproduzione umana;
+
+diagnostica della patologia della riproduzione umana;
+
+terapia medica della patologia della riproduzione umana;
+
+trattamento chirurgico della patologia della riproduzione umana;
+
+elementi di psicologia medica e di sessuologia;
+
+educazione sociologica e demografica.
+
+Art. 296. - Alla fine di ogni anno accademico gli allievi dovranno sostenere un esame di profitto sul gruppo di materie che sono state oggetto di insegnamento. Alla fine del triennio gli allievi dovranno presentare una dissertazione scritta e sostenere un esame di diploma.
+
+Art. 297. - Gli iscritti alla scuola di specializzazione sono tenuti a pagare le tasse e soprattasse, secondo quanto stabilito per gli studenti della facolta' di medicina e chirurgia, nonche' la tassa di diploma nella misura di L. 6.000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).
+
+Sono tenuti, altresi', al pagamento di speciali contributi nella misura che sara' determinata dal consiglio di amministrazione previo parere della facolta', su proposta del direttore della scuola.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 19 giugno 1978
+
+p. Il Presidente della Repubblica
+
+Il Presidente del Senato
+
+FANFANI
+
+PEDINI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 23 settembre 1978 Registro n. 104 Istruzione, foglio n. 291
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduto il [decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53);  
-Vedute le proposte di modifiche dello statuto formulate dalle Autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Gli articoli 62, 63 e 64, relativi al corso biennale di studi propedeutici per la laurea in Ingegneria sono abrogati e sostituiti dai seguenti:  
-Art. 62. - Titolo di ammissione al biennio propedeutico agli studi di Ingegneria e' il diploma di maturita' classica o scientifica.  
-Sono insegnamenti fondamentali comuni a tutti i corsi di laurea in Ingegneria:  
-1° anno:  
-1) Analisi matematica 1°;  
-2) Geometria 1°;  
-3) Fisica 1°;  
-4) Chimica;  
-5) Disegno.  
-2° anno:  
-1) Analisi matematica 2°;  
-2) Meccanica razionale;  
-3) Fisica 2°.  
-In relazione ai diversi corsi di laurea, si hanno inoltre i seguenti insegnamenti, dei quali il primo e' fondamentale, mentre gli altri sono aggiuntivi:  
-1) Ingegneria civile:  
-a) Disegno 2° (civile);  
-b) Litologia e geologia;  
-c) Tecnologie generali dei materiali.  
-2) Ingegneria meccanica:  
-a) Disegno 2° (macchine);  
-b) Tecnologie generali dei materiali;  
-c) Chimica applicata.  
-3) Ingegneria elettrotecnica ed Ingegneria elettronica:  
-a) Geometria 2°;  
-b) Disegno 2° (macchine).  
-4) Ingegneria chimica:  
-a) Disegno 2° (macchine);  
-b) Chimica organica.  
-5) Ingegneria aeronautica:  
-a) Geometria 2°;  
-b) Disegno 2° (civile).  
-6) Ingegneria mineraria:  
-a) Geometria 2°;  
-b) Mineralogia.  
-7) Ingegneria nucleare:  
-a) Disegno 2° (macchine)  
-b) Fisica atomica.  
-Art. 63. - Gli insegnamenti biennali di Analisi matematica, di Geometria e di Fisica importano ciascuno due esami distinti.  
-I due esami di Fisica, comprendono anche la parte riguardante le relative esercitazioni.  
-Gli insegnamenti di Geometria e di Meccanica razionale sono distinti dagli analoghi insegnamenti per il corso di laurea in Matematica.  
-Art. 64. - Gli studenti del 1° anno di corso potranno ottenere la iscrizione a 2° anno di corso qualora abbiano superato almeno due fra i quattro seguenti insegnamenti: Analisi matematica 1°, Geometria 1°, Fisica 1° Chimica.  
-Al termine del 2° anno di corso lo studente per essere ammesso al 3° anno di corso presso una qualunque Facolta' di ingegneria e Politecnico dovra' aver superato tutti gli esami fondamentali comuni ai vari indirizzi, e l'esame fondamentale di cui alla lettera a) relativo all'indirizzo prescelto al momento dell'iscrizione al secondo corso.  
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 164 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in patologia della riproduzione umana.   
+Dopo l'art. 291, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in patologia della riproduzione umana.   
+Scuola di specializzazione in patologia della riproduzione umana   
+Art. 292. - La scuola ha la durata di tre anni e conferisce il diploma di specialista in patologia della riproduzione umana.   
+Art. 293. - Sono ammessi i laureati in medicina e chirurgia.   
+Art. 294. - Il numero complessivo degli specializzandi da ammettere nella scuola nei tre anni di corso e' di quindici allievi.   
+Art. 295. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+biologia generale della riproduzione;   
+embriologia ed anatomia dell'apparato riproduttivo umano;   
+fisiologia della riproduzione umana;   
+genetica umana;   
+immunologia e patologia della riproduzione umana.   
+2° Anno:   
+fisiopatologia della riproduzione umana;   
+anatomia ed istologia patologica dell'apparato riproduttivo;   
+endocrinologia ginecologica;   
+andrologia;   
+teratologia;   
+patologia della gravidanza;   
+urologia e patologia della riproduzione umana.   
+3° Anno:   
+nosografia della patologia della riproduzione umana;   
+diagnostica della patologia della riproduzione umana;   
+terapia medica della patologia della riproduzione umana;   
+trattamento chirurgico della patologia della riproduzione umana;   
+elementi di psicologia medica e di sessuologia;   
+educazione sociologica e demografica.   
+Art. 296. - Alla fine di ogni anno accademico gli allievi dovranno sostenere un esame di profitto sul gruppo di materie che sono state oggetto di insegnamento. Alla fine del triennio gli allievi dovranno presentare una dissertazione scritta e sostenere un esame di diploma.   
+Art. 297. - Gli iscritti alla scuola di specializzazione sono tenuti a pagare le tasse e soprattasse, secondo quanto stabilito per gli studenti della facolta' di medicina e chirurgia, nonche' la tassa di diploma nella misura di L. 6.000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).   
+Sono tenuti, altresi', al pagamento di speciali contributi nella misura che sara' determinata dal consiglio di amministrazione previo parere della facolta', su proposta del direttore della scuola.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 aprile 1961
+### Dato a Roma, addi' 19 giugno 1978
 
-GRONCHI BOSCO
+p. Il Presidente della Repubblica Il Presidente del Senato FANFANI PEDINI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 19 luglio 1961
+Registrato alla Corte dei conti, addi' 23 settembre 1978
 
-Atti del Governo, registro n. 137, foglio n. 139. - VILLA
+Registro n. 104 Istruzione, foglio n. 291

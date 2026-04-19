@@ -1,185 +1,202 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 marzo 1961 n. 805
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 luglio 1958 n. 837
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 marzo 1961 n. 805
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 luglio 1958 n. 837
+=============================================================
 
 Approvazione del nuovo statuto dell'Ente autonomo "Fiera di Trieste - Campionaria internazionale", con sede in Trieste.
 -----------------------------------------------------------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Visto il [regio decreto-legge 29 gennaio 1934, n. 454](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-01-29;454), convertito nella [legge 5 luglio 1934, n. 1607](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-07-05;1607), sulla disciplina delle fiere, mostre ed esposizioni;
+
+Visto l'ordine del Governo militare alleato n. 233, in data 21 maggio 1948, con il quale e' stato costituito l'Ente "Fiera campionaria internazionale di Trieste" e ne e' stato approvato lo statuto;
+
+Visti l'ordine del Governo militare alleato n. 149, in data 31 luglio 1950, e il [decreto del Presidente della Repubblica 16 marzo 1956, n. 506](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-03-16;506), coi quali e' stato modificato il predetto statuto;
+
+Viste le deliberazioni del Consiglio generale dell'Ente, 27 aprile e 14 dicembre 1957, contenenti modifiche allo statuto vigente;
+
+Udito il parere del Consiglio di Stato;
+
+Sulla
+-----
+
+proposta del Ministro per l'industria e per il commercio; Decreta:
+
+Articolo unico
+--------------
+
   
-Visto il [regio decreto-legge 29 gennaio 1934, n. 454](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-01-29;454), convertito nella [legge 5 luglio 1934, n. 1607](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-07-05;1607), sulla disciplina delle fiere, mostre ed esposizioni;  
-Visti l'ordine del Governo militare alleato n. 233, in data 21 maggio 1948, con il quale e' stato costituito l'Ente "Fiera campionaria internazionale di Trieste" ed i [decreti del Presidente della Repubblica 9 luglio 1958, n. 837](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1958-07-09;837), e [19 aprile 1960, n. 510](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-04-19;510), che ne hanno approvato il vigente statuto;  
-Vista la deliberazione del Consiglio generale dell'Ente in data 2 aprile 1960, sull'approvazione del nuovo statuto;  
-Udito il parere del Consiglio di Stato;  
-Sulla proposta del Ministro per l'industria e per il commercio;  
   
-Decreta:  
-  
-E' approvato l'unito statuto dell'Ente autonomo "Fiera di Trieste - Campionaria internazionale", con sede in Trieste, che sostituisce quello approvato con [decreti del Presidente della Repubblica 9 luglio 1958, n. 837](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1958-07-09;837), e [19 aprile 1960, n. 510](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-04-19;510).  
-L'allegato statuto composto di quattordici articoli sara' vistato dal Ministro per l'industria e per il commercio.  
+E' approvato l'unito statuto dell'Ente autonomo "Fiera di Trieste - Campionaria internazionale", con sede in Trieste, che sostituisce quello approvato con [decreto del Presidente della Repubblica 16 marzo 1956, n. 506](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-03-16;506).   
+L'allegato statuto, composto di quattordici articoli, sara' vistato dal Ministro per l'industria e per il commercio.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 marzo 1961
+### Dato a Roma, addi' 9 luglio 1958
 
-GRONCHI
+GRONCHI BO
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 19 agosto 1951
+Registrato alla Corte dei conti, addi' 19 agosto 1958
 
-Atti del Governo, registro n. 138, foglio n. 113. - VILLA
+Atti del Governo, registro n. 113, foglio n. 186. - DI PRETORO
 
-Statuto dell'Ente autonomo Trieste Campionaria internazionale-art. 1
+Statuto dell'Ente autonomo Fiera Trieste Campionaria internazionale-art. 1
 
- Statuto dell'Ente autonomo "Fiera di   
-Trieste - Campionaria internazionale"   
+ Statuto dell'Ente autonomo   
+"Fiera di Trieste - Campionaria internazionale"   
   
   
 Art. 1.   
-Costituzione e scopi   
   
   
-La "Fiera di Trieste - Campionaria internazionale", eretta in ente morale con ordine del G.M.A. n. 233, in data 21 maggio 1948, pubblicato nella Gazzetta Ufficiale del T.L.T. n. 26, in data 1 giugno 1948, ha lo scopo:   
-a) di organizzare, allestire e gestire la Fiera di Trieste Campionaria internazionale, un centro d'affari, nonche' altre analoghe manifestazioni;   
+La "Fiera di Trieste - Campionaria internazionale", eretta in ente morale con ordine del G. M. A., n. 233, in data 21 maggio 1948, pubblicato nella Gazzetta Ufficiale del T. L. T. n. 26, in data 1° giugno 1948, ha lo scopo:   
+a) di organizzare, allestire e gestire la Fiera di Trieste - Campionaria internazionale, un centro d'affari, nonche' altre analoghe manifestazioni;   
 b) di studiare ed attuare ogni manifestazione di carattere economico, scientifico, turistico e sportivo nel campo fieristico, che giovi allo sviluppo di Trieste nel quadro dell'economia regionale e nazionale.   
 L'Ente non ha scopi speculativi e svolge unicamente attivita' di pubblico interesse.   
 
-Statuto dell'Ente autonomo Trieste Campionaria internazionale-art. 2
+Statuto dell'Ente autonomo Fiera Trieste Campionaria internazionale-art. 2
 
  Art. 2.   
-Partecipanti   
   
   
-Partecipano alla costituzione del capitale necessario per il buon funzionamento dell'Ente gli aderenti di cui al precedente statuto, approvato con [decreto del Presidente della Repubblica 9 luglio 1958, n. 837](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1958-07-09;837), successivamente modificato con [decreto del Presidente della Repubblica 19 aprile 1960, n. 510](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-04-19;510), che assumono la qualifica, a seconda delle quote sottoscritte, di partecipanti finanziatori, partecipanti sostenitori e partecipanti ordinari; altri enti pubblici o privati potranno essere ammessi quali partecipanti, in una delle predette categorie, con semplice delibera del Consiglio generale.   
-La Giunta puo' sospendere da ogni attivita' sociale i partecipanti morosi da due anni e proporne la cancellazione al Consiglio generale.   
-La responsabilita' dei partecipanti appartenenti a qualsiasi categoria si deve intendere ad ogni effetto limitata alla sola quota sottoscritta, come risulta dal successivo art. 3 del presente statuto, escluso pertanto anche ogni vincolo di solidarieta'.   
+Partecipano alla costituzione dell'Ente:   
+l'Amministrazione provinciale di Trieste;   
+il comune di Trieste;   
+la Camera di commercio, industria e agricoltura di Trieste;   
+i Magazzini generali di Trieste;   
+l'Ente provinciale per il turismo di Trieste;   
+l'Azienda autonoma di soggiorno e turismo di Trieste;   
+l'Associazione degli industriali di Trieste;   
+l'Associazione delle piccole industrie di Trieste;   
+l'Associazione dell'armamento di linea e navi da carico di Trieste;   
+la Banca nazionale del lavoro;   
+la Federazione commercianti all'ingrosso di Trieste;   
+l'Associazione commercianti al dettaglio di Trieste;   
+l'Associazione degli artigiani di Trieste;   
+l'Unione dirigenti di azienda di Trieste;   
+l'Associazione degli spedizionieri di Trieste;   
+la Societa' ingegneri ed architetti di Trieste;   
+l'Associazione degli albergatori di Trieste;   
+la Cassa di risparmio di Trieste;   
+l'Associazione degli esercenti di Trieste;   
+il Consorzio agrario di Trieste;   
+l'Ente del porto industriale di Trieste;   
+la Riunione Adriatica di Sicurta' S. p. A. - Direzione generale di Trieste;   
+le Assicurazioni Generali S. p. A. - Direzione generale di Trieste.   
+La responsabilita' dei fondatori s'intende limitata ad ogni effetto di legge alla quota, rispettivamente sottoscritta, escluso ogni vincolo di solidarieta'.   
 La sede dell'Ente e' in Trieste.   
 
-Statuto dell'Ente autonomo Trieste Campionaria internazionale-art. 3
+Statuto dell'Ente autonomo Fiera Trieste Campionaria internazionale-art. 3
 
  Art. 3.   
-Patrimonio   
   
   
 Il patrimonio dell'Ente e' costituito:   
-1) dalle quote sottoscritte come segue:   
-a) partecipanti finanziatori con quota minima (la lire 10.000.001 (diecimilioni);   
-b) partecipanti sostenitori, con quota minima da lire 1.000.000 (un milione);   
-c) partecipanti ordinari, con quota minima da L. 300.000 (trecentomila);   
-2) dalle attivita' risultanti dall'inventario alla data del l'approvazione del presente statuto;   
-3) dalle attivita' di esercizio per la quota riservata in aumento del patrimonio secondo quanto stabilito dall'art. 13 del presente statuto;   
-4) da oblazioni offerte a tal fine.   
+a) dai contributi in quote fondazionali di L. 300.000 sottoscritte dai fondatori e dalle attivita' risultanti dall'inventario, alla data di approvazione del presente statuto;   
+b) dalle attivita' di esercizio per la quota riservata in aumento del patrimonio, secondo quanto stabilito dall'art. 13 del presente statuto;   
+c) da oblazioni, offerte a tal fine.   
 
-Statuto dell'Ente autonomo Trieste Campionaria internazionale-art. 4
+Statuto dell'Ente autonomo Fiera Trieste Campionaria internazionale-art. 4
 
  Art. 4.   
   
   
-L'Ente provvede al raggiungimento degli scopi per i quali e costituito con il suo patrimonio, col ricavato derivante da iniziative e concessioni permanenti e temporanee, attinenti alle sue finalita', con contributi e donazioni di enti o di persone, con mutui, anche ipotecari, con operazioni obbligazionarie secondo le disposizioni degli [articoli 2410 e seguenti del Codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2410) ed infine con gli interessi attivi del suo patrimonio.   
+L'Ente provvede al raggiungimento degli scopi per i quali e' costituito con il suo patrimonio, col ricavato derivante da iniziative e concessioni permanenti o temporanee, attinenti alle sue finalita', con contributi e donazioni di enti e di persone, con mutui, anche ipotecari, con operazioni obbligazionarie secondo le disposizioni degli [articoli 2410 e seguenti del Codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2410) ed infine con gli interessi attivi del suo patrimonio.   
 
-Statuto dell'Ente autonomo Trieste Campionaria internazionale-art. 5
+Statuto dell'Ente autonomo Fiera Trieste Campionaria internazionale-art. 5
 
  Art. 5.   
-Organi   
   
   
 Sono organi dell'Ente:   
 a) il presidente;   
 b) il Consiglio generale;   
 c) la Giunta esecutiva;   
-d) il Collegio del revisori dei conti.   
+d) il Collegio dei revisori dei conti.   
 
-Statuto dell'Ente autonomo Trieste Campionaria internazionale-art. 6
+Statuto dell'Ente autonomo Fiera Trieste Campionaria internazionale-art. 6
 
  Art. 6.   
   
   
-Il Consiglio generale e' nominato con decreto del Ministro per l'industria e per il commercio ed e' composto dal presidente e dai rappresentanti designati dai partecipanti di cui al precedente art. 2, nonche' dal rappresentanti del Commissariato generale del Governo per il Territorio di Trieste, del Ministero dell'industria e del commercio, del Ministero delle finanze (Intendenza di finanza di Trieste) e dal rappresentante degli espositori che sara' scelto dal presidente da una terna di nomi proposta, mediante votazione, da almeno un quinto degli espositori che abbiano partecipato all'ultima manifestazione.   
+Il Consiglio generale e' nominato con decreto del Ministro per l'industria e per il commercio ed e' composto dal presidente e dai rappresentanti designati dagli enti fondatori di cui al precedente art. 2, nonche' dai rappresentanti del Commissariato generale del Governo per il Territorio di Trieste, del Ministero dell'industria e del commercio, del Ministero del commercio con l'estero, del Ministero delle finanze (intendente di finanza di Trieste) e dal rappresentante degli espositori che sara' scelto dal presidente da una terna di nomi proposta, mediante votazione, da almeno un quinto degli espositori che abbiano partecipato all'ultima manifestazione.   
 Il Consiglio generale ha i piu' ampi poteri per l'attuazione degli scopi dell'Ente, ne fissa le direttive, ne regola l'attivita' e delibera sulle azioni da svolgere adottando tutti i provvedimenti all'uopo necessari. Spetta inoltre al Consiglio generale di deliberare sul bilancio preventivo, sul conto consuntivo, e sulle operazioni finanziarie che impegnino il bilancio per oltre un esercizio.   
 I membri del Consiglio generale durano in carica quattro anni e possono essere confermati. Le prestazioni dei membri del Consiglio generale sono gratuite.   
-Il Consiglio generale viene convocato dal presidente obbligatoriamente due volte all'anno ed ogni qualvolta il presidente stesso lo ritenga opportuno.   
-Esso puo' inoltre essere convocato su richiesta scritta e motivata inoltrata al presidente da almeno un terzo del suoi membri o dal Collegio dei revisori.   
-Gli inviti di convocazione del Consiglio generale saranno diramati col relativo ordine del giorno, almeno dieci giorni prima della data della riunione, mentre nei casi urgenti il Consiglio stesso potra' essere convocato telegraficamente con solo tre giorni di preavviso.   
-Gli inviti di convocazione devono sempre prevedere la prima e la seconda convocazione. Le sedute di prima convocazione sono valide con la presenza di almeno la meta' piu' uno dei consiglieri: la seconda convocazione sara' valida con la presenza di almeno un terzo dei consiglieri. Le deliberazioni sono sempre prese a maggioranza di voti dei presenti: in caso di parita' prevale il voto di chi presiede.  
+Il Consiglio generale viene convocato dal presidente obbligatoriamente due volte all'anno e ogni qualvolta il presidente stesso lo ritenga opportuno.   
+Esso puo', inoltre, essere convocato su richiesta scritta e motivata inoltrata al presidente, da almeno un terzo dei suoi membri o dal Collegio dei revisori.   
+Gli inviti di convocazione del Consiglio generale saranno diramati col relativo ordine del giorno, almeno dieci giorni prima della data della riunione, mentre nei casi urgenti il Consiglio stesso potra' essere convocato telefonicamente con solo tre giorni di preavviso.   
+Gli inviti di convocazione devono sempre prevedere la prima e la seconda convocazione. Le sedute di prima convocazione sono valide con la presenza di almeno la meta' piu' uno dei consiglieri; la seconda convocazione sara' valida con la presenza di almeno un terzo dei consiglieri. Le deliberazioni sono sempre prese a maggioranza di voti dei presenti; in caso di parita' prevale il voto di chi presiede.  
 Delle deliberazioni adottate e' redatto apposito verbale firmato da chi presiede e dal segretario generale.   
 
-Statuto dell'Ente autonomo Trieste Campionaria internazionale-art. 7
+Statuto dell'Ente autonomo Fiera Trieste Campionaria internazionale-art. 7
 
  Art. 7.   
   
   
-La Giunta esecutiva e' composta:   
-dal presidente dell'Ente che la presiede;   
-dai due membri del Consiglio generale rappresentanti il Comune e la Camera di commercio, industria e agricoltura di Trieste ad entrambi i quali spettano le cariche di vicepresidente su conforme nomina da parte del Ministro per l'industria e per il commercio;   
-dal membro del Consiglio generale rappresentante la provincia di Trieste;   
-da altri cinque membri del Consiglio generale eletti a maggioranza dal Consiglio stesso.   
-Essa dura in carica quattro anni e puo' essere confermata.   
+Il Consiglio generale nomina una Giunta esecutiva, della quale fanno parte il presidente dell'Ente che la presiede, i due vice presidenti e sei membri del Consiglio stesso eletti a maggioranza dal Consiglio generale. Essa dura in carica quattro anni e puo' essere confermata.   
 La Giunta esecutiva provvede all'attuazione delle deliberazioni del Consiglio generale e alla ordinaria amministrazione dell'Ente.   
-La Giunta esecutiva e' convocata, previo tempestivo avviso, dal presidente secondo la necessita' e quando ne facciano domanda due membri.   
+La Giunta esecutiva e' convocata, previo tempestivo avviso, dal presidente secondo le necessita' o quando ne facciano domanda due membri.   
 Le prestazioni dei membri della Giunta esecutiva sono gratuite.   
 Per la validita' delle sedute e delle deliberazioni, nonche' per la tenuta dei verbali, vale quanto stabilito per il Consiglio generale. 
 
-Statuto dell'Ente autonomo Trieste Campionaria internazionale-art. 8
+Statuto dell'Ente autonomo Fiera Trieste Campionaria internazionale-art. 8
 
  Art. 8.   
   
   
-Il presidente e' nominato, su proposta del Ministro per l'industria e per il commercio, dal Presidente del Consiglio del Ministri.   
-Il presidente ha la legale rappresentanza dell'Ente, convoca e presiede il Consiglio generale e la Giunta esecutiva, firma gli atti deliberativi dell'Ente, dispone l'esecuzione delle deliberazioni di entrambi i suddetti organi amministrativi e provvede a quanto altro necessario per assicurare la continuita' e la regolarita' della gestione dell'Ente.   
+Il presidente e' nominato su proposta del Ministro per l'industria e per il commercio, dal Presidente del Consiglio dei Ministri.   
+I vice presidenti sono nominati dal Ministro per l'industria e per il commercio, su proposta del Consiglio generale, che li sceglie tra i propri membri.   
+Il presidente ha la legale rappresentanza dell'Ente, convoca e presiede il Consiglio generale e la Giunta esecutiva, firma gli atti deliberativi dell'Ente, dispone l'esecuzione delle deliberazioni di entrambi i suddetti organi amministrativi e provvede a quant'altro necessario per assicurare la continuita' e la regolarita' della gestione dell'Ente.   
 Il presidente dura in carica quattro anni e puo' essere confermato.  
 La predetta carica e' gratuita.   
-Egli e' coadiuvato dai due vicepresidenti.   
-In caso di assenza o di impedimento il presidente e' sostituito dal vicepresidente rappresentante il comune di Trieste.   
+In caso di assenza o di impedimento o di mancanza di delega, il presidente e' sostituito dal vice presidente piu' anziano di carica ed in caso di pari anzianita' di carica, dal piu' anziano di eta'.   
 
-Statuto dell'Ente autonomo Trieste Campionaria internazionale-art. 9
+Statuto dell'Ente autonomo Fiera Trieste Campionaria internazionale-art. 9
 
  Art. 9.   
   
   
 Il segretario generale e' nominato dal Ministro per l'industria e per il commercio su proposta del presidente, sentito il competente organo consultivo ministeriale.   
-Egli e' responsabile dell'esecuzione delle deliberazioni o delle direttive impartite dal Consiglio generale e dalla Giunta esecutiva, alle cui sedute assiste redigendone e controfirmandone i relativi verbali.   
+Egli e' responsabile dell'esecuzione delle deliberazioni e delle direttive impartite dal Consiglio generale e dalla Giunta esecutiva, alle cui sedute assiste redigendone e controfirmandone i relativi verbali.   
 
-Statuto dell'Ente autonomo Trieste Campionaria internazionale-art. 10
+Statuto dell'Ente autonomo Fiera Trieste Campionaria internazionale-art. 10
 
  Art. 10.   
   
   
 Il segretario generale dirige gli uffici ed i servizi ed e' capo del personale.   
 
-Statuto dell'Ente autonomo Trieste Campionaria internazionale-art. 11
+Statuto dell'Ente autonomo Fiera Trieste Campionaria internazionale-art. 11
 
  Art. 11.   
   
   
 Il Collegio dei revisori dei conti e' nominato con decreto del Ministro per l'industria e per il commercio ed e' composto dai seguenti membri:   
-a) uno in rappresentanza del Ministero dell'industria e del commercio con funzioni di presidente;   
+a) uno in rappresentanza del Ministero dell'industria e del commercio, con funzioni di presidente;   
 b) uno in rappresentanza del Ministero del tesoro;   
-c) uno in rappresentanza del Commissariato generale del Governo per il Territorio di Trieste;   
+c) uno in rappresentanza del Commissariato generale del Governo per il territorio di Trieste;   
 d) uno in rappresentanza del comune di Trieste;   
-e) uno in rappresentanza della Camera di commercio, industria e agricoltura di Trieste.   
+e) uno in rappresentanza della Camera di commercio di Trieste.   
 Con lo stesso decreto sono nominati due revisori supplenti: uno in rappresentanza del Ministero dell'industria e del commercio ed uno in rappresentanza del Commissariato generale del Governo di Trieste.   
-I revisori durano in carica 4 anni e possono essere confermati.  
-Essi assistono alle sedute del Consiglio generale ed hanno i poteri e gli obblighi stabiliti dagli [articoli 2403 e seguenti del Codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2403) in quanto applicabili.   
+I revisori durano in carica quattro anni e possono essere confermati. Essi assistono alle sedute del Consiglio generale ed hanno i poteri e gli obblighi stabiliti dagli [articoli 2403 e seguenti del Codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2403), in quanto applicabili.   
 Ai revisori spetta un emolumento che viene determinato anno per anno dal Consiglio generale.   
 
-Statuto dell'Ente autonomo Trieste Campionaria internazionale-art. 12
+Statuto dell'Ente autonomo Fiera Trieste Campionaria internazionale-art. 12
 
  Art. 12.   
-Bilanci   
   
   
-L'esercizio finanziario va dal 1 gennaio al 31 dicembre di ogni anno. Rispettivamente entro il 15 dicembre ed il 30 aprile di ogni anno devono essere trasmessi al Ministero dell'industria e del commercio, per l'approvazione, il bilancio preventivo dell'esercizio prossimo ed il conto consuntivo dell'esercizio passato, predisposti dalla Giunta esecutiva e deliberati dal Consiglio generale. Il conto consuntivo deve essere corredato da una relazione del Collegio dei revisori.   
+L'esercizio finanziario va dal 1° gennaio al 31 dicembre di ogni anno. Rispettivamente entro il 15 dicembre ed il 30 aprile di ogni anno devono essere trasmessi al Ministero dell'industria e del commercio, per l'approvazione, il bilancio preventivo dell'esercizio prossimo, ed il conto consuntivo dell'esercizio passato, predisposti dalla Giunta esecutiva e deliberati dal Consiglio generale. Il conto consuntivo deve essere corredato da una relazione del Collegio dei revisori.   
 Devono inoltre essere sottoposte all'approvazione del Ministero dell'industria e del commercio le deliberazioni che impegnino il bilancio per oltre un esercizio.   
 
-Statuto dell'Ente autonomo Trieste Campionaria internazionale-art. 13
+Statuto dell'Ente autonomo Fiera Trieste Campionaria internazionale-art. 13
 
  Art. 13.   
   
@@ -188,16 +205,16 @@ Le eccedenze attive di ciascun esercizio saranno cosi' ripartite: il 60% in aume
 il 20% a rimborso a sorteggio di obbligazioni senza interesse, denominate "quote di sottoscrizione";   
 il 20% a fini assistenziali per il personale.   
 
-Statuto dell'Ente autonomo Trieste Campionaria internazionale-art. 14
+Statuto dell'Ente autonomo Fiera Trieste Campionaria internazionale-art. 14
 
  Art. 14.   
-Scioglimento   
   
   
-Nei caso di impossibilita' di funzionamento dell'amministrazione ordinaria o di gravi irregolarita', il Ministro per l'industria e per il commercio puo', nell'interesse del miglior andamento dell'Ente, affidarne l'amministrazione straordinaria ad un commissario, che nominera' con proprio decreto per un periodo di tempo non superiore a 6 mesi.   
-L'Ente puo' essere sciolto per deliberazione del Consiglio generale con il voto di almeno quattro quinti dei partecipanti (non del capitale). L'Ente puo' altresi' essere sciolto con decreto del Presidente della Repubblica su proposta del Ministro per l'industria e per il commercio, per manifesta impossibilita' di raggiungere i propri fini o per motivi di ordine pubblico. In entrambi i casi il Ministro per l'industria e per il commercio nominera' un liquidatore, del quale fissera' anche i poteri.   
-In caso di scioglimento, il residuo netto del patrimonio, dopo rimborsate le quote conferite dai partecipanti, sara' ripartito tra il Comune, la Provincia e la Camera di commercio, industria e agricoltura di Trieste, proporzionalmente alle quote sottoscritte, con l'obbligo di destinarlo a finalita' di ordine economico, culturale e sociale interessanti la citta' di Trieste e la sua Provincia.   
+Nel corso di impossibilita' di funzionamento dell'amministrazione ordinaria o di gravi irregolarita', il Ministro per l'industria e per il commercio puo', nell'interesse del miglior andamento dell'Ente, affidare l'amministrazione straordinaria ad un commissario, che nominera' con proprio decreto, per un periodo di tempo non superiore a sei mesi.   
+L'Ente puo' essere sciolto per deliberazione del Consiglio generale con il voto di almeno quattro quinti degli aderenti.   
+L'Ente puo', altresi', essere sciolto con decreto del Presidente della Repubblica su proposta del Ministro per l'industria e per il commercio, per manifesta impossibilita' di raggiungere i propri fini e per motivi di ordine pubblico. In entrambi i casi il Ministro per l'industria e per il commercio nominera' un liquidatore, del quale fissera' anche i poteri.   
+Il rendiconto finale del liquidatore e' pure soggetto alla approvazione del Ministro per l'industria e per il commercio che stabilira' pure la destinazione del residuo netto del patrimonio, dopo rimborsate le quote conferita dagli enti fondatori.   
   
   
 Visto, il Ministro per l'industria e per il commercio   
-COLOMBO   
+BO   

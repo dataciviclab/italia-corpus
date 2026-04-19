@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1976 n. 940
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 730
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1976 n. 940
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 730
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
@@ -10,72 +10,101 @@ Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive, modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 605, 606, 607, 608 e 609, relativi alla scuola di specializzazione in medicina dello sport, sono abrogati e sostituiti dai seguenti:  
-Art. 605. - La scuola di specializzazione in medicina dello sport dell'Universita' degli studi di Bologna si propone:  
-a) di valorizzare e approfondire gli studi biologici e di medicina applicata nel campo delle attivita' sportive, formative e di competizione e della educazione fisica;  
-b) di preparare adeguatamente sotto l'aspetto teorico e della applicazione pratica, i medici che intendono dedicarsi alle attivita' attinenti a questa particolare branca della medicina applicata, conferendo ad essi il diploma di specialisti in medicina dello sport.  
-Art. 606. - Il titolo richiesto per l'ammissione alla scuola e' la laurea in medicina e chirurgia.  
-Il corso di studi ha la durata di 3 anni, con frequenza obbligatoria, esso ha la sua sede ufficiale presso l'istituto di fisiologia umana.  
-Gli insegnamenti clinici e specialistici si svolgeranno presso i rispettivi istituti clinici e specialistici.  
-Il numero massimo degli allievi sara' di trenta per anno e complessivamente di novanta per l'intero corso.  
-L'ammissione ai corsi avviene per titoli. Nel caso di domande eccedenti il numero dei posti disponibili la selezione dei candidati avverra' in base ai risultati di un esame di ammissione.  
-La direzione del corso e' affidata al direttore dell'istituto di fisiologia umana.  
-Art. 607. - L'ordine degli studi e' il seguente:  
-1° Anno:  
-1) anatomia dell'apparato locomotore;  
-2) fisiologia dell'apparato locomotore;  
-3) biochimica ed energetica muscolare;  
-4) antropometria e auxologia;  
-5) fisiologia applicata allo sport;  
-6) storia dell'educazione fisica e dello sport;  
-7) sistematica delle attivita' sportivo-agonistiche e regolamenti sportivi.  
-2° Anno:  
-1) fisiologia dell'esercizio fisico;  
-2) biomeccanica dell'esercizio fisico;  
-3) metodologia dell'allenamento sportivo;  
-4) scienza della nutrizione applicata all'attivita' sportiva;  
-5) fisiopatologia degli sport e semeiotica medicosportiva;  
-6) farmacologia e tossicologia del doping;  
-7) igiene e medicina preventiva applicata all'attivita' sportiva;  
-8) traumatologia degli sport.  
-3° Anno:  
-1) fisiologia applicata agli sport;  
-2) valutazione funzionale dello sportivo;  
-3) fisiopatologia degli sport e semeiotica medicosportiva;  
-4) fisioterapia e rieducazione funzionale;  
-5) rianimazione e pronto soccorso;  
-6) medicina legale e infortunistica applicata agli sport;  
-7) fisiologia dell'adattamento agli ambienti straordinari.  
-La scuola svolgera' brevi corsi integrativi di conferenze o seminari sopra argomenti e discipline che saranno stabiliti, secondo le possibilita' contingenti, dal consiglio dei docenti della scuola.  
-Saranno inoltre svolte esercitazioni pratiche in sede e sul campo.  
-Art. 608- Alla fine di ogni anno di corso gli allievi dovranno sostenere l'esame di profitto nelle materie di insegnamento (art. 607), previste per ogni anno di corso e articolate in un unico gruppo.  
-L'iscrizione agli anni successivi e' subordinata al superamento di tutti gli esami annuali.  
-Art. 609. - Il diploma si consegue dopo aver superato tutte le prove di esame del triennio; la prova di diploma si svolge con la discussione su una dissertazione scritta concernente un tema assegnato o in ogni altro caso approvato dal direttore della scuola.  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli 531, 532, 533, 534, 535, relativi alla "Scuola di perfezionamento in cardiologia" che muta la denominazione in quella di "Scuola di specializzazione in malattie dell'apparato cardiovascolare", sono abrogati e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in malattie dell'apparato cardiovascolare   
+Art. 531. - La scuola di specializzazione in malattie dell'apparato cardiovascolare, della durata di tre anni, conferisce il diploma di specialista in malattie dell'apparato vascolare.   
+Abbreviazioni di corso potranno essere concesse, a giudizio insindacabile del consiglio della scuola, soltanto a coloro che diano dimostrazione rigorosamente documentata di avere preparazione, servizi e attivita' scientifica nel campo specifico, di riconosciuto merito e svolti in ambienti qualificati. In ogni caso l'abbreviazione di corso deve essere rigorosamente e dettagliatamente motivata dal consiglio direttivo della scuola.   
+Art. 532. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+Anatomia normale dell'apparato cardio-vascolare;   
+Fisiologia dell'apparato cardio-vascolare e respiratorio;   
+Fisiopatologia cardio-vascolare e respiratoria (I corso);   
+Patologia cardio-vascolare (I corso);   
+Semeiologia fisica (I corso);   
+Semeiologia strumentale (I corso);   
+Microbiologia (facoltativo).   
+2° Anno:   
+Fisiopatologia cardio-vascolare e respiratoria (II corso);   
+Patologia cardio-vascolare (II corso);   
+Semeiologia fisica (II corso);   
+Semeiologia strumentale (II corso);   
+Anatomia patologica dell'apparato cardio-vascolare (I corso);   
+Radiologia;   
+Farmacologia;   
+Clinica medica e terapia medica (I corso).   
+3° Anno:   
+Anatomia patologica dell'apparato cardio-vascolare (II corso);   
+Clinica medica e terapia medica (II corso);   
+Chirurgia dell'apparato cardio-vascolare;   
+Problemi assicurativi e sociali (facoltativo);   
+Statistica (facoltativo).   
+Altri insegnamenti facoltativi:   
+Cardioreumatologia (I corso);   
+Le unita' coronariche di terapia intensiva (III corso);   
+Cardiologia e medicina sportiva (III corso);   
+Compiti e modi della collaborazione medico-chirurgica in cardiologia (III corso).   
+Art. 533. - L'iscrizione alla scuola avviene per titoli.   
+Nel caso che le domande di iscrizione superino il numero dei posti disponibili l'ammissione avverra' per titoli ed esami. Sono disponibili dieci posti per ciascun anno di corso.   
+Il numero complessivo dei posti nei tre anni di corso non dovra' essere superiore ai 30 (dieci per ogni anno di corso).   
+Art. 534. - Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni, le visite cliniche, gli ambulatori, le esercitazioni, nonche' di prestare, se richiesti, servizio nella clinica come medici interni.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere le prove di esame.   
+Art. 535. - Alla fine di ogni anno di corso gli iscritti sono tenuti a superare tutti gli esami relativi ai singoli insegnamenti fondamentali di ciascun anno per il passaggio all'anno successivo.   
+Gli esami di "Fisiopatologia cardio-vascolare e respiratoria", di "Patologia cardio-vascolare", di "Semeiologia fisica", di "Semeiologia strumentale" dovranno essere superati alla fine del I corso e alla fine del II corso. Gli esami di "Anatomia patologica dell'apparato cardio-vascolare" e di "Clinica e terapia" dovranno essere superati alla fine del II corso e alla fine del III corso.   
+Al termine del corso di studi per il conseguimento del diploma di specialista gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento di carattere cardiologico.   
+Dopo l'art. 594 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della "Scuola di specializzazione in chirurgia cardiaca".   
+  
+Scuola di specializzazione in chirurgia cardiaca   
+  
+Art. 595. - Presso la facolta' di medicina e chirurgia e' istituita la scuola di specializzazione in chirurgia cardiaca della durata di tre anni che conferisce il diploma di specialista in chirurgia cardiaca.   
+Possono essere ammessi alla scuola i laureati in medicina e chirurgia che, a giudizio del consiglio degli insegnanti, abbiano acquistato sufficiente pratica in chirurgia generale attraverso servizi prestati in reparti chirurgici.   
+Il numero degli iscritti e' di cinque per ogni anno.   
+Art. 596. - Il corso si compone di insegnamenti fondamentali, di esercitazioni pratiche, di periodi di internato, di conferenze riguardanti argomenti specialistici, di turni in corsia ed in sala operatoria.   
+Gli insegnamenti fondamentali sono:   
+1° Anno:   
+1) Embriologia, anatomia descrittiva e topografica dell'apparato cardiocircolatorio;   
+2) Anatomia chirurgica del cuore, pericardio e grossi vasi endotoracici;   
+3) Fisiologia e fisiopatologia dell'apparato cardiocircolatorio (biennale: 1° anno);   
+4) Anatomia patologica del cuore e dei grossi vasi endotoracici.   
+2° Anno:   
+1) Fisiologia e fisiopatologia dell'apparato cardiocircolatorio (biennale: 2° anno);   
+2) Semeiologia e diagnostica clinica e strumentale dell'apparato cardiocircolatorio;   
+3) Diagnostica radiologica del cuore e dei grossi vasi endotoracici;   
+4) Patologia, clinica e terapia chirurgica delle affezioni del cuore e dei grossi vasi endotoracici (biennale: 1° anno).   
+3° Anno:   
+1) Patologia, clinica e terapia chirurgica delle affezioni del cuore e dei grossi vasi endotoracici (biennale: 2° anno);   
+2) Tecnica operatoria delle cardioangiopatie;   
+3) Anestesia e rianimazione in cardiochirurgia;   
+4) Elementi di patologia e terapia medica delle cardiopatie;   
+5) Principi e tecniche della circolazione extracorporea e dell'ipotermia.   
+Art. 597. - Gli iscritti alla scuola hanno l'obbligo di frequentare il corso di lezioni e le esercitazioni pratiche in corsia ed in sala operatoria.   
+Art. 598. - Alla fine di ciascun anno di corso gli specializzandi dovranno sostenere un esame di profitto nel gruppo delle materie fondamentali, il cui superamento e' condizione necessaria ed indispensabile per ottenere l'iscrizione all'anno successivo e, per quelli iscritti al 3° anno, per ottenere l'ammissione all'esame di diploma.   
+Art. 599. - Per conseguire il diploma di specializzazione i candidati dopo aver superato gli esami di profitto dovranno superare l'esame di diploma consistente nella discussione di una tesi scritta a carattere clinico o sperimentale su argomenti attinenti alla specialita'.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1976
+### Dato a Roma, addi' 2 ottobre 1972
 
-LEONE MALFATTI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 30 dicembre 1976
+Registrato alla Corte dei conti, addi' 23 novembre 1972
 
-Registro n. 105 Istruzione, foglio n. 310
+Atti del Governo, registro n. 253, foglio n. 70. - CARUSO

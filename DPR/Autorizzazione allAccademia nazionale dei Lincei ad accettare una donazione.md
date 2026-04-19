@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1956 n. 1528
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 marzo 1948 n. 357
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1956 n. 1528
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 marzo 1948 n. 357
+============================================================
 
 Autorizzazione all'Accademia nazionale dei Lincei ad accettare una donazione.
 -----------------------------------------------------------------------------
@@ -12,8 +12,7 @@ Art. 1
 
 N.
 
-1528. Decreto del Presidente della Repubblica 19 ottobre 1956, col quale, sulla proposta del ministro per la pubblica istruzione, l'Accademia nazionale dei Lincei viene autorizzata ad accettare una donazione e la Fondazione "Luigi D'Amato", con sede in Roma, presso l'Accademia nazionale dei Lincei viene eretta in ente morale e ne viene approvato lo statuto.  
+357. Decreto del Presidente della Repubblica 24 marzo 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Accademia nazionale dei Lincei viene autorizzata ad accettare la donazione disposta in suo favore dal dott. Aurelio Jucci della somma di L. 75.000 destinata a promuovere presso l'Accademia anzidetta una fondazione denominata, "Fondazione Giovanna Jucci per studi di genetica".  
   
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 10 gennaio 1957  
-Atti del Governo registro n. 103, foglio n. 27. - CARLOMAGNO
+Visto, il Guardasigilli: GRASSI  
+Registrato alla Corte dei conti, addi' 16 aprile 1948

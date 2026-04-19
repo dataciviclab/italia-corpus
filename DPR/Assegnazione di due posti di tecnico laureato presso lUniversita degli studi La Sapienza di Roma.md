@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1986 n. 497
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 248
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1986 n. 497
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 248
 =============================================================
 
 Assegnazione di due posti di tecnico laureato presso l'Universita' degli studi "La Sapienza" di Roma.
@@ -12,11 +12,8 @@ Art. 1
 
 N.
 
-497. Decreto del Presidente della Repubblica 22 luglio 1986, col quale, sulla proposta del Ministro della pubblica istruzione, due posti disponibili nel ruolo dei tecnici laureati vengono assegnati all'Universita' "La Sapienza" di Roma come segue:   
-Facolta' di medicina e chirurgia:   
+248. Decreto del Presidente della Repubblica 26 aprile 1984, col quale, sulla proposta del Ministro della pubblica istruzione, due posti disponibili nel ruolo dei tecnici laureati vengono assegnati all'istituto di patologia speciale medica e metodologia clinica II (per le esigenze della patologia dell'alcolismo) della facolta' di medicina e chirurgia dell'Universita' "La Sapienza" di Roma.  
   
-istituto di clinica odontoiatrica (per le esigenze della cattedra di chirurgia maxillo-facciale) . . . . . . . . . . . . . . . . . posti 1 istituto di clinica ostetrica e ginecologica (per le esigenze della decima cattedra). . . . . . . . . . . . . . . . . . . . . . . posti 1   
-  
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 13 agosto 1986   
-Registro n. 65 Istruzione, foglio n. 207
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 19 giugno 1984  
+Registro n. 37 Istruzione, foglio n. 182

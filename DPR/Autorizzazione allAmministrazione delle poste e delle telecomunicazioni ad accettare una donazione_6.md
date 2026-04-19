@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 gennaio 1968 n. 213
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1968 n. 345
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 gennaio 1968 n. 213
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1968 n. 345
+===============================================================
 
 Autorizzazione all'Amministrazione delle poste e delle telecomunicazioni ad accettare una donazione.
 ----------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-213. Decreto del Presidente della Repubblica 18 gennaio 1968, col quale, sulla proposta del relativo Ministro, l'Amministrazione delle poste e delle telecomunicazioni viene autorizzata ad accettare dal comune di Ovindoli (L'Aquila) la donazione di un'area di mq. 225 sita in Ovindoli, via Luigi di Savoia, da destinare alla costruzione di un ufficio postale, giusta atto a rogito notaio Giovanni, Stornelli in data 3 luglio 1964, rep. n. 54512, racc. 8822, registrato in Avezzano il 23 luglio 1964.  
+345. Decreto del Presidente della Repubblica 2 febbraio 1968, col quale, sulla proposta del relativo Ministro, l'amministrazione delle poste e delle telecomunicazioni viene autorizzato ad accettare dal comune di Duino Aurisina (Trieste), la donazione di un'area di mq. 320 sita in Aurisina, confinante con p.c. 1597/3 e 1596/1 coop. operaie di Trieste, Istria e Friuli, p.c. 190 Gruden Valeria, 1599, 1596/4 e 1597/7 Pertot Antonia e strada provinciale del Carso (Prosecco-Sistiana), da destinare a costruzione dell'edificio p.t. come da atto rogato dal notaio dott. Giovanni Dandri in data 30 settembre 1965, rep. 62756, raccolta n. 7750, registrato a Trieste il 20 maggio 1966, n. 2781, mod. I, vol. 143.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 14 marzo 1968  
-Atti del Governo, registro n. 218, foglio n. 16. - GRECO
+Registrato alla Corte dei conti, addi' 29 marzo 1968  
+Atti del Governo, registro n. 218, foglio n. 85. - GRECO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1203
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 luglio 1955 n. 798
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1203
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 luglio 1955 n. 798
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -10,126 +10,34 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847) e successive modificazioni;   
-Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con i [regi decreti 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-10-05;1847); [26 ottobre 1940, n. 2058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2058); [16 marzo 1942, numero 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-03-16;323); [24 ottobre 1942, n. 1597 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1597) [23 settembre 1949, n. 932](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;932); [31 ottobre 1950, n. 1308](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1308); [11 aprile 1951, n. 953](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;953); [25 luglio 1952, n. 1501](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1501); [26 ottobre 1952, n. 4529](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4529); [10 febbraio 1953, n. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;384); [30 luglio 1953, n. 715](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;715); [24 settembre 1954, n. 1205](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-24;1205) e [14 marzo 1955, n. 345](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-03-14;345);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 362, relativo all'elenco delle scuole di specializzazione in medicina e chirurgia e' modificato nel senso che il n. 12) e' abrogato e sostituito dal seguente:   
-n. 12) Scuola di medicina legale e delle assicurazioni che conferisce il diploma di "Specialista in medicina legale e delle assicurazioni".   
-Nello stesso elenco e' aggiunta la seguente scuola di specializzazione:   
-  
-Scuola di medicina nucleare che conferisce il diploma di "Specialista in medicina nucleare".   
-Art. 363. - E' modificato nel senso che gli ordinamenti delle scuole di specializzazione in "Medicina legale e delle assicurazioni", e in "Urologia" sono abrogati e sostituiti dai seguenti:   
-  
-Scuola di specializzazione in medicina legale e delle assicurazioni (durata del corso: anni 3)   
-  
-1° Anno:   
-Medicina legale generale;   
-Elementi di diritto pubblico e privato;   
-Tecnica diagnostica anatomo-patologica generale e medico-legale;   
-Traumatologia medico-legale;   
-Semeiotica medico-legale.   
-  
-2° Anno:   
-Medicina legale penalistica;   
-Deontologia medica;   
-Neuropsichiatria medico-legale;   
-Elementi di medicina criminologica e di medicina penitenziaria;   
-Indagini di sopralluogo;   
-Identificazione personale.   
-  
-3° Anno:   
-Medicina legale e canonistica;   
-Tossicologia medico-legale;   
-Tecniche di laboratorio medico-legale e di ematologia forense;   
-Ostetricia e ginecologia forense;   
-Elementi di legislazione del lavoro;   
-Elementi di medicina del lavoro;   
-Medicina delle assicurazioni;   
-Medicina legale militare e pensionistica civile.   
-Internato obbligatorio per almeno sei mesi continuativi ed a tempo pieno per ciascun anno.   
-Esami di profitto sulle singole materie di insegnamento al termine di ogni anno.   
-E' obbligatorio il superamento degli esami di un anno per il passaggio all'anno successivo.   
-Numero massimo complessivo degli specializzandi per l'intero corso:  
-quindici.   
-  
-Scuola di specializzazione in urologia   
-(durata del corso: anni 3)   
-  
-1° Anno:   
-Anatomia descrittiva e topografica dell'apparato uro-genitale;   
-Fisiologia dell'apparato urogenitale;   
-Patologia dell'apparato urinario e genitale maschile (biennale);   
-Le nefropatie mediche;   
-Semeiotica dell'apparato uro-genitale (funzionale e di laboratorio) (biennale);   
-Tecniche strumentali e semeiologia endoscopica (biennale);   
-Microbiologia in urologia;   
-Farmacoterapia delle affezioni urogenitali.   
-  
-2° Anno:   
-Patologia dell'apparato urinario e genitale maschile (biennale);   
-Clinica urologica (biennale);   
-Patologia genitale femminile di interesse urologico;   
-Nefrologia chirurgica;   
-Anatomia e istologia patologica dell'apparato urogenitale;   
-Semeiotica dell'apparato uro-genitale (funzionale e di laboratorio) (biennale);   
-Tecniche strumentali e semeiologia endoscopica (biennale);   
-Anatomia chirurgica dell'apparato uro-genitale;   
-Radiologia dell'apparato urinario e genitale;   
-Le affezioni cutanee e veneree nei riguardi della urologia;   
-L'anestesia ed il trattamento pre e post-operatorio del malato urologico.   
-  
-3° Anno:   
-Clinica urologica (biennale);   
-Patologia e clinica urologica infantile;   
-Radiologia dell'apparato urinario e genitale;   
-Urologia ginecologica.   
-Il numero massimo complessivo degli iscritti, e' di trentanove, distribuiti nei tre anni di corso.   
-Nello stesso articolo dopo la scuola in urologia e' aggiunta la scuola di specializzazione in medicina nucleare con il seguente ordinamento:   
-  
-Scuola di specializzazione in medicina nucleare   
-(durata del corso: anni 3)   
-  
-1° Anno:   
-Fondamenti di matematica e statistica;   
-Fisica nucleare e delle radiazioni;   
-Tecniche per le misure di radioattivita';   
-Dosimetria.   
-  
-2° Anno:   
-Teoria dei traccianti;   
-Elementi di radiochimica;   
-Applicazioni diagnostiche I;   
-Elementi di radiobiologia.   
-  
-3° Anno:   
-Applicazioni diagnostiche II;   
-Applicazioni terapeutiche;   
-Radioterapia e legislazione.   
-E' obbligatorio per tutti gli iscritti l'internato presso l'istituto di semeiotica medica, sede della scuola.   
-Numero massimo degli iscritti ai tre anni di corso: ventuno.   
-Nel predetto art. 363 il comma relativo alla scuola di specializzazione in nefrologia medica, istituita con [decreto del Presidente della Repubblica 31 ottobre 1969, n. 957](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-10-31;957), e' modificato nel senso che il numero complessivo degli specializzandi da ammettere alla scuola e' aumentato a quarantacinque.   
+Art. 97. - Agli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto quello di "psicologia sperimentale".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1970
+### Dato a Roma, addi' 24 luglio 1955
 
-SARAGAT MISASI
+GRONCHI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MORO
 
-Registrato alla Corte dei conti, addi' 19 gennaio 1971
+Registrato alla Corte dei conti, addi' 1 settembre 1955
 
-Atti del Governo, registro n. 240, foglio n. 71. - CARUSO
+Atti del Governo, registro n. 92, foglio n. 133. - CARLOMAGNO

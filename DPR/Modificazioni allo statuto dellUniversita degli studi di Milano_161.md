@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1953 n. 383
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 aprile 1986 n. 391
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1953 n. 383
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 aprile 1986 n. 391
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, n. 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166) e modificato con [legge 10 giugno 1939, n. 872](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-10;872); con regi decreti 26 ottobre 1040, n. 2056; 15 aprile 1942, n. 423; con [decreti del Capo provvisorio dello Stato 27 luglio 1947, n. 1138](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-07-27;1138); del [Presidente della Repubblica 23 settembre 1949, n. 942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;942); [21 novembre 1949, n. 1194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-11-21;1194); [13 marzo 1950, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;283); [27 ottobre 1951, n. 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1825) e [23 aprile 1952, n. 873](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-04-23;873);
+Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,137 +18,49 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+
+Veduto il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati e' cosi' ulteriormente modificato:
-
-Art. 18. - Agli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:
-
-16) Filosofia della storia;
-
-17) Filosofia della religione.
-
-Art. 22. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:
-
-"Puericoltura;
-
-Parassitologia".
-
-Art. 25. - Agli insegnamenti complementari del corso di laurea in chimica industriale e' aggiunto quello di:
-
-9) Elettrotecnica,
-
-Art. 32. - Agli insegnamenti complementari del corso di laurea in scienze matematiche sono aggiunti i seguenti:
-
-13) Geometria algebrica;
-
-14) Teoria delle funzioni;
-
-15) Teoria dei numeri;
-
-16) Topologia;
-
-17) Storia delle matematiche.
-
-Art. 34. - All'elenco degli insegnamenti complementari del corso di laurea in matematica e fisica sono aggiunti i seguenti:
-
-15) Teoria delle funzioni;
-
-16) Topologia;
-
-17) Storia delle matematiche;
-
-18) Fisica terrestre;
-
-19) Onde elettromagnetiche.
-
-Sono soppressi i seguenti insegnamenti complementari: "elettrotecnica" e "mineralogia".
-
-Art. 38. - Laurea in scienze naturali. E' aggiunto all'ultimo comma quanto segue:
-
-"Non potranno presentarsi a sostenere gli esami di "fisiologia vegetale" gli studenti che non abbiano superato gli esami di "chimica generale ed inorganica" e di "chimica organica".
-
-All'art. 91, lettera e), relativo alla Scuola di perfezionamento in anestesia, le parole: "La durata del corso e' di un anno" sono sostituite dalle seguenti:
-
-"La durata del corso e' di due anni".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 10 febbraio 1953
-
-EINAUDI
-
-SEGNI
-
-Visto, il Guardasigilli: ZOLI
-
-Registrato
-----------
-
-alla Corte del conti, addi' 15 maggio 1953 Atti del Governo, registro n. 76, foglio n. 103. - PALLA
+Lo statuto dell'Universita' di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, n. 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166) e modificato con [legge 10 giugno 1939, n. 872](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-10;872); con regi decreti 26 ottobre 1040, n. 2056; 15 aprile 1942, n. 423; con [decreti del Capo provvisorio dello Stato 27 luglio 1947, n. 1138](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-07-27;1138); del [Presidente della Repubblica 23 settembre 1949, n. 942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;942); [21 novembre 1949, n. 1194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-11-21;1194); [13 marzo 1950, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;283); [27 ottobre 1951, n. 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1825) e [23 aprile 1952, n. 873](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-04-23;873);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Nell'art. 12, relativo al corso di laurea in scienze politiche, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+economia politica (corso superiore);  
+diritto della sicurezza sociale.  
+
+Art. 2
+------
+
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati e' cosi' ulteriormente modificato:  
-  
-Art. 18. - Agli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:  
-16) Filosofia della storia;  
-17) Filosofia della religione.  
-Art. 22. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
-"Puericoltura;  
-Parassitologia".  
-Art. 25. - Agli insegnamenti complementari del corso di laurea in chimica industriale e' aggiunto quello di:  
-9) Elettrotecnica,  
-Art. 32. - Agli insegnamenti complementari del corso di laurea in scienze matematiche sono aggiunti i seguenti:  
-13) Geometria algebrica;  
-14) Teoria delle funzioni;  
-15) Teoria dei numeri;  
-16) Topologia;  
-17) Storia delle matematiche.  
-Art. 34. - All'elenco degli insegnamenti complementari del corso di laurea in matematica e fisica sono aggiunti i seguenti:  
-15) Teoria delle funzioni;  
-16) Topologia;  
-17) Storia delle matematiche;  
-18) Fisica terrestre;  
-19) Onde elettromagnetiche.  
-Sono soppressi i seguenti insegnamenti complementari: "elettrotecnica" e "mineralogia".  
-Art. 38. - Laurea in scienze naturali. E' aggiunto all'ultimo comma quanto segue:  
-"Non potranno presentarsi a sostenere gli esami di "fisiologia vegetale" gli studenti che non abbiano superato gli esami di "chimica generale ed inorganica" e di "chimica organica".  
-All'art. 91, lettera e), relativo alla Scuola di perfezionamento in anestesia, le parole: "La durata del corso e' di un anno" sono sostituite dalle seguenti:  
-"La durata del corso e' di due anni".  
+Nell'art. 50, relativo al corso di laurea in scienze biologiche, all'elenco degli insegnamenti complementari e' aggiunto l'insegnamento di "Farmacologia molecolare".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 febbraio 1953
+### Dato a Roma, addi' 8 aprile 1986
 
-EINAUDI SEGNI
+COSSIGA
 
-Visto, il Guardasigilli: ZOLI
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte del conti, addi' 15 maggio 1953
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Atti del Governo, registro n. 76, foglio n. 103. - PALLA
+Registrato alla Corte dei conti, addi' 11 luglio 1986
+
+Registro n. 56 Istruzione, foglio n. 4

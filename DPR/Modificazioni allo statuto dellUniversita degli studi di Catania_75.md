@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1978 n. 585
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1974 n. 672
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1978 n. 585
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1974 n. 672
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Catania.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,332 +20,379 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 176 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono aggiunte le scuole di specializzazione in chirurgia, dell'apparato digerente ed endoscopia digestiva e in neurochirurgia.
+Gli articoli 196 e 197, relativi alla scuola di specializzazione in radiologia, sono abrogati e sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi:
 
-Gli articoli 179, 184, relativi alle norme generali per le scuole di specializzazione in medicina e chirurgia, sono abrogati e sostituiti dai seguenti:
+Scuola di specializzazione in radiologia
 
-Art. 179. - Per ciascuna scuola di specializzazione e' stabilito il numero massimo di allievi che vi possono essere accolti.
+Art. 196. - La scuola rilascia i seguenti diplomi di specializzazione: in radiologia e in radiologia diagnostica.
 
-L'ammissione alle scuole avviene a seguito di concorso per titoli ed esami.
+La scuola e' riservata ai laureati in medicina e chirurgia, che possono essere accolti in numero massimo di quattro per ciascun anno di corso per radiologia e radiologia diagnostica.
 
-Art. 184. - Non sono consentite iscrizioni con abbreviazioni di corso.
+Art. 197. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia e' di quattro anni.
 
-L'art. 187, relativo alle norme generali per le scuole di specializzazione in medicina e chirurgia, e' soppresso con il conseguente spostamento della numerazione degli articoli successivi.
+Gli insegnamenti sono i seguenti:
 
-Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva e in neurochirurgia.
+a) Matematica, fisica, nozioni di statistica e informatica (annuale), comprendente:
 
-Scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva
+1) richiami di matematica e fisica generale;
 
-Art. 265. - La scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva ha sede presso l'istituto di seconda clinica chirurgica dell'Universita' di Catania e conferisce il diploma di specialista in chirurgia dell'apparato digerente ed endoscopia digestiva.
+2) costituzione della materia;
 
-Art. 266. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione, e in carenza, al professore di ruolo o fuori ruolo di materia affine.
+3) produzione, assorbimento e misura delle radiazioni;
 
-Art. 267. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.
+4) statistica applicata alla medicina;
 
-Art. 268. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni.
+5) informatica e cibernetica applicata alla radiologia;
 
-Art. 269. - Il numero massimo degli allievi e' di sei per anno di corso e complessivamente di trenta iscritti per l'intero corso di studi.
+b) Radiodiagnostica (triennale) comprendente:
 
-Art. 270. - L'ammissione al corso avviene per titoli ed esami.
+1) principi generali di radiodiagnostica;
 
-Art. 271. - Le materie di insegnamento sono le seguenti:
+2) apparecchi, strumenti e tecnica di radiodiagnostica;
 
-1° Anno:
+3) tecnica e fisiologia applicate alla radiodiagnostica;
 
-anatomia descrittiva e topografica specialistica (I corso);
+4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;
 
-fisiopatologia e semeiotica funzionale (I corso);
+5) semeiotica radiologica;
 
-anatomia ed istologia patologica (I corso);
+6) diagnostica differenziale radiologica;
 
-patologia chirurgica (I corso).
+7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;
+
+8) dimostrazioni di casistica clinica;
+
+c) Radiobiologia (annuale) comprendente:
+
+1) radiobiologia generale;
+
+2) danni di radiazioni e radiopatie;
+
+d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
+
+1) legislazione sanitaria applicata alla radiologia;
+
+2) compiti e responsabilita' medico-legali del radiologo;
+
+3) radioprotezione fisica e dosimetria ad essa connessa;
+
+4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;
+
+5) radioprotezione chimica;
+
+6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici;
+
+e) Radioterapia e terapia fisica (triennale) comprendente:
+
+1) radiobiologia applicata;
+
+2) fondamenti generali di radioterapia e terapia fisica;
+
+3) istopatologia speciale dei tumori;
+
+4) nozioni sugli apparecchi e strumenti per la radioterapia;
+
+5) tecnica e metodica e radioterapia;
+
+6) dosimetria;
+
+7) clinica radioterapica;
+
+8) fondamenti generali di chemioterapia oncologica;
+
+9) chemioterapia clinica dei tumori e sua associazione alla radioterapia;
+
+10) dimostrazione di casistica clinica;
+
+f) Medicina nucleare (biennale) comprendente:
+
+1) elementi di medicina nucleare;
+
+2) istrumentario, tecnica e metodica dell'impiego di radioisotopi in medicina nucleare;
+
+3) dosimetria dei radioisotopi somministrati per via interna;
+
+4) diagnostica con radioisotopi somministrati per via interna;
+
+5) radioterapia metabolica;
+
+6) dimostrazioni di casistica clinica.
+
+I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nel quattro anni di corso:
+
+1° Anno (tronco comune):
+
+Matematica, fisica, nozioni di statistica ed informatica;
+
+Radiobiologia;
+
+Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;
+
+Radiodiagnostica (I).
 
 2° Anno:
 
-anatomia descrittiva e topografica specialistica (II corso);
+Radiodiagnostica (II);
 
-fisiopatologia e semeiotica funzionale (II corso);
-
-anatomia ed istologia patologica (II corso);
-
-patologia chirurgica (II corso);
-
-semeiotica chirurgica (I corso);
-
-radiologia e medicina nucleare (I corso);
-
-endoscopia digestiva diagnostica e terapeutica (I corso).
+Radioterapia e terapia fisica (I).
 
 3° Anno:
 
-patologia chirurgica (III corso);
+Radiodiagnostica (III);
 
-semeiotica chirurgica (II corso);
+Radioterapia e terapia fisica (II);
 
-radiologia e medicina nucleare (II corso);
-
-endoscopia digestiva diagnostica e terapeutica (II corso);
-
-clinica e terapia chirurgica (I corso);
-
-tecniche operatorie (I corso).
+Medicina nucleare (I).
 
 4° Anno:
 
-semeiotica chirurgica (III corso);
+Radioterapia e terapia fisica (III);
 
-radiologia e medicina nucleare (III corso);
+Medicina nucleare (II).
 
-endoscopia digestiva diagnostica e terapeutica (III corso);
+Art. 198. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.
 
-clinica e terapia chirurgica (II corso);
+Gli insegnamenti sono i seguenti:
 
-tecniche operatorie (II corso);
+a) Matematica, fisica, nozioni di statistica e di informatica (annuale) comprendente:
 
-anestesia e rianimazione;
+1) richiami di matematica e fisica generale;
 
-riabilitazione in chirurgia digestiva.
+2) costituzione della materia;
 
-5° Anno:
+3) produzione, assorbimento e misura delle radiazioni;
 
-clinica chirurgica e terapia chirurgica (III corso);
+4) statistica applicata alla medicina;
 
-tecniche operatorie (III corso);
+5) informatica e cibernetica applicate alla radiologia;
 
-chirurgia d'urgenza dell'apparato digerente;
+b) Radiodiagnostica (triennale) comprendente:
 
-chirurgia pediatrica dell'apparato digerente;
+1) principi generali di radiodiagnostica;
 
-terapia intensiva.
+2) apparecchi, strumenti e tecnica radiodiagnostica;
 
-Art. 272. - La frequenza alle lezioni, alle esercitazioni pratiche, ai periodi di internato, e' obbligatoria per l'ammissione agli esami.
+3) tecnica e fisiologia applicate alla radiodiagnostica;
 
-Il superamento degli esami di ciascun anno sara' condizione indispensabile per l'iscrizione all'anno successivo.
+4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;
 
-Art. 273. - Al termine del quinquennio per ottenere il diploma, i candidati dovranno presentare una dissertazione scritta su un argomento di chirurgia dell'apparato digerente ed endoscopia digestiva da discutere davanti all'apposita commissione e dovranno inoltre sostenere una prova clinica.
+5) semeiotica radiologica;
 
-Scuola di specializzazione in neurochirurgia
+6) diagnostica differenziale radiologica;
 
-Art. 274. - La scuola di specializzazione in neurochirurgia ha sede presso l'istituto di neurochirurgia dell'Universita' di Catania e conferisce il diploma di specialista in neurochirurgia.
+7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;
 
-Art. 275. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+8) dimostrazioni di casistica clinica;
 
-Art. 276. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+c) Radiobiologia (annuale) comprendente:
 
-Art. 277. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.
+1) radiobiologia generale;
 
-Art. 278. - Il numero massimo degli allievi e' di tre per anno di corso e complessivamente di quindici iscritti per l'intero corso di studi.
+2) danni di radiazioni e radiopatie;
 
-Art. 279. - L'ammissione al corso avviene per titoli ed esami.
+d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
 
-Art. 280. - Le materie di insegnamento sono le seguenti:
+1) legislazione sanitaria applicata alla radiologia;
 
-1° Anno:
+2) compiti e responsabilita' medico-legali del radiologo;
 
-neuroanatomia;
+3) radioprotezione fisica e dosimetria ad essa connessa;
 
-neurofisiologia;
+4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;
 
-semeiotica e clinica neurologica;
+5) radioprotezione chimica;
 
-elementi di psichiatria;
+6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.
 
-clinica neurochirurgica (I corso).
+I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:
+
+1° Anno (tronco comune):
+
+Matematica, fisica, nozioni di statistica ed informatica;
+
+Radiobiologia;
+
+Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;
+
+Radiodiagnostica (I).
 
 2° Anno:
 
-neuro-oftalmologia;
-
-neuro-otoiatria;
-
-neurofisiologia clinica;
-
-clinica neurochirurgica (II corso).
+Radiodiagnostica (II).
 
 3° Anno:
 
-neuroanestesia e rianimazione;
+Radiodiagnostica (III).
 
-neuroradiologia (I corso);
-
-neuropatologia;
-
-clinica neurochirurgica (III corso).
-
-4° Anno:
-
-neuroradiologia (II corso);
-
-neurotraumatologia;
-
-tecniche operatorie (I corso);
-
-clinica neurochirurgica (IV corso).
-
-5° Anno:
-
-neurochirurgia funzionale e stereotassica;
-
-neurochirurgia infantile;
-
-tecniche operatorie (II corso);
-
-clinica neurochirurgica (V corso):
-
-Art. 281. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.
-
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
-
-Art. 282. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.
-
-Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
-
-Al termine del corso di studi per il conseguimento del diploma di specialista in neurochirurgia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+Art. 199. - Per essere ammessi agli esami di diploma in radiologia e in radiologia diagnostica, gli iscritti, oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia di insegnamento ed elaborata una tesi scritta su di un argomento radiologico concordato con il direttore della scuola.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 18 febbraio 1978
+Dato a Roma, addi' 29 ottobre 1974
 
 LEONE
 
 MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: ZAGARI
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 23 settembre 1978 Registro n. 104 Istruzione, foglio n. 279
+alla Corte dei conti, addi' 7 dicembre 1974 Atti di Governo, registro n. 7, foglio n. 69. - SCIARRETTA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 176 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono aggiunte le scuole di specializzazione in chirurgia, dell'apparato digerente ed endoscopia digestiva e in neurochirurgia.  
-Gli articoli 179, 184, relativi alle norme generali per le scuole di specializzazione in medicina e chirurgia, sono abrogati e sostituiti dai seguenti:  
-Art. 179. - Per ciascuna scuola di specializzazione e' stabilito il numero massimo di allievi che vi possono essere accolti.  
-L'ammissione alle scuole avviene a seguito di concorso per titoli ed esami.  
-Art. 184. - Non sono consentite iscrizioni con abbreviazioni di corso.  
-L'art. 187, relativo alle norme generali per le scuole di specializzazione in medicina e chirurgia, e' soppresso con il conseguente spostamento della numerazione degli articoli successivi.  
-Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva e in neurochirurgia.  
-Scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva  
-Art. 265. - La scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva ha sede presso l'istituto di seconda clinica chirurgica dell'Universita' di Catania e conferisce il diploma di specialista in chirurgia dell'apparato digerente ed endoscopia digestiva.  
-Art. 266. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione, e in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Art. 267. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.  
-Art. 268. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni.  
-Art. 269. - Il numero massimo degli allievi e' di sei per anno di corso e complessivamente di trenta iscritti per l'intero corso di studi.  
-Art. 270. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 271. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-anatomia descrittiva e topografica specialistica (I corso);  
-fisiopatologia e semeiotica funzionale (I corso);  
-anatomia ed istologia patologica (I corso);  
-patologia chirurgica (I corso).  
+Gli articoli 196 e 197, relativi alla scuola di specializzazione in radiologia, sono abrogati e sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi:  
+  
+Scuola di specializzazione in radiologia  
+  
+Art. 196. - La scuola rilascia i seguenti diplomi di specializzazione: in radiologia e in radiologia diagnostica.  
+La scuola e' riservata ai laureati in medicina e chirurgia, che possono essere accolti in numero massimo di quattro per ciascun anno di corso per radiologia e radiologia diagnostica.  
+Art. 197. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia e' di quattro anni.  
+Gli insegnamenti sono i seguenti:  
+a) Matematica, fisica, nozioni di statistica e informatica (annuale), comprendente:  
+1) richiami di matematica e fisica generale;  
+2) costituzione della materia;  
+3) produzione, assorbimento e misura delle radiazioni;  
+4) statistica applicata alla medicina;  
+5) informatica e cibernetica applicata alla radiologia;  
+b) Radiodiagnostica (triennale) comprendente:  
+1) principi generali di radiodiagnostica;  
+2) apparecchi, strumenti e tecnica di radiodiagnostica;  
+3) tecnica e fisiologia applicate alla radiodiagnostica;  
+4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;  
+5) semeiotica radiologica;  
+6) diagnostica differenziale radiologica;  
+7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;  
+8) dimostrazioni di casistica clinica;  
+c) Radiobiologia (annuale) comprendente:  
+1) radiobiologia generale;  
+2) danni di radiazioni e radiopatie;  
+d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:  
+1) legislazione sanitaria applicata alla radiologia;  
+2) compiti e responsabilita' medico-legali del radiologo;  
+3) radioprotezione fisica e dosimetria ad essa connessa;  
+4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;  
+5) radioprotezione chimica;  
+6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici;  
+e) Radioterapia e terapia fisica (triennale) comprendente:  
+1) radiobiologia applicata;  
+2) fondamenti generali di radioterapia e terapia fisica;  
+3) istopatologia speciale dei tumori;  
+4) nozioni sugli apparecchi e strumenti per la radioterapia;  
+5) tecnica e metodica e radioterapia;  
+6) dosimetria;  
+7) clinica radioterapica;  
+8) fondamenti generali di chemioterapia oncologica;  
+9) chemioterapia clinica dei tumori e sua associazione alla radioterapia;  
+10) dimostrazione di casistica clinica;  
+f) Medicina nucleare (biennale) comprendente:  
+1) elementi di medicina nucleare;  
+2) istrumentario, tecnica e metodica dell'impiego di radioisotopi in medicina nucleare;  
+3) dosimetria dei radioisotopi somministrati per via interna;  
+4) diagnostica con radioisotopi somministrati per via interna;  
+5) radioterapia metabolica;  
+6) dimostrazioni di casistica clinica.  
+I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nel quattro anni di corso:  
+  
+1° Anno (tronco comune):  
+Matematica, fisica, nozioni di statistica ed informatica;  
+Radiobiologia;  
+Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;  
+Radiodiagnostica (I).  
+  
 2° Anno:  
-anatomia descrittiva e topografica specialistica (II corso);  
-fisiopatologia e semeiotica funzionale (II corso);  
-anatomia ed istologia patologica (II corso);  
-patologia chirurgica (II corso);  
-semeiotica chirurgica (I corso);  
-radiologia e medicina nucleare (I corso);  
-endoscopia digestiva diagnostica e terapeutica (I corso).  
+Radiodiagnostica (II);  
+Radioterapia e terapia fisica (I).  
+  
 3° Anno:  
-patologia chirurgica (III corso);  
-semeiotica chirurgica (II corso);  
-radiologia e medicina nucleare (II corso);  
-endoscopia digestiva diagnostica e terapeutica (II corso);  
-clinica e terapia chirurgica (I corso);  
-tecniche operatorie (I corso).  
+Radiodiagnostica (III);  
+Radioterapia e terapia fisica (II);  
+Medicina nucleare (I).  
+  
 4° Anno:  
-semeiotica chirurgica (III corso);  
-radiologia e medicina nucleare (III corso);  
-endoscopia digestiva diagnostica e terapeutica (III corso);  
-clinica e terapia chirurgica (II corso);  
-tecniche operatorie (II corso);  
-anestesia e rianimazione;  
-riabilitazione in chirurgia digestiva.  
-5° Anno:  
-clinica chirurgica e terapia chirurgica (III corso);  
-tecniche operatorie (III corso);  
-chirurgia d'urgenza dell'apparato digerente;  
-chirurgia pediatrica dell'apparato digerente;  
-terapia intensiva.  
-Art. 272. - La frequenza alle lezioni, alle esercitazioni pratiche, ai periodi di internato, e' obbligatoria per l'ammissione agli esami.  
-Il superamento degli esami di ciascun anno sara' condizione indispensabile per l'iscrizione all'anno successivo.  
-Art. 273. - Al termine del quinquennio per ottenere il diploma, i candidati dovranno presentare una dissertazione scritta su un argomento di chirurgia dell'apparato digerente ed endoscopia digestiva da discutere davanti all'apposita commissione e dovranno inoltre sostenere una prova clinica.  
-Scuola di specializzazione in neurochirurgia  
-Art. 274. - La scuola di specializzazione in neurochirurgia ha sede presso l'istituto di neurochirurgia dell'Universita' di Catania e conferisce il diploma di specialista in neurochirurgia.  
-Art. 275. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Art. 276. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Art. 277. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.  
-Art. 278. - Il numero massimo degli allievi e' di tre per anno di corso e complessivamente di quindici iscritti per l'intero corso di studi.  
-Art. 279. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 280. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-neuroanatomia;  
-neurofisiologia;  
-semeiotica e clinica neurologica;  
-elementi di psichiatria;  
-clinica neurochirurgica (I corso).  
+Radioterapia e terapia fisica (III);  
+Medicina nucleare (II).  
+  
+Art. 198. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.  
+Gli insegnamenti sono i seguenti:  
+a) Matematica, fisica, nozioni di statistica e di informatica (annuale) comprendente:  
+1) richiami di matematica e fisica generale;  
+2) costituzione della materia;  
+3) produzione, assorbimento e misura delle radiazioni;  
+4) statistica applicata alla medicina;  
+5) informatica e cibernetica applicate alla radiologia;  
+b) Radiodiagnostica (triennale) comprendente:  
+1) principi generali di radiodiagnostica;  
+2) apparecchi, strumenti e tecnica radiodiagnostica;  
+3) tecnica e fisiologia applicate alla radiodiagnostica;  
+4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;  
+5) semeiotica radiologica;  
+6) diagnostica differenziale radiologica;  
+7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;  
+8) dimostrazioni di casistica clinica;  
+c) Radiobiologia (annuale) comprendente:  
+1) radiobiologia generale;  
+2) danni di radiazioni e radiopatie;  
+d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:  
+1) legislazione sanitaria applicata alla radiologia;  
+2) compiti e responsabilita' medico-legali del radiologo;  
+3) radioprotezione fisica e dosimetria ad essa connessa;  
+4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;  
+5) radioprotezione chimica;  
+6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.  
+I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:  
+  
+1° Anno (tronco comune):  
+Matematica, fisica, nozioni di statistica ed informatica;  
+Radiobiologia;  
+Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;  
+Radiodiagnostica (I).  
+  
 2° Anno:  
-neuro-oftalmologia;  
-neuro-otoiatria;  
-neurofisiologia clinica;  
-clinica neurochirurgica (II corso).  
+Radiodiagnostica (II).  
+  
 3° Anno:  
-neuroanestesia e rianimazione;  
-neuroradiologia (I corso);  
-neuropatologia;  
-clinica neurochirurgica (III corso).  
-4° Anno:  
-neuroradiologia (II corso);  
-neurotraumatologia;  
-tecniche operatorie (I corso);  
-clinica neurochirurgica (IV corso).  
-5° Anno:  
-neurochirurgia funzionale e stereotassica;  
-neurochirurgia infantile;  
-tecniche operatorie (II corso);  
-clinica neurochirurgica (V corso):  
-Art. 281. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.  
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
-Art. 282. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.  
-Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.  
-Al termine del corso di studi per il conseguimento del diploma di specialista in neurochirurgia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+Radiodiagnostica (III).  
+  
+Art. 199. - Per essere ammessi agli esami di diploma in radiologia e in radiologia diagnostica, gli iscritti, oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia di insegnamento ed elaborata una tesi scritta su di un argomento radiologico concordato con il direttore della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 febbraio 1978
+### Dato a Roma, addi' 29 ottobre 1974
 
 LEONE MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 23 settembre 1978
+Registrato alla Corte dei conti, addi' 7 dicembre 1974
 
-Registro n. 104 Istruzione, foglio n. 279
+Atti di Governo, registro n. 7, foglio n. 69. - SCIARRETTA

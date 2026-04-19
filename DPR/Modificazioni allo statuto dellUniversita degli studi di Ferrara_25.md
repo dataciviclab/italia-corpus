@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 846
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1966 n. 457
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 846
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1966 n. 457
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 564](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;564) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,7 +18,9 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,241 +32,106 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli 104, 105, 106, 107 e 108, relativi alla "Scuola di specializzazione in clinica delle malattie nervose e mentali" che assume la denominazione di "Scuola di specializzazione in neurologia", sono abrogati e sostituiti dai seguenti:
+Art. 30. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: "Chirurgia pediatrica".
 
-Scuola di specializzazione in neurologia
+Art. 86. - All'elenco degli insegnamenti del 1° e 2° anno della Scuola di perfezionamento in Clinica pediatrica sono aggiunti i seguenti:
 
-Art. 104. - Il corso della scuola di specializzazione in neurologia, ha la durata di quattro anni ed e' tenuto presso la clinica delle malattie nervose e mentali.
+1° anno:
 
-Alla scuola non potranno essere iscritti piu' di cinque laureati in medicina e chirurgia, complessivamente, previa ammissione per titoli ed esami.
+8) Semeiotica pediatrica I;
 
-Art. 105. - Le materie di insegnamento sono le seguenti:
+9) Assistenza sociale all'infanzia.
 
-1° Anno:
+2° anno:
 
-1) Anatomia e istologia del sistema nervoso;
+5) Semeiotica pediatrica II;
 
-2) Fisiologia del sistema nervoso;
+6) Igiene e legislazione sanitaria scolastica II.
 
-3) Biochimica del sistema nervoso;
+Dopo l'art. 107 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Clinica otorinolaringoiatrica, annessa alla Facolta' di medicina e chirurgia.
 
-4) Genetica (elementi);
+Scuola di specializzazione in Clinica otorinolaringoiatrica
 
-5) Psicologia generale;
+Art. 108. - La Scuola di specializzazione in Clinica otorinolaringoiatrica ha sede presso la Clinica otorinolaringoiatrica ed ha la durata di tre anni. Direttore della Scuola e' il direttore della Clinica otorinolaringoiatrica stessa.
 
-6) Psicopatologia (1°);
+Art. 109. - Le materie di insegnamento sono le seguenti:
 
-7) Semeiotica psichiatrica.
+1° anno:
 
-2° Anno:
+1) Anatomia otorinolaringoiatrica;
 
-1) Anatomia e istologia patologica del sistema nervoso;
+2) Fisiologia otorinolaringoiatrica;
 
-2) Semeiotica neurologica;
+3) Semeiotica otorinolaringoiatrica;
 
-3) Patologia speciale e diagnostica neurologica (1°);
+4) Anatomia patologica delle malattie dell'orecchio, naso e gola;
 
-4) Neuro-radiologia;
+5) Clinica otorinolaringoiatrica I.
 
-5) Endocrinologia e neurologia vegetativa.
+2° anno:
 
-3° Anno:
+1) Audiologia;
 
-1) Patologia speciale e diagnostica neurologica (2°);
+2) Otoneurologia;
 
-2) Psicopatologia (2°);
+3) Foniatria;
 
-3) Clinica neurologica (1°);
+4) Medicina operatoria otorinolaringoiatrica;
 
-4) Elettroencefalografia;
+5) Broncoesofacologia;
 
-5) Elettromiografia, elettrodiagnostica ed elettroterapia;
+6) Clinica otorinolaringoiatrica II.
 
-6) Neuro-oftalmologia;
+3° anno:
 
-7) Neuro-otologia;
+1) Radiologia otorinolaringoiatrica;
 
-8) Esami di laboratorio.
+2) Allergologia;
 
-4° Anno:
+3) Anestesiologia in otorinolaringologia;
 
-1) Clinica neurologica e terapia (2°);
+4) Medicina legale e infortunistica otorinolaringoiatrica;
 
-2) Neurochirurgia;
+5) Clinica otorinolaringoiatrica III.
 
-3) Teoria e clinica della riabilitazione;
+E' insegnamento fondamentale la Clinica otorinolaringoiatrica e complementare tutti gli altri.
 
-4) Neuro-traumatologia anche sotto l'aspetto della medicina legale;
+Art. 110. - Possono iscriversi alla Scuola i laureati in Medicina e chirurgia nel numero massimo di 10 (dieci) per ogni anno.
 
-5) Neurologia in rapporto alla patologia internistica.
+Ogni anno di corso comporta periodi di internato obbligatorio nella Clinica otorinolaringoiatrica, secondo modalita' stabilite dal direttore della Scuola.
 
-Art. 106. - L'internato e' obbligatorio per l'intero anno scolastico nella clinica delle malattie nervose e mentali, sede della scuola.
+Art. 111. - Alla fine di ogni anno di corso gli iscritti dovranno sostenere un colloquio su tutti gli insegnamenti complementari, in gruppo di materie, che dovra' precedere l'esame fondamentale del rispettivo corso.
 
-L'internato del 2°, 3° e 4° anno potra' essere ridotto a non meno di mesi 4 per anno per i medici che prestino regolare servizio in un reparto neurologico. L'internato del 1° anno potra' essere ridotto a non meno di mesi 5 per i medici che prestino regolare servizio in un reparto neurologico e a non meno di mesi 4 per coloro che prestino servizio in un ospedale psichiatrico.
+Non potranno accedere ai corsi successivi gli iscritti che non abbiano superato l'esame della materia fondamentale di ciascun anno.
 
-Non potranno accedere ai corsi superiori gli iscritti che non avranno superato tutti gli esami del corso precedente.
+Alla fine del corso il candidato dovra' presentare e discutere una tesi scritta sull'argomento che gli sara' assegnato dal direttore della Scuola.
 
-Possono ottenere l'esonero di due anni gli specialisti in psichiatria, neuropsichiatria infantile e neurochirurgia. Un anno di esonero possono ottenere gli specialisti in altre materie affini (medicina interna, otorinolaringoiatria, oculistica, radiologia).
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Tali esoneri potranno essere concessi solo dopo aver superato l'esame di ammissione e a giudizio del direttore della scuola.
-
-Alla fine del corso il candidato dovra' presentare e discutere una tesi scritta.
-
-Dopo l'art. 127 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in igiene e medicina preventiva.
-
-Scuola di specializzazione in igiene e medicina preventiva
-
-Art. 128. - La scuola ha la durata di tre anni ed ha sede presso l'istituto di igiene il cui professore di ruolo e' direttore della scuola stessa.
-
-Potranno essere iscritti alla scuola i laureati in medicina e chirurgia nel numero massimo di ottanta iscritti per i tre anni di corso.
-
-La scelta dell'orientamento deve avvenire al momento dell'iscrizione al terzo anno e l'ammissione e' limitata ai posti disponibili, tenuto conto del merito scolastico nei primi due anni di corso.
-
-Art. 129. - Gli insegnamenti fondamentali sono:
-
-1° Anno:
-
-Metodologia statistica e biometria;
-
-Educazione, sanitaria;
-
-Psicologia;
-
-Microbiologia;
-
-Parassitologia;
-
-Epidemiologia e profilassi generale.
-
-2° Anno:
-
-Patologia e clinica delle malattie infettive;
-
-Epidemiologia e profilassi delle malattie infettive;
-
-Patologia e clinica delle malattie non infettive di importanza sociale;
-
-Epidemiologia e profilassi delle malattie non infettive di importanza sociale;
-
-Demografia e statistica sanitaria;
-
-Legislazione e organizzazione sanitaria.
-
-3° Anno (con orientamento di sanita' pubblica):
-
-Approvvigionamento idrico, raccolta e smaltimento dei rifiuti liquidi e solidi, inquinamento atmosferico;
-
-Igiene edilizia e urbanistica;
-
-Igiene dell'alimentazione;
-
-Igiene e medicina scolastica;
-
-Igiene ospitaliera;
-
-Servizi di sanita' pubblica.
-
-3° Anno (con orientamento di laboratorio):
-
-Microbiologia applicata all'igiene;
-
-Microscopia applicata all'igiene;
-
-Chimica clinica;
-
-Accertamento diagnostico delle malattie batteriche e parassitarie;
-
-Accertamento diagnostico delle infezioni virali;
-
-Nozioni di anatomia e istologia patologica.
-
-3° Anno (con orientamento di direzione ospedaliera):
-
-Storia degli ospedali e principi metodologici della assistenza ospitaliera;
-
-Igiene e tecnica delle costruzioni ospitaliere, arredamento ed impianti sanitari;
-
-Organizzazione e funzione degli ospedali generali e speciali;
-
-Diritto amministrativo e legislazione ospitaliera;
-
-Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera;
-
-Selezione ed istruzione professionale del personale ospitaliero;
-
-Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.
-
-3° Anno (con orientamento di igiene e medicina scolastica):
-
-Auxologia normale e patologica;
-
-Epidemiologia e profilassi delle malattie dell'eta' scolare;
-
-Elementi di psicologia e pedagogia per l'eta' scolare;
-
-Igiene dell'alimentazione;
-
-Assistenza parascolastica;
-
-Edilizia scolastica.
-
-Al piano di studi proposto per ogni anno di corso si aggiunge obbligatoriamente un corso complementare che il candidato potra' scegliere a seconda dell'interesse fra il seguente gruppo di materie complementari:
-
-Ispezioni delle carni;
-
-Geologia applicata all'igiene;
-
-Igiene mentale;
-
-Malattie professionali e loro prevenzione;
-
-Diritto sanitario;
-
-Igiene navale e dell'emigrazione;
-
-Antropologia culturale e sociologica;
-
-Malattie tropicali;
-
-Istituzioni di matematica;
-
-Genetica;
-
-Gerontologia e geriatria;
-
-Elementi di economia politica.
-
-Art. 130. - Gli allievi sono tenuti a frequentare, in qualita' di interni, l'istituto di igiene e svolgere turni presso istituti, ospedali e altri servizi sanitari secondo quanto stabilito dalla direzione della scuola.
-
-Art. 131. - Alla fine di ogni anno di corso, gli allievi, per essere ammessi agli anni di corso successivi, debbono aver superato tutti gli esami dell'anno precedente.
-
-L'esame di diploma si sostiene alla fine del terzo anno e consiste nella discussione di una tesi scritta assegnata dalla direzione della scuola.
-
-Il presente decreto, munite del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 4 agosto 1971
+Dato a Roma, addi' 13 maggio 1966
 
 SARAGAT
 
-MISASI
+GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 15 ottobre 1971 Atti del Governo, registro n. 244, foglio n. 153. - CARUSO
+alla Corte dei conti, addi' 24 giugno 1966 Atti del Governo, registro n. 203, foglio n. 168. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 564](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;564) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -272,123 +139,58 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 104, 105, 106, 107 e 108, relativi alla "Scuola di specializzazione in clinica delle malattie nervose e mentali" che assume la denominazione di "Scuola di specializzazione in neurologia", sono abrogati e sostituiti dai seguenti:  
+Art. 30. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: "Chirurgia pediatrica".  
+Art. 86. - All'elenco degli insegnamenti del 1° e 2° anno della Scuola di perfezionamento in Clinica pediatrica sono aggiunti i seguenti:  
   
-Scuola di specializzazione in neurologia  
+1° anno:  
+8) Semeiotica pediatrica I;  
+9) Assistenza sociale all'infanzia.  
+2° anno:  
+5) Semeiotica pediatrica II;  
+6) Igiene e legislazione sanitaria scolastica II.  
   
-Art. 104. - Il corso della scuola di specializzazione in neurologia, ha la durata di quattro anni ed e' tenuto presso la clinica delle malattie nervose e mentali.  
-Alla scuola non potranno essere iscritti piu' di cinque laureati in medicina e chirurgia, complessivamente, previa ammissione per titoli ed esami.  
-Art. 105. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) Anatomia e istologia del sistema nervoso;  
-2) Fisiologia del sistema nervoso;  
-3) Biochimica del sistema nervoso;  
-4) Genetica (elementi);  
-5) Psicologia generale;  
-6) Psicopatologia (1°);  
-7) Semeiotica psichiatrica.  
-2° Anno:  
-1) Anatomia e istologia patologica del sistema nervoso;  
-2) Semeiotica neurologica;  
-3) Patologia speciale e diagnostica neurologica (1°);  
-4) Neuro-radiologia;  
-5) Endocrinologia e neurologia vegetativa.  
-3° Anno:  
-1) Patologia speciale e diagnostica neurologica (2°);  
-2) Psicopatologia (2°);  
-3) Clinica neurologica (1°);  
-4) Elettroencefalografia;  
-5) Elettromiografia, elettrodiagnostica ed elettroterapia;  
-6) Neuro-oftalmologia;  
-7) Neuro-otologia;  
-8) Esami di laboratorio.  
-4° Anno:  
-1) Clinica neurologica e terapia (2°);  
-2) Neurochirurgia;  
-3) Teoria e clinica della riabilitazione;  
-4) Neuro-traumatologia anche sotto l'aspetto della medicina legale;  
-5) Neurologia in rapporto alla patologia internistica.  
-Art. 106. - L'internato e' obbligatorio per l'intero anno scolastico nella clinica delle malattie nervose e mentali, sede della scuola.  
-L'internato del 2°, 3° e 4° anno potra' essere ridotto a non meno di mesi 4 per anno per i medici che prestino regolare servizio in un reparto neurologico. L'internato del 1° anno potra' essere ridotto a non meno di mesi 5 per i medici che prestino regolare servizio in un reparto neurologico e a non meno di mesi 4 per coloro che prestino servizio in un ospedale psichiatrico.  
-Non potranno accedere ai corsi superiori gli iscritti che non avranno superato tutti gli esami del corso precedente.  
-Possono ottenere l'esonero di due anni gli specialisti in psichiatria, neuropsichiatria infantile e neurochirurgia. Un anno di esonero possono ottenere gli specialisti in altre materie affini (medicina interna, otorinolaringoiatria, oculistica, radiologia).  
-Tali esoneri potranno essere concessi solo dopo aver superato l'esame di ammissione e a giudizio del direttore della scuola.  
-Alla fine del corso il candidato dovra' presentare e discutere una tesi scritta.  
-Dopo l'art. 127 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in igiene e medicina preventiva.  
+Dopo l'art. 107 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Clinica otorinolaringoiatrica, annessa alla Facolta' di medicina e chirurgia.  
+Scuola di specializzazione in Clinica otorinolaringoiatrica  
+Art. 108. - La Scuola di specializzazione in Clinica otorinolaringoiatrica ha sede presso la Clinica otorinolaringoiatrica ed ha la durata di tre anni. Direttore della Scuola e' il direttore della Clinica otorinolaringoiatrica stessa.  
+Art. 109. - Le materie di insegnamento sono le seguenti:  
   
-Scuola di specializzazione in igiene e medicina preventiva  
+1° anno:  
+1) Anatomia otorinolaringoiatrica;  
+2) Fisiologia otorinolaringoiatrica;  
+3) Semeiotica otorinolaringoiatrica;  
+4) Anatomia patologica delle malattie dell'orecchio, naso e gola;  
+5) Clinica otorinolaringoiatrica I.  
+2° anno:  
+1) Audiologia;  
+2) Otoneurologia;  
+3) Foniatria;  
+4) Medicina operatoria otorinolaringoiatrica;  
+5) Broncoesofacologia;  
+6) Clinica otorinolaringoiatrica II.  
+3° anno:  
+1) Radiologia otorinolaringoiatrica;  
+2) Allergologia;  
+3) Anestesiologia in otorinolaringologia;  
+4) Medicina legale e infortunistica otorinolaringoiatrica;  
+5) Clinica otorinolaringoiatrica III.  
   
-Art. 128. - La scuola ha la durata di tre anni ed ha sede presso l'istituto di igiene il cui professore di ruolo e' direttore della scuola stessa.  
-Potranno essere iscritti alla scuola i laureati in medicina e chirurgia nel numero massimo di ottanta iscritti per i tre anni di corso.  
-La scelta dell'orientamento deve avvenire al momento dell'iscrizione al terzo anno e l'ammissione e' limitata ai posti disponibili, tenuto conto del merito scolastico nei primi due anni di corso.  
-Art. 129. - Gli insegnamenti fondamentali sono:  
-1° Anno:  
-Metodologia statistica e biometria;  
-Educazione, sanitaria;  
-Psicologia;  
-Microbiologia;  
-Parassitologia;  
-Epidemiologia e profilassi generale.  
-2° Anno:  
-Patologia e clinica delle malattie infettive;  
-Epidemiologia e profilassi delle malattie infettive;  
-Patologia e clinica delle malattie non infettive di importanza sociale;  
-Epidemiologia e profilassi delle malattie non infettive di importanza sociale;  
-Demografia e statistica sanitaria;  
-Legislazione e organizzazione sanitaria.  
-3° Anno (con orientamento di sanita' pubblica):  
-Approvvigionamento idrico, raccolta e smaltimento dei rifiuti liquidi e solidi, inquinamento atmosferico;  
-Igiene edilizia e urbanistica;  
-Igiene dell'alimentazione;  
-Igiene e medicina scolastica;  
-Igiene ospitaliera;  
-Servizi di sanita' pubblica.  
-3° Anno (con orientamento di laboratorio):  
-Microbiologia applicata all'igiene;  
-Microscopia applicata all'igiene;  
-Chimica clinica;  
-Accertamento diagnostico delle malattie batteriche e parassitarie;  
-Accertamento diagnostico delle infezioni virali;  
-Nozioni di anatomia e istologia patologica.  
-3° Anno (con orientamento di direzione ospedaliera):  
-Storia degli ospedali e principi metodologici della assistenza ospitaliera;  
-Igiene e tecnica delle costruzioni ospitaliere, arredamento ed impianti sanitari;  
-Organizzazione e funzione degli ospedali generali e speciali;  
-Diritto amministrativo e legislazione ospitaliera;  
-Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera;  
-Selezione ed istruzione professionale del personale ospitaliero;  
-Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.  
-3° Anno (con orientamento di igiene e medicina scolastica):  
-Auxologia normale e patologica;  
-Epidemiologia e profilassi delle malattie dell'eta' scolare;  
-Elementi di psicologia e pedagogia per l'eta' scolare;  
-Igiene dell'alimentazione;  
-Assistenza parascolastica;  
-Edilizia scolastica.  
-Al piano di studi proposto per ogni anno di corso si aggiunge obbligatoriamente un corso complementare che il candidato potra' scegliere a seconda dell'interesse fra il seguente gruppo di materie complementari:  
-Ispezioni delle carni;  
-Geologia applicata all'igiene;  
-Igiene mentale;  
-Malattie professionali e loro prevenzione;  
-Diritto sanitario;  
-Igiene navale e dell'emigrazione;  
-Antropologia culturale e sociologica;  
-Malattie tropicali;  
-Istituzioni di matematica;  
-Genetica;  
-Gerontologia e geriatria;  
-Elementi di economia politica.  
-Art. 130. - Gli allievi sono tenuti a frequentare, in qualita' di interni, l'istituto di igiene e svolgere turni presso istituti, ospedali e altri servizi sanitari secondo quanto stabilito dalla direzione della scuola.  
-Art. 131. - Alla fine di ogni anno di corso, gli allievi, per essere ammessi agli anni di corso successivi, debbono aver superato tutti gli esami dell'anno precedente.  
-L'esame di diploma si sostiene alla fine del terzo anno e consiste nella discussione di una tesi scritta assegnata dalla direzione della scuola.  
+E' insegnamento fondamentale la Clinica otorinolaringoiatrica e complementare tutti gli altri.  
+Art. 110. - Possono iscriversi alla Scuola i laureati in Medicina e chirurgia nel numero massimo di 10 (dieci) per ogni anno.  
+Ogni anno di corso comporta periodi di internato obbligatorio nella Clinica otorinolaringoiatrica, secondo modalita' stabilite dal direttore della Scuola.  
+Art. 111. - Alla fine di ogni anno di corso gli iscritti dovranno sostenere un colloquio su tutti gli insegnamenti complementari, in gruppo di materie, che dovra' precedere l'esame fondamentale del rispettivo corso.  
+Non potranno accedere ai corsi successivi gli iscritti che non abbiano superato l'esame della materia fondamentale di ciascun anno.  
+Alla fine del corso il candidato dovra' presentare e discutere una tesi scritta sull'argomento che gli sara' assegnato dal direttore della Scuola.  
   
-Il presente decreto, munite del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.  
-  
-Dato a Roma, addi' 4 agosto 1971  
-  
-SARAGAT  
-  
-MISASI   
-Visto, il Guardasigilli: COLOMBO  
-Registrato alla Corte dei conti, addi' 15 ottobre 1971  
-Atti del Governo, registro n. 244, foglio n. 153. - CARUSO  
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Dato a Roma, addi' 13 maggio 1966
+
+SARAGAT GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato alla Corte dei conti, addi' 24 giugno 1966
+
+Atti del Governo, registro n. 203, foglio n. 168. - VILLA

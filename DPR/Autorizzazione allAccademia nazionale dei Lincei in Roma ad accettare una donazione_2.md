@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 aprile 1982 n. 325
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1981 n. 348
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 aprile 1982 n. 325
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1981 n. 348
 =============================================================
 
 Autorizzazione all'Accademia nazionale dei Lincei, in Roma, ad accettare una donazione.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-325. Decreto del Presidente della Repubblica 21 aprile 1982, col quale, sulla proposta del Ministro per i beni culturali e ambientali, l'Accademia nazionale dei Lincei, in Roma, viene autorizzata ad accettare una donazione di L. 20.000.000 in buoni del Tesoro disposta dai signori Mario Barone e Giovanna Biraghi Lossetti in Barone, come da atto pubblico 28 maggio 1980, n. 73183/32838 di repertorio, a rogito dottor Vincenzo Colapietro, notaio in Roma, registrato a Roma in data 17 giugno 1980 al n. 8480.  
+348. Decreto del Presidente della Repubblica 2 maggio 1981, col quale, sulla proposta del Ministro per i beni culturali e ambientali, l'Accademia nazionale dei Lincei, in Roma, viene autorizzata ad accettare la donazione disposta dal prof. Giulio Ansaldi con atto pubblico 12 aprile 1978, n. 71322/31977 di repertorio, a rogito dott. Vincenzo Colapietro, notaio in Roma, consistente in una biblioteca privata d'arte, integrata da volumi di carattere storico, letterario e di cultura varia.  
   
 Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 29 maggio 1982  
-Registro n. 14 Beni culturali, foglio n. 197
+Registrato alla Corte dei conti, addi' 26 giugno 1981  
+Registro n. 12 Beni culturali, foglio n. 166

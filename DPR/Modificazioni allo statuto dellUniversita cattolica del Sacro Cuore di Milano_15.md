@@ -1,40 +1,40 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 luglio 1968 n. 1125
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1965 n. 1691
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 luglio 1968 n. 1125
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1965 n. 1691
+===============================================================
 
-Modificazioni allo statuto dell'Universita' cattolica del "Sacro Cuore", di Milano.
------------------------------------------------------------------------------------
+Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
+--------------------------------------------------------------------------------
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto della libera Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione di concerto con il Ministro per il tesoro;  
   
 Decreta:  
   
-La tabella n. 1 annessa allo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che il numero dei posti di professore di ruolo della facolta' di medicina e chirurgia viene aumentato da 18 a 20.  
+La tabella n. 1 annessa allo statuto dell'Universita' cattolica del Sacro Cuore di Milano e' modificata nel senso che il numero dei posti di professori di ruolo della Facolta' di economia e commercio viene aumentato da 9 a 11.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 luglio 1968
+### Dato a Roma, addi' 27 ottobre 1965
 
-SARAGAT SCAGLIA - COLOMBO
+SARAGAT GUI - COLOMBO
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 2 novembre 1968
+Registrato alla Corte dei conti, addi' 18 marzo 1966
 
-Atti del Governo, registro n. 223, foglio n. 82. - GRECO
+Atti del Governo, registro n. 232, foglio n. 54. - VILLA

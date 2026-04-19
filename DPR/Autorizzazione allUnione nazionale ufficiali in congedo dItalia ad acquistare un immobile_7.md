@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 novembre 1966 n. 1193
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 dicembre 1968 n. 1385
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 novembre 1966 n. 1193
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 dicembre 1968 n. 1385
 ================================================================
 
 Autorizzazione all'Unione nazionale ufficiali in congedo d'Italia ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1193. Decreto del Presidente della Repubblica 15 novembre 1966, col quale, sulla proposta del Ministro per la difesa, l'Unione nazionale ufficiali in congedo d'Italia, con sede in Roma, viene autorizzata ad acquistare, per la sede del dipendente Gruppo provinciale di Pistoia, dalla signora Ida Bizzarri in Giannelli, al prezzo di L. 7.500.000, l'appartamento di quattro camere ed accessori, situato al primo piano del fabbricato che sorge in detta citta', via Cavour n. 20.  
+1385. Decreto del Presidente della Repubblica 6 dicembre 1968, col quale, sulla proposta del Ministro per la difesa, l'Unione nazionale ufficiali in congedo d'Italia, con sede in Roma, viene autorizzata ad acquistare, per la sede della dipendente sezione di Massa, dall'ing. Enzo Mariano, al prezzo di L. 6.200.000, l'appartamento di tre vani ed accessori, situato al primo piano del fabbricato che sorge in Massa, piazza Liberazione n. 15.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 31 dicembre 1966  
-Atti del Governo, registro n. 208, foglio n. 70. - VILLA
+Visto, il Guardasigilli: GAVA  
+Registrato alla Corte dei conti, addi' 29 gennaio 1969  
+Atti del Governo, registro n. 225, foglio n. 4. - GRECO

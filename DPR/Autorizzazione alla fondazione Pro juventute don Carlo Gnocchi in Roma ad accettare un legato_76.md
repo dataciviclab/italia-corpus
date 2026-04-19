@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1976 n. 172
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1984 n. 811
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1976 n. 172
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1984 n. 811
+================================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-172. Decreto del Presidente della Repubblica 2 marzo 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.na Anna Consonni in favore dell'Istituto mutilatini don Gnocchi di Pessano (Milano), dipendente dalla fondazione "Pro juventute don Carlo Gnocchi" come ha fatto presente la fondazione medesima, con testamento olografo 22 febbraio 1969, pubblicato a rogito dott.  
-Domenico Moretti, notaio in Milano, in data 8 ottobre 1971, n. 100725/20815 di repertorio, ed ivi registrato il 16 ottobre 1971 con il n. 17734, vol. G, consistente in un appartamento sito in Gorgonzola (Milano), via Argenzia n. 8, identificato all'ufficio tecnico erariale di Milano con scheda n. 0724779, mapp. 216 - 216-A, e foglio 9, mappali 12 e 74.  
+811. Decreto del Presidente della Repubblica 14 settembre 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi" in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 200.000.000, disposto dal sig. Gerevini Marino a favore dell'istituto "Don Gnocchi", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione stessa in data 20 novembre 1982, con testamento pubblico 9 novembre 1981, redatto a rogito dott. Ottorino Mancini, notaio in Cremona, e dallo stesso pubblicato il 2 marzo 1982, n. 6633 di repertorio, n. 5074 di raccolta, registrato a Cremona il 2 marzo 1982 al n. 720.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 24 aprile 1976  
-Atti di Governo, registro n. 5, foglio n. 38
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 24 novembre 1984  
+Registro n. 10 Presidenza, foglio n. 186

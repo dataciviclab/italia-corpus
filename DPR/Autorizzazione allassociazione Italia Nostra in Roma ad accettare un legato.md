@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1985 n. 415
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1976 n. 969
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1985 n. 415
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1976 n. 969
 =============================================================
 
 Autorizzazione all'associazione "Italia Nostra", in Roma, ad accettare un legato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-415. Decreto del Presidente della Repubblica 29 maggio 1985, col quale, sulla proposta del Ministro per i beni culturali e ambientali, l'associazione "Italia Nostra", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Maria Luisa Costantini ved. Astaldi con testamento olografo 2 febbraio 1969, pubblicato in data 3 gennaio 1983, n. 4401 di repertorio, a rogito dott. Nino Filippo Corrado, notaio in Roma, registrato a Roma in data 6 gennaio 1983 al n. 703.  
+969. Decreto del Presidente della Repubblica 12 maggio 1976, col quale, sulla proposta del Ministro per i beni culturali e ambientali, l'associazione "Italia Nostra", in Roma, viene autorizzata ad accettare il legato disposto dal dott. Guido Morselli con testamento olografo pubblicato con verbale 1 ottobre 1973, n. 32612/887 di repertorio, a rogito dott. Bruno Volpe, notaio in Varese.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 5 agosto 1985  
-Registro n. 22 Beni culturali, foglio n. 250
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 18 gennaio 1977  
+Registro n. 1 Beni culturali, foglio n. 234

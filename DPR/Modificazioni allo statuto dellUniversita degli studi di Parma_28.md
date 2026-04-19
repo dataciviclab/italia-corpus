@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1973 n. 1156
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1963 n. 1462
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1973 n. 1156
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1963 n. 1462
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
@@ -10,13 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1968, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1968-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -30,395 +32,134 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-L'art. 142, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la scuola in "Igiene" muta la denominazione in quella di "Igiene e medicina preventiva".
+Art. 27. - All'elenco degli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di:
 
-Nello stesso elenco la scuola in "Medicina ed igiene scolastica" e' soppressa ed e' aggiunta la scuola in "Malattie dell'apparato cardiovascolare" di nuova istituzione.
+Gerontologia e Geriatria;
 
-Dopo l'art. 159, e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo alle disposizioni generali per le scuole di specializzazione:
+Chirurgia plastica;
 
-Art. 160. - I laureati in medicina e chirurgia, in possesso di diplomi rilasciati dalle soppresse scuole di specializzazione, possono ottenere l'iscrizione all'ultimo anno di corso delle corrispondenti scuole di specializzazione gia' riordinate, alle condizioni stabilite dai rispettivi consigli delle scuole stesse.
+Ottica fisiologica;
 
-L'ultimo comma dell'art. 185, relativo alla scuola di specializzazione in psichiatria istituita con [decreto del Presidente della Repubblica 28 agosto 1971, n. 906](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-08-28;906), e' modificato nel senso che il numero degli iscritti e' stabilito in sessanta per i quattro anni di corso.
+Parassitologia medica;
 
-L'ultimo comma dell'art. 187, relativo alla scuola di specializzazione in neurologia, istituita con [decreto del Presidente della Repubblica 28 agosto 1971, n. 906](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-08-28;906), e' modificato nel senso che il numero degli iscritti e' stabilito in sessanta per i quattro anni di corso.
+Neurochirurgia.
 
-Gli articoli da 196 a 200, relativi alla "Scuola di specializzazione in igiene" che muta la denominazione in quella di "Scuola di specializzazione in igiene e medicina preventiva", sono abrogati e sostituiti dai seguenti:
+Dopo l'art. 167, e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in tisiologia.
 
-Scuola di specializzazione in igiene e medicina preventiva
+Scuola di specializzazione in tisiologia
 
-Art. 196. - La scuola di specializzazione in igiene e medicina preventiva si articola in quattro orientamenti:
+Art. 168. - E' istituita la Scuola di specializzazione in tisiologia. La Scuola e' sottoposta alle regolamentazioni generali fissate dallo statuto delle Scuole di specializzazione annesse alla Facolta' di medicina e chirurgia della Universita' degli studi di Parma.
 
-a) orientamento di sanita' pubblica;
+Art. 169. - La Scuola ha la durata di due anni.
 
-b) orientamento di laboratorio;
+L'iscrizione per ogni anno accademico e' limitata a numero dieci allievi.
 
-c) orientamento di igiene e tecnica ospitaliera;
+Art. 170. - Sono ammessi i laureati in Medicina e chirurgia.
 
-d) orientamento di igiene e medicina scolastica.
+Art. 171. - Le materie di insegnamento sono:
 
-Art. 197. - La scuola ha la durata di tre anni.
+Primo anno:
 
-Art. 198. - L'iscrizione alla scuola e' limitata:
+1) Patologia e clinica della tubercolosi polmonare;
 
-a) a non piu' di trenta iscritti per anno al corso con orientamento di sanita' pubblica;
+2) Anatomia patologica della tubercolosi polmonare ed estrapolmonare;
 
-b) a non piu' di quindici iscritti per anno al corso con orientamento di laboratorio;
+3) Fisiopatologia dell'apparato respiratorio;
 
-c) a non piu' di quindici iscritti per anno al corso con orientamento di igiene e tecnica ospitaliera;
+4) Diagnostica radiologica;
 
-d) a non piu' di quindici iscritti per anno al corso con orientamento di igiene e medicina scolastica.
+5) Microbiologia.
 
-Art. 199. - Non sono consentite abbreviazioni di corso.
+Secondo anno:
 
-Art. 200. - Le materie di insegnamento sono:
+1) Clinica, e terapia delle malattie tubercolari;
 
-1° Anno:
+2) Diagnostica differenziale delle malattie dell'apparato respiratorio;
 
-1) Metodologia statistica e biometria;
+3) Fisiopatologia dell'apparato respiratorio;
 
-2) Educazione sanitaria:
+4) Broncologia e tecniche broncologiche;
 
-3) Psicologia;
+5) Igiene e legislazione sociale.
 
-4) Microbiologia;
+Art. 172. - I corsi sono integrati da turni di esercitazione riguardanti la diagnostica clinica, la terapia, le tecniche di laboratorio e da cicli di conferenze fissate anno per anno dal direttore della Scuola.
 
-5) Parassitologia;
+Art. 173. - Gli allievi sono tenuti a seguire le lezioni teoriche, le esercitazioni, i turni di internato stabiliti dal direttore della Scuola.
 
-6) Epidemiologia e profilassi generale.
-
-2° Anno:
-
-1) Patologia e clinica delle malattie infettive;
-
-2) Epidemiologia e profilassi delle malattie infettive;
-
-3) Patologia e clinica delle malattie non infettive di importanza sociale;
-
-4) Epidemiologia e profilassi delle malattie non infettive di importanza sociale;
-
-5) Demografia e statistica sanitaria;
-
-6) Legislazione e organizzazione sanitaria.
-
-3° Anno (con orientamento di sanita' pubblica):
-
-1) Approvvigionamento idrico; raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici;
-
-2) Igiene edilizia e urbanistica;
-
-3) Igiene dell'alimentazione;
-
-4) Igiene e medicina scolastica;
-
-5) igiene ospitaliera;
-
-6) Servizi di sanita' pubblica.
-
-3° Anno (con orientamento di laboratorio):
-
-1) Microscopia applicata all'igiene;
-
-2) Microbiologia applicata all'igiene;
-
-3) Chimica clinica;
-
-4) Accertamento diagnostico delle malattie batteriche e parassitarie;
-
-5) Accertamento diagnostico delle infezioni virali;
-
-6) Nozioni di anatomia e istologia patologica.
-
-3° Anno (con orientamento di igiene e tecnica (o direzione) ospitaliera):
-
-1) Storia degli ospedali e principi metodologici dell'assistenza ospedaliera;
-
-2) Igiene e tecnica delle costruzioni ospedaliere, arredamento ed impianti sanitari;
-
-3) Organizzazione e funzione degli ospedali generali e speciali;
-
-4) Diritto amministrativo e legislazione ospitaliera;
-
-5) Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera;
-
-6) Selezione e istruzione professionale del personale ospedaliero;
-
-7) Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.
-
-3° Anno (con orientamento di igiene e medicina scolastica):
-
-1) Auscologia normale patologica;
-
-2) Epidemiologia e profilassi delle malattie dell'eta' scolare;
-
-3) Servizi di medicina scolastica;
-
-4) Elementi di psicologia e pedagogia dell'eta' scolare;
-
-5) Igiene dell'alimentazione;
-
-6) Assistenza parascolastica;
-
-7) Edilizia scolastica.
-
-Materie complementari:
-
-Ciascun specializzando scegliera', per ogni anno di corso, una sola delle seguenti materie complementari:
-
-1) Ispezione delle carni;
-
-2) Geologia applicata all'igiene;
-
-4) Malattie professionali e loro prevenzione;
-
-5) Diritto sanitario;
-
-6) Igiene navale e dell'emigrazione;
-
-7) Antropologia culturale e sociologica;
-
-8) Malattie tropicali;
-
-9) Istituzioni di matematica;
-
-10) Genetica;
-
-11) Gerontologia;
-
-12) Elementi di economia politica.
-
-Gli articoli da 204 a 211, relativi alla "Scuola di specializzazione in medicina ed igiene scolastica", sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.
-
-Dopo l'art. 265, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della "Scuola di specializzazione in malattie dell'apparato cardiovascolare".
-
-Scuola di specializzazione in malattie dell'apparato cardiovascolare
-
-Art. 266. - La scuola ha la durata di tre anni.
-
-Il numero degli iscritti e stabilito in tre ogni anno di corso.
-
-Art. 267. - Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-1) Anatomia normale dell'apparato cardio-vascolare:
-
-2) Fisiologia dell'apparato cardio-vascolare e respiratorio;
-
-3) Fisiopatologia cardio-vascolare e respiratoria (1° corso);
-
-4) Patologia cardio-vascolare (1° corso);
-
-5) Semeiologia fisica (1° corso);
-
-6) Semeiologia strumentale (1° corso);
-
-7) Microbiologia (facoltativo);
-
-8) Metabolismo del miocardio (facoltativo).
-
-2° Anno:
-
-1) Fisiopatologia cardio-vascolare e respiratoria (2° corso);
-
-2) Patologia cardio-vascolare (2° corso);
-
-3) Semeiologia fisica (2° corso);
-
-4) Semeiologia strumentale (2° corso);
-
-5) Anatomia patologica dell'apparato cardio-vascolare (1° corso);
-
-6) Radiologia;
-
-7) Farmacologia;
-
-8) Clinica e terapia (I° corso);
-
-3° Anno:
-
-1) Anatomia patologica dell'apparato cardio-vascolare (2° corso);
-
-2) Clinica e terapia (2° corso);
-
-3) Chirurgia dell'apparato cardio-vascolare;
-
-4) Problemi assicurativi e sociali (facoltativo);
-
-5) Statistica (facoltativo).
+Art. 174. - Alla fine del primo ed alla fine del secondo anno gli allievi dovranno sostenere un esame unico su tutte le materie di insegnamento ed un esame finale di diploma con dissertazione scritta su argomento assegnato dal direttore della Scuola o da uno degli insegnanti.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 23 ottobre 1973
+Dato a Roma, addi' 7 ottobre 1963
 
-LEONE
+SEGNI
 
-MALFATTI
+GUI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: BOSCO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 28 ottobre 1974 Atti di Governo, registro n. 6, foglio n. 49. - SCIARRETTA
+alla Corte dei conti, addi' 2 novembre 1963 Atti del Governo, registro n. 175, foglio n. 113. - VILLA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1968, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1968-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-L'art. 142, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la scuola in "Igiene" muta la denominazione in quella di "Igiene e medicina preventiva".   
-Nello stesso elenco la scuola in "Medicina ed igiene scolastica" e' soppressa ed e' aggiunta la scuola in "Malattie dell'apparato cardiovascolare" di nuova istituzione.   
-Dopo l'art. 159, e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo alle disposizioni generali per le scuole di specializzazione:   
-  
-Art. 160. - I laureati in medicina e chirurgia, in possesso di diplomi rilasciati dalle soppresse scuole di specializzazione, possono ottenere l'iscrizione all'ultimo anno di corso delle corrispondenti scuole di specializzazione gia' riordinate, alle condizioni stabilite dai rispettivi consigli delle scuole stesse.   
-L'ultimo comma dell'art. 185, relativo alla scuola di specializzazione in psichiatria istituita con [decreto del Presidente della Repubblica 28 agosto 1971, n. 906](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-08-28;906), e' modificato nel senso che il numero degli iscritti e' stabilito in sessanta per i quattro anni di corso.   
-L'ultimo comma dell'art. 187, relativo alla scuola di specializzazione in neurologia, istituita con [decreto del Presidente della Repubblica 28 agosto 1971, n. 906](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-08-28;906), e' modificato nel senso che il numero degli iscritti e' stabilito in sessanta per i quattro anni di corso.   
-Gli articoli da 196 a 200, relativi alla "Scuola di specializzazione in igiene" che muta la denominazione in quella di "Scuola di specializzazione in igiene e medicina preventiva", sono abrogati e sostituiti dai seguenti:   
-  
-Scuola di specializzazione in igiene e medicina preventiva   
-  
-Art. 196. - La scuola di specializzazione in igiene e medicina preventiva si articola in quattro orientamenti:   
-a) orientamento di sanita' pubblica;   
-b) orientamento di laboratorio;   
-c) orientamento di igiene e tecnica ospitaliera;   
-d) orientamento di igiene e medicina scolastica.   
-  
-Art. 197. - La scuola ha la durata di tre anni.   
-  
-Art. 198. - L'iscrizione alla scuola e' limitata:   
-a) a non piu' di trenta iscritti per anno al corso con orientamento di sanita' pubblica;   
-b) a non piu' di quindici iscritti per anno al corso con orientamento di laboratorio;   
-c) a non piu' di quindici iscritti per anno al corso con orientamento di igiene e tecnica ospitaliera;   
-d) a non piu' di quindici iscritti per anno al corso con orientamento di igiene e medicina scolastica.   
-  
-Art. 199. - Non sono consentite abbreviazioni di corso.   
-  
-Art. 200. - Le materie di insegnamento sono:   
-  
-1° Anno:   
-1) Metodologia statistica e biometria;   
-2) Educazione sanitaria:   
-3) Psicologia;   
-4) Microbiologia;   
-5) Parassitologia;   
-6) Epidemiologia e profilassi generale.   
-  
-2° Anno:   
-1) Patologia e clinica delle malattie infettive;   
-2) Epidemiologia e profilassi delle malattie infettive;   
-3) Patologia e clinica delle malattie non infettive di importanza sociale;   
-4) Epidemiologia e profilassi delle malattie non infettive di importanza sociale;   
-5) Demografia e statistica sanitaria;   
-6) Legislazione e organizzazione sanitaria.   
-  
-3° Anno (con orientamento di sanita' pubblica):   
-1) Approvvigionamento idrico; raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici;   
-2) Igiene edilizia e urbanistica;   
-3) Igiene dell'alimentazione;   
-4) Igiene e medicina scolastica;   
-5) igiene ospitaliera;   
-6) Servizi di sanita' pubblica.   
-  
-3° Anno (con orientamento di laboratorio):   
-1) Microscopia applicata all'igiene;   
-2) Microbiologia applicata all'igiene;   
-3) Chimica clinica;   
-4) Accertamento diagnostico delle malattie batteriche e parassitarie;   
-5) Accertamento diagnostico delle infezioni virali;   
-6) Nozioni di anatomia e istologia patologica.   
-  
-3° Anno (con orientamento di igiene e tecnica (o direzione) ospitaliera):   
-1) Storia degli ospedali e principi metodologici dell'assistenza ospedaliera;   
-2) Igiene e tecnica delle costruzioni ospedaliere, arredamento ed impianti sanitari;   
-3) Organizzazione e funzione degli ospedali generali e speciali;   
-4) Diritto amministrativo e legislazione ospitaliera;   
-5) Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera;   
-6) Selezione e istruzione professionale del personale ospedaliero;   
-7) Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.   
-  
-3° Anno (con orientamento di igiene e medicina scolastica):   
-1) Auscologia normale patologica;   
-2) Epidemiologia e profilassi delle malattie dell'eta' scolare;   
-3) Servizi di medicina scolastica;   
-4) Elementi di psicologia e pedagogia dell'eta' scolare;   
-5) Igiene dell'alimentazione;   
-6) Assistenza parascolastica;   
-7) Edilizia scolastica.   
-  
-Materie complementari:   
-  
-Ciascun specializzando scegliera', per ogni anno di corso, una sola delle seguenti materie complementari:   
-1) Ispezione delle carni;   
-2) Geologia applicata all'igiene;   
-4) Malattie professionali e loro prevenzione;   
-5) Diritto sanitario;   
-6) Igiene navale e dell'emigrazione;   
-7) Antropologia culturale e sociologica;   
-8) Malattie tropicali;   
-9) Istituzioni di matematica;   
-10) Genetica;   
-11) Gerontologia;   
-12) Elementi di economia politica.   
-  
-Gli articoli da 204 a 211, relativi alla "Scuola di specializzazione in medicina ed igiene scolastica", sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.   
-Dopo l'art. 265, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della "Scuola di specializzazione in malattie dell'apparato cardiovascolare".   
-  
-Scuola di specializzazione in malattie dell'apparato cardiovascolare   
-Art. 266. - La scuola ha la durata di tre anni.   
-Il numero degli iscritti e stabilito in tre ogni anno di corso.   
-  
-Art. 267. - Le materie di insegnamento sono le seguenti:   
-  
-1° Anno:   
-1) Anatomia normale dell'apparato cardio-vascolare:   
-2) Fisiologia dell'apparato cardio-vascolare e respiratorio;   
-3) Fisiopatologia cardio-vascolare e respiratoria (1° corso);   
-4) Patologia cardio-vascolare (1° corso);   
-5) Semeiologia fisica (1° corso);   
-6) Semeiologia strumentale (1° corso);   
-7) Microbiologia (facoltativo);   
-8) Metabolismo del miocardio (facoltativo).   
-  
-2° Anno:   
-1) Fisiopatologia cardio-vascolare e respiratoria (2° corso);   
-2) Patologia cardio-vascolare (2° corso);   
-3) Semeiologia fisica (2° corso);   
-4) Semeiologia strumentale (2° corso);   
-5) Anatomia patologica dell'apparato cardio-vascolare (1° corso);  
-6) Radiologia;   
-7) Farmacologia;   
-8) Clinica e terapia (I° corso);   
-  
-3° Anno:   
-1) Anatomia patologica dell'apparato cardio-vascolare (2° corso);  
-2) Clinica e terapia (2° corso);   
-3) Chirurgia dell'apparato cardio-vascolare;   
-4) Problemi assicurativi e sociali (facoltativo);   
-5) Statistica (facoltativo).   
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 27. - All'elenco degli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di:  
+Gerontologia e Geriatria;  
+Chirurgia plastica;  
+Ottica fisiologica;  
+Parassitologia medica;  
+Neurochirurgia.  
+Dopo l'art. 167, e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in tisiologia.  
+Scuola di specializzazione in tisiologia  
+Art. 168. - E' istituita la Scuola di specializzazione in tisiologia. La Scuola e' sottoposta alle regolamentazioni generali fissate dallo statuto delle Scuole di specializzazione annesse alla Facolta' di medicina e chirurgia della Universita' degli studi di Parma.  
+Art. 169. - La Scuola ha la durata di due anni.  
+L'iscrizione per ogni anno accademico e' limitata a numero dieci allievi.  
+Art. 170. - Sono ammessi i laureati in Medicina e chirurgia.  
+Art. 171. - Le materie di insegnamento sono:  
+Primo anno:  
+1) Patologia e clinica della tubercolosi polmonare;  
+2) Anatomia patologica della tubercolosi polmonare ed estrapolmonare;  
+3) Fisiopatologia dell'apparato respiratorio;  
+4) Diagnostica radiologica;  
+5) Microbiologia.  
+Secondo anno:  
+1) Clinica, e terapia delle malattie tubercolari;  
+2) Diagnostica differenziale delle malattie dell'apparato respiratorio;  
+3) Fisiopatologia dell'apparato respiratorio;  
+4) Broncologia e tecniche broncologiche;  
+5) Igiene e legislazione sociale.  
+Art. 172. - I corsi sono integrati da turni di esercitazione riguardanti la diagnostica clinica, la terapia, le tecniche di laboratorio e da cicli di conferenze fissate anno per anno dal direttore della Scuola.  
+Art. 173. - Gli allievi sono tenuti a seguire le lezioni teoriche, le esercitazioni, i turni di internato stabiliti dal direttore della Scuola.  
+Art. 174. - Alla fine del primo ed alla fine del secondo anno gli allievi dovranno sostenere un esame unico su tutte le materie di insegnamento ed un esame finale di diploma con dissertazione scritta su argomento assegnato dal direttore della Scuola o da uno degli insegnanti.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 ottobre 1973
+### Dato a Roma, addi' 7 ottobre 1963
 
-LEONE MALFATTI
+SEGNI GUI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 28 ottobre 1974
+Registrato alla Corte dei conti, addi' 2 novembre 1963
 
-Atti di Governo, registro n. 6, foglio n. 49. - SCIARRETTA
+Atti del Governo, registro n. 175, foglio n. 113. - VILLA

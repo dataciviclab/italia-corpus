@@ -1,11 +1,111 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1971 n. 1138
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 settembre 1969 n. 725
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1971 n. 1138
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 settembre 1969 n. 725
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 132, relativo all'elenco delle scuole di specializzazione che rilasciano diplomi di specialita' nelle discipline professionali medico-chirurgiche e' modificato nel senso che la denominazione della scuola di specializzazione in "Medicina legale" e' cambiata in quella di scuola di specializzazione in "Medicina legale e delle assicurazioni".
+
+L'art. 200, relativo alla scuola di specializzazione in medicina legale e' abrogato e sostituito dal seguente:
+
+Scuola di specializzazione in medicina legale e delle assicurazioni
+
+Art. 200. - La durata del corso e' di tre anni. Il numero degli iscritti alla scuola e' fissato ad un massimo di cinque per ciascun anno di corso, per un totale di quindici specializzandi. Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni e le esercitazioni, nonche' di prestare servizio di medico interno per almeno sei mesi per ciascun anno.
+
+Al termine di ogni anno gli iscritti sosterranno gli esami di profitto sulle singole materie di insegnamento.
+
+Lo specializzando che non abbia superato tutti gli esami dell'anno frequentato non potra' essere iscritto all'anno successivo.
+
+L'esame di diploma consistera' in una dissertazione scritta su un argomento di medicina legale o di medicina delle assicurazioni.
+
+I candidati non riconosciuti idonei all'esame di diploma, si potranno ripresentare dopo un altro anno di frequenza alla scuola; se al secondo esame non sara' riconosciuta la loro idoneita' verranno senz'altro esclusi da ulteriori prove.
+
+Le materie di insegnamento sono:
+
+1° Anno:
+
+Medicina legale generale;
+
+Elementi di diritto pubblico e privato;
+
+Tecnica e diagnostica anatomo-patologica generale e medico-legale;
+
+Traumatologia medico-legale;
+
+Semeiotica medico-legale.
+
+2° Anno:
+
+Medicina legale penalistica;
+
+Deontologia medica;
+
+Neuropsichiatria medico-legale;
+
+Elementi di medicina criminologica e di medicina penitenziaria;
+
+Indagini di sopralluogo;
+
+Identificazione personale.
+
+3° Anno:
+
+Medicina legale civilistica e canonistica;
+
+Tossicologia medico-legale;
+
+Tecniche di laboratorio medico-legale e di ematologia forense;
+
+Ostetricia e ginecologia forensi;
+
+Elementi di legislazione del lavoro;
+
+Elementi di medicina del lavoro;
+
+Medicina delle assicurazioni;
+
+Medicina legale militare e pensionistica civile.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 4 settembre 1969
+
+SARAGAT
+
+FERRARI AGGRADI
+
+Visto, il Guardasigilli: GAVA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 27 ottobre 1969 Atti del Governo, registro n. 229, foglio n. 138. - CARUSO
 
 Art. 1
 ------
@@ -16,7 +116,6 @@ Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio d
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
@@ -25,69 +124,49 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 132, relativo all'elenco delle scuole di specializzazione che rilasciano diplomi di specialita' nelle discipline professionali medico-chirurgiche e' modificato nel senso che la denominazione della scuola di specializzazione in "Medicina legale" e' cambiata in quella di scuola di specializzazione in "Medicina legale e delle assicurazioni".   
+L'art. 200, relativo alla scuola di specializzazione in medicina legale e' abrogato e sostituito dal seguente:   
   
-Art. 60. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:   
-  
-Orticoltura;   
-Malerbologia (semestrale);   
-Entomologia forestale (semestrale);   
-Metodologie di lotta biologica e integrata (semestrale);   
-Chimica biologica;   
-Tecnologie degli allevamenti zootecnici (semestrale);   
-Neuroendocrinologia della lattazione (semestrale);   
-Meccanizzazione agricola (semestrale);   
-Elettrificazione agricola (semestrale);   
-Fondamenti di idrotecnica per l'agricoltura;   
-Idraulica applicata e tecnica dell'irrigazione (semestrale);   
-Sociologia rurale (semestrale);   
-Ordinamento e gestione dell'azienda agraria;   
-Pianificazione e organizzazione del territorio;   
-Inquinamento dell'ambiente agrario (semestrale);   
-Storia dell'agricoltura;   
-Metodologia e statistica sperimentale;   
-Fisica tecnica;   
-Disegno tecnico e materiali (semestrale);   
-Virologia (semestrale);   
-Microbiologia lattiero-casearia (semestrale);   
-Operazioni fondamentali di industrie alimentari;   
-Tecnologia delle bevande alcooliche (semestrale);   
-Chimica e tecnologia del latte (semestrale);   
-Ergotecnica ed organizzazione aziendale (semestrale);   
-Contabilita' aziendale (semestrale);   
-Cooperazione (semestrale).   
-  
-Art. 66. - All'elenco degli insegnamenti complementari del corso di laurea in scienze delle preparazioni alimentari sono aggiunti i seguenti:   
-  
-Microbiologia alimentare e analisi microbica degli alimenti;   
-Parassitologia animale e difesa degli alimenti (semestrale);   
-Biochimica degli alimenti;   
-Biochimica industriale (semestrale);   
-Tecnologia del condizionamento e della distribuzione;   
-Detergenza e approvvigionamento dell'acqua (semestrale);   
-Esercitazioni di analisi chimica dei prodotti alimentari;   
-Esercitazioni di analisi chimica quantitativa;.   
-Metodologia e statistica sperimentale;   
-Fisica tecnica;   
-Disegno tecnico e materiali (semestrale);   
-Virologia (semestrale);   
-Microbiologia lattiero-casearia (semestrale);   
-Operazioni fondamentali di industrie alimentari;   
-Tecnologia delle bevande alcooliche (semestrale);   
-Chimica e tecnologia del latte (semestrale);   
-Ergotecnica ed organizzazione aziendale (semestrale);   
-Contabilita' aziendale (semestrale);   
-Cooperazione (semestrale).   
+Scuola di specializzazione in medicina legale e delle assicurazioni   
+Art. 200. - La durata del corso e' di tre anni. Il numero degli iscritti alla scuola e' fissato ad un massimo di cinque per ciascun anno di corso, per un totale di quindici specializzandi. Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni e le esercitazioni, nonche' di prestare servizio di medico interno per almeno sei mesi per ciascun anno.   
+Al termine di ogni anno gli iscritti sosterranno gli esami di profitto sulle singole materie di insegnamento.   
+Lo specializzando che non abbia superato tutti gli esami dell'anno frequentato non potra' essere iscritto all'anno successivo.   
+L'esame di diploma consistera' in una dissertazione scritta su un argomento di medicina legale o di medicina delle assicurazioni.   
+I candidati non riconosciuti idonei all'esame di diploma, si potranno ripresentare dopo un altro anno di frequenza alla scuola; se al secondo esame non sara' riconosciuta la loro idoneita' verranno senz'altro esclusi da ulteriori prove.   
+Le materie di insegnamento sono:   
+1° Anno:   
+Medicina legale generale;   
+Elementi di diritto pubblico e privato;   
+Tecnica e diagnostica anatomo-patologica generale e medico-legale;   
+Traumatologia medico-legale;   
+Semeiotica medico-legale.   
+2° Anno:   
+Medicina legale penalistica;   
+Deontologia medica;   
+Neuropsichiatria medico-legale;   
+Elementi di medicina criminologica e di medicina penitenziaria;  
+Indagini di sopralluogo;   
+Identificazione personale.   
+3° Anno:   
+Medicina legale civilistica e canonistica;   
+Tossicologia medico-legale;   
+Tecniche di laboratorio medico-legale e di ematologia forense;   
+Ostetricia e ginecologia forensi;   
+Elementi di legislazione del lavoro;   
+Elementi di medicina del lavoro;   
+Medicina delle assicurazioni;   
+Medicina legale militare e pensionistica civile.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1971
+### Dato a Roma, addi' 4 settembre 1969
 
-SARAGAT MISASI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 22 dicembre 1971
+Registrato alla Corte dei conti, addi' 27 ottobre 1969
 
-Atti del Governo, registro n. 245, foglio n. 137. - VALENTINI
+Atti del Governo, registro n. 229, foglio n. 138. - CARUSO

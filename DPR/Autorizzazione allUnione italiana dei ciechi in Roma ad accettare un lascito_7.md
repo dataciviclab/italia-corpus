@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 luglio 1978 n. 553
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 dicembre 1981 n. 1008
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 luglio 1978 n. 553
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 dicembre 1981 n. 1008
+================================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un lascito.
 --------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-553. Decreto del Presidente della Repubblica 20 luglio 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare, col beneficio d'inventario, il lascito disposto dalla sig.ra Oltramonti Maria ved. Lutta con testamento olografo 20 marzo 1968, pubblicato a rogito dott. Guido Poillucci, notaio in Trieste, in data 7 febbraio 1973, n. 17915 di repertorio e n. 2297 di raccolta, registrato a Trieste in data 10 febbraio 1973, n. 948, mod. I, vol. 169, consistente nella quota di 1/14 di libretti di deposito a risparmio vari, monete d'oro varie, assegni postali e suppellettili per un valore presunto di L. 1.593.033.  
+1008. Decreto del Presidente della Repubblica 15 dicembre 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare, col beneficio d'inventario, il lascito consistente nella nuda proprieta' di beni immobili siti in Mestre (Venezia), per un valore di L. 43.725.000, disposto dal sig. Maldari Michele a favore dell'Associazione nazionale ciechi di Treviso, che si identifica con l'Associazione italiana dei ciechi come risulta dalla [delibera 3 gennaio 1974, n. 41](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1974-01-03;41) del presidente dell'U.I.C., con testamento olografo 18 settembre 1972, pubblicato a rogito dott. Giovanni Candiani, notaio in Venezia, in data 29 novembre 1972, n. 43418 di repertorio, registrato a Venezia il 18 dicembre 1972 al n. 6969 vol. 27.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 13 settembre 1978  
-Registro n. 6 Presidenza, foglio n. 286
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 24 febbraio 1982  
+Registro n. 2 Presidenza, foglio n. 178

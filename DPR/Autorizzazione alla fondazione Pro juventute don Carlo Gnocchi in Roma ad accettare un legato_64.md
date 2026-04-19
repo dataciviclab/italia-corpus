@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 502
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 dicembre 1982 n. 1117
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 502
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 dicembre 1982 n. 1117
+================================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-502. Decreto del Presidente della Repubblica 27 giugno 1983, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un libretto a risparmio di L. 2.286.442, disposto dalla sig.ra Zappa Petronilla ved. Cavagnoli con testamento olografo 18 ottobre 1973, pubblicato in data 28 gennaio 1980, numero 52767/12496 di repertorio, a rogito dott. Paolo Consolandi, notaio in Milano, registrato a Milano il 1 febbraio 1980 al n. A/2-02968.   
+1117. Decreto del Presidente della Repubblica 16 dicembre 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un appartamento sito in La Spezia, via Migliari, 35, distinto nel nuovo catasto edilizio urbano alla partita 15188, foglio 31, mappale 231, valore peritale L. 40.000.000 elevato dall'ufficio tecnico erariale di La Spezia a L. 58.000.000, disposto a favore dell'opera "don Gnocchi", che si identifica con la fondazione medesima come si evince dal verbale in data 28 novembre 1980 del consiglio di amministrazione, disposta dal sig. Pittaluga Gennaro con testamento olografo 5 settembre 1978, pubblicato in data 3 ottobre 1980, n. 22394/1512 di repertorio, a rogito dott.ssa Marialuisa Masetti, notaio in Cassano d'Adda, registrato a Milano in data 8 ottobre 1980, al n. A/4-23337/7M.  
   
-Visto, il Guardasigilli: DARIDA   
-Registrato alla Corte dei conti, addi' 19 settembre 1983   
-Registro n. 7 Presidenza, loglio n. 329
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 18 febbraio 1983  
+Registro n. 2 Presidenza, foglio n. 64

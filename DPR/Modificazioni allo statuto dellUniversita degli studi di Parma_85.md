@@ -1,75 +1,56 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1982 n. 993
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1974 n. 659
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1982 n. 993
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1974 n. 659
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Panna e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Parma, approvato e modificato con i decreti sopraindicati, ulteriormente modificato come appresso:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Nell'art. 84, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-lingua inglese.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Parma approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Nell'art. 136, relativo al corso di laurea in farmacia, e' aggiunto il seguente nuovo comma:  
+Decreta:  
   
-Possono inoltre essere scelti tutti gli insegnamenti complementari del corso di laurea in chimica e tecnologia farmaceutiche non in comune ai due corsi di laurea.  
-
-Art. 3
-------
-
+Lo statuto dell'Universita' degli studi di Parma approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 33 - all'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti:  
   
-Nell'art. 144, relativo all'elenco degli istituti annessi alla facolta' di medicina veterinaria, ai sensi dell'[art. 88 della legge 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;382~art88), sono aggiunti i seguenti nuovi istituti polidisciplinari:  
-istituto di biologia molecolare;  
-istituto di economia rurale e zooeconomia;  
-istituto di informatica e biomatematica;  
-istituto di radiologia sperimentale veterinaria.  
+Economia aziendale;  
+Economie delle aziende pubbliche;  
+Economia delle aziende dei pubblici servizi;  
+Economia internazionale;  
+Economia del lavoro;  
+Economia monetaria e creditizia;  
+Economia politica (3° anno);  
+Economia pubblica;  
+Economia regionale;  
+Politica economica e finanziaria (2° anno);  
+Tecnica dei crediti speciali;  
+Tecnica industriale e commerciale (2° anno);  
+Teoria dei costi di produzione e contabilita' industriale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 settembre 1982
+### Dato a Roma, addi' 28 ottobre 1974
 
-PERTINI BODRATO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 10 gennaio 1983
+Registrato alla Corte dei conti, addi' 7 dicembre 1974
 
-Registro n. 1 Istruzione, foglio n. 5
+Atti di Governo, registro n. 7, foglio n. 74. - SCIARRETTA

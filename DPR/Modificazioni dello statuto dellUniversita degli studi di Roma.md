@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 agosto 1956 n. 1112
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1949 n. 882
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 agosto 1956 n. 1112
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1949 n. 882
+=============================================================
 
 Modificazioni dello statuto dell'Universita' degli studi di Roma.
 -----------------------------------------------------------------
@@ -10,85 +10,100 @@ Modificazioni dello statuto dell'Universita' degli studi di Roma.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con regio decreto 20 aprile n. 1350, e modificato con i [regi decreti 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-26;1734); [26 ottobre 1940, n. 2069](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2069); [4 maggio 1942, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-05-04;565); [24 luglio 1942, n. 949](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-24;949); [24 agosto 1942, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-08-24;1098); [24 ottobre 1942, n. 1672; con decreto luogotenenziale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo.luogotenenziale:1942-10-24;1672) [8 febbraio 1946, n. 242; con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-02-08;242) [12 aprile 1947, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-12;461), e [31 dicembre 1947, n. 1758 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1758) [24 dicembre 1948, n. 1619](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-12-24;1619); [18 luglio 1949, n. 882](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-07-18;882); [20 ottobre 1949, n. 989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;989); [20 ottobre 1949, n. 991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;991); [20 ottobre 1949, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;1178); [30 ottobre 1949, n. 1152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1152); [11 giugno 1950, n. 622](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;622); [16 novembre 1950, n. 1313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-11-16;1313); [11 maggio 1951, n. 653](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-05-11;653); [27 ottobre 1951, n. 1813](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1813); [14 aprile 1952, n. 888](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-04-14;888); [16 agosto 1952, n. 2589](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-08-16;2589); [19 settembre 1952, n. 1697](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-19;1697); [11 marzo 1953, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;565); [12 maggio 1953, n. 570](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-05-12;570); [25 agosto 1953, n. 834](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;834); [26 ottobre 1954, n. 1232](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-26;1232); [12 febbraio 1955, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-12;34); [30 giugno 1955, n. 694](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-06-30;694); [19 luglio 1955, n. 760](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-19;760); [27 luglio 1955, n. 784](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-27;784); [27 agosto 1955, n. 898](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-08-27;898); [25 settembre 1955, n. 931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-25;931); [21 settembre 1955, n. 951](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-21;951) e [4 ottobre 1955, n. 962](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-10-04;962);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Visto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 14 ottobre 1926, n. 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2).319, e modificato con i [regi decreti 13 ottobre 1927, n. 2819](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2819); [20 settembre 1928, n. 3018](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-09-20;3018); [31 ottobre 1929, n. 2483](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2483); [30 ottobre 1930, n. 1828](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1828); [1 ottobre 1931, n. 1329](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-01;1329); [22 ottobre 1931, n. 1754](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-22;1754); [22 ottobre 1932, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-10-22;2090); [26 ottobre 1933, n. 2391](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-26;2391); [27 dicembre 1934, n. 2419](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-12-27;2419); [1 ottobre 1936, n. 2498](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;2498); 217 ottobre 1937, n. 2619; 20 aprile 1939, n. 1350 26 ottobre 1939, n. 1734; 26 ottobre 1940, n. 2069; 4 maggio 1942, n. 565; 24 luglio 1942, n. 964; 21 agosto 1942, n. 1098; 24 ottobre 1942, n. 1672: e con i [decreti del Capo provvisorio dello Stato 12 febbraio 1947, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-12;461) e [31 dicembre 1947, n. 1738](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-12-31;1738);   
+Visto il testo Unico delle leggi sull'istruziome superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Visto il [regio decreto 30 settembre 1938, n. 1632](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1632) e successive modificazioni;   
+Viste le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 73. - All'elenco degli Istituti annessi alla Facolta' di medicina e chirurgia e' aggiunto quello di "reumatologia".  
-Dopo l'art. 389 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione delle scuole di perfezionamento in "malattie del fegato e del ricambio" ed in "endocrinologia e medicina costituzionale" e del corso di perfezionamento in "igiene e tecnica ospedaliera" con il conseguente spostamento della numerazione degli articoli successivi.  
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato dai decreti sopraindicati e' ulteriormente modificato come appresso:   
+Dopo l'art. 372 vengono inseriti i seguenti articoli col conseguente spostamento della numerazione degli articoli successivi:   
   
-Scuola di perfezionamento in malattie del fegato e del ricambio.  
-  
-Art. 390. - Il corso degli studi della scuola di perfezionamento in malattie del fegato e del ricambio ha la durata di due anni.  
-Art. 391. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
-1) Anatomia e istologia normale e patologica del fegato e delle vie biliari;  
-2) Fisiopatologia del fegato e del ricambio intermedio;  
-3) Clinica medica generale (biennale);  
-4) Malattie del fegato e delle vie biliari (biennale);  
-5) Malattie del ricambio;  
-6) Nozioni di microbiologia e parassitologia;  
-7) Diagnostica funzionale delle malattie del fegato e del ricambio;  
-8) Controllo radiologico del fegato e delle vie biliari;  
-9) Principi di terapia generale e dietetica applicati alle malattie del fegato e del ricambio;  
-10) Terapia chirurgica delle malattie del fegato e del ricambio;  
-11) Terapia idrologica delle malattie del fegato e del ricambio.  
-Art. 392. - L'ordine degli studi (distribuzione degli insegnamenti nei due anni di corso) e l'ordine e le modalita' degli esami verranno stabiliti nel manifesto annuale.  
-Art. 393. - A coloro che avranno superato l'esame di diploma ed una prova pratica stabilita dalla Commissione esaminatrice, verra' rilasciato il diploma di specialista in malattie del fegato e del ricambio.  
-  
-Scuola di perfezionamento in endocrinologia e medicina costituzionale.  
-  
-Art. 394. - Il corso degli studi della scuola di perfezionamento in endocrinologia e medicina costituzionale ha la durata di due anni.  
-Art. 395. - Gli insegnamenti impartiti sono i seguenti:  
-1) Anatomia e psicologia endocrina;  
-2) Biochimica e farmacodinamica endocrina;  
-3) Biotipologia umana ed auxologia;  
-4) Patologia speciale endocrina;  
-5) Diagnostica e semeiotica endocrina;  
-6) Genetica morbosa e malattie costituzionali;  
-7) Terapia endocrina chimica, radiologica chirurgica.  
-Art. 396. - L'ordine degli studi (distribuzione degli insegnamenti nei due anni di corso) e l'ordine e modalita' degli esami di profitto verranno stabiliti nel manifesto annuale.  
-Art. 397. A coloro che avranno superato l'esame di diploma, verra' rilasciato il diploma di specialista in endocrinologia e medicina costituzionale.  
-  
-Corso di perfezionamento in igiene e tecnica ospedaliera.  
-  
-Art. 398. - Il corso ha la finalita' di preparare un personale tecnico specificatamente idoneo per la direzione sanitaria degli ospedali e per l'edilizia ospedaliera.  
-Art. 399. - Il corso ha la durata di un anno.  
-Art. 400. - Le materie d'insegnamento sono:  
-1) Storia e metodologia dell'assistenza sanitaria;  
-2) Igiene generale applicata all'ambiente ospedaliero;  
-3) Micrografia, batteriologia, chimica e fisica applicata;  
-4) Epidemiologia e profilassi generali;  
-5) Architettura ed edilizia ospedaliera;  
-6) Organizzazione funzionale degli ospedali;  
-7) Tecnologia delle attrezzature ospedaliere;  
-8) Igiene dell'alimentazione e dietetologia ospedaliera;  
-9) Selezione e formazione del personale ospedaliero;  
-10) Statistica ospedaliera;  
-11) Legislazione e prassi giuridica ed amministrativa dell'assistenza ospedaliera;  
-12) Tecnica e metodologia direzionale (deontologia, psicologia, didattica).  
-Art. 401. - Al corso saranno ammessi i laureati in medicina e chirurgia, ingegneria, architettura che dovranno corrispondere le stesse tasse, soprattasse e contributi fissati per le scuole di perfezionamento e di specializzazione della Facolta' di medicina e chirurgia.  
-Art. 402. - Al termine del corso verra' rilasciato un certificato di frequenza e di esami.  
+Scuola di perfezionamento in anestesia.   
+Art. 373. - La "Scuola di perfezionamento in anestesia" ha per fine di promuovere lo studio della anestesia sia dal punto di vista scientifico che di quello tecnico.   
+La Scuola conferisce un diploma di perfezionamento in anestesia.   
+Art. 374. - Alla Scuola possono iscriversi laureati in medicina italiani e stranieri.   
+Il corso ha la durata di due anni.   
+La sede della Scuola e' presso la clinica chirurgica dell'Universita' di Roma.   
+Il direttore della Scuola puo' nominare un vice direttore che lo coadiuvi e lo supplisca, ed un segretario.   
+Art. 375. - Gli insegnamenti impartiti dalla Scuola sino:   
+1) parte teorica. Consistera' di un numero complessivo di cinquanta lezioni da impartirsi nel corso di due anni accademici;   
+a) primo anno:   
+anatomia per l'anestesista (cinque lezioni) fisiologia e fisiopatologia per l'anestesista (cinque lezioni);   
+chimica per l'anestesista (tre lezioni);   
+farmacologia per l'anestesista, (quattro lezioni);   
+b) secondo anno:   
+storia dell'anestesia;   
+le teorie sulla anestesia;   
+i segni dell'anestesia;   
+indicazioni per l'anestesia generale e locale;   
+la premedicazione;   
+l'anestesia per inalazioni (tre lezioni);   
+l'anestesia endotracheale;   
+l'anestesia in circuito chiuso;   
+l'anestesia endovenosa (due lezioni);   
+l'anestesia endorachidea, peri ed epidurale;   
+l'anestesia locale (tre lezioni);   
+l'anestesia del simpatico e del vago;   
+l'anestesia in odontoiatria;   
+l'anestesia per le operazioni sul collo;   
+l'anestesia per la chirurgia toracica;   
+l'anestesia per la chirurgia addominale;   
+l'anestesia in ginecologia e ostetricia;   
+l'anestesia in urologia;   
+l'anestesia in ortopedia;   
+la preparazione dell'ammalato;   
+il trattamento post-operatorio;   
+il curaro ed i preparati curarosimili;   
+gli apparecchi per l'anestesia;   
+accidenti e complicazioni;   
+le ostruzioni respiratorie;   
+la resuscitazione;   
+la broncoscopia;   
+l'analgesia.   
+2) parte pratica. Verra' svolta nel periodo ottobre-maggio di ogni anno. Durata anni due.   
+Art. 376. - Gli esami da, superare sono i seguenti:   
+per il primo anno. Consistono in una prova scritta, ed in una orale.   
+Per lo scritto sono concesse cinque ore. Vertera' su:   
+1) la tisiologia, la farmacologia, la chimica, la fisica indispensabili per l'anestesista;   
+2) l'anatomia indispensabile per l'anestesista.   
+Il programma d'esamine nei dettagli e' il seguente:   
+a) Anatomia applicata all'anestesia con particolare riguardo all'angiologia, al sistema nervoso periferico, al sistema nervoso simpatico ed alla topografia delle parti ove piu' frequentemente viene praticata l'introduzione di anestetici;   
+b) Fisiologia"Sistema circolatorio". Origine e conduzione dell'impulso cardiaco; vascomotilita'; turbe del sistema cardiovascolare susseguenti a traumi, ecc. Composizione, formazione e funzione del sangue e dei liquidi interstiziali. Determinazione del volume del sangue;   
+c) Fisiologia "Sistema respiratorio". La fisiologia dell'anoxia e gli effetti delle turbe dell'equilibrio acidobasico. Il meccanismo della respirazione, la funzione respiratoria, del sangue;   
+d) Fisiologia. "Sistema nervoso". Struttura e funzione del cervello e del midollo. Fisiologia della sensibilita'. La condizione neuromuscolare. La sensibilita' viscerale. Il sistema nervoso autonomo. La trasmissione citoneuronica e transneuronica. La sinapsi.   
+La formazione e le funzioni del liquido cerebro-spinale. Adrenergia e colinergia;   
+e) Fisiologia. I principi generali del metabolismo e della nutrizione;   
+f) Fisiologia. "Sistema endocrino". Fisiologia delle ghiandole interne e degli organi della riproduzione. La funzione renale ed epatica. il ricambio idrico e salino. La termoregolazione;   
+g) Patologia. Degenerazione. Infiammazione. Reazione.  
+Rigenerazione. La febbre. Infezione. Resistenza. Immunita'. La batteriologia delle infezioni chirurgiche;   
+h) Patologia. "Sistema circolatorio". Le torbe susseguenti a traumi, ecc. Lo choc ed il suo trattamento. Le modificazioni del sangue;   
+i) Patologia. "Sistema respiratorio". Le turbe susseguenti a traumi, ecc.;   
+l) Patolgia. "Apparato uropoietico". Le turbe conseguenti a traumi, malattie, ecc.   
+m) Patologia. "Sistema nervoso". Gli effetti dei traumi e delle malattie. La patologia del liquido cerebro-spinale. I nervi periferici e la loro patologia. La rigenerazione nervosa. La patologia del sistema nervoso autonomo. La patologia delle ghiandole a secrezione interna.   
+n) Farmacologia. Anestetici. Analgesici. Ipnotici. Con particolare riguardo all'azione di questi sui sistemi nervoso-autonomo e cardiovascolare.   
+Per il secondo anno. Saranno ammessi al secondo anno di corso soltanto coloro che avranno superato l'esame del primo anno. Gli esami consisteranno in una prova scritta, in una orale ed in una tecnica. Per la prova scritta sono concesse cinque ore. Essa vertera' su "L'anestesia e l'analgesia".   
+Il programma d'esame per il secondo anno nei dettagli sara' quello indicato alla lettera b) dell'art. 375.   
+Art. 377. - L'esame di diploma si svolge con le norme dell'art.  
+302.   
+Art. 378. - Le spese relative al funzionamento della predetta Scuola di anestesia saranno a carico del bilancio ordinario dell'Universita' di Roma.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di ossevarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 agosto 1956
+### Dato a Roma addi' 18 luglio 1949
 
-GRONCHI ROSSI
+EINAUDI GONELLA
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: GRASSI
 
-Registrato alla Corte dei conti, addi' 26 settembre 1956
+Registrato alla Corte dei conti, addi' 6 dicembre 1949
 
-Atti del Governo, registro n. 100, foglio n. 199. - CARLOMAGNO
+Atti del Governo, registro n. 30, foglio n. 109. - FRASCA

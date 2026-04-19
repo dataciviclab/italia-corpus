@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 687
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1985 n. 865
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 687
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1985 n. 865
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
@@ -39,22 +39,21 @@ Articolo unico
 --------------
 
   
-Nell'art. 71, relativo al corso di laurea in economia e commercio, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-diritto sindacale italiano e comparato;  
-sociologia dei fenomeni politici;  
-storia dei movimenti e dei partiti politici;  
-macroeconomia.  
+Nell'art. 41, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
+bioingegneria.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 maggio 1983
+### Dato a Roma, addi' 7 ottobre 1985
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 7 dicembre 1983
+Registrato alla Corte dei conti, addi' 21 gennaio 1986
 
-Registro n. 75 Istruzione, foglio n. 285
+Registro n. 2 Istruzione, foglio n. 88

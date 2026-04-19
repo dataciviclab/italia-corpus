@@ -1,73 +1,72 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 aprile 1986 n. 426
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 febbraio 1955 n. 125
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 aprile 1986 n. 426
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 febbraio 1955 n. 125
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
-
-Veduto il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Nell'art. 59, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-endocrinologia ostetrico-ginecologica;  
-patologia embrio-fetale;  
-fisiopatologia prenatale;  
-chirurgia geriatrica.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regi decreti 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2229); [30 ottobre 1930, n. 1931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1931); [22 ottobre 1931; n. 1463](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-22;1463); [27 ottobre 1932, n. 2079](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2079); [27 dicembre 1934, n. 2435](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-27;2435); [1 ottobre 1936, n. 2472](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2472); [20 aprile 1939, n. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-04-20;1068); [2 ottobre 1940, n. 1470](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-02;1470); [24 novembre 1941, n. 1443; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1941-11-24;1443) [20 novembre 1947, n. 1702 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-11-20;1702), [20 luglio 1948, n. 1161](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-07-20;1161); [31 ottobre 1950, n. 1278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1278); [19 giugno 1951, n. 1093](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-19;1093); [27 ottobre 1951, n. 1805](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1805); [27 ottobre 1951, n. 1806](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1806); [2 agosto 1952, n. 1222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-08-02;1222); [12 maggio 1953, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-05-12;549) e [26 aprile 1954, n. 740](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;740);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Nell'art. 65, relativo al corso di laurea in chimica, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti, distinti secondo gli indirizzi cui afferiscono:  
-Indirizzo organico-biologico:  
-chimica analitica clinica.  
-Indirizzo inorganico chimico-fisico:  
-chimica analitica clinica;  
-complementari di chimica inorganica.  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Art. 24. - Agli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di:  
+7) Storia contemporanea.  
+Art. 27. - Il secondo comma e' sostituito dal seguente:  
+Alla Facolta' e' annesso un Istituto di politica, economica e legislativa.  
+Art. 29. - Agli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:  
+24) Epigrafia latina;  
+25) Lingua e letteratura spagnola;  
+26) Storia contemporanea.  
+Art. 36. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:  
+9) Idrologia medica.  
+Art. 42. - Agli insegnamenti complementari del corso di laurea in fisica e' aggiunto quello di:  
+11) Meccanica superiore.  
+Art. 45. - Agli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti quelli di:  
+19) Chimica biologica;  
+20) Fisiologia vegetale.  
+Il penultimo comma e' sostituito dal seguente:  
+E' inoltre obbligatoria la frequenza (internato) per un biennio al laboratorio scelto per la dissertazione di laurea e per un anno ciascuno ad altri due laboratori diversi da quello scelto per la dissertazione stessa dei quali uno biologico e l'altro abiologico.  
+Sono pure obbligatori un anno di esercitazioni chimiche e un semestre di esercitazioni fisiche oltre le esercitazioni che fanno parte integrante dei corsi.  
+Art. 46. - Agli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti quelli di:  
+16) Microbiologia;  
+17) Zoocolture (bachi, api, avi, coniglicoltura).  
+Dopo il quinto comma e' inserito il seguente:  
+E' inoltre obbligatoria la frequenza (internato) per un biennio al laboratorio scelto per la dissertazione di laurea e per un anno ciascuno ad altri due laboratori diversi da quello scelto per la dissertazione stessa.  
+Art. 47. - Dopo il sesto comma sono inseriti i seguenti:  
+Lo studente non puo' sostenere l'esame di topografia e cartografia se non ha superato quello di istituzioni di matematiche; l'esame di mineralogia se non ha superato quelli di istituzioni di matematiche, di chimica generale ed inorganica con elementi di organica e di fisica sperimentale (biennale); l'esame di geologia se non ha superato quelli di mineralogia, petrografia, paleontologia e geografia fisica; l'esame di geologia applicata se non ha superato quello di geologia.  
+E' obbligatorio nel secondo biennio la frequenza (internato) per un biennio nell'Istituto di geologia o in quello di mineralogia per la preparazione di una dissertazione (tesi) sperimentale di laurea; e la frequenza (internato) per un anno nell'altro dei due suindicati Istituti per la preparazione di una sottotesi sperimentale.  
+Art. 51. - Dopo il settimo comma sono inseriti i seguenti:  
+Laurea in scienze geologiche:  
+1) Discussione della dissertazione sperimentale scritta in geologia o in mineralogia, assegnata durante l'internato, da svolgersi nel secondo biennio di studi.  
+2) Discussione di una sottotesi sperimentale svolta su uno degli argomenti di cui al numero precedente diverso da quello svolto come dissertazione di laurea.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 aprile 1986
+### Dato a Roma, addi' 4 febbraio 1955
 
-COSSIGA
+EINAUDI ERMINI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DE PIETRO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 28 marzo 1955
 
-Registrato alla Corte dei conti, addi' 17 luglio 1986
-
-Registro n. 57 Istruzione, foglio n. 80
+Atti del Governo, registro n. 89, foglio n. 194. - CARLOMAGNO

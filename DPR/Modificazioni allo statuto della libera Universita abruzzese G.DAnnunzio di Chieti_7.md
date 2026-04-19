@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 1146
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979 n. 472
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 1146
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979 n. 472
+=============================================================
 
 Modificazioni allo statuto della libera Universita' abruzzese "G. 
 D'Annunzio" di Chieti.
@@ -11,7 +11,9 @@ D'Annunzio" di Chieti.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto della libera Universita' abruzzese degli studi "G. D'Annunzio" di Chieti approvato con [decreto del Presidente della Repubblica 8 maggio 1965, n. 1007](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-05-08;1007) e modificato con [decreto del Presidente della Repubblica 20 settembre 1966, n. 1291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-09-20;1291), e successive modificazioni;
+Veduto lo statuto della libera Universita' abruzzese "G.
+
+D'Annunzio" di Chieti, approvato con [decreto del Presidente della Repubblica 8 maggio 1965, n. 1007](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-05-08;1007) e modificato con [decreto del Presidente della Repubblica 20 settembre 1966, n. 1291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-09-20;1291), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -19,92 +21,502 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici della libera Universita' abruzzese "G. D'Annunzio" di Chieti e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici della libera Universita' abruzzese degli studi "G. D'Annunzio" di Chieti e convalidati dal Consiglio universitario nazionale nel suo parere;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione di concerto con il Ministro del tesoro;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
---------
 
 Lo statuto della libera Universita' abruzzese "G. D'Annunzio" di Chieti, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Dopo l'art. 107, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in criminologia clinica ed in nefrologia.
+
+Scuola di specializzazione in criminologia clinica
+
+Art. 108. - La scuola di specializzazione in criminologia clinica conferisce il diploma di specialista in criminologia clinica e ha sede presso la cattedra di medicina legale della facolta' di medicina e chirurgia dell'Universita' di Chieti. La scuola e' diretta dal professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, dal professore di ruolo o fuori ruolo di materia affine.
+
+Art. 109. - La scuola ha due indirizzi:
+
+a) indirizzo medico-psicologico e psichiatrico-forense, per i laureati in medicina e chirurgia;
+
+b) indirizzo socio-psicologico, per i laureati in giurisprudenza, scienze politiche, pedagogia, sociologia, psicologia, lettere e filosofia.
+
+Dell'indirizzo seguito viene fatta espressa menzione sul diploma di specializzazione.
+
+La durata del corso della scuola e' di tre anni. La frequenza e' obbligatoria. Non sono consentite abbreviazioni di corso.
+
+Art. 110. - Gli insegnamenti impartiti nella scuola sono i seguenti:
+
+Insegnamenti fondamentali comuni ai due indirizzi:
+
+criminologia generale I;
+
+elementi di diritto;
+
+elementi di sociologia;
+
+elementi di psicologia;
+
+elementi di biologia;
+
+metodologia della ricerca;
+
+criminologia generale II;
+
+criminologia minorile;
+
+trattamento criminologico;
+
+politica criminale e diritto penitenziario.
+
+Insegnamenti fondamentali dell'indirizzo in medico-psicologico e psichiatrico-forense:
+
+psicopatologia generale;
+
+psichiatria clinica;
+
+diagnostica criminologica;
+
+medicina legale e criminalistica;
+
+psicodiagnostica;
+
+neurologia e psichiatria forense;
+
+prevenzione della patologia del comportamento;
+
+tecniche di rieducazione minorile;
+
+legislazione socio-sanitaria.
+
+Insegnamenti fondamentali dell'indirizzo socio-psicologico:
+
+elementi di psico-patologia generale;
+
+elementi di psichiatria clinica forense;
+
+tecniche di servizio sociale;
+
+antropologia culturale;
+
+elementi di medicina legale;
+
+psicologia sociale;
+
+tecniche psicopedagogiche;
+
+sociologia della devianza;
+
+metodi di prevenzione.
+
+Insegnamenti complementari:
+
+antropofenomenologia;
+
+etologia dei comportamenti criminosi;
+
+sociologia del diritto;
+
+psicobiologia;
+
+economia della sicurezza e della difesa sociale;
+
+psicologia e psicopatologia dell'eta' evolutiva;
+
+igiene mentale;
+
+psicoterapia.
+
+1° Anno: (comune ai due indirizzi):
+
+criminologia generale I;
+
+elementi di diritto;
+
+elementi di sociologia;
+
+elementi di psicologia;
+
+elementi di biologia;
+
+metodologia della ricerca;
+
+una materia integrativa a scelta.
+
+2° Anno:
+
+A) INDIRIZZO MEDICO-PSICOLOGICO E PSICHIATRICO-FORENSE:
+
+criminologia generale II;
+
+psicopatologia generale;
+
+psichiatria clinica;
+
+diagnostica criminologica;
+
+medicina legale e criminalistica;
+
+psicodiagnostica;
+
+criminologia minorile;
+
+una materia integrativa a scelta.
+
+B) INDIRIZZO SOCIO-PSICOLOGICO:
+
+criminologia generale II;
+
+elementi di psicopatologia generale;
+
+elementi di psichiatria clinica e forense;
+
+tecniche di servizio sociale;
+
+antropologia culturale;
+
+elementi di medicina legale;
+
+criminologia minorile;
+
+una materia integrativa a scelta.
+
+3° Anno:
+
+A) INDIRIZZO MEDICO-PSICOLOGICO E PSICHIATRICO-FORENSE:
+
+neurologia e psichiatria forense;
+
+prevenzione della patologia del comportamento;
+
+trattamento criminologico;
+
+tecniche di rieducazione minorile;
+
+legislazione socio-sanitaria;
+
+politica criminale e diritto penitenziario;
+
+una materia integrativa a scelta.
+
+B) INDIRIZZO SOCIO-PSICOLOGICO:
+
+psicologia sociale:
+
+tecniche psico-pedagogiche;
+
+sociologia della devianza;
+
+metodi di prevenzione;
+
+trattamento criminologico;
+
+politica criminale e diritto penitenziario;
+
+una materia integrativa a scelta.
+
+Art. 111. - All'atto della domanda di iscrizione a ciascuno dei tre anni di corso l'allievo deve indicare alla segreteria della scuola una materia integrativa da scegliere fra le materie complementari ovvero tra quelle fondamentali appartenenti all'indirizzo al quale non e' iscritto. L'indicazione e' vincolante.
+
+Art. 112. Gli insegnamenti possono essere integrati da esercitazioni pratiche nonche' da conferenze tenute da esperti italiani e stranieri.
+
+Art. 113. - Alla scuola sono ammessi i laureati in medicina e chirurgia, in giurisprudenza, in scienze politiche, in pedagogia, in sociologia, in psicologia, in lettere, in filosofia, in numero complessivo non superiore a settantacinque posti (venticinque per ciascun anno) per i tre anni di corso. L'ammissione alla scuola avviene mediante concorso per esami.
+
+Art. 114. - Gli esami di profitto sono tenuti ogni anno per singole materie o per gruppi di materie.
+
+Per essere ammesso all'esame di diploma l'allievo deve aver sostenuto ventidue esami, dei quali diciannove relativi alle materie fondamentali dell'indirizzo seguito e tre relativi alle materie integrative scelte.
+
+Art. 115. - L'esame di diploma consiste nella discussione di una dissertazione scritta originale, in una delle materie oggetto di insegnamento. Il tema, concordato con il docente, deve essere presentato al direttore della scuola, per l'approvazione, entro trenta giorni dalla data d'inizio dell'ultimo anno di corso.
+
+A coloro che hanno superato l'esame di diploma viene rilasciato il diploma di specialista in criminologia clinica, con la specificazione dell'indirizzo seguito.
+
+Art. 116. - Le norme per l'iscrizione, per gli esami, per le tasse, ecc., sono quelle previste dallo statuto relativo all'ordinamento delle scuole di specializzazione dell'Universita' di Chieti.
+
+Scuola di specializzazione in nefrologia
+
+Art. 117. - La scuola di specializzazione in nefrologia ha sede presso la clinica nefrologica della facolta' di medicina e chirurgia dell'Universita' di Chieti e conferisce il diploma di specialista in nefrologia.
+
+Art. 118. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine, o, in carenza, al professore incaricato della materia.
+
+Art. 119. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+Art. 120. - La durata del corso e' di quattro anni e non e' suscettibile di abbreviazione.
+
+Art. 121. - Il numero massimo degli allievi e' di venti per l'intero corso, cinque per ogni anno di corso.
+
+Art. 122. - L'ammissione al corso avviene per titoli ed esami.
+
+Art. 123. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+struttura ed ultrastruttura normale del rene;
+
+aspetti biochimici della funzione renale;
+
+fisiologia renale;
+
+microbiologia ed immunologia applicata alla nefrologia;
+
+genetica applicata alla nefrologia;
+
+semeiotica renale (1° anno).
+
+2° Anno:
+
+struttura ed ultrastruttura patologica del rene;
+
+patologia del ricambio idroelettrolitico;
+
+insufficienza renale;
+
+rene e ipertensione arteriosa;
+
+semeiotica renale (2° anno);
+
+nefropatie tubulari.
+
+3° Anno:
+
+nefropatie glomerulari;
+
+nefropatie interstiziali;
+
+nefropatie vascolari;
+
+terapia dietetica e dialitica (1° anno);
+
+farmacologia d'interesse nefrologico.
+
+4° Anno:
+
+nefrouropatie calcolotiche, malformative e neoplastiche;
+
+terapia dietetica e dialitica (2° anno);
+
+fisiopatologia e clinica del trapianto renale;
+
+aspetti di nefrologia nell'eta' pediatrica;
+
+problemi chirurgici in nefrologia;
+
+terapia medica delle nefropatie.
+
+Art. 124. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.
+
+Art. 125. - Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in nefrologia, gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+Art. 126. - Le tasse e soprattasse e contributi sono cosi' ripartite:
+
+tassa annuale di iscrizione. . . . . . . . . . . . . . L. 18.000 tassa di immatricolazione. . . . . . . . . . . . . . . L. 5.000 soprattassa annuale per esami di profitto. . . . . . . L. 7.000 contributi generali. . . . . . . . . . . . . . . . . . L. 1.950 contributi di riscaldamento. . . . . . . . . . . . . . L. 7.000 contributi di laboratorio per esercitazioni. . . . . . L. 140.000 libretto di riconoscimento . . . . . . . . . . . . . . L. 1.300 indennita' di schedatura . . . . . . . . . . . . . . . L. 500
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 4 giugno 1979
+
+PERTINI
+
+SPADOLINI
+
+Visto, il Guardasigilli: MORLINO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 19 settembre 1979 Registro n. 68 Istruzione, foglio n. 367
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Nel capo IV, concernente norme relative al personale insegnante, gli articoli 108, 111 e 112 sono abrogati e sostituiti come segue:  
-Art. 108. - Gli insegnamenti sono impartiti dai professori secondo quanto prescritto dalla normativa universitaria statale con particolare riferimento a quella in materia di riordino della docenza universitaria basata sulle disposizioni di cui al [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382).  
-Art. 111. - All'insegnamento di tutte le discipline ufficiali si provvede, di regola, con i professori di ruolo ordinari e associati in conformita' di quanto stabilito in materia dalla vigente normativa universitaria statale.  
-In ciascuna facolta', comunque, non possono essere attivati insegnamenti in numero superiore a quello consentito dalle tabelle A e A-bis annesse al presente statuto. All'insegnamento nei corsi integrativi di quelli ufficiali si provvede con i professori a contratto.  
-In ciascuna facolta' i corsi integrativi, tenuto conto in ogni caso degli stanziamenti a bilancio, non possono superare il 20% di quelli ufficiali attivati nella facolta' medesima.  
-Art. 112. - I docenti delle diverse categorie devono ottemperare agli obblighi previsti dalla normativa universitaria statale vigente, salvo quanto diversamente disposto dal presente statuto.  
-
-Art. 2
-------
-
+Veduto lo statuto della libera Universita' abruzzese "G.  
+D'Annunzio" di Chieti, approvato con [decreto del Presidente della Repubblica 8 maggio 1965, n. 1007](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-05-08;1007) e modificato con [decreto del Presidente della Repubblica 20 settembre 1966, n. 1291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-09-20;1291), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici della libera Universita' abruzzese "G. D'Annunzio" di Chieti e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Nel capo V, concernente norme relative agli assistenti, l'art. 115 e' abrogato e sostituito come segue:  
-Art. 115. - I posti di assistenti e di lettori del ruolo ad esaurimento sono determinati dalla tabella B annessa al presente statuto.  
-Per quanto non previsto dal presente statuto sono applicabili agli assistenti e lettori di ruolo dell'Universita' "G. D'Annunzio" le norme sullo statuto giuridico e sul trattamento economico degli assistenti e dei lettori di ruolo delle universita' statali.  
-Al trattamento di quiescenza si provvede in conformita' dell'art. 110.  
-L'art. 116 e' abrogato, con il conseguente spostamento della numerazione degli articoli successivi.  
-
-Art. 3
-------
-
+Decreta:   
   
-Dopo il capo V e relativi articoli e' inserito il seguente capo V-bis concernente i ricercatori e lettori a contratto:  
+Lo statuto della libera Universita' abruzzese "G. D'Annunzio" di Chieti, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Capo V-bis  
+Dopo l'art. 107, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in criminologia clinica ed in nefrologia.   
   
-RICERCATORI E LETTORI A CONTRATTO  
+Scuola di specializzazione in criminologia clinica   
   
-Art. 116. - I posti di ricercatore sono determinati dalla tabella B-bis annessa al presente statuto.  
-Ai ricercatori, per quanto non previsto dal presente statuto, si applicano le norme sullo stato giuridico e sul trattamento economico dei ricercatori delle universita' statali. Al trattamento di quiescenza si provvede in conformita' dell'art. 110 del presente statuto.  
-Possono essere stipulati appositi contratti per l'assunzione di lettori in conformita' alla vigente normativa universitaria statale.
-
-Art. 4
-------
-
+Art. 108. - La scuola di specializzazione in criminologia clinica conferisce il diploma di specialista in criminologia clinica e ha sede presso la cattedra di medicina legale della facolta' di medicina e chirurgia dell'Universita' di Chieti. La scuola e' diretta dal professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, dal professore di ruolo o fuori ruolo di materia affine.   
+Art. 109. - La scuola ha due indirizzi:   
+a) indirizzo medico-psicologico e psichiatrico-forense, per i laureati in medicina e chirurgia;   
+b) indirizzo socio-psicologico, per i laureati in giurisprudenza, scienze politiche, pedagogia, sociologia, psicologia, lettere e filosofia.   
+Dell'indirizzo seguito viene fatta espressa menzione sul diploma di specializzazione.   
+La durata del corso della scuola e' di tre anni. La frequenza e' obbligatoria. Non sono consentite abbreviazioni di corso.   
+Art. 110. - Gli insegnamenti impartiti nella scuola sono i seguenti:   
+Insegnamenti fondamentali comuni ai due indirizzi:   
+criminologia generale I;   
+elementi di diritto;   
+elementi di sociologia;   
+elementi di psicologia;   
+elementi di biologia;   
+metodologia della ricerca;   
+criminologia generale II;   
+criminologia minorile;   
+trattamento criminologico;   
+politica criminale e diritto penitenziario.   
+Insegnamenti fondamentali dell'indirizzo in medico-psicologico e psichiatrico-forense:   
+psicopatologia generale;   
+psichiatria clinica;   
+diagnostica criminologica;   
+medicina legale e criminalistica;   
+psicodiagnostica;   
+neurologia e psichiatria forense;   
+prevenzione della patologia del comportamento;   
+tecniche di rieducazione minorile;   
+legislazione socio-sanitaria.   
+Insegnamenti fondamentali dell'indirizzo socio-psicologico:   
+elementi di psico-patologia generale;   
+elementi di psichiatria clinica forense;   
+tecniche di servizio sociale;   
+antropologia culturale;   
+elementi di medicina legale;   
+psicologia sociale;   
+tecniche psicopedagogiche;   
+sociologia della devianza;   
+metodi di prevenzione.   
+Insegnamenti complementari:   
+antropofenomenologia;   
+etologia dei comportamenti criminosi;   
+sociologia del diritto;   
+psicobiologia;   
+economia della sicurezza e della difesa sociale;   
+psicologia e psicopatologia dell'eta' evolutiva;   
+igiene mentale;   
+psicoterapia.   
   
-Nel capo VIII, concernente norme di carattere amministrativo, l'art. 137 e' abrogato e sostituito come segue:  
-Art. 137. - Per quanto non previsto dal presente statuto si fa richiamo alle norme legislative e regolamentari concernenti le universita' e gli istituti superiori statali in quanto applicabili, ivi inclusa la disciplina che si basa sul [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382).  
-Nel predetto richiamo si intende in particolare compreso anche tutto cio' che e' contemplato in materia di integrazioni elettive e di diritto degli organi accademici tanto dal [decreto-legge 1 ottobre 1973, n. 580](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580), convertito, con modificazioni, nella [legge 30 novembre 1973, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766), e successive modificazioni ed integrazioni, quanto dalla disciplina che si basa sul [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382).  
-
-Art. 5
-------
-
+1° Anno: (comune ai due indirizzi):   
+criminologia generale I;   
+elementi di diritto;   
+elementi di sociologia;   
+elementi di psicologia;   
+elementi di biologia;   
+metodologia della ricerca;   
+una materia integrativa a scelta.   
   
-Dopo la tabella A, concernente posti di ruolo dei professori, e' inserita la seguente tabella A-bis concernente posti di ruolo dei professori associati:  
+2° Anno:   
   
-TABELLA A-bis  
+A) INDIRIZZO MEDICO-PSICOLOGICO E PSICHIATRICO-FORENSE:   
+criminologia generale II;   
+psicopatologia generale;   
+psichiatria clinica;   
+diagnostica criminologica;   
+medicina legale e criminalistica;   
+psicodiagnostica;   
+criminologia minorile;   
+una materia integrativa a scelta.   
   
-Posti di ruolo dei professori associati  
-Facolta' di lettere e filosofia . . . . . . . . . . . . . . . . n. 45 Facolta' di economia e commercio. . . . . . . . . . . . . . . . n. 34 Facolta' di lingue e letterature straniere. . . . . . . . . . . n. 29 Facolta' di giurisprudenza. . . . . . . . . . . . . . . . . . . n. 30 Facolta' di scienze politiche . . . . . . . . . . . . . . . . . n. 42 Facolta' di medicina e chirurgia. . . . . . . . . . . . . . . . n. 51 Facolta' di architettura. . . . . . . . . . . . . . . . . . . . n. 56   
-Dopo la tabella B, concernente posti di ruolo degli assistenti, e' inserita la seguente tabella B-bis, concernente posti di ricercatore:  
+B) INDIRIZZO SOCIO-PSICOLOGICO:   
+criminologia generale II;   
+elementi di psicopatologia generale;   
+elementi di psichiatria clinica e forense;   
+tecniche di servizio sociale;   
+antropologia culturale;   
+elementi di medicina legale;   
+criminologia minorile;   
+una materia integrativa a scelta.   
   
-TABELLA B-bis  
+3° Anno:   
   
-Posti di ricercatore  
-Facolta' di lettere e filosofia . . . . . . . . . . . . . . . . n. 34 Facolta' di economia e commercio. . . . . . . . . . . . . . . . n. 43 Facolta' di lingue e letterature straniere. . . . . . . . . . . n. 31 Facolta' di giurisprudenza. . . . . . . . . . . . . . . . . . . n. 41 Facolta' di scienze politiche . . . . . . . . . . . . . . . . . n. 29 Facolta' di medicina e chirurgia. . . . . . . . . . . . . . . . n. 68 Facolta' di architettura. . . . . . . . . . . . . . . . . . . . n. 63   
+A) INDIRIZZO MEDICO-PSICOLOGICO E PSICHIATRICO-FORENSE:   
+neurologia e psichiatria forense;   
+prevenzione della patologia del comportamento;   
+trattamento criminologico;   
+tecniche di rieducazione minorile;   
+legislazione socio-sanitaria;   
+politica criminale e diritto penitenziario;   
+una materia integrativa a scelta.   
+  
+B) INDIRIZZO SOCIO-PSICOLOGICO:   
+psicologia sociale:   
+tecniche psico-pedagogiche;   
+sociologia della devianza;   
+metodi di prevenzione;   
+trattamento criminologico;   
+politica criminale e diritto penitenziario;   
+una materia integrativa a scelta.   
+  
+Art. 111. - All'atto della domanda di iscrizione a ciascuno dei tre anni di corso l'allievo deve indicare alla segreteria della scuola una materia integrativa da scegliere fra le materie complementari ovvero tra quelle fondamentali appartenenti all'indirizzo al quale non e' iscritto. L'indicazione e' vincolante.   
+Art. 112. Gli insegnamenti possono essere integrati da esercitazioni pratiche nonche' da conferenze tenute da esperti italiani e stranieri.   
+Art. 113. - Alla scuola sono ammessi i laureati in medicina e chirurgia, in giurisprudenza, in scienze politiche, in pedagogia, in sociologia, in psicologia, in lettere, in filosofia, in numero complessivo non superiore a settantacinque posti (venticinque per ciascun anno) per i tre anni di corso. L'ammissione alla scuola avviene mediante concorso per esami.   
+Art. 114. - Gli esami di profitto sono tenuti ogni anno per singole materie o per gruppi di materie.   
+Per essere ammesso all'esame di diploma l'allievo deve aver sostenuto ventidue esami, dei quali diciannove relativi alle materie fondamentali dell'indirizzo seguito e tre relativi alle materie integrative scelte.   
+Art. 115. - L'esame di diploma consiste nella discussione di una dissertazione scritta originale, in una delle materie oggetto di insegnamento. Il tema, concordato con il docente, deve essere presentato al direttore della scuola, per l'approvazione, entro trenta giorni dalla data d'inizio dell'ultimo anno di corso.   
+A coloro che hanno superato l'esame di diploma viene rilasciato il diploma di specialista in criminologia clinica, con la specificazione dell'indirizzo seguito.   
+Art. 116. - Le norme per l'iscrizione, per gli esami, per le tasse, ecc., sono quelle previste dallo statuto relativo all'ordinamento delle scuole di specializzazione dell'Universita' di Chieti.   
+  
+Scuola di specializzazione in nefrologia   
+  
+Art. 117. - La scuola di specializzazione in nefrologia ha sede presso la clinica nefrologica della facolta' di medicina e chirurgia dell'Universita' di Chieti e conferisce il diploma di specialista in nefrologia.   
+Art. 118. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine, o, in carenza, al professore incaricato della materia.   
+Art. 119. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+Art. 120. - La durata del corso e' di quattro anni e non e' suscettibile di abbreviazione.   
+Art. 121. - Il numero massimo degli allievi e' di venti per l'intero corso, cinque per ogni anno di corso.   
+Art. 122. - L'ammissione al corso avviene per titoli ed esami.   
+Art. 123. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+struttura ed ultrastruttura normale del rene;   
+aspetti biochimici della funzione renale;   
+fisiologia renale;   
+microbiologia ed immunologia applicata alla nefrologia;   
+genetica applicata alla nefrologia;   
+semeiotica renale (1° anno).   
+2° Anno:   
+struttura ed ultrastruttura patologica del rene;   
+patologia del ricambio idroelettrolitico;   
+insufficienza renale;   
+rene e ipertensione arteriosa;   
+semeiotica renale (2° anno);   
+nefropatie tubulari.   
+3° Anno:   
+nefropatie glomerulari;   
+nefropatie interstiziali;   
+nefropatie vascolari;   
+terapia dietetica e dialitica (1° anno);   
+farmacologia d'interesse nefrologico.   
+4° Anno:   
+nefrouropatie calcolotiche, malformative e neoplastiche;   
+terapia dietetica e dialitica (2° anno);   
+fisiopatologia e clinica del trapianto renale;   
+aspetti di nefrologia nell'eta' pediatrica;   
+problemi chirurgici in nefrologia;   
+terapia medica delle nefropatie.   
+Art. 124. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
+Art. 125. - Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in nefrologia, gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+Art. 126. - Le tasse e soprattasse e contributi sono cosi' ripartite:   
+  
+tassa annuale di iscrizione. . . . . . . . . . . . . . L. 18.000 tassa di immatricolazione. . . . . . . . . . . . . . . L. 5.000 soprattassa annuale per esami di profitto. . . . . . . L. 7.000 contributi generali. . . . . . . . . . . . . . . . . . L. 1.950 contributi di riscaldamento. . . . . . . . . . . . . . L. 7.000 contributi di laboratorio per esercitazioni. . . . . . L. 140.000 libretto di riconoscimento . . . . . . . . . . . . . . L. 1.300 indennita' di schedatura . . . . . . . . . . . . . . . L. 500   
+  
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 ottobre 1981
+### Dato a Roma, addi' 4 giugno 1979
 
-PERTINI BODRATO - ANDREATTA
+PERTINI SPADOLINI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 17 maggio 1982
+Registrato alla Corte dei conti, addi' 19 settembre 1979
 
-Registro n. 67 Istruzione, foglio n. 320
+Registro n. 68 Istruzione, foglio n. 367

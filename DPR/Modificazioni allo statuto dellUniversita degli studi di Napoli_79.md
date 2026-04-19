@@ -1,75 +1,367 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1977 n. 611
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 agosto 1968 n. 1097
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1977 n. 611
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 agosto 1968 n. 1097
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1933, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art 59, relativo alle norme sulle propedeuticita' ed esami del corso di laurea in economia e commercio e' abrogato e sostituito dal seguente:
+
+"Agli effetti dell'iscrizione sono da considerare materie propedeutiche:
+
+a) le Istituzioni di diritto privato rispetto al Diritto commerciale, al Diritto privato comparato, al Diritto della navigazione;
+
+b) le Istituzioni di diritto pubblico rispetto al Diritto pubblico regionale, al Diritto pubblico comparato, al Diritto amministrativo degli enti territoriali, al Diritto tributario, alla Contabilita' di Stato, alla Organizzazione internazionale, alla Finanza degli enti locali, al Diritto amministrativo;
+
+c) l'Economia politica primo anno di corso - rispetto all'Economia bancaria ed alla Storia delle dottrine economiche;
+
+d) l'Economia politica primo e secondo anno del corso - rispetto alla Teoria e politica dello sviluppo economico;
+
+e) la Statistica primo anno del corso - rispetto alla Demografia;
+
+f) la Matematica generale - rispetto alla Matematica finanziaria;
+
+g) la Storia economica - rispetto alla Storia della banca, alla Storia ed istituzioni economiche afro-asiatiche, alla Storia dell'agricoltura, alla Storia del lavoro, alla Storia delle relazioni economiche internazionali, alla Sociologia;
+
+h) la Ragioneria generale ed applicata primo e secondo anno del corso rispetto alla Organizzazione aziendale e alla Ragioneria pubblica;
+
+i) il Diritto commerciale rispetto al Diritto industriale;
+
+l) la Tecnica industriale e commerciale - rispetto alla Tecnica del commercio internazionale, alla Economia e finanza delle imprese di assicurazione, alla Tecnica amministrativa delle imprese di pubblici servizi, alla Tecnica delle negoziazioni di borsa, alla Tecnica delle ricerche di mercato e della distribuzione generale;
+
+m) la Scienza delle finanze e diritto finanziario rispetto alla Economia e finanza della sicurezza sociale, alla Finanza degli enti locali;
+
+n) la Matematica generale e la Ragioneria generale ed applicata primo e secondo anno del corso rispetto ai Principi e tecnica degli ausiliari meccanografici od elettronici;
+
+o) le Istituzioni di diritto privato e le Istituzioni di diritto pubblico rispetto al Diritto del lavoro, al Diritto processuale civile, al Diritto internazionale;
+
+p) la Statistica primo e secondo anno del corso e l'Economia politica primo e secondo anno del corso rispetto alla Economia e politica agraria, alla Scienza delle finanze e diritto finanziario, alla Politica economica e finanziaria;
+
+q) la Matematica generale e la Economia politica primo e secondo anno del corso rispetto alla Ricerca operativa;
+
+r) la Matematica generale, l'Economia politica prime e secondo anno del corso, la Statistica primo e secondo anno del corso rispetto all'Econometria;
+
+s) la Economia politica primo e secondo anno del corso e la Geografia economica rispetto alla Economia dei trasporti;
+
+t) la Ragioneria generale ed applicata primo e secondo anno del corso e la Storia economica rispetto alla Storia della ragioneria;
+
+u) la Ragioneria generale ed applicata, il Diritto commerciale e la Tecnica industriale e commerciale rispetto alla Tecnica bancaria e professionale;
+
+v) le Istituzioni di diritto privato, le Istituzioni di diritto pubblico ed il Diritto commerciale rispetto al Diritto pubblico dell'Economia, al Diritto fallimentare al Diritto e legislazione bancaria;
+
+z) i Complementi di matematica per economisti rispetto all'Economia matematica.
+
+Analogamente gli esami delle materie propedeutiche debbono precedere quelli delle materie a cui servono di preparazione.
+
+Ai soli effetti degli esami, la tecnica bancaria e professionale e' propedeutica rispetto alla Tecnica del commercio internazionale, all'Economia e finanza delle imprese di assicurazione, alla Tecnica delle negoziazioni di borsa".
+
+Art. 132. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica (indirizzo organico biologico ed inorganico-chimico-fisico) e' aggiunto quelle di: "Meccanismi delle reazioni organiche".
+
+Art. 135. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica industriale e' aggiunto quello di: "Meccanismi delle reazioni organiche".
+
+Art. 146. - All'elenco degli insegnamenti complementari del corso di laurea in matematica a indirizzo generale sono aggiunti i seguenti:
+
+Analisi funzionale;
+
+Algebra omologica;
+
+Topologia algebrica.
+
+Art. 147. - All'elenco degli insegnamenti complementari del corso di laurea in matematica ad indirizzo didattico sono aggiunti i seguenti:
+
+Analisi funzionale;
+
+Algebra omologica;
+
+Topologia algebrica.
+
+Art. 148. - All'elenco degli insegnamenti complementari del corso di laurea in matematica ad indirizzo applicativo (orientamento numerico e meccanico) sono aggiunti i seguenti:
+
+Analisi funzionale;
+
+Algebra omologica;
+
+Topologia algebrica;
+
+Teoria dei giochi.
+
+Art. 152. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti i seguenti:
+
+Biochimica applicata;
+
+Fisiologia cellulare;
+
+Fisiologia comparata;
+
+Fitogeografia;
+
+Citologia ed embriologia vegetale;
+
+Ecologia vegetale;
+
+Biologia vegetale applicata.
+
+Art. 156. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti i seguenti:
+
+Biochimica applicata;
+
+Fisiologia cellulare;
+
+Fisiologia comparata;
+
+Fitogeografia;
+
+Citologia ed embriologia vegetale;
+
+Ecologia vegetale;
+
+Biologia vegetale applicata.
+
+Art. 159. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti i seguenti:
+
+Geotecnica;
+
+Paleografia;
+
+Storia della geologia;
+
+Biostratigrafia e Paleoecologia;
+
+Sismologia;
+
+Geofisica applicata.
+
+Art. 244. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti i seguenti:
+
+Acarologia e nematologia (semestrale);
+
+Allevamento vegetale (semestrale);
+
+Anatomia e sistematica dei legni;
+
+Assistenza, consulenza e divulgazione agricola;
+
+Biologia cellulare;
+
+Citotassonomia (semestrale);
+
+Cooperazione agricola;
+
+Demografia zootecnica (semestrale);
+
+Disegno (semestrale);
+
+Fertilizzanti e fertilizzazione (semestrale);
+
+Fisica del terreno (semestrale);
+
+Fisioclimatologia animale (semestrale);
+
+Fisiologia e tecnica della riproduzione (semestrale);
+
+Fisiologia vegetale;
+
+Fitogeografia ed ecologia vegetale;
+
+Fitoiatria;
+
+Genetica del miglioramento animale (semestrale);
+
+Igiene zootecnica (semestrale);
+
+Immunogenetica zootecnica (semestrale);
+
+Legislazione zootecnica e annonaria (semestrale);
+
+Micologia;
+
+Microbiologia lattiero-casearia;
+
+Nozioni di Scienza delle finanze (semestrale);
+
+Organizzazione comparata dei servizi zootecnici nella C.E.E. (semestrale);
+
+Organizzazione degli uffici di contabilita' ed elaborazione dei risultati contabili (semestrale);
+
+Pianificazione agricola;
+
+Riordinamento fondiario;
+
+Scienza dell'alimentazione del bestiame e tecnica mangimistica;
+
+Tecnica della meccanizzazione agricola;
+
+Zootecnica montana (semestrale);
+
+Zootecnica tropicale e subtropicale (semestrale).
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 21 agosto 1968
+
+SARAGAT
+
+SCAGLIA
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 2 ottobre 1968 Atti del Governo, registro n. 223, foglio n. 48. - GRECO
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Napoli approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1933, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 680, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti articoli relativi alla istituzione della scuola di specializzazione in farmacia ospedaliera presso la facolta' di farmacia.   
-Scuola di specializzazione in farmacia ospedaliera   
-Art. 681. - E' istituita presso la facolta' di farmacia dell'Universita' di Napoli la scuola di specializzazione in farmacia ospedaliera, con l'intento di assicurare ai laureati in discipline farmaceutiche (farmacia e tecnologie farmaceutiche) la possibilita' di un perfezionamento nelle materie necessarie ad esercitare la loro attivita' nella farmacia ospedaliera.   
-Art. 682. - La scuola rilascia il diploma di specializzazione in farmacia ospedaliera al termine del corso di studi che ha la durata biennale.   
-Art. 683. - Alla scuola di specializzazione sono ammessi i laureati in farmacia e in chimica e tecnologie farmaceutiche.   
-Art. 684. - Gli insegnamenti nella scuola sono i seguenti:   
-1° Anno:   
-1) matematica e informatica;   
-2) patologia generale;   
-3) biofarmaceutica e farmacocinetica I;   
-4) tossicita', interazioni, effetti secondari dei farinacei;   
-5) radiochimica e radiobiologia;   
-6) microbiologia e igiene;   
-7) tecnologia delle preparazioni magistrali.   
-2° Anno:   
-1) biofarmaceutica e farmacocinetica II;   
-2) immunochimica;   
-3) farmacia clinica;   
-4) documentazione e informazione sui farmaci;   
-5) officina galenica;   
-6) chimica degli alimenti;   
-7) economia, organizzazione e legislazione ospedaliera.   
-Gli insegnamenti comprendono lezioni teoriche ed esercitazioni pratiche.   
-Art. 685. - La scuola e' organizzata dalla facolta' di farmacia dell'Universita' di Napoli. Potranno essere invitati a tenere lezioni, conferenze, seminari ed esercitazioni, docenti di altre facolta' o universita' od esperti anche dall'estero.   
-La direzione della scuola e' affidata ad un docente di ruolo eletto dal consiglio direttivo costituito da cinque docenti nominati dal consiglio di facolta', per la durata di tre anni, scelti tra i docenti di discipline chimico-farmaceutiche (due), farmaco-biologiche (due) e tecnologiche (uno).   
-Il direttore ed i membri del consiglio sono rieleggibili. In caso di decadenza, il nuovo membro resta in carica fino alla scadenza del mandato triennale.   
-Art. 686. - Gli incarichi di insegnamento, anche per un limitato numero di lezioni o esercitazioni, sono conferiti dal rettore su proposta del consiglio direttivo della scuola con l'approvazione del senato accademico e del consiglio di amministrazione dell'Universita'.   
-Art. 687. - Le tasse e soprattasse per l'iscrizione alla scuola sono quelle stabilite per la facolta' di farmacia. I contributi a carico degli iscritti dovranno essere fissati annualmente dal consiglio di amministrazione su proposta del consiglio della scuola e verranno resi noti ogni anno con apposito manifesto.   
-Art. 688. - Il numero massimo degli iscritti alla scuola e' di 15 per ogni anno di corso. Iscrizioni in numero superiore possono essere ammesse eccezionalmente su parere favorevole del consiglio direttivo della scuola. L'ammissione alla scuola e' decisa dal consiglio direttivo sulla base di un concorso per esame e per titoli.   
-La frequenza e' obbligatoria sia per le lezioni che per le esercitazioni.   
-Art. 689. - La scuola e' finanziata con le quote di iscrizione e attraverso eventuali contributi della Societa' italiana di farmacia ospedaliera e di contributi, lasciti e donazioni di altri enti privati.   
-L'art. 764, relativo alla scuola di specializzazione in alimentazione degli animali domestici, e' modificato nel senso che il primo comma e' soppresso e sostituito dal seguente:   
-"Possono iscriversi alla scuola i laureati in medicina veterinaria, in scienze agrarie e in scienze della produzione animale".   
+Art 59, relativo alle norme sulle propedeuticita' ed esami del corso di laurea in economia e commercio e' abrogato e sostituito dal seguente:  
+"Agli effetti dell'iscrizione sono da considerare materie propedeutiche:  
+a) le Istituzioni di diritto privato rispetto al Diritto commerciale, al Diritto privato comparato, al Diritto della navigazione;  
+b) le Istituzioni di diritto pubblico rispetto al Diritto pubblico regionale, al Diritto pubblico comparato, al Diritto amministrativo degli enti territoriali, al Diritto tributario, alla Contabilita' di Stato, alla Organizzazione internazionale, alla Finanza degli enti locali, al Diritto amministrativo;  
+c) l'Economia politica primo anno di corso - rispetto all'Economia bancaria ed alla Storia delle dottrine economiche;  
+d) l'Economia politica primo e secondo anno del corso - rispetto alla Teoria e politica dello sviluppo economico;  
+e) la Statistica primo anno del corso - rispetto alla Demografia;  
+f) la Matematica generale - rispetto alla Matematica finanziaria;  
+g) la Storia economica - rispetto alla Storia della banca, alla Storia ed istituzioni economiche afro-asiatiche, alla Storia dell'agricoltura, alla Storia del lavoro, alla Storia delle relazioni economiche internazionali, alla Sociologia;  
+h) la Ragioneria generale ed applicata primo e secondo anno del corso rispetto alla Organizzazione aziendale e alla Ragioneria pubblica;  
+i) il Diritto commerciale rispetto al Diritto industriale;  
+l) la Tecnica industriale e commerciale - rispetto alla Tecnica del commercio internazionale, alla Economia e finanza delle imprese di assicurazione, alla Tecnica amministrativa delle imprese di pubblici servizi, alla Tecnica delle negoziazioni di borsa, alla Tecnica delle ricerche di mercato e della distribuzione generale;  
+m) la Scienza delle finanze e diritto finanziario rispetto alla Economia e finanza della sicurezza sociale, alla Finanza degli enti locali;  
+n) la Matematica generale e la Ragioneria generale ed applicata primo e secondo anno del corso rispetto ai Principi e tecnica degli ausiliari meccanografici od elettronici;  
+o) le Istituzioni di diritto privato e le Istituzioni di diritto pubblico rispetto al Diritto del lavoro, al Diritto processuale civile, al Diritto internazionale;  
+p) la Statistica primo e secondo anno del corso e l'Economia politica primo e secondo anno del corso rispetto alla Economia e politica agraria, alla Scienza delle finanze e diritto finanziario, alla Politica economica e finanziaria;  
+q) la Matematica generale e la Economia politica primo e secondo anno del corso rispetto alla Ricerca operativa;  
+r) la Matematica generale, l'Economia politica prime e secondo anno del corso, la Statistica primo e secondo anno del corso rispetto all'Econometria;  
+s) la Economia politica primo e secondo anno del corso e la Geografia economica rispetto alla Economia dei trasporti;  
+t) la Ragioneria generale ed applicata primo e secondo anno del corso e la Storia economica rispetto alla Storia della ragioneria;  
+u) la Ragioneria generale ed applicata, il Diritto commerciale e la Tecnica industriale e commerciale rispetto alla Tecnica bancaria e professionale;  
+v) le Istituzioni di diritto privato, le Istituzioni di diritto pubblico ed il Diritto commerciale rispetto al Diritto pubblico dell'Economia, al Diritto fallimentare al Diritto e legislazione bancaria;  
+z) i Complementi di matematica per economisti rispetto all'Economia matematica.  
+Analogamente gli esami delle materie propedeutiche debbono precedere quelli delle materie a cui servono di preparazione.  
+Ai soli effetti degli esami, la tecnica bancaria e professionale e' propedeutica rispetto alla Tecnica del commercio internazionale, all'Economia e finanza delle imprese di assicurazione, alla Tecnica delle negoziazioni di borsa".  
+Art. 132. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica (indirizzo organico biologico ed inorganico-chimico-fisico) e' aggiunto quelle di: "Meccanismi delle reazioni organiche".  
+Art. 135. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica industriale e' aggiunto quello di: "Meccanismi delle reazioni organiche".  
+Art. 146. - All'elenco degli insegnamenti complementari del corso di laurea in matematica a indirizzo generale sono aggiunti i seguenti:  
+Analisi funzionale;  
+Algebra omologica;  
+Topologia algebrica.  
+Art. 147. - All'elenco degli insegnamenti complementari del corso di laurea in matematica ad indirizzo didattico sono aggiunti i seguenti:  
+Analisi funzionale;  
+Algebra omologica;  
+Topologia algebrica.  
+Art. 148. - All'elenco degli insegnamenti complementari del corso di laurea in matematica ad indirizzo applicativo (orientamento numerico e meccanico) sono aggiunti i seguenti:  
+Analisi funzionale;  
+Algebra omologica;  
+Topologia algebrica;  
+Teoria dei giochi.  
+Art. 152. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti i seguenti:  
+Biochimica applicata;  
+Fisiologia cellulare;  
+Fisiologia comparata;  
+Fitogeografia;  
+Citologia ed embriologia vegetale;  
+Ecologia vegetale;  
+Biologia vegetale applicata.  
+Art. 156. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti i seguenti:  
+Biochimica applicata;  
+Fisiologia cellulare;  
+Fisiologia comparata;  
+Fitogeografia;  
+Citologia ed embriologia vegetale;  
+Ecologia vegetale;  
+Biologia vegetale applicata.  
+Art. 159. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti i seguenti:  
+Geotecnica;  
+Paleografia;  
+Storia della geologia;  
+Biostratigrafia e Paleoecologia;  
+Sismologia;  
+Geofisica applicata.  
+Art. 244. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti i seguenti:  
+Acarologia e nematologia (semestrale);  
+Allevamento vegetale (semestrale);  
+Anatomia e sistematica dei legni;  
+Assistenza, consulenza e divulgazione agricola;  
+Biologia cellulare;  
+Citotassonomia (semestrale);  
+Cooperazione agricola;  
+Demografia zootecnica (semestrale);  
+Disegno (semestrale);  
+Fertilizzanti e fertilizzazione (semestrale);  
+Fisica del terreno (semestrale);  
+Fisioclimatologia animale (semestrale);  
+Fisiologia e tecnica della riproduzione (semestrale);  
+Fisiologia vegetale;  
+Fitogeografia ed ecologia vegetale;  
+Fitoiatria;  
+Genetica del miglioramento animale (semestrale);  
+Igiene zootecnica (semestrale);  
+Immunogenetica zootecnica (semestrale);  
+Legislazione zootecnica e annonaria (semestrale);  
+Micologia;  
+Microbiologia lattiero-casearia;  
+Nozioni di Scienza delle finanze (semestrale);  
+Organizzazione comparata dei servizi zootecnici nella C.E.E. (semestrale);  
+Organizzazione degli uffici di contabilita' ed elaborazione dei risultati contabili (semestrale);  
+Pianificazione agricola;  
+Riordinamento fondiario;  
+Scienza dell'alimentazione del bestiame e tecnica mangimistica;  
+Tecnica della meccanizzazione agricola;  
+Zootecnica montana (semestrale);  
+Zootecnica tropicale e subtropicale (semestrale).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 giugno 1977
+### Dato a Roma, addi' 21 agosto 1968
 
-LEONE MALFATTI
+SARAGAT SCAGLIA
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 30 luglio 1977
+Registrato alla Corte dei conti, addi' 2 ottobre 1968
 
-Registro n. 92 Istruzione, foglio n. 37
+Atti del Governo, registro n. 223, foglio n. 48. - GRECO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1962 n. 1674
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 agosto 1953 n. 763
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1962 n. 1674
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 agosto 1953 n. 763
+=============================================================
 
 Autorizzazione all'Associazione nazionale combattenti e reduci ad accettare una donazione.
 ------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1674. Decreto del Presidente della Repubblica 27 ottobre 1962, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci, viene autorizzata ad accettare la donazione disposta a proprio favore dal professore Oscar Bosco, presidente della Federazione provinciale torinese della predetta Associazione, con atto a rogito dott. Guido Teppati, notaio in Giaveno (distretti riuniti di Torino e Pinerolo) in data 14 novembre 1960, n. 10394 di repertorio.  
+763. Decreto del Presidente della Repubblica 25 agosto 1953, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci viene autorizzata ad accettare la donazione disposta a favore dell'Ente con rogito notarile 5 maggio 1947 dalle signore Lucherini Marsilia e Ciacci Maddalena consistente in un appezzamento di terreno in territorio di Manciano localita' "Campo dei Cinque Cerri" da assegnarsi in lavorazione ai soci piu' bisognosi.  
   
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 6 dicembre 1962  
-Atti del Governo, registro n. 160, foglio n. 79. - VILLA
+Visto, il Guardasigilli: AZARA  
+Registrato alla Corte dei conti, addi' 8 ottobre 1953  
+Atti del Governo, registro n. 79, foglio n. 101. - PALLA

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 agosto 1971 n. 991
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1972 n. 128
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 agosto 1971 n. 991
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1972 n. 128
+============================================================
 
 Autorizzazione all'Accademia nazionale dei Lincei, con sede in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-991. Decreto del Presidente della Repubblica 28 agosto 1971, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Accademia nazionale dei Lincei, con sede in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita' ad essa devoluta dall'ing. Eugenio Mari con testamento olografo in data 3 gennaio 1960, pubblicato il 19 gennaio 1970 con atto n. 16243 di rep., a rogito del dott. Vittorio Mariani, notaio in Roma, con l'onere di istituire, con le rendite del patrimonio, un "Premio Maria Teresa Messori-Roncaglia e Eugenio Mari", da assegnarsi ogni anno, alternativamente, a un letterato o a uno scienziato.  
+128. Decreto del Presidente della Repubblica 6 marzo 1972, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Accademia nazionale dei Lincei, con sede in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita' ad essa devoluta dal dott. Vincenzo Landi, con testamento olografo in data 18 settembre 1970, pubblicato il 16 dicembre 1970 con atto n. 719893 di rep., a rogito del dott. Marcello Scarfagna, coadiutore dell'avv. Tito Staderini, notaio in Roma, con l'onere di istituire con le rendite del patrimonio una fondazione denominata Valeria Vincenzo Landi, avente lo scopo di conferire premi, contributi e borse di studio atti a promuovere e a premiare gli studi e le esperienze in materia di genetica agraria.  
   
-Visto, il Guardasigilli: COLOMBO  
-Registrato alla Corte dei conti, addi' 18 novembre 1971  
-Atti del Governo, registro n. 245, foglio n. 82. - CARUSO
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 14 aprile 1972  
+Atti del Governo, registro n. 248, foglio n. 35. - VALENTINI

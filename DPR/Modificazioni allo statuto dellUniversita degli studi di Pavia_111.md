@@ -1,206 +1,140 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 maggio 1975 n. 513
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 818
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 maggio 1975 n. 513
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 818
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio universitario nazionale nei suoi pareri;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Veduto il [parere della sezione prima del Consiglio di Stato n. 1902/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
+
+Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), in quanto l'Universita' di Pavia e' tenuta ad uniformarsi al disposto di cui all'[art. 1 del decreto del Presidente della Repubblica 27 settembre 1970, n. 827](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-09-27;827~art1);   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Lo statuto dell'Universita' di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come l'art. 153, secondo comma, relativo alla scuola di specializzazione in odontostomatologia e' modificato nel senso che l'espressione "discussione scritta" e' sostituita da "dissertazione scritta".  
+
+Art. 2
+------
+
   
-Decreta:   
+Gli articoli 172, 173, 174, 175 e 176, relativi alla scuola di specializzazione in oncologia, sono soppressi e sostituiti dai seguenti:  
   
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-L'art. 91, relativo al biennio di studi per il conseguimento della laurea in ingegneria, e' modificato nel senso che e' aggiunto il seguente ultimo comma:   
-"Gli insegnamenti segnati con un asterisco sono obbligatori sul piano nazionale".   
-Gli articoli 92, 93, 94, relativi ai vari corsi di laurea della facolta' di ingegneria, sono abrogati e sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi.   
-Art. 92. - Per il corso di laurea in ingegneria elettrotecnica sono insegnamenti del triennio:   
-a) Obbligatori su piano nazionale:   
-1) fisica tecnica;   
-2) idraulica;   
-3) scienza delle costruzioni;   
-4) meccanica applicata alle macchine;   
-5) macchine elettriche;   
-6) impianti elettrici I;   
-7) misure elettriche;   
-8) elettronica applicata;   
-9) macchine.   
-b) Obbligatori sul piano della facolta':   
-10) controlli automatici;   
-11) costruzione di macchine elettriche;   
-12) elettrotecnica industriale.   
-c) Un gruppo di materie a scelta tra quelle elencate nell'art. 95 e negli articoli 93 e 94.   
-Art. 93. - Per il corso di laurea in ingegneria elettronica sono insegnamenti del triennio:   
-a) Obbligatori su piano nazionale:   
-1) scienza delle costruzioni;   
-2) meccanica delle macchine e macchine;   
-3) campi elettromagnetici e circuiti;   
-4) elettronica applicata;   
-5) misure elettriche;   
-6) comunicazioni elettriche;   
-7) radiotecnica;   
-8) controlli automatici.   
-b) Obbligatori sul piano della facolta':   
-9) complementi di fisica;   
-10) metodi matematici per l'ingegneria;   
-11) teoria dei sistemi;   
-12) calcolatori elettronici.   
-c) Un gruppo di materie a scelta tra quelle elencate nell'art. 95 e negli articoli 92 e 94.   
-Art. 94. - Per il corso di laurea in ingegneria civile sono insegnamenti del triennio:   
-a) Obbligatori su piano nazionale:   
-1) scienza delle costruzioni;   
-2) meccanica applicata alle macchine e macchine;   
-3) fisica tecnica;   
-4) idraulica;   
-5) tecnologia dei materiali e chimica applicata;   
-6) tecnica delle costruzioni;   
-7) architettura tecnica;   
-8) topografia;   
-per idraulica:   
-9) costruzioni idrauliche;   
-per trasporti:   
-9) costruzioni di strade, ferrovie ed aeroporti.   
-b) Obbligatori sul piano della facolta':   
-per idraulici:   
-10) geologia applicata;   
-11) ingegneria sanitaria;   
-12) idraulica II;   
-per trasporti:   
-10) geologia applicata;   
-11) costruzione di ponti e grandi strutture;   
-12) tecnica ed economia dei trasporti.   
-c) Un gruppo di materie a scelta tra quelle elencate nell'art. 95 e negli articoli 92 e 93.   
-Art. 95. - Sono insegnamenti complementari ai sensi dell'[art. 1 del decreto del Presidente della Repubblica 27 settembre 1970, n. 827](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-09-27;827~art1), i seguenti:   
-1) acquedotti e fognature;   
-2) affidabilita' e controllo statistico della qualita' (semestrale);   
-3) analisi dei sistemi I;   
-4) analisi dei sistemi II;   
-5) antenne e propagazione;   
-6) bonifica ed irrigazione;   
-7) calcolo numerico e programmazione;   
-8) centrali elettriche;   
-9) chimica applicata;   
-10) chimica e biologia sanitaria;   
-11) chimica fisica;   
-12) collaudo e controllo delle strutture;   
-13) complementi di architettura tecnica;   
-14) complementi di geotecnica;   
-15) complementi di ingegneria sanitaria;   
-16) complementi di misure elettriche;   
-17) complementi di programmazione;   
-18) complementi di scienza delle costruzioni;   
-19) controllo dei processi;   
-20) costruzione di apparecchi elettrici;   
-21) costruzione di macchine;   
-22) costruzioni marittime;   
-23) costruzioni metalliche;   
-24) dinamica delle strutture;   
-25) diritto del lavoro (semestrale);   
-26) dispositivi elettronici;   
-27) ecologia (semestrale);   
-28) economia applicata all'ingegneria;   
-29) elettronica biologica;   
-30) elettronica industriale I;   
-31) elettronica industriale II;   
-32) elettronica numerica;   
-33) elettronica di potenza;   
-34) elettronica quantistica;   
-35) ergonomia (semestrale);   
-36) ergotecnica;   
-37) estimo (semestrale);   
-38) fenomeni aleatori e rumore;   
-39) fisica dei semiconduttori;   
-40) fisiopatologia del lavoro (semestrale);   
-41) fotogrammetria;   
-42) geotecnica;   
-43) geotecnica applicata alla difesa del suolo (semestrale);   
-44) gestione aziendale;   
-45) idrogeologia (semestrale);   
-46) idrologia tecnica;   
-47) igiene applicata all'ingegneria (semestrale);   
-48) impianti elettrici II;   
-49) impianti per l'elaborazione delle informazioni;   
-50) impianti speciali idraulici;   
-51) impianti tecnici per l'edilizia;   
-52) impianti termoelettrici e di potenza;   
-53) informatica industriale;   
-54) infrastrutture idrauliche;   
-55) inquinamento atmosferico (semestrale);   
-56) istituzioni di scienze sociali ed economiche (semestrale);   
-57) tecnica delle alte frequenze;   
-58) progetti di componenti e circuiti integrati;   
-59) costruzioni elettroniche;   
-60) macchine elettriche speciali;   
-61) macchine fluidodinamiche;   
-62) complementi di matematica;   
-63) macchine ed organizzazione dei cantieri;   
-64) materie giuridiche e legislazione dei lavori pubblici;   
-65) materiali e tecnologie elettroniche;   
-66) meccanica dei fluidi;   
-67) meccanica delle rocce;   
-68) medicina del lavoro applicata all'ingegneria (semestrale);   
-69) meteorologia e fisica dell'atmosfera (semestrale);   
-70) metodi probabilistici, statistici e processi stocastici;   
-71) microonde;   
-72) misure elettroniche;   
-73) modelli matematici I;   
-74) modelli matematici II;   
-75) modelli per sistemi idrici (semestrale);   
-76) organizzazione aziendale (semestrale);   
-77) pianificazione delle risorse idriche;   
-78) pianificazione della produzione (semestrale);   
-79) pianificazione territoriale;   
-80) progetti di strutture;   
-81) programmazione dei calcolatori elettronici;   
-82) radiochimica;   
-83) ricerca operativa;   
-84) rifiuti solidi (semestrale);   
-85) scienza dei materiali;   
-86) sistemi di comunicazioni elettriche;   
-87) sistemi elettroottici;   
-88) sistemi per l'elaborazione dell'informazione;   
-89) sistemi di regolazione;   
-90) sistemi di trasporto;   
-91) strumentazione biomedica;   
-92) strumentazione elettronica;   
-93) tecnica delle alte tensioni;   
-94) tecnica del traffico;   
-95) tecnica delle costruzioni II;   
-96) tecnica ed economia dei trasporti II;   
-97) tecnologia delle acque di approvvigionamento e di rifiuto I;   
-98) tecnologia delle acque di approvvigionamento e di rifiuto II;  
-99) teoria dell'informazione;   
-100) teoria delle reti elettriche;   
-101) trazione elettrica;   
-102) unificazione dell'edilizia e prefabbricazione;   
-103) tecnica urbanistica I;   
-104) tecnica urbanistica II.   
-Dall'elenco delle materie complementari la facolta' trarra', per i singoli corsi di laurea, le materie da attivare che indichera' anno per anno nel manifesto degli studi. In tale manifesto pero' le materie non figureranno isolate ma raggruppate a costituire indirizzi di specializzazione relativi a ciascun corso di laurea. Per ciascun indirizzo saranno prescritti sei corsi annuali (o equivalenti).   
+Scuola di specializzazione in oncologia  
+Art. 172. - La scuola di specializzazione in oncologia ha sede presso l'istituto di patologia generale e conferisce il diploma di specialista in oncologia.  
+Art. 173. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.  
+Art. 174. - La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazione. Il numero massimo degli allievi e' di venti per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami.  
+Art. 175. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+patologia generale dei tumori (I);  
+oncologia sperimentale (I);  
+anatomia ed istologia patologica dei tumori. (I);  
+epidemiologia dei tumori;  
+cancerogenesi ambientale e professionale e prevenzione primaria;  
+immunologia dei tumori.  
+2° Anno:  
+patologia generale dei tumori (II);  
+oncologia sperimentale (II);  
+anatomia ed istologia patologica dei tumori (II);  
+citodiagnostica dei tumori;  
+prevenzione clinica e tecniche diagnostiche e di laboratorio;  
+radiodiagnostica dei tumori;  
+oncologia medica (I);  
+oncologia chirurgica (I).  
+3° Anno:  
+oncologia medica (II);  
+oncologia chirurgica (II);  
+radioterapia dei tumori;  
+oncologia dell'apparato genitale femminile;  
+oncologia pediatrica;  
+principi di riabilitazione oncologica;  
+organizzazione della lotta contro i tumori.  
+Ogni scuola dovra' provvedere ad organizzare seminari e conferenze su specifici argomenti con l'integrazione di quelli elencati nello statuto.  
+Art. 176. - La frequenza alle lezioni, alle esercitazioni pratiche, ai seminari ed altre manifestazioni culturali riguardanti la materia e' obbligatoria per l'ammissione agli esami; il superamento degli esami di ciascun anno e' condizione indispensabile per l'iscrizione all'anno successivo. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.  
+Al termine del triennio per ottenere il diploma i candidati devono presentare una dissertazione scritta su un argomento attinente alla specializzazione.  
+
+Art. 3
+------
+
+  
+Gli articoli 259 e 260, relativi alla scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio, sono soppressi e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio  
+Art. 259. - La scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio ha sede presso l'istituto di clinica tisiologica e delle malattie dell'apparato respiratorio e conferisce il diploma di specialista in tisiologia e malattie dell'apparato respiratorio.  
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione. Il numero massimo degli allievi e' di venticinque per anno di corso e complessivamente di cento iscritti per l'intero corso di studi. L'ammissione al corso avviene per titoli ed esami.  
+Art. 260. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) (I);  
+patologia della tubercolosi polmonare ed extra polmonare;  
+fisiologia e fisiopatologia generale dell'apparato respiratorio;  
+patologia delle malattie dell'apparato respiratorio;  
+semeiotica fisica e funzionale dell'apparato respiratorio;  
+microbiologia;  
+epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.  
+2° Anno:  
+anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) (II);  
+clinica della tubercolosi (triennale) (I);  
+clinica delle malattie dell'apparato respiratorio (triennale) (I);  
+fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;  
+broncologia;  
+radiologia dell'apparato respiratorio;  
+profilassi della tubercolosi;  
+igiene e legislazione sociale.  
+3° Anno:  
+clinica delle malattie dell'apparato respiratorio (triennale) (II);  
+clinica della tubercolosi (triennale) (II);  
+chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;  
+terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;  
+terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.  
+4° Anno:  
+clinica delle malattie dell'apparato respiratorio (triennale) (III);  
+clinica della tubercolosi (triennale) (III).  
+Gli insegnamenti complementari che possono essere inseriti negli statuti sono i seguenti: immunologia clinica, cardiologia, medicina nucleare, malattie professionali dell'apparato respiratorio, terapia intensiva pneumologica.  
+I corsi di insegnamento sono integrati da conferenze, da esercitazioni pratiche, da seminari interdisciplinari (questi ultimi prevalentemente destinati al quarto anno) per i quali gli allievi hanno l'obbligo di frequenza al pari delle lezioni.  
+Alla fine di ogni anno di corso gli allievi devono superare una prova di esame sulle materie del rispettivo anno.  
+Alla fine del quarto anno gli allievi devono sostenere l'esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione assegnato dal direttore della scuola o da uno degli insegnanti della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 maggio 1975
+### Dato a Roma, addi' 5 settembre 1980
 
-LEONE MALFATTI
+PERTINI SARTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 25 ottobre 1975
+Registrato alla Corte dei conti, addi' 24 novembre 1980
 
-Atti di Governo, registro n. 13, foglio n. 37
+Registro n. 109 Istruzione, foglio n. 82

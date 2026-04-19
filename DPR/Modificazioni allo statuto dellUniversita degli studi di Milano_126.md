@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1980 n. 419
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1981 n. 123
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1980 n. 419
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1981 n. 123
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,91 +18,43 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la proposta di modifica dello statuto formulata dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' degli studi di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Veduto il [parere della sezione prima del Consiglio di Stato n. 1902/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
+Sulla proposta del Ministro della pubblica istruzione;
 
-Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
+Decreta:
+--------
 
-Sulla
------
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-proposta del Ministro della pubblica istruzione; Decreta:
-
-Art. 1
-------
+Articolo unico
+--------------
 
   
-Lo statuto dell'Universita' di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-L'art. 148, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la scuola di specializzazione in malattie dell'apparato digerente muta la denominazione in scuola di specializzazione in gastroenterologia ed endoscopia digestiva.  
-
-Art. 2
-------
-
-  
-  
-L'art. 215, relativo alla scuola di specializzazione in malattie dell'apparato digerente, che muta la denominazione in quella di scuola di specializzazione in gastroenterologia ed endoscopia digestiva, e' soppresso e sostituito dal seguente:   
-  
-Scuola di specializzazione in gastroenterologia ed endoscopia digestiva   
-  
-Art. 215. - La scuola di specializzazione in gastroenterologia ed endoscopia digestiva ha sede presso l'istituto di clinica medica generale e terapia medica I e conferisce il diploma di specialista in gastroenterologia ed endoscopia digestiva.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.   
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
-Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-anatomia clinica;   
-farmacologia clinica;   
-chimica clinica, coprologia, parassitologia;   
-genetica;   
-biostatistica ed epidemiologia.   
-2° Anno:   
-clinica medica generale (triennale);   
-clinica e terapia del tubo digerente, fegato e pancreas (triennale);   
-anatomia ed istologia patologica (biennale);   
-fisiopatologia e semeiotica digestiva (biennale);   
-radiologia e medicina nucleare (biennale);   
-scienza dell'alimentazione e dietetica.   
-3° Anno:   
-clinica medica generale;   
-clinica e terapia del tubo digerente, fegato e pancreas;   
-anatomia ed istologia patologica;   
-fisiopatologia e semeiotica digestiva;   
-radiologia e medicina nucleare;   
-endoscopia digestiva (biennale).   
-4° Anno:   
-clinica medica generale;   
-clinica e terapia del tubo digerente, fegato e pancreas;   
-endoscopia digestiva;   
-terapia intensiva;   
-gastroenterologia pediatrica;   
-elementi di chirurgia del tubo digerente, fegato e pancreas.   
-E' obbligatorio il tirocinio pratico durante il quadriennio di studi da svolgere nell'istituto clinico sede della scuola o in reparti ospedalieri di gastroenterologia, conforme alle scelte approvate dal consiglio della scuola.   
-Ogni scuola puo' aggiungere a queste materie fondamentali obbligatorie delle materie complementari con corsi semestrali, in numero non superiore a sei per la totalita' del corso.   
-Per le materie biennali e triennali e' dato l'esame alla fine del biennio o triennio.   
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
-Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno; per le materie biennali e triennali, invece, e' dato l'esame alla fine del biennio o del triennio.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in gastroenterologia ed endoscopia digestiva, gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+Nell'art. 16, concernente il corso di laurea in scienze politiche, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+legislazione sociale;  
+relazioni industriali;  
+diritto internazionale e comparato del lavoro;  
+economia e politica del lavoro;  
+diritto penale del lavoro;  
+statistica (corso avanzato).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 marzo 1980
+### Dato a Roma, addi' 19 gennaio 1981
 
-PERTINI VALITUTTI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 29 luglio 1980
+Registrato alla Corte dei conti, addi' 2 aprile 1981
 
-Registro n. 72 Istruzione, foglio n. 272
+Registro n. 31 Istruzione, foglio n. 298

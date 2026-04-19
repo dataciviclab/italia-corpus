@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1986 n. 1034
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 febbraio 1977 n. 994
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1986 n. 1034
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 febbraio 1977 n. 994
+===============================================================
 
 Autorizzazione alla Lega nazionale per la difesa del cane, in Milano, ad accettare un legato.
 ---------------------------------------------------------------------------------------------
@@ -12,8 +12,10 @@ Art. 1
 
 N.
 
-1034. Decreto del Presidente della Repubblica 27 dicembre 1986, col quale, sulla proposta del Ministro della sanita', la Lega nazionale per la difesa del cane, in Milano, viene autorizzata ad accettare il legato, consistente in una somma equivalente al valore medio di borsa di monete sterline in oro da versarsi mensilmente alla Lega stessa, disposto dal signor Giovanni Mossa con testamento olografo 1 febbraio 1977, pubblicato in data 24 febbraio 1977, n. 16021/6053 di repertorio, a rogito dott. Gian Maria Grisi, notaio in Belgioioso (Pavia), registrato a Corteolona (Pavia), in data 1 marzo 1977 al n. 187.   
+994. Decreto del Presidente della Repubblica 15 febbraio 1977, col quale, sulla proposta del Ministro per la sanita', la Lega nazionale per la difesa del cane, in Milano, viene autorizzata ad accettare il legato disposto dalla sig.ra Kellemen Agnese ved.  
+Bianchetti con testamento olografo 20 maggio 1973, pubblicato per atto notaio Carlo Emiliano Verde il 5 ottobre 1973.  
+reg. n. 299723, consistente in beni immobili e in beni mobili, per un valore complessivo di L. 41.766.900.  
   
-Visto, il Guardasigilli: ROGNONI   
-Registrato alla Corte dei conti, addi' 27 febbraio 1987   
-Registro n. 2 Sanita', foglio n. 290
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei Conti, addi' 4 gennaio 1978  
+Registro n. 1 Sanita', foglio n. 40

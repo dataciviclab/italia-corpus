@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 274
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1982 n. 988
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 274
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1982 n. 988
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
@@ -22,11 +22,11 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Veduto il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
@@ -39,18 +39,38 @@ Articolo unico
 --------------
 
   
-Art. 47 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' inserito l'insegnamento di "semeiotica neurologica".  
+Il secondo comma dell'art. 48, relativo al corso di laurea in medicina e chirurgia, viene soppresso e sostituito dal seguente:  
+  
+Non si puo' essere ammessi Se non si e' superato  
+a sostenere l'esame di: esame di:  
+Anatomia umana normale Istologia ed embriologia  
+generale  
+Chimica biologica Chimica e propedeutica  
+biochimica  
+  
+/ Fisica  
+Fisiologia umana < Chimica biologica  
+\ Anatomia umana normale  
+  
+/ Biologia e zoologia generale | compresa la genetica e  
+Microbiologia < la biologia delle razze | Istologia ed embriologia  
+\ generale  
+/ Microbiologia  
+Patologia generale \ Chimica biologica  
+Farmacologia - Patologia  
+speciale medica - Patologia / Fisiologia umana  
+speciale chirurgica \ Patologia generale  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 marzo 1984
+### Dato a Roma, addi' 10 settembre 1982
 
-PERTINI FALCUCCI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 11 giugno 1984
+Registrato alla Corte dei conti, addi' 10 gennaio 1983
 
-Registro n. 34 Istruzione, foglio n. 326
+Registro n. 1 Istruzione, foglio n. 19

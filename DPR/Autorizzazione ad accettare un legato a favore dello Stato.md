@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1986 n. 893
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 luglio 1975 n. 449
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1986 n. 893
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 luglio 1975 n. 449
 =============================================================
 
 Autorizzazione ad accettare un legato a favore dello Stato.
@@ -10,11 +10,10 @@ Autorizzazione ad accettare un legato a favore dello Stato.
 Art. 1
 ------
 
-n.
+N.
 
-893. Decreto del presidente della Repubblica 4 giugno 1986, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato del legato, consistente in un bicchiere d'argento con custodia di cuoio antico e con lo stemma della famiglia Troyli, il quale riveste un notevole interesse artistico, da destinare al Museo degli argenti di Palazzo Pitti, in Firenze, disposte dall'avv.  
-Goffredo Troyli con testamento olografo 10 aprile 1967, pubblicato in data 17 gennaio 1983, n. 88462/14021 di repertorio, a rogito dott. Sandro Scoccianti, notaio in Ancona.  
+449. Decreto del Presidente della Repubblica 21 luglio 1975, col quale, sulla proposta del Ministro per i beni culturali ed ambientali, viene autorizzata la accettazione di un legato, consistente in due libri ebraici con legature in argento della prima meta' del secolo XVIII, disposto a favore dello Stato dalla sig.ra Carvaglio Matilde ved. Ansaldi, da destinare al museo di palazzo Venezia o ad altro museo.  
   
-Visto, il Guardasigilli: ROGNONI  
-Registrato alla Corte dei conti, addi' 15 dicembre 1956  
-Registro n. 35 Beni culturali, foglio n. 37
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 3 settembre 1975  
+Atti di Governo, registro n. 12, foglio n. 4

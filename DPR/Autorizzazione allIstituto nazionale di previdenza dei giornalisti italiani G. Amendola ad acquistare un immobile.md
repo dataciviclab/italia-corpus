@@ -1,19 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 novembre 1968 n. 1466
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 gennaio 1968 n. 447
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 novembre 1968 n. 1466
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 gennaio 1968 n. 447
+==============================================================
 
-Autorizzazione all'Istituto nazionale di previdenza dei giornalisti italiani "G. Amendola", ad acquistare un immobile.
-----------------------------------------------------------------------------------------------------------------------
+Autorizzazione all'Istituto nazionale di previdenza dei giornalisti italiani "G. Amendola" ad acquistare un immobile.
+---------------------------------------------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-1466. Decreto del Presidente della Repubblica 29 novembre 1968, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Istituto nazionale di previdenza dei giornalisti italiani "G. Amendola", viene autorizzato ad acquistare per il prezzo di L. 1.750.000.000, l'immobile costituito da dieci piani, oltre il piano interrato, sito in Roma alla via Eusebio Chini, 10, angolo via Omboni, 10, di proprieta' della societa' CO.ZO.CO.  
+447. Decreto del Presidente della Repubblica 24 gennaio 1968, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Istituto nazionale di previdenza dei giornalisti italiani "G. Amendola", viene autorizzato ad acquistare, per il prezzo di lire 280.000.000 (duecentottantamilioni), l'immobile costituito da un fabbricato ad uso uffici, sito in Roma, piazza Apollodoro n. I di proprieta' del dott. Paolo Sacerdote.  
   
-Visto, il Guardasigilli: GAVA  
-Registrato alla Corte dei conti, addi' 5 marzo 1969  
-Atti del Governo, registro n. 225, foglio n. 107. - GRECO
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 8 aprile 1968  
+Atti del Governo, registro n. 218, foglio n. 125. - GRECO

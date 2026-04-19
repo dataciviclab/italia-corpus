@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 493
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 aprile 1985 n. 499
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 493
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 aprile 1985 n. 499
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
@@ -39,19 +39,20 @@ Articolo unico
 --------------
 
   
-Art. 69 - nell'elenco degli insegnamenti complementari del corso di laurea in materie letterarie e' inserito il seguente insegnamento:  
-storia dell'arte italiana.  
+Art. 71 - nell'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere della facolta' di magistero e' inserito l'insegnamento di "letteratura anglo-canadese".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 giugno 1983
+### Dato a Roma, addi' 5 aprile 1985
 
-PERTINI FALCUCCI
+PERTINI
 
-Visto, il Guardasigilli: DARIDA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 17 agosto 1983
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registro n. 59 Istruzione, foglio n. 143
+Registrato alla Corte dei conti, addi' 18 settembre 1985
+
+Registro n. 63 Istruzione, foglio n. 349

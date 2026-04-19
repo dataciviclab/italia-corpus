@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 1967 n. 143
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 dicembre 1966 n. 1353
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 1967 n. 143
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 dicembre 1966 n. 1353
+================================================================
 
 Autorizzazione all'Automobile Club d'Italia, con sede in Roma, ed all'Automobile Club di Cuneo ad acquistare un immobile.
 -------------------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-143. Decreto del Presidente della Repubblica 13 febbraio 1967, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile Club d'Italia, con sede in Roma, e l'Automobile Club di Cuneo vengono autorizzati ad acquistare in comproprieta' - rispettivamente nella misura di 2/3 e di 1/3 - per adibirla a sede dei propri uffici, per il complessivo prezzo di L. 29.600.000, dal geometra Ettore Fantino, una porzione immobiliare facente parte del fabbricato sito in Cuneo, tra il corso Nizza e la via Piave, denominato "Condominio Minerva", costituita, detta porzione, dall'intero piano ammezzato, da un piano terreno, con accesso dal corso Nizza n. 47-bis, da un piano seminterrato, da un vano sotterraneo ed infine da un vano sottotetto destinato a solaio; con i proporzionali diritti condominiali in ragione di 333/1000.  
+1353. Decreto del Presidente della Repubblica 29 dicembre 1966, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile Club d'Italia, con sede in Roma, e l'Automobile Club di Cuneo vengono autorizzati ad acquistare in comproprieta', rispettivamente nella misura di 2/3 e di 1/3, dalla societa' in nome collettivo "Figli Di Tutto Ermenegildo - Impresa Costruzioni", con sede in Cuneo, per l'ampliamento della sede dei propri uffici, per il prezzo di lire 27.500.000, un locale posto al piano seminterrato, esteso mq. 315,70; altro locale posto al piano terreno, esteso mq. 16,20, comprensivo di una scala destinata al passaggio interno tra l'attuale sede ed il nuovo locale, con i proporzionali diritti condominiali, facenti parte del fabbricato denominato "Palazzo Residenziale", sito in Cuneo alla piazza Europa n. 5.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 23 marzo 1967  
-Atti del Governo, registro n. 210, foglio n. 53. - GRECO
+Registrato alla Corte dei conti, addi' 17 marzo 1967  
+Atti del Governo, registro n. 210, foglio n. 23. - DI PRETORO

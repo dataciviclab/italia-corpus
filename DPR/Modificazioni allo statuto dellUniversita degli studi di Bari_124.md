@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1980 n. 883
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1247
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1980 n. 883
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1247
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -12,146 +12,205 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e Successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso;
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 68 - all'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:
+
+miglioramento genetico degli alberi forestali;
+
+salvaguardia e valutazione delle risorse genetiche;
+
+geologia applicata.
+
+Lo stesso elenco e' modificato nel senso che gli insegnamenti semestrali di produzione e controllo delle sementi e di batteriologia fitopatologica mutano la denominazione in quella di principi e metodologie genetiche delle produzioni sementiere (annuale) e di fitobatteriologia (annuale) ed i seguenti insegnamenti passano da semestrali ad annuali:
+
+bachicoltura e apicoltura;
+
+colture protette;
+
+coniglicoltura;
+
+edilizia zootecnica;
+
+fisioclimatologia animale;
+
+foraggicoltura;
+
+frutticoltura industriale;
+
+igiene zootecnica;
+
+micotossicologia;
+
+patologia delle piante ortive;
+
+patologia delle sementi;
+
+tecnica delle applicazioni frigorifere.
+
+L'art. 76, relativo all'elenco degli istituti annessi alla facolta' di agraria, e' modificato nel senso che all'istituto di agronomia e coltivazioni erbacee fa capo anche l'insegnamento di giardini e tappeti erbosi; all'istituto di microbiologia agraria e tecnica fa capo l'insegnamento di microbiologia delle contaminazioni dell'ambiente e dei prodotti agricoli, all'istituto di zootecnia fa capo l'insegnamento di fisiologia della nutrizione animale; all'istituto di meccanica agraria fanno capo gli insegnamenti di meccanizzazione delle aziende zootecniche e di macchine e attrezzature per la sistemazione e per grandi movimenti di terra.
+
+All'istituto di industrie agrarie fa capo l'insegnamento di chimica e tecnologia degli alimenti; all'istituto di estimo rurale e contabilita' fa capo l'insegnamento di metodologia della pratica estimativa; all'istituto di entomologia agraria fa capo l'insegnamento di entomologia forestale.
+
+Dopo l'art. 76, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione del seminario di studi di genetica agraria.
+
+Seminario di studi di genetica agraria
+
+Art. 77. - Il seminario di genetica agraria e' istituito con lo scopo di promuovere il progresso degli studi di genetica applicata alle produzioni vegetali e animali attraverso conferenze, cicli di lezioni, riunioni e pubblicazioni a carattere interdisciplinare e di ampliare e completare la formazione e la preparazione scientifica dei giovani.
+
+Art. 78. - Organo direttivo del seminario e' il consiglio direttivo. Il consiglio direttivo e' nominato dal consiglio di facolta'; esso e' costituito da cinque professori ufficiali della facolta' di agraria, almeno tre dei quali appartenenti agli istituti di miglioramento genetico delle piante agrarie, di agronomia e coltivazioni erbacee e di zootecnia.
+
+Art. 79. - Il consiglio direttivo stabilisce le linee generali di sviluppo e le attivita' scientifiche del seminario.
+
+Art. 80. - Il consiglio direttivo nomina tra i suoi membri un direttore. Il consiglio e il direttore durano in carica tre anni.
+
+Gli atti amministrativi hanno la firma del direttore che e' il responsabile del seminario.
+
+Art. 81. - Il seminario ha sede presso l'istituto di miglioramento genetico nelle piante agrarie.
+
+Art. 129 - all'elenco degli istituti, annessi alla facolta' di medicina veterinaria, sono aggiunti i seguenti istituti policattedra:
+
+istituto di clinica medica veterinaria:
+
+istituto di ispezione degli alimenti;
+
+istituto di patologia delle malattie infettive e parassitarie degli animali domestici;
+
+istituto di alimentazione e nutrizione animale;
+
+istituto di zootecnica.
+
+L'art. 130, relativo al centro di microscopia elettronica, e' abrogato e sostituito dal seguente:
+
+E' istituito presso l'Universita' degli studi di Bari un centro di microscopia elettronica. Esso ha sede propria e svolge attivita' scientifica e didattica in campo medico, biologico e abiologico.
+
+Il centro e' diretto da un comitato esecutivo composto dal direttore e da sette membri in rappresentanza delle facolta' di medicina e chirurgia, ingegneria, scienze, agraria, farmacia, economia e commercio e medicina veterinaria.
+
+Il direttore e' nominato, per un quinquennio, dal rettore su proposta dei rappresentanti delle facolta' in seno al comitato esecutivo fra i professori ufficiali dell'Universita' di Bari particolarmente competenti nel campo della microscopia elettronica.
+
+I membri rappresentanti delle facolta' sono designati dai rispettivi consigli di facolta'; essi durano in carica per due anni e possono essere confermati.
+
+Al comitato esecutivo e' devoluta la responsabilita' dell'attivita' scientifica e della gestione tecnica ed amministrativa del centro.
+
+Il centro dispone di un fondo destinato sia al mantenimento e al miglioramento delle attrezzature sia alle spese di gestione.
+
+Detti fondi sono costituiti da:
+
+a) una dotazione annuale stabilita, su proposta del rettore, dal consiglio di amministrazione dell'Universita' degli studi di Bari;
+
+b) fondi provenienti da enti pubblici o privati, sia sotto forma di donazione, sia in seguito a richieste del comitato esecutivo;
+
+c) contributo dei vari istituti o ricercatori per le ricerche eseguite.
+
+Il funzionamento del centro e' disciplinato da un apposito regolamento.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1977
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 18 luglio 1978 Registro n. 77 Istruzione, foglio n. 333
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Il testo dell'art. 53, relativo alla facolta' di medicina e chirurgia, e' cosi' modificato:  
-La facolta' di medicina e chirurgia conferisce:  
-a) la laurea in medicina e chirurgia;  
-b) la laurea in odontoiatria e protesi dentaria.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
+Decreta:   
   
-Dopo l'art. 56, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in odontoiatria e protesi dentaria.   
-Corso di laurea in odontoiatria e protesi dentaria   
-Art. 57. - La durata del corso di studi per la laurea in odontoiatria e protesi dentaria e' di cinque anni, suddivisi in un biennio e un triennio.   
-Titolo di ammissione: quello previsto dalle vigenti disposizioni di legge.   
-Il numero massimo degli allievi iscrivibili e' di venti per anno di corso.   
-L'accesso al corso di laurea verra' regolato da un esame di ammissione; il punteggio da attribuire nell'esame sara' cosi' ripartito: il 30% sara' riservato al voto riportato dal candidato nell'esame di Stato di licenza della scuola secondaria superiore ed il 70% sara' riservato alla prova di esame di ammissione al corso di laurea con tests a scelta multipla su argomenti di biologia generale, chimica, fisica e matematica, secondo i programmi della scuola media superiore.   
-Art. 58. - Il corso di laurea in odontoiatria e protesi dentaria comincera' a funzionare a decorrere dall'anno accademico 1980-81 con il primo biennio.   
-Negli anni accademici successivi funzioneranno progressivamente gli anni di corso susseguenti al secondo.   
-Art. 59. - A partire dall'anno accademico 1981-82 saranno formulate due graduatorie distinte, l'una per gli studenti da iscriversi al primo anno, l'altra per quelli in possesso dei requisiti di cui al successivo art. 60 e che potranno iscriversi al secondo anno, in aggiunta agli iscritti provenienti dal primo anno e per un numero che in totale non superera' comunque le venti unita', sempre e solo nella eventualita' che esista una disponibilita' di posti resisi vacanti.   
-Art. 60. - Sono insegnamenti fondamentali:   
-Biennio:   
-1) anestesia generale e speciale odontostomatologica (semestrale);   
-\* 2) biologia generale applicata agli studi medici;   
-\* 3) chimica;   
-\* 4) chimica biologica;   
-5) farmacologia (semestrale);   
-\* 6) fisica medica;   
-7) fisiologia umana e dell'apparato stomatognatico;   
-8) igiene e odontoiatria preventiva e sociale con epidemiologia (semestrale);   
-9) istituzioni di anatomia umana normale e dell'apparato stomatognatico;   
-10) istituzioni di anatomia ed istologia patologica;   
-\* 11) istologia ed embriologia generale (compresa la citologia);   
-12) materiali dentari;   
-13) microbiologia (semestrale);   
-14) odontoiatria conservatrice (triennale - secondo, terzo e quarto anno);   
-15) patologia generale.   
-Triennio:   
-16) chirurgia speciale odontostomatologica (biennale - terzo e quarto anno);   
-17) clinica odontostomatologica (biennale - quarto e quinto anno);   
-18) medicina legale e delle assicurazioni e deontologia in odontostomatologia (semestrale);   
-19) neuropatologia e psicopatologia (semestrale);   
-20) ortognatodonzia e gnatologia (funzione masticatoria (biennale - quarto e quinto anno);   
-21) parodotologia (biennale-quarto e quinto anno);   
-22) patologia speciale chirurgica e propedeutica clinica;   
-23) patologia speciale medica e metodologia clinica (compresa la pediatria);   
-24) patologia speciale odontostomatologica;   
-25) pedodonzia (semestrale);   
-26) protesi dentaria (triennale - terzo, quarto e quinto anno);  
-27) radiologia generale e speciale odontostomatologica (semestrale).   
-Sono insegnamenti complementari:   
-\* 1) chirurgia maxillo-facciale;   
-\* 2) dermatologia e venerologia (semestrale);   
-\* 3) otorinolaringoiatria (semestrale);   
-\* 4) statistica sanitaria;   
-altri insegnamenti complementari nel piano della facolta' sempre mutuati dal corso di laurea in medicina e chirurgia.   
-Gli insegnamenti segnati con asterisco sono mutuati dal corso di laurea in medicina e chirurgia.   
-Gli insegnamenti fondamentali sono teorici e pratici e la loro frequenza e' obbligatoria.   
-Gli insegnamenti specificatamente odontostomatologici di ordine clinico comportano anche un tirocinio pratico continuativo da espletare prima di sostenere i relativi esami.   
-Gli allievi, che non conseguono le attestazioni di frequenza, non possono essere ammessi a sostenere le relative prove di esame.   
-Per gli insegnamenti semestrali ed annuali lo studente e' tenuto a sostenere un esame alla fine del corso.   
-Per gli insegnamenti pluriennali lo studente e' tenuto a superare tanti esami per quante sono le annualita'.   
-Il tirocinio pratico, relativo ad ogni insegnamento clinico, deve prevedere da parte di componenti dell'organico, una assistenza didattica adeguata al numero degli studenti.   
-  
-  
-  
-Non si puo' essere ammessi Se non si e' superato  
-a sostenere l'esame di: l'esame di:  
-  
-  
-Fisiologia umana e dell'apparato Istituzioni di anatomia umana  
-stomatognatico normale e dell'apparato  
-Patologia generale stomatognatico  
-Chimica  
-Biologia generale applicata  
-agli studi medici  
-Fisica medica  
-  
-  
-Patologia speciale e metodologia Fisiologia umana e dell'ap-  
-clinica (compresa la parato stomatognatico  
-pediatria) Patologia generale  
-Patologia speciale chirurgica e propedeutica clinica  
-  
-  
-Clinica odontostomatologica Patologia speciale medica e  
-metodologia clinica (com-  
-presa la pediatria)  
-Patologia speciale chirurgica  
-e propedeutica clinica  
-Istituzioni di anatomia ed  
-istologia patologica  
-Patologia speciale odonto-  
-stomatologica  
-Chirurgia speciale odonto-  
-stomatologica.  
-  
-  
-  
-  
-Per essere ammesso a sostenere l'esame di laurea in odontoiatria e protesi dentaria, lo studente deve aver seguito i corsi ed aver superato gli esami in tutti gli insegnamenti fondamentali ed almeno in due insegnamenti scelti tra i complementari ed aver, inoltre, seguito le prescritte esercitazioni cliniche, i tirocini pratici ed averne conseguito le relative attestazioni.   
-L'esame di laurea consiste nella discussione di una tesi scritta su argomenti in odontostomatologia da richiedere almeno all'inizio dell'ultimo anno di corso.   
-Per il trasferimento degli studenti iscritti al corso di laurea in medicina e chirurgia le abbreviazioni di corso non possono superare l'ammissione oltre il secondo anno, subordinatamente al numero dei posti resisi disponibili all'inizio del secondo anno sempre che gli aspiranti abbiano superato gli esami di biologia generale applicata agli studi medici, chimica, fisica medica, istologia ed embriologia generale (compresa la citologia).   
-Per i laureati in medicina e chirurgia le abbreviazioni di corso potranno essere concesse, sempre con iscrizione al secondo anno, subordinatamente al numero dei posti resisi disponibili all'inizio del secondo anno e dopo che sia trascorso un anno accademico dal conseguimento della laurea precedente.   
-Per esercitare la professione i laureati in odontoiatria e protesi dentaria devono superare un apposito esame di Stato.   
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 68 - all'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:   
+miglioramento genetico degli alberi forestali;   
+salvaguardia e valutazione delle risorse genetiche;   
+geologia applicata.   
+Lo stesso elenco e' modificato nel senso che gli insegnamenti semestrali di produzione e controllo delle sementi e di batteriologia fitopatologica mutano la denominazione in quella di principi e metodologie genetiche delle produzioni sementiere (annuale) e di fitobatteriologia (annuale) ed i seguenti insegnamenti passano da semestrali ad annuali:   
+bachicoltura e apicoltura;   
+colture protette;   
+coniglicoltura;   
+edilizia zootecnica;   
+fisioclimatologia animale;   
+foraggicoltura;   
+frutticoltura industriale;   
+igiene zootecnica;   
+micotossicologia;   
+patologia delle piante ortive;   
+patologia delle sementi;   
+tecnica delle applicazioni frigorifere.   
+L'art. 76, relativo all'elenco degli istituti annessi alla facolta' di agraria, e' modificato nel senso che all'istituto di agronomia e coltivazioni erbacee fa capo anche l'insegnamento di giardini e tappeti erbosi; all'istituto di microbiologia agraria e tecnica fa capo l'insegnamento di microbiologia delle contaminazioni dell'ambiente e dei prodotti agricoli, all'istituto di zootecnia fa capo l'insegnamento di fisiologia della nutrizione animale; all'istituto di meccanica agraria fanno capo gli insegnamenti di meccanizzazione delle aziende zootecniche e di macchine e attrezzature per la sistemazione e per grandi movimenti di terra.  
+All'istituto di industrie agrarie fa capo l'insegnamento di chimica e tecnologia degli alimenti; all'istituto di estimo rurale e contabilita' fa capo l'insegnamento di metodologia della pratica estimativa; all'istituto di entomologia agraria fa capo l'insegnamento di entomologia forestale.   
+Dopo l'art. 76, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione del seminario di studi di genetica agraria.   
+Seminario di studi di genetica agraria   
+Art. 77. - Il seminario di genetica agraria e' istituito con lo scopo di promuovere il progresso degli studi di genetica applicata alle produzioni vegetali e animali attraverso conferenze, cicli di lezioni, riunioni e pubblicazioni a carattere interdisciplinare e di ampliare e completare la formazione e la preparazione scientifica dei giovani.   
+Art. 78. - Organo direttivo del seminario e' il consiglio direttivo. Il consiglio direttivo e' nominato dal consiglio di facolta'; esso e' costituito da cinque professori ufficiali della facolta' di agraria, almeno tre dei quali appartenenti agli istituti di miglioramento genetico delle piante agrarie, di agronomia e coltivazioni erbacee e di zootecnia.   
+Art. 79. - Il consiglio direttivo stabilisce le linee generali di sviluppo e le attivita' scientifiche del seminario.   
+Art. 80. - Il consiglio direttivo nomina tra i suoi membri un direttore. Il consiglio e il direttore durano in carica tre anni.   
+Gli atti amministrativi hanno la firma del direttore che e' il responsabile del seminario.   
+Art. 81. - Il seminario ha sede presso l'istituto di miglioramento genetico nelle piante agrarie.   
+Art. 129 - all'elenco degli istituti, annessi alla facolta' di medicina veterinaria, sono aggiunti i seguenti istituti policattedra:   
+istituto di clinica medica veterinaria:   
+istituto di ispezione degli alimenti;   
+istituto di patologia delle malattie infettive e parassitarie degli animali domestici;   
+istituto di alimentazione e nutrizione animale;   
+istituto di zootecnica.   
+L'art. 130, relativo al centro di microscopia elettronica, e' abrogato e sostituito dal seguente:   
+E' istituito presso l'Universita' degli studi di Bari un centro di microscopia elettronica. Esso ha sede propria e svolge attivita' scientifica e didattica in campo medico, biologico e abiologico.   
+Il centro e' diretto da un comitato esecutivo composto dal direttore e da sette membri in rappresentanza delle facolta' di medicina e chirurgia, ingegneria, scienze, agraria, farmacia, economia e commercio e medicina veterinaria.   
+Il direttore e' nominato, per un quinquennio, dal rettore su proposta dei rappresentanti delle facolta' in seno al comitato esecutivo fra i professori ufficiali dell'Universita' di Bari particolarmente competenti nel campo della microscopia elettronica.   
+I membri rappresentanti delle facolta' sono designati dai rispettivi consigli di facolta'; essi durano in carica per due anni e possono essere confermati.   
+Al comitato esecutivo e' devoluta la responsabilita' dell'attivita' scientifica e della gestione tecnica ed amministrativa del centro.   
+Il centro dispone di un fondo destinato sia al mantenimento e al miglioramento delle attrezzature sia alle spese di gestione.   
+Detti fondi sono costituiti da:   
+a) una dotazione annuale stabilita, su proposta del rettore, dal consiglio di amministrazione dell'Universita' degli studi di Bari;   
+b) fondi provenienti da enti pubblici o privati, sia sotto forma di donazione, sia in seguito a richieste del comitato esecutivo;   
+c) contributo dei vari istituti o ricercatori per le ricerche eseguite.   
+Il funzionamento del centro e' disciplinato da un apposito regolamento.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 ottobre 1980
+### Dato a Roma, addi' 31 ottobre 1977
 
-PERTINI BODRATO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 10 dicembre 1980
+Registrato alla Corte dei conti, addi' 18 luglio 1978
 
-Registro n. 115 Istruzione, foglio n. 362
+Registro n. 77 Istruzione, foglio n. 333

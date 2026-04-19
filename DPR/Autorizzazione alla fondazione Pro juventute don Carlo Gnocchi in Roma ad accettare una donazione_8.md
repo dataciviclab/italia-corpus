@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 novembre 1979 n. 852
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 84
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 novembre 1979 n. 852
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 84
+===========================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una donazione.
 ------------------------------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-852. Decreto del Presidente della Repubblica 28 novembre 1979, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare la donazione, consistente nella nuda proprieta' di un immobile sito nel comune di Desenzano sul Garda (Brescia), via Scuole, censito al nuovo catasto edilizio urbano alla partita 1350, foglio 8, mappale 9976, del valore periziato L. 40.000.000, disposta dalla sig.ra Giulia Gelmini con atto 27 febbraio 1976, n. 25314/2790 di repertorio, a rogito dott.  
-Ferruccio Brambilla, notaio in Milano, registrato a Busto Arsizio (Varese) in data 11 marzo 1976, n. 617, vol. 157.  
+84. Decreto del Presidente della Repubblica 2 marzo 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare la donazione, consistente nella quota di meta' dell'immobile sito nel comune di Lurate Caccivio, via Olgiate n. 11, distinto nel nuovo catasto edilizio urbano alla partita 265, foglio 6, mappale 2251 sub 1 e mappale 2251 sub 2, con la pertinente area di cortile, valore attribuito con perizia di parte lire 25.000.000 elevato dall'ufficio tecnico erariale di Como a L. 50.000.000: quota 1/2 = L. 25.000.000, disposta dalla sig.ra Maspero Pierina con atto pubblico 30 novembre 1973, n. 17253/1826 di repertorio, a rogito dott. Ferruccio Brambilla, notaio in Milano, registrato a Busto Arsizio in data 14 dicembre 1973 al n. 3185.  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 21 marzo 1980  
-Registro n. 2 Presidenza, foglio n. 339
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 10 aprile 1984  
+Registro n. 3 Presidenza, foglio n. 344

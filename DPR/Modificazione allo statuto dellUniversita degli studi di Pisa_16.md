@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1985 n. 866
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1982 n. 1076
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1985 n. 866
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1982 n. 1076
+===============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -24,9 +24,9 @@ Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http:
 
 Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata [legge n. 615/1981](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;615);
 
-Veduto il parere del Consiglio universitario nazionale;
+Veduto il parere espresso al riguardo dal Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
@@ -39,22 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 78, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
-  
-tecnica fisiologica.  
+Art. 78 - all'elenco degli insegnamenti complementari relativi al corso di laurea in medicina e chirurgia, e' aggiunto il seguente:  
+otorinolaringoiatria pediatrica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 ottobre 1985
+### Dato a Roma, addi' 28 ottobre 1982
 
-COSSIGA
+PERTINI BODRATO
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DARIDA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 31 gennaio 1983
 
-Registrato alla Corte dei conti, addi' 21 gennaio 1986
-
-Registro n. 2 Istruzione, foglio n. 94
+Registro n. 6 Istruzione, foglio n. 385

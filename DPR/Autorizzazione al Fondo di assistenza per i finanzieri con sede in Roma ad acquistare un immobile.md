@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 settembre 1970 n. 1055
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 gennaio 1967 n. 45
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 settembre 1970 n. 1055
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 gennaio 1967 n. 45
+=============================================================
 
 Autorizzazione al Fondo di assistenza per i finanzieri, con sede in Roma, ad acquistare un immobile.
 ----------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1055. Decreto del Presidente della Repubblica 11 settembre 1970, col quale, sulla proposta del Ministro per le finanze, il Fondo di assistenza per i finanzieri, con sede in Roma, viene autorizzato ad acquistare, al prezzo di L. 650.000.000, l'immobile sito in Roma con accesso da via Dante de Blasi n. 26 prov., alle condizioni specificate nella deliberazione consiliare del 9 aprile 1970.  
+45. Decreto del Presidente della Repubblica 18 gennaio 1967, col quale, sulla proposta del Ministro per le finanze, il Fondo di assistenza per i finanzieri, con sede in Roma, viene autorizzato ad acquistare al prezzo di lire 179.000.000, l'immobile sito in Roma, con accesso da viale Gorizia n. 2 e da via Nomentana numeri 317 e 319, alle condizioni specificate nella deliberazione consiliare del 27 settembre 1962.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 21 dicembre 1970  
-Atti del Governo, registro n. 239, foglio n. 20. - CARUSO
+Registrato alla Corte dei conti, addi' 18 febbraio 1967  
+Atti del Governo, registro n. 209, foglio n. 56. - VILLA

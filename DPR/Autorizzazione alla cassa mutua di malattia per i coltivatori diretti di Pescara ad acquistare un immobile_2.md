@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1980 n. 404
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 1981 n. 479
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1980 n. 404
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 1981 n. 479
+===============================================================
 
 Autorizzazione alla cassa mutua di malattia per i coltivatori diretti di Pescara ad acquistare un immobile.
 -----------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-404. Decreto del Presidente della Repubblica 13 maggio 1980, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, la cassa mutua di malattia per i coltivatori diretti di Pescara, viene autorizzata ad acquistare in via di sanatoria, al prezzo di L. 7.000.000, il primo piano dello stabile sito, in Pescara, zona Penne, piazzale S. Francesco, censito al nuovo catasto edilizio urbano al foglio 72, particella 40/7, di proprieta' dei sig. Antonio Palma, come da atto di compravendita del 1 settembre 1959, numero 24452/2577 di repertorio, a rogito dott. Alessandro Di Marco, notaio in Pianella (Pescara), registrato a Pescara in data 16 settembre 1959, n. 667, da adibire a sede ufficio zona Penne.  
+479. Decreto del Presidente della Repubblica 13 febbraio 1981, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, la cassa mutua di malattia per i coltivatori diretti di Pescara viene autorizzata ad acquistare, in via di sanatoria, al prezzo di L. 9.270.000, l'intero primo piano del fabbricato sito in Pescara, via Firenze angolo via Campania, censito al nuovo catasto edilizio urbano alla partita 4216, foglio 21, particella 21 e 475, di proprieta' dell'impresa F.lli Cetrullo, come da atto di compravendita 26 settembre 1958, n. 31834/6484 di repertorio, a rogito avv. Donato Mastroberardino, notaio in Citta' S. Angelo, registrato a Pescara in data 11 ottobre 1958, da adibire a sede provinciale dell'ente.   
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 22 luglio 1980  
-Registro n. 1 Lavoro, foglio n. 117
+Visto, il Guardasigilli: SARTI   
+Registrato alla Corte dei conti, addi' 8 agosto 1981   
+Registro n. 1 Lavoro, foglio n. 153

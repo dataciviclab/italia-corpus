@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1984 n. 522
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1969 n. 1333
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1984 n. 522
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1969 n. 1333
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,325 +18,822 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta.
 
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
-
-Veduto il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso.
+
+Gli articoli 111, 112, 113, 117, 118, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189 relativi alle scuole di specializzazione in pediatria, medicina del lavoro, stomatologia (odontoiatria e protesi dentaria), anestesiologia, gerontologia e geriatria, medicina interna sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in clinica pediatrica
+
+Art. 111. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in clinica pediatrica, con sede presso la clinica pediatrica di questa universita' e con il numero di venticinque iscritti per il complesso degli anni di corso.
+
+E' titolo di ammissione la laurea in medicina e chirurgia.
+
+Art. 112. - La durata dei corsi e' di tre anni.
+
+L'ammissione al corso sara' fatta per titoli e per esami.
+
+E' obbligatorio l'internato con un periodo annuale di ferie non superiore a due mesi.
+
+L'iscrizione direttamente al 2° anno del corso puo' essere consentita, a giudizio del consiglio della scuola, per i candidati che abbiano gia' conseguito il diploma di specializzazione in puericultura o che abbiano titoli pediatrici.
+
+Art. 113. - Le materie di insegnamento sono le seguenti distribuite nei tre anni di corso:
+
+Materie di insegnamento fondamentali:
+
+1° Anno:
+
+1) Clinica pediatrica (triennale);
+
+2) Patologia pediatrica (biennale);
+
+3) Puericultura (biennale);
+
+4) Semeiotica pediatrica e tecnica diagnostica (biennale);
+
+5) Auxologia normale e patologica;
+
+6) Psicologia dell'eta' evolutiva.
+
+2° Anno:
+
+1) Clinica pediatrica (triennale);
+
+2) Patologia pediatrica (biennale);
+
+3) Puericultura (biennale);
+
+4) Semeiotica pediatrica e tecnica diagnostica (biennale);
+
+5) Terapia pediatrica;
+
+6) Radiologia pediatrica;
+
+7) Malattie infettive dell'infanzia.
+
+3° Anno:
+
+1) Clinica pediatrica (triennale);
+
+2) Neuropsichiatria ed igiene mentale dell'infanzia.
+
+Materie di insegnamento complementari:
+
+Le materie fondamentali sopra elencate saranno integrate, a giudizio del consiglio della scuola, da almeno tre insegnamenti scelti fra i seguenti:
+
+Chirurgia pediatrica;
+
+Ortopedia e traumatologia infantile;
+
+Odontoiatria;
+
+Clinica dermosifilopatica;
+
+Clinica oculistica;
+
+Clinica otorinolaringoiatrica;
+
+Cardiologia;
+
+Genetica,
+
+ed altri eventuali che il consiglio della scuola puo' stabilire di anno in anno.
+
+Il direttore della scuola, inoltre, puo' disporre che si tengano un certo numero di conferenze su argomenti di interesse pediatrico.
+
+Per conseguire il diploma di specializzazione in clinica pediatrica gli iscritti al corso, dopo aver superato tutti gli esami e completata la frequenza obbligatoria, dovranno presentare e discutere una dissertazione scritta su un argomento di pediatria.
+
+Il consiglio della scuola risultera' costituito dai titolari di tutte le materie fondamentali e di quelle complementari.
+
+Scuola di specializzazione in medicina del lavoro
+
+Art. 117. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in medicina del lavoro, con sede presso l'istituto di medicina del lavoro, e con il numero massimo di trenta iscritti per il complesso dei tre anni di corso.
+
+Il direttore dell'istituto di medicina del lavoro e' direttore della scuola.
+
+Titolo di ammissione e' la laurea in medicina e chirurgia.
+
+Art. 118. - Le materie di insegnamento sono le seguenti:
+
+1) Fisiologia del lavoro ed ergonomia (2 anni);
+
+2) Tecnologia ed igiene del lavoro (3 anni);
+
+3) Patologia e clinica del lavoro (3 anni);
+
+4) Medicina legale e delle assicurazioni (1 anno);
+
+5) Psicologia del lavoro (2 anni);
+
+6) Medicina preventiva dei lavoratori (2 anni);
+
+7) Radiologia e medicina nucleare (1 anno);
+
+8) Infortunistica e pronto soccorso (2 anni);
+
+9) Tossicologia industriale e diagnostica di laboratorio (2 anni);
+
+10) Dermatologia professionale (1 anno);
+
+11) Biometria e statistica sanitaria (1 anno).
+
+La ripartizione degli insegnamenti nei tre anni di corso e' la seguente:
+
+1° Anno:
+
+1) Fisiologia del lavoro ed ergonomia (biennale);
+
+2) Tecnologia ed igiene del lavoro (triennale);
+
+3) Patologia e clinica del lavoro (triennale);
+
+4) Psicologia del lavoro (biennale).
+
+2° Anno:
+
+1) Fisiologia del lavoro ed ergonomia (biennale);
+
+2) Tecnologia ed igiene del lavoro (triennale);
+
+3) Patologia e clinica del lavoro (triennale);
+
+4) Psicologia del lavoro (biennale);
+
+5) Tossicologia industriale e diagnostica di laboratorio (biennale);
+
+6) Infortunistica e pronto soccorso (biennale);
+
+7) Biometria e statistica sanitaria;
+
+8) Medicina preventiva dei lavoratori (biennale).
+
+3° Anno:
+
+1) Patologia e clinica del lavoro (triennale);
+
+2) Tecnologia ed igiene del lavoro (triennale);
+
+3) Infortunistica e pronto soccorso (biennale);
+
+4) Medicina legale e delle assicurazioni;
+
+5) Medicina preventiva dei lavoratori (biennale);
+
+6) Radiologia e medicina nucleare;
+
+7) Tossicologia industriale e diagnostica di laboratorio (biennale);
+
+8) Dermatologia professionale.
+
+L'ordine degli esami e' il seguente:
+
+Al termine del 2° anno:
+
+Fisiologia del lavoro ed ergonomia;
+
+Psicologia del lavoro;
+
+Biometria e statistica sanitaria.
+
+Al termine del 3° anno:
+
+Patologia e clinica del lavoro;
+
+Tecnologia ed igiene del lavoro;
+
+Infortunistica e pronto soccorso;
+
+Medicina legale e delle assicurazioni;
+
+Medicina preventiva dei lavoratori;
+
+Radiologia e medicina nucleare;
+
+Tossicologia industriale e diagnostica di laboratorio;
+
+Dermatologia professionale.
+
+Gli iscritti alla scuola di specializzazione potranno accedere al secondo anno purche' in possesso di tutte le attestazioni di frequenza previste dal piano di studi del primo anno. Per quanto concerne l'ammissione al terzo anno di corso, vale quanto stabilito dal secondo comma dell'art. 105 dello statuto vigente.
+
+Scuola di specializzazione in odontoiatria e protesi dentaria
+
+Art. 142. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in odontoiatria e protesi dentaria con sede presso la clinica odontoiatrica.
+
+Art. 143. - Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia in numero di cinque per anno per un totale complessivo di quindici iscritti.
+
+Art. 144. - L'ammissione si fa previo concorso per titoli ed esami.
+
+Art. 145. - La durata dei corsi e' di tre anni.
+
+Art. 146. - Gli iscritti hanno l'obbligo della frequenza ai corsi ed alle esercitazioni; debbono altresi' frequentare il laboratorio di odontotecnica per l'intero anno scolastico.
+
+Art. 147. - Le vacanze saranno conformi al calendario universitario, con un solo mese completo estivo (agosto).
+
+Art. 148. - Gli esami di profitto, teorici e pratici, saranno sostenuti alla fine di ogni anno in un'unica sessione (ottobre). Alla fine del terzo anno, dopo aver superato gli esami di profitto, gli allievi saranno ammessi a sostenere l'esame di diploma che consiste nella discussione orale di una dissertazione scritta, su un tema proposto in precedenza dall'insegnante della materia sulla quale verte l'argomento e approvato dal direttore della scuola.
+
+Art. 149. - Le materie di insegnamento sono le seguenti:
+
+1) Embriologia e anatomia dentaria maxillo-facciale;
+
+2) Anatomia e istopatologia odontostomatologica;
+
+3) Microbiologia e igiene orale;
+
+4) Farmacologia odontostomatologica;
+
+5) Patologia odontostomatologica;
+
+6) Clinica odontostomatologica;
+
+7) Chirurgia maxillo-facciale;
+
+8) Anestesia e chirurgia stomatologica;
+
+9) Odontoiatria conservativa;
+
+10) Parodontologia;
+
+11) Clinica protesica dentaria e maxillo-facciale;
+
+12) Ortopedia dento-maxillo-facciale;
+
+13) Radiologia odontostomatologica;
+
+14) Odontotecnica;
+
+15) Odontoiatria infantile;
+
+16) Medicina legale odontostomatologica e delle assicurazioni.
+
+Esercitazioni pratiche affiancheranno gli insegnamenti.
+
+Art. 150. - La suddivisione delle materie di insegnamento nei tre anni di corso e' la seguente:
+
+1° Anno:
+
+1) Embriologia ed anatomia dentaria e maxillo-facciale;
+
+2) Microbiologia e igiene orale;
+
+3) Farmacologia;
+
+4) Patologia odontostomatologica;
+
+5) Odontotecnica;
+
+6) Anestesia e chirurgia stomatologica;
+
+7) Odontoiatria conservativa (1° anno) (biennale);
+
+Esercitazioni pratiche.
+
+2° Anno:
+
+1) Odontoiatria conservativa (2° anno);
+
+2) Clinica protesica dentaria e maxillo-facciale (1° anno) (biennale);
+
+3) Parodontologia (1° anno) (biennale);
+
+4) Anatomia e istologia odontostomatologica;
+
+5) Odontoiatria infantile;
+
+6) Radiologia odontostomatologica;
+
+7) Ortopedia dento-maxillo-facciale (1° anno) (biennale);
+
+8) Chirurgia maxillo-facciale (1° anno) (biennale);
+
+Esercitazioni pratiche.
+
+3° Anno:
+
+1) Clinica odontostomatologica;
+
+2) Chirurgia maxillo-facciale (2° anno);
+
+3) Medicina legale odontostomatologica e delle assicurazioni;
+
+4) Ortopedia dento-maxillo-facciale (2° anno);
+
+5) Clinica protesica dentaria e maxillo-facciale (2° anno);
+
+6) Parodontologia (2° anno);
+
+Esercitazioni pratiche.
+
+Scuola di specializzazione in anestesiologia e rianimazione
+
+Art. 151. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in anestesiologia e rianimazione, con sede presso l'istituto di clinica chirurgica generale e terapia chirurgica.
+
+Art. 152. - La durata dei corsi e' di tre anni.
+
+Art. 153. - Non e' concesso nessun abbreviamento di corso ad eccezione dei candidati che, gia' in possesso del diploma di specializzazione in anestesiologia, possono essere ammessi al 3° anno per ottenerne il completamento.
+
+Art. 154. - Alla scuola vengono ammessi i laureati in medicina e chirurgia in numero non superiore a quaranta per l'intero corso.
+
+Art. 155. - Qualora il numero delle domande d'iscrizione superi quello dei posti disponibili, l'accettazione verra' fatta in base a concorso interno per esami.
+
+Art. 156. - Gli iscritti alla scuola hanno l'obbligo di frequentare i corsi ufficiali e le esercitazioni; hanno, inoltre, l'obbligo di frequentare in sala operatoria, svolgendo una reale attivita' pratica con orario pieno per almeno sei mesi per ogni anno di corso.
+
+Art. 157. - Sono ammessi a sostenere gli esami solo gli iscritti che abbiano adempiuto agli obblighi di cui all'articolo precedente.
+
+Per accedere ai corsi successivi al primo e' obbligatorio il superamento di tutti gli esami del corso precedente, ivi comprese le materie biennali.
+
+Gli esami possono essere sostenuti solamente in due sessioni annuali, una estiva ed una autunnale, e comunque non oltre il 30 novembre dell'anno in corso.
+
+Il diploma viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico o sperimentale.
+
+Art. 158. - Le materie di insegnamento, ripartito nei tre anni di corso, sono le seguenti:
+
+1° Anno:
+
+Anatomia, biochimica, farmacologia, fisica, fisiologia applicata alla anestesiologia e rianimazione;
+
+Anestesiologia;
+
+Tecniche chirurgiche di interesse anestesiologico;
+
+Aspetti medico-legali dell'anestesia e della rianimazione;
+
+Internato.
+
+2° Anno:
+
+Anestesiologia;
+
+Terapia antalgica;
+
+Rianimazione;
+
+Internato.
+
+3° Anno:
+
+Rianimazione;
+
+Tecniche speciali di anestesia e rianimazione;
+
+Indagini diagnostiche attinenti alla specialita';
+
+Internato.
+
+Scuola di specializzazione in gerontologia e geriatria
+
+Art. 178. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in gerontologia e geriatria con sede presso l'istituto di clinica medica generale, il cui direttore e' anche direttore della scuola.
+
+Art. 179. - Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia in numero di dodici per l'intero corso.
+
+Nel caso che le domande di iscrizione al 1° anno superino il numero compatibile con la disposizione di cui sopra, l'ammissione sara' subordinata all'esito di un concorso per titoli ed esami.
+
+Il direttore puo' concedere l'iscrizione al 2° anno a chi, essendo in possesso dei requisiti citati dal titolo XI, art. 100 dello statuto dell'Universita' di Cagliari, abbia conseguito l'abilitazione alla libera docenza in clinica medica generale, patologia speciale medica o semeiotica medica.
+
+Art. 180. - La durata dei corsi e' di tre anni.
+
+Art. 181. - Gli iscritti hanno l'obbligo della frequenza ai corsi ed alle esercitazioni teoriche e pratiche e non potranno essere ammessi all'anno di corso successivo se prima non avranno superato gli esami dell'anno cui sono iscritti.
+
+I corsi sono integrati da conferenze dedicate ai problemi geriatrici interessanti le varie branche della medicina e chirurgia (ginecologia, oculistica, dermatologia, otorinolaringoiatria, stomatologia).
+
+Art. 182. - L'esame di diploma consistera' nella presentazione e discussione di una dissertazione scritta su argomento riguardante la gerontologia e geriatria, il cui argomento dovra' essere concordato col direttore della scuola all'inizio del secondo anno. La dissertazione dovra' essere approvata dallo stesso direttore e depositata presso la direzione almeno quindici giorni prima dell'esame.
+
+Art. 183. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+1) Biologia della senescenza;
+
+2) Fisiopatologia della senescenza (biennale: I);
+
+3) Semeiologia della senescenza (biennale: I);
+
+4) Anatomia patologica (biennale: I);
+
+5) Farmacologia e farmacoterapia.
+
+2° Anno:
+
+1) Fisiopatologia della senescenza (biennale: II);
+
+2) Semeiologia della senescenza (biennale: II);
+
+3) Anatomia patologica (biennale: II);
+
+4) Clinica geriatrica e terapia (biennale: I);
+
+5) Chirurgia geriatrica;
+
+6) Radiologia e radioterapia;
+
+7) Neurologia.
+
+3° Anno:
+
+1) Clinica geriatrica e terapia (biennale: II);
+
+2) Tecniche di riabilitazione;
+
+3) Psichiatria;
+
+4) Medicina sociale.
+
+Nel terzo anno sono previste conferenze d'aggiornamento su problemi speciali.
+
+Scuola di specializzazione in medicina interna
+
+Art. 184. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in medicina interna con sede presso l'istituto di clinica medica generale, il cui direttore e' anche direttore della scuola.
+
+Art. 185. - Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia in numero di trentotto per l'intero corso. Potra' essere accordato l'esonero di uno o piu' anni, secondo i titoli presentati dai singoli candidati, su proposta del consiglio della scuola approvato dalla facolta'; in ogni caso non sara' ammessa una abbreviazione superiore ai tre anni, fermo restando l'obbligo di sostenere tutti gli esami del corso.
+
+Art. 186. - La durata dei corsi e' di cinque anni.
+
+Art. 187. - Gli iscritti hanno l'obbligo della frequenza ai corsi ed alle esercitazioni e non potranno essere ammessi all'anno di corso successivo se non avranno superato gli esami dell'anno cui sono iscritti.
+
+L'internato si svolgera' presso l'istituto di clinica medica generale e presso l'istituto di patologia speciale medica dell'universita'.
+
+Le lezioni saranno integrate da conferenze tenute da eminenti studiosi sull'argomento che e' oggetto di studio durante l'anno.
+
+Art. 188. - Al termine del quinto anno lo specializzando dovra' elaborare una tesi di specialita' su argomenti clinici o sperimentali di medicina interna da discutere dinnanzi ad una commissione giudicatrice composta a norma dell'art. 106 dello statuto dell'universita'.
+
+Art. 189. - Le materie di insegnamento sono cosi' suddivise nei cinque anni di corso:
+
+1° Anno:
+
+Malattie infettive, disreattive e del sangue;
+
+Istituzioni di terapia;
+
+Anatomia ed istologia patologica (biennale);
+
+Clinica medica generale e terapia medica (quinquennale).
+
+2° Anno:
+
+Malattie dell'apparato cardiovascolare;
+
+Microbiologia e sierologia;
+
+Chimica clinica;
+
+Anatomia ed istologia patologica (biennale);
+
+Clinica medica generale e terapia medica (quinquennale).
+
+3° Anno:
+
+Malattie dell'apparato digerente;
+
+Malattie renali;
+
+Clinica medica generale e terapia medica (quinquennale).
+
+4° Anno:
+
+Malattie dell'apparato respiratorio;
+
+Malattie del sistema nervoso;
+
+Clinica medica generale e terapia medica (quinquennale).
+
+5° Anno:
+
+Malattie del ricambio;
+
+Malattie delle ghiandole endocrine;
+
+Clinica medica generale e terapia medica (quinquennale).
+
+Sono insegnamenti complementari:
+
+Parassitologia medica;
+
+Genetica medica;
+
+Semeiotica dermatologica;
+
+Radiologia;
+
+Semeiotica oculistica;
+
+Semeiotica ginecologica.
+
+Per codesti insegnamenti viene lasciata ai direttori delle singole scuole la facolta' di inserirne uno o piu' nei vari anni del corso di specializzazione.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 8 ottobre 1969
+
+SARAGAT
+
+FERRARI AGGRADI
+
+Visto, il Guardasigilli: GAVA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 24 giugno 1970 Atti del Governo, registro n. 236, foglio n. 69. - CARUSO
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Dopo l'art. 125, e con lo spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli, relativi alla istituzione delle scuole di specializzazione in "angiologia medica", in "chirurgia oncologica", in "farmacologia: indirizzo farmacologia di base" afferenti alla facolta' di medicina e chirurgia, nonche' della scuola di specializzazione in "tossicologia" afferente alla facolta' di farmacia.  
-
-Art. 2
-------
-
-Scuola di specializzazione in angiologia medica
-
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta.   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
+Decreta:   
   
-Art. 126. - E' istituita presso l'Universita' di Cagliari la scuola di specializzazione in angiologia medica, che conferisce il diploma di specialista in angiologia medica.  
-Art. 127. - La direzione della scuola ha sede nello istituto di medicina interna, cattedra di patologia speciale medica e metodologia clinica II dell'Universita' di Cagliari.  
-Art. 128. - La scuola ha lo scopo di conferire il diploma in angiologia medica.  
-Art. 129. - La durata del corso e' di tre anni e non e' suscettibile di abbreviazioni.  
-Art. 130. - Il numero degli iscritti e' di cinque per ogni anno e complessivamente di quindici per l'intero corso di studi.  
-Art. 131. - Alla scuola sono ammessi solo i laureati in medicina e chirurgia, in possesso dell'abilitazione all'esercizio professionale.  
-Art. 132. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
-a) la tesi nella disciplina attinente alla specializzazione;  
-b) il voto di laurea;  
-c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
-d) le pubblicazioni nelle predette materie.  
-Il punteggio dei predetti titoli e' quello stabilito dal [decreto ministeriale 16 settembre 1982 (Gazzetta Ufficiale n. 275 del 6 ottobre 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-10-06&numeroGazzetta=275)).  
-Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
-Art. 133. - Le materie di insegnamento, tutte afferenti alla facolta' di medicina e chirurgia, sono le seguenti:  
-1° Anno:  
-1) embriologia, anatomia ed istologia dell'apparato vascolare;  
-2) biochimica;  
-3) fisiologia del circolo periferico;  
-4) fisiopatologia della coagulazione e vasculopatie;  
-5) semeiotica fisica e strumentale dell'apparato cardiovascolare.  
-Primo corso:  
-a) invasiva (semestrale),  
-b) non invasiva (semestrale).  
-2° Anno:  
-6) anatomia e istologia patologica dell'apparato vascolare;  
-7) radiologia;  
-8) farmacologia;  
-9) semeiotica fisica e strumentale dell'apparato vascolare.  
-Secondo corso:  
-a) invasiva (semestrale),  
-b) non invasiva (semestrale);  
-10) patologia dell'apparato vascolare.  
-3° Anno:  
-11) clinica dell'apparato vascolare;  
-12) patologia e clinica del microcircolo;  
-13) terapia medica delle vasculopatie;  
-14) indicazioni al trattamento chirurgico delle arteriopatie;  
-15) indicazioni al trattamento chirurgico delle flebopatie.  
-Art. 134. - La frequenza ai corsi e' obbligatoria. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno in corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
-Art. 135. - A) Le attivita' didattiche pratiche consistono in:  
-1) esercitazioni di semeiotica medica e chirurgia in corsia;  
-2) esercitazioni di patologia delle malattie vascolari in corsia;  
-3) esercitazioni di clinica delle malattie vascolari in corsia;  
-4) esercitazioni di semeiotica strumentale invasiva:  
-arteriografie, elebografie e linfografie;  
-5) esercitazioni di semeiotica strumentale non invasiva:  
-oscillografia;  
-pletismografia (fotopletismografia, pletismografia a "strain gauge", pletismografia ad occlusione venosa, pletismografia venosa); reografia;  
-doppler;  
-eco doppler;  
-laboratorio di emocoagulazione e di emoreologia.  
-B) Modalita' di frequenza delle attivita' didattiche pratiche: e' necessaria la frequenza delle attivita' didattiche pratiche per cinque ore al giorno, otto mesi per anno.  
-C) Frequenza necessaria per sostenere gli esami: 90% delle lezioni dei singoli corsi d'esame. In particolare per quanto riguarda gli esami di semeiotica fisica e strumentale dell'apparato vascolare, di patologia dell'apparato vascolare e di clinica dell'apparato vascolare, oltre la frequenza al 90% delle lezioni, si rende necessaria la frequenza, per otto mesi l'anno, delle esercitazioni didattiche pratiche.  
-Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi via di sviluppo.  
-Art. 136. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio delle scuole di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.  
-A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.  
-Art. 137. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
-Art. 138. - Per ciascuna scuola di specializzazione, anche se comprendente piu' indirizzi, e' costituito un unico consiglio presieduto da un direttore.  
-Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).  
-Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.  
-La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
-
-Art. 3
-------
-
-Scuola di specializzazione in chirurgia oncologica
-
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso.   
+Gli articoli 111, 112, 113, 117, 118, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189 relativi alle scuole di specializzazione in pediatria, medicina del lavoro, stomatologia (odontoiatria e protesi dentaria), anestesiologia, gerontologia e geriatria, medicina interna sono abrogati e sostituiti dai seguenti:   
   
+Scuola di specializzazione in clinica pediatrica   
   
-Art. 139. - E' istituita presso l'Universita' di Cagliari la scuola di specializzazione in chirurgia oncologica che conferisce il diploma di specialista in chirurgia oncologica.  
-Art. 140. - La direzione della scuola ha sede presso la cattedra di patologia chirurgica seconda, convenzionata con l'ospedale oncologico regionale "A. Businco", Cagliari.  
-Art. 141. - La scuola ha lo scopo di istruire gli specializzandi sui concetti biologici piu' moderni concernenti la problematica delle neoplasie ma soprattutto di addestrarli nelle tecniche chirurgiche peculiari che vengono adottate per il trattamento delle neoplasie.  
-Art. 142. - La durata del corso e' di 5 (cinque) anni e non e' suscettibile di abbreviazioni.  
-Art. 143. - Il numero degli iscritti e' di quattro per ogni anno e complessivamente di venti per l'intero corso di studi.  
-Art. 144. - Alla scuola sono ammessi solo i laureati in medicina e chirurgia abilitati all'esercizio professionale.  
-Art. 145. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
-a) la tesi nella disciplina attinente alla specializzazione;  
-b) il voto di laurea;  
-c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
-d) le pubblicazioni nelle predette materie.  
-Il punteggio dei predetti titoli e' quello stabilito dal [decreto ministeriale 16 settembre 1982 (Gazzetta Ufficiale n. 275 del 6 ottobre 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-10-06&numeroGazzetta=275)).  
-Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero di posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
-Art. 146. - Le materie di insegnamento, tutte afferenti alla facolta' di medicina e chirurgia, sono le seguenti:  
-1° Anno:  
-eziopatogenesi dei tumori e immunologia in oncologia;  
-anatomia ed istologia patologica dei tumori;  
-epidemiologia dei tumori;  
-oncologia clinica;  
-clinica chirurgica oncologica I;  
-senologia ed endocrinologia oncologica.  
-2° Anno:  
-clinica chirurgica oncologica II;  
-semeiotica chirurgica generale e speciale (mezzi di diagnosi precoce);  
-principi di programmazione terapeutica;  
-oncologia ginecologica;  
-oncologia maxillo-facciale e stomatologia;  
-oncologia otorino-laringoiatrica;  
-oncologia ortopedica.  
-3° Anno:  
-diagnostica radiologica generale e speciale, isotopi radioattivi e tecniche angiografiche di oncologia;  
-diagnostica citologica e istopatologica estemporanea;  
-principi di anestesia e rianimazione, terapia del dolore;  
-oncologia neurologica;  
-tecniche chirurgiche in oncologia (apparato digerente e ghiandole annesse) (I);  
-chirurgia plastica e ricostruttiva.  
-4° Anno:  
-tecniche chirurgiche speciali e trattamento chemio-terapico distrettuale;  
-radioterapia oncologica;  
-chemioterapia oncologica;  
-profilassi oncologica;  
-prognosi dei vari tipi di tumore e significato dei controlli periodici dei curati;  
-tecniche chirurgiche in oncologia (II).  
-5° Anno:  
-tecniche chirurgiche in oncologia: apparato respiratorio e mediastino;  
-tecniche chirurgiche in oncologia: apparato urinario e genitale maschile;  
-endocrinochirurgia oncologica;  
-chirurgia del dolore;  
-possibilita' e tecniche della riabilitazione e del recupero;  
-tecniche chirurgiche in oncologia (III).  
-Art. 147. - La frequenza ai corsi e' obbligatoria. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico pratico per il passaggio all'anno di corso successivo.  
-La commissione di esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno in corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso.  
-Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
-Art. 148. - Le attivita' pratiche connesse ai vari anni del corso di specializzazione sono cosi' riepilogabili:  
-a) frequenza delle corsie con visita dei pazienti oncologici e compilazione delle relative cartelle cliniche;  
-b) partecipazione effettiva all'attivita' ambulatoriale;  
-c) partecipazione, mediante inserimento nelle equipes operatorie, alla effettuazione degli interventi di chirurgia oncologica;  
-d) partecipazione alla attivita' del follow-up;, e) eventuale partecipazione alla effettuazione di ricerche cliniche o sperimentali.  
-La partecipazione a tutte le suddette attivita' presuppone una frequenza del reparto sede della scuola con orari pari a quelli di un assistente a tempo definito e per un periodo non inferiore a nove mesi.  
-Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione, anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.  
-Art. 149. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.  
-A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.  
-Art. 150. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
-Art. 151. - Per ciascuna scuola di specializzazione, anche se comprendente piu' indirizzi, e' costituito un unico consiglio presieduto da un direttore.  
-Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).  
-Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.  
-La direzione della scuola e' affidata a un professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
-
-Art. 4
-------
-
-Scuola di specializzazione in farmacologia
-
+Art. 111. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in clinica pediatrica, con sede presso la clinica pediatrica di questa universita' e con il numero di venticinque iscritti per il complesso degli anni di corso.   
+E' titolo di ammissione la laurea in medicina e chirurgia.   
+Art. 112. - La durata dei corsi e' di tre anni.   
+L'ammissione al corso sara' fatta per titoli e per esami.   
+E' obbligatorio l'internato con un periodo annuale di ferie non superiore a due mesi.   
+L'iscrizione direttamente al 2° anno del corso puo' essere consentita, a giudizio del consiglio della scuola, per i candidati che abbiano gia' conseguito il diploma di specializzazione in puericultura o che abbiano titoli pediatrici.   
+Art. 113. - Le materie di insegnamento sono le seguenti distribuite nei tre anni di corso:   
+Materie di insegnamento fondamentali:   
+1° Anno:   
+1) Clinica pediatrica (triennale);   
+2) Patologia pediatrica (biennale);   
+3) Puericultura (biennale);   
+4) Semeiotica pediatrica e tecnica diagnostica (biennale);   
+5) Auxologia normale e patologica;   
+6) Psicologia dell'eta' evolutiva.   
+2° Anno:   
+1) Clinica pediatrica (triennale);   
+2) Patologia pediatrica (biennale);   
+3) Puericultura (biennale);   
+4) Semeiotica pediatrica e tecnica diagnostica (biennale);   
+5) Terapia pediatrica;   
+6) Radiologia pediatrica;   
+7) Malattie infettive dell'infanzia.   
+3° Anno:   
+1) Clinica pediatrica (triennale);   
+2) Neuropsichiatria ed igiene mentale dell'infanzia.   
   
+Materie di insegnamento complementari:   
+Le materie fondamentali sopra elencate saranno integrate, a giudizio del consiglio della scuola, da almeno tre insegnamenti scelti fra i seguenti:   
+Chirurgia pediatrica;   
+Ortopedia e traumatologia infantile;   
+Odontoiatria;   
+Clinica dermosifilopatica;   
+Clinica oculistica;   
+Clinica otorinolaringoiatrica;   
+Cardiologia;   
+Genetica,   
+ed altri eventuali che il consiglio della scuola puo' stabilire di anno in anno.   
   
-Art. 152. - E' istituita presso l'Universita' di Cagliari la scuola di specializzazione in farmacologia che conferisce il diploma di specialista in farmacologia, indirizzo farmacologia di base.  
-Art. 153. - La direzione della scuola ha sede nell'istituto di farmacologia dell'Universita' di Cagliari sito in via Porcell. 4, Cagliari.  
-Art. 154. - La scuola fa parte dell'ordinamento universitario e concorre a realizzare i fini istituzionali dell'Universita'; ha per finalita' il conseguimento, successivamente alla laurea, di un diploma che legittimi nei rami di esercizio professionale l'assunzione della qualifica di specialista.  
-Art. 155. - La durata del corso e' di quattro anni e non e' suscettibile di abbreviazioni.  
-Art. 156. - Il numero degli iscritti e' di due per ogni anno e complessivamente di otto per l'intero corso di studio.  
-Art. 157. - Alla scuola sono ammessi solo i laureati in medicina e chirurgia in possesso dell'abilitazione all'esercizio professionale.  
-Art. 158. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
-a) la tesi nella disciplina attinente alla specializzazione;  
-b) voto di laurea;  
-c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
-d) le pubblicazioni nelle predette materie.  
-Il punteggio dei predetti titoli e' quello stabilito dal [decreto ministeriale del 16 settembre 1982 pubblicato nella Gazzetta Ufficiale n. 275 del 6 ottobre 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-10-06&numeroGazzetta=275).  
-Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie sulla base del punteggio complessivo riportato.  
-Art. 159. - Le materie di insegnamento, tutte afferenti alla facolta' di medicina e chirurgia, sono le seguenti:  
-1° Anno:  
-1) chimica organica;  
-2) farmacologia generale;  
-3) statistica medici;  
-4) biologia e farmacologia generale;  
-5) immunologia;  
-6) biologia molecolare dei procarioti e' dei virus;  
-7) saggi e dosaggi farmacologici;  
-8) inglese scientifico.  
-2° Anno:  
-1) basi di farmacicinetica;  
-2) farmacologia speciale;  
-3) chemioterapia antibatterica, antivirale, antifungina, antiparassitaria, antineoplastica;  
-4) principi di tossicologia con elementi di tossicologia da ambiente, da lavoro, da additivi;  
-5) tecniche chimico-fisiche, immunologiche, radioisotopiche;  
-6) statistica e programmazione;  
-7) inglese scientifico.  
-3° Anno:  
-1) farmacologia speciale;  
-2) farmacologia molecolare;  
-3) chemioterapia sperimentale;  
-4) immunofarmacologia;  
-5) tecniche ed analisi critica degli "screening" di farmaci "in vivo" ed "in vitro";  
-6) biochimica, fisiologia e farmacologia comparata.  
-4° Anno:  
-1) farmacologia speciale;  
-2) modelli sperimentali di malattie umane;  
-3) metodi di allevamento, incrocio e stabulazione degli animali da laboratorio;  
-4) principi di sperimentazione sull'uomo e farmacologia preclinica;  
-5) legislazione in campo di farmaci.  
-Art. 160. - La frequenza ai corsi e' obbligatoria, l'insegnamento si svolge normalmente secondo il calendario universitario. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso.  
-Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
-Art. 161. - I corsi di lezioni saranno integrati da attivita' pratiche che consisteranno nella frequenza, necessaria per sostenere gli esami, per non meno di venti ore settimanali durante dieci mesi di ciascun anno di corso dei laboratori degli istituti afferenti alla scuola.  
-In tali laboratori gli specializzandi apprenderanno le seguenti tecniche:  
-analisi chimica composti;  
-sintesi di composti;  
-tecniche di farmacologia (biochimiche e comportamentali);  
-tecniche di biologia cellulare;  
-tecniche di screening di farmaci;  
-tecniche immunologiche e radioisotopiche;  
-tecniche di chemioterapia sperimentale;  
-elaborazione di dati anche statistici con computer;  
-tecniche di immunofarmacologia;  
-modelli sperimentali di malattie umane con metodiche biochimiche o farmacologiche.  
-Ai fini della frequenza e delle attivita' va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.  
-Art. 162. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso. A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.  
-Art. 163. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione dell'Universita'.  
-Art. 164. - E' costituito un unico consiglio presieduto da un direttore. Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).  
-Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.  
-La direzione della scuola e' affidata ad un professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata ad un professore associato che pure insegni nella scuola medesima.  
-
-Art. 5
-------
-
-Scuola di specializzazione in tossicologia
-
+Il direttore della scuola, inoltre, puo' disporre che si tengano un certo numero di conferenze su argomenti di interesse pediatrico.   
+Per conseguire il diploma di specializzazione in clinica pediatrica gli iscritti al corso, dopo aver superato tutti gli esami e completata la frequenza obbligatoria, dovranno presentare e discutere una dissertazione scritta su un argomento di pediatria.   
+Il consiglio della scuola risultera' costituito dai titolari di tutte le materie fondamentali e di quelle complementari.   
   
+Scuola di specializzazione in medicina del lavoro   
   
-Art. 165. - E' istituita presso l'Universita' di Cagliari la scuola di specializzazione in tossicologia che conferisce il diploma di specialista in tossicologia.  
-Art. 166. - La direzione della scuola ha sede a Cagliari in viale A. Diaz, 182, presso l'istituto di farmacologia e tossicologia sperimentali.  
-Art. 167. - La scuola ha lo scopo di fornire quel bagaglio di conoscenze teoriche e pratiche necessarie a esplicare l'attivita' professionale di tossicologo nell'industria, nella medicina sociale e nella ricerca in enti pubblici e privati.  
-Art. 168. - La durata del corso e' di tre anni e non e' suscettibile di abbreviazioni.  
-Art. 169. - Il numero degli iscritti e' di sei per ogni anno e complessivamente di diciotto per l'intero corso di studi.  
-Art. 170. - Alla scuola sono ammessi solo i laureati in chimica e tecnologia farmaceutiche, farmacia, chimica, scienze biologiche, scienze naturali, scienza delle preparazioni alimentari, medicina e chirurgia, medicina veterinaria, scienze agrarie, scienze della produzione animale; e' richiesto qualora prescritto il diploma di abilitazione all'esercizio professionale.  
-Art. 171 - Ammissione. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
-a) la tesi nella disciplina attinente alla specializzazione;  
-b) il voto di laurea;  
-c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
-d) le pubblicazioni nelle predette materie.  
-Il punteggio dei predetti titoli e' quello stabilito dal [decreto ministeriale del 16 settembre 1982 (Gazzetta Ufficiale n. 275 del 6 ottobre 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-10-06&numeroGazzetta=275)).  
-Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
-Art. 172 - Insegnamenti. - Gli insegnamenti della scuola, tutti afferenti alla facolta' di farmacia, sono i seguenti:  
-1° Anno:  
-biologia molecolare;  
-biologia e farmacologia cellulare;  
-immunologia e immunochimica;  
-chimica farmaceutica e tossicologia molecolare I;  
-biometria e statistica;  
-microbiologia ed igiene;  
-farmacologia e farmacognosia I;  
-tossicologia sperimentale I;  
-anatomia e istopatologia degli stati tossici.  
-2° Anno:  
-chimica farmaceutica e tossicologia molecolare II;  
-metodiche analitiche chimico-fisiche e chimico-cliniche (insegnamento teorico-pratico);  
-disegno degli esperimenti (insegnamento teorico-pratico);  
-epidemiologia;  
-cancerogenesi, mutagenesi e teratogenesi I;  
-farmacologia e farmocognosia II;  
-cinetica e metabolismo in tossicologia;  
-patologia comparata;  
-tossicologia sperimentale III;  
-tossicologia dell'ambiente e misure di prevenzione.  
-3° Anno:  
-tossicologia sperimentale II;  
-tossicologia nutrizionale;  
-cancerogenesi, mutagenesi e teratogenesi II;  
-tossicologia da abuso di farmaci;  
-legislazione;  
-organizzazione di laboratori e centri di tossicologia (insegnamento teorico-pratico).  
-Art. 173 - Frequenze. - La frequenza ai corsi di lezioni e' obbligatoria. Comunque la frequenza minima alle lezioni ed alle esercitazioni per l'ammissione agli esami annuali e a quello finale e' dell'80%. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso.  
-Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
-Art. 174 - Attivita' pratiche. - I corsi di lezioni saranno integrati da attivita' pratiche che consisteranno nella frequenza per non meno di venti ore settimanali durante otto mesi di ciascun anno di corso dei laboratori degli istituti afferenti alla scuola. In tali laboratori gli specializzandi apprenderanno le seguenti tecniche:  
-analisi chimica tossicologica;  
-sintesi di composti di interesse tossicologico;  
-metodi di screening tossicologico in vitro e in vivo;  
-metodi di screening di attivita' teratogenetiche cancerogenetiche;  
-metodi di monitoraggio di farmaci e droghe;  
-elaborazione di dati al computer.  
-Tra le attivita' pratiche rientra la tesi necessaria per il conseguimento del diploma.  
-Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.  
-Art. 175 - Diploma. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una ricerca effettuata dallo specializzando.  
-A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista in tossicologia.  
-Art. 176 - Tasse. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
-Art. 177 - Organi. - Per la scuola di specializzazione e' costituito un consiglio presieduto da un direttore.  
-Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99). Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti. La direzione della scuola e' affidata a professore ordinario o straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
-Art. 178 - Conferimento degli insegnamenti. - Gli insegnamenti, anche per un limitato numero di lezioni o esercitazioni, sono conferiti ai sensi del [primo comma dell'art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4-com1).  
-Art. 179 - Finanziamenti. - La scuola e' finanziata con le quote di iscrizione ed attraverso contributi, lasciti e donazioni di enti e di privati, previa iscrizione di questi al bilancio universitario.  
+Art. 117. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in medicina del lavoro, con sede presso l'istituto di medicina del lavoro, e con il numero massimo di trenta iscritti per il complesso dei tre anni di corso.   
+Il direttore dell'istituto di medicina del lavoro e' direttore della scuola.   
+Titolo di ammissione e' la laurea in medicina e chirurgia.   
+Art. 118. - Le materie di insegnamento sono le seguenti:   
+1) Fisiologia del lavoro ed ergonomia (2 anni);   
+2) Tecnologia ed igiene del lavoro (3 anni);   
+3) Patologia e clinica del lavoro (3 anni);   
+4) Medicina legale e delle assicurazioni (1 anno);   
+5) Psicologia del lavoro (2 anni);   
+6) Medicina preventiva dei lavoratori (2 anni);   
+7) Radiologia e medicina nucleare (1 anno);   
+8) Infortunistica e pronto soccorso (2 anni);   
+9) Tossicologia industriale e diagnostica di laboratorio (2 anni);   
+10) Dermatologia professionale (1 anno);   
+11) Biometria e statistica sanitaria (1 anno).   
+La ripartizione degli insegnamenti nei tre anni di corso e' la seguente:   
+1° Anno:   
+1) Fisiologia del lavoro ed ergonomia (biennale);   
+2) Tecnologia ed igiene del lavoro (triennale);   
+3) Patologia e clinica del lavoro (triennale);   
+4) Psicologia del lavoro (biennale).   
+2° Anno:   
+1) Fisiologia del lavoro ed ergonomia (biennale);   
+2) Tecnologia ed igiene del lavoro (triennale);   
+3) Patologia e clinica del lavoro (triennale);   
+4) Psicologia del lavoro (biennale);   
+5) Tossicologia industriale e diagnostica di laboratorio (biennale);   
+6) Infortunistica e pronto soccorso (biennale);   
+7) Biometria e statistica sanitaria;   
+8) Medicina preventiva dei lavoratori (biennale).   
+3° Anno:   
+1) Patologia e clinica del lavoro (triennale);   
+2) Tecnologia ed igiene del lavoro (triennale);   
+3) Infortunistica e pronto soccorso (biennale);   
+4) Medicina legale e delle assicurazioni;   
+5) Medicina preventiva dei lavoratori (biennale);   
+6) Radiologia e medicina nucleare;   
+7) Tossicologia industriale e diagnostica di laboratorio (biennale);   
+8) Dermatologia professionale.   
+L'ordine degli esami e' il seguente:   
+Al termine del 2° anno:   
+Fisiologia del lavoro ed ergonomia;   
+Psicologia del lavoro;   
+Biometria e statistica sanitaria.   
+Al termine del 3° anno:   
+Patologia e clinica del lavoro;   
+Tecnologia ed igiene del lavoro;   
+Infortunistica e pronto soccorso;   
+Medicina legale e delle assicurazioni;   
+Medicina preventiva dei lavoratori;   
+Radiologia e medicina nucleare;   
+Tossicologia industriale e diagnostica di laboratorio;   
+Dermatologia professionale.   
+Gli iscritti alla scuola di specializzazione potranno accedere al secondo anno purche' in possesso di tutte le attestazioni di frequenza previste dal piano di studi del primo anno. Per quanto concerne l'ammissione al terzo anno di corso, vale quanto stabilito dal secondo comma dell'art. 105 dello statuto vigente.   
+  
+Scuola di specializzazione in odontoiatria e protesi dentaria   
+  
+Art. 142. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in odontoiatria e protesi dentaria con sede presso la clinica odontoiatrica.   
+Art. 143. - Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia in numero di cinque per anno per un totale complessivo di quindici iscritti.   
+Art. 144. - L'ammissione si fa previo concorso per titoli ed esami.  
+Art. 145. - La durata dei corsi e' di tre anni.   
+Art. 146. - Gli iscritti hanno l'obbligo della frequenza ai corsi ed alle esercitazioni; debbono altresi' frequentare il laboratorio di odontotecnica per l'intero anno scolastico.   
+Art. 147. - Le vacanze saranno conformi al calendario universitario, con un solo mese completo estivo (agosto).   
+Art. 148. - Gli esami di profitto, teorici e pratici, saranno sostenuti alla fine di ogni anno in un'unica sessione (ottobre). Alla fine del terzo anno, dopo aver superato gli esami di profitto, gli allievi saranno ammessi a sostenere l'esame di diploma che consiste nella discussione orale di una dissertazione scritta, su un tema proposto in precedenza dall'insegnante della materia sulla quale verte l'argomento e approvato dal direttore della scuola.   
+Art. 149. - Le materie di insegnamento sono le seguenti:   
+1) Embriologia e anatomia dentaria maxillo-facciale;   
+2) Anatomia e istopatologia odontostomatologica;   
+3) Microbiologia e igiene orale;   
+4) Farmacologia odontostomatologica;   
+5) Patologia odontostomatologica;   
+6) Clinica odontostomatologica;   
+7) Chirurgia maxillo-facciale;   
+8) Anestesia e chirurgia stomatologica;   
+9) Odontoiatria conservativa;   
+10) Parodontologia;   
+11) Clinica protesica dentaria e maxillo-facciale;   
+12) Ortopedia dento-maxillo-facciale;   
+13) Radiologia odontostomatologica;   
+14) Odontotecnica;   
+15) Odontoiatria infantile;   
+16) Medicina legale odontostomatologica e delle assicurazioni.   
+Esercitazioni pratiche affiancheranno gli insegnamenti.   
+Art. 150. - La suddivisione delle materie di insegnamento nei tre anni di corso e' la seguente:   
+1° Anno:   
+1) Embriologia ed anatomia dentaria e maxillo-facciale;   
+2) Microbiologia e igiene orale;   
+3) Farmacologia;   
+4) Patologia odontostomatologica;   
+5) Odontotecnica;   
+6) Anestesia e chirurgia stomatologica;   
+7) Odontoiatria conservativa (1° anno) (biennale);   
+Esercitazioni pratiche.   
+2° Anno:   
+1) Odontoiatria conservativa (2° anno);   
+2) Clinica protesica dentaria e maxillo-facciale (1° anno) (biennale);   
+3) Parodontologia (1° anno) (biennale);   
+4) Anatomia e istologia odontostomatologica;   
+5) Odontoiatria infantile;   
+6) Radiologia odontostomatologica;   
+7) Ortopedia dento-maxillo-facciale (1° anno) (biennale);   
+8) Chirurgia maxillo-facciale (1° anno) (biennale);   
+Esercitazioni pratiche.   
+3° Anno:   
+1) Clinica odontostomatologica;   
+2) Chirurgia maxillo-facciale (2° anno);   
+3) Medicina legale odontostomatologica e delle assicurazioni;   
+4) Ortopedia dento-maxillo-facciale (2° anno);   
+5) Clinica protesica dentaria e maxillo-facciale (2° anno);   
+6) Parodontologia (2° anno);   
+Esercitazioni pratiche.   
+  
+Scuola di specializzazione in anestesiologia e rianimazione   
+  
+Art. 151. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in anestesiologia e rianimazione, con sede presso l'istituto di clinica chirurgica generale e terapia chirurgica.   
+Art. 152. - La durata dei corsi e' di tre anni.   
+Art. 153. - Non e' concesso nessun abbreviamento di corso ad eccezione dei candidati che, gia' in possesso del diploma di specializzazione in anestesiologia, possono essere ammessi al 3° anno per ottenerne il completamento.   
+Art. 154. - Alla scuola vengono ammessi i laureati in medicina e chirurgia in numero non superiore a quaranta per l'intero corso.   
+Art. 155. - Qualora il numero delle domande d'iscrizione superi quello dei posti disponibili, l'accettazione verra' fatta in base a concorso interno per esami.   
+Art. 156. - Gli iscritti alla scuola hanno l'obbligo di frequentare i corsi ufficiali e le esercitazioni; hanno, inoltre, l'obbligo di frequentare in sala operatoria, svolgendo una reale attivita' pratica con orario pieno per almeno sei mesi per ogni anno di corso.   
+Art. 157. - Sono ammessi a sostenere gli esami solo gli iscritti che abbiano adempiuto agli obblighi di cui all'articolo precedente.   
+Per accedere ai corsi successivi al primo e' obbligatorio il superamento di tutti gli esami del corso precedente, ivi comprese le materie biennali.   
+Gli esami possono essere sostenuti solamente in due sessioni annuali, una estiva ed una autunnale, e comunque non oltre il 30 novembre dell'anno in corso.   
+Il diploma viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico o sperimentale.   
+Art. 158. - Le materie di insegnamento, ripartito nei tre anni di corso, sono le seguenti:   
+1° Anno:   
+Anatomia, biochimica, farmacologia, fisica, fisiologia applicata alla anestesiologia e rianimazione;   
+Anestesiologia;   
+Tecniche chirurgiche di interesse anestesiologico;   
+Aspetti medico-legali dell'anestesia e della rianimazione;   
+Internato.   
+2° Anno:   
+Anestesiologia;   
+Terapia antalgica;   
+Rianimazione;   
+Internato.   
+3° Anno:   
+Rianimazione;   
+Tecniche speciali di anestesia e rianimazione;   
+Indagini diagnostiche attinenti alla specialita';   
+Internato.   
+  
+Scuola di specializzazione in gerontologia e geriatria   
+  
+Art. 178. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in gerontologia e geriatria con sede presso l'istituto di clinica medica generale, il cui direttore e' anche direttore della scuola.   
+Art. 179. - Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia in numero di dodici per l'intero corso.   
+Nel caso che le domande di iscrizione al 1° anno superino il numero compatibile con la disposizione di cui sopra, l'ammissione sara' subordinata all'esito di un concorso per titoli ed esami.   
+Il direttore puo' concedere l'iscrizione al 2° anno a chi, essendo in possesso dei requisiti citati dal titolo XI, art. 100 dello statuto dell'Universita' di Cagliari, abbia conseguito l'abilitazione alla libera docenza in clinica medica generale, patologia speciale medica o semeiotica medica.   
+Art. 180. - La durata dei corsi e' di tre anni.   
+Art. 181. - Gli iscritti hanno l'obbligo della frequenza ai corsi ed alle esercitazioni teoriche e pratiche e non potranno essere ammessi all'anno di corso successivo se prima non avranno superato gli esami dell'anno cui sono iscritti.   
+I corsi sono integrati da conferenze dedicate ai problemi geriatrici interessanti le varie branche della medicina e chirurgia (ginecologia, oculistica, dermatologia, otorinolaringoiatria, stomatologia).   
+Art. 182. - L'esame di diploma consistera' nella presentazione e discussione di una dissertazione scritta su argomento riguardante la gerontologia e geriatria, il cui argomento dovra' essere concordato col direttore della scuola all'inizio del secondo anno. La dissertazione dovra' essere approvata dallo stesso direttore e depositata presso la direzione almeno quindici giorni prima dell'esame.   
+Art. 183. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+1) Biologia della senescenza;   
+2) Fisiopatologia della senescenza (biennale: I);   
+3) Semeiologia della senescenza (biennale: I);   
+4) Anatomia patologica (biennale: I);   
+5) Farmacologia e farmacoterapia.   
+2° Anno:   
+1) Fisiopatologia della senescenza (biennale: II);   
+2) Semeiologia della senescenza (biennale: II);   
+3) Anatomia patologica (biennale: II);   
+4) Clinica geriatrica e terapia (biennale: I);   
+5) Chirurgia geriatrica;   
+6) Radiologia e radioterapia;   
+7) Neurologia.   
+3° Anno:   
+1) Clinica geriatrica e terapia (biennale: II);   
+2) Tecniche di riabilitazione;   
+3) Psichiatria;   
+4) Medicina sociale.   
+Nel terzo anno sono previste conferenze d'aggiornamento su problemi speciali.   
+  
+Scuola di specializzazione in medicina interna   
+  
+Art. 184. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in medicina interna con sede presso l'istituto di clinica medica generale, il cui direttore e' anche direttore della scuola.   
+Art. 185. - Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia in numero di trentotto per l'intero corso. Potra' essere accordato l'esonero di uno o piu' anni, secondo i titoli presentati dai singoli candidati, su proposta del consiglio della scuola approvato dalla facolta'; in ogni caso non sara' ammessa una abbreviazione superiore ai tre anni, fermo restando l'obbligo di sostenere tutti gli esami del corso.   
+Art. 186. - La durata dei corsi e' di cinque anni.   
+Art. 187. - Gli iscritti hanno l'obbligo della frequenza ai corsi ed alle esercitazioni e non potranno essere ammessi all'anno di corso successivo se non avranno superato gli esami dell'anno cui sono iscritti.   
+L'internato si svolgera' presso l'istituto di clinica medica generale e presso l'istituto di patologia speciale medica dell'universita'.   
+Le lezioni saranno integrate da conferenze tenute da eminenti studiosi sull'argomento che e' oggetto di studio durante l'anno.   
+Art. 188. - Al termine del quinto anno lo specializzando dovra' elaborare una tesi di specialita' su argomenti clinici o sperimentali di medicina interna da discutere dinnanzi ad una commissione giudicatrice composta a norma dell'art. 106 dello statuto dell'universita'.   
+Art. 189. - Le materie di insegnamento sono cosi' suddivise nei cinque anni di corso:   
+1° Anno:   
+Malattie infettive, disreattive e del sangue;   
+Istituzioni di terapia;   
+Anatomia ed istologia patologica (biennale);   
+Clinica medica generale e terapia medica (quinquennale).   
+2° Anno:   
+Malattie dell'apparato cardiovascolare;   
+Microbiologia e sierologia;   
+Chimica clinica;   
+Anatomia ed istologia patologica (biennale);   
+Clinica medica generale e terapia medica (quinquennale).   
+3° Anno:   
+Malattie dell'apparato digerente;   
+Malattie renali;   
+Clinica medica generale e terapia medica (quinquennale).   
+4° Anno:   
+Malattie dell'apparato respiratorio;   
+Malattie del sistema nervoso;   
+Clinica medica generale e terapia medica (quinquennale).   
+5° Anno:   
+Malattie del ricambio;   
+Malattie delle ghiandole endocrine;   
+Clinica medica generale e terapia medica (quinquennale).   
+Sono insegnamenti complementari:   
+Parassitologia medica;   
+Genetica medica;   
+Semeiotica dermatologica;   
+Radiologia;   
+Semeiotica oculistica;   
+Semeiotica ginecologica.   
+Per codesti insegnamenti viene lasciata ai direttori delle singole scuole la facolta' di inserirne uno o piu' nei vari anni del corso di specializzazione.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 maggio 1984
+### Dato a Roma, addi' 8 ottobre 1969
 
-PERTINI FALCUCCI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 8 agosto 1984
+Registrato alla Corte dei conti, addi' 24 giugno 1970
 
-Registro n. 49 Istruzione, foglio n. 197
+Atti del Governo, registro n. 236, foglio n. 69. - CARUSO

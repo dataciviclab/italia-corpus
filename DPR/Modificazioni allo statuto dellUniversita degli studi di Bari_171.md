@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1964 n. 942
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 805
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1964 n. 942
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 805
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,227 +10,66 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e successive modificazioni;
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con il [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta, la particolare necessita' di approvare le nuove modifiche proposte;
+Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Veduto il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-L'art. 107, relativo all'ordinamento del triennio di applicazione del corso di laurea in ingegneria elettrotecnica e' abrogato e sostituito dai seguenti, con il conseguente spostamento della successiva numerazione:
-
-Art. 107. - Gli insegnamenti del triennio (3°, 4° e 5° anno) si distinguono in:
-
-A) Obbligatori sul piano nazionale:
-
-1) Scienza delle costruzioni;
-
-2) Meccanica applicata alle macchine;
-
-3) Fisica tecnica;
-
-4) Elettrotecnica I;
-
-5) Idraulica;
-
-6) Misure elettriche I;
-
-7) Macchine;
-
-8) Macchine elettriche;
-
-9) Impianti elettrici I;
-
-10) Elettronica applicata;
-
-B) Obbligatori sul piano della Facolta':
-
-11) Tecnologie meccaniche;
-
-12) Materiali;
-
-13) Complementi di matematiche;
-
-14) Elettrotecnica II;
-
-15) Impianti elettrici II;
-
-16) Controlli automatici;
-
-17) Misure elettriche II;
-
-18) Legislazione (semestrale);
-
-19) Economia industriale (semestrale).
-
-C) Gruppi di materie a scelta dello studente:
-
-a) Orientamento impianti:
-
-20) Impianti elettrici speciali;
-
-21) Elettrochimica;
-
-b) Orientamento elettromeccanico:
-
-20) Costruzioni elettromeccaniche;
-
-21) Misure elettriche III;
-
-c) Orientamento comunicazioni:
-
-20) Comunicazioni elettriche;
-
-21) Radiotecnica e televisione.
-
-Art. 108. - Ordine degli esami:
-
-Elettrotecnica I: propedeutico per gli esami di Elettrotecnica II, di Misure elettriche I, di Impianti elettrici I e di Elettronica applicata;
-
-Complementi di matematica: propedeutico per gli esami di Elettrotecnica II, di Impianti elettrici I e di Elettronica applicata;
-
-Materiali: propedeutico per l'esame di Elettro-tecnica I;
-
-Elettrotecnica II: propedeutico per gli esami di Macchine elettriche, di Misura elettriche II e di Impianti elettrici II;
-
-Impianti elettrici I: propedeutico per l'esame di Impianti elettrici II;
-
-Misure elettriche I: propedeutico per gli esami di Misure elettriche II e di Elettrochimica;
-
-Elettronica applicata: propedeutico per gli esami di Controlli automatici, di Comunicazioni elettriche, di Radiotecnica e televisione;
-
-Impianti elettrici II: propedeutico per l'esame di Impianti elettrici speciali;
-
-Macchine elettriche: propedeutico per l'esame di Costruzioni elettro-meccaniche;
-
-Misure elettriche II: propedeutico per l'esame di Misure elettriche III.
-
-Art. 109. - Gli esami di Misure elettriche I e Misure elettriche II comportano anche una prova pratica di laboratorio. L'esame di Impianti elettrici II comporta la preventiva esecuzione di un progetto.
-
-Per essere ammesso all'esame di laurea lo studente deve aver superato gli esami nelle materie obbligatorie e nelle due dell'indirizzo prescelto.
-
-L'esame di laurea consiste in due prove orali: una vertente sugli studi e sulle esercitazioni svolte negli ultimi tre anni di corso; l'altra sulla discussione di un progetto particolare presentato come tesi.
-
-Art. 110. - All'elenco degli Istituti della Facolta' di ingegneria e' aggiunto il seguente:
-
-Istituto di geologia applicata.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 13 agosto 1964
-
-Per il Presidente della Repubblica
-
-Il Presidente del Senato
-
-MERZAGORA
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 19 ottobre 1964 Atti del Governo, registro n. 187, foglio n. 138. - VILLA
+Lo statuto dell'Universita' di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con il [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta, la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Nell'art. 72, relativo al corso di laurea in scienze agrarie, all'elenco degli insegnamenti complementari sono aggiunti i nuovi seguenti insegnamenti:  
+chimica e fisiologia delle fitotossine;  
+virologia vegetale molecolare;  
+fisiopatologia vegetale;  
+patologia delle colture protette;  
+diagnostica e terapia fitovirologica.  
+
+Art. 2
+------
+
   
-Decreta:  
+Nell'art. 38, relativo al corso di laurea in materie letterarie, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+filologia ed esegesi neotestamentaria.  
+
+Art. 3
+------
+
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-L'art. 107, relativo all'ordinamento del triennio di applicazione del corso di laurea in ingegneria elettrotecnica e' abrogato e sostituito dai seguenti, con il conseguente spostamento della successiva numerazione:  
-Art. 107. - Gli insegnamenti del triennio (3°, 4° e 5° anno) si distinguono in:  
-A) Obbligatori sul piano nazionale:  
-1) Scienza delle costruzioni;  
-2) Meccanica applicata alle macchine;  
-3) Fisica tecnica;  
-4) Elettrotecnica I;  
-5) Idraulica;  
-6) Misure elettriche I;  
-7) Macchine;  
-8) Macchine elettriche;  
-9) Impianti elettrici I;  
-10) Elettronica applicata;  
-B) Obbligatori sul piano della Facolta':  
-11) Tecnologie meccaniche;  
-12) Materiali;  
-13) Complementi di matematiche;  
-14) Elettrotecnica II;  
-15) Impianti elettrici II;  
-16) Controlli automatici;  
-17) Misure elettriche II;  
-18) Legislazione (semestrale);  
-19) Economia industriale (semestrale).  
-C) Gruppi di materie a scelta dello studente:  
-  
-a) Orientamento impianti:  
-20) Impianti elettrici speciali;  
-21) Elettrochimica;  
-  
-b) Orientamento elettromeccanico:  
-20) Costruzioni elettromeccaniche;  
-21) Misure elettriche III;  
-  
-c) Orientamento comunicazioni:  
-20) Comunicazioni elettriche;  
-21) Radiotecnica e televisione.  
-Art. 108. - Ordine degli esami:  
-Elettrotecnica I: propedeutico per gli esami di Elettrotecnica II, di Misure elettriche I, di Impianti elettrici I e di Elettronica applicata;  
-Complementi di matematica: propedeutico per gli esami di Elettrotecnica II, di Impianti elettrici I e di Elettronica applicata;  
-Materiali: propedeutico per l'esame di Elettro-tecnica I;  
-Elettrotecnica II: propedeutico per gli esami di Macchine elettriche, di Misura elettriche II e di Impianti elettrici II;  
-Impianti elettrici I: propedeutico per l'esame di Impianti elettrici II;  
-Misure elettriche I: propedeutico per gli esami di Misure elettriche II e di Elettrochimica;  
-Elettronica applicata: propedeutico per gli esami di Controlli automatici, di Comunicazioni elettriche, di Radiotecnica e televisione;  
-Impianti elettrici II: propedeutico per l'esame di Impianti elettrici speciali;  
-Macchine elettriche: propedeutico per l'esame di Costruzioni elettro-meccaniche;  
-Misure elettriche II: propedeutico per l'esame di Misure elettriche III.  
-Art. 109. - Gli esami di Misure elettriche I e Misure elettriche II comportano anche una prova pratica di laboratorio. L'esame di Impianti elettrici II comporta la preventiva esecuzione di un progetto.  
-Per essere ammesso all'esame di laurea lo studente deve aver superato gli esami nelle materie obbligatorie e nelle due dell'indirizzo prescelto.  
-L'esame di laurea consiste in due prove orali: una vertente sugli studi e sulle esercitazioni svolte negli ultimi tre anni di corso; l'altra sulla discussione di un progetto particolare presentato come tesi.  
-Art. 110. - All'elenco degli Istituti della Facolta' di ingegneria e' aggiunto il seguente:  
-Istituto di geologia applicata.  
+Nell'art. 31, relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari e' aggiunto il nuovo seguente insegnamento:  
+storia bizantina.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 agosto 1964
+### Dato a Roma, addi' 28 marzo 1983
 
-Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 19 ottobre 1964
+Registrato alla Corte dei conti, addi' 30 dicembre 1983
 
-Atti del Governo, registro n. 187, foglio n. 138. - VILLA
+Registro n. 82 Istruzione, foglio n. 225

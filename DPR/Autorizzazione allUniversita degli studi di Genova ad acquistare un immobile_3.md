@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1971 n. 1117
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1972 n. 101
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1971 n. 1117
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1972 n. 101
+==============================================================
 
 Autorizzazione all'Universita' degli studi di Genova ad acquistare un immobile.
 -------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1117. Decreto del Presidente della Repubblica 4 ottobre 1971, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Genova viene autorizzata ad acquistare l'intero primo piano di un edificio sito in Genova, via Balbi, 30, al prezzo di L. 70.000.000.  
+101. Decreto del Presidente della Repubblica 28 gennaio 1972, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Genova viene autorizzata ad acquistare un immobile denominato "Palazzo Balbi" sito in Genova, via Balbi n. 4, iscritto al nuovo catasto edilizio urbano di Genova alla partita 2190, foglio n. 80, mappale 119, al prezzo di L. 550.000.000.  
   
-Visto, il Guardasigilli: COLOMBO  
-Registrato alla Corte dei conti, addi' 21 dicembre 1971  
-Atti del Governo registro n. 245, foglio n. 126. - VALENTINI
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 24 marzo 1972  
+Atti del Governo, registro n. 247, foglio n. 163. - VALENTINI

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1980 n. 715
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 271
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1980 n. 715
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 271
+============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad ac
 Art. 1
 ------
 
-N.
+n.
 
-715. Decreto del Presidente della Repubblica 22 luglio 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' consistente nella quota del 15% di un complesso di beni mobili, pari a L. 81.180.634, disposta dal sig. Anselmo Mario con testamento olografo 8 febbraio 1976, pubblicato il 2 febbraio 1978, n. 733 di repertorio e n. 175 di raccolta, a rogito dott. Giorgio Pozzi, notaio in Milano, registrato a Milano il 17 febbraio 1978 al n. 2903-7/ M, serie E.  
+271. Decreto del Presidente della Repubblica 10 marzo 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita' consistente nella quota di 1/2 di saldo conti correnti, titoli obbligazionari ed azionari per un totale di lire 75.370.464, quota 1/2 L. 37.675.232, disposta dal signor Tagliafico Achille con testamento olografo 15 marzo 1974, pubblicato in data 27 ottobre 1978, n. 1571 di repertorio, a rogito dott. Ulderico Brambilla, notaio in Milano, registrato a Milano in data 8 novembre 1978 al n. 18988.  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 27 ottobre 1980  
-Registro n. 8 Presidenza, foglio n. 200
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 6 giugno 1986  
+Registro n. 5 Presidenza, foglio n. 84

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1213
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1976 n. 951
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1213
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1976 n. 951
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Catania.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,139 +20,115 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica Istruzione;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 176 - all'elenco delle scuole di specializzazione in medicina e chirurgia sono apportate le seguenti modifiche:
+Art. 176 - all'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola di specializzazione in medicina interna.
 
-la scuola di specializzazione in oculistica muta la denominazione in quella di scuola di specializzazione in oftalmologia;
+Dopo l'art. 271, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina interna annessa alla facolta' di medicina e chirurgia.
 
-la scuola di specializzazione in chirurgia muta la denominazione in quella di scuola di specializzazione in chirurgia generale;
+Scuola di specializzazione in medicina interna
 
-la scuola di specializzazione in odontoiatria e protesi dentaria muta la denominazione in quella di scuola di specializzazione in odontostomatologia;
+Art. 272. - La scuola di specializzazione in medicina interna avra' la durata di cinque anni.
 
-la scuola di specializzazione in ematologia clinica e di laboratorio muta la denominazione in quella di scuola di specializzazione in ematologia generale;
+Art. 273. - La direzione della scuola viene affidata al professore ordinario di clinica medica che tiene, a titolo ufficiale, l'insegnamento di clinica medica generale e terapia medica.
 
-la scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale muta la denominazione in quella di scuola di specializzazione in otorinolaringoiatria.
+Art. 274.- Il corso delle lezioni sara' impartito, oltre che dal direttore, da un corpo insegnanti che verra' scelto ogni anno dalla facolta' su proposta del direttore della scuola tra i professori titolari, incaricati, liberi docenti, assistenti di ruolo, tutti cultori particolari delle discipline oggetto d'insegnamento della scuola.
 
-Allo stesso elenco e' aggiunta la scuola di specializzazione in psichiatria.
+Art. 275. - La sede della scuola e della rispettiva direzione e' la clinica medica generale e terapia medica, mentre alcuni insegnamenti potranno essere impartiti in altri istituti universitari dello stesso ateneo.
 
-L'art. 209 e' modificato nel senso che la scuola di specializzazione in oculistica muta la denominazione in quella di scuola di specializzazione in oftalmologia.
-
-L'art. 211, primo comma, e' modificato nel senso che la scuola di specializzazione in chirurgia muta la denominazione in quella di scuola di specializzazione in chirurgia generale.
-
-L'art. 215, primo comma, e' modificato nel senso che la scuola di specializzazione in odontoiatria e protesi dentaria muta la denominazione in quella di scuola di specializzazione in odontostomatologia.
-
-Gli articoli 227, 228 e 230, relativi alla scuola di specializzazione in ematologia clinica e di laboratorio che muta la denominazione in quella di scuola di specializzazione in ematologia generale, sono abrogati e sostituiti dai seguenti:
-
-Scuola di specializzazione in ematologia generale
-
-Art. 227. - Presso la facolta' di medicina e chirurgia dell'Universita' di Catania e' istituita una scuola di specializzazione in ematologia generale.
-
-Art. 228. - Il corso di studi della scuola di specializzazione in ematologia generale ha la durata di tre anni.
-
-Art. 230. - Non sono consentite abbreviazioni di corso.
-
-L'art. 232, primo comma, e' modificato nel senso che la scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale muta la denominazione in quella di scuola di specializzazione in otorinolaringoiatria.
-
-L'art. 254, relativo alla scuola di specializzazione in neurologia, e' abrogato e sostituito dal seguente:
-
-Art. 254. - Ammissione per titoli ed esami. Non sono consentite abbreviazioni di corso.
-
-L'art. 261, relativo alla scuola di specializzazione in endocrinologia, e' abrogato e sostituito dal seguente:
-
-Art. 261. - Non sono consentite abbreviazioni di corso.
-
-Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in psichiatria.
-
-Scuola di specializzazione in psichiatria
-
-Art. 265. - La durata del corso di studi per la scuola di specializzazione in psichiatria e' di quattro anni.
-
-Non sono consentite abbreviazioni di corso.
-
-Art. 266. - Il programma di insegnamento e il seguente:
+Art. 276. - Le materie d'insegnamento, in conformita' alla scuola di specializzazione in altre sedi universitarie, vengono fissate ed articolate nella seguente maniera:
 
 1° Anno:
 
-1) anatomia ed istologia del sistema nervoso;
+malattie infettive, disreattive e del sangue;
 
-2) fisiologia del sistema nervoso;
+istituzioni di terapia;
 
-3) biochimica del sistema nervoso;
+anatomia ed istologia patologica (biennale);
 
-4) genetica (elementi);
-
-5) psicologia generale;
-
-6) psicopatologia (I);
-
-7) semeiotica psichiatrica.
+clinica medica generale e terapia medica (quinquennale).
 
 2° Anno:
 
-1) anatomia ed istologia patologica del sistema nervoso;
+malattie dell'apparato cardiovascolare;
 
-2) patologia speciale e diagnostica neurologica;
+microbiologia e sierologia;
 
-3) patologia speciale e diagnostica neurologica;
+chimica clinica;
 
-4) neuro radiologia;
+anatomia ed istologia patologica (biennale);
 
-5) endocrinologia e neurologia vegetativa;
-
-6) elettroencefalografia.
+clinica medica generale e terapia medica (quinquennale).
 
 3° Anno:
 
-1) patologia speciale psichiatrica;
+malattie dell'apparato digerente;
 
-2) psicopatologia (II);
+malattie renali;
 
-3) clinica psichiatrica (I);
-
-4) psicologia clinica e psicodiagnostica;
-
-5) psicofarmacologia;
-
-6) psichiatria in rapporto con la patologia internistica;
-
-7) esami di laboratorio.
+clinica medica generale e terapia medica (quinquennale).
 
 4° Anno:
 
-1) clinica psichiatrica (II);
+malattie dell'apparato respiratorio;
 
-2) terapia psichiatrica generale;
+malattie del sistema nervoso;
 
-3) psicoterapia;
+clinica medica generale e terapia medica (quinquennale).
 
-4) neuropsichiatria infantile;
+5° Anno:
 
-5) psichiatria forense e legislazione psichiatrica;
+malattie del ricambio;
 
-6) psichiatria sociale (del lavoro, scolastica, igiene e profilassi mentale).
+malattie delle ghiandole endocrine;
 
-Art. 267. - Internato obbligatorio per l'intero anno scolastico per il primo, terzo e quarto anno in clinica psichiatrica, sede della scuola.
+clinica medica generale e terapia medica (quinquennale).
 
-Tale internato potra' essere ridotto a non meno di quattro mesi all'anno per i medici che prestino regolare servizio in ospedale psichiatrico o in una divisione psichiatrica ai un ospedale civile.
+Insegnamenti complementari:
 
-L'internato e' obbligatorio per il secondo anno in neurologia (sede della scuola) per l'intero anno scolastico, salvo per i medici che prestino regolare servizio in ospedale psichiatrico o in una divisione psichiatrica di ospedale civile per i quali potra' essere ridotto a non meno di mesi sei e per i medici che prestino regolare servizio in un reparto neurologico per i quali potra' essere ridotto a non meno di mesi quattro.
+parassitologia medica;
 
-Art. 260. - Per l'ammissione al corso successivo e' obbligatorio il superamento degli esami di ciascun corso.
+genetica medica;
 
-Art. 269. - Il numero massimo degli allievi e' di tre per anno di corso.
+semeiotica dermatologica;
+
+radiologia;
+
+semeiotica oculistica;
+
+semeiotica ginecologica.
+
+Art. 277. - Gli insegnamenti fondamentali e le esercitazioni vanno tenuti distinti da quelli degli studenti del corso di laurea. Gli insegnamenti possono avere carattere di lezioni cattedratica o pratica, secondo l'indole delle discipline.
+
+Art. 278. - E' obbligatorio per gli allievi un periodo di frequenza o internato nell'istituto di clinica medica generale in cui ha sede la scuola, non inferiore alla meta' della durata di ciascun corso.
+
+Art. 279. - Il programma del corso ed il numero delle lezioni saranno coordinati dalla facolta' su proposta del direttore della scuola.
+
+Art. 280. - Il numero degli allievi che possono essere accolti e' di 4 per ogni anno di corso, mentre con parere della facolta' possono far parte di un corso, in soprannumero, allievi ripetenti e provenienti da altre scuole o istituti universitari.
+
+Art. 281. - La domanda di ammissione alla scuola va indirizzata al magnifico rettore, corredata dal diploma di studi medi di ammissione alla facolta', dal diploma originale di laurea in medicina e chirurgia, dal diploma di abilitazione all'esercizio professionale, dalla carriera scolastica e da altri titoli che l'aspirante ritenga di dover presentare.
+
+Art. 282. - Il direttore della scuola valuta i titoli dei candidati e sottopone gli stessi ad una prova di esame scritta per stabilire una motivata graduatoria per l'iscrizione che sara' proposta al consiglio di facolta'.
+
+Art. 283. - La mancata frequenza esclude gli allievi dagli esami e, sempre su parere del direttore della scuola, se recidiva nell'anno successivo, su parere della facolta', l'allievo viene escluso dal proseguimento del corso.
+
+Art. 284. - Per ottenere il diploma di specialista in medicina interna e' necessario avere eseguito un periodo di internato o di frequenza per il tempo stabilito, avere seguito le lezioni e le esercitazioni, avere superato gli esami previsti dalla scuola e presentare una tesi corredata da contributi personali e discuterla oralmente nell'esame di diploma.
+
+Art. 285. - Gli specializzandi dovranno ottenere la firma di presenza relativa ai singoli corsi di lezioni, alla fine dei quali dovranno sostenere i rispettivi esami. I respinti in non piu' di due materie, potranno essere ammessi nell'anno successivo, mantenendo l'obbligo di superare tali esami alla prima sessione.
+
+Art. 286. - Le commissioni per gli esami di profitto composte da non piu' di tre membri, compreso un libero docente, sono nominate dal consiglio di facolta' su proposta del direttore della scuola. La commissione per gli esami di diploma e' costituita da cinque membri nominati dal consiglio di facolta', udito il parere del direttore della scuola e composta a norma dell'art. 86 del regolamento generale universitario. I candidati non riconosciuti idonei possono presentarsi all'esame di diploma soltanto una seconda volta dopo un anno di frequenza alla scuola. A coloro che superano l'esame di diploma viene rilasciato il diploma di specialista in medicina interna.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1977
+Dato a Roma, addi' 30 ottobre 1976
 
 LEONE
 
@@ -163,97 +139,84 @@ Visto, il Guardasigilli: BONIFACIO
 Registrato
 ----------
 
-alla Corte dei conti, addi' 27 giugno 1978 Registro n. 67 Istruzione, foglio n. 347
+alla Corte dei conti, addi' 30 dicembre 1976 Registro n. 105 Istruzione, foglio n. 313
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica Istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 176 - all'elenco delle scuole di specializzazione in medicina e chirurgia sono apportate le seguenti modifiche:  
-la scuola di specializzazione in oculistica muta la denominazione in quella di scuola di specializzazione in oftalmologia;  
-la scuola di specializzazione in chirurgia muta la denominazione in quella di scuola di specializzazione in chirurgia generale;  
-la scuola di specializzazione in odontoiatria e protesi dentaria muta la denominazione in quella di scuola di specializzazione in odontostomatologia;  
-la scuola di specializzazione in ematologia clinica e di laboratorio muta la denominazione in quella di scuola di specializzazione in ematologia generale;  
-la scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale muta la denominazione in quella di scuola di specializzazione in otorinolaringoiatria.  
-Allo stesso elenco e' aggiunta la scuola di specializzazione in psichiatria.  
-L'art. 209 e' modificato nel senso che la scuola di specializzazione in oculistica muta la denominazione in quella di scuola di specializzazione in oftalmologia.  
-L'art. 211, primo comma, e' modificato nel senso che la scuola di specializzazione in chirurgia muta la denominazione in quella di scuola di specializzazione in chirurgia generale.  
-L'art. 215, primo comma, e' modificato nel senso che la scuola di specializzazione in odontoiatria e protesi dentaria muta la denominazione in quella di scuola di specializzazione in odontostomatologia.  
-Gli articoli 227, 228 e 230, relativi alla scuola di specializzazione in ematologia clinica e di laboratorio che muta la denominazione in quella di scuola di specializzazione in ematologia generale, sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in ematologia generale  
-Art. 227. - Presso la facolta' di medicina e chirurgia dell'Universita' di Catania e' istituita una scuola di specializzazione in ematologia generale.  
-Art. 228. - Il corso di studi della scuola di specializzazione in ematologia generale ha la durata di tre anni.  
-Art. 230. - Non sono consentite abbreviazioni di corso.  
-L'art. 232, primo comma, e' modificato nel senso che la scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale muta la denominazione in quella di scuola di specializzazione in otorinolaringoiatria.  
-L'art. 254, relativo alla scuola di specializzazione in neurologia, e' abrogato e sostituito dal seguente:  
-Art. 254. - Ammissione per titoli ed esami. Non sono consentite abbreviazioni di corso.  
-L'art. 261, relativo alla scuola di specializzazione in endocrinologia, e' abrogato e sostituito dal seguente:  
-Art. 261. - Non sono consentite abbreviazioni di corso.  
-Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in psichiatria.  
-Scuola di specializzazione in psichiatria  
-Art. 265. - La durata del corso di studi per la scuola di specializzazione in psichiatria e' di quattro anni.  
-Non sono consentite abbreviazioni di corso.  
-Art. 266. - Il programma di insegnamento e il seguente:  
-1° Anno:  
-1) anatomia ed istologia del sistema nervoso;  
-2) fisiologia del sistema nervoso;  
-3) biochimica del sistema nervoso;  
-4) genetica (elementi);  
-5) psicologia generale;  
-6) psicopatologia (I);  
-7) semeiotica psichiatrica.  
-2° Anno:  
-1) anatomia ed istologia patologica del sistema nervoso;  
-2) patologia speciale e diagnostica neurologica;  
-3) patologia speciale e diagnostica neurologica;  
-4) neuro radiologia;  
-5) endocrinologia e neurologia vegetativa;  
-6) elettroencefalografia.  
-3° Anno:  
-1) patologia speciale psichiatrica;  
-2) psicopatologia (II);  
-3) clinica psichiatrica (I);  
-4) psicologia clinica e psicodiagnostica;  
-5) psicofarmacologia;  
-6) psichiatria in rapporto con la patologia internistica;  
-7) esami di laboratorio.  
-4° Anno:  
-1) clinica psichiatrica (II);  
-2) terapia psichiatrica generale;  
-3) psicoterapia;  
-4) neuropsichiatria infantile;  
-5) psichiatria forense e legislazione psichiatrica;  
-6) psichiatria sociale (del lavoro, scolastica, igiene e profilassi mentale).  
-Art. 267. - Internato obbligatorio per l'intero anno scolastico per il primo, terzo e quarto anno in clinica psichiatrica, sede della scuola.  
-Tale internato potra' essere ridotto a non meno di quattro mesi all'anno per i medici che prestino regolare servizio in ospedale psichiatrico o in una divisione psichiatrica ai un ospedale civile.  
-L'internato e' obbligatorio per il secondo anno in neurologia (sede della scuola) per l'intero anno scolastico, salvo per i medici che prestino regolare servizio in ospedale psichiatrico o in una divisione psichiatrica di ospedale civile per i quali potra' essere ridotto a non meno di mesi sei e per i medici che prestino regolare servizio in un reparto neurologico per i quali potra' essere ridotto a non meno di mesi quattro.  
-Art. 260. - Per l'ammissione al corso successivo e' obbligatorio il superamento degli esami di ciascun corso.  
-Art. 269. - Il numero massimo degli allievi e' di tre per anno di corso.  
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 176 - all'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola di specializzazione in medicina interna.   
+Dopo l'art. 271, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina interna annessa alla facolta' di medicina e chirurgia.   
+Scuola di specializzazione in medicina interna   
+Art. 272. - La scuola di specializzazione in medicina interna avra' la durata di cinque anni.   
+Art. 273. - La direzione della scuola viene affidata al professore ordinario di clinica medica che tiene, a titolo ufficiale, l'insegnamento di clinica medica generale e terapia medica.   
+Art. 274.- Il corso delle lezioni sara' impartito, oltre che dal direttore, da un corpo insegnanti che verra' scelto ogni anno dalla facolta' su proposta del direttore della scuola tra i professori titolari, incaricati, liberi docenti, assistenti di ruolo, tutti cultori particolari delle discipline oggetto d'insegnamento della scuola.   
+Art. 275. - La sede della scuola e della rispettiva direzione e' la clinica medica generale e terapia medica, mentre alcuni insegnamenti potranno essere impartiti in altri istituti universitari dello stesso ateneo.   
+Art. 276. - Le materie d'insegnamento, in conformita' alla scuola di specializzazione in altre sedi universitarie, vengono fissate ed articolate nella seguente maniera:   
+1° Anno:   
+malattie infettive, disreattive e del sangue;   
+istituzioni di terapia;   
+anatomia ed istologia patologica (biennale);   
+clinica medica generale e terapia medica (quinquennale).   
+2° Anno:   
+malattie dell'apparato cardiovascolare;   
+microbiologia e sierologia;   
+chimica clinica;   
+anatomia ed istologia patologica (biennale);   
+clinica medica generale e terapia medica (quinquennale).   
+3° Anno:   
+malattie dell'apparato digerente;   
+malattie renali;   
+clinica medica generale e terapia medica (quinquennale).   
+4° Anno:   
+malattie dell'apparato respiratorio;   
+malattie del sistema nervoso;   
+clinica medica generale e terapia medica (quinquennale).   
+5° Anno:   
+malattie del ricambio;   
+malattie delle ghiandole endocrine;   
+clinica medica generale e terapia medica (quinquennale).   
+Insegnamenti complementari:   
+parassitologia medica;   
+genetica medica;   
+semeiotica dermatologica;   
+radiologia;   
+semeiotica oculistica;   
+semeiotica ginecologica.   
+Art. 277. - Gli insegnamenti fondamentali e le esercitazioni vanno tenuti distinti da quelli degli studenti del corso di laurea. Gli insegnamenti possono avere carattere di lezioni cattedratica o pratica, secondo l'indole delle discipline.   
+Art. 278. - E' obbligatorio per gli allievi un periodo di frequenza o internato nell'istituto di clinica medica generale in cui ha sede la scuola, non inferiore alla meta' della durata di ciascun corso.   
+Art. 279. - Il programma del corso ed il numero delle lezioni saranno coordinati dalla facolta' su proposta del direttore della scuola.   
+Art. 280. - Il numero degli allievi che possono essere accolti e' di 4 per ogni anno di corso, mentre con parere della facolta' possono far parte di un corso, in soprannumero, allievi ripetenti e provenienti da altre scuole o istituti universitari.   
+Art. 281. - La domanda di ammissione alla scuola va indirizzata al magnifico rettore, corredata dal diploma di studi medi di ammissione alla facolta', dal diploma originale di laurea in medicina e chirurgia, dal diploma di abilitazione all'esercizio professionale, dalla carriera scolastica e da altri titoli che l'aspirante ritenga di dover presentare.   
+Art. 282. - Il direttore della scuola valuta i titoli dei candidati e sottopone gli stessi ad una prova di esame scritta per stabilire una motivata graduatoria per l'iscrizione che sara' proposta al consiglio di facolta'.   
+Art. 283. - La mancata frequenza esclude gli allievi dagli esami e, sempre su parere del direttore della scuola, se recidiva nell'anno successivo, su parere della facolta', l'allievo viene escluso dal proseguimento del corso.   
+Art. 284. - Per ottenere il diploma di specialista in medicina interna e' necessario avere eseguito un periodo di internato o di frequenza per il tempo stabilito, avere seguito le lezioni e le esercitazioni, avere superato gli esami previsti dalla scuola e presentare una tesi corredata da contributi personali e discuterla oralmente nell'esame di diploma.   
+Art. 285. - Gli specializzandi dovranno ottenere la firma di presenza relativa ai singoli corsi di lezioni, alla fine dei quali dovranno sostenere i rispettivi esami. I respinti in non piu' di due materie, potranno essere ammessi nell'anno successivo, mantenendo l'obbligo di superare tali esami alla prima sessione.   
+Art. 286. - Le commissioni per gli esami di profitto composte da non piu' di tre membri, compreso un libero docente, sono nominate dal consiglio di facolta' su proposta del direttore della scuola. La commissione per gli esami di diploma e' costituita da cinque membri nominati dal consiglio di facolta', udito il parere del direttore della scuola e composta a norma dell'art. 86 del regolamento generale universitario. I candidati non riconosciuti idonei possono presentarsi all'esame di diploma soltanto una seconda volta dopo un anno di frequenza alla scuola. A coloro che superano l'esame di diploma viene rilasciato il diploma di specialista in medicina interna.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1977
+### Dato a Roma, addi' 30 ottobre 1976
 
 LEONE MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 27 giugno 1978
+Registrato alla Corte dei conti, addi' 30 dicembre 1976
 
-Registro n. 67 Istruzione, foglio n. 347
+Registro n. 105 Istruzione, foglio n. 313

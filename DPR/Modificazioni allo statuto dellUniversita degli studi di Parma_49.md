@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1190
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1968 n. 1143
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1190
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1968 n. 1143
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
@@ -10,15 +10,13 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Parma approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
@@ -32,81 +30,80 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 69. - All'elenco degli insegnamenti complementari del corso di laurea in matematica sono aggiunti i seguenti:
+Gli articoli da 193 a 201 relativi alla scuola di specializzazione in microbiologia sono abrogati e sostituiti dai seguenti:
 
-20) Didattica della matematica;
+Scuola di specializzazione in microbiologia
 
-21) Linguistica della matematica;
+Art. 193. - La scuola di specializzazione in microbiologia ha lo scopo di allargare e completare sul piano scientifico la cultura di coloro che si dedicano allo studio di questa disciplina e di fornire sul piano tecnico una preparazione pratica specifica.
 
-22) Sistemi per l'elaborazione dell'informazione;
+Art. 194. - Possono essere ammessi i laureati in medicina e chirurgia, medicina veterinaria, scienze biologiche, scienze naturali e farmacia.
 
-23) Teoria degli automi;
+Art. 195. - Il corso ha la durata di tre anni ed ha luogo presso l'istituto di microbiologia.
 
-24) Ricerca operativa;
+Art. 196. - Il numero complessivo degli specializzandi da ammettere alla scuola e' di trenta allievi, ripartiti in dieci allievi per ogni anno di corso. Nel caso di domande eccedenti, la selezione verra' effettuata mediante concorso con norme che verranno precisate nel manifesto annuale. Qualora un aspirante, sufficientemente fornito di titoli attinenti alle materie della scuola, chieda abbreviazioni di corso, dovra' presentare motivata istanza.
 
-25) Teoria dei sistemi.
+Art. 197. - La direzione della scuola viene assunta da un professore di ruolo o fuori ruolo di microbiologia. Il direttore della scuola puo' nominare un vice direttore che lo coadiuvi e lo supplisca ed un segretario.
 
-Art. 94. - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:
+Art. 198. - L'ordine degli studi (distribuzione degli insegnamenti nei diversi anni del corso) e l'ordine e le modalita' degli esami verranno stabiliti nel manifesto annuale.
 
-Antropologia culturale;
+Art. 199. - Gli insegnamenti impartiti nella scuola sono:
 
-Demografia.
+1. Chimica microbiologica;
 
-Art. 102. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:
+2. Batteriologia generale e tecnica batteriologica;
 
-Antropologia culturale;
+3. Analisi statistica del dosaggio biologico;
 
-Demografia;
+4. Immunologia;
 
-Farmacologia.
+5. Batteriologia speciale;
 
-Art. 107. - All'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti:
+6. Virologia generale e tecnica virologica;
 
-Petrografia regionale;
+7. Micologia;
 
-Rilevamento petrografico-giacimentologico;
+8. Protozoologia;
 
-Mineralogia applicata;
+9. Genetica dei microrganismi;
 
-Petrologia;
+10. Virologia speciale;
 
-Paleontologia dei vertebrati;
+11. Microbiologia degli alimenti;
 
-Paleoecologia;
+12. Microbiologia industriale;
 
-Geologia strutturale.
+13. Metodi e dosaggi microbiologici.
 
-Art. 118. - All'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologia farmaceutiche e' aggiunto quello di:
+Art. 200. - Il direttore puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari di conferenze su materie e argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola.
 
-Analisi chimico-cliniche.
+Art. 201. - L'esame di diploma constera' di una discussione sopra una tesi scritta e di una prova pratica.
 
-Nello stesso articolo l'insegnamento fondamentale di fisica perde l'asterisco.
+I candidati non riconosciuti idonei, potranno ripresentarsi dopo un altro anno di frequenza alla scuola. Ma se al secondo esame non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove verra' rilasciato un diploma di specialista in microbiologia.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1972
+Dato a Roma, addi' 2 ottobre 1968
 
-LEONE
+SARAGAT
 
-SCALFARO
+SCAGLIA
 
 Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 6 agosto 1973 Atti di Governo, registro n. 259, foglio n. 68. - VALENTINI
+alla Corte di conti, addi' 9 novembre 1968 Atti del Governo, registro n. 223, foglio n. 92. - DI PRETORO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Parma approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -115,42 +112,45 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 69. - All'elenco degli insegnamenti complementari del corso di laurea in matematica sono aggiunti i seguenti:  
-20) Didattica della matematica;  
-21) Linguistica della matematica;  
-22) Sistemi per l'elaborazione dell'informazione;  
-23) Teoria degli automi;  
-24) Ricerca operativa;  
-25) Teoria dei sistemi.  
-Art. 94. - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:  
-Antropologia culturale;  
-Demografia.  
-Art. 102. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:  
-Antropologia culturale;  
-Demografia;  
-Farmacologia.  
-Art. 107. - All'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti:  
-Petrografia regionale;  
-Rilevamento petrografico-giacimentologico;  
-Mineralogia applicata;  
-Petrologia;  
-Paleontologia dei vertebrati;  
-Paleoecologia;  
-Geologia strutturale.  
-Art. 118. - All'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologia farmaceutiche e' aggiunto quello di:  
-Analisi chimico-cliniche.  
-Nello stesso articolo l'insegnamento fondamentale di fisica perde l'asterisco.  
+  
+Gli articoli da 193 a 201 relativi alla scuola di specializzazione in microbiologia sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in microbiologia  
+  
+Art. 193. - La scuola di specializzazione in microbiologia ha lo scopo di allargare e completare sul piano scientifico la cultura di coloro che si dedicano allo studio di questa disciplina e di fornire sul piano tecnico una preparazione pratica specifica.  
+Art. 194. - Possono essere ammessi i laureati in medicina e chirurgia, medicina veterinaria, scienze biologiche, scienze naturali e farmacia.  
+Art. 195. - Il corso ha la durata di tre anni ed ha luogo presso l'istituto di microbiologia.  
+Art. 196. - Il numero complessivo degli specializzandi da ammettere alla scuola e' di trenta allievi, ripartiti in dieci allievi per ogni anno di corso. Nel caso di domande eccedenti, la selezione verra' effettuata mediante concorso con norme che verranno precisate nel manifesto annuale. Qualora un aspirante, sufficientemente fornito di titoli attinenti alle materie della scuola, chieda abbreviazioni di corso, dovra' presentare motivata istanza.  
+Art. 197. - La direzione della scuola viene assunta da un professore di ruolo o fuori ruolo di microbiologia. Il direttore della scuola puo' nominare un vice direttore che lo coadiuvi e lo supplisca ed un segretario.  
+Art. 198. - L'ordine degli studi (distribuzione degli insegnamenti nei diversi anni del corso) e l'ordine e le modalita' degli esami verranno stabiliti nel manifesto annuale.  
+Art. 199. - Gli insegnamenti impartiti nella scuola sono:  
+1. Chimica microbiologica;  
+2. Batteriologia generale e tecnica batteriologica;  
+3. Analisi statistica del dosaggio biologico;  
+4. Immunologia;  
+5. Batteriologia speciale;  
+6. Virologia generale e tecnica virologica;  
+7. Micologia;  
+8. Protozoologia;  
+9. Genetica dei microrganismi;  
+10. Virologia speciale;  
+11. Microbiologia degli alimenti;  
+12. Microbiologia industriale;  
+13. Metodi e dosaggi microbiologici.  
+Art. 200. - Il direttore puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari di conferenze su materie e argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola.  
+Art. 201. - L'esame di diploma constera' di una discussione sopra una tesi scritta e di una prova pratica.  
+I candidati non riconosciuti idonei, potranno ripresentarsi dopo un altro anno di frequenza alla scuola. Ma se al secondo esame non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove verra' rilasciato un diploma di specialista in microbiologia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 2 ottobre 1968
 
-LEONE SCALFARO
+SARAGAT SCAGLIA
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 6 agosto 1973
+Registrato alla Corte di conti, addi' 9 novembre 1968
 
-Atti di Governo, registro n. 259, foglio n. 68. - VALENTINI
+Atti del Governo, registro n. 223, foglio n. 92. - DI PRETORO

@@ -1,193 +1,70 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1971 n. 1171
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 settembre 1964 n. 1091
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1971 n. 1171
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 settembre 1964 n. 1091
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 116. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:
-
-Fisiologia applicata;
-
-Virologia oncologica.
-
-Art. 124. - All'elenco degli istituti annessi alla facolta' di medicina e chirurgia e' aggiunto il seguente:
-
-Istituto per lo studio delle ultrastrutture di interesse biologico.
-
-Dopo l'art. 129 e con il conseguente spostamento della numerazione degli articoli successivi sono aggiunti i seguenti nuovi articoli, relativi alle norme dell'istituto "per lo studio delle ultrastrutture di interesse biologico".
-
-Art. 130. - L'istituto per lo studio delle ultrastrutture di interesse biologico viene articolato in diverse sezioni, di cui si elencano alcune da istituirsi con carattere prioritario: morfologia delle ultrastrutture, biochimica delle ultrastrutture, biofisica delle ultrastrutture, farmacologia delle ultrastrutture ed altre di cui si riconosce la necessita'. Le sezioni vengono costituite su deliberazione del consiglio direttivo.
-
-Art. 131. - L'istituto ha per scopo lo studio delle ultrastrutture biologiche (in condizioni normali e patologiche) fino al livello molecolare. Tra i compiti dell'istituto c'e' quello di promuovere la formazione di ricercatori e tecnici nei campi di attivita' dell'istituto stesso ed anche quello di condurre e promuovere iniziative di ricerca, comuni tra studiosi di differenti discipline della facolta'; nonche' di altre facolta', di centri, laboratori e istituti di ricerca extra-universitari, sia italiani che stranieri.
-
-Art. 132. - La direzione scientifica ed amministrativa dell'istituto e' esercitata da un consiglio direttivo composto:
-
-a) cinque professori scelti tra i professori di ruolo o fuori ruolo della facolta' di medicina e chirurgia;
-
-b) due professori aggregati della stessa facolta';
-
-(i professori di cui alle lettere a) e b) saranno scelti dalla facolta' di medicina e chirurgia sulla base della loro particolare competenza nelle singole materie afferenti all'attivita' dell'istituto);
-
-c) due assistenti di ruolo;
-
-d) due ricercatori a carico di enti nazionali o stranieri (ad es.
-
-C.N.R.);
-
-e) due tecnici di ruolo;
-
-f) due studenti;
-
-(i membri di cui alle lettere c), d), e) ed f), devono tutti far parte del personale dell'istituto e vengono eletti da tutti i componenti dell'istituto stesso).
-
-I componenti del consiglio direttivo durano in carica tre anni e sono rieleggibili.
-
-Art. 133. - Il direttore dell'istituto sara' un professore di ruolo, nominato dalla facolta' su proposta del consiglio direttivo.
-
-Vengono eletti dal consiglio direttivo, tra il personale scientifico dell'istituto i vice-direttori, uno per ogni sezione o reparto. Il direttore ed i vice-direttori durano in carica tre anni; il direttore non puo' essere eletto consecutivamente piu' di una volta. Il consiglio direttivo si riunisce periodicamente almeno cinque volte all'anno ed in seduta straordinaria ogni qualvolta il direttore lo ritenga opportuno o quando sette membri ne facciano richiesta.
-
-Avranno valore solo le deliberazioni prese quando e' presente la maggioranza dei membri del consiglio direttivo.
-
-Art. 134. I fondi occorrenti per l'attivita' dell'istituto derivano:
-
-a) da dotazione annuale che sara' messa a disposizione dalla Universita' degli studi;
-
-b) da contratti di ricerca con enti nazionali o stranieri;
-
-c) da dotazioni di enti pubblici o di privati italiani e stranieri;
-
-d) da fondi trasferiti da altri istituti o cattedre della stessa o di altre facolta' universitarie.
-
-La gestione economico-amministrativa dell'istituto sara' analoga a quella di altri istituti o cattedre della facolta' di medicina e chirurgia.
-
-Art. 135. - L'istituto avra' un proprio personale, assistente, ricercatore, tecnico, subalterno, amministrativo assegnato con le stesse modalita' con le quali esso viene attribuito attualmente alle singole cattedre. All'istituto potranno essere destinati professori aggregati.
-
-Art. 136. - L'attivita' scientifica dell'istituto si svolgera' su programmi di ricerca scritti, che saranno sottoposti alla preventiva approvazione del consiglio direttivo. L'istituto svolgera' ricerche eseguite dai ricercatori e studiosi dello stesso istituto, oppure in collaborazione con studiosi di istituti o cattedre della stessa facolta' o di altre facolta' o anche di organismi extra-universitari.
-
-Il vaglio del comitato direttivo concernera' anche lo stanziamento dei relativi fondi necessari.
-
-Art. 137. - Presso l'istituto saranno tenuti corsi di insegnamento di varia natura, accessibili agli studenti e laureati che vi siano interessati (previa deliberazione del consiglio direttivo) sulle discipline e tecniche relative alle attivita' che si svolgono presso l'istituto. L'istituto e' autorizzato ad accogliere studiosi italiani e stranieri particolarmente competenti nei campi di attivita' dello stesso, con possibile retribuzione a carico dell'istituto.
-
-Art. 138. - norme transitorie:
-
-Il Centro di microscopia elettronica della facolta', attualmente esistente presso l'istituto di anatomia patologica, coi beni patrimoniali, il personale e la disponibilita' finanziaria afferente, viene assorbito dall'istituto all'atto della sua istituzione (pubblicazione del decreto di modifica di statuto sulla Gazzetta Ufficiale).
-
-L'attuale sede del Centro di microscopia elettronica della facolta' diventa sede dell'istituto fino a nuova sede.
-
-Circa la costituzione del consiglio direttivo di cui all'art. 132, esso sara' composto di un numero minore di membri fino a che il personale dell'istituto non raggiungera' il numero indicato dall'art.
-
-132.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 25 ottobre 1971
-
-SARAGAT
-
-MISASI
-
-Visto, il Guardasigilli: COLOMBO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 30 dicembre 1971 Atti del Governo, registro n. 245, foglio n. 160. - VALENTINI
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592) Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare la nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 116. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:   
-Fisiologia applicata;   
-Virologia oncologica.   
-Art. 124. - All'elenco degli istituti annessi alla facolta' di medicina e chirurgia e' aggiunto il seguente:   
-Istituto per lo studio delle ultrastrutture di interesse biologico.   
-Dopo l'art. 129 e con il conseguente spostamento della numerazione degli articoli successivi sono aggiunti i seguenti nuovi articoli, relativi alle norme dell'istituto "per lo studio delle ultrastrutture di interesse biologico".   
-Art. 130. - L'istituto per lo studio delle ultrastrutture di interesse biologico viene articolato in diverse sezioni, di cui si elencano alcune da istituirsi con carattere prioritario: morfologia delle ultrastrutture, biochimica delle ultrastrutture, biofisica delle ultrastrutture, farmacologia delle ultrastrutture ed altre di cui si riconosce la necessita'. Le sezioni vengono costituite su deliberazione del consiglio direttivo.   
-Art. 131. - L'istituto ha per scopo lo studio delle ultrastrutture biologiche (in condizioni normali e patologiche) fino al livello molecolare. Tra i compiti dell'istituto c'e' quello di promuovere la formazione di ricercatori e tecnici nei campi di attivita' dell'istituto stesso ed anche quello di condurre e promuovere iniziative di ricerca, comuni tra studiosi di differenti discipline della facolta'; nonche' di altre facolta', di centri, laboratori e istituti di ricerca extra-universitari, sia italiani che stranieri.   
-Art. 132. - La direzione scientifica ed amministrativa dell'istituto e' esercitata da un consiglio direttivo composto:   
-a) cinque professori scelti tra i professori di ruolo o fuori ruolo della facolta' di medicina e chirurgia;   
-b) due professori aggregati della stessa facolta';   
-(i professori di cui alle lettere a) e b) saranno scelti dalla facolta' di medicina e chirurgia sulla base della loro particolare competenza nelle singole materie afferenti all'attivita' dell'istituto);   
-c) due assistenti di ruolo;   
-d) due ricercatori a carico di enti nazionali o stranieri (ad es.  
-C.N.R.);   
-e) due tecnici di ruolo;   
-f) due studenti;   
-(i membri di cui alle lettere c), d), e) ed f), devono tutti far parte del personale dell'istituto e vengono eletti da tutti i componenti dell'istituto stesso).   
-I componenti del consiglio direttivo durano in carica tre anni e sono rieleggibili.   
-Art. 133. - Il direttore dell'istituto sara' un professore di ruolo, nominato dalla facolta' su proposta del consiglio direttivo.  
-Vengono eletti dal consiglio direttivo, tra il personale scientifico dell'istituto i vice-direttori, uno per ogni sezione o reparto. Il direttore ed i vice-direttori durano in carica tre anni; il direttore non puo' essere eletto consecutivamente piu' di una volta. Il consiglio direttivo si riunisce periodicamente almeno cinque volte all'anno ed in seduta straordinaria ogni qualvolta il direttore lo ritenga opportuno o quando sette membri ne facciano richiesta.  
-Avranno valore solo le deliberazioni prese quando e' presente la maggioranza dei membri del consiglio direttivo.   
-Art. 134. I fondi occorrenti per l'attivita' dell'istituto derivano:   
-a) da dotazione annuale che sara' messa a disposizione dalla Universita' degli studi;   
-b) da contratti di ricerca con enti nazionali o stranieri;   
-c) da dotazioni di enti pubblici o di privati italiani e stranieri;   
-d) da fondi trasferiti da altri istituti o cattedre della stessa o di altre facolta' universitarie.   
-La gestione economico-amministrativa dell'istituto sara' analoga a quella di altri istituti o cattedre della facolta' di medicina e chirurgia.   
-Art. 135. - L'istituto avra' un proprio personale, assistente, ricercatore, tecnico, subalterno, amministrativo assegnato con le stesse modalita' con le quali esso viene attribuito attualmente alle singole cattedre. All'istituto potranno essere destinati professori aggregati.   
-Art. 136. - L'attivita' scientifica dell'istituto si svolgera' su programmi di ricerca scritti, che saranno sottoposti alla preventiva approvazione del consiglio direttivo. L'istituto svolgera' ricerche eseguite dai ricercatori e studiosi dello stesso istituto, oppure in collaborazione con studiosi di istituti o cattedre della stessa facolta' o di altre facolta' o anche di organismi extra-universitari.   
-Il vaglio del comitato direttivo concernera' anche lo stanziamento dei relativi fondi necessari.   
-Art. 137. - Presso l'istituto saranno tenuti corsi di insegnamento di varia natura, accessibili agli studenti e laureati che vi siano interessati (previa deliberazione del consiglio direttivo) sulle discipline e tecniche relative alle attivita' che si svolgono presso l'istituto. L'istituto e' autorizzato ad accogliere studiosi italiani e stranieri particolarmente competenti nei campi di attivita' dello stesso, con possibile retribuzione a carico dell'istituto.   
-Art. 138. - norme transitorie:   
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Il Centro di microscopia elettronica della facolta', attualmente esistente presso l'istituto di anatomia patologica, coi beni patrimoniali, il personale e la disponibilita' finanziaria afferente, viene assorbito dall'istituto all'atto della sua istituzione (pubblicazione del decreto di modifica di statuto sulla Gazzetta Ufficiale).   
-L'attuale sede del Centro di microscopia elettronica della facolta' diventa sede dell'istituto fino a nuova sede.   
-Circa la costituzione del consiglio direttivo di cui all'art. 132, esso sara' composto di un numero minore di membri fino a che il personale dell'istituto non raggiungera' il numero indicato dall'art.   
-132.   
+Dopo l'art. 393 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in "Endocrinologia e malattie del ricambio" annessa alla Facolta' di medicina e chirurgia.  
+  
+Scuola di specializzazione in Endocrinologia  
+e malattie del ricambio  
+  
+Art. 394. - La Scuola di specializzazione in Endocrinologia e malattie del ricambio ha la durata di anni tre. Essa ha sede per i primi due anni di corso presso l'Istituto di patologia speciale medica e metodologia clinica e per il terzo anno di corso presso l'Istituto di Clinica medica generale e terapia medica dell'Universita', ed e' diretta dai direttori di questi due Istituti.  
+La direzione della Scuola e' affidata alternativamente ad uno dei due titolari delle cattedre predette che si alterneranno di anno in anno nelle mansioni direttive, mentre l'altro titolare funzionera' di anno in anno come vice-direttore della Scuola stessa.  
+Art. 395. - Gli iscritti hanno l'obbligo di prestare servizio continuativo per i primi due anni di corso presso l'Istituto di Patologia speciale medica e per il terzo anno di corso presso l'Istituto di Clinica medica generale e terapia medica in qualita' di medici interni.  
+Art. 396. - Possono essere iscritti i laureati in Medicina e chirurgia nel numero massimo di dieci iscritti per ogni anno di corso. Gli iscritti saranno scelti in base al risultato di una prova scritta di esame ed in base ai titoli da essi eventualmente presentati insieme con la domanda di ammissione.  
+Art. 397. - Le materie d'insegnamento, tutte obbligatorie, sono le seguenti:  
+1° Anno:  
+1) Anatomia ed istologia patologica in rapporto alle malattie endocrine e del ricambio;  
+2) Fisiologia degli organi endocrini e del ricambio;  
+3) Biochimica delle endocrinopatie e delle malattie del ricambio;  
+4) Semeiotica delle malattie endocrine e del ricambio;  
+5) Nozioni di genetica applicata alle malattie endocrine e del ricambio.  
+2° Anno:  
+1) Patologia delle ghiandole endocrine;  
+2) Patologia del ricambio;  
+3) Tecniche biologiche, biochimiche e radioisotopiche applicate alla endocrinologia;  
+4) Biotipologia ed auxologia;  
+5) Endocrinologia ginecologica.  
+3° Anno:  
+1) Clinica delle malattie endocrine;  
+2) Clinica delle malattie del ricambio;  
+3) Terapia medica delle malattie endocrine e del ricambio;  
+4) Terapia chirurgica delle malattie endocrine;  
+5) Radiodiagnostica e radioterapia delle malattie endocrine e del ricambio.  
+Art. 398. - La frequenza di corsi d'insegnamento e' obbligatoria per l'ammissione ai singoli esami. I risultati favorevoli degli esami di ogni corso sono necessari per l'iscrizione all'anno di corso successivo.  
+Al termine degli anni di corso lo specializzando per conseguire il diploma di specializzazione dovra' presentare una dissertazione scritta elaborata negli Istituti di Clinica medica o di patologia speciale medica su argomento di Endocrinologia e di malattie del ricambio e dovra' sostenere un esame orale e pratico dinanzi ad una Commissione formata da cinque insegnanti della Scuola.  
+Abbreviazione di un solo anno di corso, con obbligo di sostenere i relativi esami, potra' essere concessa soltanto agli iscritti che sono gia' in possesso di specializzazione in discipline affini o fondamentali oppure che siano in possesso di titoli scientifici e di carriera che saranno vagliati dal Consiglio di facolta' su proposta dei direttori della Scuola.  
+Art. 399. - Le tasse, soprattasse ed i contributi per la Scuola di specializzazione in Endocrinologia e malattie del ricambio sono stabilite in misura eguale a quelle gia' in vigore per la Scuola di specializzazione in Cardiologia e malattie dei vasi di questa stessa Universita'.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 ottobre 1971
+### Dato a Roma, addi' 26 settembre 1964
 
-SARAGAT MISASI
+Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 30 dicembre 1971
+Registrato alla Corte dei conti, addi' 2 novembre 1964
 
-Atti del Governo, registro n. 245, foglio n. 160. - VALENTINI
+Atti del Governo, registro n. 188, foglio n. 28. - VILLA

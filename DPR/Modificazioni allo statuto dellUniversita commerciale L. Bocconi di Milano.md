@@ -1,57 +1,90 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1984 n. 535
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 dicembre 1956 n. 1607
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1984 n. 535
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 dicembre 1956 n. 1607
+================================================================
 
 Modificazioni allo statuto dell'Universita' commerciale "L. Bocconi" di Milano.
 -------------------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' commerciale "L. Bocconi" di Milano, approvato con [regio decreto 3 giugno 1924, n. 986](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-03;986), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' commerciale "L. Bocconi" di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' commerciale "L. Bocconi" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Dopo l'art. 5 e' inserito il seguente nuovo articolo, con il conseguente spostamento della numerazione degli articoli successivi:  
-Art. 6. - Il consiglio di amministrazione dell'Universita', udito il parere del consiglio di facolta' ed esaminata la situazione delle strutture ed attrezzature didattiche e scientifiche disponibili, stabilisce e rende noto mediante apposito avviso ufficiale, entro il mese di marzo di ogni anno, il numero massimo di studenti da ammettere al primo corso nell'anno accademico successivo, adeguandolo alle strutture stesse e le relative modalita' di ammissione.  
+Veduto lo statuto dell'Universita' commerciale "Luigi Bocconi" di Milano, approvato con [regio decreto 8 marzo 1925, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-08;547), e modificato con il [regio decreto 2 dicembre 1928, n. 3108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1928-12-02;3108); [21 ottobre 1940, n. 1590, e con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1940-10-21;1590) [27 luglio 1947, n. 1226](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-07-27;1226);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella legge 2 gennaio 1.936, n. 73;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' commerciale "L. Bocconi" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Art. 45. - E' istituito presso l'Universita' commerciale "L.  
+Bocconi" di Milano, un corso di perfezionamento in economia aziendale, per la formazione dei quadri direttivi di azienda. Il corso e' diretto dal direttore dell'Istituto di economia aziendale, e' biennale e comprende le seguenti materie:  
+Primo anno:  
+a) Materie obbligatorie:  
+Tecnica delle rilevazioni contabili;  
+Tecnica delle operazioni bancarie;  
+I costi di produzione e di distribuzione;  
+I finanziamenti delle imprese industriali;  
+Le variazioni monetarie;  
+Tecnica delle ricerche di mercato;  
+Tecnica del commercio e dei regolamenti internazionali;  
+Le relazioni umane nelle aziende;  
+Tecnologia industriale.  
+b) Materie facoltative:  
+Il mercato finanziario italiano;  
+Tecnica della pubblicita'.  
+Secondo anno:  
+a) Materie obbligatorie:  
+Organizzazione aziendale;  
+Economie delle aziende industriali e commerciali;  
+Economia delle aziende di credito;  
+Il sistema dei prezzi;  
+Le responsabilita' penali delle aziende;  
+Legislazione del lavoro e tecnica sindacale;  
+I bilanci delle imprese.  
+b) Materie facoltative:  
+Economia delle imprese pubbliche;  
+Organizzazione economica internazionale;  
+Tecnica tributaria.  
+Sono ammessi al primo corso soltanto laureati in:  
+"Economia e commercio";  
+"giurisprudenza";  
+"scienze politiche";  
+"ingegneria";  
+"chimica industriale";  
+"chimica pura";  
+"agraria".  
+Sono ammessi al secondo corso gli iscritti che abbiano superato almeno quattro esami del 1° corso a loro scelta.  
+Gli iscritti laureati in ingegneria, chimica pura, chimica industriale e agraria sono esonerati dagli esami di tecnologia industriale.  
+Gli iscritti laureati in economia e commercio sono esonerati dai seguenti esami:  
+a) Primo anno:  
+Tecnica delle rilevazioni contabili;  
+Tecnica delle operazioni bancarie.  
+b) Secondo anno:  
+Economia delle aziende industriali e commerciali.  
+Art. 46. - Sono ammessi agli esami soltanto gli iscritti che abbiano regolarmente frequentato le lezioni.  
+Le Commissioni per gli esami di profitto e di diploma saranno formate dagli stessi professori, incaricati dello svolgimento dei corsi e presieduti dal direttore del corso.  
+Art. 47. - Alla fine del corso viene rilasciato un diploma agli iscritti che abbiano superato tutti gli esami delle materie obbligatorie (salvo le eccezioni sopra accennate), nonche' almeno due esami a loro scelta delle materie facoltative.  
+Art. 48. - La tassa di frequenza verra' fissata dal Consiglio di amministrazione all'inizio di ciascun anno accademico, sentito il Consiglio della Facolta' di economia e commercio.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 giugno 1984
+### Dato a Roma, addi' 14 dicembre 1956
 
-PERTINI FALCUCCI
+GRONCHI ROSSI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: MORO
 
-Registrato alla Corte dei conti, addi' 13 agosto 1984
+Registrato alla Corte dei conti, addi' 5 febbraio 1957
 
-Registro n. 49 Istruzione, foglio n. 302
+Atti del Governo, registrato n. 104, foglio n. 6. - CARLOMAGNO

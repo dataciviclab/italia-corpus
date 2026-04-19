@@ -1,114 +1,113 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 217
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1974 n. 501
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 217
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1974 n. 501
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio universitario nazionale nei suoi pareri;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 138 e 139, relativi alla scuola di specializzazione in radiologia, sono soppressi e sostituiti dai seguenti:  
+Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836), e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Scuola di specializzazione in radiologia  
-Art. 138. - La scuola di specializzazione in radiologia ha sede presso l'istituto di radiologia ed e' diretta dal professore di ruolo o fuori ruolo della stessa materia o, in carenza, di materia affine.  
-Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso di diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione per titoli ed esami.  
-Non sono ammesse abbreviazioni di corso.  
-La scuola conferisce i seguenti diplomi:  
-a) diploma di specialista in radiodiagnostica. Gli anni di studio necessari per conseguire questo titolo sono quattro;  
-b) diploma di specialista in radioterapia oncologica. Gli anni di studio necessari per conseguire questo titolo sono quattro.  
-La scuola ha un tronco comune di due anni identico per i diplomi in radiodiagnostica e radioterapia oncologica.  
-Gli insegnamenti per il diploma di specialista in radiodiagnostica sono cosi' distribuiti nei quattro anni di corso:  
+Decreta:   
   
-1° Anno (comune alla specializzazione in radioterapia oncologica):  
-a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);  
-b) radiobiologia, legislazione e norme generali di radioprotezione;  
-c) tecnica di acquisizione memorizzazione dei dati, fotodocumentazione e archiviazione;  
-d) nozioni di anatomia e fisiologia generale.  
-2° Anno (comune alla radioterapia oncologica):  
-a) anatomia patologica;  
-b) apparecchiature e tecniche radiologiche;  
-c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);  
-d) radiopatologia;  
-e) dosimetria applicata.  
-3° Anno:  
-a) tecniche speciali e relativa semeiotica (I);  
-b) radiodiagnostica speciale dei vari organi ed apparati (I).  
-4° Anno:  
-a) tecniche speciali e relativa semeiotica (termografi, ecografia, xerografia, TAC.) (II);  
-b) radiodiagnostica speciale dei vari organi ed apparati (II).  
-Art. 139. - Gli insegnamenti per il diploma di specialista in radioterapia oncologica sono cosi' distribuiti nei quattro anni di corso:  
-1° Anno (comune alla specializzazione in radiodiagnostica):  
-a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);  
-b) radiobiologia, legislazione e norme generali di radioprotezione;  
-c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;  
-d) nozioni di anatomia e fisiologia generale.  
-2° Anno (comune a radiodiagnostica):  
-a) anatomia patologica;  
-b) apparecchiature e tecniche radiologiche;  
-c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);  
-d) radiopatologia;  
-e) dosimetria applicata.  
-3° Anno:  
-a) oncologia generale;  
-b) oncologia clinica (I);  
-c) tecniche radioterapiche (I).  
-4° Anno:  
-a) oncologia clinica (II);  
-b) fondamenti di terapia chirurgica dei tumori;  
-c) radioterapia clinica;  
-d) trattamento del canceroso in fase avanzata.  
-  
-I singoli insegnamenti sono tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento.  
-Il numero massimo di iscritti in corso alla scuola e' di cinquantadue di cui trentadue da ripartirsi annualmente nel corso di diploma di radiodiagnostica e di venti da ripartirsi annualmente nel corso di diploma di radioterapia.  
-La frequenza e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei. L'insegnamento viene svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti ecc. Gli allievi per essere ammessi a sostenere gli esami delle singole materie, devono avere la firma di frequenza da parte del direttore della scuola stessa.  
-Gli allievi al termine di ogni anno devono superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.  
-Gli allievi per conseguire il diploma di specializzazione, oltre ad essere stati approvati in tutti gli esami, devono elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.  
-
-Art. 2
-------
-
-  
-L'[art. 176 del decreto del Presidente della Repubblica 22 maggio 1978, n. 614](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-05-22;614~art176), relativo alla scuola di specializzazione in urologia, e' modificato nel senso che il numero degli iscritti e' stabilito in sei per anno di corso e complessivamente di trenta iscritti per l'intero corso di studi.  
+Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli 29, 31 e 32, relativi al corso di laurea in scienze politiche, sono abrogati e sostituiti dai seguenti:   
+Art. 29. - Il corso di studio comprende un biennio propedeutico ed un biennio di specializzazione ordinato secondo i seguenti indirizzi:   
+politico-amministrativo, politico-internazionale, politico-economico e politico-sociale.   
+Art. 31. - Elenco generale delle materie di insegnamento impartibili nei quattro bienni di specializzazione:   
+1) Antropologia culturale;   
+2) Contabilita' di Stato;   
+3) Criminologia;   
+4) Diritto amministrativo;   
+5) Diritto commerciale;   
+6) Diritto dei paesi socialisti;   
+7) Diritto del lavoro;   
+8) Diritto delle comunita' europee;   
+9) Diritto diplomatico e consolare;   
+10) Diritto ecclesiastico italiano e comparato;   
+11) Diritto finanziario;   
+12) Diritto internazionale;   
+13) Diritto internazionale privato;   
+14) Diritto pubblico dell'economia;   
+15) Diritto regionale;   
+16) Diritto statuale dei culti;   
+17) Dottrina dello Stato;   
+18) Economia dei paesi in via di sviluppo;   
+19) Economia dei trasporti;   
+20) Economia e politica agraria;   
+21) Economia internazionale;   
+22) Filosofia;   
+23) Filosofia del diritto;   
+24) Filosofia della politica;   
+25) Filosofia del lavoro;   
+26) Filosofia morale;   
+27) Geografia politica ed economica;   
+28) Istituzioni dell'Europa medioevale;   
+29) Istituzioni di diritto e procedura penale;   
+30) Istituzioni politiche comparate;   
+31) Organizzazione economica internazionale;   
+32) Matematica per le scienze sociali;   
+33) Organizzazione internazionale;   
+34) Pianificazione ed organizzazione territoriale;   
+35) Programmazione economica;   
+36) Psicologia del lavoro;   
+37) Psicologia sociale;   
+38) Scienza dell'amministrazione;   
+39) Scienza delle finanze;   
+40) Sociologia delle comunicazioni;   
+41) Sociologia dell'educazione;   
+42) Sociologia delle relazioni etniche;   
+43) Sociologia economica;   
+44) Sociologia politica;   
+45) Sociologia religiosa;   
+46) Sociologia urbano-rurale;   
+47) Storia contemporanea;   
+48) Storia degli ordinamenti degli Stati italiani;   
+49) Storia dei concordati;   
+50) Storia dei rapporti tra Stato e Chiesa;   
+51) Storia dei trattati e politica internazionale;   
+52) Storia del cristianesimo;   
+53) Storia del giornalismo;   
+54) Storia della Venezia Giulia;   
+55) Storia dell'economia;   
+56) Storia delle dottrine economiche;   
+57) Storia delle dottrine politiche;   
+58) Storia ed istituzioni dei Paesi afro-asiatici;   
+59 Storia ed istituzioni dei Paesi dell'Asia;   
+60) Storia ed istituzioni dei Paesi islamici;   
+61) Storia ed istituzioni dell'Europa orientale;   
+62) Storia delle istituzioni israeliane;   
+63) Statistica economica;   
+64) Teoria dei partiti politici;   
+65) Teoria dei sindacati e dei conflitti sociali;   
+66) Teoria dell'impresa e della societa' industriale;   
+67) Teoria e politica dello sviluppo economico.   
+Art. 32. - La facolta' stabilisce annualmente per ciascun indirizzo i quindici insegnamenti da impartire, traendoli dall'elenco generale della materia di cui al precedente articolo. Di tali insegnamenti, quattro, indicati dalla facolta', dovranno essere obbligatori per tutti gli studenti di ciascun indirizzo. Gli altri, in numero di sei, saranno scelti dagli studenti nell'ambito degli undici restanti o, limitatamente a due, in quelli di altri indirizzi o di altre facolta'.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 gennaio 1980
+### Dato a Roma, addi' 18 giugno 1974
 
-PERTINI VALITUTTI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 26 maggio 1980
+Registrato alla Corte dei conti, addi' 24 ottobre 1974
 
-Registro n. 49 Istruzione, foglio n. 231
+Atti di Governo, registro n. 6, foglio n. 28. - SCIARRETTA

@@ -1,88 +1,194 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 gennaio 1958 n. 626
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980 n. 323
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 gennaio 1958 n. 626
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980 n. 323
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio universitario nazionale nei suoi pareri;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli Atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Veduta la [legge 26 luglio 1957, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-07-26;741);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
+Lo statuto dell'Universita' di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli 210 e 211, relativi alla scuola di specializzazione in urologia, sono soppressi e sostituiti dai seguenti:   
   
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 21 e' cosi' modificato:  
-"La Facolta' di lettere e filosofia conferisce le seguenti lauree:  
-a) in lettere;  
-b) in filosofia;  
-c) in lingue e letterature straniere moderne (indirizzo europeo).  
-Dopo l'art. 23 e' aggiunto il seguente nuovo articolo, relativo alla istituzione del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo), con il conseguente spostamento della numerazione degli articoli successivi.  
+Scuola di specializzazione in urologia   
   
-Corso di laurea in lingue e letterature straniere moderne (indirizzo europeo)  
+Art. 210. - La scuola di specializzazione in urologia ha sede presso l'istituto di urologia e conferisce il diploma di specialista in urologia.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni. Il numero massimo degli allievi e' di quattro per anno di corso e complessivamente di diciotto iscritti per l'intero corso di studi. L'ammissione al corso avviene per titoli ed esami.   
+Le materie d'insegnamento e gli esami sono i seguenti:   
   
-Art. 24. - La durata del corso degli studi per la laurea in lingue e letterature straniere moderne (indirizzo europeo) e' di quattro anni.  
-E' titolo di ammissione il diploma di maturita' classica.  
-Sono insegnamenti fondamentali:  
-1) Letteratura italiana;  
-2) Letteratura latina;  
-3) Glottologia;  
-4) Una lingua e letteratura straniera moderna;  
-5) Una seconda lingua e letteratura straniera moderna;  
-6) Filologia romanza (o germanica, o slava o ugro-finnica);  
-7) Storia medioevale;  
-8) Storia moderna;  
-9) Storia dell'arte moderna (o storia dell'arte medioevale e moderna);  
-10) Geografia.  
-Sono insegnamenti complementari (quando non siano scelti come fondamentali ai su indicati numeri 4), 5) e 6):  
-1) Lingua e letteratura francese;  
-2) Lingua e letteratura tedesca;  
-3) Lingua e letteratura inglese;  
-4) Lingua e letteratura spagnola;  
-5) Lingua e letteratura romena;  
-6) Lingua e letteratura nord-americana (angloamericana);  
-7) Filologia romanza;  
-8) Filologia germanica;  
-9) Storia dell'arte medioevale e moderna;  
-10) Letteratura greca;  
-11) Storia della filosofia;  
-12) Storia della lingua italiana;  
-13) Storia della letteratura latina medioevale;  
-14) Storia della letteratura italiana moderna e contemporanea;  
-15) Filologia slava.  
-Lo studente dovra' seguire i corsi e sostenere gli esami in tutti gli insegnamenti fondamentali e in tre altri insegnamenti da lui scelti fra i complementari. Uno degli insegnamenti complementari potra' essere sostituito dallo studente con una disciplina di altri corsi di studi della stessa o di diversa Facolta'.  
-L'insegnamento della lingua e letteratura straniera moderna, alla quale lo studente intende principalmente dedicarsi, dovra' essere seguito per tutti i quattro anni, alla fine di ciascuno dei quali egli sara' sottoposto a prove scritte, di anno in anno gradualmente progressive.  
-Dovranno essere seguiti per due anni l'insegnamento della filologia a cui quella stessa prima lingua si ricollega e l'insegnamento della seconda lingua e letteratura straniera moderna prescelta. Due altri insegnamenti fondamentali dovranno pure essere seguiti per un biennio. Lo studente potra', poi, seguire per un biennio un altro insegnamento; ed in tal caso potra' ridurre da tre a due gli insegnamenti complementari di sua scelta.  
-Gli esami di letteratura italiana e di letteratura latina comprendono una prova scritta preliminare. Il preside, sentita ove ritenga la Facolta', deve controllare i piani di studio presentati dagli studenti e approvarli prima che siano resi definitivi.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e in tutti gli altri insegnamenti compresi nel piano di studi approvato dal preside.  
-Il laureato in lingue e letterature straniere moderne puo' ottenere l'iscrizione al terzo anno del corso di laurea in lettere, indirizzo classico, e al quarto anno del corso di laurea in lettere, indirizzo moderno, completando le iscrizioni alle materie fissate dall'ordinamento dell'indirizzo di studio a cui intende iscriversi.  
-Il laureato in lettere puo' ottenere l'iscrizione al terzo o al secondo anno del corso di laurea in lingue e letterature straniere moderne completando le iscrizioni alle materie prescritte dall'ordinamento, sempre che abbia sostenuto rispettivamente due o un esame della lingua e letteratura prescelta e che superi la relativa prova scritta preliminare.  
-L'esame di laurea in lingue e letterature straniere moderne consiste nella discussione pubblica di una dissertazione scritta svolta dal candidato su un argomento della letteratura scelta come quadriennale o della filologia germanica o romanza, a seconda della lingua scelta.  
+
+|  |  |
+| --- | --- |
+| Insegnamenti | Esami |
+| 1° Anno: |  |
+| 1) Anatomia sistematica e topografica dell'apparato urinario e genitale maschile. | 1) Anatomia sistematica e topografica dell'apparato urinario e genitale maschile. |
+| 2) Fisiologia dell'apparato urinario e genitale maschile. | 2) Fisiologia dell'apparato urinario e genitale maschile. |
+| 3) Batteriologia in urologia. | 3) Batteriologia in urologia. |
+| 4) Semeiotica funzionale strumentale dell'apparato urogenitale I. |  |
+| 2° Anno: |  |
+| 1) Semeiotica funzionale e strumentale dell'apparato urogenitale II. | 1) Semeiotica funzionale e strumentale dell'apparato urogenitale. |
+| 2) Le nefropatie mediche. | 2) Le nefropatie mediche. |
+| 3) Anatomia chirurgica dell'apparato urinario e genitale maschile. | 3) Anatomia chirurgica dell'apparato urinario e genitale maschile. |
+| 4) Patologia dell'apparato urinario e genitale maschile I. |  |
+| 5) Radiologia dell'apparato urinario e genitale maschile I. |  |
+| 3° Anno: |  |
+| 1) Patologia dell'apparato urinario e genitale maschile II. | 1) Patologia dell'apparato urinario e genitale maschile. |
+| 2) Radiologia dell'apparato urinario e genitale maschile II. | 2) Radiologia dell'apparato urinario e genitale maschile. |
+| 3) Le affezioni cutanee veneree nei riguardi dell'urologia. | 3) Le affezioni cutanee e veneree nei riguardi dell'urologia. |
+| 4) Andrologia. | 4) Andrologia. |
+| 4° Anno: |  |
+| 1) Anatomia ed istologia patologica dell'apparato urinario e genitale maschile. | 1) Anatomia ed istologia patologica dell'apparato urinario e genitale maschile. |
+| 2) Farmacoterapia delle affezioni uro-genitali. | 2) Farmacoterapia delle affezioni uro-genitali. |
+| 3) Anestesia e trattamento pre-post operatorio del malato urologico. | 3) Anestesia e trattamento pre-post operatorio del malato urologico. |
+| 4) Nefrologia chirurgica. | 4) Nefrologia chirurgica. |
+| 5) Clinica urologica I. |  |
+| 6) Procedimenti di chirurgia endoscopica I. |  |
+| 7) Interventi e procedimenti operatori sull'apparato urinario e genitale maschile I. |  |
+| 5° Anno: |  |
+| 1) Clinica urologica II. | 1) Clinica urologica. |
+| 2) Patologia e clinica urologica infantile. | 2) Patologia e clinica urologica infantile. |
+| 3) Urologia ginecologica. | 3) Urologia ginecologica. |
+| 4) Procedimenti di chirurgia endoscopica II. | 4) Interventi e procedimenti operatori sull'apparato urinario e genitale maschile. |
+| 5) La chirurgia dell'intestino. |  |
+| 6) La chirurgia vascolare. |  |
+| 7) Interventi e procedimenti operatori sull'apparato urinario e genitale maschile II. |  |
+
+  
+  
+  
+  
+La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame. Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno ad eccezione delle discipline svolte in corsi pluriennali il cui esame e' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in urologia gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+
+Art. 2
+------
+
+  
+Gli articoli 294, 295, 296, 297, 298 e 299, relativi alla scuola di specializzazione in chirurgia d'urgenza e pronto soccorso, sono soppressi e sostituiti dai seguenti:  
+  
+Scuola di specializzazione di chirurgia d'urgenza e pronto soccorso   
+Art. 294. - La scuola di specializzazione in chirurgia d'urgenza e pronto soccorso ha sede in Torino.  
+Art. 295. - Il corso di studi per il conseguimento del diploma di specialista in chirurgia d'urgenza e di pronto soccorso ha la durata di cinque anni accademici.  
+Art. 296. - Alla scuola possono iscriversi i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. Il numero massimo complessivo degli allievi e' di dodici per il primo anno, di nove per il secondo, terzo, quarto e quinto anno di corso e complessivamente di quarantotto iscritti per l'intero corso di studi. Non sono ammesse abbreviazioni di corso.  
+L'ammissione al corso avviene per titoli ed esami.  
+Art. 297. - La frequenza alle lezioni, esercitazioni e seminari e' obbligatoria per tutti gli iscritti. La frequenza ai fini di apprendimento e' obbligatoria per tutti i cinque anni di corso sotto forma di permanenza costante in istituto durante le ore della sua attivita'.  
+Art. 298. - Le materie d'insegnamento sono le seguenti:  
+clinica chirurgica generale d'urgenza e di pronto soccorso;  
+patologia chirurgica;  
+anatomia chirurgica;  
+semeiotica;  
+anestesiologia;  
+ricerche di laboratorio;  
+anatomia patologica;  
+endoscopia;  
+fisiopatologia chirurgica;  
+chirurgia sperimentale;  
+trattamento pre e post operatorio in chirurgia d'urgenza;  
+rianimazione;  
+chirurgia vascolare d'urgenza;  
+traumatologia dell'apparato locomotore;  
+neurotraumatologia;  
+terapia intensiva;  
+radiologia;  
+chirurgia ginecologica d'urgenza;  
+chirurgia pediatrica d'urgenza;  
+chirurgia plastica riparatrice;  
+chirurgia toracica d'urgenza;  
+cardiochirurgia d'urgenza;  
+angioradiologia;  
+chirurgia urologica d'urgenza;  
+traumatologia maxillo-facciale;  
+trattamento dei politraumatizzati;  
+medicina legale.  
+Le materie d'insegnamento sono cosi' distribuite:  
+1° Anno:  
+clinica chirurgica generale d'urgenza e di pronto soccorso I;  
+patologia chirurgica I;  
+anatomia chirurgica I;  
+semeiotica I;  
+anestesiologia;  
+ricerche di laboratorio;  
+chirurgia sperimentale.  
+2° Anno:  
+clinica chirurgica generale d'urgenza e di pronto soccorso II; patologia chirurgica II;  
+anatomia patologica II;  
+endoscopia;  
+fisiopatologia chirurgica I;  
+semeiotica II;  
+trattamento pre e post operatorio in chirurgia di urgenza;  
+rianimazione.  
+3° Anno:  
+clinica chirurgica generale d'urgenza e di pronto soccorso III; patologia chirurgica III;  
+chirurgia vascolare d'urgenza;  
+traumatologia dell'apparato locomotore I;  
+neurotraumatologia I;  
+fisiopatologia chirurgica II;  
+terapia intensiva I;  
+radiologia.  
+4° Anno:  
+clinica chirurgica generale d'urgenza e di pronto soccorso IV; chirurgia ginecologica d'urgenza;  
+chirurgia pediatrica d'urgenza;  
+chirurgia plastica e riparatrice I;  
+traumatologia dell'apparato locomotore II;  
+neurotraumatologia II;  
+chirurgia toracica d'urgenza;  
+terapia intensiva II.  
+5° Anno:  
+clinica chirurgica generale d'urgenza e di pronto soccorso V;  
+chirurgia plastica riparatrice II;  
+chirurgia toracica d'urgenza;  
+cardiochirurgia d'urgenza;  
+chirurgia urologica d'urgenza;  
+angioradiologia;  
+traumatologia maxillo-facciale;  
+trattamento del politraumatizzato;  
+medicina legale.  
+Art. 299. - Alla fine di ogni anno gli specializzandi per poter ottenere l'ammissione all'anno successivo devono superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno di corso; per le materie a corso pluriennale l'esame e sostenuto alla fine dei corsi medesimi.  
+L'esame di diploma consiste nella discussione di una tesi su un tema preventivamente approvato dal direttore della scuola. Il direttore della scuola e' il professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, il professore di ruolo o fuori ruolo di materia affine. Le norme per l'iscrizione agli esami, le tasse, ecc., sono quelle generali per le scuole di specializzazione dell'Universita' di Torino.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 gennaio 1958
+### Dato a Roma, addi' 7 febbraio 1980
 
-GRONCHI MORO
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 23 giugno 1958
+Registrato alla Corte dei conti, addi' 26 giugno 1980
 
-Atti del Governo, registro n. 112, foglio n. 235. - RELLEVA
+Registro n. 61 Istruzione, foglio n. 298

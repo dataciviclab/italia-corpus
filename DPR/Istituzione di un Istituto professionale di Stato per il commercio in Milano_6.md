@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 settembre 1965 n. 1734
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 settembre 1965 n. 1737
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 settembre 1965 n. 1734
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 settembre 1965 n. 1737
 =================================================================
 
 Istituzione di un Istituto professionale di Stato per il commercio in Milano.
@@ -28,18 +28,16 @@ Art. 1
 
   
 A decorrere dal 1 ottobre 1965 e' istituita in Milano una scuola avente finalita' e ordinamento speciali che assume la denominazione di Istituto professionale di Stato per il commercio.  
-A decorrere dalla stessa data la scuola tecnica commerciale statale "B. Cavalieri" di Milano e' soppressa, salvo il funzionamento, ad esaurimento, dei corsi gia' iniziati.  
+A decorrere dalla stessa data la scuola tecnica commerciale statale "L. V. Bertarelli" di Milano e' soppressa, salvo il funzionamento, ad esaurimento, dei corsi gia' iniziati.  
 
 Art. 2
 ------
 
   
-Il predetto Istituto professionale ha lo scopo di preparare personale idoneo all'esercizio delle attivita' di ordine esecutivo per vari settori del commercio.  
+Il predetto Istituto professionale ha lo scopo di preparare personale idoneo all'esercizio delle attivita' di ordine esecutivo nei vari settori del commercio.  
 Esso e' costituito da una scuola professionale per attivita' e impieghi commerciali, con sezioni per:  
-applicato ai servizi amministrativi (biennale);  
-stenodattilografo (biennale);  
-addetto alla segreteria d'azienda (triennale) 2 sezioni;  
-addetto alla contabilita' d'azienda (triennale).  
+addetto agli uffici turistici (triennale) 2 sezioni;  
+accompagnatrice turistica (triennale).  
 
 Art. 3
 ------
@@ -62,9 +60,9 @@ Art. 5
 ------
 
   
-Con deliberazione del Consiglio di amministrazione sottoposta all'approvazione del Ministero della pubblica istruzione, previo parere del Consorzio provinciale per l'istruzione tecnica, sono stabilite le sezioni ed i corsi che debbono funzionare ogni anno nell'Istituto e vengono fissate le particolari modalita' di attuazione.  
+Con deliberazione del Consiglio di amministrazione sottoposta all'approvazione del Ministero della pubblica istruzione, previo parere del Consorzio provinciale per l'istruzione tecnica, sono stabilite le sezioni ed i corsi che debbono funzionare ogni anno nell'Istituto e vengono fissate le particolari modalita' di Attuazione.  
 Le variazioni annuali da apportare al numero ed ai tipi delle varie scuole, sezioni e corsi potranno essere disposte sempre che la relativa spesa possa rientrare nelle disponibilita' di bilancio dell'Istituto.  
-Qualora tale spesa, ritenuta indispensabile dai Consiglio di amministrazione, non possa essere sostenuta dal bilancio dell'istituto, potra' provvedersi all'istituzione di nuove scuole, sezioni e corsi mediante la normale procedura e con i fondi annualmente stanziati nel bilancio del Ministero della pubblica istruzione per l'istituzione di nuove scuole e istituti di istruzione tecnica e professionale.  
+Qualora tale spesa, ritenuta indispensabile dal Consiglio di amministrazione, non possa essere sostenuta dal bilancio dell'istituto, potra' provvedersi all'istituzione di nuove scuole, sezioni e corsi mediante la normale procedura e con i fondi annualmente stanziati nel bilancio del Ministero della pubblica istruzione per l'istituzione di nuove scuole e istituti di istruzione tecnica e professionale.  
 
 Art. 6
 ------
@@ -77,26 +75,26 @@ Art. 7
 ------
 
   
-L'Istituto puo' avere scuole coordinate anche in altri Comuni, costituendo, ognuna di esse, una unita' tecnicodidattica.  
+L'istituto puo' avere scuole coordinate anche in altri Comuni, costituendo, ognuna di esse, una unita' tecnicodidattica.  
 Tali scuole possono avere le stesse sezioni o sezioni diverse da quelle della sede centrale.  
 
 Art. 8
 ------
 
   
-L'istituto assolve ai propri compiti con addestramenti pratici, integrati da insegnamenti culturali e tecnici, in relazione alle esigenze delle varie attivita' lavorative.  
+L'Istituto assolve ai propri compiti con addestramenti pratici, integrati da insegnamenti culturali e tecnici, in relazione alle esigenze delle varie attivita' lavorative.  
 
 Art. 9
 ------
 
   
-Nelle sezioni dell'Istituto professionale indicate nel precedente art. 2 si impartiscono i seguenti insegnamenti: cultura generale e educazione civica; materie di cultura professionale (geografia economica e merceologia, nozioni elementari di diritto e di economia); materie di tecnica professionale; lingue estere; dattilografia; stenografia; religione; educazione fisica.  
+Nelle sezioni dell'Istituto professionale indicate nel precedente art. 2 si impartiscono i seguenti insegnamenti: cultura generale e educazione civica; matematica; materie di cultura professionale (geografia economica e merceologia, nozioni elementari di diritto e di economia); materie di tecnica professionale; lingue estere; dattilografia; stenografia; religione; educazione fisica.  
 
 Art. 10
 -------
 
   
-Alle scuole professionali dell'istituto possono accedere, senza esami di ammissione, i licenziati della scuola media e i licenziati dalla scuola secondaria di avviamento professionale di qualsiasi tipo e, mediante esame di ammissione, coloro che, sforniti di tali licenze, abbiano compiuto il 14° anno di eta'.  
+Alle scuole professionali dell'Istituto possono accedere, senza esami di ammissione, i licenziati della scuola media e i licenziati dalla scuola secondaria di avviamento professionale di qualsiasi tipo e, mediante esame di ammissione, coloro che, sforniti di tali licenze, abbiano compiuto il 140 anno di eta'.  
 In ogni caso l'ammissione alle scuole professionali e' subordinata ad accertamenti di carattere sanitario e psicologico.  
 Le condizioni di ammissione ai corsi di cui alle lettere a), b) e c) dell'anzidetto art. 3, saranno stabilite dal Consiglio di amministrazione ed approvate dal competente Consorzio provinciale per l'istruzione tecnica.  
 
@@ -104,7 +102,7 @@ Art. 11
 -------
 
   
-Al termine del corso di ciascuna sezione delle scuole professionali gli alunni sostengono gli esami finali per il conseguimento del diploma di qualifica.  
+Al termine del corso di ciascuna sezione delle scuole professionali gli alunni sostengono gli esami finali, per il conseguimento del diploma di qualifica.  
 Al termine dei corsi di cui alle lettere a), b) e c) del precedente art. 3 gli alunni conseguono un attestato.  
 
 Art. 12
@@ -135,7 +133,7 @@ un rappresentante del Comune;
 un rappresentante della Camera di commercio, industria e agricoltura;  
 il preside dell'Istituto, che ha voto deliberativo ed esercita le funzioni di segretario.  
 La nomina del Consiglio di amministrazione e' disposta con decreto del Ministro per la pubblica istruzione il quale nomina, altresi', tra i consiglieri, il presidente.  
-Possono essere chiamati a far parte del Consiglio quelle persone e quegli Enti che diano un notevole contributo tecnico o economico al funzionamento dell'Istituto.  
+Possono essere chiamati a far parte del Consiglio quelle persone e quegli Enti che diano un notevole contributo tecnico o economico al funzionamento dell'istituto.  
 
 Art. 15
 -------
@@ -166,14 +164,14 @@ Art. 18
 -------
 
   
-Il posto di preside e' conferito mediante pubblico concorso per titoli e per esami tra gli insegnanti di ruolo, muniti di laurea, degli Istituti professionali per il commercio, alberghieri e femminili, nonche' tra gli insegnanti di materie non tecniche degli Istituti professionali per l'agricoltura, l'industria e l'artigianato, le attivita' marinare, e tra il personale direttivo delle scuole secondarie di 1° grado che abbia titolo a partecipare ai concorsi a preside negli Istituti tecnici commerciali e femminili, a norma delle disposizioni del [decreto del Capo provvisorio dello Stato n. 629 del 21 aprile 1947](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-21;629) e successive modificazioni.  
+Il posto di preside e' conferito mediante pubblico concorso per titoli e per esami tra gli insegnanti di ruolo, muniti di laurea, degli Istituti professionali per il commercio, alberghieri e femminili, nonche' tra gli insegnanti di materie non tecniche degli Istituti professionali per l'agricoltura, l'industria e l'artigianato, le attivita' marinare, e tra il personale direttivo delle scuole secondarie di lo grado che abbia titolo a partecipare ai concorsi a preside negli Istituti tecnici commerciali e femminili, a norma delle disposizioni del [decreto del Capo provvisorio dello Stato n. 629 del 21 aprile 1947](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-21;629) e successive modificazioni.  
 Gli altri posti di ruolo del personale insegnante sono conferiti mediante pubblico concorso per titoli e per esami e, qualora se ne ravvisi l'opportunita', secondo le norme dell'[art. 36 della legge 15 giugno 1931, n. 889](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889~art36), sul riordinamento dell'istruzione media tecnica.
 
 Art. 19
 -------
 
   
-Il personale direttivo e insegnante di ruolo negli Istituti e scuole di istruzione secondaria che, alla data di pubblicazione del presente decreto nella Gazzetta Ufficiale, trovasi in servizio nell'Istituto professionale e che, per l'attivita' svolta, abbia dimostrato particolare competenza e perizia nelle mansioni esercitate, puo' essere inquadrato nei corrispondenti ruoli dell'organico dell'Istituto professionale su proposta del Consiglio di amministrazione, previo parere di una Commissione tecnica nominata dal Ministero della pubblica istruzione, la quale sottoporra' il suddetto personale ad un apposito colloquio su argomenti attinenti al posto da ricoprire.  
+Il personale direttivo e insegnante di ruolo negli Istituti e scuole di istruzione secondaria che, alla data di pubblicazione del presente decreto nella Gazzetta Ufficiale, trovasi in servizio nell'istituto professionale e che, per l'attivita' svolta, abbia dimostrato particolare competenza e perizia nelle mansioni esercitate, puo' essere inquadrato nei corrispondenti ruoli dell'organico dell'Istituto professionale su proposta del Consiglio di amministrazione, previo parere di una Commissione tecnica nominata dal Ministero della pubblica istruzione, la quale sottoporra' il suddetto personale ad un apposito colloquio su argomenti attinenti al posto da ricoprire.  
 Il personale ritenuto meritevole di inquadramento e' collocato nel posto previsto nell'annessa tabella organica, conservando i diritti acquisiti di carriera e di stipendio previsti dall'[art. 6 del regio decreto-legge 6 maggio 1923, n. 1054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-05-06;1054~art6).  
 La tabella organica annessa al presente decreto, vista e firmata d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione e da quello per il tesoro, indica le qualifiche del personale di ruolo e incaricato.  
 
@@ -190,7 +188,7 @@ Art. 21
 -------
 
   
-Il Consiglio di amministrazione puo' concedere, annualmente, nei limiti delle disponibilita' del proprio bilancio, al personale direttivo, insegnante e amministrativo, assegni speciali non computabili agli effetti della pensione.  
+Il Consiglio di amministrazione puo' concedere, annualmente, nei limiti delle disponibilita' dei proprio bilancio, al personale direttivo, insegnante e amministrativo, assegni speciali non computabili agli effetti della pensione.  
 La concessione di tali assegni e' subordinata all'esistenza di una o piu' delle condizioni previste dall'[art. 49 della legge 15 giugno 1931, n. 889](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889~art49), ad eccezione del personale tecnico incaricato e temporaneo per il quale, ferme restando tutte le altre modalita' e condizioni indicate dal suddetto art. 49, si prescinde dal limite posto nell'ultimo comma dell'articolo medesimo.  
 
 Art. 22
@@ -198,7 +196,7 @@ Art. 22
 
   
 Alle spese di mantenimento dell'Istituto si provvede:  
-1) con un contributo del Ministero della pubblica istruzione fissato in L. 92.500.000;  
+1) con un contributo del Ministero della pubblica istruzione fissato in L. 70.100.000;  
 2) con gli eventuali contributi degli Enti locali, delle organizzazioni professionali di categoria e di privati;  
 3) con lasciti e donazioni da parte di enti e di privati;  
 4) con i contributi degli alunni.  
@@ -215,7 +213,7 @@ L'onere della spesa a carico del Ministero della pubblica istruzione, derivante 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 settembre 1963
+### Dato a Roma, addi' 30 settembre 1965
 
 SARAGAT GUI - TAVIANI - COLOMBO - LAMI STARNUTI
 
@@ -223,36 +221,40 @@ Visto, il Guardasigilli: REALE
 
 Registrato alla Corte dei conti, addi' 13 settembre 1966
 
-Atti del Governo, registro n. 205, foglio n. 84. - DI PRETORO
+Atti del Governo, registro n. 205, foglio n. 83. - DI PRETORO
 
 Tabella
 
-Tabella organica dell'Istituto professionale di Stato per il commercio "B. Cavalieri" di Milano   
+Tabella organica dell'Istituto professionale di Stato per il commercio "L. V. Bertarelli" di Milano   
   
-N. 1 Sezione per applicato ai servizi amministrativi (biennale);   
-N. 2 Sezioni per addetto alla segreteria d'azienda (triennale);   
-N. 1 Sezione per addetto alla contabilita' d'azienda (triennale)   
-N. 1 Sezione per stenodattilografo (biennale).   
-per complessive classi n. 13   
+N. 2 Sezioni per addetto agli uffici turistici (triennale);   
+N. 1 Sezione per accompagnatrice turistica (triennale).   
+per complessive classi n. 9   
 Numero   
 Qualifica dei posti   
   
 Personale di ruolo   
 1. Preside senza insegnamento (I categoria)..... 1   
-2 Cattedre di insegnamento (ruolo A)............ 6   
-3. Segretario economo........................... 1   
-4. Applicati.................................... 3   
-5. Magazzinieri................................. -   
-6. Aiutanti tecnici............................. -   
-7. Bidelli...................................... 4   
+2. Cattedre di insegnamento (ruolo A)........... 4   
+3. Insegnanti tecnici pratici (1)............... 1   
+4. Segretario economo........................... 1   
+5. Applicati.................................... 2   
+6. Magazzinieri................................. -   
+7. Aiutanti tecnici............................. -   
+8. Bidelli...................................... 4   
 Personale incaricato   
-8. Incarichi d'insegnamento per complessive   
-ore 311 settimanali   
+9. Incarichi d'insegnamento per complessive   
+ore 201 settimanali   
+10. Insegnanti tecnici pratici (1)............... 1   
   
+(1) Il trattamento economico e di carriera e quello previsto   
+per gli insegnanti tecnici pratici degli Istituti tecnici.   
   
 N.B. - Fermo restando il numero complessivo dei posti di ruolo e di quelli da affidare per incarico, le materie costituenti le cattedre di insegnamento e le qualifiche da attribuire al personale tecnico saranno determinate con decreto del Ministro per la pubblica istruzione.   
+  
 Visto, d'ordine del Presidente della Repubblica   
 Il Ministro per la pubblica istruzione   
 GUI   
+  
 Il Ministro per il tesoro   
 COLOMBO   

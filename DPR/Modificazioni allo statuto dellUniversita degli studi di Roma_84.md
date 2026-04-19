@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 giugno 1971 n. 631
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1967 n. 753
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 giugno 1971 n. 631
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1967 n. 753
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
@@ -12,12 +12,11 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di, Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -25,39 +24,59 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 20: all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:  
   
-Teoria generale del diritto;  
-Diritto bancario;  
-Diritto delle comunita' europee;  
-Diritto pubblico dell'economia;  
-Diritto regionale;  
-Diritto processuale generale;  
-Ordinamento giudiziario;  
-Diritto dell'arbitrato interno e internazionale;  
-Diritto penale commerciale;  
-Diritto costituzionale comparato;  
-Diritto amministrativo comparato;  
-Storia del diritto canonico;  
-Diritti dei paesi di common law;  
-Diritti dei paesi dell'Europa orientale;  
-Economia e politica monetaria;  
-Economia del lavoro;  
-Politica economica;  
-Economia e finanza delle unioni economiche.  
+Dopo l'art. 581 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione, presso la Facolta' di medicina e chirurgia, della Scuola di specializzazione in Criminologia clinica.  
   
-Nello stesso corso di laurea l'insegnamento complementare di "Diritti dell'Oriente mediterraneo" muta denominazione in quello di "Diritti dell'antico Oriente mediterraneo".  
+Scuola di specializzazione in Criminologia clinica  
+  
+Art. 582. - Presso l'Istituto di antropologia criminale dell'Universita' di Roma e' istituita una Scuola di specializzazione in Criminologia clinica.  
+Art. 583. - La durata di detta Scuola e' di tre anni accademici.  
+Art. 584. - Gli insegnamenti impartiti nella Scuola sono i seguenti:  
+a) Criminologia generale e Criminologia clinica;  
+b) Scienza della persona umana - personalita' - criminologia clinica;  
+c) Psicologia e psicopatologia clinica e Criminologia clinica;  
+d) Malattie mentali e Criminologia clinica;  
+e) Semeiotica criminologica: esame medico, psicologico, sociale del criminale;  
+f) Diagnostica criminologica: Criminogenesi - Criminodinamica - Genesi e dinamica dei singoli comportamenti antisociali e criminosi;  
+g) Terapia criminologica: Trattamento delle varie forme di capacita' a delinquere e di pericolosita' criminale - Il trattamento individualizzato;  
+h) Giustizia penale e Criminologia clinica;  
+i) Profilassi criminale e Criminologia clinica.  
+Art. 585. - Il piano di studi della Scuola di specializzazione in Criminologia clinica e' il seguente:  
+1° Anno:  
+1) Criminologia generale e Criminologia clinica (I e II anno);  
+2) Scienza della persona umana - personalita' e criminologia clinica;  
+3) Psicologia e Criminologia clinica;  
+4) Psicopatologia clinica e Criminologia clinica;  
+5) Malattie mentali e Criminologia clinica.  
+6) Semeiotica criminologica;  
+7) Esame medico del criminale;  
+8) Esame psicologico del criminale;  
+9) Esame sociale del criminale;  
+10) Diagnostica criminologica;  
+11) Criminogenesi - Criminodinamica;  
+12) Genesi e dinamica dei singoli comportamenti antisociali e criminosi (secondo e terzo anno).  
+3° Anno:  
+13) Terapia criminologica;  
+14) Trattamento delle varie forme di capacita' a delinquere e di pericolosita' criminale;  
+15) Il trattamento individualizzato;  
+16) Giustizia penale e Criminologia clinica;  
+17) Profilassi criminale e Criminologia clinica.  
+Art. 586. - Per gli insegnamenti alle lettere e), f), g), sono previste esercitazioni pratiche presso Istituti penitenziari specializzati.  
+Art. 587. - I suddetti insegnamenti saranno integrati da conferenze e da brevi corsi affidati a professori italiani e stranieri.  
+Art. 588. - Alla Scuola sono ammessi oltre ai laureati in medicina e chirurgia i laureati in giurisprudenza, scienze politiche, pedagogia.  
+Art. 589. - Gli esami di profitto vengono dati per gruppi di materie secondo quanto verra' stabilito nel manifesto della Scuola.  
+Art. 590. - L'esame di diploma si svolge secondo le norme dell'art. 398.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 giugno 1971
+### Dato a Roma, addi' 18 luglio 1967
 
-SARAGAT MISASI
+SARAGAT GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 18 agosto 1971
+Registrato alla Corte dei conti, addi' 21 agosto 1967
 
-Atti del Governo, registro n. 243, foglio n. 143. - PASQUALUCCI
+Atti del Governo, registro n. 213, foglio n. 19. - CARUSO

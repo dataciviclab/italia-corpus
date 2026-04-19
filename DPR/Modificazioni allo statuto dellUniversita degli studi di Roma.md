@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 887
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1948 n. 1619
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 887
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1948 n. 1619
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -10,36 +10,61 @@ Modificazioni allo statuto dell'Universita' degli studi di Roma.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con il [regio decreto 14 ottobre 1926, n. 2319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2319), e modificato con i [regi decreti 13 ottobre 1927, n. 2819](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2819); [20 settembre 1928, n. 3018](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-09-20;3018); [31 ottobre 1929, n. 2483](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2483); [30 ottobre 1930, n. 1828](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1828); [10 ottobre 1931, n. 1329](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-10;1329); [22 ottobre 1931, n. 1754](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-22;1754); [22 ottobre 1932, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-10-22;2090); [26 ottobre 1933, n. 2391](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-26;2391); [27 dicembre 1934, n. 2419](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-12-27;2419); [10 ottobre 1936, n. 2498](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-10;2498); [27 ottobre 1937, n. 2619](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-10-27;2619); [20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350); [26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734); [26 ottobre 1940, n. 2069](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2069); [4 maggio 1942, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-05-04;565); [24 luglio 1942, n. 949](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-07-24;949); [24 agosto 1942, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-08-24;1098), e con i [decreti del Capo provvisorio dello Stato 12 aprile 1947, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-12;461) e [31 dicembre 1947, n. 1758](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-12-31;1758);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652);  
+Vedute le proposte relative alle modifiche formulate dall'Universita' predetta;  
+Considerata la particolare necessita' di approvare le modifiche anzidette;  
+Sentito il Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 47, relativo al corso di laurea in scienze statistiche e demografiche e' modificato nel senso che il terzo comma e' soppresso.   
-Art. 48, relativo al corso di laurea in scienze statistiche ed attuariali e' modificato nel senso che il terzo comma e' soppresso.   
-Art. 81. - All'elenco degli istituti annessi alla facolta' di medicina e chirurgia e' aggiunto il seguente:   
-Istituto di II clinica delle malattie nervose e mentali.   
-Art. 86, relativo alle disposizioni riguardanti le abbreviazioni di corso nei casi di nuove immatricolazioni per laureati in altri corsi di laurea o di passaggio al corso di laurea in medicina e chirurgia e' soppresso.   
+E' istituita presso la Facolta' di medicina e chirurgia dell'Universita' degli studi di Roma una "Scuola di perfezionamento" in storia della medicina.  
+Pertanto lo statuto dell'Universita' di Roma viene ulteriormente modificato come segue e la relativa numerazione degli articoli dello statuto viene modificata conformemente a quanto risulta dalle modifiche apportate.  
+Scuola di perfezionamento in storia della medicina.  
+Art. 378. - La scuola ha la durata di due anni e ad essa verranno ammessi i laureati in medicina e chirurgia.  
+Potranno essere ammessi, a giudizio del Consiglio della scuola, anche coloro che sono in possesso di altre lauree.  
+Art. 379. - La scuola ha sede presso l'Istituto di storia della medicina dell'Universita' di Roma.  
+Art. 380. - Gli iscritti alla scuola hanno l'obbligo di frequentare durante il biennio i corsi ufficiali delle lezioni e le relative esercitazioni.  
+Gli insegnamenti costitutivi della scuola sono i seguenti:  
+1) storia della medicina generale;  
+2) evoluzione delle dottrine mediche e specialita' connesse;  
+3) storia della chirurgia e della sua tecnica;  
+4) evoluzione del pensiero biologico;  
+5) evoluzione della terapia e dei metodi terapeutici;  
+6) medicina primitiva e medicina popolare;  
+7) bibliografia, biblioteconomia e storiografia;  
+8) cultura umanistica;  
+9) metodologia documentaria.  
+Art. 381. - Gli esami di profitto sono cosi' ripartiti:  
+Alla fine del 1° anno (primo gruppo):  
+1) storia della medicina generale;  
+2) medicina primitiva e medicina popolare;  
+3) bibliografia, biblioteconomia, storiografia;  
+4) cultura umanistica;  
+5) metodologia documentaria.  
+Alla fine del 2° anno (secondo gruppo):  
+1) evoluzione delle dottrine mediche e specialita' connesse;  
+2) storia della chirurgia e della sua tecnica;  
+3) evoluzione del pensiero biologico;  
+4) evoluzione della terapia e dei metodi terapeutici  
+Art. 382. - Gli iscritti che desiderano compiere ricerche nell'Istituto debbono provvedere alle relative spese.  
+Art. 383. - Al termine di due anni, chi avra' frequentato regolarmente i corsi ed avra' superato gli esami delle singole materie, dovra' presentare per conseguire il diploma una dissertazione scritta su di un argomento della specialita' e sostenere un esame pratico dinnanzi ad una Commissione, formata da almeno cinque insegnanti della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 24 dicembre 1948
 
-LEONE SCALFARO
+EINAUDI GONELLA
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: GRASSI
 
-Registrato alla Corte dei conti, addi' 9 gennaio 1973
+Registrato alla Corte dei conti, addi' 18 febbraio 1949
 
-Atti di Governo, registro n. 255, foglio n. 11. - VALENTINI
+Atti del Governo, registro n. 26, foglio n. 85. - CARLOMAGNO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1976 n. 522
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1952 n. 4514
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1976 n. 522
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1952 n. 4514
+==============================================================
 
 Autorizzazione alla Societa' letteraria di Verona ad accettare un legato.
 -------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-522. Decreto del Presidente della Repubblica 12 maggio 1976, col quale, sulla proposta del Ministro per i beni culturali e ambientali, la Societa' letteraria di Verona viene autorizzata ad accettare il legato disposto dall'avv. Ernesto Valle con testamento olografo 15 novembre 1972, pubblicato a rogito dott. Giulio Cazzola, notaio in Verona, in data 3 agosto 1973, n. 21143 di repertorio, consistente in L. 2.000.000.  
+4514. Decreto del Presidente della Repubblica 18 giugno 1952, col quale, sulla proposta del Ministro per la pubblica istruzione, la Societa' letteraria di Verona, viene autorizzata ad accettare un legato da intitolarsi Fondazione premi di studio "Prof. Architetto Gaetano Giusti", disposto con testamento olografo 10 gennaio 1940, pubblicato l'8 settembre 1943, per gli atti del dott. Antonio Cicogna, notaio in Verona, e con il quale la Fondazione stessa viene eretta in ente morale e ne viene approvato lo statuto.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 19 luglio 1976  
-Atti di Governo, registro n. 7, foglio n. 82
+Visto, il Guardasigilli: ZOLI  
+Registrato alla Corte dei conti, addi' 12 marzo 1953  
+Atti del Governo, registro n. 75, foglio n. 81. - PALLA

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 679
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 marzo 1974 n. 288
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 679
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 marzo 1974 n. 288
+============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-679. Decreto del Presidente della Repubblica 17 maggio 1986, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione, consistente in una raccolta di cinque tavole e una statuetta di porcellana, le quali rivestono un interesse artistico, con destinazione alla Pinacoteca nazionale di Brera, in Milano, disposta dal conte Alfredo Gerli con atto 1 dicembre 1982, a rogito prof. Carlo Bertelli, soprintendente per i beni artistici e storici di Milano, registrato a Milano in data 13 dicembre 1982 al n. 55208.   
+288. Decreto del Presidente della Repubblica 16 marzo 1974, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato, consistente in una porzione del complesso archeologico denominato "Grotta della pace" o "Grotta di Cocceio", disposta dal comune di Pozzuoli con atto 21 febbraio 1969, n. 19110 di rep. e successivo atto di rettifica 5 febbraio 1973, n. 27810 di rep., entrambi a rogito del notaio Flavio Prattico.  
   
-Visto, il Guardasigilli: ROGNONI   
-Registrato alla Corte dei conti, addi' 10 ottobre 1986   
-Registro n. 26 Beni culturali, foglio n. 121
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 11 luglio 1974  
+Atti di Governo, registro n. 4, foglio n. 61. - SCIARRETTA

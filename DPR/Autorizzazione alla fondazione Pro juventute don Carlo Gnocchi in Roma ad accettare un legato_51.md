@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1977 n. 98
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1982 n. 100
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1977 n. 98
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1982 n. 100
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-98. Decreto del Presidente della Repubblica 22 febbraio 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Maria Reverberi con testamento olografo 18 maggio 1970 pubblicato a rogito notaio dott. Angelo Gallizia in data 22 gennaio 1973, n. 7790/1024 di repertorio, registrato a Lodi il 9 febbraio 1973 con il n. 823, vol. 194, consistente nella nuda proprieta' di un immobile sito in Milano, via Goldoni n. 77 distinto nel nuovo catasto edilizio urbano alla partita 40537, mapp. 337/31 del valore presunto di L. 7.000.000.  
+100. Decreto del Presidente della Repubblica 8 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un negozio sito in Milano, via G. Pascoli n. 18, distinto nel nuovo catasto edilizio urbano alla partita 64183, foglio 317, mappale 364 sub 1, del valore attribuito di L. 22.000.000 elevato dall'ufficio tecnico erariale di Milano a lire 45.750.000, disposto dalla sig.ra Lucia Ortensia Duilia Ferradini ved. Soresina con testamento olografo 30 ottobre 1972, pubblicato a rogito dott. Gaudenzio Traspadini, notaio in Milano, il 22 marzo 1979, numero 23440/3298 di repertorio, registrato a Milano in data 26 marzo 1979 al n. A/4-08039/71 MN.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 29 marzo 1977  
-Registro n. 3 Presidenza, foglio n. 260
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 20 marzo 1982  
+Registro n. 3 Presidenza, foglio n. 53

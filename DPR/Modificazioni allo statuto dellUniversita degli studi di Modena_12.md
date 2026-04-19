@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 629
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1958 n. 1198
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 629
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1958 n. 1198
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
@@ -10,91 +10,70 @@ Modificazioni allo statuto dell'Universita' degli studi di Modena.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1052](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1052), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 212 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in igiene e medicina preventiva.   
-  
-Scuola di specializzazione in igiene e medicina preventiva   
-  
-Art. 213. - La scuola di specializzazione in igiene e medicina preventiva conferisce il diploma di specialista in igiene e medicina preventiva, con i due orientamenti in sanita' pubblica e in laboratorio.   
-Art. 214. - La scuola ha sede presso l'istituto di igiene della universita'.   
-Art. 215. - Alla scuola sono ammessi i laureati in medicina e chirurgia.   
-Art. 216. - La scuola ha la durata di tre anni. Sono ammessi dieci iscritti per anno di corso, per un totale di trenta iscritti.   
-Art. 217. - Al termine del secondo anno di corso l'iscritto dovra' scegliere l'orientamento da seguire durante il 3° anno.   
-I diplomati in igiene e medicina preventiva possono iscriversi in soprannumero al corso con diverso orientamento di quello gia' frequentato.   
-Art. 218. - Gli insegnamenti impartiti nella scuola sono:   
-1° Anno:   
-Statistica medica e biometria;   
-Educazione sanitaria;   
-Psicologia;   
-Microbiologia;   
-Parassitologia;   
-Epidemiologia e profilassi generale.   
-2° Anno:   
-Patologia e clinica delle malattie infettive;   
-Epidemiologia e profilassi delle malattie infettive;   
-Patologia e clinica delle malattie non infettive di importanza sociale;   
-Epidemiologia e profilassi delle malattie non infettive di importanza sociale;   
-Demografia e statistica sanitaria;   
-Legislazione e organizzazione sanitaria.   
-  
-Materie complementari:   
-Malattie professionali e loro prevenzione;   
-Malattie tropicali;   
-Gerontologia e geriatria.   
-  
-3° Anno:   
-(con orientamento di sanita' pubblica).   
-Approvvigionamento idrico: raccolta e smaltimento dei rifiuti liquidi e solidi: inquinamento atmosferico;   
-Igiene edilizia ed urbanistica;   
-Igiene dell'alimentazione;   
-Igiene e medicina scolastica;   
-Igiene ospitaliera;   
-Servizi di sanita' pubblica.   
-  
-Materie complementari:   
-Geologia applicata all'igiene;   
-Diritto sanitario.   
-  
-3° Anno:   
-(con orientamento di laboratorio).   
-Microscopia applicata all'igiene;   
-Microbiologia applicata all'igiene;   
-Chimica clinica;   
-Accertamento diagnostico delle malattie batteriche e parassitarie;   
-Accertamento diagnostico delle infezioni virali;   
-Nozioni di anatomia e istologia patologica.   
-  
-Materie complementari:   
-Ispezioni delle carni.   
-  
-Le lezioni sono completate da esercitazioni pratiche e da turni di frequenza presso gli uffici e laboratori di igiene comunali e provinciali.   
-Art. 219. - L'allievo, per essere ammesso all'anno di corso superiore, deve aver ottenuto tutte le firme di frequenza dell'anno di corso cui e' iscritto e superato i relativi esami.   
-Alla fine del 3° anno l'allievo, oltre a sostenere gli esami dei corsi relativi dovra', per il conferimento del diploma di specialista, presentare e discutere una dissertazione scritta.   
+L'art. 46 e' sostituito dal seguente:  
+"La Facolta' di scienze matematiche, fisiche e naturali conferisce:  
+a) la laurea in scienze matematiche;  
+b) la laurea in fisica;  
+c) la laurea in matematica e fisica;  
+d) la laurea in chimica;  
+e) la laurea in scienze matematiche;  
+f) la laurea in scienze geologiche".  
+Dopo l'art. 52 e' inserito il seguente nuovo articolo, relativo alla istituzione del corso di laurea in scienze geologiche, con il conseguente spostamento della numerazione degli articoli successivi.  
+Art. 53. - La durata del corso degli studi per la laurea in scienze geologiche e di quattro anni.  
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.  
+Sono insegnamenti fondamentali:  
+1) istituzioni di matematiche;  
+2) fisica sperimentale (biennale);  
+3) chimica generale ed inorganica con elementi di organica;  
+4) mineralogia;  
+5) geologia;  
+6) geologia applicata;  
+7) paleontologia;  
+8) geografia;  
+9) geografia fisica;  
+10) topografia e cartografia;  
+11) fisica terrestre;  
+12) petrografia.  
+Sono insegnamenti complementari:  
+1) chimica fisica;  
+2) chimica biologica;  
+3) zoologia;  
+4) botanica;  
+5) analisi matematica algebrica ed infinitesimale (biennale);  
+6) meccanica razionale con elementi di statica grafica e disegno;  
+7) astronomia;  
+8) geochimica;  
+9) antropologia.  
+Gli insegnamenti di botanica e di zoologia debbono avere indirizzo biogeografico.  
+L'insegnamento di "analisi matematica" sara' impartito da due professori ciascuno dei quali insegnera' alternativamente "analisi algebrica" per il primo anno ed "analisi infinitesimale" per il secondo anno: lo studente dovra' sostenere due esami distinti.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 settembre 1972
+### Dato a Roma, addi' 27 ottobre 1958
 
-LEONE SCALFARO
+GRONCHI MORO
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 30 ottobre 1972
+Registrato alla Corte dei conti, addi' 19 gennaio 1959
 
-Atti del Governo, registro n. 251, foglio n. 130. - CARUSO
+Atti del Governo, registro n. 116, foglio n. 17. - RELLEVA

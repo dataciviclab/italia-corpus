@@ -1,19 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 giugno 1979 n. 590
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1978 n. 490
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 giugno 1979 n. 590
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1978 n. 490
 =============================================================
 
-Autorizzazione alla fondazione artistica Poldi-Pezzoli, in Milano, ad accettare una donazione.
-----------------------------------------------------------------------------------------------
+Autorizzazione alla fondazione artistica "Poldi-Pezzoli", in Milano, ad accettare una donazione.
+------------------------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-590. Decreto del Presidente della Repubblica 22 giugno 1979, col quale, sulla proposta del Ministro per i beni culturali ed ambientali, la fondazione artistica Poldi-Pezzoli, in Milano, viene autorizzata ad accettare la donazione disposta dalla sig.ra Portaluppi Luisa in Castellini Baldissera con atto notarile 29 maggio 1978, n. 127563/24864 di repertorio, a rogito dott. Domenico Moretti, notaio in Milano, consistente in una collezione di orologi solari del valore di L. 150.000.000.  
+490. Decreto del Presidente della Repubblica 1 giugno 1978, col quale, sulla proposta del Ministro per i beni culturali e ambientali, la fondazione artistica "Poldi-Pezzoli", in Milano, viene autorizzata ad accettare la donazione, disposta dalla sig.ra Anna Rosselli in Baslini, con atto 18 luglio 1977, n. 65385/22380 di repertorio, a rogito dott. Cesare Gallavresi, notaio in Milano, consistente in centosette pizzi antichi dal XVIII al XIX secolo, con destinazione al museo "Poldi-Pezzoli".  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 25 settembre 1979  
-Registro n. 16 Beni culturali, foglio n. 107
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 19 agosto 1978  
+Registro n. 11 Beni culturali, foglio n. 182

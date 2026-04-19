@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1962 n. 1813
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1962 n. 228
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1962 n. 1813
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1962 n. 228
+============================================================
 
 Autorizzazione alla "Fondazione Pro Juventute Don Carlo Gnocchi" ad accettare, col beneficio d'inventario, una eredita'.
 ------------------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1813. Decreto del Presidente della Repubblica 25 novembre 1962, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi" viene autorizzata ad accettare, col beneficio d'inventario, un appartamento, sito in Milano, disposto dalla defunta signora Marina Maggioni in Calzavara - con testamento olografo del 10 ottobre 1957 depositato e pubblicato per atto a rogito dott. Guido Solaro, notaio residente in Desio (iscritto presso il Collegio notarile di Milano), in data 25 settembre 1958, n. 1622 di repertorio e n. 3717 di registro - a favore dei "mutilati di Don Gnocchi", che si identificano con la Fondazione suindicato.  
+228. Decreto del Presidente della. Repubblica 31 marzo 1962, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi", viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dal defunto sig. Bruno Papetti, con testamento olografo 18 marzo 1957, pubblicato e depositato per atto a rogito dott. Giorgio Basadonna di Milano, in data 5 ottobre 1960, n. 5427 di raccolta, n. 13697 di repertorio.  
   
 Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 9 gennaio 1963  
-Atti del Governo, registro 161, foglio n. 59 - VILLA
+Registrato alla Corte dei conti, addi' 9 maggio 1962  
+Atti del Governo, registro n. 146, foglio n. 68. - VILLA

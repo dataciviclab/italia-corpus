@@ -1,67 +1,348 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 712
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1963 n. 1455
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 712
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1963 n. 1455
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Pavia;
+
+approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il regio decreto 30 settembre. 1938, n. 1652, e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato conte appresso:
+
+Art. 58. - Agli insegnamenti complementari del corso di laurea in Farmacia e' aggiunto quello di:
+
+13) Microchimica;
+
+L'art. 96 relativo alla Scuola di specializzazione in pediatria e' abrogato e sostituito dal seguente.
+
+Art. 91. - Il corso ha la durata di anni tre. Gli insegnamenti sono i seguenti:
+
+Primo anno:
+
+Genetica;
+
+Anatomia e Fisiologia;
+
+Psicologia;
+
+Semeiotica;
+
+Patologia;
+
+Clinica e terapia.
+
+Secondo anno:
+
+Alimentazione;
+
+Chirurgia;
+
+Oculistica;
+
+Otorinolaringoiatria;
+
+Semeiotica;
+
+Patologia;
+
+Clinica e terapia.
+
+Terzo anno:
+
+Dermatologia;
+
+Neuropsichiatria;
+
+Chirurgia;
+
+Ortopedia;
+
+Pediatria sociale;
+
+Patologia;
+
+Clinica e terapia.
+
+Le lezioni sono integrate da conferenze, dimostrazioni collettive ed individuali, che comportano l'internato in clinica pediatrica per almeno sei mesi all'anno.
+
+Il numero massimo di allievi da iscrivere a ciascun anno e' di quindici.
+
+Dopo l'art. 157 sono aggiunti i seguenti nuovi articoli relativi alla istituzione delle Scuole di specializzazione in psicologia del lavoro ed in igiene e medicina scolastica con il conseguente spostamento della numerazione degli articoli successivi.
+
+Scuola di specializzazione in psicologia del lavoro
+
+Art. 158. - E' istituita presso l'Istituto di medicina del lavoro dell'Universita' di Pavia la Scuola di specializzazione in psicologia del lavoro.
+
+La Scuola dispone delle attrezzature dell'Istituto di medicina del lavoro e del centro di psicologia applicata al lavoro e alla Scuola annesso al primo.
+
+Direttore della Scuola e' il titolare di Medicina del lavoro.
+
+Art. 159. - Il corso ha la durata di due anni. Oltre alle lezioni relative alle materie indicate nel programma verranno tenute esercitazioni teorico-pratiche.
+
+La frequenza alle lezioni ed alle esercitazioni e' obbligatoria, come pure un periodo di internato.
+
+Art. 160. - Alla Scuola, non sono ammessi piu' di 20 allievi.
+
+Qualora, le domande di iscrizione fossero in numero superiore la Direzione della scuola si riserva, di provvedere ad una scelta in base ai titoli di studio ed eventualmente a mezzo di esame scritto.
+
+L'ammissione e' condizionata all'esito positivo di un esame attitudinale e alla conoscenza di una lingua straniera preferibilmente l'inglese.
+
+Art. 161. - Alla fine del primo anno gli specializzandi i quali abbiano ottenuto la firma di frequenza dovranno sostenere un esame di profitto nelle materie di insegnamento annuali. Alla fine del secondo anno gli specializzandi dovranno sostenere l'esame di profitto nelle materie di insegnamento annuali del secondo anno. L'esame di diploma consiste nella discussione di una dissertazione scritta su di un argomento di Psicotecnica e Psicologia del lavoro previamente approvato dalla Direzione della scuola, di perfezionamento.
+
+La dissertazione deve essere presentata per l'approvazione almeno un mese prima delle prove di esame.
+
+Art. 162 - La Commissione per gli esami di profitto e per gli esami di diploma saranno, nominate in conformita' alle norme generali vigenti.
+
+Art. 163. - Le materie di insegnamento sono:
+
+Primo anno:
+
+Fisiologia del sistema nervoso e psicofisiologia;
+
+Psicologia generale (biennale);
+
+Statistica e metodi psicometrici;
+
+Psicopatologia e igiene mentale;
+
+Diritto del lavoro;
+
+Tecnologia industriale;
+
+Orientamento professionale (con esercitazioni sull'uso dei tests).
+
+Secondo anno:
+
+Psicologia generale (con esercitazioni);
+
+Psichiatria e psicologia clinica;
+
+Psicologia evolutiva;
+
+Igiene industriale;
+
+Tossicologia industriale;
+
+Psicologia del lavoro;
+
+Medicina e psicologia sociale.
+
+Art. 164. - La Scuola rilascia il diploma di specialista in Psicologia del lavoro ai candidati che abbiano superato l'esame delle materie del primo e del secondo anno e che abbiano svolto la prescritta dissertazione.
+
+Scuola di specializzazione in igiene e medicina scolastica
+
+Art. 165. - E' istituita presso l'Istituto d'igiene, la Scuola di specializzazione in igiene e medicina scolastica. La Scuola, e' posta sotto la direzione del titolare della Cattedra di igiene e dispone dei laboratori e delle attrezzature dell'Istituto d'igiene.
+
+Art. 166. - Durante il corso, che ha la durata di due anni, oltre alle lezioni relative alle materie contemplate nel programma, si svolgeranno esercitazioni nei laboratori dell'Istituto e verranno eseguite visite alle organizzazioni sanitarie scolastiche.
+
+Art. 167. - Alla Scuola non sono ammessi piu' di 40 medici. La eventuale selezione dei richiedenti l'iscrizione e' fatta dalla Direzione della scuola in base ai titoli di studio ed eventualmente a prova di esame.
+
+Art. 168. - Sono obbligatori: la frequenza alle lezioni ed alle esercitazioni, le visite alle organizzazioni sanitarie scolastiche, nonche' un internato di almeno un trimestre, nell'Istituto d'igiene.
+
+Art. 169. - Le materie d'insegnamento sono le seguenti:
+
+Primo anno:
+
+1) Demografia e statistica sanitaria;
+
+2) Igiene dell'alimentazione;
+
+3) Igiene scolastica;
+
+4) Legislazione scolastica;
+
+5) Fisiopatologia della crescenza;
+
+6) Patologia e clinica delle malattie dell'eta' scolare (biennale);
+
+7) Epidemiologia e profilassi delle malattie dell'eta' scolare (biennale).
+
+Secondo anno:
+
+1) Pedagogia e ortofrenia;
+
+2) Psicologia;
+
+3) Auxologia ed educazione fisica
+
+4) Educazione sanitaria e propaganda igienica;
+
+5) Patologia e clinica delle malattie dell'eta' scolare;
+
+6) Epidemiologia e profilassi delle malattie dell'eta' scolare.
+
+Art. 170. - Alla fine di ogni anno, gli iscritti debbono sostenere un esame di profitto. Al termine del corso essi sosterranno l'esame di diploma consistente nella discussione di una dissertazione scritta su un argomento relativo ad una delle materie d'insegnamento.
+
+Art. 171. - Le Commissioni per gli esami di profitto e di diploma sono nominate e composte secondo quanto previsto dagli articoli 76-77 dello statuto.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 22 settembre 1963
+
+SEGNI
+
+GUI
+
+Visto, il Guardasigilli: BOSCO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 29 ottobre 1963 Atti del Governo, registro n. 175, foglio n. 93. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Pavia;  
+approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduto il regio decreto 30 settembre. 1938, n. 1652, e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Dopo l'art. 216 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in patologia generale:  
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato conte appresso:  
   
-Scuola di specializzazione in patologia generale  
+Art. 58. - Agli insegnamenti complementari del corso di laurea in Farmacia e' aggiunto quello di:  
+13) Microchimica;  
+L'art. 96 relativo alla Scuola di specializzazione in pediatria e' abrogato e sostituito dal seguente.  
+Art. 91. - Il corso ha la durata di anni tre. Gli insegnamenti sono i seguenti:  
   
-Art. 217. - Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia, in scienze biologiche o di altre facolta' nel cui ordinamento degli studi e' inserito l'insegnamento di patologia generale.  
-Il corso ha la durata di tre anni. Esso ha sede presso l'istituto di patologia generale.  
-Le iscrizioni ai singoli anni non potranno superare il numero di trenta.  
-Nel caso di eccedenza di domande, la scelta tra i richiedenti sara' fatta in base a concorso interno, per esame; gli aspiranti hanno l'obbligo di accertarsi presso l'istituto della eventuale data del concorso.  
-A giudizio del direttore, entro il numero stabilito per i singoli anni di corso, possono essere ammessi al 2° corso direttamente, i richiedenti sufficientemente forniti di titoli attinenti alla patologia generale (assistenti di patologia generale o materie affini; specializzati in altre discipline affini alla patologia generale, ecc.). I candidati non riconosciuti idonei all'esame di diploma potranno ripresentarsi dopo un altro anno di frequenza alla scuola. Ma se al secondo esame non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.  
-Art. 218. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) Eziologia generale (cause patogene: fisiche, chimiche e biologiche);  
-2) Patologia istochimica;  
-3) Patologia delle infezioni;  
-4) Laboratorio di patologia generale (triennale).  
-2° Anno:  
-5) Patologia dell'infezione;  
-6) Immunologia;  
-7) Fisiopatologia sistemica (biennale); (fisiopatologia della termoregolazione, del cuore e dei vasi, della respirazione);  
-8) Patologia del metabolismo (dei protidi, dei lipidi, dell'acqua e dei minerali e dei bioregolatori);  
-9) Laboratorio di patologia generale.  
-3° Anno:  
-10) Fisiopatologia sistemica (della digestione, del rene, del sangue e del sistema neuro-endocrino);  
-11) Patologia oncologica;  
-12) Laboratorio di patologia generale.  
-Alla fine di ogni anno saranno sostenuti gli esami di ciascuna delle materie suindicate.  
-Per conseguire il diploma di specializzazione in patologia generale, al termine del corso triennale oltre ad aver superato tutti gli esami nelle singole materie, e' di obbligo presentare una dissertazione scritta, preferibilmente di carattere sperimentale, elaborata nello istituto.  
+Primo anno:  
+Genetica;  
+Anatomia e Fisiologia;  
+Psicologia;  
+Semeiotica;  
+Patologia;  
+Clinica e terapia.  
+  
+Secondo anno:  
+Alimentazione;  
+Chirurgia;  
+Oculistica;  
+Otorinolaringoiatria;  
+Semeiotica;  
+Patologia;  
+Clinica e terapia.  
+  
+Terzo anno:  
+Dermatologia;  
+Neuropsichiatria;  
+Chirurgia;  
+Ortopedia;  
+Pediatria sociale;  
+Patologia;  
+Clinica e terapia.  
+  
+Le lezioni sono integrate da conferenze, dimostrazioni collettive ed individuali, che comportano l'internato in clinica pediatrica per almeno sei mesi all'anno.  
+Il numero massimo di allievi da iscrivere a ciascun anno e' di quindici.  
+Dopo l'art. 157 sono aggiunti i seguenti nuovi articoli relativi alla istituzione delle Scuole di specializzazione in psicologia del lavoro ed in igiene e medicina scolastica con il conseguente spostamento della numerazione degli articoli successivi.  
+  
+Scuola di specializzazione in psicologia del lavoro  
+  
+Art. 158. - E' istituita presso l'Istituto di medicina del lavoro dell'Universita' di Pavia la Scuola di specializzazione in psicologia del lavoro.  
+La Scuola dispone delle attrezzature dell'Istituto di medicina del lavoro e del centro di psicologia applicata al lavoro e alla Scuola annesso al primo.  
+Direttore della Scuola e' il titolare di Medicina del lavoro.  
+Art. 159. - Il corso ha la durata di due anni. Oltre alle lezioni relative alle materie indicate nel programma verranno tenute esercitazioni teorico-pratiche.  
+La frequenza alle lezioni ed alle esercitazioni e' obbligatoria, come pure un periodo di internato.  
+Art. 160. - Alla Scuola, non sono ammessi piu' di 20 allievi.  
+Qualora, le domande di iscrizione fossero in numero superiore la Direzione della scuola si riserva, di provvedere ad una scelta in base ai titoli di studio ed eventualmente a mezzo di esame scritto.  
+L'ammissione e' condizionata all'esito positivo di un esame attitudinale e alla conoscenza di una lingua straniera preferibilmente l'inglese.  
+Art. 161. - Alla fine del primo anno gli specializzandi i quali abbiano ottenuto la firma di frequenza dovranno sostenere un esame di profitto nelle materie di insegnamento annuali. Alla fine del secondo anno gli specializzandi dovranno sostenere l'esame di profitto nelle materie di insegnamento annuali del secondo anno. L'esame di diploma consiste nella discussione di una dissertazione scritta su di un argomento di Psicotecnica e Psicologia del lavoro previamente approvato dalla Direzione della scuola, di perfezionamento.  
+La dissertazione deve essere presentata per l'approvazione almeno un mese prima delle prove di esame.  
+Art. 162 - La Commissione per gli esami di profitto e per gli esami di diploma saranno, nominate in conformita' alle norme generali vigenti.  
+Art. 163. - Le materie di insegnamento sono:  
+  
+Primo anno:  
+Fisiologia del sistema nervoso e psicofisiologia;  
+Psicologia generale (biennale);  
+Statistica e metodi psicometrici;  
+Psicopatologia e igiene mentale;  
+Diritto del lavoro;  
+Tecnologia industriale;  
+Orientamento professionale (con esercitazioni sull'uso dei tests).  
+  
+Secondo anno:  
+Psicologia generale (con esercitazioni);  
+Psichiatria e psicologia clinica;  
+Psicologia evolutiva;  
+Igiene industriale;  
+Tossicologia industriale;  
+Psicologia del lavoro;  
+Medicina e psicologia sociale.  
+  
+Art. 164. - La Scuola rilascia il diploma di specialista in Psicologia del lavoro ai candidati che abbiano superato l'esame delle materie del primo e del secondo anno e che abbiano svolto la prescritta dissertazione.  
+  
+Scuola di specializzazione in igiene e medicina scolastica  
+  
+Art. 165. - E' istituita presso l'Istituto d'igiene, la Scuola di specializzazione in igiene e medicina scolastica. La Scuola, e' posta sotto la direzione del titolare della Cattedra di igiene e dispone dei laboratori e delle attrezzature dell'Istituto d'igiene.  
+Art. 166. - Durante il corso, che ha la durata di due anni, oltre alle lezioni relative alle materie contemplate nel programma, si svolgeranno esercitazioni nei laboratori dell'Istituto e verranno eseguite visite alle organizzazioni sanitarie scolastiche.  
+Art. 167. - Alla Scuola non sono ammessi piu' di 40 medici. La eventuale selezione dei richiedenti l'iscrizione e' fatta dalla Direzione della scuola in base ai titoli di studio ed eventualmente a prova di esame.  
+Art. 168. - Sono obbligatori: la frequenza alle lezioni ed alle esercitazioni, le visite alle organizzazioni sanitarie scolastiche, nonche' un internato di almeno un trimestre, nell'Istituto d'igiene.  
+Art. 169. - Le materie d'insegnamento sono le seguenti:  
+  
+Primo anno:  
+1) Demografia e statistica sanitaria;  
+2) Igiene dell'alimentazione;  
+3) Igiene scolastica;  
+4) Legislazione scolastica;  
+5) Fisiopatologia della crescenza;  
+6) Patologia e clinica delle malattie dell'eta' scolare (biennale);  
+7) Epidemiologia e profilassi delle malattie dell'eta' scolare (biennale).  
+  
+Secondo anno:  
+1) Pedagogia e ortofrenia;  
+2) Psicologia;  
+3) Auxologia ed educazione fisica  
+4) Educazione sanitaria e propaganda igienica;  
+5) Patologia e clinica delle malattie dell'eta' scolare;  
+6) Epidemiologia e profilassi delle malattie dell'eta' scolare.  
+  
+Art. 170. - Alla fine di ogni anno, gli iscritti debbono sostenere un esame di profitto. Al termine del corso essi sosterranno l'esame di diploma consistente nella discussione di una dissertazione scritta su un argomento relativo ad una delle materie d'insegnamento.  
+Art. 171. - Le Commissioni per gli esami di profitto e di diploma sono nominate e composte secondo quanto previsto dagli articoli 76-77 dello statuto.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 settembre 1972
+### Dato a Roma, addi' 22 settembre 1963
 
-LEONE SCALFARO
+SEGNI GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 21 novembre 1972
+Registrato alla Corte dei conti, addi' 29 ottobre 1963
 
-Atti del Governo, registro n. 253, foglio n. 60. - CARUSO
+Atti del Governo, registro n. 175, foglio n. 93. - VILLA

@@ -1,21 +1,144 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1974 n. 781
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1962 n. 2058
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1974 n. 781
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1962 n. 2058
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056) e successivi;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 17. - Agli insegnamenti complementari del corso di laurea in Lettere e' aggiunto quello di "Storia economica".
+
+Art. 18. - Agli insegnamenti complementari del corso di laurea in Filosofia e' aggiunto quello di "Storia economica".
+
+Art. 23. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di:
+
+"Gerontologia";
+
+"Reumatologia";
+
+"Chemioterapia";
+
+"Statistica medica e biometria";
+
+"Virologia applicata alla epidemiologia".
+
+L'art. 135, relativo alla Scuola di specializzazione in Radiologia medica e' abrogato e sostituito dal seguente nuovo ordinamento e con la seguente nuova denominazione.
+
+Scuola di specializzazione in Radiologia
+
+Art. 135. - La durata del corso e' di tre anni. Le materie d'insegnamento sono:
+
+1° Anno:
+
+Elettrologia e fisica delle radiazioni;
+
+Tecnica radiografica (istrumentario, tecnica generale e tecnica speciale);
+
+Anatomia radiografica normale;
+
+Semeiotica radiologica;
+
+Radiobiologia;
+
+Roentgenterapia;
+
+Curieterapia.
+
+2° Anno:
+
+Elettrologia e fisica delle radiazioni;
+
+Tecnica radiografica (istrumentario, tecnica generale e tecnica speciale);
+
+Anatomia radiografica normale;
+
+Semeiotica radiologica;
+
+Diagnostica radiologica e diagnostica differenziale;
+
+Radiobiologia;
+
+Roentgenterapia;
+
+Curieterapia;
+
+Medicina nucleare.
+
+3° Anno:
+
+Diagnostica radiologica e diagnostica differenziale;
+
+Radioterapia con alte energie;
+
+Medicina nucleare;
+
+Patologia da radiazioni e protezioni.
+
+E' obbligatorio un periodo di internato nell'Istituto di radiologia.
+
+Oltre all'obbligo della frequenza agli insegnamenti prescritti, gli allievi dovranno superare al termine del 1° anno un "esame di profitto" sulle materie del programma.
+
+Per essere ammessi all'esame di diploma gli allievi dovranno aver superato i seguenti esami:
+
+1) Elettrologia e fisica delle radiazioni;
+
+2) Tecnica radiografica e semeiotica;
+
+3) Diagnostica radiologica;
+
+4) Radiobiologia e radioterapia.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 dicembre 1962
+
+SEGNI
+
+GUI
+
+Visto, il Guardasigilli: BOSCO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 4 aprile 1963 Atti del Governo, registro n. 167, foglio n. 77. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);.  
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -24,91 +147,60 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 231, 232 e 233, relativi alla scuola di specializzazione in neuropsichiatria infantile, sono abrogati e sostituiti dai seguenti:  
+Art. 17. - Agli insegnamenti complementari del corso di laurea in Lettere e' aggiunto quello di "Storia economica".  
+Art. 18. - Agli insegnamenti complementari del corso di laurea in Filosofia e' aggiunto quello di "Storia economica".  
+Art. 23. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di:  
+"Gerontologia";  
+"Reumatologia";  
+"Chemioterapia";  
+"Statistica medica e biometria";  
+"Virologia applicata alla epidemiologia".  
+L'art. 135, relativo alla Scuola di specializzazione in Radiologia medica e' abrogato e sostituito dal seguente nuovo ordinamento e con la seguente nuova denominazione.  
   
-Scuola di specializzazione in neuropsichiatria infantile  
+Scuola di specializzazione in Radiologia  
   
-Art. 231. - La durata del corso e' di quattro anni.  
-Alla scuola sono ammessi i laureati in medicina e chirurgia.  
-Il numero degli iscritti e' stabilito in dieci per anno di corso, previo concorso interno, per titoli e per esami.  
-Art. 232. - Le materie di insegnamento sono le seguenti:  
-  
+Art. 135. - La durata del corso e' di tre anni. Le materie d'insegnamento sono:  
 1° Anno:  
-Anatomia ed embriologia del sistema nervoso;  
-Fisiologia del sistema nervoso con particolare riguardo all'eta' evolutiva;  
-Genetica;  
-Endocrinologia dell'eta' evolutiva e auxologia;  
-Patologia e clinica pediatrica;  
-Tecniche di laboratorio.  
-  
+Elettrologia e fisica delle radiazioni;  
+Tecnica radiografica (istrumentario, tecnica generale e tecnica speciale);  
+Anatomia radiografica normale;  
+Semeiotica radiologica;  
+Radiobiologia;  
+Roentgenterapia;  
+Curieterapia.  
 2° Anno:  
-Anatomia patologica del sistema nervoso;  
-Biochimica patologica del sistema nervoso;  
-Psicologia dell'eta' evolutiva;  
-Semeiotica e clinica neurologica;  
-Semeiotica e clinica psichiatrica.  
-  
+Elettrologia e fisica delle radiazioni;  
+Tecnica radiografica (istrumentario, tecnica generale e tecnica speciale);  
+Anatomia radiografica normale;  
+Semeiotica radiologica;  
+Diagnostica radiologica e diagnostica differenziale;  
+Radiobiologia;  
+Roentgenterapia;  
+Curieterapia;  
+Medicina nucleare.  
 3° Anno:  
-Psicopatologia dell'eta' evolutiva;  
-Semeiotica e clinica neurologica infantile;  
-Psicodiagnostica dell'eta' evolutiva;  
-Elettrofisiologia;  
-Neuroradiologia;  
-Neurochirurgia dell'eta' evolutiva;  
-Semeiotica e clinica psichiatrica infantile (I).  
-  
-4° Anno:  
-Semeiotica e clinica psichiatrica infantile (II);  
-Terapia generale delle malattie mentali infantili;  
-Psicoterapia dell'eta' evolutiva;  
-Foniatria;  
-Psicopedagogia;  
-Sociologia applicata alla popolazione infantile;  
-Legislazione.  
-  
-ESAMI  
-  
-1° Anno:  
-Anatomia ed embriologia del sistema nervoso;  
-Fisiologia del sistema nervoso con particolare riguardo all'eta' evolutiva;  
-Genetica, endocrinologia dell'eta' evolutiva e auxologia;  
-Patologia e clinica pediatrica.  
-  
-2° Anno:  
-Anatomia patologica del sistema nervoso e biochimica patologica del sistema nervoso;  
-Psicologia dell'eta' evolutiva;  
-Semeiotica e clinica neurologica;  
-Semeiotica e clinica psichiatrica.  
-  
-3° Anno:  
-Semeiotica e clinica neurologica infantile;  
-Psicopatologia dell'eta' evolutiva;  
-Psicodiagnostica dell'eta' evolutiva.  
-  
-4° Anno:  
-Semeiotica e clinica psichiatrica infantile;  
-Psicopedagogia;  
-Legislazione.  
-  
-Art. 233. - Gli specializzandi dovranno compiere i seguenti internati:  
-internato di sei mesi, in clinica psichiatrica per gli iscritti al primo anno;  
-internato di tre mesi in neurologia e di tre mesi in psichiatria per gli iscritti al secondo anno;  
-internato di sei mesi in neuropsichiatria infantile per gli iscritti al terzo e quarto anno.  
-Al termine di ogni anno, gli allievi che abbiano regolarmente frequentato il corso dovranno superare gli esami di profitto.  
-Sono previste le seguenti abbreviazioni di corso:  
-gli specialisti in clinica delle malattie nervose e mentali o in neurologia o in psichiatria sono iscritti di ufficio al secondo anno della scuola e sono esentati dal sostenere gli esami di profitto di anatomia ed embriologia del sistema nervoso, fisiologia del sistema nervoso con particolare riguardo all'eta' evolutiva, patologia e clinica pediatrica, anatomia patologica del sistema nervoso, biochimica patologica del sistema nervoso e dall'espletare il periodo di internato in neurologia e in psichiatria;  
-gli specialisti in clinica pediatrica sono iscritti di ufficio al secondo anno della scuola e sono esentati dal sostenere gli esami di profitto di genetica e di endocrinologia dell'eta' evolutiva e auxologia e dall'espletare il periodo di internato del primo anno.  
+Diagnostica radiologica e diagnostica differenziale;  
+Radioterapia con alte energie;  
+Medicina nucleare;  
+Patologia da radiazioni e protezioni.  
+E' obbligatorio un periodo di internato nell'Istituto di radiologia.  
+Oltre all'obbligo della frequenza agli insegnamenti prescritti, gli allievi dovranno superare al termine del 1° anno un "esame di profitto" sulle materie del programma.  
+Per essere ammessi all'esame di diploma gli allievi dovranno aver superato i seguenti esami:  
+1) Elettrologia e fisica delle radiazioni;  
+2) Tecnica radiografica e semeiotica;  
+3) Diagnostica radiologica;  
+4) Radiobiologia e radioterapia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 aprile 1974
+### Dato a Roma, addi' 31 dicembre 1962
 
-LEONE MALFATTI
+SEGNI GUI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 27 gennaio 1975
+Registrato alla Corte dei conti, addi' 4 aprile 1963
 
-Atti di Governo, registro n. 8, foglio n. 45
+Atti del Governo, registro n. 167, foglio n. 77. - VILLA

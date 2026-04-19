@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 marzo 1967 n. 224
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 maggio 1965 n. 896
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 marzo 1967 n. 224
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 maggio 1965 n. 896
+=============================================================
 
 Autorizzazione alla "Fondazione Pro Juventute Don Carlo Gnocchi", con sede in Roma, ad accettare un legato.
 -----------------------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-224. Decreto del Presidente della Repubblica 3 marzo 1967, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi" viene autorizzata ad accettare un legato consistente in buoni del Tesoro "1973" per l'importo di L. 17.780.000, disposto dal defunto avvocato Bortoli Arrigo Angelo con testamento olografo del 5 aprile 1965, pubblicato e depositato con verbale a rogito dott. Pietro Chiaveri, notaio residente in Melzo, in data 26 luglio 1965, n. 16440 di rep., n. 4465 di fasc.  
+896. Decreto del Presidente della Repubblica 31 maggio 1965, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi" viene autorizzata ad accettare un legato, avente per oggetto la somma di lire 1.000.000 (un milione), disposto dalla defunta signorina Tonani Erminia, con testamento pubblico per atto a rogito dott. Landoaldo de Mojana, notaio in Castellanza (iscritto presso il Collegio notarile di Milano), in data 2 novembre 1961, n. 7 di repertorio  
+Atti di ultima volonta', registrato per atto a rogito dello stesso notaio, in data 25 marzo 1963, numero 16.069/2067 di repertorio, a favore dell'"Opera Pia dei Mutilatini di Don Gnocchi", che si identifica, come e' nota, con la Fondazione Pro Juventute suindicata.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 18 aprile 1967  
-Atti del Governo, registro n. 210, foglio n. 122. - GRECO
+Registrato alla Corte dei conti, addi' 20 luglio 1965  
+Atti del Governo, registro n. 196, foglio n. 9. - VILLA

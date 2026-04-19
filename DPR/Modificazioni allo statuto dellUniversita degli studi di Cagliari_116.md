@@ -1,96 +1,206 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 maggio 1966 n. 431
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1981 n. 684
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 maggio 1966 n. 431
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1981 n. 684
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Visto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Cagliari e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16);
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
+Lo statuto dell'Universita' di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli 213, 214, 215, 216, 217, relativi alla scuola di specializzazione in igiene e medicina preventiva, sono soppressi e sostituiti dai seguenti:   
   
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Dopo l'art. 70, e con il conseguente spostamento della successiva numerazione, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Studi Sardi annessa alla Facolta' di lettere e filosofia.  
+Scuola di specializzazione in igiene e medicina preventiva   
+Art. 213. - La scuola di specializzazione in igiene e medicina preventiva ha sede presso l'istituto di igiene e conferisce il diploma di specialista in igiene e medicina preventiva.   
+Art. 214. - La direzione della scuola e' affidata al professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento, la direzione della scuola e' affidata al professore associato, che pure insegni nella scuola medesima.   
+Art. 215. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
+Il numero massimo degli allievi e' di dodici per anno di corso e complessivamente di quarantotto iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Art. 216. - Il corso si articola in un biennio propedeutico seguito da un biennio differenziato con cinque orientamenti e precisamente:   
+a) sanita' pubblica;   
+b) igiene e tecnica ospedaliera;   
+c) igiene del lavoro;   
+d) igiene e medicina scolastica;   
+e) laboratorio.   
+Art. 217. - Il piano di studio e' il seguente:   
   
-Facolta' di lettere e filosofia  
+PRIMO BIENNIO   
   
-Art. 71. - Alla Facolta' di lettere e filosofia sono annesse scuole di specializzazione che conferiscono al termine del periodo per ciascuna di esse stabilito e dopo il superamento delle prove di esame relative il diploma di specialista da rilasciarsi ai sensi di legge.  
+1° Anno:   
+metodologia statistica e biometria;   
+educazione sanitaria;   
+psicologia;   
+microbiologia ed immunologia I;   
+parassitologia   
+epidemiologia generale e metodologia;   
+profilassi generale;   
+sociologia medica ed antropologia culturale.   
+2° Anno:   
+microbiologia e immunologia II;   
+patologia e clinica delle malattie infettive;   
+epidemiologia e profilassi delle malattie infettive I;   
+patologia e clinica delle malattie non infettive di importanza sociale;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale I;   
+demografia e statistica sanitaria;   
+legislazione e programmazione sanitarie.   
   
-Art. 72. - Il direttore di ciascuna scuola viene nominato dalla Facolta', con rotazione triennale, tra i professori di ruolo delle materie comprese in ciascuna scuola e sede ne e' il relativo Istituto o una dipendenza di esso. Nel caso in cui le cattedre non siano coperte da professori di ruolo il direttore e' scelto dalla Facolta'.  
+SECONDO BIENNIO   
+a) Orientamento di "sanita' pubblica"   
+3° Anno:   
+epidemiologia e profilassi delle malattie infettive II;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
+igiene dell'ambiente fisico e difesa ecologica;   
+igiene degli alimenti e della nutrizione;   
+igiene dell'eta' evolutiva;   
+igiene del lavoro;   
+igiene ed assistenza dell'anziano.   
+4° Anno:   
+igiene edilizia e dell'aggregato urbano;   
+igiene ospedaliera;   
+organizzazione del territorio e programmazione sanitaria;   
+medicina di comunita';   
+economia sanitaria;   
+elementi di diritto amministrativo.   
+b) Orientamento di "igiene e tecnica ospedaliera"   
+3° Anno:   
+epidemiologia e profilassi delle malattie infettive II;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
+igiene dell'ambiente fisico e difesa ecologica;   
+igiene e tecnica delle costruzioni ospedaliere; arredamenti ed impianti tecnologici;   
+igiene dell'alimentazione e dietetica ospedaliera;   
+organizzazione e funzionamento degli ospedali I;   
+elementi di diritto e legislazione ospedaliera.   
+4° Anno:   
+organizzazione e funzionamento degli ospedali II;   
+compiti ed attribuzione della direzione sanitaria;   
+formazione professionale e compiti del personale ospedaliero; programmazione ospedaliera e medicina di comunita';   
+assistenza psichiatrica;   
+aspetti socio-sanitari dell'ospitalismo;   
+aspetti economici della gestione ospedaliera.   
+c) Orientamento di "igiene del lavoro"   
+3° Anno:   
+epidemiologia e profilassi delle malattie infettive II;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
+igiene dell'ambiente fisico e difesa ecologica;   
+epidemiologia e profilassi delle malattie del lavoro;   
+tecnica ed economia degli impianti industriali;   
+tossicologia industriale e diagnostica di laboratorio;   
+elementi di fisica tecnica applicata all'igiene;   
+igiene dell'ambiente di lavoro I.   
+4° Anno:   
+igiene dell'ambiente di lavoro II;   
+elementi di diritto e legislazione del lavoro;   
+psicologia del lavoro;   
+prevenzione degli infortuni;   
+politica del territorio ed insediamenti industriali;   
+igiene del lavoro e medicina di comunita'.   
+d) Orientamento di "igiene e medicina scolastica"   
+3° Anno:   
+epidemiologia e profilassi delle malattie infettive II;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
+igiene ambiente fisico e difesa ecologica;   
+clinica delle malattie dell'eta' evolutiva;   
+epidemiologia e profilassi delle malattie eta' evolutiva;   
+igiene degli alimenti e della nutrizione;   
+auxologia normale e patologica;   
+psicologia dell'eta' evolutiva.   
+4° Anno:   
+servizi di medicina scolastica;   
+edilizia ed arredamento scolastico;   
+elementi di pedagogia;   
+assistenza parascolastica;   
+educazione sanitaria nella scuola;   
+legislazione scolastica;   
+igiene mentale.   
+e) Orientamento di "laboratorio"   
+3° Anno:   
+epidemiologia e profilassi delle malattie infettive II;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
+igiene dell'ambiente fisico e difesa ecologica;   
+metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale;   
+metodi e dosaggi biologici per il controllo dell'inquinamento ambientale;   
+strumentazione e metodologie chimico-cliniche ed ematologiche I;   
+microscopia applicata all'igiene;   
+elementi di fisica tecnica applicata all'igiene;   
+accertamento diagnostico delle malattie infettive e parassitarie I.   
+4° Anno:   
+metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale II;   
+accertamento diagnostico delle malattie infettive e parassitarie II;   
+strumentazione e metodologie chimico-cliniche ed ematologiche II;   
+ispezione e controllo degli alimenti;   
+elementi di informatica.   
   
-Art. 73. - Gli insegnanti della scuola sono proposti alla Facolta' dal direttore della scuola stessa e scelti fra i professori di ruolo della Facolta', tra i liberi docenti e tra i cultori particolarmente competenti. Il Consiglio di ciascuna scuola e' costituito dai professori che impartiscono insegnamento ed e' presieduto dal direttore.  
+Gli esami relativi alle discipline svolte con insegnamento biennale verranno sostenuti alla fine di detti insegnamenti.   
+I corsi sono completati da insegnamenti complementari scelti dalla scuola tra i seguenti:   
   
-Art. 74. - Gli insegnamenti di ciascuna scuola sono fissati nel piano annesso.  
+Materie complementari   
+automazione del sistema ospedaliero;   
+biochimica applicata;   
+climatologia;   
+diritto sanitario internazionale;   
+elementi di medicina legale;   
+genetica umana;   
+geologia applicata all'igiene;   
+idrologia;   
+igiene dei climi tropicali;   
+igiene dei trasporti;   
+igiene militare;   
+igiene rurale;   
+istituzioni di matematiche;   
+micologia;   
+radioprotezionistica.   
   
-Art. 75. - La domanda di ammissione a ciascuna scuola di specializzazione e diretta al rettore dell'Universita', corredata dal diploma originale di scuola media superiore, dal certificato di laurea e dalla ricevuta delle tasse.  
-  
-Art. 76. - Per ogni scuola e' fissato un numero minimo e un numero massimo di iscritti; il numero minimo e' di tre, il numero massimo di venti. Ogni qualvolta se ne riconosce l'opportunita' per particolari contingenze la Facolta' potra' sospendere le iscrizioni al primo anno di singole scuole dietro proposta del direttore. Ai singoli anni di corso possono essere trasferiti da altre scuole a ordinamento paritetico allievi che dimostrino la iscrizione, la frequenza e gli esami sostenuti nella scuola di provenienza. Il giudizio di ammissione spetta al Consiglio della scuola e deve essere ratificato dalla Facolta' di lettere e filosofia.  
-  
-Art. 77. - Possono essere esonerati dalla frequenza di un anno di corso, previo parere favorevole, in ogni caso, dal Consiglio di facolta' su proposta del direttore della scuola i laureati che siano stati assistenti effettivi, incaricati e volontari in un Istituto universitario della disciplina.  
-  
-Art. 78. - In ogni caso pero' gli iscritti devono sostenere tutti gli esami del corso e l'esame di diploma e pagare le tasse per gli anni effettivamente seguiti.  
-  
-Art. 79. - E' fatto obbligo agli iscritti di frequentare le lezioni e le esercitazioni. I corsi si svolgeranno secondo il calendario accademico.  
-  
-Art. 80. - Ogni scuola di specializzazione comprende due esami obbligatori biennali e quattro esami facoltativi da scegliere fra le discipline insegnate nella scuola di specializzazione alla quale l'allievo si iscrive ed eventualmente anche in altre scuole di specializzazione. Il piano di studi e' concordato fra l'allievo della scuola e il professore della materia in cui l'allievo intende svolgere la dissertazione finale entro il primo anno di corso. Tale piano dovra' essere sottoposto all'approvazione del Consiglio della scuola.  
-  
-Art. 81. - Gli esami di profitto sono dati al termine di ogni singolo anno. Gli esami di diploma, che potranno essere sostenuti solo dopo il completo espletamento delle prove di esami speciali, consisteranno nella presentazione e discussione di una dissertazione originale scritta su un argomento della disciplina prescelta dall'allievo. Le dissertazioni ritenute meritevoli saranno pubblicate in un'apposita collana curata da ciascuna scuola.  
-  
-Art. 82. - Le Commissioni per gli esami di profitto sono costituite dal direttore che le presiede e da insegnanti della scuola stessa in numero non inferiore a tre. Esse sono nominate dal preside della Facolta' di lettere e filosofia. Gli iscritti non potranno passare al corso successivo senza aver superato gli esami del corso precedente e cioe' i due esami annuali obbligatori e i due esami facoltativi.  
-  
-Art. 83. - L'esame di diploma verra' sostenuto davanti a una Commissione di sette membri, nominata e composta a norma dell'art. 42 del regolamento studenti.  
-  
-Art. 84. - Gli iscritti alle scuole di specializzazione sono tenuti al pagamento delle seguenti tasse e soprattasse:  
-  
-tassa di immatricolazione. . . . . . . . . . . . . . . . L. 7.000 tassa annuale di iscrizione . . . . . . . . . . . . . . L. 30.000 tassa di diploma . . . . . . . . . . . . . . . . . . . . L. 6.000 soprattassa annuale per esami di profitto. . . . . . . . L. 7.000 soprattassa per esami di diploma. . . . . . . . . . . . L. 10.000   
-I contributi di laboratorio, di esercitazioni e di riscaldamento sono determinati annualmente, e prima dell'inizio dell'anno accademico, dal Consiglio di amministrazione dell'Universita', su proposta del Senato accademico, udite la Facolta' e la scuola interessata.  
-La ripartizione delle tasse e soprattasse pagate dagli allievi sara' disposta dal Consiglio di amministrazione dell'Universita' su proposta del direttore della scuola.  
-  
-Art. 85. - Tutte le questioni che riguardano il funzionamento delle scuole, comprese quelle concernenti la carriera scolastica degli allievi, sono deferiti all'esame della Facolta' di lettere e filosofia e alle decisioni del Senato accademico.  
-  
-Art. 86. - Per la carriera scolastica, gli esami e la disciplina degli allievi delle scuole valgono, per quanto non e' prescritto dai precedenti articoli ed in quanto possano applicarsi, le disposizioni del regolamento generale universitario.  
-  
-Scuola di specializzazione in studi sardi  
-  
-Art. 87. - Alla Facolta' di lettere e filosofia e' annessa una scuola di specializzazione in studi sardi. La durata del corso e' di due anni. Vi sono ammessi i laureati della Facolta' di lettere e filosofia, di magistero, di giurisprudenza, di scienze politiche e di economia e commercio.  
-  
-Sono materie fondamentali obbligatorie da seguire per un biennio le seguenti:  
-Antichita' sarde;  
-Storia della Sardegna.  
-  
-Sono materie complementari annuali da scegliersi in numero di due per ciascun anno di corso le seguenti:  
-Geografia e ambiente della Sardegna;  
-Linguistica sarda;  
-Antropologia e sociologia della Sardegna;  
-Etnografia e tradizioni popolari della Sardegna;  
-Storia dell'arte sarda;  
-Diritto regionale;  
-Storia delle istituzioni giuridiche ed economiche della Sardegna.  
+A giudizio della scuola possono essere indicati come complementari anche altri insegnamenti regolarmente attivati nei corsi di laurea di ciascuna Universita'.   
+I corsi sono integrati da un tirocinio pratico di durata comunque non inferiore a tre mesi, da svolgersi durante il secondo biennio.   
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
+Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno; per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in igiene e medicina preventiva, gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 maggio 1966.
+### Dato a Roma, addi' 6 giugno 1981
 
-SARAGAT GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 18 giugno 1966
+Registrato alla Corte dei conti, addi' 20 novembre 1981
 
-Atti del Governo, registro n. 203, foglio n. 145. - VILLA
+Registro n. 114 Istruzione, foglio n. 201

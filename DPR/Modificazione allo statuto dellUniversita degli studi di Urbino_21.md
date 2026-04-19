@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1983 n. 200
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 721
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1983 n. 200
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 721
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Urbino.
 ------------------------------------------------------------------
@@ -22,11 +22,11 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Urbino e convalidati dal Consiglio universitario nazionale nel suo parere;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
-Sentito il parere del Consiglio universitario nazionale;
+Veduto il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
@@ -39,19 +39,21 @@ Articolo unico
 --------------
 
   
-L'art. 154, relativo alle modalita' dell'esame di laurea in farmacia, e' soppresso ed e' sostituito dal seguente nuovo articolo:  
-Art. 154. - L'esame di laurea in farmacia consiste nella discussione orale di una dissertazione scritta di natura possibilmente sperimentale svolta su argomento concernente una delle materie del corso nelle quali lo studente ha dato saggio negli esami di profitto.  
+Nell'art. 68, relativo al corso di laurea in sociologia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+storia delle tradizioni popolari.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 gennaio 1983
+### Dato a Roma, addi' 17 maggio 1986
 
-PERTINI FALCUCCI
+COSSIGA
 
-Visto, il Guardasigilli: DARIDA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 9 maggio 1983
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registro n. 32 Istruzione, foglio n. 28
+Registrato alla Corte dei conti, addi' 14 ottobre 1986
+
+Registro n. 76 Istruzione, foglio n. 368

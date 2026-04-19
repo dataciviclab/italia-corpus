@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1981 n. 254
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1982 n. 519
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1981 n. 254
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1982 n. 519
+=============================================================
 
 Autorizzazione al Comitato olimpico nazionale italiano, in Roma, ad acquistare un immobile.
 -------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-254. Decreto del Presidente della Repubblica 29 gennaio 1981, col quale, sulla proposta del Ministro del turismo e dello spettacolo, il Comitato olimpico nazionale italiano (C.O.N.I.), in Roma, viene autorizzato ad acquistare, al prezzo di L. 12.000.000, un appartamento composto da dodici vani per un'area coperta complessiva di mq 330 circa, sito in Catanzaro, via Carlo V n. 150, censito al nuovo catasto edilizio urbano alla partita 6830, foglio 56, da adibire a sede del comitato regionale calabro della Federazione italiana giuoco calcio (F.I.G.C.).  
+519. Decreto del Presidente della Repubblica 14 maggio 1982, col quale, sulla proposta del Ministro del turismo e dello spettacolo, il Comitato olimpico nazionale italiano (C.O.N.I.), in Roma, viene autorizzato ad acquistare, al prezzo di L. 425.000.000, compresa la somma di L. 42.500.000 per lavori di adattamento, un intero piano rialzato, una porzione di seminterrato e un'area scoperta di un immobile sito in Roma, via Val Savaranche angolo via Val d'Ala, censito nel nuovo catasto terreni alla sez. A, partita 47146, foglio 268, particella 632, di proprieta' della "Case Rossi S.r.l." il tutto per una superficie complessiva di mq 1677, come da atto preliminare di compravendita 5 maggio 1976, registrato a Roma in data 13 maggio 1976 al n. 8506.  
   
-Visto, il Guardasigilli: SARTI  
-Registrato alla Corte dei conti, addi' 20 maggio 1981  
-Registro n. 4 Turismo, foglio n. 106
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 26 luglio 1982  
+Registro n. 6 Turismo, foglio n. 32

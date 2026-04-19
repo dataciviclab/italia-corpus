@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1979 n. 633
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1975 n. 1010
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1979 n. 633
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1975 n. 1010
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
@@ -10,15 +10,13 @@ Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836), e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -26,103 +24,176 @@ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte,
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Dopo l'art. 171, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in terapia fisica e riabilitazione.
+
+Scuola di specializzazione in terapia fisica e riabilitazione
+
+Art. 172. - La scuola ha sede presso la clinica ortopedica dell'Universita' di Trieste.
+
+Il direttore della scuola e' il direttore della clinica ortopedica di Trieste.
+
+La durata del corso degli studi e' di tre anni accademici.
+
+E' esclusa senza alcuna eccezione l'abbreviazione dei corsi.
+
+Possono essere ammessi alla scuola soltanto i candidati che siano in possesso della laurea in medicina e chirurgia.
+
+Il numero massimo dei posti disponibili e' di dieci per ognuno dei tre anni di corso.
+
+L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami.
+
+La Frequenza alle lezioni e alle esercitazioni e' obbligatoria.
+
+Per essere ammessi al secondo e terzo anno occorre aver superato tutti gli esami dell'anno precedente.
+
+Art. 173. - Le materie di insegnamento sono distribuite nei tre anni di corso secondo questo piano di studi che gli iscritti alla scuola sono tenuti a rispettare:
+
+1° Anno:
+
+1) principi di anatomia funzionale;
+
+2) fisiopatologia dell'apparato neuromotore;
+
+3) elementi di fisica applicata;
+
+4) elettrodiagnostica ed elettromiografia;
+
+5) medicina assicurativa;
+
+6) psicologia e problemi di psicopatologia della riabilitazione.
+
+2° Anno:
+
+1) semeiotica e clinica delle motulesioni neurologiche;
+
+2) semeiotica e clinica delle deformita' e motulesioni ortopediche;
+
+3) massoterapia e terapia manuale;
+
+4) cinesiologia, cinesiterapia e ginnastica medica;
+
+5) idroterapia e balneoterapia;
+
+6) climatologia e climatoterapia;
+
+7) rieducazione respiratoria;
+
+8) riabilitazione nei disturbi del linguaggio;
+
+9) rieducazione nei disturbi della visione.
+
+3° Anno:
+
+1) elettroterapia;
+
+2) terapia con onde corte ed altri mezzi fisici;
+
+3) rieducazione motoria e riabilitazione in campo ortopedico e traumatologico;
+
+4) rieducazione motoria e riabilitazione in campo neurologico;
+
+5) cinesiterapia e riabilitazione nelle malattie internistiche;
+
+6) cinesiterapia e riabilitazione in pediatria;
+
+7) cinesiterapia e riabilitazione in geriatria;
+
+8) ergoterapia e riqualificazione professionale;
+
+9) elementi di protesi ed ortesi.
+
+Ammontare delle tasse di immatricolazione L. 5.000; di iscrizione L. 100.000; soprattasse esami L. 7.000.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 24 ottobre 1975
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 16 giugno 1976 Atti di Governo, registro n. 6, foglio n. 78
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
+  
+Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836), e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
   
 Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-"La scuola di specializzazione in ematologia generale di cui al [decreto del Presidente della Repubblica 27 ottobre 1978, n. 946](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-10-27;946), muta la denominazione in quella di scuola di specializzazione in ematologia generale (clinica e laboratorio)".  
-
-Art. 2
-------
-
   
-Dopo l'art. 171, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in ortognatodonzia.  
-Scuola di specializzazione in ortognatodonzia  
-Art. 172. - La scuola di specializzazione in ortognatodonzia ha sede presso l'istituto di clinica odontoiatrica e stomatologica dell'Universita' degli studi di Trieste.  
-La durata del corso di studi per il conseguimento diploma di specialista in ortognatodonzia e' di tre anni e non e' suscettibile di abbreviazioni.  
-La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.  
-Il numero degli iscritti, distribuiti nel tre anni di corso, e' di diciotto (sei per anno di corso).  
-Art. 173. - Le materie di insegnamento sono le seguenti:  
-1) embriologia e anatomia dell'apparato stomatognatico;  
-2) fisiologia dell'apparato stomatognatico;  
-3) farmacologia clinica;  
-4) patologia odontostomatologica;  
-5) chirurgia odontostomatologica;  
-6) odontoiatria conservativa;  
-7) radiologia odontostomatologica;  
-8) stomatologia preventiva;  
-9) ortognatodonzia;  
-10) odontotecnica;  
-11) semeiotica ortognatodontica;  
-12) cefalometria clinica;  
-13) pedodonzia;  
-14) metallurgia e merceologia in ortognatodonzia;  
-15) pediatria auxologica applicata;  
-16) parodontologia;  
-17) chirurgia ortognatodontica;  
-18) genetica applicata;  
-19) statistica applicata alla ricerca scientifica;  
-20) medicina legale e delle assicurazioni in odontostomatologia; esercitazioni cliniche, di laboratorio e di cefalometria.  
-La didattica del primo anno di corso e' particolarmente dedicata alla preparazione stomatologica di base, essenziale alla formazione dello specialista in ortognatodonzia.  
-Suddivisione delle materie di insegnamento dei tre anni di corso:  
+Dopo l'art. 171, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in terapia fisica e riabilitazione.  
+Scuola di specializzazione in terapia fisica e riabilitazione  
+Art. 172. - La scuola ha sede presso la clinica ortopedica dell'Universita' di Trieste.  
+Il direttore della scuola e' il direttore della clinica ortopedica di Trieste.  
+La durata del corso degli studi e' di tre anni accademici.  
+E' esclusa senza alcuna eccezione l'abbreviazione dei corsi.  
+Possono essere ammessi alla scuola soltanto i candidati che siano in possesso della laurea in medicina e chirurgia.  
+Il numero massimo dei posti disponibili e' di dieci per ognuno dei tre anni di corso.  
+L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami.  
+La Frequenza alle lezioni e alle esercitazioni e' obbligatoria.  
+Per essere ammessi al secondo e terzo anno occorre aver superato tutti gli esami dell'anno precedente.  
+Art. 173. - Le materie di insegnamento sono distribuite nei tre anni di corso secondo questo piano di studi che gli iscritti alla scuola sono tenuti a rispettare:  
 1° Anno:  
-1) embriologia e anatomia dell'apparato stomatognatico;  
-2) fisiologia dell'apparato stomatognatico (1° anno biennale);  
-3) farmacologia clinica;  
-4) patologia odontostomatologica;  
-5) chirurgia odontostomatologica;  
-6) odontoiatria conservativa;  
-7) radiologia odontostomatologica;  
-8) stomatologia preventiva;  
-9) ortognatodonzia (1° anno triennale);  
-10) odontotecnica;  
-esercitazioni cliniche;  
-esercitazioni di laboratorio.  
+1) principi di anatomia funzionale;  
+2) fisiopatologia dell'apparato neuromotore;  
+3) elementi di fisica applicata;  
+4) elettrodiagnostica ed elettromiografia;  
+5) medicina assicurativa;  
+6) psicologia e problemi di psicopatologia della riabilitazione.  
 2° Anno:  
-1) fisiologia dell'apparato stomatognatico (2° anno biennale);  
-2) semeiotica ortognatodontica;  
-3) ortognatodonzia (2° anno triennale);  
-4) cefalometria clinica (1° anno biennale);  
-5) pedodonzia;  
-6) metallurgia e merceologia in ortognatodonzia;  
-7) pediatria auxologica applicata;  
-8) parodontologia;  
-esercitazioni cliniche;  
-esercitazioni di laboratorio.  
+1) semeiotica e clinica delle motulesioni neurologiche;  
+2) semeiotica e clinica delle deformita' e motulesioni ortopediche;  
+3) massoterapia e terapia manuale;  
+4) cinesiologia, cinesiterapia e ginnastica medica;  
+5) idroterapia e balneoterapia;  
+6) climatologia e climatoterapia;  
+7) rieducazione respiratoria;  
+8) riabilitazione nei disturbi del linguaggio;  
+9) rieducazione nei disturbi della visione.  
 3° Anno:  
-1) ortognatodonzia (3° anno triennale);  
-2) cefalometria clinica (2° anno biennale);  
-3) chirurgia ortognatodontica;  
-4) genetica applicata;  
-5) statistica applicata alla ricerca scientifica;  
-6) medicina legale e delle assicurazioni in odontostomatologia; esercitazioni cliniche;  
-esercitazioni di laboratorio;  
-esercitazioni di cefalometria clinica.  
-Ogni iscritto deve provvedere al corredo personale di strumenti.  
-I corsi sono integrati da seminari su argomenti di interesse interdisciplinare.  
-Art. 174. - Al termine di ciascun anno di corso gli allievi devono sostenere un esame di profitto teorico e pratico sulle materie che sono state oggetto di insegnamenti dinanzi ad una apposita commissione di almeno tre membri e presieduta dal direttore della scuola.  
-Per il conseguimento del diploma di specialista in ortognatodonzia l'allievo deve sostenere, dinanzi ad una apposita commissione di sette membri e presieduta dal direttore della scuola, la discussione di una tesi scritta.  
-Le tasse, soprattasse e contributi della scuola di specializzazione in ortognatodonzia sono cosi' fissati:
-
-|  |  |
-| --- | --- |
-| 1° anno | Anni successivi |
+1) elettroterapia;  
+2) terapia con onde corte ed altri mezzi fisici;  
+3) rieducazione motoria e riabilitazione in campo ortopedico e traumatologico;  
+4) rieducazione motoria e riabilitazione in campo neurologico;  
+5) cinesiterapia e riabilitazione nelle malattie internistiche;  
+6) cinesiterapia e riabilitazione in pediatria;  
+7) cinesiterapia e riabilitazione in geriatria;  
+8) ergoterapia e riqualificazione professionale;  
+9) elementi di protesi ed ortesi.  
+Ammontare delle tasse di immatricolazione L. 5.000; di iscrizione L. 100.000; soprattasse esami L. 7.000.  
+  
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 ottobre 1979
+### Dato a Roma, addi' 24 ottobre 1975
 
-PERTINI VALITUTTI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 13 dicembre 1979
+Registrato alla Corte dei conti, addi' 16 giugno 1976
 
-Registro n. 96 Istruzione, foglio n. 187
+Atti di Governo, registro n. 6, foglio n. 78

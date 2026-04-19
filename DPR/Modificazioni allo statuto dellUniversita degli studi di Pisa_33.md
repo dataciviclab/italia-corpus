@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 agosto 1968 n. 1017
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1963 n. 2165
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 agosto 1968 n. 1017
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1963 n. 2165
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -10,15 +10,17 @@ Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,127 +32,88 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-L'art. 102 e' abrogato e sostituito dal seguente:
+Art. 91, relativo al corso di laurea in Scienze biologiche e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente: "Gli studenti possono seguire i corsi di laboratorio biennale ed annuale negli istituti di botanica, di fisiologia, di zoologia ed anatomia comparata, di anatomia umana, di patologia generale, di antropologia di paleontologia, di igiene, di chimica biologica, di genetica e di patologia vegetale e microbiologia agraria".
 
-"La Facolta' di farmacia conferisce:
+Art. 92. - all'elenco degli insegnamenti complementari del corso di laurea in Scienze geologiche e' aggiunto quello di "Prospezioni geochimiche".
 
-a) la laurea in farmacia;
+Art. 110, relativo alle propedeuticita' del corso di laurea in Farmacia, e' modificato nel senso che i primi tre comma sono abrogati e sostituiti dai seguenti "La frequenza del primo corso di Esercitazioni di chimica farmaceutica e tossicologica deve precedere quella del secondo corso e la frequenza del secondo quella del terzo.
 
-b) la laurea in chimica e tecnologia farmaceutiche".
+Analoghe precedenze sono stabilite per i rispettivi esami. L'esame di chimica generale e inorganica deve procedere quelli di chimica organica e di Esercitazioni di chimica farmaceutica e tossicologica primo corso.
 
-Dopo l'art. 110 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in chimica e tecnologia farmaceutiche annesso alla facolta' di farmacia:
+L'esame di chimica organica deve precedere quello di tutte le materie in cui si utilizza la Chimica organica (Chimica farmaceutica;
 
-Laurea in chimica e tecnologia farmaceutiche
+Chimica biologica; Farmacologia e farmacognosia; Tecnica e legislazione farmaceutica; Esercitazioni di chimica farmaceutica e tossicologica secondo corso; Chimica farmaceutica applicata; Chimica bromatologica; Igiene). L'esame di esercitazioni di Chimica farmaceutica e tossicologica secondo corso deve precedere quelli di Chimica bromatologica e di Tecnica e legislazione farmaceutica.
 
-Art. 111. - La durata del corso degli studi per la laurea in chimica e tecnologia farmaceutiche e' di 5 anni, divisi in un biennio ed un triennio.
+L'esame di Anatomia umana deve precedere quello di Fisiologia generale. L'esame di Fisiologia generale e l'esame di Chimica biologica devono precedere quello di Farmacologia e farmacognosia".
 
-Titolo di ammissione: diploma di maturita' classica o scientifica.
+Dopo l'art. 167, e con il conseguente spostamento della successiva numerazione, vengono inseriti i seguenti nuovi articoli relativi alla istituzione del corso di specializzazione in calcolo automatico.
 
-Insegnamenti fondamentali:
+Corso di specializzazione in Calcolo automatico
 
-Biennio:
+Art. 168. - Presso la Facolta' di Scienze matematiche, fisiche e naturali e' istituito un corso di specializzazione in Calcolo automatico. Il corso ha la durata di un anno e si propone di preparare laureati specializzati nel calcolo automatico e nel trattamento delle informazioni.
 
-1) analisi chimico farmaceutica I (analisi qualitativa);
+Art. 169. - Al corso si possono iscrivere coloro che siano in possesso di una laurea rilasciata da qualunque Facolta' universitaria.
 
-\* 2) anatomia umana;
+Il numero massimo degli allievi che possono essere ammessi al corso, e' fissato, anno per anno, dal Consiglio della Facolta', su proposta del direttore del corso.
 
-\* 3) botanica farmaceutica;
+L'ammissione al corso e', pertanto, subordinata ad una graduatoria formulata in base all'esito di un esame orale.
 
-\* 4) chimica fisica;
+Art. 170. - Il direttore del corso e' nominato dal rettore su designazione del Consiglio della Facolta' di Scienze matematiche, fisiche e naturali.
 
-\* 5) chimica generale ed inorganica;
+Gli insegnamenti del corso sono affidati a professori di ruolo, o liberi docenti o assistenti delle Facolta' di scienze matematiche, fisiche e naturali e di Ingegneria, nonche' a persone di riconosciuta competenza in uno degli insegnamenti impartiti nel corso. Le nomine sono approvate dal Consiglio della Facolta' di scienze matematiche, fisiche e naturali su proposta del direttore del corso.
 
-\*\* 6) chimica organica I;
+Art. 171. - Gli insegnamenti impartiti nel corso sono i seguenti:
 
-\* 7) fisica;
+1) Fondamenti di logica e di aritmetica con applicazioni ai calcolatori elettronici a cifra;
 
-8) fisiologia generale;
+2) Struttura dei calcolatori elettronici;
 
-\* 9) istituzioni di matematiche;
+3) Elementi di programmazione generale;
 
-10) microbiologia e igiene;
+4) Linguaggi programmativi particolari;
 
-Triennio:
+5) Analisi numerica.
 
-11) analisi chimico farmaceutica II (analisi quantitativa);
+Gli insegnamenti sono integrativi da esercitazioni pratiche e da seminari.
 
-12) analisi chimico farmaceutica III (analisi dei medicamenti); \* 13) biochimica applicata;
+Ogni iscritto e' tenuto a seguire i corsi ed a partecipare alle altre attivita' del corso.
 
-\* 14) chimica biologica;
+E' data facolta' al direttore all'inizio di ogni anno accademico di rivedere il programma del corso e di sottoporre al Consiglio della Facolta' di scienze matematiche, fisiche e naturali proposte di variazione del medesimo che saranno rese pubbliche.
 
-\* 15) chimica degli alimenti;
+Art. 172. - Al termine del corso, gli iscritti devono sostenere un esame finale consistente in un colloquio su tutti gli argomenti svolti e nella discussione di una tesina orale preparata su argomento scelto d'accordo con uno degli insegnanti del corso.
 
-\* 16) chimica farmaceutica applicata;
+A coloro che hanno superato l'esame finale viene rilasciato un certificato di frequenza e di profitto in calcolo automatico.
 
-\* 17) chimica farmaceutica e tossicologica I;
+Art. 173. - La Commissione d'esami e' composta dagli insegnanti dei corsi di cui all'art. 171 ed e' presieduta dal direttore del corso.
 
-\* 18) chimica farmaceutica e tossicologica II;
-
-\*\* 19) chimica organica II;
-
-\* 20) farmacologia e farmacognosia;
-
-21) impianti dell'industria farmaceutica;
-
-22) laboratorio di preparazione estrattiva e sintetica dei farmaci;
-
-23) metodi fisici in chimica organica;
-
-24) saggi e dosaggi farmacologici;
-
-\* 25) tecnica e legislazione farmaceutica;
-
-Insegnamenti complementari:
-
-\* 1) complementi di chimica tossicologica;
-
-\* 2) farmacologia molecolare;
-
-\* 3) chimica delle fermentazioni e microbiologia industriale;
-
-4) chimica delle sostanze organiche naturali;
-
-\* 5) microchimica;
-
-\* 6) mineralogia;
-
-7) prodotti dietetici;
-
-8) prodotti cosmetici.
-
-Le materie segnate con un asterisco sono comuni alla laurea in farmacia; quelle segnate con due asterischi sono comuni alla laurea in chimica.
-
-Per ottenere l'iscrizione al terzo anno di corso, lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fissati per i due anni precedenti.
-
-Art. 112. - Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superato tutti gli esami delle materie fondamentali e di almeno due materie a scelta fra quelle complementari; deve inoltre presentare una dissertazione scritta, di indole sperimentale, e il titolo di tre argomenti liberamente scelti ed appartenenti a materia differente da quella sulla quale verta la dissertazione scritta.
-
-L'esame di laurea consiste nella discussione pubblica della dissertazione scritta e degli argomenti prescelti.
+Art. 174. I contributi dovuti dagli iscritti sono stabiliti di anno in anno dal Consiglio di amministrazione, su proposta della Facolta'.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato ad Antagnod, addi' 7 agosto 1968
+Dato a Roma, addi' 23 dicembre 1963
 
-SARAGAT
+SEGNI
 
-SCAGLIA
+GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 28 settembre 1968 Atti del Governo, registro n. 222, foglio n. 190. - GRECO
+alla Corte dei conti, addi' 8 febbraio 1964 Atti del Governo, registro n. 180, foglio n. 101. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -158,68 +121,47 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 91, relativo al corso di laurea in Scienze biologiche e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente: "Gli studenti possono seguire i corsi di laboratorio biennale ed annuale negli istituti di botanica, di fisiologia, di zoologia ed anatomia comparata, di anatomia umana, di patologia generale, di antropologia di paleontologia, di igiene, di chimica biologica, di genetica e di patologia vegetale e microbiologia agraria".  
+Art. 92. - all'elenco degli insegnamenti complementari del corso di laurea in Scienze geologiche e' aggiunto quello di "Prospezioni geochimiche".  
+Art. 110, relativo alle propedeuticita' del corso di laurea in Farmacia, e' modificato nel senso che i primi tre comma sono abrogati e sostituiti dai seguenti "La frequenza del primo corso di Esercitazioni di chimica farmaceutica e tossicologica deve precedere quella del secondo corso e la frequenza del secondo quella del terzo.  
+Analoghe precedenze sono stabilite per i rispettivi esami. L'esame di chimica generale e inorganica deve procedere quelli di chimica organica e di Esercitazioni di chimica farmaceutica e tossicologica primo corso.  
+L'esame di chimica organica deve precedere quello di tutte le materie in cui si utilizza la Chimica organica (Chimica farmaceutica;  
+Chimica biologica; Farmacologia e farmacognosia; Tecnica e legislazione farmaceutica; Esercitazioni di chimica farmaceutica e tossicologica secondo corso; Chimica farmaceutica applicata; Chimica bromatologica; Igiene). L'esame di esercitazioni di Chimica farmaceutica e tossicologica secondo corso deve precedere quelli di Chimica bromatologica e di Tecnica e legislazione farmaceutica.  
+L'esame di Anatomia umana deve precedere quello di Fisiologia generale. L'esame di Fisiologia generale e l'esame di Chimica biologica devono precedere quello di Farmacologia e farmacognosia".  
+Dopo l'art. 167, e con il conseguente spostamento della successiva numerazione, vengono inseriti i seguenti nuovi articoli relativi alla istituzione del corso di specializzazione in calcolo automatico.  
   
-L'art. 102 e' abrogato e sostituito dal seguente:  
-"La Facolta' di farmacia conferisce:  
-a) la laurea in farmacia;  
-b) la laurea in chimica e tecnologia farmaceutiche".  
-Dopo l'art. 110 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in chimica e tecnologia farmaceutiche annesso alla facolta' di farmacia:  
+Corso di specializzazione in Calcolo automatico  
   
-Laurea in chimica e tecnologia farmaceutiche  
-  
-Art. 111. - La durata del corso degli studi per la laurea in chimica e tecnologia farmaceutiche e' di 5 anni, divisi in un biennio ed un triennio.  
-Titolo di ammissione: diploma di maturita' classica o scientifica.  
-Insegnamenti fondamentali:  
-Biennio:  
-1) analisi chimico farmaceutica I (analisi qualitativa);  
-\* 2) anatomia umana;  
-\* 3) botanica farmaceutica;  
-\* 4) chimica fisica;  
-\* 5) chimica generale ed inorganica;  
-\*\* 6) chimica organica I;  
-\* 7) fisica;  
-8) fisiologia generale;  
-\* 9) istituzioni di matematiche;  
-10) microbiologia e igiene;  
-Triennio:  
-11) analisi chimico farmaceutica II (analisi quantitativa);  
-12) analisi chimico farmaceutica III (analisi dei medicamenti); \* 13) biochimica applicata;  
-\* 14) chimica biologica;  
-\* 15) chimica degli alimenti;  
-\* 16) chimica farmaceutica applicata;  
-\* 17) chimica farmaceutica e tossicologica I;  
-\* 18) chimica farmaceutica e tossicologica II;  
-\*\* 19) chimica organica II;  
-\* 20) farmacologia e farmacognosia;  
-21) impianti dell'industria farmaceutica;  
-22) laboratorio di preparazione estrattiva e sintetica dei farmaci;  
-23) metodi fisici in chimica organica;  
-24) saggi e dosaggi farmacologici;  
-\* 25) tecnica e legislazione farmaceutica;  
-Insegnamenti complementari:  
-\* 1) complementi di chimica tossicologica;  
-\* 2) farmacologia molecolare;  
-\* 3) chimica delle fermentazioni e microbiologia industriale;  
-4) chimica delle sostanze organiche naturali;  
-\* 5) microchimica;  
-\* 6) mineralogia;  
-7) prodotti dietetici;  
-8) prodotti cosmetici.  
-Le materie segnate con un asterisco sono comuni alla laurea in farmacia; quelle segnate con due asterischi sono comuni alla laurea in chimica.  
-Per ottenere l'iscrizione al terzo anno di corso, lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fissati per i due anni precedenti.  
-Art. 112. - Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superato tutti gli esami delle materie fondamentali e di almeno due materie a scelta fra quelle complementari; deve inoltre presentare una dissertazione scritta, di indole sperimentale, e il titolo di tre argomenti liberamente scelti ed appartenenti a materia differente da quella sulla quale verta la dissertazione scritta.  
-L'esame di laurea consiste nella discussione pubblica della dissertazione scritta e degli argomenti prescelti.  
+Art. 168. - Presso la Facolta' di Scienze matematiche, fisiche e naturali e' istituito un corso di specializzazione in Calcolo automatico. Il corso ha la durata di un anno e si propone di preparare laureati specializzati nel calcolo automatico e nel trattamento delle informazioni.  
+Art. 169. - Al corso si possono iscrivere coloro che siano in possesso di una laurea rilasciata da qualunque Facolta' universitaria.  
+Il numero massimo degli allievi che possono essere ammessi al corso, e' fissato, anno per anno, dal Consiglio della Facolta', su proposta del direttore del corso.  
+L'ammissione al corso e', pertanto, subordinata ad una graduatoria formulata in base all'esito di un esame orale.  
+Art. 170. - Il direttore del corso e' nominato dal rettore su designazione del Consiglio della Facolta' di Scienze matematiche, fisiche e naturali.  
+Gli insegnamenti del corso sono affidati a professori di ruolo, o liberi docenti o assistenti delle Facolta' di scienze matematiche, fisiche e naturali e di Ingegneria, nonche' a persone di riconosciuta competenza in uno degli insegnamenti impartiti nel corso. Le nomine sono approvate dal Consiglio della Facolta' di scienze matematiche, fisiche e naturali su proposta del direttore del corso.  
+Art. 171. - Gli insegnamenti impartiti nel corso sono i seguenti:  
+1) Fondamenti di logica e di aritmetica con applicazioni ai calcolatori elettronici a cifra;  
+2) Struttura dei calcolatori elettronici;  
+3) Elementi di programmazione generale;  
+4) Linguaggi programmativi particolari;  
+5) Analisi numerica.  
+Gli insegnamenti sono integrativi da esercitazioni pratiche e da seminari.  
+Ogni iscritto e' tenuto a seguire i corsi ed a partecipare alle altre attivita' del corso.  
+E' data facolta' al direttore all'inizio di ogni anno accademico di rivedere il programma del corso e di sottoporre al Consiglio della Facolta' di scienze matematiche, fisiche e naturali proposte di variazione del medesimo che saranno rese pubbliche.  
+Art. 172. - Al termine del corso, gli iscritti devono sostenere un esame finale consistente in un colloquio su tutti gli argomenti svolti e nella discussione di una tesina orale preparata su argomento scelto d'accordo con uno degli insegnanti del corso.  
+A coloro che hanno superato l'esame finale viene rilasciato un certificato di frequenza e di profitto in calcolo automatico.  
+Art. 173. - La Commissione d'esami e' composta dagli insegnanti dei corsi di cui all'art. 171 ed e' presieduta dal direttore del corso.  
+Art. 174. I contributi dovuti dagli iscritti sono stabiliti di anno in anno dal Consiglio di amministrazione, su proposta della Facolta'.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato ad Antagnod, addi' 7 agosto 1968
+### Dato a Roma, addi' 23 dicembre 1963
 
-SARAGAT SCAGLIA
+SEGNI GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 28 settembre 1968
+Registrato alla Corte dei conti, addi' 8 febbraio 1964
 
-Atti del Governo, registro n. 222, foglio n. 190. - GRECO
+Atti del Governo, registro n. 180, foglio n. 101. - VILLA

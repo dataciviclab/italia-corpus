@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 giugno 1978 n. 1046
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1985 n. 799
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 giugno 1978 n. 1046
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1985 n. 799
+================================================================
 
 Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare una donazione.
 ------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1046. Decreto del Presidente della Repubblica 26 giugno 1978, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare la donazione in favore del dipendente sottocomitato di Incisa Valdarno (Firenze), del diritto di sopraelevazione di un piano nell'immobile sito in detto comune alla piazza S. Lucia, distinto in catasto alla partita 86, foglio 19, part. 244, disposta con [deliberazione della giunta comunale 26 settembre 1966, n. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:giunta.comune.:delibera:1966-09-26;148), ratificata dal consiglio comunale con atto 27 maggio 1967, n. 45 e con deliberazione dello stesso [consiglio comunale 30 aprile 1968, n. 32](http://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.comune.::1968-04-30;32), approvata dalla giunta provinciale amministrativa di Firenze il 13 luglio 1968.  
+799. Decreto del Presidente della Repubblica 2 settembre 1985, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare la donazione - consistente nella somma di L. 150.000.000, che dovra' essere utilizzata, secondo espressa volonta' del donante, per l'acquisto di un apparecchio per analisi cliniche del tipo Astra 8 della Beckman Analytical S.p.a., da destinarsi al gruppo donatori sangue della C.R.I., sito in Roma, via Ramazzini n. 31, sul quale dovra' essere apposta una targa a ricordo dell'intervento del donante in favore della C.R.I. - disposta dalla Cassa di risparmio di Roma, con atto 17 giugno 1983 n. 2406 di repertorio, a rogito dott.ssa Marina Fanfani, notaio in Roma, e registrato a Roma in data 27 giugno 1983 al n. 25100.   
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 24 aprile 1979  
-Registro n. 3 Sanita', foglio n. 305
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 23 dicembre 1985   
+Registro n. 10 Sanita', foglio n. 307

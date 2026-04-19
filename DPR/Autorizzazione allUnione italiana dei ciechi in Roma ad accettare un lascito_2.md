@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1982 n. 101
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 luglio 1978 n. 445
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1982 n. 101
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 luglio 1978 n. 445
+=============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un lascito.
 --------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-101. Decreto del Presidente della Repubblica 8 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il lascito, consistente in un appartamento sito in Milano, via Castelmorone n. 7, distinto nel nuovo catasto edilizio urbano alla partita 53025, foglio 355, mappale 439 sub 29, del valore attribuito di L. 3.300.000, ritenuto congruo dall'ufficio tecnico erariale di Milano, disposto dalla sig.ra Bernardi Alessandrina ved. Zanfrognini con testamento pubblico 5 luglio 1973, redatto a rogito dott. Gazzaniga Giuseppe, notaio in Milano, e dallo stesso pubblicato in data 8 aprile 1974, n. 810822 di repertorio e n. 8917 di raccolta, registrato a Milano il 10 aprile 1974 al n. 6860 serie D.  
+445. Decreto del Presidente della Repubblica 13 luglio 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare col beneficio d'inventario la quota di 1/16 del lascito disposto dalla sig.ra Agata Consoli ved. Torrese, con testamento olografo del 22 giugno 1975, pubblicato a rogito notaio avv.  
+Giovanni Donato in data 1 luglio 1975, n. 90953 di repertorio, registrato ad Imperia il 9 luglio 1975 al n. 1968, vol. 63, consistente in titoli di reddito fisso, da obbligazioni, da azioni, da conto corrente bancario, da monete d'oro e d'argento, oltre una cassetta di sicurezza, per un valore complessivo di L. 76.771.716 (quota di 1/16 - L. 4.798.323).  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 20 marzo 1982  
-Registro n. 3 Presidenza, foglio n. 54
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 8 agosto 1978  
+Registro n. 6 Presidenza, foglio n. 42

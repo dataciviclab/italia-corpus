@@ -1,90 +1,104 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1951 n. 653
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1981 n. 194
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1951 n. 653
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1981 n. 194
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, numero 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con i [regi decreti 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-26;1734); [26 ottobre 1940, n. 2069](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2069); [4 maggio 1942, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-05-04;565); [24 luglio 1942, n. 949](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-24;949); [24 agosto 1942, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-08-24;1098), e [24 ottobre 1942, n. 1672, e con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1672) [12 aprile 1947, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-12;461) e [31 dicembre 1947, n. 1758, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1758) [24 dicembre 1948, n. 1619](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-12-24;1619); [18 luglio 1949, n. 882](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-07-18;882); [20 ottobre 1949, n. 989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;989); [20 ottobre 1949, numero 991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;991); [30 ottobre 1949, n. 1152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1152); [20 ottobre 1949, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;1178), e [11 giugno 1950, n. 622](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;622);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' cosi' ulteriormente modificato:  
-Attuale art. 137. - All'elenco degli insegnamenti della Scuola d'ingegneria aeronautica e' aggiunto quello di:  
-15. Balistica e armi aeronautiche.  
-All'art. 263 relativo alla Scuola di perfezionamento in scienze etnologiche, l'insegnamento di esercitazioni di etnografia e' sostituito con quello di "etnografia museografica" e sono aggiunti i seguenti insegnamenti complementari:  
-4. Psicologia.  
-5. Linguistica.  
-6. Sociologia.  
-All'art. 264 relativo ai titoli di ammissione alla predetta Scuola di perfezionamento in scienze etnologiche e' aggiunto quanto appresso: "e i laureati dell'Istituto superiore orientale di Napoli".  
-All'art. 265 e' aggiunto il seguente comma:  
-"Il corso degli studi per ciascun iscritto e' stabilito dal Consiglio della scuola in base ai suoi studi precedenti e al "ramo in cui intende specializzarsi".  
-L'art. 267 e' sostituito dal seguente:  
-"Ai fini del conseguimento del diploma di perfezionamento in scienze etnologiche, gli iscritti alla Scuola debbono aver superato gli esami degli insegnamenti biennali e di almeno tre fra gli insegnamenti annuali.  
-Essi debbono inoltre presentare una dissertazione in una delle materie comprese fra gli insegnamenti costitutivi della Scuola".  
-E' abrogato l'art. 367 contenente la seguente norma:  
-"Il direttore della Scuola di medicina del lavoro e' il preside della Facolta' di medicina e chirurgia".  
-Dopo l'art. 383 vengono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di perfezionamento in cardiologia, con il conseguente spostamento della numerazione degli articoli successivi.  
-  
-Scuola di perfezionamento in cardiologia.  
-  
-Art. 384. - E' istituita presso la clinica medica dell'Universita' di Roma, la Scuola di perfezionamento in cardiologia.  
-Art. 385. - Alla Scuola viene assegnato un corrispondente reparto clinico.  
-Art. 386. - Il direttore della Scuola e' il direttore della clinica medica.  
-Il Consiglio della scuola si compone dei professori che vi tengono gli insegnamenti prescritti ed e' presieduto dal direttore.  
-Art. 387. - Durante il corso degli studi della Scuola, che ha la durata di due anni, vengono quotidianamente tenute, al letto del malato, esercitazioni di semeiotica clinica, di diagnostica differenziale e di terapia, mentre nei laboratori si svolgono esercitazioni teorico-pratiche e di elettrocardiografia, di radiologia e di fisiopatologia sperimentale.  
-Art. 388. - La frequenza nei reparti clinici e negli ambulatori, alle lezioni e conferenze ed alle esercitazioni tecnico-pratiche e' obbligatoria: i perfezionandi prestano servizio di assistenti nel reparto clinico di cardiologia.  
-Art. 389. - Alla Scuola non sono ammessi, ogni anno, piu' di quattro medici, che abbiano conseguita la laurea in Italia; essi non potranno essere iscritti a nessun'altra scuola di perfezionamento contemporaneamente.  
-A nessun titolo sono ammesse abbreviazioni di corso.  
-Nel caso che il numero degli aspiranti alla iscrizione mia superiore a quattro si provvede alla scelta da parte della Direzione in base ai titoli di studio e ad esami scritti ed eventualmente anche orale a giudizio del direttore.  
-Art. 390. - Il termine della presentazione delle domande d'iscrizione alla Scuola e' stabilito inderogabile mente al 30 novembre di ogni anno.  
-Art. 391. - Alla fine di ciascun anno scolastico, i perfezionandi che abbiano ottenuto la firma di frequenza, dovranno sostenere gli esami di profitto il cui superamento e' condizione necessaria per la iscrizione all'anno successivo e per quelli che sono stati iscritti a quest'ultimo, per accedere all'esame di diploma.  
-Art. 392. - Alla fine del secondo anno del corso degli studi ha luogo l'esame di diploma consistente nella presentazione e discussione scritta su argomento di patologia cardiovascolare concordato fra il diplomando e il direttore della Scuola all'inizio del secondo anno. La dissertazione deve essere approvata dal direttore stesso e depositata presso la direzione almeno quindici giorni prima dell'esame.  
-Art. 393. - Le Commissioni per gli esami di profitto e di diploma sono costituite a norma degli articoli 301 e 302 dello statuto.  
-  
-Programma del corso.  
-  
-Lezioni:  
-1. Patologia e clinica cardiologica: due ore settimanali.  
-2. Semeiotica clinica cardiologica: un'ora settimanale.  
-3. Semeiotica strumentale cardiologica: un'ora settimanale.  
-4. Terapia medica cardiologica: un'ora settimanale.  
-5. Dimostrazioni di anatomia patologica: un'ora settimanale.  
-6. Dimostrazioni di radiologia cardiologica: un'ora settimanale.  
-7. Dimostrazioni di fisiopatologia cardiologica: un'ora settimanale.  
-Conferenze si argomenti di:  
-1. Fisica ed elettrocardiografia superiore.  
-2. Fisiologia.  
-3. Farmacologia.  
-4. Medicina legale.  
-5. Lotta sociale contro il reumatismo e le cardiopatie.  
-Esami di primo anno: anatomia e fisiologia normale e patologia del sistema cardiovascolare, semeiotica cardiologica clinica e strumentale.  
-Esami del secondo anno: elettrocardiografia superiore, clinica e terapia cardiologica.  
-Esame di diploma.  
+Gli articoli da 916 a 928, relativi alla scuola speciale per tecnici di audiometria, sono sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi.  
+Scuola speciale di preparazione per tecnici di audiometria  
+Art. 916. - E' istituita, ai sensi dell'art. 20 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una scuola speciale per tecnici di audiometria che ha sede presso l'istituto di clinica otorinolaringoiatrica dell'Universita'.  
+Art. 917. - La durata del corso degli studi della scuola per tecnici di audiometria e' di tre anni. L'indirizzo e' teorico pratico.  
+Il numero massimo complessivo degli iscritti alla scuola e' di quindici (cinque per anno di corso).  
+Art. 918. - Possono essere ammessi alla scuola coloro che siano in possesso del titolo di studio di durata quinquennale o quadriennale integrato con il corso di cui all'[art. 1 della legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1), previsto per l'ammissione all'Universita' o Istituto di istruzione universitaria.  
+Gli aspiranti debbono nei termini regolamentari, presentare apposita domanda su carta legale diretta al rettore e corredata dai prescritti documenti e sostenere un esame di ammissione che avra' luogo nei giorni stabiliti dal rettore con apposito manifesto.  
+Le domande di iscrizione ad anni successivi al primo vanno presentate nei termini regolamentari.  
+Art. 919. - Alla scuola si accede previo esame di cultura generale su argomenti facenti parte dei normali programmi dei licei o degli istituti di istruzione secondaria, con particolare riguardo alla parte dell'insegnamento di fisica acustica.  
+La commissione giudicatrice viene nominata dal preside della facolta' di medicina e chirurgia, ed e' composta dal direttore della scuola, presidente, e da due membri scelti fra i docenti della scuola.  
+Art. 920. - Il direttore della scuola e' un professore di ruolo degli insegnamenti che afferiscono all'istituto policattedra di clinica otorinolaringoiatrica dell'Universita' di Roma.  
+Gli incarichi di insegnamento sono conferiti dal rettore, su proposta del consiglio di facolta', udito il direttore della scuola.  
+Art. 921. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria.  
+La data di inizio e termine delle lezioni sono di regola uguali a quelle fissate per l'anno accademico. Tali date, tuttavia, possono essere spostate per ragioni speciali inerenti la natura dei corsi.  
+Art. 922. - Le materie di insegnamento sono le seguenti:  
+1°Anno:  
+1) anatomia degli organi e dei sistemi audio-fono articolari;  
+2) fisiologia degli organi e dei sistemi audio-fono articolari;  
+3) elementi di fisica acustica e tecniche di fonometria;  
+4) psicologia generale;  
+5) elementi di audiologia;  
+6) elementi di fonetica e linguistica.  
+2° Anno:  
+7) tecniche audiometriche I;  
+8) audiometria infantile;  
+9) neuropsichiatria infantile;  
+10) tecniche di esplorazione vestibolare;  
+11) audiometria di massa e prevenzione della sordita'.  
+3° Anno:  
+12) tecniche audiometriche II;  
+13) patologia dell'udito, del linguaggio, dell'organo dell'equilibrio;  
+14) tecniche di protesizzazione acustica;  
+15) tecniche di audiometria obiettiva;  
+16) elementi di logopedia.  
+Art. 923. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo per gli allievi della frequenza obbligatoria ai fini dell'apprendimento per un periodo di tre anni nei reparti dell'istituto di clinica otorinolaringoiatrica.  
+La frequenza viene comprovata dalla attestazione rilasciata dagli insegnanti sul libretto di iscrizione.  
+L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.  
+Art. 924. - Le commissioni per gli esami di profitto e di diploma sono nominate dal preside della facolta', su proposta del direttore della scuola.  
+Le commissioni per gli esami di profitto sono composte da tre membri: il direttore della scuola, presidente e da due insegnanti della scuola stessa.  
+La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro insegnanti della scuola stessa o da altri docenti.  
+Ogni commissario ha a sua disposizione 10 (dieci) punti.  
+Gli esami di profitto, che consistono in prove teoriche e pratiche, si sostengono in un unico gruppo di materie per ciascun anno di corso.  
+L'esame di diploma consiste nella discussione di una tesi scritta su argomento riguardante le materie di insegnamento, approvata dal direttore dalla scuola, ed in una prova pratica stabilita dalla commissione esaminatrice.  
+I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola, ma se al secondo anno non sia loro riconosciuta la idoneita', saranno senz'altro esclusi da ulteriori prove.  
+Agli allievi che avranno superato l'esame finale verra' rilasciato il diploma di tecnico di audiometria.  
+Art. 925. - Per essere ammessi a frequentare il secondo e rispettivamente il terzo anno di corso gli iscritti debbono aver superato gli esami del primo e rispettivamente del secondo anno.  
+Alla fine del terzo anno di corso, per essere ammessi all'esame di diploma, gli iscritti debbono aver superato tutti gli esami prescritti.  
+Art. 926. - Gli esami di profitto e di diploma si danno in due sessioni: la prima, estiva, ha inizio subito dopo la chiusura annuale dei corsi e la seconda, autunnale, un mese innanzi il principio del nuovo anno accademico.  
+Art. 927. - Il consiglio di amministrazione dell'Universita', su proposta della direzione della scuola, approvata dal consiglio di facolta', stabilira' di anno in anno l'ammontare dei contributi.  
+Al funzionamento della scuola si provvedera' con i proventi delle tasse e soprattasse, dovute dagli iscritti nella misura prevista dalla legge vigente per gli studenti della facolta' di medicina e chirurgia, e con eventuali elargizioni o contributi di enti o di privati.  
+Norma transitoria. - Coloro che abbiano gia' conseguito il diploma di tecnico di audiometria il cui corso di studi sia stato della durata biennale presso la scuola speciale dell'Universita' di Roma, possono ottenere la iscrizione al terzo anno per conseguire, previo superamento degli insegnamenti prescritti a tale 3° anno, il diploma di durata triennale con la discussione di una nuova tesi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 maggio 1951
+### Dato a Roma, addi' 19 gennaio 1981
 
-EINAUDI GONELLA
+PERTINI BODRATO
 
-Visto, il Guardasigilli: PICCIONI
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 11 agosto 1951
+Registrato alla Corte dei conti, addi' 30 aprile 1981
 
-Atti del Governo, registro n. 41, foglio n. 40. - FRASCA
+Registro n. 38 Istruzione, foglio n. 1

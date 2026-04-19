@@ -1,127 +1,105 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 506
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 784
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 506
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 784
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923), e modificato con [regio decreto 20 aprile 1930, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-04-20;1090), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
-
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
+  
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
   
 Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 50. - E' modificato nel senso che la facolta' di scienze matematiche, fisiche e naturali rilascia anche la laurea in chimica industriale.  
+Dopo l'art. 54, e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo, concernente l'istituzione del corso di laurea in chimica industriale.  
   
-Dopo l'art. 186, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in patologia generale.  
-Scuola di specializzazione in patologia generale  
-Art. 187. - E' istituita presso l'Universita' di Messina la scuola di specializzazione in patologia generale che conferisce il diploma di specialista in patologia generale.  
-Art. 188. - La direzione della scuola ha sede presso l'istituto pluridisciplinare di patologia generale.  
-Art. 189. - La scuola ha lo scopo di allargare ed approfondire sul piano scientifico la cultura di coloro che si dedicano allo studio di questa disciplina e di fornire sul piano tecnico una preparazione pratica specifica come qualificazione professionale.  
-Art. 190. - La durata del corso e' di 4 (quattro) anni e non e' suscettibile di abbreviazione, secondo le vigenti norme CEE.  
-Art. 191. - Il numero degli iscritti e' di trenta per ogni anno e complessivamente di centoventi per l'intero corso di studi.  
-Art. 192. - Alla scuola sono ammessi i laureati in medicina e chirurgia, per le scuole relative a specializzazioni mediche, ai quali, dopo aver superato l'esame finale, sara' rilasciato il diploma di "specialista in patologia generale".  
-Alla scuola stessa vengono ammessi anche i laureati in medicina veterinaria, in scienze biologiche, in scienze naturali, in farmacia, in chimica ed in tecnologia farmaceutiche, ai quali, dopo aver superato l'esame finale, sara' rilasciato un diploma di "specialista in patologia generale con indirizzo tecnico".  
-E' richiesto il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti, ove prescritto.  
-Art. 193. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione dei seguenti titoli:  
-a) la tesi nella disciplina attinente alla specializzazione;  
-b) il voto di laurea;  
-c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
-d) le pubblicazioni nelle predette materie.  
-Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale del 16 settembre 1982 (Gazzetta Ufficiale del 6 ottobre 1982). Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizioni utili nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
-Art. 194. - Le materie di insegnamento sono le seguenti:  
+Corso di laurea in chimica industriale  
   
-I BIENNIO  
-(propedeutico)  
-1° Anno:  
-1) istituzioni di patologia generale;  
-2) patologia delle infezioni;  
-3) epidemiologia e patologia ambientale;  
-4) immunologia;  
-5) parassitologia e diagnostica parassitologica.  
-2° Anno:  
-6) radiobiologia e patologia da radiazioni;  
-7) oncologia generale;  
-8) immunopatologia e analisi immunologiche;  
-9) analisi chimico-cliniche;  
-10) fisiopatologia generale primo corso (metabolismo e sistema endocrino).  
-  
-II BIENNIO  
-(per il conseguimento del diploma di "specialista in patologia generale")  
-3° Anno:  
-11) diagnostica di laboratorio di citopatologia e citogenetica;  
-12) diagnostica di laboratorio, di batteriologia e virologia;  
-13) fisiopatologia generale secondo corso (termoregolazione, sistema cardiocircolatorio, sangue ed organi emopoietici).  
-4° Anno:  
-14) diagnostica oncologica;  
-15) diagnostica istopatologica;  
-16) diagnostica ultrastrutturale;  
-17) fisiopatologia generale terzo corso (fegato, sistema digerente, renale, respiratorio).  
-  
-II BIENNIO  
-(per il conseguimento del diploma di "specialista in patologia generale" con indirizzo tecnico)  
-3° Anno:  
-11) tecniche di batteriologia;  
-12) tecniche di virologia;  
-13) tecniche di citologia e citogenetica.  
-4° Anno:  
-14) statistica e biometria;  
-15) colture in vitro: aspetti biologici ed applicativi;  
-16) tecniche ematologiche;  
-17) tecniche istologiche ed ultrastrutturali.  
-Tutte le discipline previste in questo statuto afferiscono alla facolta' di medicina e chirurgia, corso di laurea in medicina e chirurgia.  
-Art. 195. - La frequenza ai corsi e' obbligatoria. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione di esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso.  
-Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
-Art. 196. - Le attivita' pratiche consistono nelle esercitazioni che ciascun candidato sara' invitato ad effettuare nei laboratori di: immunologia, micologia, batteriologia, biochimica, biofisica, parassitologia, oncologia, citopatologia, virologia, istopatologia, con esecuzione, sotto la guida del docente, delle principali reazioni di laboratorio.  
-Le attivita' pratiche avranno orario settimanale di almeno tre ore consecutive al giorno.  
-Le modalita' di frequenza delle attivita' didattiche e pratiche sono documentate in appositi registri con la firma autografa dello specializzando convalidata dal docente ora per ora fino al raggiungimento del numero di ore di frequenza minima che consenta l'ottenimento della firma di frequenza per ciascuna disciplina.  
-La frequenza necessaria per sostenere gli esami viene stabilita in 50 ore per le lezioni teoriche di ciascuna disciplina, in 60 ore per le esercitazioni pratiche ed in 40 ore per i seminari.  
-Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinente alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.  
-Art. 197. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio delle scuole di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.  
-A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.  
-Art. 198. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
-Art. 199. - Per ciascuna scuola di specializzazione, anche se comprendente piu' indirizzi, e' costituito un unico consiglio presieduto da un direttore. Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).  
-Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.  
-La direzione della scuola e' affidata a professore ordinario o straordinario che insegni anche nella scuola stessa. In caso di motivato impedimento, la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+Art. 55. - La durata del corso degli studi per la laurea in chimica industriale e' di cinque anni, divisi in un biennio di studi propedeutici ed in un triennio di studi di applicazione.  
+Titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge.  
+Il biennio di studi propedeutici e' comune a quello degli altri due indirizzi di laurea in chimica.  
+Triennio di applicazione.  
+Sono insegnamenti fondamentali:  
+1) Chimica fisica (biennale);  
+2) Fisica tecnica;  
+3) Chimica industriale (biennale);  
+4) Esercitazioni di analisi chimica quantitativa;  
+5) Esercitazioni di chimica fisica (biennale);  
+6) Esercitazioni di chimica industriale (biennale);  
+7) Impianti industriali chimici con elementi di disegno (biennale);  
+8) Elementi di diritto, di economia e di legislazione sociale.  
+Sono insegnamenti complementari:  
+1) Chimica inorganica superiore;  
+2) Chimica organica superiore;  
+3) Chimica organica applicata;  
+4) Petrolchimica e tecnologia dei prodotti petroliferi;  
+5) Tecnologie elettrochimiche;  
+6) Siderurgia e metallurgia;  
+7) Chimica delle materie plastiche;  
+8) Chimica applicata ai materiali da costruzione;  
+9) Chimica degli idrocarburi naturali e derivati;  
+10) Tecnologia delle sostanze coloranti e tecnica tintoria;  
+11) Chimica degli intermedi;  
+12) Chimica delle sostanze coloranti;  
+13) Chimica dei composti metallo-organici;  
+14) Tecnologie chimiche speciali;  
+15) Elettrotecnica (corso speciale per chimici industriali);  
+16) Chimica e tecnologia degli alimenti;  
+17) Chimica e tecnologia del vetro e dei prodotti ceramici;  
+18) Chimica teorica;  
+19) Chimica fisica tecnica;  
+20) Disegno (corso speciale per chimici industriali);  
+21) Chimica fisica organica;  
+22) Scienza dei metalli;  
+23) Elettrochimica industriale;  
+24) Chimica delle radiazioni;  
+25) Chimica merceologica;  
+26) Fisiologia ed igiene del lavoro industriale;  
+27) Biochimica applicata.  
+28) Esercitazioni di chimica organica ed analisi organica;  
+29) Chimica analitica strumentale con esercitazioni;  
+30) Misure elettriche (corso speciale per chimici industriali);  
+31) Lingua straniera tecnica;  
+32) Chimica delle fermentazioni e batteriologia industriale;  
+33) Analisi matematica I;  
+34) Tecnologie microbiologiche;  
+35) Analisi matematica II;  
+36) Geometria I;  
+37) Meccanica razionale.  
+Per l'insegnamento di "Analisi matematiche" vale la norma stabilita per il biennio propedeutico per la laurea in ingegneria. I corsi biennali constano di una prima parte e di una seconda parte, dettate annualmente e con esame distinto; ogni prima parte e' propedeutica alla seconda parte. Per ottenere l'iscrizione al triennio di applicazione lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti del biennio propedeutico. Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali del triennio di applicazione ed almeno in quattro da lui scelti fra i complementari. La scelta degli insegnamenti complementari e' regolata dalle norme dell'art. 54 del presente statuto.  
+Alla fine di ogni corso di esercitazioni che costituisce di per se' insegnamento fondamentale lo studente deve sostenere una prova pratica con relazione scritta e discussione orale. La prova di "Preparazioni chimiche" deve precedere quella di analisi chimica qualitativa e questa quella di analisi chimica quantitativa. L'esame di laurea in chimica industriale consta della discussione di una dissertazione scritta e della discussione di due argomenti orali scelti dal candidato in materie diverse da quelle in cui verte la dissertazione scritta.  
+I laureati in chimica potranno essere ammessi al quarto anno di corso per la laurea in chimica industriale e dovranno seguire i corsi e sostenere gli esami delle seguenti materie fondamentali:  
+1) Chimica industriale (biennale);  
+2) Impianti industriali chimici con elementi di disegno (biennale);  
+3) Elementi di diritto, di economia e legislazione sociale;  
+4) Fisica tecnica;  
+5) Esercitazioni di chimica industriale (biennale).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 luglio 1983
+### Dato a Roma, addi' 2 ottobre 1972
 
-PERTINI FALCUCCI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 22 settembre 1983
+Registrato alla Corte dei conti, addi' 11 dicembre 1972
 
-Registro n. 62 Istruzione, foglio n. 304
+Atti del Governo, registro n. 254, foglio n. 6. - CARUSO

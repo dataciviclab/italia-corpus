@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 587
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1985 n. 458
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 587
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1985 n. 458
 =============================================================
 
 Autorizzazione alla Fondazione italiana per la ricerca sul cancro, in Milano, ad accettare un legato.
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-587. Decreto del Presidente della Repubblica 28 giugno 1986, col quale, sulla proposta del Ministro della sanita', la Fondazione italiana per la ricerca sul cancro, in Milano, viene autorizzata ad accettare il legato, consistente nella somma di L. 30.000.000, disposto dal sig. Bruno Casotti con testamento olografo 15 maggio 1980, pubblicato in data 21 ottobre 1983, n. 19089 di repertorio, a rogito dott. Sandro Angelini, notaio in Brescia, registrato a Brescia in data 9 novembre 1983 al n. 7273.   
+458. Decreto del Presidente della Repubblica 13 maggio 1985, col quale, sulla proposta del Ministro della sanita', la Fondazione italiana per la ricerca sul cancro, in Milano, viene autorizzata ad accettare il legato, consistente nella nuda proprieta' di un appartamento sito in Monza, via Massimo d'Azeglio, 15, e nella piena proprieta' di due appartamenti siti in Monza, via Cantore, 12, del valore complessivo di L. 194.085.000, disposto dalla sig.ra Elena Citterio con testamento olografo 3 settembre 1981, pubblicato in data 24 settembre 1981, n. 7971 di repertorio, a rogito dott.  
+Carlo Maria Giovenzane, notaio in Monza, registrato a Monza in data 1 ottobre 1981 al n. 10398.  
   
-Visto, il Guardasigilli: ROGNONI   
-Registrato alla Corte dei conti, addi' 18 settembre 1986   
-Registro n. 9 Sanita', foglio n. 153
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 24 agosto 1985  
+Registro n. 7 Sanita', foglio n. 376

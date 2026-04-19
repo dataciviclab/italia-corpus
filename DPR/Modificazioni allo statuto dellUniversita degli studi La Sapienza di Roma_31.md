@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 445
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 gennaio 1986 n. 245
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 445
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 gennaio 1986 n. 245
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 ------------------------------------------------------------------------------
@@ -22,9 +22,9 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Veduta la [legge 30 ottobre 1931, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-10-30;615);
+Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615.
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
 Veduto il parere del Consiglio universitario nazionale;
 
@@ -35,27 +35,42 @@ Decreta:
 
 Lo statuto dell'Universita' "La Sapienza" di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 1
+------
 
   
+Nell'art. 46, relativo al corso di laurea in economia e commercio, nell'elenco degli insegnamenti complementari sono inseriti i seguenti insegnamenti:  
+analisi e contabilita' dei costi;  
+economia degli impianti industriali;  
+storia regionale dell'eta' moderna.  
+
+Art. 2
+------
+
   
-Art. 69 - nell'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono inseriti i seguenti insegnamenti: storia delle tecniche artistiche;   
-storia del disegno, dell'incisione e della grafica.   
-Art. 82 - nell'elenco degli insegnamenti complementari del corso di laurea in sociologia sono inseriti gli insegnamenti di "sociologia dell'amministrazione" e "analisi delle classi e dei gruppi sociali".   
-Nell'elenco degli insegnamenti complementari del corso di laurea in psicologia e' inserito il seguente insegnamento:   
-psicologia dell'apprendimento.   
+Nell'art. 92, relativo al corso di laurea in medicina e chirurgia, nell'elenco degli insegnamenti complementari sono inseriti i seguenti insegnamenti:  
+patologia clinica;  
+semeiotica neurologica.  
+
+Art. 3
+------
+
+  
+Nell'art. 104, relativo al corso di laurea in chimica, nell'elenco degli insegnamenti complementari degli indirizzi organico-biologico e inorganico-chimico-fisico e' inserito l'insegnamento di "tecniche speciali organiche".  
+Nell'art. 105, relativo al corso di laurea in chimica industriale, nell'elenco degli insegnamenti complementari e' inserito l'insegnamento di "tecniche speciali organiche".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 maggio 1983
+### Dato a Roma, addi' 30 gennaio 1986
 
-PERTINI FALCUCCI
+COSSIGA
 
-Visto, il Guardasigilli: DARIDA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 17 agosto 1983
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registro n. 59 Istruzione, foglio n. 94
+Registrato alla Corte dei conti, addi' 19 maggio 1986
+
+Registro n. 39 Istruzione, foglio n. 155

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 febbraio 1983 n. 100
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1986 n. 161
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 febbraio 1983 n. 100
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1986 n. 161
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -24,9 +24,9 @@ Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http:
 
 Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata [legge n. 615/1981](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;615);
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
-Veduti i pareri espressi al riguardo dal Consiglio universitario nazionale;
+Veduto il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
@@ -39,22 +39,21 @@ Articolo unico
 --------------
 
   
-Art. 132 - nell'elenco degli insegnamenti complementari, relativo ai vari corsi di laurea della facolta' di ingegneria, sono inclusi i seguenti nuovi insegnamenti:  
-azionamenti elettrici;  
-geofisica applicata;  
-metodi nucleari di analisi tecnologiche;  
-tecnica aerospaziale.  
+Nell'art. 78, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
+riabilitazione neurologica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 febbraio 1983
+### Dato a Roma, addi' 23 gennaio 1986
 
-PERTINI FALCUCCI
+COSSIGA
 
-Visto, il Guardasigilli: DARIDA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 26 marzo 1983
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registro n. 22 Istruzione, foglio n. 331
+Registrato alla Corte dei conti, addi' 16 aprile 1986
+
+Registro n. 28 Istruzione, foglio n. 238

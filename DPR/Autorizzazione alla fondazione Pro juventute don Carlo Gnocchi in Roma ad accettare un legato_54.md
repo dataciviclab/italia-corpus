@@ -1,17 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 dicembre 1981 n. 1006
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 140
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 dicembre 1981 n. 1006
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 140
+===============================================================
 
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi" in Roma ad accettare un legato.
-------------------------------------------------------------------------------------------------
+Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
+--------------------------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-1006. Decreto del Presidente della Repubblica 11 dicembre 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in titoli obbligazionari IRI del valore di L. 10.000.000, disposto a favore dalla sig.ra Cantini Elisabetta ved. Bardelstein a favore dei mutilatini di don Gnocchi con testamento olografo del 25 luglio 1976 pubblicato a rogito dottor Gianfranco Franchini, notaio in Milano, il 28 gennaio 1977, n. 63651 di repertorio, registrato a Milano il 10 febbraio 1977, al n. 01795 serie D.  
+140. Decreto del Presidente della Repubblica 26 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella nuda proprieta', per la quota di 1/3 pari a L. 12.087.183, di titoli obbligazionari depositati presso il Credito bergamasco di Milano del valore nominale di lire 54.998.000 e del valore reale di L. 36.262.550 al 15 settembre 1977, disposto dalla sig.ra Angelica Nebuloni ved. Remartini con testamento pubblico redatto a rogito dott. Renzo Rosi, notaio in Milano, in data 21 gennaio 1971, attivato in data 23 giugno 1977, n. 100765 di repertorio e n. 5037 di raccolta, registrato a Milano il 4 luglio 1977 al n. 10110/71/M.  
   
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 31 marzo 1982  
+Registro n. 3 Presidenza, foglio n. 120

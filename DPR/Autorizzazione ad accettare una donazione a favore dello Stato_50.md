@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1980 n. 1162
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 1000
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1980 n. 1162
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 1000
+=================================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1162. Decreto del Presidente della Repubblica 3 dicembre 1980, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Ronago (Como) con atto 24 settembre 1976, n. 42777/15090 di repertorio, a rogito dott. Achille Pedraglio, notaio in Como, consistente in un terreno della superficie di mq 3850, per il nuovo valico di frontiera italo-svizzero, denominato "Crociale dei Mulini".  
+1000. Decreto del Presidente della Repubblica 22 settembre 1981, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato, disposta dal comune di Verbania (Novara) con atto 4 dicembre 1975, n. 42186 di repertorio, a rogito dott. Mario Matricardi, notaio in Verbania-Pallanza, consistente in un appezzamento di terreno della superficie di mq 8540 circa, per la costruzione di una stazione di controllo autoveicoli.  
   
 Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 6 agosto 1981  
-Registro n. 25 Finanze, foglio n. 64
+Registrato alla Corte dei conti, addi' 30 novembre 1981  
+Registro n. 36 Finanze, foglio n. 260

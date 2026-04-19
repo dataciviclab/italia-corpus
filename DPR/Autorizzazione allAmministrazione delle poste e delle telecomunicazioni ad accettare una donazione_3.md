@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 febbraio 1968 n. 284
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 gennaio 1968 n. 213
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 febbraio 1968 n. 284
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 gennaio 1968 n. 213
+==============================================================
 
 Autorizzazione all'Amministrazione delle poste e delle telecomunicazioni ad accettare una donazione.
 ----------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-284. Decreto del Presidente della Repubblica 23 febbraio 1968, col quale, sulla proposta del relativo Ministro, l'Amministrazione delle poste e delle telecomunicazioni, viene autorizzata ad accettare, dal comune di Gessopalena (Chieti) la donazione di un'area di mq. 370, sita in Gessopalena, viale Gennaro Finamore, da destinare alla costruzione di un edificio p.t., giusta atto a rogito notaio Andrea Costantini in data 12 aprile 1965, rep. 31, raccolta 28, registrato a Torricella Peligna il 3 maggio 1965.  
+213. Decreto del Presidente della Repubblica 18 gennaio 1968, col quale, sulla proposta del relativo Ministro, l'Amministrazione delle poste e delle telecomunicazioni viene autorizzata ad accettare dal comune di Ovindoli (L'Aquila) la donazione di un'area di mq. 225 sita in Ovindoli, via Luigi di Savoia, da destinare alla costruzione di un ufficio postale, giusta atto a rogito notaio Giovanni, Stornelli in data 3 luglio 1964, rep. n. 54512, racc. 8822, registrato in Avezzano il 23 luglio 1964.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 21 marzo 1968  
-Atti del Governo, registro n. 218, foglio n. 65. - DI PRETORO
+Registrato alla Corte dei conti, addi' 14 marzo 1968  
+Atti del Governo, registro n. 218, foglio n. 16. - GRECO

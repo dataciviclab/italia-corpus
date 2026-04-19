@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 528
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1985 n. 828
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 528
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1985 n. 828
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 ------------------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' "La Sapienza" di Roma, approvato con [regio decreto 14 ottobre 1926, n. 2319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2319), e successive modificazioni;
+Veduto lo statuto dell'Universita' "La Sapienza" di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -22,44 +22,118 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduto il parere del Consiglio universitario nazionale;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' "La Sapienza" di Roma e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del ministro della pubblica istruzione;
 
 Decreta:
 --------
 
 Lo statuto dell'Universita' "La Sapienza" di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 1
+------
 
   
   
-Art. 104 - nell'elenco degli insegnamenti complementari del corso di laurea in chimica e' inserito l'insegnamento di "chimica fisica biologica".   
-Art. 108 - nell'elenco degli insegnamenti complementari del corso di laurea in fisica e' inserito l'insegnamento di "chimica fisica biologica".   
-Art. 115 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' inserito l'insegnamento di "ecologia preistorica".   
-Art. 117 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono inseriti i seguenti insegnamenti:   
-citologia ed istologia;   
-algologia;   
-ecologia preistorica;   
-chimica fisica biologica.   
-Art. 119 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche e' inserito l'insegnamento di "ecologia preistorica".   
+Dopo l'art. 194, con il conseguente scorrimento della numerazione degli articoli successivi, sono inseriti i seguenti articoli con l'intitolazione "Normativa generale - Scuole dirette a fini speciali":   
+  
+NORMATIVA GENERALE   
+  
+Scuole dirette a fini speciali   
+Art. 195. - Nell'Universita' di Roma "La Sapienza" e' istituita la seguente scuola diretta a fini speciali:   
+informatica.   
+Art. 196 - Sono ammessi alle scuole dirette a fini speciali i diplomati degli istituti di istruzione secondaria di secondo grado in conformita' con le disposizioni vigenti per l'ammissione ai corsi di laurea, fatto salvo l'eventuale ulteriore requisito di ammissione previsto per le singole scuole, cioe' il possesso della specifica qualifica di base.   
+Il numero massimo degli iscrivibili per ciascuna scuola e' determinato dalla normativa specifica.   
+Art. 197 - Qualora il numero degli aspiranti sia superiore a quello dei posti disponibili, l'accesso alla scuola, nei limiti dei posti disponibili, e' subordinato al superamento di un esame consistente in una prova scritta che potra' svolgersi mediante domande e risposte multiple, integrata eventualmente da un colloquio e dalla valutazione, in misura non superiore al 30% del punteggio a disposizione della commissione esaminatrice, dei titoli di studio richiesti per l'ammissione. Le modalita' e il programma di tali prove vengono indicate nel bando di concorso per ciascuna scuola.   
+Sono ammessi ai corsi i candidati che in relazione al numero delle iscrizioni disponibili si siano collocati in posizione utile nella graduatoria compilata sulla base del punteggio complessivo riportato.  
+La commissione per l'esame di ammissione e' costituita da cinque professori di ruolo designati dal consiglio della scuola:   
+Art. 198 - L'importo delle tasse e sovrattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge. I contributi sono stabiliti anno per anno dal consiglio di amministrazione dell'Universita', sentito il consiglio della scuola.   
+Art. 199 - Sono organi della scuola il direttore e il consiglio della scuola.   
+Art. 200 - Il direttore ha la responsabilita' della scuola. E' un professore di ruolo della scuola, di norma di prima fascia. In caso di motivato impedimento dei professori di prima fascia la direzione e' affidata a professori di seconda fascia.   
+Il direttore e' eletto dal consiglio della scuola, di cui al successivo articolo; convoca il consiglio della scuola e 16 presiede; ha, nell'ambito della conduzione della scuola, le funzioni proprie dei presidenti di consiglio di corso di laurea.   
+Il direttore promuove, per la stipula attraverso il consiglio di amministrazione ed il rettore, le convenzioni per lo svolgimento delle attivita' di formazione. Per la gestione dei fondi a disposizione della scuola si applicano le norme dettate per gli istituti dal regolamento per l'amministrazione e la contabilita' generale dell'Universita'.   
+Il direttore dura in carica tre anni ed e' rieleggibile.   
+Nel manifesto annuale degli studi viene indicata la sede della direzione della scuola.   
+Art. 201 - Il consiglio della scuola e' composto da tutti i docenti di ruolo della scuola e dagli eventuali docenti a contratto, da una rappresentanza di tre studenti, eletti secondo quanto previsto dall'[art. 99 del decreto del Presidente della Repubblica n. 382/80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art99) e ai sensi dell'[art. 8 del decreto del Presidente della Repubblica n. 162/82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;162~art8), dalle altre componenti previste dall'[art. 94 del decreto del Presidente della Repubblica n. 382/80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art94). In ogni caso al consiglio della scuola partecipa anche una rappresentanza dei ricercatori che svolgono attivita' nella scuola, secondo quanto previsto dall'[art 8 del decreto del Presidente della Repubblica n. 162/82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;162~art8).   
+Art. 202 - Il consiglio della scuola ne conduce e coordina le attivita' con i consigli dei dipartimenti e delle facolta' interessati, inclusi la designazione dei docenti, l'affidamento degli insegnamenti e le eventuali proposte di contratti.   
+In prima istituzione, i docenti che costituiscono il consiglio della scuola vengono designati in rapporto agli insegnamenti da attivare con apposita delibera dei consigli di facolta' interessati, sentiti i consigli dei dipartimenti coinvolti.   
+Art. 203 - Lo studente e' tenuto a seguire tutti i corsi di lezione e a partecipare a tutte le attivita' pratiche e alle esercitazioni previste, per ciascun anno di corso, dal manifesto degli studi pubblicato annualmente dal consiglio della scuola nel quadro delle norme piu' sotto indicate.   
+La frequenza della scuola e' obbligatoria per tutti gli iscritti.   
+Le modalita' di accertamento della frequenza sono determinate nel manifesto degli studi.   
+Art. 204 - L'organizzazione didattica della scuola avviene con le modalita' e i limiti stabiliti dall'[art. 4 del decreto del Presidente della Repubblica n. 162/82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;162~art4); agli studenti della scuola si applicano le disposizioni di legge e di regolamento riguardanti gli studenti universitari ai sensi dell'[art. 10 del decreto del Presidente della Repubblica n. 162/82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;162~art10).   
+Art. 205. - Il corso si conclude con un esame di diploma consistente nella presentazione e discussione di un elaborato finalizzato alla professionalita' specifica predisposto sotto la guida di un docente.   
+
+Art. 2
+------
+
+  
+  
+Dopo l'art. 1030, con il conseguente scorrimento della numerazione degli articoli successivi, sono inseriti i seguenti articoli e intitolazione relativi all'istituzione della scuola diretta a fini speciali di informatica:   
+Scuola diretta a fini speciali di informatica   
+Art. 1031. - E' istituita una scuola diretta a Fini speciali di informatica presso l'Universita' di Roma "La Sapienza".   
+La scuola ha il compito di preparare personale con competenze informatiche, in grado di affrontare i problemi connessi con il trattamento e la elaborazione dei dati.   
+La scuola rilascia il diploma in informatica.   
+Art. 1032 - La scuola ha la durata di due anni.   
+Ciascun anno prevede 250 ore di insegnamento e 250 ore di attivita' pratiche guidate.   
+Qualora vengano attivate iniziative di istruzione a distanza, a norma dell'[art. 92 del decreto del Presidente della Repubblica n. 382/80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art92), la durata del corso e' prorogabile a tre anni.   
+In base alle strutture disponibili (in ambito universitario e a quelle acquisite attraverso-convenzioni con enti pubblici e privati) la scuola e' in grado di accettare un numero massimo di iscritti determinati in trenta per ciascun anno di corso e per un totale di novanta studenti.   
+Qualora vengano attivate iniziative di istruzione a distanza si potranno avere iscrizioni separate, con le modalita' di cui al successivo art. 3, per un massimo di duecentocinquanta studenti per ogni anno di corso, oltre agli studenti ripetenti.   
+Art. 1033 - Poiche' la struttura dell'eventuale sistema di istruzione a distanza potra' essere basata su una rete di centri di supporto territoriali, fermi restando i disposti degli articoli precedenti, potranno essere stabiliti contingenti di posti in riferimento a tali centri. Le modalita' di assegnazione degli studenti a distanza alle strutture di supporto sono definite nel bando annuale di concorso.   
+Art. 1034 - Concorrono alla costituzione della scuola la facolta' di ingegneria, cui afferiscono gli insegnamenti, e il dipartimento di informatica e sistemistica.   
+Nel manifesto annuale degli studi viene indicata la sede della direzione della scuola.   
+Art. 1035 - Gli insegnamenti impartiti sono i seguenti:   
+1° Anno:   
+istituzioni di matematica;   
+introduzione agli algoritmi e alla programmazione;   
+architettura degli elaboratori;   
+linguaggi e metodi di programmazione;   
+due insegnamenti scelti tra quelli opzionali.   
+2° Anno.   
+sistemi per l'elaborazione dei dati;   
+basi di dati;   
+sistemi informativi;   
+tre insegnamenti scelti tra quelli opzionali.   
+Gli insegnamenti opzionali sono i seguenti:   
+applicazioni della ricerca operativa;   
+applicazioni gestionali;   
+automazione degli uffici;   
+automazione industriale;   
+elementi di elettronica;   
+elementi di progettazione di sistemi digitali;   
+fondamenti di informatica;   
+matematica computazionale;   
+probabilita' e statistica;   
+sistemi operativi;   
+telematica e sistemi distribuiti.   
+Gli insegnamenti di "sistemi per l'elaborazione dei dati" e di "sistemi informativi" sono a prevalente carattere tecnico pratico.   
+Art. 1036 - Gli insegnamenti prevedono attivita' pratiche che consistono in esercitazioni sulla materia trattata nel corso e in attivita' sperimentali.   
+Tutti gli insegnamenti sono semestrali. Per la scelta degli insegnamenti opzionali, all'inizio di ciascun anno gli studenti dovranno presentare un piano sulla base delle indicazioni contenute nel manifesto degli studi, che indichera' l'effettiva attivazione degli insegnamenti e la loro collocazione in aree culturali omogenee.   
+I piani di studio sono approvati dal consiglio della scuola.   
+Qualora vengano attivate iniziative di istruzione a distanza e la durata del corso venga prorogata a tre anni il consiglio della scuola indichera' la relativa ripartizione degli insegnamenti fra i tre anni del corso a distanza.   
+Art. 1037 - L'attivita' pratica comporta esercitazioni pratiche guidate e al calcolatore relative alle materie di insegnamento.   
+Art. 1038 - E' obbligatorio un tirocinio che si svolge sotto la guida di un docente, di massima nell'ambito di uno dei corsi opzionali dell'ultimo anno. Tale tirocinio ha la durata di almeno 80 ore e consiste in un lavoro personale di progettazione di un sistema hardware o software.   
+Art. 1039 - L'esame di diploma consiste nella presentazione e discussione di un elaborato predisposto durante il tirocinio.   
+Art. 1040 - L'Universita', su proposta del consiglio della scuola, puo' stabilire convenzioni con enti pubblici o privati, con finalita' di sovvenzionamento o di utilizzazione di strutture extrauniversitarie per lo svolgimento di attivita' didattiche ai sensi del [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382) e del [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162).   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 luglio 1983
+### Dato a Roma, addi' 23 ottobre 1985
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 23 settembre 1983
+Registrato alla Corte dei conti, addi' 9 gennaio 1986
 
-Registro n. 62 Istruzione, foglio n. 317
+Registro n. 1 Istruzione, foglio n. 199

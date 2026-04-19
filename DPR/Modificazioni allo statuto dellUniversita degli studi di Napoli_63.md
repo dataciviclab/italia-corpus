@@ -1,136 +1,267 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1971 n. 619
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1966 n. 109
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1971 n. 619
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1966 n. 109
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 58. - Agli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti quelli di:
+
+14) Ragioneria pubblica;
+
+15) Sociologia.
+
+Art. 102. - Nell'elenco degli Istituti annessi alla Facolta' di lettere e filosofia la denominazione dell'Istituto di storia della filosofia e' modificato in quella di:
+
+Istituto di storia della filosofia "Antonio Aliotta".
+
+Art. 132. - Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo organico-biologico) sono aggiunti quelli di:
+
+25) Chimica delle sostanze coloranti;
+
+26) Chimica microbiologica;
+
+27) Fitochimica;
+
+28) Biologia molecolare.
+
+Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo inorganico-chimico-fisico) e' aggiunto quello di:
+
+25) Biologia molecolare.
+
+Art. 141. - Agli insegnamenti complementari del corso di laurea in Fisica e' aggiunto quello di: "Biologia molecolare".
+
+Art. 156. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche e' aggiunto quello di:
+
+"Biologia molecolare".
+
+Art. 244. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti quelli di:
+
+12) Virologia vegetale;
+
+13) Fisiopatologia vegetale;
+
+14) Sociologia rurale;
+
+15) Miglioramento genetico delle piante coltivate Dopo l'art. 498 e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di perfezionamento in Strutturistica molecolare annessa alla Facolta' di scienze matematiche fisiche e naturali.
+
+Scuola di perfezionamento in Strutturistica molecolare
+
+Art. 499. - E' istituita presso la Facolta' di scienze matematiche, fisiche e naturali dell'Universita' degli studi di Napoli la Scuola di perfezionamento in Strutturistica molecolare, che ha la funzione di qualificare laureati in Chimica, Chimica industriale e altre discipline scientifiche, come ricercatori specializzati in quei settori piu' avanzati della chimica, che hanno come base lo studio della struttura molecolare con metodologie diverse.
+
+Art. 500. - La durata minima del corso degli studi e' di due anni.
+
+Art. 501. - La Scuola e' diretta da un Comitato direttivo costituito dai titolari di materie chimiche della Facolta' di scienze, il Comitato direttivo elegge nel suo seno un direttore e due vice-direttori.
+
+Art. 502. - I membri del Comitato direttivo e tutti gli insegnanti della Scuola formano il Consiglio della scuola, che provvede al coordinamento dei corsi e svolge tutte le funzioni previste nel presente statuto.
+
+Art. 503. - Alla Scuola sono ammessi, a giudizio de Comitato direttivo, i laureati in Chimica, Chimica industriale e in altre discipline scientifiche ai quali verra' conferita una borsa di studio.
+
+Il numero massimo degli allievi da ammettere alla Scuola e' di trenta ogni anno accademico.
+
+Art. 504. - Gli iscritti hanno l'obbligo di svolgere un programma di ricerche in uno dei laboratori e istituti della Facolta' di scienze e di frequentare i singoli corsi trimestrali e semestrali secondo un curriculum concordato per ogni allievo con il Consiglio della scuola, sulla base della preparazione e della precedente formazione scolastica. Tale curriculum potra' essere integrato a giudizio del Consiglio della scuola con insegnamenti fondamentali e complementari dei corsi di laurea della Facolta' di scienze dovra' essere contemplato l'obbligo di esame per almeno quattro insegnamenti.
+
+Art. 505. - Gli insegnamenti inclusi nel programma della Scuola sono:
+
+1) Biogenesi dei composti naturali;
+
+2) Calcolo numerico e programmazione elettronica;
+
+3) Chimica fisica macromolecolare;
+
+4) Chimica delle proteine;
+
+5) Chimica dei pigmenti naturali;
+
+6) Chimica quantistica;
+
+7) Cinetica e meccanismi di reazioni;
+
+8) Composti di coordinazione;
+
+9) Meccanica e termodinamica statistica;
+
+10) Metodi e meccanismi di polimerizzazione;
+
+11) Metodi moderni di sintesi e analisi organica;
+
+12) Moderne metodologie analitiche;
+
+13) Spettri vibrazionali e rotazionali;
+
+14) Spettroscopia di massa;
+
+15) Spettroscopia elettronica;
+
+16) Spettroscopia N.M.R. e E.S.R.;
+
+17) Stereochimica e analisi conformazionale;
+
+18) Stereochimica dei polimeri sintetici;
+
+19) Struttura di steroidi, terpeni e alcaloidi;
+
+20) Struttura e attivita' biologica;
+
+21) Struttura e meccanismi di azione degli enzimi;
+
+22) Struttura e proprieta' chimico-fisiche di bio-polimeri;
+
+23) Struttura e proprieta' fisiche di catalizzatori;
+
+24) Strutturistica roentgenografica;
+
+25) Equilibri in soluzione;
+
+26) Complessi polinucleari.
+
+Art. 506. - Gli insegnamenti elencati nel precedente articolo possono essere integrati da seminari.
+
+Art. 507. - La Scuola conferisce un diploma di perfezionamento in Strutturistica molecolare agli iscritti che:
+
+a) abbiano frequentato tutti i corsi stabiliti nel curriculum;
+
+b) abbiano ottenuto un giudizio di idoneita' nei corsi per i quali il Consiglio della scuola avesse stabilito un obbligo di esame;
+
+c) abbiano ricevuto il giudizio favorevole del Consiglio della scuola, presentando una dissertazione scritta su di un argomento originale, concordata con il direttore dell'Istituto o del laboratorio presso il quale la ricerca e' stata effettuata, una parte della quale almeno sia stata pubblicata o accettata per la pubblicazione in un periodico scientifico a larga diffusione.
+
+Art. 508. - Gli iscritti alla Scuola di perfezionamento sono tenuti a pagare le medesime tasse, soprattasse e contributi stabiliti per gli studenti della Facolta' di scienze della Universita' di Napoli, nonche' la tassa di diploma, nella misura di L. 6000, ai sensi della [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).
+
+Art. 509. - La Scuola dispone di una dotazione costituita da fondi provenienti da Enti pubblici e privati italiani e stranieri oltre che dalle tasse, soprattasse e contributi generali dovuti dagli iscritti; con tale dotazione si provvede al funzionamento didattico e scientifico, al conferimento delle borse di studio agli iscritti, alla retribuzione degli insegnanti e del personale addetto.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 14 febbraio 1966
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 15 marzo 1966 Atti del Governo, registro n. 202, foglio n. 44. - VILLA
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-Dopo l'art. 479 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola speciale per dirigenti dell'assistenza infermieristica.   
-  
-Scuola speciale per dirigenti dell'assistenza infermieristica   
-  
-Art. 480. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una scuola speciale per dirigenti dell'assistenza infermieristica che ha sede presso l'istituto di igiene della facolta' di medicina e chirurgia dell'Universita' di Napoli. Essa ha lo scopo di formare personale dirigente ed insegnante per le scuole professionali per infermiere, per assistenti sanitarie, visitatrici, per ostetriche, per vigilatrici della infanzia e personale dirigente di servizi infermieristici ospedalieri e di sanita' pubblica.   
-Art. 481. - La durata del corso degli studi per il conseguimento del diploma di dirigenti dell'assistenza infermieristica e' di due anni.   
-Possono essere ammesse alla scuola allieve di eta' non inferiore a 25 anni in possesso dei seguenti titoli:   
-1) del titolo di studio prescritto per l'ammissione all'universita' (preferibilmente del diploma di maturita' classica, del diploma di maturita' scientifica e del diploma di abilitazione magistrale);   
-2) del diploma di infermiere professionale o di ostetrica o di vigilatrice d'infanzia, con votazione media non inferiore ai 147/210.   
-Le infermiere professionali e le vigilatrici dell'infanzia devono aver prestato almeno tre anni di servizio senza demerito presso un ospedale o una scuola per infermiere professionali o vigilatrici dell'infanzia o in un servizio di sanita' pubblica. Tale periodo e' ridotto a due anni per le candidate in possesso del diploma di assistente sanitaria visitatrice, del certificato di abilitazione alle funzioni direttive di ostetricia o di altra specializzazione legalmente riconosciuta;   
-3) per le candidate della sezione dei servizi medico-sociali, e' prescritto il diploma di assistente sanitaria visitatrice conseguito con votazione media non inferiore ai 147/210.   
-Art. 482. - La scuola speciale si suddivide in tre sezioni:   
-1) Pedagogica per la formazione di personale infermieristico insegnante e di direttrice di scuola per: infermiere professionali e assistenti sanitarie visitatrici, ostetriche, vigilatrici dell'infanzia, infermiere ed infermieri generici;   
-2) Amministrativa per servizi assistenziali, per la formazione del personale infermieristico dirigente di servizi assistenziali (ospedalieri, ambulatoriali, mutualistici, etc.);   
-3) Amministrativa per i servizi medico-sociali, per la formazione di personale dirigente di servizi di sanita' pubblica.   
-Art. 483. - L'ammissione al 1° anno della scuola avviene per titoli.   
-Le candidate, tuttavia, prima di essere ammesse definitivamente dovranno essere sottoposte ad un colloquio preliminare. Il numero dei posti disponibili annualmente e' stabilito nella misura massima di trenta complessivamente per le tre sezioni e per ciascun anno di corso. La distribuzione dei posti fra le tre sezioni verra' effettuata annualmente.   
-Art. 484. - II direttore della scuola e' di diritto il titolare della cattedra di igiene della facolta' di medicina e chirurgia della universita'. Gli insegnanti della scuola sono proposti dal consiglio di facolta' di medicina e chirurgia, udito il direttore e nominati dal rettore.   
-La scuola speciale affida la preparazione specifica delle allieve alla scuola convitto professionale per infermiere della C.R.I. di Napoli, via Antonio Cardarelli, 11-A.   
-Il direttore della scuola speciale, sentita la direttrice della scuola convitto professionale della C.R.I. nomina una infermiera altamente qualificata, preferibilmente in possesso del diploma di dirigente dell'assistenza infermieristica o di titolo similare, che viene preposta alla preparazione specifica teorico-pratica delle allieve e riceve la qualifica di vicedirettrice della scuola speciale.   
-Il corpo insegnante e' costituito da docenti delle facolta' di:   
-Medicina e Chirurgia;   
-Magistero;   
-Lettere;   
-Giurisprudenza,   
-e da esperti del campo dell'assistenza infermieristica, dell'amministrazione, dell'educazione sanitaria e da un rappresentante del Ministero della sanita'.   
-Art. 485. - Le materie di insegnamento sono le seguenti:   
-  
-1° Anno:   
-  
-a) Insegnamenti fondamentali comuni a tutte e tre le sezioni:   
-1) Psicologia;   
-2) Pedagogia;   
-3) Sociologia;   
-4) Filosofia morale;   
-5) Statistica e biometria;   
-6) Elementi di igiene generale e speciale;   
-7) Storia dell'assistenza infermieristica;   
-8) Deontologia professionale;   
-9) Tecnica infermieristica;   
-10) Elementi di diritto costituzionale.   
-b) Insegnamenti complementari comuni a tutte e tre le sezioni:   
-1) Elementi di biologia;   
-2) Elementi di fisiologia e chimica biologica;   
-3) Medicina sociale.   
-  
-Inoltre le allieve sono tenute ad effettuare i seguenti tirocini:   
-1) Sezione pedagogica:   
-Esercizi didattici preparatori;   
-Insegnamento clinico.   
-2) Sezione amministrativa per i servizi assistenziali:   
-Esercitazioni nei servizi ospedalieri.   
-3) Sezione amministrativa per i servizi medico-sociali:   
-Esercitazioni nei servizi di sanita' pubblica.   
-  
-2° Anno:   
-  
-a) Insegnamenti fondamentali comuni a tutte e tre le sezioni:   
-1) Elementi di pubblica amministrazione;   
-2) Elementi di diritto del lavoro;   
-3) Principi di amministrazione pubblica applicata all'assistenza infermieristica;   
-4) Psicologia applicata alla professione;   
-5) Pedagogia applicata alla professione;   
-6) Elementi di legislazione sanitaria;   
-7) Igiene e tecnica ospedaliera;   
-8) Organizzazione delle associazioni professionali infermieristiche nazionali ed internazionali;   
-9) Organizzazione di scuola per infermiere in Italia e all'estero.   
-  
-b) Insegnamenti complementari comuni a tutte e tre le sezioni:   
-1) Elementi di patologia medica e chirurgica;   
-2) Elementi di farmacologia e terapia clinica.   
-  
-Inoltre le allieve sono tenute ad effettuare i seguenti tirocini:   
-1) Sezione pedagogica:   
-Esercitazioni didattiche;   
-Organizzazione e funzionamento delle scuole;   
-Visite documentative.   
-2) Sezioni amministrative per i servizi assistenziali:   
-Esercitazioni nei servizi ospedalieri;   
-Visite documentative.   
-3) Sezione amministrativa per i servizi medico-sociali:   
-Esercitazioni nei servizi di sanita' pubblica;   
-Visite documentative.   
-  
-Art. 486. - Per essere ammesse al 2° anno le allieve dovranno aver seguito i corsi, superato gli esami in tutti gli insegnamenti fondamentali dell'anno stesso e almeno uno, scelto all'inizio dell'anno scolastico, fra i complementari ed aver compiuto con esito favorevole, tutti i tirocini prescritti.   
-Art. 487. - La commissione, per gli esami di idoneita' al 2ª anno e di ammissione agli esami di diploma sono nominate dal consiglio di facolta' di medicina e chirurgia su proposta del direttore della scuola.   
-Le commissioni sono composte dal presidente che, di regola, e' il professore ufficiale della materia, e da altri due membri di materia affine e da un rappresentante del Ministero della sanita'.   
-Ogni commissario ha a disposizione 10 punti.   
-Art. 488. - Per essere ammesse a sostenere l'esame di diploma le allieve devono aver seguito i corsi del 2° anno, superato gli esami in tutti gli insegnamenti fondamentali dell'anno stesso e almeno uno, scelto allo inizio dell'anno scolastico, fra i complementari ed aver compiuto, con esito favorevole, tutti i tirocini prescritti.   
-Art. 489. - L'esame per il conseguimento del diploma di dirigente della assistenza infermieristica secondo le varie sezioni della scuola consiste nella discussione su un elaborato scritto, preventivamente assegnato dal direttore della scuola, di fronte a una commissione di cinque membri, composta dal direttore della scuola; da tre docenti designati dalla facolta' di medicina e chirurgia e dalla infermiera responsabile della preparazione specifica. Ogni commissario ha a disposizione 10 punti.   
-Art. 490. - Le tasse e le soprattasse per la scuola sono le seguenti:   
-tassa di immatricolazione. . . . . . . . . . . . L. 20.000   
-tassa annuale di iscrizione. . . . . . . . . . . " 100.000   
-soprattassa annuale di esami . . . . . . . . . . " 20.000   
-tassa per l'esame di diploma . . . . . . . . . . " 10.000   
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 58. - Agli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti quelli di:  
+14) Ragioneria pubblica;  
+15) Sociologia.  
+Art. 102. - Nell'elenco degli Istituti annessi alla Facolta' di lettere e filosofia la denominazione dell'Istituto di storia della filosofia e' modificato in quella di:  
+Istituto di storia della filosofia "Antonio Aliotta".  
+Art. 132. - Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo organico-biologico) sono aggiunti quelli di:  
+25) Chimica delle sostanze coloranti;  
+26) Chimica microbiologica;  
+27) Fitochimica;  
+28) Biologia molecolare.  
+Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo inorganico-chimico-fisico) e' aggiunto quello di:  
+25) Biologia molecolare.  
+Art. 141. - Agli insegnamenti complementari del corso di laurea in Fisica e' aggiunto quello di: "Biologia molecolare".  
+Art. 156. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche e' aggiunto quello di:  
+"Biologia molecolare".  
+Art. 244. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti quelli di:  
+12) Virologia vegetale;  
+13) Fisiopatologia vegetale;  
+14) Sociologia rurale;  
+15) Miglioramento genetico delle piante coltivate Dopo l'art. 498 e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di perfezionamento in Strutturistica molecolare annessa alla Facolta' di scienze matematiche fisiche e naturali.  
+Scuola di perfezionamento in Strutturistica molecolare  
+Art. 499. - E' istituita presso la Facolta' di scienze matematiche, fisiche e naturali dell'Universita' degli studi di Napoli la Scuola di perfezionamento in Strutturistica molecolare, che ha la funzione di qualificare laureati in Chimica, Chimica industriale e altre discipline scientifiche, come ricercatori specializzati in quei settori piu' avanzati della chimica, che hanno come base lo studio della struttura molecolare con metodologie diverse.  
+Art. 500. - La durata minima del corso degli studi e' di due anni.  
+Art. 501. - La Scuola e' diretta da un Comitato direttivo costituito dai titolari di materie chimiche della Facolta' di scienze, il Comitato direttivo elegge nel suo seno un direttore e due vice-direttori.  
+Art. 502. - I membri del Comitato direttivo e tutti gli insegnanti della Scuola formano il Consiglio della scuola, che provvede al coordinamento dei corsi e svolge tutte le funzioni previste nel presente statuto.  
+Art. 503. - Alla Scuola sono ammessi, a giudizio de Comitato direttivo, i laureati in Chimica, Chimica industriale e in altre discipline scientifiche ai quali verra' conferita una borsa di studio.  
+Il numero massimo degli allievi da ammettere alla Scuola e' di trenta ogni anno accademico.  
+Art. 504. - Gli iscritti hanno l'obbligo di svolgere un programma di ricerche in uno dei laboratori e istituti della Facolta' di scienze e di frequentare i singoli corsi trimestrali e semestrali secondo un curriculum concordato per ogni allievo con il Consiglio della scuola, sulla base della preparazione e della precedente formazione scolastica. Tale curriculum potra' essere integrato a giudizio del Consiglio della scuola con insegnamenti fondamentali e complementari dei corsi di laurea della Facolta' di scienze dovra' essere contemplato l'obbligo di esame per almeno quattro insegnamenti.  
+Art. 505. - Gli insegnamenti inclusi nel programma della Scuola sono:  
+1) Biogenesi dei composti naturali;  
+2) Calcolo numerico e programmazione elettronica;  
+3) Chimica fisica macromolecolare;  
+4) Chimica delle proteine;  
+5) Chimica dei pigmenti naturali;  
+6) Chimica quantistica;  
+7) Cinetica e meccanismi di reazioni;  
+8) Composti di coordinazione;  
+9) Meccanica e termodinamica statistica;  
+10) Metodi e meccanismi di polimerizzazione;  
+11) Metodi moderni di sintesi e analisi organica;  
+12) Moderne metodologie analitiche;  
+13) Spettri vibrazionali e rotazionali;  
+14) Spettroscopia di massa;  
+15) Spettroscopia elettronica;  
+16) Spettroscopia N.M.R. e E.S.R.;  
+17) Stereochimica e analisi conformazionale;  
+18) Stereochimica dei polimeri sintetici;  
+19) Struttura di steroidi, terpeni e alcaloidi;  
+20) Struttura e attivita' biologica;  
+21) Struttura e meccanismi di azione degli enzimi;  
+22) Struttura e proprieta' chimico-fisiche di bio-polimeri;  
+23) Struttura e proprieta' fisiche di catalizzatori;  
+24) Strutturistica roentgenografica;  
+25) Equilibri in soluzione;  
+26) Complessi polinucleari.  
+Art. 506. - Gli insegnamenti elencati nel precedente articolo possono essere integrati da seminari.  
+Art. 507. - La Scuola conferisce un diploma di perfezionamento in Strutturistica molecolare agli iscritti che:  
+a) abbiano frequentato tutti i corsi stabiliti nel curriculum;  
+b) abbiano ottenuto un giudizio di idoneita' nei corsi per i quali il Consiglio della scuola avesse stabilito un obbligo di esame;  
+c) abbiano ricevuto il giudizio favorevole del Consiglio della scuola, presentando una dissertazione scritta su di un argomento originale, concordata con il direttore dell'Istituto o del laboratorio presso il quale la ricerca e' stata effettuata, una parte della quale almeno sia stata pubblicata o accettata per la pubblicazione in un periodico scientifico a larga diffusione.  
+Art. 508. - Gli iscritti alla Scuola di perfezionamento sono tenuti a pagare le medesime tasse, soprattasse e contributi stabiliti per gli studenti della Facolta' di scienze della Universita' di Napoli, nonche' la tassa di diploma, nella misura di L. 6000, ai sensi della [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).  
+Art. 509. - La Scuola dispone di una dotazione costituita da fondi provenienti da Enti pubblici e privati italiani e stranieri oltre che dalle tasse, soprattasse e contributi generali dovuti dagli iscritti; con tale dotazione si provvede al funzionamento didattico e scientifico, al conferimento delle borse di studio agli iscritti, alla retribuzione degli insegnanti e del personale addetto.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 giugno 1971
+### Dato a Roma, addi' 14 febbraio 1966
 
-SARAGAT MISASI
+SARAGAT GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 17 agosto 1971
+Registrato alla Corte dei conti, addi' 15 marzo 1966
 
-Atti del Governo, registro n. 243, foglio n. 120. - PASQUALUCCI
+Atti del Governo, registro n. 202, foglio n. 44. - VILLA

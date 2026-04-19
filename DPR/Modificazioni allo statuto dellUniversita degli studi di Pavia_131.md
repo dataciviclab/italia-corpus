@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 marzo 1965 n. 422
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 483
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 marzo 1965 n. 422
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 483
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
@@ -10,90 +10,72 @@ Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, numero 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1938, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulato dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica, istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 15. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di "Diritto delle comunita' europee";
+Articolo unico
+--------------
 
-"Diritto anglo-americano".
-
-Art. 24. - Agli insegnamenti complementari del corso di laurea in Scienze politiche e' aggiunto quello di "Scienza politica".
-
-Art. 25, relativo alla propedeuticita' degli esami del corso da laurea in Scienze politiche e' aggiunta la seguente norma:
-
-"Lo studente non puo' essere ammesso a sostenere l'esame di "Storia ed istituzioni dei Paesi afro-asiatici" se non ha superato l'esame di "Storia moderna".
-
-Art. 46. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche e' aggiunto quello di "Scienza della alimentazione".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 24 marzo 1965
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 6 maggio 1965 Atti del Governo, registro n. 193, foglio n. 21. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, numero 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1938, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulato dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica, istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 15. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di "Diritto delle comunita' europee";  
-"Diritto anglo-americano".  
-Art. 24. - Agli insegnamenti complementari del corso di laurea in Scienze politiche e' aggiunto quello di "Scienza politica".  
-Art. 25, relativo alla propedeuticita' degli esami del corso da laurea in Scienze politiche e' aggiunta la seguente norma:  
-"Lo studente non puo' essere ammesso a sostenere l'esame di "Storia ed istituzioni dei Paesi afro-asiatici" se non ha superato l'esame di "Storia moderna".  
-Art. 46. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche e' aggiunto quello di "Scienza della alimentazione".  
+Art. 52 - nell'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti insegnamenti:  
+ittitologia;  
+storia dell'Asia anteriore antica;  
+geografia storica;  
+storia della cartografia;  
+geografia urbana;  
+storia del Mediterraneo antico orientale;  
+storia economica e sociale del mondo antico;  
+esegesi delle fonti di storia greca e romana;  
+filologia micenea;  
+storia degli antichi Stati italiani.  
+Art. 53 - nell'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne e' inserito l'insegnamento di "letteratura tedesca medioevale".  
+Art. 54 - nell'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti insegnamenti:  
+antropologia economica;  
+ermeneutica filosofica;  
+didattica della filosofia;  
+sociologia della letteratura;  
+antropologia sociale;  
+storia del pensiero scientifico antico;  
+storia della teologia medioevale;  
+educazione degli adulti;  
+pedagogia speciale;  
+metodologia e tecnica della ricerca psicologica;  
+psicologia dell'apprendimento;  
+psicologia sperimentale.  
+Nel medesimo elenco l'insegnamento di "metodologia statistica generale e psicometria" muta la denominazione in quella di "statistica psicometrica".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 marzo 1965
+### Dato a Roma, addi' 26 aprile 1984
 
-SARAGAT GUI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 6 maggio 1965
+Registrato alla Corte dei conti, addi' 4 agosto 1984
 
-Atti del Governo, registro n. 193, foglio n. 21. - VILLA
+Registro n. 48 Istruzione, foglio n. 233

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 1181
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1963 n. 667
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 1181
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1963 n. 667
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -10,15 +10,17 @@ Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225) e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e Successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -28,226 +30,86 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-La tabella II annessa al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e' modificata nel senso che la facolta' di medicina veterinaria rilascia anche la laurea in scienze della produzione animale di cui alla tabella XXXI-ter.
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Pertanto lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso.
+Art. 12. - Agli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti i seguenti:
 
-Art. 133, relativo alla facolta' di medicina veterinaria, e' abrogato e sostituito dal seguente: "La facolta' di medicina veterinaria conferisce la laurea in medicina veterinaria e la laurea in scienze della produzione animale".
+Contabilita' nazionale;
 
-Dopo l'art. 138 e con il conseguente spostamento della successiva numerazione e' aggiunto un nuovo articolo relativo all'istituzione del corso di laurea in "Scienze della produzione animale".
+Tecnica amministrativa delle imprese dei pubblici servizi Organizzazione aziendale;
 
-Laurea in scienze della produzione animale
+Economia e finanza, delle imprese di assicurazione;
 
-Art. 139. - Durata del corso degli studi: quattro anni, divisi in due bienni.
+Statistica aziendale.
 
-Titolo di ammissione: diploma di maturita' classica o di maturita' scientifica.
+Art. 88. - Agli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti i seguenti:
 
-Diploma di abilitazione per i provenienti dagli istituti tecnici agrari e per geometri.
+Vulcanologia;
 
-Insegnamenti fondamentali:
+Biologia marina.
 
-1° biennio:
+Art. 91. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche 6 aggiunto quello di "Biologia marina".
 
-1) agronomia generale e coltivazioni erbacee;
+Art. 93. - Agli insegnamenti complementari del corso di laurea, in Scienze geologiche e' aggiunto quello di "Vulcanologia".
 
-2) anatomia degli animali domestici;
-
-3) botanica generale;
-
-4) chimica;
-
-5) principi di economia politica e di statistica;
-
-6) estimo rurale e contabilita';
-
-7) fisiologia degli animali domestici;
-
-8) biochimica;
-
-9) patologia generale comparata;
-
-10) zoologia generale;
-
-11) alimentazione animale;
-
-12) genetica animale e zootecnica generale.
-
-2° biennio:
-
-1) avicoltura;
-
-2) coltivazione e di conservazione dei foraggi;
-
-3) igiene veterinaria;
-
-4) industrie alimentari dei prodotti di origine animale;
-
-5) topografia e costruzioni rurali con applicazioni di disegno;
-
-6) microbiologia agraria e tecnica;
-
-7) economia e politica agraria;
-
-8) zooeconomia;
-
-9) zootecnica speciale (biennale);
-
-10) zoognostica.
-
-Insegnamenti complementari:
-
-1) chimica agraria;
-
-2) edilizia zootecnica (semestrale);
-
-3) entomologia agraria (semestrale);
-
-4) fisica;
-
-5) fisioclimatologia (semestrale);
-
-6) immunogenetica (semestrale);
-
-7) meccanica agraria con applicazioni di disegno;
-
-8) microbiologia dei prodotti zootecnici (semestrale);
-
-9) meccanizzazione degli impianti zootecnici
-
-10) organizzazione del lavoro (semestrale);
-
-11) fisiopatologia della riproduzione;
-
-12) parassitologia;
-
-13) patologia vegetale (semestrale);
-
-14) tecnica mangimistica;
-
-15) legislazione zootecnica e contrattazione degli animali domestici (semestrale);
-
-16) idrobiologia. Piscicoltura (semestrale);
-
-17) matematica;
-
-18) approvvigionamenti annonari, mercati ed industrie degli alimenti di origine animale;
-
-19) igiene zootecnica;
-
-20) patologia aviare (semestrale).
-
-Per ottenere l'iscrizione al 2° biennio di applicazione, lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali del 1° biennio.
-
-L'esame di anatomia degli animali domestici e di biochimica debbono precedere quello di fisiologia degli animali domestici.
-
-L'esame di fisiologia degli animali domestici deve precedere quelli di zoognostica, zootecnica speciale, zootecnica generale, zoocolture e alimentazione animale.
-
-L'esame di chimica deve precedere quello di biochimica.
-
-L'esame di genetica animale e zootecnica generale deve precedere quello di zootecnica speciale.
-
-Per essere ammesso all'esame di laurea in scienze della produzione animale lo studente deve aver seguito tutti i corsi e superato gli esami in tutti gli insegnamenti fondamentali del 2° biennio ed almeno in sei complementari a corso annuale. A tale effetto due corsi complementari semestrali sono computati come corso annuale.
+Art. 130. - Agli Istituti annessi alla Facolta' di agraria e' aggiunto quello di "Orticoltura e floricoltura".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 5 giugno 1968
+Dato a Roma, addi' 28 marzo 1963
 
-SARAGAT
+SEGNI
 
 GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BOSCO
 
 Registrato
 ----------
 
-alla Corte dei conti addi' 21 novembre 1968 Atti del Governo, registro n. 223, foglio n. 130. - GRECO
+alla Corte dei conti, addi' 13 maggio 1963 Atti del Governo, registro n. 169, foglio n. 23. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e Successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-La tabella II annessa al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e' modificata nel senso che la facolta' di medicina veterinaria rilascia anche la laurea in scienze della produzione animale di cui alla tabella XXXI-ter.  
-Pertanto lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso.  
-Art. 133, relativo alla facolta' di medicina veterinaria, e' abrogato e sostituito dal seguente: "La facolta' di medicina veterinaria conferisce la laurea in medicina veterinaria e la laurea in scienze della produzione animale".  
-Dopo l'art. 138 e con il conseguente spostamento della successiva numerazione e' aggiunto un nuovo articolo relativo all'istituzione del corso di laurea in "Scienze della produzione animale".  
-Laurea in scienze della produzione animale  
-Art. 139. - Durata del corso degli studi: quattro anni, divisi in due bienni.  
-Titolo di ammissione: diploma di maturita' classica o di maturita' scientifica.  
-Diploma di abilitazione per i provenienti dagli istituti tecnici agrari e per geometri.  
-Insegnamenti fondamentali:  
-1° biennio:  
-1) agronomia generale e coltivazioni erbacee;  
-2) anatomia degli animali domestici;  
-3) botanica generale;  
-4) chimica;  
-5) principi di economia politica e di statistica;  
-6) estimo rurale e contabilita';  
-7) fisiologia degli animali domestici;  
-8) biochimica;  
-9) patologia generale comparata;  
-10) zoologia generale;  
-11) alimentazione animale;  
-12) genetica animale e zootecnica generale.  
-2° biennio:  
-1) avicoltura;  
-2) coltivazione e di conservazione dei foraggi;  
-3) igiene veterinaria;  
-4) industrie alimentari dei prodotti di origine animale;  
-5) topografia e costruzioni rurali con applicazioni di disegno;  
-6) microbiologia agraria e tecnica;  
-7) economia e politica agraria;  
-8) zooeconomia;  
-9) zootecnica speciale (biennale);  
-10) zoognostica.  
-Insegnamenti complementari:  
-1) chimica agraria;  
-2) edilizia zootecnica (semestrale);  
-3) entomologia agraria (semestrale);  
-4) fisica;  
-5) fisioclimatologia (semestrale);  
-6) immunogenetica (semestrale);  
-7) meccanica agraria con applicazioni di disegno;  
-8) microbiologia dei prodotti zootecnici (semestrale);  
-9) meccanizzazione degli impianti zootecnici  
-10) organizzazione del lavoro (semestrale);  
-11) fisiopatologia della riproduzione;  
-12) parassitologia;  
-13) patologia vegetale (semestrale);  
-14) tecnica mangimistica;  
-15) legislazione zootecnica e contrattazione degli animali domestici (semestrale);  
-16) idrobiologia. Piscicoltura (semestrale);  
-17) matematica;  
-18) approvvigionamenti annonari, mercati ed industrie degli alimenti di origine animale;  
-19) igiene zootecnica;  
-20) patologia aviare (semestrale).  
-Per ottenere l'iscrizione al 2° biennio di applicazione, lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali del 1° biennio.  
-L'esame di anatomia degli animali domestici e di biochimica debbono precedere quello di fisiologia degli animali domestici.  
-L'esame di fisiologia degli animali domestici deve precedere quelli di zoognostica, zootecnica speciale, zootecnica generale, zoocolture e alimentazione animale.  
-L'esame di chimica deve precedere quello di biochimica.  
-L'esame di genetica animale e zootecnica generale deve precedere quello di zootecnica speciale.  
-Per essere ammesso all'esame di laurea in scienze della produzione animale lo studente deve aver seguito tutti i corsi e superato gli esami in tutti gli insegnamenti fondamentali del 2° biennio ed almeno in sei complementari a corso annuale. A tale effetto due corsi complementari semestrali sono computati come corso annuale.  
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Art. 12. - Agli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti i seguenti:  
+Contabilita' nazionale;  
+Tecnica amministrativa delle imprese dei pubblici servizi Organizzazione aziendale;  
+Economia e finanza, delle imprese di assicurazione;  
+Statistica aziendale.  
+Art. 88. - Agli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti i seguenti:  
+Vulcanologia;  
+Biologia marina.  
+Art. 91. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche 6 aggiunto quello di "Biologia marina".  
+Art. 93. - Agli insegnamenti complementari del corso di laurea, in Scienze geologiche e' aggiunto quello di "Vulcanologia".  
+Art. 130. - Agli Istituti annessi alla Facolta' di agraria e' aggiunto quello di "Orticoltura e floricoltura".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 giugno 1968
+### Dato a Roma, addi' 28 marzo 1963
 
-SARAGAT GUI
+SEGNI GUI
 
-Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti addi' 21 novembre 1968
+Visto, il Guardasigilli: BOSCO
 
-Atti del Governo, registro n. 223, foglio n. 130. - GRECO
+Registrato alla Corte dei conti, addi' 13 maggio 1963
+
+Atti del Governo, registro n. 169, foglio n. 23. - VILLA

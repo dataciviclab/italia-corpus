@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 1143
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1977 n. 93
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 1143
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1977 n. 93
+=============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1143. Decreto del Presidente della Repubblica 22 settembre 1981, col quale, sulla proposta del Ministro delle finanze, viene autorizzata la accettazione della donazione a favore dello Stato, consistente in un appezzamento di terreno di mq. 645, sito in Acireale (Catania), localita' Capomulini, sul quale insistono i ruderi di un tempietto romano, disposta dal sig. Lo Giudice Roberto con atto pubblico 4 luglio 1964, n. 69232 di repertorio, a rogito dott. Cosimo Pulvirenti, notaio in Catania, e successivo atto di rettifica 9 luglio 1964, n. 69482 di repertorio, a rogito del medesimo notaio.  
+93. Decreto del Presidente della Repubblica 21 gennaio 1977, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dalla Pessiona Anstalt, sedente in Vaduz (Liechtenstein), con l'espresso consenso del cavaliere di gran croce Guido Monzino, quale unico proprietario dei diritti di fondazione della detta Pessiona Anstalt, con atto 19 settembre 1974, n. 219.305/7358 di repertorio, a rogito notaio Giovanni Andreottola, del complesso mobiliare ed immobiliare costituente l'albergo Posta-Lina, sito in comune di Valtournanche (Aosta), localita' Paquier.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 5 febbraio 1982  
-Registro n. 6 Finanze, foglio n. 69
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 26 marzo 1977  
+Registro n. 15 Finanze, foglio n. 324

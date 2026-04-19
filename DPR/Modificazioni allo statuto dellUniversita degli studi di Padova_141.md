@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1957 n. 993
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1980 n. 225
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1957 n. 993
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1980 n. 225
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successivi;
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,169 +18,79 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Veduto il [parere della sezione prima del Consiglio di Stato, n. 1902/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
 
-Decreta:
+Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
 
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:
+Sulla
+-----
 
-Dopo l'art. 187 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di perfezionamento in scienze farmaceutiche e biochimica applicata, con il conseguente spostamento della numerazione degli articoli successivi.
-
-Scuola di perfezionamento in scienze farmaceutiche e biochimica applicata
-
-Art. 188. - Alla Facolta' di farmacia e' annessa la scuola di perfezionamento in scienze farmaceutiche e biochimica applicata.
-
-Art. 189. - Scopo della scuola e' di utilizzare e perfezionare la cultura dei laureati in farmacia in modo da metterli anche in condizione di eseguire con sicurezza tutte quelle ricerche di indole chimico-biologica che richiedono professionisti specificamente preparati.
-
-Art. 190. - Il corso di studi e' integrato da insegnamenti utili anche a chi si indirizza verso la farmacia ospedaliera o verso le industrie farmaceutiche e chimico-biologiche.
-
-Art. 191. - Ai fini del conseguimento del diploma di specializzazione e' necessario aver frequentato durante un triennio corsi teorici ed esercitazioni sperimentali di:
-
-1) Biologia generale: per coloro che non hanno sostenuto l'esame di zoologia generale nel corso per la laurea.
-
-2) Microbiologia, sierologia umana e veterinaria, tecnica immunologica.
-
-3) Complementi di chimica biologica, e descrittiva e dinamica.
-
-4) Biochimica applicata.
-
-5) Complementi di chimica farmaceutica e analitica.
-
-6) Chimica farmaceutica industriale.
-
-7) Complementi di farmacologia.
-
-8) Analisi chimico-fisiche.
-
-9) Determinazioni chimiche su materiali biologici.
-
-10) Microanalisi e determinazioni microchimiche su farmacie e materiali biologici.
-
-11) Fermentazioni e microbiologia tecnica.
-
-12) Lavorazioni industriali di materiali biologici.
-
-13) Farmacia ospedaliera e laboratorio ospedaliero.
-
-14) Impianti e macchinario farmaceutico.
-
-I corsi possono essere divisi in piu' parti anche con insegnanti diversi.
-
-Art. 192. - Direttore della scuola e' il professore di chimica farmaceutica quando questi e' un professore di ruolo. Nel caso in cui questa cattedra non sia coperta da un professore di ruolo, il direttore e' nominato dal rettore su designazione del Consiglio della Facolta'.
-
-Gli insegnanti vengono nominati dal Consiglio della Facolta' di farmacia.
-
-Fra questi i professori di ruolo dell'Universita' di Padova costituiscono il Consiglio della scuola che e' presieduto dal direttore.
-
-Art. 193. - Gli insegnamenti possono anche non avere carattere cattedratico ed essere svolti nella maniera piu' adatta che viene stabilita dal Consiglio della scuola, il quale fissa anche la durata dei singoli corsi o delle parti di essi.
-
-Art. 194. - Alla scuola saranno ammessi i migliori fra i laureati in farmacia. Il numero di essi, i criteri di scelta, i temi di eventuali esami di ammissione saranno fissati anno per anno dal Consiglio della scuola.
-
-Il Consiglio della scuola puo' inoltre deliberare la dispensa della frequenza di qualche corso o la convalida del relativo esame e anche un accorciamento della durata degli studi per candidati in possesso di titoli particolari conseguiti successivamente alla laurea.
-
-Art. 195. - La sorveglianza degli iscritti, per i quali e' obbligatoria la continua presenza, spetta al direttore che eventualmente sottopone casi particolari al Consiglio della scuola che delibera la non ammissione agli esami di chi non ha dimostrato sufficiente diligenza.
-
-Art. 196. - Le tasse di iscrizione, le soprattasse per gli esami di profitto, di diploma e per la ripetizione di esami sono proposte al Consiglio della scuola e sottoposte all'approvazione del Consiglio di amministrazione.
-
-L'ammontare dei contributi di laboratorio viene stabilito dal Consiglio di amministrazione su proposta del Senato accademico, udite la Facolta' e scuola, ai sensi della [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).
-
-La tassa di diploma e' fissata nella misura di L. 6000, ai sensi dell'art. 7 della citata legge n. 1551.
-
-Le proposte concernenti la retribuzione agli insegnanti e l'utilizzazione dei fondi della scuola sono formulate dal Consiglio della scuola e sottoposte alla approvazione del Consiglio di amministrazione, con la osservanza delle disposizioni di cui alla [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551), e del [decreto del Presidente della Repubblica 1° dicembre 1952, n. 4512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-12-01;4512).
-
-Art. 197. - Gli esami per le singole materie vengono sostenuti davanti ad una Commissione di tre membri nominata dal direttore della scuola. Ove il candidato sia respinto due volte nello stesso esame, il caso viene esaminato dal Consiglio della scuola che si pronuncia circa il proseguimento degli studi. Superati tutti gli esami i candidati sono ammessi all'esame di diploma.
-
-Art. 198. - L'esame di diploma consiste in una tesi scritta relativa ad una ricerca sperimentale ed in una tesina orale di natura sperimentale e compilativa, viene sostenuto davanti ad una Commissione di undici (11) membri nominati e presieduti dal direttore della scuola.
-
-Per concordare i temi delle due dissertazioni gli specializzati si rivolgeranno a loro scelta a due professori della scuola.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 2 settembre 1957
-
-GRONCHI
-
-MORO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 28 ottobre 1957 Atti del Governo, registro n. 108, foglio n. 110. - RELLEVA
+proposta del Ministro della pubblica istruzione; Decreta:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successivi;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Lo statuto dell'Universita' di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 421.- All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in endocrinochirurgia, che conferisce il diploma di specialista in endocrinochirurgia.  
+
+Art. 2
+------
+
   
-Decreta:   
+L'art. 422, relativo agli ordinamenti delle scuole di specializzazione in medicina e chirurgia, e' integrato con l'inserimento dell'ordinamento della scuola di specializzazione in endocrinochirurgia:  
   
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:   
-  
-Dopo l'art. 187 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di perfezionamento in scienze farmaceutiche e biochimica applicata, con il conseguente spostamento della numerazione degli articoli successivi.   
-  
-Scuola di perfezionamento in scienze farmaceutiche e biochimica applicata   
-  
-Art. 188. - Alla Facolta' di farmacia e' annessa la scuola di perfezionamento in scienze farmaceutiche e biochimica applicata.   
-Art. 189. - Scopo della scuola e' di utilizzare e perfezionare la cultura dei laureati in farmacia in modo da metterli anche in condizione di eseguire con sicurezza tutte quelle ricerche di indole chimico-biologica che richiedono professionisti specificamente preparati.   
-Art. 190. - Il corso di studi e' integrato da insegnamenti utili anche a chi si indirizza verso la farmacia ospedaliera o verso le industrie farmaceutiche e chimico-biologiche.   
-Art. 191. - Ai fini del conseguimento del diploma di specializzazione e' necessario aver frequentato durante un triennio corsi teorici ed esercitazioni sperimentali di:   
-1) Biologia generale: per coloro che non hanno sostenuto l'esame di zoologia generale nel corso per la laurea.   
-2) Microbiologia, sierologia umana e veterinaria, tecnica immunologica.   
-3) Complementi di chimica biologica, e descrittiva e dinamica.   
-4) Biochimica applicata.   
-5) Complementi di chimica farmaceutica e analitica.   
-6) Chimica farmaceutica industriale.   
-7) Complementi di farmacologia.   
-8) Analisi chimico-fisiche.   
-9) Determinazioni chimiche su materiali biologici.   
-10) Microanalisi e determinazioni microchimiche su farmacie e materiali biologici.   
-11) Fermentazioni e microbiologia tecnica.   
-12) Lavorazioni industriali di materiali biologici.   
-13) Farmacia ospedaliera e laboratorio ospedaliero.   
-14) Impianti e macchinario farmaceutico.   
-I corsi possono essere divisi in piu' parti anche con insegnanti diversi.   
-Art. 192. - Direttore della scuola e' il professore di chimica farmaceutica quando questi e' un professore di ruolo. Nel caso in cui questa cattedra non sia coperta da un professore di ruolo, il direttore e' nominato dal rettore su designazione del Consiglio della Facolta'.   
-Gli insegnanti vengono nominati dal Consiglio della Facolta' di farmacia.   
-Fra questi i professori di ruolo dell'Universita' di Padova costituiscono il Consiglio della scuola che e' presieduto dal direttore.   
-Art. 193. - Gli insegnamenti possono anche non avere carattere cattedratico ed essere svolti nella maniera piu' adatta che viene stabilita dal Consiglio della scuola, il quale fissa anche la durata dei singoli corsi o delle parti di essi.   
-Art. 194. - Alla scuola saranno ammessi i migliori fra i laureati in farmacia. Il numero di essi, i criteri di scelta, i temi di eventuali esami di ammissione saranno fissati anno per anno dal Consiglio della scuola.   
-Il Consiglio della scuola puo' inoltre deliberare la dispensa della frequenza di qualche corso o la convalida del relativo esame e anche un accorciamento della durata degli studi per candidati in possesso di titoli particolari conseguiti successivamente alla laurea.   
-Art. 195. - La sorveglianza degli iscritti, per i quali e' obbligatoria la continua presenza, spetta al direttore che eventualmente sottopone casi particolari al Consiglio della scuola che delibera la non ammissione agli esami di chi non ha dimostrato sufficiente diligenza.   
-Art. 196. - Le tasse di iscrizione, le soprattasse per gli esami di profitto, di diploma e per la ripetizione di esami sono proposte al Consiglio della scuola e sottoposte all'approvazione del Consiglio di amministrazione.   
-L'ammontare dei contributi di laboratorio viene stabilito dal Consiglio di amministrazione su proposta del Senato accademico, udite la Facolta' e scuola, ai sensi della [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).   
-La tassa di diploma e' fissata nella misura di L. 6000, ai sensi dell'art. 7 della citata legge n. 1551.   
-Le proposte concernenti la retribuzione agli insegnanti e l'utilizzazione dei fondi della scuola sono formulate dal Consiglio della scuola e sottoposte alla approvazione del Consiglio di amministrazione, con la osservanza delle disposizioni di cui alla [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551), e del [decreto del Presidente della Repubblica 1° dicembre 1952, n. 4512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-12-01;4512).   
-Art. 197. - Gli esami per le singole materie vengono sostenuti davanti ad una Commissione di tre membri nominata dal direttore della scuola. Ove il candidato sia respinto due volte nello stesso esame, il caso viene esaminato dal Consiglio della scuola che si pronuncia circa il proseguimento degli studi. Superati tutti gli esami i candidati sono ammessi all'esame di diploma.   
-Art. 198. - L'esame di diploma consiste in una tesi scritta relativa ad una ricerca sperimentale ed in una tesina orale di natura sperimentale e compilativa, viene sostenuto davanti ad una Commissione di undici (11) membri nominati e presieduti dal direttore della scuola.   
-Per concordare i temi delle due dissertazioni gli specializzati si rivolgeranno a loro scelta a due professori della scuola.   
+Scuola di specializzazione in endocrinochirurgia  
+La scuola di specializzazione in endocrinochirurgia ha sede presso l'istituto di clinica chirurgica generale servizio di endocrinochirurgia, dell'Universita' di Padova e conferisce il diploma di specialista in endocrinochirurgia.  
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale.  
+La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazioni.  
+Il numero massimo degli allievi e' di sei per anno di corso e complessivamente di diciotto iscritti per l'intero corso di studi.  
+L'ammissione alla scuola avviene per titoli ed esami.  
+Le materie d'insegnamento sono le seguenti:  
+1° Anno:  
+1) anatomia chirurgica delle ghiandole endocrine;  
+2) fisiopatologia delle ghiandole endocrine;  
+3) semeiotica chirurgica generale e speciale delle ghiandole endocrine;  
+4) anatomia patologica delle affezioni chirurgiche delle ghiandole endocrine (primo corso);  
+5) clinica chirurgica delle ghiandole endocrine (primo corso). 2° Anno:  
+1) radiologia e medicina nucleare in endocrinochirurgia;  
+2) anestesia e rianimazione in endocrinochirurgia;  
+3) chirurgia della ipofisi;  
+4) chirurgia della tiroide e delle paratiroidi;  
+5) chirurgia del pancreas;  
+6) clinica chirurgica delle ghiandole endocrine (secondo corso).  
+3° Anno:  
+1) chirurgia del surrene;  
+2) chirurgia dell'ovaio;  
+3) chirurgia del testicolo;  
+4) chirurgia plastica in endocrinochirurgia;  
+5) terapie complementari nelle affezioni chirurgiche delle ghiandole endocrine;  
+6) clinica chirurgica delle ghiandole endocrine (terzo corso).  
+La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.  
+Gli allievi che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le prove di esame.  
+Alla fine di ogni corso gli iscritti devono sostenere i relativi esami, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo; per le materie corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.  
+Alla fine del terzo anno, dopo aver superato tutti gli esami, ha luogo l'esame di diploma consistente nella discussione di una dissertazione scritta su un argomento attinente alla specializzazione e la cui scelta sia stata concordata tra il diplomando ed il direttore della scuola.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 settembre 1957
+### Dato a Roma, addi' 20 febbraio 1980
 
-GRONCHI MORO
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 28 ottobre 1957
+Registrato alla Corte dei conti, addi' 28 maggio 1980
 
-Atti del Governo, registro n. 108, foglio n. 110. - RELLEVA
+Registro n. 50 istruzione, foglio n. 116

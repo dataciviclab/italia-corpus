@@ -1,320 +1,160 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1962 n. 401
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1984 n. 1069
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1962 n. 401
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1984 n. 1069
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Veduto il [decreto del Presidente della Repubblica 26 luglio 1960, n. 1692](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-07-26;1692);  
-Veduta la [legge 21 luglio 1961, n. 685](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-21;685);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+L'art. 167, relativo all'ordinamento degli studi della scuola di specializzazione in ortopedia e traumatologia, durata triennale, e' soppresso.  
+
+Art. 2
+------
+
   
-Decreta:  
+Dopo l'art. 163, con lo spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi al riordinamento della scuola di specializzazione in ortopedia e traumatologia di durata quinquennale:  
+Art. 164. - E' istituita presso l'Universita' di Palermo la scuola di specializzazione in ortopedia e traumatologia che conferisce il diploma di specialista in ortopedia e traumatologia.  
+Art. 165. - La direzione della scuola ha sede presso l'istituto di clinica ortopedica e traumatologica dell'Universita'.  
+Art. 166. - La scuola ha lo scopo della formazione professionale dei medici che intendono esercitare la professione in qualita' di specialisti in ortopedia e traumatologia.  
+Art. 167. - La durata del corso e' di cinque anni e non e' suscettibile di abbreviazioni.  
+Art. 168. - Il numero degli iscritti e' di otto (8) per ogni anno e complessivamente di quaranta (40) per l'intero corso di studi.  
+Art. 169. - Alla scuola sono ammessi soltanto i laureati in medicina e chirurgia che abbiano gia' conseguito l'abilitazione all'esercizio professionale.  
+Art. 170. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che potra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e dalla valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
+a) la tesi di laurea nella disciplina attinente alla specializzazione;  
+b) il voto di laurea;  
+c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
+d) le pubblicazioni nelle predette materie.  
+Il punteggio dei predetti titoli e' quello determinato dall'apposito decreto del Ministro della pubblica istruzione del 16 settembre 1982.  
+Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nella graduatoria compilata sulla base del punteggio complessivo riportato.  
+Art. 171. - Fermo restando il disposto del [quinto comma dell'art. 74 del decreto del Presidente della Repubblica n. 382 dell'11 luglio 1980](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art74-com5), non e' consentita la contemporanea iscrizione alla scuola di specializzazione ed ai corsi per il conseguimento del dottorato di ricerca.  
+Art. 172. - E' costituito il consiglio della scuola presieduto dal direttore della scuola di specializzazione.  
+Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica n. 162 del 10 marzo 1982](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[articolo 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).  
+Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio del corso di laurea, in materia di coordinamento degli insegnamenti.  
+Art. 173. - A norma dell'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16), la direzione della scuola e' affidata ad un docente professore ordinario, straordinario o fuori ruolo che sia anche docente nella scuola stessa.  
+In caso di motivato impedimento, la direzione della scuola e' affidata ad un professore associato che pure insegni nella scuola medesima.  
+Art. 174. - Le materie di insegnamento, afferenti alla facolta' di medicina e chirurgia, sono le seguenti:  
   
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+1° Anno:  
+Insegnamento pratico:  
+chirurgia generale;  
+pronto soccorso generale;  
+fisioterapia.  
+Insegnamento teorico:  
+anatomia dell'apparato locomotore I;  
+fisiologia dell'apparato locomotore;  
+semeiotica ortopedica;  
+nozioni di chirurgia generale;  
+bioingegneria dell'apparato locomotore I;  
+kinesiologia (opzionale).  
+2° Anno:  
+Insegnamento pratico:  
+chirurgia generale (con frequenza eventuale in reparti specialistici interessanti per l'apparato locomotore);  
+reparti di pronto soccorso traumatologico;  
+reparti di ortopedia e traumatologia.  
+Insegnamento teorico:  
+anatomia ed istologia patologica dell'apparato locomotore I;  
+patologia dell'apparato locomotore I;  
+clinica ortopedica I;  
+traumatologia dell'apparato locomotore I;  
+radiologia I;  
+nozioni di chirurgia d'urgenza e pronto soccorso;  
+bioingegneria dell'apparato locomotore II.  
+3° Anno:  
+Insegnamento pratico:  
+reparti di ortopedia e traumatologia (in particolare sale di degenza e sale gessi).  
+Insegnamento teorico:  
+anatomia ed istologia patologica dell'apparato locomotore II;  
+clinica ortopedica II;  
+traumatologia dell'apparato locomotore II;  
+patologia dell'apparato locomotore II;  
+radiologia II;  
+tecnica operatoria I;  
+apparatoterapia e tecnica degli apparecchi gessati;  
+elementi di reumatologia.  
+4° Anno:  
+Insegnamento pratico:  
+reparti di ortopedia e traumatologia (frequenza nei reparti operatori).  
+Insegnamento teorico:  
+patologia dell'apparato locomotore III;  
+clinica ortopedica III;  
+traumatologia dell'apparato locomotore III;  
+tecnica operatoria II;  
+fisioterapia I;  
+neuropatologia dell'apparato locomotore ed elettrodiagnostica;  
+nozioni di medicina legale.  
+5° Anno:  
+Insegnamento pratico:  
+reparti di ortopedia e traumatologia (frequenza nei reparti operatori, officine ortopediche).  
+Insegnamento teorico:  
+chirurgia della mano (opzionale);  
+patologia dell'apparato locomotore IV;  
+traumatologia dell'apparato locomotore IV;  
+clinica ortopedica IV;  
+pediatria ortopedica (opzionale);  
+tecnica operatoria III;  
+fisioterapia II.  
   
-Art. 37. - Il primo comma e' abrogato e sostituito dal seguente:  
-La Facolta' di scienze matematiche, fisiche e naturali conferisce le seguenti lauree:  
-1) Laurea in chimica;  
-2) Laurea in fisica;  
-3) Laurea, in matematica;  
-4) Laurea in scienze naturali;  
-5) Laurea in scienze biologiche;  
-6) Laurea in scienze geologiche.  
-L'art. 39, relativo al corso di studi per la laurea in fisica e' abrogato e sostituito dal seguente:  
-  
-Laurea in fisica  
-  
-Art. 37. - La durata del corso degli studi per la laurea in Fisica e' di quattro anni.  
-Titolo di ammissione: diploma di maturita' classica o scientifica.  
-Possono inoltre essere ammessi i diplomati degli istituti tecnici industriali, agrari, nautici e per geometri, ai sensi delle vigenti disposizioni di legge.  
-Il corso di studi comprende i tre indirizzi: generale, didattico, applicativo.  
-  
-Sono insegnamenti fondamentali obbligatori a tutti gli indirizzi per il primo biennio:  
-I Anno:  
-Fisica generale I;  
-Esperimentazioni di fisica (biennale);  
-Analisi matematica I;  
-Geometria I.  
-II Anno:  
-Fisica generale II;  
-Analisi matematica II;  
-Meccanica razionale;  
-Chimica con esercitazioni di laboratorio (per fisici).  
-  
-Per ciascuno dei corsi elencati vi e' un esame orale, finale distinto. Nell'esame orale per ogni materia fondamentale, il cui corso e' accompagnato da esercitazioni (non di laboratorio) che ne costituiscono parte integrante, si terra' conto delle risposte date per iscritto di alcuni semplici quesiti. Ove le risposte a tali quesiti risultassero assolutamente insufficienti, la Commissione puo' decidere di non proseguire l'esame. E' richiesta, alla fine del biennio una prova di conoscenza della lingua inglese e di una delle seguenti, a scelta dello studente: francese, russo, tedesco.  
-I corsi di Fisica generale I e II, Analisi matematica I e II constano di due corsi distinti, il primo propedeutico al secondo, sia per la frequenza sia per gli esami. Come stabilito dalla legge il corso di Meccanica razionale (incluse le relative esercitazioni non di laboratorio) e' distinto da quello destinato agli allievi ingegneri, e i corsi di Esperimentazioni di fisica (biennali) di Chimica con esercitazioni di laboratorio (per fisici) devono avere carattere pratico, in modo da portate i singoli studenti a sperimentare con le proprie mani. Gli altri corsi sono accompagnati da esercitazioni non di laboratorio, che ne fanno parte integrante.  
-L'esame di Esperimentazioni di fisica I non potra' essere sostenuto se lo studente non abbia prima superato quello di Fisica generale I; analogamente dicasi per l'esame di Esperimentazioni di fisica II nei riguardi della Fisica generale II.  
-Possono essere iscritti ai corsi comuni agli indirizzi del secondo biennio soltanto gli studenti che abbiano superato gli esami di Fisica generale I e II, Analisi matematica I e II.  
-Gli insegnamenti per il secondo biennio sono i seguenti:  
-  
-Indirizzo generale  
-III Anno:  
-Struttura della materia;  
-Istituzioni di fisica teorica;  
-Metodi matematici della fisica;  
-Laboratorio di fisica, III anno;  
-Un corso a scelta di materie matematiche superiori (indicate con l'asterisco nell'elenco allegato).  
-IV Anno  
-Fisica superiore;  
-Fisica teorica;  
-Laboratorio di fisica, IV anno;  
-Un corso a scelta (vedasi elenco allegato).  
-  
-Gli studenti possono sostenere esami del III anno solo se essi abbiano superato tutti quelli del primo biennio.  
-L'esame di Laboratorio di fisica IV potra' essere sostenuto solo se sia stato superato quello di Laboratorio di fisica III. Il corso di Struttura della materia va inteso come una esposizione delle proprieta' degli atomi, delle molecole e degli stati condensati della materia. I corsi di Struttura della materia. Istituzioni di fisica teorica, Metodi matematici della fisica, Fisica superiore e Fisica teorica possono essere accompagnati da esercitazioni (non di laboratorio) che ne fanno parte integrante.  
-Per i suddetti cinque corsi nell'esame orale potra' essere tenuto conto delle risposte date per iscritto di alcuni semplici quesiti.  
-Ove le risposte a tali quesiti risultassero assolutamente insufficienti, la Commissione puo' decidere di non proseguire l'esame.  
-  
-Elenco dei corsi complementari (a scelta) per l'indirizzo generale:  
-Fisica atomica;  
-Fisica molecolare;  
-Fisica dello stato solido;  
-Proprieta', magnetiche dei solidi;  
-Struttura elettronica dei solidi;  
-Magnetismo elettronico e molecolare;  
-Fisica del plasma;  
-Fisica delle basse temperature;  
-Fisica statistica;  
-Istituzioni di fisica nucleare;  
-Fisica nucleare;  
-Teoria delle reazioni nucleari;  
-Fisica delle particelle elementari;  
-(\*) Cibernetica e teoria delle informazioni;  
-(\*) Calcolo delle probabilita';  
-(\*) Analisi superiore;  
-(\*) Matematiche superiori;  
-(\*) Meccanica analitica;  
-(\*) Meccanica statistica;  
-(\*) Teoria dei campi;  
-(\*) Teoria dei gruppi e applicazioni fisiche;  
-(\*) Teoria della relativita'.  
-  
-Indirizzo applicativo  
-III Anno:  
-Struttura della materia;  
-Metodi matematici della fisica;  
-Istituzioni di fisica teorica;  
-Laboratorio di fisica, III anno;  
-Un corso a scelta (vedasi elenco allegato).  
-IV Anno:  
-Laboratorio di fisica, IV anno;  
-Tre corsi a scelta (vedasi elenco allegato).  
-  
-Il carattere dell'indirizzo applicativo (per esempio, in Elettronica, Fisica dello stato solido, Biofisica, Fisica nucleare applicata, ecc.) sara' determinato dai corsi a scelta. Gli studenti che vogliono essere iscritti all'indirizzo applicativo, dovranno proporre dei curriculum che dovranno essere firmati, per l'applicazione, dal direttore dell'Istituto di fisica, e in detti curricula saranno fissati i corsi scelti e le eventuali precedenze negli esami. I curricula dovranno poi essere approvati dal Consiglio di Facolta'. Gli studenti potranno sostenere gli esami del III anno soltanto se essi hanno superato tutti quelli del primo biennio.  
-  
-Elenco dei corsi (a scelta) per l'indirizzo applicativo:  
-Elettronica nucleare;  
-Elettronica generale;  
-Elettronica applicata;  
-Teoria dei circuiti;  
-Teoria dei controlli;  
-Calcolatrici elettroniche;  
-Strumentazione elettronica;  
-Elaborazione e trasmissione delle informazioni;  
-Ricerca operativa;  
-Cibernetica e teoria delle informazioni;  
-Onde elettromagnetiche;  
-Economia ed organizzazione industriale;  
-Fisica atomica;  
-Fisica molecolare;  
-Fisica dello stato solido;  
-Semiconduttori e transistors;  
-Fisica delle basse temperature;  
-Spettroscopia;  
-Geofisica generale;  
-Fisica dei neutroni Istituzioni di fisica nucleare;  
-Fisica del plasma;  
-Fisica nucleare applicata;  
-Radioisotopi e loro impiego;  
-Chimica fisica;  
-Chimica biologica;  
-Chimica organica;  
-Biologia generale;  
-Genetica.  
-Indirizzo didattico  
-III Anno:  
-Struttura della materia;  
-Metodi matematici della fisica;  
-Complementi di fisica generale I;  
-Preparazione di esperienze didattiche I;  
-Istituzioni di fisica nucleare (in sostituzione di Storia della fisica).  
-IV Anno:  
-Istituzioni di fisica teorica;  
-Complementi di fisica generale II;  
-Preparazione di esperienze didattiche II;  
-Un corso a scelta (vedasi elenco allegato).  
-  
-Gli studenti possono sostenere gli esami del III anno solo se hanno superato tutti quelli del primo biennio.  
-Per gli esami orali delle materie fondamentali potra' essere seguita la stessa procedura gia' indicata per l'indirizzo generale.  
-  
-Elenco dei corsi (a scelta) per l'indirizzo didattico:  
-Onde elettromagnetiche;  
-Elettronica generale;  
-Elettrotecnica;  
-Fisica statistica;  
-Doceologia;  
-Ottica;  
-Fisica atomica;  
-Fisica molecolare;  
-Meccanica statistica;  
-Cibernetica e teoria delle informazioni;  
-Calcolo delle probabilita';  
-Istituzioni di analisi superiore;  
-Fisica delle particelle elementari;  
-Teoria della relativita';  
-Teoria delle reazioni nucleari.  
-  
-Per tutti e tre gli indirizzi l'esame di laurea consiste in tre prove: 1° esame di cultura generale in Fisica, 2ª esposizione e commento di una memoria della letteratura scientifica (tesina) tra due scelte dal candidato, in materie del corso di laurea di cui abbia superato l'esamne, diverse fra di loro e da quella della tesi, 3ª discussione di una tesi scritta.  
-Superato l'esame di laurea lo studente consegue il titolo di dottore in Fisica, indipendentemente dall'indirizzo prescelto del quale verra' fatta menzione soltanto nella carriera scolastica.  
-L'art. 40, relativo al corso di studi per la laurea in Scienze matematiche e' abrogato e sostituito dal seguente:  
-  
-Laurea in matematica  
-  
-Art. 40. - La durata del corso degli studi per la laurea in Matematica e' di quattro anni.  
-Titolo di ammissione: diploma di maturita' classica o scientifica.  
-Possono inoltre essere ammessi i diplomati di Istituti tecnici industriali, agrari, nautici e per geometri ai sensi delle vigenti disposizioni di legge.  
-Il corso di studi si distingue in tre indirizzi: generale, didattico, applicativo.  
-Lo studente deve dichiarare all'atto dell'iscrizione al III anno, quale dei tre indirizzi intende scegliere. Una Commissione di docenti delle discipline matematiche, designata dalla Facolta', e della quale dovranno in ogni caso far parte i professori di ruolo, potra', attraverso opportuni colloqui, consigliare gli studenti sulla scelta dell'indirizzo, e cio' se gli studenti lo chiedono, e comunque in modo non vincolante.  
-  
-Insegnamenti ed esami.  
-a) sono insegnamenti fondamentali obbligatori per tutti e tre gli indirizzi, per il primo biennio:  
-I Anno:  
-Analisi matematica I;  
-Geometria I;  
-Algebra;  
-Fisica generale I.  
-II Anno:  
-Analisi matematica II;  
-Geometria II;  
-Meccanica razionale;  
-Fisica generale II.  
-Per ciascuno degli insegnamenti elencati vi e' un esame finale. Gli insegnamenti elencati sono accompagnati ciascuno da un corso di esercitazioni che ne e' parte integrante. I corsi di Analisi matematica, Geometria, Fisica generale, consistono ognuno di due parti annuali distinte: la prima propedeutica alla seconda, e con due esami annuali distinti. Il corso di Meccanica razionale (incluse le relative esercitazioni non di laboratorio) e' distinto da quello destinato agli allievi ingegneri.  
-Potranno essere iscritti al II anno soltanto quegli studenti che abbiano superato almeno due degli esami di Analisi matematica I, Geometria I, Algebra.  
-b) Sono insegnamenti fondamentali obbligatori, comuni a tutti e tre gli indirizzi per il III anno:  
-1) Istituzioni di geometria superiore;  
-2) Istituzioni di analisi superiore;  
-3) Metodi matematici della fisica.  
-c) Nel secondo biennio, oltre agli insegnamenti 1, 2 e 3 della lettera b) comuni ai tre indirizzi, debbono essere seguiti altri quattro insegnamenti, di cui uno al III anno e gli altri tre al IV.  
-Di questi quattro insegnamenti due sono fondamentali obbligatori, e due complementari, a scelta dello studente.  
-I due insegnamenti fondamentali sono per ciascun indirizzo i seguenti:  
-Per l'indirizzo generale:  
-4) Fisica matematica;  
-5) Calcolo delle probabilita';  
-Per l'indirizzo didattico:  
-4) Matematiche complementari (con esercitazioni);  
-5) Calcolo delle probabilita';  
-Per l'indirizzo applicativo:  
-4) Calcolo delle probabilita';  
-5) Geodesia (con esercitazioni).  
-I due insegnamenti complementari saranno scelti nell'annesso elenco, uno nel primo gruppo (a carattere fisico) e uno nel secondo gruppo, di materie complementari relative all'indirizzo prescelto.  
-Per ciascuno degli insegnamenti del secondo biennio, sia fondamentali che complementari, vi e' un esame finale.  
-Per tutti gli insegnamenti, sia del primo che del secondo biennio, che sono accompagnati da un corso di esercitazioni che ne e' parte integrante, l'esame consta di due prove: una orale relativa all'insegnamento propriamente detto, una scritta o pratica a seconda del carattere delle esercitazioni. L'ordine delle due prove puo' essere qualunque e nessuna delle due prove e' eliminatoria rispetto all'altra.  
-Esame di laurea: L'esame di laurea consta di due parti:  
-a) un esame di cultura generale sulle scienze matematiche;  
-b) discussione di un lavoro scritto e di due tesine orali in materie diverse fra loro e diverse da quelle su cui verte il lavoro scritto.  
-Per l'indirizzo generale il lavoro scritto dovra' essere una ricerca originale. Superato l'esame di laurea, lo studente consegue il titolo di dottore in Matematica, indipendentemente dall'indirizzo prescelto, del quale verra' fatta menzione soltanto nella carriera scolastica.  
-  
-Materie complementari.  
-  
-Per l'indirizzo generale  
-I Gruppo:  
-Struttura della materia;  
-Complementi di fisica generale;  
-Fisica superiore;  
-Istituzioni di fisica teorica;  
-Astronomia;  
-Geodesia;  
-Geofisica;  
-Meccanica superiore;  
-Meccanica statistica.  
-II Gruppo:  
-Matematiche complementari;  
-Topologia;  
-Geometria differenziale;  
-Teoria delle funzioni;  
-Algebra superiore:  
-Matematiche superiori;  
-Statistica matematica;  
-Geometria superiore;  
-Logica matematica;  
-Analisi funzionale;  
-Teoria dei numeri;  
-Storia della matematica;  
-Matematiche elementari da un punto di vista superiore;  
-Analisi superiore;  
-Teoria e applicazioni delle macchine calcolatrici;  
-Cibernetica e teoria delle informazioni.  
-  
-Per l'indirizzo didattico  
-I Gruppo:  
-Struttura della materia;  
-Complementi di fisica generale;  
-Preparazione di esperienze didattiche;  
-Fisica superiore;  
-Istituzioni di fisica teorica;  
-Astronomia;  
-Geodesia;  
-Fisica matematica;  
-Meccanica superiore.  
-II gruppo:  
-Topologia;  
-Geometria differenziale;  
-Matematiche superiori;  
-Geometria superiore;  
-Logica matematica;  
-Teoria dei numeri;  
-Storia della matematica;  
-Matematiche elementari da un punto di vista superiore;  
-Analisi superiore;  
-Calcoli numerici e grafici;  
-Teoria e applicazioni delle macchine calcolatrici;  
-Matematica finanziaria ed attuariale.  
-  
-Per l'indirizzo applicativo  
-I Gruppo:  
-Complementi di fisica generale;  
-Astronomia;  
-Geofisica;  
-Meccanica statistica;  
-Onde elettromagnetiche  
-II gruppo:  
-Geometria differenziale;  
-Statistica matematica;  
-Logica matematica;  
-Analisi superiore;  
-Calcoli numerici e grafici;  
-Teoria e applicazioni delle macchine calcolatrici;  
-Cibernetica e teoria delle informazioni;  
-Ricerca operativa;  
-Matematica finanziaria e attuariale.  
-  
-L'art. 41, relativo al corso di studi per la laurea in Matematica e Fisica e soppresso.  
+Art. 175. - Le attivita' pratiche consistono nella assidua frequenza, secondo turni stabiliti dalla direzione della scuola, che si alternano tra: ambulatorio, sala gessi, sale di degenza, sala medicazione e sala operatoria.  
+Gli specializzandi dovranno partecipare direttamente alle attivita' svolte nei sopra citati reparti.  
+Art. 176. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Art. 177. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni successivi, devono superare la prova di esame sulle materie svolte durante l'anno.  
+Art. 178. - La frequenza ai corsi e' obbligatoria. Per essere ammessi agli esami e' necessario aver frequentato, sia in attivita' didattiche che pratiche, un periodo non inferiore ai due terzi delle giornate lavorative come da calendario accademico.  
+Le assenze per malattia non abbassano il quorum delle presenze necessarie per essere ammessi agli esami: pero' va riconosciuta utile la giustificazione dell'assenza. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo.  
+La commissione d'esame di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso.  
+Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
+Art. 179. - Ai fini della frequenza e delle attivita' pratiche, si riconosce utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.  
+La documentazione prodotta dovra' essere valutata dal consiglio della scuola.  
+Art. 180. - Gli esami di profitto di ciascun anno di corso si svolgono in unica sessione autunnale.  
+Superato l'esame teorico-pratico dell'ultimo anno il corso di studio della scuola si conclude con un esame finale, consistente nella discussione di una tesi scritta su una o piu' materie del corso.  
+A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista in ortopedia e traumatologia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 marzo 1962
+### Dato a Roma, addi' 31 ottobre 1984
 
-GRONCHI GUI
+PERTINI
 
-Visto, il Guardasigilli: BOSCO
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 6 giugno 1962
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Atti del Governo, registro n. 148, foglio n. 103. - VILLA
+Registrato alla Corte dei conti, addi' 11 febbraio 1985
+
+Registro n. 8 Istruzione, foglio n. 93

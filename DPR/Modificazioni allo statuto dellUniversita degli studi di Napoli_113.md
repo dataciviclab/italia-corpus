@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1979 n. 147
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1973 n. 483
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1979 n. 147
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1973 n. 483
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,68 +10,81 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 365, 366, 367, 368, 369 relativi alla scuola di specializzazione in ostetricia e ginecologia, sono abrogati e sostituiti dai seguenti:  
   
-Dopo l'art. 652, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia della mano presso la seconda facolta' di medicina e chirurgia.   
-Scuola di specializzazione in chirurgia della mano   
-Art. 653. - La scuola di specializzazione in chirurgia della mano ha sede presso l'istituto di clinica ortopedica e conferisce il diploma di specialista in chirurgia della mano.   
-Art. 654. - Il corso ha la durata di tre anni. Possono essere ammessi alla scuola i laureati in medicina e chirurgia.   
-Art. 655. - Il numero dei posti disponibili e' di tre per ogni anno.   
-Art. 656. - La frequenza e' obbligatoria nell'istituto sede della scuola per un periodo di nove mesi per ogni anno accademico.   
-Per nessun motivo sono ammesse abbreviazioni della durata degli studi.   
-Art. 657. - Gli insegnamenti impartiti dalla scuola sono:   
-1° Anno:   
-clinica ortopedica dell'arto superiore (biennale I anno);   
-traumatologia dell'arto superiore (biennale I anno);   
-chirurgia plastica ricostruttiva (biennale I anno);   
-anatomia funzionale della mano;   
-anatomia-chirurgia dell'arto superiore;   
-anatomia e istologia patologica;   
-radiodiagnostica dell'arto superiore e nozioni di radioterapia; anestesia e rianimazione.   
-2° Anno:   
-clinica ortopedica dell'arto superiore (biennale II anno);   
-traumatologia dell'arto superiore (biennale II anno);   
-chirurgia plastica ricostruttiva (biennale II anno);   
-tecniche di chirurgia tendinea;   
-tecniche di chirurgia osteo-articolare;   
-chirurgia vascolare dell'arto superiore.   
-3° Anno:   
-semeiotica e clinica neurologica dell'arto superiore;   
-elettrodiagnostica ed elettromiografia;   
-microchirurgia dei nervi periferici;   
-fisiochinesiterapia;   
-clinica dermatologica;   
-nozioni di medicina legale;   
-nozioni di psicologia;   
-protesi sostitutive nelle amputazioni dell'arto superiore.   
-Art. 658. - L'allievo del primo anno, per essere ammesso al secondo, deve aver superato tutti gli esami del primo anno. L'allievo del secondo anno, per essere ammesso al terzo, deve aver superato i tre esami biennali e tutti gli altri esami del secondo anno.   
-Per l'ammissione all'esame di diploma il candidato deve presentare una dissertazione scritta su un argomento della specialita'.   
-Art. 659. - I fondi a disposizione della scuola sono rappresentati dagli introiti delle tasse di iscrizione e di laboratorio, dalle sovvenzioni di enti o di privati, di cui principalmente la clinica ortopedica e traumatologica.   
-Art. 660. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Scuola di specializzazione in ostetricia e ginecologia  
+  
+Art. 365. - La scuola di specializzazione in ostetricia e ginecologia ha la durata di 4 anni. L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami.  
+Sono da considerarsi titoli preferenziali, a parita' di risultato dell'esame di ammissione:  
+A) il voto di laurea in medicina e chirurgia;  
+B) aver frequentato come studente interno una clinica ostetrica e ginecologica della universita';  
+C) aver svolto la tesi di laurea nella clinica ostetrica e ginecologica;  
+D) documentazione di eventuali servizi prestati in grossi reparti ospitalieri della specialita';  
+E) eventuali pubblicazioni.  
+L'esame di ammissione deve espletarsi entro il mese di dicembre.  
+Il numero massimo degli iscritti e' di venti per ogni anno accademico.  
+Non sono consentite abbreviazioni di corso.  
+Art. 366. - Le materie di insegnamento sono:  
+1° Anno:  
+1) Elementi di genetica e di eugenica;  
+2) Anatomia normale ed embriologia dell'apparato genitale femminile;  
+3) Fisiologia dell'apparato genitale femminile;  
+4) Endocrinologia fisiologica;  
+5) Fisiologia ostetrica;  
+6) Clinica ostetrica e ginecologica;  
+7) Diagnostica ostetrica.  
+2° Anno:  
+1) Tecnica operatoria ostetrica;  
+2) Diagnostica ginecologica;  
+3) Tecnica diagnostica di laboratorio nel campo ostetrico-ginecologico, esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);  
+4) Clinica ostetrica e ginecologica.  
+3° Anno:  
+1) Anatomia patologica ostetrica e ginecologica;  
+2) Istologia normale e patologica nel campo della specialita';  
+3) Puericultura prenatale;  
+4) Emoterapia nel campo ostetrico e ginecologico;  
+5) Anestesia e analgesia nel campo ostetrico e ginecologico;  
+6) Tecnica operatoria ginecologica;  
+7) Clinica ostetrica e ginecologica;  
+8) Terapia medica ostetrica e ginecologica.  
+4° Anno:  
+1) Puericultura postnatale e malattie del neonato;  
+2) Ostetricia e ginecologia forense;  
+3) Diagnostica roentgen, radioterapia in ostetricia e ginecologia;  
+4) Clinica ostetrica e ginecologica (esame alla fine del quarto anno);  
+5) Urologia ginecologica;  
+6) Chirurgia addominale ed extra addominale.  
+Art. 367. - Nessun titolo puo' esonerare dalla frequenza gli iscritti nei 4 anni di corso. Gli iscritti, oltre all'obbligo di frequenza delle lezioni, esercitazioni, seminari, ecc. devono prestare servizio analogo a quello degli assistenti per non meno di 9 mesi all'anno.  
+Art. 368. - Gli iscritti alla scuola debbono sostenere esami annuali di profitto e l'esame finale di diploma.  
+La sessione di esami di profitto e' unica, ed e' espletata nel mese di ottobre. Non puo' essere iscritto all'anno successivo di corso chi non abbia superato le materie fondamentali della specialita'.  
+Gli esami di profitto si danno per gruppi di materie alla fine di ciascun anno di corso ed i membri delle commissioni sono proposti dal direttore della scuola.  
+Al termine dei quattro anni di corso per il conseguimento del diploma gli iscritti devono presentare e discutere una dissertazione scritta con contributo personale.  
+Art. 369. - A giudizio del consiglio della scuola, formulato sulla base del rendimento di ogni iscritto, gli specializzandi potranno essere esonerati dal pagamento delle tasse universitarie.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 marzo 1979
+### Dato a Roma, addi' 12 giugno 1973
 
-PERTINI PEDINI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 14 maggio 1979
+Registrato alla Corte dei conti, addi' 3 agosto 1973
 
-Registro n. 33 Istruzione, foglio n. 285
+Atti di Governo, registro n. 259, foglio n. 65. - VALENTINI

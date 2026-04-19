@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1982 n. 305
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1977 n. 86
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1982 n. 305
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1977 n. 86
+=============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-305. Decreto del Presidente della Repubblica 9 marzo 1982, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione, consistente in una raccolta di oggetti di origine protostorica-paleoveneta, i quali rivestono un importante interesse archeologico, disposta dal sig. Giancarlo Ligabue con atto pubblico 14 settembre 1976, n. 51523 di repertorio, a rogito dell'avv. prof.  
-Giulio Argenti, notaio in Venezia, da destinare al museo archeologico in Venezia.  
+86. Decreto del Presidente della Repubblica 21 gennaio 1977, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal dott. Francesco Ambrosoli, con atto 24 settembre 1974, n. 40712 di repertorio, a rogito notaio Achille Pedraglio, di un appezzamento di terreno di mq 1500, sito in comune di Ronago (Como).  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 24 maggio 1982  
-Registro n. 14 Beni culturali, foglio n. 14
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 26 marzo 1977  
+Registro n. 15 Finanze, foglio n. 323

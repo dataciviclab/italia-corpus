@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 febbraio 1971 n. 84
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 agosto 1971 n. 900
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 febbraio 1971 n. 84
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 agosto 1971 n. 900
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Sassari.
 -------------------------------------------------------------------
@@ -10,36 +10,80 @@ Modificazioni allo statuto dell'Universita' degli studi di Sassari.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084) e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Sassari approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084) e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 56. - E' abrogato e sostituito dal seguente La facolta' di scienze matematiche, fisiche e naturali conferisce le lauree in scienze naturali, in scienze biologiche ed in chimica (indirizzo organico-biologico).   
+Titolo di ammissione e' quello previsto dalle vigenti disposizioni di legge.   
+Dopo l'art. 53 e con il conseguente spostamento della numerazione degli articoli successivi e' inserito il seguente nuovo articolo relativo all'ordinamento del corso di studi per il conseguimento della laurea in chimica (indirizzo organico-biologico).   
   
-Art. 27. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti quelli di:  
-Storia della scuola e delle istituzioni educative;  
-Teoria delle comunicazioni.  
+Laurea in chimica   
+  
+Art. 59. - La durata del corso degli studi e' di cinque anni divisi in un biennio di studi propedeutici e in un triennio di studi di applicazione.   
+  
+BIENNIO PROPEDEUTICO:   
+Insegnamenti fondamentali:   
+1) Istituzioni di matematica (biennale);.   
+2) Chimica, generale ed inorganica (biennale);   
+3) Chimica organica (biennale);   
+4) Chimica analitica;   
+5) Fisica sperimentale (biennale);   
+6) Mineralogia con esercitazioni pratiche (corso speciale per chimici);   
+7) Esercitazioni di matematiche (biennale);   
+8) Esercitazioni di disegno di elementi di macchina;   
+9) Esercitazioni di preparazioni chimiche;   
+10) Esercitazioni di analisi chimica qualitativa;   
+11) Esercitazioni di fisica sperimentale.   
+  
+TRIENNIO APPLICATIVO PER L'INDIRIZZO ORGANICO BIOLOGICO:   
+Insegnamenti fondamentali:   
+1) Chimica fisica (biennale);   
+2) Esercitazioni di analisi chimica quantitativa;   
+3) Esercitazioni di chimica fisica (biennale);   
+4) Esercitazioni di chimica organica e di analisi organica;   
+5) Esercitazioni di preparazioni chimiche ovvero di analisi chimica applicata (a scelta dello studente).   
+Insegnamenti complementari:   
+1) Chimica farmaceutica;   
+2) Chimica biologica;   
+3) Chimica organica industriale;   
+4) Chimica organica superiore;   
+5) Chimica macro-molecolare;   
+6) Chimica delle fermentazioni;   
+7) Chimica organica applicata;   
+8) Tecnologia e chimica del petrolio;   
+9) Esercitazioni di tecnica e sintesi speciali organiche;   
+10) Chimica bromatologica;   
+11) Scienza dell'alimentazione;   
+12) Farmacologia;   
+13) Chimica delle sostanze organiche naturali;   
+14) Chimica agraria;   
+15) Fisiologia generale (corso speciale per chimici);   
+16) Analisi chimica strumentale;   
+18) Biochimica applicata.   
+Per ottenere l'iscrizione al triennio di applicazione lo studente dovra' aver seguito i corsi e superato gli esami di tutti gli insegnamenti fissati per il biennio di studi propedeutici. Per essere ammesso all'esame di laurea lo studente dovra' aver seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali del triennio di applicazione e di sette almeno da lui scelti tra i complementari.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 febbraio 1971
+### Dato a Roma, addi' 28 agosto 1971
 
 SARAGAT MISASI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 18 marzo 1971
+Registrato alla Corte dei conti, addi' 6 novembre 1971
 
-Atti del Governo, registro n. 241, foglio n. 69. - CARUSO
+Atti del Governo, registro n. 245, foglio n. 10. - CARUSO

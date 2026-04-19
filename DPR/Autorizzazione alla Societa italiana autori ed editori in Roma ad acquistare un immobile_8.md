@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 luglio 1982 n. 778
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 novembre 1982 n. 1054
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 luglio 1982 n. 778
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 novembre 1982 n. 1054
+================================================================
 
 Autorizzazione alla Societa' italiana autori ed editori, in Roma, ad acquistare un immobile.
 --------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-778. Decreto del Presidente della Repubblica 27 luglio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana autori ed editori - SIAE, in Roma, viene autorizzata ad acquistare, al convenuto prezzo di L. 158.000.000, come da atto 24 febbraio 1976, n. 70155 di repertorio, a rogito dott. Gino Aggio, notaio in Conegliano (Treviso), un immobile sito in Milano, Foro Bonaparte n. 18, comprendente autorimessa al pianoterreno, appartamento al piano sesto con relativa cantina al piano sottosuolo, distinto nel nuovo catasto edilizio urbano al foglio 349, mappali n. 9 sub 1 - 8 sub 26, immobile valutato dall'ufficio tecnico erariale di Milano in L. 166.000.000.  
+1054. Decreto del Presidente della Repubblica 23 novembre 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana autori ed editori (SIAE), in Roma, viene autorizzata ad acquistare, al convenuto prezzo di L. 55.000.000, un immobile sito in Forli', via Merenda n. 13, comprendente un appartamento al piano primo, con annesso vano ad uso ripostiglio al piano interrato, distinti nel nuovo catasto edilizio urbano alla partita 8553, foglio 180, con le particelle numeri 1302 sub 13, 1302 sub 55; immobile valutato da perizia estimativa di parte L. 55.200.000.  
   
 Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 21 ottobre 1982  
-Registro n. 9 Presidenza, foglio n. 248
+Registrato alla Corte dei conti, addi' 24 gennaio 1983  
+Registro n. 1 Presidenza, foglio n. 165

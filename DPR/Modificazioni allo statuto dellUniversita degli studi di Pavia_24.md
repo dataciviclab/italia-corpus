@@ -1,397 +1,75 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 811
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 maggio 1965 n. 740
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 811
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 maggio 1965 n. 740
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dall'autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Gli articoli 114, 115, 116, relativi alla scuola di specializzazione in radiologia, sono abrogati e sostituiti dai seguenti:
-
-Scuola di specializzazione in radiologia
-
-Art. 114. - La scuola rilascia i seguenti diplomi di specializzazione: in radiologia e in radiologia diagnostica.
-
-La scuola e' riservata ai laureati in medicina e chirurgia, che possono essere accolti in numero massimo di dieci per ciascun anno di corso per radiologia e radiologia diagnostica (totale 40).
-
-Art. 115. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia e' di quattro anni.
-
-Gli insegnamenti sono i seguenti:
-
-a) Matematica, fisica, nozioni di statistica e informatica (annuale) comprendente:
-
-1) Richiami di matematica e fisica generale;
-
-2) Costituzione della materia;
-
-3) Produzione, assorbimento e misura delle radiazioni;
-
-4) Statistica applicata alla medicina;
-
-5) Informatica e cibernetica applicate alla radiologia.
-
-b) Radiodiagnostica (triennale) comprendente:
-
-1) Principi generali di radiodiagnostica;
-
-2) Apparecchi, strumenti e tecnica radiodiagnostica;
-
-3) Tecnica e fisiologia applicate alla radiodiagnostica;
-
-4) I mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;
-
-5) Semeiotica radiologica;
-
-6) Diagnostica differenziale radiologica;
-
-7) Dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;
-
-8) Dimostrazioni di casistica clinica.
-
-c) Radiobiologia (annuale) comprendente:
-
-1) Radiobiologia generale;
-
-2) Danni da radiazioni e radiopatie.
-
-d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
-
-1) Legislazione sanitaria applicata alla radiologia;
-
-2) Compiti e responsabilita' medico-legali del radiologo;
-
-3) Radioprotezione fisica e dosimetria ad essa connessa;
-
-4) Fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;
-
-5) Radioprotezione chimica;
-
-6) Problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.
-
-e) Radioterapia e terapia fisica (triennale) comprendente:
-
-1) Radiobiologia applicata;
-
-2) Fondamenti generali di radioterapia e terapia fisica;
-
-3) Istopatologia speciale dei tumori;
-
-4) Nozioni sugli apparecchi o strumenti per la radioterapia;
-
-5) Tecnica e metodica radioterapica;
-
-6) Dosimetria;
-
-7) Clinica radioterapica;
-
-8) Fondamenti generali di chemioterapia oncologica;
-
-9) Chemioterapia clinica dei tumori e sua associazione alla radioterapia;
-
-10) Dimostrazione di casistica clinica.
-
-f) Medicina nucleare (biennale) comprendente:
-
-1) Elementi di medicina nucleare;
-
-2) Istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare;
-
-3) Dosimetria dei radioisotopi somministrati per via interna;
-
-4) Diagnostica con radioisotopi somministrati per via interna;
-
-5) Radioterapia metabolica;
-
-6) Dimostrazioni di casistica clinica.
-
-I singoli insegnamenti, tenuti da uno o piu' docenti, a secondo di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni prati che e, ove opportuno e possibile, da visite a istituzioni di particolare interesse, sono cosi' distribuiti nei quattro anni di corso:
-
-1° Anno (tronco comune):
-
-Matematica, fisica, nozioni di statistica ed informatica;
-
-Radiobiologia;
-
-Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;
-
-Radiodiagnostica (I).
-
-2° Anno:
-
-Radiodiagnostica (II);
-
-Radioterapia e terapia fisica (I).
-
-3° Anno:
-
-Radiodiagnostica (III);
-
-Radioterapia e terapia fisica (II);
-
-Medicina nucleare (I).
-
-4° Anno:
-
-Radioterapia e terapia fisica (III);
-
-Medicina nucleare (II).
-
-Art. 116. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica di tre anni.
-
-Gli insegnamenti sono i seguenti:
-
-a) Matematica, fisica, nozioni di statistica e informatica (annuale) comprendente:
-
-1) Richiami di matematica e fisica generale;
-
-2) Costituzione della materia;
-
-3) Produzione, assorbimento e misura delle radiazioni;
-
-4) Statistica applicata alla medicina;
-
-5) Informatica e cibernetica applicate alla radiologia.
-
-b) Radiodiagnostica (triennale) comprendente:
-
-1) Principi generali di radiodiagnostica;
-
-2) Apparecchi, strumenti e tecnica radiodiagnostica;
-
-3) Tecnica e fisiologia applicate alla radiodiagnostica;
-
-4) I mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e la loro terapia;
-
-5) Semeiotica radiologica;
-
-6) Diagnostica differenziale e radiologica;
-
-7) Dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;
-
-8) Dimostrazioni di casistica clinica.
-
-c) Radiologia (annuale) comprendente:
-
-1) Radiobiologia generale;
-
-2) Danni da radiazioni e radiopatie.
-
-d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
-
-1) Legislazione sanitaria applicata alla radiologia;
-
-2) Compiti e responsabilita' medico-legali del radiologo;
-
-3) Radioprotezione fisica e dosimetria ad essa connessa;
-
-4) Fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;
-
-5) Radioprotezione chimica;
-
-6) Problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.
-
-I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso.
-
-1° Anno (tronco comune):
-
-Matematica, fisica, nozioni di statistica ed informatica;
-
-Radiobiologia;
-
-Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;
-
-Radiodiagnostica (I).
-
-2° Anno:
-
-Radiodiagnostica (II).
-
-3° Anno:
-
-Radiodiagnostica (III).
-
-Per essere ammessi agli esami di diploma in radiologia e in radiologia diagnostica gli iscritti, oltre ad avere compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia di insegnamento ed elaborata una tesi scritta su di un argomento radiologico concordato con il direttore della scuola.
-
-L'art. 205, secondo comma, e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in ortopedia e traumatologia e' stabilito in sessanta (60) per l'intero corso di studi.
-
-L'art. 217, ultimo comma, e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in ematologia clinica e di laboratorio e' stabilito in novanta (90) per l'intero corso di studi.
-
-L'art. 218, primo comma, e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in gerontologia e geriatria e' stabilito in sessanta (60) per l'intero corso di studi.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1974
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 27 gennaio 1975 Atti di Governo, registro n. 8, foglio n. 70
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dall'autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933 numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli 114, 115, 116, relativi alla scuola di specializzazione in radiologia, sono abrogati e sostituiti dai seguenti:   
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 42. - Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo organico-biologico) a aggiunto quello di "Chimica organica superiore".  
+L'insegnamento complementare di "Fisica superiore" del corso di laurea in Chimica (indirizzo inorganico-chimico-fisico) e' soppresso e sostituito con quello di "Struttura della materia".  
+Art. 43. - Agli insegnamenti complementari del corso di laurea in Fisica (indirizzo applicativo) sono aggiunti quelli di "Biofisica", "Biologia molecolare", "Radiochimica o Chimica nucleare con esercitazioni".  
+Art. 46. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche e' aggiunto quello di "Istologia patologica.)".  
+Art. 52. - E' abrogato e sostituito dal seguente:  
+"Il professore di ruolo di Chimica farmaceutica e tossicologica della Facolta' di Farmacia, il quale tenga l'incarico di Chimica farmaceutica nella Facolta' di Scienze matematiche, fisiche e naturali, e' aggregato alla Facolta' medesima.  
+Gli articoli 95 e 96 relativi alla Scuola di specializzazione in Oculistica, sono abrogati e sostituiti dai seguenti:  
   
-Scuola di specializzazione in radiologia   
-Art. 114. - La scuola rilascia i seguenti diplomi di specializzazione: in radiologia e in radiologia diagnostica.   
-La scuola e' riservata ai laureati in medicina e chirurgia, che possono essere accolti in numero massimo di dieci per ciascun anno di corso per radiologia e radiologia diagnostica (totale 40).   
-Art. 115. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia e' di quattro anni.   
-Gli insegnamenti sono i seguenti:   
-a) Matematica, fisica, nozioni di statistica e informatica (annuale) comprendente:   
-1) Richiami di matematica e fisica generale;   
-2) Costituzione della materia;   
-3) Produzione, assorbimento e misura delle radiazioni;   
-4) Statistica applicata alla medicina;   
-5) Informatica e cibernetica applicate alla radiologia.   
-b) Radiodiagnostica (triennale) comprendente:   
-1) Principi generali di radiodiagnostica;   
-2) Apparecchi, strumenti e tecnica radiodiagnostica;   
-3) Tecnica e fisiologia applicate alla radiodiagnostica;   
-4) I mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;   
-5) Semeiotica radiologica;   
-6) Diagnostica differenziale radiologica;   
-7) Dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;   
-8) Dimostrazioni di casistica clinica.   
-c) Radiobiologia (annuale) comprendente:   
-1) Radiobiologia generale;   
-2) Danni da radiazioni e radiopatie.   
-d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:   
-1) Legislazione sanitaria applicata alla radiologia;   
-2) Compiti e responsabilita' medico-legali del radiologo;   
-3) Radioprotezione fisica e dosimetria ad essa connessa;   
-4) Fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;   
-5) Radioprotezione chimica;   
-6) Problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.   
-e) Radioterapia e terapia fisica (triennale) comprendente:   
-1) Radiobiologia applicata;   
-2) Fondamenti generali di radioterapia e terapia fisica;   
-3) Istopatologia speciale dei tumori;   
-4) Nozioni sugli apparecchi o strumenti per la radioterapia;   
-5) Tecnica e metodica radioterapica;   
-6) Dosimetria;   
-7) Clinica radioterapica;   
-8) Fondamenti generali di chemioterapia oncologica;   
-9) Chemioterapia clinica dei tumori e sua associazione alla radioterapia;   
-10) Dimostrazione di casistica clinica.   
-f) Medicina nucleare (biennale) comprendente:   
-1) Elementi di medicina nucleare;   
-2) Istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare;   
-3) Dosimetria dei radioisotopi somministrati per via interna;   
-4) Diagnostica con radioisotopi somministrati per via interna;   
-5) Radioterapia metabolica;   
-6) Dimostrazioni di casistica clinica.   
-I singoli insegnamenti, tenuti da uno o piu' docenti, a secondo di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni prati che e, ove opportuno e possibile, da visite a istituzioni di particolare interesse, sono cosi' distribuiti nei quattro anni di corso:   
-1° Anno (tronco comune):   
-Matematica, fisica, nozioni di statistica ed informatica;   
-Radiobiologia;   
-Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;   
-Radiodiagnostica (I).   
-2° Anno:   
-Radiodiagnostica (II);   
-Radioterapia e terapia fisica (I).   
-3° Anno:   
-Radiodiagnostica (III);   
-Radioterapia e terapia fisica (II);   
-Medicina nucleare (I).   
-4° Anno:   
-Radioterapia e terapia fisica (III);   
-Medicina nucleare (II).   
-Art. 116. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica di tre anni.   
-Gli insegnamenti sono i seguenti:   
-a) Matematica, fisica, nozioni di statistica e informatica (annuale) comprendente:   
-1) Richiami di matematica e fisica generale;   
-2) Costituzione della materia;   
-3) Produzione, assorbimento e misura delle radiazioni;   
-4) Statistica applicata alla medicina;   
-5) Informatica e cibernetica applicate alla radiologia.   
-b) Radiodiagnostica (triennale) comprendente:   
-1) Principi generali di radiodiagnostica;   
-2) Apparecchi, strumenti e tecnica radiodiagnostica;   
-3) Tecnica e fisiologia applicate alla radiodiagnostica;   
-4) I mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e la loro terapia;   
-5) Semeiotica radiologica;   
-6) Diagnostica differenziale e radiologica;   
-7) Dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;   
-8) Dimostrazioni di casistica clinica.   
-c) Radiologia (annuale) comprendente:   
-1) Radiobiologia generale;   
-2) Danni da radiazioni e radiopatie.   
-d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:   
-1) Legislazione sanitaria applicata alla radiologia;   
-2) Compiti e responsabilita' medico-legali del radiologo;   
-3) Radioprotezione fisica e dosimetria ad essa connessa;   
-4) Fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;   
-5) Radioprotezione chimica;   
-6) Problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.   
-I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso.   
-1° Anno (tronco comune):   
-Matematica, fisica, nozioni di statistica ed informatica;   
-Radiobiologia;   
-Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;   
-Radiodiagnostica (I).   
-2° Anno:   
-Radiodiagnostica (II).   
-3° Anno:   
-Radiodiagnostica (III).   
-Per essere ammessi agli esami di diploma in radiologia e in radiologia diagnostica gli iscritti, oltre ad avere compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia di insegnamento ed elaborata una tesi scritta su di un argomento radiologico concordato con il direttore della scuola.   
-L'art. 205, secondo comma, e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in ortopedia e traumatologia e' stabilito in sessanta (60) per l'intero corso di studi.   
-L'art. 217, ultimo comma, e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in ematologia clinica e di laboratorio e' stabilito in novanta (90) per l'intero corso di studi.   
-L'art. 218, primo comma, e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in gerontologia e geriatria e' stabilito in sessanta (60) per l'intero corso di studi.   
+Scuola di specializzazione in Oculistica  
+Art. 95. - La durata della Scuola e' di quattro anni.  
+Il numero complessivo degli iscritti ai quattro anni del corso e' di venti.  
+Gli insegnamenti impartiti nella Scuola sono i seguenti:  
+1° Anno:  
+1) Anatomia ed istologia, dell'apparato oculare;  
+2) Nozioni di embriologia e genetica oculare;  
+3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;  
+4) Nozioni di ottica fisiologica, esame della refrazione;  
+5) Microbiologia ed igiene oculare.  
+2° Anno:  
+1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmologia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);  
+2) Farmacologia oculare e terapia fisica;  
+3) Anatomia patologica oculare;  
+4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della sclera).  
+3° Anno:  
+1) Patologia e clinica oculare (malattie dell'uvea, della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);  
+2) Anomalie e patologia della motilita' oculare e della visione binoculare, ortottica e pleottica;  
+3) Affezioni otorinolaringoiatriche e occhio;  
+4) Tecnica operatoria - 1ª parte.  
+4° Anno:  
+1) Neuro-oftalmologia;  
+2) Malattie oculari in rapporto ad affezioni generali;  
+3) Malattie professionali. Infortunistica e medicina legale oculare.  
+4) Tecnica operatoria - 2ª parte:  
+5) Tesi di specializzazione.  
+Art. 96. - Gli esami di profitto si danno alla fine di ciascun anno di corso. Alla fine del corso gli iscritti, oltre a presentare la dissertazione scritta ed a sostenere la relativa discussione, devono sostenere una prova pratica sull'ammalato.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1974
+### Dato a Roma, addi' 7 maggio 1965
 
-LEONE MALFATTI
+SARAGAT GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 27 gennaio 1975
+Registrato alla Corte dei conti, addi' 1 luglio 1965
 
-Atti di Governo, registro n. 8, foglio n. 70
+Atti del Governo, registro n. 194, foglio n. 6. - VILLA

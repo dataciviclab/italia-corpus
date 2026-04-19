@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 novembre 1985 n. 994
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 532
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 novembre 1985 n. 994
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 532
+=============================================================
 
 Autorizzazione all'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, ad acquistare un immobile.
 --------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-994. Decreto del Presidente della Repubblica 13 novembre 1985, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, viene autorizzata ad acquistare, al prezzo di L. 55.000.000, un immobile sito in Latina, via Cairoli n. 2, censito al nuovo catasto edilizio urbano alla partita n. 86, foglio n. 143, particella n. 37 sub 17, di proprieta' dei signori Giglio Renato e Zambrano Concetta, come da atto di compravendita 30 giugno 1980, n. 9695/3286 di repertorio, a rogito dott. Antonio Alfonsi, notaio in Latina, registrato a Latina in data 8 luglio 1980 al n. 9496, da adibire a sezione provinciale dell'Associazione.   
+532. Decreto del Presidente della Repubblica 11 maggio 1979, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, viene autorizzata ad acquistare, al prezzo di L. 87.600.000, l'immobile costituito da due monolocali con servizi, un appartamento di sei vani e accessori, un locale al piano seminterrato sito in Firenze alla via Capodimondo-via Mannelli, distinto nel nuovo catasto edilizio urbano al foglio 96 dalle particelle 21, 24, 533, 534 e 535, di proprieta' della S.p.a.  
+Manifatture specchi e vetri Felice Quentin, come da atto di compravendita in data 20 giugno 1974, n. 10192 di repertorio, a rogito notaio Mario Speranzini.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 22 marzo 1986   
-Registro n. 1 Lavoro, foglio n. 239
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 10 ottobre 1979  
+Registro n. 1 Lavoro, foglio n. 76

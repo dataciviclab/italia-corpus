@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1982 n. 232
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 511
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1982 n. 232
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 511
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Cagliari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -39,23 +39,34 @@ Articolo unico
 --------------
 
   
-Art. 56 - all'elenco degli Insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti nuovi insegnamenti:  
-neonatologia;  
-immunologia generale;  
-nefrologia medica;  
-cardiochirurgia;  
-fisica.  
+Nell'art. 56, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+biologia cellulare;  
+biologia dello sviluppo;  
+genetica umana;  
+embriologia;  
+farmacologia molecolare;  
+biochimica patologica;  
+farmacologia applicata;  
+biofarmacologia;  
+fisiologia dello sport;  
+fisiologia applicata;  
+fisiopatologia del dolore;  
+oncologia sperimentale;  
+medicina dello sport;  
+tecnica e diagnostica delle autopsie;  
+tossicologia forense;  
+ematologia forense.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 febbraio 1982
+### Dato a Roma, addi' 26 aprile 1984
 
-PERTINI BODRATO
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 24 aprile 1982
+Registrato alla Corte dei conti, addi' 8 agosto 1984
 
-Registro n. 58 Istruzione, foglio n. 175
+Registro n. 49 Istruzione, foglio n. 204

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 810
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 ottobre 1985 n. 906
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 810
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 ottobre 1985 n. 906
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Venezia.
 -------------------------------------------------------------------
@@ -39,19 +39,22 @@ Articolo unico
 --------------
 
   
-Nell'art. 31, relativo al corso di laurea in chimica industriale, all'elenco degli insegnamenti complementari sono aggiunti i seguenti: meccanismi di reazione in chimica inorganica;  
-esercitazioni di sintesi e tecniche speciali inorganiche.  
+Nell'art. 31, relativo al corso di laurea in chimica industriale, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
+  
+biofisica applicata.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 luglio 1983
+### Dato a Roma, addi' 12 ottobre 1985
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 30 dicembre 1983
+Registrato alla Corte dei conti, addi' 14 febbraio 1986
 
-Registro n. 82 Istruzione, foglio n. 222
+Registro n. 9 Istruzione, foglio n. 122

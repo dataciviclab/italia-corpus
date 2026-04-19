@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1954 n. 724
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 marzo 1968 n. 986
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1954 n. 724
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 marzo 1968 n. 986
+============================================================
 
 Modificazioni allo statuto del Consorzio fra cooperative di produzione e lavoro, con sede in Reggio Emilia.
 -----------------------------------------------------------------------------------------------------------
@@ -10,31 +10,10 @@ Modificazioni allo statuto del Consorzio fra cooperative di produzione e lavoro,
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+N.
+
+986. Decreto del Presidente della Repubblica 12 marzo 1968, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto con il Ministro per i lavori pubblici, vengono approvate le modifiche degli articoli 3, 32, 35, 38 e 40 dello statuto del Consorzio fra cooperative di produzione e lavoro, con sede in Reggio Emilia.  
   
-Vista la [legge 25 giugno 1909, n. 422](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-25;422), ed il regolamento approvato con [regio decreto 12 febbraio 1911, n. 278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-02-12;278), emanato in esecuzione di essa;  
-Visto il [regio decreto 11 settembre 1924, n. 1516](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-11;1516), con il quale fu costituito il Consorzio fra cooperative di produzione e lavoro fasciste, con sede in Reggio Emilia, e ne fu approvato lo statuto organico;  
-Visto il [regio decreto 12 gennaio 1928, n. 493](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-01-12;493), con cui si approvo' la fusione del suddetto ente col Consorzio reggiano per le cooperative di lavoro di Reggio Emilia, mediante assorbimento di quest'ultimo;  
-Visti il regio decreto 10 maggio 1934 ed il decreto del Capo provvisorio dello Stato 13 maggio 1947, contenenti modificazioni allo statuto suddetto, fra cui la soppressione della parola "fasciste" dalla ragione sociale;  
-Vista la deliberazione dell'assemblea generale straordinaria dei delegati del Consorzio di cui sopra, in data 23 maggio 1953, con la quale si proroga la durata dell'ente per altri trenta anni, a decorrere dall'8 ottobre 1954, e si propone un nuovo testo di statuto;  
-Vista l'istanza 17 giugno 1953, con la quale il Consorzio chiede l'approvazione del testo di statuto stesso e la deliberazione del Consiglio di amministrazione 28 settembre 1953;  
-Udito il parere del Comitato costituito in seno alla Commissione centrale per le cooperative, espresso, in via d'urgenza, nella seduta del 26 novembre 1953, ai sensi dell'[art. 19 del decreto legislativo del Capo provvisorio dello Stato 14 dicembre 1947, n. 1577](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-12-14;1577~art19);  
-Sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto con quello per i lavori pubblici;  
-  
-Decreta:  
-  
-Lo statuto del Consorzio fra cooperative di produzione e lavoro, con sede in Reggio Emilia, e' modificato come al testo annesso al presente decreto, composto di numero cinquantotto articoli, visto e firmato dal Ministro proponente.  
-  
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Dato a Roma, addi' 14 gennaio 1954
-
-EINAUDI RUBINACCI - MERLIN
-
-Visto, il Guardasigilli: DE PIETRO
-
-Registrato alla Corte dei conti, addi' 24 agosto 1954
-
-Atti del Governo, registro n. 85, foglio n. 68. - TEMPESTA
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 19 settembre 1968  
+Atti del Governo, registro n. 222, foglio n. 161. - GRECO

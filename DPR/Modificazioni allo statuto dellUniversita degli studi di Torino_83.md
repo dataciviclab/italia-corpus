@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 ottobre 1979 n. 518
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1972 n. 526
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 ottobre 1979 n. 518
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1972 n. 526
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -10,106 +10,454 @@ Modificazioni allo statuto dell'Universita' degli studi di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio universitario nazionale nel suo parere;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sulla proposta del Ministro per la pubblica istruzione;
 
-Sulla
------
+Decreta:
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+L'art. 120 relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che le scuole in "Cardiologia", in "Odontostomatologia" mutano rispettivamente la denominazione in quella di scuola in "Malattie dell'apparato cardiovascolare", in "Odontoiatria e protesi dentaria".
 
+Gli articoli 136 e 137 relativi alla "Scuola di specializzazione in medicina interna" sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in medicina interna
+
+Art. 136. - 1° Anno:
+
+Malattie infettive, disreattive e del sangue;
+
+Istituzioni di terapia;
+
+Anatomia e istologia patologica (biennale);
+
+Clinica medica generale e terapia medica (quinquennale).
+
+2° Anno:
+
+Malattie dell'apparato cardiovascolare;
+
+Microbiologia e sierologia;
+
+Chimica clinica;
+
+Anatomia e istologia patologica (biennale);
+
+Clinica medica generale e terapia medica (quinquennale).
+
+3° Anno:
+
+Malattie dell'apparato digerente;
+
+Malattie renali;
+
+Clinica medica generale e terapia medica (quinquennale).
+
+4° Anno:
+
+Malattie dell'apparato respiratorio;
+
+Malattie del sistema nervoso;
+
+Clinica medica generale e terapia medica (quinquennale).
+
+5° Anno:
+
+Malattie del ricambio;
+
+Malattie delle ghiandole endocrine;
+
+Clinica medica generale e terapia medica (quinquennale).
+
+Insegnamenti complementari:
+
+Parassitologia medica, genetica medica, semeiotica dermatologica, radiologia, semeiotica oculistica, semeiotica ginecologica (spetta ai direttori inserirne uno o piu' nei vari anni).
+
+Art. 137. - L'internato si svolge presso l'istituto di clinica medica o di patologia speciale medica. Il materiale didattico e' fornito dai suddetti istituti. Le lezioni saranno integrate da conferenze attinenti a vari campi della clinica.
+
+Il numero massimo di iscritti per anno e' di otto.
+
+E' obbligatoria la firma di frequenza per ognuno dei cinque anni di insegnamento.
+
+Alla fine dei corsi il candidato deve sostenere una tesi di specializzazione.
+
+La selezione dei candidati alla scuola va eseguita mediante esame scritto di ammissione.
+
+Gli articoli 138, 139, 140 relativi alla "Scuola di specializzazione in cardiologia" che muta la denominazione in quella di "Scuola di specializzazione in malattie dell'apparato cardiovascolare" sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in malattie dell'apparato cardiovascolare
+
+Art. 138. - Per il conseguimento del diploma di specialista in "Malattie dell'apparato cardiovascolare" si richiedono tre anni di corso con internato.
+
+Art. 139. - Gli insegnamenti impartiti nella scuola sono i seguenti:
+
+1° Anno:
+
+Anatomia normale dell'apparato cardiovascolare;
+
+Fisiologia dell'apparato cardiovascolare e respiratorio;
+
+Fisiopatologia cardiovascolare e respiratoria (biennale);
+
+Patologia cardiovascolare (biennale);
+
+Semeiologia fisica (biennale);
+
+Semeiologia strumentale (biennale).
+
+2° Anno:
+
+Fisiopatologia cardiovascolare e respiratoria (biennale);
+
+Patologia cardiovascolare (biennale);
+
+Semeiologia fisica (biennale);
+
+Semeiologia strumentale (biennale);
+
+Anatomia patologica dell'apparato cardiovascolare (biennale);
+
+Radiologia;
+
+Farmacologia;
+
+Clinica e terapia (biennale).
+
+3° Anno:
+
+Anatomia patologica dell'apparato cardiovascolare (biennale);
+
+Clinica e terapia (biennale);
+
+Chirurgia dell'apparato cardiovascolare.
+
+Insegnamenti complementari:
+
+Microbiologia, problemi assicurativi e sociali.
+
+Gli iscritti presteranno servizio secondo turni opportunamente stabiliti nei laboratori e nelle corsie di cardiologia.
+
+Art. 140. - L'internato si svolgera' presso l'istituto di clinica medica o di patologia speciale medica di Torino. Il materiale didattico e' fornito dai suddetti istituti.
+
+E' obbligatoria la firma di frequenza per ogni anno di corso.
+
+Alla fine di ognuno dei tre anni avra' luogo un esame concernente gli insegnamenti svolti nell'anno corrispondente.
+
+Alla fine dei tre anni il candidato deve sostenere una tesi di specializzazione.
+
+Il numero massimo di iscritti e' di otto per anno.
+
+La selezione dei candidati della scuola viene eseguita mediante esame scritto di ammissione.
+
+Gli articoli 166-167 relativi alla "Scuola di specializzazione in odontostomatologia" che muta denominazione in quella di "Scuola di specializzazione in odontoiatria e protesi dentaria" sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in odontoiatria e protesi dentaria
+
+Art. 166. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in odontoiatria e protesi dentaria, con sede presso la clinica odontoiatrica.
+
+Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia.
+
+Il numero dei posti disponibili nell'ambito della scuola per ogni anno di corso e' limitato a venticinque posti (totale posti 75).
+
+La durata del corso e' di tre anni.
+
+Gli iscritti hanno l'obbligo della frequenza ai corsi ed alle esercitazioni per l'intero anno scolastico.
+
+Le vacanze saranno conformi al calendario universitario con un solo mese completo estivo (agosto).
+
+Gli esami di profitto teorici e pratici saranno sostenuti alla fine di ogni anno in un'unica sessione (ottobre). Alla fine dell'terzo anno, dopo aver superato gli esami di profitto gli allievi saranno ammessi a sostenere l'esame di diploma che consiste nella discussione orale di una dissertazione scritta su un tema proposto in precedenza dall'insegnante della materia sulla quale verte l'argomento e approvato dal direttore della scuola.
+
+Art. 167. - Le materie di insegnamento sono le seguenti:
+
+Embriologia ed anatomia dentaria e maxillo-facciale;
+
+Anatomia ed istopatologia odontostomatologica;
+
+Microbiologia ed igiene orale;
+
+Farmacologia odontostomatologica;
+
+Patologia odontostomatologica;
+
+Clinica odontostomatologica;
+
+Chirurgia maxillo-facciale;
+
+Anestesia e chirurgia stomatologica;
+
+Odontoiatria conservativa;
+
+Parodontologia;
+
+Clinica protesica dentaria e maxillo-facciale;
+
+Ortopedia dento-maxillo-facciale;
+
+Radiologia odontostomatologica;
+
+Odontotecnica;
+
+Odontoiatria infantile;
+
+Medicina legale odontostomatologica e delle assicurazioni.
+
+Esercitazioni pratiche affiancheranno gli insegnamenti.
+
+La suddivisione delle materie di insegnamento nei tre anni di corso e' la seguente:
+
+1° Anno:
+
+Embriologia ed anatomia dentaria e maxillo-facciale;
+
+Microbiologia ed igiene orale;
+
+Farmacologia;
+
+Patologia odontostomatologica;
+
+Odontotecnica;
+
+Anestesia e chirurgia stomatologica;
+
+Odontoiatria conservativa (1° anno);
+
+Esercitazioni pratiche.
+
+2° Anno:
+
+Odontoiatria conservativa (2° anno);
+
+Clinica protesica dentaria e maxillo-facciale (1° anno) (biennale);
+
+Parodontologia (1° anno) (biennale);
+
+Anatomia ed istopatologia odontostomatologica;
+
+Odontoiatria infantile;
+
+Radiologia odontostomatologica;
+
+Ortopedia dento-maxillo-facciale (1° anno) (biennale);
+
+Chirurgia maxillo-facciale (1° anno);
+
+Esercitazioni pratiche.
+
+3° Anno:
+
+Clinica odontostomatologica;
+
+Chirurgia maxillo-facciale (2° anno);
+
+Medicina legale odontostomatologica e delle assicurazioni;
+
+Ortopedia dento-maxillo-facciale (2° anno);
+
+Clinica protesica dentaria e maxillo-facciale (2° anno);
+
+Parodontologia (2° anno);
+
+Esercitazioni pratiche.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 18 luglio 1972
+
+LEONE
+
+SCALFARO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 8 settembre 1972 Atti del Governo, registro n. 251, foglio n. 36. - VALENTINI
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-All'art. 104 dello statuto dell'Universita' di Torino e' aggiunto il seguente comma:  
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-La facolta' di agraria rilascia anche la laurea in scienze forestali.  
-Dopo l'art. 106, e con il conseguente spostamento della numerazione degli articoli successivi, e' aggiunto il seguente nuovo articolo relativo alla istituzione del corso di laurea in scienze forestali.  
-Art. 107. - La durata del corso degli studi per la laurea in scienze forestali e' di quattro anni.  
-Titoli di ammissione sono quelli previsti dall'[art. 1 della legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1).  
-Insegnamenti fondamentali:  
-1) alpicoltura I (prati, pascoli, agricoltura nella regione di montagna) (semestrale);  
-2) alpicoltura II (zootecnica nella regione di montagna) (semestrale);  
-3) assestamento forestale;  
-4) botanica forestale;  
-\*5) botanica sistematica;  
-\*6) botanica generale;  
-7) chimica forestale;  
-\*8) chimica generale e inorganica con applicazioni di analitica;  
-\*9) chimica organica;  
-10) costruzioni forestali (semestrale);  
-11) dentometria (semestrale);  
-12) economia ed estimo forestale;  
-\*13) fisica;  
-14) industrie chimico-forestali (semestrale);  
-15) legislazione forestale;  
-\*16) matematica;  
-\*17) mineralogia e geologia;  
-18) patologia vegetale forestale;  
-\*19) principi di economia politica e di statistica;  
-20) selvicoltura I (ecologia e selvicoltura generale);  
-21) selvicoltura II (selvicoltura speciale);  
-22) sistemazioni idraulico-forestali;  
-23) tecnologia e utilizzazione forestale (compresa meccanica applicata);  
-24) topografia;  
-25) zoologia forestale venatoria e acquicoltura;  
-\*26) zoologia generale.  
-Insegnamenti complementari:  
-1) agronomia montana;  
-2) allevamenti minori in zone montane (semestrale);  
-3) alterazioni del legname (semestrale);  
-4) conservazione della natura e delle sue risorse;  
-5) difesa dagli inquinamenti (semestrale);  
-6) ecologia;  
-7) ecologia zootecnica;  
-8) economia di mercato dei prodotti forestali;  
-9) elementi di idraulica e di idrologia;  
-10) fisiologia degli alberi forestali (semestrale);  
-11) geologia applicata;  
-12) idrologia forestale;  
-13) meccanizzazione forestale;  
-14) microbiologia forestale;  
-15) miglioramento genetico degli alberi forestali (semestrale);  
-16) pedologia forestale;  
-17) pianificazione ecologica del territorio;  
-18) protezione dagli incendi boschivi (semestrale);  
-19) protezione della natura e riassetto del paesaggio;  
-20) selvicoltura industriale ed alberature;  
-21) tecniche di rimboschimento nelle zone aride (semestrale);  
-22) tutela del paesaggio agricolo forestale e riassetto del territorio;  
-23) vivaistica forestale e rimboschimento;  
-24) zoologia venatoria.  
-Le materie contrassegnate con un asterisco sono in comune con il corso di laurea in scienze agrarie.  
-Sono inoltre da ritenere complementari del corso di laurea in scienze forestali tutti gli insegnamenti (fondamentali e complementari) impartiti nel corso di laurea in scienze agrarie.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in tre complementari a corso annuale. A tale effetto due corsi complementari semestrali sono computati come corso annuale.  
-L'esame di laurea consiste in una discussione orale intorno ad una dissertazione scritta sopra un tema scelto dal candidato su di un argomento forestale o avente stretta attinenza con le discipline impartite nella facolta'.  
-Tutti gli insegnamenti impartiti nella facolta' sono di lezioni teoriche e di esercizi pratici che possono essere integrati da visite a fabbriche industriali e da esercitazioni in foresta.  
-Gli esami di profitto sono orali, ma possono essere integrati da prove pratiche. Il voto e' pero' complessivo.  
+Decreta:   
+  
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+  
+L'art. 120 relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che le scuole in "Cardiologia", in "Odontostomatologia" mutano rispettivamente la denominazione in quella di scuola in "Malattie dell'apparato cardiovascolare", in "Odontoiatria e protesi dentaria".   
+Gli articoli 136 e 137 relativi alla "Scuola di specializzazione in medicina interna" sono abrogati e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in medicina interna   
+  
+Art. 136. - 1° Anno:   
+Malattie infettive, disreattive e del sangue;   
+Istituzioni di terapia;   
+Anatomia e istologia patologica (biennale);   
+Clinica medica generale e terapia medica (quinquennale).   
+  
+2° Anno:   
+Malattie dell'apparato cardiovascolare;   
+Microbiologia e sierologia;   
+Chimica clinica;   
+Anatomia e istologia patologica (biennale);   
+Clinica medica generale e terapia medica (quinquennale).   
+  
+3° Anno:   
+Malattie dell'apparato digerente;   
+Malattie renali;   
+Clinica medica generale e terapia medica (quinquennale).   
+  
+4° Anno:   
+Malattie dell'apparato respiratorio;   
+Malattie del sistema nervoso;   
+Clinica medica generale e terapia medica (quinquennale).   
+  
+5° Anno:   
+Malattie del ricambio;   
+Malattie delle ghiandole endocrine;   
+Clinica medica generale e terapia medica (quinquennale).   
+  
+Insegnamenti complementari:   
+Parassitologia medica, genetica medica, semeiotica dermatologica, radiologia, semeiotica oculistica, semeiotica ginecologica (spetta ai direttori inserirne uno o piu' nei vari anni).   
+  
+Art. 137. - L'internato si svolge presso l'istituto di clinica medica o di patologia speciale medica. Il materiale didattico e' fornito dai suddetti istituti. Le lezioni saranno integrate da conferenze attinenti a vari campi della clinica.   
+Il numero massimo di iscritti per anno e' di otto.   
+E' obbligatoria la firma di frequenza per ognuno dei cinque anni di insegnamento.   
+Alla fine dei corsi il candidato deve sostenere una tesi di specializzazione.   
+La selezione dei candidati alla scuola va eseguita mediante esame scritto di ammissione.   
+Gli articoli 138, 139, 140 relativi alla "Scuola di specializzazione in cardiologia" che muta la denominazione in quella di "Scuola di specializzazione in malattie dell'apparato cardiovascolare" sono abrogati e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in malattie dell'apparato cardiovascolare   
+Art. 138. - Per il conseguimento del diploma di specialista in "Malattie dell'apparato cardiovascolare" si richiedono tre anni di corso con internato.   
+Art. 139. - Gli insegnamenti impartiti nella scuola sono i seguenti:   
+  
+1° Anno:   
+Anatomia normale dell'apparato cardiovascolare;   
+Fisiologia dell'apparato cardiovascolare e respiratorio;   
+Fisiopatologia cardiovascolare e respiratoria (biennale);   
+Patologia cardiovascolare (biennale);   
+Semeiologia fisica (biennale);   
+Semeiologia strumentale (biennale).   
+  
+2° Anno:   
+Fisiopatologia cardiovascolare e respiratoria (biennale);   
+Patologia cardiovascolare (biennale);   
+Semeiologia fisica (biennale);   
+Semeiologia strumentale (biennale);   
+Anatomia patologica dell'apparato cardiovascolare (biennale);   
+Radiologia;   
+Farmacologia;   
+Clinica e terapia (biennale).   
+  
+3° Anno:   
+Anatomia patologica dell'apparato cardiovascolare (biennale);   
+Clinica e terapia (biennale);   
+Chirurgia dell'apparato cardiovascolare.   
+  
+Insegnamenti complementari:   
+Microbiologia, problemi assicurativi e sociali.   
+  
+Gli iscritti presteranno servizio secondo turni opportunamente stabiliti nei laboratori e nelle corsie di cardiologia.   
+Art. 140. - L'internato si svolgera' presso l'istituto di clinica medica o di patologia speciale medica di Torino. Il materiale didattico e' fornito dai suddetti istituti.   
+E' obbligatoria la firma di frequenza per ogni anno di corso.   
+Alla fine di ognuno dei tre anni avra' luogo un esame concernente gli insegnamenti svolti nell'anno corrispondente.   
+Alla fine dei tre anni il candidato deve sostenere una tesi di specializzazione.   
+Il numero massimo di iscritti e' di otto per anno.   
+La selezione dei candidati della scuola viene eseguita mediante esame scritto di ammissione.   
+Gli articoli 166-167 relativi alla "Scuola di specializzazione in odontostomatologia" che muta denominazione in quella di "Scuola di specializzazione in odontoiatria e protesi dentaria" sono abrogati e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in odontoiatria e protesi dentaria   
+  
+Art. 166. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in odontoiatria e protesi dentaria, con sede presso la clinica odontoiatrica.   
+Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia.   
+Il numero dei posti disponibili nell'ambito della scuola per ogni anno di corso e' limitato a venticinque posti (totale posti 75).   
+La durata del corso e' di tre anni.   
+Gli iscritti hanno l'obbligo della frequenza ai corsi ed alle esercitazioni per l'intero anno scolastico.   
+Le vacanze saranno conformi al calendario universitario con un solo mese completo estivo (agosto).   
+Gli esami di profitto teorici e pratici saranno sostenuti alla fine di ogni anno in un'unica sessione (ottobre). Alla fine dell'terzo anno, dopo aver superato gli esami di profitto gli allievi saranno ammessi a sostenere l'esame di diploma che consiste nella discussione orale di una dissertazione scritta su un tema proposto in precedenza dall'insegnante della materia sulla quale verte l'argomento e approvato dal direttore della scuola.   
+Art. 167. - Le materie di insegnamento sono le seguenti:   
+  
+Embriologia ed anatomia dentaria e maxillo-facciale;   
+Anatomia ed istopatologia odontostomatologica;   
+Microbiologia ed igiene orale;   
+Farmacologia odontostomatologica;   
+Patologia odontostomatologica;   
+Clinica odontostomatologica;   
+Chirurgia maxillo-facciale;   
+Anestesia e chirurgia stomatologica;   
+Odontoiatria conservativa;   
+Parodontologia;   
+Clinica protesica dentaria e maxillo-facciale;   
+Ortopedia dento-maxillo-facciale;   
+Radiologia odontostomatologica;   
+Odontotecnica;   
+Odontoiatria infantile;   
+Medicina legale odontostomatologica e delle assicurazioni.   
+Esercitazioni pratiche affiancheranno gli insegnamenti.   
+  
+La suddivisione delle materie di insegnamento nei tre anni di corso e' la seguente:   
+  
+1° Anno:   
+Embriologia ed anatomia dentaria e maxillo-facciale;   
+Microbiologia ed igiene orale;   
+Farmacologia;   
+Patologia odontostomatologica;   
+Odontotecnica;   
+Anestesia e chirurgia stomatologica;   
+Odontoiatria conservativa (1° anno);   
+Esercitazioni pratiche.   
+  
+2° Anno:   
+Odontoiatria conservativa (2° anno);   
+Clinica protesica dentaria e maxillo-facciale (1° anno) (biennale);   
+Parodontologia (1° anno) (biennale);   
+Anatomia ed istopatologia odontostomatologica;   
+Odontoiatria infantile;   
+Radiologia odontostomatologica;   
+Ortopedia dento-maxillo-facciale (1° anno) (biennale);   
+Chirurgia maxillo-facciale (1° anno);   
+Esercitazioni pratiche.   
+  
+3° Anno:   
+Clinica odontostomatologica;   
+Chirurgia maxillo-facciale (2° anno);   
+Medicina legale odontostomatologica e delle assicurazioni;   
+Ortopedia dento-maxillo-facciale (2° anno);   
+Clinica protesica dentaria e maxillo-facciale (2° anno);   
+Parodontologia (2° anno);   
+Esercitazioni pratiche.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 ottobre 1979
+### Dato a Roma, addi' 18 luglio 1972
 
-PERTINI VALITUTTI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 20 ottobre 1979
+Registrato alla Corte dei conti, addi' 8 settembre 1972
 
-Registro n. 76 Istruzione, foglio n. 31
+Atti del Governo, registro n. 251, foglio n. 36. - VALENTINI

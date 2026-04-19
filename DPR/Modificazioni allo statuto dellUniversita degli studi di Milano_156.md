@@ -1,153 +1,218 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1962 n. 215
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1985 n. 540
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1962 n. 215
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1985 n. 540
 ============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1936, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-11-04;2280), modificato con [regio decreto 25 ottobre 1940, n. 2096](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-25;2096) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Veduto il [decreto del Presidente della Repubblica 26 luglio 1960, n. 1692](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-07-26;1692) Veduta la [legge 21 luglio 1961, n. 685](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-21;685);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Gli articoli da 440 a 448, relativi al corso di perfezionamento in clinica bovina, che muta denominazione in scuola di specializzazione in clinica bovina, sono sostituti dai seguenti con il conseguente spostamento della numerazione degli articoli successivi:  
   
-Decreta:  
+Scuola di specializzazione in clinica bovina  
+Art. 440. - E' istituita presso l'Universita' di Milano la scuola di specializzazione in clinica bovina che conferisce il diploma di specializzazione in clinica bovina.  
+Art. 441. - La direzione della scuola ha sede presso la facolta' di medicina veterinaria.  
+Art. 442. - La scuola ha lo scopo di fornire una specifica preparazione tecnico-professionale nel campo della patologia e clinica del bovino adeguata alle esigenze previste dalle nuove normative della legge sanitaria, per quanto si riferisce all'area funzionale di sanita' animale.  
+Art. 443. - La durata del corso e' di due anni e non e' suscettibile di abbreviazioni.  
+Art. 444. - Il numero degli iscritti e' di trenta per ogni anno e complessivamente di sessanta per l'intero corso di studi.  
+Art. 445. - Possono partecipare all'esame di ammissione i laureati in medicina veterinaria in possesso del diploma di abilitazione all'esercizio professionale.  
+Art. 446. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
+a) la tesi nella disciplina attinente alla specializzazione;  
+b) il voto di laurea;  
+c) il voto riportato negli anni di profitto del corso di laurea nelle materie concernenti la specializzazione;  
+d) le pubblicazioni nelle predette materie.  
+Il punteggio dei predetti titoli e' quello stabilito dal [decreto ministeriale 16 settembre 1982 (Gazzetta Ufficiale n. 275 del 6 ottobre 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-10-06&numeroGazzetta=275)).  
+Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
+Art. 447. - Le materie di insegnamento che afferiscono alla facolta' di medicina veterinaria sono le seguenti:  
   
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+1° Anno:  
+anatomia;  
+fisiologia;  
+nozioni di farmacologia e tossicologia per il bovino;  
+semeiotica medica e metodologia clinica;  
+immunologia clinica veterinaria;  
+anestesiologia;  
+edilizia zootecnica ed impianti tecnologici;  
+igiene zootecnica;  
+metodi riproduttivi e patologia della riproduzione.  
+2° Anno:  
+miglioramento genetico e valutazione dei bovini;  
+nutrizione e alimentazione dei bovini;  
+epidemiologia e profilassi delle malattie parassitarie del bovino;  
+epidemiologia e profilassi delle malattie infettive del bovino;  
+clinica chirurgica;  
+clinica ostetrica e ginecologica;  
+clinica medica e terapia speciale medica;  
+legislazione veterinaria in sanita' pubblica;  
+biotecnologia e diagnostica di laboratorio.  
   
-Gli articoli 30 e 31 relativi al corso di laurea in Fisica sono abrogati e sostituiti dai seguenti:  
+Art. 448. - La frequenza dei corsi e' obbligatoria.  
+Comunque, in caso di assenza giustificata, lo specializzando per poter sostenere gli esami annuali e finali, deve avere frequentato almeno i quattro quinti delle lezioni teoriche e tecnico-pratiche.  
+Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo.  
+La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
+Art. 449. - La scuola si articola in lezioni, conferenze, esercitazioni tecnico-pratiche e seminari.  
+Le attivita' pratiche (esame clinico di animali affetti o sospetti di malattie organiche, infettive od infestive, corredate da opportune indagini collaterali di laboratorio; provvedimenti terapeutici, medici e/o chirurgici), si svolgeranno presso gli ambulatori e le cliniche della facolta' e presso allevamenti o centri di produzione, di volta in volta indicati dal consiglio della scuola in base alle disponibilita' delle aziende e alla esigenza di completare la preparazione degli allievi in relazione ai fini della scuola stessa.  
+Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.  
+Art. 450. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio delle scuole di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.  
+A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.  
+Art. 451. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
+Art. 452. - Per la scuola di specializzazione e' costituito un consiglio presieduto da un direttore. Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).  
+Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.  
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+
+Art. 2
+------
+
   
-Art. 30. - La durata del corso degli studi per la laurea in Fisica e' di 4 anni.  
-E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica. Possono essere ammessi inoltre i diplomati dagli Istituti tecnici industriali, agrari, nautici e per geometri ai sensi delle vigenti disposizioni di legge.  
-Il corso di studi si distingue in tre indirizzi: generale, didattico, applicativo.  
+Gli articoli da 482 a 491, relativi al corso di perfezionamento in patologia equina, che muta denominazione in scuola di specializzazione in patologia equina, sono sostituiti dai seguenti con il conseguente spostamento della numerazione degli articoli successivi:  
   
-1° Biennio.  
+Scuola di specializzazione in patologia equina  
+Art. 483. - E' istituita presso l'Universita' di Milano la scuola di specializzazione in patologia equina che conferisce il diploma di specialista in patologia equina.  
+Art. 484. - La direzione della scuola ha sede presso la facolta' di medicina veterinaria.  
+Art. 485. - La scuola ha lo scopo di formare un professionista nel settore della patologia equina attinente le diverse specializzazioni attitudinali del cavallo e specie affini.  
+Art. 486. - La durata del corso e' di due anni e non e' suscettibile di abbreviazioni.  
+Art. 487. - Il numero degli iscritti e' di venti per ogni anno e complessivamente di quaranta per l'intero corso di studi.  
+Art. 488. - Possono partecipare all'esame di ammissione i laureati in medicina veterinaria in possesso del diploma di abilitazione all'esercizio professionale.  
+Art. 489. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
+a) la tesi nella disciplina attinente alla specializzazione;  
+b) il voto di laurea;  
+c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
+d) le pubblicazioni nelle predette materie.  
+Il punteggio dei predetti titoli e' quello stabilito dal [decreto ministeriale 16 settembre 1982 (Gazzetta Ufficiale n. 275 del 6 ottobre 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-10-06&numeroGazzetta=275)).  
+Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
+Art. 490. - Le materie di insegnamento che afferiscono alla facolta' di medicina veterinaria sono le seguenti:  
   
-Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi:  
-1) Fisica generale I (con esercitazioni);  
-2) Fisica generale II (con esercitazioni);  
-3) Analisi matematica I (con esercitazioni);  
-4) Analisi matematica II (con esercitazioni);  
-5) Geometria I (con esercitazioni);  
-6) Meccanica razionale (con esercitazioni);  
-7) Chimica con esercitazioni di laboratorio (per fisici);  
-8) Esperimentazione fisica (biennale).  
-E' richiesta inoltre una prova di conoscenza di due lingue straniere da scegliersi tra le seguenti: inglese, francese, russo, tedesco.  
+1° Anno:  
+anatomia e fisiologia;  
+anatomia topografica;  
+semeiotica medica e metodologia clinica;  
+semeiotica chirurgica e medicina operatoria;  
+radiologia;  
+medicina legale;  
+igiene zootecnica;  
+clinica ostetrica e ginecologica.  
+2° Anno:  
+clinica medica;  
+diagnostica di laboratorio;  
+anestesiologia;  
+clinica chirurgica;  
+podologia;  
+zootecnica (alimentazione);  
+patologia e profilassi delle malattie infettive;  
+patologia e profilassi delle malattie parassitarie;  
+legislazione nazionale e internazionale (sanita' pubblica vet.); zoognostica e valutazione morfofunzionale degli animali;  
+farmacologia e tossicologia.  
   
-2° Biennio.  
+Art. 491. - La frequenza dei corsi e' obbligatoria.  
+Comunque, in caso di assenza giustificata, lo specializzando per poter sostenere gli esami annuali e finali, deve avere frequentato almeno i quattro quinti delle lezioni teoriche e tecnico-pratiche.  
+Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo.  
+La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
+Art. 492. - La scuola si articola in lezioni, conferenze, esercitazioni tecnico-pratiche e seminari. Le attivita' pratiche (esame clinico di animali affetti o sospetti di malattie organiche, infettive od infestive, corredate da opportune indagini collaterali di laboratorio; provvedimenti terapeutici, medici e/o chirurgici), si svolgeranno presso gli ambulatori e le cliniche della facolta' e presso allevamenti o centri di produzione, di volta in volta indicati dal consiglio della scuola in base alle disponibilita' delle aziende e alla esigenza di completare la preparazione degli allievi in relazione ai fini della scuola stessa. Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero e nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.  
+Art. 493. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio delle scuole di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso. A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.  
+Art. 494. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
+Art. 495. - Per la scuola di specializzazione e' costituito un consiglio presieduto da un direttore.  
+Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99). Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.  
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+
+Art. 3
+------
+
   
-Gli insegnamenti obbligatori per il secondo biennio sono i seguenti:  
+Dopo l'art. 502, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in patologia suina.  
   
-a) corsi comuni ai tre indirizzi:  
+Scuola di specializzazione in patologia suina  
+Art. 503. - E' istituita presso l'Universita' di Milano la scuola di specializzazione in patologia suina che conferisce il diploma di specialista in patologia suina.  
+Art. 504. - La direzione della scuola ha sede presso la facolta' di medicina veterinaria.  
+Art. 505. - La scuola ha lo scopo di formare un professionista della patologia suina.  
+Art. 506. - La durata del corso e' di due anni e non e' suscettibile di abbreviazioni.  
+Art. 507. - Il numero degli iscritti e' di venti per ogni anno e complessivamente di quaranta per l'intero corso di studi.  
+Art. 508. - Possono partecipare all'esame di ammissione i laureati in medicina veterinaria in possesso del diploma di abilitazione all'esercizio professionale.  
+Art. 509. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
+a) la tesi nella disciplina attinente alla specializzazione;  
+b) il voto di laurea;  
+c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
+d) le pubblicazioni nelle predette materie.  
+Il punteggio dei predetti titoli e' quello stabilito dal [decreto ministeriale 16 settembre 1982 (Gazzetta Ufficiale n. 275 del 6 ottobre 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-10-06&numeroGazzetta=275)).  
+Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizioni utili nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
+Art. 510. - Le materie d'insegnamento che afferiscono alla facolta' di medicina veterinaria sono le seguenti:  
   
-1) Struttura della materia;  
-2) Istituzioni di fisica teorica (con esercitazioni);  
-3) Metodi matematici della fisica (con esercitazioni);  
+1° Anno:  
+anatomia e fisiologia;  
+farmacologia e tossicologia;  
+zootecnia (genetica);  
+principi di alimentazione;  
+principi di informatica applicata all'allevamento;  
+ingegneria zootecnica (ricoveri, impianti, ecc.);  
+tecnologia di allevamento;  
+fecondazione naturale e artificiale;  
+igiene veterinaria (inquinamento, disinfezione, disinfestazione, ecc.).  
+2° Anno:  
+diagnostica microscopica e istopatologica;  
+epizoologia e profilassi delle malattie infettive;  
+parassitologia e malattie parassitarie;  
+semeiotica e clinica medica;  
+semeiotica e clinica chirurgica;  
+ostetricia e ginecologia;  
+diagnostica sperimentale;  
+legislazione sanitaria (sanita' pubblica veterinaria).  
   
-b) corsi per l'indirizzo generale:  
-  
-4) Fisica superiore (con esercitazioni);  
-5) Fisica teorica (con esercitazioni);  
-6) Corso di matematiche superiori;  
-7) Laboratorio di fisica I;  
-8) Laboratorio di fisica II;  
-9) Un corso complementare a scelta;  
-  
-c) corsi per l'indirizzo didattico:  
-  
-4) Complementi di fisica generale I;  
-5) Complementi di fisica generale II;  
-6) Storia della fisica;  
-7) Preparazione di esperienze didattiche I:  
-8) Preparazione di esperienze didattiche II;  
-9) Un corso complementare a scelta;  
-  
-d) corsi per l'indirizzo applicativo:  
-  
-4), 5), 6), 7) Quattro insegnamenti da scegliersi secondo modalita' che verranno indicate nel piano degli studi in corrispondenza dei vari orientamenti che puo' assumere l'indirizzo applicativo;  
-8) Laboratorio di fisica I;  
-9) Laboratorio di fisica II;  
-  
-Elenco dei corsi complementari:  
-  
-1) Acceleratori di particelle;  
-2) Acustica;  
-3) Astrofisica;  
-4) Chimica teorica  
-5) Chimica fisica;  
-6) Cibernetica e teoria dell'informazione;  
-7) Conduzione elettrica nei gas;  
-8) Elettrologia;  
-9) Elettronica;  
-10) Elettronica applicata;  
-11) Fisica dei reattori nucleari;  
-12) Fisica dei neutroni;  
-13) Fisica dello stato solido;  
-14) Fisica delle particelle elementari  
-15) Fisica dei plasmi;  
-16) Fisica matematica;  
-17) Fisica nucleare;  
-18) Fisica superiore;  
-19) Fisica teorica;  
-20) Istituzioni di analisi superiore;  
-21) Istituzioni di fisica nucleare;  
-22) Istituzioni di fisica matematica;  
-23) Macchine calcolatrici;  
-24) Meccanica quantistica;  
-25) Meccanica statistica;  
-26) Onde elettromagnetiche;  
-27) Ottica;  
-28) Ottica elettronica;  
-29) Radioastronomia;  
-30) Radioattivita';  
-31) Relativita';  
-32) Semiconduttori;  
-33) Spettroscopia,;  
-34) Storia della fisica;  
-35) Termodinamica;  
-36) Fisica cosmica;  
-37) Fisica atomica;  
-38) Fisica molecolare;  
-39) Astronomia;  
-40) Calcolo delle probabilita';  
-41) Calcoli numerici e grafici;  
-42) Statistica matematica;  
-43) Analisi superiore;  
-44) Analisi funzionale;  
-45) Matematiche superiori;  
-46) Teoria delle funzioni;  
-47) Meccanica superiore;  
-48) Geometria differenziale.  
-Art. 31. - Per ciascuno dei corsi elencati vi e' un esame finale.  
-Gli insegnamenti di Fisica generale I e II, Analisi matematica I e II, constano ciascuno di due parti annuali distinte, la prima propedeutica alla seconda e comportano ciascuno due distinti esami, il primo propedeutico al secondo.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti prescritti dall'ordinamento per l'indirizzo prescelto.  
-Potranno iscriversi ai corsi del secondo biennio soltanto quegli studenti che abbiano superato gli esami di Fisica generale I e II, Analisi matematica I e II.  
-Art. 32. - L'esame di laurea per gli indirizzi generale ed applicativo consiste nella discussione di una dissertazione scritta riguardante ricerche di regola originali su argomenti riferentisi ad una disciplina del corso di laurea.  
-L'esame di laurea per l'indirizzo didattico consiste nella discussione di una dissertazione scritta riguardante ricerche non necessariamente originali su argomenti riferentisi ad una disciplina del corso di laurea.  
-Detta discussione sara' preceduta da un esame di cultura generale sulle discipline del corso di laurea.  
+Art. 511. - La frequenza dei corsi e' obbligatoria. Comunque, in caso di assenza giustificata, lo specializzando, per poter sostenere gli esami annuali e finali, deve avere frequentato almeno i quattro quinti delle lezioni teoriche e tecnico-pratiche. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso.  
+Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
+Art. 512. - La scuola si articola in lezioni, conferenze, esercitazioni tecnico-pratiche e seminari.  
+Le attivita' pratiche (esame clinico di animali affetti o sospetti di malattie organiche, infettive od infestive, corredate da opportune indagini collaterali di laboratorio; provvedimenti terapeutici, medici e/o chirurgici), si svolgeranno presso gli ambulatori e le cliniche della facolta' e presso allevamenti o centri di produzione, di volta in volta indicati dal consiglio della scuola in base alle disponibilita' delle aziende e alla esigenza di completare la preparazione degli allievi in relazione ai fini della scuola stessa.  
+Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.  
+Art. 513. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio delle scuole di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.  
+A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.  
+Art. 514. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
+Art. 515. - Per la scuola di specializzazione e' costituito un consiglio presieduto da un direttore. Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99). Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento degli insegnamenti. La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa.  
+In caso di motivato impedimento la direzione della scuola e' affidata a un professore associato che pure insegni nella scuola medesima.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 marzo 1962
+### Dato a Roma, addi' 18 marzo 1985
 
-GRONCHI GUI
+PERTINI
 
-Visto, il Guardasigilli: BOSCO
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte del conti, addi' 4 maggio 1962
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Atti del Governo, registro n. 146, foglio n. 5. - VILLA
+Registrato alla Corte dei conti, addi' 4 ottobre 1985
+
+Registro n. 66 Istruzione, foglio n. 331

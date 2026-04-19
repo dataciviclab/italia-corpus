@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1948 n. 356
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 novembre 1951 n. 1700
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1948 n. 356
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 novembre 1951 n. 1700
+================================================================
 
 Autorizzazione all'Istituto dei ciechi "Francesco Cavazza" di Bologna ad accettare una donazione.
 -------------------------------------------------------------------------------------------------
@@ -12,7 +12,8 @@ Art. 1
 
 N.
 
-356. Decreto del Presidente della Repubblica 10 marzo 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto dei ciechi "Francesco Cavazza" di Bologna viene autorizzato ad accettare la donazione di L. 1000 consistente in una cartella di rendita 5% disposta in suo favore dalla signora Maria Bandiera ved. Sarti.  
+1700. Decreto del Presidente della Repubblica 27 novembre 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto dei ciechi "Francesco Cavazza" di Bologna, viene autorizzato ad accettare la donazione di L. 1.500.000 (lire unmilionecinquecentomila) in buoni del Tesoro novennali, disposta in suo favore da persona che desidera mantenere l'incognito.  
   
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 16 aprile 1948
+Visto, il Guardasigilli: ZOLI  
+Registrato alla Corte dei conti, addi' 7 febbraio 1952  
+Atti del Governo, registro n. 50, foglio n. 18. - FRASCA

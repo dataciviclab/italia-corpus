@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 febbraio 1984 n. 472
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1977 n. 85
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 febbraio 1984 n. 472
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1977 n. 85
+=============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-472. Decreto del Presidente della Repubblica 27 febbraio 1984, col quale, sulla proposta del Ministro per i beni culturali ed ambientali, il Ministero omonimo - Ufficio centrale per i beni librari e gli istituti culturali, viene autorizzato ad accettare la donazione, consistente in circa tremila volumi, nonche' di circa sei raccolte di periodici, del valore complessivo di L. 1.000.000, disposta dalla sig.ra Renata Lidia Arcuno con atto 15 settembre 1980, n. 16857 di repertorio, a rogito dott. Ugo de Cesare, notaio in Napoli.  
+85. Decreto del Presidente della Repubblica 21 gennaio 1977, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Padova con atto 28 novembre 1966, n. 106119 di repertorio, a rogito notaio Giovanni Fazzutti, dell'appezzamento di terreno della superficie catastale di mq 51660 ed effettivamente di mq 51510, occorso per la realizzazione del nuovo carcere.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 30 luglio 1984  
-Registro n. 28 Beni culturali, foglio n. 65
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 26 marzo 1977  
+Registro n. 15 Finanze, foglio n. 322

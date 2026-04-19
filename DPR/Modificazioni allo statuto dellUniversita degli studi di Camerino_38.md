@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 settembre 1966 n. 924
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1978 n. 588
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 settembre 1966 n. 924
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1978 n. 588
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Camerino.
 --------------------------------------------------------------------
@@ -12,53 +12,35 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Camerino, approvato con [decreto del Presidente della Repubblica 1 novembre 1959, n. 1388](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-11-01;1388) e modificato con [decreto del Presidente della Repubblica 18 agosto 1962, n. 1392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-08-18;1392) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' di Camerino, approvato con [decreto del Presidente della Repubblica 1 novembre 1959, n. 1388](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-11-01;1388) e modificato con [decreto del Presidente della Repubblica 18 agosto 1962, n. 1392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-08-18;1392), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) successive modificazioni;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Camerino e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Camerino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 27. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica - indirizzo organico-biologico - e' aggiunto quello di:  
-"Chimica delle sostanze naturali".  
-Art. 28. - Il secondo comma relativo alle propedeuticita' di esami degli insegnamenti di Chimica fisica I, di Esercitazioni di chimica fisica I e di Elettrochimica nei confronti di Esercitazioni di chimica fisica II e' soppresso.  
-Art. 29. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti quelli di "Genetica umana" e di "Analisi biologiche e di laboratorio".  
-Nello stesso elenco l'insegnamento di "Biologia delle razze umane" e' soppresso.  
-Art. 30. - Nell'elenco delle propedeuticita' del corso di laurea in Scienze naturali il posto del soppresso insegnamento di "Biologia delle razze umane" e' preso dall'insegnamento di "Genetica umana".  
-Nello stesso elenco sono aggiunte le seguenti propedeuticita':  
-"Lo studente non puo' essere ammesso:  
-all'esame di "Istochimica" se non ha superato quelli di "Anatomia umana" e di "Chimica organica";  
-all'esame di "Endocrinologia comparata" se non ha superato quelli di "Zoologia generale", di "Zoologia sistematica" e di "Anatomia comparata".  
-Art. 31. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti quelli di "Genetica umana" e di "Analisi biologiche e di laboratorio" Nello stesso elenco l'insegnamento di "Biologia delle razze umane" e' soppresso.  
-Art. 32. - Nell'elenco delle propedeuticita' del corso di laurea in Scienze biologiche il posto del soppresso insegnamento di "Biologia delle razze umane" e' preso dall'insegnamento di "Genetica umana".  
-Nello stesso elenco sono aggiunte le seguenti propedeuticita'.  
-"Lo studente non puo' essere ammesso:  
-all'esame di "Istochimica" se non ha superato quelli di "Istologia ed Embriologia", di "Anatomia umana" e di "Chimica organica";  
-all'esame di "Endocrinologia comparata" se non ha superato quelli di "Zoologia generale", di "Zoologia sistematica", di "Anatomia comparata", e di "Chimica biologica".  
-Art. 34. - All'elenco degli insegnamenti complementari del corso di laurea in Farmacia e' aggiunto quello di "Chimica delle fermentazioni".  
-Art. 36. - Relativo alla propedeuticita' di esami del corso di laurea in Farmacia e' modificato nel senso che vengono aggiunte le seguenti disposizioni:  
-  
-Gli studenti di Farmacia che non hanno superato l'esame di Chimica generale possono essere ammessi a frequentare il corso di Esercitazioni di Chimica farmaceutica e tossicologica I;  
-Gli studenti di Farmacia che non hanno superato l'esame di Esercitazioni di Chimica farmaceutica e Tossicologica I possono essere ammessi a frequentare il corso di Esercitazioni di Chimica farmaceutica e tossicologica II;  
-Gli studenti di Farmacia che non hanno superato l'esame di Esercitazioni di Chimica farmaceutica e tossicologica II possono essere ammessi a frequentare il corso di Esercitazioni di Chimica farmaceutica e tossicologica III.  
+L'art. 30, relativo al corso di laurea in chimica, e' modificato nel senso che all'elenco degli insegnamenti complementari per l'indirizzo organico-biologico sono aggiunti i seguenti:  
+enzimologia;  
+chimica dei composti eterociclici.  
+L'art. 38, relativo al corso di laurea in scienze geologiche, e' modificato nel senso che dopo il penultimo comma viene aggiunto il seguente: "anche l'insegnamento biennale di fisica sperimentale comporta due distinti esami alla fine di ogni anno di corso".  
+Nello stesso articolo dopo l'ultimo comma viene aggiunto il seguente: "il laureando dovra' presentare e discutere un elaborato sperimentale in materia diversa da quella oggetto della dissertazione scritta. Tale elaborato dovra' vertere su rilevamento geologico qualora la dissertazione scritta non fosse inerente a questa disciplina".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 settembre 1966
+### Dato a Roma, addi' 15 marzo 1978
 
-SARAGAT GUI
+LEONE PEDINI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 29 ottobre 1966
+Registrato alla Corte dei conti, addi' 23 settembre 1978
 
-Atti del Governo, registro n. 206, foglio n. 134. - VILLA
+Registro n. 104 Istruzione, foglio n. 281

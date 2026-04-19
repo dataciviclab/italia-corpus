@@ -1,58 +1,266 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1978 n. 1042
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1973 n. 1149
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1978 n. 1042
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1973 n. 1149
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Dopo l'art. 50, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione dell'istituto di "Storia del diritto italiano".
+
+Istituto di storia del diritto italiano
+
+Art. 51. - E' costituito presso la facolta' di giurisprudenza l'istituto di storia del diritto italiano. Fanno parte dell'istituto gli insegnamenti di: storia del diritto italiano (I e II cattedra), esegesi delle fonti del diritto italiano, diritto comune.
+
+Art. 52. - L'istituto ha per scopo di dare impulso alle ricerche storico-giuridiche nell'ampio arco di tempo compreso dalla storia del diritto italiano, coordinare l'insegnamento delle discipline che ad esso fanno capo anche in riferimento alle materie dogmatiche dell'ordinamento italiano, promuovere convegni di studio, cicli di seminari e conferenze.
+
+Provvede a curare pubblicazioni sugli ordinamenti storico-giuridici italiani e su singoli istituti, domandandone la responsabilita' dell'edizione ad un dettagliato giudizio scritto dei professori titolari delle discipline facenti parte dell'istituto.
+
+Art. 53. - L'istituto, ai suoi fini di studio e di ricerca, si avvarra' di una biblioteca specializzata che, coordinata a quella centrale della facolta', funzionera' come una diramazione di essa.
+
+Art. 54. - La direzione dell'istituto e' tenuta vicendevolmente per un quinquennio dai professori titolari della I e II cattedra di storia del diritto italiano e cio' soprattutto allo scopo di sviluppare ed integrare maggiormente le attivita' dell'istituto con il raggiungimento di alternati programmi, sia pure nell'unita' degli intenti.
+
+Art. 55. - Seno ammessi a frequentare l'istituto gli studenti ed i laureati della facolta'. Sono ammessi, altresi', gli studenti, i laureati di altre facolta' e gli studiosi che, in base a regolare domanda, ne ottengono l'autorizzazione del direttore.
+
+Art. 56. - Il regolamento interno dell'istituto e' emanato dal direttore ed approvato dal consiglio della facolta' di giurisprudenza.
+
+L'art. 116, relativo al corso di laurea in medicina e chirurgia, e' modificato nel senso che l'insegnamento complementare di "Tisiologia" muta la denominazione in quella di "Tisiologia e malattie dell'apparato respiratorio".
+
+Art. 124 - all'elenco degli istituti annessi alla facolta' di medicina e chirurgia sono aggiunti i seguenti:
+
+Istituto di clinica medica II;
+
+Istituto di patologia medica II;
+
+Istituto di clinica chirurgica II;
+
+Istituto di patologia chirurgica II;
+
+Istituto di clinica ostetrica e ginecologica II;
+
+Istituto di chirurgia d'urgenza;
+
+Istituto di chirurgia sperimentale;
+
+Istituto di patologia generale II;
+
+Istituto di istituzioni di patologia generale;
+
+Istituto di fisiologia umana II;
+
+Istituto di anatomia patologica II;
+
+Istituto di clinica ortopedica II;
+
+Istituto di clinica oculistica II;
+
+Istituto di clinica delle malattie nervose e mentali II;
+
+Istituto di anestesiologia e rianimazione;
+
+Istituto di farmacologia II;
+
+Istituto di chimica biologica II;
+
+Istituto di gerontologia e geriatria;
+
+Istituto di neurochirurgia;
+
+Istituto di istologia ed embriologia generale;
+
+Istituto di medicina preventiva dei lavoratori e psicotecnica.
+
+L'art. 130, concernente i professori titolari di chimica farmaceutica, e' modificato nel senso che il secondo comma e' abrogato e sostituito dal seguente:
+
+"I professori titolari di chimica farmaceutica sono aggregati alla facolta' di scienze matematiche, fisiche e naturali".
+
+Art. 141 - all'elenco degli insegnamenti complementari del corso di laurea in matematica, indirizzo generale, sono aggiunti i seguenti:
+
+Equazioni funzionali;
+
+Meccanica del continuo;
+
+Algebra commutativa;
+
+Teoria dei gruppi;
+
+Istituzioni di algebra superiore.
+
+Art. 147 - all'elenco degli insegnamenti complementari del corso di laurea in matematica, indirizzo applicativo, sono aggiunti i seguenti:
+
+1) Orientamento numerico:
+
+Equazioni funzionali;
+
+Meccanica del continuo;
+
+Ricerca operativa.
+
+2) Orientamento meccanico:
+
+Equazioni funzionali;
+
+Meccanica del continuo.
+
+Art. 152 - all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:
+
+Esercitazioni di chimica organica;
+
+Genetica umana;
+
+Citogenetica;
+
+Genetica vegetale.
+
+Art. 156 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:
+
+Esercitazioni di chimica organica;
+
+Genetica umana;
+
+Citogenetica;
+
+Genetica vegetale;
+
+Neurobiologia.
+
+Art. 159 - all'elenco degli insegnamenti complementari del corso di laurea in "Scienze geologiche" e' aggiunto il seguente: "Esercitazioni di paleontologia".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 8 ottobre 1973
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: ZAGARI
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 28 ottobre 1974 Atti di Governo, registro n. 6, foglio n. 65. - SCIARRETTA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Napoli, approvato con [decreto del Presidente della Repubblica 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1939-04-20;1162) e modificato con [decreto del Presidente della Repubblica 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1940-10-26;1904), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli, e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-All'art. 257, relativo all'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie, sono apportate le seguenti modifiche:  
-a) I seguenti insegnamenti semestrali modificano la durata del corso in annuali:  
-bachicoltura e apicoltura;  
-allevamento vegetale;  
-demografia zootecnica;  
-fisioclimatologia animale;  
-fisiologia e tecnica della riproduzione animale;  
-genetica del miglioramento animale;  
-igiene zootecnica;  
-immunogenetica zootecnica;  
-tecnica del diserbo;  
-lotta biologica ed integrata;  
-biologia e tecnica della riproduzione sementiera.  
-b) L'insegnamento complementare di nematologia (semestrale) muta la denominazione in nematologia agraria e modifica la sua durata in annuale.  
-L'insegnamento complementare di economia e regolamentazione del commercio internazionale e comunitario dei prodotti agricoli (semestrale) muta la denominazione in commercio internazionale dei prodotti agricoli e modifica la sua durata in annuale.  
-L'insegnamento complementare di avicoltura e coniglicoltura (semestrale) viene soppresso e sostituito con i seguenti insegnamenti:  
-avicoltura (annuale);  
-allevamento del coniglio, degli animali da pelliccia, da laboratorio e da ripopolamento (annuale).  
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Dopo l'art. 50, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione dell'istituto di "Storia del diritto italiano".  
+Istituto di storia del diritto italiano  
+Art. 51. - E' costituito presso la facolta' di giurisprudenza l'istituto di storia del diritto italiano. Fanno parte dell'istituto gli insegnamenti di: storia del diritto italiano (I e II cattedra), esegesi delle fonti del diritto italiano, diritto comune.  
+Art. 52. - L'istituto ha per scopo di dare impulso alle ricerche storico-giuridiche nell'ampio arco di tempo compreso dalla storia del diritto italiano, coordinare l'insegnamento delle discipline che ad esso fanno capo anche in riferimento alle materie dogmatiche dell'ordinamento italiano, promuovere convegni di studio, cicli di seminari e conferenze.  
+Provvede a curare pubblicazioni sugli ordinamenti storico-giuridici italiani e su singoli istituti, domandandone la responsabilita' dell'edizione ad un dettagliato giudizio scritto dei professori titolari delle discipline facenti parte dell'istituto.  
+Art. 53. - L'istituto, ai suoi fini di studio e di ricerca, si avvarra' di una biblioteca specializzata che, coordinata a quella centrale della facolta', funzionera' come una diramazione di essa.  
+Art. 54. - La direzione dell'istituto e' tenuta vicendevolmente per un quinquennio dai professori titolari della I e II cattedra di storia del diritto italiano e cio' soprattutto allo scopo di sviluppare ed integrare maggiormente le attivita' dell'istituto con il raggiungimento di alternati programmi, sia pure nell'unita' degli intenti.  
+Art. 55. - Seno ammessi a frequentare l'istituto gli studenti ed i laureati della facolta'. Sono ammessi, altresi', gli studenti, i laureati di altre facolta' e gli studiosi che, in base a regolare domanda, ne ottengono l'autorizzazione del direttore.  
+Art. 56. - Il regolamento interno dell'istituto e' emanato dal direttore ed approvato dal consiglio della facolta' di giurisprudenza.  
+L'art. 116, relativo al corso di laurea in medicina e chirurgia, e' modificato nel senso che l'insegnamento complementare di "Tisiologia" muta la denominazione in quella di "Tisiologia e malattie dell'apparato respiratorio".  
+Art. 124 - all'elenco degli istituti annessi alla facolta' di medicina e chirurgia sono aggiunti i seguenti:  
+  
+Istituto di clinica medica II;  
+Istituto di patologia medica II;  
+Istituto di clinica chirurgica II;  
+Istituto di patologia chirurgica II;  
+Istituto di clinica ostetrica e ginecologica II;  
+Istituto di chirurgia d'urgenza;  
+Istituto di chirurgia sperimentale;  
+Istituto di patologia generale II;  
+Istituto di istituzioni di patologia generale;  
+Istituto di fisiologia umana II;  
+Istituto di anatomia patologica II;  
+Istituto di clinica ortopedica II;  
+Istituto di clinica oculistica II;  
+Istituto di clinica delle malattie nervose e mentali II;  
+Istituto di anestesiologia e rianimazione;  
+Istituto di farmacologia II;  
+Istituto di chimica biologica II;  
+Istituto di gerontologia e geriatria;  
+Istituto di neurochirurgia;  
+Istituto di istologia ed embriologia generale;  
+Istituto di medicina preventiva dei lavoratori e psicotecnica.  
+L'art. 130, concernente i professori titolari di chimica farmaceutica, e' modificato nel senso che il secondo comma e' abrogato e sostituito dal seguente:  
+"I professori titolari di chimica farmaceutica sono aggregati alla facolta' di scienze matematiche, fisiche e naturali".  
+Art. 141 - all'elenco degli insegnamenti complementari del corso di laurea in matematica, indirizzo generale, sono aggiunti i seguenti:  
+  
+Equazioni funzionali;  
+Meccanica del continuo;  
+Algebra commutativa;  
+Teoria dei gruppi;  
+Istituzioni di algebra superiore.  
+Art. 147 - all'elenco degli insegnamenti complementari del corso di laurea in matematica, indirizzo applicativo, sono aggiunti i seguenti:  
+1) Orientamento numerico:  
+Equazioni funzionali;  
+Meccanica del continuo;  
+Ricerca operativa.  
+2) Orientamento meccanico:  
+Equazioni funzionali;  
+Meccanica del continuo.  
+Art. 152 - all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:  
+  
+Esercitazioni di chimica organica;  
+Genetica umana;  
+Citogenetica;  
+Genetica vegetale.  
+Art. 156 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:  
+  
+Esercitazioni di chimica organica;  
+Genetica umana;  
+Citogenetica;  
+Genetica vegetale;  
+Neurobiologia.  
+Art. 159 - all'elenco degli insegnamenti complementari del corso di laurea in "Scienze geologiche" e' aggiunto il seguente: "Esercitazioni di paleontologia".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 giugno 1978
+### Dato a Roma, addi' 8 ottobre 1973
 
-p. Il Presidente della Repubblica Il Presidente del Senato FANFANI PEDINI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 23 aprile 1979
+Registrato alla Corte dei conti, addi' 28 ottobre 1974
 
-Registro n. 27 Istruzione, foglio n. 23
+Atti di Governo, registro n. 6, foglio n. 65. - SCIARRETTA

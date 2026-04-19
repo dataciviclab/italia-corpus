@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1982 n. 810
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1984 n. 367
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1982 n. 810
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1984 n. 367
+=============================================================
 
 Autorizzazione al Consiglio nazionale delle ricerche ad acquistare un immobile.
 -------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-810. Decreto del Presidente della Repubblica 10 settembre 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, il Consiglio nazionale delle ricerche viene autorizzato ad acquistare dai signori Angelo, Giuseppe, Rosalia, Vittoria e Guido Lamberti, come da atto preliminare di vendita 15 luglio 1981, redatto a rogito dott. Giuseppe Ramondelli, notaio in Roma, al complessivo convenuto prezzo di lire 850.000.000, un complesso immobiliare sito in Napoli, via Gramsci, 5 (gia' viale Elena n. 5), consistente in un appartamento composto di 16,5 vani catastali per una superficie totale di mq 606 circa, di un vano cantina e di un locale sottotetto, distinto nel nuovo catasto edilizio urbano alla partita 31901, sezione CHI, foglio 19, particella 160 sub 16, da destinare a sede di propri organi di ricerca.  
+367. Decreto del Presidente della Repubblica 17 maggio 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, il Consiglio nazionale delle ricerche viene autorizzato ad acquistare, al prezzo di L. 1.477.000.000, un complesso immobiliare sito in Roma, via Cineto Romano n. 37, consistente in un terreno di mq 8524 e in due fabbricati che su parte di esso insistono, di proprieta' dei signori: cavalier Anacleto Gianni, dott. Fabrizio Gianni e signora Anna Maria Gianni in d'Orazio, come da atto preliminare 27 giugno 1978, redatto dal dott. Otello Massimi, notaio in Roma, n. 18198 di repertorio, da adibire a sede dei propri organi di ricerca.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 28 ottobre 1982  
-Registro n. 9 Presidenza, foglio n. 373
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 11 luglio 1984  
+Registro n. 6 Presidenza, foglio n. 298

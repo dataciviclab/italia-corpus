@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 153
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1079
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 153
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1079
+================================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------------
@@ -12,8 +12,14 @@ Art. 1
 
 N.
 
-153. Decreto del Presidente della Repubblica 26 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' di L. 2.817.168, devoluta a favore della fondazione stessa dalla pretura di Milano nel rispetto della volonta' della testatrice sig.ra Magagnoli Giuseppina che, con testamento olografo 14 maggio 1974 pubblicato a rogito dott. Gaetano Maria Arena, notaio in Milano, in data 3 giugno 1976, n. 63340 di repertorio e n. 7851 di raccolta, registrato a Milano il 4 giugno 1976 al n. 09068, aveva destinato i suoi beni in beneficenza ai minorati fisici.  
+1079. Decreto del Presidente della Repubblica 5 dicembre 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la   
+fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene   
+autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente nella nuda proprieta' di un immobile sito in Novara,   
+via S. Costa n. 10 ed in beni mobili (saldo conti correnti, valori in titoli) il tutto per un valore di L. 124.033.200 al netto delle passivita' e degli usufrutti, disposta dalla sig.ra Sartori Jolanda   
+con testamento olografo 20 dicembre 1956 e relativa modifica del 21   
+luglio 1965, pubblicato in data 25 agosto 1982, n. 288160/31352 di repertorio, a rogito dott. Mario Barberi, notaio in Novara,   
+registrato a Novara in data 2 settembre 1982 al n. 5483.   
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 31 marzo 1982  
-Registro n. 3 Presidenza, foglio n. 117
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 14 febbraio 1985   
+Registro n. 2 Presidenza, foglio n. 34

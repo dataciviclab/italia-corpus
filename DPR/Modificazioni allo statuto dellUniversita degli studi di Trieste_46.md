@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1054
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1973 n. 881
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1054
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1973 n. 881
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,359 +20,196 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli 136 e 137, relativi alla scuola di specializzazione in psichiatria, sono soppressi e sostituiti dai seguenti:
+Dopo l'art. 125, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola diretta a fini speciali in "assistenza sociale psichiatrica".
 
-Scuola di specializzazione in psichiatria
+Scuola di assistenza sociale psichiatrica
 
-Art. 136. - La scuola di specializzazione in psichiatria ha sede presso l'istituto di clinica psichiatrica dell'Universita' degli studi di Trieste e conferisce il diploma di specialista in psichiatria.
+(Scuola diretta a fini speciali)
 
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+Art. 126. - Presso la facolta' di medicina e chirurgia dell'Universita' degli studi di Trieste e' annessa la scuola di assistenza sociale psichiatrica (scuola diretta a fini speciali) che fa capo alla cattedra di psichiatria. Essa ha lo scopo di dare una preparazione completa, teorica e pratica, agli assistenti sociali, istruendoli sui problemi dell'intervento presso l'ambiente familiare e sociale dell'ammalato psichico, sulle possibilita' di intervento a ti po Casework sui problemi di reinserimento sociale del paziente con disturbi psichici e sulle funzioni dell'assistente sociale presso i servizi di assistenza psichiatrica e le istituzioni psichiatriche ambulatoriali ed ospedaliere.
 
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+Art. 127. - La durata del corso per il conseguimento del diploma di assistente sociale psichiatrico e' di due anni accademici; nel primo anno vengono impartiti insegnamenti teorici ed esercitazioni pratiche su materie propedeutiche e tecniche. Nel secondo anno vengono impartiti insegnamenti teorici e pratici su argomenti di clinica neurologica e psichiatrica, assistenza psichiatrica intra ed extraospedaliera e materie affini. Gli allievi hanno l'obbligo della frequenza.
 
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+Art. 128. - Possono accedere alla scuola i cittadini italiani di ambo i sessi di 18 anni compiuti, forniti del diploma di scuola media superiore (II grado: cioe' maturita' classica, scientifica o diplomi equipollenti) ed in possesso del diploma di assistente sociale rilasciato da una scuola di servizio sociale italiana qualificata (con corsi triennali di studi teorici e di tirocinio tenuti - in parte o in toto - da docenti universitari).
 
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
+Art. 129. - Chi aspira ad ottenere l'iscrizione al 1° anno della scuola deve sostenere una selezione sui titoli ed un colloquio attitudinale da parte di una commissione composta dal direttore della cattedra di psichiatria, da un esperto in servizio sociale e da un docente della stessa scuola.
 
-Il numero massimo degli allievi e' di otto per anno di corso e complessivamente di trentadue iscritti per l'intero corso di studi.
+Art. 130. - Il numero massimo dei posti disponibili e' stabilito nella misura di venti.
 
-L'ammissione al corso avviene per titoli ed esami.
+Art. 131. - Direttore della scuola e' il titolare della cattedra di psichiatria dell'Universita'. Gli insegnanti della scuola sono proposti dal consiglio di facolta' di medicina e chirurgia udito il direttore e nominati dal rettore.
 
-Art. 137. - Le materie di insegnamento sono le seguenti:
+Art. 132. - Le materie di insegnamento teorico del 1° anno sono:
+
+Semeiotica psichiatrica;
+
+Psicologia generale;
+
+Igiene mentale;
+
+Neuropsichiatria infantile;
+
+Servizio sociale psichiatrico.
+
+Le esercitazioni pratiche del 1° anno riguardano la presentazione e la discussione di pazienti riguardanti i piu' diversi tipi di patologia psichiatrica.
+
+Le materie di insegnamento teorico del 2° anno sono:
+
+Clinica neurologica;
+
+Psicologia sociale;
+
+Psichiatria forense e legislazione psichiatrica;
+
+Medicina sociale e del lavoro;
+
+Clinica psichiatrica;
+
+Servizio sociale psichiatrico.
+
+Le esercitazioni pratiche del 2° anno consistono nella discussione e nel diretto intervento in casi di pazienti riguardanti i piu' diversi tipi di patologia psichiatrica.
+
+Inoltre consistono nella discussione individuale e di gruppo di casi che gli stessi assistenti sociali hanno seguito nel loro ambiente di lavoro.
+
+Art. 133. - Al termine del 1° anno, per essere ammessi al 2°, gli allievi devono superare una prova di esami sugli insegnamenti teorici e pratici impartiti.
+
+Art. 134. - Al termine del 2° anno, per il conseguimento del diploma di assistente sociale psichiatrico, gli iscritti devono sostenere un esame comprendente: a) una prova orale sulla materia dell'intero corso; b) una prova pratica stabilita dalla commissione esaminatrice.
+
+Art. 135. - Le commissioni per gli esami del 1° anno e per l'esame di diploma sono composte da tre membri - tra cui un esperto in servizio sociale - scelti tra i docenti della scuola e nominati dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Ogni commissario ha a disposizione 10 punti.
+
+Art. 136. - I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola; ma se al 2° esame non sia loro riconosciuta una idoneita' saranno senz'altro esclusi da ulteriori prove.
+
+Art. 137. - Agli allievi che avranno superato l'esame finale viene rilasciato il diploma di assistente sociale psichiatrico.
+
+Art. 138. - Le tasse e soprattasse per la scuola sono ripartite come segue:
 
 1° Anno:
 
-1) metodologia del rapporto medico-paziente (annuale);
+tassa iscrizione ............................. L. 18.000
 
-2) psicologia (annuale);
+contributo ................................... L. 25.000
 
-3) elementi di genetica e biochimica (annuale);
+tassa esame .................................. L. 7.000
 
-4) struttura e funzioni integrative del SNC (annuale);
+---------
 
-5) neurologia clinica (annuale);
-
-6) clinica psichiatrica I (quadriennale).
+L. 50.000
 
 2° Anno:
 
-1) psicopatologia e psicodinamica (annuale);
+tassa iscrizione ............................. L. 18.000
 
-2) psicoterapia I (triennale);
+contributo ................................... L. 25.000
 
-3) psicofarmacologia (annuale);
+tassa esame .................................. L. 7.000
 
-4) psicofarmacoterapia (annuale);
+soprattassa esame diploma .................... L. 3.000
 
-5) clinica psichiatrica II (quadriennale).
+---------
 
-3° Anno:
-
-1) psicodiagnostica ed informatica psichiatrica (annuale);
-
-2) psichiatria sociale I (biennale);
-
-3) psichiatria infantile (annuale);
-
-4) psicoterapia II (triennale);
-
-5) clinica psichiatrica III (quadriennale).
-
-4° Anno:
-
-1) psicosomatica (annuale);
-
-2) psichiatria sociale II (biennale);
-
-3) psichiatria forense (annuale);
-
-4) psicoterapia III (triennale);
-
-5) clinica psichiatrica IV (quadriennale).
-
-Note esplicative:
-
-1) Strutture e funzioni integrative del SNC: tale materia, annuale, e' comprensiva dell'anatomofisiologia del SNC e della psicofisiologia.
-
-2) Neurologia clinica: tale insegnamento, annuale, deve essere comprensivo, eventualmente con sottodivisioni, di cenni di anatomia patologica del SN, di semeiologia neurologica, clinica e strumentale, di neuroradiologia.
-
-3) Clinica psichiatrica: tale materia, quadriennale, e' comprensiva anche degli elementi di semeiotica psichiatrica, delle tecniche laboratoristiche, delle terapie biologiche.
-
-4) Psicoterapia: tale materia, triennale, comprende e considera nel corso dei tre anni, le tecniche ed i principi fondamentali delle principali psicoterapie individuali, direttive o non direttive, i principi fondamentali e le dinamiche delle piu' importanti psicoterapie di gruppo, delle prassi psicoterapiche, socioterapiche e delle sociodinamiche delle istituzioni psichiatriche.
-
-5) Psicodiagnostica ed informatica psichiatrica: tale materia, annuale, e' comprensiva di cenni di statistica, dei reattivi mentali e psicodiagnostica strumentale e di metodologia della ricerca psichiatrica.
-
-6) Psichiatria sociale: tale materia, biennale, con molte possibilita' di suddivisioni, e' comprensiva di elementi di sociologia, di antropologia culturale, di etologia, di ecologia psichiatrica, di epidemiologia psichiatrica, di psichiatria transculturale, di psichiatria preventiva e di igiene mentale, prassi ed organizzazione di assistenza psichiatrica sul territorio extra istituzionale.
-
-7) Psicosomatica: tale materia, annuale, e' comprensiva degli aspetti psichici delle malattie somatiche della cosiddetta medicina integrata, della endocrinologia in riferimento alla psichiatria, delle cosiddette specifiche malattie psicosomatiche.
-
-E' obbligatoria la frequenza per undici mesi all'anno; tale periodo comprende sia la frequenza alle lezioni, sia l'attivita' nei reparti di degenza e nelle strutture ambulatoriali a disposizione della scuola. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
-
-La scuola programma lo svolgimento dei corsi di insegnamento. Per il passaggio agli anni successivi e' obbligatorio il superamento degli esami per ogni singolo anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
-
-Le lezioni teoriche sono integrate da seminari anche interdisciplinari, da documentazioni cliniche e da esperienze effettuate nei vari settori della disciplina.
-
-Alla fine dei quattro anni gli allievi che hanno frequentato i corsi saranno ammessi all'esame di diploma, consistente nella presentazione e discussione di una tesi scritta di argomento pertinente alla psichiatria, in una prova orale ed in una prova pratica.
-
-Agli allievi che hanno ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specializzazione in psichiatria valido a tutti gli effetti di legge.
-
-Per quanto riguarda le tasse, soprattasse e contributi, gli iscritti saranno tenuti a versare quanto segue:
-
-=====================================================================
-
-|Primo anno|Anni successivi
-
-=====================================================================
-
-tassa di immatricolazione | 5.000| -
-
-costo libretto di iscrizione | 1.500| -
-
-tassa annuale d'iscrizione | 100.000| 100.000
-
-soprattassa esami profitto | 7.000| 7.000
-
-contributo opere sportive ed assistenziali| 1.000| 1.000
-
-contributo di biblioteca | 10.000| 10.000
-
-contributo clinica e laboratorio | 48.000| 48.000
-
-prestazioni di segreteria | 4.000| 4.000
-
-contributo di riscaldamento | 3.000| 3.000
-
-tassa di diploma | -| 6.000
-
-Dopo l'art. 171, e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo alla istituzione della scuola di specializzazione in audiologia.
-
-Scuola di specializzazione in audiologia
-
-Art. 172. - La scuola ha sede presso la clinica otorinolaringoiatrica dell'Universita' degli studi di Trieste.
-
-La durata del corso e' fissata in tre anni.
-
-Il numero degli iscritti alla scuola, complessivo per tre anni, e' fissato ad un massimo di nove (tre per anno).
-
-Non e' concesso alcun abbreviamento di corso.
-
-Internato per tre anni in clinica otorinolaringoiatrica.
-
-Le materie di insegnamento sono:
-
-1° Anno:
-
-nozioni di fisica acustica;
-
-anatomia dell'orecchio, delle vie e dei centri acustici e vestibolari;
-
-fisiologia dell'orecchio, delle vie e dei centri acustici e vestibolari;
-
-nozioni di psichiatria.
-
-2° Anno:
-
-tecniche audiometriche;
-
-nozioni di neurologia;
-
-nozioni di vestibologia.
-
-3° Anno:
-
-patologia dell'udito;
-
-terapia medica, chirurgica e protesica della sordita';
-
-la sordita' sotto il profilo sociale;
-
-la rieducazione dell'ipoacusico.
-
-Per accedere al secondo ed al terzo anno e' obbligatorio il superamento di tutti gli esami, rispettivamente del primo e del secondo anno. Gli esami possono essere sostenuti solamente in due sessioni annuali, una estiva ed una autunnale.
-
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
-
-Gli insegnanti sono proposti dal direttore della scuola e scelti tra i titolari di altre cattedre della facolta' di medicina e chirurgia dell'Universita' di Trieste, tra i liberi docenti in audiologia ed in altre materie.
-
-Il diploma di specialista in audiologia viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico e sperimentale.
-
-Per quanto riguarda tasse, soprattasse e contributi si precisa quanto segue:
-
-=====================================================================
-
-|Primo anno|Anni successivi
-
-=====================================================================
-
-tassa di immatricolazione | 5.000|
-
-costo libretto iscrizione e tesserino | 1.500|
-
-tassa annuale d'iscrizione | 100.000| 100.000
-
-soprattassa esami profitto | 7.000| 7.000
-
-contributo opere sportive ed assistenziali| 1.000| 1.000
-
-contributo di biblioteca | 10.000| 10.000
-
-contributo clinica e laboratorio | 48.000| 48.000
-
-prestazioni di segreteria | 3.000| 3.000
-
-contributo di riscaldamento | 3.000| 3.000
-
-Totale | 178.500| 172.000
+L. 53.000
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1978
+Dato a Roma, addi' 16 ottobre 1973
 
-PERTINI
+LEONE
 
-PEDINI
+MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: ZAGARI
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 23 aprile 1979 Registro n. 27 Istruzione, foglio n. 34
+alla Corte dei conti, addi' 27 dicembre 1973 Atti di Governo, registro n. 263, foglio n. 36. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli 136 e 137, relativi alla scuola di specializzazione in psichiatria, sono soppressi e sostituiti dai seguenti:   
   
-Scuola di specializzazione in psichiatria   
+Dopo l'art. 125, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola diretta a fini speciali in "assistenza sociale psichiatrica".   
   
-Art. 136. - La scuola di specializzazione in psichiatria ha sede presso l'istituto di clinica psichiatrica dell'Universita' degli studi di Trieste e conferisce il diploma di specialista in psichiatria.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
-Il numero massimo degli allievi e' di otto per anno di corso e complessivamente di trentadue iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Art. 137. - Le materie di insegnamento sono le seguenti:   
+Scuola di assistenza sociale psichiatrica   
+(Scuola diretta a fini speciali)   
+  
+Art. 126. - Presso la facolta' di medicina e chirurgia dell'Universita' degli studi di Trieste e' annessa la scuola di assistenza sociale psichiatrica (scuola diretta a fini speciali) che fa capo alla cattedra di psichiatria. Essa ha lo scopo di dare una preparazione completa, teorica e pratica, agli assistenti sociali, istruendoli sui problemi dell'intervento presso l'ambiente familiare e sociale dell'ammalato psichico, sulle possibilita' di intervento a ti po Casework sui problemi di reinserimento sociale del paziente con disturbi psichici e sulle funzioni dell'assistente sociale presso i servizi di assistenza psichiatrica e le istituzioni psichiatriche ambulatoriali ed ospedaliere.   
+Art. 127. - La durata del corso per il conseguimento del diploma di assistente sociale psichiatrico e' di due anni accademici; nel primo anno vengono impartiti insegnamenti teorici ed esercitazioni pratiche su materie propedeutiche e tecniche. Nel secondo anno vengono impartiti insegnamenti teorici e pratici su argomenti di clinica neurologica e psichiatrica, assistenza psichiatrica intra ed extraospedaliera e materie affini. Gli allievi hanno l'obbligo della frequenza.   
+Art. 128. - Possono accedere alla scuola i cittadini italiani di ambo i sessi di 18 anni compiuti, forniti del diploma di scuola media superiore (II grado: cioe' maturita' classica, scientifica o diplomi equipollenti) ed in possesso del diploma di assistente sociale rilasciato da una scuola di servizio sociale italiana qualificata (con corsi triennali di studi teorici e di tirocinio tenuti - in parte o in toto - da docenti universitari).   
+Art. 129. - Chi aspira ad ottenere l'iscrizione al 1° anno della scuola deve sostenere una selezione sui titoli ed un colloquio attitudinale da parte di una commissione composta dal direttore della cattedra di psichiatria, da un esperto in servizio sociale e da un docente della stessa scuola.   
+Art. 130. - Il numero massimo dei posti disponibili e' stabilito nella misura di venti.   
+Art. 131. - Direttore della scuola e' il titolare della cattedra di psichiatria dell'Universita'. Gli insegnanti della scuola sono proposti dal consiglio di facolta' di medicina e chirurgia udito il direttore e nominati dal rettore.   
+Art. 132. - Le materie di insegnamento teorico del 1° anno sono:   
+Semeiotica psichiatrica;   
+Psicologia generale;   
+Igiene mentale;   
+Neuropsichiatria infantile;   
+Servizio sociale psichiatrico.   
+  
+Le esercitazioni pratiche del 1° anno riguardano la presentazione e la discussione di pazienti riguardanti i piu' diversi tipi di patologia psichiatrica.   
+Le materie di insegnamento teorico del 2° anno sono:   
+Clinica neurologica;   
+Psicologia sociale;   
+Psichiatria forense e legislazione psichiatrica;   
+Medicina sociale e del lavoro;   
+Clinica psichiatrica;   
+Servizio sociale psichiatrico.   
+  
+Le esercitazioni pratiche del 2° anno consistono nella discussione e nel diretto intervento in casi di pazienti riguardanti i piu' diversi tipi di patologia psichiatrica.   
+Inoltre consistono nella discussione individuale e di gruppo di casi che gli stessi assistenti sociali hanno seguito nel loro ambiente di lavoro.   
+Art. 133. - Al termine del 1° anno, per essere ammessi al 2°, gli allievi devono superare una prova di esami sugli insegnamenti teorici e pratici impartiti.   
+Art. 134. - Al termine del 2° anno, per il conseguimento del diploma di assistente sociale psichiatrico, gli iscritti devono sostenere un esame comprendente: a) una prova orale sulla materia dell'intero corso; b) una prova pratica stabilita dalla commissione esaminatrice.   
+Art. 135. - Le commissioni per gli esami del 1° anno e per l'esame di diploma sono composte da tre membri - tra cui un esperto in servizio sociale - scelti tra i docenti della scuola e nominati dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Ogni commissario ha a disposizione 10 punti.   
+Art. 136. - I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola; ma se al 2° esame non sia loro riconosciuta una idoneita' saranno senz'altro esclusi da ulteriori prove.   
+Art. 137. - Agli allievi che avranno superato l'esame finale viene rilasciato il diploma di assistente sociale psichiatrico.   
+Art. 138. - Le tasse e soprattasse per la scuola sono ripartite come segue:   
 1° Anno:   
-1) metodologia del rapporto medico-paziente (annuale);   
-2) psicologia (annuale);   
-3) elementi di genetica e biochimica (annuale);   
-4) struttura e funzioni integrative del SNC (annuale);   
-5) neurologia clinica (annuale);   
-6) clinica psichiatrica I (quadriennale).   
+tassa iscrizione ............................. L. 18.000   
+contributo ................................... L. 25.000   
+tassa esame .................................. L. 7.000   
+---------   
+L. 50.000   
 2° Anno:   
-1) psicopatologia e psicodinamica (annuale);   
-2) psicoterapia I (triennale);   
-3) psicofarmacologia (annuale);   
-4) psicofarmacoterapia (annuale);   
-5) clinica psichiatrica II (quadriennale).   
-3° Anno:   
-1) psicodiagnostica ed informatica psichiatrica (annuale);   
-2) psichiatria sociale I (biennale);   
-3) psichiatria infantile (annuale);   
-4) psicoterapia II (triennale);   
-5) clinica psichiatrica III (quadriennale).   
-4° Anno:   
-1) psicosomatica (annuale);   
-2) psichiatria sociale II (biennale);   
-3) psichiatria forense (annuale);   
-4) psicoterapia III (triennale);   
-5) clinica psichiatrica IV (quadriennale).   
-Note esplicative:   
-1) Strutture e funzioni integrative del SNC: tale materia, annuale, e' comprensiva dell'anatomofisiologia del SNC e della psicofisiologia.   
-2) Neurologia clinica: tale insegnamento, annuale, deve essere comprensivo, eventualmente con sottodivisioni, di cenni di anatomia patologica del SN, di semeiologia neurologica, clinica e strumentale, di neuroradiologia.   
-3) Clinica psichiatrica: tale materia, quadriennale, e' comprensiva anche degli elementi di semeiotica psichiatrica, delle tecniche laboratoristiche, delle terapie biologiche.   
-4) Psicoterapia: tale materia, triennale, comprende e considera nel corso dei tre anni, le tecniche ed i principi fondamentali delle principali psicoterapie individuali, direttive o non direttive, i principi fondamentali e le dinamiche delle piu' importanti psicoterapie di gruppo, delle prassi psicoterapiche, socioterapiche e delle sociodinamiche delle istituzioni psichiatriche.   
-5) Psicodiagnostica ed informatica psichiatrica: tale materia, annuale, e' comprensiva di cenni di statistica, dei reattivi mentali e psicodiagnostica strumentale e di metodologia della ricerca psichiatrica.   
-6) Psichiatria sociale: tale materia, biennale, con molte possibilita' di suddivisioni, e' comprensiva di elementi di sociologia, di antropologia culturale, di etologia, di ecologia psichiatrica, di epidemiologia psichiatrica, di psichiatria transculturale, di psichiatria preventiva e di igiene mentale, prassi ed organizzazione di assistenza psichiatrica sul territorio extra istituzionale.   
-7) Psicosomatica: tale materia, annuale, e' comprensiva degli aspetti psichici delle malattie somatiche della cosiddetta medicina integrata, della endocrinologia in riferimento alla psichiatria, delle cosiddette specifiche malattie psicosomatiche.   
-E' obbligatoria la frequenza per undici mesi all'anno; tale periodo comprende sia la frequenza alle lezioni, sia l'attivita' nei reparti di degenza e nelle strutture ambulatoriali a disposizione della scuola. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
-La scuola programma lo svolgimento dei corsi di insegnamento. Per il passaggio agli anni successivi e' obbligatorio il superamento degli esami per ogni singolo anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
-Le lezioni teoriche sono integrate da seminari anche interdisciplinari, da documentazioni cliniche e da esperienze effettuate nei vari settori della disciplina.   
-Alla fine dei quattro anni gli allievi che hanno frequentato i corsi saranno ammessi all'esame di diploma, consistente nella presentazione e discussione di una tesi scritta di argomento pertinente alla psichiatria, in una prova orale ed in una prova pratica.   
-Agli allievi che hanno ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specializzazione in psichiatria valido a tutti gli effetti di legge.   
-Per quanto riguarda le tasse, soprattasse e contributi, gli iscritti saranno tenuti a versare quanto segue:   
+tassa iscrizione ............................. L. 18.000   
+contributo ................................... L. 25.000   
+tassa esame .................................. L. 7.000   
+soprattassa esame diploma .................... L. 3.000   
+---------   
+L. 53.000   
   
-
-|  |  |
-| --- | --- |
-| Primo anno | Anni successivi |
-
-  
-  
-  
-Dopo l'art. 171, e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo alla istituzione della scuola di specializzazione in audiologia.   
-  
-Scuola di specializzazione in audiologia   
-  
-Art. 172. - La scuola ha sede presso la clinica otorinolaringoiatrica dell'Universita' degli studi di Trieste.   
-La durata del corso e' fissata in tre anni.   
-Il numero degli iscritti alla scuola, complessivo per tre anni, e' fissato ad un massimo di nove (tre per anno).   
-Non e' concesso alcun abbreviamento di corso.   
-Internato per tre anni in clinica otorinolaringoiatrica.   
-Le materie di insegnamento sono:   
-1° Anno:   
-nozioni di fisica acustica;   
-anatomia dell'orecchio, delle vie e dei centri acustici e vestibolari;   
-fisiologia dell'orecchio, delle vie e dei centri acustici e vestibolari;   
-nozioni di psichiatria.   
-2° Anno:   
-tecniche audiometriche;   
-nozioni di neurologia;   
-nozioni di vestibologia.   
-3° Anno:   
-patologia dell'udito;   
-terapia medica, chirurgica e protesica della sordita';   
-la sordita' sotto il profilo sociale;   
-la rieducazione dell'ipoacusico.   
-Per accedere al secondo ed al terzo anno e' obbligatorio il superamento di tutti gli esami, rispettivamente del primo e del secondo anno. Gli esami possono essere sostenuti solamente in due sessioni annuali, una estiva ed una autunnale.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Gli insegnanti sono proposti dal direttore della scuola e scelti tra i titolari di altre cattedre della facolta' di medicina e chirurgia dell'Universita' di Trieste, tra i liberi docenti in audiologia ed in altre materie.   
-Il diploma di specialista in audiologia viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico e sperimentale.   
-Per quanto riguarda tasse, soprattasse e contributi si precisa quanto segue:   
-  
-
-|  |  |
-| --- | --- |
-| Primo anno | Anni successivi |
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1978
+### Dato a Roma, addi' 16 ottobre 1973
 
-PERTINI PEDINI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 23 aprile 1979
+Registrato alla Corte dei conti, addi' 27 dicembre 1973
 
-Registro n. 27 Istruzione, foglio n. 34
+Atti di Governo, registro n. 263, foglio n. 36. - CARUSO

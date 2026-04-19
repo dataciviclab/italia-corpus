@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1970 n. 828
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1971 n. 609
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1970 n. 828
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1971 n. 609
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Venezia.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Venezia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Venezia, approvato con [regio decreto 20 aprile 1939, n. 1029](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1029) e modificato con [regio decreto 26 marzo 1942, n. 352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-26;352), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Venezia, approvato con [regio decreto 20 aprile 1939, numero 1029](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1029) e modificato con [regio decreto 26 marzo 1942, n. 352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-26;352), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,7 +20,7 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -32,82 +32,68 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Venezia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 10, relativo alle propedeuticita' di esami del corso di laurea in economia e commercio e' abrogato e sostituito dal seguente: "Per ogni materia biennale lo studente non puo' sostenere l'esame del corso successivo se non ha superato quello del corso precedente.
+Art. 1: all'elenco dei seminari delle facolta' di lingue e letterature straniere sono aggiunti i seguenti:
 
-Lo studente deve inoltre aver superato l'esame di matematica generale per potersi presentare agli esami di matematica finanziaria del primo anno".
+Seminario di letteratura italiana;
 
-Art. 25. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:
+Seminario di letteratura latina;
 
-Grammatica greca e latina;
+Seminario di storia;
 
-Storia della lingua latina;
+Seminario di storia dell'arte;
 
-Papirologia;
+Seminario di letteratura araba;
 
-Filologia classica;
+Seminario di letteratura cinese;
 
-Filologia bizantina;
+Seminario di letteratura giapponese;
 
-Antichita' greco-romane;
+Seminario di letteratura ebraica;
 
-Archeologia cristiana;
+Seminario di letteratura hindi;
 
-Letteratura latina medioevale;
+Seminario di letteratura iranica.
 
-Paleografia e diplomatica;
+Art. 15: all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:
 
-Filologia medioevale e umanistica;
+Storia delle dottrine politiche;
 
-Letteratura umanistica;
+Storia delle tradizioni popolari;
 
-Filologia italiana;
+Storia dell'arte contemporanea.
 
-Filologia dantesca;
+Art. 20: all'elenco degli insegnamenti fondamentali del corso di laurea in lingue e letterature orientali il n. 1) e' modificato nel modo seguente:
 
-Etnologia;
+1) una prima lingua e letteratura orientale (da scegliere fra l'araba, l'ebraica, la cinese, la giapponese o la hindi).
 
-Storia contemporanea;
-
-Linguistica generale;
-
-Dialettologia italiana;
-
-Storia della musica.
-
-Art. 26. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:
-
-Estetica;
-
-Filosofia della scienza;
-
-Storia della filosofia moderna e contemporanea.
+Nello stesso articolo all'elenco degli insegnamenti complementari e' aggiunto quello di "Caucasologia".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 27 settembre 1970
+Dato a Roma, addi' 8 giugno 1971
 
 SARAGAT
 
 MISASI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: COLOMBO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 17 novembre 1970 Atti del Governo, registro n. 238, foglio n. 69. - CARUSO
+alla Corte dei conti, addi' 17 agosto 1971 Atti del Governo, registro n. 243, foglio n. 121. - PASQUALUCCI
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Venezia, approvato con [regio decreto 20 aprile 1939, n. 1029](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1029) e modificato con [regio decreto 26 marzo 1942, n. 352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-26;352), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Venezia, approvato con [regio decreto 20 aprile 1939, numero 1029](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1029) e modificato con [regio decreto 26 marzo 1942, n. 352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-26;352), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -115,44 +101,39 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Venezia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 10, relativo alle propedeuticita' di esami del corso di laurea in economia e commercio e' abrogato e sostituito dal seguente: "Per ogni materia biennale lo studente non puo' sostenere l'esame del corso successivo se non ha superato quello del corso precedente.  
-Lo studente deve inoltre aver superato l'esame di matematica generale per potersi presentare agli esami di matematica finanziaria del primo anno".  
-Art. 25. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
+Art. 1: all'elenco dei seminari delle facolta' di lingue e letterature straniere sono aggiunti i seguenti:  
   
-Grammatica greca e latina;  
-Storia della lingua latina;  
-Papirologia;  
-Filologia classica;  
-Filologia bizantina;  
-Antichita' greco-romane;  
-Archeologia cristiana;  
-Letteratura latina medioevale;  
-Paleografia e diplomatica;  
-Filologia medioevale e umanistica;  
-Letteratura umanistica;  
-Filologia italiana;  
-Filologia dantesca;  
-Etnologia;  
-Storia contemporanea;  
-Linguistica generale;  
-Dialettologia italiana;  
-Storia della musica.  
-Art. 26. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:  
+Seminario di letteratura italiana;  
+Seminario di letteratura latina;  
+Seminario di storia;  
+Seminario di storia dell'arte;  
+Seminario di letteratura araba;  
+Seminario di letteratura cinese;  
+Seminario di letteratura giapponese;  
+Seminario di letteratura ebraica;  
+Seminario di letteratura hindi;  
+Seminario di letteratura iranica.  
   
-Estetica;  
-Filosofia della scienza;  
-Storia della filosofia moderna e contemporanea.  
+Art. 15: all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:  
+  
+Storia delle dottrine politiche;  
+Storia delle tradizioni popolari;  
+Storia dell'arte contemporanea.  
+  
+Art. 20: all'elenco degli insegnamenti fondamentali del corso di laurea in lingue e letterature orientali il n. 1) e' modificato nel modo seguente:  
+1) una prima lingua e letteratura orientale (da scegliere fra l'araba, l'ebraica, la cinese, la giapponese o la hindi).  
+Nello stesso articolo all'elenco degli insegnamenti complementari e' aggiunto quello di "Caucasologia".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 settembre 1970
+### Dato a Roma, addi' 8 giugno 1971
 
 SARAGAT MISASI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 17 novembre 1970
+Registrato alla Corte dei conti, addi' 17 agosto 1971
 
-Atti del Governo, registro n. 238, foglio n. 69. - CARUSO
+Atti del Governo, registro n. 243, foglio n. 121. - PASQUALUCCI

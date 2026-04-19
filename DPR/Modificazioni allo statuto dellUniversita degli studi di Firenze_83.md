@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 febbraio 1983 n. 99
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 768
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 febbraio 1983 n. 99
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 768
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Firenze approvato con [regio decreto 13 ottobre 1927, numero 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e modificato con [regio decreto 30 ottobre 1930, n. 1820](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1820), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,76 +20,258 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata [legge n. 615/1981](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;615);
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Veduti i pareri espressi al riguardo dal Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 19. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto il seguente:
+
+Storia e sistemi delle relazioni fra Stato e Chiesa nell'eta' moderna.
+
+Art. 57. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:
+
+Corso di laurea in materie letterarie
+
+1) Etnomusicologia;
+
+2) Storia della musica;
+
+3) Archivistica;
+
+4) Biblioteconomia e bibliografia;
+
+5) Archeologia medioevale;
+
+6) Istituzioni dei paesi di lingua inglese;
+
+7) Storia delle dottrine politiche;
+
+8) Dialettologia ispano-americana;
+
+9) Filosofia del linguaggio;
+
+10) Psicologia del linguaggio;
+
+11) Fonetica generale e sperimentale;
+
+12) Linguistica strutturale;
+
+13) Lingua e letteratura catalana;
+
+14) Geografia umana;
+
+15) Geografia regionale;
+
+16) Geografia politica ed economica;
+
+17) Storia dell'arte greca e romana;
+
+18) Storia del movimento sindacale;
+
+19) Storia della linguistica;
+
+20) Semantica e lessicologia;
+
+21) Filologia slava;
+
+22) Lingua e letteratura giapponese.
+
+Art. 58. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:
+
+Corso di laurea in pedagogia
+
+1) Etnomusicologia;
+
+2) Metodologia dell'insegnamento della lingua inglese;
+
+3) Metodologia dell'insegnamento della lingua spagnola;
+
+4) Didattica dell'insegnamento delle lingue moderne;
+
+5) Psicologia del linguaggio;
+
+6) Storia della filosofia moderna e contemporanea;
+
+7) Teoria e tecnica delle comunicazioni di massa;
+
+8) Psicologia dell'apprendimento;
+
+9) Storia della scuola e delle istituzioni scolastiche;
+
+10) Psicodiagnostica;
+
+11) Psicologia sperimentale;
+
+12) Pedagogia comparata;
+
+13) Ortopedagogia;
+
+14) Letteratura per l'infanzia;
+
+15) Pedagogia sperimentale.
+
+Art. 59. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:
+
+Corso di laurea in lingue e letterature straniere
+
+1) Metodologia dell'insegnamento della lingua inglese;
+
+2) Metodologia dell'insegnamento della lingua spagnola;
+
+3) Filologia inglese;
+
+4) Istituzioni dei paesi di lingua inglese;
+
+5) Dialettologia ispano-americana;
+
+6) Filosofia del linguaggio;
+
+7) Didattica dell'insegnamento delle lingue moderne;
+
+8) Psicologia del linguaggio;
+
+9) Fonetica generale e sperimentale;
+
+10) Linguistica strutturale;
+
+11) Lingua e letteratura catalana;
+
+12) Storia della linguistica;
+
+13) Semantica e lessicologia;
+
+14) Filologia slava;
+
+15) Lingua e letteratura giapponese.
+
+Art. 65, relativo all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' modificato nel senso che l'insegnamento di "Biochimica clinica" muta la denominazione in quella di "Biochimica applicata".
+
+Art. 78. - All'elenco degli insegnamenti complementari del corso di laurea in matematica e' aggiunto il seguente:
+
+Strutture algebriche.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 2 ottobre 1972
+
+LEONE
+
+SCALFARO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 5 dicembre 1972 Atti del Governo, registro n. 253, foglio n. 108. - CARUSO
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Art. 9 - nell'elenco degli insegnamenti complementari, relativo al corso di laurea in giurisprudenza, e' incluso il seguente nuovo insegnamento:  
-diritto di famiglia.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Firenze approvato con [regio decreto 13 ottobre 1927, numero 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e modificato con [regio decreto 30 ottobre 1930, n. 1820](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1820), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Art. 49 - nell'elenco degli insegnamenti complementari, relativo al corso di laurea in lettere, sono inclusi i seguenti nuovi insegnamenti:  
-critica del testo;  
-storia del teatro e della drammaturgia antica;  
-storia dell'archeologia classica;  
-storia delle origini cristiane;  
-letteratura umanistica;  
-letteratura teatrale italiana;  
-lingua e letteratura etiopica;  
-storia della storiografia greca;  
-filologia latina.  
-
-Art. 3
-------
-
+Decreta:  
   
-Art. 50 - nell'elenco degli insegnamenti complementari, relativo al corso di laurea in filosofia, sono inclusi i seguenti nuovi insegnamenti:  
-istituzioni di filosofia;  
-storia della filosofia morale.  
-
-Art. 4
-------
-
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 65 - nell'elenco degli insegnamenti complementari, relativo al corso di laurea in medicina e chirurgia, sono inclusi i seguenti nuovi insegnamenti:  
-angiologia;  
-psicoterapia.  
-
-Art. 5
-------
-
+Art. 19. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto il seguente:  
+Storia e sistemi delle relazioni fra Stato e Chiesa nell'eta' moderna.  
+Art. 57. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:  
   
-Art. 106 - nell'elenco generale degli insegnamenti complementari a scelta dello studente, relativo ai vari corsi di laurea della facolta' di ingegneria, e' incluso il seguente nuovo insegnamento:  
-complementi di geotecnica.  
+Corso di laurea in materie letterarie  
+  
+1) Etnomusicologia;  
+2) Storia della musica;  
+3) Archivistica;  
+4) Biblioteconomia e bibliografia;  
+5) Archeologia medioevale;  
+6) Istituzioni dei paesi di lingua inglese;  
+7) Storia delle dottrine politiche;  
+8) Dialettologia ispano-americana;  
+9) Filosofia del linguaggio;  
+10) Psicologia del linguaggio;  
+11) Fonetica generale e sperimentale;  
+12) Linguistica strutturale;  
+13) Lingua e letteratura catalana;  
+14) Geografia umana;  
+15) Geografia regionale;  
+16) Geografia politica ed economica;  
+17) Storia dell'arte greca e romana;  
+18) Storia del movimento sindacale;  
+19) Storia della linguistica;  
+20) Semantica e lessicologia;  
+21) Filologia slava;  
+22) Lingua e letteratura giapponese.  
+Art. 58. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:  
+  
+Corso di laurea in pedagogia  
+  
+1) Etnomusicologia;  
+2) Metodologia dell'insegnamento della lingua inglese;  
+3) Metodologia dell'insegnamento della lingua spagnola;  
+4) Didattica dell'insegnamento delle lingue moderne;  
+5) Psicologia del linguaggio;  
+6) Storia della filosofia moderna e contemporanea;  
+7) Teoria e tecnica delle comunicazioni di massa;  
+8) Psicologia dell'apprendimento;  
+9) Storia della scuola e delle istituzioni scolastiche;  
+10) Psicodiagnostica;  
+11) Psicologia sperimentale;  
+12) Pedagogia comparata;  
+13) Ortopedagogia;  
+14) Letteratura per l'infanzia;  
+15) Pedagogia sperimentale.  
+Art. 59. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:  
+  
+Corso di laurea in lingue e letterature straniere  
+  
+1) Metodologia dell'insegnamento della lingua inglese;  
+2) Metodologia dell'insegnamento della lingua spagnola;  
+3) Filologia inglese;  
+4) Istituzioni dei paesi di lingua inglese;  
+5) Dialettologia ispano-americana;  
+6) Filosofia del linguaggio;  
+7) Didattica dell'insegnamento delle lingue moderne;  
+8) Psicologia del linguaggio;  
+9) Fonetica generale e sperimentale;  
+10) Linguistica strutturale;  
+11) Lingua e letteratura catalana;  
+12) Storia della linguistica;  
+13) Semantica e lessicologia;  
+14) Filologia slava;  
+15) Lingua e letteratura giapponese.  
+Art. 65, relativo all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' modificato nel senso che l'insegnamento di "Biochimica clinica" muta la denominazione in quella di "Biochimica applicata".  
+Art. 78. - All'elenco degli insegnamenti complementari del corso di laurea in matematica e' aggiunto il seguente:  
+Strutture algebriche.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 febbraio 1983
+### Dato a Roma, addi' 2 ottobre 1972
 
-PERTINI FALCUCCI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 26 marzo 1983
+Registrato alla Corte dei conti, addi' 5 dicembre 1972
 
-Registro n. 22 Istruzione, foglio n. 330
+Atti del Governo, registro n. 253, foglio n. 108. - CARUSO

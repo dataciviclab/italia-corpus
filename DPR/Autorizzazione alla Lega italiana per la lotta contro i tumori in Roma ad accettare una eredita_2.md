@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 555
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1982 n. 787
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 555
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1982 n. 787
+============================================================
 
 Autorizzazione alla Lega italiana per la lotta contro i tumori, in Roma, ad accettare una eredita'.
 ---------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-555. Decreto del Presidente della Repubblica 19 luglio 1986, col quale, sulla proposta del Ministro della sanita', la Lega italiana per la lotta contro i tumori, in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita' consistente in titolo di Stato del valore nominale di L. 10.000.000 da devolvere in favore della sezione provinciale della Lega di Milano, per il perseguimento dei suoi fini istituzionali, disposta dalla signora Giovannina Della Volta con testamento olografo 11 maggio 1978, pubblicato in data 30 novembre 1978, n. 129447 di repertorio, a rogito dott. Domenico Moretti, notaio in Milano, registrato a Milano in data 6 dicembre 1978 al n. 17445.   
+787. Decreto del Presidente della Repubblica 9 marzo 1982, col quale, sulla proposta del Ministro della sanita', la Lega italiana per la lotta contro i tumori, in Roma, viene autorizzata ad accettare l'eredita' disposta dalla sig.ra Noemi Lupia con testamento olografo 3 ottobre 1971, pubblicato in data 17 febbraio 1978, n. 721/121 di repertorio, a rogito dott.ssa Assunta De Angelis, notaio in Roma, registrato a Roma, in data 3 marzo 1978 al n. 2244.  
   
-Visto, il Guardasigilli: ROGNONI   
-Registrato alla Corte dei conti, addi' 10 settembre 1986   
-Registro n. 9 Sanita', foglio n. 100
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 20 ottobre 1982  
+Registro n. 6 Sanita', foglio n. 341

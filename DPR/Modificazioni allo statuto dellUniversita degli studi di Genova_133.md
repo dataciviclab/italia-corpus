@@ -1,101 +1,168 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1964 n. 133
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1982 n. 1024
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1964 n. 133
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1982 n. 1024
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 45. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di:  
-24) Psichiatria.  
-Dopo l'art. 235 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Neurochirurgia.  
-  
-Scuola di specializzazione in Neurochirurgia  
-  
-Art. 236. - La Scuola di specializzazione in Neurochirurgia ha sede presso la Clinica neurochirurgica. Il corso degli studi della predetta Scuola ha la durata di quattro anni.  
-Potra' esservi annesso un numero massimo di sei allievi.  
-Art. 237. - Gli insegnamenti che vengono impartiti nella Scuola sono i seguenti:  
-Annuali:  
-Anatomia del sistema nervoso centrale e periferico 1° anno);  
-Elettroencefalografia (2° anno);  
-Fisiologia del sistema nervoso (1° anno)  
-Fondamenti di Anestesiologia (3° anno)  
-Fondamenti di Chirurgia generale (1° anno)  
-Fondamenti di clinica psichiatrica (1°anno)  
-Neuroftalmologia (2° anno)  
-Otoneurologia (2° anno)  
-Semeiotica e clinica neurologica (1° anno).  
-Biennali:  
-Neuroradiologia (tecnica delle indagini e semeiotica) (2° e 3° anno)  
-Tecnica operatoria (3° e 4° anno).  
-Triennali:  
-Clinica neurochirurgica (2°, 3° e 4° anno).  
-I detti insegnamenti saranno integrati da esercitazioni cliniche e di laboratorio.  
-Art. 238. - Gli insegnamenti della Scuola si svolgono secondo l'ordine seguente:  
-1° anno:  
-1) Anatomia, del sistema nervoso centrale e periferico;  
-2) Fisiologia del sistema nervoso;  
-3) Semeiotica clinica neurologica;  
-4) Fondamenti di clinica pediatrica;  
-5) Fondamenti di chirurgia generale.  
-Alla fine dell'anno gli specializzandi saranno interrogati sulle materie 1), 2), 3), 4), 5).  
-2° anno:  
-1) Neuroradiologia (tecnica delle indagini e semeiotica);  
-2) Otoneurologia;  
-3) Neuroftalmologia;  
-4) Elettroencefalografia;  
-5) Clinica neurochirurgica.  
-Alla fine dell'anno gli specializzandi verranno interrogati sulle materie 2), 3), 4).  
-3° anno:  
-1) Anatomia patologica del sistema nervoso;  
-2) Neuroradiologia (tecnica delle indagini e semeiotica)  
-3) Fondamenti di anestesiologia;  
-4) Clinica neurochirurgica;  
-5) Tecnica operatoria.  
-Alla fine dell'anno interrogazione sulle materie 1), 2), 3).  
-4° anno:  
-1) Clinica neurochirurgica;  
-2) Tecnica operatoria.  
-Alla fine dell'anno interrogazione sulle materie 1), 2).  
-Art. 239. - Gli allievi sono tenuti a frequentare assiduamente le lezioni ed i laboratori della Clinica neurochirurgica secondo l'orario stabilito dal Consiglio di Facolta' al principio dell'anno accademico, ed a partecipare attivamente alle esercitazioni cliniche e di laboratorio.  
-Il direttore della Scuola potra' prescrivere che gli allievi frequentino per determinati periodi di lezioni e le esercitazioni di laboratorio in altri istituti della Universita'.  
-Gli allievi sono tenuti pure a compiere a turno il servizio d'internato nella clinica, della durata complessiva di mesi sei per ogni anno della Scuola.  
-L'allievo che non abbia soddisfatto gli obblighi imposti da questo articolo non sara' ammesso a sostenere gli esami.  
-Art. 240. - Il direttore e gli insegnanti della Scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi con interrogazioni e vigilando sulle loro esercitazioni pratiche e sui loro turni di servizio interno.  
-Art. 241. - Le norme per l'iscrizione, per gli esami, per le tasse, ecc. sono quelle generali per le Scuole di specializzazione e di perfezionamento riferite negli articoli da 91 a 107 dello statuto dell'Universita' degli studi di Genova.  
-Art. 242. - Alla fine del corso gli allievi sono tenuti a superare l'esame finale di diploma. Questo consistera' nella presentazione e discussione di una tesi scritta su un tema di neurochirurgia preventivamente approvata dal direttore della Scuola.  
-Agli allievi che abbiano ottenuto l'approvazione nello esame finale, verra' rilasciato il diploma che attribuisce la qualifica di specialista in Neurochirurgia, valido a tutti gli effetti di legge.  
+Gli articoli 26, 27, 28, 29, 30, 31, 32, 33 e 34, concernenti l'ordinamento degli studi del corso di laurea in scienze politiche sono soppressi e sostituiti, con il conseguente scorrimento della numerazione degli articoli successivi, con i seguenti articoli:  
+Art. 26. - Il biennio di specializzazione e' organizzato dalla facolta' secondo i seguenti indirizzi:  
+a) politico-amministrativo;  
+b) storico-politico;  
+c) politico-internazionale;  
+d) politico-economico.  
+Art. 27. - Il biennio di specializzazione si svolge in base ai piani di studio predisposti dalla facolta' che stabilisce l'elenco delle materie di insegnamento per ogni indirizzo. Tale elenco non puo' comprendere piu' di quindici insegnamenti annuali.  
+Di questi cinque sono fissati come obbligatori a tutti gli studenti dell'indirizzo, gli altri saranno scelti dallo studente nell'ambito dei restanti insegnamenti del suddetto elenco predisposto dalla facolta' all'inizio di ogni anno accademico.  
+Negli insegnamenti a scelta dello studente possono essere compresi al massimo due insegnamenti impartiti in altri indirizzi della facolta', oppure in altre facolta' dell'Universita' di Genova, purche' questi ultimi siano congeniali all'indirizzo prescelto, secondo il giudizio espresso dal consiglio di facolta'.  
+Gli insegnamenti resi obbligatori dalla facolta' per un indirizzo possono essere compresi nell'elenco a scelta per un altro indirizzo.  
+Art. 28. - Durante i quattro anni, lo studente deve frequentare e sostenere gli esami in almeno due lingue, che puo' adottare, una nel biennio propedeutico e l'altra in quello di specializzazione.  
+Una delle due lingue deve essere il francese o l'inglese o il tedesco.  
+Per la seconda lingua e' consentita la scelta tra quelle effettivamente insegnate nelle altre facolta' dell'Ateneo.  
+Tale lingua non verra' computata nei due insegnamenti che, a norma dell'art. 27, comma terzo, del presente statuto, possono essere scelti fra gli insegnamenti di altre facolta' dell'Universita' di Genova.  
+Art. 29. - L'indirizzo politico-amministrativo comprende i seguenti insegnamenti obbligatori:  
+1) istituzioni di diritto privato;  
+2) diritto amministrativo (biennale);  
+3) dottrina dello Stato;  
+4) politica economica e finanziaria.  
+Art. 30. - L'indirizzo storico-politico comprende i seguenti insegnamenti obbligatori:  
+1) storia moderna II;  
+2) storia delle relazioni internazionali;  
+3) storia economica;  
+4) storia delle istituzioni politiche;  
+5) diritto internazionale pubblico.  
+Art. 31. - L'indirizzo politico-internazionale comprende i seguenti insegnamenti obbligatori:  
+1) diritto internazionale pubblico;  
+2) storia delle relazioni internazionali;  
+3) organizzazione internazionale;  
+4) politica economica e finanziaria;  
+5) diritto pubblico comparato.  
+Art. 32. - L'indirizzo politico-economico comprende i seguenti insegnamenti obbligatori:  
+1) politica economica e finanziaria;  
+2) scienza delle finanze;  
+3) geografia politica ed economica;  
+4) economia internazionale;  
+5) storia delle dottrine economiche.  
+Art. 33. - La facolta' per predisporre anno per anno il piano degli studi, comprendente al massimo altri dieci insegnamenti per ogni indirizzo, attingera' al seguente elenco:  
+1) contabilita' di Stato e degli enti pubblici;  
+2) diritto del lavoro e legislazione sociale;  
+3) diritto delle imprese e delle societa' commerciali;  
+4) diritto e politica delle Comunita' europee;  
+5) diritto internazionale privato;  
+6) diritto parlamentare;  
+7) diritto pubblico dell'economia;  
+8) diritto pubblico romano;  
+9) diritto regionale;  
+10) diritto tributario;  
+11) diritto diplomatico e consolare;  
+12) economia aziendale;  
+13) economia e politica monetaria (semestrale);  
+14) economia regionale (semestrale);  
+15) economia dei trasporti marittimi;  
+16) elementi di diritto ecclesiastico;  
+17) filosofia del diritto;  
+18) geografia regionale;  
+19) istituzioni di diritto e procedura penale;  
+20) istituzioni politiche comparate;  
+21) programmazione economica (semestrale);  
+22) scienza dell'amministrazione;  
+23) sociologia dell'organizzazione;  
+24) sociologia politica;  
+25) storia antica;  
+26) storia della filosofia;  
+27) storia della pubblica amministrazione;  
+28) storia dell'Asia estremo-orientale;  
+29) storia delle Americhe;  
+30) storia delle istituzioni militari nello Stato moderno;  
+31) storia dell'Europa orientale;  
+32) storia del pensiero sociologico;  
+33) storia dei movimenti e partiti politici;  
+34) storia dei movimenti sindacali;  
+35) storia ed istituzioni dell'Europa orientale;  
+36) storia ed istituzioni dei Paesi afro-asiatici;  
+37) storia e sistemi delle relazioni tra Stato e Chiesa nell'eta' moderna;  
+38) storia medioevale;  
+39) storia moderna e contemporanea della Chiesa e delle altre confessioni cristiane;  
+40) teoria e politica dello sviluppo (semestrale).  
+Art. 34. - Alcuni insegnamenti possono essere mutuati da quelli impartiti in altre facolta' dell'Universita' di Genova.  
+Art. 35. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato i relativi esami per almeno venti materie oltre alle due lingue straniere.  
+I corsi biennali di una stessa materia equivalgono, ai fini del numero dei corsi sopra stabiliti, a due materie annuali.  
+Qualora il piano di studi istituisca corsi semestrali, due corsi semestrali equivalgono ad uno annuale. Possibilmente i corsi semestrali verranno istituiti a coppie.  
+Art. 36. - La propedeuticita' degli esami di profitto e' stabilita come segue:  
+Istituzioni di diritto pubblico e' propedeutico a:  
+diritto amministrativo;  
+diritto costituzionale italiano e comparato;  
+diritto e politica delle Comunita' europee;  
+diritto internazionale pubblico;  
+diritto parlamentare;  
+diritto pubblico comparato;  
+diritto regionale;  
+diritto tributario;  
+dottrina dello Stato;  
+elementi di diritto ecclesiastico;  
+diritto diplomatico e consolare;  
+diritto pubblico dell'economia.  
+Storia contemporanea e' propedeutica a:  
+storia della pubblica amministrazione;  
+storia delle istituzioni militari nello Stato moderno;  
+storia dei movimenti e partiti politici;  
+storia dei movimenti sindacali.  
+Economia politica e' propedeutica a:  
+economia internazionale;  
+economia dei trasporti;  
+politica economica e finanziaria;  
+scienza delle finanze.  
+Istituzioni di diritto privato e' propedeutico a:  
+diritto amministrativo;  
+diritto internazionale privato;  
+diritto del lavoro e legislazione sociale.  
+Diritto internazionale pubblico e' propedeutico a:  
+organizzazione internazionale.  
+Gli esami indicati come successivi possono essere sostenuti nella stessa sessione in cui sono superati gli esami propedeutici.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 febbraio 1964
+### Dato a Roma, addi' 25 ottobre 1982
 
-SEGNI GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 21 marzo 1961
+Registrato alla Corte dei conti, addi' 10 gennaio 1983
 
-Atti del Governo, registro n. 182, foglio n. 54. - VILLA
+Registro n. 1 Istruzione, foglio n. 25

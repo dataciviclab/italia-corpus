@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1969 n. 954
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1970 n. 658
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1969 n. 954
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1970 n. 658
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
@@ -10,13 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Pavia approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229) e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
@@ -30,96 +32,103 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli da 122 a 128 relativi alla scuola di specializzazione in idrologia, crenologia e climatoterapia che muta denominazione in quella di idroclimatologia medica e clinica termale, sono abrogati e sostituiti dai seguenti:
+Art. 15. - All'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di "Diritto civile dei Paesi socialisti".
 
-Scuola di specializzazione in idroclimatologia medica e clinica termale
+Art. 29. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio e' aggiunto quello di "Storia della popolazione".
 
-Art. 122. - La scuola mira a creare una categoria di medici altamente qualificati e competenti nel campo della idrologia e climatologia medica, compresa la talassologia, i quali possono esercitare un'attivita' specifica in particolare nelle stazioni termali e climatiche.
+Art. 30, relativo alle norme sulla propedeuticita' degli esami per il predetto corso di laurea e' modificato nel senso che sono aggiunti i seguenti commi:
 
-La durata del corso di studi e' di tre anni.
+L'esame di matematica generale e' propedeutico rispetto all'esame di matematica finanziaria (biennale).
 
-Alla scuola sono ammessi i laureati in medicina e chirurgia.
+L'esame di economia politica II e' propedeutico rispetto ai seguenti esami: scienza delle finanze e diritto finanziario, politica economica e finanziaria, economia e politica agraria.
 
-Il numero totale massimo degli iscritti per i tre anni di corso e' di venticinque, in relazione alle attrezzature dei laboratori ed al personale assistente e tecnico degli istituti dove si svolgono gli insegnamenti.
+Art. 37. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia e' aggiunto quello di "Storia della filosofia moderna e contemporanea".
 
-L'insegnamento e le esercitazioni per gli specializzandi degli ultimi due anni si svolgono nei seguenti istituti: clinica medica, patologia medica, medicina del lavoro, clinica dermosifilopatica, clinica ortopedica, clinica otorinolaringoiatrica, clinica pediatrica, clinica ostetrica e ginecologia, clinica chirurgica. Tali cliniche mettono a disposizione quei casi che possono interessare sul piano didattico l'insegnamento della idroclimatologia e clinica termale.
+Art. 47. - All'elenco degli insegnamenti complementari del corso di laurea in chimica sono aggiunti i seguenti:
 
-Art. 123. - Gli insegnamenti impartiti nella scuola sono i seguenti:
+Per l'indirizzo organico biologico:
 
-1° Anno:
+Chimica dei composti elemento-organici;
 
-1) Geologia idrologica, geofisica, metereologia e climatologia generale;
+Chimica delle sostanze coloranti;
 
-2) Chimica chimico-fisica idroclimatologica;
+Stereochimica;
 
-3) Effetti biologici e meccanismo d'azione dei fattori idroclimatologici;
+Fotochimica;
 
-4) Ecologia medica. Geografia idroclimatologica;
+Chimica organica applicata;
 
-5) Cure idroclimatologiche e terapie fisiche nelle malattie reumatiche.
+Merceologia (chimica merceologica);
 
-2° Anno:
+Spettroscopia molecolare;
 
-1) Cure idroclimatologiche nelle malattie dell'apparato respiratorio;
+Chimica fisica organica;
 
-2) Cure idroclimatologiche nelle malattie dell'apparato cardiovascolare;
+Cromatografia analitica e preparativa;
 
-3) Cure idroclimatologiche nelle malattie del fegato e del tubo digerente;
+Scienza dei materiali;
 
-4) Cure idroclimatologiche in otorinolaringoiatria (complementare);
+Elettrochimica organica con esercitazioni;
 
-5) Cure idroclimatologiche in dermatologia (complementare).
+Cinetica chimica;
 
-3° Anno:
+Chimica delle radiazioni.
 
-1) Cure idroclimatologiche nelle malattie delle vie urinarie;
+Per l'indirizzo inorganico chimico-fisico:
 
-2) Cure idroclimatologiche nelle malattie del ricambio e malattie endocrine;
+Chimica fisica delle interfasi;
 
-3) Cure idroclimatologiche in ginecologia (complementare);
+Chimica fisica dello stato solido;
 
-4) Organizzazione termale e legislazione in campo idroclimatologico;
+Chimica fisica tecnica;
 
-5) Tecniche per l'applicazione delle cure idroclimatologiche.
+Chimica quantistica;
 
-Art. 124. - Le lezioni del 1° e 2° anno sono corredate da esercitazioni di carattere sperimentale e clinico; potranno essere effettuate visite di istruzione alle stazioni termali.
+Merceologia (chimica merceologica);
 
-Art. 125. - Gli specializzandi hanno l'obbligo di frequentare come interni durante il triennio gli istituti dove ha sede la scuola di idroclimatologia. La frequenza alle lezioni ed alle esercitazioni nonche' l'internato sono obbligatori.
+Chimica statistica;
 
-Art. 126. - Al termine di ogni anno verra' sostenuto un esame teorico-pratico sugli insegnamenti impartiti.
+Spettroscopia molecolare;
 
-La commissione, costituita da tre membri, esprime il giudizio con una votazione in trentesimi.
+Tecnologie elettrochimiche;
 
-Art. 127. - Al termine dei tre anni verra' presentata una tesi di specializzazione compilativa o sperimentale che verra' giudicata da una commissione di cinque membri.
+Chimica inorganica superiore;
 
-La votazione e' espressa in cinquantesimi.
+Chimica delle radiazioni;
 
-Art. 128. - L'esito favorevole degli esami e' provato da un diploma che da' diritto al titolo professionale di "Specialista in idroclimatologia medica e clinica termale".
+Scienza dei materiali;
+
+Fotochimica;
+
+Chimica delle sostanze coloranti;
+
+Chimica inorganica applicata.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 23 ottobre 1969
+Dato a Roma, addi' 14 luglio 1970
 
 SARAGAT
 
-FERRARI AGGRADI
+MISASI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 17 dicembre 1969 Atti del Governo, registro n. 230, foglio n. 151. - CARUSO
+alla Corte dei conti, addi' 7 settembre 1970 Atti del Governo, registro n. 237, foglio n. 77. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pavia approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229) e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -128,51 +137,57 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli da 122 a 128 relativi alla scuola di specializzazione in idrologia, crenologia e climatoterapia che muta denominazione in quella di idroclimatologia medica e clinica termale, sono abrogati e sostituiti dai seguenti:  
   
-Scuola di specializzazione in idroclimatologia medica e clinica termale  
-Art. 122. - La scuola mira a creare una categoria di medici altamente qualificati e competenti nel campo della idrologia e climatologia medica, compresa la talassologia, i quali possono esercitare un'attivita' specifica in particolare nelle stazioni termali e climatiche.  
-La durata del corso di studi e' di tre anni.  
-Alla scuola sono ammessi i laureati in medicina e chirurgia.  
-Il numero totale massimo degli iscritti per i tre anni di corso e' di venticinque, in relazione alle attrezzature dei laboratori ed al personale assistente e tecnico degli istituti dove si svolgono gli insegnamenti.  
-L'insegnamento e le esercitazioni per gli specializzandi degli ultimi due anni si svolgono nei seguenti istituti: clinica medica, patologia medica, medicina del lavoro, clinica dermosifilopatica, clinica ortopedica, clinica otorinolaringoiatrica, clinica pediatrica, clinica ostetrica e ginecologia, clinica chirurgica. Tali cliniche mettono a disposizione quei casi che possono interessare sul piano didattico l'insegnamento della idroclimatologia e clinica termale.  
-Art. 123. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
-1° Anno:  
-1) Geologia idrologica, geofisica, metereologia e climatologia generale;  
-2) Chimica chimico-fisica idroclimatologica;  
-3) Effetti biologici e meccanismo d'azione dei fattori idroclimatologici;  
-4) Ecologia medica. Geografia idroclimatologica;  
-5) Cure idroclimatologiche e terapie fisiche nelle malattie reumatiche.  
-2° Anno:  
-1) Cure idroclimatologiche nelle malattie dell'apparato respiratorio;  
-2) Cure idroclimatologiche nelle malattie dell'apparato cardiovascolare;  
-3) Cure idroclimatologiche nelle malattie del fegato e del tubo digerente;  
-4) Cure idroclimatologiche in otorinolaringoiatria (complementare);  
-5) Cure idroclimatologiche in dermatologia (complementare).  
-3° Anno:  
-1) Cure idroclimatologiche nelle malattie delle vie urinarie;  
-2) Cure idroclimatologiche nelle malattie del ricambio e malattie endocrine;  
-3) Cure idroclimatologiche in ginecologia (complementare);  
-4) Organizzazione termale e legislazione in campo idroclimatologico;  
-5) Tecniche per l'applicazione delle cure idroclimatologiche.  
-Art. 124. - Le lezioni del 1° e 2° anno sono corredate da esercitazioni di carattere sperimentale e clinico; potranno essere effettuate visite di istruzione alle stazioni termali.  
-Art. 125. - Gli specializzandi hanno l'obbligo di frequentare come interni durante il triennio gli istituti dove ha sede la scuola di idroclimatologia. La frequenza alle lezioni ed alle esercitazioni nonche' l'internato sono obbligatori.  
-Art. 126. - Al termine di ogni anno verra' sostenuto un esame teorico-pratico sugli insegnamenti impartiti.  
-La commissione, costituita da tre membri, esprime il giudizio con una votazione in trentesimi.  
-Art. 127. - Al termine dei tre anni verra' presentata una tesi di specializzazione compilativa o sperimentale che verra' giudicata da una commissione di cinque membri.  
-La votazione e' espressa in cinquantesimi.  
-Art. 128. - L'esito favorevole degli esami e' provato da un diploma che da' diritto al titolo professionale di "Specialista in idroclimatologia medica e clinica termale".  
+Art. 15. - All'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di "Diritto civile dei Paesi socialisti".  
+Art. 29. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio e' aggiunto quello di "Storia della popolazione".  
+Art. 30, relativo alle norme sulla propedeuticita' degli esami per il predetto corso di laurea e' modificato nel senso che sono aggiunti i seguenti commi:  
+  
+L'esame di matematica generale e' propedeutico rispetto all'esame di matematica finanziaria (biennale).  
+L'esame di economia politica II e' propedeutico rispetto ai seguenti esami: scienza delle finanze e diritto finanziario, politica economica e finanziaria, economia e politica agraria.  
+  
+Art. 37. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia e' aggiunto quello di "Storia della filosofia moderna e contemporanea".  
+Art. 47. - All'elenco degli insegnamenti complementari del corso di laurea in chimica sono aggiunti i seguenti:  
+  
+Per l'indirizzo organico biologico:  
+Chimica dei composti elemento-organici;  
+Chimica delle sostanze coloranti;  
+Stereochimica;  
+Fotochimica;  
+Chimica organica applicata;  
+Merceologia (chimica merceologica);  
+Spettroscopia molecolare;  
+Chimica fisica organica;  
+Cromatografia analitica e preparativa;  
+Scienza dei materiali;  
+Elettrochimica organica con esercitazioni;  
+Cinetica chimica;  
+Chimica delle radiazioni.  
+Per l'indirizzo inorganico chimico-fisico:  
+Chimica fisica delle interfasi;  
+Chimica fisica dello stato solido;  
+Chimica fisica tecnica;  
+Chimica quantistica;  
+Merceologia (chimica merceologica);  
+Chimica statistica;  
+Spettroscopia molecolare;  
+Tecnologie elettrochimiche;  
+Chimica inorganica superiore;  
+Chimica delle radiazioni;  
+Scienza dei materiali;  
+Fotochimica;  
+Chimica delle sostanze coloranti;  
+Chimica inorganica applicata.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 ottobre 1969
+### Dato a Roma, addi' 14 luglio 1970
 
-SARAGAT FERRARI AGGRADI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 17 dicembre 1969
+Registrato alla Corte dei conti, addi' 7 settembre 1970
 
-Atti del Governo, registro n. 230, foglio n. 151. - CARUSO
+Atti del Governo, registro n. 237, foglio n. 77. - CARUSO

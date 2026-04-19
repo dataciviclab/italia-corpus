@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1974 n. 410
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 febbraio 1979 n. 119
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1974 n. 410
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 febbraio 1979 n. 119
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-410. Decreto del Presidente della Repubblica 18 giugno 1974, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di lire 2.000.000, disposto dalla sig.ra Rosa Casagrande, con testamento olografo in data 12 marzo 1970, pubblicato con verbale 13 maggio 1972, repertorio n. 60755/ 15242, a rogito del dott. Carlo Gallizia, notaio in Milano ed ivi registrato il 20 maggio 1972 al n. 09480 atti pubblici.  
+119. Decreto del Presidente della Repubblica 19 febbraio 1979, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Zelmira Bianchi ved. Bottarelli a favore dell'istituto don Gnocchi per i mutilatini, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", con testamento pubblico del 18 giugno 1968 del notaio dott. Antonio Viglino e pubblicato dallo stesso notaio con verbale di registrazione di testamento pubblico del 31 ottobre 1968, n. 11476 di repertorio e n. 2383 di raccolta, registrato ad Arona il 18 novembre 1968, al n. 985, vol. 139, mod. 1, consistente nella somma di L. 500.000.  
   
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 22 agosto 1974  
-Atti di Governo, registro n. 5, foglio n. 16. - SCIARRETTA
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 6 aprile 1979  
+Registro n. 3 Presidenza, foglio n. 60

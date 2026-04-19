@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1973 n. 1135
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 dicembre 1972 n. 1183
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1973 n. 1135
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 dicembre 1972 n. 1183
+================================================================
 
 Variazione dell'aliquota contributiva dovuta alla gestione marittimi della Cassa nazionale per la previdenza marinara per il personale di ruolo delle navi traghetto dipendente dall'Azienda autonoma delle ferrovie dello Stato.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -10,28 +10,28 @@ Variazione dell'aliquota contributiva dovuta alla gestione marittimi della Cassa
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Visto l'[art. 23, terzo comma, della legge 27 luglio 1967, n. 658](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-07-27;658~art23-com3), per effetto del quale le variazioni del contributo complessivamente dovuto alla gestione marittimi della Cassa nazionale per la previdenza marinara per il personale di ruolo delle navi traghetto, dipendente dalla Azienda autonoma delle ferrovie dello Stato, debbono essere disposte nella stessa misura in cui intervengono variazioni sia dell'aliquota contributiva di pertinenza della gestione marittimi sia dei contributi previsti per l'assicurazione generale obbligatoria per l'invalidita', la vecchiaia ed i superstiti e per il relativo fondo di adeguamento;   
-Considerato che, ai sensi dell'[art. 6 della legge 22 febbraio 1973, n. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-02-22;27~art6), l'aliquota contributiva di pertinenza della gestione marittimi e' stata elevata, con decorrenza dal 1 aprile 1973, dal 6 per cento al 7,50 per cento delle retribuzioni imponibili, di cui il 6 per cento a carico dell'armatore e l'1,50 per cento a carico del marittimo;   
-Considerato, altresi', che, per effetto del combinato disposto dell'[art. 23, terzo comma, della legge 27 luglio 1967, n. 658](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-07-27;658~art23-com3) e dell'[art. 6 della legge 22 febbraio 1973, n. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-02-22;27~art6), sopra indicati, si rende necessario procedere alla variazione del contributo complessivamente dovuto alla gestione marittimi per il personale di ruolo delle navi traghetto, gestite dall'Azienda autonoma delle ferrovie dello Stato;   
-Sentito il parere del comitato amministratore della Cassa nazionale per la previdenza marinara, di cui all'art. 6 del testo unico sulla previdenza marinara, approvato con [decreto del Presidente della Repubblica 26 dicembre 1962, n. 2109](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-12-26;2109);   
-Sulla proposta dei Ministri per il lavoro e la previdenza sociale e per la marina mercantile, di concetto con i Ministri per i trasporti e l'aviazioni civile e per il tesoro;   
+Visto l'[art. 23, terzo comma, della legge 27 luglio 1967, n. 658](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-07-27;658~art23-com3), ai sensi del quale le variazioni del contributo dovuto alla gestione marittimi della Cassa nazionale per la previdenza marinara per il personale di ruolo delle navi traghetto, dipendente dall'Azienda autonoma delle ferrovie dello Stato, debbono essere disposte nella stessa misura in cui intervengano variazioni dell'aliquota contributiva prevista dall'art. 7 della legge stessa nonche' di quella relativa ai contributi dovuti all'assicurazione generale obbligatoria ed al fondo adeguamento pensioni, ora fusi nel "Fondo pensioni lavoratori dipendenti";  
+Considerato che, per effetto dell'[art. 8 della legge 6 dicembre 1971, n. 1044](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1044~art8), il contributo dovuto al fondo per l'adeguamento delle pensioni e' stato elevato, a decorrere dal periodo di paga successivo a quello in corso alla data del 31 dicembre 1971, dal 19 per cento al 19,10 per cento delle retribuzioni imponibili, con un aumento dello 0,10 per cento, al fine di far fronte all'onere relativo alla istituzione degli asili nido di cui alla legge citata;  
+Considerato, altresi', che l'aumento suddetto e' stato posto interamente a carico dei datori di lavoro e che, in egual misura, ai sensi del combinato disposto dello [art. 23, terzo comma, della legge 27 luglio 1967, n. 658](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-07-27;658~art23-com3) e dell'[art. 8 della legge 6 dicembre 1971, n. 1044](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1044~art8), deve essere maggiorato il contributo complessivamente dovuto alla Gestione marittimi per il personale di ruolo delle navi traghetto;  
+Sentito il parere del comitato amministratore di cui all'art. 6 del testo unico sulla previdenza marinara, approvato con [decreto del Presidente della Repubblica 26 dicembre 1962, n. 2109](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-12-26;2109);  
+Sulla proposta dei Ministri per il lavoro e la previdenza sociale e per la marina mercantile, di concerto con i Ministri per i trasporti e l'aviazione civile e per il tesoro;  
   
-Decreta:   
+Decreta:  
   
-Con decorrenza dal 1 aprile 1973, il contributo complessivamente dovuto alla gestione marittimi della Cassa nazionale per la previdenza marinara, per il personale di ruolo delle navi traghetto dipendente dall'Azienda autonoma delle ferrovie dello Stato, e' elevato nella misura dell'1,50 per cento delle retribuzioni imponibili, della quale l'1 per cento a carico dell'armatore e lo 0,50 per cento a carico del marittimo.   
+La misura del contributo complessivamente dovuto alla gestione marittimi per il personale di ruolo delle navi traghetto, dipendente dall'Azienda autonoma delle ferrovie dello Stato, e' elevato, con decorrenza dal 1 gennaio 1972, dal 25 per cento al 25,10 per cento, con un aumento dello 0,10 per cento delle retribuzioni imponibili, a totale carico dell'azienda anzidetta.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 ottobre 1973
+### Dato a Roma, addi' 20 dicembre 1972
 
-LEONE BERTOLDI - PIERACCINI - PRETI - LA MALFA
+LEONE COPPO - LUPIS - BOZZI - MALAGODI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 29 luglio 1974
+Registrato alla Corte dei conti, addi' 20 luglio 1973
 
-Atti di Governo, registro n. 4, foglio n. 81. - SCIARRETTA
+Atti di Governo, registro n. 259, foglio n. 26. - VALENTINI

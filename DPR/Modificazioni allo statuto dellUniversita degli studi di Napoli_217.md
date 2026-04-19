@@ -1,79 +1,124 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 agosto 1953 n. 1117
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 850
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 agosto 1953 n. 1117
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 850
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090), e modificato con [regio decreto 13 ottobre 1927, n. 2281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2281), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regi decreti 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;1904); [4 maggio 1942, n. 557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-05-04;557); [5 settembre 1942, n. 1120 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-09-05;1120) [26 febbraio 1949, n. 612](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;612); [23 settembre 1949, n. 931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;931); [30 ottobre 1949, n. 1059](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1059); [5 aprile 1950, n. 284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-04-05;284); [30 ottobre 1950, n. 1277](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1277); [31 ottobre 1950, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1311); [18 aprile 1951, n. 934](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;934); [30 luglio 1951, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-07-30;1304); [27 ottobre 1951, n. 1680](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1680) e [19 settembre 1952, n. 4551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-19;4551);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 25. - Agli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di "Sociologia".  
-All'art. 69 e' aggiunto il seguente comma:  
-"il professore titolare di chimica farmaceutica e' aggregato alla Facolta' di scienze matematiche, fisiche e naturali", All'art. 72. - Corso di laurea in chimica. Dopo il quarto comma sono inseriti i seguenti:  
-"L'esame di laurea consta di due parti: la prima comprende:  
-a) un colloquio inteso ad accertare la cultura generale del candidato nelle varie discipline del corso di studi seguito;  
-b) una prova pratica di analisi qualitativa e una di analisi quantitativa.  
-La seconda consiste:  
-a) nella compilazione di una dissertazione sperimentale o di carattere critico originale su argomento a libera scelta, ma rispondente in modo essenziale ai fini della laurea;  
-b) nella discussione della dissertazione medesima, nonche' di un argomento scelto anch'esso dal candidato, in una materia ugualmente rispondente ai fini della laurea, ma diversa da quella su cui verte la dissertazione presentata.  
-Il colloquio di cui alla lettera a) della prima parte dell'esame di laurea si svolge dinanzi ad una Commissione di tre membri scelti fra i professori ufficiali della Facolta'.  
-Le prove di cui alla lettera b) della stessa parte si svolgono nell'Istituto di chimica generale e sono giudicate da una Commissione composta del titolare, direttore dell'istituto, (di un assistente dello stesso Istituto, nonche' di un altro professore ufficiale della Facolta'".  
-All'art. 75. - Corso di laurea in chimica industriale. Dopo il quinto comma sono inseriti i seguenti:  
-"L'esame di laurea consta di due parti: la prima comprende:  
-a) un colloquio inteso ad accertare la cultura generale del candidato nelle varie discipline del corso di studi seguito;  
-b) una prova pratica di analisi qualitativa e una di analisi quantitativa.  
-La seconda consiste:  
-a) nella compilazione di una dissertazione sperimentale o di carattere critico originale su argomento a libera scelta, ma rispondente in modo essenziale ai fini della laurea;  
-b) nella discussione della dissertazione medesima, nonche' di un argomento scelto anch'esso dal candidato, in una materia ugualmente rispondente ai fini della laurea, ma diversa da quella su cui verte la dissertazione presentata.  
-Il colloquio di cui alla lettera a) della prima parte dell'esame di laurea si svolge dinanzi ad una Commissione di tre membri scelti fra i professori ufficiali della Facolta'.  
-Le prove di cui alla lettera b) della stessa parte si svolgono nell'Istituto di chimica generale e sono giudicate da una Commissione composta del titolare, direttore dell'istituto, di un assistente dello stesso Istituto, nonche' di un altro professore ufficiale della Facolta'".  
-Art. 77. - Agli insegnamenti complementari del corso di laurea in fisica e' aggiunto quello di: "Spettroscopia".  
-Art. 86. - Agli insegnamenti complementari del corso di laurea in matematica e fisica e' aggiunto quello di "Spettroscopia".  
-L'attuale art. 189, relativo alla scuola di perfezionamento in radiologia ed elettroterapia, e' sostituito dal seguente:  
-"La scuola ha la durata di due anni.  
-Le materie d'insegnamento sono:  
-1° anno:  
-1) Fisica delle radiazioni;  
-2) Tecnica radiografica;  
-3) Anatomia radiografica;  
-4) Semeiologia radiologica.  
-2° anno:  
-1) Radiobiologia;  
-2) Rontgendiagnostica:  
-a) cranio ed apparato locomotore;  
-b) apparato respiratorio e cardio-vascolare;  
-c) apparato digerente, e ghiandole annesse;  
-d) apparato uro-genitale;  
-3) Rontgenterapia e curieterapia;  
-4) Fototerapia, elettrodiagnostica ed elettroterapia".  
+Gli articoli da 330 a 337 relativi alla scuola di perfezionamento in diritto e procedura penale che muta denominazione in scuola di specializzazione in diritto e procedura penale sono sostituiti dai seguenti con il conseguente spostamento della numerazione degli articoli successivi.   
+Scuola di specializzazione in diritto e procedura penale   
+Art. 330. - E' istituita presso l'Universita' di Napoli la scuola di specializzazione in diritto e procedura penale. La scuola conferisce il diploma di diritto e procedura penale.   
+Art. 331. - La direzione della scuola ha sede presso l'istituto omonimo di diritto e procedura penale di questa Universita'.   
+Art. 332. - La scuola ha lo scopo di formare specialisti in diritto e procedura penale. In connessione con l'attivita' didattica ed al fine di elevare la professionalita' degli specializzandi, la scuola promuove ricerche scientifiche in diritto e procedura penale, organizza convegni di studio, seminari, conferenze e cura pubblicazioni. Per il conseguimento dei suoi fini istituzionali possono essere stipulate convenzioni con scuole, centri, istituti, dipartimenti, enti privati o pubblici, anche stranieri.   
+Art. 333. - La durata del corso e' di tre anni e non e' suscettibile di abbreviazioni.   
+Art. 334. - Il numero massimo degli iscritti e' di cento per ogni anno, e di trecento per l'intero corso degli studi.   
+Art. 335. - Alla scuola sono ammessi i laureati in giurisprudenza ed in scienze politiche in possesso del diploma di abilitazione all'esercizio professionale, qualora prescritto. Possono essere iscritti alla scuola, inoltre, coloro i quali siano forniti di titoli di studi conseguiti all'estero, equivalenti a quelli indicati nel comma precedente.   
+Art. 336. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che, in attuazione all'[art. 13 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art13), potra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:   
+a) la tesi della disciplina attinente alla specializzazione;   
+b) il voto di laurea;   
+c) il voto riportato negli esami di profitto del corso di laurea delle materie concernenti la specializzazione;   
+d) le pubblicazioni nelle predette materie.   
+Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale del 16 settembre 1982 ed eventuali successive modificazioni.   
+Sono ammessi alla scuola di specializzazione, coloro che, in relazione al numero dei posti disponibili, siano in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato. In caso di rinunzia sono ammessi coloro che seguono nella graduatoria.   
+Art. 337. - Le materie di insegnamento sono tutte afferenti alla facolta' di giurisprudenza, e sono le seguenti:   
+1° Anno:   
+storia del diritto penale;   
+storia della procedura penale;   
+principi costituzionali del diritto e della procedura penale; analisi della parte speciale del diritto penale;   
+diritto e procedura penale comparati;   
+teoria generale del reato (primo corso);   
+teoria generale del processo penale (primo corso).   
+2° Anno:   
+teoria generale del reato (secondo corso);   
+teoria generale del processo penale (secondo corso);   
+casistica del diritto penale;   
+casistica della procedura penale;   
+teoria delle prove penali.   
+3° Anno - cinque insegnamenti scelti fra i seguenti:   
+diritto e procedura penale militare;   
+convenzioni internazionali in materia penale;   
+criminologia;   
+medicina legale applicata al diritto penale;   
+tossicologia forense;   
+diritto e procedura penale minorile;   
+sociologia giuridico-penale;   
+diritto dell'esecuzione penale;   
+procedimenti speciali e complementari;   
+tecnica dell'istruzione penale;   
+diritto penale dell'economia;   
+diritto penale industriale;   
+diritto penale del credito;   
+diritto penale fallimentare;   
+diritto penale dell'impresa;   
+diritto penale finanziario;   
+diritto penale del lavoro;   
+diritto penale dell'ambiente;   
+diritto penale degli alimenti;   
+diritto penale della navigazione.   
+Con l'iscrizione al terzo anno di corso lo studente dovra' indicare i cinque insegnamenti che intende frequentare, scegliendoli tra le materie del terzo anno e che siano regolarmente attivate.   
+Art. 338. - La frequenza dei corsi e' obbligatoria. I corsi di studio della scuola di specializzazione sono corsi ufficiali universitari.   
+All'inizio di ogni anno accademico, il consiglio, in relazione all'attivita' didattica e di formazione professionale da svolgere, fissera' le modalita' di frequenza alla predetta attivita' che possono consistere anche in seminari ed esercitazioni pratiche sia collettive che singole da svolgersi presso la scuola, nonche' la frequenza necessaria per sostenere gli esami che comunque non potra' essere inferiore al 50% delle attivita' collettive del singolo corso.   
+Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, composta a norma di legge, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno in corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.   
+Le borse di studio per la frequenza dei corsi sono sottoposte alla vigente normativa.   
+Art. 339. - Lo svolgimento dell'attivita' didattica terra' conto anche del carattere pratico delle discipline. A tale scopo il consiglio della scuola stabilira', sentiti i docenti interessati, le attivita' che gli specializzandi dovranno svolgere in collaborazione con ordine ed organizzazioni professionali, con l'autorita' giudiziaria, enti locali, con enti pubblici o privati, e con chiunque altro riterra' utile ai fini della formazione professionale.   
+Gli specializzandi, ai fini della loro formazione professionale, e con esperienza applicativa delle attivita' didattiche potranno partecipare a tutte le attivita' della scuola. Il consiglio programma anche seminari di singole discipline e di insegnamenti raggruppati e coordinati. A questi saranno chiamati a collaborare docenti universitari ed esperti che con il loro apporto possano assicurare il piu' alto livello culturale e di preparazione professionale a norma della legislazione vigente.   
+Art. 340. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso. A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista in diritto penale.   
+Art. 341. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione dell'Universita' su indicazione del consiglio della scuola. La scuola e' finanziata da contributi ordinari e straordinari, assegnati come per legge, da lasciti e donazioni che verranno regolarmente imputati nel bilancio dell'Universita'.   
+Art. 342. - Il consiglio della scuola e' presieduto dal direttore ed e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali siano affidate le attivita' didattiche della scuola.   
+Il consiglio individua le esigenze didattiche su cui si deve far fronte mediante contratto e provvede alla relativa proposta, indicando i requisiti scientifici e professionali che debbono possedere i professori da nominare. Il consiglio, oltre a decidere su tutte le attivita' di cui al precedente art. 339, ha le competenze attribuitegli dalla vigente normativa.   
+Al consiglio della scuola partecipano anche rappresentanti degli specializzandi come stabilito dall'[art. 14, comma secondo, del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art14-com2).   
+Art. 343. - La direzione della scuola e' affidata ad un professore ordinario o straordinario o fuori ruolo che insegni nella scuola stessa nominato su proposta de consiglio della scuola. In caso di motivato impedimento la direzione della scuola e' affidata ad un professore associato che pure insegni nella scuola medesima.   
+Il direttore della scuola puo' delegare ad uno o piu' membri del consiglio della scuola, lo svolgimento di attivita' relative ai fini istituzionali della scuola.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 agosto 1953
+### Dato a Roma, addi' 19 luglio 1986
 
-EINAUDI SEGNI
+COSSIGA
 
-Visto, il Guardasigilli: AZARA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 15 marzo 1954
+Visto, il Guardasigilli: ROGNONI
 
-Atti del Governo, registro n. 82, foglio n. 33. - PALLA
+Registrato alla Corte dei conti, addi' 27 novembre 1986
+
+Registro n. 86 Istruzione, foglio n. 136

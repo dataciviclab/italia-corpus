@@ -1,350 +1,492 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 907
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1952 n. 4554
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 907
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1952 n. 4554
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
-
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 20 aprile 1939, n. 1118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1118) e modificato con i [regi decreti 12 gennaio 1941, n 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-01-12;34); [27 aprile 1942, n. 571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;571); [5 settembre 1942, n. 1237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1237); [24 ottobre 1942, n. 1438, con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1438) [4 febbraio 1947, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-04;196) e [7 marzo 1947, n. 1727 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-03-07;1727) [26 febbraio 1949, n. 430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;430); [21 aprile 1949, n. 613](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;613); [1 settembre 1949, n. 816](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-01;816); [13 marzo 1950, n. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;599); [30 ottobre 1950, n. 1125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1125); [31 ottobre 1950, n. 1310](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1310); [30 giugno 1951, n. 1148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-30;1148) e [27 ottobre 1951, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1).794;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Gli articoli 203 e 204, relativi alla scuola di specializzazione in chirurgia, sono soppressi.   
-
-Art. 2
-------
-
+Decreta:  
   
-Gli articoli da 313 a 317, relativi alla scuola di specializzazione in nefrologia, sono soppressi.  
-
-Art. 3
-------
-
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati e' cosi' ulteriormente modificato:  
+L'attuale art. 75 e' sostituito dal seguente:  
+"Le discipline nelle quali si conferiscono diplomi di specialista sono le seguenti:  
+1) Chirurgia generale;  
+2) Anestesia;  
+3) Medicina interna;  
+4) Cardiologia;  
+5) Malattie dell'apparato respiratorio;  
+6) Neuropatologia e psichiatria;  
+7) Dermosifilopatia;  
+8) Ostetricia e ginecologia;  
+9) Pediatria;  
+10) Oculistica;  
+11) Otorinolaringoiatria;  
+12) Igiene;  
+13) Medicina legale;  
+14) Infortunistica e assicurazioni sociali;  
+15) Radiologia;  
+16) Odontoiatria e protesi dentaria;  
+17) Patologia generale;  
+18) Settore laboratorista;  
+19) Urologia;  
+20) Ortopedia e traumatologia".  
+Attuale art. 80. - Nell'ultimo comma dopo le parole "successivo al primo" sono aggiunte le seguenti altre "eccezionalmente al terzo".  
+Attuale art. 81. - Il primo comma e' sostituito dal seguente:  
+"Gli esami di profitto si danno per singole materie o per gruppi di materie, secondo quanto sara' stabilito nel regolamento della scuola".  
+L'attuale art. 82 e' sostituito dal seguente:  
+"Le Commissioni per gli esami di profitto sono composte dal direttore e da due insegnanti della scuola".  
+L'attuale art. 83 e' sostituito dal seguente:  
+"La Commissione per l'esame di diploma e' composta di sette membri ed e' presieduta dal preside della Facolta'. I membri sono nominati dal preside fra gli insegnanti delle materie contemplate dal programmi di studio di ciascuna scuola. Della Commissione deve far parte un libero docente".  
+L'attuale art. 84 e' sostituito dal seguente:  
+"Gli iscritti alle scuole di perfezionamento sono tenuti a pagare le tasse annuali di iscrizione e le tasse e sopratasse di esami nella misura stabilita per gli studenti della Facolta' di medicina e chirurgia e la tassa di diploma in L. 6000 (seimila) e i contributi che saranno stabiliti dal manifesto.  
+Essi sono tenuti inoltre al pagamento dei contributi per i singoli Istituti che frequentano nella misura che sara' indicata in apposita tabella proposta dal Consiglio della facolta'".  
+Gli articoli dell'attuale statuto dal n. 85 al n. 128 sono abrogati e sostituiti dai seguenti.  
   
-Gli articoli da 358 e 370, relativi alla scuola di specializzazione in ortognatodonzia, sono soppressi.  
-
-Art. 4
-------
-
+Chirurgia generale.  
   
+Attuale art. 85. - Per il conseguimento del diploma di specialista in chirurgia generale, si richiedono cinque anni di corso internato.  
+Attuale art. 86. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1) Anatomia topografica;  
+2) Radiologia;  
+3) Anestesia, rianimazione, trattamento pre e post-operatorio;  
+4) Patologia chirurgica generale e speciale;  
+5) Semeiotica generale e chirurgica;  
+6) Anatomia e istologia patologica;  
+7) Diagnostica urologica;  
+8) Ortopedia;  
+9) Tecnica operatoria;  
+10) Chirurgia d'urgenza;  
+11) Clinica chirurgica.  
+L'esame di diploma comprende la presentazione e discussione di una dissertazione su argomento di patologia o di clinica chirurgica.  
   
-Dopo l'art. 441, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi al riordinamento della scuola di specializzazione in chirurgia generale (ex chirurgia), in nefrologia, in medicina fisica e riabilitazione (ex fisioterapia).   
-Scuola di specializzazione in chirurgia generale   
-Art. 442. - E' istituita la scuola di specializzazione in chirurgia generale presso l'Universita' degli studi di Torino.   
-La scuola ha lo scopo di preparare personale medico specializzato nel campo della chirurgia generale.   
-La scuola rilascia il titolo di specialista in chirurgia generale.   
-Art. 443. - La scuola ha la durata di cinque anni.   
-Ciascun anno di corso prevede ottocento ore di insegnamento e di attivita' pratiche guidate.   
-In base alle strutture disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in venticinque per ciascun anno di corso, per un totale di centoventicinque specializzandi.   
-Art. 444. - Per l'attuazione delle attivita' didattiche programmate dal consiglio della scuola provvede la facolta' di medicina e chirurgia.   
-Art. 445. - Sono ammessi alle prove per ottenere l'iscrizione i laureati in medicina e chirurgia.   
-Per l'iscrizione alla scuola e' richiesto il possesso del diploma di abilitazione all'esercizio della professione.   
-Art. 446. - La scuola comprende sei aree di insegnamento e tirocinio professionale:   
-a) propedeutica generale;   
-b) diagnostica strumentale e di laboratorio;   
-c) tecnica operatoria;   
-d) fisiopatologia speciale;   
-e) chirurgia generale;   
-f) chirurgia speciale.   
-Art. 447. - Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:   
-a) Propedeutica generale:   
-fisiopatologia generale;   
-informatica;   
-medicina legale;   
-chirurgia sperimentale e microchirurgia.   
-b) Diagnostica strumentale e di laboratorio:   
-patologia clinica;   
-anatomia patologica;   
-radiologia;   
-semeiotica strumentale.   
-c) Tecnica operatoria:   
-anatomia chirurgica;   
-tecniche operatorie;   
-chirurgia endoscopica.   
-d) Fisiopatologia speciale:   
-anestesia e rianimazione;   
-trattamento pre e post-operatorio;   
-fisiopatologia chirurgica.   
-e) Chirurgia generale:   
-chirurgia generale;   
-chirurgia pediatrica;   
-chirurgia d'urgenza;   
-chirurgia oncologica;   
-chirurgia geriatrica.   
-f) Chirurgia speciale:   
-ortopedia e traumatologia;   
-neurochirurgia;   
-chirurgia ginecologica;   
-chirurgia toracica;   
-chirurgia cardiovascolare;   
-endocrinochirurgia;   
-chirurgia urologica;   
-chirurgia plastica e riparativa.   
-Art. 448. - L'attivita' didattica comprende ogni anno ottocento ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in una attivita' didattica teorico-pratica comune per tutti gli specializzandi (quattrocento ore come di seguito ripartite) ed in una attivita' didattica elettiva, prevalentemente di carattere tecnico-applicativo di ulteriori quattrocento ore, rivolta all'approfondimento del curriculum corrispondente ad uno dei settori formativo-professionali (monte ore elettivo).   
-La frequenza nelle diverse aree avviene pertanto come di seguito specificato:   
+Anestesia.  
   
-1° Anno:   
-Propedeutica generale (ore 100):   
-fisiopatologia generale. . . . . . . . . . . . . . . . . . . . ore 30 informatica. . . . . . . . . . . . . . . . . . . . . . . . . . ore 30 chirurgia sperimentale e microchirurgia. . . . . . . . . . . . ore 40 Diagnostica strumentale e di laboratorio (ore 50):   
-patologia clinica. . . . . . . . . . . . . . . . . . . . . . . ore 50 Tecnica operatoria (ore 100):   
-anatomia chirurgica . . . . . . . . . . . . . . . . . . . . . ore 100 fisiopatologia speciale (ore 50):   
-anestesia e rianimazione . . . . . . . . . . . . . . . . . . . ore 50 Chirurgia generale (ore 100):   
-chirurgia generale. . . . . . . . . . . . . . . . . . . . . . ore 100 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+Attuale art. 87. - Per il conseguimento del diploma di specialista in anestesia, si richiedono due anni di corso con internato.  
+Attuale art. 88. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1° anno:  
+1) Anatomia, con speciale riguardo alla topografia dei nervi periferici;  
+2) Fisiologia del sistema cardio-vascolare, del sistema respiratorio e del sistema nervoso;  
+3) Farmacologia, con particolare riguardo ai narcotici, ipnotici, anestetici ad azione locale, vari alcaloidi, cardiocinetici ed analettici respiratori;  
+4) Generalita' e tecnica della narcosi;  
+5) Generalita' e tecnica delle anestesie periferiche, rachianestesia, anestesie plessiche regionali, anestesie locali, ecc. 2° anno:  
+1) Generalita' e tecnica della narcosi (biennale);  
+2) Generalita' e tecnica delle anestesie periferiche (biennale);  
+3) Anestesia del parto;  
+4) Patogenesi del dolore e metodi di terapia antalgica;  
+5) Trattamento pre, intra e post-operatorio con speciale riguardo alla trasfusione del sangue.  
+Attuale art. 89. - Lo specializzando per accedere al secondo anno della scuola di specializzazione deve aver superato gli esami del primo anno.  
   
-2° Anno:   
-Diagnostica strumentale e di laboratorio (ore 100):   
-anatomia patologica. . . . . . . . . . . . . . . . . . . . . . ore 50 semeiotica strumentale . . . . . . . . . . . . . . . . . . . . ore 50 Tecnica operatoria (ore 100):   
-anatomia chirurgica . . . . . . . . . . . . . . . . . . . . . ore 100 fisiopatologia speciale (ore 100):   
-trattamento pre e post-operatorio. . . . . . . . . . . . . . . ore 50 fisiopatologia chirurgica. . . . . . . . . . . . . . . . . . . ore 50 Chirurgia generale (ore 100):   
-chirurgia generale. . . . . . . . . . . . . . . . . . . . . . ore 100 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+Medicina interna.  
   
-3° Anno:   
-Diagnostica strumentale e di laboratorio (ore 100):   
-anatomia patologica. . . . . . . . . . . . . . . . . . . . . . ore 20 radiologia . . . . . . . . . . . . . . . . . . . . . . . . . . ore 30 semeiotica strumentale . . . . . . . . . . . . . . . . . . . . ore 50 Tecnica operatoria (ore 100):   
-tecnica operatoria. . . . . . . . . . . . . . . . . . . . . . ore 100 Chirurgia generale (ore 150):   
-chirurgia generale. . . . . . . . . . . . . . . . . . . . . . ore 150 Chirurgia speciale (ore 50):   
-endocrinochirurgia . . . . . . . . . . . . . . . . . . . . . . ore 50 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+Attuale art. 90. - Per il conseguimento del diploma di specialista in medicina interna, si richiedono cinque anni di corso.  
+Attuale art. 91. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1° anno:  
+Malattie dell'apparato respiratorio:  
+a) Anatomia patologica dell'apparato respiratorio;  
+b) Fisiologia dell'apparato respiratorio;  
+c) Semeiotica fisica e strumentale;  
+d) Patologia delle affezioni tubercolari e non tubercolari del polmone;  
+e) Radiodiagnostica;  
+f) Clinica e terapia delle malattie dell'apparato respiratorio;  
+g) Pratica dispensariale e sanatoriale.  
+2° anno:  
+Malattie dell'apparato cardiovascolare:  
+a) Anatomia patologica dell'apparato cardiovascolare;  
+b) Fisiologia dell'apparato cardiovascolare;  
+c) Semeiotica fisica e strumentale (elettrocardiografia) dell'apparato cardiovascolare;  
+d) Patologia dell'apparato cardiovascolare;  
+e) Radiodiagnostica dell'apparato cardiovascolare;  
+f) Clinica e terapia dell'apparato cardiovascolare;  
+3° anno:  
+Malattie degli organi emopoietici e urinari:  
+a) Anatomia patologica degli organi emopoietici e urinari;  
+b) Semeiotica ematologica-tecnica dell'esame funzionale del rene;  
+c) Fisiologia degli organi emopoietici e urinari;  
+d) Patologia degli organi emopoietici e urinari;  
+e) Radiodiagnostica degli organi emopoietici e urinari;  
+f) Clinica e terapia degli organi emopoietici e urinari.  
+4° anno:  
+Malattie dell'apparato digerente e malattie infettive:  
+a) Anatomia patologica dell'apparato digerente e delle malattie infettive;  
+b) Fisiologia dell'apparato digerente e ghiandolare;  
+c) Semeiotica, batteriologia e sierologia;  
+d) Radiodiagnostica;  
+e) Patologia delle infezioni e malattie dell'apparato digerente;  
+f) Clinica e terapia delle infezioni e delle malattie dell'apparato digerente.  
+5° anno:  
+Malattie dell'apparato endocrino e delle articolazioni:  
+a) Anatomia patologica dell'apparato endocrino e delle articolazioni;  
+b) Fisiologia dell'apparato endocrino e delle articolazioni;  
+c) Patologia dell'apparato endocrino e delle articolazioni;  
+d) Semeiotica dell'apparato endocrino e delle articolazioni;  
+e) Radiodiagnostica dell'apparato endocrino e delle articolazioni;  
+f) Clinica e terapia dell'apparato endocrino e delle articolazioni.  
+Attuale art. 92. - L'internato si svolgera' presso l'Istituto di clinica medica generale o di patologia speciale medica dell'Universita' di Torino.  
+Ogni anno a tutti gli iscritti verra' impartito l'insegnamento di uno dei capitoli elencati all'art. 91. In tal modo entro cinque anni ogni iscritto avra' ricevuto l'insegnamento di tutta la materia. Le lezioni saranno opportunamente integrate da conferenze su argomenti attinenti i capitoli di patologia, oggetto dell'insegnamento. E' obbligatoria la firma di frequenza per ognuno degli anni della scuola.  
+Al termine di ognuno dei cinque anni avra' luogo un esame che comprendera', tutta la materia svolta durante l'anno.  
   
-4° Anno:   
-Tecnica operatoria (ore 80):   
-tecnica operatoria . . . . . . . . . . . . . . . . . . . . . . ore 80 Chirurgia generale (ore 170):   
-chirurgia generale. . . . . . . . . . . . . . . . . . . . . . ore 100 chirurgia pediatrica . . . . . . . . . . . . . . . . . . . . . ore 45 chirurgia geriatrica . . . . . . . . . . . . . . . . . . . . . ore 25 Chirurgia speciale (ore 150):   
-ortopedia e traumatologia. . . . . . . . . . . . . . . . . . . ore 30 neurochirurgia . . . . . . . . . . . . . . . . . . . . . . . . ore 20 chirurgia ginecologica . . . . . . . . . . . . . . . . . . . . ore 50 chirurgia urologica. . . . . . . . . . . . . . . . . . . . . . ore 50 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+Cardiologia.  
   
-5° Anno:   
-Propedeutica generale (ore 20):   
-medicina legale. . . . . . . . . . . . . . . . . . . . . . . . ore 20 Tecnica operatoria (ore 100):   
-tecnica operatoria . . . . . . . . . . . . . . . . . . . . . . ore 80 chirurgia endoscopica. . . . . . . . . . . . . . . . . . . . . ore 20 Chirurgia generale (ore 180):   
-chirurgia generale . . . . . . . . . . . . . . . . . . . . . . ore 50 chirurgia d'urgenza. . . . . . . . . . . . . . . . . . . . . . ore 80 chirurgia oncologica . . . . . . . . . . . . . . . . . . . . . ore 50 Chirurgia speciale (ore 100):   
-chirurgia toracica . . . . . . . . . . . . . . . . . . . . . . ore 40 chirurgia cardiovascolare. . . . . . . . . . . . . . . . . . . ore 40 chirurgia plastica e riparativa. . . . . . . . . . . . . . . . ore 20 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+Attuale art. 93. - Per il conseguimento del diploma di specialista in cardiologia si richiedono due anni di corso con internato.  
+Attuale art. 94. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1° anno:  
+1) Patologia dell'apparato circolatorio (una lezione settimanale);  
+2) Clinica delle malattie dell'apparato circolatorio (una lezione settimanale);  
+3) Semeiologia clinica cardiovascolare (una lezione settimanale);  
+4) Semeiologia radiologica cardiovascolare (una lezione settimanale);  
+5) Anatomia normale ed embriologica dell'apparato circolatorio (n. 8 conferenze);  
+6) Fisiologia dell'apparato circolatorio (n. 10 conferenze);  
+7) Anatomia patologica dell'apparato circolatorio (n. 10 conferenze);  
+8) Farmacologia cardiovasale (n. 6 conferenze).  
+2° anno:  
+1) Patologia dell'apparato circolatorio (una lezione settimanale);  
+2) Clinica delle malattie dell'apparato circolatorio (una lezione settimanale);  
+3) Semeiologia clinica cardiovascolare (una lezione settimanale);  
+4) Terapia medica dell'apparato circolatorio (n. 8 conferenze);  
+5) Terapia chirurgica dell'apparato circolatorio (n. 8 conferenze).  
+Gli iscritti alla scuola presteranno servizio secondo turni opportunamente stabiliti nei laboratori di cardiologia.  
+Attuale art. 95. - L'internato si svolgera' presso l'Istituto di clinica medica generale o di patologia speciale medica dell'Universita' di Torino.  
+E' obbligatoria la firma di frequenza per ogni anno del corso.  
+Alla fine di ognuno dei due anni avra' luogo un esame concernente gli insegnamenti svolti nelle lezioni e nelle conferenze, durante l'anno.  
   
-Art. 449. - Durante i cinque anni di corso e' richiesta la frequenza nei seguenti reparti:   
-clinica chirurgica I;   
-clinica chirurgica II;   
-patologia chirurgica I;   
-patologia chirurgica II.   
-La frequenza nelle varie aree per complessive ottocento ore annue, compreso il monte ore elettivo di quattrocento ore annue, avverra' secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienza e di formazione professionale. Il consiglio della scuola ripartira' annualmente il monte ore elettivo.   
-Il consiglio della scuola predispone apposito libretto di formazione, che consenta allo specializzando ed al consiglio stesso il controllo dell'attivita' svolta e dell'acquisizione dei progressi compiuti, per sostenere gli esami annuali e finali.   
-Scuola di specializzazione in nefrologia   
-Art. 450. - E' istituita la scuola di specializzazione in nefrologia presso l'Universita' degli studi di Torino. La scuola ha sede nell'Universita' di Torino.   
-La scuola ha il compito di fornire competenze professionali specifiche nel campo della prevenzione, della diagnostica e della terapia conservativa delle nefropatie e della terapia sostitutiva artificiale o naturale.   
-La scuola rilascia il titolo di specialista in nefrologia.   
-Art. 451. - La scuola ha la durata di quattro anni.   
-Ciascun anno di corso prevede ottocento ore di insegnamento e di attivita' pratiche guidate.   
-In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in dieci per ciascun anno di corso, per un totale di quaranta specializzandi.   
-Art. 452. - Per l'attuazione delle attivita' didattiche programmate dal consiglio della scuola provvede la facolta' di medicina e chirurgia.   
-Art. 453. - Sono ammessi al concorso per ottenere l'iscrizione alla scuola i laureati in medicina e chirurgia.   
-Per l'iscrizione alla scuola e' richiesto il possesso del diploma di abilitazione all'esercizio della professione.   
-Art. 454. - La scuola comprende otto aree di insegnamento e tirocinio professionale:   
-1) metodologie, statistica e tecniche di informatica;   
-2) struttura e funzione normale;   
-3) immunogenetica;   
-4) struttura e funzione patologica;   
-5) diagnostica;   
-6) terapia sostitutiva;   
-7) nefrologia clinica;   
-8) nefrologia pediatrica.   
-Art. 455. - Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:   
-1) Metodologie, statistica e tecniche di informatica:   
-informatica medica;   
-statistica medica e metodologia epidemiologica.   
-2) Struttura e funzione normale:   
-anatomia e fisiologia umana;   
-bilancio idro-elettrolitico ed equilibrio acido-base;   
-funzione endocrina del rene;   
-embriologia.   
-3) Genetica ed immunologia applicata alla metodologia:   
-genetica medica;   
-immunologia;   
-immunologia dei trapianti;   
-consultorio genetico.   
-4) Struttura e funzione patologica:   
-morfologia e fisiopatologia delle nefropatie;   
-patologia del ricambio idro-salino e dell'equilibrio acido-base.   
-5) Diagnostica:   
-patologia clinica;   
-anatomia ed istologia patologica;   
-radiologia;   
-medicina nucleare;   
-microbiologia clinica.   
-6) Terapia sostitutiva:   
-tecniche sostitutive artificiali;   
-trapianto renale.   
-7) Nefrologia clinica:   
-nefrologia sperimentale;   
-medicina interna;   
-medicina interna per la patologia correlazionistica;   
-rene e ipertensione;   
-rene e gravidanza;   
-rene e diabete;   
-nefrologia I: nefropatie glomerulari;   
-nefrologia II: nefropatie vascolari, nefropatie tubulointerstiziali;   
-urologia medica;   
-insufficienza renale acuta;   
-insufficienza renale cronica;   
-farmacologia e tossicologia;   
-dietetica di interesse nefrologico;   
-nefrologia geriatrica;   
-emergenze in nefrologia;   
-affezioni urologiche di interesse nefrologico.   
-8) Nefrologia pediatrica:   
-nefrologia clinica in eta' pediatrica;   
-insufficienza renale acuta e cronica in eta' pediatrica;   
-nefropatie congenite ed ereditarie;   
-nutrizione e accrescimento;   
-terapia sostitutiva in eta' pediatrica.   
-Art. 456. - L'attivita' didattica comprende ogni anno ottocento ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in attivita' didattica teorico-pratica, comune per tutti gli studenti (quattrocento ore come di seguito ripartite) ed in attivita' didattica elettiva, prevalentemente di carattere tecnico-applicativo di ulteriori quattrocento ore, rivolta all'approfondimento del curriculum corrispondente ad uno dei settori formativo-professionali (monte ore elettivo).   
-La frequenza nelle diverse aree avviene pertanto come di seguito specificato;   
+Malattie dell'apparato respiratorio.  
   
-1° Anno:   
-Metodologie, statistica e tecniche di   
-informatica (ore 50):   
-informatica medica . . . . . . . . . . . . . . . . . . . . . . ore 25 statistica medica e metodologia epidemiologica . . . . . . . . ore 25 Struttura e funzione normale (ore 80):   
-embriologia. . . . . . . . . . . . . . . . . . . . . . . . . . ore 15 anatomia e fisiologia umana. . . . . . . . . . . . . . . . . . ore 30 bilancio idroelettrico ed equilibrio acido-base. . . . . . . . ore 15 funzione endocrina del rene. . . . . . . . . . . . . . . . . . ore 20 Genetica ed immunologia (ore 70):   
-genetica medica. . . . . . . . . . . . . . . . . . . . . . . . ore 40 immunologia. . . . . . . . . . . . . . . . . . . . . . . . . . ore 30 Nefrologia clinica (ore 200):   
-nefrologia sperimentale. . . . . . . . . . . . . . . . . . . . ore 50 nefrologia. . . . . . . . . . . . . . . . . . . . . . . . . . ore 150 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+Attuale art. 96. - Per il conseguimento del diploma di specialista in malattie dell'apparato respiratorio, si richiedono due anni di corso.  
+Attuale art. 97. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1° anno:  
+1) Fisiologia dell'apparato respiratorio;  
+2) Anatomia patologica dell'apparato respiratorio;  
+3) Semeiotica fisica e funzionale;  
+4) Patologia delle malattie non tubercolari del polmone;  
+5) Clinica e terapia delle malattie dell'apparato respiratorio;  
+6) Conferenze.  
+2° anno:  
+1) Patologia delle malattie tubercolari del polmone;  
+2) Radiodiagnostica;  
+3) Pratica sanatoriale;  
+4) Clinica e terapia delle malattie dell'apparato respiratorio;  
+5) Conferenze.  
+Alla fine di ognuno dei due anni di corso i perfezionandi dovranno sostenere un esame teorico-pratico nelle materie svolte durante l'anno.  
+Attuale art. 98. - L'internato si svolgera' presso l'Istituto di clinica medica o di patologia speciale medica dell'Universita' di Torino, comprendendo anche la frequenza nell'ospedale sanatoriale San Luigi, ove sara' svolta la parte dimostrativa, tecnica, sanatoriale e dispensariale. E' obbligatoria la firma di frequenza per ogni anno di corso.  
   
-2° Anno:   
-Struttura e funzione patologica (ore 50):   
-morfologie fisiopatologia delle nefropatie . . . . . . . . . . ore 20 patologia del ricambio idrosalino e dell'equilibrio acido-base. ore 30   
-Diagnostica (ore 90):   
-patologia clinica. . . . . . . . . . . . . . . . . . . . . . . ore 30 radiologia . . . . . . . . . . . . . . . . . . . . . . . . . . ore 30 medicina nucleare. . . . . . . . . . . . . . . . . . . . . . . ore 30 Terapia sostitutiva (ore 100):   
-tecniche sostitutive artificiali. . . . . . . . . . . . . . . ore 100 Nefrologia clinica (ore 160):   
-nefrologia I. . . . . . . . . . . . . . . . . . . . . . . . . ore 160 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+Neuropatologia e psichiatra  
   
-3° Anno:   
-Genetica ed immunologia (ore 40):   
-immunologia dei trapianti. . . . . . . . . . . . . . . . . . . ore 20 consultorio genetico . . . . . . . . . . . . . . . . . . . . . ore 20 Diagnostica (ore 60):   
-anatomia e istologia patologica. . . . . . . . . . . . . . . . ore 30 microbiologia clinica. . . . . . . . . . . . . . . . . . . . . ore 30 Terapia sostitutiva (ore 120):   
-tecniche sostitutive artificiali. . . . . . . . . . . . . . . ore 120 Nefrologia clinica (ore 180):   
-nefrologia II. . . . . . . . . . . . . . . . . . . . . . . . . ore 30 medicina interna (per la patologia correzionistica:   
-rene e ipertensione, rene e gravidanza, rene e diabete). . . . ore 30 urologia medica. . . . . . . . . . . . . . . . . . . . . . . . ore 40 insufficienza renale acuta . . . . . . . . . . . . . . . . . . ore 40 insufficienza renale cronica . . . . . . . . . . . . . . . . . ore 40 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+Attuale art. 99. - Per il conseguimento del diploma di specialista in neuropatologia e psichiatria, si richiedono tre anni di corso con internato.  
+Attuale art. 100. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1° anno:  
+1) Anatomia del sistema nervoso;  
+2) Fisiologia del sistema nervoso;  
+3) Semeiotica neropatologica;  
+4) Semeiotica psicopatologica.  
+2° anno:  
+1) Anatomia patologica del sistema nervoso;  
+2) Clinica neuropatologica;  
+3) Clinica psichiatrica.  
+3° anno:  
+1) Neurochirurgia;  
+2) Clinica neuropatologica;  
+3) Clinica psichiatrica;  
+4) Psichiatria forense.  
+Gli specializzandi hanno l'obbligo di frequentare la clinica delle malattie nervose e mentali (internato) seguendo l'attivita' del direttore e degli assistenti nelle infermerie, nell'ambulatorio e nei servizi speciali diagnostici e terapeutici.  
+Hanno altresi' l'obbligo di frequenza ai corsi speciali di lezioni tenuti dagli insegnanti della scuola:  
   
-4° Anno:   
-Terapia sostitutiva (ore 120):   
-trapianto renale. . . . . . . . . . . . . . . . . . . . . . . ore 120 Nefrologia clinica (ore 200):   
-medicina interna . . . . . . . . . . . . . . . . . . . . . . . ore 40 dietetica di interesse nefrologico . . . . . . . . . . . . . . ore 40 farmacologia e tossicologia. . . . . . . . . . . . . . . . . . ore 20 nefrologia geriatrica. . . . . . . . . . . . . . . . . . . . . ore 30 emergenze in nefrologia. . . . . . . . . . . . . . . . . . . . ore 40 affezioni urologiche di interesse nefrologico. . . . . . . . . ore 30 Nefrologia pediatrica (ore 80):   
-nefrologia clinica in eta' pediatrica. . . . . . . . . . . . . ore 20 insufficienza renale acuta e cronica in eta' pediatrica. . . . ore 20 nefropatie congenite ed ereditarie . . . . . . . . . . . . . . ore 10 nutrizione ed accrescimento. . . . . . . . . . . . . . . . . . ore 10 terapia sostitutiva in eta' pediatrica . . . . . . . . . . . . ore 20 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+A cominciare dal secondo anno devono fare a turno esercitazioni su casi clinici.  
+Per il conseguimento del diploma l'iscritto deve inoltre presentare e discutere una dissertazione scritta su argomento neuropatologico e psichiatrico.  
   
-Art. 457. - Durante i quattro anni di corso della scuola e' richiesta la frequenza dei reparti clinici di degenze, degli ambulatori, dei laboratori di diagnostica e dei servizi di terapia sostitutiva, nelle strutture a disposizione.   
-La frequenza nelle varie aree per complessive ottocento ore, compreso il monte ore elettivo di quattrocento ore annue, avverra' secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienze e di formazione professionale. Il consiglio della scuola ripartira' annualmente il monte ore elettivo. Il consiglio della scuola predispone un apposito libretto di formazione che consenta allo specializzando ed al consiglio stesso il controllo dell'attivita' svolta e dell'acquisizione dei progressi compiuti per sostenere gli esami annuali e finali.   
-Scuola di specializzazione in ortognatodonzia   
-Art. 458. - E' istituita la scuola di specializzazione in ortognatodonzia presso l'Universita' degli studi di Torino.   
-La scuola ha lo scopo di preparare specialisti in ortopedia dento-maxillo-facciale.   
-La scuola rilascia il titolo di specialista in ortognatodonzia.   
-Art. 459. - La scuola ha la durata di tre anni.   
-Ciascun anno di corso prevede ottocento ore di insegnamento e di attivita' pratiche guidate.   
-In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in sei per ciascun anno di corso, per un totale di diciotto specializzandi.   
-Art. 460. - Per l'attuazione delle attivita' didattiche programmate dal consiglio della scuola provvede la facolta' di medicina e chirurgia.   
-Art. 461. - Sono ammessi alle prove per ottenere l'iscrizione i laureati in medicina e chirurgia e odontoiatria e protesi dentaria.   
-Per l'iscrizione alla scuola e' richiesto il possesso del diploma di abilitazione all'esercizio della professione.   
-Art. 462. - La scuola comprende quattro aree di insegnamento e tirocinio professionale:   
-a) area medica;   
-b) area chirurgica;   
-c) area odontoiatrica e stomatologica;   
-d) area specialistica gnatologica e ortognatodontica.   
-Art. 463. - Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:   
-a) Area medica:   
-embriologia e anatomia dell'apparato stomatognatico;   
-farmacologia clinica;   
-pediatria-auxologia applicata;   
-genetica applicata;   
-statistica applicata alla ricerca scientifica;   
-medicina legale e delle assicurazioni;   
-fisiologia dell'apparato stomatognatico.   
-b) Area chirurgica:   
-chirurgia odontostomatologica;   
-chirurgia ortognatodontica;   
-esercitazioni cliniche.   
-c) Area stomatologica:   
-patologia odontostomatologica;   
-odontoiatria conservativa;   
-radiologia odontostomatologica;   
-pedodonzia;   
-stomatologia preventiva;   
-paradontologia;   
-esercitazioni cliniche.   
-d) Area specialistica ortognatodontica:   
-ortognatodonzia;   
-odontotecnica;   
-semeiotica ortognatodontica;   
-cefalometria clinica;   
-metallurgia e merceologia in ortognatodonzia;   
-esercitazioni di laboratorio.   
-Art. 464. - L'attivita' didattica comprende ogni anno ottocento ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in una attivita' teorico-pratica comune per tutti gli studenti ed in una attivita' didattica elettiva, prevalentemente di carattere tecnico-applicativo, rivolta all'approfondimento del curriculum corrispondente ad uno dei settori formativo-professionali.   
-La frequenza nelle diverse aree avviene pertanto come di seguito specificato:   
+Dermosifilopatia  
   
-1° Anno:   
-Area medica:   
-embriologia e anatomia dell'apparato stomatognatico. . . . . . ore 20 fisiologia dell'apparato stomatognatico. . . . . . . . . . . . ore 35 farmacologia clinica . . . . . . . . . . . . . . . . . . . . . ore 20 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 100 Area chirurgica:   
-chirurgia odontostomatologica. . . . . . . . . . . . . . . . . ore 20 esercitazioni cliniche. . . . . . . . . . . . . . . . . . . . . ore 5 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 100 Area stomatologica:   
-patologia odontostomatologica. . . . . . . . . . . . . . . . . ore 50 odontoiatria conservativa. . . . . . . . . . . . . . . . . . . ore 50 stomatologia preventiva. . . . . . . . . . . . . . . . . . . . ore 25 radiologia odontostomatologica . . . . . . . . . . . . . . . . ore 25 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 100 Area specialistica ortognatodontica:   
-ortognatodonzia I. . . . . . . . . . . . . . . . . . . . . . . ore 80 odontotecnica. . . . . . . . . . . . . . . . . . . . . . . . . ore 35 esercitazioni di laboratorio . . . . . . . . . . . . . . . . . ore 35 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 100   
+Attuale art. 101. - Per il conseguimento del diploma di specialista in dermosifilopatia si richiedono due anni di corso con internato.  
+Attuale art. 102. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1) Anatomia patologica;  
+2) Batteriologia, parassitologia e sierologia;  
+3) Clinica dermosifilopatica.  
+Per il conseguimento del diploma l'iscritto deve inoltre presentare e discutere una dissertazione scritta con contributo originale.  
   
-2° Anno:   
-Area medica:   
-fisiologia dell'apparato stomatognatico. . . . . . . . . . . . ore 10 pediatria auxologica applicata . . . . . . . . . . . . . . . . ore 10 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 150 Area stomatologica:   
-pedodonzia . . . . . . . . . . . . . . . . . . . . . . . . . . ore 40 paradontologia . . . . . . . . . . . . . . . . . . . . . . . . ore 40 esercitazioni cliniche . . . . . . . . . . . . . . . . . . . . ore 20 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 100 Area specialistica ortognatodontica:   
-semeiotica ortognatodontica. . . . . . . . . . . . . . . . . . ore 60 ortognatodonzia II . . . . . . . . . . . . . . . . . . . . . . ore 80 cefalometria clinica I . . . . . . . . . . . . . . . . . . . . ore 60 metallurgia e merceologia in ortognatodonzia . . . . . . . . . ore 40 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 150   
+Ostetricia e ginecologia  
   
-3° Anno:   
-Area medica:   
-genetica applicata . . . . . . . . . . . . . . . . . . . . . . ore 15 statistica applicata alla ricerca scientifica. . . . . . . . . ore 15 medicina legale delle assicurazioni in odontostomatologia. . . ore 10 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 150 Area chirurgica:   
-chirurgia ortognatodontica . . . . . . . . . . . . . . . . . . ore 20 esercitazioni cliniche . . . . . . . . . . . . . . . . . . . . ore 20 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 100 Area specialistica ortognatodontica:   
-ortognatodonzia III. . . . . . . . . . . . . . . . . . . . . . ore 80 cefalometria clinica II. . . . . . . . . . . . . . . . . . . . ore 80 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 150   
+Attuale art. 103. - Per il conseguimento del diploma di specialista in ostetricia e ginecologia si richiedono quattro anni di corso con internato.  
+Attuale art. 104. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1° anno:  
+1) Elementi di genetica e di eugenica;  
+2) Anatomia normale ed embriologia dell'apparato genitale femminile;  
+3) Fisiologia ostetrica;  
+4) Diagnostica ostetrica;  
+5) Clinica ostetrica e ginecologica.  
+2° anno:  
+1) Fisiologia dell'apparato genitale femminile:  
+endocrinologia;  
+2) Tecnica operatoria ostetrica;  
+3) Diagnostica ginecologica;  
+4) Tecnica diagnostica di laboratorio nel campo ostetrico e ginecologico, esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);  
+5) Clinica ostetrica e ginecologica.  
+3° anno:  
+1) Anatomia patologica ostetrica e ginecologica;  
+2) Istologia normale e patologica nel campo della specialita';  
+3) Puericoltura prenatale;  
+4) Emoterapia nel campo ostetrico e ginecologico;  
+5) Anestesia e analgesia nel campo ostetrico e ginecologico;  
+6) Tecnica operatoria ginecologica;  
+7) Clinica ostetrica e ginecologica.  
+4° anno:  
+1) Puericoltura postnatale e malattie del neonato;  
+2) Medicina legale applicata alla specialita';  
+3) Diagnostica Roentegen, radioterapia in ostetricia e ginecologia;  
+4) Clinica ostetrica e ginecologica (esame alla fine del 4° anno).  
+I corsi saranno integrati da esercitazioni cliniche, esercitazioni di laboratorio e da conferenze sui rapporti dell'ostetricia e della ginecologia con la clinica medica, clinica chirurgica, clinica dermosifilopatica, clinica oculistica, clinica urologica.  
+Per tali conferenze e' obbligatoria la frequenza ma non l'esame.  
+Per il conseguimento del diploma l'iscritto deve inoltre presentare e discutere una dissertazione scritta con contributo personale.  
   
-Art. 465. - Durante i tre anni di corso e' richiesta la frequenza nei seguenti reparti:   
-gnatologia e ortognatodonzia;   
-odontoiatria infantile.   
-La frequenza nelle varie aree per complessive ottocento ore annue, compreso il monte ore elettivo, avverra' secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienza e di formazione professionale.   
-Il consiglio della scuola ripartira' annualmente il monte ore elettivo.   
-Il consiglio della scuola predispone apposito libretto di formazione, che consenta allo specializzando ed al consiglio stesso il controllo dell'attivita' svolta e dell'acquisizione dei progressi compiuti per sostenere gli esami annuali e finali.   
+Pediatria  
+  
+Attuale art. 105. - Per il conseguimento del diploma di specialista in pediatria, si richiedono due anni di corso con internato.  
+Attuale art. 106. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1) Fisiologia dell'eta' dell'accrescimento in rapporto con la clinica;  
+2) igiene generale, igiene speciale scolastica e profilassi delle malattie infettive;  
+3) Puericoltura, legislazione in rapporto con la pediatria;  
+4) Diagnostica di ortopedia e chirurgia infantile;  
+5) Semeiotica infantile;  
+6) Clinica e patologia infantile;  
+7) Malattie infettive e contagiose dell'infanzia;  
+8) Clinica e patologia della tubercolosi infantile;  
+9) Neuropsichiatria infantile;  
+10) Malattie dell'accrescimento;  
+11) Clinica dermosifilopatica applicata all'infanzia;  
+12) Radiologia e terapia fisica applicata all'infanzia;  
+13) Psicologia infantile.  
+Internato biennale nell'Istituto di clinica pediatrica universitaria.  
+Per il conseguimento del diploma il candidato deve inoltre presentare e discutere una dissertazione scritta con contributo personale clinico o clinico sperimentale.  
+  
+Oculistica  
+  
+Attuale art. 107. - Per il conseguimento del diploma di specialista in oculistica si richiedono tre anni di corso con internato.  
+Attuale art. 108. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1° anno:  
+1) Anatomia e fisiologia dell'occhio;  
+2) Batteriologia oculare;  
+3) Patologia oculistica;  
+4) Clinica oculistica.  
+2° anno:  
+1) Oftalmoscopia;  
+2) Anatomia patologia dell'occhio;  
+3) Ottica fisiologica;  
+4) Patologia oculare;  
+5) Clinica oculistica.  
+3° anno:  
+1) Tecnica delle operazioni oculari;  
+2) Oftalmoscopia;  
+3) Neurologia oculare;  
+4) Clinica oculistica.  
+Il corso viene integrato con conferenze di radiologia, otorinolaringoiatria, neurologia, dermatologia, igiene, pediatria, medicina legale attinente all'oculistica.  
+Alla fine di ogni anno l'iscritto deve sostenere l'esame su tutte le materie di insegnamento dell'anno.  
+Il candidato, per il conseguimento del diploma, deve inoltre presentare e discutere una dissertazione scritta con contributo personale.  
+  
+Otorinolaringoiatria  
+  
+Attuale art. 109. - Per il conseguimento del diploma di specialista in otorinolaringoiatria, si richiedono tre anni di corso con internato.  
+Attuale art. 110. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1° anno:  
+1) Fisica acustica;  
+2) Anatomia;  
+3) Fisiologia;  
+4) Semeiotica otorinolaringologica e tecnica di laboratorio;  
+5) Anatomia patologica;  
+6) Clinica otorinolaringoiatrica.  
+2° anno:  
+1) Audiologia;  
+2) Neuropatologia e otoneurologia;  
+3) Foniatria;  
+4) Tecnica operatoria;  
+5) Infortunistica medico legale;  
+6) Clinica otorinolaringoiatrica.  
+3° anno:  
+1) Clinica otorinolaringoiatrica.  
+Saranno inoltre tenute conferenze di medicina e chirurgia generale a carattere integrativo.  
+Per il conseguimento del diploma di specialista in otorinolaringoiatria deve essere presentata e discussa una dissertazione scritta su un argomento della specialita' e superata una prova tecnica.  
+Gli esami di profitto si danno alla fine di ogni anno di corso per singole materie. Per accedere al 2° e al 3° anno di corso devono essere stati superati gli esami degli anni precedenti L'insegnamento e l'internato si svolgeranno presso la clinica otorinolaringoiatrica dell'Universita' di Torino e gli iscritti hanno l'obbligo della frequenza a tutti gli insegnamenti teorici e pratici che vengono impartiti.  
+L'ammissione alla scuola di perfezionamento puo' essere deliberata dal direttore della scuola stessa per titoli e per eventuale esame di ammissione.  
+  
+Igiene  
+  
+Attuale art. 111. - Per il conseguimento del diploma di specialista in igiene si richiedono due anni di corso con internato.  
+Attuale art. 112. - Nel primo anno di corso sono impartiti i seguenti insegnamenti:  
+1) Statistica sanitaria;  
+2) Chimica applicata all'igiene;  
+3) Fisica applicata all'igiene;  
+4) Analisi di laboratorio applicata all'igiene;  
+5) Malattie parassitarie (rispettivamente da infravirus, schizomiceti, micofiti, protozoi e macro parassiti):  
+a) dell'infanzia;  
+b) degli adulti;  
+c) tropicali;  
+6) Elementi di ingegneria sanitaria.  
+L'allievo ha inoltre l'obbligo di due tirocini pratici della durata ciascuno di quindici giorni:  
+a) presso l'Ufficio del medico provinciale;  
+b) presso l'Ufficio di igiene comunale.  
+Questi due periodi di pratica non possono essere fatti contemporaneamente.  
+Nel secondo anno di corso sono impartiti i seguenti insegnamenti:  
+1) Amministrazione sanitaria;  
+2) Epidemiologia e profilassi generale e speciale;  
+3) Medicina preventiva rispettivamente:  
+a) maternita' e infanzia, igiene mentale e igiene della scuola;  
+b) igiene del lavoro e dello sport;  
+c) igiene del suolo, delle acque e dell'abitato;  
+4) Anatomia e istologia patologica.  
+L'allievo ha inoltre l'obbligo dei seguenti tirocini pratici della durata ciascuno di quindici giorni:  
+a) presso il Consorzio antitubercolare;  
+b) presso la Direzione sanitaria di un ospedale di 1ª categoria;  
+c) presso i servizi sanitari di fabbrica.  
+I suddetti tre periodi di pratica non possono essere fatti contemporaneamente.  
+  
+Medicina legale  
+  
+Attuale art. 113. - Per il conseguimento del diploma di specialista in medicina legale si richiedono due anni di corso con internato.  
+Attuale art. 114. - Gli insegnamenti impartiti dalla scuola sono i seguenti:  
+1) Medicina legale pratica con esercitazioni di medicina giudiziaria e indagini di laboratorio;  
+2) Medicina delle assicurazioni sociali;  
+3) Antropologia criminale e psichiatria forense;  
+4) Elementi di tossicologia;  
+5) Diagnostica anatomopatologica;  
+6) Traumatologia e semeiotica chirurgica;  
+7) Polizia giudiziaria.  
+Per il conseguimento del diploma l'iscritto deve inoltre presentare e discutere una dissertazione scritta su ricerche originali nel campo della medicina legale e sostenere prove pratiche di compilazione e discussione di perizie.  
+  
+Infortunistica e assicurazioni sociali  
+  
+Attuale art. 115. - Per il conseguimento del diploma di specialista in infortunistica e nelle assicurazioni sociali si richiedono due anni di corso con internato.  
+Attuale art. 116. - Gli insegnamenti impartiti dalla Scuola sono i seguenti:  
+1) Semeiotica e patologia chirurgica degli infortuni;  
+2) Infortunistica medico-legale;  
+3) Igiene industriale;  
+4) Assicurazioni sociali.  
+Per il conseguimento del diploma, l'iscritto deve inoltre presentare e discutere una dissertazione scritta su ricerche originali nel campo dell'infortunistica e delle assicurazioni sociali e sostenere prove pratiche di compilazione e discussione di perizie.  
+  
+Radiologia  
+  
+Attuale art. 117. - Per il conseguimento del diploma di specialista in radiologia si richiedono due anni di corso con internato.  
+Attuale art. 118. - Gli insegnamenti impartiti dalla scuola sono i seguenti:  
+1° anno:  
+1) Fisica radiologica;  
+2) Radiobiologia;  
+3) Anatomia radiologica normale e patologica;  
+4) Semeiotica radiologica medica;  
+5) Semeiotica radiologica chirurgica.  
+2° anno:  
+1) Tecnica radiologica;  
+2) Radiodiagnostica clinica;  
+3) Radioterapia clinica.  
+L'insegnamento sara' completato con esercitazioni pratiche. E' fatto obbligo agli iscritti di essere presenti nell'Istituto nelle ore di svolgimento dei vari servizi diagnostici e terapeutici durante il periodo di corso.  
+Il numero degli iscritti alla scuola sara' stabilito di anno in anno a giudizio della Facolta' udito il parere del direttore.  
+  
+Odontoiatria e protesi dentaria  
+  
+Attuale art. 119. - Per il conseguimento del diploma di specialista in odontoiatria e protesi dentaria si richiedono due anni di corso con internato.  
+Attuale art. 120. - Gli insegnamenti impartiti della scuola sono i seguenti:  
+1° anno:  
+1) Embriologia, anatomia e fisiologia della bocca e dei denti;  
+2) Farmacologia, speciale odontoiatrica;  
+3) Patologia speciale e semeiotica della bocca e dei denti;  
+4) Chirurgia dentaria ed orale;  
+5) Ortodonzia;  
+6) Radiologia;  
+7) Odontotecnica.  
+2° anno:  
+1) Anatomia patologica dentaria ed orale;  
+2) Odontoiatria conservativa;  
+3) Chirurgia dentaria ed orale;  
+4) Protesi dentaria;  
+5) Ortodonzia.  
+Il corso sara' integrato da conferenze di medicina e chirurgia generale, oculistica, dermatologia, otorinolaringoiatria, medicina legale, ecc. attinenti alla odontoiatria.  
+L'insegnamento teorico sara' integrato da esercitazioni pratiche delle varie attivita' delle discipline di carattere tecnico (chirurgia dentale conservativa, protesi dentaria, ortodonzia e odontotecnica).  
+L'esame di diploma consiste nella presentazione e discussione di una dissertazione scritta vertente su di un argomento della specialita'.  
+  
+Patologia generale  
+  
+Attuale art. 121. - Per il conseguimento del diploma di specialista in patologia generale, si richiedono due anni di corso con internato.  
+Alla scuola di perfezionamento vengono ammessi solo i laureati in medicina e chirurgia. L'insegnamento si svolge nell'istituto di patologia generale dell'Universita'. Gli iscritti alla scuola hanno l'obbligo di frequentare tutti gli insegnamenti teorici e le esercitazioni pratiche impartite dai professori.  
+Attuale art. 122. - Gli insegnamenti impartiti dalla scuola sono i seguenti:  
+1° anno:  
+1) Patologia generale (eziologia generale, cause fisiche e chimiche, endopatologia);  
+2) Parassitologia;  
+3) Microbiologia;  
+4) Immunologia.  
+2° anno:  
+1) Patologia generale del metabolismo e dei sistemi organici;  
+2) Istopatologia (infiammazione, processi proliferativi, processi neoplastici).  
+Superati gli esami dei singoli insegnamenti, per il conseguimento del diploma, gli iscritti dovranno presentare e discutere una dissertazione su un argomento di patologia generale.  
+  
+Settore laboratorista  
+  
+Attuale art. 123 - Per il conseguimento del diploma di specialista medico-settore laboratorista, si richiedono due anni di corso.  
+Attuale art. 124. - Gli insegnamenti impartiti dalla scuola sono i seguenti:  
+1) Tecnica delle autopsie;  
+2) Diagnostica anatomo-patologica;  
+3) Tecnica e diagnostica istologica ed ematologica;  
+4) Tecnica e diagnostica batteriologica;  
+5) Tecnica e diagnostica immunologica;  
+6) Tecnica e diagnostica per ricerche di chimica clinica;  
+7) Tecnica di necroscopie medico legali;  
+8) Elementi di legislazione sanitaria.  
+Il corso sara' tenuto presso l'Istituto di anatomia e istologia patologica dell'Universita' e sara' integrato da esercitazioni pratiche.  
+Per il conseguimento del diploma il candidato dovra' presentare e discutere una dissertazione sopra un argomento del corso.  
+  
+Urologia  
+  
+Attuale art. 125. - Per il conseguimento del diploma di specialista in urologia, si richiedono tre anni di corso.  
+Attuale art. 126. - Gli insegnamenti impartiti dalla scuola sono i seguenti:  
+1) Embriologia, anatomia dell'apparato genito urinario, fisiologia dell'apparato genito urinario;  
+2) Patologia e clinica medica dell'apparato urinario (urologia medica);  
+3) Patologia e clinica chirurgica dell'apparato urinario (urologia chirurgica);  
+4) Semeiotica endoscopica e radiologia urologica;  
+5) Interventi endoscopici;  
+6) Tecnica operatoria degli interventi urologici.  
+L'insegnamento teorico sara' integrato da esercitazioni pratiche per cui si richiede un internato di due anni nella divisione urologica della clinica chirurgica.  
+L'esame di diploma consiste nella presentazione e discussione di una dissertazione scritta su argomenti della specialita'.  
+  
+Ortopedia e traumatologia  
+  
+Attuale art. 127. - Il corso della scuola ha la durata di tre anni.  
+Attuale art. 128. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1° anno:  
+a) Anatomia e fisiologia degli organi di sostegno e di movimento;  
+b) Propedeutica ortopedica e traumatologia.  
+2° anno:  
+c) Anatomia patologica degli organi di sostegno e di movimento;  
+d) Patologia e clinica ortopedica e traumatologica;  
+e) Radiologia dell'apparato scheletrico di sostegno e di movimento.  
+3° anno:  
+f) Infortunistica dal punto di vista sociale e legale;  
+g) Clinica e terapia ortopedica e traumatologica.  
+Turni di internato nei due ultimi anni in clinica ortopedica.  
+Tutti gli insegnamenti dovranno essere seguiti da esami.  
+Alla fine del corso lo specializzando dovra' sostenere una prova teorico-pratica ed una discussione sopra una dissertazione scritta su argomento delle materie contemplate dallo statuto per il conseguimento del diploma di specialista in ortopedia e traumatologia.  
+Gli allievi dovranno pagare le tasse, le sopratasse e i contributi prescritti per l'analoga Scuola di specializzazione in chirurgia.  
+Il numero degli specializzandi e' limitato a sei per anno.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 luglio 1986
+### Dato a Roma, addi' 16 ottobre 1952
 
-COSSIGA
+EINAUDI SEGNI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: ZOLI
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 4 maggio 1953
 
-Registrato alla Corte dei conti, addi' 10 dicembre 1986
-
-Registro n. 88 Istruzione, foglio n. 9
+Atti del Governo, registro n. 76, foglio n. 57. - PALLA

@@ -1,18 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1950 n. 1283
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1951 n. 1816
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1950 n. 1283
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1951 n. 1816
 ==============================================================
 
-Autorizzazione all'Istituto Maestre Pie Venerini, con sede in Roma, ad accettare una donazione.
------------------------------------------------------------------------------------------------
+Autorizzazione all'Istituto "Maestre Pie Venerini", con sede in Roma, ad accettare una donazione.
+-------------------------------------------------------------------------------------------------
 
 Art. 1
 ------
 
-N.
+null
 
-1283. Decreto del Presidente della Repubblica 19 maggio 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto Maestre Pie Venerini, con sede in Roma, viene autorizzato ad accettare la donazione di un immobile per le finalita' ed alle condizioni volute dal donante reverendissimo Rossi don Gherardo fu Giovanni.  
   
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 12 maggio 1951
+  
+Visto, il Guardasigilli: ZOLI  
+Registrato alla Corte dei conti, addi' 5 maggio 1952  
+Atti del Governo, registro n. 53, foglio n. 19. - FRASCA  

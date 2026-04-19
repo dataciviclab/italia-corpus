@@ -1,107 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1971 n. 688
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1968 n. 1222
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1971 n. 688
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1968 n. 1222
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Camerino.
 --------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Camerino, approvato con [decreto del Presidente della Repubblica 1 novembre 1959, n. 1388](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-11-01;1388), e modificato con [decreto del Presidente della Repubblica 18 agosto 1962, n. 1392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-08-18;1392), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Camerino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 17: all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:
-
-Diritto fallimentare;
-
-Diritto industriale;
-
-Teoria generale del processo;
-
-Istituzioni di diritto pubblico;
-
-Istituzioni di diritto penale;
-
-Criminologia.
-
-Art. 20, relativo alle norme per gli esami di laurea e' abrogato e sostituito dal seguente:
-
-"L'esame di laurea consiste nella discussione di una dissertazione scritta, svolta su un tema approvato dal professore della materia.
-
-La materia della dissertazione scritta deve essere compresa fra gli insegnamenti della facolta'".
-
-Art. 23, relativo all'ammissione di laureati di altre discipline ai corsi di laurea della facolta' di giurisprudenza e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente:
-
-"Coloro che siano forniti di altra laurea o diploma di studi superiori possono essere iscritti, a giudizio della facolta', ad un anno di corso non oltre il secondo, salvo i laureati in scienze politiche che vengono ammessi al terzo anno del corso di laurea in giurisprudenza, i laureati in giurisprudenza che vengono ammessi al terzo anno del corso di laurea in scienze politiche, e i laureati in economia e commercio che vengono ammessi al terzo anno sia dell'uno che dell'altro corso di laurea".
-
-Art. 27: all'elenco degli insegnamenti complementari del corso di laurea in chimica - indirizzo inorganico chimico-fisico - sono aggiunti i seguenti:
-
-Spettroscopia molecolare;
-
-Chimica dei composti di coordinazione.
-
-Art. 35, relativo all'esame di laurea dei vari corsi della facolta' di scienze matematiche, fisiche e naturali e' abrogato e sostituito dal seguente:
-
-"L'esame di laurea consiste nella discussione di una dissertazione scritta svolta sopra un argomento scelto liberamente dal candidato in uno degli insegnamenti fondamentali o complementari da lui seguiti.
-
-Per la laurea in chimica lo studente dovra' sostenere un colloquio di cultura generale su argomenti di chimica inorganica, chimica organica, chimica fisica e chimica analitica".
-
-Art. 36, relativo al corso di laurea in farmacia e' modificato nel senso che gli insegnamenti complementari di "Chimica bromatologica" e di "Chimica delle fermentazioni" mutano denominazione rispettivamente in quelle di "Chimica degli alimenti" e di "Chimica delle fermentazioni e microbiologia industriale"; e che viene aggiunto l'insegnamento complementare di "Chemioterapia".
-
-Art. 38, relativo all'esame di laurea in farmacia e' abrogato e sostituito dal seguente:
-
-"L'esame di laurea consiste nella discussione di una dissertazione scritta approvata dal professore che ne ha assegnato il tema e di argomenti di cultura generale ad essa attinenti".
-
-Art. 39: all'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologia farmaceutiche e' aggiunto quello di:
-
-Chemioterapia.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 19 maggio 1971
-
-SARAGAT
-
-MISASI
-
-Visto, il Guardasigilli: COLOMBO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 27 agosto 1971 Atti del Governo, registro n. 244, foglio n. 9. - PASQUALUCCI
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Camerino, approvato con [decreto del Presidente della Repubblica 1 novembre 1959, n. 1388](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-11-01;1388), e modificato con [decreto del Presidente della Repubblica 18 agosto 1962, n. 1392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-08-18;1392), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Camerino, approvato con [decreto del Presidente della Repubblica 1 novembre 1959, n. 1388](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-11-01;1388) e modificato con [decreto del Presidente della Repubblica 18 agosto 1962, n. 1392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-08-18;1392) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
@@ -111,40 +25,46 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Camerino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 17: all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:  
-Diritto fallimentare;  
-Diritto industriale;  
-Teoria generale del processo;  
-Istituzioni di diritto pubblico;  
-Istituzioni di diritto penale;  
-Criminologia.  
-Art. 20, relativo alle norme per gli esami di laurea e' abrogato e sostituito dal seguente:  
-"L'esame di laurea consiste nella discussione di una dissertazione scritta, svolta su un tema approvato dal professore della materia.  
-La materia della dissertazione scritta deve essere compresa fra gli insegnamenti della facolta'".  
-Art. 23, relativo all'ammissione di laureati di altre discipline ai corsi di laurea della facolta' di giurisprudenza e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente:  
-"Coloro che siano forniti di altra laurea o diploma di studi superiori possono essere iscritti, a giudizio della facolta', ad un anno di corso non oltre il secondo, salvo i laureati in scienze politiche che vengono ammessi al terzo anno del corso di laurea in giurisprudenza, i laureati in giurisprudenza che vengono ammessi al terzo anno del corso di laurea in scienze politiche, e i laureati in economia e commercio che vengono ammessi al terzo anno sia dell'uno che dell'altro corso di laurea".  
-Art. 27: all'elenco degli insegnamenti complementari del corso di laurea in chimica - indirizzo inorganico chimico-fisico - sono aggiunti i seguenti:  
-Spettroscopia molecolare;  
-Chimica dei composti di coordinazione.  
-Art. 35, relativo all'esame di laurea dei vari corsi della facolta' di scienze matematiche, fisiche e naturali e' abrogato e sostituito dal seguente:  
-"L'esame di laurea consiste nella discussione di una dissertazione scritta svolta sopra un argomento scelto liberamente dal candidato in uno degli insegnamenti fondamentali o complementari da lui seguiti.  
-Per la laurea in chimica lo studente dovra' sostenere un colloquio di cultura generale su argomenti di chimica inorganica, chimica organica, chimica fisica e chimica analitica".  
-Art. 36, relativo al corso di laurea in farmacia e' modificato nel senso che gli insegnamenti complementari di "Chimica bromatologica" e di "Chimica delle fermentazioni" mutano denominazione rispettivamente in quelle di "Chimica degli alimenti" e di "Chimica delle fermentazioni e microbiologia industriale"; e che viene aggiunto l'insegnamento complementare di "Chemioterapia".  
-Art. 38, relativo all'esame di laurea in farmacia e' abrogato e sostituito dal seguente:  
-"L'esame di laurea consiste nella discussione di una dissertazione scritta approvata dal professore che ne ha assegnato il tema e di argomenti di cultura generale ad essa attinenti".  
-Art. 39: all'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologia farmaceutiche e' aggiunto quello di:  
-Chemioterapia.  
+Art. 27. - E' modificato nel senso che viene istituito, nel corso di laurea in chimica, l'indirizzo inorganico-chimico-fisico.  
+Pertanto, dopo l'elenco degli insegnamenti fondamentali del triennio comuni al due indirizzi e complementari per l'indirizzo organico-biologico viene inserito il seguente nuovo elenco relativo agli insegnamenti complementari per l'indirizzo inorganico-chimico-fisico.  
+1) Chimica teorica;  
+2) Elettrochimica;  
+3) Radiochimica;  
+5) Fisica tecnica;  
+6) Misure elettriche;  
+7) Scienza dei metalli;  
+8) Chimica industriale;  
+9) Analisi matematica (algebrica ed infinitesimale) (biennale);  
+10) Meccanica razionale con elementi di statica grafica;  
+11) Fisica superiore;  
+12) Chimica applicata (ai materiali da costruzione);  
+13) Chimica macromolecolare;  
+14) Chimica quantistica;  
+15) Chimica nucleare;  
+16) Stereochimica inorganica;  
+17) Chimica inorganica superiore;  
+18) Geochimica;  
+19) Chimica fisica dello stato solido;  
+20) Chimica dei composti elemento-organici;  
+21) Esercitazioni di tecniche e sintesi speciali inorganiche;  
+22) Storia della scienza;  
+23) Geometria analitica con elementi di proiettiva.  
+Nello stesso articolo l'ultimo comma e' abrogato e sostituito dai seguenti:  
+  
+All'atto dell'iscrizione al triennio di applicazione lo studente deve scegliere l'indirizzo che intende seguire.  
+La scelta dell'indirizzo e' impegnativa e puo' essere variata soltanto in casi eccezionali, subordinatamente al parere favorevole della facolta'.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali prescritti per il triennio di applicazione e almeno in sette da lui scelti fra i complementari pertinenti l'indirizzo seguito.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 maggio 1971
+### Dato a Roma, addi' 28 ottobre 1963
 
-SARAGAT MISASI
+SARAGAT SCAGLIA
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 27 agosto 1971
+Registrato alla Corte dei conti, addi' 7 dicembre 1968
 
-Atti del Governo, registro n. 244, foglio n. 9. - PASQUALUCCI
+Atti del Governo, registro n. 224, foglio n. 31. - GRECO

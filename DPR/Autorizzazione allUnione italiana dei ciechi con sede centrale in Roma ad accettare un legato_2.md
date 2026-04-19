@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1969 n. 908
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 luglio 1970 n. 634
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1969 n. 908
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 luglio 1970 n. 634
+=============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, con sede centrale in Roma, ad accettare un legato.
 -------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-908. Decreto del Presidente della Repubblica 23 ottobre 1969, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede centrale in Roma, viene autorizzata ad accettare un legato - consistente nel 2% della quota di partecipazione del testatore nella Societa' immobiliare Riccardo Filippa, al netto degli oneri tributari, ivi comprese le imposte di successione dovute dalla moglie del testatore, erede universale - disposto a suo favore dal defunto sig. Riccardo Filippa, con testamento olografo dell'11 maggio 1964, depositato e pubblicato (assieme ai relativi due codicilli, rispettivamente, in data 15 aprile 1964 e 16 aprile 1965) con atto a rogito dott. Pietro Bourlot, notaio in Torino, in data 10 settembre 1965, repertorio n. 38508, atti n. 20785.   
+634. Decreto del Presidente della Repubblica 10 luglio 1970, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede centrale in Roma, viene autorizzata ad accettare un legato consistente nella somma di L. 2.000.000, disposto dal prof. Enrico Morpurgo con testamento olografo 1° marzo 1968, pubblicato con verbale 17 febbraio 1969, n. 39597 di repertorio a rogito notaio Giusto Bronzin di Udine, registrato ad Udine il 3 marzo 1969 al n. 962.   
   
-Visto, il Guardasigilli: GAVA   
-Registrato alla Corte dei conti, addi' 3 dicembre 1969   
-Atti del Governo, registro n. 230, foglio n. 135. - CARUSO
+Visto, il Guardasigilli: REALE   
+Registrato alla Corte dei conti, addi' 20 agosto 1970   
+Atti del Governo, registro n. 237, foglio n. 41. - CARUSO

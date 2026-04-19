@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1974 n. 481
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1975 n. 747
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1974 n. 481
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1975 n. 747
+==============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-481. Decreto del Presidente della Repubblica 22 luglio 1974, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato, consistente in un appezzamento di terreno di ettari 1.04.85 sito in Monastir (Cagliari), disposta dall'ente comunale di assistenza di Monastir con atto 20 aprile 1972, n. 63847 di repertorio a rogito notaio Antonio Loi di Cagliari.  
+747. Decreto del Presidente della Repubblica 30 ottobre 1975, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione di una donazione, consistente nell'opera di Vincenzo Gemito "Ritratto del pittore Francesco Paolo Michetti" 1873 (scultura in terracotta alta cm 44), disposta a favore dello Stato dalla signora Paola Ojetti con atto in data 15 febbraio 1974, numero 36962/6730 di repertorio, a rogito dott. Achille de Martino, notaio in Roma, da destinare alla galleria nazionale d'arte moderna di Roma.  
   
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 26 settembre 1974  
-Atti di Governo, registro n. 5, foglio n. 89. - SCIARRETTA
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 18 dicembre 1975  
+Atti di Governo, registro n. 15, foglio n. 52

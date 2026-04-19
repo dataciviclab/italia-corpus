@@ -1,223 +1,24 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1977 n. 598
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1974 n. 356
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1977 n. 598
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1974 n. 356
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Dopo l'art. 173, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in cardiologia e in nefrologia.
-
-Scuola di specializzazione in cardiologia
-
-Art. 174. - Il corso, della durata di 4 anni, viene tenuto presso l'istituto di clinica medica dell'Universita' di Trieste.
-
-Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
-
-Il numero degli iscritti sara' di 24, pari a 6 per anno di corso.
-
-La durata complessiva del corso di studi non e' suscettibile di abbreviazioni.
-
-Art. 175. - Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-anatomia umana normale ed embriologia dell'apparato cardiovascolare;
-
-fisiologia dell'apparato cardiovascolare I;
-
-biochimica e biofisica;
-
-semeiotica fisica e strumentale dell'apparato cardiovascolare I;
-
-informatica medica e strumentazione biomedica I.
-
-2° Anno:
-
-anatomia patologica I;
-
-fisiologia dell'apparato cardiovascolare III patologia e clinica cardiovascolare II;
-
-semeiotica fisica e strumentale dell'apparato cardiovascolare II;
-
-informatica medica e strumentazione biomedica II;
-
-radiologia I;
-
-aspetti sociali ed epidemiologici delle malattie cardiovascolari.
-
-3° Anno:
-
-anatomia patologica II;
-
-semeiotica fisica e strumentale dell'apparato cardiovascolare III;
-
-patologia e clinica cardiovascolare II;
-
-radiologia II;
-
-terapia medica e farmacologia clinica I.
-
-4° Anno:
-
-semeiotica fisica e strumentale dell'apparato cardiovascolare IV;
-
-patologia e clinica cardiovascolare III;
-
-terapia medica e farmacologia clinica II;
-
-terapia chirurgica;
-
-terapie intensive cardiologiche.
-
-Art. 176. - Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni, le visite cliniche, gli ambulatori, le esercitazioni.
-
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere la prova di esame.
-
-Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.
-
-Al termine del corso di studi per il conseguimento del diploma di specialista, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scelta su di un argomento di carattere cardiologico.
-
-Scuola di specializzazione in nefrologia
-
-Art. 177. - Alla scuola di specializzazione sono ammessi i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
-
-Il corso di studi per il conseguimento del diploma di specialista in nefrologia ha la durata di quattro anni e non e' suscettibile di abbreviazione.
-
-Il numero massimo degli iscritti e' di diciotto per l'intero corso.
-
-Nel caso che le domande eccedano il numero previsto per gli iscritti alla scuola, la selezione verra' fatta mediante concorso da parte di una commissione, presieduta dal direttore della scuola (graduatoria per titoli ed esami).
-
-La direzione della scuola sara' affidata dalla facolta' di medicina al direttore della clinica o di istituto che sia un noto cultore della nefrologia, e che continui a dedicarsi ad essa insieme con i suoi collaboratori.
-
-Gli iscritti alla scuola avranno l'obbligo di frequentare le lezioni, le esercitazioni, le visite di istruzione e le eventuali conferenze; in caso contrario, non potranno avere l'attestato di frequenza necessario per essere ammessi a sostenere le prove di esame.
-
-Al termine di ogni anno accademico, l'allievo della scuola di specializzazione dovra' sostenere un esame di profitto che comprenda il gruppo delle materie in programma; ove non sia superato tale esame, il candidato non potra' essere ammesso al corso successivo.
-
-L'esame di diploma si svolgera' con le norme generali del testo unico universitario.
-
-Al termine del corso di studi, verra' conseguito il diploma di specialista in nefrologia.
-
-Art. 178. - Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-struttura ed ultrastruttura normale del rene;
-
-aspetti biochimici della funzione renale;
-
-fisiologia renale;
-
-microbiologia ed immunologia applicate alla nefrologia;
-
-genetica applicata alla nefrologia;
-
-semeiotica renale (I anno).
-
-2° Anno:
-
-struttura ed ultrastruttura patologica del rene;
-
-patologia del ricambio idroelettrolitico;
-
-insufficienza renale;
-
-rene e ipertensione arteriosa;
-
-semeiotica renale (II anno);
-
-nefropatie tubulari.
-
-3° Anno:
-
-nefropatie glomerulari;
-
-nefropatie interstiziali;
-
-nefropatie vascolari;
-
-terapia dietetica e dialitica (I anno);
-
-farmacologia d'interesse nefrologico.
-
-4° Anno:
-
-nefrouropatie calcolotiche, malformative e neoplastiche;
-
-terapia dietetica e dialitica (II anno);
-
-fisiopatologia e clinica del trapianto renale;
-
-aspetti di nefrologia nell'eta' pediatrica;
-
-problemi chirurgici in nefrologia;
-
-terapia medica delle nefropatie.
-
-Art: 179. - Gli iscritti alla scuola sono tenuti a versare le seguenti tasse, soprattasse e contributi:
-
-Primo Anni
-
-anno successivi
-
-tassa di immatricolazione ................... 5.000 -
-
-costo libretto iscrizione e tesserino ....... 1.500 -
-
-tassa annuale di iscrizione ................. 100.000 100.000 soprattassa esami profitto .................. 7.000 7.000 contributo opere sportive assistenziali ..... 1.000 1.000 contributo di biblioteca .................... 10.000 10.000 contributo clinica e laboratorio ............ 48.000 48.000 prestazioni di segreteria ................... 3.000 3.000 contributo di riscaldamento ................. 3.000 3.000
-
--------- ------- 178.500 172.000
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 1 giugno 1977
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 30 luglio 1977 Registro n. 92 Istruzione, foglio n. 33
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
@@ -225,102 +26,46 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 173, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in cardiologia e in nefrologia.  
+Art. 24 - e' modificato nel senso che sono soppresse le parole "e di scienze politiche".  
   
-Scuola di specializzazione in cardiologia  
+Art. 25 - il primo comma e' abrogato e sostituito dal seguente:  
+"La durata del corso degli studi per la laurea in giurisprudenza e' di 4 anni.  
+I titoli d'ammissione sono quelli previsti dalle vigenti disposizioni di legge".  
+Nello stesso articolo l'insegnamento di "diritto coloniale" e' soppresso.  
   
-Art. 174. - Il corso, della durata di 4 anni, viene tenuto presso l'istituto di clinica medica dell'Universita' di Trieste.  
-Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Il numero degli iscritti sara' di 24, pari a 6 per anno di corso.  
-La durata complessiva del corso di studi non e' suscettibile di abbreviazioni.  
-Art. 175. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-anatomia umana normale ed embriologia dell'apparato cardiovascolare;  
-fisiologia dell'apparato cardiovascolare I;  
-biochimica e biofisica;  
-semeiotica fisica e strumentale dell'apparato cardiovascolare I;  
-informatica medica e strumentazione biomedica I.  
-2° Anno:  
-anatomia patologica I;  
-fisiologia dell'apparato cardiovascolare III patologia e clinica cardiovascolare II;  
-semeiotica fisica e strumentale dell'apparato cardiovascolare II;  
-informatica medica e strumentazione biomedica II;  
-radiologia I;  
-aspetti sociali ed epidemiologici delle malattie cardiovascolari.  
-3° Anno:  
-anatomia patologica II;  
-semeiotica fisica e strumentale dell'apparato cardiovascolare III;  
-patologia e clinica cardiovascolare II;  
-radiologia II;  
-terapia medica e farmacologia clinica I.  
-4° Anno:  
-semeiotica fisica e strumentale dell'apparato cardiovascolare IV;  
-patologia e clinica cardiovascolare III;  
-terapia medica e farmacologia clinica II;  
-terapia chirurgica;  
-terapie intensive cardiologiche.  
-Art. 176. - Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni, le visite cliniche, gli ambulatori, le esercitazioni.  
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere la prova di esame.  
-Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.  
-Al termine del corso di studi per il conseguimento del diploma di specialista, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scelta su di un argomento di carattere cardiologico.  
+Art. 26 - e' modificato nel senso che nel primo comma la parola "stabilite" e' sostituita con la parola "consigliate".  
+Nel secondo comma, alle parole "al diritto processuale civile e al diritto coloniale" vengono sostituite le parole "e al diritto processuale civile".  
   
-Scuola di specializzazione in nefrologia  
+Art. 27 - e' modificato nel senso che nel secondo comma la parola "deve" e' costituita con la parola "puo'".  
+Gli articoli 28, 29, 30, 32, 33 e 34 sono soppressi.  
   
-Art. 177. - Alla scuola di specializzazione sono ammessi i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Il corso di studi per il conseguimento del diploma di specialista in nefrologia ha la durata di quattro anni e non e' suscettibile di abbreviazione.  
-Il numero massimo degli iscritti e' di diciotto per l'intero corso.  
-Nel caso che le domande eccedano il numero previsto per gli iscritti alla scuola, la selezione verra' fatta mediante concorso da parte di una commissione, presieduta dal direttore della scuola (graduatoria per titoli ed esami).  
-La direzione della scuola sara' affidata dalla facolta' di medicina al direttore della clinica o di istituto che sia un noto cultore della nefrologia, e che continui a dedicarsi ad essa insieme con i suoi collaboratori.  
-Gli iscritti alla scuola avranno l'obbligo di frequentare le lezioni, le esercitazioni, le visite di istruzione e le eventuali conferenze; in caso contrario, non potranno avere l'attestato di frequenza necessario per essere ammessi a sostenere le prove di esame.  
-Al termine di ogni anno accademico, l'allievo della scuola di specializzazione dovra' sostenere un esame di profitto che comprenda il gruppo delle materie in programma; ove non sia superato tale esame, il candidato non potra' essere ammesso al corso successivo.  
-L'esame di diploma si svolgera' con le norme generali del testo unico universitario.  
-Al termine del corso di studi, verra' conseguito il diploma di specialista in nefrologia.  
-Art. 178. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-struttura ed ultrastruttura normale del rene;  
-aspetti biochimici della funzione renale;  
-fisiologia renale;  
-microbiologia ed immunologia applicate alla nefrologia;  
-genetica applicata alla nefrologia;  
-semeiotica renale (I anno).  
-2° Anno:  
-struttura ed ultrastruttura patologica del rene;  
-patologia del ricambio idroelettrolitico;  
-insufficienza renale;  
-rene e ipertensione arteriosa;  
-semeiotica renale (II anno);  
-nefropatie tubulari.  
-3° Anno:  
-nefropatie glomerulari;  
-nefropatie interstiziali;  
-nefropatie vascolari;  
-terapia dietetica e dialitica (I anno);  
-farmacologia d'interesse nefrologico.  
-4° Anno:  
-nefrouropatie calcolotiche, malformative e neoplastiche;  
-terapia dietetica e dialitica (II anno);  
-fisiopatologia e clinica del trapianto renale;  
-aspetti di nefrologia nell'eta' pediatrica;  
-problemi chirurgici in nefrologia;  
-terapia medica delle nefropatie.  
-Art: 179. - Gli iscritti alla scuola sono tenuti a versare le seguenti tasse, soprattasse e contributi:  
-Primo Anni  
-anno successivi   
-tassa di immatricolazione ................... 5.000 -  
-costo libretto iscrizione e tesserino ....... 1.500 -  
-tassa annuale di iscrizione ................. 100.000 100.000 soprattassa esami profitto .................. 7.000 7.000 contributo opere sportive assistenziali ..... 1.000 1.000 contributo di biblioteca .................... 10.000 10.000 contributo clinica e laboratorio ............ 48.000 48.000 prestazioni di segreteria ................... 3.000 3.000 contributo di riscaldamento ................. 3.000 3.000  
--------- ------- 178.500 172.000   
+Art. 35 - e' abrogato e sostituito del seguente:  
+"I laureati in scienze politiche che intendano conseguire la laurea in giurisprudenza potranno essere iscritti al terzo anno di corso.  
+I laureati di altre facolta' potranno essere eventualmente iscritti al secondo anno di corso".  
+  
+Art. 36 - il primo comma e' abrogato e sostituito dal seguente:  
+"Della facolta' fanno parte i seguenti Istituti:  
+1) Istituto di diritto privato e di diritto processuale civile;  
+2) Istituto di diritto pubblico interno;  
+3) Istituto di diritto internazionale e di legislazione comparata;  
+4) Istituto di diritto romano e di storia del diritto;  
+5) Istituto di diritto del lavoro".  
+  
+Art. 38 (gia' 35) - e' abrogato e sostituito dal seguente:  
+"I laureati in giurisprudenza che intendono conseguire la laurea in scienze politiche potranno essere iscritti al terzo anno di corso".  
+  
+Art. 39 (gia' 36) - della facolta' di scienze politiche fa parte l'istituto di scienze politiche.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 giugno 1977
+### Dato a Roma, addi' 9 aprile 1974
 
 LEONE MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 30 luglio 1977
+Registrato alla Corte dei conti, addi' 9 agosto 1974
 
-Registro n. 92 Istruzione, foglio n. 33
+Atti di Governo, registro n. 5, foglio n. 5. - SCIARRETTA

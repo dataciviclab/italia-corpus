@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 dicembre 1979 n. 812
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1977 n. 51
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 dicembre 1979 n. 812
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1977 n. 51
+=============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un lascito.
 --------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-812. Decreto del Presidente della Repubblica 13 dicembre 1979, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il lascito, consistente nella meta' del valore di sei certificati obbligazionari e due libretti di risparmio pari a L. 3.742.000, disposto dalla sig.na Angela Gnocchi a favore dei ciechi di don Gnocchi centro di Varese, che si identifica con il centro don Gnocchi che e' un servizio speciale dell'Unione italiana dei ciechi come ha fatto presente il presidente dell'Unione, con testamento olografo 6 gennaio 1974, pubblicato in data 7 maggio 1974, n. 63113 di repertorio, a rogito dott. Edo Franco Ferrazzi, notaio in Gallarate (Varese), e registrato a Gallarate in data 22 maggio 1974 al n. 1507, vol. 218.  
+51. Decreto del Presidente della Repubblica 19 gennaio 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare, col beneficio d'inventario, il lascito disposto dalla sig.ra Gina Carli con testamento olografo 5 novembre 1969, pubblicato a rogito notaio dott. Angelo Boletti in data 12 maggio 1972, n. 62917 di repertorio, n. 8677 di raccolta, registrato a Brescia il 20 maggio 1972 al n. 2606, mod. 71-M. Pubblici, consistente nella quota di 1/3 della somma di L. 30.839.103.  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 8 marzo 1980  
-Registro n. 2 Presidenza, foglio n. 189
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 25 febbraio 1977  
+Registro n. 2 Presidenza, foglio n. 234

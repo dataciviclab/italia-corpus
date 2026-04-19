@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1966 n. 1041
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 marzo 1959 n. 247
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1966 n. 1041
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 marzo 1959 n. 247
+============================================================
 
 Autorizzazione alla "Fondazione Pro Juventute Don Carlo Gnocchi" ad accettare un legato.
 ----------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1041. Decreto del Presidente della Repubblica 31 ottobre 1966, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi" viene autorizzata ad accettare un legato, consistente nella somma di lire cinquecentomila, disposto dal defunto sig. Arturo De Gobbi, con testamento olografo del 2 novembre 1960, pubblicato (assieme al, codicillo testamentario del 6 novembre 1960) per atto a rogito dott. Angela Japoce, notaio residente a Gorgonzola, in data 14 marzo 1964, n. 14143 di rep., n. 3112 d'archivio.  
+247. Decreto del Presidente della Repubblica 19 marzo 1959, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi" viene autorizzata ad accettare un legato dell'importo di L. 2.000.000, disposto dalla signora Luigia Del Zoppo ved. Giarda, con testamento olografo in data 2 febbraio 1956, pubblicato e depositato per atto a rogito notaio dott. Giorgio Basadonna di Milano, a favore dei "poveri Mutilatini di Don Gnocchi" che si identificano con la Fondazione suindicata.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 28 novembre 1966  
-Atti del Governo, registro n. 207, luglio n. 79. VILLA
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 5 maggio 1959  
+Atti del Governo, registro n. 118, foglio n. 104. - VILLA

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 settembre 1977 n. 786
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1971 n. 629
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 settembre 1977 n. 786
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1971 n. 629
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
@@ -12,57 +12,55 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, numero 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nello deliberazioni degli organi accademici dall'Universita' di Modena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Dopo l'art. 274 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola diretta a fini speciali per terapisti della riabilitazione.  
+Art. 47: il penultimo comma relativo agli esami del corso di laurea in matematica e' modificato nel senso che le parole "per l'indirizzo applicativo di una prova di calcolo matematico" sono abrogate e sostituite dalle seguenti: "per l'indirizzo applicativo di una prova orale e di una prova di calcolo matematico".  
+Art. 50: all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:  
   
-Scuola per terapisti della riabilitazione  
-(Scuola diretta a fini speciali)  
+Fisiologia vegetale;  
+Patologia vegetale;  
+Ecologia vegetale;  
+Fitogeografia;  
+Biologia marina;  
+Idrobiologia e pescicoltura;  
+Istologia ed embriologia.  
   
-Art. 275. - Presso la cattedra di gerontologia e geriatria, afferente all'istituto di clinica medica generale e terapia medica, funziona una scuola per terapisti della riabilitazione atta a fornire tutte le nozioni teoriche e pratiche necessarie a bene esercitare le attivita' di fisioterapia, recupero e rieducazione funzionale necessarie alla prevenzione e cura delle invalidita' di carattere neurologico, neuropsichico, ortopedico, traumatologico, reumatico e delle invalidita' da malattie cardiovascolari, respiratorie, genito-urinarie.  
-La scuola conduce al conseguimento di un diploma di terapista della riabilitazione.  
-Art. 276. - Il direttore della scuola viene designato di anno in anno dal consiglio di facolta' e puo' essere confermato.  
-Il personale docente e' nominato di anno in anno dal consiglio di facolta' su proposta del direttore della scuola che viene scelto tra il personale universitario e il personale ospedaliero cultore della materia.  
-Art. 277. - La scuola ha la durata di tre anni, con frequenza obbligatoria a tempo pieno per l'intera durata del corso.  
-Art. 278. - Sono ammessi alla scuola i cittadini italiani in possesso di licenza di scuola media superiore ed eta' massima di anni trenta, con le maggiorazioni di legge, fisicamente e psichicamente idonei a svolgere la professione di terapista della riabilitazione.  
-I posti previsti sono in numero di dieci per anno, l'ammissione al primo anno di corso avverra' per titoli e prova attitudinale, il passaggio agli anni successivi avverra' previo giudizio collegiale dei docenti sulla maturita' conseguita dai singoli allievi; in caso di giudizio negativo l'allievo potra' essere ammesso in qualita' di ripetente ma per una sola volta alla fine del terzo anno, per il conseguimento del diploma di terapista della riabilitazione gli allievi dovranno sostenere una prova pratica ed un colloquio secondo i programmi svolti durante l'intero corso come indicati dall'art. 280 del presente statuto.  
-Art. 279. - Le tasse di iscrizione alla scuola per terapisti della riabilitazione le soprattasse ed i contributi sono fissati in una somma corrispondente alle tasse, soprattasse e contributi a qualsiasi titolo corrisposti da uno studente iscritto al primo anno del corso di laurea in medicina e chirurgia, salvo i contributi di laboratorio, di seminario e di esercitazioni che vengono fissati di anno in anno dal consiglio di amministrazione sentito il parere della facolta'.  
-L'integrale somma delle tasse, soprattasse e contributi di cui sopra, corrisposta dagli iscritti alla scuola costituisce il fondo cui e' dotata la scuola stessa per il funzionamento. Su questo fondo vengono pure integralmente devoluti i contributi eventuali elargiti da enti e privati a favore della scuola.  
-Art. 280. - Gli insegnamenti previsti presso la scuola per terapisti della riabilitazione comprendono le seguenti materie d'insegnamento e tengono presenti anche i programmi e gli orientamenti delle scuole europee volte ai medesimi fini:  
+Nello stesso articolo, dopo l'elenco degli insegnamenti complementari, il penultimo comma e' abrogato e sostituito dal seguente:  
+"L'insegnamento biennale di botanica comprende tanto la parte generale quanto quella sistematica.  
+L'insegnamento biennale di zoologia comporta due esami distinti alla fine di ciascun anno di corso".  
+Art. 53: all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:  
   
-1° Anno:  
-a) elementi di fisica, elementi di biomeccanica, elementi di anatomia umana generale, elementi di fisiologia umana, elementi di psicologia;  
-b) parte pratica ed esercitazioni.  
+Fisiologia vegetale;  
+Patologia vegetale;  
+Ecologia vegetale;  
+Fitogeografia.  
   
-2° Anno:  
-a) nozioni di patologia e clinica di particolare interesse ai fini della riabilitazione Metodologia delle tecniche riabilitative;  
-b) parte pratica ed esercitazioni.  
-  
-3° Anno:  
-a) clinica della riabilitazione e tecniche riabilitative applicate. Elementi di igiene e medicina preventiva. Elementi di pronto soccorso. Elementi di legislazione sanitaria. Servizio sociale. Deontologia;  
-b) tirocinio pratico.  
+Nello stesso articolo, dopo l'elenco degli insegnamenti complementari, il penultimo comma e' abrogato e sostituito dal seguente:  
+"L'insegnamento biennale di botanica comprende tanto la parte generale quanto quella sistematica.  
+L'insegnamento biennale di zoologia comporta due esami distinti alla fine di ciascun anno di corso".  
+Art. 54, relativo al biennio di studi propedeutico per il corso di laurea in ingegneria e' modificato nel senso che all'elenco degli insegnamenti sostitutivi della geometria II e' incluso, contrassegnato con la lettera E, quello di "Metodi di osservazione e misura, per il corso di laurea in ingegneria elettronica".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 settembre 1977
+### Dato a Roma, addi' 19 maggio 1971
 
-LEONE MALFATTI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 25 ottobre 1977
+Registrato alla Corte dei conti, addi' 18 agosto 1971
 
-Registro n. 120 Istruzione, foglio n. 380
+Atti del Governo, registro n. 243, foglio n. 136. - PASQUALUCCI

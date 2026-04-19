@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1963 n. 1380
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 aprile 1967 n. 399
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1963 n. 1380
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 aprile 1967 n. 399
+=============================================================
 
 Autorizzazione alla "Fondazione Pro Juventute Don Carlo Gnocchi", con sede in Roma, ad accettare un legato.
 -----------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1380. Decreto del Presidente della Repubblica 5 settembre 1963, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi", con sede in Toma, viene autorizzata ad accettare un legato costituito da n. 1440 (millequattrocentoquaranta) azioni della Societa' Pirelli, dette Pirelloni, disposto dal defunto sig. Tremolada Marco Beniamino, con testamento olografo 30 ottobre 1961, con atto a rogito notaio dott. Giuseppe Gallizia, residente in Milano, in data 20 aprile 1962, n. 62199/22544 di repertorio, n. 16991 di archivio.  
+399. Decreto del Presidente della Repubblica 18 aprile 1967, col quale, sulla proposta del Presidente del Consiglio dei Ministri la "Fondazione Pro Juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare il legato, avente per oggetto una casa sita in Livorno, disposto dalla defunta signora Guidelli Elena, vedova Zaccari, nei termini e con l'obbligo di cui al testamento olografo della de cuius in data 8 settembre 1962, pubblicato con verbale a rogito dott. Enrico Masini, notaio in Milano, in data 29 gennaio 1964, n. 14.134 di repertorio, numero 5035 progr.  
   
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' ottobre 1963  
-Atti del governo, registro n. 175, foglio n. 52. - VILLA
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 6 giugno 1967  
+Atti del Governo, registro n. 211, foglio n. 87. - GRECO

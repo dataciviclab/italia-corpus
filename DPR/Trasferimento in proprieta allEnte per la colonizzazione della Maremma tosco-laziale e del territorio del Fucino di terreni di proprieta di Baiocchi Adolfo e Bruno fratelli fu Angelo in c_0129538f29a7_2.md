@@ -1,30 +1,28 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1952 n. 3796
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1952 n. 3921
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1952 n. 3796
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1952 n. 3921
 ================================================================
 
-Trasferimento in proprieta' all'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino di terreni di proprieta' di Baiocchi Adolfo e Bruno, fratelli, fu Angelo, in comune di Castellazzara (Grosseto).
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Trasferimento in proprieta' all'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino di terreni di proprieta' di Baiocchi Adolfo e Bruno fratelli fu Angelo, in comune di Castellazzara (Grosseto).
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Visti gli [articoli 77, comma primo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77-com1), ed [87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5) della Repubblica;
+Visti gli [articoli 77, comma primo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77-com1) ed [87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5) della Repubblica;
 
 Viste le [leggi 12 maggio 1950, n. 230; 21 ottobre 1950, n. 841; 18 maggio 1951, n. 333; 2 aprile 1952, n. 339 e 16 agosto 1952, n. 1206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-08-16;1206);
 
-In virtu' della delegazione concessa dagli [articoli 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), ed 1 e 2 della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
+In virtu' della delegazione concessa dagli [articoli 5 della legge 12 maggio 1950, n. 230 ed 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;1~art5) e 2 della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
 
 Visto il proprio decreto 7 febbraio 1951, n. 66;
 
 Visto il piano particolareggiato di espropriazione compilato dall'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino, nei confronti di Baiocchi Adolfo e Bruno, fratelli, fu Angelo, per i terreni ricadenti nel comune di Castellazzara (provincia di Grosseto);
 
-Vista la [deliberazione 16 maggio 1952, n. 2489](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1952-05-16;2489), della Commissione Censuaria Centrale, relativa al ricorso prodotto dagli interessati ai sensi degli [articoli 6 della legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841~art6), e 9 della [legge 18 maggio 1951, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-05-18;333);
+Vista la [deliberazione 16 maggio 1952, n. 2489](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1952-05-16;2489), della Commissione Censuaria Centrale, relativa al ricorso prodotto dagli interessati ai sensi degli [articoli 6 della legge 21 ottobre 1950, n. 841 e 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;9~art6) della [legge 18 maggio 1951, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-05-18;333);
 
-Considerato che i sunnominati hanno presentato, ai sensi dell'[art. 2 del decreto Presidenziale 30 agosto 1951, n. 931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-30;931~art2), la documentazione per l'esclusione dall'esproprio di parte dei terreni compresi nel piano particolareggiato di espropriazione di cui sopra e che sulla base degli accertamenti compiuti, ai sensi dell'[articolo 10 della legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841~art10), dal Ministero dell'agricoltura e delle foreste, non ricorrono tutte le condizioni richieste dal citato art. 10, per escludere dall'esproprio i terreni di cui alla documentazione sopra menzionata;
-
-Considerato che i sunnominati non sono stati ammessi al beneficio di conservare definitivamente una parte dei terreni oggetto di esproprio, costituenti il terzo residuo di cui all'[art. 9 della legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841~art9), per non aver ottemperato a tutti gli adempimenti previsti in detto articolo;
+Considerato che i sunnominati hanno presentato, ai sensi dell'[articolo 2 del Decreto presidenziale 30 agosto 1951, n. 951](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-30;951~art2), la documentazione per l'esclusione dall'esproprio di parte dei terreni compresi nel piano particolareggiato di espropriazione di cui sopra e che sulla base degli accertamenti compiuti, ai sensi dell'[articolo 10 della legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841~art10), dal Ministero dell'agricoltura e delle foreste, non ricorrono tutte le condizioni richieste dal citato articolo 10, per escludere dall'esproprio i terreni di cui alla documentazione sopra menzionata;
 
 Udito il parere, in data 4 dicembre 1952, espresso dalla Commissione parlamentare nominata a norma degli [articoli 5 della legge 12 maggio 1950, n. 230 ed 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;1~art5) e 2 della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
 
@@ -39,13 +37,13 @@ Art. 1
 ------
 
   
-E' approvato il piano particolareggiato di espropriazione compilato dall'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino, nei confronti di Baiocchi Adolfo e Bruno, fratelli, fu Angelo, per i terreni ricadenti nel comune di Castellazzara (provincia di Grosseto), per una superficie di ettari 147.52.29, specificamente descritti nell'elenco n. 1 allegato al presente decreto.  
+E' approvato il piano particolareggiato di espropriazione compilato dall'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino, nei confronti di Baiocchi Adolfo e Bruno, fratelli, fu Angelo, relativo ai terreni ricadenti nel comune di Castellazzara (provincia di Grosseto), per una superficie di ettari 339.78.73, specificamente descritti nell'elenco n. 1 allegato al presente decreto.  
 
 Art. 2
 ------
 
   
-I terreni indicati nel precedente articolo sono trasferiti in proprieta' all'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino.  
+I terreni indicati nel precedente articolo sono trasferiti in proprieta all'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino.  
 
 Art. 3
 ------
@@ -59,24 +57,27 @@ Art. 4
   
 L'elenco dei terreni, con l'indicazione dell'indennita' di espropriazione offerta, munito del visto del Ministro proponente, forma parte integrante del presente decreto, che entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
   
-Il presente decreto, munito del sigillo dello stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.  
-  
-Dato a Roma, addi' 27 dicembre 1952  
-  
-EINAUDI  
-  
-DE GASPERI - FANFANI   
-Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte del conti, addi' 15 gennaio 1953  
-Atti del Governo, registro n. 70, foglio 180. - PALLA  
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Dato a Roma, addi' 27 dicembre 1952
+
+EINAUDI DE GASPERI - FANFANI
+
+Visto, il Guardasigilli: ZOLI
+
+Registrato alla Corte dei conti, addi' 15 gennaio 1953
+
+Atti di Governo, registro n. 71, foglio n. 102. - PALLA
 
 Allegato n. 1
 
  ALLEGATO N. 1   
   
-Elenco dei terreni intestati alla ditta Balocchi Adolfo e Bruno fu Angelo, in comune di Castellezzara (provincia di Grosseto), trasferiti in proprieta' dell'Ente per la colonizzazione della Maremma tosco-laziale, e del territorio del Fucino, a norma delle [leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841) e [decreto Presidenziale 7 febbraio 1951, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-02-07;66).   
+Elenco dei terreni intestati alla ditta Baiocchi Adolfo e Bruno fratelli fu Angelo, in comune di Castellazzara (provincia di Grosseto), trasferiti in proprieta' dell'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino, a norma delle [leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841) e [decreto Presidenziale 7 febbraio 1951, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-02-07;66).   
   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=052U379600100010110001&dgu=1953-01-21&art.dataPubblicazioneGazzetta=1953-01-21&art.codiceRedazionale=052U3796)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=052U392100100010110001&dgu=1953-01-22&art.dataPubblicazioneGazzetta=1953-01-22&art.codiceRedazionale=052U3921)
   

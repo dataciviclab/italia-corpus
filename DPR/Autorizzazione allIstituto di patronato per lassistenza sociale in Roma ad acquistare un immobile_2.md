@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 564
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 giugno 1979 n. 918
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 564
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 giugno 1979 n. 918
 =============================================================
 
 Autorizzazione all'Istituto di patronato per l'assistenza sociale, in Roma, ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-564. Decreto del Presidente della Repubblica 4 giugno 1983, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Istituto di patronato per l'assistenza sociale, in Roma, viene autorizzato ad acquistare, al prezzo di L. 106.000.000, un appartamento di sette locali al primo piano e un locale cantina dello stabile sito in Milano, piazza Tricolore n. 3, censito al nuovo catasto edilizio urbano al foglio 354, mappale 230 sub 20-21, di proprieta' delle signore Maria Grazia, Patrizia, Maria Paola Bevilacqua e Maria Maddalena Pelissa ved. Bevilacqua, come da atto di dichiarazione di terzo acquirente 10 settembre 1976, n. 433707 di repertorio, a rogito dott. Giovanni Lainati, notaio in Milano, registrato a Milano in data 20 settembre 1976 al n. 12683, da adibire ad uffici del patronato.  
+918. Decreto del Presidente della Repubblica 22 giugno 1979, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Istituto di patronato, per l'assistenza sociale (IPAS), in Roma, viene autorizzato ad acquistare, al prezzo di L. 24.300.000, un appartamento al piano ammezzato del fabbricato sito in Como, via Varesina n. 1, censito al nuovo catasto edilizio urbano alla partita 1590, foglio 10, mappale 163 sub 10, di proprieta' del sig. Giuseppe De Vizzi, come da atto di promessa di vendita in data 23 dicembre 1976, da adibire a sede dell'ente.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 12 ottobre 1983  
-Registro n. 1 Lavoro, foglio n. 206
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 3 giugno 1980  
+Registro n. 1 Lavoro, foglio n. 110

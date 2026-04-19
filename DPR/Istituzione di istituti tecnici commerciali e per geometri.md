@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1958 n. 1316
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1953 n. 1274
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1958 n. 1316
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1953 n. 1274
+==============================================================
 
 Istituzione di istituti tecnici commerciali e per geometri.
 -----------------------------------------------------------
@@ -10,11 +10,13 @@ Istituzione di istituti tecnici commerciali e per geometri.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Vista la [legge 15 giugno 1931, n. 889](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione tecnica;
+Vista la [legge 15 giugno 1931, n. 889](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento della istruzione tecnica;
 
 Visto il [regio decreto 3 marzo 1934, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383), che approva il testo unico della legge comunale e provinciale;
 
 Visto l'[art. 9 del regio decreto-legge 21 settembre 1938, n. 2038](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-21;2038~art9), convertito nella [legge 2 giugno 1939, n. 739](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739);
+
+Ritenuto che occorre regolarizzare formalmente il funzionamento degli Istituti tecnici commerciali e commerciali e per geometri gia' in atto, per ragioni di servizio, con i relativi organici, dal 1 ottobre 1952;
 
 Sulla
 -----
@@ -25,241 +27,198 @@ Art. 1
 ------
 
   
-A decorrere dal 1 ottobre 1958 vengono istituiti:  
-a) un Istituto tecnico commerciale a indirizzo amministrativo e per geometri in Altamura (Bari);  
-b) un Istituto tecnico commerciale a indirizzo amministrativo in Brescia;  
-c) un Istituto tecnico commerciale a indirizzo amministrativo e per geometri in Carbonia (Cagliari);  
-d) un Istituto tecnico commerciale a indirizzo amministrativo in Corato (Bari);  
-e) un Istituto tecnico commerciale a indirizzo amministrativo e per geometri in Lanciano (Chieti);  
-f) un Istituto tecnico commerciale a indirizzo amministrativo in Manfredonia (Foggia);  
-g) un Istituto tecnico commerciale a indirizzo amministrativo in Milazzo (Messina);  
-h) un Istituto tecnico commerciale a indirizzo amministrativo in Molfetta (Bari)  
-i) un Istituto tecnico commerciale a indirizzo amministrativo in Montepulciano (Siena);  
-l) un Istituto tecnico commerciale a indirizzo amministrativo in Pontremoli (Massa Carrara);  
-m) un Istituto tecnico commerciale a indirizzo amministrativo in Roma, via Luisa di Savoia;  
-n) un Istituto tecnico commerciale a indirizzo amministrativo e per geometri in Roma, via Nicola Fabrizi;  
-o) un Istituto tecnico commerciale a indirizzo amministrativo in Thiene (Vicenza);  
-p) un Istituto tecnico commerciale a indirizzo amministrativo in Torino, via Paolo Braccini;  
-q) un Istituto tecnico commerciale a indirizzo, amministrativo in Valenza (Alessandria);  
-r) un Istituto tecnico commerciale a indirizzo amministrativo e per geometri in Verbania (Novara).  
+A decorrere dal 1 ottobre 1952 vengono istituiti:  
+a) un Istituto tecnico commerciale a indirizzo amministrativo e per geometri in Cassino (Frosinone);  
+b) un Istituto tecnico commerciale a indirizzo amministrativo e per geometri in Castellana (Bari);  
+c) un Istituto tecnico commerciale a indirizzo amministrativo e per geometri in Matera;  
+d) un Istituto tecnico commerciale a indirizzo amministrativo in Merano (Bolzano);  
+e) un Istituto tecnico commerciale a indirizzo amministrativo in Potenza;  
+f) un Istituto tecnico commerciale a indirizzo amministrativo in Roma, via Capo d'Africa;  
+g) un Istituto tecnico commerciale a indirizzo amministrativo in Siderno (Reggio Calabria);  
+h) un Istituto tecnico commerciale a indirizzo amministrativo in Tivoli (Roma).  
 
 Art. 2
 ------
 
   
-A decorrere dal 1 ottobre 1958 vengono istituite:  
-a) la sezione commerciale a indirizzo amministrativo presso l'Istituto tecnico per geometri di Senigallia (Ancona), che assume la denominazione di "Istituto tecnico commerciale a indirizzo amministrativo e per geometri";  
-b) la sezione per geometri presso "l'Istituto tecnico commerciale a indirizzo amministrativo di Bergamo, che assume la denominazione di "Istituto tecnico commerciale a indirizzo amministrativo e per geometri";  
-c) la sezione per geometri presso l'Istituto tecnico commerciale a indirizzo amministrativo di Velletri (Roma), che assume la denominazione di "Istituto tecnico commerciale a indirizzo amministrativo e per geometri".  
+Viene altresi' istituita la sezione per geometri presso i seguenti Istituti tecnici commerciali:  
+a) Istituto tecnico commerciale a indirizzo mercantile di Feltre;  
+b) Istituto tecnico commerciale a indirizzo amministrativo di Massa;  
+c) Istituto tecnico commerciale a indirizzo amministrativo di Nuoro;  
+d) Istituto tecnico commerciale a indirizzo amministrativo di Savona;  
+e) Istituto tecnico commerciale a indirizzo amministrativo di Vicenza.  
+All'Istituto di Vicenza viene aggiunto anche un secondo corso della sezione commerciale.  
 
 Art. 3
 ------
 
   
-I posti di ruolo e quelli da conferirsi per incarico presso ciascuno degli Istituti di cui ai precedenti articoli 1 e 2 sono indicati nelle tabelle A. B, C, D, E, F, G E, I, L. M, N, O, P, Q, R, S, T, U, allegate al presente decreto, firmate, d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione e da quello per il tesoro.  
+I posti di ruolo e quelli da conferirsi per incarico presso ciascuno dei suddetti Istituti sono indicati nelle tabelle A), B), C), D), E), F), G), H), I), L), M), N), O) allegate al presente decreto, firmate, d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione e da quello per il tesoro.  
 
 Art. 4
 ------
 
   
-Alle istituzioni di cui all'art. 1 e a quella di cui all'art. 2 (lettera a), si applicano le norme stabilite dagli [articoli 7](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-21;2038~art7) e [8 del regio decreto-legge 21 settembre 1938, n. 2038](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-21;2038~art8), convertito nella [legge 2 giugno 1939, n. 739](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739).  
-I contributi a carico dello Stato per il mantenimento degli Istituti suddetti sono fissati nella misura indicata nella tabella V annessa al presente decreto, firmata, d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione e da quello per il tesoro.  
+Alle istituzioni di cui all'art. 1 e a quelle di cui all'art. 2 (lettere a), b), c), si applicano le norme stabilite dagli [articoli 7](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-21;2038~art7) e [8 del regio decreto-legge 21 settembre 1938, n. 2038](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-21;2038~art8), convertito nella [legge 2 giugno 1939, n. 739](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739).  
+I contributi a carico dello Stato per il mantenimento degli Istituti suddetti sono fissati nella misura indicata nella tabella P annessa al presente decreto, firmata, d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione e da quello per il tesoro.  
 
 Art. 5
 ------
 
   
-Alla spesa derivante dall'attuazione del presente decreto sara' fatto fronte con l'apposito stanziamento di bilancio per le nuove istituzioni di istituti e scuole di istruzione tecnica commerciale per l'anno 1958-59.  
+Alla spesa necessaria al funzionamento degli Istituti di cui agli articoli 1 e 2 del presente decreto, verra' fatto fronte con i normali stanziamenti di bilancio previsti per le nuove istituzioni di scuole e istituti di istruzione tecnica per l'anno 1952-53.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 ottobre 1958
+### Dato a Roma, addi' 2 maggio 1953
 
-GRONCHI MORO - TAMBRONI - ANDREOTTI
+EINAUDI SEGNI - SCELBA - PELLA
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: DE PIETRO
 
-Registrato alla Corte dei conti, addi' 30 ottobre 1959
+Registrato alla Corte dei conti, addi' 14 luglio 1954
 
-Atti del Governo, registro n. 121, foglio n. 122. - VILLA
+Atti del Governo, registro n. 84, foglio n. 88. - CARLOMAGNO
 
 Tabelle
 
  TABELLA A   
-Tabella organica dell'Istituto tecnico commerciale e per geometri di Altamura   
+  
+Tabella organica dell'Istituto tecnico commerciale e per geometri di Cassino   
   
   
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=053U127400100010110001&dgu=1954-07-22&art.dataPubblicazioneGazzetta=1954-07-22&art.codiceRedazionale=053U1274)
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=058U131600100010110001&dgu=1959-11-05&art.dataPubblicazioneGazzetta=1959-11-05&art.codiceRedazionale=058U1316)
   
   
   
 TABELLA B   
-Tabella organica dell'Istituto tecnico commerciale e per geometri di Bergamo   
+  
+Tabella organica dell'Istituto tecnico commerciale e per geometri di Castellana   
   
   
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=053U127400100010110002&dgu=1954-07-22&art.dataPubblicazioneGazzetta=1954-07-22&art.codiceRedazionale=053U1274)
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=058U131600100010110002&dgu=1959-11-05&art.dataPubblicazioneGazzetta=1959-11-05&art.codiceRedazionale=058U1316)
+  
   
   
   
 TABELLA C   
-Tabella organica dell'istituto tecnico commerciale di Brescia   
+  
+Tabella organica dell'Istituto tecnico commerciale e per geometri di Matera   
   
   
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=053U127400100010110003&dgu=1954-07-22&art.dataPubblicazioneGazzetta=1954-07-22&art.codiceRedazionale=053U1274)
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=058U131600100010110003&dgu=1959-11-05&art.dataPubblicazioneGazzetta=1959-11-05&art.codiceRedazionale=058U1316)
   
   
   
 TABELLA D   
-Tabella organica dell'Istituto tecnico commerciale e per geometri di Carbonia   
+  
+Tabella organica dell'Istituto tecnico commerciale di Merano   
   
   
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=053U127400100010110004&dgu=1954-07-22&art.dataPubblicazioneGazzetta=1954-07-22&art.codiceRedazionale=053U1274)
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=058U131600100010110004&dgu=1959-11-05&art.dataPubblicazioneGazzetta=1959-11-05&art.codiceRedazionale=058U1316)
   
   
   
 TABELLA E   
-Tabella organica dell'Istituto tecnico commerciale di Corato   
+  
+Tabella organica dell'Istituto tecnico commerciale di Potenza   
   
   
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=053U127400100010110005&dgu=1954-07-22&art.dataPubblicazioneGazzetta=1954-07-22&art.codiceRedazionale=053U1274)
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=058U131600100010110005&dgu=1959-11-05&art.dataPubblicazioneGazzetta=1959-11-05&art.codiceRedazionale=058U1316)
   
   
   
 TABELLA F   
-Tabella organica dell'Istituto tecnico commerciale e per geometri di Lanciano il   
+  
+Tabella organica dell'Istituto tecnico commerciale di Roma   
   
   
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=053U127400100010110006&dgu=1954-07-22&art.dataPubblicazioneGazzetta=1954-07-22&art.codiceRedazionale=053U1274)
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=058U131600100010110006&dgu=1959-11-05&art.dataPubblicazioneGazzetta=1959-11-05&art.codiceRedazionale=058U1316)
   
   
   
 TABELLA G   
-Tabella organica dell'Istituto tecnico commerciale di Manfredonia   
+  
+Tabella organica dell'Istituto tecnico commerciale di Siderno   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=058U131600100010110007&dgu=1959-11-05&art.dataPubblicazioneGazzetta=1959-11-05&art.codiceRedazionale=058U1316)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=053U127400100010110007&dgu=1954-07-22&art.dataPubblicazioneGazzetta=1954-07-22&art.codiceRedazionale=053U1274)
+  
   
   
   
 TABELLA H   
-Tabella organica dell'Istituto tecnico commerciale di Milazzo   
+  
+Tabella organica dell'Istituto tecnico commerciale di Tivoli   
   
   
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=053U127400100010110008&dgu=1954-07-22&art.dataPubblicazioneGazzetta=1954-07-22&art.codiceRedazionale=053U1274)
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=058U131600100010110008&dgu=1959-11-05&art.dataPubblicazioneGazzetta=1959-11-05&art.codiceRedazionale=058U1316)
   
   
   
 TABELLA I   
-Tabella organica dell'Istituto tecnico commerciale di Molletta   
+  
+Tabella organica dell'Istituto tecnico commerciale ad indirizzo mercantile e per geometri di Feltre   
   
   
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=053U127400100010110009&dgu=1954-07-22&art.dataPubblicazioneGazzetta=1954-07-22&art.codiceRedazionale=053U1274)
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=058U131600100010110009&dgu=1959-11-05&art.dataPubblicazioneGazzetta=1959-11-05&art.codiceRedazionale=058U1316)
   
   
   
 TABELLA L   
-Tabella organica dell'Istituto tecnico commerciale di Montepulciano   
+  
+Tabella organica dell'Istituto tecnico commerciale e per geometri di Massa   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=058U131600100010110010&dgu=1959-11-05&art.dataPubblicazioneGazzetta=1959-11-05&art.codiceRedazionale=058U1316)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=053U127400100010110010&dgu=1954-07-22&art.dataPubblicazioneGazzetta=1954-07-22&art.codiceRedazionale=053U1274)
+  
   
   
   
 TABELLA M   
-Tabella organica dell'Istituto tecnico commerciale di Pontremoli   
+  
+Tabella organica dell'Istituto tecnico commerciale e per geometri di Nuoro   
   
   
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=053U127400100010110011&dgu=1954-07-22&art.dataPubblicazioneGazzetta=1954-07-22&art.codiceRedazionale=053U1274)
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=058U131600100010110011&dgu=1959-11-05&art.dataPubblicazioneGazzetta=1959-11-05&art.codiceRedazionale=058U1316)
   
   
   
 TABELLA N   
-Tabella organica dell'istituto tecnico commerciale di Roma, via Luisa di Savoia   
+  
+Tabella organica dell'Istituto tecnico commerciale e per geometri di Savona   
   
   
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=053U127400100010110012&dgu=1954-07-22&art.dataPubblicazioneGazzetta=1954-07-22&art.codiceRedazionale=053U1274)
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=058U131600100010110012&dgu=1959-11-05&art.dataPubblicazioneGazzetta=1959-11-05&art.codiceRedazionale=058U1316)
   
   
   
 TABELLA O   
-Tabella organica dell'istituto tecnico commerciale e per geometri di Roma, via N. Fabrizi   
+  
+Tabella organica dell'Istituto tecnico commerciale e per geometri di Vicenza   
   
   
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=053U127400100010110013&dgu=1954-07-22&art.dataPubblicazioneGazzetta=1954-07-22&art.codiceRedazionale=053U1274)
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=058U131600100010110013&dgu=1959-11-05&art.dataPubblicazioneGazzetta=1959-11-05&art.codiceRedazionale=058U1316)
   
   
   
 TABELLA P   
-Tabella organica dell'Istituto tecnico commerciale e per geometri di Senigallia   
+  
+Prospetto dei contributi occorrenti per il funzionamento degli Istituti tecnici commerciali e per geometri statali istituiti dal 1 ottobre 1952   
   
   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=058U131600100010110014&dgu=1959-11-05&art.dataPubblicazioneGazzetta=1959-11-05&art.codiceRedazionale=058U1316)
-  
-  
-  
-TABELLA Q   
-Tabella organica dell'Istituto tecnico commerciale di Thiene   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=058U131600100010110015&dgu=1959-11-05&art.dataPubblicazioneGazzetta=1959-11-05&art.codiceRedazionale=058U1316)
-  
-  
-  
-TABELLA R   
-Tabella organica dell'istituto tecnico commerciale di Torino, via Paolo Braccini   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=058U131600100010110016&dgu=1959-11-05&art.dataPubblicazioneGazzetta=1959-11-05&art.codiceRedazionale=058U1316)
-  
-  
-  
-TABELLA S   
-Tabella organica dell'istituto tecnico commerciale di Valenza   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=058U131600100010110017&dgu=1959-11-05&art.dataPubblicazioneGazzetta=1959-11-05&art.codiceRedazionale=058U1316)
-  
-  
-  
-TABELLA T   
-Tabella organica dell'Istituto tecnico commerciale e per geometri di Verbania   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=058U131600100010110018&dgu=1959-11-05&art.dataPubblicazioneGazzetta=1959-11-05&art.codiceRedazionale=058U1316)
-  
-  
-  
-TABELLA U   
-Tabella organica dell'Istituto tecnico commerciale e per geometri di Velletri   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=058U131600100010110019&dgu=1959-11-05&art.dataPubblicazioneGazzetta=1959-11-05&art.codiceRedazionale=058U1316)
-  
-  
-  
-TABELLA V   
-Tabella del contributi per il funzionamento degli Istituti tecnici commerciali e commerciali e per geometri statali istituiti dal 1 ottobre 1958   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=058U131600100010110020&dgu=1959-11-05&art.dataPubblicazioneGazzetta=1959-11-05&art.codiceRedazionale=058U1316)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=053U127400100010110014&dgu=1954-07-22&art.dataPubblicazioneGazzetta=1954-07-22&art.codiceRedazionale=053U1274)
   

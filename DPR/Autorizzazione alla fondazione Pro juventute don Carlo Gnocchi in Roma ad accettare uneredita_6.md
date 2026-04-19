@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1975 n. 329
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 gennaio 1976 n. 73
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1975 n. 329
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 gennaio 1976 n. 73
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un'eredita'.
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-329. Decreto del Presidente della Repubblica 20 giugno 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.ra Ida Di Gennaro ved. Tarantini con testamento pubblico del 27 dicembre 1967, reso nota a rogito del notaio dott.  
-Alessandro Chieffi in data 16 marzo 1971, n. 76449 di repertorio, registrato a Napoli il 23 marzo 1971 con il n. 7102, mod. 71/4, consistente nella quota parte dell'asse ereditario del valore presunto di L. 19.000.000, dedotte le passivita'.  
+73. Decreto del Presidente della Repubblica 30 gennaio 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla signora Valera Maria Pierina in favore dell'Opera mutilatini don Gnocchi, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi" come ha fatto presente la fondazione medesima, con testamento olografo 25 gennaio 1973 pubblicato a rogito dott. Mario Donati, notaio in Clusone (Bergamo), in data 31 luglio 1973, n. 16331 di repertorio, n. 5612 di raccolta, registrato a Clusone il 9 agosto 1973 con il n. 516, vol. 111-I, consistente in un fabbricato sito in Milano, via Chiesa Rossa n. 31, con annessi mq 70 di terreno del valore presunto di lire 5.000.000, censito al mappale n. 903, gg. 13 sub 1/2, di mq A 114.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 30 luglio 1975  
-Atti di Governo, registro n. 11, foglio n. 42
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 13 marzo 1976  
+Atti di Governo, registro n. 4, foglio n. 12

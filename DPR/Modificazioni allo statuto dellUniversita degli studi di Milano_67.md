@@ -1,73 +1,41 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 marzo 1982 n. 417
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 843
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 marzo 1982 n. 417
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 843
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Art. 16 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze politiche, sono soppressi i seguenti insegnamenti: storia del diritto romano;  
-storia della filosofia;  
-economia e politica agraria;  
-filosofia del diritto.  
-Nel medesimo elenco sono inseriti i seguenti nuovi insegnamenti:  
-storia e istituzioni dell'America latina;  
-teoria e storia della storiografia;  
-storia dello sviluppo economico;  
-diritto del commercio internazionale;  
-diritto internazionale pubblico;  
-economia applicata;  
-finanza degli enti locali;  
-sistemi economici comparati;  
-sistemi giuridici comparati;  
-sociologia della medicina e delle istituzioni sanitarie;  
-sociologia dell'educazione;  
-sociologia della famiglia;  
-sociologia industriale.  
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;.  
+  
+Decreta:  
+  
+L'[art. 2 del decreto presidenziale 31 ottobre 1970, numero 1151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-10-31;1151~art2), relative alla istituzione della facolta' di scienze politiche dell'Universita' degli studi di Milano, e' integrato nel senso che, per i posti di ruolo, ai due posti di professore gia' trasferiti dalla facolta' di giurisprudenza e al posto assegnato sul contingente di cui all'[art. 1 della legge 24 febbraio 1967, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-24;62~art1), occorre aggiungere il posto gia' assegnato alla cattedra di sociologia, che viene trasferito dalla facolta' di giurisprudenza assieme al professore, che tale cattedra occupa; e ai cinque posti di assistente gia' trasferiti occorre aggiungere un altro posto e propriamente il posto assegnato alla medesima cattedra di sociologia.  
+Tali nuovi trasferimenti vanno in vigore a partire dall'anno accademico 1971-72.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 marzo 1982
+### Dato a Roma, addi' 4 agosto 1971
 
-p. Il Presidente della Repubblica Il Presidente del Senato FANFANI BODRATO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 22 giugno 1982
+Registrato alla Corte dei conti, addi' 15 ottobre 1971
 
-Registro n. 82 Istruzione, foglio n. 160
+Atti del Governo, registro n. 244, foglio n. 149. - CARUSO

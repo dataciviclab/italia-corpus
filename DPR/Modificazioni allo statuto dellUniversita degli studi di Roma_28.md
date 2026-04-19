@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 715
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1957 n. 1429
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 715
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1957 n. 1429
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -10,68 +10,161 @@ Modificazioni allo statuto dell'Universita' degli studi di Roma.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successivi;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Veduta la [legge 26 luglio 1957, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-07-26;741);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Dopo l'art. 711, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti articoli relativi alla istituzione della scuola di specializzazione in allergologia e immunologia clinica.  
-  
-Scuola di specializzazione in allergologia e immunologia clinica  
-  
-Art. 712. - La durata del corso di studi per il conseguimento del diploma di specializzazione in allergologia e immunologia clinica e' di tre anni.  
-  
-Art. 713. - Possono ottenere l'iscrizione alla scuola, previo esame di ammissione, i laureati in medicina e chirurgia.  
-Il numero dei posti disponibili per gli allievi e' di 20 per ciascun anno di corso.  
-Al corso si accede superando una prova scritta o orale. Potranno eventualmente ottenere un'abbreviazione di corso coloro i quali sono in possesso di speciali titoli.  
-  
-Art. 714. - Le lezioni saranno integrate da esercitazioni e dimostrazioni pratiche e da conferenze sui singoli argomenti tenute da esperti italiani e stranieri.  
-Al termine di ogni anno di corso gli allievi dovranno sostenere un esame di profitto sulle materie che sono state oggetto di insegnamento.  
-  
-Art. 715. - Per il conseguimento del diploma di specializzazione gli allievi dovranno sostenere davanti all'apposita commissione la discussione di una tesi scritta su un argomento di allergologia e immunologia clinica.  
-  
-Art. 716. - La scuola e' annessa alla III cattedra di patologia speciale medica e metodologia clinica il cui titolare e' anche direttore della scuola.  
-  
-Art. 717. - Le materie di insegnamento sono:  
-1° Anno:  
-1) Basi immunologiche e patogenesi dell'allergia I;  
-2) Istopatologia generale;  
-3) La patologia allergica in riferimento ai diversi agenti etiologici;  
-4) La patologia autoimmune;  
-5) Semeiotica e diagnostica allergologica I.  
-2° Anno:  
-1) Basi immunologiche e patogenesi dell'allergia II;  
-2) Semeiotica e diagnostica allergologica II;  
-3) Patologia dell'allergia dell'apparato respiratorio;  
-4) Allergia e otorinolaringoiatria;  
-5) Le malattie cutanee a patogenesi allergica.  
-3° Anno:  
-1) Clinica dell'allergia dell'apparato respiratorio;  
-2) Allergia e apparato digerente;  
-3) Allergia ed altri organi ed apparati;  
-4) La terapia specifica e aspecifica delle sindromi allergiche;  
-5) Allergopatie professionali.  
+L'art. 53 e' cosi' modificato:   
+"La Facolta' di lettere e filosofia comprende quattro corsi di studi, i quali conducono rispettivamente alle lauree:   
+1) in lettere;   
+2) in filosofia;   
+3) in lingue e letterature straniere moderne;   
+4) in geografia;   
+nonche' le scuole ed il corso di perfezionamento di cui al capitolo 4° del titolo XV.   
+Dopo l'art. 55 e' aggiunto il seguente nuovo articolo, relativo alla istituzione del corso di laurea in lingue e letterature straniere moderne, con il conseguente spostamento della numerazione degli articoli successivi.   
+Art. 56. - Titolo di ammissione al corso di studi per la laurea in lingue e letterature straniere moderne e' il diploma di maturita' classica.   
+Il corso ha la durata di quattro anni e si distingue negli indirizzi europeo ed orientale.   
+Sono insegnamenti costitutivi dell'indirizzo europeo:   
+a) fondamentali:   
+1) Letteratura italiana;   
+2) Letteratura latina;   
+3) Glottologia;   
+4) Una lingua e letteratura straniera moderna;   
+5) Una seconda lingua e letteratura straniera moderna;   
+6) Filologia romanza (o germanica, o slava, o ugro-finnica);   
+7) Storia medioevale;   
+8) Storia moderna;   
+9) Storia dell'arte moderna (o storia dell'arte medioevale e moderna);   
+10) Geografia.   
+b) complementari (quando non siano scelti come fondamentali ai su indicati numeri 4), 5) e 6):   
+1) Lingua e letteratura francese;   
+2) Lingua e letteratura spagnola;   
+3) Lingua e letteratura portoghese;   
+4) Lingua e letteratura romena;   
+5) Lingua e letteratura inglese;   
+6) Lingua e letteratura tedesca;   
+7) Lingua e letteratura olandese e fiamminga;   
+8) Lingue e letterature scandinave;   
+9) Lingua e letteratura russa;   
+10) Lingua e letteratura polacca;   
+11) Lingua e letteratura cecoslovacca;   
+12) Lingua e letteratura serbo-croata;   
+13) Lingua e letteratura slovena;   
+14) Lingua e letteratura bulgara;   
+15) Lingua e letteratura ungherese;   
+16) Lingua e letteratura neo-greca;   
+17) Lingua e letteratura albanese;   
+18) Una lingua e letteratura moderna dell'Asia e dell'Africa;   
+19) Filologia romanza;   
+20) Filologia germanica;   
+21) Filologia slava;   
+22) Filologia ugro-finnica;   
+23) Letteratura anglo-americana;   
+24) Letteratura ispano-americana;   
+25) Letteratura brasiliana;   
+26) Storia della lingua italiana;   
+27) Storia della letteratura italiana moderna e contemporanea;   
+28) Storia delle tradizioni popolari;   
+29) Storia dell'arte medioevale;   
+30) Storia della musica;   
+31) Storia del teatro e dello spettacolo;   
+32) Letteratura greca;   
+33) Lingua e letteratura latina medioevale;   
+34) Filologia e storia bizantina;   
+35) Storia romana;   
+36) Storia greca;   
+37) Storia dell'Europa orientale;   
+38) Storia della filosofia;   
+39) Storia della filosofia moderna e contemporanea;   
+40) Filosofia del linguaggio.   
+Sono insegnamenti costitutivi dell'indirizzo orientale:   
+a) fondamentali:   
+1) Letteratura italiana;   
+2) Letteratura latina;   
+3) Glottologia;   
+4) Una lingua e letteratura moderna dell'Asia o dell'Africa;   
+5) Una seconda lingua e letteratura dell'Asia o dell'Africa;   
+6) Un insegnamento storico-filologico orientale;   
+7) Storia medioevale (o storia e filologia bizantina);   
+8) Storia moderna;   
+9) Storia dell'arte medioevale (o dell'arte moderna, o dell'arte musulmana e copia, o dell'arte dell'India e dell'Asia centrale);   
+10) Geografia.   
+b) complementari (quando non siano scelti come fondamentali ai su indicati numeri 4), 5) e 6):   
+1) Una lingua e letteratura moderna europea;   
+2) Una seconda lingua e letteratura moderna europea;   
+3) Letteratura greca;   
+4) Storia greca;   
+5) Storia delle religioni;   
+6) Storia della filosofia;   
+7) Etnologia;   
+8) Africanistica;   
+9) Islamistica;   
+10) Egittologia;   
+11) Assiriologia e archeologia orientale;   
+12) Storia orientale antica;   
+13) Storia religiosa dell'Oriente cristiano;   
+14) Storia del Cristianesimo;   
+15) Storia e geografia dell'Asia orientale;   
+16) Religioni e filosofie dell'India e dell'Estremo Oriente;   
+17) Filologia semitica;   
+18) Filologia iranica;   
+19) Filologia e antichita' libico-berbere;   
+20) Ebraico;   
+21) Epigrafia semitica;   
+22) Storia, lingue e letterature dell'Etiopia;   
+23) Lingua e letteratura copta;   
+24) Lingue non semitiche dell'Africa orientale;   
+25) Lingua e letteratura araba;   
+26) Dialetti arabi;   
+27) Lingua e letteratura armena;   
+28) Lingua e letteratura persiana;   
+29) Lingua e letteratura siriaca;   
+30) Lingua e letteratura turca;   
+31) Lingua e letteratura giapponese;   
+32) Lingua e letteratura cinese;   
+33) Indologia;   
+34) Lingue arte moderne dell'India (indostano e bengalico);   
+35) Storia dell'arte medioevale;   
+36) Storia dell'arte moderna;   
+37) Storia dell'arte musulmana e copta;   
+38) Storia dell'arte dell'India e dell'Asia centrale;   
+39) Storia medioevale;   
+40) Filologia e storia bizantina.   
+Entro il 31 dicembre del secondo anno di corso, lo studente deve presentare agli effetti dell'art. 58, il piano di studio, dichiarando l'indirizzo prescelto e la lingua e letteratura straniera moderna, a cui intende principalmente dedicarsi.   
+Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali dell'indirizzo prescelto e in tre altri insegnamenti scelti tra i complementari dello stesso indirizzo. Tuttavia uno degli insegnamenti complementari puo' essere sostituito dallo studente con una disciplina di altri corsi di studi della stessa o di diversa Facolta'.   
+L'insegnamento della lingua e letteratura straniera moderna, alla quale lo studente intende principalmente dedicarsi, deve essere seguito per tutti i quattro anni, alla fine di ciascuno dei quali egli sara' sottoposto a prove scritte, di anno in anno gradualmente progressive.   
+Devono poi essere seguiti per due anni l'insegnamento della filologia a cui quella stessa prima lingua si ricollega, e l'insegnamento della seconda lingua e letteratura straniera moderna prescelta.   
+Due altri insegnamenti fondamentali devono pure essere seguiti per un biennio. Lo studente puo' poi seguire per un biennio anche un altro insegnamento; ed in tal caso puo' ridurre da tre a due gli insegnamenti complementari di sua scelta.   
+Gli esami di letteratura italiana e di letteratura latina comprendono una prova scritta preliminare.   
+Nel diploma di laurea deve essere fatta esplicita menzione della lingua e letteratura straniera moderna, a cui il laureato si e' specialmente dedicato.   
+Art. 59. - Il primo comma e' abrogato e sostituito dal seguente:   
+"L'esame di laurea consiste nella discussione orale di una dissertazione scientifica e nello svolgimento di una prova scritta preliminare, dalla quale sono tuttavia dispensati gli studenti del corso di laurea in lingue e letterature straniere moderne".   
+L'ultimo comma e' abrogato e sostituito dal seguente:   
+"La dissertazione scientifica verte sopra un argomento liberamente scelto dal candidato, d'intesa con un professore o con un libero docente, nell'ambito degli insegnamenti predetti. Per i candidati alla laurea in lingue e letterature straniere moderne e' ammesso nella dissertazione l'uso della lingua prescelta".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1974
+### Dato a Roma, addi' 31 ottobre 1957
 
-LEONE MALFATTI
+GRONCHI MORO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 16 gennaio 1975
+Registrato alla Corte dei conti, addi' 18 marzo 1958
 
-Atti di Governo, registro n. 7, foglio n. 113
+Atti del Governo, registro n. 111, foglio n. 155. - RELLEVA

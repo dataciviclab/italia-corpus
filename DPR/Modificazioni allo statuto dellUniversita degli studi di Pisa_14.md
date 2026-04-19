@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 716
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1956 n. 1147
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 716
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1956 n. 1147
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -12,11 +12,12 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pisa approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con il [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con i [regi decreti 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2225); [20 settembre 1928, n. 2251](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1928-09-20;2251); [31 ottobre 1929, n. 2473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1929-10-31;2473); [30 ottobre 1930, n. 1916](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1916); [22 ottobre 1931, n. 1339](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-22;1339); [27 ottobre 1932, n. 2098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2098); [13 dicembre 1934, n. 2408](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-13;2408); [1 ottobre 1936, n. 2462](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2462); [27 ottobre 1937, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1937-10-27;2170); [9 maggio 1939, n. 1314](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-05-09;1314); [5 ottobre 1939, n. 1744](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1744); [26 ottobre 1940, n. 2071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2071); [27 aprile 1942, n. 469](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;469); [24 ottobre 1942, n. 1652; e con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1652) [30 dicembre 1947, n. 1689 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1689) [17 febbraio 1949, n. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-17;97); [30 ottobre 1949, n. 1169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1169); [31 ottobre 1950, n. 1309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1309); [11 aprile 1951, n. 566](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;566); [27 ottobre 1951, n. 1801](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1801); [25 marzo 1952, n. 872](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-03-25;872); [25 luglio 1952, n. 1351](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1351); [12 settembre 1952, n. 386](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-12;386); [30 ottobre 1952, n. 4558](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-30;4558); [11 marzo 1953, n. 546](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;546); [11 marzo 1953, n. 756](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;756); [6 ottobre 1953, n. 1089](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-10-06;1089); [23 marzo 1954, n. 743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-23;743); [10 aprile 1954, n. 737](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-10;737); [26 ottobre 1954, n. 1294](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-26;1294); [11 aprile 1955, n. 625](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-04-11;625); [2 agosto 1955, n. 909](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-08-02;909) e [4 ottobre 1955, n. 1085](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-10-04;1085);  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -24,157 +25,21 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 250, 251, 252, 253, relativi alla "Scuola di perfezionamento in pediatria" che muta la denominazione in quella di "Scuola di specializzazione in clinica pediatrica", sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in clinica pediatrica  
-  
-Art. 250. - La scuola ha la durata di tre anni, ha sede nella clinica pediatrica il cui professore di ruolo e' il direttore della scuola.  
-Art. 251. - Le materie di insegnamento sono le seguenti:  
-A) Fondamentali.  
-1° Anno:  
-1) Clinica pediatrica (triennale);  
-2) Patologia pediatrica (biennale) (1° e 2° anno);  
-3) Puericultura (biennale) (1° e 2° anno);  
-4) Semeiotica pediatrica e tecnica diagnostica (biennale) (1° e 2° anno);  
-5) Auxologia normale e patologica (annuale);  
-6) Psicologia dell'eta' evolutiva (annuale);  
-2° Anno:  
-5) Terapia pediatrica (annuale);  
-6) Radiologia pediatrica (annuale);  
-7) Malattie infettive dell'infanzia (annuale);  
-3° Anno:  
-Neuropsichiatria ed igiene mentale dell'infanzia.  
-B) Complementari:  
-Chirurgia pediatrica;  
-Ortopedia e traumatologia infantile;  
-Odontoiatria;  
-Clinica dermosifilopatica;  
-Clinica oculistica;.  
-Clinica otorinolaringoiatrica;  
-Genetica;  
-Cardiologia.  
-Gli allievi sono tenuti a frequentare e a sostenere gli esami delle materie fondamentali, e di almeno 3 scelte fra le complementari, e a frequentare la clinica pediatrica in qualita' di interni per 10 mesi ogni anno.  
-Art. 252. - L'ammissione al corso avviene per concorso per esame e titoli. Puo' essere accordato un abbreviamento di un anno per coloro che siano in possesso di diploma di specializzazione in puericultura ed abbiano titoli di pediatria. Il numero massimo di iscritti e' di venti per ogni anno.  
-Art. 253. - Gli esami di profitto sono dati per gruppo alla fine di ogni anno di corso. Al termine del terzo anno gli iscritti dovranno superare l'esame di diploma presentando e discutendo una tesi scritta su argomento di pediatria.  
-Gli articoli 254, 255, 256, 257, relativi alla "Scuola di specializzazione in ostetricia e ginecologia", sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in ostetricia e ginecologia  
-  
-Art. 254. - La scuola ha la durata di quattro anni, ha sede presso la clinica ostetrico-ginecologica il cui professore di ruolo e' direttore della scuola.  
-Art. 255. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) Elementi di genetica ed eugenica;  
-2) Anatomia normale ed embriologica dell'apparato genitale femminile;  
-3) Fisiologia dell'apparato genitale femminile;  
-4) Endocrinologia fisiologica;  
-5) Fisiologia ostetrica;  
-6) Diagnostica ostetrica;  
-7) Clinica ostetrica e ginecologica.  
-2° Anno:  
-1) Tecnica operatoria ostetrica;  
-2) Diagnostica ginecologica;  
-3) Tecnica diagnostica di laboratorio nel campo ostetrico-ginecologico, esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);  
-4) Clinica ostetrico-ginecologica.  
-3° Anno:  
-1) Anatomia patologica ostetrica e ginecologica;  
-2) Istologia normale e patologica nel campo della specialita';  
-3) Puericultura prenatale;  
-4) Emoterapia nel campo ostetrico e ginecologico;  
-5) Anestesia e analgesia nel campo ostetrico e ginecologico;  
-6) Tecnica operatoria ginecologica;  
-7) Clinica ostetrica e ginecologica;  
-8) Terapia medica ostetrica e ginecologica.  
-4° Anno:  
-1) Puericultura postnatale e malattie del neonato;  
-2) Ostetricia e ginecologia forense;  
-3) Diagnostica roentgen, radioterapia in ostetricia e ginecologia;  
-4) Clinica ostetrica e ginecologica (esame alla fine del 4° anno);  
-5) Urologia ginecologica;  
-6) Chirurgia addominale estra genitale.  
-Art. 256. - La scuola accoglie dieci allievi per anno, gli iscritti devono frequentare le lezioni e le esercitazioni e devono prestare servizio nella clinica, analogo a quello degli assistenti per non meno di nove mesi all'anno.  
-Art. 257. - Alla fine di ogni anno avra' luogo un esame di profitto per gruppi di materie in una sola sessione con presentazione di casi clinici.  
-Alla fine del quadriennio ha luogo l'esame di diploma con presentazione di una dissertazione scritta.  
-Gli articoli 258, 259, 260, 261, relativi alla "Scuola di specializzazione in otorinolaringoiatria" che muta la denominazione in quella di "Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale", sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in otorinolaringoiatria e patologia cervico facciale  
-  
-Art. 258. - La scuola ha la durata di tre anni, ha sede presso la clinica otorinolaringoiatrica il cui professore di ruolo e' il direttore della scuola.  
-Art. 259. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) Anatomia;  
-2) Fisiologia;  
-3) Audiologia (1° anno);  
-4) Semeiotica otorinolaringoiatrica;  
-5) Tecnica di laboratorio;  
-6) Patologia e clinica otorinolaringoiatrica e cervicofacciale (1° anno);  
-7) Anatomia e istologia patologica otorinolaringoiatrica.  
-2° Anno:  
-1) Tecniche operatorie in otorinolaringoiatria;  
-2) Anestesiologia in otorinolaringoiatria;  
-3) Patologia e clinica otorinolaringoiatrica e cervicofacciale (2° anno);  
-4) Radiologia in rapporto con l'otorinolaringoiatria;  
-5) Pediatria in rapporto con l'otorinolaringoiatria;  
-6) Audiologia (2° anno);  
-7) Otoneurologia;  
-8) Foniatria.  
-3° Anno:  
-1) Patologia e clinica otorinolaringoiatrica e cervicofacciale;  
-2) Terapia medica e fisica in otorinolaringoiatria;  
-3) Neuropatologia in rapporto con l'otorinolaringoiatria;  
-4) Oculistica in rapporto con l'otorinolaringoiatria;  
-5) Chirurgia plastica;  
-6) Tracheo-broncoscopia;  
-7) Medicina legale ed infortunistica in otorinolaringoiatria.  
-Art. 260. - La scuola accoglie un numero massimo di iscritti di otto l'anno.  
-Gli allievi sono tenuti a seguire le lezioni e le esercitazioni ed a prestare servizio identico a quello degli assistenti per sei mesi dell'anno.  
-Art. 261. - Gli esami di profitto sono dati per gruppi di materie alla fine di ogni anno. Al termine del triennio avra' luogo l'esame di diploma su una dissertazione scritta.  
-Gli articoli 296, 297, 298, 299, 300, relativi alla "Scuola di specializzazione in odontoiatria e protesi dentaria" sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in odontoiatria e protesi dentaria  
-  
-Art. 296. - La scuola ha la durata di tre anni. Ha sede presso la clinica odontoiatrica il cui professore di ruolo e' direttore della scuola.  
-Art. 297. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) Embriologia e anatomia dentaria e maxillo facciale;  
-2) Microbiologia ed igiene orale;  
-3) Farmacologia;  
-4) Patologia odontostomatologica;  
-5) Odontotecnica;  
-6) Anestesia e chirurgia stomatologica;  
-7) Odontoiatria conservativa (1° anno) (biennale);  
-Esercitazioni pratiche.  
-2° Anno:  
-1) Odontoiatria conservativa (2° anno);  
-2) Clinica protesica dentaria e maxillo-facciale (1° anno) (biennale);  
-3) Paradontologia (1° anno) (biennale);  
-4) Anatomia e istologia odontostomatologica;  
-5) Odontoiatria infantile;  
-6) Radiologia odontostomatologica;  
-7) Ortopedia dento-maxillo-facciale (1° anno) (biennale);  
-8) Chirurgia maxillo-facciale (1° anno) (biennale);  
-Esercitazioni pratiche.  
-3° Anno:  
-1) Clinica odontostomatologica;  
-2) Chirurgia maxillo-facciale (1° anno);  
-3) Medicina legale odontostomatologica e delle assicurazioni;  
-4) Ortopedia dento-maxillo-facciale (2° anno);  
-5) Clinica protesica dentaria e maxillo-facciale (2° anno);  
-6) Paradeontologia (2° anno);  
-Esercitazioni pratiche.  
-Art. 298. - L'insegnamento verra' impartito con corsi dottrinali ed esercitazioni pratiche. Saranno tenute conferenze su argomenti inerenti la specialita'. Gli allievi saranno tenuti ad eseguire costruzioni di apparecchi che saranno giudicati alla fine di ogni anno.  
-Art. 299. - Gli iscritti hanno l'obbligo di frequentare le lezioni, le esercitazioni tecniche e gli ambulatori per l'intero anno scolastico. Il numero massimo e' di trentasei in tre anni.  
-Art. 300. - Alla fine di ogni anno gli iscritti dovranno sostenere un esame di profitto sulle materie di insegnamento.  
+Art. 31. - Il secondo comma e' abrogato.  
+Art. 33. - E' sostituito dal seguente:  
+"Il Consiglio direttivo del seminario e' costituito dai professori di ruolo e fuori ruolo della Facolta' giuridica; esso elegge, nel proprio seno, un direttore con facolta' di conferma".  
+Art. 38. - Il secondo comma e' cosi' modificato:  
+"Gli Istituti sono retti dal Consiglio dei rispettivi professori di ruolo e non di ruolo, con un direttore nominato ogni anno dal rettore su proposta del Consiglio della Facolta' di giurisprudenza".  
+Art. 89. - Agli insegnamenti complementari del corso di laurea in farmacia e' aggiunto quello di "chimica farmaceutica applicata".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 ottobre 1972
+### Dato a Roma, addi' 5 settembre 1956
 
-LEONE SCALFARO
+GRONCHI ROSSI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MORO
 
-Registrato alla Corte dei conti, addi' 21 novembre 1972
-
-Atti del Governo, registro n. 253, foglio n. 61. - CARUSO
+Atti del Governo, registro n. 100, foglio n. 46. - CARLOMAGNO

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1116
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1120
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1116
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1120
 ===============================================================
 
 Rettifica al decreto del Presidente della Repubblica 19 ottobre 1979, n. 637, recante modificazioni allo statuto dell'Universita' degli studi di Roma.
@@ -10,21 +10,21 @@ Rettifica al decreto del Presidente della Repubblica 19 ottobre 1979, n. 637, re
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto del 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto del 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni.
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le delibere delle autorita' accademiche dell'Universita' anzidetta, trasmesse con la rettorale numero G. 95803 del 25 maggio 1981;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Veduto il [decreto del Presidente della Repubblica 19 ottobre 1979, n. 637, pubblicato nella Gazzetta Ufficiale n. 349 del 24 dicembre 1979](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1979-12-24&numeroGazzetta=349);
+Veduta la rettorale n. G 111930 del 12 ottobre 1981;
 
-Riconosciuta la particolare necessita' di apportare alcune rettifiche al decreto del Presidente della Repubblica n. 637 sopra citato, dovute ad errori materiali;
+Sentito il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
@@ -37,30 +37,13 @@ Articolo unico
 --------------
 
   
-  
-  
-ERRATA CORRIGE  
-Art. 129, c) Istituto di  
-automatica:  
-10) Metodologia di program- 10) Metodologie di program- mazione mazione  
-Art. 129, e) Istituto di  
-chimica applicata e indu-  
-striale:  
-14) Processo di trattamento 14) Processo di trattamen- degli affluenti indu- to degli effluenti in- striali industriali  
-Art. 129:  
-\*) Servizio di calcolo \*) Istituto di servizio di calcolo  
-Art. 131, corso di laurea  
-in ingegneria chimica:  
-\*15) Impianti chimici \*15) Impianti chimici I  
-124) Processo di trattamen- 124) Processo di trattamento to degli affluenti in- mento degli effluenti dustriali industriali  
-138) Scienza dei materiali 138) Scienza dei materiali  
-II (anziche tecniche II  
-sperimentali per la  
-caratterizzazione dei  
-materiali non metalli-  
-ci)  
-Art. 134:  
-\*11) Costruzione di strade \*11) Costruzioni di strade, ferrovie e aeroporti ferrovie ed aeroporti   
+Nell'art. 129 l'estensione temporale dell'insegnamento di "bonifica ed irrigazione" compreso nell'elenco degli insegnamenti afferenti all'istituto di costruzioni idrauliche e' rettificata da annuale in semestrale;  
+la denominazione dell'insegnamento di "scienza delle costruzioni (meccanici, aeronautici)" compreso nell'elenco degli insegnamenti afferenti all'istituto di scienza delle costruzioni, e' rettificata in "scienza delle costruzioni (aeronautici, meccanici)";  
+nell'elenco degli insegnamenti afferenti all'istituto di elettrotecnica e' inserito l'insegnamento di "elettrotecnica (edili)".  
+Nell'art. 132 la denominazione dell'insegnamento di "elettrotecnica (civili)" del triennio di applicazione del corso di laurea in ingegneria civile (sezione edile) e' rettificata in "elettrotecnica (edili)".  
+Nell'art. 137 la denominazione dell'insegnamento di "idraulica (chimici, meccanici, minerari)" del triennio di applicazione del corso di laurea in ingegneria meccanica e' rettificata in "idraulica (aeronautici, chimici, meccanici, minerari)";  
+Nell'art. 139 la denominazione dell'insegnamento di "misure e strumentazione nucleari" del triennio di applicazione del corso di laurea in ingegneria nucleare e' rettificata in "misure e strumentazioni nucleari";  
+Nell'art. 140, concernente l'elenco degli insegnamenti complementari della facolta' di ingegneria, l'estensione temporale dell'insegnamento di bonifica ed irrigazione e' rettificata da annuale in semestrale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
@@ -74,4 +57,4 @@ Visto, il Guardasigilli: DARIDA
 
 Registrato alla Corte dei conti, addi' 16 marzo 1982
 
-Registro n. 42 Istruzione, foglio n. 178
+Registro n. 42 Istruzione, foglio n. 177

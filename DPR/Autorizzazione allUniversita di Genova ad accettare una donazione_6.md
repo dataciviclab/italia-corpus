@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1954 n. 222
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1954 n. 693
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1954 n. 222
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1954 n. 693
+=============================================================
 
 Autorizzazione all'Universita' di Genova ad accettare una donazione.
 --------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-222. Decreto del Presidente della Repubblica 8 febbraio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Genova viene autorizzata ad accettare la donazione di L. 400.000 nominali, costituita da un titolo di L. 200.000 Rendita italiana 5% 1935 con cedola 1 luglio 1951 e da altro titolo di L. 200.000 Rendita italiana 5% 1935, con cedola 1 luglio 1952, disposta in suo favore, con atto pubblico amministrativo 23 aprile 1952, dal professore Mario Barbara, direttore dell'Istituto di scienza delle costituzioni umane dell'Universita' di Genova, per l'istituzione, con la rendita dei predetti titoli, di un premio biennale di studio da intitolarsi al nome "Cap. cav. Ernesto Anselmi" e da conferirsi ad un laureato in medicina e chirurgia, che abbia svolto il miglior lavoro sopra argomento di medicina costituzionalistica.  
+693. Decreto del Presidente della Repubblica 19 maggio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Genova viene autorizzata ad accettare la donazione di L. 600.000 contanti, da impiegarsi nell'acquisto di titoli di Stato fruttanti l'interesse annuo del 5%, disposta in suo favore dal prof. Eugenio Giuseppe Togliatti, a nome dell'apposito Comitato, con atto pubblico amministrativo 12 ottobre 1953, per l'istituzione, con la relativa rendita, di un premio di studio biennale intitolato "Premio Gino Loria" e da conferirsi, mediante concorso per titoli, ad un laureato del precedente triennio, che abbia conseguito la laurea in matematica, oppure in matematica e fisica, oppure in fisica presso l'Universita' di Genova, discutendo una dissertazione di laurea originale su argomento matematico.  
   
 Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 15 maggio 1954  
-Atti del Governo, registro n. 83, foglio n. 53. - CARLOMAGNO
+Registrato alla Corte dei conti, addi' 13 agosto 1954  
+Atti del Governo, registro n. 85, foglio n. 39. - TEMPESTA

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1970 n. 449
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1964 n. 892
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1970 n. 449
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1964 n. 892
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificati con regio decreto 56 ottobre 1939 n. 1743, e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,7 +20,7 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita', anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -32,236 +32,72 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 13. - Nell'elenco degli insegnamenti complementari del corso di laurea in scienze politiche l'insegnamento complementare di "lingua araba" e' soppresso.
+Art. 12. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di "Diritto fallimentare".
 
-Nello stesso articolo dopo il sesto comma e' inserito il seguente nuovo comma:
+Art. 27. - All'elenco degli Istituti annessi alla Facolta' di economia e commercio e' aggiunto il seguente:
 
-"I corsi di lingua sono triennali. Al termine di ciascun anno lo studente dovra' sostenere un esame scritto ed orale".
+"Istituto di matematica finanziaria".
 
-Gli articoli 14, 15, 16, 17, 19 e 20 relativi ai corsi di laurea in giurisprudenza ed in scienze politiche sono abrogati e sostituiti dai seguenti:
+Art. 35. - Dall'elenco degli insegnamenti complementari del corso di laurea in Materie letterarie e' soppresso quello di "Istituzioni giuridiche ed economiche della Sardegna" e sostituito con quello di "Storia delle istituzioni giuridiche ed economiche della Sardegna".
 
-Art. 14. - I laureati in giurisprudenza che intendono conseguire la laurea in scienze politiche sono iscritti al terzo anno di corso previo esame dal quale risulti una elementare conoscenza delle due lingue moderne straniere da essi prescelte. Essi dovranno sostenere gli esami dei seguenti insegnamenti fondamentali:
+Art. 36. - All'elenco degli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di:
 
-1) Storia moderna (biennale);
+Storia della filosofia contemporanea;
 
-2) Storia delle dottrine politiche;
+Storia della pedagogia;
 
-3) Geografia politica ed economica;
+Storia e critica del cinema;
 
-4) Statistica;
+Sociologia;
 
-5) Politica economica e finanziaria;
+Antropologia culturale;
 
-6) Storia ed istituzione dei paesi afro-asiatici;
+Psicologia dell'eta' evolutiva Storia delle istituzioni giuridiche ed economiche della Sardegna.
 
-7) Storia dei trattati e politica internazionale;
+L'insegnamento complementare di "Istituzioni giuridiche ed economiche della Sardegna", e' soppresso.
 
-8) Diritto costituzionale italiano e comparato;
+Art. 37. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere e' aggiunto quello di:
 
-9) Dottrina dello Stato.
+"Letteratura anglo-americana".
 
-Inoltre dovranno seguire i corsi e sostenere le prove di esame in due lingue moderne straniere, almeno una delle quali deve essere la francese, l'inglese o la tedesca; per l'altra e' consentita la scelta fra quelle effettivamente insegnate nelle facolta' dell'ateneo.
+Art. 49. - All'elenco degli Istituti della Facolta' di magistero sono aggiunti i seguenti:
 
-Art. 15. - I laureati in scienze politiche che intendono conseguire la laurea in giurisprudenza sono iscritti al terzo anno di corso con l'obbligo di sostenere gli esami nei seguenti insegnamenti fondamentali:
+Istituto di pedagogia;
 
-1) Istituzioni di diritto romano;
+Istituto di psicologia e sociologia.
 
-2) Storia del diritto romano;
+L'Istituto di "Pedagogia e sociologia" e' soppresso.
 
-3) Filosofia del diritto;
+Art. 50. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di:
 
-4) Scienza delle finanze e diritto finanziario;
-
-5) Diritto commerciale;
-
-6) Diritto ecclesiastico;
-
-7) Storia del diritto italiano (biennale);
-
-8) Diritto romano (biennale);
-
-9) Diritto civile (biennale);
-
-10) Diritto penale (biennale);
-
-11) Procedura penale;
-
-12) Diritto processuale civile.
-
-Art. 16. I laureati in economia e commercio, forniti di diploma di maturita' classica o scientifica che intendono conseguire la laurea in giurisprudenza sono iscritti al terzo anno di corso con l'obbligo di sostenere gli esami nei seguenti insegnamenti fondamentali:
-
-1) Istituzioni di diritto romano;
-
-2) Storia del diritto romano;
-
-3) Filosofia del diritto;
-
-4) Diritto ecclesiastico;
-
-5) Storia del diritto italiano (biennale);
-
-6) Diritto amministrativo (biennale);
-
-7) Diritto romano (biennale);
-
-8) Diritto penale (biennale);
-
-9) Diritto civile (biennale);
-
-10) Diritto internazionale;
-
-11) Diritto processuale civile;
-
-12) Procedura penale.
-
-Art. 17. - I laureati in economia e commercio, forniti di diploma di maturita' classica o scientifica, che intendono conseguire la laurea in scienze politiche sono iscritti al terzo anno di corso con l'obbligo di sostenere gli esami nei seguenti insegnamenti fondamentali:
-
-1) Storia delle dottrine politiche;
-
-2) Diritto costituzionale italiano e comparato;
-
-3) Storia ed istituzioni dei paesi afro-asiatici;
-
-4) Istituzioni di diritto e procedura penale;
-
-5) Storia moderna (biennale);
-
-6) Diritto internazionale;
-
-7) Dottrina dello Stato;
-
-8) Storia dei trattati e politica internazionale;
-
-9) Diritto amministrativo (biennale).
-
-Art. 19. - Lo studente di giurisprudenza non puo' sostenere gli esami:
-
-a) di diritto romano se non abbia superato l'esame di istituzioni di diritto romano;
-
-b) di diritto civile, di diritto commerciale, se non abbia superato quello di diritto privato.
-
-L'esame di diritto penale deve precedere quello di antropologia criminale.
-
-L'esame di statistica deve precedere quello di demografia.
-
-L'esame di istituzioni di diritto privato deve precedere quello di diritto agrario.
-
-Gli esami di diritto costituzionale, di istituzioni di diritto privato, di diritto processuale civile devono precedere quello di diritto amministrativo.
-
-Gli esami di istituzioni di diritto privato e istituzioni di diritto romano devono precedere quello di diritto civile.
-
-Gli esami di economia politica, di istituzioni di diritto privato e di istituzioni di diritto romano devono precedere quello di diritto commerciale.
-
-L'esame di storia del diritto italiano deve precedere quello di diritto comune.
-
-L'esame di diritto commerciale e quello di diritto costituzionale devono precedere quello di diritto del lavoro.
-
-L'esame di diritto internazionale deve precedere quello di diritto diplomatico e consolare.
-
-L'esame di diritto commerciale deve precedere quello di diritto della navigazione.
-
-L'esame di diritto commerciale deve precedere quello di diritto fallimentare.
-
-L'esame di diritto costituzionale deve precedere quello di diritto penale.
-
-Gli esami di istituzioni di diritto privato e istituzioni di diritto romano devono precedere quello di diritto privato comparato.
-
-Gli esami di diritto costituzionale e di istituzioni di diritto privato devono precedere quello di diritto ecclesiastico.
-
-L'esame di diritto commerciale deve precedere quello di diritto industriale.
-
-Gli esami di diritto costituzionale, istituzioni di diritto privato e di diritto processuale civile devono precedere quello di diritto internazionale.
-
-Gli esami di diritto costituzionale, istituzioni di diritto privato devono precedere quello di diritto processuale civile.
-
-Gli esami di istituzioni di diritto privato, istituzioni di diritto romano e storia del diritto romano devono precedere quello di diritto romano.
-
-Gli esami di istituzioni di diritto privato, istituzioni di diritto romano e storia del diritto romano devono precedere quello di esegesi delle fonti del diritto romano.
-
-L'esame di storia del diritto italiano deve precedere quello di esegesi delle fonti del diritto italiano.
-
-L'esame di diritto del lavoro deve precedere quello di legislazione del lavoro.
-
-Gli esami di diritto penale e istituzioni di diritto privato devono precedere quello di medicina legale.
-
-L'esame di diritto internazionale deve precedere quello di organizzazione internazionale.
-
-L'esame di diritto costituzionale deve precedere quello di procedura penale.
-
-L'esame di economia politica deve precedere quello di scienza delle finanze e diritto finanziario.
-
-Gli esami di istituzioni di diritto privato, istituzioni di diritto romano e storia del diritto romano devono precedere quello di storia del diritto italiano.
-
-Art. 20. - Lo studente di scienze politiche non e' ammesso a sostenere:
-
-a) nessun esame di diritto privato o pubblico senza aver rispettivamente superato gli esami di istituzioni di diritto privato o di diritto pubblico;
-
-b) l'esame di politica economica e finanziaria se non ha superato l'esame di economia politica;
-
-c) gli esami di storia e politica coloniale e di storia dei trattati e politica internazionale se non ha superate l'esame di storia moderna.
-
-Gli esami di istituzioni di diritto pubblico e scienza delle finanze devono precedere quello di contabilita' dello Stato.
-
-L'esame di statistica deve precedere quello di demografia.
-
-Gli esami di istituzioni di diritto privato e istituzioni di diritto pubblico devono precedere quello di diritte amministrativo.
-
-L'esame di istituzioni di diritto pubblico deve precedere quello di diritto costituzionale italiano e comparato.
-
-Gli esami di istituzioni di diritto privato e istituzioni di diritto pubblico devono precedere quello di diritte del lavoro.
-
-Gli esami di istituzioni di diritto privato e di istituzioni di diritto pubblico devono precedere quello di diritto internazionale.
-
-L'esame di economia politica deve precedere quelle di economia e politica agraria.
-
-L'esame di istituzioni di diritto pubblico deve precedere quello di istituzioni di diritto e procedura penale.
-
-L'esame di diritto del lavoro deve precedere quelle di legislazione del lavoro.
-
-L'esame di diritto internazionale deve precedere quello di organizzazione internazionale.
-
-L'esame di economia politica deve precedere quello di politica economica e finanziaria.
-
-L'esame di economia politica deve precedere quello di scienza delle finanze.
-
-L'esame di statistica deve precedere quello di statistica economica.
-
-L'esame di storia moderna deve precedere quello di storia dei partiti politici.
-
-L'esame di diritto internazionale deve precedere quello di storia dei trattati e politica internazionale.
-
-L'esame di storia moderna deve precedere quello di storia dei trattati e politica internazionale.
-
-Gli esami di storia moderna e diritto internazionale devono precedere quello di storia ed istituzioni dei paesi afro-asiatici.
-
-L'esame di storia moderna deve precedere quello di storia politica ed economica della Sardegna.
+"Clinica chirurgica pediatrica".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 12 maggio 1970
+Dato a Roma, addi' 12 luglio 1964
 
-SARAGAT
+SEGNI
 
-MISASI
+GUI
 
 Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 2 luglio 1970 Atti del Governo, registro n. 236, foglio n. 103. - CARUSO
+alla Corte dei conti, addi' 7 ottobre 1964 Atti del Governo, registro n. 187, foglio n. 72. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificati con regio decreto 56 ottobre 1939 n. 1743, e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita', anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -269,121 +105,37 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 13. - Nell'elenco degli insegnamenti complementari del corso di laurea in scienze politiche l'insegnamento complementare di "lingua araba" e' soppresso.  
-Nello stesso articolo dopo il sesto comma e' inserito il seguente nuovo comma:  
-"I corsi di lingua sono triennali. Al termine di ciascun anno lo studente dovra' sostenere un esame scritto ed orale".  
-Gli articoli 14, 15, 16, 17, 19 e 20 relativi ai corsi di laurea in giurisprudenza ed in scienze politiche sono abrogati e sostituiti dai seguenti:  
-  
-Art. 14. - I laureati in giurisprudenza che intendono conseguire la laurea in scienze politiche sono iscritti al terzo anno di corso previo esame dal quale risulti una elementare conoscenza delle due lingue moderne straniere da essi prescelte. Essi dovranno sostenere gli esami dei seguenti insegnamenti fondamentali:  
-1) Storia moderna (biennale);  
-2) Storia delle dottrine politiche;  
-3) Geografia politica ed economica;  
-4) Statistica;  
-5) Politica economica e finanziaria;  
-6) Storia ed istituzione dei paesi afro-asiatici;  
-7) Storia dei trattati e politica internazionale;  
-8) Diritto costituzionale italiano e comparato;  
-9) Dottrina dello Stato.  
-Inoltre dovranno seguire i corsi e sostenere le prove di esame in due lingue moderne straniere, almeno una delle quali deve essere la francese, l'inglese o la tedesca; per l'altra e' consentita la scelta fra quelle effettivamente insegnate nelle facolta' dell'ateneo.  
-Art. 15. - I laureati in scienze politiche che intendono conseguire la laurea in giurisprudenza sono iscritti al terzo anno di corso con l'obbligo di sostenere gli esami nei seguenti insegnamenti fondamentali:  
-1) Istituzioni di diritto romano;  
-2) Storia del diritto romano;  
-3) Filosofia del diritto;  
-4) Scienza delle finanze e diritto finanziario;  
-5) Diritto commerciale;  
-6) Diritto ecclesiastico;  
-7) Storia del diritto italiano (biennale);  
-8) Diritto romano (biennale);  
-9) Diritto civile (biennale);  
-10) Diritto penale (biennale);  
-11) Procedura penale;  
-12) Diritto processuale civile.  
-Art. 16. I laureati in economia e commercio, forniti di diploma di maturita' classica o scientifica che intendono conseguire la laurea in giurisprudenza sono iscritti al terzo anno di corso con l'obbligo di sostenere gli esami nei seguenti insegnamenti fondamentali:  
-1) Istituzioni di diritto romano;  
-2) Storia del diritto romano;  
-3) Filosofia del diritto;  
-4) Diritto ecclesiastico;  
-5) Storia del diritto italiano (biennale);  
-6) Diritto amministrativo (biennale);  
-7) Diritto romano (biennale);  
-8) Diritto penale (biennale);  
-9) Diritto civile (biennale);  
-10) Diritto internazionale;  
-11) Diritto processuale civile;  
-12) Procedura penale.  
-Art. 17. - I laureati in economia e commercio, forniti di diploma di maturita' classica o scientifica, che intendono conseguire la laurea in scienze politiche sono iscritti al terzo anno di corso con l'obbligo di sostenere gli esami nei seguenti insegnamenti fondamentali:  
-1) Storia delle dottrine politiche;  
-2) Diritto costituzionale italiano e comparato;  
-3) Storia ed istituzioni dei paesi afro-asiatici;  
-4) Istituzioni di diritto e procedura penale;  
-5) Storia moderna (biennale);  
-6) Diritto internazionale;  
-7) Dottrina dello Stato;  
-8) Storia dei trattati e politica internazionale;  
-9) Diritto amministrativo (biennale).  
-Art. 19. - Lo studente di giurisprudenza non puo' sostenere gli esami:  
-a) di diritto romano se non abbia superato l'esame di istituzioni di diritto romano;  
-b) di diritto civile, di diritto commerciale, se non abbia superato quello di diritto privato.  
-L'esame di diritto penale deve precedere quello di antropologia criminale.  
-L'esame di statistica deve precedere quello di demografia.  
-L'esame di istituzioni di diritto privato deve precedere quello di diritto agrario.  
-Gli esami di diritto costituzionale, di istituzioni di diritto privato, di diritto processuale civile devono precedere quello di diritto amministrativo.  
-Gli esami di istituzioni di diritto privato e istituzioni di diritto romano devono precedere quello di diritto civile.  
-Gli esami di economia politica, di istituzioni di diritto privato e di istituzioni di diritto romano devono precedere quello di diritto commerciale.  
-L'esame di storia del diritto italiano deve precedere quello di diritto comune.  
-L'esame di diritto commerciale e quello di diritto costituzionale devono precedere quello di diritto del lavoro.  
-L'esame di diritto internazionale deve precedere quello di diritto diplomatico e consolare.  
-L'esame di diritto commerciale deve precedere quello di diritto della navigazione.  
-L'esame di diritto commerciale deve precedere quello di diritto fallimentare.  
-L'esame di diritto costituzionale deve precedere quello di diritto penale.  
-Gli esami di istituzioni di diritto privato e istituzioni di diritto romano devono precedere quello di diritto privato comparato.  
-Gli esami di diritto costituzionale e di istituzioni di diritto privato devono precedere quello di diritto ecclesiastico.  
-L'esame di diritto commerciale deve precedere quello di diritto industriale.  
-Gli esami di diritto costituzionale, istituzioni di diritto privato e di diritto processuale civile devono precedere quello di diritto internazionale.  
-Gli esami di diritto costituzionale, istituzioni di diritto privato devono precedere quello di diritto processuale civile.  
-Gli esami di istituzioni di diritto privato, istituzioni di diritto romano e storia del diritto romano devono precedere quello di diritto romano.  
-Gli esami di istituzioni di diritto privato, istituzioni di diritto romano e storia del diritto romano devono precedere quello di esegesi delle fonti del diritto romano.  
-L'esame di storia del diritto italiano deve precedere quello di esegesi delle fonti del diritto italiano.  
-L'esame di diritto del lavoro deve precedere quello di legislazione del lavoro.  
-Gli esami di diritto penale e istituzioni di diritto privato devono precedere quello di medicina legale.  
-L'esame di diritto internazionale deve precedere quello di organizzazione internazionale.  
-L'esame di diritto costituzionale deve precedere quello di procedura penale.  
-L'esame di economia politica deve precedere quello di scienza delle finanze e diritto finanziario.  
-Gli esami di istituzioni di diritto privato, istituzioni di diritto romano e storia del diritto romano devono precedere quello di storia del diritto italiano.  
-Art. 20. - Lo studente di scienze politiche non e' ammesso a sostenere:  
-a) nessun esame di diritto privato o pubblico senza aver rispettivamente superato gli esami di istituzioni di diritto privato o di diritto pubblico;  
-b) l'esame di politica economica e finanziaria se non ha superato l'esame di economia politica;  
-c) gli esami di storia e politica coloniale e di storia dei trattati e politica internazionale se non ha superate l'esame di storia moderna.  
-Gli esami di istituzioni di diritto pubblico e scienza delle finanze devono precedere quello di contabilita' dello Stato.  
-L'esame di statistica deve precedere quello di demografia.  
-Gli esami di istituzioni di diritto privato e istituzioni di diritto pubblico devono precedere quello di diritte amministrativo.  
-L'esame di istituzioni di diritto pubblico deve precedere quello di diritto costituzionale italiano e comparato.  
-Gli esami di istituzioni di diritto privato e istituzioni di diritto pubblico devono precedere quello di diritte del lavoro.  
-Gli esami di istituzioni di diritto privato e di istituzioni di diritto pubblico devono precedere quello di diritto internazionale.  
-L'esame di economia politica deve precedere quelle di economia e politica agraria.  
-L'esame di istituzioni di diritto pubblico deve precedere quello di istituzioni di diritto e procedura penale.  
-L'esame di diritto del lavoro deve precedere quelle di legislazione del lavoro.  
-L'esame di diritto internazionale deve precedere quello di organizzazione internazionale.  
-L'esame di economia politica deve precedere quello di politica economica e finanziaria.  
-L'esame di economia politica deve precedere quello di scienza delle finanze.  
-L'esame di statistica deve precedere quello di statistica economica.  
-L'esame di storia moderna deve precedere quello di storia dei partiti politici.  
-L'esame di diritto internazionale deve precedere quello di storia dei trattati e politica internazionale.  
-L'esame di storia moderna deve precedere quello di storia dei trattati e politica internazionale.  
-Gli esami di storia moderna e diritto internazionale devono precedere quello di storia ed istituzioni dei paesi afro-asiatici.  
-L'esame di storia moderna deve precedere quello di storia politica ed economica della Sardegna.  
+Art. 12. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di "Diritto fallimentare".  
+Art. 27. - All'elenco degli Istituti annessi alla Facolta' di economia e commercio e' aggiunto il seguente:  
+"Istituto di matematica finanziaria".  
+Art. 35. - Dall'elenco degli insegnamenti complementari del corso di laurea in Materie letterarie e' soppresso quello di "Istituzioni giuridiche ed economiche della Sardegna" e sostituito con quello di "Storia delle istituzioni giuridiche ed economiche della Sardegna".  
+Art. 36. - All'elenco degli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di:  
+Storia della filosofia contemporanea;  
+Storia della pedagogia;  
+Storia e critica del cinema;  
+Sociologia;  
+Antropologia culturale;  
+Psicologia dell'eta' evolutiva Storia delle istituzioni giuridiche ed economiche della Sardegna.  
+L'insegnamento complementare di "Istituzioni giuridiche ed economiche della Sardegna", e' soppresso.  
+Art. 37. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere e' aggiunto quello di:  
+"Letteratura anglo-americana".  
+Art. 49. - All'elenco degli Istituti della Facolta' di magistero sono aggiunti i seguenti:  
+Istituto di pedagogia;  
+Istituto di psicologia e sociologia.  
+L'Istituto di "Pedagogia e sociologia" e' soppresso.  
+Art. 50. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di:  
+"Clinica chirurgica pediatrica".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 maggio 1970
+### Dato a Roma, addi' 12 luglio 1964
 
-SARAGAT MISASI
+SEGNI GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 2 luglio 1970
+Registrato alla Corte dei conti, addi' 7 ottobre 1964
 
-Atti del Governo, registro n. 236, foglio n. 103. - CARUSO
+Atti del Governo, registro n. 187, foglio n. 72. - VILLA

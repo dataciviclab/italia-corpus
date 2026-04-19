@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1046
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1978 n. 585
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1046
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1978 n. 585
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Catania.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -24,25 +24,37 @@ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte,
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 176 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in malattie infettive.
+Art. 176 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono aggiunte le scuole di specializzazione in chirurgia, dell'apparato digerente ed endoscopia digestiva e in neurochirurgia.
 
-Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in malattie infettive.
+Gli articoli 179, 184, relativi alle norme generali per le scuole di specializzazione in medicina e chirurgia, sono abrogati e sostituiti dai seguenti:
 
-Art. 265. - La scuola di specializzazione in malattie infettive ha sede presso l'istituto di malattie infettive e conferisce il diploma di specialista in malattie infettive.
+Art. 179. - Per ciascuna scuola di specializzazione e' stabilito il numero massimo di allievi che vi possono essere accolti.
 
-Art. 266. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza al professore di ruolo o fuori ruolo di materia affine.
+L'ammissione alle scuole avviene a seguito di concorso per titoli ed esami.
 
-Art. 267. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.
+Art. 184. - Non sono consentite iscrizioni con abbreviazioni di corso.
 
-Art. 268. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
+L'art. 187, relativo alle norme generali per le scuole di specializzazione in medicina e chirurgia, e' soppresso con il conseguente spostamento della numerazione degli articoli successivi.
 
-Art. 269. - Il numero massimo degli allievi e' di quattro per anno di corso e complessivamente di sedici iscritti per l'intero corso di studi.
+Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva e in neurochirurgia.
+
+Scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva
+
+Art. 265. - La scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva ha sede presso l'istituto di seconda clinica chirurgica dell'Universita' di Catania e conferisce il diploma di specialista in chirurgia dell'apparato digerente ed endoscopia digestiva.
+
+Art. 266. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione, e in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Art. 267. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.
+
+Art. 268. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni.
+
+Art. 269. - Il numero massimo degli allievi e' di sei per anno di corso e complessivamente di trenta iscritti per l'intero corso di studi.
 
 Art. 270. - L'ammissione al corso avviene per titoli ed esami.
 
@@ -50,59 +62,159 @@ Art. 271. - Le materie di insegnamento sono le seguenti:
 
 1° Anno:
 
-epidemiologia generale delle malattie infettive;
+anatomia descrittiva e topografica specialistica (I corso);
 
-batteriologia e micologia;
+fisiopatologia e semeiotica funzionale (I corso);
 
-virologia;
+anatomia ed istologia patologica (I corso);
 
-parassitologia;
-
-immunologia generale.
+patologia chirurgica (I corso).
 
 2° Anno:
 
-tecniche batteriologiche e micologiche applicate alle malattie infettive;
+anatomia descrittiva e topografica specialistica (II corso);
 
-tecniche virologiche applicate alle malattie infettive;
+fisiopatologia e semeiotica funzionale (II corso);
 
-tecniche parassitologiche applicate alle malattie infettive;
+anatomia ed istologia patologica (II corso);
 
-tecniche immunologiche applicate alle malattie infettive;
+patologia chirurgica (II corso);
 
-anatomia patologica;
+semeiotica chirurgica (I corso);
 
-genetica.
+radiologia e medicina nucleare (I corso);
+
+endoscopia digestiva diagnostica e terapeutica (I corso).
 
 3° Anno:
 
-clinica delle malattie infettive (1° anno);
+patologia chirurgica (III corso);
 
-diagnostica e semeiotica delle malattie infettive;
+semeiotica chirurgica (II corso);
 
-radiologia;
+radiologia e medicina nucleare (II corso);
 
-medicina preventiva delle malattie infettive.
+endoscopia digestiva diagnostica e terapeutica (II corso);
+
+clinica e terapia chirurgica (I corso);
+
+tecniche operatorie (I corso).
 
 4° Anno:
 
-clinica delle malattie infettive (2° anno);
+semeiotica chirurgica (III corso);
 
-malattie tropicali;
+radiologia e medicina nucleare (III corso);
 
-legislazione sanitaria delle malattie infettive;
+endoscopia digestiva diagnostica e terapeutica (III corso);
 
-farmacologia e terapia delle malattie infettive.
+clinica e terapia chirurgica (II corso);
 
-Art. 272. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.
+tecniche operatorie (II corso);
 
-Art. 273. - Al termine di ciascun anno di corso gli allievi sono tenuti a sostenere gli esami del rispettivo anno; al termine del corso di studi per il conseguimento del diploma di specializzazione in malattie infettive gli interessati dovranno superare gli esami di diploma consistenti nella dissertazione scritta di un argomento attinente alla specialita'.
+anestesia e rianimazione;
 
-Art. 274. - Agli allievi i quali abbiano ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specializzazione in malattie infettive.
+riabilitazione in chirurgia digestiva.
+
+5° Anno:
+
+clinica chirurgica e terapia chirurgica (III corso);
+
+tecniche operatorie (III corso);
+
+chirurgia d'urgenza dell'apparato digerente;
+
+chirurgia pediatrica dell'apparato digerente;
+
+terapia intensiva.
+
+Art. 272. - La frequenza alle lezioni, alle esercitazioni pratiche, ai periodi di internato, e' obbligatoria per l'ammissione agli esami.
+
+Il superamento degli esami di ciascun anno sara' condizione indispensabile per l'iscrizione all'anno successivo.
+
+Art. 273. - Al termine del quinquennio per ottenere il diploma, i candidati dovranno presentare una dissertazione scritta su un argomento di chirurgia dell'apparato digerente ed endoscopia digestiva da discutere davanti all'apposita commissione e dovranno inoltre sostenere una prova clinica.
+
+Scuola di specializzazione in neurochirurgia
+
+Art. 274. - La scuola di specializzazione in neurochirurgia ha sede presso l'istituto di neurochirurgia dell'Universita' di Catania e conferisce il diploma di specialista in neurochirurgia.
+
+Art. 275. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Art. 276. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+Art. 277. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.
+
+Art. 278. - Il numero massimo degli allievi e' di tre per anno di corso e complessivamente di quindici iscritti per l'intero corso di studi.
+
+Art. 279. - L'ammissione al corso avviene per titoli ed esami.
+
+Art. 280. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+neuroanatomia;
+
+neurofisiologia;
+
+semeiotica e clinica neurologica;
+
+elementi di psichiatria;
+
+clinica neurochirurgica (I corso).
+
+2° Anno:
+
+neuro-oftalmologia;
+
+neuro-otoiatria;
+
+neurofisiologia clinica;
+
+clinica neurochirurgica (II corso).
+
+3° Anno:
+
+neuroanestesia e rianimazione;
+
+neuroradiologia (I corso);
+
+neuropatologia;
+
+clinica neurochirurgica (III corso).
+
+4° Anno:
+
+neuroradiologia (II corso);
+
+neurotraumatologia;
+
+tecniche operatorie (I corso);
+
+clinica neurochirurgica (IV corso).
+
+5° Anno:
+
+neurochirurgia funzionale e stereotassica;
+
+neurochirurgia infantile;
+
+tecniche operatorie (II corso);
+
+clinica neurochirurgica (V corso):
+
+Art. 281. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.
+
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Art. 282. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.
+
+Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in neurochirurgia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1977
+Dato a Roma, addi' 18 febbraio 1978
 
 LEONE
 
@@ -113,71 +225,127 @@ Visto, il Guardasigilli: BONIFACIO
 Registrato
 ----------
 
-alla Corte dei conti, addi' 27 gennaio 1978 Registro n. 9 istruzione, foglio n. 327
+alla Corte dei conti, addi' 23 settembre 1978 Registro n. 104 Istruzione, foglio n. 279
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
+Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 176 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in malattie infettive.  
-Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in malattie infettive.  
-Art. 265. - La scuola di specializzazione in malattie infettive ha sede presso l'istituto di malattie infettive e conferisce il diploma di specialista in malattie infettive.  
-Art. 266. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza al professore di ruolo o fuori ruolo di materia affine.  
-Art. 267. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.  
-Art. 268. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
-Art. 269. - Il numero massimo degli allievi e' di quattro per anno di corso e complessivamente di sedici iscritti per l'intero corso di studi.  
+Art. 176 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono aggiunte le scuole di specializzazione in chirurgia, dell'apparato digerente ed endoscopia digestiva e in neurochirurgia.  
+Gli articoli 179, 184, relativi alle norme generali per le scuole di specializzazione in medicina e chirurgia, sono abrogati e sostituiti dai seguenti:  
+Art. 179. - Per ciascuna scuola di specializzazione e' stabilito il numero massimo di allievi che vi possono essere accolti.  
+L'ammissione alle scuole avviene a seguito di concorso per titoli ed esami.  
+Art. 184. - Non sono consentite iscrizioni con abbreviazioni di corso.  
+L'art. 187, relativo alle norme generali per le scuole di specializzazione in medicina e chirurgia, e' soppresso con il conseguente spostamento della numerazione degli articoli successivi.  
+Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva e in neurochirurgia.  
+Scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva  
+Art. 265. - La scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva ha sede presso l'istituto di seconda clinica chirurgica dell'Universita' di Catania e conferisce il diploma di specialista in chirurgia dell'apparato digerente ed endoscopia digestiva.  
+Art. 266. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione, e in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Art. 267. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.  
+Art. 268. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni.  
+Art. 269. - Il numero massimo degli allievi e' di sei per anno di corso e complessivamente di trenta iscritti per l'intero corso di studi.  
 Art. 270. - L'ammissione al corso avviene per titoli ed esami.  
 Art. 271. - Le materie di insegnamento sono le seguenti:  
 1° Anno:  
-epidemiologia generale delle malattie infettive;  
-batteriologia e micologia;  
-virologia;  
-parassitologia;  
-immunologia generale.  
+anatomia descrittiva e topografica specialistica (I corso);  
+fisiopatologia e semeiotica funzionale (I corso);  
+anatomia ed istologia patologica (I corso);  
+patologia chirurgica (I corso).  
 2° Anno:  
-tecniche batteriologiche e micologiche applicate alle malattie infettive;  
-tecniche virologiche applicate alle malattie infettive;  
-tecniche parassitologiche applicate alle malattie infettive;  
-tecniche immunologiche applicate alle malattie infettive;  
-anatomia patologica;  
-genetica.  
+anatomia descrittiva e topografica specialistica (II corso);  
+fisiopatologia e semeiotica funzionale (II corso);  
+anatomia ed istologia patologica (II corso);  
+patologia chirurgica (II corso);  
+semeiotica chirurgica (I corso);  
+radiologia e medicina nucleare (I corso);  
+endoscopia digestiva diagnostica e terapeutica (I corso).  
 3° Anno:  
-clinica delle malattie infettive (1° anno);  
-diagnostica e semeiotica delle malattie infettive;  
-radiologia;  
-medicina preventiva delle malattie infettive.  
+patologia chirurgica (III corso);  
+semeiotica chirurgica (II corso);  
+radiologia e medicina nucleare (II corso);  
+endoscopia digestiva diagnostica e terapeutica (II corso);  
+clinica e terapia chirurgica (I corso);  
+tecniche operatorie (I corso).  
 4° Anno:  
-clinica delle malattie infettive (2° anno);  
-malattie tropicali;  
-legislazione sanitaria delle malattie infettive;  
-farmacologia e terapia delle malattie infettive.  
-Art. 272. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.  
-Art. 273. - Al termine di ciascun anno di corso gli allievi sono tenuti a sostenere gli esami del rispettivo anno; al termine del corso di studi per il conseguimento del diploma di specializzazione in malattie infettive gli interessati dovranno superare gli esami di diploma consistenti nella dissertazione scritta di un argomento attinente alla specialita'.  
-Art. 274. - Agli allievi i quali abbiano ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specializzazione in malattie infettive.  
+semeiotica chirurgica (III corso);  
+radiologia e medicina nucleare (III corso);  
+endoscopia digestiva diagnostica e terapeutica (III corso);  
+clinica e terapia chirurgica (II corso);  
+tecniche operatorie (II corso);  
+anestesia e rianimazione;  
+riabilitazione in chirurgia digestiva.  
+5° Anno:  
+clinica chirurgica e terapia chirurgica (III corso);  
+tecniche operatorie (III corso);  
+chirurgia d'urgenza dell'apparato digerente;  
+chirurgia pediatrica dell'apparato digerente;  
+terapia intensiva.  
+Art. 272. - La frequenza alle lezioni, alle esercitazioni pratiche, ai periodi di internato, e' obbligatoria per l'ammissione agli esami.  
+Il superamento degli esami di ciascun anno sara' condizione indispensabile per l'iscrizione all'anno successivo.  
+Art. 273. - Al termine del quinquennio per ottenere il diploma, i candidati dovranno presentare una dissertazione scritta su un argomento di chirurgia dell'apparato digerente ed endoscopia digestiva da discutere davanti all'apposita commissione e dovranno inoltre sostenere una prova clinica.  
+Scuola di specializzazione in neurochirurgia  
+Art. 274. - La scuola di specializzazione in neurochirurgia ha sede presso l'istituto di neurochirurgia dell'Universita' di Catania e conferisce il diploma di specialista in neurochirurgia.  
+Art. 275. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Art. 276. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Art. 277. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.  
+Art. 278. - Il numero massimo degli allievi e' di tre per anno di corso e complessivamente di quindici iscritti per l'intero corso di studi.  
+Art. 279. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 280. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+neuroanatomia;  
+neurofisiologia;  
+semeiotica e clinica neurologica;  
+elementi di psichiatria;  
+clinica neurochirurgica (I corso).  
+2° Anno:  
+neuro-oftalmologia;  
+neuro-otoiatria;  
+neurofisiologia clinica;  
+clinica neurochirurgica (II corso).  
+3° Anno:  
+neuroanestesia e rianimazione;  
+neuroradiologia (I corso);  
+neuropatologia;  
+clinica neurochirurgica (III corso).  
+4° Anno:  
+neuroradiologia (II corso);  
+neurotraumatologia;  
+tecniche operatorie (I corso);  
+clinica neurochirurgica (IV corso).  
+5° Anno:  
+neurochirurgia funzionale e stereotassica;  
+neurochirurgia infantile;  
+tecniche operatorie (II corso);  
+clinica neurochirurgica (V corso):  
+Art. 281. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.  
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Art. 282. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.  
+Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in neurochirurgia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1977
+### Dato a Roma, addi' 18 febbraio 1978
 
 LEONE MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 27 gennaio 1978
+Registrato alla Corte dei conti, addi' 23 settembre 1978
 
-Registro n. 9 istruzione, foglio n. 327
+Registro n. 104 Istruzione, foglio n. 279

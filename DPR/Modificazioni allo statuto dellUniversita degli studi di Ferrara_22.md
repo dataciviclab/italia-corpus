@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 luglio 1971 n. 763
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1965 n. 862
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 luglio 1971 n. 763
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1965 n. 862
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
@@ -12,12 +12,12 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 12 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-12;1207).  
+e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -26,76 +26,39 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 74: e' abrogato e sostituito dal seguente:  
-"La facolta' di farmacia conferisce le seguenti lauree: in farmacia e in chimica e tecnologia farmaceutiche.  
-La durata dei relativi corsi e' rispettivamente di 4 anni per la laurea in farmacia e di 5 anni per quella di chimica e tecnologia farmaceutiche.  
-Titolo di ammissione e' quello previsto dalle vigenti disposizioni di legge".  
-Art. 76: il primo comma e' abrogato e sostituito dal seguente:  
-"Agli effetti dell'iscrizione e degli esami per la laurea in farmacia sono da considerarsi materie propedeutiche: ".  
-Dopo l'art. 79 e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione del corso di laurea in chimica e tecnologia farmaceutiche annesso alla facolta' di farmacia.  
+Dopo l'art. 28, sono aggiunti i seguenti nuovi articoli relativi alla creazione dell'Istituto di applicazione forense, annesso alla Facolta' di giurisprudenza con il conseguente spostamento della numerazione degli articoli successivi.  
+Istituto di applicazione forense  
+Art. 29. - Alla Facolta' di giurisprudenza e' annesso un Istituto di applicazione forense, il quale si propone di corrispondere alle esigenze tecniche e pratiche della preparazione all'esercizio della professione forense.  
+L'Istituto funziona anche ai fini dell'[art. 18 del regio decreto-legge 27 novembre 1933, n. 1578](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-27;1578~art18).  
+Art. 30. - I mezzi per il funzionamento dell'Istituto sono tratti dai contributi dell'Universita', da eventuali elargizioni di enti pubblici o di privati, e dalle tasse e contributi degli iscritti.  
+Art. 31. - L'Istituto e' retto da un Consiglio direttivo, composto da un direttore, dal preside della Facolta' e dal direttore dell'Istituto giuridico. Il direttore e' eletto per un triennio dal Consiglio della Facolta' di giurisprudenza fra i professori ordinari e straordinari della Facolta' medesima anche fuori ruolo.  
+Art. 32. - Le esercitazioni si svolgono nelle seguenti materie:  
   
-Laurea in chimica e tecnologia farmaceutiche  
-  
-Art. 80. - La durata del corso e' di cinque anni, divisi in un biennio ed in un triennio.  
-Gli insegnamenti per la laurea in chimica e tecnologia farmaceutiche sono i seguenti:  
-Fondamentali:  
-Biennio:  
-1) Analisi chimico farmaceutica I (analisi qualitativa);  
-2) Anatomia umana;  
-\* 3) Botanica farmaceutica;  
-\* 4) Chimica fisica;  
-\* 5) Chimica generale ed inorganica;  
-\*\* 6) Chimica organica I;  
-7) Fisica;  
-8) Fisiologia generale;  
-\* 9) Istituzioni di matematiche;  
-10) Microbiologia e igiene;  
-Triennio:  
-11) Analisi chimico farmaceutica II (analisi quantitativa);  
-12) Analisi chimico farmaceutica III (analisi dei medicamenti);  
-\* 13) Biochimica applicata;  
-\* 14) Chimica biologica;  
-\* 15) Chimica degli alimenti;  
-\* 16) Chimica farmaceutica applicata;  
-\* 17) Chimica farmaceutica e tossicologica I;  
-\* 18) Chimica farmaceutica e tossicologica II;  
-\* 19) Chimica organica II;  
-\* 20) Farmacologia e farmacognosia;  
-21) Impianti dell'industria farmaceutica;  
-22) Laboratorio di preparazione estrattiva e sintetica dei farmaci;  
-23) Metodi fisici in chimica organica;  
-24) Saggi e dosaggi farmacologici;  
-\* 25) Tecnica e legislazione farmaceutica.  
-Insegnamenti complementari:  
-1) Chimica delle fermentazioni e microbiologia industriale;  
-2) Chimica delle sostanze organiche naturali;  
-3) Chimica dei prodotti dietetici;  
-4) Chimica dei prodotti cosmetici;  
-\* 5) Complementi di chimica tossicologica;  
-\* 6) Farmacologia molecolare;  
-7) Impianti per laboratori galenici;  
-\* 8) Microchimica;  
-\* 9) Mineralogia;  
-10) Prodotti dietetici;  
-11) Prodotti cosmetici;  
-12) Zoologia e parassitologia;  
-13) Statistica e biometria;  
-14) Istituzioni di patologia generale.  
-Le materie segnate con un asterisco sono comuni alla laurea in farmacia, quelle segnate con due asterischi sono comuni alla laurea in chimica.  
-Art. 81. - Per ottenere l'iscrizione al triennio lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per i due anni precedenti.  
-Art. 82. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato tutti gli esami degli insegnamenti fondamentali ed almeno due esami a scelta fra gli insegnamenti complementari.  
-Art. 83. - La prova di laurea comporta la discussione di una tesi sperimentale.  
+Diritto civile;  
+Diritto commerciale;  
+Diritto processuale civile;  
+Diritto amministrativo;  
+Diritto penale;  
+Diritto processuale penale;  
+Diritto tributario;  
+Diritto internazionale (pubblico e privato);  
+Diritto del lavoro;  
+Diritto costituzionale.  
+Art. 33. - Presso l'Istituto possono tenersi anche, conferenze ed esercitazioni in altre discipline giuridiche.  
+Art. 34. - Possono iscriversi al corso dell'Istituto, i laureati in giurisprudenza.  
+Art. 35. - Agli iscritti che abbiano frequentato lo Istituto per un anno con diligenza e profitto viene, a loro richiesta, rilasciato un certificato finale agli effetti dell'[art. 6 del regio decreto 22 gennaio 1934, n. 37](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-01-22;37~art6), in relazione all'[art. 18 del regio decreto-legge 27 novembre 1933, n. 1578](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-27;1578~art18).  
+Art. 36. - Il funzionamento dell'Istituto e' regolato da apposite norme deliberate dalla Facolta' giuridica su proposta del Consiglio direttivo ed approvate con decreto del rettore dell'Universita'.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 luglio 1971
+### Dato a Roma, addi' 21 maggio 1965
 
-SARAGAT MISASI
+SARAGAT GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 8 settembre 1971
+Registrato alla Corte dei conti, addi' 14 luglio 1965
 
-Atti del Governo, registro n. 244, foglio n. 102. - PASQUALUCCI
+Atti del Governo, registro n. 195, foglio n. 91. - VILLA

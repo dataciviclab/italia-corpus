@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1969 n. 1296
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 febbraio 1966 n. 185
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1969 n. 1296
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 febbraio 1966 n. 185
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
@@ -12,12 +12,11 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), [9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;9) successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -25,100 +24,18 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 26. - All'elenco degli insegnamenti complementari per il conseguimento del diploma in statistica sono aggiunti i seguenti:  
-Analisi matematica;  
-Geometria analitica;  
-Calcolo delle probabilita'.  
-Gli articoli 32 e 33, concernenti abbreviazioni di corso per i laureati di altri corsi di laurea che intendono iscriversi al corso di laurea in lettere, e gli articoli 36 e 37, concernenti abbreviazioni di corso per i laureati di altri corsi di laurea, che intendono iscriversi al corso di laurea in filosofia sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.  
-Art. 59. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di "Neuropsichiatria infantile" e "Bioacustica".  
-Art. 62. - All'elenco degli istituti della facolta' di medicina e chirurgia e' aggiunto il seguente: "Istituto di semeiotica chirurgica".  
-Art. 80. - All'elenco degli insegnamenti complementari del corso di laurea in matematica, indirizzo generale, sono aggiunti i seguenti:  
-Analisi numerica;  
-Analisi non lineare;  
-Equazioni differenziali;  
-Magnetofluidodinamica;  
-Metodi di approssimazione;  
-Ricerca operativa (1);  
-Teoria dell'informazione (1);  
-Teoria dell'ottimizzazione (1).  
-Nello stesso elenco l'insegnamento di "Calcolo delle probabilita'" e' contraddistinto da una chiamata (1).  
-All'elenco degli insegnamenti complementari del corso di laurea in matematica, indirizzo didattico, sono aggiunti i seguenti:  
-Analisi numerica;  
-Analisi non lineare;  
-Equazioni differenziali;  
-Magnetofluidodinamica;  
-Metodi di approssimazione;  
-Ricerca operativa (1);  
-Teoria dell'informazione (1);  
-Teoria dell'ottimizzazione (1).  
-Nello stesso elenco l'insegnamento di "Calcolo delle probabilita'" e' contraddistinto da una chiamata (1).  
-All'elenco degli insegnamenti complementari del corso di laurea in matematica, indirizzo applicativo, sono aggiunti i seguenti:  
-Analisi non lineare;  
-Equazioni differenziali;  
-Magnetofluidodinamica;  
-Metodi di approssimazione;  
-Ricerca operativa (1);  
-Teoria dell'informazione (1);  
-Teoria dell'ottimizzazione (1).  
-Nello stesso elenco l'insegnamento di "Calcolo delle probabilita'" e' contraddistinto da una chiamata (1).  
-Nello stesso elenco l'insegnamento di cibernetica e teoria dell'informazione e' soppresso.  
-Gli insegnamenti contraddistinti dalla chiamata (1) hanno carattere ambivalente, sia fisico che matematico.  
-Gli insegnamenti contraddistinti con asterisco sono ad indirizzo fisico.  
-Art. 82. - All'elenco degli insegnamenti complementari del corso di laurea in fisica sono aggiunti i seguenti:  
-Algebra (\*);  
-Analisi dei sistemi;  
-Analisi numerica (\*);  
-Biofisica;  
-Biologia molecolare;  
-Calcolo delle probabilita' (1);  
-Calcolatori elettronici;  
-Cibernetica;  
-Elettronica quantistica;  
-Istituzioni di algebra (\*),  
-Istituzioni di analisi superiore (\*),  
-Istituzioni di fisica matematica (\*);  
-Logica matematica (\*);  
-Metodi di approssimazione (\*);  
-Metodi per il trattamento delle informazioni;  
-Metodi statistici;  
-Misure nucleari;  
-Ricerca operativa (1);  
-Teoria dei campi;  
-Teoria dei gruppi (per fisici);  
-Teoria dell'informazione (1).  
-Nello stesso articolo sono soppressi i seguenti insegnamenti complementari:  
-Acustica;  
-Calcolo delle probabilita' (\*);  
-Chimica teorica;  
-Cibernetica e teoria dell'informazione;  
-Conduzione elettrica nei gas;  
-Elettrotecnica;  
-Epistemologia e metodologia;  
-Fisica dei fluidi;  
-Fisica terrestre (geofisica);  
-Geodesia;  
-Geologia;  
-Mineralogia;  
-Ottica;  
-Semiconduttori;  
-Sismologia Strutturistica;  
-Tecnica del vuoto;  
-Teoria delle reazioni nucleari;  
-Termodinamica.  
-Gli insegnamenti contraddistinti dalla chiamata (1) hanno carattere ambivalente, sia fisico che matematico.  
-Gli insegnamenti contraddistinti con asterisco sono ad indirizzo matematico.  
+Art. 8, relativo alle propedeuticita' di esami per il corso di laurea in Giurisprudenza e' modificato nel senso che l'ultimo capoverso: "l'esame di Diritto civile deve precedere quello di Diritto amministrativo" e' soppresso.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 ottobre 1969
+### Dato a Roma, addi' 23 febbraio 1966
 
-SARAGAT FERRARI AGGRADI
+SARAGAT GUI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 22 aprile 1970
+Registrato alla Corte dei conti, addi' 5 aprile 1966
 
-Atti del Governo, registro n. 234, foglio n. 196. - CARUSO
+Atti del Governo, registro n. 202, foglio n. 118. - VILLA

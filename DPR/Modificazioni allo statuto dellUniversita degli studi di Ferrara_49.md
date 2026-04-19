@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 388
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 655
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 388
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 655
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
@@ -10,319 +10,202 @@ Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito in [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraelencati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 156, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso:
+Dopo l'art. 159 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione della "Scuola di preparazione per tecnici di audiometria" (Scuola diretta a fini speciali).
 
-Scuola di specializzazione in chirurgia d'urgenza e pronto
+Scuola di preparazione per tecnici di audiometria
 
-soccorso
+(Scuola diretta a fini speciali)
 
-Art. 157. - La scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso ha sede presso l'istituto di semeiotica chirurgica dell'Universita' di Ferrara.
+Art. 160. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una scuola speciale di preparazione per tecnici di audiometria che ha sede presso la clinica otorinolaringoiatrica della universita'.
 
-Il corso di studi per il conseguimento del diploma di specialista in chirurgia d'urgenza e di pronto soccorso ha la durata di cinque anni accademici.
+Art. 161. - La durata del corso degli studi della scuola di preparazione per tecnici di audiometria e' di due anni. L'indirizzo e' teorico-pratico. Il numero massimo complessivo degli iscritti alla scuola e' di dieci (cinque per anno di corso).
 
-Alla scuola possono iscriversi i laureati in medicina e chirurgia.
+Art. 162. - Possono essere ammessi alla scuola coloro che siano in possesso del titolo di studio prescritto per l'ammissione all'universita' o istituto di istruzione universitaria.
 
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+Gli aspiranti debbono, nei termini regolamentari, presentare apposita domanda su carta legale diretta al rettore e corredata dei prescritti documenti e sostenere un esame di ammissione che avra' luogo nei giorni stabiliti dal rettore con apposito manifesto.
 
-Il numero massimo degli iscritti e' di tre per anno di corso.
+Le domande di iscrizione ad anni successivi al primo vanno presentate nei termini regolamentari.
 
-Non sono ammesse abbreviazioni di corso.
+Art. 163. - Alla scuola si accede previo esame di cultura generale su argomenti facenti parte dei normali programmi dei licei o degli istituti di istruzione secondaria, con particolare riguardo alla parte dell'insegnamento di fisica acustica. La commissione giudicatrice viene nominata dal preside della facolta' di medicina e chirurgia ed e' composta dal direttore della scuola, presidente, e da due membri scelti fra professori di ruolo, incaricati e liberi docenti.
 
-L'ammissione al corso avviene per titoli ed esami.
+Art. 164. - Il direttore della scuola e' il titolare della cattedra di clinica otorinolaringoiatrica dell'Universita' di Ferrara.
 
-La frequenza alle lezioni, esercitazioni e seminari e' obbligatoria per tutti gli iscritti. L'esercitazione pratica nei reparti e' obbligatoria durante tutti i cinque anni di corso sotto forma di permanenza costante in istituto durante le ore di attivita'.
+Gli incarichi di insegnamento sono conferiti dal rettore, su proposta del consiglio di facolta' di medicina e chirurgia udito il direttore della scuola.
 
-Art. 158. - Le materie d'insegnamento sono le seguenti:
+Art. 165. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per la istruzione universitaria.
 
-clinica chirurgica generale d'urgenza e di pronto soccorso;
+La data di inizio e termine delle lezioni sono di regola eguali a quelle fissate per l'anno accademico. Tali date, tuttavia, possono essere spostate per ragioni speciali inerenti la natura dei corsi.
 
-patologia chirurgica;
-
-anatomia chirurgica;
-
-semeiotica;
-
-anestesiologia;
-
-ricerche di laboratorio;
-
-anatomia patologica;
-
-endoscopia;
-
-fisiopatologia chirurgica;
-
-chirurgia sperimentale;
-
-trattamento pre e postoperatorio in chirurgia di urgenza;
-
-rianimazione;
-
-chirurgia vascolare d'urgenza;
-
-traumatologia dell'apparato locomotore;
-
-neurotraumatologia;
-
-terapia intensiva;
-
-radiologia;
-
-chirurgia ginecologica d'urgenza;
-
-chirurgia pediatrica d'urgenza;
-
-chirurgia plastica e riparatrice;
-
-chirurgia toracica d'urgenza;
-
-cardiochirurgia d'urgenza;
-
-angioradiologia;
-
-chirurgia urologica d'urgenza;
-
-traumatologia maxillo-facciale;
-
-trattamento del poli-traumatizzato;
-
-medicina legale.
-
-Le materie d'insegnamento sono cosi' distribuite:
+Art. 166. - Le materie di insegnamento sono le seguenti:
 
 1° Anno:
 
-clinica chirurgica generale d'urgenza e di pronto soccorso I; patologia chirurgica I;
+Anatomia e fisiologia dell'orecchio, delle vie e dei centri acustici;
 
-anatomia chirurgica;
+Elementi di fisica acustica;
 
-semeiotica I;
-
-anestesiologia;
-
-ricerche di laboratorio;
-
-chirurgia sperimentale.
+Tecniche audiometriche.
 
 2° Anno:
 
-clinica chirurgica generale d'urgenza e di pronto soccorso II; patologia chirurgica II;
+Patologia dell'udito, del linguaggio e dell'organo dell'equilibrio;
 
-anatomia patologica;
+Elementi di otoneurologia;
 
-endoscopia;
+Elementi di foniatria;
 
-fisiopatologia chirurgica I;
+Tecniche audiometriche.
 
-semeiotica II;
+Art. 167. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo per gli allievi dell'internato per un periodo di due anni nel reparto di audiologia della clinica otorinolaringoiatrica.
 
-trattamento pre e postoperatorio in chirurgia di urgenza;
+La frequenza viene comprovata dalla attestazione rilasciata dagli insegnanti sul libretto di iscrizione.
 
-rianimazione.
+L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.
 
-3° Anno:
+Art. 168. - Le commissioni per gli esami di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia, su proposta del direttore della scuola.
 
-clinica chirurgica generale d'urgenza e di pronto soccorso III; patologia chirurgica III;
+Le commissioni per gli esami di profitto sono composte di tre membri: il direttore della scuola, presidente, e da due insegnanti della scuola stessa.
 
-chirurgia vascolare d'urgenza;
+La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro insegnanti della scuola stessa o da altri docenti.
 
-traumatologia dell'apparato locomotore I;
+Ogni commissario ha a sua disposizione dieci punti.
 
-neurotraumatologia I;
+Gli esami di profitto, che consistono in prove teoriche e pratiche, si sostengono in unico gruppo di materie per ciascun anno di corso.
 
-fisiopatologia chirurgica II;
+L'esame di diploma consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento, approvata dal direttore della scuola ed in una prova pratica stabilita dalla commissione esaminatrice.
 
-terapia intensiva I;
+I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola ma, se al secondo anno non sia loro riconosciuta la idoneita', saranno senz'altro esclusi da ulteriori prove.
 
-4° Anno:
+Agli allievi che avranno superato l'esame finale verra' rilasciato il diploma di tecnico in audiometria.
 
-clinica chirurgica generale d'urgenza e di pronto soccorso IV; chirurgia ginecologica d'urgenza;
+Art. 169. - Per essere ammessi a frequentare il secondo anno di corso gli iscritti debbono aver superato gli esami del primo anno.
 
-chirurgia pediatrica d'urgenza;
+Alla fine del secondo anno di corso, per essere ammessi all'esame di diploma, gli iscritti debbono aver superato tutti gli esami prescritti.
 
-chirurgia plastica e riparatrice I;
+Art. 170. - Gli esami di profitto e di diploma si danno in due sessioni, la prima, estiva, ha inizio subito dopo la chiusura annuale dei corsi e la seconda, autunnale, un mese innanzi il principio del nuovo anno accademico.
 
-traumatologia dell'apparato locomotore II;
+Art. 171. - Il consiglio di amministrazione della universita', su proposta della direzione della scuola, approvata dal consiglio di facolta', stabilira' di anno in anno l'ammontare dei contributi.
 
-neurotraumatologia II;
+Le tasse e soprattasse annuali a carico degli iscritti restano cosi' destinate:
 
-chirurgia toracica d'urgenza;
+Tassa annuale d'iscrizione . . . . . . . . . . . . . L. 10.000 Soprattassa annuale di esami . . . . . . . . . . . . " 5.000 Tassa erariale di diploma. . . . . . . . . . . . . . " 6.000 Tassa annuale di iscrizione per studenti fuori corso " 3.000
 
-terapia intensiva II;
-
-radiologia.
-
-5° Anno:
-
-clinica chirurgica generale d'urgenza e di pronto soccorso V; chirurgia plastica e riparatrice II;
-
-chirurgia toracica d'urgenza;
-
-cardiochirurgia d'urgenza;
-
-chirurgia urologica d'urgenza;
-
-angioradiologia;
-
-traumatologia maxillo-facciale;
-
-trattamento del politraumatizzato;
-
-medicina legale.
-
-Art. 159. - Alla fine di ogni anno gli specializzandi per poter Ottenere l'ammissione all'anno successivo dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno di corso; per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
-
-L'esame di diploma consiste nella discussione di una tesi su un tema preventivamente approvato dal direttore della scuola.
-
-Il direttore della scuola e' il professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, il professore di ruolo o fuori ruolo di materia affine. Le norme per l'iscrizione, gli esami, le tasse, ecc., sono quelle generali per le scuole di specializzazione dell'Universita' di Ferrara.
+Art. 172. - Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni o contributi di enti pubblici o di privati.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 11 maggio 1979
+Dato a Roma, addi' 22 settembre 1972
 
-PERTINI
+LEONE
 
-SPADOLINI
+SCALFARO
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 28 luglio 1979 Registro n. 60 Istruzione, foglio n. 185
+alla Corte dei conti, addi' 8 novembre 1972 Atti del Governo, registro n. 253, foglio n. 5. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito in [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare nuove modifiche proposte;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
 Decreta:   
   
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraelencati, e' ulteriormente modificato come appresso:   
-Dopo l'art. 156, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso:   
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Scuola di specializzazione in chirurgia d'urgenza e pronto   
-soccorso   
-Art. 157. - La scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso ha sede presso l'istituto di semeiotica chirurgica dell'Universita' di Ferrara.   
-Il corso di studi per il conseguimento del diploma di specialista in chirurgia d'urgenza e di pronto soccorso ha la durata di cinque anni accademici.   
-Alla scuola possono iscriversi i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-Il numero massimo degli iscritti e' di tre per anno di corso.   
-Non sono ammesse abbreviazioni di corso.   
-L'ammissione al corso avviene per titoli ed esami.   
-La frequenza alle lezioni, esercitazioni e seminari e' obbligatoria per tutti gli iscritti. L'esercitazione pratica nei reparti e' obbligatoria durante tutti i cinque anni di corso sotto forma di permanenza costante in istituto durante le ore di attivita'.   
-Art. 158. - Le materie d'insegnamento sono le seguenti:   
-clinica chirurgica generale d'urgenza e di pronto soccorso;   
-patologia chirurgica;   
-anatomia chirurgica;   
-semeiotica;   
-anestesiologia;   
-ricerche di laboratorio;   
-anatomia patologica;   
-endoscopia;   
-fisiopatologia chirurgica;   
-chirurgia sperimentale;   
-trattamento pre e postoperatorio in chirurgia di urgenza;   
-rianimazione;   
-chirurgia vascolare d'urgenza;   
-traumatologia dell'apparato locomotore;   
-neurotraumatologia;   
-terapia intensiva;   
-radiologia;   
-chirurgia ginecologica d'urgenza;   
-chirurgia pediatrica d'urgenza;   
-chirurgia plastica e riparatrice;   
-chirurgia toracica d'urgenza;   
-cardiochirurgia d'urgenza;   
-angioradiologia;   
-chirurgia urologica d'urgenza;   
-traumatologia maxillo-facciale;   
-trattamento del poli-traumatizzato;   
-medicina legale.   
-Le materie d'insegnamento sono cosi' distribuite:   
+Dopo l'art. 159 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione della "Scuola di preparazione per tecnici di audiometria" (Scuola diretta a fini speciali).   
+  
+Scuola di preparazione per tecnici di audiometria   
+(Scuola diretta a fini speciali)   
+  
+Art. 160. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una scuola speciale di preparazione per tecnici di audiometria che ha sede presso la clinica otorinolaringoiatrica della universita'.   
+Art. 161. - La durata del corso degli studi della scuola di preparazione per tecnici di audiometria e' di due anni. L'indirizzo e' teorico-pratico. Il numero massimo complessivo degli iscritti alla scuola e' di dieci (cinque per anno di corso).   
+Art. 162. - Possono essere ammessi alla scuola coloro che siano in possesso del titolo di studio prescritto per l'ammissione all'universita' o istituto di istruzione universitaria.   
+Gli aspiranti debbono, nei termini regolamentari, presentare apposita domanda su carta legale diretta al rettore e corredata dei prescritti documenti e sostenere un esame di ammissione che avra' luogo nei giorni stabiliti dal rettore con apposito manifesto.   
+Le domande di iscrizione ad anni successivi al primo vanno presentate nei termini regolamentari.   
+Art. 163. - Alla scuola si accede previo esame di cultura generale su argomenti facenti parte dei normali programmi dei licei o degli istituti di istruzione secondaria, con particolare riguardo alla parte dell'insegnamento di fisica acustica. La commissione giudicatrice viene nominata dal preside della facolta' di medicina e chirurgia ed e' composta dal direttore della scuola, presidente, e da due membri scelti fra professori di ruolo, incaricati e liberi docenti.   
+Art. 164. - Il direttore della scuola e' il titolare della cattedra di clinica otorinolaringoiatrica dell'Universita' di Ferrara.   
+Gli incarichi di insegnamento sono conferiti dal rettore, su proposta del consiglio di facolta' di medicina e chirurgia udito il direttore della scuola.   
+Art. 165. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per la istruzione universitaria.   
+La data di inizio e termine delle lezioni sono di regola eguali a quelle fissate per l'anno accademico. Tali date, tuttavia, possono essere spostate per ragioni speciali inerenti la natura dei corsi.   
+Art. 166. - Le materie di insegnamento sono le seguenti:   
+  
 1° Anno:   
-clinica chirurgica generale d'urgenza e di pronto soccorso I; patologia chirurgica I;   
-anatomia chirurgica;   
-semeiotica I;   
-anestesiologia;   
-ricerche di laboratorio;   
-chirurgia sperimentale.   
+Anatomia e fisiologia dell'orecchio, delle vie e dei centri acustici;   
+Elementi di fisica acustica;   
+Tecniche audiometriche.   
+  
 2° Anno:   
-clinica chirurgica generale d'urgenza e di pronto soccorso II; patologia chirurgica II;   
-anatomia patologica;   
-endoscopia;   
-fisiopatologia chirurgica I;   
-semeiotica II;   
-trattamento pre e postoperatorio in chirurgia di urgenza;   
-rianimazione.   
-3° Anno:   
-clinica chirurgica generale d'urgenza e di pronto soccorso III; patologia chirurgica III;   
-chirurgia vascolare d'urgenza;   
-traumatologia dell'apparato locomotore I;   
-neurotraumatologia I;   
-fisiopatologia chirurgica II;   
-terapia intensiva I;   
-4° Anno:   
-clinica chirurgica generale d'urgenza e di pronto soccorso IV; chirurgia ginecologica d'urgenza;   
-chirurgia pediatrica d'urgenza;   
-chirurgia plastica e riparatrice I;   
-traumatologia dell'apparato locomotore II;   
-neurotraumatologia II;   
-chirurgia toracica d'urgenza;   
-terapia intensiva II;   
-radiologia.   
-5° Anno:   
-clinica chirurgica generale d'urgenza e di pronto soccorso V; chirurgia plastica e riparatrice II;   
-chirurgia toracica d'urgenza;   
-cardiochirurgia d'urgenza;   
-chirurgia urologica d'urgenza;   
-angioradiologia;   
-traumatologia maxillo-facciale;   
-trattamento del politraumatizzato;   
-medicina legale.   
-Art. 159. - Alla fine di ogni anno gli specializzandi per poter Ottenere l'ammissione all'anno successivo dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno di corso; per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
-L'esame di diploma consiste nella discussione di una tesi su un tema preventivamente approvato dal direttore della scuola.   
-Il direttore della scuola e' il professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, il professore di ruolo o fuori ruolo di materia affine. Le norme per l'iscrizione, gli esami, le tasse, ecc., sono quelle generali per le scuole di specializzazione dell'Universita' di Ferrara.   
+Patologia dell'udito, del linguaggio e dell'organo dell'equilibrio;   
+Elementi di otoneurologia;   
+Elementi di foniatria;   
+Tecniche audiometriche.   
+  
+Art. 167. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo per gli allievi dell'internato per un periodo di due anni nel reparto di audiologia della clinica otorinolaringoiatrica.   
+La frequenza viene comprovata dalla attestazione rilasciata dagli insegnanti sul libretto di iscrizione.   
+L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.   
+Art. 168. - Le commissioni per gli esami di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia, su proposta del direttore della scuola.   
+Le commissioni per gli esami di profitto sono composte di tre membri: il direttore della scuola, presidente, e da due insegnanti della scuola stessa.   
+La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro insegnanti della scuola stessa o da altri docenti.   
+Ogni commissario ha a sua disposizione dieci punti.   
+Gli esami di profitto, che consistono in prove teoriche e pratiche, si sostengono in unico gruppo di materie per ciascun anno di corso.   
+L'esame di diploma consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento, approvata dal direttore della scuola ed in una prova pratica stabilita dalla commissione esaminatrice.   
+I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola ma, se al secondo anno non sia loro riconosciuta la idoneita', saranno senz'altro esclusi da ulteriori prove.   
+Agli allievi che avranno superato l'esame finale verra' rilasciato il diploma di tecnico in audiometria.   
+Art. 169. - Per essere ammessi a frequentare il secondo anno di corso gli iscritti debbono aver superato gli esami del primo anno.   
+Alla fine del secondo anno di corso, per essere ammessi all'esame di diploma, gli iscritti debbono aver superato tutti gli esami prescritti.   
+Art. 170. - Gli esami di profitto e di diploma si danno in due sessioni, la prima, estiva, ha inizio subito dopo la chiusura annuale dei corsi e la seconda, autunnale, un mese innanzi il principio del nuovo anno accademico.   
+Art. 171. - Il consiglio di amministrazione della universita', su proposta della direzione della scuola, approvata dal consiglio di facolta', stabilira' di anno in anno l'ammontare dei contributi.   
+Le tasse e soprattasse annuali a carico degli iscritti restano cosi' destinate:   
+  
+  
+Tassa annuale d'iscrizione . . . . . . . . . . . . . L. 10.000 Soprattassa annuale di esami . . . . . . . . . . . . " 5.000 Tassa erariale di diploma. . . . . . . . . . . . . . " 6.000 Tassa annuale di iscrizione per studenti fuori corso " 3.000   
+  
+  
+Art. 172. - Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni o contributi di enti pubblici o di privati.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 maggio 1979
+### Dato a Roma, addi' 22 settembre 1972
 
-PERTINI SPADOLINI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 28 luglio 1979
+Registrato alla Corte dei conti, addi' 8 novembre 1972
 
-Registro n. 60 Istruzione, foglio n. 185
+Atti del Governo, registro n. 253, foglio n. 5. - CARUSO

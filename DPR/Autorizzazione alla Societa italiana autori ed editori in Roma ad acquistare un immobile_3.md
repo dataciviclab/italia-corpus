@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1979 n. 390
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1978 n. 473
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1979 n. 390
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1978 n. 473
 =============================================================
 
 Autorizzazione alla Societa' italiana autori ed editori, in Roma, ad acquistare un immobile.
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-390. Decreto del Presidente della Repubblica 27 giugno 1979, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana autori ed editori (S.I.A.E.), in Roma, viene autorizzata ad acquistare, al prezzo complessivo di L. 80.000.000, dei locali ad uso ufficio posti al piano terra del fabbricato condominiale sito in Viareggio (Lucca), via Sant'Andrea n. 222, angolo via Leonardo da Vinci, con annessa corte, come da atto di compravendita 25 marzo 1977, n. 53235 di repertorio, a rogito dott.  
-Francesco Rizzo, notaio in Viareggio.  
+473. Decreto del Presidente della Repubblica 19 giugno 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana autori ed editori (S.I.A.E.), in Roma, viene autorizzata ad acquistare un immobile, costituito da un locale terraneo con retro e servizi del fabbricato in condominio sito in Ravenna, via Venezia, 38, al prezzo di L. 21.000.000, come da atto di compravendita 14 gennaio 1976, n. 35933/6861 di repertorio, a rogito notaio Modonesi.  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 6 agosto 1979  
-Registro n. 6 Presidenza, foglio n. 73
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 18 agosto 1978  
+Registro n. 6 Presidenza, foglio n. 78

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1964 n. 913
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 514
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1964 n. 913
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 514
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788) e, successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,134 +18,98 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
-Sentito il parere del Consiglio superiore della pubblica, istruzione Sulla proposta del Ministro per la pubblica, istruzione;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
 
-Decreta:
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
 
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Sentito il parere del Consiglio universitario nazionale;
 
-Art. 9. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:
+Sulla
+-----
 
-"Organizzazione internazionale" e di "Economia internazionale".
+proposta del Ministro della pubblica istruzione; Decreta:
 
-Art. 10, relativo alle propedeuticita' del corso di laurea in giurisprudenza, il quarto comma e' cosi' modificato:
+Articolo unico
+--------------
 
-"L'esame di diritto costituzionale precede quelli di diritto amministrativo, di diritto internazionale e di diritto regionale".
-
-Art. 12. - Agli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di:
-
-"Organizzazione internazionale" e di "Economia internazionale".
-
-Art. 18. - Agli insegnamenti complementari del corso di laurea in Economia e commercio e' aggiunto quello di:
-
-"Sociologia industriale".
-
-L'insegnamento complementare di "Storia delle esplorazioni geografiche" e' soppresso.
-
-La scuola di specializzazione in Odontoiatria e protesi dentaria cambia denominazione in quella di "Odontostomatologia".
-
-Art. 137. - Gli insegnamenti impartiti dalla scuola per il 1° e 2° anno sono abrogati e sostituiti dai seguenti:
-
-1° Anno:
-
-Embriologia, anatomia e fisiologia della bocca e dei denti;
-
-Patologia speciale odontostomatologica;
-
-Pedodontia;
-
-Ortognatodonzia (biennale);
-
-Anestesia e chirurgia dentaria;
-
-Odontotecnica;
-
-Paradeontologia;
-
-Radiologia.
-
-2° Annuo Clinica odontostomatologica;
-
-Odontoiatria conservativa Protesi dentaria;
-
-Ortognatodonzia;
-
-Chirurgia orale e maxillo-facciale.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 3 agosto 1964
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 9 ottobre 1964 Atti del Governo, registro n. 187, foglio n. 83. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica, istruzione Sulla proposta del Ministro per la pubblica, istruzione;  
-  
-Decreta:  
   
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli da 378 a 385, relativi alla scuola di specializzazione in viticoltura ed enologia, sono abrogati e sostituiti dai seguenti:  
   
-Art. 9. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:  
-"Organizzazione internazionale" e di "Economia internazionale".  
-Art. 10, relativo alle propedeuticita' del corso di laurea in giurisprudenza, il quarto comma e' cosi' modificato:  
-"L'esame di diritto costituzionale precede quelli di diritto amministrativo, di diritto internazionale e di diritto regionale".  
-Art. 12. - Agli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di:  
-"Organizzazione internazionale" e di "Economia internazionale".  
-Art. 18. - Agli insegnamenti complementari del corso di laurea in Economia e commercio e' aggiunto quello di:  
-"Sociologia industriale".  
-L'insegnamento complementare di "Storia delle esplorazioni geografiche" e' soppresso.  
-La scuola di specializzazione in Odontoiatria e protesi dentaria cambia denominazione in quella di "Odontostomatologia".  
-Art. 137. - Gli insegnamenti impartiti dalla scuola per il 1° e 2° anno sono abrogati e sostituiti dai seguenti:  
+Scuola di specializzazione in viticoltura ed enologia  
+Art. 378. - E' istituita presso l'Universita' di Torino la scuola di specializzazione in viticoltura ed enologia che conferisce il diploma di specialista in viticoltura ed enologia.  
+Art. 379. - La direzione della scuola ha sede presso la facolta' di agraria dell'Universita' di Torino.  
+Art. 380. - La scuola ha lo scopo di dare ai laureati, mediante corsi teorici, esercitazioni di laboratorio e attivita' pratiche, una specifica preparazione nel settore viticolo ed enologico.  
+Art. 381. - La durata del corso di studio e' biennale e non e' suscettibile di abbreviazioni.  
+Art. 382. - Il numero degli iscritti e' di venti per ogni anno e complessivamente di quaranta per l'intero corso di studi.  
+Art. 383. - Alla scuola sono ammessi i laureati in scienze agrarie, in chimica, in chimica industriale, in ingegneria chimica, in scienze delle preparazioni alimentari, in scienze naturali, in scienze biologiche, in farmacia ed in chimica e tecnologia farmaceutiche.  
+Possono partecipare all'esame di ammissione coloro che siano in possesso del diploma di laurea richiesto e, qualora prescritto, anche del diploma di abilitazione all'esercizio professionale.  
+Art. 384. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
+a) la tesi in disciplina attinente alla specializzazione;  
+b) il voto di laurea;  
+c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
+d) le pubblicazioni nelle predette materie.  
+La ripartizione del punteggio dei predetti titoli, secondo quanto stabilito dal [decreto ministeriale 16 settembre 1982, pubblicato nella Gazzetta Ufficiale n. 275 del 6 ottobre 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-10-06&numeroGazzetta=275), viene cosi' effettuata:  
+fino ad un massimo di 5 punti per il voto di laurea:  
+0,30 per punto da 99 a 109; 4 per i pieni voti assoluti e 5 per la lode;  
+fino ad un massimo di 5 punti per i voti riportati negli esami di corso di laurea attinenti alla specializzazione (e' possibile valutare fino ad un massimo di sette esami a discrezione motivata dalla commissione) cosi' attribuibili: 0,25 per esame superato con i pieni voti legali (da 27 a 29/30); 0,50 per esame superato con i pieni voti assoluti; 0,75 per esame superato con i pieni voti assoluti e lode;  
+fino ad un massimo di 10 punti per la valutazione della tesi di laurea in disciplina attinente alla specializzazione, considerata come lavoro scientifico non stampato (se pubblicata viene valutata in ogni caso, una sola volta);  
+fino ad un massimo di 10 punti per le pubblicazioni nelle materie attinenti alla specializzazione.  
+Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
+Art. 385. - Le materie di insegnamento, che afferiscono tutte alla facolta' di agraria dell'Universita' di Torino, sono le seguenti:  
 1° Anno:  
-Embriologia, anatomia e fisiologia della bocca e dei denti;  
-Patologia speciale odontostomatologica;  
-Pedodontia;  
-Ortognatodonzia (biennale);  
-Anestesia e chirurgia dentaria;  
-Odontotecnica;  
-Paradeontologia;  
-Radiologia.  
-2° Annuo Clinica odontostomatologica;  
-Odontoiatria conservativa Protesi dentaria;  
-Ortognatodonzia;  
-Chirurgia orale e maxillo-facciale.  
+1) viticoltura generale;  
+2) biologia viticola;  
+3) chimica enologica;  
+4) esercitazioni di chimica enologica;  
+5) microbiologia enologica;  
+6) esercitazioni di microbiologia enologica;  
+7) costruzioni enologiche;  
+8) meccanica enologica;  
+9) legislazione viticolo-enologica;  
+10) economia del mercato vitivinicolo;  
+11) degustazione.  
+2° Anno:  
+1) ampelografia;  
+2) tecnica viticola;  
+3) esercitazioni di tecnica viticola;  
+4) tecnologia enologica;  
+5) esercitazioni di tecnologia enologica;  
+6) meccanizzazione della viticoltura;  
+7) patologia viticola;  
+8) zoologia viticola;  
+9) organizzazione aziendale;  
+10) tecniche di mercato.  
+A giudizio del consiglio della scuola, potranno essere attivati corsi monografici su: virosi della vite; nematologia viticola; coltivazione e tecnologia dell'uva da tavola e da essiccare: tecniche di distillazione, vini speciali, aceti e succhi d'uva, e su altri temi che di anno in anno potranno risultare necessari per venire incontro alle esigenze degli operatori del settore, rispondendo alle finalita' della scuola.  
+Potranno inoltre essere tenuti brevi cicli di lezioni e conferenze su particolari argomenti interessanti le varie discipline della scuola.  
+Art. 386. - La frequenza ai corsi e' obbligatoria. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno in corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
+Art. 387. - Sono previste attivita' pratiche (analisi di laboratorio; partecipazione ad operazioni vendemmiali e di tecnologia della vinificazione) da svolgersi presso aziende viticole e stabilimenti enologici, di volta in volta indicati dal consiglio della scuola in base alle disponibilita' delle aziende e alla esigenza di completare la preparazione degli allievi in relazione ai fini della scuola stessa.  
+Per sostenere gli esami e' necessario che lo specializzando abbia frequentato almeno il 50% delle lezioni di ciascuna delle singole materie ed abbia partecipato alle attivita' pratiche per almeno il 70% delle ore annualmente previste per le attivita' stesse dal consiglio della scuola.  
+Art. 388. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.  
+A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista in viticoltura ed enologia.  
+Art. 389. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
+Art. 390. - Il consiglio della scuola e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).  
+Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.  
+La direzione della scuola e' affidata a un professore ordinario o straordinario che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a un professore associato che pure insegni nella scuola medesima.  
+Norma transitoria.  
+Art. 391. - In via transitoria, per gli specializzandi gia' iscritti secondo il precedente ordinamento al momento dell'entrata in vigore del presente statuto, e', ammesso il passaggio al nuovo ordinamento. Il conseguimento del diploma e' condizionato al superamento di tutti gli esami, compresi quelli relativi agli insegnamenti non previsti nel precedente ordinamento.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 agosto 1964
+### Dato a Roma, addi' 15 luglio 1983
 
-SEGNI GUI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 9 ottobre 1964
+Registrato alla Corte dei conti, addi' 22 settembre 1983
 
-Atti del Governo, registro n. 187, foglio n. 83. - VILLA
+Registro n. 62 Istruzione, foglio n. 303

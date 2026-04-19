@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1042
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1985 n. 795
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1042
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1985 n. 795
 ================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Verona.
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Verona.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Verona approvato con [decreto del Presidente della Repubblica 6 settembre 1983, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1983-09-06;766), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Verona, approvato con [decreto del Presidente della Repubblica 6 settembre 1983, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1983-09-06;766), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -22,7 +22,7 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
+Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615); .
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
@@ -39,15 +39,13 @@ Articolo unico
 --------------
 
   
-Nell'art. 35, all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti insegnamenti:  
-neurochirurgia funzionale;  
-otorinolaringoiatria pediatrica.  
+Art. 35 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' inserito l'insegnamento di "laboratorio di patologia generale".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 dicembre 1985
+### Dato a Roma, addi' 2 settembre 1985
 
 COSSIGA
 
@@ -55,6 +53,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 12 aprile 1986
+Registrato alla Corte dei conti, addi' 19 dicembre 1985
 
-Registro n. 27 Istruzione, foglio n. 326
+Registro n. 86 Istruzione, foglio n. 141

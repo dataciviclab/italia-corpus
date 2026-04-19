@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1968 n. 1069
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 luglio 1951 n. 1718
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1968 n. 1069
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 luglio 1951 n. 1718
+==============================================================
 
 Autorizzazione all'Istituto dei ciechi di Milano ad accettare una eredita'.
 ---------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1069. Decreto del Presidente della Repubblica 12 febbraio 1968, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto dei ciechi di Milano viene autorizzato ad accettare l'eredita' disposta dalla signora Alfonsa Maria Giuseppa Adamoli, maritata Chiuminati, con testamento olografo in data 12 maggio 1958, pubblicato il 18 marzo 1966 a rogito notaio dott. Giancarlo Barassi di Milano, n. 46235/15311 di repertorio e registrato a Milano il 23 marzo 1966, numero 5146 atti pubblici.  
+1718. Decreto del Presidente dalla Repubblica 17 luglio 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto dei ciechi di Milano viene autorizzato ad accettare, con il beneficio di inventario, l'eredita' disposta in suo favore dalla defunta prof.ssa Colombo Antonia, detta Antonietta, fu Gerolamo, con testamento olografo in data 20 dicembre 1945.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 7 ottobre 1968  
-Atti del Governo, registro n. 223, foglio n. 16. - GRECO
+Visto, il Guardasigilli: ZOLI  
+Registrato alla Corte dei conti, addi' 14 febbraio 1952  
+Atti del Governo, registro n. 50, foglio n. 31. - FRASCA

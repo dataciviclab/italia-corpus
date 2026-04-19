@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 1161
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1975 n. 1003
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 1161
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1975 n. 1003
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -10,78 +10,100 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;
 
-Sentito il parere del Consiglio universitario nazionale;
+Visto il [decreto del Presidente della Repubblica 31 ottobre 1972, n. 1190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-10-31;1190), pubblicato nella Gazzetta Ufficiale del 23 agosto 1973, n. 217, con il quale e' stato soppresso l'asterisco relativo all'insegnamento fondamentale di fisica per il corso di laurea in chimica e tecnologie farmaceutiche;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Vista la nota n. 2348 del 3 marzo 1975 del rettore dell'Universita' di Parma;
 
-Decreta:
---------
+Ritenuta l'opportunita' di rettificare il [decreto del Presidente della Repubblica 30 gennaio 1974, n. 779](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-01-30;779), in quanto gli asterischi dovevano essere eliminati agli insegnamenti del corso di laurea in chimica e tecnologie farmaceutiche e non a quelli del corso di laurea in farmacia;
 
-Lo statuto dell'Universita' di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Articolo unico
---------------
+Sulla
+-----
+
+proposta del Ministro per la pubblica istruzione; Decreta:
+
+Art. 1
+------
 
   
-Gli articoli 205, 206, 207, 208, relativi alla scuola di specializzazione in dermatologia e venereologia di cui al [decreto del Presidente della Repubblica 31 ottobre 1979, n. 979](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1979-10-31;979), sono soppressi e sostituiti dai seguenti:  
+Il primo comma dell'art. 118 (ora 140) del [decreto del Presidente della Repubblica 30 gennaio 1974, n. 779](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-01-30;779), citato nelle premesse, e' rettificato nel modo seguente:  
+"L'elenco degli insegnamenti fondamentali del corso di laurea in chimica e tecnologie farmaceutiche e' modificato nel senso che agli insegnamenti di chimica organica I e II vengono tolti gli asterischi".  
+
+Art. 2
+------
+
   
-Scuola di specializzazione in dermatologia e venereologia  
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 205. - La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazioni.  
-Art. 206. - Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di trenta iscritti per l'intero corso di studi.  
-Art. 207. - Le materie di insegnamento sono le seguenti:  
+Art. 140 - all'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologie farmaceutiche sono aggiunti quelli di: chimica analitica clinica;  
+chimica dei prodotti fitoiatrici;  
+complementi di chimica farmaceutica.  
+Gli articoli 319, 320, 322, 324, 325 e 326, relativi alla scuola per tecnici fisioterapisti della riabilitazione, sono abrogati e sostituiti dai seguenti:  
+Art. 319. - La scuola ha lo scopo di formare operatori che abbiano la preparazione socio-economica e tecnico-sanitaria adeguata allo svolgimento delle attivita' riabilitative attuabili con tecniche fisiche, chinesiterapiche, logoterapiche, occupazionali, psicomotorie, massoterapiche, nei servizi ospedalieri e nei centri socio-sanitari del territorio cui compete la prevenzione e la cura delle invalidita' di carattere neurologico, ortopedico, traumatologico, reumatologico e cardiorespiratorio.  
+Art. 320. - Il direttore della scuola viene nominato per un triennio accademico dal consiglio di facolta' e dovra' essere scelto tra i docenti di materie aventi diretta attinenza con le metodologie riabilitative.  
+I docenti incaricati degli insegnamenti della scuola sono proposti dal consiglio di facolta' e nominati dal rettore dell'Universita'. La proposta dovra' possedere i criteri che garantiscano il formarsi di un collegio docente in cui tutte le componenti dell'attivita' riabilitativa abbiano un'adeguata partecipazione e rappresentazione.  
+I docenti potranno anche non essere di appartenenza universitaria o medica, e potranno essere scelti sulla sola base della specifica competenza.  
+Il consiglio della scuola e' formato dalla collegialita' dei docenti.  
+Il direttore dovra' consultare il consiglio della scuola per tutto quanto concerne la didattica e il funzionamento generale della scuola.  
+Il direttore e il consiglio didattico sono tenuti, nella concreta formulazione dei programmi, a dare adeguato e compiuto svolgimento a tutti gli aspetti del processo riabilitativo, siano essi tecnici, psicologici, sociofamiliari, socio-sanitari e socio-economici. Il consiglio di facolta', all'inizio di ogni anno accademico, esamina tali programmi e accerta che tali criteri siano stati soddisfatti.  
+Art. 322. - Il titolo di studio per l'ammissione alla scuola e' il diploma di scuola media superiore. I candidati debbono presentare certificato medico comprovante la sana e robusta costituzione fisica.  
+Alla scuola puo' essere ammesso annualmente un numero massimo di 25 allievi. Il numero puo' essere modificato dal consiglio di facolta', sulla base delle disponibilita' didattiche.  
+I candidati verranno sottoposti a prove di ammissione che saranno decise dal consiglio della scuola e che saranno comunque intese a saggiare sia le qualita' culturali che l'attitudine specialistica. Al termine di tali prove verra' stabilita una graduatoria per l'ammissione.  
+La commissione per l'esame di ammissione sara' composta dal direttore e da due insegnanti della scuola nominati dal consiglio di facolta'.  
+Art. 324. - L'insegnamento e' suddiviso nei corsi sottoelencati, ciascuno dei quali puo' essere, su proposta del direttore e sentito il consiglio didattico, affidato ad uno o piu' insegnanti, secondo le modalita' di cui all'articolo 320, secondo comma:  
 1° Anno:  
-1) anatomia e istologia normale della cute;  
-2) fisiologia della cute e degli annessi;  
-3) anatomia e fisiologia dell'apparato genitale;  
-4) microbiologia e parassitologia applicate;  
-5) tecniche di laboratorio applicate alla disciplina;  
-6) semeiotica dermatologica e venereologica.  
+a) insegnamento teorico:  
+1) elementi di fisica;  
+2) elementi di biomeccanica;  
+3) elementi di anatomia umana normale;  
+4) elementi di fisiologia umana;  
+5) elementi di psicologia;  
+b) insegnamento pratico:  
+esercitazioni e dimostrazioni riguardanti i sopra elencati argomenti.  
 2° Anno:  
-1) patologia delle malattie cutanee;  
-2) patologia delle infezioni veneree;  
-3) istopatologia e citologia dermatologica e venereologica;  
-4) immunopatologia cutanea;  
-5) dermatologia allergologica e professionale;  
-6) angiologia;  
-7) sessuologia.  
+a) insegnamento teorico:  
+1) nozioni di patologia e clinica di particolare interesse ai fini della riabilitazione;  
+2) chinesiologia e scienza dell'apprendimento motorio;  
+3) metodologia delle tecniche riabilitative;  
+b) insegnamento pratico:  
+esercitazioni e dimostrazioni riguardanti i sopra indicati argomenti.  
 3° Anno:  
-1) clinica delle malattie cutanee;  
-2) clinica delle infezioni veneree;  
-3) dermatologia pediatrica;  
-4) farmacologia e terapia;  
-5) fisioterapia dermatologica;  
-6) cosmetologia;  
-7) chirurgia plastica riparatrice;  
-8) igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.  
-Art. 208. - Il corso di lezioni deve essere impartito mediante almeno cinquanta lezioni annuali, comprensive delle varie materie e la frequenza giornaliera degli iscritti non deve essere inferiore alle quattro ore effettive per tutta la durata dell'anno accademico.  
-Gli specializzandi avranno percio' obblighi di frequenza obbligatoria ai fini di apprendimento onde seguire i corsi di lezioni e svolgere contemporaneamente frequenza obbligatoria ai fini di apprendimento nelle corsie, negli ambulatori e nei laboratori.  
-Gli esami di profitto verranno sostenuti in due sessioni.  
+a) insegnamento teorico:  
+1) clinica della riabilitazione e tecniche riabilitative;  
+2) elementi di igiene e medicina preventiva;  
+3) elementi di pronto soccorso;  
+4) elementi di organizzazione sanitaria; servizi sociali; deontologia;  
+b) insegnamento pratico:  
+l'insegnamento pratico dovra' nel terzo anno essere impartito in misura tale da garantire l'apprendimento delle metodologie, ed ogni allievo potra' prevalentemente esercitarsi nella particolare pratica riabilitativa in cui desidera specializzarsi.  
+Art. 325. - Alla fine di ciascun anno scolastico, il passaggio all'anno successivo di ciascun allievo sara' deciso sulla base di accertamenti della maturita' e della preparazione degli allievi, secondo le modalita' che verranno stabilite dal direttore della scuola, sentito il parere del consiglio didattico.  
+Art. 326. - L'esame finale per il conseguimento del diploma consiste in una prova scritta, in un colloquio ed in una prova pratica: le modalita' di tali prove saranno fissate dal direttore della scuola sentito il parere del consiglio della scuola stessa.  
+La commissione per l'esame di diploma e' composta di cinque membri nominati dal rettore su proposta del direttore della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 settembre 1981
+### Dato a Roma, addi' 13 ottobre 1975
 
-PERTINI BODRATO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 10 agosto 1982
+Registrato alla Corte dei conti, addi' 26 maggio 1976
 
-Registro n. 99 Istruzione, foglio n. 174
+Atti di Governo, registro n. 6, foglio n. 32

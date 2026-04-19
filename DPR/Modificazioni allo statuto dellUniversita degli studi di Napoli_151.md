@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1958 n. 656
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979 n. 715
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1958 n. 656
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979 n. 715
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
@@ -12,34 +12,41 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successivi;  
+Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 22. - Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di "diritto fallimentare".  
-Art. 200, relativo agli insegnamenti del corso di laurea in medicina veterinaria e' modificato nel senso che tra il secondo e terzo comma delle disposizioni concernenti la materia d'esame degli insegnamenti sono aggiunti i seguenti:  
-"L'insegnamento biennale di patologia generale e anatomia patologica comporta due esami distinti e due distinte votazioni. La patologia generale viene svolta al 3° anno, l'anatomia patologica al 3° e 4° anno.  
-L'insegnamento biennale di patologia speciale e clinica medica viene impartito al 3° corso per quanto riguarda la patologia speciale, ed al 4° per la clinica medica. Per essere ammesso all'esame di patologia speciale e clinica medica (biennale) lo studente deve aver superato, alla fine del 3° corso, un colloquio di patologia speciale medica".  
+Dopo l'art. 199, e con il conseguente spostamento della numerazione degli articoli seguenti, sono inseriti i nuovi seguenti articoli:  
+  
+Biblioteca centrale di facolta'  
+  
+Art. 200. - Presso la facolta' di farmacia e' istituita la biblioteca centrale di facolta'.  
+La direzione e' affidata a un bibliotecario di seconda classe o con qualifica superiore, in sua mancanza ad un professore ufficiale della facolta', designato dalla stessa.  
+Alla biblioteca puo' essere adibito apposito personale a norma di legge. Il funzionamento della biblioteca centrale e' disciplinato da un regolamento curato dal consiglio di facolta'.  
+  
+Centro di analisi strumentale  
+  
+Art. 201. - Nella facolta' di farmacia e' costituito il centro di analisi strumentale avente lo scopo di promuovere e coordinare la migliore utilizzazione degli strumenti di analisi della facolta' di farmacia e delle competenze dei ricercatori, nell'interesse dello sviluppo della ricerca di base e della ricerca applicata. Sono utenti del centro tutti i ricercatori della facolta' di farmacia. La responsabilita' patrimoniale del centro e' affidata al preside mentre il suo funzionamento e' disciplinato da un regolamento emanato dal consiglio di facolta'.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 maggio 1958
+### Dato a Roma, addi' 4 giugno 1979
 
-GRONCHI MORO
+PERTINI SPADOLINI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 27 giugno 1958
+Registrato alla Corte dei conti, addi' 16 gennaio 1980
 
-Atti del Governo, registro n. 112, foglio n. 256. - RELLEVA
+Registro n. 2 Istruzione, foglio n. 96

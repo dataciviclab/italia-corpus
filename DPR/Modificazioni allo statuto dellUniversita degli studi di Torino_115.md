@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 924
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 ottobre 1979 n. 518
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 924
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 ottobre 1979 n. 518
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
@@ -35,65 +35,81 @@ Articolo unico
 --------------
 
   
-Dopo l'art. 403 dello statuto dell'Universita' di Torino sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola diretta a fini speciali per ortottisti-assistenti di oftalmologia.  
+All'art. 104 dello statuto dell'Universita' di Torino e' aggiunto il seguente comma:  
   
-TITOLO IV. - SCUOLE DIRETTE A FINI SPECIALI  
-  
-Sezione I. - FACOLTA' DI MEDICINA E CHIRURGIA  
-Scuola speciale per ortottisti-assistenti di oftalmologia  
-  
-Art. 404. - E' istituita presso la facolta' di medicina e chirurgia dell'Universita' di Torino una scuola speciale di preparazione per ortottisti-assistenti di oftalmologia che ha sede presso la clinica oculistica di questa Universita'.  
-Art. 405. - La scuola ha lo scopo di dare una preparazione completa, teorico-pratica, istruendo gli allievi sui problemi della motilita' oculare, della ambliopia, delle tecniche diagnostiche della visione binoculare, del trattamento pre e post operatorio dei pazienti strabici, dei problemi sui vizi di refrazione e della loro correzione e sulle tecniche diagnostiche in oftalmologia.  
-La durata del corso di studi per conseguire il diploma di ortottista-assistente di oftalmologia e' di tre anni.  
-Ne sono titoli di ammissione il possesso di un diploma legalmente valido ai fini della iscrizione alla Universita' ai sensi dell'[art. 1 della legge n. 910 dell'11 dicembre 1969](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1) e la conoscenza di una lingua straniera (inglese, francese, tedesco, spagnolo).  
-Art. 406. - Gli aspiranti all'iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova di cultura generale ed in una prova per la conoscenza della lingua straniera.  
-E' richiesto un certificato di sana e robusta costituzione, con particolare riguardo alla funzione visiva.  
-Art. 407. - Il numero complessivo degli iscritti alla scuola e' di nove (tre per anno di corso). Qualora le domande di iscrizione fossero in numero superiore al numero massimo previsto, il consiglio della scuola si riserva di provvedere ad una scelta tra gli idonei in base ai risultati delle prove di ammissione; gli idonei possono essere ammessi anche in soprannumero in rapporto a posti che si rendessero vacanti nel corso del secondo e terzo anno. I ripetenti ed i fuori corso, qualora riprendano gli studi, sono riammessi in soprannumero.  
-Art. 408. - Il direttore della scuola e' il titolare della cattedra di clinica oculistica o altro docente di disciplina affine, proposto dal titolare della cattedra di clinica oculistica sentito il consiglio della scuola.  
-Art. 409. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria. La frequenza e' obbligatoria.  
-Art. 410. - Il corso comprende lezioni teoriche ed esercitazioni pratiche.  
-Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) elementi di anatomia dell'apparato visivo e del S.N.C.;  
-2) fisiologia dell'occhio, della motilita' oculare, della visione binoculare;  
-3) ottica fisica e fisiopatologica;  
-4) ortottica I;  
-5) psicologia infantile.  
-2° Anno:  
-1) elementi di patologia oculare;  
-2) elementi di farmacologia oculare;  
-3) elementi di neurooftalmologia;  
-4) nozioni di chirurgia ed assistenza oftalmica;  
-5) ortottica II.  
-3° Anno:  
-1) tecniche semeiologiche dell'apparato visivo I  
-(es. refrazione, contattologia, adattometria, campo visivo, senso cromatico);  
-2) tecniche semeiologiche ed elettrofisiologiche (tonometria e tonografia); ERG, EOG, EMG; ecografia; retinografia e fluoroangiografia);  
-3) ortottica III;  
-4) nozioni di riabilitazione senso motorio nell'eta' infantile;  
-5) legislazione sanitaria.  
-Art. 411. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo, per gli allievi, dell'internato per l'intero periodo di corso di studi nella clinica oculistica. La frequenza viene comprovata dalla attestazione rilasciata sul libretto di iscrizione dagli insegnanti e per l'attivita' pratica dal direttore della scuola. L'attestazione di frequenza e' indispensabile ai fini dell'ammissione degli esami.  
-Art. 412. - Alla fine di ogni anno gli allievi devono sostenere un esame sulle materie di insegnamento. Nel caso in cui i candidati non abbiano superato gli esami prescritti, essi rimarranno nella posizione di "ripetenti".  
-Art. 413. - Gli esami di profitto consistono in prove teoriche e pratiche.  
-Art. 414. - Alla fine del corso gli allievi debbono sostenere un esame di diploma che consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento, assegnata dal direttore della scuola e in una prova pratica stabilita da una commissione esaminatrice. I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola ma se al secondo anno non sia loro riconosciuta la idoneita' saranno senz'altro esclusi da ulteriori prove.  
-Art. 415. - Gli esami di profitto e di diploma si danno in due sessioni, la prima estiva che ha inizio dopo la chiusura annuale dei corsi e la seconda autunnale, nel mese che precede l'inizio del nuovo anno accademico.  
-Art. 416. - Le commissioni per gli esami di ammissione, di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della clinica. Le commissioni per gli esami di ammissione e di profitto sono composte da tre membri: direttore della scuola, presidente, e da due insegnanti della scuola stessa. La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro membri scelti fra gli insegnanti della scuola stessa o altri docenti.  
-Art. 417. - Le tasse e soprattasse annuali a carico degli iscritti restano cosi' destinate:  
-  
-tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 15.000 soprattassa annuale di esame . . . . . . . . . . . . . . . . L. 7.000 contributo biblioteche e laboratorio. . . . . . . . . . . . L. 10.000 contributo esercitazioni. . . . . . . . . . . . . . . . . . L. 40.000 contr. A.S.L. - O.R.L. . . . . . . . . . . . . . . . . . . . L. 1.000 contr. assic. e infor. . . . . . . . . . . . . . . . . . . . . L. 300   
-Art. 418. - Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni o contributi di enti pubblici o privati.  
-Art. 419. - Sono ammessi al terzo anno della scuola, con l'obbligo di tutti gli esami del terzo anno e della tesi, le diplomate delle scuole speciali per ortottiste ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), purche' abbiano esercitato con continuita' una attivita' professionale adeguata e documentata.  
+La facolta' di agraria rilascia anche la laurea in scienze forestali.  
+Dopo l'art. 106, e con il conseguente spostamento della numerazione degli articoli successivi, e' aggiunto il seguente nuovo articolo relativo alla istituzione del corso di laurea in scienze forestali.  
+Art. 107. - La durata del corso degli studi per la laurea in scienze forestali e' di quattro anni.  
+Titoli di ammissione sono quelli previsti dall'[art. 1 della legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1).  
+Insegnamenti fondamentali:  
+1) alpicoltura I (prati, pascoli, agricoltura nella regione di montagna) (semestrale);  
+2) alpicoltura II (zootecnica nella regione di montagna) (semestrale);  
+3) assestamento forestale;  
+4) botanica forestale;  
+\*5) botanica sistematica;  
+\*6) botanica generale;  
+7) chimica forestale;  
+\*8) chimica generale e inorganica con applicazioni di analitica;  
+\*9) chimica organica;  
+10) costruzioni forestali (semestrale);  
+11) dentometria (semestrale);  
+12) economia ed estimo forestale;  
+\*13) fisica;  
+14) industrie chimico-forestali (semestrale);  
+15) legislazione forestale;  
+\*16) matematica;  
+\*17) mineralogia e geologia;  
+18) patologia vegetale forestale;  
+\*19) principi di economia politica e di statistica;  
+20) selvicoltura I (ecologia e selvicoltura generale);  
+21) selvicoltura II (selvicoltura speciale);  
+22) sistemazioni idraulico-forestali;  
+23) tecnologia e utilizzazione forestale (compresa meccanica applicata);  
+24) topografia;  
+25) zoologia forestale venatoria e acquicoltura;  
+\*26) zoologia generale.  
+Insegnamenti complementari:  
+1) agronomia montana;  
+2) allevamenti minori in zone montane (semestrale);  
+3) alterazioni del legname (semestrale);  
+4) conservazione della natura e delle sue risorse;  
+5) difesa dagli inquinamenti (semestrale);  
+6) ecologia;  
+7) ecologia zootecnica;  
+8) economia di mercato dei prodotti forestali;  
+9) elementi di idraulica e di idrologia;  
+10) fisiologia degli alberi forestali (semestrale);  
+11) geologia applicata;  
+12) idrologia forestale;  
+13) meccanizzazione forestale;  
+14) microbiologia forestale;  
+15) miglioramento genetico degli alberi forestali (semestrale);  
+16) pedologia forestale;  
+17) pianificazione ecologica del territorio;  
+18) protezione dagli incendi boschivi (semestrale);  
+19) protezione della natura e riassetto del paesaggio;  
+20) selvicoltura industriale ed alberature;  
+21) tecniche di rimboschimento nelle zone aride (semestrale);  
+22) tutela del paesaggio agricolo forestale e riassetto del territorio;  
+23) vivaistica forestale e rimboschimento;  
+24) zoologia venatoria.  
+Le materie contrassegnate con un asterisco sono in comune con il corso di laurea in scienze agrarie.  
+Sono inoltre da ritenere complementari del corso di laurea in scienze forestali tutti gli insegnamenti (fondamentali e complementari) impartiti nel corso di laurea in scienze agrarie.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in tre complementari a corso annuale. A tale effetto due corsi complementari semestrali sono computati come corso annuale.  
+L'esame di laurea consiste in una discussione orale intorno ad una dissertazione scritta sopra un tema scelto dal candidato su di un argomento forestale o avente stretta attinenza con le discipline impartite nella facolta'.  
+Tutti gli insegnamenti impartiti nella facolta' sono di lezioni teoriche e di esercizi pratici che possono essere integrati da visite a fabbriche industriali e da esercitazioni in foresta.  
+Gli esami di profitto sono orali, ma possono essere integrati da prove pratiche. Il voto e' pero' complessivo.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1979
+### Dato a Roma, addi' 3 ottobre 1979
 
 PERTINI VALITUTTI
 
 Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 16 giugno 1980
+Registrato alla Corte dei conti, addi' 20 ottobre 1979
 
-Registro n. 56 Istruzione, foglio n. 151
+Registro n. 76 Istruzione, foglio n. 31

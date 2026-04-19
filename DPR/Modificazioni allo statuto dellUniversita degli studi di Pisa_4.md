@@ -1,139 +1,108 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 655
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1951 n. 1801
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 655
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1951 n. 1801
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Pisa, approvato con [decreto del Presidente della Repubblica 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1926-10-14;2278), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
-  
-Dopo l'art. 154, con il conseguente scorrimento della numerazione degli articoli successivi, sono inseriti i seguenti articoli con l'intitolazione "Normativa generale scuole dirette a fini speciali":  
-  
-Normativa generale scuole dirette a fini speciali  
-  
-Art. 155. - Nell'Universita' di Pisa sono istituite le seguenti scuole dirette a fini speciali:  
-scuola diretta a fini speciali in informatica.  
-Art. 156. - Sono ammessi alle scuole dirette a fini speciali i diplomati degli istituti di istruzione secondaria di secondo grado in conformita' con le disposizioni vigenti per l'ammissione ai corsi di laurea, fatto salvo l'eventuale ulteriore requisito di ammissione previsto per le singole scuole, cioe' il possesso della specifica qualifica di base.  
-Il numero massimo degli iscrivibili per ciascuna scuola e' determinato dalla normativa specifica.  
-Art. 157. - Qualora il numero degli aspiranti sia superiore a quello dei posti disponibili, l'accesso alla scuola, nei limiti dei posti disponibili, e' subordinato al superamento di un esame consistente in una prova scritta che potra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e dalla valutazione, in misura non superiore al 30% del punteggio a disposizione della commissione esaminatrice, dei titoli di studio richiesti per l'ammissione. Le modalita' e il programma di tali prove vengono indicate nel bando di concorso per ciascuna scuola.  
-Sono ammessi ai corsi i candidati che in relazione al numero delle iscrizioni disponibili si siano collocati in posizione utile nella graduatoria compilata sulla base del punteggio complessivo riportato.  
-La commissione per l'esame di ammissione e' costituita da cinque professori di ruolo designati dal consiglio della scuola.  
-Art. 158. - L'importo delle tasse e sovrattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge. I contributi sono stabiliti anno per anno dal consiglio di amministrazione dell'Universita', sentito il consiglio della scuola.  
-Art. 159. - Sono organi della scuola il direttore e il consiglio della scuola.  
-Art. 160. - Il direttore ha la responsabilita' della scuola. E' un professore di ruolo della scuola, di norma di prima fascia. In caso di motivato impedimento dei professori di prima fascia la direzione e' affidata a un professore di seconda fascia. Il direttore e' eletto dal consiglio della scuola, di cui al successivo articolo, convoca il consiglio della scuola e lo presiede; ha nell'ambito della conduzione della scuola, le funzioni proprie dei presidenti di consiglio di corso di laurea. Il direttore promuove, per la stipula attraverso il consiglio di amministrazione dell'Universita' e il rettore, le convenzioni per lo svolgimento delle attivita' di formazione.  
-Per la gestione dei fondi a disposizione della scuola si applicano le norme dettate per gli istituti dal regolamento per l'amministrazione e la contabilita' generale dell'Universita', il direttore dura in carica tre anni ed e' rieleggibile. Nel manifesto annuale degli studi viene indicata la sede della direzione della scuola.  
-Art. 161. - Il consiglio della scuola e' composto da tutti i docenti di ruolo della scuola e dagli eventuali docenti a contratto, da una rappresentanza di tre studenti, eletti secondo quanto previsto dall'[art. 99 del decreto del Presidente della Repubblica n. 382/80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art99) e ai sensi dell'[art. 8 del decreto del Presidente della Repubblica n. 162/82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;162~art8), dalle altre componenti previste dall'[art. 94 del decreto del Presidente della Repubblica n. 382/80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art94). In ogni caso al consiglio della scuola partecipa anche una rappresentanza dei ricercatori che svolgono attivita' nella scuola, secondo quanto previsto dall'[art. 8 del decreto del Presidente della Repubblica n. 162/82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;162~art8).  
-Art. 162. - Il consiglio della scuola ne conduce e coordina le attivita' con i consigli dei dipartimenti e delle facolta' interessati, inclusi la designazione dei docenti, l'affidamento degli insegnamenti e le eventuali proposte di contratti.  
-In prima istituzione, i docenti che costituiscono il consiglio della scuola vengono designati in rapporto agli insegnamenti da attivare con apposita delibera, dei consigli di facolta' interessate, sentiti i consigli dei dipartimenti coinvolti.  
-Art. 163. - Lo studente e' tenuto a seguire tutti i corsi di lezione e a partecipare a tutte le attivita' pratiche e alle esercitazioni previste, per ciascun anno di corso, dal manifesto degli studi pubblicato annualmente dal consiglio della scuola nel quadro delle norme piu' sotto indicate.  
-La frequenza della scuola e' obbligatoria per tutti gli iscritti.  
-Le modalita' di accertamento della frequenza sono determinate nel manifesto degli studi.  
-Art. 164. - L'organizzazione didattica della scuola avviene con le modalita' e i limiti stabiliti dall'[art. 4 del decreto del Presidente della Repubblica n. 162/82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;162~art4): agli studenti della scuola si applicano le disposizioni di legge e di regolamento riguardanti gli studenti universitari ai sensi dell'[art. 10 del decreto del Presidente della Repubblica n. 162/82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;162~art10).  
-Art. 165. - Il corso si conclude con un esame di diploma consistente nella presentazione e discussione di un elaborato finalizzato alla professionalita' specifica, predisposto sotto la guida di un docente.  
-
-Art. 2
+Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con i [regi decreti 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2225); [20 settembre 1928, n. 2251](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1928-09-20;2251); [31 ottobre 1929, n. 2473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1929-10-31;2473); [30 ottobre 1930, n. 1916](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1916); [22 ottobre 1931, n. 1339](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-22;1339); [27 ottobre 1932, n. 2098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2098); [13 dicembre 1934, n. 2408](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-13;2408); [10 ottobre 1936, n. 2462](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-10;2462); [27 ottobre 1937, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1937-10-27;2170); [9 maggio 1939, n. 1314](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-05-09;1314); [5 ottobre 1939, n. 1744](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1744); [26 ottobre 1940, n. 2071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2071); [27 aprile 1942, n. 469](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;469) e [24 ottobre 1942, n. 1652, con il decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1652) [30 dicembre 1947, n. 1689 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1689) [17 febbraio 1949, n. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-17;97); [30 ottobre 1949, n. 1169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1169); [31 ottobre 1950, n. 1309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1309) e [11 aprile 1951, n. 566](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;566);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni;  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Sono inseriti i seguenti articoli e intitolazione relativi all'istituzione della scuola diretta a fini speciali in "informatica".   
-Scuola diretta a fini speciali in informatica   
-Art. 166. - E' istituita presso l'Universita' di Pisa una scuola   
-diretta a Fini speciali in informatica.   
-La scuola ha il compito di preparare personale con competenze informatiche, in grado di affrontare i problemi connessi con il trattamento e l'elaborazione dei dati.   
-La scuola rilascia il diploma in informatica   
-Art. 167. - La scuola ha la durata di due anni. Ciascun anno   
-prevede 250 ore di insegnamento e 250 ore di attivita' pratiche guidate.   
-In base alle strutture disponibili, la scuola e' in grado di accettare un numero massimo di iscritti determinato in cento per ciascun anno di corso, per un totale di duecento studenti.   
-Art. 168. - Concorrono alla costituzione della scuola la facolta' di scienze matematiche, fisiche e naturali e i dipartimenti di informatica e di matematica. La scuola e' aperta ai contributi di altre facolta' e dipartimenti. A tal fine, su proposta del consiglio della scuola, la facolta' di scienze matematiche, fisiche e naturali potra' invitare altre facolta' a designare i docenti di specifiche discipline. Nel manifesto annuale degli studi viene indicata la sede della direzione della scuola.   
-Art. 169. - Gli insegnamenti impartiti sono i seguenti:   
-1° Anno.   
-istituzioni di matematica;   
-introduzione alla programmazione;   
-
-((architettura degli elaboratori))
-
-;   
-linguaggi e metodi di programmazione;   
-due insegnamenti scelti tra quelli opzionali.   
-2° Anno.   
-sistemi per l'elaborazione dei dati;   
-basi di dati;   
-sistemi informativi;   
-tre insegnamenti scelti tra quelli opzionali.   
-Gli insegnamenti opzionali sono i seguenti:   
-applicazioni della ricerca operativa;   
-applicazioni gestionali 1;   
-applicazioni gestionali 2;   
-automazione degli uffici;   
-automazione industriale;   
-calcolo numerico;   
-elementi di elettronica;   
-elementi di progettazione di sistemi digitali;   
-fondamenti di informatica;   
-laboratorio di programmazione;   
-matematica computazionale;   
-metodi e applicazioni dell'analisi matematica;   
-probabilita' e statistica;   
-sistemi operativi;   
-metodologie della programmazione;   
-telematica e sistemi distribuiti.   
-Tutti gli insegnamenti sono semestrali.   
-Gli insegnamenti di linguaggi e metodi di programmazione e di sistemi per l'elaborazione dei dati sono a prevalente carattere tecnico pratico.   
-Gli insegnamenti possono essere costituiti con opportuni raggruppamenti e coordinamenti di insegnamenti di corsi di laurea o di altri corsi di diploma.   
-Per la scelta degli insegnamenti opzionali, all'inizio di ciascun anno gli studenti dovranno presentare un piano sulla base delle indicazioni contenute nel manifesto degli studi, che indichera' l'effettiva attivazione degli insegnamenti e la loro collocazione in aree culturali omogenee.   
-I piani di studio sono approvati dal consiglio della scuola. Non sono ammesse abbreviazioni di corso.   
-Art. 170. - Gli insegnamenti prevedono attivita' pratiche che consistono in esercitazioni sulla materia trattata nel corso e in attivita' sperimentali.   
-Art. 171. E' obbligatorio un tirocinio che si svolge sotto la guida di un docente, di massima nell'ambito di uno dei corsi opzionali del secondo anno, ed ha la durata di almeno 80 ore.   
-La frequenza dei corsi e del tirocinio pratico e' obbligatoria.   
-Art. 173. - Il corso si conclude con un esame di diploma   
-consistente nella presentazione e discussione di un elaborato finalizzato alla professionalita' specifica, predisposto sotto la guida di un docente.   
-Art. 174. - L'Universita', su proposta del consiglio della scuola, puo' stabilire convenzioni con enti pubblici e privati, con finalita' di sovvenzionamento e di utilizzazione di strutture extrauniversitarie per lo svolgimento di attivita' didattiche ai sensi del [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382) e del [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162).   
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:  
+Attuale art. 52. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
+10) Anatomia chirurgica e corso di operazioni;  
+11) Parassitologia;  
+12) Clinica ortopedica.  
+Dopo l'attuale art. 217, sono aggiunti i seguenti nuovi articoli, relativi all'istituzione della Scuola di specializzazione in "medicina generale" e della Scuola di perfezionamento in "malattie nervose e mentali".  
+  
+Scuola di specializzazione in medicina generale  
+  
+Art. 218. - La Scuola di specializzazione in medicina generale ha la durata di quattro anni.  
+Il direttore della clinica medica e il direttore della Scuola.  
+Il Consiglio della scuola si compone dei professori che vi tengano gli insegnamenti prescritti ed e presieduto dal direttore.  
+Art. 219. - Il numero massimo degli allievi che possono essere accolti annualmente dalla Scuola e' fissato anno per anno dal Consiglio della Facolta, su proposta della Direzione della scuola in rapporto alle possibilita' didattiche dei vari Istituti presso i quali gli allievi debbono compiere gli internati.  
+Art. 220. - Le domande di ammissione, dirette al rettore dell'Universita', sono rimesse poi al direttore della Scuola, il quale, dopo avere valutato i titoli degli aspiranti, sottopone ognuno di essi ad un esame per accertare le attitudini e la preparazione a seguire i corsi della Scuola.  
+In base a questi elementi il direttore procede alla graduatoria degli aspiranti, che deve essere approvata e' resa esecutiva dal preside della Facolta'.  
+Art. 221. - Le discipline specifiche di insegnamento e le esercitazioni di laboratorio sono stabilite dalla Direzione della scuola che, anno per anno, stabilisce i turni degli internati prescritti.  
+Per le materie proprie della Scuola debbono essere tenuti corsi appositi; per le discipline che non formano direttamente oggetto della specializzazione i corsi di insegnamento e le esercitazioni possono essere sostituiti da periodi di internato nei rispettivi Istituti.  
+Art. 222. - Gli insegnamenti vengono conferiti per incarico dal Consiglio della Facolta' a professori di molo ed incaricati, a liberi docenti, ad aiuti ed assistenti ed anche a persona di riconosciuta competenza nella specialita'.  
+Art. 223. - Gli allievi sono tenuti ad osservare scrupolosamente l'orario delle lezioni e delle esercitazioni ed a compiere i turni di internato stabiliti dall'ordinamento della Scuola.  
+Il servizio di internato comporta, sotto la vigilanza del direttore, l'adempimento di tutte le funzioni di assistente. A controllo della presenza degli allievi e' prescritto un registro a firma.  
+Art. 224. - Gli allievi possono ottenere un mese all'anno di vacanze preferibilmente nel periodo estivo. Un numero di assenze superiore, nel complesso, a sessanta giorni in un anno, rende non valido l'anno accademico.  
+Art. 225. - Gli allievi, durante gli anni di corso di specializzazione, non possono, sotto pena di esclusione dalla Scuola, tenere altre occupazioni, anche non di carattere professionale, che li distolgano dai loro doveri verso la Scuola stessa.  
+Art. 226. - Per essere ammessi all'esame di diploma gli iscritti devono aver superato tutti gli esami speciali di profitto stabiliti per ciascuna Scuola. I perfezionandi pagheranno le tasse, sopratasse e contributi che verranno determinati dal Consiglio di amministrazione dell'Universita' di anno in anno, oltre alla tassa di diploma di L. 800.  
+Art. 227. - L'esame di diploma consiste in una discussione sopra una dissertazione originale scritta, ed in una prova teorica e pratica stabilita dalla Commissione giudicatrice.  
+A coloro che hanno superato l'esame di diploma viene rilasciato il "diploma di specialista".  
+Art. 228. - Le materie d'insegnamento sono le seguenti:  
+1° anno:  
+Semeiotica medica;  
+Patologia dei singoli apparati e sistemi;  
+Diagnostica radiologica;  
+Anatomia ed istologia patologica.  
+2° anno:  
+Semeiologia medica strumentale e funzionale;  
+Patologia del ricambio; patologia endocrina;  
+Patologia del sistema emopoietico; patologia dei sistema nervoso;  
+Anatomia ed istologia patologica;  
+Metodologia delle indagini di laboratorio a scopi clinici;  
+Batteriologia clinica.  
+3° anno:  
+Malattie infettive, tisiologia; patologia dell'apparato respiratorio;  
+Terapia;  
+Sierologia;  
+Metodologia delle indagini di laboratorio a scopi clinici.  
+4° anno:  
+Patologia renale; patologia esotica; patologia dell'apparato digerente; patologia del cuore e del circolo; patologia delle articolazioni;  
+Terapia;  
+Elettrocardiografia.  
+Ogni mese gli allievi sono tenuti a riferire su un caso clinico o su un argomento prestabilito dal direttore del corso.  
+La Direzione della scuola potra' integrare i corsi con conferenze su argomenti speciali.  
+  
+Scuola di perfezionamento in malattie nervose e mentali  
+  
+Art. 229. - Il corso della Scuola ha la durata di tre anni.  
+Le materie d'insegnamento sono le seguenti:  
+a) Anatomia del sistema nervoso;  
+b) Fisiologia, e fisiopatologia del sistema nervoso;  
+c) Istologia e isto-patologia del sistema nervoso;  
+d) Semeiotica neurologica e psichiatrica;  
+e) Patologia speciale delle malattie nervose e mentali;  
+f) Diagnostica delle malattie nervose e mentali g) Nozioni di psicologia, teorica e sperimentale;  
+h) Terapia delle malattie nervose e mentali;  
+i) Nozioni di tecnica manicomiale.  
+Art. 230. - L'insegnamento pratico e impartito dal direttore della clinica coadiuvato dagli assistenti della clinica e da altri professori, liberi docenti della disciplina, che egli indichera' di volta in volta.  
+Art. 231. - Tutti gli iscritti hanno l'obbligo della frequenza alle lezioni delle singole materie e alle esercitazioni.  
+Art. 232. - E' obbligatoria la frequenza giornaliera della clinica, la partecipazione alla visita mattutina degli ammalati ricoverati, alla collaborazione con gli assistenti effettivi nel disbrigo delle cartelle cliniche, alle visite ambulatorie e a tutte quelle altre mansioni che verranno loro affidate.  
+E' obbligatorio altresi' la frequenza alle lezioni del corso ufficiale di clinica delle malattie nervose e mentali tenuto dal direttore ed alle esercitazioni. Ove il direttore lo richiedera', o obbligatorio il servizio di guardia diurno e notturno della clinica seguendo particolari turni che verranno fissati in precedenza.  
+Art. 233. - Al termine del corso gli iscritti dovranno superare una prova di esame generale sulle materie trattate durante il corso stesso e potranno essere ammessi all'esame di diploma consistente nella discussione di una tesi scritta e nella discussione di un caso clinico.  
+Art. 234. - Il numero annuale degli ammessi alla iscrizione e di quattro.  
+Art. 235. - I perfezionandi pagheranno le tasse, sopratasse e contributi che verranno determinati dal Consiglio di amministrazione dell'Universita' di anno in anno, oltre alla tassa di diploma di L. 800.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 luglio 1986
+### Dato a Roma, addi' 27 ottobre 1951
 
-COSSIGA
+EINAUDI SEGNI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: ZOLI
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 23 aprile 1952
 
-Registrato alla Corte dei conti, addi' 3 ottobre 1986
-
-Registro n. 73 Istruzione, foglio n. 316
+Atti del Governo, registro n. 53, foglio n. 8. - FRASCA

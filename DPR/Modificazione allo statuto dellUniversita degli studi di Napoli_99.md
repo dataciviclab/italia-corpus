@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 aprile 1980 n. 363
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 1125
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 aprile 1980 n. 363
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 1125
+===============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -19,6 +19,10 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -37,37 +41,20 @@ Articolo unico
 --------------
 
   
-Art. 146 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia - seconda facolta' - sono aggiunti i seguenti:  
-psicoterapia;  
-ortognatodonzia;  
-paradontologia;  
-fisiopatologia cardiovascolare;  
-oftalmologia pediatrica;  
-semeiotica oftalmologica;  
-dermatologia sperimentale;  
-tossicologia industriale;  
-igiene industriale;  
-parassitologia clinica;  
-micologia clinica;  
-nefrochirurgia;  
-immuno-ematologia forense;  
-chimica tossicologica forense;  
-tecniche operatorie generali;  
-diritto sanitario;  
-biochimica clinica;  
-tecniche semeiologiche speciali chirurgiche;  
-ematologia.  
+Nell'art. 137, relativo agli istituti annessi alla prima facolta' di medicina e chirurgia, e' istituito l'istituto polidisciplinare di medicina generale e sistematica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 aprile 1980
+### Dato a Roma, addi' 4 ottobre 1986
 
-PERTINI SARTI
+COSSIGA
 
-Visto, il Guardasigilli: MORLINO
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 26 giugno 1980
+Visto, il Guardasigilli: ROGNONI
 
-Registro n. 61 Istruzione, foglio n. 324
+Registrato alla Corte dei conti, addi' 17 giugno 1987
+
+Registro n. 36 Istruzione, foglio n. 341

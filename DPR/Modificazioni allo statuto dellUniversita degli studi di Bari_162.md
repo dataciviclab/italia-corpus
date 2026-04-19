@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 aprile 1965 n. 451
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1097
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 aprile 1965 n. 451
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1097
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 1269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;1269), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,198 +20,64 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica istruzione:
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 20. - Agli insegnamenti complementari del corso di laurea in Economia e commercio e' aggiunto quello di "Diritto fallimentare".
+Articolo unico
+--------------
 
-Art. 35. - Agli insegnamenti complementari del corso di laurea in Farmacia e' aggiunto quello di "Chimica delle sostanze organiche naturali".
-
-Art. 52. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di "Storia della geografia" e di "Civilta' egee".
-
-Art. 90, relativo alle norme sulla propedeuticita' del corso di laurea in Scienze biologiche, e' modificato nel senso che e' aggiunta la seguente disposizione:
-
-h) non potra' essere ammesso a sostenere gli esami di Genetica senza prima aver superato gli esami di Botanica e di Zoologia.
-
-Dopo l'art. 142, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di perfezionamento in Fisica con il conseguente spostamento della numerazione successiva.
-
-Scuola di perfezionamento in Fisica
-
-Art. 143. - Presso la Facolta' di scienze matematiche, fisiche e naturali e' istituita una Scuola di perfezionamento in fisica. Essa ha lo scopo di preparare i laureati alla ricerca scientifica, all'insegnamento e alle applicazioni pratiche nel campo della fisica.
-
-Art. 144. - La Scuola e' retta da un Consiglio direttivo composto da cinque docenti della Scuola, nominati dal rettore su proposta del Consiglio di facolta'. Il Consiglio direttivo nominera' il direttore scegliendolo tra i suoi membri.
-
-Art. 145. - Il Consiglio direttivo determina per ogni anno accademico:
-
-a) gli indirizzi di specializzazione della Scuola;
-
-b) i programmi dei singoli corsi e la rispettiva durata;
-
-c) il numero degli esami richiesti per il conseguimento del diploma secondo le diverse specializzazioni e le modalita' di essi;
-
-d) quali corsi dovranno essere considerati come fondamentali e quali complementari;
-
-e) il numero degli allievi che possono ammettersi e i requisiti per l'ammissione;
-
-f) le proposte da sottoporre al Consiglio di amministrazione in merito all'ammontare dei contributi da richiedere per la iscrizione ai singoli corsi e all'impiego di questi per il funzionamento della scuola.
-
-Art. 146. - Di uno stesso insegnamento, genericamente indicato in seguito, possono venire incaricati piu' docenti aventi specifica competenza nelle diverse parti del programma.
-
-Art. 147. - Alla Scuola di perfezionamento sono ammessi i laureati in Fisica, in Matematica, in Chimica ed in Ingegneria.
-
-Art. 148. - Per il conseguimento del diploma di perfezionamento in Fisica si richiede una frequenza di due anni. E' in facolta' del Consiglio direttivo di abbreviare questo termine ad un anno, in casi speciali, tenendo conto dei titoli dei singoli candidati, in particolare di quelli provenienti da altre scuole di perfezionamento.
-
-Art. 149. - La Scuola ha sede nei locali dell'Istituto di fisica della Universita' di Bari.
-
-Art. 150. - Gli insegnamenti previsti per la Scuola sono i seguenti:
-
-1) Fisica teorica;
-
-2) Fisica delle particelle elementari;
-
-3) Fisica dei nuclei;
-
-4) Tecniche nucleari;
-
-5) Reattori nucleari;
-
-6) Macchine acceleratrici;
-
-7) Fisica dello spazio;
-
-8) Fisica dei plasmi;
-
-9) Astrofisica;
-
-10) Elettrodinamica;
-
-11) Fisica delle basse temperature;
-
-12) Elettronica;
-
-13) Cibernetica e teoria dell'informazione;
-
-14) Semiconduttori;
-
-15) Fisica dei solidi;
-
-16) Fisica atomica;
-
-17) Radiochimica;
-
-18) Chimica nucleare;
-
-19) Geologia nucleare;
-
-20) Meccanica statistica;
-
-21) Relativita';
-
-22) Fisica degli stati aggregati;
-
-23) Matematiche superiori;
-
-24) Corsi monografici.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 15 aprile 1965
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla corte dei conti, addi' 15 maggio 1965 Atti del Governo, registro n. 193, foglio n. 89. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione:  
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 20. - Agli insegnamenti complementari del corso di laurea in Economia e commercio e' aggiunto quello di "Diritto fallimentare".  
-Art. 35. - Agli insegnamenti complementari del corso di laurea in Farmacia e' aggiunto quello di "Chimica delle sostanze organiche naturali".  
-Art. 52. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di "Storia della geografia" e di "Civilta' egee".  
-Art. 90, relativo alle norme sulla propedeuticita' del corso di laurea in Scienze biologiche, e' modificato nel senso che e' aggiunta la seguente disposizione:  
-h) non potra' essere ammesso a sostenere gli esami di Genetica senza prima aver superato gli esami di Botanica e di Zoologia.  
-Dopo l'art. 142, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di perfezionamento in Fisica con il conseguente spostamento della numerazione successiva.  
-  
-Scuola di perfezionamento in Fisica  
-Art. 143. - Presso la Facolta' di scienze matematiche, fisiche e naturali e' istituita una Scuola di perfezionamento in fisica. Essa ha lo scopo di preparare i laureati alla ricerca scientifica, all'insegnamento e alle applicazioni pratiche nel campo della fisica.  
-Art. 144. - La Scuola e' retta da un Consiglio direttivo composto da cinque docenti della Scuola, nominati dal rettore su proposta del Consiglio di facolta'. Il Consiglio direttivo nominera' il direttore scegliendolo tra i suoi membri.  
-Art. 145. - Il Consiglio direttivo determina per ogni anno accademico:  
-a) gli indirizzi di specializzazione della Scuola;  
-b) i programmi dei singoli corsi e la rispettiva durata;  
-c) il numero degli esami richiesti per il conseguimento del diploma secondo le diverse specializzazioni e le modalita' di essi;  
-d) quali corsi dovranno essere considerati come fondamentali e quali complementari;  
-e) il numero degli allievi che possono ammettersi e i requisiti per l'ammissione;  
-f) le proposte da sottoporre al Consiglio di amministrazione in merito all'ammontare dei contributi da richiedere per la iscrizione ai singoli corsi e all'impiego di questi per il funzionamento della scuola.  
-Art. 146. - Di uno stesso insegnamento, genericamente indicato in seguito, possono venire incaricati piu' docenti aventi specifica competenza nelle diverse parti del programma.  
-Art. 147. - Alla Scuola di perfezionamento sono ammessi i laureati in Fisica, in Matematica, in Chimica ed in Ingegneria.  
-Art. 148. - Per il conseguimento del diploma di perfezionamento in Fisica si richiede una frequenza di due anni. E' in facolta' del Consiglio direttivo di abbreviare questo termine ad un anno, in casi speciali, tenendo conto dei titoli dei singoli candidati, in particolare di quelli provenienti da altre scuole di perfezionamento.  
-Art. 149. - La Scuola ha sede nei locali dell'Istituto di fisica della Universita' di Bari.  
-Art. 150. - Gli insegnamenti previsti per la Scuola sono i seguenti:  
-1) Fisica teorica;  
-2) Fisica delle particelle elementari;  
-3) Fisica dei nuclei;  
-4) Tecniche nucleari;  
-5) Reattori nucleari;  
-6) Macchine acceleratrici;  
-7) Fisica dello spazio;  
-8) Fisica dei plasmi;  
-9) Astrofisica;  
-10) Elettrodinamica;  
-11) Fisica delle basse temperature;  
-12) Elettronica;  
-13) Cibernetica e teoria dell'informazione;  
-14) Semiconduttori;  
-15) Fisica dei solidi;  
-16) Fisica atomica;  
-17) Radiochimica;  
-18) Chimica nucleare;  
-19) Geologia nucleare;  
-20) Meccanica statistica;  
-21) Relativita';  
-22) Fisica degli stati aggregati;  
-23) Matematiche superiori;  
-24) Corsi monografici.  
+Nell'art. 117, lettera B, relativo al corso di laurea in ingegneria civile, sezione idraulica, l'insegnamento di "idrografia e idrologia" cambia la denominazione in "idrologia con elementi di statistica".   
+Nell'art. 119, lettera B, relativo al corso di laurea in ingegneria elettrotecnica, sono soppressi gli insegnamenti di "tecnologie meccaniche" e "legislazione".   
+Nell'art. 121, relativo agli insegnamenti a scelta dello studente, gli insegnamenti di:   
+calcolo numerico e programmazione;   
+calcolo delle probabilita' e statistica (semestrale);   
+costruzioni automobilistiche;   
+macchine per l'agricoltura e i cantieri;   
+termodinamica applicata;   
+impianti tecnici per l'edilizia;   
+plasticita' e lavorazioni plastiche (semestrale);   
+tecniche fotogrammetriche applicate alla urbanistica ed alla architettura (semestrale);   
+gasdinamica e principi di aerotecnica;   
+complementi di idraulica (semestrale), mutano la denominazione rispettivamente in:   
+calcolo numerico ed elementi di statistica;   
+fluidodinamica numerica (semestrale);   
+meccanica dell'autoveicolo;   
+problemi speciali di meccanica delle macchine agricole e di cantieri;   
+generatori di potenza ed impianti termici;   
+impianti tecnici dell'edilizia;   
+lavorazioni per deformazione plastica (semestrale);   
+fotogrammetria architettonica (semestrale);   
+gasdinamica;   
+complementi di costruzioni idrauliche (semestrale).   
+Nello stesso elenco sono aggiunti i seguenti nuovi insegnamenti:   
+tecnologie meccaniche;   
+legislazione.   
+Nell'art. 125, relativo agli istituti annessi alla facolta' di ingegneria, gli istituti di "fisica tecnica" e di "costruzioni di macchine" mutano la denominazione rispettivamente in "istituto di fisica tecnica ed impianti termotecnici" e "istituto di meccanica e costruzioni delle macchine".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 aprile 1965
+### Dato a Roma, addi' 31 ottobre 1981
 
-SARAGAT GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla corte dei conti, addi' 15 maggio 1965
+Registrato alla Corte dei conti, addi' 10 marzo 1982
 
-Atti del Governo, registro n. 193, foglio n. 89. - VILLA
+Registro n. 38 Istruzione, foglio n. 248

@@ -1,65 +1,55 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1383
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 1086
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1383
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 1086
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Veduto lo statuto dell'Universita' degli studi di Napoli approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1936, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
+Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090) e modificato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17) per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
+Articolo unico
+--------------
+
   
 Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Dopo l'art. 376, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in medicina dello sport, con il conseguente spostamento della numerazione degli articoli successivi.  
-Scuola di specializzazione in medicina dello sport  
-Art. 377. - La durata del corso e' di due anni ed il numero degli iscritti e' limitato a quaranta allievi.  
-Art. 378. - La direzione della scuola e' affidata al titolare della cattedra di Anatomia umana.  
-Art. 379. - Le materie di insegnamento sono:  
-1° anno:  
-1) Anatomia normale dei sistemi locomotore, cardiorespiratorio e nervoso;  
-2) Biofisica;  
-3) Fisiologia generale (con particolare riferimento agli apparati respiratorio e circolatorio nonche' del locomotore);  
-4) Fisio-patologia generale (con particolare riguardo agli apparati di cui sopra);  
-5) Patologia chirurgica, (con particolare riguardo alle lesioni traumatiche del torace, addome, cranio);  
-6) Biochimica.  
-Durante il corso saranno svolte conferenze straordinarie su argomenti di cardiologia, reumatologia, elementi di statistica, antropometria.  
-2° anno:  
-1) Fisiologia applicata allo sport (metodi di ricerca e di misurazione con particolare riguardo alle applicazioni sui campi agonistici);  
-2) Chirurgia d'urgenza - pronto soccorso;  
-3) Traumatologia e ortopedia - tecnica, degli apparecchi gessati;  
-4) Clinica medica - soccorso medico d'urgenza;  
-5) Neurologia;  
-6) Medicina legale e infortunistica.  
-Durante il corso saranno svolte conferenze straordinarie su argomenti di: oculistica e traumatologia oculare, patologia vascolare, fisiologica, della alimentazione, psicologia dello sport, tecnica del massaggio.  
-Art. 380. - Le tasse di iscrizione e di frequenza saranno eguali a quelle delle altre scuole di specializzazione presso la Facolta' di medicina di Napoli.  
-La tassa di diploma e' fissata nella misura di L. 6000 a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
-L'importo del contributo annuale per esercitazioni materiale didattico sara' determinato dal Consiglio di amministrazione su proposta della Facolta'.  
+All'art. 655, relativo alla scuola di specializzazione in chirurgia d'urgenza e pronto soccorso, il secondo comma e' sostituito dal seguente:  
+"Il numero massimo degli iscritti e' di quindici per anno di corso e complessivamente di settantacinque per l'intero corso di studi".  
+Il primo comma dell'art. 657, relativo alla scuola di specializzazione in chirurgia vascolare, e' sostituito dal seguente: "Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di cinquanta iscritti per l'intero corso di studi".  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 ottobre 1960
+### Dato a Roma, addi' 22 settembre 1981
 
-GRONCHI BOSCO
+PERTINI BODRATO
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 24 novembre 1960
+Registrato alla Corte dei conti, addi' 10 marzo 1982
 
-Atti del Governo, registro n. 131, foglio n. 93. - VILLA
+Registro n. 38 Istruzione, foglio n. 261

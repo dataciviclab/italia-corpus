@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1982 n. 521
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 giugno 1977 n. 579
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1982 n. 521
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 giugno 1977 n. 579
 =============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-521. Decreto del Presidente della Repubblica 8 giugno 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare, al prezzo di L. 11.000.000, ritenuto congruo dall'ufficio tecnico erariale di Latina, un immobile sito in Latina, via E. Filiberto n. 103, censito al nuovo catasto edilizio urbano alla partita n. 995, foglio numero 142, mappale 3/13, di proprieta' dei signori Antonio Sesti e Antonia Pastore, a condizione di inesistenza di trascrizioni o iscrizioni a carico dei predetti venditori dell'immobile specificato per, il periodo dal 27 aprile 1978 al giorno della trascrizione dell'atto di acquisto da parte dell'Unione italiana dei ciechi.  
+579. Decreto del Presidente della Repubblica 22 giugno 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare dalla sig.ra Mattia Luisa ved. Epifano, al convenuto prezzo di L. 14.000.000, un appartamento sito in Potenza, corso Garibaldi, 42, composto di 4 vani ed accessori per una superficie di mq 120, indicato in catasto alla partita 2970, foglio 48, particella 360/9, da adibire a sede della locale sezione provinciale. L'ufficio tecnico erariale di Potenza ha fatto presente che il valore di L. 16.000.000 attribuito all'immobile dal perito di parte geom. Canio Cillo puo' ritenersi congruo.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 2 agosto 1982  
-Registro n. 7 Presidenza, foglio n. 234
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 17 agosto 1977  
+Registro n. 7 Presidenza, foglio n. 89

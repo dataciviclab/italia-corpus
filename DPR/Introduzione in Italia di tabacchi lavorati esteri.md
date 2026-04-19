@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1960 n. 959
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 giugno 1960 n. 738
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1960 n. 959
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 giugno 1960 n. 738
 =============================================================
 
 Introduzione in Italia di tabacchi lavorati esteri.
@@ -33,7 +33,7 @@ Art. 1
 ------
 
   
-Sono iscritti nella tariffa generale di vendita al pubblico dei tabacchi lavorati esteri (tabella allegato L al [decreto del Presidente della Repubblica 15 dicembre 1959, n. 1114](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-12-15;1114)) i sottoindicati prodotti esteri, il cui prezzo di tariffa e di vendita al pubblico viene stabilito nella misura a fianco di ciascuno indicata:  
+E' iscritto nella tariffa generale di vendita al pubblico dei tabacchi lavorati esteri (tabella allegato L al [decreto del Presidente della Repubblica 15 dicembre 1959, n. 1114](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-12-15;1114)) il sottoindicato prodotto estero, il cui prezzo di tariffa e di vendita al pubblico viene stabilito nella misura a fianco di esso indicata:  
   
 ----> Parte di provvedimento in formato grafico <----  
 
@@ -61,12 +61,12 @@ Il presente decreto entra in vigore il giorno della pubblicazione nella Gazzetta
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 agosto 1960
+### Dato a Roma, addi' 22 giugno 1960
 
-GRONCHI FANFANI - TRABUCCHI
+GRONCHI TAMBRONI - TRABUCCHI
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 3 settembre 1960
+Registrato alla Corte del conti, addi' 23 luglio 1960
 
-Atti del Governo, registro n. 129, foglio n. 9. - VILLA
+Atti del Governo, registro n. 128, foglio n. 84. - VILLA

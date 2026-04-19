@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 aprile 1959 n. 1258
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1970 n. 596
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 aprile 1959 n. 1258
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1970 n. 596
+=============================================================
 
 Approvazione del nuovo statuto dell'Accademia medica, con sede in Roma.
 -----------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1258. Decreto del Presidente della Repubblica 7 aprile 1959, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvato il nuovo statuto dell'Accademia medica, con sede in Roma.  
+596. Decreto del Presidente della Repubblica 10 giugno 1970, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvato il nuovo statuto dell'Accademia medica, con sede in Roma.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 3 febbraio 1960  
-Atti del Governo, registro n. 124, foglio n. 27. - VILLA
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 7 agosto 1970  
+Atti del Governo, registro n. 237, foglio n. 12. - CARUSO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1981 n. 1092
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 settembre 1971 n. 966
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1981 n. 1092
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 settembre 1971 n. 966
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,36 +18,170 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio universitario nazionale nel suo parere;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Sentito il parere del Consiglio universitario nazionale;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sulla
------
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Sulla proposta del Ministro per la pubblica istruzione;
 
-Articolo unico
---------------
+Decreta:
 
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 90. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:
+
+Letteratura neogreca;
+
+Filologia greco medioevale e neogreca;
+
+Filologia slava;
+
+Filologia medioevale e umanistica;
+
+Letteratura italiana moderna e contemporanea.
+
+Art. 98. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo) sono aggiunti i seguenti:
+
+Letteratura neogreca;
+
+Filologia slava.
+
+Art. 146. - All'elenco degli insegnamenti complementari del corso di laurea in matematica, indirizzo generale, sono aggiunti i seguenti:
+
+Teorie relativistiche;
+
+Meccanica analitica.
+
+Art. 147. - All'elenco degli insegnamenti complementari del corso di laurea in matematica, indirizzo didattico, sono aggiunti i seguenti:
+
+Teorie relativistiche;
+
+Meccanica analitica.
+
+Art. 148. - All'elenco degli insegnamenti complementari del corso di laurea in matematica, indirizzo applicativo (sia ad orientamento numerico che ad orientamento meccanico) sono aggiunti i seguenti:
+
+Teorie relativistiche;
+
+Meccanica analitica.
+
+L'art. 149, relativo alle propedeuticita' degli esami del corso di laurea in matematica e' modificato nel senso che nel sesto comma l'insegnamento di "Astronomia" e' soppresso e sostituito da "Astrodinamica".
+
+Nello stesso articolo l'ultimo comma e' modificato nel senso che dopo l'insegnamento di "Teoria delle forze nucleari" e' aggiunto "Astronomia".
+
+Art. 152. - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:
+
+Biologia marina;
+
+Idrobiologia.
+
+L'art. 153, relativo alle propedeuticita' del corso di laurea in scienze naturali e' abrogato e sostituito dal seguente:
+
+"Gli esami di istituzioni di matematica, di fisica e di chimica generale ed inorganica sono da considerarsi propedeutici rispetto a quelli del III e IV anno, solo ai fini della successione degli stessi".
+
+Art. 156. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:
+
+Biologia marina;
+
+Idrobiologia;
+
+Enzimologia.
+
+Nello stesso articolo dopo l'elenco degli insegnamenti complementari l'ultimo comma e' abrogato e sostituito dal seguente:
+
+"Gli esami di istituzioni di matematica, di fisica e di chimica generale ed inorganica sono da considerarsi propedeutici rispetto a quelli del III e IV anno, solo ai fini della successione degli stessi".
+
+L'art. 163, relativo all'elenco degli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali e' modificato nel senso che l'istituto di matematica muta denominazione in quella di "Istituti di matematica Renato Caccioppoli".
+
+Nello stesso elenco e' aggiunto il "Seminario didattico".
+
+L'art. 496, relativo all'ordinamento degli studi della scuola di perfezionamento in fisica teorica e nucleare e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente:
+
+"Per adire agli esami di diploma gli iscritti devono aver superato gli esami previsti dall'ordine degli studi ed una prova di cultura generale".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 18 settembre 1971
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: COLOMBO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 17 novembre 1971 Atti del Governo, registro n. 245, foglio n. 63. - CARUSO
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Lo statuto dell'Universita' di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 957 e 967, relativi alle scuole di perfezionamento in "fisica teorica e nucleare" e "strutturistica molecolare", sono sostituiti dai seguenti:  
-Art. 957. - Le tasse, soprattasse e contributi annuali richiesti per la iscrizione ai corsi corrispondono a quelli stabiliti per la facolta' di scienze matematiche, fisiche e naturali, corso di laurea in fisica, piu' un contributo speciale, la cui entita' verra' fissata, anno per anno, dal consiglio di amministrazione, su proposta del direttore della scuola previa approvazione del consiglio della facolta' di scienze. La tassa di diploma sara' pari alla somma fissata dalle norme di legge.  
-Art. 967. - Le tasse, soprattasse e contributi annuali richiesti per l'iscrizione ai corsi corrispondono a quelli stabiliti per la facolta' di scienze matematiche, fisiche e naturali, corso di laurea in chimica, piu' un contributo speciale, la cui entita' verra' fissata, anno per anno, dal consiglio di amministrazione, su proposta del direttore della scuola previa approvazione del consiglio della facolta' di scienze. La tassa di diploma sara' pari alla somma fissata dalle norme di legge.  
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Art. 90. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
+Letteratura neogreca;  
+Filologia greco medioevale e neogreca;  
+Filologia slava;  
+Filologia medioevale e umanistica;  
+Letteratura italiana moderna e contemporanea.  
+Art. 98. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo) sono aggiunti i seguenti:  
+Letteratura neogreca;  
+Filologia slava.  
+Art. 146. - All'elenco degli insegnamenti complementari del corso di laurea in matematica, indirizzo generale, sono aggiunti i seguenti:  
+Teorie relativistiche;  
+Meccanica analitica.  
+Art. 147. - All'elenco degli insegnamenti complementari del corso di laurea in matematica, indirizzo didattico, sono aggiunti i seguenti:  
+Teorie relativistiche;  
+Meccanica analitica.  
+Art. 148. - All'elenco degli insegnamenti complementari del corso di laurea in matematica, indirizzo applicativo (sia ad orientamento numerico che ad orientamento meccanico) sono aggiunti i seguenti:  
+Teorie relativistiche;  
+Meccanica analitica.  
+L'art. 149, relativo alle propedeuticita' degli esami del corso di laurea in matematica e' modificato nel senso che nel sesto comma l'insegnamento di "Astronomia" e' soppresso e sostituito da "Astrodinamica".  
+Nello stesso articolo l'ultimo comma e' modificato nel senso che dopo l'insegnamento di "Teoria delle forze nucleari" e' aggiunto "Astronomia".  
+Art. 152. - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:  
+Biologia marina;  
+Idrobiologia.  
+L'art. 153, relativo alle propedeuticita' del corso di laurea in scienze naturali e' abrogato e sostituito dal seguente:  
+"Gli esami di istituzioni di matematica, di fisica e di chimica generale ed inorganica sono da considerarsi propedeutici rispetto a quelli del III e IV anno, solo ai fini della successione degli stessi".  
+Art. 156. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:  
+Biologia marina;  
+Idrobiologia;  
+Enzimologia.  
+Nello stesso articolo dopo l'elenco degli insegnamenti complementari l'ultimo comma e' abrogato e sostituito dal seguente:  
+"Gli esami di istituzioni di matematica, di fisica e di chimica generale ed inorganica sono da considerarsi propedeutici rispetto a quelli del III e IV anno, solo ai fini della successione degli stessi".  
+L'art. 163, relativo all'elenco degli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali e' modificato nel senso che l'istituto di matematica muta denominazione in quella di "Istituti di matematica Renato Caccioppoli".  
+Nello stesso elenco e' aggiunto il "Seminario didattico".  
+L'art. 496, relativo all'ordinamento degli studi della scuola di perfezionamento in fisica teorica e nucleare e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente:  
+"Per adire agli esami di diploma gli iscritti devono aver superato gli esami previsti dall'ordine degli studi ed una prova di cultura generale".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1981
+### Dato a Roma, addi' 18 settembre 1971
 
-PERTINI BODRATO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 10 marzo 1982
+Registrato alla Corte dei conti, addi' 17 novembre 1971
 
-Registro n. 38 Istruzione, foglio n. 253
+Atti del Governo, registro n. 245, foglio n. 63. - CARUSO

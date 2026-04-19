@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 giugno 1982 n. 739
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 678
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 giugno 1982 n. 739
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 678
 =============================================================
 
 Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare un legato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-739. Decreto del Presidente della Repubblica 17 giugno 1982, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 1.000.000 depositata presso la Banca commerciale italiana in due libretti al portatore intestati alla signora Dina Rocco, disposto dalla stessa signora Dina Rocco in favore del comitato provinciale C.R.I., di La Spezia con testamento olografo 23 marzo 1977, pubblicato in data 26 gennaio 1978, n. 75203/13574 di repertorio, a rogito dott. Giuseppe Carpena, notaio in La Spezia, registrato a La Spezia, in data 31 gennaio 1978 al n. 724.  
+678. Decreto del Presidente della Repubblica 17 maggio 1986, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 8.000.000, disposto dalla sig.ra Annina Tuzzato ved. Vincent con testamento pubblico 1 ottobre 1981, registrato in data 13 maggio 1982, n. 11798 di repertorio, a rogito dott. Piovan Francesco, notaio in Padova, registrato a Padova in data 14 maggio 1982 al n. 5818.   
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 2 ottobre 1982  
-Registro n. 6 Sanita', loglio n. 234
+Visto, il Guardasigilli: ROGNONI   
+Registrato alla Corte dei conti, addi' 9 ottobre 1986   
+Registro n. 10 Sanita', foglio n. 69

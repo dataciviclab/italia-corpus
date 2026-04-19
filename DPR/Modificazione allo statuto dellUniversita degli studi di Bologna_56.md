@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 912
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1984 n. 560
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 912
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1984 n. 560
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -39,19 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 73, relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-filologia greca.  
+Nell'art. 51, relativo al corso di laurea in scienze politiche, per l'indirizzo storico-politico all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+storia e sistemi dei rapporti tra Stato e Chiesa.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1983
+### Dato a Roma, addi' 12 giugno 1984
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 30 gennaio 1984
+Registrato alla Corte dei conti, addi' 24 agosto 1984
 
-Registro n. 5 Istruzione, foglio n. 19
+Registro n. 51 Istruzione, foglio n. 61

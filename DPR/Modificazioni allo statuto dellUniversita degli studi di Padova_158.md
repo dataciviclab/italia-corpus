@@ -1,185 +1,60 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1963 n. 1796
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1982 n. 682
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1963 n. 1796
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1982 n. 682
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+IL PRESIDENTE DELLA, REPUBBLICA
+-------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1817](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1817), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 14 ottobre 1926, n. 2133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2133), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 175. - All'elenco delle Scuole di perfezionamento e di specializzazione dipendenti dalla Facolta' di Lettere e filosofia e' aggiunta la seguente:
+Articolo unico
+--------------
 
-Scuola di perfezionamento in Archeologia.
-
-Art. 191, relativo alla Scuola di perfezionamento in Storia dell'arte, e' modificato nel senso che l'insegnamento di "Archeologia e storia dell'Arte greca e romana" passa dall'elenco delle materie fondamentali in quello delle materie integrative.
-
-Art. 192, relativo alle norme della suddetta Scuola in Storia dell'arte, e' modificato nel senso che il settimo capoverso: "Per i perfezionandi in Archeologia e Storia dell'arte greca e romana le materie integrative saranno stabilite per ciascun candidato anche al di fuori delle discipline della Scuola" e' soppresso.
-
-Dopo l'art. 194 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della Scuola di perfezionamento in Archeologia.
-
-Scuola di perfezionamento in Archeologia
-
-Art. 195. - La Scuola raggruppa e coordina i seguenti insegnamenti:
-
-Materie fondamentali:
-
-Paletnologia;
-
-Archeologia e storia dell'arte greca;
-
-Archeologia e storia dell'arte romana;
-
-Materie integrative:
-
-Antropologia:
-
-Antichita' greche e romane;
-
-Archeologia cristiana;
-
-Epigrafia greca;
-
-Epigrafia romana;
-
-Etnologia;
-
-Etruscologia e antichita' italiche;
-
-Geografia;
-
-Geologia;
-
-Numismatica;
-
-Paleontologia;
-
-Storia delle religioni;
-
-Topografia di Roma e dell'Italia antica;
-
-Topografia antica.
-
-Sono ammessi alla Scuola i laureati in Lettere e filosofia, i laureati in Architettura e Ingegneria civile (purche' in possesso del diploma di maturita' classica).
-
-Art. 196. - La Scuola ha durata di tre anni. Nei primi due gli iscritti alla Scuola debbono partecipare come allievi interni dell'Istituto di Archeologia alle esercitazioni di Seminario archeologico e a tutte le attivita' dell'Istituto stesso.
-
-Inoltre al principio rispettivamente del 1° e del 2° anno dovranno scegliere, d'accordo con il direttore della Scuola, un tema in uno dei campi contemplati dalle discipline costitutive, da trattare in forma di tesi scritta e che servira' di base d'esame al termine del corrispondente anno di corso. Questo esame, oltre che nella discussione della tesi, consistera' nell'accertamento teorico e pratico della progressiva preparazione del candidato. La tesi del secondo anno puo' avere carattere preliminare per la tesi di diploma.
-
-Nel terzo anno gli iscritti dovranno attendere particolarmente alla preparazione della tesi finale che comportera' per lo piu' la necessita' di viaggi e ricerche fuori sede: percio', agli effetti amministrativi non sara' considerato anno di frequenza. La tesi finale dovra' essere a stampa o almeno essere pronta per la stampa.
-
-Durante il triennio l'iscritto alla Scuola dovra' compiere un tirocinio di almeno due mesi, anche non consecutivi, presso un Museo italiano o straniero, e un tirocinio di scavo di almeno due mesi anche non consecutivi, presso una sopraintendenza o scuola o missione italiana o straniera.
-
-Il Consiglio della Scuola puo' concedere l'abbreviazione di un anno per il conseguimento del diploma, quando riconosca la esplicita e speciale maturita' del perfezionamento.
-
-I laureati che abbiano frequentato in tutto o in parte le scuole di perfezionamento in Archeologia ritenute equipollenti dal Consiglio della Scuola, possono essere ammessi al 2° e al 3° corso con un piano di studio stabilito di volta in volta dal Consiglio stesso.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 14 ottobre 1963
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 12 dicembre 1963 Atti del Governo, registro n. 178, foglio n. 69. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1817](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1817), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 175. - All'elenco delle Scuole di perfezionamento e di specializzazione dipendenti dalla Facolta' di Lettere e filosofia e' aggiunta la seguente:  
-  
-Scuola di perfezionamento in Archeologia.  
-  
-Art. 191, relativo alla Scuola di perfezionamento in Storia dell'arte, e' modificato nel senso che l'insegnamento di "Archeologia e storia dell'Arte greca e romana" passa dall'elenco delle materie fondamentali in quello delle materie integrative.  
-  
-Art. 192, relativo alle norme della suddetta Scuola in Storia dell'arte, e' modificato nel senso che il settimo capoverso: "Per i perfezionandi in Archeologia e Storia dell'arte greca e romana le materie integrative saranno stabilite per ciascun candidato anche al di fuori delle discipline della Scuola" e' soppresso.  
-  
-Dopo l'art. 194 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della Scuola di perfezionamento in Archeologia.  
-  
-Scuola di perfezionamento in Archeologia  
-  
-Art. 195. - La Scuola raggruppa e coordina i seguenti insegnamenti:  
-Materie fondamentali:  
-Paletnologia;  
-Archeologia e storia dell'arte greca;  
-Archeologia e storia dell'arte romana;  
-Materie integrative:  
-Antropologia:  
-Antichita' greche e romane;  
-Archeologia cristiana;  
-Epigrafia greca;  
-Epigrafia romana;  
-Etnologia;  
-Etruscologia e antichita' italiche;  
-Geografia;  
-Geologia;  
-Numismatica;  
-Paleontologia;  
-Storia delle religioni;  
-Topografia di Roma e dell'Italia antica;  
-Topografia antica.  
-  
-Sono ammessi alla Scuola i laureati in Lettere e filosofia, i laureati in Architettura e Ingegneria civile (purche' in possesso del diploma di maturita' classica).  
-  
-Art. 196. - La Scuola ha durata di tre anni. Nei primi due gli iscritti alla Scuola debbono partecipare come allievi interni dell'Istituto di Archeologia alle esercitazioni di Seminario archeologico e a tutte le attivita' dell'Istituto stesso.  
-Inoltre al principio rispettivamente del 1° e del 2° anno dovranno scegliere, d'accordo con il direttore della Scuola, un tema in uno dei campi contemplati dalle discipline costitutive, da trattare in forma di tesi scritta e che servira' di base d'esame al termine del corrispondente anno di corso. Questo esame, oltre che nella discussione della tesi, consistera' nell'accertamento teorico e pratico della progressiva preparazione del candidato. La tesi del secondo anno puo' avere carattere preliminare per la tesi di diploma.  
-Nel terzo anno gli iscritti dovranno attendere particolarmente alla preparazione della tesi finale che comportera' per lo piu' la necessita' di viaggi e ricerche fuori sede: percio', agli effetti amministrativi non sara' considerato anno di frequenza. La tesi finale dovra' essere a stampa o almeno essere pronta per la stampa.  
-Durante il triennio l'iscritto alla Scuola dovra' compiere un tirocinio di almeno due mesi, anche non consecutivi, presso un Museo italiano o straniero, e un tirocinio di scavo di almeno due mesi anche non consecutivi, presso una sopraintendenza o scuola o missione italiana o straniera.  
-Il Consiglio della Scuola puo' concedere l'abbreviazione di un anno per il conseguimento del diploma, quando riconosca la esplicita e speciale maturita' del perfezionamento.  
-I laureati che abbiano frequentato in tutto o in parte le scuole di perfezionamento in Archeologia ritenute equipollenti dal Consiglio della Scuola, possono essere ammessi al 2° e al 3° corso con un piano di studio stabilito di volta in volta dal Consiglio stesso.  
+Nell'art. 15, relativo al corso di laurea in giurisprudenza, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+istituzioni di diritto processuale.  
+Il testo dell'art. 16 del medesimo corso di laurea e' soppresso ed e' sostituito dal seguente:  
+"Gli studenti non possono sostenere gli esami di diritto civile, di diritto commerciale, di diritto industriale, di diritto agrario, di diritto privato comparato, e di diritto della navigazione, se non abbiano superato l'esame di istituzioni di diritto privato; ne' gli esami di diritto penale e procedura penale, di diritto amministrativo, di diritto ecclesiastico, di diritto internazionale, di diritto del lavoro, se non abbiano superato gli esami di istituzioni di diritto privato e di diritto costituzionale; ne' l'esame di scienza delle finanze e diritto finanziario, se non abbiano superato gli esami di economia politica, di diritto costituzionale ovvero di diritto pubblico generale; ne' gli esami di diritto romano, di storia del diritto italiano, di diritto canonico, di diritto comune, se non abbiano superato gli esami di istituzioni di diritto romano e di storia del diritto romano, ne' gli esami di diritto penale militari e di medicina legale e delle assicurazioni se non abbiano superato l'esame di diritto penale".  
+Inoltre, nell'art. 18, l'istituto di scienze economiche, annesso alla facolta' di giurisprudenza, cambia la denominazione in quella di: "istituto di economia e finanza".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 ottobre 1963
+### Dato a Roma, addi' 16 giugno 1982
 
-SEGNI GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 12 dicembre 1963
+Registrato alla Corte dei conti, addi' 9 settembre 1982
 
-Atti del Governo, registro n. 178, foglio n. 69. - VILLA
+Registro n. 105 Istruzione, foglio n. 225

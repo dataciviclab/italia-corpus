@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 maggio 1981 n. 605
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1974 n. 780
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 maggio 1981 n. 605
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1974 n. 780
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Genova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,116 +18,179 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio universitario nazionale nei suoi pareri;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 122 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunto il corso di specializzazione in neonatologia.
+
+Art. 222 - all'elenco degli insegnamenti del terzo anno di corso della scuola di specializzazione in oncologia e' aggiunto il seguente:
+
+Radiologia (diagnostica e terapia dei tumori).
+
+L'art. 237 e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in igiene e medicina preventiva e' stabilito in venticinque per ogni anno di corso.
+
+L'art. 246, relativo alla scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio, e' integrato con il seguente comma:
+
+"I medici che abbiano gia' conseguito la specializzazione in tisiologia e che vengano ammessi al terzo anno della scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio, contrariamente a quanto disposto dalle norme generali, dovranno pagare i contributi di laboratorio soltanto per il terzo anno".
+
+Dopo l'art. 275, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione del corso di specializzazione in neonatologia.
+
+Corso di specializzazione in neonatologia
+
+Art. 276. - E' istituito presso la facolta' di medicina e chirurgia dell'Universita' di Genova un corso di specializzazione in neonatologia. Il corso ha fini di aggiornamento sul piano teorico, ma soprattutto di perfezionamento clinico-pratico nell'ambito della neonatologia. La durata del corso e' annuale.
+
+Possono essere ammessi al corso gli aspiranti laureati in medicina e chirurgia in possesso di un titolo di specializzazione in pediatria (o clinica pediatrica) o puericultura conseguito presso una scuola di specializzazione di durata almeno biennale.
+
+I candidati sono tenuti a sostenere un colloquio preliminare di ammissione, dinnanzi ad una commissione formata a mente delle disposizioni generali che regolano le scuole di specializzazione della facolta' di medicina e chirurgia dell'Universita' di Genova.
+
+Il numero degli ammessi al corso e' di dieci.
+
+Art. 277. - La direzione del corso e' attribuita al direttore dell'istituto di puericultura, coadiuvato da un consiglio direttivo.
+
+Di questo debbono in ogni caso far parte, purche' professori di ruolo, il direttore dello istituto di clinica ostetrica e ginecologica, il direttore dell'istituto di clinica pediatrica ed eventualmente i direttori di altri istituti aventi stretta attinenza con le discipline ostetriche e pediatriche, i quali collaboreranno all'insegnamento e presso i cui istituti si esplichera' una parte dell'attivita' degli allievi.
+
+Art. 278. - Le materie di insegnamento sono le seguenti:
+
+1) Clinica della gravidanza, del parto normale ed a rischio;
+
+2) Fisiopatologia e teratologia embrio-fetale;
+
+3) Genetica della patologia cromosomica e delle malattie metaboliche congenite;
+
+4) Fisiologia neonatale;
+
+5) Immunologia neonatale;
+
+6) Biochimica neonatale;
+
+7) Farmacologia neonatale;
+
+8) Patologia neonatale;
+
+9) Diagnostica radiologica neonatale;
+
+10) Tecniche di laboratorio (con riferimento alla fisiologia e patologia neonatali);
+
+11) Assistenza al neonato sano ed ammalato;
+
+12) Clinica e terapia neonatali;
+
+13) Rianimazione e cure intensive neonatali;
+
+14) Affezioni chirurgiche del neonato;
+
+15) Anatomia patologica del feto e del neonato;
+
+16) Evoluzione ed esiti della patologia feto-neonatale.
+
+Gli insegnamenti verranno impartiti attraverso lezioni, seminari, discussioni cliniche e integrati da conferenze su argomenti specialistici pertinenti a problemi di neonatologia.
+
+Art. 279. - L'allievo dovra' ottemperare all'internato obbligatorio quotidiano per almeno quattro ore giornaliere per la durata di dieci mesi. In tale periodo egli esplichera' attivita' in sala parto e nelle diverse sezioni e servizi interni ed esterni di assistenza e cura al neonato.
+
+Art. 280. - Alla fine del corso, l'allievo, che abbia seguito regolarmente il corso medesimo, in base a quanto stabilito dall'articolo precedente, e' tenuto a superare un esame globale di profitto con prove teoriche e pratiche, dinnanzi ad una commissione proposta dal direttore del corso ed approvata dal preside della facolta' di medicina e chirurgia, della quale fanno parte, oltre al direttore del corso, in funzione di presidente, docenti del corso.
+
+Superato l'esame finale del corso, l'allievo sosterra' l'esame di diploma, che potra' essere costituito anche da una dissertazione orale, su un argomento di attualita' in campo neonatologico; la commissione di esame di diploma e' stabilita in ossequio alle disposizioni generali che regolano le scuole di specializzazione della facolta' di medicina e chirurgia dell'Universita' di Genova, e comprendera' obbligatoriamente i direttori delle cliniche ostetrica e ginecologica e pediatrica della Universita'.
+
+All'allievo risultato idoneo, verra' rilasciato il diploma di specialista in neonatologia, valido a tutti gli effetti di legge.
+
+Art. 281. - Le norme per l'iscrizione, per gli esami, per le tasse, ecc. sono quelle generali per le scuole di specializzazione e di perfezionamento contenute negli articoli da 122 a 137 dello statuto dell'Universita'.
+
+Norma transitoria
+
+Per il primo anno di attivita', potranno essere iscritti in soprannumero, sempre sulla base di esami e titoli e comunque in numero non superiore a dieci, gli specialisti in pediatria od in puericultura, che prestino servizio da almeno un anno in sezioni neonatali o per immaturi.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 22 febbraio 1974
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 27 gennaio 1975 Atti di Governo, registro n. 8, foglio n. 46
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Lo statuto dell'Universita' di Genova, approvato o modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-L'art. 193, relativo alla scuola di specializzazione in oftalmologia, e' modificato nel senso che il numero degli iscritti e' stabilito in trentadue per l'intero corso di studi.  
-
-Art. 2
-------
-
+Decreta:  
   
-L'art. 214, ultimo comma, relativo alla scuola di specializzazione in medicina legale e delle assicurazioni, e' modificato nel senso che il numero degli iscritti e' stabilito in trentacinque per l'intero corso di studi.  
-
-Art. 3
-------
-
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 122 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunto il corso di specializzazione in neonatologia.  
+Art. 222 - all'elenco degli insegnamenti del terzo anno di corso della scuola di specializzazione in oncologia e' aggiunto il seguente:  
   
-L'art. 363, terzo comma, relativo alla scuola di specializzazione in cardiologia, e' modificato nel senso che il numero degli iscritti e' stabilito in sedici per l'intero corso di studi.  
-
-Art. 4
-------
-
-  
-L'art. 393, relativo alla scuola di specializzazione in chirurgia oculare, e' modificato nel senso che il numero degli iscritti e' stabilito in quindici per l'intero corso di studi.  
-
-Art. 5
-------
-
-  
-Dopo l'art. 443, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in cardioangiochirurgia.  
-  
-Scuola di specializzazione in cardioangiochirurgia  
-  
-Art. 444. - Presso la facolta' di medicina e chirurgia dell'Universita' di Genova e' istituita la scuola di specializzazione in cardioangiochirurgia la quale conferisce il diploma di specializzazione in cardioangiochirurgia.  
-La durata del corso di studi teorico-pratica e' di cinque anni.  
-Art. 445. - Il numero massimo di allievi iscrivibili e' di quindici complessivamente.  
-Art. 446. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) embriologia e teratologia;  
-2) anatomia descrittiva e topografica generale con particolare riguardo all'apparato cardiocircolatorio I;  
-3) patologia chirurgica generale;  
-4) fisiologia dell'apparato cardiocircolatorio;  
-5) radiologia generale;  
-6) semeiotica clinica delle cardiopatie chirurgiche;  
-7) principi di informatica medica;  
-8) elementi di ingegneria medica.  
-2° Anno:  
-1) anatomia descrittiva e topografica generale con particolare riguardo all'apparato cardiocircolatorio II;  
-2) clinica chirurgica generale;  
-3) anatomia ed istologia patologica con particolare riguardo all'apparato cardiocircolatorio I;  
-4) cardioangioradiologia I;  
-5) semeiotica strumentale delle cardiopatie chirurgiche;  
-6) elementi di anestesia e rianimazione;  
-7) fisiopatologia respiratoria;  
-8) fisiopatologia cardiocircolatoria I;  
-9) patologia e clinica delle angiopatie chirurgiche.  
-3° Anno:  
-1) anatomia ed istologia patologica con particolare riguardo all'apparato cardiocircolatorio II;  
-2) cardioangioradiologia II;  
-3) semeiotica di laboratorio delle cardiopatie chirurgiche;  
-4) semeiotica angiologica;  
-5) cardiologia medica I;  
-6) terapia chirurgica e tecnica operatoria delle malattie del cuore e dei grossi vasi I;  
-7) principi e tecniche della circolazione extra-corporea;  
-8) fisiopatologia cardiocircolatoria II;  
-9) patologia e clinica delle cardiopatie chirurgiche I.  
-4° Anno:  
-1) cardiologia medica II;  
-2) angiologia medica;  
-3) terapia chirurgica e tecnica operatoria delle malattie del cuore e dei grossi vasi II;  
-4) terapia chirurgica e tecnica operatoria delle vasculopatie periferiche;  
-5) terapia intensiva I;  
-6) patologia e clinica cardiologica pediatrica;  
-7) cardiochirurgia pediatrica I;  
-8) patologia e clinica delle cardiopatie chirurgiche II.  
-5° Anno:  
-1) terapia chirurgica e tecnica operatoria delle malattie del cuore e dei grossi vasi III;  
-2) terapia intensiva II;  
-3) cardiochirurgia pediatrica II;  
-4) assistenza meccanica cardiocircolatoria.  
-Art. 447. - La frequenza alle lezioni ed alle esercitazioni e' obbligatoria.  
-Gli allievi che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le prove di esame.  
-Art. 448. - Alla fine di ogni corso gli iscritti devono sostenere i relativi esami il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo;  
-per le materie a corso pluriennale l'esame e' unico.  
-Alla fine del quinto anno, dopo aver superato tutti gli esami, ha luogo l'esame di diploma consistente nella discussione di una dissertazione scritta su argomento attinente alla specializzazione e la cui scelta sia stata concordata tra diplomando e direttore della scuola.  
+Radiologia (diagnostica e terapia dei tumori).  
+L'art. 237 e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in igiene e medicina preventiva e' stabilito in venticinque per ogni anno di corso.  
+L'art. 246, relativo alla scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio, e' integrato con il seguente comma:  
+"I medici che abbiano gia' conseguito la specializzazione in tisiologia e che vengano ammessi al terzo anno della scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio, contrariamente a quanto disposto dalle norme generali, dovranno pagare i contributi di laboratorio soltanto per il terzo anno".  
+Dopo l'art. 275, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione del corso di specializzazione in neonatologia.  
+Corso di specializzazione in neonatologia  
+Art. 276. - E' istituito presso la facolta' di medicina e chirurgia dell'Universita' di Genova un corso di specializzazione in neonatologia. Il corso ha fini di aggiornamento sul piano teorico, ma soprattutto di perfezionamento clinico-pratico nell'ambito della neonatologia. La durata del corso e' annuale.  
+Possono essere ammessi al corso gli aspiranti laureati in medicina e chirurgia in possesso di un titolo di specializzazione in pediatria (o clinica pediatrica) o puericultura conseguito presso una scuola di specializzazione di durata almeno biennale.  
+I candidati sono tenuti a sostenere un colloquio preliminare di ammissione, dinnanzi ad una commissione formata a mente delle disposizioni generali che regolano le scuole di specializzazione della facolta' di medicina e chirurgia dell'Universita' di Genova.  
+Il numero degli ammessi al corso e' di dieci.  
+Art. 277. - La direzione del corso e' attribuita al direttore dell'istituto di puericultura, coadiuvato da un consiglio direttivo.  
+Di questo debbono in ogni caso far parte, purche' professori di ruolo, il direttore dello istituto di clinica ostetrica e ginecologica, il direttore dell'istituto di clinica pediatrica ed eventualmente i direttori di altri istituti aventi stretta attinenza con le discipline ostetriche e pediatriche, i quali collaboreranno all'insegnamento e presso i cui istituti si esplichera' una parte dell'attivita' degli allievi.  
+Art. 278. - Le materie di insegnamento sono le seguenti:  
+1) Clinica della gravidanza, del parto normale ed a rischio;  
+2) Fisiopatologia e teratologia embrio-fetale;  
+3) Genetica della patologia cromosomica e delle malattie metaboliche congenite;  
+4) Fisiologia neonatale;  
+5) Immunologia neonatale;  
+6) Biochimica neonatale;  
+7) Farmacologia neonatale;  
+8) Patologia neonatale;  
+9) Diagnostica radiologica neonatale;  
+10) Tecniche di laboratorio (con riferimento alla fisiologia e patologia neonatali);  
+11) Assistenza al neonato sano ed ammalato;  
+12) Clinica e terapia neonatali;  
+13) Rianimazione e cure intensive neonatali;  
+14) Affezioni chirurgiche del neonato;  
+15) Anatomia patologica del feto e del neonato;  
+16) Evoluzione ed esiti della patologia feto-neonatale.  
+Gli insegnamenti verranno impartiti attraverso lezioni, seminari, discussioni cliniche e integrati da conferenze su argomenti specialistici pertinenti a problemi di neonatologia.  
+Art. 279. - L'allievo dovra' ottemperare all'internato obbligatorio quotidiano per almeno quattro ore giornaliere per la durata di dieci mesi. In tale periodo egli esplichera' attivita' in sala parto e nelle diverse sezioni e servizi interni ed esterni di assistenza e cura al neonato.  
+Art. 280. - Alla fine del corso, l'allievo, che abbia seguito regolarmente il corso medesimo, in base a quanto stabilito dall'articolo precedente, e' tenuto a superare un esame globale di profitto con prove teoriche e pratiche, dinnanzi ad una commissione proposta dal direttore del corso ed approvata dal preside della facolta' di medicina e chirurgia, della quale fanno parte, oltre al direttore del corso, in funzione di presidente, docenti del corso.  
+Superato l'esame finale del corso, l'allievo sosterra' l'esame di diploma, che potra' essere costituito anche da una dissertazione orale, su un argomento di attualita' in campo neonatologico; la commissione di esame di diploma e' stabilita in ossequio alle disposizioni generali che regolano le scuole di specializzazione della facolta' di medicina e chirurgia dell'Universita' di Genova, e comprendera' obbligatoriamente i direttori delle cliniche ostetrica e ginecologica e pediatrica della Universita'.  
+All'allievo risultato idoneo, verra' rilasciato il diploma di specialista in neonatologia, valido a tutti gli effetti di legge.  
+Art. 281. - Le norme per l'iscrizione, per gli esami, per le tasse, ecc. sono quelle generali per le scuole di specializzazione e di perfezionamento contenute negli articoli da 122 a 137 dello statuto dell'Universita'.  
+Norma transitoria  
+Per il primo anno di attivita', potranno essere iscritti in soprannumero, sempre sulla base di esami e titoli e comunque in numero non superiore a dieci, gli specialisti in pediatria od in puericultura, che prestino servizio da almeno un anno in sezioni neonatali o per immaturi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 maggio 1981
+### Dato a Roma, addi' 22 febbraio 1974
 
-PERTINI BODRATO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 21 ottobre 1981
+Registrato alla Corte dei conti, addi' 27 gennaio 1975
 
-Registro n. 96 Istruzione, foglio n. 364
+Atti di Governo, registro n. 8, foglio n. 46

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1973 n. 667
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 dicembre 1973 n. 1017
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1973 n. 667
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 dicembre 1973 n. 1017
 ================================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", con sede in Roma, ad accettare una eredita'.
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-667. Decreto del Presidente della Repubblica 10 settembre 1973, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta in suo favore dalla signora Adria Valensin, vedova Di Cola-vedova Grassi, con testamento pubblico del 16 luglio 1970, pubblicato il 1 ottobre 1970 per atto del dott.  
-Carlo Marchetti, notaio in Milano (n. 41094 di rep. e n. 12656 di raccolta), registrato in Milano il 2 ottobre 1970 al n. 15133, serie E, consistente in un immobile sito in Milano, via Rovani n. 3, nonche' in beni mobili vari, per un valore complessivo di L. 33.478.431.  
+1017. Decreto del Presidente della Repubblica 14 dicembre 1973, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.na Bice Sala con testamento olografo in data 19 giugno 1963, pubblicato l'11 settembre 1969 per atto dell'avv. Gino Fiaccadori, notaio in Suzzara (con il n. 31448 di rep., n. 5212 di racc.), registrato a Suzzara il 24 settembre 1969 al n. 1557, vol. 112, mod. I, consistente nella meta' del podere "Pomadello" sito in San Benedetto Po, del valore complessivo presunto di L. 68.000.000, gravato d'usufrutto in favore dei nipoti della de cuius, Ubaldo e Iolanda Camurati.  
   
 Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 2 novembre 1973  
-Atti di Governo, registro n. 262, foglio n. 4. - VALENTINI
+Registrato alla Corte dei conti, addi' 15 febbraio 1974  
+Atti di Governo, registro n. 1, foglio n. 82. - CARUSO

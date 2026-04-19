@@ -1,55 +1,324 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1956 n. 1151
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 giugno 1976 n. 576
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1956 n. 1151
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 giugno 1976 n. 576
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 92 - all'elenco degli insegnamenti complementari del corso di laurea in matematica, II gruppo, sono aggiunti i seguenti:
+
+topologie differenziali;
+
+topologia algebrica;
+
+fondamenti di matematica;
+
+operatori differenziali;
+
+teoria delle equazioni integrali;
+
+analisi non lineare;
+
+algebra commutativa;
+
+istituzioni di algebra superiore;
+
+funzioni speciali;
+
+programmazione matematica;
+
+geometria combinatoria;
+
+strutture algebriche;
+
+teoria dei Grafi.
+
+Art. 99 - all'elenco degli insegnamenti complementari del corso di laurea in fisica, indirizzo generale I gruppo, sono aggiunti i seguenti:
+
+meccanica celeste;
+
+programmazione e metodi numerici nella fisica;
+
+applicazioni fisiche della teoria dei gruppi.
+
+Nello stesso articolo, all'elenco degli insegnamenti complementari del corso di laurea in fisica, indirizzo generale II gruppo, sono aggiunti i seguenti:
+
+istituzioni di fisica dello stato solido;
+
+ottica quantistica;
+
+fisica molecolare;
+
+fisica delle alte energie;
+
+storia del metodo scientifico;
+
+elettrodinamica quantistica;
+
+teoria delle interazioni deboli;
+
+cosmologia.
+
+Nello stesso articolo, all'elenco degli insegnamenti complementari del corso di laurea in fisica, indirizzo applicativo II gruppo, sono aggiunti i seguenti:
+
+fisica dei dispositivi a stato solido;
+
+fisica dei fenomeni cooperativi e delle transizioni di fase;
+
+fisica dei film sottili;
+
+fisica delle basse temperature;
+
+proprieta' magnetiche della materia;
+
+spettroscopia dello stato solido;
+
+fisica dalle superfici;
+
+proprieta' dielettriche dei solidi;
+
+fisica dei metalli;
+
+biofisica teorica;
+
+biofisica medica.
+
+Art. 107 - all'elenco degli insegnamenti complementari del corso di laurea in chimica, indirizzo organico-biologico, sono aggiunti i seguenti:
+
+stereochimica organica;
+
+tecniche e sintesi speciali organiche;
+
+chimica degli eterocicli;
+
+fotochimica;
+
+cristallochimica organica;
+
+biochimica applicata.
+
+Nello stesso articolo, all'elenco degli insegnamenti complementari del corso di laurea in chimica, indirizzo inorganico-chimico-fisico, sono aggiunti i seguenti:
+
+analisi strumentale;
+
+chimica fisica dello stato solido;
+
+chimica organica superiore;
+
+fotochimica;
+
+stereochimica;
+
+tecnica e sintesi speciali inorganiche;
+
+spettroscopia molecolare.
+
+L'art. 109, relativo al conseguimento dell'esame di laurea in chimica, e' abrogato e sostituito dal seguente:
+
+"Per il conseguimento della laurea in chimica lo studente deve presentare una dissertazione scritta, preferibilmente, di natura sperimentale, su argomento di carattere prevalentemente chimico, concordato con un professore ufficiale della facolta'.
+
+La dissertazione deve essere presentata alla segreteria dell'Universita' almeno dieci giorni (il periodo dieci giorni va inteso come provvisorio e puo' subire modificazioni per uniformita' con gli altri corsi di laurea) prima dell'esame di laurea insieme ai titoli dei tre argomenti scelti per la discussione, di cui all'art. 16.
+
+Per essere ammesso all'esame di laurea lo studente deve inoltre aver sostenuto un colloquio di cultura chimica davanti ad una commissione nominata dal preside.
+
+Tale colloquio non ha pero' carattere preclusivo.
+
+Le modalita' dell'assegnazione e dello svolgimento delle tesi di laurea e del colloquio di culturale sono previste da apposita regolamentazione approvata dal consiglio di facolta' su proposta del consiglio di corso di laurea in chimica".
+
+L'art. 110, relativo all'esame di laurea in chimica, e' abrogato e sostituito dal seguente:
+
+"L'esame di laurea comprende la discussione della dissertazione scritta di cui all'art. 16 ed una discussione sui due dei tre argomenti scelti dal laureando, in accordo con professori ufficiali in materie di insegnamento della facolta', diverse tra loro e da quella oggetto della dissertazione di laurea".
+
+Art. 117 - all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:
+
+geografia fisica;
+
+analisi mineralogiche;
+
+micropaleontologia;
+
+vulcanologia;
+
+analisi merceologiche;
+
+esercitazioni di preparazioni chimiche I;
+
+esercitazioni di fisica sperimentale;
+
+ecologia animale;
+
+genetica umana.
+
+L'art. 119, relativo alle norme per l'ammissione al conseguimento della laurea in scienze naturali, e' modificato nel senso che e' integrato con il seguente comma:
+
+"Deve inoltre aver frequentato un istituto della facolta', in qualita' di allievo interno, per almeno un anno".
+
+L'art. 120, relativo alle norme per il conseguimento della laurea in scienze naturali, e' modificato nel senso che sono soppresse le seguenti parole: "possibilmente prima dell'assegnazione della tesi di laurea".
+
+L'art. 121, relativo all'esame di laurea in scienze naturali, e' abrogato e sostituito dal seguente:
+
+"L'esame di laurea comprende la discussione della dissertazione scritta ed una discussione su due dei tre argomenti scelti dal laureando in accordo con professori ufficiali di insegnamenti della facolta', diversi fra loro e da quello oggetto della dissertazione di laurea".
+
+L'art. 304, relativo al funzionamento della scuola di perfezionamento in fisica dello stato solido, e' abrogato e sostituito dal seguente:
+
+"Il funzionamento della scuola e' affidato ad un consiglio direttivo nominato dalla facolta' su proposta del consiglio di corso di laurea in fisica. Alla scadenza del triennio il consiglio direttivo deve presentare una relazione sulla stia gestione al consiglio di corso di laurea in fisica, che la discute e la propone per l'approvazione al consiglio di facolta'.
+
+Il consiglio direttivo propone di anno in anno alla facolta' gli insegnamenti da impartire ed i relativi programmi, e nomina per un periodo di un anno un direttore al quale sono affidate l'organizzazione e la sorveglianza sul regolare funzionamento degli insegnamenti e degli esami. Il direttore e' coadiuvato da un segretario e fa parte di diritto del consiglio direttivo.
+
+Gli insegnamenti della scuola sono proposti, d'intesa con il consiglio direttivo, dal direttore, che puo' scegliere tra docenti universitari o tra persone di riconosciuta competenza in una delle discipline trattate nella scuola; tali proposte sono sottoposte all'approvazione della facolta'".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 9 giugno 1976
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 17 agosto 1976 Atti di Governo, registro n. 8, foglio n. 60
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1772); [1 ottobre 1931, n. 1380](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1380); [26 ottobre 1933, n. 2401](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1933-10-26;2401); [13 dicembre 1934, n. 2423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-13;2423); [1 ottobre 1936, n. 2076](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2076); [20 aprile 1939, n. 1067](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-04-20;1067); [1 agosto 1941, n. 893](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-08-01;893); [26 marzo 1942, n. 330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-03-26;330); [5 settembre 1942, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1178); [21 gennaio 1943, n. 21, e con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1943-01-21;21) [30 dicembre 1947, n. 1735; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1735) [27 marzo 1948, n. 458](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-03-27;458); [30 ottobre 1949, n. 1002](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1002); [30 maggio 1950, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-05-30;615); [11 aprile 1951, n. 471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;471); [27 ottobre 1951, n. 1701](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1701); [31 agosto 1951, n. 1824](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-31;1824); [25 luglio 1952, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1350); [16 ottobre 1952, n. 4013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-16;4013); [27 marzo 1954, n. 734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-27;734); [24 settembre 1954, n. 1135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-24;1135); [4 febbraio 1955, n. 116](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;116) e [24 luglio 1955, n. 801](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-24;801);  
+Veduto lo statuto dell'Universita' di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 22. - Agli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti:  
-a) "demografia";  
-b) "organizzazione aziendale";  
-c) "contabilita' nazionale".  
-Art. 39. - Agli insegnamenti complementari del corso di laurea in fisica e' aggiunto quello di "fisica nucleare".  
-Art. 46. - Agli insegnamenti complementari del corso di laurea in matematica e fisica e' aggiunto quello di "fisica nucleare".  
-Art. 53. - Agli insegnamenti complementari del triennio di studi di applicazione del corso di laurea in chimica (indirizzo inorganico-chimico fisico e indirizzo organico-biologico) e' aggiunto quello di "strutturistica chimica".  
-Art. 58. - Il secondo comma e' sostituito dai seguenti:  
-"Gli esami di chimica generale ed inorganica e chimica organica devono precedere gli esami di zoologia e di fisiologia generale.  
-L'esame di chimica generale ed inorganica deve precedere l'esame di mineralogia".  
-Art. 70. - Agli insegnamenti complementari del corso di laurea in farmacia e' aggiunto quello di "biochimica applicata".  
-Art. 71. - E' sostituito dal seguente:  
-"Lo studente non puo' sostenere gli esami di fisiologia generale e di chimica biologica, se non dopo aver superato quelli di chimica generale ed inorganica, di fisica e di anatomia umana. Inoltre, l'esame di chimica generale ed inorganica deve precedere quelli di esercitazioni di chimica farmaceutica e tossicologica, l'esame di chimica organica deve precedere quello di chimica farmaceutica e tossicologica.  
-L'esame di farmacologia e farmacognosia non puo' essere sostenuto senza che lo studente abbia prima superato gli esami di fisiologia generale e di chimica biologica".  
+Art. 92 - all'elenco degli insegnamenti complementari del corso di laurea in matematica, II gruppo, sono aggiunti i seguenti:  
+topologie differenziali;  
+topologia algebrica;  
+fondamenti di matematica;  
+operatori differenziali;  
+teoria delle equazioni integrali;  
+analisi non lineare;  
+algebra commutativa;  
+istituzioni di algebra superiore;  
+funzioni speciali;  
+programmazione matematica;  
+geometria combinatoria;  
+strutture algebriche;  
+teoria dei Grafi.  
+Art. 99 - all'elenco degli insegnamenti complementari del corso di laurea in fisica, indirizzo generale I gruppo, sono aggiunti i seguenti:  
+meccanica celeste;  
+programmazione e metodi numerici nella fisica;  
+applicazioni fisiche della teoria dei gruppi.  
+Nello stesso articolo, all'elenco degli insegnamenti complementari del corso di laurea in fisica, indirizzo generale II gruppo, sono aggiunti i seguenti:  
+istituzioni di fisica dello stato solido;  
+ottica quantistica;  
+fisica molecolare;  
+fisica delle alte energie;  
+storia del metodo scientifico;  
+elettrodinamica quantistica;  
+teoria delle interazioni deboli;  
+cosmologia.  
+Nello stesso articolo, all'elenco degli insegnamenti complementari del corso di laurea in fisica, indirizzo applicativo II gruppo, sono aggiunti i seguenti:  
+fisica dei dispositivi a stato solido;  
+fisica dei fenomeni cooperativi e delle transizioni di fase;  
+fisica dei film sottili;  
+fisica delle basse temperature;  
+proprieta' magnetiche della materia;  
+spettroscopia dello stato solido;  
+fisica dalle superfici;  
+proprieta' dielettriche dei solidi;  
+fisica dei metalli;  
+biofisica teorica;  
+biofisica medica.  
+Art. 107 - all'elenco degli insegnamenti complementari del corso di laurea in chimica, indirizzo organico-biologico, sono aggiunti i seguenti:  
+stereochimica organica;  
+tecniche e sintesi speciali organiche;  
+chimica degli eterocicli;  
+fotochimica;  
+cristallochimica organica;  
+biochimica applicata.  
+Nello stesso articolo, all'elenco degli insegnamenti complementari del corso di laurea in chimica, indirizzo inorganico-chimico-fisico, sono aggiunti i seguenti:  
+analisi strumentale;  
+chimica fisica dello stato solido;  
+chimica organica superiore;  
+fotochimica;  
+stereochimica;  
+tecnica e sintesi speciali inorganiche;  
+spettroscopia molecolare.  
+L'art. 109, relativo al conseguimento dell'esame di laurea in chimica, e' abrogato e sostituito dal seguente:  
+"Per il conseguimento della laurea in chimica lo studente deve presentare una dissertazione scritta, preferibilmente, di natura sperimentale, su argomento di carattere prevalentemente chimico, concordato con un professore ufficiale della facolta'.  
+La dissertazione deve essere presentata alla segreteria dell'Universita' almeno dieci giorni (il periodo dieci giorni va inteso come provvisorio e puo' subire modificazioni per uniformita' con gli altri corsi di laurea) prima dell'esame di laurea insieme ai titoli dei tre argomenti scelti per la discussione, di cui all'art. 16.  
+Per essere ammesso all'esame di laurea lo studente deve inoltre aver sostenuto un colloquio di cultura chimica davanti ad una commissione nominata dal preside.  
+Tale colloquio non ha pero' carattere preclusivo.  
+Le modalita' dell'assegnazione e dello svolgimento delle tesi di laurea e del colloquio di culturale sono previste da apposita regolamentazione approvata dal consiglio di facolta' su proposta del consiglio di corso di laurea in chimica".  
+L'art. 110, relativo all'esame di laurea in chimica, e' abrogato e sostituito dal seguente:  
+"L'esame di laurea comprende la discussione della dissertazione scritta di cui all'art. 16 ed una discussione sui due dei tre argomenti scelti dal laureando, in accordo con professori ufficiali in materie di insegnamento della facolta', diverse tra loro e da quella oggetto della dissertazione di laurea".  
+Art. 117 - all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:  
+geografia fisica;  
+analisi mineralogiche;  
+micropaleontologia;  
+vulcanologia;  
+analisi merceologiche;  
+esercitazioni di preparazioni chimiche I;  
+esercitazioni di fisica sperimentale;  
+ecologia animale;  
+genetica umana.  
+L'art. 119, relativo alle norme per l'ammissione al conseguimento della laurea in scienze naturali, e' modificato nel senso che e' integrato con il seguente comma:  
+"Deve inoltre aver frequentato un istituto della facolta', in qualita' di allievo interno, per almeno un anno".  
+L'art. 120, relativo alle norme per il conseguimento della laurea in scienze naturali, e' modificato nel senso che sono soppresse le seguenti parole: "possibilmente prima dell'assegnazione della tesi di laurea".  
+L'art. 121, relativo all'esame di laurea in scienze naturali, e' abrogato e sostituito dal seguente:  
+"L'esame di laurea comprende la discussione della dissertazione scritta ed una discussione su due dei tre argomenti scelti dal laureando in accordo con professori ufficiali di insegnamenti della facolta', diversi fra loro e da quello oggetto della dissertazione di laurea".  
+L'art. 304, relativo al funzionamento della scuola di perfezionamento in fisica dello stato solido, e' abrogato e sostituito dal seguente:  
+"Il funzionamento della scuola e' affidato ad un consiglio direttivo nominato dalla facolta' su proposta del consiglio di corso di laurea in fisica. Alla scadenza del triennio il consiglio direttivo deve presentare una relazione sulla stia gestione al consiglio di corso di laurea in fisica, che la discute e la propone per l'approvazione al consiglio di facolta'.  
+Il consiglio direttivo propone di anno in anno alla facolta' gli insegnamenti da impartire ed i relativi programmi, e nomina per un periodo di un anno un direttore al quale sono affidate l'organizzazione e la sorveglianza sul regolare funzionamento degli insegnamenti e degli esami. Il direttore e' coadiuvato da un segretario e fa parte di diritto del consiglio direttivo.  
+Gli insegnamenti della scuola sono proposti, d'intesa con il consiglio direttivo, dal direttore, che puo' scegliere tra docenti universitari o tra persone di riconosciuta competenza in una delle discipline trattate nella scuola; tali proposte sono sottoposte all'approvazione della facolta'".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 settembre 1956
+### Dato a Roma, addi' 9 giugno 1976
 
-GRONCHI ROSSI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 18 ottobre 1956
+Registrato alla Corte dei conti, addi' 17 agosto 1976
 
-Atti del Governo, registro n. 101, foglio n. 47. - CARLOMAGNO
+Atti di Governo, registro n. 8, foglio n. 60

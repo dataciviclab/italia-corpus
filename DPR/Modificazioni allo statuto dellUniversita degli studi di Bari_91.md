@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979 n. 579
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1971 n. 1326
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979 n. 579
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1971 n. 1326
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,357 +18,396 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 102 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono apportate le seguenti modifiche:
+L'art. 174, relativo all'elenco delle scuole annesse alla facolta' di medicina e chirurgia e' modificato nel senso che le scuole in "Dermosifilopatia" e in "Clinica otorinolaringoiatrica" mutano rispettivamente la denominazione in quella di "Scuola di specializzazione in clinica dermosifilopatica" e di "Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale".
 
-la scuola di specializzazione in anatomia e istologia patologica muta la denominazione in quella di scuola di specializzazione in anatomia patologica;
+L'art. 191, relativo alla "Scuola di specializzazione in dermosifilopatia" che muta la denominazione in quello di "Scuola di specializzazione in clinica dermosifilopatica" e' abrogato e sostituito dal seguente:
 
-la scuola di specializzazione in chirurgia muta la denominazione in quella di scuola di specializzazione in chirurgia generale;
+Scuola di specializzazione in clinica dermosifilopatica
 
-la scuola di specializzazione in oculistica muta la denominazione in quella di scuola di specializzazione in oftalmologia;
+Art. 191. - La scuola ha sede presso l'istituto di clinica dermosifilopatica.
 
-la scuola di specializzazione in odontoiatria e protesi dentaria muta la denominazione in quella di scuola di specializzazione in odontostomatologia.
+La durata del corso e' di tre anni.
 
-Gli articoli 207, 208 e 209, relativi alla scuola di specializzazione in anatomia e istologia patologica, che muta la denominazione in quella di scuola di specializzazione in anatomia patologica, sono soppressi e sostituiti dai seguenti:
+Non saranno concesse abbreviazioni di corso.
 
-Scuola di specializzazione in anatomia patologica
+Il numero complessivo degli iscritti alla scuola non puo' essere superiore a trenta per i tre anni di corso.
 
-Art. 207. - La scuola di specializzazione in anatomia patologica ha sede presso l'istituto di anatomia patologica e conferisce il diploma di specialista in anatomia patologica.
+L'ammissione alla scuola, qualora il numero delle domande fosse superiore a quello dei posti disponibili, avverra' in seguito a concorso per soli titoli.
 
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della specializzazione e, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+Gli iscritti alla scuola hanno l'obbligo dell'internato presso l'istituto di clinica dermosifilopatica per tutta la durata del corso.
 
-Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
-
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
-
-Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di quaranta per l'intero corso di studi.
-
-L'ammissione al corso avviene per titoli ed esami.
-
-Art. 208. - Le materie di insegnamento sono le seguenti:
+Gli insegnamenti impartiti nella scuola sono i seguenti:
 
 1° Anno:
 
-anatomia patologica sistematica II;
+Anatomia e istologia normale della cute;
 
-tecnica delle autopsie;
+Fisiologia della cute e degli annessi cutanei;
 
-diagnostica anatomo-patologica macroscopica I;
+Anatomia e fisiologia dell'apparato genitale;
 
-tecniche istologiche ed istochimiche.
+Microbiologia e parassitologia applicata;
+
+Tecnica di laboratorio con particolare riferimento alla sierologia applicata;
+
+Semeiotica dermatologica e venereologica.
 
 2° Anno:
 
-anatomia patologica sistematica II;
+Patologia delle malattie cutanee;
 
-diagnostica anatomopatologica macroscopica II;
+Patologia delle infezioni sessuali;
 
-diagnostica istopatologica I;
+Anatomia e istologia patologica della cute;
 
-tecniche e diagnostica citologica e citogenetica.
+Anatomia patologica delle malattie veneree e sessuali;
+
+Angiologia;
+
+Sessuologia.
 
 3° Anno:
 
-diagnostica istopatologica II;
+Clinica delle malattie cutanee;
 
-tecniche di microscopia elettronica e biologia ultrastrutturale;
+Clinica delle infezioni sessuali;
 
-immunopatologia.
+Farmacologia e terapia medicamentosa;
 
-4° Anno:
+Fisioterapia dermatologica;
 
-diagnostica istopatologica III;
+Cosmetologia;
 
-diagnostica isto-citopatologica ultrastrutturale;
+Chirurgia plastica riparatrice;
 
-diagnostica autoptica medico legale ed elementi di legislazione sanitaria;
+Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.
 
-applicazioni statistiche ed epidemiologiche.
+Gli esami di profitto degli specializzandi verranno dati in tre gruppi ed in tre sessioni distinte, ogni gruppo comprendente le materie proprie di ciascun anno di studio.
 
-Art. 209. - La frequenza alle lezioni, alle esercitazioni pratiche, e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.
+L'esame di diploma consistera' nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato ventiquattro ore prima della prova.
 
-Alla fine di ogni corso gli iscritti per essere ammessi agli anni successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi. Al termine del corso di studi per il conseguimento del diploma di specialista in anatomia patologica gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+L'art. 194, relativo alla "Scuola di specializzazione in odontoiatria e protesi dentaria" e' abrogato e sostituito dal seguente:
 
-La scuola di specializzazione in chirurgia di cui all'art. 217 muta la denominazione in quella di scuola di specializzazione in chirurgia generale.
+Scuola di specializzazione in odontoiatria e protesi dentaria
 
-La scuola di specializzazione in oculistica di cui all'art. 247 muta la denominazione in quella di scuola di specializzazione in oftalmologia.
+Art. 194. - La scuola ha sede presso l'istituto di clinica odontoiatrica.
 
-Gli articoli 215 e 216, relativi alla scuola di specializzazione in cardioangiochirurgia, sono soppressi e sostituiti dai seguenti:
+La durata del corso e' di tre anni.
 
-Scuola di specializzazione in cardioangiochirurgia
+Non saranno concesse abbreviazioni di corso.
 
-Art. 215. - La scuola di specializzazione in cardioangiochirurgia ha sede presso l'istituto di cardiochirurgia dell'Universita' di Bari e conferisce il diploma di specialista in cardioangiochirurgia.
+Il numero complessivo degli iscritti alla scuola non puo' essere superiore a novanta, per i tre anni di corso.
 
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+L'ammissione alla scuola avverra' in seguito a concorso per soli titoli.
 
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+Gli iscritti alla scuola hanno l'obbligo dell'internato nell'istituto per tutta la durata del corso.
 
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+Gli esami di profitto teorici e pratici saranno sostenuti in unica sessione nel mese di novembre.
 
-La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.
+Alla fine del terzo annuo, dopo aver superato i relativi esami di profitto, gli allievi saranno ammessi a sostenere l'esame di diploma, consistente nella descrizione orale di una dissertazione scritta su un tema assegnato dal direttore della scuola.
 
-Il numero degli allievi e' di cinque per anno di corso e complessivamente di venticinque iscritti per l'intero corso di studi.
-
-L'ammissione al corso avviene per titoli ed esami.
-
-Art. 216. - Le materie di insegnamento sono le seguenti:
+Gli insegnamenti sono ripartiti per i tre anni di corso nel seguente modo:
 
 1° Anno:
 
-embriologia e teratologia;
+Embriologia ed anatomia dentaria e maxillo-facciale;
 
-anatomia descrittiva e topografica generale con particolare riguardo all'apparato cardiocircolatorio (biennale) I;
+Microbiologia e igiene orale;
 
-patologia chirurgica generale;
+Farmacologia odontostomatologica;
 
-fisiologia dell'apparato cardiocircolatorio;
+Patologia odontostomatologica;
 
-radiologia generale;
+Odontotecnica (1° anno);
 
-semeiotica clinica delle cardiopatie chirurgiche;
+Anestesia e chirurgia stomatologica;
 
-principi di informatica medica;
+Odontoiatria conservativa (1° anno);
 
-elementi di ingegneria medica.
+Clinica protesica dentaria e maxillo-facciale (1° anno);
+
+Esercitazioni pratiche affiancheranno gli insegnamenti.
 
 2° Anno:
 
-anatomia descrittiva e topografica generale con particolare riguardo all'apparato cardiocircolatorio (biennale) II;
+Odontoiatria conservativa (2° anno);
 
-clinica chirurgica generale;
+Odontotecnica (2° anno);
 
-anatomia ed istologia patologica con particolare riguardo all'apparato cardiocircolatorio (biennale) I;
+Clinica odontostomatologica (1° anno);
 
-cardioangioradiologia (biennale) I;
+Clinica protesica dentaria e maxillo-facciale (2° anno);
 
-semeiotica strumentale delle cardiopatie chirurgiche;
+Paradontologia (1° anno);
 
-elementi di anestesia e rianimazione;
+Anatomia e istopatologia odontostomatologica;
 
-fisiopatologia respiratoria;
+Odontoiatria infantile;
 
-fisiopatologia cardiocircolatoria (biennale) I;
+Radiologia odontostomatologica;
 
-patologia e clinica delle angiopatie chirurgiche.
+Ortopedia dento-maxillo-facciale (1° anno);
+
+Chirurgia maxillo-facciale (1° anno);
+
+Esercitazioni pratiche affiancheranno gli insegnamenti.
 
 3° Anno:
 
-anatomia ed istologia patologica con particolare riguardo all'apparato cardiocircolatorio (biennale) II;
+Clinica odontostomatologica (2° anno);
 
-cardioangioradiologia (biennale) II;
+Chirurgia maxillo-facciale (2° anno);
 
-semeiotica di laboratorio delle cardiopatie chirurgiche;
+Medicina legale odontostomatologica;
 
-semeiotica angiologica;
+Ortopedia dento-maxillo-facciale (2° anno);
 
-cardiologia medica (biennale) I;
+Clinica protesica dentaria e maxillo-facciale (3° anno);
 
-terapia chirurgica e tecnica operatoria delle malattie di cuore e dei grossi vasi (triennale) I;
+Paradontologia (2° anno);
 
-principi tecniche della circolazione extra-corporea;
+Esercitazioni pratiche affiancheranno gli insegnamenti.
 
-fisiopatologia cardiocircolatoria (biennale) II;
+L'art. 196, relativo alla "Scuola di specializzazione in clinica otorinolaringoiatrica" che muta la denominazione in "Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale" e' abrogato e sostituito dal seguente:
 
-patologia e clinica delle cardiopatie chirurgiche (biennale) I.
+Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale
 
-4° Anno:
+Art. 196. - La scuola ha sede presso l'istituto di clinica otorinolaringoiatrica.
 
-cardiologia medica (biennale) II;
+La durata del corso e' di tre anni.
 
-angiologia medica;
+Non saranno concesse abbreviazioni di corso.
 
-terapia chirurgica e tecnica operatoria delle malattie del cuore e dei grossi vasi (triennale) II;
+Il numero complessivo degli iscritti alla scuola non puo' essere superiore a dodici, per i tre anni di corso.
 
-terapia chirurgica e tecnica operatoria delle vasculopatie periferiche;
+L'ammissione alla scuola avverra' in seguito a concorso per titoli ed esami.
 
-terapia intensiva (biennale) I;
+Gli insegnamenti impartiti nella scuola sono i seguenti:
 
-patologia e clinica cardiologica pediatrica;
+1° Anno:
 
-cardiochirurgia pediatrica (biennale) I;
+Anatomia Fisiologia;
 
-patologia e clinica delle cardiopatie chirurgiche (biennale) II.
+Audiologia (1° anno);
 
-5° Anno:
+Semeiologia otorinolaringoiatrica;
 
-terapia chirurgica e tecnica operatoria delle malattie del cuore e dei grossi vasi (triennale) III;
+Tecnica di laboratorio;
 
-terapia intensiva (biennale) II;
+Patologia e clinica otorinolaringoiatrica e cervicofacciale (1°);
 
-cardiochirurgia pediatrica (biennale) II;
+Anatomia e istologia patologica otorinolaringoiatrica.
 
-assistenza meccanica cardiocircolatoria.
+2° Anno:
 
-La frequenza alle lezioni ed alle esercitazioni e' obbligatoria.
+Tecniche operatorie in otorinolaringoiatria;
 
-Gli allievi che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le prove di esame.
+Anestesiologia in otorinolaringoiatria;
 
-Alla fine di ogni corso gli iscritti devono sostenere i relativi esami, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo; per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.
+Patologia e clinica otorinolaringoiatrica e cervicofacciale (2°);
 
-Alla fine del quinto anno, dopo aver superato tutti gli esami, ha luogo l'esame di diploma consistente nella discussione di una dissertazione scritta su un argomento attinente alla specializzazione e la cui scelta sia stata concordata tra diplomando e direttore della scuola.
+Radiologia in rapporto con l'otorinolaringoiatria;
 
-L'art. 248, relativo alla scuola di specializzazione in odontoiatria e protesi dentaria, che muta la denominazione in quella di scuola di specializzazione in odontostomatologia, e' integrato con il seguente nuovo comma:
+Pediatria in rapporto con l'otorinolaringoiatria;
 
-"Alla scuola possono iscriversi soltanto i laureati in medicina e chirurgia".
+Audiologia (2° anno);
 
-Il quinto comma del suddetto art. 248 e' soppresso e sostituito dal seguente:
+Otoneurologia;
 
-"L'ammissione alla scuola avverra' in seguito a concorso per titoli ed esami scritti ed orali".
+Foniatria.
+
+3° Anno:
+
+Patologia e clinica otorinolaringoiatrica e cervicofacciale (3°);
+
+Terapia medica e fisica in otorinolaringoiatria;
+
+Neuropatologia in rapporto con l'otorinolaringoiatria;
+
+Oculistica in rapporto con l'otorinolaringoiatria;
+
+Chirurgia plastica;
+
+Tracheo-broncoscopia;
+
+Medicina legale ed infortunistica in otorinolaringoiatria.
+
+Gli iscritti alla scuola hanno l'obbligo dell'internato presso l'istituto di clinica otorinolaringoiatrica per tutta la durata del corso.
+
+L'esame di diploma di specializzazione consiste nella discussione di una dissertazione scritta su argomento precedentemente concordato con il direttore della scuola.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 4 giugno 1979
+Dato a Roma, addi' 30 ottobre 1971
 
-PERTINI
+SARAGAT
 
-SPADOLINI
+MISASI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: COLOMBO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 31 ottobre 1979 Registro n. 83 Istruzione, foglio n. 71
+alla Corte dei conti, addi' 17 febbraio 1972 Atti del Governo, registro n. 247, foglio n. 16. - VALENTINI
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 102 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono apportate le seguenti modifiche:   
-la scuola di specializzazione in anatomia e istologia patologica muta la denominazione in quella di scuola di specializzazione in anatomia patologica;   
-la scuola di specializzazione in chirurgia muta la denominazione in quella di scuola di specializzazione in chirurgia generale;   
-la scuola di specializzazione in oculistica muta la denominazione in quella di scuola di specializzazione in oftalmologia;   
-la scuola di specializzazione in odontoiatria e protesi dentaria muta la denominazione in quella di scuola di specializzazione in odontostomatologia.   
-Gli articoli 207, 208 e 209, relativi alla scuola di specializzazione in anatomia e istologia patologica, che muta la denominazione in quella di scuola di specializzazione in anatomia patologica, sono soppressi e sostituiti dai seguenti:   
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Scuola di specializzazione in anatomia patologica   
-Art. 207. - La scuola di specializzazione in anatomia patologica ha sede presso l'istituto di anatomia patologica e conferisce il diploma di specialista in anatomia patologica.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della specializzazione e, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
-Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di quaranta per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Art. 208. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-anatomia patologica sistematica II;   
-tecnica delle autopsie;   
-diagnostica anatomo-patologica macroscopica I;   
-tecniche istologiche ed istochimiche.   
-2° Anno:   
-anatomia patologica sistematica II;   
-diagnostica anatomopatologica macroscopica II;   
-diagnostica istopatologica I;   
-tecniche e diagnostica citologica e citogenetica.   
-3° Anno:   
-diagnostica istopatologica II;   
-tecniche di microscopia elettronica e biologia ultrastrutturale;   
-immunopatologia.   
-4° Anno:   
-diagnostica istopatologica III;   
-diagnostica isto-citopatologica ultrastrutturale;   
-diagnostica autoptica medico legale ed elementi di legislazione sanitaria;   
-applicazioni statistiche ed epidemiologiche.   
-Art. 209. - La frequenza alle lezioni, alle esercitazioni pratiche, e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
-Alla fine di ogni corso gli iscritti per essere ammessi agli anni successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi. Al termine del corso di studi per il conseguimento del diploma di specialista in anatomia patologica gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
-La scuola di specializzazione in chirurgia di cui all'art. 217 muta la denominazione in quella di scuola di specializzazione in chirurgia generale.   
-La scuola di specializzazione in oculistica di cui all'art. 247 muta la denominazione in quella di scuola di specializzazione in oftalmologia.   
-Gli articoli 215 e 216, relativi alla scuola di specializzazione in cardioangiochirurgia, sono soppressi e sostituiti dai seguenti:   
+L'art. 174, relativo all'elenco delle scuole annesse alla facolta' di medicina e chirurgia e' modificato nel senso che le scuole in "Dermosifilopatia" e in "Clinica otorinolaringoiatrica" mutano rispettivamente la denominazione in quella di "Scuola di specializzazione in clinica dermosifilopatica" e di "Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale".  
+L'art. 191, relativo alla "Scuola di specializzazione in dermosifilopatia" che muta la denominazione in quello di "Scuola di specializzazione in clinica dermosifilopatica" e' abrogato e sostituito dal seguente:  
   
-Scuola di specializzazione in cardioangiochirurgia   
-Art. 215. - La scuola di specializzazione in cardioangiochirurgia ha sede presso l'istituto di cardiochirurgia dell'Universita' di Bari e conferisce il diploma di specialista in cardioangiochirurgia.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.   
-Il numero degli allievi e' di cinque per anno di corso e complessivamente di venticinque iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Art. 216. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-embriologia e teratologia;   
-anatomia descrittiva e topografica generale con particolare riguardo all'apparato cardiocircolatorio (biennale) I;   
-patologia chirurgica generale;   
-fisiologia dell'apparato cardiocircolatorio;   
-radiologia generale;   
-semeiotica clinica delle cardiopatie chirurgiche;   
-principi di informatica medica;   
-elementi di ingegneria medica.   
-2° Anno:   
-anatomia descrittiva e topografica generale con particolare riguardo all'apparato cardiocircolatorio (biennale) II;   
-clinica chirurgica generale;   
-anatomia ed istologia patologica con particolare riguardo all'apparato cardiocircolatorio (biennale) I;   
-cardioangioradiologia (biennale) I;   
-semeiotica strumentale delle cardiopatie chirurgiche;   
-elementi di anestesia e rianimazione;   
-fisiopatologia respiratoria;   
-fisiopatologia cardiocircolatoria (biennale) I;   
-patologia e clinica delle angiopatie chirurgiche.   
-3° Anno:   
-anatomia ed istologia patologica con particolare riguardo all'apparato cardiocircolatorio (biennale) II;   
-cardioangioradiologia (biennale) II;   
-semeiotica di laboratorio delle cardiopatie chirurgiche;   
-semeiotica angiologica;   
-cardiologia medica (biennale) I;   
-terapia chirurgica e tecnica operatoria delle malattie di cuore e dei grossi vasi (triennale) I;   
-principi tecniche della circolazione extra-corporea;   
-fisiopatologia cardiocircolatoria (biennale) II;   
-patologia e clinica delle cardiopatie chirurgiche (biennale) I.   
-4° Anno:   
-cardiologia medica (biennale) II;   
-angiologia medica;   
-terapia chirurgica e tecnica operatoria delle malattie del cuore e dei grossi vasi (triennale) II;   
-terapia chirurgica e tecnica operatoria delle vasculopatie periferiche;   
-terapia intensiva (biennale) I;   
-patologia e clinica cardiologica pediatrica;   
-cardiochirurgia pediatrica (biennale) I;   
-patologia e clinica delle cardiopatie chirurgiche (biennale) II.   
-5° Anno:   
-terapia chirurgica e tecnica operatoria delle malattie del cuore e dei grossi vasi (triennale) III;   
-terapia intensiva (biennale) II;   
-cardiochirurgia pediatrica (biennale) II;   
-assistenza meccanica cardiocircolatoria.   
-La frequenza alle lezioni ed alle esercitazioni e' obbligatoria.  
-Gli allievi che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le prove di esame.   
-Alla fine di ogni corso gli iscritti devono sostenere i relativi esami, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo; per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.   
-Alla fine del quinto anno, dopo aver superato tutti gli esami, ha luogo l'esame di diploma consistente nella discussione di una dissertazione scritta su un argomento attinente alla specializzazione e la cui scelta sia stata concordata tra diplomando e direttore della scuola.   
-L'art. 248, relativo alla scuola di specializzazione in odontoiatria e protesi dentaria, che muta la denominazione in quella di scuola di specializzazione in odontostomatologia, e' integrato con il seguente nuovo comma:   
-"Alla scuola possono iscriversi soltanto i laureati in medicina e chirurgia".   
-Il quinto comma del suddetto art. 248 e' soppresso e sostituito dal seguente:   
-"L'ammissione alla scuola avverra' in seguito a concorso per titoli ed esami scritti ed orali".   
+Scuola di specializzazione in clinica dermosifilopatica  
+  
+Art. 191. - La scuola ha sede presso l'istituto di clinica dermosifilopatica.  
+La durata del corso e' di tre anni.  
+Non saranno concesse abbreviazioni di corso.  
+Il numero complessivo degli iscritti alla scuola non puo' essere superiore a trenta per i tre anni di corso.  
+L'ammissione alla scuola, qualora il numero delle domande fosse superiore a quello dei posti disponibili, avverra' in seguito a concorso per soli titoli.  
+Gli iscritti alla scuola hanno l'obbligo dell'internato presso l'istituto di clinica dermosifilopatica per tutta la durata del corso.  
+Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1° Anno:  
+Anatomia e istologia normale della cute;  
+Fisiologia della cute e degli annessi cutanei;  
+Anatomia e fisiologia dell'apparato genitale;  
+Microbiologia e parassitologia applicata;  
+Tecnica di laboratorio con particolare riferimento alla sierologia applicata;  
+Semeiotica dermatologica e venereologica.  
+2° Anno:  
+Patologia delle malattie cutanee;  
+Patologia delle infezioni sessuali;  
+Anatomia e istologia patologica della cute;  
+Anatomia patologica delle malattie veneree e sessuali;  
+Angiologia;  
+Sessuologia.  
+3° Anno:  
+Clinica delle malattie cutanee;  
+Clinica delle infezioni sessuali;  
+Farmacologia e terapia medicamentosa;  
+Fisioterapia dermatologica;  
+Cosmetologia;  
+Chirurgia plastica riparatrice;  
+Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.  
+Gli esami di profitto degli specializzandi verranno dati in tre gruppi ed in tre sessioni distinte, ogni gruppo comprendente le materie proprie di ciascun anno di studio.  
+L'esame di diploma consistera' nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato ventiquattro ore prima della prova.  
+  
+L'art. 194, relativo alla "Scuola di specializzazione in odontoiatria e protesi dentaria" e' abrogato e sostituito dal seguente:  
+  
+Scuola di specializzazione in odontoiatria e protesi dentaria  
+  
+Art. 194. - La scuola ha sede presso l'istituto di clinica odontoiatrica.  
+La durata del corso e' di tre anni.  
+Non saranno concesse abbreviazioni di corso.  
+Il numero complessivo degli iscritti alla scuola non puo' essere superiore a novanta, per i tre anni di corso.  
+L'ammissione alla scuola avverra' in seguito a concorso per soli titoli.  
+Gli iscritti alla scuola hanno l'obbligo dell'internato nell'istituto per tutta la durata del corso.  
+Gli esami di profitto teorici e pratici saranno sostenuti in unica sessione nel mese di novembre.  
+Alla fine del terzo annuo, dopo aver superato i relativi esami di profitto, gli allievi saranno ammessi a sostenere l'esame di diploma, consistente nella descrizione orale di una dissertazione scritta su un tema assegnato dal direttore della scuola.  
+Gli insegnamenti sono ripartiti per i tre anni di corso nel seguente modo:  
+1° Anno:  
+Embriologia ed anatomia dentaria e maxillo-facciale;  
+Microbiologia e igiene orale;  
+Farmacologia odontostomatologica;  
+Patologia odontostomatologica;  
+Odontotecnica (1° anno);  
+Anestesia e chirurgia stomatologica;  
+Odontoiatria conservativa (1° anno);  
+Clinica protesica dentaria e maxillo-facciale (1° anno);  
+Esercitazioni pratiche affiancheranno gli insegnamenti.  
+2° Anno:  
+Odontoiatria conservativa (2° anno);  
+Odontotecnica (2° anno);  
+Clinica odontostomatologica (1° anno);  
+Clinica protesica dentaria e maxillo-facciale (2° anno);  
+Paradontologia (1° anno);  
+Anatomia e istopatologia odontostomatologica;  
+Odontoiatria infantile;  
+Radiologia odontostomatologica;  
+Ortopedia dento-maxillo-facciale (1° anno);  
+Chirurgia maxillo-facciale (1° anno);  
+Esercitazioni pratiche affiancheranno gli insegnamenti.  
+3° Anno:  
+Clinica odontostomatologica (2° anno);  
+Chirurgia maxillo-facciale (2° anno);  
+Medicina legale odontostomatologica;  
+Ortopedia dento-maxillo-facciale (2° anno);  
+Clinica protesica dentaria e maxillo-facciale (3° anno);  
+Paradontologia (2° anno);  
+Esercitazioni pratiche affiancheranno gli insegnamenti.  
+L'art. 196, relativo alla "Scuola di specializzazione in clinica otorinolaringoiatrica" che muta la denominazione in "Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale" e' abrogato e sostituito dal seguente:  
+  
+Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale  
+  
+Art. 196. - La scuola ha sede presso l'istituto di clinica otorinolaringoiatrica.  
+La durata del corso e' di tre anni.  
+Non saranno concesse abbreviazioni di corso.  
+Il numero complessivo degli iscritti alla scuola non puo' essere superiore a dodici, per i tre anni di corso.  
+L'ammissione alla scuola avverra' in seguito a concorso per titoli ed esami.  
+Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1° Anno:  
+Anatomia Fisiologia;  
+Audiologia (1° anno);  
+Semeiologia otorinolaringoiatrica;  
+Tecnica di laboratorio;  
+Patologia e clinica otorinolaringoiatrica e cervicofacciale (1°);  
+Anatomia e istologia patologica otorinolaringoiatrica.  
+2° Anno:  
+Tecniche operatorie in otorinolaringoiatria;  
+Anestesiologia in otorinolaringoiatria;  
+Patologia e clinica otorinolaringoiatrica e cervicofacciale (2°);  
+Radiologia in rapporto con l'otorinolaringoiatria;  
+Pediatria in rapporto con l'otorinolaringoiatria;  
+Audiologia (2° anno);  
+Otoneurologia;  
+Foniatria.  
+3° Anno:  
+Patologia e clinica otorinolaringoiatrica e cervicofacciale (3°);  
+Terapia medica e fisica in otorinolaringoiatria;  
+Neuropatologia in rapporto con l'otorinolaringoiatria;  
+Oculistica in rapporto con l'otorinolaringoiatria;  
+Chirurgia plastica;  
+Tracheo-broncoscopia;  
+Medicina legale ed infortunistica in otorinolaringoiatria.  
+Gli iscritti alla scuola hanno l'obbligo dell'internato presso l'istituto di clinica otorinolaringoiatrica per tutta la durata del corso.  
+L'esame di diploma di specializzazione consiste nella discussione di una dissertazione scritta su argomento precedentemente concordato con il direttore della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 giugno 1979
+### Dato a Roma, addi' 30 ottobre 1971
 
-PERTINI SPADOLINI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 31 ottobre 1979
+Registrato alla Corte dei conti, addi' 17 febbraio 1972
 
-Registro n. 83 Istruzione, foglio n. 71
+Atti del Governo, registro n. 247, foglio n. 16. - VALENTINI

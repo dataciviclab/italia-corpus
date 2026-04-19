@@ -1,173 +1,101 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1169
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1958 n. 879
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1169
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1958 n. 879
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-dopo l'art. 141 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in tisiologia.
-
-Scuola di specializzazione in tisiologia
-
-Art. 142. - La scuola ha la durata di tre anni.
-
-Alla scuola sono ammessi complessivamente dieci iscritti.
-
-Art. 143. - Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-1) Anatomia e istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);
-
-2) Patologia della tubercolosi polmonare ed extrapolmonare;
-
-3) Patologia delle malattie dell'apparato respiratorio;
-
-4) Fisiologia e fisiopatologia generale dell'apparato respiratorio;
-
-5) Semeiotica fisica e funzionale dell'apparato respiratorio;
-
-6) Microbiologia;
-
-7) Epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.
-
-2° Anno:
-
-1) Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);
-
-2) Clinica della tubercolosi (biennale);
-
-3) Clinica delle malattie dell'apparato respiratorio (biennale);
-
-4) Fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;
-
-5) Broncologia;
-
-6) Radiologia dell'apparato, respiratorio;
-
-7) Profilassi della tubercolosi;
-
-8) Igiene e legislazione sociale.
-
-3° Anno:
-
-1) Clinica della tubercolosi (biennale);
-
-2) Clinica delle malattie dell'apparato respiratorio (biennale);
-
-3) Chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;
-
-4) Terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;
-
-5) Terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.
-
-Art. 144. - I corsi di insegnamento sono integrati da turni obbligatori di internato nei reparti di degenza e nei laboratori di ricerca; da esercitazioni pratiche; da conferenze.
-
-Gli esami di profitto hanno luogo al termine di ogni anno di corso.
-
-Per il conseguimento del diploma di specializzazione e' prescritta la presentazione e la discussione di una dissertazione scritta.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 30 ottobre 1970
-
-SARAGAT
-
-MISASI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 9 gennaio 1971 Atti del Governo; registro n. 240, foglio n. 17. - CARUSO
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905) e successivi;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 26 luglio 1957, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-07-26;741);   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-dopo l'art. 141 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in tisiologia.  
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Scuola di specializzazione in tisiologia  
+Art. 25. - E' cosi' modificato: "La Facolta' di lettere e filosofia conferisce tre lauree: la laurea in lettere, la laurea in filosofia e la laurea in lingue e letterature straniere moderne - indirizzo europeo".   
+Dopo l'art. 32, e' aggiunto il seguente nuovo articolo, relativo alla istituzione del Corso di laurea in lingue e letterature straniere moderne (indirizzo europeo), con il conseguente spostamento della numerazione degli articoli successivi.   
   
-Art. 142. - La scuola ha la durata di tre anni.  
-Alla scuola sono ammessi complessivamente dieci iscritti.  
-Art. 143. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) Anatomia e istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);  
-2) Patologia della tubercolosi polmonare ed extrapolmonare;  
-3) Patologia delle malattie dell'apparato respiratorio;  
-4) Fisiologia e fisiopatologia generale dell'apparato respiratorio;  
-5) Semeiotica fisica e funzionale dell'apparato respiratorio;  
-6) Microbiologia;  
-7) Epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.  
-2° Anno:  
-1) Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);  
-2) Clinica della tubercolosi (biennale);  
-3) Clinica delle malattie dell'apparato respiratorio (biennale);  
-4) Fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;  
-5) Broncologia;  
-6) Radiologia dell'apparato, respiratorio;  
-7) Profilassi della tubercolosi;  
-8) Igiene e legislazione sociale.  
-3° Anno:  
-1) Clinica della tubercolosi (biennale);  
-2) Clinica delle malattie dell'apparato respiratorio (biennale);  
-3) Chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;  
-4) Terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;  
-5) Terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.  
-Art. 144. - I corsi di insegnamento sono integrati da turni obbligatori di internato nei reparti di degenza e nei laboratori di ricerca; da esercitazioni pratiche; da conferenze.  
-Gli esami di profitto hanno luogo al termine di ogni anno di corso.  
-Per il conseguimento del diploma di specializzazione e' prescritta la presentazione e la discussione di una dissertazione scritta.  
+Corso di laurea in lingue e letterature straniere moderne (indirizzo europeo)   
+  
+Art. 33. - La durata del corso degli studi per la laurea in lingue e letterature straniere moderne (indirizzo europeo) e' di quattro anni.   
+E' titolo di ammissione il diploma di maturita' classica.   
+  
+a) Sono insegnamenti fondamentali:   
+1) Letteratura italiana;   
+2) Letteratura latina;   
+3) Glottologia;   
+4) Una lingua e letteratura straniera moderna;   
+5) Una seconda lingua e letteratura straniera moderna;   
+6) Filologia romanza (o germanica, o slava, o ugro-finnica);   
+7) Storia medioevale;   
+8) Storia moderna;   
+9) Storia dell'arte moderna (o storia dell'arte medioevale e moderna);   
+10) Geografia.   
+  
+b) Sono insegnamenti complementari (quando non siano scelti come fondamentali ai su indicati numeri 4), 5) e 6):   
+1) Lingua e letteratura francese;   
+2) Lingua e letteratura spagnola;   
+3) Lingua e letteratura portoghese;   
+4) Lingua e letteratura romena;   
+5) Lingua e letteratura inglese;   
+6) Lingua e letteratura tedesca;   
+7) Lingue e letterature scandinave;   
+8) Lingua e letteratura russa;   
+9) Lingua e letteratura ungherese;   
+10) Lingua e letteratura neo-greca;   
+11) Lingua e letteratura albanese;   
+12) Lingua e letteratura araba;   
+13) Filologia romanza;   
+14) Filologia germanica;   
+15) Filologia slava;   
+16) Filologia ugro-finnica;   
+17) Letteratura anglo-americana;   
+18) Letteratura ispano-americana;   
+19) Storia della lingua italiana;   
+20) Storia della letteratura italiana moderna e contemporanea;   
+21) Storia delle tradizioni popolari;   
+22) Storia dell'arte medioevale;   
+23) Storia della musica;   
+24) Storia del teatro e dello spettacolo;   
+25) Letteratura greca;   
+26) Lingua e letteratura latina medioevale;   
+27) Storia romana;   
+28) Storia greca;   
+29) Storia della filosofia.   
+Lo studente dovra' seguire i corsi e sostenere gli esami in tutti gli insegnamenti fondamentali dell'indirizzo prescelto e in tre altri insegnamenti da lui scelti fra i complementari dello stesso indirizzo.   
+Uno degli insegnamenti complementari potra' essere sostituito dallo studente con una disciplina di altri corsi di studi della stessa o di diversa Facolta'.   
+L'insegnamento della lingua e letteratura straniera moderna, alla quale lo studente intende principalmente dedicarsi, dovra' essere seguito per tutti i quattro anni, alla fine di ciascuno dei quali egli sara' sottoposto a prove scritte, di anno in anno gradualmente progressive.   
+Dovranno poi essere seguiti per due anni l'insegnamento della filologia a cui quella stessa prima lingua si ricollega e l'insegnamento della seconda lingua e letteratura straniera moderna prescelta. Due altri insegnamenti fondamentali dovranno pure essere seguiti per un biennio.   
+Lo studente potra' poi seguire per un biennio anche in altro insegnamento; ed in tal caso potra' ridurre da tre a due gl'insegnamenti complementari di sua scelta.   
+Gli esami di letteratura italiana e di letteratura latina comprendono una prova scritta preliminare.   
+Il preside, sentita, ove ritenga la Facolta', deve controllare i piani di studio presentati dagli studenti ed approvarli prima che siano resi definitivi.   
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali dell'indirizzo prescelto ed in tutti gli altri insegnamenti compresi nel piano di studi approvato dal preside.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1970
+### Dato a Roma, addi' 3 luglio 1958
 
-SARAGAT MISASI
+GRONCHI MORO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 9 gennaio 1971
+Registrato alla Corte dei conti, addi' 13 settembre 1958
 
-Atti del Governo; registro n. 240, foglio n. 17. - CARUSO
+Atti del Governo, registro n. 114, foglio n. 34. - RELLEVA -

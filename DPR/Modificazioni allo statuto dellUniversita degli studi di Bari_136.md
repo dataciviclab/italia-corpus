@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1958 n. 1033
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 537
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1958 n. 1033
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 537
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successivi;
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,128 +20,117 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla
+-----
 
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Dopo l'art. 107, relativo alle scuole di perfezionamento annesse alla Facolta' di giurisprudenza, sono aggiunti, con il conseguente spostamento della numerazione di quelli successivi, i seguenti nuovi articoli, relativi ai corsi di perfezionamento annessi alla Facolta' di economia e commercio.
-
-Corsi di perfezionamento in amministrazione aziendale ed in economia sociale.
-
-Art. 108. - Alla Facolta' di economia e commercio sono annessi due corsi di perfezionamento: uno in "Amministrazione aziendale" l'altro in "Economia sociale".
-
-La durata di detti corsi e' di un anno.
-
-Al corso di perfezionamento in Amministrazione aziendale sono ammessi solo i laureati in economia e commercio; al corso di perfezionamento in Economia sociale sono ammessi i laureati in economia e commercio e quelli in scienze politiche.
-
-Art. 109. - Il corso di perfezionamento in "Economia sociale" consta dei seguenti insegnamenti:
-
-1) Analisi economica;
-
-2) Statistica, economica e sociale;
-
-3) Politica sociale;
-
-4) Storia dei sistemi economici nell'eta' moderna.
-
-Art. 110. - Il corso di perfezionamento in Amministrazione aziendale comprende i seguenti insegnamenti:
-
-1) Organizzazione aziendale;
-
-2) Tecnica del commercio estero;
-
-3) Economia e legislazione bancaria;
-
-4) Tecnica amministrativa delle imprese industriali;
-
-5) Tecnica tributaria;
-
-6) Amministrazione e contabilita' pubblica.
-
-Art. 111. - La direzione dei corsi e' affidata al preside di Facolta'.
-
-Art. 112. - La regolare frequenza alle lezioni e alle esercitazioni e' obbligatoria per essere ammessi a sostenere gli esami nelle varie discipline che formano materia dei corsi.
-
-Art. 113. - Al termine dei corsi, superati gli esami nelle varie discipline, gli iscritti dovranno sostenere un esame generale finale.
-
-Tale esame constera': a) di una prova scritta riflettente un problema economico aziendale o di contabilita' statale, per gli iscritti al corso di perfezionamento in Amministrazione aziendale, e un problema economico sociale per gli iscritti al corso di perfezionamento in Economia sociale; b) di una discussione orale sul tema della prova scritta sostenuta dagli iscritti innanzi ad una Commissione composta da quattro professori ufficiali per ciascuno dei due corsi di specializzazione, oltre il direttore, preside della Facolta'.
-
-Art. 114. - Al termine dei corsi, superati gli esami speciali e quello generale finale, verra' rilasciato un certificato di frequenza e di esame.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 18 giugno 1958
-
-GRONCHI
-
-MORO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 27 novembre 1958 Atti del Governo, registro n. 115, foglio n. 40. - RELLEVA
+proposta del Ministro della pubblica istruzione; Decreta:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successivi;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 192 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' aggiunta la scuola di specializzazione in audiologia.  
+
+Art. 2
+------
+
   
-Decreta:   
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli 260 e 261, relativi alla scuola di specializzazione in reumatologia, sono soppressi e sostituiti dai seguenti:   
   
-Dopo l'art. 107, relativo alle scuole di perfezionamento annesse alla Facolta' di giurisprudenza, sono aggiunti, con il conseguente spostamento della numerazione di quelli successivi, i seguenti nuovi articoli, relativi ai corsi di perfezionamento annessi alla Facolta' di economia e commercio.   
+Scuola di specializzazione in reumatologia   
+Art. 260. - La scuola di specializzazione in reumatologia ha sede presso la cattedra di reumatologia e conferisce il diploma di specialista in reumatologia.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
+Il numero massimo degli allievi e' di tre per anno di corso e complessivamente di dodici iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+1) anatomia, istologia e morfogenesi dell'apparato locomotore;   
+2) fisiologia e fisiopatologia dell'apparato locomotore;   
+3) biochimica di interesse reumatologico;   
+4) microbiologia in relazione alle malattie reumatiche;   
+5) immunologia reumatologica;   
+6) semeiotica fisica e strumentale in reumatologia (biennale) I.   
+2° Anno:   
+1) semeiotica fisica e strumentale in reumatologia (biennale) II;   
+2) esami di laboratorio in reumatologia;   
+3) diagnostica radiologica delle reumo-artropatie;   
+4) farmacologia reumatologica;   
+5) anatomia ed istologia patologica delle malattie reumatiche;   
+6) clinica e terapia delle malattie reumatiche (triennale) I. 3° Anno:   
+1) clinica e terapia ortopedica (biennale) I;   
+2) fisiochinesiterapia reumatologica;   
+3) idro-climatologia di interesse reumatologico;   
+4) reumo-artropatie professionali;   
+5) clinica e terapia delle malattie reumatiche (triennale) II. 4° Anno:   
+1) epidemiologia e aspetti sociali dei reumatismi;   
+2) riabilitazione del malato reumatico;   
+3) clinica e terapia ortopedica (biennale) II;   
+4) clinica e terapia delle malattie reumatiche (triennale) III.   
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
+Alla fine di ogni corso gli iscritti, per essere ammessi agli anni successivi, debbono superare le prove di esame sulle materie impartite durante l'anno. Per le materie biennali o triennali l'esame e' sostenuto alla del biennio o del triennio.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in reumatologia gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+
+Art. 3
+------
+
   
-Corsi di perfezionamento in amministrazione aziendale ed in economia sociale.   
   
-Art. 108. - Alla Facolta' di economia e commercio sono annessi due corsi di perfezionamento: uno in "Amministrazione aziendale" l'altro in "Economia sociale".   
-La durata di detti corsi e' di un anno.   
-Al corso di perfezionamento in Amministrazione aziendale sono ammessi solo i laureati in economia e commercio; al corso di perfezionamento in Economia sociale sono ammessi i laureati in economia e commercio e quelli in scienze politiche.   
-Art. 109. - Il corso di perfezionamento in "Economia sociale" consta dei seguenti insegnamenti:   
-1) Analisi economica;   
-2) Statistica, economica e sociale;   
-3) Politica sociale;   
-4) Storia dei sistemi economici nell'eta' moderna.   
-Art. 110. - Il corso di perfezionamento in Amministrazione aziendale comprende i seguenti insegnamenti:   
-1) Organizzazione aziendale;   
-2) Tecnica del commercio estero;   
-3) Economia e legislazione bancaria;   
-4) Tecnica amministrativa delle imprese industriali;   
-5) Tecnica tributaria;   
-6) Amministrazione e contabilita' pubblica.   
-Art. 111. - La direzione dei corsi e' affidata al preside di Facolta'.   
-Art. 112. - La regolare frequenza alle lezioni e alle esercitazioni e' obbligatoria per essere ammessi a sostenere gli esami nelle varie discipline che formano materia dei corsi.   
-Art. 113. - Al termine dei corsi, superati gli esami nelle varie discipline, gli iscritti dovranno sostenere un esame generale finale.   
-Tale esame constera': a) di una prova scritta riflettente un problema economico aziendale o di contabilita' statale, per gli iscritti al corso di perfezionamento in Amministrazione aziendale, e un problema economico sociale per gli iscritti al corso di perfezionamento in Economia sociale; b) di una discussione orale sul tema della prova scritta sostenuta dagli iscritti innanzi ad una Commissione composta da quattro professori ufficiali per ciascuno dei due corsi di specializzazione, oltre il direttore, preside della Facolta'.   
-Art. 114. - Al termine dei corsi, superati gli esami speciali e quello generale finale, verra' rilasciato un certificato di frequenza e di esame.   
+Dopo l'art. 265, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in audiologia.   
+Scuola di specializzazione in audiologia   
+Art. 266. - La scuola ha sede presso l'istituto di clinica otorinolaringoiatrica dell'Universita' di Bari.   
+La durata del corso e' fissata in tre anni.   
+Il numero degli iscritti alla scuola, complessivo per i tre anni, e' fissato ad un massimo di nove (tre per anno).   
+L'esercitazione pratica nei reparti e' obbligatoria per tutti i tre anni di corso e si svolge presso l'istituto di clinica otorinolaringoiatrica.   
+Art. 267. - L'ammissione alla scuola avviene previo superamento di un esame con prova scritta e orale, inteso a chiarire il grado di preparazione generale del candidato ed i suoi specifici interessi ed attitudini verso l'audiologia. Sono da considerarsi titoli preferenziali, a parita' di risultato dell'esame di ammissione:   
+voto di laurea in medicina e chirurgia;   
+aver conseguito la laurea presso l'Universita' di Bari;   
+aver frequentato come studente interno un istituto di audiologia o di clinica otorinolaringoiatrica;   
+aver svolto la tesi di laurea su argomenti di audiologia o di otorinolaringoiatria;   
+eventuali pubblicazioni.   
+Non sono ammesse abbreviazioni di corso.   
+Art. 268. - Le materie di insegnamento sono:   
+1° Anno:   
+nozioni di fisica acustica;   
+anatomia dell'orecchio, delle voci e dei centri acustici e vestibolari;   
+fisiologia dell'orecchio, delle vie e dei centri acustici e vestibolari;   
+nozioni di psichiatria.   
+2° Anno:   
+tecniche audiometriche;   
+nozioni di neurologia;   
+nozioni di vestibologia.   
+3° Anno:   
+patologia dell'udito;   
+terapia medica, chirurgica e protesica della sordita';   
+la sordita' sotto il profilo sociale;   
+la rieducazione dell'ipoacusico.   
+Per accedere al secondo ed al terzo anno e' obbligatorio il superamento di tutti gli esami, rispettivamente del primo e del secondo anno.   
+Gli esami possono essere sostenuti solamente in due sessioni, una estiva ed una autunnale.   
+Art. 269. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine. Gli insegnanti sono proposti dal direttore della scuola e scelti tra i titolari di altre cattedre della facolta' di medicina e chirurgia dell'Universita' di Bari, tra i liberi docenti in audiologia ed in altre materie.   
+Il diploma di specialista in audiologia viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico o sperimentale.   
+Art. 270. - Gli iscritti alla scuola di specializzazione sono tenuti a pagare le tasse e soprattasse secondo quanto stabilito per gli studenti della facolta' di medicina e chirurgia nonche' la tassa di diploma nella misura di L. 6.000 ai sensi dell'art. 7 della legge 18 dicembre 1951. Sono tenuti altresi' al pagamento di speciali contributi nella misura che e' determinata dal consiglio di amministrazione previo parere della facolta' su proposta del direttore della scuola.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 giugno 1958
+### Dato a Roma, addi' 11 maggio 1979
 
-GRONCHI MORO
+PERTINI SPADOLINI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 27 novembre 1958
+Registrato alla Corte dei conti, addi' 23 ottobre 1979
 
-Atti del Governo, registro n. 115, foglio n. 40. - RELLEVA
+Registro n. 77 Istruzione, foglio n. 43

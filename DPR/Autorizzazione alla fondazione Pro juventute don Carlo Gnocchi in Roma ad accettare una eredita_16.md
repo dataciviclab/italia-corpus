@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1974 n. 408
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1980 n. 278
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1974 n. 408
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1980 n. 278
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-408. Decreto del Presidente della Repubblica 27 giugno 1974, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.ra Bice Astolfi, con testamento olografo del 1 ottobre 1964, pubblicato l'8 aprile 1972 per atto del dott.  
-Virgilio Neri, notaio in Milano, n. 69252 di repertorio e n. 6759 di raccolta, registrato a Milano il 12 aprile 1972 al n. 6729, serie F, consistente in beni immobili siti in Milano, del valore di L. 4.500.000 nonche' in denaro e titoli, il tutto per un complessivo netto di L. 7.235.616.  
+278. Decreto del Presidente della Repubblica 14 aprile 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.na Jole Pavan, con testamento olografo 28 maggio 1976, pubblicato il 1 giugno 1977, n. 45/13 di repertorio, a rogito dott. Ulderico Brambilla, notaio in Milano, registrato a Milano il 16 giugno 1977 al n. 5330, serie H, consistente in due appartamenti siti in Milano, via Lunigiana n. 4, distinti al nuovo catasto edilizio urbano alla partita 36245, foglio 227, mappale 132 sub 32 e 33, nonche' in mobili vari, libretti al portatore, biglietti di banca, ecc., per un valore complessivo netto di L. 35.589.940.  
   
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 22 agosto 1974  
-Atti di Governo, registro n. 5, foglio n. 10. - SCIARRETTA
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 18 giugno 1980  
+Registro n. 5 Presidenza, foglio n. 105

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1986 n. 420
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1977 n. 795
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1986 n. 420
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1977 n. 795
+================================================================
 
 Autorizzazione all'Associazione nazionale combattenti e reduci, in Roma, ad acquistare un immobile.
 ---------------------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione all'Associazione nazionale combattenti e reduci, in Roma, ad acqu
 Art. 1
 ------
 
-n.
+N.
 
-420. Decreto del Presidente della Repubblica 11 aprile 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci, in Roma, viene autorizzata ad acquistare, al convenuto prezzo di L. 108.000.000, valutato con perizia di parte L. 125.000.000 e ridotto dall'ufficio tecnico erariale di Parma a L. 110.000.000, dai signori Spotti Bruno e Ruggeri Emilia, un appartamento sito in Parma, via XXII Maggio n. 37, distinto al nuovo catasto edilizio urbano alla partita 5528, foglio 34, mappale 322, sub 2.  
+795. Decreto del Presidente della Repubblica 27 settembre 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci, in Roma, viene autorizzata ad acquistare un appartamento (con relativo mobilio), sito in Lignano Pineta del comune di Lignano Sabbiadoro (Udine), condominio S. Giorgio, via Centrale 10 (ora civici 34-36), distinto al nuovo catasto edilizio urbano alla partita 1033, foglio 42, mappale 155/11, al prezzo di lire 6.300.000, da destinare a case per ex combattenti bisognosi di cure marine.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 12 luglio 1986  
-Registro n. 7 Presidenza, foglio n. 13
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 26 ottobre 1977  
+Registro n. 8 Presidenza, foglio n. 254

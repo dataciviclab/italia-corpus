@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1980 n. 432
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1980 n. 959
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1980 n. 432
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1980 n. 959
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -10,91 +10,85 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertite nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' degli studi di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
 Sulla
 -----
 
 proposta del Ministro della pubblica istruzione; Decreta:
 
-Articolo unico
---------------
+Art. 1
+------
 
   
+Lo statuto dell'Universita' di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 148 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la seconda scuola di specializzazione in medicina interna.  
+
+Art. 2
+------
+
   
-Nello statuto dell'Universita' degli studi di Milano, dopo l'art. 278, sono inseriti, con il conseguente spostamento della numerazione degli articoli successivi, i nuovi articoli relativi alla istituzione della scuola di specializzazione in scienza e tecnologia cosmetiche presso la facolta' di farmacia.   
-  
-Scuola di specializzazione   
-in scienza e tecnologia cosmetiche   
-  
-Art. 279. - E' istituita presso la facolta' di farmacia una scuola di specializzazione in scienza e tecnologia cosmetiche con lo scopo di fornire agli allievi una preparazione completa teorica e sperimentale nella scienza e nella tecnologia dei cosmetici.   
-Art. 280. - La scuola rilascia un diploma di specializzazione in scienza e tecnologia cosmetiche.   
-La durata del corso di studi per il conseguimento del diploma e' di due anni.   
-Art. 281. - Alla scuola possono essere iscritti venti allievi per anno. L'ammissione alla scuola e' decisa dal consiglio direttivo sulla base di un concorso per esami e titoli.   
-Possono iscriversi i laureati in farmacia, chimica e tecnologia farmaceutiche, chimica, chimica industriale e scienze biologiche.   
-Gli aspiranti debbono, nei termini regolamentari, presentare apposita domanda su carta legale diretta al rettore e corredata dai prescritti documenti e della quietanza del pagamento di tasse, soprattasse e contributi relativi.   
-Gli iscritti sono obbligati alla frequenza ai corsi di lezioni ed esercitazioni.   
-La frequenza viene comprovata dalla attestazione rilasciata dagli insegnanti sul libretto di iscrizione.   
-Gli iscritti alla scuola debbono sostenere gli esami annuali di profitto per essere ammessi all'anno successivo.   
-L'esame di diploma, al quale i candidati potranno essere ammessi dopo aver superato tutti gli esami di profitto, consiste in una discussione di una dissertazione scritta svolta dal candidato su un argomento tecnico-scientifico assegnato allo specializzando dal direttore della scuola.   
-Le commissioni per gli esami di profitto e di diploma sono nominate dal preside della facolta' di farmacia su proposta del direttore della scuola e sono composte di norma, rispettivamente di tre e sette membri.   
-Art. 282. - Le materie di insegnamento della Scuola sono le seguenti:   
-1° Anno:   
-1) anatomia, istologia, istochimica della cute e annessi;   
-2) fisiologia e biofisica della cute e annessi;   
-3) biochimica della cute e annessi;   
-4) farmacologia e tossicologia cosmetica;   
-5) principi chimico-fisici della cosmetologia;   
-6) chimica dei prodotti cosmetici I;   
-7) tecnologia e formulazione cosmetica I;   
-8) controllo chimico di qualita' I.   
-2° Anno:   
-1) microbiologia applicata ed igiene della produzione;   
-2) impianti, macchinario e organizzazione della produzione;   
-3) controllo biologico e microbiologico di qualita';   
-4) chimica dei prodotti cosmetici II;   
-5) tecnologia e formulazione cosmetica II;   
-6) controllo chimico di qualita' II;   
-7) legislazione cosmetica e documentazione;   
-8) informazione ed educazione cosmetologica.   
-Ad ogni corso corrispondera' un adeguato numero di lezioni teoriche ed esercitazioni pratiche, che potranno essere svolte da piu' docenti in relazione alla particolare necessita' di ciascun corso.   
-Oltre alle predette materie possono essere tenuti seminari e conferenze di aggiornamento inerenti all'oggetto della scuola di specializzazione.   
-Art. 283. - La scuola e' organizzata dalla facolta' di farmacia dell'Universita' di Milano. Potranno essere invitati a tenere lezioni, conferenze, seminari ed esercitazioni docenti di altre facolta' o Universita', od esperti, anche dall'estero.   
-La direzione della scuola e' affidata ad un professore ordinario di ruolo o fuori ruolo eletto dal consiglio direttivo costituito da cinque docenti nominati dal consiglio di facolta', per la durata di tre anni, scelti fra i docenti di discipline chimico-farmaceutiche (uno);   
-farmaco-biologiche (uno) e tecnologiche (tre).   
-Il direttore della scuola e' nominato dal rettore.   
-Il direttore e i membri del consiglio sono rieleggibili.   
-In casi di decadenza, il nuovo membro resta in carica fino alla scadenza del mandato triennale.   
-Art. 284. - Gli incarichi di insegnamento, anche per un numero limitato di lezioni o esercitazioni, sono conferiti dal rettore su proposta del consiglio direttivo della scuola con l'approvazione del senato accademico e del consiglio amministrativo dell'Universita'.   
-Art. 285. - Le tasse e soprattasse per l'iscrizione alla scuola sono quelle stabilite per la facolta' di farmacia.   
-I contributi a carico degli iscritti saranno fissati annualmente dal consiglio di amministrazione, su proposta del senato accademico, udito il consiglio della facolta' e della scuola e resi noti con apposito manifesto.   
-Art. 286. - Le date di inizio e termine delle lezioni sono fissate dalla facolta' udito il consiglio della scuola, in dipendenza da ragioni speciali inerenti alla natura dei corsi e delle esercitazioni.   
-Art. 287. - Al funzionamento della scuola si provvedera' con il provento delle tasse, soprattasse e contributi da parte degli iscritti. La scuola peraltro potra' avvalersi anche di contributi, lasciti o donazioni provenienti da enti, industrie e privati.   
+Dopo l'art. 264, e con il conseguente spostamento della numerazione successiva, e' inserito il seguente nuovo articolo relativo alla istituzione della seconda scuola di specializzazione in medicina interna.  
+Seconda scuola di specializzazione in medicina interna  
+Art. 265. - La seconda scuola di specializzazione in medicina interna ha sede presso la quinta cattedra di clinica medica dell'Universita' degli studi di Milano.  
+La scuola ha la durata di cinque anni.  
+Il numero degli iscritti e' limitato a cinque per ogni anno di corso.  
+Le materie di insegnamento sono:  
+1° Anno:  
+malattie infettive, disreattive e del sangue;  
+istituzioni di terapia;  
+anatomia ed istologia patologica (I corso);  
+clinica medica generale e terapia medica (I corso).  
+2° Anno:  
+malattie dell'apparato cardiovascolare;  
+microbiologia e sierologia;  
+chimica clinica;  
+anatomia ed istologia patologica (II corso);  
+clinica medica generale e terapia medica (II corso).  
+3° Anno:  
+malattie dell'apparato digerente;  
+malattie renali;  
+clinica medica generale e terapia medica (III corso).  
+4° Anno:  
+malattie dell'apparato respiratorio;  
+malattie del sistema nervoso;  
+clinica medica generale e terapia medica (IV corso).  
+5° Anno:  
+malattie del ricambio;  
+malattie delle ghiandole endocrine;  
+clinica medica generale e terapia medica (V corso).  
+Insegnamenti complementari:  
+parassitologia medica;  
+genetica medica;  
+radiologia;  
+semeiotica oculistica.  
+Gli allievi hanno obbligo di frequenza ai fini di apprendimento.  
+Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno. L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali. Alla fine del corso l'allievo, prima di adire l'esame di diploma, deve sostenere un esame generale di profitto.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 marzo 1980
+### Dato a Roma, addi' 31 ottobre 1980
 
-PERTINI VALITUTTI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 31 luglio 1980
+Registrato alla Corte dei conti, addi' 30 dicembre 1980
 
-Registro n. 75 Istruzione, foglio n. 110
+Registro n. 122 Istruzione, foglio n. 30

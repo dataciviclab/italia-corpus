@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1963 n. 551
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1189
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1963 n. 551
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1189
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -12,11 +12,10 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successivi;  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1935, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -25,21 +24,57 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 36, e' modificato nel senso che l'Istituto di "Politica economica" annesso alla Facolta' di economia e commercio e' soppresso; mentre sono istituiti i due seguenti Istituti:  
-"Istituto di Politica economica e finanziaria";  
-"Istituto di Economia e politica agraria".  
-Art. 38. - Agli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti quelli di "Diritto tributario" e di "Tecnica dei crediti speciali".  
   
+Dopo l'art. 711, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della seconda scuola di specializzazione in malattie infettive.  
+  
+Scuola di specializzazione in malattie infettive (seconda scuola)  
+  
+Art. 712. - La scuola di specializzazione in malattie infettive ha lo scopo di promuovere un'approfondita conoscenza delle malattie umane da infezione e dei metodi di diagnosi, di profilassi e di cura delle stesse.  
+Essa conferisce il diploma di specialista in malattie infettive.  
+Alla scuola sono ammessi i laureati in medicina e chirurgia in numero non superiore a 20 per ciascun anno. Qualora gli aspiranti siano in numero maggiore, i candidati dovranno sostenere una prova scritta e la ammissione sara' determinata in base alla graduatoria.  
+Gli aspiranti che per titoli gia' acquisiti ritengano di poter essere ammessi al 2° anno di corso, dovranno presentare documentata richiesta.  
+Art. 713. - Il corso di studi ha la durata di tre anni, durante i quali gli iscritti hanno l'obbligo di frequentare le lezioni, le esercitazioni pratiche ed i vari reparti degli istituti clinici.  
+La firma di frequenza e' necessaria per l'ammissione agli esami di profitto che saranno sostenuti alla fine di ogni anno accademico per le discipline di insegnamento annuale ed alla fine del biennio per gli insegnamenti biennali.  
+Alla fine del corso gli iscritti dovranno presentare e discutere una dissertazione scritta su un argomento di malattie infettive.  
+Per essere ammesso a questo esame di diploma, il candidato deve aver superato tutti gli esami di profitto.  
+Art. 714. - La scuola di specializzazione in malattie infettive comprende i seguenti insegnamenti:  
+  
+1° Anno:  
+1) Epidemiologia generale delle malattie infettive;  
+2) Nozioni generali di batteriologia, di virologia, di parassitologia, di immunologia;  
+3) Tecnica batteriologica, virologica, parassitologica, immunologica applicata alle malattie infettive (1° anno).  
+  
+2° Anno:  
+1) Patologia e clinica delle malattie infettive (1° anno);  
+2) Semeiotica e diagnostica delle malattie infettive;  
+3) Anatomia patologica delle malattie infettive;  
+4) Tecnica batteriologica, virologica, parassitologica, immunologica applicata alle malattie infettive (2° anno).  
+  
+3° Anno:  
+1) Patologia e clinica delle malattie infettive (2° anno);  
+2) Malattie infettive dei Paesi caldi;  
+3) Farmacologia e terapia generale delle malattie infettive;  
+4) Legislazione sanitaria e malattie infettive.  
+  
+L'ordine degli esami e' il seguente:  
+I anno: esame delle discipline n. 1) e 2);  
+II anno: esame delle discipline n. 2), 3) e 4);  
+III anno: esame delle discipline n. 1), 2), 3), 4) ed un esame di diploma.  
+  
+I candidati non riconosciuti idonei all'esame di diploma potranno ripresentarsi dopo un altro anno di frequenza alla scuola. Ma se, al secondo esame, non sara' loro riconosciuta la idoneita', saranno esclusi da ulteriori prove.  
+Art. 715. - Le tasse e soprattasse che gli iscritti sono tenuti a pagare, sono fissate come segue:  
+  
+tassa d'immatricolazione . . . . . . . . . . . . . . . . . . L. 5.000 tassa annuale d'iscrizione. . . . . . . . . . . . . . . . . L. 18.000 soprattassa annuale per esami di profitto. . . . . . . . . . L. 7.000 contributi generali. . . . . . . . . . . . . . . . . . . . . . L. 950 riscaldamento. . . . . . . . . . . . . . . . . . . . . . . . L. 2.000 contributo di laboratorio per esercitazioni . . . . . . . . L. 50.000 libretto di riconoscimento . . . . . . . . . . . . . . . . . . L. 300 indennita' di schedatura . . . . . . . . . . . . . . . . . . . L. 500 soprattassa esami di diploma . . . . . . . . . . . . . . . . L. 3.000   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 marzo 1963
+### Dato a Roma, addi' 31 ottobre 1973
 
-SEGNI GUI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 24 aprile 1963
+Registrato alla Corte dei conti, addi' 19 novembre 1974
 
-Atti del Governo, registro n. 168, foglio n. 36. - VILLA
+Atti di Governo, registro n. 6, foglio n. 137. - SCIARRETTA

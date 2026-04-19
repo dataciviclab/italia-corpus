@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 710
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 luglio 1986 n. 529
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 710
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 luglio 1986 n. 529
+=============================================================
 
 Modificazioni allo statuto della seconda Universita' degli studi di Roma.
 -------------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto della seconda Universita' degli studi di Roma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto della seconda Universita' degli studi di Roma "Tor Vergata", approvato con [decreto del Presidente della Repubblica 29 ottobre 1980, n. 1137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-10-29;1137), e modificato con [decreto del Presidente della Repubblica 8 novembre 1982, n. 1069](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-11-08;1069), e successive modificazioni;
+Veduto lo statuto della seconda Universita' di Roma, approvato con [decreto del Presidente della Repubblica 29 ottobre 1980, n. 1137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-10-29;1137), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,118 +18,169 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
 Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici della seconda Universita' di Roma;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Considerato che e' tuttora in atto la sperimentazione organizzativa e didattica di cui agli [articoli 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art81) e [93 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art93);
 
-Decreta:
---------
+Considerato che le tabelle dell'ordinamento didattico universitario relative ai corsi di laurea sono in fase di riordinamento per effetto di apposite commissioni di studio, e che anzi alcune tabelle sono state gia' riordinate;
 
-Lo statuto della seconda Universita' di Roma "Tor Vergata", approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Considerato che in alcune facolta' di giurisprudenza figurano, oltre il corso di laurea in giurisprudenza, anche altri corsi di laurea, quale quello di scienze politiche;
+
+Vista la necessita' di riequilibrare le iscrizioni presso la facolta' di economia e commercio dell'Universita' "La Sapienza" di Roma, al fine di assicurare una migliore formazione degli studenti;
+
+Rilevata quindi, la necessita' di accogliere la richiesta della seconda Universita' di Roma di istituire il corso di laurea in economia e commercio presso la facolta' di giurisprudenza;
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
 
 Art. 1
 ------
 
   
-L'art. 68, relativo all'elenco delle scuole di specializzazione, e' integrato nel senso che dopo la scuola di chirurgia generale e' aggiunta la seguente:  
-  
-Chirurgia pediatrica Afferente alla facolta'  
-di medicina e chirurgia  
+La facolta' di giurisprudenza della seconda Universita' di Roma puo' rilasciare anche la laurea in economia e commercio.  
 
 Art. 2
 ------
 
   
-  
-Dopo l'art. 94, e con lo spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli, relativi alla istituzione della scuola di specializzazione in chirurgia pediatrica, afferente alla facolta' di medicina e chirurgia.   
-  
-Scuola di specializzazione in chirurgia pediatrica   
-  
-Art. 95. - E' istituita presso l'Universita' di Roma "Tor Vergata" la scuola di specializzazione in chirurgia pediatrica che conferisce il diploma di specialista in chirurgia pediatrica.   
-Art. 96. - La direzione della scuola ha sede presso l'Universita' di Roma "Tor Vergata", facolta' di medicina e chirurgia.   
-Art. 97. - La scuola ha lo scopo di permettere il conseguimento, successivamente alla laurea, del diploma che legittimi l'assunzione della qualifica di specialista in chirurgia pediatrica.   
-Art. 98. - La durata del corso e' di cinque anni e non e' suscettibile di abbreviazione.   
-Art. 99. - Il numero degli iscritti e' di otto per anno per un totale di quaranta per l'intero corso.   
-Art. 100. - Alla scuola sono ammessi solo i laureati in medicina e chirurgia (salvo diverso indirizzo). E' richiesto il possesso del diploma di abilitazione allo esercizio professionale rilasciato dall'autorita' competente che rappresenta titolo comunque indispensabile per essere ammessi all'esame di ammissione.   
-Art. 101. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:   
-a) la tesi nella disciplina attinente alla specializzazione;   
-b) il voto di laurea;   
-c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;   
-d) le pubblicazioni nelle predette materie.   
-Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale 16 settembre 1982.   
-Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo.   
-Art. 102. - Le materie di insegnamento tutte afferenti alla facolta' di medicina e chirurgia sono le seguenti:   
-  
-1° Anno:   
-1) embriologia e genetica delle malformazioni congenite;   
-2) anatomia patologica generale I (biennale);   
-3) diagnostica radiologica e nucleare generale;   
-4) anestesiologia;   
-5) clinica pediatrica I (biennale);   
-6) patologia e clinica chirurgica generale I (biennale).   
-  
-2° Anno:   
-1) patologia e clinica chirurgica generale II (biennale);   
-2) rianimazione e terapia intensiva I (biennale);   
-3) anatomia patologica generale II (biennale);   
-4) diagnostica radiologia e nucleare delle malattie infantili;   
-5) clinica pediatrica II (biennale).   
-  
-3° Anno:   
-1) patologia e clinica chirurgica pediatrica I (triennale);   
-2) endocrinologia pediatrica;   
-\*3) semeiotica e diagnostica strumentale pediatrica;   
-4) rianimazione e terapia intensiva II (biennale);   
-5) chirurgia neonatale;   
-\*6) oncologia pediatrica;   
-7) tecnica chirurgica generale.   
-  
-4° Anno:   
-1) patologia e clinica chirurgica pediatrica II (triennale);   
-2) neurochirurgia pediatrica;   
-3) tecnica chirurgica pediatrica;   
-4) ortopedia pediatrica;   
-5) chirurgia plastica o ricostruttiva pediatrica.   
-  
-5° Anno:   
-1) patologia e clinica chirurgica pediatrica III (triennale);   
-2) otorinolaringoiatria pediatrica;   
-3) cardiochirurgia pediatrica;   
-4) urologia pediatrica;   
-\*5) chirurgia gastroenterologica pediatrica.   
-  
-Le materie contrassegnate con asterisco sono opzionali.   
-  
-Art. 103. - La frequenza ai corsi e' obbligatoria. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.   
-Art. 104. - L'attivita' pratica consistera' in una frequenza obbligatoria ai fini dell'apprendimento durante tutti i cinque anni che si svolgera' sotto forma di permanenza costante durante le ore stabilite presso il reparto di chirurgia pediatrica. La frequenza necessaria per essere ammessi a sostenere gli esami dovra' essere al minimo del 70% dei singoli insegnamenti, e per quanto riguarda l'attivita' pratica lo specializzando dovra' frequentare per cinque giorni la settimana per 26 settimane.   
-Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.   
-Art. 105. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso. A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.   
-Art. 106. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.   
-Art. 107. - E' costituito un consiglio presieduto da un direttore.  
-Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).   
-Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.   
-La direzione della scuola e' affidata a professore ordinario o straordinario che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.   
+Lo statuto della seconda Universita' di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso.  
+Il punto 1) dell'art. 11 - facolta' e corsi di laurea - e' soppresso e cosi' sostituito:  
+1) facolta' di giurisprudenza, con i corsi di laurea in giurisprudenza ed economia e commercio.  
+L'art. 30 - corsi di laurea - e' soppresso e cosi' sostituito:  
+Art. 30 - Corsi di laurea. - La facolta' di giurisprudenza conferisce la laurea in giurisprudenza ed in economia e commercio.  
+Dopo l'art. 34 e' inserito, con il conseguente scorrimento della numerazione degli articoli successivi, il seguente nuovo art. 35, relativo al corso di laurea in economia e commercio.  
+Art. 35 - Corso di laurea in economia e commercio. - A) La durata del corso per la laurea in economia e commercio e' di quattro anni.  
+B) Possono chiedere l'iscrizione al corso di laurea in economia e commercio coloro che siano in possesso di titolo di studio idoneo per legge.  
+C) Sono insegnamenti fondamentali del corso di studi per la laurea in economia e commercio in conformita' alla tabella VIII dell'ordinamento didattico universitario:  
+1) istituzioni di diritto privato;  
+2) istituzioni di diritto pubblico;  
+3) diritto commerciale (biennale);  
+4) matematica generale;  
+5) matematica finanziaria (biennale);  
+6) statistica (biennale);  
+7) economia politica (biennale);  
+8) diritto del lavoro;  
+9) scienza delle finanze e diritto finanziario;  
+10) economia e politica agraria;  
+11) politica economica e finanziaria;  
+12) storia economica;  
+13) geografia economica (biennale);  
+14) ragioneria generale ed applicata (biennale);  
+15) tecnica bancaria e professionale;  
+16) tecnica industriale e commerciale;  
+17) merceologia;  
+18) lingua francese o spagnola (triennale);  
+19) lingua inglese o tedesca (triennale).  
+D) Sono insegnamenti complementari del corso di studi per la laurea in economia e commercio i seguenti:  
+1) diritto della navigazione;  
+2) diritto industriale;  
+3) diritto amministrativo;  
+4) diritto processuale civile;  
+5) diritto internazionale;  
+6) demografia;  
+7) economia dei trasporti;  
+8) lingua araba;  
+9) lingua russa;  
+10) tecnica amministrativa delle imprese di pubblici servizi;  
+11) economia e finanza delle assicurazioni;  
+12) diritto civile;  
+13) contabilita' di Stato;  
+14) storia e critica delle dottrine economiche;  
+15) tecnica delle ricerche di mercato;  
+16) diritto fallimentare;  
+17) diritto tributario;  
+18) tecnica dei crediti speciali;  
+19) matematica e tecnica attuariale delle assicurazioni sociali;  
+20) diritto delle assicurazioni;  
+21) elaboratori elettronici e sistemi meccanografici;  
+22) ragioneria pubblica;  
+23) econometria;  
+24) economia internazionale;  
+25) economia monetaria e creditizia;  
+26) economia del lavoro;  
+27) economia dei Paesi in via di sviluppo;  
+28) istituzioni di diritto e procedura penale;  
+29) diritto della previdenza sociale;  
+30) economia politica (3° e 4° anno);  
+31) statistica (3° anno);  
+32) scienza delle finanze e diritto finanziario (2° anno);  
+33) politica economica e finanziaria (2° anno);  
+34) diritto pubblico dell'economia;  
+35) economia matematica;  
+36) diritto regionale;  
+37) tecnica del mercato mobiliare;  
+38) diritto bancario;  
+39) organizzazione aziendale;  
+40) tecniche e politiche di vendita;  
+41) finanza aziendale;  
+42) diritto commerciale europeo;  
+43) politica economica regionale;  
+44) economia sanitaria;  
+45) teoria della traslazione dei tributi;  
+46) economia di mercato dei prodotti agricoli;  
+47) politica agraria della CEE;  
+48) agricoltura e sviluppo economico;  
+49) lingua, cultura e istituzioni dei Paesi di lingua inglese;  
+50) tecnologia dei cicli produttivi;  
+51) tecnica del commercio internazionale;  
+52) diritto privato comparato;  
+53) diritto agrario;  
+54) diritto e legislazione bancaria;  
+55) diritto commerciale, internazionale e comunitario;  
+56) diritto delle Comunita' europee;  
+57) diritto penale commerciale;  
+58) economia aziendale;  
+59) diritto delle imprese;  
+60) diritto valutario;  
+61) scienza dell'amministrazione;  
+62) economia politica industriale;  
+63) diritto dell'arbitrato interno e internazionale;  
+64) economia delle scelte pubbliche;  
+65) economia delle fonti di energia;  
+66) economia regionale;  
+67) economia delle aziende industriali;  
+68) economia delle aziende commerciali;  
+69) economia delle aziende di credito;  
+70) teoria e politica dello sviluppo economico;  
+71) storia e politica monetaria;  
+72) analisi economica;  
+73) economica delle popolazioni;  
+74) economia dell'istruzione;  
+75) economia dello spazio e assetto del territorio;  
+76) informatica;  
+77) organizzazione economica internazionale;  
+78) economia della Comunita' europea;  
+79) sistemi economici comparati;  
+80) economia degli impianti industriali;  
+81) istituzioni di diritto commerciale.  
+Gli insegnamenti di "diritto commerciale" e di "geografia economica" comportano un unico esame alla fine del corso biennale; per gli altri insegnamenti biennali e' prescritto l'esame alla fine di ciascun corso annuale, dovendosi il primo corso considerare come propedeutico al secondo.  
+L'insegnamento triennale delle lingue estere comporta per ciascuna una prova scritta ed una orale alla fine del triennio.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in due da lui scelti tra i complementari.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1983
+### Dato a Roma, addi' 17 luglio 1986
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 21 dicembre 1983
+Registrato alla Corte dei conti, addi' 22 agosto 1986
 
-Registro n. 78 Istruzione, foglio n. 80
+Registro n. 65 Istruzione, foglio n. 327

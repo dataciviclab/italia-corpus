@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1986 n. 1044
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1977 n. 310
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1986 n. 1044
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1977 n. 310
+=============================================================
 
 Autorizzazione alla fondazione "Gioventu' Nova", in Varese, ad accettare una donazione.
 ---------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione alla fondazione "Gioventu' Nova", in Varese, ad accettare una don
 Art. 1
 ------
 
-n.
+N.
 
-1044. Decreto del Presidente della Repubblica 27 dicembre 1986, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, la fondazione "Gioventu' Nova", in Varese, viene autorizzata ad accettare la donazione, consistente in 19.960 quote della "Rinascita montana S.r.l.", in Varese, riguardanti terreni e fabbricati, per la massima parte rurali, siti sulle pendici del Monte Lema in Varese, del valore contabile di L. 17.911.418 e attuale stimato in L. 100.000.000, disposta dall'"Associazione Soliditas varesina", in Varese.  
+310. Decreto del Presidente della Repubblica 26 aprile 1977, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, la fondazione "Gioventu' Nova", in Varese, viene autorizzata ad accettare la donazione di un complesso immobiliare in comune di Dumenza (Varese), disposta dalla casa di Maria Ausiliatrice delle salesiane di don Bosco, in Bosto di Varese, come da rogito per notaio Luigi Giani in data 22 dicembre 1972, n. 58875 di repertorio, comprendente tre fabbricati urbani con annessi cortili, un fabbricato rustico e sette piccoli appezzamenti di terreno coltivati a giardino, distinti nel catasto terreni alla partita 1872, mappali 187, 193, 190, 191, 183, 192, 172, 174, 265 e nel nuovo catasto edilizio urbano alla partita 70, foglio 11, mappali 184, 188, 3609, il tutto per un valore di L. 79.250.000.  
   
-Visto, il Guardasigilli: ROGNONI  
-Registrato alla Corte dei conti, addi' 23 marzo 1987  
-Registro n. 1 Lavoro, foglio n. 253
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 9 giugno 1977  
+Registro n. 1 Lavoro, foglio n. 21

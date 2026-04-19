@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 maggio 1977 n. 398
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 1038
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 maggio 1977 n. 398
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 1038
+===============================================================
 
 Autorizzazione alla camera di commercio, industria, artigianato ed agricoltura di Reggio Emilia ad acquistare un immobile.
 --------------------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,14 @@ Art. 1
 
 N.
 
-398. Decreto del Presidente della Repubblica 23 maggio 1977, col quale, sulla proposta del Ministro per l'industria, il commercio e l'artigianato, la camera di commercio, industria, artigianato e agricoltura di Reggio Emilia viene autorizzata ad acquistare dal Pio istituto Artigianelli, al prezzo di L. 145.000.000, un immobile costituito da un appezzamento di terreno con sovrastante fabbricato civile per una superficie complessiva di ha 5.03.68, sito in Roncolo di Quattro Castella (Reggio Emilia), e distinto al catasto edilizio urbano alla partita 309, foglio 29 localita' Ghetto di Roncolo, mappali 2162 sub 1 e 2 e mappale 5967 ed al catasto terreni ai fogli 29 e 30, partite 962/4754 e 1014/964, mappali 2166, 2164, 4415, 2163, 2791, 9385, 9386, 9383, 9382, 9380, 9381, e di destinarlo a sede della istituenda scuola per il commercio estero nonche' alla costruzione della sede definitiva del centro di perfezionamento della distribuzione e di un centro congressi.  
+1038. Decreto del Presidente della Repubblica 11 ottobre 1984, col quale, sulla proposta del Ministro dell'industria, del commercio e dell'artigianato, la camera di commercio, industria, artigianato ed   
+agricoltura di Reggio Emilia viene autorizzata ad acquistare, al   
+prezzo di L. 384.000.000, un immobile di cinque vani ad uso ufficio   
+con accessori sito in Reggio Emilia, al secondo piano del palazzo degli affari, adiacente agli uffici camerali, nonche' un locale ad uso cantina al piano sotterraneo, il tutto con una estensione di mq   
+160, censito al nuovo catasto edilizio urbano al foglio 125 A/10   
+IV, mappale 132/12 e parte del mappale 132/20, di proprieta' del   
+Consorzio del formaggio parmigiano reggiano.   
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 30 giugno 1977  
-Registro n. 7 Industria, foglio n. 357
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 15 gennaio 1985   
+Registro n. 1 Industria, foglio n. 46

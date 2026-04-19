@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 luglio 1974 n. 518
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 luglio 1974 n. 519
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 luglio 1974 n. 518
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 luglio 1974 n. 519
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ancona.

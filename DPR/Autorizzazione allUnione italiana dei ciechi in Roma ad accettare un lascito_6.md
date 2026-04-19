@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 509
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 novembre 1981 n. 827
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 509
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 novembre 1981 n. 827
+===============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un lascito.
 --------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-509. Decreto del Presidente della Repubblica 15 luglio 1983, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il lascito, consistente nella quota di un mezzo gravato di usufrutto di un immobile sito in Imperia, via Pirinoli, 4, distinto nel nuovo catasto edilizio urbano alla partita 1794, foglio VI, mappale 267 sub 1, del valore attribuito dall'ufficio tecnico erariale di Imperia alla data del 14 dicembre 1979 per la nuda proprieta' di L. 8.500.000, per la quota di usufrutto di L. 1.500.000, disposto dalla sig.ra Bottero Luigia detta Luisa a favore dell'Istituto dei poveri ciechi della provincia di Imperia, che si identifica con l'Unione italiana dei ciechi, come si evince dalla delibera in data 18 settembre 1973 del presidente dell'U.I.C., con testamento olografo 18 novembre 1968, pubblicato il 28 febbraio 1973, n. 28484 di repertorio e n. 5800 di raccolta, a rogito dott. Federico Bottino, notaio in Torino, registrato a Torino il 13 marzo 1973 al n. 10571.  
+827. Decreto del Presidente della Repubblica 16 novembre 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare, col beneficio d'inventario, il lascito, consistente in 386 azioni Fondiaria vita per un valore di L. 10.422.000 alla data del 16 dicembre 1975, disposto dalla sig.na Rachele Ines Alessio Gilodi con testamento olografo 18 ottobre 1975, pubblicato in data 22 dicembre 1975, n. 49749 di repertorio e n. 8367 di raccolta, a rogito dott. Giuseppe Gunnella, notaio in Firenze, registrato a Firenze il 24 dicembre 1975 al n. 8160.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 19 settembre 1983  
-Registro n. 7 Presidenza, foglio n. 333
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 6 gennaio 1982  
+Registro n. 1 Presidenza, foglio n. 1

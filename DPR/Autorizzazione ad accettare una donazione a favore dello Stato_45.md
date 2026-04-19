@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1981 n. 588
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1980 n. 1162
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1981 n. 588
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1980 n. 1162
+================================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-588. Decreto del Presidente della Repubblica 2 maggio 1981, col quale, sulla proposta del Ministro per i beni culturali ed ambientali, viene autorizzata l'accettazione a favore dello Stato e, per esso, del Ministero per i beni culturali ed ambientali - Ufficio centrale per i beni librari e gli istituti culturali, della donazione, consistente nella biblioteca dell'avv. Filippo Perrone, costituita da 3438 volumi, disposta dai signori Chiurazzi Maria Carmela e Chiurazzi Elio con atto pubblico 13 giugno 1979, n. 322138/1519 di repertorio, a rogito dott. Roberto Sanseverino, notaio in Napoli e registrato a Napoli in data 29 giugno 1979, n. 4363-C.  
+1162. Decreto del Presidente della Repubblica 3 dicembre 1980, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Ronago (Como) con atto 24 settembre 1976, n. 42777/15090 di repertorio, a rogito dott. Achille Pedraglio, notaio in Como, consistente in un terreno della superficie di mq 3850, per il nuovo valico di frontiera italo-svizzero, denominato "Crociale dei Mulini".  
   
 Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 7 ottobre 1981  
-Registro n. 17 Beni culturali, foglio n. 346
+Registrato alla Corte dei conti, addi' 6 agosto 1981  
+Registro n. 25 Finanze, foglio n. 64

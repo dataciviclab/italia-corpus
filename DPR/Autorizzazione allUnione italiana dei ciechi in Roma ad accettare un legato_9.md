@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 155
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 novembre 1980 n. 978
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 155
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 novembre 1980 n. 978
 ===============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un legato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-155. Decreto del Presidente della Repubblica 26 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato di L. 2.000.000 disposto dalla sig.na Borsetti Clelia con testamento olografo 30 luglio 1977, pubblicato a rogito dott. Afferni Angelo, notaio in Biella (Vercelli), il 28 settembre 1978, n. 1651 di repertorio e n. 110 di fascicolo, registrato a Biella il 16 ottobre 1978 al n. 5865, vol. 149.  
+978. Decreto del Presidente della Repubblica 17 novembre 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Russel Edhit L. con testamento 13 ottobre 1972, pagina 8, clausola n. 41 del V paragrafo, e pagina 10 stesso paragrafo V, consistente nella somma di dollari USA 7.269,75.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 31 marzo 1982  
-Registro n. 3 Presidenza, foglio n. 115
+Visto, il Guardasigilli: SARTI  
+Registrato alla Corte dei conti, addi' 14 gennaio 1981  
+Registro n. 1 Presidenza, foglio n. 38

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 944
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 719
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 944
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 719
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -39,25 +39,21 @@ Articolo unico
 --------------
 
   
-Art. 47 - nell'elenco degli Insegnamenti complementari del corso di laurea in scienze biologiche sono inseriti i seguenti nuovi insegnamenti:  
-genetica umana;  
-laboratorio sperimentale di chimica generale per biologia;  
-laboratorio sperimentale di chimica organica generale per biologia;  
-laboratorio di metodologie fisiologiche;  
-laboratorio di metodologie biochimiche;  
-genetica vegetale;  
-anatomia vegetale.  
+Art. 16 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze politiche sono inseriti i seguenti insegnamenti:  
+storia e istituzioni della Lombardia;  
+diritto delle assicurazioni;  
+diritto penale commerciale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 ottobre 1981
+### Dato a Selva di Val Gardena, addi' 2 settembre 1983
 
-PERTINI BODRATO
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 9 febbraio 1982
+Registrato alla Corte dei conti, addi' 14 dicembre 1983
 
-Registro n. 20 Istruzione, foglio n. 184
+Registro n. 76 Istruzione, foglio n. 304

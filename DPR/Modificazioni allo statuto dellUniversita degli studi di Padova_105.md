@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1246
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 luglio 1974 n. 517
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1246
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 luglio 1974 n. 517
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -10,94 +10,36 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939 n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 2 agosto 1939, n. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-08-02;179), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Art. 96 - all'elenco degli insegnamenti complementari del corso di laurea in chimica industriale sono aggiunti i seguenti:  
-chimica e tecnologia delle macromolecole;  
-sintesi elettrochimiche;  
-termodinamica dei processi irreversibili;  
-scienza dei materiali;  
-chimica e tecnologia degli elettroditi fusi;  
-chimica e tecnologia dei metalli di transizione.  
-Lo stesso elenco e' modificato nel senso che gli insegnamenti di chimica dei combustibili e propellenti e di chimica applicata ai materiali mutano rispettivamente la denominazione in quella di chimica dei combustibili e di chimica applicata.  
-Nello stesso articolo l'ultimo comma e' modificato nel senso che al n. 5) indirizzo petrolchimico deve leggersi:  
-5) indirizzo petrolchimico.  
-L'art. 101, relativo all'ordinamento degli studi per il conseguimento della laurea in matematica, e' modificato nel senso che i paragrafi che vanno dalla riga "indirizzo didattico" inclusa alla riga "indirizzo applicativo" esclusa sono abrogati e sostituiti dai seguenti:  
-Indirizzo didattico:  
-a) didattico;  
-b) didattico logico.  
-Nell'orientamento A) i corsi fondamentali obbligatori sono:  
-3° Anno:  
-matematiche elementari da un punto di vista superiore.  
-4° Anno:  
-matematiche complementari.  
-Al quarto anno sono inoltre prescritti due insegnamenti complementari da scegliersi nel seguente elenco:  
-1) astronomia;  
-2) chimica generale (annuale);  
-3) complementi di fisica generale (annuale);  
-4) istituzioni di algebra superiore;  
-5) istituzioni di fisica nucleare;  
-6) logica matematica;  
-7) pedagogia matematica;  
-8) storia delle matematiche;  
-9) struttura della materia.  
-Uno degli insegnamenti complementari dovra' essere ad indirizzo fisico.  
-Nell'orientamento B) i corsi fondamentali obbligatori sono:  
-3° Anno:  
-istituzioni di logica matematica.  
-4° Anno:  
-matematiche complementari.  
-Al quarto anno sono inoltre prescritti due insegna menti complementari da scegliersi nel seguente elenco:  
-1) algebra di Boole;  
-2) algebra universale;  
-3) chimica generale (annuale);  
-4) filosofia della matematica;  
-5) istituzioni di algebra superiore;  
-6) logica matematica;  
-7) logica modale;  
-8) logiche non classiche;  
-9) matematiche elementari da un punto di vista superiore;  
-10) storia delle matematiche;  
-11) struttura della materia;  
-12) teoria degli insiemi;  
-13) teoria dei modelli;  
-14) teoria della ricorsivita';  
-15) teoria delle categorie.  
-Uno degli insegnamenti complementari dovra' essere ad indirizzo fisico.  
-L'art. 298, relativo ai corsi della scuola di specializzazione in chimica analitica, e' modificato nel senso che sono aggiunti i seguenti corsi semestrali:  
-principi di strumentazione analitica;  
-tecniche termometriche;  
-chimica analitica clinica;  
-chimica analitica dell'inquinamento ambientale;  
-tecniche spettroscopiche.  
-Dallo stesso elenco sono soppressi i seguenti corsi:  
-tecniche ottiche;  
-tecniche spettrofotometriche.  
+Art. 86 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto il seguente:   
+Virologia applicata all'epidemiologia;   
+Igiene mentale e psichiatria sociale.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1977
+### Dato a Roma, addi' 1 luglio 1974
 
 LEONE MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 18 luglio 1978
+Registrato alla Corte dei conti, addi' 28 ottobre 1974
 
-Registro n. 77 Istruzione, foglio n. 335
+Atti di Governo, registro n. 6, foglio n. 69. - SCIARRETTA

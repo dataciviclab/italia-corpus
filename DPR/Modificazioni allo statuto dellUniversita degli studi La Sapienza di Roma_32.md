@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 401
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1986 n. 297
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 401
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1986 n. 297
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 ------------------------------------------------------------------------------
@@ -35,27 +35,46 @@ Decreta:
 
 Lo statuto dell'Universita' "La Sapienza" di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 1
+------
 
   
-Art. 104 e art. 105 - nell'elenco degli insegnamenti complementari del corso di laurea in chimica ed in chimica industriale e' inserito il seguente insegnamento:  
-teoria degli elettroliti.  
-Art. 108 - nell'elenco degli insegnamenti complementari del corso di laurea in fisica sono inseriti i seguenti insegnamenti:  
-fisica dei metalli;  
-teoria dei campi.  
-Art. 119 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche e' inserito il seguente insegnamento: paleontologia stratigrafica.  
+  
+Nell'art. 46, relativo al corso di laurea in economia e commercio, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:   
+diritto costituzionale;   
+diritto agrario;   
+costi e ricavi bancari.   
+
+Art. 2
+------
+
+  
+Nell'art. 92, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+chirurgia plastica ricostruttiva;  
+psicologia clinica.  
+
+Art. 3
+------
+
+  
+Nell'art. 104, relativo al corso di laurea in chimica, all'elenco degli insegnamenti complementari e' aggiunto l'insegnamento di "cinetica chimica".  
+Nell'art. 105, relativo al corso di laurea in chimica industriale, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+cinetica chimica;  
+esercitazioni di chimica organica e analisi organica.  
+Nell'art. 115, relativo al corso di laurea in scienze naturali, all'elenco degli insegnamenti complementari e' aggiunto l'insegnamento di "complementi di mineralogia e petrografia".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 maggio 1983
+### Dato a Roma, addi' 25 febbraio 1986
 
-PERTINI FALCUCCI
+COSSIGA
 
-Visto, il Guardasigilli: DARIDA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 11 agosto 1983
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registro n. 58 Istruzione, foglio n. 142
+Registrato alla Corte dei conti, addi' 10 giugno 1986
+
+Registro n. 45 Istruzione, foglio n. 365

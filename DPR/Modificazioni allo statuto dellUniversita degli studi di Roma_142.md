@@ -1,99 +1,67 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1979 n. 975
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1971 n. 1325
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1979 n. 975
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1971 n. 1325
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Dopo l'art. 243, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in politica ed economia dei trasporti, annessa alla facolta' di scienze politiche.  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-FACOLTA' DI SCIENZE POLITICHE  
+Decreta:  
   
-Scuola di specializzazione in politica ed economia dei trasporti  
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 244. - Presso la facolta' di scienze politiche e' istituita la scuola di specializzazione in economia e politica dei trasporti. Essa ha lo scopo di promuovere la conoscenza approfondita, anche sotto l'aspetto tecnico e pratico, delle discipline economiche, giuridiche, operative e sociali riguardanti le varie attinenze del fenomeno del trasporto e, particolarmente, di avviare gli iscritti alla conoscenza analitica delle organizzazioni strutturali e delle attivita' operative concernenti il trasporto sia sul piano internazionale generale, sia su quello europeo e su quello interno.  
-Art. 245. - Alla scuola possono iscriversi i laureati in giurisprudenza, in scienze politiche, in economia e commercio, in ingegneria civile, in scienze statistiche ed economiche, in scienze statistiche e demografiche, in scienze statistiche ed attuariali in qualsiasi Universita' italiana o Istituto universitario equiparato.  
-I laureati presso Universita' estere sono ammessi alla scuola alla condizione che il titolo sia riconosciuto equipollente dalle autorita' accademiche ai soli fini della ammissione alla scuola.  
-Art. 246. - I corsi della scuola hanno durata di due anni.  
-L'insegnamento e' impartito, oltre che con lezioni cattedratiche, anche mediante seminari, ricerche, visite ad impianti ed istituti specializzati, conferenze di esperti italiani e stranieri.  
-Art. 247. - Le materie fondamentali del piano di studi sono cosi' ripartite:  
-1° Anno:  
-1) questioni di diritto dei trasporti;  
-2) economia dei trasporti;  
-3) elementi di statistica applicata ai trasporti;  
-4) economia delle imprese private di trasporto;  
-5) economia delle aziende pubbliche di trasporto;  
-6) organizzazione internazionale dei trasporti.  
-2° Anno:  
-7) politica economica e politica dei trasporti;  
-8) tecniche di programmazione dei trasporti;  
-9) organizzazione e gestione dei trasporti in superficie;  
-10) elementi di diritto delle assicurazioni dei trasporti;  
-11) organizzazione e gestione dei trasporti marittimi ed aerei.  
-Ai predetti insegnamenti fondamentali possono essere aggiunte, a seconda delle esigenze della scuola, e con eventuale rotazione annuale, le seguenti ulteriori materie opzionali:  
-1) legislazione regionale comparata;  
-2) stato giuridico del personale del trasporto;  
-3) beni destinati al trasporto;  
-4) trasporti, infrastrutture, gestione del territorio;  
-5) trasporti multimodali;  
-6) trasporti privati (regime giuridico della circolazione);  
-7) diritto e tecniche doganali;  
-8) tutela dell'ambiente;  
-9) formazione dei bilanci delle aziende pubbliche di trasporto;  
-10) fondamenti di logica ed uso dei calcolatori;  
-11) ricerca operativa applicata ai trasporti.  
-Art. 248. - La scuola rilascia un diploma di specializzazione in politica ed economia dei trasporti. L'esame di diploma consiste nella presentazione e discussione di una dissertazione scritta innanzi ad una commissione composta da non meno di sette membri.  
-Per essere ammesso all'esame di diploma, si richiede che il candidato, iscritto alla scuola, abbia superato le prove di esame per tutti gli insegnamenti fondamentali, nonche' almeno tre delle materie opzionali, scelte tra quelle attivate dalla direzione della scuola.  
-Art. 249. - La scuola e' retta da un consiglio di professori del quale fanno parte, con voto deliberativo, i docenti titolari degli insegnamenti della scuola e, con voto consultivo, tutti gli altri docenti.  
-Il direttore, il quale sara' coadiuvato, nella gestione della scuola, da altri due docenti universitari, e' nominato dal consiglio di facolta' di scienze politiche dell'Universita' di Roma.  
-I docenti della scuola sono nominati dal rettore su proposta del direttore della scuola, approvata dal consiglio di facolta'.  
-Art. 250. - I proventi della scuola sono costituiti dalle tasse scolastiche, dagli eventuali contributi dello Stato, dell'Universita', di enti pubblici, di societa' a capitale pubblico o privato, di privati.  
-Tali proventi sono destinati a coprire: la spesa per gli stipendi ed assegni al personale insegnante, assistente e di segreteria della scuola; le altre spese competenti direttamente alla scuola (biblioteca, emeroteca, pubblicazioni scientifiche, ricerche, ecc.) la eventuale concessione di borse di studio a discenti, iscritti alla scuola, che siano meritevoli e di condizioni economiche non agiate.  
-Art. 251. - Gli iscritti alla scuola sono tenuti al pagamento della tassa di immatricolazione, delle tasse annuali di iscrizione, della tassa di diploma e di ogni altra soprattassa o contributo, nella misura e con le modalita' prescritte per gli studenti iscritti al corso di laurea in scienze politiche.  
-Art. 252. - L'attivita' didattica e scientifica della scuola viene svolta utilizzando i locali e le attrezzature dell'istituto di studi economici, finanziari e statistici della facolta' di scienze politiche dell'Universita' di Roma.  
-Art. 253. - Il direttore della scuola compila ogni anno il relativo manifesto-programma che, previa approvazione del consiglio dei professori, sara' reso di pubblica ragione.  
-Nel manifesto annuale puo' essere stabilito un numero minimo ed, eventualmente, un numero massimo di iscrizioni. Qualora non sia raggiunto il numero minimo fissato per gli iscritti, il consiglio dei professori puo' decidere che non vengano tenuti gli insegnamenti del 1° anno. Tuttavia, se taluno dei corsi venga comunque iniziato, dovra' essere proseguito, qualunque sia il numero degli iscritti, per la durata dell'intero corso.  
+Art. 81. - All'elenco degli istituti annessi alla facolta' di medicina e chirurgia e' aggiunto il seguente:  
+Istituto di chimica.  
+Dopo l'art. 711, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi all'istituzione della seconda scuola di specializzazione in malattie dell'apparato digerente.  
+  
+Scuola di specializzazione in malattie dell'apparato digerente  
+  
+Art. 712. - La scuola svolge un corso di specializzazione in malattie dell'apparato digerente.  
+Art. 713. - Alla scuola sono ammessi i laureati in medicina e chirurgia in numero massimo di sei per ogni anno di corso.  
+L'ammissione avviene in base ad un esame preliminare.  
+Art. 714. - Il corso ha la durata di tre anni ed un quarto anno deve essere dedicato al tirocinio pratico gastroenterologico. Il corso ha luogo nell'istituto di clinica medica generale e terapia medica II dell'universita'.  
+Art. 715. - Gli iscritti debbono:  
+a) seguire per i primi tre anni gli insegnamenti della scuola;  
+b) prestare servizio continuativo nelle corsie e nei laboratori della clinica durante questo triennio;  
+c) svolgere l'anno di tirocinio pratico gastroenterologico in una clinica medica o in reparti ospedalieri.  
+Alla fine del corso gli iscritti che abbiano superato tutti gli esami devono sostenere la discussione su una tesi scritta per conseguire il diploma di specializzazione.  
+Art. 716. - Il corso comprende i seguenti insegnamenti, con esami da sostenere alla fine di ciascuno di essi:  
+Anatomia normale e patologica;  
+Fisiologia normale e patologica;  
+Chimica clinica;  
+Semeiotica fisica e strumentale (biennale);  
+Semeiotica radiologica;  
+Malattie del tubo digerente;  
+Malattie del fegato e del pancreas;  
+Clinica medica (triennale).  
+Insegnamenti complementari con corsi semestrali saranno aggiunti, in numero non superiore a sei per la totalita' del corso.  
+Art. 717. - L'ordine degli studi (distribuzione degli insegnamenti negli anni di corso), l'ordine e le modalita' degli esami sono stabiliti nel manifesto annuale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1979
+### Dato a Roma, addi' 30 ottobre 1971
 
-PERTINI VALITUTTI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 18 settembre 1980
+Registrato alla Corte dei conti, addi' 17 febbraio 1972
 
-Registro n. 87 Istruzione, foglio n. 40
+Atti del Governo, registro n. 247, foglio n. 17. - VALENTINI

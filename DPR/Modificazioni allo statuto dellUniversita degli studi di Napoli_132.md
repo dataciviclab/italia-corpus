@@ -1,80 +1,226 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1980 n. 809
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1976 n. 869
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1980 n. 809
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1976 n. 869
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Dopo l'art. 768 sono aggiunti i seguenti nuovi articoli concernenti l'istituzione della scuola di specializzazione in tecnologia avicola e patologia aviare.  
-Scuola di specializzazione in tecnologia avicola e patologia aviare Art. 769. - E' istituita presso la facolta' di medicina veterinaria di Napoli la scuola di specializzazione in tecnologia avicola e patologia aviare, la quale ha lo scopo di approfondire ed aggiornare la preparazione dei laureati in medicina veterinaria, creando tecnici in grado di assolvere le complesse funzioni zootecniche-sanitarie negli allevamenti avicoli e di conferire il diploma di specialista a norma dell'[art. 178 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art178).  
-Art. 770. - La scuola di specializzazione in tecnologia avicola e patologia aviare ha la durata di due anni e puo' essere frequentata solo da laureati in medicina veterinaria. Ad essi si chiede la frequenza obbligatoria a tutti gli insegnamenti teorici ed ai turni di esercitazioni pratiche.  
-Art. 771. - Il numero massimo degli iscritti per anno di corso e' stabilito in cinquanta.  
-Art. 772. - Le materie di insegnamento vengono cosi' ripartite:  
-1° Anno:  
-1) tecnologia avicola (biennale) prima parte;  
-2) anatomia, istologia ed embriologia dei volatili;  
-3) biochimica e fisiologia;  
-4) alimentazione e scienze degli alimenti dei volatili;  
-5) patologia generale applicata alla patologia aviare;  
-6) parassitologia e malattie parassitarie dei volatili;  
-7) patologia aviare (biennale) prima parte (malattie da batteri e miceti - patologia da carenze e squilibri alimentari, da alimenti tossici e medicati - profilassi e polizia veterinaria).  
-2° Anno:  
-1) tecnologia avicola (biennale) seconda parte (approvvigionamenti dei prodotti avicoli);  
-2) allevamento e riproduzione dei volatili;  
-3) organizzazione e conduzione degli allevamenti avicoli;  
-4) anatomia patologica e ispezione dei prodotti avicoli;  
-5) microbiologia, immunologia e diagnostica di laboratorio applicata alla patologia aviare;  
-6) patologia aviare (biennale) seconda parte (malattie da virus - profilassi e polizia veterinaria).  
-Art. 773. - Gli insegnamenti avranno indirizzo teorico-pratico; essi saranno pertanto integrati da dimostrazioni pratiche, sia presso la facolta' che presso il centro sperimentale di avicoltura in localita' Varcaturo (Napoli) che l'istituto di patologia aviare ha creato mediante apposita convenzione con l'amministrazione provinciale di Napoli (atto di convenzione n. 68781 del 22 settembre 1978, registrato all'ufficio del registro di Napoli - Ufficio atti privati, al n. 15092/ A il 26 settembre 1978). In parallelo agli insegnamenti della scuola, durante i corsi saranno inoltre svolte delle conferenze su argomenti particolari da parte di specialisti della materia.  
-Art. 774. - Gli insegnanti della scuola sono proposti dal direttore ed approvati dal consiglio di facolta'. Possono essere chiamati a far parte di essi, oltre che docenti universitari, anche cultori di particolare competenza nelle singole discipline della specialita'.  
-Art. 775. - Il consiglio della scuola e' composto dai docenti chiamati a svolgere gli insegnamenti prescritti ed e' presieduto dal direttore.  
-Art. 776. - Il direttore della scuola di specializzazione in tecnologia avicola e patologia aviare e' il professore di ruolo dell'insegnamento di patologia aviare dell'Universita' di Napoli; in mancanza di questi il consiglio di facolta' lo designera' tra i professori di ruolo di materia affine. Egli stabilisce l'indirizzo generale della scuola e dei singoli insegnamenti.  
-Art. 777. - Per essere ammessi agli esami di diploma bisogna aver superato tutti gli esami del primo e secondo anno. Gli esami di patologia aviare devono essere preceduti da un colloquio pratico. Le commissioni degli esami di profitto sono costituite da tre insegnanti della scuola e ciascuna presieduta dal professore della materia.  
-Art. 778. - L'esame di diploma, da sostenersi innanzi ad una commissione costituita da almeno sette insegnanti della scuola, consistera' nella dissertazione scritta su argomento scelto fra le materie del biennio.  
-Art. 779. - Gli iscritti alla scuola di specializzazione sono tenuti al pagamento della tassa di iscrizione; le tasse e le soprattasse di esame, la tassa di diploma, nonche' i contributi vari, secondo quanto stabilito per gli studenti della facolta' di medicina veterinaria; inoltre, essi dovranno versare un contributo speciale di laboratorio previsto dall'[art. 11 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art11).  
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' degli studi di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
+  
+Decreta:   
+  
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+  
+Dopo l'art. 588, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione presso la prima facolta' di medicina e chirurgia delle scuole di specializzazione in chirurgia d'urgenza e pronto soccorso e in neuropsichiatria infantile.   
+  
+Scuola di specializzazione in chirurgia d'urgenza e pronto soccorso Art. 589. - Alla scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso, che ha la durata di quattro anni, vengono ammessi i laureati in medicina e chirurgia in numero non superiore a sei per ciascun anno di corso.   
+Qualora il numero delle domande di iscrizione sia superiore a sei la scelta degli iscritti sara' fatta in seguito a concorso interno per titoli e per esami.   
+Gli aspiranti debbono accertarsi presso la segreteria della scuola, presso la cattedra di chirurgia d'urgenza della prima facolta' di medicina, policlinico piazza Miraglia, dell'eventuale data di concorso.   
+Sono obbligatori per tutti gli iscritti: la frequenza alle lezioni ed alle esercitazioni e periodi di internato nell'istituto durante tutti i quattro anni del corso con presenza giornaliera nei vari reparti.   
+Dall'obbligo di tele internato saranno esentati quegli allievi che, in qualita' di assistente di ruolo o di aiuto, prestino servizio effettivo presso reparti di chirurgia d'urgenza e di pronto soccorso nelle Universita' o in ospedali regionali e provinciali.   
+La firma di frequenza e' necessaria per l'ammissione agli esami di profitto, che saranno sostenuti alla fine di ogni anno accademico.   
+Art. 590. - Le materie di insegnamento in quattro anni di corso sono le seguenti:   
+chirurgia d'urgenza e pronto soccorso (quadriennale);   
+chirurgia generale (quadriennale);   
+traumatologia dell'apparato locomotore (biennale);   
+anestesiologia;   
+ricerche di laboratorio in chirurgia d'urgenza;   
+semeiotica chirurgica;   
+radiologia;   
+traumatologia maxillo-facciale;   
+chirurgia plastico-riparativa (biennale);   
+anatomia chirurgica;   
+trattamento pre e post-operatorio in chirurgia di urgenza;   
+chirurgia ginecologica d'urgenza;   
+chirurgia urologica d'urgenza;   
+neurotraumatologia (biennale);   
+valutazione medico-legale delle lesioni chirurgiche;   
+chirurgia toracica d'urgenza;   
+chirurgia cardio-vascolare d'urgenza;   
+chirurgia pediatrica d'urgenza;   
+fisiopatologia del politraumatizzato;   
+trattamento del politraumatizzato;   
+rianimazione.   
+Art. 591. - Gli iscritti al primo anno debbono frequentare i seguenti insegnamenti:   
+1) chirurgia d'urgenza e pronto soccorso (quadriennale);   
+2) chirurgia generale (quadriennale);   
+3) traumatologia dell'apparato locomotore (biennale);   
+4) anestesiologia;   
+5) ricerche di laboratorio in chirurgia d'urgenza;   
+6) semeiotica chirurgica;   
+7) radiologia;   
+8) traumatologia maxillo-facciale.   
+Al termine del primo anno di corso gli iscritti dovranno sostenere gli esami di:   
+anestesiologia;   
+ricerche di laboratorio in chirurgia d'urgenza;   
+semeiotica chirurgica;   
+radiologia;   
+traumatologia maxillo-facciale.   
+Gli iscritti al secondo anno debbono frequentare i seguenti insegnamenti:   
+1) chirurgia d'urgenza e di pronto soccorso (quadriennale);   
+2) chirurgia generale (quadriennale);   
+3) traumatologia dell'apparato locomotore (biennale);   
+4) chirurgia plastico-riparativa (biennale);   
+5) anatomia chirurgica;   
+6) trattamento pre e post-operatorio in chirurgia d'urgenza;   
+7) chirurgia ginecologica d'urgenza;   
+8) chirurgia urologica d'urgenza.   
+Al termine del secondo anno di corso gli iscritti dovranno sostenere gli esami di:   
+traumatologia dell'apparato locomotore;   
+anatomia chirurgica;   
+trattamento pre e post-operatorio in chirurgia di urgenza;   
+chirurgia ginecologica d'urgenza;   
+chirurgia urologica d'urgenza.   
+Gli iscritti al terzo anno debbono frequentare i seguenti insegnamenti:   
+1) chirurgia d'urgenza e di pronto soccorso (quadriennale);   
+2) chirurgia generale (quadriennale);   
+3) neurotraumatologia (biennale);   
+4) chirurgia plastico-riparativa (biennale);   
+5) valutazione medico-legale delle lesioni chirurgiche;   
+6) chirurgia toracica d'urgenza;   
+7) chirurgia cardio-vascolare d'urgenza;   
+8) chirurgia pediatrica d'urgenza.   
+Al termine del terzo anno di corso gli iscritti dovranno sostenere gli esami di:   
+chirurgia plastico-riparativa;   
+valutazione medico-legale delle lesioni chirurgiche;   
+chirurgia toracica d'urgenza;   
+chirurgia cardio-vascolare d'urgenza;   
+chirurgia pediatrica d'urgenza.   
+Gli iscritti al quarto anno debbono frequentare i seguenti insegnamenti e sostenere al termine del corso i relativi esami:   
+1) chirurgia d'urgenza e di pronto soccorso (quadriennale);   
+2) chirurgia generale (quadriennale);   
+3) neurotraumatologia (biennale);   
+4) fisiopatologia del politraumatizzato;   
+5) trattamento del politraumatizzato;   
+6) rianimazione.   
+Art. 592. - Per conseguire il diploma di specialista gli iscritti al termine del corso, oltre ad aver superato le prove di esame nelle singole materie dovranno presentare e discutere una dissertazione scritta, elaborata nell'istituto. I candidati non riconosciuti idonei all'esame di diploma potranno ripresentarsi dopo un altro anno di frequenza alla scuola; ma se al secondo esame non sara' loro riconosciuta l'idoneita', saranno esclusi da ulteriori prove.   
+  
+Scuola di specializzazione in neuropsichiatria infantile   
+Art. 593. - La scuola di specializzazione in neuropsichiatria infantile ha la durata di quattro anni.   
+Art. 594. - Ad essa vengono ammessi i laureati in medicina e chirurgia.   
+Art. 595. - Il numero complessivo dei posti e' di dodici.   
+Art. 596. - L'ammissione alla scuola avviene per titoli ed esami.  
+La frequenza alle lezioni e' obbligatoria. E' obbligatorio l'internato di mesi sei in clinica pediatrica per gli studenti del primo anno; di mesi tre in neurologia e di mesi tre in psichiatria per gli studenti del secondo anno; di mesi sei per gli studenti del terzo anno e di mesi sei per gli studenti del quarto anno in neuropsichiatria infantile.   
+Art. 597. - Per ottenere l'iscrizione al secondo, terzo, quarto anno di specializzazione gli iscritti dovranno aver sostenuto gli esami delle materie prescritte per l'anno precedente tranne che per la clinica psichiatrica infantile il cui esame va sostenuto al quarto anno.   
+Per conseguire il diploma di specialista in neuropsichiatria infantile gli iscritti, al termine degli esami, dovranno presentare e discutere una dissertazione scritta su un argomento di neuropsichiatria infantile.   
+Art. 598. - Gli insegnamenti impartiti nella scuola sono i seguenti:   
+1° Anno:   
+1) anatomia ed embriologia del sistema nervoso;   
+2) fisiologia del sistema nervoso con particolare riguardo all'eta' evolutiva;   
+3) genetica;   
+4) endocrinologia dell'eta' evolutiva e auxologia;   
+5) patologia e clinica pediatrica;   
+6) tecniche di laboratorio.   
+2° Anno:   
+7) anatomia patologica del sistema nervoso;   
+8) biochimica patologica del sistema nervoso;   
+9) psicologia dell'eta' evolutiva;   
+10) semeiotica e clinica neurologica;   
+11) semeiotica e clinica psichiatrica.   
+3° Anno:   
+12) psicopatologia dell'eta' evolutiva;   
+13) semeiotica e clinica neurologica infantile;   
+14) psicodiagnostica dell'eta' evolutiva;   
+15) elettrofisiologia;   
+16) neuroradiologia;   
+17) neurochirurgia dell'eta' evolutiva;   
+18) semeiotica e clinica psichiatrica infantile (I).   
+4° Anno:   
+19) clinica psichiatrica infantile (II);   
+20) terapia generale delle malattie mentali infantili;   
+21) psicoterapia dell'eta' evolutiva;   
+22) foniatria;   
+23) psicopedagogia;   
+24) sociologia applicata alla popolazione infantile;   
+25) legislazione.   
+Art. 599. - Gli esami di profitto si sostengono nei seguenti gruppi:   
+1° Anno:   
+embriologia e anatomia del sistema nervoso;   
+fisiologia del sistema nervoso;   
+genetica, endocrinologia e auxologia;   
+patologia e clinica pediatrica.   
+2° Anno:   
+anatomia e biochimica patologica del sistema nervoso;   
+psicologia dell'eta' evolutiva;   
+semeiotica e clinica neurologica;   
+semeiotica e clinica psichiatrica.   
+3° Anno:   
+semeiotica e clinica neurologica infantile;   
+psicopatologia dell'eta' evolutiva;   
+psicodiagnostica dell'eta' evolutiva.   
+4° Anno:   
+semeiotica e clinica psichiatrica infantile;   
+psicopedagogia;   
+legislazione.   
+Dopo l'art. 749, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione, presso la seconda facolta' di medicina e chirurgia, della scuola di specializzazione in medicina interna.   
+  
+Scuola di specializzazione in medicina interna   
+Art. 750. - Alla seconda facolta' di medicina e chirurgia dell'Universita' di Napoli e' annessa la scuola di specializzazione in medicina interna.   
+Art. 751. - La durata del corso e' di cinque anni. Il corso ha sede nella clinica medica della seconda facolta' di medicina e chirurgia dell'Universita' di Napoli.   
+Art. 752. - Alla scuola sono ammessi i laureati in medicina e chirurgia in numero di 10 (dieci) per anno. L'ammissione avviene in base all'esito di una prova scritta di cultura medica con particolare riguardo alle specialita' internistiche ed in base al voto di laurea.   
+Art. 753. - Gli iscritti debbono:   
+a) seguire i corsi di insegnamento nella scuola durante i cinque anni di corso;   
+b) prestare servizio continuativo nelle corsie e nei laboratori della clinica durante tale quinquennio;   
+c) gli esami di profitto saranno raggruppati in seduta unica, al termine di ogni anno di corso. Per le materie biennali (come ad esempio l'anatomia patologica) o quinquennale (clinica medica generale e terapia medica) sara' dato un esame unico alla fine del biennio e del quinquennio di insegnamento. L'iscrizione al corso successivo e' condizionata al superamento del gruppo di esami dell'anno di corso precedente.   
+Alla fine del quinto anno di corso, gli iscritti che abbiano superato tutti gli esami fondamentali e complementari e che abbiano effettuato il tirocinio pratico di cui al comma b) di quest'articolo, devono sostenere la discussione di una tesi scritta su argomenti di medicina interna per conseguire il diploma di specializzazione.   
+Art. 754. - Le materie fondamentali di insegnamento sono ripartite nei vari anni di corso come segue:   
+1° Anno:   
+malattie infettive e disreattive e del sangue;   
+istituzioni di terapia;   
+anatomia e istologia patologica (biennale);   
+clinica medica generale e terapia medica (quinquennale).   
+2° Anno:   
+malattie dell'apparato cardiovascolare;   
+microbiologia e seriologia;   
+chimica clinica;   
+anatomia e istologia patologica (biennale);   
+clinica medica generale e terapia medica (quinquennale).   
+3° Anno:   
+malattie dell'apparato digerente;   
+malattie renali;   
+clinica medica generale e terapia medica (quinquennale).   
+4° Anno:   
+malattie dell'apparato respiratorio;   
+malattie del sistema nervoso;   
+clinica medica generale e terapia medica (quinquennale).   
+5° Anno:   
+malattie del ricambio;   
+malattie delle ghiandole endocrine;   
+clinica medica generale e terapia medica (quinquennale).   
+Devono inoltre essere seguiti corsi di insegnamento complementare, di cui vanno superati i relativi esami di profitto:   
+1° Anno:   
+genetica medica.   
+3° Anno:   
+radiologia.   
+4° Anno:   
+semeiotica oculistica.   
+Art. 755. - Le tasse di immatricolazione e di iscrizione e la sopratassa annuale per gli esami di profitto saranno uguali a quelle delle altre scuole di specializzazione presso le facolta' di medicina e chirurgia dell'Universita' di Napoli. La tassa di diploma e' fissata nella misura di L. 6.000, a norma della legge n. 1551, art. 7, del 18 dicembre 1951.   
+L'importo dei contributi annuali generali per il laboratorio, le esercitazioni pratiche ed il materiale didattico sara' determinato dal consiglio di amministrazione su proposta della facolta'.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 settembre 1980
+### Dato a Roma, addi' 27 ottobre 1976
 
-PERTINI SARTI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 24 novembre 1980
+Registrato alla Corte dei conti, addi' 28 dicembre 1976
 
-Registro n. 109 Istruzione, foglio n. 56
+Registro n. 102 Istruzione, foglio n. 74

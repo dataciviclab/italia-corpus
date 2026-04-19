@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 giugno 1982 n. 743
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 novembre 1985 n. 933
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 giugno 1982 n. 743
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 novembre 1985 n. 933
+===============================================================
 
 Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-743. Decreto del Presidente della Repubblica 29 giugno 1982, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato, consistente in titoli depositati presso la sede di Genova dell'Istituto bancario italiano per un importo di lire 46.784.872, disposto dal sig. Achille Ponzini con testamento olografo 18 aprile 1973, pubblicato in data 17 aprile 1975, n. 27301 di repertorio, a rogito dottor Gaetano Gessaga, notaio in Genova, registrato a Genova in data 23 aprile 1975, n. 5284.  
+933. Decreto del Presidente della Repubblica 14 novembre 1985, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato, consistente "in quanto resta in denaro liquido del conto corrente" presso la Banca commerciale, via del Corso, Roma, e "in titoli di Stato", una volta "pagate le spese funebri e religiose e gli onorari notarili" per un ammontare presumibile di L. 30.000.000 e che sara' utilizzato dalla Croce rossa per l'assistenza ai terremotati piu' bisognosi e sofferenti del Friuli, disposto dalla sig.ra Lucia Dini con testamento olografo 28 agosto 1977, pubblicato in data 26 settembre 1979, n. 67608 di repertorio, a rogito dottor Massimo Manara, coadiutore del dott. Achille De Martino, notaio in Roma, registrato a Roma in data 2 ottobre 1979 al n. 10942.   
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 2 ottobre 1982  
-Registrato n. 6 Sanita', foglio n. 233
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 17 febbraio 1986   
+Registro n. 2 Sanita', foglio n. 133.

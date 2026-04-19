@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 491
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1984 n. 25
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 491
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1984 n. 25
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-491. Decreto del Presidente della Repubblica 27 giugno 1983, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un appartamento sito in Milano, via Montevideo, 10, distinto nel nuovo catasto edilizio urbano alla partita 106818, foglio 472, mappale 56 sub 33, del valore periziato di L. 30.000.000 elevato dall'ufficio tecnico erariale di Milano a L. 85.000.000, disposto dalla sig.ra Invernizzi Francesca ved. Soffientini a favore della fondazione "Don Carlo Gnocchi", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione medesima in data 28 novembre 1980, con testamento olografo 15 aprile 1979, pubblicato il 26 settembre 1980, n. 1566 di repertorio e n. 86 di raccolta, a rogito avv. Nicola Malenza, notaio in Milano, registrato a Milano il 6 ottobre 1980 al n. 23220.  
+25. Decreto del Presidente della Repubblica 10 gennaio 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato consistente in beni mobili e libretto di risparmio, per un valore di L. 25.593.393, disposto dalla sig.ra Terzoli Maria Petronilla a favore dell'istituto "Don Gnocchi", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale 20 novembre 1981 del consiglio di amministrazione della fondazione stessa, con testamento olografo 4 gennaio 1962, pubblicato in data 16 settembre 1981, n. 55778/7616 di repertorio, a rogito dott. Riccardo Ferrario, notaio in Milano, registrato a Milano il 22 settembre 1981 al n. 23394.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 8 settembre 1983  
-Registro n. 7 Presidenza, foglio n. 299
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 15 febbraio 1984  
+Registro n. 2 Presidenza, foglio n. 130

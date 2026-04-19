@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 510
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1985 n. 188
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 510
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1985 n. 188
+===============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare una eredita'.
 ----------------------------------------------------------------------------------
@@ -10,8 +10,10 @@ Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare una eredita
 Art. 1
 ------
 
-N. 510 Decreto del Presidente della Repubblica 15 luglio 1983, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in beni mobili per un valore di L. 19.015.000, gravata di un legato in titoli al portatore di L. 1.000.000 a favore del fratello della de cuius Grilli Matteo, disposta dalla signora Orsola Grilli con testamento pubblico redatto a rogito dott. Federico Stame, notaio in Bologna, in data 17 novembre 1976 e dallo stesso pubblicato il 25 ottobre 1979, n. 16612 di repertorio e n. 7168 di fascicolo, registrato a Bologna il 9 novembre 1979 al n. 17355.  
+N.
+
+188. Decreto del Presidente della Repubblica 12 febbraio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in un immobile sito in Sanremo, via F. Alfano n. 56 del valore, attribuito con perizia di parte, di L. 176.000.000, ritenuto congruo dall'ufficio tecnico erariale di Imperia, disposta dalla sig.ra Alessandra Logaridis ved. Bozzaro con testamento olografo 30 settembre 1982, pubblicato in data 23 novembre 1982, n. 71518/11139 di repertorio, a rogito dott. Giovanni Saguato, notaio in Imperia.  
   
 Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 19 settembre 1983  
-Registro n. 7 Presidenza, foglio n. 332  
+Registrato alla Corte dei conti, addi' 2 maggio 1985  
+Registro n. 4 Presidenza, foglio n. 88

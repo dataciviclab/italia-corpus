@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 1114
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 942
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 1114
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 942
 ==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Perugia.
@@ -26,7 +26,7 @@ Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
-Veduto il parere del Consiglio universitario nazionale;
+Veduto il parere del Consiglio universitario nazionale:
 
 Sulla proposta del Ministro della pubblica istruzione;
 
@@ -40,19 +40,22 @@ Articolo unico
 
   
   
-Nell'art. 37, relativo al corso di laurea in materie letterarie, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:   
-storia dell'Europa contemporanea.   
+Nell'art. 49, relative al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:   
+  
+terapia pediatrica sistematica.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 giugno 1983
+### Dato a Roma, addi' 31 ottobre 1985
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 22 marzo 1984
+Registrato alla Corte dei conti, addi' 25 febbraio 1986
 
-Registro n. 17 Istruzione, foglio n. 336
+Registro n. 12 Istruzione, foglio n. 267

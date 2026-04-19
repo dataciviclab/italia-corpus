@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 775
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1984 n. 1019
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 775
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1984 n. 1019
+===============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -39,20 +39,20 @@ Articolo unico
 --------------
 
   
-Art. 60 - Nell'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono inseriti i seguenti insegnamenti:  
-analisi chimico-biologica degli alimenti zootecnici;  
-genetica del miglioramento animale.  
+Art. 30 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia, e' inserito l'insegnamento di "biomatematica".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Selva di Val Gardena, addi' 2 settembre 1983
+### Dato a Roma, addi' 30 ottobre 1984
 
-PERTINI FALCUCCI
+PERTINI
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 27 dicembre 1983
+Registrato alla Corte dei conti, addi' 30 gennaio 1985
 
-Registro n. 79 Istruzione, foglio n. 391
+Registro n. 4 Istruzione, foglio n. 332

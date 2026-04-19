@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 agosto 1959 n. 780
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1978 n. 950
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 agosto 1959 n. 780
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1978 n. 950
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772) e successivi;
+Veduto lo statuto dell'Universita' di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -22,193 +22,189 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 27. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di "psichiatria".
+Art. 142 - all'elenco degli insegnamenti complementari del corso di laurea in medicina veterinaria sono aggiunti i seguenti:
 
-Art. 32. - Agli insegnamenti complementari del corso di laurea in scienze matematiche sono aggiunti quelli di: "matematiche elementari dal punto di vista superiore", "teoria, dei numeri", "calcoli numerici e grafici", "geometria algebrica", "meccanica superiore", "topologia", "algebrica superiore", "teoria generale delle vibrazioni", "meccanica celeste".
+biologia molecolare;
 
-Art. 39. - Agli insegnamenti complementari del corso di laurea in fisica sono aggiunti quelli di: "fisica atomica", "fisica particelle elementari", "elettronica", "fisica dei solidi".
+radiologia sperimentale;
 
-Art. 46. - Agli insegnamenti complementari del corso di laurea in matematica e fisica sono aggiunti quelli di: "matematiche elementari dal punto di vista superiore", "teoria dei numeri", "calcoli numerici e grafici", "geometria algebrica", "meccanica superiore", "topologia", "algebra superiore", "teoria generale delle vibrazioni", "fisica atomica", "fisica delle particelle elementari", "fisica dei solidi", "elettronica".
+radiobiologia veterinaria;
 
-Art. 57. - Agli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti quelli di: "biologia marina", "oceanografia".
+zooeconomia.
 
-Art. 65. - Agli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti quelli di: "embriologia e morfologia sperimentale", "idrobiologia e pescicoltura", "paleontologia umana e paletnologia", "fitogeografia ed ecologia vegetale".
+Gli articoli 333, 334, 336, 337, 338, 339, 340, 341, 342 e 343, relativi all'ordinamento degli studi della scuola speciale di servizio sociale, annessa alla facolta' di giurisprudenza, sono abrogati e sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi.
 
-Art. 69. Agli insegnamenti complementari del corso di laurea in scienze geologiche, e' aggiunto quello di "geologia stratigrafica".
+Scuola speciale di servizio sociale
 
-Art. 71. - E' aggiunto il seguente comma:
+Art. 333. - Nella facolta' di giurisprudenza dell'Universita' degli studi di Parma e' istituita una scuola speciale di servizio sociale ai sensi e per gli effetti dell'[art. 20, terzo comma, lettera a), del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20-com3-leta). La scuola si propone di preparare l'esercizio della professione di assistente sociale, mediante l'insegnamento teorico delle discipline necessarie e la sua integrazione con tirocini, esercitazioni o seminari interdisciplinari.
 
-Sono obbligatori due anni di internato in geologia, al III e IV anno".
+La scuola conferisce il diploma di assistente sociale.
 
-Art. 73, relativo all'esame di laurea, l'ultimo comma e' abrogato e sostituito dal seguente:
+Art. 334. - Per l'ammissione alla scuola e' richiesto un titolo di scuola media superiore valido per la immatricolazione a un corso universitario.
 
-"Fa parte, inoltre, dell'esame di laurea un colloquio di cultura generale nelle scienze geologiche (geologia, paleontologia, geografia, mineralogia, petrografia) da sostenere dinanzi ad una Commissione di cinque professori ufficiali della Facolta', fra cui il preside".
+Art. 336. - Il consiglio della scuola e' composto dal direttore, che lo presiede, dai docenti delle materie di insegnamento, da un rappresentante di ciascuno degli enti o privati finanziatori della scuola da questi designato, dagli assistenti ai corsi, da due studenti di ognuno dei corsi, eletti all'interno dei rispettivi corsi e dal direttore delle esercitazioni e dei tirocini professionali, che funge anche da segretario.
 
-Art. 75. - Agli insegnamenti complementari del corso di laurea in farmacia e' aggiunto quello di "chimica farmaceutica applicata".
+Il consiglio delibera su tutte le questioni di natura didattica e disciplinare relativa alla scuola.
 
-Art. 82. - All'elenco delle Scuole di specializzazione annesse alla Facolta' di medicina e chirurgia e' aggiunta quella di igiene.
+Il consiglio viene convocato dal direttore e si riunisce di diritto all'inizio e alla fine di ciascun anno accademico e ogni qualvolta il direttore lo ritenga necessario ovvero almeno un quinto del consiglio ne faccia richiesta scritta al direttore, indicando gli argomenti da inserire all'ordine del giorno.
 
-Dopo l'art. 135, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola, di specializzazione in igiene, con il conseguente spostamento della numerazione degli articoli successivi.
+Art. 337. - Il direttore della scuola e' un professore della facolta' di giurisprudenza nominato dal rettore, su proposta della facolta'; dura in carica un triennio ed e' rieleggibile.
 
-Scuola di specializzazione in igiene.
+Il direttore ha la rappresentanza e la direzione della scuola e ne assicura la disciplina.
 
-Art. 136. - E' istituita la Scuola di specializzazione in igiene, che ha sede presso l'Istituto di igiene della Facolta' di medicina e chirurgia.
+Art. 338. - I docenti, il direttore delle esercitazioni e dei tirocini professionali e gli assistenti ai corsi sono nominati dal rettore su proposta del direttore.
 
-Art. 137. - Sono ammessi i laureati in medicina e chirurgia.
+I docenti della scuola sono scelti tra i professori e gli assistenti dell'Universita' di Parma e fra coloro che siano di riconosciuta competenza ed esperienza nelle materie che formano oggetto dell'insegnamento.
 
-Art. 138. - L'iscrizione alla Scuola e' limitata, per ogni anno accademico, a dieci allievi.
+L'assistenza alle esercitazioni, ai tirocini professionali e ai seminari e' affidata agli assistenti ai corsi, la cui attivita' e' coordinata dal direttore delle esercitazioni e dei tirocini professionali.
 
-Art. 139. - La Scuola ha la durata di due anni.
+Il direttore delle esercitazioni e dei tirocini professionali e gli assistenti ai corsi debbono possedere il diploma di assistente sociale.
 
-Art. 140. - Le materie di insegnamento sono:
+Art. 339. - Il corso degli studi per il conseguimento del diploma di assistente sociale ha la durata di tre anni.
 
-1° anno:
+L'ammissione alla scuola ha luogo in seguito a concorso per soli esami.
 
-1) igiene generale e speciale (I);
+Art. 340. - Le materie di insegnamento sono le seguenti:
 
-2) batteriologia, immunologia, e microbiologia applicata all'igiene;
+elementi di diritto pubblico;
 
-3) parassitologia;
+elementi di diritto di famiglia e di legislazione minorile;
 
-4) legislazione sanitaria, statistica e demografia;
+diritto del lavoro e legislazione sociale;
 
-5) zoonosi, ispezione delle carni:
+economia politica;
 
-6) nozioni di anatomia e istologia patologica.
+storia delle dottrine politiche e sociali;
 
-2° anno:
+politica sociale;
 
-1) igiene generale e speciale (II);
+amministrazione dei servizi sociali;
 
-2) patologia e clinica delle malattie da infezione, da intossicazione, da carenze, ecc.;
+sociologia (biennale);
 
-3) ingegneria sanitaria;
+metodologia della ricerca sociale (biennale);
 
-4) chimica applicata all'igiene;
+psicologia;
 
-5) fisica applicata all'igiene;
+psicologia sociale;
 
-6) geologia applicata all'igiene.
+Igiene mentale;
 
-Art. 141. - Gli allievi dovranno seguire turni di interinato, secondo gli orari stabiliti dalla Scuola, presso l'Istituto di igiene e presso l'Ufficio comunale di igiene.
+medicina preventiva e sociale;
 
-Art. 142. - Al termine di ciascun anno, gli allievi che abbiano regolarmente frequentato i corsi, dovranno superare un esame di profitto.
+metodologia del servizio sociale (triennale).
 
-Art. 143. - Alla fine dei due anni, gli allievi dovranno presentare una tesi scritta e sostenere un esame di diploma.
+La didattica e' articolata in corsi di insegnamento, seminari anche interdisciplinari, lavoro e ricerche di gruppo.
+
+I tirocini professionali, consistenti in esperienze concrete di lavoro sociale, tramite l'inserimento dello studente in situazioni operanti vengono effettuati nei singoli anni di corso sotto la guida di "supervisori".
+
+Art. 341. - Le commissioni per gli esami di profitto sono composte di tre membri nominati dal direttore.
+
+Per essere ammessi agli esami gli iscritti dovranno aver ottenuto le relative firme di frequenza. Per essere ammessi agli esami di diploma gli iscritti dovranno aver superato gli esami di profitto stabiliti dal programma della scuola.
+
+L'esame di diploma consiste in una discussione sopra una dissertazione originale scelta fra le materie d'insegnamento della scuola. La discussione ha luogo davanti ad una commissione di sette membri nominati dal rettore, su proposta del direttore.
+
+L'argomento della dissertazione di diploma dovra' essere concordato con l'insegnante della materia prescelta, almeno sei mesi prima della discussione.
+
+Art. 342. - La scuola potra' avere un regolamento da approvare dal consiglio di amministrazione su proposta del consiglio della scuola.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Napoli, addi' 20 agosto 1959
+Dato a Roma, addi' 27 ottobre 1978
 
-GRONCHI
+PERTINI
 
-MEDICI
+PEDINI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 28 settembre 1959 Atti del Governo, registro n. 120, foglio n. 162. - VILLA
+alla Corte dei conti, addi' 30 gennaio 1979 Registro n. 4 Istruzione, foglio n. 8
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772) e successivi;  
+Veduto lo statuto dell'Universita' di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 27. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di "psichiatria".  
-  
-Art. 32. - Agli insegnamenti complementari del corso di laurea in scienze matematiche sono aggiunti quelli di: "matematiche elementari dal punto di vista superiore", "teoria, dei numeri", "calcoli numerici e grafici", "geometria algebrica", "meccanica superiore", "topologia", "algebrica superiore", "teoria generale delle vibrazioni", "meccanica celeste".  
-  
-Art. 39. - Agli insegnamenti complementari del corso di laurea in fisica sono aggiunti quelli di: "fisica atomica", "fisica particelle elementari", "elettronica", "fisica dei solidi".  
-  
-Art. 46. - Agli insegnamenti complementari del corso di laurea in matematica e fisica sono aggiunti quelli di: "matematiche elementari dal punto di vista superiore", "teoria dei numeri", "calcoli numerici e grafici", "geometria algebrica", "meccanica superiore", "topologia", "algebra superiore", "teoria generale delle vibrazioni", "fisica atomica", "fisica delle particelle elementari", "fisica dei solidi", "elettronica".  
-  
-Art. 57. - Agli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti quelli di: "biologia marina", "oceanografia".  
-  
-Art. 65. - Agli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti quelli di: "embriologia e morfologia sperimentale", "idrobiologia e pescicoltura", "paleontologia umana e paletnologia", "fitogeografia ed ecologia vegetale".  
-  
-Art. 69. Agli insegnamenti complementari del corso di laurea in scienze geologiche, e' aggiunto quello di "geologia stratigrafica".  
-  
-Art. 71. - E' aggiunto il seguente comma:  
-Sono obbligatori due anni di internato in geologia, al III e IV anno".  
-  
-Art. 73, relativo all'esame di laurea, l'ultimo comma e' abrogato e sostituito dal seguente:  
-"Fa parte, inoltre, dell'esame di laurea un colloquio di cultura generale nelle scienze geologiche (geologia, paleontologia, geografia, mineralogia, petrografia) da sostenere dinanzi ad una Commissione di cinque professori ufficiali della Facolta', fra cui il preside".  
-  
-Art. 75. - Agli insegnamenti complementari del corso di laurea in farmacia e' aggiunto quello di "chimica farmaceutica applicata".  
-  
-Art. 82. - All'elenco delle Scuole di specializzazione annesse alla Facolta' di medicina e chirurgia e' aggiunta quella di igiene.  
-Dopo l'art. 135, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola, di specializzazione in igiene, con il conseguente spostamento della numerazione degli articoli successivi.  
-  
-Scuola di specializzazione in igiene.  
-  
-Art. 136. - E' istituita la Scuola di specializzazione in igiene, che ha sede presso l'Istituto di igiene della Facolta' di medicina e chirurgia.  
-  
-Art. 137. - Sono ammessi i laureati in medicina e chirurgia.  
-  
-Art. 138. - L'iscrizione alla Scuola e' limitata, per ogni anno accademico, a dieci allievi.  
-  
-Art. 139. - La Scuola ha la durata di due anni.  
-  
-Art. 140. - Le materie di insegnamento sono:  
-  
-1° anno:  
-1) igiene generale e speciale (I);  
-2) batteriologia, immunologia, e microbiologia applicata all'igiene;  
-3) parassitologia;  
-4) legislazione sanitaria, statistica e demografia;  
-5) zoonosi, ispezione delle carni:  
-6) nozioni di anatomia e istologia patologica.  
-  
-2° anno:  
-1) igiene generale e speciale (II);  
-2) patologia e clinica delle malattie da infezione, da intossicazione, da carenze, ecc.;  
-3) ingegneria sanitaria;  
-4) chimica applicata all'igiene;  
-5) fisica applicata all'igiene;  
-6) geologia applicata all'igiene.  
-  
-Art. 141. - Gli allievi dovranno seguire turni di interinato, secondo gli orari stabiliti dalla Scuola, presso l'Istituto di igiene e presso l'Ufficio comunale di igiene.  
-  
-Art. 142. - Al termine di ciascun anno, gli allievi che abbiano regolarmente frequentato i corsi, dovranno superare un esame di profitto.  
-  
-Art. 143. - Alla fine dei due anni, gli allievi dovranno presentare una tesi scritta e sostenere un esame di diploma.  
+Art. 142 - all'elenco degli insegnamenti complementari del corso di laurea in medicina veterinaria sono aggiunti i seguenti:  
+biologia molecolare;  
+radiologia sperimentale;  
+radiobiologia veterinaria;  
+zooeconomia.  
+Gli articoli 333, 334, 336, 337, 338, 339, 340, 341, 342 e 343, relativi all'ordinamento degli studi della scuola speciale di servizio sociale, annessa alla facolta' di giurisprudenza, sono abrogati e sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi.  
+Scuola speciale di servizio sociale  
+Art. 333. - Nella facolta' di giurisprudenza dell'Universita' degli studi di Parma e' istituita una scuola speciale di servizio sociale ai sensi e per gli effetti dell'[art. 20, terzo comma, lettera a), del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20-com3-leta). La scuola si propone di preparare l'esercizio della professione di assistente sociale, mediante l'insegnamento teorico delle discipline necessarie e la sua integrazione con tirocini, esercitazioni o seminari interdisciplinari.  
+La scuola conferisce il diploma di assistente sociale.  
+Art. 334. - Per l'ammissione alla scuola e' richiesto un titolo di scuola media superiore valido per la immatricolazione a un corso universitario.  
+Art. 336. - Il consiglio della scuola e' composto dal direttore, che lo presiede, dai docenti delle materie di insegnamento, da un rappresentante di ciascuno degli enti o privati finanziatori della scuola da questi designato, dagli assistenti ai corsi, da due studenti di ognuno dei corsi, eletti all'interno dei rispettivi corsi e dal direttore delle esercitazioni e dei tirocini professionali, che funge anche da segretario.  
+Il consiglio delibera su tutte le questioni di natura didattica e disciplinare relativa alla scuola.  
+Il consiglio viene convocato dal direttore e si riunisce di diritto all'inizio e alla fine di ciascun anno accademico e ogni qualvolta il direttore lo ritenga necessario ovvero almeno un quinto del consiglio ne faccia richiesta scritta al direttore, indicando gli argomenti da inserire all'ordine del giorno.  
+Art. 337. - Il direttore della scuola e' un professore della facolta' di giurisprudenza nominato dal rettore, su proposta della facolta'; dura in carica un triennio ed e' rieleggibile.  
+Il direttore ha la rappresentanza e la direzione della scuola e ne assicura la disciplina.  
+Art. 338. - I docenti, il direttore delle esercitazioni e dei tirocini professionali e gli assistenti ai corsi sono nominati dal rettore su proposta del direttore.  
+I docenti della scuola sono scelti tra i professori e gli assistenti dell'Universita' di Parma e fra coloro che siano di riconosciuta competenza ed esperienza nelle materie che formano oggetto dell'insegnamento.  
+L'assistenza alle esercitazioni, ai tirocini professionali e ai seminari e' affidata agli assistenti ai corsi, la cui attivita' e' coordinata dal direttore delle esercitazioni e dei tirocini professionali.  
+Il direttore delle esercitazioni e dei tirocini professionali e gli assistenti ai corsi debbono possedere il diploma di assistente sociale.  
+Art. 339. - Il corso degli studi per il conseguimento del diploma di assistente sociale ha la durata di tre anni.  
+L'ammissione alla scuola ha luogo in seguito a concorso per soli esami.  
+Art. 340. - Le materie di insegnamento sono le seguenti:  
+elementi di diritto pubblico;  
+elementi di diritto di famiglia e di legislazione minorile;  
+diritto del lavoro e legislazione sociale;  
+economia politica;  
+storia delle dottrine politiche e sociali;  
+politica sociale;  
+amministrazione dei servizi sociali;  
+sociologia (biennale);  
+metodologia della ricerca sociale (biennale);  
+psicologia;  
+psicologia sociale;  
+Igiene mentale;  
+medicina preventiva e sociale;  
+metodologia del servizio sociale (triennale).  
+La didattica e' articolata in corsi di insegnamento, seminari anche interdisciplinari, lavoro e ricerche di gruppo.  
+I tirocini professionali, consistenti in esperienze concrete di lavoro sociale, tramite l'inserimento dello studente in situazioni operanti vengono effettuati nei singoli anni di corso sotto la guida di "supervisori".  
+Art. 341. - Le commissioni per gli esami di profitto sono composte di tre membri nominati dal direttore.  
+Per essere ammessi agli esami gli iscritti dovranno aver ottenuto le relative firme di frequenza. Per essere ammessi agli esami di diploma gli iscritti dovranno aver superato gli esami di profitto stabiliti dal programma della scuola.  
+L'esame di diploma consiste in una discussione sopra una dissertazione originale scelta fra le materie d'insegnamento della scuola. La discussione ha luogo davanti ad una commissione di sette membri nominati dal rettore, su proposta del direttore.  
+L'argomento della dissertazione di diploma dovra' essere concordato con l'insegnante della materia prescelta, almeno sei mesi prima della discussione.  
+Art. 342. - La scuola potra' avere un regolamento da approvare dal consiglio di amministrazione su proposta del consiglio della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Napoli, addi' 20 agosto 1959
+### Dato a Roma, addi' 27 ottobre 1978
 
-GRONCHI MEDICI
+PERTINI PEDINI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 28 settembre 1959
+Registrato alla Corte dei conti, addi' 30 gennaio 1979
 
-Atti del Governo, registro n. 120, foglio n. 162. - VILLA
+Registro n. 4 Istruzione, foglio n. 8

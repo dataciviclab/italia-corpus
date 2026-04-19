@@ -1,132 +1,199 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 765
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1977 n. 1127
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 765
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1977 n. 1127
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
-
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
-
-Veduto il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Dopo l'art. 285, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della terza scuola di specializzazione in pediatria.   
+Decreta:  
   
-Scuola di specializzazione in pediatria   
-(terza scuola)   
-Art. 286. - E' istituita presso l'Universita' di Milano la terza scuola di specializzazione in pediatria che conferisce il diploma di specialista in pediatria.   
-Art. 287. - La direzione della scuola ha sede presso la clinica pediatrica V e presso la clinica pediatrica IV.   
-Art. 288. - Scopo della scuola non e' solo quello di fornire un diploma, ma anche di preparare una classe di pediatri che abbia una solida base culturale, una rigorosa impostazione tecnico-scientifica ed una seria professionalita'.   
-Art. 289. - La durata del corso e' di quattro anni e non e' suscettibile di abbreviazioni.   
-Art. 290. - Il numero degli iscritti e' di otto per ogni anno e complessivamente di trentadue per l'intero corso di studi.   
-Art. 291. - Alla scuola sono ammessi solo i laureati in medicina e chirurgia. E' richiesta l'abilitazione all'esercizio professionale.   
-Art. 292. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:   
-a) la tesi nella disciplina attinente alla specializzazione;   
-b) il voto di laurea;   
-c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;   
-d) le pubblicazioni nelle predette materie.   
-Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale del 16 settembre 1982.   
-Sono ammessi alla scuola di specializzazione coloro che in relazione al numero dei posti disponibili, si siano collocati in posizioni utili nelle graduatorie compilate sulla base del punteggio complessivo riportato.   
-Art. 293. - Le materie di insegnamento sono le seguenti e afferiscono tutte alla facolta' di medicina e chirurgia.   
-1° Anno:   
-genetica;   
-auxologia;   
-alimentazione;   
-epidemiologia;   
-malattie infettive;   
-clinica pediatrica I.   
-2° Anno:   
-radiologia;   
-legislazione del minore;   
-organizzazione sanitaria;   
-psicologia pediatrica;   
-oculistica e ortottica;   
-otorino e foniatria;   
-odonto;   
-neonatologia I;   
-chirurgia pediatrica I;   
-pediatria preventiva e sociale I;   
-clinica pediatrica II.   
-3° Anno:   
-neurologia;   
-psichiatria infantile;   
-nefrologia e urologia;   
-ginecologia pediatrica;   
-neonatologia II;   
-chirurgia pediatrica II;   
-pediatria preventiva e sociale II;   
-cardiologia I;   
-endocrinologia I;   
-ematologia I;   
-immunologia I;   
-gastroenterologia I;   
-clinica pediatrica II.   
-4° Anno:   
-oncologia;   
-pneumologia;   
-ortopedia e traumatologia;   
-dermatologia;   
-cardiologia II;   
-endocrinologia II;   
-ematologia II;   
-immunologia II;   
-gastroenterologia II;   
-clinica pediatrica IV.   
-Art. 294. - La frequenza ai corsi e' obbligatoria.   
-Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.   
-Art. 295. - Per la durata dell'anno accademico gli specializzandi dovranno frequentare quotidianamente, con periodiche rotazioni, i reparti e gli ambulatori generali e specialistici.   
-Saranno inoltre tenuti ad intervenire ai seminari e alla presentazione di casi clinici di particolare interesse. La frequenza e' rigorosamente obbligatoria ed indispensabile per sostenere gli esami.   
-Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.   
-Art. 296. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio delle scuole di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.   
-A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.   
-Art. 297. - L'importo delle tasse e soprattasse dovuto dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.   
-Art. 298. - Per la scuola e' costituito un consiglio presieduto da un direttore. Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).   
-Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.   
-La direzione della scuola e' affidata a professore ordinario o straordinario che insegni anche nella scuola stessa.   
-In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.   
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
+Art. 9 - all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza, vengono aggiunti i seguenti insegnamenti:  
+diritto della navigazione;  
+storia delle codificazioni moderne.  
+Art. 31 - l'elenco degli insegnamenti complementari del corso di laurea in chimica e' cosi' modificato:  
+  
+Indirizzo organico biologico:  
+  
+L'insegnamento di stereochimica muta denominazione in "stereochimica organica" e sono aggiunti i seguenti insegnamenti complementari:  
+cristallochimica;  
+storia della chimica.  
+  
+Indirizzo inorganico-chimico-fisico:  
+  
+L'insegnamento di stereochimica muta la denominazione in "stereochimica inorganica" e sono aggiunti i seguenti insegnamenti complementari:  
+cristallochimica;  
+storia della chimica.  
+  
+Art. 35 - all'elenco degli insegnamenti complementari del corso di laurea in chimica industriale si aggiungono i seguenti insegnamenti: chimica analitica strumentale;  
+chimica-fisica tecnica;  
+fotochimica organica.  
+Art. 42 - nell'elenco degli insegnamenti indicati, per il secondo biennio, per l'indirizzo generale l'insegnamento di analisi superiore muta denominazione in "analisi funzionale".  
+Nella tabella A dell'indirizzo generale si inseriscono i seguenti insegnamenti complementari:  
+analisi superiore;  
+analisi armonica;  
+analisi non lineare;  
+equazioni funzionali;  
+istituzioni di algebra superiore;  
+matematica combinatoria;  
+teoria delle categorie;  
+processi stocastici.  
+Nella tabella A dell'indirizzo didattico si inseriscono i seguenti insegnamenti complementari:  
+analisi superiore;  
+analisi armonica;  
+analisi non lineare;  
+equazioni funzionali;  
+istituzioni di algebra superiore;  
+matematica combinatoria;  
+teoria delle categorie;  
+processi stocastici;  
+analisi funzionale.  
+Nella tabella A dell'indirizzo applicativo si inseriscono seguenti insegnamenti complementari:  
+analisi armonica;  
+analisi non lineare;  
+equazioni funzionali;  
+istituzioni di algebra superiore;  
+matematica combinatoria;  
+teoria delle categorie;  
+processi stocastici;  
+analisi superiore.  
+Art. 44 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:  
+etologia;  
+pedologia;  
+paleontologia dei vertebrati.  
+Art. 47 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:  
+microbiologia industriale;  
+biochimica vegetale;  
+morfologia sperimentale;  
+fotobiologia.  
+Art. 68 - all'elenco degli insegnamenti complementari del corso di laurea in medicina veterinaria sono aggiunti i seguenti:  
+patologia da alimentazione degli animali domestici;  
+dietologia ed igiene alimentare nell'allevamento animale;  
+andrologia comparata.  
+Art. 72 - all'elenco degli insegnamenti complementari del corso di laurea in scienza della produzione animale vengono aggiunti i seguenti:  
+zootecnia quantitativa: statistica ed informatica;  
+tecnologia dell'allevamento suino;  
+tecnologie dell'allevamento del consiglio (semestrale);  
+immunogenetica zootecnica (semestrale);  
+etologia zootecnica (semestrale);  
+tecnologia delle carni e prodotti derivati;  
+tecnica della conservazione frigorifera;  
+tecnologia della produzione del latte e derivati.  
+Gli articoli 341, 342, 343, 344 e 350 dello statuto, concernenti la scuola diretta a fini speciali per tecnici di istituti medico-biologici, sono abrogati e sostituiti con i seguenti:  
+  
+Scuola diretta a fini speciali per tecnici di istituti medico-biologici  
+  
+Art. 341. - L'esame di ammissione consiste in una prova orale di cultura generale scientifica innanzi ad una commissione composta dal direttore della scuola e da altri membri designati dal rettore dell'Universita', nonche' in un saggio di lettura e traduzione di brani di una lingua straniera scelta fra l'inglese, il francese e il tedesco.  
+L'esame di ammissione avra' luogo entro la prima quindicina del mese di novembre di ciascun anno nel giorno che sara' stabilito dal rettore con apposito manifesto.  
+Art. 342. - La domanda di iscrizione deve essere corredata dai seguenti documenti:  
+certificato di nascita in carta legale debitamente legalizzato per i nati fuori della giurisdizione di Milano;  
+titolo di studi medi superiori in originale;  
+tre fotografie di cui una autenticata;  
+quietanza del pagamento delle tasse;  
+foglio di iscrizione al corso su modulo rilasciato dall'economato dell'Universita'.  
+Art. 343. - Il direttore della scuola viene nominato dal rettore su designazione del consiglio della facolta' di medicina e chirurgia tra i docenti della scuola.  
+Il consiglio della scuola si compone di tutti i professori designati a tenere i corsi prescritti ed e' presieduto dal direttore della scuola.  
+Gli insegnanti della scuola sono proposti dal consiglio della facolta' di medicina e chirurgia e nominati dal rettore. Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli aiuti ed assistenti della facolta' di medicina e chirurgia o di altra facolta' dell'ateneo o tra persone di riconosciuta competenza anche fuori dell'ambito universitario.  
+Art. 344. - Le materie di insegnamento sono:  
+1° Anno:  
+istituzioni di matematica;  
+istituzioni di fisica;  
+organizzazione e tecniche di laboratorio;  
+chimica generale ed inorganica;  
+chimica organica;  
+istituzioni di istologia ed anatomia;  
+lingua straniera.  
+2° Anno:  
+microbiologia;  
+biochimica generale;  
+biochimica clinica;  
+istituzioni di fisiologia;  
+istituzioni di patologia;  
+istituzioni di farmacologia;  
+istituzioni di statistica.  
+E' inoltre prescritta la frequenza presso laboratori od istituti esterni, prescelti dalla direzione della scuola, per un numero di ore stabilito dal direttore della scuola stessa.  
+Art. 350. - L'esame di diploma consiste in una discussione sopra una dissertazione scritta su un tema preventivamente assegnato dal direttore della scuola o da uno degli insegnanti con l'adesione del direttore.  
+L'esame di diploma viene sostenuto davanti ad una commissione di cinque membri, nominata dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Ogni commissario ha a sua disposizione dieci punti.  
+I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola; ma se al secondo esame non sia loro riconosciuta la idoneita', saranno senz'altro esclusi da ulteriori prove.  
+Agli allievi che avranno superato l'esame finale viene rilasciato il diploma di tecnico di istituti medico-biologici.  
+Gli articoli 382, 383, 385, 386, 388, 389, 391 e 392 dello statuto, concernenti la scuola diretta a fini speciali per fisioterapisti e terapisti della riabilitazione, nonche' la denominazione della scuola medesima, sono abrogati e sostituiti con i seguenti:  
+  
+Scuola diretta a fini speciali per terapisti della riabilitazione  
+  
+Art. 382. - E' istituita presso la clinica ortopedica (2a cattedra), ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), veduto l'[art. 5 della legge 30 marzo 1971, n. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-03-30;118~art5) e gli articoli 13 e 16 del decreto ministeriale 10 febbraio 1974, la scuola per terapisti della riabilitazione che ha lo scopo di preparare adeguatamente personale tecnico impartendo agli allievi, con unita' di indirizzo e metodo scientifico, tutte le nozioni teoriche e pratiche necessarie a bene esercitare l'attivita' di terapista della riabilitazione.  
+Art. 383. - La durata del corso degli studi e' di tre anni accademici. Sono ammessi alla scuola gli allievi di ambo i sessi, forniti di titolo di istruzione di 2° grado (scuole medie superiori) che abbiano compiuto il 170 anno di eta' e che risultino fisicamente e psichicamente idonei a svolgere la professione di terapista della riabilitazione.  
+Art. 385. - L'esame di ammissione consiste in una prova orale di cultura generale innanzi ad una commissione composta dal direttore della scuola e da due insegnanti della scuola stessa. L'esame di ammissione avra' luogo entro la prima quindicina del mese di ottobre di ciascun anno, in un giorno stabilito dal rettore su proposta del direttore della scuola.  
+Art. 386. - L'anno accademico ha inizio nel mese di ottobre e termina il trenta giugno. La domanda di iscrizione deve essere corredata dai seguenti documenti: certificato di nascita in carta legale; titolo di studi medi superiori in originale; tre fotografie di cui una autenticata; quietanza del pagamento delle tasse; foglio di iscrizione al corso su modulo rilasciato dall'economato dell'Universita'.  
+Art. 388. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+elementi di fisica;  
+elementi di biomeccanica;  
+elementi di anatomia umana generale;  
+elementi di fisiologia umana;  
+elementi di psicologia;  
+insegnamento pratico ed esercitazioni con dimostrazioni di cinesiologia, applicazioni tecniche di valutazione, esami articolari muscolari, funzionali e psicologici.  
+2° Anno:  
+nozioni di patologia ortopedica;  
+nozioni di patologia neurologica;  
+nozioni di traumatologia;  
+nozioni di patologia dell'apparato cardiorespiratorio;  
+nozioni di oculistica;  
+nozioni di patologia ginecologica ed addominale di interesse riabilitativo;  
+cinesiterapia;  
+elettroterapia;  
+fisioterapia strumentale;  
+idroterapia;  
+terapia occupazionale;  
+logiterapia;  
+massoterapia;  
+nozioni di patologia della cute e sottocutanea;  
+insegnamento pratico di esercitazioni riguardanti l'applicazione di metodiche riabilitative nei vari settori della patologia.  
+3° Anno:  
+elementi di igiene;  
+elementi di pronto soccorso;  
+elementi di legislazione sanitaria, servizio sociale e deontologia;  
+clinica della riabilitazione e tecniche riabilitative;  
+ginnastica medica;  
+ergoterapia;  
+fangoterapia e crenoterapia;  
+elioclimatoterapia;  
+terapia del linguaggio;  
+tirocinio pratico sulle tecniche riabilitative nelle diverse branche della riabilitazione.  
+Le lezioni tecniche e pratiche verranno impartite nei locali della scuola o in altri istituti universitari o reparti ospedalieri idonei secondo programmi di insegnamento ed orari predisposti dal direttore della scuola tenuto presente quanto stabilito dall'allegato A del decreto ministeriale 10 febbraio 1974. La frequenza alle lezioni teoriche ed alle esercitazioni pratiche e' obbligatoria.  
+Per la validita' dell'anno scolastico l'allievo deve partecipare almeno a due terzi delle lezioni sia teoriche che pratiche.  
+Art. 389. - Per essere ammessi a frequentare i successivi anni del corso, gli allievi debbono aver superato tutti gli esami dell'anno precedente. Nel caso in cui non abbiano superato gli esami prescritti dell'anno, essi rimarranno nella posizione di fuori corso fino a quando non avranno assolto gli obblighi previsti. Per essere ammessi a sostenere l'esame di diploma gli allievi dovranno aver seguito i corsi, superato gli esami in tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole tutte le esercitazioni pratiche previste.  
+Art. 391. - L'esame di diploma consiste nella discussione di una dissertazione scritta sul tema preventivamente assegnato dal direttore della scuola, ed in una prova pratica di fisiokinesiterapia, di fronte ad una commissione di 5 membri composta dal direttore della scuola e da altri 4 membri designati dal preside della facolta' di medicina e chirurgia. Ogni commissario ha a sua disposizione 10 punti. I candidati non riconosciuti idonei potranno ripresentarsi all'esame di diploma dopo un altro anno di frequenza, se al secondo esame non conseguiranno l'idoneita' saranno senz'altro esclusi da ulteriori prove. Superato l'esame di diploma i candidati conseguiranno il titolo di "terapista della riabilitazione" e ad essi verra' rilasciato il relativo diploma.  
+Art. 392. - Alle spese occorrenti al funzionamento della scuola si provvede con contributi eventualmente concessi da Ministeri, dalle regioni, dagli enti pubblici e privati e dalle seguenti tasse, soprattasse e contributi degli iscritti:  
+  
+tassa di immatricolazione (da versare una sola volta). . L. 2.000 tassa annuale di iscrizione . . . . . . . . . . . . . . L. 20.000 sovrattassa di esame annuale . . . . . . . . . . . . . . L. 5.000 tassa erariale di diploma. . . . . . . . . . . . . . . . L. 6.000 libretto e tessera . . . . . . . . . . . . . . . . . . . L. 2.000   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1983
+### Dato a Roma, addi' 26 ottobre 1977
 
-PERTINI FALCUCCI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 27 dicembre 1983
+Registrato alla Corte dei conti, addi' 27 febbraio 1978
 
-Registro n. 80 Istruzione, foglio n. 20
+Registro n. 24 Istruzione, foglio n. 76

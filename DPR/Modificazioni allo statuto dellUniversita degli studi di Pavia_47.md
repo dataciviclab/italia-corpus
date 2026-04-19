@@ -1,279 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1971 n. 611
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1104
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1971 n. 611
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1104
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 15: all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:
-
-Istituzioni di diritto processuale;
-
-Diritto di famiglia;
-
-Diritto penale commerciale;
-
-Diritto regionale;
-
-Diritto urbanistico.
-
-Art. 34: all'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:
-
-Codicologia;
-
-Storia comparata delle lingue classiche;
-
-Papirologia;
-
-Filologia bizantina;
-
-Lingua e letteratura neogreca;
-
-Filologia celtica;
-
-Etruscologia e archeologia italica;
-
-Archeologia delle province romane;
-
-Geografia storica del mondo antico;
-
-Antichita' medioevali;
-
-Filologia ugro-finnica;
-
-Religioni del mondo classico;
-
-Dialettologia italiana;
-
-Filologia medioevale e umanistica;
-
-Storia della critica;
-
-Storia del teatro;
-
-Storia e critica del cinema;
-
-Letteratura delle tradizioni popolari;
-
-Lingua e letteratura rumena;
-
-Etnologia;
-
-Filosofia del linguaggio;
-
-Letteratura ispano-americana;
-
-Storia della lingua francese;
-
-Storia bizantina;
-
-Archeologia e storia dell'arte del vicino Oriente antico;
-
-Storia delle esplorazioni geografiche;
-
-Fonetica;
-
-Paleografia greca;
-
-Antichita' medioevali;
-
-Filologia egeo-anatolica;
-
-Istituzioni di storia economica;
-
-Storia della scuola e delle istituzioni educative;
-
-Semiotica.
-
-Art. 36: all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne sono aggiunti i seguenti:
-
-Lingua e letteratura romena;
-
-Lingua e letteratura olandese e fiamminga;
-
-Lingua e letteratura scandinava;
-
-Lingua e letteratura neogreca;
-
-Letteratura ispano-americana;
-
-Storia comparata delle letterature europee;
-
-Storia della lingua francese;
-
-Storia della lingua inglese;
-
-Storia della lingua tedesca;
-
-Filologia ugro-finnica.
-
-Art. 37: all'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti seguenti:
-
-Storia della filosofia moderna e contemporanea;
-
-Storia della scienza e della tecnica;
-
-Logica;
-
-Logica matematica;
-
-Storia della logica;
-
-Filosofia del linguaggio;
-
-Storia della pedagogia;
-
-Epistemologia;
-
-Filosofia della religione;
-
-Storia delle religioni;
-
-Storia della storiografia filosofica;
-
-Storia della filosofia e delle scienze musulmane;
-
-Filosofia della politica;
-
-Psicologia dell'eta' evolutiva;
-
-Psicologia sociale;
-
-Psicologia pedagogica;
-
-Psicologia dinamica;
-
-Letteratura cristiana antica;
-
-Storia della musica;
-
-Fonetica;
-
-Semiotica;
-
-Storia delle scuole e delle istituzioni educative.
-
-Art. 38, relativo alle norme comuni per l'esame di laurea e' modificato nel senso che al punto b) le parole "e su due argomenti scelti liberamente dal candidato e pertinenti a insegnamenti della facolta' diversi da quello scelto per la laurea" sono soppresse.
-
-Art. 48: all'elenco degli insegnamenti complementari del corso di laurea in fisica - indirizzo generale - sono aggiunti i seguenti:
-
-Algebra superiore;
-
-Analisi superiore;
-
-Calcolo delle probabilita';
-
-Fisica matematica;
-
-Geometria superiore;
-
-Meccanica analitica;
-
-Teoria e applicazione delle macchine calcolatrici.
-
-Art. 49: all'elenco degli insegnamenti complementari del corso di laurea in matematica, che costituiscono il primo gruppo, sono aggiunti i seguenti:
-
-Algebra di Boole;
-
-Algebra commutativa;
-
-Algebra omologica;
-
-Analisi numerica delle equazioni funzionali;
-
-Applicazione della matematica all'economia;
-
-Calcolo delle variazioni;
-
-Meccanica analitica;
-
-Meccanica celeste;
-
-Meccanica dei fluidi;
-
-Meccanica delle vibrazioni;
-
-Storia e didattica della matematica;
-
-Strutture algebriche;
-
-Topologia algebrica;
-
-Topologia differenziale;
-
-Teoria dei Grafi;
-
-Teoria delle equazioni differenziali;
-
-Teoria della programmazione per le macchine calcolatrici;
-
-Teoria dei gruppi.
-
-Nello stesso elenco l'insegnamento complementare di pedagogia assume la denominazione di "Pedagogia matematica".
-
-Nello stesso articolo, dopo l'elenco degli insegnamenti complementari il penultimo comma e' abrogato e sostituito dal seguente:
-
-"L'esame di laurea comprende un lavoro scritto, il quale per la laurea con indirizzo generale dovra' essere una ricerca originale, e inoltre la discussione di una o piu' tesine orali".
-
-Dopo l'art. 68 e con il conseguente spostamento della successiva numerazione e' inserito il seguente nuovo articolo relativo alla costituzione di alcuni istituti annessi alla facolta' di farmacia.
-
-Art. 69. - Alla facolta' di farmacia sono annessi i seguenti istituti:
-
-Istituto di chimica farmaceutica e tossicologica;
-
-Istituto di chimica farmaceutica applicata;
-
-Istituto di farmacologia e farmocognosia.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 19 maggio 1971
-
-SARAGAT
-
-MISASI
-
-Visto, il Guardasigilli: COLOMBO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 17 agosto 1971 Atti del Governo, registro n. 243, foglio n. 125. - PASQUALUCCI
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
@@ -286,127 +26,41 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 15: all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:  
-Istituzioni di diritto processuale;  
-Diritto di famiglia;  
-Diritto penale commerciale;  
-Diritto regionale;  
-Diritto urbanistico.  
-Art. 34: all'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
-Codicologia;  
-Storia comparata delle lingue classiche;  
-Papirologia;  
-Filologia bizantina;  
-Lingua e letteratura neogreca;  
-Filologia celtica;  
-Etruscologia e archeologia italica;  
-Archeologia delle province romane;  
-Geografia storica del mondo antico;  
-Antichita' medioevali;  
-Filologia ugro-finnica;  
-Religioni del mondo classico;  
-Dialettologia italiana;  
-Filologia medioevale e umanistica;  
-Storia della critica;  
-Storia del teatro;  
-Storia e critica del cinema;  
-Letteratura delle tradizioni popolari;  
-Lingua e letteratura rumena;  
-Etnologia;  
-Filosofia del linguaggio;  
-Letteratura ispano-americana;  
-Storia della lingua francese;  
-Storia bizantina;  
-Archeologia e storia dell'arte del vicino Oriente antico;  
-Storia delle esplorazioni geografiche;  
-Fonetica;  
-Paleografia greca;  
-Antichita' medioevali;  
-Filologia egeo-anatolica;  
-Istituzioni di storia economica;  
-Storia della scuola e delle istituzioni educative;  
-Semiotica.  
-Art. 36: all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne sono aggiunti i seguenti:  
-Lingua e letteratura romena;  
-Lingua e letteratura olandese e fiamminga;  
-Lingua e letteratura scandinava;  
-Lingua e letteratura neogreca;  
-Letteratura ispano-americana;  
-Storia comparata delle letterature europee;  
-Storia della lingua francese;  
-Storia della lingua inglese;  
-Storia della lingua tedesca;  
-Filologia ugro-finnica.  
-Art. 37: all'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti seguenti:  
-Storia della filosofia moderna e contemporanea;  
-Storia della scienza e della tecnica;  
-Logica;  
-Logica matematica;  
-Storia della logica;  
-Filosofia del linguaggio;  
-Storia della pedagogia;  
-Epistemologia;  
-Filosofia della religione;  
-Storia delle religioni;  
-Storia della storiografia filosofica;  
-Storia della filosofia e delle scienze musulmane;  
-Filosofia della politica;  
-Psicologia dell'eta' evolutiva;  
-Psicologia sociale;  
-Psicologia pedagogica;  
-Psicologia dinamica;  
-Letteratura cristiana antica;  
-Storia della musica;  
-Fonetica;  
-Semiotica;  
-Storia delle scuole e delle istituzioni educative.  
-Art. 38, relativo alle norme comuni per l'esame di laurea e' modificato nel senso che al punto b) le parole "e su due argomenti scelti liberamente dal candidato e pertinenti a insegnamenti della facolta' diversi da quello scelto per la laurea" sono soppresse.  
-Art. 48: all'elenco degli insegnamenti complementari del corso di laurea in fisica - indirizzo generale - sono aggiunti i seguenti:  
-Algebra superiore;  
-Analisi superiore;  
-Calcolo delle probabilita';  
-Fisica matematica;  
-Geometria superiore;  
-Meccanica analitica;  
-Teoria e applicazione delle macchine calcolatrici.  
-Art. 49: all'elenco degli insegnamenti complementari del corso di laurea in matematica, che costituiscono il primo gruppo, sono aggiunti i seguenti:  
-Algebra di Boole;  
-Algebra commutativa;  
-Algebra omologica;  
-Analisi numerica delle equazioni funzionali;  
-Applicazione della matematica all'economia;  
-Calcolo delle variazioni;  
-Meccanica analitica;  
-Meccanica celeste;  
-Meccanica dei fluidi;  
-Meccanica delle vibrazioni;  
-Storia e didattica della matematica;  
-Strutture algebriche;  
-Topologia algebrica;  
-Topologia differenziale;  
-Teoria dei Grafi;  
-Teoria delle equazioni differenziali;  
-Teoria della programmazione per le macchine calcolatrici;  
-Teoria dei gruppi.  
-Nello stesso elenco l'insegnamento complementare di pedagogia assume la denominazione di "Pedagogia matematica".  
-Nello stesso articolo, dopo l'elenco degli insegnamenti complementari il penultimo comma e' abrogato e sostituito dal seguente:  
-"L'esame di laurea comprende un lavoro scritto, il quale per la laurea con indirizzo generale dovra' essere una ricerca originale, e inoltre la discussione di una o piu' tesine orali".  
-Dopo l'art. 68 e con il conseguente spostamento della successiva numerazione e' inserito il seguente nuovo articolo relativo alla costituzione di alcuni istituti annessi alla facolta' di farmacia.  
-Art. 69. - Alla facolta' di farmacia sono annessi i seguenti istituti:  
-Istituto di chimica farmaceutica e tossicologica;  
-Istituto di chimica farmaceutica applicata;  
-Istituto di farmacologia e farmocognosia.  
+Art. 50. - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:  
+Fitogeografia ed ecologia vegetale;  
+Etologia;  
+Biochimica applicata;  
+Ecologia animale;  
+Zoologia applicata.  
+Art. 51. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:  
+Ecologia vegetale;  
+Biochimica applicata;  
+Biochimica comparata;  
+Biochimica macromolecolare;  
+Enzimologia;  
+Endocrinologia comparata;  
+Analisi biochimico-cliniche;  
+Zoologia applicata;  
+Ematologia comparata.  
+Art. 52. - E' modificato nel senso che il settimo e l'ottavo capoverso sono abrogati e sostituiti dai seguenti:  
+"Lo studente non puo' sostenere l'esame di topografia e cartografia se non ha superato quello di istituzioni di matematiche; l'esame di mineralogia se non ha superato quello di istituzioni di matematiche, di chimica generale ed inorganica con elementi di organica e di fisica sperimentale I; l'esame di geologia se non ha superato quelli di mineralogia, petrografia, paleontologia e geografia fisica; l'esame di geologia applicata se non ha superato quello di geologia, quello di fisica terrestre se non ha superato quello di fisica sperimentale (biennale).  
+E' obbligatorio nel secondo biennio la frequenza (internato) per due anni nell'istituto di geologia o di paleontologia o di mineralogia e petrografia per la preparazione di una dissertazione (tesi) sperimentale di laurea e le frequenze (internato) per un anno in uno dei suddetti istituti per la preparazione di una sottotesi sperimentale".  
+Art. 54. - E' abrogato e sostituito dal seguente:  
+"Per i corsi di laurea in scienze naturali e in scienze biologiche valgono le seguenti norme:  
+  
+Lo studente del corso di laurea in scienze naturali non puo' essere ammesso all'esame di fisiologia generale se non ha superato l'esame di anatomia umana; non puo' essere ammesso all'esame di fisica se non ha superato l'esame di istituzioni matematiche; non puo' essere ammesso all'esame di chimica organica se non ha superato l'esame di chimica generale ed inorganica; non puo' essere ammesso all'esame di geologia se non ha superato l'esame di mineralogia e quello di geografia.  
+Lo studente del corso di laurea in scienze biologiche non puo' essere ammesso all'esame di fisiologia generale se non ha superato l'esame di anatomia umana; non puo' essere ammesso all'esame di fisica se non ha superato quello di istituzioni di matematiche; non puo' essere ammesso all'esame di chimica organica se non ha superato l'esame di chimica generale ed inorganica; non puo' essere ammesso all'esame di chimica biologica se non ha superato l'esame di chimica organica".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 maggio 1971
+### Dato a Roma, addi' 31 ottobre 1969
 
-SARAGAT MISASI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 17 agosto 1971
+Registrato alla Corte dei conti, addi' 23 gennaio 1970
 
-Atti del Governo, registro n. 243, foglio n. 125. - PASQUALUCCI
+Atti del Governo, registro n. 231, foglio n. 55. - CARUSO

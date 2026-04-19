@@ -1,162 +1,133 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 giugno 1976 n. 724
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1972 n. 592
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 giugno 1976 n. 724
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1972 n. 592
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Dopo l'art. 176, e con lo spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo, relativo alla istituzione del consiglio direttivo della scuola speciale per archeologi preistorici classici e medioevalisti.
-
-Art. 177. - E' istituito un consiglio direttivo della scuola, composto da cinque membri, e cioe' dal direttore della scuola, che lo presiede, da due docenti degli indirizzi rispettivamente preistorico e medioevalistico, designati dal consiglio della scuola, da un rappresentante del dipartimento istruzione e cultura della giunta regionale toscana, designato dalla regione medesima, e da un rappresentante dell'amministrazione universitaria, designato dal rettore dell'Universita', cui sono affidate le funzioni di segretario del consiglio.
-
-Il consiglio direttivo delibera su tutti gli affari inerenti alla organizzazione e alla attivita' della scuola.Per le questioni di natura didattico-scientifica il consiglio delibera dopo aver sentito il consiglio della scuola previsto dall'art. 176.
-
-Dopo l'art. 226, e con lo spostamento degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione del corso di perfezionamento in sicurezza nucleare e radioprotezione, annesso alle facolta' di ingegneria.
-
-Corso di perfezionamento in sicurezza nucleare
-
-e radioprotezione
-
-Art. 227. - E' annesso alla facolta' di ingegneria il corso di perfezionamento in sicurezza nucleare e radioprotezione.
-
-Art. 228. - Il corso ha la durata di un anno. Sono ammessi al corso i laureati in ingegneria, in fisica, in chimica. Gli insegnamenti del corso sono i seguenti:
-
-1) fisica dei reattori nucleari;
-
-2) misure di fisica nucleare;
-
-3) impianti nucleari;
-
-4) tecnologie e costruzioni nucleari;
-
-5) garanzia della qualita';
-
-6) sicurezza nucleare;
-
-7) radioprotezione;
-
-8) radiochimica.
-
-I suddetti insegnamenti saranno integrati da esercitazioni pratiche ed eventualmente da conferenze.
-
-Art. 229. - Al termine del corso la facolta' rilascia un certificato di studio per il conseguimento del quale e' necessario aver superato gli esami di tutte le materie indicate nell'articolo precedente.
-
-Art. 230. - Per le commissioni giudicatrici valgono le norme stabilite per le commissioni degli esami di profitto.
-
-Art. 231. - Il corso ha un numero di posti limitato e sara' fissato anno per anno dal consiglio di facolta', il quale deliberera' sulle ammissioni, in base ai titoli presentati dagli aspiranti.
-
-Art. 232. - Le tasse e le soprattasse che gli iscritti sono tenuti a pagare sono stabilite nella misura seguente:
-
-a) tassa d'iscrizione . . . . . . . . . . . . . . L. 30.000
-
-b) contributo per esercitazioni . . . . . . . . . " 60.000
-
-c) libretto di iscrizione . . . . . . . . . . . . " 800
-
-Art. 233. - Gli allievi che abbiano frequentato il corso e frequentato tutti gli esami prescritti al termine del quale non abbiano superato tutti gli esami di profitto, potranno essere iscritti in qualita' di fuori corso.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 9 giugno 1976
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 26 ottobre 1976 Atti di Governo, registro n. 10, foglio n. 181
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2250](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2250), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 269, 270, 271, 272 relativi alla "Scuola di specializzazione in urologia" sono abrogati e sostituiti dai seguenti:  
   
-Dopo l'art. 176, e con lo spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo, relativo alla istituzione del consiglio direttivo della scuola speciale per archeologi preistorici classici e medioevalisti.   
+Scuola di specializzazione in urologia  
+Art. 269. - La scuola di specializzazione in urologia e' annessa alla clinica chirurgica generale. Il direttore della clinica e' anche direttore della stessa.  
+Art. 270. - La scuola ha la durata di 3 anni. Il numero degli specializzandi da ammettere alla scuola e' di 6 per ogni anno di corso, per un totale di 18 (diciotto) iscritti.  
+Art. 271. - Le materie di insegnamento sono le seguenti:  
   
-Art. 177. - E' istituito un consiglio direttivo della scuola, composto da cinque membri, e cioe' dal direttore della scuola, che lo presiede, da due docenti degli indirizzi rispettivamente preistorico e medioevalistico, designati dal consiglio della scuola, da un rappresentante del dipartimento istruzione e cultura della giunta regionale toscana, designato dalla regione medesima, e da un rappresentante dell'amministrazione universitaria, designato dal rettore dell'Universita', cui sono affidate le funzioni di segretario del consiglio.   
-Il consiglio direttivo delibera su tutti gli affari inerenti alla organizzazione e alla attivita' della scuola.Per le questioni di natura didattico-scientifica il consiglio delibera dopo aver sentito il consiglio della scuola previsto dall'art. 176.   
+1° Anno:  
+Anatomia descrittiva e topografica dell'apparato urogenitale;  
+Fisiologia dell'apparato uro-genitale;  
+Patologia dell'apparato urinario e genitale maschile;  
+Le nefropatie mediche;  
+Semeiotica dell'apparato uro-genitale (funzionale e di laboratorio);  
+Tecniche strumentali e semeiologia endoscopica;  
+Batteriologia in urologia;  
+Farmacoterapia delle affezioni uro-genitali.  
   
-Dopo l'art. 226, e con lo spostamento degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione del corso di perfezionamento in sicurezza nucleare e radioprotezione, annesso alle facolta' di ingegneria.   
+2° Anno:  
+Patologia dell'apparato urinario e genitale maschile;  
+Clinica urologica;  
+Patologia genitale femminile di interesse urologico;  
+Nefrologia chirurgica;  
+Anatomia ed istologia patologica dell'apparato uro-genitale;  
+Semeiotica dell'apparato uro-genitale (funzionale e di laboratorio);  
+Tecniche strumentali e semeiologia endoscopica;  
+Anatomia chirurgica dell'apparato uro-genitale;  
+Radiologia dell'apparato urinario e genitale;  
+Le affezioni cutanee e veneree nei riguardi della urologia;  
+L'anestesia e il trattamento pre e post-operatorio del malato urologico.  
   
-Corso di perfezionamento in sicurezza nucleare   
-e radioprotezione   
+3° Anno:  
+Clinica urologica;  
+Patologia e clinica urologica infantile;  
+Radiologia dell'apparato urinario e genitale;  
+Tecniche operatorie sull'apparato urinario e genitale;  
+Urologia ginecologica.  
   
-Art. 227. - E' annesso alla facolta' di ingegneria il corso di perfezionamento in sicurezza nucleare e radioprotezione.   
-Art. 228. - Il corso ha la durata di un anno. Sono ammessi al corso i laureati in ingegneria, in fisica, in chimica. Gli insegnamenti del corso sono i seguenti:   
-1) fisica dei reattori nucleari;   
-2) misure di fisica nucleare;   
-3) impianti nucleari;   
-4) tecnologie e costruzioni nucleari;   
-5) garanzia della qualita';   
-6) sicurezza nucleare;   
-7) radioprotezione;   
-8) radiochimica.   
-I suddetti insegnamenti saranno integrati da esercitazioni pratiche ed eventualmente da conferenze.   
-Art. 229. - Al termine del corso la facolta' rilascia un certificato di studio per il conseguimento del quale e' necessario aver superato gli esami di tutte le materie indicate nell'articolo precedente.   
-Art. 230. - Per le commissioni giudicatrici valgono le norme stabilite per le commissioni degli esami di profitto.   
-Art. 231. - Il corso ha un numero di posti limitato e sara' fissato anno per anno dal consiglio di facolta', il quale deliberera' sulle ammissioni, in base ai titoli presentati dagli aspiranti.   
-Art. 232. - Le tasse e le soprattasse che gli iscritti sono tenuti a pagare sono stabilite nella misura seguente:   
-a) tassa d'iscrizione . . . . . . . . . . . . . . L. 30.000   
-b) contributo per esercitazioni . . . . . . . . . " 60.000   
-c) libretto di iscrizione . . . . . . . . . . . . " 800   
+Art. 272. - Gli esami sono i seguenti:  
   
-Art. 233. - Gli allievi che abbiano frequentato il corso e frequentato tutti gli esami prescritti al termine del quale non abbiano superato tutti gli esami di profitto, potranno essere iscritti in qualita' di fuori corso.   
+1° Anno:  
+Anatomia e fisiologia dell'apparato uro-genitale;  
+Nefropatie mediche;  
+Batteriologia in urologia e farmacoterapia delle affezioni uro-genitali.  
+  
+2° Anno:  
+Patologia dell'apparato urinario e genitale maschile, anatomia ed istologia patologica;  
+Semeiotica urologica (funzionale e di laboratorio);  
+Tecnica strumentale e semeiologia endoscopica;  
+Patologia genitale femminile di interesse urologico, le affezioni cutanee e veneree nei riguardi della urologia;  
+Anatomia chirurgica dell'apparato uro-genitale, anestesia e trattamento pre e post-operatorio del malato urologico;  
+Nefrologia chirurgica.  
+  
+3° Anno:  
+Clinica urologica;  
+Radiologia dell'apparato urinario e genitale;  
+Interventi e procedimenti operatori sull'apparato urogenitale;  
+Patologia e clinica urologica infantile;  
+Urologia ginecologica.  
+  
+Sono obbligatori i periodi di internato nella clinica chirurgica, fissati dalla direzione della scuola.  
+Gli articoli 330, 331, 332, relativi alla "Scuola di specializzazione in anestesiologia" che muta la denominazione in quella di "Scuola di specializzazione in anestesiologia e rianimazione" sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in anestesiologia e rianimazione  
+Art. 330. - La scuola di specializzazione in anestesiologia e rianimazione ha sede presso la clinica chirurgica generale il cui professore di ruolo e' direttore della scuola. Ha la durata di 3 anni.  
+Art. 331. - Le materie di insegnamento tono le seguenti:  
+  
+1° Anno:  
+Anatomia;  
+Biochimica;  
+Farmacologia;  
+Fisica;  
+Fisiologia applicata alla anestesiologia e rianimazione;  
+Anestesiologia;  
+Tecniche chirurgiche di interesse anestesiologico;  
+Aspetti medico-legali dell'anestesia e rianimazione;  
+(Internato).  
+  
+2° Anno:  
+Anestesiologia;  
+Terapia antalgica;  
+Rianimazione;  
+(Internato).  
+  
+3° Anno:  
+Rianimazione;  
+Tecniche speciali di anestesia e rianimazione;  
+Indagini diagnostiche attinenti alle specialita';  
+(Internato).  
+  
+Art. 332. - Per accedere agli anni successivi al 1° e' obbligatorio il superamento di tutti gli esami del corso precedente, ivi comprese le materie biennali. Gli esami possono essere sostenuti solamente in due sessioni annuali, una estiva e una autunnale, e comunque non oltre il 30 novembre dell'anno in corso.  
+Il numero massimo degli iscritti e' di 12 (dodici) per anno. E' obbligatoria la frequenza alle lezioni, alle esercitazioni e la frequenza in reparti operatori della durata di 6 mesi l'anno.  
+I candidati gia' in possesso del diploma di specialista in anestesiologia possono essere ammessi al 3° anno di corso.  
+Gli esami di profitto si svolgono a gruppi di materie.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 giugno 1976
+### Dato a Roma, addi' 1 agosto 1972
 
-LEONE MALFATTI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 26 ottobre 1976
+Registrato alla Corte dei conti, addi' 10 ottobre 1972
 
-Atti di Governo, registro n. 10, foglio n. 181
+Atti del Governo, registro n. 251, foglio n. 115. - CARUSO

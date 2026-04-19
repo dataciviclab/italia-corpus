@@ -1,11 +1,133 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1011
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1972 n. 678
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1011
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1972 n. 678
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Gli articoli 143, 144, 145, 146 relativi al corso di perfezionamento in nipiologia sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.
+
+Gli articoli 147, 148, 149, 150 relativi alla scuola di specializzazione in clinica delle malattie nervose e mentali, che muta la denominazione in quella di "Scuola di specializzazione in neurologia" sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in neurologia
+
+Art. 147. - Il corso di studi della scuola di specializzazione in neurologia e' di quattro anni.
+
+Art. 148. - Le materie di insegnamento sono le seguenti:
+
+1° Anno (internato di psichiatria):
+
+Anatomia ed istologia del S.N.;
+
+Fisiologia del S.N.;
+
+Biochimica del S.N.;
+
+Genetica (elementi);
+
+Psicologia generale;
+
+Psicopatologia;
+
+Semeiotica psichiatrica.
+
+2° Anno:
+
+Anatomia ed istologia patologica del S.N.;
+
+Semeiotica neurologica;
+
+Patologia speciale e diagnostica neurologica (1°);
+
+Neuro-radiologia;.
+
+Endocrinologia e neurologia vegetativa.
+
+3° Anno:
+
+Patologia speciale e diagnostica neurologica (2°);
+
+Clinica neurologica (1°);
+
+Elettroencefalografia;
+
+Elettromiografia, elettrodiagnostica ed elettroterapia;
+
+Neuro-oftalmologia;
+
+Neuro-otologia;
+
+Esami di laboratorio.
+
+4° Anno:
+
+Clinica neurologica e terapia (2°);
+
+Neurochirurgia;
+
+Teoria e clinica della riabilitazione;
+
+Neuro-traumatologia anche sotto l'aspetto della medicina legale;
+
+Neurologia in rapporto alla patologia internistica.
+
+Art. 149. - Internato obbligatorio per l'intero anno scolastico nel 2°, 3° e 4° anno in clinica neurologica sede della scuola. Tale internato potra' essere ridotto a non meno di mesi quattro per anno per i medici che prestino regolare servizio in reparto neurologico.
+
+Internato obbligatorio per l'intero anno scolastico in psichiatria nel 1° anno.
+
+Tale internato potra' essere ridotto a non meno di mesi sei per i medici che prestino servizio in reparto neurologico e a non meno di mesi quattro per coloro che prestino servizio in ospedale psichiatrico.
+
+Esami obbligatori per il passaggio all'anno successivo.
+
+Art. 150. - L'ammissione e' per titoli ed esami. - Il numero degli iscritti e' di ventiquattro per i quattro anni di corso (sei per ogni anno).
+
+Un abbuono di anni due puo' essere concesso agli specialisti in psichiatria, neuropsichiatria infantile e neurochirurgia.
+
+Un anno di abbuono per gli specialisti in altre materie affini (medicina interna, otorinolaringoiatria, oculistica, radiologia).
+
+Gli abbuoni possono essere concessi solo superando un esame di ammissione.
+
+Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 1 agosto 1972
+
+LEONE
+
+SCALFARO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 13 novembre 1972 Atti del Governo, registro n. 253, foglio n. 30. - CARUSO
 
 Art. 1
 ------
@@ -16,7 +138,6 @@ Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio de
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -24,18 +145,68 @@ Sulla proposta del Ministro per la pubblica istruzione;
   
 Decreta:  
   
-L'[art. 57 del decreto del Presidente della Repubblica 2 giugno 1972, n. 370](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-06-02;370~art57), concernente l'inclusione di nuovi insegnamenti complementari nel corso di laurea in lingue e letterature straniere dell'Universita' di Siena e' rettificato nel senso che l'insegnamento di "Dialettica italiana" deve essere corretto in "Dialettologia italiana".  
+Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Gli articoli 143, 144, 145, 146 relativi al corso di perfezionamento in nipiologia sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.  
+Gli articoli 147, 148, 149, 150 relativi alla scuola di specializzazione in clinica delle malattie nervose e mentali, che muta la denominazione in quella di "Scuola di specializzazione in neurologia" sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in neurologia  
+  
+Art. 147. - Il corso di studi della scuola di specializzazione in neurologia e' di quattro anni.  
+Art. 148. - Le materie di insegnamento sono le seguenti:  
+  
+1° Anno (internato di psichiatria):  
+Anatomia ed istologia del S.N.;  
+Fisiologia del S.N.;  
+Biochimica del S.N.;  
+Genetica (elementi);  
+Psicologia generale;  
+Psicopatologia;  
+Semeiotica psichiatrica.  
+  
+2° Anno:  
+Anatomia ed istologia patologica del S.N.;  
+Semeiotica neurologica;  
+Patologia speciale e diagnostica neurologica (1°);  
+Neuro-radiologia;.  
+Endocrinologia e neurologia vegetativa.  
+  
+3° Anno:  
+Patologia speciale e diagnostica neurologica (2°);  
+Clinica neurologica (1°);  
+Elettroencefalografia;  
+Elettromiografia, elettrodiagnostica ed elettroterapia;  
+Neuro-oftalmologia;  
+Neuro-otologia;  
+Esami di laboratorio.  
+  
+4° Anno:  
+Clinica neurologica e terapia (2°);  
+Neurochirurgia;  
+Teoria e clinica della riabilitazione;  
+Neuro-traumatologia anche sotto l'aspetto della medicina legale;  
+Neurologia in rapporto alla patologia internistica.  
+  
+Art. 149. - Internato obbligatorio per l'intero anno scolastico nel 2°, 3° e 4° anno in clinica neurologica sede della scuola. Tale internato potra' essere ridotto a non meno di mesi quattro per anno per i medici che prestino regolare servizio in reparto neurologico.  
+Internato obbligatorio per l'intero anno scolastico in psichiatria nel 1° anno.  
+Tale internato potra' essere ridotto a non meno di mesi sei per i medici che prestino servizio in reparto neurologico e a non meno di mesi quattro per coloro che prestino servizio in ospedale psichiatrico.  
+Esami obbligatori per il passaggio all'anno successivo.  
+Art. 150. - L'ammissione e' per titoli ed esami. - Il numero degli iscritti e' di ventiquattro per i quattro anni di corso (sei per ogni anno).  
+Un abbuono di anni due puo' essere concesso agli specialisti in psichiatria, neuropsichiatria infantile e neurochirurgia.  
+Un anno di abbuono per gli specialisti in altre materie affini (medicina interna, otorinolaringoiatria, oculistica, radiologia).  
+Gli abbuoni possono essere concessi solo superando un esame di ammissione.  
+Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 1 agosto 1972
 
 LEONE SCALFARO
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 17 febbraio 1973
+Registrato alla Corte dei conti, addi' 13 novembre 1972
 
-Atti di Governo, registro n. 255, foglio n. 118. - VALENTINI
+Atti del Governo, registro n. 253, foglio n. 30. - CARUSO

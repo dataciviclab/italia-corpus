@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1964 n. 1307
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 940
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1964 n. 1307
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 940
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,99 +20,57 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Veduto il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Napoli approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 22. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:
-
-"Diritto della previdenza sociale;
-
-Sociologia giuridica;
-
-Tecnica dell'organizzazione e dei servizi amministrativi".
-
-Art. 178, relativo al corso di laurea in Ingegneria aeronautica.
-
-L'insegnamento obbligatorio sul piano della Facolta' di "Elettronica applicata" e' soppresso.
-
-Sono aggiunti gli insegnamenti di "Radioassistenza al volo" e di "Costruzione di macchine".
-
-Art. 224 (relativo agli Istituti annessi alla Facolta' di agraria) l'Istituto di "Ingegneria agraria" e' soppresso;
-
-Sono costituiti:
-
-a) l'Istituto di meccanica agraria;
-
-b) l'Istituto di idraulica, topografia e costruzioni rurali.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1964
-
-Per il Presidente della Repubblica
-
-Il Presidente del Senato
-
-MERZAGORA
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 5 dicembre 1964 Atti del Governo, registro n. 188, foglio n. 193. - VILLA
+Lo statuto dell'Universita' di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Nell'art. 232, relativo all'elenco degli insegnamenti complementari del corso di laurea in ingegneria, sono aggiunti i seguenti nuovi insegnamenti:  
+struttura della materia;  
+tecnica delle alte tensioni;  
+prefabbricazione strutturale;  
+consolidamento degli edifici;  
+stabilita' delle strutture e calcolo delle strutture in parete sottile;  
+analisi dei sistemi urbani.  
+
+Art. 2
+------
+
   
-Decreta:  
+Nell'art. 255, relativo al corso di laurea in architettura, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
+gestione urbanistica.  
+
+Art. 3
+------
+
   
-Lo statuto dell'Universita' degli studi di Napoli approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 22. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:  
-"Diritto della previdenza sociale;  
-Sociologia giuridica;  
-Tecnica dell'organizzazione e dei servizi amministrativi".  
-Art. 178, relativo al corso di laurea in Ingegneria aeronautica.  
-L'insegnamento obbligatorio sul piano della Facolta' di "Elettronica applicata" e' soppresso.  
-Sono aggiunti gli insegnamenti di "Radioassistenza al volo" e di "Costruzione di macchine".  
-Art. 224 (relativo agli Istituti annessi alla Facolta' di agraria) l'Istituto di "Ingegneria agraria" e' soppresso;  
-Sono costituiti:  
-a) l'Istituto di meccanica agraria;  
-b) l'Istituto di idraulica, topografia e costruzioni rurali.  
+Nell'art. 107, relativo al corso di laurea in lingue e letterature straniere moderne, all'elenco degli insegnamenti complementari e' aggiunto il seguente:  
+letteratura spagnola moderna e contemporanea.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1964
+### Dato a Roma, addi' 17 maggio 1983
 
-Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 5 dicembre 1964
+Registrato alla Corte dei conti, addi' 30 gennaio 1984
 
-Atti del Governo, registro n. 188, foglio n. 193. - VILLA
+Registro n. 4 Istruzione, foglio n. 386

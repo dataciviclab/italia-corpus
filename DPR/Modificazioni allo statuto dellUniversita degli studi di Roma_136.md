@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 luglio 1980 n. 635
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 842
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 luglio 1980 n. 635
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 842
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Roma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,52 +20,179 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 156 (ex 155). - All'elenco delle materie d'insegnamento della scuola di specializzazione in ingegneria aerospaziale e' aggiunta quella di "Fisica dello spazio".
+
+Nello stesso elenco l'insegnamento di "Complementi di sistematica applicata" muta denominazione in quella di "Complementi di matematica applicata".
+
+Art. 157 (ex 156). - All'elenco delle materie complementari del 1° anno della scuola di specializzazione in ingegneria aerospaziale e' aggiunta quella di "Fisica dello spazio".
+
+Nello stesso articolo l'insegnamento complementare (sezione aeromissilistica e astronautica) di complementi di sistematica applicata muta denominazione in "Complementi di matematica applicata".
+
+L'art. 159 (ex 158), relativo agli istituti annessi alla scuola e' abrogato e sostituito dal seguente:
+
+Sono annessi alla scuola di ingegneria aerospaziale i seguenti istituti:
+
+a) Istituto di costruzioni aeronautiche, comprendente le seguenti cattedre:
+
+1) Costruzioni aeronautiche;
+
+2) Elettronica aerospaziale;
+
+3) Telemisure aerospaziali;
+
+4) Astrodinamica applicata;
+
+5) Servosistemi aeromissilistici;
+
+6) Sistemi spaziali;
+
+7) Gasdinamica sperimentale;
+
+8) Impianti e sperimentazione aerospaziale;
+
+9) Meccanica del volo spaziale;
+
+10) Fisica dello spazio;
+
+11) Biologia aerospaziale.
+
+Alla cattedra di costruzioni aeronautiche e' annesso il gruppo di impianti e laboratori scientifici noto sotto la denominazione di "Centro ricerche aerospaziali" con sede attuale presso l'aeroporto dell'Urbe.
+
+Il centro ricerche aerospaziali ha un direttore che e' permanentemente il titolare della cattedra di "Costruzioni aeronautiche".
+
+b) Istituto di propulsione aerospaziale, comprendente le seguenti cattedre:
+
+1) Propulsione aerospaziale;
+
+2) Sistemi di propulsione aeromissilistica;
+
+3) Sistemi di propulsione spaziale.
+
+c) Istituto di tecnologia aerospaziale, comprendente le seguenti cattedre:
+
+1) Elementi costruttivi dei velivoli;
+
+2) Tecnica aerospaziale;
+
+3) Calcolo elettronico;
+
+4) Complementi di matematica applicata;
+
+5) Materiali aerospaziali.
+
+d) Istituto di aerodinamica, comprendente le seguenti cattedre:
+
+1) Aerodinamica e astrodinamica;
+
+2) Gasdinamica;
+
+3) Dinamica dei fluidi ionizzati e rarefatti;
+
+4) Meccanica e stabilita' delle aerodine.
+
+e) Istituto di economia dei trasporti aerospaziali, comprendente la seguente cattedra:
+
+1) Economia dei trasporti aerospaziali.
+
+L'art. 327, relativo agli esami di diploma per gli iscritti alla scuola di perfezionamento in storia dell'arte medioevale e moderna, annessa alla facolta' di lettere e filosofia, e' modificato nel senso che dopo il primo e' inserito il seguente nuovo comma:
+
+"Dei quattro esami da superare su insegnamenti complementari due possono essere scelti fra le discipline impartite nel corso di laurea in architettura o nella scuola di perfezionamento in restauro dei monumenti".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 4 agosto 1971
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: COLOMBO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 15 ottobre 1971 Atti del Governo, registro n. 244, foglio n. 151. - CARUSO
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-L'art. 106, relativo all'ordinamento degli studi del corso di laurea in matematica, e' modificato nel senso che all'elenco degli insegnamenti complementari per i tre indirizzi: generale, didattico, applicativo, sono aggiunti i seguenti insegnamenti:  
-teoria e applicazione delle macchine calcolatrici I;  
-teoria e applicazione delle macchine calcolatrici II;  
-logica matematica II;  
-matematica applicata I;  
-matematica applicata II;  
-calcolo delle probabilita' II;  
-matematica combinatoria;  
-analisi numerica III;  
-teoria e metodi dell'ottimizzazione;  
-cosmologia.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Il primo comma dell'art. 451, relativo ai titoli di ammissione alla scuola di perfezionamento in fisica, e' sostituito dal seguente:  
-"Alla scuola di perfezionamento in fisica vengono ammessi soltanto i laureati in fisica, matematica, matematica e fisica, chimica industriale, ingegneria e scienze dell'informazione".  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 156 (ex 155). - All'elenco delle materie d'insegnamento della scuola di specializzazione in ingegneria aerospaziale e' aggiunta quella di "Fisica dello spazio".  
+Nello stesso elenco l'insegnamento di "Complementi di sistematica applicata" muta denominazione in quella di "Complementi di matematica applicata".  
+Art. 157 (ex 156). - All'elenco delle materie complementari del 1° anno della scuola di specializzazione in ingegneria aerospaziale e' aggiunta quella di "Fisica dello spazio".  
+Nello stesso articolo l'insegnamento complementare (sezione aeromissilistica e astronautica) di complementi di sistematica applicata muta denominazione in "Complementi di matematica applicata".  
+L'art. 159 (ex 158), relativo agli istituti annessi alla scuola e' abrogato e sostituito dal seguente:  
+Sono annessi alla scuola di ingegneria aerospaziale i seguenti istituti:  
+a) Istituto di costruzioni aeronautiche, comprendente le seguenti cattedre:  
+1) Costruzioni aeronautiche;  
+2) Elettronica aerospaziale;  
+3) Telemisure aerospaziali;  
+4) Astrodinamica applicata;  
+5) Servosistemi aeromissilistici;  
+6) Sistemi spaziali;  
+7) Gasdinamica sperimentale;  
+8) Impianti e sperimentazione aerospaziale;  
+9) Meccanica del volo spaziale;  
+10) Fisica dello spazio;  
+11) Biologia aerospaziale.  
+Alla cattedra di costruzioni aeronautiche e' annesso il gruppo di impianti e laboratori scientifici noto sotto la denominazione di "Centro ricerche aerospaziali" con sede attuale presso l'aeroporto dell'Urbe.  
+Il centro ricerche aerospaziali ha un direttore che e' permanentemente il titolare della cattedra di "Costruzioni aeronautiche".  
+b) Istituto di propulsione aerospaziale, comprendente le seguenti cattedre:  
+1) Propulsione aerospaziale;  
+2) Sistemi di propulsione aeromissilistica;  
+3) Sistemi di propulsione spaziale.  
+c) Istituto di tecnologia aerospaziale, comprendente le seguenti cattedre:  
+1) Elementi costruttivi dei velivoli;  
+2) Tecnica aerospaziale;  
+3) Calcolo elettronico;  
+4) Complementi di matematica applicata;  
+5) Materiali aerospaziali.  
+d) Istituto di aerodinamica, comprendente le seguenti cattedre:  
+1) Aerodinamica e astrodinamica;  
+2) Gasdinamica;  
+3) Dinamica dei fluidi ionizzati e rarefatti;  
+4) Meccanica e stabilita' delle aerodine.  
+e) Istituto di economia dei trasporti aerospaziali, comprendente la seguente cattedra:  
+1) Economia dei trasporti aerospaziali.  
+L'art. 327, relativo agli esami di diploma per gli iscritti alla scuola di perfezionamento in storia dell'arte medioevale e moderna, annessa alla facolta' di lettere e filosofia, e' modificato nel senso che dopo il primo e' inserito il seguente nuovo comma:  
+"Dei quattro esami da superare su insegnamenti complementari due possono essere scelti fra le discipline impartite nel corso di laurea in architettura o nella scuola di perfezionamento in restauro dei monumenti".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 luglio 1980
+### Dato a Roma, addi' 4 agosto 1971
 
-PERTINI SARTI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 8 ottobre 1980
+Registrato alla Corte dei conti, addi' 15 ottobre 1971
 
-Registro n. 92 Istruzione, foglio n. 141
+Atti del Governo, registro n. 244, foglio n. 151. - CARUSO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 993
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1971 n. 1209
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 993
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1971 n. 1209
+===============================================================
 
 Recupero e nuova ripartizione di due posti di assistente ordinario.
 -------------------------------------------------------------------
@@ -10,17 +10,17 @@ Recupero e nuova ripartizione di due posti di assistente ordinario.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Visto l'[art. 14 della legge 24 febbraio 1967, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-24;62~art14), con il quale sono stati complessivamente istituiti per gli anni accademici dal 1966-67 al 1970-71 settemila posti di assistente ordinario;
+Visto l'[art. 14 della legge 24 febbraio 1967, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-24;62~art14), con il quale sono stati complessivamente istituiti per gli anni accademici dal 1966-67 al 1970-71, settemila posti di assistente ordinario;
 
 Visto l'art. 15, comma primo, della stessa legge n. 62, concernente la riserva di assegnazione alle cattedre cui prestino servizio assistenti straordinari con almeno cinque anni di servizio retribuito, di un numero di posti corrispondente a quello degli assistenti straordinari forniti del prescritto requisito di anzianita';
 
-Visto il [decreto del Presidente della Repubblica 8 gennaio 1970, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-01-08;28), con il quale, per l'anno accademico 1969-70, in applicazione della riserva stessa sono stati ripartiti fra le cattedre dei diversi atenei quattordici posti di assistente riservati per concorso agli assistenti straordinari forniti della prescritta anzianita' di servizio;
+Visto il [decreto del Presidente della Repubblica 1 aprile 1967, n. 343](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-04-01;343), con il quale, per l'anno accademico 1966-67 in applicazione della riserva stessa, sono stati ripartiti fra le cattedre dei diversi atenei milleseicentotrentasei posti di assistente riservati per concorso agli assistenti straordinari forniti della prescritta anzianita' di servizio;
 
-Considerato che, ai sensi dell'ultimo comma del citato art. 15 della legge n. 62, i posti riservati; comunque non coperti debbono essere recuperati e fatti oggetto di una nuova ripartizione;
+Considerato che ai sensi dell'ultimo comma del citato art. 15 della legge n. 62, i posti riservati, comunque non coperti debbono essere recuperati e fatti oggetto di una nuova ripartizione;
 
-Visti i [decreti del Presidente della Repubblica 12 febbraio 1968, n. 344](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-02-12;344); [12 marzo 1968, n. 602](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-03-12;602); [4 giugno 1968, n. 812](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-06-04;812); [5 giugno 1968, n. 821](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-06-05;821); [11 dicembre 1968, n. 1331](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-12-11;1331); [27 maggio 1969, n. 325](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-05-27;325); [23 ottobre 1969, n. 919](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-10-23;919); [20 novembre 1969, n. 942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-11-20;942); [23 marzo 1970, n. 254](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-03-23;254); [12 maggio 1970, n. 522](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-05-12;522); [13 giugno 1970, n. 603](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-06-13;603); [3 luglio 1970, n. 670](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-07-03;670); [4 luglio 1970, n. 788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-07-04;788); [7 novembre 1970, n. 986](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-11-07;986); [3 dicembre 1970, n. 1201](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-12-03;1201) e [24 luglio 1971, n. 826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-07-24;826), con i quali sono stati recuperati e nuovamente ripartiti posti di assistente ordinario gia' riservati per concorso agli assistenti straordinari;
+Visti i [decreti del Presidente della Repubblica 12 febbraio 1968, n. 344](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-02-12;344); [12 marzo 1968, n. 602](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-03-12;602); [4 giugno 1968, n. 812](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-06-04;812); [5 giugno 1968, n. 821](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-06-05;821); [11 dicembre 1968, n. 1331](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-12-11;1331); [27 maggio 1969, n. 325](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-05-27;325); [23 ottobre 1969, n. 919](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-10-23;919); [20 novembre 1969, n. 942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-11-20;942); [23 marzo 1970, n. 254](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-03-23;254); [12 maggio 1970, n. 522](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-05-12;522); [13 giugno 1970, n. 603](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-06-13;603): [3 luglio 1970, n. 670](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-07-03;670); [4 luglio 1970, n. 788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-07-04;788); [7 novembre 1970, n. 986](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-11-07;986); [3 dicembre 1970, n. 1201](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-12-03;1201); [24 luglio 1971, n. 826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-07-24;826), con i quali sono stati recuperati e nuovamente ripartiti posti di assistente ordinario gia' riservati per concorso agli assistenti straordinari;
 
-Considerato che, a seguito dei risultati di altri concorsi riservati agli assistenti straordinari banditi ed espletati per i posti assegnati con il citato [decreto del Presidente della Repubblica 8 gennaio 1970, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-01-08;28), due altri posti non risultano coperti perche' i relativi concorsi sono andati deserti;
+Considerato che a seguito dei risultati di altri concorsi riservati agli assistenti straordinari banditi ed espletati per i posti assegnati col citato [decreto presidenziale 1 aprile 1967, n. 343](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-04-01;343), due altri posti non risultano coperti perche' i relativi concorsi sono andati deserti;
 
 Sulla
 -----
@@ -31,36 +31,43 @@ Art. 1
 ------
 
   
-Il posto di assistente ordinario gia' riservato per concorso agli assistenti straordinari assegnato alla cattedra di tecnica urbanistica della facolta' di ingegneria della Universita' di Napoli con [decreto del Presidente della Repubblica 8 gennaio 1970, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-01-08;28), e' recuperato dal contingente riservato.  
+I due posti di assistente ordinario gia' attribuiti alle seguenti cattedre dei sottoindicati atenei con il [decreto del Presidente della Repubblica 1 aprile 1967, n. 343](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-04-01;343), sono recuperati dal contingente riservato:  
+UNIVERSITA DI GENOVA  
+  
+Numero  
+dei posti Facolta di ingegneria:  
+1) cattedra di impianti elettrici......................... 1  
+  
+UNIVERSITA DI TORINO  
+  
+Facolta di medicina e chirurgia:  
+1) cattedra di igiene..................................... 1  
 
 Art. 2
 ------
 
   
-Il posto di assistente come sopra recuperato e' assegnato alla cattedra di procedura penale I della facolta' di giurisprudenza dell'Universita' di Napoli.  
-
-Art. 3
-------
-
+I due posti di assistente ordinario come sopra recuperati vengono ripartiti come appresso:  
+FACOLTA DI MEDICINA  
   
-Il posto di assistente ordinario gia' riservato per concorso agli assistenti straordinari assegnato alla cattedra di chimica fisica della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Bologna con il [decreto del Presidente della Repubblica 8 gennaio 1970, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-01-08;28), e' recuperato dal contingente riservato.  
-
-Art. 4
-------
-
+Numero  
+dei posti Universita di Messina:  
+1) cattedra di oncologia sperimentale..................... 1  
   
-Il posto di assistente ordinario, come sopra recuperato, viene assegnato alla cattedra di lingua e letteratura tedesca (lettore) della facolta' di magistero dell'Universita' di Siena, sede di Arezzo.  
+Universita di Roma:  
+1) cattedra di clinica medica generale e terapia medica II  
+(per medicina interna)..................................... 1  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 agosto 1971
+### Dato a Roma, addi' 30 ottobre 1971
 
 SARAGAT MISASI
 
 Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 25 novembre 1971
+Registrato alla Corte dei conti, addi' 5 gennaio 1972
 
-Atti del Governo, registro n. 245, foglio n. 108. - CARUSO
+Atti del Governo, registro n. 245, foglio n. 222. - VALENTINI

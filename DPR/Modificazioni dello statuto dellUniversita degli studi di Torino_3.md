@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 aprile 1949 n. 613
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1954 n. 181
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 aprile 1949 n. 613
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1954 n. 181
+============================================================
 
 Modificazioni dello statuto dell'Universita' degli studi di Torino.
 -------------------------------------------------------------------
@@ -10,15 +10,15 @@ Modificazioni dello statuto dell'Universita' degli studi di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Visto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), modificato con i [regi decreti 20 aprile 1939, n. 1118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1118), [12 gennaio 1941, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-12;34), [27 aprile 1942, n. 571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-04-27;571), [5 settembre 1942, n. 1237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-09-05;1237), [24 ottobre 1942, n. 1438](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-10-24;1438), e con i [decreti del Capo provvisorio dello Stato 4 febbraio 1947, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-04;196) e [7 marzo 1947, n. 1727](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-03-07;1727);
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 20 aprile 1939, n. 1118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1118), e modificato con [regi decreti 12 gennaio 1941, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-01-12;34); [27 aprile 1942, n. 571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;571); [5 settembre 1942, n. 1237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1237); [24 ottobre 1942, n. 1438; con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1438) [4 febbraio 1947, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-04;196) e [7 marzo 1947, n. 1727, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-03-07;1727) [26 febbraio 1949, n. 430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;430); [21 aprile 1949, n. 613](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;613); [1 settembre 1949, n. 816](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-01;816); [13 marzo 1950, n. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;599); [30 ottobre 1950, n. 1125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1125); [31 ottobre 1950, n. 1310](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1310); [30 giugno 1951, n. 1148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-30;1148); [27 ottobre 1951, n. 1794](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1794); [25 luglio 1952, n. 1352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1352); [16 ottobre 1952, n. 4554](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-16;4554); [26 ottobre 1952, n. 4506](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4506); [30 ottobre 1952, n. 4483](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-30;4483); [11 marzo 1953, n. 573](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;573) e [11 marzo 1953, n. 576](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;576);
 
-Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Visto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Visto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Viste le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,197 +30,39 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-All'art. 66 vengono aggiunti i seguenti numeri:
+Art. 15. - Il primo comma e' sostituito dal seguente "Sono annessi alla Facolta' di giurisprudenza i tre seguenti Istituti:
 
-n. 15. Anestesia;
+Istituto giuridico;
 
-n. 16. Medicina interna;
+Laboratorio di economia politica;
 
-n. 17. Patologia generale;
+Istituto di scienze politiche".
 
-n. 18. Tisiologia.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dopo l'art. 102 vengono aggiunti i seguenti articoli:
-
-Anestesia.
-
-Art. 103. - Per il conseguimento del diploma di specialista in anestesia, si richiedono due anni di corso con internato.
-
-Art. 104. - Gli insegnamenti impartiti nella scuola sono i seguenti:
-
-1° anno:
-
-1) anatomia, - con speciale riguardo alla topografia dei nervi periferici;
-
-2) fisiologia - del sistema cardiovascolare, del sistema respiratorio e del sistema nervoso;
-
-3) farmacologia, - con particolare riguardo ai narcotici, ipnotici, anestetici ad azione locale, vari alcaloidi, cardiocinetici ed analettici respiratori;
-
-4) generalita' e tecnica della narcosi;
-
-5) generalita' e tecnica delle anestesie periferiche, rachianestesia, anestesie plessiche regionali, anestesie locali, ecc. 2° anno:
-
-1) generalita' e tecnica della narcosi (biennale)
-
-2) generalita' e tecnica delle anestesie periferiche (biennale);
-
-3) anestesia del parto;
-
-4) patogenesi del dolore e metodi di terapia antalgica;
-
-5) trattamento pre, intra e post operatorio con speciale riguardo alla trasfusione del sangue.
-
-Art. 105. - Lo specializzando per accedere al secondo anno della scuola di specializzazione deve aver superato gli esami del primo anno.
-
-Art. 106. - Al corso di specializzazione possono essere iscritti cinque allievi per anno.
-
-Medicina interna.
-
-Art. 107. - Per il conseguimento del diploma di specialita' in medicina interna si richiedono cinque anni di corso.
-
-Art. 108. - Gli insegnamenti impartiti nelle scuole sono i seguenti:
-
-1° anno:
-
-1) clinica medica;
-
-2) anatomia patologica;
-
-3) parassitologia medica;
-
-4) chimica per clinica.
-
-2° anno:
-
-1) clinica medica;
-
-2) patologia e semeiotica cardiovascolare e renale;
-
-3) ematologia;
-
-4) batterioscopia, e sierologia clinica.
-
-3° anno:
-
-1) clinica medica;
-
-2) patologia e semeiotica apparato digerente;
-
-3) malattie infettive;
-
-4) semeiotica oculare.
-
-4° anno:
-
-1) clinica medica;
-
-2) patologia e semeiotica polmonare;
-
-3) climatologia, e idrologia;
-
-4) diagnostica e radiologia.
-
-5° anno:
-
-1) clinica medica;
-
-2) patologia e semeiotica neurologica;
-
-3) terapia medica.
-
-Art. 109. - L'internato si svolgera' presso l'Istituto in clinica medica generale dell'Universita' di Torino.
-
-Patologia generale.
-
-Art. 110. - Per il conseguimento del diploma di perfezionamento in patologia generale si richiedono due anni di corso con internato.
-
-Alla scuola di perfezionamento vengono ammessi solo i laureati in medicina e chirurgia. L'insegnamento si svolge nell'Istituto di patologia generale dell'Universita'. Gli iscritti alla scuola hanno l'obbligo di frequentare tutti gli insegnamenti teorici e le esercitazioni pratiche impartite dai professori.
-
-Art. 111. Gli insegnamenti impartiti nella scuola sono i seguenti: 1° anno:
-
-1) patologia generale (eziologia, cipatologia, eucologia);
-
-2) parassitologia;
-
-3) batteriologia;
-
-4) immunologia.
-
-2° anno:
-
-patologia generale (fisiopatologia);
-
-biochimica;
-
-istopatologia.
-
-Art. 112. - Alla fine del primo e secondo anno i candidati dovranno sostenere un esame teorico sul programma svolto in ciascun insegnamento. Superati gli esami dei singoli insegnamenti per il conseguimento del diploma gli iscritti dovranno presentare e discutere innanzi ad una commissione formata da sette membri scelti fra gli insegnanti della scuola, una dissertazione su di un argomento di patologia generale, dopo aver superata una prova pratica sperimentale.
-
-Tisiologia.
-
-Art. 113. - Per il conseguimento del diploma di specializzazione in tisiologia e malattie dell'apparato respiratorio si richiedono due anni di corso con internato.
-
-Art. 114. - Gli insegnamenti impartiti nella scuola sono i seguenti:
-
-1° anno:
-
-1) tisiologia;
-
-2) clinica delle malattie non tubercolari dell'apparato respiratorio;
-
-3) radiologia dell'apparato respiratorio;
-
-4) anatomia e istologia patologica;
-
-5) diagnostica di laboratorio;
-
-6) igiene e assistenza sociale nel campo tubercolare;
-
-7) terapia medica.
-
-2° anno:
-
-1) tisiologia;
-
-2) radiologia dell'apparato respiratorio;
-
-3) la tubercolosi nell'infanzia;
-
-4) la tubercolosi in gravidanza;
-
-5) tecnica sanatoriale e dispensariale;
-
-6) collassoterapia;
-
-7) terapia chirurgia.
-
-Art. 115. - L'internato si svolgera' presso l'Istituto di clinica medica generale dell'Universita' di Torino, comprendendo anche la frequenza, nell'Ospedale sanatorio San Luigi, ove puo' essere svolta e dimostrata la parte tecnica sanatoriale e dispensariale.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta, ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Dogliani, addi' 21 aprile 1949
+Dato a Roma, addi' 2 marzo 1954
 
 EINAUDI
 
-GONELLA
+MARTINO
 
-Visto, il Guardasigilli: GRASSI
+Visto, il Guardasigilli: DE PIETRO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 7 settembre 1949 Atti del Governo, registro n. 29, foglio n. 126. - FRASCA
+alla Corte dei conti, addi' 10 maggio 1954 Atti del Governo, registro n. 83, foglio n. 35. - CARLOMAGNO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Visto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), modificato con i [regi decreti 20 aprile 1939, n. 1118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1118), [12 gennaio 1941, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-12;34), [27 aprile 1942, n. 571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-04-27;571), [5 settembre 1942, n. 1237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-09-05;1237), [24 ottobre 1942, n. 1438](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-10-24;1438), e con i [decreti del Capo provvisorio dello Stato 4 febbraio 1947, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-04;196) e [7 marzo 1947, n. 1727](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-03-07;1727);  
-Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Visto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071);  
-Visto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Viste le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 20 aprile 1939, n. 1118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1118), e modificato con [regi decreti 12 gennaio 1941, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-01-12;34); [27 aprile 1942, n. 571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;571); [5 settembre 1942, n. 1237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1237); [24 ottobre 1942, n. 1438; con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1438) [4 febbraio 1947, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-04;196) e [7 marzo 1947, n. 1727, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-03-07;1727) [26 febbraio 1949, n. 430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;430); [21 aprile 1949, n. 613](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;613); [1 settembre 1949, n. 816](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-01;816); [13 marzo 1950, n. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;599); [30 ottobre 1950, n. 1125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1125); [31 ottobre 1950, n. 1310](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1310); [30 giugno 1951, n. 1148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-30;1148); [27 ottobre 1951, n. 1794](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1794); [25 luglio 1952, n. 1352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1352); [16 ottobre 1952, n. 4554](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-16;4554); [26 ottobre 1952, n. 4506](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4506); [30 ottobre 1952, n. 4483](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-30;4483); [11 marzo 1953, n. 573](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;573) e [11 marzo 1953, n. 576](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;576);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -228,100 +70,22 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-All'art. 66 vengono aggiunti i seguenti numeri:  
-n. 15. Anestesia;  
-n. 16. Medicina interna;  
-n. 17. Patologia generale;  
-n. 18. Tisiologia.  
-Dopo l'art. 102 vengono aggiunti i seguenti articoli:  
-Anestesia.  
-Art. 103. - Per il conseguimento del diploma di specialista in anestesia, si richiedono due anni di corso con internato.  
-Art. 104. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
-1° anno:  
-1) anatomia, - con speciale riguardo alla topografia dei nervi periferici;  
-2) fisiologia - del sistema cardiovascolare, del sistema respiratorio e del sistema nervoso;  
-3) farmacologia, - con particolare riguardo ai narcotici, ipnotici, anestetici ad azione locale, vari alcaloidi, cardiocinetici ed analettici respiratori;  
-4) generalita' e tecnica della narcosi;  
-5) generalita' e tecnica delle anestesie periferiche, rachianestesia, anestesie plessiche regionali, anestesie locali, ecc. 2° anno:  
-1) generalita' e tecnica della narcosi (biennale)  
-2) generalita' e tecnica delle anestesie periferiche (biennale);  
-3) anestesia del parto;  
-4) patogenesi del dolore e metodi di terapia antalgica;  
-5) trattamento pre, intra e post operatorio con speciale riguardo alla trasfusione del sangue.  
-Art. 105. - Lo specializzando per accedere al secondo anno della scuola di specializzazione deve aver superato gli esami del primo anno.  
-Art. 106. - Al corso di specializzazione possono essere iscritti cinque allievi per anno.  
-Medicina interna.  
-Art. 107. - Per il conseguimento del diploma di specialita' in medicina interna si richiedono cinque anni di corso.  
-Art. 108. - Gli insegnamenti impartiti nelle scuole sono i seguenti:  
-1° anno:  
-1) clinica medica;  
-2) anatomia patologica;  
-3) parassitologia medica;  
-4) chimica per clinica.  
-2° anno:  
-1) clinica medica;  
-2) patologia e semeiotica cardiovascolare e renale;  
-3) ematologia;  
-4) batterioscopia, e sierologia clinica.  
-3° anno:  
-1) clinica medica;  
-2) patologia e semeiotica apparato digerente;  
-3) malattie infettive;  
-4) semeiotica oculare.  
-4° anno:  
-1) clinica medica;  
-2) patologia e semeiotica polmonare;  
-3) climatologia, e idrologia;  
-4) diagnostica e radiologia.  
-5° anno:  
-1) clinica medica;  
-2) patologia e semeiotica neurologica;  
-3) terapia medica.  
-Art. 109. - L'internato si svolgera' presso l'Istituto in clinica medica generale dell'Universita' di Torino.  
-Patologia generale.  
-Art. 110. - Per il conseguimento del diploma di perfezionamento in patologia generale si richiedono due anni di corso con internato.  
-Alla scuola di perfezionamento vengono ammessi solo i laureati in medicina e chirurgia. L'insegnamento si svolge nell'Istituto di patologia generale dell'Universita'. Gli iscritti alla scuola hanno l'obbligo di frequentare tutti gli insegnamenti teorici e le esercitazioni pratiche impartite dai professori.  
-Art. 111. Gli insegnamenti impartiti nella scuola sono i seguenti: 1° anno:  
-1) patologia generale (eziologia, cipatologia, eucologia);  
-2) parassitologia;  
-3) batteriologia;  
-4) immunologia.  
-2° anno:  
-patologia generale (fisiopatologia);  
-biochimica;  
-istopatologia.  
-Art. 112. - Alla fine del primo e secondo anno i candidati dovranno sostenere un esame teorico sul programma svolto in ciascun insegnamento. Superati gli esami dei singoli insegnamenti per il conseguimento del diploma gli iscritti dovranno presentare e discutere innanzi ad una commissione formata da sette membri scelti fra gli insegnanti della scuola, una dissertazione su di un argomento di patologia generale, dopo aver superata una prova pratica sperimentale.  
-Tisiologia.  
-Art. 113. - Per il conseguimento del diploma di specializzazione in tisiologia e malattie dell'apparato respiratorio si richiedono due anni di corso con internato.  
-Art. 114. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
-1° anno:  
-1) tisiologia;  
-2) clinica delle malattie non tubercolari dell'apparato respiratorio;  
-3) radiologia dell'apparato respiratorio;  
-4) anatomia e istologia patologica;  
-5) diagnostica di laboratorio;  
-6) igiene e assistenza sociale nel campo tubercolare;  
-7) terapia medica.  
-2° anno:  
-1) tisiologia;  
-2) radiologia dell'apparato respiratorio;  
-3) la tubercolosi nell'infanzia;  
-4) la tubercolosi in gravidanza;  
-5) tecnica sanatoriale e dispensariale;  
-6) collassoterapia;  
-7) terapia chirurgia.  
-Art. 115. - L'internato si svolgera' presso l'Istituto di clinica medica generale dell'Universita' di Torino, comprendendo anche la frequenza, nell'Ospedale sanatorio San Luigi, ove puo' essere svolta e dimostrata la parte tecnica sanatoriale e dispensariale.  
+  
+Art. 15. - Il primo comma e' sostituito dal seguente "Sono annessi alla Facolta' di giurisprudenza i tre seguenti Istituti:  
+Istituto giuridico;  
+Laboratorio di economia politica;  
+Istituto di scienze politiche".  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta, ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Dogliani, addi' 21 aprile 1949
+### Dato a Roma, addi' 2 marzo 1954
 
-EINAUDI GONELLA
+EINAUDI MARTINO
 
-Visto, il Guardasigilli: GRASSI
+Visto, il Guardasigilli: DE PIETRO
 
-Registrato alla Corte dei conti, addi' 7 settembre 1949
+Registrato alla Corte dei conti, addi' 10 maggio 1954
 
-Atti del Governo, registro n. 29, foglio n. 126. - FRASCA
+Atti del Governo, registro n. 83, foglio n. 35. - CARLOMAGNO

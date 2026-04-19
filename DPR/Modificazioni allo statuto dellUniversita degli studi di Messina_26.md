@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1970 n. 512
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1964 n. 675
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1970 n. 512
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1964 n. 675
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
@@ -17,7 +17,7 @@ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regi
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -25,31 +25,31 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 28. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti i seguenti:  
   
-Art. 21, relativo al corso di laurea in economia e commercio e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente:  
-"Superata la prova scritta, la prova orale potra' essere sostenuta nella stessa sessione e nelle sessioni successive dell'anno accademico in corso e dei successivi, e senza che l'eventuale esito negativo obblighi alla ripetizione della prova scritta".  
-Art. 22, relativo alle propedeuticita' di esami e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente:  
-"Gli insegnamenti propedeutici debbono precedere per l'esame gli insegnamenti cui servono di preparazione".  
-Art. 24, relativo alle norme sull'esame di laurea e' modificato nel senso che e' abrogata la lettera b) e pertanto assume la seguente formulazione:  
-"L'esame di laurea consiste nella discussione orale di una dissertazione scritta su un tema che rientri in uno degli insegnamenti fondamentali o complementari impartiti nella facolta', escluse le lingue straniere".  
-Art. 40. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia e' aggiunto quello di "Psico-pedagogia".  
-Art. 41. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:  
-Lingue e letterature ispano-americane;  
-Lingue e letterature scandinave.  
-Art. 53. - All'elenco degli insegnamenti complementari del corso di laurea in fisica e' aggiunto quello di "Sismologia" per l'indirizzo applicativo.  
-Art. 54. - All'elenco degli insegnamenti complementari del corso di laurea in chimica, indirizzo organico-biologico, e' aggiunto quello di "Analisi chimiche-biologico-cliniche".  
-Art. 55. - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di "Sismologia".  
+Storia contemporanea;  
+Storia e geografia dell'Asia orientale;  
+Indologia;  
+Dialettologia italiana.  
+Art. 33. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere moderne sono aggiunti i seguenti:  
+  
+Indologia;  
+Dialettologia italiana.  
+Art. 39. - Agli insegnamenti complementari del corso di laurea in Materie letterarie e' aggiunto quello di "Cultura greca".  
+Art. 40. - Agli insegnamenti complementari del corso di laurea in Pedagogia e' aggiunto quello di "Cultura greca".  
+Art. 48. - Agli insegnamenti complementari del corso di laurea in Medicina e Chirurgia e' aggiunto quello di "Patologia ostetrica e ginecologica".  
+Art. 52. - Agli insegnamenti complementari del corso di laurea in Matematica - indirizzo didattico 1° gruppo - e' aggiunto quello di "Geometria superiore".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 maggio 1970
+### Dato a Roma, addi' 12 luglio 1964
 
-SARAGAT MISASI
+SEGNI GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 10 luglio 1970
+Registrato alla Corte dei conti, addi' 7 agosto 1964
 
-Atti del Governo, registro n. 236, foglio n. 146. - CARUSO
+Atti del Governo, registro n. 185, foglio n. 16. - VILLA

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1972 n. 744
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1957 n. 1169
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1972 n. 744
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1957 n. 1169
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successivi;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,7 +18,11 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduta la [legge 26 luglio 1957, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-07-26;741);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,149 +34,129 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 132. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola in "Chirurgia d'urgenza e di pronto soccorso".
+L'art. 16 e' cosi' modificato:
 
-Dopo l'art. 225 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso.
+"La Facolta' di lettere e filosofia conferisce la laurea in lettere, la laurea in filosofia e la laurea in lingue e letterature straniere moderne ad indirizzo europeo".
 
-Scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso
+Dopo l'art. 18 e' aggiunto il seguente nuovo articolo, relativo alla istituzione del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo), con il conseguente spostamento della numerazione degli articoli successivi.
 
-Art. 226. - La scuola di specializzazione in chirurgia generale d'urgenza e di pronto soccorso ha sede presso l'istituto di chirurgia d'urgenza dell'Universita' di Milano, ospedale Policlinico, via F.
+Corso di laurea in lingue e letterature straniere moderne
 
-Sforza, 33, Milano.
+(indirizzo europeo)
 
-Art. 227. - Il corso degli studi per il conseguimento del diploma di specialista in chirurgia generale d'urgenza e di pronto soccorso ha la durata di due anni accademici.
+Art. 19. - La durata del corso degli studi per la laurea in lingue e letterature straniere moderne ad indirizzo europeo e' di quattro anni. E' titolo di ammissione il diploma di maturita' classica.
 
-Art. 228. - Alla scuola possono iscriversi: i laureati in medicina e chirurgia che abbiano superato gli esami del terzo anno della scuola di specializzazione in chirurgia e che saranno pertanto esclusi dalla prosecuzione di quest'ultima; gli specialisti in chirurgia; i docenti in branche chirurgiche a indirizzo clinico. Il numero massimo degli iscritti alla scuola e' di quindici (15) per ogni anno di corso per un totale di trenta (30) iscritti.
+Insegnamenti fondamentali:
 
-Art. 229. - Le materie di insegnamento del corso sono le seguenti:
+1) Letteratura italiana;
 
-1) Chirurgia generale d'urgenza e di pronto soccorso (biennale);
+2) Letteratura latina;
 
-2) Chirurgia cardio-vascolare d'urgenza;
+3) Glottologia;
 
-3) Chirurgia ginecologica d'urgenza;
+4) Una lingua e letteratura straniera moderna;
 
-4) Chirurgia plastica e riparatrice (biennale);
+5) Una seconda lingua e letteratura straniera moderna;
 
-5) Chirurgia pediatrica d'urgenza;
+6) Filologia romanza (o germanica, o slava, o ugrofinnica)
 
-6) Chirurgia toracica d'urgenza (biennale);
+7) Storia medioevale;
 
-7) Chirurgia urologica d'urgenza;
+8) Storia moderna;
 
-8) Fisiopatologia del politraumatizzato;
+9) Storia dell'arte medioevale e moderna;
 
-9) Neurotraumatologia (biennale);
+10) Geografia;
 
-10) Radiologia;
+Insegnamenti complementari (quando non siano scelti come fondamentali ai su indicati numeri 4, 5 e 6):
 
-11) Rianimazione;
+1) Lingua e letteratura francese;
 
-12) Ricerche di laboratorio in chirurgia d'urgenza;
+2) Lingua e letteratura spagnola;
 
-13) Semeiologia chirurgica nell'urgenza;
+3) Lingua e letteratura romena;
 
-14) Trattamento del politraumatizzato;
+4) Lingua e letteratura inglese;
 
-15) Trattamento pre e postoperatorio in chirurgia d'urgenza;
+5) Lingua e letteratura tedesca;
 
-16) Traumatologia dell'apparato locomotore (biennale);
+6) Lingue e letterature scandinave;
 
-17) Traumatologia maxillo-facciale;
+7) Lingua e letteratura russa;
 
-18) Valutazione medico-legale delle lesioni chirurgiche.
+8) Lingua e letteratura polacca;
 
-Art. 230. - Le materie sopra elencate sono cosi' distribuite:
+9) Lingua e letteratura ungherese;
 
-1° Anno:
+10) Lingua e letteratura neo-greca;
 
-1) Chirurgia generale d'urgenza e di pronto soccorso (biennale);
+11) Filologia romanza;
 
-2) Chirurgia cardio-vascolare d'urgenza;
+12) Filologia germanica;
 
-3) Chirurgia ginecologica d'urgenza;
+13) Filologia slava;
 
-4) Chirurgia pediatrica d'urgenza;
+14) Storia della lingua italiana;
 
-5) Chirurgia plastica e riparatrice (biennale);
+15) Storia della musica;
 
-6) Chirurgia toracica d'urgenza (biennale);
+16) Letteratura greca;
 
-7) Neurotraumatologia (biennale);
+17) Lingua e letteratura latina medioevale;
 
-8) Ricerche di laboratorio in chirurgia d'urgenza;
+18) Filologia bizantina;
 
-9) Radiologia;
+19) Storia romana;
 
-10) Semeiologia chirurgica d'urgenza;
+20) Storia greca;
 
-11) Traumatologia dell'apparato locomotore (biennale);
+21) Storia della filosofia;
 
-12) Trattamento pre e postoperatorio in chirurgia d'urgenza.
+22) Filosofia del linguaggio.
 
-2° Anno:
+Lo studente dovra' seguire i corsi e sostenere gli esami in tutti gli insegnamenti fondamentali ed in tre altri insegnamenti da lui scelti fra i complementari. Uno degli insegnamenti complementari potra' essere sostituito dallo studente con una disciplina di altri corsi di studi della stessa o di diversa Facolta'.
 
-1) Chirurgia generale d'urgenza e di pronto soccorso (biennale);
+L'insegnamento della lingua e letteratura straniera moderna, alla quale lo studente intende principalmente dedicarsi, dovra' essere seguito per tutti i quattro anni, alla fine di ciascuno dei quali egli sara' sottoposto a prove scritte, di anno in anno gradualmente progressive.
 
-2) Chirurgia plastica e riparatrice (biennale);
+Dovranno poi essere seguiti per due anni l'insegnamento della filologia, a cui quella stessa prima lingua si ricollega e l'insegnamento della seconda lingua e letteratura straniera moderna prescelta. Due altri insegnamenti fondamentali dovranno pure essere seguiti per un biennio. Lo studente potra' poi seguire per un biennio anche un altro insegnamento; ed in tal caso potra' ridurre da tre a due gli insegnamenti complementari di sua scelta.
 
-3) Chirurgia toracica d'urgenza (biennale);
+Gli esami di letteratura italiana e di letteratura latina comprendono una prova scritta preliminare.
 
-4) Chirurgia urologica d'urgenza;
+Nella Facolta' dove gli insegnamenti di storia medioevale e di storia moderna sono riuniti in un'unica cattedra, i corsi rispettivi debbono essere tenuti alternativamente.
 
-5) Neurotraumatologia (biennale);
+Il preside, sentita, ove ritenga, la Facolta', deve controllare i piani di studio presentati dagli studenti ed approvarli prima che siano resi definitivi.
 
-6) Traumatologia maxillo-facciale;
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in tutti gli altri insegnamenti compresi nel piano di studi approvato dal preside.
 
-7) Traumatologia dell'apparato locomotore (biennale);
-
-8) Fisiopatologia del politraumatizzato;
-
-9) Trattamento del politraumatizzato;
-
-10) Rianimazione;
-
-11) Valutazione medico-legale delle lesioni chirurgiche.
-
-Art. 231. - La frequenza alle lezioni ed alle esercitazioni e ai seminari e' obbligatoria per tutti gli iscritti.
-
-L'internato e' obbligatorio durante tutti i due anni del corso sotto forma di permanenza costante in istituto durante le ore della sua attivita'.
-
-Tale internato avra' la durata annuale di almeno 6 mesi.
-
-Dall'obbligo di tale internato potranno essere esentati, valutato caso per caso, quegli allievi che, in qualita' di assistenti o di aiuti, prestino effettivamente servizio presso reparti di chirurgia d'urgenza e di pronto soccorso delle universita' e di ospedali generali regionali o provinciali.
-
-Art. 232. - Alla fine del 1° anno di corso gli specializzandi, per poter ottenere l'ammissione all'anno successivo, dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno in corso.
-
-Art. 233. - L'esame di diploma consiste nella discussione di una tesi scritta su un tema preventivamente approvato dal direttore della scuola.
-
-Le norme per l'iscrizione, gli esami, le tasse, ecc. sono quelle generali per la scuola di specializzazione della Universita' di Milano.
+Nel diploma di laurea dovra' farsi esplicita menzione della lingua e letteratura, a cui il laureato si e' specialmente dedicato.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 17 ottobre 1972
+Dato a Roma, addi' 26 ottobre 1957
 
-LEONE
+GRONCHI
 
-SCALFARO
+MORO
 
 Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 29 novembre 1972 Atti del Governo, registro n. 253, foglio n. 93. - CARUSO
+alla Corte dei conti, addi' 12 dicembre 1957. Atti del Governo, registro n. 109, foglio n. 102. - RELLEVA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successivi;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Veduta la [legge 26 luglio 1957, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-07-26;741);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -180,78 +164,68 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 132. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola in "Chirurgia d'urgenza e di pronto soccorso".  
-Dopo l'art. 225 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso.  
   
-Scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso  
+L'art. 16 e' cosi' modificato:  
+"La Facolta' di lettere e filosofia conferisce la laurea in lettere, la laurea in filosofia e la laurea in lingue e letterature straniere moderne ad indirizzo europeo".  
+Dopo l'art. 18 e' aggiunto il seguente nuovo articolo, relativo alla istituzione del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo), con il conseguente spostamento della numerazione degli articoli successivi.  
   
-Art. 226. - La scuola di specializzazione in chirurgia generale d'urgenza e di pronto soccorso ha sede presso l'istituto di chirurgia d'urgenza dell'Universita' di Milano, ospedale Policlinico, via F.  
-Sforza, 33, Milano.  
-Art. 227. - Il corso degli studi per il conseguimento del diploma di specialista in chirurgia generale d'urgenza e di pronto soccorso ha la durata di due anni accademici.  
-Art. 228. - Alla scuola possono iscriversi: i laureati in medicina e chirurgia che abbiano superato gli esami del terzo anno della scuola di specializzazione in chirurgia e che saranno pertanto esclusi dalla prosecuzione di quest'ultima; gli specialisti in chirurgia; i docenti in branche chirurgiche a indirizzo clinico. Il numero massimo degli iscritti alla scuola e' di quindici (15) per ogni anno di corso per un totale di trenta (30) iscritti.  
-Art. 229. - Le materie di insegnamento del corso sono le seguenti:  
-1) Chirurgia generale d'urgenza e di pronto soccorso (biennale);  
-2) Chirurgia cardio-vascolare d'urgenza;  
-3) Chirurgia ginecologica d'urgenza;  
-4) Chirurgia plastica e riparatrice (biennale);  
-5) Chirurgia pediatrica d'urgenza;  
-6) Chirurgia toracica d'urgenza (biennale);  
-7) Chirurgia urologica d'urgenza;  
-8) Fisiopatologia del politraumatizzato;  
-9) Neurotraumatologia (biennale);  
-10) Radiologia;  
-11) Rianimazione;  
-12) Ricerche di laboratorio in chirurgia d'urgenza;  
-13) Semeiologia chirurgica nell'urgenza;  
-14) Trattamento del politraumatizzato;  
-15) Trattamento pre e postoperatorio in chirurgia d'urgenza;  
-16) Traumatologia dell'apparato locomotore (biennale);  
-17) Traumatologia maxillo-facciale;  
-18) Valutazione medico-legale delle lesioni chirurgiche.  
-Art. 230. - Le materie sopra elencate sono cosi' distribuite:  
-1° Anno:  
-1) Chirurgia generale d'urgenza e di pronto soccorso (biennale);  
-2) Chirurgia cardio-vascolare d'urgenza;  
-3) Chirurgia ginecologica d'urgenza;  
-4) Chirurgia pediatrica d'urgenza;  
-5) Chirurgia plastica e riparatrice (biennale);  
-6) Chirurgia toracica d'urgenza (biennale);  
-7) Neurotraumatologia (biennale);  
-8) Ricerche di laboratorio in chirurgia d'urgenza;  
-9) Radiologia;  
-10) Semeiologia chirurgica d'urgenza;  
-11) Traumatologia dell'apparato locomotore (biennale);  
-12) Trattamento pre e postoperatorio in chirurgia d'urgenza.  
-2° Anno:  
-1) Chirurgia generale d'urgenza e di pronto soccorso (biennale);  
-2) Chirurgia plastica e riparatrice (biennale);  
-3) Chirurgia toracica d'urgenza (biennale);  
-4) Chirurgia urologica d'urgenza;  
-5) Neurotraumatologia (biennale);  
-6) Traumatologia maxillo-facciale;  
-7) Traumatologia dell'apparato locomotore (biennale);  
-8) Fisiopatologia del politraumatizzato;  
-9) Trattamento del politraumatizzato;  
-10) Rianimazione;  
-11) Valutazione medico-legale delle lesioni chirurgiche.  
-Art. 231. - La frequenza alle lezioni ed alle esercitazioni e ai seminari e' obbligatoria per tutti gli iscritti.  
-L'internato e' obbligatorio durante tutti i due anni del corso sotto forma di permanenza costante in istituto durante le ore della sua attivita'.  
-Tale internato avra' la durata annuale di almeno 6 mesi.  
-Dall'obbligo di tale internato potranno essere esentati, valutato caso per caso, quegli allievi che, in qualita' di assistenti o di aiuti, prestino effettivamente servizio presso reparti di chirurgia d'urgenza e di pronto soccorso delle universita' e di ospedali generali regionali o provinciali.  
-Art. 232. - Alla fine del 1° anno di corso gli specializzandi, per poter ottenere l'ammissione all'anno successivo, dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno in corso.  
-Art. 233. - L'esame di diploma consiste nella discussione di una tesi scritta su un tema preventivamente approvato dal direttore della scuola.  
-Le norme per l'iscrizione, gli esami, le tasse, ecc. sono quelle generali per la scuola di specializzazione della Universita' di Milano.  
+Corso di laurea in lingue e letterature straniere moderne  
+(indirizzo europeo)  
+  
+Art. 19. - La durata del corso degli studi per la laurea in lingue e letterature straniere moderne ad indirizzo europeo e' di quattro anni. E' titolo di ammissione il diploma di maturita' classica.  
+Insegnamenti fondamentali:  
+1) Letteratura italiana;  
+2) Letteratura latina;  
+3) Glottologia;  
+4) Una lingua e letteratura straniera moderna;  
+5) Una seconda lingua e letteratura straniera moderna;  
+6) Filologia romanza (o germanica, o slava, o ugrofinnica)  
+7) Storia medioevale;  
+8) Storia moderna;  
+9) Storia dell'arte medioevale e moderna;  
+10) Geografia;  
+Insegnamenti complementari (quando non siano scelti come fondamentali ai su indicati numeri 4, 5 e 6):  
+1) Lingua e letteratura francese;  
+2) Lingua e letteratura spagnola;  
+3) Lingua e letteratura romena;  
+4) Lingua e letteratura inglese;  
+5) Lingua e letteratura tedesca;  
+6) Lingue e letterature scandinave;  
+7) Lingua e letteratura russa;  
+8) Lingua e letteratura polacca;  
+9) Lingua e letteratura ungherese;  
+10) Lingua e letteratura neo-greca;  
+11) Filologia romanza;  
+12) Filologia germanica;  
+13) Filologia slava;  
+14) Storia della lingua italiana;  
+15) Storia della musica;  
+16) Letteratura greca;  
+17) Lingua e letteratura latina medioevale;  
+18) Filologia bizantina;  
+19) Storia romana;  
+20) Storia greca;  
+21) Storia della filosofia;  
+22) Filosofia del linguaggio.  
+Lo studente dovra' seguire i corsi e sostenere gli esami in tutti gli insegnamenti fondamentali ed in tre altri insegnamenti da lui scelti fra i complementari. Uno degli insegnamenti complementari potra' essere sostituito dallo studente con una disciplina di altri corsi di studi della stessa o di diversa Facolta'.  
+L'insegnamento della lingua e letteratura straniera moderna, alla quale lo studente intende principalmente dedicarsi, dovra' essere seguito per tutti i quattro anni, alla fine di ciascuno dei quali egli sara' sottoposto a prove scritte, di anno in anno gradualmente progressive.  
+Dovranno poi essere seguiti per due anni l'insegnamento della filologia, a cui quella stessa prima lingua si ricollega e l'insegnamento della seconda lingua e letteratura straniera moderna prescelta. Due altri insegnamenti fondamentali dovranno pure essere seguiti per un biennio. Lo studente potra' poi seguire per un biennio anche un altro insegnamento; ed in tal caso potra' ridurre da tre a due gli insegnamenti complementari di sua scelta.  
+Gli esami di letteratura italiana e di letteratura latina comprendono una prova scritta preliminare.  
+Nella Facolta' dove gli insegnamenti di storia medioevale e di storia moderna sono riuniti in un'unica cattedra, i corsi rispettivi debbono essere tenuti alternativamente.  
+Il preside, sentita, ove ritenga, la Facolta', deve controllare i piani di studio presentati dagli studenti ed approvarli prima che siano resi definitivi.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in tutti gli altri insegnamenti compresi nel piano di studi approvato dal preside.  
+Nel diploma di laurea dovra' farsi esplicita menzione della lingua e letteratura, a cui il laureato si e' specialmente dedicato.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 ottobre 1972
+### Dato a Roma, addi' 26 ottobre 1957
 
-LEONE SCALFARO
+GRONCHI MORO
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 29 novembre 1972
+Registrato alla Corte dei conti, addi' 12 dicembre 1957.
 
-Atti del Governo, registro n. 253, foglio n. 93. - CARUSO
+Atti del Governo, registro n. 109, foglio n. 102. - RELLEVA

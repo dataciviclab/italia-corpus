@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 839
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 gennaio 1980 n. 611
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 839
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 gennaio 1980 n. 611
+==============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,9 +12,9 @@ Art. 1
 
 N.
 
-839. Decreto del Presidente della Repubblica 22 settembre 1981, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato, consistente in un appezzamento di terreno della superficie di mq. 2865, sito in comune di Pollein (Aosta), destinato alla costruzione di una caserma della guardia di finanza, disposta dalla S.p.a.  
-Autoporto Valle d'Aosta con atto 24 marzo 1980, n. 37527 di repertorio a rogito dottor Guido Marcoz, notaio in Morgex (Aosta).  
+611. Decreto del Presidente della Repubblica 15 gennaio 1980, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione disposta dalle signore Beatrice e Olga Capogrossi come da atto 1 giugno 1977, n. 20 di repertorio, a rogito dott.  
+Giovanni Gilardoni, notaio in Roma, consistente in una collezione composta di un gruppo di cinque opere, le quali rivestono un importante interesse artistico, da destinare alla Galleria nazionale d'arte moderna e contemporanea in Roma.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 12 gennaio 1982  
-Registro n. 2 Finanze, foglio n. 127
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 7 luglio 1980  
+Registro n. 11 Beni culturali, foglio n. 152

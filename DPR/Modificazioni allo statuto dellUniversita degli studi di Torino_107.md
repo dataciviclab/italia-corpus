@@ -1,140 +1,154 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1980 n. 665
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1216
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1980 n. 665
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1216
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933 n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio universitario nazionale nei suoi pareri;
-
-Sentito il parere del Consiglio universitario nazionale Veduto il [parere della sezione prima del Consiglio di Stato n. 1902/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
-
-Considerato che non appare opportuno, al momento procedere ad una generale revisione delle norme statutarie di tutti gli atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' di Torino approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
-Lo statuto dell'Universita' di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli 179, 180, 181, relativi alla scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio, sono soppressi e sostituiti dai seguenti:   
-Art. 179. - E' istituita presso la facolta' di medicina e chirurgia dell'Universita' degli studi di Torino la scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio.   
-La scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio ha la durata di quattro anni ed ha sede presso l'istituto di medicina interna, clinica medica I.   
-La durata del corso di studi non e' suscettibile di abbreviazione.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione, ed, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-In circostanze eccezionali, per il migliore funzionamento della scuola, la direzione della scuola, su parere del consiglio di facolta', puo' essere affidata al professore ufficiale incaricato della materia oppure ad un docente di chiara fama nazionale ed internazionale rispetto alla disciplina d'insegnamento.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti. Il numero massimo di iscritti e' di dieci per ogni anno di corso.   
-L'ammissione viene stabilita mediante prova scritta e valutazione dei titoli.   
-Art. 180. - Le materie d'insegnamento sono le seguenti:   
-1° Anno:   
-anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) (I);   
-patologia della tubercolosi polmonare ed extra-polmonare;   
-patologia delle malattie dell'apparato respiratorio;.   
-fisiologia e fisiopatologia generale dell'apparato respiratorio; semeiotica fisica e funzionale dell'apparato respiratorio;   
-microbiologia;   
-epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.   
-2° Anno:   
-anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) (II);   
-clinica della tubercolosi (triennale) (I);   
-clinica delle malattie dell'apparato respiratorio (triennale) (I);   
-fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;   
-broncologia;   
-radiologia dell'apparato respiratorio;   
-profilassi della tubercolosi;   
-igiene e legislazione sociale.   
-3° Anno:   
-clinica delle malattie dell'apparato respiratorio (triennale) (II);   
-clinica della tubercolosi (triennale) (II);   
-chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;   
-terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;   
-terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.   
-4° Anno:   
-clinica delle malattie dell'apparato respiratorio (triennale) (III);   
-clinica della tubercolosi (triennale) (III).   
-Art. 181. - I corsi di insegnamento sono integrati da conferenze, da esercitazioni pratiche a fini di apprendimento, da seminari interdisciplinari (questi ultimi prevalentemente destinati al quarto anno), per i quali gli allievi hanno l'obbligo di frequenza al pari delle lezioni.   
-Alla fine di ogni anno di corso gli allievi devono sostenere una prova di esame sulle materie del rispettivo anno.   
-Alla fine del quarto anno, gli allievi devono sostenere un esame di diploma.   
-I candidati al diploma devono presentare una dissertazione scritta su un argomento assegnato dal direttore o da uno degli insegnanti della scuola.   
-Per quanto non previsto valgono le norme generali relative alle scuole di specializzazione contenute nel vigente statuto dell'Universita' degli studi di Torino.   
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Gli articoli 210 e 211, relativi alla scuola di specializzazione in urologia, sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in urologia  
+  
+Art. 210. - La durata del corso di specializzazione e' fissata in cinque anni. Il numero degli iscritti e' stabilito in sedici complessivamente. Per l'iscrizione e' richiesto il diploma di laurea in medicina e chirurgia. I candidati dovranno sostenere un esame di ammissione che dimostri la loro preparazione culturale di base e saranno tenuti nel debito conto eventuali titoli preferenziali (esame, voto e tesi di laurea in urologia, eventuali pubblicazioni nella specialita', ecc.) che il candidato riterra' opportuno esibire.  
+Non sono concesse abbreviazioni di corso.  
+I trasferimenti da una scuola all'altra saranno disciplinati con norme opportune.  
+L'insegnamento sara' impartito nell'ambito dell'istituto clinico cui fa capo la scuola.  
+La frequenza alle lezioni ufficiali dei corsi e' obbligatoria come pure quella alle esercitazioni, alle sedute operatorie e nelle corsie. Sara' disciplinata secondo opportuni turni e secondo le necessita' e disponibilita' della scuola.  
+La frequenza sara' documentata mediante l'istituzione di un libretto su cui saranno registrate le presenze alle lezioni ed alle esercitazioni.  
+Su tale libretto dovranno anche essere elencati il tipo ed il numero delle prestazioni che lo specializzando deve aver eseguito al termine del corso.  
+Art. 211. - Le materie di insegnamento dovranno essere uniformate secondo l'allegato piano di studio.  
+Al termine di ciascun anno di corso gli specializzandi dovranno sostenere un esame di profitto sulle materie previste dal piano di studio secondo l'allegato programma di esami.  
+Superati tutti gli esami di profitto previsti dal piano di studi i candidati dovranno sostenere un esame di diploma che consistera' nella discussione di una dissertazione originale scritta. A coloro che abbiano superato tale esame verra' rilasciato il diploma di specialista in urologia.
 
-Art. 2
-------
+|  |  |
+| --- | --- |
+| Insegnamenti | Esami |
+| 1° Anno: |  |
+| 1) anatomia sistematica e topografica dello apparato urinario e genitale maschile | 1) anatomia sistematica e topografica dell'apparato urinario e genitale maschile |
+| 2) fisiologia dell'apparato urinario e genitale maschile | 2) fisiologia dell'apparato urinario e genitale maschile |
+| 3) batteriologia in urologia | 3) batteriologia in urologia |
+| 4) semeiotica funzionale e strumentale dell'apparato uro-genitale I |  |
+| 2° Anno: |  |
+| 1) semeiotica funzionale e strumentale dello apparato uro-genitale II | 1) semeiotica funzionale e strumentale dell'apparato uro-genitale |
+| 2) le nefropatie mediche | 2) le nefropatie mediche |
+| 3) anatomia chirurgica dell'apparato urinario e genitale maschile | 3) anatomia chirurgica dell'apparato urinario genitale maschile |
+| 4) patologia dell'apparato urinario e genitale maschile I |  |
+| 5) radiologia dell'apparato urinario e genitale maschile I |  |
+| 3° Anno: |  |
+| 1) patologia dell'apparato urinario e genitale maschile II | 1) patologia dell'apparato urinario e genitale maschile |
+| 2) radiologia dell'apparato urinario e genitale maschile II | 2) radiologia dell'apparato urinario e genitale maschile |
+| 3) le affezioni cutanee e veneree nei riguardi dell'urologia | 3) le affezioni cutanee e veneree nei riguardi dell'urologia |
+| 4) andrologia | 4) andrologia |
+| 4° Anno: |  |
+| 1) anatomia e istologia patologica dell'apparato urinario e genitale maschile | 1) anatomia e istologia patologica dell'apparato urinario e genitale maschile |
+| 2) farmacoterapia delle affezioni uro-genitali | 2) farmacoterapia delle affezioni uro-genitali |
+| 3) anestesia e trattamento pre e post operatorio del malato urologico | 3) anestesia e trattamento pre e post operatorio del malato urologico |
+| 4) nefrologia chirurgica | 4) nefrologia chirurgica |
+| 5) clinica urologica I |  |
+| 6) procedimenti di chirurgia endoscopica I |  |
+| 7) interventi e procedimenti operatori sull'apparato urinario e genitale maschile I |  |
+| 5° Anno: |  |
+| 1) clinica urologica II | 1) clinica urologica |
+| 2) patologia e clinica urologica infantile | 2) patologia e clinica urologica infantile |
+| 3) urologia ginecologica | 3) urologia ginecologica |
+| 4) procedimenti di chirurgia endoscopica II | 4) interventi e procedimenti operatori sull'apparato urinario e genitale maschile |
+| 5) la chirurgia dell'intestino |  |
+| 6) la chirurgia vascolare |  |
 
   
-Dopo l'art. 305, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in fisioterapia.  
-Scuola di specializzazione in fisioterapia  
-Art. 306. - La scuola di specializzazione in fisioterapia ha sede presso l'istituto di clinica ortopedica traumatologica dell'Universita' di Torino, nel centro traumatologico ortopedico e di malattie sociali e del lavoro. La scuola conferisce il diploma di specialista in fisioterapia.  
-La durata dei corsi e' di tre anni.  
-Alla scuola vengono ammessi i laureati in medicina e chirurgia; e' richiesto, per l'iscrizione al corso, il possesso del diploma di abilitazione all'esercizio professionale. Il numero complessivo degli iscritti ai tre anni di corso non puo' essere superiore a ventiquattro (otto per anno). Non sono consentite iscrizioni alla scuola con abbreviazioni di corso. Gli iscritti hanno l'obbligo di frequentare i corsi ufficiali e le esercitazioni; e' inoltre obbligatorio per gli iscritti ai corsi la frequenza alle esercitazioni pratiche presso l'istituto di clinica ortopedica in modo continuativo per dieci mesi all'anno.  
-Gli allievi hanno dovere di frequenza presso l'istituto con presenza giornaliera nell'ambulatorio e nei reparti di fisioterapia.  
-Per i corsi che non possono essere dimostrati presso la clinica ortopedica, possono essere stabiliti su parere del direttore della scuola periodi di continuativa frequenza presso i relativi reparti specialistici, qualora siano costituiti in reparti indipendenti ed abbiano adeguata attrezzatura per la F.K.T. (neurologia - centri di recupero spastici - fisiopatologia respiratoria - otorinolaringologia - reumatologia - oculistica etc.).  
-Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni e sui turni di servizio interno.  
-Per essere ammesso a frequentare il corso il candidato deve superare un esame di ammissione.  
-Art. 307. - Gli insegnamenti obbligatori impartiti dalla scuola sono i seguenti:  
+  
+Gli articoli 274, 275 e 276, relativi alla scuola di specializzazione in microbiologia, sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in microbiologia  
+  
+Art. 274. - La scuola di specializzazione in microbiologia ha lo scopo di allargare e approfondire sul piano scientifico la cultura di coloro che si dedicano allo studio di questa disciplina e di fornire sul piano tecnico una preparazione pratica specifica.  
+Sono ammessi alla scuola i laureati in medicina e chirurgia.  
+Il corso ha la durata di quattro anni ed ha luogo presso l'istituto di microbiologia della facolta' di medicina e chirurgia. La scuola e' diretta da un professore di ruolo straordinario, ordinario o fuori ruolo di microbiologia della facolta' di medicina e chirurgia.  
+La durata complessiva del corso di studi non e' suscettibile di abbreviazioni.  
+E' contemplato un secondo indirizzo in tecniche microbiologiche al quale sono ammessi i laureati in medicina veterinaria, scienze biologiche, scienze naturali, farmacia, chimica e tecnologie farmaceutiche.  
+Il numero degli iscritti e' di sessanta specializzandi per i quattro anni di corso. L'ammissione alla scuola e' condizionata al superamento di una prova di esame.  
+Art. 275. - Il direttore della scuola puo' nominare un vice direttore che lo coadiuvi e lo supplisca e un segretario.  
+Gli insegnamenti impartiti nella scuola sono:  
+  
+I BIENNIO  
+(comune ai due indirizzi)  
+  
 1° Anno:  
-principi di anatomia funzionale (propedeutico per tutte le materie di base degli anni successivi e per quelle facoltative);  
-fisiopatologia dell'apparato neuromotore (propedeutico per tutte le materie di base degli anni successivi e per quelle facoltative).  
+1) batteriologia generale I;  
+2) tecniche batteriologiche;  
+3) immunologia generale;  
+4) genetica dei microrganismi.  
 2° Anno:  
-semeiotica e clinica delle motulesioni neurologiche (propedeutico per tutte le materie di base degli anni successivi e per quelle facoltative);  
-semeiotica e clinica delle deformita' e motulesioni ortopediche (propedeutico per tutte le materie di base degli anni successivi e per quelle facoltative);  
-massoterapia e terapia manuale;  
-cinesiologia e chinesiterapia e ginnastica medica;  
-idro e balneo terapia.  
+5) batteriologia generale II;  
+6) antibiotici e chemioterapici;  
+7) virologia generale;  
+8) immunologia generale e tecniche immunologiche;  
+9) dosaggio biologico e analisi statistica.  
+  
+II BIENNIO  
+(indirizzo medico)  
+  
 3° Anno:  
-elettroterapia ed elettrologia;  
-terapia con onde corte ed altri mezzi fisici;  
-rieducazione motoria e riabilitazione in campo ortopedico e traumatologico;  
-rieducazione motoria e riabilitazione in campo neurologico.  
-Art. 308. - Le materie facoltative qui di seguito elencate potranno essere distribuite nel secondo e terzo anno secondo delle necessita' della scuola previa approvazione del consiglio di facolta':  
-2° Anno:  
-elettromiografia;  
-problemi psicologici e psicopatologici della riabilitazione;  
-medicina assicurativa;  
-climatoterapia.  
+10) microrganismi patogeni e malattia;  
+11) batteriologia speciale I;  
+12) virologia speciale e tecniche virologiche;  
+13) micologia medica;  
+14) epidemiologia delle malattie infettive.  
+4° Anno:  
+15) batteriologia speciale II;  
+16) sierologia;  
+17) microbiologia degli alimenti;  
+18) microbiologia dell'ambiente;  
+19) protozoologia medica.  
+  
+II BIENNIO  
+(indirizzo in tecniche microbiologiche)  
+  
 3° Anno:  
-cinesiterapia e riabilitazione nelle malattie internistiche;  
-rieducazione respiratoria;  
-riabilitazione nei disturbi del linguaggio;  
-rieducazione nei disturbi della visione;  
-problemi della riabilitazione geriatrica;  
-riqualificazione professionale.  
-Art. 309. - Per accedere ai corsi successivi al primo anno e' obbligatorio il superamento di tutti gli esami del corso precedente ivi comprese le materie opzionali (almeno due). Gli esami possono essere sostenuti solamente in due sessioni, una estiva ed una autunnale, e comunque non oltre il trenta novembre dell'anno in corso.  
-Il diploma viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico o sperimentale.  
-Il consiglio di amministrazione dell'Universita', su proposta del direttore della scuola, approvata dal consiglio di facolta', stabilira', di anno in anno, l'ammontare dei contributi.  
+10) azione patogena dei microrganismi;  
+11) tecniche batteriologiche e batteriologia speciale I;  
+12) micologia generale e tecniche micologiche;  
+13) tecniche virologiche e virologia speciale;  
+14) protozoologia.  
+4° Anno:  
+15) tecniche batteriologiche e batteriologia speciale II;  
+16) microbiologia industriale;  
+17) esame microbiologico degli alimenti;  
+18) controllo microbiologico degli alimenti;  
+19) tecniche sierologiche.  
+Art. 276. - Il direttore puo' stabilire, per piu' proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari di conferenze su materie e argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola.  
+L'esame di diploma constera' di una discussione sopra una tesi scritta. I candidati non riconosciuti idonei, potranno ripresentarsi dopo un altro anno di frequenza alla scuola. A coloro che abbiano superato l'esame finale verra' rilasciato un diploma di specialista in microbiologia o, per i non laureati in medicina e chirurgia, un diploma di specialista in microbiologia con indirizzo tecnico.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 giugno 1980
+### Dato a Roma, addi' 31 ottobre 1977
 
-PERTINI SARTI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 17 ottobre 1980
+Registrato alla Corte dei conti, addi' 27 giugno 1978
 
-Registro n. 95 Istruzione, foglio n. 105
+Registro n. 67 Istruzione, foglio n. 346

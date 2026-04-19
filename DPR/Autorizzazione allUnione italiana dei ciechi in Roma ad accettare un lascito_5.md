@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 novembre 1981 n. 827
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 dicembre 1979 n. 812
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 novembre 1981 n. 827
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 dicembre 1979 n. 812
 ===============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un lascito.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-827. Decreto del Presidente della Repubblica 16 novembre 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare, col beneficio d'inventario, il lascito, consistente in 386 azioni Fondiaria vita per un valore di L. 10.422.000 alla data del 16 dicembre 1975, disposto dalla sig.na Rachele Ines Alessio Gilodi con testamento olografo 18 ottobre 1975, pubblicato in data 22 dicembre 1975, n. 49749 di repertorio e n. 8367 di raccolta, a rogito dott. Giuseppe Gunnella, notaio in Firenze, registrato a Firenze il 24 dicembre 1975 al n. 8160.  
+812. Decreto del Presidente della Repubblica 13 dicembre 1979, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il lascito, consistente nella meta' del valore di sei certificati obbligazionari e due libretti di risparmio pari a L. 3.742.000, disposto dalla sig.na Angela Gnocchi a favore dei ciechi di don Gnocchi centro di Varese, che si identifica con il centro don Gnocchi che e' un servizio speciale dell'Unione italiana dei ciechi come ha fatto presente il presidente dell'Unione, con testamento olografo 6 gennaio 1974, pubblicato in data 7 maggio 1974, n. 63113 di repertorio, a rogito dott. Edo Franco Ferrazzi, notaio in Gallarate (Varese), e registrato a Gallarate in data 22 maggio 1974 al n. 1507, vol. 218.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 6 gennaio 1982  
-Registro n. 1 Presidenza, foglio n. 1
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 8 marzo 1980  
+Registro n. 2 Presidenza, foglio n. 189

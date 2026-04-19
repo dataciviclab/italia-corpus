@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1951 n. 1233
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 agosto 1951 n. 857
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1951 n. 1233
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 agosto 1951 n. 857
+=============================================================
 
 Trasferimento in proprieta' all'Opera per la valorizzazione della Sila di terreni di proprieta' di Berlingieri Giulio fu Pietro, in comune di Crotone (Catanzaro).
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -10,13 +10,13 @@ Trasferimento in proprieta' all'Opera per la valorizzazione della Sila di terren
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Visti gli articoli 77, comma, primo, ed [87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5) della Repubblica;
+Visti gli [articoli 77, comma primo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77-com1), ed [87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5) della Repubblica;
 
 Vista la [legge 12 maggio 1950, n. 230, e l'art. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art16) della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
 
 In virtu' della delegazione concessa con l'[art. 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5);
 
-Udito il parere in data 11 settembre 1951, della Commissione parlamentare, nominata a norma dell'art. 5 della legge 12 maggio 1950, la quale ha esaminato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di Crotone (provincia, di Catanzaro), della superficie di Ha. 1640.57.74, nei confronti di Berlingieri Giulio fu Pietro;
+Udito il parere, in data 5 giugno 1951, della Commissione parlamentare, nominata a norma dell'[art. 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), la quale ha esaminato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di Crotone (Catanzaro), della superficie di Ha. 120.76.70, nei confronti di Berlingieri Giulio fu Pietro;
 
 Sentito il Consiglio dei Ministri;
 
@@ -29,48 +29,47 @@ Art. 1
 ------
 
   
-E' approvato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di Crotone (provincia di Catanzaro), della superficie di Ha. 1640.57.74, nei confronti di Berlingieri Giulio fu Pietro.  
+E' approvato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di Crotone (Catanzaro), della superficie di Ha. 120.76.70, nei confronti di Berlingieri Giulio fu Pietro.  
 
 Art. 2
 ------
 
   
-I terreni, indicati nel precedente articolo e specifica-~ mente designati nell'elenco unito al presente decreto, sono trasferiti in proprieta' all'Opera, per la valorizzazione della Sila.  
+E' ordinata la immediata occupazione, da parte dell'Opera per la valorizzazione della Sila, dei terreni, di cui al precedente art. 1, confinanti a nord, con la strada vicinale Capo Colonna; ad est, con proprieta' di Berlingieri Giulio fu Pietro, a sud, con proprieta' di quest'ultimo, di Lucifero Antonio Arduino fu Armando, Zurlo Stanislao fu Gaetano e Berlingieri Giulio fu Pietro; ad ovest, con le proprieta' di Zurlo Stanislao fu Gaetano e di Lucifero Antonio Arduino fu Armando.  
 
 Art. 3
 ------
 
   
-E' ordinata la immediata occupazione, da parte dell'Opera, per la valorizzazione della Sila, dei terreni indicati nei precedenti articoli 1 e 2.  
+I terreni di cui sopra sono trasferiti in proprieta' all'Opera per la valorizzazione della Sila.  
 
 Art. 4
 ------
 
   
-L'elenco dei terreni, con l'indicazione dell'indennita', di espropriazione offerta, munito del visto del Ministro proponente, forma parte integrante del presente decreto, che entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
+L'elenco dei terreni, compresi nel piano di espropriazione di cui all'art. 1, con l'indicazione dell'indennita' offerta, munito del visto del Ministro proponente, forma parte integrante del presente decreto, che entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 novembre 1951
+### Dato a Roma, addi' 12 agosto 1951
 
 EINAUDI DE GASPERI - FANFANI
 
 Visto, il Guardasigilli: ZOLI
 
-Registrato alla Corte dei conti, addi' 26 novembre 1951
+Registrato alla Corte dei conti, addi' 13 settembre 1951
 
-Atti del Governo, registro n. 46, foglio n. 21. - FRASCA
+Atti del Governo, registro n. 43, foglio n. 42. - CARLOMAGNO
 
 Elenco
 
  COMUNE DI CROTONE (Catanzaro)   
-  
-Elenco dei terreni espropriati nei confronti di Berlingieri Giulio fu Pietro a termini degli [articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art1) e [2 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art2)
-  
+Elenco dei terreni espropriati nei confronti di Berlingieri Giulio fu Pietro a termini degli [articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art1) e [2 ed alla legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art2)
   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=051U123300100010110001&dgu=1951-11-29&art.dataPubblicazioneGazzetta=1951-11-29&art.codiceRedazionale=051U1233)
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=051U085700100010110001&dgu=1951-09-14&art.dataPubblicazioneGazzetta=1951-09-14&art.codiceRedazionale=051U0857)
   

@@ -1,76 +1,205 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 929
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 luglio 1979 n. 493
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 929
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 luglio 1979 n. 493
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato e modificato con [regio decreto 4 ottobre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-04;2280), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
   
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 148 - l'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola di specializzazione in angiologia ed in angiologia e chirurgia vascolare muta la denominazione in quella di scuola di specializzazione in chirurgia vascolare.  
+Allo stesso elenco sono aggiunte le scuole di specializzazione in foniatria ed otorinolaringoiatria (seconda scuola).  
+
+Art. 2
+------
+
   
-Art. 28 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia vengono aggiunti i seguenti:  
-chirurgia sostitutiva dei trapianti di organo e di organi artificiali;  
-cardiologia;  
-neurocitologia.  
-Art. 31 - all'elenco degli insegnamenti complementari del corso di laurea in chimica, indirizzo organico-biologico, e' aggiunto l'insegnamento di:  
-chimica dei composti eterociclici.  
-Dopo l'art. 392 vengono aggiunti i seguenti nuovi articoli relativi all'istituzione della scuola diretta a fini speciali per tecnici audioprotesisti.  
-Art. 393. - La durata del corso di studi della scuola per audioprotesisti e' di due anni.  
-L'indirizzo e' teorico-pratico.  
-Per l'ammissione alla scuola si richiede il diploma di perito industriale o titolo equipollente o superiore.  
-Alla scuola si accede previo esame di perfetta dizione di lingua italiana e di cultura generale. La commissione giudicatrice sara' composta dal direttore della scuola e da due docenti in audiologia o O.R.L.  
-Gli iscritti ad ogni anno di corso saranno dieci.  
-Art. 394. - Il direttore della scuola e' il titolare della cattedra di audiologia dell'Universita' di Milano; la scuola e' sotto tutela della facolta' di medicina e chirurgia dell'Universita' di Milano.  
-Gli insegnanti sono proposti dal direttore della scuola e scelti tra i titolari di altre cattedre della facolta' di medicina e chirurgia dell'Universita' di Milano, tra i liberi docenti in audiologia od in altre materie o tra persone, anche al di fuori dell'ambito universitario, aventi particolari competenze sulle materie del corso.  
-Art. 395. - Le materie di insegnamento sono le seguenti:  
+Gli articoli 166, 167, 168, 169, 170, relativi alla scuola di specializzazione in angiologia ed in angiologia e chirurgia vascolare, che muta la denominazione in quella di scuola di specializzazione in chirurgia vascolare, sono soppressi e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in chirurgia vascolare  
+Art. 166. - La scuola di specializzazione in chirurgia vascolare ha sede presso l'istituto di chirurgia vascolare dell'Universita' presso gli istituti clinici di perfezionamento, via Commenda, 12 e conferisce il diploma di specializzazione in chirurgia vascolare.  
+Art. 167. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine, nominato dalla facolta'.  
+Art. 168. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.  
+Il numero massimo degli allievi e' di quindici per anno di corso e complessivamente di settantacinque iscritti per l'intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami, secondo le norme dello statuto universitario.  
+Art. 169. - Le materie di insegnamento sono le seguenti:  
 1° Anno:  
-nozioni di fisica acustica;  
-anatomia e fisiologia dell'orecchio medio e interno;  
-audiometria clinica;  
-la protesi acustica.  
+1) embriologia, anatomia macro e microscopica dell'apparato vascolare;  
+2) fisiopatologia dell'apparato vascolare e della coagulazione sanguigna;  
+3) anatomia patologica dell'apparato vascolare;  
+4) semeiologia fisica e strumentale delle malattie vascolari;  
+5) semeiologia radiologica delle malattie vascolari;  
+6) vasculopatie di interesse medico e specialistico;  
 2° Anno:  
-cause e quadro clinico-audiometrico della sordita';  
-indicazione alla terapia protesica della sordita';  
-l'applicazione della protesi acustica (aspetti tecnici);  
-psicologia del soggetto sordo.  
-Art. 396. - Gli allievi sono obbligati a frequentare l'istituto di audiologia dell'Universita' di Milano o sedi, anche al di fuori dell'Universita', approvate dal direttore della scuola.  
-Seguiti i corsi e superati gli esami in tutti gli insegnamenti prescritti gli allievi sono ammessi a sostenere l'esame di diploma.  
-Le commissioni esaminatrici per gli esami di profitto sono nominate, su proposta del direttore della scuola, dal preside della facolta' di medicina e chirurgia.  
-Art. 397. - L'esame di diploma consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento della scuola ed in una prova pratica stabilita dalla commissione esaminatrice.  
-L'esame di diploma viene sostenuto davanti ad una commissione di cinque membri scelti tra i docenti della scuola, dal preside della facolta' di medicina e chirurgia. Ogni commissario ha a disposizione 10 punti.  
-I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola.  
-Verra' rilasciato agli allievi che avranno superato l'esame finale il diploma di audioprotesista.  
-Art. 398. - Il consiglio di amministrazione dell'Universita', su proposta della direzione della scuola, approvata dal consiglio di facolta', stabilira' di anno in anno l'ammontare dei contributi. Le tasse e soprattasse restano cosi' determinate:  
+7) patologia e clinica delle malattie del sistema arterioso;  
+8) patologia e clinica delle malattie del sistema venoso;  
+9) patologia e clinica delle malattie del sistema linfatico;  
+10) patologia e clinica delle malattie dei piccoli vasi;  
+3° Anno:  
+11) nozioni di terapia medica delle malattie vascolari;  
+12) terapia chirurgica delle malattie vascolari;  
+13) chirurgia vascolare applicata a malattie dei vari organi I; 4° Anno:  
+14) informatica medica;  
+15) rianimazione e terapia intensiva;  
+16) patologia e clinica vascolare pediatrica I;  
+17) epidemiologia delle malattie vascolari;  
+18) elementi di legislazione sanitaria comunitaria;  
+19) chirurgia vascolare applicata a malattie dei vari organi II;  
+5° Anno:  
+20) elementi di bioingegneria applicati al circolo;  
+21) principi e tecnica di circolazione extracorporea;  
+22) terapia intensiva;  
+23) patologia e clinica vascolare pediatrica II;  
+24) tecniche chirurgiche applicate alla patologia vascolare;  
+25) chirurgia vascolare applicata a malattie dei vari organi III.  
+Art. 170. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.  
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
+Alla fine di ogni corso gli iscritti per essere ammessi all'anno di corso successivo devono superare un esame di profitto comprensivo delle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in chirurgia vascolare gli interessati devono superare l'esame di diploma di specializzazione consistente nella discussione di una dissertazione scritta su un argomento attinente alla specializzazione approvata dal direttore della scuola.  
+
+Art. 3
+------
+
   
-tassa annuale di iscrizione . . . . . . . . . . . . . . L. 10.000 soprattassa annuale di esami . . . . . . . . . . . . . . L. 5.000 tassa di diploma . . . . . . . . . . . . . . . . . . . . L. 6.012 tassa annuale per studente fuori corso . . . . . . . . . L. 3.000   
+L'art. 234, relativo alla scuola di specializzazione in medicina nucleare, e' soppresso e sostituito dal seguente:  
+  
+Scuola di specializzazione in medicina nucleare  
+Art. 234. - La scuola di specializzazione in medicina nucleare ha sede presso l'istituto di scienze radiologiche ed e' diretta dal professore di ruolo o fuori ruolo della stessa materia o, in carenza, di materia affine.  
+Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso del diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione.  
+Non sono ammesse abbreviazioni di corso.  
+La scuola conferisce il diploma di specialista in medicina nucleare.  
+Gli anni di studio necessari per conseguire questo titolo sono tre.  
+Gli insegnamenti per il conseguimento del diploma di specialista in medicina nucleare sono cosi' distribuiti nei tre anni di corso:  
+1° Anno:  
+a) fisica: con richiami di matematica, nozioni di statistica, informatica e dosimetria;  
+b) radiobiologia, legislazione e norme generali di radioprotezione;  
+c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;  
+d) nozioni di anatomia e fisiologia generale.  
+2° Anno:  
+a) teoria dei traccianti;  
+b) elementi di radiochimica;  
+c) applicazioni di diagnostica (I);  
+d) tecniche di misura di radioattivita'.  
+3° Anno:  
+a) applicazioni diagnostiche (II);  
+b) applicazioni terapeutiche;  
+c) radioprotezione e legislazione applicate.  
+Il numero massimo di iscritti in corso alla scuola e' di dieci per anno di corso e complessivamente di trenta iscritti per l'intero corso di studi.  
+La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei. L'insegnamento e' svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti ecc. Gli allievi, per essere ammessi a sostenere gli esami delle singole materie, devono avere la firma di frequenza da parte del direttore della scuola stessa.  
+Gli allievi al termine di ogni anno devono superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.  
+Gli allievi per conseguire il diploma di specializzazione oltre ad essere stati approvati in tutti gli esami, devono elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.  
+
+Art. 4
+------
+
+  
+Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in foniatria ed in otorinolaringoiatria (seconda scuola).  
+  
+Scuola di specializzazione in foniatria  
+Art. 265. - La scuola di specializzazione in foniatria ha sede presso l'istituto di clinica otorinolaringoiatrica dell'Universita' di Milano.  
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+La scuola e' retta secondo le norme del regolamento generale delle scuole di specializzazione dell'Universita' di Milano.  
+Art. 266. - La durata del corso e' di tre anni. L'indirizzo e' teorico-pratico. Il numero massimo di iscritti e' di quindici (cinque per anno). La durata del corso non e' suscettibile di abbreviazione.  
+Art. 267. - L'ammissione al corso e' per titoli ed esami;  
+titolo necessario per l'ammissione al corso e' la laurea in medicina e chirurgia e possesso, all'inizio del corso, del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Art. 268. - Alla fine di ciascun anno scolastico gli specializzandi devono sostenere un esame di profitto il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo e, per quelli che sono iscritti all'ultimo anno, per poter accedere all'esame di diploma. Alla fine del terzo anno del corso ha luogo l'esame di diploma, consistente nella preparazione e discussione di una dissertazione scritta su di un argomento di foniatria previamente concordato tra il diplomando e il direttore della scuola.  
+Art. 269. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1° Anno:  
+anatomia dei sistemi uditivo e fonatorio;  
+fisiologia dei sistemi uditivo e fonatorio;  
+fonetica ed elementi di linguistica;  
+clinica otorinolaringoiatrica;  
+elementi di fisica acustica;  
+audiologia.  
+2° Anno:  
+foniatria I;  
+semeiotica foniatrica;  
+elementi di psicologia generale;  
+psicologia del linguaggio;  
+fonetica sperimentale;  
+tecnica di riabilitazione fonetica I.  
+3° Anno:  
+foniatria II;  
+tecnica di riabilitazione fonetica II;  
+informatica del linguaggio;  
+disturbi del linguaggio in rapporto alle sindromi neurologiche; neuropsichiatria infantile;  
+psicometria in rapporto alla foniatria;  
+fonochirurgia.  
+Per tasse, soprattasse e contributi si fa riferimento alle norme statutarie in vigore.  
+  
+Scuola di specializzazione in otorinolaringoiatria (seconda scuola) Art. 270. - La seconda scuola di specializzazione in otorinolaringoiatria ha sede presso la seconda clinica otorinolaringoiatrica dell'Universita' di Milano.  
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+La scuola e' retta secondo le norme del regolamento generale delle scuole di specializzazione dell'Universita' di Milano.  
+La durata del corso e' di tre anni. Il numero dei posti e' fissato in dieci per ogni anno di corso. Non sono ammesse abbreviazioni di corso.  
+L'ammissione al corso e' per titoli ed esami; titolo necessario per l'ammissione al corso e' la laurea in medicina e chirurgia e possesso, all'inizio del corso, del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Alla fine di ciascun anno scolastico gli specializzandi devono sostenere un esame di profitto il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo e, per quelli che sono iscritti all'ultimo anno, per poter sostenere l'esame di diploma consistente nella preparazione e discussione di una dissertazione scritta su di un argomento di otorinolaringoiatria previamente concordato tra il diplomando e il direttore della scuola.  
+E' obbligatoria la frequenza giornaliera per un minimo di quattro ore.  
+Le materie di insegnamento sono:  
+1° Anno:  
+anatomia;  
+fisiologia;  
+audiologia (1° anno);  
+semeiotica otorinolaringoiatrica;  
+tecnica di laboratorio;  
+patologia e clinica otorinolaringoiatrica e cervicofacciale (1° anno);  
+anatomia ed istologia patologica otorinolaringoiatrica.  
+2° Anno:  
+tecniche operatorie in otorinolaringoiatria;  
+anestesiologia in otorinolaringoiatria;  
+patologia e clinica otorinolaringoiatrica e cervicofacciale (2° anno);  
+radiologia in rapporto con l'otorinolaringoiatria;  
+audiologia (2° anno);  
+otoneurologia;  
+foniatria.  
+3° Anno:  
+patologia e clinica otorinolaringoiatrica e cervicofacciale (3° anno);  
+terapia medica e fisica in otorinolaringoiatria;  
+neuropatologia in rapporto con l'otorinolaringoiatria;  
+oculistica in rapporto con l'otorinolaringoiatria;  
+chirurgia plastica;  
+tracheo-broncoscopia;  
+medicina legale ed infortunistica in otorinolaringoiatria.  
+  
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1975
+### Dato a Roma, addi' 20 luglio 1979
 
-LEONE MALFATTI
+PERTINI SPADOLINI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 13 marzo 1976
+Registrato alla Corte dei conti, addi' 28 settembre 1979
 
-Atti di Governo, registro n. 4, foglio n. 8
+Registro n. 71 Istruzione, foglio n. 116

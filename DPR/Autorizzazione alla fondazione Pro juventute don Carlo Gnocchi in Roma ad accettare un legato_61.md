@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 febbraio 1979 n. 119
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1982 n. 780
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 febbraio 1979 n. 119
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1982 n. 780
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-119. Decreto del Presidente della Repubblica 19 febbraio 1979, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Zelmira Bianchi ved. Bottarelli a favore dell'istituto don Gnocchi per i mutilatini, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", con testamento pubblico del 18 giugno 1968 del notaio dott. Antonio Viglino e pubblicato dallo stesso notaio con verbale di registrazione di testamento pubblico del 31 ottobre 1968, n. 11476 di repertorio e n. 2383 di raccolta, registrato ad Arona il 18 novembre 1968, al n. 985, vol. 139, mod. 1, consistente nella somma di L. 500.000.  
+780. Decreto del Presidente della Repubblica 2 agosto 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in obbligazioni I.R.I. 5,50% 1963-83 per nominali L. 1.000.000, disposto dalla sig.ra Righettini Maria Giovanna ved. Lucchette a favore della fondazione "Pro juventute", in Milano, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione suddetta in data 28 novembre 1980, con testamento olografo 14 aprile 1976, pubblicato il 7 ottobre 1980, n. 11219 di repertorio e n. 1975 di raccolta, a rogito dott. Giuseppe Pedone, notaio in Milano, registrato a Milano il 13 ottobre 1980 al n. 20523/ M.   
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 6 aprile 1979  
-Registro n. 3 Presidenza, foglio n. 60
+Visto, il Guardasigilli: DARIDA   
+Registrato alla Corte dei conti, addi' 21 ottobre 1982   
+Registro n. 9 Presidenza, foglio n. 251

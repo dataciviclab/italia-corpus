@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 settembre 1977 n. 917
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1975 n. 601
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 settembre 1977 n. 917
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1975 n. 601
 ================================================================
 
 Recupero e nuova assegnazione di un posto di assistente ordinario.
@@ -10,15 +10,13 @@ Recupero e nuova assegnazione di un posto di assistente ordinario.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Visto il [decreto del Presidente della Repubblica 11 dicembre 1965, n. 1504](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-12-11;1504), registrato alla Cortei dei conti, addi' 13 gennaio 1966, registro n. 199, foglio n. 61, con il quale fu assegnato, fra gli altri, un posto di assistente ordinario alla cattedra di chimica farmaceutica e tossicologica della facolta' di farmacia dell'Universita' di Catania;
+Visto il decreto ministeriale 22 maggio 1971, registrato alla Corte dei conti, addi' 12 ottobre 1971, registro n. 63, foglio n. 241, con il quale fu assegnato, per trasferimento, un posto di assistente ordinario alla cattedra di storia delle dottrine politiche della facolta' di magistero dell'Universita' degli studi di Bari;
 
-Visto il decreto del rettore dell'Universita' degli studi di Catania in data 2 agosto 1977, registrato alla Corte dei conti regionale di Palermo, addi' 17 agosto 1977, registro n. 14, foglio n.
+Vista la nota del rettore dell'Ateneo di Bari del 3 luglio 1975 ed i relativi allegati, dalla quale risulta che il posto in questione e' rimasto inutilizzato fin dal momento dell'assegnazione alla citata cattedra per la mancata attivazione dell'insegnamento;
 
-82, per effetto del quale il dott. Pasquale Condorelli, gia' titolare del suddetto posto, e' dichiarato cessato per volontarie dimissioni a decorrere dal 1 luglio 1977;
+Considerato pertanto che non si e' provveduto alla copertura del posto nei termini fissati dall'ultimo comma dell'[art. 13 della legge 18 marzo 1958, n. 349](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-18;349~art13);
 
-Ritenuta la necessita' ed opportunita' di provvedere alla utilizzazione del posto prima del termine previsto dall'[art. 3 della legge 30 novembre 1973, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766~art3);
-
-Considerata l'esigenza rappresentata dal titolare della cattedra di filosofia del diritto della facolta' di scienze politiche dell'Universita' degli studi di Roma di acquisire un posto di assistente ordinario al fine di consentire un'attivita' didattica e scientifica funzionale alla presenza dell'elevato numero degli studenti che attualmente frequentano l'insegnamento;
+Ritenuto che per tale ragione siano venuti meno i motivi che a suo tempo determinarono l'assegnazione del posto alla cattedra in questione;
 
 Sulla
 -----
@@ -30,24 +28,25 @@ Art. 1
 
   
   
-Il posto di assistente ordinario gia' assegnato con [decreto del Presidente della Repubblica 11 dicembre 1965, n. 1504](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-12-11;1504), registrato alla Corte dei conti, addi' 13 gennaio 1966, registro n. 199, foglio n. 61, reso disponibile a seguito delle volontarie dimissioni del dott. Pasquale Condorelli, a decorrere dal 1° luglio 1977, e' recuperato dalla cattedra di chimica farmaceutica e tossicologica della facolta' di farmacia dell'Universita' degli studi di Catania. 
+Il posto di assistente ordinario gia' assegnato per trasferimento, con decreto ministeriale 22 maggio 1971 alla cattedra di storia delle dottrine politiche della facolta' di magistero dell'Universita' degli studi di Bari, e' recuperato.   
 
 Art. 2
 ------
 
   
-Il posto di assistente sopra Specificato e' contestualmente assegnato alla cattedra di filosofia del diritto della facolta' di scienze politiche dell'Universita' degli studi di Roma.  
+  
+Il posto di assistente ordinario di cui al precedente articolo e' assegnato al corso sdoppiato della cattedra di anatomia chirurgica e corso di operazioni dell'Universita' di Roma, facolta' di medicina e chirurgia.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 settembre 1977
+### Dato a Roma, addi' 24 settembre 1975
 
 LEONE MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 20 dicembre 1977
+Registrato alla Corte dei conti, addi' 1 dicembre 1975
 
-Registro n. 144 Istruzione, foglio n. 157
+Atti di Governo, registro n. 14, foglio n. 98

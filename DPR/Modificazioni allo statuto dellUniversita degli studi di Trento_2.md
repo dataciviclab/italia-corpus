@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 maggio 1984 n. 707
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1986 n. 1124
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 maggio 1984 n. 707
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1986 n. 1124
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trento.
 ------------------------------------------------------------------
@@ -10,9 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Trento.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduta la [legge 14 agosto 1982, n. 590](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-14;590), concernente l'istituzione dell'Universita' statale di Trento;
-
-Veduto lo statuto dell'Universita' degli studi di Trento, approvato con decreto del Presidente della Repubblica 26 aprile 1984 in corso di registrazione;
+Veduto lo statuto dell'Universita' degli studi di Trento, approvato con [decreto del Presidente della Repubblica 26 aprile 1984, n. 487](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1984-04-26;487), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -24,182 +22,122 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Veduto il [decreto del Presidente della Repubblica 4 marzo 1982, n. 371](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-04;371);
-
 Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
-Veduta la proposta dello statuto formulata dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere della provincia autonoma di Trento, ai sensi dell'art. 40 della citata [legge n. 590/1982](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982;590);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trento e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Veduto il perdurare della sospensiva espressa dal Consiglio universitario nazionale nella seduta del 25 febbraio 1984 per quanto concerne l'istituzione dei corsi di laurea in ingegneria forestale ed in ingegneria dei materiali;
-
-Veduta la mozione n. 1, approvata in data 14 marzo 1984 dal consiglio della provincia autonoma di Trento, con la quale si impegna la giunta provinciale d'intesa con l'Universita' degli studi di Trento e il Ministero della pubblica istruzione, affinche' ancora con l'anno accademico 1984-85 vengano attivate le tre nuove facolta' di lettere, giurisprudenza, ingegneria";
-
-Veduta la [delibera in data 23 marzo 1984, n. 2255](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1984-03-23;2255), con la quale la giunta della provincia autonoma di Trento, tra l'altro, nell'esprimere il parere di competenza sullo statuto della locale Universita' degli studi, richiede "che lo statuto venga tempestivamente approvato nella sua globalita', invitando a tal fine il Consiglio universitario nazionale a volersi esprimere, a termini di legge, anche sui corsi di laurea in ingegneria forestale e dei materiali, in modo che si possa pervenire all'attivazione di tutte le nuove facolta' e relativi corsi di laurea previsti dalla [legge n. 590/1982](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982;590) cosi' da portare a compimento il disegno complessivo e unitario voluto dalla legge stessa per l'Universita' degli studi di Trento";
-
-Veduta la [legge 7 febbraio 1979, n. 31, art. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-07;31~art1), ultimo comma;
-
-Considerate le peculiari caratteristiche della provincia autonoma di Trento, nonche' la speciale struttura dell'Ateneo di Trento;
-
-Ravvisata l'urgenza di provvedere all'istituzione dei suddetti corsi di laurea perche' i medesimi possano essere attivati a decorrere dall'anno accademico 1984-85;
+Sentito il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 --------
 
-Lo statuto dell'Universita' degli studi di Trento, approvato con decreto del Presidente della Repubblica 26 aprile 1984 in corso di registrazione, e' rettificato ed integrato come segue:
+Lo statuto dell'Universita' degli studi di Trento, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 1
+------
 
   
+Dopo l'art. 60, con il conseguente scorrimento della numerazione degli articoli successivi, sono inseriti i seguenti articoli con l'intitolazione "Normativa generale - Scuole dirette a fini speciali":  
   
-Art. 37 - nella prima riga l'espressione: "potra' conferire" e' sostituita con l'espressione: "conferisce".   
-Dopo l'art. 40, con il conseguente scorrimento della numerazione degli articoli successivi, sono inseriti i seguenti articoli relativi all'istituzione dei corsi di laurea in ingegneria forestale ed in ingegneria dei materiali.   
-Art. 41. - Il corso di laurea in ingegneria forestale comprende i seguenti insegnamenti:   
-A) Obbligatori del primo e secondo anno:   
-1) analisi matematica I;   
-2) geometria I;   
-3) fisica I;   
-4) chimica;   
-5) disegno;   
-6) analisi matematica II;   
-7) meccanica razionale;   
-8) fisica II;   
-9) disegno II.   
-L'insegnamento di disegno II sostituisce geometria II ai sensi dell'[art. 2, commi 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53~art2-com2) e [4, del decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53~art2-com4).   
-B) Obbligatori del terzo, quarto e quinto anno:   
-a) sul piano nazionale:   
-10) scienza delle costruzioni;   
-11) meccanica applicata alle macchine e macchine;   
-12) fisica tecnica;   
-13) elettrotecnica;   
-14) idraulica;   
-15) tecnologia dei materiali e chimica applicata;   
-16) tecnica delle costruzioni;   
-17) architettura tecnica;   
-18) topografia;   
-19) geologia applicata con elementi di mineralogia e litologia (\*).   
-L'insegnamento contrassegnato con l'asterisco puo' aggiungersi a quelli previsti al secondo anno di corso, ai sensi dell'[art. 2, comma 3, del decreto del Presidente della Repubblica 31 marzo 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-03-31;53~art2-com3);   
-b) sul piano della facolta':   
-20) costruzioni idrauliche;   
-21) sistemazione dei bacini idrografici e conservazione del suolo;   
-22) selvicoltura con elementi di botanica forestale;   
-23) tecnologia del legno e dei materiali legnosi;   
-24) tecnica delle costruzioni in legno;   
-25) difesa della natura e dell'ambiente;   
-26) ingegneria del territorio;   
-c) insegnamenti a scelta dello studente secondo indirizzi di specializzazione per il completamento delle 29 annualita':   
-1) analisi dei costi e benefici applicata alla conservazione del suolo;   
-2) architettura del legno;   
-3) complementi di costruzioni idrauliche;   
-4) combustione;   
-5) conservazione e progettazione del paesaggio;   
-6) costruzioni asismiche;   
-7) costruzioni prefabbricate in legno;   
-8) degradazione e protezione dei materiali legnosi;   
-9) ecologia generale e forestale;   
-10) economia ed estimo;   
-11) elementi di calcolo numerico e programmazione;   
-12) fotogrammetria e cartografia;   
-13) frane e stabilita' dei pendii;   
-14) idrologia chimica;   
-15) idrologia forestale;   
-16) infrastrutture e industrie montane;   
-17) industrie chimiche del legno;   
-18) infrastrutture dei trasporti;   
-19) infrastrutture idrauliche;   
-20) meccanizzazione forestale;   
-21) normative e tecniche di controllo dei componenti in legno;   
-22) organizzazione del lavoro ed economia delle utilizzazioni forestali;   
-23) pedagogia forestale;   
-24) protezione civile delle foreste;   
-25) tecnica delle fondazioni e delle costruzioni in terra;   
-26) tecnologia ed industria cartaria;   
-27) tecnologia degli elementi costruttivi.   
-Art. 42. - Il corso di laurea in ingegneria dei materiali comprende i seguenti insegnamenti:   
-A) Obbligatori del primo e secondo anno:   
-1) analisi matematica I;   
-2) geometria I;   
-3) fisica I;   
-4) chimica;   
-5) disegno;   
-6) analisi matematica II;   
-7) meccanica razionale;   
-8) fisica II;   
-9) chimica organica.   
-L'insegnamento di chimica organica sostituisce geometria II ai sensi dell'[articolo 2, commi 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53~art2-com2) e [4, del decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53~art2-com4).   
-B) Obbligatori del terzo, quarto e quinto anno:   
-a) sul piano nazionale:   
-10) scienza delle costruzioni;   
-11) meccanica applicata alle macchine e macchine;   
-12) fisica tecnica;   
-13) elettrotecnica;   
-14) idraulica;   
-15) chimica applicata;   
-16) principi di ingegneria dei materiali;   
-17) analisi strumentale e prove sui materiali;   
-18) progettazione di impianti;   
-19) scienza dei materiali;   
-b) sul piano della facolta':   
-20) scienza e tecnologia dei materiali polimerici;   
-21) scienza e tecnologia dei materiali ceramici;   
-22) metallurgia;   
-23) fisica dello stato solido;   
-24) corrosione e protezione dei materiali;   
-25) economia e organizzazione aziendale;   
-26) elementi di calcolo numerico e programmazione (\*).   
-L'insegnamento contrassegnato con l'asterisco puo' aggiungersi a quelli previsti dal secondo anno di corso, ai sensi dell'[art. 2, comma 3, del decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53~art2-com3);   
-c) insegnamenti a scelta dello studente secondo indirizzi di specializzazione per il completamento delle 29 annualita':   
-1) biomateriali;   
-2) chimica applicata alla depurazione dell'ambiente;   
-3) chimica e tecnologia del vetro;   
-4) chimica macromolecolare e tecnologie degli Atti polimeri;   
-5) cementi e calcestruzzi;   
-6) combustibili e lubrificanti;   
-7) fisica delle superfici;   
-8) forni industriali;   
-9) igiene applicata dei materiali;   
-10) impianti chimici;   
-11) impianti meccanici;   
-12) materiali compositi;   
-13) materiali aerospaziali;   
-14) materiali per alte temperature;   
-15) materiali e tecnologie elettroniche;   
-16) materiali per elettrotecnica;   
-17) materiali per energie alternative;   
-18) materiali sinterizzati;   
-19) materie prime per l'industria estrattiva;   
-20) meccanica dei fluidi;   
-21) membrane impermeabili;   
-22) metallografia;   
-23) metallurgia dei materiali non ferrosi;   
-24) metodi matematici per l'ingegneria;   
-25) misure fisico-tecniche e controlli;   
-26) programmazione e controllo della produzione;   
-27) recupero e smaltimento dei materiali;   
-28) sicurezza del lavoro;   
-29) storia delle tecnologie dei materiali;   
-30) struttura della materia;   
-31) tecnologia dei materiali metallici;   
-32) tecnologia dei materiali nucleari;   
-33) tecnologie del petrolio e petrolchimica;   
-34) tecnologie elettrochimiche;   
-35) tecnologie delle materie plastiche, delle vernici e dei rivestimenti anticorrosivi;   
-36) teoria dell'elasticita' e della plasticita'.   
+NORMATIVA GENERALE  
+SCUOLE DIRETTE A FINI SPECIALI  
+  
+Art. 61. - Nell'Universita' di Trento sono istituite le seguenti scuole dirette a fini speciali:  
+  
+informatica.  
+  
+Art. 62. - Sono ammessi alle scuole dirette a fini speciali i diplomati degli istituti di istruzione secondaria di secondo grado in conformita' con le disposizioni vigenti per l'ammissione ai corsi di laurea, fatto salvo l'eventuale ulteriore requisito di ammissione previsto per le singole scuole, cioe' il possesso della specifica qualifica di base.  
+Il numero massimo degli iscrivibili per ciascuna scuola e' determinato a norma del precedente art. 20.  
+Art. 63. - Qualora il numero degli aspiranti sia superiore a quello dei posti disponibili, l'accesso alla scuola, nei limiti dei posti disponibili, e' subordinato al superamento di un esame consistente in una prova scritta che potra' svolgersi mediante domande e risposte multiple, integrata eventualmente da un colloquio e dalla valutazione, in misura non superiore al 30% del punteggio a disposizione della commissione esaminatrice, dei titoli di studio richiesti per l'ammissione. Le modalita' e il programma di tali prove vengono indicate nel bando di concorso per ciascuna scuola.  
+Sono ammessi ai corsi i candidati che in relazione al numero delle iscrizioni disponibili si siano collocati in posizione utile nella graduatoria compilata sulla base del punteggio complessivo riportato.  
+La commissione per l'esame di ammissione e' costituita da cinque professori di ruolo designati dal consiglio della scuola.  
+Art. 64. - L'importo delle tasse e sovrattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge.I contributi sono stabiliti anno per anno dal consiglio di amministrazione dell'Universita', sentito il consiglio della scuola.  
+Art. 65. - Sono organi della scuola il direttore e il consiglio della scuola.  
+Art. 66. - Il direttore ha la responsabilita' della scuola.  
+E' un professore di ruolo della scuola, di norma di prima fascia.  
+In caso di motivato impedimento dei professori di prima fascia la direzione e' affidata a professori di seconda fascia.  
+Il direttore e' eletto dal consiglio della scuola, di cui al successivo articolo; convoca il consiglio della scuola e lo presiede, ha nell'ambito della conduzione della scuola, le funzioni proprie dei presidenti di consiglio di corso di laurea.  
+Il direttore promuove, per la stipula attraverso il consiglio di amministrazione ed il rettore, le convenzioni per lo svolgimento delle attivita' di formazione. Per la gestione dei fondi a disposizione della scuola si applicano le norme dettate per gli istituti dal regolamento per l'amministrazione e la contabilita' generale dell'Universita'.  
+Il direttore dura in carica tre anni ed e' rieleggibile.  
+Nel manifesto annuale degli studi viene indicata la sede della direzione della scuola.  
+Art. 67. - Il consiglio della scuola e' composto da tutti i docenti di ruolo della scuola e dagli eventuali docenti a contratto, da una rappresentanza di tre studenti, eletti secondo quanto previsto dall'[art. 99 del decreto del Presidente della Repubblica n. 382/1980](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art99) e ai sensi dell'[art. 8 del decreto del Presidente della Repubblica n. 162/1982](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;162~art8), dalle altre componenti previste dall'[art. 94 del decreto del Presidente della Repubblica n. 382/1980](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art94).  
+In ogni caso al consiglio della scuola partecipa anche una rappresentanza dei ricercatori che svolgono attivita' nella scuola, secondo quanto previsto dall'[art. 8 del decreto del Presidente della Repubblica n. 162/1982](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;162~art8).  
+Art. 68. - Il consiglio della scuola ne conduce e coordina le attivita' con i consigli dei dipartimenti e delle facolta' interessati, inclusi la designazione dei docenti, l'affidamento degli insegnamenti e le eventuali proposte di contratti.  
+In prima istituzione, i docenti che costituiscono il consiglio della scuola vengono designati in rapporto agli insegnamenti da attivare con apposita delibera dei consigli di facolta' interessati, sentiti i consigli dei dipartimenti coinvolti.  
+Art. 69. - Lo studente e' tenuto a seguire tutti i corsi di lezione e a partecipare a tutte le attivita' pratiche e alle esercitazioni previste, per ciascun anno di corso, dal manifesto degli studi pubblicato annualmente dal consiglio della scuola nel quadro delle norme piu' sotto indicate.  
+La frequenza della scuola e' obbligatoria per tutti gli iscritti.  
+Le modalita' di accertamento della frequenza sono determinate nel manifesto degli studi.  
+Art. 70. - L'organizzazione didattica della scuola avviene con le modalita' e i limiti stabiliti dall'[art. 4 del decreto del Presidente della Repubblica n. 162/1982](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;162~art4); agli studenti della scuola si applicano le disposizioni di legge e di regolamento riguardanti gli studenti universitari ai sensi dell'[art. 10 del decreto del Presidente della Repubblica n. 162/1982](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;162~art10).  
+Art. 71. - Il corso si conclude con un esame di diploma consistente nella presentazione e discussione di un elaborato finalizzato alla professionalita' specifica predisposto sotto la guida di un docente.
+
+Art. 2
+------
+
+  
+Dopo l'art. 71 sono inseriti i seguenti articoli e intitolazione relativi all'istituzione della scuola diretta a fini speciali di informatica:  
+  
+Scuola diretta a fini speciali di informatica  
+  
+Art. 72. - E' istituita una scuola diretta a fini speciali di informatica presso l'Universita' di Trento.  
+La scuola ha il compito di preparare personale con competenze informatiche, in grado di affrontare i problemi connessi con il trattamento e la elaborazione dei dati.  
+La scuola rilascia il diploma in informatica.  
+Art. 73. - La scuola ha la durata di due anni. Ciascun anno prevede duecentocinquanta ore di insegnamento e duecentocinquanta ore di attivita' pratiche guidate.  
+Qualora vengano attivate iniziative di istruzione a distanza, a norma dell'[art. 92 del decreto del Presidente della Repubblica n. 382/1980](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art92), la durata del corso e' prorogabile a tre anni.  
+In base alle strutture disponibili in ambito universitario e a quelle acquisite attraverso convenzioni con enti pubblici e privati la scuola e' in grado di accettare un numero massimo di iscritti determinato a norma del precedente art. 20.  
+Qualora vengano attivate iniziative di istruzione a distanza si potranno avere iscrizioni separate, con le modalita' di cui al successivo art. 74, per un massimo di duecentocinquanta studenti per ogni anno di corso, oltre agli studenti ripetenti.  
+Art. 74. - Poiche' la struttura dell'eventuale sistema di istruzione a distanza potra' essere basata su una rete di centri di supporto territoriali, fermi restando i disposti degli articoli precedenti, potranno essere stabiliti contingenti di posti in riferimento a tali centri. Le modalita' di assegnazione degli studenti a distanza alle strutture di supporto sono definite nel bando annuale di concorso.  
+Art. 75. - Concorrono alla costituzione della scuola la facolta' di ingegneria, di scienze matematiche, fisiche e naturali, di economia e commercio, cui afferiscono gli insegnamenti.  
+Nel manifesto annuale degli studi viene indicata la sede della direzione della scuola.  
+Art. 76. - Gli insegnamenti impartiti sono i seguenti:  
+1° Anno:  
+istituzioni di matematica;  
+introduzione agli algoritmi e alla programmazione;  
+architettura degli elaboratori;  
+linguaggi e metodi di programmazione;  
+due insegnamenti scelti tra quelli opzionali.  
+2° Anno:  
+sistemi per l'elaborazione dei dati;  
+basi di dati;  
+sistemi informativi;  
+tre insegnamenti scelti tra quelli opzionali.  
+Gli insegnamenti opzionali sono i seguenti:  
+applicazioni della ricerca operativa;  
+applicazioni gestionali;  
+automazione degli uffici;  
+automazione industriale;  
+elementi di elettronica;  
+elementi di progettazione di sistemi digitali;  
+fondamenti di informatica;  
+matematica computazionale;  
+probabilita' e statistica;  
+sistemi operativi;  
+telematica e sistemi distribuiti.  
+Gli insegnamenti di sistemi per l'elaborazione dei dati e di sistemi informativi sono a prevalente carattere tecnico pratico.  
+Art. 77. - Gli insegnamenti prevedono attivita' pratiche che consistono in esercitazioni sulla materia trattata nel corso e in attivita' sperimentali.  
+Tutti gli insegnamenti sono semestrali. Per la scelta degli insegnamenti opzionali, all'inizio di ciascun anno gli studenti dovranno presentare un piano sulla base delle indicazioni contenute nel manifesto degli studi, che indichera' l'effettiva attivazione degli insegnamenti e la loro collocazione in aree culturali omogenee.  
+I piani di studio sono approvati dal consiglio della scuola.  
+Qualora vengano attivate iniziative di istruzione a distanza e la durata del corso venga prorogata a tre anni il consiglio della scuola indichera' la relativa ripartizione degli insegnamenti fra i tre anni del corso a distanza.  
+Art. 78. - L'attivita' pratica comporta esercitazioni pratiche guidate e al calcolatore relative alle materie di insegnamento.  
+Art. 79. - E' obbligatorio un tirocinio che si svolge sotto la guida di un docente, di massima nell'ambito di uno dei corsi opzionali dell'ultimo anno. Tale tirocinio ha la durata di almeno ottanta ore e consiste in un lavoro personale di progettazione di un sistema hardware o software.  
+Art. 80. - L'esame di diploma consiste nella presentazione e discussione di un elaborato predisposto durante il tirocinio.  
+Art. 81. - L'Universita', su proposta del consiglio della scuola, puo' stabilire convenzioni con enti pubblici o privati, con finalita' di sovvenzionamento o di utilizzazione di strutture extrauniversitarie per lo svolgimento di attivita' didattiche ai sensi del [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382) e del [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 maggio 1984
+### Dato a Roma, addi' 27 dicembre 1986
 
-PERTINI FALCUCCI
+COSSIGA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 15 ottobre 1984
+Visto, il Guardasigilli: ROGNONI
 
-Registro n. 62 Istruzione, foglio n. 35
+Registrato alla Corte dei conti, addi' 17 giugno 1987
+
+Registro n. 36 Istruzione, foglio n. 339

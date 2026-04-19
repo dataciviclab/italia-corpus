@@ -1,67 +1,90 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 marzo 1965 n. 434
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 912
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 marzo 1965 n. 434
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 912
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Camerino.
 --------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Camerino, approvato con [decreto del Presidente della Repubblica 10 novembre 1959, n. 1388](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-11-10;1388), e modificato con [decreto del Presidente della Repubblica 18 agosto 1962, n. 1392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-08-18;1392), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Camerino e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Camerino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 17 - all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di diritti greci.
+
+Art. 42 - dopo l'elenco degli insegnamenti complementari del corso di laurea in farmacia il primo comma e' soppresso e sostituito dal seguente:
+
+"I corsi biennali di chimica farmaceutica e tossicologica e di fisiologia generale comportano due distinti esami alla fine di ciascun esame del biennio".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1975
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 1 marzo 1976 Atti di Governo, registro n. 3, foglio n. 49
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Camerino, approvato con [decreto del Presidente della Repubblica 1 novembre 1959, n. 1388](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-11-01;1388), e modificato con [decreto del Presidente della Repubblica 18 agosto 1962, n. 1392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-08-18;1392), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Camerino, approvato con [decreto del Presidente della Repubblica 10 novembre 1959, n. 1388](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-11-10;1388), e modificato con [decreto del Presidente della Repubblica 18 agosto 1962, n. 1392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-08-18;1392), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Camerino e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Camerino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso L'art. 30, relativo al corso di laurea in Scienze naturali, e' abrogato e sostituito dal seguente "Lo studente non puo' essere ammesso all'esame di Fisiologia generale I se non ha superato gli esami di Anatomia umana, Fisica, Chimica organica; all'esame di Scienza dell'alimentazione se non ha superato Fisiologia generale II; agli esami di Chimica organica e Mineralogia se non ha superato Chimica generale ed inorganica; all'esame di Fisiologia generale II se non ha superato Fisiologia generale I; all'esame di Chimica biologica se non ha superato Chimica organica; all'esame di Anatomia comparata se non ha superato gli esami di Anatomia umana e di Zoologia I".  
-Lo studente non puo' essere ammesso all'esame di Genetica se non ha superato quello di Zoologia generale;  
-agli esami di Patologia vegetale e Fitogeografia se non ha superato quelli di Botanica generale e di Botanica sistematica;  
-all'esame di Fisiologia vegetale se non ha superato quelli di Botanica generale, di Chimica generale ed inorganica e di Chimica organica;  
-agli esami di Embriologia chimica e sperimentale, Meccanica dello sviluppo ed Embriologia degli invertebrati se non ha superato quello di istologia ed embriologia;  
-agli esami di Antropologia e Paleontologia se non ha superato quello di Anatomia comparata;  
-all'esame di Chimica molecolare se non ha superato quello di Chimica biologica;  
-all'esame di Chimica fisica se non ha superato quello di Chimica generale ed inorganica;  
-all'esame di Biologia delle razze umane se non ha superato quello di Zoologia generale;  
-all'esame di Ecologia se non ha superato quelli di Zoologia generale e di Zoologia sistematica;  
-all'esame di Citogenetica se non ha superato quello di Genetica;  
-all'esame di Entomologia agraria se non ha superato quelli di Zoologia generale, di Zoologia sistematica, di Botanica generale e di Botanica sistematica;  
-all'esame di Geografia fisica se non ha superato quello di Geografia;  
-all'esame di Paleontologia umana se non ha superato quello di Anatomia comparata.  
-L'art. 32, relativo al corso di laurea in Scienze biologiche e' abrogato e sostituito dal seguente:  
-"Lo studente non puo' essere ammesso all'esame di Fisiologia generale II se non ha superato Fisiologia generale I; all'esame di Fisiologia generale I se non ha superato Anatomia umana, Fisica, Chimica, Biologica e Chimica organica; agli esami di Scienza della alimentazione e Patologia generale se non ha superato Fisiologia generale II; all'esame di Chimica biologica se non ha superato Chimica organica; all'esame di Chimica organica se non ha superato Chimica generale ed inorganica; all'esame di Anatomia comparata se non ha superato Anatomia umana ed Istologia ed embriologia".  
-"Lo studente non puo' essere ammesso all'esame di Genetica se non ha superato quello di Zoologia generale;  
-agli esami di Patologia vegetale e Fitogeografia se non ha superato quelli di Botanica generale e di Botanica sistematica;  
-all'esame di Fisiologia vegetale se non ha superato quelli di Botanica generale, di Chimica generale ed inorganica e di Chimica organica:  
-agli esami di Embriologia chimica e sperimentale, Meccanica dello sviluppo ed Embriologia degli invertebrati se non ha superato quello di Istologia ed embriologia;  
-agli esami di Antropologia e Paleontologia se non ha superato quello di Anatomia comparata;  
-all'esame di Chimica molecolare se non ha superato quello di Chimica biologica;  
-all'esame di Chimica fisica se non ha superato quello di Chimica generale ed inorganica;  
-all'esame di Biologia delle razze umane se non ha.  
-superato quello di Zoologia generale;  
-all'esame di Ecologia se non ha superato quelli di Zoologia generale e di Zoologia sistematica;  
-all'esame di Citogenetica se non ha superato quello di Genetica; all'esame di Geologia se non ha superato quello di Chimica generale ed inorganica;  
-all'esame di Parassitologia se non ha superato quelli di Zoologia generale e di Zoologia sistematica;  
-all'esame di Patologia generale se non ha superato quelli di Fisiologia generale I e di Fisiologia generale II".  
+Lo statuto dell'Universita' degli studi di Camerino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 17 - all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di diritti greci.   
+Art. 42 - dopo l'elenco degli insegnamenti complementari del corso di laurea in farmacia il primo comma e' soppresso e sostituito dal seguente:   
+"I corsi biennali di chimica farmaceutica e tossicologica e di fisiologia generale comportano due distinti esami alla fine di ciascun esame del biennio".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 marzo 1965
+### Dato a Roma, addi' 31 ottobre 1975
 
-SARAGAT GUI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 8 maggio 1965
+Registrato alla Corte dei conti, addi' 1 marzo 1976
 
-Atti del Governo, registro n. 193, foglio n. 31. - VILLA
+Atti di Governo, registro n. 3, foglio n. 49

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 861
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1978 n. 1020
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 861
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1978 n. 1020
+=================================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-861. Decreto del Presidente della Repubblica 22 settembre 1981, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato consistente in un terreno della superficie di are trenta e centiare novantatre, sul quale insistono i ruderi dell'antica citta' di Megara Hyblaea, in comune di Augusta (Siracusa), disposta dalla Scuola francese di Roma con atto 17 dicembre 1963, n. 62628 di repertorio, a rogito dott. Giuseppe Adorno, notaio in Siracusa.  
+1020. Decreto del Presidente della Repubblica 14 settembre 1978, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione disposta dal prof. Afro Basaldella, con atto di donazione 15 novembre 1975, n. 327346 di repertorio, a rogito dott.  
+Giorgio Santini, notaio in Roma, consistente in una raccolta di tre dipinti raffiguranti "Viale delle Acacie", "Senza titolo" e "Grande Ocra", i quali rivestono un interesse artistico, da destinare alla galleria nazionale d'arte moderna in Roma.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 12 gennaio 1982  
-Registro n. 2 Finanze, foglio n. 129
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 21 febbraio 1979  
+Registro n. 2 Beni culturali, foglio n. 287

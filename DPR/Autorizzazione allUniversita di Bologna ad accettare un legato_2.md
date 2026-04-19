@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1954 n. 905
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1950 n. 502
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1954 n. 905
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1950 n. 502
 =============================================================
 
 Autorizzazione all'Universita' di Bologna ad accettare un legato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-905. Decreto del Presidente della Repubblica 31 luglio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Bologna viene autorizzata ad accettare il legato di L. 5.000.000 (cinquemilioni) disposto dal prof. Pietro Caliceti con testamento olografo 3 gennaio 1950. Il capitale verra' destinato ad incrementare la biblioteca della clinica otorinolaringologica che verra' intestata al nome del prof. Pietro Caliceti.  
+502. Decreto del Presidente della Repubblica 19 maggio 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Bologna viene autorizzata ad accettare il legato della somma di L. 20.000 disposto in suo favore dal defunto avv.  
+Lelio Lelli, con testamento olografo in data 10 dicembre 1938, pubblicato per atti del notaio dott. Francesco Comelli di Bologna il 5 settembre 1945, per la istituzione di un premio di studio quinquennale da intitolarsi "Premio Cesare Lelli" e da conferirsi ad un laureando in giurisprudenza.  
   
-Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 24 settembre 1954  
-Atti del Governo, registro n. 86, foglio n. 59. - CARLOMAGNO
+Visto, il Guardasigilli: PICCIONI  
+Registrato alla Corte dei conti, addi' 18 luglio 1950

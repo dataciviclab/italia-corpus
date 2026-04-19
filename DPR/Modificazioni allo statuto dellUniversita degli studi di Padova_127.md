@@ -1,60 +1,67 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1982 n. 682
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1978 n. 590
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1982 n. 682
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1978 n. 590
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA, REPUBBLICA
--------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 14 ottobre 1926, n. 2133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2133), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Nell'art. 15, relativo al corso di laurea in giurisprudenza, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-istituzioni di diritto processuale.  
-Il testo dell'art. 16 del medesimo corso di laurea e' soppresso ed e' sostituito dal seguente:  
-"Gli studenti non possono sostenere gli esami di diritto civile, di diritto commerciale, di diritto industriale, di diritto agrario, di diritto privato comparato, e di diritto della navigazione, se non abbiano superato l'esame di istituzioni di diritto privato; ne' gli esami di diritto penale e procedura penale, di diritto amministrativo, di diritto ecclesiastico, di diritto internazionale, di diritto del lavoro, se non abbiano superato gli esami di istituzioni di diritto privato e di diritto costituzionale; ne' l'esame di scienza delle finanze e diritto finanziario, se non abbiano superato gli esami di economia politica, di diritto costituzionale ovvero di diritto pubblico generale; ne' gli esami di diritto romano, di storia del diritto italiano, di diritto canonico, di diritto comune, se non abbiano superato gli esami di istituzioni di diritto romano e di storia del diritto romano, ne' gli esami di diritto penale militari e di medicina legale e delle assicurazioni se non abbiano superato l'esame di diritto penale".  
-Inoltre, nell'art. 18, l'istituto di scienze economiche, annesso alla facolta' di giurisprudenza, cambia la denominazione in quella di: "istituto di economia e finanza".  
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
+Decreta:   
+  
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli 217 e 218, relativi all'ordinamento della scuola diretta a fini speciali di economia e merceologia degli alimenti, annessa alla facolta' di economia e commercio, sono abrogati e sostituiti dai seguenti:   
+  
+Scuola di economia e merceologia degli alimenti (Scuola diretta a fini speciali)   
+  
+Art. 217. - Alla facolta' di economia e commercio dell'Universita' di Padova e' annessa ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), con sede presso l'istituto di merceologia, la scuola di economia e merceologia degli alimenti. La scuola si propone di provvedere alla preparazione culturale e tecnica di specialisti idonei alla organizzazione dei servizi alimentari delle comunita', fornendo loro tutte le conoscenze per una razionale impostazione dietetica e nutritiva.   
+La durata del corso degli studi e' di due anni.   
+Titolo richiesto per l'ammissione: diploma di scuola media superiore di II grado. Per i laureati che intendessero frequentare la scuola, saranno convalidate le materie gia' sostenute in sede universitaria, con la possibilita' di riduzione della frequenza ad un solo anno.   
+Art. 218. - Il piano di studi della scuola e' costituito da sette corsi annuali e cinque corsi semestrali.   
+Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+1) elementi di chimica con esercitazioni;   
+2) merceologia alimentare con esercitazioni;   
+3) legislazione sugli alimenti;   
+4) imprese industriali e commerciali dei prodotti alimentari (sem.);   
+5) economia e statistica del settore alimentare;   
+6) lingua inglese I corso (sem.).   
+2° Anno:   
+1) igiene degli alimenti;   
+2) elementi di chimica fisiologica;   
+3) fisiologia della nutrizione umana;   
+4) organizzazione e gestione dei servizi alimentari (sem.);   
+5) ecologia applicata al settore alimentare (sem.);   
+6) lingua inglese II corso (sem.).   
+Alla fine del 2° corso lo studente che avra' superato gli esami in tutti gli insegnamenti previsti dal piano di studi, dovra' sostenere un colloquio finale per il conseguimento del diploma in economia e merceologia degli alimenti. Tale colloquio vertera' su un riepilogo generale delle discipline fondamentali, dinnanzi ad una commissione composta di sette membri e presieduta dal direttore della scuola.  
+Resta in facolta' dello studente presentare alternativamente una tesi di diploma, con elementi di carattere sperimentale, su tema approvato dal docente della materia cui il tema stesso si riferisce.   
+Il consiglio di amministrazione dell'Universita', su proposta della direzione della scuola, stabilira' di anno in anno l'ammontare dei contributi. Le tasse e soprattasse a carico degli iscritti sono per ora cosi' determinate:   
+tassa di immatricolazione ................................. L. 5.000 tassa annuale di iscrizione ............................... L. 30.000 soprattassa esami profitto ................................ L. 7.000   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 giugno 1982
+### Dato a Roma, addi' 10 aprile 1978
 
-PERTINI BODRATO
+LEONE PEDINI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 9 settembre 1982
+Registrato alla Corte dei conti, addi' 23 settembre 1978
 
-Registro n. 105 Istruzione, foglio n. 225
+Registro n. 104 Istruzione, foglio n. 284

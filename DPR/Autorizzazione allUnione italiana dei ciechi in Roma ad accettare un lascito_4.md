@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 dicembre 1981 n. 1008
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1978 n. 515
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 dicembre 1981 n. 1008
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1978 n. 515
+=============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un lascito.
 --------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1008. Decreto del Presidente della Repubblica 15 dicembre 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare, col beneficio d'inventario, il lascito consistente nella nuda proprieta' di beni immobili siti in Mestre (Venezia), per un valore di L. 43.725.000, disposto dal sig. Maldari Michele a favore dell'Associazione nazionale ciechi di Treviso, che si identifica con l'Associazione italiana dei ciechi come risulta dalla [delibera 3 gennaio 1974, n. 41](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1974-01-03;41) del presidente dell'U.I.C., con testamento olografo 18 settembre 1972, pubblicato a rogito dott. Giovanni Candiani, notaio in Venezia, in data 29 novembre 1972, n. 43418 di repertorio, registrato a Venezia il 18 dicembre 1972 al n. 6969 vol. 27.  
+515. Decreto del Presidente della Repubblica 25 luglio 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare, col beneficio d'inventario, il lascito disposto a favore della sezione Lombardia occidentale dell'Unione italiana dei ciechi, dalla sig.ra Falchero Epuron Maria Teresa Caterina detta Maria con testamento olografo del 15 luglio 1971 pubblicato a rogito notaio dott. Ernesto Fermi in data 8 ottobre 1973, n. 17437 di repertorio e n. 7236 di raccolta, registrato a Milano in data 16 ottobre 1973, n. 17152, vol. A/2.F, consistente in beni mobili esistenti nell'appartamento di Milano, piazza Novelli 10, e da titoli e depositi bancari presso la Banca popolare di Milano, agenzia n. 8, per un valore complessivo di L. 27.624.453.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 24 febbraio 1982  
-Registro n. 2 Presidenza, foglio n. 178
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 30 agosto 1978  
+Registro n. 6 Presidenza, foglio n. 162

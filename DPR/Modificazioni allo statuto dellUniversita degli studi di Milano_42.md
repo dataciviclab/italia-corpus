@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 luglio 1969 n. 1295
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 809
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 luglio 1969 n. 1295
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 809
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -13,8 +13,8 @@ Art. 1
  IL PRESIDENTE DELLA REPUBBLICA  
   
 Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
@@ -24,66 +24,77 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 61, relativo alla facolta' di medicina veterinaria, e' abrogato e sostituito dal seguente: "La facolta' di medicina veterinaria conferisce la laurea in medicina veterinaria e la laurea in scienze della produzione animale".  
+Dopo l'art. 65 e con il conseguente spostamento della successiva numerazione e' aggiunto un nuovo articolo relativo all'istituzione del corso di laurea in scienze della produzione animale.  
   
-L'art. 211, relativo alla scuola di specializzazione in psichiatria e' abrogato e sostituito dal seguente:  
+Laurea in scienze della produzione animale  
   
-Scuola di specializzazione in psichiatria  
-  
-Art. 211. - La durata del corso e' di quattro anni.  
-Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) Anatomia ed istologia del S.N.;  
-2) Fisiologia del S.N.;  
-3) Biochimica del S.N.;  
-4) Genetica (elementi);  
-5) Psicologia generale;  
-6) Psicopatologia (I);  
-7) Semeiotica psichiatrica.  
-2° Anno (internato in neurologia):  
-1) Anatomia ed istologia patologica del S.N.;  
-2) Semeiotica neurologica;  
-3) Patologia speciale e diagnostica neurologica;  
-4) Neuro-radiologia;  
-5) Endocrinologia e neurologia vegetativa;  
-6) Elettroencefalografia;  
-3° Anno:  
-1) Patologia speciale psichiatrica;  
-2) Psicopatologia (II);  
-3) Clinica psichiatrica (I);  
-4) Psicologia clinica psicodiagnostica;  
-5) Psicofarmacologia;  
-6) Psichiatria in rapporto con la patologia internistica;  
-7) Esame di laboratorio.  
-4° Anno:  
-1) Clinica psichiatrica (II);  
-2) Terapia psichiatrica generale;  
-3) Psicoterapia;  
-4) Neuropsichiatria infantile;  
-5) Psichiatria forense e legislazione psichiatrica;  
-6) Psichiatria sociale (del lavoro, scolastica, igiene e profilassi mentale).  
-  
-Norme  
-  
-Internato obbligatorio per l'intero anno scolastico per il I, III e IV anno di clinica psichiatrica sede della scuola.  
-Tale internato potra' essere ridotto a non meno di quattro mesi all'anno per i medici che prestino servizio regolare in ospedale psichiatrico.  
-L'internato e' obbligatorio per il secondo anno di neurologia (sede della scuola) per l'intero anno scolastico, salvo per i medici che prestino regolare servizio in ospedale psichiatrico per i quali potra' essere ridotto a non meno di mesi sei, e per i medici che prestino regolare servizio in un reparto neurologico per i quali potra' essere ridotto a non meno di mesi quattro.  
-Esami obbligatori per il passaggio all'anno successivo. Ammissione per titoli ed esame.  
-Il numero degli iscritti e' di 15 il primo anno di corso (totale n. 60 iscritti).  
-Per gli specialisti in neurologia, neuropsichiatria infantile potra' esservi abbuono di due anni.  
-Un anno di abbuono per gli specialisti in altre materie affini (psicologia, medicina generale, neurochirurgia).  
-Tali abbuoni possono essere concessi solo dopo aver superato l'esame di ammissione.  
-Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.  
+Art. 66. - Durata del corso di studi: quattro anni divisi in due bienni.  
+Titolo di ammissione: diploma di maturita' classica o di maturita' scientifica.  
+Diploma di abilitazione per i provenienti dagli istituti tecnici agrari e per geometri.  
+Insegnamenti fondamentali:  
+1° biennio:  
+1) agronomia generale e coltivazioni erbacee;  
+2) anatomia degli animali domestici;  
+3) botanica generale;  
+4) chimica;  
+5) principi di economia politica e di statistica;  
+6) estimo rurale e contabilita';  
+7) fisiologia degli animali domestici;  
+8) biochimica;  
+9) patologia generale comparata;  
+10) zoologia generale;  
+11) alimentazione animale;  
+12) genetica animale e zootecnica generale.  
+2° biennio:  
+1) avicoltura;  
+2) coltivazione e conservazione dei foraggi;  
+3) igiene veterinaria;  
+4) industrie alimentari dei prodotti di origine animale;  
+5) topografia e costruzioni rurali con applicazioni di disegno;  
+6) microbiologia agraria e tecnica;  
+7) economia e politica agraria;  
+3) zooeconomia;  
+9) zootecnica speciale (biennale);  
+10) zoognostica.  
+Insegnamenti complementari:  
+1) chimica agraria;  
+2) edilizia zootecnica (semestrale);  
+3) entomologia agraria (semestrale);  
+4) fisica;  
+5) fisioclimatologia (semestrale);  
+6) immunogenetica (semestrale);  
+7) meccanica agraria con applicazioni di disegno;  
+8) microbiologia dei prodotti zootecnici (semestrale);  
+9) meccanizzazione degli impianti zootecnici;  
+10) organizzazione del lavoro (semestrale);  
+11) fisiopatologia della riproduzione;  
+12) parassitologia;  
+13) patologia vegetale (semestrale);  
+14) tecnica mangimistica;  
+15) legislazione zootecnica e contrattazione degli animali domestici (semestrale);  
+16) idrobiologia. Piscicoltura (semestrale);  
+17) matematica;  
+18) approvvigionamenti annonari, mercati ed industrie degli alimenti di origine animale;  
+19) igiene zootecnica;  
+20) patologia aviare (semestrale).  
+Per ottenere l'iscrizione al secondo biennio di applicazione lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali del 10 biennio.  
+L'esame di anatomia degli animali domestici e di biochimica debbono precedere quello di fisiologia degli animali domestici.  
+L'esame di fisiologia degli animali domestici deve precedere quelli di zoognostica, zootecnica speciale, zootecnica generale, zoocolture e alimentazione animale.  
+L'esame di chimica deve precedere quello di biochimica.  
+L'esame di genetica animale e zootecnica generale deve precedere quello di zootecnica speciale.  
+Per essere ammesso all'esame di laurea in scienze della produzione animale lo studente deve aver seguito tutti i corsi e superato gli esami in tutti gli insegnamenti fondamentali del 2° biennio ed almeno in 6 complementari a corso annuale. A tale effetto due corsi complementari semestrali sono computati come corso annuale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 luglio 1969
+### Dato a Roma, addi' 5 giugno 1963
 
-SARAGAT FERRARI AGGRADI
+SARAGAT GUI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 24 aprile 1970
+Registrato alla Corte dei conti, addi' 17 luglio 1968
 
-Atti del Governo, registro n. 235, foglio n. 7. - CARUSO
+Atti del Governo, registro n. 221, foglio n. 42. - GRECO

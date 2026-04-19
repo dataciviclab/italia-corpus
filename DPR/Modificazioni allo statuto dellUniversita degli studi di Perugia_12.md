@@ -1,340 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1972 n. 720
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 settembre 1956 n. 1146
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1972 n. 720
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 settembre 1956 n. 1146
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 92. - Il primo comma relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Anestesiologia" muta la denominazione in quella di "Anestesiologia e rianimazione"; e la scuola in "Clinica delle malattie nervose e mentali e' soppressa.
-
-Nello stesso elenco sono aggiunte le scuole di specializzazione in "Ortopedia e traumatologia", in "Neurologia", in "Psichiatria".
-
-L'art. 110, relativo alla "Scuola di perfezionamento in anestesiologia" che muta la denominazione in quella di "Scuola di specializzazione in anestesiologia e rianimazione" e' abrogato e sostituito dal seguente:
-
-Scuola di specializzazione in anestesiologia e rianimazione
-
-Art. 110. - La scuola ha la durata di tre anni: il numero degli iscritti e' limitato a cinque per ogni anno di corso.
-
-Le materie di insegnamento sono:
-
-1° Anno:
-
-Anatomia, biochimica, farmacologia, fisica, fisiologia applicata alla anestesiologia e rianimazione;
-
-Anestesiologia I;
-
-Tecniche chirurgiche di interesse anestesiologico;
-
-Aspetti medico-legali dell'anestesia e della rianimazione;
-
-Internato;
-
-2° Anno:
-
-Anestesiologia II;
-
-Terapia antalgica;
-
-Rianimazione I;
-
-Internato;
-
-3° Anno:
-
-Rianimazione II;
-
-Tecniche speciali di anestesia e rianimazione;
-
-Indagini diagnostiche attinenti alla specialita';
-
-Internato.
-
-La frequenza alle lezioni e alle esercitazioni e' obbligatoria.
-
-L'internato deve essere svolto secondo i turni fissati dalla direzione della scuola.
-
-Non e' concessa alcuna abbreviazione di corso, ad eccezione dei candidati che, gia' in possesso del diploma di anestesiologia, possono essere ammessi al terzo anno per ottenere il completamento.
-
-Per accedere ai corsi successivi e' obbligatorio il superamento di tutti gli esami del corso precedente, ivi comprese le materie biennali.
-
-Gli esami possono essere sostenuti solamente in due sessioni annuali, una estiva ed una autunnale, e comunque non oltre il 30 novembre dell'anno in corso.
-
-Il diploma viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi a carattere clinico o sperimentale.
-
-Dopo l'art. 112 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in "Ortopedia e traumatologia".
-
-Scuola di specializzazione in ortopedia e traumatologia
-
-Art. 113. - La scuola ha la durata di tre anni; il numero degli iscritti e' limitato a cinque per ogni anno di corso.
-
-Le materie di insegnamento sono:
-
-1° Anno:
-
-Clinica ortopedica e traumatologica I;
-
-Patologia delle lesioni, deformita' e malattie degli organi di movimento I;
-
-Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica I;
-
-Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia I;
-
-Anatomia ed istologia dell'apparato locomotore;
-
-Fisiologia dell'apparato locomotore;
-
-Nozioni di chirurgia generale;
-
-Nozioni di pediatria;
-
-2° Anno:
-
-Clinica ortopedica e traumatologica II;
-
-Patologia delle lesioni, deformita' e malattie degli organi di movimento II;
-
-Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica II;
-
-Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia II;
-
-Neuropatologia dell'apparato locomotore ed elettrodiagnostica;
-
-Anatomia ed istologia patologica dell'apparato locomotore;
-
-Anatomia e rianimazione in ortopedia e traumatologia;
-
-3° Anno:
-
-Clinica ortopedica e traumatologica III;
-
-Patologia delle lesioni e deformita' e malattie degli organi di movimento III;
-
-Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica III;
-
-Apparato e terapia ortopedica;
-
-Fisiochinesiterapia;
-
-Infortunistica.
-
-Art. 114. - Non e' concessa alcuna abbreviazione di corso.
-
-La frequenza e' obbligatoria nell'istituto sede della scuola per un periodo di almeno nove mesi per ogni anno accademico. E' in facolta' del direttore della scuola di concedere una deroga a tale norma solo agli iscritti alla scuola che facciano parte di cliniche ortopediche che non abbiano la scuola di specializzazione o che siano assistenti di ruolo in divisioni di ortopedia e traumatologia di ospedali di prima categoria. Per queste due categorie di iscritti il periodo di frequenza presso l'istituto sede della scuola puo' essere ridotto fino a non meno di un mese ogni anno.
-
-Gli insegnamenti si svolgeranno con indirizzo prevalentemente pratico, dimostrativo, ma per ogni singola materia di insegnamento verra' anche svolto un corso regolare di lezioni, il cui numero verra' fissato annualmente dal direttore della scuola in accordo con i docenti delle singole materie.
-
-Gli esami si svolgeranno per singole materie.
-
-Gli esami di clinica ortopedica e traumatologica, di tecnica operatoria, cruenta ed incruenta ortopedica e traumatologica, di radiodiagnostica, saranno teorici e pratici.
-
-Per l'ammissione agli anni successivi di corso gli iscritti dovranno avere superato l'esame del gruppo di materie dell'anno precedente.
-
-Per l'ammissione all'esame di diploma il candidato dovra' presentare una tesi a stampa o dattiloscritta su un argomento della specialita'.
-
-La scuola di specializzazione in clinica delle malattie nervose e mentali e' soppressa e al suo posto vengono istituite le scuole di specializzazione in "Neurologia" ed in "Psichiatria".
-
-Pertanto, l'ordinamento delle suddette scuole e' il seguente:
-
-Scuola di specializzazione in neurologia
-
-Art. 115. - La scuola ha la durata di quattro anni: il numero degli iscritti e' limitato a tre per ogni anno di corso.
-
-Le materie di insegnamento sono:
-
-1° Anno:
-
-Anatomia e istologia del sistema nervoso;
-
-Fisiologia del sistema nervoso;
-
-Biochimica del sistema nervoso;
-
-Genetica (elementi);
-
-Psicologia generale;
-
-Psicopatologia;
-
-Semeiotica psichiatrica;
-
-2° Anno:
-
-Anatomia e istologia patologica del sistema nervoso;
-
-Semeiotica neurologica;
-
-Patologia speciale e diagnostica neurologica I;
-
-Neuro-radiologia;
-
-Endocrinologia e neurologia vegetativa;
-
-3° Anno:
-
-Patologia speciale e diagnostica neurologica II;
-
-Clinica neurologica;
-
-Elettroencefalografia;
-
-Elettromiografia, elettrodiagnostica ed elettroterapia;
-
-Neuro-oftalmologia;
-
-Neuro-otologia;
-
-Esami di laboratorio;
-
-4° Anno:
-
-Clinica neurologica II;
-
-Neurochirurgia;
-
-Teoria e clinica della riabilitazione;
-
-Neuro-traumatologia anche sotto l'aspetto della medicina legale;
-
-Neurologia in rapporto alla patologia internistica.
-
-Art. 116. - Internato obbligatorio per l'intero anno scolastico, nel primo, secondo, terzo e quarto anno di corso in clinica delle malattie nervose e mentali sede della scuola. Per il primo anno di corso tale internato potra' essere ridotto a non meno di cinque mesi per i medici che prestino servizio in reparto neurologico e a non meno di mesi quattro per coloro che prestino servizio in ospedale psichiatrico. Per il secondo, terzo e quarto anno di corso tale internato potra' essere ridotto a non meno di quattro mesi per i medici che prestino servizio regolare in reparto neurologico.
-
-Esami obbligatori per il passaggio all'anno successivo; ammissione per titoli ed esami. Un abbuono di anni due puo' essere concesso agli specialisti in psichiatria, neuropsichiatria infantile e neurochirurgia. Un anno di abbuono per gli specialisti in altre materie affini (medicina interna, otorinolaringoiatria, oculistica, radiologia).
-
-Gli abbuoni possono essere concessi solo superando un esame di ammissione.
-
-Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.
-
-Scuola di specializzazione in psichiatria
-
-Art. 117. - La scuola ha la durata di quattro anni;
-
-il numero degli iscritti e' limitato a due per ogni anno di corso.
-
-Le materie d'insegnamento sono:
-
-1° Anno:
-
-Anatomia e istologia del sistema nervoso;
-
-Fisiologia del sistema nervoso;
-
-Biochimica del sistema nervoso;
-
-Genetica (elementi);
-
-Psicologia generale;
-
-Psicopatologia (I):
-
-Semeiotica psichiatrica;
-
-2° Anno:
-
-Anatomia e istologia patologica del sistema nervoso;
-
-Semeiotica neurologica;
-
-Patologia speciale e diagnostica neurologica;
-
-Neuroradiologia;
-
-Endocrinologia e neurologia vegetativa;
-
-Elettroencefalografia;
-
-3° Anno:
-
-Patologia speciale psichiatrica;
-
-Psicopatologia (II);
-
-Clinica psichiatrica (I);
-
-Psicologia clinica e psicodiagnostica;
-
-Psicofarmacologia;
-
-Psichiatria in rapporto con la patologia internistica;
-
-Esami di laboratorio;
-
-4° Anno:
-
-Clinica psichiatrica (II);
-
-Terapia psichiatrica generale;
-
-Psicoterapia;
-
-Neuropsichiatria infantile;
-
-Psichiatria forense e legislazione psichiatrica;
-
-Psichiatria sociale (del lavoro, scolastica, igiene e profilassi mentale).
-
-Art. 118. - Internato obbligatorio per l'intero anno scolastico nel primo, secondo e terzo e quarto anno di corso in clinica delle malattie nervose e mentali sede della scuola.
-
-Per il secondo anno di corso l'internato potra' essere ridotto a non meno di sei mesi per i medici che prestino regolare servizio in ospedale psichiatrico e a non meno di quattro mesi per i medici che prestino regolare servizio in un reparto neurologico. Per il primo, terzo e quarto anno di corso il periodo di internato potra' essere ridotto a non meno di quattro mesi all'anno per i medici che prestino servizio regolare in ospedale psichiatrico.
-
-Esami obbligatori per il passaggio all'anno successivo; ammissione per titoli ed esami.
-
-Per gli specialisti in neurologia, neuropsichiatria infantile, potra' esservi abbuono di due anni.
-
-Un anno di abbuono per gli specialisti in altre materie affini (psicologia, medicina generale, neurochirurgia).
-
-Tali abbuoni possono essere concessi solo dopo aver superato l'esame di ammissione. Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 18 luglio 1972
-
-LEONE
-
-SCALFARO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 23 novembre 1972 Atti del Governo, registro n. 253, foglio n. 66. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con i [regi decreti 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-02;1471); [17 ottobre 1941, n. 1205](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-10-17;1205); [5 settembre 1942, n. 1239](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1239); [24 ottobre 1942, n. 1651; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1651) [5 ottobre 1946, n. 309 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-05;309) [28 luglio 1950, n. 936](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-28;936); [30 ottobre 1950, n. 1128](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1128); [11 aprile 1951, n. 472](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;472); [27 ottobre 1951, n. 1675](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1675); [14 marzo 1952, n. 768](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-03-14;768); [11 marzo 1953, n. 457](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;457); [6 ottobre 1953, n. 1110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-10-06;1110); [14 settembre 1954, n. 1009](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1009); [26 ottobre 1954, n. 1203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-26;1203); [4 febbraio 1955, n. 117](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;117); [27 luglio 1955, n. 803](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-27;803); [20 settembre 1955, n. 942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-20;942), e 20 settembre 1955, 950;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -342,165 +24,70 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 92. - Il primo comma relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Anestesiologia" muta la denominazione in quella di "Anestesiologia e rianimazione"; e la scuola in "Clinica delle malattie nervose e mentali e' soppressa.  
-Nello stesso elenco sono aggiunte le scuole di specializzazione in "Ortopedia e traumatologia", in "Neurologia", in "Psichiatria".  
-L'art. 110, relativo alla "Scuola di perfezionamento in anestesiologia" che muta la denominazione in quella di "Scuola di specializzazione in anestesiologia e rianimazione" e' abrogato e sostituito dal seguente:  
+Art. 75. - Nel primo capoverso dopo la parola "igiene" sono aggiunte le seguenti: in "gastroenterologia" ed in "anestesiologia".  
+Dopo l'art. 91 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione delle scuole di perfezionamento in "gastroenterologia" ed in "anestesiologia".  
   
-Scuola di specializzazione in anestesiologia e rianimazione  
+Scuola di perfezionamento in gastroenterologia  
   
-Art. 110. - La scuola ha la durata di tre anni: il numero degli iscritti e' limitato a cinque per ogni anno di corso.  
+Art. 92. - La scuola ha la durata di due anni: il numero degli iscritti e' limitato a sei per ogni anno di corso.  
 Le materie di insegnamento sono:  
-1° Anno:  
-Anatomia, biochimica, farmacologia, fisica, fisiologia applicata alla anestesiologia e rianimazione;  
-Anestesiologia I;  
-Tecniche chirurgiche di interesse anestesiologico;  
-Aspetti medico-legali dell'anestesia e della rianimazione;  
-Internato;  
-2° Anno:  
-Anestesiologia II;  
-Terapia antalgica;  
-Rianimazione I;  
-Internato;  
-3° Anno:  
-Rianimazione II;  
-Tecniche speciali di anestesia e rianimazione;  
-Indagini diagnostiche attinenti alla specialita';  
-Internato.  
-La frequenza alle lezioni e alle esercitazioni e' obbligatoria.  
-L'internato deve essere svolto secondo i turni fissati dalla direzione della scuola.  
-Non e' concessa alcuna abbreviazione di corso, ad eccezione dei candidati che, gia' in possesso del diploma di anestesiologia, possono essere ammessi al terzo anno per ottenere il completamento.  
-Per accedere ai corsi successivi e' obbligatorio il superamento di tutti gli esami del corso precedente, ivi comprese le materie biennali.  
-Gli esami possono essere sostenuti solamente in due sessioni annuali, una estiva ed una autunnale, e comunque non oltre il 30 novembre dell'anno in corso.  
-Il diploma viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi a carattere clinico o sperimentale.  
-Dopo l'art. 112 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in "Ortopedia e traumatologia".  
+1° anno:  
+Anatomia normale;  
+Fisiologia;  
+Anatomia patologica;  
+Metodologia e diagnostica di laboratorio;  
+Batteriologia e parassitologia;  
+Patologia e semeiotica segmentaria;  
+Alimentazione e fattori nutritivi;  
+Clinica generale e speciale dei singoli segmenti (biennale);  
+Radiologia (biennale);  
+Stomatologia (semestrale);  
+Esofagogastrologia (semestrale);  
+Proctologia (semestrale).  
+2° anno:  
+Tecnica e istologia bioptica;  
+Terapia generale e speciale;  
+Chirurgia dell'apparato digerente;  
+Clinica generale e speciale dei singoli segmenti (biennale);  
+Radiologia (biennale);  
+Endoscopia (semestrale);  
+Enzimologia speciale alimentare e nutritiva (semestrale);  
+Epatologia (semestrale);  
+Pancreatologia (semestrale);  
+Idrologia (semestrale).  
+Per l'ammissione al secondo anno di corso gli iscritti dovranno aver superato gli esami del primo anno ed un colloquio per le materie biennali.  
   
-Scuola di specializzazione in ortopedia e traumatologia  
+Scuola di perfezionamento in anestesiologia  
   
-Art. 113. - La scuola ha la durata di tre anni; il numero degli iscritti e' limitato a cinque per ogni anno di corso.  
+Art. 93. - La scuola ha la durata di due anni: il numero degli iscritti e' limitato a cinque per ogni anno di corso.  
 Le materie di insegnamento sono:  
-1° Anno:  
-Clinica ortopedica e traumatologica I;  
-Patologia delle lesioni, deformita' e malattie degli organi di movimento I;  
-Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica I;  
-Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia I;  
-Anatomia ed istologia dell'apparato locomotore;  
-Fisiologia dell'apparato locomotore;  
-Nozioni di chirurgia generale;  
-Nozioni di pediatria;  
-2° Anno:  
-Clinica ortopedica e traumatologica II;  
-Patologia delle lesioni, deformita' e malattie degli organi di movimento II;  
-Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica II;  
-Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia II;  
-Neuropatologia dell'apparato locomotore ed elettrodiagnostica;  
-Anatomia ed istologia patologica dell'apparato locomotore;  
-Anatomia e rianimazione in ortopedia e traumatologia;  
-3° Anno:  
-Clinica ortopedica e traumatologica III;  
-Patologia delle lesioni e deformita' e malattie degli organi di movimento III;  
-Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica III;  
-Apparato e terapia ortopedica;  
-Fisiochinesiterapia;  
-Infortunistica.  
-Art. 114. - Non e' concessa alcuna abbreviazione di corso.  
-La frequenza e' obbligatoria nell'istituto sede della scuola per un periodo di almeno nove mesi per ogni anno accademico. E' in facolta' del direttore della scuola di concedere una deroga a tale norma solo agli iscritti alla scuola che facciano parte di cliniche ortopediche che non abbiano la scuola di specializzazione o che siano assistenti di ruolo in divisioni di ortopedia e traumatologia di ospedali di prima categoria. Per queste due categorie di iscritti il periodo di frequenza presso l'istituto sede della scuola puo' essere ridotto fino a non meno di un mese ogni anno.  
-Gli insegnamenti si svolgeranno con indirizzo prevalentemente pratico, dimostrativo, ma per ogni singola materia di insegnamento verra' anche svolto un corso regolare di lezioni, il cui numero verra' fissato annualmente dal direttore della scuola in accordo con i docenti delle singole materie.  
-Gli esami si svolgeranno per singole materie.  
-Gli esami di clinica ortopedica e traumatologica, di tecnica operatoria, cruenta ed incruenta ortopedica e traumatologica, di radiodiagnostica, saranno teorici e pratici.  
-Per l'ammissione agli anni successivi di corso gli iscritti dovranno avere superato l'esame del gruppo di materie dell'anno precedente.  
-Per l'ammissione all'esame di diploma il candidato dovra' presentare una tesi a stampa o dattiloscritta su un argomento della specialita'.  
-La scuola di specializzazione in clinica delle malattie nervose e mentali e' soppressa e al suo posto vengono istituite le scuole di specializzazione in "Neurologia" ed in "Psichiatria".  
-Pertanto, l'ordinamento delle suddette scuole e' il seguente:  
-  
-Scuola di specializzazione in neurologia  
-  
-Art. 115. - La scuola ha la durata di quattro anni: il numero degli iscritti e' limitato a tre per ogni anno di corso.  
-Le materie di insegnamento sono:  
-1° Anno:  
-Anatomia e istologia del sistema nervoso;  
-Fisiologia del sistema nervoso;  
-Biochimica del sistema nervoso;  
-Genetica (elementi);  
-Psicologia generale;  
-Psicopatologia;  
-Semeiotica psichiatrica;  
-2° Anno:  
-Anatomia e istologia patologica del sistema nervoso;  
-Semeiotica neurologica;  
-Patologia speciale e diagnostica neurologica I;  
-Neuro-radiologia;  
-Endocrinologia e neurologia vegetativa;  
-3° Anno:  
-Patologia speciale e diagnostica neurologica II;  
-Clinica neurologica;  
-Elettroencefalografia;  
-Elettromiografia, elettrodiagnostica ed elettroterapia;  
-Neuro-oftalmologia;  
-Neuro-otologia;  
-Esami di laboratorio;  
-4° Anno:  
-Clinica neurologica II;  
-Neurochirurgia;  
-Teoria e clinica della riabilitazione;  
-Neuro-traumatologia anche sotto l'aspetto della medicina legale;  
-Neurologia in rapporto alla patologia internistica.  
-Art. 116. - Internato obbligatorio per l'intero anno scolastico, nel primo, secondo, terzo e quarto anno di corso in clinica delle malattie nervose e mentali sede della scuola. Per il primo anno di corso tale internato potra' essere ridotto a non meno di cinque mesi per i medici che prestino servizio in reparto neurologico e a non meno di mesi quattro per coloro che prestino servizio in ospedale psichiatrico. Per il secondo, terzo e quarto anno di corso tale internato potra' essere ridotto a non meno di quattro mesi per i medici che prestino servizio regolare in reparto neurologico.  
-Esami obbligatori per il passaggio all'anno successivo; ammissione per titoli ed esami. Un abbuono di anni due puo' essere concesso agli specialisti in psichiatria, neuropsichiatria infantile e neurochirurgia. Un anno di abbuono per gli specialisti in altre materie affini (medicina interna, otorinolaringoiatria, oculistica, radiologia).  
-Gli abbuoni possono essere concessi solo superando un esame di ammissione.  
-Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.  
-  
-Scuola di specializzazione in psichiatria  
-  
-Art. 117. - La scuola ha la durata di quattro anni;  
-il numero degli iscritti e' limitato a due per ogni anno di corso.  
-Le materie d'insegnamento sono:  
-1° Anno:  
-Anatomia e istologia del sistema nervoso;  
-Fisiologia del sistema nervoso;  
-Biochimica del sistema nervoso;  
-Genetica (elementi);  
-Psicologia generale;  
-Psicopatologia (I):  
-Semeiotica psichiatrica;  
-2° Anno:  
-Anatomia e istologia patologica del sistema nervoso;  
-Semeiotica neurologica;  
-Patologia speciale e diagnostica neurologica;  
-Neuroradiologia;  
-Endocrinologia e neurologia vegetativa;  
-Elettroencefalografia;  
-3° Anno:  
-Patologia speciale psichiatrica;  
-Psicopatologia (II);  
-Clinica psichiatrica (I);  
-Psicologia clinica e psicodiagnostica;  
-Psicofarmacologia;  
-Psichiatria in rapporto con la patologia internistica;  
-Esami di laboratorio;  
-4° Anno:  
-Clinica psichiatrica (II);  
-Terapia psichiatrica generale;  
-Psicoterapia;  
-Neuropsichiatria infantile;  
-Psichiatria forense e legislazione psichiatrica;  
-Psichiatria sociale (del lavoro, scolastica, igiene e profilassi mentale).  
-Art. 118. - Internato obbligatorio per l'intero anno scolastico nel primo, secondo e terzo e quarto anno di corso in clinica delle malattie nervose e mentali sede della scuola.  
-Per il secondo anno di corso l'internato potra' essere ridotto a non meno di sei mesi per i medici che prestino regolare servizio in ospedale psichiatrico e a non meno di quattro mesi per i medici che prestino regolare servizio in un reparto neurologico. Per il primo, terzo e quarto anno di corso il periodo di internato potra' essere ridotto a non meno di quattro mesi all'anno per i medici che prestino servizio regolare in ospedale psichiatrico.  
-Esami obbligatori per il passaggio all'anno successivo; ammissione per titoli ed esami.  
-Per gli specialisti in neurologia, neuropsichiatria infantile, potra' esservi abbuono di due anni.  
-Un anno di abbuono per gli specialisti in altre materie affini (psicologia, medicina generale, neurochirurgia).  
-Tali abbuoni possono essere concessi solo dopo aver superato l'esame di ammissione. Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.  
+1° anno:  
+Anatomia;  
+Fisiologia;  
+Fisica;  
+Biochimica;  
+Patologia generale;  
+Farmacologia;  
+Anestesiologia.  
+2° anno:  
+Fisiologia;  
+Farmacologia;  
+Patologia generale;  
+Cardiologia;  
+Broncopneumologia;  
+Anestesiologia.  
+Per l'ammissione al secondo anno di corso gli iscritti dovranno aver superato gli esami di anatomia, fisica, biochimica ed i colloqui di fisiologia, di farmacologia e di patologia generale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 luglio 1972
+### Dato a Roma, addi' 3 settembre 1956
 
-LEONE SCALFARO
+GRONCHI ROSSI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MORO
 
-Registrato alla Corte dei conti, addi' 23 novembre 1972
+Registrato alla Corte dei conti, addi' 18 ottobre 1956
 
-Atti del Governo, registro n. 253, foglio n. 66. - CARUSO
+Atti del Governo, registro n. 101, foglio n. 53. - CARLOMAGNO

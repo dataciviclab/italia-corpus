@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1951 n. 977
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 luglio 1950 n. 645
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1951 n. 977
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 luglio 1950 n. 645
 =============================================================
 
 Autorizzazione all'Universita' di Pavia ad accettare una donazione.
@@ -12,8 +12,7 @@ Art. 1
 
 N.
 
-977. Decreto del Presidente della Repubblica 11 aprile 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Pavia viene autorizzata ad accettare la donazione della somma di L. 201.000 nominali, in titoli di rendita 5%, disposta in suo favore dal sig. Vincenzo D'Azzo, per l'istituzione di una borsa di studio da intitolarsi "Borsa di studio Alessandro D'Azzo" e da conferirsi ogni anno alternativamente, a studenti del corso di giurisprudenza e di lettere dell'Universita' medesima, di condizioni disagiate e di merito distinto.  
+645. Decreto del Presidente della Repubblica 4 luglio 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Pavia viene autorizzata ad accettare la donazione della somma di L. 170.000, in titoli di Rendita 5%, e di L. 8500, in contanti, disposta in suo favore dal prof. Pietro Vaccari, anche a nome dei familiari, colleghi ed amici, con atto pubblico amministrativo in data 11 gennaio 1950, per l'istituzione di un premio di studio da intitolarsi al nome del "dott. Enrico Vaccari" e da conferirsi, ogni triennio, ad uno studioso italiano per un lavoro pubblicato nel campo della fitogeografia, che riguardi l'Italia.  
   
 Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 17 settembre 1951  
-Atti del Governo, registro n. 44, foglio n. 5. - CARLOMAGNO
+Registrato alla Corte dei conti, addi' 8 agosto 1950

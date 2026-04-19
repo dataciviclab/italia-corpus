@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1978 n. 227
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 luglio 1987 n. 341
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1978 n. 227
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 luglio 1987 n. 341
 =============================================================
 
 Modificazioni alle piante organiche dei magistrati di alcuni uffici giudiziari.
@@ -12,65 +12,48 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Viste le tabelle B, C e D relative alle piante organiche dei magistrati, allegate al [decreto presidenziale 31 dicembre 1966, n. 1185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-12-31;1185), e successive variazioni;  
-Riconosciuta la urgente necessita' di aumentare gli organici dei magistrati dei tribunali di Bologna, Firenze e Torino rispettivamente nel numero di due, otto e cinque unita', quelli delle procure della Repubblica di Firenze, Roma e Torino nel numero di due unita' ciascuna e di una unita' quello della procura della Repubblica di Bologna, per adeguarli all'aumentato carico di lavoro che grava sui detti uffici;  
-Constatato che in ordine al reperimento dei posti occorrenti si palesa indispensabile ridurre di due unita' la pianta organica della corte di appello di Lecce e di una unita' ciascuna quelle delle corti di appello di Ancona, Bari, Caltanissetta, L'Aquila, Messina, Napoli, Palermo, Perugia e Potenza, dei tribunali di Ascoli Piceno, Agrigento, Avellino, Benevento, Lecce e Potenza e delle preture di Bologna, Bergamo e Biella;  
-Visto il parere favorevole espresso al riguardo dal Consiglio superiore della magistratura nella seduta del 22 marzo 1978;  
-Ritenuto peraltro, che non puo' seguirsi la proposta dello stesso Consiglio superiore della magistratura in ordine al reperimento delle unita' presso la corte di appello di Cagliari e la sezione di corte di appello di Campobasso, poiche' a seguito di una piu' attenta valutazione delle esigenze e tenuto conto degli indici di lavoro, appare piu' opportuno ridurre gli organici dei magistrati presso le preture di Bari e Venezia;  
+Viste le tabelle C e D relative alle piante organiche dei magistrati giudicanti e del pubblico ministero addetti ai tribunali ed alle preture, allegate al [decreto del Presidente della Repubblica 31 dicembre 1966, n. 1185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-12-31;1185) e successive variazioni;  
+Considerata la necessita', al fine di fronteggiare le accresciute esigenze di servizio, di aumentare di una unita' la pianta organica dei procuratori aggiunti della procura della Repubblica presso il tribunale di Palermo e di una unita' quella di presidenti di sezione del tribunale di Caltanissetta;  
+Ritenuto che per far fronte alle esigenze innanzi prospettate si puo' provvedere sopprimendo un posto di consigliere pretore del mandamento di Napoli ed un posto di pretore del mandamento di Roma;  
+Visto il parere espresso al riguardo dal Consiglio superiore della magistratura nella seduta del 18 giugno 1987;  
 Visto l'art. 1, ultimo comma, della [legge 4 gennaio 1963, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-01-04;1);  
 Sulla proposta del Ministro di grazia e giustizia;  
   
 Decreta:  
   
-Le tabelle B, C e D allegate al [decreto del Presidente della Repubblica 31 dicembre 1966, n. 1185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-12-31;1185), e successive variazioni, relative alle piante organiche dei magistrati addetti alle corti di appello, ai tribunali e procure della Repubblica ed alle preture, sono modificate, per la parte relativa agli uffici cui si riferiscono, come dalle tabelle A, B e C allegate al presente decreto vistate dal Ministro proponente.  
+Le tabelle C e D relative alle piante organiche dei magistrati giudicanti e del pubblico ministero addetti ai tribunali ed alle preture, allegate al [decreto del Presidente della Repubblica 31 dicembre 1966, n. 1185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-12-31;1185) e successive variazioni, sono modificate, per la parte concernente gli uffici cui si riferiscono, come dalle tabelle A e B allegate al presente decreto, vistate dal Ministro proponente.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1978
+### Dato a Roma, addi' 21 luglio 1987
 
-LEONE BONIFACIO
+COSSIGA
 
-Visto, il Guardasigilli: BONIFACIO
+ROGNONI, Ministro di grazia e giustizia
 
-Registrato alla Corte dei conti, addi' 27 maggio 1978
+Visto, il Guardasigilli: ROGNONI
 
-Registro n. 14 Giustizia, foglio n. 83
+Registrato alla Corte dei conti, addi' 6 agosto 1987
 
-Tabelle
+Registro n. 35 Giustizia, foglio n. 20
+
+Tabella A
 
  TABELLA A   
-  
-MAGISTRATI GIUDICANTI E DEL PUBBLICO MINISTERO ADDETTI ALLE CORTI DI APPELLO   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U022700100010110001&dgu=1978-06-01&art.dataPubblicazioneGazzetta=1978-06-01&art.codiceRedazionale=078U0227)
-  
-  
-  
-  
-TABELLA B   
-  
 MAGISTRATI GIUDICANTI E DEL PUBBLICO MINISTERO ADDETTI AI TRIBUNALI   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U022700100010110002&dgu=1978-06-01&art.dataPubblicazioneGazzetta=1978-06-01&art.codiceRedazionale=078U0227)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=087U034100100010110001&dgu=1987-08-17&art.dataPubblicazioneGazzetta=1987-08-17&art.codiceRedazionale=087U0341)
   
-  
-  
-  
-TABELLA C   
-  
+
+Tabella B
+
+ TABELLA B   
 MAGISTRATI ADDETTI ALLE PRETURE   
   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U022700100010110003&dgu=1978-06-01&art.dataPubblicazioneGazzetta=1978-06-01&art.codiceRedazionale=078U0227)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=087U034100200010110001&dgu=1987-08-17&art.dataPubblicazioneGazzetta=1987-08-17&art.codiceRedazionale=087U0341)
   
-  
-  
-  
-Visto, il Ministro di grazia e giustizia   
-BONIFACIO   

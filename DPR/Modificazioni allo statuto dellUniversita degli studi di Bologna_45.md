@@ -1,42 +1,108 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1970 n. 442
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 marzo 1965 n. 435
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1970 n. 442
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 marzo 1965 n. 435
 ============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:
+
+Art. 108. - Nei seguenti vari corsi di laurea in Ingegneria vengono apportate le seguenti modificazioni Laurea in Ingegneria meccanica Nel gruppo X delle materie a scelta dello studente l'insegnamento di "Preparazione dei metalli" e' soppresso e sostituito con quello di: "Preparazione dei minerali".
+
+Laurea in Ingegneria chimica
+
+Nel gruppo II delle materie a scelta dello studente l'insegnamento di "Siderurgia e metallografia" e' soppresso e sostituito con quello di "Siderurgia e metallurgia".
+
+Laurea in Ingegneria mineraria
+
+L'insegnamento di Disegno II (b) deve considerarsi semestrale.
+
+Laurea in Ingegneria elettronica
+
+Nel gruppo I delle materie a scelta dello studente l'insegnamento di "Tecnica delle comunicazioni elettroniche" e' soppresso e sostituito dall'insegnamento di "Tecnica delle comunicazioni elettriche".
+
+Laurea in Ingegneria nucleare
+
+L'insegnamento di "Analisi statistica (b)" da semestrale passa ad essere annuale.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 24 marzo 1965
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 8 maggio 1965 Atti del Governo, registro n. 193, foglio n. 32. - VILLA
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 495, relativo alla scuola di perfezionamento in fisio-chinesiterapia ortopedica e' modificato nel senso che il terzo comma e' abrogato e sostituito dal seguente:   
-"Il numero degli ammessi e' stabilito anno per anno dalla direzione della scuola, numero che non puo' superare i venticinque".   
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:  
+Art. 108. - Nei seguenti vari corsi di laurea in Ingegneria vengono apportate le seguenti modificazioni Laurea in Ingegneria meccanica Nel gruppo X delle materie a scelta dello studente l'insegnamento di "Preparazione dei metalli" e' soppresso e sostituito con quello di: "Preparazione dei minerali".  
+Laurea in Ingegneria chimica  
+Nel gruppo II delle materie a scelta dello studente l'insegnamento di "Siderurgia e metallografia" e' soppresso e sostituito con quello di "Siderurgia e metallurgia".  
+Laurea in Ingegneria mineraria  
+L'insegnamento di Disegno II (b) deve considerarsi semestrale.  
+Laurea in Ingegneria elettronica  
+Nel gruppo I delle materie a scelta dello studente l'insegnamento di "Tecnica delle comunicazioni elettroniche" e' soppresso e sostituito dall'insegnamento di "Tecnica delle comunicazioni elettriche".  
+Laurea in Ingegneria nucleare  
+L'insegnamento di "Analisi statistica (b)" da semestrale passa ad essere annuale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 marzo 1970
+### Dato a Roma, addi' 24 marzo 1965
 
-SARAGAT FERRARI AGGRADI
+SARAGAT GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 2 luglio 1970
+Registrato alla Corte dei conti, addi' 8 maggio 1965
 
-Atti del Governo, registro n. 236, foglio n. 106. - CARUSO
+Atti del Governo, registro n. 193, foglio n. 32. - VILLA

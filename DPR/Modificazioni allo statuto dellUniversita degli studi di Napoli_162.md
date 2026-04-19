@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 agosto 1959 n. 799
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1980 n. 678
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 agosto 1959 n. 799
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1980 n. 678
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,206 +10,140 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 20 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-20;1904) e successivi;
+Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1935, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 20 luglio 1957, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-07-20;741);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
 Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 75. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo) sono aggiunti quelli di "lingua e letteratura portoghese", "letteratura angloamericana", "storia della lingua italiana".
-
-Art. 105, e' abrogato e sostituito dal seguente:
-
-"Gli insegnamenti complementari di "clinica delle malattie tropicali e subtropicali" e di "malattie infettive" possono essere riuniti in un'unica cattedra con la denominazione di "clinica delle malattie infettive e delle malattie tropicali".
-
-Art. 145. - Agli insegnamenti complementari della Facolta' di ingegneria e' aggiunto quello di "tecnica del traffico e della circolazione".
-
-SEZIONE XIV. - Scuole e corsi di perfezionamento e di specializzazione
-
-Dopo l'art. 186 vengono inseriti i seguenti nuovi articoli, relativi alla istituzione della Scuola di perfezionamento in diritto romano, con il conseguente spostamento della numerazione degli articoli successivi.
-
-FACOLTA DI GIURISPRUDENZA
-
-Scuola di perfezionamento in diritto romano
-
-Art. 186. - E' istituita, presso la Facolta' di giurisprudenza, la Scuola di perfezionamento in diritto romano, con l'intento di promuovere ricerche scientifiche sul diritto del mondo romano, di organizzare conferenze, discussioni, esercitazioni, pubblicazioni, viaggi, di raccogliere la bibliografia relativa, di coordinare gli insegnamenti impartiti nella Facolta' di giurisprudenza delle discipline speciali, riflettenti gli studi romanistici. Essa e' una Scuola di addestramento e di perfezionamento per chi intenda specializzarvisi.
-
-Art. 187. - La Scuola rilascia il diploma di perfezionamento in diritto romano ed ha la durata di due anni.
-
-Art. 188. - Sono ammessi alla Scuola i laureati in giurisprudenza.
-
-Art. 159. - Gli insegnamenti della Scuola sono i seguenti:
-
-Fondamentali:
-
-diritto romano privato (biennale);
-
-diritto romano pubblico (biennale);
-
-esercitazioni esegetiche (biennale).
-
-Complementari storia romana;
-
-storia greca e bizantina;
-
-epigrafia giuridica;
-
-papirologia giuridica;
-
-paleografia e diplomatica; antica e medioevale;
-
-storia dei diritti europei medioevali.
-
-Gli insegnamenti sono cosi' ripartiti:
-
-1° anno:
-
-diritto romano privato;
-
-diritto romano pubblico;
-
-esercitazioni esegetiche;
-
-tre insegnamenti complementari.
-
-2° anno:
-
-diritto romano privato;
-
-diritto romano pubblico;
-
-esercitazioni esegetiche.
-
-Gli insegnamenti fondamentali importano un unico esame alla fine del biennio.
-
-Art. 190. - La Commissione degli esami speciali e' composta dal professore ufficiale della materia, che la presiede, e da due professori della Scuola.
-
-Art. 191. - E' ammesso all'esame di diploma chi abbia superato gli esami negli insegnamenti fondamentali ed in tre complementari.
-
-Art. 192. - L'esame di diploma si sostiene innanzi al Consiglio direttivo riunito in Commissione. Il candidato deve presentare una dissertazione scritta con previa approvazione, anche sotto il profilo della originalita', di un professore insegnante nella Scuola. Deve discuterla oralmente davanti alla Commissione nell'ambito di un colloquio che dimostri la sua adeguata preparazione nella specializzazione.
-
-Art. 193. - La Scuola e' retta da un Consiglio direttivo composto dai professori ordinari della Facolta' di giurisprudenza delle discipline romanistiche, i quali eleggono il direttore che lo presiede per un triennio ed e' rieleggibile.
-
-Art. 194. - Gli incarichi d'insegnamento sono conferiti su proposta del Consiglio della scuola, approvata dal Senato accademico e dal Consiglio di amministrazione dell'Universita' di Napoli.
-
-Art. 195. - Gli iscritti alla Scuola di perfezionamento sono tenuti a pagare le tasse, le soprattasse, la tassa di diploma, nonche' tutti gli altri contributi stabiliti per gli studenti iscritti alla Facolta' di giurisprudenza dell'Universita' di Napoli.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Napoli, addi' 20 agosto 1959
-
-GRONCHI
-
-MEDICi
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 5 ottobre 1959 Atti del Governo, registro n. 121, foglio n. 2. - VILLA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 20 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-20;1904) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1935, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-09-30;1652), e successive modificazioni;  
-Veduta la [legge 20 luglio 1957, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-07-20;741);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Gli articoli 146 e 147, relativi alla seconda facolta' di medicina e chirurgia, sono cosi' modificati:  
+Art. 146. - La seconda facolta' di medicina e chirurgia conferisce la laurea in:  
+a) medicina e chirurgia;  
+b) odontoiatria e protesi dentaria.  
+Art. 147. - La durata del corso di studi per la laurea in medicina e chirurgia e' di sei anni, suddivisi in tre bienni.  
+La durata del corso di studi per la laurea in odontoiatria e protesi dentaria e' di cinque anni, suddivisi in un biennio e in un triennio.  
+I titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge.  
+
+Art. 2
+------
+
   
-Decreta:  
+Dopo l'art. 150, con il conseguente spostamento delle numerazioni degli articoli successivi, vengono inseriti i seguenti nuovi articoli:  
+Art. 151. - Gli insegnamenti per la laurea in odontoiatria e protesi dentaria sono i seguenti:  
+INSEGNAMENTI FONDAMENTALI:  
+Biennio:  
+1)anestesia generale e speciale odontostomatologica (semestrale);  
+\*2) biologia generale applicata agli studi medici;  
+\*3) chimica;  
+\*4) chimica biologica;  
+5) farmacologia (semestrale);  
+\*6) fisica medica;  
+7) fisiologia umana e dell'apparato stomatognatico;  
+8) igiene e odontoiatria preventiva e sociale con epidemiologia (semestrale);  
+9) istituzioni di anatomia umana normale e dell'apparato stomatognatico;  
+10) istituzioni di anatomia ed istologia patologica;  
+\*11) istologia ed embriologia generale (compresa la citologia);  
+12) materiali dentari;  
+13) microbiologia (semestrale);  
+14) odontoiatria conservatrice (triennale: 2°, 3° e 4° anno);  
+15) patologia generale.  
+Triennio:  
+16) chirurgia speciale odontostomatologica (biennale: 3° e 4° anno);  
+17) chimica odontostomatologica (biennale: 4° e 5° anno) 18) medicina legale e delle assicurazioni e deontologia in odontostomatologia (semestrale);  
+19) neuropatologia e psicopatologia (semestrale);  
+20) ortognatodonzia e gnatologia (funzione masticatoria) (biennale: 4° e 5° anno);  
+21) parodontologia (biennale: 4° e 5° anno);  
+22) patologia speciale chirurgica e propedeutica clinica;  
+23) patologia speciale medica e metodologia clinica (compresa la pediatria);  
+24) patologia speciale odontostomatologica;  
+25) pedodonzia (semestrale);  
+26) protesi dentaria (triennale: 3°, 4° e 5° anno);  
+27) radiologia generale e speciale odontostomatologica (semestrale).  
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+INSEGNAMENTI COMPLEMENTARI:  
+\*1) chirurgia maxillo-facciale;  
+\*2) dermatologia e venereologia (semestrale);  
+\*3) otorinolaringoiatria (semestrale);  
+\*4) statistica sanitaria.  
+Art. 152. - Altri insegnamenti complementari nel piano della facolta' sempre mutuati dal corso di laurea in medicina e chirurgia.  
+Gli insegnamenti segnati con asterisco sono mutuati dal corso di laurea in medicina e chirurgia.  
+Gli insegnamenti fondamentali sono teorici e pratici e la loro frequenza e' obbligatoria.  
+Gli insegnamenti specificamente odontostomatologici di ordine clinico comportano un tirocinio pratico continuativo da espletare prima di sostenere i relativi esami.  
+Gli studenti che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le relative prove di esame.  
+Il tirocinio pratico, relativo ad ogni insegnamento clinico, deve provvedere, da parte dei componenti dell'organico, una assistenza didattica adeguata al numero degli studenti.  
   
-Art. 75. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo) sono aggiunti quelli di "lingua e letteratura portoghese", "letteratura angloamericana", "storia della lingua italiana".  
+Art. 153.  
   
-Art. 105, e' abrogato e sostituito dal seguente:  
-"Gli insegnamenti complementari di "clinica delle malattie tropicali e subtropicali" e di "malattie infettive" possono essere riuniti in un'unica cattedra con la denominazione di "clinica delle malattie infettive e delle malattie tropicali".  
+Non si puo' essere ammessi Se non si e' superato  
+a sostenere l'esame di: l'esame di:  
   
-Art. 145. - Agli insegnamenti complementari della Facolta' di ingegneria e' aggiunto quello di "tecnica del traffico e della circolazione".  
+Fisiologia umana e dell'apparato Istituzioni di anatomia  
+Stomatognatico umana normale e dell'apparato  
+Patologia generale stomatognatico  
+Biologia generale applicata  
+agli studi medici  
+Chimica  
+Fisica medica  
   
-SEZIONE XIV. - Scuole e corsi di perfezionamento e di specializzazione  
+Patologia speciale medica Fisiologia umana e del-  
+e metodologica clinica l'apparato stomatognatico  
+(compresa la pediatria) Patologia generale  
+Patologia speciale chirurgica  
+e propedeutica clinica  
   
-Dopo l'art. 186 vengono inseriti i seguenti nuovi articoli, relativi alla istituzione della Scuola di perfezionamento in diritto romano, con il conseguente spostamento della numerazione degli articoli successivi.  
+Clinica odontostomatologica Patologia speciale medica  
+e metodologia clinica  
+(compresa la pediatria)  
+Chirurgia speciale odonto-  
+stomatologica  
+Istituzioni di anatomia e  
+istologia patologica  
+Patologia speciale chirurgica e propedeutica clinica  
+Patologia speciale odonto-  
+stomatologica  
   
-FACOLTA DI GIURISPRUDENZA  
-  
-Scuola di perfezionamento in diritto romano  
-  
-Art. 186. - E' istituita, presso la Facolta' di giurisprudenza, la Scuola di perfezionamento in diritto romano, con l'intento di promuovere ricerche scientifiche sul diritto del mondo romano, di organizzare conferenze, discussioni, esercitazioni, pubblicazioni, viaggi, di raccogliere la bibliografia relativa, di coordinare gli insegnamenti impartiti nella Facolta' di giurisprudenza delle discipline speciali, riflettenti gli studi romanistici. Essa e' una Scuola di addestramento e di perfezionamento per chi intenda specializzarvisi.  
-  
-Art. 187. - La Scuola rilascia il diploma di perfezionamento in diritto romano ed ha la durata di due anni.  
-  
-Art. 188. - Sono ammessi alla Scuola i laureati in giurisprudenza.  
-  
-Art. 159. - Gli insegnamenti della Scuola sono i seguenti:  
-Fondamentali:  
-diritto romano privato (biennale);  
-diritto romano pubblico (biennale);  
-esercitazioni esegetiche (biennale).  
-Complementari storia romana;  
-storia greca e bizantina;  
-epigrafia giuridica;  
-papirologia giuridica;  
-paleografia e diplomatica; antica e medioevale;  
-storia dei diritti europei medioevali.  
-Gli insegnamenti sono cosi' ripartiti:  
-1° anno:  
-diritto romano privato;  
-diritto romano pubblico;  
-esercitazioni esegetiche;  
-tre insegnamenti complementari.  
-2° anno:  
-diritto romano privato;  
-diritto romano pubblico;  
-esercitazioni esegetiche.  
-Gli insegnamenti fondamentali importano un unico esame alla fine del biennio.  
-  
-Art. 190. - La Commissione degli esami speciali e' composta dal professore ufficiale della materia, che la presiede, e da due professori della Scuola.  
-  
-Art. 191. - E' ammesso all'esame di diploma chi abbia superato gli esami negli insegnamenti fondamentali ed in tre complementari.  
-  
-Art. 192. - L'esame di diploma si sostiene innanzi al Consiglio direttivo riunito in Commissione. Il candidato deve presentare una dissertazione scritta con previa approvazione, anche sotto il profilo della originalita', di un professore insegnante nella Scuola. Deve discuterla oralmente davanti alla Commissione nell'ambito di un colloquio che dimostri la sua adeguata preparazione nella specializzazione.  
-  
-Art. 193. - La Scuola e' retta da un Consiglio direttivo composto dai professori ordinari della Facolta' di giurisprudenza delle discipline romanistiche, i quali eleggono il direttore che lo presiede per un triennio ed e' rieleggibile.  
-  
-Art. 194. - Gli incarichi d'insegnamento sono conferiti su proposta del Consiglio della scuola, approvata dal Senato accademico e dal Consiglio di amministrazione dell'Universita' di Napoli.  
-  
-Art. 195. - Gli iscritti alla Scuola di perfezionamento sono tenuti a pagare le tasse, le soprattasse, la tassa di diploma, nonche' tutti gli altri contributi stabiliti per gli studenti iscritti alla Facolta' di giurisprudenza dell'Universita' di Napoli.  
+Per essere ammessi a sostenere l'esame di laurea in odontoiatria e protesi dentaria lo studente deve aver seguito i corsi ed aver superato gli esami in tutti gli insegnamenti fondamentali ed almeno in due insegnamenti scelti fra i complementari ed avere, inoltre, seguito le prescritte esercitazioni cliniche, i tirocini pratici ed averne conseguite le relative attestazioni.  
+L'esame di laurea consiste nella discussione di una tesi scritta su argomenti di odontostomatologia da richiedere almeno all'inizio dell'ultimo anno di corso.  
+Art. 154. - Per il trasferimento degli studenti iscritti al corso di laurea in medicina e chirurgia le abbreviazioni di corso non possono superare l'ammissione oltre il secondo anno subordinatamente al numero dei posti resisi disponibili all'inizio del secondo anno sempre che gli aspiranti abbiano superato gli esami di biologia generale applicata agli studi medici, chimica, fisica medica, istologia ed embriologia generale (compresa la citologia).  
+Per i laureati in medicina e chirurgia le abbreviazioni di corso potranno essere concesse, sempre con iscrizione al secondo anno, subordinatamente al numero dei posti disponibili all'inizio del secondo anno e dopo che sia trascorso un anno accademico dal conseguimento della laurea precedente.  
+Art. 155. - Il numero degli iscritti e' di ventiquattro per ciascun anno di corso e complessivamente di centoventi per l'intero corso di studi.  
+Art. 156. - L'accesso avviene secondo un ordine di graduatoria stabilito in base ad un punteggio riportato in centesimi, cosi' ripartito:  
+70 centesimi riservati all'esito di un test a scelta multipla da completare in un unico giorno vertente su nozioni generali relative ai seguenti argomenti: chimica, fisica, matematica, biologia generale;  
+30 centesimi riservati al punteggio riportato nell'esame finale per il conseguimento del diploma di scuola secondaria superiore.  
+E' prevista la pubblicizzazione dei risultati delle prove che a richiesta debbono essere forniti.  
+Art. 157. - Per esercitare la professione i laureati in odontoiatria e protesi dentaria devono aver superato un apposito esame di Stato.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Napoli, addi' 20 agosto 1959
+### Dato a Roma, addi' 25 settembre 1980
 
-GRONCHI MEDICi
+p. Il Presidente della Repubblica Il Presidente del Senato FANFANI SARTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 5 ottobre 1959
+Registrato alla Corte dei conti, addi' 21 ottobre 1980
 
-Atti del Governo, registro n. 121, foglio n. 2. - VILLA
+Registro n. 95 Istruzione, foglio n. 314

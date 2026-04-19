@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 giugno 1982 n. 894
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1984 n. 646
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 giugno 1982 n. 894
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1984 n. 646
 =============================================================
 
 Assegnazione di un posto di tecnico laureato presso l'Universita' degli studi di Roma.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-894. Decreto del Presidente della Repubblica 29 giugno 1982, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di biologia e zoologia generale (seconda cattedra) della facolta' di medicina e chirurgia dell'Universita' di Roma.  
+646. Decreto del Presidente della Repubblica 30 luglio 1984, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di medicina legale e delle assicurazioni (per l'insegnamento di medicina legale e deontologia medica) della facolta' di medicina e chirurgia dell'Universita' di Roma.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 26 novembre 1982  
-Registro n. 128 Istruzione, foglio n. 329
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 22 settembre 1984  
+Registro n. 56 Istruzione, foglio n. 92

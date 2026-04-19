@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 214
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1954 n. 1320
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 214
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1954 n. 1320
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 20 aprile 1939, n. 1118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1118), e modificato con i [regi decreti 12 gennaio 1941, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-01-12;34); [27 aprile 1942, n. 571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;571); [5 settembre 1942, n. 1237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1237); [24 ottobre 1942, n. 1438; con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1438) [4 febbraio 1947, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-04;196) e [7 marzo 1947, n. 1727 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-03-07;1727) [26 febbraio 1949, n. 430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;430); [21 aprile 1949, n. 613](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;613); [1 settembre 1949, n. 816](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-01;816); [13 marzo 1950, n. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;599); [30 ottobre 1950, n. 1125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1125); [31 ottobre 1950, n. 1310](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1310); [30 giugno 1951, n. 1148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-30;1148); [27 ottobre 1951, n. 1794](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1794); [25 luglio 1952, n. 1352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1352); [16 ottobre 1952, n. 4554](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-16;4554); [26 ottobre 1952, n. 4506](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4506); [30 ottobre 1952, n. 4483](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-30;4483); [11 marzo 1953, n. 573](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;573); 11 marzo 1053, n. 576; 12 ottobre 1953, n. 1046; 2 marzo 1954, n. 181 e 26 aprile 1954, n. 741;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,57 +18,129 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 108. - Dopo la scuola di specializzazione in chirurgia, plastica e aggiunta quella in "chirurgia polmonare".
 
+All'art. 110, relativo ai titoli di ammissione alle scuole di perfezionamento e di specializzazione in medicina e chirurgia e' aggiunto il seguente nuovo comma:
+
+"Al diploma di specialista in chirurgia polmonare possono aspirare i laureati in medicina e chirurgia che siano in possesso della libera docenza in patologia speciale chirurgica o in clinica chirurgica o del diploma di specialisti in chirurgia generale".
+
+Dopo l'art. 174, sono aggiunti i seguenti nuovi articoli, relativi all'istituzione della "scuola di specializzazione in chirurgia polmonare".
+
+Scuola di specializzazione in chirurgia polmonare.
+
+Art. 175. - Per il conseguimento del diploma di specialista in chirurgia polmonare si richiedono due anni di corso.
+
+Art. 176. - La scuola e' costituita presso l'Istituto di patologia speciale chirurgica e propedeutica clinica ed e' posta sotto la direzione e la diretta sorveglianza del titolare della cattedra di patologia speciale chirurgica e propedeutica clinica, coadiuvato da docenti da lui proposti e particolarmente preparati su tale materia.
+
+Art. 177. - Il materiale didattico e' costituito dai degenti per affezioni delle vie respiratorie nell'Istituto, dal materiale anatomo-patologico e dalla documentazione raccolta nel museo e nell'archivio dell'Istituto, nonche' dalla biblioteca.
+
+Art. 178. - Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali.
+
+Gli insegnamenti impartiti dalla scuola sono i seguenti:
+
+Anatomia chirurgica dell'apparato respiratorio (annuale - 1° anno di corso).
+
+Fisiopatologia dell'apparato respiratorio (annuale - 1° anno di corso).
+
+Semeiotica (medica, endoscopica, radiologica, funzionale) dell'apparato respiratorio (biennale).
+
+Patologia e terapia medica delle affezioni dell'apparato respiratorio (biennale).
+
+Patologia e terapia chirurgica delle affezioni dell'apparato respiratorio (biennale).
+
+Tecnica operativa, per le affezioni dell'apparato respiratorio - Fisioterapia (biennale).
+
+Durante i due anni del corso verranno quotidianamente tenute esercitazioni di diagnostica, di tecnica operativa, di laboratorio ed anche di indole pratica.
+
+Art. 179. - La frequenza alle lezioni e conferenze ed esercitazioni teoriche e pratiche e' obbligatoria.
+
+Art. 180. - Alla fine di ciascun anno accademico gli specializzandi che abbiano ottenuto le firme di frequenza dovranno sostenere un esame di profitto nelle materie fondamentali, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo e per quelli che sono stati iscritti a quest'ultimo, per l'ammissione all'esame di diploma.
+
+Art. 181. - Alla fine del secondo anno del corso ha luogo l'esame di diploma, consistente nella presentazione e discussione di una dissertazione scritta su argomento di chirurgia dell'apparato respiratorio concordata tra il diplomando ed il direttore della scuola all'inizio del secondo anno. La dissertazione deve essere approvata dai direttore stesso e depositata presso la direzione almeno quindici giorni prima dell'esame.
+
+Art. 182. - La Commissione per gli esami di profitto e' costituita dal direttore della scuola, e da due membri scelti fra i docenti del corso.
+
+Art. 183. - La Commissione per l'esame di diploma e' formata da sette membri presieduta dal preside della Facolta' o da un professore da lui delegato. Di essa fanno parte altri membri scelti dal preside fra i professori ed i liberi docenti dell'Universita' di Torino.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Dogliani, addi' 29 ottobre 1954
+
+EINAUDI
+
+ERMINI
+
+Visto, il Guardasigilli: DE PIETRO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 26 gennaio 1955 Atti del Governo, registro n. 88, foglio n. 97. - CARLOMAGNO
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Nell'art. 47, relativo al corso di laurea in materie letterarie della facolta' di magistero, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-stilistica e metrica italiana;  
-museografia.  
-Nell'art. 48, relativo al corso di laurea in pedagogia della facolta' di magistero, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-metodologia e didattica;  
-storia dell'educazione e delle istituzioni scolastiche;  
-educazione degli adulti;  
-sociologia dell'organizzazione;  
-sociologia economica;  
-etnologia;  
-psicologia dei processi cognitivi.  
-Nell'art. 49, relativo al corso di laurea in lingue e letterature straniere della facolta' di magistero, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-storia della lingua russa;  
-letteratura francese moderna e contemporanea;  
-letteratura inglese moderna e contemporanea;  
-letteratura tedesca moderna e contemporanea;  
-letteratura spagnola moderna e contemporanea.  
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 20 aprile 1939, n. 1118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1118), e modificato con i [regi decreti 12 gennaio 1941, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-01-12;34); [27 aprile 1942, n. 571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;571); [5 settembre 1942, n. 1237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1237); [24 ottobre 1942, n. 1438; con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1438) [4 febbraio 1947, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-04;196) e [7 marzo 1947, n. 1727 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-03-07;1727) [26 febbraio 1949, n. 430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;430); [21 aprile 1949, n. 613](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;613); [1 settembre 1949, n. 816](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-01;816); [13 marzo 1950, n. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;599); [30 ottobre 1950, n. 1125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1125); [31 ottobre 1950, n. 1310](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1310); [30 giugno 1951, n. 1148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-30;1148); [27 ottobre 1951, n. 1794](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1794); [25 luglio 1952, n. 1352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1352); [16 ottobre 1952, n. 4554](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-16;4554); [26 ottobre 1952, n. 4506](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4506); [30 ottobre 1952, n. 4483](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-30;4483); [11 marzo 1953, n. 573](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;573); 11 marzo 1053, n. 576; 12 ottobre 1953, n. 1046; 2 marzo 1954, n. 181 e 26 aprile 1954, n. 741;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 108. - Dopo la scuola di specializzazione in chirurgia, plastica e aggiunta quella in "chirurgia polmonare".  
+All'art. 110, relativo ai titoli di ammissione alle scuole di perfezionamento e di specializzazione in medicina e chirurgia e' aggiunto il seguente nuovo comma:  
+"Al diploma di specialista in chirurgia polmonare possono aspirare i laureati in medicina e chirurgia che siano in possesso della libera docenza in patologia speciale chirurgica o in clinica chirurgica o del diploma di specialisti in chirurgia generale".  
+Dopo l'art. 174, sono aggiunti i seguenti nuovi articoli, relativi all'istituzione della "scuola di specializzazione in chirurgia polmonare".  
+  
+Scuola di specializzazione in chirurgia polmonare.  
+  
+Art. 175. - Per il conseguimento del diploma di specialista in chirurgia polmonare si richiedono due anni di corso.  
+Art. 176. - La scuola e' costituita presso l'Istituto di patologia speciale chirurgica e propedeutica clinica ed e' posta sotto la direzione e la diretta sorveglianza del titolare della cattedra di patologia speciale chirurgica e propedeutica clinica, coadiuvato da docenti da lui proposti e particolarmente preparati su tale materia.  
+Art. 177. - Il materiale didattico e' costituito dai degenti per affezioni delle vie respiratorie nell'Istituto, dal materiale anatomo-patologico e dalla documentazione raccolta nel museo e nell'archivio dell'Istituto, nonche' dalla biblioteca.  
+Art. 178. - Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali.  
+Gli insegnamenti impartiti dalla scuola sono i seguenti:  
+Anatomia chirurgica dell'apparato respiratorio (annuale - 1° anno di corso).  
+Fisiopatologia dell'apparato respiratorio (annuale - 1° anno di corso).  
+Semeiotica (medica, endoscopica, radiologica, funzionale) dell'apparato respiratorio (biennale).  
+Patologia e terapia medica delle affezioni dell'apparato respiratorio (biennale).  
+Patologia e terapia chirurgica delle affezioni dell'apparato respiratorio (biennale).  
+Tecnica operativa, per le affezioni dell'apparato respiratorio - Fisioterapia (biennale).  
+Durante i due anni del corso verranno quotidianamente tenute esercitazioni di diagnostica, di tecnica operativa, di laboratorio ed anche di indole pratica.  
+Art. 179. - La frequenza alle lezioni e conferenze ed esercitazioni teoriche e pratiche e' obbligatoria.  
+Art. 180. - Alla fine di ciascun anno accademico gli specializzandi che abbiano ottenuto le firme di frequenza dovranno sostenere un esame di profitto nelle materie fondamentali, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo e per quelli che sono stati iscritti a quest'ultimo, per l'ammissione all'esame di diploma.  
+Art. 181. - Alla fine del secondo anno del corso ha luogo l'esame di diploma, consistente nella presentazione e discussione di una dissertazione scritta su argomento di chirurgia dell'apparato respiratorio concordata tra il diplomando ed il direttore della scuola all'inizio del secondo anno. La dissertazione deve essere approvata dai direttore stesso e depositata presso la direzione almeno quindici giorni prima dell'esame.  
+Art. 182. - La Commissione per gli esami di profitto e' costituita dal direttore della scuola, e da due membri scelti fra i docenti del corso.  
+Art. 183. - La Commissione per l'esame di diploma e' formata da sette membri presieduta dal preside della Facolta' o da un professore da lui delegato. Di essa fanno parte altri membri scelti dal preside fra i professori ed i liberi docenti dell'Universita' di Torino.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 gennaio 1985
+### Dato a Dogliani, addi' 29 ottobre 1954
 
-PERTINI
+EINAUDI ERMINI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DE PIETRO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 26 gennaio 1955
 
-Registrato alla Corte dei conti, addi' 20 maggio 1985
-
-Registro n. 33 Istruzione, foglio n. 71
+Atti del Governo, registro n. 88, foglio n. 97. - CARLOMAGNO

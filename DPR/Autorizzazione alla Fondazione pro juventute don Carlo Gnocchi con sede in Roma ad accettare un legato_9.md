@@ -1,19 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1969 n. 801
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1969 n. 463
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1969 n. 801
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1969 n. 463
+=============================================================
 
-Autorizzazione alla "Fondazione pro juventute don Carlo Gnocchi", con sede in Roma, ad accettare un legato.
------------------------------------------------------------------------------------------------------------
+Autorizzazione alla Fondazione pro juventute don Carlo Gnocchi, con sede in Roma, ad accettare un legato.
+---------------------------------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-801. Decreto del Presidente della Repubblica 8 ottobre 1969, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione pro juventute don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare un legato consistente in titoli azionari per un importo di L. 100.000.000, disposto dal defunto sig. Giacomo Tiziano Eligio Ottolini, con testamento olografo del 10 aprile 1965, pubblicato con verbale a rogito dott. Augusto Bernasconi De Luca, notaio in Milano, in data 30 agosto 1967, n. 21534 di repertorio, n. 6518 di raccolta.  
+463. Decreto del Presidente della Repubblica 12 giugno 1969, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Fondazione pro juventute don Carlo Gnocchi, con sede in Roma, viene autorizzata ad accettare un legato, consistente nella somma di L. 12.000.000, disposto dalla defunta signorina Giustina Fermi, con testamento olografo del 13 novembre 1962, depositato e pubblicato con verbale a rogito dott. Almerico Vegezzi, notaio in Piacenza, in data 19 luglio 1966, rep. not. n. 3721, n. 779 di racc.  
   
 Visto, il Guardasigilli: GAVA  
-Registrato alla Corte dei conti, addi' 8 novembre 1969  
-Atti del Governo, registro n. 230, foglio n. 23. - CARUSO
+Registrato alla Corte dei conti, addi' 25 luglio 1969  
+Atti del Governo, registro n. 228, foglio n. 86. - GRECO

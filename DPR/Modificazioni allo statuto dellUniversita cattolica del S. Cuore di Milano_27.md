@@ -1,16 +1,16 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 887
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 105
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 887
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 105
 ==============================================================
 
-Modificazioni allo statuto dell'Universita' cattolica del S. Cuore di Milano.
------------------------------------------------------------------------------
+Modificazioni allo statuto dell'Universita' cattolica del "S. Cuore" di Milano.
+-------------------------------------------------------------------------------
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
+Veduto lo statuto dell'Universita' cattolica del "S. Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,300 +18,104 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del S. Cuore di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Veduta la [legge 21 febbraio 1980 n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
 
-Decreta:
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
 
-Lo statuto dell'Universita' cattolica del S. Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Sentito il parere del Consiglio universitario nazionale;
 
-Dopo l'art. 97, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in chirurgia plastica ricostruttiva ed in odontoiatria e protesi dentaria.
+Sulla
+-----
 
-Scuola di specializzazione in chirurgia plastica ricostruttiva
+proposta del Ministro della pubblica istruzione; Decreta:
 
-Art. 98. - La durata del corso e' di 3 anni. Alla scuola possono iscriversi i laureati in medicina e chirurgia previo esame di ammissione; il numero degli iscritti e' fissato ad un massimo di venti complessivamente.
+Articolo unico
+--------------
 
-La scuola ha sede presso la clinica chirurgica.
-
-Art. 99. - Le materie di insegnamento sono:
-
-1° Anno:
-
-fondamenti embriologici, anatomici e fisiologici della chirurgia plastica;
-
-nozioni di patologia generale ed anatomia patologica (processo di guarigione delle ferite, patologia delle cicatrici, infiammazioni, tumori, malformazioni, biologia degli innesti e dei trapianti);
-
-trattamento pre e post-operatorio;
-
-esercitazioni pratiche cliniche e operatorie (I).
-
-2° Anno:
-
-anatomia chirurgica e medicina operatoria;
-
-tecniche speciali di chirurgia plastica (I);
-
-tecniche di anestesia e particolari indicazioni;
-
-esercitazioni pratiche cliniche e operatorie (II).
-
-3° Anno:
-
-nozioni di oculistica, otorinolaringoiatria, stomatologia, traumatologia, urologia e dermatologia nei rapporti con la chirurgia plastica;
-
-nozioni di radiodiagnostica e radioterapia;
-
-tecniche speciali di chirurgia plastica (II);
-
-esercitazioni pratiche cliniche ed operatorie (III).
-
-Art. 100. - Durante i tre anni di corso gli allievi sono tenuti a prestare servizio di internato nei reparti ai quali vengono assegnati per un periodo non inferiore a giorni trenta ed a frequentare le lezioni e le esercitazioni.
-
-Art. 101. - Gli allievi sono assegnati in turni periodici ai reparti istituiti presso il policlinico "Gemelli" (clinica chirurgica generale, patologia chirurgica, clinica ortopedica, clinica otorinolaringoiatrica, clinica dermatologica e negli altri eventuali reparti della specialita' secondo le disposizioni del direttore della scuola).
-
-Art. 102. - Al termine di ogni anno accademico gli allievi che abbiano ottenuto le attestazioni di frequenza dovranno, per potersi iscrivere al successivo anno di corso, superare gli esami in tutte le materie comprese nel piano degli studi.
-
-Abbreviazioni al corso possono essere concesse (iscrizione al secondo anno) soltanto ai candidati gia' in possesso del diploma di specializzazione in chirurgia generale o di libera docenza in chirurgia o patologia chirurgica.
-
-Art. 103. - Per essere ammessi all'esame di diploma gli allievi dovranno aver superato tutti gli esami di profitto previsti dal piano degli studi.
-
-Scuola di specializzazione in odontoiatria e protesi dentaria
-
-Art. 104. - Titolo per l'iscrizione: laurea in medicina e chirurgia.
-
-Ammissione: il numero dei posti disponibili al primo corso della scuola e' di 6 (sei), altrettanto dicasi per il numero dei posti disponibili di ciascuno degli anni successivi. Il numero massimo complessivo degli iscritti nei tre anni e' fissato in 18 (diciotto).
-
-Durata: tre anni. Frequenza: obbligatoria per l'intero anno scolastico.
-
-Vacanze: conformi al calendario universitario, con un solo mese completo estivo (agosto).
-
-Art. 105. - Materie di insegnamento:
-
-embriologia e anatomia dentaria e maxillo-facciale;
-
-anatomia e istologia odontostomatologica;
-
-microbiologia ed igiene orale;
-
-farmacologia odontostomatologica;
-
-patologia odontostomatologica;
-
-clinica odontostomatologica;
-
-chirurgia maxillo-facciale (biennale);
-
-anestesia e chirurgia stomatologica;
-
-odontoiatria conservativa (biennale);
-
-paradontologia (biennale);
-
-clinica protesica dentaria e maxillo-facciale (biennale);
-
-ortopedia dento-maxillo-facciale (biennale);
-
-radiologia odontostomatologica;
-
-odontotecnica;
-
-odontoiatria infantile;
-
-medicina legale odontostomatologica e delle assicurazioni.
-
-Esercitazioni pratiche affiancheranno gli insegnamenti.
-
-Suddivisione delle materie d'insegnamento nei tre anni di corso:
-
-1° Anno:
-
-embriologia ed anatomia dentaria e maxillo-facciale;
-
-microbiologia e igiene orale;
-
-farmacologia;
-
-patologia odontostomatologica;
-
-odontotecnica;
-
-anestesia e chirurgia stomatologica;
-
-odontoiatria conservativa (biennale) I;
-
-esercitazioni pratiche.
-
-2° Anno:
-
-odontoiatria conservativa (biennale) II;
-
-clinica protesica dentaria e maxillo-facciale (biennale) I;
-
-parodontologia (biennale) I;
-
-anatomia e istopatologia odontostomatologica;
-
-odontoiatria infantile;
-
-radiologia odontostomatologica;
-
-ortopedia dento-maxillo-facciale (biennale) I;
-
-chirurgia maxillo-facciale (biennale) I;
-
-esercitazioni pratiche.
-
-3° Anno:
-
-clinica odontostomatologica;
-
-chirurgia maxillo-facciale (biennale) II;
-
-medicina legale odontostomatologica e delle assicurazioni;
-
-ortopedia dento-maxillo-facciale (biennale) II;
-
-clinica protesica dentaria e maxillo-facciale (biennale) II;
-
-parodontologia (biennale) II;
-
-esercitazioni pratiche.
-
-Esami: gli esami di profitto teorici e pratici saranno sostenuti alla fine di ogni anno in un'unica sessione (ottobre).
-
-Alla fine del terzo anno, dopo aver superato gli esami di profitto, gli allievi saranno ammessi a sostenere l'esame di diploma che consiste nella discussione orale di una dissertazione scritta su un tema proposto in precedenza dall'insegnante della materia sulla quale verte l'argomento e approvato dal direttore della scuola.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1975
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 16 febbraio 1976 Atti di Governo, registro n. 3, foglio n. 10
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del S. Cuore di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Lo statuto dell'Universita' cattolica del "S. Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+L'art. 139, relativo alla scuola di specializzazione in economia agro-alimentare, che muta denominazione in "economia del sistema agro-alimentare", e' sostituito dai seguenti, con lo spostamento della numerazione degli articoli successivi:  
   
-Decreta:   
-  
-Lo statuto dell'Universita' cattolica del S. Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-Dopo l'art. 97, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in chirurgia plastica ricostruttiva ed in odontoiatria e protesi dentaria.   
-  
-Scuola di specializzazione in chirurgia plastica ricostruttiva   
-  
-Art. 98. - La durata del corso e' di 3 anni. Alla scuola possono iscriversi i laureati in medicina e chirurgia previo esame di ammissione; il numero degli iscritti e' fissato ad un massimo di venti complessivamente.   
-La scuola ha sede presso la clinica chirurgica.   
-Art. 99. - Le materie di insegnamento sono:   
-1° Anno:   
-fondamenti embriologici, anatomici e fisiologici della chirurgia plastica;   
-nozioni di patologia generale ed anatomia patologica (processo di guarigione delle ferite, patologia delle cicatrici, infiammazioni, tumori, malformazioni, biologia degli innesti e dei trapianti);   
-trattamento pre e post-operatorio;   
-esercitazioni pratiche cliniche e operatorie (I).   
-2° Anno:   
-anatomia chirurgica e medicina operatoria;   
-tecniche speciali di chirurgia plastica (I);   
-tecniche di anestesia e particolari indicazioni;   
-esercitazioni pratiche cliniche e operatorie (II).   
-3° Anno:   
-nozioni di oculistica, otorinolaringoiatria, stomatologia, traumatologia, urologia e dermatologia nei rapporti con la chirurgia plastica;   
-nozioni di radiodiagnostica e radioterapia;   
-tecniche speciali di chirurgia plastica (II);   
-esercitazioni pratiche cliniche ed operatorie (III).   
-Art. 100. - Durante i tre anni di corso gli allievi sono tenuti a prestare servizio di internato nei reparti ai quali vengono assegnati per un periodo non inferiore a giorni trenta ed a frequentare le lezioni e le esercitazioni.   
-Art. 101. - Gli allievi sono assegnati in turni periodici ai reparti istituiti presso il policlinico "Gemelli" (clinica chirurgica generale, patologia chirurgica, clinica ortopedica, clinica otorinolaringoiatrica, clinica dermatologica e negli altri eventuali reparti della specialita' secondo le disposizioni del direttore della scuola).   
-Art. 102. - Al termine di ogni anno accademico gli allievi che abbiano ottenuto le attestazioni di frequenza dovranno, per potersi iscrivere al successivo anno di corso, superare gli esami in tutte le materie comprese nel piano degli studi.   
-Abbreviazioni al corso possono essere concesse (iscrizione al secondo anno) soltanto ai candidati gia' in possesso del diploma di specializzazione in chirurgia generale o di libera docenza in chirurgia o patologia chirurgica.   
-Art. 103. - Per essere ammessi all'esame di diploma gli allievi dovranno aver superato tutti gli esami di profitto previsti dal piano degli studi.   
-  
-Scuola di specializzazione in odontoiatria e protesi dentaria   
-  
-Art. 104. - Titolo per l'iscrizione: laurea in medicina e chirurgia.   
-Ammissione: il numero dei posti disponibili al primo corso della scuola e' di 6 (sei), altrettanto dicasi per il numero dei posti disponibili di ciascuno degli anni successivi. Il numero massimo complessivo degli iscritti nei tre anni e' fissato in 18 (diciotto).   
-Durata: tre anni. Frequenza: obbligatoria per l'intero anno scolastico.   
-Vacanze: conformi al calendario universitario, con un solo mese completo estivo (agosto).   
-Art. 105. - Materie di insegnamento:   
-embriologia e anatomia dentaria e maxillo-facciale;   
-anatomia e istologia odontostomatologica;   
-microbiologia ed igiene orale;   
-farmacologia odontostomatologica;   
-patologia odontostomatologica;   
-clinica odontostomatologica;   
-chirurgia maxillo-facciale (biennale);   
-anestesia e chirurgia stomatologica;   
-odontoiatria conservativa (biennale);   
-paradontologia (biennale);   
-clinica protesica dentaria e maxillo-facciale (biennale);   
-ortopedia dento-maxillo-facciale (biennale);   
-radiologia odontostomatologica;   
-odontotecnica;   
-odontoiatria infantile;   
-medicina legale odontostomatologica e delle assicurazioni.   
-Esercitazioni pratiche affiancheranno gli insegnamenti.   
-Suddivisione delle materie d'insegnamento nei tre anni di corso:   
-1° Anno:   
-embriologia ed anatomia dentaria e maxillo-facciale;   
-microbiologia e igiene orale;   
-farmacologia;   
-patologia odontostomatologica;   
-odontotecnica;   
-anestesia e chirurgia stomatologica;   
-odontoiatria conservativa (biennale) I;   
-esercitazioni pratiche.   
-2° Anno:   
-odontoiatria conservativa (biennale) II;   
-clinica protesica dentaria e maxillo-facciale (biennale) I;   
-parodontologia (biennale) I;   
-anatomia e istopatologia odontostomatologica;   
-odontoiatria infantile;   
-radiologia odontostomatologica;   
-ortopedia dento-maxillo-facciale (biennale) I;   
-chirurgia maxillo-facciale (biennale) I;   
-esercitazioni pratiche.   
-3° Anno:   
-clinica odontostomatologica;   
-chirurgia maxillo-facciale (biennale) II;   
-medicina legale odontostomatologica e delle assicurazioni;   
-ortopedia dento-maxillo-facciale (biennale) II;   
-clinica protesica dentaria e maxillo-facciale (biennale) II;   
-parodontologia (biennale) II;   
-esercitazioni pratiche.   
-Esami: gli esami di profitto teorici e pratici saranno sostenuti alla fine di ogni anno in un'unica sessione (ottobre).   
-Alla fine del terzo anno, dopo aver superato gli esami di profitto, gli allievi saranno ammessi a sostenere l'esame di diploma che consiste nella discussione orale di una dissertazione scritta su un tema proposto in precedenza dall'insegnante della materia sulla quale verte l'argomento e approvato dal direttore della scuola.   
+Scuola di specializzazione in economia del sistema agro-alimentare  
+Art. 139. - E' istituita presso l'Universita' cattolica del "Sacro Cuore" di Milano la scuola di specializzazione in economia del sistema agro-alimentare, che conferisce il diploma di specialista in economia del sistema agroalimentare.  
+Art. 140. - La direzione della scuola ha sede presso la facolta' di agraria.  
+Art. 141. - La scuola ha lo scopo di fornire una conoscenza specialistica dell'economia del sistema agroalimentare con particolare riferimento:  
+a) a livello di sistema, all'organizzazione dei suoi settori - specie di quello agricolo e dell'industria alimentare - e ai rapporti tra questi settori, in relazione anche all'evoluzione in atto nel mercato internazionale dei prodotti agricoli ed alimentari;  
+b) a livello aziendale, alla direzione ed alla gestione delle imprese private, cooperative e pubbliche del sistema agro-alimentare.  
+Art. 142. - La durata del corso e' di due anni e non e' suscettibile di abbreviazioni.  
+Art. 143. - Il numero degli iscritti e' di venticinque per ogni anno e complessivamente di cinquanta per l'intero corso di studi.  
+Art. 144. - Alla scuola sono ammessi coloro i quali abbiano conseguito il diploma di laurea presso le seguenti facolta': agraria, chimica industriale, economia e commercio, giurisprudenza, ingegneria, medicina veterinaria, scienze economiche e bancarie, scienze economiche e sociali, scienze matematiche, fisiche e naturali, scienze politiche, scienze statistiche demografiche ed attuariali, e qualora prescritto, anche il diploma di abilitazione all'esercizio professionale.  
+Art. 145. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione dei seguenti titoli:  
+a) la tesi nella disciplina attinente alla specializzazione;  
+b) il voto di laurea;  
+c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
+d) le pubblicazioni nelle predette materie.  
+Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale 16 settembre 1982.  
+Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
+Art. 146. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) biotecnologie agro-alimentari (afferente alla facolta' di agraria);  
+2) cicli produttivi e gestione delle scorte (afferente alla facolta' di economia e commercio);  
+3) decisioni di investimento (afferente alla facolta' di economia e commercio);  
+4) economia del mercato internazionale dei prodotti agro-alimentari (afferente alla facolta' di agraria);  
+5) economia del sistema agro-alimentare (afferente alla facolta' di agraria);  
+6) elementi di analisi applicata al sistema agroalimentare (afferente alla facolta' di agraria);  
+7) elementi di economia aziendale (afferente alla facolta' di economia e commercio);  
+8) finanza (afferente alla facolta' di economia e commercio);  
+9) istituzioni di economia agro-alimentare (afferente alla facolta' agraria);  
+10) marketing (afferente alla facolta' di economia e commercio);  
+11) organizzazione del mercato agro-alimentare (afferente alla facolta' di agraria);  
+12) programmazione, pianificazione e controllo (afferente alla facolta' di economia e commercio);  
+13) struttura e politiche dei prezzi dei prodotti agroalimentari (afferente alla facolta' di agraria).  
+2° Anno:  
+1) biotecnologie agro-alimentari (corso progredito) (afferente alla facolta' di agraria);  
+2) cicli produttivi e gestione delle scorte (corso progredito) (afferente alla facolta' di economia e commercio);  
+3) decisioni di investimento (corso progredito) (afferente alla facolta' di economia e commercio);  
+4) econometria (afferente alla facolta' di agraria);  
+5) economia del comportamento del consumatore (afferente alla facolta' di agraria);  
+6) economia del mercato internazionale dei prodotti agro-alimentari (corso progredito) (afferente alla facolta' di agraria);  
+7) economia del sistema agro-alimentare (corso progredito) (afferente alla facolta' di agraria);  
+8) economia e tecnica della pubblicita' (afferente alla facolta' di economia e commercio);  
+9) finanza (corso progredito) (afferente alla facolta' di economia e commercio);  
+10) istituzioni di economia agro-alimentare (corso progredito) (afferente alla facolta' di agraria);  
+11) marketing (corso progredito) (afferente alla facolta' di economia e commercio);  
+12) logistica (afferente alla facolta' di economia e commercio);  
+13) organizzazione aziendale e gestione delle risorse umane (afferente alla facolta' di economia e commercio);  
+14) organizzazione del mercato agro-alimentare (corso progredito) (afferente alla facolta' di agraria);  
+15) politica alimentare (afferente alla facolta' di agraria);  
+16) programmazione, pianificazione e controllo (corso progredito) (afferente alla facolta' di economia e commercio);  
+17) ricerca operativa (afferente alla facolta' di economia e commercio);  
+18) struttura e politiche dei prezzi dei prodotti agroalimentari (corso progredito) (afferente alla facolta' di agraria);  
+19) teoria, tecnica e valutazione dei prodotti di sviluppo (afferente alla facolta' di economia e commercio).  
+Art. 147. - La frequenza dei corsi e ad ogni altra attivita' didattica, nonche' il superamento dell'esame sono obbligatori per gli insegnamenti del primo anno per un totale di dieci annualita', e per gli insegnamenti del secondo anno per un totale di tre annualita' (due insegnamenti semestrali equivalgono a uno annuale) che lo studente deve scegliere, in accordo con il consiglio della scuola, tra quelli attivati con delibera del consiglio medesimo. Ogni insegnamento, a giudizio del consiglio della scuola, potra' avere durata annuale o semestrale.  
+Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
+Art. 148. - I doveri e gli adempimenti degli iscritti alla scuola in ordine al programma didattico, alla frequenza alle lezioni, seminari e attivita' pratiche devono soddisfare i seguenti requisiti:  
+a) durante l'anno di corso vengono tenuti seminari, gruppi di studio, discussioni di casi sia con l'ausilio di simulazioni che con visite presso imprese, che costituiscono le attivita' pratiche;  
+b) le attivita' didattiche e pratiche richiedono la frequenza nell'ambito della scuola;  
+c) tenuto conto di quanto stabilito dal primo comma dell'art. 147, eventuali assenze dovranno essere di volta in volta giustificate e comunque non dovranno superare il 10% della durata dei singoli corsi ne' delle attivita' pratiche.  
+Art. 149. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso. A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.  
+Art. 150. - L'importo delle tasse e soprattasse dovuto dagli studenti della scuola e' quello previsto dallo statuto dell'Universita' cattolica, determinato dal consiglio di amministrazione in base alle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
+Art. 151. - Nella scuola e' costituito un consiglio presieduto da un direttore. Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99). Il consiglio esercita le competenze spettanti, ai sensi dell'[art. 94 del decreto del Presidente della Repubblica n. 382/1980](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art94), al consiglio di corso di laurea in materia di coordinamento di insegnamenti.  
+Il direttore viene nominato dal rettore, su proposta del consiglio della scuola tra i professori ordinari, straordinari o fuori ruolo che insegnino anche nella scuola stessa; dura in carica tre anni ed e' riconfermabile. In caso di motivato impedimento la direzione della scuola e' affidata a un professore associato che pure insegni nella scuola medesima.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1975
+### Dato a Roma, addi' 10 gennaio 1985
 
-LEONE MALFATTI
+PERTINI
 
-Visto, il Guardasigilli: REALE
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 16 febbraio 1976
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Atti di Governo, registro n. 3, foglio n. 10
+Registrato alla Corte dei conti, addi' 18 marzo 1985
+
+Registro n. 15 Istruzione, foglio n. 400

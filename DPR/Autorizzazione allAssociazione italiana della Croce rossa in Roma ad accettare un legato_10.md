@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 gennaio 1981 n. 734
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1982 n. 142
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 gennaio 1981 n. 734
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1982 n. 142
 ==============================================================
 
 Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare un legato.
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-734. Decreto del Presidente della Repubblica 8 gennaio 1981, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato, consistente in titoli obbligazionari depositati presso il Credito artigiano di Milano, del valore nominale di L. 13.500.000 di cui L. 4.000.000 da devolversi alla delegazione di Bresso, disposto dalla sig.na Irene Giavazzi in favore del comitato provinciale C.R.I. di Milano e della delegazione C.R.I. di Bresso (Milano) con testamento olografo pubblicato in data 15 settembre 1976, n. 28005/2903 di repertorio, a rogito dott.ssa Adele Ricevuti, notaio in Milano.  
+142. Decreto del Presidente della Repubblica 29 gennaio 1982, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato, consistente in una quota di comproprieta' indivisa e pari a 7/12 di due appartamenti con accessori ed un magazzino siti in Bologna, via De Pretis n. 1, del periziato valore di L. 60.000.000, e in un appartamento occupato dalla de cuius ed ora libero, sito in Bologna, via Santo Stefano n. 29, scala B, 2° piano, del periziato valore di L. 165.000.000, disposto dalla sig.ra Marinoni Amelia ved. Gnudi, in favore del comitato provinciale C.R.I. di Bologna, con testamento olografo pubblicato in data 17 novembre 1978, n. 207 di repertorio, a rogito dott.  
+Giovanni Battista Sassoli, notaio in Bologna e registrato a Bologna in data 5 dicembre 1978 al n. 17504.   
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 1 dicembre 1981  
-Registro n. 7 Sanita', foglio n. 45
+Visto, il Guardasigilli: DARIDA   
+Registrato alla Corte dei conti, addi' 30 marzo 1982   
+Registro n. 2 Sanita', foglio n. 203

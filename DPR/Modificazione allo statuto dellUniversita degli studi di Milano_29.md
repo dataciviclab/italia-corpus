@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 novembre 1983 n. 1275
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 472
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 novembre 1983 n. 1275
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 472
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -39,19 +39,19 @@ Articolo unico
 --------------
 
   
-Art. 30 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono inseriti i seguenti insegnamenti: oncologia medica;  
-patologia cardiovascolare.  
+Art. 16 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' inserito il seguente insegnamento:  
+statistica metodologica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 novembre 1983
+### Dato a Roma, addi' 16 giugno 1983
 
 PERTINI FALCUCCI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 4 agosto 1984
+Registrato alla Corte dei conti, addi' 17 agosto 1983
 
-Registro n. 48 Istruzione, foglio n. 235
+Registro n. 59 Istruzione, foglio n. 138

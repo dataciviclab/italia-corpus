@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 1032
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1951 n. 633
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 1032
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1951 n. 633
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,72 +10,112 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con il [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con i [regi decreti 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169); [31 ottobre 1929, n. 2484](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2484); [30 ottobre 1930, n. 1858](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1858);[22 ottobre 1931, n. 1422](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-22;1422); [27 ottobre 1932, n. 2082](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-10-27;2082);[13 dicembre 1934, n. 2404](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-12-13;2404); [1 ottobre 1936, n. 2020](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;2020); [13 luglio 1939, n. 1168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-07-13;1168); [26 ottobre 1940, n. 2029](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2029) e [24 ottobre 1942, n. 1785; con il regio decreto-legge](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-10-24;1785) [27 gennaio 1944, n. 58 e con decreto legislativo luogotenenziale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-01-27;58) [5 aprile 1945, n. 238 e con decreto Presidenziale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1945-04-05;238) [21 aprile 1949, n. 451](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;451);
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' cosi' ulteriormente modificato:
 
-Articolo unico
---------------
+Art. 20. - E' sostituito dal seguente:
 
+"Alla Facolta' sono annessi gli istituti di merceologia (comprendente il laboratorio di merceologia ed il museo merceologico) di matematica applicata, di ragioneria, di tecnica commerciale, industriale, bancaria e professionale, di geografia e di statistica.
+
+Alla Facolta' e' inoltre annesso l'Istituto di economia politica "Salvatore Cognetti De Martiis".
+
+Per questi Istituti valgono, in quanto applicabili, le norme dell'art. 14".
+
+Art. 83. - All'elenco delle scuole di perfezionamento annessa alla Facolta' di medicina e chirurgia e' aggiunta: la "Scuola di perfezionamento in otorinolaringoiatria".
+
+Dopo l'art. 109. - E' aggiunto il seguente nuovo articolo:
+
+12. - Scuola di perfezionamento in otorinolaringoiatria.
+
+Art. 110. - La Scuola di perfezionamento in otorinolaringoiatria e' annessa all'istituto di clinica otorinolaringoiatrica.
+
+Gli anni di studio per il conseguimento del diploma di specialista sono tre.
+
+Gli insegnamenti impartiti nella scuola sono i seguenti:
+
+1) anatomia clinica e fisiopatologia dell'orecchio e delle prime vie aere e digerenti;
+
+2) tecnica diagnostica speciale;
+
+3) patologia e clinica otorinolaringologica.
+
+Gli iscritti al corso hanno l'obbligo dell'internato in clinica otorinolaringologica per tutta la durata dell'insegnamento.
+
+La spesa relativa al funzionamento della predetta scuola e' a carico del bilancio ordinario dell'Universita' di Bari.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 11 maggio 1951
+
+EINAUDI
+
+GONELLA
+
+Visto, il Guardasigilli: PICCIONI
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 9 agosto 1951 Atti del Governo, registro n. 41, foglio n. 25. - FRASCA
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Nell'art. 129, concernente gli insegnamenti per il conseguimento della laurea in ingegneria elettronica, alla lettera B) relativa agli insegnamenti obbligatori sul piano della facolta', la disciplina "complementi di elettrotecnica" muta la denominazione in "teoria delle reti elettriche".  
-Nel medesimo articolo, all'elenco dei sei insegnamenti a scelta di cui alla lettera C), sono aggiunte le seguenti nuove discipline:  
-optoelettronica;  
-complementi di controllo;  
-tecnologie dei sistemi di controllo;  
-elaborazione numerica dei segnali;  
-progetto con l'ausilio del calcolatore;  
-compilatori e sistemi operativi;  
-sistemi per l'elaborazione dell'informazione.  
-Alla stessa lettera C) l'insegnamento "teoria dell'informazione" cambia la denominazione in "teoria dei segnali".  
-Nell'art. 130, concernente l'elenco degli insegnamenti di cui all'art. 121 relativo alle materie a scelta dello studente, sono incluse le seguenti discipline:  
-elettronica di potenza;  
-tecnica degli impianti elettrici;  
-motori a combustione interna (semestrale);  
-tecnica del freddo;  
-analisi sperimentale delle sollecitazioni;  
-meccanica delle vibrazioni (semestrale);  
-economia generale;  
-complementi di tecnica della rappresentazione.  
-Nel medesimo articolo gli insegnamenti complementari seguenti sono trasformati da semestrali ad annuali:  
-analisi strutturale con l'elaboratore elettronico;  
-sperimentazione e collaudi;  
-tecnica di elaborazione elettronica nell'urbanistica e nell'architettura;  
-fotogrammetria architettonica.  
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con il [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con i [regi decreti 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169); [31 ottobre 1929, n. 2484](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2484); [30 ottobre 1930, n. 1858](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1858);[22 ottobre 1931, n. 1422](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-22;1422); [27 ottobre 1932, n. 2082](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-10-27;2082);[13 dicembre 1934, n. 2404](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-12-13;2404); [1 ottobre 1936, n. 2020](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;2020); [13 luglio 1939, n. 1168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-07-13;1168); [26 ottobre 1940, n. 2029](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2029) e [24 ottobre 1942, n. 1785; con il regio decreto-legge](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-10-24;1785) [27 gennaio 1944, n. 58 e con decreto legislativo luogotenenziale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-01-27;58) [5 aprile 1945, n. 238 e con decreto Presidenziale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1945-04-05;238) [21 aprile 1949, n. 451](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;451);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' cosi' ulteriormente modificato:  
+  
+Art. 20. - E' sostituito dal seguente:  
+"Alla Facolta' sono annessi gli istituti di merceologia (comprendente il laboratorio di merceologia ed il museo merceologico) di matematica applicata, di ragioneria, di tecnica commerciale, industriale, bancaria e professionale, di geografia e di statistica.  
+Alla Facolta' e' inoltre annesso l'Istituto di economia politica "Salvatore Cognetti De Martiis".  
+Per questi Istituti valgono, in quanto applicabili, le norme dell'art. 14".  
+Art. 83. - All'elenco delle scuole di perfezionamento annessa alla Facolta' di medicina e chirurgia e' aggiunta: la "Scuola di perfezionamento in otorinolaringoiatria".  
+Dopo l'art. 109. - E' aggiunto il seguente nuovo articolo:  
+12. - Scuola di perfezionamento in otorinolaringoiatria.  
+Art. 110. - La Scuola di perfezionamento in otorinolaringoiatria e' annessa all'istituto di clinica otorinolaringoiatrica.  
+Gli anni di studio per il conseguimento del diploma di specialista sono tre.  
+Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1) anatomia clinica e fisiopatologia dell'orecchio e delle prime vie aere e digerenti;  
+2) tecnica diagnostica speciale;  
+3) patologia e clinica otorinolaringologica.  
+Gli iscritti al corso hanno l'obbligo dell'internato in clinica otorinolaringologica per tutta la durata dell'insegnamento.  
+La spesa relativa al funzionamento della predetta scuola e' a carico del bilancio ordinario dell'Universita' di Bari.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 ottobre 1986
+### Dato a Roma, addi' 11 maggio 1951
 
-COSSIGA
+EINAUDI GONELLA
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: PICCIONI
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 9 agosto 1951
 
-Registrato alla Corte dei conti, addi' 25 febbraio 1987
-
-Registro n. 11 Istruzione, foglio n. 129
+Atti del Governo, registro n. 41, foglio n. 25. - FRASCA

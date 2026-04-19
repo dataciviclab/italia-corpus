@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1174
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1968 n. 1437
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1174
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1968 n. 1437
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939 n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,9 +18,9 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;512);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -32,156 +32,154 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 190. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie e' aggiunto quello di:
+Art. 42. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti quelli di:
 
-Fisiologia generale.
+Finanza aziendale;
 
-Gli articoli 232, 241, 242 relativi alle scuole di perfezionamento in storia antica, di specializzazione per archivisti e di specializzazione per bibliotecari sono abrogati e sostituiti dai seguenti:
+Tecnica di borsa;
 
-Scuola di perfezionamento in storia antica
+Demografia;
 
-Art. 232. - Sono titoli di ammissione le seguenti lauree: in lettere, in materie letterarie, in filosofia, in giurisprudenza.
+Statistica economica.
 
-Sono discipline fondamentali:
+Nel predetto corso di laurea l'insegnamento complementare di "Ragioneria legale" e' soppresso.
 
-Antichita' greche e romane;
+Art. 49, relativo alle norme sulle propedeuticita' di esami, del corso di laurea in economia e commercio e' modificato nel senso che viene aggiunto il seguente comma: "L'esame di ragioneria I deve precedere quello di economia e politica agraria".
 
-Epigrafia e istituzioni greche;
+Art. 51. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto quello di:
 
-Epigrafia e istituzioni romane;
+13) Arabo.
 
-Storia greca;
+Art. 53, relativo agli istituti annessi alla facolta' di economia e commercio e' modificato nel senso che gli istituti di "Ragioneria e tecnica economica" e di "Storia economica" sono soppressi mentre vengono istituiti i seguenti:
 
-Storia orientale antica;
+Istituto di ricerche aziendali;
 
-Storia romana.
+Istituto di storia economica e sociale;
 
-Sono discipline complementari tutte quelle insegnate nella facolta' di lettere e filosofia nonche' quelle, insegnate in altre facolta' o scuole di perfezionamento, che il direttore della scuola, su proposta del professore della disciplina di perfezionamento, ritenga utile ai fini del perfezionamento stesso.
+Istituto di geografia.
 
-In linea di massima gli iscritti dovranno sostenere nel biennio due esami in singole discipline fondamentali, entro i corsi in atto nell'anno, scelte d'accordo con il docente della disciplina in cui rientra il tema della dissertazione di perfezionamento e approvate dal direttore della scuola.
+Art. 83, relativo agli istituti annessi alla facolta' di magistero e' modificato nel senso che viene aggiunto il seguente:
 
-Una delle discipline fondamentali puo' essere sostituita, sempre con il consenso del docente suddetto e con l'approvazione del direttore, da una delle discipline complementari.
+Istituto di psicologia dell'eta' evolutiva.
 
-Nella prova preliminare di traduzione a vista deve essere compresa, in ogni caso, la lingua tedesca.
+Art. 89, relativo agli istituti annessi alla facolta' di medicina e chirurgia e' modificato nel senso che sono aggiunti i seguenti:
 
-Alla fine del biennio, il perfezionando deve presentare una dissertazione scientifica originale, possibilmente a stampa.
+Istituto di microbiologia;
 
-Le tasse e soprattasse annuali a carico degli iscritti restano cosi' determinate:
+Istituto di chirurgia plastica.
 
-Tassa di iscrizione per studenti di corso . . . . . . . L. 11.000 Tassa di iscrizione per studenti fuori corso . . . . . . L. 5.000 Soprattassa esami. . . . . . . . . . . . . . . . . . . . . L. 400
+Art. 99, relativo alle norme e agli esami del corso di laurea in fisica, e' modificato nel senso che il 1° periodo del secondo comma e' abrogato e sostituito dal seguente:
 
-Il consiglio di amministrazione dell'Universita', su proposta del senato accademico, udito il consiglio della facolta' di lettere e filosofia, stabilira' di anno in anno l'ammontare dei contributi.
+"Deve infine avere compiuto un anno di internato presso un istituto di scienze fisiche dell'universita', o presso altro istituto approvato dalla facolta' di scienze, per la preparazione della tesi di laurea".
 
-Scuola di specializzazione per archivisti
+Nello stesso corso di laurea il terzo comma e' abrogato e sostituito dal seguente:
 
-Art. 241. - Titolo di ammissione alla scuola e' una qualsiasi laurea conseguita presso una universita' o istituto superiore universitario.
+"L'esame di laurea consiste nella discussione di una tesi scritta e di una tesina orale".
 
-Sono materie fondamentali:
+Art. 100. - All'elenco degli insegnamenti complementari previsti per il 4° anno del corso di laurea in matematica, indirizzo generale, sono aggiunti i seguenti:
 
-Archivistica;
+Meccanica dei continui;
 
-Diplomatica;
+Istituzioni di fisica nucleare;
 
-Paleografia;
+Geodesia.
 
-Storia delle Venezie;
+Sono insegnamenti complementari, inoltre, tutti gli insegnamenti fondamentali degli altri indirizzi.
 
-Sono materie complementari:
+All'elenco degli insegnamenti complementari previsti per il 4° anno del predetto corso di laurea - indirizzo didattico - sono aggiunti i seguenti:
 
-Bibliografia;
+Struttura della materia;
 
-Biblioteconomia;
+Istituzioni di fisica nucleare.
 
-Dialetti veneti;
+Nell'elenco degli insegnamenti complementari previsti per il 4° anno del suddetto corso di laurea ad indirizzo applicativo, orientamento a) vengono soppressi quelli di "Cosmologia", "Teoria delle orbite" e viene aggiunto quello di "Programmazione matematica".
 
-Latino medioevale;
+Nell'elenco degli insegnamenti complementari previsti per il suddetto corso di laurea ad indirizzo applicativo, orientamento b) "Programmazione lineare e non lineare" e "Programmazione dinamica e non lineare" sono sostituiti rispettivamente da quelli di "Programmazione matematica" e "Programmazione dinamica"; e' inoltre aggiunto l'insegnamento di "Meccanica dei continui".
 
-Storia del diritto italiano;
+Nell'elenco degli insegnamenti complementari previsti per il suddetto corso di laurea per l'orientamento c) sono aggiunti quelli di:
 
-Storia economica, nonche' tutte le altre discipline che il consiglio della scuola si riserva di indicare tenendo conto della preparazione degli iscritti, e dello scopo della specializzazione.
+Meccanica dei continui;
 
-Gli iscritti debbono frequentare i corsi e superare gli esami delle quattro materie fondamentali e di quelle materie complementari la cui scelta sara' concordata col professore della materia della dissertazione per il diploma ed approvata dal direttore della scuola.
+Cosmologia;
 
-Nel secondo anno gli iscritti debbono compiere un tirocinio presso un archivio designato dal direttore della scuola, con esercitazioni dirette dal professore di archivistica; alla fine devono superare, una prova pratica di ricerca archivistica. In questa prova i candidati dovranno dimostrare di conoscere la lingua francese e la lingua tedesca o inglese.
+Teoria delle orbite;
 
-Per conseguire il diploma di archivistica, gli aspiranti debbono, dopo aver assolto gli obblighi determinati dai precedenti commi, presentare e discutere una dissertazione scritta sopra una delle materie costitutive della specializzazione, scelta di concerto con il direttore della scuola, preferibilmente tra le materie fondamentali.
+Statistica stellare;
 
-Le tasse e soprattasse annuali a carico degli iscritti restano cosi' determinate:
+Astrofisica teorica.
 
-Tassa di iscrizione per studenti di corso . . . . . . . L. 11.000 Tassa di iscrizione per studenti fuori corso . . . . . . L. 5.000 Soprattassa esami. . . . . . . . . . . . . . . . . . . . . L. 400
+Art. 108, relativo alle norme e agli esami del corso di laurea in scienze naturali e' modificato nel senso che il primo e il secondo comma sono abrogati e sostituiti dai seguenti:
 
-Il consiglio di amministrazione dell'Universita', su proposta del senato accademico, udito il consiglio della facolta' di lettere e filosofia, stabilira' di anno in anno l'ammontare dei contributi.
+"Dopo il primo biennio lo studente dovra' frequentare per due anni, come interno, uno degli istituti di scienze naturali dell'universita' e, dietro approvazione del preside della facolta', altro istituto dell'universita', nel quale attendera' alla elaborazione della tesi di laurea. Durante tale biennio lo studente e' tenuto a seguire l'attivita' didattica che si svolge nell'istituto".
 
-Scuola di specializzazione per bibliotecari
+L'ammissione all'internato e' regolata dalle norme contenute nell'ordinamento annuale degli studi della facolta'".
 
-Art. 242. - Titolo di ammissione alla scuola e' una qualsiasi laurea conseguita presso una universita' o istituto superiore universitario.
+Art. 116 relativo agli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali e' modificato nel senso che l'istituto di botanica e di fisiologia vegetale con annesso orto botanico e' soppresso e sostituito da quelli di:
 
-La scuola puo' articolarsi in due indirizzi: letterario o scientifico.
+Istituto di botanica e di fisiologia generale;
 
-L'ammissione all'uno o all'altro degli indirizzi e' demandata al consiglio della scuola, tenuto conto del diploma di laurea in possesso dell'aspirante.
+Orto botanico;
 
-Sono materie fondamentali:
+Istituto di chimica analitica e chimica analitica applicata.
 
-Bibliografia;
+Art. 175. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti quelli di:
 
-Biblioteconomia;
+Parassitologia animale dei vegetali;
 
-Paleografia;
+Fitoiatria;
 
-Storia delle Venezie.
+Tecnologia della produzione degli alimenti zootecnici;
 
-Sono materie complementari:
+Tecnica delle applicazioni frigorifere.
 
-Archivistica;
+Art. 177, relativo alle norme sugli esami del corso di laurea in scienze agrarie e' modificato nel senso che viene aggiunto il seguente nuovo comma:
 
-Aspetti artistici del libro;
+"Il corso biennale di agronomia generale e coltivazioni erbacee pur restando unito quanto all'insegnamento comporta per l'accertamento due distinti esami annuali (Agronomia generale e, separatamente coltivazioni erbacee)".
 
-Dialetti veneti;
+Art. 182. - L'elenco degli istituti annessi alla facolta' di agraria e' modificato nel senso che viene aggiunto il seguente:
 
-Diplomatica;
+Estimo rurale e contabilita'.
 
-Latino medioevale;
+Art. 327. - L'elenco dei corsi di perfezionamento annessi alla facolta' di ingegneria e' modificato nel senso che dopo il 1° corso va inserito il seguente:
 
-Filologia medioevale e umanistici, nonche' tutte le altre discipline che il consiglio della scuola si riserva di indicare tenendo conto della preparazione degli iscritti e dell'indirizzo letterario o scientifico.
+2) corso di perfezionamento in idrografia o idrologia presso l'istituto di idraulica con il conseguente spostamento della numerazione successiva.
 
-Gli iscritti debbono frequentare i corsi e superare gli esami delle quattro materie fondamentali e di quelle materie complementari la cui scelta sara' concordata col professore della materia della dissertazione per il diploma e approvata dal direttore della scuola.
+Art. 329. - Il primo periodo relativo ai titoli di ammissione ai corsi di perfezionamento e' modificato nel modo seguente:
 
-Nel secondo anno della scuola gli iscritti debbono compiere un tirocinio in una biblioteca designata dal direttore della scuola con esercitazioni dirette dal professore di biblioteconomia e alla fine superare una prova pratica di ricerca bibliografica. In queste prove i candidati dovranno dimostrare di conoscere la lingua francese e di saper usare repertori inglesi e tedeschi; potranno anche dare saggio di catalogazione di opere scritte in una lingua slava od orientale.
+per i corsi di perfezionamento in idraulica sperimentale ed in idrografia e idrologia, presso l'istituto di idraulica;
 
-Per conseguire il diploma di bibliotecario, gli aspiranti debbono, dopo aver assolto gli obblighi determinati dal precedente comma, presentare e discutere una dissertazione sopra una delle materie della specializzazione, scelte di concerto con il direttore della scuola, preferibilmente tra le materie fondamentali.
+Art. 339, relativo alla "Scuola post-universitaria di organizzazione aziendale" e' modificato nel senso che il titolo muta denominazione in quello di: "Scuola di specializzazione in organizzazione aziendale".
 
-Le tasse e soprattasse annuali a carico degli iscritti restano cosi' determinate:
+Il secondo comma e' abrogato e sostituito dal seguente:
 
-Tassa di iscrizione per studenti di corso . . . . . . . L. 11.000 Tassa di iscrizione per studenti fuori corso . . . . . . L. 5.000 Soprattassa esami. . . . . . . . . . . . . . . . . . . . . L. 400
-
-Il consiglio di amministrazione dell'Universita', su proposta del senato accademico, udito il consiglio della facolta' di lettere e filosofia, stabilira' di anno in anno l'ammontare dei contributi.
+"La scuola conferisce, il diploma di specializzazione in "Organizzazione aziendale".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1972
+Dato a Roma, addi' 31 ottobre 1968
 
-LEONE
+SARAGAT
 
-SCALFARO
+SCAGLIA
 
 Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 28 giugno 1973 Atti di Governo, registro n. 258, foglio n. 131. - VALENTINI
+alla Corte dei conti, addi' 26 febbraio 1969 Atti del Governo, registro n. 225 foglio n. 69. - GRECO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939 n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;512);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -190,88 +188,78 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 190. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie e' aggiunto quello di:  
-Fisiologia generale.  
-Gli articoli 232, 241, 242 relativi alle scuole di perfezionamento in storia antica, di specializzazione per archivisti e di specializzazione per bibliotecari sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di perfezionamento in storia antica  
-  
-Art. 232. - Sono titoli di ammissione le seguenti lauree: in lettere, in materie letterarie, in filosofia, in giurisprudenza.  
-Sono discipline fondamentali:  
-Antichita' greche e romane;  
-Epigrafia e istituzioni greche;  
-Epigrafia e istituzioni romane;  
-Storia greca;  
-Storia orientale antica;  
-Storia romana.  
-Sono discipline complementari tutte quelle insegnate nella facolta' di lettere e filosofia nonche' quelle, insegnate in altre facolta' o scuole di perfezionamento, che il direttore della scuola, su proposta del professore della disciplina di perfezionamento, ritenga utile ai fini del perfezionamento stesso.  
-In linea di massima gli iscritti dovranno sostenere nel biennio due esami in singole discipline fondamentali, entro i corsi in atto nell'anno, scelte d'accordo con il docente della disciplina in cui rientra il tema della dissertazione di perfezionamento e approvate dal direttore della scuola.  
-Una delle discipline fondamentali puo' essere sostituita, sempre con il consenso del docente suddetto e con l'approvazione del direttore, da una delle discipline complementari.  
-Nella prova preliminare di traduzione a vista deve essere compresa, in ogni caso, la lingua tedesca.  
-Alla fine del biennio, il perfezionando deve presentare una dissertazione scientifica originale, possibilmente a stampa.  
-Le tasse e soprattasse annuali a carico degli iscritti restano cosi' determinate:  
-  
-Tassa di iscrizione per studenti di corso . . . . . . . L. 11.000 Tassa di iscrizione per studenti fuori corso . . . . . . L. 5.000 Soprattassa esami. . . . . . . . . . . . . . . . . . . . . L. 400   
-Il consiglio di amministrazione dell'Universita', su proposta del senato accademico, udito il consiglio della facolta' di lettere e filosofia, stabilira' di anno in anno l'ammontare dei contributi.  
-  
-Scuola di specializzazione per archivisti  
-  
-Art. 241. - Titolo di ammissione alla scuola e' una qualsiasi laurea conseguita presso una universita' o istituto superiore universitario.  
-Sono materie fondamentali:  
-Archivistica;  
-Diplomatica;  
-Paleografia;  
-Storia delle Venezie;  
-Sono materie complementari:  
-Bibliografia;  
-Biblioteconomia;  
-Dialetti veneti;  
-Latino medioevale;  
-Storia del diritto italiano;  
-Storia economica, nonche' tutte le altre discipline che il consiglio della scuola si riserva di indicare tenendo conto della preparazione degli iscritti, e dello scopo della specializzazione.  
-Gli iscritti debbono frequentare i corsi e superare gli esami delle quattro materie fondamentali e di quelle materie complementari la cui scelta sara' concordata col professore della materia della dissertazione per il diploma ed approvata dal direttore della scuola.  
-Nel secondo anno gli iscritti debbono compiere un tirocinio presso un archivio designato dal direttore della scuola, con esercitazioni dirette dal professore di archivistica; alla fine devono superare, una prova pratica di ricerca archivistica. In questa prova i candidati dovranno dimostrare di conoscere la lingua francese e la lingua tedesca o inglese.  
-Per conseguire il diploma di archivistica, gli aspiranti debbono, dopo aver assolto gli obblighi determinati dai precedenti commi, presentare e discutere una dissertazione scritta sopra una delle materie costitutive della specializzazione, scelta di concerto con il direttore della scuola, preferibilmente tra le materie fondamentali.  
-Le tasse e soprattasse annuali a carico degli iscritti restano cosi' determinate:  
-  
-Tassa di iscrizione per studenti di corso . . . . . . . L. 11.000 Tassa di iscrizione per studenti fuori corso . . . . . . L. 5.000 Soprattassa esami. . . . . . . . . . . . . . . . . . . . . L. 400   
-Il consiglio di amministrazione dell'Universita', su proposta del senato accademico, udito il consiglio della facolta' di lettere e filosofia, stabilira' di anno in anno l'ammontare dei contributi.  
-  
-Scuola di specializzazione per bibliotecari  
-  
-Art. 242. - Titolo di ammissione alla scuola e' una qualsiasi laurea conseguita presso una universita' o istituto superiore universitario.  
-La scuola puo' articolarsi in due indirizzi: letterario o scientifico.  
-L'ammissione all'uno o all'altro degli indirizzi e' demandata al consiglio della scuola, tenuto conto del diploma di laurea in possesso dell'aspirante.  
-Sono materie fondamentali:  
-Bibliografia;  
-Biblioteconomia;  
-Paleografia;  
-Storia delle Venezie.  
-Sono materie complementari:  
-Archivistica;  
-Aspetti artistici del libro;  
-Dialetti veneti;  
-Diplomatica;  
-Latino medioevale;  
-Filologia medioevale e umanistici, nonche' tutte le altre discipline che il consiglio della scuola si riserva di indicare tenendo conto della preparazione degli iscritti e dell'indirizzo letterario o scientifico.  
-Gli iscritti debbono frequentare i corsi e superare gli esami delle quattro materie fondamentali e di quelle materie complementari la cui scelta sara' concordata col professore della materia della dissertazione per il diploma e approvata dal direttore della scuola.  
-Nel secondo anno della scuola gli iscritti debbono compiere un tirocinio in una biblioteca designata dal direttore della scuola con esercitazioni dirette dal professore di biblioteconomia e alla fine superare una prova pratica di ricerca bibliografica. In queste prove i candidati dovranno dimostrare di conoscere la lingua francese e di saper usare repertori inglesi e tedeschi; potranno anche dare saggio di catalogazione di opere scritte in una lingua slava od orientale.  
-Per conseguire il diploma di bibliotecario, gli aspiranti debbono, dopo aver assolto gli obblighi determinati dal precedente comma, presentare e discutere una dissertazione sopra una delle materie della specializzazione, scelte di concerto con il direttore della scuola, preferibilmente tra le materie fondamentali.  
-Le tasse e soprattasse annuali a carico degli iscritti restano cosi' determinate:  
-  
-Tassa di iscrizione per studenti di corso . . . . . . . L. 11.000 Tassa di iscrizione per studenti fuori corso . . . . . . L. 5.000 Soprattassa esami. . . . . . . . . . . . . . . . . . . . . L. 400   
-Il consiglio di amministrazione dell'Universita', su proposta del senato accademico, udito il consiglio della facolta' di lettere e filosofia, stabilira' di anno in anno l'ammontare dei contributi.  
+Art. 42. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti quelli di:  
+Finanza aziendale;  
+Tecnica di borsa;  
+Demografia;  
+Statistica economica.  
+Nel predetto corso di laurea l'insegnamento complementare di "Ragioneria legale" e' soppresso.  
+Art. 49, relativo alle norme sulle propedeuticita' di esami, del corso di laurea in economia e commercio e' modificato nel senso che viene aggiunto il seguente comma: "L'esame di ragioneria I deve precedere quello di economia e politica agraria".  
+Art. 51. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto quello di:  
+13) Arabo.  
+Art. 53, relativo agli istituti annessi alla facolta' di economia e commercio e' modificato nel senso che gli istituti di "Ragioneria e tecnica economica" e di "Storia economica" sono soppressi mentre vengono istituiti i seguenti:  
+Istituto di ricerche aziendali;  
+Istituto di storia economica e sociale;  
+Istituto di geografia.  
+Art. 83, relativo agli istituti annessi alla facolta' di magistero e' modificato nel senso che viene aggiunto il seguente:  
+Istituto di psicologia dell'eta' evolutiva.  
+Art. 89, relativo agli istituti annessi alla facolta' di medicina e chirurgia e' modificato nel senso che sono aggiunti i seguenti:  
+Istituto di microbiologia;  
+Istituto di chirurgia plastica.  
+Art. 99, relativo alle norme e agli esami del corso di laurea in fisica, e' modificato nel senso che il 1° periodo del secondo comma e' abrogato e sostituito dal seguente:  
+"Deve infine avere compiuto un anno di internato presso un istituto di scienze fisiche dell'universita', o presso altro istituto approvato dalla facolta' di scienze, per la preparazione della tesi di laurea".  
+Nello stesso corso di laurea il terzo comma e' abrogato e sostituito dal seguente:  
+"L'esame di laurea consiste nella discussione di una tesi scritta e di una tesina orale".  
+Art. 100. - All'elenco degli insegnamenti complementari previsti per il 4° anno del corso di laurea in matematica, indirizzo generale, sono aggiunti i seguenti:  
+Meccanica dei continui;  
+Istituzioni di fisica nucleare;  
+Geodesia.  
+Sono insegnamenti complementari, inoltre, tutti gli insegnamenti fondamentali degli altri indirizzi.  
+All'elenco degli insegnamenti complementari previsti per il 4° anno del predetto corso di laurea - indirizzo didattico - sono aggiunti i seguenti:  
+Struttura della materia;  
+Istituzioni di fisica nucleare.  
+Nell'elenco degli insegnamenti complementari previsti per il 4° anno del suddetto corso di laurea ad indirizzo applicativo, orientamento a) vengono soppressi quelli di "Cosmologia", "Teoria delle orbite" e viene aggiunto quello di "Programmazione matematica".  
+Nell'elenco degli insegnamenti complementari previsti per il suddetto corso di laurea ad indirizzo applicativo, orientamento b) "Programmazione lineare e non lineare" e "Programmazione dinamica e non lineare" sono sostituiti rispettivamente da quelli di "Programmazione matematica" e "Programmazione dinamica"; e' inoltre aggiunto l'insegnamento di "Meccanica dei continui".  
+Nell'elenco degli insegnamenti complementari previsti per il suddetto corso di laurea per l'orientamento c) sono aggiunti quelli di:  
+Meccanica dei continui;  
+Cosmologia;  
+Teoria delle orbite;  
+Statistica stellare;  
+Astrofisica teorica.  
+Art. 108, relativo alle norme e agli esami del corso di laurea in scienze naturali e' modificato nel senso che il primo e il secondo comma sono abrogati e sostituiti dai seguenti:  
+"Dopo il primo biennio lo studente dovra' frequentare per due anni, come interno, uno degli istituti di scienze naturali dell'universita' e, dietro approvazione del preside della facolta', altro istituto dell'universita', nel quale attendera' alla elaborazione della tesi di laurea. Durante tale biennio lo studente e' tenuto a seguire l'attivita' didattica che si svolge nell'istituto".  
+L'ammissione all'internato e' regolata dalle norme contenute nell'ordinamento annuale degli studi della facolta'".  
+Art. 116 relativo agli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali e' modificato nel senso che l'istituto di botanica e di fisiologia vegetale con annesso orto botanico e' soppresso e sostituito da quelli di:  
+Istituto di botanica e di fisiologia generale;  
+Orto botanico;  
+Istituto di chimica analitica e chimica analitica applicata.  
+Art. 175. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti quelli di:  
+Parassitologia animale dei vegetali;  
+Fitoiatria;  
+Tecnologia della produzione degli alimenti zootecnici;  
+Tecnica delle applicazioni frigorifere.  
+Art. 177, relativo alle norme sugli esami del corso di laurea in scienze agrarie e' modificato nel senso che viene aggiunto il seguente nuovo comma:  
+"Il corso biennale di agronomia generale e coltivazioni erbacee pur restando unito quanto all'insegnamento comporta per l'accertamento due distinti esami annuali (Agronomia generale e, separatamente coltivazioni erbacee)".  
+Art. 182. - L'elenco degli istituti annessi alla facolta' di agraria e' modificato nel senso che viene aggiunto il seguente:  
+Estimo rurale e contabilita'.  
+Art. 327. - L'elenco dei corsi di perfezionamento annessi alla facolta' di ingegneria e' modificato nel senso che dopo il 1° corso va inserito il seguente:  
+2) corso di perfezionamento in idrografia o idrologia presso l'istituto di idraulica con il conseguente spostamento della numerazione successiva.  
+Art. 329. - Il primo periodo relativo ai titoli di ammissione ai corsi di perfezionamento e' modificato nel modo seguente:  
+per i corsi di perfezionamento in idraulica sperimentale ed in idrografia e idrologia, presso l'istituto di idraulica;  
+Art. 339, relativo alla "Scuola post-universitaria di organizzazione aziendale" e' modificato nel senso che il titolo muta denominazione in quello di: "Scuola di specializzazione in organizzazione aziendale".  
+Il secondo comma e' abrogato e sostituito dal seguente:  
+"La scuola conferisce, il diploma di specializzazione in "Organizzazione aziendale".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 31 ottobre 1968
 
-LEONE SCALFARO
+SARAGAT SCAGLIA
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 28 giugno 1973
+Registrato alla Corte dei conti, addi' 26 febbraio 1969
 
-Atti di Governo, registro n. 258, foglio n. 131. - VALENTINI
+Atti del Governo, registro n. 225 foglio n. 69. - GRECO

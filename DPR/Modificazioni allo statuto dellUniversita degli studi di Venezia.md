@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 863
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 settembre 1968 n. 1126
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 863
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 settembre 1968 n. 1126
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Venezia.
 -------------------------------------------------------------------
@@ -10,51 +10,109 @@ Modificazioni allo statuto dell'Universita' degli studi di Venezia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Venezia, approvato con [regio decreto 20 aprile 1939, n. 1029](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1029), e modificato con [regio decreto 26 marzo 1942, n. 352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-26;352), e successive modificazioni;
+Veduto lo statuto dell'Istituto universitario di economia e commercio e di lingue e letterature straniere di Venezia, approvato con [regio decreto 20 aprile 1939, n. 1029](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1029) e modificato con [regio decreto 26 marzo 1942, n. 352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-26;352), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il [decreto del Presidente della Repubblica 28 maggio 1968, n. 919](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-05-28;919), con il quale la denominazione del suddetto istituto e' stata trasformata in universita' degli studi;
+
+Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'istituto anzidetto;
 
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
 Lo statuto dell'Universita' degli studi di Venezia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 7. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti:
 
+Economia del lavoro;
+
+Economia internazionale;
+
+Economia monetaria e creditizia;
+
+Contabilita' nazionale;
+
+Tecnica delle politiche di vendita.
+
+Nel predetto corso di laurea, gli insegnamenti complementari di "Tecnica commerciale dei prodotti agricoli" e di "Tecnica delle imprese dei pubblici servizi" sono soppressi.
+
+Art. 16. - Il terzo comma, relativo al corso di laurea in lingue e letterature straniere, e' abrogato e sostituito dal seguente:
+
+"Lo studente che, superata la prova scritta in una sessione, non sostenga o non superi la prova orale nell'anno accademico, deve ripetere la prova scritta".
+
+Art. 21. - Il terzo comma, relativo al corso di laurea in lingue e letterature orientali, e' abrogato e sostituito dal seguente:
+
+"Lo studente che, superata la prova scritta in una sessione, non sostenga o non superi la prova orale nell'anno accademico, deve ripetere la prova scritta".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 7 settembre 1968
+
+SARAGAT
+
+SCAGLIA
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 2 novembre 1968 Atti del Governo, registro n. 223, foglio n. 83. - GRECO
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Gli articoli da 41 a 46, relativi alla scuola di perfezionamento e corso di specializzazione in lingue e letterature straniere sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.  
+Veduto lo statuto dell'Istituto universitario di economia e commercio e di lingue e letterature straniere di Venezia, approvato con [regio decreto 20 aprile 1939, n. 1029](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1029) e modificato con [regio decreto 26 marzo 1942, n. 352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-26;352), e successive modificazioni;  
+Veduto il [decreto del Presidente della Repubblica 28 maggio 1968, n. 919](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-05-28;919), con il quale la denominazione del suddetto istituto e' stata trasformata in universita' degli studi;  
+Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'istituto anzidetto;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Venezia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Art. 7. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti:  
+Economia del lavoro;  
+Economia internazionale;  
+Economia monetaria e creditizia;  
+Contabilita' nazionale;  
+Tecnica delle politiche di vendita.  
+Nel predetto corso di laurea, gli insegnamenti complementari di "Tecnica commerciale dei prodotti agricoli" e di "Tecnica delle imprese dei pubblici servizi" sono soppressi.  
+Art. 16. - Il terzo comma, relativo al corso di laurea in lingue e letterature straniere, e' abrogato e sostituito dal seguente:  
+"Lo studente che, superata la prova scritta in una sessione, non sostenga o non superi la prova orale nell'anno accademico, deve ripetere la prova scritta".  
+Art. 21. - Il terzo comma, relativo al corso di laurea in lingue e letterature orientali, e' abrogato e sostituito dal seguente:  
+"Lo studente che, superata la prova scritta in una sessione, non sostenga o non superi la prova orale nell'anno accademico, deve ripetere la prova scritta".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 luglio 1986
+### Dato a Roma, addi' 7 settembre 1968
 
-COSSIGA
+SARAGAT SCAGLIA
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: GONELLA
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 2 novembre 1968
 
-Registrato alla Corte dei conti, addi' 27 novembre 1986
-
-Registro n. 86 Istruzione, foglio n. 144
+Atti del Governo, registro n. 223, foglio n. 83. - GRECO

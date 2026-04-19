@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1952 n. 3615
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 dicembre 1952 n. 4335
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1952 n. 3615
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 dicembre 1952 n. 4335
 ================================================================
 
 Trasferimento in proprieta' all'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino di terreni di proprieta' di Avanzati Bernardi Giuseppe fu Francesco, in comune di Cinigiano (Grosseto).
@@ -12,34 +12,32 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77, comma primo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77-com1) ed [87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5) della Repubblica;
 
-Viste le [leggi 12 maggio 1950, n. 230; 21 ottobre 1950, n. 841; 18 maggio 1951, n. 333; 2 aprile 1952, n. 339 e 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-02;16) agosto 1206;
+Viste le [leggi 12 maggio 1950, n. 230; 21 ottobre 1950, n. 841; 18 maggio 1951, n. 333; 2 aprile 1952, n. 339 e 16 agosto 1952, n. 1206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-08-16;1206);
 
-In virtu' della delegazione concessa dagli [articoli 5 della legge 12 maggio 1950, n. 230 ed 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;1~art5) e 2 della, [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
+In virtu' della delegazione concessa dagli [articoli 5 della legge 12 maggio 1950, n. 230 ed 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;1~art5) e 2 della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
 
 Visto il proprio decreto 7 febbraio 1951, n. 66;
 
-Visto il piano particolareggiato di espropriazione compilato dall'Ente per la colonizzazione della maremma tosco-laziale e del territorio del Fucino, nei confronti di Avanzati Bernardi Giuseppe fu Francesco, per i terreni ricadenti nel comune di Cinigiano (provincia di Grosseto);
+Visto il piano particolareggiato di espropriazione compilato dall'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino, nei confronti di Avanzati Bernardi Giuseppe fu Francesco, per i terreni ricadenti nel comune di Cinigiano (provincia di Grosseto);
 
 Udito il parere, in data 26 novembre 1952, espresso dalla Commissione parlamentare nominata a norma degli [articoli 5 della legge 12 maggio 1950, n. 230 ed 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;1~art5) e 2 della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
 
-Sentito il Consiglio dei Ministri;
+Sentito
+-------
 
-Sulla
------
-
-proposta del Ministro Segretario di Stato, per l'agricoltura e per le foreste; Decreta:
+il Consiglio dei Ministri Sulla proposta del Ministro Segretario di Stato per l'agricoltura e per le foreste; Decreta:
 
 Art. 1
 ------
 
   
-E' approvato il piano particolareggiato di espropriazione compilato dall'Ente per la colonizzazione della maremma tosco-laziale e del territorio del Fucino, nei confronti di Avanzati Bernardi Giuseppe fu Francesco, relativo ai terreni ricadenti nel comune di Cinigiano (provincia di Grosseto), per una superficie di ettari 137.08.00, specificamente descritti nell'elenco n. 1 allegato al presente decreto.  
+E' approvato il piano particolareggiato di espropriazione compilato dall'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino, nei confronti di Avanzati Bernardi Giuseppe fu Francesco, relativo ai terreni ricadenti nel comune di Cinigiano (provincia di Grosseto), per una superficie di ettari 75.96.71, specificamente descritti nell'elenco n. 1 allegato al presente decreto.  
 
 Art. 2
 ------
 
   
-I terreni indicati nel precedente articolo sono trasferiti in proprieta' all'Ente per la colonizzazione della maremma tosco-laziale e del territorio dei Fucino.  
+I terreni indicati nel precedente articolo sono trasferiti in proprieta' all'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino.  
 
 Art. 3
 ------
@@ -57,23 +55,23 @@ L'elenco dei terreni, con l'indicazione dell'indennita' di espropriazione offert
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 dicembre 1952
+### Dato a Roma, addi' 28 dicembre 1952
 
-EINAUDI DE GASPERI - FANFANI
+EINAUDI DE GASPERI -FANFANI
 
 Visto, il Guardasigilli: ZOLI
 
-Registrato alla Corte dei conti, addi' 15 gennaio 1953
+Registrato alla Corte dei conti, addi' 22 gennaio 1953
 
-Atti del Governo, registro n. 69, foglio n. 153. - PALLA.
+Atti del Governo, registro n. 73, foglio n. 40. - PALLA
 
-Allegato n. 1
+Allegato 1
 
  ALLEGATO N. 1   
   
-Elenco dei terreni intestati alla ditta Avanzati Bernardi Giuseppe fu Francesco in comune di Cinigiano (provincia di Grosseto) trasferiti in proprieta' dell'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino, a norma delle [leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841, decreto](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841) Previdenziale 7 febbraio 1951, n.66.   
+Elenco dei terreni intestati alla ditta Avanzati Bernardi Giuseppe fu Francesco in comune di Cinigiano (provincia di Grosseto), trasferiti in proprieta' dell'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino, a norma delle [leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841) e [decreto Presidenziale 7 febbraio 1951, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-02-07;66).   
   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=052U361500100010110001&dgu=1953-01-20&art.dataPubblicazioneGazzetta=1953-01-20&art.codiceRedazionale=052U3615)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=052U433500100010110001&dgu=1953-01-24&art.dataPubblicazioneGazzetta=1953-01-24&art.codiceRedazionale=052U4335)
   

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1985 n. 882
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 167
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1985 n. 882
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 167
+============================================================
 
 Autorizzazione all'Opera nazionale di assistenza per gli orfani dei militari dell'Arma dei carabinieri, in Roma, ad accettare una donazione.
 --------------------------------------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 n.
 
-882. Decreto del Presidente della Repubblica 25 novembre 1985, col quale, sulla proposta del Ministro della difesa, l'Opera nazionale di assistenza per gli orfani dei militari dell'Arma dei carabinieri, in Roma, viene autorizzata ad accettare la donazione, consistente in alcune porzioni dell'immobile sito in Roma, via Ovidio n. 26, censite al nuovo catasto edilizio urbano di Roma alla partita n. 193461, foglio n. 406, particella 86 sub 1, disposta dall'ing. Carlo Allegri con atto 12 ottobre 1983, n. 3380/1999 di repertorio, a rogito dott. Vincenzo Bertone, notaio in Roma e registrato a Roma in data 19 ottobre 1983 al n. 33415.  
+167. Decreto del Presidente della Repubblica 10 marzo 1986, col quale, sulla proposta del Ministro della difesa, l'Opera nazionale di assistenza per gli orfani dei militari dell'Arma dei carabinieri, in Roma, viene autorizzata ad accettare la donazione, consistente in un immobile sito in Milano, via Valvassori Peroni n. 86, censito al nuovo catasto edilizio urbano di Milano alla partita 3306, foglio 279, mappale 31 sub 8, disposta dalla sig.ra Angela Maria detta Maria Bassanini ved. Lecis, con atto pubblico 16 dicembre 1982, n. 61052/13586 di repertorio, a rogito dott. Paolo Consolandi, notaio in Milano e registrato a Milano in data 24 dicembre 1982 al n. 23151.  
   
 Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 27 gennaio 1986  
-Registro n. 3 Difesa, foglio n. 271
+Registrato alla Corte dei conti, addi' 17 aprile 1986  
+Registro n. 11 Difesa, foglio n. 232

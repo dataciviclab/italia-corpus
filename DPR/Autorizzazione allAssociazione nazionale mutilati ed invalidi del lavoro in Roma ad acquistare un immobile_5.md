@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1985 n. 617
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1984 n. 860
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1985 n. 617
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1984 n. 860
+================================================================
 
 Autorizzazione all'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, ad acquistare un immobile.
 --------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-617. Decreto del Presidente della Repubblica 20 febbraio 1985, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, viene autorizzata ad acquistare, al prezzo di lire 90.000.000, un immobile, rappresentato da tre stanze ed accessori piu' vano cantina, sito in Alessandria, via Legnano n. 49, censito al nuovo catasto edilizio urbano al foglio 268/C, mappale 4351/20, di proprieta' di Carla Lombardi, come da atto di compravendita 9 novembre 1982, n. 823 di repertorio, a rogito dott. Sergio Finesso, notaio in Alessandria, registrato ad Alessandria in data 26 novembre 1982, al n. 4904, da adibire ad ufficio.   
+860. Decreto del Presidente della Repubblica 14 settembre 1984, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, viene autorizzata ad acquistare, al prezzo di lire 75 milioni, un appartamento di nove vani ed accessori sito in Siena, viale Cavour n. 142-152, primo piano, censito al nuovo catasto edilizio urbano alla partita 6677, foglio 40, n. 27 sub 7, n. 28 sub 2, di proprieta' della sig.ra Marisa Cesarano in Ciampalini, come da atto di compravendita sottoposto a condizione sospensiva 6 maggio 1975, n. 8989 di repertorio, a rogito dottor Mario Lucarelli, notaio in Siena, registrato a Siena in data 13 maggio 1975 al n. 2326.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 29 ottobre 1985   
-Registro n. 1 Lavoro, foglio n. 229
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 11 dicembre 1984  
+Registro n. 1 Lavoro, foglio n. 222

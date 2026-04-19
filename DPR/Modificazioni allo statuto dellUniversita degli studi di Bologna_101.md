@@ -1,111 +1,76 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 889
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1010
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 889
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1010
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
-
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Dopo l'art. 687, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in reumatologia afferente alla facolta' di medicina e chirurgia:  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), o successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
+Decreta:   
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Scuola di specializzazione in reumatologia  
+Art. 79. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne presso la facolta' di lettere e filosofia e' aggiunto il seguente: "Linguistica   
+applicata"   
+Art. 275. - All'elenco degli insegnamenti complementari della scuola di perfezionamento in filologia moderna presso la facolta' di lettere e filosofia e' aggiunto il seguente: "Letteratura italiana, moderna e contemporanea".   
+Art. 277. - Gli insegnamenti di "Storia della lingua greca" e di "Storia della lingua latina" nella scuola di perfezionamento in filologia classica presso la facolta' di lettere e filosofia sono trasformati da complementari a caratterizzanti.   
+Dopo l'art. 608 sono aggiunti i seguenti nuovi articoli relativi all'istituzione della scuola di perfezionamento per tecnici neurofisiopatologi (scuola diretta a fini speciali).   
   
-Art. 688. - E' istituita presso l'Universita' di Bologna la scuola di specializzazione in reumatologia, che conferisce il diploma di specialista in reumatologia.  
-Art. 689. - La direzione della scuola ha sede presso l'istituto di patologia speciale medica e metodologia clinica II e medicina del lavoro.  
-Art. 690. - La scuola ha lo scopo di preparare personale medico particolarmente competente in campo reumatologico e delle malattie delle articolazioni in rapporto alle esigenze sociali del territorio.  
-Art. 691. - La durata del corso e' di quattro anni e non e' suscettibile di abbreviazione.  
-Art. 692. - Il numero degli iscritti e' di cinque per ogni anno e, complessivamente, di venti per l'intero corso di studi.  
-Art. 693. - Alla scuola sono ammessi solo i laureati in medicina e chirurgia; e' richiesta l'abilitazione all'esercizio professionale.  
-Art. 694. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrate eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
-A) la tesi nella disciplina attinente alla specializzazione;  
-B) il voto di laurea;  
-C) il voto riportato negli esami di profitto nel corso di laurea nelle materie concernenti la specializzazione;  
-D) le pubblicazioni nelle predette materie.  
-Il punteggio dei predetti titoli e' quello stabilito dal decreto del Ministro della pubblica istruzione del 16 settembre 1982, pubblicato nella Gazzetta Ufficiale del 6 ottobre 1982. Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
-Art. 695. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-anatomia, istologia e morfogenesi dell'apparato locomotore;  
-fisiologia e fisiopatologia dell'apparato locomotore;  
-biochimica di interesse reumatologico;  
-microbiologia in relazione alle malattie reumatiche;  
-immunologia reumatologica;  
-semeiotica fisica e strumentale in reumatologia I (biennale).  
-2° Anno:  
-semeiotica fisica e strumentale in reumatologia II;  
-esami di laboratorio in reumatologia;  
-diagnostica radiologica delle reumo-artropatie;  
-farmacologia reumatologica;  
-anatomia ed istologia patologica delle malattie reumatiche;  
-clinica e terapia delle malattie reumatiche I (triennale).  
-3° Anno:  
-clinica e terapia ortopedica I (biennale);  
-fisioterapia reumatologica;  
-idroclimatologia di interesse reumatologico;  
-reumo-artropatie professionali;  
-clinica e terapia delle malattie reumatiche II (triennale).  
-4° Anno:  
-epidemiologia ed aspetti sociali dei reumatismi;  
-riabilitazione del malato reumatico;  
-clinica e terapia ortopedica II (biennale);  
-clinica e terapia delle malattie reumatiche III (triennale).  
-Art. 696. - La frequenza ai corsi e' obbligatoria.  
-Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola e i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
-Art. 697. - Le attivita' pratiche obbligatorie sono rappresentate da esercitazioni nei laboratori e reparti clinici definiti anno per anno dal consiglio della scuola.  
-La frequenza alle attivita' pratiche e' richiesta per tutti gli anni di corso.  
-La frequenza necessaria per sostenere il gruppo di esami di profitto annuali deve essere di almeno sei mesi annui.  
-Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione, anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con Paesi in via di sviluppo.  
-Art. 698. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso. A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.  
-Art. 699. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti, anno per anno, dal consiglio di amministrazione.  
-Art. 700. - Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).  
-Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.  
-Art. 701. - La direzione della scuola e' affidata dal consiglio della scuola a professore ordinario o straordinario che insegni anche nella scuola stessa, e dura in carica un triennio.  
-In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+Scuola di perfezionamento per tecnici neurofisiopatologi   
+(Scuola diretta a fini speciali)   
+  
+Art. 609. - La scuola ha lo scopo di preparare gli allievi all'esercizio della professione di tecnico neurofisiopatologo, mediante l'insegnamento teorico di discipline di base e professionali, integrato da esercitazioni e tirocini professionali.   
+Art. 610. - La scuola speciale per tecnici neurofisiopatologi ha sede presso l'istituto di clinica delle malattie nervose e mentali.   
+Art. 611. - La durata del corso degli studi per il conseguimento del diploma e' di due anni accademici. Le lezioni teoriche ed il tirocinio pratico saranno svolti presso l'istituto di malattie nervose e mentali, secondo le modalita' che saranno stabilite dal consiglio della scuola. Gli allievi hanno l'obbligo della frequenza alle lezioni, ai seminari e ai tirocini pratici, secondo le modalita' stabilite dal consiglio della scuola.   
+Art. 612. - Sono ammessi alla scuola gli allievi di ambo i sessi in possesso del titolo di studio della scuola media superiore, che abbiano superato un colloquio attitudinale che si svolgera' presso la sede della scuola all'inizio dell'anno accademico.   
+Art. 613. - Il numero massimo dei posti disponibili e' stabilito nella misura di 30; 15 per ciascun anno di corso. I candidati non devono aver superato il 30° anno.   
+1° Anno:   
+1) Elementi di elettrotecnica;   
+2) Elementi di tecnica elettronica e nozioni pratiche di riparazione delle apparecchiature biomediche (biennale);   
+3) Nozioni generali di biochimica e biofisica;   
+4) Nozioni generali di anatomia e fisiologia;   
+5) Anatomia dell'apparato motore e del sistema nervoso;   
+6) Nozioni pratiche e teoriche di fisiologia del sistema nervoso (biennale);   
+7) Nozioni pratiche e teoriche di elettroencefalografia e neurofisiologia clinica (biennale).   
+2° Anno:   
+8) Elementi di tecnica elettronica e nozioni pratiche di riparazione delle apparecchiature biomediche;   
+9) Nozioni pratiche e teoriche di fisiologia del sistema nervoso;  
+10) Nozioni di patologia e clinica dell'apparato motore;   
+11) Nozioni pratiche e teoriche di elettromiografia, elettrodiagnostica ed elettroterapia;   
+12) Nozioni di patologia del sistema nervoso;   
+13) Nozioni pratiche e teoriche di elettroencefalografia e neurofisiologia clinica;   
+14) Nozioni teoriche e pratiche di ecoencefalografia, reoencefalografia e metodi di registrazione poligrafica.   
+Nel secondo anno viene dato particolare risalto alle dimostrazioni pratiche. I corsi saranno integrati da conferenze e da seminari sulle materie di insegnamento.   
+Art. 615. - Per essere ammessi al secondo anno gli allievi dovranno aver superato gli esami di cui ai punti 1), 3), 4), 5) dell'articolo precedente.   
+Art. 616. - L'esame finale per il conseguimento del diploma di tecnico neurofisiopatologo consiste in un esame scritto ed una prova pratica, previo superamento degli esami di profitto relativi alle materie di insegnamento di cui ai punti 6), 7), 8), 9), 10), 11), 12), 13), 14) dell'art. 614, con cui l'allievo dovra' dimostrare di aver raggiunto un livello di preparazione adeguato nelle materie che sono oggetto di insegnamento. L'esame di diploma dovra' essere superato entro cinque anni dalla data di immatricolazione.   
+Art. 617. - Il direttore della scuola e' un professore ordinario, straordinario, aggregato della facolta' medica di Bologna, del gruppo delle discipline neuropsichiatriche. Esso viene designato dal consiglio di facolta' di medicina e chirurgia e nominato con decreto del rettore.   
+Il direttore della scuola puo' farsi coadiuvare da un segretario nominato su sua proposta.   
+Art. 618. - Il consiglio della scuola e' costituito dal direttore, dal segretario e dal Corpo docente della scuola.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1983
+### Dato a Roma, addi' 31 ottobre 1972
 
-PERTINI FALCUCCI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 26 gennaio 1984
+Registrato alla Corte dei conti, addi' 17 febbraio 1973
 
-Registro n. 3 Istruzione, foglio n. 255
+Atti di Governo, registro n. 255, foglio n. 113. - VALENTINI

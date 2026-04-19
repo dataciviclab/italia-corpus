@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1953 n. 576
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 907
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1953 n. 576
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 907
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 20 aprile 1939, n. 1118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1118), e modificato con i [regi decreti 12 gennaio 1941, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-01-12;34); [27 aprile 1942, n. 571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;571); [5 settembre 1942, n. 1237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1237); [24 ottobre 1942, n. 1438, con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1438) [4 febbraio 1947, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-04;196) e [7 marzo 1947, n. 1727 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-03-07;1727) [26 febbraio 1949, n. 430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;430); [21 aprile 1949, n. 613](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;613); [1 settembre 1949, n. 816](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-01;816); [13 marzo 1950, n. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;599); [30 ottobre 1950, n. 1125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1125); [31 ottobre 1950, n. 1310](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1310); [30 giugno 1951, n. 1148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-30;1148); [27 ottobre 1951, n. 1794](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1794) e [25 luglio 1952, n. 1352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1352);
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,634 +18,333 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 19. - Il comma quarto e' sostituito dal seguente:
-
-"L'esame di statistica (2° anno di corso) deve precedere quello di matematica finanziaria, esclusa la propedeuticita' dell'esame di statistica metodologica rispetto a quello di matematica attuariale".
-
-Art. 22. - Agli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:
-
-"Storia del Cristianesimo;
-
-Etruscologia ed archeologia italica;
-
-Papirologia;
-
-Topografia dell'Italia antica;
-
-Lingue e letteratura araba".
-
-Dopo l'art. 73 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione di Scuole di perfezionamento, annesse alla Facolta' di lettere e filosofia, con il conseguente spostamento della numerazione degli articoli successivi.
-
-Scuole di perfezionamento annesse alla Facolta' di lettere e filosofia
-
-Art. 74. - Le Scuole di perfezionamento annesse alla Facolta' di lettere e filosofia hanno i seguenti fini:
-
-1) promuovere gli studi ai quali ciascuna si intitola, contribuendo al loro progresso e alla loro diffusione con l'insegnamento, le pubblicazioni, le raccolte di materiale, con l'elargizione in particolari casi di premi agli allievi piu' meritevoli e con ogni altra iniziativa che sia consentita, dalle disponibilita' finanziarie;
-
-2) raggruppare e coordinare gli insegnamenti delle discipline delle singole Scuole al fine di facilitare ai giovani la specializzazione nelle discipline stesse;
-
-3) perfezionare nell'ambito di ciascuna disciplina, mediante esercitazione e corsi speciali e mediante la assistenza dei docenti nelle ricerche, i giovani laureati che aspirino ad una cultura scientifica piu' approfondita.
-
-Art. 75. - Ciascuna Scuola rilascia, un diploma di perfezionamento ai giovani che abbiano superato le prove prescritte.
-
-Art. 76. - I laureati che vogliono iscriversi alle Scuole di perfezionamento devono presentare regolare domanda al Rettore.
-
-Essi sono tenuti a pagare le tasse annuali di iscrizione e le tasse e sopratasse di esami nella misura stabilita per gli studenti della Facolta' di lettere e filosofia. La tassa di diploma e' fissata nella misura di L. 6000, a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).
-
-Art. 77. - Il Consiglio dei docenti di ciascuna Scuola e' costituito dai professori ufficiali della Facolta' di lettere e filosofia che vi tengono gli insegnamenti per ciascuna indicati come costitutivi.
-
-Le funzioni dei professori incaricati sono quelle previste dal regolamento generale universitario in rapporto ai Consigli di Facolta'. Il direttore e' nominato dal Consiglio della Facolta' per la durata di un anno, e puo' essere riconfermato per l'anno successivo.
-
-Art. 78. - Le Commissioni per gli esami di profitto sono nominate dal preside della Facolta', di intesa con i direttori delle singole Scuole; quelle per gli esami di diploma di perfezionamento sono nominati dal Rettore dell'Universita', sentiti il preside della Facolta' e il direttore della Scuola. Queste ultime si compongono di sette membri, fra i quali sei professori di ruolo delle discipline attinenti alla Scuola o di discipline affini e un professore incaricato o libero docente di una tra le materie stesse.
-
-Art. 79. - Le Scuole che possono rilasciare diplomi di perfezionamento sono le seguenti:
-
-1) Scuola di filologia classica, per il diploma di perfezionamento in filologia classica;
-
-2) Scuola di filologia moderna, per il diploma di perfezionamento in filologia moderna;
-
-3) Scuola di discipline storiche e geografiche, per il diploma di perfezionamento in discipline storiche e geografiche;
-
-4) Scuola di archeologia e storia dell'arte, per il diploma di perfezionamento in archeologia e storia dell'arte;
-
-5) Scuola, di filosofia e pedagogia, per il diploma di perfezionamento in filosofia e pedagogia.
-
-Art. 80. - Sono insegnamenti costitutivi della Scuola di filologia classica:
-
-1) letteratura latina;
-
-2) letteratura greca;
-
-3) glottologia;
-
-4) filologia grecolatina;
-
-5) sanscrito;
-
-6) storia romana;
-
-7) storia greca;
-
-8) antichita' grecoromane;
-
-9) letteratura cristiana, antica;
-
-10) grammatica greca-latina;
-
-11) papirologia;
-
-12) filologia bizantina;
-
-Insegnamento aggiuntivo: storia della filologia e della critica nella antichita'.
-
-Art. 81. - Sono insegnamenti costitutivi della Scuola di filologia moderna:
-
-1) letteratura italiana;
-
-2) filologia romanza;
-
-3) lingua e letteratura francese;
-
-4) lingua e letteratura tedesca;
-
-5) lingua e letteratura inglese;
-
-6) lingua e letteratura spagnola;
-
-7) lingua e letteratura rumena;
-
-8) storia della lingua italiana;
-
-9) glottologia;
-
-10 filologia germanica;
-
-11) estetica;
-
-12) paleografia e diplomatica;
-
-Insegnamento aggiuntivo: dialettologia italiana e romanza.
-
-Art. 82. - Sono insegnamenti costitutivi della Scuola di discipline storiche e geografiche:
-
-1) storia romana;
-
-2) storia greca;
-
-3) storia medioevale;
-
-4) storia moderna;
-
-5) storia del Risorgimento;
-
-6) paleografia e diplomatica;
-
-7) geografia;
-
-8) storia delle religioni;
-
-9) storia del Cristianesimo;
-
-10) storia delle dottrine politiche;
-
-11) storia delle dottrine economiche;
-
-12) geografia e topografia storica del mondo antico.
-
-Art. 83. - Sono insegnamenti costitutivi della Scuola di archeologia e storia dell'arte:
-
-1) archeologia e storia dell'arte greca;
-
-2) archeologia e storia dell'arte romana;
-
-3) storia dell'arte medioevale e moderna;
-
-4) storia della musica;
-
-5) egittologia;
-
-6) archeologia cristiana;
-
-7) antichita' grecoromane;
-
-8) estetica;
-
-9) topografia dell'Italia antica.
-
-Art. 84. - Sono insegnamenti costitutivi della Scuola di filosofia e pedagogia:
-
-1) filosofia teoretica;
-
-2) filosofia morale;
-
-3) storia della filosofia;
-
-4) pedagogia;
-
-5) filosofia del diritto;
-
-6) storia delle dottrine economiche;
-
-7) storia delle dottrine politiche;
-
-8) storia della filosofia antica;
-
-9) storia della filosofia medioevale;
-
-10) psicologia;
-
-11) estetica.
-
-Insegnamenti aggiuntivi:
-
-metodologia delle scienze;
-
-sociologia.
-
-Art. 85. - Ai diplomi di perfezionamento in filologia classica, in filologia moderna, in discipline storiche e geografiche e in archeologia e storia dell'arte possono aspirare i laureati in lettere o in filosofia della Facolta' di lettere e filosofia; al diploma di perfezionamenti in filosofia e pedagogia i laureati in filosofia o in lettere della Facolta' di lettere e filosofia e i laureati della Facolta' di giurisprudenza.
-
-Art. 86. - La durata del corso degli studi per conseguire il diploma di perfezionamento per ciascuna Scuola e' di due anni.
-
-Durante l'anno di iscrizione lo studente deve ottenere la firma di iscrizione e di frequenza per almeno tre corsi, scelti tra quelli costitutivi della Scuola e sostenere i relativi esami.
-
-L'esame di diploma, a cui lo studente puo' accedere dopo aver superato gli esami di profitto prescritti, consiste nella presentazione di una dissertazione scritta in triplice esemplare su argomento scelto nell'ambito di una delle discipline della Scuola e nella discussione di essa.
-
-Lo studente dovra' depositare in Segreteria almeno sei mesi prima dell'esame stesso il titolo della dissertazione, accompagnato dal visto del professore titolare della disciplina prescelta.
-
-Art. 90 (gia' 77), relativo alle Scuole di perfezionamento annesse alla Facolta' di medicina e chirurgia, e' sostituito dal seguente:
-
-"Ai diplomi di specialista possono aspirare i laureati in medicina e chirurgia.
-
-Al diploma di specialista in igiene possono aspirare i laureati in medicina e chirurgia, al diploma di specialista in igiene veterinaria i laureati in medicina veterinaria, al diploma di specialista in chimica applicata all'igiene i laureati in chimica e i laureati in farmacia".
-
-Gli attuali articoli 111 e 112, relativi alla Scuola di perfezionamento in igiene, sono cosi' modificati:
-
-Art. 111. - Per il conseguimento del diploma, di specialista in igiene si richiedono due anni di corso con internato.
-
-Art. 112. - Gli insegnamenti impartiti dalla Scuola, per le tre branche della specialita' in igiene sono i seguenti:
-
-1° anno:
-
-1) statistica sanitaria;
-
-2) chimica applicata all'igiene;
-
-3) fisica applicata all'igiene;
-
-4) analisi di laboratorio applicata all'igiene;
-
-5) analisi speciali di laboratorio applicate all'igiene per chimici e farmacisti;
-
-6) malattie parassitarie (rispettivamente da in fravirus, schizomiceti, micofiti, protozoi, macroparassiti):
-
-a) dell'infanzia;
-
-b) degli adulti;
-
-c) tropicali.
-
-7) elementi di ingegneria sanitaria.
-
-L'allievo ha inoltre l'obbligo di due tirocini pratici della durata ciascuno di quindici giorni:
-
-a) presso un ufficio di medico provinciale;
-
-b) presso un ufficio di igiene comunale.
-
-I suddetti periodi di tirocinio pratico non possono essere fatti contemporaneamente.
-
-2° anno:
-
-1) amministrazione sanitaria;
-
-2) epidemiologia e profilassi generale e speciale;
-
-3) medicina preventiva rispettivamente:
-
-a) maternita' e infanzia, igiene mentale, igiene della scuola;
-
-b) igiene del lavoro e dello sport;
-
-c) igiene del suolo, delle acque e dell'abitato;
-
-4) anatomia e istologia patologica.
-
-L'allievo ha inoltre l'obbligo dei seguenti tirocini pratici della durata ciascuno di quindici giorni:
-
-a) presso un Consorzio antitubercolare;
-
-b) presso la direzione sanitaria di un ospedale di 1ª categoria;
-
-c) presso i servizi sanitari di una fabbrica.
-
-I suddetti tre periodi di pratica non possono essere fatti contemporaneamente.
-
-Gli allievi laureati in medicina e chirurgia sono dispensati dall'obbligo della frequenza dell'esame in analisi speciali di laboratorio applicate all'igiene per chimici e farmacisti.
-
-Gli allievi laureati in medicina veterinaria sono dispensati dall'obbligo della frequenza e dall'esame in elementi in ingegneria sanitaria, in analisi speciali di laboratorio all'igiene per chimici e farmacisti nonche' l'obbligo dei tirocini pratici di cui sopra; hanno pero' l'obbligo di un tirocinio pratico della durata di quindici giorni presso un pubblico macello il primo anno e presso un ufficio di veterinario provinciale il secondo anno.
-
-Gli allievi laureati in chimica e i laureati in farmacia sono esentati dall'obbligo della frequenza e dell'esame in elementi di ingegneria sanitaria e in anatomia e istologia patologica, nonche' dai tirocini pratici.
-
-Per il conseguimento del diploma l'allievo deve inoltre presentare una dissertazione sperimentale o di compilazione su di un argomento facente parte delle materie del corso.
-
-Dopo le Scuole di perfezionamento in medicina e chirurgia sono aggiunti i seguenti nuovi articoli relativi alla istituzione di Scuole di specializzazione annesse alla Facolta' di medicina veterinaria.
-
-Scuole di specializzazione annesse alla Facolta' di medicina veterinaria
-
-Art. 128. E' istituita presso la Facolta' di medicina veterinaria la Scuola di specializzazione in fisiopatologia della riproduzione degli animali domestici, la quale ha lo scopo di approfondire ed aggiornare le conoscenze indispensabili sui vari problemi che si collegano al tema della fisiologia e della patologia dell'apparato genitale femminile e maschile, in relazione al problema della sterilita' e della fecondazione artificiale.
-
-Art. 129. - Alla Scuola di specializzazione in fisiopatologia della riproduzione animale, della durata di due anni, vengono ammessi solo i laureati in medicina veterinaria, e ad essi si richiede la frequenza obbligatoria a tutti gli insegnamenti teorici ed alle esercitazioni pratiche.
-
-Art. 130. - Le materie di insegnamento comprendono:
-
-1° anno:
-
-1) anatomia e fisiologia dell'apparato genitale maschile e femminile;
-
-2) fisiopatologia ostetrico-ginecologica;
-
-3) zootecnia generale con particolare riferimento ai problemi della genetica;
-
-4) malattie degli organi genitali maschili e femminili.
-
-Malattie dell'apparato urinario;
-
-5) anatomia patologica dell'apparato genitale maschile e femminile.
-
-2° anno:
-
-1) clinica ostetrico-ginecologica;
-
-2) basi scientifiche, metodologia e tecnica della fecondazione artificiale;
-
-3) zootecnia speciale e igiene zootecnica;
-
-4) malattie infettive in diretta attinenza con gli apparati genitali maschile e femminile.
-
-In parallelo agli insegnamenti della Scuola, durante il corso, saranno svolte conferenze anche da parte di docenti di riconosciuta competenza nella specialita'.
-
-Art. 131. - Gli insegnamenti teorici e le esercitazioni pratiche verranno svolte dai professori presso la Facolta' e presso alcuni centri di cura della sterilita' bovina e di fecondazione artificiale; sia per la parte teorica, sia, per quella dimostrativa il corso si svolgera' in collaborazione con l'Istituto zooprofilattico per il Piemonte e la Liguria.
-
-Art. 132. - Alla fine del primo e secondo anno i candidati dovranno sostenere un esame teorico sul programma svolto in ciascun insegnamento. Per accedere al secondo anno della Scuola di specializzazione, lo specializzando dovra' avere superato gli esami del primo anno.
-
-Superati gli esami dei singoli insegnamenti, gli iscritti dovranno presentare e discutere innanzi ad una Commissione formata da sette membri, scelti fra gli insegnanti della Scuola, una dissertazione originale scritta.
-
-La stessa Commissione giudicatrice stabilira' i termini per la successiva prova pratica completata da interrogazioni orali che tutti i candidati dovranno superare ai fini del conseguimento del diploma, il quale dara' diritto alla qualifica di specialista, a norma dell'[art. 4 del regio decreto 31 dicembre 1923, n. 2909](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;2909~art4).
-
-Il diploma di specializzazione in fisiopatologia della riproduzione degli animali domestici costituira' titolo valido per assumere la direzione dei centri di fecondazione artificiale e relative emanazioni (sottocentri, recapiti, installazioni aziendali, impiego "a domicilio") nonche' per la direzione dei centri tori ove si provvede alla raccolta e spedizione del materiale seminale, in relazione alle norme vigenti.
-
-Art. 133. - Il direttore della Scuola sara' il professore titolare dell'insegnamento dell'ostetricia e ginecologia veterinaria o verra' scelto tra i docenti della Facolta' di medicina veterinaria titolari di cattedra affine e designati dalla Facolta' stessa. Gli insegnanti della Scuola saranno proposti dal direttore e le proposte approvate dal Consiglio di Facolta'.
-
-Art. 134. - Il Consiglio della scuola sara' composto dai professori chiamati a svolgere gli insegnamenti prescritti.
-
-Art. 135. - I programmi degli insegnamenti dovranno essere approvati dal Consiglio della Facolta'; l'inizio e il termine del corso, l'orario, la sede delle lezioni, delle esercitazioni pratiche relative, nonche' la data delle prove di esami di profitto e di diploma verranno stabiliti dal Consiglio della scuola ed approvati dal Consiglio della Facolta'.
-
-Art. 136. - Il numero massimo di partecipanti al corso sara' stabilito di anno in anno ed il corso sara' svolto purche' gli iscritti raggiungano il numero di quindici.
-
-Nel caso che il numero delle domande superi il massimo stabilito, il Consiglio della scuola si riservera' di scegliere, con giudizio insindacabile, i nominativi dei partecipanti al corso.
-
-Art. 137. - Gli iscritti alla Scuola di specializzazione saranno tenuti a pagare la tassa di iscrizione, le tasse e sopratasse di esame, compresi i contributi integrativi, secondo quanto stabilito per gli studenti della Facolta' di medicina veterinaria, nonche' la tassa di diploma. Essi saranno inoltre tenuti al pagamento di un contributo di laboratorio previsto dall'[art. 11 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art11).
-
-Scuola di specializzazione in ispezione degli alimenti di origine animale
-
-Art. 138. - E' istituita presso la Facolta' di medicina veterinaria una Scuola di specializzazione in ispezione degli alimenti di origine animale, la quale ha lo scopo di approfondire ed aggiornare la preparazione dei laureati in medicina veterinaria, che dovranno assolvere le complesse funzioni della direzione dei pubblici macelli, e di conferire il diploma di specialista a norma dell'[art. 4 del regio decreto 31 dicembre 1923, n. 2909](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;2909~art4).
-
-Art. 139. - La Scuola di specializzazione in ispezione degli alimenti di origine animale ha la durata di due anni e puo' essere frequentata solo da laureati in medicina veterinaria.
-
-L'internato si svolge in un Istituto designato dal direttore della Scuola.
-
-Art. 140. - Gli insegnamenti impartiti nella Scuola sono i seguenti:
-
-1° anno
-
-1) anatomia;
-
-2) fisiopatologia;
-
-3) approvvigionamento e conservazione degli ali menti di origine animale;
-
-4) anatomia patologica;
-
-5) legislazione sanitaria.
-
-2° anno:
-
-1) malattie infettive ed infestive;
-
-2) metodologia clinica applicata agli animali da macello e produttori di latte;
-
-3) ispezione sanitaria delle carni fresche, conservate e dei prodotti di origine animale;
-
-4) microbiologia e diagnostica di laboratorio.
-
-Gli insegnamenti avranno indirizzo teorico-pratico nella prevalente forma di esercitazioni ispettive e verteranno su argomenti di particolare interesse per l'ispettore degli alimenti. Essi saranno integrati da dimostrazioni pratiche sia presso la Facolta', sia presso stabilimenti di lavorazione prescelti dal Consiglio direttivo della Scuola.
-
-Alla fine del primo e secondo anno i candidati dovranno sostenere un esame teorico-pratico sul programma svolto in ciascun insegnamento.
-
-Art. 141. - Per essere ammesso all'esame di diploma di specializzazione, che vertera' sulla discussione di una dissertazione scritta su argomenti di una delle materie svolte, l'iscritto dovra' aver frequentato i corsi e le esercitazioni pratiche, aver superata una prova sperimentale, nonche' gli esami delle singole materie teoriche relative alla Scuola di specializzazione.
-
-Art. 142. - Il direttore della Scuola e' il professore di ruolo dell'insegnamento di ispezione degli alimenti di origine animale o di "anatomia patologica"; in mancanza di questi il Consiglio di Facolta' lo designera' tra i propri membri.
-
-Gli insegnanti della Scuola sono scelti dal direttore tra i professori di ruolo, tra i liberi docenti, tra gli aiuti e gli assistenti nonche' tra le persone di riconosciuta competenza nella specialita'. Il Consiglio direttivo della Scuola e' composto dai docenti chiamati a svolgere gli insegnamenti prescritti ed e' presieduto dal direttore. Questi stabilisce l'ordinamento e l'indirizzo degli studi nonche' il numero delle lezioni per ogni singolo insegnamento.
-
-Art. 143. - La Commissione per gli esami di profitto e' composta dal professore della materia, dal direttore della Scuola e da un docente del corso medesimo. La Commissione di diploma, presieduta dal direttore della Scuola e' costituita da sette membri scelti fra gli insegnanti della Scuola medesima.
-
-Art. 144. - Il Consiglio della Scuola stabilira' annualmente se i corsi dovranno effettuarsi qualora gli iscritti non raggiungano il numero prestabilito; come pure scegliera' con giudizio insindacabile gli allievi nel caso che il numero delle domande superi quello prefissato.
-
-Art. 145. - Gli iscritti alla Scuola di specializzazione sono tenuti a pagare la tassa di iscrizione, le tasse e sopratasse di esame, la tassa di diploma, nonche' i contributi vari, secondo quanto stabilito per gli studenti della Facolta' di medicina veterinaria.
-
-Inoltre gli iscritti dovranno versare un contributo di laboratorio previsto dall'[art. 11 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art11).
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 11 marzo 1953
-
-EINAUDI
-
-SEGNI
-
-Visto, il Guardasigilli: ZOLI
-
-Registrato
-----------
-
-alla Corti dei conti, addi' 8 agosto 1953 Atti del Governo, registro n. 78, foglio n. 96. - CARLOMAGNO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 20 aprile 1939, n. 1118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1118), e modificato con i [regi decreti 12 gennaio 1941, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-01-12;34); [27 aprile 1942, n. 571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;571); [5 settembre 1942, n. 1237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1237); [24 ottobre 1942, n. 1438, con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1438) [4 febbraio 1947, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-04;196) e [7 marzo 1947, n. 1727 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-03-07;1727) [26 febbraio 1949, n. 430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;430); [21 aprile 1949, n. 613](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;613); [1 settembre 1949, n. 816](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-01;816); [13 marzo 1950, n. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;599); [30 ottobre 1950, n. 1125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1125); [31 ottobre 1950, n. 1310](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1310); [30 giugno 1951, n. 1148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-30;1148); [27 ottobre 1951, n. 1794](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1794) e [25 luglio 1952, n. 1352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1352);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
+Gli articoli 203 e 204, relativi alla scuola di specializzazione in chirurgia, sono soppressi.   
+
+Art. 2
+------
+
   
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 19. - Il comma quarto e' sostituito dal seguente:  
-"L'esame di statistica (2° anno di corso) deve precedere quello di matematica finanziaria, esclusa la propedeuticita' dell'esame di statistica metodologica rispetto a quello di matematica attuariale".  
-Art. 22. - Agli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
-"Storia del Cristianesimo;  
-Etruscologia ed archeologia italica;  
-Papirologia;  
-Topografia dell'Italia antica;  
-Lingue e letteratura araba".  
-Dopo l'art. 73 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione di Scuole di perfezionamento, annesse alla Facolta' di lettere e filosofia, con il conseguente spostamento della numerazione degli articoli successivi.  
+Gli articoli da 313 a 317, relativi alla scuola di specializzazione in nefrologia, sono soppressi.  
+
+Art. 3
+------
+
   
-Scuole di perfezionamento annesse alla Facolta' di lettere e filosofia  
+Gli articoli da 358 e 370, relativi alla scuola di specializzazione in ortognatodonzia, sono soppressi.  
+
+Art. 4
+------
+
   
-Art. 74. - Le Scuole di perfezionamento annesse alla Facolta' di lettere e filosofia hanno i seguenti fini:  
-1) promuovere gli studi ai quali ciascuna si intitola, contribuendo al loro progresso e alla loro diffusione con l'insegnamento, le pubblicazioni, le raccolte di materiale, con l'elargizione in particolari casi di premi agli allievi piu' meritevoli e con ogni altra iniziativa che sia consentita, dalle disponibilita' finanziarie;  
-2) raggruppare e coordinare gli insegnamenti delle discipline delle singole Scuole al fine di facilitare ai giovani la specializzazione nelle discipline stesse;  
-3) perfezionare nell'ambito di ciascuna disciplina, mediante esercitazione e corsi speciali e mediante la assistenza dei docenti nelle ricerche, i giovani laureati che aspirino ad una cultura scientifica piu' approfondita.  
-Art. 75. - Ciascuna Scuola rilascia, un diploma di perfezionamento ai giovani che abbiano superato le prove prescritte.  
-Art. 76. - I laureati che vogliono iscriversi alle Scuole di perfezionamento devono presentare regolare domanda al Rettore.  
-Essi sono tenuti a pagare le tasse annuali di iscrizione e le tasse e sopratasse di esami nella misura stabilita per gli studenti della Facolta' di lettere e filosofia. La tassa di diploma e' fissata nella misura di L. 6000, a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
-Art. 77. - Il Consiglio dei docenti di ciascuna Scuola e' costituito dai professori ufficiali della Facolta' di lettere e filosofia che vi tengono gli insegnamenti per ciascuna indicati come costitutivi.  
-Le funzioni dei professori incaricati sono quelle previste dal regolamento generale universitario in rapporto ai Consigli di Facolta'. Il direttore e' nominato dal Consiglio della Facolta' per la durata di un anno, e puo' essere riconfermato per l'anno successivo.  
-Art. 78. - Le Commissioni per gli esami di profitto sono nominate dal preside della Facolta', di intesa con i direttori delle singole Scuole; quelle per gli esami di diploma di perfezionamento sono nominati dal Rettore dell'Universita', sentiti il preside della Facolta' e il direttore della Scuola. Queste ultime si compongono di sette membri, fra i quali sei professori di ruolo delle discipline attinenti alla Scuola o di discipline affini e un professore incaricato o libero docente di una tra le materie stesse.  
-Art. 79. - Le Scuole che possono rilasciare diplomi di perfezionamento sono le seguenti:  
-1) Scuola di filologia classica, per il diploma di perfezionamento in filologia classica;  
-2) Scuola di filologia moderna, per il diploma di perfezionamento in filologia moderna;  
-3) Scuola di discipline storiche e geografiche, per il diploma di perfezionamento in discipline storiche e geografiche;  
-4) Scuola di archeologia e storia dell'arte, per il diploma di perfezionamento in archeologia e storia dell'arte;  
-5) Scuola, di filosofia e pedagogia, per il diploma di perfezionamento in filosofia e pedagogia.  
-Art. 80. - Sono insegnamenti costitutivi della Scuola di filologia classica:  
-1) letteratura latina;  
-2) letteratura greca;  
-3) glottologia;  
-4) filologia grecolatina;  
-5) sanscrito;  
-6) storia romana;  
-7) storia greca;  
-8) antichita' grecoromane;  
-9) letteratura cristiana, antica;  
-10) grammatica greca-latina;  
-11) papirologia;  
-12) filologia bizantina;  
-Insegnamento aggiuntivo: storia della filologia e della critica nella antichita'.  
-Art. 81. - Sono insegnamenti costitutivi della Scuola di filologia moderna:  
-1) letteratura italiana;  
-2) filologia romanza;  
-3) lingua e letteratura francese;  
-4) lingua e letteratura tedesca;  
-5) lingua e letteratura inglese;  
-6) lingua e letteratura spagnola;  
-7) lingua e letteratura rumena;  
-8) storia della lingua italiana;  
-9) glottologia;  
-10 filologia germanica;  
-11) estetica;  
-12) paleografia e diplomatica;  
-Insegnamento aggiuntivo: dialettologia italiana e romanza.  
-Art. 82. - Sono insegnamenti costitutivi della Scuola di discipline storiche e geografiche:  
-1) storia romana;  
-2) storia greca;  
-3) storia medioevale;  
-4) storia moderna;  
-5) storia del Risorgimento;  
-6) paleografia e diplomatica;  
-7) geografia;  
-8) storia delle religioni;  
-9) storia del Cristianesimo;  
-10) storia delle dottrine politiche;  
-11) storia delle dottrine economiche;  
-12) geografia e topografia storica del mondo antico.  
-Art. 83. - Sono insegnamenti costitutivi della Scuola di archeologia e storia dell'arte:  
-1) archeologia e storia dell'arte greca;  
-2) archeologia e storia dell'arte romana;  
-3) storia dell'arte medioevale e moderna;  
-4) storia della musica;  
-5) egittologia;  
-6) archeologia cristiana;  
-7) antichita' grecoromane;  
-8) estetica;  
-9) topografia dell'Italia antica.  
-Art. 84. - Sono insegnamenti costitutivi della Scuola di filosofia e pedagogia:  
-1) filosofia teoretica;  
-2) filosofia morale;  
-3) storia della filosofia;  
-4) pedagogia;  
-5) filosofia del diritto;  
-6) storia delle dottrine economiche;  
-7) storia delle dottrine politiche;  
-8) storia della filosofia antica;  
-9) storia della filosofia medioevale;  
-10) psicologia;  
-11) estetica.  
-Insegnamenti aggiuntivi:  
-metodologia delle scienze;  
-sociologia.  
-Art. 85. - Ai diplomi di perfezionamento in filologia classica, in filologia moderna, in discipline storiche e geografiche e in archeologia e storia dell'arte possono aspirare i laureati in lettere o in filosofia della Facolta' di lettere e filosofia; al diploma di perfezionamenti in filosofia e pedagogia i laureati in filosofia o in lettere della Facolta' di lettere e filosofia e i laureati della Facolta' di giurisprudenza.  
-Art. 86. - La durata del corso degli studi per conseguire il diploma di perfezionamento per ciascuna Scuola e' di due anni.  
-Durante l'anno di iscrizione lo studente deve ottenere la firma di iscrizione e di frequenza per almeno tre corsi, scelti tra quelli costitutivi della Scuola e sostenere i relativi esami.  
-L'esame di diploma, a cui lo studente puo' accedere dopo aver superato gli esami di profitto prescritti, consiste nella presentazione di una dissertazione scritta in triplice esemplare su argomento scelto nell'ambito di una delle discipline della Scuola e nella discussione di essa.  
-Lo studente dovra' depositare in Segreteria almeno sei mesi prima dell'esame stesso il titolo della dissertazione, accompagnato dal visto del professore titolare della disciplina prescelta.  
-Art. 90 (gia' 77), relativo alle Scuole di perfezionamento annesse alla Facolta' di medicina e chirurgia, e' sostituito dal seguente:  
-"Ai diplomi di specialista possono aspirare i laureati in medicina e chirurgia.  
-Al diploma di specialista in igiene possono aspirare i laureati in medicina e chirurgia, al diploma di specialista in igiene veterinaria i laureati in medicina veterinaria, al diploma di specialista in chimica applicata all'igiene i laureati in chimica e i laureati in farmacia".  
-Gli attuali articoli 111 e 112, relativi alla Scuola di perfezionamento in igiene, sono cosi' modificati:  
-Art. 111. - Per il conseguimento del diploma, di specialista in igiene si richiedono due anni di corso con internato.  
-Art. 112. - Gli insegnamenti impartiti dalla Scuola, per le tre branche della specialita' in igiene sono i seguenti:  
-1° anno:  
-1) statistica sanitaria;  
-2) chimica applicata all'igiene;  
-3) fisica applicata all'igiene;  
-4) analisi di laboratorio applicata all'igiene;  
-5) analisi speciali di laboratorio applicate all'igiene per chimici e farmacisti;  
-6) malattie parassitarie (rispettivamente da in fravirus, schizomiceti, micofiti, protozoi, macroparassiti):  
-a) dell'infanzia;  
-b) degli adulti;  
-c) tropicali.  
-7) elementi di ingegneria sanitaria.  
-L'allievo ha inoltre l'obbligo di due tirocini pratici della durata ciascuno di quindici giorni:  
-a) presso un ufficio di medico provinciale;  
-b) presso un ufficio di igiene comunale.  
-I suddetti periodi di tirocinio pratico non possono essere fatti contemporaneamente.  
-2° anno:  
-1) amministrazione sanitaria;  
-2) epidemiologia e profilassi generale e speciale;  
-3) medicina preventiva rispettivamente:  
-a) maternita' e infanzia, igiene mentale, igiene della scuola;  
-b) igiene del lavoro e dello sport;  
-c) igiene del suolo, delle acque e dell'abitato;  
-4) anatomia e istologia patologica.  
-L'allievo ha inoltre l'obbligo dei seguenti tirocini pratici della durata ciascuno di quindici giorni:  
-a) presso un Consorzio antitubercolare;  
-b) presso la direzione sanitaria di un ospedale di 1ª categoria;  
-c) presso i servizi sanitari di una fabbrica.  
-I suddetti tre periodi di pratica non possono essere fatti contemporaneamente.  
-Gli allievi laureati in medicina e chirurgia sono dispensati dall'obbligo della frequenza dell'esame in analisi speciali di laboratorio applicate all'igiene per chimici e farmacisti.  
-Gli allievi laureati in medicina veterinaria sono dispensati dall'obbligo della frequenza e dall'esame in elementi in ingegneria sanitaria, in analisi speciali di laboratorio all'igiene per chimici e farmacisti nonche' l'obbligo dei tirocini pratici di cui sopra; hanno pero' l'obbligo di un tirocinio pratico della durata di quindici giorni presso un pubblico macello il primo anno e presso un ufficio di veterinario provinciale il secondo anno.  
-Gli allievi laureati in chimica e i laureati in farmacia sono esentati dall'obbligo della frequenza e dell'esame in elementi di ingegneria sanitaria e in anatomia e istologia patologica, nonche' dai tirocini pratici.  
-Per il conseguimento del diploma l'allievo deve inoltre presentare una dissertazione sperimentale o di compilazione su di un argomento facente parte delle materie del corso.  
-Dopo le Scuole di perfezionamento in medicina e chirurgia sono aggiunti i seguenti nuovi articoli relativi alla istituzione di Scuole di specializzazione annesse alla Facolta' di medicina veterinaria.  
   
-Scuole di specializzazione annesse alla Facolta' di medicina veterinaria  
+Dopo l'art. 441, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi al riordinamento della scuola di specializzazione in chirurgia generale (ex chirurgia), in nefrologia, in medicina fisica e riabilitazione (ex fisioterapia).   
+Scuola di specializzazione in chirurgia generale   
+Art. 442. - E' istituita la scuola di specializzazione in chirurgia generale presso l'Universita' degli studi di Torino.   
+La scuola ha lo scopo di preparare personale medico specializzato nel campo della chirurgia generale.   
+La scuola rilascia il titolo di specialista in chirurgia generale.   
+Art. 443. - La scuola ha la durata di cinque anni.   
+Ciascun anno di corso prevede ottocento ore di insegnamento e di attivita' pratiche guidate.   
+In base alle strutture disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in venticinque per ciascun anno di corso, per un totale di centoventicinque specializzandi.   
+Art. 444. - Per l'attuazione delle attivita' didattiche programmate dal consiglio della scuola provvede la facolta' di medicina e chirurgia.   
+Art. 445. - Sono ammessi alle prove per ottenere l'iscrizione i laureati in medicina e chirurgia.   
+Per l'iscrizione alla scuola e' richiesto il possesso del diploma di abilitazione all'esercizio della professione.   
+Art. 446. - La scuola comprende sei aree di insegnamento e tirocinio professionale:   
+a) propedeutica generale;   
+b) diagnostica strumentale e di laboratorio;   
+c) tecnica operatoria;   
+d) fisiopatologia speciale;   
+e) chirurgia generale;   
+f) chirurgia speciale.   
+Art. 447. - Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:   
+a) Propedeutica generale:   
+fisiopatologia generale;   
+informatica;   
+medicina legale;   
+chirurgia sperimentale e microchirurgia.   
+b) Diagnostica strumentale e di laboratorio:   
+patologia clinica;   
+anatomia patologica;   
+radiologia;   
+semeiotica strumentale.   
+c) Tecnica operatoria:   
+anatomia chirurgica;   
+tecniche operatorie;   
+chirurgia endoscopica.   
+d) Fisiopatologia speciale:   
+anestesia e rianimazione;   
+trattamento pre e post-operatorio;   
+fisiopatologia chirurgica.   
+e) Chirurgia generale:   
+chirurgia generale;   
+chirurgia pediatrica;   
+chirurgia d'urgenza;   
+chirurgia oncologica;   
+chirurgia geriatrica.   
+f) Chirurgia speciale:   
+ortopedia e traumatologia;   
+neurochirurgia;   
+chirurgia ginecologica;   
+chirurgia toracica;   
+chirurgia cardiovascolare;   
+endocrinochirurgia;   
+chirurgia urologica;   
+chirurgia plastica e riparativa.   
+Art. 448. - L'attivita' didattica comprende ogni anno ottocento ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in una attivita' didattica teorico-pratica comune per tutti gli specializzandi (quattrocento ore come di seguito ripartite) ed in una attivita' didattica elettiva, prevalentemente di carattere tecnico-applicativo di ulteriori quattrocento ore, rivolta all'approfondimento del curriculum corrispondente ad uno dei settori formativo-professionali (monte ore elettivo).   
+La frequenza nelle diverse aree avviene pertanto come di seguito specificato:   
   
-Art. 128. E' istituita presso la Facolta' di medicina veterinaria la Scuola di specializzazione in fisiopatologia della riproduzione degli animali domestici, la quale ha lo scopo di approfondire ed aggiornare le conoscenze indispensabili sui vari problemi che si collegano al tema della fisiologia e della patologia dell'apparato genitale femminile e maschile, in relazione al problema della sterilita' e della fecondazione artificiale.  
-Art. 129. - Alla Scuola di specializzazione in fisiopatologia della riproduzione animale, della durata di due anni, vengono ammessi solo i laureati in medicina veterinaria, e ad essi si richiede la frequenza obbligatoria a tutti gli insegnamenti teorici ed alle esercitazioni pratiche.  
-Art. 130. - Le materie di insegnamento comprendono:  
-1° anno:  
-1) anatomia e fisiologia dell'apparato genitale maschile e femminile;  
-2) fisiopatologia ostetrico-ginecologica;  
-3) zootecnia generale con particolare riferimento ai problemi della genetica;  
-4) malattie degli organi genitali maschili e femminili.  
-Malattie dell'apparato urinario;  
-5) anatomia patologica dell'apparato genitale maschile e femminile.  
-2° anno:  
-1) clinica ostetrico-ginecologica;  
-2) basi scientifiche, metodologia e tecnica della fecondazione artificiale;  
-3) zootecnia speciale e igiene zootecnica;  
-4) malattie infettive in diretta attinenza con gli apparati genitali maschile e femminile.  
-In parallelo agli insegnamenti della Scuola, durante il corso, saranno svolte conferenze anche da parte di docenti di riconosciuta competenza nella specialita'.  
-Art. 131. - Gli insegnamenti teorici e le esercitazioni pratiche verranno svolte dai professori presso la Facolta' e presso alcuni centri di cura della sterilita' bovina e di fecondazione artificiale; sia per la parte teorica, sia, per quella dimostrativa il corso si svolgera' in collaborazione con l'Istituto zooprofilattico per il Piemonte e la Liguria.  
-Art. 132. - Alla fine del primo e secondo anno i candidati dovranno sostenere un esame teorico sul programma svolto in ciascun insegnamento. Per accedere al secondo anno della Scuola di specializzazione, lo specializzando dovra' avere superato gli esami del primo anno.  
-Superati gli esami dei singoli insegnamenti, gli iscritti dovranno presentare e discutere innanzi ad una Commissione formata da sette membri, scelti fra gli insegnanti della Scuola, una dissertazione originale scritta.  
-La stessa Commissione giudicatrice stabilira' i termini per la successiva prova pratica completata da interrogazioni orali che tutti i candidati dovranno superare ai fini del conseguimento del diploma, il quale dara' diritto alla qualifica di specialista, a norma dell'[art. 4 del regio decreto 31 dicembre 1923, n. 2909](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;2909~art4).  
-Il diploma di specializzazione in fisiopatologia della riproduzione degli animali domestici costituira' titolo valido per assumere la direzione dei centri di fecondazione artificiale e relative emanazioni (sottocentri, recapiti, installazioni aziendali, impiego "a domicilio") nonche' per la direzione dei centri tori ove si provvede alla raccolta e spedizione del materiale seminale, in relazione alle norme vigenti.  
-Art. 133. - Il direttore della Scuola sara' il professore titolare dell'insegnamento dell'ostetricia e ginecologia veterinaria o verra' scelto tra i docenti della Facolta' di medicina veterinaria titolari di cattedra affine e designati dalla Facolta' stessa. Gli insegnanti della Scuola saranno proposti dal direttore e le proposte approvate dal Consiglio di Facolta'.  
-Art. 134. - Il Consiglio della scuola sara' composto dai professori chiamati a svolgere gli insegnamenti prescritti.  
-Art. 135. - I programmi degli insegnamenti dovranno essere approvati dal Consiglio della Facolta'; l'inizio e il termine del corso, l'orario, la sede delle lezioni, delle esercitazioni pratiche relative, nonche' la data delle prove di esami di profitto e di diploma verranno stabiliti dal Consiglio della scuola ed approvati dal Consiglio della Facolta'.  
-Art. 136. - Il numero massimo di partecipanti al corso sara' stabilito di anno in anno ed il corso sara' svolto purche' gli iscritti raggiungano il numero di quindici.  
-Nel caso che il numero delle domande superi il massimo stabilito, il Consiglio della scuola si riservera' di scegliere, con giudizio insindacabile, i nominativi dei partecipanti al corso.  
-Art. 137. - Gli iscritti alla Scuola di specializzazione saranno tenuti a pagare la tassa di iscrizione, le tasse e sopratasse di esame, compresi i contributi integrativi, secondo quanto stabilito per gli studenti della Facolta' di medicina veterinaria, nonche' la tassa di diploma. Essi saranno inoltre tenuti al pagamento di un contributo di laboratorio previsto dall'[art. 11 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art11).  
+1° Anno:   
+Propedeutica generale (ore 100):   
+fisiopatologia generale. . . . . . . . . . . . . . . . . . . . ore 30 informatica. . . . . . . . . . . . . . . . . . . . . . . . . . ore 30 chirurgia sperimentale e microchirurgia. . . . . . . . . . . . ore 40 Diagnostica strumentale e di laboratorio (ore 50):   
+patologia clinica. . . . . . . . . . . . . . . . . . . . . . . ore 50 Tecnica operatoria (ore 100):   
+anatomia chirurgica . . . . . . . . . . . . . . . . . . . . . ore 100 fisiopatologia speciale (ore 50):   
+anestesia e rianimazione . . . . . . . . . . . . . . . . . . . ore 50 Chirurgia generale (ore 100):   
+chirurgia generale. . . . . . . . . . . . . . . . . . . . . . ore 100 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
   
-Scuola di specializzazione in ispezione degli alimenti di origine animale  
+2° Anno:   
+Diagnostica strumentale e di laboratorio (ore 100):   
+anatomia patologica. . . . . . . . . . . . . . . . . . . . . . ore 50 semeiotica strumentale . . . . . . . . . . . . . . . . . . . . ore 50 Tecnica operatoria (ore 100):   
+anatomia chirurgica . . . . . . . . . . . . . . . . . . . . . ore 100 fisiopatologia speciale (ore 100):   
+trattamento pre e post-operatorio. . . . . . . . . . . . . . . ore 50 fisiopatologia chirurgica. . . . . . . . . . . . . . . . . . . ore 50 Chirurgia generale (ore 100):   
+chirurgia generale. . . . . . . . . . . . . . . . . . . . . . ore 100 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
   
-Art. 138. - E' istituita presso la Facolta' di medicina veterinaria una Scuola di specializzazione in ispezione degli alimenti di origine animale, la quale ha lo scopo di approfondire ed aggiornare la preparazione dei laureati in medicina veterinaria, che dovranno assolvere le complesse funzioni della direzione dei pubblici macelli, e di conferire il diploma di specialista a norma dell'[art. 4 del regio decreto 31 dicembre 1923, n. 2909](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;2909~art4).  
-Art. 139. - La Scuola di specializzazione in ispezione degli alimenti di origine animale ha la durata di due anni e puo' essere frequentata solo da laureati in medicina veterinaria.  
-L'internato si svolge in un Istituto designato dal direttore della Scuola.  
-Art. 140. - Gli insegnamenti impartiti nella Scuola sono i seguenti:  
-1° anno  
-1) anatomia;  
-2) fisiopatologia;  
-3) approvvigionamento e conservazione degli ali menti di origine animale;  
-4) anatomia patologica;  
-5) legislazione sanitaria.  
-2° anno:  
-1) malattie infettive ed infestive;  
-2) metodologia clinica applicata agli animali da macello e produttori di latte;  
-3) ispezione sanitaria delle carni fresche, conservate e dei prodotti di origine animale;  
-4) microbiologia e diagnostica di laboratorio.  
-Gli insegnamenti avranno indirizzo teorico-pratico nella prevalente forma di esercitazioni ispettive e verteranno su argomenti di particolare interesse per l'ispettore degli alimenti. Essi saranno integrati da dimostrazioni pratiche sia presso la Facolta', sia presso stabilimenti di lavorazione prescelti dal Consiglio direttivo della Scuola.  
-Alla fine del primo e secondo anno i candidati dovranno sostenere un esame teorico-pratico sul programma svolto in ciascun insegnamento.  
-Art. 141. - Per essere ammesso all'esame di diploma di specializzazione, che vertera' sulla discussione di una dissertazione scritta su argomenti di una delle materie svolte, l'iscritto dovra' aver frequentato i corsi e le esercitazioni pratiche, aver superata una prova sperimentale, nonche' gli esami delle singole materie teoriche relative alla Scuola di specializzazione.  
-Art. 142. - Il direttore della Scuola e' il professore di ruolo dell'insegnamento di ispezione degli alimenti di origine animale o di "anatomia patologica"; in mancanza di questi il Consiglio di Facolta' lo designera' tra i propri membri.  
-Gli insegnanti della Scuola sono scelti dal direttore tra i professori di ruolo, tra i liberi docenti, tra gli aiuti e gli assistenti nonche' tra le persone di riconosciuta competenza nella specialita'. Il Consiglio direttivo della Scuola e' composto dai docenti chiamati a svolgere gli insegnamenti prescritti ed e' presieduto dal direttore. Questi stabilisce l'ordinamento e l'indirizzo degli studi nonche' il numero delle lezioni per ogni singolo insegnamento.  
-Art. 143. - La Commissione per gli esami di profitto e' composta dal professore della materia, dal direttore della Scuola e da un docente del corso medesimo. La Commissione di diploma, presieduta dal direttore della Scuola e' costituita da sette membri scelti fra gli insegnanti della Scuola medesima.  
-Art. 144. - Il Consiglio della Scuola stabilira' annualmente se i corsi dovranno effettuarsi qualora gli iscritti non raggiungano il numero prestabilito; come pure scegliera' con giudizio insindacabile gli allievi nel caso che il numero delle domande superi quello prefissato.  
-Art. 145. - Gli iscritti alla Scuola di specializzazione sono tenuti a pagare la tassa di iscrizione, le tasse e sopratasse di esame, la tassa di diploma, nonche' i contributi vari, secondo quanto stabilito per gli studenti della Facolta' di medicina veterinaria.  
-Inoltre gli iscritti dovranno versare un contributo di laboratorio previsto dall'[art. 11 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art11).  
+3° Anno:   
+Diagnostica strumentale e di laboratorio (ore 100):   
+anatomia patologica. . . . . . . . . . . . . . . . . . . . . . ore 20 radiologia . . . . . . . . . . . . . . . . . . . . . . . . . . ore 30 semeiotica strumentale . . . . . . . . . . . . . . . . . . . . ore 50 Tecnica operatoria (ore 100):   
+tecnica operatoria. . . . . . . . . . . . . . . . . . . . . . ore 100 Chirurgia generale (ore 150):   
+chirurgia generale. . . . . . . . . . . . . . . . . . . . . . ore 150 Chirurgia speciale (ore 50):   
+endocrinochirurgia . . . . . . . . . . . . . . . . . . . . . . ore 50 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+  
+4° Anno:   
+Tecnica operatoria (ore 80):   
+tecnica operatoria . . . . . . . . . . . . . . . . . . . . . . ore 80 Chirurgia generale (ore 170):   
+chirurgia generale. . . . . . . . . . . . . . . . . . . . . . ore 100 chirurgia pediatrica . . . . . . . . . . . . . . . . . . . . . ore 45 chirurgia geriatrica . . . . . . . . . . . . . . . . . . . . . ore 25 Chirurgia speciale (ore 150):   
+ortopedia e traumatologia. . . . . . . . . . . . . . . . . . . ore 30 neurochirurgia . . . . . . . . . . . . . . . . . . . . . . . . ore 20 chirurgia ginecologica . . . . . . . . . . . . . . . . . . . . ore 50 chirurgia urologica. . . . . . . . . . . . . . . . . . . . . . ore 50 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+  
+5° Anno:   
+Propedeutica generale (ore 20):   
+medicina legale. . . . . . . . . . . . . . . . . . . . . . . . ore 20 Tecnica operatoria (ore 100):   
+tecnica operatoria . . . . . . . . . . . . . . . . . . . . . . ore 80 chirurgia endoscopica. . . . . . . . . . . . . . . . . . . . . ore 20 Chirurgia generale (ore 180):   
+chirurgia generale . . . . . . . . . . . . . . . . . . . . . . ore 50 chirurgia d'urgenza. . . . . . . . . . . . . . . . . . . . . . ore 80 chirurgia oncologica . . . . . . . . . . . . . . . . . . . . . ore 50 Chirurgia speciale (ore 100):   
+chirurgia toracica . . . . . . . . . . . . . . . . . . . . . . ore 40 chirurgia cardiovascolare. . . . . . . . . . . . . . . . . . . ore 40 chirurgia plastica e riparativa. . . . . . . . . . . . . . . . ore 20 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+  
+Art. 449. - Durante i cinque anni di corso e' richiesta la frequenza nei seguenti reparti:   
+clinica chirurgica I;   
+clinica chirurgica II;   
+patologia chirurgica I;   
+patologia chirurgica II.   
+La frequenza nelle varie aree per complessive ottocento ore annue, compreso il monte ore elettivo di quattrocento ore annue, avverra' secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienza e di formazione professionale. Il consiglio della scuola ripartira' annualmente il monte ore elettivo.   
+Il consiglio della scuola predispone apposito libretto di formazione, che consenta allo specializzando ed al consiglio stesso il controllo dell'attivita' svolta e dell'acquisizione dei progressi compiuti, per sostenere gli esami annuali e finali.   
+Scuola di specializzazione in nefrologia   
+Art. 450. - E' istituita la scuola di specializzazione in nefrologia presso l'Universita' degli studi di Torino. La scuola ha sede nell'Universita' di Torino.   
+La scuola ha il compito di fornire competenze professionali specifiche nel campo della prevenzione, della diagnostica e della terapia conservativa delle nefropatie e della terapia sostitutiva artificiale o naturale.   
+La scuola rilascia il titolo di specialista in nefrologia.   
+Art. 451. - La scuola ha la durata di quattro anni.   
+Ciascun anno di corso prevede ottocento ore di insegnamento e di attivita' pratiche guidate.   
+In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in dieci per ciascun anno di corso, per un totale di quaranta specializzandi.   
+Art. 452. - Per l'attuazione delle attivita' didattiche programmate dal consiglio della scuola provvede la facolta' di medicina e chirurgia.   
+Art. 453. - Sono ammessi al concorso per ottenere l'iscrizione alla scuola i laureati in medicina e chirurgia.   
+Per l'iscrizione alla scuola e' richiesto il possesso del diploma di abilitazione all'esercizio della professione.   
+Art. 454. - La scuola comprende otto aree di insegnamento e tirocinio professionale:   
+1) metodologie, statistica e tecniche di informatica;   
+2) struttura e funzione normale;   
+3) immunogenetica;   
+4) struttura e funzione patologica;   
+5) diagnostica;   
+6) terapia sostitutiva;   
+7) nefrologia clinica;   
+8) nefrologia pediatrica.   
+Art. 455. - Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:   
+1) Metodologie, statistica e tecniche di informatica:   
+informatica medica;   
+statistica medica e metodologia epidemiologica.   
+2) Struttura e funzione normale:   
+anatomia e fisiologia umana;   
+bilancio idro-elettrolitico ed equilibrio acido-base;   
+funzione endocrina del rene;   
+embriologia.   
+3) Genetica ed immunologia applicata alla metodologia:   
+genetica medica;   
+immunologia;   
+immunologia dei trapianti;   
+consultorio genetico.   
+4) Struttura e funzione patologica:   
+morfologia e fisiopatologia delle nefropatie;   
+patologia del ricambio idro-salino e dell'equilibrio acido-base.   
+5) Diagnostica:   
+patologia clinica;   
+anatomia ed istologia patologica;   
+radiologia;   
+medicina nucleare;   
+microbiologia clinica.   
+6) Terapia sostitutiva:   
+tecniche sostitutive artificiali;   
+trapianto renale.   
+7) Nefrologia clinica:   
+nefrologia sperimentale;   
+medicina interna;   
+medicina interna per la patologia correlazionistica;   
+rene e ipertensione;   
+rene e gravidanza;   
+rene e diabete;   
+nefrologia I: nefropatie glomerulari;   
+nefrologia II: nefropatie vascolari, nefropatie tubulointerstiziali;   
+urologia medica;   
+insufficienza renale acuta;   
+insufficienza renale cronica;   
+farmacologia e tossicologia;   
+dietetica di interesse nefrologico;   
+nefrologia geriatrica;   
+emergenze in nefrologia;   
+affezioni urologiche di interesse nefrologico.   
+8) Nefrologia pediatrica:   
+nefrologia clinica in eta' pediatrica;   
+insufficienza renale acuta e cronica in eta' pediatrica;   
+nefropatie congenite ed ereditarie;   
+nutrizione e accrescimento;   
+terapia sostitutiva in eta' pediatrica.   
+Art. 456. - L'attivita' didattica comprende ogni anno ottocento ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in attivita' didattica teorico-pratica, comune per tutti gli studenti (quattrocento ore come di seguito ripartite) ed in attivita' didattica elettiva, prevalentemente di carattere tecnico-applicativo di ulteriori quattrocento ore, rivolta all'approfondimento del curriculum corrispondente ad uno dei settori formativo-professionali (monte ore elettivo).   
+La frequenza nelle diverse aree avviene pertanto come di seguito specificato;   
+  
+1° Anno:   
+Metodologie, statistica e tecniche di   
+informatica (ore 50):   
+informatica medica . . . . . . . . . . . . . . . . . . . . . . ore 25 statistica medica e metodologia epidemiologica . . . . . . . . ore 25 Struttura e funzione normale (ore 80):   
+embriologia. . . . . . . . . . . . . . . . . . . . . . . . . . ore 15 anatomia e fisiologia umana. . . . . . . . . . . . . . . . . . ore 30 bilancio idroelettrico ed equilibrio acido-base. . . . . . . . ore 15 funzione endocrina del rene. . . . . . . . . . . . . . . . . . ore 20 Genetica ed immunologia (ore 70):   
+genetica medica. . . . . . . . . . . . . . . . . . . . . . . . ore 40 immunologia. . . . . . . . . . . . . . . . . . . . . . . . . . ore 30 Nefrologia clinica (ore 200):   
+nefrologia sperimentale. . . . . . . . . . . . . . . . . . . . ore 50 nefrologia. . . . . . . . . . . . . . . . . . . . . . . . . . ore 150 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+  
+2° Anno:   
+Struttura e funzione patologica (ore 50):   
+morfologie fisiopatologia delle nefropatie . . . . . . . . . . ore 20 patologia del ricambio idrosalino e dell'equilibrio acido-base. ore 30   
+Diagnostica (ore 90):   
+patologia clinica. . . . . . . . . . . . . . . . . . . . . . . ore 30 radiologia . . . . . . . . . . . . . . . . . . . . . . . . . . ore 30 medicina nucleare. . . . . . . . . . . . . . . . . . . . . . . ore 30 Terapia sostitutiva (ore 100):   
+tecniche sostitutive artificiali. . . . . . . . . . . . . . . ore 100 Nefrologia clinica (ore 160):   
+nefrologia I. . . . . . . . . . . . . . . . . . . . . . . . . ore 160 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+  
+3° Anno:   
+Genetica ed immunologia (ore 40):   
+immunologia dei trapianti. . . . . . . . . . . . . . . . . . . ore 20 consultorio genetico . . . . . . . . . . . . . . . . . . . . . ore 20 Diagnostica (ore 60):   
+anatomia e istologia patologica. . . . . . . . . . . . . . . . ore 30 microbiologia clinica. . . . . . . . . . . . . . . . . . . . . ore 30 Terapia sostitutiva (ore 120):   
+tecniche sostitutive artificiali. . . . . . . . . . . . . . . ore 120 Nefrologia clinica (ore 180):   
+nefrologia II. . . . . . . . . . . . . . . . . . . . . . . . . ore 30 medicina interna (per la patologia correzionistica:   
+rene e ipertensione, rene e gravidanza, rene e diabete). . . . ore 30 urologia medica. . . . . . . . . . . . . . . . . . . . . . . . ore 40 insufficienza renale acuta . . . . . . . . . . . . . . . . . . ore 40 insufficienza renale cronica . . . . . . . . . . . . . . . . . ore 40 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+  
+4° Anno:   
+Terapia sostitutiva (ore 120):   
+trapianto renale. . . . . . . . . . . . . . . . . . . . . . . ore 120 Nefrologia clinica (ore 200):   
+medicina interna . . . . . . . . . . . . . . . . . . . . . . . ore 40 dietetica di interesse nefrologico . . . . . . . . . . . . . . ore 40 farmacologia e tossicologia. . . . . . . . . . . . . . . . . . ore 20 nefrologia geriatrica. . . . . . . . . . . . . . . . . . . . . ore 30 emergenze in nefrologia. . . . . . . . . . . . . . . . . . . . ore 40 affezioni urologiche di interesse nefrologico. . . . . . . . . ore 30 Nefrologia pediatrica (ore 80):   
+nefrologia clinica in eta' pediatrica. . . . . . . . . . . . . ore 20 insufficienza renale acuta e cronica in eta' pediatrica. . . . ore 20 nefropatie congenite ed ereditarie . . . . . . . . . . . . . . ore 10 nutrizione ed accrescimento. . . . . . . . . . . . . . . . . . ore 10 terapia sostitutiva in eta' pediatrica . . . . . . . . . . . . ore 20 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+  
+Art. 457. - Durante i quattro anni di corso della scuola e' richiesta la frequenza dei reparti clinici di degenze, degli ambulatori, dei laboratori di diagnostica e dei servizi di terapia sostitutiva, nelle strutture a disposizione.   
+La frequenza nelle varie aree per complessive ottocento ore, compreso il monte ore elettivo di quattrocento ore annue, avverra' secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienze e di formazione professionale. Il consiglio della scuola ripartira' annualmente il monte ore elettivo. Il consiglio della scuola predispone un apposito libretto di formazione che consenta allo specializzando ed al consiglio stesso il controllo dell'attivita' svolta e dell'acquisizione dei progressi compiuti per sostenere gli esami annuali e finali.   
+Scuola di specializzazione in ortognatodonzia   
+Art. 458. - E' istituita la scuola di specializzazione in ortognatodonzia presso l'Universita' degli studi di Torino.   
+La scuola ha lo scopo di preparare specialisti in ortopedia dento-maxillo-facciale.   
+La scuola rilascia il titolo di specialista in ortognatodonzia.   
+Art. 459. - La scuola ha la durata di tre anni.   
+Ciascun anno di corso prevede ottocento ore di insegnamento e di attivita' pratiche guidate.   
+In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in sei per ciascun anno di corso, per un totale di diciotto specializzandi.   
+Art. 460. - Per l'attuazione delle attivita' didattiche programmate dal consiglio della scuola provvede la facolta' di medicina e chirurgia.   
+Art. 461. - Sono ammessi alle prove per ottenere l'iscrizione i laureati in medicina e chirurgia e odontoiatria e protesi dentaria.   
+Per l'iscrizione alla scuola e' richiesto il possesso del diploma di abilitazione all'esercizio della professione.   
+Art. 462. - La scuola comprende quattro aree di insegnamento e tirocinio professionale:   
+a) area medica;   
+b) area chirurgica;   
+c) area odontoiatrica e stomatologica;   
+d) area specialistica gnatologica e ortognatodontica.   
+Art. 463. - Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:   
+a) Area medica:   
+embriologia e anatomia dell'apparato stomatognatico;   
+farmacologia clinica;   
+pediatria-auxologia applicata;   
+genetica applicata;   
+statistica applicata alla ricerca scientifica;   
+medicina legale e delle assicurazioni;   
+fisiologia dell'apparato stomatognatico.   
+b) Area chirurgica:   
+chirurgia odontostomatologica;   
+chirurgia ortognatodontica;   
+esercitazioni cliniche.   
+c) Area stomatologica:   
+patologia odontostomatologica;   
+odontoiatria conservativa;   
+radiologia odontostomatologica;   
+pedodonzia;   
+stomatologia preventiva;   
+paradontologia;   
+esercitazioni cliniche.   
+d) Area specialistica ortognatodontica:   
+ortognatodonzia;   
+odontotecnica;   
+semeiotica ortognatodontica;   
+cefalometria clinica;   
+metallurgia e merceologia in ortognatodonzia;   
+esercitazioni di laboratorio.   
+Art. 464. - L'attivita' didattica comprende ogni anno ottocento ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in una attivita' teorico-pratica comune per tutti gli studenti ed in una attivita' didattica elettiva, prevalentemente di carattere tecnico-applicativo, rivolta all'approfondimento del curriculum corrispondente ad uno dei settori formativo-professionali.   
+La frequenza nelle diverse aree avviene pertanto come di seguito specificato:   
+  
+1° Anno:   
+Area medica:   
+embriologia e anatomia dell'apparato stomatognatico. . . . . . ore 20 fisiologia dell'apparato stomatognatico. . . . . . . . . . . . ore 35 farmacologia clinica . . . . . . . . . . . . . . . . . . . . . ore 20 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 100 Area chirurgica:   
+chirurgia odontostomatologica. . . . . . . . . . . . . . . . . ore 20 esercitazioni cliniche. . . . . . . . . . . . . . . . . . . . . ore 5 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 100 Area stomatologica:   
+patologia odontostomatologica. . . . . . . . . . . . . . . . . ore 50 odontoiatria conservativa. . . . . . . . . . . . . . . . . . . ore 50 stomatologia preventiva. . . . . . . . . . . . . . . . . . . . ore 25 radiologia odontostomatologica . . . . . . . . . . . . . . . . ore 25 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 100 Area specialistica ortognatodontica:   
+ortognatodonzia I. . . . . . . . . . . . . . . . . . . . . . . ore 80 odontotecnica. . . . . . . . . . . . . . . . . . . . . . . . . ore 35 esercitazioni di laboratorio . . . . . . . . . . . . . . . . . ore 35 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 100   
+  
+2° Anno:   
+Area medica:   
+fisiologia dell'apparato stomatognatico. . . . . . . . . . . . ore 10 pediatria auxologica applicata . . . . . . . . . . . . . . . . ore 10 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 150 Area stomatologica:   
+pedodonzia . . . . . . . . . . . . . . . . . . . . . . . . . . ore 40 paradontologia . . . . . . . . . . . . . . . . . . . . . . . . ore 40 esercitazioni cliniche . . . . . . . . . . . . . . . . . . . . ore 20 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 100 Area specialistica ortognatodontica:   
+semeiotica ortognatodontica. . . . . . . . . . . . . . . . . . ore 60 ortognatodonzia II . . . . . . . . . . . . . . . . . . . . . . ore 80 cefalometria clinica I . . . . . . . . . . . . . . . . . . . . ore 60 metallurgia e merceologia in ortognatodonzia . . . . . . . . . ore 40 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 150   
+  
+3° Anno:   
+Area medica:   
+genetica applicata . . . . . . . . . . . . . . . . . . . . . . ore 15 statistica applicata alla ricerca scientifica. . . . . . . . . ore 15 medicina legale delle assicurazioni in odontostomatologia. . . ore 10 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 150 Area chirurgica:   
+chirurgia ortognatodontica . . . . . . . . . . . . . . . . . . ore 20 esercitazioni cliniche . . . . . . . . . . . . . . . . . . . . ore 20 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 100 Area specialistica ortognatodontica:   
+ortognatodonzia III. . . . . . . . . . . . . . . . . . . . . . ore 80 cefalometria clinica II. . . . . . . . . . . . . . . . . . . . ore 80 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 150   
+  
+Art. 465. - Durante i tre anni di corso e' richiesta la frequenza nei seguenti reparti:   
+gnatologia e ortognatodonzia;   
+odontoiatria infantile.   
+La frequenza nelle varie aree per complessive ottocento ore annue, compreso il monte ore elettivo, avverra' secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienza e di formazione professionale.   
+Il consiglio della scuola ripartira' annualmente il monte ore elettivo.   
+Il consiglio della scuola predispone apposito libretto di formazione, che consenta allo specializzando ed al consiglio stesso il controllo dell'attivita' svolta e dell'acquisizione dei progressi compiuti per sostenere gli esami annuali e finali.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 marzo 1953
+### Dato a Roma, addi' 19 luglio 1986
 
-EINAUDI SEGNI
+COSSIGA
 
-Visto, il Guardasigilli: ZOLI
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corti dei conti, addi' 8 agosto 1953
+Visto, il Guardasigilli: ROGNONI
 
-Atti del Governo, registro n. 78, foglio n. 96. - CARLOMAGNO
+Registrato alla Corte dei conti, addi' 10 dicembre 1986
+
+Registro n. 88 Istruzione, foglio n. 9

@@ -1,19 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 settembre 1961 n. 1272
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1967 n. 547
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 settembre 1961 n. 1272
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1967 n. 547
+=============================================================
 
-Autorizzazione all'Accademia nazionale dei Licei, con sede in Roma, ad accettare, una eredita'.
------------------------------------------------------------------------------------------------
+Autorizzazione all'Accademia nazionale dei Licei, con sede in Roma, ad accettare una eredita'.
+----------------------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-1272. Decreto del Presidente della Repubblica 13 settembre 1961, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Accademia, nazionale dei Licei, con sede in Roma, viene autorizzata ad accettare l'eredita' disposta in suo favore dal prof. Raffaele Pettazzoni, con testamento olografo pubblicato il 30 dicembre 1959, n. 252699 di repertorio, a rogito notaio Tito Staderini, notaio in Roma, registrato in Roma il 5 gennaio 1960 n. 7451, volume 149/4 - Atti pubblici.  
+547. Decreto del Presidente della Repubblica 10 giugno 1967, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Accademia Nazionale dei Lincei, con sede in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita' ad essa devoluta dalla signora Amelia Minghini ved. Forti ved. Novelli con testamento olografo in data 2 settembre 1965, pubblicato il 3 marzo 1966 con atto n. 59896 di repertorio, a rogito del dott.  
+Alessandro Guasti, notaio in Milano.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 30 novembre 1961  
-Atti del Governo, registro n. 142, foglio n. 56. - VILLA
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 14 luglio 1967  
+Atti del Governo, registro n. 212, foglio n. 44. - GRECO

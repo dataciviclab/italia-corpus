@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1986 n. 546
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1979 n. 829
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1986 n. 546
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1979 n. 829
+==============================================================
 
 Assegnazione di un posto di tecnico laureato presso l'Universita' degli studi di Bologna.
 -----------------------------------------------------------------------------------------
@@ -10,10 +10,38 @@ Assegnazione di un posto di tecnico laureato presso l'Universita' degli studi di
 Art. 1
 ------
 
-N.
-
-546. Decreto del Presidente della Repubblica 22 luglio 1986, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto politico amministrativo (per le esigenze del centro studi e ricerche sull'ordinamento giudiziario) della facolta' di scienze politiche dell'Universita' di Bologna.   
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Visto, il Guardasigilli: ROGNONI   
-Registrato alla Corte dei conti, addi' 9 settembre 1986   
-Registro n. 69 Istruzione, foglio n. 395
+Veduta la [legge 3 novembre 1961, n. 1255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-11-03;1255);   
+Veduta la [legge 3 giugno 1970, n. 380](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-06-03;380);   
+Veduto il [decreto-legge 1 ottobre 1973, n. 580](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580), convertito, con modificazioni, in [legge 30 novembre 1973, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766), ed in particolare l'art. 8;   
+Veduta la [legge 25 ottobre 1977, n. 808](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-10-25;808);   
+Veduto il decreto interministeriale 31 luglio 1978, registrato alla Corte dei conti, addi' 22 febbraio 1979, registro n. 9, foglio n. 18;   
+Veduto il decreto interministeriale 2 luglio 1979, registrato alla Corte dei conti, addi' 30 agosto 1979, registro n. 66, foglio n. 149, con il quale si e' provveduto a rettificare il numero dei posti indicati nella tabella B allegata al citato decreto interministeriale 31 luglio 1978, nel senso che tale tabella si intende sostituita dalla tabella B-1 unita allo stesso decreto interministeriale 2 luglio 1979;   
+Veduta la richiesta dell'Universita' di Bologna in ordine alle assegnazioni dei posti di ruolo del personale tecnico laureato degli istituti scientifici universitari;   
+Tenuto conto delle esigenze dello stesso Ateneo, complessivamente considerate, ed in particolare della necessita' di funzionamento del sottoindicato istituto;   
+Ritenuta l'opportunita' di provvedere ad assegnare il posto di tecnico laureato;   
+Sulla motivata proposta del Ministro della pubblica istruzione;   
+  
+Decreta:   
+  
+Il posto di tecnico laureato, indicato nelle premesse, e' assegnato come segue:   
+  
+UNIVERSITA' DI BOLOGNA   
+  
+Facolta' di medicina veterinaria:   
+istituto di ostetricia e ginecologia veterinaria (per il centro di Fecondazione artificiale) . . . . . . . . . . . . . . . . . . posti 1   
+  
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Dato a Roma, addi' 30 ottobre 1979
+
+PERTINI VALITUTTI
+
+Visto, il Guardasigilli: MORLINO
+
+Registrato alla Corte dei Conti, addi' 19 marzo 1980
+
+Registro n. 23 Istruzione, foglio n. 112

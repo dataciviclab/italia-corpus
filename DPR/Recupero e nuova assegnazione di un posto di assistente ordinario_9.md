@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1976 n. 565
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 novembre 1975 n. 1009
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1976 n. 565
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 novembre 1975 n. 1009
+================================================================
 
 Recupero e nuova assegnazione di un posto di assistente ordinario.
 ------------------------------------------------------------------
@@ -10,13 +10,13 @@ Recupero e nuova assegnazione di un posto di assistente ordinario.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Visto il [decreto del Presidente della Repubblica 21 agosto 1971, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-08-21;910), con il quale, tra gli altri, e' stato assegnato un posto di assistente ordinario alla cattedra di storia economica della facolta' di economia e commercio dell'Universita' di Roma;
+Visto il decreto ministeriale 2 luglio 1949, con il quale, fra l'altro, fu assegnato un posto di assistente ordinario alla cattedra di tecnica bancaria e professionale della facolta' di economia e commercio dell'Universita' di Torino;
 
-Visto il telegramma del 30 marzo 1976 con cui il rettore dell'Universita' di Roma comunica che il posto suddetto e' vacante fin dall'assegnazione;
+Vista la lettera del 27 settembre 1975, n. 4372, con la quale il rettore dell'Ateneo ha comunicato che il posto in questione e' vacante dal 1 novembre 1971;
 
 Considerato, pertanto, che non si e' provveduto alla copertura del posto nei termini fissati dall'ultimo comma dell'[art. 13 della legge 18 marzo 1958, n. 349](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-18;349~art13);
 
-Ritenuto che per tale ragione sono venuti meno i motivi che a suo tempo determinarono l'assegnazione del posto alla cattedra sopracitata;
+Ritenuto che per tale ragione siano venute meno le motivate esigenze didattiche e scientifiche che a suo tempo determinarono l'assegnazione del posto alla cattedra sopracitata;
 
 Sulla
 -----
@@ -27,24 +27,26 @@ Art. 1
 ------
 
   
-Il posto di assistente ordinario gia' assegnato con [decreto del Presidente della Repubblica n. 910 del 21 agosto 1971](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-08-21;910) alla cattedra di storia economica della facolta' di economia e commercio dell'Universita' di Roma e' recuperato.  
+  
+Il posto di assistente ordinario gia' assegnato con decreto ministeriale 2 luglio 1949 alla cattedra di tecnica bancaria e professionale della facolta' di economia e commercio dell'Universita' degli studi di Torino e' recuperato.   
 
 Art. 2
 ------
 
   
-Il posto di cui sopra e' assegnato all'insegnamento di istituzioni di diritto e procedura penale della facolta' di scienze politiche dell'Universita' di Genova.  
+  
+Il posto di assistente ordinario di cui al precedente articolo e' assegnato alla cattedra di storia della filosofia medioevale della facolta' di lettere e filosofia dell'Universita' degli studi di Pavia.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 maggio 1976
+### Dato a Roma, addi' 29 novembre 1975
 
 LEONE MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 18 agosto 1976
+Registrato alla Corte dei conti, addi' 15 giugno 1976
 
-Atti di Governo, registro n. 8, foglio n. 68
+Atti di Governo, registro n. 6, foglio n. 71

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1986 n. 983
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 maggio 1950 n. 615
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1986 n. 983
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 maggio 1950 n. 615
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -10,67 +10,225 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regi decreti 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1772), [1 ottobre 1931, n. 1380](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1380), [26 ottobre 1933, n. 2401](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1933-10-26;2401), [13 dicembre 1934, n. 2423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-13;2423), [1 ottobre 1936, n. 2076](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2076), [20 aprile 1939, n. 1067](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-04-20;1067), [1 agosto 1941, n. 893](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-08-01;893), [26 marzo 1942, n. 330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-03-26;330), [5 settembre 1942, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1178), [21 gennaio 1943, n. 21, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1943-01-21;21) [30 dicembre 1947, n. 1735, con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1735) [27 marzo 1948, n. 458](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-03-27;458) e [30 ottobre 1949, n. 1002](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1002);
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduto il [regio decreto-legge 27 gennaio 1944, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-27;58);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' predetta;
 
-Veduta la proposta di istituzione della facolta' di ingegneria avanzata dalle autorita' accademiche dell'Universita' degli studi di Parma;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Considerato che e' tuttora in atto la sperimentazione organizzativa e didattica di cui agli [articoli 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art81)-[93 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art93);
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Considerato che le tabelle dell'ordinamento didattico universitario relative ai corsi di laurea sono in fase di riordinamento per effetto di apposite commissioni di studio e che anzi alcune tabelle sono state gia' riordinate;
+Sulla proposta del Ministro per la pubblica istruzione;
 
-Rilevata, quindi, la necessita' di accogliere la richiesta dell'Universita' degli studi di Parma di istituire la facolta' di ingegneria per riequilibrare le iscrizioni delle facolta' di ingegneria delle Universita' viciniori, al fine di assicurare una migliore formazione degli studenti;
+Decreta:
 
-Rilevata, percio', la necessita' di apportare la modifica di statuto in deroga al termine triennale di cui all'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti succitati, e' cosi' ulteriormente modificato Art. 25. - All'elenco dei corsi di laurea della Facolta' di scienze matematiche, fisiche e naturali, viene aggiunto quanto appresso:
 
-Rilevata, di conseguenza, la necessita' di far afferire alla nuova facolta' il biennio propedeutico agli studi di ingegneria, attualmente funzionante presso la facolta' di scienze matematiche, fisiche e naturali della medesima Universita' di Parma;
+f) la laurea in scienze biologiche.
 
-Sentito il parere del Consiglio universitario nazionale;
+Art. 48. - Viene aggiunto il seguente comma:
 
-Sulla
------
+"Devonsi osservare le seguenti precedenze di esami L'esame di "chimica generale ed inorganica 1°" deve precedere ogni altro esame di materia chimica.
 
-proposta del Ministro della pubblica istruzione: Decreta:
+L'esame di "fisica sperimentale 1°" deve precedere quella di "esercitazioni di fisica" e di "fisica sperimentale 2°".
+
+Gli esami di "istituzioni di matematiche 1°" e di "esercitazioni di matematiche 1°" devono precedere l'esame di "fisica sperimentale 2°".
+
+Gli esami di "chimica generale ed inorganica 1° e 2°" e di "fisica sperimentale 1° e 2°" debbono precedere gli esami di "chimica fisica 1° e 2°".
+
+L'esame di "chimica generale ed inorganica 1°" deve precedere l'esame di "mineralogia".
+
+Art. 52. - Viene aggiunto il seguente comma:
+
+"Devonsi osservare le seguenti precedenze di esami Gli esami di "chimica generale ed inorganica" e di "chimica organica" debbono precedere l'esame di "fisiologia generale".
+
+L'esame di "zoologia" deve precedere l'esame di "anatomia comparata".
+
+L'esame di "chimica generale ed inorganica" deve precedere l'esame di "mineralogia".
+
+L'esame di "mineralogia" deve precedere l'esame di "geologia".
+
+Dopo l'art. 58. - Vengono aggiunti i seguenti nuovi articoli, relativi all'istituzione del corso di laurea in scienze biologiche, con il conseguente spostamento della relativa numerazione degli articoli successivi.
+
+Art. 59. - La durata del corso di studi per la laurea in scienze biologiche e' di quattro anni.
+
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.
+
+Sono insegnamenti fondamentali:
+
+1) istituzioni di matematiche;
+
+2) fisica;
+
+3) chimica generale e inorganica;
+
+4) chimica organica;
+
+5) botanica (biennale);
+
+6) zoologia (biennale);
+
+7) anatomia comparata;
+
+8) anatomia umana;
+
+9) istologia ed embriologia;
+
+10) fisiologia generale (bienniale);
+
+11) chimica biologica;
+
+12) igiene.
+
+Sono insegnamenti complementari:
+
+1) chimica fisica;
+
+2) biologia generale;
+
+3) generica;
+
+4) zooculture (bachi; api; avi; coniglicoltura);
+
+5) microbiologia;
+
+6) parassitologia;
+
+7) fisiologia vegetale;
+
+8) geologia;
+
+9) paleontologia;
+
+10) statistica.
+
+I corsi teorici, sia fondamentali, sia complementari, sono di regola integrati da esercitazioni pratiche sul cui profitto ciascun insegnante stabilisce opportuni criteri di accertamento.
+
+Art. 60. - Gli insegnamenti biennali di "botanica" e di "zoologia" comprendono tanto la parte generale quanto la parte sistematica.
+
+Per essere ammesso a conseguire la laurea in scienze biologiche lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in quattro almeno da lui scelti fra i complementari.
+
+Gli esami di "chimica generale ed inorganica" e di "chimica organica" debbono precedere l'esame di "fisiologia generale".
+
+L'esame di "zoologia" deve precedere quello di "anatomia comparata".
+
+Art. 61. - Per il conseguimento della laurea in scienze biologiche lo studente deve presentare una dissertazione scritta sopra un argomento di scienze biologiche concordato con un professore ufficiale della Facolta'.
+
+La dissertazione deve essere presentata alla segreteria dell'Universita' almeno dieci giorni prima dell'esame di laurea insieme ai titoli dei tre argomenti scelti per la discussione, di cui all'art. 10.
+
+Per essere ammesso all'esame di laurea lo studente deve inoltre avere sostenuto con approvazione un colloquio di cultura generale nelle scienze biologiche davanti ad una commissione di tre professori ufficiali della Facolta', fra cui il preside, possibilmente prima della assegnazione della tesi di laurea.
+
+Art. 62. - L'esame di laurea comprende:
+
+1) una prova pratica nella materia scelta per la tesi di laurea;
+
+2) la discussione orale della prova pratica e della tesi di laurea;
+
+3) la discussione orale di due sui tre argomenti scelti dal candidato, a norma dell'art. 10 del presente statuto.
+
+Art. 121, relativo alla "Scuola di specializzazione sulle conserve alimentari di origine vegetale", il penultimo comma viene sostituito dal seguente "Materie prime destinate all'industria conserviera di origine vegetale - Legislazione delle conserve - Nuovi impianti - Assicurazioni - Contratti di lavoro - Contabilita' di fabbrica - Conferenze di chimica organica - Conferenze varie e visite a fabbriche di conserve e di scatole".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 30 maggio 1950
+
+EINAUDI
+
+GONELLA
+
+Visto, il Guardasigilli: PICCIONI
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 21 agosto 1950 Atti del Governo, registro n. 35, foglio n. 53. - CARLOMAGNO
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regi decreti 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1772), [1 ottobre 1931, n. 1380](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1380), [26 ottobre 1933, n. 2401](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1933-10-26;2401), [13 dicembre 1934, n. 2423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-13;2423), [1 ottobre 1936, n. 2076](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2076), [20 aprile 1939, n. 1067](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-04-20;1067), [1 agosto 1941, n. 893](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-08-01;893), [26 marzo 1942, n. 330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-03-26;330), [5 settembre 1942, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1178), [21 gennaio 1943, n. 21, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1943-01-21;21) [30 dicembre 1947, n. 1735, con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1735) [27 marzo 1948, n. 458](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-03-27;458) e [30 ottobre 1949, n. 1002](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1002);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduto il [regio decreto-legge 27 gennaio 1944, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-27;58);  
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' predetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Presso l'Universita' degli studi di Parma e' istituita la facolta' di ingegneria con i seguenti corsi di laurea:   
-a) ingegneria civile (sezione idraulica);   
-b) ingegneria elettronica;   
-c) ingegneria meccanica.   
-Con successivo provvedimento verra' stabilito l'ordinamento degli studi del triennio di applicazione di detti corsi di laurea.   
-
-Art. 2
-------
-
+Decreta:  
   
-Il biennio propedeutico agli studi di ingegneria, attualmente funzionante presso la facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Parma, passa a far parte della nuova facolta' di ingegneria.  
-I posti di ruolo del personale docente, dei ricercatori e del personale non docente, attualmente afferenti al biennio propedeutico agli studi di ingegneria, unitamente ai titolari, passano a far parte della nuova facolta' di ingegneria.  
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti succitati, e' cosi' ulteriormente modificato Art. 25. - All'elenco dei corsi di laurea della Facolta' di scienze matematiche, fisiche e naturali, viene aggiunto quanto appresso:  
+f) la laurea in scienze biologiche.  
+Art. 48. - Viene aggiunto il seguente comma:  
+"Devonsi osservare le seguenti precedenze di esami L'esame di "chimica generale ed inorganica 1°" deve precedere ogni altro esame di materia chimica.  
+L'esame di "fisica sperimentale 1°" deve precedere quella di "esercitazioni di fisica" e di "fisica sperimentale 2°".  
+Gli esami di "istituzioni di matematiche 1°" e di "esercitazioni di matematiche 1°" devono precedere l'esame di "fisica sperimentale 2°".  
+Gli esami di "chimica generale ed inorganica 1° e 2°" e di "fisica sperimentale 1° e 2°" debbono precedere gli esami di "chimica fisica 1° e 2°".  
+L'esame di "chimica generale ed inorganica 1°" deve precedere l'esame di "mineralogia".  
+Art. 52. - Viene aggiunto il seguente comma:  
+"Devonsi osservare le seguenti precedenze di esami Gli esami di "chimica generale ed inorganica" e di "chimica organica" debbono precedere l'esame di "fisiologia generale".  
+L'esame di "zoologia" deve precedere l'esame di "anatomia comparata".  
+L'esame di "chimica generale ed inorganica" deve precedere l'esame di "mineralogia".  
+L'esame di "mineralogia" deve precedere l'esame di "geologia".  
+Dopo l'art. 58. - Vengono aggiunti i seguenti nuovi articoli, relativi all'istituzione del corso di laurea in scienze biologiche, con il conseguente spostamento della relativa numerazione degli articoli successivi.  
+Art. 59. - La durata del corso di studi per la laurea in scienze biologiche e' di quattro anni.  
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.  
+Sono insegnamenti fondamentali:  
+1) istituzioni di matematiche;  
+2) fisica;  
+3) chimica generale e inorganica;  
+4) chimica organica;  
+5) botanica (biennale);  
+6) zoologia (biennale);  
+7) anatomia comparata;  
+8) anatomia umana;  
+9) istologia ed embriologia;  
+10) fisiologia generale (bienniale);  
+11) chimica biologica;  
+12) igiene.  
+Sono insegnamenti complementari:  
+1) chimica fisica;  
+2) biologia generale;  
+3) generica;  
+4) zooculture (bachi; api; avi; coniglicoltura);  
+5) microbiologia;  
+6) parassitologia;  
+7) fisiologia vegetale;  
+8) geologia;  
+9) paleontologia;  
+10) statistica.  
+I corsi teorici, sia fondamentali, sia complementari, sono di regola integrati da esercitazioni pratiche sul cui profitto ciascun insegnante stabilisce opportuni criteri di accertamento.  
+Art. 60. - Gli insegnamenti biennali di "botanica" e di "zoologia" comprendono tanto la parte generale quanto la parte sistematica.  
+Per essere ammesso a conseguire la laurea in scienze biologiche lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in quattro almeno da lui scelti fra i complementari.  
+Gli esami di "chimica generale ed inorganica" e di "chimica organica" debbono precedere l'esame di "fisiologia generale".  
+L'esame di "zoologia" deve precedere quello di "anatomia comparata".  
+Art. 61. - Per il conseguimento della laurea in scienze biologiche lo studente deve presentare una dissertazione scritta sopra un argomento di scienze biologiche concordato con un professore ufficiale della Facolta'.  
+La dissertazione deve essere presentata alla segreteria dell'Universita' almeno dieci giorni prima dell'esame di laurea insieme ai titoli dei tre argomenti scelti per la discussione, di cui all'art. 10.  
+Per essere ammesso all'esame di laurea lo studente deve inoltre avere sostenuto con approvazione un colloquio di cultura generale nelle scienze biologiche davanti ad una commissione di tre professori ufficiali della Facolta', fra cui il preside, possibilmente prima della assegnazione della tesi di laurea.  
+Art. 62. - L'esame di laurea comprende:  
+1) una prova pratica nella materia scelta per la tesi di laurea;  
+2) la discussione orale della prova pratica e della tesi di laurea;  
+3) la discussione orale di due sui tre argomenti scelti dal candidato, a norma dell'art. 10 del presente statuto.  
+Art. 121, relativo alla "Scuola di specializzazione sulle conserve alimentari di origine vegetale", il penultimo comma viene sostituito dal seguente "Materie prime destinate all'industria conserviera di origine vegetale - Legislazione delle conserve - Nuovi impianti - Assicurazioni - Contratti di lavoro - Contabilita' di fabbrica - Conferenze di chimica organica - Conferenze varie e visite a fabbriche di conserve e di scatole".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 ottobre 1986
+### Dato a Roma, addi' 30 maggio 1950
 
-COSSIGA
+EINAUDI GONELLA
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: PICCIONI
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 21 agosto 1950
 
-Registrato alla Corte dei conti, addi' 20 gennaio 1987
-
-Registro n. 2 Istruzione, foglio n. 71
+Atti del Governo, registro n. 35, foglio n. 53. - CARLOMAGNO

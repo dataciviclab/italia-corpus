@@ -1,103 +1,126 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1254
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1970 n. 972
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1254
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1970 n. 972
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Veduto il regolamento per l'amministrazione e la contabilita' delle universita' e degli istituti di istruzione universitaria, approvato con [decreto del Presidente della Repubblica 4 marzo 1982, n. 371](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-04;371);
-
-Considerata la necessita' di adeguare a detto regolamento, in sede di ristrutturazione degli istituti, le norme che regolano la gestione amministrativa e contabile degli istituti della seconda facolta' di medicina e chirurgia dell'Universita' predetta;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
+  
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli dal 217 al 229, relativi all'ordinamento degli studi della facolta' di architettura, sono abrogati e sostituiti dai seguenti:  
+  
+Sezione XI  
+Facolta' di architettura  
+  
+Art. 217. - La facolta' di architettura conferisce la laurea in architettura.  
+Art. 218. - La durata del corso degli studi per la laurea in architettura e' di cinque anni; il titolo di ammissione e' quello stabilito dalle vigenti disposizioni di legge.  
+Art. 219. - Gli insegnamenti fondamentali sono:  
+1) Analisi matematica e geometria analitica (annuale + 1 semestrale);  
+2) Arredamento (annuale);  
+3) Composizione architettonica (quinquennale);  
+4) Disegno e rilievo (due semestri);  
+5) Estimo ed esercizio professionale (semestrale);  
+6) Fisica (semestrale);  
+7) Fisica tecnica e impianti (annuale);  
+8) Geometria descrittiva (annuale);  
+9) Igiene edilizia (semestrale);  
+10) Restauro dei monumenti (annuale);  
+11) Statica (annuale);  
+12) Scienza delle costruzioni (annuale);  
+13) Storia dell'architettura (biennale);  
+14) Tecnica delle costruzioni (annuale);  
+15) Tecnologia dell'architettura (biennale);  
+16) Urbanistica (biennale).  
+Gli insegnamenti complementari (tutti annuali) sono:  
+1) Allestimento e museografia;  
+2) Analisi dei sistemi urbani;  
+3) Arte dei giardini;  
+4) Caratteri stilistici e costruttivi dei monumenti;  
+5) Complementi di matematica;  
+6) Consolidamento e adattamento degli edifici;  
+7) Decorazione;  
+8) Illuminazione ed acustica nella edilizia;  
+9) Indirizzi dell'architettura moderna;  
+10) Letteratura artistica;  
+11) Lingua straniera;  
+12) Materiali da costruzione speciali;  
+13) Materie giuridiche;  
+14) Pianificazione territoriale urbanistica;  
+15) Plastica ornamentale;  
+16) Ponti e grandi strutture;  
+17) Progettazione artistica per l'industria;  
+18) Scenografia;  
+19) Storia dell'urbanistica;  
+20) Tipologia strutturale;  
+21) Topografia;  
+22) Unificazione edilizia e prefabbricazione.  
+Art. 220. - Gli insegnamenti sono svolti sotto forma di lezioni teoriche e di esercitazioni pratiche e possono essere integrati da visite a monumenti, edifici e cantieri, che presentino particolare interesse ai fini dell'insegnamento. Gli insegnamenti comportano l'esame alla fine di ogni anno o semestre di corso.  
+Art. 221. - Sono stabilite le seguenti precedenze di esame:  
+Non si puo essere ammessi Se non e stato superato  
+a sostenere l'esame di: l'esame di:  
+  
+Statica e fisica tecnica Analisi matematica e  
+e impianti geometria analitica  
+  
+Scienze delle costruzioni Statica  
+  
+Composizione architettonica Nella serie degli esami  
+stabiliti dalla facolta per  
+questa materia non puo'  
+essere sostenuto un esame  
+senza che sia stato  
+superato il precedente  
+Composizione architettonica Scienza delle costruzioni  
+  
+Restauro Storia dell'architettura II  
   
   
-Gli articoli 157, 158, 160, 161, relativi agli istituti annessi alla seconda facolta' di medicina e chirurgia, sono soppressi e sostituiti dai seguenti:   
-Art. 157. - Gli istituti, costituiti presso la seconda facolta' di medicina e chirurgia, ciascuno dei quali comprende piu' discipline di insegnamento affini, svolgono in collaborazione con le facolta' ed i corsi di laurea e di indirizzo, le attivita' didattiche per il conseguimento delle lauree e dei diplomi previsti dagli statuti, o, in collaborazione con i dipartimenti ove costituiti, le attivita' di ricerca concernenti le discipline afferenti agli istituti stessi.   
-A tale scopo l'istituto disporra' di attrezzature autonome e di personale in misura adeguata alle esigenze didattico-scientifiche.   
-Ad ogni singolo istituto saranno aggregati anche altri insegnamenti contemplati o che verranno istituiti, relativi a materie che possono essere riconosciute affini.   
-Art. 158. - Gli istituti sono retti dalle disposizioni dell'[art. 88 del decreto del Presidente della Repubblica n. 382/80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art88) e dalle altre norme vigenti ed in particolare dalle disposizioni che seguono:   
-a) sono membri dell'istituto i professori ufficiali, gli assistenti di ruolo nonche' i ricercatori;   
-b) il direttore dell'istituto e' un professore ordinario o straordinario di una delle discipline afferenti all'istituto stesso, nominato dal rettore su designazione del consiglio di istituto. Il direttore coordina e sovrintende all'attivita' dell'istituto, e' responsabile della gestione amministrativa e contabile dell'istituto stesso e resta in carica un triennio. Il direttore informera' dei piu' rilevanti problemi i membri dell'istituto almeno una volta all'anno, all'inizio dell'anno accademico previo opportuno avviso pubblico. In mancanza di professori ordinari e straordinari si applicano le norme di cui al [comma 4 dell'art. 88 del decreto del Presidente della Repubblica n. 382/80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art88-com4);   
-c) il consiglio di istituto, presieduto dal direttore, e' costituito dai professori ufficiali, assistenti e da una rappresentanza di ricercatori, da uno a cinque, qualora essi superino il numero di tre.   
-Art. 160. - Gli istituti dispongono dei fondi di funzionamento cosi' come previsto dall'[art. 69 del decreto del Presidente della Repubblica 4 marzo 1982, n. 371](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-04;371~art69).   
-Art. 161. - Sono costituiti presso la seconda facolta' di medicina e chirurgia i seguenti istituti:   
-1) istituto di anatomia umana normale;   
-2) istituto di anestesiologia e rianimazione e terapia intensiva;  
-3) istituto di biochimica cellulare e molecolare;   
-4) istituto di biologia e patologia molecolare "L. Califano";   
-5) istituto di chirurgia dell'apparato locomotore e chirurgia d'urgenza;   
-6) istituto di chirurgia generale e scienze gastroenterologiche;   
-7) istituto di chirurgia generale e trapianti d'organo;   
-8) istituto di dermatologia, chirurgie plastica e maxillo-facciale;   
-9) istituto di discipline odontostomatologiche;   
-10) istituto di farmacologia sperimentale e clinica;   
-11) istituto di ginecologia, ostetricia e fisiopatologia della riproduzione umana;   
-12) istituto di igiene e medicina preventiva;   
-13) istituto delle malattie del sistema nervoso;   
-14) istituto di medicina dell'eta' evolutiva;   
-15) istituto di medicina interna, cardiologia e cardiochirurgia;   
-16) istituto di medicina interna e malattie dismetaboliche;   
-17) istituto di medicina pubblica e della sicurezza sociale;   
-18) istituto di medicina socio-territoriale;   
-19) istituto di neurochirurgia;   
-20) istituto di oftalmologia;   
-21) istituto di oncologia;   
-22) istituto di patologia;   
-23) istituto di patologia e clinica O.R.L. e foniatria;   
-24) istituto di patologia toracica;   
-25) istituto di pediatria;   
-26) istituto di scienze biochimiche;   
-27) istituto di scienze biochimico-fisiche;   
-28) istituto di scienze delle dinamiche relazionali in medicina;   
-29) istituto di scienze endocrinologiche;   
-30) istituto di scienze fisiologiche umane;   
-31) istituto di scienze microbiologiche e virologiche;   
-32) istituto di scienze radiologiche;   
-33) istituto di strutture biologiche e di ultrastruttura cellulare.   
+Art. 222. - Per essere ammesso all'esame di laurea, lo studente deve aver seguito le lezioni e le esercitazioni e deve aver superato i relativi esami di tutti gli insegnamenti fondamentali e dei sei complementari della durata di un anno o equivalente da lui scelti fra quelli indicati all'art. 219.  
+Art. 223. - L'esame di laurea si svolge mediante la discussione su una tesi consistente in un progetto di architettura e di urbanistica e di restauro dei monumenti o in una monografia su tematiche inerenti ai problemi dell'architettura, dell'urbanistica e di storiografia dell'architettura e dell'urbanistica. La tesi di laurea deve essere redatta con la diretta responsabilita' dei professori relatori.  
+Art. 224. - I laureati presso altre facolta' in base agli studi compiuti per il conseguimento dell'altra laurea, possono, per decreto del rettore, udito il consiglio dei professori della facolta', essere ammessi ad un anno successivo al primo con eventuale dispensa da iscrizioni a corsi e da esami di materie comuni ed affini.  
+  
+Istituti della facolta' di architettura  
+  
+Art. 225. - Sono costituiti presso la facolta' di architettura i seguenti istituti:  
+1) Analisi architettonica;  
+2) Costruzioni;  
+3) Matematica;  
+4) Metodologia architettonica;  
+5) Progettazione architettonica;  
+6) Storia dell'architettura;  
+7) Tecnologia dell'architettura;  
+8) Urbanistica.  
+Tali istituti hanno lo scopo di promuovere e coordinare l'insegnamento e la ricerca nelle discipline di loro pertinenza.  
+Essi utilizzano i locali, il personale e le dotazioni assegnati alla cattedra che li costituiscono.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1983
+### Dato a Roma, addi' 19 ottobre 1970
 
-PERTINI FALCUCCI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 26 giugno 1984
+Registrato alla Corte dei conti, addi' 3 dicembre 1970
 
-Registro n. 39 Istruzione, foglio n. 41
+Atti del Governo, registro n. 238, foglio n. 186. - GRECO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1976 n. 55
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 aprile 1982 n. 189
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1976 n. 55
-===========================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 aprile 1982 n. 189
+=============================================================
 
 Norme in materia di tariffe telefoniche.
 ----------------------------------------
@@ -14,349 +14,408 @@ Visto il testo unico delle disposizioni legislative in materia postale, di banco
 
 Visto il [regio decreto 19 luglio 1941, n. 1198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-07-19;1198), e successive modifiche;
 
-Vista la convenzione stipulata il 21 ottobre 1964 fra il Ministero delle poste e delle telecomunicazioni e la SIP - Societa' italiana per l'esercizio telefonico p.a., approvata con [decreto del Presidente della Repubblica 26 ottobre 1964, n. 1594](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1964-10-26;1594), e successive modifiche;
+Vista la convenzione stipulata il 21 ottobre 1964 fra il Ministero delle poste e delle telecomunicazioni e la SIP - Societa' italiana per l'esercizio telefonico p.a., approvata con [decreto del Presidente della Repubblica 26 ottobre 1964, n. 1594](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1964-10-26;1594), e successive modifiche e integrazioni;
 
-Visto il [decreto del Presidente della Repubblica 28 marzo 1975, n. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1975-03-28;61);
+Visto il [decreto ministeriale 8 febbraio 1974, pubblicato nella Gazzetta Ufficiale n. 251 del 26 settembre 1974](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1974-09-26&numeroGazzetta=251), con il quale e' stato determinato il contributo di impianto per collegamenti telefonici fuori del perimetro abitato;
 
-Vista la delibera del Comitato interministeriale per la programmazione economica del 20 febbraio 1976;
+Visto il [decreto del Presidente della Repubblica 14 novembre 1980, n. 752](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-11-14;752);
+
+Visto il [decreto del Presidente della Repubblica 6 giugno 1981, n. 282](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-06-06;282);
+
+Vista la delibera del Comitato interministeriale per la programmazione economica del 24 marzo 1982;
+
+Visti i [provvedimenti del Comitato interministeriale prezzi n. 11/82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:comitato.interministeriale.prezzi:provvedimento:1982;11) e [n. 12/82 del 29 aprile 1982](http://www.normattiva.it/uri-res/N2Ls?urn:nir:comitato.interministeriale.prezzi:provvedimento:1982-04-29;12);
 
 Sentito il consiglio di amministrazione delle poste e delle telecomunicazioni;
 
-Visto il [provvedimento del Comitato interministeriale dei prezzi n. 3/1976 del 12 marzo 1976](http://www.normattiva.it/uri-res/N2Ls?urn:nir:comitato.interministeriale.prezzi:provvedimento:1976-03-12;3);
-
-Sentito il Consiglio dei Ministri;
+Vista la deliberazione del Consiglio dei Ministri adottata nella riunione del 30 aprile 1982;
 
 Sulla
 -----
 
-proposta del Ministro per le poste e le telecomunicazioni di concerto con il Ministro per il tesoro; Decreta:
+proposta del Ministro delle poste e delle telecomunicazioni, di concerto con il Ministro del tesoro; Decreta:
 
 Art. 1
 ------
 
   
 Le reti urbane sono suddivise, agli effetti dell'applicazione delle tariffe telefoniche, nei seguenti due gruppi:  
-1° gruppo: reti con oltre 500 abbonati;  
-2° gruppo: reti fino a 500 abbonati.  
-Gli abbonati di ciascun gruppo sono ripartiti in tre categorie cosi' determinate:  
+primo gruppo: reti con oltre 500 abbonati;  
+secondo gruppo: reti fino a 500 abbonati.  
+Gli abbonati di ciascun gruppo tariffario sono ripartiti in due categorie cosi' determinate:  
   
-Categoria A - Abbonamenti ad uso di:  
-a) amministrazioni statali, regionali, provinciali o comunali ed uffici dipendenti dalle amministrazioni medesime;  
-b) enti pubblici le cui spese siano per legge a completo carico dello Stato;  
-c) istituti di istruzione governativi, regionali, provinciali o comunali;  
-d) agenzie di notizie e giornali politici e sportivi quotidiani, loro direttori, vice direttori, amministratori, redattori ordinari e corrispondenti ordinari che siano giornalisti professionisti.  
-  
-Categoria B - Abbonamenti in abitazioni private ove non si svolga attivita' di affari o professionale.  
-  
-Categoria C - Abbonamenti non specificatamente menzionati nelle categorie A e B.  
+Categoria A - Tutti gli abbonamenti salvo quelli agevolati per le abitazioni private nei limiti stabiliti nella categoria B; anche questi ultimi possono essere classificati in categoria A a richiesta degli utenti.  
+Categoria B - Primo abbonamento in abitazione privata ove non si svolga attivita' di affari o professionale, a chiunque intestato delle persone componenti un nucleo familiare anagrafico; eventuali ulteriori abbonamenti, a chiunque intestati delle persone costituenti il predetto nucleo familiare, nella stessa o in altra abitazione, saranno classificati in categoria A.  
+Ai fini dell'applicazione o del mantenimento della, classificazione degli abbonamenti in categoria B, il gestore del servizio urbano ha facolta' di chiedere il certificato anagrafico.  
+Quando il gestore predetto accerta che l'utente fruisce, senza averne titolo, delle tariffe di categoria B, lo stesso gestore procedera' all'applicazione delle tariffe di categoria A con decorrenza a tutti gli effetti dalla data in cui le tariffe medesime dovevano essere applicate.  
 
 Art. 2
 ------
 
   
-Per ogni apparecchio principale e' dovuto un canone trimestrale di abbonamento stabilito come segue:  
-Reti del 1° gruppo:  
-Categoria A.......................................... L. 1.500 Categoria B simplex.................................. " 5.500 Categoria B duplex................................... " 3.000 Categoria C.......................................... " 14.500   
-Reti del 2° gruppo:  
-Categoria A.......................................... L. 1.500 Categoria B simplex.................................. " 4.400 Categoria C.......................................... " 10.700   
-Per gli abbonamenti della categoria C in uso a:  
-1) imprese riconosciute artigiane ai sensi di legge;  
-2) coltivatori diretti a qualunque titolo di fondi rustici, il canone trimestrale e' ridotto nella misura seguente:  
-  
-Reti del 1° gruppo . . . . . . . . . . . . . . . . . . . L. 9.375 Reti del 2° gruppo . . . . . . . . . . . . . . . . . . . L. 6.900   
-I canoni di cui al presente articolo si riferiscono ad apparecchi normali di tipo a muro.  
+Per ogni apparecchio principale di tipo a muro e' dovuto un canone di abbonamento stabilito nella misura e con le decorrenze indicate nell'allegata tabella A.  
 
 Art. 3
 ------
 
   
-Gli abbonati delle reti urbane aventi piu' di 10.000 abbonati ed oltre 10 chilometri di raggio medio (raggio del cerchio equivalente in aggiunta ai canoni di cui all'articolo precedente debbono corrispondere trimestralmente un canone supplementare pari allo 0,6% del canone base per ogni chilometro o frazione del raggio medio della rete stessa.  
+Gli abbonati delle reti urbane aventi piu' di 10.000 abbonati ed oltre 10 chilometri di raggio medio (raggio del cerchio equivalente) in aggiunta ai canoni di cui all'articolo precedente debbono corrispondere un canone supplementare pari allo 0,6% del canone base per ogni chilometro o frazione del raggio medio della rete stessa.  
 Per la determinazione della superficie delle reti urbane si fa riferimento alle indicazioni dell'Istituto centrale di statistica.  
 
 Art. 4
 ------
 
   
-  
-Per gli impianti entro il perimetro dell'abitato ove e' ubicata la centrale cui l'utente sara' collegato, sono dovuti i seguenti contributi a fondo perduto per le spese di impianto e di trasloco:   
-  
-  
-Nuovo impianto Trasloco   
-Categorie A e B..................... L. 80.000 L. 50.000 Categoria C......................... " 100.000 " 70.000   
-  
-  
-Per la categoria B una quota del contributo spese di nuovo impianto, pari a L. 50.000, e' rateizzata in dodici trimestralita' senza alcuna maggiorazione.   
-Per le imprese riconosciute artigiane ai sensi di legge e per i coltivatori diretti a qualunque titolo di fondi rustici, i contributi spese relativi alla categoria C di cui al primo comma del presente articolo sono ridotti alla meta'.   
-Per i nuovi impianti o traslochi fuori del perimetro dell'abitato, ove e' ubicata la centrale di competenza, e' dovuta, oltre al contributo spese di cui al precedente primo comma, una quota supplementare pari al 20% del costo del tratto di linea utilizzata dall'utente tra detto perimetro e la sede dell'utente stesso. I criteri per la determinazione di tali contributi sono stabiliti dal Ministero delle poste e delle telecomunicazioni su proposta motivata della societa' concessionaria.   
-Detta quota, nel caso di collegamento duplex, e' ridotta alla meta' e si applica a ciascuno dei coutenti.   
-Per la determinazione del perimetro dell'abitato si fa riferimento alle indicazioni dell'Istituto centrale di statistica.   
+Per i nuovi impianti e per i traslochi sono dovuti i contributi a fondo perduto nella misura indicata nella tabella B.  
+I contributi di spesa per le operazioni effettuate a richiesta dell'utente sono stabiliti nella misura indicata nella tabella C.  
 
 Art. 5
 ------
 
   
-Nel caso di subentro si applica la meta' del contributo previsto per il trasloco.  
-Per la trasformazione in duplex di due impianti singoli e' dovuto un contributo di L. 15.000 per ciascuno dei coutenti.  
+Il canone di abbonamento per ciascun apparecchio in derivazione interna e' stabilito nella misura indicata nella tabella D.  
+Nessun canone di abbonamento e' dovuto per gli apparecchi interni non utilizzabili per effettuare comunicazioni con la rete pubblica.  
 
 Art. 6
 ------
 
   
-Per ciascun apparecchio in derivazione interna da apparecchi principali, qualunque ne sia il numero complessivo, e' dovuto dall'abbonato un canone trimestrale di abbonamento fissato nella seguente misura:  
-  
-Categorie A e B. . . . . . . . . . . . . . . . . . . . . . L. 800 Categoria C. . . . . . . . . . . . . . . . . . . . . . . L. 1.000   
-Per gli alberghi e pensioni ufficialmente riconosciuti, il canone risultante dall'applicazione del comma precedente e' ridotto del 20%.  
-Il canone trimestrale di abbonamento per gli apparecchi, oltre il primo, su impianti a spina e' dovuto nella misura di L. 300.  
-Per gli apparecchi interni non utilizzabili per effettuare comunicazioni telefoniche con la rete esterna non e' dovuto alcun canone di abbonamento.  
+Per gli impianti supplementari ed accessori, di cui all'art. 284 del codice postale e delle telecomunicazioni, installati dalla societa' concessionaria, sono dovuti dall'abbonato i canoni di manutenzione e noleggio nonche' i contributi nella misura e con le decorrenze indicate nella tabella E.  
 
 Art. 7
 ------
 
   
-Per i seguenti tipi di impianto supplementare installati dalla societa' concessionaria sono dovuti dall'abbonato i sottoindicati canoni trimestrali di manutenzione e noleggio:  
-a) derivazione interna semplice (compreso il  
-commutatore).................................... L. 3.100 b) soneria, ricevitore, commutatore ed orga-  
-no analogo, per ciascuno........................ " 600 c) presa a spina supplementare.............. " 900 d) apparecchio oltre il primo su impianti a  
-spina........................................... L. 1.600 e) apparecchio da tavolo di tipo normale  
-principale o derivato........................... " 600 f) supplemento per apparecchio con tastiera. " 3.000   
-Per gli impianti di cui al comma precedente il contributo spese di impianto o trasloco e' dovuto in misura di una trimestralita' del canone di manutenzione e noleggio (per una linea interna di lunghezza fino a 20 metri), oltre ad una quota di L. 6000, che si applica una sola volta in caso di piu' lavori concomitanti e non si applica in caso di lavori contemporanei all'istallazione dell'apparecchio principale.  
+Per gli impianti interni, supplementari ed accessori, di cui all'art. 285 del codice postale e delle telecomunicazioni, di proprieta' degli abbonati o presi a nolo da installatori privati e per quelli di proprieta' della societa' concessionaria, non compresi nel precedente art. 6, i canoni di manutenzione dovuti dall'abbonato, per le prestazioni del personale della societa' stessa, sono fissati nella misura e con le decorrenze indicate nella tabella F.  
 
 Art. 8
 ------
 
   
-Per gli impianti supplementari di proprieta' degli abbonati o presi a nolo da installatori privati e per gli impianti di proprieta' della societa' concessionaria, non compresi nel precedente art. 7, i canoni trimestrali di manutenzione dovuti dall'abbonato sono fissati nella misura seguente:  
-a) impianti intercomunicanti:  
-per ogni apparecchio............................ L. 3.200 b) impianti a centralino manuale:  
-per ogni apparecchio............................ " 1.900 c) impianti a centralino automatico dotato  
-di normali servizi e cioe': comunicazioni entran-  
-ti e uscenti, richiamata, trasferta, inoltro,  
-rinvio a operatrice, servizio notte e blocco al-  
-la teleselezione:  
-per ogni apparecchio derivato da centra-  
-lino di capacita finale non superiore a 50 deri-  
-vati............................................ " 3.200 per ogni apparecchio derivato da centra-  
-lino di capacita finale superiore a 50 derivati. " 2.700 d) servizi particolari su impianti a centra-  
-lino automatico (selezione passante, documenta-  
-zione del traffico, selezione abbreviata, ecc):  
-per ogni apparecchio............................ " 600 e) derivazione interna semplice (escluso il  
-commutatore).................................... " 1.800 f) soneria, ricevitore, commutatore ed orga-  
-no analogo, per ciascuno........................ " 450 g) presa a spina supplementare.............. " 650 h) apparecchio oltre il primo su impianto a  
-spina........................................... " 1.000 i) supplemento per apparecchio con tastiera. " 500 l) apparecchio da tavolo di tipo normale.... " 400 m) dispositivo speciale installato sulla li-  
-nea urbana o su linea derivata da impianto sup-  
-plementare (selezionatore automatico, segreteria  
-telefonica, ecc.)............................... " 4.000   
-Qualora l'abbonato abbia ottenuto l'autorizzazione a provvedere direttamente alla manutenzione dell'impianto supplementare, e' dovuto un canone trimestrale di L. 1000 a titolo di sorveglianza tecnica per ogni derivazione.  
+Salvo quanto previsto nel successivo art. 25, le conversazioni scambiate nell'ambito di ciascuna rete urbana sono tassate con uno scatto di contatore.  
+Salvo quanto previsto nel successivo art. 25, la tariffa per ciascuna conversazione urbana in partenza da telefono a disposizione del pubblico e' stabilita in L. 100, IVA compresa.  
 
 Art. 9
 ------
 
   
-  
-Ogni conversazione scambiata tra abbonati, nell'ambito di ciascuna rete urbana, e' tassata per L. 40, corrispondenti ad uno scatto di contatore.   
-La tariffa per una conversazione urbana in partenza da telefono a disposizione del pubblico e' stabilita in L. 50, IVA compresa.   
-Per ogni comunicazione urbana stabilita tramite operatrice e' dovuta, oltre alla tariffa urbana di cui ai commi primo e secondo, la quota fissa di L. 200.   
+La tariffa per le comunicazioni interurbane che si svolgono tra le reti urbane dello stesso settore (comunicazioni settoriali) e' stabilita in misura unica indipendentemente dalla distanza.  
+Le reti che abbiano tutti i capoluoghi comunali, facenti parte della rete stessa, a meno di 10 chilometri di distanza dal centro di settore, sono considerate a tutti gli effetti come appartenenti alla rete del centro di settore.  
+Per le comunicazioni interurbane che si svolgono tra settori diversi, le distanze, ai fini dell'applicazione della tariffa, vengono misurate in linea d'aria:  
+tra i centri di distretto, per le comunicazioni scambiate tra i distretti i cui centri distino oltre 100 chilometri, purche' tutte le distanze tra i rispettivi centri di settore siano superiori a 60 chilometri;  
+tra i centri di settore per tutte le restanti comunicazioni.  
+Le distanze in linea d'aria sono determinate sulla base degli elementi di calcolo forniti dall'Istituto geografico militare tra le residenze municipali dei comuni sedi dei suddetti centri telefonici indicati nel piano regolatore telefonico nazionale.  
+Per le isole, sedi di un centro di settore che disti piu' di 15 chilometri dal relativo centro di distretto, posto fuori dell'isola stessa, il centro di settore, agli effetti della misura delle distanze per l'applicazione delle tariffe interurbane, viene considerato ubicato sulla congiungente i due centri anzidetti a 15 chilometri dal centro di distretto.  
+Ai fini tariffari gli aeroporti civili si considerano inclusi nelle reti urbane delle rispettive citta'.  
 
 Art. 10
 -------
 
   
   
-La tariffa per le comunicazioni interurbane che si svolgono tra le reti urbane dello stesso settore (comunicazioni settoriali) e' stabilita in misura unica indipendentemente dalla distanza.   
-Le reti che abbiano tutti i Capoluoghi comunali, facenti parte della rete stessa, a meno di 10 chilometri di distanza dal centro di settore, sono considerate a tutti gli effetti come appartenenti alla rete del centro di settore.   
-Per le comunicazioni interurbane che si svolgono tra settori diversi, le distanze, ai fini dell'applicazione della tariffa, vengono misurate in linea d'aria:   
-tra i centri di distretto, per le comunicazioni scambiate tra i distretti i cui centri distino oltre 100 chilometri, purche' tutte le distanze tra i rispettivi centri di settore siano superiori a 60 chilometri;   
-tra i centri di settore per tutte le restanti comunicazioni.   
-Le distanze in linea d'aria sono determinate sulla base degli elementi di calcolo forniti dall'Istituto geografico militare tra le residenze municipali dei comuni sedi dei suddetti centri telefonici indicati nel piano regolatore telefonico nazionale.   
-Per le isole, sedi di un centro di settore che disti piu' di 15 chilometri dal relativo centro di distretto, posto fuori dall'isola stessa, il centro di settore, agli effetti della misura delle distanze per l'applicazione delle tariffe interurbane, viene considerato ubicato sulla congiungente i due centri anzidetti a 15 chilometri dal centro di distretto.   
-Ai fini tariffari gli aeroporti civili si considerano inclusi nelle reti urbane delle rispettive citta'.   
+Salvo quanto previsto nei successivi articoli 11, 12 e 13, a ciascuna comunicazione interurbana effettuata in teleselezione da utente si applica una tariffa determinata mediante l'invio al contatore dell'abbonato richiedente di impulsi di conteggio secondo la tabella seguente:   
+  
+  
+=====================================================================  
+Numero di Ritmo  
+impulsi degli impulsi alla risposta durante la  
+dell'utente comunicazione chiamato (secondi)  
+  
+Comunicazioni  
+interurbane settoriali 1 150  
+---------------------------------------------------------------------  
+Altre comunicazioni  
+interurbane:  
+---------------------------------------------------------------------  
+fino a 15 km 1 72  
+---------------------------------------------------------------------  
+da oltre 15 fino a 30 km 1 40  
+---------------------------------------------------------------------  
+da oltre 30 fino a 60 km 1 22,5  
+---------------------------------------------------------------------  
+da oltre 60 fino a 120 km 1 20  
+---------------------------------------------------------------------  
+da oltre 120 fino a 240 km 1 18,5  
+---------------------------------------------------------------------  
+oltre 240 1 18,5  
+  
+  
 
 Art. 11
 -------
 
   
-Salvo quanto previsto nei successivi articoli 12, 13 e 14, a ciascuna comunicazione interurbana effettuata in teleselezione da utente si applica una tariffa determinata mediante l'invio al contatore dell'abbonato richiedente di impulsi secondo la tabella seguente:  
-Numero Ritmo  
-di impulsi degli impulsi alla risposta durante la  
+  
+Alle comunicazioni teleselettive interurbane, escluse quelle settoriali, effettuate dalle ore 0 alle ore 8 e dalle ore 22 alle ore 24 dei giorni feriali, dalle ore 0 alle ore 8 e dalle ore 13 alle ore 24 del sabato, dalle ore 0 alle ore 24 dei giorni festivi si applica una tariffa determinata mediante l'invio al contatore dell'abbonato richiedente di impulsi di conteggio secondo la tabella seguente:   
+  
+  
+=====================================================================  
+Numero di Ritmo  
+impulsi degli impulsi alla risposta durante la  
 dell'utente comunicazione chiamato (secondi)  
   
-Comunicazioni interurbane set-  
-toriali......................... 1 140  
-Altre comunicazioni interur-  
-bane:  
-fino a 15 km.............. 1 70  
-da oltre 15 fino a 30 km 1 37,5  
-da oltre 30 fino a 60 km 1 20  
-da oltre 60 fino a 120 km 1 15  
-da oltre 120 fino a 240 km 1 12  
-oltre 240 km.............. 1 12  
+Fino a 15 km 1 144  
+---------------------------------------------------------------------  
+Da oltre 15 fino a 30 km 1 80  
+---------------------------------------------------------------------  
+Da oltre 30 fino a 60 km 1 45  
+---------------------------------------------------------------------  
+Da oltre 60 fino a 120 km 1 40  
+---------------------------------------------------------------------  
+Da oltre 120 fino a 240 km 1 37  
+---------------------------------------------------------------------  
+Oltre 240 1 37  
   
-Il valore di ciascun impulso e' fissato in L. 40.  
+  
 
 Art. 12
 -------
 
   
-Alle comunicazioni teleselettive interurbane, escluse quelle settoriali, effettuate dalle ore 0 alle ore 8 e dalle ore 21,30 alle ore 24 dei giorni feriali, dalle ore 0 alle ore 8 e dalle ore 14,30 alle ore 24 del sabato, dalle ore 0 alle ore 24 dei giorni festivi si applica una tariffa determinata mediante l'invio al contatore dell'abbonato richiedente di impulsi secondo la tabella seguente:  
-Numero Ritmo  
-di impulsi degli impulsi alla risposta durante la  
-dell'utente comunicazione chiamato (secondi)  
-fino a 15 km.............. 1 140  
-da oltre 15 fino a 30 km 1 75  
-da oltre 30 fino a 60 km 1 40  
-da oltre 60 fino a 120 km 1 30  
-da oltre 120 fino a 240 km 1 24  
-oltre 240 km.............. 1 24  
   
-Il valore di ciascun impulso e' fissato in L. 40.  
+Alle comunicazioni teleselettive interurbane, escluse quelle settoriali, effettuate dalle ore 18,30 alle ore 22 dei giorni feriali, escluso il sabato, si applica una tariffa determinata mediante l'invio al contatore dell'abbonato richiedente di impulsi di conteggio secondo la tabella seguente:   
+  
+  
+=====================================================================  
+Numero di Ritmo  
+impulsi degli impulsi alla risposta durante la  
+dell'utente comunicazione chiamato (secondi)  
+  
+Fino a 15 km 1 96  
+---------------------------------------------------------------------  
+Da oltre 15 fino a 30 km 1 52,5  
+---------------------------------------------------------------------  
+Da oltre 30 fino a 60 km 1 35  
+---------------------------------------------------------------------  
+Da oltre 60 fino a 120 km 1 32  
+---------------------------------------------------------------------  
+Da oltre 120 fino a 240 km 1 29,8  
+---------------------------------------------------------------------  
+Oltre 240 km 1 29,8  
+  
+  
 
 Art. 13
 -------
 
   
-Alle comunicazioni teleselettive interurbane, escluse quelle settoriali, effettuate dalle ore 19,30 alle ore 21,30 dei giorni feriali, escluso il sabato, si applica una tariffa determinata mediante l'invio al contatore dell'abbonato richiedente di impulsi secondo la tabella seguente:  
-Numero Ritmo  
-di impulsi degli impulsi alla risposta durante la  
-dell'utente comunicazione chiamato (secondi)  
-fino a 15 km.............. 1 100  
-da oltre 15 fino a 30 km 1 52,5  
-da oltre 30 fino a 60 km 1 28  
-da oltre 60 fino a 120 km 1 22,5  
-da oltre 120 fino a 240 km 1 20  
-oltre 240 km.............. 1 20  
   
-Il valore di ciascun impulso e' fissato in L. 40.  
+Alle comunicazioni teleselettive interurbane, escluse quelle settoriali, effettuate dalle ore 8,30 alle ore 13 dei giorni feriali, escluso il sabato, si applica una tariffa determinata mediante l'invio al contatore dell'abbonato richiedente di impulsi di conteggio secondo la tabella seguente:   
+  
+  
+=====================================================================  
+Numero di Ritmo  
+impulsi degli impulsi alla risposta durante la  
+dell'utente comunicazione chiamato (secondi)   
+Fino a 15 km 1 35  
+---------------------------------------------------------------------  
+Da oltre 15 fino a 30 km 1 24  
+---------------------------------------------------------------------  
+Da oltre 30 fino a 60 km 1 15  
+---------------------------------------------------------------------  
+Da oltre 60 fino a 120 km 1 12,5  
+---------------------------------------------------------------------  
+Da oltre 120 fino a 240 km 1 11,5  
+---------------------------------------------------------------------  
+Oltre 240 km 1 11,5  
+  
+  
 
 Art. 14
 -------
 
   
-Alle comunicazioni teleselettive interurbane, escluse quelle settoriali, effettuate dalle ore 9,30 alle ore 13 dei giorni feriali, escluso il sabato, si applica una tariffa determinata mediante l'invio al contatore dell'abbonato richiedente di impulsi secondo la tabella seguente:  
-Numero Ritmo  
-di impulsi degli impulsi alla risposta durante la  
-dell'utente comunicazione chiamato (secondi)  
-fino a 15 km.............. 1 45  
-da oltre 15 fino a 30 km 1 25  
-da oltre 30 fino a 60 km 1 15  
-da oltre 60 fino a 120 km 1 12  
-da oltre 120 fino a 240 km 1 9  
-oltre 240 km.............. 1 9  
-  
-Il valore di ciascun impulso e' fissato in L. 40.  
+Il valore degli scatti del contatore d'utente determinati dagli impulsi di conteggio per comunicazioni teleselettive, cumulativamente agli scatti urbani di cui allo art. 8, primo comma, e agli scatti relativi ad altri servizi a contatore, e' fissato nella misura e con le decorrenze riportate nella tabella G.  
+Il sovrapprezzo come fissato nella predetta tabella G si applica a tutto il traffico svolto automaticamente (urbano, interurbano ed internazionale), ad eccezione degli scatti determinati da comunicazioni urbane effettuate da telefoni a disposizione del pubblico.  
+In sede di emissione delle bollette il numero degli scatti mensili per l'addebito agli utenti del relativo valore sara' considerato cumulativamente in relazione al periodo della fatturazione.  
+Nei rapporti contabili tra i gestori per i traffici di rispettiva competenza il valore dello scatto e' considerato pari a L. 80.  
+Tuttavia, salvo quanto previsto nel [provvedimento CIP n. 11/82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:comitato.interministeriale.prezzi:provvedimento:1982;11) citato nelle premesse, le minori entrate relative agli scatti addebitati a valore inferiore a L. 80 gravano su ciascun gestore in proporzione al traffico di rispettiva competenza. Con lo stesso criterio sono attribuite a ciascun gestore le maggiori entrate derivate dall'addebito di scatti a valore superiore a L. 80.  
 
 Art. 15
 -------
 
   
-In deroga a quanto previsto negli articoli 9, 11, 12, 13 e 14, in sede di elaborazione trimestrale della bolletta, i primi 70 e 150 scatti trimestrali, rispettivamente per gli impianti singoli e duplex della categoria B di abbonamento e cumulativamente per conversazioni urbane, in teleselezione e per gli altri servizi a contatore, sono addebitati a L. 30 ciascuno.  
-Gli scatti eccedenti i predetti valori trimestrali sono addebitati a L. 40 ciascuno.  
+Alle comunicazioni tramite operatrice si applica una tariffa composta di una quota fissa per ogni comunicazione cui si aggiunge una quota per ogni 3 minuti di comunicazione, secondo quanto stabilito nella tabella H, fermo restando quanto previsto dal successivo art. 25.  
 
 Art. 16
 -------
 
   
-  
-Alle comunicazioni interurbane tramite operatrice si applica una tariffa composta da una quota fissa per ogni comunicazione, pari a L. 200, e dalle seguenti quote per ogni unita' di tre minuti di comunicazione:   
-  
-  
-Comunicazioni interurbane settoriali................ L. 30 Altre comunicazioni interurbane:  
-  
-fino a 15 km..................................... " 50 da oltre 15 fino a 30 km......................... " 100 da oltre 30 fino a 60 km......................... " 175 da oltre 60 fino a 120 km........................ " 250 da oltre 120 fino a 240 km....................... " 325 oltre 240 km................................. " 400   
-  
+L'utente ha facolta' di avvalersi, a sua scelta, del servizio tramite operatrice o di quello in teleselezione.  
 
 Art. 17
 -------
 
   
-Alle comunicazioni interurbane tramite operatrice, escluse quelle settoriali, effettuate in partenza dai posti telefonici pubblici dalle ore 0 alle ore 8 e dalle ore 19,30 alle ore 24 dei giorni feriali, dalle ore 0 alle ore 8 e dalle ore 14,30 alle ore 24 del sabato, dalle ore 0 alle ore 24 dei giorni festivi, si applica una tariffa composta da una quota fissa per ogni comunicazione, pari a L. 100, e dalle seguenti quote per ogni unita' di tre minuti di comunicazione:  
-fino a 15 km..................................... L. 25 da oltre 15 fino a 30 km......................... " 50 da oltre 30 fino a 60 km......................... " 85 da oltre 60 fino a 120 km........................ " 125 da oltre 120 fino a 240 km....................... " 160 oltre 240 km..................................... " 200
+A ciascuna comunicazione extraurbana effettuata da telefoni a disposizione del pubblico si applica, oltre alla relativa tariffa extraurbana quale risulta determinata anche dall'applicazione del sovrapprezzo, la tariffa di L. 95.  
+Per le comunicazioni effettuate in teleselezione, l'importo relativo alle tariffe ed al sovrapprezzo di cui al comma precedente, nonche' all'IVA, e' percepito con l'incasso di L. 100 per il primo impulso e di L. 120 per ciascuno degli impulsi successivi e, a decorrere dal 1 dicembre 1982, con l'incasso di L. 100 per il primo impulso e di L. 130 per ciascuno degli impulsi successivi.  
+Per le comunicazioni effettuate in teleselezione da apparecchi ad incasso automatico, e nelle reti urbane in cui si applica la tassazione urbana a tempo di cui al successivo art. 25 anche da apparecchi ad incasso non automatico, l'importo suddetto e' percepito con l'incasso di L. 100 per ogni impulso e con l'incasso aggiuntivo, a partire dal secondo impulso, di L. 100 ogni cinque impulsi; detto incasso aggiuntivo di L. 100, a decorrere dal 1 dicembre 1982, viene effettuato ogni quattro impulsi.  
+Il valore del gettone, ai fini di quanto previsto dal presente decreto, e' fissato in L. 100.  
 
 Art. 18
 -------
 
   
-L'utente ha facolta' di avvalersi, a sua scelta, del servizio tramite operatrice o di quello in teleselezione.  
+Per l'invio di un avviso telefonico, destinato a prefissare una comunicazione con una persona non abbonata al telefono, e' dovuta, oltre alla quota fissa indicata nella tabella H, la tassa di recapito dell'avviso per espresso al domicilio indicato, prevista dall'[art. 1 del decreto luogotenenziale 2 aprile 1946, n. 392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-02;392~art1), e successivi aggiornamenti.  
 
 Art. 19
 -------
 
   
-A ciascuna conversazione interurbana effettuata da telefono a disposizione del pubblico si applica, oltre alla relativa tariffa interurbana, la tariffa di L. 75.  
+La tariffa da corrispondere per le commissioni telefoniche ordinarie e' fissata in L. 1.250 per ognuna.  
 
 Art. 20
 -------
 
   
-Quando una conversazione tramite operatrice non ha luogo perche', al momento in cui e' stabilito il collegamento, il richiesto o il richiedente non risponde, e' dovuto un importo pari a L. 200.  
-Il richiedente, che rinunzi espressamente al collegamento prima che sia trascorsa un'ora dalla richiesta, deve corrispondere un importo pari a L. 200.  
+La soprattassa prevista dall'art. 292 del codice postale e delle telecomunicazioni per le comunicazioni interurbane e' fissata nella misura di L. 20 per ciascuna comunicazione. Essa non si applica alle comunicazioni interurbane settoriali.  
+Detta soprattassa e' gia' compresa nelle tariffe di cui ai precedenti articoli.  
 
 Art. 21
 -------
 
   
-Per l'invio di un preavviso telefonico, destinato a prefissare una conversazione con un abbonato, il richiedente deve pagare un importo pari a L. 200.  
-Per l'invio di un avviso telefonico, destinato a prefissare una conversazione con una persona non abbonata al telefono, e' dovuta, oltre a quanto indicato nel precedente comma, la tassa di recapito dell'avviso per espresso al domicilio indicato, prevista dall'[art. 1 del decreto luogotenenziale 2 aprile 1946, n. 392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-02;392~art1).  
+I canoni e i contributi spese di nuovo impianto e di trasloco per la cessione in uso di circuiti urbani necessari per la realizzazione di collegamenti diretti urbani, di raccordi interurbani e di collegamenti diretti a centrale speciale, sono stabiliti nella misura e con le decorrenze di cui alla tabella I.  
 
 Art. 22
 -------
 
   
-Per le richieste di conversazioni presso i posti telefonici pubblici dalle ore 0 alle ore 8 e dalle ore 19,30 alle ore 24 dei giorni feriali, dalle ore 0 alle ore 8 e dalle ore 14,30 alle ore 24 del sabato, dalle ore 0 alle ore 24 dei giorni festivi, la quota fissa dovuta dall'utente nei casi previsti dai precedenti articoli 9, terzo comma, 20 e 21 e' stabilita nella misura di L. 100 ferma restando, ove prevista, la corresponsione per intero della tassa di recapito dell'avviso per espresso, prevista dall'[art. 1 del decreto luogotenenziale 2 aprile 1946, n. 392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-02;392~art1).  
+Per la cessione in uso di circuiti extraurbani nazionali necessari per la realizzazione di derivazioni esterne, di collegamenti a centrali interurbane o speciali e di collegamenti diretti in genere, si applicano, in base alla distanza tariffaria tra i punti estremi calcolata a norma del precedente art. 9, i canoni nella misura e con le decorrenze indicate nella tabella L.  
 
 Art. 23
 -------
 
   
-La tariffa, da corrispondere per le commissioni telefoniche ordinarie e' fissata in L. 1000 per ognuna.  
+Gli abbonati collegati ad una centrale all'uopo equipaggiata che fruiscono, a loro richiesta, della documentazione del traffico, mediante periodica distinta delle comunicazioni effettuate, sono tenuti a corrispondere un compenso di L. 30 per ogni comunicazione documentata.  
 
 Art. 24
 -------
 
-La soprattassa prevista dall'art. 292 del codice postale e delle telecomunicazioni per le comunicazioni interurbane e' fissata nella misura di L.
-
-20. Essa non si applica alle comunicazioni interurbane settoriali.  
-Detta soprattassa e' gia' compresa nelle tariffe di cui ai precedenti articoli.
+  
+Non sono soggette a tassazione le comunicazioni dirette ad ottenere, dall'esercente del servizio, informazioni relative al numero telefonico degli abbonati non ancora inseriti negli elenchi ufficiali.  
 
 Art. 25
 -------
 
   
-Per ogni tratta di 200 metri (o frazione) di circuito urbano necessario per la realizzazione di collegamenti diretti urbani o di raccordo interurbano, si applica un canone trimestrale di L. 1200 con un minimo di L. 6000.  
-Qualora il circuito urbano venga utilizzato per la realizzazione di derivazioni esterne o per collegare direttamente apparecchi intercomunicanti, si applica per ciascun circuito, oltre a quanto indicato nel precedente comma, una quota suppletiva di canone pari a n. 1000 scatti trimestrali.  
-Qualora il circuito urbano venga utilizzato per la realizzazione di collegamenti tra centralini, si applica per ciascun circuito, oltre a quanto indicato nel primo comma, una quota suppletiva di canone pari a n. 2000 scatti trimestrali.  
-Per ciascun collegamento a commutatore interurbano o speciale che comporti l'impegno di una linea di lunghezza non superiore a 10 km, e' dovuto un canone trimestrale di L. 30.000. Per la lunghezza eventualmente eccedente va applicato il canone di cui al primo comma.  
-I contributi spese di nuovo impianto e di trasloco, per ciascun terminale di utente dei collegamenti di cui ai commi precedenti, sono pari a quelli stabiliti per il trasloco nell'art. 4.  
+Alle comunicazioni urbane si applica una tariffa determinata mediante l'invio al contatore del chiamante di un impulso di conteggio alla risposta dell'utente chiamato e di successivi impulsi alla scadenza dei periodi di tempo indicati nella seguente tabella:
+
+|  |  |
+| --- | --- |
+|  | Ritmo degli impulsi (secondi) |
+| Dalle ore 8 alle ore 18,30 dei giorni dal lunedi al venerdi e dalle ore 8 alle ore 13 del sabato | 360 (6 minuti) |
+| In tutti gli altri orari dei giorni feriali e nei giorni festivi | 1.200 (20 minuti) |
+
+  
+  
+La suddetta tariffa si applica nelle reti urbane con oltre un milione di abbonati a decorrere dal 1 febbraio 1983.  
+La tariffa in questione sara' gradualmente estesa alle altre reti urbana con le decorrenze che saranno stabilite con decreto del Ministro delle poste e delle telecomunicazioni.  
+Per le comunicazioni effettuate da apparecchi a disposizione del pubblico la tariffa di cui al presente articolo e' percepita con l'incasso di L. 100 per ogni impulso, IVA compresa.  
 
 Art. 26
 -------
 
   
-Per i circuiti interurbani nazionali necessari per la realizzazione di derivazioni esterne, di collegamenti a centrali interurbane o speciali e di collegamenti diretti in genere, si applicano, in base alla distanza tariffaria tra i punti estremi calcolata a norma del precedente art. 10, i canoni annui seguenti:  
-Circuiti settoriali................................... L. 600.000 Circuiti interurbani:  
-fino a 15 km....................................... " 990.000 da oltre 15 fino a 30 km........................... " 1.980.000 da oltre 30 fino a 60 km........................... " 3.465.000 da oltre 60 fino a 120 km.......................... " 4.950.000 da oltre 120 fino a 240 km......................... " 6.435.000 oltre 240 km....................................... " 7.920.000
-
-Art. 27
--------
-
-  
-Gli abbonati collegati ad una centrale all'uopo equipaggiata che fruiscono, a loro richiesta, della documentazione del traffico interurbano ed internazionale, mediante periodica distinta delle conversazioni effettuate, sono tenuti a corrispondere un compenso di L. 20 per ogni conversazione documentata.  
-
-Art. 28
--------
-
-  
-Le disposizioni del presente decreto si applicano dal 1 aprile 1976.  
+Il presente decreto entra in vigore il giorno successivo a quello di pubblicazione nella Gazzetta Ufficiale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 marzo 1976
+### Dato a Roma, addi' 30 aprile 1982
 
-LEONE MORO - ORLANDO - COLOMBO
+PERTINI SPADOLINI - GASPARI - ANDREATTA
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 22 marzo 1976
+Registrato alla Corte dei conti, addi' 30 aprile 1982
 
-Atti di Governo, registro n. 4, foglio n. 23
+Atti di Governo, registro n. 39, foglio n. 5
+
+Tabelle
+
+ TABELLA A   
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=082U018900100010110001&dgu=1982-04-30&art.dataPubblicazioneGazzetta=1982-04-30&art.codiceRedazionale=082U0189)
+  
+  
+  
+  
+  
+TABELLA B   
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=082U018900100010110002&dgu=1982-04-30&art.dataPubblicazioneGazzetta=1982-04-30&art.codiceRedazionale=082U0189)
+  
+  
+  
+  
+  
+  
+TABELLA C   
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=082U018900100010110003&dgu=1982-04-30&art.dataPubblicazioneGazzetta=1982-04-30&art.codiceRedazionale=082U0189)
+  
+  
+  
+  
+  
+  
+TABELLA D   
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=082U018900100010110004&dgu=1982-04-30&art.dataPubblicazioneGazzetta=1982-04-30&art.codiceRedazionale=082U0189)
+  
+  
+  
+  
+  
+  
+TABELLA E   
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=082U018900100010110005&dgu=1982-04-30&art.dataPubblicazioneGazzetta=1982-04-30&art.codiceRedazionale=082U0189)
+  
+  
+  
+  
+  
+  
+TABELLA F   
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=082U018900100010110006&dgu=1982-04-30&art.dataPubblicazioneGazzetta=1982-04-30&art.codiceRedazionale=082U0189)
+  
+  
+  
+  
+  
+  
+TABELLA G   
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=082U018900100010110007&dgu=1982-04-30&art.dataPubblicazioneGazzetta=1982-04-30&art.codiceRedazionale=082U0189)
+  
+  
+  
+  
+  
+  
+TABELLA H   
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=082U018900100010110008&dgu=1982-04-30&art.dataPubblicazioneGazzetta=1982-04-30&art.codiceRedazionale=082U0189)
+  
+  
+  
+  
+  
+  
+TABELLA I   
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=082U018900100010110009&dgu=1982-04-30&art.dataPubblicazioneGazzetta=1982-04-30&art.codiceRedazionale=082U0189)
+  
+  
+  
+  
+  
+  
+TABELLA L   
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=082U018900100010110010&dgu=1982-04-30&art.dataPubblicazioneGazzetta=1982-04-30&art.codiceRedazionale=082U0189)
+  

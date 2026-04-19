@@ -1,22 +1,117 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1956 n. 727
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 agosto 1952 n. 1354
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1956 n. 727
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 agosto 1952 n. 1354
+==============================================================
 
 Modificazione dello statuto dell'Universita' degli studi di Palermo.
 --------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regi decreti 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2240); [31 ottobre 1929, n. 2477](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1929-10-31;2477); [30 ottobre 1930, numero 1844](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1844); [1 ottobre 1931, n. 1379](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1379); [20 ottobre 1932, n. 1806](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-20;1806); [26 ottobre 1933, n. 1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1933-10-26;1991); [6 dicembre 1934, n. 2430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2430); [1 ottobre 1936, n. 2449](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2449); [23 giugno 1939, n. 1167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-06-23;1167); [27 aprile 1942, n. 485](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;485); [11 luglio 1942, n. 922](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-11;922); [5 settembre 1942, n. 1429, con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-09-05;1429) [13 luglio 1947, n. 826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-07-13;826); [31 dicembre 1947, n. 1870, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1870) [28 ottobre 1948, n. 1431](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-10-28;1431); [30 ottobre 1949, n. 1151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1151) e [16 dicembre 1950, n. 1314](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-12-16;1314);
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1701](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1701), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Dopo l'art. 123 vengono aggiunti i seguenti nuovi articoli:
+
+Scuola di specializzazione in anestesiologia
+
+Art. 124. - Alla scuola che ha sede al Policlinico della Feliciuzza nei locali della clinica chirurgica vengono ammessi i laureati in medicina e chirurgia. Il corso ha la durata di due anni.
+
+Il numero degli iscritti alla scuola non puo' essere superiore a cinque per ogni anno.
+
+Art. 125. - Sono materie di insegnamento:
+
+1) Anatomia con speciale riguardo alla topografia dei nervi periferici (annuale);
+
+2) Fisiologia del sistema cardiovascolare, del sistema respiratorio e del sistema nervoso (annuale)
+
+3) Farmacologia con particolare riguardo ai narcotici, ipnotici, anastetici ad azione locale, vari alcaloidi, cardiocinetici ed analettici respiratori (annuale);
+
+4) Generalita' e tecnica della narcosi: 1) per inalazione (con particolare riguardo a quella per via endotracheale ed a iperpressione); 2) per via endovenosa; 3) rettale; 4) sottocutanea, etc. (biennale);
+
+5) Generalita' e tecnica delle anestesie periferiche Rachianestesia, anestesie plessiche e regionali, anestesie locali, etc. (annuale);
+
+6) Anestesia del parto (annuale);
+
+7) Patogenesi del dolore e metodi di terapia antalgica (annuale);
+
+8) Trattamento preintra e postoperatorio (con speciale riguardo alla trasfusione del sangue) (annuale);
+
+9) Esercitazioni (biennale).
+
+Le materie d'insegnamento sono cosi' ripartite:
+
+1° anno:
+
+Anatomia;
+
+Fisiologia;
+
+Farmacologia;
+
+Generalita' e tecnica della narcosi;
+
+Esercitazioni.
+
+2° anno:
+
+Generalita' e tecnica della narcosi;
+
+Generalita' e tecnica delle anestesie periferiche;
+
+Anestesia del parto;
+
+Patogenesi del dolore e metodi di terapia antalgica;
+
+Trattamento preintra e postoperatorio;
+
+Esercitazioni.
+
+Art. 126. - Per le modalita' valgono le norme delle altre scuole di specializzazione esistenti presso questa Universita'.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo ai chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Arpy di Morgex, addi' 16 agosto 1952
+
+EINAUDI
+
+SEGNI
+
+Visto, il Guardasigilli: ZOLI
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 28 ottobre 1952 Atti del Governo, registro n. 59, foglio n. 103. - CARLOMAGNO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con i [regi decreti 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2240); [31 ottobre 1929, n. 2477](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1929-10-31;2477); [30 ottobre 1930, n. 1844](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1844); [1 ottobre 1931, n. 1379](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1379); [20 ottobre 1932, numero 1806](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-20;1806); [26 ottobre 1933, n. 1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1933-10-26;1991); [6 dicembre 1934, n. 2430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2430); [1 ottobre 1936, n. 2449](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2449); [23 giugno 1939, numero 1167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-06-23;1167); [27 aprile 1942, n. 485](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;485); [11 luglio 1942, n. 922](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-11;922); [5 settembre 1942, n. 1429 e con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-09-05;1429) [13 luglio 1947, n. 826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-07-13;826) e [31 dicembre 1947, n. 1870 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1870) [28 ottobre 1948, n. 1431](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-10-28;1431); [30 ottobre 1949, n. 1151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1151); [16 dicembre 1950, n. 1314](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-12-16;1314); [11 febbraio 1952, n. 999](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-11;999); [16 agosto 1952, n. 1354](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-08-16;1354); [19 luglio 1955, n. 762](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-19;762); [31 agosto 1955, n. 913](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-08-31;913) e [20 settembre 1955, n. 938](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-20;938);  
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regi decreti 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2240); [31 ottobre 1929, n. 2477](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1929-10-31;2477); [30 ottobre 1930, numero 1844](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1844); [1 ottobre 1931, n. 1379](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1379); [20 ottobre 1932, n. 1806](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-20;1806); [26 ottobre 1933, n. 1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1933-10-26;1991); [6 dicembre 1934, n. 2430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2430); [1 ottobre 1936, n. 2449](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2449); [23 giugno 1939, n. 1167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-06-23;1167); [27 aprile 1942, n. 485](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;485); [11 luglio 1942, n. 922](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-11;922); [5 settembre 1942, n. 1429, con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-09-05;1429) [13 luglio 1947, n. 826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-07-13;826); [31 dicembre 1947, n. 1870, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1870) [28 ottobre 1948, n. 1431](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-10-28;1431); [30 ottobre 1949, n. 1151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1151) e [16 dicembre 1950, n. 1314](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-12-16;1314);  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1701](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1701), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -25,47 +120,48 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 57, per la parte relativa all'elenco degli insegnamenti complementari del triennio di applicazione della Facolta' d'ingegneria, e' cosi' modificato:  
-Insegnamenti complementari:  
-1) Tecnica ed economia dei trasporti;  
-2) Igiene applicata all'ingegneria;  
-3) Geologia applicata;  
-4) Arte mineraria;  
-5) Costruzioni idrauliche;  
-6) Architettura e composizione architettonica;  
-7) Costruzione di ponti;  
-8) Impianti speciali idraulici;  
-9) Tecnica urbanistica;  
-10) Metallurgia e metallografia;  
-11) Costruzioni stradali e ferroviarie;  
-12) Costruzioni in legno, ferro e cemento armato;  
-13) Misure elettriche;  
-14) Tecnologie speciali;  
-15) Impianti industriali elettrici;  
-16) Aerodinamica;  
-17) Costruzioni aeronautiche;  
-18) Costruzione di macchine;  
-19) Chimica industriale;  
-20) Impianti industriali meccanici;  
-21) Disegno di macchine e progetti;  
-22) Costruzione di macchine elettriche;  
-23) Radiotecnica;  
-24) Impianti industriali chimici;  
-25) Statica grafica;  
-26) Elementi di macchine;  
-27) Analisi sperimentale delle tensioni;  
-28) Metrologia tecnica.  
+Dopo l'art. 123 vengono aggiunti i seguenti nuovi articoli:  
+  
+Scuola di specializzazione in anestesiologia  
+  
+Art. 124. - Alla scuola che ha sede al Policlinico della Feliciuzza nei locali della clinica chirurgica vengono ammessi i laureati in medicina e chirurgia. Il corso ha la durata di due anni.  
+Il numero degli iscritti alla scuola non puo' essere superiore a cinque per ogni anno.  
+Art. 125. - Sono materie di insegnamento:  
+1) Anatomia con speciale riguardo alla topografia dei nervi periferici (annuale);  
+2) Fisiologia del sistema cardiovascolare, del sistema respiratorio e del sistema nervoso (annuale)  
+3) Farmacologia con particolare riguardo ai narcotici, ipnotici, anastetici ad azione locale, vari alcaloidi, cardiocinetici ed analettici respiratori (annuale);  
+4) Generalita' e tecnica della narcosi: 1) per inalazione (con particolare riguardo a quella per via endotracheale ed a iperpressione); 2) per via endovenosa; 3) rettale; 4) sottocutanea, etc. (biennale);  
+5) Generalita' e tecnica delle anestesie periferiche Rachianestesia, anestesie plessiche e regionali, anestesie locali, etc. (annuale);  
+6) Anestesia del parto (annuale);  
+7) Patogenesi del dolore e metodi di terapia antalgica (annuale);  
+8) Trattamento preintra e postoperatorio (con speciale riguardo alla trasfusione del sangue) (annuale);  
+9) Esercitazioni (biennale).  
+Le materie d'insegnamento sono cosi' ripartite:  
+1° anno:  
+Anatomia;  
+Fisiologia;  
+Farmacologia;  
+Generalita' e tecnica della narcosi;  
+Esercitazioni.  
+2° anno:  
+Generalita' e tecnica della narcosi;  
+Generalita' e tecnica delle anestesie periferiche;  
+Anestesia del parto;  
+Patogenesi del dolore e metodi di terapia antalgica;  
+Trattamento preintra e postoperatorio;  
+Esercitazioni.  
+Art. 126. - Per le modalita' valgono le norme delle altre scuole di specializzazione esistenti presso questa Universita'.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo ai chiunque spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 giugno 1956
+### Dato a Arpy di Morgex, addi' 16 agosto 1952
 
-GRONCHI ROSSI
+EINAUDI SEGNI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: ZOLI
 
-Registrato alla Corte dei conti, addi' 17 luglio 1956
+Registrato alla Corte dei conti, addi' 28 ottobre 1952
 
-Atti del Governo, registro n. 99, foglio n. 97. - CARLOMAGNO
+Atti del Governo, registro n. 59, foglio n. 103. - CARLOMAGNO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 625
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1985 n. 872
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 625
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1985 n. 872
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -39,22 +39,22 @@ Articolo unico
 --------------
 
   
-Nell'art. 147, relativo al corso di laurea in ingegneria, all'elenco degli insegnamenti complementari del biennio del corso di laurea in ingegneria elettrotecnica e' aggiunto il seguente nuovo insegnamento:  
-programmazione dei calcolatori elettronici.  
-Nell'art. 148 del medesimo corso di laurea all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-dinamica e controllo dei processi chimici;  
-costruzioni metalliche.  
+Nell'art. 51, relativo al corso di laurea in scienze politiche, indirizzo storico-politico, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
+  
+teoria generale del diritto.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 maggio 1983
+### Dato a Roma, addi' 23 ottobre 1985
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 15 ottobre 1983
+Registrato alla Corte dei conti, addi' 21 gennaio 1986
 
-Registro n. 66 Istruzione, foglio n. 131
+Registro n. 2 Istruzione, foglio n. 99

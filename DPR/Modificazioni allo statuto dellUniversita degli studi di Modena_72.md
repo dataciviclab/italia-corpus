@@ -1,428 +1,98 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1957 n. 489
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 803
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1957 n. 489
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 803
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), successivi;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 81. - E' modificato come segue:
-
-"Non sono consentite abbreviazioni di corso. E' fatta eccezione per gli assistenti universitari di ruolo, incaricati, supplenti, straordinari e volontari nelle rispettive specialita' ai quali e' consentita:
-
-a) l'iscrizione al secondo anno direttamente senza esame di ammissione per gli assistenti ordinari;
-
-b) l'iscrizione al secondo anno previo esame favorevole di ammissione per gli assistenti, incaricati, supplenti, straordinari e volontari".
-
-Art. 95. - E' modificato come segue:
-
-"Il direttore di ciascuna scuola di specializzazione e' di diritto il professore di ruolo o fuori ruolo che copre la cattedra da cui si intitola la scuola. Nel caso in cui la cattedra non sia coperta da un professore di ruolo il direttore e' nominato dalla Facolta' di medicina e chirurgia che lo sceglie fra i propri componenti".
-
-Il titolo del capo III "Scuola di specializzazione in clinica delle malattie infettive e parassitarie" cambia denominazione in "Scuola di specializzazione in clinica delle malattie infettive e tropicali".
-
-Di conseguenza gli articoli 108, 112, 113 relativi alla suddetta scuola risultano cosi' modificati:
-
-Art. 108. - "La scuola di specializzazione in clinica delle malattie infettive e tropicali conferisce il diploma di specialista in malattie infettive e tropicali".
-
-Art. 112. - "Gli insegnamenti impartiti nella scuola sono:
-
-Primo anno:
-
-Insegnamenti fondamentali:
-
-1) Clinica delle malattie infettive e tropicali (biennale);
-
-2) Anatomia patologica delle malattie infettive e tropicali;
-
-3) Batteriologia e sierologia;
-
-4) Protozoologia;
-
-5) Elmintologia ed entomologia;
-
-6) Chemioterapia.
-
-Secondo anno:
-
-Insegnamenti fondamentali:
-
-1) Clinica delle malattie infettive e tropicali (biennale);
-
-2) Clinica neuropsichiatrica, in rapporto alle malattie infettive e tropicali ed all'igiene coloniale;
-
-3) Clinica oculistica, in rapporto alle malattie infettive e tropicali ed all'igiene coloniale;
-
-4) Clinica ostetrica e ginecologica; in rapporto alle malattie infettive e tropicali ed all'igiene coloniale;
-
-5) Igiene coloniale e profilassi delle malattie infettive.
-
-Gli insegnamenti saranno integrati da esercitazioni pratiche.
-
-Art. 113. - "L'allievo del primo anno per essere ammesso al secondo deve aver ottenuto tutta le firme di frequenza dei corsi del primo e deve aver superato almeno gli esami di anatomia patologica delle malattie infettive e tropicali, di batteriologia e sierologia e di chemioterapia".
-
-Gli articoli 118 e 119, relativi alla scuola di specializzazione in clinica ostetrico-ginecologica sono modificati come segue:
-
-Art. 118. - Gli insegnamenti impartiti nella scuola sono:
-
-Primo anno:
-
-Insegnamenti fondamentali:
-
-1) Fisiologia della gravidanza, del parto e de puerperio;
-
-2) Esame clinico della gravida;
-
-3) Nozioni applicate di laboratorio.
-
-Insegnamenti complementari:
-
-1) Anatomia pelvi-genitale.
-
-Secondo anno:
-
-Insegnamenti fondamentali:
-
-1) Semeiotica ostetrica e ginecologica;
-
-2) Fisiopatologia della gravidanza e del puerperio;
-
-3) Puericultura prenatale e postnatale;
-
-4) Operazioni ostetriche.
-
-Insegnamenti complementari:
-
-1) Farmacologia applicata;
-
-2) Immunologia.
-
-Terzo anno:
-
-Insegnamenti fondamentali:
-
-1) Clinica ostetrica e ginecologica (biennale);
-
-2) Patologia ostetrica;
-
-3) Patologia ginecologica;
-
-4) Roentgendiagnostica e roentgenradiumterapia;
-
-altre terapie fisiche della branca;
-
-5) Terapia ostetrico-ginecologica.
-
-Insegnamenti complementari:
-
-1) Anatomia patologica applicata.
-
-Quarto anno:
-
-Insegnamenti fondamentali:
-
-1) Clinica ostetrica e ginecologica (biennale).
-
-Insegnamenti complementari:
-
-1) Nozioni di urologia applicata;
-
-2) Igiene e legislazione sanitaria applicata;
-
-3) Malattie infettive e gravidanza;
-
-4) Le psicosi e le psiconeurosi in rapporto con le funzioni genitali muliebri.
-
-Art. 119. - L'allievo per essere ammesso al corso immediatamente superiore deve avere ottenuto tutte le firme di frequenza del corso e deve avere almeno superato i seguenti esami:
-
-Per essere ammesso al secondo anno gli esami di fisiologia della gravidanza, del parto e del puerperio.
-
-Per essere ammesso al terzo anno, gli esami di semeiotica ostetrica e ginecologica, di fisiopatologia della gravidanza, del puerperio e di operazioni ostetriche.
-
-Per essere ammesso al quarto anno gli esami di patologia ostetrica, di patologia ginecologica e di terapia ostetrico-ginecologica.
-
-L'art. 124, relativo alla scuola di specializzazione in radiologia e terapia fisica, e' modificato come segue:
-
-Art. 124. - Gli insegnamenti impartiti nella scuola sono:
-
-Primo anno:
-
-Insegnamenti fondamentali:
-
-1) Fisica delle radiazioni;
-
-2) Tecnica e metodologia roentgendiagnostiche;
-
-3) Tecnica e metodologia roentgen-radium-isotopoterapiche;
-
-4) Radiobiologia;
-
-5) Semeiotica generale radiologica.
-
-Secondo anno:
-
-Insegnamenti fondamentali:
-
-1) Semeiotica generale radiologica;
-
-2) Quadri clinico-radiologici delle malattie interne ed applicazioni terapeutiche;
-
-3) Quadri clinico-radiologici delle malattie chirurgiche ed applicazioni terapeutiche;
-
-4) Roentgen-radium-isotopoterapia clinica;
-
-5) Terapia fisica.
-
-Insegnamenti complementari:
-
-1) Legislazione e deontologia professionale radiologiche.
-
-Gli insegnamenti saranno integrati da esercitazioni pratiche.
-
-Dopo l'art. 145 sono aggiunti i seguenti nuovi articoli, relativi all'istituzione della "Scuola di specializzazione in medicina legale e delle assicurazioni" presso la Facolta' di medicina e chirurgia.
-
-Scuola di specializzazione in medicina legale e delle assicurazioni.
-
-Art. 146. - La scuola di specializzazione in medicina legale e delle assicurazioni conferisce il diploma di specialista in medicina legale e delle assicurazioni.
-
-Art. 147. - La scuola ha sede presso l'Istituto di medicina legale e delle assicurazioni.
-
-Art. 148. - Alla scuola sono ammessi i laureati in medicina e chirurgia.
-
-Art. 149. - La scuola ha la durata di due anni.
-
-Art. 150. - Gli insegnamenti impartiti nella scuola sono i seguenti:
-
-Primo anno:
-
-Insegnamenti fondamentali:
-
-1) Medicina legale generale;
-
-2) Nozioni generali di diritto;
-
-3) Tanatologia e tecnica delle autopsie medico-legali;
-
-4) Lesivita' medico-legale (biennale);
-
-5) Ematologia ed altre indagini del laboratorio medico-legale;
-
-6) Anatomia e istologia patologica applicate alla medicina legale;
-
-7) Assicurazione malattia; assicurazione invalidita', vecchiaia e tubercolosi.
-
-Secondo anno:
-
-Insegnamenti fondamentali:
-
-1) Medicina legale applicata al diritto civile, penale e canonico;
-
-2) Lesivita' medico-legale (biennale);
-
-3) Semeiotica medico-legale e tecnica delle valutazioni;
-
-4) Tossicologia forense e del lavoro;
-
-5) Ostetricia forense;
-
-6) Psicologia e psichiatria forense;
-
-7) Antropologia criminale;
-
-8) Assicurazioni infortuni e malattie professionali;
-
-9) Medicina legale militare e pensionistica.
-
-I corsi sono integrati da: esercitazioni, sotto forma di due anni di internato obbligatorio nell'Istituto di medicina legale e delle assicurazioni; da conferenze su argomenti di medicina legale e di medicina assicurativa; da visite a stabilimenti industriali, istituti di prevenzione e di pena, ecc.
-
-Art. 151. - L'allievo del primo anno per essere ammesso al secondo deve aver superato tutti gli esami del primo anno.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 2 maggio 1957
-
-GRONCHI
-
-ROSSI
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 2 luglio 1957 Atti del Governo, registro n. 106, foglio n. 132. - CARLOMAGNO
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), successivi;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Modena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 81. - E' modificato come segue:   
-"Non sono consentite abbreviazioni di corso. E' fatta eccezione per gli assistenti universitari di ruolo, incaricati, supplenti, straordinari e volontari nelle rispettive specialita' ai quali e' consentita:   
-a) l'iscrizione al secondo anno direttamente senza esame di ammissione per gli assistenti ordinari;   
-b) l'iscrizione al secondo anno previo esame favorevole di ammissione per gli assistenti, incaricati, supplenti, straordinari e volontari".   
-Art. 95. - E' modificato come segue:   
-"Il direttore di ciascuna scuola di specializzazione e' di diritto il professore di ruolo o fuori ruolo che copre la cattedra da cui si intitola la scuola. Nel caso in cui la cattedra non sia coperta da un professore di ruolo il direttore e' nominato dalla Facolta' di medicina e chirurgia che lo sceglie fra i propri componenti".   
-Il titolo del capo III "Scuola di specializzazione in clinica delle malattie infettive e parassitarie" cambia denominazione in "Scuola di specializzazione in clinica delle malattie infettive e tropicali".   
-Di conseguenza gli articoli 108, 112, 113 relativi alla suddetta scuola risultano cosi' modificati:   
-Art. 108. - "La scuola di specializzazione in clinica delle malattie infettive e tropicali conferisce il diploma di specialista in malattie infettive e tropicali".   
-Art. 112. - "Gli insegnamenti impartiti nella scuola sono:   
-Primo anno:   
-Insegnamenti fondamentali:   
-1) Clinica delle malattie infettive e tropicali (biennale);   
-2) Anatomia patologica delle malattie infettive e tropicali;   
-3) Batteriologia e sierologia;   
-4) Protozoologia;   
-5) Elmintologia ed entomologia;   
-6) Chemioterapia.   
-Secondo anno:   
-Insegnamenti fondamentali:   
-1) Clinica delle malattie infettive e tropicali (biennale);   
-2) Clinica neuropsichiatrica, in rapporto alle malattie infettive e tropicali ed all'igiene coloniale;   
-3) Clinica oculistica, in rapporto alle malattie infettive e tropicali ed all'igiene coloniale;   
-4) Clinica ostetrica e ginecologica; in rapporto alle malattie infettive e tropicali ed all'igiene coloniale;   
-5) Igiene coloniale e profilassi delle malattie infettive.   
-Gli insegnamenti saranno integrati da esercitazioni pratiche.   
-Art. 113. - "L'allievo del primo anno per essere ammesso al secondo deve aver ottenuto tutta le firme di frequenza dei corsi del primo e deve aver superato almeno gli esami di anatomia patologica delle malattie infettive e tropicali, di batteriologia e sierologia e di chemioterapia".   
-Gli articoli 118 e 119, relativi alla scuola di specializzazione in clinica ostetrico-ginecologica sono modificati come segue:   
-  
-Art. 118. - Gli insegnamenti impartiti nella scuola sono:   
-Primo anno:   
-Insegnamenti fondamentali:   
-1) Fisiologia della gravidanza, del parto e de puerperio;   
-2) Esame clinico della gravida;   
-3) Nozioni applicate di laboratorio.   
-Insegnamenti complementari:   
-1) Anatomia pelvi-genitale.   
-Secondo anno:   
-Insegnamenti fondamentali:   
-1) Semeiotica ostetrica e ginecologica;   
-2) Fisiopatologia della gravidanza e del puerperio;   
-3) Puericultura prenatale e postnatale;   
-4) Operazioni ostetriche.   
-Insegnamenti complementari:   
-1) Farmacologia applicata;   
-2) Immunologia.   
-Terzo anno:   
-Insegnamenti fondamentali:   
-1) Clinica ostetrica e ginecologica (biennale);   
-2) Patologia ostetrica;   
-3) Patologia ginecologica;   
-4) Roentgendiagnostica e roentgenradiumterapia;   
-altre terapie fisiche della branca;   
-5) Terapia ostetrico-ginecologica.   
-Insegnamenti complementari:   
-1) Anatomia patologica applicata.   
-Quarto anno:   
-Insegnamenti fondamentali:   
-1) Clinica ostetrica e ginecologica (biennale).   
-Insegnamenti complementari:   
-1) Nozioni di urologia applicata;   
-2) Igiene e legislazione sanitaria applicata;   
-3) Malattie infettive e gravidanza;   
-4) Le psicosi e le psiconeurosi in rapporto con le funzioni genitali muliebri.   
-Art. 119. - L'allievo per essere ammesso al corso immediatamente superiore deve avere ottenuto tutte le firme di frequenza del corso e deve avere almeno superato i seguenti esami:   
-  
-Per essere ammesso al secondo anno gli esami di fisiologia della gravidanza, del parto e del puerperio.   
-Per essere ammesso al terzo anno, gli esami di semeiotica ostetrica e ginecologica, di fisiopatologia della gravidanza, del puerperio e di operazioni ostetriche.   
-Per essere ammesso al quarto anno gli esami di patologia ostetrica, di patologia ginecologica e di terapia ostetrico-ginecologica.   
-L'art. 124, relativo alla scuola di specializzazione in radiologia e terapia fisica, e' modificato come segue:   
-Art. 124. - Gli insegnamenti impartiti nella scuola sono:   
-Primo anno:   
-Insegnamenti fondamentali:   
-1) Fisica delle radiazioni;   
-2) Tecnica e metodologia roentgendiagnostiche;   
-3) Tecnica e metodologia roentgen-radium-isotopoterapiche;   
-4) Radiobiologia;   
-5) Semeiotica generale radiologica.   
-Secondo anno:   
-Insegnamenti fondamentali:   
-1) Semeiotica generale radiologica;   
-2) Quadri clinico-radiologici delle malattie interne ed applicazioni terapeutiche;   
-3) Quadri clinico-radiologici delle malattie chirurgiche ed applicazioni terapeutiche;   
-4) Roentgen-radium-isotopoterapia clinica;   
-5) Terapia fisica.   
-Insegnamenti complementari:   
-1) Legislazione e deontologia professionale radiologiche.   
-Gli insegnamenti saranno integrati da esercitazioni pratiche.   
-Dopo l'art. 145 sono aggiunti i seguenti nuovi articoli, relativi all'istituzione della "Scuola di specializzazione in medicina legale e delle assicurazioni" presso la Facolta' di medicina e chirurgia.   
-  
-Scuola di specializzazione in medicina legale e delle assicurazioni.   
-  
-Art. 146. - La scuola di specializzazione in medicina legale e delle assicurazioni conferisce il diploma di specialista in medicina legale e delle assicurazioni.   
-Art. 147. - La scuola ha sede presso l'Istituto di medicina legale e delle assicurazioni.   
-Art. 148. - Alla scuola sono ammessi i laureati in medicina e chirurgia.   
-Art. 149. - La scuola ha la durata di due anni.   
-Art. 150. - Gli insegnamenti impartiti nella scuola sono i seguenti:   
-Primo anno:   
-Insegnamenti fondamentali:   
-1) Medicina legale generale;   
-2) Nozioni generali di diritto;   
-3) Tanatologia e tecnica delle autopsie medico-legali;   
-4) Lesivita' medico-legale (biennale);   
-5) Ematologia ed altre indagini del laboratorio medico-legale;   
-6) Anatomia e istologia patologica applicate alla medicina legale;   
-7) Assicurazione malattia; assicurazione invalidita', vecchiaia e tubercolosi.   
-Secondo anno:   
-Insegnamenti fondamentali:   
-1) Medicina legale applicata al diritto civile, penale e canonico;   
-2) Lesivita' medico-legale (biennale);   
-3) Semeiotica medico-legale e tecnica delle valutazioni;   
-4) Tossicologia forense e del lavoro;   
-5) Ostetricia forense;   
-6) Psicologia e psichiatria forense;   
-7) Antropologia criminale;   
-8) Assicurazioni infortuni e malattie professionali;   
-9) Medicina legale militare e pensionistica.   
-I corsi sono integrati da: esercitazioni, sotto forma di due anni di internato obbligatorio nell'Istituto di medicina legale e delle assicurazioni; da conferenze su argomenti di medicina legale e di medicina assicurativa; da visite a stabilimenti industriali, istituti di prevenzione e di pena, ecc.   
-Art. 151. - L'allievo del primo anno per essere ammesso al secondo deve aver superato tutti gli esami del primo anno.   
+Dopo l'art. 253, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della II scuola di specializzazione in pediatria.  
+Scuola di specializzazione in pediatria II  
+Art. 254. - La scuola di specializzazione in pediatria II ha sede presso l'istituto di clinica pediatrica (cattedra di pediatria II) e conferisce il diploma di specialista in pediatria.  
+Art. 255. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Art. 256. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione allo esercizio professionale rilasciato dall'autorita' competente.  
+Art. 257. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.  
+Art. 258. - Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di quaranta per l'intero corso di studi.  
+Art. 259. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 260. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+genetica;  
+auxologia;  
+alimentazione;  
+epidemiologia;  
+malattie infettive;  
+clinica pediatrica I.  
+2° Anno:  
+radiologia;  
+legislazione del minore;  
+organizzazione sanitaria;  
+psicologia pediatrica;  
+oculistica ed ortottica;  
+otorino e foniatria;  
+odonto;  
+neonatologia I;  
+chirurgia pediatrica I;  
+pediatria preventiva e sociale I;  
+clinica pediatrica II.  
+Insegnamenti del 3° Anno:  
+neurologia;  
+psichiatria infantile;  
+nefrologia e urologia;  
+ginecologia pediatrica;  
+neonatologia II;  
+chirurgia pediatrica II;  
+pediatria preventiva e sociale II;  
+cardiologia I;  
+endocrinologia I;  
+ematologia I;  
+immunologia I;  
+gastroenterologia I;  
+clinica pediatrica III.  
+Insegnamenti del 4° Anno:  
+oncologia;  
+pneumologia;  
+ortopedia e traumatologia;  
+dermatologia;  
+cardiologia II;  
+endocrinologia II;  
+ematologia II;  
+immunologia II;  
+gastroenterologia II;  
+clinica pediatrica IV.  
+Art. 261. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi, che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere le prove di esame.  
+Art. 262. - Alla fine di ciascun anno gli iscritti per essere ammessi agli anni successivi, devono superare le prove d'esame sulle materie impartite durante l'anno.  
+Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.  
+Al termine del corso di studi, per il conseguimento del diploma di specialista in pediatria, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 maggio 1957
+### Dato a Roma, addi' 31 ottobre 1978
 
-GRONCHI ROSSI
+PERTINI PEDINI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 2 luglio 1957
+Registrato alla Corte dei conti, addi' 15 dicembre 1978
 
-Atti del Governo, registro n. 106, foglio n. 132. - CARLOMAGNO
+Registro n. 131 Istruzione, foglio n. 51

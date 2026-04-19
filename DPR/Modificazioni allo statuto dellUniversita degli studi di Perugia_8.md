@@ -1,86 +1,51 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 989
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 febbraio 1955 n. 117
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 989
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 febbraio 1955 n. 117
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Perugia e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Nell'art. 66, relativo al corso di laurea in scienze biologiche della facolta' di scienze matematiche, fisiche e naturali, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-biologia molecolare;  
-genetica dei microorganismi;  
-ecologia applicata;  
-immunologia;  
-zoologia dei vertebrati;  
-biologia dello sviluppo;  
-igiene ambientale.  
-Nell'art. 62, relativo al corso di laurea in scienze naturali della facolta' di scienze matematiche, fisiche e naturali, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-biologia dello sviluppo;  
-igiene ambientale;  
-zoologia dei vertebrati;  
-ecologia applicata;  
-vulcanologia;  
-petrografia del sedimentario;  
-petrografia regionale;  
-cristallochimica.  
-Nell'art. 70, relativo al corso di laurea in scienze geologiche della facolta' di scienze matematiche, fisiche e naturali, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-cristallochimica;  
-mineralogia sistematica;  
-geotermia;  
-petrografia applicata;  
-geologia ambientale;  
-sismologia;  
-paleontologia dei vertebrati;  
-geologia storica;  
-geologia regionale;  
-geodinamica;  
-geologia tecnica.  
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regi decreti 7 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-07;1471); [17 ottobre 1941, n. 1205; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1941-10-17;1205) [5 ottobre 1946, n. 309 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-05;309) [28 luglio 1950, n. 936](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-28;936); [30 ottobre 1950, n. 1128](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1128); [11 aprile 1951, n. 472](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;472); [27 ottobre 1951, n. 1675](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1675); [14 marzo 1952, n. 768](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-03-14;768); [11 marzo 1953, n. 457](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;457); [6 ottobre 1953, n. 1110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-10-06;1110); [14 settembre 1954, numero 1009](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1009) e [26 ottobre 1954, n. 1203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-26;1203);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 38. - Agli insegnamenti complementari del corso di laurea in scienze agrarie e' aggiunto quello di "terapia vegetale".  
+Art. 55. - Agli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti quelli di:  
+12) Idrobiologia e pescicoltura;  
+13) Fisica terrestre e climatologia.  
+L'art. 56 e' sostituito dal seguente:  
+"L'esame di mineralogia non puo' essere sostenuto senza aver superato prima l'esame di chimica generale ed inorganica; gli esami di fisiologia generale 1° e 2° non possono essere sostenuti senza aver prima superato gli esami di anatomia umana, anatomia comparata, fisica, chimica generale ed inorganica, chimica organica; l'esame di chimica fisica non puo' essere sostenuto senza aver prima superato gli esami di istituzioni di matematiche e di chimica generale ed inorganica; si consiglia di sostenere l'esame di istologia ed embriologia prima di quello di anatomia comparata;  
+l'esame di antropologia, non puo' essere sostenuto senza aver prima superato gli esami di anatomia umana e di anatomia comparata; l'esame di chimica biologica non puo' essere sostenuto senza aver prima superato quello di chimica organica".  
+Art. 59. - Agli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto quello di:  
+9) Idrobiologia e pescicoltura.  
+Art. 60. - Le parole "L'esame di fisiologia generale non puo' essere sostenuto", sono sostituite dalle seguenti "Gli esami di fisiologia generale 1° e 2° non possono essere sostenuti".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 ottobre 1984
+### Dato a Roma, addi' 4 febbraio 1955
 
-PERTINI
+EINAUDI ERMINI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DE PIETRO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 24 marzo 1955
 
-Registrato alla Corte dei conti, addi' 18 gennaio 1985
-
-Registro n. 2 Istruzione, foglio n. 347
+Atti del Governo, registro n. 89, foglio n. 160. - CARLOMAGNO

@@ -1,19 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1968 n. 714
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1970 n. 554
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1968 n. 714
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1970 n. 554
+=============================================================
 
-Autorizzazione all'Associazione italiana della croce rossa ad accettare un legato.
-----------------------------------------------------------------------------------
+Autorizzazione all'Associazione italiana della croce rossa, ad accettare un legato.
+-----------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-714. Decreto del Presidente della Repubblica 6 marzo 1968, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa viene autorizzata ad accettare il legato di L. 100.000 disposto a favore del comitato provinciale di Alessandria della associazione stessa dalla signora Beatrice Marziani, con testamento olografo redatto in data 21 giugno 1963 e pubblicato in Alessandria il 13 giugno 1964, repertorio 18430 per atto notaio Carlo Mussa di Alessandria.  
+554. Decreto del Presidente della Repubblica 10 aprile 1970, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa viene autorizzata ad accettare un legato di venticinque buoni fruttiferi postali, del valore nominale di L. 25.000 ed effettivo di L. 78.825, disposto a favore del dipendente comitato provinciale di Bergamo dalla defunta sig.na Luisa Casali con testamento olografo del 15 aprile 1968, pubblicato per atto del notaio Omero Fabri di Bergamo il 12 dicembre 1968, repertorio n. 7871.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 5 giugno 1968  
-Atti del Governo, registro n. 220, foglio n. 33. - GRECO
+Registrato alla Corte dei conti, addi' 27 luglio 1970  
+Atti del Governo, registro n. 236, foglio n. 196. - IZZI

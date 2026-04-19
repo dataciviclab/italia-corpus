@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 luglio 1969 n. 605
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1973 n. 114
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 luglio 1969 n. 605
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1973 n. 114
+===============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, con sede in Roma, ad acquistare un immobile.
 -------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-605. Decreto del Presidente della Repubblica 28 luglio 1969, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede in Roma, viene autorizzata ad acquistare dal rag. Girolamo Gardini, per il prezzo di L. 7.000.000, un immobile costituito da un appartamento al piano terreno della superficie di mq. 95, facente parte di una casa di nuova costruzione, sito in Modena in via Garibaldi, composto di tre vani utili, oltre l'ingresso, il corridoio e il bagno, da destinare a sede della sottosezione di Modena.  
+114. Decreto del Presidente della Repubblica 5 febbraio 1973, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede in Roma, viene autorizzata ad acquistare al complessivo convenuto prezzo di L. 10.200.000, dal sig. Agostino Ruisecco, un appartamento sito in Genova, via Caffaro, 6, da destinare a sede della locale sezione interprovinciale dell'Unione italiana dei ciechi.  
   
-Visto, il Guardasigilli: GAVA  
-Registrato alla Corte dei conti, addi' 8 settembre 1969  
-Atti del Governo, registro n. 229, foglio n. 5. - CARUSO
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 3 aprile 1973  
+Atti di Governo, registro n. 257, foglio n. 35. - VALENTINI

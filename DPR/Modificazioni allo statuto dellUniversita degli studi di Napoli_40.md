@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1970 n. 754
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1960 n. 1922
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1970 n. 754
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1960 n. 1922
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,123 +10,1146 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico, delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la legge il aie 1953, n. 312;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;Sentito il parere del Consiglio superiore della pubblica istruzione;
 
 Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Napoli) approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 23, relativo alle propedeuticita' di iscrizione e di esami del corso di laurea in giurisprudenza e' modificato nel senso che viene aggiunta la seguente nuova propedeuticita': "f) le istituzioni di diritto privato rispetto al diritto di autore".
+Gli articoli da 142 a 145, relativi al biennio di studi propedeutici in ingegneria, in seno alla Facolta' di Scienze matematiche, fisiche e naturali, sono soppressi.
 
-Art. 116. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:
+Gli articoli da 167 a 174, relativi ai corsi di studi della Facolta' di ingegneria, sono abrogati e sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi.
 
-Biologia molecolare;
+Art. 167. - La Facolta' di ingegneria conferisce:
 
-Endocrinologia;
+a) la laurea in Ingegneria civile (Sezioni edile, idraulica, trasporti);
 
-Enzimologia;
+b) la laurea in Ingegneria meccanica;
 
-Immunologia;
+c) la laurea in Ingegneria elettrotecnica;
 
-Neuroradiologia;
+d) la laurea in Ingegneria chimica;
 
-Puericultura pre-natale;
+e) la laurea in Ingegneria navale e meccanica;
 
-Virologia;
+f) la laurea in Ingegneria aeronautica;
 
-Virologia clinica;
+g) la laurea in Ingegneria elettronica.
 
-Lingua inglese (insegnamento aggiuntivo ma non sostitutivo di uno qualsiasi degli insegnamenti complementari).
+Art. 168. - Per il conferimento della laurea in Ingegneria, la durata del corso di studi e' di cinque anni, divisi in un biennio di studi propedeutici ed in un triennio di studi di applicazione.
 
-Art. 198. - E' modificato nel senso che il secondo comma, relativo alle modalita' degli esami di laurea della facolta' di ingegneria e' abrogato e sostituito dal seguente:
+Il titolo di ammissione e' il diploma di maturita' classica e scientifica.
 
-"L'esame di laurea consistera' in un colloquio basato su elaborati svolti dall'allievo durante l'ultimo anno del normale corso di studi, elaborati che l'allievo stesso presentera' a sua scelta. La commissione, nell'attribuire il voto di laurea non potra' aggiungere alla media degli esami dell'ultimo triennio (espressa in frazione di 110) un numero di punti superiore a undici".
+Biennio di studi propedeutici
 
-Art. 258, relativo alla scuola di perfezionamento in diritto civile e' modificato nel senso che il numero massimo degli iscritti e' fissato in centoventi.
+Art. 169. - Gli insegnamenti fondamentali comuni a tutti i corsi di laurea sono i seguenti:
 
-Art. 299, relativo alla scuola di perfezionamento in diritto e procedura penale, e' modificato nel senso che il numero massimo degli iscritti e' fissato in centoventi.
+Analisi matematica I;
 
-Presso la facolta' di giurisprudenza il corso di perfezionamento in diritto ecclesiastico e canonico muta denominazione in "Scuola di perfezionamento in diritto ecclesiastico e canonico".
+Geometria I;
 
-Art. 328, relativo agli insegnamenti che vengono impartiti nella suddetta scuola di perfezionamento in diritto ecclesiastico e canonico, e' modificato nel senso che l'insegnamento di diritto penale e canonico assume la denominazione seguente: "Diritto penale canonico".
+Fisica I;
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Chimica;
 
-Dato a Roma, addi' 19 settembre 1970
+Disegno;
 
-SARAGAT
+Analisi matematica II;
 
-MISASI
+Meccanica razionale;
 
-Visto, il Guardasigilli: REALE
+Fisica II.
+
+A questi vanno aggiunti:
+
+per l'Ingegneria Civile:
+
+Geometria II;
+
+Disegno Civile;
+
+per l'Ingegneria Meccanica ed Aeronautica:
+
+Chimica applicata;
+
+Disegno meccanico;
+
+per l'Ingegneria Elettrotecnica ed Elettronica:
+
+Tecnologie generali dei materiali;
+
+Disegno meccanico;
+
+per l'Ingegneria Chimica:
+
+Chimica organica;
+
+per l'Ingegneria Navale e Meccanica;
+
+Tecnologie generali dei materiali;
+
+Chimica applicata (obbligatoria sul piano nazionale);
+
+Disegno meccanico.
+
+Art. 170. - Gli studenti dei primo anno di corso potranno ottenere la iscrizione al secondo anno di corso qualora abbiano superato almeno due fra i quattro seguenti esami:
+
+Analisi matematica 1, Geometria I, Fisica I, Chimica.
+
+Fermi restando gli sbarramenti stabiliti dall'[art. 10 del decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53~art10), per il biennio propedeutico, per gli studenti dei corsi di laurea in Ingegneria Meccanica, Aeronautica, Navale e Meccanica l'esame della Chimica applicata potra' essere superato anche durante, il triennio degli studi applicazione.
+
+Triennio di applicazione - Laurea in Ingegneria civile (sezione Edile - Idraulica - Trasporti)
+
+Art. 171. - Gli insegnamenti per il conseguimento del a laurea in Ingegneria Civile sezione Edile sono i seguenti:
+
+a) obbligatori sul piano nazionale:
+
+1) Scienza delle costruzioni:
+
+2) Meccanica applicata alle macchine e macchine;
+
+3) Fisica tecnica;
+
+4) Elettrotecnica;
+
+5) Idraulica;
+
+6) Tecnologie dei materiali e Chimica applicata;
+
+7) Tecnica del e costruzioni;
+
+8) Architettura tecnica;
+
+9) Topografia;
+
+10) Architettura e composizione architettonica;
+
+b) obbligatori sul piano della Facolta':
+
+1) Costruzioni stradali;
+
+2) Costruzioni edili;
+
+3) Costruzioni idrauliche;
+
+4) Complementi di tecnica delle costruzioni;
+
+5) Geologia applicata;
+
+6) Materie giuridiche ed amministrative;
+
+7) Principi di economia ed estimo;
+
+c) gruppi di materie a scelta:
+
+1°) Indirizzo strutturale:
+
+1) Complementi di scienza delle costruzioni;
+
+2) Strutture speciali;
+
+2°) Indirizzo urbanistico:
+
+1) Tecnica urbanistica;
+
+2) Tecnica ed economia della pianificazione;
+
+3°) Indirizzo cantieristico:
+
+1) Impianti tecnici;
+
+2) Tecnica di cantiere e produttivita'.
+
+Art. 172. - Gli insegnamenti per il conseguimento della laurea in Ingegneria civile sezione Idraulica sono i seguenti:
+
+a) obbligatori sul piano nazionale:
+
+1) Scienza delle costruzioni;
+
+2) Meccanica applicata alle macchine e Macchine;
+
+3) Fisica tecnica;
+
+4) Elettrotecnica,;
+
+5) Idraulica;
+
+6) Tecnologie dei materiali e Chimica applicata;
+
+7) Tecnica delle costruzioni;
+
+8) Architettura tecnica;
+
+9) Topografia;
+
+10) Costruzioni idrauliche;
+
+b) obbligatori sul piano della Facolta':
+
+1) Acquedotti e fognature;
+
+2) Costruzioni stradali;
+
+3) Complementi di idraulica;
+
+4) Geologia applicata;
+
+5) Ingegneria sanitaria;
+
+6) Materie giuridiche ed amministrative;
+
+7) Principi di economia ed estimo;
+
+8) Tecnica delle fondazioni e costruzioni in terra;
+
+c) gruppi di materie a scelta:
+
+1° gruppo - Opere pubbliche:
+
+1) Bonifiche ed irrigazioni;
+
+2) Costruzioni marittime;
+
+2° gruppo - Opere industriali:
+
+1) Impianti idroelettrici;
+
+2) Strutture speciali
+
+Art. 173. - Gli insegnamenti per il conseguimento della laurea in Ingegneria civile sezione Trasporti sono i seguenti:
+
+a) obbligatori su piano nazionale:
+
+1) Scienza delle costruzioni;
+
+2) Meccanica applicata alle macchine e Macchine;
+
+3) Fisica tecnica;
+
+4) Elettrotecnica;
+
+5) Idraulica;
+
+6) Tecnologie dei materiali e Chimica applicata;
+
+7) Tecnica delle costruzioni;
+
+8) Architettura tecnica;
+
+9) Topografia;
+
+10) Costruzioni di strade, ferrovie ed aeroporti:
+
+b) obbligatori sul piano della Facolta',:
+
+1) Costruzioni idrauliche;
+
+2) Costruzioni di ponti;
+
+3) Geologia applicata;
+
+4) Materie giuridiche ed amministrative;
+
+5) Tecnica ed economia dei trasporti;
+
+6) Principi di economia ed estimo;
+
+c) gruppi di materie a scelta:
+
+1°) Infrastrutture:
+
+1) Complementi di costruzioni di strade, ferrovie ed aeroporti;
+
+2) Tecnica delle fondazioni e delle costruzioni in terra:
+
+3) Macchine ed organizzazione del cantiere;
+
+2°) Esercizio:
+
+1) Complementi di tecnica ed economia dei trasporti;
+
+2) Trazione elettrica;
+
+3) Tecnica del traffico e della circolazione.
+
+Laurea in Ingegneria meccanica
+
+Art. 174. - Gli insegnamenti per il conseguimento della laurea in Ingegneria meccanica sono i seguenti:
+
+a) obbligatori sul piano nazionale:
+
+1) Scienza delle costruzioni;
+
+2) Meccanica applicata alle macchine;
+
+3) Fisica tecnica;
+
+4) Elettrotecnica;
+
+5) Idraulica;
+
+6) Chimica applicata;
+
+7) Macchine;
+
+8) Costruzioni di macchine;
+
+9) Impianti meccanici;
+
+10) Tecnologia meccanica;
+
+b) obbligatori sul piano della, Facolta':
+
+1) Chimica industriale;
+
+2) Costruzioni metalliche;
+
+3) Gasdinamica;
+
+4) Materie giuridiche ed amministrative;
+
+5) Misure e norme di collaudo;
+
+6) Progetti di macchine;
+
+c) gruppi di materie a scelta:
+
+1°) Macchine a fluido;
+
+1) Teoria e tecnica delle vibrazioni;
+
+2) Motori per aeromobili;
+
+3) Macchine marine;
+
+4) Reattori nucleari;
+
+2°) Meccanica generale:
+
+1) Macchine di sollevamento e trasporto;
+
+2) Servomeccanismi ed automazione;
+
+3) Impianti tecnologici;
+
+4) Termotecnica applicata.
+
+Laurea in Ingegneria elettrotecnica
+
+Art. 175. - Gli insegnamenti per il conseguimento della laurea in Ingegneria elettrotecnica sono i seguenti:
+
+a) obbligatori sul piano nazionale:
+
+1) Scienza delle costruzioni;
+
+2) Meccanica applicata alle macchine;
+
+3) fisica tecnica;
+
+4) Elettrotecnica.
+
+5) Idraulica;
+
+6) Misure elettriche;
+
+7) Macchine;
+
+8) Macchine elettriche;
+
+9) Impianti elettrici;
+
+10) Elettronica applicata
+
+b) obbligatori sul piano della Facolta':
+
+1) Complementi di matematica;
+
+2) Costruzioni elettromeccaniche;
+
+3) Misure elettriche II;
+
+4) Controlli automatici;
+
+5) Materie giuridiche ed amministrative;
+
+6) Trazione elettrica
+
+c) gruppi di materie a scelta:
+
+1°) Elettromeccanico:
+
+1) Tecnologie meccaniche IV anno:
+
+2) Costruzioni di macchine V anno;
+
+2°) Impianti:
+
+1) Comunicazioni elettriche IV anno;
+
+2) Impianti idroelettrici V anno;
+
+Laurea in Ingegneria chimica
+
+Art. 176. - Gli insegnamenti per il conseguimento della laurea in Ingegneria chimica sono i seguenti:
+
+a) obbligatori sul piano nazionale:
+
+1) Scienza delle costruzioni;
+
+2) Meccanica applicata alle macchine;
+
+3) Fisica tecnica;
+
+4) Elettrotecnica;
+
+5) Chimica fisica;
+
+6) Chimica' applicata;
+
+7) Macchine;
+
+8) Principi di Ingegneria chimica;
+
+9) Chimica industriale;
+
+10) Impianti chimici;
+
+b) obbligatori sul piano della Facolta':
+
+1) Chimica organica e industriale;
+
+2) Costruzioni di macchine;
+
+3) Complementi di chimica;
+
+4) Elettrochimica;
+
+5) Idraulica;
+
+6) Misure e controllo;
+
+7) Progetti di apparecchiature per l'industria chimica;
+
+8) Teoria e sviluppo dei processi chimici;
+
+9) Tecnologie meccaniche;
+
+c) gruppi di materie a scelta:
+
+I:
+
+1) Metallurgia e metallografia al IV anno;
+
+2) Corrosioni al V anno;
+
+II:
+
+1) Termotecnica applica al IV anno;
+
+2) Reattori nucleari al V anno.
+
+Laurea in Ingegneria navale e meccanica
+
+Art. 177. Gli insegnamenti per il conseguimento della laurea in Ingegneria navale e meccanica sono i seguenti:
+
+a) obbligatori sul piano nazionale:
+
+1) Scienza delle costruzioni;
+
+2) Meccanica applicata alle macchine;
+
+3) Fisica tecnica;
+
+4) Elettrotecnica;
+
+5) Idraulica;
+
+6) Chimica applicata;
+
+7) Macchine;
+
+8) Costruzioni navali mercantili;
+
+9) Costruzioni navali militari;
+
+10) Architettura navale;
+
+b) obbligatori sul piano della Facolta':
+
+1) Aerodinamica;
+
+2) Complementi di matematica;
+
+3) Costruzioni di macchine;
+
+4) Materie giuridiche ed amministrative;
+
+5) Macchine marine;
+
+6) Progetto delle navi;
+
+7) Statica della nave;
+
+8) Tecnologia della nave;
+
+c) gruppi di materie a scelta:
+
+I:
+
+1) Navi speciali;
+
+2) Attrezzature e strumenti di bordo;
+
+II:
+
+1) Progetti di macchine;
+
+2) Reattori nucleari;
+
+III:
+
+1) Corrosioni;
+
+2) Macchine elettriche;
+
+IV:
+
+1) Motori per aeromobili;
+
+2) Elementi costruttivi di missili
+
+V:
+
+1) Tecnologie meccaniche;
+
+2) Metallurgia e metallografia.
+
+Laurea in Ingegneria aeronautica
+
+Art. 178. - Gli insegnamenti per il conseguimento della laurea in Ingegneria aeronautica sono i seguenti:
+
+a) obbligatori sul piano nazionale:
+
+1) Scienza delle costruzioni;
+
+2) Meccanica applicata alle macchine;
+
+3) Fisica tecnica;
+
+4) Elettrotecnica;
+
+5) Aerodinamica;
+
+6) Chimica applicata;
+
+7) Motori per aeromobili;
+
+8) Costruzioni aeronautiche;
+
+9) Aeronautica generale;
+
+10) Gasdinamica;
+
+b) obbligatori sul piano della Facolta':
+
+1) Aeronomia e meteorologia aeronautica;
+
+2) Elettronica applicata;
+
+3) Impianti aeronautici e servomeccanismi;
+
+4) Macchine:
+
+5) Meccanica del volo;
+
+6) Tecnologie generali dei materiali;
+
+c) gruppi di materie a scelta;
+
+1°) Velivoli
+
+1) Velivoli a in volo verticale V anno;
+
+2) Manovra, prove in volo e strumenti V anno;
+
+3) Organizzazione dei servizi aerei V anno;
+
+4) Progetti velivoli V anno;
+
+2°) Missili;
+
+1) Aerodinamica II (Iperaerodinamica) V anno;
+
+2) Balistica e cibernetica missilistica V anno;
+
+3) Razzi e propulsione spaziale V anno;
+
+4) Elementi costruttivi di missili V anno.
+
+Laurea in Ingegneria elettronica
+
+Art. 179. - Gli insegnamenti per il conseguimento della laurea in Ingegneria elettronica sono i seguenti:
+
+a) obbligatori sul piano nazionale:
+
+1) Scienza delle costruzioni;
+
+2) Meccanica delle macchine e Macchine;
+
+3) Fisica tecnica;
+
+4) Elettrotecnica;
+
+5) Campi elettromagnetica e circuiti;
+
+6) Misure elettriche;
+
+7) Comunicazioni elettriche;
+
+8) Elettronica applicata;
+
+9) Controlli automatici;
+
+10) Radiotecnica;
+
+b obbligatori sul piano della Facolta':
+
+1) Complementi di matematica;
+
+2) Impianti elettrici;
+
+3) Idraulica;.
+
+4) Materie giuridiche ed amministrative;
+
+5) Misure elettriche;
+
+6) Macchine elettriche;
+
+c) gruppi di materie a scelta:
+
+I;
+
+1) Telefonia e telegrafia IV anuo;
+
+2) Calcolatori elettronici V anno;
+
+II;
+
+1) Reattori nucleari IV anno;
+
+2) Elettronica nucleare V anno.
+
+Art. 180. - Agli effetti della successione degli insegnamenti e dei relativi esami sono da considerarsi come propedeutiche:
+
+1) la Geometria I e l'Analisi matematica I rispetto alla Geometria II, all'Analisi II, a la Meccanica razionale;
+
+2) la Fisica I rispetto alla Fisica II;
+
+3) il Disegno I rispetto al Disegno civile e meccanico.
+
+4) La Scienza delle costruzioni rispetto alla Tecnica delle costruzioni, alle Costruzioni di strade ferrovie ed aeroporti, alle Costruzioni idrauliche, alle Costruzioni di ponti, alle Costruzioni di macchine, alle Costruzioni elettromeccaniche, alle Costruzioni aeronautiche, al e Costruzioni navali mercantili, alle Costruzioni navali militari, alle Costruzioni di macchine elettriche, alle Costruzioni edili, alle Costruzioni marittime, alle Costruzioni metalliche, ai complementi (i scienza delle costruzioni, alle Strutture speciali, alla Tecnica delle fondazioni e costruzioni in terra, alla Statica della nave;
+
+5) la Meccanica applicata alle macchine rispetto alle Costruzioni di macchine, alle Macchine, alle Costruzioni aeronautiche;
+
+6) l'Idraulica rispetto alle Costruzioni idrauliche alla Architettura navale,- ai complementi di idraulica, alla Ingegneria sanitaria, alla Tecnica delle fondazioni e costruzioni in terra, alle Costruzioni di strade, ferrovie ed aeroporti;
+
+7) le Costruzioni idrauliche rispetto agli acquedotti e fognature, alle Bonifiche ed irrigazioni, agli impianti idroelettrici, alle Costruzioni marittime;
+
+8) complementi di idraulica rispetto agli acquedotti e fognature, alle Bonifiche ed irrigazioni agli impianti idroelettrici, alle Costruzioni marittime;
+
+9) la Meccanica applicata alle macchine e macchine rispetto agli Acquedotti e fognature,: alle Bonifiche ed irrigazioni, agli impianti idroelettrici, ai Complementi di strade, ferrovie ed aeroporti, alle Macchine ed organizzazione di cantieri, ai Complementi di tecnica ed economia dei trasporti, alla Trazione elettrica;
+
+10) la Tecnica delle costruzioni rispetto alle Strutture speciali;
+
+11) la Fisica tecnica rispetto alle Macchine e alla Meccanica applicata alle macchine e macchine;
+
+12) l'Architettura tecnica rispetto all'Architettura e composizione architettonica, alle Costruzioni edili;
+
+13) la Topografia rispetto alle Costruzioni di strade, ferrovie ed aeroporti;
+
+14) l'Elettrotecnica rispetto alle Macchine elettriche, all'Elettronica applicata, alle Misure elettriche, agli Impianti idroelettrici, ai Campi elettromagnetici e circuiti;
+
+15) l'Elettronica applicata rispetto alle Comunicazioni elettriche, ai Controlli autolatici, alla Elettronica nucleare, alla Radiotecnica, alla Telefonia e telegrafia, ai Calcolatori elettronici;
+
+16) le Macchine elettriche rispetto alle Costruzioni elettromeccaniche, agli Impianti elettrici, ai Controlli automatici, ai Reattori nucleari, alle Misure II, alla Trazione elettrica;
+
+17) le Macchine e le Costruzioni di macchine rispetto ai motori per aeromobili, alle Macchine marine, ai progetti di macchine;
+
+18) le Tecnologie generali rispetto agli Impianti meccanici, alle Tecnologie meccaniche, agli Impianti tecnologici;
+
+19) le Costruzioni navali mercantili rispetto alle Costruzioni navali militari;
+
+20) l'Aerodinamica rispetto alla Aeronautica generale, alla Aerodinamica II;
+
+21) L'Aeronautica generale rispetto alla Manovra, prova in volo e strumenti ed ai Progetti di velivoli;
+
+22) la Geologia, applicata rispetto alle Costruzioni di strade, ferrovie ed aeroporti, alle Costruzioni idrauliche, alle Costruzioni di ponti, alla Tecnica delle fondazioni e costruzioni in terra;
+
+23) le costruzioni di strade, ferrovie ed' aeroporti rispetto ai Complementi di costruzioni di strade, ferrovie ed aeroporti, a la Tecnica delle fondazioni e costruzioni in terra, alle Macchine ed organizzazione di cantiere, alla Tecnica del traffico e della circolazione;
+
+24) la Tecnica ed economia dei trasporti rispetto ai Complementi di tecnica economia dei trasporti a Trazione elettrica, alla Tecnica del traffico e del a circolazione;
+
+25) la Tecnica delle costruzioni rispetto ai Complementi di tecnica delle costruzioni, alle Strutture speciali;
+
+26) la Tecnica urbanistica rispetto alla Tecnica della pianificazione.
+
+Gli esami delle materie propedeutiche sopra indicati devono essere sostenuti prima degli esami delle materie cui servono di preparazione.
+
+Art. 181. - Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superato gli esami:
+
+a) nelle materie obbligatorie sul piano nazionale;
+
+b) nelle materie obbligatorie sul piano della Facolta';
+
+c) in una sola materia a scelta fra quelle indicate all'art. 172 per Ingegneria civile sezione Idraulica; in un solo gruppo di materie a scelta fra quelle indicate per il conseguimento di tutte le altre lauree. Non potra' sostituire qualche materia del gruppo prescelto con altra presa da gruppo diverso.
+
+Art. 182. - Gli esami di profitto consistono di norma in una prova orale sulle materie ed in una discussione sui risultati delle esercitazioni e sui progetti.
+
+Gli esami di laurea consistono nella discussione di una tesi, su tema specifico per il ramo di Ingegneria prescelto, svolta sotto la guida di un professore della Facolta'.
+
+Il candidato deve depositare la tesi di laurea almeno otto giorni prima della data fissata per la prova di esame.
+
+Art. 183. - Per i laureati in Ingegneria che aspirano a conseguire una seconda laurea, in un ramo diverso da quello nel quale sono laureati, il Rettore, tenuto conto degli studi fatti e udito il Consiglio dei professori della Facolta', fissa l'anno di iscrizione e il numero degli insegnamenti che l'aspirante deve seguire e sui quali deve sostenere gli esami.
+
+I laureati in Fisica, i quali durante il precedente corso di studi abbiano superato gli esami in tutti gli insegnamenti propri del biennio di studi propedeutici di Ingegneria, possono conseguire la laurea in due anni.
+
+Il Rettore, tenuto conto degli studi fatti e udito il Consiglio dei professori della Facolta', fissa l'anno di iscrizione e il numero degli insegnamenti che l'aspirante deve seguire e sui quali deve sostenere gli esami.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservano e di farlo osservare.
+
+Dato a Roma, addi' 30 ottobre 1960
+
+GRONCHI
+
+BOSCO
+
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 26 ottobre 1970 Atti del Governo, registro n. 238, foglio n. 14. - CARUSO
+alla Corte dei conti, addi' 6 luglio 1961 Atti del Governo, registro n. 137, foglio n. 70 - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successivi;  
+Veduto il testo unico, delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Veduta la legge il aie 1953, n. 312;  
+Veduto il [decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 23, relativo alle propedeuticita' di iscrizione e di esami del corso di laurea in giurisprudenza e' modificato nel senso che viene aggiunta la seguente nuova propedeuticita': "f) le istituzioni di diritto privato rispetto al diritto di autore".  
-Art. 116. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
-Biologia molecolare;  
-Endocrinologia;  
-Enzimologia;  
-Immunologia;  
-Neuroradiologia;  
-Puericultura pre-natale;  
-Virologia;  
-Virologia clinica;  
-Lingua inglese (insegnamento aggiuntivo ma non sostitutivo di uno qualsiasi degli insegnamenti complementari).  
-Art. 198. - E' modificato nel senso che il secondo comma, relativo alle modalita' degli esami di laurea della facolta' di ingegneria e' abrogato e sostituito dal seguente:  
-"L'esame di laurea consistera' in un colloquio basato su elaborati svolti dall'allievo durante l'ultimo anno del normale corso di studi, elaborati che l'allievo stesso presentera' a sua scelta. La commissione, nell'attribuire il voto di laurea non potra' aggiungere alla media degli esami dell'ultimo triennio (espressa in frazione di 110) un numero di punti superiore a undici".  
-Art. 258, relativo alla scuola di perfezionamento in diritto civile e' modificato nel senso che il numero massimo degli iscritti e' fissato in centoventi.  
-Art. 299, relativo alla scuola di perfezionamento in diritto e procedura penale, e' modificato nel senso che il numero massimo degli iscritti e' fissato in centoventi.  
-Presso la facolta' di giurisprudenza il corso di perfezionamento in diritto ecclesiastico e canonico muta denominazione in "Scuola di perfezionamento in diritto ecclesiastico e canonico".  
-Art. 328, relativo agli insegnamenti che vengono impartiti nella suddetta scuola di perfezionamento in diritto ecclesiastico e canonico, e' modificato nel senso che l'insegnamento di diritto penale e canonico assume la denominazione seguente: "Diritto penale canonico".  
+Lo statuto dell'Universita' degli studi di Napoli) approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli da 142 a 145, relativi al biennio di studi propedeutici in ingegneria, in seno alla Facolta' di Scienze matematiche, fisiche e naturali, sono soppressi.  
+Gli articoli da 167 a 174, relativi ai corsi di studi della Facolta' di ingegneria, sono abrogati e sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi.  
+  
+Art. 167. - La Facolta' di ingegneria conferisce:  
+a) la laurea in Ingegneria civile (Sezioni edile, idraulica, trasporti);  
+b) la laurea in Ingegneria meccanica;  
+c) la laurea in Ingegneria elettrotecnica;  
+d) la laurea in Ingegneria chimica;  
+e) la laurea in Ingegneria navale e meccanica;  
+f) la laurea in Ingegneria aeronautica;  
+g) la laurea in Ingegneria elettronica.  
+  
+Art. 168. - Per il conferimento della laurea in Ingegneria, la durata del corso di studi e' di cinque anni, divisi in un biennio di studi propedeutici ed in un triennio di studi di applicazione.  
+Il titolo di ammissione e' il diploma di maturita' classica e scientifica.  
+Biennio di studi propedeutici  
+  
+Art. 169. - Gli insegnamenti fondamentali comuni a tutti i corsi di laurea sono i seguenti:  
+Analisi matematica I;  
+Geometria I;  
+Fisica I;  
+Chimica;  
+Disegno;  
+Analisi matematica II;  
+Meccanica razionale;  
+Fisica II.  
+A questi vanno aggiunti:  
+per l'Ingegneria Civile:  
+Geometria II;  
+Disegno Civile;  
+per l'Ingegneria Meccanica ed Aeronautica:  
+Chimica applicata;  
+Disegno meccanico;  
+per l'Ingegneria Elettrotecnica ed Elettronica:  
+Tecnologie generali dei materiali;  
+Disegno meccanico;  
+per l'Ingegneria Chimica:  
+Chimica organica;  
+per l'Ingegneria Navale e Meccanica;  
+Tecnologie generali dei materiali;  
+Chimica applicata (obbligatoria sul piano nazionale);  
+Disegno meccanico.  
+  
+Art. 170. - Gli studenti dei primo anno di corso potranno ottenere la iscrizione al secondo anno di corso qualora abbiano superato almeno due fra i quattro seguenti esami:  
+Analisi matematica 1, Geometria I, Fisica I, Chimica.  
+Fermi restando gli sbarramenti stabiliti dall'[art. 10 del decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53~art10), per il biennio propedeutico, per gli studenti dei corsi di laurea in Ingegneria Meccanica, Aeronautica, Navale e Meccanica l'esame della Chimica applicata potra' essere superato anche durante, il triennio degli studi applicazione.  
+  
+Triennio di applicazione - Laurea in Ingegneria civile (sezione Edile - Idraulica - Trasporti)  
+  
+Art. 171. - Gli insegnamenti per il conseguimento del a laurea in Ingegneria Civile sezione Edile sono i seguenti:  
+a) obbligatori sul piano nazionale:  
+1) Scienza delle costruzioni:  
+2) Meccanica applicata alle macchine e macchine;  
+3) Fisica tecnica;  
+4) Elettrotecnica;  
+5) Idraulica;  
+6) Tecnologie dei materiali e Chimica applicata;  
+7) Tecnica del e costruzioni;  
+8) Architettura tecnica;  
+9) Topografia;  
+10) Architettura e composizione architettonica;  
+b) obbligatori sul piano della Facolta':  
+1) Costruzioni stradali;  
+2) Costruzioni edili;  
+3) Costruzioni idrauliche;  
+4) Complementi di tecnica delle costruzioni;  
+5) Geologia applicata;  
+6) Materie giuridiche ed amministrative;  
+7) Principi di economia ed estimo;  
+c) gruppi di materie a scelta:  
+1°) Indirizzo strutturale:  
+1) Complementi di scienza delle costruzioni;  
+2) Strutture speciali;  
+2°) Indirizzo urbanistico:  
+1) Tecnica urbanistica;  
+2) Tecnica ed economia della pianificazione;  
+3°) Indirizzo cantieristico:  
+1) Impianti tecnici;  
+2) Tecnica di cantiere e produttivita'.  
+  
+Art. 172. - Gli insegnamenti per il conseguimento della laurea in Ingegneria civile sezione Idraulica sono i seguenti:  
+a) obbligatori sul piano nazionale:  
+1) Scienza delle costruzioni;  
+2) Meccanica applicata alle macchine e Macchine;  
+3) Fisica tecnica;  
+4) Elettrotecnica,;  
+5) Idraulica;  
+6) Tecnologie dei materiali e Chimica applicata;  
+7) Tecnica delle costruzioni;  
+8) Architettura tecnica;  
+9) Topografia;  
+10) Costruzioni idrauliche;  
+b) obbligatori sul piano della Facolta':  
+1) Acquedotti e fognature;  
+2) Costruzioni stradali;  
+3) Complementi di idraulica;  
+4) Geologia applicata;  
+5) Ingegneria sanitaria;  
+6) Materie giuridiche ed amministrative;  
+7) Principi di economia ed estimo;  
+8) Tecnica delle fondazioni e costruzioni in terra;  
+c) gruppi di materie a scelta:  
+1° gruppo - Opere pubbliche:  
+1) Bonifiche ed irrigazioni;  
+2) Costruzioni marittime;  
+2° gruppo - Opere industriali:  
+1) Impianti idroelettrici;  
+2) Strutture speciali  
+  
+Art. 173. - Gli insegnamenti per il conseguimento della laurea in Ingegneria civile sezione Trasporti sono i seguenti:  
+a) obbligatori su piano nazionale:  
+1) Scienza delle costruzioni;  
+2) Meccanica applicata alle macchine e Macchine;  
+3) Fisica tecnica;  
+4) Elettrotecnica;  
+5) Idraulica;  
+6) Tecnologie dei materiali e Chimica applicata;  
+7) Tecnica delle costruzioni;  
+8) Architettura tecnica;  
+9) Topografia;  
+10) Costruzioni di strade, ferrovie ed aeroporti:  
+b) obbligatori sul piano della Facolta',:  
+1) Costruzioni idrauliche;  
+2) Costruzioni di ponti;  
+3) Geologia applicata;  
+4) Materie giuridiche ed amministrative;  
+5) Tecnica ed economia dei trasporti;  
+6) Principi di economia ed estimo;  
+c) gruppi di materie a scelta:  
+1°) Infrastrutture:  
+1) Complementi di costruzioni di strade, ferrovie ed aeroporti;  
+2) Tecnica delle fondazioni e delle costruzioni in terra:  
+3) Macchine ed organizzazione del cantiere;  
+2°) Esercizio:  
+1) Complementi di tecnica ed economia dei trasporti;  
+2) Trazione elettrica;  
+3) Tecnica del traffico e della circolazione.  
+  
+Laurea in Ingegneria meccanica  
+  
+Art. 174. - Gli insegnamenti per il conseguimento della laurea in Ingegneria meccanica sono i seguenti:  
+a) obbligatori sul piano nazionale:  
+1) Scienza delle costruzioni;  
+2) Meccanica applicata alle macchine;  
+3) Fisica tecnica;  
+4) Elettrotecnica;  
+5) Idraulica;  
+6) Chimica applicata;  
+7) Macchine;  
+8) Costruzioni di macchine;  
+9) Impianti meccanici;  
+10) Tecnologia meccanica;  
+b) obbligatori sul piano della, Facolta':  
+1) Chimica industriale;  
+2) Costruzioni metalliche;  
+3) Gasdinamica;  
+4) Materie giuridiche ed amministrative;  
+5) Misure e norme di collaudo;  
+6) Progetti di macchine;  
+c) gruppi di materie a scelta:  
+1°) Macchine a fluido;  
+1) Teoria e tecnica delle vibrazioni;  
+2) Motori per aeromobili;  
+3) Macchine marine;  
+4) Reattori nucleari;  
+2°) Meccanica generale:  
+1) Macchine di sollevamento e trasporto;  
+2) Servomeccanismi ed automazione;  
+3) Impianti tecnologici;  
+4) Termotecnica applicata.  
+  
+Laurea in Ingegneria elettrotecnica  
+  
+Art. 175. - Gli insegnamenti per il conseguimento della laurea in Ingegneria elettrotecnica sono i seguenti:  
+a) obbligatori sul piano nazionale:  
+1) Scienza delle costruzioni;  
+2) Meccanica applicata alle macchine;  
+3) fisica tecnica;  
+4) Elettrotecnica.  
+5) Idraulica;  
+6) Misure elettriche;  
+7) Macchine;  
+8) Macchine elettriche;  
+9) Impianti elettrici;  
+10) Elettronica applicata  
+b) obbligatori sul piano della Facolta':  
+1) Complementi di matematica;  
+2) Costruzioni elettromeccaniche;  
+3) Misure elettriche II;  
+4) Controlli automatici;  
+5) Materie giuridiche ed amministrative;  
+6) Trazione elettrica  
+c) gruppi di materie a scelta:  
+1°) Elettromeccanico:  
+1) Tecnologie meccaniche IV anno:  
+2) Costruzioni di macchine V anno;  
+2°) Impianti:  
+1) Comunicazioni elettriche IV anno;  
+2) Impianti idroelettrici V anno;  
+  
+Laurea in Ingegneria chimica  
+  
+Art. 176. - Gli insegnamenti per il conseguimento della laurea in Ingegneria chimica sono i seguenti:  
+a) obbligatori sul piano nazionale:  
+1) Scienza delle costruzioni;  
+2) Meccanica applicata alle macchine;  
+3) Fisica tecnica;  
+4) Elettrotecnica;  
+5) Chimica fisica;  
+6) Chimica' applicata;  
+7) Macchine;  
+8) Principi di Ingegneria chimica;  
+9) Chimica industriale;  
+10) Impianti chimici;  
+b) obbligatori sul piano della Facolta':  
+1) Chimica organica e industriale;  
+2) Costruzioni di macchine;  
+3) Complementi di chimica;  
+4) Elettrochimica;  
+5) Idraulica;  
+6) Misure e controllo;  
+7) Progetti di apparecchiature per l'industria chimica;  
+8) Teoria e sviluppo dei processi chimici;  
+9) Tecnologie meccaniche;  
+c) gruppi di materie a scelta:  
+I:  
+1) Metallurgia e metallografia al IV anno;  
+2) Corrosioni al V anno;  
+II:  
+1) Termotecnica applica al IV anno;  
+2) Reattori nucleari al V anno.  
+  
+Laurea in Ingegneria navale e meccanica  
+  
+Art. 177. Gli insegnamenti per il conseguimento della laurea in Ingegneria navale e meccanica sono i seguenti:  
+a) obbligatori sul piano nazionale:  
+1) Scienza delle costruzioni;  
+2) Meccanica applicata alle macchine;  
+3) Fisica tecnica;  
+4) Elettrotecnica;  
+5) Idraulica;  
+6) Chimica applicata;  
+7) Macchine;  
+8) Costruzioni navali mercantili;  
+9) Costruzioni navali militari;  
+10) Architettura navale;  
+b) obbligatori sul piano della Facolta':  
+1) Aerodinamica;  
+2) Complementi di matematica;  
+3) Costruzioni di macchine;  
+4) Materie giuridiche ed amministrative;  
+5) Macchine marine;  
+6) Progetto delle navi;  
+7) Statica della nave;  
+8) Tecnologia della nave;  
+c) gruppi di materie a scelta:  
+I:  
+1) Navi speciali;  
+2) Attrezzature e strumenti di bordo;  
+II:  
+1) Progetti di macchine;  
+2) Reattori nucleari;  
+III:  
+1) Corrosioni;  
+2) Macchine elettriche;  
+IV:  
+1) Motori per aeromobili;  
+2) Elementi costruttivi di missili  
+V:  
+1) Tecnologie meccaniche;  
+2) Metallurgia e metallografia.  
+  
+Laurea in Ingegneria aeronautica  
+  
+Art. 178. - Gli insegnamenti per il conseguimento della laurea in Ingegneria aeronautica sono i seguenti:  
+a) obbligatori sul piano nazionale:  
+1) Scienza delle costruzioni;  
+2) Meccanica applicata alle macchine;  
+3) Fisica tecnica;  
+4) Elettrotecnica;  
+5) Aerodinamica;  
+6) Chimica applicata;  
+7) Motori per aeromobili;  
+8) Costruzioni aeronautiche;  
+9) Aeronautica generale;  
+10) Gasdinamica;  
+b) obbligatori sul piano della Facolta':  
+1) Aeronomia e meteorologia aeronautica;  
+2) Elettronica applicata;  
+3) Impianti aeronautici e servomeccanismi;  
+4) Macchine:  
+5) Meccanica del volo;  
+6) Tecnologie generali dei materiali;  
+c) gruppi di materie a scelta;  
+1°) Velivoli  
+1) Velivoli a in volo verticale V anno;  
+2) Manovra, prove in volo e strumenti V anno;  
+3) Organizzazione dei servizi aerei V anno;  
+4) Progetti velivoli V anno;  
+2°) Missili;  
+1) Aerodinamica II (Iperaerodinamica) V anno;  
+2) Balistica e cibernetica missilistica V anno;  
+3) Razzi e propulsione spaziale V anno;  
+4) Elementi costruttivi di missili V anno.  
+  
+Laurea in Ingegneria elettronica  
+  
+Art. 179. - Gli insegnamenti per il conseguimento della laurea in Ingegneria elettronica sono i seguenti:  
+a) obbligatori sul piano nazionale:  
+1) Scienza delle costruzioni;  
+2) Meccanica delle macchine e Macchine;  
+3) Fisica tecnica;  
+4) Elettrotecnica;  
+5) Campi elettromagnetica e circuiti;  
+6) Misure elettriche;  
+7) Comunicazioni elettriche;  
+8) Elettronica applicata;  
+9) Controlli automatici;  
+10) Radiotecnica;  
+b obbligatori sul piano della Facolta':  
+1) Complementi di matematica;  
+2) Impianti elettrici;  
+3) Idraulica;.  
+4) Materie giuridiche ed amministrative;  
+5) Misure elettriche;  
+6) Macchine elettriche;  
+c) gruppi di materie a scelta:  
+I;  
+1) Telefonia e telegrafia IV anuo;  
+2) Calcolatori elettronici V anno;  
+II;  
+1) Reattori nucleari IV anno;  
+2) Elettronica nucleare V anno.  
+  
+Art. 180. - Agli effetti della successione degli insegnamenti e dei relativi esami sono da considerarsi come propedeutiche:  
+1) la Geometria I e l'Analisi matematica I rispetto alla Geometria II, all'Analisi II, a la Meccanica razionale;  
+2) la Fisica I rispetto alla Fisica II;  
+3) il Disegno I rispetto al Disegno civile e meccanico.  
+4) La Scienza delle costruzioni rispetto alla Tecnica delle costruzioni, alle Costruzioni di strade ferrovie ed aeroporti, alle Costruzioni idrauliche, alle Costruzioni di ponti, alle Costruzioni di macchine, alle Costruzioni elettromeccaniche, alle Costruzioni aeronautiche, al e Costruzioni navali mercantili, alle Costruzioni navali militari, alle Costruzioni di macchine elettriche, alle Costruzioni edili, alle Costruzioni marittime, alle Costruzioni metalliche, ai complementi (i scienza delle costruzioni, alle Strutture speciali, alla Tecnica delle fondazioni e costruzioni in terra, alla Statica della nave;  
+5) la Meccanica applicata alle macchine rispetto alle Costruzioni di macchine, alle Macchine, alle Costruzioni aeronautiche;  
+6) l'Idraulica rispetto alle Costruzioni idrauliche alla Architettura navale,- ai complementi di idraulica, alla Ingegneria sanitaria, alla Tecnica delle fondazioni e costruzioni in terra, alle Costruzioni di strade, ferrovie ed aeroporti;  
+7) le Costruzioni idrauliche rispetto agli acquedotti e fognature, alle Bonifiche ed irrigazioni, agli impianti idroelettrici, alle Costruzioni marittime;  
+8) complementi di idraulica rispetto agli acquedotti e fognature, alle Bonifiche ed irrigazioni agli impianti idroelettrici, alle Costruzioni marittime;  
+9) la Meccanica applicata alle macchine e macchine rispetto agli Acquedotti e fognature,: alle Bonifiche ed irrigazioni, agli impianti idroelettrici, ai Complementi di strade, ferrovie ed aeroporti, alle Macchine ed organizzazione di cantieri, ai Complementi di tecnica ed economia dei trasporti, alla Trazione elettrica;  
+10) la Tecnica delle costruzioni rispetto alle Strutture speciali;  
+11) la Fisica tecnica rispetto alle Macchine e alla Meccanica applicata alle macchine e macchine;  
+12) l'Architettura tecnica rispetto all'Architettura e composizione architettonica, alle Costruzioni edili;  
+13) la Topografia rispetto alle Costruzioni di strade, ferrovie ed aeroporti;  
+14) l'Elettrotecnica rispetto alle Macchine elettriche, all'Elettronica applicata, alle Misure elettriche, agli Impianti idroelettrici, ai Campi elettromagnetici e circuiti;  
+15) l'Elettronica applicata rispetto alle Comunicazioni elettriche, ai Controlli autolatici, alla Elettronica nucleare, alla Radiotecnica, alla Telefonia e telegrafia, ai Calcolatori elettronici;  
+16) le Macchine elettriche rispetto alle Costruzioni elettromeccaniche, agli Impianti elettrici, ai Controlli automatici, ai Reattori nucleari, alle Misure II, alla Trazione elettrica;  
+17) le Macchine e le Costruzioni di macchine rispetto ai motori per aeromobili, alle Macchine marine, ai progetti di macchine;  
+18) le Tecnologie generali rispetto agli Impianti meccanici, alle Tecnologie meccaniche, agli Impianti tecnologici;  
+19) le Costruzioni navali mercantili rispetto alle Costruzioni navali militari;  
+20) l'Aerodinamica rispetto alla Aeronautica generale, alla Aerodinamica II;  
+21) L'Aeronautica generale rispetto alla Manovra, prova in volo e strumenti ed ai Progetti di velivoli;  
+22) la Geologia, applicata rispetto alle Costruzioni di strade, ferrovie ed aeroporti, alle Costruzioni idrauliche, alle Costruzioni di ponti, alla Tecnica delle fondazioni e costruzioni in terra;  
+23) le costruzioni di strade, ferrovie ed' aeroporti rispetto ai Complementi di costruzioni di strade, ferrovie ed aeroporti, a la Tecnica delle fondazioni e costruzioni in terra, alle Macchine ed organizzazione di cantiere, alla Tecnica del traffico e della circolazione;  
+24) la Tecnica ed economia dei trasporti rispetto ai Complementi di tecnica economia dei trasporti a Trazione elettrica, alla Tecnica del traffico e del a circolazione;  
+25) la Tecnica delle costruzioni rispetto ai Complementi di tecnica delle costruzioni, alle Strutture speciali;  
+26) la Tecnica urbanistica rispetto alla Tecnica della pianificazione.  
+Gli esami delle materie propedeutiche sopra indicati devono essere sostenuti prima degli esami delle materie cui servono di preparazione.  
+  
+Art. 181. - Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superato gli esami:  
+a) nelle materie obbligatorie sul piano nazionale;  
+b) nelle materie obbligatorie sul piano della Facolta';  
+c) in una sola materia a scelta fra quelle indicate all'art. 172 per Ingegneria civile sezione Idraulica; in un solo gruppo di materie a scelta fra quelle indicate per il conseguimento di tutte le altre lauree. Non potra' sostituire qualche materia del gruppo prescelto con altra presa da gruppo diverso.  
+  
+Art. 182. - Gli esami di profitto consistono di norma in una prova orale sulle materie ed in una discussione sui risultati delle esercitazioni e sui progetti.  
+Gli esami di laurea consistono nella discussione di una tesi, su tema specifico per il ramo di Ingegneria prescelto, svolta sotto la guida di un professore della Facolta'.  
+Il candidato deve depositare la tesi di laurea almeno otto giorni prima della data fissata per la prova di esame.  
+  
+Art. 183. - Per i laureati in Ingegneria che aspirano a conseguire una seconda laurea, in un ramo diverso da quello nel quale sono laureati, il Rettore, tenuto conto degli studi fatti e udito il Consiglio dei professori della Facolta', fissa l'anno di iscrizione e il numero degli insegnamenti che l'aspirante deve seguire e sui quali deve sostenere gli esami.  
+I laureati in Fisica, i quali durante il precedente corso di studi abbiano superato gli esami in tutti gli insegnamenti propri del biennio di studi propedeutici di Ingegneria, possono conseguire la laurea in due anni.  
+Il Rettore, tenuto conto degli studi fatti e udito il Consiglio dei professori della Facolta', fissa l'anno di iscrizione e il numero degli insegnamenti che l'aspirante deve seguire e sui quali deve sostenere gli esami.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservano e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 settembre 1970
+### Dato a Roma, addi' 30 ottobre 1960
 
-SARAGAT MISASI
+GRONCHI BOSCO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 26 ottobre 1970
+Registrato alla Corte dei conti, addi' 6 luglio 1961
 
-Atti del Governo, registro n. 238, foglio n. 14. - CARUSO
+Atti del Governo, registro n. 137, foglio n. 70 - VILLA

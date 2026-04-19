@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1985 n. 917
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 1125
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1985 n. 917
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 1125
 ==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Perugia.
@@ -39,22 +39,20 @@ Articolo unico
 --------------
 
   
-Nell'art. 32, relativo al corso di laurea in lettere della facolta' di lettere e filosofia, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
-  
-storia sociale.  
+Nell'art. 35, relativo al corso di laurea in lingue e letterature straniere moderne (indirizzo europeo), all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+letteratura francese moderna e contemporanea;  
+storia contemporanea.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 ottobre 1985
+### Dato a Roma, addi' 4 giugno 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 14 febbraio 1986
+Registrato alla Corte dei conti, addi' 22 marzo 1984
 
-Registro n. 9 Istruzione, foglio n. 130
+Registro n. 17 Istruzione, foglio n. 342

@@ -1,59 +1,76 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1983 n. 622
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1973 n. 1159
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1983 n. 622
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1973 n. 1159
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Nell'art. 51, relativo all'elenco degli insegnamenti complementari dell'indirizzo storico-politico del corso di laurea in scienze politiche, e' aggiunto il seguente nuovo insegnamento:  
-storia delle istituzioni dell'Asia.  
-Nell'art. 54, relativo all'elenco degli insegnamenti complementari dell'indirizzo politico-economico del medesimo corso di laurea, e' aggiunto il seguente nuovo insegnamento:  
-economia degli intermediari finanziari.  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Dopo l'art. 594, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in "Chirurgia dell'infanzia".  
+  
+Scuola di specializzazione in chirurgia dell'infanzia  
+  
+Art. 595. - Presso la facolta' di medicina e chirurgia dell'Universita' di Bologna e' istituita la scuola di specializzazione in chirurgia dell'infanzia, della durata di due anni, che conferisce il diploma di specialista in chirurgia dell'infanzia.  
+Art. 596. - Possono ottenere l'iscrizione alla scuola i laureati in medicina e chirurgia che siano in possesso del diploma di specializzazione in chirurgia generale, o abbiano conseguito la libera docenza in clinica chirurgica, o patologia chirurgica, o semeiotica chirurgica, o anatomia chirurgica, o chirurgia pediatrica.  
+Non e' ammessa abbreviazione di corso.  
+Art. 597. - Il numero degli iscritti alla scuola e' di quattro per anno di corso.  
+Qualora il numero degli aspiranti superi quello stabilito, l'ammissione sara' subordinata ad una prova di esame orale.  
+Art. 598. - Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali, oltre ad un periodo di internato obbligatorio di almeno sei mesi per ogni anno di corso.  
+Il periodo di internato potra' essere abbreviato per coloro che documentino di svolgere effettivo servizio presso reparti di chirurgia pediatrica universitari e ospedalieri.  
+Art. 599. - Le materie d'insegnamento sono le seguenti:  
+  
+1° Anno:  
+Anatomia patologica e teratologia (lezioni);  
+Endocrinologia infantile (conferenze);  
+Clinica pediatrica (biennale-lezioni);  
+Clinica chirurgica pediatrica (biennale-lezioni);  
+Patologia chirurgica e semeiotica chirurgica (lezioni);  
+Diagnostica radiologica e nucleare delle malattie chirurgiche dell'infanzia (lezioni);  
+Anestesiologia e rianimazione (lezioni).  
+  
+2° Anno:  
+Clinica pediatrica (biennale-lezioni);  
+Clinica chirurgica pediatrica (biennale-lezioni);  
+Chirurgia d'urgenza nell'infanzia (lezioni);  
+Otorinolaringoiatria nell'infanzia (conferenze);  
+Ortopedia nell'infanzia (conferenze);  
+Urologia nell'infanzia (conferenze);  
+Neurochirurgia infantile (conferenze);  
+Chirurgia del cuore e dei grossi vasi (conferenze).  
+  
+Art. 600. - La frequenza alle lezioni e alle conferenze e' obbligatoria.  
+Al termine di ciascun anno accademico gli specializzandi che abbiano ottenuto le firme di frequenza dovranno sostenere gli esami di profitto nelle materie oggetto di insegnamento, in un unico gruppo.  
+Al termine del corso di specializzazione gli specializzandi dovranno presentare una dissertazione scritta su argomento di chirurgia infantile e sostenere l'esame di diploma.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 agosto 1983
+### Dato a Lussemburgo, ambasciata d'Italia, addi' 27 ottobre 1973
 
-PERTINI FALCUCCI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 25 ottobre 1983
+Registrato alla Corte dei conti, addi' 28 ottobre 1974
 
-Registro n. 67 Istruzione, foglio n. 51
+Atti di Governo, registro n. 6, foglio n. 72. - SCIARRETTA

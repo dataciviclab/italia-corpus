@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1123
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 864
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1123
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 864
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Messina.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e modificato con [regio decreto 26 ottobre 1940, n. 1095](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1095), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923), e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,29 +20,31 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nella deliberazione degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 186, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in cardiologia.
+Dopo l'art. 186, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in anatomia patologica.
 
-Scuola di specializzazione in cardiologia
+Scuola di specializzazione in anatomia patologica
 
-Art. 187. - La scuola di specializzazione in cardiologia ha sede presso l'istituto di patologia speciale medica e metodologia clinica e conferisce il diploma di specialista in cardiologia.
+Art. 187. - La scuola di specializzazione in anatomia patologica ha sede presso l'istituto di anatomia patologica - policlinico universitario di Messina - e conferisce il diploma di specialista in anatomia patologica.
 
-Art. 188. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione e, in carenza, a professore di ruolo o fuori ruolo di materia affine.
+Art. 188. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione e, in carenza, al professore di ruolo o fuori ruolo di materia affine.
 
-Art. 189. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.
+Art. 189. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
 
-Art. 190. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
+Art. 190. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
 
-Art. 191. - Il numero massimo degli allievi e' di cinque per anno di corso, e complessivamente di venti iscritti per l'intero corso di studi.
+Art. 191. - Il numero massimo degli allievi e' di otto per ogni anno di corso e complessivamente di trentadue iscritti per l'intero corso di studio.
 
 Art. 192. - L'ammissione al corso avviene per titoli ed esami.
 
@@ -50,141 +52,130 @@ Art. 193. - Le materie di insegnamento sono le seguenti:
 
 1° Anno:
 
-1) anatomia umana normale ed embriologia dell'apparato cardiovascolare;
+anatomia patologica sistematica I;
 
-2) fisiologia dell'apparato cardiovascolare (I);
+tecnica delle autopsie;
 
-3) biochimica e biofisica;
+diagnostica anatomo-patologica macroscopica I;
 
-4) semeiotica fisica e strumentale dell'apparato cardiovascolare (I);
-
-5) informatica medica e strumentazione biomedica (I).
+tecniche istologiche ed istochimiche.
 
 2° Anno:
 
-1) anatomia patologica;
+anatomia patologica sistematica II;
 
-2) fisiologia dell'apparato cardiovascolare (II);
+diagnostica anatomo-patologica macroscopica II;
 
-3) patologia e clinica cardiovascolare (I);
+diagnostica istopatologica I;
 
-4) semeiotica fisica e strumentale dell'apparato cardiovascolare (II);
-
-5) informatica medica e strumentazione biomedica (II);
-
-6) radiologia (I);
-
-7) aspetti sociali ed epidemiologici delle malattie cardiovascolari.
+tecniche e diagnostica citologica e citogenetica.
 
 3° Anno:
 
-1) anatomia patologica (II)
+diagnostica istopatologica II;
 
-2) semeiotica fisica e strumentale dell'apparato cardiovascolare (III);
+tecniche di microscopia elettronica e biologia ultrastrutturale;
 
-3) patologia e clinica cardiovascolare (II);
-
-4) radiologia (II);
-
-5) terapia medica e farmacologia clinica (I).
+immunopatologia.
 
 4° Anno:
 
-1) semeiotica fisica e strumentale dell'apparato cardiovascolare (IV);
+diagnostica istopatologica III;
 
-2) patologia e clinica cardiovascolare (III);
+diagnostica isto-citopatologica ultrastrutturale;
 
-3) terapia medica e farmacologia clinica (II);
+diagnostica autoptica medico legale ed elementi di
 
-4) terapia chirurgica;
+legislazione sanitaria;
 
-5) terapie intensive cardiologiche.
+applicazioni statistiche ed epidemiologiche.
 
-Art. 194. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+Art. 194. - La frequenza alle lezioni, alle esercitazioni pratiche e' obbligatoria.
 
-Art. 195. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Al termine del corso di studi per il conseguimento del diploma di specialista in cardiologia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento di carattere cardiologico.
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Art. 195. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in anatomia patologica gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1977
+Dato a Roma, addi' 12 settembre 1978
 
-LEONE
+PERTINI
 
-MALFATTI
+PEDINI
 
 Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 25 febbraio 1978 Registro n. 22 Istruzione, foglio n. 176
+alla Corte dei conti, addi' 22 dicembre 1978 Registro n. 132 Istruzione, foglio n. 305
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e modificato con [regio decreto 26 ottobre 1940, n. 1095](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1095), e successive modificazioni;  
+Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923), e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nella deliberazione degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 186, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in cardiologia.  
-Scuola di specializzazione in cardiologia  
-Art. 187. - La scuola di specializzazione in cardiologia ha sede presso l'istituto di patologia speciale medica e metodologia clinica e conferisce il diploma di specialista in cardiologia.  
-Art. 188. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione e, in carenza, a professore di ruolo o fuori ruolo di materia affine.  
-Art. 189. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.  
-Art. 190. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.  
-Art. 191. - Il numero massimo degli allievi e' di cinque per anno di corso, e complessivamente di venti iscritti per l'intero corso di studi.  
+Dopo l'art. 186, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in anatomia patologica.  
+Scuola di specializzazione in anatomia patologica  
+Art. 187. - La scuola di specializzazione in anatomia patologica ha sede presso l'istituto di anatomia patologica - policlinico universitario di Messina - e conferisce il diploma di specialista in anatomia patologica.  
+Art. 188. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione e, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Art. 189. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Art. 190. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
+Art. 191. - Il numero massimo degli allievi e' di otto per ogni anno di corso e complessivamente di trentadue iscritti per l'intero corso di studio.  
 Art. 192. - L'ammissione al corso avviene per titoli ed esami.  
 Art. 193. - Le materie di insegnamento sono le seguenti:  
 1° Anno:  
-1) anatomia umana normale ed embriologia dell'apparato cardiovascolare;  
-2) fisiologia dell'apparato cardiovascolare (I);  
-3) biochimica e biofisica;  
-4) semeiotica fisica e strumentale dell'apparato cardiovascolare (I);  
-5) informatica medica e strumentazione biomedica (I).  
+anatomia patologica sistematica I;  
+tecnica delle autopsie;  
+diagnostica anatomo-patologica macroscopica I;  
+tecniche istologiche ed istochimiche.  
 2° Anno:  
-1) anatomia patologica;  
-2) fisiologia dell'apparato cardiovascolare (II);  
-3) patologia e clinica cardiovascolare (I);  
-4) semeiotica fisica e strumentale dell'apparato cardiovascolare (II);  
-5) informatica medica e strumentazione biomedica (II);  
-6) radiologia (I);  
-7) aspetti sociali ed epidemiologici delle malattie cardiovascolari.  
+anatomia patologica sistematica II;  
+diagnostica anatomo-patologica macroscopica II;  
+diagnostica istopatologica I;  
+tecniche e diagnostica citologica e citogenetica.  
 3° Anno:  
-1) anatomia patologica (II)  
-2) semeiotica fisica e strumentale dell'apparato cardiovascolare (III);  
-3) patologia e clinica cardiovascolare (II);  
-4) radiologia (II);  
-5) terapia medica e farmacologia clinica (I).  
+diagnostica istopatologica II;  
+tecniche di microscopia elettronica e biologia ultrastrutturale;  
+immunopatologia.  
 4° Anno:  
-1) semeiotica fisica e strumentale dell'apparato cardiovascolare (IV);  
-2) patologia e clinica cardiovascolare (III);  
-3) terapia medica e farmacologia clinica (II);  
-4) terapia chirurgica;  
-5) terapie intensive cardiologiche.  
-Art. 194. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
-Art. 195. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Al termine del corso di studi per il conseguimento del diploma di specialista in cardiologia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento di carattere cardiologico.  
+diagnostica istopatologica III;  
+diagnostica isto-citopatologica ultrastrutturale;  
+diagnostica autoptica medico legale ed elementi di  
+legislazione sanitaria;  
+applicazioni statistiche ed epidemiologiche.  
+Art. 194. - La frequenza alle lezioni, alle esercitazioni pratiche e' obbligatoria.  
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Art. 195. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in anatomia patologica gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1977
+### Dato a Roma, addi' 12 settembre 1978
 
-LEONE MALFATTI
+PERTINI PEDINI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 25 febbraio 1978
+Registrato alla Corte dei conti, addi' 22 dicembre 1978
 
-Registro n. 22 Istruzione, foglio n. 176
+Registro n. 132 Istruzione, foglio n. 305

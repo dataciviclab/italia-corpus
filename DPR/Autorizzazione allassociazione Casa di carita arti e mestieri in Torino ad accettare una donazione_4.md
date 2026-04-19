@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1975 n. 652
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1977 n. 673
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1975 n. 652
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1977 n. 673
 =============================================================
 
 Autorizzazione all'associazione "Casa di carita' arti e mestieri", in Torino, ad accettare una donazione.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-652. Decreto del Presidente della Repubblica 31 luglio 1975, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'associazione "Casa di carita' arti e mestieri", in Torino, viene autorizzata ad accettare una donazione, consistente in un immobile e relativo terreno circostante, sito in Torino, corso Benedetto Brin, 26, eccettuato il terzo ed il quarto piano dello stabile, disposta dall'opera diocesana della preservazione della fede in Torino con atto 30 novembre 1971, n. 40953/20460 di repertorio, a rogito dott. Aldo Billia, notaio in Torino, registrato a Torino in data 14 dicembre 1971, al n. 39656, vol. 1197.  
+673. Decreto del Presidente della Repubblica 10 giugno 1977, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, a parziale rettifica ed integrazione del [decreto del Presidente della Repubblica 31 luglio 1975, n. 652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1975-07-31;652), l'associazione "Casa di carita' arti e mestieri", in Torino, viene autorizzata ad accettare la donazione, da parte dell'Opera diocesana della prevenzione della fede di Torino, dello stabile e del terreno ubicati in via Bosconero n. 6 distinto nella mappa catastale governativa terreni dell'ufficio tecnico erariale al foglio 52 con n. 18/ C e alla mappa indicativa del nuovo catasto edilizio urbano con i numeri 26, 27, 28 e 162 dello stesso foglio 52 di mappa ed estesamente descritto nell'atto di donazione del 30 novembre 1971, a rogito notar Billia in Torino, n. 40953/20460 di repertorio, e registrato il 14 dicembre 1971 al n. 39656, vol. 1197.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 15 dicembre 1975  
-Atti di Governo, registro n. 15, foglio n. 29
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 27 agosto 1977  
+Registro n. 1 Lavoro, foglio n. 29

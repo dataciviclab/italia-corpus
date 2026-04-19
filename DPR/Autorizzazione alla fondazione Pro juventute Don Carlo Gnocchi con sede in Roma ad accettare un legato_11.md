@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 dicembre 1972 n. 1021
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1973 n. 466
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 dicembre 1972 n. 1021
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1973 n. 466
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute Don Carlo Gnocchi", con sede in Roma, ad accettare un legato.
 -----------------------------------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-1021. Decreto del Presidente della Repubblica 12 dicembre 1972, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 50.000.000, disposto dalla signora Livia Confalone, veci De Stefano, con testamento olografo in data 10 novembre 1960, depositato e pubblicato con verbale a rogito avv.  
-Nicola Marranghello, notaio in Napoli, in data 30 marzo 1971, n. 342901 di repertorio e n. 151 di raccolta, registrato a Napoli il 6 aprile 1971 ai n. 8410, Mod. 71/M.  
+466. Decreto del Presidente della Repubblica 18 giugno 1973, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare il legato, disposto dalla signora Maria Bruni, vedova Maspero, con testamento olografo del 22 gennaio 1970, pubblicato in data 31 luglio 1970 per rogito avv. Aldo Gazzone, notaio in Genova, con n. 10025 di repertorio e n. 4254 di raccolta, registrato a Genova il 24 agosto 1970 al n. 7822, Vol. 1250, consistente in un magazzino sito in Genova, via della Liberta', 14 rosso, gravato d'usufrutto in favore della signora Papaleo Palmira, del valore presunto di lire 8.000.000.  
   
 Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 17 febbraio 1973  
-Atti di Governo, registro n. 255, foglio n. 116. VALENTINI
+Registrato alla Corte dei conti, addi' 20 luglio 1973  
+Atti di Governo, registro n. 259, foglio n. 30. - VALENTINI

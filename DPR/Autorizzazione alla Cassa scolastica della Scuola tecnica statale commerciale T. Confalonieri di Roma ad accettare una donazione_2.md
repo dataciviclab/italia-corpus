@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 1954 n. 817
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 novembre 1954 n. 1313
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 1954 n. 817
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 novembre 1954 n. 1313
+================================================================
 
 Autorizzazione alla Cassa scolastica della Scuola tecnica statale commerciale "T. Confalonieri" di Roma ad accettare una donazione.
 -----------------------------------------------------------------------------------------------------------------------------------
@@ -12,9 +12,9 @@ Art. 1
 
 N.
 
-817. Decreto del Presidente della Repubblica 13 febbraio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola tecnica statale commerciale "T.  
-Confalonieri" di Roma viene autorizzata ad accettare la donazione di nominali L. 100.000 disposta al fine di istituire, col relativo reddito, un premio di studio annuale intitolato al signor Lorenzo Cinotti.  
+1313. Decreto del Presidente della Repubblica 30 novembre 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola tecnica statale commerciale "T.  
+Confalonieri" di Roma viene autorizzata ad accettare la donazione di nominali lire 200.000 disposta al fine di istituire, col relativo reddito, due premi annuali di intitolati al nome delle donatrici "Maria e Cesira Gandolfi".  
   
 Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 28 agosto 1954  
-Atti del Governo, registro n. 85, foglio n. 102. - CARLOMAGNO
+Registrato alla Corte dei conti, addi' 22 gennaio 1955  
+Atti del Governo, registro n. 88, foglio n. 78. - CARLOMAGNO

@@ -1,91 +1,288 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1979 n. 727
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 settembre 1971 n. 897
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1979 n. 727
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 settembre 1971 n. 897
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduta la [legge 3 novembre 1954, n. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-11-03;85);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto, dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Dopo l'art. 123 sono aggiunti i seguenti nuovi articoli, relativi al corso di laurea in medicina veterinaria, con il conseguente spostamento della numerazione degli articoli successivi.
+
+TITOLO XI
+
+Facolta' di medicina veterinaria
+
+Art. 124. - La facolta' di medicina veterinaria conferisce la laurea in medicina veterinaria.
+
+Art. 125. - La durata del corso degli studi e' di cinque anni e comprende l'insegnamento teorico e pratico di almeno 4.500 ore alle condizioni fissate qui di seguito.
+
+Sono titoli di ammissione quelli previsti dalle vigenti disposizioni di legge.
+
+Insegnamenti fondamentali: Ore ---
+
+Fisica........................................................ 120 Chimica I..................................................... 100 Chimica II.................................................... 100 Zoologia...................................................... 120 Botanica...................................................... 90 Metodi matematici applicati alle scienze biologiche (biomate-
+
+matica)......................................................... 30 Anatomia veterinaria sistematica e comparata I................ 110 Anatomia veterinaria sistematica e comparata II............... 110 Anatomia topografica veterinaria.............................. 60 Teratologia................................................... 40 Istologia generale e speciale (anatomia microscopica)......... 80 Embriologia................................................... 40 Fisiologia generale e speciale veterinaria I e fisica biolo-
+
+gica............................................................ 100 Fisiologia generale e speciale veterinaria II e fisica biolo-
+
+gica............................................................ 100 Biochimica.................................................... 100 Zootecnia: 1) igiene, aspetti esteriori degli animali, etnolo-
+
+gia............................................................. 100 Zootecnia: 2) genetica e allevamenti.......................... 70 Alimentazione e nutrizione animale............................ 130 Economia rurale e agronomia................................... 30 Farmacologia e farmacodinamia veterinaria..................... 50 Farmacia e terapeutica generale veterinaria................... 50 Tossicologia veterinaria...................................... 50 Anatomia patologica veterinaria generale e speciale I......... 80 Anatomia patologica veterinaria generale e speciale II........ 80 Autopsie...................................................... 40 Propedeutica: 1) semeiologia medica veterinaria e metodologia
+
+clinica......................................................... 60 Propedeutica: 2) semeiologia chirurgica veterinaria e metodo-
+
+logia clinica................................................... 60 Patologia generale veterinaria................................ 50 Microbiologia generale veterinaria (batteriologia, virologia,
+
+immunologia).................................................... 70 Patologia e profilassi delle malattie infettive degli animali
+
+domestici I..................................................... 65 Patologia e profilassi delle malattie infettive degli animali
+
+domestici II.................................................... 65 Parassitologia veterinaria (compresa micologia, protozoologia,
+
+entomologia, elmintologia)...................................... 50 Malattie parassitarie degli animali domestici................. 40 Polizia sanitaria veterinaria................................. 30 Medicina legale veterinaria, legislazione veterinaria e deon-
+
+tologia......................................................... 30 Patologia medica degli animali domestici (ruminanti, equidi,
+
+carnivori, suini, pollame, conigli, ecc.)....................... 150 Ostetricia veterinaria........................................ 80 Patologia della riproduzione e fecondazione artificiale....... 70 Patologia chirurgica veterinaria e podologia.................. 90 Medicina operatoria veterinaria............................... 60 Ispezione e controllo delle derrate alimentari di origine ani-
+
+male (carne, latte, pesci, uova, ecc.) I........................ 100 Ispezione e controllo delle derrate alimentari di origine ani-
+
+male (carne, latte, pesci, uova, ecc.) II....................... 80 Lavori pratici nei macelli.................................... 40 Clinica medica veterinaria.................................... 300 Clinica chirurgica veterinaria................................ 300 Clinica ostetrica e ginecologica veterinaria.................. 300 Patologia aviare.............................................. 200 Radiologia veterinaria........................................ 30
+
+Le 200 ore che restano per raggiungere il numero di 4500 dovranno essere ripartite fra tre insegnamenti complementari da scegliersi
+
+dallo studente tra i seguenti:
+
+Allevamento e patologia degli animali da laboratorio;
+
+Alpicoltura;
+
+Anatomia comparata;
+
+Anestesiologia;
+
+Antropozoonosi;
+
+Api-bachicoltura;
+
+Avicoltura;
+
+Approvvigionamenti annonari, mercati ed industrie degli alimenti di origine animale;
+
+Coniglicoltura;
+
+Diagnostica di laboratorio;
+
+Ecologia zootecnica;
+
+Ematologia clinica comparata;
+
+Embriologia sperimentale;
+
+Endocrinologia degli animali domestici;
+
+Etnografia zootecnica;
+
+Economia montana (prati e pascoli);
+
+Fisioclimatologia zootecnica;
+
+Idrobiologia e pescicoltura;
+
+Igiene del latte;
+
+Igiene e controllo dei prodotti della pesca;
+
+Istituzioni di matematica;
+
+Istologia patologica;
+
+Ittiopatologia;
+
+Lingua straniera;
+
+Oftalmologia comparata;
+
+Patologia bovina;
+
+Patologia tropicale veterinaria;
+
+Storia della medicina veterinaria;
+
+Tecnica conserviera;
+
+Tecnica mangimistica;
+
+Tecnologia avicola;
+
+Virologia veterinaria.
+
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami nelle singole materie fondamentali o comprese nei gruppi di materie fondamentali dell'insegnamento di base, dello insegnamento veterinario specifico e di tre altre materie da lui scelte tra gli insegnamenti complementari.
+
+Art. 126. - Agli effetti degli esami sono considerate propedeutiche le seguenti materie:
+
+a) patologia generale veterinaria rispetto all'anatomia patologica veterinaria generale speciale I e II;
+
+b) propedeutica: 1) semeiologia medica veterinaria e metodologia clinica, e patologia medica degli animali domestici rispetto alla clinica medica veterinaria;
+
+c) propedeutica: 2) semeiologia chirurgica veterinaria e metodologia clinica, patologia chirurgica veterinaria e podologia, e medicina operatoria veterinaria rispetto a clinica chirurgica veterinaria;
+
+d) ostetricia veterinaria, e patologia della riproduzione e fecondazione artificiale rispetto a clinica ostetrica e ginecologia, veterinaria;
+
+e) microbiologia generale veterinaria rispetto a patologia e profilassi delle malattie infettive degli animali domestici I e II.
+
+Art. 127. - Il funzionamento del corso di laurea in medicina veterinaria e' limitato ai primi due anni.
+
+Il primo anno di corso comincera' a funzionare a partire dall'anno accademico 1971-72.
+
+Con l'anno accademico successivo funzionera' anche il secondo anno.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 18 settembre 1971
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: COLOMBO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 3 novembre 1971 Atti del Governo, registro n. 245, foglio n. 1. - CARUSO
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Veduta la [legge 3 novembre 1954, n. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-11-03;85);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Dopo l'art. 278 sono istituiti i seguenti nuovi articoli relativi alla istituzione della scuola diretta a fini speciali di preparazione per tecnici di logopedia:  
+Lo statuto, dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Scuola di preparazione per tecnici di logopedia  
-(Scuola diretta a fini speciali)  
+Dopo l'art. 123 sono aggiunti i seguenti nuovi articoli, relativi al corso di laurea in medicina veterinaria, con il conseguente spostamento della numerazione degli articoli successivi.   
   
-Art. 279. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una scuola speciale di preparazione per tecnici di logopedia che ha sede presso la cattedra di bioacustica dell'Universita'.  
-Art. 280. - La durata del corso degli studi della scuola di preparazione per tecnici di logopedia e' di tre anni.  
-L'indirizzo e' teorico-pratico.  
-Il numero massimo complessivo degli iscritti alla scuola e' di quindici (cinque per anno di corso).  
-Art. 281. - Possono essere ammessi alla scuola coloro che siano in possesso del titolo di studio per l'ammissione all'universita' o a istituto di istruzione universitaria. Gli aspiranti devono, nei termini regolamentari, presentare apposita domanda su carta legale diretta al rettore e corredata dei prescritti documenti e sostenere un esame di ammissione che avra' luogo nei giorni stabiliti dal rettore con apposito manifesto.  
-Le domande di iscrizione ad anni successivi al primo vanno presentate nei termini regolamentari.  
-Art. 282. - Alla scuola si accede previo esame di cultura generale su argomenti facenti parte dei normali programmi dei licei e degli istituti di istruzione secondaria, con particolare riguardo alla parte dell'insegnamento di fisica acustica.  
-La commissione giudicatrice viene nominata dal preside della facolta' di medicina e chirurgia ed e' composta dal direttore della scuola, presidente, e da due membri scelti fra professori di ruolo, incaricati e liberi docenti.  
-Art. 283. - Il direttore della scuola e' il professore di ruolo di bioacustica dell'Universita' di Bari.  
-Gli incarichi di insegnamento sono conferiti dal rettore, su proposta del consiglio di facolta' di medicina e chirurgia, udito il direttore della scuola.  
-Art. 284. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria.  
-Le date di inizio e termine delle lezioni sono di regola eguali a quelle fissate per l'anno accademico. Tali date, tuttavia, possono essere spostate per ragioni speciali inerenti la natura dei corsi.  
-Art. 285. - Le materie di insegnamento sono:  
-1° Anno:  
-anatomia degli organi e dei sistemi audio-fono-articolatori;  
-elementi di fisica acustica e tecniche di fonometria;  
-psicologia generale;  
-elementi di audiologia;  
-elementi di fonetica e di linguistica;  
-fisiologia degli organi e dei sistemi audio-fono-articolatori. 2° Anno:  
-foniatria I;  
-tecniche di riabilitazione fonetica I;  
-semeiotica foniatrica;  
-fonetica sperimentale;  
-psicologia del linguaggio;  
-tecniche audiometriche.  
-3° Anno:  
-foniatria II;  
-tecniche di riabilitazione II;  
-riabilitazione protesica;  
-neuropsichiatria infantile;  
-tecniche di psicomotricita';  
-psicopedagogia.  
-Art. 286. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo per gli allievi di esercitazione pratica per un periodo di due anni nei reparti di audiologia e di logopedia della cattedra di bioacustica.  
-La frequenza viene comprovata dall'attestazione rilasciata dagli insegnanti sul libretto di iscrizione. L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.  
-Art. 287. - Le commissioni per gli esami di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Le commissioni per gli esami di profitto sono composte di tre membri: il direttore della scuola, presidente, e da due insegnanti della scuola stessa. La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro insegnanti della scuola stessa e da altri docenti. Ogni commissario ha a sua disposizione dieci punti.  
-L'esame di diploma consiste, a scelta del candidato, o nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento, eventualmente integrata da una prova pratica stabilita dalla commissione esaminatrice, o in un esame generale teorico-pratico.  
-I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola, ma se al secondo anno non sia loro riconosciuta la idoneita', saranno senz'altro esclusi da ulteriori prove.  
-Agli allievi che avranno superato l'esame finale, verra' rilasciato il diploma di tecnico di logopedia.  
-Art. 288. - Per poter essere ammessi a frequentare gli anni di corso successivi al primo, gli iscritti devono aver superato gli esami dell'anno precedente. Alla fine del terzo anno di corso, per essere ammessi all'esame di diploma, gli iscritti devono aver superato tutti gli esami prescritti.  
-Art. 289. - Gli esami di profitto e di diploma si danno in due sessioni; la prima, estiva, ha inizio subito dopo la chiusura annuale dei corsi e la seconda, un mese innanzi il principio del nuovo anno accademico.  
-Art. 290. - Il consiglio di amministrazione dell'Universita', su proposta della direzione della scuola, approvata dal consiglio di facolta', stabilira' di anno in anno l'ammontare dei contributi.  
-Le tasse e soprattasse annuali a carico degli iscritti resteranno cosi' destinate:  
+TITOLO XI   
+Facolta' di medicina veterinaria   
   
-tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 15.000 soprattassa annuale di esami . . . . . . . . . . . . . . . . L. 7.000 tassa erariale di diploma. . . . . . . . . . . . . . . . . . L. 6.000 tassa annuale di iscrizione studenti fuoricorso. . . . . . . L. 8.000   
-Art. 291. - Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni e contributi di enti pubblici o di privati.  
+Art. 124. - La facolta' di medicina veterinaria conferisce la laurea in medicina veterinaria.   
+Art. 125. - La durata del corso degli studi e' di cinque anni e comprende l'insegnamento teorico e pratico di almeno 4.500 ore alle condizioni fissate qui di seguito.   
+Sono titoli di ammissione quelli previsti dalle vigenti disposizioni di legge.   
+  
+  
+Insegnamenti fondamentali: Ore ---   
+Fisica........................................................ 120 Chimica I..................................................... 100 Chimica II.................................................... 100 Zoologia...................................................... 120 Botanica...................................................... 90 Metodi matematici applicati alle scienze biologiche (biomate-  
+matica)......................................................... 30 Anatomia veterinaria sistematica e comparata I................ 110 Anatomia veterinaria sistematica e comparata II............... 110 Anatomia topografica veterinaria.............................. 60 Teratologia................................................... 40 Istologia generale e speciale (anatomia microscopica)......... 80 Embriologia................................................... 40 Fisiologia generale e speciale veterinaria I e fisica biolo-  
+gica............................................................ 100 Fisiologia generale e speciale veterinaria II e fisica biolo-  
+gica............................................................ 100 Biochimica.................................................... 100 Zootecnia: 1) igiene, aspetti esteriori degli animali, etnolo-  
+gia............................................................. 100 Zootecnia: 2) genetica e allevamenti.......................... 70 Alimentazione e nutrizione animale............................ 130 Economia rurale e agronomia................................... 30 Farmacologia e farmacodinamia veterinaria..................... 50 Farmacia e terapeutica generale veterinaria................... 50 Tossicologia veterinaria...................................... 50 Anatomia patologica veterinaria generale e speciale I......... 80 Anatomia patologica veterinaria generale e speciale II........ 80 Autopsie...................................................... 40 Propedeutica: 1) semeiologia medica veterinaria e metodologia  
+clinica......................................................... 60 Propedeutica: 2) semeiologia chirurgica veterinaria e metodo-  
+logia clinica................................................... 60 Patologia generale veterinaria................................ 50 Microbiologia generale veterinaria (batteriologia, virologia,  
+immunologia).................................................... 70 Patologia e profilassi delle malattie infettive degli animali  
+domestici I..................................................... 65 Patologia e profilassi delle malattie infettive degli animali  
+domestici II.................................................... 65 Parassitologia veterinaria (compresa micologia, protozoologia,  
+entomologia, elmintologia)...................................... 50 Malattie parassitarie degli animali domestici................. 40 Polizia sanitaria veterinaria................................. 30 Medicina legale veterinaria, legislazione veterinaria e deon-  
+tologia......................................................... 30 Patologia medica degli animali domestici (ruminanti, equidi,  
+carnivori, suini, pollame, conigli, ecc.)....................... 150 Ostetricia veterinaria........................................ 80 Patologia della riproduzione e fecondazione artificiale....... 70 Patologia chirurgica veterinaria e podologia.................. 90 Medicina operatoria veterinaria............................... 60 Ispezione e controllo delle derrate alimentari di origine ani-  
+male (carne, latte, pesci, uova, ecc.) I........................ 100 Ispezione e controllo delle derrate alimentari di origine ani-  
+male (carne, latte, pesci, uova, ecc.) II....................... 80 Lavori pratici nei macelli.................................... 40 Clinica medica veterinaria.................................... 300 Clinica chirurgica veterinaria................................ 300 Clinica ostetrica e ginecologica veterinaria.................. 300 Patologia aviare.............................................. 200 Radiologia veterinaria........................................ 30   
+Le 200 ore che restano per raggiungere il numero di 4500 dovranno essere ripartite fra tre insegnamenti complementari da scegliersi  
+dallo studente tra i seguenti:  
+Allevamento e patologia degli animali da laboratorio;  
+Alpicoltura;  
+Anatomia comparata;  
+Anestesiologia;  
+Antropozoonosi;  
+Api-bachicoltura;  
+Avicoltura;  
+Approvvigionamenti annonari, mercati ed industrie degli alimenti di origine animale;  
+Coniglicoltura;  
+Diagnostica di laboratorio;  
+Ecologia zootecnica;  
+Ematologia clinica comparata;  
+Embriologia sperimentale;  
+Endocrinologia degli animali domestici;  
+Etnografia zootecnica;  
+Economia montana (prati e pascoli);  
+Fisioclimatologia zootecnica;  
+Idrobiologia e pescicoltura;  
+Igiene del latte;  
+Igiene e controllo dei prodotti della pesca;  
+Istituzioni di matematica;  
+Istologia patologica;  
+Ittiopatologia;  
+Lingua straniera;  
+Oftalmologia comparata;  
+Patologia bovina;  
+Patologia tropicale veterinaria;  
+Storia della medicina veterinaria;  
+Tecnica conserviera;  
+Tecnica mangimistica;  
+Tecnologia avicola;  
+Virologia veterinaria.  
+  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami nelle singole materie fondamentali o comprese nei gruppi di materie fondamentali dell'insegnamento di base, dello insegnamento veterinario specifico e di tre altre materie da lui scelte tra gli insegnamenti complementari.   
+Art. 126. - Agli effetti degli esami sono considerate propedeutiche le seguenti materie:   
+a) patologia generale veterinaria rispetto all'anatomia patologica veterinaria generale speciale I e II;   
+b) propedeutica: 1) semeiologia medica veterinaria e metodologia clinica, e patologia medica degli animali domestici rispetto alla clinica medica veterinaria;   
+c) propedeutica: 2) semeiologia chirurgica veterinaria e metodologia clinica, patologia chirurgica veterinaria e podologia, e medicina operatoria veterinaria rispetto a clinica chirurgica veterinaria;   
+d) ostetricia veterinaria, e patologia della riproduzione e fecondazione artificiale rispetto a clinica ostetrica e ginecologia, veterinaria;   
+e) microbiologia generale veterinaria rispetto a patologia e profilassi delle malattie infettive degli animali domestici I e II.   
+Art. 127. - Il funzionamento del corso di laurea in medicina veterinaria e' limitato ai primi due anni.   
+Il primo anno di corso comincera' a funzionare a partire dall'anno accademico 1971-72.   
+Con l'anno accademico successivo funzionera' anche il secondo anno.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 ottobre 1979
+### Dato a Roma, addi' 18 settembre 1971
 
-PERTINI VALITUTTI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 16 gennaio 1980
+Registrato alla Corte dei conti, addi' 3 novembre 1971
 
-Registro n. 2 Istruzione, foglio n. 103
+Atti del Governo, registro n. 245, foglio n. 1. - CARUSO

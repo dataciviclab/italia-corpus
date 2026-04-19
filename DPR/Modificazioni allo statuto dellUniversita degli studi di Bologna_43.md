@@ -1,22 +1,95 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1970 n. 544
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1964 n. 1601
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1970 n. 544
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1964 n. 1601
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 19. - Alle propedeuticita' di esami del corso di Laurea in Giurisprudenza 6 aggiunta la seguente: "Lo esame di Diritto Internazionale non puo' essere sostenuto dallo studente, se non abbia gia' superato l'esame di Istituzioni di diritto privato".
+
+Art. 63. - Agli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti quelli di:
+
+Psicologia dell'eta' evolutiva;
+
+Glottologia;
+
+Sociologia;
+
+Storia delle dottrine politiche;
+
+Filosofia della storia;
+
+Storia della scienza.
+
+Art. 64. - Agli insegnamenti complementari del corso di laurea in Pedagogia, sono aggiunti quelli di:
+
+Storia delle dottrine politiche;
+
+Filosofia della storia;
+
+Storia della scienza.
+
+Art. 121, relative agli insegnamenti del corso di laurea in Medicina veterinaria e' modificato nel senso che dopo il secondo comma viene abrogato e sostituito dal seguente:
+
+"Gli insegnamenti biennali di "Patologia speciale e clinica medica" e di "Patologia speciale e clinica chirurgica" comportano due esami distinti: un esame teorico, che dev'essere sostenuto alla fine del 3° anno, e una prova pratica, che dev'essere sostenuta alla fine del 40 anno".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 1 ottobre 1964
+
+Per il Presidente della Repubblica
+
+Il Presidente del Senato
+
+MERZAGORA
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 11 febbraio 1965 Atti del Governo, registro n. 190, foglio n. 84. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -24,46 +97,31 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Dopo l'art. 534 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di studi turistici, diretta a fini speciali, della durata di anni due, con sede distaccata a Rimini.  
-  
-Scuola di studi turistici  
-(Scuola diretta a fini speciali)  
-  
-Art. 535. - Alla facolta' di economia e commercio e' annessa la scuola di studi turistici. Essa ha sede nella citta' di Rimini e funziona in locali e coi mezzi finanziari messi a disposizione da un apposito consorzio. La direzione della scuola e' affidata ad un collegio di tre professori ordinari appartenenti al consiglio di facolta' di economia e commercio nel cui seno sara' scelto il direttore preposto al funzionamento della scuola.  
-Art. 536. - La durata del corso di studi per il conseguimento del diploma e' di due anni; al termine di essi e dopo l'esame previsto viene rilasciato un diploma in studi turistici.  
-Sono titoli di ammissione alla scuola i diplomi della scuola media superiore di secondo grado.  
-Sono insegnamenti fondamentali di studio i seguenti:  
-1° Anno:  
-1) Economia del turismo;  
-2) Economia e tecnica dell'impresa alberghiera;  
-3) Discipline amministrative e legislazioni interessanti il turismo;  
-4) Lingua inglese (insegnamento biennale di carattere pratico);  
-5) Lingua francese (insegnamento biennale di carattere pratico);  
-6) Lingua tedesca (insegnamento biennale di carattere pratico); 2° Anno:  
-1) Geografia del turismo;  
-2) Igiene del turismo;  
-3) Metodologia di localizzazione e strutturazione delle attivita' turistiche;  
-4) Lingua inglese (insegnamento biennale di carattere pratico);  
-5) Lingua francese (insegnamento biennale di carattere pratico);  
-6) Lingua tedesca (insegnamento biennale di carattere pratico);  
-7) L'arte e il folklore in Italia.  
-Gli insegnamenti potranno essere integrati da esercitazioni, seminari, conferenze e altre forme didattiche, su delibera del consiglio di facolta'.  
-I corsi si debbono concludere con un colloquio, per accertare che lo studente abbia inquadrato le varie materie svolte dai docenti.  
-L'esame di diploma consiste in una dissertazione scritta, approvata da un docente delle materie svolte, e che deve riguardare almeno tre delle materie dei corsi.  
-Tale dissertazione viene discussa davanti ad una commissione di sette membri docenti, presieduta dal direttore della scuola.  
-Art. 537. - Le tasse e soprattasse per l'iscrizione e la frequenza ai corsi e per gli esami di profitto sono fissate in misura pari a quelle del I e II corso della facolta'. Gli eventuali contributi di laboratorio verranno fissati annualmente dal consiglio di facolta' su proposta del direttore della scuola.  
+Art. 19. - Alle propedeuticita' di esami del corso di Laurea in Giurisprudenza 6 aggiunta la seguente: "Lo esame di Diritto Internazionale non puo' essere sostenuto dallo studente, se non abbia gia' superato l'esame di Istituzioni di diritto privato".  
+Art. 63. - Agli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti quelli di:  
+Psicologia dell'eta' evolutiva;  
+Glottologia;  
+Sociologia;  
+Storia delle dottrine politiche;  
+Filosofia della storia;  
+Storia della scienza.  
+Art. 64. - Agli insegnamenti complementari del corso di laurea in Pedagogia, sono aggiunti quelli di:  
+Storia delle dottrine politiche;  
+Filosofia della storia;  
+Storia della scienza.  
+Art. 121, relative agli insegnamenti del corso di laurea in Medicina veterinaria e' modificato nel senso che dopo il secondo comma viene abrogato e sostituito dal seguente:  
+"Gli insegnamenti biennali di "Patologia speciale e clinica medica" e di "Patologia speciale e clinica chirurgica" comportano due esami distinti: un esame teorico, che dev'essere sostenuto alla fine del 3° anno, e una prova pratica, che dev'essere sostenuta alla fine del 40 anno".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 giugno 1970
+### Dato a Roma, addi' 1 ottobre 1964
 
-SARAGAT MISASI
+Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 24 luglio 1970
+Registrato alla Corte dei conti, addi' 11 febbraio 1965
 
-Atti del Governo, registro n. 236, foglio n. 178. - IZZI
+Atti del Governo, registro n. 190, foglio n. 84. - VILLA

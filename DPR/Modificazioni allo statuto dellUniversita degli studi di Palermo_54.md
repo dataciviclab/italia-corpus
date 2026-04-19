@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 862
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1970 n. 942
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 862
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1970 n. 942
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
@@ -10,96 +10,183 @@ Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Dopo l'art. 110 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di perfezionamento in diritto regionale.
+
+Scuola di perfezionamento in diritto regionale
+
+Art. 111. - E' istituita presso la facolta' di giurisprudenza una scuola di perfezionamento in diritto regionale, che ha per fine di indirizzare allo studio dei problemi specifici che interessano il diritto regionale.
+
+Art. 112. - Alla scuola di perfezionamento sono ammessi i laureati in giurisprudenza, scienze politiche ed economia e commercio.
+
+Art. 113. - Il corso di studio ha la durata di due anni.
+
+Art. 114. - Gli insegnamenti impartiti nella scuola sono:
+
+1° Anno:
+
+Diritto costituzionale;
+
+Storia del diritto pubblico regionale;
+
+Diritto amministrativo I;
+
+Politica economica regionale I;
+
+Diritto tributario.
+
+2° Anno:
+
+Ordinamento e legislazione regionale;
+
+Diritto amministrativo II;
+
+Politica economica regionale II;
+
+Diritto tributario regionale;
+
+Statistica e demografia.
+
+Art. 115. - L'insegnamento delle discipline di cui al piano di studi contemplate nel precedente articolo e' affidato per incarico a professori titolari, a liberi docenti e cultori con deliberazione della facolta' di giurisprudenza.
+
+Art. 116. - Gli insegnamenti e le esercitazioni della scuola di perfezionamento sono tenuti distinti da quelli per gli studenti del corso di giurisprudenza.
+
+Art. 117. - Gli insegnamenti possono avere, oltre che carattere di lezioni cattedratiche, quella forma che e' consentita dalla indole di ciascuna disciplina; sono inoltre tenute conferenze sugli argomenti oggetto del corso.
+
+Art. 118. - Il programma della scuola viene compilato ogni anno dal direttore e deve essere approvato dai docenti della scuola; cosi' pure gli orari settimanali di insegnamento e di esercitazioni. I corsi di insegnamento si uniformano al calendario dell'universita'.
+
+Art. 119. - Gli esami di profitto vengono sostenuti dagli allievi alla fine di ogni anno di corso e si svolgono per singole discipline.
+
+Le commissioni relative vengono nominate dal direttore della scuola.
+
+Gli esami si svolgono secondo le norme vigenti per gli esami di profitto delle facolta' universitarie.
+
+L'iscritto che non abbia superato gli esami prescritti per il primo anno non viene ammesso all'anno successivo.
+
+Art. 120. - Per le materie a corso pluriennale l'esame e' unico e deve essere sostenuto alla fine del corso.
+
+Art. 121. - L'esame di diploma consiste nella discussione di una dissertazione originale scritta.
+
+Art. 122. - La commissione per l'esame di diploma, nominata dal rettore su proposta del direttore e' costituita dal direttore, che la presiede, e da altri quattro docenti della scuola stessa.
+
+Art. 123. - Tutti gli atti e i documenti relativi alla scuola di perfezionamento in diritto regionale sono conservati dalla segreteria dell'universita' che rilascia i certificati richiesti dagli interessati.
+
+Art. 124. - In base al risultato dell'esame di diploma la segreteria dell'universita' rilascera' il relativo diploma di perfezionamento, che dovra' essere munito della firma del rettore, di quella del direttore della scuola e del direttore amministrativo, oltre che del timbro a secco dell'universita'.
+
+Art. 125. - Per la carriera scolastica, gli esami e la disciplina degli allievi valgono, in quanto applicabili, le disposizioni del regolamento approvato con regio decreto 4 giugno 1938, e successive modificazioni.
+
+Art. 126. - Gli iscritti devono pagare per tasse d'immatricolazione L. 10.000 e, annualmente, le somme seguenti:
+
+per tassa di iscrizione L. 20.000; per contributi di esercitazioni e di seminario L. 15.000; per contributo di biblioteca L. 3000; per soprattasse esami di profitto L. 5000.
+
+I diplomati dovranno inoltre pagare L. 3000 per soprattasse di diploma. Coloro i quali conseguono il diploma di perfezionamento sono tenuti al versamento delle tasse di diploma in L. 6000, tasse, soprattasse e contributi sono versati alla cassa dell'universita'. La tassa di diploma va invece versata all'erario.
+
+Art. 127. Il provento delle tasse di immatricolazione e di iscrizione va devoluto per meta' alla scuola e per l'altra meta' va incamerato dall'universita'. Il provento dei contributi per esercitazioni devoluto al "Circolo giuridico Sampolo". Il contributo di biblioteca va devoluto interamente alla biblioteca della facolta' di giurisprudenza. Il provento delle soprattasse per gli esami di profitto e diploma va ripartito ai sensi del [decreto del Presidente della Repubblica 1 dicembre 1952, n. 5512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-12-01;5512).
+
+Art. 128. - Il direttore della scuola e' il preside della facolta' di giurisprudenza o un professore da lui delegato ed e' investito di tutti i poteri di direzione sia dal punto di vista didattico, che dal punto di vista amministrativo.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 27 settembre 1970
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 5 dicembre 1970 Atti del Governo, registro n. 238, foglio n. 210. - CARUSO
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 147 - all'elenco delle scuole di specializzazione e' aggiunta la scuola di specializzazione in chirurgia pediatrica.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Dopo l'art. 192, e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo alla istituzione della scuola di specializzazione in chirurgia pediatrica:  
+Decreta:   
   
-Scuola di specializzazione in chirurgia pediatrica  
-Art. 193. - La scuola di specializzazione in chirurgia pediatrica ha sede presso la clinica chirurgica pediatrica; la direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine ed e' retta secondo le norme del regolamento generale per le scuole di specializzazione della facolta' di medicina e chirurgia dell'Universita' di Palermo.  
-La scuola di specializzazione in chirurgia pediatrica conferisce il diploma di specialista in chirurgia pediatrica.  
-La durata del corso di studi per il conseguimento della specialita' in chirurgia pediatrica e' fissata in cinque anni.  
-Possono ottenere l'iscrizione alla scuola solo i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Non e' ammessa abbreviazione di corso.  
-Il numero massimo degli allievi e' di dodici iscritti per l'intero corso di studi.  
-L'ammissione al corso avviene per titoli ed esami.  
-Il corso si compone di insegnamenti fondamentali, oltre ad un periodo di frequenza obbligatoria di almeno sei mesi per ogni anno di corso.  
-Il periodo di frequenza obbligatoria puo' essere abbreviato per coloro che documentino di svolgere effettivo servizio presso i reparti di chirurgia pediatrica universitari od ospedalieri.  
-Le materie d'insegnamento sono le seguenti:  
-1° Anno:  
-embriologia e genetica delle malformazioni congenite;  
-anatomia patologica generale (biennale) I;  
-diagnostica radiologica e nucleare generale;  
-anestesiologia;  
-clinica pediatrica (biennale) I;  
-patologia e clinica chirurgica generale (biennale) 1.  
-2° Anno:  
-patologia e clinica chirurgica generale (biennale) Il;  
-rianimazione e terapia intensiva (biennale) I;  
-anatomia patologica generale (biennale) II;  
-diagnostica radiologica e nucleare delle malattie infantili;  
-clinica pediatrica (biennale) II.  
-3° Anno:  
-patologia e clinica chirurgica pediatrica (triennale) I;  
-endocrinologia pediatrica;  
-tecnica chirurgica generale;  
-rianimazione e terapia intensiva (biennale) II;  
-chirurgia neonatale.  
-4° Anno:  
-patologia e clinica chirurgica pediatrica (triennale) II;  
-neurochirurgia pediatrica;  
-tecnica chirurgica pediatrica;  
-ortopedia pediatrica;  
-chirurgia plastica e ricostruttiva pediatrica.  
-5° Anno:  
-patologia e clinica chirurgica pediatrica (triennale) III;  
-otorinolaringoiatria pediatrica;  
-cardiochirurgia pediatrica;  
-urologia pediatrica.  
-La frequenza alle lezioni e' obbligatoria.  
-Al termine di ciascun anno di corso gli specializzandi che abbiano ottenuto le firme di frequenza devono sostenere gli esami di profitto delle materie insegnate.  
-Per accedere ai corsi successivi e' obbligatorio il superamento di tutti gli esami del corso precedente.  
-Al termine del corso gli specializzandi devono presentare una dissertazione scritta su un argomento di chirurgia pediatrica e sostenere l'esame di diploma.  
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+  
+Dopo l'art. 110 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di perfezionamento in diritto regionale.   
+  
+Scuola di perfezionamento in diritto regionale   
+  
+Art. 111. - E' istituita presso la facolta' di giurisprudenza una scuola di perfezionamento in diritto regionale, che ha per fine di indirizzare allo studio dei problemi specifici che interessano il diritto regionale.   
+Art. 112. - Alla scuola di perfezionamento sono ammessi i laureati in giurisprudenza, scienze politiche ed economia e commercio.   
+Art. 113. - Il corso di studio ha la durata di due anni.   
+Art. 114. - Gli insegnamenti impartiti nella scuola sono:   
+1° Anno:   
+Diritto costituzionale;   
+Storia del diritto pubblico regionale;   
+Diritto amministrativo I;   
+Politica economica regionale I;   
+Diritto tributario.   
+2° Anno:   
+Ordinamento e legislazione regionale;   
+Diritto amministrativo II;   
+Politica economica regionale II;   
+Diritto tributario regionale;   
+Statistica e demografia.   
+Art. 115. - L'insegnamento delle discipline di cui al piano di studi contemplate nel precedente articolo e' affidato per incarico a professori titolari, a liberi docenti e cultori con deliberazione della facolta' di giurisprudenza.   
+Art. 116. - Gli insegnamenti e le esercitazioni della scuola di perfezionamento sono tenuti distinti da quelli per gli studenti del corso di giurisprudenza.   
+Art. 117. - Gli insegnamenti possono avere, oltre che carattere di lezioni cattedratiche, quella forma che e' consentita dalla indole di ciascuna disciplina; sono inoltre tenute conferenze sugli argomenti oggetto del corso.   
+Art. 118. - Il programma della scuola viene compilato ogni anno dal direttore e deve essere approvato dai docenti della scuola; cosi' pure gli orari settimanali di insegnamento e di esercitazioni. I corsi di insegnamento si uniformano al calendario dell'universita'.   
+Art. 119. - Gli esami di profitto vengono sostenuti dagli allievi alla fine di ogni anno di corso e si svolgono per singole discipline.   
+Le commissioni relative vengono nominate dal direttore della scuola.  
+Gli esami si svolgono secondo le norme vigenti per gli esami di profitto delle facolta' universitarie.   
+L'iscritto che non abbia superato gli esami prescritti per il primo anno non viene ammesso all'anno successivo.   
+Art. 120. - Per le materie a corso pluriennale l'esame e' unico e deve essere sostenuto alla fine del corso.   
+Art. 121. - L'esame di diploma consiste nella discussione di una dissertazione originale scritta.   
+Art. 122. - La commissione per l'esame di diploma, nominata dal rettore su proposta del direttore e' costituita dal direttore, che la presiede, e da altri quattro docenti della scuola stessa.   
+Art. 123. - Tutti gli atti e i documenti relativi alla scuola di perfezionamento in diritto regionale sono conservati dalla segreteria dell'universita' che rilascia i certificati richiesti dagli interessati.   
+Art. 124. - In base al risultato dell'esame di diploma la segreteria dell'universita' rilascera' il relativo diploma di perfezionamento, che dovra' essere munito della firma del rettore, di quella del direttore della scuola e del direttore amministrativo, oltre che del timbro a secco dell'universita'.   
+Art. 125. - Per la carriera scolastica, gli esami e la disciplina degli allievi valgono, in quanto applicabili, le disposizioni del regolamento approvato con regio decreto 4 giugno 1938, e successive modificazioni.   
+Art. 126. - Gli iscritti devono pagare per tasse d'immatricolazione L. 10.000 e, annualmente, le somme seguenti:   
+per tassa di iscrizione L. 20.000; per contributi di esercitazioni e di seminario L. 15.000; per contributo di biblioteca L. 3000; per soprattasse esami di profitto L. 5000.   
+I diplomati dovranno inoltre pagare L. 3000 per soprattasse di diploma. Coloro i quali conseguono il diploma di perfezionamento sono tenuti al versamento delle tasse di diploma in L. 6000, tasse, soprattasse e contributi sono versati alla cassa dell'universita'. La tassa di diploma va invece versata all'erario.   
+Art. 127. Il provento delle tasse di immatricolazione e di iscrizione va devoluto per meta' alla scuola e per l'altra meta' va incamerato dall'universita'. Il provento dei contributi per esercitazioni devoluto al "Circolo giuridico Sampolo". Il contributo di biblioteca va devoluto interamente alla biblioteca della facolta' di giurisprudenza. Il provento delle soprattasse per gli esami di profitto e diploma va ripartito ai sensi del [decreto del Presidente della Repubblica 1 dicembre 1952, n. 5512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-12-01;5512).   
+Art. 128. - Il direttore della scuola e' il preside della facolta' di giurisprudenza o un professore da lui delegato ed e' investito di tutti i poteri di direzione sia dal punto di vista didattico, che dal punto di vista amministrativo.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1979
+### Dato a Roma, addi' 27 settembre 1970
 
-PERTINI VALITUTTI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 20 marzo 1980
+Registrato alla Corte dei conti, addi' 5 dicembre 1970
 
-Registro n. 24 Istruzione, foglio n. 160
+Atti del Governo, registro n. 238, foglio n. 210. - CARUSO

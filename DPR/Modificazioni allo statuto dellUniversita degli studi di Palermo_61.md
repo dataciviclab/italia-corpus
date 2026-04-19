@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1214
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1971 n. 1143
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1214
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1971 n. 1143
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
@@ -10,231 +10,330 @@ Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+L'art. 122 relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la "Scuola in radiologia medica e radioterapia" muta la denominazione in quella di "Scuola in radiologia".
 
+L'art. 149 relativo alla "Scuola di specializzazione in radiologia medica e radioterapia" che assume la denominazione di "Scuola di specializzazione in radiologia" e' abrogato e sostituito dal seguente:
+
+Scuola di specializzazione in radiologia
+
+Art. 149. - La scuola di specializzazione in radiologia rilascia due diplomi:
+
+a) diploma di specializzazione in radiologia;
+
+b) diploma di specializzazione in radiologia diagnostica.
+
+A) Diploma di specializzazione in radiologia:
+
+Durata del corso: 4 anni.
+
+Numero massimo di iscritti: sei per ogni anno di corso (totale iscritti numero ventiquattro).
+
+1° Anno:
+
+Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;
+
+Nozioni sugli apparecchi ed istrumenti della radiologia;
+
+Anatomia radiologica normale;
+
+Fisiologia radiologica;
+
+Tecnica radiologica generale;
+
+Semeiotica radiologica generale;
+
+Fondamenti di radiobiologia;
+
+Nozioni di statistica e matematica.
+
+2° Anno:
+
+Tecnica e metodologia dell'esame radiologico dei vari organi, apparati e sistemi;
+
+Semeiotica radiologica speciale e diagnosi differenziale;
+
+Fondamenti di radioterapia;
+
+Danni da radiazioni e mezzi di protezione;
+
+Dimostrazioni cliniche di diagnostica radiologica;
+
+Dimostrazioni cliniche di radioterapia.
+
+3° Anno:
+
+Diagnostica radiologica differenziale;
+
+Dimostrazione di casistica di roentgendiagnostica con confronto del quadro anatomo-patologico;
+
+Radioterapia tradizionale;
+
+Curieterapia;
+
+Elementi di medicina nucleare;
+
+Istrumentario, tecnica e metodiche di applicazione;
+
+Dimostrazione di casistica di roentgenterapia con particolare riferimento all'anatomia patologica;
+
+Radioterapia con alte energie;
+
+Dosimetria.
+
+4° Anno:
+
+Moderne tecniche di esplorazione e terapia radiologica;
+
+Diagnostica e terapia con isotopi radioattivi somministrati per via interna;
+
+Radiodiagnostica e terapia clinica (casistica);
+
+Medicina legale e legislazione sanitaria in relazione alla radiologia.
+
+B) Diploma di specializzazione in radiologia diagnostica:
+
+Durata del corso: 3 anni.
+
+Numero massimo di iscritti: sei per ogni anno di corso (totale numero diciotto iscritti).
+
+1° Anno:
+
+Fisica con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;
+
+Nozioni sugli apparecchi ed istrumenti della radiologia;
+
+Anatomia radiologica normale;
+
+Fisiologia radiologica;
+
+Tecnica radiologica generale;
+
+Semeiotica radiologica generale;
+
+Fondamenti di radiobiologia;
+
+Nozioni di statistica e matematica.
+
+2° Anno:
+
+Metodica di esporzione dei vari organi ed apparati;
+
+Semeiotica radiologica speciale e diagnosi differenziale;
+
+Nozioni generali sulle lesioni da radiazione e mezzi;
+
+Moderne tecniche di esplorazione radiologica.
+
+3° Anno:
+
+Esplorazione radiologica nella patologia dei vari organi ed apparati. Diagnostica differenziale. Rapporti con l'anatomia patologica;
+
+Radiodiagnostica clinica;
+
+Medicina legale e legislazione sanitaria in relazione alla radiologia.
+
+E' obbligatorio l'internato. I corsi, per entrambi i diplomi, saranno integrati da conferenze, esercitazioni e seminari.
+
+L'obbligo della frequenza durante tutto l'anno accademico (nove mesi) presso l'istituto di radiologia, sede della scuola, puo' essere ridotto ad un mese (su concessione del direttore della scuola) per gli specializzandi che fanno parte di istituti, universitari della stessa disciplina che non abbiano la scuola e per gli assistenti di ruolo di primariato della stessa disciplina presso ospedali di prima categoria.
+
+Non e' consentita l'abbreviazione dei corsi, fatta eccezione per gli specializzati in radiologia diagnostica, che intendano conseguire il diploma di specializzazione in radiologia, i quali potranno essere ammessi al terzo o quarto anno del corso in radiologia, a giudizio del direttore della scuola, in base alla valutazione dei loro titoli.
+
+E' obbligatorio il superamento degli esami di un corso per l'ammissione al corso successivo.
+
+All'art. 143 relativo alla "Scuola di specializzazione in psichiatria" sono inseriti i seguenti nuovi comma:
+
+Norme
+
+Internato obbligatorio per l'intero anno scolastico per il 1°, 3° e 4° anno in clinica psichiatrica sede della scuola. Tale internato potra' essere ridotto a non meno di quattro mesi all'anno per i medici che prestino servizio regolare in ospedale psichiatrico.
+
+L'internato e' obbligatorio per il 2° anno in neurologia per l'intero anno scolastico, salvo per i medici che prestino regolare servizio in ospedale psichiatrico per i quali potra' essere ridotto a non meno di mesi 6, e per i medici che prestino regolare servizio in un reparto neurologico per i quali potra' essere ridotto a non meno di mesi 4.
+
+Esami obbligatori per il passaggio all'anno successivo.
+
+Numero massimo di iscritti: 6 per ogni anno di corso (totale 24 iscritti).
+
+Ammissione per titoli ed esame.
+
+Per gli specialisti in neurologia ed in neuropsichiatria infantile potra' esservi un abbuono di 2 anni.
+
+Un anno di abbuono per gli specialisti in altre materie affini (Psicologia, medicina generale, neurochirurgia).
+
+Tali abbuoni possono essere concessi solo dopo aver superato l'esame di ammissione. Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.
+
+All'art. 152 relativo alla "Scuola di specializzazione in anestesiologia e rianimazione" sono inseriti i seguenti nuovi comma:
+
+"Non e' concesso nessun abbreviamento di corso, ad eccezione dei candidati gia' in possesso del diploma di anestesiologia, che possono essere ammessi al 3° anno per ottenere il completamento.
+
+Per accedere ai corsi successivi e' obbligatorio il superamento di tutti gli esami del corso precedente, ivi comprese le materie biennali.
+
+Gli esami possono essere sostenuti solamente in due sessioni annuali, una estiva e una autunnale, e comunque non oltre il 30 novembre dell'anno in corso.
+
+Il diploma viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico o sperimentale".
+
+All'art. 156 relativo alla "Scuola di specializzazione in chirurgia vascolare" sono inseriti i seguenti nuovi comma:
+
+"L'insegnamento sara' dottrinario e pratico.
+
+Gli iscritti hanno l'obbligo di frequenza sia alle lezioni che al tirocinio pratico.
+
+Alla fine del triennio gli specializzandi dovranno superare una prova orale-teorica ed una prova clinica prima di essere ammessi all'esame di diploma.
+
+L'esame di diploma consistera' nella discussione di una tesi scritta su argomenti di chirurgia vascolare".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 18 ottobre 1971
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: COLOMBO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 21 dicembre 1971 Atti del Governo, registro n. 245, foglio n. 129. - VALENTINI
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Gli articoli 92 e seguenti, relativi al corso di laurea in architettura, sono soppressi e sostituiti dai seguenti articoli:  
-Art. 92. - La facolta' di architettura promuove e sviluppa gli studi sull'architettura relativi alla conoscenza, alla progettazione, alla costruzione e alla gestione dell'ambiente al fine di assicurare la formazione, il progresso della ricerca teorica e applicata e la promozione culturale specifica nell'ambito della citta' e del territorio.  
-Art. 93. - La facolta' comprende il corso di laurea in architettura. Al termine del corso degli studi, la cui durata e' di cinque anni, conferisce il titolo di dottore in architettura.  
-Art. 94. - I titoli di studio che danno diritto all'ammissione al primo anno della facolta' sono quelli previsti dalle leggi vigenti.  
-Art. 95. - Il corso di laurea e' articolato nei seguenti indirizzi:  
-1) progettazione architettonica;  
-2) tutela e recupero del patrimonio storico-architettonico;  
-3) tecnologico;  
-4) urbanistico.  
-La facolta' indica nel manifesto annuale degli studi gli indirizzi attivati, specificandone i contenuti scientifici e didattici e gli obiettivi di formazione professionale.  
-Art. 96. - Gli insegnamenti attivati o attivabili nella facolta' sono quelli compresi nell'elenco che segue, articolato per aree disciplinari.  
-1) Area progettuale architettonica:  
-composizione architettonica (1ª annualita);  
-composizione architettonica (2ª annualita);  
-allestimento e museografia;  
-arredamento e architettura degli interni;  
-arte dei giardini;  
-caratteri tipologici dell'architettura;  
-normative e legislazione per l'edilizia;  
-progettazione architettonica (1ª annualita);  
-progettazione architettonica (2ª annualita);  
-scenografia;  
-teoria dei modelli per la progettazione;  
-teoria e tecniche della progettazione architettonica.  
-2) Area della progettazione territoriale e urbanistica:  
-urbanistica (1ª annualita);  
-urbanistica (2ª annualita);  
-analisi di sistemi urbani;  
-analisi delle strutture urbanistiche e territoriali (1ª annualita);  
-analisi delle strutture urbanistiche e territoriali (2ª annualita);  
-diritto e legislazione urbanistica;  
-ecologia applicata;  
-geologia applicata ed idrogeologia;  
-gestione urbanistica del territorio;  
-organizzazione del territorio;  
-pianificazione del territorio;  
-progettazione urbanistica (1ª annualita);  
-progettazione urbanistica (2ª annualita);  
-teoria dell'urbanistica (1ª annualita);  
-teoria dell'urbanistica (2ª annualita);  
-assetto del paesaggio;  
-infrastrutture di viabilita' e trasporto.  
-3) Area storico-critica e del restauro:  
-storia dell'architettura (1ª annualita);  
-storia dell'architettura (2ª annualita);  
-storia dell'urbanistica (1ª annualita);  
-storia dell'urbanistica (2ª annualita);  
-storia dell'architettura contemporanea;  
-storia dell'arte;  
-storia della citta' e del territorio;  
-storia della critica e della letteratura architettonica;  
-storia della scienza;  
-storia della tecnologia;  
-restauro architettonico;  
-restauro urbano;  
-teoria del restauro;  
-storia dell'architettura (3ª annualita).  
-4) Area tecnologica:  
-tecnologia dell'architettura (1ª annualita);  
-tecnologia dell'architettura (2ª annualita);  
-cultura tecnologica della progettazione;  
-disegno industriale;  
-ergonomia;  
-igiene ambientale;  
-morfologia dei componenti;  
-progettazione ambientale;  
-sperimentazione di sistemi e componenti;  
-tecnica ed economia della produzione edilizia;  
-tecnologie dei materiali da costruzione;  
-tipologia strutturale;  
-unificazione edilizia e prefabbricazione;  
-disegno industriale (2ª annualita);  
-tecnologie del recupero edilizio.  
-5) Area impiantistica:  
-fisica tecnica e impianti;  
-illuminotecnica, acustica e climatizzazione nell'edilizia;  
-impianti speciali di sicurezza;  
-impianti tecnici urbani;  
-ubicazione e distribuzione della produzione della energia;  
-impianti tecnici per l'edilizia.  
-6) Area fisico-matematica:  
-istituzioni di matematica;  
-calcolo numerico e programmazione;  
-elaborazione elettronica dei dati;  
-elaborazione elettronica della progettazione;  
-fisica;  
-geometria descrittiva;  
-istituzioni di statica;  
-linguaggio per l'uso dei calcolatori;  
-matematica applicata;  
-teoria dei sistemi;  
-modelli matematici per la programmazione territoriale.  
-7) Area della scienza e tecnica delle costruzioni:  
-statica;  
-consolidamento ed adattamento degli edifici;  
-costruzioni in zone sismiche;  
-dinamica delle costruzioni;  
-geotecnica e tecnica delle fondazioni;  
-scienza delle costruzioni;  
-complementi di scienza delle costruzioni;  
-tecnica delle costruzioni (1ª annualita);  
-tecnica delle costruzioni (2ª annualita).  
-8) Area socio-economica:  
-estimo ed esercizio professionale;  
-economia urbana e regionale;  
-antropologia culturale;  
-demografia;  
-economia dei trasporti;  
-fondamenti di economia;  
-geografia urbana e regionale;  
-sociologia urbana e rurale;  
-fondamenti di economia politica e di politica economica.  
-9) Area della rappresentazione:  
-disegno e rilievo;  
-applicazioni di geometria descrittiva;  
-cartografia tematica;  
-elementi di fotogrammetria;  
-interpretazione di immagini e telerilevamenti;  
-strumenti e metodi per il rilievo architettonico;  
-strumenti e tecniche di comunicazione visiva;  
-tecniche della cartografia automatica;  
-tecniche di rappresentazione dell'architettura;  
-topografia;  
-rappresentazione dei fenomeni territoriali;  
-fotogrammetria e cartografia.  
-Art. 97. - Nella facolta' sono fondamentali i seguenti insegnamenti di durata annuale:  
-1) composizione architettonica (1ª annualita);  
-2) urbanistica (1ª annualita);  
-3) storia dell'architettura (1ª annualita);  
-4) tecnologia dell'architettura (1ª annualita);  
-5) fisica tecnica e impianti;  
-6) istituzioni di matematica;  
-7) statica;  
-8) estimo ed esercizio professionale;  
-9) disegno e rilievo.  
-Sono inoltre attivati i seguenti insegnamenti di durata annuale, caratterizzanti il corso di laurea in architettura:  
-1) teoria e tecniche della progettazione architettonica;  
-2) composizione architettonica (2ª annualita);  
-3) progettazione architettonica (1ª annualita);  
-4) urbanistica (2ª annualita);  
-5) storia dell'architettura contemporanea;  
-6) restauro architettonico;  
-7) disegno industriale;  
-8) scienza delle costruzioni;  
-9) geografia urbana e regionale.  
-I piani di studio per il conseguimento della laurea in architettura dovranno comprendere trenta insegnamenti.  
-I diciotto insegnamenti sopra elencati saranno comuni a tutti gli indirizzi. I rimanenti individueranno gli indirizzi e saranno attinti dalle singole aree nel modo indicato piu' sotto.  
-Art. 98. - Gli insegnamenti individuanti gli indirizzi dovranno essere scelti come segue:  
-1) Indirizzo progettazione architettonica:  
-tre annualita' dell'area progettuale architettonica;  
-una annualita' dell'area della progettazione territoriale e urbanistica;  
-una annualita' dell'area storico-critica e del restauro;  
-una annualita' dell'area tecnologica;  
-due annualita' dell'area della scienza e tecnica delle costruzioni;  
-una annualita' dell'area della rappresentazione.  
-2) Indirizzo, tutela e recupero del patrimonio storico-architettonico:  
-due annualita' dell'area progettuale architettonica;  
-una annualita' dell'area della progettazione territoriale e urbanistica;  
-tre annualita' dell'area storico-critica e del restauro;  
-una annualita' dell'area tecnologica;  
-una annualita' dell'area della scienza e tecnica delle costruzioni;  
-una annualita' dell'area della rappresentazione.  
-3) Indirizzo tecnologico:  
-una annualita' dell'area progettuale architettonica;  
-una annualita' dell'area storico-critica e del restauro;  
-tre annualita' dell'area tecnologica;  
-una annualita' dell'area impiantistica;  
-una annualita' dell'area fisico-matematica;  
-una annualita' dell'area della scienza e tecnica delle costruzioni;  
-una annualita' dell'area della rappresentazione.  
-4) Indirizzo urbanistico:  
-tre annualita' dell'arca della progettazione territoriale e urbanistica;  
-una annualita' dell'area storico-critica e del restauro;  
-una annualita' dell'area tecnologica;  
-una annualita' dell'area fisico-matematica;  
-due annualita' dell'area socio-economica;  
-una annualita' dell'area della rappresentazione.  
-Art. 99. - Le precedenze di esame da rispettare saranno le seguenti:  
-Non potranno essere ammessi a sostenere l'esame di statica ne' l'esame di fisica tecnica e impianti gli studenti che non avranno precedentemente superato l'esame di istituzioni di matematica.  
-Non potranno essere ammessi a sostenere l'esame di scienza delle costruzioni coloro che non avranno precedentemente superato l'esame di statica.  
-Tre annualita' saranno scelte dallo studente in una rosa da specificare nel manifesto annuale degli studi.  
-Art. 100. - Gli insegnamenti sono svolti mediante lezioni, eventualmente integrate da seminari, laboratori, esercitazioni pratiche, conferenze, visite, ecc. Gli esami di profitto consistono in colloqui sui temi svolti nei corsi, eventualmente integrati da discussioni sulle esercitazioni svolte durante il corso e da prove grafiche o scritte.  
-Art. 101. - Per essere ammesso all'esame di laurea lo studente deve avere superato le prove di esame relative agli insegnamenti indicati nel piano di studio.  
-Lo studente inoltre dovra' essere sottoposto all'accertamento della conoscenza di almeno una lingua straniera fra quelle indicate dalla facolta' nel manifesto annuale degli studi, mediante colloquio e traduzione di testi scientifici, da effettuarsi prima dell'assegnazione della tesi di laurea con docenti di discipline attinenti alla tesi stessa.  
-L'esame di laurea consiste nella valutazione dell'attivita' svolta e del profitto conseguito dal candidato durante il corso degli studi e nella discussione di una tesi riguardante il campo disciplinare della facolta'.  
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
+  
+Decreta:   
+  
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+  
+L'art. 122 relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la "Scuola in radiologia medica e radioterapia" muta la denominazione in quella di "Scuola in radiologia".   
+L'art. 149 relativo alla "Scuola di specializzazione in radiologia medica e radioterapia" che assume la denominazione di "Scuola di specializzazione in radiologia" e' abrogato e sostituito dal seguente:   
+  
+Scuola di specializzazione in radiologia   
+  
+Art. 149. - La scuola di specializzazione in radiologia rilascia due diplomi:   
+a) diploma di specializzazione in radiologia;   
+b) diploma di specializzazione in radiologia diagnostica.   
+A) Diploma di specializzazione in radiologia:   
+Durata del corso: 4 anni.   
+Numero massimo di iscritti: sei per ogni anno di corso (totale iscritti numero ventiquattro).   
+1° Anno:   
+Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;   
+Nozioni sugli apparecchi ed istrumenti della radiologia;   
+Anatomia radiologica normale;   
+Fisiologia radiologica;   
+Tecnica radiologica generale;   
+Semeiotica radiologica generale;   
+Fondamenti di radiobiologia;   
+Nozioni di statistica e matematica.   
+2° Anno:   
+Tecnica e metodologia dell'esame radiologico dei vari organi, apparati e sistemi;   
+Semeiotica radiologica speciale e diagnosi differenziale;   
+Fondamenti di radioterapia;   
+Danni da radiazioni e mezzi di protezione;   
+Dimostrazioni cliniche di diagnostica radiologica;   
+Dimostrazioni cliniche di radioterapia.   
+3° Anno:   
+Diagnostica radiologica differenziale;   
+Dimostrazione di casistica di roentgendiagnostica con confronto del quadro anatomo-patologico;   
+Radioterapia tradizionale;   
+Curieterapia;   
+Elementi di medicina nucleare;   
+Istrumentario, tecnica e metodiche di applicazione;   
+Dimostrazione di casistica di roentgenterapia con particolare riferimento all'anatomia patologica;   
+Radioterapia con alte energie;   
+Dosimetria.   
+4° Anno:   
+Moderne tecniche di esplorazione e terapia radiologica;   
+Diagnostica e terapia con isotopi radioattivi somministrati per via interna;   
+Radiodiagnostica e terapia clinica (casistica);   
+Medicina legale e legislazione sanitaria in relazione alla radiologia.   
+B) Diploma di specializzazione in radiologia diagnostica:   
+Durata del corso: 3 anni.   
+Numero massimo di iscritti: sei per ogni anno di corso (totale numero diciotto iscritti).   
+1° Anno:   
+Fisica con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;   
+Nozioni sugli apparecchi ed istrumenti della radiologia;   
+Anatomia radiologica normale;   
+Fisiologia radiologica;   
+Tecnica radiologica generale;   
+Semeiotica radiologica generale;   
+Fondamenti di radiobiologia;   
+Nozioni di statistica e matematica.   
+2° Anno:   
+Metodica di esporzione dei vari organi ed apparati;   
+Semeiotica radiologica speciale e diagnosi differenziale;   
+Nozioni generali sulle lesioni da radiazione e mezzi;   
+Moderne tecniche di esplorazione radiologica.   
+3° Anno:   
+Esplorazione radiologica nella patologia dei vari organi ed apparati. Diagnostica differenziale. Rapporti con l'anatomia patologica;   
+Radiodiagnostica clinica;   
+Medicina legale e legislazione sanitaria in relazione alla radiologia.   
+E' obbligatorio l'internato. I corsi, per entrambi i diplomi, saranno integrati da conferenze, esercitazioni e seminari.   
+L'obbligo della frequenza durante tutto l'anno accademico (nove mesi) presso l'istituto di radiologia, sede della scuola, puo' essere ridotto ad un mese (su concessione del direttore della scuola) per gli specializzandi che fanno parte di istituti, universitari della stessa disciplina che non abbiano la scuola e per gli assistenti di ruolo di primariato della stessa disciplina presso ospedali di prima categoria.   
+Non e' consentita l'abbreviazione dei corsi, fatta eccezione per gli specializzati in radiologia diagnostica, che intendano conseguire il diploma di specializzazione in radiologia, i quali potranno essere ammessi al terzo o quarto anno del corso in radiologia, a giudizio del direttore della scuola, in base alla valutazione dei loro titoli.   
+E' obbligatorio il superamento degli esami di un corso per l'ammissione al corso successivo.   
+All'art. 143 relativo alla "Scuola di specializzazione in psichiatria" sono inseriti i seguenti nuovi comma:   
+  
+Norme   
+  
+Internato obbligatorio per l'intero anno scolastico per il 1°, 3° e 4° anno in clinica psichiatrica sede della scuola. Tale internato potra' essere ridotto a non meno di quattro mesi all'anno per i medici che prestino servizio regolare in ospedale psichiatrico.   
+L'internato e' obbligatorio per il 2° anno in neurologia per l'intero anno scolastico, salvo per i medici che prestino regolare servizio in ospedale psichiatrico per i quali potra' essere ridotto a non meno di mesi 6, e per i medici che prestino regolare servizio in un reparto neurologico per i quali potra' essere ridotto a non meno di mesi 4.   
+Esami obbligatori per il passaggio all'anno successivo.   
+Numero massimo di iscritti: 6 per ogni anno di corso (totale 24 iscritti).   
+Ammissione per titoli ed esame.   
+Per gli specialisti in neurologia ed in neuropsichiatria infantile potra' esservi un abbuono di 2 anni.   
+Un anno di abbuono per gli specialisti in altre materie affini (Psicologia, medicina generale, neurochirurgia).   
+Tali abbuoni possono essere concessi solo dopo aver superato l'esame di ammissione. Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.   
+All'art. 152 relativo alla "Scuola di specializzazione in anestesiologia e rianimazione" sono inseriti i seguenti nuovi comma:   
+"Non e' concesso nessun abbreviamento di corso, ad eccezione dei candidati gia' in possesso del diploma di anestesiologia, che possono essere ammessi al 3° anno per ottenere il completamento.   
+Per accedere ai corsi successivi e' obbligatorio il superamento di tutti gli esami del corso precedente, ivi comprese le materie biennali.   
+Gli esami possono essere sostenuti solamente in due sessioni annuali, una estiva e una autunnale, e comunque non oltre il 30 novembre dell'anno in corso.   
+Il diploma viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico o sperimentale".   
+All'art. 156 relativo alla "Scuola di specializzazione in chirurgia vascolare" sono inseriti i seguenti nuovi comma:   
+  
+"L'insegnamento sara' dottrinario e pratico.   
+Gli iscritti hanno l'obbligo di frequenza sia alle lezioni che al tirocinio pratico.   
+Alla fine del triennio gli specializzandi dovranno superare una prova orale-teorica ed una prova clinica prima di essere ammessi all'esame di diploma.   
+L'esame di diploma consistera' nella discussione di una tesi scritta su argomenti di chirurgia vascolare".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1983
+### Dato a Roma, addi' 18 ottobre 1971
 
-PERTINI FALCUCCI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 28 aprile 1984
+Registrato alla Corte dei conti, addi' 21 dicembre 1971
 
-Registro n. 25 Istruzione, foglio n. 164
+Atti del Governo, registro n. 245, foglio n. 129. - VALENTINI

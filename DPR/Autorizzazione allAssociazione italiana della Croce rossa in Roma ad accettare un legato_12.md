@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 gennaio 1981 n. 482
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 giugno 1982 n. 739
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 gennaio 1981 n. 482
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 giugno 1982 n. 739
+=============================================================
 
 Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-482. Decreto del Presidente della Repubblica 8 gennaio 1981, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato, consistente in L. 500.000, disposto dalla sig.ra Annalena Bolchini ved. De Grandi con testamento olografo 22 gennaio 1967, pubblicato in data 24 aprile 1975, n. 51595/1185 di repertorio, a rogito dott. Bruno Volpe, notaio in Varese, registrato a Luino (Varese), in data 9 maggio 1975, a favore del comitato C.R.I. di Varese.  
+739. Decreto del Presidente della Repubblica 17 giugno 1982, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 1.000.000 depositata presso la Banca commerciale italiana in due libretti al portatore intestati alla signora Dina Rocco, disposto dalla stessa signora Dina Rocco in favore del comitato provinciale C.R.I., di La Spezia con testamento olografo 23 marzo 1977, pubblicato in data 26 gennaio 1978, n. 75203/13574 di repertorio, a rogito dott. Giuseppe Carpena, notaio in La Spezia, registrato a La Spezia, in data 31 gennaio 1978 al n. 724.  
   
 Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 13 agosto 1981  
-Registro n. 5 Sanita', foglio n. 141
+Registrato alla Corte dei conti, addi' 2 ottobre 1982  
+Registro n. 6 Sanita', loglio n. 234

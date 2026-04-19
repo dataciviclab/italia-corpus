@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1966 n. 1098
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1980 n. 1036
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1966 n. 1098
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1980 n. 1036
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,107 +18,170 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifiche dello statuto formulate delle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Cagliari e convalidati dal Consiglio superiore della pubblica istruzione e dal Consiglio universitario nazionale nei loro pareri;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentiti i pareri del Consiglio superiore della pubblica istruzione e del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Dopo l'art. 168 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione del corso teorico-pratico per il personale ausiliario dei servizi pubblici di igiene e profilassi.
-
-Corso teorico-pratico per il personale ausiliario dei servizi pubblici di igiene e profilassi (Scuola diretta a fini speciali)
-
-Art. 169. - Nella Facolta' di medicina e chirurgia, con sede presso l'istituto di igiene, e' istituito un corso teorico-pratico di preparazione e addestramento per il personale tecnico ausiliario addetto ai servizi pubblici di igiene e profilassi.
-
-Art. 170. - Detto corso ha la durata di un anno e la frequenza e' obbligatoria.
-
-Art. 171. - Sono ammessi alla frequenza i giovani in eta' tra i 18 ed i 28 anni compiuti, in numero non superiore a 25, che risultino in possesso di regolare diploma di scuola media di secondo grado. Si prescinde dai limiti di eta' per tutti coloro che prestino servizio di ruolo presso pubbliche Amministrazioni.
-
-Art. 172. - Le materie di insegnamento sono le seguenti:
-
-1) Nozioni fondamentali di fisiologia umana, di microbiologia generale, di immunologia, di parassitologia e di statistica sanitaria;
-
-2) Igiene generale;
-
-3) Epidemiologia e profilassi generale delle malattie infettive e di quelle non infettive di interesse sociale;
-
-4) Igiene dell'alimentazione e degli alimenti;
-
-5) Nozioni fondamentali di diritto amministrativo, civile, penale e sanitario.
-
-Le lezioni teoriche sono integrate da esercitazioni pratiche sia a carattere dimostrativo, comprese le campionature, sia a carattere di visite ad impianti sanitari ed igienici cittadini ed extraurbani e ad uffici e laboratori di igiene comunali, provinciali, regionali e statali.
-
-Art. 173. - Alla fine del corso gli allievi dovranno sostenere una prova scritta, una prova orale ed una prova pratica sulle materie del programma.
-
-Agli allievi che avranno ottenuto l'approvazione da parte della Commissione giudicatrice, verra' rilasciato un attestato finale di frequenza e profitto.
-
-Art. 174. - Al presente corso, in quanto compatibili, si applicheranno le disposizioni generali vigenti per le scuole di specializzazione della Facolta' di medicina e chirurgia, con particolare riferimento agli articoli 77, 87, 89 e 90 dello statuto.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 24 ottobre 1966
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 14 dicembre 1966 Atti del Governo, registro n. 208, foglio n. 10. - VILLA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+L'art. 58, concernente il corso di laurea in farmacia, e' soppresso e sostituito con il seguente:  
   
-Decreta:  
+L'esame di laurea consiste nella compilazione di una dissertazione originale scritta su tema liberamente scelto dal candidato in materia pertinente al corso di laurea e in una prova orale nella quale il candidato deve sostenere una discussione sulla dissertazione e svolgere uno o piu' argomenti secondo quanto stabilito per i diversi corsi di laurea.  
+
+Art. 2
+------
+
   
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Nell'art. 59, concernente il corso di laurea in matematica, all'elenco degli insegnamenti complementari per l'indirizzo didattico e' aggiunto il seguente:  
+algebra superiore.  
+Nell'elenco degli insegnamenti complementari per l'indirizzo generale e' soppresso quello di;  
+onde elettromagnetiche.  
+Nell'elenco degli insegnamenti complementari per l'indirizzo applicativo e' aggiunto il seguente:  
+algebra universale.  
+L'ultimo comma, concernente norme per l'esame di laurea, e' modificato nel senso che e' soppresso il testo dei punti a) e b) e sostituito con il seguente nuovo testo:  
+a) la compilazione di una dissertazione originale scritta su tema liberamente scelto dal candidato in materia pertinente al corso di laurea e la sua discussione; tale dissertazione per la laurea ad indirizzo generale dovra' avere il carattere di ricerca originale.  
+Conseguentemente il punto c) diventa b).  
+
+Art. 3
+------
+
   
-Dopo l'art. 168 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione del corso teorico-pratico per il personale ausiliario dei servizi pubblici di igiene e profilassi.  
-Corso teorico-pratico per il personale ausiliario dei servizi pubblici di igiene e profilassi (Scuola diretta a fini speciali)  
-Art. 169. - Nella Facolta' di medicina e chirurgia, con sede presso l'istituto di igiene, e' istituito un corso teorico-pratico di preparazione e addestramento per il personale tecnico ausiliario addetto ai servizi pubblici di igiene e profilassi.  
-Art. 170. - Detto corso ha la durata di un anno e la frequenza e' obbligatoria.  
-Art. 171. - Sono ammessi alla frequenza i giovani in eta' tra i 18 ed i 28 anni compiuti, in numero non superiore a 25, che risultino in possesso di regolare diploma di scuola media di secondo grado. Si prescinde dai limiti di eta' per tutti coloro che prestino servizio di ruolo presso pubbliche Amministrazioni.  
-Art. 172. - Le materie di insegnamento sono le seguenti:  
-1) Nozioni fondamentali di fisiologia umana, di microbiologia generale, di immunologia, di parassitologia e di statistica sanitaria;  
-2) Igiene generale;  
-3) Epidemiologia e profilassi generale delle malattie infettive e di quelle non infettive di interesse sociale;  
-4) Igiene dell'alimentazione e degli alimenti;  
-5) Nozioni fondamentali di diritto amministrativo, civile, penale e sanitario.  
-Le lezioni teoriche sono integrate da esercitazioni pratiche sia a carattere dimostrativo, comprese le campionature, sia a carattere di visite ad impianti sanitari ed igienici cittadini ed extraurbani e ad uffici e laboratori di igiene comunali, provinciali, regionali e statali.  
-Art. 173. - Alla fine del corso gli allievi dovranno sostenere una prova scritta, una prova orale ed una prova pratica sulle materie del programma.  
-Agli allievi che avranno ottenuto l'approvazione da parte della Commissione giudicatrice, verra' rilasciato un attestato finale di frequenza e profitto.  
-Art. 174. - Al presente corso, in quanto compatibili, si applicheranno le disposizioni generali vigenti per le scuole di specializzazione della Facolta' di medicina e chirurgia, con particolare riferimento agli articoli 77, 87, 89 e 90 dello statuto.  
+Nell'arte 60, relativo al corso di laurea in fisica, all'elenco degli insegnamenti complementari per l'indirizzo didattico sono aggiunti i seguenti:  
+fisica sanitaria;  
+cibernetica;  
+epistemologia;  
+filosofia della scienza.  
+All'elenco degli insegnamenti complementari per l'indirizzo generale e per l'indirizzo applicativo (orientamento in fisica dello stato solido) sono aggiunti i seguenti:  
+fisica sanitaria;  
+cibernetica.  
+
+Art. 4
+------
+
+  
+Nell'art. 61, relativo al corso di laurea in chimica, all'elenco degli insegnamenti complementari per gli indirizzi organico-biologico ed inorganico-chimico-fisico sono aggiunti i seguenti:  
+didattica della chimica;  
+chimica dei composti eterociclici;  
+chimica organica applicata;  
+chimica dei composti metallo-organici;  
+stereochimica;  
+cristallochimica;  
+chimica fisica dello stato solido;  
+chimica fisica delle soluzioni;  
+complementi di matematica (corso speciale per chimici).  
+Il terzultimo comma e' soppresso e sostituito con il seguente:  
+L'esame di laurea comprende:  
+a) la compilazione di una dissertazione originale scritta su tema liberamente scelto dal candidato in materia pertinente al corso di laurea e la sua discussione;  
+b) la discussione di due tesine orali scelte dalla commissione fra tre presentate dallo studente.  
+
+Art. 5
+------
+
+  
+Nell'art. 62, relativo al corso di laurea in chimica industriale, all'elenco degli insegnamenti complementari sono aggiunti i seguenti: chimica e tecnologia della catalisi;  
+chimica dell'inquinamento atmosferico e delle acque;  
+corrosione e protezione dei materiali;  
+economia ed organizzazione industriale;  
+strumentazione industriale chimica;  
+chimica applicata (ai materiali da costruzione).  
+Il terzultimo comma e' soppresso e sostituito con il seguente:  
+L'esame di laurea comprende:  
+a) la compilazione di una dissertazione originale scritta su tema liberamente scelto dal candidato in materia pertinente al corso di laurea e la sua discussione;  
+b) la discussione di due tesine orali scelte dalla commissione fra tre presentate dallo studente.  
+
+Art. 6
+------
+
+  
+Nell'art. 63, relativo al corso di laurea in scienze naturali, all'elenco degli insegnamenti complementari sono aggiunti i seguenti: ecologia vegetale;  
+fitosociologia;  
+fitogeografia.  
+Tra il quinto e il sesto comma viene inserito il nuovo seguente comma:  
+Il corso biennale di fisiologia generale importa anch'esso due distinti esami annuali, uno alla fine del primo anno e uno alla fine del secondo anno di insegnamento.  
+L'ultimo comma e' soppresso e sostituito dal seguente:  
+L'esame di laurea comprende:  
+a) la compilazione di una dissertazione originale scritta su tema liberamente scelto dal candidato in materia pertinente al corso di laurea e la sua discussione;  
+b) la discussione di due tesine orali scelte dalla commissione fra tre presentate dallo studente.  
+
+Art. 7
+------
+
+  
+Nell'art. 64, relativo al corso di laurea in scienze biologiche, all'elenco degli insegnamenti complementari sono aggiunti i seguenti: biologia marina;  
+enzimologia;  
+citologia ed embriologia vegetale;  
+fitogeografia;  
+fitosociologia;  
+ecologia vegetale;  
+ecologia umana;  
+fisiologia comparata;  
+neurofisiologia;  
+elettrofisiologia;  
+analisi biologiche e di laboratorio;  
+limmologia;  
+protozoologia.  
+Tra il quinto e il sesto comma viene inserito il nuovo seguente comma:  
+L'insegnamento di fisiologia generale biennale comporta due distinti esami annuali, uno alla fine del primo anno e uno alla fine del secondo anno di insegnamento.  
+Il decimo comma e' soppresso e sostituito dal seguente:  
+Dopo il primo biennio lo studente che intenda conseguire la laurea elaborando un lavoro sperimentale, dovra' frequentare uno degli istituti della facolta' o un istituto cui fanno capo insegnamenti del corso di laurea in scienze biologiche, ove attendera' all'elaborazione della tesi di laurea.  
+L'ultimo comma e' soppresso e sostituito con il seguente:  
+L'esame di laurea comprende:  
+a) la compilazione di una dissertazione originale scritta su tema liberamente scelto dal candidato in materia pertinente al corso di laurea e la sua discussione;  
+b) la discussione di due tesine orali scelte dalla commissione fra tre presentate dallo studente.  
+
+Art. 8
+------
+
+  
+  
+Nell'art. 65, relativo al corso di laurea in scienze geologiche, all'elenco degli insegnamenti complementari sono aggiunti i seguenti:   
+botanica;   
+complementi di matematica (per geologi);   
+fotogeologia;   
+geologia marina;   
+geologia ambientale;   
+geomorfologia applicata;   
+biostratigrafia e paleoecologia;   
+mineralogia dei sedimenti;   
+petrografia delle rocce sedimentarie;   
+petrografia delle rocce metamorfiche;   
+geochimica applicata;   
+tecnica dei sondaggi;   
+prospezione geomineraria;   
+tecnica delle miniere;   
+preparazione dei minerali;   
+elementi di diritto, economia e legislazione sociale;   
+diritto minerario;   
+geofisica applicata;   
+erosione e conservazione del suolo.   
+E' aggiunto il seguente nuovo comma:   
+L'esame di laurea comprende:   
+a) la compilazione di una dissertazione originale scritta su tema liberamente scelto dal candidato in materia pertinente al corso di laurea e la sua discussione;   
+b) la discussione su una carta tematica originale a carattere geologico presentata dallo studente.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 ottobre 1966
+### Dato a Roma, addi' 10 settembre 1980
 
-SARAGAT GUI
+PERTINI SARTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 14 dicembre 1966
+Registrato alla Corte dei conti, addi' 28 gennaio 1981
 
-Atti del Governo, registro n. 208, foglio n. 10. - VILLA
+Registro n. 7 Istruzione, foglio n. 251

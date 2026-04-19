@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1975 n. 752
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1978 n. 507
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1975 n. 752
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1978 n. 507
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Messina.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923), e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923) e modificato con regio decreto 20 aprile 1939, n, 1090, e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,283 +20,428 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio superiore della pubblica istruzione;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-L'art. 151, relativo alla scuola di specializzazione in anestesiologia e rianimazione, e' modificato nel senso che il numero degli iscritti e' stabilito in 45 (quarantacinque) per i tre anni di corso (quindici per ogni anno di corso).
+Gli articoli 145, 146, 147, 148, 149, 150, 151, 152, 153, relativi alla scuola di specializzazione in anestesiologia e rianimazione, che muta la denominazione in quella di scuola di specializzazione in anestesia e rianimazione, sono abrogati e sostituiti dai seguenti:
 
-Dopo l'art. 186 sono inseriti, con il conseguente spostamento della numerazione degli articoli successivi, i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in chirurgia dell'infanzia e in neurologia.
+Scuola di specializzazione in anestesia e rianimazione
 
-Scuola di specializzazione in chirurgia dell'infanzia
+Art. 145. - La scuola di specializzazione in anestesia e rianimazione ha sede presso la cattedra di anestesiologia e rianimazione e conferisce il diploma di specialista in anestesia e rianimazione.
 
-Art. 187. - La scuola di specializzazione in chirurgia dell'infanzia ha sede presso la clinica chirurgica pediatrica; la direzione della scuola e' affidata al titolare dell'insegnamento di clinica chirurgica pediatrica ed in sua assenza ad altro professore di ruolo ed e' retta secondo le norme del regolamento generale per le scuole di specializzazione della facolta' di medicina e chirurgia dell'Universita' di Messina.
+Art. 146. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
 
-Art. 188. - La scuola di specializzazione in chirurgia dell'infanzia conferisce il diploma di specialista in chirurgia dell'infanzia.
+Art. 147. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
 
-Art. 189. - La durata del corso degli studi per il conseguimento della specialita' in chirurgia dell'infanzia e' fissata in 2 (due) anni.
+Art. 148. - La durata del corso di studi e' di 3 anni e non e' suscettibile di abbreviazione.
 
-Possono ottenere l'iscrizione alla scuola i laureati in medicina e chirurgia che siano in possesso del diploma di specialista in chirurgia generale o abbiano conseguito la libera docenza in clinica chirurgica, o patologia chirurgica, o semeiotica chirurgica, o anatomia chirurgica o chirurgia pediatrica.
+Art. 149. - Il numero massimo degli allievi e' di 15 per anno di corso e complessivamente di 45 iscritti per l'intero corso di studi.
 
-Non e' ammessa l'abbreviazione di corso.
+Art. 150. - L'ammissione al corso avviene per titoli ed esami.
 
-Art. 190. - In base alle regole generali sancite per tutte le scuole dal Ministero della pubblica istruzione il numero complessivo degli iscritti alla scuola nei due anni di corso non puo' superare i dodici nominativi.
-
-Qualora il numero degli aspiranti superi quello stabilito, la ammissione sara' subordinata ad una prova di esame.
-
-Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali, oltre ad un periodo d'internato obbligatorio di almeno (6) sei mesi per ogni anno di corso.
-
-Il periodo d'internato potra' essere abbreviato per coloro che documentino di svolgere effettivo servizio presso reparti di chirurgia pediatrica universitari ed ospedalieri.
-
-Art. 191. - Le materie d'insegnamento sono le seguenti:
+Art. 151. - Le materie di insegnamento sono le seguenti:
 
 1° Anno:
 
-a) anatomia patologica e teratologia (lezioni);
+1) anatomia applicata all'anestesia ed alla rianimazione;
 
-b) endocrinologia infantile (conferenze);
+2) biochimica applicata all'anestesia ed alla rianimazione;
 
-c) clinica pediatrica (lezioni);
+3) farmacologia applicata all'anestesia ed alla rianimazione;
 
-d) clinica chirurgica pediatrica (lezioni);
+4) fisica applicata all'anestesia ed alla rianimazione;
 
-e) patologia chirurgica e semeiotica chirurgica (lezioni);
+5) fisiologia applicata all'anestesia ed alla rianimazione;
 
-f) diagnostica radiologica e nucleare delle malattie chirurgiche dell'infanzia (lezioni);
+6) anestesiologia I;
 
-g) anestesiologia e rianimazione (conferenze).
+7) tecniche chirurgiche di interesse anestesiologico;
 
-2° Anno:
+8) aspetti medico-legali dell'anestesia e della rianimazione;
 
-a) clinica pediatrica (lezioni);
-
-b) clinica chirurgica pediatrica (lezioni);
-
-c) chirurgia d'urgenza nell'infanzia (conferenze);
-
-d) otorinolaringoiatria nell'infanzia (conferenze);
-
-e) ortopedia nell'infanzia (conferenze);
-
-f) urologia nell'infanzia (conferenze);
-
-g) neurochirurgia infantile (conferenze);
-
-h) chirurgia del cuore e dei grossi vasi (conferenze).
-
-Art. 192. - La frequenza alle lezioni e conferenze e' obbligatoria.
-
-Al termine di ciascun anno accademico gli specializzandi che abbiano ottenuto le firme di frequenza dovranno sostenere gli esami di profitto delle materie insegnate.
-
-Per accedere ai corsi successivi e' obbligatorio il superamento di tutti gli esami del corso precedente.
-
-Gli esami possono essere sostenuti solamente in due sessioni annuali; una estiva ed una autunnale, e comunque non oltre il 30 novembre dell'anno in corso.
-
-Al termine del corso gli specializzandi dovranno presentare una dissertazione scritta su argomento di chirurgia infantile e sostenere l'esame di diploma.
-
-Scuola di specializzazione in neurologia
-
-Art. 193. - Programma delle materie di insegnamento.
-
-1° Anno (internato in psichiatria):
-
-anatomia e istologia del S.N.;
-
-fisiologia del S.N.;
-
-biochimica del S.N.;
-
-genetica (elementi);
-
-psicologia generale;
-
-psicopatologia;
-
-semeiotica psichiatrica.
+9) esercitazioni pratiche.
 
 2° Anno:
 
-anatomia e istologia patologica del S.N.;
+1) anestesiologia II;
 
-semeiotica neurologica;
+2) terapia antalgica;
 
-patologia speciale e diagnostica neurologica (1°);
+3) rianimazione I;
 
-neuro-radiologia;
-
-endocrinologia e neurologia vegetativa.
+4) esercitazioni pratiche.
 
 3° Anno:
 
-patologia speciale e diagnostica neurologica (2°);
+1) rianimazione II;
 
-clinica neurologica e terapia (1°);
+2) tecniche speciali di anestesia;
 
-elettroencefalografia;
+3) tecniche speciali di rianimazione;
 
-elettromiografia, elettrodiagnostica e elettroterapia;
+4) indagini diagnostiche attinenti alla specialita';
 
-neuroftalmologia;
+5) esercitazioni pratiche.
 
-neuro-otologia;
+Art. 152. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
 
-esami di laboratorio.
+Art. 153. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.
+
+Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi. Al termine del corso di studi per il conseguimento del diploma di specialista in anestesia e rianimazione gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+Gli articoli 172, 173, 174, 175, 176, 177, relativi alla scuola di specializzazione in ostetricia e ginecologia, che muta la denominazione in quella di scuola di specializzazione in ginecologia e ostetricia, sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in ginecologia ed ostetricia
+
+Art. 172. - La scuola di specializzazione in ginecologia ed ostetricia ha sede presso la clinica ostetrica e ginecologica dell'Universita' di Messina e conferisce il diploma di specialista in ginecologia e ostetricia.
+
+Art. 173. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione, o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Art. 174. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.
+
+Art. 175. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione. Il numero massimo degli allievi e' di sette per anno di corso e complessivamente di ventotto iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami
+
+Art. 176. - Le materie di insegnamento sono i seguenti:
+
+1° Anno:
+
+a) elementi di genetica medica; - b) elementi di embriologia; anatomia macro e micro dell'apparato genitale femminile; anatomia delle pelvi;
+
+c) elementi di fisiopatologia della riproduzione umana;
+
+d) fisiologia ostetrica;
+
+e) endocrinologia ginecologica ed ostetrica;
+
+f) semeiotica e diagnostica ostetrica;
+
+g) patologia ostetrica e ginecologica (biennale) I;
+
+h) lingua straniera (inglese) quadriennale I.
+
+2° Anno:
+
+a) semeiotica e diagnostica ginecologica;
+
+b) operazioni ostetriche (biennale) I;
+
+c) anatomia ed istologia patologica della sfera genitale femminile;
+
+d) citologia ginecologica;
+
+e) patologia ostetrica e ginecologica (biennale) II;
+
+f) diagnostica di laboratorio in ostetricia e ginecologia;
+
+g) lingua straniera (inglese) quadriennale II.
+
+3° Anno:
+
+a) puericultura prenatale;
+
+b) immunologia ostetrica e ginecologica;
+
+c) analgo-anestesia e rianimazione in ostetricia;
+
+d) operazioni ostetriche (biennale) II;
+
+e) operazioni ginecologiche (biennale) I;
+
+f) ostretricia e ginecologia forense;
+
+g) terapia medica in ostetricia e ginecologia;
+
+h) clinica ostetrica e ginecologica (biennale) I;
+
+i) psicosomatica ostetrica e ginecologica;
+
+l) lingua straniera (inglese) quadriennale III.
 
 4° Anno:
 
-clinica Neurologica e terapia (2°);
+a) neonatologia;
 
-neurochirurgia;
+b) urologia ginecologica;
 
-teoria e clinica della riabilitazione;
+c) radio-diagnostica e terapia fisica in ostetricia e ginecologia;
 
-neuro-traumatologia anche sotto l'aspetto della medicina legale;
+d) chirurgia addominale;
 
-neurologia in rapporto alla patologia internistica.
+e) operazioni ginecologiche (biennale) II;
 
-Art. 194. - La durata del corso di studi della scuola di specializzazione in neurologia e' di quattro anni.
+f) clinica ostetrica e ginecologica (biennale) II;
 
-Internato obbligatorio per l'intero anno scolastico nel 2°, 3° e 4° anno in clinica neurologica sede della scuola. Tale internato potra' essere ridotto a non meno di mesi 4 per anno per i medici che prestano regolare servizio in reparto neurologico.
+g) lingua straniera (inglese) quadriennale IV.
 
-Internato obbligatorio per l'intero anno scolastico in psichiatria nel 1° anno.
+Art. 177. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
 
-Tale internato potra' essere ridotto a non meno di mesi 5 per i medici che prestino servizio in reparto neurologico e a non meno di mesi 4 per coloro che prestino servizio in ospedale psichiatrico.
+Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.
 
-Esami obbligatori per il passaggio all'anno successivo.
+Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.
 
-L'ammissione e' per titoli e esame. Sono ammessi i laureati in medicina e chirurgia per un numero complessivo di venti iscritti.
+Al termine del corso di studi per il conseguimento del diploma di specialista in ginecologia ed ostetricia, gli interessati dovranno superare l'esame di diploma di un argomento attinente alla specializzazione.
 
-Un abbuono di anni 2 puo' essere concesso agli specialisti in psichiatria, neuropsichiatria infantile e neurochirurgia. Un anno di abbuono per gli specialisti in altre materie affini (medicina interna, otorinolaringoiatria, oculistica, radiologia).
+A giudizio del consiglio della scuola formulato sulla base del rendimento di ogni iscritto gli specializzandi potranno essere esonerati dal pagamento delle tasse.
 
-Gli abbuoni possono essere concessi solo superando un esame di ammissione. Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.
+L'ordinamento della scuola di specializzazione in chirurgia dell'infanzia, che muta la denominazione in quella di scuola di specializzazione in chirurgia pediatrica, istituita con [decreto del Presidente della Repubblica 24 ottobre 1975, n. 752](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1975-10-24;752), e' abrogato e sostituito dal seguente:
+
+Scuola di specializzazione in chirurgia pediatrica
+
+Art. 187. - La scuola di specializzazione in chirurgia pediatrica ha sede presso la clinica chirurgica pediatrica e conferisce il diploma di specialista in chirurgia pediatrica.
+
+Art. 188. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Art. 189. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+Art. 190.- La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.
+
+Il numero massimo degli allievi e' di due per anno di corso e complessivamente di dieci iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Art. 191. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+embriologia e genetica delle malformazioni congenite;
+
+anatomia patologica generale (biennale) I;
+
+diagnostica radiologica e nucleare generale;
+
+anestesiologia;
+
+clinica pediatrica (biennale) I;
+
+patologia e clinica chirurgica generale (biennale) I.
+
+2° Anno:
+
+patologia e clinica chirurgica generale (biennale) II;
+
+rianimazione e terapia intensiva (biennale) I;
+
+anatomia patologica generale (biennale) II;
+
+diagnostica radiologica e nucleare delle malattie infantili;
+
+clinica pediatrica (biennale) II.
+
+3° Anno:
+
+patologia e clinica chirurgica pediatrica (triennale) I;
+
+endocrinologia pediatrica;
+
+tecnica chirurgica generale;
+
+rianimazione e terapia intensiva (biennale) II;
+
+chirurgia neonatale.
+
+4° Anno:
+
+patologia e clinica chirurgica pediatrica (triennale) II;
+
+neurochirurgia pediatrica;
+
+tecnica chirurgica pediatrica, ortopedia pediatrica;
+
+chirurgia plastica e ricostruttiva pediatrica.
+
+5° Anno:
+
+patologia e clinica chirurgica pediatrica (triennale) III;
+
+otorinolaringoiatria pediatrica, cardiochirurgia pediatrica;
+
+urologia pediatrica.
+
+Art. 192. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Alla fine di ogni corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno ad eccezione delle discipline svolte in corsi pluriennali il cui esame sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in chirurgia pediatrica gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 24 ottobre 1975
+Dato a Roma, addi' 13 febbraio 1978
 
 LEONE
 
 MALFATTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 3 gennaio 1976 Atti di Governo, registro n. 1, foglio n. 1
+alla Corte dei conti, addi' 22 agosto 1978 Registro n. 93 Istruzione, foglio n. 178
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923), e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923) e modificato con regio decreto 20 aprile 1939, n, 1090, e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio superiore della pubblica istruzione;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 145, 146, 147, 148, 149, 150, 151, 152, 153, relativi alla scuola di specializzazione in anestesiologia e rianimazione, che muta la denominazione in quella di scuola di specializzazione in anestesia e rianimazione, sono abrogati e sostituiti dai seguenti:  
   
-L'art. 151, relativo alla scuola di specializzazione in anestesiologia e rianimazione, e' modificato nel senso che il numero degli iscritti e' stabilito in 45 (quarantacinque) per i tre anni di corso (quindici per ogni anno di corso).  
-Dopo l'art. 186 sono inseriti, con il conseguente spostamento della numerazione degli articoli successivi, i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in chirurgia dell'infanzia e in neurologia.  
+Scuola di specializzazione in anestesia e rianimazione  
   
-Scuola di specializzazione in chirurgia dell'infanzia  
-  
-Art. 187. - La scuola di specializzazione in chirurgia dell'infanzia ha sede presso la clinica chirurgica pediatrica; la direzione della scuola e' affidata al titolare dell'insegnamento di clinica chirurgica pediatrica ed in sua assenza ad altro professore di ruolo ed e' retta secondo le norme del regolamento generale per le scuole di specializzazione della facolta' di medicina e chirurgia dell'Universita' di Messina.  
-Art. 188. - La scuola di specializzazione in chirurgia dell'infanzia conferisce il diploma di specialista in chirurgia dell'infanzia.  
-Art. 189. - La durata del corso degli studi per il conseguimento della specialita' in chirurgia dell'infanzia e' fissata in 2 (due) anni.  
-Possono ottenere l'iscrizione alla scuola i laureati in medicina e chirurgia che siano in possesso del diploma di specialista in chirurgia generale o abbiano conseguito la libera docenza in clinica chirurgica, o patologia chirurgica, o semeiotica chirurgica, o anatomia chirurgica o chirurgia pediatrica.  
-Non e' ammessa l'abbreviazione di corso.  
-Art. 190. - In base alle regole generali sancite per tutte le scuole dal Ministero della pubblica istruzione il numero complessivo degli iscritti alla scuola nei due anni di corso non puo' superare i dodici nominativi.  
-Qualora il numero degli aspiranti superi quello stabilito, la ammissione sara' subordinata ad una prova di esame.  
-Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali, oltre ad un periodo d'internato obbligatorio di almeno (6) sei mesi per ogni anno di corso.  
-Il periodo d'internato potra' essere abbreviato per coloro che documentino di svolgere effettivo servizio presso reparti di chirurgia pediatrica universitari ed ospedalieri.  
-Art. 191. - Le materie d'insegnamento sono le seguenti:  
+Art. 145. - La scuola di specializzazione in anestesia e rianimazione ha sede presso la cattedra di anestesiologia e rianimazione e conferisce il diploma di specialista in anestesia e rianimazione.  
+Art. 146. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Art. 147. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Art. 148. - La durata del corso di studi e' di 3 anni e non e' suscettibile di abbreviazione.  
+Art. 149. - Il numero massimo degli allievi e' di 15 per anno di corso e complessivamente di 45 iscritti per l'intero corso di studi.  
+Art. 150. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 151. - Le materie di insegnamento sono le seguenti:  
 1° Anno:  
-a) anatomia patologica e teratologia (lezioni);  
-b) endocrinologia infantile (conferenze);  
-c) clinica pediatrica (lezioni);  
-d) clinica chirurgica pediatrica (lezioni);  
-e) patologia chirurgica e semeiotica chirurgica (lezioni);  
-f) diagnostica radiologica e nucleare delle malattie chirurgiche dell'infanzia (lezioni);  
-g) anestesiologia e rianimazione (conferenze).  
+1) anatomia applicata all'anestesia ed alla rianimazione;  
+2) biochimica applicata all'anestesia ed alla rianimazione;  
+3) farmacologia applicata all'anestesia ed alla rianimazione;  
+4) fisica applicata all'anestesia ed alla rianimazione;  
+5) fisiologia applicata all'anestesia ed alla rianimazione;  
+6) anestesiologia I;  
+7) tecniche chirurgiche di interesse anestesiologico;  
+8) aspetti medico-legali dell'anestesia e della rianimazione;  
+9) esercitazioni pratiche.  
 2° Anno:  
-a) clinica pediatrica (lezioni);  
-b) clinica chirurgica pediatrica (lezioni);  
-c) chirurgia d'urgenza nell'infanzia (conferenze);  
-d) otorinolaringoiatria nell'infanzia (conferenze);  
-e) ortopedia nell'infanzia (conferenze);  
-f) urologia nell'infanzia (conferenze);  
-g) neurochirurgia infantile (conferenze);  
-h) chirurgia del cuore e dei grossi vasi (conferenze).  
-Art. 192. - La frequenza alle lezioni e conferenze e' obbligatoria.  
-Al termine di ciascun anno accademico gli specializzandi che abbiano ottenuto le firme di frequenza dovranno sostenere gli esami di profitto delle materie insegnate.  
-Per accedere ai corsi successivi e' obbligatorio il superamento di tutti gli esami del corso precedente.  
-Gli esami possono essere sostenuti solamente in due sessioni annuali; una estiva ed una autunnale, e comunque non oltre il 30 novembre dell'anno in corso.  
-Al termine del corso gli specializzandi dovranno presentare una dissertazione scritta su argomento di chirurgia infantile e sostenere l'esame di diploma.  
-  
-Scuola di specializzazione in neurologia  
-  
-Art. 193. - Programma delle materie di insegnamento.  
-1° Anno (internato in psichiatria):  
-anatomia e istologia del S.N.;  
-fisiologia del S.N.;  
-biochimica del S.N.;  
-genetica (elementi);  
-psicologia generale;  
-psicopatologia;  
-semeiotica psichiatrica.  
-2° Anno:  
-anatomia e istologia patologica del S.N.;  
-semeiotica neurologica;  
-patologia speciale e diagnostica neurologica (1°);  
-neuro-radiologia;  
-endocrinologia e neurologia vegetativa.  
+1) anestesiologia II;  
+2) terapia antalgica;  
+3) rianimazione I;  
+4) esercitazioni pratiche.  
 3° Anno:  
-patologia speciale e diagnostica neurologica (2°);  
-clinica neurologica e terapia (1°);  
-elettroencefalografia;  
-elettromiografia, elettrodiagnostica e elettroterapia;  
-neuroftalmologia;  
-neuro-otologia;  
-esami di laboratorio.  
+1) rianimazione II;  
+2) tecniche speciali di anestesia;  
+3) tecniche speciali di rianimazione;  
+4) indagini diagnostiche attinenti alla specialita';  
+5) esercitazioni pratiche.  
+Art. 152. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Art. 153. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.  
+Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi. Al termine del corso di studi per il conseguimento del diploma di specialista in anestesia e rianimazione gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+Gli articoli 172, 173, 174, 175, 176, 177, relativi alla scuola di specializzazione in ostetricia e ginecologia, che muta la denominazione in quella di scuola di specializzazione in ginecologia e ostetricia, sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in ginecologia ed ostetricia  
+  
+Art. 172. - La scuola di specializzazione in ginecologia ed ostetricia ha sede presso la clinica ostetrica e ginecologica dell'Universita' di Messina e conferisce il diploma di specialista in ginecologia e ostetricia.  
+Art. 173. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione, o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Art. 174. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.  
+Art. 175. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione. Il numero massimo degli allievi e' di sette per anno di corso e complessivamente di ventotto iscritti per l'intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami  
+Art. 176. - Le materie di insegnamento sono i seguenti:  
+1° Anno:  
+a) elementi di genetica medica; - b) elementi di embriologia; anatomia macro e micro dell'apparato genitale femminile; anatomia delle pelvi;  
+c) elementi di fisiopatologia della riproduzione umana;  
+d) fisiologia ostetrica;  
+e) endocrinologia ginecologica ed ostetrica;  
+f) semeiotica e diagnostica ostetrica;  
+g) patologia ostetrica e ginecologica (biennale) I;  
+h) lingua straniera (inglese) quadriennale I.  
+2° Anno:  
+a) semeiotica e diagnostica ginecologica;  
+b) operazioni ostetriche (biennale) I;  
+c) anatomia ed istologia patologica della sfera genitale femminile;  
+d) citologia ginecologica;  
+e) patologia ostetrica e ginecologica (biennale) II;  
+f) diagnostica di laboratorio in ostetricia e ginecologia;  
+g) lingua straniera (inglese) quadriennale II.  
+3° Anno:  
+a) puericultura prenatale;  
+b) immunologia ostetrica e ginecologica;  
+c) analgo-anestesia e rianimazione in ostetricia;  
+d) operazioni ostetriche (biennale) II;  
+e) operazioni ginecologiche (biennale) I;  
+f) ostretricia e ginecologia forense;  
+g) terapia medica in ostetricia e ginecologia;  
+h) clinica ostetrica e ginecologica (biennale) I;  
+i) psicosomatica ostetrica e ginecologica;  
+l) lingua straniera (inglese) quadriennale III.  
 4° Anno:  
-clinica Neurologica e terapia (2°);  
-neurochirurgia;  
-teoria e clinica della riabilitazione;  
-neuro-traumatologia anche sotto l'aspetto della medicina legale;  
-neurologia in rapporto alla patologia internistica.  
-Art. 194. - La durata del corso di studi della scuola di specializzazione in neurologia e' di quattro anni.  
-Internato obbligatorio per l'intero anno scolastico nel 2°, 3° e 4° anno in clinica neurologica sede della scuola. Tale internato potra' essere ridotto a non meno di mesi 4 per anno per i medici che prestano regolare servizio in reparto neurologico.  
-Internato obbligatorio per l'intero anno scolastico in psichiatria nel 1° anno.  
-Tale internato potra' essere ridotto a non meno di mesi 5 per i medici che prestino servizio in reparto neurologico e a non meno di mesi 4 per coloro che prestino servizio in ospedale psichiatrico.  
-Esami obbligatori per il passaggio all'anno successivo.  
-L'ammissione e' per titoli e esame. Sono ammessi i laureati in medicina e chirurgia per un numero complessivo di venti iscritti.  
-Un abbuono di anni 2 puo' essere concesso agli specialisti in psichiatria, neuropsichiatria infantile e neurochirurgia. Un anno di abbuono per gli specialisti in altre materie affini (medicina interna, otorinolaringoiatria, oculistica, radiologia).  
-Gli abbuoni possono essere concessi solo superando un esame di ammissione. Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.  
+a) neonatologia;  
+b) urologia ginecologica;  
+c) radio-diagnostica e terapia fisica in ostetricia e ginecologia;  
+d) chirurgia addominale;  
+e) operazioni ginecologiche (biennale) II;  
+f) clinica ostetrica e ginecologica (biennale) II;  
+g) lingua straniera (inglese) quadriennale IV.  
+Art. 177. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.  
+Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in ginecologia ed ostetricia, gli interessati dovranno superare l'esame di diploma di un argomento attinente alla specializzazione.  
+A giudizio del consiglio della scuola formulato sulla base del rendimento di ogni iscritto gli specializzandi potranno essere esonerati dal pagamento delle tasse.  
+L'ordinamento della scuola di specializzazione in chirurgia dell'infanzia, che muta la denominazione in quella di scuola di specializzazione in chirurgia pediatrica, istituita con [decreto del Presidente della Repubblica 24 ottobre 1975, n. 752](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1975-10-24;752), e' abrogato e sostituito dal seguente:  
+  
+Scuola di specializzazione in chirurgia pediatrica  
+  
+Art. 187. - La scuola di specializzazione in chirurgia pediatrica ha sede presso la clinica chirurgica pediatrica e conferisce il diploma di specialista in chirurgia pediatrica.  
+Art. 188. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Art. 189. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Art. 190.- La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.  
+Il numero massimo degli allievi e' di due per anno di corso e complessivamente di dieci iscritti per l'intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami.  
+Art. 191. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+embriologia e genetica delle malformazioni congenite;  
+anatomia patologica generale (biennale) I;  
+diagnostica radiologica e nucleare generale;  
+anestesiologia;  
+clinica pediatrica (biennale) I;  
+patologia e clinica chirurgica generale (biennale) I.  
+2° Anno:  
+patologia e clinica chirurgica generale (biennale) II;  
+rianimazione e terapia intensiva (biennale) I;  
+anatomia patologica generale (biennale) II;  
+diagnostica radiologica e nucleare delle malattie infantili;  
+clinica pediatrica (biennale) II.  
+3° Anno:  
+patologia e clinica chirurgica pediatrica (triennale) I;  
+endocrinologia pediatrica;  
+tecnica chirurgica generale;  
+rianimazione e terapia intensiva (biennale) II;  
+chirurgia neonatale.  
+4° Anno:  
+patologia e clinica chirurgica pediatrica (triennale) II;  
+neurochirurgia pediatrica;  
+tecnica chirurgica pediatrica, ortopedia pediatrica;  
+chirurgia plastica e ricostruttiva pediatrica.  
+5° Anno:  
+patologia e clinica chirurgica pediatrica (triennale) III;  
+otorinolaringoiatria pediatrica, cardiochirurgia pediatrica;  
+urologia pediatrica.  
+Art. 192. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Alla fine di ogni corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno ad eccezione delle discipline svolte in corsi pluriennali il cui esame sara' sostenuto alla fine dei corsi medesimi.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in chirurgia pediatrica gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 ottobre 1975
+### Dato a Roma, addi' 13 febbraio 1978
 
 LEONE MALFATTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 3 gennaio 1976
+Registrato alla Corte dei conti, addi' 22 agosto 1978
 
-Atti di Governo, registro n. 1, foglio n. 1
+Registro n. 93 Istruzione, foglio n. 178

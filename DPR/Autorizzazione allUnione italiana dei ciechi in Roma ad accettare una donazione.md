@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1984 n. 649
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 febbraio 1984 n. 38
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1984 n. 649
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 febbraio 1984 n. 38
+==============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare una donazione.
 -----------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-649. Decreto del Presidente della Repubblica 17 maggio 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei cicchi, in Roma, viene autorizzata ad accettare la donazione, consistente nella nuda proprieta' di un appartamento sito in Varazze (Savona), via Celso n. 3, distinto al nuovo catasto edilizio urbano alla partita 1551, foglio 44, mappale 122 sub 3, con riserva di usufrutto vita naturale durante della donante, valore della nuda proprieta' L. 44.400.000, valore dell'usufrutto lire 24.000.000, totale L. 68.400.000 ritenuto congruo dall'ufficio tecnico erariale di Savona, disposta dalla sig.ra Fazio Vittoria Eliana in Oddone con atto 10 settembre 1980, n. 62486 di repertorio, a rogito dott. Giovanni Saguato, notaio in Imperia, registrato ad Imperia il 26 settembre 1980 al n. 3269.  
+38. Decreto del Presidente della Repubblica 6 febbraio 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare la donazione, consistente in una porzione di fabbricato sito in Bologna, via Paradiso n. 15, distinto nel nuovo catasto edilizio urbano alla partita n. 25379, foglio 86, mappale 150 sub 1, valore attribuito L. 20.500.000 ritenuto congruo dall'ufficio tecnico erariale di Bologna, disposta dalla sig.ra Belvederi Laura con atto 12 gennaio 1981, n. 22430/10360 di repertorio, a rogito dott. Vittorio Reggiani, notaio in Bologna, registrato a Bologna il 31 gennaio 1981 al n. 2328.  
   
 Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 27 settembre 1984  
-Registro n. 8 Presidenza, foglio n. 92
+Registrato alla Corte dei conti, addi' 14 marzo 1984  
+Registro n. 3 Presidenza, foglio n. 80

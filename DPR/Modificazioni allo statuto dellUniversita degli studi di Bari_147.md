@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1957 n. 789
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 1229
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1957 n. 789
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 1229
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successivi;
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,265 +18,208 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nei suoi pareri;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Decreta:
+Sulla
+-----
 
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 13. - Il quarto comma viene cosi' modificato:
-
-"Ai fini della determinazione dell'argomento della tesina di cui al comma precedente, si intendono materie di diritto pubblico le seguenti: diritto costituzionale, diritto amministrativo, diritto internazionale, diritto penale, diritto processuale civile, procedura penale, diritto ecclesiastico. Si intendono materie di diritto privato: il diritto civile, il diritto commerciale, il diritto romano e il diritto del lavoro".
-
-Agli Istituti esistenti presso la Facolta' di economia e commercio sono aggiunti gli Istituti di diritto commerciale e di lingua e letteratura inglese e americana.
-
-Pertanto il primo comma dell'art. 24 e' cosi' modificato:
-
-Art. 24. - Alla Facolta' sono annessi gli Istituti di merceologia (comprendente il laboratorio di merceologia e il museo merceologico), di matematica finanziaria, di ragioneria ed economia aziendale, di tecnica bancaria e professionale, commerciale ed industriale, di geografia, di statistica, di politica economica e finanziaria, di economia politica, di storia economica, di diritto commerciale e di letteratura inglese e americana.
-
-Art. 40. - Agli insegnamenti complementari del corso di laurea in scienze agrarie e' aggiunto quello di:
-
-13) Cooperazione agricola.
-
-Nello stesso articolo prima dell'ultimo comma e' inserito il seguente:
-
-"Le discipline biennali di "Agronomia generale e coltivazioni erbacee" e di "Chimica agraria" comportano un esame alla fine di ciascuno degli anni di corso".
-
-Art. 50. - Agli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:
-
-35) Storia delle tradizioni popolari;
-
-36) Storia delle dottrine politiche.
-
-Dopo l'art. 77, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione, presso la Facolta' di lettere e filosofia, della Scuola di perfezionamento in filologia classica, con il conseguente spostamento della numerazione degli articoli successivi:
-
-Scuola di perfezionamento in filologia classica
-
-Art. 78. - E' istituita, presso la Facolta' di lettere e filosofia, una Scuola di perfezionamento in filologia classica con il fine di promuovere l'incremento degli studi classici e' d'integrare, in queste discipline, la preparazione scientifica e professionale dei laureati. La scuola di filologia classica conferisce il diploma di perfezionamento in filologia classica.
-
-Art. 79. - Titolo di ammissione e' la laurea in lettere, indirizzo classico; i laureati dell'indirizzo moderno saranno ammessi solo su parere del Consiglio della scuola che puo' sottoporre gli aspiranti a un colloquio preliminare.
-
-Riguardo alle carriere scolastiche degli iscritti valgono, in quanto applicabili, le disposizioni regolamentari vigenti per gli studenti dei corsi di laurea.
-
-Riguardo alle tasse, soprattasse e contributi valgono le disposizioni di legge vigenti per gli studenti dei corsi di laurea della Facolta'.
-
-Entro il 31 dicembre del primo anno di corso gli iscritti devono presentare il piano di studio che diviene definitivo dopo che il direttore, sentito, ove ritenga, il Consiglio della scuola, lo abbia approvato.
-
-Art. 80. - Il corso della Scuola ha la durata di due anni.
-
-Sono insegnamenti costitutivi della Scuola:
-
-a) insegnamenti fondamentali: 1) Letteratura greca (biennale); 2) Letteratura latina (biennale); 3) Grammatica greca e latina; 4) Filologia classica;
-
-b) Insegnamenti complementari: 1) Glottologia; 2) Storia comparata delle lingue classiche; 3) Paleografia greca; 4) Paleografia latina; 5) Papirologia; 6) Filologia bizantina; 7) Lingua e letteratura latina medioevale; 8) Critica del testo; 9) Letteratura cristiana antica; 10) Letteratura umanistica; 11) Storia della filosofia antica; 12) Religioni del mondo classico; 13) Metrica greca e latina; 14) Storia della filologia classica.
-
-Art. 81. - Per essere ammessi a sostenere l'esame di diploma gli iscritti devono:
-
-avere seguito i corsi negli insegnamenti fondamentali e almeno in tre dei complementari a loro scelta;
-
-avere superato un colloquio sugli argomenti dei corsi degli insegnamenti fondamentali, nonche' un colloquio complessivo di cultura classica, con particolare riferimento alle materie complementari prescelte.
-
-I corsi di Letteratura greca e di Letteratura latina devono essere seguiti per un biennio.
-
-L'esame di diploma consiste nella discussione di una dissertazione scientifica, che abbia carattere di ricerca originale, su argomento che rientri nell'ambito degli insegnamenti costitutivi della scuola.
-
-Almeno una parte della dissertazione deve essere scritta in latino.
-
-Art. 82. - Il Consiglio della scuola si compone dei professori di ruolo e fuori ruolo della Facolta' di lettere e filosofia titolari degli insegnamenti costitutivi. Il Consiglio e' presieduto dal direttore, eletto nel suo seno e nominato dal rettore per un triennio accademico.
-
-Le funzioni dei professori incaricati sono quelle previste dal regolamento generale universitario in rapporto ai Consigli di Facolta'.
-
-Il programma della scuola viene compilato dal direttore, sottoposto all'approvazione del Consiglio della scuola e quindi reso pubblico.
-
-Per gli insegnamenti che sono comuni alla Facolta' di lettere e filosofia valgono normalmente i corsi ivi impartiti a titolo ufficiale.
-
-Art. 83. - Le Commissioni per i colloqui sono nominate dal direttore della scuola. Le Commissioni per gli esami di diploma sono nominate dal rettore, sentito il direttore della scuola e si compone di sette membri, compresi i professori che costituiscono il Consiglio della scuola.
-
-Dopo l'art. 97, che elenca gli Istituti della Facolta' di ingegneria, vanno inseriti, con il conseguente spostamento della numerazione degli articoli successivi, i seguenti articoli, relativi alla istituzione della scuola di perfezionamento in diritto del lavoro e previdenza sociale, annessa alla Facolta' di giurisprudenza.
-
-SCUOLE DI PERFEZIONAMENTO ANNESSE ALLA FACOLTA' DI GIURISPRUDENZA
-
-Scuola di perfezionamento in diritto del lavoro e previdenza sociale
-
-Art. 98. - La Scuola di perfezionamento in diritto del lavoro e previdenza sociale ha per fine di conferire una particolare competenza e preparazione professionale sulla organizzazione e la disciplina del lavoro e degli ordinamenti assistenziali, ed e' annessa alla Facolta' di giurisprudenza.
-
-Art. 99. - Alla scuola potranno iscriversi i laureati in giurisprudenza, in economia e commercio e in scienze politiche, nel numero massimo di 150.
-
-Art. 100. - La durata del corso degli studi e' di due anni e al suo termine viene conferito un diploma di perfezionamento in diritto del lavoro e previdenza sociale.
-
-Art. 101. - Gli iscritti alla scuola debbono pagare le tasse di iscrizione e la soprattassa di esame nella misura che verra' fissata di anno in anno dal Consiglio di amministrazione dell'Universita', su proposta della Facolta' di giurisprudenza e sentito il Senato accademico.
-
-Il provento delle tasse sara' cosi' ripartito: il 15% a beneficio del Seminario giuridico per compenso servizio di biblioteca e di esercitazioni; il 70% a beneficio del personale insegnante ed in proporzione delle lezioni impartite; il 10% a beneficio del personale di segreteria e della biblioteca per il maggior lavoro; il 5% a beneficio dell'Opera universitaria.
-
-Il provento delle soprattasse di esami sara' ripartito ai sensi del [decreto del Presidente della Repubblica 1° dicembre 1952, n. 4512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-12-01;4512).
-
-I diplomati dovranno inoltre pagare la tassa di diploma in L. 6000, a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).
-
-Art. 102. - Alla direzione della scuola sara' preposto un professore della scuola stessa designato dalla Facolta' giuridica e scelto tra gli insegnanti di ruolo.
-
-Egli dura in carica un biennio.
-
-Art. 103. - Gli incarichi nella scuola sono deliberati dalla Facolta' giuridica su proposta del direttore, che potra' scegliere tra i professori di ruolo, tra i liberi docenti e, in mancanza, tra persone di riconosciuta competenza nella materia.
-
-Art. 104. - Il Consiglio della scuola si compone di tutti i professori che vi tengono gli insegnamenti prescritti ed e' presieduto dal direttore.
-
-Art. 105. - Le materie di insegnamento nella scuola sono le seguenti:
-
-1° anno:
-
-a) Storia del sindacalismo;
-
-b) Diritto del lavoro (1° corso);
-
-c) Legislazione interna e comparata della previdenza sociale, (1° corso);
-
-d) Politica economica finanziaria (1° corso);
-
-e) Assicurazioni sociali;
-
-f) Legislazione comparata del lavoro;
-
-g) Storia del diritto del lavoro (1° corso);
-
-7) Diritto amministrativo del lavoro.
-
-2° anno:
-
-a) Diritto del lavoro (2° corso);
-
-b) Legislazione interna e comparata, della previdenza sociale (2° corso);
-
-c) Politica economica e finanziaria (2° corso);
-
-d) Storia del diritto del lavoro (2° corso).
-
-Art. 106. - Gli insegnamenti a corso biennale comportano un unico esame alla fine del biennio. All'esame di diploma, consistente nella discussione di una dissertazione scritta, non e' ammesso chi non abbia superato tutti gli esami di profitto.
-
-Art. 107. - I componenti le Commissioni degli esami di profitto, nominati dal direttore della scuola, saranno tre: il professore ufficiale della materia; un altro professore della scuola; un cultore della materia.
-
-La Commissione per l'esame di diploma, composta da sette membri (quattro professori ufficiali della scuola e tre liberi docenti o cultori della materia) e' nominata, su proposta del direttore della scuola, dal preside della Facolta' giuridica.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 30 giugno 1957
-
-GRONCHI
-
-MORO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 26 agosto 1957 Atti del Governo, registro n. 107, foglio n. 73. - RELLEVA
+proposta del Ministro della pubblica istruzione; Decreta:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successivi;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Lo statuto dell'Universita' di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 192 - all'elenco delle scuole di specializzazione in medicina e chirurgia sono aggiunte le seguenti nuove scuole: scuola di specializzazione in chirurgia plastica, scuola di specializzazione in fisiopatologia e fisiochinesiterapia respiratoria, scuola di specializzazione in fisioterapia.  
+
+Art. 2
+------
+
   
-Decreta:   
+Dopo l'art. 265, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in chirurgia plastica, fisiopatologia e fisiochinesiterapia respiratoria e in fisioterapia.  
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 13. - Il quarto comma viene cosi' modificato:   
-"Ai fini della determinazione dell'argomento della tesina di cui al comma precedente, si intendono materie di diritto pubblico le seguenti: diritto costituzionale, diritto amministrativo, diritto internazionale, diritto penale, diritto processuale civile, procedura penale, diritto ecclesiastico. Si intendono materie di diritto privato: il diritto civile, il diritto commerciale, il diritto romano e il diritto del lavoro".   
-Agli Istituti esistenti presso la Facolta' di economia e commercio sono aggiunti gli Istituti di diritto commerciale e di lingua e letteratura inglese e americana.   
-Pertanto il primo comma dell'art. 24 e' cosi' modificato:   
-Art. 24. - Alla Facolta' sono annessi gli Istituti di merceologia (comprendente il laboratorio di merceologia e il museo merceologico), di matematica finanziaria, di ragioneria ed economia aziendale, di tecnica bancaria e professionale, commerciale ed industriale, di geografia, di statistica, di politica economica e finanziaria, di economia politica, di storia economica, di diritto commerciale e di letteratura inglese e americana.   
-Art. 40. - Agli insegnamenti complementari del corso di laurea in scienze agrarie e' aggiunto quello di:   
-13) Cooperazione agricola.   
-Nello stesso articolo prima dell'ultimo comma e' inserito il seguente:   
-"Le discipline biennali di "Agronomia generale e coltivazioni erbacee" e di "Chimica agraria" comportano un esame alla fine di ciascuno degli anni di corso".   
-Art. 50. - Agli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:   
-35) Storia delle tradizioni popolari;   
-36) Storia delle dottrine politiche.   
-Dopo l'art. 77, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione, presso la Facolta' di lettere e filosofia, della Scuola di perfezionamento in filologia classica, con il conseguente spostamento della numerazione degli articoli successivi:   
+Scuola di specializzazione in chirurgia plastica  
   
-Scuola di perfezionamento in filologia classica   
+Art. 266. - La scuola di specializzazione in chirurgia plastica ha sede presso la clinica chirurgica generale e terapia chirurgica dell'Universita' degli studi di Bari e conferisce il diploma di specializzazione in chirurgia plastica.  
+Art. 267. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
+Art. 268. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Art. 269. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.  
+Art. 270. - Il numero degli allievi complessivamente e' di tredici iscritti per l'intero corso di studi.  
+Art. 271. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 272. - Le materie d'insegnamento sono le seguenti:  
+1° Anno:  
+anatomia ed embriologia con particolare riguardo al capo, al collo, arti superiori e inferiori, organi genitali;  
+patologia generale (infezioni, flogosi, immunita', etiopatogenesi delle malattie congenite, neoplasie maligne e benigne; anestesiologia e rianimazione: concetti generali;  
+patologia secondaria;  
+guarigione delle ferite;  
+principi e regole pratiche di chirurgia (strumenti, sterilita', emostasi);  
+trapianti (biennale) I;  
+autoinnesti: indicazioni per l'utilizzazione terapeutica di cute, derma, grasso, fascia, cartilagine, ossa, tendini, segmenti nervosi e tessuti compositi;  
+semeiologia del sistema nervoso periferico;  
+anatomia ed istopatologia, con particolare riferimento alla malattia-ustione e alle neoplasie maligne e benigne.  
+2° Anno:  
+anatomia chirurgica;  
+tecniche e procedure operatorie in chirurgia generale e in chirurgia plastica;  
+trapianti (biennale) II;  
+omoinnesti: concetti generali (con particolare riferimento agli aspetti genetici ed immunitari);  
+tipizzazione dei tessuti;  
+utilizzazione clinica degli omoinnesti;  
+etero-innesti: estensione e limiti della loro utilizzazione clinica;  
+inserti non biologici: estensione e limiti della loro utilizzazione clinica;  
+traumatologia dei tessuti molli;  
+traumi complessi interessanti cute, tessuti molli e ossa;  
+shock emorragico;  
+shock traumatico;  
+shock da ustione;  
+malattia-ustione: fisiopatologia e clinica (biennale) I.  
+3° Anno:  
+malattia-ustione: terapia medica e chirurgica (biennale) II;  
+lesioni da raggi;  
+elementi di chirurgia addominale;  
+elementi di otorinolaringoiatria;  
+elementi di stomatologia;  
+elementi di ortopedia generale;  
+dermatologia generale, con specifico riferimento alle malattie o lesioni congenite di competenza plastica, passibili di trattamento chirurgico (biennale) I;  
+elementi di genetica.  
+4° Anno:  
+metodologia chirurgica differenziale;  
+malformazioni congenite del volto, delle mani e degli organi genitali;  
+agenesie;  
+chirurgia riparatrice e ricostruttiva della mano;  
+trattamento chirurgico delle lesioni del volto e delle fratture del massiccio facciale;  
+trattamento chirurgico delle deformita' congenite ed acquisite del naso, delle labbra, del mento, della mandibola, del palato, del pavimento dell'orbita, del  
+padiglione auricolare;  
+metodologia chirurgica differenziale applicata ai danni anatomici e funzionali derivanti dalla paralisi del 7°;  
+chirurgia d'urgenza;  
+dermatologia generale, con specifico riferimento alle malattie o lesioni congenite di competenza plastica, passibili di trattamento chirurgico (biennale) II.  
+5° Anno:  
+patologia traumatica delle arterie e dei nervi periferici;  
+elementi di chirurgia vascolare;  
+microchirurgia vascolare e nervosa;  
+elementi di criobiologia e crioterapia;  
+elementi di fisiochinesiterapia;  
+problemi psichiatrici e psicologici in chirurgia plastica;  
+medicina legale e delle assicurazioni, con particolare riferimento alle deformita' e alle menomazioni funzionali di origine traumatica.  
+Art. 273. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.  
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
+Art. 274. - E' fatto obbligo agli allievi del primo biennio a presenziare ad un minimo di trenta sedute operatorie per anno; gli allievi del 3°, 4° e 5° anno devono partecipare ad un numero di cinquanta interventi per anno.  
+Art. 275. - Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno; per le materie a corsi pluriennali l'esame e' sostenuto alla fine dei corsi medesimi.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in chirurgia plastica, gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
   
-Art. 78. - E' istituita, presso la Facolta' di lettere e filosofia, una Scuola di perfezionamento in filologia classica con il fine di promuovere l'incremento degli studi classici e' d'integrare, in queste discipline, la preparazione scientifica e professionale dei laureati. La scuola di filologia classica conferisce il diploma di perfezionamento in filologia classica.   
-Art. 79. - Titolo di ammissione e' la laurea in lettere, indirizzo classico; i laureati dell'indirizzo moderno saranno ammessi solo su parere del Consiglio della scuola che puo' sottoporre gli aspiranti a un colloquio preliminare.   
-Riguardo alle carriere scolastiche degli iscritti valgono, in quanto applicabili, le disposizioni regolamentari vigenti per gli studenti dei corsi di laurea.   
-Riguardo alle tasse, soprattasse e contributi valgono le disposizioni di legge vigenti per gli studenti dei corsi di laurea della Facolta'.   
-Entro il 31 dicembre del primo anno di corso gli iscritti devono presentare il piano di studio che diviene definitivo dopo che il direttore, sentito, ove ritenga, il Consiglio della scuola, lo abbia approvato.   
-Art. 80. - Il corso della Scuola ha la durata di due anni.   
-Sono insegnamenti costitutivi della Scuola:   
-a) insegnamenti fondamentali: 1) Letteratura greca (biennale); 2) Letteratura latina (biennale); 3) Grammatica greca e latina; 4) Filologia classica;   
-b) Insegnamenti complementari: 1) Glottologia; 2) Storia comparata delle lingue classiche; 3) Paleografia greca; 4) Paleografia latina; 5) Papirologia; 6) Filologia bizantina; 7) Lingua e letteratura latina medioevale; 8) Critica del testo; 9) Letteratura cristiana antica; 10) Letteratura umanistica; 11) Storia della filosofia antica; 12) Religioni del mondo classico; 13) Metrica greca e latina; 14) Storia della filologia classica.   
-Art. 81. - Per essere ammessi a sostenere l'esame di diploma gli iscritti devono:   
-avere seguito i corsi negli insegnamenti fondamentali e almeno in tre dei complementari a loro scelta;   
-avere superato un colloquio sugli argomenti dei corsi degli insegnamenti fondamentali, nonche' un colloquio complessivo di cultura classica, con particolare riferimento alle materie complementari prescelte.   
-I corsi di Letteratura greca e di Letteratura latina devono essere seguiti per un biennio.   
-L'esame di diploma consiste nella discussione di una dissertazione scientifica, che abbia carattere di ricerca originale, su argomento che rientri nell'ambito degli insegnamenti costitutivi della scuola.  
-Almeno una parte della dissertazione deve essere scritta in latino.   
-Art. 82. - Il Consiglio della scuola si compone dei professori di ruolo e fuori ruolo della Facolta' di lettere e filosofia titolari degli insegnamenti costitutivi. Il Consiglio e' presieduto dal direttore, eletto nel suo seno e nominato dal rettore per un triennio accademico.   
-Le funzioni dei professori incaricati sono quelle previste dal regolamento generale universitario in rapporto ai Consigli di Facolta'.   
-Il programma della scuola viene compilato dal direttore, sottoposto all'approvazione del Consiglio della scuola e quindi reso pubblico.   
-Per gli insegnamenti che sono comuni alla Facolta' di lettere e filosofia valgono normalmente i corsi ivi impartiti a titolo ufficiale.   
-Art. 83. - Le Commissioni per i colloqui sono nominate dal direttore della scuola. Le Commissioni per gli esami di diploma sono nominate dal rettore, sentito il direttore della scuola e si compone di sette membri, compresi i professori che costituiscono il Consiglio della scuola.   
-Dopo l'art. 97, che elenca gli Istituti della Facolta' di ingegneria, vanno inseriti, con il conseguente spostamento della numerazione degli articoli successivi, i seguenti articoli, relativi alla istituzione della scuola di perfezionamento in diritto del lavoro e previdenza sociale, annessa alla Facolta' di giurisprudenza.   
+Scuola di specializzazione in fisiopatologia e fisiochinesiterapia respiratoria  
   
-SCUOLE DI PERFEZIONAMENTO ANNESSE ALLA FACOLTA' DI GIURISPRUDENZA   
-Scuola di perfezionamento in diritto del lavoro e previdenza sociale   
-Art. 98. - La Scuola di perfezionamento in diritto del lavoro e previdenza sociale ha per fine di conferire una particolare competenza e preparazione professionale sulla organizzazione e la disciplina del lavoro e degli ordinamenti assistenziali, ed e' annessa alla Facolta' di giurisprudenza.   
-Art. 99. - Alla scuola potranno iscriversi i laureati in giurisprudenza, in economia e commercio e in scienze politiche, nel numero massimo di 150.   
-Art. 100. - La durata del corso degli studi e' di due anni e al suo termine viene conferito un diploma di perfezionamento in diritto del lavoro e previdenza sociale.   
-Art. 101. - Gli iscritti alla scuola debbono pagare le tasse di iscrizione e la soprattassa di esame nella misura che verra' fissata di anno in anno dal Consiglio di amministrazione dell'Universita', su proposta della Facolta' di giurisprudenza e sentito il Senato accademico.   
-Il provento delle tasse sara' cosi' ripartito: il 15% a beneficio del Seminario giuridico per compenso servizio di biblioteca e di esercitazioni; il 70% a beneficio del personale insegnante ed in proporzione delle lezioni impartite; il 10% a beneficio del personale di segreteria e della biblioteca per il maggior lavoro; il 5% a beneficio dell'Opera universitaria.   
-Il provento delle soprattasse di esami sara' ripartito ai sensi del [decreto del Presidente della Repubblica 1° dicembre 1952, n. 4512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-12-01;4512).   
-I diplomati dovranno inoltre pagare la tassa di diploma in L. 6000, a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).   
-Art. 102. - Alla direzione della scuola sara' preposto un professore della scuola stessa designato dalla Facolta' giuridica e scelto tra gli insegnanti di ruolo.   
-Egli dura in carica un biennio.   
-Art. 103. - Gli incarichi nella scuola sono deliberati dalla Facolta' giuridica su proposta del direttore, che potra' scegliere tra i professori di ruolo, tra i liberi docenti e, in mancanza, tra persone di riconosciuta competenza nella materia.   
-Art. 104. - Il Consiglio della scuola si compone di tutti i professori che vi tengono gli insegnamenti prescritti ed e' presieduto dal direttore.   
-Art. 105. - Le materie di insegnamento nella scuola sono le seguenti:   
-1° anno:   
-a) Storia del sindacalismo;   
-b) Diritto del lavoro (1° corso);   
-c) Legislazione interna e comparata della previdenza sociale, (1° corso);   
-d) Politica economica finanziaria (1° corso);   
-e) Assicurazioni sociali;   
-f) Legislazione comparata del lavoro;   
-g) Storia del diritto del lavoro (1° corso);   
-7) Diritto amministrativo del lavoro.   
-2° anno:   
-a) Diritto del lavoro (2° corso);   
-b) Legislazione interna e comparata, della previdenza sociale (2° corso);   
-c) Politica economica e finanziaria (2° corso);   
-d) Storia del diritto del lavoro (2° corso).   
-Art. 106. - Gli insegnamenti a corso biennale comportano un unico esame alla fine del biennio. All'esame di diploma, consistente nella discussione di una dissertazione scritta, non e' ammesso chi non abbia superato tutti gli esami di profitto.   
-Art. 107. - I componenti le Commissioni degli esami di profitto, nominati dal direttore della scuola, saranno tre: il professore ufficiale della materia; un altro professore della scuola; un cultore della materia.   
-La Commissione per l'esame di diploma, composta da sette membri (quattro professori ufficiali della scuola e tre liberi docenti o cultori della materia) e' nominata, su proposta del direttore della scuola, dal preside della Facolta' giuridica.   
+Art. 276. - La scuola di specializzazione in fisiopatologia e fisiochinesiterapia respiratoria ha sede presso l'istituto di clinica medica prima dell'Universita' degli studi di Bari. La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
+Il corso degli studi per il conseguimento del diploma di specializzazione in fisiopatologia e fisiochinesiterapia respiratoria ha la durata di tre anni accademici.  
+Alla scuola possono iscriversi i laureati in medicina e chirurgia che abbiano conseguito, almeno all'inizio del corso, l'abilitazione all'esercizio professionale. Per l'ammissione e' previsto un concorso per titoli ed esami.  
+Il numero complessivo degli iscritti nei tre anni di corso non puo' essere superiore a dodici.  
+Non sono ammesse abbreviazioni di corso.  
+Le materie d'insegnamento ed i relativi esami sono cosi' ripartiti: 1° Anno:  
+1) anatomia funzionale dell'apparato respiratorio;  
+2) fisiomeccanica della respirazione;  
+3) le funzioni respiratorie ai vari livelli;  
+4) le funzioni del circolo polmonare;  
+5) attivita' non respiratorie del polmone;  
+6) metodologia di indagine della funzionalita' respiratoria;  
+7) i farmaci del respiro.  
+2° Anno:  
+1) inquadramento generale e diagnostico di patologia bronco-pleuro-polmonare;  
+2) le alterazioni funzionali respiratorie in patologia bronco-pleuro-polmonare;  
+3) l'insufficienza respiratoria nei suoi aspetti eziopatogenetici clinici e terapeutici;  
+4) fisiopatologia cardio-circolatoria nei bronco-pneumopatici;  
+5) le alterazioni funzionali respiratorie nei vasculopatici e nei cardiopatici.  
+3° Anno:  
+1) terapia medica generale delle sindromi da disfunzione respiratoria;  
+2) terapia strumentale dell'insufficienza respiratoria;  
+3) metodologie di rieducazione funzionale respiratoria;  
+4) la rieducazione respiratoria nelle broncopneumopatie invalidanti;  
+5) terapia cardiologica e del circolo nei broncopneumopatici cronici;  
+6) terapia d'urgenza nelle sindromi disfunzionali respiratorie;  
+7) prevenzione e cura dell'invalidita' respiratoria.  
+Esercitazioni - Esami - Diplomi. - I corsi d'insegnamento sono integrati da turni obbligatori di esercitazioni pratiche nei reparti di degenza, nei laboratori di ricerca, e da conferenze; gli esami di profitto hanno luogo al termine di ogni anno di corso; per il conseguimento del diploma di specializzazione e' prescritta la presentazione e la discussione di una dissertazione scritta.  
+  
+Scuola di specializzazione in fisioterapia  
+  
+Art. 277:  
+a) La scuola di specializzazione in fisioterapia ha sede presso l'istituto di clinica ortopedica I e conferisce il diploma di specializzazione in fisioterapia.  
+b) Il corso ha la durata di tre anni.  
+c) Possono essere ammessi alla scuola i laureati in medicina e chirurgia previo esame di ammissione.  
+d) Il numero degli iscritti e' stabilito in quattro per ogni anno di corso per un totale di dodici iscritti.  
+e) La frequenza e' obbligatoria nell'istituto sede della scuola per tutta la durata dell'anno accademico (nove mesi). E' in facolta' del direttore della scuola di concedere una deroga a tale norma solo agli iscritti alla scuola che facciano parte di cliniche ortopediche che non abbiano la scuola di specializzazione o che siano assistenti di ruolo in divisioni di ortopedia o di fisioterapia di ospedali di prima categoria. Per queste due categorie di iscritti il periodo di frequenza presso l'istituto sede della scuola puo' essere ridotto fino a non meno di un mese ogni anno.  
+f) Per nessun motivo sono ammesse abbreviazioni della durata dei corsi di studio.  
+g) Gli insegnamenti si svolgono con indirizzo prevalentemente pratico, dimostrativo, ma per ogni singola materia di insegnamento deve anche svolgersi un corso regolare di lezioni, il cui numero viene fissato annualmente dal direttore della scuola in accordo con i docenti delle singole materie.  
+h) Le materie di insegnamento si distinguono in materie di base ed in materie di caratterizzazione.  
+i) Le materie di base sono le seguenti:  
+1) principi di anatomia funzionale;  
+2) fisiopatologia dell'apparato neuromotore;  
+3) semeiotica clinica delle motulesioni neurologiche;  
+4) semeiotica e clinica delle deformita' e motulesioni ortopediche;  
+5) massoterapia e terapia manuale;  
+6) cinesiologia e cinesiterapia e ginnastica medica;  
+7) idroterapia e balneoterapia;  
+8) elettroterapia e elettrologia;  
+9) terapia con onde corte ed altri mezzi fisici;  
+10) rieducazione motoria e riabilitazione in campo ortopedico e traumatologico;  
+11) rieducazione motoria e riabilitazione in campo neurologico.  
+Le materie di caratterizzazione sono le seguenti:  
+1) elettromiografia;  
+2) cinesiterapia e riabilitazione nelle malattie internistiche;  
+3) rieducazione respiratoria;  
+4) riabilitazione nei disturbi del linguaggio;  
+5) problemi psicologici e psicopatologici della riabilitazione;  
+6) medicina assicurativa;  
+7) rieducazione nei disturbi della visione;  
+8) climatoterapia;  
+9) problemi di riabilitazione geriatrica;  
+10) riqualificazione professionale.  
+l) Le materie di insegnamento sono cosi' suddivise nei tre anni di corso:  
+1° Anno:  
+principi di anatomia funzionale (propedeutico per tutte le materie di base degli anni successivi e per quelle facoltative);  
+fisiopatologia dell'apparato neuromotore (propedeutico per tutte le materie di base degli anni successivi e per quelle facoltative);  
+cinesiterapia e riabilitazione delle materie internistiche;  
+riabilitazione nei disturbi del linguaggio;  
+medicina assicurativa;  
+riqualificazione professionale.  
+2° Anno:  
+semeiotica e clinica delle motulesioni neurologiche (propedeutico per le materie di insegnamento di base del 3° anno);  
+semeiotica e clinica delle deformita' e motulesioni ortopediche (propedeutico per le materie di insegnamento di base del 3° anno);  
+massoterapia e terapia manuale;  
+cinesiologia e cinesiterapia e ginnastica medica;  
+idroterapia e balneoterapia;  
+elettromiografia.  
+3° Anno:  
+elettroterapia ed elettrologia;  
+terapia con onde corte ed altri mezzi fisici;  
+rieducazione motoria e riabilitazione in campo ortopedico e traumatologico;  
+rieducazione motoria e riabilitazione in campo neurologico;  
+rieducazione respiratoria;  
+climatoterapia;  
+problemi di riabilitazione geriatrica;  
+rieducazione nei disturbi della visione;  
+problemi psicologici e psicopatologici della riabilitazione.  
+m) Gli esami si svolgono per singola materia. Gli esami sono teorici e pratici. Per l'ammissione al corso successivo e' obbligatorio il superamento degli esami delle materie fondamentali del corso. E' consentito soltanto di posticipare gli esami delle eventuali materie di caratterizzazione, il cui superamento e' comunque necessario per l'ammissione all'esame di diploma.  
+n) Per l'ammissione all'esame di diploma il candidato deve superare una tesi stampata o dattiloscritta su un argomento della specialita'.  
+o) L'unificazione degli ordinamenti delle singole scuole nelle varie universita' italiane facilitera' eventuali trasferimenti da una scuola all'altra per giustificati motivi. La validita' dei motivi e' giudicata dal direttore della scuola ed in caso di contestazione dal consiglio della facolta'.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 giugno 1957
+### Dato a Roma, addi' 5 settembre 1980
 
-GRONCHI MORO
+PERTINI SARTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 26 agosto 1957
+Registrato alla Corte dei conti, addi' 17 ottobre 1981
 
-Atti del Governo, registro n. 107, foglio n. 73. - RELLEVA
+Registro n. 96 Istruzione, foglio n. 352

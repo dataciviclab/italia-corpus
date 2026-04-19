@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1960 n. 191
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 866
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1960 n. 191
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 866
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successivi;
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743);
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -28,111 +28,237 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 94. - Il primo comma e' sostituito dal seguente:
+L'art. 114, relativo alla scuola di specializzazione in ostetricia e ginecologia, e' modificato nel senso che il numero degli iscritti e' stabilito in trentadue (32) per l'intero corso di studi.
 
-"Alla Facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in clinica delle malattie del lavoro, con sede presso la Clinica medica generale e con un numero massimo di trentasei iscritti fra i tre anni di corso".
+Gli articoli 128, 129, 130, relativi alla scuola di specializzazione in radiologia, sono abrogati e sostituiti dai seguenti.
 
-Dopo l'art. 128 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in anestesiologia.
+Scuola di specializzazione in radiologia
 
-Scuola di specializzazione in anestesiologia
+Art. 128. - La scuola rilascia i seguenti diplomi di specializzazioni: in radiologia e in radiologia diagnostica.
 
-Art. 129. - Alla Facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in anestesiologia, con sede presso l'istituto di clinica chirurgica generale e terapia chirurgica.
+La scuola e' riservata ai laureati in medicina e chirurgia, che possono essere accolti in numero massimo di trenta.
 
-Art. 130. - La durata dei corsi e' di due anni.
+Art. 129. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia e' di quattro anni.
 
-Art. 131. - Alla scuola vengono ammessi i laureati in medicina e chirurgia in numero non superiore a cinque per ogni anno. Qualora il numero delle domande d'iscrizione al primo corso sia superiore a cinque, la accettazione verra' fatta, in base al concorso interno per esami.
+Gli insegnamenti sono i seguenti:
 
-Art. 132. - Gli iscritti alla scuola hanno l'obbligo di frequentare i corsi ufficiali e le esercitazioni; hanno, inoltre, l'obbligo di frequentare in sala operatoria, svolgendo una reale attivita' pratica con orario pieno per almeno sei mesi per ogni anno di corso.
+a) Matematica, fisica, nozioni di statistica e informatica (annuale) comprendente:
 
-Art. 133. - Saranno ammessi a sostenere gli esami solo gli iscritti che abbiano adempiuto agli obblighi di cui all'articolo precedente.
+1) richiami di matematica e fisica generale;
 
-Art. 134. - Gli insegnamenti impartiti nella scuola sono i seguenti:
+2) costituzione della materia;
 
-1) Anatomia applicata alla anestesia;
+3) produzione, assorbimento e misura delle radiazioni;
 
-2) Fisiologia e biochimica;
+4) statistica applicata alla medicina;
 
-3) Farmacologia;
+5) informatica e cibernetica applicate alla radiologia.
 
-4) Fisica;
+b) Radiodiagnostica (triennale) comprendente:
 
-5) Nozioni di patologia e terapia medica;
+1) principi generali di radiodiagnostica;
 
-6) Anestesia clinica generale (biennale);
+2) apparecchi, strumenti e tecnica radiodiagnostica;
 
-7) Anestesia sulle specialita' chirurgiche;
+3) tecnica e fisiologia applicate alla radiodiagnostica;
 
-8) Trattamento pre, intra e postoperatorio.
+4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;
 
-Art. 135. - La ripartizione degli insegnamenti nei due anni di corso e' la seguente:
+5) semeiotica radiologica;
 
-I anno:
+6) diagnostica differenziale radiologica;
 
-Anatomia applicata alla anestesia;
+7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;
 
-Fisiologia e biochimica;
+8) dimostrazioni di casistica clinica.
 
-Farmacologia;
+c) Radiobiologia (annuale) comprendente:
 
-Fisica;
+1) radiobiologia generale;
 
-Nozioni di patologia e terapia medica;
+2) danni da radiazioni e radiopatie.
 
-Anestesia clinica generale (biennale).
+d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
 
-II anno:
+1) legislazione sanitaria applicata alla radiologia;
 
-Anestesia clinica generale (biennale);
+2) compiti e responsabilita' medico-legali del radiologo;
 
-Anestesia nelle specialita' chirurgiche;
+3) radioprotezione fisica e dosimetria ad essa connessa;
 
-Trattamento pre, intra e postoperatorio.
+4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;
 
-Art. 136. - L'ordine degli esami e' il seguente:
+5) radioprotezione chimica;
 
-al termine del primo anno:
+6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.
 
-Anatomia applicata all'anestesia;
+e) Radioterapia e terapia fisica (triennale) comprendente:
 
-Fisiologia e biochimica;
+1) radiobiologia applicata;
 
-Farmacologia;
+2) fondamenti generali di radioterapia e terapia fisica;
 
-Fisica;
+3) istopatologia speciale dei tumori;
 
-Nozioni di patologia e terapia medica;
+4) nozioni sugli apparecchi e strumenti per la radioterapia;
 
-al termine del secondo anno:
+5) tecnica e metodica radioterapica;
 
-Anestesia clinica generale;
+6) dosimetria;
 
-Anestesia nelle specialita' chirurgiche;
+7) clinica radioterapica;
 
-Trattamento pre, intra, e postoperatorio.
+8) fondamenti generali di chemioterapia oncologica;
+
+9) chemioterapia clinica dei tumori e sua associazione alla radioterapia;
+
+10) dimostrazione di casistica clinica.
+
+f) Medicina nucleare (biennale) comprendente:
+
+1) elementi di medicina nucleare;
+
+2) istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare;
+
+3) dosimetria dei radioisotopi somministrati per via interna;
+
+4) diagnostica con radioisotopi somministrati per via interna;
+
+5) radioterapia metabolica;
+
+6) dimostrazioni di casistica clinica.
+
+I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nei quattro anni di corso:
+
+1° Anno (tronco comune):
+
+Matematica, fisica, nozioni di statistica ed informatica;
+
+Radiobiologia;
+
+Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;
+
+Radiodiagnostica (I).
+
+2° Anno:
+
+Radiodiagnostica (II);
+
+Radioterapia e terapia fisica (I).
+
+3° Anno:
+
+Radiodiagnostica (III);
+
+Radioterapia e terapia fisica (II);
+
+Medicina nucleare (I).
+
+4° Anno:
+
+Radioterapia e terapia fisica (III);
+
+Medicina nucleare (Il).
+
+Art. 130. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.
+
+Gli insegnamenti sono i seguenti:
+
+a) Matematica, fisica, nozioni di statistica e di informatica (annuale) comprendente:
+
+1) richiami di matematica e fisica generale;
+
+2) costituzione della materia;
+
+3) produzione, assorbimento e misura delle radiazioni;
+
+4) statistica applicata alla medicina;
+
+5) informatica e cibernetica applicate alla radiologia.
+
+b) Radiodiagnostica (triennale) comprendente:
+
+1) principi generali di radiodiagnostica;
+
+2) apparecchi, strumenti e tecnica radiodiagnostica;
+
+3) tecnica e fisiologia applicate alla radiodiagnostica;
+
+4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;
+
+5) semeiotica radiologica;
+
+6) diagnostica differenziale radiologica;
+
+7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;
+
+8) dimostrazioni di casistica clinica.
+
+c) Radiobiologia (annuale) comprendente:
+
+1) radiobiologia generale;
+
+2) danni da radiazioni e radiopatie.
+
+d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
+
+1) legislazione sanitaria applicata alla radiologia;
+
+2) compiti e responsabilita' medico-legali del radiologo;
+
+3) radioprotezione fisica e dosimetria ad essa connessa;
+
+4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;
+
+5) radioprotezione chimica;
+
+6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.
+
+I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:
+
+1° Anno (tronco comune):
+
+Matematica, fisica, nozioni di statistica ed informatica;
+
+Radiobiologia;
+
+Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;
+
+Radiodiagnostica (I).
+
+2° Anno:
+
+Radiodiagnostica (II).
+
+3° Anno:
+
+Radiodiagnostica (III).
+
+Per essere ammessi agli esami di diploma in radiologia e in radiologia diagnostica, gli iscritti oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia d'insegnamento ed elaborata una tesi scritta su di un argomento radiologico concordato con il direttore della scuola.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 16 febbraio 1960
+Dato a Roma, addi' 31 ottobre 1974
 
-GRONCHI
+LEONE
 
-MEDICI
+MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 18 marzo 1960 Atti del Governo, registro n. 125, foglio n. 99. - VILLA
+alla Corte dei conti, addi' 3 marzo 1975 Atti di Governo, registro n. 8, foglio n. 163
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successivi;  
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743);  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
@@ -143,62 +269,146 @@ Sulla proposta del Ministro per la pubblica istruzione;
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 94. - Il primo comma e' sostituito dal seguente:  
-"Alla Facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in clinica delle malattie del lavoro, con sede presso la Clinica medica generale e con un numero massimo di trentasei iscritti fra i tre anni di corso".  
-Dopo l'art. 128 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in anestesiologia.  
+L'art. 114, relativo alla scuola di specializzazione in ostetricia e ginecologia, e' modificato nel senso che il numero degli iscritti e' stabilito in trentadue (32) per l'intero corso di studi.  
+Gli articoli 128, 129, 130, relativi alla scuola di specializzazione in radiologia, sono abrogati e sostituiti dai seguenti.  
   
-Scuola di specializzazione in anestesiologia  
+Scuola di specializzazione in radiologia  
   
-Art. 129. - Alla Facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in anestesiologia, con sede presso l'istituto di clinica chirurgica generale e terapia chirurgica.  
-Art. 130. - La durata dei corsi e' di due anni.  
-Art. 131. - Alla scuola vengono ammessi i laureati in medicina e chirurgia in numero non superiore a cinque per ogni anno. Qualora il numero delle domande d'iscrizione al primo corso sia superiore a cinque, la accettazione verra' fatta, in base al concorso interno per esami.  
-Art. 132. - Gli iscritti alla scuola hanno l'obbligo di frequentare i corsi ufficiali e le esercitazioni; hanno, inoltre, l'obbligo di frequentare in sala operatoria, svolgendo una reale attivita' pratica con orario pieno per almeno sei mesi per ogni anno di corso.  
-Art. 133. - Saranno ammessi a sostenere gli esami solo gli iscritti che abbiano adempiuto agli obblighi di cui all'articolo precedente.  
-Art. 134. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
-1) Anatomia applicata alla anestesia;  
-2) Fisiologia e biochimica;  
-3) Farmacologia;  
-4) Fisica;  
-5) Nozioni di patologia e terapia medica;  
-6) Anestesia clinica generale (biennale);  
-7) Anestesia sulle specialita' chirurgiche;  
-8) Trattamento pre, intra e postoperatorio.  
-Art. 135. - La ripartizione degli insegnamenti nei due anni di corso e' la seguente:  
-I anno:  
-Anatomia applicata alla anestesia;  
-Fisiologia e biochimica;  
-Farmacologia;  
-Fisica;  
-Nozioni di patologia e terapia medica;  
-Anestesia clinica generale (biennale).  
-II anno:  
-Anestesia clinica generale (biennale);  
-Anestesia nelle specialita' chirurgiche;  
-Trattamento pre, intra e postoperatorio.  
-Art. 136. - L'ordine degli esami e' il seguente:  
-al termine del primo anno:  
-Anatomia applicata all'anestesia;  
-Fisiologia e biochimica;  
-Farmacologia;  
-Fisica;  
-Nozioni di patologia e terapia medica;  
-al termine del secondo anno:  
-Anestesia clinica generale;  
-Anestesia nelle specialita' chirurgiche;  
-Trattamento pre, intra, e postoperatorio.  
+Art. 128. - La scuola rilascia i seguenti diplomi di specializzazioni: in radiologia e in radiologia diagnostica.  
+La scuola e' riservata ai laureati in medicina e chirurgia, che possono essere accolti in numero massimo di trenta.  
+Art. 129. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia e' di quattro anni.  
+Gli insegnamenti sono i seguenti:  
+  
+a) Matematica, fisica, nozioni di statistica e informatica (annuale) comprendente:  
+1) richiami di matematica e fisica generale;  
+2) costituzione della materia;  
+3) produzione, assorbimento e misura delle radiazioni;  
+4) statistica applicata alla medicina;  
+5) informatica e cibernetica applicate alla radiologia.  
+  
+b) Radiodiagnostica (triennale) comprendente:  
+1) principi generali di radiodiagnostica;  
+2) apparecchi, strumenti e tecnica radiodiagnostica;  
+3) tecnica e fisiologia applicate alla radiodiagnostica;  
+4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;  
+5) semeiotica radiologica;  
+6) diagnostica differenziale radiologica;  
+7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;  
+8) dimostrazioni di casistica clinica.  
+  
+c) Radiobiologia (annuale) comprendente:  
+1) radiobiologia generale;  
+2) danni da radiazioni e radiopatie.  
+  
+d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:  
+1) legislazione sanitaria applicata alla radiologia;  
+2) compiti e responsabilita' medico-legali del radiologo;  
+3) radioprotezione fisica e dosimetria ad essa connessa;  
+4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;  
+5) radioprotezione chimica;  
+6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.  
+  
+e) Radioterapia e terapia fisica (triennale) comprendente:  
+1) radiobiologia applicata;  
+2) fondamenti generali di radioterapia e terapia fisica;  
+3) istopatologia speciale dei tumori;  
+4) nozioni sugli apparecchi e strumenti per la radioterapia;  
+5) tecnica e metodica radioterapica;  
+6) dosimetria;  
+7) clinica radioterapica;  
+8) fondamenti generali di chemioterapia oncologica;  
+9) chemioterapia clinica dei tumori e sua associazione alla radioterapia;  
+10) dimostrazione di casistica clinica.  
+  
+f) Medicina nucleare (biennale) comprendente:  
+1) elementi di medicina nucleare;  
+2) istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare;  
+3) dosimetria dei radioisotopi somministrati per via interna;  
+4) diagnostica con radioisotopi somministrati per via interna;  
+5) radioterapia metabolica;  
+6) dimostrazioni di casistica clinica.  
+  
+I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nei quattro anni di corso:  
+  
+1° Anno (tronco comune):  
+Matematica, fisica, nozioni di statistica ed informatica;  
+Radiobiologia;  
+Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;  
+Radiodiagnostica (I).  
+  
+2° Anno:  
+Radiodiagnostica (II);  
+Radioterapia e terapia fisica (I).  
+  
+3° Anno:  
+Radiodiagnostica (III);  
+Radioterapia e terapia fisica (II);  
+Medicina nucleare (I).  
+  
+4° Anno:  
+Radioterapia e terapia fisica (III);  
+Medicina nucleare (Il).  
+  
+Art. 130. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.  
+Gli insegnamenti sono i seguenti:  
+  
+a) Matematica, fisica, nozioni di statistica e di informatica (annuale) comprendente:  
+1) richiami di matematica e fisica generale;  
+2) costituzione della materia;  
+3) produzione, assorbimento e misura delle radiazioni;  
+4) statistica applicata alla medicina;  
+5) informatica e cibernetica applicate alla radiologia.  
+  
+b) Radiodiagnostica (triennale) comprendente:  
+1) principi generali di radiodiagnostica;  
+2) apparecchi, strumenti e tecnica radiodiagnostica;  
+3) tecnica e fisiologia applicate alla radiodiagnostica;  
+4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;  
+5) semeiotica radiologica;  
+6) diagnostica differenziale radiologica;  
+7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;  
+8) dimostrazioni di casistica clinica.  
+  
+c) Radiobiologia (annuale) comprendente:  
+1) radiobiologia generale;  
+2) danni da radiazioni e radiopatie.  
+  
+d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:  
+1) legislazione sanitaria applicata alla radiologia;  
+2) compiti e responsabilita' medico-legali del radiologo;  
+3) radioprotezione fisica e dosimetria ad essa connessa;  
+4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;  
+5) radioprotezione chimica;  
+6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.  
+  
+I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:  
+  
+1° Anno (tronco comune):  
+Matematica, fisica, nozioni di statistica ed informatica;  
+Radiobiologia;  
+Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;  
+Radiodiagnostica (I).  
+  
+2° Anno:  
+Radiodiagnostica (II).  
+  
+3° Anno:  
+Radiodiagnostica (III).  
+  
+Per essere ammessi agli esami di diploma in radiologia e in radiologia diagnostica, gli iscritti oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia d'insegnamento ed elaborata una tesi scritta su di un argomento radiologico concordato con il direttore della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 febbraio 1960
+### Dato a Roma, addi' 31 ottobre 1974
 
-GRONCHI MEDICI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 18 marzo 1960
+Registrato alla Corte dei conti, addi' 3 marzo 1975
 
-Atti del Governo, registro n. 125, foglio n. 99. - VILLA
+Atti di Governo, registro n. 8, foglio n. 163

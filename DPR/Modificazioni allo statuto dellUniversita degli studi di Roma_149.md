@@ -1,170 +1,116 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1957 n. 1429
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 giugno 1972 n. 436
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1957 n. 1429
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 giugno 1972 n. 436
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti, sopraindicati, e' ulteriormente modificato come appresso:
+
+Dopo
+----
+
+l'art. 754 e con il conseguente spostamento della numerazione degli articoli successivi sono istituiti i seguenti nuovi articoli relativi alla istituzione della scuola speciale per tecnici neurofisiopatologici. Scuola speciale per tecnici neurofisiopatologici
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successivi;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Veduta la [legge 26 luglio 1957, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-07-26;741);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+La scuola speciale per tecnici neurofisiopatologi ha sede presso l'istituto di neuropsichiatria infantile.   
+Art. 2. - La durata del corso degli studi per il conseguimento del diploma e' di due anni accademici. Le lezioni teoriche ed il tirocinio pratico saranno svolti presso l'istituto di neuropsichiatria infantile e presso gli istituti e cliniche attinenti alle discipline neuropsichiatriche, secondo le modalita' che saranno stabilite dal consiglio della scuola.   
+Gli allievi hanno l'obbligo della frequenza alle lezioni, ai seminari e ai tirocini pratici, secondo le modalita' stabilite dal consiglio della scuola.   
+Art. 3. - Sono ammessi alla scuola gli allievi di ambo i sessi in possesso del titolo di studio della scuola media superiore, che abbiano superato un colloquio attitudinale che si svolgera' presso la sede della scuola all'inizio dell'anno accademico.   
+A giudizio del consiglio della scuola possono essere ammessi anche gli allievi in possesso del titolo di studio' della scuola d'obbligo, che abbiano superato un esame di ammissione ed un colloquio attitudinale che si svolgeranno presso la sede della scuola all'inizio dell'anno accademico.   
+Art. 4. - Il numero massimo dei posti disponibili e' stabilito nella misura di 15 per il primo anno. Tale numero potra' essere variato ogni anno a discrezione del consiglio della scuola.   
+Art. 5. - Le materie di insegnamento sono:   
   
-Decreta:   
+1° Anno:   
+1) Elementi di elettrotecnica;   
+2) Elementi di tecnica elettronica e nozioni pratiche di riparazione delle apparecchiature biomediche (biennale);   
+3) Nozioni generali di biochimica e biofisica;   
+4) Nozioni generali di anatomia e fisiologia;   
+5) Anatomia dell'apparato motore e del sistema nervoso;   
+6) Nozioni pratiche e teoriche di fisiologia del sistema nervoso (biennale);   
+7) Nozioni pratiche e teoriche di elettroencefalografia e neurofisiologia clinica (biennale).   
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+2° Anno:   
+1) Elementi di tecnica elettronica e nozioni pratiche di riparazione delle apparecchiature biomediche;   
+2) Nozioni pratiche e teoriche di fisiologia del sistema nervoso;  
+3) Nozioni di patologia e clinica dell'apparato motore;   
+4) Nozioni pratiche e teoriche di elettromiografia, elettrodiagnostica ed elettroterapia;   
+5) Nozioni di patologia e clinica del sistema nervoso;   
+6) Nozioni pratiche e teoriche di elettroencefalografia e neurofisiologia clinica;   
+7) Nozioni pratiche e teoriche di ecoencefalografia, roencefalografia e metodi di registrazione poligrafica.   
   
-L'art. 53 e' cosi' modificato:   
-"La Facolta' di lettere e filosofia comprende quattro corsi di studi, i quali conducono rispettivamente alle lauree:   
-1) in lettere;   
-2) in filosofia;   
-3) in lingue e letterature straniere moderne;   
-4) in geografia;   
-nonche' le scuole ed il corso di perfezionamento di cui al capitolo 4° del titolo XV.   
-Dopo l'art. 55 e' aggiunto il seguente nuovo articolo, relativo alla istituzione del corso di laurea in lingue e letterature straniere moderne, con il conseguente spostamento della numerazione degli articoli successivi.   
-Art. 56. - Titolo di ammissione al corso di studi per la laurea in lingue e letterature straniere moderne e' il diploma di maturita' classica.   
-Il corso ha la durata di quattro anni e si distingue negli indirizzi europeo ed orientale.   
-Sono insegnamenti costitutivi dell'indirizzo europeo:   
-a) fondamentali:   
-1) Letteratura italiana;   
-2) Letteratura latina;   
-3) Glottologia;   
-4) Una lingua e letteratura straniera moderna;   
-5) Una seconda lingua e letteratura straniera moderna;   
-6) Filologia romanza (o germanica, o slava, o ugro-finnica);   
-7) Storia medioevale;   
-8) Storia moderna;   
-9) Storia dell'arte moderna (o storia dell'arte medioevale e moderna);   
-10) Geografia.   
-b) complementari (quando non siano scelti come fondamentali ai su indicati numeri 4), 5) e 6):   
-1) Lingua e letteratura francese;   
-2) Lingua e letteratura spagnola;   
-3) Lingua e letteratura portoghese;   
-4) Lingua e letteratura romena;   
-5) Lingua e letteratura inglese;   
-6) Lingua e letteratura tedesca;   
-7) Lingua e letteratura olandese e fiamminga;   
-8) Lingue e letterature scandinave;   
-9) Lingua e letteratura russa;   
-10) Lingua e letteratura polacca;   
-11) Lingua e letteratura cecoslovacca;   
-12) Lingua e letteratura serbo-croata;   
-13) Lingua e letteratura slovena;   
-14) Lingua e letteratura bulgara;   
-15) Lingua e letteratura ungherese;   
-16) Lingua e letteratura neo-greca;   
-17) Lingua e letteratura albanese;   
-18) Una lingua e letteratura moderna dell'Asia e dell'Africa;   
-19) Filologia romanza;   
-20) Filologia germanica;   
-21) Filologia slava;   
-22) Filologia ugro-finnica;   
-23) Letteratura anglo-americana;   
-24) Letteratura ispano-americana;   
-25) Letteratura brasiliana;   
-26) Storia della lingua italiana;   
-27) Storia della letteratura italiana moderna e contemporanea;   
-28) Storia delle tradizioni popolari;   
-29) Storia dell'arte medioevale;   
-30) Storia della musica;   
-31) Storia del teatro e dello spettacolo;   
-32) Letteratura greca;   
-33) Lingua e letteratura latina medioevale;   
-34) Filologia e storia bizantina;   
-35) Storia romana;   
-36) Storia greca;   
-37) Storia dell'Europa orientale;   
-38) Storia della filosofia;   
-39) Storia della filosofia moderna e contemporanea;   
-40) Filosofia del linguaggio.   
-Sono insegnamenti costitutivi dell'indirizzo orientale:   
-a) fondamentali:   
-1) Letteratura italiana;   
-2) Letteratura latina;   
-3) Glottologia;   
-4) Una lingua e letteratura moderna dell'Asia o dell'Africa;   
-5) Una seconda lingua e letteratura dell'Asia o dell'Africa;   
-6) Un insegnamento storico-filologico orientale;   
-7) Storia medioevale (o storia e filologia bizantina);   
-8) Storia moderna;   
-9) Storia dell'arte medioevale (o dell'arte moderna, o dell'arte musulmana e copia, o dell'arte dell'India e dell'Asia centrale);   
-10) Geografia.   
-b) complementari (quando non siano scelti come fondamentali ai su indicati numeri 4), 5) e 6):   
-1) Una lingua e letteratura moderna europea;   
-2) Una seconda lingua e letteratura moderna europea;   
-3) Letteratura greca;   
-4) Storia greca;   
-5) Storia delle religioni;   
-6) Storia della filosofia;   
-7) Etnologia;   
-8) Africanistica;   
-9) Islamistica;   
-10) Egittologia;   
-11) Assiriologia e archeologia orientale;   
-12) Storia orientale antica;   
-13) Storia religiosa dell'Oriente cristiano;   
-14) Storia del Cristianesimo;   
-15) Storia e geografia dell'Asia orientale;   
-16) Religioni e filosofie dell'India e dell'Estremo Oriente;   
-17) Filologia semitica;   
-18) Filologia iranica;   
-19) Filologia e antichita' libico-berbere;   
-20) Ebraico;   
-21) Epigrafia semitica;   
-22) Storia, lingue e letterature dell'Etiopia;   
-23) Lingua e letteratura copta;   
-24) Lingue non semitiche dell'Africa orientale;   
-25) Lingua e letteratura araba;   
-26) Dialetti arabi;   
-27) Lingua e letteratura armena;   
-28) Lingua e letteratura persiana;   
-29) Lingua e letteratura siriaca;   
-30) Lingua e letteratura turca;   
-31) Lingua e letteratura giapponese;   
-32) Lingua e letteratura cinese;   
-33) Indologia;   
-34) Lingue arte moderne dell'India (indostano e bengalico);   
-35) Storia dell'arte medioevale;   
-36) Storia dell'arte moderna;   
-37) Storia dell'arte musulmana e copta;   
-38) Storia dell'arte dell'India e dell'Asia centrale;   
-39) Storia medioevale;   
-40) Filologia e storia bizantina.   
-Entro il 31 dicembre del secondo anno di corso, lo studente deve presentare agli effetti dell'art. 58, il piano di studio, dichiarando l'indirizzo prescelto e la lingua e letteratura straniera moderna, a cui intende principalmente dedicarsi.   
-Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali dell'indirizzo prescelto e in tre altri insegnamenti scelti tra i complementari dello stesso indirizzo. Tuttavia uno degli insegnamenti complementari puo' essere sostituito dallo studente con una disciplina di altri corsi di studi della stessa o di diversa Facolta'.   
-L'insegnamento della lingua e letteratura straniera moderna, alla quale lo studente intende principalmente dedicarsi, deve essere seguito per tutti i quattro anni, alla fine di ciascuno dei quali egli sara' sottoposto a prove scritte, di anno in anno gradualmente progressive.   
-Devono poi essere seguiti per due anni l'insegnamento della filologia a cui quella stessa prima lingua si ricollega, e l'insegnamento della seconda lingua e letteratura straniera moderna prescelta.   
-Due altri insegnamenti fondamentali devono pure essere seguiti per un biennio. Lo studente puo' poi seguire per un biennio anche un altro insegnamento; ed in tal caso puo' ridurre da tre a due gli insegnamenti complementari di sua scelta.   
-Gli esami di letteratura italiana e di letteratura latina comprendono una prova scritta preliminare.   
-Nel diploma di laurea deve essere fatta esplicita menzione della lingua e letteratura straniera moderna, a cui il laureato si e' specialmente dedicato.   
-Art. 59. - Il primo comma e' abrogato e sostituito dal seguente:   
-"L'esame di laurea consiste nella discussione orale di una dissertazione scientifica e nello svolgimento di una prova scritta preliminare, dalla quale sono tuttavia dispensati gli studenti del corso di laurea in lingue e letterature straniere moderne".   
-L'ultimo comma e' abrogato e sostituito dal seguente:   
-"La dissertazione scientifica verte sopra un argomento liberamente scelto dal candidato, d'intesa con un professore o con un libero docente, nell'ambito degli insegnamenti predetti. Per i candidati alla laurea in lingue e letterature straniere moderne e' ammesso nella dissertazione l'uso della lingua prescelta".   
+Nel secondo anno viene dato particolare risalto alle dimostrazioni pratiche. I corsi saranno integrati da conferenze e da seminari sulle materie di insegnamento.   
+Art. 6. - Per essere ammessi al secondo anno gli allievi dovranno aver superato gli esami di cui ai numeri 1), 3), 4) e 5) del primo comma dell'articolo precedente.   
+Le modalita' degli esami saranno stabilite dal consiglio della scuola e comunicate nel manifesto annuale.   
+Art. 7. - L'esame finale per il conseguimento del diploma di tecnico neurofisiopatologo consiste in un esame scritto ed una prova pratica, con cui l'allievo dovra' dimostrare di aver raggiunto un livello di preparazione adeguato nelle materie che sono oggetto di insegnamento.   
+L'esame di diploma dovra' essere superato entro cinque anni dalla data di immatricolazione.   
+Art. 8. - Il direttore della scuola e' un professore di ruolo - ordinario, straordinario o aggregato - del gruppo delle discipline neuropsichiatriche. Esso viene designato dal consiglio di facolta' e nominato con decreto del rettore. Il direttore puo' farsi coadiuvare da un vice-direttore nominato su sua proposta.   
+Art. 9. - Il consiglio della scuola e' costituito dal direttore, dal vice-direttore e dal Corpo docente della scuola.   
+Spetta al consiglio della scuola:   
+  
+1) determinare l'ordine degli studi;   
+2) esprimere il proprio parere sulle proposte del direttore della scuola relativamente alla nomina dei docenti;   
+3) coordinare ed approvare i programmi dei singoli corsi teorici, dei seminari e dei tirocini pratici;   
+4) stabilire l'orario delle lezioni, dei tirocini pratici ed il diario e le modalita' degli esami, sia di profitto che di diploma;   
+5) determinare, ove lo ritenga necessario, il numero degli allievi che possono essere ammessi al primo anno, nonche' le modalita' del colloquio attitudinale e, nei casi previsti, dell'esame di ammissione.   
+  
+Per i problemi di carattere amministrativo il direttore della scuola e' assistito da un apposito comitato, composto:   
+  
+a) dallo stesso direttore della scuola, che lo presiede;   
+b) dal vice-direttore della scuola, che presiede il comitato in caso di assenza o impedimento del direttore;   
+c) dagli altri professori docenti della scuola;   
+d) da rappresentanti degli enti o privati che concorrano alle spese di funzionamento della scuola con contributi annui individuali;   
+a tal uopo, ciascun ente o privato che concorra con un contributo annuo individuale non inferiore a L. 3.000.000 potra' designare un rappresentante per ogni 3.000.000 di lire, mentre gli enti o privati che concorrano con minor contributo annuo, purche' non inferiore a L.   
+500.000, hanno diritto di designare collegialmente propri rappresentanti in ragione di un membro per ogni sei contribuenti.   
+  
+Spetta al comitato amministrativo della scuola:   
+  
+1) proporre al rettore l'ammontare del contributo di laboratorio dovuto dagli allievi;   
+2) determinare i compensi da corrispondere ai docenti e a tutti coloro che prestano la loro opera nella scuola;   
+3) autorizzare ogni altra spesa occorrente al funzionamento della scuola;   
+4) assegnare agli allievi piu' meritevoli le borse di studio che perverranno dagli enti interessati a promuovere la formazione di tecnici neurofisiopatologi;   
+5) approvare il bilancio interno della scuola.   
+  
+Detto comitato puo' autorizzare il proprio presidente a provvedere direttamente ed entro determinati limiti, a spese non ricorrenti.   
+Il direttore della scuola da' esecuzione alle deliberazioni del comitato, conformi al bilancio interno ed alle norme amministrative contenute nella legislazione universitaria.   
+Art. 10. - Gli iscritti alla scuola sono tenuti al versamento annuo delle tasse, soprattasse e contributi nella misura prevista dalla legge vigente per gli studenti della facolta' di medicina e chirurgia.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1957
+### Dato a Roma, addi' 2 giugno 1972
 
-GRONCHI MORO
+LEONE MISASI
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 18 marzo 1958
+Registrato alla Corte dei conti, addi' 3 agosto 1972
 
-Atti del Governo, registro n. 111, foglio n. 155. - RELLEVA
+Atti del Governo, registro n. 250, foglio n. 111. - VALENTINI

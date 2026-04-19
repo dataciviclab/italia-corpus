@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 514
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 667
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 514
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 667
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Siena.
@@ -39,62 +39,20 @@ Articolo unico
 --------------
 
   
-Art. 69 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti insegnamenti: tecnica e diagnostica delle autopsie;  
-tecnica e diagnostica citopatologica;  
-patologia cardio-vascolare;  
-teratologia e patologia delle malformazioni;  
-epidemiologia dei tumori umani;  
-fisiopatologia del dolore;  
-patologia speciale neurologica;  
-neuropsicologia clinica;  
-semeiotica neurologica;  
-psicoterapia;  
-neurologia d'urgenza;  
-psicopatologia generale;  
-neuropsichiatria infantile;  
-chirurgia della mano;  
-fisioterapia;  
-traumatologia;  
-nefrologia pediatrica;  
-neurologia pediatrica;  
-cardiologia pediatrica;  
-endocrinologia pediatrica;  
-ematologia pediatrica;  
-embriologia umana;  
-fisiopatologia dell'emostasi;  
-cronobiologia;  
-fisiopatologia della riproduzione;  
-semeiotica ostetrica;  
-fisiologia prenatale;  
-fisica sanitaria;  
-bioingegneria;  
-biofisica;  
-complementi di fisica medica;  
-programmazione ed organizzazione dei servizi sanitari;  
-istituzioni di patologia generale;  
-biologia e patologia delle ultrastrutture;  
-virologia oncologica;  
-cancerogenesi chimica;  
-fisiopatologia generale;  
-immunochimica;  
-biochimica patologica;  
-immunoematologia;  
-oncologia;  
-immunopatologia;  
-foniatria;  
-anestesia sperimentale;  
-patologia embriofetale.  
+  
+Nell'art. 74, relativo al corso di laurea in odontoiatria e protesi dentaria, nell'elenco degli insegnamenti fondamentali e complementari sono soppressi gli asterischi.   
+Nel medesimo articolo il primo comma dopo l'elenco degli insegnamenti complementari e' soppresso.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1984
+### Dato a Roma, addi' 16 giugno 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 8 agosto 1984
+Registrato alla Corte dei conti, addi' 23 novembre 1983
 
-Registro n. 49 Istruzione, foglio n. 207
+Registro n. 71 Istruzione, foglio n. 276

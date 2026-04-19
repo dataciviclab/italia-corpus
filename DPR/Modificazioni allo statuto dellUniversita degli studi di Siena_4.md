@@ -1,217 +1,23 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1972 n. 965
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1956 n. 1149
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1972 n. 965
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1956 n. 1149
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 46. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:
-
-Storia dell'arte bizantina e dell'Europa orientale;
-
-Storia dell'arte dell'Europa settentrionale (Fiandre, Olanda, Francia, Germania e paesi danubiani);
-
-Storia dell'arte della penisola iberica;
-
-Storia dell'architettura;.
-
-Archeologia medioevale;
-
-Storia della tradizione classica nell'arte europea;
-
-Sociologia dell'arte;
-
-Etnomusicologia;
-
-Musicologia comparata;
-
-Paleografia musicale;
-
-Storia della critica musicale;
-
-Storia dello spettacolo;
-
-Storia contemporanea;
-
-Storia del mondo islamico;
-
-Storia dei paesi afro-asiatici;
-
-Storia dell'agricoltura;
-
-Storia delle istituzioni politiche;
-
-Sociologia.
-
-Art. 48. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:
-
-Storia della pedagogia;
-
-Tecnologie educative e didattiche;
-
-Psicologia dell'eta' evolutiva;
-
-Art. 78. - All'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologie farmaceutiche sono aggiunti i seguenti:
-
-Chimica dei composti eterociclici;
-
-Chimica analitica clinica;
-
-Elementi di fisiopatologia;
-
-Impianti per laboratori galenici;
-
-Zoologia e parassitologia;
-
-Calcoli statistici applicati alla biologia;
-
-Farmacologia molecolare;
-
-Farmacologia applicata.
-
-Gli articoli da 96 a 109 relativi alla scuola per l'assistenza sociale sono abrogati e sostituiti dai seguenti:
-
-Art. 96. - Nella facolta' di giurisprudenza con corso di laurea in scienze politiche dell'Universita' di Siena e' istituita una "Scuola per assistenti sociali".
-
-La scuola ha per fine la formazione professionale di assistenti sociali attraverso insegnamenti teorici e professionali integrati da un sistema permanente di seminari interdisciplinari di studio, da tirocini e da esercitazioni.
-
-La scuola conferisce il diploma di assistente sociale.
-
-Art. 97. - Per l'ammissione alla scuola e' richiesto il diploma di maturita' classica, o scientifica, o di abilitazione degli istituti magistrali o di istituti secondari superiori ordinati su non meno di cinque anni di corso.
-
-Art. 98. - La scuola gode di autonomia agli effetti didattici.
-
-Art. 99. - il consiglio della scuola e' composto dal preside della facolta' di giurisprudenza, dal direttore della scuola e dai docenti della scuola che siano incaricati dell'insegnamento delle discipline previste dal piano di studi.
-
-Il consiglio:
-
-a) delibera su tutte le questioni di natura didattica e disciplinare relative alla scuola;
-
-b) propone al rettore il direttore della scuola da scegliersi fra i docenti di ruolo dei corsi di giurisprudenza e di scienze politiche.
-
-Art. 100. - Il direttore e' nominato dal rettore su proposta del consiglio della scuola, dura in carica un triennio ed e' rieleggibile.
-
-Il direttore ha la rappresentanza e la direzione della scuola. Egli presiede il consiglio dei professori della scuola e lo convoca ogni qual volta lo ritenga necessario e quando ne venga fatta richiesta motivata da almeno un quinto dei componenti il medesimo.
-
-Art. 101. - I docenti sono proposti dal consiglio della scuola alla facolta' di giurisprudenza che provvede a sua volta a proporli al senato accademico ed al consiglio di amministrazione dell'universita'.
-
-I docenti degli insegnamenti professionali svolgono anche l'attivita' di coordinamento e di assistenza i seminari, ai tirocini, ed alle esercitazioni professionali.
-
-Art. 102. - Il corso di studio per il conseguimento del titolo di assistente sociale ha la durata di tre anni.
-
-Lo svolgimento delle lezioni e degli esami e' regolato dal calendario accademico.
-
-Art. 103. - Gli insegnamenti fondamentali sono i seguenti:
-
-1) Istituzioni di servizio sociale;
-
-2) Metodologia del servizio sociale;
-
-3) Servizio sociale e politica sociale;
-
-4) Amministrazione e organizzazione dei servizi sociali;
-
-5) Metodologia della ricerca sociale;
-
-6) Sociologia e antropologia culturale;
-
-7) Psicologia;
-
-8) Psicologia differenziale ed applicata;
-
-9) Psicologia sociale;
-
-10) Elementi di diritto pubblico (semestrale);
-
-11) Elementi di diritto privato (semestrale);
-
-12) Legislazione sociale;
-
-13) Economia politica e politica economica;
-
-14) Statistica;
-
-15) Elementi di biologia e fisiologia;
-
-16) Igiene e medicina sociale.
-
-Lo studente deve scegliersi altri quattro insegnamenti tra quelli annualmente indicati dal consiglio della scuola nell'ambito di quelli della facolta' di giurisprudenza e delle altre facolta' dell'Universita' di Siena.
-
-I seminari interdisciplinari di studio sono svolti nei primi due anni di corso e lo studente deve seguirne uno per ogni anno; la durata media e' di 5 mesi.
-
-I tirocini sono svolti nel secondo e terzo anno di corso e lo studente dove svolgerne uno per anno, la durata media e' di un anno accademico.
-
-Le esercitazioni professionali si svolgono nell'ambito di singoli insegnamenti e tra gruppi interdisciplinari.
-
-Art. 104. - Per essere ammessi agli esami lo studente deve aver ottenuto le firme di frequenza alle lezioni e aver svolto con esito positivo sia i seminari che i tirocini.
-
-Per conseguire il diploma lo studente deve presentare una dissertazione scritta (ricerca o contributo dello studente) o sostenere un colloquio dopo il superamento di tutti gli esami.
-
-Art. 105. - La scuola potra' avere un regolamento interno.
-
-Art. 106. - Le tasse e soprattasse per la scuola sono fissate nel modo seguente:
-
-la tassa per l'iscrizione ai corsi e' fissata in lire 30.000 per ogni anno;
-
-la tassa di diploma e' fissata in L. 6.000 ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).
-
-Gli eventuali contributi sono deliberati dal consiglio di amministrazione dell'universita' su proposta del consiglio della scuola.
-
-Art. 107. - Gli studenti partecipano alla vita della scuola e beneficiano dell'assistenza universitaria secondo le norme in vigore.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 28 ottobre 1972
-
-LEONE
-
-SCALFARO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 27 gennaio 1973 Atti di Governo, registro n. 255, foglio n. 71. - VALENTINI
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831), e modificato con i [regi decreti 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1929-10-31;2395); [30 ottobre 1930 n. 1771](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1771); [22 ottobre 1931 n. 1421](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-22;1421), [27 ottobre 1932, n. 2078](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-10-27;2078); [26 ottobre 1933, n. 2378](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1933-10-26;2378); [16 ottobre 1934, n. 2080](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-10-16;2080); [1 ottobre 1936, n. 1940](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;1940); [9 maggio 1939, n. 1091](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-05-09;1091); [5 ottobre 1939, n. 1645](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-10-05;1645), e [2 ottobre 1940, n. 1472; con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1940-10-02;1472) [6 aprile 1948, n. 758](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-04-06;758); [30 ottobre 1949, n. 1139](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1139); [31 agosto 1951, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-31;1312); [26 gennaio 1954, n. 8](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-01-26;8); [31 luglio 1954, n. 959](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-07-31;959) e [4 febbraio 1955, n. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;118);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta,;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -220,97 +26,135 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 46. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
-Storia dell'arte bizantina e dell'Europa orientale;  
-Storia dell'arte dell'Europa settentrionale (Fiandre, Olanda, Francia, Germania e paesi danubiani);  
-Storia dell'arte della penisola iberica;  
-Storia dell'architettura;.  
-Archeologia medioevale;  
-Storia della tradizione classica nell'arte europea;  
-Sociologia dell'arte;  
-Etnomusicologia;  
-Musicologia comparata;  
-Paleografia musicale;  
-Storia della critica musicale;  
-Storia dello spettacolo;  
-Storia contemporanea;  
-Storia del mondo islamico;  
-Storia dei paesi afro-asiatici;  
-Storia dell'agricoltura;  
-Storia delle istituzioni politiche;  
-Sociologia.  
+Art. 9. - Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di "ragioneria generale ed applicata".  
+Dopo l'art. 28, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione, presso la Facolta' di giurisprudenza, della "Scuola di perfezionamento in discipline bancarie" e della "Scuola per l'assistenza sociale", con il conseguente spostamento della numerazione degli articoli successivi.  
   
-Art. 48. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:  
-Storia della pedagogia;  
-Tecnologie educative e didattiche;  
-Psicologia dell'eta' evolutiva;  
+TITOLO VI  
   
-Art. 78. - All'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologie farmaceutiche sono aggiunti i seguenti:  
-Chimica dei composti eterociclici;  
-Chimica analitica clinica;  
-Elementi di fisiopatologia;  
-Impianti per laboratori galenici;  
-Zoologia e parassitologia;  
-Calcoli statistici applicati alla biologia;  
-Farmacologia molecolare;  
-Farmacologia applicata.  
+Scuola di perfezionamento in discipline bancarie  
   
-Gli articoli da 96 a 109 relativi alla scuola per l'assistenza sociale sono abrogati e sostituiti dai seguenti:  
-Art. 96. - Nella facolta' di giurisprudenza con corso di laurea in scienze politiche dell'Universita' di Siena e' istituita una "Scuola per assistenti sociali".  
-La scuola ha per fine la formazione professionale di assistenti sociali attraverso insegnamenti teorici e professionali integrati da un sistema permanente di seminari interdisciplinari di studio, da tirocini e da esercitazioni.  
+Art. 29. - Nella Facolta' di giurisprudenza e' istituita la scuola di perfezionamento in discipline bancarie alla quale sono ammessi i laureati in giurisprudenza.  
+Art. 30. - Il direttore della scuola e i professori sono nominati dal rettore su proposta conforme del.  
+Consiglio della Facolta' di giurisprudenza. Il direttore puo' essere prescelto anche fra i professori non di ruolo.  
+Art. 31. - Il Consiglio della scuola di perfezionamento si compone del direttore che lo presiede e di tutti i professori appartenenti alla scuola. Il Consiglio provvede in materia didattica relativamente alla scuola, salvo i casi riservati al Consiglio di facolta' o ad altre autorita' accademiche, per legge, per regolamento o per statuto.  
+Il Consiglio della scuola deve riunirsi ogni anno entro il mese di ottobre per esaminare, coordinare e approvare i programmi dei docenti, da presentarsi per iscritto entro il 30 settembre e per deliberare l'orario delle lezioni. I programmi approvati e l'orario devono essere pubblicati a cura dell'Universita' prima dell'inizio dei corsi e distribuiti agli iscritti.  
+Art. 32. - Il numero massimo delle iscrizioni annualmente consentite e' di trenta, ma puo' essere ridotto con deliberazione del Consiglio d'amministrazione, su proposta dei Consigli della scuola e della facolta', sentito il Senato accademico.  
+L'ammissione alla scuola ha luogo in seguito a concorso per titoli e per esami. I laureati in giurisprudenza che non abbiano superato gli esami di statistica e di ragioneria generale e applicata dovranno superare queste prove presso l'Universita' di Siena. La Commissione giudicatrice, composta di cinque membri, e' nominati dal rettore su proposta del Consiglio della scuola e del Consiglio di facolta'.  
+Art. 33. - Il corso degli studi ha la durata di due anni e gli insegnamenti sono i seguenti:  
+1) Legislazione sulle banche, sulle Borse e sul risparmio;  
+2) Contratti di banca e di Borsa;  
+3) Economia politica monetaria e creditizia (biennale);  
+4) Statistica applicata;  
+5) Tecnica delle operazioni di banca e di Borsa;  
+6) Economia tecnica e legislazione del commercio internazionale;  
+7) Ragioneria ed economia aziendale applicata alle banche;  
+8) Tecnica dei finanziamenti e delle analisi di bilancio (semestrale);  
+9) Tecnica della revisione contabile (semestrale);  
+10) Tecnica delle indagini sulle prospettive economiche delle imprese finanziarie (semestrale);  
+11) Organizzazione bancaria con esercitazioni sulle operazioni bancarie (biennale);  
+12) Relazioni col pubblico (semestrale);  
+13) Lingua inglese (biennale).  
+Nel regolamento gli insegnamenti sono ripartiti in due anni.  
+Art. 34. - La frequenza ai corsi e alle esercitazioni pratiche e' obbligatoria e i docenti hanno il dovere di registrare le assenze.  
+Art. 35. - Gli esami di profitto sono sostenuti al termine di ogni anno in due sessioni per tutte le materie prescritte. Gli esami biennali importano un esame scritto ed un esame orale alla fine di ogni anno.  
+Per essere ammesso al secondo anno il perfezionando deve avere superato tutti gli esami del primo anno.  
+L'esame di diploma consistera' in una dissertazione scritta relativa ad un argomento economico, di tecnica bancaria o giuridico.  
+A coloro che siano stati approvati in tutti gli esami prescritti e' rilasciato il diploma di perfezionamento in discipline bancarie.  
+Art. 36. - Le tasse per le iscrizioni ai corsi e gli eventuali contributi sono deliberate dal Consiglio d'amministrazione su proposta del Consiglio della scuola e del Consiglio di facolta', sentito il Senato accademico. La tassa di diploma e' fissata in L. 6000 a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
+Tutte le tasse sono devolute all'Amministrazione universitaria, ad eccezione di quella di diploma.  
+Art. 37. - Il Consiglio d'amministrazione delibera le retribuzioni a favore del personale insegnante e ogni altro eventuale compenso relativo al funzionamento della scuola.  
+Ogni spesa relativa alla scuola di perfezionamento in discipline bancarie e' a carico del bilancio universitario e deve essere integralmente coperta con i contributi degli enti locali.  
+Art. 38. - La scuola potra' avere un suo regolamento da proporsi dal Consiglio della scuola stessa e da approvarsi dal Consiglio di facolta'.  
+  
+Scuola per l'assistenza sociale  
+  
+Art. 39. - Nella Facolta' di giurisprudenza e' istituita una "Scuola per l'assistenza sociale" ai sensi dell'[art. 20, lettera a) del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20-leta).  
+La scuola si propone di preparare all'esercizio della processione d'assistente sociale mediante l'insegnamento teorico delle discipline necessarie e la sua integrazione con le opportune esercitazioni pratiche.  
 La scuola conferisce il diploma di assistente sociale.  
-Art. 97. - Per l'ammissione alla scuola e' richiesto il diploma di maturita' classica, o scientifica, o di abilitazione degli istituti magistrali o di istituti secondari superiori ordinati su non meno di cinque anni di corso.  
-Art. 98. - La scuola gode di autonomia agli effetti didattici.  
-Art. 99. - il consiglio della scuola e' composto dal preside della facolta' di giurisprudenza, dal direttore della scuola e dai docenti della scuola che siano incaricati dell'insegnamento delle discipline previste dal piano di studi.  
-Il consiglio:  
-a) delibera su tutte le questioni di natura didattica e disciplinare relative alla scuola;  
-b) propone al rettore il direttore della scuola da scegliersi fra i docenti di ruolo dei corsi di giurisprudenza e di scienze politiche.  
-Art. 100. - Il direttore e' nominato dal rettore su proposta del consiglio della scuola, dura in carica un triennio ed e' rieleggibile.  
-Il direttore ha la rappresentanza e la direzione della scuola. Egli presiede il consiglio dei professori della scuola e lo convoca ogni qual volta lo ritenga necessario e quando ne venga fatta richiesta motivata da almeno un quinto dei componenti il medesimo.  
-Art. 101. - I docenti sono proposti dal consiglio della scuola alla facolta' di giurisprudenza che provvede a sua volta a proporli al senato accademico ed al consiglio di amministrazione dell'universita'.  
-I docenti degli insegnamenti professionali svolgono anche l'attivita' di coordinamento e di assistenza i seminari, ai tirocini, ed alle esercitazioni professionali.  
-Art. 102. - Il corso di studio per il conseguimento del titolo di assistente sociale ha la durata di tre anni.  
-Lo svolgimento delle lezioni e degli esami e' regolato dal calendario accademico.  
-Art. 103. - Gli insegnamenti fondamentali sono i seguenti:  
-1) Istituzioni di servizio sociale;  
-2) Metodologia del servizio sociale;  
-3) Servizio sociale e politica sociale;  
-4) Amministrazione e organizzazione dei servizi sociali;  
-5) Metodologia della ricerca sociale;  
-6) Sociologia e antropologia culturale;  
+Art. 40. - La scuola ha sede presso l'Universita' di Siena e gode d'autonomia con effetti puramente amministrativi e didattici.  
+I proventi della scuola, costituiti dalle tasse scolastiche, dal contributo annuo stanziato dal Consiglio d'amministrazione dell'Universita' di Siena e dagli eventuali contributi dello Stato, degli enti pubblici e dei privati interessati al funzionamento della scuola sono amministrati separatamente dalle entrate universitarie.  
+La scuola ha un proprio bilancio che viene approvato dal Consiglio d'amministrazioni dell'Universita' quale allegato del bilancio universitario.  
+Art. 41. - La scuola ha un proprio Consiglio di amministrazione formato:  
+a) dal rettore dell'Universita';  
+b) da quattro professori di ruolo dell'Universita' di Siena di cui tre designati dal Consiglio della facolta' di giurisprudenza ed uno dal Consiglio della Facolta' di medicina, tutti nominati dal rettore;  
+c) dal direttore della scuola;  
+d) da quattro rappresentanti degli enti od istituti finanziatori e di enti od organizzazioni interessate al funzionamento della scuola nominati su designazione di questi, dal rettore.  
+Il Consiglio dura in carica tre anni e i suoi membri sono rieleggibili.  
+Art. 42 - Il Consiglio di amministrazione della scuola:  
+a) delibera le proposte di bilancio preventivo e consuntivo da sottoporre all'approvazione del Consiglio d'amministrazione dell'Universita';  
+b) delibera tutte le proposte aventi effetti finanziari, relativi alla scuola, da sottoporre all'approvazione del Consiglio d'amministrazione dell'Universita';  
+c) approva il regolamento interno su proposta del Consiglio dei professori della scuola.  
+Art. 43. - Il Consiglio dei professori della scuola e' composto dal preside della Facolta' di giurisprudenza che lo presiede e dai docenti della scuola.  
+Il Consiglio delibera su tutte le proposte di natura didattica o disciplinare relative alla scuola.  
+Il Consiglio della scuola deve riunirsi ogni anno entro il mese d'ottobre per esaminare, coordinare e approvare i programmi dei docenti, da presentarsi per iscritto entro il 30 settembre e per deliberare l'orario delle lezioni. I programmi approvati e l'orario devono essere pubblicati a cura dell'Universita' prima dell'inizio dei corsi  
+Art. 44. - Il direttore della scuola e' il preside della Facolta' di giurisprudenza.  
+Il Consiglio dei professori della scuola, su proposta del direttore, puo' nominare un vice direttore scelto tra i docenti della scuola. Il direttore ha la rappresentanza e la direzione della scuola e ne assicura la disciplina.  
+Art. 45. - I docenti sono nominati dal Consiglio di amministrazione dell'Universita' su proposta del direttore approvata dal Consiglio dei professori e dal Consiglio di amministrazione della scuola per la durata dell'anno accademico.  
+Delle nomine e' data comunicazione al Ministro della pubblica istruzione.  
+I docenti debbono essere scelti fra professori di ruolo, professori incaricati, liberi docenti e assistenti di ruolo dell'Universita' di Siena e di altre Universita'.  
+Soltanto in casi eccezionali l'insegnamento di speciali materie potra' essere affidato a persone estranee all'Universita' fornite di particolare competenza.  
+Art. 46. - Un aiuto, incaricato delle esercitazioni pratiche, e' permanentemente addetto alla cattedra del "servizio sociale".  
+Art. 47. - Gli uffici d'amministrazione e di segreteria dell'Universita' funzionano da uffici di amministrazione e di segreteria della scuola.  
+Art. 48. - Il corso degli studi per il conseguimento dei diploma di assistente sociale ha la durata di due anni.  
+L'anno d'insegnamento ha inizio il 1 novembre di ogni anno.  
+Ai fini scolastici il periodo delle lezioni di ciascun anno e' ripartito in due corsi di eguale durata, il primo dei quali va dal 1 novembre al 28 febbraio e il secondo dal 15 marzo al 15 luglio.  
+Art. 49. - Gli insegnamenti sono i seguenti:  
+a) per il primo corso:  
+1) Istituzioni di diritto privato (con particolare riguardo al diritto delle persone e della famiglia;  
+2) Istituzioni di diritto pubblico (con particolare riguardo all'ordinamento costituzionale ed amministrativo dello Stato);  
+3) Legislazione del lavoro;  
+4) Metodologia statistica, e statistica dei fenomeni sociali;  
+5) Elementi di economia e di politica agraria;  
+6) Biologia e anatomia (elementari);  
 7) Psicologia;  
-8) Psicologia differenziale ed applicata;  
-9) Psicologia sociale;  
-10) Elementi di diritto pubblico (semestrale);  
-11) Elementi di diritto privato (semestrale);  
-12) Legislazione sociale;  
-13) Economia politica e politica economica;  
-14) Statistica;  
-15) Elementi di biologia e fisiologia;  
-16) Igiene e medicina sociale.  
-Lo studente deve scegliersi altri quattro insegnamenti tra quelli annualmente indicati dal consiglio della scuola nell'ambito di quelli della facolta' di giurisprudenza e delle altre facolta' dell'Universita' di Siena.  
-I seminari interdisciplinari di studio sono svolti nei primi due anni di corso e lo studente deve seguirne uno per ogni anno; la durata media e' di 5 mesi.  
-I tirocini sono svolti nel secondo e terzo anno di corso e lo studente dove svolgerne uno per anno, la durata media e' di un anno accademico.  
-Le esercitazioni professionali si svolgono nell'ambito di singoli insegnamenti e tra gruppi interdisciplinari.  
-Art. 104. - Per essere ammessi agli esami lo studente deve aver ottenuto le firme di frequenza alle lezioni e aver svolto con esito positivo sia i seminari che i tirocini.  
-Per conseguire il diploma lo studente deve presentare una dissertazione scritta (ricerca o contributo dello studente) o sostenere un colloquio dopo il superamento di tutti gli esami.  
-Art. 105. - La scuola potra' avere un regolamento interno.  
-Art. 106. - Le tasse e soprattasse per la scuola sono fissate nel modo seguente:  
-la tassa per l'iscrizione ai corsi e' fissata in lire 30.000 per ogni anno;  
-la tassa di diploma e' fissata in L. 6.000 ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
-Gli eventuali contributi sono deliberati dal consiglio di amministrazione dell'universita' su proposta del consiglio della scuola.  
-Art. 107. - Gli studenti partecipano alla vita della scuola e beneficiano dell'assistenza universitaria secondo le norme in vigore.  
+8) Teoria del servizio sociale;  
+b) per il secondo corso:  
+1) Diritto all'assistenza sociale, legislazione sanitaria e scolastica;  
+2) Diritto agrario (con particolare riguardo alla riforma fondiaria e alla politica agraria);  
+3) Legislazione del lavoro;  
+4) Elementi di fisiologia (con particolare riferimento all'alimentazione);  
+5) Elementi d'economia e politica agraria;  
+6) Psicologia rurale;  
+7) Igiene;  
+8) Teoria del servizio sociale (con particolare riguardo all'agricoltura);  
+c) per il terzo corso:  
+1) Elementi di diritto penale, penitenziario e di procedura penale (con particolare riguardo alla criminalita' dei minorenni);  
+2) Diritto sindacale del lavoro e dell'emigrazione;  
+3) La cooperazione agricola;  
+4) Pedagogia;  
+5) Medicina del lavoro;  
+6) Puericultura;  
+7) Igiene applicata all'agricoltura;  
+8) Servizio sociale (tecnica ed esercitazioni);  
+d) per il quarto corso:  
+1) La riforma agraria e la bonifica;  
+2) L'educazione degli adulti (con particolare riferimento all'ambiente rurale);  
+3) Teoria e tecnica dell'orientamento professionale e politica dell'occupazione;  
+4) Studio e profilassi delle malattie sociali;  
+5) Elementi di psichiatria e criminologia;  
+6) Servizio sociale (tecnica ed esercitazioni con particolare riguardo al servizio sociale negli enti di riforma).  
+La durata di ciascun corso e' fissata in venti lezioni.  
+Le esercitazioni comprendono gite ad uffici pubblici, organizzazioni sindacali, istituti assistenziali ed aziende ed anche la permanenza continuativa, a titolo di tirocinio, negli enti di riforma.  
+Art. 50. - Per l'ammissione alla scuola e' richiesto il diploma di maturita' classica o scientifica o di abilitazione degli istituti tecnici e commerciali.  
+Art. 51. - Gli esami di profitto su ciascuna materia vengono sostenuti al termine di ciascun corso.  
+Per le materie, che abbiano sviluppo organico in piu' di un corso, gli esami sono sostenuti al termine dell'ultimo corso di insegnamento.  
+L'esame di diploma consistera' in una dissertazione scritta e in un colloquio.  
+A coloro che siano approvati in tutti gli esami prescritti viene rilasciato il diploma di assistente sociale.  
+Art. 52. - Il numero massimo delle iscrizioni annualmente consentite e' di trenta (30), ma puo' essere ridotto con deliberazione del Consiglio d'amministrazione dell'Universita', su proposta dei Consigli d'amministrazione e dei professori della scuola. L'ammissione alla scuola ha luogo in seguito a concorso per titoli e per esami.  
+Art. 53. - Le tasse per le iscrizioni ai corsi e gli eventuali contributi sono deliberati dal Consiglio di amministrazione dell'Universita', su proposta del Consiglio dei professori e del Consiglio di amministrazione de a scuola.  
+La tassa di diploma e' fissata in L. 6000 a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
+Art. 54. - La scuola potra' avere un regolamento da approvarsi dal Consiglio di amministrazione della scuola stessa su proposta del Consiglio dei professori.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1972
+### Dato a Roma, addi' 5 settembre 1956
 
-LEONE SCALFARO
+GRONCHI ROSSI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MORO
 
-Registrato alla Corte dei conti, addi' 27 gennaio 1973
+Registrato alla Corte dei conti, addi' 19 ottobre 1956
 
-Atti di Governo, registro n. 255, foglio n. 71. - VALENTINI
+Atti del Governo, registro n. 101, foglio n. 54. - CARLOMAGNO

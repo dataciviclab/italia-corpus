@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1980 n. 833
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1980 n. 419
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1980 n. 833
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1980 n. 419
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -18,53 +18,91 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Veduto il [parere della sezione prima del Consiglio di Stato n. 1902/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
 
-Decreta:
---------
+Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
 
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopracitati, e' ulteriormente modificato come appresso:
+Sulla
+-----
 
-Articolo unico
---------------
+proposta del Ministro della pubblica istruzione; Decreta:
+
+Art. 1
+------
 
   
-Nell'art. 89, relativo all'elenco delle scuole annesse alla facolta' di lettere e filosofia, la scuola di perfezionamento in storia dell'arte antica, medioevale e moderna cambia la denominazione in quella di scuola di perfezionamento in archeologia e storia dell'arte antica e in storia dell'arte medioevale e moderna.  
-Scuola di perfezionamento in archeologia e storia dell'arte antica e in storia dell'arte medioevale e moderna.  
-Nell'art. 106 e' soppressa la frase incidentale: "nell'ambito delle discipline costitutive".  
-Gli articoli 107, 108 e 109 sono cosi' sostituiti:  
-Art. 107. - La scuola e' della durata di due anni e si articola in due indirizzi:  
-a) archeologia e storia dell'arte antica;  
-b) storia dell'arte medioevale e moderna.  
-All'indirizzo di archeologia e storia dell'arte antica sono ammessi direttamente i laureati con tesi in archeologia e i laureati in lettere che, a giudizio della direzione della scuola, abbiano sostenuto, durante il corso universitario, sufficienti esami di materie archeologiche.  
-All'indirizzo di storia dell'arte medioevale e moderna sono ammessi direttamente i laureati con tesi in discipline storico-artistiche e i laureati in lettere che, a giudizio della direzione della scuola, abbiano sostenuto, durante il corso universitario, sufficienti esami di materie storico-artistiche.  
-I laureati di altri indirizzi e facolta' possono essere ammessi alla scuola sostenendo con esito positivo una prova scritta che documenti la loro specifica preparazione nelle discipline archeologiche e storico-artistiche.  
-Art. 108. - I candidati dovranno indicare, all'atto dell'iscrizione, l'indirizzo che intendono seguire per il perfezionamento.  
-Art. 109. - Per ognuno dei due anni lo studente deve ottenere la firma di iscrizione e frequenza di almeno tre corsi e sostenere i relativi esami.  
-Per l'indirizzo archeologico sono obbligatori gli esami di archeologia e storia dell'arte greca e romana e di etruscologia (uno dei quali biennale), e l'esame di storia dell'arte medioevale e moderna; gli altri due esami devono essere concordati con i docenti.  
-Per l'indirizzo storico-artistico sono obbligatori gli esami di storia dell'arte medioevale e moderna e di critica d'arte (uno dei quali biennale), e l'esame di archeologia e storia dell'arte greca e romana; gli altri esami devono essere concordati con i docenti.  
-I sei esami del biennio, obbligatori e concordati, devono essere inseriti nel piano di studio compilato all'inizio del corso e approvato dal direttore della scuola.  
-Per essere ammesso all'esame di diploma l'iscritto alla scuola, oltre ad aver seguito i corsi e superato gli esami sopra indicati, dovra' dimostrare di conoscere, ai fini di una corrente lettura e traduzione dei testi, almeno due lingue straniere.  
-L'esame di diploma consiste nella discussione di una dissertazione scritta intorno ad un tema prescelto nell'ambito delle discipline della scuola.  
+Lo statuto dell'Universita' di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+L'art. 148, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la scuola di specializzazione in malattie dell'apparato digerente muta la denominazione in scuola di specializzazione in gastroenterologia ed endoscopia digestiva.  
+
+Art. 2
+------
+
+  
+  
+L'art. 215, relativo alla scuola di specializzazione in malattie dell'apparato digerente, che muta la denominazione in quella di scuola di specializzazione in gastroenterologia ed endoscopia digestiva, e' soppresso e sostituito dal seguente:   
+  
+Scuola di specializzazione in gastroenterologia ed endoscopia digestiva   
+  
+Art. 215. - La scuola di specializzazione in gastroenterologia ed endoscopia digestiva ha sede presso l'istituto di clinica medica generale e terapia medica I e conferisce il diploma di specialista in gastroenterologia ed endoscopia digestiva.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.   
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
+Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+anatomia clinica;   
+farmacologia clinica;   
+chimica clinica, coprologia, parassitologia;   
+genetica;   
+biostatistica ed epidemiologia.   
+2° Anno:   
+clinica medica generale (triennale);   
+clinica e terapia del tubo digerente, fegato e pancreas (triennale);   
+anatomia ed istologia patologica (biennale);   
+fisiopatologia e semeiotica digestiva (biennale);   
+radiologia e medicina nucleare (biennale);   
+scienza dell'alimentazione e dietetica.   
+3° Anno:   
+clinica medica generale;   
+clinica e terapia del tubo digerente, fegato e pancreas;   
+anatomia ed istologia patologica;   
+fisiopatologia e semeiotica digestiva;   
+radiologia e medicina nucleare;   
+endoscopia digestiva (biennale).   
+4° Anno:   
+clinica medica generale;   
+clinica e terapia del tubo digerente, fegato e pancreas;   
+endoscopia digestiva;   
+terapia intensiva;   
+gastroenterologia pediatrica;   
+elementi di chirurgia del tubo digerente, fegato e pancreas.   
+E' obbligatorio il tirocinio pratico durante il quadriennio di studi da svolgere nell'istituto clinico sede della scuola o in reparti ospedalieri di gastroenterologia, conforme alle scelte approvate dal consiglio della scuola.   
+Ogni scuola puo' aggiungere a queste materie fondamentali obbligatorie delle materie complementari con corsi semestrali, in numero non superiore a sei per la totalita' del corso.   
+Per le materie biennali e triennali e' dato l'esame alla fine del biennio o triennio.   
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
+Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno; per le materie biennali e triennali, invece, e' dato l'esame alla fine del biennio o del triennio.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in gastroenterologia ed endoscopia digestiva, gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 settembre 1980
+### Dato a Roma, addi' 27 marzo 1980
 
-PERTINI SARTI
+PERTINI VALITUTTI
 
 Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 26 novembre 1980
+Registrato alla Corte dei conti, addi' 29 luglio 1980
 
-Registro n. 111 Istruzione, foglio n. 310
+Registro n. 72 Istruzione, foglio n. 272

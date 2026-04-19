@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1969 n. 246
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1956 n. 1150
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1969 n. 246
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1956 n. 1150
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
@@ -10,15 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Modena.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, numero 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170) e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035); modificato con i [regi decreti 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2170); [30 ottobre 1930, n. 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1825); [1 ottobre 1931, n. 1336](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1336); [27 ottobre 1932, n. 2073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2073); [6 dicembre 1934, n. 2291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2291); [1 ottobre 1936, n. 2088](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2088); [20 aprile 1939, numero 1075; con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1939-04-20;1075) [15 ottobre 1947, n. 1874](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-10-15;1874) e [30 dicembre 1947, n. 1877 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1877) [23 settembre 1949, n. 817](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;817); [28 aprile 1951, n. 955](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-28;955); [19 giugno 1951, n. 709](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-19;709); [26 aprile 1954, n. 739](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;739); [1 marzo 1955, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-03-01;223); [2 agosto 1955, n. 877](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-08-02;877); [4 ottobre 1955, n. 1104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-10-04;1104) e [10 marzo 1956, n. 431](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-03-10;431);
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,63 +30,119 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 194, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione del corso di perfezionamento in fisica - ad indirizzo didattico - presso la facolta' di scienze matematiche, fisiche e naturali.
+Dopo l'art. 141, sono aggiunti i seguenti articoli relativi alla istituzione della scuola di specializzazione in chirurgia generale.
 
-Corso di perfezionamento in fisica (ad indirizzo didattico)
+Scuola di specializzazione in chirurgia generale
 
-Art. 195. - Presso la facolta' di scienze matematiche, fisiche e naturali, e' istituito un corso di perfezionamento in fisica ad indirizzo didattico, il quale conduce al conseguimento di un attestato di perfezionamento in fisica ad indirizzo didattico.
+Art. 142. - La scuola di specializzazione in chirurgia generale conferisce il diploma di specialista in chirurgia generale.
 
-Art. 196. - Al corso annuale di perfezionamento in fisica ad indirizzo didattico e' titolo di ammissione qualunque laurea che, secondo le leggi vigenti, consenta l'insegnamento della fisica in qualche tipo di scuola secondaria. Della accettazione delle domande alla iscrizione al corso giudica il consiglio di facolta' su proposta del direttore del corso.
+Art. 143. - La durata del corso degli studi e' di anni cinque.
 
-Art. 197. - Il corso si svolge presso l'istituto di fisica dell'Universita' di Modena ed ha la durata di un anno.
+Art. 144. - Gli insegnamenti, distinti in fondamentali e complementari, sono, per ciascun anno di corso, i seguenti:
 
-Il direttore del corso e' nominato di anno in anno dalla facolta' e puo' essere confermato.
+Anno 1°
 
-Art. 198. - La tassa di iscrizione e le sopratasse vengono fissate uguali a quelle che si richiedono a uno studente iscritto per la laurea in fisica fuori corso d'un anno.
+Insegnamenti fondamentali:
 
-Art. 199. - Il corso comprende i seguenti insegnamenti:
+1) Anatomia topografica;
 
-Critica dei fondamenti della fisica generale;
+2) Fisiologia;
 
-Complementi di fisica generale;
+3) Patologia chirurgica;
 
-Didattica della fisica;
+4) Igiene ospedaliera;
 
-Storia della fisica;
+5) Clinica chirurgica.
 
-Aggiornamento sugli sviluppi della fisica.
+Insegnamenti complementari:
 
-Esso consiste di lezioni teoriche ed esercitazioni; puo' mutuare insegnamenti della facolta' di scienze matematiche, fisiche e naturali ed eventualmente anche di altre facolta' su parere del consiglio di facolta'.
+1) Semeiotica chirurgica;
 
-Art. 200. - Il profitto degli allievi e' accertato dagli insegnanti durante il corso e mediante una prova finale d'esame al termine di esso.
+2) Anestesiologia;
 
-Art. 201. - L'attestato di cui all'art. 195 verra' rilasciato a cura dell'Universita' di Modena.
+3) Ricerche di laboratorio.
+
+Anno 2°
+
+Insegnamenti fondamentali:
+
+1) Patologia generale;
+
+2) Patologia chirurgica;
+
+3) Anatomia patologica;
+
+4) Radiologia applicata alla chirurgia;
+
+5) Clinica chirurgica.
+
+Insegnamenti complementari:
+
+1) Medicina operatoria.
+
+Anno 3°
+
+Insegnamenti fondamentali:
+
+1) Anatomia patologica;
+
+2) Clinica chirurgica.
+
+Insegnamenti complementari:
+
+1) Ortopedia-traumatologica;
+
+2) Otorinolaringologia.
+
+Anno 4°
+
+Insegnamenti fondamentali:
+
+1) Medicina legale delle lesioni chirurgiche;
+
+2) Clinica chirurgica.
+
+Insegnamenti complementari:
+
+1) Odontoiatria.
+
+Anno 5°
+
+Insegnamenti fondamentali:
+
+1) Clinica chirurgica.
+
+Insegnamenti complementari:
+
+1) Chirurgia d'urgenza.
+
+Art. 145. - L'allievo per essere ammesso al corso immediatamente superiore deve avere ottenuto tutte le firme di frequenza e deve avere superato tutti gli esami fondamentali del corso.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 marzo 1969
+Dato a Roma, addi' 5 settembre 1956
 
-SARAGAT
+GRONCHI
 
-FERRARI AGGRADI
+ROSSI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: MORO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 21 maggio 1969 Atti del Governo, registro n. 226, foglio n. 193. - GRECO
+alla Corte dei conti, addi' 18 ottobre 1956 Atti del Governo, registro n. 101, foglio n. 52. - CARLOMAGNO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, numero 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035); modificato con i [regi decreti 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2170); [30 ottobre 1930, n. 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1825); [1 ottobre 1931, n. 1336](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1336); [27 ottobre 1932, n. 2073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2073); [6 dicembre 1934, n. 2291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2291); [1 ottobre 1936, n. 2088](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2088); [20 aprile 1939, numero 1075; con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1939-04-20;1075) [15 ottobre 1947, n. 1874](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-10-15;1874) e [30 dicembre 1947, n. 1877 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1877) [23 settembre 1949, n. 817](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;817); [28 aprile 1951, n. 955](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-28;955); [19 giugno 1951, n. 709](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-19;709); [26 aprile 1954, n. 739](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;739); [1 marzo 1955, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-03-01;223); [2 agosto 1955, n. 877](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-08-02;877); [4 ottobre 1955, n. 1104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-10-04;1104) e [10 marzo 1956, n. 431](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-03-10;431);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -95,35 +151,63 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 194, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione del corso di perfezionamento in fisica - ad indirizzo didattico - presso la facolta' di scienze matematiche, fisiche e naturali.  
+Dopo l'art. 141, sono aggiunti i seguenti articoli relativi alla istituzione della scuola di specializzazione in chirurgia generale.  
   
-Corso di perfezionamento in fisica (ad indirizzo didattico)  
+Scuola di specializzazione in chirurgia generale  
   
-Art. 195. - Presso la facolta' di scienze matematiche, fisiche e naturali, e' istituito un corso di perfezionamento in fisica ad indirizzo didattico, il quale conduce al conseguimento di un attestato di perfezionamento in fisica ad indirizzo didattico.  
-Art. 196. - Al corso annuale di perfezionamento in fisica ad indirizzo didattico e' titolo di ammissione qualunque laurea che, secondo le leggi vigenti, consenta l'insegnamento della fisica in qualche tipo di scuola secondaria. Della accettazione delle domande alla iscrizione al corso giudica il consiglio di facolta' su proposta del direttore del corso.  
-Art. 197. - Il corso si svolge presso l'istituto di fisica dell'Universita' di Modena ed ha la durata di un anno.  
-Il direttore del corso e' nominato di anno in anno dalla facolta' e puo' essere confermato.  
-Art. 198. - La tassa di iscrizione e le sopratasse vengono fissate uguali a quelle che si richiedono a uno studente iscritto per la laurea in fisica fuori corso d'un anno.  
-Art. 199. - Il corso comprende i seguenti insegnamenti:  
-Critica dei fondamenti della fisica generale;  
-Complementi di fisica generale;  
-Didattica della fisica;  
-Storia della fisica;  
-Aggiornamento sugli sviluppi della fisica.  
-Esso consiste di lezioni teoriche ed esercitazioni; puo' mutuare insegnamenti della facolta' di scienze matematiche, fisiche e naturali ed eventualmente anche di altre facolta' su parere del consiglio di facolta'.  
-Art. 200. - Il profitto degli allievi e' accertato dagli insegnanti durante il corso e mediante una prova finale d'esame al termine di esso.  
-Art. 201. - L'attestato di cui all'art. 195 verra' rilasciato a cura dell'Universita' di Modena.  
+Art. 142. - La scuola di specializzazione in chirurgia generale conferisce il diploma di specialista in chirurgia generale.  
+Art. 143. - La durata del corso degli studi e' di anni cinque.  
+Art. 144. - Gli insegnamenti, distinti in fondamentali e complementari, sono, per ciascun anno di corso, i seguenti:  
+Anno 1°  
+Insegnamenti fondamentali:  
+1) Anatomia topografica;  
+2) Fisiologia;  
+3) Patologia chirurgica;  
+4) Igiene ospedaliera;  
+5) Clinica chirurgica.  
+Insegnamenti complementari:  
+1) Semeiotica chirurgica;  
+2) Anestesiologia;  
+3) Ricerche di laboratorio.  
+Anno 2°  
+Insegnamenti fondamentali:  
+1) Patologia generale;  
+2) Patologia chirurgica;  
+3) Anatomia patologica;  
+4) Radiologia applicata alla chirurgia;  
+5) Clinica chirurgica.  
+Insegnamenti complementari:  
+1) Medicina operatoria.  
+Anno 3°  
+Insegnamenti fondamentali:  
+1) Anatomia patologica;  
+2) Clinica chirurgica.  
+Insegnamenti complementari:  
+1) Ortopedia-traumatologica;  
+2) Otorinolaringologia.  
+Anno 4°  
+Insegnamenti fondamentali:  
+1) Medicina legale delle lesioni chirurgiche;  
+2) Clinica chirurgica.  
+Insegnamenti complementari:  
+1) Odontoiatria.  
+Anno 5°  
+Insegnamenti fondamentali:  
+1) Clinica chirurgica.  
+Insegnamenti complementari:  
+1) Chirurgia d'urgenza.  
+Art. 145. - L'allievo per essere ammesso al corso immediatamente superiore deve avere ottenuto tutte le firme di frequenza e deve avere superato tutti gli esami fondamentali del corso.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 marzo 1969
+### Dato a Roma, addi' 5 settembre 1956
 
-SARAGAT FERRARI AGGRADI
+GRONCHI ROSSI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: MORO
 
-Registrato alla Corte dei conti, addi' 21 maggio 1969
+Registrato alla Corte dei conti, addi' 18 ottobre 1956
 
-Atti del Governo, registro n. 226, foglio n. 193. - GRECO
+Atti del Governo, registro n. 101, foglio n. 52. - CARLOMAGNO

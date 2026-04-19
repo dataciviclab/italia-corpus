@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 303
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 693
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 303
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 693
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -39,18 +39,19 @@ Articolo unico
 --------------
 
   
-Art. 69 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' inserito l'insegnamento di "medicina criminologica".  
+Nell'art. 56, relativo al corso di laurea in pedagogia, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
+sociologia dei processi culturali conoscitivi e normativi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 marzo 1984
+### Dato a Roma, addi' 15 luglio 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 26 giugno 1984
+Registrato alla Corte dei conti, addi' 7 dicembre 1983
 
-Registro n. 39 Istruzione, foglio n. 26
+Registro n. 75 Istruzione, foglio n. 280

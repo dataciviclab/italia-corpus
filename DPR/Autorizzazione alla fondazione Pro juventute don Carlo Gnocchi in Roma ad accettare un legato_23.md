@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 marzo 1985 n. 203
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1978 n. 447
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 marzo 1985 n. 203
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1978 n. 447
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-203. Decreto del Presidente della Repubblica 26 marzo 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare un legato, consistente in appezzamenti di terreno siti nel comune di Sassoferrato, distinti nel nuovo catasto terreni alla partita 2715, del valore peritato di L. 21.000.000, ritenuto congruo dall'ufficio tecnico erariale di Pesaro, disposto dalla sig.na Orciari Wanda a favore della fondazione "Don Gnocchi", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi" come si evince dal verbale del consiglio di amministrazione della fondazione medesima del 20 novembre 1982, con testamento segreto 18 novembre 1972, pubblicato in data 4 maggio 1973, n. 405 di repertorio, a rogito dott. Virginio Reffi, notaio in S. Marino, ed ivi registrato in data 8 maggio 1973 al n. 1200.  
+447. Decreto del Presidente della Repubblica 18 luglio 1978, col quale, sulla proposta del Presidente del Consiglio dei. Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Ghezzi Cornelia, con testamento olografo in data 3 ottobre 1975, pubblicato a rogito notaio dott. Ferruccio Brambilla l'11 marzo 1976 n. 25508/2813 di repertorio, registrato a Busto Arsizio il 29 marzo 1976 al n. 813, vol. 157 A.P. a favore dell'"Istituto piccoli mutilatini di don Gnocchi" che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, consistente in un appartamento sito in Milano, via Cucchiari n. 7, riportato al nuovo catasto edilizio urbano alla partita 102091, foglio 219, mappale 329 sub 34, per un valore presunto di lire 20.000.000.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 14 maggio 1985  
-Registro n. 4 Presidenza, foglio n. 291
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 8 agosto 1978  
+Registro n. 6 Presidenza, foglio n. 43

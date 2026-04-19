@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 807
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1965 n. 732
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 807
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1965 n. 732
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
@@ -12,89 +12,60 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, numero 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 273 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi all'istituzione della scuola di perfezionamento in filosofia e di preparazione all'insegnamento filosofico annessa alla facolta' di magistero.  
-  
-Scuola di perfezionamento in filosofia e di preparazione all'insegnamento filosofico  
-  
-Art. 274. - Alla scuola di perfezionamento in filosofia e di preparazione all'insegnamento filosofico possono essere iscritti i laureati nella facolta' di magistero, lettere e filosofia, giurisprudenza, scienze politiche, ed eventualmente di altre facolta', subordinatamente al parere favorevole del consiglio della scuola.  
-Possono essere ammessi, alle stesse condizioni, i cittadini stranieri forniti di titoli equipollenti alle lauree sopraindicate.  
-Art. 275. - La scuola ha due indirizzi:  
-a) preparazione all'insegnamento della filosofia nelle scuole secondarie;  
-b) specializzazione nella ricerca filosofica.  
-Art. 276. - La scuola rilascia due tipi di diploma, in relazione all'uno e all'altro degli indirizzi seguiti.  
-Gli studi per il conseguimento del diploma hanno la durata biennale.  
-Art. 277. - Le materie costitutive del piano di studi per il corso di preparazione professionale all'insegnamento filosofico sono:  
-a) problemi fondamentali e orientamenti storiografici della filosofia antica;  
-b) problemi fondamentali e orientamenti storiografici della filosofia medioevale;  
-c) problemi fondamentali e orientamenti storiografici della filosofia moderna;  
-d) problemi e correnti della filosofia contemporanea;  
-e) esercitazioni di didattica della filosofia;  
-f) psicologia dell'eta' evolutiva;  
-g) problemi e teoria dell'educazione;  
-h) sociologia dell'educazione;  
-i) filosofia e storia delle scienze;  
-l) storia delle dottrine politiche;  
-m) storia delle dottrine economiche;  
-n) propedeutica alle ricerche storiografiche;  
-o) estetica.  
-Art. 278. - Il piano di studi per il conseguimento del diploma di specializzazione nella ricerca filosofica sara' concordato entro il primo trimestre del primo anno di corso tra l'allievo e il docente della materia il cui allievo intende svolgere la dissertazione finale.  
-Tale piano dovra' comprendere la frequenza ad almeno due discipline per ogni anno di corso, scelte entro l'ambito dei seguenti insegnamenti:  
-a) problemi fondamentali e orientamenti storiografici della filosofia antica;  
-b) problemi fondamentali e orientamenti storiografici della filosofia medioevale;  
-c) problemi fondamentali e orientamenti storiografici della filosofia moderna;  
-d) problemi e correnti della filosofia contemporanea;  
-e) orientamenti contemporanei di filosofia delle scienze;  
-f) storia della filosofia del secolo XIX;  
-g) metodologia generale delle scienze morali;  
-h) metodologia generale delle scienze biologiche;  
-i) filosofia e analisi del linguaggio;  
-l) storia delle dottrine morali;  
-m) filosofia della religione;  
-n) fenomenologia della religione;  
-o) storia del cristianesimo;  
-p) ricerche di sociologia della conoscenza;  
-q) teorie della conoscenza e psicologia della percezione;  
-r) istituzioni di logica;  
-s) antropologia culturale;  
-t) estetica.  
-Art. 279. - Gli organi della scuola sono:  
-1) il direttore;  
-2) il consiglio.  
-Il direttore della scuola viene nominato dal rettore dell'universita' su proposta del consiglio della facolta' di magistero tra i professori della scuola; egli dura in carica un biennio accademico e puo' essere confermato.  
-Il direttore nomina i docenti della scuola, d'intesa col consiglio della facolta' di magistero.  
-Art. 230. - Il consiglio della scuola e' composto dal direttore, che lo presiede, dai docenti cui spettano gli insegnamenti, fondamentali e complementari, previsti dall'art. 277 e 278.  
-Spetta al consiglio della scuola: di determinare e coordinare i programmi degli insegnamenti e delle attivita' didattiche connesse, operare la selezione dei candidati, decidere su questioni disciplinari.  
-Art. 281. - Al termine del biennio gli iscritti, dopo aver superato gli esami degli insegnamenti fissati dal piano di studi ed un esame riassuntivo generale, sono ammessi all'esame di diploma.  
-L'esame di diploma di preparazione professionale all'insegnamento della filosofia consiste in una prova scritta di cultura filosofica, in una lezione di storia della filosofia, secondo gli attuali programmi della scuola secondaria, e in un colloquio sui programmi svolti in almeno cinque corsi previsti dall'ordinamento della scuola.  
-L'esame di diploma di specializzazione nella ricerca filosofica consiste nella presentazione di un lavoro scritto avente carattere di originalita', seguito dalla discussione orale intorno a detto lavoro.  
-Art. 282. - Le commissioni per gli esami di profitto sono composte dal professore della materia, in qualita' di presidente, e da due altri insegnanti della scuola.  
-La commissione per l'esame di diploma e' composta dal direttore, che la presiede, e da altri sei professori della scuola.  
-Ciascun commissario dispone di dieci punti.  
-Art. 283. - Gli iscritti alla scuola sono tenuti al versamento annuo delle tasse di iscrizione secondo quanto prevede il regolamento dell'Universita' degli studi di Roma per i corsi di laurea (da pagare in due rate uguali, la prima all'atto di iscrizione e la seconda entro il 31 marzo) nonche' al pagamento della tassa di diploma di cui all'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
+L'art. 38, relativo agli Istituti annessi alla Facolta' di Economia e commercio, e' modificato nel senso che gli Istituti di "Ragioneria e di storia della ragioneria" e di "Tecnica amministrativa delle imprese di pubblici servizi" cambiano rispettivamente denominazione in quelli di "Ragioneria e di ricerche economico-aziendali" e di "Economia delle imprese di pubblica utilita'".  
+L'art. 45, relativo agli Istituti annessi alla Facolta' di Scienze statistiche, demografiche ed attuariali e' aggiunto quello di "Istituto di economia".  
+Art. 56. - Agli insegnamenti complementari del corso di laurea in Lettere e' aggiunto quello di:  
+102) "Antichita' puniche".  
+All'art. 60, relativo ai piani di studio presentati dagli studenti per l'approvazione da parte del preside della Facolta' di Lettere e filosofia, e' aggiunto il seguente comma: "Sono valevoli come esame biennale anche due esami annuali che, su diverso programma di corso di un medesimo insegnamento, lo studente abbia sostenuto in due distinte sessioni".  
+Art. 66. - Agli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:  
+29) Etnologia;  
+30) Psicologia sociale;  
+31) Filosofia della scienza;  
+32) Letteratura cristiana antica.  
+Art. 67. - Agli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti i seguenti:  
+29) Etnologia;  
+30) Psicologia sociale;  
+31) Filosofia della scienza;  
+32) Letteratura cristiana antica.  
+Art. 68. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere sono aggiunti i seguenti:  
+27) Etnologia;  
+28) Psicologia sociale;  
+29) Filosofia della scienza;  
+30) Letteratura cristiana antica.  
+Art. 80. - All'elenco, degli Istituti annessi alla Facolta' di Medicina e chirurgia e' aggiunto quello di:  
+38) "Istituto di Biologia e zoologia generale".  
+All'art. 304, relativo alla Scuola di perfezionamento in Filosofia, sono aggiunti tra le materie costitutive della Scuola gli insegnamenti di:  
+21) Logica;  
+22) Linguistica applicata;  
+23) Antropologia culturale;  
+24) Psicologia sociale;  
+25) Psicologia dell'eta' evolutiva;  
+26) Psicometria e docimologia;  
+27) Storia della scienza.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 giugno 19%6
+### Dato a Roma, addi' 21 maggio 1965
 
 SARAGAT GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 17 luglio 1963
+Registrato alla Corte dei conti, addi' 30 giugno 1965
 
-Atti del Governo, registro n. 221, foglio n. 43. - GRECO
+Atti del Governo, registro n. 194, foglio n. 34. - VILLA

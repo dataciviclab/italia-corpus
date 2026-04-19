@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1963 n. 1755
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1964 n. 79
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1963 n. 1755
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1964 n. 79
+=============================================================
 
 Autorizzazione alla "Fondazione Pro Juventute Don Carlo Gnocchi" ad accettare un legato.
 ----------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1755. Decreto del Presidente della Repubblica 24 ottobre 1963, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare un legato di lire 300.000 (trecentomila) disposto dalla defunta signora Matilde Carpani, vedova Bussi, con testamento olografo del 25 maggio 1959, depositato e pubblicato il 15 giugno 1961, numero di raccolta 2375, numero di repertorio 7002, a rogito notaio dott. Cesare Pettenazzi, residente in Soresina (Cremona).  
+79. Decreto del Presidente della Repubblica 3 gennaio 1964, col quale, sulla proposta Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi", viene autorizzata ad accettare, un legato di L. 500.000 cinquecentomila, disposto dalla defunta signora Emilia Carminiati, vedova Sacco, con testamento olografo del 10 marzo 1961, pubblicato per atto n. 21885, repertorio numero 49815, in data 2 ottobre 1961, a rogito dottor Ugo Marrocchi, notaio in Roma, a favore dei "Mutilatini di Don Gnocchi" che si identificano nella Fondazione sopra indicata.  
   
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 28 novembre 1963  
-Atti del Governo, registro n. 177, foglio n. 55. - VILLA
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 4 marzo 1964  
+Atti del Governo, registro n. 181, foglio n. 156. - VILLA

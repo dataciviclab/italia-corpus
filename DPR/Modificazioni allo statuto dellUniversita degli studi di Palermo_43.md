@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1968 n. 328
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1969 n. 781
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1968 n. 328
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1969 n. 781
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -30,35 +30,74 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-La scuola di perfezionamento in filologia moderna, annessa alla facolta' di lettere e filosofia e' soppressa e gli articoli da 114 a 118 relativi all'ordinamento della predetta scuola sono abrogati e sostituiti dai seguenti concernenti l'istituzione del "Corso di perfezionamento della durata annuale delle singole materie oggetto d'insegnamento".
+Art. 122. - All'elenco delle scuole di specializzazione che conferiscono il diploma di specialista nelle discipline professionali medico-chirurgiche, e' aggiunta la scuola di specializzazione in odontoiatria e protesi dentaria.
 
-Corso di perfezionamento in singole materie
+Dopo l'articolo 156 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in odontoiatria e protesi dentaria.
 
-Art. 114. - Presso la facolta' di lettere della Universita' di Palermo e' istituito un corso di perfezionamento di materie singole. ((La durata del corso e' annuale.
+Scuola di specializzazione in odontoiatria e protesi dentaria
 
-Art. 115. - Possono iscriversi)) al corso i laureati in lettere o in filosofia, a seconda che la materia prescelta per il perfezionamento sia letteraria o filosofica. Oltre che alla materia prescelta i candidati dovranno iscriversi, per la frequenza e per l'esame, a due materie di loro scelta, affini alla materia prescelta per la specializzazione.
+Art. 157. - Durata: tre anni. Numero massimo di iscritti: dieci per ogni anno di corso per un totale di 30 specializzandi.
 
-Art. 116. - L'attestato di frequenza e di esame verra' rilascialo dopo che il candidato abbia discusso una dissertazione attinente alla materia di specializzazione, dinanzi ad una commissione di sette membri, dei quali almeno quattro professori di ruolo. A tale prova saranno ammessi i candidati che abbiano in precedenza superato gli esami di cui all'art. 115.
+1° Anno:
 
-Art. 117. - Le tasse di immatricolazione e di iscrizione e i vari contributi saranno ridotti alla meta' di quanto previsto per la frequenza al corso di laurea.
+Embriologia ed anatomia dentaria e maxillo-facciale Microbiologia e igiene orale;
 
-Saranno dispensati per intero dalle tasse e dai contributi i candidati che abbiano conseguito la laurea con punti 110 su centodieci e lode, e che siano assegnatari di borse di studio o di perfezionamento.
+Farmacologia;
 
-Art. 118. - Nell'attestato verra' indicata la materia prescelta per il perfezionamento e le votazioni conseguite nei singoli esami e nella prova finale.
+Patologia odontostomatologica;
 
-Per quanto non previsto negli articoli precedenti, si applicheranno le disposizioni generali vigenti.
+Odontotecnica;
+
+Anestesia e chirurgia stomatologica;
+
+Odontoiatria conservativa (biennale).
+
+2° Anno:
+
+Odontoiatria conservativa (biennale);
+
+Clinica protesica dentaria e maxillo-facciale (biennale);
+
+Parodontologia (biennale);
+
+Anatomia e istopatologia odontostomatologica;
+
+Odontoiatria infantile;
+
+Radiologia odontostomatologica;
+
+Ortopedia dento-maxillo-facciale (biennale);
+
+Chirurgia maxillo-facciale (biennale).
+
+3° Anno:
+
+Clinica odontostomatologica;
+
+Chirurgia maxillo-facciale (biennale);
+
+Medicina legale odontostomatologica e delle assicurazioni;
+
+Ortopedia dento-maxillo-facciale (biennale);
+
+Parodontologia (biennale);
+
+Clinica protesica dentaria e maxillo-facciale (biennale).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 12 febbraio 1968
+Dato a Roma, addi' 8 ottobre 1969
 
 SARAGAT
 
-GUI
+FERRARI AGGRADI
 
-Vis to, il Guardasigilli: REALE
+Visto, il Guardasigilli: GAVA
 
-R egistrato alla Corte dei conti, addi' 29 marzo 1968 A tti del Governo, registro n. 218, foglio n. 83. - GRECO
+Registrato
+----------
+
+alla Corte dei conti, addi' 6 novembre 1969 Atti del Governo, registro n. 230, foglio n. 11. - CARUSO
 
 Art. 1
 ------
@@ -66,7 +105,7 @@ Art. 1
  IL PRESIDENTE DELLA REPUBBLICA  
   
 Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
@@ -77,33 +116,46 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 122. - All'elenco delle scuole di specializzazione che conferiscono il diploma di specialista nelle discipline professionali medico-chirurgiche, e' aggiunta la scuola di specializzazione in odontoiatria e protesi dentaria.  
+Dopo l'articolo 156 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in odontoiatria e protesi dentaria.  
   
-La scuola di perfezionamento in filologia moderna, annessa alla facolta' di lettere e filosofia e' soppressa e gli articoli da 114 a 118 relativi all'ordinamento della predetta scuola sono abrogati e sostituiti dai seguenti concernenti l'istituzione del "Corso di perfezionamento della durata annuale delle singole materie oggetto d'insegnamento".  
+Scuola di specializzazione in odontoiatria e protesi dentaria  
   
-Corso di perfezionamento in singole materie  
-  
-Art. 114. - Presso la facolta' di lettere della Universita' di Palermo e' istituito un corso di perfezionamento di materie singole.
-
-((La durata del corso e' annuale.  
-Art. 115. - Possono iscriversi))
-
-al corso i laureati in lettere o in filosofia, a seconda che la materia prescelta per il perfezionamento sia letteraria o filosofica. Oltre che alla materia prescelta i candidati dovranno iscriversi, per la frequenza e per l'esame, a due materie di loro scelta, affini alla materia prescelta per la specializzazione.  
-Art. 116. - L'attestato di frequenza e di esame verra' rilascialo dopo che il candidato abbia discusso una dissertazione attinente alla materia di specializzazione, dinanzi ad una commissione di sette membri, dei quali almeno quattro professori di ruolo. A tale prova saranno ammessi i candidati che abbiano in precedenza superato gli esami di cui all'art. 115.  
-Art. 117. - Le tasse di immatricolazione e di iscrizione e i vari contributi saranno ridotti alla meta' di quanto previsto per la frequenza al corso di laurea.  
-Saranno dispensati per intero dalle tasse e dai contributi i candidati che abbiano conseguito la laurea con punti 110 su centodieci e lode, e che siano assegnatari di borse di studio o di perfezionamento.  
-Art. 118. - Nell'attestato verra' indicata la materia prescelta per il perfezionamento e le votazioni conseguite nei singoli esami e nella prova finale.  
-Per quanto non previsto negli articoli precedenti, si applicheranno le disposizioni generali vigenti.  
+Art. 157. - Durata: tre anni. Numero massimo di iscritti: dieci per ogni anno di corso per un totale di 30 specializzandi.  
+1° Anno:  
+Embriologia ed anatomia dentaria e maxillo-facciale Microbiologia e igiene orale;  
+Farmacologia;  
+Patologia odontostomatologica;  
+Odontotecnica;  
+Anestesia e chirurgia stomatologica;  
+Odontoiatria conservativa (biennale).  
+2° Anno:  
+Odontoiatria conservativa (biennale);  
+Clinica protesica dentaria e maxillo-facciale (biennale);  
+Parodontologia (biennale);  
+Anatomia e istopatologia odontostomatologica;  
+Odontoiatria infantile;  
+Radiologia odontostomatologica;  
+Ortopedia dento-maxillo-facciale (biennale);  
+Chirurgia maxillo-facciale (biennale).  
+3° Anno:  
+Clinica odontostomatologica;  
+Chirurgia maxillo-facciale (biennale);  
+Medicina legale odontostomatologica e delle assicurazioni;  
+Ortopedia dento-maxillo-facciale (biennale);  
+Parodontologia (biennale);  
+Clinica protesica dentaria e maxillo-facciale (biennale).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 febbraio 1968
+### Dato a Roma, addi' 8 ottobre 1969
 
-SARAGAT GUI Vis
+SARAGAT FERRARI AGGRADI
 
-to, il Guardasigilli: REALE R
+Visto, il Guardasigilli: GAVA
 
-egistrato alla Corte dei conti, addi' 29 marzo 1968 A
+Registrato alla Corte dei conti, addi' 6 novembre 1969
 
-tti del Governo, registro n. 218, foglio n. 83. - GRECO
+Atti del Governo, registro n. 230, foglio n. 11. - CARUSO

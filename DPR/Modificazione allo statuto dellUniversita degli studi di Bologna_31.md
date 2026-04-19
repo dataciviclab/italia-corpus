@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1984 n. 560
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 625
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1984 n. 560
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 625
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bologna.
@@ -39,19 +39,22 @@ Articolo unico
 --------------
 
   
-Nell'art. 51, relativo al corso di laurea in scienze politiche, per l'indirizzo storico-politico all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-storia e sistemi dei rapporti tra Stato e Chiesa.  
+Nell'art. 147, relativo al corso di laurea in ingegneria, all'elenco degli insegnamenti complementari del biennio del corso di laurea in ingegneria elettrotecnica e' aggiunto il seguente nuovo insegnamento:  
+programmazione dei calcolatori elettronici.  
+Nell'art. 148 del medesimo corso di laurea all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+dinamica e controllo dei processi chimici;  
+costruzioni metalliche.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 giugno 1984
+### Dato a Roma, addi' 21 maggio 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 24 agosto 1984
+Registrato alla Corte dei conti, addi' 15 ottobre 1983
 
-Registro n. 51 Istruzione, foglio n. 61
+Registro n. 66 Istruzione, foglio n. 131

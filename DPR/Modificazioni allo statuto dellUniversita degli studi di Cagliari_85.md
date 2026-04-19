@@ -1,160 +1,55 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1982 n. 1193
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 941
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1982 n. 1193
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 941
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Cagliari e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Art. 74 - gli insegnamenti del biennio propedeutico e del triennio di applicazione del corso di laurea in ingegneria meccanica, sono soppressi e sostituiti dai seguenti:  
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-BIENNIO PROPEDEUTICO  
+Decreta:   
   
-1° Anno:  
-1) analisi matematica I;  
-2) chimica;  
-3) disegno I;  
-4) fisica I;  
-5) geometria.  
-2° Anno:  
-6) analisi matematica II;  
-7) fisica II;  
-8) meccanica razionale;  
-9) disegno II;  
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-TRIENNIO  
+Art. 56. - I commi sesto e settimo, relativi alle propedeuticita' degli esami nel corso di laurea in medicina e chirurgia sono abrogati e sostituiti dai seguenti:   
   
-10) chimica applicata;  
-11) disegno di macchine;  
-12) elettrotecnica;  
-13) fisica tecnica;  
-14) meccanica applicata alle macchine;  
-15) scienza delle costruzioni;  
-16) tecnologie meccaniche;  
-17) calcolo numerico;  
-18) costruzioni di macchine;  
-19) idraulica (meccanica dei fluidi);  
-20) macchine;  
-21) controlli automatici;  
-22) tecnica delle costruzioni;  
-23) impianti meccanici;  
-24) misure meccaniche, termiche e collaudi;  
-25) economia ed organizzazione aziendale;  
-26) progetti di macchine;  
-27-30) un gruppo di materie a scelta fra quelle elencate nell'art. 78.  
-
-Art. 2
-------
-
-  
-Art. 75 - Gli insegnamenti del biennio propedeutico e del triennio di applicazione del corso di laurea in ingegneria elettrotecnica sono soppressi e sostituiti dai seguenti:  
-  
-BIENNIO PROPEDEUTICO  
-  
-1° Anno:  
-1) analisi matematica I;  
-2) chimica;  
-3) disegno I;  
-4) fisica I;  
-5) geometria;  
-2° Anno:  
-6) analisi matematica II;  
-7) meccanica razionale;  
-8) fisica II;  
-9) metodi di osservazione e misure;  
-10) calcolo numerico;  
-  
-TRIENNIO  
-  
-11) scienza delle costruzioni;  
-12) meccanica applicata alle macchine;  
-13) fisica tecnica;  
-14) elettrotecnica;  
-15) idraulica;  
-16) misure elettriche;  
-17) macchine;  
-18) macchine elettriche;  
-19) impianti elettrici;  
-20) elettronica applicata;  
-21) economia ed organizzazione aziendale;  
-22) analisi dei sistemi;  
-23) complementi di elettrotecnica;  
-24) controlli automatici;  
-25) telecomunicazioni;  
-26-30) un gruppo di materie a scelta fra quelle elencate nell'art. 78.  
-
-Art. 3
-------
-
-  
-  
-Art. 78 - nell'elenco degli insegnamenti complementari sono inclusi i seguenti:   
-valorizzazione mineralurgica dei rifiuti urbani ed industriali; trattamento e valorizzazione dei combustibili fossili;   
-coltivazione e gestione delle cave;   
-sicurezza e salubrita' delle miniere e delle cave;   
-disegno e rilievo;   
-percezione e tecniche di rappresentazione;   
-tecniche della comunicazione;   
-teoria della plasticita';   
-instabilita' delle strutture;   
-pianificazione e programmazione dei trasporti;   
-trasporti speciali;   
-elementi tecnici dell'urbanistica;   
-affidabilita' strutturale degli elementi meccanici;   
-oliodinamica e pneumatica;   
-servizi di stabilimento;   
-sperimentazione sulle macchine a fluido;   
-teoria e tecnica della combustione;   
-complementi di matematica.   
-Nello stesso elenco, inoltre, cambiano denominazione i seguenti insegnamenti complementari:   
-da "complementi di mineralogia e petrografia" in complementi di giacimentologia e petrografia";   
-da "macchine II" in "complementi di macchine "; da "programmazione degli impianti meccanici e manutenzione programmati" in "gestione degli impianti meccanici";   
-da "termofluidodinamica delle macchine" in "fluidodinamica delle macchine".   
-Nello stesso elenco, infine, viene soppresso l'insegnamento complementare di "generatori di vapori e tecnica della combustione" e sostituito dal seguente: "generatori di vapore".   
+Gli esami di "chimica" e di "fisica" debbono essere superati prima di sostenere quello di "chimica biologica" Gli esami di "anatomia umana normale" e di "chimica biologica" debbono essere superati prima di sostenere quello di "fisiologia umana".   
+L'esame di "fisiologia umana" deve essere superato prima di sostenere quello di "patologia generale".   
+Gli esami di "fisiologia umana" e di "patologia generale" debbono essere superati prima di sostenere quelli di "patologia speciale medica e metodologia clinica" e di "patologia speciale chirurgica e propedeutica clinica".   
+Gli esami di "fisiologia umana", di "patologia speciale medica e metodologia clinica" e di "patologia speciale chirurgica e propedeutica clinica" debbono essere superati prima di sostenere quello di "farmacologia".   
+L'esame di "patologia generale" deve essere superato prima di sostenere quelli di "patologia speciale chirurgica e propedeutica clinica".   
+L'esame di "patologia generale deve essere superato prima di sostenere quello di "anatomia e istologia patologica".   
+Gli esami di "anatomia patologica" e di "farmacologia" debbono essere superati prima di sostenere quelli di "medicina legale" e di "anestesiologia".   
+Gli esami di "patologia speciale medica e metodologia clinica", di "patologia speciale chirurgica e propedeutica clinica" e di "anatomia patologica" debbono essere superati prima di quelli di "clinica medica generale e terapia medica", di "clinica chirurgica generale e terapia chirurgica", di "clinica pediatrica", di "clinica delle malattie nervose e mentali", di "clinica ostetrica e ginecologica" e di "clinica ortopedica".   
+Gli esami di "patologia speciale medica e metodologia clinica" e di "patologia speciale chirurgica e propedeutica clinica" debbono essere superati prima di sostenere quelli di "anestesiologia e rianimazione", "medicina nucleare", "ortognatodonzia", "chirurgia maxillo-facciale", "medicina del lavoro", "medicina preventiva dei lavoratori e psicotecnica", "medicina sociale", "clinica delle malattie infettive e tropicali", "malattie dell'apparato digerente e del ricambio", "malattie dell'apparato cardiovascolare", "tisiologia", "endocrinologia", "gerontologia e geriatria", "farmacologia clinica", "terapia medica sistematica", "urologia", "chirurgia toracica", "neurochirurgia", "clinica chirurgica pediatrica", "neuropsichiatria infantile", "psichiatria" e "clinica delle malattie infettive".   
+L'esame di "patologia ostetrica e ginecologica" deve essere superato, dagli studenti che hanno scelto tale insegnamento complementare, prima di quello di "clinica ostetrica e ginecologica".   
+Gli articoli 115 e 116 concernenti le norme sulle abbreviazioni di corso per le scuole di specializzazione in medicina e chirurgia sono soppressi.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo, a chiunque spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1982
+### Dato a Roma, addi' 31 ottobre 1972
 
-PERTINI BODRATO
+LEONE SCALFARO
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 6 giugno 1983
+Registrato alla Corte dei conti, addi' 17 gennaio 1973
 
-Registro n. 41 Istruzione, foglio n. 131
+Atti di Governo, registro n. 255, foglio n. 41. VALENTINI

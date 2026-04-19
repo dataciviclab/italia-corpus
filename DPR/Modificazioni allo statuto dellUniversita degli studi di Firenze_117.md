@@ -1,70 +1,82 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1963 n. 2197
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 febbraio 1981 n. 266
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1963 n. 2197
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 febbraio 1981 n. 266
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, numero 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+All'art. 30, relativo al corso di laurea in economia e commercio, sono aggiunti i seguenti insegnamenti complementari:  
+contabilita' industriale;  
+diritto agrario;  
+diritto e legislazione bancaria;  
+diritto sindacale;  
+economia e politica industriale;  
+matematica per le scienze economiche e sociali;  
+statistica metodologica;  
+storia economica medioevale;  
+tecnica professionale;  
+tecnologia dei cicli produttivi.  
+Nello stesso articolo sono soppressi i seguenti insegnamenti complementari:  
+analisi di mercato;  
+diritto e procedura civile;  
+diritto internazionale pubblico e privato;  
+diritto delle assicurazioni private e sociali;  
+sociologia;  
+storia della ragioneria;  
+storia delle teorie monetarie;  
+tecnica amministrativa delle imprese pubbliche;  
+economia dei trasporti;  
+economia e finanza delle imprese di assicurazione.  
+
+Art. 2
+------
+
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Firenze approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 76. - All'elenco degli insegnamenti complementari per il corso di laurea in Chimica sono aggiunti seguenti:  
-Per l'indirizzo organico biologico:  
-Chimica colloidale e delle interfasi;  
-Cinetica chimica;  
-Chimica macromolecolare;  
-Spettroscopia molecolare;  
-Chimica delle sostanze organiche naturali.  
-Per l'indirizzo inorganico - chimico - fisico:  
-Esercitazioni di tecniche e sintesi speciali inorganiche;  
-Chimica colloidale e delle interfasi;  
-Cinetica chimica;  
-Chimica macromolecolare.  
-Art. 85. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti i seguenti:  
-Ecologia vegetale;  
-Fitogeografia;  
-Entomologia;  
-Paleontologia dei vertebrati;  
-Paleontologia vegetale.  
-Art. 86, relativo alle propedeuticita' del corso di laurea in Scienze naturali e' abrogato e sostituito dal seguente "Lo studente non puo' presentarsi agli esami di Mineralogia e di Chimica organica se non ha superato l'esame di Chimica generale ed inorganica; all'esame di Geologia se non ha superato l'esame di Mineralogia; all'esame di Anatomia comparata se non ha superato l'esame di Anatomia umana; all'esame di Chimica biologica se non ha superato l'esame di Chimica organica".  
-Art. 87. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti i seguenti:  
-Ecologia vegetale;  
-Fitogeografia;  
-Entomologia;  
-Radiobiologia;  
-Fisiologia comparata.  
-Art. 88, relativo alle propedeuticita' del corso di laurea in Scienze biologiche e' abrogato e sostituito dal seguente:  
-"Lo studente non puo' presentarsi all'esame di Anatomia comparata se non ha superato l'esame di Anatomia umana; all'esame di Chimica organica se non ha superato l'esame di Chimica generale inorganica; all'esame di Paleontologia se non ha superato gli esami di Botanica e zoologia; all'esame di Statistica se non ha superato l'esame di istituzioni matematiche; all'esame di Chimica biologica se non ha superato lo esame di Chimica organica.  
-Al termine della prima meta' di ciascun corso annuale di Botanica e di zoologia e del corso di Anatomia comparata, lo studente dovra' superare una prova pratica scritta".  
+All'art. 32 l'istituto di matematica attuariale cambia denominazione in "istituto di matematica applicata alle scienze economiche e sociali".  
+Nello stesso articolo e' inserito il "centro di calcolo elettronico".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Sassari, addi' 31 dicembre 1963
+### Dato a Roma, addi' 3 febbraio 1981
 
-SEGNI GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 21 febbraio 1964
+Registrato alla Corte dei conti, addi' 25 maggio 1981
 
-Atti del Governo, registro n. 181, foglio n. 105. - VILLA
+Registro n. 48 Istruzione, foglio n. 296

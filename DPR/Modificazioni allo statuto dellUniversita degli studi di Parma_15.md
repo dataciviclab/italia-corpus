@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1967 n. 515
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 agosto 1959 n. 780
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1967 n. 515
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 agosto 1959 n. 780
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
@@ -10,13 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772) e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772) e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -30,130 +32,105 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 102, e con il conseguente spostamento della successiva numerazione, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Diritto ed economia delle organizzazioni internazionali annessa alla Facolta' di giurisprudenza.
+Art. 27. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di "psichiatria".
 
-Scuola di specializzazione in Diritto ed economia delle organizzazioni internazionali
+Art. 32. - Agli insegnamenti complementari del corso di laurea in scienze matematiche sono aggiunti quelli di: "matematiche elementari dal punto di vista superiore", "teoria, dei numeri", "calcoli numerici e grafici", "geometria algebrica", "meccanica superiore", "topologia", "algebrica superiore", "teoria generale delle vibrazioni", "meccanica celeste".
 
-Art. 103. - E' istituita, presso la Facolta' di giurisprudenza, la Scuola di specializzazione in diritto ed economia delle organizzazioni internazionali. Essa ha lo scopo di condurre gli allievi ad una approfondita conoscenza della materia e ad una completa capacita' tecnica nel campo delle attivita' giuridiche ed economiche internazionali.
+Art. 39. - Agli insegnamenti complementari del corso di laurea in fisica sono aggiunti quelli di: "fisica atomica", "fisica particelle elementari", "elettronica", "fisica dei solidi".
 
-Art. 104. - La Scuola ha la durata di due anni.
+Art. 46. - Agli insegnamenti complementari del corso di laurea in matematica e fisica sono aggiunti quelli di: "matematiche elementari dal punto di vista superiore", "teoria dei numeri", "calcoli numerici e grafici", "geometria algebrica", "meccanica superiore", "topologia", "algebra superiore", "teoria generale delle vibrazioni", "fisica atomica", "fisica delle particelle elementari", "fisica dei solidi", "elettronica".
 
-Art. 105. - Le materie di insegnamento, che comprendono corsi teorici e seminari, sono le seguenti:
+Art. 57. - Agli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti quelli di: "biologia marina", "oceanografia".
 
-1° Anno:
+Art. 65. - Agli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti quelli di: "embriologia e morfologia sperimentale", "idrobiologia e pescicoltura", "paleontologia umana e paletnologia", "fitogeografia ed ecologia vegetale".
 
-Corsi:
+Art. 69. Agli insegnamenti complementari del corso di laurea in scienze geologiche, e' aggiunto quello di "geologia stratigrafica".
 
-1) Storia dell'organizzazione internazionale;
+Art. 71. - E' aggiunto il seguente comma:
 
-2) Diritto delle organizzazioni internazionali;
+Sono obbligatori due anni di internato in geologia, al III e IV anno".
 
-3) L'O.N.U. e le organizzazioni internazionali specializzate;
+Art. 73, relativo all'esame di laurea, l'ultimo comma e' abrogato e sostituito dal seguente:
 
-4) Economia internazionale e sviluppo economico;
+"Fa parte, inoltre, dell'esame di laurea un colloquio di cultura generale nelle scienze geologiche (geologia, paleontologia, geografia, mineralogia, petrografia) da sostenere dinanzi ad una Commissione di cinque professori ufficiali della Facolta', fra cui il preside".
 
-5) Teoria del commercio internazionale e tecnica degli scambi;
+Art. 75. - Agli insegnamenti complementari del corso di laurea in farmacia e' aggiunto quello di "chimica farmaceutica applicata".
 
-6) Problemi di politica monetaria e di tecnica bancaria internazionale.
+Art. 82. - All'elenco delle Scuole di specializzazione annesse alla Facolta' di medicina e chirurgia e' aggiunta quella di igiene.
 
-Seminari:
+Dopo l'art. 135, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola, di specializzazione in igiene, con il conseguente spostamento della numerazione degli articoli successivi.
 
-1) Terminologia economico-giuridica delle organizzazioni internazionali;
+Scuola di specializzazione in igiene.
 
-2) Lineamenti di storia civile ed economica d'Europa; - 3) Problemi dello sviluppo regionale;
+Art. 136. - E' istituita la Scuola di specializzazione in igiene, che ha sede presso l'Istituto di igiene della Facolta' di medicina e chirurgia.
 
-4) La cooperazione economica dell'Europa orientale;
+Art. 137. - Sono ammessi i laureati in medicina e chirurgia.
 
-5) Le organizzazioni latino-americane di cooperazione economica;
+Art. 138. - L'iscrizione alla Scuola e' limitata, per ogni anno accademico, a dieci allievi.
 
-6) L'assistenza tecnica ai Paesi in via di sviluppo;
+Art. 139. - La Scuola ha la durata di due anni.
 
-7) Le organizzazioni africane di cooperazione economica.
+Art. 140. - Le materie di insegnamento sono:
 
-2° Anno:
+1° anno:
 
-Corsi:
+1) igiene generale e speciale (I);
 
-1) Sistema e funzionamento delle organizzazioni europee di integrazione economica;
+2) batteriologia, immunologia, e microbiologia applicata all'igiene;
 
-2) Politica economica europea (commerciale, monetaria e finanziaria);
+3) parassitologia;
 
-3) Economia e politica industriale europea;
+4) legislazione sanitaria, statistica e demografia;
 
-4) La disciplina della concorrenza nel Mercato Comune Europeo;
+5) zoonosi, ispezione delle carni:
 
-5) L'integrazione europea nel campo agricolo;
+6) nozioni di anatomia e istologia patologica.
 
-6) L'integrazione europea nel campo sociale e del lavoro.
+2° anno:
 
-Seminari:
+1) igiene generale e speciale (II);
 
-1) Lineamenti di diritto costituzionale degli Stati membri delle Comunita' europee;
+2) patologia e clinica delle malattie da infezione, da intossicazione, da carenze, ecc.;
 
-2) Elementi di diritto privato comparato europeo;
+3) ingegneria sanitaria;
 
-3) La tutela dei diritti dell'uomo nell'ambito del Consiglio d'Europa;
+4) chimica applicata all'igiene;
 
-4) Problemi di diritto tributario europeo;
+5) fisica applicata all'igiene;
 
-5) Politica ed economia dei trasporti europei;
+6) geologia applicata all'igiene.
 
-6) Politica e diritto dell'energia in Europa.
+Art. 141. - Gli allievi dovranno seguire turni di interinato, secondo gli orari stabiliti dalla Scuola, presso l'Istituto di igiene e presso l'Ufficio comunale di igiene.
 
-Per ciascun anno gli allievi sono tenuti a seguire tutti i corsi previsti ed almeno tre seminari a scelta.
+Art. 142. - Al termine di ciascun anno, gli allievi che abbiano regolarmente frequentato i corsi, dovranno superare un esame di profitto.
 
-Art. 106. - Gli insegnamenti vengono conferiti per incarico dal rettore dell'Universita', sentito il direttore della Scuola.
-
-Art. 107. - Il Consiglio della Scuola e' costituito dai professori che vi tengono i corsi di insegnamento prescritti ed e' presieduto dal direttore.
-
-Art. 108. - Il direttore della Scuola e' nominato dal rettore, su proposta della Facolta' di giurisprudenza, fra i professori di ruolo dell'Universita'.
-
-Art. 109. - Alla Scuola sono ammessi coloro che hanno conseguito la laurea in Giurisprudenza, in Economia e commercio o in Scienze politiche. Sono ammessi altresi' gli studenti stranieri in possesso di titolo equipollente.
-
-Art. 110. - Il numero massimo degli allievi che possono essere annualmente accolti nella Scuola e' fissato anno per anno dal Consiglio della Scuola, in rapporto alle possibilita' didattiche dei vari istituti presso i quali gli allievi debbono seguire i seminari.
-
-Del pari puo' essere stabilito un numero minimo di iscrizioni e qualora questo numero non venga raggiunto il direttore ha la facolta' di non iniziare i corsi. Ma se questi verranno iniziati, dovranno essere portati a termine qualunque sia il numero degli iscritti.
-
-Art. 111. - La domanda di ammissione alla Scuola e' diretta al rettore dell'Universita' e deve essere corredata di un certificato di laurea con l'indicazione dei voti conseguiti in tutti gli esami speciali ed in quello di laurea.
-
-Art. 112. - Gli iscritti alla Scuola sono tenuti a pagare le tasse, soprattasse e contributi, secondo quanto stabilito per gli studenti della Facolta' di giurisprudenza, nonche' la tassa di diploma nella misura di L. 6000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).
-
-Sono tenuti, altresi', a pagare un contributo speciale nella misura che sara' determinata dal Consiglio di amministrazione, previo parere della Facolta', su proposta del direttore della Scuola.
-
-Art. 113. - Per essere ammessi all'esame di diploma gli allievi devono avere superato tutti gli esami di profitto sulle materie della Scuola. Dovranno inoltre avere pagato tutte le tasse, soprattasse e contributi.
-
-Art. 114. - Le Commissioni per gli esami speciali sono composte di tre membri e quelle di diploma di cinque membri scelti fra gli insegnanti della Scuola e nominati dal direttore.
-
-Art. 115. - L'esame di diploma consiste nella discussione di una dissertazione originale scritta su un argomento scelto dal candidato ed approvato dal Consiglio della Scuola.
-
-Art. 116. - A coloro che hanno superato l'esame di diploma viene rilasciato un diploma di specializzazione in diritto ed economia delle organizzazioni internazionali.
-
-Art. 117. - Indipendentemente dall'esame di diploma puo' essere rilasciato un attestato di frequenza a quanti avranno effettivamente partecipato alle lezioni e ai seminari della Scuola.
+Art. 143. - Alla fine dei due anni, gli allievi dovranno presentare una tesi scritta e sostenere un esame di diploma.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 24 maggio 1967
+Dato a Napoli, addi' 20 agosto 1959
 
-SARAGAT
+GRONCHI
 
-GUI
+MEDICI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 3 luglio 1967 Atti del Governo, registro n. 212, foglio n. 7. - GRECO
+alla Corte dei conti, addi' 28 settembre 1959 Atti del Governo, registro n. 120, foglio n. 162. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -163,69 +140,75 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 102, e con il conseguente spostamento della successiva numerazione, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Diritto ed economia delle organizzazioni internazionali annessa alla Facolta' di giurisprudenza.  
+Art. 27. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di "psichiatria".  
   
-Scuola di specializzazione in Diritto ed economia delle organizzazioni internazionali  
+Art. 32. - Agli insegnamenti complementari del corso di laurea in scienze matematiche sono aggiunti quelli di: "matematiche elementari dal punto di vista superiore", "teoria, dei numeri", "calcoli numerici e grafici", "geometria algebrica", "meccanica superiore", "topologia", "algebrica superiore", "teoria generale delle vibrazioni", "meccanica celeste".  
   
-Art. 103. - E' istituita, presso la Facolta' di giurisprudenza, la Scuola di specializzazione in diritto ed economia delle organizzazioni internazionali. Essa ha lo scopo di condurre gli allievi ad una approfondita conoscenza della materia e ad una completa capacita' tecnica nel campo delle attivita' giuridiche ed economiche internazionali.  
-Art. 104. - La Scuola ha la durata di due anni.  
-Art. 105. - Le materie di insegnamento, che comprendono corsi teorici e seminari, sono le seguenti:  
-1° Anno:  
-Corsi:  
-1) Storia dell'organizzazione internazionale;  
-2) Diritto delle organizzazioni internazionali;  
-3) L'O.N.U. e le organizzazioni internazionali specializzate;  
-4) Economia internazionale e sviluppo economico;  
-5) Teoria del commercio internazionale e tecnica degli scambi;  
-6) Problemi di politica monetaria e di tecnica bancaria internazionale.  
-Seminari:  
-1) Terminologia economico-giuridica delle organizzazioni internazionali;  
-2) Lineamenti di storia civile ed economica d'Europa; - 3) Problemi dello sviluppo regionale;  
-4) La cooperazione economica dell'Europa orientale;  
-5) Le organizzazioni latino-americane di cooperazione economica;  
-6) L'assistenza tecnica ai Paesi in via di sviluppo;  
-7) Le organizzazioni africane di cooperazione economica.  
-2° Anno:  
-Corsi:  
-1) Sistema e funzionamento delle organizzazioni europee di integrazione economica;  
-2) Politica economica europea (commerciale, monetaria e finanziaria);  
-3) Economia e politica industriale europea;  
-4) La disciplina della concorrenza nel Mercato Comune Europeo;  
-5) L'integrazione europea nel campo agricolo;  
-6) L'integrazione europea nel campo sociale e del lavoro.  
-Seminari:  
-1) Lineamenti di diritto costituzionale degli Stati membri delle Comunita' europee;  
-2) Elementi di diritto privato comparato europeo;  
-3) La tutela dei diritti dell'uomo nell'ambito del Consiglio d'Europa;  
-4) Problemi di diritto tributario europeo;  
-5) Politica ed economia dei trasporti europei;  
-6) Politica e diritto dell'energia in Europa.  
-Per ciascun anno gli allievi sono tenuti a seguire tutti i corsi previsti ed almeno tre seminari a scelta.  
-Art. 106. - Gli insegnamenti vengono conferiti per incarico dal rettore dell'Universita', sentito il direttore della Scuola.  
-Art. 107. - Il Consiglio della Scuola e' costituito dai professori che vi tengono i corsi di insegnamento prescritti ed e' presieduto dal direttore.  
-Art. 108. - Il direttore della Scuola e' nominato dal rettore, su proposta della Facolta' di giurisprudenza, fra i professori di ruolo dell'Universita'.  
-Art. 109. - Alla Scuola sono ammessi coloro che hanno conseguito la laurea in Giurisprudenza, in Economia e commercio o in Scienze politiche. Sono ammessi altresi' gli studenti stranieri in possesso di titolo equipollente.  
-Art. 110. - Il numero massimo degli allievi che possono essere annualmente accolti nella Scuola e' fissato anno per anno dal Consiglio della Scuola, in rapporto alle possibilita' didattiche dei vari istituti presso i quali gli allievi debbono seguire i seminari.  
-Del pari puo' essere stabilito un numero minimo di iscrizioni e qualora questo numero non venga raggiunto il direttore ha la facolta' di non iniziare i corsi. Ma se questi verranno iniziati, dovranno essere portati a termine qualunque sia il numero degli iscritti.  
-Art. 111. - La domanda di ammissione alla Scuola e' diretta al rettore dell'Universita' e deve essere corredata di un certificato di laurea con l'indicazione dei voti conseguiti in tutti gli esami speciali ed in quello di laurea.  
-Art. 112. - Gli iscritti alla Scuola sono tenuti a pagare le tasse, soprattasse e contributi, secondo quanto stabilito per gli studenti della Facolta' di giurisprudenza, nonche' la tassa di diploma nella misura di L. 6000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
-Sono tenuti, altresi', a pagare un contributo speciale nella misura che sara' determinata dal Consiglio di amministrazione, previo parere della Facolta', su proposta del direttore della Scuola.  
-Art. 113. - Per essere ammessi all'esame di diploma gli allievi devono avere superato tutti gli esami di profitto sulle materie della Scuola. Dovranno inoltre avere pagato tutte le tasse, soprattasse e contributi.  
-Art. 114. - Le Commissioni per gli esami speciali sono composte di tre membri e quelle di diploma di cinque membri scelti fra gli insegnanti della Scuola e nominati dal direttore.  
-Art. 115. - L'esame di diploma consiste nella discussione di una dissertazione originale scritta su un argomento scelto dal candidato ed approvato dal Consiglio della Scuola.  
-Art. 116. - A coloro che hanno superato l'esame di diploma viene rilasciato un diploma di specializzazione in diritto ed economia delle organizzazioni internazionali.  
-Art. 117. - Indipendentemente dall'esame di diploma puo' essere rilasciato un attestato di frequenza a quanti avranno effettivamente partecipato alle lezioni e ai seminari della Scuola.  
+Art. 39. - Agli insegnamenti complementari del corso di laurea in fisica sono aggiunti quelli di: "fisica atomica", "fisica particelle elementari", "elettronica", "fisica dei solidi".  
+  
+Art. 46. - Agli insegnamenti complementari del corso di laurea in matematica e fisica sono aggiunti quelli di: "matematiche elementari dal punto di vista superiore", "teoria dei numeri", "calcoli numerici e grafici", "geometria algebrica", "meccanica superiore", "topologia", "algebra superiore", "teoria generale delle vibrazioni", "fisica atomica", "fisica delle particelle elementari", "fisica dei solidi", "elettronica".  
+  
+Art. 57. - Agli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti quelli di: "biologia marina", "oceanografia".  
+  
+Art. 65. - Agli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti quelli di: "embriologia e morfologia sperimentale", "idrobiologia e pescicoltura", "paleontologia umana e paletnologia", "fitogeografia ed ecologia vegetale".  
+  
+Art. 69. Agli insegnamenti complementari del corso di laurea in scienze geologiche, e' aggiunto quello di "geologia stratigrafica".  
+  
+Art. 71. - E' aggiunto il seguente comma:  
+Sono obbligatori due anni di internato in geologia, al III e IV anno".  
+  
+Art. 73, relativo all'esame di laurea, l'ultimo comma e' abrogato e sostituito dal seguente:  
+"Fa parte, inoltre, dell'esame di laurea un colloquio di cultura generale nelle scienze geologiche (geologia, paleontologia, geografia, mineralogia, petrografia) da sostenere dinanzi ad una Commissione di cinque professori ufficiali della Facolta', fra cui il preside".  
+  
+Art. 75. - Agli insegnamenti complementari del corso di laurea in farmacia e' aggiunto quello di "chimica farmaceutica applicata".  
+  
+Art. 82. - All'elenco delle Scuole di specializzazione annesse alla Facolta' di medicina e chirurgia e' aggiunta quella di igiene.  
+Dopo l'art. 135, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola, di specializzazione in igiene, con il conseguente spostamento della numerazione degli articoli successivi.  
+  
+Scuola di specializzazione in igiene.  
+  
+Art. 136. - E' istituita la Scuola di specializzazione in igiene, che ha sede presso l'Istituto di igiene della Facolta' di medicina e chirurgia.  
+  
+Art. 137. - Sono ammessi i laureati in medicina e chirurgia.  
+  
+Art. 138. - L'iscrizione alla Scuola e' limitata, per ogni anno accademico, a dieci allievi.  
+  
+Art. 139. - La Scuola ha la durata di due anni.  
+  
+Art. 140. - Le materie di insegnamento sono:  
+  
+1° anno:  
+1) igiene generale e speciale (I);  
+2) batteriologia, immunologia, e microbiologia applicata all'igiene;  
+3) parassitologia;  
+4) legislazione sanitaria, statistica e demografia;  
+5) zoonosi, ispezione delle carni:  
+6) nozioni di anatomia e istologia patologica.  
+  
+2° anno:  
+1) igiene generale e speciale (II);  
+2) patologia e clinica delle malattie da infezione, da intossicazione, da carenze, ecc.;  
+3) ingegneria sanitaria;  
+4) chimica applicata all'igiene;  
+5) fisica applicata all'igiene;  
+6) geologia applicata all'igiene.  
+  
+Art. 141. - Gli allievi dovranno seguire turni di interinato, secondo gli orari stabiliti dalla Scuola, presso l'Istituto di igiene e presso l'Ufficio comunale di igiene.  
+  
+Art. 142. - Al termine di ciascun anno, gli allievi che abbiano regolarmente frequentato i corsi, dovranno superare un esame di profitto.  
+  
+Art. 143. - Alla fine dei due anni, gli allievi dovranno presentare una tesi scritta e sostenere un esame di diploma.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 maggio 1967
+### Dato a Napoli, addi' 20 agosto 1959
 
-SARAGAT GUI
+GRONCHI MEDICI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 3 luglio 1967
+Registrato alla Corte dei conti, addi' 28 settembre 1959
 
-Atti del Governo, registro n. 212, foglio n. 7. - GRECO
+Atti del Governo, registro n. 120, foglio n. 162. - VILLA

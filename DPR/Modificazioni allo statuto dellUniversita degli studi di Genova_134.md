@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1965 n. 768
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1982 n. 1124
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1965 n. 768
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1982 n. 1124
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
@@ -10,219 +10,152 @@ Modificazioni allo statuto dell'Universita' degli studi di Genova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2051](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2051) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati e ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 29. - Agli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:
+Articolo unico
+--------------
 
-39) Storia delle religioni;
-
-40) Storia del cristianesimo;
-
-41) Sociologia;
-
-42) Storia delle tradizioni popolari.
-
-Art. 30. - Agli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti quelli di:
-
-20) Sociologia;
-
-21) Storia contemporanea;
-
-Art. 31. - L'insegnamento complementare di "Statistica sanitaria" del corso di laurea in Medicina e chirurgica e' soppresso e sostituito da quello di "Statistica medica e biometria".
-
-Art. 53. - L'insegnamento complementare di Metodi matematici della fisica, per il corso di laurea in Matematica (indirizzo: generale, didattico e applicativo del II gruppo), e' soppresso.
-
-Art. 55. - Agli insegnamenti complementari dei corso di laurea in Scienze biologiche e' aggiunto quello di "Biologia marina".
-
-Art. 56. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti quelli di: "Geologia nucleare, Cristallografia".
-
-Art. 58, relativo alle norme per le iscrizioni e gli esami per i vari corsi di laurea della Facolta' di Scienze matematiche, fisiche e naturali 1° ultimo comma e' abrogato e sostituito da seguente:
-
-"Per la laurea in Scienze geologiche, l'esame eventuale di Analisi matematica I deve procedere quello di Analisi matematica II e questo deve precedere l'esame di Meccanica razionale".
-
-Gli articoli dal 117 al 123, relativi alla Scuola di specializzazione in Oftalmoiatria e oculistica, sono abrogati e sostituiti dai seguenti concernente la nuova denominazione e il nuovo ordinamento della Scuola stessa.
-
-Scuola di specializzazione in Clinica oculistica
-
-Art. 117. - Presso l'Istituto di Clinica oculistica 6 istituita la Scuola di specializzazione in Clinica oculistica che ha lo scopo di conferire la necessaria competenza a coloro che vogliono specialmente dedicarsi a questa branca della medicina.
-
-Art. 118. - Il corso ha la durata di quattro anni.
-
-Gli iscritti hanno l'obbligo di frequentare per tutto il quadriennio le lezioni, le esercitazioni e le dimostrazioni, prestando regolare servizio come interni della Clinica a norma degli articoli 98 e 99 di questo statuto.
-
-Art. 119. - Al corso possono iscriversi solo i laureati in Medicina e chirurgia. Il numero degli allievi che possono essere accolti nella Scuola viene fissato in numero massimo di venti.
-
-Le norme di iscrizioni, ammissione, pagamento tasse, sono quelle generali delle Scuole di specializzazione contemplate negli articoli 93, 94, 10, 107 di questo - statuto.
-
-Art. 120. - Gli insegnamenti impartiti nella Scuola per ciascun anno di corso e che formano materie di esame al termine di ciascun anno sono i seguenti:
-
-1° Anno:
-
-1) Anatomia ed istologia dell'apparato oculare;
-
-2) Nozioni di embriologia e genetica oculare;
-
-3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;
-
-4) Nozioni di ottica fisiologica, esame della refrazione;
-
-5) Microbiologia ed igiene oculare.
-
-2° Anno:
-
-1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmoscopia, perimetria, campimetria, adattometria, senso cromatico tonometria, tonografia, esami elettrofunzionali, radiologia);
-
-2) Farmacologia oculare e terapia fisica;
-
-3) Anatomia patologica oculare;
-
-4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della sclera).
-
-3° Anno:
-
-1) Patologia e clinica oculare (malattie dell'uvea, della retina), del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);
-
-2) Anomalie e patologia della motilita' oculare e della visione binoculare. Ortottica e Pleottica.
-
-3) Affezioni otorinolaringoiatriche e occhio;
-
-4) Tecnica operatoria - la parte.
-
-4° Anno:
-
-1) Neuroftalmologia;
-
-2) Malattie oculari in rapporto ad affezioni generali;
-
-3) Malattie professionali. Infortunistica e medicina legale oculare;
-
-4) Tecnica operatoria - 2° parte;
-
-5) Tesi di specializzazione.
-
-La Direzione della Scuola ha facolta' di organizzare conferenze, dimostrazioni e seminari da tenersi da docenti di altre materie che abbiano attinenza con gli scopi della Scuola.
-
-Art. 121. - Al termine di ciascun anno di corso gli allievi sono tenuti a sostenere gli esami sulle materie d'insegnamento dell'anno stesso di fronte ad una Commissione composta secondo quanto stabilito dall'articolo 100 di questo statuto.
-
-In seguito al risultato degli esami la Commissione stabilira' la loro idoneita' o meno ad essere ammessi al successivo anno di corso.
-
-Art. 122. - Al termine del quarto anno di corso gli allievi che hanno superato gli esami delle materie di detto anno vengono ammessi a sostenere l'esame di diploma di fronte alla Commissione costituita a norma dell'art. 104 di questo statuto. Tale esame consiste nella presentazione di una tesi di specializzazione scritta su argomento di Clinica oculistica preventivamente assegnato dalla Direzione della Scuola, nel sostenere la relativa, discussione e in una prova pratica sull'ammalato.
-
-Art. 123. - Agli allievi che hanno superato l'esame finale di diploma viene rilasciato il diploma di specialista in Clinica oculistica valido a tutti gli effetti di legge.
-
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 24 maggio 1965
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 1 luglio 1965 Atti del Governo, registro n. 194, foglio n. 68. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2051](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2051) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati e ulteriormente modificato come appresso:  
-Art. 29. - Agli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:  
-39) Storia delle religioni;  
-40) Storia del cristianesimo;  
-41) Sociologia;  
-42) Storia delle tradizioni popolari.  
-Art. 30. - Agli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti quelli di:  
-20) Sociologia;  
-21) Storia contemporanea;  
-Art. 31. - L'insegnamento complementare di "Statistica sanitaria" del corso di laurea in Medicina e chirurgica e' soppresso e sostituito da quello di "Statistica medica e biometria".  
-Art. 53. - L'insegnamento complementare di Metodi matematici della fisica, per il corso di laurea in Matematica (indirizzo: generale, didattico e applicativo del II gruppo), e' soppresso.  
-Art. 55. - Agli insegnamenti complementari dei corso di laurea in Scienze biologiche e' aggiunto quello di "Biologia marina".  
-Art. 56. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti quelli di: "Geologia nucleare, Cristallografia".  
-Art. 58, relativo alle norme per le iscrizioni e gli esami per i vari corsi di laurea della Facolta' di Scienze matematiche, fisiche e naturali 1° ultimo comma e' abrogato e sostituito da seguente:  
-"Per la laurea in Scienze geologiche, l'esame eventuale di Analisi matematica I deve procedere quello di Analisi matematica II e questo deve precedere l'esame di Meccanica razionale".  
-Gli articoli dal 117 al 123, relativi alla Scuola di specializzazione in Oftalmoiatria e oculistica, sono abrogati e sostituiti dai seguenti concernente la nuova denominazione e il nuovo ordinamento della Scuola stessa.  
-Scuola di specializzazione in Clinica oculistica  
-Art. 117. - Presso l'Istituto di Clinica oculistica 6 istituita la Scuola di specializzazione in Clinica oculistica che ha lo scopo di conferire la necessaria competenza a coloro che vogliono specialmente dedicarsi a questa branca della medicina.  
-Art. 118. - Il corso ha la durata di quattro anni.  
-Gli iscritti hanno l'obbligo di frequentare per tutto il quadriennio le lezioni, le esercitazioni e le dimostrazioni, prestando regolare servizio come interni della Clinica a norma degli articoli 98 e 99 di questo statuto.  
-Art. 119. - Al corso possono iscriversi solo i laureati in Medicina e chirurgia. Il numero degli allievi che possono essere accolti nella Scuola viene fissato in numero massimo di venti.  
-Le norme di iscrizioni, ammissione, pagamento tasse, sono quelle generali delle Scuole di specializzazione contemplate negli articoli 93, 94, 10, 107 di questo - statuto.  
-Art. 120. - Gli insegnamenti impartiti nella Scuola per ciascun anno di corso e che formano materie di esame al termine di ciascun anno sono i seguenti:  
-1° Anno:  
-1) Anatomia ed istologia dell'apparato oculare;  
-2) Nozioni di embriologia e genetica oculare;  
-3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;  
-4) Nozioni di ottica fisiologica, esame della refrazione;  
-5) Microbiologia ed igiene oculare.  
-2° Anno:  
-1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmoscopia, perimetria, campimetria, adattometria, senso cromatico tonometria, tonografia, esami elettrofunzionali, radiologia);  
-2) Farmacologia oculare e terapia fisica;  
-3) Anatomia patologica oculare;  
-4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della sclera).  
-3° Anno:  
-1) Patologia e clinica oculare (malattie dell'uvea, della retina), del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);  
-2) Anomalie e patologia della motilita' oculare e della visione binoculare. Ortottica e Pleottica.  
-3) Affezioni otorinolaringoiatriche e occhio;  
-4) Tecnica operatoria - la parte.  
-4° Anno:  
-1) Neuroftalmologia;  
-2) Malattie oculari in rapporto ad affezioni generali;  
-3) Malattie professionali. Infortunistica e medicina legale oculare;  
-4) Tecnica operatoria - 2° parte;  
-5) Tesi di specializzazione.  
-La Direzione della Scuola ha facolta' di organizzare conferenze, dimostrazioni e seminari da tenersi da docenti di altre materie che abbiano attinenza con gli scopi della Scuola.  
-Art. 121. - Al termine di ciascun anno di corso gli allievi sono tenuti a sostenere gli esami sulle materie d'insegnamento dell'anno stesso di fronte ad una Commissione composta secondo quanto stabilito dall'articolo 100 di questo statuto.  
-In seguito al risultato degli esami la Commissione stabilira' la loro idoneita' o meno ad essere ammessi al successivo anno di corso.  
-Art. 122. - Al termine del quarto anno di corso gli allievi che hanno superato gli esami delle materie di detto anno vengono ammessi a sostenere l'esame di diploma di fronte alla Commissione costituita a norma dell'art. 104 di questo statuto. Tale esame consiste nella presentazione di una tesi di specializzazione scritta su argomento di Clinica oculistica preventivamente assegnato dalla Direzione della Scuola, nel sostenere la relativa, discussione e in una prova pratica sull'ammalato.  
-Art. 123. - Agli allievi che hanno superato l'esame finale di diploma viene rilasciato il diploma di specialista in Clinica oculistica valido a tutti gli effetti di legge.  
+Art. 38 - nell'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono inserite le seguenti discipline: contabilita' dei costi e programmazione aziendale;  
+diritto fallimentare e delle altre procedure concorsuali;  
+diritto sindacale;  
+diritto urbanistico;  
+economia e politica del lavoro;  
+economia e politica dello sviluppo economico;  
+economia e politica industriale;  
+economia e politica monetaria;  
+economia e tecnica dei mercati mobiliari;  
+economia matematica;  
+economia politica (corso progredito);  
+economia regionale;  
+elaborazione automatica per l'analisi economica;  
+finanza aziendale;  
+finanza degli enti locali;  
+organizzazione aziendale;  
+programmazione economica;  
+schemi contabili per l'analisi economica;  
+sistemi economici comparati;  
+sistemi fiscali comparati;  
+statistica economica;  
+tecnica della revisione aziendale.  
+L'art. 39 e' soppresso e sostituito come segue:  
+Art. 39 - Gli insegnamenti di istituzioni di diritto privato e di istituzioni di diritto pubblico sono considerati propedeutici a tutti gli altri insegnamenti di diritto.  
+L'economia politica e' considerata propedeutica alla scienza delle finanze e diritto finanziario, all'economia e politica agraria, alla storia economica, alla politica economica e finanziaria, alla economia dei trasporti, all'economia internazionale, all'econometria, all'economia e finanza della sicurezza sociale, alla storia sociale, agli schemi contabili per l'analisi economica, all'economia e politica del lavoro, all'economia e politica industriale, all'economia matematica, all'economia e politica monetaria, all'economia regionale, alla programmazione economica, ai sistemi economici comparati, all'economia e politica dello sviluppo economico, alla economia politica (corso progredito).  
+L'economia politica primo anno e' propedeutica all'economia e finanza delle imprese di assicurazione, all'economia e tecnica dell'armamento e della navigazione, alla storia delle dottrine economiche, all'economia e tecnica industriale.  
+La statistica primo anno e' propedeutica alla politica economica e finanziaria, alla scienza delle finanze e diritto finanziario, all'econometria, alla demografia, alla ricerca operativa, agli schemi contabili per l'analisi economica, all'economia matematica, alla programmazione economica, alla statistica economica.  
+La matematica generale e' considerata propedeutica alla matematica finanziaria, alla statistica, all'economia politica secondo anno, alla ricerca operativa, all'economia matematica, all'elaborazione automatica per l'analisi economica.  
+La ragioneria generale ed applicata primo anno e' considerata propedeutica a tutti gli insegnamenti la cui denominazione inizia con il vocabolo "tecnica" ovvero i vocaboli "economia e tecnica". La stessa ragioneria primo anno e' inoltre considerata propedeutica all'economia e finanza delle imprese di assicurazione, alla ragioneria delle imprese marittime, alla ragioneria degli enti pubblici, alla contabilita' dei costi e programmazione aziendale, alla finanza aziendale, all'organizzazione aziendale, all'organizzazione del lavoro.  
+La scienza delle finanze e diritto finanziario e' considerata propedeutica al diritto tributario, alla politica economica e finanziaria, all'economia e finanza della sicurezza sociale, alla finanza degli enti locali, ai sistemi fiscali comparati.  
+Per ciascuno dei gruppi sopra indicati debbono essere superati prima gli esami sugli insegnamenti propedeutici.  
+L'art. 41 e' soppresso e sostituito come segue:  
+Art. 41 - l'esame di laurea consiste nella discussione di una dissertazione scritta e di due tesi da esporre oralmente.  
+La commissione di laurea puo' dispensare il candidato dalla discussione di una delle due tesi orali. Gli argomenti della dissertazione scritta e delle due tesi orali debbono essere comunicati dal candidato alla segreteria, previa approvazione dei professori della materia, entro il termine stabilito dal consiglio di facolta'.  
+Le dissertazioni e le tesi orali devono vertere su argomenti appartenenti a gruppi diversi di materie. A tal fine le materie si intendono ripartite in tre gruppi:  
+1) Tecnico:  
+contabilita' dei costi e programmazione aziendale;  
+economia e tecnica dei mercati mobiliari;  
+economia e tecnica dell'armamento e della navigazione;  
+economia e tecnica industriale;  
+elaborazione automatica per l'analisi economica;  
+finanza aziendale;  
+matematica finanziaria;  
+matematica generale;  
+merceologia;  
+organizzazione aziendale;  
+organizzazione del lavoro;  
+ragioneria degli enti pubblici;  
+ragioneria delle imprese marittime;  
+ragioneria generale ed applicata;  
+ricerca operativa;  
+tecnica amministrativa delle imprese marittime;  
+tecnica bancaria e professionale;  
+tecnica del commercio internazionale;  
+tecnica della revisione aziendale;  
+tecnica delle ricerche di mercato e della distribuzione generale;  
+tecnica industriale e commerciale;  
+tecnologia dei cicli produttivi.  
+2) Giuridico:  
+diritto amministrativo;  
+diritto commerciale;  
+diritto comunitario;  
+diritto della navigazione;  
+diritto del lavoro;  
+diritto e tecnica delle assicurazioni marittime;  
+diritto fallimentare e delle altre procedure concorsuali;  
+diritto industriale;  
+diritto internazionale;  
+diritto processuale civile;  
+diritto pubblico dell'economia;  
+diritto sindacale;  
+diritto tributario;  
+diritto urbanistico;  
+istituzioni di diritto privato;  
+istituzioni di diritto pubblico;  
+legislazione bancaria.  
+3) Economico:  
+demografia;  
+econometria;  
+economia dei trasporti;  
+economia e finanza della sicurezza sociale;  
+economia e finanza delle imprese di assicurazione;  
+economia e politica agraria;  
+economia e politica del lavoro;  
+economia e politica dello sviluppo economico;  
+economia e politica industriale;  
+economia internazionale;  
+economia matematica;  
+economia e politica monetaria;  
+economia politica;  
+economia politica (corso progredito);  
+economia regionale;  
+finanza degli enti locali;  
+geografia economica;  
+geografia regionale;  
+politica economica e finanziaria;  
+programmazione economica;  
+schemi contabili per l'analisi economica;  
+scienza delle finanze e diritto finanziario;  
+sistemi economici comparati;  
+sistemi fiscali comparati;  
+statistica;  
+statistica economica;  
+storia delle dottrine economiche;  
+storia economica;  
+storia sociale.  
   
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 maggio 1965
+### Dato a Roma, addi' 28 ottobre 1982
 
-SARAGAT GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 1 luglio 1965
+Registrato alla Corte dei conti, addi' 25 febbraio 1983
 
-Atti del Governo, registro n. 194, foglio n. 68. - VILLA
+Registro n. 14 Istruzione, foglio n. 16

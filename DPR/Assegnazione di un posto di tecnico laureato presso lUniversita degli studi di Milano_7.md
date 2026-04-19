@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 1138
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 maggio 1985 n. 908
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 1138
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 maggio 1985 n. 908
+=============================================================
 
 Assegnazione di un posto di tecnico laureato presso l'Universita' degli studi di Milano.
 ----------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Assegnazione di un posto di tecnico laureato presso l'Universita' degli studi di
 Art. 1
 ------
 
-N.
+n.
 
-1138. Decreto del Presidente della Repubblica 5 settembre 1980, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di papirologia della facolta' di lettere e filosofia dell'Universita' degli studi di Milano, per l'immissione in ruolo di un dipendente avente diritto all'applicazione delle norme dell'[art. 11 della legge 25 ottobre 1977, n. 808](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-10-25;808~art11).  
+908. Decreto del Presidente della Repubblica 31 maggio 1985, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di fisiologia generale e chimica biologica (per le esigenze della cattedra di chimica biologica) della facolta' di farmacia dell'Universita' di Milano.  
   
-Visto, il Guardasigilli: SARTI  
-Registrato alla Corte dei conti, addi' 5 maggio 1981  
-Registro n. 39 Istruzione, foglio n. 189
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 14 febbraio 1986  
+Registro n. 9 Istruzione, foglio n. 117

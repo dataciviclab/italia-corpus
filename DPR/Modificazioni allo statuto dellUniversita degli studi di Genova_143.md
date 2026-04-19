@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 dicembre 1965 n. 1647
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1090
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 dicembre 1965 n. 1647
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1090
 ================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Genova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,63 +20,39 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduta la [legge 18 novembre 1964 n. 1265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-11-18;1265);
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Veduto il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 --------
 
 Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 1
-------
+Articolo unico
+--------------
 
   
-"Facolta' di architettura" (limitata al biennio propedeutico).  
-Dopo l'art. 80, e con il conseguente spostamento della successiva numerazione, sono aggiunti i seguenti nuovi articoli relativi all'ordinamento degli studi del biennio propedeutico della Facolta' di architettura.  
-Art. 81 - Il biennio di studi propedeutici della Facolta' di architettura ha per fine di conferire, nel campo delle scienze tecniche e delle arti, le nozioni necessarie all'apprendimento delle materie applicative insegnate nei trienni di Architettura che portano al conseguimento della laurea in Architettura.  
-Possono essere ammessi al primo anno del biennio di studi propedeutici soltanto gli studenti forniti del diploma di maturita' classica o scientifica o artistica.  
-Art. 82. - Lo studente e' tenuto a frequentare le lezioni e le esercitazioni degli insegnamenti prescritti per ogni singolo corso.  
-Ogni professore in relazione al proprio insegnamento si accerta della frequenza, diligenza e profitto dello studente nel modo che crede piu' opportuno.  
-Art. 83. - Gli insegnamenti del biennio di studi propedeutici in Architettura sono fondamentali e complementari.  
-I - Fondamentali:  
-1) Disegno dal vero (biennale);  
-2) Elementi di architettura e rilievo dei monumenti (biennale);  
-3) Storia dell'arte e storia e stili dell'architettura (biennale);  
-4) Elementi costruttivi;  
-5) Analisi matematica e geometria analitica (biennale);  
-6) Geometria descrittiva ed elementi di proiettiva;  
-7) Applicazioni di geometria descrittiva;  
-8) Fisica;  
-9) Chimica generale ed applicata;  
-10) Mineralogia e geologia.  
-II - Complementari:  
-1) Letteratura italiana;  
-2) Plastica ornamentale;  
-3) Lingua inglese;  
-4) Lingua francese.  
-Gli studenti dovranno sostenere gli esami in tutte le discipline fondamentali e in due materie complementari da loro scelte fra le quattro proposte.  
-Art. 84. - Gli studenti provenienti da altre Facolta' di architettura sono ammessi all'anno del biennio al quale erano iscritti o avevano diritto di essere iscritti nella Facolta' di provenienza.  
-Per gli studenti o laureati della Facolta' di ingegneria o dei bienni che danno adito a detta Facolta', il Consiglio dei professori formulera' il piano di studi per lo ulteriore svolgimento della carriera scolastica.  
-Art. 85. - Gli studenti sono tenuti a rispettare la modalita' di iscrizione e di frequenza delle singole materie e le precedenze di esame che il Consiglio di facolta' stabilira' nel piano degli studi.  
+Art. 44. - Nell'elenco degli insegnamenti complementari del corso di laurea in lettere e' aggiunto l'insegnamento di "semantica e lessicologia".  
+Art. 51. - Nell'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo) e' inserito l'insegnamento di "lingua inglese".  
+Art. 56. - Nell'elenco degli insegnamenti complementari del corso di laurea in storia, indirizzo antico, e' inserito l'insegnamento di "archeologia umanistica e storia dell'archeologia".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 dicembre 1963
+### Dato a Roma, addi' 23 dicembre 1983
 
-SARAGAT GUI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 14 febbraio 1966
+Registrato alla Corte dei conti, addi' 15 marzo 1984
 
-Atti del Governo, registro n. 201, foglio n. 55. - VILLA.
+Registro n. 16 Istruzione, foglio n. 173

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1985 n. 912
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 406
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1985 n. 912
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 406
+============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -39,22 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 49, relativo al corso di laurea in storia, all'elenco degli insegnamenti complementari per l'indirizzo moderno e' aggiunto il seguente nuovo insegnamento:  
-  
-storia dell'Unione Sovietica.  
+Nell'art. 56, relativo al corso di laurea in pedagogia, all'elenco degli insegnamenti complementari e' aggiunto il nuovo seguente insegnamento:  
+educazione degli adulti.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 ottobre 1985
+### Dato a Roma, addi' 28 marzo 1983
 
-COSSIGA
+PERTINI FALCUCCI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DARIDA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 17 agosto 1983
 
-Registrato alla Corte dei conti, addi' 14 febbraio 1986
-
-Registro n. 9 Istruzione, foglio n. 127
+Registro n. 59 Istruzione, foglio n. 103

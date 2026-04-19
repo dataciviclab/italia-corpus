@@ -1,169 +1,23 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1971 n. 689
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 maggio 1967 n. 926
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1971 n. 689
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 maggio 1967 n. 926
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 20: all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:
-
-Diritto internazionale privato e processuale;
-
-Organizzazione internazionale.
-
-Art. 66: All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:
-
-Storia dell'arte antica;
-
-Archeologia cristiana;
-
-Museografia;
-
-Lingua inglese;
-
-Psicolinguistica;
-
-Metodologia dell'insegnamento linguistico;
-
-Storia della lingua latina;
-
-Storia del cristianesimo;
-
-Filosofia della religione;
-
-Filologia ibero-romanza;
-
-Letteratura umanistica;
-
-Geografia regionale.
-
-Art. 67: all'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:
-
-Storia dell'arte antica;
-
-Archeologia cristiana;
-
-Museografia;
-
-Lingua inglese;
-
-Psicolinguistica;
-
-Metodologia dell'insegnamento linguistico;
-
-Storia della lingua latina;
-
-Storia del cristianesimo;
-
-Filosofia della religione;
-
-Filologia ibero-romanza;
-
-Letteratura umanistica;
-
-Geografia regionale.
-
-Art. 68: all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:
-
-Storia dell'arte antica;
-
-Archeologia cristiana;
-
-Museografia;
-
-Lingua inglese;
-
-Psicolinguistica;
-
-Metodologia dell'insegnamento linguistico;
-
-Storia della lingua latina;
-
-Storia del cristianesimo;
-
-Filosofia della religione;
-
-Filologia ibero-romanza;
-
-Letteratura umanistica;
-
-Geografia regionale.
-
-Art. 87: e' modificato nel senso che l'istituto di botanica con annesso orto, presso la facolta' di scienze matematiche, fisiche e naturali, viene scisso in due distinti istituti con le denominazioni: "Istituto di botanica" e "Istituto dell'orto botanico".
-
-Art. 110: all'elenco degli istituti annessi alla facolta' di farmacia sono aggiunti i seguenti:
-
-Istituto di fisiologia generale;
-
-Istituto di chimica biologica.
-
-Art. 112: e' modificato nel senso che e' abrogata la propedeuticita' che prevede che non si puo' sostenere l'esame di igiene se non si sono superati gli esami di fisiologia generale, chimica generale ed inorganica e chimica organica. E' abolita inoltre la propedeuticita' dell'esame di fisiologia generale nei riguardi di fisica e di anatomia umana.
-
-Art. 380 (ex 369), relativo alla scuola di perfezionamento in filosofia e di preparazione all'insegnamento filosofico e' modificato nel senso che e' aggiunto il seguente comma:
-
-"Gli iscritti all'uno o all'altro dei due indirizzi possono chiedere la biennalizzazione di due insegnamenti - con facolta' di dare esami annuali - fermo restando il numero minimo di cinque esami per l'indirizzo a) e e di quattro esami per l'indirizzo b).
-
-Art. 382 (ex 371): e' aggiunto il seguente comma:
-
-"Nel biennio devono sostenersi almeno cinque esami da scegliersi fra gli insegnamenti sopraindicati".
-
-Art. 383 (ex 372): il secondo comma e' abrogato e sostituito dal seguente:
-
-"Nel biennio devono sostenersi almeno quattro esami - due per ogni anno di iscrizione - da scegliersi fra gli insegnamenti sottoindicati".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 8 giugno 1971
-
-SARAGAT
-
-MISASI
-
-Visto, il Guardasigilli: COLOMBO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 27 agosto 1971 Atti del Governo, registro n. 244, foglio n. 8. - PASQUALUCCI
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto del 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -171,70 +25,35 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 20: all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:  
-Diritto internazionale privato e processuale;  
-Organizzazione internazionale.  
-Art. 66: All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:  
-Storia dell'arte antica;  
-Archeologia cristiana;  
-Museografia;  
-Lingua inglese;  
-Psicolinguistica;  
-Metodologia dell'insegnamento linguistico;  
-Storia della lingua latina;  
-Storia del cristianesimo;  
-Filosofia della religione;  
-Filologia ibero-romanza;  
-Letteratura umanistica;  
-Geografia regionale.  
-Art. 67: all'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:  
-Storia dell'arte antica;  
-Archeologia cristiana;  
-Museografia;  
-Lingua inglese;  
-Psicolinguistica;  
-Metodologia dell'insegnamento linguistico;  
-Storia della lingua latina;  
-Storia del cristianesimo;  
-Filosofia della religione;  
-Filologia ibero-romanza;  
-Letteratura umanistica;  
-Geografia regionale.  
-Art. 68: all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:  
-Storia dell'arte antica;  
-Archeologia cristiana;  
-Museografia;  
-Lingua inglese;  
-Psicolinguistica;  
-Metodologia dell'insegnamento linguistico;  
-Storia della lingua latina;  
-Storia del cristianesimo;  
-Filosofia della religione;  
-Filologia ibero-romanza;  
-Letteratura umanistica;  
-Geografia regionale.  
-Art. 87: e' modificato nel senso che l'istituto di botanica con annesso orto, presso la facolta' di scienze matematiche, fisiche e naturali, viene scisso in due distinti istituti con le denominazioni: "Istituto di botanica" e "Istituto dell'orto botanico".  
-Art. 110: all'elenco degli istituti annessi alla facolta' di farmacia sono aggiunti i seguenti:  
-Istituto di fisiologia generale;  
-Istituto di chimica biologica.  
-Art. 112: e' modificato nel senso che e' abrogata la propedeuticita' che prevede che non si puo' sostenere l'esame di igiene se non si sono superati gli esami di fisiologia generale, chimica generale ed inorganica e chimica organica. E' abolita inoltre la propedeuticita' dell'esame di fisiologia generale nei riguardi di fisica e di anatomia umana.  
-Art. 380 (ex 369), relativo alla scuola di perfezionamento in filosofia e di preparazione all'insegnamento filosofico e' modificato nel senso che e' aggiunto il seguente comma:  
-"Gli iscritti all'uno o all'altro dei due indirizzi possono chiedere la biennalizzazione di due insegnamenti - con facolta' di dare esami annuali - fermo restando il numero minimo di cinque esami per l'indirizzo a) e e di quattro esami per l'indirizzo b).  
-Art. 382 (ex 371): e' aggiunto il seguente comma:  
-"Nel biennio devono sostenersi almeno cinque esami da scegliersi fra gli insegnamenti sopraindicati".  
-Art. 383 (ex 372): il secondo comma e' abrogato e sostituito dal seguente:  
-"Nel biennio devono sostenersi almeno quattro esami - due per ogni anno di iscrizione - da scegliersi fra gli insegnamenti sottoindicati".  
+Art. 20. - Nel corso di laurea in Giurisprudenza l'insegnamento complementare di "Antropologia criminale" e' soppresso e al suo posto e' istituito quello di "Criminologia".  
+Art. 21. - Alle propedeuticita' di esami del corso di laurea in Giurisprudenza sono aggiunte le seguenti:  
+  
+Se non si e' superato l'esame di: non si puo' essere ammessi a sostenere l'esame di:  
+  
+Istituzioni di diritto privato e diritto costituzionale - Diritto penale;  
+Istituzioni di diritto romano - Storia del diritto italiano.  
+  
+Art. 28. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze politiche e' aggiunto quello di "Economia internazionale".  
+Art. 29. - Relativo alle propedeuticita' di esami del corso di laurea in Scienze politiche e' abrogato e sostituito dal seguente:  
+"L'esame di Istituzioni di diritto pubblico deve essere sostenuto prima di quello di Diritto costituzionale italiano e comparato; l'esame di diritto costituzionale italiano e comparato deve essere sostenuto prima di quelli di Diritto internazionale e di Diritto amministrativo; l'esame di Istituzioni di diritto pubblico e quello di Istituzioni di diritto privato debbono essere sostenuti prima dell'esame di Diritto del lavoro; l'esame di Economia politica deve essere sostenuto prima di quello di Politica economica e finanziaria".  
+Art. 66. - Dall'elenco degli insegnamenti complementari del corso di laurea in Materie letterarie e' soppresso quello di "filosofia della storia".  
+Art. 67. - Dall'elenco degli insegnamenti complementari del corso di laurea in Pedagogia e' soppresso quello di "Letteratura cristiana antica".  
+Art. 68. - Dall'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere sono soppressi i seguenti: "Filosofia della storia" e "Letteratura cristiana antica".  
+Art. 80. - Relativo agli Istituti annessi alla Facolta' di medicina e chirurgia e' modificato nel senso che e' aggiunto l'Istituto di istologia ed embriologia generale.  
+Art. 241. - Concernente i titoli di ammissione alla Scuola di perfezionamento in Ricerca operativa e' modificato nel senso che viene aggiunto il seguente comma:  
+"gli ufficiali che, pur non possedendo la laurea o il diploma universitario, provengono dai corsi regolari delle Accademie militari e dalle Scuole di applicazione abbiano seguito un corso per ufficiali analisti in Ricerca operativa militare e siano riconosciuti in possesso dei requisiti culturali richiesti dal Consiglio della Scuola di perfezionamento in Ricerca operativa >.  
+Art. 325, concernente i titoli di ammissione alla Scuola di perfezionamento in Storia dell'arte medioevale e moderna e' modificata nel senso che e' compreso tra i suddetti titoli anche la laurea in Materie letterarie.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 giugno 1971
+### Dato a Roma, addi' 31 maggio 1967
 
-SARAGAT MISASI
+SARAGAT GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 27 agosto 1971
+Registrato alla Corte dei conti, addi' 16 ottobre 1967
 
-Atti del Governo, registro n. 244, foglio n. 8. - PASQUALUCCI
+Atti del Governo, registro n. 214, foglio n. 56. - GRECO

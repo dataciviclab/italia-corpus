@@ -1,210 +1,89 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1980 n. 1233
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1971 n. 293
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1980 n. 1233
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1971 n. 293
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Perugia e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Lo statuto dell'Universita' di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 116, relativo alla scuola di specializzazione in igiene e medicina preventiva, e' soppresso e sostituito dal seguente:  
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Scuola di specializzazione in igiene e medicina preventiva  
-Art. 116. - La scuola di specializzazione in igiene e medicina preventiva ha sede presso l'istituto di igiene - facolta' di medicina e chirurgia e conferisce il diploma di specialista in igiene e medicina preventiva.  
-La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
-Il numero massimo degli allievi e' di venti per anno di corso e complessivamente di ottanta iscritti per l'intero corso di studi.  
-L'ammissione al corso avviene per titoli ed esami.  
-Il corso si articola in un biennio propedeutico seguito da un biennio differenziato con cinque orientamenti e precisamente:  
-a) sanita' pubblica;  
-b) igiene e tecnica ospedaliera;  
-c) igiene del lavoro;  
-d) igiene e medicina scolastica;  
-e) laboratorio.  
-Il piano di studi e' il seguente:  
+Decreta:   
   
-I BIENNIO  
+Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-1° Anno:  
-metodologia statistica e biometria;  
-educazione sanitaria;  
-psicologia;  
-microbiologia ed immunologia I;  
-parassitologia;  
-epidemiologia generale e metodologia;  
-profilassi generale;  
-sociologia medica ed antropologia culturale.  
-2° Anno:  
-microbiologia ed immunologia II;  
-patologia e clinica delle malattie infettive;  
-epidemiologia e profilassi delle malattie infettive I;  
-patologia e clinica delle malattie non infettive di importanza sociale;  
-epidemiologia e profilassi delle malattie non infettive di importanza sociale I;  
-demografia e statistica sanitaria;  
-legislazione e programmazione sanitarie.  
+Dopo l'art. 54, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi all'istituzione del corso di laurea in chimica e tecnologia farmaceutiche.   
   
-II BIENNIO  
+Corso di laurea in chimica e tecnologia farmaceutiche   
   
-a) Orientamento di "sanita' pubblica."  
-  
-3° Anno:  
-epidemiologia e profilassi delle malattie infettive II;  
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
-igiene dell'ambiente fisico e difesa ecologica;  
-igiene degli alimenti e della nutrizione;  
-igiene dell'eta' evolutiva;  
-igiene del lavoro;  
-igiene ed assistenza dell'anziano.  
-4° Anno:  
-igiene edilizia e dell'aggregato urbano;  
-igiene ospedaliera;  
-organizzazione del territorio e programmazione sanitaria;  
-medicina di comunita';  
-economia sanitaria;  
-elementi di diritto amministrativo.  
-  
-b) Orientamento di "igiene e tecnica ospedaliera"  
-  
-3° Anno:  
-epidemiologia e profilassi delle malattie infettive II;  
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
-igiene dell'ambiente fisico e difesa ecologica;  
-igiene e tecnica delle costruzioni ospedaliere; arredamenti ed impianti tecnologici;  
-igiene dell'alimentazione e dietetica ospedaliera;  
-organizzazione e funzionamento degli ospedali I;  
-elementi di diritto e legislazione ospedaliera.  
-4° Anno:  
-organizzazione e funzionamento degli ospedali II;  
-compiti ed attribuzione della direzione sanitaria;  
-formazione professionale e compiti del personale ospedaliero;  
-programmazione ospedaliera e medicina di comunita';  
-assistenza psichiatrica;  
-aspetti socio-sanitari dell'ospitalismo;  
-aspetti economici della gestione ospedaliera.  
-c) Orientamento di "igiene del lavoro"  
-3° Anno:  
-epidemiologia e profilassi delle malattie infettive II;  
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
-igiene dell'ambiente fisico e difesa ecologica;  
-epidemiologia e profilassi delle malattie del lavoro;  
-tecnica ed economia degli impianti industriali;  
-tossicologia industriale e diagnostica di laboratorio;  
-elementi di fisica tecnica applicata all'igiene;  
-igiene dell'ambiente di lavoro I.  
-4° Anno:  
-igiene dell'ambiente di lavoro II;  
-elementi di diritto e legislazione del lavoro;  
-psicologia del lavoro;  
-prevenzione degli infortuni;  
-politica del territorio ed insediamenti industriali;  
-igiene del lavoro e medicina di comunita'.  
-  
-d) Orientamento di "igiene e medicina scolastica"  
-  
-3° Anno:  
-epidemiologia e profilassi delle malattie infettive II;  
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
-igiene dell'ambiente fisico e difesa ecologica;  
-clinica delle malattie dell'eta' evolutiva;  
-epidemiologia e profilassi delle malattie dell'eta' evolutiva;  
-igiene degli alimenti e della nutrizione;  
-auxologia normale e patologica;  
-psicologia dell'eta' evolutiva.  
-4° Anno:  
-servizi di medicina scolastica;  
-edilizia ed arredamento scolastico;  
-elementi di pedagogia;  
-assistenza parascolastica;  
-educazione sanitaria nella scuola;  
-legislazione scolastica;  
-igiene mentale.  
-  
-e) Orientamento di "laboratorio"  
-  
-3° Anno:  
-epidemiologia e profilassi delle malattie infettive II;  
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
-igiene dell'ambiente fisico e difesa ecologica;  
-metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale I;  
-strumentazione e metodologie chimico-cliniche ed ematologiche I; microscopia applicata all'igiene;  
-elementi di fisica tecnica applicata all'igiene;  
-accertamento diagnostico delle malattie infettive e parassitarie I;  
-metodi e dosaggi biologici per il controllo dell'inquinamento ambientale.  
-4° Anno:  
-metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale II;  
-accertamento diagnostico delle malattie infettive e parassitarie II;  
-strumentazione e metodologie chimico-cliniche ed ematologiche II; ispezione e controllo degli alimenti;  
-elementi di informatica.  
-Gli esami relativi alle discipline svolte con insegnamento biennale vengono sostenute alla fine di detti:  
-insegnamenti.  
-I corsi sono completati da insegnamenti complementari scelti dalla scuola tra i seguenti:  
-Materie complementari:  
-automazione del sistema ospedaliero;  
-biochimica applicata;  
-climatologia;  
-diritto sanitario internazionale;  
-elementi di medicina legale;  
-genetica umana;  
-geologia applicata all'igiene;  
-idrologia;  
-igiene dei climi tropicali;  
-igiene dei trasporti;  
-igiene militare;  
-igiene rurale;  
-istituzione di matematiche;  
-micologia;  
-radioprotezionistica.  
-A giudizio della scuola possono essere indicati come complementari anche altri insegnamenti regolarmente attivati nei corsi di laurea di ciascuna Universita'.  
-I corsi sono integrati da un tirocinio pratico di durata comunque non inferiore a tre mesi, da svolgersi durante il secondo biennio.  
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
-Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno; per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.  
-Al termine del corso di studi per il conseguimento del diploma di specialista in igiene e medicina preventiva, gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+Art. 55. - Durata del corso di studi: cinque anni, divisi in un biennio ed un triennio. Il titolo di ammissione e' quello previsto dalle vigenti disposizioni di legge.   
+Art. 56. - Gli insegnamenti sono i seguenti:   
+Fondamentali del biennio:   
+1) Analisi chimico farmaceutica la (analisi qualitativa);   
+\* 2) Anatomia umana;   
+\* 3) Botanica farmaceutica;   
+\* 4) Chimica fisica;   
+\* 5) Chimica generale ed inorganica;   
+\*\* 6) Chimica organica 1ª;   
+7) Fisica;   
+8) Fisiologia generale;   
+\* 9) Istituzioni di matematiche;   
+10) Microbiologia e igiene.   
+Fondamentali del triennio:   
+11) Analisi chimico farmaceutica 2ª (analisi quantitativa);   
+12) Analisi chimico farmaceutica 3ª (analisi dei medicamenti); \* 13) Biochimica applicata;   
+\* 14) Chimica biologica;   
+15) Chimica degli alimenti;   
+\* 16) Chimica farmaceutica applicata;   
+\* 17) Chimica farmaceutica e tossicologica 1ª;   
+\* 18) Chimica farmaceutica e tossicologica 2ª;   
+\*\*19) Chimica organica 2ª;   
+\* 20) Farmacologia e farmacognosia;   
+21) Impianti dell'industria farmaceutica;   
+22) Laboratorio di preparazione estrattiva e sintetica dei farmaci;   
+23) Metodi fisici in chimica organica;   
+24) Saggi e dosaggi farmacologici;   
+\* 25) Tecnica e legislazione farmaceutica.   
+Insegnamenti complementari:   
+\* 1) Microbiologia industriale farmaceutica;   
+2) Chimica delle sostanze naturali;   
+3) Scienza dell'alimentazione;   
+4) Chimica dei prodotti dietetici;   
+5) Chimica dei prodotti cosmetici;   
+6) Biologia molecolare;   
+7) Farmacologia molecolare;   
+8) Complementi di chimica tossicologica;   
+9) Impianti per laboratori galenici;   
+10) Prodotti dietetici;   
+11) Prodotti cosmetici.   
+Le materie segnate con un asterisco sono comuni alla laurea in farmacia; quelle segnate con due asterischi sono comuni alla laurea in chimica.   
+Art. 57. - Per ottenere l'iscrizione al terzo anno di corso lo studente deve aver seguito e superato gli esami in tutti gli insegnamenti fissati per i due anni precedenti.   
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami dei corsi fondamentali e almeno due esami a scelta tra i corsi complementari. La prova di laurea comporta la discussione di una tesi sperimentale.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica.
----------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+### Dato a Roma, addi' 16 febbraio 1971
 
-Dato a Roma, addi' 5 dicembre 1980 PERTINI BODRATO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 17 ottobre 1981
+Registrato alla Corte dei conti, addi' 21 maggio 1971
 
-Registro n. 96 Istruzione, foglio n. 357
+Atti del Governo, registro n. 242, foglio n. 30. - VALENTINI

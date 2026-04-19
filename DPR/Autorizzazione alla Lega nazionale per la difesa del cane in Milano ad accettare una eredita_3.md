@@ -1,20 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 giugno 1982 n. 631
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1984 n. 527
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 giugno 1982 n. 631
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1984 n. 527
 =============================================================
 
-Autorizzazione alla Lega nazionale per la difesa del cane, in Milano, ad accettare una eredita'.
-------------------------------------------------------------------------------------------------
+Autorizzazione alla "Lega nazionale per la difesa del cane", in Milano, ad accettare una eredita'.
+--------------------------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-631. Decreto del Presidente della Repubblica 29 giugno 1982, col quale, sulla proposta del Ministro della sanita', la Lega nazionale per la difesa del cane, in Milano, viene autorizzata ad accettare l'eredita', consistente nella meta' del valore complessivo di un appartamento sito in Bogliasco (Genova), disposta dal sig.  
-Fortunato Migone con testamento olografo 25 ottobre 1974, pubblicato in data 18 settembre 1975, n. 82039 di repertorio, a rogito dott. Stefano Bianchi, notaio in Genova.  
+527. Decreto del Presidente della Repubblica 12 luglio 1984, col quale, sulla proposta del Ministro della sanita', la "Lega nazionale per la difesa del cane", in Milano, viene autorizzata ad accettare l'eredita', consistente nella quota di un terzo del patrimonio della de cuius, valutato, all'epoca della pubblicazione del testamento, in L. 150.000.000 circa, somma suscettibile di aumento o diminuzione in rapporto alla successiva utilizzazione del patrimonio ed al pagamento di debiti di varia natura gravanti sull'eredita', disposta dalla sig.ra Susanna Marianna De Maria ved.  
+D'Addario con testamento olografo 20 gennaio 1975, pubblicato in data 15 maggio 1975, n. 25908/7359 di repertorio, a rogito dott.  
+Gilberto Colalelli, notaio in Roma, registrato a Roma in data 19 maggio 1975 al n. 4034.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 24 agosto 1982  
-Registro n. 6 Sanita', foglio n. 41
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 28 agosto 1984  
+Registro n. 6 Sanita', foglio n. 320

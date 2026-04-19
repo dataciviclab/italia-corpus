@@ -1,86 +1,382 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 960
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 maggio 1972 n. 332
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 960
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 maggio 1972 n. 332
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Gli articoli 114, 115 e 116, relativi alla "Scuola di specializzazione in ostetricia e ginecologia", sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in ostetricia e ginecologia
+
+Art. 114. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in ostetricia e ginecologia, con sede presso la clinica ostetrica.
+
+Il corso ha la durata di quattro anni.
+
+Il numero massimo degli iscritti per l'intero corso di studi e' di venti; al primo anno di ogni corso possono essere ammessi cinque specializzandi.
+
+Art. 115. - L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami.
+
+Sono da considerarsi titoli preferenziali, a parita' di risultato dell'esame di ammissione:
+
+a) il voto di laurea in medicina e chirurgia;
+
+b) aver frequentato come studente interno una clinica ostetrica e ginecologica dell'universita';
+
+c) aver svolto la tesi di laurea nella clinica ostetrica e ginecologica;
+
+d) documentazione di eventuali servizi prestati in grossi reparti ospitalieri della specialita';
+
+e) eventuali pubblicazioni.
+
+Per nessun motivo il corso di quattro anni puo' essere abbreviato.
+
+Nessun titolo puo' esonerare dalla frequenza dei quattro anni di corso.
+
+Gli iscritti, oltre all'obbligo della frequenza delle lezioni, esercitazioni, seminari, ecc., devono prestare servizio analogo a quello degli assistenti per non meno di nove mesi all'anno.
+
+Art. 116. - Il programma degli studi e' il seguente:
+
+1° Anno:
+
+1) Elementi di genetica e di eugenica;
+
+2) Anatomia normale ed embriologia dell'apparato genitale femminile;
+
+3) Fisiologia dell'apparato genitale femminile;
+
+4) Endocrinologia fisiologica;
+
+5) Fisiologia ostetrica;
+
+6) Diagnostica ostetrica;
+
+7) Clinica ostetrica e ginecologica;
+
+2° Anno:
+
+1) Tecnica operatoria ostetrica;
+
+2) Diagnostica ginecologica;
+
+3) Tecnica diagnostica di laboratorio nel campo ostetrico-ginecologico, esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);
+
+4) Clinica ostetrica e ginecologica.
+
+3° Anno:
+
+1) Anatomia patologica ostetrica e ginecologica;
+
+2) Istologia normale e patologica nel campo della specialita';
+
+3) Puericultura prenatale;
+
+4) Emoterapia nel campo ostetrico e ginecologico;
+
+5) Anestesia ed analgesia nel campo ostetrico e ginecologico;
+
+6) Tecnica operatoria ginecologica;
+
+7) Clinica ostetrica e ginecologica;
+
+8) Terapia medica ostetrica e ginecologica.
+
+4° Anno:
+
+1) Puericultura postnatale e malattie del neonato;
+
+2) Ostetricia e ginecologia forense;
+
+3) Diagnostica roentgen, radioterapia in ostetricia e ginecologia;
+
+4) Clinica ostetrica e ginecologica (esame alla fine del quarto anno);
+
+5) Urologia ginecologica;
+
+6) Chirurgia addominale extra genitale.
+
+Gli iscritti alla scuola debbono sostenere esami annuali di profitto la cui sessione e' unica ed e' espletata nel mese di ottobre.
+
+Gli esami si fanno per gruppi di materie ed i membri delle commissioni sono proposti dal direttore della scuola.
+
+Non puo' essere iscritto all'anno successivo di corso chi non abbia superato le materie fondamentali della specialita'.
+
+L'esame finale per il conseguimento del diploma, a completamento degli studi, consiste nella presentazione e nella discussione di un dissertazione scritta con contributo personale.
+
+Su proposta del consiglio della scuola, formulata sulla base del rendimento di ogni iscritto, gli specializzandi potranno essere esonerati dal pagamento delle tasse universitarie.
+
+Gli articoli 119, 120, 121, relativi alla "Scuola di specializzazione in urologia", sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in urologia
+
+Art. 119. - Alla facolta' di medicina e chirurgia e' annessa, una scuola di specializzazione in urologia con sede presso la clinica chirurgica.
+
+Art. 120. - Il corso ha la durata di tre anni.
+
+Il numero massimo degli iscritti per l'intero corso di studi e' di dodici, ed al 1° anno di ogni corso possono essere ammessi quattro specializzandi.
+
+Art. 121. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+1) Anatomia descrittiva e topografica dell'apparato uro-genitale;
+
+2) Fisiologia dell'apparato uro-genitale;
+
+3) Patologia dell'apparato urinario e genitale maschile;
+
+4) Le nefropatie mediche;
+
+5) Semeiotica dell'apparato uro-genitale (funzionale e di laboratorio);
+
+6) Tecniche strumentali e semeiologia endoscopica;
+
+7) Batteriologia in urologia;
+
+8) Farmacoterapia delle affezioni uro-genitali.
+
+2° Anno:
+
+1) Patologia dell'apparato urinario e genitale maschile;
+
+2) Clinica urologica;
+
+3) Patologia genitale femminile di interesse urologico;
+
+4) Nefrologia chirurgica;
+
+5) Anatomia ed istologia patologica dell'apparato uro-genitale;
+
+6) Semeiotica dell'apparato uro-genitale (funzionale e di laboratorio);
+
+7) Tecniche strumentali e semeiologia endoscopica;
+
+8) Anatomia chirurgica dell'apparato uro-genitale;
+
+9) Radiologia dell'apparato urinario e genitale;
+
+10) Le affezioni cutanee e veneree nei riguardi della urologia;
+
+11) L'anestesia ed il trattamento pre e post-operatorio del malato urologico.
+
+3° Anno:
+
+1) Clinica urologica;
+
+2) Patologia e clinica urologica infantile;
+
+3) Radiologia dell'apparato urinario e genitale;
+
+4) Tecniche operatorie sull'apparato urinario e genitale;
+
+5) Urologia ginecologica.
+
+Gli esami che gli specializzandi dovranno sostenere sono distribuiti come segue:
+
+1° Anno:
+
+1) Anatomia e fisiologia dell'apparato uro-genitale;
+
+2) Le nefropatie mediche;
+
+3) Batteriologia in urologia e farmacoterapia delle affezioni urogenitali.
+
+2° Anno
+
+1) Patologia dell'apparato urinario e genitale maschile: anatomia ed istologia patologica;
+
+2) Semeiotica urologica (funzionale e di laboratorio) e tecnica strumentale e semeiologia endoscopica;
+
+3) Patologia genitale femminile di interesse urologico; le affezioni cutanee e veneree nei riguardi della urologia;
+
+4) Anatomia chirurgica dell'apparato uro-genitale: anestesia e trattamento pre e post operatorio del malato urologico;
+
+5) Nefrologia chirurgica.
+
+3° Anno:
+
+1) Clinica urologica;
+
+2) Radiologia dell'apparato urinario e genitale;
+
+3) Interventi e procedimenti operatori sull'apparato uro-genitale;
+
+4) Patologia e clinica urologica infantile;
+
+5) Urologia ginecologica.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 1 maggio 1972
+
+LEONE
+
+MISASI
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 24 luglio 1972 Atti del Governo, registro n. 250, foglio n. 33. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;   
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;   
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Cagliari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli 114, 115 e 116, relativi alla "Scuola di specializzazione in ostetricia e ginecologia", sono abrogati e sostituiti dai seguenti:   
   
-Dopo l'art. 228, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in gastroenterologia ed endoscopia digestiva.   
+Scuola di specializzazione in ostetricia e ginecologia   
   
-Scuola di specializzazione in gastroenterologia ed endoscopia digestiva   
-  
-Art. 229. - La scuola di specializzazione in gastroenterologia ed endoscopia digestiva ha sede presso l'istituto di patologia medica II dell'Universita' di Cagliari e conferisce il diploma di specialista in gastroenterologia ed endoscopia digestiva.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di 4 (quattro) anni e non e' suscettibile di abbreviazione.   
-Il numero di allievi e' complessivamente di 18 (diciotto) per l'intero corso.   
-L'ammissione al corso avviene per titoli ed esami   
-Art. 230. - Le materie di insegnamento sono le seguenti:   
+Art. 114. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in ostetricia e ginecologia, con sede presso la clinica ostetrica.   
+Il corso ha la durata di quattro anni.   
+Il numero massimo degli iscritti per l'intero corso di studi e' di venti; al primo anno di ogni corso possono essere ammessi cinque specializzandi.   
+Art. 115. - L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami.   
+Sono da considerarsi titoli preferenziali, a parita' di risultato dell'esame di ammissione:   
+a) il voto di laurea in medicina e chirurgia;   
+b) aver frequentato come studente interno una clinica ostetrica e ginecologica dell'universita';   
+c) aver svolto la tesi di laurea nella clinica ostetrica e ginecologica;   
+d) documentazione di eventuali servizi prestati in grossi reparti ospitalieri della specialita';   
+e) eventuali pubblicazioni.   
+Per nessun motivo il corso di quattro anni puo' essere abbreviato.   
+Nessun titolo puo' esonerare dalla frequenza dei quattro anni di corso.   
+Gli iscritti, oltre all'obbligo della frequenza delle lezioni, esercitazioni, seminari, ecc., devono prestare servizio analogo a quello degli assistenti per non meno di nove mesi all'anno.   
+Art. 116. - Il programma degli studi e' il seguente:   
 1° Anno:   
-anatomia clinica;   
-farmacologia clinica;   
-chimica clinica, coprologia, parassitologia;   
-genetica;   
-biostatistica ed epidemiologia.   
+1) Elementi di genetica e di eugenica;   
+2) Anatomia normale ed embriologia dell'apparato genitale femminile;   
+3) Fisiologia dell'apparato genitale femminile;   
+4) Endocrinologia fisiologica;   
+5) Fisiologia ostetrica;   
+6) Diagnostica ostetrica;   
+7) Clinica ostetrica e ginecologica;   
 2° Anno:   
-clinica medica generale (triennale) I;   
-clinica e terapia del tubo digerente, fegato e pancreas (triennale) I;   
-anatomia e istologia patologica (biennale) I;   
-fisiopatologia e semeiotica digestiva (biennale) I;   
-radiologia e medicina nucleare (biennale) I;   
-scienza dell'alimentazione dietetica.   
+1) Tecnica operatoria ostetrica;   
+2) Diagnostica ginecologica;   
+3) Tecnica diagnostica di laboratorio nel campo ostetrico-ginecologico, esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);   
+4) Clinica ostetrica e ginecologica.   
 3° Anno:   
-clinica medica generale (triennale) II;   
-clinica e terapia del tubo digerente, fegato e pancreas (triennale) II;   
-anatomia e istologia patologica (biennale) II;   
-fisiopatologia e semeiotica digestiva (biennale) II;   
-radiologia e medicina nucleare (biennale) II;   
-endoscopia digestiva (biennale) I.   
+1) Anatomia patologica ostetrica e ginecologica;   
+2) Istologia normale e patologica nel campo della specialita';   
+3) Puericultura prenatale;   
+4) Emoterapia nel campo ostetrico e ginecologico;   
+5) Anestesia ed analgesia nel campo ostetrico e ginecologico;   
+6) Tecnica operatoria ginecologica;   
+7) Clinica ostetrica e ginecologica;   
+8) Terapia medica ostetrica e ginecologica.   
 4° Anno:   
-clinica medica generale (triennale) III;   
-clinica e terapia del tubo digerente, fegato e pancreas (triennale) III;   
-endoscopia digestiva (biennale) II;   
-terapia intensiva;   
-gastroenterologia pediatrica;   
-elementi di chirurgia del tubo digerente, fegato e pancreas.   
-Art. 231. - E' obbligatorio il tirocinio pratico durante il quadriennio di studi da svolgere nell'istituto clinico sede della scuola o in reparto ospedaliero di gastroenterologia, conforme alle scelte approvate dal consiglio della scuola.   
-Per le materie biennali e triennali sara' dato l'esame alla fine del biennio o triennio.   
-La frequenza alle lezioni e alle esercitazioni pratiche e obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
-Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno; per le materie biennali e triennali, invece, sara' date l'esame alla fine del biennio o del triennio.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in gastroenterologia ed endoscopia digestiva, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta in in argomento attinente la specializzazione.   
+1) Puericultura postnatale e malattie del neonato;   
+2) Ostetricia e ginecologia forense;   
+3) Diagnostica roentgen, radioterapia in ostetricia e ginecologia;   
+4) Clinica ostetrica e ginecologica (esame alla fine del quarto anno);   
+5) Urologia ginecologica;   
+6) Chirurgia addominale extra genitale.   
+Gli iscritti alla scuola debbono sostenere esami annuali di profitto la cui sessione e' unica ed e' espletata nel mese di ottobre.   
+Gli esami si fanno per gruppi di materie ed i membri delle commissioni sono proposti dal direttore della scuola.   
+Non puo' essere iscritto all'anno successivo di corso chi non abbia superato le materie fondamentali della specialita'.   
+L'esame finale per il conseguimento del diploma, a completamento degli studi, consiste nella presentazione e nella discussione di un dissertazione scritta con contributo personale.   
+Su proposta del consiglio della scuola, formulata sulla base del rendimento di ogni iscritto, gli specializzandi potranno essere esonerati dal pagamento delle tasse universitarie.   
+Gli articoli 119, 120, 121, relativi alla "Scuola di specializzazione in urologia", sono abrogati e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in urologia   
+  
+Art. 119. - Alla facolta' di medicina e chirurgia e' annessa, una scuola di specializzazione in urologia con sede presso la clinica chirurgica.   
+Art. 120. - Il corso ha la durata di tre anni.   
+Il numero massimo degli iscritti per l'intero corso di studi e' di dodici, ed al 1° anno di ogni corso possono essere ammessi quattro specializzandi.   
+Art. 121. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+1) Anatomia descrittiva e topografica dell'apparato uro-genitale;   
+2) Fisiologia dell'apparato uro-genitale;   
+3) Patologia dell'apparato urinario e genitale maschile;   
+4) Le nefropatie mediche;   
+5) Semeiotica dell'apparato uro-genitale (funzionale e di laboratorio);   
+6) Tecniche strumentali e semeiologia endoscopica;   
+7) Batteriologia in urologia;   
+8) Farmacoterapia delle affezioni uro-genitali.   
+2° Anno:   
+1) Patologia dell'apparato urinario e genitale maschile;   
+2) Clinica urologica;   
+3) Patologia genitale femminile di interesse urologico;   
+4) Nefrologia chirurgica;   
+5) Anatomia ed istologia patologica dell'apparato uro-genitale;  
+6) Semeiotica dell'apparato uro-genitale (funzionale e di laboratorio);   
+7) Tecniche strumentali e semeiologia endoscopica;   
+8) Anatomia chirurgica dell'apparato uro-genitale;   
+9) Radiologia dell'apparato urinario e genitale;   
+10) Le affezioni cutanee e veneree nei riguardi della urologia;  
+11) L'anestesia ed il trattamento pre e post-operatorio del malato urologico.   
+3° Anno:   
+1) Clinica urologica;   
+2) Patologia e clinica urologica infantile;   
+3) Radiologia dell'apparato urinario e genitale;   
+4) Tecniche operatorie sull'apparato urinario e genitale;   
+5) Urologia ginecologica.   
+Gli esami che gli specializzandi dovranno sostenere sono distribuiti come segue:   
+1° Anno:   
+1) Anatomia e fisiologia dell'apparato uro-genitale;   
+2) Le nefropatie mediche;   
+3) Batteriologia in urologia e farmacoterapia delle affezioni urogenitali.   
+2° Anno   
+1) Patologia dell'apparato urinario e genitale maschile: anatomia ed istologia patologica;   
+2) Semeiotica urologica (funzionale e di laboratorio) e tecnica strumentale e semeiologia endoscopica;   
+3) Patologia genitale femminile di interesse urologico; le affezioni cutanee e veneree nei riguardi della urologia;   
+4) Anatomia chirurgica dell'apparato uro-genitale: anestesia e trattamento pre e post operatorio del malato urologico;   
+5) Nefrologia chirurgica.   
+3° Anno:   
+1) Clinica urologica;   
+2) Radiologia dell'apparato urinario e genitale;   
+3) Interventi e procedimenti operatori sull'apparato uro-genitale;   
+4) Patologia e clinica urologica infantile;   
+5) Urologia ginecologica.   
   
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1978
+### Dato a Roma, addi' 1 maggio 1972
 
-PERTINI PEDINI
+LEONE MISASI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 30 gennaio 1979
+Registrato alla Corte dei conti, addi' 24 luglio 1972
 
-Registro n. 4 Istruzione, foglio n. 13
+Atti del Governo, registro n. 250, foglio n. 33. - CARUSO

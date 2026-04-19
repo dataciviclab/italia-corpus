@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1017
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 settembre 1971 n. 939
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1017
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 settembre 1971 n. 939
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
@@ -12,11 +12,10 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -24,29 +23,50 @@ Sulla proposta del Ministro per la pubblica istruzione;
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che gli articoli 220, 221, 222, 223, 224, 225 e 226, relativi alla "Scuola di perfezionamento in oncologia" che assume la denominazione di "Scuola di specializzazione in oncologia" sono abrogati e sostituiti dai seguenti:  
   
-Art. 62. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia e' aggiunto quello di: "Sociologia della conoscenza".  
+Scuola di specializzazione in oncologia  
   
-Art. 90. - Nell'elenco degli insegnamenti complementari del corso di laurea in architettura vengono soppressi gli insegnamenti di "Lingua francese" e di "Applicazioni di geometria descrittiva" e vengono aggiunti i seguenti:  
-Costruzioni metalliche;  
-Progettazione navale.  
-  
-Art. 91, relativo alle modalita' di esami e' abrogato e sostituito dal seguente:  
-"Gli insegnamenti biennali di analisi matematica e geometria analitica, storia dell'architettura, urbanistica comportano ciascuno due esami; l'insegnamento biennale di tecnologia dell'architettura comporta un solo esame; l'insegnamento di composizione architettonica comporta quattro esami piu' uno facoltativo".  
-  
-Nell'art. 95, relativo alle disposizioni sulla prova estemporanea individuale attinente al calcolo strutturale viene soppresso il secondo comma.  
+Art. 220. - La scuola di specializzazione in oncologia ha lo scopo ed il compito di formare la necessaria competenza scientifica e di completare la preparazione biologica e di patologia clinica di coloro che vogliono dedicarsi all'esercizio della medicina e chirurgia con speciale riguardo allo studio dei tumori, alle diagnosi precoci, al loro rilievo ed alla loro prevenzione.  
+La scuola e' diretta dai titolari delle cattedre di anatomia e istologia patologica e di patologia generale, ad anni alterni.  
+Art. 221. - Alla scuola sono ammessi i laureati in medicina e chirurgia (con preferenza per gli specializzandi in altre materie biologiche o cliniche) in numero limitato per ogni corso.  
+Il numero complessivo di specializzandi, in ogni caso, non puo' superare i sessanta.  
+Qualora le domande di iscrizione fossero superiori al numero dei posti disponibili, la direzione della scuola si riserva di formare una graduatoria in base ai titoli presentati.  
+La frequenza al corso ed alle esercitazioni e' obbligatoria, con obbligo di internato semestrale nei vari istituti designati dal direttore della scuola.  
+Le norme di iscrizione, pagamento tasse, esami, ecc. sono quelle generali delle scuole di specializzazione e perfezionamento, riferite negli articoli da 122 a 137 delle norme generali dello statuto dell'universita'.  
+Art. 222. - Le materie di insegnamento sono cosi' suddivise nei singoli corsi:  
+1° Anno:  
+Etiopatogenesi oncologica;  
+Biochimica oncologica;  
+Anatomia e istologia patologica dei tumori.  
+2° Anno:  
+Oncologia sperimentale;  
+Epidemielogia e statistica dei tumori.  
+3° Anno:  
+Diagnosi citologica e citologia dei tumori;  
+Nozioni di diagnostica clinica e terapia dei tumori;  
+Nozioni di clinica medica dei tumori;  
+Nozioni di clinica ginecologica dei tumori;  
+Organizzazione delle lotte contro i tumori.  
+Art. 223. - Il corso ha la durata di tre anni e l'insegnamento avra' carattere dottrinale, dimostrativo e pratico.  
+La direzione della scuola ha la facolta' di invitare i cultori delle materie a tenere conferenze su capitoli dell'oncologia.  
+Gli insegnamenti saranno completati con esercitazioni pratiche che si svolgono durante il corso nei vari istituti.  
+Art. 224. - Alla fine di ogni corso, per essere ammessi al corso successivo gli iscritti, ottenuta la firma di frequenza, dovranno sostenere un colloquio o un esame delle materie svolte.  
+Alla fine del terzo anno, gli iscritti, che avranno ottenuta la firma di frequenza, saranno ammessi alla prova finale, consistente in un esame teorico pratico, che, superato, dara' diritto al candidato a discutere una speciale.  
+Art. 225. - L'esame od il colloquio, la prova teorica e pratica e la discussione della tesi di specializzazione, saranno sostenuti davanti ad una commissione costituita dal direttore della scuola, da tre titolari delle materie d'insegnamento del corso e da un libero docente di anatomia ed istologia patologica, o di patologia generale, quale segretario.  
+Art. 226. - Agli iscritti alla scuola, che avranno superato le prove prescritte, sara' rilasciato un diploma di specialista in oncologia, da esibirsi a tutti gli effetti legali.  
+L'art. 278, relativo alla scuola di specializzazione in psichiatria e' modificato nel senso che il numero complessivo degli scritti da ammettere alla scuola e' aumentato a venti.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 18 settembre 1971
 
-LEONE SCALFARO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 20 febbraio 1973
+Registrato alla Corte dei conti, addi' 12 novembre 1971
 
-Atti di Governo, registro n. 256, foglio n. 4. - VALENTINI
+Atti del Governo, registro n. 245, foglio n. 24. - CARUSO

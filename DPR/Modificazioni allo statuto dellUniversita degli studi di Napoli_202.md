@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1954 n. 1465
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 1015
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1954 n. 1465
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 1015
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regi decreti 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;1904); [4 maggio 1942, n. 557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-05-04;557); [5 settembre 1942, n. 1120; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-09-05;1120) [26 febbraio 1949, n. 612](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;612); [23 settembre 1949, n. 931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;931); [30 ottobre 1949, n. 1059](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1059); [5 aprile 1950, n. 284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-04-05;284); [30 ottobre 1950, n. 1277](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1277); [31 ottobre 1950, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1311); [18 aprile 1951, n. 934](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;934); [30 luglio 1951, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-07-30;1304); [27 ottobre 1951, n. 1680](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1680); [19 settembre 1952, n. 4551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-19;4551); [25 agosto 1953, n. 1117](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;1117); [26 aprile 1954, n. 738](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;738); [30 giugno 1954, n. 753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;753); [31 luglio 1954, n. 865](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-07-31;865) e [24 agosto 1954, n. 987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-08-24;987);
+Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,83 +18,52 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sulla proposta del Ministro per la pubblica, istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 125 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione del Seminario di urbanistica presso la Facolta' di architettura, col conseguente spostamento degli articoli successivi.
+Articolo unico
+--------------
 
-Art. 126. - Presso la Facolta' di architettura e' istituito il Seminario di urbanistica, che si propone di eseguire indagini, studi e ricerche di carattere urbanistico, demografico, geografico, storico e tecnico e compilare e utilizzare statistiche per la preparazione dei piani urbanistici.
-
-A tale fine saranno ammessi a frequentare il Seminario coloro che siano in possesso di una laurea conferita dalle Universita' e dagli Istituti superiori della Repubblica ed i laureandi in architettura, e in ingegneria.
-
-Art. 127. - Il Seminario avra' una sua biblioteca specializzata che, coordinata con la biblioteca della Facolta' di architettura, funzionera' come filiazione di essa.
-
-Art. 128. - La direzione del Seminario di urbanistica sara' affidata ad un professore di ruolo o fuori ruolo della Facolta' di architettura nominato, per un triennio, dal rettore su proposta del Consiglio di Facolta'.
-
-Art. 129. - Al Seminario di urbanistica e' addetto un assistente il quale, oltre ai doveri inerenti al suo ufficio, avra' cura della biblioteca di esso.
-
-Art. 130. - Il Seminario predetto potra' eventualmente disporre di borse di studio che verranno conferite su proposta del Consiglio della Facolta' di architettura in base alle modalita' che saranno da esso stabilite.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Dogliani, addi' 29 ottobre 1954
-
-EINAUDI
-
-ERMINI
-
-Visto, il Guardasigilli: DE PIETRO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 14 marzo 1955 Atti del Governo, registro n. 89, foglio n. 95. - CARLOMAGNO
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regi decreti 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;1904); [4 maggio 1942, n. 557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-05-04;557); [5 settembre 1942, n. 1120; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-09-05;1120) [26 febbraio 1949, n. 612](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;612); [23 settembre 1949, n. 931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;931); [30 ottobre 1949, n. 1059](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1059); [5 aprile 1950, n. 284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-04-05;284); [30 ottobre 1950, n. 1277](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1277); [31 ottobre 1950, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1311); [18 aprile 1951, n. 934](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;934); [30 luglio 1951, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-07-30;1304); [27 ottobre 1951, n. 1680](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1680); [19 settembre 1952, n. 4551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-19;4551); [25 agosto 1953, n. 1117](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;1117); [26 aprile 1954, n. 738](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;738); [30 giugno 1954, n. 753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;753); [31 luglio 1954, n. 865](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-07-31;865) e [24 agosto 1954, n. 987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-08-24;987);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica, istruzione;  
+Dopo l'art. 62, con il conseguente scorrimento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione dell'istituto polidisciplinare di diritto privato:  
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Dopo l'art. 125 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione del Seminario di urbanistica presso la Facolta' di architettura, col conseguente spostamento degli articoli successivi.  
-Art. 126. - Presso la Facolta' di architettura e' istituito il Seminario di urbanistica, che si propone di eseguire indagini, studi e ricerche di carattere urbanistico, demografico, geografico, storico e tecnico e compilare e utilizzare statistiche per la preparazione dei piani urbanistici.  
-A tale fine saranno ammessi a frequentare il Seminario coloro che siano in possesso di una laurea conferita dalle Universita' e dagli Istituti superiori della Repubblica ed i laureandi in architettura, e in ingegneria.  
-Art. 127. - Il Seminario avra' una sua biblioteca specializzata che, coordinata con la biblioteca della Facolta' di architettura, funzionera' come filiazione di essa.  
-Art. 128. - La direzione del Seminario di urbanistica sara' affidata ad un professore di ruolo o fuori ruolo della Facolta' di architettura nominato, per un triennio, dal rettore su proposta del Consiglio di Facolta'.  
-Art. 129. - Al Seminario di urbanistica e' addetto un assistente il quale, oltre ai doveri inerenti al suo ufficio, avra' cura della biblioteca di esso.  
-Art. 130. - Il Seminario predetto potra' eventualmente disporre di borse di studio che verranno conferite su proposta del Consiglio della Facolta' di architettura in base alle modalita' che saranno da esso stabilite.  
+Istituto polidisciplinare di diritto privato  
+Art. 63. - E' costituito presso la facolta' di giurisprudenza l'istituto polidisciplinare di diritto privato. Esso raggruppa le cattedre di: istituzioni di diritto privato; di diritto civile; di diritto privato comparato; di diritto di famiglia; di diritto agrario; di diritto fallimentare; di diritto d'autore.  
+Art. 64. - L'istituto svolge le attivita' didattiche e di ricerca previste dalla normativa legislativa e regolamentare vigente; cura le pubblicazioni di studi e ricerche, promuove ed organizza seminari, conferenze ed ogni altra iniziativa scientifica, didattica e culturale nelle discipline afferenti.  
+Art. 65. - L'istituto ha sede nei locali messi a sua disposizione dall'Universita'. Esso dispone della biblioteca della facolta' e di proprie raccolte bibliografiche specializzate.  
+Art. 66. - L'istituto disporra' della dotazione da parte dell'Universita' e da parte della facolta' di giurisprudenza, nonche' di ogni altra eventuale erogazione straordinaria di enti pubblici e privati.  
+Art. 67. - L'istituto utilizza il personale assegnato alle cattedre di cui all'art. 1 ed altro eventuale che l'Universita' o il Ministero assegnera'.  
+Art. 68. - Gli organi dell'istituto sono il direttore e il consiglio di istituto. La costituzione, le attribuzioni e le attivita' degli organi suddetti, per quanto non espressamente previsto dallo statuto, sono disciplinati dalla normativa disciplinare e regolamentare vigente.  
+Art. 69. - Studenti e studiosi di altre facolta' o universita' possono frequentare l'istituto su autorizzazione del direttore.  
+Art. 70. - I frequentatori dell'istituto dovranno riferire almeno ogni due mesi al direttore, oppure a chi sia stato a cio' delegato sugli studi e le ricerche che vanno effettuando. Essi dovranno osservare le norme disciplinari e didattiche contenute nel regolamento interno e le altre disposizioni impartite dal direttore.  
+Art. 71. - Il direttore potra' sospendere o escludere dalla frequenza dell'istituto con provvedimento motivato chi commetta gravi infrazioni. Avverso il provvedimento potra' il colpito reclamare nei termini e modi di legge alle competenti autorita' accademiche.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Dogliani, addi' 29 ottobre 1954
+### Dato a Roma, addi' 11 ottobre 1984
 
-EINAUDI ERMINI
+PERTINI
 
-Visto, il Guardasigilli: DE PIETRO
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 14 marzo 1955
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Atti del Governo, registro n. 89, foglio n. 95. - CARLOMAGNO
+Registrato alla Corte dei conti, addi' 30 gennaio 1985
+
+Registro n. 4 Istruzione, foglio n. 326

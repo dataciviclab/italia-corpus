@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1983 n. 869
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1984 n. 1200
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1983 n. 869
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1984 n. 1200
+===============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Ancona.
 ------------------------------------------------------------------
@@ -39,19 +39,39 @@ Articolo unico
 --------------
 
   
-Art. 20 - nell'art. 20, relativo all'ordinamento degli studi del corso di laurea in odontoiatria e protesi dentaria, sono soppressi tutti gli asterischi posti agli insegnamenti fondamentali del biennio e agli insegnamenti complementari.  
-Nello stesso articolo, inoltre, e' soppressa la frase: dopo l'elenco degli insegnamenti complementari e il terzo comma.  
+  
+Art. 14 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti insegnamenti:   
+tecnica e diagnostica delle autopsie;   
+enzimologia;   
+metodologia biochimica;   
+istochimica patologica;   
+terapia medica;   
+medicina dello sport;   
+angiologia;   
+tossicologia forense;   
+ematologia forense;   
+auxologia;   
+oncologia pediatrica;   
+gastroenterologia pediatrica;   
+fisiopatologia chirurgica;   
+metodologia clinica;   
+
+((fisiopatologia medica))
+
+.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservare e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 ottobre 1983
+### Dato a Roma, addi' 30 ottobre 1984
 
-PERTINI FALCUCCI
+PERTINI
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 18 gennaio 1984
+Registrato alla Corte dei conti, addi' 20 maggio 1985
 
-Registro n. 2 Istruzione, foglio n. 195
+Registro n. 33 Istruzione, foglio n. 68

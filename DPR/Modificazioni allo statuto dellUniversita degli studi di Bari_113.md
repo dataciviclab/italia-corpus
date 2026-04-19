@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 751
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 823
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 751
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 823
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,748 +20,169 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 192 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono apportate le seguenti modifiche:
+Art. 174 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in farmacologia clinica.
 
-La scuola di specializzazione in allergologia e immunologia clinica muta la denominazione in quella di scuola di specializzazione in allergologia.
+L'art. 192, relativo alla scuola di specializzazione in psichiatria, e' modificato nel senso che il quarto comma e' abrogato e sostituito dal seguente:
 
-La scuola di specializzazione in ematologia clinica e di laboratorio muta la denominazione in quella di scuola di specializzazione in ematologia generale.
+"Il numero degli iscritti non potra' superare quello massimo di trentadue (32) per i complessivi quattro anni di corso".
 
-La scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale muta la denominazione in quella di scuola di specializzazione in otorinolaringoiatria.
+Dopo l'art. 223 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in farmacologia clinica:
 
-La scuola di specializzazione in allergologia e immunologia clinica di cui agli articoli 203, 204, 205, 206, muta la denominazione in quella di scuola di specializzazione in allergologia.
+Scuola di specializzazione in farmacologia clinica
 
-La scuola di specializzazione in ematologia clinica e di laboratorio di cui agli articoli 224, 225, 226, 227, muta la denominazione in quella di scuola di specializzazione in ematologia generale.
+Art. 224. - La scuola di specializzazione ha sede presso l'istituto di farmacologia. La scuola ha la durata di tre anni. Il direttore della scuola e' professore di ruolo in farmacologia. In sua assenza il direttore e' nominato dal consiglio di facolta', sentito il parere dei docenti del corso. Gli insegnamenti sono ripartiti in tre anni e vi possono accedere i laureati in medicina e chirurgia.
 
-L'art. 235, relativo alla scuola di specializzazione in igiene e medicina preventiva, e' soppresso e sostituito dal seguente:
-
-Scuola di specializzazione in igiene e medicina preventiva
-
-Art. 235. - La scuola di specializzazione in igiene e medicina preventiva ha sede presso l'istituto di igiene e conferisce il diploma di specialista in igiene e medicina preventiva.
-
-La direzione della scuola e' affidata al professore di ruolo della stessa materia della specializzazione, o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
-
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.
-
-E' richiesto, almeno all'inizio del corso, il possesso del diploma - di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
-
-Art. 236. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
-
-Art. 237. - Il numero massimo degli allievi e' di venti per anno di corso e complessivamente di ottanta iscritti per l'intero corso di studi.
-
-Art. 238. - L'ammissione al corso avviene per titoli ed esami.
-
-Art. 239. - Il corso si articola in un biennio propedeutico seguito da un biennio differenziato con cinque orientamenti e precisamente:
-
-a) sanita' pubblica;
-
-b) igiene e tecnica ospedaliera;
-
-c) igiene del lavoro;
-
-d) igiene e medicina scolastica;
-
-e) laboratorio.
-
-Art. 240. - Il piano di studi e' il seguente:
-
-PRIMO BIENNIO
+Art. 225. - Le materie di insegnamento sono le seguenti:
 
 1° Anno:
 
-metodologia statistica e biometria;
+Farmacologia generale;
 
-educazione sanitaria;
+Farmacologia sperimentale speciale (del circolo, del S.N. dell'apparato gastroenterico, renale, dell'apparato respiratorio, ecc.);
 
-psicologia;
+Endocrinologia;
 
-microbiologia ed immunologia I;
+Microbiologia e chemioterapia;
 
-parassitologia;
-
-epidemiologia generale e metodologia;
-
-profilassi generale;
-
-sociologia medica e antropologia culturale.
+Tossicologia sperimentale.
 
 2° Anno:
 
-microbiologia e immunologia II;
+Tecnica farmacologica;
 
-patologia e clinica delle malattie infettive;
+Tecnica farmaceutica;
 
-epidemiologia e profilassi delle malattie infettive I;
+Farmacocinetica sperimentale;
 
-patologia e clinica delle malattie non infettive di importanza sociale;
+Farmacogenetica;
 
-epidemiologia e profilassi delle malattie non infettive di importanza sociale I;
+Statistica e biometria medica;
 
-demografia e statistica sanitaria;
-
-legislazione e programmazione sanitaria.
-
-SECONDO BIENNIO
-
-a) Orientamento di "sanita' pubblica":
+Tossicologia clinica.
 
 3° Anno:
 
-epidemiologia e profilassi delle malattie infettive II;
+Farmacocinetica clinica;
 
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
+Tecniche d'indagine chimico-biologiche;
 
-igiene dell'ambiente fisico e difesa ecologica;
+Tecniche d'indagine fisico-chimiche;
 
-igiene degli alimenti e della nutrizione;
+Tecniche d'indagine radio-isotopiche;
 
-igiene dell'eta' evolutiva;
+Impiego di computers in biologia e clinica;
 
-igiene del lavoro;
+Medicina legale;
 
-igiene ed assistenza dell'anziano.
+Organizzazione e legislazione ospedaliera.
 
-4° Anno:
+Art. 226. - Gli insegnamenti sono accompagnati da esercitazioni pratiche e da conferenze su argomenti attinenti alla farmacologia clinica.
 
-igiene edilizia e dell'aggregato urbano;
+Gli iscritti dovranno frequentare gli insegnamenti negli istituti di farmacologia con obbligo di servizio identico a quello di assistente volontario o per periodi continuativi prestabiliti.
 
-igiene ospedaliera;
+Compito del direttore sara' lo smistamento degli iscritti presso le cliniche attinenti alla scuola di specializzazione.
 
-organizzazione del territorio e programmazione sanitaria;
+Potra' venir fissato di anno in anno anche un periodo di internato che gli allievi dovranno passare in istituti italiani ed esteri.
 
-medicina di comunita';
+I docenti del corso possono chiedere l'iscrizione al corso seguente a quello da loro tenuto e puo' essere a loro consentita dal direttore l'iscrizione all'ultimo anno.
 
-economia sanitaria;
+Il numero massimo di allievi per ogni anno e' di 16 e possono iscriversi in soprannumero i docenti dei corsi precedenti o i titolari di cattedra universitaria.
 
-elementi di diritto amministrativo.
+Gli esami di profitto sono dati per gruppi alla fine di ciascun anno. Alla fine degli esami gli allievi dovranno presentare una tesi scritta e sostenere un esame di diploma.
 
-b) Orientamento di "igiene e tecnica ospedaliera":
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-3° Anno:
+Dato a Roma, addi' 31 ottobre 1974
 
-epidemiologia e profilassi delle malattie infettive II;
+LEONE
 
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
+MALFATTI
 
-igiene dell'ambiente fisico e difesa ecologica;
-
-igiene e tecnica delle costruzioni ospedaliere; arredamenti ed impianti tecnologici;
-
-igiene dell'alimentazione e dietetica ospedaliera;
-
-organizzazione e funzionamento degli ospedali I;
-
-elementi di diritto e legislazione ospedaliera.
-
-4° Anno:
-
-organizzazione e funzionamento degli ospedali II;
-
-compiti ed attribuzioni della direzione sanitaria;
-
-formazione professionale e compiti del personale ospedaliero;
-
-programmazione ospedaliera e medicina di comunita';
-
-assistenza psichiatrica;
-
-aspetti socio-sanitari dell'ospitalismo;
-
-aspetti economici della gestione ospedaliera.
-
-c) Orientamento di "igiene del lavoro":
-
-3° Anno:
-
-epidemiologia e profilassi delle malattie infettive II;
-
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
-
-igiene dell'ambiente fisico e difesa ecologica;
-
-epidemiologia e profilassi delle malattie del lavoro;
-
-tecnica ed economia degli impianti industriali;
-
-tossicologia industriale e diagnostica di laboratorio;
-
-elementi di fisica tecnica applicata all'igiene;
-
-igiene dell'ambiente di lavoro I.
-
-4° Anno:
-
-igiene dell'ambiente di lavoro II;
-
-elementi di diritto e legislazione del lavoro;
-
-psicologia del lavoro;
-
-prevenzione degli infortuni;
-
-politica del territorio ed insediamenti industriali;
-
-igiene del lavoro e medicina di comunita'.
-
-d) Orientamento di "igiene e medicina scolastica":
-
-3° Anno:
-
-epidemiologia e profilassi delle malattie non infettive II;
-
-epidemiologia e profilassi delle malattie infettive II;
-
-igiene dell'ambiente fisico e difesa ecologica;
-
-clinica delle malattie dell'eta' evolutiva;
-
-epidemiologia e profilassi delle malattie dell'eta' evolutiva;
-
-igiene degli alimenti e della nutrizione;
-
-auxologia normale e patologica;
-
-psicologia dell'eta' evolutiva.
-
-4° Anno:
-
-servizi di medicina scolastica;
-
-edilizia ed arredamento scolastico;
-
-elementi di pedagogia;
-
-assistenza parascolastica;
-
-educazione sanitaria nella scuola;
-
-legislazione scolastica;
-
-igiene mentale.
-
-e) Orientamento di "laboratorio":
-
-3° Anno:
-
-epidemiologia e profilassi delle malattie infettive II;
-
-epidemiologia e profilassi delle malattie non infettive II;
-
-igiene dell'ambiente fisico e difesa ecologica;
-
-metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale I;
-
-metodi e dosaggi biologici per il controllo dell'inquinamento ambientale;
-
-strumentazione e metodologie chimico-cliniche ed ematologiche I; microscopia applicata all'igiene;
-
-elementi di fisica tecnica applicata all'igiene;
-
-accertamento diagnostico delle malattie infettive e parassitarie I.
-
-4° Anno:
-
-metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale II;
-
-accertamento diagnostico delle malattie infettive e parassitarie II;
-
-strumentazione e metodologie chimico-cliniche ed ematologiche II;
-
-ispezione e controllo degli alimenti;
-
-elementi di informatica.
-
-Gli esami relativi alle discipline svolte con insegnamento biennale verranno sostenute alla fine di detti insegnamenti. I corsi saranno completati da insegnamenti complementari scelti dalla scuola tra i seguenti:
-
-Materie complementari:
-
-automazione del sistema ospedaliero;
-
-biochimica applicata;
-
-climatologia;
-
-diritto sanitario internazionale;
-
-elementi di medicina legale;
-
-genetica umana;
-
-geologia applicata all'igiene;
-
-idrologia;
-
-igiene dei climi tropicali;
-
-igiene dei trasporti;
-
-igiene militare;
-
-igiene rurale;
-
-istituzioni di matematiche;
-
-micologia;
-
-radioprotezionistica.
-
-A giudizio della scuola possono essere indicati come complementari anche altri insegnamenti regolarmente attivati nei corsi di laurea di ciascuna Universita'.
-
-I corsi saranno integrati da un tirocinio pratico di durata comunque non inferiore a tre mesi, da svolgersi durante il secondo biennio.
-
-Art. 241. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
-
-Art. 242. - Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno; per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
-
-Al termine del corso di studi per il conseguimento del diploma di specialista in igiene e medicina preventiva, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
-
-Gli articoli 243, 244, relativi alla scuola di specializzazione in medicina nucleare, sono soppressi e sostituiti dai seguenti:
-
-Scuola di specializzazione in medicina nucleare
-
-Art. 243. - La scuola di specializzazione in medicina nucleare ha sede presso l'istituto di medicina nucleare ed e' diretta da un professore di ruolo o fuori ruolo della stessa materia o, in carenza, di materie affini.
-
-Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso del diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione. Non sono ammesse abbreviazioni di corso.
-
-La scuola conferisce il diploma di specialista in medicina nucleare. Gli anni di studio necessari per conseguire questo titolo sono tre.
-
-Il primo anno di corso e' identico a quello della scuola di specializzazione in radiologia ed e' da essa mutuabile.
-
-Art. 244. - Gli insegnamenti per il conseguimento del diploma di specialista in medicina nucleare sono cosi' distribuiti nei tre anni di corso:
-
-1° Anno (comune alla specializzazione in radiodiagnostica e radioterapia oncologica):
-
-a) fisica: con richiami di matematica, nozioni di statistica, informatica e dosimetria;
-
-b) radiobiologia, legislazione e norme generali di radioprotezione;
-
-c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione ed archiviazione;
-
-d) nozioni di anatomia e fisiologia generale.
-
-2° Anno:
-
-a) teoria dei tracciati;
-
-b) elementi di radiochimica;
-
-c) applicazioni di diagnostica I;
-
-d) tecniche di misure di radioattivita'.
-
-3° Anno:
-
-a) applicazioni diagnostiche II;
-
-b) applicazioni terapeutiche;
-
-c) radioprotezione e legislazione applicate.
-
-I singoli insegnamenti saranno tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento.
-
-Il numero di iscritti in corso alla scuola e' di nove.
-
-La frequenza e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei. L'insegnamento verra' svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti a specialisti, ecc. Gli allievi per essere ammessi a sostenere gli esami delle singole materie dovranno avere la firma di frequenza da parte del direttore della scuola stessa. Gli allievi al termine di ogni anno dovranno superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.
-
-Gli allievi per conseguire il diploma di specializzazione, oltre ad essere stati approvati in tutti gli esami, dovranno elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.
-
-La scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale di cui all'art. 252 muta la denominazione in quella di scuola di specializzazione in otorinolaringoiatria.
-
-L'art. 259, relativo alla scuola di specializzazione in radiologia e' soppresso e sostituito dal seguente:
-
-Scuola di specializzazione in radiologia
-
-Art. 259. - La scuola di specializzazione in radiologia ha sede presso l'istituto di radiologia ed e' diretta da un professore di ruolo o fuori ruolo della stessa materia o, in carenza, di materia affine. Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso di diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione per titoli ed esami.
-
-Non sono ammesse abbreviazioni di corso.
-
-La scuola conferisce i seguenti diplomi:
-
-a) diploma di specializzazione in radiodiagnostica.
-
-Gli anni di studio necessari per conseguire questo titolo sono quattro;
-
-b) diploma di specializzazione in radioterapia oncologica.
-
-Gli anni di studio necessari per conseguire questo titolo sono quattro.
-
-La scuola ha un tronco comune di due anni identico per i diplomi di radiodiagnostica e radioterapia oncologica.
-
-Gli insegnamenti per il diploma di specialista in radiodiagnostica sono cosi' distribuiti nei quattro anni di corso:
-
-1° Anno (comune alla specializzazione in radioterapia oncologica):
-
-a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);
-
-b) radiobiologia, legislazione e norme generali di radioprotezione;
-
-c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;
-
-d) nozioni di anatomia e fisiologia generale.
-
-2° Anno (comune alla radioterapia oncologica):
-
-a) anatomia patologica;
-
-b) apparecchiature e tecniche radiologiche;
-
-c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);
-
-d) radiopatologia;
-
-e) dosimetria applicata.
-
-3° Anno:
-
-a) tecniche speciali e relativa semeiotica I;
-
-b) radiodiagnostica speciale dei vari organi ed apparati I.
-
-4° Anno:
-
-a) tecniche speciali e relativa semeiotica (termografia, ecografia, xerografia, TAC) II;
-
-b) radiodiagnostica speciale dei vari organi ed apparati II.
-
-Gli insegnamenti per il diploma di specialista in radioterapia oncologica sono cosi' distribuiti nei quattro anni di corso:
-
-1° Anno (comune alla specializzazione in radiodiagnostica):
-
-a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);
-
-b) radiobiologia, legislazione e norme generali di radioprotezione;
-
-c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione, archiviazione;
-
-d) nozioni di anatomia e fisiologia generale.
-
-2° Anno (comune a radiodiagnostica):
-
-a) anatomia patologica;
-
-b) apparecchiature e tecniche radiologiche;
-
-c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);
-
-d) radiopatologia;
-
-e) dosimetria applicata.
-
-3° Anno:
-
-a) oncologia generale;
-
-b) oncologia clinica I;
-
-c) tecniche radioterapiche.
-
-4° Anno:
-
-a) oncologia clinica II;
-
-b) fondamenti di terapia chirurgica dei tumori;
-
-c) radioterapia clinica;
-
-d) trattamento del canceroso in fase avanzata.
-
-I singoli insegnamenti saranno tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento.
-
-Il numero massimo di iscritti in corso alla scuola e' di quaranta da ripartirsi annualmente fra i vari corsi di diploma previsti dall'art. 2.
-
-La frequenza pratica (internato) e' obbligatoria e deve avvenire in reparti riconosciuti idonei.
-
-L'insegnamento verra' svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti, ecc. Gli allievi per essere ammessi a sostenere gli esami delle singole materie, dovranno avere la firma di frequenza da parte del direttore della scuola stessa. Gli allievi al termine di ogni anno dovranno superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.
-
-Per conseguire il diploma di specializzazione, gli allievi, oltre ad essere stati approvati in tutti gli esami, dovranno elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.
-
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e de decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 12 settembre 1978
-
-PERTINI
-
-PEDINI
-
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 16 novembre 1978 Registro n. 122 Istruzione, foglio n. 44
+alla Corte dei conti, addi' 27 gennaio 1975 Atti di Governo, registro n. 8, foglio n. 61
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 192 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono apportate le seguenti modifiche:   
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 174 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in farmacologia clinica.  
+L'art. 192, relativo alla scuola di specializzazione in psichiatria, e' modificato nel senso che il quarto comma e' abrogato e sostituito dal seguente:  
+"Il numero degli iscritti non potra' superare quello massimo di trentadue (32) per i complessivi quattro anni di corso".  
+Dopo l'art. 223 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in farmacologia clinica:  
   
-La scuola di specializzazione in allergologia e immunologia clinica muta la denominazione in quella di scuola di specializzazione in allergologia.   
-La scuola di specializzazione in ematologia clinica e di laboratorio muta la denominazione in quella di scuola di specializzazione in ematologia generale.   
-La scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale muta la denominazione in quella di scuola di specializzazione in otorinolaringoiatria.   
-La scuola di specializzazione in allergologia e immunologia clinica di cui agli articoli 203, 204, 205, 206, muta la denominazione in quella di scuola di specializzazione in allergologia.   
-La scuola di specializzazione in ematologia clinica e di laboratorio di cui agli articoli 224, 225, 226, 227, muta la denominazione in quella di scuola di specializzazione in ematologia generale.   
-L'art. 235, relativo alla scuola di specializzazione in igiene e medicina preventiva, e' soppresso e sostituito dal seguente:   
+Scuola di specializzazione in farmacologia clinica  
+Art. 224. - La scuola di specializzazione ha sede presso l'istituto di farmacologia. La scuola ha la durata di tre anni. Il direttore della scuola e' professore di ruolo in farmacologia. In sua assenza il direttore e' nominato dal consiglio di facolta', sentito il parere dei docenti del corso. Gli insegnamenti sono ripartiti in tre anni e vi possono accedere i laureati in medicina e chirurgia.  
+Art. 225. - Le materie di insegnamento sono le seguenti:  
   
-Scuola di specializzazione in igiene e medicina preventiva   
-Art. 235. - La scuola di specializzazione in igiene e medicina preventiva ha sede presso l'istituto di igiene e conferisce il diploma di specialista in igiene e medicina preventiva.   
-La direzione della scuola e' affidata al professore di ruolo della stessa materia della specializzazione, o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma - di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-Art. 236. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
-Art. 237. - Il numero massimo degli allievi e' di venti per anno di corso e complessivamente di ottanta iscritti per l'intero corso di studi.   
-Art. 238. - L'ammissione al corso avviene per titoli ed esami.   
-Art. 239. - Il corso si articola in un biennio propedeutico seguito da un biennio differenziato con cinque orientamenti e precisamente:   
-a) sanita' pubblica;   
-b) igiene e tecnica ospedaliera;   
-c) igiene del lavoro;   
-d) igiene e medicina scolastica;   
-e) laboratorio.   
-Art. 240. - Il piano di studi e' il seguente:   
+1° Anno:  
+Farmacologia generale;  
+Farmacologia sperimentale speciale (del circolo, del S.N. dell'apparato gastroenterico, renale, dell'apparato respiratorio, ecc.);  
+Endocrinologia;  
+Microbiologia e chemioterapia;  
+Tossicologia sperimentale.  
   
-PRIMO BIENNIO   
+2° Anno:  
+Tecnica farmacologica;  
+Tecnica farmaceutica;  
+Farmacocinetica sperimentale;  
+Farmacogenetica;  
+Statistica e biometria medica;  
+Tossicologia clinica.  
   
-1° Anno:   
-metodologia statistica e biometria;   
-educazione sanitaria;   
-psicologia;   
-microbiologia ed immunologia I;   
-parassitologia;   
-epidemiologia generale e metodologia;   
-profilassi generale;   
-sociologia medica e antropologia culturale.   
-2° Anno:   
-microbiologia e immunologia II;   
-patologia e clinica delle malattie infettive;   
-epidemiologia e profilassi delle malattie infettive I;   
-patologia e clinica delle malattie non infettive di importanza sociale;   
-epidemiologia e profilassi delle malattie non infettive di importanza sociale I;   
-demografia e statistica sanitaria;   
-legislazione e programmazione sanitaria.   
+3° Anno:  
+Farmacocinetica clinica;  
+Tecniche d'indagine chimico-biologiche;  
+Tecniche d'indagine fisico-chimiche;  
+Tecniche d'indagine radio-isotopiche;  
+Impiego di computers in biologia e clinica;  
+Medicina legale;  
+Organizzazione e legislazione ospedaliera.  
   
-SECONDO BIENNIO   
-  
-a) Orientamento di "sanita' pubblica":   
-3° Anno:   
-epidemiologia e profilassi delle malattie infettive II;   
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
-igiene dell'ambiente fisico e difesa ecologica;   
-igiene degli alimenti e della nutrizione;   
-igiene dell'eta' evolutiva;   
-igiene del lavoro;   
-igiene ed assistenza dell'anziano.   
-4° Anno:   
-igiene edilizia e dell'aggregato urbano;   
-igiene ospedaliera;   
-organizzazione del territorio e programmazione sanitaria;   
-medicina di comunita';   
-economia sanitaria;   
-elementi di diritto amministrativo.   
-b) Orientamento di "igiene e tecnica ospedaliera":   
-3° Anno:   
-epidemiologia e profilassi delle malattie infettive II;   
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
-igiene dell'ambiente fisico e difesa ecologica;   
-igiene e tecnica delle costruzioni ospedaliere; arredamenti ed impianti tecnologici;   
-igiene dell'alimentazione e dietetica ospedaliera;   
-organizzazione e funzionamento degli ospedali I;   
-elementi di diritto e legislazione ospedaliera.   
-4° Anno:   
-organizzazione e funzionamento degli ospedali II;   
-compiti ed attribuzioni della direzione sanitaria;   
-formazione professionale e compiti del personale ospedaliero;   
-programmazione ospedaliera e medicina di comunita';   
-assistenza psichiatrica;   
-aspetti socio-sanitari dell'ospitalismo;   
-aspetti economici della gestione ospedaliera.   
-c) Orientamento di "igiene del lavoro":   
-3° Anno:   
-epidemiologia e profilassi delle malattie infettive II;   
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
-igiene dell'ambiente fisico e difesa ecologica;   
-epidemiologia e profilassi delle malattie del lavoro;   
-tecnica ed economia degli impianti industriali;   
-tossicologia industriale e diagnostica di laboratorio;   
-elementi di fisica tecnica applicata all'igiene;   
-igiene dell'ambiente di lavoro I.   
-4° Anno:   
-igiene dell'ambiente di lavoro II;   
-elementi di diritto e legislazione del lavoro;   
-psicologia del lavoro;   
-prevenzione degli infortuni;   
-politica del territorio ed insediamenti industriali;   
-igiene del lavoro e medicina di comunita'.   
-d) Orientamento di "igiene e medicina scolastica":   
-3° Anno:   
-epidemiologia e profilassi delle malattie non infettive II;   
-epidemiologia e profilassi delle malattie infettive II;   
-igiene dell'ambiente fisico e difesa ecologica;   
-clinica delle malattie dell'eta' evolutiva;   
-epidemiologia e profilassi delle malattie dell'eta' evolutiva;   
-igiene degli alimenti e della nutrizione;   
-auxologia normale e patologica;   
-psicologia dell'eta' evolutiva.   
-4° Anno:   
-servizi di medicina scolastica;   
-edilizia ed arredamento scolastico;   
-elementi di pedagogia;   
-assistenza parascolastica;   
-educazione sanitaria nella scuola;   
-legislazione scolastica;   
-igiene mentale.   
-e) Orientamento di "laboratorio":   
-3° Anno:   
-epidemiologia e profilassi delle malattie infettive II;   
-epidemiologia e profilassi delle malattie non infettive II;   
-igiene dell'ambiente fisico e difesa ecologica;   
-metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale I;   
-metodi e dosaggi biologici per il controllo dell'inquinamento ambientale;   
-strumentazione e metodologie chimico-cliniche ed ematologiche I; microscopia applicata all'igiene;   
-elementi di fisica tecnica applicata all'igiene;   
-accertamento diagnostico delle malattie infettive e parassitarie I.   
-4° Anno:   
-metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale II;   
-accertamento diagnostico delle malattie infettive e parassitarie II;   
-strumentazione e metodologie chimico-cliniche ed ematologiche II;   
-ispezione e controllo degli alimenti;   
-elementi di informatica.   
-Gli esami relativi alle discipline svolte con insegnamento biennale verranno sostenute alla fine di detti insegnamenti. I corsi saranno completati da insegnamenti complementari scelti dalla scuola tra i seguenti:   
-Materie complementari:   
-automazione del sistema ospedaliero;   
-biochimica applicata;   
-climatologia;   
-diritto sanitario internazionale;   
-elementi di medicina legale;   
-genetica umana;   
-geologia applicata all'igiene;   
-idrologia;   
-igiene dei climi tropicali;   
-igiene dei trasporti;   
-igiene militare;   
-igiene rurale;   
-istituzioni di matematiche;   
-micologia;   
-radioprotezionistica.   
-A giudizio della scuola possono essere indicati come complementari anche altri insegnamenti regolarmente attivati nei corsi di laurea di ciascuna Universita'.   
-I corsi saranno integrati da un tirocinio pratico di durata comunque non inferiore a tre mesi, da svolgersi durante il secondo biennio.   
-Art. 241. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
-Art. 242. - Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno; per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in igiene e medicina preventiva, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
-Gli articoli 243, 244, relativi alla scuola di specializzazione in medicina nucleare, sono soppressi e sostituiti dai seguenti:   
-  
-Scuola di specializzazione in medicina nucleare   
-Art. 243. - La scuola di specializzazione in medicina nucleare ha sede presso l'istituto di medicina nucleare ed e' diretta da un professore di ruolo o fuori ruolo della stessa materia o, in carenza, di materie affini.   
-Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso del diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione. Non sono ammesse abbreviazioni di corso.   
-La scuola conferisce il diploma di specialista in medicina nucleare. Gli anni di studio necessari per conseguire questo titolo sono tre.   
-Il primo anno di corso e' identico a quello della scuola di specializzazione in radiologia ed e' da essa mutuabile.   
-Art. 244. - Gli insegnamenti per il conseguimento del diploma di specialista in medicina nucleare sono cosi' distribuiti nei tre anni di corso:   
-1° Anno (comune alla specializzazione in radiodiagnostica e radioterapia oncologica):   
-a) fisica: con richiami di matematica, nozioni di statistica, informatica e dosimetria;   
-b) radiobiologia, legislazione e norme generali di radioprotezione;   
-c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione ed archiviazione;   
-d) nozioni di anatomia e fisiologia generale.   
-2° Anno:   
-a) teoria dei tracciati;   
-b) elementi di radiochimica;   
-c) applicazioni di diagnostica I;   
-d) tecniche di misure di radioattivita'.   
-3° Anno:   
-a) applicazioni diagnostiche II;   
-b) applicazioni terapeutiche;   
-c) radioprotezione e legislazione applicate.   
-I singoli insegnamenti saranno tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento.   
-Il numero di iscritti in corso alla scuola e' di nove.   
-La frequenza e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei. L'insegnamento verra' svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti a specialisti, ecc. Gli allievi per essere ammessi a sostenere gli esami delle singole materie dovranno avere la firma di frequenza da parte del direttore della scuola stessa. Gli allievi al termine di ogni anno dovranno superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.   
-Gli allievi per conseguire il diploma di specializzazione, oltre ad essere stati approvati in tutti gli esami, dovranno elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.   
-La scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale di cui all'art. 252 muta la denominazione in quella di scuola di specializzazione in otorinolaringoiatria.   
-L'art. 259, relativo alla scuola di specializzazione in radiologia e' soppresso e sostituito dal seguente:   
-  
-Scuola di specializzazione in radiologia   
-Art. 259. - La scuola di specializzazione in radiologia ha sede presso l'istituto di radiologia ed e' diretta da un professore di ruolo o fuori ruolo della stessa materia o, in carenza, di materia affine. Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso di diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione per titoli ed esami.   
-Non sono ammesse abbreviazioni di corso.   
-La scuola conferisce i seguenti diplomi:   
-a) diploma di specializzazione in radiodiagnostica.   
-Gli anni di studio necessari per conseguire questo titolo sono quattro;   
-b) diploma di specializzazione in radioterapia oncologica.   
-Gli anni di studio necessari per conseguire questo titolo sono quattro.   
-La scuola ha un tronco comune di due anni identico per i diplomi di radiodiagnostica e radioterapia oncologica.   
-Gli insegnamenti per il diploma di specialista in radiodiagnostica sono cosi' distribuiti nei quattro anni di corso:   
-1° Anno (comune alla specializzazione in radioterapia oncologica):   
-a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);   
-b) radiobiologia, legislazione e norme generali di radioprotezione;   
-c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;   
-d) nozioni di anatomia e fisiologia generale.   
-2° Anno (comune alla radioterapia oncologica):   
-a) anatomia patologica;   
-b) apparecchiature e tecniche radiologiche;   
-c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);   
-d) radiopatologia;   
-e) dosimetria applicata.   
-3° Anno:   
-a) tecniche speciali e relativa semeiotica I;   
-b) radiodiagnostica speciale dei vari organi ed apparati I.   
-4° Anno:   
-a) tecniche speciali e relativa semeiotica (termografia, ecografia, xerografia, TAC) II;   
-b) radiodiagnostica speciale dei vari organi ed apparati II.   
-Gli insegnamenti per il diploma di specialista in radioterapia oncologica sono cosi' distribuiti nei quattro anni di corso:   
-1° Anno (comune alla specializzazione in radiodiagnostica):   
-a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);   
-b) radiobiologia, legislazione e norme generali di radioprotezione;   
-c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione, archiviazione;   
-d) nozioni di anatomia e fisiologia generale.   
-2° Anno (comune a radiodiagnostica):   
-a) anatomia patologica;   
-b) apparecchiature e tecniche radiologiche;   
-c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);   
-d) radiopatologia;   
-e) dosimetria applicata.   
-3° Anno:   
-a) oncologia generale;   
-b) oncologia clinica I;   
-c) tecniche radioterapiche.   
-4° Anno:   
-a) oncologia clinica II;   
-b) fondamenti di terapia chirurgica dei tumori;   
-c) radioterapia clinica;   
-d) trattamento del canceroso in fase avanzata.   
-I singoli insegnamenti saranno tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento.   
-Il numero massimo di iscritti in corso alla scuola e' di quaranta da ripartirsi annualmente fra i vari corsi di diploma previsti dall'art. 2.   
-La frequenza pratica (internato) e' obbligatoria e deve avvenire in reparti riconosciuti idonei.   
-L'insegnamento verra' svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti, ecc. Gli allievi per essere ammessi a sostenere gli esami delle singole materie, dovranno avere la firma di frequenza da parte del direttore della scuola stessa. Gli allievi al termine di ogni anno dovranno superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.   
-Per conseguire il diploma di specializzazione, gli allievi, oltre ad essere stati approvati in tutti gli esami, dovranno elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.   
+Art. 226. - Gli insegnamenti sono accompagnati da esercitazioni pratiche e da conferenze su argomenti attinenti alla farmacologia clinica.  
+Gli iscritti dovranno frequentare gli insegnamenti negli istituti di farmacologia con obbligo di servizio identico a quello di assistente volontario o per periodi continuativi prestabiliti.  
+Compito del direttore sara' lo smistamento degli iscritti presso le cliniche attinenti alla scuola di specializzazione.  
+Potra' venir fissato di anno in anno anche un periodo di internato che gli allievi dovranno passare in istituti italiani ed esteri.  
+I docenti del corso possono chiedere l'iscrizione al corso seguente a quello da loro tenuto e puo' essere a loro consentita dal direttore l'iscrizione all'ultimo anno.  
+Il numero massimo di allievi per ogni anno e' di 16 e possono iscriversi in soprannumero i docenti dei corsi precedenti o i titolari di cattedra universitaria.  
+Gli esami di profitto sono dati per gruppi alla fine di ciascun anno. Alla fine degli esami gli allievi dovranno presentare una tesi scritta e sostenere un esame di diploma.  
   
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e de decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 settembre 1978
+### Dato a Roma, addi' 31 ottobre 1974
 
-PERTINI PEDINI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 16 novembre 1978
+Registrato alla Corte dei conti, addi' 27 gennaio 1975
 
-Registro n. 122 Istruzione, foglio n. 44
+Atti di Governo, registro n. 8, foglio n. 61

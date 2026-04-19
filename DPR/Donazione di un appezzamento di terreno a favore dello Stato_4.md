@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 giugno 1969 n. 1332
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 maggio 1972 n. 409
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 giugno 1969 n. 1332
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 maggio 1972 n. 409
+=============================================================
 
 Donazione di un appezzamento di terreno a favore dello Stato.
 -------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1332. Decreto del Presidente della Repubblica 2 giugno 1969, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione disposta a favore dello Stato dall'amministrazione provinciale di Novara, con atto 31 gennaio 1968, repertorio n. 28856, a rogito notaio Manlio Ialenti di Galliate, di un appezzamento di terreno della superficie di mq. 10.640, sito in Novara, via Pietro Generale, da destinare alla costruzione della nuova caserma per i vigili del fuoco di Novara.  
+409. Decreto del Presidente della Repubblica 1 maggio 1972, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dall'Associazione nazionale fra mutilati ed invalidi del lavoro con atto 12 gennaio 1955, n. 13019 di repertorio, per notar Italo Gazzilli di Roma, della quota indivisa di meta' di un appezzamento di terreno di mq. 1270, sito in Parma, piazza Matteotti, sul quale e' stato costruito un edificio ad uso abitazione per mutilati ed invalidi del lavoro.   
   
-Visto, il Guardasigilli: GAVA  
-Registrato alla Corte dei conti, addi' 23 giugno 1970  
-Atti del Governo, registro n. 236, foglio n. 63. - CARUSO
+Visto, il Guardasigilli: GONELLA   
+Registrato alla Corte dei conti, addi' 31 luglio 1972 -   
+Atti del Governo, registro n. 250, foglio n. 94. - CARUSO

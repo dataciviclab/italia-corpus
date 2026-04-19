@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 marzo 1965 n. 442
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1115
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 marzo 1965 n. 442
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1115
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 14 ottobre 1926, n. 2133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2133) e modificato con [regio decreto 13 ottobre 1927, n. 2226](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2226) e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,162 +20,63 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso: L'art. 1 e' abrogato e sostituito dal seguente:
+Lo statuto dell'Universita' di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 1
-------
+Articolo unico
+--------------
 
   
-Facolta' di giurisprudenza con annessa Scuola di statistica;  
-Facolta' di scienze politiche;  
-Facolta' di economia e commercio;  
-Facolta' di lettere e filosofia;  
-Facolta' di magistero;  
-Facolta' di medicina e chirurgia;  
-Facolta' di scienze matematiche, fisiche e naturali;  
-Facolta' di farmacia;  
-Facolta' di ingegneria;  
-Facolta' di agraria.  
-E' aggregato all'Universita' di Padova l'Istituto sperimentale zooprofilattico delle Venezie.  
-L'art. 2 e' abrogato e sostituito dal seguente:  
-Art. 2. - I direttori dei Seminari sono nominati con le norme stabilite dall'art. 23 del regolamento generale universitario e dai regolamenti particolari che li riguardano, e durano in carica un biennio accademico.  
-Spetta al Consiglio di facolta' di designare il direttore di un Istituto policattedra ovvero di istituire sezioni in seno all'Istituto o, infine, di promuovere la costituzione di nuovi Istituti.  
-La Facolta' assegna le cattedre tra vari Istituti.  
-Art. 15, relativo al corso di laurea in Giurisprudenza, e' aggiunto il seguente comma: "Gli insegnamenti biennali, impartiti da due diversi professori ufficiali, a ciascuno dei quali sia attribuito un distinto anno di corso con proprio programma, comportano due esami separati".  
-Art. 42. - Agli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di:  
-Economia dei Paesi in via di sviluppo (in sostituzione di Economia coloniale);  
-Diritto delle Comunita' europee;  
-Ordinamenti giusprivatistici dei Paesi di lingua spagnola.  
-Art. 47. - Agli insegnamenti complementari del corso di laurea in Economia e commercio e' aggiunto quello di:  
-Storia delle dottrine economiche.  
-Art. 82. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di:  
-Istochimica patologica;  
-Medicina nucleare.  
-Art. 113. - Presso la Facolta' di scienze matematiche fisiche e naturali la denominazione dell'Osservatorio astrofisico di Asiago e' modificato in "Istituto di astronomia con annesso osservatorio astrofisico di Asiago".  
-Art. 132. - Agli insegnamenti complementari del corso di laurea in Farmacia e' aggiunto quello di Farmacia industriale.  
-Art. 139. - Agli Istituti annessi alla Facolta' di farmacia e' aggiunto il:  
-Seminario di scienze farmaceutiche  
-Seminario di scienze farmaceutiche  
-Art. 140. - Il Seminario di scienze farmaceutiche ha lo scopo di promuovere studi e ricerche nel campo delle discipline farmaceutiche pure ed applicate e di offrire la possibilita' ad allievi particolarmente distintisi nello studio e nella ricerca di raggiungere una piu' completa preparazione.  
-L'attivita' del Seminario si svolge per mezzo di conferenze, comunicazioni scientifiche, discussioni, dimostrazioni, viaggi di istruzione, corsi di preparazione e di aggiornamento e di quanto altro possa servire allo scopo su indicato.  
-Art. 141. - Del Seminario fanno parte tutti i professori di ruolo che compongono il Consiglio della Facolta' di farmacia, che costituiscono pure il Consiglio del Seminario.  
-Il direttore viene nominato dal rettore su proposta del Consiglio del Seminario.  
-Art. 142. - L'iscrizione al Seminario e' obbligatoria per gli studenti del III e IV corso della laurea in Farmacia, possono iscriversi anche laureati e laureandi fuori corso in Farmacia e anche gli studenti di altre Facolta' (nonche' laureati e diplomati).  
-Art. 143. - A tutti gli iscritti e' fatto obbligo di versare all'atto dell'iscrizione i contributi che vengono stabiliti dal Consiglio di amministrazione su proposta del Senato accademico, udito il Consiglio del Seminario.  
-Art. 145. - Agli iscritti al Seminario puo' essere rilasciato un certificato.  
-Art. 325, relativo alla Scuola di specializzazione in Malattie dell'apparato respiratorio e' abrogato e sostituito dal seguente:  
+Dopo l'art. 430 sono aggiunti i seguenti nuovi articoli:  
   
-Scuola di specializzazione in Malattie dell'apparato respiratorio  
-(Durata del corso anni 2)  
-1° Anno:  
-Anatomia normale dell'apparato respiratorio;  
-Fisiologia della respirazione;  
-Batteriologia ed immunologia;  
-Anatomia patologica dell'apparato respiratorio;  
-Semeiotica fisica e strumentale dell'apparato respiratorio;  
-Fisiologia;  
-Ciclica dell'apparato respiratorio.  
-2° Anno:  
-Anatomia patologica dell'apparato respiratorio;  
-Fisiopatologia respiratoria;  
-Clinica dell'apparato respiratorio;  
-Pneumopatie professionali;  
-Radiologia dell'apparato respiratorio;  
-Terapia delle affezioni dell'apparato respiratorio.  
-Il numero dei laureati ammessi ogni anno alla Scuola e' fissato ad un massimo di 20.  
-Internato in Clinica medica, oppure servizio come assistente effettivo per due anni in un sanatorio della Previdenza sociale o in un grande ospedale sanatoriale.  
-- relativo alla Scuola di specializzazione in Radiologia, l'ultimo comma e' abrogato e sostituito dal seguente:  
-"E' obbligatorio l'internato di due anni nell'istituto di radiologia dell'Universita'".  
-- relativo alla Scuola di specializzazione in Cardiologia e' abrogato e sostituito dal seguente:  
+Titolo XXIV  
+CENTRO PER LA STORIA DELL'UNIVERSITA' DI PADOVA  
   
-Scuola di specializzazione in Cardiologia  
-(durata del corso 2 anni)  
-1° Anno:  
-Clinica dell'apparato cardiovascolare (lezioni);  
-Morfologia normale dell'apparato cardiovascolare (conferenze);  
-Fisiologia dell'apparato cardiovascolare (conferenze);  
-Anatomia patologica dell'apparato cardiovascolare (conferenze);  
-Farmacologia dell'apparato cardiovascolare (conferenze);  
-Patologia dell'apparato cardiovascolare (lezioni);  
-Radiologia dell'apparato cardiovascolare (dimostrazioni);  
-Elettrofisiologia cardiaca (conferenze);  
-Emodinamica delle cardiopatie acquisite (conferenze);  
-Semeiotica fisica dell'apparato cardiovascolare (esercitazioni);  
-Elettrocardiografia (esercitazioni).  
-2° Anno:  
-Clinica dell'apparato cardiovascolare (lezioni);  
-Terapia chirurgica dell'apparato cardiovascolare (lezioni);  
-Terapia medica dell'apparato cardiovascolare (lezioni);  
-Patologia dell'apparato cardiovascolare (lezioni);  
-Radiologia dell'apparato cardiovascolare (dimostrazioni);  
-Elettrocardiografia clinica (esercitazioni);  
-Emodinamica delle cardiopatie congenite (conferenze);  
-Fonocardiografia e Poligrafia (conferenze);  
-Fisiopatologia del ricambio (conferenze);  
-Semeiologia dell'apparato cardiovascolare (esercitazioni);  
-Tecnica di registrazione (conferenze).  
-Il numero dei laureati ammessi ogni anno alla Scuola e' fissato ad un massimo di 40.  
-Alla Scuola diretta a fini speciali di preparazione per tecnici di laboratorio di Igiene e microbiologia e' aggiunta la:  
-  
-Scuola speciale di preparazione per tecnici di Fisio-chinesiterapia a) E' istituita presso l'Istituto di clinica ortopedici dell'Universita' di Padova, ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), una "Scuola di preparazione per tecnici fisio-chinesiterapisti", che ha lo scopo di preparare adeguatamente personale tecnico nel campo della fisio-chinesiterapia. La Scuola ha indirizzo teorico-pratico.  
-b) La durata del corso degli studi della Scuola di preparazione per tecnici fisioterapisti e' di due anni accademici.  
-E' titolo di ammissione il diploma di scuola media unica, il diploma di avviamento professionale, commerciale o industriale o agrario o ad altro indirizzo.  
-c) Al primo anno della Scuola si accede previo esame di cultura generale davanti ad una Commissione composta dal direttore della Scuola e da due insegnanti della Scuola stessa. L'esame di ammissione avra' luogo entro la prima quindicina del mese di ottobre di ciascun anno, in un giorno stabilito dalla Facolta' di medicina e chirurgia, su proposta del direttore della Scuola.  
-d) Il numero massimo dei partecipanti ammessi per ogni anno viene fissato in 20.  
-e) Il direttore della Scuola e' il direttore dell'Istituto di clinica ortopedica dell'universita' di Padova. La Scuola e' sotto la vigilanza della Facolta' di medicina e chirurgia. Gli insegnamenti della Scuola sono proposti dal direttore della stessa, approvati dalla Facolta' di medicina e chirurgia e nominati dal rettore. Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli aiuti ed assistenti della Facolta' di medicina e chirurgia o di altra Facolta' dell'Ateneo o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.  
-f) Le materie d'insegnamento sono le seguenti:  
-1° Anno  
-1) Anatomia dell'apparato locomotore;  
-2) Fisiologia dell'apparato locomotore;  
-3) Elementi di patologia dell'apparato locomotore (biennale);  
-4) Elementi di medicina generale;  
-5) Elementi di psicologia;  
-6) Massoterapia;  
-7) Termoterapia.  
-2° Anno:  
-1) Elementi di patologia dell'apparato locomotore (biennale);  
-2) Idroterapia e balneoterapia;  
-3) Fangoterapia e crenoterapia;  
-4) Elio-climatoterapia;  
-5) Elettroterapia;  
-6) Terapia radiante;  
-7) Ginnastica medica;  
-8) Rieducazione motoria;  
-9) Riabilitazione del motuleso, terapia di occupazione.  
-Ergoterapia.  
-g) Gli iscritti alla Scuola, hanno l'obbligo della frequenza del reparto di fisio-chinesiterapia della Clinica ortopedica per la durata di due anni, compiendo anche un tirocinio pratico nelle varie sezioni del reparto.  
-h) I programmi di insegnamento e gli orari vengono predisposti dal direttore della Scuola ed approvati dal Consiglio della Facolta' di medicina e chirurgia. La sorveglianza degli iscritti per quanto riguarda la loro attivita' pratica spetta al direttore della Scuola.  
-Assenze ingiustificate comportano l'esclusione dal corso.  
-Per essere ammessi a frequentare il secondo anno gli allievi devono aver sostenuto tutti gli esami del primo corso. Nel caso in cui gli allievi non abbiano superato gli esami prescritti essi rimarranno nella posizione di fuori corso fino a quando non avranno assolti gli obblighi di cui sopra.  
-i) Per essere ammessi a sostenere gli esami di diploma, gli allievi dovranno aver seguito i corsi, superato gli esami in tutti gli insegnamenti prescritti e avere compiuto con esito favorevole tutte le esercitazioni pratiche previste.  
-l) Le Commissioni per gli esami di profitto sono nominate dal preside della Facolta' di medicina e chirurgia su proposta del direttore della Scuola.  
-Le Commissioni sono composte di tre membri: dal professore ufficiale della materia, presidente; da un professore ufficiale di materia affine e da un libero docente o cultore della materia. Ogni commissario ha a disposizione dieci punti.  
-m) L'esame di diploma consiste in un esame orale sui temi trattati durante il corso ed in una prova pratica stabilita dalla Commissione esaminatrice.  
-L'esame di diploma viene sostenuto davanti una Commissione di cinque membri scelti tra i docenti della Scuola, nominata dal preside di Facolta' di medicina e chirurgia, su proposta del direttore della Scuola.  
-Ogni commissario ha a disposizione dieci punti.  
-I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza della Scuola ma se al secondo esame non sia loro riconosciuta, una idoneita', saranno senz'altro esclusi da ulteriori prove.  
-Agli allievi che avranno superato l'esame finale viene rilasciato il diploma di "tecnico fisio-chinesiterapista".  
+Art. 431. - Il centro per la storia dell'Universita' di Padova, con sede presso l'archivio antico dell'Universita' stessa, ha il fine di promuovere con rigore scientifico la conoscenza della storia dell'Universita' di Padova dalle origini ai nostri giorni e dei suoi rapporti con la cultura italiana ed europea.  
+Art. 432. - Per raggiungere questo fine il centro cura:  
+a) la conservazione, l'ordinamento, l'incremento e la consultazione degli archivi dell'Universita' nell'ambito delle vigenti disposizioni, nonche' la riproduzione in microfilms o con altri sistemi fotomeccanici, delle varie fonti manoscritte disperse in Italia e all'estero;  
+b) la conservazione, la riproduzione fotografica e la schedatura di epigrafi e qualsiasi cimelio, esistenti in sede e fuori sede;  
+c) la conservazione, l'incremento e la schedatura di una raccolta bibliografica specializzata e di una raccolta iconografica;  
+d) la conservazione, l'incremento e la schedatura del medagliere;  
+e) la promozione tra gli studenti universitari ed i giovani laureati di ricerche originali sulla storia dell'Universita', procurando e destinando i mezzi occorrenti allo scopo (quali i premi per le migliori tesi di laurea, borse di studio, i contributi di ricerca);  
+f) la pubblicazione di monografie e di quanto altro possa contribuire alla conoscenza della storia dell'Universita'.  
+Art. 433. - Al raggiungimento del suo fine istituzionale, mediante le attivita' di cui al precedente articolo, il centro provvede con lo stanziamento annualmente assegnatogli dal consiglio di amministrazione dell'Universita', oltre che con eventuali sovvenzioni di enti e di singoli, da iscrivere nel bilancio dell'Universita'.  
+Art. 434. - Sono organi del centro;  
+a) l'assemblea generale, presieduta dal rettore o da un suo delegato, inizialmente composta dai membri gia' facenti parte del comitato per la storia dell'Universita' di Padova, e successivamente integrata da docenti universitari e studiosi eletti dall'assemblea stessa fra coloro che abbiano contribuito o contribuiscano al progresso della conoscenza della storia dell'Universita' di Padova;  
+b) il direttore del centro, nominato dal rettore su designazione, a maggioranza assoluta, dall'assemblea generale, scelto tra i docenti dell'assemblea stessa;  
+c) il consiglio direttivo, presieduto dal direttore del centro, e composto oltre che dal direttore, da quattro consiglieri eletti a maggioranza assoluta dall'assemblea generale;  
+Il direttore e i consiglieri durano in carica tre anni e sono rieleggibili.  
+Sono competenze dell'assemblea:  
+a) l'approvazione della relazione scientifico-organizzativa per l'anno trascorso e dei programmi annuali o pluriennali di attivita' del centro, nonche' del rendiconto delle spese e del bilancio preventivo, presentati dal consiglio direttivo;  
+b) l'elezione dei nuovi membri dell'assemblea generale e dei membri elettivi del consiglio direttivo;  
+c) la proposta al consiglio direttivo di iniziative, attivita', collaborazioni, che piu' efficacemente contribuiscano al raggiungimento del fine proprio del centro.  
+Sono competenze del consiglio direttivo:  
+a) la predisposizione dei conti consuntivi e dei bilanci preventivi;  
+b) la redazione della relazione scientifico-organizzativa dell'anno trascorso e la formulazione dei programmi annuali o pluriennali di attivita' del centro.  
+Art. 435. - I programmi annuali e pluriennali di attivita' del centro sono approvati dall'assemblea generale su proposta del consiglio direttivo.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 marzo 1965
+### Dato a Roma, addi' 31 ottobre 1981
 
-SARAGAT GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 12 maggio 1965
+Registrato alla Corte dei conti, addi' 17 marzo 1982
 
-Atti del Governo, registro n. 193, foglio n. 41. - VILLA
+Registro n. 42 Istruzione, foglio n. 187

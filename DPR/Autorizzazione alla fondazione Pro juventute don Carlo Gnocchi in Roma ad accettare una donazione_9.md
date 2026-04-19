@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 84
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 1006
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 84
-===========================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 1006
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una donazione.
 ------------------------------------------------------------------------------------------------------
@@ -12,8 +12,12 @@ Art. 1
 
 N.
 
-84. Decreto del Presidente della Repubblica 2 marzo 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare la donazione, consistente nella quota di meta' dell'immobile sito nel comune di Lurate Caccivio, via Olgiate n. 11, distinto nel nuovo catasto edilizio urbano alla partita 265, foglio 6, mappale 2251 sub 1 e mappale 2251 sub 2, con la pertinente area di cortile, valore attribuito con perizia di parte lire 25.000.000 elevato dall'ufficio tecnico erariale di Como a L. 50.000.000: quota 1/2 = L. 25.000.000, disposta dalla sig.ra Maspero Pierina con atto pubblico 30 novembre 1973, n. 17253/1826 di repertorio, a rogito dott. Ferruccio Brambilla, notaio in Milano, registrato a Busto Arsizio in data 14 dicembre 1973 al n. 3185.  
+1006. Decreto del Presidente della Repubblica 11 ottobre 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la   
+fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene   
+autorizzata ad accettare la donazione, consistente nella quota di 2/6 di terreni siti nel comune di Cilavegna (Pavia), distinti nel nuovo catasto terreni alle partite 3784 e 2671, valore dichiarato con perizia di parte lire 160.000.000 elevato dall'ufficio tecnico erariale di Pavia a L. 68.000.000 (quota 2/6 = L. 22.666.666),   
+disposta dalla sig.ra Montanari Rita con atto in data 19 novembre 1981, n. 5576/902 di repertorio, a rogito dott. Ulderico Brambilla,   
+notaio in Milano, registrato a Milano in data 23 settembre 1981 al n. 23539.   
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 10 aprile 1984  
-Registro n. 3 Presidenza, foglio n. 344
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 25 gennaio 1985   
+Registro n. 1 Presidenza, foglio n. 179

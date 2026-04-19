@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 975
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1983 n. 999
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 975
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1983 n. 999
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Firenze.
@@ -39,15 +39,14 @@ Articolo unico
 --------------
 
   
-Nell'art. 84, relativo al corso di laurea in scienze geologiche, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-chimica fisica applicata;  
-paleontologia stratigrafica.  
+Nell'art. 59, relativo al corso di laurea in lingue e letterature straniere, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+letteratura francese moderna e contemporanea.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 giugno 1983
+### Dato a Roma, addi' 5 agosto 1983
 
 PERTINI FALCUCCI
 
@@ -55,4 +54,4 @@ Visto, il Guardasigilli: MARTINAZZOLI
 
 Registrato alla Corte dei conti, addi' 15 febbraio 1984
 
-Registro n. 8 Istruzione, foglio n. 75
+Registro n. 8 Istruzione, foglio n. 84

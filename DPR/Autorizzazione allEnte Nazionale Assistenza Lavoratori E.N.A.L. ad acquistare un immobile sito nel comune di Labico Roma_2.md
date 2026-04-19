@@ -1,19 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1963 n. 1757
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 novembre 1963 n. 1780
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1963 n. 1757
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 novembre 1963 n. 1780
+================================================================
 
-Autorizzazione all'Ente Nazionale Assistenza Lavoratori (E.N.A.L.) ad acquistare un immobile, sito nel comune di Labico (Roma).
--------------------------------------------------------------------------------------------------------------------------------
+Autorizzazione all'Ente Nazionale Assistenza Lavoratori (E.N.A.L.) ad acquistare un immobile sito nel comune di Labico (Roma).
+------------------------------------------------------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-1757. Decreto del Presidente della Repubblica 28 ottobre 1963, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Ente Nazionale Assistenza Lavoratori (E.N.A.L.) viene autorizzato ad acquistare dal sig. Bruschini Guglielmo, per il prezzo di L. 23.000, come da atto a rogito notaio dottor Orazio Trombetta di Roma, in data 19 ottobre 1960, repertorio n. 345, raccolta n. 146, un appezzamento di terreno di mq. 230, sito nel comune di Labico (Roma) contrada Santa Maria, su cui insiste parte della locale "Casa del Dopolavoro".  
+1780. Decreto del Presidente della Repubblica 11 novembre 1963, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Ente Nazionale Assistenza Lavoratori (E.N.A.L.) viene autorizzato ad acquistare dal sig. Mariani Ugo, per il prezzo di L. 20.000, un appezzamento di terreno, della superficie di metri quadri 230, sito nel comune di Labico (Roma), contrada Santa Maria, su cui insiste parte della locale "Casa del Dopolavoro".  
   
 Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 28 novembre 1963  
-Atti del Governo, registro n. 177, foglio n. 61. - VILLA
+Registrato alla Corte dei conti, addi' 9 dicembre 1963  
+Atti del Governo, registro n. 178, foglio n. 59. - VILLA

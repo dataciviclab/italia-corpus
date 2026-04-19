@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 619
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1976 n. 66
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 619
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1976 n. 66
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
@@ -12,9 +12,9 @@ Art. 1
 
 N.
 
-619. Decreto del Presidente della Repubblica 16 luglio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un appartamento sito in Parma, viale Rustici n. 42, distinto nel nuovo catasto edilizio urbano alla partita 5217, foglio 17, mappale 170 sub. 6, valore attribuito con perizia di parte L. 33.000.000 elevato dall'ufficio tecnico erariale di Parma a L. 39.000.000, disposto dalla sig.ra Giuseppina Carpi a favore dell'istituto don Gnocchi, via Saffi (che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione medesima in data 20 novembre 1981), con testamento olografo 25 agosto 1980, pubblicato in data 20 giugno 1981, n. 97910/11356 di repertorio, a rogito dott.  
-Giuseppe Marchi, notaio in Parma, registrato a Parma in data 1 luglio 1981 al n. 4813.   
+66. Decreto del Presidente della Repubblica 28 gennaio 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dal sig. Ettore Cavosi con testamento olografo 14 dicembre 1967, pubblicato a rogito dott.  
+Fabriano Rossi notaio in Cles (Trento), in data 12 dicembre 1972, n. 14075/2805 di repertorio, registrato a Cles il 2 gennaio 1973 con il n. 6, vol. 58, consistente nella somma di lire 16.146.875.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 25 ottobre 1985   
-Registro n. 9 Presidenza, foglio n. 215
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 13 marzo 1976  
+Atti di Governo, registro n. 4, foglio n. 11

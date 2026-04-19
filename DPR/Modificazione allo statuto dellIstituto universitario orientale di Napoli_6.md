@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 923
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1986 n. 222
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 923
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1986 n. 222
+===============================================================
 
 Modificazione allo statuto dell'Istituto universitario orientale di Napoli.
 ---------------------------------------------------------------------------
@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Istituto universitario orientale di Napoli, approvato con [regio decreto 24 ottobre 1941, n. 1616](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-24;1616), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -24,7 +24,7 @@ Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http:
 
 Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Istituto universitario anzidetto ai sensi della citata legge n. 615;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Istituto anzidetto ai sensi della citata legge n. 615;
 
 Veduto il parere del Consiglio universitario nazionale;
 
@@ -39,19 +39,21 @@ Articolo unico
 --------------
 
   
-Nell'art. 68, relativo al corso di laurea in scienze politiche per l'indirizzo storico politico, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-diritto pubblico dell'economia.  
+Nell'art. 30, relativo al corso di laurea in lingue e letterature straniere moderne, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+storia dei partiti e dei movimenti politici.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 luglio 1983
+### Dato a Roma, addi' 7 febbraio 1986
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 30 gennaio 1984
+Registrato alla Corte dei conti, addi' 10 maggio 1986
 
-Registro n. 5 Istruzione, foglio n. 11
+Registro n. 36 Istruzione, foglio n. 199

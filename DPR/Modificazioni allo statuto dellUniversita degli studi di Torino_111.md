@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1977 n. 1122
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 954
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1977 n. 1122
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 954
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -10,147 +10,70 @@ Modificazioni allo statuto dell'Universita' degli studi di Torino.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 214, 215, 216, 217, 218, 219, 220, 221, 222, 223 e 224, riguardanti la scuola di specializzazione in medicina del lavoro, sono soppressi e sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi:  
   
-L'art. 15, relativo al corso di laurea in scienze politiche, e' modificato nel senso che al secondo comma, dopo la lettera d) e' aggiunto, con la lettera e) l'indirizzo politico-amministrativo.   
-Il sesto comma, alla lettera b), e' modificato nel modo seguente:   
-b) per l'indirizzo politico-internazionale:   
-1) diritto internazionale pubblico;   
-2) organizzazione internazionale;   
-3) relazioni internazionali;   
-4) storia delle relazioni internazionali.   
-Nello stesso comma, dopo la lettera d) per l'indirizzo storico-politico, e' aggiunta la lettera e) per l'indirizzo politico-amministrativo:   
-1) diritto amministrativo;   
-2) istituzioni di diritto privato italiano e comparato;   
-3) istituzioni di diritto e procedura penale;   
-4) sociologia politica.   
-Nello stesso articolo l'elenco delle materie complementari e' soppresso e sostituito dal seguente:   
-analisi del linguaggio politico;   
-antropologia culturale;   
-antropologia criminale;   
-antropologia sociale;   
-contabilita' dello Stato e degli enti pubblici;   
-demografia;   
-diritto anglo-americano;   
-diritto commerciale;   
-diritto degli enti locali;   
-diritto delle comunicazioni internazionali;   
-diritto delle comunita' europee;   
-diritto dell'economia;   
-diritto diplomatico e consolare;   
-diritto finanziario;   
-diritto internazionale dell'economia;   
-diritto internazionale privato;   
-diritto del lavoro;   
-diritto regionale;   
-dottrina dello Stato;   
-econometria;   
-economia applicata;   
-economia aziendale;   
-economia degli enti e delle imprese locali;   
-economia dei Paesi socialisti;   
-economia del lavoro;   
-economia internazionale;   
-economia monetaria;   
-economia e politica agraria;   
-economia e politica industriale;   
-economia e politica del territorio;   
-finanza degli enti locali;   
-geografia e politica economica;   
-giustizia amministrativa;   
-governo locale;   
-istituzioni di economia politica;   
-istituzioni di politiche comparate;   
-legislazione sociale;   
-matematica economica;   
-organizzazione economica internazionale;   
-pianificazione e organizzazione del territorio;   
-politica comparata;   
-programmazione economica;   
-psicologia sociale;   
-ricerca operativa;   
-scienza della amministrazione;   
-servizio sociale;   
-sistema politico italiano;   
-sociologia delle comunicazioni;   
-sociologia della conoscenza;   
-sociologia del diritto;   
-sociologia economica;   
-sociologia dell'educazione;   
-sociologia della famiglia;   
-sociologia industriale;   
-sociologia del lavoro;   
-sociologia matematica e sociometria;   
-sociologia dell'organizzazione;   
-sociologia dello sviluppo;   
-sociologia religiosa;   
-sociologia rurale;   
-sociologia urbana;   
-storia dell'agricoltura;   
-storia dell'amministrazione pubblica;   
-storia dell'America settentrionale;   
-storia dell'America latina;   
-storia antica;   
-storia dell'Asia moderna e contemporanea;   
-storia della Chiesa;   
-storia del Cristianesimo nell'eta' moderna e contemporanea;   
-storia e istituzioni dell'Africa;   
-storia e istituzioni dell'Islam;   
-storia del diritto italiano;   
-storia dei diritti dell'antichita';   
-storia dell'economia pre-industriale;   
-storia dell'economia industriale;   
-storia economica dell'Italia unita;   
-storia del giornalismo;   
-storia delle dottrine economiche;   
-storia delle istituzioni politiche;   
-storia medioevale;   
-storia dei popoli slavi;   
-storia dei movimenti sindacali;   
-storia del movimento operaio;   
-storia dei partiti e dei movimenti politici;   
-storia del pensiero politico contemporaneo;   
-storia del pensiero politico classico;   
-storia del pensiero politico medioevale;   
-storia della storiografia;   
-storia dei rapporti tra Stato e Chiesa;   
-tecniche di ricerca e di elaborazione dei dati;   
-teorie dello sviluppo economico;   
-teoria dello sviluppo politico;   
-antropologia economica.   
-L'art. 99, relativo alle norme sulla propedeuticita' degli esami nel corso di laurea in farmacia, e' modificato nel senso che il primo comma e' sostituito dal seguente:   
+Scuola di specializzazione in medicina del lavoro  
   
-Lo studente non puo' iscriversi al laboratorio del 2° corso di esercitazioni di chimica farmaceutica e tossicologia se non ha superato l'esame di chimica generale ed inorganica; pertanto non puo' ottenere la firma di frequenza del suddetto corso.   
-Lo studente non puo' iscriversi al laboratorio del 3° corso, secondo semestre, di esercitazioni di chimica farmaceutica e tossicologia se non ha superato l'esame di chimica organica; pertanto non puo' ottenere la firma di frequenza del suddetto corso.   
-L'art. 103, relativo al corso di laurea in chimica e tecnologia farmaceutiche, e' modificato nel senso che prima del terzultimo comma sono inclusi i seguenti:   
-  
-Lo studente non puo' iscriversi al laboratorio del 1° corso di analisi chimico-farmaceutica (analisi qualitativa) se non ha superato l'esame di chimica generale ed inorganica; pertanto non puo' ottenere la firma di frequenza del suddetto corso.   
-Lo studente non puo' iscriversi al laboratorio del 3° corso di analisi chimico-farmaceutica (analisi dei medicamenti) se non ha superato l'esame di chimica organica I; pertanto non puo' ottenere la firma di frequenza del suddetto corso.   
+Art. 214. - La scuola di specializzazione in medicina del lavoro ha sede presso l'Istituto di clinica medica generale e terapia medica e conferisce il diploma di specialista in medicina del lavoro.  
+Art. 215. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Art. 216. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione allo esercizio professionale rilasciato dall'autorita' competente.  
+Art. 217. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.  
+Art. 218. - Il numero massimo degli allievi e' di quindici per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi.  
+Art. 219. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 220. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) igiene del lavoro (I corso);  
+2) fisiologia del lavoro ed ergonomia (I corso);  
+3) tecnologia industriale;  
+4) statistica medica e biometria;  
+5) tecniche di laboratorio.  
+2° Anno:  
+1) patologia e clinica delle malattie del lavoro (I corso);  
+2) igiene del lavoro (II corso);  
+3) fisiologia del lavoro ed ergonomia (II corso);  
+4) psicologia del lavoro;  
+5) tossicologia industriale.  
+3° Anno:  
+1) patologia e clinica delle malattie del lavoro (II corso);  
+2) prevenzione degli infortuni e delle malattie da lavoro (I corso);  
+3) epidemiologia delle malattie da lavoro;  
+4) radiobiologia e radioprotezione;  
+5) dermatologia professionale.  
+4° Anno:  
+1) patologia e clinica delle malattie del lavoro (III corso);  
+2) prevenzione degli infortuni e delle malattie da lavoro (II corso);  
+3) pronto soccorso;  
+4) medicina legale e delle assicurazioni;  
+5) organizzazione dei servizi di medicina e igiene del lavoro.  
+Gli esami delle discipline svolte in corsi pluriennali verranno sostenuti alla fine dell'ultimo corso.  
+Art. 221. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Art. 222. - Alla fine del corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie biennali o triennali l'esame sara' sostenuto alla fine del biennio o del triennio.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in medicina del lavoro, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana, E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 ottobre 1977
+### Dato a Roma, addi' 31 ottobre 1978
 
-LEONE MALFATTI
+PERTINI PEDINI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 27 febbraio 1978
+Registrato alla Corte dei conti, addi' 30 gennaio 1979
 
-Registro n. 24 Istruzione, foglio n. 75
+Registro n. 4 Istruzione, foglio n. 10

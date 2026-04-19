@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1971 n. 1278
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 settembre 1969 n. 721
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1971 n. 1278
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 settembre 1969 n. 721
+================================================================
 
 Autorizzazione all'Associazione italiana della croce rossa ad accettare una donazione.
 --------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1278. Decreto del Presidente della Repubblica 20 ottobre 1971, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa viene autorizzata ad accettare la donazione disposta a favore della dipendente delegazione di Marischio in Fabriano (Ancona) dai signori Andreoli Giuseppe, Duilia e Luigia con atto pubblico del 10 luglio 1969, n. 7828 di repertorio, a rogito notar Enrico Falsini in Fabriano; detta donazione e' costituita da un appezzamento di terreno, della superficie di mq. 360, sito in Fabriano (Ancona), distinto al catasto terreni del predetto comune alla sezione U, foglio V, n. 281-b, confinante con il terreno di proprieta' dell'associazione sul quale insiste l'immobile riattivato a colonia elioterapica.  
+721. Decreto del Presidente della Repubblica 1 settembre 1969, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa, viene autorizzata ad accettare la donazione di un immobile, sito in Sanremo, via G. Leopardi, distinto in catasto al foglio 21, mappale 1175, costituito da una villetta di 2 piani e vani 5 oltre gli accessori, con annesso terreno, del periziato valore di lire 10.180.000, disposta dalla signorina Dorato Fiora con atto del notaio Giacomo Birone di Sanremo datato 12 settembre 1961, rep. 48634 e con successivo atto di rettifica del notaio Traverso di Genova datato 7 febbraio 1963, rep. 129084.   
   
-Visto, il Guardasigilli: COLOMBO  
-Registrato alla Corte dei conti, addi' 26 gennaio 1972  
-Atti del Governo, registro n. 246, foglio n. 40. - VALENTINI
+Visto, il Guardasigilli: GAVA   
+Registrato alla Corte dei conti, addi' 21 ottobre 1969   
+Atti del Governo, registro n. 229, foglio n. 126. - CARUSO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 novembre 1975 n. 1009
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1975 n. 813
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 novembre 1975 n. 1009
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1975 n. 813
+==============================================================
 
 Recupero e nuova assegnazione di un posto di assistente ordinario.
 ------------------------------------------------------------------
@@ -10,13 +10,13 @@ Recupero e nuova assegnazione di un posto di assistente ordinario.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Visto il decreto ministeriale 2 luglio 1949, con il quale, fra l'altro, fu assegnato un posto di assistente ordinario alla cattedra di tecnica bancaria e professionale della facolta' di economia e commercio dell'Universita' di Torino;
+Visto il decreto ministeriale 2 luglio 1949, con il quale, fra l'altro, fu assegnato un posto di assistente ordinario alla cattedra di macchine della facolta' di ingegneria dell'Universita' degli studi di Napoli;
 
-Vista la lettera del 27 settembre 1975, n. 4372, con la quale il rettore dell'Ateneo ha comunicato che il posto in questione e' vacante dal 1 novembre 1971;
+Visto il telegramma n. 20031 del rettore dell'Ateneo napoletano dal quale risulta che il posto in questione e' vacante fin dal 1 novembre 1969 per la nomina a professore aggregato del titolare prof. Guido Jannelli;
 
-Considerato, pertanto, che non si e' provveduto alla copertura del posto nei termini fissati dall'ultimo comma dell'[art. 13 della legge 18 marzo 1958, n. 349](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-18;349~art13);
+Considerato pertanto che non si e' provveduto alla copertura del posto nei termini fissati dall'ultimo comma dell'[art. 13 della legge 18 marzo 1958, n. 349](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-18;349~art13);
 
-Ritenuto che per tale ragione siano venute meno le motivate esigenze didattiche e scientifiche che a suo tempo determinarono l'assegnazione del posto alla cattedra sopracitata;
+Ritenuto che per tale ragione siano venuti meno i motivi che a suo tempo determinarono l'assegnazione del posto alla cattedra in questione;
 
 Sulla
 -----
@@ -27,26 +27,24 @@ Art. 1
 ------
 
   
-  
-Il posto di assistente ordinario gia' assegnato con decreto ministeriale 2 luglio 1949 alla cattedra di tecnica bancaria e professionale della facolta' di economia e commercio dell'Universita' degli studi di Torino e' recuperato.   
+Il posto di assistente ordinario gia' assegnato con decreto ministeriale 2 luglio 1949 alla cattedra di macchine della facolta' di ingegneria dell'Universita' degli studi di Napoli, e' recuperato.
 
 Art. 2
 ------
 
   
-  
-Il posto di assistente ordinario di cui al precedente articolo e' assegnato alla cattedra di storia della filosofia medioevale della facolta' di lettere e filosofia dell'Universita' degli studi di Pavia.   
+Il posto di assistente ordinario di cui al precedente articolo e' assegnato alla seconda cattedra di farmacologia della facolta' di medicina e chirurgia della Universita' degli studi di Pavia.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 novembre 1975
+### Dato a Roma, addi' 13 ottobre 1975
 
 LEONE MALFATTI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 15 giugno 1976
+Registrato alla Corte dei conti, addi' 26 gennaio 1976
 
-Atti di Governo, registro n. 6, foglio n. 71
+Atti di Governo, registro n. 1, foglio n. 58

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 dicembre 1979 n. 813
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1982 n. 409
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 dicembre 1979 n. 813
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1982 n. 409
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-813. Decreto del Presidente della Repubblica 13 dicembre 1979, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita', consistente in beni mobili ed immobili del valore periziato di L. 484.448.643, disposta dalla signora Maria Castagnetti con testamento pubblico 6 dicembre 1974, n. 40 di repertorio, a rogito dott. Alberico Vegezzi, notaio in Piacenza, e registrato a Piacenza in data 30 dicembre 1974 al n. 6263, modello 71/M.  
+409. Decreto del Presidente della Repubblica 14 maggio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in beni immobili e mobili al netto delle passivita' per un importo di L. 97.800.271, disposta dal sig. Iriti Ignazio con testamento olografo 13 febbraio 1975, pubblicato in data 14 maggio 1979 numero 83824 di repertorio e n. 17662 di raccolta, a rogito dott. Edoardo Colozza, notaio in Roma, registrato a Roma il 18 maggio 1979 al n. 6255.  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 8 marzo 1980  
-Registro n. 2 Presidenza, foglio n. 188
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 30 giugno 1982  
+Registro n. 6 Presidenza, foglio n. 69

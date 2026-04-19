@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1951 n. 1377
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 dicembre 1969 n. 1113
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1951 n. 1377
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 dicembre 1969 n. 1113
+================================================================
 
 Autorizzazione all'Universita' di Napoli ad accettare un legato.
 ----------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1377. Decreto del Presidente della Repubblica 1 ottobre 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Napoli viene autorizzata ad accettare il legato della somma di L. 100.000 nominali del Consolidato 3,50% del Debito pubblico italiano, disposto in suo favore dal defunto prof. Gaetano Bernabeo, con testamento olografo 15 settembre 1934, per l'istituzione di un premio di studio da intitolarsi al medesimo e da conferirsi annualmente ad un giovane dottore abruzzese di nascita che abbia frequentato l'intero corso per la laurea in medicina e chirurgia presso l'Universita' stessa e che nei tre anni successivi alla laurea abbia dato alla stampa il miglior lavoro sperimentale e clinico sulla etiologia e patogenesi del cancro.  
+1113. Decreto del Presidente della Repubblica 10 dicembre 1969, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Napoli viene autorizzata ad accettare un legato di L. 30.000.000 disposto dall'ing. Fernando Campione, con testamento in data 17 novembre 1959, pubblicato in Napoli il 12 dicembre 1959 a rogito dott. Nicola Angrisano, per la istituzione della "Fondazione Coniugi Campione-Bassi", con sede nella stessa citta'.  
   
-Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 15 dicembre 1951  
-Atti del Governo, registro n. 47, foglio n. 78. - FRASCA
+Visto, il Guardasigilli: GAVA  
+Registrato alla Corte dei conti, addi' 2 febbraio 1970  
+Atti del Governo, registro n. 231, foglio n. 77. - CARUSO

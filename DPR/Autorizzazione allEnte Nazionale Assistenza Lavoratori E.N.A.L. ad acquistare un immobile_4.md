@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1963 n. 1175
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1963 n. 1735
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1963 n. 1175
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1963 n. 1735
+===============================================================
 
 Autorizzazione all'Ente Nazionale Assistenza Lavoratori (E.N.A.L.) ad acquistare un immobile.
 ---------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1175. Decreto del Presidente della Repubblica 12 luglio 1963, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Ente Nazionale Assistenza Lavoratori (E.N.A.L.) viene autorizzato ad acquistare dai signori Ricciotti Rodolfo, Ricciotti Renata in Cingolani, Micheletti Anna vedova Ricciotti, Marchetti Luciano, Ricciotti Marino e Marchetti Sauro, al prezzo di L. 130.000, un appezzamento di terreno sito in Ancona, frazione Candia, della superficie di mq. 189, come da atto a rogito notaio dott. Giovanni Chiorrini di Ancona, in data 14 novembre 1962, rep. n. 45057, fascicolo n. 3489, da destinare alla costruzione di un campo di bocce.  
+1735. Decreto del Presidente della Repubblica 30 ottobre 1963, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Ente Nazionale Assistenza Lavoratori (E.N.A.L.) viene autorizzato ad acquistare dal sig. Aureli Giovambattista, per il prezzo di L. 25.000, come da atto a rogito notaio dott. Orazio Trombetta di Roma, in data 26 ottobre 1960, repertorio n. 359, raccolta n. 156, un appezzamento di terreno di mq. 200, sito in Labico (Roma), contrada Santa Maria, su cui insiste parte della locale "Casa del Dopolavoro".  
   
 Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 28 agosto 1963  
-Atti del Governo, registro n. 173, foglio n. 124. - VILLA
+Registrato alla Corte dei conti, addi' 28 novembre 1963  
+Atti del Governo, registro n. 177, foglio n. 62 - VILLA

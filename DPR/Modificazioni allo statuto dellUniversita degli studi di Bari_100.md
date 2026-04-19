@@ -1,205 +1,83 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 320
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 929
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 320
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 929
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 192 - l'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola di specializzazione in nefrologia medica muta la denominazione in quella di scuola di specializzazione in nefrologia.
-
-L'art. 245, relativo alla scuola di specializzazione in nefrologia medica, che muta la denominazione in quella di scuola di specializzazione in nefrologia, e' soppresso e sostituito dal seguente:
-
-Scuola di specializzazione in nefrologia
-
-La scuola di specializzazione in nefrologia ha sede presso l'istituto di nefrologia medica e conferisce il diploma di specialista in nefrologia.
-
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine. Nel caso specifico delle scuole di specializzazione in nefrologia solo per ragioni di forza maggiore le singole facolta', a seguito della mancanza di professori di ruolo o fuori ruolo della materia, o di materia affine disponibili possono proporre che la direzione della scuola sia assunta temporaneamente dal professore incaricato della stessa disciplina.
-
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.
-
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.
-
-La durata del corso di studi e' di 4 anni e non e' suscettibile di abbreviazione.
-
-Il numero massimo degli allievi e' complessivamente di trenta iscritti per l'intero corso di studi.
-
-L'ammissione al corso avviene per titoli ed esami.
-
-Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-struttura ed ultrastruttura normale del rene;
-
-aspetti biochimici della funzione renale;
-
-fisiologia renale;
-
-microbiologia ed immunologia applicate alla nefrologia;
-
-genetica applicata alla nefrologia;
-
-semeiotica renale (1° anno).
-
-2° Anno:
-
-struttura ed ultrastruttura patologica del rene;
-
-((patologia del ricambio idroelettrolitico));
-
-insufficienza renale;
-
-rene ed ipertensione arteriosa;
-
-semeiotica renale (2° anno);
-
-nefropatie tubulari.
-
-3° Anno:
-
-nefropatie glomerulari;
-
-nefropatie interstiziali;
-
-nefropatie vascolari;
-
-terapie dietetica e dialitica (1° anno);
-
-farmacologia d'interesse nefrologico.
-
-4° Anno:
-
-nefropatie calcolotiche, malformative e neoplastiche;
-
-terapia dietetica e dialitica (2° anno);
-
-fisiopatologia e clinica del trapianto renale;
-
-aspetti di nefrologia nell'eta' pediatrica;
-
-problemi chirurgici in nefrologia;
-
-terapia medica delle nefropatie.
-
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
-
-Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.
-
-Al termine del corso di studi per il conseguimento del diploma di specialista in nefrologia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 11 maggio 1979
-
-PERTINI
-
-SPADOLINI
-
-Visto, il Guardasigilli: MORLINO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 18 luglio 1979 Registro n. 56 Istruzione, foglio n. 90
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e modificato con [regio decreto 31 ottobre 1929, n. 2481](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2481), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 192 - l'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola di specializzazione in nefrologia medica muta la denominazione in quella di scuola di specializzazione in nefrologia.   
-L'art. 245, relativo alla scuola di specializzazione in nefrologia medica, che muta la denominazione in quella di scuola di specializzazione in nefrologia, e' soppresso e sostituito dal seguente:   
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 64. - All'elenco degli insegnamenti complementari nel corso di laurea in farmacia e' aggiunto l'insegnamento complementare di "Psicobiologia e psicofarmacologia".  
+Art. 71. - All'elenco degli insegnamenti complementari nel corso di laurea in scienze agrarie sono aggiunti i seguenti insegnamenti:  
   
-Scuola di specializzazione in nefrologia   
-La scuola di specializzazione in nefrologia ha sede presso l'istituto di nefrologia medica e conferisce il diploma di specialista in nefrologia.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine. Nel caso specifico delle scuole di specializzazione in nefrologia solo per ragioni di forza maggiore le singole facolta', a seguito della mancanza di professori di ruolo o fuori ruolo della materia, o di materia affine disponibili possono proporre che la direzione della scuola sia assunta temporaneamente dal professore incaricato della stessa disciplina.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di 4 anni e non e' suscettibile di abbreviazione.   
-Il numero massimo degli allievi e' complessivamente di trenta iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-struttura ed ultrastruttura normale del rene;   
-aspetti biochimici della funzione renale;   
-fisiologia renale;   
-microbiologia ed immunologia applicate alla nefrologia;   
-genetica applicata alla nefrologia;   
-semeiotica renale (1° anno).   
-2° Anno:   
-struttura ed ultrastruttura patologica del rene;   
+Agrumicoltura (annuale);  
+Pomologia (annuale);  
+Tecnica dei frangiventi (semestrale);  
+Colture protette (semestrale);  
+Tecnica della fertilizzazione (annuale);  
+Tecnica agronomica dell'irrigazione (annuale);  
+Genetica vegetale (annuale);  
+Produzione e controllo delle sementi (semestrale);  
+Genetica vegetale quantitativa (semestrale);  
+Microbiologia industriale (semestrale);  
+Micotossicologia (semestrale);  
+Patologia delle sementi (semestrale);  
+Patologia dei prodotti e delle derrate agrarie (annuale);  
+Diserbanti (annuale);  
+Residui dei biocidi e biodegradazione (semestrale);  
+Fisiologia zootecnica (annuale);  
+Ovinicoltura (annuale);  
+Tecnica dell'alimentazione del bestiame (annuale);  
+Zooeconomia (annuale);  
+Edilizia zootecnica (semestrale);  
+Etnografia zootecnica e studio della popolazione (annuale);  
+Approvvigionamenti annonari (annuale);  
+Proprieta' fisico-meccaniche dei prodotti agricoli (annuale);  
+Impianti frigoriferi (annuale);  
+Macchine ed impianti di industrie agrarie (annuale);  
+Costruzione ed impianti per le coltivazioni protette (annuale);  
+Impianti idrici rurali (annuale);  
+Analisi contabile e gestione aziendale (annuale);  
+Istituzioni di statistica economico-agraria (annuale);  
+Programmazione economica in agricoltura (annuale);  
+Economia degli investimenti pubblici e privati in agricoltura (semestrale);  
+Tecnologia degli oli grassi e derivati (annuale);  
+Legislazione dei prodotti agrari e delle sostanze di uso agrario (annuale);  
+Industria della distillazione (annuale);  
+Principi e metodi di applicazione della lotta chimica contro gli insetti (annuale);  
+Entomologia ortofrutticola (annuale);  
+Tecniche di lotta biologica (annuale);  
+Chimica degli antiparassitari (annuale);  
+Pedologia (annuale);  
+Biochimica vegetale (annuale).  
 
-((patologia del ricambio idroelettrolitico))
+Il presente decreto munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-;   
-insufficienza renale;   
-rene ed ipertensione arteriosa;   
-semeiotica renale (2° anno);   
-nefropatie tubulari.   
-3° Anno:   
-nefropatie glomerulari;   
-nefropatie interstiziali;   
-nefropatie vascolari;   
-terapie dietetica e dialitica (1° anno);   
-farmacologia d'interesse nefrologico.   
-4° Anno:   
-nefropatie calcolotiche, malformative e neoplastiche;   
-terapia dietetica e dialitica (2° anno);   
-fisiopatologia e clinica del trapianto renale;   
-aspetti di nefrologia nell'eta' pediatrica;   
-problemi chirurgici in nefrologia;   
-terapia medica delle nefropatie.   
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
-Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in nefrologia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
-  
+### Dato a Roma, addi' 31 ottobre 1972
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+LEONE SCALFARO
 
-### Dato a Roma, addi' 11 maggio 1979
+Visto, il Guardasigilli: GONELLA
 
-PERTINI SPADOLINI
+Registrato alla Corte dei conti, addi' 17 gennaio 1973
 
-Visto, il Guardasigilli: MORLINO
-
-Registrato alla Corte dei conti, addi' 18 luglio 1979
-
-Registro n. 56 Istruzione, foglio n. 90
+Atti di Governo, registro n. 255, foglio n. 38. - VALENTINI

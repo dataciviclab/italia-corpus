@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 907
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 306
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 907
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 306
+============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -39,19 +39,18 @@ Articolo unico
 --------------
 
   
-Nell'art. 66, relativo al corso di laurea in scienze politiche, all'elenco degli insegnamenti complementari dell'indirizzo politico-amministrativo e' aggiunto il seguente:  
-filosofia della politica.  
+Art. 153 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia della seconda facolta' di medicina e chirurgia e' inserito l'insegnamento di "cardiologia".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Selva di Val Gardena, addi' 2 settembre 1983
+### Dato a Roma, addi' 2 marzo 1984
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 30 gennaio 1984
+Registrato alla Corte dei conti, addi' 26 giugno 1984
 
-Registro n. 4 Istruzione, foglio n. 383
+Registro n. 39 Istruzione, foglio n. 36

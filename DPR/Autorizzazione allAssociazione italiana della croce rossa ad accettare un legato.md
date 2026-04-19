@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1971 n. 1452
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1968 n. 714
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1971 n. 1452
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1968 n. 714
+============================================================
 
 Autorizzazione all'Associazione italiana della croce rossa ad accettare un legato.
 ----------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1452. Decreto del Presidente della Repubblica 20 ottobre 1971, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa viene autorizzata ad accettare il legato disposto a favore del sottocomitato C.R.I. di Lecco dalla sig.na Balassi Marta con testamento olografo pubblicato per atto del notaio Pietro Gaetano di Lecco in data 24 gennaio 1969, repertorio n. 36679/16914. Tale legato, del periziato valore di L. 8.134.932, consiste nella quota parte in ragione di 2/3 di un appezzamento di terreno, sito in Brivio (Como), distinto nella sezione censuaria della mappa catastale del comune stesso con i mappali numeri 5-b, 19-b, 26-b, 224-a, 39-b, 38-a, 37-a, 22-b, 73-b, 2068-b, 20-b.  
+714. Decreto del Presidente della Repubblica 6 marzo 1968, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa viene autorizzata ad accettare il legato di L. 100.000 disposto a favore del comitato provinciale di Alessandria della associazione stessa dalla signora Beatrice Marziani, con testamento olografo redatto in data 21 giugno 1963 e pubblicato in Alessandria il 13 giugno 1964, repertorio 18430 per atto notaio Carlo Mussa di Alessandria.  
   
-Visto, il Guardasigilli: COLOMBO  
-Registrato alla Corte dei conti, addi' 23 ottobre 1972  
-Atti del Governo, registro n. 251, foglio n. 123. - CARUSO
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 5 giugno 1968  
+Atti del Governo, registro n. 220, foglio n. 33. - GRECO

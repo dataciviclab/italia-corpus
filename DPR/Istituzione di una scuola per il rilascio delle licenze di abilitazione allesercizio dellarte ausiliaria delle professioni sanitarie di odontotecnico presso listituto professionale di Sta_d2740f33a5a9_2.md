@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 dicembre 1970 n. 1481
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1971 n. 724
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 dicembre 1970 n. 1481
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1971 n. 724
+==============================================================
 
 Istituzione di una scuola per il rilascio delle licenze di abilitazione all'esercizio dell'arte ausiliaria delle professioni sanitarie di odontotecnico presso l'istituto professionale di Stato per l'industria e l'artigianato "A. Volta", di Venezia-Mestre.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -12,161 +12,311 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Vista l'istanza del presidente del consiglio di amministrazione dell'istituto professionale di Stato per l'industria e l'artigianato "A. Volta" di Venezia-Mestre, intesa ad ottenere l'autorizzazione ad istituire presso lo stesso istituto un corso speciale serale per il rilascio delle licenze di abilitazione all'esercizio dell'arte ausiliaria delle professioni sanitarie di odontotecnico;  
-Visto il regolamento del corso, il programma d'insegnamento, i relativi orari e le modalita' di esame;  
-Visto l'[art. 140 del testo unico delle leggi sanitarie](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265~art140) approvato con [regio decreto 27 luglio 1934, n. 1265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265);  
-Vista la [legge 3 marzo 1958, n. 296](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-03;296);  
+Vista l'istanza del presidente del consiglio di amministrazione dell'istituto professionale di Stato per l'industria e l'artigianato "A. Volta" di Venezia-Mestre, intesa ad ottenere l'autorizzazione ad istituire nel comune di Martellago, quale scuola coordinata dell'istituto medesimo, una scuola per il rilascio delle licenze di abilitazione all'esercizio dell'arte ausiliaria delle professioni sanitarie di odontotecnico;  
+Visto il regolamento della scuola, il programma d'insegnamento, i relativi orari e le modalita' di esame;  
+Visto l'[art. 140 del testo unico delle leggi sanitarie](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265~art140), approvato con [regio decreto 27 luglio 1934, n. 1265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265);  
+Vista la [legge 13 marzo 1958, n. 296](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-13;296);  
 Sulla proposta del Ministro per la sanita' di concerto con il Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-L'istituto professionale di Stato per l'industria e l'artigianato "A. Volta" di Venezia-Mestre, e' autorizzato, ai sensi e per gli effetti dell'[art. 140 del testo unico delle leggi sanitarie](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265~art140), approvato con [regio decreto 27 luglio 1934, n. 1265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), ad istituire presso l'istituto stesso un corso serale speciale per il rilascio delle licenze di abilitazione all'esercizio dell'arte ausiliaria delle professioni sanitarie di odontotecnico, secondo il regolamento scolastico ed i programmi d'insegnamento annessi al presente decreto, limitatamente al quadriennio 1968-1972.  
+L'istituto professionale di Stato per l'industria e l'artigianato "A. Volta" di Venezia-Mestre e' autorizzato ai sensi e per gli effetti dell'[art. 140 del testo unico delle leggi sanitarie](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265~art140), approvato con [regio decreto 27 luglio 1934, n. 1265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), ad istituire presso l'istituto stesso una scuola per il rilascio delle licenze di abilitazione all'esercizio dell'arte ausiliaria delle professioni sanitarie di odontotecnico, secondo il regolamento scolastico ed i programmi di insegnamento annessi al presente decreto.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e farlo osservare.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 dicembre 1970
+### Dato a Roma, addi' 9 gennaio 1971
 
 SARAGAT MARIOTTI - MISASI
 
 Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 3 luglio 1971
+Registrato alla Corte dei conti, addi' 31 agosto 1971
 
-Atti del Governo, registro n. 243, foglio, n. 4. - VALENTINI
+Atti del Governo, registro n. 244, foglio n. 49. - PASQUALUCCI
 
-Regolamento delle scuole serali per odontotecnici-art. 1
+Regolamento per rilascio della licenza per l'esercizio delle professioni di odontotecnico-art. 1
 
- Regolamento delle scuole serali per odontotecnici   
+  
+  
+Regolamento della scuola per il rilascio della licenza di  
+abilitazione all'esercizio dell'arte ausiliaria delle professioni  
+sanitarie di odontotecnico.  
+  
+  
+  
+  
+  
   
   
 Art. 1.   
   
   
-Presso l'istituto professionale di Stato per l'industria e l'artigianato "Alessandro Volta" di Venezia-Mestre, istituito con [decreto del Presidente della Repubblica 30 settembre 1961, n. 1883](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-09-30;1883), e' istituita una scuola serale speciale per odontotecnici, su autorizzazione del Ministero della sanita', di concerto con quello della pubblica istruzione, allo scopo di consentire a coloro che, sforniti del prescritto titolo di studio svolgono pratica professionale nel settore odontotecnico, di regolarizzare la loro posizione, con il conseguimento del diploma richiesto per il legale esercizio dell'attivita' professionale ai sensi e per gli effetti degli [articoli 140 e seguenti del testo unico 27 luglio 1934, n. 1265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1934-07-27;1265~art140) e [regio decreto 31 maggio 1928, n. 1334](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-05-31;1334).   
+La scuola istituita presso l'istituto professionale di Stato "A.  
+Volta" di Venezia-Mestre ha lo scopo di impartire l'insegnamento teorico e pratico dell'odontotecnica, diretto ad una compiuta e razionale preparazione per l'esercizio dell'arte ausiliaria della professione sanitaria di odontotecnico, in conformita' al profilo professionale predisposto e pubblicato dal Ministero della pubblica istruzione.   
+Tali insegnamenti vengono impartiti attraverso un corso a formazione integrale.   
+Le licenze rilasciate dalla scuola sono valide ai sensi e per gli effetti degli [articoli 99](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265~art99) e [140 del testo unico delle leggi sanitarie](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265~art140), approvate con [regio decreto 27 luglio 1934, n. 1265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265).   
 
-Regolamento delle scuole serali per odontotecnici- art. 2
+Regolamento per rilascio della licenza per l'esercizio delle professioni di odontotecnico-art. 2
 
  Art. 2.   
   
   
-Detta scuola serale speciale ha carattere temporaneo; il funzionamento delle prime classi di ciascun corso di studi potra' essere attuato fino all'anno scolastico 1971-72.   
+La scuola ha sede in Martellago (Venezia), a circa 10 km, dalla sede centrale, in locali idonei appositamente forniti dal comune.   
 
-Regolamento delle scuole serali per odontotecnici- art. 3
+Regolamento per rilascio della licenza per l'esercizio delle professioni di odontotecnico-art. 3
 
  Art. 3.   
   
   
-I corsi della scuola serale speciale per odontotecnici hanno una durata di tre anni.   
-Il profilo professionale, le prove di esame, il programma di studio e il quadro orario delle lezioni sono riportati in allegato e costituiscono parte integrante del presente regolamento.   
-Il quadro orario delle lezioni, non puo' superare in nessun caso le 24 ore settimanali.   
-Le prove d'esame si svolgono contemporaneamente ed unitamente a quelle dei corsi normali, laddove essi esistono.   
+L'istituto professionale di Stato "A. Volta" e' dotato di autonomia amministrativa.   
 
-Regolamento delle scuole serali per odontotecnici- art. 4
+Regolamento per rilascio della licenza per l'esercizio delle professioni di odontotecnico-art. 4
 
  Art. 4.   
   
   
-Possono essere ammessi ai corsi coloro che:   
-al momento della iscrizione abbiano una eta' non inferiore ai 25 anni compiuti o da compiersi alla data del 31 dicembre.   
-abbiano svolto pratica professionale per un periodo di almeno cinque anni, risultante da apposito atto rogato da notaio o da autorita' equipollente;   
-siano in possesso di licenza di scuola media o di scuola secondaria di avviamento professionale o di scuola d'arte.   
-Coloro che sono provvisti della sola licenza di scuola elementare dovranno sostenere un esame di ammissione, consistente in una prova scritta ed una orale intesa ad accertare la cultura di base del candidato.   
+Il consiglio di amministrazione dell'istituto professionale di Stato delibera sulle nomine del personale della scuola, sulle retribuzioni ad esse spettanti, sull'ordinamento della scuola stessa e sui programmi dettagliati, nonche' su tutte le questioni di ordinaria amministrazione.   
 
-Regolamento delle scuole serali per odontotecnici- art. 5
+Regolamento per rilascio della licenza per l'esercizio delle professioni di odontotecnico-art. 5
 
  Art. 5.   
   
   
-Coloro che si trovano in possesso dei requisiti di cui all'art. 4 dovranno presentare entro il termine che sara' di anno in anno indicato dalla presidenza, domanda in carta legale diretta al preside dell'istituto.   
-Nella domanda i candidati, oltre il cognome, il nome e il domicilio, devono dichiarare sotto la loro personale responsabilita' ed a pena di decadenza:   
-a) di essere cittadino italiano;   
-b) di avere sempre serbato buona condotta;   
-c) di non aver avuto o di non aver in corso precedenti penali;   
-d) di essere di sana costituzione fisica;   
-e) di essere iscritto nelle liste elettorali.   
-La domanda di ammissione al corso deve essere corredata dei seguenti documenti in carta da bollo:   
-a) estratto dell'atto di nascita, o dichiarazione sostitutiva ([art. 2 legge 4 gennaio 1968, n. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15~art2));   
-b) stato di famiglia;   
-c) fotografia firmata dall'interessato ed autenticata;   
-d) certificato degli studi compiuti;   
-e) atto pubblico rogato da notaio o da autorita' equipollente contenente la dichiarazione circa l'attivita' professionale svolta.   
-L'amministrazione dell'istituto si riserva ogni diritto di indagine circa l'attivita' professionale svolta e dichiarata.   
-Sulle domande di ammissione decide il preside dell'istituto.   
+L'istituto professionale di Stato, provvede a fornire alla scuola: locali sufficienti ed idonei allo svolgimento delle lezioni teoriche e delle esercitazioni pratiche, presso la sua sede;   
+materiali, strumenti e mezzi per le esperienze durante le lezioni e per le esercitazioni nei laboratori;   
+personale dirigente, insegnante, di segreteria, di servizio, di custodia;   
+quanto altro possa occorrere al regolare ed efficace funzionamento della scuola.   
 
-Regolamento delle scuole serali per odontotecnici- art. 6
+Regolamento per rilascio della licenza per l'esercizio delle professioni di odontotecnico-art. 6
 
  Art. 6.   
   
   
-Ogni corso non potra' ospitare piu' di 30 allievi per ciascun anno.   
-Il numero dei posti disponibili nel complesso delle prime classi autorizzato e' di n. 50.   
-Qualora il numero degli aspiranti a frequentare il corso dovesse superare il numero dei posti disponibili il preside dell'istituto procedera' ad una graduatoria sulla base dei seguenti elementi:   
-a) eta': sara' data la precedenza ai piu' anziani;   
-b) stato di famiglia: a parita' di eta' sara' data la precedenza a chi ha un carico familiare maggiore;   
-c) a parita' di entrambe le condizioni di cui alle lettere a) e b) sara' data la precedenza a chi ha un titolo di studio comparativamente superiore.   
+L'importo delle tasse di iscrizione, di frequenza, di laboratorio, di licenza sara' stabilito anno per anno dal consiglio di amministrazione.   
 
-Regolamento delle scuole serali per odontotecnici- art. 7
+Regolamento per rilascio della licenza per l'esercizio delle professioni di odontotecnico-art. 7
 
  Art. 7.   
   
   
-Gli aspiranti ammessi a frequentare il corso saranno invitati a presentare, entro il termine che sara' indicato dalla presidenza dell'istituto i seguenti documenti in carta da bollo:   
-1) certificato di cittadinanza italiana;   
-2) certificato di godimento dei diritti politici;   
-3) certificato generale del casellario giudiziario;   
-4) certificato medico attestante la sana e robusta costituzione fisica.   
+A capo dell'istituto professionale di Stato e' il preside.   
+A capo della scuola per odontotecnici e' un direttore che risponde verso il preside dell'andamento didattico e disciplinare della scuola stessa.   
+Le funzioni di direttore sono affidate per incarico dal consiglio di amministrazione, su proposta del preside, di regola ad insegnante di materie tecniche munito di laurea specifica (medicina, preferibilmente con specializzazione in odontoiatria).   
+Il direttore convoca, quando lo ritenga opportuno gli insegnanti per impartire direttive e trattare questioni inerenti allo insegnamento ed alla disciplina; redige annualmente la relazione finale sull'andamento della scuola e la sottopone al preside dell'istituto professionale di Stato il quale ne curera' l'inoltro al Ministero della sanita'. Egli inoltre propone al preside tutti i provvedimenti che interessino il funzionamento della scuola con particolare riferimento alle esigenze di carattere tecnico, adotta i provvedimenti piu' urgenti salvo a riferirne al preside dell'istituto professionale di Stato.   
 
-Regolamento delle scuole serali per odontotecnici- art. 8
+Regolamento per rilascio della licenza per l'esercizio delle professioni di odontotecnico-art. 8
 
  Art. 8.   
   
   
-La frequenza al corso e' obbligatoria.   
-Gli allievi che durante l'anno scolastico siano risultati assenti per piu' di un quarto delle lezioni, globalmente considerando tutte le ore di lezione svolte, anche se le assenze risultassero regolarmente giustificate, sono esclusi dalla promozione per scrutinio finale e dalla sessione di esame di qualifica.   
+La nomina del personale insegnante e tecnico della scuola e' disposta con deliberazione del consiglio di amministrazione, su proposta del preside dell'istituto professionale di Stato.   
 
-Regolamento delle scuole serali per odontotecnici- art. 9
+Regolamento per rilascio della licenza per l'esercizio delle professioni di odontotecnico-art. 9
 
  Art. 9.   
   
   
-Le tasse di ammissione, di frequenza, di esame e di diploma sono le stesse stabilite per legge per gli istituti professionali per l'industria e l'artigianato.   
-Il consiglio di amministrazione dell'istituto potra' richiedere il versamento di un contributo di laboratorio nella misura annua che riterra' piu' opportuna, che non superi le lire 30.000 annue.   
+I servizi di segreteria vengono svolti dalla segreteria dell'istituto professionale di Stato.   
 
-Regolamento delle scuole serali per odontotecnici- art. 10
+Regolamento per rilascio della licenza per l'esercizio delle professioni di odontotecnico-art. 10
 
  Art. 10.   
   
   
-Gli allievi che non otterranno il passaggio al secondo anno e quelli che saranno riprovati agli esami finali, dovranno ripetere l'anno.   
-Non possono proseguire il corso gli allievi non ammessi o riprovati per due volte consecutive.   
+Al primo anno del corso a formazione integrale possono essere ammessi, su domanda, gli allievi di eta' non inferiore agli anni 14, muniti di licenza di scuola media inferiore, di scuola di avviamento o di titolo equipollente.   
+Gli aspiranti al corso, che abbiano compiuto gli studi all'estero, dovranno presentare titoli equipollenti a quelli sopra indicati. Essi dovranno inoltre superare un esame preliminare tendente ad accertare che essi abbiano sufficiente conoscenza della lingua italiana.   
+In ogni caso l'ammissione al corso e' subordinata ad accertamenti di carattere sanitario e psicotecnico, nonche' alla disponibilita' di posti, il cui numero viene fissato di anno in anno nel piano di attivita' dell'istituto professionale di Stato e comunque non superiore a trentacinque per classe.   
 
-Regolamento delle scuole serali per odontotecnici- art. 11
+Regolamento per rilascio della licenza per l'esercizio delle professioni di odontotecnico-art. 11
 
  Art. 11.   
   
   
-La commissione esaminatrice per gli esami finali e' composta da:   
-a) il capo dell'istituto, presidente;   
-b) il direttore della sezione odontotecnici;   
-c) gli insegnanti e gli insegnanti tecnico-pratici del corso;   
-d) un rappresentante del Ministero della sanita';   
-e) un medico specialista in odontoiatria e un odontotecnico nominati dal consiglio di amministrazione dell'istituto su proposta del preside.   
+Le domande di iscrizione, in carta legale e indirizzate al preside dell'istituto, dovranno essere presentate entro il 30 settembre di ogni anno.   
+In esse l'aspirante dovra' dichiarare, sotto la sua personale responsabilita':   
+la sua residenza ed il suo eventuale recapito agli effetti scolastici;   
+la data ed il luogo di nascita;   
+il possesso del requisito di buona condotta;   
+la sua cittadinanza;   
+di essere di sana costituzione fisica;   
+di essere in possesso del titolo di studio richiesto.   
+Alla domanda dovra' essere allegata la ricevuta del versamento delle tasse di iscrizione e dei contributi vari.   
+Superati positivamente gli accertamenti di carattere sanitario e psicotecnico, l'aspirante al corso dovra' presentare, sotto pena di decadenza dell'ammissione stessa, ed entro i limiti di tempo fissati dall'istituto professionale, i seguenti documenti in carta legale:   
+a) certificato di nascita o dichiarazione sostitutiva;   
+b) certificato di cittadinanza;   
+c) certificato degli studi compiuti;   
+d) fotografia in duplice copia.   
+Il certificato di cui alla lettera b) deve essere di data non anteriore a tre mesi a quella della scadenza del termine per la iscrizione.   
 
-Regolamento delle scuole serali per odontotecnici- art. 12
+Regolamento per rilascio della licenza per l'esercizio delle professioni di odontotecnico-art. 12
 
  Art. 12.   
   
   
-Per quanto altro non previsto dal regolamento presente, valgono le disposizioni contenute nel regolamento del corso normale, nonche' le norme di legge vigenti in materia di istruzione professionale e di arti ausiliarie sanitarie.   
+Il direttore ha la facolta', in qualsiasi momento, di far sottoporre l'allievo a visita medica, e, ove risultasse affetto di infermita', di proporre al preside l'allontanamento temporaneo o definitivo dalla scuola.   
+La decisione del preside e' inappellabile.   
+
+Regolamento per rilascio della licenza per l'esercizio delle professioni di odontotecnico-art. 13
+
+ Art. 13.   
   
   
-Venezia-Mestre, addi' 10 novembre 1970   
+Sulle domande di ammissione decide insindacabilmente il preside dell'istituto professionale di Stato.   
+Il consiglio di amministrazione dell'istituto professionale di Stato potra' rinunciare a tenere i corsi di insegnamento qualora il numero degli iscritti fosse inferiore a quindici. Questa decisione deve essere comunicata agli iscritti non piu' tardi del 20 ottobre. 
+
+Regolamento per rilascio della licenza per l'esercizio delle professioni di odontotecnico-art. 14
+
+ Art. 14.   
+  
+  
+Gli allievi sono tenuti a versare su appositi conti correnti postali le tasse e i contributi di cui al precedente art. 6, con le modalita' all'uopo stabilite.   
+La iscrizione ai corsi successivi a quello di ammissione, riservata ai promossi e ai ripetenti con le limitazioni di cui al successivo art. 20, avverra' su domanda dell'allievo. Alla domanda stessa, che dovra' essere compilata in carta legale, dovra' essere allegata la ricevuta dell'effettuato versamento delle tasse di frequenza e di laboratorio.   
+
+Regolamento per rilascio della licenza per l'esercizio delle professioni di odontotecnico-art. 15
+
+ Art. 15.   
+  
+  
+E' in facolta' del consiglio di amministrazione dell'istituto professionale di Stato erogare premi e concedere esenzioni totali o parziali del pagamento dei contributi di laboratorio ad allievi che dimostrino particolari attitudini ed abilita' in questa disciplina, che siano particolarmente diligenti e che appartengano a famiglie bisognose.   
+Nei casi previsti dalla legge gli interessati possono fruire inoltre degli esoneri delle tasse scolastiche.   
+
+Regolamento per rilascio della licenza per l'esercizio delle professioni di odontotecnico-art. 16
+
+  
+  
+Art. 16.   
+  
+  
+Gli allievi hanno l'obbligo della frequenza alle lezioni teoriche ed alle esercitazioni pratiche.   
+L'allievo che risulti essere stato assente a piu' di un terzo delle lezioni teoriche e delle esercitazioni pratiche complessivamente, non potra' essere ammesso allo scrutinio finale, ferme restando in ogni caso le altre limitazioni previste dalle disposizioni vigenti in proposito per gli istituti professionali di Stato.   
+
+Regolamento per rilascio della licenza per l'esercizio delle professioni di odontotecnico-art. 17
+
+ Art. 17.   
+  
+  
+L'anno di attivita' ha inizio il 1 ottobre e termina il 30 settembre dell'anno successivo.   
+Dall'inizio delle lezioni verra' dato preventivo pubblico avviso con manifesto affisso all'albo dell'istituto professionale di Mestre e della scuola di Martellago, ed eventualmente con altri mezzi di pubblicita' ove cio' sia ritenuto opportuno dal preside dell'istituto medesimo; le lezioni stesse si svolgeranno di norma nel periodo dal 1 ottobre al 15 giugno dell'anno successivo, secondo il calendario scolastico fissato per l'istituto professionale di Stato.   
+
+Regolamento per rilascio della licenza per l'esercizio delle professioni di odontotecnico-art. 18
+
+ Art. 18.   
+  
+  
+La durata normale del corso a formazione integrale sara' di quattro anni.   
+All'insegnamento teorico ed alle esercitazioni pratiche saranno destinate complessivamente, secondo gli orari stabiliti dalla scuola, le seguenti ore settimanali, per ciascun anno:   
+a) corso a formazione integrale: 38.   
+
+Regolamento per rilascio della licenza per l'esercizio delle professioni di odontotecnico-art. 19
+
+ Art. 19.   
+  
+  
+Le materie di insegnamento sono le seguenti:   
+a) religione;   
+b) cultura generale ed educazione civica;   
+c) matematica;   
+d) fisica;   
+e) chimica;   
+f) conversazione tecnica in lingua estera;   
+g) anatomia, fisiologia e patologia dell'apparato masticatorio;   
+h) igiene e legislazione sanitaria;   
+i) biomeccanica masticatoria e protesi applicata;   
+l) tecnologia e laboratorio tecnologico per odontotecnici;   
+m) modellazione e disegno professionale;   
+n) elementi di pratica commerciale;   
+o) esercitazioni pratiche;   
+p) educazione fisica.   
+Le materie di cui sopra saranno svolte secondo i programmi particolari che saranno predisposti dalla scuola.   
+
+Regolamento per rilascio della licenza per l'esercizio delle professioni di odontotecnico-art. 20
+
+  
+  
+Art. 20.   
+  
+  
+Al termine delle lezioni sara' tenuto, dal consiglio degli insegnanti, lo scrutinio finale. Gli allievi del 1°, 2° e 3° anno di ciascun corso che non abbiano riportato in nessuna materia una votazione inferiore ai sei decimi, verranno promossi alla classe successiva.   
+Coloro che avessero riportato in qualche materia una votazione inferiore ai sei decimi saranno ammessi a riparare, nelle materie stesse, nella sessione autunnale.   
+In caso di numerose e gravi insufficienze, l'allievo verra' respinto in sede di scrutinio; egli potra' frequentare la stessa classe per non piu' di due anni.   
+Saranno ammessi agli esami finali, per il rilascio della licenza di abilitazione all'esercizio dell'arte ausiliaria di odontotecnico, solo gli allievi che abbiano frequentato il 4° anno del corso e che abbiano ottenuto, nello scrutinio finale, la media di almeno cinque decimi nelle materie di insegnamento, e di almeno sei decimi nella condotta.   
+
+Regolamento per rilascio della licenza per l'esercizio delle professioni di odontotecnico-art. 21
+
+ Art. 21.   
+  
+  
+Gli esami finale avranno luogo in un'unica sessione, normalmente nel mese di giugno. Essi vertono su tutte le materie di insegnamento e comprendono prove scritte, orali e pratiche. Per l'approvazione l'allievo deve riportare la votazione di almeno sei decimi in ciascuna prova.   
+
+Regolamento per rilascio della licenza per l'esercizio delle professioni di odontotecnico-art. 22
+
+ Art. 22.   
+  
+  
+La commissione esaminatrice sara' cosi' costituita:   
+1) il preside dell'istituto professionale di Stato: presidente;   
+2) il direttore della scuola per odontotecnici dell'istituto professionale di Venezia-Mestre: membro effettivo;   
+3) un rappresentante del Ministero della sanita': membro effettivo;   
+4) un odontoiatra, nominato dall'ordine dei medici della provincia di Venezia in qualita' di esperto: membro effettivo;   
+5) un odontotecnico nominato dall'ordine degli odontotecnici della provincia di Venezia, e, in attesa della costituzione dell'ordine stesso, nominato dal medico provinciale di Venezia, in qualita' di esperto: membro effettivo;   
+6) un insegnante per ciascuna materia culturale, tecnica, pratica compresa nell'esame finale: membro effettivo.   
+Le indennita' per i componenti la commissione esaminatrice saranno corrisposti nelle misure e con le modalita' previste dalle norme vigenti per gli istituti professionali di Stato.   
+
+Regolamento per rilascio della licenza per l'esercizio delle professioni di odontotecnico-art. 23
+
+ Art. 23.   
+  
+  
+La commissione, il giorno stesso della prova pratica, compila i temi in numero pari a quello dei candidati previsti per la prova stessa.   
+Ogni candidato all'inizio della prova estrarra' a sorte il proprio tema.   
+La commissione provvede ad assicurare la sorveglianza a mezzo dei propri componenti, perche' gli esaminandi non comunichino tra loro e non facciano uso di libri o manoscritti non consentiti.   
+Di tutte le operazioni di esame verra' redatto apposito verbale in duplice copia, firmato dal presidente e dai commissari d'esame.   
+
+Regolamento per rilascio della licenza per l'esercizio delle professioni di odontotecnico-art. 24
+
+ Art. 24.   
+  
+  
+In seguito al risultato favorevole degli esami, l'istituto professionale di Stato rilascia la licenza di cui agli [articoli 99](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265~art99) e [140 del testo unico sulle leggi sanitarie](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265~art140).   
+Per il rilascio delle licenze da servire a tutti gli effetti di legge per l'esercizio dell'arte ausiliaria di odontotecnico, l'interessato deve versare sul conto corrente postale dell'istituto professionale di Stato la tassa di licenza stabilita dalle norme vigenti in materia e deve esibire la bolletta dimostrante l'avvenuto pagamento della tassa di concessione governativa, di cui all'[art. 9 della legge 23 giugno 1927, n. 1264](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-23;1264~art9), nella misura stabilita dal [decreto presidenziale 20 marzo 1953, n. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-20;112), che approva il testo unico delle tasse in materia di concessioni governative e precisamente come stabilito dal titolo XVI, tabella numero progressivo 210 ([pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 67 del 21 maggio 1953](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1953-05-21&numeroGazzetta=67)).   
+L'elenco nominativo di coloro che hanno superato l'esame finale e ottenuto la licenza e' trasmesso al prefetto della provincia insieme con un esemplare dei verbali di esame, per essere inviato al Ministero della sanita'. Copia dell'elenco e del verbale sara' inviata per conoscenza, al Ministero della pubblica istruzione, tramite il provveditorato agli studi.   
+
+Regolamento per rilascio della licenza per l'esercizio delle professioni di odontotecnico-art. 25
+
+  
+  
+Art. 25.   
+  
+  
+Gli allievi che vengano meno ai doveri che hanno verso l'istituto professionale di Stato, dimostrando negligenza abituale, scarso profitto nell'insegnamento, assentandosi senza giustificato motivo dalle lezioni o dalle esercitazioni pratiche, ed offendendo in qualsiasi modo la disciplina, l'ordine, il decoro, la morale, dentro e fuori l'istituto professionale, sono soggetti alle seguenti punizioni:   
+a) ammonizione privata o in classe;   
+b) allontanamento dalle lezioni;   
+c) sospensione dalle lezioni per un periodo non superiore a cinque giorni;   
+d) sospensione fino a quindici giorni;   
+e) esclusione dalla promozione senza esame o dalla sessione di primo esame;   
+f) sospensione fino al termine delle lezioni;   
+g) esclusione dallo scrutinio finale e da entrambe le sessioni di esame;   
+h) espulsione dall'istituto;   
+i) espulsione da tutti gli istituti della Repubblica.   
+Il tutto secondo quanto disposto dalle vigenti norme in materia per le scuole statali, in genere, ed in particolare per gli istituti professionali di Stato.   
+
+Regolamento per rilascio della licenza per l'esercizio delle professioni di odontotecnico-art. 26
+
+ Art. 26.   
+  
+  
+E' in facolta' del consiglio di amministrazione dell'istituto professionale di Stato di istruire successivamente, a puro titolo culturale, corsi di specializzazione, ove se ne presentasse la necessita' o la opportunita'.   
+  
+  
+  
+  
+  
+Venezia-Mestre, addi' 21 luglio 1970   
   
   
 Il preside: LEVIS   
-  
   
 Visto, d'ordine del Presidente della Repubblica   
   
@@ -174,209 +324,362 @@ Visto, d'ordine del Presidente della Repubblica
 Il Ministro per la sanita'   
 MARIOTTI   
 
-Regolamento-Allegato
+Regolamento per rilascio della licenza per l'esercizio delle professioni di odontotecnico-Programmi
 
- CORSO SERALE SPECIALE TRIENNALE   
-PER ODONTOTECNICI   
+ CORSO NORMALE QUADRIENNALE PER ODONTOTECNICO   
   
   
 PROFILO PROFESSIONALE   
   
   
-L'odontotecnico costruisce su modelli tratti dalle impronte fornite dai medici specialisti in odontoiatria, apparecchi di protesi dentaria di qualsiasi tipo, impiegando i materiali in uso nell'arte odontotecnica.   
+L'odontotecnico costruisce, su modelli tratti dalle impronte fornite dai medici chirurghi e dagli abilitati all'esercizio della odontoiatria e protesi dentaria, con le indicazioni del tipo di protesi da eseguire, apparecchi di protesi dentaria di qualsiasi tipo, impiegando i materiali usati nell'arte odontotecnica.   
   
   
 PROVE DI ESAME   
   
   
-A) Prova pratica:   
+A) Prova scritta:   
   
   
-Esecuzione di uno o piu' lavori scelti dalla commissione esaminatrice tra quelli sottoindicati:   
+Relazione culturale riguardante l'attivita' professionale del qualificato.   
+  
+  
+B) Prove pratiche:   
+  
+  
+Esecuzione di uno o piu' lavori scelti dalla commissione esaminatrice fra quelli sottoindicati:   
 1) montaggio e modellazione di una dentiera completa o parziale su articolatore semplice o anatomico;   
 2) progettazione ed esecuzione completa, su modello di gesso, di un apparecchio scheletrato;   
 3) modellazione in cera di elementi vari e di elementi di ponte;   
 4) costruzione di un apparecchio parziale con ganci di autore;   
 5) costruzione di un apparecchio parziale ammortizzato con impiego di ammortizzatori, snodi, frizioni e cerniere;   
-6) costruzione, su modello di gesso appositamente preparato, di una protesi fissa singola per proiezione e ricostruzione di elementi dentari (corona stampata e a due tempi, corona fusa parziale e totale, corona Richmond, corona ed intarsio in porcellana, corona a faccetta, ecc.);   
+6) costruzione su modello di gesso, appositamente preparato, di una protesi fissa singola per protezione e ricostruzione di elementi dentari;   
 7) costruzione di una protesi di fissazione;   
-8) costruzione di un apparecchio ortodontico elementare.   
+8) costruzione di un apparecchio ortodontico elementare;   
+9) costruzione di una corona in porcellana.   
   
   
-Criteri di valutazione:   
-se il lavoro raggiunge l'equilibrio biologico, cinematico, meccanico, estetico, viene valutato con punti dal 9 al 10;   
-se raggiunge l'equilibrio biologico, cinematico, meccanico, viene valutato con punti da 7 a 8,9;   
-se raggiunge equilibrio biologico, meccanico, viene valutato con punti da 6 a 6,9;   
-se risulta incompleto o comunque inutilizzabile, viene considerato insufficiente.   
+C) Prova orale:   
   
   
-B) Prova orale:   
+Il candidato deve dimostrare:   
+capacita' di esprimersi chiaramente e correttamente nella lingua italiana;   
+di conoscere i momenti essenziali della storia nazionale nei suoi vari aspetti; l'organizzazione dello Stato; le istituzioni politico-sociali fondamentali nella societa' nazionale e internazionale;   
+capacita' di esprimersi nella lingua estera in una conversazione di carattere tecnico;   
+di saper risolvere problemi di carattere tecnico, attinenti alla sua professione che richiedano conoscenza dell'aritmetica, dell'algebra e della geometria, secondo i programmi di insegnamento; di conoscere la tecnologia riguardante la lavorazione delle leghe nobili e speciali, delle resine, delle porcellane e il loro comportamento nel tempo e con l'uso; nonche' quella dei materiali ausiliari occorrenti alla corretta lavorazione delle protesi dentarie;   
+di conoscere gli impianti e le attrezzature necessarie al funzionamento di un moderno laboratorio odontotecnico;   
+deve sapere impostare in modo organico, completo e razionale il piano di lavoro tecnico ed economico per la costruzione di protesi sociali;   
+deve conoscere i requisiti biologici, igienici, funzionali, meccanici, cinematici, estetici e fonetici propri delle moderne protesi dentarie;   
+il candidato deve inoltre conoscere la struttura e la funzione dei principali apparati del corpo umano ed in particolare l'anatomia della bocca, la sua fisiologia e le principali anomalie;   
+di conoscere infine le norme fondamentali sulla legislazione sociale sui rapporti di lavoro, sulla prevenzione degli infortuni, sull'igiene e sui principi di legislazione sanitaria e sociale;   
+deve saper effettuare il preventivo e consuntivo di spesa e compilare la relativa fatturazione.   
   
   
-Il candidato deve dimostrare adeguata conoscenza della tecnologia riguardante la lavorazione delle leghe nobili e speciali, delle resine, delle porcellane e il loro comportamento nel tempo e con l'uso nonche' la tecnologia di tutti i materiali ausiliari occorrenti alla corretta lavorazione delle protesi dentarie.   
-Deve dimostrare di conoscere gli impianti e le attrezzature necessarie al funzionamento di un moderno laboratorio odontotecnico.   
-Deve conoscere i requisiti biologici, igienici, funzionali, meccanici, cinematici, estetici e fonetici propri delle moderne protesi dentarie.   
-Deve saper impostare in modo organico, completo e razionale il piano di lavoro tecnico ed economico per la costruzione di qualsiasi tipo di protesi.   
-Il candidato deve inoltre conoscere, sia pure sommariamente, la struttura e la funzione dei principali apparati del corpo umano ed in particolare l'anatomia della bocca, la sua fisiologia e le principali anomalie.   
-Il candidato deve, infine, conoscere le norme fondamentali sulla legislazione sociale, sui rapporti di lavoro, sulla prevenzione degli infortuni, sull'igiene del lavoro e quelle che regolano le attivita' delle arti ausiliarie sanitarie e deve saper effettuare il preventivo e il consuntivo di spesa e compilare la relativa fatturazione.   
+MATERIE E ORE SETTIMANALI DI INSEGNAMENTO   
   
-  
-QUADRO ORARIO DI INSEGNAMENTO   
-  
-QUADRO ORARIO DI INSEGNAMENTO
   
 =====================================================================  
 | Ore settimanali  
-MATERIE D'INSEGNAMENTO |--------------------------------  
-| classe 1ª |classe 2ª |classe 3ª  
-------------------------------------|-----------|----------|---------  
-Cultura generale ed educazione ci- | | |  
-vica............................ | 3 | 2 | 2  
-Matematica........................ | 3 | - | -  
-Fisica............................ | 3 | 2 | -  
-Chimica........................... | - | 2 | 2  
-Tecnica professionale............. | 15 | 8 | 9  
-Esercitazioni pratiche............ | - | 10 | 10  
-Economia aziendale................ | - | - | 1  
+|-----------------------------------  
+MATERIE DI INSEGNAMENTO | Classe | Classe | Classe | Classe  
+| I | II | III | IV  
+---------------------------------------------------------------------  
+| | | |  
+Religione. . . . . . . . . . . . | 1 | 1 | 1 | 1  
+| | | |  
+Cultura generale ed educazione | | | |  
+civica . . . . . . . . . . . . | 6 | 4 | 4 | 4  
+| | | |  
+Matematica . . . . . . . . . . . | 5 | 2 | - | -  
+| | | |  
+Fisica . . . . . . . . . . . . . | 4 | 2 | - | -  
+| | | |  
+Chimica. . . . . . . . . . . . . | 2 | 2 | 2 | -  
+| | | |  
+Conversazione tecnica in lingua | | | |  
+estera . . . . . . . . . . . . | 1 | 2 | 2 | 2  
+| | | |  
+Anatomia, fisiologia e patologia | | | |  
+dell'apparato masticatorio . . | - | 3 | 2 | -  
+| | | |  
+Igiene e legislazione sanitaria | - | - | 1 | 1  
+| | | |  
+Biomeccanica masticatoria e pro- | | | |  
+tesi applicata . . . . . . . . | - | - | 2 | 4  
+| | | |  
+Tecnologia e laboratorio tecno- | | | |  
+logico per odontotecnici . . . | 3 | 3 | 4 | 4  
+| | | |  
+Modellazione e disegno profes- | | | |  
+sionale. . . . . . . . . . . . | 6 | 3 | - | -  
+| | | |  
+Elementi di pratica commerciale | - | - | - | 2  
+| | | |  
+Esercitazioni pratiche . . . . . | 8 | 14 | 18 | 18  
+| | | |  
+Educazione fisica. . . . . . . . | 2 | 2 | 2 | 2  
+| | | |  
+|--------|--------|--------|--------  
+| | | |  
+Totali . . . | 38 | 38 | 38 | 38  
+|========|========|========|========  
+| | | |
   
-|-----------|----------|-------- | 24 | 24 | 24  
-|===========|==========|=========
   
   
   
-PROGRAMMI DI INSEGNAMENTO   
   
   
-MATEMATICA   
   
   
-A) Aritmetica:   
   
-  
-Calcolo con numeri interi, decimali e frazionari - numeri complessi: operazioni e trasformazioni su di essi - sistema metrico decimale - sistema di misura del tempo e degli angoli - sistemi di misure anglosassoni - tabella di conversione - cenno sugli strumenti di misura - estrazione di radice quadrata - cenno sulla radice cubica - rapporti e proporzioni - grandezze direttamente e inversamente proporzionali: regola del tre semplice con applicazioni alla preparazione di ricette; regole di ripartizione proporzionale e di allegazione diretta e inversa con applicazioni ai problemi su titoli e carature di leghe auree - pesi specifici e applicazioni relative - numeri relativi e operazioni su di essi - cenno sui monomi e sul calcolo letterale - proprieta' delle uguaglianze e risoluzione di semplici equazioni numeriche e letterali, limitatamente alla risoluzione e all'uso di formule utili di geometria, fisica e tecnologia - tabelle e diagrammi e loro uso.   
-  
-  
-B) Geometria:   
-  
-  
-Enti geometrici fondamentali - linee piane - rette - segmenti e angoli - posizioni di rette nel piano: ortogonalita' e parallelismo - proprieta' delle principali figure piane - triangoli, quadrilateri, poligoni regolari e cerchio - uguaglianza, equivalenza e similitudine delle figure piane - misura delle principali figure piane e relative formule - teorema di Pitagora e applicazioni - posizioni reciproche di rette e piani nello spazio - proprieta' delle principali figure solide: prismi, piramidi, cilindri, coni e sfere - misure delle principali figure solide e relative formule - semplici applicazioni geometriche a questioni di parallelometria e articolazione. -   
+PROGRAMMI DI INSEGNAMENTO DELLE MATERIE SPECIFICHE   
   
   
 FISICA   
   
   
-A) Termologia:   
+Classe I (ore 4)   
   
   
-Cenni sulla costituzione fisica della materia - proprieta' dei corpi con particolare riguardo a quelle interessanti l'elasticita' e la resistenza dei materiali - calore e sua propagazione - temperatura e sua misura - termometri e scale termometriche: loro conversione - quantita' di calore e calorimetri - calori specifici e capacita' termica - cenni sulla conduzione termica - dilatazione termica e applicazioni - cambiamenti di stato con particolare riguardo alla fusione e alla solidificazione - applicazioni al ramo.   
+Cenni sulla costituzione fisica della materia. Proprieta' dei corpi con particolare riguardo a quelle interessanti l'elasticita' e la resistenza dei materiali.   
   
   
-B) Meccanica:   
+Meccanica:   
+a) Statica: forza e suoi elementi. Cenno sui vettori. Equilibrio delle forze. Vari casi di composizione e di scomposizione delle forze. Coppie. Equilibrio dei corpi vincolati. Momenti. Baricentri.  
+Macchine semplici limitatamente alla leva e al piano inclinato.  
+Applicazioni alla statica mandibolare.   
+b) Cinematica: concetti fondamentali di traiettoria, velocita', accelerazione, moto rettilineo uniforme, circolare uniforme e uniformemente vario. Cenno sulle curve polari fisse e mobili.  
+Applicazioni alla cinematica mandibolare.   
+c) Dinamica: i tre principi della dinamica. Forza centrifuga e centripeta, applicazioni al ramo. Lavoro; energia, potenza e loro misura. Principio della conservazione dell'energia.   
   
   
-Statica: forza e suoi elementi - cenno sui vettori - equilibrio delle forze - vari casi di composizione e scomposizione delle forze - coppie - equilibrio dei corpi vincolati - momenti - baricentri - macchine semplici limitatamente alla leva e al piano inclinato - applicazioni alla statica mandibolare.   
-Cinematica: concetti fondamentali di traiettoria, velocita', accelerazione - moto rettilineo uniforme - circolare uniforme, e uniformemente vario - cenno sulle curve polari fisse e mobili - applicazioni alla cinematica mandibolare.   
-Dinamica: i tre principi della dinamica - forza centripeta e forza centrifuga: applicazioni - lavoro, energia, potenza e loro misura - principio della conservazione dell'energia: equivalenza fra energia meccanica ed energia termica.   
-Meccanica dei fluidi: concetto di pressione - principi di Pascal e di Archimede e relative applicazioni - pressione atmosferica - applicazioni: barometri, manometri, pompe.   
+Meccanica dei fluidi:   
+Concetto di pressione. Principi di Pascal e di Archimede e relative applicazioni. Pressione atmosferica: barometri, manometri e pompe; applicazioni al ramo.   
   
   
-C) Ottica:   
+Termologia:   
+Calore e sua propagazione. Temperatura e sua misura: termometri e scale termometriche, loro conversione. Quantita' di calore e calorimetri. Calori specifici e capacita' termica. Cenni sulla conduzione termica. Dilatazione termica e applicazioni. Cambiamenti di stato con particolare riguardo alla fusione e alla solidificazione; applicazioni al ramo.   
   
   
-Luce e concetti elementari sulla riflessione, rifrazione, diffusione, dispersione, fluorescenza - colori - proprieta' ottiche dei materiali dentari - microscopio.   
+Classe II (ore 2)   
   
   
-D) Elettrologia:   
+Ottica:   
+Luce e concetti elementari sulla riflessione, rifrazione, diffusione, dispersione fluorescenza. Colori. Proprieta' ottiche dei materiali dentari. Microscopio.   
   
   
-La corrente elettrica e il circuito elettrico - resistenze e reostati - legge di Ohm - energia e potenza della corrente - effetto termico ed applicazioni ad apparecchi di riscaldamento e di illuminazione - arco voltaico - effetto chimico: dissociazione elettrolitica ed elettrolisi - applicazioni: galvanoplastica e galvanostegia; pile ed accumulatori - cenni di magnetismo ed elettromagnetismo - elettrocalamite e strumenti di misura - induzione elettromagnetica - correnti alternate - dinamo, alternatori e motori elettrici - trasformatori - cenno sulla scarica attraverso i gas.   
+Elettrologia:   
+La corrente elettrica e il circuito elettrico. Resistenze e reostati. Legge di Ohm. Energia e potenza della corrente. Equivalenza tra energia termica ed energia meccanica. Effetto termico della corrente ed applicazioni ad apparecchi di riscaldamento e di illuminazione. Arco voltaico. Effetto chimico della corrente: dissociazione elettrolitica ed elettrolisi; applicazioni: galvanoplastica e galvanostegia; pile e accumulatori. Cenni di magnetismo ed elettromagnetismo. Elettrocalamite e strumenti di misura. Induzione elettromagnetica. Corrente alternata. Dinamo, alternatori e motori elettrici. Trasformatori. Cenno sulla scarica attraverso i gas.   
   
   
 CHIMICA   
   
   
-A) Chimica generale e inorganica:   
+Classe I (ore 2)   
   
   
-Cenni sulla costituzione chimica della materia: miscugli, composti, elementi - molecole ed atomi - simboli e formule - valenza - reazioni chimiche - le leggi delle combinazioni chimiche - cenni sulla teoria elettronica e sulla dissociazione elettrolitica - nomenclatura chimica: metalli e metalloidi, ossidi, anidridi, basi, acidi e sali e loro proprieta' - cenni di mineralogia - i principali metalloidi e loro derivati di interesse odontotecnico - acqua, idrogeno, ossigeno e ossidazione, alogeni: cloro, fluoro, acido cloridrico e cloruri - zolfo e suoi composti, specie acido solforico e gesso - aria e sua azione chimica - azoto e acido nitrico - acqua regia - cenni sulla azione chimica dei decappanti e dei fondenti - fosforo, fosfati e loro reazioni con i cementi dentari - silicio - silicati e loro relazione con le porcellane e, i materiali refrattari - carbonio e suoi composti inorganici.   
-Metalli di interesse odontotecnico dal punto di vista chimico con cenni sui minerali che li contengono e sui metodi di estrazione - metalli in lega per odontoiatria - cenni sull'affinazione dei preziosi e sulla loro estrazione dalle leghe.   
+Chimica generale:   
+Struttura della materia: atomi, molecole. Simboli e formula molecolari, valenza, modello atomico, teoria elettronica. Elementi e composti. Metalli e metalloidi, loro composti ossigenati ed idrogenati. Reazioni chimiche: principali tipi di reazioni; formazione degli ossidi, anidridi, acidi, basi e sali. Catalizzatori.   
+Legge delle combinazioni chimiche. Idrolisi, PH, elettrolisi con particolare riguardo alla galvanoplastica ed alla galvanostegia.   
   
   
-B) Chimica organica:   
+Mineralogia:   
+Cristalli, leggi cristallografiche, elementi di simmetria. Cenni sui sistemi cristallini. Proprieta' fisiche dei minerali. Proprieta' chimiche dei minerali. Struttura reticolare.   
   
   
-Carbonio e sue proprieta' - struttura chimica dei composti organici - composti aciclici e ciclici - classificazione dei composti organici - composti di particolare interesse nel ramo: idrocarburi; acetilene;   
-petroli - gas illuminante - benzene - caucciu' ordinari e dentari - cenni sugli alcooli, le aldeidi e gli acidi organici - cere - idrati di carbonio: cellulosa e celluloide - cenni sulla polimerizzazione e sulle resine sintetiche.   
+Classe II (ore 2)   
   
   
-TECNICA PROFESSIONALE   
+Chimica inorganica descrittiva:   
+Ossigeno, idrogeno, alogeni (cloro e fluoro) e loro composti (acido cloridrico e cloruri), zolfo e suoi composti: acido solforico, solfati (gesso). Azoto e acido nitrico, acqua regia, fosforo e fosfati, silicio, silicati e materiali refrattari e loro uso nel ramo (cementi dentari, porcellane, rivestimenti). Acqua e aria. Carbonio e suoi composti inorganici. Metalli di interesse odontotecnico dal punto di vista chimico con cenni sui minerali che li contengono e sui metodi di estrazione. Leghe per odontoiatria. Affinazione dei preziosi e loro estrazione dalle leghe.   
   
   
-Tecnologia professionale:   
-Proprieta' generali dei corpi: tecnologiche, meccaniche e d'uso, fisiche e chimiche - modelli e impronte - materiali plastici e plasticita' irreversibile - materiali plastici e plasticita' reversibile - materiali sintetici per impronta - cenni di metallografia - confezione delle leghe - struttura delle leghe - proprieta' generali delle leghe - esame macrografico e microscopico - equilibrio delle leghe - analisi tecniche e diagrammi di stato - esame di particolari diagrammi di equilibrio di leghe protesiche, leghe eutettifere, soluzioni solide - relazioni fra la microstruttura e le proprieta' generali delle leghe - materiali metallici per la confezione delle protesi: leghe d'oro da lavoro, acciai e stelliti - materiali metallici ausiliari, amalgame, leghe da stampaggio, leghe tecniche - metallotecnica: lavorazione a freddo - lavorazione a caldo - caucciu' - resine - porcellane.   
-Comportamento dei materiali protesici nel tempo e con l'uso - correzione dei materiali metallici nella bocca - alterazioni delle materie plastiche - caratteristiche elastiche dei materiali odontotecnici - apparecchiature per fusioni di previsione in leghe nobili - apparecchi per galvanoplastica e lavori isodromici - forni per porcellane - studio sulla esecuzione e indirizzo tecnico per la confezione della protesi sociale e di classe.   
+Classe III (ore 2)   
   
   
-Laboratorio tecnologico:   
-L'ambiente di lavoro - strumenti e apparecchiature elementari: nomenclatura e norme pratiche per il loro corretto uso - strumenti di misura e loro uso - semplici problemi di tracciatura nel piano e nello spazio - esercitazioni semplici varie - descrizione delle apparecchiature di lavoro e norme pratiche per l'uso - impianti fissi di laboratorio - le sorgenti di calore - apparecchiature speciali da laboratorio - articolatori registrabili - parallelometri - impianti per la lavorazione di acciai e stelliti.   
-Studio delle tecniche razionali di lavoro per la confezione di protesi fisse di ricostruzione di elementi singoli - studio delle tecniche razionali di lavoro per la confezione di protesi mobili.   
+Chimica organica:   
+Carbonio e sue proprieta'. Struttura chimica dei composti organici.  
+Composti ciclici ed aciclici.   
+Classificazione di composti organici. Composti di particolare interesse nel ramo: idrocarburi, acetilene, petroli, gas illuminante, benzene, caucciu' ordinari e dentari, cenni sugli alcooli, le aldeidi e gli acidi organici; cere. Idrati di carbonio: cellulosa, celluloide. Cenni sulla polimerizzazione: resine sintetiche.   
   
   
-ANATOMIA E FISIOLOGIA UMANA, BIOMECCANICA E PROTESI APPLICATA   
+Chimica della alimentazione:   
+Gli zuccheri, le proteine, i grassi. Gli enzimi. Le vitamine,   
+Reazioni chimiche a livello orale. Cenni sulla chimificazione, chilificazione ed assorbimento.   
   
   
-Biologia umana:   
-La cellula e le sue proprieta' - tessuto epiteliale, connettivo, muscolare e nervoso - sangue - sistema scheletrico, articolare, muscolare e nervoso - organi dei sensi - cenni sulla morfologia e funzione dei principali organi e apparati del corpo umano: apparato respiratorio, circolatorio, digerente ed urinario.   
+ANATOMIA, FISIOLOGIA E PATOLOGIA DELL'APPARATO MASTICATORIO   
   
   
-Anatomia dell'apparato masticatorio:   
-Ossa mascellari e volta palatina - articolazione temporo-mandibolare: struttura e funzione - muscoli masticatori e loro antagonisti - movimenti della mandibola - cavita' orale - embriologia dei denti - morfologia dei denti - struttura del dente e del paradentio - formula dentaria - dentizione decidua e permanente - arcate dentarie - occlusione - modificazioni che sopravvengono in seguito alla perdita di uno o piu' denti.   
+Classe II (ore 3)   
   
   
-IGIENE   
+Cenni di anatomia e fisiologia generale. Concetto di cellula, tessuto ed organo. Vari tipi di tessuto. Il sistema scheletrico.  
+Nozioni riguardanti il sistema muscolare, l'apparato circolatorio, l'apparato respiratorio l'apparato digerente, l'apparato urogenitale, il sistema nervoso, il sistema ormonale, gli organi di senso. Nozioni generali di fisiologia degli organi, apparati e sistemi predetti.  
+Morfologia e struttura della cavita' orale: lingua, labbra, ghiandole salivari, vari tipi di mucose. Ossa mascellari e volta palatina: palato duro e palato molle. Formule dentarie; dentizione decidua, mista e permanente. Arcate dentarie. Morfologia dei denti permanenti.   
+Struttura dei tessuti duri e dei tessuti molli del dente: smalto, dentina, cemento, polpa dentaria. Anatomia macro e microscopica del paradenzio.   
   
   
-Concetto di salute e di malattia - cause esterne di malattia - batteri e malattie batteriche - igiene personale e del vestiario - igiene dell'ambiente di vita e di lavoro.   
+Classe III (ore 2)   
+  
+  
+Occlusione dentaria. Anatomia e fisiologia dell'articolazione temporo-mandibolare. Muscoli masticatori e loro azione. Modificazioni dell'apparato dentario in seguito all'invecchiamento. Anatomia della bocca parzialmente e totalmente edentula.   
+Concetto di malattia. Cause della malattia: agenti fisici, agenti chimici, agenti di infezione, condizioni morbose dipendenti dalla alimentazione. Nozioni generali dei processi infiammatori, sui processi regressivi (atrofia, alterazione degenerativa, necrosi) e sui processi progressivi (ipertrofia, tumori). Cenni sulle malattie piu' comuni nell'apparato masticatorio e del paradenzio e vari metodi e mezzi di prevenzione.   
+  
+  
+IGIENE E LEGISLAZIONE SANITARIA   
+  
+  
+Classe III (ore 1)   
+  
+  
+L'aria atmosferica: composizione, inquinamento, areazioni degli ambienti. Concetto di salute e di malattia. Cause esterne di malattia. Batteri e malattie batteriche. Igiene personale e del vestiario. Igiene dell'ambiente di vita e di lavoro. Educazione sanitaria. Nozioni generali di epidemiologia e profilassi delle malattie infettive con particolare riguardo a quelle dell'organo di masticazione.   
+  
+  
+Classe IV (ore 1)   
+  
+  
+Ordinamento sanitario italiano. Cenni sulle leggi riguardanti le malattie infettive, le malattie sociali e del lavoro. Norme fondamentali sulla assistenza sanitaria. Professioni sanitarie.  
+Professioni sanitarie ausiliarie. Arti ausiliarie sanitarie. Leggi riguardanti le proiezioni sanitarie dei lavoratori.   
   
   
 BIOMECCANICA E PROTESI APPLICATA   
   
   
-Sollecitazioni meccaniche dei denti: carichi verticali e trasversali - relazioni intermascellari - modificazioni dell'apparato masticatorio in seguito all'invecchiamento: eruzione passiva, migrazione, inclinazione, perdita dei denti - alterazione dei rapporti articolari e cranio - mandibolari conseguenti all'invecchiamento - cenni sulla patologia del dente e del paradentio in rapporto alle sollecitazioni meccaniche dei denti - occlusione traumatica - anatomia della bocca edentula - classificazione delle arcate dentarie e parzialmente edentule - concetti generali sulla protesi dentaria - elementi costitutivi e caratteristiche generali degli apparecchi di protesi - funzioni della protesi dentaria: funzione estetica, fonetica, integrazione della capacita' masticatoria - requisiti igienici della protesi - riequilibrio delle arcate dentali - classificazione biologica degli apparecchi protesici - direttive per la costruzione dei diversi tipi di protesi - esecuzione dei diversi tipi di protesi su progettazione del medico odontoiatra.   
+Classe III (ore 2)   
   
   
-Classificazione biologica degli apparecchi protesici:   
-Protesi chirurgica - protesi ortodontica - protesi di ricostruzione: intarsi, corone parziali, corone totali con e senza spalla, denti a perno - protesi di sostituzione: totale; parziale; removibile ad appoggio mucoso, paradontale, misto; fissa - protesi di fissazione - impianti.   
+Posizione di riposo della mandibola. Occlusione centrica e relazione centrica. Spazio libero fisiologico. Movimenti della mandibola. Ciclo masticatorio. Sollecitazioni meccaniche dei denti: carichi verticali e trasversali. Occlusori. Articolatori e valori medi e articolatori razionali adattabili a valori individuali. Arco facciale.   
+  
+  
+Classe IV (ore 4)   
+  
+  
+Definizione di protesi. Classificazione biologica degli apparecchi di protesi dentaria. Protesi chirurgica. Protesi di ricostruzione: intarsi, corone parziali, corone totali con o senza spalla, denti a perno. Protesi di sostituzione totale; parziale; removibile; ad appoggio mucoso, paradontale, misto; fissa. Protesi di fissazione.  
+Impianti.   
+Funzioni della protesi dentaria: masticatoria, fonetica, estetica.   
+Requisiti igienici della protesi. Direttive per la costruzione dei diversi tipi di protesi.   
+Apparecchi ortodontici.   
+  
+  
+TECNOLOGIA PROFESSIONALE   
+  
+  
+Classe I (ore 3)   
+  
+  
+Cenni storici dell'odontotecnica. La protesi dentaria: sua evoluzione nel tempo. L'ambiente di lavoro. Strumenti ed apparecchiature elementari: nomenclatura, caratteristiche e norme pratiche per il loro corretto uso. Strumenti semplici di misura e loro uso. Semplici problemi di tracciatura nel piano e nello spazio: esercitazioni varie e semplici. Modelli e impronte. Gessi comuni, cere: loro manipolazione.   
+  
+  
+Classe II (ore 3)   
+  
+  
+Descrizione delle apparecchiature ordinarie di lavoro e degli impianti fissi di laboratorio: norme pratiche di uso. Le sorgenti di calore. Proprieta' generali dei corpi: tecnologiche, meccaniche e d'uso, fisiche e chimiche. Cenni di metallografia. Confezione e struttura delle leghe. Proprieta' generali delle leghe.   
+  
+  
+Classe III (ore 4)   
+  
+  
+Apparecchiature speciali di laboratorio. Articolatori.  
+Parallelometri, isoparallelometri. Impianti per la lavorazione degli acciai e delle stelliti. Materiali metallici per la confezione di protesi: leghe d'oro da lavoro e da fusione, acciai e stelliti.  
+Materiali non metallici per la confezione di protesi: resine termoindurenti e termoplastiche; caucciu' e porcellane. Materiali ausiliari metallici e non metallici. Metallotecnica: lavorazioni a freddo e a caldo.   
+  
+  
+Classe IV (ore 4)   
+  
+  
+Comportamento dei materiali protesici nel tempo e con l'uso.  
+Corrosione dei materiali metallici in bocca. Alterazione delle materie plastiche. Caratteristiche elastiche dei materiali odontotecnici. Apparecchiature per fusione di precisione di leghe nobili. Forni per porcellane. Studio delle tecniche razionali di lavoro per la confezione di protesi semplici e complesse e relativi indirizzi esecutivi.   
   
   
 MODELLAZIONE E DISEGNO   
   
   
-Modellazione:   
-Lezioni introduttive riguardanti l'anatomia e la morfologia di ciascun dente.   
-Modellazione in cera dei denti singoli nella scala 2: 1 - modellazione in gesso dei denti singoli nella scala 2: 1 - modellazione in gesso dei denti singoli nella scala 1: 1.   
-Ricostruzione in cera di arcate parzialmente e totalmente edentule in occlusione centrica - ricostruzione in cera di elementi singoli parzialmente distrutti.   
+Classe I (ore 6)   
+  
+  
+Numerose esercitazioni di disegno a mano libera; copia dal vero di gruppi di solidi e nature morte. Risoluzione grafica di problemi elementari di proiezioni ortogonali del punto, della retta e di solidi semplici. Tavole riproducenti dal vero (scala 5: 1) le cinque viste ortogonali dei denti di due semiarcate antagoniste complete.  
+Completamento delle tavole con pandette descriventi la morfologia di ogni singolo dente riprodotto.   
+L'esecuzione di varie figure piane semplici e geometriche, gradualmente piu' complesse, mediante riporti di cera su fogli di cera. Modellazione con cera di tutti i denti superiori e inferiori in scala 2: 1 e successiva loro disposizione su appositi tracciati.   
+Modellazione in cera dei denti di un'arcata inferiore e superiore con radice (scala 1: 1).   
+  
+  
+Classe II (ore 3)   
   
   
 Disegno:   
-Rassegna dei principali problemi di disegno geometrico dalle linee fino alle sezioni coniche - proiezioni ortogonali espresse nella maniera piu' semplice, dalla proiezione del punto sui tre piani principali alla rappresentazione di oggetti per ribaltamenti successivi - i denti - rappresentazione di arcate a semplice scopo dimostrativo della disposizione dei denti distinti per gruppi - appunti e figure dimostrative - disegno dei 32 denti nelle cinque superfici - disegno di semplici apparecchi di protesi fissa e mobile - disegno di singoli elementi dentari ricostruiti e di arcate parzialmente e totalmente edentule ricostruite con protesi di vario tipo e materiale avente lo scopo di illustrare le relazioni tecniche sviluppate durante le lezioni di tecnologia.   
+di arcate in occlusione rappresentante nelle viste: frontale, occlusale e sagittale;   
+di arcate complete: i tre tipi principali ad U, elittica ed iperbolica viste sul piano occlusale;   
+di parti delle ossa craniche e dei muscoli masticatori;   
+di arcate dentarie parzialmente edentule e delle relative appropriate protesi;   
+di arcate dentarie complete anormali richiedenti l'uso di apparecchi correttivi.   
+  
+  
+ELEMENTI DI PRATICA COMMERCIALE   
+  
+  
+Classe IV (ore 2)   
+  
+  
+Calcoli percentuali. Interesse e sconto. La cambiale e gli altri titoli di credito. La compravendita: modalita', pagamento, fattura.   
+Disciplina giuridica dell'impresa artigiana. Le assicurazioni obbligatorie dell'artigianato.   
+Amministrazione del personale: disciplina del rapporto di lavoro. I contributi dovuti all'INPS, all'INAM e all'INAIL. Gli assegni familiari.   
+Concetto di sistema tributario. Imposte dirette: in particolare le imposte sui redditi di lavoro, l'imposta di R.M. e l'imposta complementare. La dichiarazione dei redditi. Imposte indirette: in particolare l'I.G.E. e l'imposta di bollo.   
+La contabilita': libro cassa, inventario, rapporti con i clienti e fornitori, scadenzario impegni attivi e passivi, contabilita' di magazzino. Conservazione dei documenti. Costi di produzione: materiali, mano d'opera, spese generali.   
   
   
 ESERCITAZIONI PRATICHE   
   
   
-Esercitazioni di tracciatura e squadratura di blocchetti di gesso e formatura di ligure geometriche con piccoli incastri colatura di modelli in diversi materiali da impronta - esercizi di piegatura di fili di vario diametro - piccoli esercizi di limatura - esercizi di contorno su lastra di ottone da mm. 0,30 - modellazione in cera della serie di 16 denti - esercizi di modellazione in cera di denti su modelli parzialmente e dentali.   
-Lavorazione a freddo dei metalli e confezione di corone stampate - esercitazioni di saldatura dei metalli a fiamma ed elettricamente - esercizio di fusione dei metalli a fiamma ed elettricamente modellazione in cera su modelli parzialmente edentuli - lavorazione delle materie plastiche - stampaggio di corone metalliche - esercitazione di ancoraggi cementati - protesi fissa: ponti igienici, estetici, funzionali - protesi mobile in materiali plastici - protesi mobile semplice in metallo - confezioni di corone in resina - montaggio di apparecchi completi finiti in materia plastica - protesi parziale scheletrica - perfezionamento fino alla autonomia del lavoro - lavori per l'ambulatorio e l'archivio della scuola - soluzioni protesiche particolari (protesi ammortizzata, isodromia, porcellana, ecc.) - protesi ortodoatica.   
+Classe I (ore 8)   
   
   
-ECONOMIA AZIENDALE   
+Impasto, colatura, tracciatura e squadratura di blocchetti di gesso. Costruzione, a misura, di una serie di solidi geometrici con gesso e lastre di cera mediante l'uso delle attrezzature elementari.   
+Colatura di gesso in impronte di arcate diverse e costruzione in gesso di arcate superiori e inferiori con denti di riposizione preventivamente preparati e relative mascherine completate di zoccolo base.   
+Costruzione di basi di articolazione con piani di masticazione di cera.   
+Serie di esercizi di: piegatura a mano di fili di acciaio di diverso diametro; limatura; tracciatura e taglio di lastre di ottone.   
+Imbutitura e stampaggio a freddo di laminati metallici.   
   
   
-Calcoli percentuali - interesse e sconto - cenni sulla compravendita: modalita', pagamento fattura - la cambiale e gli altri titoli di credito affini - azienda odontotecnica e sua amministrazione - inventario - preventivi - concetto di spese generali e particolari - tenuta della contabilita' - scritture computistiche in partita semplice - registri indispensabili per le piccole aziende - tributi e assicurazioni sociali.   
+Classe II (ore 14)   
+  
+  
+Ricostruzione in cera di arcate parzialmente edentule. Lavorazione di materiale plastico termo-indurente, auto-indurente e termo-plastico. Costruzione di portaimpronte individuali in "baseplates" e resina antipolimerizzante.   
+Costruzione di basi di articolazione con piani di masticazione in cera.   
+Lavorazione dei metalli:   
+a freddo: costruzione di corone, ganci a filo e a fascia;   
+a caldo: saldatura a fiamma ed elettrica; fusione a fiamma ed elettrica.   
+  
+  
+Classe III (ore 18)   
+  
+  
+Costruzione di:   
+a) ancoraggi per protesi fisse e mobili;   
+b) protesi parziali mobili con materiali termo-indurenti;   
+c) protesi fisse di ricostruzione e sostituzione in metallo, miste e in resina.   
+Esercizi introduttivi alle tecniche per la costruzione di apparecchi elementari di ortodonzia e protesi di porcellana.   
+  
+  
+Classe IV (ore 18)   
+  
+  
+Costruzione di:   
+a) protesi mobile completa superiore, inferiore e totale;   
+b) protesi parziale scheletrata;   
+c) protesi ammortizzata e combinata.   
+Esecuzione di apparecchi elementari di ortodonzia, di fissazione e di ricostruzione fissa in porcellana.   
+Il programma sara' opportunamente integrato con altre idonee esercitazioni attraverso le quali l'alunno raggiungera' la necessaria autonoma capacita' esecutiva.   
+  
+  
+  
+  
+  
+Venezia-Mestre, addi' 21 luglio 1970   
   
   
 Il preside: LEVIS   
-  
   
 Visto, d'ordine del Presidente della Repubblica   
   

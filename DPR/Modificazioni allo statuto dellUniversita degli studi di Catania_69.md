@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 882
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 aprile 1973 n. 385
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 882
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 aprile 1973 n. 385
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
@@ -10,340 +10,253 @@ Modificazioni allo statuto dell'Universita' degli studi di Catania.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938) n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 176 - all'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola di specializzazione in chirurgia d'urgenza e pronto soccorso.
+Art. 18, concernente gli insegnamenti del primo biennio del corso di laurea in scienze politiche e' modificato come segue:
 
-Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in chirurgia d'urgenza e pronto soccorso:
+Sono obbligatori sul piano nazionale, ai sensi di legge, i seguenti sei insegnamenti:
 
-Scuola di specializzazione in chirurgia d'urgenza e pronto soccorso Art. 265. - La scuola di specializzazione in chirurgia d'urgenza e pronto soccorso ha sede presso l'istituto di anatomia chirurgica e corso di operazioni dell'Universita' di Catania.
+1) Istituzioni di diritto pubblico;
 
-Art. 266. - Il corso di studi per il conseguimento del diploma di specialista in chirurgia d'urgenza e' pronto soccorso ha la durata di cinque (5) anni accademici.
+2) Diritto costituzionale italiano e comparato;
 
-Art. 267. - Alla scuola possono iscriversi i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+3) Economia politica;
 
-Il numero massimo degli iscritti e' di quattro per anno di corso e complessivamente di venti iscritti per l'intero corso di studi. Non sono ammesse abbreviazioni di corso. L'ammissione al corso avviene per titoli ed esami.
+4) Statistica;
 
-Art. 268. - La frequenza alle lezioni, esercitazioni e seminari e' obbligatoria per tutti gli iscritti. L'internato e' obbligatorio durante tutti i cinque anni di corso sotto forma di permanenza costante in istituto durante le ore della sua attivita'.
+5) Sociologia;
 
-Art. 269. - Le materie di insegnamento sono le seguenti:
+6) Storia moderna I.
 
-clinica chirurgica generale d'urgenza e di pronto soccorso;
+Gli altri tre insegnamenti obbligatori sono scelti, all'inizio di ogni anno accademico, dal consiglio di facolta', in relazione alle esigenze didattiche, tra i seguenti otto insegnamenti:
 
-patologia chirurgica;
+1) Scienza della politica;
 
-anatomia chirurgica;
+2) Istituzioni di diritto privato;
 
-semeiotica;
+3) Organizzazione internazionale;
 
-anestesiologia;
+4) Storia delle istituzioni politiche;
 
-ricerche di laboratorio;
+5) Storia contemporanea;
 
-anatomia patologica;
+6) Storia delle dottrine politiche;
 
-endoscopia;
+7) Politica economica e finanziaria;
 
-fisiopatologia chirurgica;
+8) Filosofia della politica.
 
-chirurgia sperimentale;
+Gli insegnamenti del presente elenco, non scelti come obbligatori per il biennio propedeutico, saranno inseriti tra gli insegnamenti dei bienni di specializzazione.
 
-trattamento pre e post operatorio in chirurgia d'urgenza;
+Art. 19. - All'elenco degli insegnamenti obbligatori ed opzionali del 2° biennio sono aggiunti i seguenti:
 
-rianimazione;
+Politica comparata;
 
-chirurgia vascolare d'urgenza;
+Amministrazione comparata;
 
-traumatologia dell'apparato locomotore;
+Governo locale;
 
-neurotraumatologia;
+Sistema politico italiano;
 
-terapia intensiva;
+Organizzazione e comportamento legislativo;
 
-radiologia;
+Organizzazione e comportamento giudiziario;
 
-chirurgia ginecologica d'urgenza;
+Analisi del linguaggio politico;
 
-chirurgia pediatrica d'urgenza;
+Storia della filosofia politica;
 
-chirurgia plastica e riparatrice;
+Psicologia del lavoro;
 
-chirurgia toracica d'urgenza;
+Psicologia dei gruppi;
 
-cardiochirurgia d'urgenza;
+Sociologia urbana;
 
-angioradiologia;
+Sociologia rurale;
 
-chirurgia urologica d'urgenza;
+Sociologia del lavoro;
 
-traumatologia maxillo-facciale;
+Sociologia dell'industria;
 
-trattamento del politraumatizzato;
+Sociologia criminale;
 
-medicina legale.
+Sociologia delle comunicazioni di massa;
 
-Art. 270. - Le materie di insegnamento sono cosi' distribuite:
+Statistica sociale;
 
-1° Anno:
+Analisi economica;
 
-clinica chirurgica generale d'urgenza e di pronto
+Dinamica economica;
 
-soccorso I;
+Politica finanziaria;
 
-patologia chirurgica I;
+Contabilita' nazionale;
 
-anatomia chirurgica;
+Sistemi economici comparati;
 
-semeiotica I;
+Economia bancaria e monetaria;
 
-anestesiologia;
+Programmazione regionale;
 
-ricerche di laboratorio;
+Politica economica regionale;
 
-chirurgia sperimentale.
+Economia e politica del lavoro;
 
-2° Anno:
+Teoria e politica dello sviluppo economico;
 
-clinica chirurgica generale d'urgenza e di pronto
+Economia urbanistica;
 
-soccorso II;
+Geografia economica;
 
-patologia chirurgica II;
+Legislazione di banca e di borsa;
 
-anatomia patologica;
+Diritto penale dell'economia;
 
-endoscopia;
+Diritto dei trasporti internazionali;
 
-fisiopatologia chirurgica I;
+Diritto sindacale italiano e comparato;
 
-semeiotica II;
+Diritto industriale;
 
-trattamento pre e post operatorio in chirurgia d'urgenza;
+Storia ed istituzioni dell'America latina;
 
-rianimazione.
+Storia del Nord America;
 
-3° Anno:
+Storia ed istituzioni dell'Africa;
 
-clinica chirurgica generale d'urgenza e di pronto
+Storia del pensiero giuridico;
 
-soccorso III;
+Storia ed istituzioni dei popoli arabi;
 
-patologia chirurgica III;
+Storia delle istituzioni dell'Europa orientale;
 
-chirurgia vascolare d'urgenza;
-
-traumatologia dell'apparato locomotore I;
-
-neurotraumatologia I;
-
-fisiopatologia chirurgica II;
-
-terapia intensiva I;
-
-radiologia.
-
-4° Anno:
-
-clinica chirurgica generale d'urgenza e di pronto
-
-soccorso IV;
-
-chirurgia ginecologica d'urgenza;
-
-chirurgia pediatrica d'urgenza;
-
-chirurgia plastica e riparatrice I;
-
-traumatologia dell'apparato locomotore II;
-
-neurotraumatologia II;
-
-chirurgia toracica d'urgenza I;
-
-terapia intensiva II.
-
-5° Anno:
-
-clinica chirurgica generale d'urgenza e di pronto
-
-soccorso V;
-
-chirurgia plastica e riparatrice II;
-
-chirurgia toracica d'urgenza II;
-
-cardiochirurgia d'urgenza;
-
-chirurgia urologica d'urgenza;
-
-angioradiologia;
-
-traumatologia maxillo-facciale;
-
-trattamento del politraumatizzato;
-
-medicina legale.
-
-Art. 271. - Alla fine di ogni anno gli specializzandi per poter ottenere l'ammissione all'anno successivo dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno di corso; per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
-
-Art. 272. - L'esame di diploma consiste nella discussione di una tesi su un tema preventivamente approvato dal direttore della scuola.
-
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
-
-Le norme per l'iscrizione, gli esami, le tasse, ecc., sono quelle generali per le scuole di specializzazione dell'Universita' di Catania.
+Storia della scienza e della tecnica.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1978
+Dato a Roma, addi' 16 aprile 1973
 
-PERTINI
+LEONE
 
-PEDINI
+SCALFARO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 28 dicembre 1978 Registro n. 135 Istruzione, foglio n. 304
+alla Corte dei conti, addi' 10 luglio 1973 Atti di Governo, registro n. 258, foglio n. 184 - VALENTINI
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Veduto il [regio decreto 30 settembre 1938) n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 176 - all'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola di specializzazione in chirurgia d'urgenza e pronto soccorso.  
-Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in chirurgia d'urgenza e pronto soccorso:  
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 18, concernente gli insegnamenti del primo biennio del corso di laurea in scienze politiche e' modificato come segue:  
+Sono obbligatori sul piano nazionale, ai sensi di legge, i seguenti sei insegnamenti:  
+1) Istituzioni di diritto pubblico;  
+2) Diritto costituzionale italiano e comparato;  
+3) Economia politica;  
+4) Statistica;  
+5) Sociologia;  
+6) Storia moderna I.  
+Gli altri tre insegnamenti obbligatori sono scelti, all'inizio di ogni anno accademico, dal consiglio di facolta', in relazione alle esigenze didattiche, tra i seguenti otto insegnamenti:  
+1) Scienza della politica;  
+2) Istituzioni di diritto privato;  
+3) Organizzazione internazionale;  
+4) Storia delle istituzioni politiche;  
+5) Storia contemporanea;  
+6) Storia delle dottrine politiche;  
+7) Politica economica e finanziaria;  
+8) Filosofia della politica.  
+Gli insegnamenti del presente elenco, non scelti come obbligatori per il biennio propedeutico, saranno inseriti tra gli insegnamenti dei bienni di specializzazione.  
+Art. 19. - All'elenco degli insegnamenti obbligatori ed opzionali del 2° biennio sono aggiunti i seguenti:  
   
-Scuola di specializzazione in chirurgia d'urgenza e pronto soccorso Art. 265. - La scuola di specializzazione in chirurgia d'urgenza e pronto soccorso ha sede presso l'istituto di anatomia chirurgica e corso di operazioni dell'Universita' di Catania.  
-Art. 266. - Il corso di studi per il conseguimento del diploma di specialista in chirurgia d'urgenza e' pronto soccorso ha la durata di cinque (5) anni accademici.  
-Art. 267. - Alla scuola possono iscriversi i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Il numero massimo degli iscritti e' di quattro per anno di corso e complessivamente di venti iscritti per l'intero corso di studi. Non sono ammesse abbreviazioni di corso. L'ammissione al corso avviene per titoli ed esami.  
-Art. 268. - La frequenza alle lezioni, esercitazioni e seminari e' obbligatoria per tutti gli iscritti. L'internato e' obbligatorio durante tutti i cinque anni di corso sotto forma di permanenza costante in istituto durante le ore della sua attivita'.  
-Art. 269. - Le materie di insegnamento sono le seguenti:  
-clinica chirurgica generale d'urgenza e di pronto soccorso;  
-patologia chirurgica;  
-anatomia chirurgica;  
-semeiotica;  
-anestesiologia;  
-ricerche di laboratorio;  
-anatomia patologica;  
-endoscopia;  
-fisiopatologia chirurgica;  
-chirurgia sperimentale;  
-trattamento pre e post operatorio in chirurgia d'urgenza;  
-rianimazione;  
-chirurgia vascolare d'urgenza;  
-traumatologia dell'apparato locomotore;  
-neurotraumatologia;  
-terapia intensiva;  
-radiologia;  
-chirurgia ginecologica d'urgenza;  
-chirurgia pediatrica d'urgenza;  
-chirurgia plastica e riparatrice;  
-chirurgia toracica d'urgenza;  
-cardiochirurgia d'urgenza;  
-angioradiologia;  
-chirurgia urologica d'urgenza;  
-traumatologia maxillo-facciale;  
-trattamento del politraumatizzato;  
-medicina legale.  
-Art. 270. - Le materie di insegnamento sono cosi' distribuite:  
-1° Anno:  
-clinica chirurgica generale d'urgenza e di pronto  
-soccorso I;  
-patologia chirurgica I;  
-anatomia chirurgica;  
-semeiotica I;  
-anestesiologia;  
-ricerche di laboratorio;  
-chirurgia sperimentale.  
-2° Anno:  
-clinica chirurgica generale d'urgenza e di pronto  
-soccorso II;  
-patologia chirurgica II;  
-anatomia patologica;  
-endoscopia;  
-fisiopatologia chirurgica I;  
-semeiotica II;  
-trattamento pre e post operatorio in chirurgia d'urgenza;  
-rianimazione.  
-3° Anno:  
-clinica chirurgica generale d'urgenza e di pronto  
-soccorso III;  
-patologia chirurgica III;  
-chirurgia vascolare d'urgenza;  
-traumatologia dell'apparato locomotore I;  
-neurotraumatologia I;  
-fisiopatologia chirurgica II;  
-terapia intensiva I;  
-radiologia.  
-4° Anno:  
-clinica chirurgica generale d'urgenza e di pronto  
-soccorso IV;  
-chirurgia ginecologica d'urgenza;  
-chirurgia pediatrica d'urgenza;  
-chirurgia plastica e riparatrice I;  
-traumatologia dell'apparato locomotore II;  
-neurotraumatologia II;  
-chirurgia toracica d'urgenza I;  
-terapia intensiva II.  
-5° Anno:  
-clinica chirurgica generale d'urgenza e di pronto  
-soccorso V;  
-chirurgia plastica e riparatrice II;  
-chirurgia toracica d'urgenza II;  
-cardiochirurgia d'urgenza;  
-chirurgia urologica d'urgenza;  
-angioradiologia;  
-traumatologia maxillo-facciale;  
-trattamento del politraumatizzato;  
-medicina legale.  
-Art. 271. - Alla fine di ogni anno gli specializzandi per poter ottenere l'ammissione all'anno successivo dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno di corso; per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.  
-Art. 272. - L'esame di diploma consiste nella discussione di una tesi su un tema preventivamente approvato dal direttore della scuola.  
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Le norme per l'iscrizione, gli esami, le tasse, ecc., sono quelle generali per le scuole di specializzazione dell'Universita' di Catania.  
+Politica comparata;  
+Amministrazione comparata;  
+Governo locale;  
+Sistema politico italiano;  
+Organizzazione e comportamento legislativo;  
+Organizzazione e comportamento giudiziario;  
+Analisi del linguaggio politico;  
+Storia della filosofia politica;  
+Psicologia del lavoro;  
+Psicologia dei gruppi;  
+Sociologia urbana;  
+Sociologia rurale;  
+Sociologia del lavoro;  
+Sociologia dell'industria;  
+Sociologia criminale;  
+Sociologia delle comunicazioni di massa;  
+Statistica sociale;  
+Analisi economica;  
+Dinamica economica;  
+Politica finanziaria;  
+Contabilita' nazionale;  
+Sistemi economici comparati;  
+Economia bancaria e monetaria;  
+Programmazione regionale;  
+Politica economica regionale;  
+Economia e politica del lavoro;  
+Teoria e politica dello sviluppo economico;  
+Economia urbanistica;  
+Geografia economica;  
+Legislazione di banca e di borsa;  
+Diritto penale dell'economia;  
+Diritto dei trasporti internazionali;  
+Diritto sindacale italiano e comparato;  
+Diritto industriale;  
+Storia ed istituzioni dell'America latina;  
+Storia del Nord America;  
+Storia ed istituzioni dell'Africa;  
+Storia del pensiero giuridico;  
+Storia ed istituzioni dei popoli arabi;  
+Storia delle istituzioni dell'Europa orientale;  
+Storia della scienza e della tecnica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1978
+### Dato a Roma, addi' 16 aprile 1973
 
-PERTINI PEDINI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 28 dicembre 1978
+Registrato alla Corte dei conti, addi' 10 luglio 1973
 
-Registro n. 135 Istruzione, foglio n. 304
+Atti di Governo, registro n. 258, foglio n. 184 - VALENTINI

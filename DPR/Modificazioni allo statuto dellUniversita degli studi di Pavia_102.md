@@ -1,86 +1,112 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1980 n. 834
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 902
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1980 n. 834
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 902
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio nazionale universitario;
+
+Veduto il [parere della sezione prima del Consiglio di Stato n. 1902/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
+
+Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli atenei relativi alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' di scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Lo statuto dell'Universita' di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+L'art. 154, relativo alla scuola di specializzazione in idroclimatologia medica e clinica termale, che muta la denominazione in quella di scuola di specializzazione in idrologia medica, e' soppresso e sostituito dal seguente:  
+Art. 154. - La scuola mira a creare una categoria di medici altamente qualificati e competenti nel campo della idrologia e della climatologia medica, compresa la talassologia, i quali possono esercitare un'attivita' specifica in particolare nelle stazioni termali e climatiche.  
+La durata del corso di studi e' di tre anni.  
+Non sono consentite in nessun caso abbreviazioni di corso.  
+Alla scuola sono ammessi i laureati in medicina e chirurgia in possesso, almeno all'inizio del corso, del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Il numero totale massimo degli iscritti per i tre anni di corso e' di venticinque, in relazione alle attrezzature dei laboratori ed al personale assistente e tecnico degli istituti dove si svolgono gli insegnamenti.  
+L'insegnamento e le esercitazioni per gli specializzandi degli ultimi due anni si svolgono nei seguenti istituti:  
+clinica medica, patologia medica, medicina del lavoro, clinica dermosifilopatica, clinica ortopedica, clinica otorinolaringoiatrica, clinica pediatrica, clinica ostetrica e ginecologica, clinica chirurgica.  
+Tali cliniche mettono a disposizione quei casi che possono interessare sul piano didattico l'insegnamento della idroclimatologia e clinica termale.  
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+
+Art. 2
+------
+
   
-Decreta:  
+Gli articoli 234, 235, 236, 237, 238, 239, 240, relativi alla scuola di specializzazione per medici laboratoristi, che muta la denominazione in quella di scuola di specializzazione in biologia clinica, sono soppressi e sostituiti dai seguenti:  
   
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli da 311 a 319, relativi all'ordinamento della scuola per ortottiste, che muta la denominazione in quella di ortottisti-assistenti di oftalmologia, sono abrogati e sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi:  
-  
-Scuola speciale per ortottisti-assistenti di oftalmologia  
-Art. 311. - E' istituita presso la facolta' di medicina e chirurgia dell'Universita' di Pavia una scuola speciale di preparazione per ortottisti-assistenti di oftalmologia che ha sede presso la clinica oculistica di questa Universita'.  
-Art. 312. - La scuola ha lo scopo di dare una preparazione completa, teorico-pratica, istruendo gli allievi sui problemi della motilita' oculare, delle ambliopie, delle tecniche diagnostiche, della visione binoculare, del trattamento pre e post operatorio dei pazienti strabici, dei problemi sui vizi di refrazione e della loro correzione e sulle tecniche diagnostiche in oftalmologia.  
-La durata del corso per conseguire il diploma di ortottista-assistente di oftalmologia e' di tre anni.  
-Ne sono titoli di ammissione il possesso di un diploma legalmente valido ai fini della iscrizione all'Universita' ai sensi dell'[art. 1 della legge n. 910 dell'11 dicembre 1969](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1) e la conoscenza di una lingua straniera (inglese, francese, tedesco, spagnolo).  
-Art. 313. - Gli aspiranti all'iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova di cultura generale e in una prova per la conoscenza della lingua straniera. E' richiesto un certificato di sana e robusta costituzione, con particolare riguardo alla funzione visiva.  
-Art. 314. - Il numero complessivo degli iscritti alla scuola e' di dodici (quattro per anno di corso). Qualora le domande di iscrizione fossero in numero superiore al numero massimo previsto, il consiglio della scuola si riserva di provvedere ad una scelta tra gli idonei in base ai risultati delle prove di ammissione; gli idonei possono essere ammessi anche in soprannumero in rapporto a posti che si rendessero vacanti nel corso del secondo e terzo anno. I ripetenti e i fuori corso, qualora riprendano gli studi, sono riammessi in soprannumero.  
-Art. 315. - Il direttore della scuola e' il titolare della cattedra di clinica oculistica o altro docente di disciplina affine, proposto dal titolare della cattedra di clinica oculistica, sentito il consiglio della scuola.  
-Art. 316. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria. La frequenza e' obbligatoria.  
-Art. 317. - Il corso comprende lezioni teoriche ed esercitazioni pratiche. Le materie di insegnamento sono le seguenti:  
+Scuola di specializzazione in biologia clinica  
+Art. 234. - La scuola di specializzazione in biologia clinica ha sede presso l'istituto di chimica biologica - facolta' di medicina e chirurgia - Universita' di Pavia e conferisce il diploma di specialista in biologia clinica.  
+La scuola di specializzazione in biologia clinica ha lo scopo di preparare sul piano scientifico e tecnico i medici che intendano dedicarsi particolarmente alle analisi di laboratorio chimico-cliniche o microbiologiche applicate alla clinica.  
+Art. 235. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo e fuori ruolo di materia affine.  
+Art. 236. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Art. 237. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione. Il numero massimo degli allievi e' di venti per anno di corso e' complessivamente di ottanta iscritti per l'intero corso di studi. L'ammissione al corso avviene per titoli ed esami.  
+Art. 238. - Le materie di insegnamento sono le seguenti:  
 1° Anno:  
-1) elementi di anatomia dell'apparato visivo e del S.N.C.;  
-2) fisiologia dell'occhio, della motilita' oculare, della visione binoculare;  
-3) ottica fisica e fisiopatologica;  
-4) ortottica I;  
-5) psicologia infantile.  
+chimica biologica generale;  
+fondamenti di chimico-fisica biologica;  
+batteriologia generale;  
+biochimica analitica I;  
+tecnica dei prelevamenti;  
+fisiopatologia I;  
+fondamenti di statistica biologica.  
 2° Anno:  
-1) elementi di patologia oculare;  
-2) elementi di farmacologia oculare;  
-3) elementi di neurooftalmologia;  
-4) ortottica II;  
-5) nozione di chirurgia ed assistenza oftalmica.  
+chimica biologica speciale di organi e tessuti;  
+fisiopatologia II;  
+ematologia ed ematochimica I;  
+batteriologia speciale;  
+immunologia e sierologia;  
+biochimica analitica II.  
 3° Anno:  
-1) tecniche semeiologiche dell'apparato visivo I (es. refrazione, contattologia, adattometria, campo visivo, senso cromatico);  
-2) tecniche semeiologiche ed elettrofisiologiche (tonometria e tonografia; ERG; EOG; EMG; ecografia, retinografia e fluoroangiografia);  
-3) ortottica III;  
-4) nozioni di riabilitazione senso-motoria dell'eta' infantile;  
-5) legislazione sanitaria.  
-Art. 318. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo per gli allievi della frequenza obbligatoria ai fini dell'apprendimento per l'intero periodo di corso di studi nella clinica oculistica. La frequenza viene comprovata dalla attestazione rilasciata sul libretto di iscrizione dagli insegnanti e per l'attivita' pratica dal direttore della scuola. L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.  
-Art. 319. - Alla fine di ogni anno gli allievi devono sostenere un esame sulle materie di insegnamento: Nel caso in cui i candidati non abbiano superato gli esami prescritti, essi rimarranno nella posizione di ripetenti.  
-Art. 320. - Gli esami di profitto consistono in prove teoriche e pratiche.  
-Art. 321. - Alla fine del corso gli allievi debbono sostenere un esame di diploma che consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento, assegnata dal direttore della scuola e in una prova pratica stabilita da Una commissione esaminatrice. I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola, ma se al secondo anno non sia loro riconosciuta la idoneita', saranno senza altro esclusi da ulteriori prove.  
-Art. 322. - Gli esami di profitto e di diploma si danno in due sessioni, la prima estiva che ha inizio subito dopo la chiusura annuale dei corsi e la seconda autunnale, nel mese che precede l'inizio del nuovo anno accademico.  
-Art. 323. - Le commissioni per gli esami di ammissione, di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della clinica. Le commissioni per gli esami di ammissione e di profitto sono composte da tre membri: direttore della scuola, presidente e da due insegnanti della scuola stessa. La commissione per gli esami di diploma e' costituita dal direttore della scuola, dal presidente, e da quattro scelti fra gli insegnanti della scuola stessa o altri docenti.  
-Art. 324. - Al funzionamento della suddetta, scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni e contributi di enti pubblici o privati.  
-  
-REGOLAMENTO  
-DELL'UNIVERSITA' DEGLI STUDI DI PAVIA  
-SCUOLE A FINI SPECIALI  
-  
-Scuola per ortottisti-assistenti di oftalmologia  
-  
-Sono ammessi al terzo anno della scuola, con obbligo di tutti gli esami del terzo anno e della tesi, le diplomate delle scuole speciali per ortottiste ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), purche' abbiano esercitato con continuita' una attivita' professionale adeguata e documentata.  
+nozioni di igiene e legislazione sanitaria;  
+ematologia ed ematochimica II;  
+chimica clinica;  
+immunochimica;  
+parassitologia;  
+virologia.  
+4° Anno:  
+analisi biologico-tossicologiche;  
+endocrinologia clinica e dosaggi ormonali;  
+micologia;  
+enzimologia clinica;  
+automazione e controlli di qualita';  
+metodiche microanalitiche;  
+microscopia clinica e citodiagnostica.  
+Art. 239. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
+Art. 240. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi. Al termine del corso di studi per il conseguimento del diploma di specialista in biologia clinica gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione e nell'espletamento di prove pratiche.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 settembre 1980
+### Dato a Roma, addi' 31 ottobre 1979
 
-p. Il Presidente della Repubblica Il Presidente del Senato FANFANI SARTI
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: SANTI
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 26 novembre 1980
+Registrato alla Corte dei conti, addi' 26 aprile 1980
 
-Registro n. 111 Istruzione, foglio n. 315
+Registro n. 38 Istruzione, foglio n. 40

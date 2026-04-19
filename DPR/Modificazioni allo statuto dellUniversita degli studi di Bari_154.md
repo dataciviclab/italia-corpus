@@ -1,83 +1,68 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1962 n. 2061
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1981 n. 832
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1962 n. 2061
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1981 n. 832
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Veduto il [decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+All'art. 66 relativo agli istituti della facolta' di farmacia e' aggiunto il seguente:  
+Istituto di biochimica, per gli insegnamenti di:  
+chimica biologica;  
+biochimica applicata;  
+chimica analitica clinica;  
+enzimologia;  
+biologia molecolare;  
+scienza dell'alimentazione.  
+
+Art. 2
+------
+
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso;  
-L'art. 98 e' abrogato e sostituito dal seguente:  
-"La Facolta' di ingegneria e' costituita, su cinque anni e comprende il corso di laurea in Ingegneria civile (sezione edile, idraulica e trasporti), ed il corso di laurea in Ingegneria elettrotecnica".  
-Dopo l'art. 103 e' aggiunto il seguente nuovo articolo, con il conseguente spostamento della numerazione degli articoli successivi, contenente l'elenco degli insegnamenti del triennio (3°, 4° e 5° anno) del corso di laurea in Ingegneria elettrotecnica che si distinguono in:  
-A) Obbligatori comuni su piano nazionale;  
-B) Obbligatori sul piano della Facolta';  
-C) Gruppi di materie a scelta dello studente.  
-  
-TRIENNIO  
-  
-3° anno:  
-1) Scienza delle costruzioni;  
-2) Meccanica applicata alle macchine;  
-3) Fisica tecnica;  
-4) Elettrotecnica I;  
-5) Materiali (semestrale);  
-6) Complementi di matematica (semestrale);  
-4° anno:  
-7) Idraulica;  
-8) Macchine;  
-9) Elettrotecnica II;  
-10) Misure elettriche I;  
-11) Impianti elettrici I;  
-12) Elettronica applicata;  
-5° anno:  
-13) Impianti elettrici II;  
-14) Applicazioni elettriche;  
-15) Controlli automatici;  
-16) Macchine elettriche;  
-17) Legislazione (semestrale);  
-18) Economia industriale (semestrale).  
-  
-A SCELTA DELLO STUDENTE  
-  
-Orientamento impianti:  
-Impianti elettrici II;  
-Misure elettriche II;  
-Orientamento elettromeccanica:  
-Costruzione elettromeccaniche;  
-Misure elettriche III.  
-Per essere ammesso all'esame di laurea lo studente deve aver superato gli esami delle materie fondamentali e delle due dell'indirizzo prescelto.  
-L'esame di laurea consta di due prove, una orale vertente sugli argomenti delle materie svolte nel corso di laurea, l'altra vertente sulla discussione di un progetto particolare presentato come tesi.  
+Dopo l'art. 125, e con il conseguente spostamento della numerazione, e' aggiunto il seguente nuovo articolo relativo alla istituzione della biblioteca presso la facolta' di ingegneria:  
+"Alla facolta' e' annessa la biblioteca della facolta' di ingegneria con il fine di rendere disponibile a docenti e studenti documentazione scientifica e tecnica".  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo e chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1962
+### Dato a Roma, addi' 2 marzo 1981
 
-SEGNI GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 17 aprile 1963
+Registrato alla Corte dei conti, addi' 7 gennaio 1982
 
-Atti del Governo, registro n. 168, foglio n. 12. - VILLA
+Registro n. 1 Istruzione, foglio n. 121

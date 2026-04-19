@@ -1,115 +1,134 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 986
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1051
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 986
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1051
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Veduto l'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Veduta la necessita' di adeguare le norme sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Lo statuto dell'Universita' di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Articolo unico  
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta.   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Dopo l'art. 443, e con il conseguente spostamento della numerazione, sono inseriti i seguenti nuovi articoli relativi all'istituzione della seconda scuola di specializzazione in pediatria.  
+Decreta:   
   
-Scuola di specializzazione in pediatria (seconda scuola)  
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Art. 444. - Presso l'istituto di puericultura e medicina neonatale e' istituita la scuola di specializzazione in pediatria (seconda scuola). Essa conferisce il diploma di specializzazione in pediatria.  
-La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
-Art. 445. - La durata del corso di studi e' di quattro anni.  
-Art. 446. - Il numero massimo degli allievi e' di quarantotto complessivamente per l'intero corso di studi.  
-Art. 447. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) genetica;  
-2) auxologia;  
-3) alimentazione;  
-4) epidemiologia;  
-5) malattie infettive;  
-6) clinica pediatrica I.  
-2° Anno:  
-1) radiologia;  
-2) legislazione del minore;  
-3) organizzazione sanitaria;  
-4) psicologia pediatrica;  
-5) oculistica ed ortottica;  
-6) otorino e foniatria;  
-7) odonto;  
-8) neonatologia I;  
-9) chirurgia pediatrica I;  
-10) pediatria preventiva e sociale I;  
-11) clinica pediatrica II.  
-3° Anno:  
-1) neurologia;  
-2) psichiatria infantile;  
-3) nefrologia e urologia;  
-4) ginecologia pediatrica;  
-5) neonatologia II;  
-6) chirurgia pediatrica II;  
-7) pediatria preventiva e sociale II;  
-8) cardiologia I;  
-9) endocrinologia;  
-10) ematologia I;  
-11) immunologia I;  
-12) gastroenterologia I;  
-13) clinica pediatrica III.  
-4° Anno:  
-1) oncologia;  
-2) pneumologia;  
-3) ortopedia e traumatologia;  
-4) dermatologia;  
-5) cardiologia II;  
-6) endocrinologia II;  
-7) ematologia II;  
-8) immunologia II;  
-9) gastroenterologia II;  
-10) clinica pediatrica IV.  
-Art. 448. - La frequenza alle lezioni, alle esercitazioni pratiche e' obbligatoria.  
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere le prove d'esame.  
-Art. 449. - Alla fine di ciascun anno di corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto anno per anno.  
-Al termine del corso di studi, per il conseguimento del diploma di specializzazione in pediatria, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione, un esame teorico di clinica pediatrica e nell'esame clinico di un malato.  
+L'art. 122, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Fisiochinesiterapia e rieducazione neuromotoria" muta la denominazione in quella di scuola in "Terapia fisica e riabilitazione".   
+Allo stesso elenco e' aggiunta la scuola in "Malattie dell'apparato cardiovascolare".   
+L'art. 237, relativo alla scuola di specializzazione in "Igiene e medicina preventiva" e' modificato nel senso che alla scuola possono essere ammessi oltre i laureati in medicina e chirurgia, i laureati in scienze biologiche e in farmacia (per gli orientamenti di laboratorio e sanita' pubblica), in ingegneria civile (per l'orientamento di igiene e tecnica ospedaliera), in scienze naturali e in pedagogia (per l'orientamento di igiene e medicina scolastica).   
+L'art. 246, relativo alla scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio e' modificato nel senso che dopo il primo comma e' aggiunto il seguente.   
+"Non sono ammesse abbreviazioni di corso, ad eccezione dei casi previsti dal regolamento generale sulle scuole di specializzazione dell'Universita' di Genova o di candidati gia' in possesso del diploma di specializzazione in tisiologia, che possono essere ammessi al terzo anno".   
+L'art. 254, relativo alla scuola di specializzazione in chirurgia vascolare e' modificato nel senso che dopo il terzo comma e' aggiunto il seguente.   
+"I medici che abbiano gia' conseguito la specializzazione in angiologia e che vengano ammessi al terzo anno della scuola di specializzazione in chirurgia vascolare dovranno pagare, contrariamente a quanto disposto dalle norme generali, i contributi di laboratorio soltanto per il terzo anno".   
+Gli articoli 260, 261 e 262, relativi alla scuola di specializzazione in "Fisiochinesiterapia e rieducazione neuromotoria" che muta la denominazione in quella di scuola in "Terapia fisica e riabilitazione", sono abrogati e sostituiti dai seguenti.   
   
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Dato a Roma, addi' 31 ottobre 1981
-
-PERTINI BODRATO
-
-Visto, il Guardasigilli: DARIDA
-
-Registrato alla Corte dei conti, addi' 9 febbraio 1982
-
-Registro n. 20 Istruzione, foglio n. 171
+Scuola di specializzazione in terapia fisica e riabilitazione   
+  
+Art. 260. - Presso l'istituto di clinica delle malattie nervose e mentali dell'Universita' di Genova e' istituita la scuola di specializzazione in terapia fisica e riabilitazione, che ha lo scopo di conferire la necessaria competenza teorica e pratica ai laureati in medicina e chirurgia, i quali intendano conseguire il diploma di specializzazione in terapia fisica e riabilitazione. La durata del corso sara' di tre anni.   
+Alla scuola possono iscriversi soltanto i laureati in medicina e chirurgia. Le norme d'iscrizione, pagamento tasse, esami ecc., sono le generali della scuola di specializzazione e di perfezionamento riferite negli articoli da 122 a 137 dello statuto dell'universita'.   
+Il numero degli iscritti non puo' essere superiore a 18 (diciotto) per l'intero corso di studi.   
+Per essere ammesso a frequentare il corso il candidato sara' sottoposto ad un esame di ammissione consistente in un colloquio teorico su elementi di anatomia e fisiopatologia del sistema nervoso.   
+Art. 261. - Gli insegnamenti impartiti nella suddetta scuola sono i seguenti:   
+  
+1° Anno:   
+Materie fondamentali:   
+1) Principi di anatomia funzionale (propedeutico per tutte le materie d'insegnamento di base degli anni successivi e per quelle facoltative);   
+2) Fisiopatologia dell'apparato neuromotore (come sopra).   
+  
+2° Anno:   
+1) Semeiotica e clinica delle motulesioni neurologiche (propedeutico per le materie di insegnamento di base, del terzo anno);   
+2) Semeiotica e clinica delle deformita' e motulesioni ortopediche (come sopra);   
+3) Massoterapia e terapia manuale;   
+4) Cinesiologia e cinesiterapia e ginnastica medica;   
+5) Idroterapia e balneoterapia.   
+  
+Materie facoltative:   
+a) Elettromiografia;   
+b) Rieducazione respiratoria;   
+c) Medicina assicurativa;   
+d) Rieducazione dei disturbi della visione.   
+  
+3° Anno:   
+Materie fondamentali:   
+1) Elettroterapia ed elettrologia;   
+2) Terapia con onde corte ed altri mezzi fisici;   
+3) Rieducazione motoria e riabilitazione in campo ortopedico e traumatologico;   
+4) Rieducazione motoria e riabilitazione in campo neurologico.   
+  
+Materie facoltative:   
+a) Riabilitazione nei disturbi del linguaggio;   
+b) Problemi psicologici e psicopatologici della riabilitazione;  
+c) Climatoterapia;   
+d) Problemi di riabilitazione geriatrica;   
+e) Riqualificazione professionale.   
+  
+Art. 262. - Gli insegnamenti delle materie fondamentali costituiscono materia obbligatoria d'esame.   
+Lo specializzando dovra' sostenere a sua scelta, almeno due esami delle materie facoltative del 2° anno e due esami delle materie facoltative del 3° anno.   
+La frequenza alle lezioni teoriche e alle dimostrazioni pratiche nei tre anni di corso e' obbligatoria. Il numero e la distribuzione delle ore di lezione saranno fissati dal direttore della scuola all'inizio di ogni anno accademico.   
+I candidati avranno l'obbligo della frequenza continuativa per due mesi all'anno presso l'istituto di clinica delle malattie nervose e mentali e presso quegli istituti clinici che saranno indicati di anno in anno dal direttore della scuola.   
+In data da stabilirsi al termine del 1° anno i candidati dovranno superare un colloquio teorico ed al termine del 2° anno un esame teorico e pratico dimostrando la conoscenza degli argomenti stabiliti per l'anno del corso.   
+Al termine del corso di specializzazione verra' discussa una tesi originale sulle materie di studio di tre anni.   
+Agli allievi che hanno superato l'esame sara' rilasciato il diploma di specializzazione in "Terapia fisica e riabilitazione", valido a tutti gli effetti di legge.   
+Dopo l'art. 275 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in malattie dell'apparato cardiovascolare.   
+  
+Scuola di specializzazione in malattie dell'apparato cardiovascolare   
+Art. 276. - La scuola di specializzazione in malattie dell'apparato cardiovascolare ha la durata di tre anni.   
+Essa ha sede presso l'istituto scientifico di medicina interna.   
+Alla scuola possono essere iscritti solo i laureati in medicina e chirurgia. Il numero degli specializzandi e' fissato in 12 (dodici) complessivi suddivisi nei tre anni del corso.   
+Gli aspiranti saranno ammessi alla scuola dopo il superamento di un esame preliminare che comprende una prova scritta e una prova orale che si svolgera' entro il mese di dicembre.   
+Gli iscritti alla scuola hanno l'obbligo di frequentare gli insegnamenti secondo il programma del corso. Coloro che non ottempereranno all'obbligo di frequenza ai corsi di insegnamento, al servizio di corsia e di laboratorio non potranno ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.   
+Art. 277. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+1) Anatomia normale dell'apparato cardiovascolare;   
+2) Fisiologia degli apparati cardiovascolare e respiratorio;   
+3) Fisiopatologia cardiovascolare e respiratoria (biennale: 1°);   
+4) Patologia cardiovascolare (biennale: 1°);   
+5) Semeiologia fisica (biennale: 1°);   
+6) Semeiologia strumentale (biennale: 1°);   
+7) Microbiologia (facoltativo).   
+2° Anno:   
+1) Fisiopatologia cardiovascolare e respiratoria (biennale: 2°);   
+2) Patologia cardiovascolare (biennale: 2°)   
+3) Semeiologia strumentale (biennale: 2°);   
+4) Semeiologia fisica (biennale: 2°);   
+5) Anatomia patologica dell'apparato cardiovascolare (biennale: 1°);   
+6) Radiologia;   
+7) Farmacologia;   
+8) Clinica e terapia (biennale: 1°).   
+3° Anno:   
+1) Anatomia e patologia dell'apparato cardiovascolare (biennale: 2°);   
+2) Clinica e terapia (biennale: 2°);   
+3) Chirurgia dell'apparato cardiovascolare;   
+4) Problemi assicurativi e sociali (facoltativo);   
+5) Statistica (facoltativo).   
+Art. 278. - Alla fine di ciascun anno accademico coloro i quali abbiano ottenuto la prescritta attestazione di frequenza potranno sostenere gli esami di profitto il cui superamento e' condizione necessaria per la iscrizione al corso successivo.   
+Gli esami consistono in prove scritte o in prove orali per ciascuna materia di insegnamento.   
+Art. 279. - Al termine del terzo anno, per conseguire il diploma di specializzazione gli specializzandi, oltre ad aver superato le prove di esame nelle singole materie, dovranno presentare una dissertazione scritta su un argomento di patologia cardiovascolare che sara' stabilito in base agli accordi presi con il direttore della scuola.   
+I candidati non riconosciuti idonei agli esami di ciascun corso e all'esame di diploma potranno sostenere le prove dopo un altro anno di frequenza.   
+Le norme per le iscrizioni, per la direzione, per le tasse, ecc. sono quelle generali delle scuole di specializzazione e di perfezionamento riferite negli articoli da 122 a 137 dello statuto dell'universita'.   
+Agli allievi che abbiano ottenuto l'approvazione nello esame finale viene rilasciato il diploma di specializzazione in malattie dell'apparato cardiovascolare.   
+L'art. 281, relativo alla scuola di specializzazione in criminologia clinica e' modificato nel senso che alla scuola possono essere ammessi anche i laureati in sociologia.   
+  
+Il presente decreto, munito del Sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 31 ottobre 1972   
+  
+LEONE   
+  
+SCALFARO   
+  
+Visto, il Guardasigilli: GONELLA   
+Registrato alla Corte dei conti, addi' 27 febbraio 1973   
+Atti di Governo, registro n. 256, foglio n. 35. - VALENTINI   

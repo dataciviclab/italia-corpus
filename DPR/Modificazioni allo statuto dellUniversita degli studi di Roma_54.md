@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1970 n. 469
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1963 n. 1475
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1970 n. 469
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1963 n. 1475
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Roma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successivi;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,7 +20,7 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -32,101 +32,226 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 87. - E' modificato nel senso che l'istituto di botanica con annesso orto, presso la facolta' di scienze matematiche, fisiche e naturali cambia denominazione in quello di: "Istituto dell'orto botanico".
+Art. 47. - Dall'elenco degli insegnamenti complementari del corso di laurea in Scienze statistiche e demografiche e' soppresso l'insegnamento di: "Statistica aziendale e analisi di mercato". Sono invece, aggiunti i seguenti insegnamenti:
 
-Art. 94. - L'elenco degli insegnamenti del 2° biennio del corso di laurea in fisica per gli indirizzi generale ed applicativo e' modificato nel senso che viene aggiunto quello di: "Storia della fisica".
+Statistica aziendale;
 
-Nel predetto corso di laurea sono aggiunti gli insegnamenti complementari di a Biofisica" e di "Spettroscopia molecolare"
+Analisi di mercato;
 
-Art. 96, relativo alle modalita' per l'esame di laurea per il conseguimento della laurea in fisica e' modificato nel senso che viene abolita la prova di cultura generale in fisica.
+Politica economica.
 
-Art. 97. - All'elenco degli insegnamenti complementari del corso di laurea in matematica per gli indirizzi generale, didattico ed applicativo sono aggiunti quelli di:
+Art. 48. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze statistiche e attuariali sono aggiunti i seguenti:
 
-Analisi matematica III;
+Statistica aziendale;
 
-Analisi matematica IV;
+Analisi di mercato;
 
-Geometria III;
+Politica economica.
 
-Geometria IV;
+Art. 50, relativo alle modalita' degli esami di laurea della Facolta' di scienze statistiche, demografiche, ed attuariali, e' abrogato e sostituito dal seguente:
 
-Algebra II;
+"L'esame di diploma consiste nella preparazione e discussione di una dissertazione scritta e nella discussione di un tema orale. Gli argomenti della dissertazione scritta e del tema orale vengono scelti dal candidato tra le materie fondamentali del primo biennio. Uno dei due argomenti deve riguardare la metodologia statistica.
 
-Algebra III;
+L'esame di laurea consiste nella preparazione e discussione di una dissertazione scritta e nella discussione di almeno due su tre temi orali vertenti su materie fondamentali del corso di studi del candidato.
 
-Meccanica razionale II;
+Per la laurea in Scienze statistiche e demografiche, dei quattro temi uno deve riguardare la Statistica metodologica e uno la Demografia.
 
-Meccanica razionale III.
+Per la laurea in Scienze statistiche ed attuariali uno dei quattro temi deve riguardare la Metodologia statistica ed uno la Matematica finanziaria e istituzioni di Matematica attuariale o la Tecnica attuariale delle assicurazioni libere sulla vita o la Tecnica attuariale delle assicurazioni sociali o la Tecnica attuariale delle assicurazioni contro i danni o l'Economia e finanza delle imprese di assicurazione o la Statistica assicurativa.
 
-Art. 99. - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di:
+I temi della dissertazione scritta, e quelli da svolgere oralmente devono essere approvati dal preside, sentiti i professori delle materie.
 
-Psicobiologia.
+Il tema della dissertazione scritta deve essere presentato sei mesi prima della sessione di laurea".
 
-Art. 101. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto quello di:
+Art. 65. - All'elenco degli Istituti della Facolta' di magistero sono aggiunti i seguenti:
 
-"Psicobiologia".
+Per i gruppi: A (Materie letterarie); A1 (Lingue e letterature straniere); B (Pedagogia);
+
+Istituto di storia dell'arte medioevale e moderna, che e' anche ordinato a seminario ed ha lo scopo di addestrare i giovani negli studi delle discipline storico-artistiche.
+
+Per i gruppi: A (Materie letterarie) e B (Pedagogia);
+
+Istituto di sociologia, che e' anche ordinato a seminario ed ha lo scopo di addestrare i giovani negli studi sociologici.
+
+Art. 88. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica, indirizzo organico-biologico, e' aggiunto quello di: Spettrochimica, mentre cambiano denominazione i seguenti insegnamenti complementari dello stesso indirizzo:
+
+"Misure elettriche" in "Misure elettriche (corso speciale per chimici e chimici industriali)";
+
+"Spettroscopia" in "Spettroscopia (corso speciale per chimici e chimici industriali)";
+
+"Spettroscopia e radiofrequenza" in "Spettroscopia a radiofrequenza".
+
+Dopo il secondo capoverso delle norme che seguono l'elenco degli insegnamenti complementari viene inserito il seguente comma: "L'insegnamento complementare di "Spettroscopia" per l'indirizzo inorganico-chimico-fisico, si intende come corso speciale per chimici industriali".
+
+Prima dell'ultimo capoverso viene inserito il seguente comma: "In tal caso la Facolta', considerati i nuovi insegnamenti complementari introdotti e la necessita' della coordinazione dei corsi consiglia la scelta degli insegnamenti complementari tra quelli che, nell'ordine degli studi, sono sottolineati" .
+
+Art. 89. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica industriale sono aggiunti i seguenti:
+
+Analisi chimica strumentale;
+
+Spettroscopia (corso speciale per chimici e chimici industriali).
+
+L'insegnamento complementare di "Chimica delle fermentazioni e batteriologia industriale" del corso di laurea in Chimica industriale muta denominazione in "Chimica delle fermentazioni".
+
+Art. 90. - Alle propedeuticita' di esami dei corsi di laurea in Chimica e in Chimica industriale sono aggiunte le seguenti:
+
+Non si puo essere am- Se non si e superato messi a sostenere l'esame di:
+
+l'esame di:
+
+Chimica analitica,
+
+analisi chimica stru- Esercizi di Analisi mentale; chimica quantitativa;
+
+Spettroscopia. Chimica analitica.
+
+Art. 97, relativo al corso di laurea in matematica per l'indirizzo applicativo e' cosi' modificato:
+
+"Sono insegnamenti fondamentali oltre quelli comuni ai tre indirizzi (generale, didattico, applicativo) per l'indirizzo applicativo uno dei seguenti, a scelta:
+
+Analisi numerica, Calcolo delle probabilita';
+
+Astronomia, Meccanica celeste" .
+
+Terzo anno.
+
+Insegnamento fondamentale per l'indirizzo applicativo (oltre quelli comuni ai tre indirizzi secondo il gruppo scelto)
+
+I) Analisi numerica;
+
+II) Astronomia.
+
+Quarto anno.
+
+Insegnamento fondamentale per l'indirizzo applicativo (secondo il gruppo scelto)
+
+I) Calcolo delle probabilita';
+
+II) Meccanica celeste.
+
+All'elenco degli insegnamenti complementari del corso di laurea in Matematica - indirizzo didattico - e' aggiunto quello di: "Calcolo delle probabilita'".
+
+Art. 109, relativo agli Istituti della Facolta' di farmacia e' abrogato e sostituito dal seguente:
+
+"Alla Facolta' di farmacia sono annessi i seguenti istituti:
+
+1) Istituto di chimica farmaceutica e tossicologia;
+
+2) Istituto di farmacologia e farmacognosia.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 27 marzo 1970
+Dato a Roma, addi' 14 ottobre 1963
 
-SARAGAT
+SEGNI
 
-FERRARI AGGRADI
+GUI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BOSCO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 7 luglio 1970 Atti del Governo, registro n. 236, foglio n. 126. - CARUSO
+alla Corte dei conti, addi' 9 novembre 1963 Atti del Governo, registro n. 175, foglio n. 126. - VILLA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 87. - E' modificato nel senso che l'istituto di botanica con annesso orto, presso la facolta' di scienze matematiche, fisiche e naturali cambia denominazione in quello di: "Istituto dell'orto botanico".   
-Art. 94. - L'elenco degli insegnamenti del 2° biennio del corso di laurea in fisica per gli indirizzi generale ed applicativo e' modificato nel senso che viene aggiunto quello di: "Storia della fisica".   
-Nel predetto corso di laurea sono aggiunti gli insegnamenti complementari di a Biofisica" e di "Spettroscopia molecolare"   
-Art. 96, relativo alle modalita' per l'esame di laurea per il conseguimento della laurea in fisica e' modificato nel senso che viene abolita la prova di cultura generale in fisica.   
-Art. 97. - All'elenco degli insegnamenti complementari del corso di laurea in matematica per gli indirizzi generale, didattico ed applicativo sono aggiunti quelli di:   
-Analisi matematica III;   
-Analisi matematica IV;   
-Geometria III;   
-Geometria IV;   
-Algebra II;   
-Algebra III;   
-Meccanica razionale II;   
-Meccanica razionale III.   
-Art. 99. - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di:   
-Psicobiologia.   
-Art. 101. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto quello di:  
-"Psicobiologia".   
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Art. 47. - Dall'elenco degli insegnamenti complementari del corso di laurea in Scienze statistiche e demografiche e' soppresso l'insegnamento di: "Statistica aziendale e analisi di mercato". Sono invece, aggiunti i seguenti insegnamenti:  
+Statistica aziendale;  
+Analisi di mercato;  
+Politica economica.  
+  
+Art. 48. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze statistiche e attuariali sono aggiunti i seguenti:  
+Statistica aziendale;  
+Analisi di mercato;  
+Politica economica.  
+  
+Art. 50, relativo alle modalita' degli esami di laurea della Facolta' di scienze statistiche, demografiche, ed attuariali, e' abrogato e sostituito dal seguente:  
+"L'esame di diploma consiste nella preparazione e discussione di una dissertazione scritta e nella discussione di un tema orale. Gli argomenti della dissertazione scritta e del tema orale vengono scelti dal candidato tra le materie fondamentali del primo biennio. Uno dei due argomenti deve riguardare la metodologia statistica.  
+L'esame di laurea consiste nella preparazione e discussione di una dissertazione scritta e nella discussione di almeno due su tre temi orali vertenti su materie fondamentali del corso di studi del candidato.  
+Per la laurea in Scienze statistiche e demografiche, dei quattro temi uno deve riguardare la Statistica metodologica e uno la Demografia.  
+Per la laurea in Scienze statistiche ed attuariali uno dei quattro temi deve riguardare la Metodologia statistica ed uno la Matematica finanziaria e istituzioni di Matematica attuariale o la Tecnica attuariale delle assicurazioni libere sulla vita o la Tecnica attuariale delle assicurazioni sociali o la Tecnica attuariale delle assicurazioni contro i danni o l'Economia e finanza delle imprese di assicurazione o la Statistica assicurativa.  
+I temi della dissertazione scritta, e quelli da svolgere oralmente devono essere approvati dal preside, sentiti i professori delle materie.  
+Il tema della dissertazione scritta deve essere presentato sei mesi prima della sessione di laurea".  
+  
+Art. 65. - All'elenco degli Istituti della Facolta' di magistero sono aggiunti i seguenti:  
+Per i gruppi: A (Materie letterarie); A1 (Lingue e letterature straniere); B (Pedagogia);  
+Istituto di storia dell'arte medioevale e moderna, che e' anche ordinato a seminario ed ha lo scopo di addestrare i giovani negli studi delle discipline storico-artistiche.  
+Per i gruppi: A (Materie letterarie) e B (Pedagogia);  
+Istituto di sociologia, che e' anche ordinato a seminario ed ha lo scopo di addestrare i giovani negli studi sociologici.  
+  
+Art. 88. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica, indirizzo organico-biologico, e' aggiunto quello di: Spettrochimica, mentre cambiano denominazione i seguenti insegnamenti complementari dello stesso indirizzo:  
+"Misure elettriche" in "Misure elettriche (corso speciale per chimici e chimici industriali)";  
+"Spettroscopia" in "Spettroscopia (corso speciale per chimici e chimici industriali)";  
+"Spettroscopia e radiofrequenza" in "Spettroscopia a radiofrequenza".  
+Dopo il secondo capoverso delle norme che seguono l'elenco degli insegnamenti complementari viene inserito il seguente comma: "L'insegnamento complementare di "Spettroscopia" per l'indirizzo inorganico-chimico-fisico, si intende come corso speciale per chimici industriali".  
+Prima dell'ultimo capoverso viene inserito il seguente comma: "In tal caso la Facolta', considerati i nuovi insegnamenti complementari introdotti e la necessita' della coordinazione dei corsi consiglia la scelta degli insegnamenti complementari tra quelli che, nell'ordine degli studi, sono sottolineati" .  
+  
+Art. 89. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica industriale sono aggiunti i seguenti:  
+  
+Analisi chimica strumentale;  
+Spettroscopia (corso speciale per chimici e chimici industriali).  
+  
+L'insegnamento complementare di "Chimica delle fermentazioni e batteriologia industriale" del corso di laurea in Chimica industriale muta denominazione in "Chimica delle fermentazioni".  
+  
+Art. 90. - Alle propedeuticita' di esami dei corsi di laurea in Chimica e in Chimica industriale sono aggiunte le seguenti:  
+Non si puo essere am- Se non si e superato messi a sostenere l'esame di:  
+l'esame di:  
+Chimica analitica,  
+analisi chimica stru- Esercizi di Analisi mentale; chimica quantitativa;  
+Spettroscopia. Chimica analitica.  
+  
+Art. 97, relativo al corso di laurea in matematica per l'indirizzo applicativo e' cosi' modificato:  
+"Sono insegnamenti fondamentali oltre quelli comuni ai tre indirizzi (generale, didattico, applicativo) per l'indirizzo applicativo uno dei seguenti, a scelta:  
+  
+Analisi numerica, Calcolo delle probabilita';  
+Astronomia, Meccanica celeste" .  
+  
+Terzo anno.  
+Insegnamento fondamentale per l'indirizzo applicativo (oltre quelli comuni ai tre indirizzi secondo il gruppo scelto)  
+  
+I) Analisi numerica;  
+II) Astronomia.  
+  
+Quarto anno.  
+Insegnamento fondamentale per l'indirizzo applicativo (secondo il gruppo scelto)  
+  
+I) Calcolo delle probabilita';  
+II) Meccanica celeste.  
+  
+All'elenco degli insegnamenti complementari del corso di laurea in Matematica - indirizzo didattico - e' aggiunto quello di: "Calcolo delle probabilita'".  
+  
+Art. 109, relativo agli Istituti della Facolta' di farmacia e' abrogato e sostituito dal seguente:  
+"Alla Facolta' di farmacia sono annessi i seguenti istituti:  
+1) Istituto di chimica farmaceutica e tossicologia;  
+2) Istituto di farmacologia e farmacognosia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 marzo 1970
+### Dato a Roma, addi' 14 ottobre 1963
 
-SARAGAT FERRARI AGGRADI
+SEGNI GUI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 7 luglio 1970
+Registrato alla Corte dei conti, addi' 9 novembre 1963
 
-Atti del Governo, registro n. 236, foglio n. 126. - CARUSO
+Atti del Governo, registro n. 175, foglio n. 126. - VILLA

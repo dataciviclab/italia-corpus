@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1984 n. 599
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 gennaio 1984 n. 35
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1984 n. 599
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 gennaio 1984 n. 35
 =============================================================
 
 Autorizzazione alla regione Abruzzo ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-599. Decreto del Presidente della Repubblica 21 maggio 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la regione Abruzzo viene autorizzata ad acquistare in via di sanatoria, al prezzo di L. 265.000.000, il palazzo Dragonetti-De Torres sito in L'Aquila, via Roio, numeri 10, 12 e 14, censito al nuovo catasto edilizio urbano alla partita 4238, foglio 101, particelle 1699 sub 1 e 1699 sub 2, 1700, 1703 sub 2, da adibire a sede di uffici regionali.  
+35. Decreto del Presidente della Repubblica 31 gennaio 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la regione Abruzzo viene autorizzata, in via di sanatoria, ad acquistare, al prezzo di L. 2.144.000.000, due fabbricati siti in Pescara, uno al viale Bovio ed uno alla via Raffaello, insistenti rispettivamente nel catasto terreni alla partita 25277, foglio 8, particelle 119, 579, 576, e alla partita 24298, foglio 8, particelle 577, 578, non ancora censiti al nuovo catasto edilizio urbano di Pescara, di proprieta' della societa' immobiliare Armando Caldora, da adibire a sede di uffici regionali.  
   
 Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 15 settembre 1984  
-Registro n. 7 Presidenza, foglio n. 365
+Registrato alla Corte dei conti, addi' 14 marzo 1984  
+Registro n. 3 Presidenza, foglio n. 76

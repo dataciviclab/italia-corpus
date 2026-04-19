@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 421
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1985 n. 891
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 421
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1985 n. 891
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Ancona.
 ------------------------------------------------------------------
@@ -39,20 +39,23 @@ Articolo unico
 --------------
 
   
-Nell'art. 14, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-igiene applicata;  
-istituzioni di anatomia ed istologia patologica.  
+  
+Nell'art. 23, relativo all'elenco degli insegnamenti complementari per i tre corsi di laurea della facolta' di ingegneria, sono aggiunti i seguenti nuovi insegnamenti:   
+bioautomatica;   
+corrosione e protezione dei materiali.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 maggio 1983
+### Dato a Roma, addi' 7 ottobre 1985
 
-PERTINI FALCUCCI
+COSSIGA
 
-Visto, il Guardasigilli: DARIDA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 17 agosto 1983
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registro n. 59 Istruzione, foglio n. 139
+Registrato alla Corte dei conti, addi' 29 gennaio 1986
+
+Registro n. 4 Istruzione, foglio n. 117

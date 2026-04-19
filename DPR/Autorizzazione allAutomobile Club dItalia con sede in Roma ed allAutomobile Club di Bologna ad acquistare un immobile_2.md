@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1967 n. 381
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1967 n. 392
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1967 n. 381
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1967 n. 392
 =============================================================
 
 Autorizzazione all'Automobile Club d'Italia, con sede in Roma, ed all'Automobile Club di Bologna, ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-381. Decreto del Presidente della Repubblica 3 maggio 1967, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile Club d'Italia, con sede in Roma, e l'Automobile Club di Bologna vengono autorizzati ad acquistare in comproprieta' dalla "Societa' per azioni Malpighi", con sede in Bologna, per destinarla a sede dei propri uffici e per il prezzo di L. 120.728.352, una porzione di fabbricato, avente accesso dai civici 7 e 9 della via Marconi e dai civici 8 e 10 della via S. Gervasio, costituita da vari locali posti al primo e secondo piano sotterraneo; al primo piano ed al piano ammezzato, facenti parte del fabbricato sito in Bologna fra le vie Marconi, Belvedere, S. Gervasio e nuova strada del piano regolatore; nel catasto censita al foglio n. 87, mappale 194/29, piani 4, vani 20.  
+392. Decreto del Presidente della Repubblica 3 maggio 1967, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile Club d'Italia, con sede in Roma, e l'Automobile Club di Bologna vengono autorizzati ad acquistare in comproprieta' dalla "Societa' per azioni Malpighi", con sede in Bologna, per il prezzo di L. 25.200.000 e per l'ampliamento della sede dei propri uffici, una porzione di fabbricato, avente accesso dalla via Belvedere, facente parte del fabbricato sito in Bologna, posto fra le vie Marconi, Belvedere, S. Gervasio e nuova strada di piano regolatore, costituita da locali al primo e secondo piano sotterraneo; nel catasto al foglio 87, numeri 194/3 di are 0.37, 194/25 di are 0.01, 194/126 e 194/127 piani due, vani due.  
   
 Visto, il Guardasigilli: REALE  
 Registrato alla Corte dei conti, addi' 6 giugno 1967  
-Atti del Governo, registro n. 211, foglio n. 89. - GRECO
+Atti del Governo, registro n. 211, foglio n. 88. - GRECO

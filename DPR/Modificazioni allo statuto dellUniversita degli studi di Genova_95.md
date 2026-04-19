@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 731
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1977 n. 518
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 731
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1977 n. 518
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Genova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846) e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,259 +20,158 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169 e 170, relativi alle norme generali per le scuole di specializzazione in medicina e chirurgia, sono soppressi e sostituiti dai seguenti con il conseguente spostamento della numerazione degli articoli successivi:
+Art. 155 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in diabetologia e malattie del ricambio.
 
-Art. 155. - Presso la facolta' di medicina e chirurgia sono istituite scuole di specializzazione in un particolare ramo dell'esercizio professionale medico.
+L'art. 305, terzo comma, relativo alla scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio, e' modificato nel senso che il numero degli iscritti e' stabilito in sessanta per i tre anni di corso (venti per ogni anno).
 
-Le scuole di specializzazione hanno lo scopo di condurre gli allievi ad una approfondita conoscenza delle materie e ad una completa capacita' tecnica in un determinato ramo della medicina e chirurgia.
+L'art. 370, secondo comma, relativo alla scuola di specializzazione in malattie dell'apparato cardiovascolare, e' modificato nel senso che il numero degli iscritti e' fissato in tredici suddivisi nei tre anni di corso.
 
-Alle scuole di specializzazione sono ammessi soltanto coloro che hanno conseguito la laurea in medicina e chirurgia, salvo i casi in cui sia specificato dallo statuto della scuola un indirizzo diverso da quello medico.
+Dopo l'art. 415, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in diabetologia e malattie del ricambio.
 
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+Scuola di specializzazione in diabetologia e malattie del ricambio Art. 416. - La durata del corso e' stabilita in tre anni. Sono ammessi a detta scuola i laureati in medicina e chirurgia in numero complessivo di ventisei suddivisi nei tre anni di corso.
 
-Art. 156. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia di specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+Le norme generali sono quelle previste per le scuole di specializzazione e di perfezionamento riferite negli articoli da 156 a 170 dello statuto dell'Universita'.
 
-Solo per ragioni di forza maggiore la facolta', a seguito della mancanza dei professori di cui sopra, puo' temporaneamente nominare direttore della scuola il professore incaricato della disciplina della specializzazione.
+Oltre al colloquio previsto dall'art. 158, i candidati dovranno rispondere alle domande contenute in apposito questionario redatto dal direttore della scuola.
 
-Art. 157. - Le domande di ammissione alla scuola sono dirette al rettore dell'Universita', corredate da un certificato di laurea in medicina e chirurgia con le votazioni riportate nella carriera scolastica, e degli altri titoli che l'aspirante ritenga presentare.
-
-Le domande sono rimesse al direttore della scuola il quale, coadiuvato da una commissione di tre insegnanti della scuola stessa, nominata dal consiglio, dopo aver valutato i titoli degli aspiranti sottopone gli aspiranti medesimi ad una prova scritta e/o orale per accertarne le attitudini e la preparazione a seguire i corsi della scuola.
-
-In base a detti elementi la commissione procede alla formazione della graduatoria dei candidati che deve essere approvata e resa esecutiva dal preside della facolta'.
-
-I candidati risultati idonei ed ammessi alla scuola sono obbligati alla presentazione del diploma originale di scuola media superiore.
-
-Art. 158. - Le materie d'insegnamento e le esercitazioni di laboratorio sono stabilite dalle norme particolari di ciascuna scuola la cui direzione, anno per anno, stabilisce i turni degli internati prescritti.
-
-Art. 159. - Gli insegnamenti vengono conferiti dalla facolta' su proposta dei singoli direttori delle scuole a professori di ruolo o fuori ruolo, incaricati, liberi docenti e a studiosi che abbiano recato con le loro pubblicazioni contributi originali alla disciplina.
-
-Art. 160. - Gli allievi sono tenuti ad osservare l'orario dei turni di internato ed ogni altra attivita' stabilita dalla direzione.
-
-Art. 161. - Gli allievi, alla fine di ogni anno di corso, dovranno sostenere di fronte ad una commissione proposta dal consiglio della scuola ed approvata dal preside della facolta', l'esame di profitto relativo alle materie svolte.
-
-Per essere ammessi all'esame di diploma gli iscritti devono aver superato gli esami di profitto previsti per ciascun anno di corso.
-
-Art. 162. - La commissione per l'esame di diploma e' nominata dal rettore ed e' composta di norma da cinque membri proposti dal consiglio della scuola scelti fra gli insegnanti della scuola stessa.
-
-Almeno tre membri dovranno essere docenti universitari.
-
-Art. 163. - L'esame di diploma consiste in una discussione sopra una dissertazione scritta ed in prove teoriche e pratiche, stabilite dalla commissione giudicatrice.
-
-A coloro che abbiano superato l'esame di diploma, viene rilasciato il diploma di specializzazione.
-
-Art. 164. - Per il pagamento e la dispensa delle tasse, soprattasse e contributi e' da osservarsi la normativa vigente.
-
-Gli assistenti, i contrattisti ed i borsisti della facolta' saranno dispensati dal pagamento di meta' di tutti gli importi dovuti annualmente.
-
-Art. 165. - La durata del corso di studi non e' suscettibile di abbreviazione.
-
-Gli articoli 319 e 321, relativi alla scuola di specializzazione in terapia fisica e riabilitazione che muta la denominazione in quella di scuola di specializzazione in fisioterapia, sono soppressi e sostituiti dai seguenti:
-
-Scuola di specializzazione in fisioterapia
-
-Art. 319. - Presso l'istituto di clinica delle malattie nervose e mentali e' istituita la scuola di specializzazione in fisioterapia, che ha lo scopo di conferire la necessaria competenza teorica e pratica ai laureati in medicina e chirurgia, i quali intendano conseguire il diploma di specializzazione in fisioterapia. La durata del corso sara' di tre anni.
-
-Il numero degli iscritti non puo' essere superiore a diciotto per l'intero corso di studi.
-
-Art. 321. - Gli insegnamenti delle materie fondamentali costituiscono materia obbligatoria d'esame.
-
-Lo specializzando dovra' sostenere, a sua scelta, almeno due esami delle materie facoltative del secondo anno e due esami delle materie facoltative del terzo anno.
-
-La frequenza alle lezioni teoriche ed alle dimostrazioni pratiche nei tre anni di corso e' obbligatoria. Il numero e la distribuzione delle ore di lezione saranno fissati dal direttore della scuola all'inizio di ogni anno accademico.
-
-I candidati avranno l'obbligo della frequenza continuativa per due mesi all'anno presso l'istituto delle malattie nervose e mentali o presso quegli istituti che saranno indicati di anno in anno dal direttore della scuola.
-
-Al termine del corso di specializzazione verra' discussa una tesi originale.
-
-Gli articoli 349, 350, 351, 352 e 353, relativi alla scuola di specializzazione in malattie infettive, sono soppressi e sostituiti dai seguenti:
-
-Scuola di specializzazione in malattie infettive
-
-Art. 349. - La scuola di specializzazione in malattie infettive ha sede presso l'istituto di clinica pediatrica e conferisce il diploma di specializzazione in malattie infettive.
-
-Art. 350. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
-
-Art. 351. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.
-
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione. Il numero massimo di allievi e' di trenta per l'intero corso di studi.
-
-Art. 352. - Le materie di insegnamento sono le seguenti:
+Art. 417. - Materie di insegnamento:
 
 1° Anno:
 
-epidemiologia generale delle malattie infettive;
+anatomia e citomorfologia funzionali;
 
-batteriologia e micologia;
+elementi di genetica del diabete e delle malattie del ricambio; metodi di analisi chimica e quantitativa;
 
-virologia;
+patologia molecolare;
 
-parassitologia;
+fisiopatologia clinica del diabete e delle malattie del ricambio;
 
-immunologia generale.
+elementi di biometria e di statistica (complementare);
+
+auxologia e auxopatie metaboliche (complementare).
 
 2° Anno:
 
-tecniche batteriologiche e micologia applicata alle malattie infettive;
+patologia sperimentale metabolica;
 
-tecniche virologiche applicate alle malattie infettive;
+semeiotica fisica e funzionale del diabete e delle malattie del ricambio;
 
-tecniche parassitologiche applicate alle malattie infettive;
+clinica del diabete e delle malattie del ricambio (I);
 
-tecniche immunologiche applicate alle malattie infettive;
+medicina sociale e preventiva del diabete e dello malattie del ricambio;
 
-anatomia patologica;
+neuropatologia del diabete e delle malattie del ricambio (complementare);
 
-genetica.
+fisiopatologia e clinica ostetrico-ginecologica del diabete e delle malattie del ricambio (complementare).
 
 3° Anno:
 
-clinica delle malattie infettive I;
+clinica del diabete e delle malattie del ricambio (II);
 
-diagnostica e semeiotica delle malattie infettive;
+farmacologia e terapia medica del diabete e delle malattie del ricambio;
 
-radiologia;
+dietologia del diabete e delle malattie del ricambio;
 
-medicina preventiva delle malattie infettive.
+elementi di psicologia nel diabete e nelle malattia del ricambio (complementare);
 
-4° Anno:
+terapia chirurgica nel diabete e nelle malattie del ricambio (complementare);
 
-clinica delle malattie infettive II;
+oftalmologia nel diabete e nelle malattie del ricambio (complementare).
 
-malattie tropicali;
+I corsi saranno integrati da conferenze su argomenti specialistici e da esercitazioni pratiche cliniche e di laboratorio.
 
-legislazione sanitaria delle malattie infettive;
+Alla fine di ogni anno di corso gli specializzandi dovranno sostenere gli esami nelle corrispondenti materie fondamentali od in una almeno materia complementare, per ottenere l'iscrizione all'anno successivo.
 
-farmacologia e terapia delle malattie infettive.
+Gli iscritti alla scuola sono tenuti a seguire le lezioni teoriche, le esercitazioni e gli internati presso la sede della scuola e presso altre istituzioni che d'accordo col direttore della scuola siano disponibili in tal senso.
 
-Art. 359. - Per quanto concerne l'ammissione alla scuola la frequenza e le modalita' per il superamento degli esami annuali e di diploma, vedansi le norme generali per le scuole di specializzazione della facolta' di medicina e chirurgia contemplate dal presente statuto.
-
-L'ordinamento della scuola di specializzazione in ginecologia e ostetricia di cui al [decreto del Presidente della Repubblica 26 ottobre 1977, n. 1126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-10-26;1126), e' modificato nel senso che la norma relativa al conseguimento del diploma di specialista in ginecologia e ostetricia e' soppressa e sostituita dalla seguente:
-
-"Al termine del corso di studi per il conseguimento del diploma di specializzazione in ginecologia e ostetricia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione".
+Art. 418. - Alla fine del triennio gli specializzandi sosterranno la discussione di una dissertazione scritta e gli esami di diploma.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 12 settembre 1978
+Dato a Roma, addi' 10 febbraio 1977
 
-PERTINI
+LEONE
 
-PEDINI
+MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 13 novembre 1978 Registro n. 121 Istruzione, foglio n. 167
+alla Corte dei conti, addi' 30 luglio 1977 Registro n. 92 Istruzione, foglio n. 19
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169 e 170, relativi alle norme generali per le scuole di specializzazione in medicina e chirurgia, sono soppressi e sostituiti dai seguenti con il conseguente spostamento della numerazione degli articoli successivi:  
-Art. 155. - Presso la facolta' di medicina e chirurgia sono istituite scuole di specializzazione in un particolare ramo dell'esercizio professionale medico.  
-Le scuole di specializzazione hanno lo scopo di condurre gli allievi ad una approfondita conoscenza delle materie e ad una completa capacita' tecnica in un determinato ramo della medicina e chirurgia.  
-Alle scuole di specializzazione sono ammessi soltanto coloro che hanno conseguito la laurea in medicina e chirurgia, salvo i casi in cui sia specificato dallo statuto della scuola un indirizzo diverso da quello medico.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Art. 156. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia di specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Solo per ragioni di forza maggiore la facolta', a seguito della mancanza dei professori di cui sopra, puo' temporaneamente nominare direttore della scuola il professore incaricato della disciplina della specializzazione.  
-Art. 157. - Le domande di ammissione alla scuola sono dirette al rettore dell'Universita', corredate da un certificato di laurea in medicina e chirurgia con le votazioni riportate nella carriera scolastica, e degli altri titoli che l'aspirante ritenga presentare.  
-Le domande sono rimesse al direttore della scuola il quale, coadiuvato da una commissione di tre insegnanti della scuola stessa, nominata dal consiglio, dopo aver valutato i titoli degli aspiranti sottopone gli aspiranti medesimi ad una prova scritta e/o orale per accertarne le attitudini e la preparazione a seguire i corsi della scuola.  
-In base a detti elementi la commissione procede alla formazione della graduatoria dei candidati che deve essere approvata e resa esecutiva dal preside della facolta'.  
-I candidati risultati idonei ed ammessi alla scuola sono obbligati alla presentazione del diploma originale di scuola media superiore.  
-Art. 158. - Le materie d'insegnamento e le esercitazioni di laboratorio sono stabilite dalle norme particolari di ciascuna scuola la cui direzione, anno per anno, stabilisce i turni degli internati prescritti.  
-Art. 159. - Gli insegnamenti vengono conferiti dalla facolta' su proposta dei singoli direttori delle scuole a professori di ruolo o fuori ruolo, incaricati, liberi docenti e a studiosi che abbiano recato con le loro pubblicazioni contributi originali alla disciplina.  
-Art. 160. - Gli allievi sono tenuti ad osservare l'orario dei turni di internato ed ogni altra attivita' stabilita dalla direzione.  
-Art. 161. - Gli allievi, alla fine di ogni anno di corso, dovranno sostenere di fronte ad una commissione proposta dal consiglio della scuola ed approvata dal preside della facolta', l'esame di profitto relativo alle materie svolte.  
-Per essere ammessi all'esame di diploma gli iscritti devono aver superato gli esami di profitto previsti per ciascun anno di corso.  
-Art. 162. - La commissione per l'esame di diploma e' nominata dal rettore ed e' composta di norma da cinque membri proposti dal consiglio della scuola scelti fra gli insegnanti della scuola stessa.  
-Almeno tre membri dovranno essere docenti universitari.  
-Art. 163. - L'esame di diploma consiste in una discussione sopra una dissertazione scritta ed in prove teoriche e pratiche, stabilite dalla commissione giudicatrice.  
-A coloro che abbiano superato l'esame di diploma, viene rilasciato il diploma di specializzazione.  
-Art. 164. - Per il pagamento e la dispensa delle tasse, soprattasse e contributi e' da osservarsi la normativa vigente.  
-Gli assistenti, i contrattisti ed i borsisti della facolta' saranno dispensati dal pagamento di meta' di tutti gli importi dovuti annualmente.  
-Art. 165. - La durata del corso di studi non e' suscettibile di abbreviazione.  
-Gli articoli 319 e 321, relativi alla scuola di specializzazione in terapia fisica e riabilitazione che muta la denominazione in quella di scuola di specializzazione in fisioterapia, sono soppressi e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in fisioterapia  
-Art. 319. - Presso l'istituto di clinica delle malattie nervose e mentali e' istituita la scuola di specializzazione in fisioterapia, che ha lo scopo di conferire la necessaria competenza teorica e pratica ai laureati in medicina e chirurgia, i quali intendano conseguire il diploma di specializzazione in fisioterapia. La durata del corso sara' di tre anni.  
-Il numero degli iscritti non puo' essere superiore a diciotto per l'intero corso di studi.  
-Art. 321. - Gli insegnamenti delle materie fondamentali costituiscono materia obbligatoria d'esame.  
-Lo specializzando dovra' sostenere, a sua scelta, almeno due esami delle materie facoltative del secondo anno e due esami delle materie facoltative del terzo anno.  
-La frequenza alle lezioni teoriche ed alle dimostrazioni pratiche nei tre anni di corso e' obbligatoria. Il numero e la distribuzione delle ore di lezione saranno fissati dal direttore della scuola all'inizio di ogni anno accademico.  
-I candidati avranno l'obbligo della frequenza continuativa per due mesi all'anno presso l'istituto delle malattie nervose e mentali o presso quegli istituti che saranno indicati di anno in anno dal direttore della scuola.  
-Al termine del corso di specializzazione verra' discussa una tesi originale.  
-Gli articoli 349, 350, 351, 352 e 353, relativi alla scuola di specializzazione in malattie infettive, sono soppressi e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in malattie infettive  
-Art. 349. - La scuola di specializzazione in malattie infettive ha sede presso l'istituto di clinica pediatrica e conferisce il diploma di specializzazione in malattie infettive.  
-Art. 350. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Art. 351. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.  
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione. Il numero massimo di allievi e' di trenta per l'intero corso di studi.  
-Art. 352. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-epidemiologia generale delle malattie infettive;  
-batteriologia e micologia;  
-virologia;  
-parassitologia;  
-immunologia generale.  
-2° Anno:  
-tecniche batteriologiche e micologia applicata alle malattie infettive;  
-tecniche virologiche applicate alle malattie infettive;  
-tecniche parassitologiche applicate alle malattie infettive;  
-tecniche immunologiche applicate alle malattie infettive;  
-anatomia patologica;  
-genetica.  
-3° Anno:  
-clinica delle malattie infettive I;  
-diagnostica e semeiotica delle malattie infettive;  
-radiologia;  
-medicina preventiva delle malattie infettive.  
-4° Anno:  
-clinica delle malattie infettive II;  
-malattie tropicali;  
-legislazione sanitaria delle malattie infettive;  
-farmacologia e terapia delle malattie infettive.  
-Art. 359. - Per quanto concerne l'ammissione alla scuola la frequenza e le modalita' per il superamento degli esami annuali e di diploma, vedansi le norme generali per le scuole di specializzazione della facolta' di medicina e chirurgia contemplate dal presente statuto.  
-L'ordinamento della scuola di specializzazione in ginecologia e ostetricia di cui al [decreto del Presidente della Repubblica 26 ottobre 1977, n. 1126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-10-26;1126), e' modificato nel senso che la norma relativa al conseguimento del diploma di specialista in ginecologia e ostetricia e' soppressa e sostituita dalla seguente:  
-"Al termine del corso di studi per il conseguimento del diploma di specializzazione in ginecologia e ostetricia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione".  
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 155 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in diabetologia e malattie del ricambio.   
+L'art. 305, terzo comma, relativo alla scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio, e' modificato nel senso che il numero degli iscritti e' stabilito in sessanta per i tre anni di corso (venti per ogni anno).   
+L'art. 370, secondo comma, relativo alla scuola di specializzazione in malattie dell'apparato cardiovascolare, e' modificato nel senso che il numero degli iscritti e' fissato in tredici suddivisi nei tre anni di corso.   
+Dopo l'art. 415, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in diabetologia e malattie del ricambio.   
+Scuola di specializzazione in diabetologia e malattie del ricambio Art. 416. - La durata del corso e' stabilita in tre anni. Sono ammessi a detta scuola i laureati in medicina e chirurgia in numero complessivo di ventisei suddivisi nei tre anni di corso.   
+Le norme generali sono quelle previste per le scuole di specializzazione e di perfezionamento riferite negli articoli da 156 a 170 dello statuto dell'Universita'.   
+Oltre al colloquio previsto dall'art. 158, i candidati dovranno rispondere alle domande contenute in apposito questionario redatto dal direttore della scuola.   
+Art. 417. - Materie di insegnamento:   
+1° Anno:   
+anatomia e citomorfologia funzionali;   
+elementi di genetica del diabete e delle malattie del ricambio; metodi di analisi chimica e quantitativa;   
+patologia molecolare;   
+fisiopatologia clinica del diabete e delle malattie del ricambio;   
+elementi di biometria e di statistica (complementare);   
+auxologia e auxopatie metaboliche (complementare).   
+2° Anno:   
+patologia sperimentale metabolica;   
+semeiotica fisica e funzionale del diabete e delle malattie del ricambio;   
+clinica del diabete e delle malattie del ricambio (I);   
+medicina sociale e preventiva del diabete e dello malattie del ricambio;   
+neuropatologia del diabete e delle malattie del ricambio (complementare);   
+fisiopatologia e clinica ostetrico-ginecologica del diabete e delle malattie del ricambio (complementare).   
+3° Anno:   
+clinica del diabete e delle malattie del ricambio (II);   
+farmacologia e terapia medica del diabete e delle malattie del ricambio;   
+dietologia del diabete e delle malattie del ricambio;   
+elementi di psicologia nel diabete e nelle malattia del ricambio (complementare);   
+terapia chirurgica nel diabete e nelle malattie del ricambio (complementare);   
+oftalmologia nel diabete e nelle malattie del ricambio (complementare).   
+I corsi saranno integrati da conferenze su argomenti specialistici e da esercitazioni pratiche cliniche e di laboratorio.   
+Alla fine di ogni anno di corso gli specializzandi dovranno sostenere gli esami nelle corrispondenti materie fondamentali od in una almeno materia complementare, per ottenere l'iscrizione all'anno successivo.   
+Gli iscritti alla scuola sono tenuti a seguire le lezioni teoriche, le esercitazioni e gli internati presso la sede della scuola e presso altre istituzioni che d'accordo col direttore della scuola siano disponibili in tal senso.   
+Art. 418. - Alla fine del triennio gli specializzandi sosterranno la discussione di una dissertazione scritta e gli esami di diploma.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 settembre 1978
+### Dato a Roma, addi' 10 febbraio 1977
 
-PERTINI PEDINI
+LEONE MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 13 novembre 1978
+Registrato alla Corte dei conti, addi' 30 luglio 1977
 
-Registro n. 121 Istruzione, foglio n. 167
+Registro n. 92 Istruzione, foglio n. 19

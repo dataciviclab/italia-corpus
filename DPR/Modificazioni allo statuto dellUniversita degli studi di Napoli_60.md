@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1969 n. 836
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 giugno 1965 n. 972
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1969 n. 836
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 giugno 1965 n. 972
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto del 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,7 +20,7 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -32,206 +32,53 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 185, relativo agli insegnamenti del biennio propedeutico degli studi per l'ingegneria e' abrogato e sostituito dal seguente: "Gli insegnamenti fondamentali comuni a tutti i corsi di laurea sono i seguenti:
+Art. 185. - Alle materie complementari del triennio di applicazione del corso di laurea in Architettura e' aggiunto l'insegnamento di "Grandi strutture spaziali".
 
-1) Analisi matematica I;
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta, ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-2) Geometria I;
-
-3) Fisica I;
-
-4) Chimica;
-
-5) Disegno;
-
-6) Analisi matematica II;
-
-7) Meccanica razionale;
-
-8) Fisica II;
-
-9) Geometria II (solo per i corsi di laurea in ingegneria civile)".
-
-Per i corsi di laurea in ingegneria meccanica, aeronautica e navale e meccanica, l'insegnamento di geometria II e' sostituito con quello di:
-
-9) Disegno meccanico.
-
-Per il corso di laurea in ingegneria chimica l'insegnamento di geometria II e' sostituito con quello di:
-
-9) Chimica organica.
-
-Per i corsi di laurea in ingegneria elettrotecnica ed elettronica l'insegnamento di geometria II e' sostituito con quello di:
-
-9) Tecnologie generali dei materiali (obbligatorio sul piano della facolta').
-
-A questi insegnamenti vanno aggiunti:
-
-per i corsi di laurea in ingegneria civile:
-
-10) Disegno civile;
-
-per i corsi di laurea in ingegneria meccanica ed aeronautica:
-
-10) Chimica applicata (obbligatorio sul piano nazionale);
-
-per il corso di laurea in ingegneria navale e meccanica:
-
-10) Chimica applicata (obbligatorio sul piano nazionale);
-
-11) Tecnologie generali dei materiali (obbligatorio sul piano della facolta).
-
-Art. 191, relativo al corso di laurea in ingegneria elettrotecnica e' modificato nel senso che all'elenco degli insegnamenti obbligatori sul piano della facolta' e' aggiunto il seguente: "Produzione e trasmissione della energia elettrica".
-
-Art. 195, relativo al corso di laurea in ingegneria elettronica e' modificato nel senso che l'elenco degli insegnamenti obbligatori sul piano della facolta' e gli indirizzi a scelta dello studente sono abrogati e sostituiti dai seguenti:
-
-b) obbligatori sul piano della facolta':
-
-1) Componenti elettronici;
-
-2) Complementi di matematica;
-
-3) Calcolatori elettronici;
-
-4) Misure elettroniche;
-
-5) Economia ed organizzazione industriale;
-
-c) Gruppi di materie a scelta:
-
-1° gruppo: Telecomunicazioni:
-
-Microonde;
-
-Elettronica quantistica;
-
-Sistemi di telecomunicazione;
-
-Telefonia e telegrafia;
-
-Antenne e propagazione.
-
-2° gruppo: Controlli e calcolatori:
-
-Macchine ed impianti elettrici;
-
-Tecniche di programmazione;
-
-Complementi di controlli;
-
-Complementi di calcolatori;
-
-Regolazione e controlli industriali;
-
-3° gruppo: Nucleare:
-
-Macchine ed impianti elettrici;
-
-Idraulica;
-
-Elettronica nucleare;
-
-Reattori nucleari;
-
-Regolazione e controlli industriali.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 21 ottobre 1969
+Dato a Roma, addi' 15 giugno 1965
 
 SARAGAT
 
-FERRARI AGGRADI
+GUI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 24 novembre 1969 Atti del Governo, registro n. 230, foglio n. 59. - CARUSO
+alla Corte dei conti, addi' 7 agosto 1965 Atti del Governo, registro n. 196, foglio n. 39. - VILLA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto del 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 185, relativo agli insegnamenti del biennio propedeutico degli studi per l'ingegneria e' abrogato e sostituito dal seguente: "Gli insegnamenti fondamentali comuni a tutti i corsi di laurea sono i seguenti:   
-1) Analisi matematica I;   
-2) Geometria I;   
-3) Fisica I;   
-4) Chimica;   
-5) Disegno;   
-6) Analisi matematica II;   
-7) Meccanica razionale;   
-8) Fisica II;   
-9) Geometria II (solo per i corsi di laurea in ingegneria civile)".   
-Per i corsi di laurea in ingegneria meccanica, aeronautica e navale e meccanica, l'insegnamento di geometria II e' sostituito con quello di:   
-9) Disegno meccanico.   
-Per il corso di laurea in ingegneria chimica l'insegnamento di geometria II e' sostituito con quello di:   
-9) Chimica organica.   
-Per i corsi di laurea in ingegneria elettrotecnica ed elettronica l'insegnamento di geometria II e' sostituito con quello di:   
-9) Tecnologie generali dei materiali (obbligatorio sul piano della facolta').   
-A questi insegnamenti vanno aggiunti:   
-per i corsi di laurea in ingegneria civile:   
-10) Disegno civile;   
-per i corsi di laurea in ingegneria meccanica ed aeronautica:  
-10) Chimica applicata (obbligatorio sul piano nazionale);   
-per il corso di laurea in ingegneria navale e meccanica:   
-10) Chimica applicata (obbligatorio sul piano nazionale);   
-11) Tecnologie generali dei materiali (obbligatorio sul piano della facolta).   
-Art. 191, relativo al corso di laurea in ingegneria elettrotecnica e' modificato nel senso che all'elenco degli insegnamenti obbligatori sul piano della facolta' e' aggiunto il seguente: "Produzione e trasmissione della energia elettrica".   
-Art. 195, relativo al corso di laurea in ingegneria elettronica e' modificato nel senso che l'elenco degli insegnamenti obbligatori sul piano della facolta' e gli indirizzi a scelta dello studente sono abrogati e sostituiti dai seguenti:   
-b) obbligatori sul piano della facolta':   
-1) Componenti elettronici;   
-2) Complementi di matematica;   
-3) Calcolatori elettronici;   
-4) Misure elettroniche;   
-5) Economia ed organizzazione industriale;   
-c) Gruppi di materie a scelta:   
-  
-1° gruppo: Telecomunicazioni:   
-Microonde;   
-Elettronica quantistica;   
-Sistemi di telecomunicazione;   
-Telefonia e telegrafia;   
-Antenne e propagazione.   
-  
-2° gruppo: Controlli e calcolatori:   
-Macchine ed impianti elettrici;   
-Tecniche di programmazione;   
-Complementi di controlli;   
-Complementi di calcolatori;   
-Regolazione e controlli industriali;   
-  
-3° gruppo: Nucleare:   
-Macchine ed impianti elettrici;   
-Idraulica;   
-Elettronica nucleare;   
-Reattori nucleari;   
-Regolazione e controlli industriali.   
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 185. - Alle materie complementari del triennio di applicazione del corso di laurea in Architettura e' aggiunto l'insegnamento di "Grandi strutture spaziali".  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta, ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 ottobre 1969
+### Dato a Roma, addi' 15 giugno 1965
 
-SARAGAT FERRARI AGGRADI
+SARAGAT GUI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 24 novembre 1969
+Registrato alla Corte dei conti, addi' 7 agosto 1965
 
-Atti del Governo, registro n. 230, foglio n. 59. - CARUSO
+Atti del Governo, registro n. 196, foglio n. 39. - VILLA

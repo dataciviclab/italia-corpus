@@ -1,81 +1,202 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 settembre 1966 n. 889
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1984 n. 1204
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 settembre 1966 n. 889
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1984 n. 1204
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, numero 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Dopo l'art. 143, e con lo spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli, relativi al riordinamento della scuola di specializzazione in chirurgia plastica ed alla istituzione della scuola di specializzazione in medicina tropicale, entrambe afferenti alla facolta' di medicina e chirurgia.  
+
+Art. 2
+------
+
   
-Decreta:  
+Gli articoli da 343 a 352 del vigente statuto, relativi all'ordinamento dell'attuale scuola di specializzazione in chirurgia plastica, sono soppressi.  
+
+Art. 3
+------
+
+Scuola di specializzazione in chirurgia plastica
+
   
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 29. - All'elenco degli insegnamenti complementari del corso di laurea in Economia e commercio e' aggiunto quello di "Economia urbana".  
-Art. 49. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti i seguenti:  
-"Paleontologia dei vertebrati";  
-"Genetica dei microorganismi";  
-"Genetica umana".  
-Art. 50. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti i seguenti:  
-"Paleontologia dei vertebrati";  
-"Genetica dei microorganismi";  
-"Genetica umana".  
-Dopo l'art. 199, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione, presso la Facolta' di medicina e chirurgia della Scuola di specializzazione per medici laboratoristi.  
   
-Scuola di specializzazione per medici laboratoristi  
-  
-Art. 200. - La Scuola di specializzazione per medici laboratoristi ha lo scopo di preparare sul piano scientifico e tecnico, i medici che intendono dedicarsi particolarmente alle analisi di laboratorio applicate alla clinica, ed alla medicina sperimentale.  
-Art. 201. - Possono essere ammessi i laureati in Medicina e chirurgia, in numero non superiore a 20 per ciascun anno di corso.  
-Art. 202. - Il corso ha la durata di 3 anni ed ha luogo presso gli Istituti di chimica biologica e di igiene.  
-Art. 203. - La direzione della Scuola viene assunta dal professore di ruolo di Chimica biologica.  
-Art. 204. - L'ordine degli studi prevede la frequenza obbligatoria presso l'Istituto di Chimica biologica e l'Istituto di igiene.  
-Art. 205. - Gli insegnamenti impartiti nella Scuola sono:  
+Art. 144. - E' istituita presso l'Universita' di Pavia la scuola di specializzazione in chirurgia plastica che conferisce il diploma di specialista in chirurgia plastica.  
+Art. 145. - La direzione della scuola ha sede presso la facolta' di medicina e chirurgia.  
+Art. 146. - La scuola ha lo scopo di provvedere alla formazione teorico-pratica di medici specialisti in chirurgia plastica.  
+Art. 147. - La durata del corso e' di cinque anni e non e' suscettibile di abbreviazioni.  
+Art. 148. - Il numero degli iscritti e' di due per ogni anno e complessivamente di dieci per l'intero corso di studi.  
+Art. 149. - Alla scuola sono ammessi solo i laureati in medicina e chirurgia ed e' richiesto il diploma di abilitazione all'esercizio professionale, rilasciato dalle autorita' competenti.  
+Art. 149-bis. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
+a) la tesi nella disciplina attinente alla specializzazione;  
+b) il voto di laurea;  
+c) il voto riportato negli esami di profitto del corso di laurea nelle materie attinenti la specializzazione;  
+d) le pubblicazioni nelle predette materie.  
+Il punteggio dei predetti titoli e' quello stabilito dal [decreto ministeriale del 16 settembre 1982, pubblicato nella Gazzetta Ufficiale n. 275 del 6 ottobre 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-10-06&numeroGazzetta=275). Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizioni utili nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
+Art. 150. - Le materie di insegnamento sono le seguenti, tutte afferenti alla facolta' di medicina e chirurgia:  
 1° Anno:  
-1) Fisiologia;  
-2) Patologia generale;  
-3) Batteriologia e Virologia;  
-4) Chimica biologica e generale;  
-5) Tecnica e Diagnostica istopatologica.  
+chirurgia plastica;  
+anatomia ed embriologia;  
+patologia generale;  
+genetica;  
+anatomia e istologia patologica;  
+patologia e clinica chirurgica I;  
+chirurgia d'urgenza e pronto soccorso I;  
+biologia e clinica dei trapianti I.  
 2° Anno:  
-1) Immunologia e tecniche relative;  
-2) Chimica biologica applicata;  
-3) Fisico-chimica biologica;  
-4) Tecnica dei prelevamenti;  
-5) Identificazione di tracce biologiche;  
-6) Dosaggio farmacologico dei medicamenti.  
+chirurgia plastica;  
+anatomia chirurgica;  
+patologia e clinica chirurgica II;  
+chirurgia d'urgenza e pronto soccorso II;  
+anestesiologia e rianimazione;  
+biologia e clinica dei trapianti II;  
+fisiopatologia e clinica della malattia-ustione.  
 3° Anno:  
-1) Microscopia clinica;  
-2) Chimica clinica;  
-3) Nozioni di igiene applicata al laboratorio di analisi cliniche;  
-4) Nozioni di statistica biologica;  
-5) Parassitologia e Micologia.  
-Art. 206. - Gli esami di profitto si svolgono per gruppo di materie alla fine di ogni anno di corso.  
-L'esame di diploma si svolge con le norme generali del testo unico universitario.  
+chirurgia plastica;  
+malattia-ustione: terapia medica e chirurgica;  
+oncologia;  
+radiodiagnostica o radioterapia;  
+otorinolaringoiatria;  
+odontostomatologia e ortopedia maxillo-facciale;  
+dermatologia;  
+patologia secondaria.  
+4° Anno:  
+chirurgia plastica;  
+malformazioni congenite;  
+chirurgia della mano I;  
+microchirurgia vascolare e nervosa;  
+chirurgia maxillo-facciale;  
+fisiochinesiterapia.  
+chirurgia plastica;  
+chirurgia della mano II;  
+metodologia chirurgica differenziale;  
+criobiologia e crioterapia;  
+chirurgia estetica;  
+problemi psichiatrici e psicologici in chirurgia plastica;  
+medicina legale.  
+Art. 150-bis. - La frequenza ai corsi e' obbligatoria.  
+Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno del corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola e i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
+Art. 151. - Le attivita' pratiche previste consistono nell'attivita' ambulatoriale, di reparto, di sala operatoria. E' fatto obbligo agli allievi del primo biennio di presenziare ad un minimo di trenta sedute operatorie per anno; gli allievi del terzo, quarto e quinto anno dovranno partecipare quali primi assistenti ad un numero di cinquanta interventi per anno.  
+Inoltre e' fatto obbligo agli allievi di frequentare il reparto clinico, gli ambulatori per almeno undici mesi l'anno per tutti i cinque anni del corso, nonche' di frequentare almeno l'80% delle lezioni teoriche previste per ogni anno di corso.  
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere la prova di esame.  
+Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.  
+Art. 152. - Superato l'esame teorico pratico dell'ultimo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.  
+A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.  
+Art. 152-bis. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
+Art. 152-ter. - Per la scuola di specializzazione in chirurgia plastica e' costituito un consiglio presieduto da un direttore e composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).  
+Il Consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.  
+La direzione della scuola e' affidata ad un professore ordinario o straordinario che insegni anche nella scuola stessa. Il direttore della scuola e' nominato su proposta del consiglio della scuola. In caso di motivato impedimento la direzione della scuola e' affidata ad un professore associato che pure insegni nella scuola medesima.  
+Art. 153 - Norme transitorie. - In via transitoria, per gli specializzandi gia' iscritti secondo il precedente ordinamento al momento dell'entrata in vigore del presente statuto, e' ammesso il passaggio al nuovo ordinamento. Il conseguimento del diploma e' condizionato al superamento di tutti gli esami, compresi quelli relativi agli insegnamenti non previsti nel precedente ordinamento.  
+
+Art. 4
+------
+
+Scuola di specializzazione in medicina tropicale
+
+  
+  
+Art. 154. - E' istituita presso l'Universita' di Pavia la scuola di specializzazione in medicina tropicale che conferisce il diploma di specializzazione in medicina tropicale.  
+Art. 155. - La direzione della scuola ha sede presso l'istituto di clinica delle malattie infettive.  
+Art. 156. - La scuola ha lo scopo di impartire nozioni teorico-pratiche di diagnostica e terapia clinica, di epidemiologia e profilassi nel settore della patologia tropicale ed altresi' di promuovere programmi di interscambio culturale e di collaborazione tecnico-scientifica con i Paesi tropicali.  
+Art. 157. - La durata del corso e' di quattro anni e non e' suscettibile di abbreviazioni.  
+Art. 158. - Il numero degli iscritti e' di sette per ogni anno e complessivamente di ventotto per l'intero corso di studi.  
+Art. 159. - Alla scuola sono ammessi solo i laureati in medicina e chirurgia, in possesso dell'abilitazione all'esercizio professionale.  
+Art. 160. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore ai 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
+a) la tesi nella disciplina attinente alla specializzazione;  
+b) il voto di laurea;  
+c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
+d) le pubblicazioni nelle predette materie.  
+Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale del 16 settembre 1982.  
+Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
+Art. 161. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+epidemiologia;  
+entomologia e zoologia;  
+batteriologia;  
+virologia;  
+parassitologia;  
+micologia.  
+2° Anno:  
+clinica delle malattie tropicali I;  
+tecniche batteriologiche in riferimento alla patologia tropicale;  
+tecniche virologiche in riferimento alla patologia  
+tropicale;  
+tecniche parassitologiche in riferimento alla patologia tropicale;  
+tecniche micologiche in riferimento alla patologia  
+tropicale.  
+3° Anno:  
+clinica delle malattie tropicali II;  
+igiene e profilassi in riferimento alla patologia tropicale;  
+immunologia, nozioni generali;  
+tecniche immunologiche in riferimento alla patologia tropicale; farmacologia;  
+radiologia.  
+4° Anno:  
+clinica delle malattie tropicali III;  
+diagnostica in patologia tropicale;  
+terapia delle malattie tropicali;  
+chirurgia ed ostetricia d'urgenza;  
+dermatologia tropicale,  
+tutte afferenti alla facolta' di medicina e chirurgia.  
+Art. 162. - La frequenza ai corsi e' obbligatoria. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
+Art. 163. - Le attivita' didattiche saranno integrate da attivita' pratiche consistenti in esercitazioni e seminari di diagnostica clinica e strumentale, nonche' da prove laboratoristiche nei differenti settori di diagnostica eziologica speciale.  
+E' tassativa la frequenza a tali attivita' didattiche e pratiche secondo il calendario stabilito dal consiglio della scuola.  
+E' stabilito un periodo di almeno sei mesi di frequenza obbligatoria per sostenere gli esami di profitto.  
+Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario, attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.  
+Art. 164. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.  
+A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.  
+Art. 165. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
+Art. 166. - E' costituito il consiglio della scuola, presieduto dal direttore.  
+Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto di Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).  
+Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.  
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana, E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 settembre 1966
+### Dato a Roma, addi' 30 luglio 1984
 
-SARAGAT GUI
+PERTINI
 
-Visto, il Guardasigilli: REALE
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 25 ottobre 1966
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Atti del Governo, registro n. 206, foglio n. 114. - VILLA
+Registrato alla Corte dei conti, addi' 1 luglio 1985
+
+Registro n. 45 Istruzione, foglio n. 339

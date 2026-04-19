@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1980 n. 220
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 maggio 1975 n. 450
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1980 n. 220
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 maggio 1975 n. 450
 =============================================================
 
 Autorizzazione all'Ente nazionale ACLI per l'istruzione professionale, in Roma, ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-220. Decreto del Presidente della Repubblica 14 aprile 1980, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Ente nazionale ACLI per l'istruzione professionale (ENAIP), in Roma, viene autorizzato ad acquistare, al prezzo di L. 50.000.000, un immobile sito in Enna, tra via A. Diaz e via delle Scienze, esteso mq 1600, comprendente un sovrastante fabbricato terraneo a copertura, iscritto al nuovo catasto edilizio urbano alla partita 7872, con provenienza dal nuovo catasto terreni, al foglio 37, particella 531, di proprieta' delle Associazioni cristiane dei lavoratori italiani (ACLI), come da contratto condizionato di compravendita redatto in scrittura privata in data 14 dicembre 1973, autenticato a rogito dott. Giuseppe Intersimone, notaio in Roma, n. 106844 di repertorio, registrato a Roma in data 4 gennaio 1974, n. 250, da adibire a sede stabile della propria attivita' di formazione professionale.  
+450. Decreto del Presidente della Repubblica 26 maggio 1975, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Ente nazionale ACLI per l'istruzione professionale (ENAIP), in Roma, viene autorizzato ad acquistare, al prezzo di lire 44.000.000, un appezzamento di terreno della estensione di circa mq 18000, a corpo, sito nel comune di Botticino Sera (Brescia) distinto nel catasto terreni con i mappali: n. 83 di ha 1.13.60, n. 339 di ha 063.80, di proprieta' dei fratelli Brunori Bartolomea, Giovanni, Filippo, Margherita, Mario e Bruno, tutti domiciliati a Brescia, come da contratto condizionato di compravendita in data 14 giugno 1973 a rogito notar Giuseppe Intersimone di Roma, registrato all'ufficio atti privati il 3 luglio 1973, n. 12960.  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 3 giugno 1980  
-Registro n. 1 Lavoro, foglio n. 106
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 2 settembre 1975  
+Atti di Governo, registro n. 11, foglio n. 88

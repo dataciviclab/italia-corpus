@@ -1,83 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1967 n. 811
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1957 n. 478
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1967 n. 811
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1957 n. 478
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Dopo l'art. 112 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi all'istituzione del Seminario di studi e ricerche sulla Storia delle scienze logico-matematiche, fisico-chimiche, biochimico-fisiche e medico-biologiche annesso alla Facolta' di lettere e filosofia.
-
-Seminario di studi e ricerche sulla Storia delle scienze logico-matematiche, fisico-chimiche, biochimico-fisiche e medico-biologiche.
-
-Art. 113. - E' istituito presso l'Istituto di filosofia (Facolta' di lettere e filosofia) della Universita' di Bari un "Seminario di studi e ricerche sulla storia delle scienze logico-matematiche, fisico-chimiche, biochimico-fisiche e medico-biologiche".
-
-Art. 114. - Tale Seminario ha il compito di addestrare giovani laureati e assistenti alle ricerche sulla Storia della scienza, in connessione con la Storia della filosofia.
-
-Il Seminario ha, altresi', il compito di stabilire rapporti di collaborazione tra le Facolta' umanistiche e quelle scientifiche.
-
-Art. 115. - A frequentare il Seminario possono essere ammessi i giovani laureati delle Facolta' di lettere e filosofia, di scienze e di medicina. E' facolta' del Consiglio direttivo di ammettere studiosi di qualsiasi provenienza, che diano garanzia di poter condurre una proficua ricerca sulla Storia della scienza.
-
-Art. 116. - Possono essere ammessi a frequentare il Seminario laureandi che preparino una dissertazione attinente alla Storia delle scienze, provenendo dalle predette Facolta'. Detti giovani saranno indirizzati alla ricerca dai dirigenti del Seminario, e potranno, una volta conseguita la laurea, essere trattenuti e avviati al perfezionamento nella ricerca stessa.
-
-Art. 117. - Il Seminario invitera' a tenere corsi di lezioni e di esercitazioni docenti, studiosi e ricercatori di chiara fama, italiani e stranieri.
-
-Art. 118. - Il Seminario potra' essere finanziato con contributi del C.N.R. o di altri Enti pubblici. Potranno essere istituite borse di studio annuali e pluriennali.
-
-Art. 119. - Il Seminario e' diretto da un Consiglio formato: da un professore titolare (di ruolo o fuori ruolo) di Storia della filosofia, direttore; da un altro professore titolare o incaricato della stessa Facolta' di lettere e filosofia; da due professori titolari o incaricati designati rispettivamente dalle Facolta' di scienze e medicina; da due liberi docenti di Filosofia della scienza o Storia della scienza (o discipline affini) scelti di comune accordo dalle tre Facolta'. Il Consiglio direttivo potra' cooptare docenti e studiosi in numero illimitato.
-
-Art. 120. - Il Consiglio direttivo dura in carica cinque anni ed elegge nel suo seno un vicedirettore ed un segretario. Le funzioni direttive sono gratuite.
-
-Art. 121. - Qualora i mezzi lo consentano, il Seminario sara' dotato di una biblioteca, di un museo-laboratorio e di un periodico.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 14 agosto 1967
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 18 settembre 1967 Atti del Governo, registro n. 213, foglio n. 79. - GRECO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 13 Luglio 1939, n. 1168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-07-13;1168), e modificato con [regio decreto 26 ottobre 1940, n. 2029](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2029), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -86,30 +25,18 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Dopo l'art. 112 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi all'istituzione del Seminario di studi e ricerche sulla Storia delle scienze logico-matematiche, fisico-chimiche, biochimico-fisiche e medico-biologiche annesso alla Facolta' di lettere e filosofia.  
-Seminario di studi e ricerche sulla Storia delle scienze logico-matematiche, fisico-chimiche, biochimico-fisiche e medico-biologiche.  
-Art. 113. - E' istituito presso l'Istituto di filosofia (Facolta' di lettere e filosofia) della Universita' di Bari un "Seminario di studi e ricerche sulla storia delle scienze logico-matematiche, fisico-chimiche, biochimico-fisiche e medico-biologiche".  
-Art. 114. - Tale Seminario ha il compito di addestrare giovani laureati e assistenti alle ricerche sulla Storia della scienza, in connessione con la Storia della filosofia.  
-Il Seminario ha, altresi', il compito di stabilire rapporti di collaborazione tra le Facolta' umanistiche e quelle scientifiche.  
-Art. 115. - A frequentare il Seminario possono essere ammessi i giovani laureati delle Facolta' di lettere e filosofia, di scienze e di medicina. E' facolta' del Consiglio direttivo di ammettere studiosi di qualsiasi provenienza, che diano garanzia di poter condurre una proficua ricerca sulla Storia della scienza.  
-Art. 116. - Possono essere ammessi a frequentare il Seminario laureandi che preparino una dissertazione attinente alla Storia delle scienze, provenendo dalle predette Facolta'. Detti giovani saranno indirizzati alla ricerca dai dirigenti del Seminario, e potranno, una volta conseguita la laurea, essere trattenuti e avviati al perfezionamento nella ricerca stessa.  
-Art. 117. - Il Seminario invitera' a tenere corsi di lezioni e di esercitazioni docenti, studiosi e ricercatori di chiara fama, italiani e stranieri.  
-Art. 118. - Il Seminario potra' essere finanziato con contributi del C.N.R. o di altri Enti pubblici. Potranno essere istituite borse di studio annuali e pluriennali.  
-Art. 119. - Il Seminario e' diretto da un Consiglio formato: da un professore titolare (di ruolo o fuori ruolo) di Storia della filosofia, direttore; da un altro professore titolare o incaricato della stessa Facolta' di lettere e filosofia; da due professori titolari o incaricati designati rispettivamente dalle Facolta' di scienze e medicina; da due liberi docenti di Filosofia della scienza o Storia della scienza (o discipline affini) scelti di comune accordo dalle tre Facolta'. Il Consiglio direttivo potra' cooptare docenti e studiosi in numero illimitato.  
-Art. 120. - Il Consiglio direttivo dura in carica cinque anni ed elegge nel suo seno un vicedirettore ed un segretario. Le funzioni direttive sono gratuite.  
-Art. 121. - Qualora i mezzi lo consentano, il Seminario sara' dotato di una biblioteca, di un museo-laboratorio e di un periodico.  
+Art. 9. - Agli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di "Istituzioni di diritto penale".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 agosto 1967
+### Dato a Roma, addi' 6 giugno 1957
 
-SARAGAT GUI
+GRONCHI MORO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 18 settembre 1967
+Registrato alla Corte dei conti, addi' 2 luglio 1957
 
-Atti del Governo, registro n. 213, foglio n. 79. - GRECO
+Atti del Governo, registro n. 106, foglio n. 140. - CARLOMAGNO

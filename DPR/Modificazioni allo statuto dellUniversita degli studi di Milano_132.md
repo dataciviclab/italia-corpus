@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1957 n. 1169
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 926
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1957 n. 1169
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 926
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successivi;
+Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,212 +20,139 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduta la [legge 26 luglio 1957, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-07-26;741);
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-L'art. 16 e' cosi' modificato:
+Articolo unico
+--------------
 
-"La Facolta' di lettere e filosofia conferisce la laurea in lettere, la laurea in filosofia e la laurea in lingue e letterature straniere moderne ad indirizzo europeo".
-
-Dopo l'art. 18 e' aggiunto il seguente nuovo articolo, relativo alla istituzione del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo), con il conseguente spostamento della numerazione degli articoli successivi.
-
-Corso di laurea in lingue e letterature straniere moderne
-
-(indirizzo europeo)
-
-Art. 19. - La durata del corso degli studi per la laurea in lingue e letterature straniere moderne ad indirizzo europeo e' di quattro anni. E' titolo di ammissione il diploma di maturita' classica.
-
-Insegnamenti fondamentali:
-
-1) Letteratura italiana;
-
-2) Letteratura latina;
-
-3) Glottologia;
-
-4) Una lingua e letteratura straniera moderna;
-
-5) Una seconda lingua e letteratura straniera moderna;
-
-6) Filologia romanza (o germanica, o slava, o ugrofinnica)
-
-7) Storia medioevale;
-
-8) Storia moderna;
-
-9) Storia dell'arte medioevale e moderna;
-
-10) Geografia;
-
-Insegnamenti complementari (quando non siano scelti come fondamentali ai su indicati numeri 4, 5 e 6):
-
-1) Lingua e letteratura francese;
-
-2) Lingua e letteratura spagnola;
-
-3) Lingua e letteratura romena;
-
-4) Lingua e letteratura inglese;
-
-5) Lingua e letteratura tedesca;
-
-6) Lingue e letterature scandinave;
-
-7) Lingua e letteratura russa;
-
-8) Lingua e letteratura polacca;
-
-9) Lingua e letteratura ungherese;
-
-10) Lingua e letteratura neo-greca;
-
-11) Filologia romanza;
-
-12) Filologia germanica;
-
-13) Filologia slava;
-
-14) Storia della lingua italiana;
-
-15) Storia della musica;
-
-16) Letteratura greca;
-
-17) Lingua e letteratura latina medioevale;
-
-18) Filologia bizantina;
-
-19) Storia romana;
-
-20) Storia greca;
-
-21) Storia della filosofia;
-
-22) Filosofia del linguaggio.
-
-Lo studente dovra' seguire i corsi e sostenere gli esami in tutti gli insegnamenti fondamentali ed in tre altri insegnamenti da lui scelti fra i complementari. Uno degli insegnamenti complementari potra' essere sostituito dallo studente con una disciplina di altri corsi di studi della stessa o di diversa Facolta'.
-
-L'insegnamento della lingua e letteratura straniera moderna, alla quale lo studente intende principalmente dedicarsi, dovra' essere seguito per tutti i quattro anni, alla fine di ciascuno dei quali egli sara' sottoposto a prove scritte, di anno in anno gradualmente progressive.
-
-Dovranno poi essere seguiti per due anni l'insegnamento della filologia, a cui quella stessa prima lingua si ricollega e l'insegnamento della seconda lingua e letteratura straniera moderna prescelta. Due altri insegnamenti fondamentali dovranno pure essere seguiti per un biennio. Lo studente potra' poi seguire per un biennio anche un altro insegnamento; ed in tal caso potra' ridurre da tre a due gli insegnamenti complementari di sua scelta.
-
-Gli esami di letteratura italiana e di letteratura latina comprendono una prova scritta preliminare.
-
-Nella Facolta' dove gli insegnamenti di storia medioevale e di storia moderna sono riuniti in un'unica cattedra, i corsi rispettivi debbono essere tenuti alternativamente.
-
-Il preside, sentita, ove ritenga, la Facolta', deve controllare i piani di studio presentati dagli studenti ed approvarli prima che siano resi definitivi.
-
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in tutti gli altri insegnamenti compresi nel piano di studi approvato dal preside.
-
-Nel diploma di laurea dovra' farsi esplicita menzione della lingua e letteratura, a cui il laureato si e' specialmente dedicato.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 26 ottobre 1957
-
-GRONCHI
-
-MORO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 12 dicembre 1957. Atti del Governo, registro n. 109, foglio n. 102. - RELLEVA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Veduta la [legge 26 luglio 1957, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-07-26;741);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+L'art. 20, relativo all'elenco delle lauree rilasciate dalla facolta' di lettere e filosofia, e' integrato nel senso che va aggiunta la seguente: "laurea in storia".  
+Dopo l'art. 26 sono inseriti, con il conseguente spostamento della numerazione degli articoli successivi, i seguenti articoli concernenti l'ordinamento del corso di studio per la laurea in storia.  
   
-Decreta:  
+LAUREA IN STORIA  
   
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-L'art. 16 e' cosi' modificato:  
-"La Facolta' di lettere e filosofia conferisce la laurea in lettere, la laurea in filosofia e la laurea in lingue e letterature straniere moderne ad indirizzo europeo".  
-Dopo l'art. 18 e' aggiunto il seguente nuovo articolo, relativo alla istituzione del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo), con il conseguente spostamento della numerazione degli articoli successivi.  
-  
-Corso di laurea in lingue e letterature straniere moderne  
-(indirizzo europeo)  
-  
-Art. 19. - La durata del corso degli studi per la laurea in lingue e letterature straniere moderne ad indirizzo europeo e' di quattro anni. E' titolo di ammissione il diploma di maturita' classica.  
-Insegnamenti fondamentali:  
-1) Letteratura italiana;  
-2) Letteratura latina;  
-3) Glottologia;  
-4) Una lingua e letteratura straniera moderna;  
-5) Una seconda lingua e letteratura straniera moderna;  
-6) Filologia romanza (o germanica, o slava, o ugrofinnica)  
-7) Storia medioevale;  
-8) Storia moderna;  
-9) Storia dell'arte medioevale e moderna;  
-10) Geografia;  
-Insegnamenti complementari (quando non siano scelti come fondamentali ai su indicati numeri 4, 5 e 6):  
-1) Lingua e letteratura francese;  
-2) Lingua e letteratura spagnola;  
-3) Lingua e letteratura romena;  
-4) Lingua e letteratura inglese;  
-5) Lingua e letteratura tedesca;  
-6) Lingue e letterature scandinave;  
-7) Lingua e letteratura russa;  
-8) Lingua e letteratura polacca;  
-9) Lingua e letteratura ungherese;  
-10) Lingua e letteratura neo-greca;  
-11) Filologia romanza;  
-12) Filologia germanica;  
-13) Filologia slava;  
-14) Storia della lingua italiana;  
-15) Storia della musica;  
-16) Letteratura greca;  
-17) Lingua e letteratura latina medioevale;  
-18) Filologia bizantina;  
-19) Storia romana;  
-20) Storia greca;  
-21) Storia della filosofia;  
-22) Filosofia del linguaggio.  
-Lo studente dovra' seguire i corsi e sostenere gli esami in tutti gli insegnamenti fondamentali ed in tre altri insegnamenti da lui scelti fra i complementari. Uno degli insegnamenti complementari potra' essere sostituito dallo studente con una disciplina di altri corsi di studi della stessa o di diversa Facolta'.  
-L'insegnamento della lingua e letteratura straniera moderna, alla quale lo studente intende principalmente dedicarsi, dovra' essere seguito per tutti i quattro anni, alla fine di ciascuno dei quali egli sara' sottoposto a prove scritte, di anno in anno gradualmente progressive.  
-Dovranno poi essere seguiti per due anni l'insegnamento della filologia, a cui quella stessa prima lingua si ricollega e l'insegnamento della seconda lingua e letteratura straniera moderna prescelta. Due altri insegnamenti fondamentali dovranno pure essere seguiti per un biennio. Lo studente potra' poi seguire per un biennio anche un altro insegnamento; ed in tal caso potra' ridurre da tre a due gli insegnamenti complementari di sua scelta.  
-Gli esami di letteratura italiana e di letteratura latina comprendono una prova scritta preliminare.  
-Nella Facolta' dove gli insegnamenti di storia medioevale e di storia moderna sono riuniti in un'unica cattedra, i corsi rispettivi debbono essere tenuti alternativamente.  
-Il preside, sentita, ove ritenga, la Facolta', deve controllare i piani di studio presentati dagli studenti ed approvarli prima che siano resi definitivi.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in tutti gli altri insegnamenti compresi nel piano di studi approvato dal preside.  
-Nel diploma di laurea dovra' farsi esplicita menzione della lingua e letteratura, a cui il laureato si e' specialmente dedicato.  
+Art. 27. - La durata del corso di studio per la laurea in storia e' di quattro anni.  
+Il corso di studi si distingue in due indirizzi:  
+a) medioevale;  
+b) moderno.  
+Sono titoli di ammissione:  
+a) il diploma di scuola media superiore di durata quinquennale;  
+b) il diploma rilasciato al termine dell'anno integrativo frequentato dopo il conseguimento del diploma di scuola media superiore di durata quadriennale.  
+Indirizzo medioevale  
+Sono insegnamenti fondamentali:  
+storia medioevale;  
+storia romana;  
+\* storia moderna;  
+storia dell'arte medioevale;  
+\* letteratura italiana;  
+paleografia e diplomatica;  
+lingua e letteratura latina medioevale;  
+storia economica medioevale;  
+\* geografia storica dell'Europa;  
+storia della filosofia medioevale;  
+istituzioni medioevali.  
+Sono insegnamenti complementari:  
+archivistica;  
+storia bizantina;  
+filologia romanza;  
+storia medioevale dell'Oriente europeo;  
+storia dei paesi islamici;  
+archeologia medioevale;  
+bibliografia e biblioteconomia;  
+cronologia e cronografia;  
+numismatica, sfragistica e araldica;  
+epigrafia medioevale;  
+storia del diritto italiano;  
+museologia;  
+didattica della storia;  
+antropologia culturale;  
+teoria e storia della storiografia;  
+storia del commercio e della navigazione;  
+codicologia;  
+storia delle esplorazioni geografiche;  
+storia e civilta' precolombiane dell'America;  
+storia dell'Europa medioevale;  
+\* politica economica europea;  
+paleografia bizantina;  
+esegesi delle fonti della storia medioevale;  
+letteratura umanistica;  
+storia agraria medioevale;  
+una storia regionale italiana del medioevo, che viene precisata come storia della Lombardia nel medioevo;  
+storia del Cristianesimo medioevale;  
+pubblicistica e cronachistica medioevale;  
+storia degli insediamenti tardo-antichi e medioevali;  
+linguistica, onomastica e toponomastica medioevale;  
+storia della Chiesa medioevale e dei movimenti ereticali.  
+Indirizzo moderno  
+Sono insegnamenti fondamentali:  
+\* storia moderna;  
+storia dell'arte moderna;  
+storia delle istituzioni e delle dottrine politiche;  
+teoria e storia della storiografia nell'eta' moderna;  
+\* letteratura italiana;  
+storia economica dell'eta' moderna;  
+\* geografia storica dell'Europa;  
+storia della filosofia moderna e contemporanea;  
+metodi quantitativi applicati alla storia;  
+storia della scienza e della tecnica nell'eta' moderna;  
+storia degli antichi stati italiani.  
+Sono insegnamenti complementari:  
+storia dell'Africa;  
+storia dell'Asia;  
+storia dell'America latina;  
+storia dell'Europa orientale;  
+storia del Rinascimento;  
+storia dell'America settentrionale;  
+letteratura italiana moderna;  
+storia dell'eta' della Riforma e Controriforma;  
+storia dell'eta' dell'Illuminismo;  
+storia del Risorgimento;  
+storia e tecnica militare;  
+storia di una regione italiana nell'eta' moderna, che viene precisata come storia della Lombardia nell'eta' moderna;  
+storia della sanita';  
+storia della chimica;  
+storia urbana;  
+storia delle tecnologie;  
+storia agraria moderna;  
+storia delle esplorazioni e scoperte geografiche;  
+storia del commercio e dell'industria;  
+storia della moneta e della borsa;  
+\* politica economica europea;  
+etnologia storica;  
+cronologia e tecniche della misura del tempo;  
+istituzioni di educazione civica;  
+storia della fisica;  
+storia delle matematiche;  
+storia della navigazione;  
+storia dell'Europa occidentale nell'eta' moderna.  
+Art. 28. - Le materie fondamentali e complementari segnate con asterisco sono comuni ai due indirizzi del corso di laurea.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in almeno otto insegnamenti complementari di cui sei dell'indirizzo prescelto.  
+Lo studente dovra', inoltre, aver superato gli esami in due insegnamenti di lingua straniera da mutuarsi presso la stessa o altre facolta' della medesima Universita': una delle due lingue dovra' essere scelta fra quelle del gruppo anglosassone ed una fra quelle del gruppo neolatino.  
+L'esame di laurea in storia consiste nella discussione di una dissertazione scritta svolta dal candidato in uno degli insegnamenti relativi al corso di laurea ed in rapporto al carattere della laurea stessa e dell'indirizzo prescelto.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 ottobre 1957
+### Dato a Roma, addi' 21 ottobre 1981
 
-GRONCHI MORO
+PERTINI BODRATO
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 12 dicembre 1957.
+Registrato alla Corte dei conti, addi' 9 febbraio 1982
 
-Atti del Governo, registro n. 109, foglio n. 102. - RELLEVA
+Registro n. 20 Istruzione, foglio n. 218

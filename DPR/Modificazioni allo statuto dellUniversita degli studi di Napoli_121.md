@@ -1,125 +1,168 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 628
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1974 n. 714
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 628
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1974 n. 714
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090) e modificato con [regio decreto 13 ottobre 1927, n. 2281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2281), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
-
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Dopo l'art. 926, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia plastica afferente alla seconda facolta' di medicina e chirurgia.  
-Scuola di specializzazione in chirurgia plastica  
-Art. 927. - E' istituita presso l'Universita' di Napoli, seconda facolta' di medicina e chirurgia, la scuola di specializzazione in chirurgia plastica che conferisce il diploma di specialista in chirurgia plastica.  
-Art. 928. - La direzione della scuola ha sede presso la cattedra di chirurgia plastica ricostruttrice.  
-Art. 929. - La scuola ha lo scopo di provvedere alla formazione teorico-pratica di medici specialisti in chirurgia plastica.  
-Art. 930. - La durata del corso e' di cinque anni e non e' suscettibile di abbreviazioni.  
-Art. 931. - Il numero degli iscritti e' di tre per ogni anno e complessivamente di quindici per l'intero corso di studi.  
-Art. 932. - Alla scuola sono ammessi solo i laureati in medicina e chirurgia ed e' richiesto il diploma di abilitazione all'esercizio professionale, rilasciato dalle autorita' competenti.  
-Art. 933. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
-a) la tesi nella disciplina attinente alla specializzazione;  
-b) il voto di laurea;  
-c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
-d) le pubblicazioni nelle predette materie.  
-Il punteggio dei predetti titoli e' quello stabilito dal [decreto ministeriale del 16 settembre 1982, pubblicato nella Gazzetta Ufficiale n. 275 del 6 ottobre 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-10-06&numeroGazzetta=275). Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizioni utili nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
-Art. 934. - Le materie di insegnamento sono le seguenti, tutte afferenti alla seconda facolta' di medicina e chirurgia:  
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Dopo l'art. 470, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione, presso la seconda facolta' di medicina e chirurgia, delle scuole di specializzazione per medici laboratoristi, in psichiatria e in neurochirurgia.  
+  
+Scuola di specializzazione pur medici laboratoristi  
+  
+Art. 471. - Alla seconda facolta' di medicina e chirurgia della Universita' degli studi di Napoli e' annessa la scuola di specializzazione per medici laboratoristi, con lo scopo di preparare sul piano scientifico e tecnico i medici che intendano dedicarsi particolarmente alle analisi di laboratorio applicate alla clinica e rilascia il diploma di "Specialista in analisi chimico-cliniche di laboratorio".  
+La scuola ha sede presso la cattedra di chimica biologica (I e II) e di patologia generale (I e II) ed e' diretta, ad anni alterni, dai titolari delle cattedre medesime, a rotazione fra gli stessi, i quali costituiscono un consiglio direttivo che esercita una funzione consultiva nei riguardi del direttore della scuola.  
+La durata della scuola e' di tre anni.  
+Il numero degli allievi da ammettere non puo' essere superiore a venti per ogni anno.  
+L'ammissione viene regolata da un esame scritto consistente in un tema su argomento di biochimica e fisiopatologia. Non sono consentite abbreviazioni di corso.  
+Gli assistenti di ruolo presso l'istituto di chimica biologica e di patologia generale potranno ottenere l'iscrizione al 2° anno di corso previo parere favorevole della facolta' su proposta del direttore della scuola. Tale iscrizione non comporta l'esonero dagli esami nelle materie del 1° anno ne' dal pagamento delle tasse relative.  
+  
+Art. 472. - Gli insegnamenti impartiti dalla scuola sono distribuiti nei tre anni come segue:  
 1° Anno:  
-chirurgia plastica;  
-anatomia ed embriologia;  
-patologia generale;  
-genetica;  
-anatomia e istologia patologica;  
-patologia e clinica chirurgica I;  
-chirurgia d'urgenza e pronto soccorso I;  
-biologia e clinica dei trapianti.  
+1) Chimica biologica generale;  
+2) Fisiologia;  
+3) Patologia generale;  
+4) Batteriologia generale;  
+5) Nozioni di igiene applicate al laboratorio di analisi chimico-cliniche;  
+6) Tecnica dei prelevamenti;  
+7) Tecniche di laboratorio di chimico-clinica.  
 2° Anno:  
-chirurgia plastica;  
-anatomia chirurgica;  
-patologia e clinica chirurgica II;  
-chirurgia d'urgenza e pronto soccorso II;  
-anestesiologia e rianimazione;  
-biologia e clinica dei trapianti II;  
-fisiopatologia e clinica della malattia-ustione.  
+8) Batteriologia speciale;  
+9) Chimica biologica;  
+10) Chimico-fisica biologica applicata alla chimico-clinica;  
+11) Parassitologia e tecniche relative;  
+12) Micologia.  
 3° Anno:  
-chirurgia plastica;  
-malattia-ustione: terapia medica e chirurgica;  
-oncologia;  
-radiodiagnostica e radioterapia;  
-otorinolaringoiatria;  
-odontostomatologia ed ortopedia maxillo-facciale;  
-dermatologia;  
-patologia secondaria.  
+13) Nozioni di statistica biologica;  
+14) Nozioni di immunochimica applicata;  
+15) Virologia e tecniche relative;  
+16) Microscopia clinica;  
+17) Immunologia e tecniche relative;  
+18) Identificazione di tracce biologiche;  
+19) Tecniche ematologiche di laboratorio.  
+  
+Art. 473. - L'esame di diploma, cui si e' ammessi dopo aver superato tutti gli esami nelle singole materie, consta di una dissertazione scritta - elaborata in un istituto universitario sotto il controllo di un relatore scelto fra il personale docente, e assegnata dal direttore della scuola - su un argomento pertinente gli insegnamenti della scuola, e da prove pratiche che saranno stabilite anno per anno dal direttore della scuola. A questo scopo il diplomando dovra' compiere un periodo di internato presso un istituto universitario di chimica biologica o di patologia generale, di almeno due anni se la tesi di specializzazione e' sperimentale. Solo in quest'ultimo caso la commissione degli esami di diploma ne terra' conto nella definizione del voto di diploma.  
+  
+Scuola di specializzazione in psichiatria  
+  
+Art. 474. - Alla seconda facolta' di medicina e chirurgia dell'Universita' degli studi di Napoli e' annessa la scuola di specializzazione in psichiatria, con sede presso la cattedra di malattie nervose e mentali ed e' diretta dal titolare della cattedra medesima.  
+La durata della scuola e' di quattro anni.  
+Il numero degli allievi da ammettere non puo' essere superiore a sei per ogni anno (totale ventiquattro iscritti). L'ammissione alla scuola avviene per concorso per titolo ed esame.  
+Un'abbreviazione di due anni di corso puo' essere concessa agli specialisti in neurologia ed in neuropsichiatria infantile. Una abbreviazione di un anno di corso puo' essere concessa agli specialisti in altre materie affini (psicologia, neurochirurgia, medicina interna).  
+Le abbreviazioni di corso, concesse a giudizio del consiglio della scuola, comportano da parte dell'allievo il superamento di un esame sulle discipline previste per l'insegnamento negli anni di corso dei quali si ottiene l'abbreviazione.  
+  
+Art. 475. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+  
+Anatomia ed istologia del sistema nervoso;  
+Fisiologia del sistema nervoso;  
+Biochimica del sistema nervoso;  
+Genetica (elementi);  
+Psicologia generale;  
+Psicopatologia I;  
+Semeiotica psichiatrica.  
+2° Anno:  
+  
+Anatomia ed istologia patologica del sistema nervoso;  
+Semeiotica neurologica;  
+Patologia speciale e diagnostica neurologica;  
+Neuroradiologia;  
+Endocrinologia e neurologia vegetativa;  
+Elettroencefalografia.  
+3° Anno:  
+  
+Patologia speciale psichiatrica;  
+Psicopatologia II;  
+Clinica psichiatrica I;  
+Psicologia clinica e psicodiagnostica;  
+Psichiatria in rapporto con la patologia internistica;  
+Esami di laboratorio;  
+Psicofarmacologia.  
 4° Anno:  
-chirurgia plastica;  
-malformazioni congenite;  
-chirurgia della mano I;  
-microchirurgia vascolare e nervosa;  
-chirurgia maxillo-facciale;  
-fisiochinesiterapia.  
-5° Anno:  
-chirurgia plastica;  
-chirurgia della mano II;  
-metodologia chirurgica differenziale;  
-criobiologia e crioterapia;  
-chirurgia estetica;  
-problemi psichiatrici e psicologici in chirurgia  
-plastica;  
-medicina legale.  
-Art. 935. - La frequenza ai corsi e' obbligatoria. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno del corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
-Art. 936. - Le attivita' pratiche previste consistono nell'attivita' ambulatoriale, di reparto, di sala operatoria. E' fatto obbligo agli allievi del primo biennio di presenziare ad un minimo di trenta sedute operatorie per anno; gli allievi del terzo, quarto e quinto anno dovranno partecipare quali primi assistenti ad un numero di cinquanta interventi per anno.  
-Inoltre e' fatto obbligo agli allievi di frequentare il reparto clinico, gli ambulatori per almeno undici mesi l'anno per tutti i cinque anni del corso, nonche' di frequentare almeno l'80% delle lezioni teoriche previste per ogni anno di corso.  
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere la prova di esame.  
-Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.  
-Art. 937. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio delle scuole di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.  
-A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.  
-Art. 938. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
-Art. 939. - Per la scuola di specializzazione in chirurgia plastica e' costituito un consiglio presieduto da un direttore e composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[articolo 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).  
-Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.  
-La direzione della scuola e' affidata a professore ordinario o straordinario che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+  
+Clinica psichiatrica II;  
+Terapia psichiatrica generale;  
+Psicoterapia;  
+Neuropsichiatria infantile;  
+Psichiatria forense e legislazione psichiatrica;  
+Psichiatria sociale (del lavoro, scolastico, igiene e profilassi mentale).  
+  
+Art. 476. - E' obbligatorio l'internato presso i reparti ed ambulatori della clinica psichiatrica durante il primo, il terzo ed il quarto anno di corso per l'intero anno accademico. Tale internato potra' essere ridotto a non meno di mesi quattro per i medici che prestino regolare servizio in ospedali psichiatrici provinciali, ed a non meno di mesi sei per i medici che prestino regolare servizio in altre istituzioni d'assistenza primariamente psichiatrica delle province e delle regioni.  
+E' obbligatorio l'internato presso i reparti neurologici della clinica per le malattie nervose e mentali, durante il secondo anno di corso per l'intero anno accademico.  
+Tale internato potra' essere ridotto a non meno di mesi sei per i medici che prestino regolare servizio in ospedale psichiatrico, ed a non meno di mesi quattro per i medici che prestino regolare servizio in un reparto neurologico.  
+  
+Art. 477. - L'esame di diploma di specializzazione consiste nella discussione di una dissertazione scritta su un argomento di psichiatria, preventivamente concordato con il direttore della scuola.  
+  
+Scuola di specializzazione in neurochirurgia  
+  
+Art. 478. - Alla 2ª facolta' di medicina e chirurgia dell'Universita' degli studi di Napoli e' annessa la scuola di specializzazione in neurochirurgia, con sede presso la cattedra di neurochirurgia ed e' diretta dal titolare della cattedra medesima.  
+La durata della scuola e' di quattro anni.  
+Il numero degli allievi da ammettere non puo' superare i sei per ogni anno.  
+L'ammissione alla scuola avviene per concorso, per titoli ed esame.  
+Non sono consentite abbreviazioni di corso se non per coloro che sono gia' in possesso del diploma di specialista in chirurgia generale od in clinica delle malattie nervose e mentali, previo parere del consiglio dei docenti della scuola, i quali potranno usufruire dell'abbreviazione di un anno.  
+Art. 479. - Le materie di insegnamento sono:  
+1° Anno:  
+1) Neuroanatomia;  
+2) Neurofisiologia;  
+3) Semeiotica e clinica neurologica;  
+4) Elementi di psichiatria;  
+5) Clinica neurochirurgica (I).  
+Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2), 3) e 4).  
+2° Anno:  
+1) Neuro-oftalmologia;  
+2) Neuro-otoiatria;  
+3) Elettroencefalografia ed elettromiografia;  
+4) Clinica neurochirurgica (II).  
+Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2) e 3).  
+3° Anno:  
+1) Anestesiologia;  
+2) Neuropatologia;  
+3) Neuroradiologia (I);  
+4) Clinica neurochirurgica (III).  
+Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1) e 2).  
+4° Anno:  
+1) Tecniche operatorie;  
+2) Neuroradiologia (II);  
+3) Clinica neurochirurgica (IV);  
+4) Neurotraumatologia;  
+5) Neurochirurgia infantile;  
+6) Chirurgia stereotassica;  
+7) Neurochirurgia spinale.  
+Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2) e 3).  
+Gli insegnamenti saranno integrati da esercitazioni cliniche e di laboratorio.  
+  
+Art. 480. - La frequenza alla scuola e' obbligatoria durante l'anno accademico. Gli allievi sono tenuti a frequentare assiduamente le lezioni ed i laboratori della clinica neurochirurgica secondo l'orario stabilito ed a partecipare attivamente alle esercitazioni cliniche e di laboratorio.  
+Per conseguire il diploma di specialista in neurochirurgia, gli iscritti, al termine dei corsi, oltre ad avere superato le prove di esame nelle singole materie, dovranno presentare una dissertazione scritta, elaborata nell'istituto, su un argomento di neurochirurgia e dovranno sostenere un esame pratico dinanzi ad una commissione formata dagli insegnanti della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Selva di Valgardena, addi' 2 settembre 1983
+### Dato a Roma, addi' 30 ottobre 1974
 
-PERTINI FALCUCCI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 25 ottobre 1983
+Registrato alla Corte dei conti, addi' 16 gennaio 1975
 
-Registro n. 67 Istruzione, foglio n. 52
+Atti di Governo, registro n. 7, foglio n. 112

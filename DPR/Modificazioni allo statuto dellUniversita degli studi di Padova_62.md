@@ -1,11 +1,111 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 gennaio 1971 n. 294
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1969 n. 1252
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 gennaio 1971 n. 294
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1969 n. 1252
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 75. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:
+
+Letteratura ispano-americana;
+
+Antropologia culturale;
+
+Storia delle dottrine sociali;
+
+Storia delle dottrine politiche;
+
+Filologia medioevale e umanistica;
+
+Epigrafia e istituzioni romane.
+
+Art. 76. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:
+
+Antropologia culturale;
+
+Storia delle dottrine sociali;
+
+Storia delle dottrine politiche;
+
+Pedagogia comparata;
+
+Filologia medioevale e umanistica.
+
+Art. 82, relativo alle modalita' dell'esame di laurea dei corsi di laurea della facolta' di magistero, e' modificato nel senso che all'ultimo capoverso viene aggiunto il seguente ultimo comma:
+
+"Per le dissertazioni di laurea vertenti su argomenti di letterature straniere, il candidato deve dare prova di adeguata conoscenza della relativa lingua".
+
+Art. 87. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di "Ortognatodonzia".
+
+Art. 89, relativo alle esercitazioni nel corso di laurea in medicina e chirurgia e' modificato nel senso che vengono soppressi i seguenti capoversi:
+
+"Corso di fisiologia umana con esercizi di chimica biologica".
+
+"Corso di patologia generale con esercizi di microbiologia".
+
+Art. 108. - E' modificato nel senso che il primo capoverso e' abrogato e sostituito dal seguente:
+
+"Dopo il primo biennio lo studente dovra' frequentare per due anni, come interno, uno degli istituti di scienze naturali dell'universita', o dietro approvazione del preside della facolta', altro istituto dell'universita' nel quale attendera' alla elaborazione della tesi di laurea. Durante tale biennio lo studente e' tenuto a seguire l'attivita' didattica che si svolge nell'istituto. L'internato puo' essere eventualmente svolto presso due istituti diversi, in due anni successivi (uno per ciascun istituto) nel caso che le necessita' relative allo svolgimento della tesi di laurea lo richiedano".
+
+Art. 111. - E' modificato nel senso che dopo il primo capoverso e' aggiunto il seguente:
+
+"L'internato puo' essere eventualmente svolto presso due istituti diversi, in due anni successivi (uno per ciascun istituto) nel caso che le necessita' relative allo svolgimento della tesi di laurea lo richiedano".
+
+Art. 112. - All'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche e' aggiunto quello di "Paleontologia dei vertebrati".
+
+Art. 114. - E' modificato nel senso che il primo capoverso e' abrogato e sostituito dal seguente:
+
+"Dopo il primo biennio lo studente dovra' frequentare per due anni come interno uno degli istituti di mineralogia, geologia, geografia fisica e fisica terrestre, o, dietro approvazione del preside della facolta', altro istituto dell'universita', nel quale attendera' alla elaborazione della tesi di laurea. Durante tale biennio lo studente e' tenuto a seguire l'attivita' didattica che si svolge nell'istituto".
+
+Nello stesso articolo sono soppresse le seguenti parole contenute tra parentesi al secondo capoverso:
+
+"(un anno in geologia ed uno in geografia fisica e fisica terrestre; un anno in mineralogia ed uno in geologia;
+
+un anno in mineralogia ed uno in fisica terrestre)".
+
+Art. 119, relativo agli istituti della facolta' di scienze matematiche, fisiche e naturali e' modificato nel senso che i due seguenti istituti: "Istituto e museo di mineralogia e di giacimenti minerari" e "Istituto e museo di petrografia e di geochimica" vengono riuniti in un unico istituto, che assume la seguente denominazione: "Istituto e museo di mineralogia e petrografia".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 13 ottobre 1969
+
+SARAGAT
+
+FERRARI AGGRADI
+
+Visto, il Guardasigilli: GAVA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 8 aprile 1970 Atti del Governo, registro n. 234, foglio n. 99. - CARUSO
 
 Art. 1
 ------
@@ -13,9 +113,10 @@ Art. 1
  IL PRESIDENTE DELLA REPUBBLICA  
   
 Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -25,70 +126,47 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 381. L'ordinamento della scuola di specializzazione in ortopedia e traumatologia e' abrogato e sostituito dal seguente:  
-  
-Scuola di specializzazione in ortopedia e traumatologia  
-  
-La scuola di specializzazione in ortopedia e traumatologia ha sede presso l'istituto di clinica ortopedica e conferisce il diploma di specializzazione in ortopedia e traumatologia.  
-Il corso ha la durata di 3 anni.  
-Potranno essere ammessi alla scuola i laureati in medicina e chirurgia; il numero massimo degli iscritti: settanta per i tre anni di corso.  
-La frequenza e' obbligatoria nell'istituto sede della scuola per un periodo di almeno 9 mesi per ogni anno accademico. E' in facolta' del direttore della scuola di concedere una deroga a tale norma solo agli iscritti alla scuola che facciano parte di cliniche ortopediche che non abbiano la scuola di specializzazione o che siano assistenti di ruolo in divisioni di ortopedia e traumatologia di ospedali di prima categoria. Per queste due categorie di iscritti il periodo di frequenza presso l'istituto sede della scuola puo' essere ridotto fino a non meno di un mese ogni anno.  
-Per nessun motivo sono ammesse abbreviazioni della durata degli studi.  
-Gli insegnamenti si svolgeranno con indirizzo prevalentemente pratico, dimostrativo, ma per ogni singola materia di insegnamento dovra' anche svolgersi un corso regolare di lezioni, il cui numero verra' fissato annualmente dal direttore della scuola in accordo con i docenti delle singole materie.  
-Le materie di insegnamento sono le seguenti:  
-1) Clinica ortopedica e traumatologica (triennale);  
-2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);  
-3) Tecnica operatoria ortopedica e traumatologica cruenta ed incruenta (triennale);  
-4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);  
-5) Anatomia ed istologia dell'apparato locomotore;  
-6) Fisiologia dell'apparato locomotore;  
-7) Anatomia ed istologia patologica dell'apparato locomotore;  
-8) Nozioni di chirurgia generale;  
-9) Neuropatologia dell'apparato locomotore ed elettrodiagnostica;  
-10) Nozioni di pediatria;  
-11) Apparato e terapia ortopedica;  
-12) Fisiochinesiterapia;  
-13) Infortunistica;  
-14) Anestesia e rianimazione in ortopedia e traumatologia.  
-Le materie di insegnamento sono cosi' suddivise:  
-1° Anno:  
-1) Clinica ortopedica e traumatologica (triennale);  
-2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);  
-3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);  
-4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);  
-5) Anatomia ed istologia dell'apparato locomotore;  
-6) Fisiologia dell'apparato locomotore;  
-7) Nozioni di chirurgia generale;  
-8) Nozioni di pediatria.  
-2° Anno:  
-1) Clinica ortopedica e traumatologica (triennale);  
-2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);  
-3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);  
-4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);  
-5) Neuropatologia dell'apparato locomotore ed elettrodiagnostica;  
-6) Anatomia ed istologia patologica dell'apparato locomotore;  
-7) Anestesia e rianimazione in ortopedia e traumatologia.  
-3° Anno:  
-1) Clinica ortopedica e traumatologica (triennale);  
-2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);  
-3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);  
-4) Apparato e terapia ortopedica;  
-5) Fisiochinesiterapia;  
-6) Infortunistica.  
-Gli esami si svolgeranno per singole materie. Gli esami di clinica ortopedica e traumatologica, di tecnica operatoria cruenta ed incruenta ortopedica e traumatologica, di radiodiagnostica, saranno teorici e pratici.  
-Per l'ammissione al corso successivo e' obbligatorio il superamento degli esami delle materie di ciascun corso.  
-Per l'ammissione all'esame di diploma il candidato dovra' presentare una tesi a stampa o dattiloscritta su un argomento della specialita'.  
+Art. 75. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:  
+Letteratura ispano-americana;  
+Antropologia culturale;  
+Storia delle dottrine sociali;  
+Storia delle dottrine politiche;  
+Filologia medioevale e umanistica;  
+Epigrafia e istituzioni romane.  
+Art. 76. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:  
+Antropologia culturale;  
+Storia delle dottrine sociali;  
+Storia delle dottrine politiche;  
+Pedagogia comparata;  
+Filologia medioevale e umanistica.  
+Art. 82, relativo alle modalita' dell'esame di laurea dei corsi di laurea della facolta' di magistero, e' modificato nel senso che all'ultimo capoverso viene aggiunto il seguente ultimo comma:  
+"Per le dissertazioni di laurea vertenti su argomenti di letterature straniere, il candidato deve dare prova di adeguata conoscenza della relativa lingua".  
+Art. 87. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di "Ortognatodonzia".  
+Art. 89, relativo alle esercitazioni nel corso di laurea in medicina e chirurgia e' modificato nel senso che vengono soppressi i seguenti capoversi:  
+"Corso di fisiologia umana con esercizi di chimica biologica".  
+"Corso di patologia generale con esercizi di microbiologia".  
+Art. 108. - E' modificato nel senso che il primo capoverso e' abrogato e sostituito dal seguente:  
+"Dopo il primo biennio lo studente dovra' frequentare per due anni, come interno, uno degli istituti di scienze naturali dell'universita', o dietro approvazione del preside della facolta', altro istituto dell'universita' nel quale attendera' alla elaborazione della tesi di laurea. Durante tale biennio lo studente e' tenuto a seguire l'attivita' didattica che si svolge nell'istituto. L'internato puo' essere eventualmente svolto presso due istituti diversi, in due anni successivi (uno per ciascun istituto) nel caso che le necessita' relative allo svolgimento della tesi di laurea lo richiedano".  
+Art. 111. - E' modificato nel senso che dopo il primo capoverso e' aggiunto il seguente:  
+"L'internato puo' essere eventualmente svolto presso due istituti diversi, in due anni successivi (uno per ciascun istituto) nel caso che le necessita' relative allo svolgimento della tesi di laurea lo richiedano".  
+Art. 112. - All'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche e' aggiunto quello di "Paleontologia dei vertebrati".  
+Art. 114. - E' modificato nel senso che il primo capoverso e' abrogato e sostituito dal seguente:  
+"Dopo il primo biennio lo studente dovra' frequentare per due anni come interno uno degli istituti di mineralogia, geologia, geografia fisica e fisica terrestre, o, dietro approvazione del preside della facolta', altro istituto dell'universita', nel quale attendera' alla elaborazione della tesi di laurea. Durante tale biennio lo studente e' tenuto a seguire l'attivita' didattica che si svolge nell'istituto".  
+Nello stesso articolo sono soppresse le seguenti parole contenute tra parentesi al secondo capoverso:  
+"(un anno in geologia ed uno in geografia fisica e fisica terrestre; un anno in mineralogia ed uno in geologia;  
+un anno in mineralogia ed uno in fisica terrestre)".  
+Art. 119, relativo agli istituti della facolta' di scienze matematiche, fisiche e naturali e' modificato nel senso che i due seguenti istituti: "Istituto e museo di mineralogia e di giacimenti minerari" e "Istituto e museo di petrografia e di geochimica" vengono riuniti in un unico istituto, che assume la seguente denominazione: "Istituto e museo di mineralogia e petrografia".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 gennaio 1971
+### Dato a Roma, addi' 13 ottobre 1969
 
-SARAGAT MISASI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 26 maggio 1971
+Registrato alla Corte dei conti, addi' 8 aprile 1970
 
-Atti del Governo, registro n. 242, foglio n. 35. - VALENTINI
+Atti del Governo, registro n. 234, foglio n. 99. - CARUSO

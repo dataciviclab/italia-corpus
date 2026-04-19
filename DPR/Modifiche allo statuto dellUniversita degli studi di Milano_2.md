@@ -1,338 +1,155 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1961 n. 1227
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 settembre 1961 n. 1161
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1961 n. 1227
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 settembre 1961 n. 1161
+=================================================================
 
 Modifiche allo statuto dell'Universita' degli studi di Milano.
 --------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056) e successivi;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 19. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere moderne (ind. europeo) e' aggiunto quello di:
-
-Letteratura anglo-americana.
-
-Art. 26. - Agli insegnamenti complementari del corso di laurea in Chimica - industriale sono aggiunti quelli di:
-
-Chimica farmaceutica;
-
-Chimica e tecnologia degli alimenti;
-
-Radiochimica;
-
-Chimica, degli idrocarburi naturali e derivati;
-
-Chimica quantistica;
-
-Chimica teorica;
-
-Spettroscopia;
-
-Misure elettriche;
-
-Metallografia.
-
-Art. 36. Agli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti quelli di:
-
-Geochimica;
-
-Analisi mineralogica;
-
-Ecologia, vegetale e fitogeografia;
-
-Embriologia e morfologia sperimentale.
-
-Art. 37. - Il quarto comma e' abrogato e sostituito dal seguente:
-
-"Non possono sostenere l'esame di fisiologia generale gli studenti che non hanno superato l'esame di Chimica organica".
-
-Art. 39. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti quelli di:
-
-Ecologia vegetale e fitogeografia;
-
-Embriologia e morfologia sperimentale;
-
-Citogenetica;
-
-Fisiologia applicata;
-
-Biochimica, applicata;
-
-Istituzioni di patologia generale;
-
-Statistica.
-
-Art. 40. - L'ultimo comma e' abrogato e sostituito dal seguente:
-
-"Non possono sostenere gli esami di Chimica biologica e di fisiologia generale gli studenti che non hanno superato l'esame di Chimica organica".
-
-Art. 42. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti quelli di:
-
-Idrogeologia;
-
-Fotogeologia (interpretazione aerofotogeologica);
-
-Paleontologia dei vertebrati;
-
-Mineralogia sistematica;
-
-Petrografia applicata;
-
-Geologia regionale;
-
-Mineralogia applicata;
-
-Analisi mineralogica;
-
-Stratigrafia;
-
-Storia della geologia.
-
-Dopo l'art. 137, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione delle Scuole di specializzazione in Anatomia ed istologia patologica e tecniche di laboratorio ed in Neurochirurgia, con il conseguente spostamento della numerazione degli articoli successivi.
-
-Scuola di specializzazione in anatomia ed istologia patologica e tecniche di laboratorio
-
-Art. 138. - Il numero degli iscritti alla Scuola e' fissata ad un massimo di sei per ogni anno di corso.
-
-Art. 139. - La Scuola ha la durata di tre anni.
-
-Le materie d'insegnamento sono:
-
-1° Anno:
-
-Tecnica delle autopsie;
-
-Anatomia patologica microscopica (I);
-
-Ematologia fisiologica e patologica (I);
-
-Batteriologia e sierologia (I);
-
-Esercitazioni di chimica.
-
-2° Anno:
-
-Anatomia patologica macroscopica (I);
-
-Anatomia patologica microscopica (II);
-
-Ematologia fisiologica e patologica (II);
-
-Batteriologia e sierologia ed esercitazioni (II);
-
-Biochimica ed esercitazioni (I).
-
-3° Anno:
-
-Anatomia patologica macroscopica (II);
-
-Anatomia patologica microscopica (III);
-
-Biochimica ed esercitazioni (II);
-
-Medicina legale;
-
-Igiene e bromatologia.
-
-Art. 140. - Gli allievi frequenteranno in qualita' di interni l'Istituto di anatomia e istologia patologica, svolgendo turni presso gli istituti delle altre discipline secondo quanto sara' stabilito dalla Direzione della scuola.
-
-Gli esami consisteranno in prove teoriche e pratiche.
-
-Al termine di ciascun anno gli allievi che abbiano regolarmente frequentato il corso dovranno superare un esame di profitto.
-
-Scuola di specializzazione in neurochirurgia
-
-Art. 141. - Alla facolta' di Medicina e chirurgia dell'Universita' degli studi di Milano e' annessa la scuola di specialita' in Neurochirurgia.
-
-La scuola di specializzazione conferisce il diploma di specialita' in Neurochirurgia a norma dell'art. 178 del testo unico delle leggi sulla istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592).
-
-Art. 142. - Il direttore della scuola di specializzazione in Neurochirurgia e' di diritto il professore di ruolo che copre la cattedra di clinica neurochirurgica.
-
-Nel caso in cui la cattedra non sia coperta da un professore di ruolo, il direttore della scuola e' scelto dalla Facolta'.
-
-Il Consiglio della scuola di cui sopra si compone dei professori che tengono gli insegnamenti ed e' presieduto dal direttore. Gli insegnanti della scuola sono nominati dal rettore, su proposta del Consiglio di facolta', udito il direttore della scuola.
-
-Art. 143. - Alla scuola di specializzazione possono iscriversi i laureati in medicina e chirurgia. Il numero degli iscritti alla scuola e' fissato ad un massimo di sei per ogni anno di corso.
-
-Art. 144. - La durata del corso della scuola di specializzazione in neurochirurgia e' di 4 anni.
-
-Art. 145. - La ripartizione degli insegnamenti fra i vari anni di corso e' la seguente:
-
-primo corso: anatomia chirurgica del sistema nervoso centrale e periferico fisiologia del sistema nervoso - semeiotica neurologica - clinica neurologica - clinica psichiatrica;
-
-secondo corso: semeiotica neuroradiologica - tecnica operatoria neurochirurgica - tecnica della ricerca sperimentale in neurofisiologia e neurofarmacologia;
-
-terzo corso: anatomia ed istologia patologica del sistema nervoso - elettroencefalografia in neurochirurgia - anestesia in neurochirurgia;
-
-quarto corso: semeiotica, diagnostica e clinica neurochirurgica.
-
-Durante i quattro anni del corso sono obbligatori i seguenti internati:
-
-primo corso: presso la Clinica neurochirurgica e per sei mesi presso un reparto di neuropsichiatria;
-
-secondo corso: presso la Clinica neurochirurgica e per sei mesi presso un reparto o istituto in cui si pratichi la ricerca sperimentale;
-
-terzo corso: presso la Clinica neurochirurgica e per sei mesi presso un reparto di neuropatologia;
-
-quarto corso: presso la Clinica neurochirurgica.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 17 ottobre 1961
-
-GRONCHI
-
-BOSCO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 30 novembre 1961 Atti del Governo, registro n. 142, foglio n. 59. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con regio decreto 4 novembre 126, n. 2280, modificato con [regio decreto 26 ottobre 1940, n. 2096](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2096), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il regio decreto-legge 20 giugno 1935,1 n. 1071, convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Veduto il [decreto del Presidente della Repubblica 26 luglio 1960, n. 1692](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-07-26;1692);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sentito il parere del Consiglio superiore della pubblica istruzione Sulla proposta del Ministro per la pubblica istruzione:  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso L'art. 25 e' abrogato e sostituito dal seguente:  
+"La Facolta' di scienze matematiche, fisiche e naturali conferisce le lauree:  
+Chimica industriale;  
+Fisica;  
+Matematica  
+Scienze naturali;  
+Scienze biologiche;  
+Scienze geologiche".  
+Gli articoli 32 e 33 relativi al corso di laurea in Scienze matematiche sono abrogati e sostituiti dai seguenti:  
   
-Art. 19. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere moderne (ind. europeo) e' aggiunto quello di:  
-Letteratura anglo-americana.  
-Art. 26. - Agli insegnamenti complementari del corso di laurea in Chimica - industriale sono aggiunti quelli di:  
-Chimica farmaceutica;  
-Chimica e tecnologia degli alimenti;  
-Radiochimica;  
-Chimica, degli idrocarburi naturali e derivati;  
-Chimica quantistica;  
-Chimica teorica;  
-Spettroscopia;  
-Misure elettriche;  
-Metallografia.  
-Art. 36. Agli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti quelli di:  
-Geochimica;  
-Analisi mineralogica;  
-Ecologia, vegetale e fitogeografia;  
-Embriologia e morfologia sperimentale.  
-Art. 37. - Il quarto comma e' abrogato e sostituito dal seguente:  
-"Non possono sostenere l'esame di fisiologia generale gli studenti che non hanno superato l'esame di Chimica organica".  
-Art. 39. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti quelli di:  
-Ecologia vegetale e fitogeografia;  
-Embriologia e morfologia sperimentale;  
-Citogenetica;  
-Fisiologia applicata;  
-Biochimica, applicata;  
-Istituzioni di patologia generale;  
-Statistica.  
-Art. 40. - L'ultimo comma e' abrogato e sostituito dal seguente:  
-"Non possono sostenere gli esami di Chimica biologica e di fisiologia generale gli studenti che non hanno superato l'esame di Chimica organica".  
-Art. 42. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti quelli di:  
-Idrogeologia;  
-Fotogeologia (interpretazione aerofotogeologica);  
-Paleontologia dei vertebrati;  
-Mineralogia sistematica;  
-Petrografia applicata;  
-Geologia regionale;  
-Mineralogia applicata;  
-Analisi mineralogica;  
-Stratigrafia;  
-Storia della geologia.  
-Dopo l'art. 137, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione delle Scuole di specializzazione in Anatomia ed istologia patologica e tecniche di laboratorio ed in Neurochirurgia, con il conseguente spostamento della numerazione degli articoli successivi.  
+LAUREA IN MATEMATICA  
   
-Scuola di specializzazione in anatomia ed istologia patologica e tecniche di laboratorio  
+Art. 32. - La durata del corso degli studi per la laurea in matematica e' di quattro anni.  
+E' titolo di ammissione il diploma di maturita' classica e di maturita' scientifica. - Il corso degli studi si distingue in tre indirizzi: generale, didattico ed applicativo.  
   
-Art. 138. - Il numero degli iscritti alla Scuola e' fissata ad un massimo di sei per ogni anno di corso.  
-Art. 139. - La Scuola ha la durata di tre anni.  
-Le materie d'insegnamento sono:  
-1° Anno:  
-Tecnica delle autopsie;  
-Anatomia patologica microscopica (I);  
-Ematologia fisiologica e patologica (I);  
-Batteriologia e sierologia (I);  
-Esercitazioni di chimica.  
-2° Anno:  
-Anatomia patologica macroscopica (I);  
-Anatomia patologica microscopica (II);  
-Ematologia fisiologica e patologica (II);  
-Batteriologia e sierologia ed esercitazioni (II);  
-Biochimica ed esercitazioni (I).  
-3° Anno:  
-Anatomia patologica macroscopica (II);  
-Anatomia patologica microscopica (III);  
-Biochimica ed esercitazioni (II);  
-Medicina legale;  
-Igiene e bromatologia.  
-Art. 140. - Gli allievi frequenteranno in qualita' di interni l'Istituto di anatomia e istologia patologica, svolgendo turni presso gli istituti delle altre discipline secondo quanto sara' stabilito dalla Direzione della scuola.  
-Gli esami consisteranno in prove teoriche e pratiche.  
-Al termine di ciascun anno gli allievi che abbiano regolarmente frequentato il corso dovranno superare un esame di profitto.  
+I Biennio  
   
-Scuola di specializzazione in neurochirurgia  
+Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi:  
+I anno  
+1) Analisi matematica I (con esercitazioni)  
+2) Geometria I (con esercitazioni)  
+3) Algebra (con esercitazioni)  
+4) Fisica generale I (con esercitazioni).  
   
-Art. 141. - Alla facolta' di Medicina e chirurgia dell'Universita' degli studi di Milano e' annessa la scuola di specialita' in Neurochirurgia.  
-La scuola di specializzazione conferisce il diploma di specialita' in Neurochirurgia a norma dell'art. 178 del testo unico delle leggi sulla istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592).  
-Art. 142. - Il direttore della scuola di specializzazione in Neurochirurgia e' di diritto il professore di ruolo che copre la cattedra di clinica neurochirurgica.  
-Nel caso in cui la cattedra non sia coperta da un professore di ruolo, il direttore della scuola e' scelto dalla Facolta'.  
-Il Consiglio della scuola di cui sopra si compone dei professori che tengono gli insegnamenti ed e' presieduto dal direttore. Gli insegnanti della scuola sono nominati dal rettore, su proposta del Consiglio di facolta', udito il direttore della scuola.  
-Art. 143. - Alla scuola di specializzazione possono iscriversi i laureati in medicina e chirurgia. Il numero degli iscritti alla scuola e' fissato ad un massimo di sei per ogni anno di corso.  
-Art. 144. - La durata del corso della scuola di specializzazione in neurochirurgia e' di 4 anni.  
-Art. 145. - La ripartizione degli insegnamenti fra i vari anni di corso e' la seguente:  
-primo corso: anatomia chirurgica del sistema nervoso centrale e periferico fisiologia del sistema nervoso - semeiotica neurologica - clinica neurologica - clinica psichiatrica;  
-secondo corso: semeiotica neuroradiologica - tecnica operatoria neurochirurgica - tecnica della ricerca sperimentale in neurofisiologia e neurofarmacologia;  
-terzo corso: anatomia ed istologia patologica del sistema nervoso - elettroencefalografia in neurochirurgia - anestesia in neurochirurgia;  
-quarto corso: semeiotica, diagnostica e clinica neurochirurgica.  
-Durante i quattro anni del corso sono obbligatori i seguenti internati:  
-primo corso: presso la Clinica neurochirurgica e per sei mesi presso un reparto di neuropsichiatria;  
-secondo corso: presso la Clinica neurochirurgica e per sei mesi presso un reparto o istituto in cui si pratichi la ricerca sperimentale;  
-terzo corso: presso la Clinica neurochirurgica e per sei mesi presso un reparto di neuropatologia;  
-quarto corso: presso la Clinica neurochirurgica.  
+II anno  
+5) Analisi matematica II (con esercitazioni);  
+6) Geometria II (con esercitazioni);  
+7) Meccanica razionale (con esercitazioni);  
+8) Fisica generale III (con esercitazioni).  
   
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Dato a Roma, addi' 17 ottobre 1961
-
-GRONCHI BOSCO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 30 novembre 1961
-
-Atti del Governo, registro n. 142, foglio n. 59. - VILLA
+III e IV anno:  
+Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi, per il terzo anno:  
+9) Istituzioni di analisi superiore (con esercitazioni);  
+10) Istituzioni di geometria superiore (con esercitazioni);  
+11) Istituzioni di fisica matematica (con esercitazioni).  
+Nel secondo biennio, dovranno inoltre essere seguiti i seguenti corsi:  
+a) per l'indirizzo generale:  
+12) Analisi superiore;  
+13) Geometria superiore;  
+14-15) Due insegnamenti complementari.  
+b) per l'indirizzo didattico:  
+12) Matematiche complementari;  
+13) Matematiche elementari dal punto di vista superiore;  
+14-15) Due insegnamenti complementari;  
+c) per l'indirizzo applicativo:  
+12) calcoli numerici e grafici;  
+13) Teoria ed applicazione delle macchine calcolatrici;  
+14-15) Due insegnamenti complementari.  
+I corsi complementari di cui ai numeri 14 e 15 dovranno essere scelti, fra quelli effettivamente impartiti, uno dalla tabella A, l'altro dalla tabella B che seguono, relative all'indirizzo scelto.  
+Delle quattro discipline di cui a, numeri 12), 13), 14) e 15) una dovra' essere seguita nel terzo anno e le altro nel quarto.  
+  
+Tabelle degli insegnamenti  
+complementari relativi ai singoli indirizzi.  
+Indirizzo generale  
+  
+Tabella A Tabella B  
+  
+1) Algebra superiore; 1) Astronomia;  
+2) Analisi funzionale; 2) Complementi di fisica 3) Calcolo delle proba- generale;  
+bilita'; 3) Fisica matematica  
+4) Economia matematica 4) Istituzioni di fisica nucleare;  
+5) Geometria algebrica; 5) Geodesia;  
+6) Geometria differen- 6) Istituzioni di fisica ziale; teorica;  
+7) Logica matematica 7) Meccanica superiore;  
+8) Matematiche comple- 8) Relativita'.  
+mentari; 9) Struttura della mate- 9) Matematiche superio- ria;  
+ri; 10) Cibernetica e teoria 10) Statistica matemati- della informazione.  
+ca;  
+11) Storia delle matema-  
+tiche;  
+12) Teoria delle funzio-  
+ni;  
+13) Teoria dei numeri;  
+14) Topologia.  
+  
+Indirizzo didattico  
+  
+Tabella A Tabella B  
+  
+1) Algebra superiore; 1) Astronomia;  
+2) Analisi superiore; 2) Complementi di fisica 3) Calcoli numerici e generale;  
+grafici; 3) Fisica matematica  
+4) Calcolo delle proba- 4) Istituzioni di fisica bilita'; nucleare;  
+5) Geometria Algebrica; 5) Geodesia  
+6) Geometria differen- 6) Istituzioni di fisica ziale; teorica;  
+7) Logica matematica; 7) Meccanica superiore  
+8) Matematica finanzia- 8) Relativita';  
+ria ed attuariale; 9) Struttura della mate- 9) Matematiche superio- ria;  
+ri; 10) Cibernetica e teoria 10) Teoria delle funzio- della informazione.  
+ni;  
+11) Teoria dei numeri.  
+Indirizzo applicativo  
+  
+Tabella A Tabella B  
+  
+1) Analisi funzionale; 1) Astronomia;  
+2) Analisi superiore; 2) Complementi di fisica 3) Economia matematica generale;  
+4) Logica matematica; 3) Fisica matematica;  
+5) Matematica finanzia- 4) Istituzioni di fisica ria ed attuariale; nucleare;  
+6) Matematiche comple- 5) Geodesia;  
+mentari; 6) Istituzioni di fisica 7) Matematiche superio- teorica;  
+ri; 7) Meccanica superiore;  
+8) Statistica matemati- 8) Relativita';  
+ca; 9) Struttura della mate- 9) Storia delle matema- ria;  
+tiche della informa- 10) Cibernetica e teoria zione.  
+10) Teoria delle funzioni;  
+11) Teoria dei numeri.  
+  
+Per ciascuno degli insegnamenti sia fondamentali che complementari vi e' un esame finale.  
+I corsi di Analisi I e II, Geometria I e II, Fisica generale I e II, constano ciascuno di 2 parti annuali distinte, la prima propedeutica alla seconda e comportano ciascuno due distinti esami, il primo propedeutico al secondo.  
+Potranno essere iscritti al secondo anno soltanto quegli studenti che abbiano superato almeno 2 degli esami di Analisi matematica I, Geometria I, Algebra.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti prescritti dall'ordinamento per l'indirizzo prescelto.  
+  
+Art. 33. - L'esame di laurea comprende:  
+a) la discussione di un lavoro scritto, che per la laurea con indirizzo generale dovra' essere una ricerca originale, e per la laurea negli altri indirizzi potra' anche essere un lavoro di compilazione;  
+14) la discussione di una tesina orale scelta dalla Commissione d'esame tra due presentate dal candidato.  
+L'esame di laurea e' preceduto da un esame di cultura generale sulle scienze matematiche, che potra' comprendere anche una prova scritta.  
+Gli articoli 34 e 35 relativi al corso di laurea in Matematica e fisica sono soppressi.  
+  
+Il presente decreto, munito dei sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.  
+  
+Dato a Roma, addi' 13 settembre 1961  
+  
+GRONCHI  
+  
+BOSCO   
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 8 novembre 1961  
+Atti del Governo, registro n. 141, foglio n. 81. - VILLA  

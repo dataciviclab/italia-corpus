@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1955 n. 445
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1950 n. 1259
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1955 n. 445
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1950 n. 1259
+===============================================================
 
 Autorizzazione all'Universita' degli studi di Napoli ad accettare una donazione.
 --------------------------------------------------------------------------------
@@ -12,8 +12,7 @@ Art. 1
 
 N.
 
-445. Decreto del Presidente della Repubblica 14 marzo 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Napoli viene autorizzata ad accettare la donazione di lire 300.000 (trecentomila), disposta in suo favore dal prof. Ernesto Pontieri ad incremento del capitale del "Premio Maria Pontieri".  
+1259. Decreto del Presidente della Repubblica 25 ottobre 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Napoli viene autorizzata ad accettare la donazione di una collezione di rocce, minerali e fossili, disposta in suo favore dalla sig.ra Adele Tenore ved. Villa, con atto pubblico amministrativo in data 30 marzo 1948, perche' venga collocata in apposite vetrine in una sala del Museo di geologia, da intitolarsi al nome del "Professore Gaetano Tenore".  
   
-Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 23 maggio 1955  
-Atti del Governo, registro n. 90, foglio n. 220. - GRECO
+Visto, il Guardasigilli: PICCIONI  
+Registrato alla Corte dei conti, addi' 20 marzo 1951

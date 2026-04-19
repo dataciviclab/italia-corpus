@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1980 n. 1031
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1066
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1980 n. 1031
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1066
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi della Calabria.
 -----------------------------------------------------------------------
@@ -10,9 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi della Calabria.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduta la [legge 12 marzo 1968, n. 442](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-12;442), concernente l'istituzione di una Universita' statale in Calabria;
-
-Veduto lo statuto dell'Universita' della Calabria, approvato con [decreto del Presidente della Repubblica 1° dicembre 1971, n. 1329](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-12-01;1329) e modificato con [decreto del Presidente della Repubblica 31 ottobre 1975, n. 927](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1975-10-31;927);
+Veduto lo statuto dell'Universita' della Calabria approvato con [decreto del Presidente della Repubblica 1 dicembre 1971, n. 1329](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-12-01;1329), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -22,132 +20,43 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' della Calabria e convalidati dal Consiglio universitario nazionale nel suo parere;
+Veduta la [legge 30 ottobre 1981 n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Sentito il parere del Consiglio universitario nazionale;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
-Considerato che ai sensi dell'art. 1 della citata legge n. 442, l'Universita' della Calabria e' costituita da facolta' e da dipartimenti e che pertanto le relative norme cosi' come proposte agli articoli 47, 48, 49, 50 e 51 dagli organi accademici risultano esattamente formulate;
+Veduto il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 --------
 
-Lo statuto dell'Universita' degli studi della Calabria, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' della Calabria, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 1
-------
-
-  
-  
-All'art. 22, dopo la laurea in scienze naturali, sono aggiunte:   
-la laurea in scienze geologiche;   
-la laurea in scienze biologiche.   
-Conseguentemente il titolo II e' cosi' riformulato:   
-CORSI DI LAUREA IN MATEMATICA, FISICA, CHIMICA, SCIENZE   
-GEOLOGICHE, SCIENZE BIOLOGICHE E SCIENZE NATURALI   
-
-Art. 2
-------
+Articolo unico
+--------------
 
   
-Dopo l'art. 28, con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione dei corsi di laurea in scienze geologiche e in scienze biologiche:  
-Art. 29. - Gli insegnamenti per conseguire la laurea in scienze geologiche sono impartiti, nei limiti delle norme vigenti che regolano l'ordinamento didattico del corso di laurea, nei dipartimenti di matematica, di fisica, di chimica, di ecologia, di scienze della terra, di pianificazione territoriale, di difesa del suolo.  
-Lo studente che intende conseguire la laurea in scienze geologiche deve appartenere ad uno dei seguenti dipartimenti:  
-dipartimento di scienze della terra;  
-dipartimento di fisica;  
-dipartimento di chimica;  
-dipartimento di ecologia;  
-dipartimento di difesa del suolo;  
-dipartimento di pianificazione territoriale.  
-L'esame di laurea consta:  
-a) della monografia illustrativa della geologia di un'area adeguatamente estesa, corredata dallo studio stratigrafico e petrografico delle formazioni geologiche affioranti nell'area da svolgere nel dipartimento di scienze della terra;  
-b) della discussione di una dissertazione scritta, sperimentale o avente comunque carattere di elaborazione autonoma, su un tema di ricerca in base o applicata.  
-Superato l'esame di laurea lo studente consegue il titolo di dottore in scienze geologiche.  
-Art. 30. - Gli insegnamenti per conseguire la laurea in scienze biologiche sono impartiti, nei limiti delle norme vigenti che regolano l'ordinamento didattico del corso di laurea, nei dipartimenti di matematica, di fisica, di chimica, di ecologia, di biologia cellulare, di scienze della terra, di scienze dell'educazione, di pianificazione territoriale.  
-Lo studente che intende conseguire la laurea in scienze biologiche deve appartenere a uno dei seguenti dipartimenti:  
-dipartimento di chimica;  
-dipartimento di biologia cellulare;  
-dipartimento di ecologia;  
-dipartimento di fisica.  
-L'esame di laurea consta della discussione di una dissertazione scritta, sperimentale o avente comunque carattere di elaborazione autonoma.  
-Puo' essere richiesto lo svolgimento di una prova pratica per accertare la preparazione professionale dello studente.  
-Superato l'esame di laurea, lo studente consegue il titolo di dottore in scienze biologiche.  
-
-Art. 3
-------
-
-  
-  
-Nell'art. 47 (ex 45), relativo al dipartimento di fisica, sono aggiunti i seguenti insegnamenti:   
-fisica sperimentale (biennale);   
-oceanografia sperimentale;   
-biofisica;   
-ecofisica.   
-Nell'art. 48 (ex 46), relativo al dipartimento di chimica, sono aggiunti i seguenti insegnamenti:   
-chimica organica superiore;   
-chimica degli eterocicli;   
-stereochimica;   
-chimica organica applicata;   
-chimica generale ed inorganica con elementi di organica;   
-chimica delle macromolecole;   
-fotochimica;   
-biopolimeri;   
-chimica degli idrocarburi naturali e derivati;   
-chimica fisica organica;   
-metodi in chimica organica;   
-biochimica (corso speciale per chimici);   
-spettrometria di massa;   
-chimica biorganica;   
-chimica analitica biologica;   
-chimica delle proteine;   
-biochimica applicata (corso speciale per chimici).   
-Nell'art. 49 (ex 47), relativo al dipartimento di biologia cellulare, sono aggiunti i seguenti insegnamenti:   
-immunogenetica zootecnica;   
-immunologia;   
-biochimica applicata;   
-fisiologia cellulare;   
-citogenetica;   
-tecniche istopatologiche.   
-Nell'art. 50 (ex 48), relativo al dipartimento di ecologia, sono aggiunti i seguenti insegnamenti:   
-patologia vegetale;   
-microbiologia;   
-virologia;   
-etnologia;   
-zootecnia;   
-fitogeografia.   
-Nell'art. 51 (ex 49), relativo al dipartimento di scienze della terra, sono aggiunti i seguenti insegnamenti:   
-aerofotogeologia e teleosservazioni;   
-esercitazioni di disegno geologico;   
-fisica terrestre;   
-geochimica applicata;   
-geografia;   
-geologia del cristallino;   
-geologia marina;   
-geologia matematica;   
-geologia stratigrafica;   
-geologia strutturale;   
-geomorfologia applicata;   
-geotermia;   
-idrologia;   
-microanalisi mineralogica;   
-pedologia;   
-petrografia del sedimentario;   
-prospezione geochimica;   
-prospezione geomineraria.   
+All'elenco degli insegnamenti del dipartimento di sistemi di cui all'art. 50 e alle tabelle C1 (allegata all'art. 30) e C2 (allegata all'art. 30) sono aggiunti i seguenti nuovi insegnamenti:  
+ricerca operativa e sistemi informativi aziendali;  
+applicazioni della ricerca operativa.  
+All'elenco degli insegnamenti del dipartimento di chimica di cui all'art. 46 e alla tabella C2 (allegata all'art. 30) e' aggiunto il seguente nuovo insegnamento:  
+catalisi industriale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 settembre 1980
+### Dato a Roma, addi' 31 dicembre 1985
 
-p. Il Presidente della Repubblica Il Presidente del Senato FANFANI SARTI
+COSSIGA
 
-Visto, il Guardasigilli: SARTI
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 31 gennaio 1981
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registro n. 9 Istruzione, foglio n. 67
+Registrato alla Corte dei conti, addi' 17 aprile 1986
+
+Registro n. 30 Istruzione, foglio n. 192

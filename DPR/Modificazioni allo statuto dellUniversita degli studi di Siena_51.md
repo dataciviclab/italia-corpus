@@ -1,150 +1,64 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 settembre 1979 n. 868
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1024
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 settembre 1979 n. 868
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1024
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-All'art. 45 dello statuto dell'Universita' di Siena, relativo all'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
-storia della lingua greca;  
-storia della lingua latina;  
-lingue dell'Italia preromana;  
-sociologia della letteratura;  
-linguistica generale.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi, di Siena, approvato con regio, decreto 13 ottobre 1927, n. 2831 e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936 numero 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-All'art. 47, relativo all'elenco degli insegnamenti complementari del corso di laurea in filosofia, sono aggiunti i seguenti:  
-antropologia culturale;  
-storia contemporanea;  
-sociologia dell'educazione;  
-storia delle tradizioni popolari;  
-storia della critica d'arte;  
-storia della filosofia moderna.  
-
-Art. 3
-------
-
+Decreta:  
   
-All'art. 49, relativo all'elenco degli insegnamenti complementari del corso di laurea in storia, indirizzo antico, e' aggiunto quello di "archeologia tardo antica".  
-
-Art. 4
-------
-
+Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 80. - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:  
   
-All'art. 91, relativo all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali, sono aggiunti i seguenti:  
-pedologia;  
-protezione della natura ed assetto del paesaggio;  
-biologia marina.  
+Fisiologia comparata;  
+Tecniche d'indagine fisiologica;  
+Oceanografia;  
+Fitogeografia;  
+Tecnica e diagnostica istopatologica;  
+Entomologia.  
+  
 All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:  
-embriologia sperimentale;  
-istochimica;  
-tossicologia ambientale;  
-chimica delle fermentazioni;  
-biologia marina.  
+  
+Fisiologia comparata;  
+Tecniche d'indagine fisiologica;  
+Oceanografia;  
+Fitogeografia;  
+Tecnica e diagnostica istopatologica;  
+Entomologia.  
+  
 All'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti:  
-geologia stratigrafica;  
-geologia strutturale;  
-geodinamica;  
-geomorfologia;  
-paleontologia stratigrafica;  
-paleontologia dei vertebrati;  
-geomagnetismo;  
-geodesia;  
-geofisica, prospezioni geofisiche;  
-petrografia del cristallino;  
-petrografia del sedimentario;  
-petrologia.  
-
-Art. 5
-------
-
   
-  
-All'art. 92, relativo al corso di laurea in matematica, sono aggiunti i seguenti insegnamenti complementari:   
-Indirizzo generale:   
-teoria degli insiemi;   
-ricorsivita';   
-teoria delle categorie;   
-algebra della logica;   
-teoria dei linguaggi formali.   
-Indirizzo didattico:   
-ricorsivita';   
-algebra commutativa;   
-teoria delle funzioni;   
-teoria degli insiemi;   
-teoria dei numeri;   
-topologia combinatoria;   
-calcolo delle probabilita';   
-teoria dei grafi;   
-teoria dei giochi;   
-teoria delle decisioni;   
-algebra di Boole;   
-calcolo automatico;   
-fondamenti di geometria;   
-fondamenti matematici della relativita';   
-matematiche elementari;   
-complementi di fisica matematica;   
-metodi matematici per la fisica;   
-meccanica superiore.   
-Indirizzo applicativo elettronico:   
-teoria degli automi;   
-logica algebrica;   
-teoria delle funzioni ricorsive;   
-teoria dei semigruppi.   
-Indirizzo applicativo statistico economico:   
-teoria degli automi;   
-logica algebrica;   
-teoria delle funzioni ricorsive;   
-teoria dei semigruppi.   
-Indirizzo applicativo meccanico astronomico:   
-teoria degli automi;   
-logica algebrica;   
-teoria delle funzioni ricorrenti;   
-teoria dei semigruppi.   
+Oceanografia;  
+Fitogeografia;  
+Paleontologia umana.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 settembre 1979
+### Dato a Roma, addi' 31 ottobre 1972
 
-PERTINI VALITUTTI
+LEONE SCALFARO
 
-Visto, il Guardiasigilli: Morlino
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 26 marzo 1980
+Registrato alla Corte dei conti, addi' 20 febbraio 1973
 
-Registro n. 27 Istruzione, foglio n. 6
+Atti di Governo, registro n. 256, foglio n. 9. - VALENTINI

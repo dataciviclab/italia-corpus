@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1977 n. 824
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1970 n. 408
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1977 n. 824
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1970 n. 408
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -12,81 +12,29 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 47 - all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:  
-didattica della storia;  
-storia dell'Africa;  
-comunicazioni di massa;  
-scenografia e storia della regia teatrale;  
-storia della lingua francese;  
-storia della civilta' e della tradizione classica;  
-filologia italiana;  
-storia delle origini cristiane;  
-lingua francese;  
-didattica delle lingue moderne;  
-storia del melodramma;  
-storia della critica d'arte;  
-storia dell'architettura;  
-sociologia dell'educazione;  
-sociologia del lavoro;  
-sociologia dei processi culturali.  
-Art. 48 - all'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:  
-didattica della storia;  
-storia dell'Africa;  
-comunicazioni di massa;  
-scenografia e storia della regia teatrale;  
-storia della lingua francese;  
-storia della civilta' e della tradizione classica;  
-filologia italiana;  
-storia delle origini cristiane;  
-lingua francese;  
-didattica delle lingue moderne;  
-storia del melodramma;  
-storia della critica d'arte;  
-storia dell'architettura;  
-sociologia dell'educazione;  
-sociologia del lavoro;  
-sociologia dei processi culturali.  
-Art. 49 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:  
-didattica della storia;  
-storia dell'Africa;  
-comunicazioni di massa;  
-scenografia e storia della regia teatrale;  
-storia della lingua francese;  
-storia della civilta' e della tradizione classica;  
-filologia italiana;  
-storia delle origini cristiane;  
-lingua francese;  
-didattica delle lingue moderne;  
-storia del melodramma;  
-storia della critica d'arte;  
-storia dell'architettura;  
-sociologia dell'educazione;  
-sociologia del lavoro;  
-sociologia dei processi culturali.  
+L'[art. 2 del decreto presidenziale 28 luglio 1969, numero 606](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-07-28;606~art2), relativo alla istituzione della facolta' di scienze politiche dell'Universita' degli studi di Torino, e' integrato nel senso che, per i posti di ruolo, ai cinque posti di professore gia' trasferiti occorre aggiungere il posto assegnato alla cattedra di sociologia (in soprannumero ai sensi dell'[art. 5 della legge 24 febbraio 1967, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-24;62~art5)) con il relativo trasferimento del professore che tale cattedra occupa; e ai cinque posti di assistente gia' trasferiti occorre aggiungere altri quattro posti e propriamente i posti assegnati alle cattedre di sociologia, di diritto costituzionale italiano e comparato, di istituzioni di diritto pubblico, di scienza della politica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 giugno 1977
+### Dato a Roma, addi' 9 marzo 1970
 
-LEONE MALFATTI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 8 novembre 1977
+Registrato alla Corte dei conti, addi' 24 giugno 1970
 
-Registro n. 125 Istruzione, foglio n. 32
+Atti del Governo, registro n. 236, foglio n. 67. - CARUSO

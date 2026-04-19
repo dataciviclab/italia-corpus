@@ -1,122 +1,75 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1957 n. 1157
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 315
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1957 n. 1157
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 315
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847) e successivi;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla, proposta del Ministro per la pubblica istruzione;   
+Nell'art. 29, relativo al corso di laurea in scienze politiche, la lettera B) e' cosi' sostituita:  
+B) Per l'indirizzo politico-economico:  
+1) matematica per economisti;  
+2) teoria e politica dello sviluppo;  
+3) scienza delle finanze;  
+4) diritto commerciale;  
+5) storia contemporanea.  
+
+Art. 2
+------
+
   
-Decreta:   
+Nell'art. 58, relativo al corso di laurea in lettere, l'insegnamento complementare di semeiotica per l'indirizzo moderno, contraddistinto col n. 63), cambia denominazione in semiotica.  
+
+Art. 3
+------
+
   
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 79. - Agli insegnamenti complementari del corso di laurea in chimica (indirizzo inorganico-chimico-fisico) sono aggiunti quelli di "chimica statistica" e "chimica quantistica".   
-Art. 82. - Agli insegnamenti complementari del corso di laurea in chimica industriale e' aggiunto quello di "chimica quantistica".   
-Sotto il titolo XIV, alle scuole e ai corsi annessi alla Facolta' di scienze matematiche, fisiche e naturali sono aggiunte le scuole di perfezionamento in fisica nucleare con il conseguente spostamento della numerazione degli articoli successivi.   
-  
-Scuola di perfezionamento in fisica nucleare   
-  
-Art. 201. - Presso la Facolta' di scienze matematiche, fisiche e naturali e' istituita una scuola di perfezionamento in fisica nucleare. Essa ha per scopo la formazione di laureati specialmente preparati nel campo della fisica nucleare, in vista sia della ricerca scientifica che delle applicazioni pratiche.   
-Art. 202. - La scuola e' retta da un Comitato direttivo composto dal direttore, nominato dal rettore su proposta del Consiglio di facolta' e dei professori di ruolo che vi tengono corsi regolari.   
-Il Comitato determina:   
-a) il numero e le modalita' degli esami richiesti per il conseguimento del diploma;   
-b) i programmi dei singoli corsi e la rispettiva durata;   
-c) per ogni anno accademico il numero degli allievi che possono ammettersi e i requisiti per l'ammissione;   
-d) le proposte da sottoporre al Consiglio di amministrazione in merito all'ammontare dei contributi da richiedere per la iscrizione ai singoli corsi e all'impiego di questi per il funzionamento della scuola.   
-Art 203. -- Di uno stesso insegnamento genericamente indicato in seguito possono venire incaricati piu' docenti aventi specifica competenza nelle diverse parti del programma.   
-Art. 204. - Alla scuola di perfezionamento sono ammessi i laureati in fisica, fisica e matematica, matematica, ingegneria, chimica e chimica industriale che soddisfino ai requisiti fissati anno per anno dal Comitato.   
-Art. 205. - Per il conseguimento del diploma di perfezionamento in fisica nucleare si richiede una frequenza di due anni. E' in facolta' del Comitato di abbreviare questo termine in casi speciali tenendo conto dei titoli dei singoli candidati, in particolare per quelli provenienti da altre scuole di perfezionamento.   
-Art. 206. - La scuola ha sede nei locali dell'Istituto di fisica dell'Universita' di Padova e si vale dei mezzi di questa ed eventualmente della locale sezione dell'I.N.F.N.   
-Art. 207. - Gli insegnamenti previsti per la scuola sono i seguenti:   
-Fisica teorica;   
-Statica dei nuclei;   
-Dinamica dei nuclei;   
-Fisica delle particelle elementari;   
-Tecniche nucleari;   
-Reattori nucleari;   
-Macchine acceleratrici;   
-Raggi cosmici;   
-Radioattivita';   
-Elettrodinamica;   
-Fisica dei solidi;   
-Fisica delle basse temperature;   
-Elettronica;   
-Radiochimica;   
-Chimica nucleare;   
-Fisica atomica;   
-Meccanica quantistica;   
-Geologia nucleare.   
-Il Comitato determinera' anno per anno quali di questi corsi dovranno essere svolti. A questi si potranno aggiungere anno per anno a giudizio del Comitato altri insegnamenti che abbiano luogo presso la Facolta' come corsi regolari di lezioni e cicli di conferenze.   
-  
-Scuola di specializzazione in chimica nucleare   
-  
-Art. 208. - Alla facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Padova e' annessa la scuola di specializzazione in chimica nucleare che ha per iscopo la preparazione scientifico-tecnica di personale specializzato nei vari rami della chimica nucleare pura e applicata.   
-Art. 209. - La scuola e' retta da, un direttore nominato dal rettore su designazione del Consiglio della Facolta' di scienze. Il direttore dura in carica due anni, puo' essere riconfermato ed e' coadiuvato da un Consiglio direttivo costituito dai professori di ruolo di chimica della Facolta' di scienze e di tutti gli altri professori di ruolo che vi tengano insegnamento.   
-Art. 210. - Al corso di specializzazione si possono iscrivere i laureati in chimica, chimica industriale e in ingegneria chimica.   
-Art. 211. - I corsi sono biennali e comprendono le seguenti materie:   
-1° anno:   
-Chimica nucleare generale.   
-Almeno due corsi semestrali con esercitazioni, a scelta tra, tutti i corsi elencati nell'articolo seguente.   
-2° anno:   
-Chimica nucleare applicata.   
-Almeno due corsi semestrali con esercitazioni a scelta tra tutti i corsi elencati nell'articolo seguente.   
-Ogni anno gli allievi presentano il piano di studi prescelto che deve essere approvato dal Consiglio direttivo della scuola.   
-Art. 212. - I corsi semestrali con esercitazioni sono i seguenti:   
-1) Radiosintesi di composti organici;   
-2) Radiosintesi di composti inorganici;   
-3) Chimica analitica isotopica;   
-4) Misure chimico-fisiche con radioisotopi;   
-5) Chimica delle radiazioni;   
-6) Chimica del reattore nucleare;   
-7) Geologia nucleare;   
-8) Metallurgia nucleare;   
-9) Applicazioni biologiche dei radioisotopi;   
-10) Applicazioni mediche dei radioisotopi;   
-11) Applicazioni tecnologiche dei radioisotopi;   
-12) Tecniche con lastre nucleari;   
-13) Tecniche di preparazione dei radioisotopi;   
-14) Tecniche di separazioni isotopiche;   
-15) Tecniche degli atomi caldi;   
-16) Tecniche dei bombardamenti nucleari;   
-17) Tecnica di misura delle radiazioni;   
-18) Tecniche delle misure di isotopi stabili;   
-19) Tecniche sul dosaggio delle radiazioni e sulle protezioni;   
-20) Fisica tecnica applicata alla chimica nucleare:   
-parte 1ª: nozioni su meccanismi per telecomandi;   
-parte 2ª: nozioni di elettronica applicata;   
-21) Questi corsi sono teorici e pratici. Ogni anno il Consiglio direttivo della scuola decide i corsi che verranno tenuti.   
-Art. 213. - Alla fine del biennio gli iscritti devono sostenere un esame di cultura riguardante gli argomenti dei corsi seguiti, dinnanzi ad una Commissione nominata dal Consiglio direttivo della scuola.   
-Art. 214. - La scuola funziona con i proventi delle tasse degli iscritti, ha sede presso uno degli Istituti chimici della. Facolta', si vale del personale e delle apparecchiature degli Istituti chimici della Facolta' ed eventualmente di quelle della locale sezione del Centro di chimica nucleare del Consiglio nazionale delle ricerche.   
-La scuola puo' valersi inoltre anche di altro personale.   
-La scelta del personale insegnante e' fatta di anno in anno dal Consiglio direttivo della scuola.   
-Art. 215. - Il Consiglio di amministrazione dell'Universita' stabilira', su proposta del Consiglio della facolta', l'ammontare delle tasse che gli iscritti sono tenuti a pagare.   
-Art. 216. - La scuola rilascia il diploma di specializzazione in chimica nucleare.   
+Nell'art. 60, relativo al corso di laurea in lingue e letterature straniere moderne, il quintultimo, il terzultimo ed il penultimo comma sono cosi' modificati:  
+Art. 60. - Se la lingua quadriennale scelta e': russa, polacca, serbo-croata (eventualmente ceca, bulgara), la filologia biennale e' la slava, ma si raccomanda che fra le materie complementari a scelta sia presa la filologia romanza a meno che la seconda lingua non sia una del gruppo germanico, per cui e' raccomandabile la filologia germanica. Nel caso che la lingua quadriennale sia la serbo-croata o la bulgara, si raccomanda invece la filologia balcanica.  
+Se la lingua quadriennale scelta e' la neogreca, la filologia biennale e' la bizantina, ma si raccomanda che fra le materie complementari vengano scelte la filologia balcanica, la filologia romanza e la letteratura greca.  
+Se la lingua quadriennale scelta e' l'albanese, la filologia biennale e' la balcanica, ma si raccomanda che fra le materie complementari siano incluse la filologia romanza, la filologia slava e la filologia bizantina.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 ottobre 1957
+### Dato a Roma, addi' 14 gennaio 1980
 
-GRONCHI MORO
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 7 dicembre 1957
+Registrato alla Corte dei conti, addi' 26 giugno 1980
 
-Atti del Governo, registro n. 109, foglio n. 79. - RELLEVA
+Registro n. 61 Istruzione, foglio n. 292

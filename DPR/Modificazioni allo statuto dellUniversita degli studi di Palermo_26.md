@@ -1,479 +1,246 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1974 n. 463
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1964 n. 1459
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1974 n. 463
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1964 n. 1459
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 57. - Nel gruppo di materie a scelta dello studente del corso di laurea in Ingegneria civile - Sezione edile, e' aggiunto il seguente nuovo indirizzo:
+
+a) Indirizzo vibrazioni:
+
+Complementi di matematica;
+
+Tecnica delle vibrazioni ed acustica.
+
+Agli insegnamenti obbligatori sul piano della Facolta' del corso di laurea in Ingegneria civile - Sezione trasporti - gli insegnamenti di "Tecnologie meccaniche" e di "Elementi di macchine" sono soppressi e sostituiti con quelli di "Tecnologie generali da materiali" e di "Disegno di macchine".
+
+Tra gli insegnamenti obbligatori sul piano della Facolta' del corso di laurea in Ingegneria elettrotecnica gli insegnamenti di "Radiotecnica" e di "Costruzione di macchine" sono soppressi e sostituiti con quelli di "Costruzioni di macchine elettriche" e di "Elementi e costruzioni di macchine".
+
+Nello stesso corso di laurea ai gruppi di materie a scelta e' soppresso l'indirizzo elettromeccanico e sostituito con quello di:
+
+b) Indirizzo elettronico Radiotecnica;
+
+Complementi di comunicazioni elettriche.
+
+Agli insegnamenti obbligatori sul piano della Facolta' del corso di laurea in Ingegneria meccanica l'insegnamento di "Controlli e servomeccanismi" da semestrale passa annuale.
+
+Nello stesso corso di laurea l'insegnamento di "Organizzazione aziendale e legislazione industriale" e' soppresso e sostituito con quello di "Termodinamica e termocinetica applicate".
+
+Nello stesso corso di laurea l'Indirizzo laboratori di ricerca muta denominazione con quello di "Indirizzo di meccanica sperimentale".
+
+Nello stesso corso di laurea e' aggiunto il seguente nuovo indirizzo:
+
+Indirizzo vibrazioni:
+
+Complementi di matematica;
+
+Tecnica delle vibrazioni ed acustica.
+
+Agli insegnamenti obbligatori sul piano della Facolta' del corso di laurea in Ingegneria nucleare l'insegnamento di "Controlli e servomeccanismi" da semestrale passa annuale. Nello stesso corso di laurea l'insegnamento obbligatorio di "Costruzione di macchine" e' soppresso e sostituito con quello di "Elementi e costruzioni di macchine".
+
+Agli insegnamenti obbligatori sul piano della Facolta' del corso di laurea in Ingegneria aeronautica l'insegnamento di "Controlli e servomeccanismi" da semestrale passa annuale.
+
+Nello stesso corso di laurea gli insegnamenti obbligatori di "Elettronica applicata" e di "Strumentazione ed assistenza al volo" (semestrale) sono soppressi e sostituiti con quelli di "Principi ed elementi di navigazione ed assistenza al volo" e di "Strumentazione ed impianti di bordo per aeromobili" (semestrale).
+
+Nel gruppo c) di materie a scelta del corso di laurea in Ingegneria elettronica l'insegnamento di "Tecnica della programmazione" viene sostituito con quello di "Elettronica dei circuiti a scatto".
+
+Nello stesso corso di laurea ai gruppi di materie a scelta viene aggiunto il seguente:
+
+e) Indirizzo vibrazioni:
+
+Complementi di matematica;
+
+Tecnica delle vibrazioni ed acustica.
+
+Per i corsi di laurea in Ingegneria elettrotecnica nucleare, Aeronautica e di Elettronica, l'insegnamento - obbligatorio sul piano della Facolta' - di "Tecnologie meccaniche" e soppresso e sostituito con quello di "Tecnologia meccanica".
+
+Art. 62, relativo alla precedenza e' cosi' modificato:
+
+Nell'elenco degli esami di cui alla lettera m) del corso di laurea in Ingegneria nucleare e' abolita la propedeuticita' dell'insegnamento di "Controlli e servomeccanismi" rispetto a quelli di "Elettronica nucleare" e di "Fisica del reattore".
+
+Dopo l'art. 69 e' aggiunto il seguente nuovo articolo con il conseguente spostamento della numerazione degli articoli successivi.
+
+Art. 70. - Gli Istituti di "Architettura tecnica" e di "Architettura e composizione architettonica e urbanistica" sono riuniti in un unico Istituto: "Istituto di architettura tecnica".
+
+Dopo l'art. 126 sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di perfezionamento in Scienze nucleari applicate all'Ingegneria annesso alla Facolta' d'ingegneria.
+
+Corso di perfezionamento in Scienze nucleari applicate all'ingegneria
+
+Art. 127. - E' istituito presso la Facolta' di ingegneria il corso di perfezionamento in Scienze nucleari applica all'ingegneria.
+
+Il corso e' regolato da un Consiglio direttivo, costituito da un direttore e dai professori di ruolo che vi tengono corsi regolari; il direttore e nominato dal rettore su proposta del Consiglio di facolta'.
+
+Il Consiglio determina, anno per anno, in accordo con il Consiglio di facolta' e udito, qualora occorra, gli Enti che contribuiscono al finanziamento del corso:
+
+a) la durata e la distribuzione dei singoli insegnamenti anche in rapporto all'esperienza didattica e all'evoluzione tecnica;
+
+b) il numero di allievi che possono essere ammessi ed i requisiti per l'ammissione;
+
+c) le proposte da sottoporre al Consiglio di amministrazione circa l'ammontare dei contributi richiesti per l'iscrizione al corso e circa l'impiego dei fondi per il funzionamento del corso stesso;
+
+d) le proposte circa la composizione della Commissione di esame che sara' nominata dal preside, sentito il Consiglio di facolta' e circa la composizione della Commissione delegata a svolgere i colloqui per la accettazione.
+
+Art. 128. - Al corso possono essere iscritti i laureati in Ingegneria, in Fisica, in Chimica, in Matematica e Fisica; la loro accettazione e condizionata dall'esito di in colloquio atto ad accertare la preparazione; vi possono essere ammessi anche aspiranti aventi titoli accademici diversi dai precedenti; previa deliberazione della Facolta' e sempre subordinatamente all'esito del colloquio predetto.
+
+Gli insegnamenti del corso sono scelti fra i seguenti:
+
+1) Richiami di fisica atomica;
+
+2) Fisica nucleare;
+
+3) Fisica del reattore ed esercitazioni con il reattore AGN 201;
+
+4) Rivelatori e misure nucleari con laboratorio;
+
+5) Elettronica della fisica nucleare con laboratorio;
+
+6) Problemi di termomeccanica;
+
+7) Effetti delle radiazioni sui materiali;
+
+8) Impianti nucleari;
+
+9) Isotopi e tecnologie chimiche con laboratorio;
+
+10) Dosimetria biologica e problemi di sicurezza.
+
+Potranno essere inclusi altri insegnamenti che vengono svolti presso l'Universita' di Palermo, come corsi regolari, e cicli di conferenze.
+
+Art. 129. - Il corso di perfezionamento ha durata annuale.
+
+Alla fine del corso, nelle sessioni estiva e autunnale, si svolgera' l'esame, vertente sul gruppo delle materie d'insegnamento.
+
+La Commissione esaminatrice, nominata dal preside, sentito il Consiglio di facolta', su proposta del Consiglio direttivo del corso, e' costituita da un numero di membri compreso fra 5 e 11.
+
+A coloro che hanno frequentato il corso e superato l'esame e' rilasciato un certificato di studi e di profitto.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1964
+
+Per il Presidente della Repubblica
+
+Il Presidente del Senato MERZAGORA GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 5 gennaio 1965 Atti del Governo, registro n. 189, foglio n. 62. - VILLA
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli 74 e 75, relativi ai vari corsi di laurea della facolta' di ingegneria, sono abrogati e sostituiti dai seguenti:   
-  
-Art. 74. - Presso la facolta' di ingegneria si seguono i seguenti corsi di laurea:   
-1) ingegneria civile (sezione edile, idraulica, trasporti);   
-2) ingegneria elettrotecnica;   
-3) ingegneria meccanica;   
-4) ingegneria nucleare;   
-5) ingegneria aeronautica;   
-6) ingegneria elettronica;   
-7) ingegneria chimica.   
-I titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge.   
-  
-Il corso di laurea in ingegneria civile, sezione edile comprende i seguenti insegnamenti:   
-a) obbligatori sul piano nazionale:   
-  
-Biennio propedeutico:   
-1) analisi matematica I;   
-2) geometria;   
-3) fisica I;   
-4) chimica;   
-5) disegno;   
-6) analisi matematica II;   
-7) meccanica razionale;   
-8) fisica II;   
-9) applicazioni di geometria descrittiva.   
-  
-Triennio di applicazione:   
-10) scienza delle costruzioni;   
-11) meccanica applicata alle macchine e macchine;   
-12) fisica tecnica;   
-13) elettrotecnica;   
-14) idraulica;   
-15) tecnica delle costruzioni;   
-16) architettura tecnica;   
-17) tecnologie dei materiali e chimica applicata;   
-18) topografia;   
-19) architettura e composizione architettonica;   
-  
-b) obbligatori sul piano della facolta':   
-20) architettura tecnica II;   
-21) tecnica urbanistica;   
-22) tecnica del controllo ambientale;   
-23) progetti di strutture;   
-24) geotecnica.   
-  
-Il corso di laurea in ingegneria civile, sezione idraulica, comprende i seguenti insegnamenti:   
-a) obbligatori sul piano nazionale:   
-  
-Biennio propedeutico:   
-1) analisi matematica I;   
-2) geometria;   
-3) fisica I;   
-4) chimica;   
-5) disegno;   
-6) analisi matematica II;   
-7) meccanica razionale;   
-8) fisica II;   
-9) applicazione di geometria descrittiva.   
-  
-Triennio di applicazione:   
-10) scienza delle costruzioni;   
-11) meccanica applicata alle macchine e macchine;   
-12) fisica tecnica;   
-13) elettrotecnica;   
-14) idraulica;   
-15) tecnica delle costruzioni;   
-16) architettura tecnica;   
-17) tecnologia dei materiali e chimica applicata;   
-18) topografia;   
-19) costruzioni idrauliche;   
-  
-b) obbligatori sul piano della facolta':   
-20) acquedotti e fognature;   
-21) complementi di idraulica;   
-22) costruzioni marittime;   
-23) geologia applicata all'ingegneria;   
-24) geotecnica;   
-25) ingegneria sanitaria;   
-26) bonifica ed irrigazione.   
-  
-Il corso di laurea in ingegneria civile, sezione trasporti, comprende i seguenti insegnamenti:   
-a) obbligatori sul piano nazionale:   
-  
-Biennio propedeutico:   
-1) analisi matematica I;   
-2) geometria;   
-3) fisica I;   
-4) chimica;   
-5) disegno;   
-6) analisi matematica II;   
-7) meccanica razionale;   
-8) fisica II;   
-9) applicazioni di geometria descrittiva.   
-  
-Triennio di applicazione:   
-10) scienza delle costruzioni;   
-11) meccanica applicata alle macchine e macchine;   
-12) fisica tecnica;   
-13) elettrotecnica;   
-14) idraulica;   
-15) tecnica delle costruzioni;   
-16) architettura tecnica;   
-17) tecnologie dei materiali e chimica applicata;   
-18) topografia;   
-19) costruzione di strade, ferrovie ed aeroporti;   
-  
-b) obbligatori sul piano della facolta':   
-20) tecnica ed economia dei trasporti;   
-21) progetti di costruzioni stradali e ferroviarie;   
-22) macchine da cantiere e impianti stradali;   
-23) costruzione di ponti;   
-24) impianti di trasporto, circolazione e traffico;   
-25) geotecnica.   
-  
-Il corso di laurea in ingegneria nucleare comprende i seguenti insegnamenti:   
-a) obbligatori sul piano nazionale:   
-  
-Biennio propedeutico:   
-1) analisi matematica I;   
-2) geometria;   
-3) fisica I;   
-4) disegno (di macchine);   
-5) chimica;   
-6) analisi matematica II;   
-7) meccanica razionale;   
-8) fisica II;   
-9) fisica atomica.   
-  
-Triennio di applicazione:   
-10) metallurgia e metallografia;   
-11) scienza delle costruzioni;   
-12) meccanica delle macchine;   
-13) fisica tecnica;   
-14) elettrotecnica;   
-15) macchine;   
-16) fisica nucleare;   
-17) elettronica nucleare;   
-18) fisica del reattore nucleare;   
-19) impianti nucleari;   
-  
-b) obbligatori sul piano della facolta':   
-20) calcolo numerico e programmazione;   
-21) dosimetria ed effetti delle radiazioni sui materiali;   
-22) elementi e costruzioni di macchine;   
-23) sicurezza e controllo del reattore nucleare;   
-24) strumenti e misure nucleari (con laboratorio);   
-25) tecnologia meccanica;   
-26) termodinamica e termocinetica applicate.   
-  
-Il corso di laurea in ingegneria chimica comprende i seguenti insegnamenti:   
-a) obbligatori sul piano nazionale:   
-  
-Biennio propedeutico:   
-1) analisi matematica I;   
-2) geometria;   
-3) fisica I;   
-4) chimica I;   
-5) disegno (di macchine);   
-6) analisi matematica II;   
-7) meccanica razionale;   
-8) fisica II;   
-9) chimica organica;   
-10) chimica fisica.   
-  
-Triennio di applicazione:   
-11) scienza delle costruzioni;   
-12) meccanica applicata alle macchine;   
-13) fisica tecnica;   
-14) elettrotecnica;   
-15) chimica applicata;   
-16) macchine;   
-17) principi d'ingegneria chimica;   
-18) chimica industriale;   
-19) impianti chimici;   
-  
-b) obbligatori sul piano della facolta':   
-20) applicazioni di chimica e chimica analitica;   
-21) idraulica;   
-22) elementi e costruzioni di macchine;   
-23) tecnologia meccanica;   
-24) chimica industriale II;   
-25) metallurgia e metallografia;   
-26) elettrochimica.   
-Il corso di laurea in ingegneria meccanica comprende i seguenti insegnamenti:   
-a) obbligatori sul piano nazionale:   
-  
-Biennio propedeutico:   
-1) analisi matematica I;   
-2) geometria;   
-3) fisica I;   
-4) chimica;   
-5) disegno (di macchine);   
-6) analisi matematica II;   
-7) meccanica razionale;   
-8) fisica II;   
-9) chimica applicata.   
-  
-Triennio di applicazione:   
-10) scienza delle costruzioni;   
-11) meccanica applicata alle macchine;   
-12) fisica tecnica;   
-13) elettrotecnica;   
-14) idraulica;   
-15) macchine;   
-16) costruzione di macchine;   
-17) impianti meccanici;   
-18) tecnologia meccanica;   
-  
-b) obbligatori sul piano della facolta':   
-19) calcolo numerico e programmazione;   
-20) progetti di macchine;   
-21) controlli e servomeccanismi;   
-22) elementi di macchine;   
-23) metallurgia e metallografia;   
-24) macchine II.   
-  
-Il corso di laurea in ingegneria elettrotecnica comprende i seguenti insegnamenti:   
-a) obbligatori sul piano nazionale:   
-  
-Biennio propedeutico:   
-1) analisi matematica I;   
-2) geometria;   
-3) fisica I;   
-4) chimica;   
-5) disegno (di macchine);   
-6) analisi matematica II;   
-7) meccanica razionale;   
-8) fisica II;   
-9) fisica tecnica.   
-  
-Triennio di applicazione:   
-10) scienza delle costruzioni;   
-11) meccanica applicata alle macchine;   
-12) elettrotecnica;   
-13) idraulica;   
-14) misure elettriche;   
-15) macchine elettriche;   
-16) macchine;   
-17) impianti elettrici;   
-18) elettronica applicata;   
-  
-b) obbligatori sul piano della facolta':   
-19) tecnologie speciali per elettrotecnici ed elettronici;   
-20) complementi di matematica;   
-21) controlli automatici;   
-22) elettrotecnica II;   
-23) impianti elettrici a media e bassa tensione;   
-24) calcolo numerico e programmazione.   
-  
-Il corso di laurea in ingegneria elettronica comprende i seguenti insegnamenti:   
-a) obbligatori sul piano nazionale:   
-  
-Biennio propedeutico:   
-1) analisi matematica I;   
-2) geometria;   
-3) fisica I;   
-4) chimica;   
-5) disegno (di macchine);   
-6) analisi matematica II;   
-7) fisica II;   
-8) meccanica razionale;   
-9) fisica tecnica.   
-  
-Triennio di applicazione:   
-10) scienza delle costruzioni;   
-11) meccanica delle macchine e macchine;   
-12) elettrotecnica;   
-13) campi elettromagnetici e circuiti;   
-14) elettronica applicata I;   
-15) controlli automatici;   
-16) misure elettriche;   
-17) comunicazioni elettriche;   
-18) radiotecnica;   
-  
-b) obbligatori sul piano della facolta':   
-19) calcolo numerico e programmazione;   
-20) componenti elettronici;   
-21) complementi di matematica;   
-22) macchine elettriche;   
-23) circuiti logici e calcolatrici elettroniche;   
-24) elettronica applicata II;   
-25) tecnica delle iperfrequenze;   
-26) misure elettroniche.   
-  
-Il corso di laurea in ingegneria aeronautica comprende i seguenti insegnamenti:   
-a) obbligatori sul piano nazionale:   
-  
-Biennio propedeutico:   
-1) analisi matematica I;   
-2) geometria;   
-3) fisica I;   
-4) chimica;   
-5) disegno (di macchine);   
-6) analisi matematica II;   
-7) meccanica razionale;   
-8) fisica II;   
-9) chimica applicata.   
-  
-Triennio di applicazione:   
-10) scienza delle costruzioni;   
-11) meccanica applicata alle macchine;   
-12) fisica tecnica;   
-13) elettrotecnica;   
-14) aerodinamica;   
-15) motori per aeromobili;   
-16) costruzioni aeronautiche;   
-17) aeronautica generale;   
-18) gasdinamica;   
-  
-b) obbligatori sul piano della facolta':   
-19) tecnica ed economia dei trasporti aerei;   
-20) elementi e costruzioni di macchine;   
-21) principi ed elementi di navigazione ed assistenza al volo;   
-22) tecnologia meccanica;   
-23) controlli e servomeccanismi;   
-24) metallurgia e metallografia;   
-25) strumentazione ed impianti di bordo per aeromobili;   
-26) meccanica del volo.   
-  
-Art. 75. - Sono insegnamenti complementari a scelta dello studente ai sensi del [decreto del Presidente della Repubblica 27 settembre 1970, n. 827](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-09-27;827), i seguenti:   
-acceleratore;   
-aerodinamica;   
-aerodinamica sperimentale;   
-agronomia generale;   
-analisi dei sistemi territoriali ed economia urbanistica;   
-analisi sperimentale delle tensioni;   
-applicazione degli isotopi;   
-applicazioni di calcolo nella conduzione di impianti chimici;   
-applicazioni elettriche;   
-architettura navale;   
-arte mineraria;   
-calcolo numerico e programmazione;   
-campi elettromagnetici e circuiti;   
-caratteri distributivi degli edifici;   
-centrali elettriche;   
-chimica applicata;   
-chimica del reattore;   
-chimica della coordinazione e catalisi;   
-chimica delle radiazioni;   
-chimica fisica;   
-chimica fisica II;   
-chimica industriale;   
-chimica macromolecolare;   
-chimica metallurgica;   
-cicli di lavorazione ed attrezzature;   
-circuiti logici e calcolatrici elettroniche;   
-circuiti logici e calcolatrici elettroniche II;   
-complementi di chimica fisica;   
-complementi di chimica industriale;   
-complementi di controlli automatici;   
-complementi di fisica nucleare;   
-complementi di gasdinamica;   
-complementi di matematica;   
-complementi di scienza delle costruzioni;   
-complementi di termodinamica;   
-comunicazioni elettriche;   
-conservazione del suolo;   
-controlli e servomeccanismi;   
-corrosione e protezione dei materiali metallici;   
-costruzione della nave;   
-costruzione di strade, ferrovie ed aeroporti;   
-costruzione di macchine elettriche;   
-costruzioni idrauliche;   
-dinamica delle strutture con elementi di sismologia;   
-economia e politica agraria;   
-elementi di composizione architettonica;   
-elementi di pianificazione territoriale e legislazione urbanistica;   
-elementi e costruzioni di macchine;   
-elettrochimica;   
-elettronica biologica;   
-esercizio dei trasporti (semestrale);   
-estimo ed esercizio professionale;   
-fisiologia generale;   
-gasdinamica;   
-geologia applicata all'ingegneria;   
-impianti ausiliari navali;   
-impianti di irraggiamento;   
-impianti elettrici a media e bassa tensione;   
-impianti industriali chimici e petrolchimici;   
-impianti meccanici;   
-impianti meccanici II;   
-impianti minerari;   
-impianti nucleari;   
-impianti termici;   
-lavorazioni non convenzionali e macchine utensili speciali;   
-macchine da cantiere ed impianti stradali;   
-meccanica dei fluidi;   
-misure e collaudi;   
-misure elettriche;   
-misure sulle macchine e sugli impianti;   
-misure termofluidodinamiche;   
-organizzazione industriale;   
-prefabbricazione, industrializzazione edilizia e cantiere;   
-preparazione meccanica dei minerali;   
-principi ed applicazioni del laser;   
-principi di ingegneria chimica;   
-processi elettrochimici;   
-progetti di impianti tecnici;   
-progetti di macchine;   
-progetti di strutture;   
-progetto di apparecchiature per l'industria chimica;   
-progetto di reattori;   
-radiotecnica;   
-scienza dei metalli;   
-separazione degli isotopi;   
-sintesi circuitale attiva e passiva;   
-sistemi biologici;   
-sistemi di telecomunicazione;   
-statica delle strutture prefabbricate;   
-strumentazione e misure;   
-strumenti e misure nucleari (con laboratorio);   
-strumenti e misure nucleari II;   
-struttura delle materie;   
-strutture aeronautiche;   
-tecnica del freddo;   
-tecnica delle costruzioni;   
-tecnica della sperimentazione e collaudo delle strutture;   
-tecnica delle fondazioni;   
-tecnica del traffico (semestrale);   
-tecnica delle vibrazioni;   
-tecnica delle vibrazioni ed acustica;   
-tecnica e applicazioni dei controlli automatici;   
-tecnica ed economia dei trasporti;   
-tecnica urbanistica;   
-tecnologia della fonderia e dello stampaggio;   
-tecnologia meccanica;   
-tecnologie aeronautiche;   
-tecnologie generali dei materiali;   
-tecnologie meccaniche applicate alle costruzioni navali;   
-tecnologie speciali;   
-tecnologie speciali per elettrotecnici ed elettronici;   
-teoria dell'informazione;   
-teoria delle reti elettriche;   
-teoria e tecnica della combustione;   
-termodinamica e termocinetica applicate;   
-termotecnica industriale;   
-topografia;   
-urbanistica.   
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 57. - Nel gruppo di materie a scelta dello studente del corso di laurea in Ingegneria civile - Sezione edile, e' aggiunto il seguente nuovo indirizzo:  
+a) Indirizzo vibrazioni:  
+Complementi di matematica;  
+Tecnica delle vibrazioni ed acustica.  
+Agli insegnamenti obbligatori sul piano della Facolta' del corso di laurea in Ingegneria civile - Sezione trasporti - gli insegnamenti di "Tecnologie meccaniche" e di "Elementi di macchine" sono soppressi e sostituiti con quelli di "Tecnologie generali da materiali" e di "Disegno di macchine".  
+Tra gli insegnamenti obbligatori sul piano della Facolta' del corso di laurea in Ingegneria elettrotecnica gli insegnamenti di "Radiotecnica" e di "Costruzione di macchine" sono soppressi e sostituiti con quelli di "Costruzioni di macchine elettriche" e di "Elementi e costruzioni di macchine".  
+Nello stesso corso di laurea ai gruppi di materie a scelta e' soppresso l'indirizzo elettromeccanico e sostituito con quello di:  
+b) Indirizzo elettronico Radiotecnica;  
+Complementi di comunicazioni elettriche.  
+Agli insegnamenti obbligatori sul piano della Facolta' del corso di laurea in Ingegneria meccanica l'insegnamento di "Controlli e servomeccanismi" da semestrale passa annuale.  
+Nello stesso corso di laurea l'insegnamento di "Organizzazione aziendale e legislazione industriale" e' soppresso e sostituito con quello di "Termodinamica e termocinetica applicate".  
+Nello stesso corso di laurea l'Indirizzo laboratori di ricerca muta denominazione con quello di "Indirizzo di meccanica sperimentale".  
+Nello stesso corso di laurea e' aggiunto il seguente nuovo indirizzo:  
+Indirizzo vibrazioni:  
+Complementi di matematica;  
+Tecnica delle vibrazioni ed acustica.  
+Agli insegnamenti obbligatori sul piano della Facolta' del corso di laurea in Ingegneria nucleare l'insegnamento di "Controlli e servomeccanismi" da semestrale passa annuale. Nello stesso corso di laurea l'insegnamento obbligatorio di "Costruzione di macchine" e' soppresso e sostituito con quello di "Elementi e costruzioni di macchine".  
+Agli insegnamenti obbligatori sul piano della Facolta' del corso di laurea in Ingegneria aeronautica l'insegnamento di "Controlli e servomeccanismi" da semestrale passa annuale.  
+Nello stesso corso di laurea gli insegnamenti obbligatori di "Elettronica applicata" e di "Strumentazione ed assistenza al volo" (semestrale) sono soppressi e sostituiti con quelli di "Principi ed elementi di navigazione ed assistenza al volo" e di "Strumentazione ed impianti di bordo per aeromobili" (semestrale).  
+Nel gruppo c) di materie a scelta del corso di laurea in Ingegneria elettronica l'insegnamento di "Tecnica della programmazione" viene sostituito con quello di "Elettronica dei circuiti a scatto".  
+Nello stesso corso di laurea ai gruppi di materie a scelta viene aggiunto il seguente:  
+e) Indirizzo vibrazioni:  
+Complementi di matematica;  
+Tecnica delle vibrazioni ed acustica.  
+Per i corsi di laurea in Ingegneria elettrotecnica nucleare, Aeronautica e di Elettronica, l'insegnamento - obbligatorio sul piano della Facolta' - di "Tecnologie meccaniche" e soppresso e sostituito con quello di "Tecnologia meccanica".  
+Art. 62, relativo alla precedenza e' cosi' modificato:  
+Nell'elenco degli esami di cui alla lettera m) del corso di laurea in Ingegneria nucleare e' abolita la propedeuticita' dell'insegnamento di "Controlli e servomeccanismi" rispetto a quelli di "Elettronica nucleare" e di "Fisica del reattore".  
+Dopo l'art. 69 e' aggiunto il seguente nuovo articolo con il conseguente spostamento della numerazione degli articoli successivi.  
+Art. 70. - Gli Istituti di "Architettura tecnica" e di "Architettura e composizione architettonica e urbanistica" sono riuniti in un unico Istituto: "Istituto di architettura tecnica".  
+Dopo l'art. 126 sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di perfezionamento in Scienze nucleari applicate all'Ingegneria annesso alla Facolta' d'ingegneria.  
+Corso di perfezionamento in Scienze nucleari applicate all'ingegneria  
+Art. 127. - E' istituito presso la Facolta' di ingegneria il corso di perfezionamento in Scienze nucleari applica all'ingegneria.  
+Il corso e' regolato da un Consiglio direttivo, costituito da un direttore e dai professori di ruolo che vi tengono corsi regolari; il direttore e nominato dal rettore su proposta del Consiglio di facolta'.  
+Il Consiglio determina, anno per anno, in accordo con il Consiglio di facolta' e udito, qualora occorra, gli Enti che contribuiscono al finanziamento del corso:  
+a) la durata e la distribuzione dei singoli insegnamenti anche in rapporto all'esperienza didattica e all'evoluzione tecnica;  
+b) il numero di allievi che possono essere ammessi ed i requisiti per l'ammissione;  
+c) le proposte da sottoporre al Consiglio di amministrazione circa l'ammontare dei contributi richiesti per l'iscrizione al corso e circa l'impiego dei fondi per il funzionamento del corso stesso;  
+d) le proposte circa la composizione della Commissione di esame che sara' nominata dal preside, sentito il Consiglio di facolta' e circa la composizione della Commissione delegata a svolgere i colloqui per la accettazione.  
+Art. 128. - Al corso possono essere iscritti i laureati in Ingegneria, in Fisica, in Chimica, in Matematica e Fisica; la loro accettazione e condizionata dall'esito di in colloquio atto ad accertare la preparazione; vi possono essere ammessi anche aspiranti aventi titoli accademici diversi dai precedenti; previa deliberazione della Facolta' e sempre subordinatamente all'esito del colloquio predetto.  
+Gli insegnamenti del corso sono scelti fra i seguenti:  
+1) Richiami di fisica atomica;  
+2) Fisica nucleare;  
+3) Fisica del reattore ed esercitazioni con il reattore AGN 201;  
+4) Rivelatori e misure nucleari con laboratorio;  
+5) Elettronica della fisica nucleare con laboratorio;  
+6) Problemi di termomeccanica;  
+7) Effetti delle radiazioni sui materiali;  
+8) Impianti nucleari;  
+9) Isotopi e tecnologie chimiche con laboratorio;  
+10) Dosimetria biologica e problemi di sicurezza.  
+Potranno essere inclusi altri insegnamenti che vengono svolti presso l'Universita' di Palermo, come corsi regolari, e cicli di conferenze.  
+Art. 129. - Il corso di perfezionamento ha durata annuale.  
+Alla fine del corso, nelle sessioni estiva e autunnale, si svolgera' l'esame, vertente sul gruppo delle materie d'insegnamento.  
+La Commissione esaminatrice, nominata dal preside, sentito il Consiglio di facolta', su proposta del Consiglio direttivo del corso, e' costituita da un numero di membri compreso fra 5 e 11.  
+A coloro che hanno frequentato il corso e superato l'esame e' rilasciato un certificato di studi e di profitto.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 aprile 1974
+### Dato a Roma, addi' 31 ottobre 1964
 
-LEONE MALFATTI
+Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 26 settembre 1974
+Registrato alla Corte dei conti, addi' 5 gennaio 1965
 
-Atti di Governo, registro n. 5, foglio n. 72. - SCIARRETTA
+Atti del Governo, registro n. 189, foglio n. 62. - VILLA

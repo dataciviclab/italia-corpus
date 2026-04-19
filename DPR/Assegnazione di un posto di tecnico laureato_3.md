@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 dicembre 1976 n. 1021
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 giugno 1977 n. 660
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 dicembre 1976 n. 1021
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 giugno 1977 n. 660
+=============================================================
 
 Assegnazione di un posto di tecnico laureato.
 ---------------------------------------------
@@ -10,43 +10,35 @@ Assegnazione di un posto di tecnico laureato.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduta la [legge 3 novembre 1961, n. 1255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-11-03;1255), ed in particolare la tabella B annessa alla legge stessa;   
-Veduta la [legge 3 giugno 1970, n. 380](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-06-03;380);   
-Veduto il [decreto-legge 1° ottobre 1973, n. 580](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580), convertito con modificazioni in [legge 30 novembre 1973, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766), ed in particolare l'art. 8;   
-Considerato che con decreto ministeriale in data 10 dicembre 1975 si e' provveduto, tra l'altro, a determinare, per l'anno 1976, l'incremento dei posti della carriera direttiva dei tecnici laureati degli istituti scientifici delle universita' e degli istituti di istruzione universitaria, conformemente a quanto previsto dal citato art. 8;   
-Considerato, altresi', che per l'anno 1976 l'incremento dei posti di tecnico laureato ammonta complessivamente a duecentotredici unita' e che, operata la riserva di cui al quinto comma dell'art. 8 del suddetto [decreto-legge n. 580/1973](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973;580), i posti di tecnico laureato da conferire per pubblici concorsi risultano essere di centosei unita';   
-Considerato che con precedenti provvedimenti si e' provveduto ad assegnare trentaquattro dei suddetti centosei posti di tecnico laureato;   
-Valutato ogni opportuno elemento in ordine alle esigenze di funzionamento e alle necessita' scientifico didattiche del sottoindicato istituto;   
-Ritenuta l'opportunita' di provvedere ad assegnare uno dei residui settantadue posti di tecnico laureato;   
-Sulla motivata proposta del Ministro per la pubblica istruzione;   
+Veduta la [legge 3 novembre 1961, n. 1255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-11-03;1255), ed in particolare la tabella B annessa alla legge stessa;  
+Veduta la [legge 3 giugno 1970, n. 380](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-06-03;380);  
+Veduto il [decreto-legge 1 ottobre 1973, n. 580](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580), convertito con modificazioni, in [legge 30 novembre 1973, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766), ed in particolare l'art. 8;  
+Considerato che con decreto ministeriale in data 10 dicembre 1975 si e' provveduto, tra l'altro, a determinare, per l'anno 1976, l'incremento dei posti della carriera direttiva dei tecnici laureati degli istituti scientifici delle universita' e degli istituti di istruzione universitaria, conformemente a quanto previsto dal citato art. 8;  
+Considerato, altresi', che per l'anno 1976 l'incremento dei posti di tecnico laureato ammonta complessivamente a duecentotredici unita' e che, operata la riserva di cui al quinto comma dell'art. 8 del suddetto [decreto-legge n. 580/1973](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973;580), i posti di tecnico laureato da conferire per pubblici concorsi risultano essere di centosei unita';  
+Considerato che con precedenti provvedimenti si e' provveduto ad assegnare quarantatre' dei suddetti centosei posti di tecnico laureato;  
+Valutato ogni opportuno elemento in ordine alle esigenze di funzionamento e alle necessita' scientifico-didattiche del sottoindicato istituto;  
+Ritenuta l'opportunita' di provvedere ad assegnare uno dei residui sessantatre posti di tecnico laureato;  
+Sulla motivata proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Uno dei settantadue posti di tecnico laureato indicato nelle premesse, e' assegnato come segue:   
+Uno dei sessantatre posti di tecnico laureato indicato nelle premesse e' assegnato come segue:  
   
+UNIVERSITA' DI BARI  
   
-  
-  
-UNIVERSITA' DI MESSINA  
-Numero  
-dei posti  
-Facolta' di economia e commercio:  
-Istituto di diritto privato ................................... 1  
-  
-  
+Facolta' di medicina e chirurgia:  
+Istituto di antropologia criminale . . . . . . . . posti n. 1  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 dicembre 1976
+### Dato a Roma, addi' 15 giugno 1977
 
 LEONE MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: BONIFACIO Registrato alla Corte dei conti addi' 19 agosto 1977
 
-Registrato alla Corte dei conti, addi' 26 febbraio 1977
-
-Registro n. 19 Istruzione, foglio n. 17
+Registro n. 95 Istruzione, foglio n. 256

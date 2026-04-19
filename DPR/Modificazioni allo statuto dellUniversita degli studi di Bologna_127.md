@@ -1,79 +1,98 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 febbraio 1980 n. 514
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 febbraio 1977 n. 343
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 febbraio 1980 n. 514
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 febbraio 1977 n. 343
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-L'art. 104 dello statuto dell'Universita' di Bologna, relativo alla facolta' di scienze matematiche, fisiche e naturali, e' soppresso.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio superiore della pubblica istruzione;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-All'art. 116, relativo al corso di laurea in scienze naturali, dopo l'elenco degli insegnamenti complementari e' aggiunto il seguente comma: "Il corso biennale di fisiologia generale comporta due esami distinti, rispettivamente alla fine del primo e del secondo anno di corso".  
-
-Art. 3
-------
-
+Decreta:  
   
-All'art. 117, relativo al corso di laurea in scienze biologiche, dopo l'elenco degli insegnamenti complementari e' aggiunto il seguente comma: "Il corso biennale di fisiologia generale, comporta due esami distinti rispettivamente alla fine del primo e del secondo anno di corso".  
-
-Art. 4
-------
-
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-All'art. 118, relativo al corso di laurea in scienze geologiche, dopo l'elenco degli insegnamenti complementari e' aggiunto il seguente comma: "Il corso biennale di fisica sperimentale, comporta due esami distinti, rispettivamente alla fine del primo e del secondo anno di corso".  
-
-Art. 5
-------
-
+Dopo l'art. 683, e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito l'ordinamento della scuola di specializzazione in oncologia.  
   
-All'art. 119 il secondo e terzo comma sono sostituiti dai seguenti: "La discussione di una dissertazione scritta preferibilmente su argomento a carattere sperimentale, da sostenersi dinanzi alla commissione di laurea.  
-Le modalita' dell'assegnazione e svolgimento delle tesi di laurea sono previste da un'apposita regolamentazione".  
-Inoltre il sesto comma e' sostituito dal seguente:  
-"Precede l'esame di laurea un saggio orale di cultura generale in scienze naturali o biologiche".  
+Scuola di specializzazione in oncologia  
   
+Art. 684. - La scuola ha lo scopo di formare competenze nel campo della prevenzione, diagnosi e terapia dei tumori e della organizzazione sanitaria del settore. In particolare si propone di preparare l'oncologo concepito come il coordinatore del trattamento in equipe specialistica, di creare le condizioni per sfruttare ai fini del trattamento dei tumori le varie specializzazioni afferenti al campo, e di formare personale adeguatamente preparato nel settore dell'organizzazione della lotta contro i tumori, della didattica e della ricerca oncologica.  
+La preparazione e' basata su di un consistente supporto di biologia dei tumori e di anatomia patologica.  
+Art. 685. - La scuola fa capo all'istituto di cancerologia dell'Universita' di Bologna.  
+Il titolare della cattedra di oncologia sperimentale e' direttore della scuola.  
+Art. 686. - La scuola e' aperta ai laureati in medicina e chirurgia.  
+Art. 687. - La durata del corso e' di tre anni per un numero massimo di studenti di dieci per anno.  
+La frequenza e' obbligatoria.  
+I corsi, dato il carattere interdisciplinare della scuola, sono tenuti prevalentemente in modo seminariale.  
+L'insegnamento e' basato su lezioni, esercitazioni ed internati, da effettuarsi in tutti gli istituti o servizi, universitari o non universitari cui afferiranno gli insegnamenti impartiti.  
+Gli insegnamenti generali (biologia, anatomia patologica, e clinici) e gli insegnamenti specialistici si intendono strettamente integrati, in modo che il corso sia formativo ed unitario.  
+La rotazione degli internati e' regolata da turni stabiliti dal direttore della scuola, per ogni studente all'inizio del corso.  
+Art. 688. - Qualora il numero delle domande di iscrizione sia superiore ai posti disponibili, costituisce titolo preferenziale la votazione di laurea e qualsiasi titolo acquisito nel campo dell'oncologia o in campi strettamente affini, ma non il possesso di altri diplomi di specialita'. Viene comunque effettuato un esame-colloquio di ammissione che potra' comprendere prove orali e scritte.  
+Non sono ammesse abbreviazioni di corso.  
+Art. 689. - Ogni anno di corso termina con un esame finale complessivo per gruppi di materie.  
+Alla fine dei corsi lo specializzando, previo superamento di un esame teorico-pratico, discute una tesi elaborata in uno degli istituti o servizi sopra citati.  
+La commissione esaminatrice e' composta dal direttore della scuola e da quattro titolari di materie di insegnamento nella scuola.  
+Alla fine dei corsi, e dopo il superamento dell'esame finale, viene rilasciato il diploma di specialista in oncologia.  
+Art. 690. - Gli insegnamenti sono cosi' ripartiti:  
+1° Anno:  
+1) anatomia ed istologia patologica I;  
+2) oncologia sperimentale I: la biologia dei tumori;  
+3) epidemiologia, prevenzione e controllo ambientale;  
+4) diagnosi precoce e citologia esfoliativa con laboratorio;  
+5) principi generali di clinica oncologica;  
+6) principi generali di chirurgia oncologica;  
+7) oncologia dell'apparato digerente e delle ghiandole annesse;  
+8) oncologia ostetrico-ginecologica;  
+9) oncologia endocrina ed oncologia ormonodipendente;  
+10) radiodiagnostica.  
+2° Anno:  
+1) anatomia ed istologia patologica II;  
+2) oncologia sperimentale II: la cancerogenesi;  
+3) tecniche immunologiche e tests radiochimici nella diagnosi e nella terapia dei tumori;  
+4) chemioterapia oncologica;  
+5) radioterapia;  
+6) medicina nucleare;  
+7) oncologia professionale;  
+8) oncologia urogenitale;  
+9) oncologia toracica;  
+10) tumori della mammella.  
+3° Anno:  
+1) oncoematologia;  
+2) oncologia pediatrica;  
+3) oncologia dell'apparato locomotore;  
+4) oncologia oculistica;  
+5) oncologia della pelle;  
+6) oncologia del sistema nervoso;  
+7) oncologia otorinolaringoiatrica;  
+8) oncologia cervico-facciale;  
+9) problemi etici e psicologici in oncologia;  
+10) terapia del dolore;  
+11) organizzazione sociale della lotta contro i tumori e preparazione degli operatori sanitari.  
+Art. 691. - Le tasse, soprattasse e contributi sono cosi' stabiliti:  
+tassa di immatricolazione (solo per il primo anno) ........ L. 5.000 tassa di iscrizione ....................................... L. 18.000 soprattassa esami di profitto ............................. L. 7.000 attivita sportiva ed assistenziale ........................ L. 1.000 contributi di laboratorio ................................. L. 50.000 contributo integrativo .................................... L. 60.000 contributi di riscaldamento ............................... L. 10.000 riscontro ................................................. L. 3.500 assicurazione ............................................. L. 600 tessera e libretto (solo per il primo anno) ............... L. 1.100   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 febbraio 1980
+### Dato a Roma, addi' 24 febbraio 1977
 
-PERTINI VALITUTTI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 21 agosto 1980
+Registrato alla Corte dei conti, addi' 15 giugno 1977
 
-Registro n. 79 Istruzione, foglio n. 11
+Registro n. 71 Istruzione, foglio n. 248

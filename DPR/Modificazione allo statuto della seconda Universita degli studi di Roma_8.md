@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1986 n. 236
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1984 n. 823
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1986 n. 236
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1984 n. 823
+=============================================================
 
 Modificazione allo statuto della seconda Universita' degli studi di Roma.
 -------------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto della seconda Universita' degli studi di Roma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto della seconda Universita' di Roma, approvato con [decreto del Presidente della Repubblica 29 ottobre 1980, n. 1137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-10-29;1137), e successive modificazioni;
+Veduto lo statuto della seconda Universita' degli studi di Roma, approvato con [decreto del Presidente della Repubblica 29 ottobre 1980, n. 1137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-10-29;1137), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -33,26 +33,24 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto della seconda Universita' di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto della seconda Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Nell'art. 51, all'elenco degli insegnamenti del corso di laurea in medicina e chirurgia e' aggiunto l'insegnamento complementare di "tecnica e diagnostica citopatologica".  
+Art. 51 - nell'elenco degli insegnamenti del corso di laurea in medicina e chirurgia e' inserito l'insegnamento complementare di "statistica medica".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 gennaio 1986
+### Dato a Roma, addi' 30 luglio 1984
 
-COSSIGA
-
-FALCUCCI, Ministero della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 19 maggio 1986
+Registrato alla Corte dei conti, addi' 22 novembre 1984
 
-Registro n. 39 Istruzione, foglio n. 148
+Registro n. 71 Istruzione, foglio n. 13

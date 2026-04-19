@@ -1,72 +1,74 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 settembre 1979 n. 949
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 luglio 1978 n. 658
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 settembre 1979 n. 949
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 luglio 1978 n. 658
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Veduta la proposta di modifica dello statuto formulata dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' di Napoli, approvato con [decreto del Presidente della Repubblica 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1939-04-20;1162) e modificato con [decreto del Presidente della Repubblica 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1940-10-26;1904), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
-Dopo l'art. 588 dello statuto dell'Universita' di Napoli, approvato e modificato con i decreti sopraindicati, sono inseriti i seguenti articoli con il conseguente spostamento della numerazione successiva.   
-Art. 589. - Alla seconda facolta' di medicina e chirurgia sono annesse scuole di specializzazione, le quali conducono al conferimento del diploma di specializzazione a norma dell'art. 178 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592).   
-Art. 590. - La direzione di ciascuna scuola viene affidata su proposta del consiglio di facolta' ad un professore di ruolo o fuori ruolo, in accordo con quanto stabilito dalle norme statutarie delle singole scuole.   
-Gli insegnamenti di ciascuna scuola di specializzazione sono indicati negli articoli dello statuto pertinenti alle scuole medesime. Gli incarichi di insegnamento sono conferiti dal consiglio di facolta' su proposta del direttore della scuola secondo modalita' che possono anche essere regolamentate nei rispettivi statuti delle singole scuole.   
-Art. 591. - Possono iscriversi alle scuole di specializzazione i laureati in medicina e chirurgia (salvo diverso indirizzo).  
-L'ammissione alle scuole di specializzazione e' subordinata ad un concorso per titoli ed esami.   
-E' richiesto almeno all'inizio del corso il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-Per nessun motivo possono essere consentite abbreviazioni di corso.   
-Non si concedono iscrizioni contemporanee a piu' scuole ne' e' possibile la iscrizione contemporanea ad un corso di laurea e ad una scuola di specializzazione.   
-Il numero massimo degli iscritti viene stabilito nelle rispettive norme statutarie.   
-Art. 592. - Per gli iscritti alle scuole di specializzazione e' obbligatoria la frequenza continuativa alle lezioni, alle esercitazioni, alle attivita' cliniche e di laboratorio secondo le modalita' che vengono stabilite dai singoli statuti o dai direttori delle scuole.   
-Tale frequenza e' indispensabile per l'ammissione agli esami di profitto.   
-Il passaggio agli anni di corso successivi al primo e' subordinato al superamento di tutti gli esami degli anni di corso precedenti; nei casi di trasferimento da altra scuola decide il consiglio di facolta' su indicazione del direttore della scuola.   
-Per tutte le scuole e per conseguire il diploma il candidato, oltre agli esami speciali relativi ai singoli insegnamenti, deve sostenere al termine dei corsi esami finali comprendenti:   
-1) una discussione su una dissertazione scritta su un argomento assegnato dal direttore della scuola all'inizio dell'ultimo anno di corso e   
-2) una prova pratica.   
-Le commissioni per gli esami di profitto sono formate da professori della scuola compreso il titolare dell'insegnamento relativo.   
-Art. 593. - La commissione per l'esame di diploma e' presieduta dal direttore della scuola ed e' formata da docenti della scuola secondo le vigenti norme.   
-Art. 594. - Gli iscritti alle scuole di specializzazione sono tenuti a pagare le tasse e soprattasse annuali nonche' i contributi clinici e di laboratorio in accordo con la normativa vigente e nella misura deliberata dal consiglio di amministrazione, su proposta del direttore della scuola approvata dalla facolta'.   
-I contributi clinici e di laboratorio debbono essere integralmente riservati alla scuola per la quale sono stati versati.   
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Dopo l'art. 662, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della:  
+  
+Scuola di preparazione per tecnici di audiometria  
+(Scuola diretta ai fini speciali)  
+  
+Art. 663. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), la scuola di preparazione per tecnici di audiometria che ha lo scopo di preparare tecnici idonei a collaborare con il medico audiologo.  
+Art. 664. - La sede della scuola e' presso la cattedra di audiologia della seconda facolta' di medicina e chirurgia dell'Universita' di Napoli; l'indirizzo e' teorico pratico.  
+Al funzionamento della scuola si provvedera' con i proventi delle tasse e soprattasse dovute dagli iscritti e con eventuali contributi di enti pubblici e privati. Le tasse e soprattasse annuali a carico degli iscritti restano cosi' suddivise:  
+tassa annuale di iscrizione ............................... L. 15.000 soprattassa annuale d'esame ............................... L. 7.000 tassa di diploma .......................................... L. 6.000 Art. 665. - Il direttore della scuola e' nominato dal consiglio di facolta' che provvedera' altresi' a designare un vice direttore. Gli insegnanti sono scelti dal direttore della scuola tra i docenti di discipline mediche e di altre branche, aventi pero' particolare competenza negli insegnamenti previsti dal corso.  
+Art. 666. - Per l'ammissione alla scuola e' necessario il diploma di scuola media superiore (titolo preferenziale e' il diploma di abilitazione magistrale o di maestra giardiniera). Possono essere ammessi anche coloro che sono in possesso di diploma di laurea o di titolo superiore prescritto per accedere agli studi universitari.  
+Gli aspiranti al 1° anno devono presentare entro il 5 novembre domanda al rettore su carta legale; le domande d'iscrizione agli anni successivi dovranno essere presentate entro la stessa data.  
+Art. 667. - Alla scuola si accede previo esame scritto ed orale di cultura generale, con particolare riguardo ai problemi dell'insegnamento, della riabilitazione, al recupero sociale dei minorati dell'udito. Non possono essere ammessi i candidati presentanti disturbi della parola o di diminuzione della funzione uditiva.  
+La commissione giudicatrice e' composta dal direttore della scuola, presidente, e da altri membri docenti di clinica otorinolaringoiatrica e di clinica neurologica, di pediatria, o di neuropsichiatria infantile o di psicologia o di neurofisiopatologia o di fisica.  
+Art. 668. - Le materie d'insegnamento sono:  
+1° Anno:  
+nozione di anatomia e fisiologia dell'orecchio, delle vie dei centri acustici e degli organi fonatori;  
+nozioni di fisica acustica;  
+tecniche audiometriche;  
+psicologia del bambino.  
+2° Anno:  
+audiometria neonatale;  
+audiometria infantile;  
+audiometria tonale e vocale;  
+impedenzometria.  
+3° Anno:  
+patologia dell'udito;  
+audiometria a potenziali evocati;  
+protesizzazione acustica;  
+audiometria medico-legale.  
+Art. 669. - Gli esami di profitto vengono sostenuti davanti ad una commissione composta di tre membri scelti tra i docenti della scuola in una sola sessione estiva.  
+Art. 670. - L'esame di diploma, cui si accede dopo aver seguito i corsi, le esercitazioni pratiche, e superati gli esami di insegnamento prescritti, consiste nella discussione di una tesi scritta su un argomento riguardante le materie d'insegnamento.  
+Art. 671. - L'esame di diploma viene sostenuto davanti ad una commissione di tre membri scelti tra i docenti della scuola.  
+Art. 672. - Agli allievi che avranno superato l'esame verra' rilasciato il "diploma di tecnico di audiometria".  
+Tale diploma non permette l'esercizio autonomo professionale, ma solo la collaborazione tecnica alle dipendenze del medico audiologo sia in ambiente universitario od ospedaliero sia nella pratica vita privata.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 settembre 1979
+### Dato a Roma, addi' 27 luglio 1978
 
-PERTINI VALITUTTI
+PERTINI PEDINI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 31 luglio 1980
+Registrato alla Corte dei conti, addi' 20 ottobre 1978
 
-Registro n. 75 Istruzione, foglio n. 106
+Registro n. 112 Istruzione, foglio n. 338

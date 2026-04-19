@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1971 n. 1168
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1968 n. 162
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1971 n. 1168
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1968 n. 162
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
@@ -17,7 +17,7 @@ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regi
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -25,34 +25,18 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 47, relativo al corso di laurea in matematica e' modificato nel senso che il penultimo comma e' abrogato e sostituito dal seguente:  
-"L'esame di laurea comprende inoltre la discussione di due tesine orali. Prima dell'esame di laurea lo studente e' tenuto a superare un esame di cultura generale sulle scienze matematiche. Tale esame di cultura generale consta: per l'indirizzo didattico di una prova orale, per l'indirizzo applicativo di una prova di calcolo matematico e di una prova orale, per l'indirizzo generale di una prova scritta e di una prova orale.  
-Art. 49. - All'elenco degli insegnamenti complementari del corso di laurea in chimica, indirizzo inorganico-chimico-fisico, sono aggiunti i seguenti:  
-Chimica fisica applicata;  
-Chimica fisica delle superfici;  
-Chimica fisica dello stato solido;  
-Fotochimica.  
-Art. 50. - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di:  
-Algologia.  
-Nello stesso articolo il penultimo comma e' abrogato e sostituito dal seguente:  
-"L'esame dell'insegnamento biennale di "Botanica" e' suddiviso in due esami annuali distinti alla fine di ciascun anno; l'esame di "Zoologia" e' suddiviso in due esami annuali alla fine di ciascun anno".  
-Art. 52. - All'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche e' aggiunto quello di:  
-Cristallochimica.  
-Art. 53. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto quello di:  
-Algologia.  
-Nello stesso articolo il penultimo comma e' abrogato e sostituito dal seguente: "L'esame di botanica e' suddiviso in due esami distinti annuali alla fine di ciascun anno; l'esame di zoologia e' suddiviso in due esami annuali distinti alla fine di ciascun anno".  
+Art. 9. - All'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di: diritto processuale amministrativo.  
   
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 ottobre 1971
+### Dato a Roma, addi' 12 febbraio 1963
 
-SARAGAT MISASI
+SARAGAT GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 30 dicembre 1971
+Registrato alla Corte dei conti, addi' 7 marzo 1968
 
-Atti del Governo, registro n. 245, foglio n. 165. - VALENTINI
+Atti del Governo, registro n. 217, foglio n. 135. - GRECO

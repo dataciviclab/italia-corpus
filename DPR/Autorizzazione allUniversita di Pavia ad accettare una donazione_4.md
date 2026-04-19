@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1950 n. 1210
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1951 n. 977
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1950 n. 1210
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1951 n. 977
+=============================================================
 
 Autorizzazione all'Universita' di Pavia ad accettare una donazione.
 -------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1210. Decreto del Presidente della Repubblica 25 ottobre 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Pavia viene autorizzata ad accettare la donazione della somma di L. 312.000 nominali, in titoli di Rendita italiana 5%, e di L. 15.600, in contanti, disposta in suo favore dal prof.  
-Luigi Fasso', in nome e in rappresentanza del Comitato per le onoranze al prof. Bruno Castiglioni, con atto pubblico amministrativo in data 29 marzo 1950, per l'istituzione di una borsa di studio da intitolarsi al nome del "Prof. Bruno Castiglioni" e da conferirsi, ogni biennio, a uno studente o a un laureato dell'Universita' medesima, che attenda con attitudine e profitto a studi di geografia.  
+977. Decreto del Presidente della Repubblica 11 aprile 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Pavia viene autorizzata ad accettare la donazione della somma di L. 201.000 nominali, in titoli di rendita 5%, disposta in suo favore dal sig. Vincenzo D'Azzo, per l'istituzione di una borsa di studio da intitolarsi "Borsa di studio Alessandro D'Azzo" e da conferirsi ogni anno alternativamente, a studenti del corso di giurisprudenza e di lettere dell'Universita' medesima, di condizioni disagiate e di merito distinto.  
   
 Visto, il Guardasigilli: PICCIONI  
-Registrate alla Corte dei conti, addi' 16 febbraio 1951
+Registrato alla Corte dei conti, addi' 17 settembre 1951  
+Atti del Governo, registro n. 44, foglio n. 5. - CARLOMAGNO

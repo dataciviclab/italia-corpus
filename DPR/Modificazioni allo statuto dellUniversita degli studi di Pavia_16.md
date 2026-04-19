@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1967 n. 816
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 settembre 1962 n. 1471
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1967 n. 816
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 settembre 1962 n. 1471
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
@@ -12,11 +12,11 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successivi;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta le [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -25,26 +25,28 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 24. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di:  
   
-Organizzazione politica europea;  
-Diritto parlamentare.  
-Art. 42. - All'elenco degli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di:  
-22) Anestesiologia e rianimazione;  
-23) Urologia;  
-24) Tossicologia;  
-25) Storia della medicina.  
+Art. 24. - Agli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di:  
+10) Organizzazione internazionale.  
+All'art. 27, relativo agli Istituti annessi alla Facolta' di Scienze politiche e' aggiunto il seguente nuovo comma concernente l'istituzione dell'Istituto di Storia e istituzioni dei Paesi afro-asiatici:  
+Art. 27. - "Alla Facolta' e' annesso un Istituto di Storia e istituzioni dei Paesi afro-asiatici.  
+L'Istituto e' diretto dal professore titolare di Storia ed istituzioni dei Paesi afro-asiatici".  
+Art. 38. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di:  
+14) Genetica medica;  
+15) Semeiotica chirurgica.  
+Art. 50. - Alle propedeuticita' gia' esistenti per il corso di laurea in farmacia dopo il secondo comma e' aggiunto il seguente:  
+"L'esame di Chimica biologica non puo' essere sostenuto se prima non sia stato superato l'esame di Chimica organica".  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale dette leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 agosto 1967
+### Dato a Roma, addi' 4 settembre 1962
 
-SARAGAT GUI
+SEGNI GUI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 18 settembre 1967
+Registrato alla Corte dei conti, addi' 20 ottobre 1962
 
-Atti del Governo, registro n. 213, foglio n. 76. - GRECO
+Atti del Governo, registro n. 159, foglio n. 63. - VILLA

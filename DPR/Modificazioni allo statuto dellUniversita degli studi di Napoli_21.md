@@ -1,107 +1,75 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1984 n. 1050
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 gennaio 1956 n. 163
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1984 n. 1050
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 gennaio 1956 n. 163
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090), e modificato con [regio decreto 13 ottobre 1927, n. 2281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2281), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
-
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
+  
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regi decreti 20 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-20;1904); [4 maggio 1942, n. 557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-05-04;557); [5 settembre 1942, n. 1120 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-09-05;1120) [26 febbraio 1949, n. 612](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;612); [23 settembre 1949, n. 931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;931); [30 ottobre 1949, n. 1059](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1059); [5 aprile 1950, n. 284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-04-05;284); [30 ottobre 1950, n. 1277](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1277); [31 ottobre 1950, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1311); [18 aprile 1951, n. 934](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;934); [30 luglio 1951, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-07-30;1304); [27 ottobre 1951, n. 1680](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1680); [19 settembre 1952, n. 4551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-19;4551); [25 agosto 1953, n. 1117](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;1117); [26 aprile 1954, n. 738](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;738); [30 giugno 1954, n. 753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;753); luglio 1954, n. 865; 24 agosto 1954, n. 987; 14 settembre 1954, n. 1056; 29 ottobre 1954, n. 1458; 29 ottobre 1954, n. 1465; 4 febbraio 1955, n. 71; 16 febbraio 1955, n. 220; 2 agosto 1955, n. 897 e 20 settembre 1955, n. 939;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
   
 Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 1071 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in malattie infettive, profilassi e polizia veterinaria.  
+Dopo l'attuale art. 235, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della "Scuola di specializzazione in ispezione degli alimenti di origine annuale" con il conseguente spostamento della numerazione degli articoli successivi.  
   
-Scuola di specializzazione in malattie infettive, profilassi e polizia veterinaria  
-Art. 1072. - E' istituita presso l'Universita' di Napoli la scuola di specializzazione in malattie infettive, profilassi e polizia veterinaria.  
-Art. 1073. - La direzione della scuola ha sede presso l'istituto di patologia e profilassi delle malattie infettive degli animali domestici della facolta' di medicina veterinaria, in via F. Delpino, 1, Napoli.  
-Art. 1074. - La scuola ha lo scopo di approfondire e aggiornare la preparazione dei laureati in medicina veterinaria creando tecnici altamente qualificati.  
-Questi, avendo raggiunto una specifica competenza e un'adeguata preparazione in un settore nevralgico della medicina veterinaria saranno in grado di identificare con maggiore facilita' e probabilita' le malattie infettive e le pericolose antropoctenosi, di provvedere a una idonea profilassi e di applicare drasticamente le norme di polizia veterinaria, in modo da salvaguardare non solo la vita degli animali ma, indirettamente, anche quella dell'uomo svolgendo, in tal modo, importanti funzioni non solo di ordine zootecnico, ma anche di ordine sociale. Cio' anche in base alla "Riforma sanitaria" che prevede per l'infettivista un ruolo determinante e preponderante (compiti di istituto), per il quale e' richiesta una vasta e particolare cultura.  
-Art. 1075. - La durata del corso e' di anni due e non e' suscettibile di abbreviazione, per uniformita' con le altre scuole di specializzazione che si svolgono nella facolta' di medicina veterinaria dell'Universita' di Napoli.  
-Art. 1076. - Il numero degli iscritti e' di cinquanta per ogni anno e complessivamente di cento per l'intero corso di studio.  
-Art. 1077. - Alla scuola di specializzazione sono ammessi solo i laureati in medicina veterinaria che abbiano conseguito l'abilitazione all'esercizio professionale.  
-Art. 1078. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
-a) la tesi nella disciplina attinente alla specializzazione;  
-b) il voto di laurea;  
-c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
-d) le pubblicazioni nelle predette materie.  
-Il punteggio dei predetti e' quello stabilito dal decreto ministeriale 16 settembre 1982 (Gazzetta. Ufficiale n. 275 del 6 ottobre 1982).  
-Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
-Art. 1079. - Le materie d'insegnamento sono le seguenti:  
-1° Anno:  
-1) virologia veterinaria;  
-2) microbiologia generale veterinaria;  
-3) immunologia;  
-4) parassitologia veterinaria;  
-5) igiene generale.  
-2° Anno:  
-1) malattie infettive e profilassi (malattie da batteri, da micoplasmi e da rickettsie);  
-2) malattie infettive e profilassi (malattie da protozoi);  
-3) malattie infettive e profilassi (malattie da virus);  
-4) anatomia patologica delle malattie infettive;  
-5) polizia veterinaria;  
-6) chemioterapia.  
-Tutti gli insegnamenti afferiscono alla facolta' di medicina veterinaria dell'Universita' di Napoli.  
-Art. 1080. - La frequenza ai corsi e' obbligatoria.  
-Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
-Art. 1081. - Le attivita' pratiche riguarderanno esercitazioni di:  
-1) batteriologia;  
-2) virologia;  
-3) parassitologia;  
-4) immunuologia;  
-5) diagnostica di laboratorio.  
-La frequenza alle attivita' didattiche e pratiche e' obbligatoria, tuttavia lo specializzando per sostenere gli esami dovra' aver frequentato almeno i 3/4 delle lezioni teoriche e pratiche effettuate.  
-Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile sulla base di idonea documentazione l'attivita' svolta dallo specializzando presso gli istituti zooprofilattici, l'Istituto superiore di sanita', i laboratori veterinari militari e le strutture di servizio sociosanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.  
-Art. 1082. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.  
-A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.  
-Art. 1083. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
-Art. 1084. - Il consiglio, composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99), e' presieduto dal direttore.  
-Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.  
-La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+Scuola di specializzazione in ispezione  
+degli alimenti di origine animale  
+  
+Art. 236. - E' istituita presso la Facolta' di medicina veterinaria una Scuola di specializzazione in ispezione degli alimenti di origine animale, la quale ha lo scopo di approfondire ed aggiornare la preparazione dei laureati in medicina veterinaria, che dovranno assolvere le complesse funzioni della direzione dei pubblici macelli, e di conferire il diploma di specialista a forma dell'[art. 178 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art178).  
+Art. 237. - La Scuola di specializzazione in ispezione degli alimenti di origine animale ha la durata di due anni e puo' essere frequentata solo da laureati in medicina veterinaria.  
+L'internato si svolge in un Istituto designato dal direttore della Scuola.  
+Art. 238. - Gli insegnamenti impartiti nella Scuola sono i seguenti:  
+1° anno:  
+1) Anatomia;  
+2) Fisiopatologia;  
+3) Approvvigionamento e conservazione degli alimenti di origine animale;  
+4) Anatomia patologica;  
+5) Legislazione sanitaria;  
+6) Microbiologia generale;  
+7) Valore alimentare delle carni di diversa origine;  
+2° anno:  
+1) Malattie infettive ed infestive;  
+2) Metodologia clinica applicata agli animali da macello e produttori del latte;  
+3) Ispezione sanitaria delle carni fresche e conservate, dei vari prodotti elaborati, dall'industria delle carni, dei prodotti della pesca, di quelli del latte (latticini ed altri prodotti dell'industria lattifera), delle carni di animale da cortile e della cacciagione (pollame, lepri, conigli, ecc.);  
+4) Microbiologia e diagnostica di laboratorio.  
+Art. 239. - Gli insegnamenti avranno indirizzo teorico-pratico nella prevalente forma di esercitazioni ispettive e verteranno su argomenti di particolare interesse per l'ispettore degli alimenti.  
+Essi saranno integrati da dimostrazioni pratiche sia presso la Facolta', sia presso stabilimenti di lavorazione prescelti dal Consiglio direttivo della Scuola.  
+Alla fine del 1° e 2° anno i candidati dovranno sostenere un esame teorico-pratico sul programma svolto in ciascun insegnamento.  
+Art. 240. - Per essere ammesso all'esame di diploma di specializzazione, che vertera' sulla discussione di una dissertazione scritta su argomenti di una delle materie svolte, l'iscritto dovra' aver frequentato i corsi e le esercitazioni pratiche, aver superata una prova sperimentale, nonche' gli esami delle singole materie teoriche relative alla Scuola di specializzazione.  
+Art. 211. - Il direttore della Scuola e' il professore di ruolo dell'insegnamento di ispezione degli alimenti di origine animale o di anatomia patologica; in mancanza di questi il Consiglio di facolta' lo designera' tra i propri membri.  
+Gli insegnanti della Scuola sono scelti dal Consiglio di facolta', su proposta del direttore, tra i professori di ruolo, tra i liberi docenti, tra gli aiuti ed assistenti, nonche' tra le persone di riconosciuta competenza nella specialita'. Il Consiglio direttivo della Scuola e' composto dai docenti chiamati a svolgere gli insegnamenti prescritti ed e' presieduto dal direttore. Questi stabilisce l'ordinamento e l'indirizzo degli studi nonche' il numero delle lezioni per ogni singolo insegnamento.  
+Art. 242. - La Commissione per gli esami di profitto e' composta dal professore della materia, dal direttore della Scuola e da un docente del corso medesimo. La Commissione di diploma, presieduta dal direttore della, Scuola e' costituita da sette membri scelti fra gli insegnanti della Scuola medesima.  
+Art. 243. - Il Consiglio della scuola stabilira' annualmente se i corsi dovranno effettuarsi qualora gli iscritti non raggiungano il numero prestabilito; come pure scegliera' con giudizio insindacabile gli allievi nel caso che il numero delle domande superi quello prefissato.  
+Art. 244. - Gli iscritti alla Scuola di specializzazione sono tenuti a pagare la tassa di iscrizione, le tasse e soprattasse di esame, la tassa di diploma, nonche' i contributi vari, secondo quanto stabilito per gli studenti della Facolta' di medicina veterinaria.  
+Inoltre gli iscritti dovranno versare un contributo di laboratorio, previsto dall'[art. 11 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art11).  
+Art. 248 (gia' 169). - Dopo il secondo comma e' aggiunto il seguente:  
+"E' inoltre concessa l'abbreviazione di un solo anno di corso, tuttavia con obbligo di frequenza e di esami, agli studiosi gia' specializzati in materie affini o fondamentali, dietro decisione della Facolta' che valutera' caso per caso, motivando tale abbreviazione in base a un giudizio di affinita' tra la specializzazione precedentemente conseguita e quella da conseguirsi".  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della, Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1984
+### Dato a Roma, addi' 30 gennaio 1956
 
-PERTINI
+GRONCHI ROSSI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: MORO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 26 marzo 1956
 
-Registrato alla Corte dei conti, addi' 31 gennaio 1985
-
-Registro n. 7 Istruzione, foglio n. 30
+Atti del Governo, registro n. 96, foglio n. 174. - CARLOMAGNO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 febbraio 1965 n. 172
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 gennaio 1982 n. 95
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 febbraio 1965 n. 172
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 gennaio 1982 n. 95
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
@@ -10,188 +10,85 @@ Modificazioni allo statuto dell'Universita' degli studi di Messina.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923) e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita', anzidetta;
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto l'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Decreta:
+Sentito il parere del Consiglio universitario nazionale;
 
-Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali, a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Art. 48. - All'elenco degli Istituti annessi alla Facolta' di medicina, e chirurgia, sono aggiunti quelli di: "Neuropsichiatria infantile" e di "Tisiologia".
+Sulla
+-----
 
-Dopo l'art. 141 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi all'istituzione della Scuola di specializzazione in Neuropsichiatria infantile.
+proposta del Ministro per la pubblica istruzione; Decreta:
 
-Scuola di specializzazione in Neuropsichiatria infantile
+Articolo unico
+--------------
 
-Art. 142. - La Scuola ha sede presso la cattedra di Neuropsichiatria infantile ed e' retta secondo le norme del regolamento generale per le scuole di specializzazione contenute nel presente statuto.
-
-Art. 143. - Titolo necessario per l'ammissione alla Scuola di specializzazione in Neuropsichiatria infantile e' la laurea in Medicina e chirurgia.
-
-Art. 144. - Il corso di studi ha la durata di quattro. Il numero degli iscritti per ogni anno del corso non potra' essere superiore a quindici.
-
-Art. 145. - Le materie d'insegnamento sono:
-
-1° Anno:
-
-Anatomia e fisiologia dell'eta' evolutiva. Embriologia e anatomia del sistema, nervoso. Fisiologia del sistema nervoso.
-
-Genetica e scienza delle costituzioni. Endocrinologia dell'eta' evolutiva. Semeiotica pediatrica. Clinica pediatrica. Tecniche di laboratorio.
-
-2° Anno:
-
-Psicologia genetico-dinamica. Anatomia patologica del sistema nervoso. Neuro-chimica patologica. Neurofisiopatologia dell'eta' evolutiva. Psicopatologia generale. Semeiotica neurologica.
-
-Semeiotica psichiatrica. Clinica neuropsichiatrica generale.
-
-3° anno:
-
-Psicopatologia dell'eta' evolutiva. Semeiotica neurologica dell'eta' evolutiva. Semeiotica psichiatrica dell'eta' evolutiva.
-
-Clinica, neurologica, dell'eta' evolutiva. Clinica psichiatrica dell'eta' evolutiva. Tecniche psico-diagnostiche. Neuroradiologia dell'eta' evolutiva. Elettroencefalografia, elettromiografia, elettrodiagnostica. Neurochirurgia dell'eta' evolutiva.
-
-4° Anno
-
-Clinica psichiatrica dell'eta' evolutiva. Igiene e profilassi mentale dell'eta' evolutiva. Terapia delle malattie nervose dell'eta' evolutiva. Terapia delle malattie mentali dell'eta' evolutiva.
-
-Psicoterapia dell'eta' evolutiva. Ortopedagogia. Foniatria.
-
-Sociologia di gruppo. Criminologia. Organizzazione diagnostico-assistenziale; strutture e loro funzionamento.
-
-Legislazione minorile.
-
-Art. 146. - Per ottenere l'ammissione al II, III e IV anno di specializzazione, gli iscritti dovranno aver sostenuto gli esami delle materie prescritte per l'anno precedente, tranne che per la Clinica psichiatrica dell'eta' evolutiva, biennale, il cui esame va sostenuto al quarto anno.
-
-Art. 147. - Gli specialisti in Pediatria sono iscritti d'ufficio al secondo anno della Scuola e sono esentati dal superare i seguenti esami di profitto:
-
-1) Anatomia e fisiologia dell'eta' evolutiva;
-
-2) Genetica e scienza delle costituzioni;
-
-3) Endocrinologia dell'eta' evolutiva;
-
-4) Semeiotica e clinica pediatrica;
-
-5) Tecniche di laboratorio.
-
-Art. 148. - Gli specialisti in Clinica delle malattie nervose e mentali vengono iscritti d'ufficio al secondo anno della scuola e sono esentati dal superare i seguenti esami di profitto:
-
-1) Anatomia del sistema nervoso;
-
-2) Fisiologia del sistema nervoso;
-
-3) Anatomia patologica del sistema nervoso;
-
-4) Psicopatologia generale;
-
-5) Semiotica neurologica e psichiatrica;
-
-6) Clinica neuropsichiatrica generale;
-
-I corsi d'insegnamento si uniformeranno al calendario dell'Universita', e per quanto riguarda invece le esercitazioni e i servizi interni l'attivita' della Scuola si estendera' all'intero anno accademico.
-
-Art. 149. Per conseguire il diploma, di specialista in Neuropsichiatria infantile, gli iscritti, al termine degli esami, dovranno presentare una dissertazione scritta su un argomento di Neuropsichiatria infantile.
-
-Art. 150. - L'ordine degli studi (distribuzione degli insegnamenti nei diversi anni del corso), l'ordine e le modalita' degli esami verranno stabiliti nel manifesto annuale.
-
-Art. 151. - A coloro che avranno superato l'esame di diploma, verra' rilasciato il diploma di specialista in Neuropsichiatria infantile".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 27 febbraio 1965
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 23 marzo 1965 Atti del Governo, registro n. 191, foglio n. 111. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita', anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Lo statuto dell'Universita' di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 125 e 126 relativi alla scuola di specializzazione in malattie infettive sono sostituiti dai seguenti:  
   
-Decreta:  
+Scuola di specializzazione in malattie infettive  
   
-Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 48. - All'elenco degli Istituti annessi alla Facolta' di medicina, e chirurgia, sono aggiunti quelli di: "Neuropsichiatria infantile" e di "Tisiologia".  
-Dopo l'art. 141 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi all'istituzione della Scuola di specializzazione in Neuropsichiatria infantile.  
-  
-Scuola di specializzazione in Neuropsichiatria infantile  
-  
-Art. 142. - La Scuola ha sede presso la cattedra di Neuropsichiatria infantile ed e' retta secondo le norme del regolamento generale per le scuole di specializzazione contenute nel presente statuto.  
-Art. 143. - Titolo necessario per l'ammissione alla Scuola di specializzazione in Neuropsichiatria infantile e' la laurea in Medicina e chirurgia.  
-Art. 144. - Il corso di studi ha la durata di quattro. Il numero degli iscritti per ogni anno del corso non potra' essere superiore a quindici.  
-Art. 145. - Le materie d'insegnamento sono:  
+Art. 125. - La scuola di specializzazione in malattie infettive ha sede presso la clinica delle malattie infettive e conferisce il diploma di specialista in malattie infettive.  
+Art. 126. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.  
+Art. 127. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
+Art. 128. - La durata del corso e' di quattro anni e non e' suscettibile di abbreviazione.  
+Art. 129. - Il numero massimo degli allievi e' di cinque per anno di corso, e complessivamente di venti per l'intero corso di studi.  
+Art. 130. - L'ammissione al corso avviene per titoli e per esami.  
+Art. 131. - Le materie di insegnamento sono le seguenti:  
 1° Anno:  
-Anatomia e fisiologia dell'eta' evolutiva. Embriologia e anatomia del sistema, nervoso. Fisiologia del sistema nervoso.  
-Genetica e scienza delle costituzioni. Endocrinologia dell'eta' evolutiva. Semeiotica pediatrica. Clinica pediatrica. Tecniche di laboratorio.  
+epidemiologia generale delle malattie infettive;  
+batteriologia e micologia;  
+virologia;  
+parassitologia;  
+immunologia generale.  
 2° Anno:  
-Psicologia genetico-dinamica. Anatomia patologica del sistema nervoso. Neuro-chimica patologica. Neurofisiopatologia dell'eta' evolutiva. Psicopatologia generale. Semeiotica neurologica.  
-Semeiotica psichiatrica. Clinica neuropsichiatrica generale.  
-3° anno:  
-Psicopatologia dell'eta' evolutiva. Semeiotica neurologica dell'eta' evolutiva. Semeiotica psichiatrica dell'eta' evolutiva.  
-Clinica, neurologica, dell'eta' evolutiva. Clinica psichiatrica dell'eta' evolutiva. Tecniche psico-diagnostiche. Neuroradiologia dell'eta' evolutiva. Elettroencefalografia, elettromiografia, elettrodiagnostica. Neurochirurgia dell'eta' evolutiva.  
-4° Anno  
-Clinica psichiatrica dell'eta' evolutiva. Igiene e profilassi mentale dell'eta' evolutiva. Terapia delle malattie nervose dell'eta' evolutiva. Terapia delle malattie mentali dell'eta' evolutiva.  
-Psicoterapia dell'eta' evolutiva. Ortopedagogia. Foniatria.  
-Sociologia di gruppo. Criminologia. Organizzazione diagnostico-assistenziale; strutture e loro funzionamento.  
-Legislazione minorile.  
-Art. 146. - Per ottenere l'ammissione al II, III e IV anno di specializzazione, gli iscritti dovranno aver sostenuto gli esami delle materie prescritte per l'anno precedente, tranne che per la Clinica psichiatrica dell'eta' evolutiva, biennale, il cui esame va sostenuto al quarto anno.  
-Art. 147. - Gli specialisti in Pediatria sono iscritti d'ufficio al secondo anno della Scuola e sono esentati dal superare i seguenti esami di profitto:  
-1) Anatomia e fisiologia dell'eta' evolutiva;  
-2) Genetica e scienza delle costituzioni;  
-3) Endocrinologia dell'eta' evolutiva;  
-4) Semeiotica e clinica pediatrica;  
-5) Tecniche di laboratorio.  
-Art. 148. - Gli specialisti in Clinica delle malattie nervose e mentali vengono iscritti d'ufficio al secondo anno della scuola e sono esentati dal superare i seguenti esami di profitto:  
-1) Anatomia del sistema nervoso;  
-2) Fisiologia del sistema nervoso;  
-3) Anatomia patologica del sistema nervoso;  
-4) Psicopatologia generale;  
-5) Semiotica neurologica e psichiatrica;  
-6) Clinica neuropsichiatrica generale;  
-I corsi d'insegnamento si uniformeranno al calendario dell'Universita', e per quanto riguarda invece le esercitazioni e i servizi interni l'attivita' della Scuola si estendera' all'intero anno accademico.  
-Art. 149. Per conseguire il diploma, di specialista in Neuropsichiatria infantile, gli iscritti, al termine degli esami, dovranno presentare una dissertazione scritta su un argomento di Neuropsichiatria infantile.  
-Art. 150. - L'ordine degli studi (distribuzione degli insegnamenti nei diversi anni del corso), l'ordine e le modalita' degli esami verranno stabiliti nel manifesto annuale.  
-Art. 151. - A coloro che avranno superato l'esame di diploma, verra' rilasciato il diploma di specialista in Neuropsichiatria infantile".  
+tecniche batteriologiche e micologiche applicate alle malattie infettive;  
+tecniche virologiche applicate alle malattie infettive;  
+tecniche parassitologiche applicate alle malattie infettive;  
+tecniche immunologiche applicate alle malattie infettive;  
+anatomia patologica;  
+genetica.  
+3° Anno:  
+clinica delle malattie infettive (1° anno);  
+diagnostica e semeiotica delle malattie infettive;  
+radiologia;  
+medicina preventiva delle malattie infettive.  
+4° Anno:  
+clinica delle malattie infettive (2° anno);  
+malattie tropicali;  
+legislazione sanitaria delle malattie infettive;  
+farmacologia e terapia delle malattie infettive.  
+Art. 132. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.  
+Art. 133. - Al termine di ciascun corso gli allievi sono tenuti a sostenere gli esami del rispettivo anno.  
+Art. 134. - Al termine del corso di studi, gli specializzandi dovranno superare un esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specialita'.  
+Art. 135. - Alla fine del corso agli interessati verra' rilasciato il diploma di specialista in malattie infettive.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 febbraio 1965
+### Dato a Roma, addi' 6 gennaio 1982
 
-SARAGAT GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 23 marzo 1965
+Registrato alla Corte dei conti, addi' 10 marzo 1982
 
-Atti del Governo, registro n. 191, foglio n. 111. - VILLA
+Registro n. 38 Istruzione, foglio n. 257

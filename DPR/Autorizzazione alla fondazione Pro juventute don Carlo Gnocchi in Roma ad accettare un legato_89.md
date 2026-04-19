@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 728
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 572
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 728
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 572
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-728. Decreto del Presidente della Repubblica 5 settembre 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un appartamento con cantina sito in Milano, via Vittadini n. 25, censito al nuovo catasto edilizio urbano alla partita 33026, foglio 527, mappale 82 sub 2, del valore attribuito di L. 20.500.000 e in beni mobili del valore attribuito di L. 972.500, disposto dalla sig.na Giovanna Morandi con testamento olografo 27 novembre 1969, pubblicato il 5 gennaio 1978, n. 46546 di repertorio e n. 13700 progr., a rogito dott. Enrico Masini, notaio in Milano, registrato a Milano il 13 gennaio 1978, n. 780, serie N.  
+572. Decreto del Presidente della Repubblica 16 luglio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di lire 20.000.000, disposto dalla sig.ra Ponta Giustina Rosita a favore dell'opera "Don Gnocchi" che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale 16 gennaio 1984 del consiglio di amministrazione della fondazione stessa, con testamento pubblico 9 novembre 1982, redatto a rogito dott. Massimo Di Paolo, notaio in Genova, e dallo stesso pubblicato in data 2 marzo 1983 n. 1449 d'ordine e n. 9750 di repertorio, registrato a Genova il 14 marzo 1983 al n. 5223.   
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 27 ottobre 1980  
-Registro n. 8 Presidenza, foglio n. 202
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 11 ottobre 1985   
+Registro n. 9 Presidenza, foglio n. 77

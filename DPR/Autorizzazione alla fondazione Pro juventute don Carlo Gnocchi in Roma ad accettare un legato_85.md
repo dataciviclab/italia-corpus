@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 dicembre 1982 n. 1120
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 giugno 1985 n. 467
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 dicembre 1982 n. 1120
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 giugno 1985 n. 467
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1120. Decreto del Presidente della Repubblica 16 dicembre 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in titoli e saldo di libretti di conto corrente al portatore per un valore, al netto delle passivita', di L. 97.014.900, quota 1/4 - L. 24.253.725, disposto dalla sig.na De Martini Giovanna Maria a favore dei mutilatini di don Gnocchi con testamento olografo del 10 aprile 1980, pubblicato in data 19 gennaio 1981, n. 10221 di repertorio e n. 3365 di raccolta, a rogito dott. Morandi Vittorio, notaio in Alessandria, registrato ad Alessandria in data 6 febbraio 1981, al n. 549.  
+467. Decreto del Presidente della Repubblica 17 giugno 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella quota di meta' dei titoli Fundus depositati presso la S.A.I., valore complessivo L. 25.252.900 - quota 1/2 = L. 12.626.450, disposto dal sig. Fissore Antonio a favore dell'istituto "Don Gnocchi (mutilatini)", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale 24 novembre 1979 del consiglio di amministrazione della fondazione stessa, con testamento olografo 6 novembre 1978, pubblicato in data 11 dicembre 1978, n. 67641 di repertorio e numero 41556 di raccolta, a rogito dott. Alberto Occelli, coadiutore temporaneo del dott. Giovanni Battista Picco, notaio in Torino, registrato a Torino il 15 dicembre 1978 al n. 51765.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 18 febbraio 1983  
-Registro n. 2 Presidenza, foglio n. 65
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 2 settembre 1985  
+Registro n. 8 Presidenza, foglio n. 157

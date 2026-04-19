@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 787
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 1037
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 787
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 1037
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
@@ -10,104 +10,244 @@ Modificazioni allo statuto dell'Universita' degli studi di Messina.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 1 ottobre 1936, numero 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923) e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il regio decreto 30 settembre 1938, n; 1652, e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
 Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+L'art. 98, relativo alla scuola di specializzazione in malattie infettive, tropicali e sub-tropicali che muta la denominazione in quella di "Scuola di specializzazione in malattie infettive" e' abrogato e sostituito dal seguente:
 
+Scuola di specializzazione in malattie infettive
+
+Art. 98. - La scuola ha la durata di tre anni.
+
+Le materie di insegnamento sono:
+
+1° Anno:
+
+1) Epidemiologia generale delle malattie infettive;
+
+2) Batteriologia, virologia, parassitologia, immunologia;
+
+3) Tecnica batteriologica, virologica, parassitologica, immunologia applicata alle malattie infettive (1° anno).
+
+2° Anno:
+
+1) Patologia e clinica delle malattie infettive (1° anno);
+
+2) Semeiotica e diagnostica delle malattie infettive;
+
+3) Anatomia patologica delle malattie infettive;
+
+4) Tecnica batteriologica, virologica, parassitologica, immunologica (2° anno).
+
+3° Anno:
+
+1) Patologia e clinica delle malattie infettive (2° anno);
+
+2) Malattie tropicali e sub-tropicali;
+
+3) Farmacologia e terapia generale delle malattie infettive;
+
+4) Legislazione sanitaria e malattie infettive.
+
+Per gli esami si propone:
+
+1° anno: un esame sulle discipline di cui ai numeri 1) e 2).
+
+2° anno: un esame sulle discipline di cui ai numeri 2), 3) e 4). 3° anno: un esame relativo alle discipline di cui ai numeri 1) e 2), un esame relativo alle discipline di cui ai numeri 3) e 4).
+
+Esame di diploma.
+
+Il numero complessivo degli iscritti e' di trentasei (36).
+
+Dopo l'art. 141 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in neurochirurgia.
+
+Scuola di specializzazione in neurochirurgia
+
+Art. 142. - Piano di studi:
+
+1° Anno:
+
+Neuroanatomia;
+
+Neurofisiologia;
+
+Semeiotica e clinica neurologica;
+
+Elementi di psichiatria;
+
+Clinica neurochirurgica (quadriennale).
+
+2° Anno:
+
+Neuro oftalmologia;
+
+Neuro otoiatria;
+
+Elettroencefalografia ed elettromiografia;
+
+Clinica neurochirurgica (quadriennale).
+
+3° Anno:
+
+Anestesiologia;
+
+Neuropatologia;
+
+Neuroradiologia (biennale);
+
+Clinica neurochirurgica (quadriennale).
+
+4° Anno:
+
+Tecniche operatorie;
+
+Neuroradiologia (biennale);
+
+Neurotraumatologia;
+
+Neurochirurgia stereotassica;
+
+Neurochirurgia infantile;
+
+Neurochirurgia spinale;
+
+Clinica neurochirurgica (quadriennale).
+
+Art. 143. - La frequenza alla scuola e' obbligatoria durante l'anno accademico.
+
+Su concessione del direttore della scuola puo' essere previsto l'esonero dalla frequenza solo per gli specializzandi che prestino regolare ed attivo servizio in una clinica neurochirurgica di una universita', in un reparto o divisione neurochirurgica di ospedali di 1° categoria.
+
+Anche in caso delle suddette eccezioni dovrebbe esservi pero' l'obbligo di frequenza di almeno un mese, affinche' gli allievi possano fruire di un corso di lezioni teoriche su argomenti fra i piu' importanti.
+
+Il numero degli iscritti e' stabilito in quattordici per i 4 anni di corso.
+
+Per l'iscrizione alla scuola di specializzazione e' preferibile che il candidato abbia precedentemente frequentato attivamente per uno o piu' anni un istituto di patologia chirurgica o di clinica chirurgica affinche' esistano le premesse, ovviamente necessarie, di una preparazione chirurgia generale.
+
+Non sono previste abbreviazioni di corso per qualsiasi motivo.
+
+Alla fine di ogni corso gli specializzandi devono sostenere gli esami per singole materia. Il superamento di tali esami consentira' l'ammissione al corso successivo.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 22 settembre 1972
+
+LEONE
+
+SCALFARO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 23 febbraio 1973 Atti di Governo, registro n. 256, foglio n. 34. - VALENTINI
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Gli articoli 187, 188 e 189, relativi alla scuola di specializzazione in biochimica e chimica clinica, sono soppressi e sostituiti dai seguenti con il conseguente spostamento della numerazione degli articoli successivi.  
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il regio decreto 30 settembre 1938, n; 1652, e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Scuola di specializzazione in biochimica e chimica clinica  
+Decreta:  
   
-Art. 187. - E' istituita presso l'Universita' di Messina la scuola di specializzazione in biochimica e chimica clinica che conferisce il diploma di specialista in biochimica e chimica clinica ad indirizzo diagnostico.  
-Art. 188. - La direzione della scuola ha sede presso l'istituto di chimica biologica della facolta' di medicina e chirurgia.  
-Art. 189. - La scuola ha lo scopo di poter offrire una migliore qualificazione scientifica professionale ai laureati in medicina che intendono dedicarsi alle discipline biochimiche con indirizzo diagnostico di laboratorio.  
-Art. 190. - La durata del corso e' di quattro anni e non e' suscettibile di abbreviazioni.  
-Art. 191. - Il numero degli iscritti e' di quindici per ogni anno e complessivamente di sessanta per l'intero corso di studi.  
-Art. 192. - Alla scuola sono ammessi solo i laureati in medicina e chirurgia forniti di abilitazione all'esercizio professionale.  
-Art. 193. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
-a) la tesi nella disciplina attinente alla specializzazione;  
-b) il voto di laurea;  
-c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
-d) le pubblicazioni nelle predette materie.  
-Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale 16 settembre 1982.  
-Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
-Art. 194. - Le materie di insegnamento sono le seguenti:  
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+L'art. 98, relativo alla scuola di specializzazione in malattie infettive, tropicali e sub-tropicali che muta la denominazione in quella di "Scuola di specializzazione in malattie infettive" e' abrogato e sostituito dal seguente:  
+  
+Scuola di specializzazione in malattie infettive  
+  
+Art. 98. - La scuola ha la durata di tre anni.  
+Le materie di insegnamento sono:  
 1° Anno:  
-biochimica generale;  
-biologia molecolare;  
-biometria statistica sanitaria;  
-biochimica analitica I con esercitazioni;  
-tecnica dei prelevamenti.  
+1) Epidemiologia generale delle malattie infettive;  
+2) Batteriologia, virologia, parassitologia, immunologia;  
+3) Tecnica batteriologica, virologica, parassitologica, immunologia applicata alle malattie infettive (1° anno).  
 2° Anno:  
-biochimica dinamica;  
-biochimica patologica;  
-chimica clinica;  
-elementi di ematologia;  
-diagnostica elementi di microbiologia;  
-diagnostica biochimica analitica II con esercitazioni.  
+1) Patologia e clinica delle malattie infettive (1° anno);  
+2) Semeiotica e diagnostica delle malattie infettive;  
+3) Anatomia patologica delle malattie infettive;  
+4) Tecnica batteriologica, virologica, parassitologica, immunologica (2° anno).  
 3° Anno:  
-biochimica ormonale;  
-biochimica della riproduzione e dello sviluppo;  
-immunologia diagnostica;  
-enzimologia clinica;  
-organizzazione, gestione, automazione di laboratorio.  
+1) Patologia e clinica delle malattie infettive (2° anno);  
+2) Malattie tropicali e sub-tropicali;  
+3) Farmacologia e terapia generale delle malattie infettive;  
+4) Legislazione sanitaria e malattie infettive.  
+Per gli esami si propone:  
+1° anno: un esame sulle discipline di cui ai numeri 1) e 2).  
+2° anno: un esame sulle discipline di cui ai numeri 2), 3) e 4). 3° anno: un esame relativo alle discipline di cui ai numeri 1) e 2), un esame relativo alle discipline di cui ai numeri 3) e 4).  
+Esame di diploma.  
+Il numero complessivo degli iscritti e' di trentasei (36).  
+Dopo l'art. 141 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in neurochirurgia.  
+  
+Scuola di specializzazione in neurochirurgia  
+  
+Art. 142. - Piano di studi:  
+1° Anno:  
+Neuroanatomia;  
+Neurofisiologia;  
+Semeiotica e clinica neurologica;  
+Elementi di psichiatria;  
+Clinica neurochirurgica (quadriennale).  
+2° Anno:  
+Neuro oftalmologia;  
+Neuro otoiatria;  
+Elettroencefalografia ed elettromiografia;  
+Clinica neurochirurgica (quadriennale).  
+3° Anno:  
+Anestesiologia;  
+Neuropatologia;  
+Neuroradiologia (biennale);  
+Clinica neurochirurgica (quadriennale).  
 4° Anno:  
-biochimica dei tessuti e degli organi;  
-biochimica farmacologica e farmacocinetica;  
-tossicologia;  
-informatica medica;  
-elementi di istologia patologica;  
-elementi di legislazione sanitaria.  
-Gli insegnamenti suddetti afferiscono tutti alla facolta' di medicina e chirurgia.  
-Art. 195. - La frequenza ai corsi e' obbligatoria. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno in corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno in corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
-Art. 196. - Le attivita' pratiche consistono in esercitazioni di biochimica analitica per il 1° e 2° anno, esercitazioni di chimica clinica ed elementi di ematologia diagnostica per il 2° anno, in tecniche dei prelevamenti per il 1° anno, esercitazioni di immunologia diagnostica ed enzimologia clinica per il 3° anno ed esercitazioni di biochimica farmacologica e farmacocinetica, tossicologia ed elementi di istologia patologica per il 4° anno.  
-La frequenza e' giornaliera. La didattica viene svolta nelle ore antimeridiane e le esercitazioni nelle ore pomeridiane.  
-Per sostenere gli esami lo specializzando dovra' aver frequentato almeno il 70% delle lezioni e delle esercitazioni pratiche.  
-Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.  
-Art. 197. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola di specializzazione di biochimica e chimica clinica si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.  
-A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.  
-Art. 198. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
-Art. 199. - Per la scuola di specializzazione in biochimica e chimica clinica, e' costituito il relativo consiglio presieduto dal direttore.  
-Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99). Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.  
-La direzione della scuola e' affidata a professore ordinario o straordinario che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+Tecniche operatorie;  
+Neuroradiologia (biennale);  
+Neurotraumatologia;  
+Neurochirurgia stereotassica;  
+Neurochirurgia infantile;  
+Neurochirurgia spinale;  
+Clinica neurochirurgica (quadriennale).  
+Art. 143. - La frequenza alla scuola e' obbligatoria durante l'anno accademico.  
+Su concessione del direttore della scuola puo' essere previsto l'esonero dalla frequenza solo per gli specializzandi che prestino regolare ed attivo servizio in una clinica neurochirurgica di una universita', in un reparto o divisione neurochirurgica di ospedali di 1° categoria.  
+Anche in caso delle suddette eccezioni dovrebbe esservi pero' l'obbligo di frequenza di almeno un mese, affinche' gli allievi possano fruire di un corso di lezioni teoriche su argomenti fra i piu' importanti.  
+Il numero degli iscritti e' stabilito in quattordici per i 4 anni di corso.  
+Per l'iscrizione alla scuola di specializzazione e' preferibile che il candidato abbia precedentemente frequentato attivamente per uno o piu' anni un istituto di patologia chirurgica o di clinica chirurgica affinche' esistano le premesse, ovviamente necessarie, di una preparazione chirurgia generale.  
+Non sono previste abbreviazioni di corso per qualsiasi motivo.  
+Alla fine di ogni corso gli specializzandi devono sostenere gli esami per singole materia. Il superamento di tali esami consentira' l'ammissione al corso successivo.  
   
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1983
+### Dato a Roma, addi' 22 settembre 1972
 
-PERTINI FALCUCCI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 27 dicembre 1983
+Registrato alla Corte dei conti, addi' 23 febbraio 1973
 
-Registro n. 80 Istruzione, foglio n. 21
+Atti di Governo, registro n. 256, foglio n. 34. - VALENTINI

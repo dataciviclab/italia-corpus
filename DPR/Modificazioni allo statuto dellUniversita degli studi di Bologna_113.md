@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1976 n. 564
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1974 n. 718
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1976 n. 564
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1974 n. 718
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -12,126 +12,87 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+L'art. 85, relativo al corso di laurea in storia, e' modificato nel senso che il secondo comma e' soppresso e sostituito dal seguente:  
+"Il corso di studi si distingue nei seguenti indirizzi:  
+A) Antico;  
+B) Medioevale;  
+C) Moderno;  
+D) Orientale;  
+E) Contemporaneo".  
+Nello stesso art. 85, dopo l'elenco degli insegnamenti nell'indirizzo orientale, sono aggiunti i seguenti insegnamenti relativi all'indirizzo contemporaneo:  
+E) Indirizzo contemporaneo:  
   
-Gli articoli 564, 565, 566, 567, 568, relativi alla " Scuola di perfezionamento in fisiochinesiterapia ortopedica" che cambia la denominazione in quella di "Scuola di specializzazione in terapia fisica e riabilitazione" sono abrogati e sostituiti dai seguenti:  
+Sono insegnamenti fondamentali:  
+Storia del Risorgimento;  
+Storia contemporanea;  
+Storia d'Italia nel secolo XX;  
+Metodologie sociologiche;  
+Filosofia della scienza;  
+Geografia politica;  
+Geografia economica;  
+Cinematica dei fatti economici e sociali;  
+Storia della filosofia contemporanea;  
+Storia delle innovazioni tecnologiche;  
+Letteratura italiana contemporanea.  
   
-Scuola di specializzazione in terapia fisica e riabilitazione  
-  
-Art. 564. - Presso la clinica ortopedica dell'Universita' di Bologna e' istituita una scuola di specializzazione in terapia fisica e riabilitazione che conferisce il diploma di specialista in terapia fisica e riabilitazione.  
-Il direttore della scuola e' il direttore della clinica ortopedica.  
-I docenti del corso saranno scelti fra i professori della facolta' di medicina e chirurgia su designazione della facolta' stessa.  
-Art. 565. - Alla scuola sono ammessi i laureati in medicina e chirurgia.  
-Essa ha indirizzo teorico-pratico con lo scopo di specializzare nella terapia fisica e riabilitazione funzionale e professionale di tutti i motu e neurolesi.  
-L'ammissione alla scuola avviene attraverso concorso interno con esami ed eventuali prove pratiche.  
-Il numero degli ammessi non puo' superare i quindici per ogni anno di corso (per complessivi quarantacinque specializzandi).  
-Art. 566. - La durata del corso e' di tre anni.  
-Gli iscritti hanno l'obbligo di una frequenza continuata ed ininterrotta.  
-Il corso sara' integrato da lezioni, esercitazioni, dimostrazioni su malati, apparecchi fisiochinesiterapici ed ortopedici.  
-Art. 567. - Le materie di insegnamento sono cosi' suddivise:  
-  
-1° Anno:  
-principi di anatomia funzionale (propedeutico per tutte le materie di base degli anni successivi e per quelle facoltative);  
-fisiopatologia dell'apparato neuro-motore (come sopra).  
-  
-2° Anno:  
-semeiotica e clinica delle motulesioni neurologiche (propedeutico per le materie d'insegnamento di base del terzo anno);  
-semeiotica e clinica delle deformita' e motulesioni ortopediche (come sopra);  
-elettromiografia;  
-massoterapia e terapia manuale;  
-cinesiologia e cinesiterapia e ginnastica medica;  
-climatoterapia;  
-idroterapia e balneoterapia.  
-  
-3° Anno:  
-elettroterapia ed elettrologia;  
-terapia con onde corte ed altri mezzi fisici;  
-rieducazione respiratoria;  
-rieducazione motoria e riabilitazione in campo ortopedico e traumatologico;  
-problemi di riabilitazione geriatrica;  
-rieducazione motoria e riabilitazione in campo neurologico;  
-riqualificazione professionale;  
-medicina professionale;  
-medicina assicurativa;  
-problemi psicologici e psicopatologici della riabilitazione.  
-  
-Art. 568. - Alla fine del primo anno gli iscritti dovranno sostenere un esame di profitto nel gruppo di materie del primo corso.  
-Alla fine del secondo anno gli iscritti dovranno sostenere un esame di profitto nel gruppo delle materie del secondo anno.  
-Alla fine del terzo anno gli iscritti dovranno sostenere un esame di profitto nel gruppo di materie del terzo anno, ed un esame che dimostri la preparazione complessiva delle materie insegnate durante i tre anni di corso.  
-L'esame di diploma consiste nella discussione di una dissertazione scritta.  
-  
-Art. 610. - il terzo comma relativo alla scuola di specializzazione in malattie infettive e' abrogato e sostituito dal seguente:  
-"Potra' esservi ammesso per titoli ed esami un massimo di 18 allievi complessivamente".  
-  
-Dopo l'art. 678, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della 2ª scuola di specializzazione in malattie dell'apparato cardiovascolare.  
-  
-II Scuola di specializzazione in malattie dell'apparato cardiovascolare  
-  
-Art. 679. - La scuola di specializzazione in malattie dell'apparato cardiovascolare, della durata di tre anni, conferisce il diploma di specialista in malattie dell'apparato cardiovascolare.  
-Abbreviazioni di corso potranno essere concesse, a giudizio insindacabile del consiglio della scuola, soltanto a coloro che diano dimostrazione rigorosamente documentata di avere preparazione, servizi e attivita' scientifica nel campo specifico, di riconosciuto merito e svolti in ambienti qualificati. In ogni caso l'abbreviazione di corso deve essere rigorosamente e dettagliatamente motivata dal consiglio direttivo della scuola.  
-Art. 680. - Le materie di insegnamento sono le seguenti:  
-  
-1° Anno:  
-anatomia normale dell'apparato cardiovascolare;  
-fisiologia dell'apparato cardiovascolare e respiratorio;  
-fisiopatologia cardiovascolare e respiratoria (1° corso);  
-patologia cardiovascolare;  
-semeiologia fisica (1° corso);  
-semeiologia strumentale (1° corso).  
-  
-2° Anno:  
-fisiopatologia cardiovascolare e respiratoria (2° corso);  
-patologia cardiovascolare (2° corso);  
-semeiologia fisica (2° corso);  
-semeiologia strumentale (2° corso);  
-anatomia patologica dell'apparato cardiovascolare (1° corso);  
-radiologia;  
-farmacologia;  
-clinica medica e terapia medica (1° corso).  
-  
-3° Anno:  
-anatomia patologica dell'apparato cardiovascolare (2° corso);  
-clinica medica e terapia medica (2° corso);  
-chirurgia dell'apparato cardiovascolare.  
-  
-Insegnamenti facoltativi:  
-microbiologia (1° anno);  
-cardioreumatologia (1° anno);  
-problemi assicurativi e sociali (3° anno);  
-statistica (3° anno);  
-le unita' coronariche di terapia intensiva (3° anno);  
-cardiologia e medicina sportiva (3° anno);  
-compiti e modi della collaborazione medico-chirurgica in cardiologia (3° anno).  
-  
-Art. 681. - L'iscrizione alla scuola avviene per titoli. Nel caso che le domande di iscrizione superino il numero dei posti disponibili, l'ammissione avverra' per titoli ed esami.  
-Sono disponibili 10 posti per ciascun anno di corso. Il numero complessivo dei posti nei tre anni di corso non dovra' essere superiore ai 30 (10 per ogni anno di corso).  
-Art. 682. - Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni, le visite cliniche, gli ambulatori, le esercitazioni, nonche' di prestare, se richiesti, servizio nella clinica come medici interni.  
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere la prova di esame.  
-Art. 683. - Alla fine di ogni anno di corso gli iscritti sono tenuti a superare tutti gli esami relativi ai singoli insegnamenti fondamentali di ciascun anno per il passaggio all'anno successivo.  
-Gli esami di fisiopatologia cardiovascolare e respiratoria, di patologia cardiovascolare, di semeiologia fisica, di semeiologia strumentale dovranno essere superati alla fine del 1° corso e alla fine del 2° corso. Gli esami di anatomia patologica dell'apparato cardiovascolare e di clinica e terapia dovranno essere superati alla fine del 2° corso e alla fine del 3° corso.  
-Al termine del corso di studi per il conseguimento del diploma di specialista gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento di carattere cardiologico.  
+Sono insegnamenti complementari (quelli indicati sulla stessa linea sono da scegliere preferibilmente congiunti fuorche' sia indicato "oppure"):  
+Storia dei Paesi africani nel secolo XX;  
+Storia dei Paesi dell'estremo oriente nel secolo XX;  
+Storia dei Paesi del vicino oriente nel secolo XX;  
+Storia degli Stati Uniti d'America;  
+Storia dell'America centrale;  
+Storia dell'America meridionale;  
+Storia dell'Unione Sovietica;  
+Storia dell'Inghilterra e del Commonwealth nel secolo XX;  
+Storia della Francia;  
+Storia della Spagna;  
+Storia della Germania;  
+Storia dei Paesi scandinavi;  
+Storia delle istituzioni internazionali, diritto internazionale;  
+Storia della fisica contemporanea, fisica;  
+Storia della matematica contemporanea;  
+Storia della medicina contemporanea;  
+Antropologia oppure genetica, oppure anatomia comparata, oppure istologia ed embriologia, oppure biologia generale;  
+Storia della chimica contemporanea, chimica generale;  
+Storia del giornalismo;  
+Storia sociale;  
+Storia della biologia;  
+Storia delle tecniche contemporanee, elementi di macchine, oppure elettrotecnica, oppure arte mineraria, oppure idraulica, oppure tecnologia generale, oppure tecnica ed economia dei trasporti;  
+Statistica;  
+Storia della moneta, scienza delle finanze, economia politica;  
+Storia delle regioni italiane, istituzioni di diritto pubblico;  
+Storia militare;  
+Storia dell'aviazione;  
+Storia dei trasporti nei secoli XIX e XX;  
+Storia degli sports;  
+Storia della seconda guerra mondiale e dei movimenti partigiani;  
+Teoria dei futuribili;  
+Economia politica;  
+Istituzioni di matematica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 maggio 1976
+### Dato a Roma, addi' 28 ottobre 1974
 
 LEONE MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 17 agosto 1976
+Registrato alla Corte dei conti, addi' 22 gennaio 1975
 
-Atti di Governo, registro n. 8, foglio n. 58
+Atti di Governo, registro n. 7, foglio n. 123

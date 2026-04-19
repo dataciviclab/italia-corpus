@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1958 n. 877
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 759
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1958 n. 877
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 759
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788) e successivi;
+Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto del 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,153 +18,117 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello Statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta, la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Decreta:
+Sulla
+-----
 
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 80, relativo ai titoli di ammissione alla Scuola di perfezionamento in psicologia, in pedagogia e in psico-pedagogia, annessa alla Facolta' di magistero, e' cosi' integrato: "Titolo di ammissione e' la laurea in qualsiasi disciplina, compresi i diplomi conseguiti al termine dei corsi quadriennali degli ex Istituti superiori di magistero".
-
-Dopo l'art. 185, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione del Corso di perfezionamento in medicina scolastica, con il conseguente spostamento della numerazione degli articoli successivi.
-
-Corso di perfezionamento in medicina scolastica
-
-Art. 186. - E' istituito presso la Facolta' di medicina e chirurgia un Corso di perfezionamento in medicina scolastica.
-
-Il Corso ha sede nella Clinica pediatrica universitaria e la direzione e' affidata al suo direttore.
-
-Il materiale didattico ed i locali adibiti all'insegnamento sono anche quelli della Clinica pediatrica.
-
-Art. 187. - Il Corso ha la durata di un anno accademico e di questo ne segue il calendario.
-
-Art. 188. - Possono iscriversi al Corso i laureati in medicina e chirurgia.
-
-Gli iscritti sono tenuti alla frequenza dei singoli insegnamenti, internati, esercitazioni, tirocini pratici e conferenze integrative.
-
-Art. 189. - Per ogni materia di insegnamento, o per gruppi di esse, dovra' essere sostenuto l'esame di profitto alla fine del corso. Per l'ammissione agli esami e' necessario aver conseguita l'attestazione di frequenza, sia agli insegnamenti fondamentali che alle conferenze.
-
-Art. 190. - Per il conseguimento del certificato di frequenza e profitto occorre aver superato l'esame finale, che consiste nella presentazione e discussione di una dissertazione scritta, con contributo personale, su un tema attinente a materia di insegnamento del Corso, assegnato dal direttore.
-
-Art. 191. - Gli insegnamenti impartiti nel Corso sono i seguenti:
-
-Fondamentali: (con esame alla fine del corso):
-
-a) Auxologia e fisiopatologia dell'accrescimento.
-
-Esercitazioni;
-
-b) Igiene scolastica;
-
-c) Legislazione sanitaria scolastica;
-
-d) Diagnostica delle malattie infettive contagiose dell'infanzia. Internato presso la Clinica pediatrica;
-
-e) Profilassi antitubercolare e delle malattie infettive.
-
-Tirocinio pratico;
-
-f) Psicopedagogia ed orientamento professionale. Esercitazioni;
-
-g) Neuropsichiatria infantile.
-
-Conferenze: (senza esame: obbligo di frequenza):
-
-Neuropsichiatria dell'eta' evolutiva;
-
-Oftalmologia scolastica;
-
-Nozioni sugli ordinamenti scolastici;
-
-Reumatologia infantile;
-
-Medicina sportiva dell'eta' evolutiva;
-
-Dietetica nelle comunita' infantile;
-
-Dermatologia.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 2 aprile 1958
-
-GRONCHI
-
-MORO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 12 settembre 1958 Atti del Governo, registro n. 114, foglio n. 15. - RELLEVA
+proposta del Ministro della pubblica istruzione; Decreta:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788) e successivi;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello Statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Decreta:   
+L'art. 158 e' modificato nel senso che all'elenco delle scuole annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in ortognatodonzia.  
+
+Art. 2
+------
+
   
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 80, relativo ai titoli di ammissione alla Scuola di perfezionamento in psicologia, in pedagogia e in psico-pedagogia, annessa alla Facolta' di magistero, e' cosi' integrato: "Titolo di ammissione e' la laurea in qualsiasi disciplina, compresi i diplomi conseguiti al termine dei corsi quadriennali degli ex Istituti superiori di magistero".   
-Dopo l'art. 185, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione del Corso di perfezionamento in medicina scolastica, con il conseguente spostamento della numerazione degli articoli successivi.   
+Dopo l'art. 305, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla scuola di specializzazione in ortognatodonzia:  
   
-Corso di perfezionamento in medicina scolastica   
+Scuola di specializzazione in ortognatodonzia  
   
-Art. 186. - E' istituito presso la Facolta' di medicina e chirurgia un Corso di perfezionamento in medicina scolastica.   
-Il Corso ha sede nella Clinica pediatrica universitaria e la direzione e' affidata al suo direttore.   
-Il materiale didattico ed i locali adibiti all'insegnamento sono anche quelli della Clinica pediatrica.   
-Art. 187. - Il Corso ha la durata di un anno accademico e di questo ne segue il calendario.   
-Art. 188. - Possono iscriversi al Corso i laureati in medicina e chirurgia.   
-Gli iscritti sono tenuti alla frequenza dei singoli insegnamenti, internati, esercitazioni, tirocini pratici e conferenze integrative.   
-Art. 189. - Per ogni materia di insegnamento, o per gruppi di esse, dovra' essere sostenuto l'esame di profitto alla fine del corso. Per l'ammissione agli esami e' necessario aver conseguita l'attestazione di frequenza, sia agli insegnamenti fondamentali che alle conferenze.   
-Art. 190. - Per il conseguimento del certificato di frequenza e profitto occorre aver superato l'esame finale, che consiste nella presentazione e discussione di una dissertazione scritta, con contributo personale, su un tema attinente a materia di insegnamento del Corso, assegnato dal direttore.   
-Art. 191. - Gli insegnamenti impartiti nel Corso sono i seguenti:   
-Fondamentali: (con esame alla fine del corso):   
-a) Auxologia e fisiopatologia dell'accrescimento.  
-Esercitazioni;   
-b) Igiene scolastica;   
-c) Legislazione sanitaria scolastica;   
-d) Diagnostica delle malattie infettive contagiose dell'infanzia. Internato presso la Clinica pediatrica;   
-e) Profilassi antitubercolare e delle malattie infettive.  
-Tirocinio pratico;   
-f) Psicopedagogia ed orientamento professionale. Esercitazioni;  
-g) Neuropsichiatria infantile.   
-Conferenze: (senza esame: obbligo di frequenza):   
-Neuropsichiatria dell'eta' evolutiva;   
-Oftalmologia scolastica;   
-Nozioni sugli ordinamenti scolastici;   
-Reumatologia infantile;   
-Medicina sportiva dell'eta' evolutiva;   
-Dietetica nelle comunita' infantile;   
-Dermatologia.   
+Art. 306. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in ortognatodonzia con sede presso l'istituto di clinica odontostomatologica dell'Universita' di Torino.  
+Art. 307. - Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia che siano in possesso, almeno all'inizio del corso, del diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente.  
+Art. 308. - La durata dei corsi e' di tre anni.  
+Art. 309. - Il numero dei posti disponibili e' complessivamente di diciotto pari a sei per ogni anno di corso.  
+Art. 310. - L'ammissione avviene previo concorso per titoli ed esami.  
+Art. 311. - Non sono ammesse, a nessun titolo, abbreviazioni di corso.  
+Art. 312. - Gli iscritti hanno l'obbligo della frequenza ai corsi e alle esercitazioni per l'intero anno accademico. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame. Le vacanze sono conformi al calendario accademico con un solo mese completo estivo (agosto).  
+Art. 313. - Gli esami di profitto sono sostenuti alla fine di ciascun anno in un'unica sessione. L'iscrizione agli anni successivi e' subordinata al superamento degli esami. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi. Alla fine del terzo anno, dopo aver superato gli esami di profitto, gli allievi sono ammessi a sostenere l'esame di diploma consistente nella discussione di una tesi su di un argomento proposto in precedenza dall'insegnante della materia cui la tesi si riferisce e approvato dal direttore della scuola.  
+Art. 314. - Ogni iscritto deve provvedere al corredo personale degli strumenti.  
+Art. 315. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Art. 316. - La misura delle tasse per gli iscritti e' fissata per ogni anno di corso come segue:  
+  
+tassa iscrizione. . . . . . . . . . . . . . . . . . . . . . L. 18.000 soprattassa esami profitto . . . . . . . . . . . . . . . . . L. 7.000 contributo riscaldamento. . . . . . . . . . . . . . . . . . L. 10.000 contributo attiv. sport. e ass . . . . . . . . . . . . . . . L. 1.000 contributo ass. infortuni. . . . . . . . . . . . . . . . . . . L. 300   
+I contributi sono determinati di anno in anno dal consiglio di amministrazione su proposta del senato accademico, sentito il consiglio di facolta' di medicina e chirurgia.  
+Art. 317. - Le materie di insegnamento sono le seguenti:  
+1) embriologia e anatomia dell'apparato stomatognatico;  
+2) fisiologia dell'apparato stomatognatico;  
+3) farmacologia clinica;  
+4) patologia odontostomatologica;  
+5) chirurgia odontostomatologica;  
+6) odontoiatria conservativa;  
+7) radiologia odontostomatologica;  
+8) stomatologia preventiva;  
+9) ortognatodonzia;  
+10) odontotecnica;  
+11) semeiotica ortognatodontica;  
+12) cefalometria clinica;  
+13) pedodonzia;  
+14) metallurgia e merceologia in ortognatodonzia;  
+15) pediatria auxologica applicata;  
+16) paradontologia;  
+17) chirurgia ortognatodontica;  
+18) genetica applicata;  
+19) statistica applicata alla ricerca scientifica;  
+20) medicina legale e delle assicurazioni in odontostomatologia.  
+Esercitazioni cliniche, di laboratorio e di cefalometria.  
+La didattica del 1° anno di corso e' particolarmente dedicata alla preparazione stomatologica di base, essenziale alla formazione dello specialista in ortognatodonzia.  
+Art. 318 - Proposta di suddivisione delle materie di insegnamento nei tre anni di corso:  
+1° Anno:  
+1) embriologia e anatomia dell'apparato stomatognatico;  
+2) fisiologia dell'apparato stomatognatico (I anno biennale);  
+4) patologia odontostomatologica;  
+5) chirurgia odontostomatologica;  
+6) odontoiatria conservativa;  
+7) radiologia odontostomatologica;  
+8) stomatologia preventiva;  
+9) ortognatodonzia (I anno triennale);  
+10) odontotecnica;  
+11) esercitazioni cliniche;  
+12) esercitazioni di laboratorio.  
+2° Anno:  
+1) fisiologia dell'apparato stomatognatico (II anno biennale);  
+2) semeiotica ortognatodontica;  
+3) ortognatodonzia (II anno triennale);  
+4) cefalometria clinica (I anno biennale);  
+5) pedodonzia;  
+6) metallurgia e merceologia in ortognatodonzia;  
+7) pediatria auxologica applicata;  
+8) paradontologia;  
+9) esercitazioni cliniche;  
+10) esercitazioni di laboratorio.  
+3° Anno:  
+1) ortognatodonzia (III anno triennale);  
+2) cefalometria clinica (II anno biennale);  
+3) chirurgia ortognatodontica;  
+4) genetica applicata;  
+5) statistica applicata alla ricerca scientifica;  
+6) medicina legale e delle assicurazioni in odontostomatologia;  
+7) esercitazioni cliniche;  
+8) esercitazioni di laboratorio;  
+9) esercitazioni di cefalometria clinica.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 aprile 1958
+### Dato a Roma, addi' 31 ottobre 1979
 
-GRONCHI MORO
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 12 settembre 1958
+Registrato alla Corte dei conti, addi' 7 febbraio 1980
 
-Atti del Governo, registro n. 114, foglio n. 15. - RELLEVA
+Registro n. 9 Istruzione, foglio n. 331

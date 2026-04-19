@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 settembre 1965 n. 1229
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1969 n. 365
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 settembre 1965 n. 1229
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1969 n. 365
+=============================================================
 
 Autorizzazione all'Associazione italiana della Croce Rossa ad accettare una donazione.
 --------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1229. Decreto del Presidente della Repubblica 28 settembre 1965, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della Croce Rossa, viene autorizzata ad accettare la donazione disposta dal sig. Luca Pugliatti con atto del dott. Familiari notaio in Melito Porto Salvo in data, 24 dicembre 1951, repertorio 10487, registrato in Melito Porto Salvo il 10 gennaio 1952, al n. 1354, di mq. 600 di suolo, distinto in catasto con le particelle 37/B e 98/5 del foglio di mappa 24, sito in Bova Marina, contrada Mesofugna (Reggio Calabria).  
+365. Decreto del Presidente della Repubblica 2 maggio 1969, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della Croce Rossa viene autorizzata ad accettare la donazione della somma di L. 50.000.000 disposta dal sig. Luigi Biondo Sangiorgi con atto pubblico 7 agosto 1962, n. 526093 di repertorio, a rogito notar Giuseppe Angilella di Palermo, da destinarsi integralmente ed esclusivamente alla costruzione nel territorio di Villa Sofia in Palermo, di proprieta' dell'associazione, di un padiglione ospedaliero pediatrico da intitolarsi a nome del donante.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 2 novembre 1963  
-Atti del Governo, registro n. 198, foglio n. 11. - VILLA
+Visto, il Guardasigilli: GAVA  
+Registrato alla Corte dei conti, addi' 5 luglio 1969  
+Atti del Governo, registro n. 227, foglio n. 123. - CARUSO

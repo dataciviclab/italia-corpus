@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 novembre 1979 n. 854
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1982 n. 227
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 novembre 1979 n. 854
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1982 n. 227
+============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-854. Decreto del Presidente della Repubblica 28 novembre 1979, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in beni mobili e libretti a risparmio, titoli, denaro, preziosi, del valore presunto di L. 13.955.420, disposta dalla sig.ra Virginia De Capitani Da Vimercate con testamento olografo 5 agosto 1970, pubblicato in data 13 ottobre 1975, n. 116583/23193 di repertorio, a rogito dott. Domenico Moretti, notaio in Milano, registrato a Milano in data 22 ottobre 1975, n. 9108, serie H.  
+227. Decreto del Presidente della Repubblica 6 marzo 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in beni immobili, siti in Milano, per un valore, al netto delle passivita', di L. 45.969.409, disposta dalla sig.ra Cussotti Gabriella con testamento olografo 28 novembre 1972, pubblicato a rogito dott. Brambilla Ferruccio, notaio in Milano, il 19 aprile 1977, n. 28744/ 3296 di repertorio, registrato a Busto Arsizio (Varese) il 5 maggio 1977 al n. 1265.  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 21 marzo 1980  
-Registro n. 2 Presidenza, foglio n. 341
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 23 aprile 1982  
+Registro n. 3 Presidenza, foglio n. 325

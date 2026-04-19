@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1966 n. 1028
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1964 n. 1029
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1966 n. 1028
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1964 n. 1029
+==============================================================
 
 Autorizzazione all'Ente Nazionale Assistenza Lavoratori (E.N.A.L.) ad accettare una donazione.
 ----------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1028. Decreto del Presidente della Repubblica 31 ottobre 1966, col quale, Sulla proposta del Presidente del Consiglio dei Ministri, l'Ente Nazionale Assistenza-Lavoratori (E.N.A.L.) viene autorizzato ad accettare una donazione consistente in un appezzamento di terreno, della estensione di mq. 560, sito in Rovereto, frazione Marco, disposta dal sig. Vaccari Saverio-Ermanno, con atto a rogito dott. Rolando Munari, notaio in Rovereto (Trento) in data 28 settembre 1962, n. 9794 di rep., n. 2380 di raccolta, per essere destinato a sede di un locale circolo dell'ENAL.  
+1029. Decreto del Presidente della Repubblica 13 agosto 1964, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Ente Nazionale Assistenza Lavoratori (E.N.A.L.), viene autorizzato ad accettare dal "Circolo dopolavoro La Penna - ENAL", con sede in comune di Terranuova Bracciolini (Arezzo), frazione Penna, tutti i beni immobili posseduti dal Circolo donante in localita' Penna, ivi compreso il fabbricato oggi esistente sul terreno stesso adibito ad uso di Circolo e sede dell'E.N.A.L., come da alto a rogito notaio Lionello Signorini, in data 12 ottobre 1961 al n. di rep. 16404, fasc. 7470.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 28 novembre 1966  
-Atti del Governo, registro n. 207, foglio n. 78. - VILLA
+Registrato alla Corte dei conti, addi' 10 ottobre 1964  
+Atti del Governo, registro n. 187, foglio n. 97. - VILLA

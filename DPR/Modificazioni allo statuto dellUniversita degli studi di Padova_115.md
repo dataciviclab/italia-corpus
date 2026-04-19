@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1163
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1976 n. 1081
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1163
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1976 n. 1081
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,207 +20,221 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' degli studi di Padova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-All'art. 151, relativo alle lauree rilasciate dalla facolta' di farmacia, sono aggiunte le seguenti parole: "e in chimica e tecnologia farmaceutiche".
+Art. 105 - all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:
 
-Dopo l'art. 158, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla istituzione del corso di laurea in chimica e tecnologia farmaceutiche.
+fitobiologia delle acque interne;
 
-Corso di laurea in chimica e tecnologia farmaceutiche
+fitobiologia marina;
 
-Art. 159. - La durata del corso degli studi per la laurea in chimica e tecnologia farmaceutiche e' di cinque anni, divisi in un biennio di studi propedeutici e in un triennio di applicazione.
+fitogeografia;
 
-I titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge.
+zoogeografia;
 
-Nel biennio di studi propedeutici sono insegnamenti fondamentali:
+speleologia;
 
-1) anatomia umana(\*);
+ecologia vegetale.
 
-2) botanica farmaceutica (\*);
+Nello stesso elenco l'insegnamento complementare di zoogeografia ed ecologia animale muta la denominazione in quella di ecologia animale.
 
-3) chimica generale ed inorganica (\*);
+Nello stesso articolo la seconda frase del penultimo comma e' abrogata e sostituita dalla seguente:
 
-4) fisica;
+I corsi biennali di botanica, zoologia comportano un esame alla fine di ogni anno accademico.
 
-5) istituzioni di matematiche (\*);
+Art. 108 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:
 
-6) chimica fisica (\*);
+biochimica applicata;
 
-7) chimica organica I (\*\*);
+biologia generale;
 
-8) fisiologia generale;
+biologia molecolare;
 
-9) microbiologia ed igiene;
+chimica analitica;
 
-10) analisi chimico-farmaceutica I (analisi qualitativa).
+citogenetica;
 
-Nel triennio di studi di applicazione sono insegnamenti fondamentali:
+fitobiologia delle acque interne;
 
-1) chimica biologica (\*);
+fitobiologia marina;
 
-2) chimica farmaceutica e tossicologica I (\*);
+virologia.
 
-3) chimica farmaceutica e tossicologica II (\*);
+Nello stesso elenco gli insegnamenti di endocrinologia e di fitogeografia ed ecologia vegetale mutano rispettivamente la denominazione in quella di endocrinologia comparata e di ecologia vegetale mentre l'insegnamento di zoogeografia ed ecologia animale viene scisso nei seguenti due zoogeografia e ecologia animale.
 
-4) chimica organica II (\*\*);
+Nello stesso articolo la seconda frase del penultimo comma e' abrogata e sostituita dalla seguente:
 
-5) chimica degli alimenti (\*);
+I corsi biennali di botanica, zoologia e fisiologia generale comportano un esame alla fine di ogni anno.
 
-6) metodi fisici in chimica organica;
+L'art. 207, relativo alle tasse e contributi per la scuola di perfezionamento nelle discipline del lavoro, e' abrogato e sostituito dal seguente:
 
-7) analisi chimico-farmaceutica II (analisi quantitativa);
+"Le tasse e soprattasse che gli iscritti dovranno versare sono fissate come segue:
 
-8) farmacologia e farmacognosia (\*);
+tassa immatricolazione. . . . . . . . . . . . . . . . . L. 5.000 tassa annuale di iscrizione . . . . . . . . . . . . . . L. 10.000 tassa annuale per i fuori corso . . . . . . . . . . . . L. 5.000 soprattassa esami . . . . . . . . . . . . . . . . . . . L. 3.000
 
-9) tecnica e legislazione farmaceutica (\*);
+L'ammontare dei contributi sara' stabilito anno per anno dal consiglio di amministrazione, su proposta del senato accademico, udito il consiglio della facolta' di scienze politiche.
 
-10) biochimica applicata (\*);
+L'art. 216, relativo alle tasse e contributi per la scuola di specializzazione in servizio sociale e' abrogato e sostituito dal seguente:
 
-11) analisi chimico-farmaceutica III (analisi dei medicamenti);
+tassa immatricolazione. . . . . . . . . . . . . . . . . L. 5.000 tassa annuale di iscrizione . . . . . . . . . . . . . . L. 10.000 tassa annuale per i fuori corso . . . . . . . . . . . . L. 5.000 soprattassa esami . . . . . . . . . . . . . . . . . . . L. 3.000
 
-12) saggi e dosaggi farmacologici;
+L'ammontare dei contributi sara' stabilito di anno in anno dal consiglio di amministrazione, su proposta del senato accademico, udito il consiglio della facolta' di scienze politiche".
 
-13) chimica farmaceutica applicata (\*);
+Dopo l'art. 216, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di perfezionamento per il commercio con l'estero annessa alla facolta' di scienze politiche.
 
-14) impianti dell'industria farmaceutica;
+Scuola di perfezionamento per il commercio con l'estero
 
-15) laboratori di preparazione estrattiva e sintetica dei farmaci.
+[Art. 217 - Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art217) e fini. - Alla facolta' di scienze politiche e' annessa la scuola di perfezionamento per il commercio con l'estero, che si propone lo scopo di promuovere la conoscenza, teorica ed applicativa, delle discipline e delle tecniche giuridiche ed economiche, relative alle transazioni commerciali, in particolare con l'estero.
 
-Sono insegnamenti complementari:
+A tal fine la scuola:
 
-1) biofarmacia (\*);
+organizza i corsi di cui ai successivi articoli;
 
-2) biologia molecolare;
+istituisce e mantiene una biblioteca specializzata;
 
-3) biopolimeri;
+raccoglie e classifica la documentazione relativa alle principali attivita' commerciali;
 
-4) chemioterapia;
+pubblica studi e documenti di interesse anche informativo per gli operatori del settore;
 
-5) chimica analitica (\*);
+fornisce ad imprese, enti ed associazioni di categoria, informazioni ed orientamenti nelle materie di sua competenza;
 
-6) chimica biofarmaceutica (\*);
+intraprende e favorisce ogni iniziativa intesa ad agevolare lo sviluppo del commercio internazionale.
 
-7) chimica clinica (\*);
+Per i fini suoi propri la scuola puo' istituire centri di ricerca e di informazione nonche' promuovere conferenze, convegni e corsi di aggiornamento.
 
-8) chimica degli eterocicli;
+Art. 218 - Organi di governo. - Sono organi di governo della scuola: la direzione ed il consiglio. Direttore della scuola e' il preside della facolta' di scienze politiche; egli e' assistito nelle sue funzioni da due codirettori, nominati dal consiglio di facolta', rispettivamente per le discipline giuridiche ed economiche. Altri co-direttori possono venire nominati per presiedere alla segreteria della scuola, alla biblioteca, ai gruppi di ricerca, ai centri di informazione ed alle altre iniziative che la scuola intraprende. Le determinazioni del direttore, ai sensi del presente statuto, sono adottate con deliberazione collegiale del direttore e dei co-direttori. Il consiglio della scuola e' composto dal direttore che lo presiede, dai co-direttori, da un rappresentante dell'Universita' nominato dal rettore, da un rappresentante dell'unione delle camere di commercio del Veneto, nonche' dai rappresentanti di enti pubblici, associazioni di categoria o di enti operanti nel settore del commercio con l'estero, cooptati dal consiglio. Alle adunanze che riguardano l'ordinamento didattico dei corsi possono partecipare i docenti della scuola.
 
-9) chimica dei prodotti cosmetici;
+Le deliberazioni sono adottate a maggioranza dei voti.
 
-10) chimica dei prodotti dietetici;
+Per singoli argomenti il consiglio puo' delegare i propri poteri al direttore ovvero ad uno o piu' dei suoi membri.
 
-11) chimica delle fermentazioni e microbiologia industriale;
+Art. 219 - Amministrazione e bilancio. - La scuola si finanzia in via ordinaria mediante le tasse e i contributi di iscrizione, i proventi delle prestazioni a pagamento, le sovvenzioni di enti, associazioni e privati. Per assicurarne il funzionamento, la facolta' di scienze politiche stanzia annualmente un contributo, da prelevarsi per un terzo sui fondi dell'istituto di scienze giuridiche, per un terzo sui fondi dell'istituto di scienze economiche e per il rimanente terzo sui fondi dell'istituto di studi internazionali.
 
-12) chimica delle sostanze organiche naturali;
+Detto contributo, da utilizzarsi solo successivamente alle entrate di cui al comma precedente, qualora non impiegato viene restituito agli istituti.
 
-13) chimica terapeutica (\*);
+L'amministrazione della scuola compete per la parte ordinaria al direttore e per la parte straordinaria al consiglio.
 
-14) chimica tossicologica industriale (\*);
+Delle entrate e delle uscite si redige annualmente rendiconto.
 
-15) complementi di chimica organica;
+Art. 220 - Diploma di perfezionamento, certificati di profitto, attestati di frequenza. - La scuola organizza due corsi di durata annuale, l'uno dedicato alle discipline giuridiche, l'altro alle discipline economiche del commercio con l'estero. Al termine di un biennio, costituito da entrambi gli anni di corso, la scuola rilascia un diploma di perfezionamento in discipline giuridiche ed economiche del commercio con l'estero. Agli iscritti che abbiano seguito un solo anno di corso la scuola rilascia un certificato di profitto. Agli iscritti sprovvisti di laurea o che abbiano seguito singoli insegnamenti, viene rilasciato un attestato di frequenza, con l'indicazione degli esami sostenuti.
 
-16) enzimologia;
+Art. 221 - Ammissione ai corsi. - Costituisce requisito per l'ammissione ai corsi, la laurea in scienze politiche, economia e commercio, giurisprudenza, scienze statistiche. Possono venire altresi' ammessi, con deliberazione del direttore, gli operatori commerciali con qualifica di dirigente in possesso di un'esperienza che, ai fini della frequentazione della scuola, venga giudicata equivalente. Per fini di aggiornamento professionale puo' venire richiesta la frequentazione di singoli insegnamenti. Il consiglio determina, all'inizio di ciascun anno accademico, il numero massimo delle domande che, in ragione delle esigenze didattiche, possono venire accolte per ciascun corso. Non si tiene conto, tra queste, delle domande di ammissione alla frequentazione di singoli insegnamenti. Il direttore provvede, con propria determinazione, all'accoglimento delle domande, previa, ove occorra, valutazione comparativa dei titoli; ai candidati puo' essere richiesto di sostenere un colloquio.
 
-17) farmacia industriale (\*);
+Art. 222. - La scuola impartisce i seguenti insegnamenti:
 
-18) farmacia veterinaria;
+a) discipline giuridiche:
 
-19) farmacognosia;
+diritto internazionale privato delle obbligazioni;
 
-20) farmacologia molecolare;
+diritto della compravendita internazionale;
 
-21) fitofarmaci;
+diritto dell'arbitrato commerciale;
 
-22) inglese scientifico;
+diritto processuale civile internazionale;
 
-23) istituzioni di patologia generale;
+diritto europeo della concorrenza;
 
-24) microchimica (\*);
+diritto amministrativo del commercio con l'estero;
 
-25) radiochimica;
+diritto delle Comunita' europee;
 
-26) sintesi speciali organiche;
+diritto cambiario internazionale;
 
-27) statistica e biometria.
+diritto comparato dei contratti commerciali;
 
-Le materie segnate con asterisco sono comuni alla laurea in farmacia, quelle segnate con due asterischi sono comuni alla laurea in chimica.
+diritto comparato delle societa';
 
-Art. 160. - Per ottenere l'iscrizione al terzo anno di corso lo studente deve aver superato tutti i 10 esami previsti nel primo biennio. Inoltre lo studente non puo' iscriversi al laboratorio del primo corso di analisi chimico-farmaceutica se non ha superato l'esame di chimica generale ed inorganica; pertanto non puo' ottenere la frequenza al suddetto corso.
+diritto tributario del commercio internazionale;
 
-Lo studente non puo' iscriversi al laboratorio del terzo corso di analisi chimico-farmaceutica se non ha superato l'esame di chimica organica 1; pertanto non puo' ottenere la frequenza al suddetto corso.
+diritto industriale comparato;
 
-Dovranno inoltre essere osservate le seguenti precedenze:
+legislazione e tecnica doganale;
 
-Lo studente non puo' essere ammes- Se non ha superato l'esame di: so a sostenere l'esame di:
+b) discipline economiche:
 
-chimica organica I chimica generale ed inorganica
+analisi dei mercati;
 
-chimica fisica chimica generale ed inorganica + fisica + istituzioni di matema- tiche
+disciplina e tecnica di borse e mercati;
 
-chimica farmaceutica e chimica organica I
+disciplina e tecnica dei cambi;
 
-tossicologica I
+disciplina e tecnica bancaria;
 
-fisiologia anatomia umana
+disciplina e tecnica dei trasporti;
 
-farmacologia e farmacognosia fisiologia
+disciplina e tecnica delle assicurazioni;
 
-chimica biologica chimica organica I
+economia e politica della distribuzione commerciale;
 
-saggi e dosaggi farmaco- farmacologia e farmaco
+geografia economica delle risorse;
 
-logici gnosia
+merceologia: classificazione e standards di qualita';
 
-tecnica e legislazione far- chimica farmaceutica e tos-
+organizzazione economica internazionale;
 
-maceutica sicologica I
+statistica economica;
 
-impianti dell'industria chimica farmaceutica e tos
+teoria dei flussi economici;
 
-farmaceutica sicologica I e II
+teoria e politica del commercio estero;
 
-metodi fisici in chimica fisica + chimica organica I
+c) lingue:
 
-organica
+inglese commerciale;
 
-biochimica applicata chimica biologica
+francese commerciale;
 
-chimica farmaceutica ap- chimica farmaceutica e tos-
+La scuola puo', con deliberazione del consiglio, decidere di impartire direttamente, ovvero di mutuare, qualsiasi insegnamento previsto dallo statuto per le facolta' di scienze politiche, economia e commercio, giurisprudenza, scienze statistiche, demografiche ed attuariali dell'Universita' di Padova.
 
-plicata sicologica I e II + tec-
+Art. 223 - Programmi. - All'inizio di ciascun anno accademico il consiglio della scuola delibera l'attivazione degli anni di corso nonche' quali insegnamenti - ivi compresa la lingua straniera - debbono venire in essi impartiti.
 
-nica e legislazione farma-
+A ciascun insegnamento puo' venire assegnato un numero di lezione variabile tra un minimo di cinque ed un massimo di quaranta. Ogni anno di corso deve complessivamente comprendere non meno di 200 ore di lezione.
 
-ceutica
+Il consiglio raccoglie, coordina ed approva i programmi di insegnamento presentati dai singoli docenti.
 
-analisi chimico-farmaceu- analisi chimico-farmaceuti-
+Art. 224. - I cicli di lezione e di conferenze sono affidati, con deliberazione del consiglio, a studiosi, italiani e stranieri, i quali abbiano recato con i propri lavori, contributi scientifici di rilievo allo studio della materia, ovvero, soprattutto per gli insegnamenti a carattere applicativo, ad esperti di riconosciuta competenza.
 
-tica II ca I
+Ciascun docente ha l'obbligo di svolgere le lezioni e le conferenze secondo il calendario e con le modalita' stabilite dal direttore e di partecipare alle commissioni di esami di profitto e di diploma nelle quali sia convocato. Egli puo' essere dichiarato decaduto con deliberazione del consiglio, qualora ometta o ritardi i doveri del proprio ufficio.
 
-analisi chimico-farmaceu- analisi chimico-farmaceuti-
+Art. 225 - Lezioni. - Le lezioni si svolgono secondo modalita' che tengano conto delle esigenze di frequentatori gia' inseriti nel mondo del lavoro. Sono utilizzati di preferenza giorni prefestivi e, ove occorra, una o piu' settimane a tempo pieno.
 
-tica III ca II
+Il calendario relativo e' fissato, all'inizio dell'anno accademico, dal direttore, sentiti i docenti.
 
-Art. 161. - Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superato tutti gli esami dei corsi fondamentali e almeno due esami fra i corsi complementari; deve inoltre presentare una dissertazione scritta, di indole sperimentale.
+Le lezioni consistono nell'esposizione dell'argomento fatta dal docente, seguita dalla discussione. Esperti di comprovata esperienza possono venire invitati ad illustrare casi pratici. Quando la materia lo richieda, la lezione puo' consistere in dimostrazioni, anche fuori della sede della scuola. La frequenza delle lezioni da parte degli iscritti e' obbligatoria. Essa viene rilevata dal docente ad ogni lezione ed annotata su apposito registro. Non potranno essere ammessi agli esami di profitto i frequentatori le cui assenze per la materia considerata superino il terzo.
 
-L'esame di laurea consiste nella discussione pubblica della dissertazione scritta.
+Compete al direttore la sorveglianza sulle lezioni e sulle frequenze.
 
-Per essere ammesso a sostenere l'esame di Stato il laureato in chimica e tecnologia farmaceutiche dovra' aver fatto un semestre di pratica professionale presso una farmacia oppure un trimestre presso una farmacia e un trimestre presso una industria farmaceutica secondo le modalita' indicate dalla facolta'.
+Art. 226. - Gli esami di profitto consistono in un accertamento scritto e/o orale sulla materia che costituisce oggetto del programma. Le commissioni sono nominate dal direttore e si compongono del docente incaricato dell'insegnamento, in qualita' di presidente, e di un cultore della materia, scelto preferibilmente tra i diplomati della scuola; la votazione e' espressa in ventesimi.
 
-Il periodo di pratica professionale deve essere svolto dopo il conseguimento del titolo accademico.
+Gli esami di diploma consistono nella discussione di una dissertazione scritta su un tema prescelto dal candidato e di tre argomenti prescelti dalla commissione in materie differenti, comunicati al candidato con breve anticipo. La commissione di diploma e' nominata dal direttore che la presiede e si compone di tre docenti della scuola, scelti in ragione delle materie cui l'esame si riferisce, e di tre esperti scelti preferibilmente fra i diplomati della scuola. La votazione e' espressa in settantesimi.
+
+Gli esami, cosi' di profitto che di diploma, si svolgono in due sessioni, estiva ed invernale, secondo il calendario fissato dal direttore, uditi i docenti interessati.
+
+Art. 227. - Le tasse e soprattasse che gli iscritti sono tenuti a versare sono fissate come segue:
+
+tassa di immatricolazione . . . . . . . . . . . . . . . L. 2.000 tassa di iscrizione . . . . . . . . . . . . . . . . . . L. 50.000 soprattassa esami . . . . . . . . . . . . . . . . . . . L. 10.000 tassa erariale di diploma . . . . . . . . . . . . . . . L. 1.200 soprattassa diploma . . . . . . . . . . . . . . . . . . L. 2.000
+
+Con deliberazione del consiglio sono inoltre determinati, di anno in anno, i contributi dovuti dagli iscritti ai corsi o ai singoli insegnamenti.
+
+Art. 228 - Prestazioni a pagamento. - La tariffa delle prestazioni a favore di terzi e' fissata dalla direzione della scuola. I proventi relativi sono percepiti dalla scuola, la quale ne dispone secondo le leggi vigenti ed il presente statuto.
+
+Art. 229 - Disposizioni finali. - Per quanto non previsto dalle presenti disposizioni, si applicano lo statuto dell'Universita' di Padova e le leggi dello Stato relative all'ordinamento didattico universitario.
+
+Spetta comunque al consiglio della scuola di emanare le norme regolamentari necessarie all'attuazione e all'esecuzione delle presenti disposizioni.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1977
+Dato a Roma, addi' 30 ottobre 1976
 
 LEONE
 
@@ -231,140 +245,145 @@ Visto, il Guardasigilli: BONIFACIO
 Registrato
 ----------
 
-alla Corte dei conti, addi' 5 aprile 1978 Registro n. 38 Istruzione, foglio n. 305
+alla Corte dei conti, addi' 26 settembre 1977 Registro n. 106 Istruzione, foglio n. 358
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;   
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;   
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' degli studi di Padova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-All'art. 151, relativo alle lauree rilasciate dalla facolta' di farmacia, sono aggiunte le seguenti parole: "e in chimica e tecnologia farmaceutiche".   
-Dopo l'art. 158, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla istituzione del corso di laurea in chimica e tecnologia farmaceutiche.   
-Corso di laurea in chimica e tecnologia farmaceutiche   
-Art. 159. - La durata del corso degli studi per la laurea in chimica e tecnologia farmaceutiche e' di cinque anni, divisi in un biennio di studi propedeutici e in un triennio di applicazione.   
-I titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge.   
-Nel biennio di studi propedeutici sono insegnamenti fondamentali:   
-1) anatomia umana(\*);   
-2) botanica farmaceutica (\*);   
-3) chimica generale ed inorganica (\*);   
-4) fisica;   
-5) istituzioni di matematiche (\*);   
-6) chimica fisica (\*);   
-7) chimica organica I (\*\*);   
-8) fisiologia generale;   
-9) microbiologia ed igiene;   
-10) analisi chimico-farmaceutica I (analisi qualitativa).   
-Nel triennio di studi di applicazione sono insegnamenti fondamentali:   
-1) chimica biologica (\*);   
-2) chimica farmaceutica e tossicologica I (\*);   
-3) chimica farmaceutica e tossicologica II (\*);   
-4) chimica organica II (\*\*);   
-5) chimica degli alimenti (\*);   
-6) metodi fisici in chimica organica;   
-7) analisi chimico-farmaceutica II (analisi quantitativa);   
-8) farmacologia e farmacognosia (\*);   
-9) tecnica e legislazione farmaceutica (\*);   
-10) biochimica applicata (\*);   
-11) analisi chimico-farmaceutica III (analisi dei medicamenti);   
-12) saggi e dosaggi farmacologici;   
-13) chimica farmaceutica applicata (\*);   
-14) impianti dell'industria farmaceutica;   
-15) laboratori di preparazione estrattiva e sintetica dei farmaci.   
-Sono insegnamenti complementari:   
-1) biofarmacia (\*);   
-2) biologia molecolare;   
-3) biopolimeri;   
-4) chemioterapia;   
-5) chimica analitica (\*);   
-6) chimica biofarmaceutica (\*);   
-7) chimica clinica (\*);   
-8) chimica degli eterocicli;   
-9) chimica dei prodotti cosmetici;   
-10) chimica dei prodotti dietetici;   
-11) chimica delle fermentazioni e microbiologia industriale;   
-12) chimica delle sostanze organiche naturali;   
-13) chimica terapeutica (\*);   
-14) chimica tossicologica industriale (\*);   
-15) complementi di chimica organica;   
-16) enzimologia;   
-17) farmacia industriale (\*);   
-18) farmacia veterinaria;   
-19) farmacognosia;   
-20) farmacologia molecolare;   
-21) fitofarmaci;   
-22) inglese scientifico;   
-23) istituzioni di patologia generale;   
-24) microchimica (\*);   
-25) radiochimica;   
-26) sintesi speciali organiche;   
-27) statistica e biometria.   
+Art. 105 - all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:   
+fitobiologia delle acque interne;   
+fitobiologia marina;   
+fitogeografia;   
+zoogeografia;   
+speleologia;   
+ecologia vegetale.   
+Nello stesso elenco l'insegnamento complementare di zoogeografia ed ecologia animale muta la denominazione in quella di ecologia animale.   
+Nello stesso articolo la seconda frase del penultimo comma e' abrogata e sostituita dalla seguente:   
   
-Le materie segnate con asterisco sono comuni alla laurea in farmacia, quelle segnate con due asterischi sono comuni alla laurea in chimica.   
-Art. 160. - Per ottenere l'iscrizione al terzo anno di corso lo studente deve aver superato tutti i 10 esami previsti nel primo biennio. Inoltre lo studente non puo' iscriversi al laboratorio del primo corso di analisi chimico-farmaceutica se non ha superato l'esame di chimica generale ed inorganica; pertanto non puo' ottenere la frequenza al suddetto corso.   
-Lo studente non puo' iscriversi al laboratorio del terzo corso di analisi chimico-farmaceutica se non ha superato l'esame di chimica organica 1; pertanto non puo' ottenere la frequenza al suddetto corso.   
-Dovranno inoltre essere osservate le seguenti precedenze:   
+I corsi biennali di botanica, zoologia comportano un esame alla fine di ogni anno accademico.   
+Art. 108 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:   
+biochimica applicata;   
+biologia generale;   
+biologia molecolare;   
+chimica analitica;   
+citogenetica;   
+fitobiologia delle acque interne;   
+fitobiologia marina;   
+virologia.   
+Nello stesso elenco gli insegnamenti di endocrinologia e di fitogeografia ed ecologia vegetale mutano rispettivamente la denominazione in quella di endocrinologia comparata e di ecologia vegetale mentre l'insegnamento di zoogeografia ed ecologia animale viene scisso nei seguenti due zoogeografia e ecologia animale.   
+Nello stesso articolo la seconda frase del penultimo comma e' abrogata e sostituita dalla seguente:   
   
+I corsi biennali di botanica, zoologia e fisiologia generale comportano un esame alla fine di ogni anno.   
+L'art. 207, relativo alle tasse e contributi per la scuola di perfezionamento nelle discipline del lavoro, e' abrogato e sostituito dal seguente:   
+"Le tasse e soprattasse che gli iscritti dovranno versare sono fissate come segue:   
   
-Lo studente non puo' essere ammes- Se non ha superato l'esame di: so a sostenere l'esame di:  
+tassa immatricolazione. . . . . . . . . . . . . . . . . L. 5.000 tassa annuale di iscrizione . . . . . . . . . . . . . . L. 10.000 tassa annuale per i fuori corso . . . . . . . . . . . . L. 5.000 soprattassa esami . . . . . . . . . . . . . . . . . . . L. 3.000   
+L'ammontare dei contributi sara' stabilito anno per anno dal consiglio di amministrazione, su proposta del senato accademico, udito il consiglio della facolta' di scienze politiche.   
+L'art. 216, relativo alle tasse e contributi per la scuola di specializzazione in servizio sociale e' abrogato e sostituito dal seguente:   
   
+tassa immatricolazione. . . . . . . . . . . . . . . . . L. 5.000 tassa annuale di iscrizione . . . . . . . . . . . . . . L. 10.000 tassa annuale per i fuori corso . . . . . . . . . . . . L. 5.000 soprattassa esami . . . . . . . . . . . . . . . . . . . L. 3.000   
+L'ammontare dei contributi sara' stabilito di anno in anno dal consiglio di amministrazione, su proposta del senato accademico, udito il consiglio della facolta' di scienze politiche".   
+Dopo l'art. 216, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di perfezionamento per il commercio con l'estero annessa alla facolta' di scienze politiche.   
   
+Scuola di perfezionamento per il commercio con l'estero   
   
+[Art. 217 - Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art217) e fini. - Alla facolta' di scienze politiche e' annessa la scuola di perfezionamento per il commercio con l'estero, che si propone lo scopo di promuovere la conoscenza, teorica ed applicativa, delle discipline e delle tecniche giuridiche ed economiche, relative alle transazioni commerciali, in particolare con l'estero.   
+A tal fine la scuola:   
+organizza i corsi di cui ai successivi articoli;   
+istituisce e mantiene una biblioteca specializzata;   
+raccoglie e classifica la documentazione relativa alle principali attivita' commerciali;   
+pubblica studi e documenti di interesse anche informativo per gli operatori del settore;   
+fornisce ad imprese, enti ed associazioni di categoria, informazioni ed orientamenti nelle materie di sua competenza;   
+intraprende e favorisce ogni iniziativa intesa ad agevolare lo sviluppo del commercio internazionale.   
+Per i fini suoi propri la scuola puo' istituire centri di ricerca e di informazione nonche' promuovere conferenze, convegni e corsi di aggiornamento.   
+Art. 218 - Organi di governo. - Sono organi di governo della scuola: la direzione ed il consiglio. Direttore della scuola e' il preside della facolta' di scienze politiche; egli e' assistito nelle sue funzioni da due codirettori, nominati dal consiglio di facolta', rispettivamente per le discipline giuridiche ed economiche. Altri co-direttori possono venire nominati per presiedere alla segreteria della scuola, alla biblioteca, ai gruppi di ricerca, ai centri di informazione ed alle altre iniziative che la scuola intraprende. Le determinazioni del direttore, ai sensi del presente statuto, sono adottate con deliberazione collegiale del direttore e dei co-direttori. Il consiglio della scuola e' composto dal direttore che lo presiede, dai co-direttori, da un rappresentante dell'Universita' nominato dal rettore, da un rappresentante dell'unione delle camere di commercio del Veneto, nonche' dai rappresentanti di enti pubblici, associazioni di categoria o di enti operanti nel settore del commercio con l'estero, cooptati dal consiglio. Alle adunanze che riguardano l'ordinamento didattico dei corsi possono partecipare i docenti della scuola.   
+Le deliberazioni sono adottate a maggioranza dei voti.   
+Per singoli argomenti il consiglio puo' delegare i propri poteri al direttore ovvero ad uno o piu' dei suoi membri.   
+Art. 219 - Amministrazione e bilancio. - La scuola si finanzia in via ordinaria mediante le tasse e i contributi di iscrizione, i proventi delle prestazioni a pagamento, le sovvenzioni di enti, associazioni e privati. Per assicurarne il funzionamento, la facolta' di scienze politiche stanzia annualmente un contributo, da prelevarsi per un terzo sui fondi dell'istituto di scienze giuridiche, per un terzo sui fondi dell'istituto di scienze economiche e per il rimanente terzo sui fondi dell'istituto di studi internazionali.  
+Detto contributo, da utilizzarsi solo successivamente alle entrate di cui al comma precedente, qualora non impiegato viene restituito agli istituti.   
+L'amministrazione della scuola compete per la parte ordinaria al direttore e per la parte straordinaria al consiglio.   
+Delle entrate e delle uscite si redige annualmente rendiconto.   
+Art. 220 - Diploma di perfezionamento, certificati di profitto, attestati di frequenza. - La scuola organizza due corsi di durata annuale, l'uno dedicato alle discipline giuridiche, l'altro alle discipline economiche del commercio con l'estero. Al termine di un biennio, costituito da entrambi gli anni di corso, la scuola rilascia un diploma di perfezionamento in discipline giuridiche ed economiche del commercio con l'estero. Agli iscritti che abbiano seguito un solo anno di corso la scuola rilascia un certificato di profitto. Agli iscritti sprovvisti di laurea o che abbiano seguito singoli insegnamenti, viene rilasciato un attestato di frequenza, con l'indicazione degli esami sostenuti.   
+Art. 221 - Ammissione ai corsi. - Costituisce requisito per l'ammissione ai corsi, la laurea in scienze politiche, economia e commercio, giurisprudenza, scienze statistiche. Possono venire altresi' ammessi, con deliberazione del direttore, gli operatori commerciali con qualifica di dirigente in possesso di un'esperienza che, ai fini della frequentazione della scuola, venga giudicata equivalente. Per fini di aggiornamento professionale puo' venire richiesta la frequentazione di singoli insegnamenti. Il consiglio determina, all'inizio di ciascun anno accademico, il numero massimo delle domande che, in ragione delle esigenze didattiche, possono venire accolte per ciascun corso. Non si tiene conto, tra queste, delle domande di ammissione alla frequentazione di singoli insegnamenti. Il direttore provvede, con propria determinazione, all'accoglimento delle domande, previa, ove occorra, valutazione comparativa dei titoli; ai candidati puo' essere richiesto di sostenere un colloquio.   
+Art. 222. - La scuola impartisce i seguenti insegnamenti:   
+a) discipline giuridiche:   
+diritto internazionale privato delle obbligazioni;   
+diritto della compravendita internazionale;   
+diritto dell'arbitrato commerciale;   
+diritto processuale civile internazionale;   
+diritto europeo della concorrenza;   
+diritto amministrativo del commercio con l'estero;   
+diritto delle Comunita' europee;   
+diritto cambiario internazionale;   
+diritto comparato dei contratti commerciali;   
+diritto comparato delle societa';   
+diritto tributario del commercio internazionale;   
+diritto industriale comparato;   
+legislazione e tecnica doganale;   
+b) discipline economiche:   
+analisi dei mercati;   
+disciplina e tecnica di borse e mercati;   
+disciplina e tecnica dei cambi;   
+disciplina e tecnica bancaria;   
+disciplina e tecnica dei trasporti;   
+disciplina e tecnica delle assicurazioni;   
+economia e politica della distribuzione commerciale;   
+geografia economica delle risorse;   
+merceologia: classificazione e standards di qualita';   
+organizzazione economica internazionale;   
+statistica economica;   
+teoria dei flussi economici;   
+teoria e politica del commercio estero;   
+c) lingue:   
+inglese commerciale;   
+francese commerciale;   
+La scuola puo', con deliberazione del consiglio, decidere di impartire direttamente, ovvero di mutuare, qualsiasi insegnamento previsto dallo statuto per le facolta' di scienze politiche, economia e commercio, giurisprudenza, scienze statistiche, demografiche ed attuariali dell'Universita' di Padova.   
+Art. 223 - Programmi. - All'inizio di ciascun anno accademico il consiglio della scuola delibera l'attivazione degli anni di corso nonche' quali insegnamenti - ivi compresa la lingua straniera - debbono venire in essi impartiti.   
+A ciascun insegnamento puo' venire assegnato un numero di lezione variabile tra un minimo di cinque ed un massimo di quaranta. Ogni anno di corso deve complessivamente comprendere non meno di 200 ore di lezione.   
+Il consiglio raccoglie, coordina ed approva i programmi di insegnamento presentati dai singoli docenti.   
+Art. 224. - I cicli di lezione e di conferenze sono affidati, con deliberazione del consiglio, a studiosi, italiani e stranieri, i quali abbiano recato con i propri lavori, contributi scientifici di rilievo allo studio della materia, ovvero, soprattutto per gli insegnamenti a carattere applicativo, ad esperti di riconosciuta competenza.   
+Ciascun docente ha l'obbligo di svolgere le lezioni e le conferenze secondo il calendario e con le modalita' stabilite dal direttore e di partecipare alle commissioni di esami di profitto e di diploma nelle quali sia convocato. Egli puo' essere dichiarato decaduto con deliberazione del consiglio, qualora ometta o ritardi i doveri del proprio ufficio.   
+Art. 225 - Lezioni. - Le lezioni si svolgono secondo modalita' che tengano conto delle esigenze di frequentatori gia' inseriti nel mondo del lavoro. Sono utilizzati di preferenza giorni prefestivi e, ove occorra, una o piu' settimane a tempo pieno.   
+Il calendario relativo e' fissato, all'inizio dell'anno accademico, dal direttore, sentiti i docenti.   
+Le lezioni consistono nell'esposizione dell'argomento fatta dal docente, seguita dalla discussione. Esperti di comprovata esperienza possono venire invitati ad illustrare casi pratici. Quando la materia lo richieda, la lezione puo' consistere in dimostrazioni, anche fuori della sede della scuola. La frequenza delle lezioni da parte degli iscritti e' obbligatoria. Essa viene rilevata dal docente ad ogni lezione ed annotata su apposito registro. Non potranno essere ammessi agli esami di profitto i frequentatori le cui assenze per la materia considerata superino il terzo.   
+Compete al direttore la sorveglianza sulle lezioni e sulle frequenze.   
+Art. 226. - Gli esami di profitto consistono in un accertamento scritto e/o orale sulla materia che costituisce oggetto del programma. Le commissioni sono nominate dal direttore e si compongono del docente incaricato dell'insegnamento, in qualita' di presidente, e di un cultore della materia, scelto preferibilmente tra i diplomati della scuola; la votazione e' espressa in ventesimi.   
+Gli esami di diploma consistono nella discussione di una dissertazione scritta su un tema prescelto dal candidato e di tre argomenti prescelti dalla commissione in materie differenti, comunicati al candidato con breve anticipo. La commissione di diploma e' nominata dal direttore che la presiede e si compone di tre docenti della scuola, scelti in ragione delle materie cui l'esame si riferisce, e di tre esperti scelti preferibilmente fra i diplomati della scuola. La votazione e' espressa in settantesimi.   
+Gli esami, cosi' di profitto che di diploma, si svolgono in due sessioni, estiva ed invernale, secondo il calendario fissato dal direttore, uditi i docenti interessati.   
+Art. 227. - Le tasse e soprattasse che gli iscritti sono tenuti a versare sono fissate come segue:   
   
-chimica organica I chimica generale ed inorganica  
-chimica fisica chimica generale ed inorganica + fisica + istituzioni di matema- tiche  
-chimica farmaceutica e chimica organica I  
-tossicologica I  
-fisiologia anatomia umana  
-farmacologia e farmacognosia fisiologia  
-chimica biologica chimica organica I  
-saggi e dosaggi farmaco- farmacologia e farmaco  
-logici gnosia  
-tecnica e legislazione far- chimica farmaceutica e tos-  
-maceutica sicologica I  
-impianti dell'industria chimica farmaceutica e tos  
-farmaceutica sicologica I e II  
-metodi fisici in chimica fisica + chimica organica I  
-organica  
-biochimica applicata chimica biologica  
-chimica farmaceutica ap- chimica farmaceutica e tos-  
-plicata sicologica I e II + tec-  
-nica e legislazione farma-  
-ceutica  
-analisi chimico-farmaceu- analisi chimico-farmaceuti-  
-tica II ca I  
-analisi chimico-farmaceu- analisi chimico-farmaceuti-  
-tica III ca II  
-  
-  
-Art. 161. - Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superato tutti gli esami dei corsi fondamentali e almeno due esami fra i corsi complementari; deve inoltre presentare una dissertazione scritta, di indole sperimentale.  
-L'esame di laurea consiste nella discussione pubblica della dissertazione scritta.   
-Per essere ammesso a sostenere l'esame di Stato il laureato in chimica e tecnologia farmaceutiche dovra' aver fatto un semestre di pratica professionale presso una farmacia oppure un trimestre presso una farmacia e un trimestre presso una industria farmaceutica secondo le modalita' indicate dalla facolta'.   
-Il periodo di pratica professionale deve essere svolto dopo il conseguimento del titolo accademico.   
+tassa di immatricolazione . . . . . . . . . . . . . . . L. 2.000 tassa di iscrizione . . . . . . . . . . . . . . . . . . L. 50.000 soprattassa esami . . . . . . . . . . . . . . . . . . . L. 10.000 tassa erariale di diploma . . . . . . . . . . . . . . . L. 1.200 soprattassa diploma . . . . . . . . . . . . . . . . . . L. 2.000   
+Con deliberazione del consiglio sono inoltre determinati, di anno in anno, i contributi dovuti dagli iscritti ai corsi o ai singoli insegnamenti.   
+Art. 228 - Prestazioni a pagamento. - La tariffa delle prestazioni a favore di terzi e' fissata dalla direzione della scuola. I proventi relativi sono percepiti dalla scuola, la quale ne dispone secondo le leggi vigenti ed il presente statuto.   
+Art. 229 - Disposizioni finali. - Per quanto non previsto dalle presenti disposizioni, si applicano lo statuto dell'Universita' di Padova e le leggi dello Stato relative all'ordinamento didattico universitario.   
+Spetta comunque al consiglio della scuola di emanare le norme regolamentari necessarie all'attuazione e all'esecuzione delle presenti disposizioni.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1977
+### Dato a Roma, addi' 30 ottobre 1976
 
 LEONE MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 5 aprile 1978
+Registrato alla Corte dei conti, addi' 26 settembre 1977
 
-Registro n. 38 Istruzione, foglio n. 305
+Registro n. 106 Istruzione, foglio n. 358

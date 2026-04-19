@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 febbraio 1980 n. 131
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1975 n. 467
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 febbraio 1980 n. 131
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1975 n. 467
+=============================================================
 
 Autorizzazione all'Opera nazionale di assistenza per gli orfani dei militari dell'Arma dei carabinieri, in Roma, ad accettare un legato.
 ----------------------------------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-131. Decreto del Presidente della Repubblica 27 febbraio 1980, col quale, sulla proposta del Ministro della difesa, l'Opera nazionale di assistenza per gli orfani dei militari dell'Arma dei carabinieri, in Roma, viene autorizzata ad accettare il legato, consistente in buoni del Tesoro 9% scadenza 1978 del valore di lire 10 milioni, disposto dalla sig.ra Orestina Malpocher ved. Novati con testamento olografo 25 ottobre 1977, pubblicato in data 31 maggio 1978, n. 48643/11969 di repertorio, a rogito dott. Paolo Consolandi, notaio in Milano, registrato a Milano in data 16 giugno 1978, n. A/ 4 11614.  
+467. Decreto del Presidente della Repubblica 14 luglio 1975, col quale, sulla proposta del Ministro per la difesa, l'Opera nazionale di assistenza per gli orfani dei militari dell'Arma dei carabinieri, in Roma, viene autorizzata ad accettare, rispettandone le condizioni, un legato, consistente in un appartamento, gravato da usufrutto in favore del coniuge e con diritto di abitazione in favore di Morelli Domenica, ubicato al piano terra, scala b, del fabbricato sito in Roma, via Slataper n. 3, composto di quattro camere e servizi, distinto nel nuovo catasto edilizio urbano alla partita 62370, foglio 541, particella 27, sub da 1 a 33, zona III, partita di zona 25086, disposto dal sig. Orlando Francesco, con testamento olografo pubblicato per atto 9 gennaio 1974, n. 6986 di repertorio, a rogito avv. Nicola Villani, notaio in Roma.  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 25 marzo 1980  
-Registro n. 8 Difesa, foglio n. 174
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 2 settembre 1975  
+Atti di Governo, registro n. 11, foglio n. 99

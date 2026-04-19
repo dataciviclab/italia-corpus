@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1980 n. 1032
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1975 n. 752
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1980 n. 1032
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1975 n. 752
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Messina.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923) e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923), e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,65 +18,285 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio universitario nazionale nel suo parere;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
 Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+L'art. 151, relativo alla scuola di specializzazione in anestesiologia e rianimazione, e' modificato nel senso che il numero degli iscritti e' stabilito in 45 (quarantacinque) per i tre anni di corso (quindici per ogni anno di corso).
 
+Dopo l'art. 186 sono inseriti, con il conseguente spostamento della numerazione degli articoli successivi, i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in chirurgia dell'infanzia e in neurologia.
+
+Scuola di specializzazione in chirurgia dell'infanzia
+
+Art. 187. - La scuola di specializzazione in chirurgia dell'infanzia ha sede presso la clinica chirurgica pediatrica; la direzione della scuola e' affidata al titolare dell'insegnamento di clinica chirurgica pediatrica ed in sua assenza ad altro professore di ruolo ed e' retta secondo le norme del regolamento generale per le scuole di specializzazione della facolta' di medicina e chirurgia dell'Universita' di Messina.
+
+Art. 188. - La scuola di specializzazione in chirurgia dell'infanzia conferisce il diploma di specialista in chirurgia dell'infanzia.
+
+Art. 189. - La durata del corso degli studi per il conseguimento della specialita' in chirurgia dell'infanzia e' fissata in 2 (due) anni.
+
+Possono ottenere l'iscrizione alla scuola i laureati in medicina e chirurgia che siano in possesso del diploma di specialista in chirurgia generale o abbiano conseguito la libera docenza in clinica chirurgica, o patologia chirurgica, o semeiotica chirurgica, o anatomia chirurgica o chirurgia pediatrica.
+
+Non e' ammessa l'abbreviazione di corso.
+
+Art. 190. - In base alle regole generali sancite per tutte le scuole dal Ministero della pubblica istruzione il numero complessivo degli iscritti alla scuola nei due anni di corso non puo' superare i dodici nominativi.
+
+Qualora il numero degli aspiranti superi quello stabilito, la ammissione sara' subordinata ad una prova di esame.
+
+Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali, oltre ad un periodo d'internato obbligatorio di almeno (6) sei mesi per ogni anno di corso.
+
+Il periodo d'internato potra' essere abbreviato per coloro che documentino di svolgere effettivo servizio presso reparti di chirurgia pediatrica universitari ed ospedalieri.
+
+Art. 191. - Le materie d'insegnamento sono le seguenti:
+
+1° Anno:
+
+a) anatomia patologica e teratologia (lezioni);
+
+b) endocrinologia infantile (conferenze);
+
+c) clinica pediatrica (lezioni);
+
+d) clinica chirurgica pediatrica (lezioni);
+
+e) patologia chirurgica e semeiotica chirurgica (lezioni);
+
+f) diagnostica radiologica e nucleare delle malattie chirurgiche dell'infanzia (lezioni);
+
+g) anestesiologia e rianimazione (conferenze).
+
+2° Anno:
+
+a) clinica pediatrica (lezioni);
+
+b) clinica chirurgica pediatrica (lezioni);
+
+c) chirurgia d'urgenza nell'infanzia (conferenze);
+
+d) otorinolaringoiatria nell'infanzia (conferenze);
+
+e) ortopedia nell'infanzia (conferenze);
+
+f) urologia nell'infanzia (conferenze);
+
+g) neurochirurgia infantile (conferenze);
+
+h) chirurgia del cuore e dei grossi vasi (conferenze).
+
+Art. 192. - La frequenza alle lezioni e conferenze e' obbligatoria.
+
+Al termine di ciascun anno accademico gli specializzandi che abbiano ottenuto le firme di frequenza dovranno sostenere gli esami di profitto delle materie insegnate.
+
+Per accedere ai corsi successivi e' obbligatorio il superamento di tutti gli esami del corso precedente.
+
+Gli esami possono essere sostenuti solamente in due sessioni annuali; una estiva ed una autunnale, e comunque non oltre il 30 novembre dell'anno in corso.
+
+Al termine del corso gli specializzandi dovranno presentare una dissertazione scritta su argomento di chirurgia infantile e sostenere l'esame di diploma.
+
+Scuola di specializzazione in neurologia
+
+Art. 193. - Programma delle materie di insegnamento.
+
+1° Anno (internato in psichiatria):
+
+anatomia e istologia del S.N.;
+
+fisiologia del S.N.;
+
+biochimica del S.N.;
+
+genetica (elementi);
+
+psicologia generale;
+
+psicopatologia;
+
+semeiotica psichiatrica.
+
+2° Anno:
+
+anatomia e istologia patologica del S.N.;
+
+semeiotica neurologica;
+
+patologia speciale e diagnostica neurologica (1°);
+
+neuro-radiologia;
+
+endocrinologia e neurologia vegetativa.
+
+3° Anno:
+
+patologia speciale e diagnostica neurologica (2°);
+
+clinica neurologica e terapia (1°);
+
+elettroencefalografia;
+
+elettromiografia, elettrodiagnostica e elettroterapia;
+
+neuroftalmologia;
+
+neuro-otologia;
+
+esami di laboratorio.
+
+4° Anno:
+
+clinica Neurologica e terapia (2°);
+
+neurochirurgia;
+
+teoria e clinica della riabilitazione;
+
+neuro-traumatologia anche sotto l'aspetto della medicina legale;
+
+neurologia in rapporto alla patologia internistica.
+
+Art. 194. - La durata del corso di studi della scuola di specializzazione in neurologia e' di quattro anni.
+
+Internato obbligatorio per l'intero anno scolastico nel 2°, 3° e 4° anno in clinica neurologica sede della scuola. Tale internato potra' essere ridotto a non meno di mesi 4 per anno per i medici che prestano regolare servizio in reparto neurologico.
+
+Internato obbligatorio per l'intero anno scolastico in psichiatria nel 1° anno.
+
+Tale internato potra' essere ridotto a non meno di mesi 5 per i medici che prestino servizio in reparto neurologico e a non meno di mesi 4 per coloro che prestino servizio in ospedale psichiatrico.
+
+Esami obbligatori per il passaggio all'anno successivo.
+
+L'ammissione e' per titoli e esame. Sono ammessi i laureati in medicina e chirurgia per un numero complessivo di venti iscritti.
+
+Un abbuono di anni 2 puo' essere concesso agli specialisti in psichiatria, neuropsichiatria infantile e neurochirurgia. Un anno di abbuono per gli specialisti in altre materie affini (medicina interna, otorinolaringoiatria, oculistica, radiologia).
+
+Gli abbuoni possono essere concessi solo superando un esame di ammissione. Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 24 ottobre 1975
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 3 gennaio 1976 Atti di Governo, registro n. 1, foglio n. 1
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Dopo l'art. 197, con il conseguente spostamento della numerazione successiva, sono aggiunti i seguenti nuovi articoli:  
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923), e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Scuola di specializzazione in biochimica marina  
-Art. 198. - Presso la facolta' di scienze matematiche, fisiche e naturali, e' istituita una scuola biennale di specializzazione in biochimica marina, presso l'istituto di chimica organica.  
-Art. 199. - Scopo della scuola e' quello di fornire agli iscritti le cognizioni scientifiche e tecniche necessarie per svolgere l'attivita' di biochimico nel campo dell'ecologia marina, della produttivita', del controllo igienico-sanitario di qualita' e delle utilizzazioni industriali delle risorse biologiche marine.  
-Art. 200. - Il direttore della scuola e' nominato dal consiglio della facolta' di scienze per un anno ed e' riconfermabile. Egli presiede il consiglio della scuola, costituito da tutti i docenti, vigila sul buon funzionamento di essa ed e' tenuto a dare comunicazione al preside della facolta' di scienze di tutti gli atti e deliberazioni del consiglio da lui presieduto.  
-Art. 201. - Alla scuola possono iscriversi i laureati in chimica, chimica industriale, chimica e tecnologie farmaceutiche, farmacia, medicina e chirurgia, medicina veterinaria, scienze agrarie, scienze biologiche, scienze naturali, che nel corso degli studi abbiano superato l'esame di almeno un insegnamento di indirizzo biologico. Il numero massimo degli iscritti alla scuola, viene stabilito di anno in anno dal consiglio della stessa ed e' approvato dal consiglio di facolta'.  
-Art. 202. - Per il conseguimento del titolo di specialista e' obbligatoria la frequenza alle lezioni, esercitazioni, conferenze, ai colloqui tenuti espressamente per il corso in oggetto; e' altresi' obbligatoria la frequenza, per un periodo non inferiore a sei mesi, dei laboratori, dei dipartimenti o istituti presso i quali si tengono gli insegnamenti, ai fini del migliore apprendimento e dello svolgimento delle tesi di specializzazione.  
-Art. 203. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+L'art. 151, relativo alla scuola di specializzazione in anestesiologia e rianimazione, e' modificato nel senso che il numero degli iscritti e' stabilito in 45 (quarantacinque) per i tre anni di corso (quindici per ogni anno di corso).  
+Dopo l'art. 186 sono inseriti, con il conseguente spostamento della numerazione degli articoli successivi, i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in chirurgia dell'infanzia e in neurologia.  
+  
+Scuola di specializzazione in chirurgia dell'infanzia  
+  
+Art. 187. - La scuola di specializzazione in chirurgia dell'infanzia ha sede presso la clinica chirurgica pediatrica; la direzione della scuola e' affidata al titolare dell'insegnamento di clinica chirurgica pediatrica ed in sua assenza ad altro professore di ruolo ed e' retta secondo le norme del regolamento generale per le scuole di specializzazione della facolta' di medicina e chirurgia dell'Universita' di Messina.  
+Art. 188. - La scuola di specializzazione in chirurgia dell'infanzia conferisce il diploma di specialista in chirurgia dell'infanzia.  
+Art. 189. - La durata del corso degli studi per il conseguimento della specialita' in chirurgia dell'infanzia e' fissata in 2 (due) anni.  
+Possono ottenere l'iscrizione alla scuola i laureati in medicina e chirurgia che siano in possesso del diploma di specialista in chirurgia generale o abbiano conseguito la libera docenza in clinica chirurgica, o patologia chirurgica, o semeiotica chirurgica, o anatomia chirurgica o chirurgia pediatrica.  
+Non e' ammessa l'abbreviazione di corso.  
+Art. 190. - In base alle regole generali sancite per tutte le scuole dal Ministero della pubblica istruzione il numero complessivo degli iscritti alla scuola nei due anni di corso non puo' superare i dodici nominativi.  
+Qualora il numero degli aspiranti superi quello stabilito, la ammissione sara' subordinata ad una prova di esame.  
+Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali, oltre ad un periodo d'internato obbligatorio di almeno (6) sei mesi per ogni anno di corso.  
+Il periodo d'internato potra' essere abbreviato per coloro che documentino di svolgere effettivo servizio presso reparti di chirurgia pediatrica universitari ed ospedalieri.  
+Art. 191. - Le materie d'insegnamento sono le seguenti:  
 1° Anno:  
-oceanografia fisica e chimica;  
-biochimica e fisiologia degli animali acquatici;  
-biochimica e fisiologia dei vegetali acquatici;  
-metodi analitici per il controllo delle acque di mare;  
-istochimica;  
-biologia marina.  
+a) anatomia patologica e teratologia (lezioni);  
+b) endocrinologia infantile (conferenze);  
+c) clinica pediatrica (lezioni);  
+d) clinica chirurgica pediatrica (lezioni);  
+e) patologia chirurgica e semeiotica chirurgica (lezioni);  
+f) diagnostica radiologica e nucleare delle malattie chirurgiche dell'infanzia (lezioni);  
+g) anestesiologia e rianimazione (conferenze).  
 2° Anno:  
-biochimica applicata;  
-bromatologia dei prodotti della pesca;  
-microbiologia marina;  
-effetti biologici degli inquinamenti;  
-prodotti biologicamente attivi da organismi marini;  
-fitobiologia marina.  
-Art. 204. - I docenti dei singoli insegnamenti sono nominati per incarico, anno per anno, dal consiglio di facolta' su proposta del direttore della scuola.  
-Art. 205. - Gli esami di profitto vengono sostenuti al termine dell'anno di frequenza. Al termine del 2ª anno viene sostenuto l'esame di diploma, consistente nella discussione di una dissertazione scritta, svolta dal candidato su un argomento da lui scelto ed approvato dal direttore della scuola, di fronte alla commissione di diploma costituita a norma dello statuto dell'Universita'.  
-Art. 206. - Le tasse e sopratasse da pagarsi dagli iscritti alla scuola sono le seguenti:  
+a) clinica pediatrica (lezioni);  
+b) clinica chirurgica pediatrica (lezioni);  
+c) chirurgia d'urgenza nell'infanzia (conferenze);  
+d) otorinolaringoiatria nell'infanzia (conferenze);  
+e) ortopedia nell'infanzia (conferenze);  
+f) urologia nell'infanzia (conferenze);  
+g) neurochirurgia infantile (conferenze);  
+h) chirurgia del cuore e dei grossi vasi (conferenze).  
+Art. 192. - La frequenza alle lezioni e conferenze e' obbligatoria.  
+Al termine di ciascun anno accademico gli specializzandi che abbiano ottenuto le firme di frequenza dovranno sostenere gli esami di profitto delle materie insegnate.  
+Per accedere ai corsi successivi e' obbligatorio il superamento di tutti gli esami del corso precedente.  
+Gli esami possono essere sostenuti solamente in due sessioni annuali; una estiva ed una autunnale, e comunque non oltre il 30 novembre dell'anno in corso.  
+Al termine del corso gli specializzandi dovranno presentare una dissertazione scritta su argomento di chirurgia infantile e sostenere l'esame di diploma.  
   
-tassa di ammissione (all'atto della domanda). . . . . . . . L. 10.000 tassa di immatricolazione . . . . . . . . . . . . . . . . . L. 10.000 tassa di iscrizione . . . . . . . . . . . . . . L. 45.000 (in 4 rate) sopratassa di esame. . . . . . . . . . . . . . . L. 5.000 (in 2 rate) contributo di laboratorio . . . . . . . . . . . L. 90.000 (in 3 rate) libretto . . . . . . . . . . . . . . . . . . . . . . . . . . L. 1.000 sopratassa esame di diploma. . . . . . . . . . . . . . . . . L. 5.000 tassa di ripetizione esami . . . . . . . . . . . . . . . . . L. 2.000 tassa ripetizione esami diploma. . . . . . . . . . . . . . . L. 1.000 tassa fuori corso . . . . . . . . . . . . . . . . . . . . . L. 20.000 contributo pergamena . . . . . . . . . . . . . . . . . . . . L. 2.000 tassa diploma all'erario . . . . . . . . . . . . . . . . . . L. 6.000   
-Art. 207. - Al finanziamento della scuola viene provveduto oltre che con gli introiti di cui all'articolo precedente con eventuali contributi dei Ministeri ed assessorati regionali interessati o di altri enti o istituzioni, pubblici o privati, che intendano cooperare al raggiungimento dei fini che la scuola si propone.  
+Scuola di specializzazione in neurologia  
+  
+Art. 193. - Programma delle materie di insegnamento.  
+1° Anno (internato in psichiatria):  
+anatomia e istologia del S.N.;  
+fisiologia del S.N.;  
+biochimica del S.N.;  
+genetica (elementi);  
+psicologia generale;  
+psicopatologia;  
+semeiotica psichiatrica.  
+2° Anno:  
+anatomia e istologia patologica del S.N.;  
+semeiotica neurologica;  
+patologia speciale e diagnostica neurologica (1°);  
+neuro-radiologia;  
+endocrinologia e neurologia vegetativa.  
+3° Anno:  
+patologia speciale e diagnostica neurologica (2°);  
+clinica neurologica e terapia (1°);  
+elettroencefalografia;  
+elettromiografia, elettrodiagnostica e elettroterapia;  
+neuroftalmologia;  
+neuro-otologia;  
+esami di laboratorio.  
+4° Anno:  
+clinica Neurologica e terapia (2°);  
+neurochirurgia;  
+teoria e clinica della riabilitazione;  
+neuro-traumatologia anche sotto l'aspetto della medicina legale;  
+neurologia in rapporto alla patologia internistica.  
+Art. 194. - La durata del corso di studi della scuola di specializzazione in neurologia e' di quattro anni.  
+Internato obbligatorio per l'intero anno scolastico nel 2°, 3° e 4° anno in clinica neurologica sede della scuola. Tale internato potra' essere ridotto a non meno di mesi 4 per anno per i medici che prestano regolare servizio in reparto neurologico.  
+Internato obbligatorio per l'intero anno scolastico in psichiatria nel 1° anno.  
+Tale internato potra' essere ridotto a non meno di mesi 5 per i medici che prestino servizio in reparto neurologico e a non meno di mesi 4 per coloro che prestino servizio in ospedale psichiatrico.  
+Esami obbligatori per il passaggio all'anno successivo.  
+L'ammissione e' per titoli e esame. Sono ammessi i laureati in medicina e chirurgia per un numero complessivo di venti iscritti.  
+Un abbuono di anni 2 puo' essere concesso agli specialisti in psichiatria, neuropsichiatria infantile e neurochirurgia. Un anno di abbuono per gli specialisti in altre materie affini (medicina interna, otorinolaringoiatria, oculistica, radiologia).  
+Gli abbuoni possono essere concessi solo superando un esame di ammissione. Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1980
+### Dato a Roma, addi' 24 ottobre 1975
 
-PERTINI BODRATO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 31 gennaio 1981
+Registrato alla Corte dei conti, addi' 3 gennaio 1976
 
-Registro n. 9 Istruzione, foglio n. 69
+Atti di Governo, registro n. 1, foglio n. 1

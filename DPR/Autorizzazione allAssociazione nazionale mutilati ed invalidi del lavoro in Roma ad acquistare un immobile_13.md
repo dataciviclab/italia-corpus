@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1975 n. 788
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 279
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1975 n. 788
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 279
+===============================================================
 
 Autorizzazione all'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, ad acquistare un immobile.
 --------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-788. Decreto del Presidente della Repubblica 20 ottobre 1975, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, viene autorizzata ad acquistare, per il prezzo di lire 37.000.000, una porzione di immobile rappresentata da un appartamento al piano terra dello stabile sito in Venezia Dorsoduro, civ. 3880, di proprieta' dei signori Mario Ziliotto e Archis Silvia Ziliotto, censito in catasto al foglio n. 14, mappale 677/1, come da rogito per notaio Angelo Sandi del 5 marzo 1974, n. 31266 di repertorio, destinato a sede dell'ente.  
+279. Decreto del Presidente della Repubblica 10 febbraio 1986, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, viene autorizzata ad acquistare, al prezzo di L. 43.000.000, una porzione di immobile rappresentata da un appartamento sito in Bari, via Quintino Sella n. 218, censito al nuovo catasto edilizio urbano alla partita 60436, foglio 96, particella 187 sub 5, di proprieta' dei signori Luigi Urso e Giuseppe Rossano, come da atto di compravendita, sottoposto a condizione sospensiva, in data 13 maggio 1974, n. 224644 di repertorio, a rogito dott. Enzo Fornaro, notaio in Bari, da adibire ad uffici dell'ente.   
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 17 gennaio 1976  
-Atti di Governo, registro n. 1, foglio n. 40
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 12 giugno 1986   
+Registro n. 1 Lavoro, foglio n. 242

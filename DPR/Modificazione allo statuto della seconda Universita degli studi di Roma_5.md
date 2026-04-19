@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1986 n. 567
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 dicembre 1983 n. 1054
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1986 n. 567
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 dicembre 1983 n. 1054
+================================================================
 
 Modificazione allo statuto della seconda Universita' degli studi di Roma.
 -------------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto della seconda Universita' degli studi di Roma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto della seconda Universita' di Roma, approvato con [decreto del Presidente della Repubblica 29 ottobre 1980, n. 1137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-10-29;1137), e successive modificazioni;
+Veduto lo statuto della seconda Universita' degli studi di Roma, approvato con [decreto del Presidente della Repubblica 3 aprile 1979, n. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1979-04-03;122), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -39,22 +39,22 @@ Articolo unico
 --------------
 
   
-Nell'art. 54, relativo al corso di laurea in matematica, all'elenco degli insegnamenti complementari per l'indirizzo generale, per l'indirizzo didattico e per l'indirizzo applicativo sono aggiunti i seguenti insegnamenti:  
-esercitazioni di preparazioni chimiche;  
-spettroscopia molecolare.  
+Art. 51 - nell'elenco degli insegnamenti del corso di laurea in medicina e chirurgia sono inseriti i seguenti insegnamenti complementari:  
+ematologia pediatrica;  
+neuropsicologia clinica;  
+fisiopatologia medica;  
+traumatologia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 maggio 1986
+### Dato a Roma, addi' 19 dicembre 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 9 settembre 1986
+Registrato alla Corte dei conti, addi' 29 febbraio 1984
 
-Registro n. 69 Istruzione, foglio n. 392
+Registro n. 13 Istruzione, foglio n. 48

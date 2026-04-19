@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 1031
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1981 n. 657
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 1031
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1981 n. 657
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Udine.
 -----------------------------------------------------------------
@@ -10,19 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Udine.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Udine, approvato con [decreto del Presidente della Repubblica 11 giugno 1979, n. 298](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1979-06-11;298), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Udine, approvato con [decreto del Presidente della Repubblica 11 giugno 1979, n. 298](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1979-06-11;298) e modificato con [decreto del Presidente della Repubblica 3 ottobre 1979, n. 587](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1979-10-03;587), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -37,40 +33,31 @@ Decreta:
 
 Lo statuto dell'Universita' di Udine, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 1
+------
 
   
+All'art. 34, relativo al corso di laurea in scienze della produzione animale, l'insegnamento complementare di entomatologia agraria (sem.) muta denominazione in entoanologia agraria (sem.).  
+
+Art. 2
+------
+
   
-Art. 30 - nell'elenco degli insegnamenti fondamentali del corso di laurea in scienze delle preparazioni alimentari, sono apportate le seguenti modifiche:   
-Biennio propedeutico:   
-Sono soppressi gli insegnamenti di:   
-chimica organica (biennale);   
-chimica analitica (biennale),   
-e sono sostituiti con la conseguente variazione della numerazione degli insegnamenti del biennio medesimo, rispettivamente con i seguenti insegnamenti:   
-chimica organica I;   
-chimica organica II;   
-chimica analitica I;   
-chimica analitica II.   
-Triennio di studi di applicazione:   
-E' soppresso l'insegnamento biennale di "industrie alimentari" ed e' sostituito, con la conseguente variazione della numerazione degli insegnamenti del triennio medesimo, dagli insegnamenti di:   
-industrie alimentari I;   
-industrie alimentari II.   
-Art. 31 - il secondo comma e' soppresso e sostituito come segue:   
-"A giudizio della facolta' gli insegnamenti di chimica organica II e chimica analitica II potranno essere svolti nel triennio di applicazione".   
+All'art. 26, relativo al corso di laurea in scienze agrarie, sono aggiunti i seguenti insegnamenti complementari:  
+genetica agraria;  
+miglioramento genetico delle piante agrarie;  
+diritto tributario (sem.).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1985
+### Dato a Roma, addi' 2 maggio 1981
 
-COSSIGA
+PERTINI BODRATO
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DARIDA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 14 novembre 1981
 
-Registrato alla Corte dei conti, addi' 12 aprile 1986
-
-Registro n. 27 Istruzione, foglio n. 314
+Registro n. 107 Istruzione, foglio n. 189

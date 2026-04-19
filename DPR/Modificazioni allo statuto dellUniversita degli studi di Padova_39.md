@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1968 n. 850
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 marzo 1965 n. 442
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1968 n. 850
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 marzo 1965 n. 442
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,300 +20,162 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduta la [legge 13 luglio 1965, n. 884](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-07-13;884);
-
-Veduta la [legge 25 luglio 1966, n. 602](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-25;602);
-
-Vedute le proposte avanzate dalle autorita' accademiche dell'Universita' di Padova, intese ad ottenere l'istituzione della facolta' di scienze statistiche, demografiche ed attuariali, presso l'universita' medesima;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione;
 
-proposta del Ministro per la pubblica istruzione di concerto con il Ministro per il tesoro; Decreta:
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso: L'art. 1 e' abrogato e sostituito dal seguente:
 
 Art. 1
 ------
 
   
-Presso la facolta' di scienze statistiche, demografiche ed attuariali puo' essere istituito il corso di laurea in scienze statistiche ed economiche.  
-Il titolo di studio per l'ammissione al predetto corso di laurea, la durata e l'ordinamento del corso medesimo sono stabiliti dalla tabella annessa al presente decreto, firmato d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione (allegato A).  
-All'elenco delle lauree e dei diplomi, di cui alla tabella I, annessa al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e' aggiunta la "laurea in scienze statistiche ed economiche".  
-La tabella II, annessa al citato regio decreto n. 1652, e' integrata nel senso che la facolta' di scienze statistiche, demografiche ed attuariali rilascia anche la laurea in "scienze statistiche ed economiche".  
-Dopo la tabella VII, annessa al citato regio decreto n. 1652, e' inserita, assumendo il numero VII-bis, la tabella annessa al presente decreto (allegato A).  
-
-Art. 2
-------
-
+Facolta' di giurisprudenza con annessa Scuola di statistica;  
+Facolta' di scienze politiche;  
+Facolta' di economia e commercio;  
+Facolta' di lettere e filosofia;  
+Facolta' di magistero;  
+Facolta' di medicina e chirurgia;  
+Facolta' di scienze matematiche, fisiche e naturali;  
+Facolta' di farmacia;  
+Facolta' di ingegneria;  
+Facolta' di agraria.  
+E' aggregato all'Universita' di Padova l'Istituto sperimentale zooprofilattico delle Venezie.  
+L'art. 2 e' abrogato e sostituito dal seguente:  
+Art. 2. - I direttori dei Seminari sono nominati con le norme stabilite dall'art. 23 del regolamento generale universitario e dai regolamenti particolari che li riguardano, e durano in carica un biennio accademico.  
+Spetta al Consiglio di facolta' di designare il direttore di un Istituto policattedra ovvero di istituire sezioni in seno all'Istituto o, infine, di promuovere la costituzione di nuovi Istituti.  
+La Facolta' assegna le cattedre tra vari Istituti.  
+Art. 15, relativo al corso di laurea in Giurisprudenza, e' aggiunto il seguente comma: "Gli insegnamenti biennali, impartiti da due diversi professori ufficiali, a ciascuno dei quali sia attribuito un distinto anno di corso con proprio programma, comportano due esami separati".  
+Art. 42. - Agli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di:  
+Economia dei Paesi in via di sviluppo (in sostituzione di Economia coloniale);  
+Diritto delle Comunita' europee;  
+Ordinamenti giusprivatistici dei Paesi di lingua spagnola.  
+Art. 47. - Agli insegnamenti complementari del corso di laurea in Economia e commercio e' aggiunto quello di:  
+Storia delle dottrine economiche.  
+Art. 82. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di:  
+Istochimica patologica;  
+Medicina nucleare.  
+Art. 113. - Presso la Facolta' di scienze matematiche fisiche e naturali la denominazione dell'Osservatorio astrofisico di Asiago e' modificato in "Istituto di astronomia con annesso osservatorio astrofisico di Asiago".  
+Art. 132. - Agli insegnamenti complementari del corso di laurea in Farmacia e' aggiunto quello di Farmacia industriale.  
+Art. 139. - Agli Istituti annessi alla Facolta' di farmacia e' aggiunto il:  
+Seminario di scienze farmaceutiche  
+Seminario di scienze farmaceutiche  
+Art. 140. - Il Seminario di scienze farmaceutiche ha lo scopo di promuovere studi e ricerche nel campo delle discipline farmaceutiche pure ed applicate e di offrire la possibilita' ad allievi particolarmente distintisi nello studio e nella ricerca di raggiungere una piu' completa preparazione.  
+L'attivita' del Seminario si svolge per mezzo di conferenze, comunicazioni scientifiche, discussioni, dimostrazioni, viaggi di istruzione, corsi di preparazione e di aggiornamento e di quanto altro possa servire allo scopo su indicato.  
+Art. 141. - Del Seminario fanno parte tutti i professori di ruolo che compongono il Consiglio della Facolta' di farmacia, che costituiscono pure il Consiglio del Seminario.  
+Il direttore viene nominato dal rettore su proposta del Consiglio del Seminario.  
+Art. 142. - L'iscrizione al Seminario e' obbligatoria per gli studenti del III e IV corso della laurea in Farmacia, possono iscriversi anche laureati e laureandi fuori corso in Farmacia e anche gli studenti di altre Facolta' (nonche' laureati e diplomati).  
+Art. 143. - A tutti gli iscritti e' fatto obbligo di versare all'atto dell'iscrizione i contributi che vengono stabiliti dal Consiglio di amministrazione su proposta del Senato accademico, udito il Consiglio del Seminario.  
+Art. 145. - Agli iscritti al Seminario puo' essere rilasciato un certificato.  
+Art. 325, relativo alla Scuola di specializzazione in Malattie dell'apparato respiratorio e' abrogato e sostituito dal seguente:  
   
-A decorrere dall'anno accademico 1968-69 e' istituita presso l'Universita' di Padova, la facolta' di scienze statistiche, demografiche ed attuariali, con il corso di studi che rilascia la laurea in scienze statistiche ed economiche e con il corso di studi, che rilascia il diploma di statistica.  
-
-Art. 3
-------
-
+Scuola di specializzazione in Malattie dell'apparato respiratorio  
+(Durata del corso anni 2)  
+1° Anno:  
+Anatomia normale dell'apparato respiratorio;  
+Fisiologia della respirazione;  
+Batteriologia ed immunologia;  
+Anatomia patologica dell'apparato respiratorio;  
+Semeiotica fisica e strumentale dell'apparato respiratorio;  
+Fisiologia;  
+Ciclica dell'apparato respiratorio.  
+2° Anno:  
+Anatomia patologica dell'apparato respiratorio;  
+Fisiopatologia respiratoria;  
+Clinica dell'apparato respiratorio;  
+Pneumopatie professionali;  
+Radiologia dell'apparato respiratorio;  
+Terapia delle affezioni dell'apparato respiratorio.  
+Il numero dei laureati ammessi ogni anno alla Scuola e' fissato ad un massimo di 20.  
+Internato in Clinica medica, oppure servizio come assistente effettivo per due anni in un sanatorio della Previdenza sociale o in un grande ospedale sanatoriale.  
+- relativo alla Scuola di specializzazione in Radiologia, l'ultimo comma e' abrogato e sostituito dal seguente:  
+"E' obbligatorio l'internato di due anni nell'istituto di radiologia dell'Universita'".  
+- relativo alla Scuola di specializzazione in Cardiologia e' abrogato e sostituito dal seguente:  
   
-Per tale facolta' sono assegnati i seguenti posti di ruolo:  
-a) tre posti di professore, mediante trasferimento dall'organico di cui e' dotata la facolta' di giurisprudenza dalla stessa Universita' di Padova;  
-b) un altro posto di professore, mediante trasferimento dall'organico di cui e' dotata la facolta' di scienze politiche della stessa Universita' di Padova;  
-c) un altro posto di professore, prelevato sul contingente di cui all'[art. 1 della legge 24 febbraio 1967, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-24;62~art1);  
-d) otto posti di assistente, prelevati sul contingente di cui all'art. 18, secondo comma, della suddetta legge n. 62.  
-
-Art. 4
-------
-
+Scuola di specializzazione in Cardiologia  
+(durata del corso 2 anni)  
+1° Anno:  
+Clinica dell'apparato cardiovascolare (lezioni);  
+Morfologia normale dell'apparato cardiovascolare (conferenze);  
+Fisiologia dell'apparato cardiovascolare (conferenze);  
+Anatomia patologica dell'apparato cardiovascolare (conferenze);  
+Farmacologia dell'apparato cardiovascolare (conferenze);  
+Patologia dell'apparato cardiovascolare (lezioni);  
+Radiologia dell'apparato cardiovascolare (dimostrazioni);  
+Elettrofisiologia cardiaca (conferenze);  
+Emodinamica delle cardiopatie acquisite (conferenze);  
+Semeiotica fisica dell'apparato cardiovascolare (esercitazioni);  
+Elettrocardiografia (esercitazioni).  
+2° Anno:  
+Clinica dell'apparato cardiovascolare (lezioni);  
+Terapia chirurgica dell'apparato cardiovascolare (lezioni);  
+Terapia medica dell'apparato cardiovascolare (lezioni);  
+Patologia dell'apparato cardiovascolare (lezioni);  
+Radiologia dell'apparato cardiovascolare (dimostrazioni);  
+Elettrocardiografia clinica (esercitazioni);  
+Emodinamica delle cardiopatie congenite (conferenze);  
+Fonocardiografia e Poligrafia (conferenze);  
+Fisiopatologia del ricambio (conferenze);  
+Semeiologia dell'apparato cardiovascolare (esercitazioni);  
+Tecnica di registrazione (conferenze).  
+Il numero dei laureati ammessi ogni anno alla Scuola e' fissato ad un massimo di 40.  
+Alla Scuola diretta a fini speciali di preparazione per tecnici di laboratorio di Igiene e microbiologia e' aggiunta la:  
   
-Le attribuzioni, demandate dalle vigenti disposizioni di legge e di regolamento al consiglio di facolta', vengono esercitate da un apposito comitato composto di tre professori di ruolo o fuori ruolo, nominati dal Ministro per la pubblica istruzione, su proposta della sezione prima del Consiglio superiore della pubblica istruzione.  
-I professori di ruolo che in base alle vigenti disposizioni verranno a far parte della predetta facolta', saranno aggregati al comitato anzidetto. Tale comitato cessera' dalle sue funzioni allorche' alla facolta' stessa risulteranno assegnati tre professori di ruolo.  
-In ogni caso detto comitato non potra' rimanere in carica oltre un triennio e, qualora allo scadere del triennio medesimo, non risultino assegnati alla facolta' tre professori di ruolo, il Ministro per la pubblica istruzione provvedera' alla nomina di un nuovo comitato con le stesse modalita' indicate nel primo comma del presente articolo.  
-
-Art. 5
-------
-
-  
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti suindicati e' ulteriormente modificato come dal testo annesso al presente decreto - vistato dal Ministro per la pubblica istruzione - contenente le norme relative all'ordinamento del corso di studi della laurea in scienze statistiche ed economiche (allegato B).  
-Il corso di studi per il diploma di statistica, esistente presso la facolta' di giurisprudenza dell'Universita' di Padova passa a far parte della nuova facolta' di scienze statistiche, demografiche ed attuariali, istituita con il presente decreto presso la stessa Universita' degli studi di Padova.  
+Scuola speciale di preparazione per tecnici di Fisio-chinesiterapia a) E' istituita presso l'Istituto di clinica ortopedici dell'Universita' di Padova, ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), una "Scuola di preparazione per tecnici fisio-chinesiterapisti", che ha lo scopo di preparare adeguatamente personale tecnico nel campo della fisio-chinesiterapia. La Scuola ha indirizzo teorico-pratico.  
+b) La durata del corso degli studi della Scuola di preparazione per tecnici fisioterapisti e' di due anni accademici.  
+E' titolo di ammissione il diploma di scuola media unica, il diploma di avviamento professionale, commerciale o industriale o agrario o ad altro indirizzo.  
+c) Al primo anno della Scuola si accede previo esame di cultura generale davanti ad una Commissione composta dal direttore della Scuola e da due insegnanti della Scuola stessa. L'esame di ammissione avra' luogo entro la prima quindicina del mese di ottobre di ciascun anno, in un giorno stabilito dalla Facolta' di medicina e chirurgia, su proposta del direttore della Scuola.  
+d) Il numero massimo dei partecipanti ammessi per ogni anno viene fissato in 20.  
+e) Il direttore della Scuola e' il direttore dell'Istituto di clinica ortopedica dell'universita' di Padova. La Scuola e' sotto la vigilanza della Facolta' di medicina e chirurgia. Gli insegnamenti della Scuola sono proposti dal direttore della stessa, approvati dalla Facolta' di medicina e chirurgia e nominati dal rettore. Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli aiuti ed assistenti della Facolta' di medicina e chirurgia o di altra Facolta' dell'Ateneo o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.  
+f) Le materie d'insegnamento sono le seguenti:  
+1° Anno  
+1) Anatomia dell'apparato locomotore;  
+2) Fisiologia dell'apparato locomotore;  
+3) Elementi di patologia dell'apparato locomotore (biennale);  
+4) Elementi di medicina generale;  
+5) Elementi di psicologia;  
+6) Massoterapia;  
+7) Termoterapia.  
+2° Anno:  
+1) Elementi di patologia dell'apparato locomotore (biennale);  
+2) Idroterapia e balneoterapia;  
+3) Fangoterapia e crenoterapia;  
+4) Elio-climatoterapia;  
+5) Elettroterapia;  
+6) Terapia radiante;  
+7) Ginnastica medica;  
+8) Rieducazione motoria;  
+9) Riabilitazione del motuleso, terapia di occupazione.  
+Ergoterapia.  
+g) Gli iscritti alla Scuola, hanno l'obbligo della frequenza del reparto di fisio-chinesiterapia della Clinica ortopedica per la durata di due anni, compiendo anche un tirocinio pratico nelle varie sezioni del reparto.  
+h) I programmi di insegnamento e gli orari vengono predisposti dal direttore della Scuola ed approvati dal Consiglio della Facolta' di medicina e chirurgia. La sorveglianza degli iscritti per quanto riguarda la loro attivita' pratica spetta al direttore della Scuola.  
+Assenze ingiustificate comportano l'esclusione dal corso.  
+Per essere ammessi a frequentare il secondo anno gli allievi devono aver sostenuto tutti gli esami del primo corso. Nel caso in cui gli allievi non abbiano superato gli esami prescritti essi rimarranno nella posizione di fuori corso fino a quando non avranno assolti gli obblighi di cui sopra.  
+i) Per essere ammessi a sostenere gli esami di diploma, gli allievi dovranno aver seguito i corsi, superato gli esami in tutti gli insegnamenti prescritti e avere compiuto con esito favorevole tutte le esercitazioni pratiche previste.  
+l) Le Commissioni per gli esami di profitto sono nominate dal preside della Facolta' di medicina e chirurgia su proposta del direttore della Scuola.  
+Le Commissioni sono composte di tre membri: dal professore ufficiale della materia, presidente; da un professore ufficiale di materia affine e da un libero docente o cultore della materia. Ogni commissario ha a disposizione dieci punti.  
+m) L'esame di diploma consiste in un esame orale sui temi trattati durante il corso ed in una prova pratica stabilita dalla Commissione esaminatrice.  
+L'esame di diploma viene sostenuto davanti una Commissione di cinque membri scelti tra i docenti della Scuola, nominata dal preside di Facolta' di medicina e chirurgia, su proposta del direttore della Scuola.  
+Ogni commissario ha a disposizione dieci punti.  
+I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza della Scuola ma se al secondo esame non sia loro riconosciuta, una idoneita', saranno senz'altro esclusi da ulteriori prove.  
+Agli allievi che avranno superato l'esame finale viene rilasciato il diploma di "tecnico fisio-chinesiterapista".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 maggio 1968
+### Dato a Roma, addi' 24 marzo 1965
 
-SARAGAT GUI - COLOMBO
+SARAGAT GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 29 luglio 1968
+Registrato alla Corte dei conti, addi' 12 maggio 1965
 
-Atti del Governo, registro n. 222, foglio n. 40. - GRECO
-
-Allegato A
-
- ALLEGATO A   
-  
-TABELLA VII-bis   
-  
-LAUREA IN SCIENZE STATISTICHE ED ECONOMICHE   
-  
-Durata del corso degli studi: quattro anni.   
-Titolo di ammissione: diploma di maturita' classica, o di maturita'   
-scientifica, o di abilitazione per i provenienti dagli istituti tecnici commerciali, industriali, agrari, nautici, per geometri, per il turismo e per periti aziendali e corrispondenti in lingue estere.   
-I diplomati in statistica sono ammessi al terzo anno, ma il   
-consiglio di facolta' provvedera' a prescrivere di volta in volta il piano di studi per adire la laurea.   
-  
-Insegnamenti fondamentali:   
-1. Istituzioni di analisi matematica;   
-2. Analisi matematica;   
-3. Geometria analitica;   
-4. Calcolo delle probabilita';   
-5. Istituzioni di statistica;   
-6. Statistica;   
-7. Statistica metodologica;   
-8. Demografia;   
-9. e 10. Economia e politica (biennale);   
-11. Politica economica e finanziaria;   
-12. Istituzioni di statistica economica;   
-13. Statistica economica;   
-14. Economia d'azienda;   
-15. Statistica aziendale e analisi di mercato;   
-16. Controllo statistico della qualita' e statistica industriale;   
-17. Istituzioni di diritto privato;   
-18. Istituzioni di diritto pubblico;   
-19. Teoria dei campioni.   
-  
-Insegnamenti complementari:   
-1. Geografia politica ed economica;   
-2. Statistica sociale;   
-3. Sociologia;   
-4. Scienza delle finanze;   
-5. Econometrica;   
-6. Contabilita' nazionale;   
-7. Diritto commerciale;   
-8. Diritto del lavoro;   
-9. Matematica finanziaria e istituzioni di matematica attuariale;   
-10. Teoria e tecnica dell'elaborazione automatica dei dati;   
-11. Ricerca operativa;   
-12. Teoria dei sistemi;   
-13. Psicologia sperimentale;   
-14. Antropologia;   
-15. Statistica medica e biometria;   
-16. Statistica applicata alle scienze fisiche;   
-17. Genetica;   
-18. Diritto dell'economia pubblica;   
-19. Storia della statistica.   
-  
-Gli insegnamenti complementari possono essere scelti dallo studente   
-anche fra le discipline impartite nel biennio per il diploma in statistica o fra quelle impartite in altre facolta' dell'ateneo, previa approvazione del preside della facolta'. Detta approvazione deve essere richiesta entro il 31 dicembre di ogni anno.   
-Per essere ammesso all'esame di laurea lo studente deve aver   
-seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali e di almeno tre complementari. Deve anche aver superato gli esami di due lingue straniere moderne, dei quali almeno uno di lingua francese o inglese o tedesca presso la facolta' di scienze politiche, e l'altro di lingua il cui insegnamento sia impartito presso qualsiasi facolta' dell'ateneo.   
-Per essere iscritto al secondo anno lo studente deve aver superato almeno due esami fondamentali del primo anno.   
-Per l'insegnamento biennale di economia politica e' prescritto   
-l'esame alla fine di ciascun corso annuale, dovendosi il primo considerare propedeutico rispetto al secondo.   
-  
-Visto, d'ordine del Presidente della Repubblica   
-  
-Il Ministro per la pubblica istruzione   
-GUI   
-
-Allegato B
-
- ALLEGATO B   
-  
-Testo delle modifiche dello statuto dell'Universita' degli studi di Padova, relativo all'istituzione della facolta' di scienze   
-statistiche, demografiche ed attuariali.   
-  
-Art. 1. - All'elenco delle facolta', che comprende l'Universita'   
-degli studi di Padova, e' aggiunta la seguente: "facolta' di scienze statistiche, demografiche ed attuariali con annessa la scuola di statistica".   
-Poiche' la scuola di statistica non fa piu' parte della facolta' di   
-giurisprudenza nello stesso primo articolo la relativa annotazione al secondo capoverso viene soppressa, cosi' come vengono soppressi con il conseguente spostamento della successiva numerazione, gli articoli 37, 38, 39, 40 e 41, relativi all'ordinamento della suddetta scuola di statistica.   
-Dopo l'art. 53, e con ii conseguente spostamento della successiva numerazione sono inseriti il seguente nuovo titolo IV e i seguenti nuovi articoli da 54 a 60, relativi all'ordinamento della nuova facolta' di scienze statistiche, demografiche ed attuariali con il corso di studi per il conseguimento della laurea in scienze statistiche ed economiche ed il corso di studi pernamento della suddetta scuola di statistica.   
-  
-Titolo IV   
-Facolta' di scienze statistiche demografiche ed attuariali   
-  
-Art. 54.   
-  
-La facolta' di scienze statistiche, demografiche e attuariali   
-conferisce:   
-la laurea in scienze statistiche ed economiche;   
-il diploma in statistica.   
-  
-Art. 55.   
-  
-La durata del corso degli studi per la laurea in scienze   
-statistiche ed economiche e' di quattro anni. E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica o di abilitazione per i provenienti dagli istituti tecnici commerciali, industriali, agrari, nautici, per geometri, per il turismo e per periti aziendali e corrispondenti in lingue estere; i diplomati in statistica sono ammessi al terzo anno e il consiglio di facolta' provvedera' a prescrivere di volta in volta il piano di studi per la laurea.   
-  
-Sono insegnamenti fondamentali:   
-1. Istituzioni di analisi matematica;   
-2. Analisi matematica;   
-3. Geometria analitica;   
-4. Calcolo delle probabilita';   
-5. Istituzioni di statistica;   
-6. Statistica;   
-7. Statistica metodologica;   
-8. Demografia;   
-9. e 10. Economia politica (biennale);   
-11. Politica economica e finanziaria;   
-12. Istituzioni di statistica economica;   
-13. Economia d'azienda;   
-14. Statistica economica;   
-15. Statistica aziendale e analisi di mercato;   
-16. Controllo statistico della qualita' e statistica industriale;   
-17. Istituzioni di diritto privato;   
-18. Istituzioni di diritto pubblico;   
-19. Teoria dei campioni.   
-  
-Sono insegnamenti complementari:   
-1. Geografia politica ed economica;   
-2. Statistica sociale;   
-3. Sociologia;   
-4. Scienza delle finanze;   
-5. Econometrica;   
-6. Contabilita' nazionale;   
-7. Diritto commerciale;   
-8. Diritto del lavoro;   
-9. Matematica finanziaria e istituzioni di matematica attuariale;   
-10. Teoria e tecnica dell'elaborazione automatica dei dati;   
-11. Ricerca operativa;   
-12. Teoria dei sistemi;   
-13. Psicologia sperimentale;   
-14. Antropologia;   
-15. Statistica medica e biometria;   
-16. Statistica applicata alle scienze fisiche;   
-17. Genetica;   
-18. Diritto dell'economia pubblica;   
-19. Storia della statistica.   
-  
-Gli insegnamenti complementari possono essere scelti dallo studente   
-anche fra le discipline impartite nel biennio per il diploma di statistica o fra quelle impartite in altre facolta' dell'ateneo, previa approvazione del preside della facolta'. Detta approvazione deve essere richiesta entro il 31 dicembre di ogni anno.   
-Per essere ammesso all'esame di laurea lo studente deve aver   
-seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali e di almeno tre complementari. Dovra' anche aver superato gli esami di due lingue straniere moderne, dei quali almeno uno di lingua francese o inglese o tedesca presso la facolta' di scienze politiche, e l'altro di lingua il cui insegnamento sia impartito presso qualsiasi facolta' dell'ateneo.   
-Per essere iscritto al secondo anno lo studente deve aver superato almeno due esami fondamentali del primo anno.   
-Per l'insegnamento biennale di economia politica e' prescritto   
-l'esame alla fine di ciascun corso annuale, dovendosi il primo considerare propedeutico rispetto al secondo.   
-  
-Art. 56.   
-  
-Gli esami di istituzioni di analisi matematica, di analisi   
-matematica, di geometria analitica, di calcolo delle probabilita', di istituzioni di statistica, di statistica, di economia politica (primo esame), di istituzioni di statistica economica, di statistica economica, di istituzioni di diritto privato, di istituzioni di diritto pubblico, devono essere superati prima degli altri esami fondamentali.   
-Gli esami di istituzioni di analisi matematica e di geometria   
-analitica dovranno essere superati prima degli esami di analisi matematica e di statistica.   
-L'esame di istituzioni di statistica dovra' essere superato prima degli esami di statistica, di demografia e di statistica economica.   
-L'esame di analisi matematica dovra' essere superato prima   
-dell'esame di calcolo delle probabilita'.   
-Gli esami di economia politica (primo esame) e di istituzioni di   
-statistica economica, dovranno essere superati prima dell'esame di statistica economica.   
-L'esame di economia politica (secondo esame) dovra' essere superato   
-prima dell'esame di politica economica e finanziaria.   
-L'esame di laurea consiste nella discussione di una dissertazione scritta svolta su tema approvato dal professore della materia e nella discussione di almeno due su tre temi orali scelti dal candidato vertenti su materie fondamentali del suo corso di studi e parimenti approvati dai professori delle rispettive materie.   
-Uno di questi temi deve riguardare la statistica metodologica ed   
-uno la statistica applicata.   
-  
-Art. 57.   
-  
-La durata del corso degli studi per il diploma in statistica e' di due anni.   
-E' titolo di ammissione il diploma di maturita' classica, di   
-maturita' scientifica, di abilitazione per i provenienti dagli istituti tecnici commerciali, per geometri, industriali, agrari, nautici, per il turismo, per periti aziendali e corrispondenti in lingue estere.   
-  
-Sono insegnamenti fondamentali:   
-1. Elementi di matematica;   
-2. Statistica;   
-3. Statistica economica - corso elementare;   
-4. Statistica giudiziaria (semestrale);   
-5. Statistica sociale (semestrale);   
-6. Antropometria (semestrale);   
-7. Statistica sanitaria (semestrale);   
-8. Sociologia generale;   
-9. Demografia;   
-10. Geografia politica ed economica.   
-  
-Sono insegnamenti complementari:   
-1. Economia politica - corso elementare;   
-2. Biometria;   
-3. Antropologia;   
-4. Nozioni elementari di diritto privato e pubblico;   
-5. Calcolo delle probabilita'; sue applicazioni statistiche;   
-6. Controllo statistico della qualita' e statistica industriale;   
-7. Programmazione ed interpretazione statistica degli   
-esperimenti;   
-8. Teoria e tecnica dell'elaborazione automatica dei dati;   
-9. Ricerca operativa;   
-10. Economia d'azienda.   
-  
-Gli insegnamenti semestrali di statistica giudiziaria e statistica sociale e quelli pure semestrali di antropometria e statistica sanitaria, comportano rispettivamente esami unici.   
-L'insegnamento biennale di statistica economica comporta un esame alla fine di ogni anno.   
-L'insegnamento di elementi di matematica e' propedeutico rispetto a   
-quello di statistica.   
-Gli insegnamenti complementari possono essere scelti dallo studente   
-anche fra le discipline impartite nel corso di laurea in scienze statistiche ed economiche o in altre facolta' dell'ateneo, previa approvazione del preside della facolta'.   
-Per essere ammesso all'esame di diploma lo studente deve aver   
-seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in due complementari.   
-  
-Art. 58.   
-  
-L'esame di statistica deve essere superato prima degli esami di   
-statistica economica, anche per il primo anno, di statistica giudiziaria e sociale, di antropometria, di statistica sanitaria e di demografia.   
-L'esame di diploma consiste nella discussione orale di una   
-dissertazione scritta, svolta su un tema approvato dal professore della materia.   
-  
-Art. 59.   
-  
-Appartiene alla facolta' di scienze statistiche, demografiche e   
-attuariali l'istituto di statistica, che comprende i seminari di statistica, demografia, statistica economica ed aziendale, statistica sociale, biometria e statistica sanitaria, matematica, calcolo delle probabilita' e scienze economiche.   
-La facolta' di scienze statistiche, demografiche e attuariali   
-nomina i direttori dell'istituto e dei seminari con le norme stabilite dall'art. 23 del regolamento generale universitario e dei regolamenti che li riguardano. I direttori durano in carica due anni.   
-Il collegamento fra istituto e seminario e' effettuato per mezzo del consiglio dei direttori, presieduto dal preside della facolta', sentiti i singoli professori che insegnano le materie comprese nell'ambito dell'istituto.   
-Sono ammessi a frequentare l'istituto ed i singoli seminari gli   
-studenti della facolta' nonche' gli studenti di altra facolta' ed i laureati che ne facciano domanda. Alle modalita' di frequenza e di iscrizione sara' provveduto con un regolamento interno di facolta'.   
-  
-Art. 60.   
-  
-La facolta' di scienze statistiche, demografiche ed attuariali ha una propria biblioteca che e' disciplinata da un regolamento approvato dal consiglio di facolta'".   
-  
-Visto, d'ordine del Presidente della Repubblica   
-  
-Il Ministro per la pubblica istruzione   
-GUI   
+Atti del Governo, registro n. 193, foglio n. 41. - VILLA

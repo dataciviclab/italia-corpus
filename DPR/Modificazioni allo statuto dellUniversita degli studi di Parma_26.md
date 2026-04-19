@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 maggio 1972 n. 354
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1963 n. 666
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 maggio 1972 n. 354
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1963 n. 666
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -10,175 +10,180 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772) e successivi;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro per la pubblica, istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 52: all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:
+Art. 55, relativo al corso di laurea in Chimica e' aggiunto il seguente comma: "Per essere ammesso all'esame di laurea lo studente deve inoltre aver sostenuto un colloquio di cultura generale nelle discipline chimiche davanti ad una Commissione nominata dal preside.
 
-Storia delle dottrine teologiche;
+Tale colloquio, pero', non ha carattere preelusivo".
 
-Storia delle istituzioni religiose;
+Art. 56, relativo alle norme per l'esame di laurea e' modificato nel senso che e' abrogato il numero 2 che prescrive "un colloquio di cultura, di chimica".
 
-Storia delle religioni.
+Art. 57. - Agli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti quelli di "Immunogenetica" e "Genetica dei microorganismi".
 
-Art. 53: all'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:
+Art. 59. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti quelli di "Immunogenetica" e "Genetica dei microorganismi".
 
-Storia delle dottrine teologiche;
+Art. 69. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti quelli di "Geofisica applicata", "Giacimenti minerari", "Petrografia applicata", "Petrotettonica", "Vulcanologia", "Analisi mineralogiche", "Sedimentologia", "Cristallografia strutturale" e "Micropaleontologia".
 
-Storia delle istituzioni religiose;
+Art. 73, relativo al corso di laurea in Scienze geologiche e' aggiunto il seguente comma: "Per essere ammesso all'esame di laurea lo studente deve inoltre avere sostenuto un colloquio di cultura generale nelle scienze geologiche (geologia, paleontologia, geografia, mineralogia, petrografia), da sostenersi davanti ad una Commissione nominata dal preside. Tale colloquio, pero', non ha carattere preclusivo".
 
-Storia delle religioni.
+Art. 74, relativo alle norme per l'esame di laurea l'ultimo comma e' abrogato.
 
-Art. 54: all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:
+Dopo l'art. 152 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Fisiocinesiterapia ortopedica con il conseguente spostamento della numerazione degli articoli successivi.
 
-Storia delle dottrine teologiche;
+Scuola di specializzazione in fisiocinesiterapia ortopedica
 
-Storia delle istituzioni religiose;
+Art. 153. - E' istituita la Scuola di specializzazione in Fisiocinesiterapia ortopedica, con sede presso la Clinica ortopedica della Facolta' di medicina e chirurgia, che conferisce il diploma di specialista in Fisiocinesiterapia ortopedica.
 
-Storia delle religioni.
+Il direttore della Scuola e' il direttore della clinica ortopedica della Facolta' di medicina e chirurgia.
 
-Art. 69: all'elenco degli insegnamenti complementari del corso di laurea in matematica sono aggiunti i seguenti:
+I docenti saranno scelti fra i professori della Facolta' stessa.
 
-Didattica della matematica;
+Art. 154. - Alla Scuola sono ammessi i laureati in medicina e chirurgia. Essa ha indirizzo teorico-pratico con lo scopo di specializzare nella rieducazione e riabilitazione funzionale e professionale di tutti i motulesi.
 
-Linguistica matematica;
+Art. 155. - L'ammissione alla Scuola avviene attraverso concorso interno con esami.
 
-Sistemi per l'elaborazione dell'informazione;
+Il numero degli ammessi e' stabilito anno per anno dal direttore della Scuola e non puo' superare i venti.
 
-Teoria degli automi;
+Art. 156. - La Scuola ha la durata di due anni.
 
-Ricerca operativa;
+Art. 157. - Le materie di insegnamento sono:
 
-Teoria dei sistemi.
+1° anno:
 
-Art. 113: all'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti i seguenti:
+1) Anatomia degli organi di movimento;
 
-Analisi chimica farmaceutica strumentale;
+2) Fisiologia degli organi di movimento;
 
-Biofarmaceutica;
+3) Anatomia patologica delle lesioni dell'apparato motore;
 
-Chemioterapia;
+4) Patologia delle motulesioni;
 
-Farmacocinetica;
+5) Termoterapia;
 
-Legislazione ed amministrazione farmaceutica: farmacia ospedaliera;
+6) Massoterapia;
 
-Storia della farmacia;
+7) Idroterapia, balneoterapia, fangoterapia.
 
-Tecnologie chimico-farmaceutiche;
+2° anno:
 
-Tossicologia.
+1) Clinica delle motulesioni;
 
-Gli articoli 115 e 116, relativi alle norme per gli esami di laurea in farmacia, sono abrogati e sostituiti dal seguente con lo spostamento della numerazione degli articoli successivi.
+2) Elettrodiagnosi ed elettroterapia;
 
-Art. 115. - L'esame di laurea in farmacia si sostiene in una seduta unica alla fine del 4° anno e comprende:
+3) Ginnastica medica (profilattica e correttiva);
 
-a) discussione orale su di una dissertazione scritta presentata dal candidato, dietro ricerche preferibilmente sperimentali, in una delle discipline della facolta' nella quale abbia superato l'esame e sopra un argomento attinente agli scopi e agli intendimenti della laurea;
+4) Terapia del movimento e meccanoterapia;
 
-b) discussione orale su uno di due argomenti scelti dal candidato in diverse materie d'insegnamento della facolta', escluso quello della dissertazione;
+5) Rieducazione motoria e riabilitazione.
 
-c) discussione orale sulla pratica farmaceutica, l'arte del ricettare la Farmacopea italiana, la legislazione farmaceutica.
+Art. 158. - Le lezioni, le dimostrazioni e le esercitazioni si svolgeranno presso la Clinica, ortopedica in conformita' dell'orario che, al principio dell'anno, verra' stabilito dal direttore della Scuola.
 
-Sull'insieme di queste prove viene dato un voto unico.
+Art. 159. - Alla fine del primo anno gli allievi dovranno sostenere un esame di profitto nel gruppo di materie del primo corso.
+
+Alla fine del secondo anno gli allievi dovranno sostenere un esame di profitto nel gruppo di materie del secondo corso.
+
+L'esame di diploma consiste nella discussione di una dissertazione scritta.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 16 maggio 1972
+Dato a Roma, addi' 14 marzo 1963
 
-LEONE
+SEGNI
 
-MISASI
+GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BOSCO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 25 luglio 1972 Atti del Governo, registro n. 250, foglio n. 72. - CARUSO
+alla Corte dei conti, addi' 13 maggio 1963 Atti del Governo, registro n. 169, foglio n. 22. - VILLA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica, istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-Art. 52: all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:   
-Storia delle dottrine teologiche;   
-Storia delle istituzioni religiose;   
-Storia delle religioni.   
-Art. 53: all'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:   
-Storia delle dottrine teologiche;   
-Storia delle istituzioni religiose;   
-Storia delle religioni.   
-Art. 54: all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:   
-Storia delle dottrine teologiche;   
-Storia delle istituzioni religiose;   
-Storia delle religioni.   
-Art. 69: all'elenco degli insegnamenti complementari del corso di laurea in matematica sono aggiunti i seguenti:   
-Didattica della matematica;   
-Linguistica matematica;   
-Sistemi per l'elaborazione dell'informazione;   
-Teoria degli automi;   
-Ricerca operativa;   
-Teoria dei sistemi.   
-Art. 113: all'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti i seguenti:   
-Analisi chimica farmaceutica strumentale;   
-Biofarmaceutica;   
-Chemioterapia;   
-Farmacocinetica;   
-Legislazione ed amministrazione farmaceutica: farmacia ospedaliera;   
-Storia della farmacia;   
-Tecnologie chimico-farmaceutiche;   
-Tossicologia.   
-Gli articoli 115 e 116, relativi alle norme per gli esami di laurea in farmacia, sono abrogati e sostituiti dal seguente con lo spostamento della numerazione degli articoli successivi.   
-Art. 115. - L'esame di laurea in farmacia si sostiene in una seduta unica alla fine del 4° anno e comprende:   
-a) discussione orale su di una dissertazione scritta presentata dal candidato, dietro ricerche preferibilmente sperimentali, in una delle discipline della facolta' nella quale abbia superato l'esame e sopra un argomento attinente agli scopi e agli intendimenti della laurea;   
-b) discussione orale su uno di due argomenti scelti dal candidato in diverse materie d'insegnamento della facolta', escluso quello della dissertazione;   
-c) discussione orale sulla pratica farmaceutica, l'arte del ricettare la Farmacopea italiana, la legislazione farmaceutica.   
-Sull'insieme di queste prove viene dato un voto unico.   
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 55, relativo al corso di laurea in Chimica e' aggiunto il seguente comma: "Per essere ammesso all'esame di laurea lo studente deve inoltre aver sostenuto un colloquio di cultura generale nelle discipline chimiche davanti ad una Commissione nominata dal preside.  
+Tale colloquio, pero', non ha carattere preelusivo".  
+Art. 56, relativo alle norme per l'esame di laurea e' modificato nel senso che e' abrogato il numero 2 che prescrive "un colloquio di cultura, di chimica".  
+Art. 57. - Agli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti quelli di "Immunogenetica" e "Genetica dei microorganismi".  
+Art. 59. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti quelli di "Immunogenetica" e "Genetica dei microorganismi".  
+Art. 69. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti quelli di "Geofisica applicata", "Giacimenti minerari", "Petrografia applicata", "Petrotettonica", "Vulcanologia", "Analisi mineralogiche", "Sedimentologia", "Cristallografia strutturale" e "Micropaleontologia".  
+Art. 73, relativo al corso di laurea in Scienze geologiche e' aggiunto il seguente comma: "Per essere ammesso all'esame di laurea lo studente deve inoltre avere sostenuto un colloquio di cultura generale nelle scienze geologiche (geologia, paleontologia, geografia, mineralogia, petrografia), da sostenersi davanti ad una Commissione nominata dal preside. Tale colloquio, pero', non ha carattere preclusivo".  
+Art. 74, relativo alle norme per l'esame di laurea l'ultimo comma e' abrogato.  
+Dopo l'art. 152 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Fisiocinesiterapia ortopedica con il conseguente spostamento della numerazione degli articoli successivi.  
+Scuola di specializzazione in fisiocinesiterapia ortopedica  
+Art. 153. - E' istituita la Scuola di specializzazione in Fisiocinesiterapia ortopedica, con sede presso la Clinica ortopedica della Facolta' di medicina e chirurgia, che conferisce il diploma di specialista in Fisiocinesiterapia ortopedica.  
+Il direttore della Scuola e' il direttore della clinica ortopedica della Facolta' di medicina e chirurgia.  
+I docenti saranno scelti fra i professori della Facolta' stessa.  
+Art. 154. - Alla Scuola sono ammessi i laureati in medicina e chirurgia. Essa ha indirizzo teorico-pratico con lo scopo di specializzare nella rieducazione e riabilitazione funzionale e professionale di tutti i motulesi.  
+Art. 155. - L'ammissione alla Scuola avviene attraverso concorso interno con esami.  
+Il numero degli ammessi e' stabilito anno per anno dal direttore della Scuola e non puo' superare i venti.  
+Art. 156. - La Scuola ha la durata di due anni.  
+Art. 157. - Le materie di insegnamento sono:  
+1° anno:  
+1) Anatomia degli organi di movimento;  
+2) Fisiologia degli organi di movimento;  
+3) Anatomia patologica delle lesioni dell'apparato motore;  
+4) Patologia delle motulesioni;  
+5) Termoterapia;  
+6) Massoterapia;  
+7) Idroterapia, balneoterapia, fangoterapia.  
+2° anno:  
+1) Clinica delle motulesioni;  
+2) Elettrodiagnosi ed elettroterapia;  
+3) Ginnastica medica (profilattica e correttiva);  
+4) Terapia del movimento e meccanoterapia;  
+5) Rieducazione motoria e riabilitazione.  
+Art. 158. - Le lezioni, le dimostrazioni e le esercitazioni si svolgeranno presso la Clinica, ortopedica in conformita' dell'orario che, al principio dell'anno, verra' stabilito dal direttore della Scuola.  
+Art. 159. - Alla fine del primo anno gli allievi dovranno sostenere un esame di profitto nel gruppo di materie del primo corso.  
+Alla fine del secondo anno gli allievi dovranno sostenere un esame di profitto nel gruppo di materie del secondo corso.  
+L'esame di diploma consiste nella discussione di una dissertazione scritta.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 maggio 1972
+### Dato a Roma, addi' 14 marzo 1963
 
-LEONE MISASI
+SEGNI GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 25 luglio 1972
+Registrato alla Corte dei conti, addi' 13 maggio 1963
 
-Atti del Governo, registro n. 250, foglio n. 72. - CARUSO
+Atti del Governo, registro n. 169, foglio n. 22. - VILLA

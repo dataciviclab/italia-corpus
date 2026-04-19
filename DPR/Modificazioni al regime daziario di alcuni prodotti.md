@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 aprile 1968 n. 889
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1962 n. 532
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 aprile 1968 n. 889
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1962 n. 532
 =============================================================
 
 Modificazioni al regime daziario di alcuni prodotti.
@@ -10,191 +10,119 @@ Modificazioni al regime daziario di alcuni prodotti.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Vista la [legge 28 luglio 1962, n. 1002](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-07-28;1002), che ratifica e da' esecuzione agli accordi internazionali firmati in Atene il 9 luglio 1961 ed agli atti connessi, relativi all'associazione tra la Comunita' economica europea e la Grecia;
+Viste le [leggi 24 dicembre 1949, n. 993; 7 dicembre 1952, n. 1846; 3 novembre 1954, n. 1077; 6 marzo 1957, n. 68; 24 luglio 1959, n. 693; 20 dicembre 1960, n. 1527 e 26 gennaio 1962, n. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-01-26;6);
 
-Vista la [legge 15 ottobre 1964, n. 959](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-10-15;959), che ratifica e da' esecuzione agli accordi internazionali firmati in Ankara il 12 settembre 1963 ed agli atti connessi, relativi alla associazione tra la Comunita' economica europea e la Turchia;
+Viste la tariffa dei dazi doganali di importazione, approvata con [decreto Presidenziale 21 dicembre 1961, n. 1339](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-12-21;1339) e successive aggiunte e modificazioni;
 
-Vista la tariffa dei dazi doganali di importazione, approvata con [decreto del Presidente della Repubblica 26 giugno 1965, n. 723](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-06-26;723), e successive modificazioni;
+Vista, la [legge 5 aprile 1950, n. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-04-05;295), che da' piena ed intera esecuzione all'Accordo generale sulle tariffe doganali e sul commercio, concluso a Ginevra il 30 ottobre 1947, e le successive aggiunte e modificazioni;
 
-Visto il protocollo n. 15, punto 3, allegato all'accordo di associazione tra la Comunita' economica europea e la Grecia, relativo alle importazioni di tabacchi greggi e di cascami di tabacco (voce n.
+Vista la [legge 31 ottobre 1952, n. 1976](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-10-31;1976), che ratifica e da' Esecuzione alle seguenti Convenzioni internazionali firmate dall'Italia a Bruxelles l'11 gennaio 1951: Convenzione sulla Nomenclatura per la classificazione delle merci nelle tariffe doganali e relativo annesso; Convenzione sul valore in dogana delle merci e relativi annessi; Convenzione per la erezione di un Consiglio di Cooperazione Doganale e relativo annesso; Protocollo relativo al Gruppo di Studi per l'Unione doganale europea;
 
-24.01 della nomenclatura di Bruxelles);
+Vista, la [legge 25 aprile 1957, n. 358](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-04-25;358), che ratifica e da' esecuzione al Protocollo di rettifica alla Convenzione di Bruxelles del 15 dicembre 1950 sulla Nomenclatura per la classificazione delle merci nelle tariffe doganali, firmato a Bruxelles il 1 luglio 1955;
 
-Vista la decisione del Consiglio di associazione tra la Comunita' economica europea e la Turchia n. 1/67, relativa all'applicazione dell'art. 6 del protocollo n. 1 allegato all'accordo di Ankara;
+Vista la [legge 25 giugno 1952, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-06-25;766), che ratifica e da' esecuzione ai seguenti Accordi internazionali firmati a Parigi il 18 aprile 1951: Trattato che istituisce la Comunita' europea del carbone e dell'acciaio e relativi annessi; Protocollo sui privilegi e le immunita' della Comunita'; Protocollo sullo Statuto della Corte di giustizia; Protocollo sulle relazioni con il Consiglio d'Europa;
 
-Vista la decisione del Consiglio delle Comunita' europee dell'8 dicembre 1967, relativa all'applicazione da parte degli Stati membri di talune disposizioni della decisione del Consiglio di associazione tra la Comunita' economica europea e la Turchia, relativa all'applicazione dell'art. 6 del protocollo n. 1 allegato all'accordo di Ankara;
+Convenzione relativa alle disposizioni transitorie;
 
-Visto il [regolamento n. 973/67/CEE del Consiglio, dell'8 dicembre 1967](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31967R0973), relativo all'applicazione, nella Comunita', di talune disposizioni della decisione del Consiglio di associazione tra la CEE e la Turchia, relativa alla applicazione dell'art. 6 del protocollo n. 1 allegato all'accordo di Ankara;
+Vista la [legge 14 ottobre 1957, n. 1203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-10-14;1203), che ratifica e da' esecuzione ai seguenti Accordi internazionali firmati a Roma il 25 marzo 1957: a) Trattato che istituisce la Comunita' europea dell'energia atomica ed Atti allegati; b) Trattato che istituisce la Comunita' economica europea ed Atti allegati; c) Convenzione relativa ad alcune istituzioni comuni alle Comunita' europee;
 
-Vista la decisione del Consiglio delle Comunita' europee del 21 dicembre 1967, relativa all'apertura e alla ripartizione del contingente tariffario comunitario per i tabacchi greggi o non lavorati e i cascami di tabacco della voce n. 24.01 della tariffa doganale comune, originari della Turchia e in provenienza da questo Paese;
-
-Vista la nota del Consiglio delle Comunita' europee del 21 dicembre 1967, relativa alla globalizzazione dei contingenti tariffari per le uve secche, fichi secchi e nocciole, in provenienza dalla Turchia;
+Visti il [decreto Presidenziale 21 dicembre 1969, n. 1584](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-12-21;1584), che da' applicazione alla Decisione del Consiglio dei Ministri delle Comunita' Europee del 18 febbraio 1960, chi stabilisce la Tariffa doganale comune e successive aggiunte e modificazioni;
 
 Visti gli [articoli 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art76) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
 
-Sentito il Consiglio dei Ministri;
+Ritenuta la necessita' di apportare alcune modificazioni alla denominazione delle merci o al regime daziario per determinati prodotti;
 
-Sulla
------
+Sentita la Commissione parlamentare, costituita a norma dell'[art. 3 della, legge 24 dicembre 1949, n. 993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-12-24;993~art3) e successive aggiunte e modificazioni;
 
-proposta del Ministro per le finanze, di concerto con i Ministri per gli affari esteri, per il tesoro, per il bilancio, per l'agricoltura e foreste, per l'industria, il commercio e l'artigianato, per il commercio con l'estero e per la marina mercantile; Decreta:
+Sentito
+-------
+
+il Consiglio dei Ministri; Sulla proposta del Ministro per le finanze, di concerto con i Ministri per gli affari esteri, per il tesoro, per il bilancio, per l'agricoltura e foreste, per l'industria ed il commercio, per il commercio, con l'estero e per la marina mercantile;
 
 Art. 1
 ------
 
   
-  
-All'importazione dei sottoindicati prodotti, originari della Turchia e in provenienza da questo Paese, nei limiti del contingente tariffario a fianco di ciascuno indicato, valido dal 1 gennaio al 31 dicembre di ogni anno, si applica un dazio doganale pari alla meta' del dazio della tariffa doganale comune in vigore, per gli stessi prodotti, alla data della importazione, subordinatamente alle condizioni da stabilirsi dal Ministro per le finanze:   
-  
-
-|  |  |  |
-| --- | --- | --- |
-| NUMERO DELLA TARIFFA | DENOMINAZIONE DELLE MERCI | CONTINGENTE |
-|  |  | Tonnellate |
-| ex 03.01-B-I-a | Sgombri freschi, refrigerati o congelati, interi, decapitati o in pezzi | 50 |
-| ex 03.01-B-I-c | Altri pesci di mare (escluse le alici) freschi,refrigerati o congelati, interi, decapitati o in pezzi | 370 |
-
-  
-  
-  
-  
-I contingenti di cui al comma precedente, per il periodo fino al 31 dicembre 1968, sono aumentati di un dodicesimo.   
-Il regime previsto da questo articolo e' applicabile sino a quando non sara' entrata in vigore nelle Comunita' europee la politica comune della pesca.   
+Il secondo comma della nota (2) (a pie' pagina), riferita alla voce 17.01 della vigente tariffa dei dazi doganali di importazione, e' modificato come segue:  
+"L'importazione dello zucchero greggio non comunitario, a reintegro del corrispondente quantitativo di zucchero raffinato esportato verso ali altri Paesi della Comunita' Economica Europea, e' subordinata al pagamento del diritto per traffico di perfezionamento di cui all'[art. 3 del decreto del Presidente della Repubblica 24 dicembre 1960, n. 1587](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-12-24;1587~art3).  
+Tale diritto e' riscosso con le modalita' previste dallo art. 4 del citato decreto e nella misura stabilita dallo [art. 1 del decreto del Presidente della Repubblica 18 gennaio 1962, n. 45](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-01-18;45~art1)".  
 
 Art. 2
 ------
 
   
-  
-All'importazione dei sottoindicati prodotti, originari della Turchia e in provenienza da questo Paese, nei limiti del contingente tariffario a fianco di ciascuno indicato, valido dal 1 gennaio al 31 dicembre di ogni anno, si applica un dazio doganale pari al dazio doganale applicabile alle importazioni degli stessi prodotti in provenienza dagli altri Stati membri delle Comunita' europee, subordinatamente alle condizioni da stabilirsi dal Ministro per le finanze:   
-  
-
-|  |  |  |
-| --- | --- | --- |
-| NUMERO DELLA TARIFFA | DENOMINAZIONE DELLE MERCI | CONTINGENTE |
-|  |  | Tonnellate |
-| ex 03.01-B-I-b | Tonni freschi, refrigerati o congelati, interi, decapitati o in pezzi, comprese le specie thynnus pelamis ("palamite") e thunnus thynnus ("toriks o "orkinos") | 1150 |
-| 03.03-A-I | Aragoste e gamberi di mare | 50 |
-| 03.03-A-II | Granchi, gamberetti e gamberi di acqua dolce | 50 |
-
-  
-  
-  
-  
-I contingenti di cui al comma precedente, per il periodo fino al 31 dicembre 1968, sono aumentati di un dodicesimo.   
-Il regime previsto da questo articolo e' applicabile sino a quando non sara' entrata in vigore nelle Comunita' europee la politica comune della pesca.   
+I dazi previsti dalla vigente e tariffa doganale per i vini Porto, Madera, Estremadura, Carcavelos, Moscatel de Setubal (voci ex 22.05-B-III-a-1; ex 22.05 B-IV-a-1-aa; ex 22.05-B-IV-a-1-bb) si applicano temporaneamente, dal 1 gennaio 1962 ai non oltre il 30 giugno 1962, nella misura di lire 110 per cento bottiglie di mezzo litro o meno e di lire 182.50 per cento o bottiglie superiori a mezzo litro ma non eccedenti il litro.  
 
 Art. 3
 ------
 
   
-A decorrere dalla data di applicazione del [regolamento comunitario n. 973/67](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31967R0973) adottato dal Consiglio delle Comunita' europee l'8 dicembre 1967, i dazi previsti dalla vigente tariffa doganale, nei confronti dei prodotti indicati dagli articoli 1 e 2 del citato [regolamento comunitario n. 973/67](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31967R0973) si applicano nella misura e con i criteri stabiliti dallo stesso [regolamento comunitario n. 973/67](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31967R0973) e dalle relative norme di applicazione, nonche' dalle successive modifiche ed aggiunte.  
+I dazi previsti dalla vigente tariffa doganale per le acciughe e sardelle, in salamoia, in recipienti ermeticamente chiusi e per le acciughe e sardelle presente o in salamoia, in altri imballaggi (voci 03.02-A-I-c-1-aa; 03.02-A-I-e-2-bb) si applicano per le provenienze dagli altri Stati membri della Comunita' Economica Europea, senza i certificati prescritti e per le provenienze estranee alla predetta Comunita', temporaneamente, dal 1 gennaio 1962 a non oltre il 30 giugno 1962, nella misura dell'11% sul valore.  
 
 Art. 4
 ------
 
   
-La nota (6) alle voci di tariffa numeri 08.04-B-I-a e 08.04-B-II-a, di cui alla tabella B allegata al [decreto del Presidente della Repubblica 5 luglio 1967, n. 505](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-07-05;505), e' modificata come segue:  
-"Dal 1 gennaio 1968 fino al 30 giugno 1968, per le uve secche in recipienti o involucri immediati di contenuto netto non superiore a 15 kg. originarie della Turchia e in provenienza da questo Paese, nei limiti di un contingente di 55.705 quintali, si applicano i dazi doganali sottoindicati, subordinatamente alle condizioni da stabilirsi dal Ministro per le finanze:  
-uve secche, di Corinto: 1,60% sul valore;  
-uve secche, altre: 1,80% sul valore.  
+Dalla data in entrata in vigore del presente decreto:  
+  
+a) il contingente annuo di fecola di patate di cui alla voce della vigente tariffa doganale 11.08-A-II-a-1, destinato alla fabbricazione delle destrine, delle colle, degli appretti o delle bozzime, e' ammesso in esenzione daziaria, limitatamente alle provenienze dagli altri Stati membri della Comunita' Economica Europea scortate dai certificati prescritti;  
+  
+b) il tereftalato di dimetile (voce della vigente tariffa doganale ex 29.15-C-II-b) proveniente dagli altri Stati membri della Comunita' Economica Europea scortato dai certificati prescritti, destinato alla fabbricazione di politereftalato di glicole, e' ammesso alla importazione in esenzione daziaria, per l'anno 1962 nei limiti di un contingente di quintali 40.000, sotto l'osservanza delle norme e condizioni da stabilirsi da Ministro per le finanze;  
+  
+c) la dimetilammina anidra (voce della vigente tariffa doganale ex 29.22-A-I) proveniente dagli altri Stati membri della Comunita' Economica Europea scortata dai certificati prescritti, destinata alla fabbricazione di filo continuo e di fiocco, costituiti da copolimeri composti essenzialmente da acrilonitrile, e' ammessa all'importazione in esenzione daziaria, per l'uno 1962, nei limiti di un contingente di quintali 6.000 sotto la osservanza delle norme e condizioni da stabilirsi dal Ministro per le finanze;  
+  
+d) il contingente annuo di toluilendiisocianati di cui alla voce della vigente tariffa doganale 29,30-A destinato alla fabbricazione di resine poliuretaniche espanse, e' aumentato di quintali 12.000 annui, limitatamente alle provenienze dagli altri Stati membri della Comunita' Economica Europea scortate dai certificati prescritti;  
+  
+e) il contingente annuo di polipropileneglicole liquido di cui alla voce della vigente tariffa doganale 38.49-Q-XII, destinato alla fabbricazione di resine poliuretaniche espanse, e' aumentato di quintali 13.000 limitatamente alle provenienze degli altri Stati membri della Comunita' Economica Europea scortati dei certificati prescritti, f) il contingente annuo di poliesteri derivati da acido adipico e/o acido ftalico, e glicole etilenico e dietilenico e triolo, di cui alla voce della vigente tariffa doganale 39.01-B-III-e-I, destinati alla fabbricazione di resine poliuretaniche espanse, e' aumentato di quintali 12.000 annui, limitatamente alle provenienze dagli altri Stati membri della comunita' Economica Europea scortate dai certificati prescritti;  
 
 Art. 5
 ------
 
   
-All'importazione di vini di qualita' della voce di tariffa n. ex 22.05-B, originari della Turchia e in provenienza da questo Paese - il cui elenco sara' stabilito successivamente dal Consiglio di associazione tra la Comunita' economica europea e la Turchia - che siano conformi alle norme applicabili in materia di denominazione controllata, da stabilirsi successivamente dal suddetto Consiglio di associazione, e siano trasportati direttamente dalla Turchia in Italia, nei limiti di un contingente tariffario di 500 ettolitri, valido dal 1 gennaio al 31 dicembre di ogni anno, si applica un dazio doganale pari alla meta' del dazio della tariffa doganale comune in vigore, per gli stessi prodotti, alla data dell'importazione, subordinatamente alle condizioni da stabilirsi dal Ministro per le finanze.  
-Per il periodo fino al 31 dicembre 1968, il contingente di cui al comma precedente e' aumentato di un dodicesimo.  
-La riesportazione verso gli altri Stati membri delle Comunita' europee dei prodotti che saranno importati in applicazione di questo articolo sara' autorizzata soltanto a condizione che sui prodotti riesportati sia stato riscosso complessivamente il dazio pieno.  
-Il regime previsto da questo articolo e' applicabile sino a quando non sara' entrata in vigore nelle Comunita' europee la politica vitivinicola comune.  
+Dalla data di entrata in vigore del presente decreto i dazi previsti dalla vigente tariffa doganale per i prodotti compresi nelle voci sottoindicate, nei confronti delle provenienze dagli altri Stati membri della Comunita' Economica Europea senza i certificati prescritti e per le provenienze estranee alla predetta Comunita' si applicano nella misura indicata a fianco di ciascuna voce:  
+- Voce 84.06-A-II-b-1: Motori per autoveicoli con cilindrata fino a 1500 cm cubici: 23,10%;  
+- Voce 84.53: Macchine per statistica e simili, a schede perforate (perforatrici, verificatrici, selezionatrici, tabulatrici, moltiplicatrici, ecc): 11%;  
+- Voce 84.55-B-II: Pezzi staccati di macchine per statistica e simili, a schede perforate, non nominati: 12%;  
+- Voce 87.06-B-II-b-2-bb: Parti, pezzi staccati ed accessori degli autoveicoli compresi nelle voci dal n. 87.01 al n. 87.03 incluso, altri, degli organi di trasmissione e di direzione, lavorati, non nominati, altri: 29,40%;  
+- Voce 87.06-B-III-b-1: Ammortizzatori di sospensione: 23,10%;  
+- Voce 87.06-B-III-b-2-bb: Parti, pezzi staccati ed accessori degli autoveicoli compresi nelle voci dal n. 87.01 al n. 87.03 incluso, altri, di altra specie, lavorati, non nominati, altri: 29,40%.  
 
 Art. 6
 ------
 
   
-Dal 1 gennaio 1968, per i tabacchi greggi o non lavorati e per i cascami di tabacco, della voce di tariffa n. 24.01, in provenienza da Paesi estranei alle Comunita' europee, si applicano i seguenti dazi doganali:  
-15% sul valore, con riscossione massima di 70 U.C. per 100 kg di peso netto, per i tabacchi di valore per collo, uguale o superiore a 280 U.C. per 100 kg di peso netto, della sottovoce A;  
-28% sul valore, con riscossione minima di 29 U.C. e riscossione massima di 38 U.C. per 100 kg di peso netto, per gli altri tabacchi greggi o non lavorati e per i cascami di tabacco, della sottovoce B.
+Dalla data di entrata in vigore del presente decreto, l'idrato di idrazina (voce della vigente tariffa doganale ex 28.28-L-I), i carboni attivati (voce 38.03-A), gli scambiatori di ioni (voci 39.01-A, 39.02-A), le emulsioni siliconiche (voce ex 39.01-B-VII-b), provenienti dagli altri Stati membri della Comunita' Economica Europea scortati dai certificati prescritti, destinati alla fabbricazione della gomma sintetica, sono ammessi alla importazione in esenzione da dazio, sotto l'osservanza delle norme e condizioni da stabilirsi dal Ministro per le finanze.  
 
 Art. 7
 ------
 
   
-La nota (1) alle voci di tariffa numeri 24.01-A e 24.01-B di cui alla tabella B allegata al [decreto del Presidente della Repubblica 5 luglio 1967, n. 505](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-07-05;505), e' modificata come segue:  
-"Dal 1 gennaio 1968 fino al 31 dicembre 1968, i tabacchi greggi o non lavorati ed i cascami di tabacco, originari della Turchia e in provenienza da questo Paese, nei limiti di un contingente da determinarsi dagli organi competenti delle Comunita' europee, sono ammessi alla importazione in esenzione da dazio, subordinatamente alle condizioni da stabilirsi dal Ministro per le finanze".  
+Dalla data di entrata in vigore del presente decreto ai prodotti compresi nell'annessa tabella, firmata dal Ministro per le finanze, si applicano i dazi a fianco di ciascuno di essi indicati.  
 
 Art. 8
 ------
 
   
-  
-Fino al 30 giugno 1968, all'importazione dei sottoindicati prodotti, originari della Turchia e in provenienza da questo Paese, nei limiti del contingente tariffario a fianco di ciascuno indicato, si applica un dazio doganale pari alla meta' del dazio della tariffa doganale comune, in vigore, per gli stessi prodotti, alla data dell'importazione, subordinatamente alle condizioni da stabilirsi dal Ministro per le finanze:   
-  
-
-|  |  |  |
-| --- | --- | --- |
-| NUMERO DELLA TARIFFA | DENOMINAZIONE DELLE MERCI | CONTINGENTE |
-|  |  | Tonnellate |
-| 55.08 | Tessuti di cotone ricci del tipo spugna | 15 |
-| 55.09 | Altri tessuti di cotone | 15 |
-| 60.05 | Indumenti esterni, accessori di abbigliamento ed altri manufatti, a maglia non elastica ne gommata | 6 |
-| 62.02 | Biancheria da letto, da tavola, da toletta, da servizio o da cucina; tende, tendine, ed altri manufatti per l'arredamento | 6 |
-
-  
-  
-  
-  
-Fino al 30 giugno 1968, la riesportazione verso gli altri Stati membri delle Comunita' europee dei prodotti che saranno importati in applicazione di questo articolo sara' autorizzata soltanto a condizione che sui prodotti riesportati sia stato riscosso complessivamente il dazio pieno.   
-
-Art. 9
-------
-
-  
-  
-Dal 1 luglio 1968, all'importazione dei sottoindicati prodotti, originari della Turchia e in provenienza da questo Paese, nei limiti del contingente tariffario annuo da determinarsi dagli organi competenti delle Comunita' europee, si applica un dazio doganale pari alla meta' del dazio della tariffa doganale comune in vigore, per gli stessi prodotti, alla data dell'importazione, subordinatamente alle condizioni da stabilirsi dal Ministro per le finanze:   
-  
-
-|  |  |
-| --- | --- |
-| NUMERO DELLA TARIFFA | DENOMINAZIONE DELLE MERCI |
-| 55.08 | Tessuti di cotone ricci del tipo spugna |
-| 55.09 | Altri tessuti di cotone |
-| 60.05 | Indumenti esterni,accessori di abbigliamento ed altri manufatti, a maglia non elastica ne pommata |
-| 62.02 | Biancheria da letto, da tavola, da toletta, da servizio o da cucina: tende, tendine ed altri manufatti per l'arredamento |
-
-Art. 10
--------
-
-  
-  
-Dal 1 gennaio 1968, all'importazione dei sottoindicati tappeti fatti a mano, originari della Turchia e in provenienza da questo Paese, si applicano i dazi doganali a fianco di ciascuno indicati:   
-  
-
-|  |  |  |
-| --- | --- | --- |
-| NUMERO DELLA TARIFFA | DENOMINAZIONE DELLE MERCI | ALIQUOTA DEI DAZI |
-| ex 58.01-A | Tappeti di lana o di peli fini, fatti a mano | 24 % con riscossione massima di 4 U.C. per m quadri |
-| ex 58.01-B | Tappeti di seta, fatti a mano | 20 % |
-| ex 58.01-C | Tappeti di altre materie tessili, fatti a mano | 12 % |
-| ex 58.02-A | Altri tappeti, fatti a mano | 20 % |
-| ex 58.02-B | Tessuti detti Kelim o Kilim, fatti a mano | 10,5 % |
-
-Art. 11
--------
-
-  
 Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta Ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 aprile 1968
+### Dato a Roma, addi' 5 giugno 1962
 
-SARAGAT MORO - PRETI - FANFANI - COLOMBO - PIERACCINI - RESTIVO - ANDREOTTI - TOLLOY - NATALI
+SEGNI FANFANI - TRABUCCHI - LA MALFA - PICCIONI - TREMELLONI - RUMOR - COLOMBO - PRETI - MACRELLI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 30 luglio 1968
+Registrato alla Corte dei conti, addi' 26 giugno 1962
 
-Atti del Governo, registro n. 222, foglio n. 53. - GRECO
+Atti del Governo, registro n. 151, foglio n. 80. - VILLA
+
+Tabella
+
+ TABELLA   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U053200100010110001&dgu=1962-06-26&art.dataPubblicazioneGazzetta=1962-06-26&art.codiceRedazionale=062U0532)
+  

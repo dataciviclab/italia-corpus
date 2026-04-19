@@ -1,42 +1,128 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1970 n. 982
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1969 n. 870
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1970 n. 982
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1969 n. 870
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' cattolica del "S. Cuore" di Milano.
 -------------------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' cattolica del "S. Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 13 giugno 1966, n. 543](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-06-13;543);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla
+-----
+
+proposta del Ministro per la pubblica istruzione; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' cattolica del "S. Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Presso la facolta' di economia e commercio puo' essere istituito il corso di laurea in scienze economiche e bancarie.  
+Il titolo di studio per l'ammissione al predetto corso di laurea, la durata e l'ordinamento del corso medesimo sono quelli stabiliti dalla tabella VIII-bis.  
+La tabella II, annessa al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e' integrata nel senso che la facolta' di economia e commercio, rilascia anche la laurea in scienze economiche e bancarie, il cui ordinamento e' riportato nella tabella VIII-bis.  
+
+Art. 2
+------
+
   
-Decreta:  
+A decorrere dall'anno accademico 1969-70 e' istituito presso la facolta' di economia e commercio dell'Universita' cattolica del "S.  
+Cuore" di Milano il corso di laurea in scienze economiche e bancarie.
+
+Art. 3
+------
+
   
-Lo statuto dell'Universita' cattolica del "S. Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-L'art. - 104, relativo alla scuola di specializzazione in neurologia istituita con [decreto del Presidente della Repubblica 31 ottobre 1968, n. 1254](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-10-31;1254), e' modificato nel senso che il numero complessivo degli specializzandi da ammettere alla scuola e' aumentato a trentacinque.  
+Lo statuto dell'Universita' cattolica del "S. Cuore" di Milano, approvato e modificato con i decreti suindicati e' ulteriormente modificato come dal testo annesso al presente decreto, vistato d'ordine nostro dal Ministro per la pubblica istruzione, contenente le norme relative all'ordinamento del corso di studi della laurea in scienze economiche e bancarie.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 ottobre 1970
+### Dato a Roma, addi' 30 ottobre 1969
 
-SARAGAT MISASI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 7 dicembre 1970
+Registrato alla Corte dei conti, addi' 29 novembre 1969
 
-Atti del Governo, registro n. 238, foglio n. 216. - CARUSO
+Atti del Governo, registro n. 230, foglio n. 82. - CARUSO
+
+Allegato
+
+ ALLEGATO   
+  
+Testo delle modifiche dello statuto dell'Universita' cattolica del "S. Cuore" di Milano, relativo alla istituzione del corso di laurea in scienze economiche e bancarie.   
+  
+Art. 5, relativo all'elenco delle lauree e diplomi conferiti nell'universita' e' modificato nel senso che il quarto comma e' abrogato e sostituito dal seguente: "Nella facolta' di economia e commercio: la laurea in economia e commercio, e la laurea in scienze economiche e bancarie".   
+Dopo l'art. 12 e con il conseguente spostamento della successiva numerazione e' inserito il seguente nuovo articolo relativo alla istituzione del corso di laurea in scienze economiche e bancarie.   
+Art. 12. - Titolo di ammissione al corso di laurea in scienze economiche e bancarie: diploma legalmente conseguito presso un istituto secondario superiore ordinato su non meno di cinque anni di corso.   
+La facolta' attribuisce carattere di sbarramento per il passaggio al secondo anno di corso ad alcuni esami nelle materie di insegnamento fondamentali.   
+Gli insegnamenti per la laurea in scienze economiche e bancarie sono i seguenti:   
+Insegnamenti fondamentali:   
+Istituzioni di diritto privato;   
+Istituzioni di diritto pubblico;   
+Istituzioni di statistica;   
+Istituzioni di economia politica (biennale);   
+Diritto commerciale;   
+Matematica;   
+Scienza delle finanze;   
+Ragioneria generale e applicata (biennale);   
+Matematica finanziaria;   
+Tecnica bancaria (biennale);   
+Tecnica industriale e commerciale.   
+Insegnamenti complementari:   
+Diritto pubblico dell'economia;   
+Diritto finanziario;   
+Diritto amministrativo;   
+Diritto del lavoro;   
+Diritto fallimentare;   
+Legislazione sulle banche, sulle borse e sul risparmio;   
+Economia e tecnica delle imprese di assicurazione;   
+Economia e politica agraria;   
+Economia internazionale;   
+Storia delle dottrine economiche;   
+Storia delle dottrine politiche;   
+Econometria;   
+Economia applicata;   
+Economia matematica;   
+Tecnica di borsa;   
+Tecnica del commercio interno e internazionale;   
+Contabilita' economica nazionale;   
+Statistica;   
+Sociologia;   
+Demografia;   
+Geografia economica;   
+Contabilita' di Stato;   
+Storia economica italiana dall'unita' nazionale;   
+Prima lingua straniera;   
+Seconda lingua straniera.   
+Dopo l'articolo 59 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alle norme di esami per il corso di laurea in scienze economiche e bancarie.   
+Art. 60. - Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in nove da lui scelti fra i complementari.   
+Gli insegnamenti complementari possono essere scelti dagli studenti anche fra discipline impartite nella facolta' di economia e commercio e di altre facolta' dell'ateneo previa approvazione della facolta'.   
+Gli insegnamenti complementari hanno di regola durata annuale, a meno che lo statuto dell'universita' non ne prescriva una durata diversa.   
+Per il conseguimento della laurea e' necessario avere superato un esame di lingua straniera.   
+Art. 61. - Gli studenti iscritti al corso di laurea in scienze economiche e bancarie sono tenuti, oltre ai normali obblighi di frequenza, ad assistere alle esercitazioni previste per i singoli insegnamenti, a partecipare ai seminari sugli argomenti indicati dal consiglio di facolta', a presentare - al termine di ciascun seminario - una relazione sul lavoro compiuto dal professore della materia che ha diretto e seguito lo svolgimento del seminario stesso.   
+  
+Visto, d'ordine del Presidente della Repubblica   
+  
+Il Ministro per la pubblica istruzione   
+FERRARI AGGRADI   

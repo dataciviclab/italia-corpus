@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1985 n. 987
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 545
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1985 n. 987
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 545
+=============================================================
 
 Autorizzazione all'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, ad acquistare un immobile.
 --------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-987. Decreto del Presidente della Repubblica 25 ottobre 1985, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, viene autorizzata ad acquistare, al prezzo di L. 57.200.000, un appartamento al primo piano, scala D, dell'immobile sito in Foggia, via Zuretti, censito al nuovo catasto edilizio urbano alla partita n. 3322, foglio n. 95, particelle n. 30 e n. 35, di proprieta' della S.p.a. S.I.F.T. di Napoli, come da atto preliminare di compravendita 1° luglio 1975, n. 124272 di repertorio, a rogito dott. Francesco Mustilli, notaio in Napoli, da adibire a sede della sezione provinciale dell'Ente.   
+545. Decreto del Presidente della Repubblica 11 maggio 1979, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, viene autorizzata ad acquistare, al prezzo di L. 31.500.000, l'immobile costituito da un appartamento di sei piani con accessori sito in Novara alla via Cavallotti, 22, distinto nel catasto urbano alle particelle 837 e 5622 F 162 G mappale 9309, di proprieta' del sig. Albertario Giampaolo, come da atto di compravendita in data 4 ottobre 1973, n. 38799 di repertorio, a rogito notaio Enrico Comola.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 22 marzo 1986   
-Registro n. 1 Lavoro, foglio n. 236
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 10 ottobre 1979  
+Registro n. 1 Lavoro, foglio n. 77

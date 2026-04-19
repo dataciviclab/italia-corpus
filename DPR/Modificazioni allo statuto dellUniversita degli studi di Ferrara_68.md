@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1975 n. 478
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1215
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1975 n. 478
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1215
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,157 +20,173 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni dagli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 112 - il primo comma relativo alla scuola di specializzazione in chirurgia e' modificato nel senso che il numero degli iscritti da ammettere alla scuola suddetta e' stabilito in dieci (10) per ogni anno di corso.
+L'art. 106, relativo alla scuola di specializzazione in malattie dell'apparato cardiovascolare che muta la denominazione in quella di scuola di specializzazione in cardiologia, e' abrogato e sostituito dal seguente:
 
-Dopo l'art. 156, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in oculistica.
+Scuola di specializzazione in cardiologia
 
-Scuola di specializzazione in oculistica
+Art. 106. - La scuola di specializzazione in cardiologia ha sede presso la clinica medica generale e conferisce il diploma in cardiologia.
 
-Art. 157. - La scuola di specializzazione in oculistica, che conferisce il diploma di specialista in oculistica, ha sede presso la clinica oculistica dell'Universita' ed e' diretta dal direttore della clinica oculistica.
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione e, in carenza, a professore di ruolo o fuori ruolo di materia affine.
 
-Art. 158. - Alla scuola che ha la durata di quattro anni sono ammessi i laureati in medicina e chirurgia.
+Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
 
-Il numero complessivo degli iscritti ai quattro anni di corso e' di 24 (ventiquattro).
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
 
-Art. 159. - L'ammissione e' per titoli e per esami.
+Il numero massimo di allievi e' di 15 (quindici) per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi.
 
-Art. 160. - Gli insegnamenti impartiti dalla scuola sono:
+L'ammissione al corso avviene per titoli ed esami.
+
+Le materie di insegnamento sono le seguenti:
 
 1° Anno:
 
-1) Anatomia ed istologia dell'apparato oculare;
+1) anatomia umana normale ed embriologia dello apparato cardiovascolare;
 
-2) Nozioni di embriologia e genetica oculare;
+2) fisiologia dell'apparato cardiovascolare (I);
 
-3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;
+3) biochimica e biofisica;
 
-4) Nozioni di ottica fisiologica, esame della refrazione;
+4) semeiotica fisica e strumentale dell'apparato cardiovascolare (I);
 
-5) Microbiologia ed igiene oculare.
+5) informatica medica e strumentazione biomedica (I).
 
 2° Anno:
 
-1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmologia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);
+1) anatomia patologica (I);
 
-2) Farmacologia oculare e terapia fisica;
+2) fisiologia dell'apparato cardiovascolare (II);
 
-3) Anatomia patologica oculare;
+3) patologia e clinica cardiovascolare (I);
 
-4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della sclera).
+4) semeiotica fisica e strumentale dell'apparato cardiovascolare (II);
+
+5) informatica medica e strumentazione biomedica (II);
+
+6) radiologia (I);
+
+7) aspetti sociali ed epidemiologici delle malattie cardiovascolari.
 
 3° Anno:
 
-1) Patologia e clinica oculare (malattie dell'uvea, della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);
+1) anatomia patologia (II);
 
-2) Anomalie e patologia della motilita' oculare e della visione binoculare, ortottica e pleottica;
+2) semeiotica fisica e strumentale dell'apparato cardiovascolare (III);
 
-3) Affezioni otorinolaringoiatriche ed occhio;
+3) patologia e clinica cardiovascolare (II);
 
-4) Tecnica operatoria I.
+4) radiologia (II);
+
+5) terapia medica e farmacologia clinica (I).
 
 4° Anno:
 
-1) Neurooftalmologia;
+1) semeiotica fisica e strumentale dell'apparato cardiovascolare (IV);
 
-2) Malattie oculari in rapporto ad affezioni generali;
+2) patologia e clinica cardiovascolare (III);
 
-3) Malattie professionali - Infortunistica e medicina legale oculare;
+3) terapia medica e farmacologia clinica (II);
 
-4) Tecnica operatoria II;
+4) terapia chirurgica;
 
-5) Tesi di specializzazione.
+5) terapie intensive cardiologiche.
 
-Art. 161. - Il corso sara' integrato da conferenze su argomenti attinenti alla specialita' (patologia oculare infantile, dermosifilopatica ed occhio, malattie oculari da cause ginecologiche, ecc.). Gli esami di profitto su ciascuna materia di insegnamento si danno alla fine di ciascun anno di corso.
+La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame. Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.
 
-Alla fine del corso gli iscritti, oltre a presentare la dissertazione scritta ed a sostenere la relativa discussione, devono sostenere una prova pratica sul malato.
+Al termine del corso di studi, per il conseguimento del diploma di specialista in cardiologia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento di carattere cardiologico.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 25 luglio 1975
+Dato a Roma, addi' 31 ottobre 1977
 
 LEONE
 
 MALFATTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 23 settembre 1975 Atti di Governo, registro n. 12, foglio n. 19
+alla Corte dei conti, addi' 27 giugno 1978 Registro n. 67 Istruzione, foglio n. 345
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni dagli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 112 - il primo comma relativo alla scuola di specializzazione in chirurgia e' modificato nel senso che il numero degli iscritti da ammettere alla scuola suddetta e' stabilito in dieci (10) per ogni anno di corso.  
-Dopo l'art. 156, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in oculistica.  
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Scuola di specializzazione in oculistica  
+L'art. 106, relativo alla scuola di specializzazione in malattie dell'apparato cardiovascolare che muta la denominazione in quella di scuola di specializzazione in cardiologia, e' abrogato e sostituito dal seguente:   
   
-Art. 157. - La scuola di specializzazione in oculistica, che conferisce il diploma di specialista in oculistica, ha sede presso la clinica oculistica dell'Universita' ed e' diretta dal direttore della clinica oculistica.  
-Art. 158. - Alla scuola che ha la durata di quattro anni sono ammessi i laureati in medicina e chirurgia.  
-Il numero complessivo degli iscritti ai quattro anni di corso e' di 24 (ventiquattro).  
-Art. 159. - L'ammissione e' per titoli e per esami.  
-Art. 160. - Gli insegnamenti impartiti dalla scuola sono:  
-1° Anno:  
-1) Anatomia ed istologia dell'apparato oculare;  
-2) Nozioni di embriologia e genetica oculare;  
-3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;  
-4) Nozioni di ottica fisiologica, esame della refrazione;  
-5) Microbiologia ed igiene oculare.  
-2° Anno:  
-1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmologia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);  
-2) Farmacologia oculare e terapia fisica;  
-3) Anatomia patologica oculare;  
-4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della sclera).  
-3° Anno:  
-1) Patologia e clinica oculare (malattie dell'uvea, della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);  
-2) Anomalie e patologia della motilita' oculare e della visione binoculare, ortottica e pleottica;  
-3) Affezioni otorinolaringoiatriche ed occhio;  
-4) Tecnica operatoria I.  
-4° Anno:  
-1) Neurooftalmologia;  
-2) Malattie oculari in rapporto ad affezioni generali;  
-3) Malattie professionali - Infortunistica e medicina legale oculare;  
-4) Tecnica operatoria II;  
-5) Tesi di specializzazione.  
-Art. 161. - Il corso sara' integrato da conferenze su argomenti attinenti alla specialita' (patologia oculare infantile, dermosifilopatica ed occhio, malattie oculari da cause ginecologiche, ecc.). Gli esami di profitto su ciascuna materia di insegnamento si danno alla fine di ciascun anno di corso.  
-Alla fine del corso gli iscritti, oltre a presentare la dissertazione scritta ed a sostenere la relativa discussione, devono sostenere una prova pratica sul malato.  
+Scuola di specializzazione in cardiologia   
+  
+Art. 106. - La scuola di specializzazione in cardiologia ha sede presso la clinica medica generale e conferisce il diploma in cardiologia.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione e, in carenza, a professore di ruolo o fuori ruolo di materia affine.   
+Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
+Il numero massimo di allievi e' di 15 (quindici) per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+1) anatomia umana normale ed embriologia dello apparato cardiovascolare;   
+2) fisiologia dell'apparato cardiovascolare (I);   
+3) biochimica e biofisica;   
+4) semeiotica fisica e strumentale dell'apparato cardiovascolare (I);   
+5) informatica medica e strumentazione biomedica (I).   
+2° Anno:   
+1) anatomia patologica (I);   
+2) fisiologia dell'apparato cardiovascolare (II);   
+3) patologia e clinica cardiovascolare (I);   
+4) semeiotica fisica e strumentale dell'apparato cardiovascolare (II);   
+5) informatica medica e strumentazione biomedica (II);   
+6) radiologia (I);   
+7) aspetti sociali ed epidemiologici delle malattie cardiovascolari.   
+3° Anno:   
+1) anatomia patologia (II);   
+2) semeiotica fisica e strumentale dell'apparato cardiovascolare (III);   
+3) patologia e clinica cardiovascolare (II);   
+4) radiologia (II);   
+5) terapia medica e farmacologia clinica (I).   
+4° Anno:   
+1) semeiotica fisica e strumentale dell'apparato cardiovascolare (IV);   
+2) patologia e clinica cardiovascolare (III);   
+3) terapia medica e farmacologia clinica (II);   
+4) terapia chirurgica;   
+5) terapie intensive cardiologiche.   
+La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame. Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.   
+Al termine del corso di studi, per il conseguimento del diploma di specialista in cardiologia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento di carattere cardiologico.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 luglio 1975
+### Dato a Roma, addi' 31 ottobre 1977
 
 LEONE MALFATTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 23 settembre 1975
+Registrato alla Corte dei conti, addi' 27 giugno 1978
 
-Atti di Governo, registro n. 12, foglio n. 19
+Registro n. 67 Istruzione, foglio n. 345

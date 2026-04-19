@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1969 n. 731
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1967 n. 373
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1969 n. 731
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1967 n. 373
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Urbino.
 ------------------------------------------------------------------
@@ -13,11 +13,11 @@ Art. 1
  IL PRESIDENTE DELLA REPUBBLICA  
   
 Veduto lo statuto dell'Universita' degli studi di Urbino, approvato con [regio decreto 8 febbraio 1925, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-08;230) e modificato con [regio decreto 31 ottobre 1929, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2475), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -25,92 +25,32 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Urbino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 32. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
-Filologia dantesca;  
-Letteratura del Rinascimento;  
-Sociologia della letteratura;  
-Retorica e stilistica;  
-Linguistica generale;  
-Dialettologia italiana;  
-Filologia bizantina;  
-Storia della fortuna della civilta' antica;  
-Storia della lingua latina;  
-Dialettologia greca;  
-Metrica e ritmica greca e latina;  
-Storia contemporanea;  
-Storia economica;  
-Storia americana;  
-Storia dell'Europa orientale;  
-Storia dei movimenti e dei partiti politici;  
-Storia del movimento sindacale;  
-Storia dell'eta' della Riforma e della Controriforma;  
-Storia dell'eta' dell'Illuminismo;  
-Storia dei paesi afroasiatici;  
-Storia della scienza e della tecnica;  
-Etnologia;  
-Geografia fisica;  
-Storia delle scoperte geografiche;  
-Antropologia culturale;  
-Storia del teatro e dello spettacolo;  
-Storia e critica del cinema;  
-Storia della storiografia;  
-Storia della filosofia italiana;  
-Storia della musica;  
-Egittologia;  
-Semitistica;  
-Archeologia del vicino Oriente;  
-Storia della civilta' minoico-micenea;  
-Archeologia cristiana;  
-Archeologia dell'Alto Medio Evo;  
-Numismatica;  
-Epigrafia latina.  
-Art. 33. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:  
-Storia della pedagogia;  
-Sociologia;  
-Etnologia;  
-Antropologia culturale;  
-Storia delle tradizioni popolari;  
-Filosofia della religione;  
-Religioni e filosofie dell'India e dell'Estremo oriente;  
-Storia delle religioni;  
-Psicologia dell'eta' evolutiva;  
-Psicologia sociale;  
-Storia del teatro e dello spettacolo;  
-Storia e critica del cinema;  
-Storia della critica;  
-Storia della letteratura moderna e contemporanea;  
-Storia della storiografia;  
-Storia del Risorgimento;  
-Storia dei movimenti e dei partiti politici;  
-Storia delle dottrine economiche;  
-Storia della filosofia italiana;  
-Storia della musica.  
-Art. 34. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo) sono aggiunti i seguenti:  
-Sociologia della letteratura;  
-Retorica e stilistica;  
-Linguistica generale;  
-Dialettologia italiana;  
-Storia della lingua latina;  
-Lingua e letteratura giapponese;  
-Storia americana;  
-Storia dei paesi afro-asiatici;  
-Storia della scienza e della tecnica;  
-Etnologia;  
-Geografia fisica;  
-Storia delle scoperte geografiche;  
-Antropologia culturale.  
+Art. 21. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:  
+24) Papirologia;  
+25) Epigrafia greca;  
+26) Filologia italiana;  
+27) Filologia medioevale ed umanistica 28) Paleografia greca;  
+29) Storia della critica;  
+30) Storia delle religioni;  
+31) Storia del risorgimento;  
+32) Storia delle dottrine economiche;  
+33) Sociologia.  
+Art. 22. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti quelli di:  
+17) Filosofia della scienza;  
+18) Logica;  
+19) Storia della filosofia medioevale.  
+Art. 23. - La denominazione dell'insegnamento complementare di "Letteratura ispano-americana" inclusa tra le materie del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo) e' cambiata in quella di "Lingua e letteratura ispano-americana".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 settembre 1969
+### Dato a Roma, addi' 11 aprile 1967
 
-SARAGAT FERRARI AGGRADI
+SARAGAT GUI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 27 ottobre 1969
+Registrato alla Corte dei conti, addi' 9 giugno 1967
 
-Atti del Governo, registro n. 229, foglio n. 139. - CARUSO
+Atti del Governo, registro n. 211, foglio n. 85. - GRECO

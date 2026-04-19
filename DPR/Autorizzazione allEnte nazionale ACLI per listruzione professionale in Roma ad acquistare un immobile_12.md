@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 dicembre 1975 n. 949
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 agosto 1978 n. 831
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 dicembre 1975 n. 949
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 agosto 1978 n. 831
+=============================================================
 
 Autorizzazione all'Ente nazionale ACLI per l'istruzione professionale, in Roma, ad acquistare un immobile.
 ----------------------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-949. Decreto del Presidente della Repubblica 9 dicembre 1975, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Ente nazionale ACLI per l'istruzione professionale (ENAIP), in Roma, viene autorizzato ad acquistare dall'"Ospedale infermi Rimini" il fondo rustico denominato "S. Aquilina I", in Rimini (Forli), localita' S. Aquilina, via Vecchio Mulino, 84, distinto al catasto terreni alla partita 1995, sotto la ditta "Ospedale di Rimini" amministrato dalla "Congregazione della carita'", foglio 160, particelle numeri 19, 22, 23, 27, 32, 25, 130, della superficie catastale complessiva di ha 14.4688, confinante con strada comunale S. Aquilina, Rio Budriala, vicinale Burgazzano, salvo altri, al prezzo globale di L. 34.950.000 comprensivo della somma di L. 3.450.000 che la parte acquirente si obbliga ad erogare al signor Pasquale Celli gia' affittuario del fondo rustico predetto a titolo di indennizzo e corrispettivo per la rinuncia al diritto di prelazione derivantigli per la rescissione anticipata del contratto di affitto e a saldo delle scorte aziendali giacenti, immobile destinato alla costruzione di un centro residenziale agricolo.  
+831. Decreto del Presidente della Repubblica 8 agosto 1978, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Ente nazionale ACLI per l'istruzione professionale (ENAIP), in Roma, viene autorizzato ad acquistare dalla N.D. sig.na Maria Acclavio, al prezzo di L. 24.000.000, un lotto di terreno edificabile della superficie di mq 10.000 circa sito nel territorio del comune di Taranto in localita' rione Salinella cosi' esattamente censito alla partita del nuovo catasto edilizio urbano:  
+n. 5386 foglio mappale n. 254, particelle 547, 672, 841 per mq rispettivi 4.990,00, 4.480,00, 2.380,00, per un totale di mq 11.850,00, come da contratto condizionato di compravendita in scrittura privata dell'8 aprile 1970, registrato a Roma, primo ufficio registro atti privati, il 13 aprile 1976, n. 2676, e successivamente integrato con atto 28 dicembre 1972, registrato atti privati Roma n. 3601 del 6 marzo 1973, allo scopo di destinarlo alla costruzione di un centro di formazione professionale per i lavoratori.  
   
 Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 3 aprile 1976  
-Atti di Governo, registro n. 4, foglio n. 56
+Registrato alla Corte dei conti, addi' 15 dicembre 1978  
+Registro n. 1 Lavoro, foglio n. 65

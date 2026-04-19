@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 settembre 1961 n. 1158
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 settembre 1961 n. 1145
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 settembre 1961 n. 1158
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 settembre 1961 n. 1145
 =================================================================
 
 Modifiche allo statuto dell'Universita' degli studi di Bari.
@@ -10,59 +10,163 @@ Modifiche allo statuto dell'Universita' degli studi di Bari.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numeri 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successivi;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Veduto il [decreto del Presidente della Repubblica 26 luglio 1960, n. 1692](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-07-26;1692);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto, dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Art. 42 - Agli insegnanti complementari del corso di, laurea in scienze agrarie sono aggiunti quelli di:  
-Fisiopatologia (annuale);  
-Fisica del terreno agrario (annuale);  
-Miglioramento genetico delle piante agrarie (annuale);  
-Fitoiatria (semestrale);  
-Igiene, zootecnica (semestrale);  
-Fisiologia vegetale (annuale);  
-Metodologia statistica (annuale).  
-Art. 49, relativo agli Istituti e' abrogato e sostituito dal seguente:  
+Art. 78. - Il primo comma e' abrogato e sostituito dal seguente:   
+La Facolta' di scienze matematiche, fisiche e naturali conferisce le seguenti lauree in:   
+a) Matematica;   
+b) Fisica;   
+c) Chimica;   
+d) Scienze naturali;   
+e) Scienze biologiche;   
+f) Scienze geologiche.   
+Gli articoli 79 e 80 relativi al corso di laurea in scienze matematiche sono abrogati e sostituiti dai seguenti.   
   
-Gli Istituti della Facolta' di agraria sono i seguenti  
-1) Istituto Agronomica e coltivazioni erbacee, cui fanno capo gli insegnamenti di Agronomia generale, Coltivazioni erbacee, Orticoltura e floricoltura, Ecologia, Miglioramento genetico delle piante agrarie, Fisica del terreno agrario, Agricoltura, tropicale e subtropicale, Metodologia statistica  
-2) Istituto di coltivazioni arboree, cui fanno capo gli insegnanti di: Coltivazioni arboree, Viticoltura, Olivicoltura.  
-3) Istituto di Chimica agraria, cui fanno capo gli insegnamenti di: Chimica generale ed inorganica con applicazioni di analitica, Chimica organica, Chimica agraria (biennale).  
-4) Istituto di patologia vegetale, cui fanno capo gli insegnamenti di: Patologia vegetale, Fisiopatologia, Fitoiatria, Entomologia agraria.  
-5) Istituto di Microbiologia agraria e tecnica, cui fa capo l'insegnamento di Microbiologia agraria e tecnica.  
-6) Istituto di zootecnica, cui fanno capo gli insegnamenti di:  
-Zootecnia generale, Zootecnia speciale, Aviconiglicoltura, Igiene zootecnica.  
-7) Istituto di Anatomia e fisiologia degli: animali domestici cui fanno capo gli insegnamenti di: Zoologia generale, Anatomia e fisiologia degli animali domestici.  
-8) Istituto di Meccanica agraria, cui fanno capo gli insegnamenti di: Matematica, Fisica, Meccanica  
-9) Istituto di Costruzioni rurali, cui fanno capo gli insegnamenti di: Topografia e costruzioni rurali, idraulica agraria, Tecnica della bonifica.  
-10) Istituto di Industrie agrarie cui fa capo l'insegnamento delle industrie agrarie.  
-11) Istituto di Economia e politica, agraria, cui fanno capo gli insegnamenti di: Principi di economia politica e statistica, Economia e politica agraria (biennale), Cooperazione agricola.  
-12) Istituto di Estimo rurale e contabilita', cui fa capo l'insegnamento di Estimo rurale e contabilita'.  
-13) Azienda agraria sperimentale "Enrico Pantanelli".  
-14) Azienda agraria sperimentale "Vincenzo Ricchioni".  
-Art. 52. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di:  
-Letteratura umanistica;  
-Paleografia greca;  
-Numismatica.  
-La denominazione dell'insegnamento complementare, di "Filologia bizantina" viene mutata in "Filologia e storia bizantina".  
-Art. 60. - Agli Istituti annessi alla Facolta' di lettere e filosofia viene aggiunto:  
-"Istituto di paleografia".  
+Laurea in matematica   
+  
+Art. 79. - La durata del corso degli studi per la la laurea, in Matematica e' di quattro anni.   
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.   
+Il corso di studi si distingue in due indirizzi: generale e didattico.   
+Il primo biennio di studi e' comune ad entrambi gli indirizzi.   
+La scelta dell'indirizzo viene fatta dallo studente all'atto della sua iscrizione al terzo anno di corso.   
+Per il primo biennio sono insegnamenti fondamentali obbligatori i seguenti:   
+  
+1° anno:   
+1) Analisi matematica I;   
+2) Geometria I;   
+3) Algebra;   
+4) Fisica generale I.   
+  
+2° anno:   
+1) Analisi matematica II;   
+2) Geometria II;   
+3) Meccanica razionale;   
+4) Fisica generale II.   
+  
+Per il secondo biennio sono insegnamenti obbligatori i seguenti:   
+a) Indirizzo generale   
+  
+3° anno:   
+Insegnamenti fondamentali:   
+1) Istituzioni di Analisi superiore;   
+2) Istituzioni di Geometria superiore;   
+3) Istituzioni di Fisica matematica;   
+4) Un insegnamento complementare a scelta.   
+  
+4° anno:   
+Insegnamenti fondamentali:   
+1) Analisi superiore;   
+2) Geometria superiore;   
+3) Un insegnamento complementare a scelta, a indirizzo fisico, qualora non sia stato gia' scelto al terzo anno.   
+Insegnamenti complementari:   
+1) Algebra superiore;   
+2) Analisi funzionale;   
+3) Calcolo delle probabilita';   
+4) Calcoli numerici e grafici;   
+5) Fisica matematica;   
+6) Fisica nucleare (\*);   
+7) Fisica superiore (\*);   
+8) Fisica teorica (\*);   
+9) Geodesia;   
+10) Geometria algebrica;   
+11) Geometria differenziale;   
+12) Istituzioni di fisica teorica (\*);   
+13) Logica matematica;   
+14) Matematiche complementari I o II;   
+15) Matematiche elementari da un punto di vista superiore;   
+16) Matematiche superiori;   
+17) Meccanica analitica;   
+18) Meccanica quantistica;   
+19) Meccanica statistica;   
+20) Meccanica superiore;   
+22) Statistica matematica;   
+23) Storia delle matematiche;   
+24) Struttura della materia;   
+25) Teoria delle funzioni;   
+26) Teoria dei numeri;   
+27) Teoria ed applicazioni delle macchine calcolatrici;   
+28) Teoria matematica delle onde elettromagnetiche;   
+29) Topologia;   
+b) Indirizzo didattico   
+  
+3° anno:   
+Insegnamenti fondamentali:   
+1) Istituzioni di Analisi superiore;   
+2) Istituzioni di Geometria superiore;   
+3) Istituzioni di Fisica matematica;   
+4) Matemetiche complementari   
+  
+4° anno   
+Insegnamento fondamentale:   
+1) Matematiche complementari II o I;   
+2) Due insegnamenti complementari, di cui uno almeno ad indirizzo fisico;   
+Insegnamenti complementari:   
+1) Algebra superiore;   
+2) Analisi funzionale;   
+3) Analisi superiore;   
+4) Calcolo delle probabilita'   
+5) Calcoli numerici e grafici;   
+6) Chimica generale ed inorganica con elementi di organica (\*\*);   
+7) Complementi di fisica generale (\*);   
+8) Fisica matematica;   
+9) Fisica superiore (\*)   
+10) Geodesia;   
+11) Geometria differenziale;   
+12) Geometria superiore;   
+13) Istituzioni di fisica teorica (\*);   
+14) Logica matematica;   
+15) Matematica finanziaria ed attuariale;   
+16) Matematiche elementari da un punto di vista superiore;   
+17) Matematiche superiori;   
+18) Meccanica analitica;   
+19) Storia delle matematiche;   
+20) Struttura della materia;   
+21) Teoria dei numeri;   
+22) Teoria delle funzioni;   
+23) Topologia;   
+(\*) Insegnamenti ad indirizzo fisico.   
+  
+NORME COMUNI   
+  
+Art. 80. - I corsi di Analisi matematica, di Geometria, di Fisica generale constano ciascuno di due parti annuali distinte, la prima propedeutica per frequenza alla seconda.   
+I corsi di Analisi matematica I e di Geometria I sono propedeutici per frequenza al corso di Meccanica razionale.   
+Gli insegnamenti fondamentali del primo biennio e gli insegnamenti di Istituzioni di Analisi superiore, Istituzioni di Geometria superiore, Istituzioni di Fisica matematica, Matematiche complementari I e II sono accompagnati ciascuno da un corso di esercitazioni che ne e' parte integrante.   
+Per ciascun insegnamento fondamentale o complementare vi e' un esame finale.   
+Potranno essere iscritti al secondo anno soltanto quegli studenti che abbiano superato almeno due degli esami di Analisi matematica I, Geometria I e Algebra.   
+Ai fini della successione degli esami devono essere osservate le seguenti precedenze:   
+1) gli esami di Algebra Analisi matematica I e Geometria I devono precedere gli esami di Analisi matematica II e di Geometria II;   
+2) l'esame di Analisi matematica II deve precedere l'esame di Meccanica razionale;   
+3) gli esami di Analisi matematica II e Geometria II devono precedere gli esami di tutte le materie del secondo biennio;   
+4) l'esame di Fisica generale I deve precedere lo esame di Fisica generale II e questo deve precedere tutti gli esami ad indirizzo fisico del secondo biennio;   
+5) l'esame di Meccanica razionale deve precedere l'esame di Istituzioni di Fisica matematica e questo deve precedere l'esame di Fisica matematica;   
+6) gli esami di Istituzioni di Analisi superiore e di Istituzioni di Geometria superiore devono precedere rispettivamente gli esami di Analisi superiore e di Geometria superiore.   
+Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in due da lui scelti fra i complementari.   
+Detto esame di laurea consta:   
+a) di una prova, scritta ed orale, intesa ad accertare la cultura generale del candidato nelle varie discipline matematiche del corso di studi seguito;   
+b) della esposizione e discussione di una dissertazione scritta (tesi), che per l'indirizzo generale deve essere relativa ad una ricerca originale, e di due argomenti (tesine orali).   
+L'argomento della tesi deve essere in ogni caso scelto in una delle discipline che non siano quelle contrassegnate con (\*) nell'art. 79.   
+La Commissione per la prova di cultura generale e' proposta dal preside della Facolta' e nominata dal rettore.   
+Superato l'esame di laurea lo studente consegue il titolo di dottore in matematica indipendentemente dall'indirizzo prescelto, del quale verra' fatta, menzione soltanto nella carriera scolastica.   
+Gli articoli 87 e 88 relativi al corso di laurea in Matematica e fisica sono soppressi.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a' chiunque spetti di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Dato a Roma, addi' 13 settembre 1961
 
@@ -70,6 +174,6 @@ GRONCHI BOSCO
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 8 novembre 1961
+Registrato alla Corte dei conti, addi' 2 novembre 1961
 
-Atti del Governo, registro n. 141, foglio n. 52. - VILLA
+Atti del Governo, registro n. 141, foglio n. 70 - VILLA

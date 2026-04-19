@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1180
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1969 n. 729
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1180
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1969 n. 729
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -10,13 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
@@ -30,88 +32,87 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 142. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di biochimica e chimica clinica.
+Art. 100, relativo all'ordinamento del biennio propedeutico degli studi di ingegneria e' abrogato e sostituito dal seguente:
 
-Dopo l'art. 265 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in biochimica e chimica clinica.
+Titolo di ammissione al biennio propedeutico agli studi di ingegneria e' il diploma di maturita' classica o di maturita' scientifica. Sono inoltre ammessi i diplomati degli istituti tecnici industriali, nautici e per geometri, ai sensi delle vigenti disposizioni di legge.
 
-Scuola di specializzazione in biochimica e chimica clinica
-
-Art. 266. - La scuola di specializzazione di "Biochimica e chimica clinica" ha lo scopo di poter offrire una migliore qualificazione scientifica e professionale a coloro che intendono dedicarsi alle discipline biochimiche con indirizzo medico-biologico.
-
-Art. 267. - Alla scuola, che ha la durata di tre anni, possono essere ammessi i laureati in medicina e chirurgia, medicina veterinaria, scienze biologiche e in chimica e tecnologia farmaceutiche.
-
-Art. 268. - Il numero complessivo di specializzandi da ammettere alla scuola e' fissato in 120 allievi, ripartiti in 40 allievi per anno. L'ammissione alla scuola avviene per titoli e per esami.
-
-Qualora un aspirante in possesso di titoli, attinenti alla materia della scuola, chieda abbreviazione del corso, dovra' presentare istanza motivata.
-
-L'importo delle tasse, soprattasse e contributi e' fissato come segue:
-
-tassa immatricolazione . . . . . . . . . . . . . . . . . L. 5.000 tassa iscrizione. . . . . . . . . . . . . . . . . . . . L. 18.000 contributo biblioteca. . . . . . . . . . . . . . . . . . L. 1.000 contributo spese generali e riscaldamento . . . . . . . L. 21.000 soprattassa esami. . . . . . . . . . . . . . . . . . . . L. 7.000 provento prestazioni segreteria. . . . . . . . . . . . . L. 3.000 contributo assistenza sanitaria. . . . . . . . . . . . . . L. 500 contributo O.S.A.. . . . . . . . . . . . . . . . . . . . L. 1.000 contributi laboratorio . . . . . . . . . . . . . . . . L. 100.000 soprattassa esami diploma. . . . . . . . . . . . . . . . L. 3.000
-
-Art. 269. - La direzione della scuola viene assunta da un professore di ruolo di chimica biologica o di materia affine. Il direttore della scuola puo' nominare un vice direttore che lo coadiuvi ed un segretario.
-
-Art. 270. - Gli insegnamenti impartiti nei tre anni saranno i seguenti:
+Sono comuni a tutti i corsi di laurea in ingegneria i seguenti insegnamenti fondamentali:
 
 1° Anno:
 
-Biochimica generale;
+1) Analisi matematica I;
 
-Biochimica applicata;
+2) Geometria I;
 
-Biologia generale;
+3) Fisica I;
 
-Istochimica.
+4) Chimica;
+
+5) Disegno.
 
 2° Anno:
 
-Biochimica dinamica;
+1) Analisi matematica II;
 
-Biologia molecolare;
+2) Meccanica razionale;
 
-Chimica clinica;
+3) Fisica II;
 
-Biochimica patologica.
+4), 5), 6): altri insegnamenti (almeno uno e non piu' di tre), da scegliersi, a seconda del corso di laurea prescelto, fra i seguenti:
 
-3° Anno:
+Disegno II (differenziato a seconda del corso di laurea);
 
-Farmaco-biochimica;
+Geometria II;
 
-Biochimica ormonale;
+Mineralogia;
 
-Enzimologia clinica;
+Litologia e geologia;
 
-Biometria.
+Metodi di osservazioni e misura (teoria e pratica delle misure);
 
-In ciascun anno sara' richiesta la frequenza per almeno una settimana in laboratorio.
+Tecnologie generali dei materiali;
 
-Art. 271. - Ogni materia di insegnamento e' anche materia di esame, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo. Alla fine dei tre anni gli allievi dovranno presentare una tesi scritta e sostenere un esame di diploma. I candidati non riconosciuti idonei potranno ripresentarsi dopo un altro anno di frequenza alla scuola.
+Chimica applicata;
 
-A coloro che abbiano superato l'esame finale verra' rilasciato il diploma di specialista in "Biochimica e chimica clinica".
+Chimica organica;
+
+Fisica atomica;
+
+Fisica tecnica;
+
+Elettrotecnica;
+
+Economia ed organizzazione aziendale;
+
+Complementi di chimica generale ed inorganica.
+
+Art. 103. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto quello di "Biologia marina".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1972
+Dato a Roma, addi' 10 settembre 1969
 
-LEONE
+SARAGAT
 
-SCALFARO
+FERRARI AGGRADI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: CAVA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 9 luglio 1973 Atti di Governo, registro n. 258, foglio n. 170. - CARUSO
+alla Corte dei conti, addi' 27 ottobre 1969 Atti del Governo, registro n. 229, foglio n. 146. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -120,49 +121,46 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 142. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di biochimica e chimica clinica.  
-Dopo l'art. 265 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in biochimica e chimica clinica.  
   
-Scuola di specializzazione in biochimica e chimica clinica  
-  
-Art. 266. - La scuola di specializzazione di "Biochimica e chimica clinica" ha lo scopo di poter offrire una migliore qualificazione scientifica e professionale a coloro che intendono dedicarsi alle discipline biochimiche con indirizzo medico-biologico.  
-Art. 267. - Alla scuola, che ha la durata di tre anni, possono essere ammessi i laureati in medicina e chirurgia, medicina veterinaria, scienze biologiche e in chimica e tecnologia farmaceutiche.  
-Art. 268. - Il numero complessivo di specializzandi da ammettere alla scuola e' fissato in 120 allievi, ripartiti in 40 allievi per anno. L'ammissione alla scuola avviene per titoli e per esami.  
-Qualora un aspirante in possesso di titoli, attinenti alla materia della scuola, chieda abbreviazione del corso, dovra' presentare istanza motivata.  
-L'importo delle tasse, soprattasse e contributi e' fissato come segue:  
-  
-tassa immatricolazione . . . . . . . . . . . . . . . . . L. 5.000 tassa iscrizione. . . . . . . . . . . . . . . . . . . . L. 18.000 contributo biblioteca. . . . . . . . . . . . . . . . . . L. 1.000 contributo spese generali e riscaldamento . . . . . . . L. 21.000 soprattassa esami. . . . . . . . . . . . . . . . . . . . L. 7.000 provento prestazioni segreteria. . . . . . . . . . . . . L. 3.000 contributo assistenza sanitaria. . . . . . . . . . . . . . L. 500 contributo O.S.A.. . . . . . . . . . . . . . . . . . . . L. 1.000 contributi laboratorio . . . . . . . . . . . . . . . . L. 100.000 soprattassa esami diploma. . . . . . . . . . . . . . . . L. 3.000   
-Art. 269. - La direzione della scuola viene assunta da un professore di ruolo di chimica biologica o di materia affine. Il direttore della scuola puo' nominare un vice direttore che lo coadiuvi ed un segretario.  
-Art. 270. - Gli insegnamenti impartiti nei tre anni saranno i seguenti:  
+Art. 100, relativo all'ordinamento del biennio propedeutico degli studi di ingegneria e' abrogato e sostituito dal seguente:  
+Titolo di ammissione al biennio propedeutico agli studi di ingegneria e' il diploma di maturita' classica o di maturita' scientifica. Sono inoltre ammessi i diplomati degli istituti tecnici industriali, nautici e per geometri, ai sensi delle vigenti disposizioni di legge.  
+Sono comuni a tutti i corsi di laurea in ingegneria i seguenti insegnamenti fondamentali:  
 1° Anno:  
-Biochimica generale;  
-Biochimica applicata;  
-Biologia generale;  
-Istochimica.  
+1) Analisi matematica I;  
+2) Geometria I;  
+3) Fisica I;  
+4) Chimica;  
+5) Disegno.  
 2° Anno:  
-Biochimica dinamica;  
-Biologia molecolare;  
-Chimica clinica;  
-Biochimica patologica.  
-3° Anno:  
-Farmaco-biochimica;  
-Biochimica ormonale;  
-Enzimologia clinica;  
-Biometria.  
-In ciascun anno sara' richiesta la frequenza per almeno una settimana in laboratorio.  
-Art. 271. - Ogni materia di insegnamento e' anche materia di esame, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo. Alla fine dei tre anni gli allievi dovranno presentare una tesi scritta e sostenere un esame di diploma. I candidati non riconosciuti idonei potranno ripresentarsi dopo un altro anno di frequenza alla scuola.  
-A coloro che abbiano superato l'esame finale verra' rilasciato il diploma di specialista in "Biochimica e chimica clinica".  
+1) Analisi matematica II;  
+2) Meccanica razionale;  
+3) Fisica II;  
+4), 5), 6): altri insegnamenti (almeno uno e non piu' di tre), da scegliersi, a seconda del corso di laurea prescelto, fra i seguenti:  
+Disegno II (differenziato a seconda del corso di laurea);  
+Geometria II;  
+Mineralogia;  
+Litologia e geologia;  
+Metodi di osservazioni e misura (teoria e pratica delle misure);  
+Tecnologie generali dei materiali;  
+Chimica applicata;  
+Chimica organica;  
+Fisica atomica;  
+Fisica tecnica;  
+Elettrotecnica;  
+Economia ed organizzazione aziendale;  
+Complementi di chimica generale ed inorganica.  
+Art. 103. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto quello di "Biologia marina".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 10 settembre 1969
 
-LEONE SCALFARO
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: CAVA
 
-Registrato alla Corte dei conti, addi' 9 luglio 1973
+Registrato alla Corte dei conti, addi' 27 ottobre 1969
 
-Atti di Governo, registro n. 258, foglio n. 170. - CARUSO
+Atti del Governo, registro n. 229, foglio n. 146. - CARUSO

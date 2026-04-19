@@ -1,56 +1,59 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1965 n. 1326
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1089
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1965 n. 1326
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1089
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+
+Veduto il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, numero 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, 6 ulteriormente modificato come appresso:  
-Art. 21. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze politiche e' aggiunto quello di "Storia dei partiti e dei movimenti politici".  
-Art. 29. - All'elenco degli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti i seguenti:  
-  
-Teoria dello sviluppo economico;  
-Economia del lavoro;  
-Organizzazione aziendale;  
-Storia della moneta e della banca, Diritto tributario.  
-Dopo l'art. 31, e con il conseguente spostamento della successiva numerazione, e' aggiunto il seguente nuovo articolo relativo alla creazione degli Istituti presso la Facolta' di Economia e commercio.  
-Art. 32. - Alla Facolta' di Economia e commercio sono annessi i seguenti istituti:  
-1) Istituto di Economia aziendale, al quale fanno capo gli insegnamenti, di Ragioneria generale ed applicata, Tecnica bancaria e professionale, Tecnica industriale e commerciale, Contabilita' di Stato, nonche' eventuali corsi complementari di materie aziendali che venissero in seguito deliberati;  
-2) Istituto di Scienze economiche, al quale fanno capo gli insegnamenti di Economia politica, Politica economica e finanziaria, Economia e Politica agraria, Scienza delle finanze e Diritto finanziario, Econometrica, Economia dei trasporti, Contabilita' nazionale, Organizzazione internazionale ed eventuali altri corsi di materie economiche che venissero in seguito deliberati;  
-3) Istituto di Storia economica, del quale fanno parte gli insegnamenti di Storia economica e di Storia delle dottrine economiche, nonche' eventuali altri corsi di materie storiche che venissero in seguito deliberati;  
-4) Istituto di Diritto, del quale fanno parte gli insegnamenti di Diritto commerciale, Istituzioni di diritto privato, Istituzioni di diritto pubblico, Diritto del lavoro, Diritto industriale, Diritto amministrativo, Diritto internazionale, Diritto fallimentare, ed eventuali altri corsi di materie giuridiche che venissero in seguito deliberati;  
-5) Istituto di Matematica generale e finanziaria, che comprende le materie di Matematica generale e di Matematica finanziaria;  
-6) Istituto di Scienze statistiche e demografiche, del quale fanno parte gli insegnamenti di Statistica, Statistica economica, Demografia e sociologia.  
-Art. 36. - All'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere moderne e' aggiunto quello di "Lingua e letteratura ungherese".  
+Nell'art. 77, all'elenco degli insegnamenti complementari del corso di laurea in farmacia e' aggiunto l'insegnamento di "chimica tossicologica industriale".  
+Nell'art. 86, all'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologia farmaceutiche e' aggiunto l'insegnamento di "chimica tossicologica industriale".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 ottobre 1965
+### Dato a Roma, addi' 31 dicembre 1985
 
-SARAGAT GUI
+COSSIGA
 
-Visto, il Guardasigilli: REALE
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 4 dicembre 1965
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Atti del Governo, registro n. 198, foglio n. 73. - VILLA
+Registrato alla Corte dei conti, addi' 10 maggio 1986
+
+Registro n. 36 Istruzione, foglio n. 188

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 settembre 1955 n. 951
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1141
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 settembre 1955 n. 951
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1141
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -12,12 +12,12 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350); e modificato con [regi decreti 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-26;1734); [29 ottobre 1940, n. 2069](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-29;2069); [4 maggio 1942, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-05-04;565); [24 luglio 1942, n. 949](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-24;949); [24 agosto 1942, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-08-24;1098); [24 ottobre 1942, n. 1672; con decreto luogotenenziale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo.luogotenenziale:1942-10-24;1672) [8 febbraio 1946, n. 242; con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-02-08;242) [12 aprile 1947, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-12;461) e [31 dicembre 1947, n. 1758, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1758) [24 dicembre 1948, n. 1619](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-12-24;1619); [18 luglio 1949, n. 882](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-07-18;882); [20 ottobre 1949, n. 989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;989); [20 ottobre 1949, n. 991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;991); [20 ottobre 1949, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;1178); [30 ottobre 1949, n. 1152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1152); [11 giugno 1950, n. 622](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;622); [16 novembre 1950, n. 1313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-11-16;1313); [11 maggio 1951, n. 653](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-05-11;653); [27 ottobre 1951, n. 1813](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1813); [14 aprile 1952, n. 888](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-04-14;888); [16 agosto 1952, n. 2589](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-08-16;2589); [19 settembre 1952, n. 1697](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-19;1697); [11 marzo 1953, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;565); [12 maggio 1953, n. 570](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-05-12;570); [25 agosto 1953, n. 834](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;834); [26 ottobre 1954, n. 1232](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-26;1232); [12 febbraio 1955, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-12;34); [30 giugno 1955, n. 694](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-06-30;694) e [19 luglio 1955, n. 760](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-19;760);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 193, n. 1592;  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduto il [regio decreto 24 ottobre 1941, n. 1375](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-24;1375);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -25,107 +25,187 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli da 248 a 253 relativi alla scuola di perfezionamento in "Ricerca operativa" sono abrogati e sostituiti dai seguenti:  
   
-Dopo l'art. 82, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione del corso di laurea in chimica industriale, con il conseguente spostamento della numerazione degli articoli successivi.  
-Art. 83. - La durata del corso degli studi per la laurea in chimica industriale e' di cinque anni divisi in un biennio di studi propedeutici comune con la laurea in chimica e in un triennio di studi di applicazione.  
-E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.  
-Biennio di studi propedeutici Sono insegnamenti fondamentali:  
-1) Istituzioni di matematiche (biennale);  
-2) Chimica generale ed inorganica (biennale);  
-3) Chimica organica (biennale);  
-4) Chimica analitica;  
-5) Fisica sperimentale (biennale);  
-6) Mineralogia con esercitazioni pratiche (corso speciale per chimici);  
-7) Esercitazioni di matematiche (biennale);  
-8) Esercitazioni di preparazioni chimiche;  
-9) Esercitazioni di disegno di elementi di macchine;  
-10) Esercitazioni di analisi chimica qualitativa;  
-11) Esercitazioni di fisica sperimentale.  
-Triennio di studi di applicazione Sono insegnamenti fondamentali:  
-1) Chimica fisica (biennale);  
-2) Fisica tecnica;  
-3) Chimica industriale (biennale);  
-4) Esercitazioni di analisi chimica quantitativa;  
-5) Esercitazioni di chimica fisica (biennale);  
-6) Esercitazioni di chimica industriale (biennale);  
-7) Impianti industriali chimici con elementi di disegno (biennale);  
-8) Elementi di diritto, di economia e di legislazione sociale.  
-Sono insegnamenti complementari:  
-1) Analisi matematica (algebrica ed infinitesimale) (biennale);  
-2) Geometria analitica con elementi di proiettiva;  
-3) Meccanica razionale con elementi di statica grafica;  
-4) Fisica superiore;  
-5) Elettrotecnica;  
-6) Misure elettriche (corso speciale per chimici e chimici industriali);  
-7) Chimica agraria;  
-8) Chimica delle fermentazioni e batteriologia industriale;  
-9) Chimica organica industriale;  
-10) Elettrochimica;  
-11) Chimica applicata;  
-12) Siderurgia e metallurgia;  
-13) Scienza dei metalli;  
-14) Fisiologia ed igiene del lavoro industriale.  
-I tre insegnamenti complementari di "analisi matematica", di "geometria analitica con elementi di proiettiva" e di "meccanica razionale con elementi di statica grafica" possono sostituire l'unico insegnamento fondamentale di istituzioni di matematica" (biennale).  
-Per l'insegnamento di "analisi matematica" vale la norma stabilita per la laurea in scienze matematiche.  
-Per ottenere l'iscrizione al triennio di applicazione lo studente deve aver seguito i corsi e superato gli esami ma tutti gli insegnamenti fissati per il biennio di studi propedeutici, Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali del triennio di applicazione e almeno in quattro da lui scelti tra i complementari.  
-All'atto dell'iscrizione al primo anno del triennio di applicazione lo studente deve sottoporre all'approvazione della Facolta' l'elenco degli insegnamenti complementari prescelti. La scelta fatta in tal modo e' impegnativa e non puo' subire comunque variazioni durante il corso degli studi.  
-I laureati in chimica potranno essere ammessi al quarto anno di corso della laurea in chimica industriale e dovranno seguire i corsi e sostenere gli esami nelle seguenti materie fondamentali:  
-1) Chimica industriale (biennale);  
-2) Impianti industriali chimici con elementi di disegno (biennale);  
-3) Elementi di diritto, di economia e di legislazione sociale;  
-4) Fisica tecnica;  
-5) Esercitazioni di chimica industriale (biennale).  
-L'esame di fisica tecnica, eventualmente gia' sostenuto per la laurea in chimica, potra' essere convalidato agli effetti dell'iscrizione al 4° anno di corso per la laurea in chimica industriale.  
-Art. 84. - Norme comuni per le lauree in chimica ed in chimica industriale.  
-Tutti gli insegnamenti biennali comportano due esami distinti alla fine di ciascun anno di corso.  
-Ai fini della propedeuticita' degli esami dei diversi insegnamenti, vale la seguente tabella:  
-Non si puo essere ammessi se non si e superato l'esame di:  
-a sostenere l'esame di:  
+Scuola di perfezionamento in ricerca operativa  
   
-Chimica analitica Chimica generale ed inorganica I  
+Art. 248. - Alla scuola di perfezionamento in ricerca operativa sono ammessi oltre ai laureati della facolta':  
+a) i laureati in statistica, i laureati in matematica, in fisica, in ingegneria, in economia e commercio;  
+b) i laureati di altre facolta', previo giudizio da esprimersi, caso per caso, dal consiglio della scuola, il quale puo' subordinare l'ammissione al superamento di un colloquio su argomenti da stabilire;  
+c) coloro che abbiano compiuto corsi di studio all'estero, purche' i titoli siano riconosciuti validi ai soli fini dell'iscrizione al corso dalle autorita' accademiche e previa deliberazione del consiglio della scuola;  
+d) gli ufficiali che, pur non possedendo la laurea o diploma universitario, provengano dai corsi regolari delle accademie militari e delle scuole di applicazione abbiano seguito un corso per ufficiali analisti in ricerca operativa militare e siano riconosciuti in possesso dei requisiti dal consiglio della scuola.  
   
-Chimica generale ed inor- Chimica generale ed inorganica I  
-ganica II  
+Art. 249. - La scuola ha la durata di due anni. Il consiglio della scuola puo' deliberare, in casi eccezionali, l'ammissione diretta al secondo anno secondo modalita' da stabilirsi volta per volta.  
   
-Chimica organica I Chimica generale ed inorganica I  
+Art. 250. - Sono insegnamenti della scuola:  
+Fondamentali:  
+1) Algebra lineare;  
+2) Programmazione lineare I;  
+3) Programmazione lineare II;  
+4) Probabilita';  
+5) Processi aleatori;  
+6) Statistica;  
+7) Inferenza statistica;  
+8) Teoria dei grafi;  
+9) Teoria delle decisioni;  
+10) Econometrica;  
+11) Calcolo automatico;  
+12) Introduzione alla R. O.;  
+13) Laboratorio di R.O. I;  
+14) Laboratorio di R.O. II.  
+Complementari:  
+1) Programmazione dinamica;  
+2) Processi aleatori II;  
+3) Teoria delle code;  
+4) Analisi delle serie storiche;  
+5) Teoria dei grafi II;  
+6) Metodi reticolari;  
+7) Analisi statistica;  
+8) Programmazione degli esperimenti;  
+9) Teoria dei giochi;  
+10) Modelli econometrici;  
+11) Applicazione della R.O. ai problemi economici;  
+12) Problemi di trasporto;  
+13) Sistemi informativi;  
+14) Teoria del controllo;  
+15) Gestione delle scorte;  
+16) Calcolo automatico II;  
+17) Metodi di simulazione;  
+18) Tecniche statistiche di affidabilita';  
+19) Laboratorio di R.O. III;  
+20) Laboratorio di R.O. IV;  
+21) Scelta degli investimenti;  
+22) Matematica finanziaria;  
+23) Problemi aziendali;  
+24) Programmazione non lineare.  
+Gli insegnamenti hanno base semestrale, nel senso che sono equivalenti per numero di lezioni alla meta' di un insegnamento annuale.  
+Il consiglio della scuola delibera, anno per anno, gli insegnamenti complementari da attivare; fissa inoltre il calendario delle lezioni, che puo' concentrare ciascun insegnamento in un periodo ristretto di tempo.  
   
-Chimica organica II Chimica organica I  
+Art. 251. Per essere ammessi all'esame di diploma gli studenti devono aver superato gli esami relativi a tutti gli insegnamenti fondamentali e a sei complementari.  
   
-Elettrochimica Chimica fisica I  
+Art. 252. - L'esame di diploma consiste nella discussione di una tesi scritta accettata da uno dei docenti della scuola il quale fungera' da relatore.  
   
-Esercitazioni di analisi Esercitazioni di analisi chimica  
-chimica applicata quantitativa  
+Art. 253. - A coloro che avranno superato l'esame di diploma verra' rilasciato il diploma di specialista in R.O.  
+L'art. 328 relativo alla scuola nazionale di archeologia e' abrogato e sostituito dal seguente:  
+Art. 328. - Il corso della scuola ha la durata di tre anni e si distingue nei seguenti indirizzi:  
+a) Storia dell'arte antica;  
+b) Epigrafia e antichita';  
+c) Topografia archeologica;  
+d) Preistoria e protostoria.  
+Titolo di ammissione e' la laurea in lettere.  
+In base all'art. 290 l'ammissione e' subordinata all'esito favorevole di un colloquio, per il quale il consiglio della scuola si riserva di stabilire le modalita', tenendo conto dei quattro suddetti indirizzi.  
+Dopo l'art. 793 e con lo spostamento della numerazione degli articoli successivi sono inseriti i seguenti articoli relativi alla scuola di specializzazione in pianificazione urbanistica applicata alle aree metropolitane presso la facolta' di ingegneria.  
+Corso di specializzazione in pianificazione urbanistica applicata alle aree metro politane  
   
-Esercitazioni di analisi Esercitazioni di preparazioni  
-chimica qualitativa chimiche (I anno)  
+Art. 794. - Presso la facolta' di ingegneria di Roma e' istituito un corso di specializzazione in "Pianificazione urbanistica applicata alle aree metropolitane".  
+A tale riguardo il corso ha il fine di integrare e specializzare la preparazione universitaria soprattutto attraverso l'esame di situazioni concrete e lo studio degli strumenti applicativi, mettendo in particolare evidenza le possibilita' offerte dalle piu' recenti tecniche quali la sistemistica.  
   
-Esercitazioni di prepara- Esercizi di chimica organica  
-zioni chimiche (IV anno) e di analisi organica  
-Esercizi di analisi chimica  
-Quantitativa  
+Art. 795. - Direttore del corso sara' un professore di ruolo della facolta' di materia urbanistica o di materia affine.  
+Il consiglio direttivo e' costituito dal direttore e dai docenti degli insegnamenti generali di cui al successivo articolo 797 e da due docenti od esperti designati dalla facolta'.  
+Gli insegnanti del corso sono proposti dal direttore che puo' sceglierli fra i professori di ruolo o fuori ruolo, fra i liberi docenti, fra gli aiuti o gli assistenti o anche fra persone di riconosciuta competenza nelle rispettive specialita'.  
+Tali proposte sono subordinate all'approvazione del consiglio di facolta'; le nomine degli insegnanti vengono effettuate dal rettore.  
   
-Farmacologia Chimica biologica, fisiologia  
-Generale  
+Art. 796. - Al corso sono ammessi i laureati in ingegneria edile ed in architettura; il consiglio del corso potra' ammettere laureati in altre discipline e laureati in Paesi stranieri.  
+Il consiglio direttivo delibera tempestivamente di anno in anno le date di inizio e per lo svolgimento delle lezioni, il numero degli iscritti e le norme per l'ammissione, nonche' il numero di iscritti affinche' il corso stesso abbia luogo.  
+L'ammissione al corso e' subordinata all'esito di un colloquio per quei laureati che non abbiano sostenuto almeno un esame di urbanistica.  
+Il consiglio di facolta' potra' sospendere lo svolgimento del corso a partire dall'anno accademico successivo alla deliberazione.  
   
-Fisica sperimentale II Fisica sperimentale I  
+Art. 797. - Il corso ha la durata di un anno. Gli insegnamenti impartiti sono suddivisi, con riferimento al contenuto, in insegnamenti generali e in insegnamenti speciali.  
+Ai fini della formazione del piano di studi di cui al successivo art. 799, gli insegnamenti sono suddivisi in obbligatori e facoltativi, come precisato nell'elenco seguente. Tutti gli insegnamenti generali sono obbligatori. La durata dei corsi viene fissata anno per anno dal consiglio direttivo in relazione alle esigenze del corso.  
+E' inoltre facolta' del consiglio del corso, per motivate esigenze organizzative, di stabilire prima dell'inizio di ogni singolo corso la eventuale sospensione di uno o piu' insegnamenti facoltativi.  
+Gli insegnamenti del corso sono:  
+Insegnamenti generali:  
+a-1 Fenomenologia delle grandi concentrazioni urbane (obbligatorio);  
+a-2 Urbanesimo e pianificazione (obbligatorio);  
+a-3 Fondamenti di pianificazione urbanistica (obbligatorio);  
+a-4 Fondamenti di teoria dei sistemi (obbligatorio).  
+Insegnamenti speciali:  
+b-1 Analisi funzionale e distributiva degli insediamenti (facoltativo);  
+b-2 Mobilita' urbana e trasporti (obbligatorio);  
+b-3 Morfologia del territorio e forma urbana (facoltativo);  
+b-4 Difesa dell'ambiente (facoltativo);  
+b-5 Dinamica del tempo libero e del turismo (facoltativo);  
+b-6 Elementi di economia del territorio (obbligatorio);  
+b-7 Gestione dei complessi urbani (facoltativo);  
+b-8 Igiene applicata alle aree urbane (facoltativo);  
+b-9 Elementi di psicologia e di sociologia urbana (facoltativo);  
+b-10 Ingegneria dei sistemi urbani (facoltativo).  
   
-Istituzioni di matematiche II Istituzioni di matematiche I  
+Art. 798. - La frequenza ai singoli insegnamenti deve essere attestata dai rispettivi docenti secondo le modalita' stabilite dal consiglio del corso.  
   
-Mineralogia Chimica generale ed inorganica I  
+Art. 799. - Ciascun allievo puo' predisporre un piano di studi nell'ambito delle discipline elencate nel precedente articolo, o eventualmente, di materie insegnante presso l'Universita' di Roma. Il numero degli insegnamenti deve essere almeno equivalente a sei insegnamenti annuali. Il piano di studi e' sottoposto all'approvazione del consiglio del corso.  
   
-Scienza dell'alimentazione Chimica bromatologica  
+Art. 800. - Per la validita' del corso, cioe' per il conseguimento dell'attestato di cui all'art. 801, ciascun iscritto dovra' superare gli esami in tutti gli insegnamenti previsti nel suo piano di studi e dovra' svolgere un lavoro personale di carattere teorico o sperimentale.  
   
+Art. 801. - Agli iscritti che abbiano superato gli esami e abbiano ottenuto l'idoneita' per il lavoro personale eseguito viene rilasciato un attestato comprovante la carriera scolastica compiuta.  
+  
+Art. 802. - Il consiglio del corso potra' ammettere al corso stesso, in qualita' di uditori, allievi non in possesso dei titoli di cui al precedente art. 796.  
+Tali allievi saranno esonerati dal sostenere gli esami.  
+Ad essi il direttore del corso rilascera' un attestato di frequenza.  
+Gli articoli 794, 795, 796 relativi alla Scuola di perfezionamento per lo studio e il restauro dei monumenti sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione per lo studio ed il restauro dei monumenti   
+Art. 794. - Presso la facolta' di architettura e' istituita una scuola di specializzazione per lo studio ed il restauro dei monumenti, sia al fine di conferire una specifica preparazione critica e professionale integrativa di quella universitaria, sia di assicurare una piu' vasta e diffusa conoscenza dei metodi e delle tecniche operative nella conservazione dei beni culturali.  
+Le modalita' di iscrizione, il pagamento delle tasse e soprattasse saranno conformi alle disposizioni di legge vigenti per gli studenti universitari; eventuali contributi verranno stabiliti annualmente dal consiglio di amministrazione dell'Universita' di Roma, su proposta del consiglio della scuola.  
+  
+Art. 795. - Il direttore della scuola sara' nominato dal rettore su designazione del consiglio di facolta' e durera' in carica un triennio, con possibilita' di riconferma.  
+Il direttore sara' coadiuvato da un vice-direttore e da un consiglio composto dagli insegnanti delle materie costitutive della scuola.  
+Gli insegnanti saranno scelti tra i professori di ruolo e fuori ruolo, tra i professori incaricati e tra i liberi docenti, nonche' tra esperti, anche stranieri, di riconosciuta competenza nelle rispettive specialita'. Essi saranno proposti dal direttore della scuola e nominati dal rettore su parere conforme del consiglio di facolta'.  
+  
+Art. 796. - La scuola potra' attuare due corsi:  
+a) corso biennale di specializzazione, riservato ai laureati italiani in architettura, lettere ed in ingegneria civile, ovvero a stranieri forniti di titolo di studio equivalente, la cui laurea sia stata conseguita entro il decennio precedente l'inizio del corso.  
+Inoltre, su conforme parere del consiglio della scuola, possono essere ammessi anche laureati in altre discipline che dimostrino specifici interessi di studio.  
+b) corso triennale di qualificazione per restauratori e tecnici della conservazione, relativo ai problemi operativi inerenti alle varie espressioni artistiche connesse con il patrimonio monumentale, aperto a giovani anche non laureati, italiani e stranieri, interessati allo studio delle tecniche conservative ed all'organizzazione e condotta dei relativi lavori.  
+Per l'iscrizione a tale corso e' necessario il possesso di un diploma finale di studio, conseguito presso una scuola secondaria di secondo grado o titolo equipollente.  
+L'ammissione dei partecipanti al corso triennale avverra' mediante giudizio annualmente formulato dal consiglio della scuola, in base alla documentazione dell'attivita' e delle ricerche svolte dai candidati.  
+  
+Art. 797. - Per lo svolgimento dei corsi la scuola potra' chiedere la collaborazione di istituti e scuole di altre facolta' e valersi dell'appoggio di enti ed istituti specializzati.  
+  
+Art. 798. - Le materie comuni per ambedue i corsi della scuola di specializzazione sono le seguenti:  
+1) Lettura storico-critica delle espressioni artistiche I;  
+2) Principi generali della conservazione dei beni culturali I;  
+3) Storia del restauro I;  
+4) Tecnologia dei materiali tradizionali moderni I;  
+5) Elementi di legislazione; organizzazione dei cantieri e dei laboratori II.  
+Il piano di studi per il conseguimento del diploma di specializzazione nello studio e restauro dei monumenti comprende, oltre alle materie indicate nel precedente comma, le seguenti:  
+6) Analisi delle consistenze architettoniche, tipologia delle strutture tradizionali I;  
+7) Diagnostica e terapia dei dissesti statici; risanamento delle strutture II;  
+8) Vitalizzazione e adattamento di antichi edifici; criteri di museologia II;  
+9) Studio e conservazione dell'ambiente storico e naturale II;  
+10) Nozioni di fotografia aerea e di fotogrammetria II;  
+11) Tecniche di scavo e restauro delle strutture riemerse II.  
+Il piano di studi per il corso di qualificazione, comprende, oltre alle materie comuni, le seguenti:  
+12) Analisi tecnica degli oggetti di interesse storico-artistico I;  
+13) Esercitazioni di chimica, fisica e microbiologia II;  
+14) Diagnostica e terapia delle pitture murali e degli oggetti di interesse storico-artistico II;  
+15) Criteri e procedimenti di intervento conservativo II;  
+16) Tecniche museografiche; attivita' amministrative ed educative III;  
+17) Condizionamento degli ambienti ed impianti di sicurezza III;  
+18) Principi di scienza dell'informazione e tecniche della documentazione III.  
+Tutti gli insegnamenti hanno durata annuale.  
+  
+Art. 799. - Coloro che intendono conseguire il diploma di specializzazione non possono sostenere gli esami della materia indicata al punto 6) se non hanno superato quelle di cuti ai punti 1), 2), 3) e 4) e non possono sostenere gli esami di cui ai punti 7) e 8) se non hanno superato l'esame di cui al punto 6).  
+Coloro che seguono il corso triennale di qualificazione non possono sostenere gli esami delle materie indicate ai punti 12) e 13) se non hanno superato quelli di cui ai punti 1), 2), 3) e 4) e non possono sostenere gli esami di cui ai punti 14) e 15) se prima non hanno superato gli esami di cui ai punti 12) e 13).  
+  
+Art. 800. - I corsi, oltre che mediante lezioni cattedratiche si svolgeranno attraverso conferenze e seminari e saranno integrate da sopralluoghi, esercitazioni e ricerche.  
+Le esercitazioni pratiche costituiranno parte integrante degli insegnamenti relativi ai corsi di qualificazione.  
+  
+Art. 801. - La frequenza ai singoli insegnamenti deve essere attestata dai rispettivi docenti, secondo le modalita' stabilite dal consiglio della scuola.  
+  
+Art. 802. - Per conseguire il diploma di specializzazione, gli studenti oltre agli esami relativi a tutti gli insegnamenti previsti nel relativo piano biennale di studi, dovranno superare l'esame finale di diploma, consistente nella discussione di una tesi scritta, basata su rilievi e proposte grafiche, su un argomento scelto dal candidato ed approvato dal direttore della scuola, almeno sei mesi prima dell'esame stesso.  
+  
+Art. 803. - Alla fine del corso triennale di qualificazione sara' rilasciato agli iscritti che abbiano regolarmente frequentato il corso un attestato comprovante gli studi compiuti e le attitudini dimostrate ed i voti di profitto conseguiti.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 settembre 1955
+### Dato a Roma, addi' 31 ottobre 1972
 
-GRONCHI ROSSI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 24 ottobre 1955
+Registrato alla Corte dei conti, addi' 9 aprile 1973
 
-Atti del Governo, registro n. 93, foglio n. 75. - CARLOMAGNO
+Atti di Governo, registro n. 257, foglio n. 53. - VALENTINI

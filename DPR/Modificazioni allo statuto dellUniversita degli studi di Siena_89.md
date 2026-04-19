@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 636
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1980 n. 515
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 636
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1980 n. 515
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -20,8 +20,6 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio universitario nazionale nel suo parere;
@@ -33,25 +31,50 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Nell'art. 75, all'elenco degli istituti annessi alla facolta' di medicina e chirurgia, e' aggiunto il nuovo seguente istituto polidisciplinare:  
-"Istituto di clinica delle malattie nervose e mentali".  
+Gli articoli 125, 128 e 129, relativi alla scuola di specializzazione in storia dell'arte medioevale e moderna, sono sostituiti dai seguenti:  
+Art. 125. - Alla fine del primo anno accademico gli iscritti, per poter essere ammessi al secondo anno, dovranno avere sostenuto tre esami di cui almeno due dell'indirizzo prescelto.  
+Art. 128. - Le materie d'insegnamento sono le seguenti:  
   
+INDIRIZZO MEDIOEVALE  
+  
+1° Anno:  
+archeologia e storia dell'arte greca e romana - storia della tradizione classica nell'arte europea;  
+storia dell'arte medioevale;  
+storia dell'arte bizantina - archeologia medioevale.  
+2° Anno:  
+storia della miniatura e delle arti minori - tecniche artistiche e di restauro;  
+informatica applicata - paleografia latina e diplomatica;  
+iconografia e iconologia - storia dell'architettura.  
+  
+INDIRIZZO MODERNO  
+  
+1° Anno:  
+storia dell'arte moderna;  
+storia dell'arte contemporanea;  
+storia della critica d'arte - estetica.  
+2° Anno:  
+storia delle arti minori - storia dell'arte e delle tradizioni popolari;  
+informatica applicata - sociologia dell'arte;  
+iconografia e iconologia - storia dell'architettura.  
+Art. 129. - Le tasse, soprattasse e contributi per la scuola di specializzazione in storia dell'arte medioevale e moderna sono cosi' fissati:  
+  
+immatricolazione. . . . . . . . . . . . . . . . . . . . . . L. 12.000 tassa annuale di iscrizione. . . . . . . . . . . . . . . . L. 200.000 soprattassa annuale di esame. . . . . . . . . . . . . . . . L. 16.000 soprattassa di diploma. . . . . . . . . . . . . . . . . . . L. 20.000 contributi di laboratorio . . . . . . . . . . . . . . . . . L. 14.000   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 febbraio 1982
+### Dato a Roma, addi' 11 marzo 1980
 
-PERTINI BODRATO
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 31 agosto 1982
+Registrato alla Corte dei conti, addi' 20 agosto 1980
 
-Registro n. 104 Istruzione, foglio n. 156
+Registro n. 78 Istruzione, foglio n. 40

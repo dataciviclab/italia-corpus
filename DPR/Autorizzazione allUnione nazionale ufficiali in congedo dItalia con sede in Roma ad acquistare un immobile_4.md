@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 febbraio 1966 n. 134
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 maggio 1971 n. 479
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 febbraio 1966 n. 134
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 maggio 1971 n. 479
+=============================================================
 
 Autorizzazione all'Unione nazionale ufficiali in congedo d'Italia, con sede in Roma, ad acquistare un immobile.
 ---------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-134. Decreto del Presidente della Repubblica 21 febbraio 1966, col quale, sulla proposta del Ministro per la difesa, l'Unione nazionale ufficiali in congedo d'Italia, con sede in Roma, viene autorizzata ad acquistare, per la sede della dipendente sezione di Legnano, dalla "Cristallo s.p.a.", di Milano, al prezzo di L. 9.100.000, l'appartamento situato al primo piano del fabbricato in avanzata costruzione, denominato "Condominio Cristallo", che sta sorgendo in Legnano, via Don Emanuele Cattaneo, composto di una sala di mq. 50, due vani per complessivi mq. 22 e servizi, il tutto per una superficie complessiva di mq. 97720 e mq. 7,80 di balconi.  
+479. Decreto del Presidente della Repubblica 27 maggio 1971, col quale, sulla proposta del Ministro per la difesa, l'Unione nazionale ufficiali in congedo d'Italia, con sede in Roma, viene autorizzata ad acquistare, per la sede del dipendente gruppo provinciale di Livorno, dalla signora Jasoni Marisa in Gragnani, al prezzo di L. 6.500.000, l'appartamento di quattro vani ed accessori situato al primo piano del fabbricato che sorge in Livorno, Scali Bettarini n. 11.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 24 marzo 1966  
-Atti del Governo, registro n. 202, foglio n. 65. - VILLA
+Visto, il Guardasigilli: COLOMBO  
+Registrato alla Corte dei conti, addi' 20 luglio 1971  
+Atti del Governo, registro n. 243, foglio n. 45. - VALENTINI

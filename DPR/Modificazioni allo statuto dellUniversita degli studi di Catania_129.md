@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1954 n. 1207
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 agosto 1986 n. 985
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1954 n. 1207
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 agosto 1986 n. 985
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
@@ -10,233 +10,100 @@ Modificazioni allo statuto dell'Universita' degli studi di Catania.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939 n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con i [regi decreti 16 ottobre 1940 n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-16;1527); [15 aprile 1942, n. 4224](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;4224); [5 settembre 1942 n. 1235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1235); [24 ottobre 1942, n. 1596, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1596) [22 ottobre 1946, n. 423 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-22;423) [20 luglio 1948, n. 1160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-07-20;1160); [30 ottobre 1949, n. 994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;994); [30 ottobre 1949, n. 1167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1167); [30 ottobre 1950, n. 1305](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1305); [11 aprile 1951, n. 564](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;564); [27 ottobre 1951, n. 1793](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1793); [11 febbraio 1952, n. 366](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-11;366); [26 ottobre 1952, n. 4507](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4507); [10 febbraio 1953, n. 544](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;544); [25 giugno 1953, n. 709](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-06-25;709) e [23 marzo 1954, n. 751](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-23;751);
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta, intese ad ottenere l'istituzione del corso di laurea in chimica e tecnologia farmaceutiche;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Considerato che e' tuttora in atto la sperimentazione organizzativa e didattica di cui agli [articoli 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art81) - [93 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art93);
+
+Considerato che le tabelle dell'ordinamento didattico universitario relative ai corsi di laurea sono in fase di riordinamento per effetto di apposite commissioni di studio, e che anzi alcune tabelle sono state gia' riordinate;
+
+Rilevata la necessita' di accogliere la richiesta dell'Universita' di Catania di istituire il corso di laurea in chimica e tecnologia farmaceutiche, allo scopo di riequilibrare le iscrizioni presso gli omonimi corsi di laurea degli altri Atenei, al fine di assicurare una migliore formazione degli studenti, e quindi, la necessita' di accogliere la richiesta stessa in deroga al termine triennale di cui all'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
 Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 21. - Le lettere b), c) e d) sono sostituite dalle seguenti:
+Articolo unico
+--------------
 
-b) Istituzioni di diritto pubblico per il diritto internazionale e il diritto amministrativo;
-
-c) Matematica generale per la statistica e per la matematica finanziaria;
-
-d) Economica politica del primo e secondo anno per la scienza delle finanziario per la politica economica e finanziaria per l'economia e politica agraria, per l'economia dei trasporti e per la storia economica.
-
-Art. 22. - La lettera b) e' sostituita dalla seguente:
-
-b) nella discussione orale di due argomenti scelti dal candidato in materie insegnate nella Facolta' diverse fra loro e da quella della dissertazione scritta.
-
-L'art. 23 e' sostituito dal seguente:
-
-"Alla Facolta' di economia e commercio sono annessi i seguenti Istituti scientifici; ordinati come seminari, ai sensi dell'art. 23 del regolamento generale universitario:
-
-1) Seminario economico;
-
-2) Istituto di geografia;
-
-3) Istituto di merceologia.
-
-I detti Istituti hanno lo scopo di potenziare la cultura specializzata di studenti e di studiosi, addestrandoli all'indagine scientifica mediante corsi di lezioni, esercitazioni pratiche e conferenze, tenute, oltre che dai docenti della Facolta', da illustri cultori italiani e stranieri delle discipline insegnate nella Facolta', e discipline affini, nonche' di contribuire al progresso degli studi con ricerche, pubblicazioni ed altre iniziative che verranno ritenute opportune".
-
-Art. 39. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: "Semeiotica medica".
-
-Art. 107. - Il penultimo comma e' sostituito dal seguente:
-
-"Chi ottiene l'abbreviazione del corso e' tenuto a frequentare le materie e le esercitazioni ed a sostenere e superare gli esami speciali che siano eventualmente previsti per gli anni di corso dai quali e' stato dispensato".
-
-Art. 108. - L'ultimo periodo del secondo comma e' sostituito dal seguente:
-
-"L'iscritto che non abbia soddisfatto in tutto o in parte agli obblighi suddetti e che non abbia superato gli esami prescritti per ciascun anno di corso non viene ammesso all'anno successivo".
-
-Dopo l'art. 138, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione delle scuole di specializzazione in radiologia ed in igiene.
-
-Scuola di specializzazione in radiologia
-
-Art. 139. - Il corso degli studi della scuola di specializzazione in radiologia ha la durata di tre anni.
-
-La scuola non puo' accogliere piu' di quattro allievi per ciascun anno di corso.
-
-Art. 140. - Gli insegnamenti impartiti nella Scuola sono:
-
-1) Fisica dei raggi X;
-
-2) Tecnica radiologica;
-
-3) Anatomia radiografica;
-
-4) Anatomia, patologica in rapporto alla radiologia (biennale);
-
-5) Semeiotica radiologica e fisica comparata dei diversi organi ed apparati;
-
-6) Radiobiologia;
-
-7) Roentgendiagnostica dello scheletro;
-
-8) Roentgendiagnostica del sistema nervoso;
-
-9) Roentgendiagnostica dell'apparato digerente;
-
-10) Roentgediagnostica dell'apparato urinario e genitale;
-
-11) Roentgenterapia (biennale);
-
-12) Radium-terapia,;
-
-13) Elettro e foto-terapia;
-
-14) Illustrazione e trattazione dei casi clinici esaminati radiologicamente (triennale).
-
-Scuola di specializzazione in igiene
-
-Art. 141. - Il corso degli studi della scuola di specializzazione in igiene ha la durata di tre anni.
-
-La scuola non puo' accogliere piu' di otto allievi per ciascun anno di corso.
-
-Art. 142. - Gli insegnamenti impartiti nella scuola sono:
-
-1) Igiene generale (suolo, aria, acqua);
-
-2) Patologia e clinica delle malattie da infezione, da intossicazione, da carenza;
-
-3) Microscopia applicata all'igiene (microbiologia e parassitologia);
-
-4) Chimica e fisica applicata all'igiene;
-
-5) Igiene scolastica, ospitaliera, del lavoro, rurale;
-
-6) Medicina engeneticogeriatrica, igiene individuale, infantile, dietologica;
-
-7) Etiologia, epidemiologia profilassi delle malattie infettivo-contagiose, immunoprofilassi, parassitologia;
-
-8) Legislazione sanitaria, polizia sanitaria, demografia;
-
-9) Climatologia, l'igiene nell'urbanistica, nelle costruzioni delle abitazioni urbane e rurali, delle scuole, ospedali, industrie;
-
-10) Statistica sanitaria ragionata;
-
-11) Vigilanza igienica sul suolo e sull'abitato, sugli alimenti e sulle bevande;
-
-12) Malattie sociali;
-
-13) Malattie del lavoro.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Dogliani, addi' 26 ottobre 1954
-
-EINAUDI
-
-ERMINI
-
-Visto, il Guardasigilli: DE PIETRO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 30 dicembre 1954 Atti del Governo, registro n. 87, foglio n. 116. - CARLOMAGNO
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939 n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con i [regi decreti 16 ottobre 1940 n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-16;1527); [15 aprile 1942, n. 4224](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;4224); [5 settembre 1942 n. 1235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1235); [24 ottobre 1942, n. 1596, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1596) [22 ottobre 1946, n. 423 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-22;423) [20 luglio 1948, n. 1160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-07-20;1160); [30 ottobre 1949, n. 994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;994); [30 ottobre 1949, n. 1167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1167); [30 ottobre 1950, n. 1305](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1305); [11 aprile 1951, n. 564](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;564); [27 ottobre 1951, n. 1793](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1793); [11 febbraio 1952, n. 366](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-11;366); [26 ottobre 1952, n. 4507](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4507); [10 febbraio 1953, n. 544](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;544); [25 giugno 1953, n. 709](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-06-25;709) e [23 marzo 1954, n. 751](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-23;751);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 21. - Le lettere b), c) e d) sono sostituite dalle seguenti:  
-b) Istituzioni di diritto pubblico per il diritto internazionale e il diritto amministrativo;  
-c) Matematica generale per la statistica e per la matematica finanziaria;  
-d) Economica politica del primo e secondo anno per la scienza delle finanziario per la politica economica e finanziaria per l'economia e politica agraria, per l'economia dei trasporti e per la storia economica.  
-Art. 22. - La lettera b) e' sostituita dalla seguente:  
-b) nella discussione orale di due argomenti scelti dal candidato in materie insegnate nella Facolta' diverse fra loro e da quella della dissertazione scritta.  
-L'art. 23 e' sostituito dal seguente:  
-"Alla Facolta' di economia e commercio sono annessi i seguenti Istituti scientifici; ordinati come seminari, ai sensi dell'art. 23 del regolamento generale universitario:  
-1) Seminario economico;  
-2) Istituto di geografia;  
-3) Istituto di merceologia.  
-I detti Istituti hanno lo scopo di potenziare la cultura specializzata di studenti e di studiosi, addestrandoli all'indagine scientifica mediante corsi di lezioni, esercitazioni pratiche e conferenze, tenute, oltre che dai docenti della Facolta', da illustri cultori italiani e stranieri delle discipline insegnate nella Facolta', e discipline affini, nonche' di contribuire al progresso degli studi con ricerche, pubblicazioni ed altre iniziative che verranno ritenute opportune".  
-Art. 39. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: "Semeiotica medica".  
-Art. 107. - Il penultimo comma e' sostituito dal seguente:  
-"Chi ottiene l'abbreviazione del corso e' tenuto a frequentare le materie e le esercitazioni ed a sostenere e superare gli esami speciali che siano eventualmente previsti per gli anni di corso dai quali e' stato dispensato".  
-Art. 108. - L'ultimo periodo del secondo comma e' sostituito dal seguente:  
-"L'iscritto che non abbia soddisfatto in tutto o in parte agli obblighi suddetti e che non abbia superato gli esami prescritti per ciascun anno di corso non viene ammesso all'anno successivo".  
-Dopo l'art. 138, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione delle scuole di specializzazione in radiologia ed in igiene.  
-  
-Scuola di specializzazione in radiologia  
-  
-Art. 139. - Il corso degli studi della scuola di specializzazione in radiologia ha la durata di tre anni.  
-La scuola non puo' accogliere piu' di quattro allievi per ciascun anno di corso.  
-Art. 140. - Gli insegnamenti impartiti nella Scuola sono:  
-1) Fisica dei raggi X;  
-2) Tecnica radiologica;  
-3) Anatomia radiografica;  
-4) Anatomia, patologica in rapporto alla radiologia (biennale);  
-5) Semeiotica radiologica e fisica comparata dei diversi organi ed apparati;  
-6) Radiobiologia;  
-7) Roentgendiagnostica dello scheletro;  
-8) Roentgendiagnostica del sistema nervoso;  
-9) Roentgendiagnostica dell'apparato digerente;  
-10) Roentgediagnostica dell'apparato urinario e genitale;  
-11) Roentgenterapia (biennale);  
-12) Radium-terapia,;  
-13) Elettro e foto-terapia;  
-14) Illustrazione e trattazione dei casi clinici esaminati radiologicamente (triennale).  
-  
-Scuola di specializzazione in igiene  
-  
-Art. 141. - Il corso degli studi della scuola di specializzazione in igiene ha la durata di tre anni.  
-La scuola non puo' accogliere piu' di otto allievi per ciascun anno di corso.  
-Art. 142. - Gli insegnamenti impartiti nella scuola sono:  
-1) Igiene generale (suolo, aria, acqua);  
-2) Patologia e clinica delle malattie da infezione, da intossicazione, da carenza;  
-3) Microscopia applicata all'igiene (microbiologia e parassitologia);  
-4) Chimica e fisica applicata all'igiene;  
-5) Igiene scolastica, ospitaliera, del lavoro, rurale;  
-6) Medicina engeneticogeriatrica, igiene individuale, infantile, dietologica;  
-7) Etiologia, epidemiologia profilassi delle malattie infettivo-contagiose, immunoprofilassi, parassitologia;  
-8) Legislazione sanitaria, polizia sanitaria, demografia;  
-9) Climatologia, l'igiene nell'urbanistica, nelle costruzioni delle abitazioni urbane e rurali, delle scuole, ospedali, industrie;  
-10) Statistica sanitaria ragionata;  
-11) Vigilanza igienica sul suolo e sull'abitato, sugli alimenti e sulle bevande;  
-12) Malattie sociali;  
-13) Malattie del lavoro.  
+L'art. 80, relativo alla laurea che conferisce la facolta' di farmacia, e' soppresso e cosi' sostituito:  
+Art. 80. - La facolta' di farmacia conferisce la laurea in:  
+a) farmacia;  
+b) chimica e tecnologia farmaceutiche.  
+Dopo l'art. 87, con il conseguente scorrimento della numerazione degli articoli successivi, e' inserito il seguente articolo, relativo all'ordinamento degli studi del corso di laurea in chimica e tecnologia farmaceutiche:  
+Art. 88. - La durata del corso degli studi per la laurea in chimica e tecnologia farmaceutiche e' di cinque anni divisi in un biennio ed in un triennio.  
+I titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge.  
+Sono insegnamenti fondamentali:  
+Biennio:  
+1) analisi chimico-farmaceutica I (analisi qualitativa);  
+\* 2) anatomia umana;  
+\* 3) botanica farmaceutica;  
+\* 4) chimica fisica;  
+5) chimica generale ed inorganica;  
+\*\*6) chimica organica I;  
+7) fisica;  
+8) fisiologia generale;  
+\* 9) istituzioni di matematiche;  
+10) microbiologia e igiene.  
+Triennio:  
+11) analisi chimico-farmaceutica II (analisi quantitativa);  
+12) analisi chimico-farmaceutica III (analisi dei medicamenti);  
+13) biochimica applicata;  
+14) chimica biologica;  
+15) chimica degli alimenti;  
+\* 16) chimica farmaceutica applicata;  
+\* 17) chimica farmaceutica e tossicologica I;  
+\* 18) chimica farmaceutica e tossicologica II;  
+\*\*19) chimica organica II;  
+\* 20) farmacologia e farmacognosia;  
+21) impianti dell'industria farmaceutica;  
+22) laboratorio di preparazione estrattiva e sintetica dei farmaci;  
+23) metodi fisici in chimica organica;  
+24) saggi e dosaggi farmacologici;  
+\* 25) tecnica e legislazione farmaceutica.  
+Sono insegnamenti complementari:  
+\* chimica tossicologica;  
+chimica delle fermentazioni e microbiologia industriale;  
+chimica dei prodotti cosmetici;  
+chimica dei prodotti dietetici;  
+chimica analitica;  
+impianti per laboratori galenici.  
+Le materie segnate con un asterisco sono comuni alla laurea in farmacia, quelle con due asterischi sono comuni alla laurea in chimica.  
+Per sostenere gli esami del triennio lo studente deve aver superato tutti gli esami degli insegnamenti fissati per i due anni precedenti.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato tutti gli esami dei corsi fondamentali e almeno due esami a scelta fra i corsi complementari.  
+La prova di laurea comporta la discussione di una tesi sperimentale.  
+Per essere ammesso a sostenere l'esame di Stato per l'esercizio della professione di farmacista, il laureato in chimica e tecnologia farmaceutiche deve aver compiuto un semestre di pratica professionale preso una farmacia oppure un trimestre presso una industria farmaceutica ed un trimestre presso una farmacia.  
+Il periodo di pratica professionale dovra' avere inizio dopo il conseguimento del titolo accademico.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Dogliani, addi' 26 ottobre 1954
+### Dato a Roma, addi' 29 agosto 1986
 
-EINAUDI ERMINI
+COSSIGA
 
-Visto, il Guardasigilli: DE PIETRO
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 30 dicembre 1954
+Visto, il Guardasigilli: ROGNONI
 
-Atti del Governo, registro n. 87, foglio n. 116. - CARLOMAGNO
+Registrato alla Corte dei conti, addi' 20 gennaio 1987
+
+Registro n. 2 Istruzione, foglio n. 65

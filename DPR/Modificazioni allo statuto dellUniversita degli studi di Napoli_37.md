@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1974 n. 714
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1383
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1974 n. 714
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1383
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -12,9 +12,9 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Napoli approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successivi;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto-legge 20 giugno 1936, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
@@ -25,144 +25,41 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 470, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione, presso la seconda facolta' di medicina e chirurgia, delle scuole di specializzazione per medici laboratoristi, in psichiatria e in neurochirurgia.  
-  
-Scuola di specializzazione pur medici laboratoristi  
-  
-Art. 471. - Alla seconda facolta' di medicina e chirurgia della Universita' degli studi di Napoli e' annessa la scuola di specializzazione per medici laboratoristi, con lo scopo di preparare sul piano scientifico e tecnico i medici che intendano dedicarsi particolarmente alle analisi di laboratorio applicate alla clinica e rilascia il diploma di "Specialista in analisi chimico-cliniche di laboratorio".  
-La scuola ha sede presso la cattedra di chimica biologica (I e II) e di patologia generale (I e II) ed e' diretta, ad anni alterni, dai titolari delle cattedre medesime, a rotazione fra gli stessi, i quali costituiscono un consiglio direttivo che esercita una funzione consultiva nei riguardi del direttore della scuola.  
-La durata della scuola e' di tre anni.  
-Il numero degli allievi da ammettere non puo' essere superiore a venti per ogni anno.  
-L'ammissione viene regolata da un esame scritto consistente in un tema su argomento di biochimica e fisiopatologia. Non sono consentite abbreviazioni di corso.  
-Gli assistenti di ruolo presso l'istituto di chimica biologica e di patologia generale potranno ottenere l'iscrizione al 2° anno di corso previo parere favorevole della facolta' su proposta del direttore della scuola. Tale iscrizione non comporta l'esonero dagli esami nelle materie del 1° anno ne' dal pagamento delle tasse relative.  
-  
-Art. 472. - Gli insegnamenti impartiti dalla scuola sono distribuiti nei tre anni come segue:  
-1° Anno:  
-1) Chimica biologica generale;  
-2) Fisiologia;  
-3) Patologia generale;  
-4) Batteriologia generale;  
-5) Nozioni di igiene applicate al laboratorio di analisi chimico-cliniche;  
-6) Tecnica dei prelevamenti;  
-7) Tecniche di laboratorio di chimico-clinica.  
-2° Anno:  
-8) Batteriologia speciale;  
-9) Chimica biologica;  
-10) Chimico-fisica biologica applicata alla chimico-clinica;  
-11) Parassitologia e tecniche relative;  
-12) Micologia.  
-3° Anno:  
-13) Nozioni di statistica biologica;  
-14) Nozioni di immunochimica applicata;  
-15) Virologia e tecniche relative;  
-16) Microscopia clinica;  
-17) Immunologia e tecniche relative;  
-18) Identificazione di tracce biologiche;  
-19) Tecniche ematologiche di laboratorio.  
-  
-Art. 473. - L'esame di diploma, cui si e' ammessi dopo aver superato tutti gli esami nelle singole materie, consta di una dissertazione scritta - elaborata in un istituto universitario sotto il controllo di un relatore scelto fra il personale docente, e assegnata dal direttore della scuola - su un argomento pertinente gli insegnamenti della scuola, e da prove pratiche che saranno stabilite anno per anno dal direttore della scuola. A questo scopo il diplomando dovra' compiere un periodo di internato presso un istituto universitario di chimica biologica o di patologia generale, di almeno due anni se la tesi di specializzazione e' sperimentale. Solo in quest'ultimo caso la commissione degli esami di diploma ne terra' conto nella definizione del voto di diploma.  
-  
-Scuola di specializzazione in psichiatria  
-  
-Art. 474. - Alla seconda facolta' di medicina e chirurgia dell'Universita' degli studi di Napoli e' annessa la scuola di specializzazione in psichiatria, con sede presso la cattedra di malattie nervose e mentali ed e' diretta dal titolare della cattedra medesima.  
-La durata della scuola e' di quattro anni.  
-Il numero degli allievi da ammettere non puo' essere superiore a sei per ogni anno (totale ventiquattro iscritti). L'ammissione alla scuola avviene per concorso per titolo ed esame.  
-Un'abbreviazione di due anni di corso puo' essere concessa agli specialisti in neurologia ed in neuropsichiatria infantile. Una abbreviazione di un anno di corso puo' essere concessa agli specialisti in altre materie affini (psicologia, neurochirurgia, medicina interna).  
-Le abbreviazioni di corso, concesse a giudizio del consiglio della scuola, comportano da parte dell'allievo il superamento di un esame sulle discipline previste per l'insegnamento negli anni di corso dei quali si ottiene l'abbreviazione.  
-  
-Art. 475. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-  
-Anatomia ed istologia del sistema nervoso;  
-Fisiologia del sistema nervoso;  
-Biochimica del sistema nervoso;  
-Genetica (elementi);  
-Psicologia generale;  
-Psicopatologia I;  
-Semeiotica psichiatrica.  
-2° Anno:  
-  
-Anatomia ed istologia patologica del sistema nervoso;  
-Semeiotica neurologica;  
-Patologia speciale e diagnostica neurologica;  
-Neuroradiologia;  
-Endocrinologia e neurologia vegetativa;  
-Elettroencefalografia.  
-3° Anno:  
-  
-Patologia speciale psichiatrica;  
-Psicopatologia II;  
-Clinica psichiatrica I;  
-Psicologia clinica e psicodiagnostica;  
-Psichiatria in rapporto con la patologia internistica;  
-Esami di laboratorio;  
-Psicofarmacologia.  
-4° Anno:  
-  
-Clinica psichiatrica II;  
-Terapia psichiatrica generale;  
-Psicoterapia;  
-Neuropsichiatria infantile;  
-Psichiatria forense e legislazione psichiatrica;  
-Psichiatria sociale (del lavoro, scolastico, igiene e profilassi mentale).  
-  
-Art. 476. - E' obbligatorio l'internato presso i reparti ed ambulatori della clinica psichiatrica durante il primo, il terzo ed il quarto anno di corso per l'intero anno accademico. Tale internato potra' essere ridotto a non meno di mesi quattro per i medici che prestino regolare servizio in ospedali psichiatrici provinciali, ed a non meno di mesi sei per i medici che prestino regolare servizio in altre istituzioni d'assistenza primariamente psichiatrica delle province e delle regioni.  
-E' obbligatorio l'internato presso i reparti neurologici della clinica per le malattie nervose e mentali, durante il secondo anno di corso per l'intero anno accademico.  
-Tale internato potra' essere ridotto a non meno di mesi sei per i medici che prestino regolare servizio in ospedale psichiatrico, ed a non meno di mesi quattro per i medici che prestino regolare servizio in un reparto neurologico.  
-  
-Art. 477. - L'esame di diploma di specializzazione consiste nella discussione di una dissertazione scritta su un argomento di psichiatria, preventivamente concordato con il direttore della scuola.  
-  
-Scuola di specializzazione in neurochirurgia  
-  
-Art. 478. - Alla 2ª facolta' di medicina e chirurgia dell'Universita' degli studi di Napoli e' annessa la scuola di specializzazione in neurochirurgia, con sede presso la cattedra di neurochirurgia ed e' diretta dal titolare della cattedra medesima.  
-La durata della scuola e' di quattro anni.  
-Il numero degli allievi da ammettere non puo' superare i sei per ogni anno.  
-L'ammissione alla scuola avviene per concorso, per titoli ed esame.  
-Non sono consentite abbreviazioni di corso se non per coloro che sono gia' in possesso del diploma di specialista in chirurgia generale od in clinica delle malattie nervose e mentali, previo parere del consiglio dei docenti della scuola, i quali potranno usufruire dell'abbreviazione di un anno.  
-Art. 479. - Le materie di insegnamento sono:  
-1° Anno:  
-1) Neuroanatomia;  
-2) Neurofisiologia;  
-3) Semeiotica e clinica neurologica;  
-4) Elementi di psichiatria;  
-5) Clinica neurochirurgica (I).  
-Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2), 3) e 4).  
-2° Anno:  
-1) Neuro-oftalmologia;  
-2) Neuro-otoiatria;  
-3) Elettroencefalografia ed elettromiografia;  
-4) Clinica neurochirurgica (II).  
-Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2) e 3).  
-3° Anno:  
-1) Anestesiologia;  
-2) Neuropatologia;  
-3) Neuroradiologia (I);  
-4) Clinica neurochirurgica (III).  
-Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1) e 2).  
-4° Anno:  
-1) Tecniche operatorie;  
-2) Neuroradiologia (II);  
-3) Clinica neurochirurgica (IV);  
-4) Neurotraumatologia;  
-5) Neurochirurgia infantile;  
-6) Chirurgia stereotassica;  
-7) Neurochirurgia spinale.  
-Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2) e 3).  
-Gli insegnamenti saranno integrati da esercitazioni cliniche e di laboratorio.  
-  
-Art. 480. - La frequenza alla scuola e' obbligatoria durante l'anno accademico. Gli allievi sono tenuti a frequentare assiduamente le lezioni ed i laboratori della clinica neurochirurgica secondo l'orario stabilito ed a partecipare attivamente alle esercitazioni cliniche e di laboratorio.  
-Per conseguire il diploma di specialista in neurochirurgia, gli iscritti, al termine dei corsi, oltre ad avere superato le prove di esame nelle singole materie, dovranno presentare una dissertazione scritta, elaborata nell'istituto, su un argomento di neurochirurgia e dovranno sostenere un esame pratico dinanzi ad una commissione formata dagli insegnanti della scuola.  
+Dopo l'art. 376, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in medicina dello sport, con il conseguente spostamento della numerazione degli articoli successivi.  
+Scuola di specializzazione in medicina dello sport  
+Art. 377. - La durata del corso e' di due anni ed il numero degli iscritti e' limitato a quaranta allievi.  
+Art. 378. - La direzione della scuola e' affidata al titolare della cattedra di Anatomia umana.  
+Art. 379. - Le materie di insegnamento sono:  
+1° anno:  
+1) Anatomia normale dei sistemi locomotore, cardiorespiratorio e nervoso;  
+2) Biofisica;  
+3) Fisiologia generale (con particolare riferimento agli apparati respiratorio e circolatorio nonche' del locomotore);  
+4) Fisio-patologia generale (con particolare riguardo agli apparati di cui sopra);  
+5) Patologia chirurgica, (con particolare riguardo alle lesioni traumatiche del torace, addome, cranio);  
+6) Biochimica.  
+Durante il corso saranno svolte conferenze straordinarie su argomenti di cardiologia, reumatologia, elementi di statistica, antropometria.  
+2° anno:  
+1) Fisiologia applicata allo sport (metodi di ricerca e di misurazione con particolare riguardo alle applicazioni sui campi agonistici);  
+2) Chirurgia d'urgenza - pronto soccorso;  
+3) Traumatologia e ortopedia - tecnica, degli apparecchi gessati;  
+4) Clinica medica - soccorso medico d'urgenza;  
+5) Neurologia;  
+6) Medicina legale e infortunistica.  
+Durante il corso saranno svolte conferenze straordinarie su argomenti di: oculistica e traumatologia oculare, patologia vascolare, fisiologica, della alimentazione, psicologia dello sport, tecnica del massaggio.  
+Art. 380. - Le tasse di iscrizione e di frequenza saranno eguali a quelle delle altre scuole di specializzazione presso la Facolta' di medicina di Napoli.  
+La tassa di diploma e' fissata nella misura di L. 6000 a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
+L'importo del contributo annuale per esercitazioni materiale didattico sara' determinato dal Consiglio di amministrazione su proposta della Facolta'.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1974
+### Dato a Roma, addi' 19 ottobre 1960
 
-LEONE MALFATTI
+GRONCHI BOSCO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 16 gennaio 1975
+Registrato alla Corte dei conti, addi' 24 novembre 1960
 
-Atti di Governo, registro n. 7, foglio n. 112
+Atti del Governo, registro n. 131, foglio n. 93. - VILLA

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 giugno 1971 n. 639
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 gennaio 1966 n. 78
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 giugno 1971 n. 639
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 gennaio 1966 n. 78
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
@@ -17,80 +17,42 @@ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regi
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-L'art. 45 e' modificato nel senso che gli istituti di lingue e letteratura latina e geografia umana annessi alla facolta' di economia e commercio sono soppressi.  
-Art. 49: e' modificato nel senso che, all'elenco degli istituti annessi alla facolta' di lingue e letterature straniere sono aggiunti quelli di:  
-Istituto di lingua e letteratura latina;  
-Istituto di geografia umana.  
-Nello stesso elenco l'istituto di lingua e letteratura spagnola ed ispano-americana assume la denominazione di "Istituto di studi ibero-americani".  
-Art. 55: nell'elenco degli istituti annessi alla facolta' di lettere e filosofia l'istituto di geografia generale assume la nuova denominazione di "Istituto di scienze geografiche".  
-Art. 75: all'elenco degli insegnamenti complementari della laurea in chimica per gli indirizzi organico-biologico e inorganico-chimico-fisico sono aggiunti i seguenti:  
-Catalisi;  
-Metodologie elettroanalitiche.  
-Art. 78: all'elenco degli insegnamenti del corso di laurea in chimica industriale sono aggiunti i seguenti:  
-Catalisi;  
-Metodologie elettroanalitiche.  
-Art. 79: all'elenco degli insegnamenti complementari del corso di laurea in fisica e' aggiunto quello di:  
-Spettroscopia e radiofrequenze.  
-Art. 87: all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti quelli di:  
-Biologia molecolare;  
-Enzimologia;  
-Chimica analitica;  
-Virologia.  
-Art. 89: all'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti quelli di:  
-Geologia strutturale;  
-Geologia marina;  
-Petrografia applicata;  
-Analisi mineralogiche;  
-Paleontologia vegetale;  
-Prospezioni geofisiche;  
-Difesa del suolo;  
-Fotogeologia;  
-Idrogeologia;  
-Geomorfologia.  
-Dopo l'art. 362 e con il conseguente spostamento della successiva numerazione relativa alla istituzione presso la facolta' di agraria del corso di perfezionamento in "Assistenza e divulgazione agricola" sono inseriti i seguenti articoli:  
+Art. 51. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di:  
+67) Diplomatica;  
+68) Paleografia latina;  
+69) Istituzioni medioevali;  
+70) Storia della letteratura italiana moderna e contemporanea;  
+71) Filosofia della storia.  
   
-Corso di perfezionamento in assistenza e divulgazione agricola  
+Art. 52. - Agli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti quelli di:  
+19) Diplomatica;  
+20) Paleografia latina;  
+21) Istituzioni medioevali;  
+22) Antichita' medioevali.  
   
-Art. 363. - Il corso di perfezionamento in assistenza tecnica e divulgazione agricola annesso alla facolta' di scienze agrarie, ha lo scopo di potenziare le suddette attivita' quali strumenti di una politica di sviluppo del mondo rurale.  
-Il corso ha la durata annuale.  
-Art. 364. - Il corso e' diretto da un direttore assistito da un consiglio.  
-Il direttore del corso e' nominato dal rettore su designazione del consiglio di facolta' di agraria. Egli dura in carica un biennio, ed e' confermabile.  
-Il consiglio della scuola e' costituito da tutti i professori che tengono gli insegnamenti della scuola ed e' presieduto dal direttore.  
-Gli insegnamenti del corso sono affidati a professori di ruolo, o liberi docenti o assistenti della facolta' di scienze agrarie o di altre facolta' nonche' a persone di riconosciuta competenza in uno degli insegnamenti previsti.  
-Le nomine sono approvate dal consiglio della facolta' di scienze agrarie, su proposta del direttore del corso.  
-Art. 365. - Titolo di ammissione al corso e' la laurea in scienze agrarie. Annualmente non puo' essere ammesso al corso un numero di iscritti superiore a venti, nello ambito del quale possono essere riservati posti, a seguito di particolari convenzioni per dipendenti da enti pubblici e privati, o da laureati che godono di apposite borse di studio concesse dallo Stato.  
-Art. 366. - Gli insegnamenti impartiti nel corso sono i seguenti:  
-a) Economia agraria (analisi tecnico-economica dell'azienda agraria e programmazione);  
-b) Politica agraria (quadro istituzionale, politica finanziaria, creditizia, cooperazione);  
-c) Sociologia rurale e psicologia sociologica rurale;  
-d) Principi dell'assistenza tecnica e della divulgazione;  
-e) Metodologia dell'assistenza tecnica e della divulgazione.  
-Gli insegnamenti si svolgono sotto forma di lezioni cattedratiche e di conferenze, integrate, in ogni caso, da esercitazioni ed escursioni.  
-Art. 367. - Gli iscritti al corso devono frequentare le lezioni e le esercitazioni, nonche' partecipare alle escursioni e soggiornare nei luoghi in cui vengono svolte le suddette attivita' didattiche.  
-Art. 368. - Al termine del corso gli iscritti devono sostenere gli esami di profitto nelle singole materie, oggetto d'insegnamento.  
-Le commissioni esaminatrici sono composte secondo quanto stabilito dall'[art. 42 del regio decreto 4 giugno 1931, n. 1269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-04;1269~art42), e sono nominate dal direttore del corso.  
-Art. 369. - Le tasse e soprattasse che gli iscritti sono tenuti a pagare sono quelle stabilite per gli studenti in corso. La tassa di diploma e' fissata nella misura di lire seimila a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
-Art. 370. - A coloro che avranno superato gli esami, verra' rilasciato un attestato di frequenza e di profitto.  
+Art. 76. - Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo inorganico-chimicofisico) sono aggiunti quelli di:  
+29) Complementi di matematica per chimici;  
+30) Chimica biologica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 giugno 1971
+### Dato a Roma, addi' 27 gennaio 1966
 
-SARAGAT MISASI
+SARAGAT GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 18 agosto 1971
+Registrato alla Corte dei conti, addi' 25 febbraio 1966
 
-Atti del Governo, registro n. 243, foglio n. 140. - PASQUALUCCI
+Atti del Governo, registro n. 201, foglio n. 88. - VILLA

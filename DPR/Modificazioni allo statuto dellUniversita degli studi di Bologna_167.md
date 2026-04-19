@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1964 n. 1025
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 614
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1964 n. 1025
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 614
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,198 +20,45 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Veduto il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 71. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di:
-
-"Patologia ostetrica e ginecologica Medicina sociale".
-
-Art. 106. - Negli altri corsi di laurea in Ingegneria vengono apportate le seguenti modificazioni:
-
-Laurea in Ingegneria civile (Sezione idraulica):
-
-Nel gruppo II (materie a scelta dello studente) insegnamento di "Estrazione e trasporto degli idrocarburi" e' abrogato e sostituito dall'insegnamento di Tecnica dei sondaggi".
-
-Laurea in Ingegneria meccanica:
-
-E' aggiunto il seguente nuovo gruppo a scelta dello studente:
-
-(c) - Gruppo X:
-
-"Preparazione dei metalli;
-
-Siderurgia e metallurgia".
-
-Laurea in Ingegneria elettrotecnica:
-
-Nel gruppo III (materie a scelta dello studente) l'insegnamento semestrale di "Impianti speciali idraulici" e' abrogato e sostituito dall'insegnamento di "Impianti idroelettrici" (semestrale).
-
-Laurea in Ingegneria chimica:
-
-Nel gruppo II (materie a scelta dello studente) l'insegnamento di "Metallurgia e metallografia" e' abrogato e sostituito dall'insegnamento di "Siderurgia e metallografia". Sono, inoltre, aggiunti i seguenti nuovi gruppi a scelta dello studente:
-
-(c) - Gruppo III:
-
-"Elettrochimica industriale;
-
-Materiali delle industrie elettriche ed elettrochimiche".
-
-(c) - Gruppo IV:
-
-"Meccanica dei giacimenti di idrocarburi;
-
-Industria del petrolio e petrolchimica".
-
-Laurea in Ingegneria mineraria:
-
-L'insegnamento di "Petrografia" (b) da annuale passa a semestrale.
-
-L'insegnamento di "Estrazione e trasporto degli idrocarburi (b) e' abrogato e sostituito dall'insegnamento di "Tecnica dei sondaggi" (b).
-
-E' aggiunto l'insegnamento di "Disegno II".
-
-Nel gruppo I (materie a scelta dello studente) l'insegnamento di "Tecnologie minerarie" e' abrogato e sostituito dall'insegnamento di "Preparazione dei minerali".
-
-E' inoltre, aggiunto il seguente nuovo gruppo a scelta dello studente:
-
-(c) - Gruppo III:
-
-"Produzione e trasporto degli idrocarburi Misure e controlli nei giacimenti di idrocarburi".
-
-Laurea in Ingegneria elettronica:
-
-L'insegnamento di "Tecnologie elettriche" (semestrale) e' abrogato e sostituito dall'insegnamento di "Tecnologie elettroniche" (annuale).
-
-Nel gruppo I (materie a scelta dello studente) l'insegnamento di "Comunicazioni elettriche su filo" e' abrogato e sostituito dall'insegnamento di "Tecnica delle comunicazioni elettroniche".
-
-Laurea in Ingegneria nucleare:
-
-Gli insegnamenti di "Complementi di matematiche", "Elettronica", "Misure elettriche" ed "Economia ed organizzazione aziendale" sul piano della Facolta' (b) sono abrogati e sostituiti dai seguenti: "Idraulica", "Calcolo elettronico" e "Tecnologia dei materiali nucleari".
-
-I gruppi I e II (materie a scelta dello studente) sono abrogati e sostituiti dai seguenti:
-
-(c) - Gruppo I:
-
-"Tecnologie meccaniche;
-
-Costruzioni di macchine".
-
-(c) - Gruppo II:
-
-"Elettronica nucleare II;
-
-Macchine ed impianti elettrici".
-
-Art. 121. - Agli insegnamenti complementari del corso di laurea, in Medicina veterinaria sono aggiunti quelli di:
-
-Scienza e tecnica della fecondazione artificiale;
-
-Patologia aviare".
-
-Art. 221. - All'elenco degli insegnamenti della Scuola di specializzazione in Ingegneria mineraria sono aggiunti quelli di:
-
-"Tecnica dei sondaggi" e di "Preparazione dei minerali" e sono soppressi quelli di "Estrazione e trasporto degli idrocarburi" e di "Tecnologie minerarie".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 3 agosto 1964
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 24 ottobre 1964 Atti del Governo, registro n. 187, foglio n. 161 - VILLA
+Lo statuto dell'Universita' di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Nell'art. 67, relativo al corso di laurea in scienze statistiche e demografiche, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+metodologia delle scienze.  
+
+Art. 2
+------
+
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 71. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di:  
-"Patologia ostetrica e ginecologica Medicina sociale".  
-Art. 106. - Negli altri corsi di laurea in Ingegneria vengono apportate le seguenti modificazioni:  
-Laurea in Ingegneria civile (Sezione idraulica):  
-Nel gruppo II (materie a scelta dello studente) insegnamento di "Estrazione e trasporto degli idrocarburi" e' abrogato e sostituito dall'insegnamento di Tecnica dei sondaggi".  
-Laurea in Ingegneria meccanica:  
-E' aggiunto il seguente nuovo gruppo a scelta dello studente:  
-(c) - Gruppo X:  
-"Preparazione dei metalli;  
-Siderurgia e metallurgia".  
-Laurea in Ingegneria elettrotecnica:  
-Nel gruppo III (materie a scelta dello studente) l'insegnamento semestrale di "Impianti speciali idraulici" e' abrogato e sostituito dall'insegnamento di "Impianti idroelettrici" (semestrale).  
-Laurea in Ingegneria chimica:  
-Nel gruppo II (materie a scelta dello studente) l'insegnamento di "Metallurgia e metallografia" e' abrogato e sostituito dall'insegnamento di "Siderurgia e metallografia". Sono, inoltre, aggiunti i seguenti nuovi gruppi a scelta dello studente:  
-(c) - Gruppo III:  
-"Elettrochimica industriale;  
-Materiali delle industrie elettriche ed elettrochimiche".  
-(c) - Gruppo IV:  
-"Meccanica dei giacimenti di idrocarburi;  
-Industria del petrolio e petrolchimica".  
-Laurea in Ingegneria mineraria:  
-L'insegnamento di "Petrografia" (b) da annuale passa a semestrale.  
-L'insegnamento di "Estrazione e trasporto degli idrocarburi (b) e' abrogato e sostituito dall'insegnamento di "Tecnica dei sondaggi" (b).  
-E' aggiunto l'insegnamento di "Disegno II".  
-Nel gruppo I (materie a scelta dello studente) l'insegnamento di "Tecnologie minerarie" e' abrogato e sostituito dall'insegnamento di "Preparazione dei minerali".  
-E' inoltre, aggiunto il seguente nuovo gruppo a scelta dello studente:  
-(c) - Gruppo III:  
-"Produzione e trasporto degli idrocarburi Misure e controlli nei giacimenti di idrocarburi".  
-Laurea in Ingegneria elettronica:  
-L'insegnamento di "Tecnologie elettriche" (semestrale) e' abrogato e sostituito dall'insegnamento di "Tecnologie elettroniche" (annuale).  
-Nel gruppo I (materie a scelta dello studente) l'insegnamento di "Comunicazioni elettriche su filo" e' abrogato e sostituito dall'insegnamento di "Tecnica delle comunicazioni elettroniche".  
-Laurea in Ingegneria nucleare:  
-Gli insegnamenti di "Complementi di matematiche", "Elettronica", "Misure elettriche" ed "Economia ed organizzazione aziendale" sul piano della Facolta' (b) sono abrogati e sostituiti dai seguenti: "Idraulica", "Calcolo elettronico" e "Tecnologia dei materiali nucleari".  
-I gruppi I e II (materie a scelta dello studente) sono abrogati e sostituiti dai seguenti:  
-(c) - Gruppo I:  
-"Tecnologie meccaniche;  
-Costruzioni di macchine".  
-(c) - Gruppo II:  
-"Elettronica nucleare II;  
-Macchine ed impianti elettrici".  
-Art. 121. - Agli insegnamenti complementari del corso di laurea, in Medicina veterinaria sono aggiunti quelli di:  
-Scienza e tecnica della fecondazione artificiale;  
-Patologia aviare".  
-Art. 221. - All'elenco degli insegnamenti della Scuola di specializzazione in Ingegneria mineraria sono aggiunti quelli di:  
-"Tecnica dei sondaggi" e di "Preparazione dei minerali" e sono soppressi quelli di "Estrazione e trasporto degli idrocarburi" e di "Tecnologie minerarie".  
+Nell'art. 90, relativo al corso di laurea in pedagogia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+psicopatologia generale (e) dell'eta' evolutiva.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 agosto 1964
+### Dato a Roma, addi' 4 maggio 1983
 
-SEGNI GUI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 24 ottobre 1964
+Registrato alla Corte dei conti, addi' 15 ottobre 1983
 
-Atti del Governo, registro n. 187, foglio n. 161 - VILLA
+Registro n. 66 Istruzione, foglio n. 140

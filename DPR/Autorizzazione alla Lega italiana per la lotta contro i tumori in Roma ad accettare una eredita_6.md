@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 giugno 1982 n. 732
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1986 n. 1029
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 giugno 1982 n. 732
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1986 n. 1029
+================================================================
 
 Autorizzazione alla Lega italiana per la lotta contro i tumori, in Roma, ad accettare una eredita'.
 ---------------------------------------------------------------------------------------------------
@@ -10,10 +10,11 @@ Autorizzazione alla Lega italiana per la lotta contro i tumori, in Roma, ad acce
 Art. 1
 ------
 
-N.
+n.
 
-732. Decreto del Presidente della Repubblica 17 giugno 1982, col quale, sulla proposta del Ministro della sanita', la Lega italiana per la lotta contro i tumori, in Roma, viene autorizzata ad accettare l'eredita', consistente nella somma di L. 12.257.731, oltre agli interessi maturati e maturandi dal 1 gennaio 1978, depositata presso la Cassa di risparmio di Gorizia sul conto corrente n. 256/30, disposta dal sig. Carlo Maria Verani in favore della sezione provinciale di Trieste dell'ente con testamento olografo 19 gennaio 1978, pubblicato in data 27 settembre 1978 numero 39344/2729 di repertorio, a rogito dott. Giuseppe Sardelli, notaio in Gorizia, registrato a Gorizia in data 4 ottobre 1978 al n. 2198.  
+1029. Decreto del Presidente della Repubblica 27 dicembre 1986, col quale, sulla proposta del Ministro della sanita', la Lega italiana per la lotta contro i tumori, in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita', consistente in un appartamento sito in Udine, viale Ungheria n. 121, del periziato valore di L. 77.000.000, disposta dalla signora Paola Bonacina con testamento olografo 26 dicembre 1982, pubblicato in data 27 gennaio 1983, n. 35001/2090 di repertorio, a rogito dott.  
+Giovanni Rubini, notaio in Udine, registrato a Udine in data 2 febbraio 1983 al n. 1118.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 2 ottobre 1982  
-Registro n. 6 Sanita', foglio n. 236
+Visto, il Guardasigilli: ROGNONI  
+Registrato alla Corte dei conti, addi' 27 febbraio 1987  
+Registro n. 2 Sanita', foglio n. 291

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1985 n. 653
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 1282
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1985 n. 653
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 1282
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Udine.
 -----------------------------------------------------------------
@@ -39,21 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 42, relativo al corso di laurea in conservazione dei beni culturali, indirizzo dei beni archivistici e librari - area dell'archivistica - della facolta' di lettere e filosofia, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
-letteratura latina medievale.  
+Nell'art. 19, relativo al corso di laurea in ingegneria, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+statistica sociale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 giugno 1985
+### Dato a Roma, addi' 27 giugno 1983
 
-PERTINI
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 9 novembre 1985
+Registrato alla Corte dei conti, addi' 11 dicembre 1984
 
-Registro n. 74 Istruzione, foglio n. 132
+Registro n. 74 Istruzione, foglio n. 381

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1976 n. 820
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 settembre 1976 n. 1018
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1976 n. 820
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 settembre 1976 n. 1018
+=================================================================
 
 Assegnazione di quattordici posti di tecnico laureato.
 ------------------------------------------------------
@@ -14,67 +14,83 @@ Art. 1
   
 Veduta la [legge 3 novembre 1961, n. 1255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-11-03;1255), ed in particolare la tabella B annessa alla legge stessa;   
 Veduta la [legge 3 giugno 1970, n. 380](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-06-03;380);   
-Veduto il [decreto-legge 1 ottobre 1973, n. 580](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580), convertito, con modificazioni, in [legge 30 novembre 1973, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766), ed in particolare l'art. 8;   
-Considerato che con decreto ministeriale in data 10 dicembre 1975 si e' provveduto, tra l'altro, a determinare per l'anno 1976 l'incremento dei posti della carriera direttiva dei tecnici laureati degli istituti scientifici delle universita' e degli istituti di istruzione universitaria, conformemente a quanto previsto dal citato art. 8;   
+Veduto il [decreto-legge 1° ottobre 1973, n. 580](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580), convertito, con modificazioni, in [legge 30 novembre 1973, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766), ed in particolare l'art. 8;   
+Considerato che con decreto ministeriale in data 10 dicembre 1975 si e' provveduto, tra l'altro, a determinare, per l'anno 1976, l'incremento dei posti della carriera direttiva dei tecnici laureati degli istituti scientifici delle universita' e degli istituti di istruzione universitaria, conformemente a quanto previsto dal citato art. 8;   
 Considerato, altresi', che per l'anno 1976 l'incremento dei posti di tecnico laureato ammonta complessivamente a duecentotredici unita' e che, operata la riserva di cui al quinto comma dell'art. 8 del suddetto [decreto-legge n. 580/1973](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973;580), i posti di tecnico laureato da conferire per pubblici concorsi risultano essere di centosei unita';   
-Considerato che con precedenti provvedimenti si e' provveduto ad assegnare sei dei suddetti centosei posti di tecnico laureato;   
+Considerato che con precedenti provvedimenti si e' provveduto ad assegnare venti dei suddetti centosei posti di tecnico laureato;   
 Valutato ogni opportuno elemento in ordine alle esigenze di funzionamento e alle necessita' scientifico-didattiche dei sottoindicati istituti;   
-Ritenuta l'opportunita' di provvedere ad assegnare quattordici dei residui cento posti di tecnico laureato;   
+Ritenuta l'opportunita' di provvedere ad assegnare quattordici dei residui ottantasei posti di tecnico laureato;   
 Sulla motivata proposta del Ministro per la pubblica istruzione;   
   
 Decreta:   
   
-Quattordici dei cento posti di tecnico laureato indicati nelle premesse, sono assegnati come segue:   
-UNIVERSITA' DI ANCONA   
+Quattordici degli ottantasei posti di tecnico laureato indicati nelle premesse, sono assegnati come segue:   
   
   
->Facolta' di ingegneria:  
-Istituto e dipartimento di elettronica ed automatica . . .posti n. 1 Istituto e dipartimento di matematica e informatica . . . " 1   
   
-UNIVERSITA' DI BARI   
-Facolta' di ingegneria:   
-Istituto di macchine . . . . . . . . . . . . . . . " 1   
-  
-UNIVERSITA' DI SASSARI   
-Facolta' di agraria:   
-Istituto di patologia vegetale . . . . . . . . . . " 1   
-  
-UNIVERSITA' DI FERRARA   
-Facolta' di farmacia:   
-Istituto di chimica farmaceutica e tossicologica . " 1   
-  
-UNIVERSITA' DI MILANO   
-Facolta' di medicina e chirurgia:   
-Clinica delle malattie nervose e mentali . . . . . " 1   
-  
-UNIVERSITA' DI PERUGIA   
+UNIVERSITA' DI BOLOGNA  
+Numero  
+dei posti Facolta' di medicina e chirurgia:  
+Istituto di patologia generale . . . . . . . . . . . . . 1  
+Istituto di clinica chirurgica e cardiochirurgia 1  
   
   
-Facolta' di lettere e filosofia:  
-Istituto di geografia. . . . . . . . . . . . . . . . . . " 1 Facolta' di medicina e chirurgia:  
-Istituto di farmacologia . . . . . . . . . . . . . . . . " 1   
-  
-  
-UNIVERSITA' DI ROMA   
-  
+UNIVERSITA' DI PALERMO  
   
 Facolta' di medicina e chirurgia:  
-Istituto di medicina legale e delle assicurazioni  
-(per la prima cattedra-corso sdoppiato). . . . . . . . . " 2 Istituto di neuropsichiatria infantile (per la  
-II cattedra) . . . . . . . . . . . . . . . . . . . . . . " 1 Istituto di chirurgia del cuore e dei grossi vasi . . . . " 1 Istituto di I clinica medica generale e terapia medica (per la VI cattedra di semeiotica medica) . . . . . . . . . . . . . . . " 1 Facolta' di farmacia:  
-Istituto di chimica generale e inorganica. . . . . . . . " 1   
+Istituto di clinica tisiologica e malattie del-  
+l'apparato respiratorio (per la cattedra di fisio-  
+patologia respiratoria) . . . . . . . . . . . . . . . . . 1  
+  
+UNIVERSITA' DI PERUGIA  
+  
+Facolta' di scienze politiche:  
+Istituto di studi giuridici . . . . . . . . . . . . . . 1  
+  
+UNIVERSITA' DI PISA  
+  
+Facolta' di medicina e chirurgia:  
+Istituto di clinica otorinolaringologica (per il  
+centro di audiofonologia) . . . . . . . . . . . . . . . . 1  
+  
+UNIVERSITA' DI ROMA  
+  
+Facolta' di lettere e filosofia:  
+Istituto di etruscologia . . . . . . . . . . . . . . . . 1  
+  
+Facolta' di medicina e chirurgia:  
+Istituto di terza clinica chirurgica (per la  
+cattedra di chirurgia geriatrica) . . . . . . . . . . . . 1  
+Istituto di fisiologia umana (per la cattedra  
+di fisica) . . . . . . . . . . . . . . . . . . . . . . . 1  
+Istituto di anatomia patologica (per la catte  
+dra di tecnica e diagnostica istopatologica) . . . . . . 1  
+Istituto di seconda clinica medica (per il re-  
+parto radiologico) . . . . . . . . . . . . . . . . . . . 1  
+Istituto di patologia generale (per la seconda  
+cattedra) . . . . . . . . . . . . . . . . . . . . . . . . 1  
+Istituto di chirurgia d'urgenza e pronto soc-  
+Corso . . . . . . . . . . . . . . . . . . . . . . . . . . 1  
+  
+Facolta' di architettura:  
+Istituto di tecnica delle costruzioni . . . . . . . . . 1  
+  
+UNIVERSITA' DI TRIESTE  
+Facolta' di medicina e chirurgia:  
+Istituto di anatomia e istologia patologica . . . . . . 1  
+  
   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 giugno 1976
+### Dato a Roma, addi' 8 settembre 1976
 
 LEONE MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 6 dicembre 1976
+Registrato alla Corte dei conti, addi' 26 febbraio 1977
 
-Registro n. 99 Istruzione, foglio n. 66
+Registro n. 19 Istruzione, foglio n. 16

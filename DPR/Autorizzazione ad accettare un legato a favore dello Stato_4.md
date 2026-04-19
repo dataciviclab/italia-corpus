@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1986 n. 672
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1977 n. 743
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1986 n. 672
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1977 n. 743
 =============================================================
 
 Autorizzazione ad accettare un legato a favore dello Stato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-672. Decreto del Presidente della Repubblica 13 maggio 1986, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato del legato, consistente in due dipinti dell'autore G. Ottani, raffiguranti "Due tempeste", i quali rivestono un interesse artistico e storico, da destinare alla soprintendenza per i beni artistici e storici - Pinacoteca nazionale di Bologna, disposto dalla sig.ra Albertina Villoresi con testamento olografo 23 marzo 1982, pubblicato in data 26 aprile 1982, n. 25168 di repertorio, a rogito dottor Alessandro Ruggiero, notaio in Firenze, registrato a Firenze in data 3 maggio 1981 al n. 4978.   
+743. Decreto del Presidente della Repubblica 9 maggio 1977, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato del legato disposto dal sig. Roberto Moschitti con testamento olografo 6 gennaio 1975, pubblicato con atto pubblico 14 agosto 1975, n. 147250 di repertorio, a rogito dell'avv. Isabella Cosentini, notaio in Napoli, consistente in una raccolta di 13 violini del XIII, XIX e XX secolo, i quali rivestono un importante interesse artistico e storico, da destinare al museo di Capodimonte in Napoli.  
   
-Visto, il Guardasigilli: ROGNONI   
-Registrato alla Corte dei conti, addi' 10 ottobre 1986   
-Registro n. 26 Beni culturali, foglio n. 120
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 7 ottobre 1977  
+Registro n. 14 Beni culturali, foglio n. 279

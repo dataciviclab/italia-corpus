@@ -1,82 +1,177 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 settembre 1956 n. 1210
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1979 n. 887
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 settembre 1956 n. 1210
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1979 n. 887
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 21341](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;21341) e modificato con i [regi decreti 15 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-15;2169); [31 ottobre 1929, n. 2481](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1929-10-31;2481); [30 ottobre 1930, n. 1858](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1858); [22 ottobre 1931, n. 1422](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-22;1422); [27 ottobre 1932, n. 2082](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-10-27;2082); [13 dicembre 1934, n. 2404](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-13;2404); [1 ottobre 1936, n. 2020](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2020); [13 luglio 1939, n. 1168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-07-13;1168); [26 ottobre 1940, n. 2029](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2029); [24 ottobre 1942, n. 1785 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1785) [21 aprile 1949, n. 451](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;451);  
-[31 ottobre 1950, n. 1293](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1293); [11 maggio 1951, n. 633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-05-11;633); [23 gennaio 1952, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;66); [25 giugno 1953, n. 753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-06-25;753); [30 luglio 1953, n. 758](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;758), [25 agosto 1953, n. 857](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;857); [25 agosto 1953, n. 992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;992);  
-[14 settembre 1954, n. 1198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1198); [11 aprile 1955, n. 621](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-04-11;621);  
-[31 agosto 1955, n. 896](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-08-31;896);, [25 settembre 1955, n. 958](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-25;958) e [25 febbraio 1956, n. 298](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-02-25;298);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
   
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 20 (gia' 16). - Agli insegnamenti complementari dei corso di laurea in economia e commercio sono aggiunti i seguenti:  
-a) "Economia montana e forestale";  
-b) "Tecnica commerciale dei prodotti agricoli";  
-c) "Storia delle esplorazioni geografiche".  
-Art. 50 (gia' 47). - Il comma quinto e' sostituito dal seguente:  
-"Gli insegnamenti di storia greca e storia romana sono riuniti in unica cattedra. I corsi rispettivi vengono tenuti alternativamente e ogni anno viene indicato nel manifesto degli studi il corso che sara' impartito".  
-Art. 54 (gia' 51). - Il comma secondo, riguardante la riunione degli insegnamenti di storia medioevale e storia moderna in unica cattedra, per il corso di laurea in filosofi a, e' soppresso.  
-Art. 56 (gia' 53). - E' sostituito dal seguente "I laureati in lettere sono iscritti, sul loro domanda, al terzo o quarto anno del corso di laurea in filosofia a secondo del numero degli esami obbligatori e complementari, validi per il conseguimento della laurea in filosofia, superati durante il corso per il conseguimento della laurea in lettere".  
-Art. 57. - L'elenco degli insegnamenti complementari del corso di laurea in materie letterarie e' sostituito dal seguente:  
-1) Grammatica latina;  
-2) Filologia romanza;  
-3) Istituzioni di diritto pubblico e legislazione scolastica;  
-4) Filologia germanica;  
-5) Storia dell'arte medioevale e moderna;  
-6) Storia della grammatica e della lingua italiana;  
-7) Storia della musica.  
-Art. 59. - L'elenco degli insegnamenti complementari del corso di laurea in pedagogia e' sostituito dal seguente:  
-1) Filologia romanza;  
-2) Filologia germanica;  
-3) Istituzioni di diritto pubblico e legislazione scolastica;  
-4) Psicologia;  
-5) Storia dell'arte medioevale e moderna;  
-6) Storia della pedagogia;  
-7) Storia delle dottrine politiche;  
-8) Psicologia dell'eta' evolutiva;  
-9) Geografia.  
-Art. 65. - Il secondo comma, concernente l'argomento della dissertazione di laurea nella Facolta' di magistero, e' sostituito dal seguente:  
-"L'argomento della dissertazione deve essere letterario, storico o geografico per gli aspiranti alla laurea in materie letterarie di carattere filosofico-pedagogico per gli aspiranti alla laurea in pedagogia".  
-Art. 74 (gia' 56). - Agli insegnamenti complementari del corso di laurea in scienze matematiche e' aggiunto quello di "astronomia".  
-Art. 77 (gia' 59) riguardante le precedenze, per l'esame, fra gli insegnamenti del corso di laurea in fisica. - Nella parte relativa all'esame di fisica sperimentale, e' cosi' modificato:  
-"L'esame di fisica sperimentale deve precedere gli esami di fisica superiore, fisica teorica, fisica terrestre, fisica tecnica, elettrologia, radioattivita', onde elettromagnetiche".  
-Art. 81 (gia' 63) riguardante le precedenze, per l'esame, fra gli insegnamenti del corso di laurea in scienze naturali. - Nel primo comma e' inserita la seguente norma:  
-"Non potra' essere ammesso a sostenere l'esame di geologia senza aver prima superato l'esame di mineralogia".  
-Alt. 842 (gia' 64). - Agli insegnamenti complementari del corso di laurea in matematica e fisica sono aggiunti i seguenti:  
-a) Matematiche superiori;  
-b) Astronomia.  
-Art. 83 (gia' 65). - Agli insegnamenti del corso di laurea in matematica e fisica, i cui esami non possono essere sostenuti senza aver superato l'esame di fisica sperimentale, e' aggiunto quello di "onde elettromagnetiche".  
-Art. 92 (gia' 72). - Agli insegnamenti complementari del corso di laurea in ingegneria e' aggiunto quello di "impianti industriali elettrici e meccanici".  
+Art. 192 - all'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola di specializzazione in criminologia clinica.  
+
+Art. 2
+------
+
+  
+L'art. 231, relativo alle materie di insegnamento della scuola di specializzazione in endocrinologia, e' modificato nel senso che l'insegnamento di anatomia ed endocrinologia degli organi endocrini del primo anno di corso e' soppresso e sostituito da quello di anatomia ed embriologia delle ghiandole endocrine.  
+L'ultimo comma del suddetto art. 231 e' soppresso e sostituito dal seguente:  
+  
+Non sono concesse abbreviazioni di corso.  
+
+Art. 3
+------
+
+  
+  
+Dopo l'art. 265, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in criminologia clinica:   
+  
+Scuola di specializzazione in criminologia clinica   
+Art. 266. - Presso l'istituto di antropologia criminale della facolta' di medicina e chirurgia dell'Universita' di Bari, e' istituita la scuola di specializzazione in criminologia clinica; la direzione della scuola e' affidata al professore di ruolo o fuori ruolo dalla stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 267. - La scuola ha due indirizzi:   
+a) indirizzo medico-psicologico e psichiatrico forense, per i laureati in medicina e chirurgia;   
+b) indirizzo socio-psicologico, per i laureati in giurisprudenza, scienze politiche, pedagogia, sociologia, psicologia, lettere, filosofia.   
+Dell'indirizzo seguito viene fatta espressa menzione sul diploma di specializzazione.   
+La durata del corso della scuola e' di tre anni.   
+La frequenza e' obbligatoria.   
+Non sono consentite abbreviazioni di corso.   
+Art. 268. - Gli insegnamenti impartiti nella scuola sono i seguenti:   
+Insegnamenti fondamentali commi ai due indirizzi:   
+1) criminologia generale I;   
+2) elementi di diritto;   
+3) elementi di sociologia;   
+4) elementi di psicologia;   
+5) elementi di biologia;   
+6) metodologia della ricerca;   
+7) criminologia generale II;   
+8) criminologia minorile ;   
+9) trattamento criminologico;   
+10) politica criminale e diritto penitenziario.   
+Insegnamenti fondamentali dell'indirizzo medico-psicologico e psichiatrico-forense:   
+1) psicopatologia generale;   
+2) psichiatria clinica;   
+3) diagnostica criminologica;   
+4) medicina legale e criminalistica;   
+5) psicodiagnostica;   
+6) neurologia e psichiatria forense;   
+7) prevenzione della patologia del comportamento;   
+8) tecniche di rieducazione minorile;   
+9) legislazione socio-sanitaria.   
+Insegnamenti fondamentali dell'indirizzo socio-psicologico:   
+1) elementi di psicopatologia generale;   
+2) elementi di psichiatria clinica e forense;   
+3) tecniche di servizio sociale;   
+4) antropologia culturale;   
+5) elementi di medicina legale;   
+6) psicologia sociale;   
+7) tecniche psicopedagogiche;   
+8) sociologia della devianza;   
+9) metodi di prevenzione.   
+Insegnamenti complementari:   
+1) antropofenomenologia;   
+2) etologia dei comportamenti criminosi;   
+3) sociologia del diritto;   
+4) psicologia;   
+5) economia della sicurezza e della difesa sociale;   
+6) psicologia e psicopatologia dell'eta' evolutiva;   
+7) igiene mentale;   
+8) psicoterapia.   
+Art. 269. - Il piano degli studi della scuola di specializzazione e' il seguente:   
+1° Anno (comune ai due indirizzi):   
+1) criminologia generale I;   
+2) elementi di diritto;   
+3) elementi di sociologia;   
+4) elementi di psicologia;   
+5) elementi di biologia;   
+6) metodologia della ricerca;   
+7) una materia integrativa a scelta.   
+2° Anno:   
+a) Indirizzo medico-psicologico e psichiatrico-forense:   
+1) criminologia generale II;   
+2) psicopatologia generale;   
+3) psichiatria clinica;   
+4) diagnostica criminologica;   
+5) medicina legale e criminalistica;   
+6) psicodiagnostica;   
+7) criminologia minorile;   
+8) una materia integrativa a scelta.   
+b) Indirizzo socio-psicologico:   
+1) criminologia generale II;   
+2) elementi di psicopatologia generale;   
+3) elementi di psichiatria clinica e forense;   
+4) tecniche di servizio sociale;   
+5) antropologia culturale;   
+6) elementi di medicina legale;   
+7) criminologia minorile;   
+8) una materia integrativa a scelta.   
+3° Anno:   
+a) Indirizzo medico-psicologico e psichiatrico-forense:   
+1) neurologia e psichiatria forense;   
+2) prevenzione della patologia del comportamento;   
+3) trattamento criminologico;   
+4) tecniche di rieducazione minorile;   
+5) legislazione socio-sanitaria;   
+6) politica criminale e diritto penitenziario;   
+7) una materia integrativa a scelta.   
+b) Indirizzo socio-psicologico:   
+1) psicologia sociale;   
+2) tecniche psicopedagogiche;   
+3) sociologia della devianza;   
+4) metodi di prevenzione;   
+5) trattamento criminologico;   
+6) politica criminale e diritto penitenziario;   
+7) una materia integrativa a scelta.   
+Art. 270. - All'atto della domanda di iscrizione a ciascuno dei tre anni di corso l'allievo deve indicare alla segreteria della scuola una materia integrativa, da scegliere tra le materie complementari ovvero tra quelle fondamentali appartenenti all'indirizzo al quale non e' iscritto. L'indicazione e' vincolante.   
+Art. 271. - Gli insegnamenti possono essere integrati da esercitazioni pratiche nonche' da conferenze tenute da esperti stranieri e italiani.   
+Art. 272. - Alla scuola sono ammessi i laureati in medicina e chirurgia, in giurisprudenza, in scienze politiche, in pedagogia, in sociologia, in psicologia, in lettere, in filosofia, in numero complessivo non superiore a trenta per i tre anni di corso.   
+L'ammissione avviene mediante concorso per esami e titoli.   
+Art. 273. - Gli esami di profitto sono tenuti ogni anno per singole materie o per gruppi di materie.   
+Per essere ammesso all'esame di diploma l'allievo deve aver sostenuto ventidue esami, dei quali diciannove relativi alle materie fondamentali del suo indirizzo e tre relativi alle materie integrative da lui scelte.   
+I voti degli esami di profitto sono attribuiti in trentesimi; il voto dell'esame di diploma e' attribuito in cinquantesimi.   
+Art. 274. - L'esame di diploma consiste nella discussione di una dissertazione scritta originale, in una delle materie di insegnamento. Il tema, concordato con il docente, deve essere presentato al direttore della scuola, per l'approvazione entro trenta giorni dalla data di inizio dell'ultimo anno di corso.   
+A coloro che hanno superato l'esame di diploma viene rilasciato il diploma di specialista in criminologia clinica, con specificazione dell'indirizzo seguito.   
+Art. 275. Le norme per l'iscrizione, per gli esami, per le tasse, ecc., sono quelle generali delle scuole di specializzazione dello statuto dell'Universita' di Bari.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta, ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a di osservarlo e di farlo osservare.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 settembre 1956
+### Dato a Roma, addi' 21 ottobre 1979
 
-GRONCHI ROSSI
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 30 ottobre 1956
+Registrato alla Corte dei conti, addi' 23 aprile 1980
 
-Atti del Governo, registro n. 101, foglio n. 107. - CARLOMAGNO
+Registro n. 36 Istruzione, foglio n. 251

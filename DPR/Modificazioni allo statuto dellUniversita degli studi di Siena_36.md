@@ -1,101 +1,140 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 luglio 1969 n. 596
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 agosto 1970 n. 707
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 luglio 1969 n. 596
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 agosto 1970 n. 707
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il regio decreto-legge 20 giugno. 1935, n. 1071, convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduta la [legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla
+-----
+
+proposta del Ministro per la pubblica istruzione; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella, [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+La tabella II annessa al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e' integrata nel senso che la facolta' di scienze economiche e bancarie rilascia anche la laurea in scienze statistiche ed economiche, il cui ordinamento e' riportato nella tabella VII-bis.  
+
+Art. 2
+------
+
   
-Decreta:  
+A decorrere dall'anno accademico 1970-71 e' istituito presso la facolta' di scienze economiche e bancarie dell'Universita' di Siena il corso di laurea in scienze statistiche ed economiche.  
+
+Art. 3
+------
+
   
-Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 82, 83 e 84 relativi alla scuola di specializzazione in "urologia" e l'art. 97 relativo alla scuola di specializzazione in "anestesiologia" sono abrogati e sostituti dai seguenti:  
-  
-Scuola di specializzazione in urologia  
-  
-Art. 82. - La scuola di specializzazione in urologia e' annessa alla clinica chirurgica. Il direttore della clinica e' anche direttore della scuola suddetta.  
-Art. 83. - La scuola ha la durata di tre anni. Il numero degli specializzandi da ammettere alla scuola e' di 12 per anno di corso, per un totale di 36 iscritti.  
-Art. 84. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) Anatomia descrittiva e topografica dell'apparato urogenitale;  
-2) Fisiologia dell'apparato urogenitale;  
-3) Patologia dell'apparato urinario e genitale maschile;  
-4) Le nefropatie mediche;  
-5) Semeiotica dell'apparato urogenitale (funzionale e di laboratorio);  
-6) Tecniche strumentali e semeiologia endoscopica;  
-7) Patteriologia in urologia;  
-8) Farmacoterapia delle affezioni urogenitali.  
-2° Anno:  
-1) Patologia dell'apparato urinario e genitale maschile;  
-2) Clinica urologica;  
-3) Patologia genitale femminile di interesse urologico;  
-4) Nefrologia chirurgica;  
-5) Anatomia ed istologia patologica dell'apparato urogenitale;  
-6) Semeiotica dell'apparato urogenitale (funzionale e di laboratorio);  
-7) Tecniche strumentali e semeiologia endoscopica;  
-8) Anatomia chirurgica dell'apparato urogenitale;  
-9) Radiologia dell'apparato urinario e genitale;  
-10) Le affezioni cutanee e veneree nei riguardi della urologia;  
-11) L'anestesia ed il trattamento pre e postoperatorio del malato urologico.  
-3° Anno:  
-1) Chimica urologica;  
-2) Patologia e clinica urologica infantile;  
-3) Radiologia dell'apparato urinario e genitale;  
-4) Tecniche operatorie sull'apparato urinario e genitale;  
-5) Urologia ginecologica.  
-Esami:  
-1° Anno:  
-1) Anatomia e fisiologia dell'apparato urogenitale;  
-2) Le nefropatie mediche;  
-3) Batteriologia in urologia e farmacoterapia della affezioni urogenitali.  
-2° Anno:  
-1) Patologia dell'apparato urinario e genitale maschile, anatomia ed istologia patologica;  
-2) Semeiotica urologica (funzionale e di laboratorio), tecnica strumentale e semeiologia endoscopica;  
-3) Patologia genitale femminile di interesse urologico, le affezioni cutanee e veneree nei riguardi della urologia;  
-4) Anatomia chirurgica dell'apparato urogenitale, anestesia e trattamento pre e postoperatorio del malato urologico;  
-5) Nefrologia chirurgica.  
-3° Anno:  
-1) Clinica urologica;  
-2) Radiologia dell'apparato urinario e genitale;  
-3) Interventi e procedimenti operatori sull'apparato urogenitale;  
-4) Patologia e clinica urologica infantile;  
-5) Urologia ginecologica.  
-  
-Scuola di specializzazione in anestesiologia e rianimazione  
-  
-Art. 97. - Alla facolta' di medicina e chirurgia di questa universita' e' annessa la scuola di specializzazione in anestesiologia e rianimazione.  
-Il corso ha durata triennale.  
-II numero massimo di iscritti e' di 30 per anno per un totale di 90 iscritti.  
-La frequenza ai corsi e' obbligatoria. Oltre che a frequentare le lezioni e le esercitazioni, gli iscritti sono tenuti a svolgere un internato in modo da poter ricavare una esperienza diretta sia dell'attivita' nei reparti operatori che dell'osservazione clinica continuata del paziente.  
-Non e' concessa alcuna abbreviazione di corso, ad eccezione dei candidati che, gia' in possesso della specializzazione;  
-7) Medicina legale ed infortunistica in otorinolaringoiatria.  
-Gli esami di profitto vengono sostenuti alla fine di ciascun anno di corso. L'esame di diploma constera' di una discussione sopra una dissertazione originale scritta. A coloro che abbiano superato l'esame di diploma verra' rilasciato un diploma di specialista.  
+Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti suindicati e' ulteriormente modificato come dal testo annesso al presente decreto - vistato dal Ministro per la pubblica istruzione - contenente le norme relative all'ordinamento del corso di studi della laurea in scienze statistiche ed economiche.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 luglio 1969
+### Dato a Roma, addi' 6 agosto 1970
 
-SARAGAT FERRARI AGGRADI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 8 settembre 1969
+Registrato alla Corte dei conti, addi' 29 settembre 1970
 
-Atti del Governo, registro n. 229, foglio n. 9. - CARUSO
+Atti del Governo, registro n. 237, foglio n. 118. - GRECO
+
+Allegato
+
+ ALLEGATO   
+  
+Testo delle modifiche dello statuto dell'Universita' degli studi di Siena, relativo alla istituzione del corso di laurea in scienze statistiche ed economiche.   
+  
+Art. 30. - E' abrogato e sostituito dal seguente:   
+La facolta' conferisce:   
+1) la laurea in scienze economiche e bancarie;   
+2) la laurea in scienze economiche;   
+3) la laurea in scienze statistiche ed economiche.   
+La durata del corso di studi per la laurea in scienze economiche e bancarie, per la laurea in scienze economiche e per la laurea in scienze statistiche ed economiche e' di quattro anni.   
+Titolo di ammissione: quello previsto dalle leggi vigenti.   
+Dopo l'art. 39 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in scienze statistiche ed economiche.   
+  
+Laurea in scienze statistiche ed economiche   
+Art. 40. Sono insegnamenti fondamentali:   
+1) Istituzioni di analisi matematica;   
+2) Analisi matematica;   
+3) Geometria analitica;   
+4) Calcolo delle probabilita';   
+5) Istituzioni di statistica;   
+6) Statistica;   
+7) Statistica metodologica;   
+8) Demografia;   
+9) e 10) Economia politica (biennale);   
+11) Politica economica e finanziaria;   
+12) Istituzioni di statistica economica;   
+13) Statistica economica;   
+14) Economia d'azienda;   
+15) Statistica aziendale e analisi di mercato;   
+16) Controllo statistico delle qualita' e statistica industriale;  
+17) Istituzioni di diritto privato;   
+18) Istituzioni di diritto pubblico;   
+19) Teoria dei campioni.   
+Sono insegnamenti complementari:   
+1) Geografia economica;   
+2) Statistica sociale;   
+3) Sociologia;   
+4) Scienza delle finanze;   
+5) Econometria;   
+6) Contabilita' economica nazionale;   
+7) Diritto commerciale;   
+8) Diritto del lavoro;   
+9) Matematica finanziaria e istituzioni di matematica attuariale;  
+10) Teoria tecnica della elaborazione automatica dei dati;   
+11) Ricerca operativa;   
+12) Teoria dei sistemi;   
+13) Psicologia sperimentale;   
+14) Antropologia;   
+15) Statistica medica e biometria;   
+16) Statistica applicata alle scienze fisiche;   
+17) Genetica;   
+18) Diritto pubblico dell'economia;   
+19) Storia della statistica;   
+20) Economia dei trasporti.   
+Gli insegnamenti complementari possono essere scelti dallo studente anche fra le discipline impartite in altre facolta' dell'ateneo, previa approvazione del preside della facolta'. Detta approvazione deve essere richiesta entro il 31 dicembre di ogni anno.   
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali e di almeno tre complementari. Deve anche aver superato gli esami di due lingue straniere moderne, dei quali almeno uno di lingua francese o inglese o tedesca presso la facolta' di scienze economiche e bancarie, e l'altro di lingua il cui insegnamento sia impartito presso qualsiasi facolta' dell'ateneo.   
+Per essere iscritto al secondo anno lo studente deve aver superato almeno due esami fondamentali del primo anno.   
+Per l'insegnamento biennale di economia politica e' prescritto l'esame alla fine di ciascun corso annuale, dovendosi il primo considerare propedeutico al secondo.   
+Art. 41. - Gli esami di: istituzioni di matematica, analisi matematica, geometria analitica, calcolo delle probabilita', istituzioni di statistica, statistica, economia politica (1° esame), istituzioni di statistica economica, statistica economica, istituzioni di diritto pubblico, istituzioni di diritto privato, debbono essere superati prima degli altri esami fondamentali.   
+Gli esami di istituzioni di analisi matematica e di geometria analitica dovranno essere superati prima degli esami di analisi matematica e statistica.   
+L'esame di istituzioni di statistica dovra' essere superato prima degli esami di statistica, di demografia e di statistica economica.   
+L'esame di analisi matematica dovra' essere superato prima dell'esame di calcolo delle probabilita'.   
+Gli esami di economia politica (1° esame) e di istituzioni di statistica economica dovranno essere superati prima dell'esame di statistica economica.   
+L'esame di economia politica (2° esame) dovra' essere superato prima dell'esame di politica economica.   
+L'esame di laurea consiste nella discussione di una dissertazione scritta, svolta sul tema approvato dal professore della materia e nella discussione di almeno due su tre temi orali scelti dal candidato vertenti su materie fondamentali del suo corso di studi e parimenti approvati dai professori delle rispettive materie.   
+Uno di questi temi deve riguardare la statistica metodologica ed uno la statistica applicata.   
+  
+Visto, d'ordine del Presidente della Repubblica   
+Il Ministro per la pubblica istruzione   
+  
+MISASI   

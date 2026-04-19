@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 agosto 1963 n. 1445
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1978 n. 411
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 agosto 1963 n. 1445
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1978 n. 411
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -12,60 +12,48 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, numero 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successive;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 79. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di "Statistica sanitaria".  
-Dopo l'art. 499 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione per medici laboratoristi con il conseguente spostamento della numerazione degli articoli successivi.  
-  
-Scuola di specializzazione per medici laboratoristi  
-  
-Art. 500. - La Scuola di specializzazione per medici laboratoristi ha lo scopo di preparare sul piano scientifico e tecnico i medici che intendano dedicarsi particolarmente alle analisi di laboratorio applicate alla clinica.  
-Art. 501. - Possono essere ammessi i laureati in Medicina e chirurgia.  
-Art. 502. - Il corso ha la durata di tre anni ed ha luogo negli Istituti di chimica biologica e di microbiologia.  
-Art. 503. - Gli iscritti al primo anno non potranno superare il numero di sessanta. Nel caso di domande eccedenti, la selezione verra' effettuata mediante concorso con norme che verranno precisate nel manifesto annuale.  
-Art. 504. - La direzione della Scuola viene assunta, ad anni alterni, dai professori di ruolo o fuori ruolo di Chimica biologica e di Microbiologia.  
-Art. 505. - L'ordine degli studi (distribuzione degli insegnamenti nei diversi anni del corso) e l'ordine e le modalita' degli esami verranno stabiliti nel manifesto annuale.  
-Art. 506. Gli insegnamenti impartiti nella Scuola sono:  
-1) Fisiologia;  
-2) Patologia generale;  
-3) Tecniche di laboratorio;  
-4) Batteriologia generale;  
-5) Batteriologia speciale;  
-6) Virologia e tecniche relative;  
-7) Micologia;  
-8) Immunologia e tecniche relative;  
-9) Chimica biologica generale;  
-10) Chimica biologica applicata;  
-11) Fisico-chimica applicata;  
-12) Nozioni di immunochimica, applicata;  
-13) Parassitologia e tecniche relative;  
-14) Microscopia clinica;  
-15) Nozioni di igiene applicate al laboratorio di analisi cliniche;  
-16) Nozioni di statistica biologica;  
-17) Tecnica dei prelevamenti.  
-Art. 507. - L'esame di diploma si svolge con le norme dell'art. 352 dello statuto dell'Universita' di Roma.  
+L'art. 19, relativo all'elenco degli istituti annessi alla facolta' di giurisprudenza, e' modificato nel senso che all'istituto di filosofia del diritto sono attribuiti i seguenti insegnamenti:  
+filosofia del diritto;  
+sociologia giuridica;  
+teoria dell'interpretazione;  
+teoria generale del diritto;  
+storia delle dottrine politiche.  
+Conseguentemente, l'insegnamento di sociologia giuridica e' depennato dall'elenco degli insegnamenti attribuiti all'istituto di diritto pubblico.  
+L'art. 20, relativo all'elenco degli insegnamenti complementari per il corso di laurea in giurisprudenza, e' modificato nel senso che l'insegnamento di diritti dei Paesi del Common Law muta la denominazione in quella di "Common Law e diritto comune moderno".  
+Art. 58 - all'elenco degli insegnamenti complementari del corso di laurea in lettere e' aggiunto il seguente:  
+lingua e letteratura gaelica.  
+Art. 59 - all'elenco degli insegnamenti complementari del corso di laurea in filosofia e' aggiunto il seguente:  
+lingua e letteratura gaelica.  
+Art. 60 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne e' aggiunto il seguente:  
+lingua e letteratura gaelica.  
+L'art. 108, relativo al corso di laurea in scienze naturali, e' modificato nel senso che dopo l'elenco degli insegnamenti complementari i primi due commi relativi alle modalita' d'esame di insegnamento biennale sono abrogati e sostituiti dal seguente:  
+"Gli insegnamenti biennali di botanica e zoologia comprendono tanto la parte generale quanto quella sistematica e possono importare, a scelta dello studente, due distinti esami alla fine di ciascun anno, ovvero un unico esame al termine del biennio".  
+L'art. 110, relativo al corso di laurea in scienze biologiche, e' modificato nel senso che dopo l'elenco, degli insegnamenti complementari il primo comma relativo alle modalita' di esame di insegnamenti biennali e' abrogato e sostituito dal seguente:  
+"Gli insegnamenti biennali di botanica e di zoologia comprendono tanto la parte generale quanto quella sistematica e possono importare, a scelta dello studente, due distinti esami alla fine di ciascun anno, ovvero un unico esame al termine del biennio".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Sassari, addi' 24 agosto 1963
+### Dato a Roma, addi' 10 aprile 1978
 
-SEGNI GUI
+LEONE PEDINI
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 2 novembre 1963
+Registrato alla Corte dei conti, addi' 18 luglio 1978
 
-Atti del Governo, registro n. 175, foglio n. 103. - VILLA
+Registro n. 77 Istruzione, foglio n. 338

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1950 n. 1153
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1954 n. 906
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1950 n. 1153
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1954 n. 906
+=============================================================
 
 Autorizzazione all'Universita' di Bari ad accettare una donazione.
 ------------------------------------------------------------------
@@ -12,7 +12,8 @@ Art. 1
 
 N.
 
-1153. Decreto del Presidente della Repubblica 25 ottobre 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Bari viene autorizzata, ad accettare la donazione della somma di L. 315.030 disposta in suo favore dal Comitato pro borsa di studio "Prof. Michele Ragno" con atto pubblico amministrativo in data 29 ottobre 1949, per l'istituzione di una borsa di studio da intitolarsi al nome di detto professore e da conferirsi a laureati in farmacia nell'Universita' medesima, che abbiano elaborato una tesi sperimentale in chimica farmaceutica o in chimica organica e che si trovino nelle condizioni previste nel regolamento della borsa stessa.  
+906. Decreto del Presidente della Repubblica 31 luglio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Bari viene autorizzata ad accettare la donazione della, somma di L. 1.000.000 nominali, disposta in suo favore dalla sede di Bari della Banca d'Italia, per l'istituzione, con la rendita del capitale donato, del "Premio gr. uff. Arturo Atti", da conferirsi ad un laureato della Facolta' di economia e commercio della Universita' di Bari.  
   
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 2 febbraio 1951
+Visto, il Guardasigilli: DE PIETRO  
+Registrato alla Corte dei conti, addi' 24 settembre 1954  
+Atti del Governo, registro n. 86, foglio n. 60. - CARLOMAGNO

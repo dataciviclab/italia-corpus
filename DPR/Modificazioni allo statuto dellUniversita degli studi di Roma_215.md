@@ -1,70 +1,99 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1948 n. 1619
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1980 n. 698
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1948 n. 1619
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1980 n. 698
 ================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposte del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con il [regio decreto 14 ottobre 1926, n. 2319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2319), e modificato con i [regi decreti 13 ottobre 1927, n. 2819](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2819); [20 settembre 1928, n. 3018](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-09-20;3018); [31 ottobre 1929, n. 2483](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2483); [30 ottobre 1930, n. 1828](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1828); [10 ottobre 1931, n. 1329](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-10;1329); [22 ottobre 1931, n. 1754](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-22;1754); [22 ottobre 1932, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-10-22;2090); [26 ottobre 1933, n. 2391](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-26;2391); [27 dicembre 1934, n. 2419](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-12-27;2419); [10 ottobre 1936, n. 2498](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-10;2498); [27 ottobre 1937, n. 2619](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-10-27;2619); [20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350); [26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734); [26 ottobre 1940, n. 2069](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2069); [4 maggio 1942, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-05-04;565); [24 luglio 1942, n. 949](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-07-24;949); [24 agosto 1942, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-08-24;1098), e con i [decreti del Capo provvisorio dello Stato 12 aprile 1947, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-12;461) e [31 dicembre 1947, n. 1758](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-12-31;1758);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652);  
-Vedute le proposte relative alle modifiche formulate dall'Universita' predetta;  
-Considerata la particolare necessita' di approvare le modifiche anzidette;  
-Sentito il Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
-  
-E' istituita presso la Facolta' di medicina e chirurgia dell'Universita' degli studi di Roma una "Scuola di perfezionamento" in storia della medicina.  
-Pertanto lo statuto dell'Universita' di Roma viene ulteriormente modificato come segue e la relativa numerazione degli articoli dello statuto viene modificata conformemente a quanto risulta dalle modifiche apportate.  
-Scuola di perfezionamento in storia della medicina.  
-Art. 378. - La scuola ha la durata di due anni e ad essa verranno ammessi i laureati in medicina e chirurgia.  
-Potranno essere ammessi, a giudizio del Consiglio della scuola, anche coloro che sono in possesso di altre lauree.  
-Art. 379. - La scuola ha sede presso l'Istituto di storia della medicina dell'Universita' di Roma.  
-Art. 380. - Gli iscritti alla scuola hanno l'obbligo di frequentare durante il biennio i corsi ufficiali delle lezioni e le relative esercitazioni.  
-Gli insegnamenti costitutivi della scuola sono i seguenti:  
-1) storia della medicina generale;  
-2) evoluzione delle dottrine mediche e specialita' connesse;  
-3) storia della chirurgia e della sua tecnica;  
-4) evoluzione del pensiero biologico;  
-5) evoluzione della terapia e dei metodi terapeutici;  
-6) medicina primitiva e medicina popolare;  
-7) bibliografia, biblioteconomia e storiografia;  
-8) cultura umanistica;  
-9) metodologia documentaria.  
-Art. 381. - Gli esami di profitto sono cosi' ripartiti:  
-Alla fine del 1° anno (primo gruppo):  
-1) storia della medicina generale;  
-2) medicina primitiva e medicina popolare;  
-3) bibliografia, biblioteconomia, storiografia;  
-4) cultura umanistica;  
-5) metodologia documentaria.  
-Alla fine del 2° anno (secondo gruppo):  
-1) evoluzione delle dottrine mediche e specialita' connesse;  
-2) storia della chirurgia e della sua tecnica;  
-3) evoluzione del pensiero biologico;  
-4) evoluzione della terapia e dei metodi terapeutici  
-Art. 382. - Gli iscritti che desiderano compiere ricerche nell'Istituto debbono provvedere alle relative spese.  
-Art. 383. - Al termine di due anni, chi avra' frequentato regolarmente i corsi ed avra' superato gli esami delle singole materie, dovra' presentare per conseguire il diploma una dissertazione scritta su di un argomento della specialita' e sostenere un esame pratico dinnanzi ad una Commissione, formata da almeno cinque insegnanti della scuola.  
+Gli articoli da 808 a 818, relativi all'ordinamento della scuola speciale di ortottiste che muta la denominazione in quella di ortottisti-assistenti di oftalmologia sono sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi.   
+Scuola speciale per ortottisti-assistenti di oftalmologia   
+Art. 808. - E' istituita presso la facolta' di medicina e chirurgia dell'Universita' di Roma una scuola speciale di preparazione per ortottisti-assistenti di oftalmologia che ha sede presso la clinica oculistica.   
+Art. 809. - La scuola ha lo scopo di dare una preparazione completa teorico-pratica istruendo gli allievi sui problemi della motilita' binoculare, del trattamento pre e post-operatorio dei pazienti strabici; dei problemi sui vizi di refrazione e della loro correzione e sulle tecniche diagnostiche in oftalmologia.   
+La durata del corso per conseguire il diploma di ortottista-assistente di oftalmologia e' di tre anni.   
+Ne sono titoli di ammissione il possesso di un diploma legalmente valido ai fini dell'iscrizione all'Universita' ai sensi dell'[art. 1 della legge n. 910 dell'11 dicembre 1969](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1) e la conoscenza di una lingua straniera (inglese, francese, tedesco, spagnolo).   
+Art. 810. - Gli aspiranti all'iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova di cultura generale e in una prova per la conoscenza della lingua straniera. E' richiesto un certificato di sana e robusta costituzione, con particolare riguardo alla funzione visiva.   
+Art. 811. - Il numero massimo degli allievi e' di quattro per anno di corso e complessivamente di dodici iscritti per l'intero corso di studi.   
+Qualora le domande di iscrizione fossero in numero superiore al massimo previsto, il consiglio della scuola si riserva di provvedere ad una scelta tra gli idonei in base ai risultati delle prove di ammissione; gli idonei possono essere ammessi anche in soprannumero in rapporto ai posti che si rendessero vacanti nel corso del secondo e terzo anno.   
+I ripetenti e i fuori corso, qualora riprendano gli studi, sono riammessi in soprannumero.   
+Art. 812. - Il direttore della scuola e' il titolare della cattedra di clinica oculistica o altro docente di disciplina affine, proposto dal titolare della cattedra di clinica oculistica, sentito il consiglio della scuola.   
+Art. 813. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria.   
+La frequenza e' obbligatoria.   
+Art. 814. - Il corso comprende lezioni teoriche ed esercitazioni pratiche. Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+1) elementi di anatomia dell'apparato visivo e del S.N.C.;   
+2) fisiologia dell'occhio, della motilita' oculare, della visione binoculare;   
+3) ottica fisica e fisiopatologica;   
+4) ortottica I;   
+5) psicologia infantile.   
+2° Anno:   
+1) elementi di patologia oculare;   
+2) elementi di farmacologia oculare;   
+3) elementi di neurooftalmologia;   
+4) nozioni di chirurgia ed assistenza oftalmica;   
+5) ortottica II.   
+3° Anno:   
+1) tecniche semeiologiche dell'apparato visivo (esame refrazione, contattologia, adattometria, campo visivo, senso cromatico);   
+2) tecniche semeiologiche ed elettrofisiologiche (tonometria e tonografia, ERG, EOG, EMG, ecografia, retinografia e fluorangiografia);   
+3) ortottica III;   
+4) nozioni di riabilitazione sensomotoria nell'eta' infantile;   
+5) legislazione sanitaria.   
+Art. 815. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo, per gli allievi, della frequenza obbligatoria ai fini dell'apprendimento per l'intero periodo di corse di studi nella clinica oculistica.   
+La frequenza viene comprovata dall'attestazione rilasciata sul libretto e l'iscrizione dagli insegnanti e per l'attivita' pratica dal direttore della scuola. L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.   
+Art. 816. - Alla fine di ogni anno gli allievi devono sostenere un esame sulle materie di insegnamento Nel caso in cui i candidati non abbiano superato gli esami prescritti, essi rimarranno nella posizione di ripetenti.   
+Art. 817. - Gli esami di profitto consistono in prove pratiche e teoriche.   
+Art. 818. - Alla fine del corso gli allievi devono sostenere un esame di diploma che consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento, assegnata dal direttore della scuola e in una prova pratica stabilita da una commissione esaminatrice.   
+I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola ma se al secondo anno non sia loro riconosciuta la idoneita' saranno senz'altro esclusi da ulteriori prove.   
+Art. 819. - Gli esami di profitto e di diploma si danno in due sessioni, la prima estiva che ha inizio subito dopo la chiusura annuale dei corsi e la seconda autunnale, nel mese che precede l'inizio del nuovo anno accademico.   
+Art. 820. - Le commissioni per gli esami di ammissione, di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della clinica.   
+Le commissioni per gli esami di ammissione e di profitto sono composte da tre membri: direttore della scuola, presidente, e da due insegnanti della scuola stessa.   
+La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro membri scelti tra gli insegnanti della scuola stessa o altri docenti.   
+Art. 821. - Gli iscritti alla scuola sono tenuti al versamento annuo delle tasse, soprattasse o contributi nella misura prevista dalla legge vigente per gli studenti della facolta' di medicina e chirurgia.   
+Art. 822. - Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni o contributi di enti pubblici o privati.   
+Art. 823. - Le diplomate della scuola per ortottiste, ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), potranno essere ammesse al terzo anno della scuola speciale per ortottisti e assistenti di oftalmologia, con l'obbligo di sostenere e superare tutti gli esami del terzo anno e relativa tesi, secondo le modalita' previste, sempre che abbiano esercitato con continuita' una attivita' professionale adeguata o documentata.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 dicembre 1948
+### Dato a Roma, addi' 27 settembre 1980
 
-EINAUDI GONELLA
+p. Il Presidente della Repubblica Il Presidente del Senato FANFANI SARTI
 
-Visto, il Guardasigilli: GRASSI
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 18 febbraio 1949
+Registrato alla Corte dei conti, addi' 28 ottobre 1980
 
-Atti del Governo, registro n. 26, foglio n. 85. - CARLOMAGNO
+Registro n. 99 Istruzione, foglio n. 4

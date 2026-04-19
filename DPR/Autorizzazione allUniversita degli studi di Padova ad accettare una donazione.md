@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 dicembre 1968 n. 1324
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1948 n. 1537
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 dicembre 1968 n. 1324
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1948 n. 1537
+=================================================================
 
 Autorizzazione all'Universita' degli studi di Padova ad accettare una donazione.
 --------------------------------------------------------------------------------
@@ -12,8 +12,7 @@ Art. 1
 
 N.
 
-1324. Decreto del Presidente della Repubblica 6 dicembre 1968, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Padova viene autorizzata ad accettare la donazione disposta dalla signora Mazza n.d. Renata ved. Bolasco Piccinelli, costituita dalla nuda proprieta' di una villa veneta, con adiacente parco di circa dieci ettari di terreno, sita in Castelfranco Veneto, borgo Treviso, del valore di L. 88.500.000, come da contratto di donazione 10 marzo 1967, rep. n. 39936, a rogito dottor Giuseppe Benacchio, notaio in Padova.  
+1537. Decreto del Presidente della Repubblica 14 settembre 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Padova viene autorizzata ad accettare la donazione della somma di L. 57.473, disposta in suo favore, con atto pubblico in data 17 dicembre 1947, dal professore Augusto Giovanardi, da enti pubblici, colleghi, estimatori, amici e discepoli, per l'istituzione di un premio di studio biennale al nome del "prof. Oddo Casagrandi" e da conferirsi ad un laureato che intenda compiere studi di igiene.  
   
-Visto, il Guardasigilli: GAVA  
-Registrato alla Corte dei conti, addi' 2 gennaio 1969  
-Atti del Governo, registro n. 224, foglio n. 122. - GRECO
+Visto, il Guardasigilli: GRASSI  
+Registrato alla Corte dei conti, addi' 27 dicembre 1948

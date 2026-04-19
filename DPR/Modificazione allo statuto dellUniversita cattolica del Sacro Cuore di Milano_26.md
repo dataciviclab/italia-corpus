@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 524
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 526
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 524
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 526
 =============================================================
 
 Modificazione allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
@@ -33,31 +33,23 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con 1 decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Art. 23 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono inseriti i seguenti insegnamenti: fisiopatologia dell'emostasi;  
-fisiologia clinica;  
-biochimica cellulare;  
-parassitologia medica;  
-immunopatologia;  
-anestesia sperimentale;  
-radiologia sperimentale;  
-radioprotezione;  
-malattie cardiovascolari;  
-fisiopatologia respiratoria;  
-ematologia pediatrica;  
-igiene ambientale e del territorio;  
-radiobiologia nucleare.  
+  
+Art. 23 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono inseriti i seguenti insegnamenti:   
+medicina preventiva dei lavoratori;   
+embriologia;   
+citologia.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 giugno 1983
+### Dato a Roma, addi' 16 giugno 1983
 
 PERTINI FALCUCCI
 
@@ -65,4 +57,4 @@ Visto, il Guardasigilli: MARTINAZZOLI
 
 Registrato alla Corte dei conti, addi' 23 settembre 1983
 
-Registro n. 62 Istruzione, loglio n. 322
+Registro n. 62 Istruzione, foglio n. 318

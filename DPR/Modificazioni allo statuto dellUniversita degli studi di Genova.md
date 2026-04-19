@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1986 n. 607
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 novembre 1948 n. 1505
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1986 n. 607
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 novembre 1948 n. 1505
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
@@ -10,166 +10,199 @@ Modificazioni allo statuto dell'Universita' degli studi di Genova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e successive modificazioni;
+Visto lo statuto della Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), modificato con i [regi decreti 13 ottobre 1927, n. 2486](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2486); [25 ottobre 1928, n. 3510](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-10-25;3510); [31 ottobre 1929, n. 2396](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2396); [30 ottobre 1930, n. 1859](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1859); [1 ottobre 1931, n. 1371](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-01;1371); [27 ottobre 1932, n. 2086](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-10-27;2086); [6 dicembre 1934, n. 2281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-12-06;2281); [1 ottobre 1936, n. 2474](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;2474); [20 aprile 1939, n. 1086](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1086); [16 marzo 1942, n. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;324); [5 settembre 1942, n. 1236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-09-05;1236); [24 ottobre 1942, n. 1671](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-10-24;1671);
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Visto il testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Visto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Viste le proposte di modificazioni allo statuto formulate dalle autorita' accademiche dell'Universita' predetta;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico del 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova;
-
-Considerato che e' tuttora in atto la sperimentazione organizzativa e didattica di cui agli [articoli 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art81)-[93 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art93);
-
-Considerato che le tabelle dell'ordinamento didattico universitario relative ai corsi di laurea sono in fase di riordinamento per effetto di apposite commissioni di studio, e che anzi alcune tabelle sono state gia' riordinate;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Rilevata la necessita' di accogliere la richiesta dell'Universita' di Genova di istituire il corso di laurea in scienze dell'informazione, allo scopo di riequilibrare le iscrizioni presso gli omonimi corsi di laurea degli atenei viciniori, al fine di assicurare una migliore formazione degli studenti;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i regi decreti sopraindicati e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Dopo l'art. 140 vengono inseriti i seguenti nuovi articoli:
 
+Scuola di perfezionamento in ortopedia e traumatologia.
+
+Art. 141. - La Scuola di perfezionamento in ortopedia e traumatologia ha sede presso la clinica ortopedica e conferisce il diploma di specialista in ortopedia e traumatologia.
+
+Art. 142. - Il corso ha la durata di tre anni. L'insegnamento ha carattere essenzialmente pratico e dimostrativo.
+
+Art. 143. - Al corso possono iscriversi solamente i laureati in medicina e chirurgia.
+
+Art. 144. - Le materie tutte obbligatorie ai fini della frequenza e degli esami sono:
+
+1) anatomia e fisiologia dell'apparato motore;
+
+2) patologia e clinica ortopedica;
+
+3) patologia e clinica traumatologica;
+
+4) pediatria ortopedica;
+
+5) neuropatologia ortopedica;
+
+6) radiodiagnostica;
+
+7) corso teorico-pratico di operazioni ortopediche e traumatologiche;
+
+8) corso teorico-pratico di apparecchi gessati, ortopedici e protesi;
+
+9) terapia fisica.
+
+Art. 145. - L'insegnamento e' cosi' suddiviso:
+
+al 1° anno:
+
+1) anatomia e fisiologia dell'apparato motore;
+
+2) patologia ortopedica e traumatologica;
+
+3) radiodiagnostica e terapia fisica;
+
+4) neuropatologia ortopedica;
+
+5) pediatria ortopedica;
+
+al 2° anno:
+
+1) clinica, ortopedica;
+
+2) clinica traumatologica;
+
+3) corso di operazioni ortopediche e traumatologiche;
+
+4) corso di apparecchi gessati, ortopedici e protesi;
+
+al 3° anno:
+
+1) clinica ortopedica;
+
+2) clinica traumatologica;
+
+3) corso di operazioni ortopediche e traumatologiche;
+
+4) corso di apparecchi gessati, ortopedici e protesi.
+
+Art. 146. - Gli allievi hanno l'obbligo di frequentare assiduamente per tutto il triennio la clinica ortopedica, i corsi integrativi, l'ambulatorio, i reparti clinici e la sala operatoria, prestando regolare servizio come in terni di clinica.
+
+All'aiuto della clinica e' affidato il controllo della frequenza che verra' tenuto con apposito registro.
+
+Art. 147. - Per essere ammessi al terzo corso gli allievi devono sostenere un esame di profitto davanti ad una Commissione composta dagli insegnanti del corso, in numero di cinque.
+
+Art. 148. - Alla fine del corso gli allievi, che hanno regolarmente frequentato, sono ammessi a dare l'esame di specializzazione, che consiste in una dissertazione scritta originale ed in una prova clinica e pratica.
+
+Art. 149. - L'esame e' dato davanti ad una Commissione, nominata dal preside e composta da cinque membri e cioe': dal (direttore della scuola, da un professore ordinario di ortopedia di altra universita', da due professori di materia affine e da un libero docente in clinica ortopedica.
+
+Art. 150. - Agli allievi che hanno ottenuto l'approvazione viene rilasciato il diploma di specialista in ortopedia e traumatologia.
+
+Art. 151. - L'allievo che non abbia ottenuto l'approvazione dovra' ripetere l'anno. L'allievo che per due volte non abbia ottenuto l'approvazione non potra' ulteriormente rimanere iscritto alla Scuola.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 2 novembre 1948
+
+EINAUDI
+
+GONELLA
+
+Visto, il Guardasigilli: GRASSI
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 23 dicembre 1948 Atti del Governo, registro n. 25, foglio n. 133. - DUSSONI
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Nell'art. 75, all'elenco delle lauree che conferisce la facolta' di scienze matematiche, fisiche e naturali, e' aggiunta la seguente laurea: "scienze dell'informazione".  
-Dopo l'art. 82, con il conseguente scorrimento della numerazione degli articoli successivi, sono inseriti la intitolazione del corso di laurea in scienze dell'informazione e l'articolo relativo all'ordinamento degli studi del corso di laurea medesimo, come di seguito riportato:  
-"laurea in scienze dell'informazione".  
-Art. 83. - La durata del corso di studi per la laurea in scienze dell'informazione e' di quattro anni. Titoli di ammissione sono quelli previsti dall'[art. 1 della legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1).  
-Ogni anno, prima dell'apertura delle iscrizioni, il senato accademico e il consiglio di amministrazione, sulla base delle indicazioni motivate fornite dalla facolta', fissano il numero massimo di studenti ammessi all'iscrizione al primo anno di corso.  
-Il corso degli studi si distingue in tre indirizzi: indirizzo generale, indirizzo applicativo (gestione), indirizzo tecnico (sistemi per l'elaborazione).  
-Il primo biennio di studi e' comune ai tre indirizzi.  
-La scelta dell'indirizzo viene fatta dallo studente  
-all'atto della sua iscrizione al terzo anno di corso.  
-a) Sono insegnamenti fondamentali obbligatori per il primo biennio per flutti gli indirizzi:  
-1° Anno.  
-1) analisi matematica I;  
-2) algebra (semestrale);  
-3) fisica I;  
-4) geometria (semestrale);  
-5) teoria ed applicazione delle macchine calcolatrici.  
-2° Anno.  
-1) analisi matematica II;  
-2) calcolo delle probabilita' e statistica (semestrale);  
-3) calcolo numerico (semestrale);  
-4) fisica II;  
-5) ricerca operativa e gestione aziendale;  
-6) sistemi per l'elaborazione dell'informazione I.  
-b) Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi per il secondo biennio:  
-1) metodi per il trattamento dell'informazione;  
-2) sistemi per l'elaborazione dell'informazione II;  
-3) teoria dell'informazione e della trasmissione.  
-Sono insegnamenti fondamentali obbligatori:  
-a) Per l'indirizzo generale:  
-1) linguaggi formali e compilatori;  
-2) metodi di approssimazione.  
-b) Per l'indirizzo tecnico:  
-1) tecniche numeriche e analogiche;  
-2) teoria dei sistemi.  
-c) Per l'indirizzo applicativo:  
-1) teoria e metodi dell'ottimizzazione;  
-2) economia e organizzazione aziendale (semestrale);  
-3) trattamento dell'informazione nell'impresa (semestrale).  
-Sono insegnamenti complementari comuni ai tre indirizzi:  
-1) analisi numerica;  
-2) automi e linguaggi formali;  
-3) bioelettronica;  
-4) calcolo delle probabilita';  
-5) cibernetica e teoria dell'informazione;  
-6) complementi di gestione aziendale;  
-7) comunicazioni elettriche;  
-8) controlli automatici;  
-9) controllo dei processi industriali;  
-10) documentazione automatica;  
-11) econometrica;  
-12) elaborazione dell'informazione non numerica;  
-13) elaborazione di immagini;  
-14) elaborazione dei testi letterali;  
-15) elettronica;  
-16) elettronica applicata;  
-17) fisica delle basse temperature;  
-18) fisica delle particelle elementari;  
-19) fisica dei semiconduttori;  
-20) fisica numerica;  
-21) fisica superiore;  
-22) ingegneria del software;  
-23) istituzioni di fisica teorica;  
-24) istituzioni di algebra;  
-25) istituzioni di analisi superiore;  
-26) istituzioni di fisica matematica;  
-27) linguaggi di programmazione;  
-28) linguaggi speciali di programmazione;  
-29) linguaggi e programmazione;  
-30) logica della programmazione;  
-31) logica matematica;  
-32) macchine calcolatrici analogiche;  
-33) matematica applicata;  
-34) metodologie di programmazione;  
-35) metodi di osservazione e misura;  
-36) metodi di analisi numerica;  
-37) modelli per i sistemi socioeconomici;  
-38) progetto con l'ausilio del calcolatore;  
-39) progetto di sistemi numerici;  
-40) ricerca operativa;  
-41) riconoscimento automatico delle forme;  
-42) simulazione;  
-43) sistemi operativi;  
-44) statistica;  
-45) strutture informative;  
-46) tecnica di organizzazione delle informazioni;  
-47) tecniche avanzate di programmazione;  
-48) tecniche di progettazione automatica;  
-49) tecniche direzionali;  
-50) tecniche speciali di elaborazione;  
-51) tecnologia degli elaboratori in tempo reale I (hardware);  
-52) tecnologia degli elaboratori in tempo reale II (software);  
-53) teoria degli algoritmi e calcolabilita';  
-54) teoria degli autonomi;  
-55) teoria dei giochi;  
-56) teoria dei grafi;  
-57) teoria delle decisioni;  
-58) teoria dei linguaggi;  
-59) teoria dei modelli;  
-60) teoria dei sistemi;  
-61) teoria e metodi dell'ottimizzazione;  
-62) teoria e sistemi di programmazione.  
-La facolta' si riserva di indicare quali corsi complementari sono da considerarsi semestrali.  
-Gli insegnamenti fondamentali e complementari sono accompagnati da un corso di esercitazioni che ne e' parte integrante.  
-Ciascuno degli insegnamenti, sia fondamentali che complementari, comporta un esame finale.  
-Ciascun insegnamento fondamentale di un indirizzo, puo' essere scelto come insegnamento complementare per un altro indirizzo in cui non sia fondamentale.  
-La scelta delle materie complementari da parte dello studente e' sottoposta alla preventiva approvazione della facolta'.  
-Per ottenere l'iscrizione al secondo biennio lo studente deve aver seguito i corsi e superato gli esami di almeno cinque materie annuali del primo biennio (due corsi semestrali sono valutati come un corso annuale).  
-Gli esami di analisi matematica I e fisica I sono propedeutici rispettivamente agli esami di analisi matematica II e fisica II e tutti gli esami del primo biennio sono propedeutici agli esami del secondo biennio.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali e almeno di quattro fra i complementari se a corso semestrale, di almeno tre se uno di questi e' annuale e di almeno due se ambedue sono annuali.  
-L'esame di laurea consiste nella discussione di una tesi scritta.  
+Visto lo statuto della Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), modificato con i [regi decreti 13 ottobre 1927, n. 2486](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2486); [25 ottobre 1928, n. 3510](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-10-25;3510); [31 ottobre 1929, n. 2396](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2396); [30 ottobre 1930, n. 1859](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1859); [1 ottobre 1931, n. 1371](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-01;1371); [27 ottobre 1932, n. 2086](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-10-27;2086); [6 dicembre 1934, n. 2281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-12-06;2281); [1 ottobre 1936, n. 2474](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;2474); [20 aprile 1939, n. 1086](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1086); [16 marzo 1942, n. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;324); [5 settembre 1942, n. 1236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-09-05;1236); [24 ottobre 1942, n. 1671](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-10-24;1671);  
+Visto il testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Visto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Viste le proposte di modificazioni allo statuto formulate dalle autorita' accademiche dell'Universita' predetta;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i regi decreti sopraindicati e' ulteriormente modificato come appresso:  
+Dopo l'art. 140 vengono inseriti i seguenti nuovi articoli:  
+  
+Scuola di perfezionamento in ortopedia e traumatologia.  
+  
+Art. 141. - La Scuola di perfezionamento in ortopedia e traumatologia ha sede presso la clinica ortopedica e conferisce il diploma di specialista in ortopedia e traumatologia.  
+  
+Art. 142. - Il corso ha la durata di tre anni. L'insegnamento ha carattere essenzialmente pratico e dimostrativo.  
+  
+Art. 143. - Al corso possono iscriversi solamente i laureati in medicina e chirurgia.  
+  
+Art. 144. - Le materie tutte obbligatorie ai fini della frequenza e degli esami sono:  
+  
+1) anatomia e fisiologia dell'apparato motore;  
+2) patologia e clinica ortopedica;  
+3) patologia e clinica traumatologica;  
+4) pediatria ortopedica;  
+5) neuropatologia ortopedica;  
+6) radiodiagnostica;  
+7) corso teorico-pratico di operazioni ortopediche e traumatologiche;  
+8) corso teorico-pratico di apparecchi gessati, ortopedici e protesi;  
+9) terapia fisica.  
+  
+Art. 145. - L'insegnamento e' cosi' suddiviso:  
+  
+al 1° anno:  
+  
+1) anatomia e fisiologia dell'apparato motore;  
+2) patologia ortopedica e traumatologica;  
+3) radiodiagnostica e terapia fisica;  
+4) neuropatologia ortopedica;  
+5) pediatria ortopedica;  
+  
+al 2° anno:  
+  
+1) clinica, ortopedica;  
+2) clinica traumatologica;  
+3) corso di operazioni ortopediche e traumatologiche;  
+4) corso di apparecchi gessati, ortopedici e protesi;  
+  
+al 3° anno:  
+  
+1) clinica ortopedica;  
+2) clinica traumatologica;  
+3) corso di operazioni ortopediche e traumatologiche;  
+4) corso di apparecchi gessati, ortopedici e protesi.  
+  
+Art. 146. - Gli allievi hanno l'obbligo di frequentare assiduamente per tutto il triennio la clinica ortopedica, i corsi integrativi, l'ambulatorio, i reparti clinici e la sala operatoria, prestando regolare servizio come in terni di clinica.  
+All'aiuto della clinica e' affidato il controllo della frequenza che verra' tenuto con apposito registro.  
+  
+Art. 147. - Per essere ammessi al terzo corso gli allievi devono sostenere un esame di profitto davanti ad una Commissione composta dagli insegnanti del corso, in numero di cinque.  
+  
+Art. 148. - Alla fine del corso gli allievi, che hanno regolarmente frequentato, sono ammessi a dare l'esame di specializzazione, che consiste in una dissertazione scritta originale ed in una prova clinica e pratica.  
+  
+Art. 149. - L'esame e' dato davanti ad una Commissione, nominata dal preside e composta da cinque membri e cioe': dal (direttore della scuola, da un professore ordinario di ortopedia di altra universita', da due professori di materia affine e da un libero docente in clinica ortopedica.  
+  
+Art. 150. - Agli allievi che hanno ottenuto l'approvazione viene rilasciato il diploma di specialista in ortopedia e traumatologia.  
+  
+Art. 151. - L'allievo che non abbia ottenuto l'approvazione dovra' ripetere l'anno. L'allievo che per due volte non abbia ottenuto l'approvazione non potra' ulteriormente rimanere iscritto alla Scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 agosto 1986
+### Dato a Roma, addi' 2 novembre 1948
 
-COSSIGA
+EINAUDI GONELLA
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: GRASSI
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 23 dicembre 1948
 
-Registrato alla Corte dei conti, addi' 25 settembre 1986
-
-Registro n. 72 Istruzione, foglio n. 136
+Atti del Governo, registro n. 25, foglio n. 133. - DUSSONI

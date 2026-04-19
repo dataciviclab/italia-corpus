@@ -1,22 +1,63 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1974 n. 877
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 settembre 1959 n. 817
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1974 n. 877
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 settembre 1959 n. 817
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831), modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successivi;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 10. - Alle propedeuticita' gia' esistenti per il corso di laurea in giurisprudenza, agli effetti della iscrizione e dell'esame, sono aggiunte le seguenti:
+
+istituzioni di diritto privato, propedeutico al diritto industriale; storia del diritto romano, propedeutico al diritto romano; diritto amministrativo, propedeutico al diritto finanziario.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 6 settembre 1959
+
+GRONCHI
+
+MEDICI
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 9 ottobre 1959 Atti del Governo, registro n. 121, foglio n. 32. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831), e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831), modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successivi;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -25,40 +66,19 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 55 - all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto quello di "Paleografia e diplomatica".  
-Art. 56 - all'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:  
-  
-Storia della filosofia medioevale;  
-Filosofia delle religioni.  
-Art. 66 - all'elenco degli istituti annessi alla facolta' di magistero e' aggiunto l'istituto policattedra di storia antica.  
-L'art. 77, relativo alla scuola diretta a fini speciali per terapisti della riabilitazione, e' modificato nel senso che il terzo comma e' soppresso e sostituito dal seguente:  
-  
-Il numero massimo dei posti disponibili per ogni anno di corso e' stabilito nella misura di 50. L'iscrizione alla scuola e' subordinata al superamento di un esame di ammissione che sara' sostenuto con una commissione formata da tre docenti della scuola designati dal direttore.  
-L'art. 80, e' modificato nel senso che dopo la lettera G) e' aggiunta la lettera H) relativa alla terapia occupazionale di indirizzo ortopedagogico:  
-H) Terapia occupazionale di indirizzo ortopedagogico:  
-1) Neuropsichiatria e psicopatologia;  
-2) Psicologia differenziale e dell'eta' evolutiva;  
-3) Sociologia dell'educazione e organizzazione dei servizi sociali;  
-4) Ortopedagogia dell'espressione verbale e psicomotoria;  
-5) Ortopedagogia dei disturbi del comportamento e socioterapia;  
-6) Ortopedagogia dei disturbi dell'apprendimento e attivita' integrative;  
-7) Tecniche occupazionali per lo sviluppo promozionale dell'autonomia e della indipendenza dei fabbisogni della vita quotidiana;  
-8) Ludoterapia ed ergoterapia.  
-Art. 85 - all'elenco degli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali sono aggiunti i seguenti istituti policattedra:  
-  
-Istituto di matematica;  
-Osservatorio geofisico.  
+Art. 10. - Alle propedeuticita' gia' esistenti per il corso di laurea in giurisprudenza, agli effetti della iscrizione e dell'esame, sono aggiunte le seguenti:  
+istituzioni di diritto privato, propedeutico al diritto industriale; storia del diritto romano, propedeutico al diritto romano; diritto amministrativo, propedeutico al diritto finanziario.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1974
+### Dato a Roma, addi' 6 settembre 1959
 
-LEONE MALFATTI
+GRONCHI MEDICI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 8 marzo 1975
+Registrato alla Corte dei conti, addi' 9 ottobre 1959
 
-Atti di Governo, registro n. 8, foglio n. 170
+Atti del Governo, registro n. 121, foglio n. 32. - VILLA

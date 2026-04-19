@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 486
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1984 n. 109
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 486
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1984 n. 109
+============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-486. Decreto del Presidente della Repubblica 27 giugno 1983, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in buoni del Tesoro per un valore di L. 3.500.000, disposto dalla sig.ra Barberis Elvira ved. Torre a favore dell'istituto "Pro juventute don Carlo Gnocchi - Centro poliomielitici", viale Settimio Severo, 65, Torino, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione medesima in data 28 novembre 1980, con testamento olografo 1 maggio 1975, pubblicato l'8 ottobre 1980, n. 2607 di repertorio e n. 1806 di fascicolo, a rogito dott.ssa Fernanda Perosino, notaio in Torino, registrato a Torino il 28 ottobre 1980 al n. 47198.  
+109. Decreto del Presidente della Repubblica 20 marzo 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di lire 10 milioni, disposto dalla sig.ra Giuseppa Dosio a favore dei mutilatini di don Gnocchi, che si identificano con la fondazione medesima, con testamento olografo 19 ottobre 1979, pubblicato in data 27 marzo 1980, n. 33135/10048 di repertorio, a rogito dott.ssa Adriana Lazzerini Quaranta, notaio in Torino, registrato a Chieri (Torino) in data 9 aprile 1980 al n. 509.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 8 settembre 1983  
-Registro n. 7 Presidenza, foglio n. 300
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 27 aprile 1984  
+Registro n. 4 Presidenza, foglio n. 69

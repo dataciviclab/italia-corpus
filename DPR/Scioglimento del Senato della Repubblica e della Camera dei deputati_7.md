@@ -1,32 +1,30 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1963 n. 62
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 febbraio 2008 n. 19
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1963 n. 62
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 febbraio 2008 n. 19
 ==============================================================
 
 Scioglimento del Senato della Repubblica e della Camera dei deputati.
 ---------------------------------------------------------------------
 
-Entrata in vigore del provvedimento: 18/2/1963.
+Entrata in vigore del provvedimento: 6/2/2008
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
-  
-Visto l'[art. 88 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art88);   
-Sentiti i Presidenti del Senato della Repubblica e della Camera dei deputati;   
-  
-Decreta:   
-  
-Il Senato della Repubblica e la Camera dei deputati sono sciolti.   
-  
+ IL PRESIDENTE DELLA REPUBBLICA  
+Visto l'[articolo 88 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art88);  
+Sentiti i Presidenti del Senato della Repubblica e della Camera dei deputati;  
+Decreta:  
+Il Senato della Repubblica e la Camera dei deputati sono sciolti.  
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservano e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara'
+----------------------------------------------------------
 
-### Dato a Roma, addi' 18 febbraio 1963
+### inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-SEGNI FANFANI
+Dato a Roma, addi' 6 febbraio 2008 NAPOLITANO
 
-Visto, il Guardasigilli: BOSCO
+Prodi, Presidente del Consiglio dei Ministri
+
+Visto, il Guardasigilli (ad interim): Prodi

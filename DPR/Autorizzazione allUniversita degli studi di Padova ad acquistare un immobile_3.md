@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 novembre 1955 n. 1267
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 gennaio 1968 n. 70
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 novembre 1955 n. 1267
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 gennaio 1968 n. 70
+=============================================================
 
 Autorizzazione all'Universita' degli studi di Padova ad acquistare un immobile.
 -------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1267. Decreto del Presidente della Repubblica 9 novembre 1955, col quale, sulla, proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Padova viene autorizzata ad acquistare, al prezzo convenuto di L. 34.000.000 (trentaquattromilioni), un immobile da adibire a nuova sede della Casa per la studentessa universitaria.  
+70. Decreto del Presidente della Repubblica 12 gennaio 1968, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Padova viene autorizzata ad acquistare dalla societa' "Anselmi e Casale" un compendio immobiliare di mq. 17.000 sito in Padova, fra via Venezia, il canale Piovego e via Lungargine del Piovego, al prezzo di L. 460.000.000.  
   
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 13 dicembre 1955  
-Atti del Governo, registro n. 94, foglio n. 123. CARLOMAGNO
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 12 febbraio 1968  
+Atti del Governo, registro n. 217, foglio n. 66. - GRECO

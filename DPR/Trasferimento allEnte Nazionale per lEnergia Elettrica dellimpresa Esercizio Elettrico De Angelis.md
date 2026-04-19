@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1963 n. 1925
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1963 n. 1647
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1963 n. 1925
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1963 n. 1647
 ===============================================================
 
 Trasferimento all'Ente Nazionale per l'Energia Elettrica dell'impresa "Esercizio Elettrico De Angelis".
@@ -20,7 +20,7 @@ Visto l'[art. 76 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:n
 
 Visto l'[art. 87, quinto comma, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
 
-Ritenuto che l'impresa "Esercizio Elettrico le Angelis", con sede in Luco dei Marsi (L'Aquila), rientra tra le imprese previste dall'[art. 1 del decreto del Presidente della Repubblica 4 febbraio 1963 n. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1963-02-04;36~art1);
+Ritenuto che l'impresa "Esercizio Elettrico De Angelis", con sede in Trasacco (L'Aquila), rientra tra le imprese previste dall'[art. 1 del decreto del Presidente della Repubblica 4 febbraio 1963, n. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1963-02-04;36~art1);
 
 Sentito il Consiglio dei Ministri;
 
@@ -33,20 +33,20 @@ Art. 1
 ------
 
   
-L'impresa "Esercizio Elettrico De Angelis", con sede in Luco dei Marsi (L'Aquila), e' trasferita allo Ente Nazionale per l'Energia Elettrica con gli effetti previsti dall'[art. 2 del decreto del Presidente della Repubblica 4 febbraio 1963, n. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1963-02-04;36~art2).  
+L'impressa "Esercizio Elettrico De Angelis" con sede in Trasacco (L'Aquila), e' trasferita all'Ente Nazionale per l'Energia Elettrica con gli effetti previsti dall'[art. 2 del decreto del Presidente della Repubblica 4 febbraio 1963, n. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1963-02-04;36~art2).  
 La consegna dei beni all'Ente Nazionale per l'Energia Elettrica e' effettuata secondo le disposizioni del [decreto del Presidente della Repubblica 4 febbraio 1963, n. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1963-02-04;36).  
 
 Art. 2
 ------
 
   
-L'indennizzo e' determinato e corrisposto dall'Ente Nazionale per l'energia Elettrica secondo le disposizioni della [legge 6 dicembre 1962, n. 1643](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-06;1643), e del [decreto del Presidente della Repubblica 25 febbraio 1963, numero 138](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1963-02-25;138).  
+L'indennizzo e' determinato e corrisposto dall'Ente Nazionale per l'Energia Elettrica secondo le disposizioni della [legge 6 dicembre 1962, n. 1643](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-06;1643), e del [decreto del Presidente della Repubblica 25 febbraio 1963, n. 138](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1963-02-25;138).  
 
 Art. 3
 ------
 
   
-L'Ente Nazionale per l'Energia Elettrica provvede alla restituzione all'impresa "Esercizio Elettrico De Angelis", con sede in Luco dei Marsi (L'Aquila), dei beni eventualmente non ritenuti, secondo le disposizioni contenute nell'[art. 4 della legge 6 dicembre 1962, n. 1643](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-06;1643~art4), e nell'[art. 3 del decreto del Presidente della Repubblica 4 febbraio 1963, n. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1963-02-04;36~art3).  
+L'Ente Nazionale per l'Energia Elettrica provvede alla restituzione all'impresa "Esercizio Elettrico De Angelis", con sede in Trasacco (L'Aquila), dei beni eventualmente, non ritenuti, secondo le disposizioni contenute nell'[art. 4 della legge 6 dicembre 1962, numero 1643](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-06;1643~art4), e nell'[art. 3 del decreto del Presidente della Repubblica 4 febbraio 1963, n. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1963-02-04;36~art3).  
 
 Art. 4
 ------
@@ -58,12 +58,12 @@ Il presente decreto ha effetto dalla data di pubblicazione nella Gazzetta Uffici
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1963
+### Dato a Roma, addi' 7 ottobre 1963
 
 SEGNI LEONE - TOGNI
 
 Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 3 dicembre 1963
+Registrato alla Corte dei conti, addi' 22 novembre 1963
 
-Atti del Governo, registro n. 177 foglio n. 139. - VILLA
+Atti del Governo, registro n. 176, foglio n. 130. - VILLA

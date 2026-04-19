@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1980 n. 727
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 264
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1980 n. 727
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 264
+============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------------
@@ -10,11 +10,10 @@ Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad ac
 Art. 1
 ------
 
-N.
+n.
 
-727. Decreto del Presidente della Repubblica 22 luglio 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in beni mobili e deposito c/c obbligazioni per un valore al netto delle passivita' di L. 930.000, disposta dal sig.  
-Bellingeri Angelo con testamento olografo 7 gennaio 1974, pubblicato il 27 febbraio 1975, n. 21447/2321 di repertorio, a rogito dott. Ferruccio Brambilla, notaio in Milano, registrato a Busto Arsizio (Varese) il 17 marzo 1975 al n. 603, vol. 156.  
+264. Decreto del Presidente della Repubblica 10 marzo 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita' consistente nella quota di 1/4 di titoli azionari e del ricavato della vendita di beni immobili per un valore complessivo di L. 96.064.590, quota 1/4 L. 24.016.130, disposta dalla signora Raspini Carolina con testamento olografo 28 marzo 1971 e codicilli del 21 ottobre 1975, 22 marzo 1977 e 18 febbraio 1978, pubblicati in data 20 febbraio 1979, n. 13746/6348 di repertorio, a rogito dott. Renzo Chiavistelli, notaio in Scarperia (Firenze), registrato a Borgo San Lorenzo (Firenze), in data 23 febbraio 1979 al n. 379.  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti addi' 27 ottobre 1980  
-Registro n. 8 Presidenza, foglio n. 201
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 6 giugno 1986  
+Registro n. 5 Presidenza, foglio n. 82

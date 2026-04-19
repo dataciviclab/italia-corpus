@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 luglio 1975 n. 487
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1982 n. 812
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 luglio 1975 n. 487
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1982 n. 812
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836), e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,189 +18,40 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 124 sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in chirurgia vascolare.
+Articolo unico
+--------------
 
-Scuola di specializzazione in chirurgia vascolare
-
-Art. 125. - E' istituita presso l'istituto di semeiotica chirurgica dell'Universita' di Trieste la scuola di specializzazione in chirurgia vascolare.
-
-Art. 126. - La durata del corso di studi per il conseguimento del diploma in chirurgia vascolare e' di 3 anni.
-
-Art. 127. - Alla scuola sono ammessi i laureati in medicina e chirurgia. Il numero degli iscritti e' stabilito in nove per l'intero corso (tre per anno di corso).
-
-Art. 128. - Non saranno consentite abbreviazioni di corsi e iscrizioni contemporanee ad altre specializzazioni. Per l'ammissione agli esami sara' obbligatoria la frequenza alle lezioni e alle esercitazioni pratiche. Il superamento degli esami di ciascun anno sara' condizione indispensabile per l'iscrizione all'anno successivo.
-
-Alla fine del corso per l'ottenimento del diploma il candidato dovra' presentare una dissertazione scritta in sede di diploma e dovra' sostenere una prova clinica.
-
-Art. 129. - Gli insegnamenti previsti dalla scuola sono i seguenti: 1° Anno:
-
-1) Embriologia e anatomia macro e microscopica dell'apparato vascolare;
-
-2) Fisiopatologia dell'apparato vascolare e della coagulazione sanguigna;
-
-3) Anatomia patologica dell'apparato vascolare;
-
-4) Semeiologia fisica e strumentale delle malattie vascolari;
-
-5) Semeiologia radiologica delle malattie vascolari;
-
-6) Vasculopatie di interesse medico e specialistico.
-
-2° Anno:
-
-1) Patologia e clinica delle malattie del sistema arterioso;
-
-2) Patologia e clinica delle malattie del sistema venoso;
-
-3) Patologia e clinica delle malattie del sistema linfatico;
-
-4) Patologia e clinica delle malattie dei piccoli vasi.
-
-3° Anno:
-
-1) Nozioni di terapia medica delle malattie vascolari;
-
-2) Emodinamica in anestesia (complementare);
-
-3) Terapia intensiva delle vasculopatie (complementare);
-
-4) Terapia chirurgica delle malattie vascolari;
-
-5) Chirurgia vascolare applicata a malattie dei vari organi.
-
-Art. 130. - Per quanto riguarda le iscrizioni e le domande di immatricolazione i candidati sono tenuti a seguire le norme di ammissione alle scuole di specializzazione della facolta' di medicina e chirurgia della Universita' di Trieste.
-
-Le tasse, soprattasse e contributi in particolare saranno i seguenti:
-
-1° Anno Anni successivi
-
-Tassa di immatricolazione.... L. 5.000 -
-
-Costo libretto d'iscrizione.. " 1.000 -
-
-Tassa annuale d'iscrizione.. " 100.000 L. 100.000
-
-Soprattassa esami di profitto " 7.000 " 7.000
-
-Contributo opere sportive e
-
-assistenziali.............. " 1.000 " 1.000
-
-Contributo di biblioteca..... " 10.000 " 10.000
-
-Contributo clinica e labora-
-
-torio...................... " 48.000 " 48.000
-
-Prestazione di segreteria.... " 3.000 " 3.000
-
-Contributo di riscaldamento.. " 3.000 " 3.000
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 9 luglio 1975
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 9 ottobre 1975 Atti di Governo, registro n. 13, foglio n. 1
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836), e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Dopo l'art. 124 sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in chirurgia vascolare.  
-  
-Scuola di specializzazione in chirurgia vascolare  
-  
-Art. 125. - E' istituita presso l'istituto di semeiotica chirurgica dell'Universita' di Trieste la scuola di specializzazione in chirurgia vascolare.  
-Art. 126. - La durata del corso di studi per il conseguimento del diploma in chirurgia vascolare e' di 3 anni.  
-Art. 127. - Alla scuola sono ammessi i laureati in medicina e chirurgia. Il numero degli iscritti e' stabilito in nove per l'intero corso (tre per anno di corso).  
-Art. 128. - Non saranno consentite abbreviazioni di corsi e iscrizioni contemporanee ad altre specializzazioni. Per l'ammissione agli esami sara' obbligatoria la frequenza alle lezioni e alle esercitazioni pratiche. Il superamento degli esami di ciascun anno sara' condizione indispensabile per l'iscrizione all'anno successivo.  
-Alla fine del corso per l'ottenimento del diploma il candidato dovra' presentare una dissertazione scritta in sede di diploma e dovra' sostenere una prova clinica.  
-Art. 129. - Gli insegnamenti previsti dalla scuola sono i seguenti: 1° Anno:  
-1) Embriologia e anatomia macro e microscopica dell'apparato vascolare;  
-2) Fisiopatologia dell'apparato vascolare e della coagulazione sanguigna;  
-3) Anatomia patologica dell'apparato vascolare;  
-4) Semeiologia fisica e strumentale delle malattie vascolari;  
-5) Semeiologia radiologica delle malattie vascolari;  
-6) Vasculopatie di interesse medico e specialistico.  
-2° Anno:  
-1) Patologia e clinica delle malattie del sistema arterioso;  
-2) Patologia e clinica delle malattie del sistema venoso;  
-3) Patologia e clinica delle malattie del sistema linfatico;  
-4) Patologia e clinica delle malattie dei piccoli vasi.  
-3° Anno:  
-1) Nozioni di terapia medica delle malattie vascolari;  
-2) Emodinamica in anestesia (complementare);  
-3) Terapia intensiva delle vasculopatie (complementare);  
-4) Terapia chirurgica delle malattie vascolari;  
-5) Chirurgia vascolare applicata a malattie dei vari organi.  
-Art. 130. - Per quanto riguarda le iscrizioni e le domande di immatricolazione i candidati sono tenuti a seguire le norme di ammissione alle scuole di specializzazione della facolta' di medicina e chirurgia della Universita' di Trieste.  
-Le tasse, soprattasse e contributi in particolare saranno i seguenti:  
-1° Anno Anni successivi   
-Tassa di immatricolazione.... L. 5.000 -  
-  
-Costo libretto d'iscrizione.. " 1.000 -  
-  
-Tassa annuale d'iscrizione.. " 100.000 L. 100.000  
-  
-Soprattassa esami di profitto " 7.000 " 7.000  
-  
-Contributo opere sportive e  
-assistenziali.............. " 1.000 " 1.000  
-  
-Contributo di biblioteca..... " 10.000 " 10.000  
-  
-Contributo clinica e labora-  
-torio...................... " 48.000 " 48.000  
-  
-Prestazione di segreteria.... " 3.000 " 3.000  
-  
-Contributo di riscaldamento.. " 3.000 " 3.000  
+Nell'art. 58, relativo agli istituti annessi alla facolta' di lettere e filosofia, e' soppresso l'istituto di studi bizantini e neo-ellenici.  
+Nel medesimo articolo l'istituto di "archeologia e storia dell'arte greca e romana" cambia denominazione in quella di: "istituto di archeologia" a cui afferiscono le discipline di: archeologie delle province romane; archeologia e storia dell'arte greca e romana; civilta' egea; egittologia; etruscologia ed archeologia italica; inoltre l'istituto di filologia classica muta la denominazione in quella di: "istituto di filologia classica e medievale" a cui afferiscono le discipline di letteratura latina; letteratura greca; letteratura latina medievale; letteratura cristiana antica; storia della lingua latina; filologia classica; filologia bizantina; papirologia; paleografia greca e latina.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 luglio 1975
+### Dato a Roma, addi' 15 luglio 1982
 
-LEONE MALFATTI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 9 ottobre 1975
+Registrato alla Corte dei conti, addi' 26 ottobre 1982
 
-Atti di Governo, registro n. 13, foglio n. 1
+Registro n. 121 Istruzione, foglio n. 46

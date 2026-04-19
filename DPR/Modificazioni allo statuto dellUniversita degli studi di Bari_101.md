@@ -1,152 +1,179 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1976 n. 939
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 938
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1976 n. 939
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 938
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 174. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola in reumatologia.
+
+Dopo l'art. 223 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in reumatologia.
+
+Scuola di specializzazione in reumatologia
+
+Art. 224. - La scuola di specializzazione ha sede presso l'istituto di clinica medica I, direttore della scuola e' il direttore della clinica medica I; condirettore il professore ufficiale incaricato dell'insegnamento di reumatologia.
+
+Il corso degli studi per il conseguimento del diploma di specialista in reumatologia ha la durata di 3 anni accademici.
+
+Alla scuola possono iscriversi i laureati in medicina e chirurgia.
+
+Per l'ammissione e' previsto un concorso per titoli ed esami.
+
+Puo' essere concessa l'abbreviazione di corso a coloro che siano in possesso dei seguenti titoli:
+
+1) servizio di assistente ordinario e incaricato universitario ed ospedaliero in reparto di reumatologia;
+
+2) titoli scientifici e professionali in campo reumatologico;
+
+3) diplomi di specializzazioni e perfezionamento comprendenti la reumatologia.
+
+Il numero complessivo degli iscritti nel tre anni di corso non puo' essere superiore a Otto.
+
+Art. 225. - Le materie di insegnamento ed i relativi esami sono cosi' ripartiti:
+
+1° Anno:
+
+1) Anatomia, istologia e morfogenesi dell'apparato muscolo-scheletrico e articolare;
+
+2) Fisiopatologia dell'apparato muscolo-scheletrico e articolare;
+
+3) Biochimica dei tessuti connettivi;
+
+4) Microbiologia ed immunologia in relazione alle malattie reumatiche;
+
+5) Semeiotica fisica, strumentale e di laboratorio in reumatologia (I corso).
+
+2° Anno:
+
+1) Semeiotica fisica, strumentale e di laboratorio in reumatologia (II corso);
+
+2) Anatomia e istologia patologica delle malattie reumatiche;
+
+3) Farmacologia in relazione alle malattie reumatiche;
+
+4) Patologia, clinica e terapia delle malattie reumatiche (I corso);
+
+5) Terapia fisica, termale e riabilitativa, in reumatologia (I corso);
+
+6) Diagnostica radiologica.
+
+3° Anno:
+
+1) Patologia, clinica e terapia delle malattie reumatiche (II corso);
+
+2) Terapia fisica, termale e riabilitativa in reumatologia (II corso);
+
+3) Clinica e terapia ortopedica applicata alla reumatologia;
+
+4) Aspetti sociali ed epidemiologici delle malattie reumatiche.
+
+Per conseguire il diploma di specialista dovra' essere presentata e discussa una tesi scritta su un tema preventivamente approvato dal direttore della scuola.
+
+E' obbligatoria la frequenza alle lezioni, esercitazioni ed un internato annuale di almeno sei mesi.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1972
+
+LEONE
+
+SCALFARO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 17 Gennaio 1973 Atti di Governo, registro n. 255, foglio n. 36. - VALENTINI
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e' modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 236 - il terzo comma, relativo alla scuola di specializzazione in malattie infettive, e' modificato nel senso che il numero complessivo degli iscritti da ammettere alla scuola e' stabilito in diciotto (18) per i tre anni di corso.   
-Art. 246 - il settimo comma, relativo alla scuola di specializzazione in odontoiatria e protesi dentaria, e' abrogato e sostituito dal seguente:   
-"Gli esami di profitto teorici e pratici saranno sostenuti in due sessioni, nei mesi di novembre e di marzo".   
-Art. 248 - il quarto comma, relativo alla scuola di specializzazione in ortopedia e traumatologia, e' modificato nel senso che il numero complessivo degli iscritti da ammettere alla scuola e' stabilito in trenta (30) per i tre anni di corso.   
-Art. 256 - il primo comma, relativo alla scuola di specializzazione in puericultura, e' modificato nel senso che la sede della suddetta scuola e' stabilita presso l'istituto di puericultura.   
-L'art. 257, relativo alla scuola di specializzazione in radiologia, e' abrogato e sostituito dal seguente.   
-Scuola di specializzazione in radiologia   
-La scuola rilascia i seguenti diplomi di specializzazione in radiologia (che abilita all'esercizio specialistico della roentgendiagnostica, della radioterapia e della medicina nucleare) ed il diploma di specializzazione in radiologia diagnostica (che abilita all'esercizio professionale specialistico della roentdiagnostica).   
-Essa ha sede presso l'istituto di radiologia.   
-La scuola e' riservata ai laureati in medicina e chirurgia, che possono essere accolti in numero massimo di dieci per ciascun anno di corso per radiologia e radiologia diagnostica (totale quaranta).   
-L'ammissione alla scuola avverra' in seguito a concorso per esami su nozioni generali di radiologia e di cultura medica.   
-Non sono concesse, per alcun motivo, abbreviazioni di corso.   
-Gli iscritti alla scuola hanno l'obbligo dell'internato presso l'istituto di radiologia.   
-Gli insegnamenti sono i seguenti:   
-Diploma di specializzazione in radiologia (durata quattro anni):   
-a) matematica, fisica, nozioni di statistica e informatica (annuale) comprendente:   
-1) richiami di matematica e fisica generale;   
-2) costituzione della materia;   
-3) produzione, assorbimento e misura delle radiazioni;   
-4) statistica applicata alla medicina;   
-5) informatica e cibernetica applicate alla radiologia;   
-b) radiodiagnostica (triennale) comprendente;   
-1) principi generali di radiodiagnostica;   
-2) apparecchi, strumenti e tecnica radiodiagnostica;   
-3) tecnica e fisiologia applicate alla radiodiagnostica;   
-4) i mezzi di contrasto artificiale in radiodiagnostica; effetti collaterali connessi con il loro impiego e loro terapia;   
-5) semeiotica radiologica;   
-6) diagnostica differenziale radiologica;   
-7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;   
-8) dimostrazioni di casistica clinica.   
-c) radiobiologia (annuale) comprendente:   
-1) radiobiologia generale;   
-2) danni da radiazioni e radiopatie.   
-d) protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:   
-1) legislazione sanitaria applicata alla radiologia;   
-2) compiti e responsabilita' medico legali del radiologo;   
-3) radioprotezione fisica e dosimetria ad essa connessa;   
-4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;   
-5) radioprotezione chimica;   
-6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici;   
-e) radioterapia e terapia fisica (triennale) comprendente:   
-1) radiobiologia applicata;   
-2) fondamenti generali di radioterapia e terapia fisica;   
-3) istopatologia speciale dei tumori;   
-4) nozioni sugli apparecchi e strumenti per la radioterapia;   
-5) tecnica e metodica radioterapica;   
-6) dosimetria;   
-7) clinica radioterapica;   
-8) fondamenti generali di chemioterapia oncologica;   
-9) chemioterapia clinica dei tumori e sua associazione alla radioterapia;   
-10) dimostrazione di casistica clinica;   
-f) medicina nucleare (biennale) comprendente:   
-1) elementi di medicina nucleare;   
-2) istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare;   
-3) dosimetria dei radioisotopi somministrati per via interna;  
-4) diagnostica con radioisotopi somministrati per via interna;   
-5) radioterapia metabolica;   
-6) dimostrazioni di casistica clinica.   
-I singoli insegnamenti tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nel quattro anni di corso:   
-1° Anno (tronco comune):   
-matematica, fisica, nozioni di statistica ed informatica;   
-radiobiologia;   
-protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicata alla radiologia;   
-radiodiagnostica (I).   
-2° Anno:   
-radiodiagnostica (II);   
-radioterapia e terapia fisica (I).   
-3° Anno:   
-radiodiagnostica (III);   
-radioterapia e terapia fisica (II);   
-medicina nucleare (I).   
-4° Anno:   
-radioterapia e terapia fisica (III);   
-medicina nucleare (II).   
-Diploma di specializzazione in radiologia diagnostica   
-La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni. Gli insegnamenti sono i seguenti:   
-a) matematica, fisica, nozioni di statistica e di informatica (annuale) comprendente:   
-1) richiami di matematica e fisica generale;   
-2) costituzione della materia;   
-3) produzione, assorbimento e misura delle radiazioni;   
-4) statistica applicata alla medicina;   
-5) informatica e cibernetica applicate alla radiologia;   
-b) radiodiagnostica (triennale) comprendente:   
-1) principi generali di radiodiagnostica;   
-2) apparecchi, strumenti e tecnica radiodiagnostica;   
-3) tecnica e fisiologia applicate alla radiodiagnostica;   
-4) i mezzi di contrasto artificiale in radiodiagnostica; effetti collaterali connessi con il loro impiego e loro terapia;   
-5) semeiotica radiologica;   
-6) diagnostica differenziale radiologica;   
-7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;   
-8) dimostrazioni di casistica clinica.   
-c) radiobiologia (annuale) comprendente:   
-1) radiobiologia generale;   
-2) danni da radiazioni e radiopatie;   
-d) protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:   
-1) legislazione sanitaria applicata alla radiologia;   
-2) compiti e responsabilita' medicolegali del radiologo;   
-3) radioprotezione fisica e dosimetria ad essa connessa;   
-4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;   
-5) radioprotezione chimica;   
-6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.   
-I singoli insegnamenti tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:   
-1° Anno (tronco comune):   
-matematica, fisica, nozioni di statistica ed informatica;   
-radiobiologia;   
-protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;   
-radiodiagnostica (I).   
-2° Anno:   
-radiodiagnostica (II).   
-3° Anno:   
-radiodiagnostica (III).   
-Per essere ammessi agli esami di diploma di radiologia e in radiologia diagnostica gli iscritti, oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia di insegnamento ed elaborata una tesi scritta su di un argomento radiologico concordato con il direttore della scuola.   
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 174. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola in reumatologia.  
+Dopo l'art. 223 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in reumatologia.  
+  
+Scuola di specializzazione in reumatologia  
+  
+Art. 224. - La scuola di specializzazione ha sede presso l'istituto di clinica medica I, direttore della scuola e' il direttore della clinica medica I; condirettore il professore ufficiale incaricato dell'insegnamento di reumatologia.  
+Il corso degli studi per il conseguimento del diploma di specialista in reumatologia ha la durata di 3 anni accademici.  
+Alla scuola possono iscriversi i laureati in medicina e chirurgia.  
+Per l'ammissione e' previsto un concorso per titoli ed esami.  
+Puo' essere concessa l'abbreviazione di corso a coloro che siano in possesso dei seguenti titoli:  
+1) servizio di assistente ordinario e incaricato universitario ed ospedaliero in reparto di reumatologia;  
+2) titoli scientifici e professionali in campo reumatologico;  
+3) diplomi di specializzazioni e perfezionamento comprendenti la reumatologia.  
+Il numero complessivo degli iscritti nel tre anni di corso non puo' essere superiore a Otto.  
+Art. 225. - Le materie di insegnamento ed i relativi esami sono cosi' ripartiti:  
+1° Anno:  
+1) Anatomia, istologia e morfogenesi dell'apparato muscolo-scheletrico e articolare;  
+2) Fisiopatologia dell'apparato muscolo-scheletrico e articolare;  
+3) Biochimica dei tessuti connettivi;  
+4) Microbiologia ed immunologia in relazione alle malattie reumatiche;  
+5) Semeiotica fisica, strumentale e di laboratorio in reumatologia (I corso).  
+2° Anno:  
+1) Semeiotica fisica, strumentale e di laboratorio in reumatologia (II corso);  
+2) Anatomia e istologia patologica delle malattie reumatiche;  
+3) Farmacologia in relazione alle malattie reumatiche;  
+4) Patologia, clinica e terapia delle malattie reumatiche (I corso);  
+5) Terapia fisica, termale e riabilitativa, in reumatologia (I corso);  
+6) Diagnostica radiologica.  
+3° Anno:  
+1) Patologia, clinica e terapia delle malattie reumatiche (II corso);  
+2) Terapia fisica, termale e riabilitativa in reumatologia (II corso);  
+3) Clinica e terapia ortopedica applicata alla reumatologia;  
+4) Aspetti sociali ed epidemiologici delle malattie reumatiche.  
+Per conseguire il diploma di specialista dovra' essere presentata e discussa una tesi scritta su un tema preventivamente approvato dal direttore della scuola.  
+E' obbligatoria la frequenza alle lezioni, esercitazioni ed un internato annuale di almeno sei mesi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 ottobre 1976
+### Dato a Roma, addi' 31 ottobre 1972
 
-LEONE MALFATTI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 30 dicembre 1976
+Registrato alla Corte dei conti, addi' 17 Gennaio 1973
 
-Registro n. 105 Istruzione, foglio n. 308
+Atti di Governo, registro n. 255, foglio n. 36. - VALENTINI

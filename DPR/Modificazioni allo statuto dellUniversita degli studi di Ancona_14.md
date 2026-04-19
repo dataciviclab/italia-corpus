@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 881
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1980 n. 339
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 881
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1980 n. 339
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ancona.
 ------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Ancona.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Ancona, approvato con [decreto del Presidente della Repubblica 4 ottobre 1971, n. 1330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-10-04;1330) e modificato con [decreto del Presidente della Repubblica 7 agosto 1973, n. 900](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-08-07;900), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Ancona, approvato con [decreto del Presidente della Repubblica 4 ottobre 1971, n. 1330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-10-04;1330) e modificato con decreto del Presidente della P pubblici 7 agosto 1973, 909 e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -26,53 +26,79 @@ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte,
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministero della pubblica istruzione;
+Veduto il [parere della sezione prima del Consiglio di Stato, n. 1902/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
 
-Decreta:
---------
+Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli Atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
 
-Lo statuto dell'Universita' di Ancona, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Sulla
+-----
 
-Art. 1
-------
+proposta del Ministro della pubblica istruzione; Decreta:
 
-  
-  
-L'art. 22 dello statuto dell'Universita' di Ancona di cui al [decreto del Presidente della Repubblica 20 febbraio 1980, n. 339](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-02-20;339), relativo alla scuola di specializzazione in oncologia, e' modificato nel modo seguente:   
-  
-Il numero massimo degli allievi e' di quindici per anno di corso, e complessivamente di quarantacinque iscritti per l'intero corso di studi.   
-
-Art. 2
-------
+Articolo unico
+--------------
 
   
-L'art. 33 dello statuto dell'Universita' di Ancona di cui al [decreto del Presidente della Repubblica 27 ottobre 1978, n. 944](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-10-27;944), relativo alla scuola di specializzazione di igiene e medicina preventiva, e' modificato nel modo seguente:  
-Art. 33. - Il numero massimo degli allievi e' di venticinque per anno di corso e complessivamente di cento per l'intero corso di studi.  
+  
+Lo statuto dell'Universita' di Ancona, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+  
+Dopo l'art. 17, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in oncologia.   
+  
+Scuola di specializzazione in oncologia   
+  
+Art. 18. - La scuola di specializzazione in oncologia ha sede presso l'istituto di anatomia patologica e conferisce il diploma di specialista in oncologia.   
+Art. 19. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 20. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.   
+Art. 21. - La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazione.   
+Art. 22. -
 
-Art. 3
-------
+((Il numero massimo degli allievi e' di quindici per anno di corso, e complessivamente di quarantacinque iscritti per l'intero corso di studi.))
 
   
-L'art. 43 dello statuto dell'Universita' di Ancona di cui al [decreto del Presidente della Repubblica 8 luglio 1980, n. 657](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-08;657), relativo alla scuola di specializzazione in ginecologia e ostetricia, e' modificato nel modo seguente:  
-Art. 43. - Il numero massimo degli allievi e' complessivamente di ventisei iscritti per l'intero corso di studi.  
-
-Art. 4
-------
-
-  
-L'art. 52 dello statuto dell'Universita' di Ancona di cui al [decreto del Presidente della Repubblica 27 ottobre 1978, n. 944](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-10-27;944), relativo alla scuola di specializzazione in medicina del lavoro, e' modificato nel modo seguente:  
-Art. 52. - Il numero massimo degli allievi e' di ventiquattro per l'intero corso di studi.  
+Art. 23. - L'ammissione al corso avviene per titoli ed esami.   
+Art. 24. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+patologia generale dei tumori (I);   
+oncologia sperimentale (I);   
+anatomia ed istologia patologica dei tumori (I);   
+epidemiologia dei tumori;   
+cancerogenesi ambientale e professionale e prevenzione primaria;   
+immunologia dei tumori.   
+2° Anno:   
+patologia generale dei tumori (II);   
+oncologia sperimentale (II);   
+anatomia e istologia patologica dei tumori (II);   
+citodiagnostica dei tumori;   
+prevenzione clinica e tecniche diagnostiche e di laboratorio; radiodiagnostica dei tumori;   
+oncologia medica (I);   
+oncologia chirurgica (I).   
+3° Anno:   
+oncologia medica (II);   
+oncologia chirurgica (II);   
+radioterapia dei tumori;   
+oncologia dell'apparato genitale femminile;   
+oncologia pediatrica;   
+principi di riabilitazione oncologica;   
+organizzazione della lotta contro i tumori.   
+Ogni scuola deve provvedere ad organizzare seminari e conferenze su specifici argomenti con l'integrazioni di quelli elencati nello statuto.   
+Art. 25. - La frequenza alle lezioni, alle esercitazioni pratiche e' obbligatoria per l'ammissione agli esami; il superamento degli esami di ciascun anno e' condizione indispensabile per l'iscrizione all'anno successivo.   
+Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.   
+Art. 26. - Al termine del triennio per ottenere il diploma i candidati devono presentare una dissertazione scritta su un argomento attinente alla specializzazione.(1)   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 ottobre 1981
+### Dato a Roma, addi' 20 febbraio 1980
 
-PERTINI BODRATO
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 20 gennaio 1982
+Registrato alla Corte dei conti, addi' 26 giugno 1980
 
-Registro n. 6 Istruzione, foglio n. 94
+Registro n. 61 Istruzione, foglio n. 294 ---------------- AGGIORNAMENTO (1)
+
+Il D.P.R. 31 ottobre 1980, n. 1076 ha disposto (con l'articolo unico) che " Il dispositivo del decreto del Presidente della
+
+Repubblica 20 febbraio 1980, n. 339, deve intendersi riferito al riordinamento della scuola di specializzazione in oncologia dell'Universita' di Ancona e non all'istituzione."

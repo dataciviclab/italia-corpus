@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1975 n. 751
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 319
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1975 n. 751
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 319
+=============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-751. Decreto del Presidente della Repubblica 30 ottobre 1975, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione di una donazione, consistente in cinque opere dello scultore Ettore Colla, disposta a favore dello Stato dalla sig.ra Maria Carboni vedova Colla con atto in data 12 dicembre 1974, n. 2396/5822 di repertorio, a rogito dott. Franco Maria Gargiullo, notaio in Roma, da destinare alla galleria nazionale d'arte moderna di Roma.  
+319. Decreto del Presidente della Repubblica 17 maggio 1983, col quale, sulla proposta del Ministro della difesa, il Ministero della difesa viene autorizzato ad accettare la donazione, consistente in quattro complessi radiotrasmittenti da 10 kW mod. S.T. 10.000, in un'antenna a nassa da 5 a 10 Mhz, in un'antenna a nassa con relativo cavo coassiale, in un commutatore inversore di antenna e in due antenne rombiche direzionali, consegnati dall'ex societa' "Radiostampa", in Roma, con verbale 31 maggio 1982 e destinati al centro telecomunicazioni della stazione radio della Marina militare di S. Rosa.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 18 dicembre 1975  
-Atti di Governo, registro n. 15, foglio n. 51
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 5 luglio 1983  
+Registro n. 21 Difesa, foglio n. 383

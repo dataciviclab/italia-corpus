@@ -1,83 +1,61 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1966 n. 811
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 marzo 1983 n. 225
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1966 n. 811
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 marzo 1983 n. 225
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata [legge n. 615/1981](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;615);
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della, pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 200. - All'elenco delle scuole di perfezionamento annesse alla Facolta' di lettere e filosofia e' aggiunta la seguente:  
-  
-Scuola di perfezionamento in Musicologia.  
-  
-Art. 218, relativo ai titoli di ammissione alla scuola di perfezionamento in Geografia e' abrogato e sostituito dal seguente:  
-"Alla scuola di perfezionamento in Geografia possono iscriversi i laureati in Lettere, in Materie letterarie (magistero) in Scienze naturali, in Scienze geologiche, in Scienze politiche ed in Economia e commercio".  
-Art. 219. - Il primo comma distinto dalla lettera a) relativo agli insegnamenti impartiti nella scuola di perfezionamento in Geografia e' abrogato e sostituito dal seguente:  
-"a) frequentare il corso biennale di Geografia e sostenere il relativo esame; seguire in ciascun anno e superare gli esami di due corsi, non frequentati per la rispettiva laurea e scelti fra i seguenti: Geografia fisica;  
-Geografia economica; Geografia politica; Geografia regionale;  
-Topografia dell'Italia antica; Storia delle esplorazioni; Storia economica; Statistica applicata alla geografia".  
-Dopo l'art. 224, e con il conseguente spostamento della successiva numerazione, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della  
-  
-Scuola di perfezionamento in Musicologia  
-  
-Art. 225. - Alla Scuola di perfezionamento in Musicologia, potranno accedere i laureati della Facolta' di giurisprudenza, di Lettere e filosofia e di Magistero;  
-Il Consiglio della scuola si riserva inoltre di ammettere anche laureati di altre Facolta', purche' in possesso della maturita' classica o scientifica.  
-Per essere ammesso alla Scuola, il candidato dovra' sostenere un esame di accertamento che saggi le sue conoscenze teoriche e pratiche musicali.  
-Art. 226. - Il corso ha durata biennale. Questi sono gli insegnamenti previsti:  
-Insegnamenti fondamentali:  
-  
-Paleografia musicale:  
-1) antichita' e medioevo (1° anno);  
-2) rinascimento ed eta' moderna (2° anno).  
-Storia della musica:  
-1) antichita' e medioevo (1° anno);  
-2) rinascimento ed eta' moderna (2° anno).  
-Storia delle teorie musicali:  
-1) antichita' e medioevo (1° anno);  
-2) rinascimento ed eta' moderna (2° anno).  
-Organologia e storia degli strumenti.  
-Acustica. Armonia e contrappunto.  
-  
-Insegnamenti complementari (in rapporto alle discipline musicali):  
-  
-Filologia greca e bizantina;  
-Filologia latina medioevale e romanza;  
-Liturgia;  
-Estetica;  
-Storia della filosofia;  
-Storia della poesia per musica.  
-  
-Art. 227. - Per essere ammesso all'esame di diploma, il candidato dovra' aver sostenuto tutti gli esami negli insegnamenti fondamentali e due a scelta tra i complementari. Nell'esame di diploma sara' discussa una dissertazione scritta di carattere musicologico, preparata e presentata dal candidato, e tale da essere considerata degna di pubblicazione.  
-Art. 249. - All'elenco dei corsi semestrali con esercitazioni della scuola di specializzazione in Chimica analitica (annessa alla Facolta' di scienze matematiche, fisiche e naturali) e' aggiunto quello di: "Tecniche varie".  
+Nell'art. 51, relativo all'elenco degli insegnamenti complementari dell'indirizzo storico-politico del corso di laurea in scienze politiche, sono aggiunti i seguenti nuovi insegnamenti:  
+storia del Cristianesimo;  
+storia del pensiero politico contemporaneo.  
+Nell'art. 52, relativo all'elenco degli insegnamenti complementari dell'indirizzo politico-sociale del medesimo corso di laurea, sono aggiunti i seguenti nuovi insegnamenti:  
+teoria dell'informazione;  
+sociologia dei gruppi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 settembre 1966
+### Dato a Roma, addi' 8 marzo 1983
 
-SARAGAT GUI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 10 ottobre 1966
+Registrato alla Corte dei conti, addi' 19 maggio 1983
 
-Atti del Governo, registro n. 206, foglio n. 53. - VILLA
+Registro n. 36 Istruzione, foglio n. 61

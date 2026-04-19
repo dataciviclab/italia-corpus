@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1977 n. 581
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 771
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1977 n. 581
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 771
+================================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------------
@@ -12,8 +12,15 @@ Art. 1
 
 N.
 
-581. Decreto del Presidente della Repubblica 12 luglio 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita disposta dalla sig.ra Gabriella Ponzone ved. Forni con testamento olografo 31 maggio 1972, pubblicato a rogito del notaio dott. Luigi Gambaro di Genova il 30 novembre 1973, n. 17629 di repertorio e n. 2258 di raccolta, registrato a Genova il 6 dicembre 1973 al n. 19951, consistente nella proprieta' di un fabbricato sito in Genova, via Felice Romani n. 9 e via Gropallo n. 16, iscritto al nuovo catasto edilizio urbano alla partita 38149, foglio 18, mappali numeri 176 e 177, ed al catasto terreni al foglio n. 48, mappale 187 per mq 55 e mappale 188 per mq 1830, totale superficie coperta e scoperta mq 1885, per un valore complessivo di L. 205.750.000; in titoli per un valore di lire 17.675.650 e in un c/c di L. 961.000; il tutto, detratte spese d'inventario, registrazioni ed onorari, per un importo complessivo di L. 213.794.432.  
+771. Decreto del Presidente della Repubblica 5 settembre 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.ra Pierina Motta con testamento olografo 14 novembre 1974, pubblicato in data 16 aprile 1975, n. 22096/2372 di repertorio, a rogito dott. Ferruccio Brambilla, notaio in Milano, registrato a Busto Arsizio (Varese) in data 2 maggio 1975, n. 880, vol. 156, a favore dell'istituto dei mutilatini "Santa Maria ai Colli", in Torino, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, consistente in: Beni immobili:
+
+a) appartamento sito in Torino, via G.  
+Matteotti n. 13;
+
+b) appartamento sito nel comune di S. Remo (Imperia), via Martiri della Liberta', 142;
+
+c) appartamento sito nel comune di Castelnuovo Nigra (Torino), via della Cappella. A detti beni e' stato attribuito un valore di L. 34.500.000; Beni mobili: a) mobili d'arredamento e suppellettili vari, siti nell'appartamento di Torino; b) saldo c/c; c) mobili d'arredamento e suppellettili vari, ecc., siti nell'appartamento di Castelnuovo Nigra per valore complessivo di L. 2.413.371.   
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 17 agosto 1977  
-Registro n. 17 Presidenza, foglio n. 88
+Visto, il Guardasigilli: MORLINO   
+Registrato alla Corte dei conti, addi' 12 novembre 1980   
+Registro n. 8 Presidenza, foglio n. 342

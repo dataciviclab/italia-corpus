@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 marzo 1965 n. 420
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 792
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 marzo 1965 n. 420
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 792
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,178 +18,132 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Cagliari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla
+-----
 
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 29. - Agli insegnamenti complementari del corso di laurea in Lettere vengono aggiunti i seguenti:
-
-Archeologia fenicio-punica;
-
-Storia contemporanea;
-
-Storia della letteratura italiana, moderna, e contemporanea;
-
-Storia della Chiesa.
-
-Art. 30. - Agli insegnamenti complementari del corso di laurea in Filosofia e' aggiunto quello di Storia della filosofia moderna, e contemporanea.
-
-Art. 55. Agli insegnamenti complementari del corso di laurea in Scienze naturali e' aggiunto quello di Paleontologia umana.
-
-Art. 58. Agli insegnamenti complementari del corso di laurea in Scienze biologiche e' aggiunto quello di Paleontologia umana.
-
-Art. 59. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche sono soppressi quelli di: "Astronomia, Geodesia, Botanica, Etnologia e Geografia economica e vengono aggiunti quelli di:
-
-Analisi mineralogiche;
-
-Cristallografia strutturale;
-
-Geofisica mineraria;
-
-Geologia dei combustibili fossili;
-
-Geologia nucleare;
-
-Geopedologia;
-
-Idrogeologia.
-
-L'insegnamento complementare di statistica e' soppresso e sostituito con quello di Statistica metodologica.
-
-Gli ultimi due commi concernenti la precedenza negli esami del corso di laurea in Scienze geologiche sono abrogati e sostituiti dai seguenti:
-
-"Negli esami debbono essere rispettate le seguenti precedenze: "Istituzioni di matematiche", prima di "Fisica sperimentale"; di "Fisica terrestre" e di "Statistica metodologica"; "Chimica generale ed inorganica" prima di "Mineralogia"; "Mineralogia" prima di "Petrografia"; "Mineralogia", "Petrografia" e "Paleontologia", prima di "Geologia" e di "Giacimenti minerari"; "Geologia" prima di "Geologia applicata"".
-
-Art. 144, relativo al 1°, 2° e 3° anno della Scuola di specializzazione in Cardiologia e' abrogato e sostituito dal seguente:
-
-Le materie d'insegnamento e la loro ripartizione nei singoli anni sono le seguenti:
-
-1° Anno
-
-1) Anatomia dell'apparato cardiovascolare (annuale);
-
-2) Fisiologia dell'apparato cardiovascolare (annuale);
-
-3) Semeiotica fisica dell'apparato cardiovascolare (annuale);
-
-4) Semeiotica strumentale dell'apparato cardiovascolare (biennale);
-
-5) Patologia dell'apparato cardiovascolare (biennale);
-
-6) Anatomia patologica dell'apparato cardiovascolare (annuale). 2° Anno:
-
-1) Semiotica strumentale dell'apparato cardiovascolare (biennale);
-
-2) Semeiotica emodinamica dell'apparato cardiovascolare (annuale)
-
-3) Farmacologia dell'apparato cardiovascolare (annuale);
-
-4) Patologia dell'apparato cardiovascolare (biennale);
-
-5) Radiologia dell'apparato cardiovascolare (biennale);
-
-6) Clinica e terapia medica dell'apparato cardiovascolare (biennale).
-
-3° Anno:
-
-1) Clinica e terapia medica dell'apparato cardiovascolare (biennale);
-
-2) Terapia chirurgica dell'apparato cardiovascolare (annuale).
-
-Gli esami dovranno essere sostenuti al termine di ogni insegnamento.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 22 marzo 1965
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 6 maggio 1965 Atti del Governo, registro n. 193, foglio n. 16. - VILLA
+proposta del Ministro della pubblica istruzione; Decreta:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
   
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 29. - Agli insegnamenti complementari del corso di laurea in Lettere vengono aggiunti i seguenti:  
-Archeologia fenicio-punica;  
-Storia contemporanea;  
-Storia della letteratura italiana, moderna, e contemporanea;  
-Storia della Chiesa.  
-Art. 30. - Agli insegnamenti complementari del corso di laurea in Filosofia e' aggiunto quello di Storia della filosofia moderna, e contemporanea.  
-Art. 55. Agli insegnamenti complementari del corso di laurea in Scienze naturali e' aggiunto quello di Paleontologia umana.  
-Art. 58. Agli insegnamenti complementari del corso di laurea in Scienze biologiche e' aggiunto quello di Paleontologia umana.  
-Art. 59. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche sono soppressi quelli di: "Astronomia, Geodesia, Botanica, Etnologia e Geografia economica e vengono aggiunti quelli di:  
-Analisi mineralogiche;  
-Cristallografia strutturale;  
-Geofisica mineraria;  
-Geologia dei combustibili fossili;  
-Geologia nucleare;  
-Geopedologia;  
-Idrogeologia.  
-L'insegnamento complementare di statistica e' soppresso e sostituito con quello di Statistica metodologica.  
-Gli ultimi due commi concernenti la precedenza negli esami del corso di laurea in Scienze geologiche sono abrogati e sostituiti dai seguenti:  
-"Negli esami debbono essere rispettate le seguenti precedenze: "Istituzioni di matematiche", prima di "Fisica sperimentale"; di "Fisica terrestre" e di "Statistica metodologica"; "Chimica generale ed inorganica" prima di "Mineralogia"; "Mineralogia" prima di "Petrografia"; "Mineralogia", "Petrografia" e "Paleontologia", prima di "Geologia" e di "Giacimenti minerari"; "Geologia" prima di "Geologia applicata"".  
-Art. 144, relativo al 1°, 2° e 3° anno della Scuola di specializzazione in Cardiologia e' abrogato e sostituito dal seguente:  
-Le materie d'insegnamento e la loro ripartizione nei singoli anni sono le seguenti:  
-1° Anno  
-1) Anatomia dell'apparato cardiovascolare (annuale);  
-2) Fisiologia dell'apparato cardiovascolare (annuale);  
-3) Semeiotica fisica dell'apparato cardiovascolare (annuale);  
-4) Semeiotica strumentale dell'apparato cardiovascolare (biennale);  
-5) Patologia dell'apparato cardiovascolare (biennale);  
-6) Anatomia patologica dell'apparato cardiovascolare (annuale). 2° Anno:  
-1) Semiotica strumentale dell'apparato cardiovascolare (biennale);  
-2) Semeiotica emodinamica dell'apparato cardiovascolare (annuale)  
-3) Farmacologia dell'apparato cardiovascolare (annuale);  
-4) Patologia dell'apparato cardiovascolare (biennale);  
-5) Radiologia dell'apparato cardiovascolare (biennale);  
-6) Clinica e terapia medica dell'apparato cardiovascolare (biennale).  
+Gli articoli 136, 137, 138, relativi alla scuola di specializzazione in clinica dermosifilopatica, che muta la denominazione in quella di scuola di specializzazione in dermatologia e venereologia, sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in dermatologia e venereologia  
+  
+Art. 136. - La scuola di specializzazione in dermatologia e venereologia ha sede presso la clinica dermatologica dell'Universita' di Cagliari e conferisce il diploma di specialista in dermatologia e venereologia. La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione allo esercizio professionale rilasciato dall'autorita' competente. La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazioni. Il numero massimo degli allievi e' di quattro per anno di corso e complessivamente di dodici iscritti per l'intero corso di studi. L'ammissione al corso avviene per titoli ed esami.  
+Art. 137. - Le materie d'insegnamento sono le seguenti:  
+1° Anno:  
+1) anatomia ed istologia normale della cute;  
+2) fisiologia della cute e degli annessi;  
+3) anatomia e fisiologia dell'apparato genitale;  
+4) microbiologia e parassitologia applicate;  
+5) tecniche di laboratorio applicate alla disciplina;  
+6) semeiotica dermatologica e venereologica.  
+2° Anno:  
+1) patologia delle malattie cutanee;  
+2) patologia delle infezioni veneree;  
+3) istopatologia e citologia dermatologica e venereologica;  
+4) immunopatologia cutanea;  
+5) dermatologia allergologica e professionale;  
+6) angiologia;  
+7) sessuologia.  
 3° Anno:  
-1) Clinica e terapia medica dell'apparato cardiovascolare (biennale);  
-2) Terapia chirurgica dell'apparato cardiovascolare (annuale).  
-Gli esami dovranno essere sostenuti al termine di ogni insegnamento.  
+1) clinica delle malattie cutanee;  
+2) clinica delle infezioni veneree;  
+3) dermatologia pediatrica;  
+4) farmacologia e terapia;  
+5) fisioterapia dermatologica;  
+6) cosmetologia;  
+7) chirurgia plastica riparatrice;  
+8) igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.  
+Art. 138. - Il corso delle lezioni deve essere impartito mediante almeno cinquanta lezioni annuali, comprensive delle varie materie e la frequenza giornaliera degli iscritti non deve essere inferiore alle quattro ore effettive per tutta la durata dell'anno accademico.  
+Gli specializzandi hanno percio' obblighi di frequenza alle esercitazioni pratiche nelle corsie ed ambulatori onde seguire i corsi di lezioni e svolgere contemporaneamente attivita' pratica nelle corsie, negli ambulatori e nei laboratori. Gli esami di profitto vengono sostenuti in due sessioni. L'esame di diploma consiste nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato ventiquattro ore prima della prova.  
+
+Art. 2
+------
+
+  
+  
+Dopo l'art. 228, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della seconda scuola di specializzazione in pediatria:   
+  
+Seconda scuola di specializzazione in pediatria   
+  
+Art. 229. - La scuola di specializzazione in pediatria ha sede presso la seconda clinica pediatrica dell'Universita' di Cagliari e conferisce il diploma di specialista in pediatria.   
+Art. 230. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 231. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione allo esercizio professionale rilasciato dall'autorita' competente.   
+Art. 232. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
+Art. 233. - Il numero massimo degli allievi e' di quattro per anno di corso e complessivamente di sedici per l'intero corso di studi.   
+Art. 234.- L'ammissione al corso avviene per titoli ed esami.   
+Art. 235. - Le materie d'insegnamento sono le seguenti:   
+1° Anno:   
+genetica;   
+auxologia;   
+alimentazione;   
+epidemiologia;   
+malattie infettive;   
+clinica pediatrica I.   
+2° Anno:   
+radiologia;   
+legislazione del minore;   
+organizzazione sanitaria;   
+psicologia pediatrica;   
+oculistica ed ortottica;   
+otorino e foniatria;   
+odonto;   
+neonatologia I;   
+chirurgia pediatrica I;   
+pediatria preventiva e sociale I;   
+clinica pediatrica II.   
+Insegnamenti del 3° anno:   
+neurologia;   
+psichiatria infantile;   
+nefrologia e urologia;   
+ginecologia pediatrica;   
+neonatologia II;   
+chirurgia pediatrica II;   
+pediatria preventiva e sociale II;   
+cardiologia I;   
+endocrinologia I;   
+ematologia I;   
+immunologia I;   
+gastroenterologia I;   
+clinica pediatrica III.   
+Insegnamenti del 4° anno:   
+oncologia;   
+pneumologia;   
+ortopedia e traumatologia;   
+dermatologia;   
+cardiologia II;   
+endocrinologia Il;   
+ematologia II;   
+immunologia II;   
+gastroenterologia II;   
+clinica pediatrica IV.   
+Art. 236. - La frequenza alle lezioni, alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto, non possono essere ammessi a sostenere le prove di esame.   
+Art. 237. - Alla fine di ciascun anno di corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi. Al termine del corso di studi, per il conseguimento del diploma di specialista in, pediatria gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento   
+attinente alla specializzazione.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 marzo 1965
+### Dato a Roma, addi' 31 ottobre 1979
 
-SARAGAT GUI
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 6 maggio 1965
+Registrato alla Corte dei conti, addi' 22 febbraio 1980
 
-Atti del Governo, registro n. 193, foglio n. 16. - VILLA
+Registro n. 13 Istruzione, foglio n. 327

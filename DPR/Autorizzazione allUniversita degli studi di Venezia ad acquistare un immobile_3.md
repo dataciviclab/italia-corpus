@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1973 n. 113
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1973 n. 73
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1973 n. 113
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1973 n. 73
+==============================================================
 
 Autorizzazione all'Universita' degli studi di Venezia ad acquistare un immobile.
 --------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-113. Decreto del Presidente della Repubblica 2 febbraio 1973, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Venezia viene autorizzata ad acquistare un complesso immobiliare sito in Venezia sestiere Dorsoduro, denominato palazzo Foscarini della Frascada, descritto nel catasto urbano di Venezia al foglio n. 14, mappali 665/1, 2, 3, 2681/4 e 665/4 al prezzo di lire 220.000.000.  
+73. Decreto del Presidente della Repubblica 2 febbraio 1973, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Venezia viene autorizzata ad acquistare un complesso immobiliare sito in Venezia a Sestiere Dorsoduro, numeri civici 2105-A, 2105-B e 2137 distinti nel nuovo catasto edilizio urbano di Venezia con i mappali 2798 p. 2803, 2620, 70, 71, 73, 74, 77 p. dell'allegato A/ 4 al foglio n. 14 per il prezzo complessivo di L. 400.000.000.   
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 4 aprile 1973  
-Atti di Governo, registro n. 257, foglio n. 46. - VALENTINI
+Visto, il Guardasigilli: GONELLA   
+Registrato alla Corte dei conti, addi' 28 marzo 1973   
+Atti di Governo, registro n. 257, foglio n. 26. - VALENTINI

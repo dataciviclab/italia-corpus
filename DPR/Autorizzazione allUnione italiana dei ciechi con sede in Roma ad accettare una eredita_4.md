@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 settembre 1969 n. 715
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 febbraio 1972 n. 214
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 settembre 1969 n. 715
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 febbraio 1972 n. 214
+===============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, con sede in Roma, ad accettare una eredita'.
 -------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-715. Decreto del Presidente della Repubblica 16 settembre 1969, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede in Roma, viene autorizzata ad accettare, col beneficio d'inventario, la quota di eredita' comprendente due alloggi al 4° e 5° piano dell'immobile sito in via Lazzaretto Vecchio, 17, di Trieste, ai quali sono venuti ad aggiungersi un altro alloggio al 4° piano ed un locale terreno sempre nello stesso stabile, disposta dalla signora Benedetti Amelia vedova Venezian con testamento olografo del 30 ottobre 1963 depositato e pubblicato con verbale a rogito dottor Oscar Sandrinelli, notaio in Trieste, in data 20 gennaio 1964, numero di repertorio 18664, numero di racc. 2685.  
+214. Decreto del Presidente della Repubblica 21 febbraio 1972, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', in ragione di 1/3, disposta dalla signora Ada Righini vedova Balzanelli, con testamento olografo del 28 dicembre 1967, depositato e pubblicato con verbale a rogito dott. Sergio Lodigiani, notaio in Mantova, in data 27 novembre 1969, n. 21962 di repertorio e n. 7367 di raccolta.  
   
-Visto, il Guardasigilli: GAVA  
-Registrato alla Corte dei conti, addi' 21 ottobre 1969  
-Atti del Governo, registro n. 229, foglio n. 129. - GRECO
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 13 maggio 1972  
+Atti del Governo, registro n. 249, foglio n. 8. - VALENTINI

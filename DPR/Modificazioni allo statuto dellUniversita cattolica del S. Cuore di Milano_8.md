@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 settembre 1969 n. 1363
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1969 n. 1100
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 settembre 1969 n. 1363
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1969 n. 1100
+===============================================================
 
 Modificazioni allo statuto dell'Universita' cattolica del S. Cuore di Milano.
 -----------------------------------------------------------------------------
@@ -10,13 +10,13 @@ Modificazioni allo statuto dell'Universita' cattolica del S. Cuore di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' cattolica del S. Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
+Veduto lo statuto dell'Universita' cattolica del S. Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive, modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652); e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
@@ -26,209 +26,207 @@ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione:
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' cattolica del S. Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 2. - E' modificato nel senso che dopo il terzo comma e' aggiunto il seguente:
+Gli articoli da 103 a 108, relativi alla scuola superiore delle comunicazioni sociali (scuola diretta a fini speciali) sono abrogati e sostituiti dai seguenti:
 
-"Nella facolta' di scienze politiche e' costituita la scuola di scienze politiche e sociali".
+Art. 103. - Materie istituzionali:
 
-Art. 5, relativo alle lauree e diplomi conferiti nell'universita', e' modificato nel senso che il terzo comma e abrogato e sostituito dal seguente:
+Fondamenti teologici delle comunicazioni sociali (I anno);
 
-"Nella facolta' di scienze politiche: la laurea in scienze politiche, specificata nei seguenti indirizzi: A) politico-amministrativo; B) politico-economico; C) politico-internazionale; D) storico-politico; E) politico-sociale".
+Etica delle comunicazioni sociali (II anno);
 
-Art. 11, relativo all'ordinamento del corso di laurea in scienze politiche e' abrogato e sostituito dal seguente:
+Deontologia;
 
-"Il corso degli studi, della durata di quattro anni, e' articolato in un biennio propedeutico comune per tutti gli indirizzi ed in cinque bienni specialistici in relazione agli indirizzi di cui all'art. 5.
+Drammaturgia teorica;
 
-Gli insegnamenti del biennio propedeutico sono:
+Psicologia sociale;
 
-1) Scienza della politica;
+Sociologia della comunicazione e della cultura (I anno);
 
-2) Istituzioni di diritto pubblico;
+Disciplina giuridica della stampa e dei mezzi audiovisivi;
 
-3) Sociologia;
+Dottrina e tecnica del giornalismo (corso generale);
 
-4) Statistica;
+Dottrina e tecnica della pubblicita' (corso generale);
 
-5) Storia delle istituzioni politiche;
+Dottrina e tecnica della radio (corso generale);
 
-6) Storia moderna (con esercitazioni di metodologia della ricerca storica);
+Dottrina e tecnica della televisione (corso generale);
 
-7) Storia delle dottrine politiche;
+Storia del teatro e dello spettacolo (I anno);
 
-8) Diritto costituzionale italiano e comparato;
+Dottrina e tecnica del cinema (corso generale).
 
-9) Economia politica.
+Diploma in giornalismo
 
-Per essere ammesso a frequentare il biennio specialistico lo studente deve aver superato gli esami relativi agli insegnamenti predetti e ad una lingua straniera moderna da lui scelta fra quelle appartenenti al gruppo anglo-germanico o al gruppo slavo ed effettivamente insegnate nell'ateneo. E' altresi' in potere del consiglio di facolta' stabilire che lo studente possa essere ammesso a frequentare determinati bienni specialistici soltanto dopo aver seguito con profitto un seminario di "Principi di logica e di matematica", e un seminario di "Metodologia del lavoro scientifico".
+Art. 104. I - Materie costitutive:
 
-Gli insegnamenti obbligatori del biennio specialistico per l'indirizzo politico-amministrativo sono i seguenti:
+Dottrina e tecnica del giornalismo (corso superiore);
 
-1) Istituzioni di diritto privato;
+Storia del giornalismo;
 
-2) Diritto internazionale;
+Storia della politica interna ed estera nell'eta' contemporanea;
 
-3) Storia e sistemi delle relazioni fra Stato e Chiesa nell'eta' moderna;
+Organizzazione redazionale e direzionale;
 
-4) Diritto amministrativo (I anno);
+Storia e teoria del linguaggio giornalistico.
 
-5) Diritto amministrativo (II anno);
+II - Materie ausiliarie:
 
-6) Storia dell'amministrazione pubblica.
+Stampa quotidiana;
 
-L'iscrizione e gli esami relativi ai primi tre fra gli insegnamenti predetti possono essere anticipati dallo studente, al secondo anno del biennio propedeutico. Per essere ammesso all'esame di laurea lo studente e' tenuto a superare gli esami relativi ai sei insegnamenti predetti, ad almeno quattro discipline scelte nell'elenco che la facolta' appositamente predispone per l'indirizzo all'inizio di ogni anno accademico, e ad una seconda lingua straniera moderna scelta fra quelle effettivamente insegnate nell'ateneo.
+Stampa periodica di attualita';
 
-Gli insegnamenti obbligatori del biennio specialistico per l'indirizzo politico-economico sono i seguenti:
+Stampa per ragazzi;
 
-1) Istituzioni di diritto privato;
+Stampa settoriale;
 
-2) Diritto internazionale;
+Ufficio stampa e pubbliche relazioni;
 
-3) Statistica (corso superiore);
+Semeiologia dell'immagine;
 
-4) Economia politica (corso superiore);
+Drammaturgia critica.
 
-5) Scienza delle finanze;
+Gli allievi che aspirano a conseguire il diploma in giornalismo debbono inoltre scegliere come insegnamenti due fra le materie sopra indicate.
 
-6) Storia economica.
+Gli allievi dovranno sostenere esercitazioni pratiche nell'ambito dei singoli corsi.
 
-L'iscrizione e gli esami relativi ai primi tre fra gli insegnamenti predetti possono essere anticipati dallo studente al secondo anno del biennio propedeutico. Per essere ammesso all'esame di laurea lo studente e' tenuto a superare gli esami relativi ai sei insegnamenti predetti, ad almeno quattro discipline scelte nell'elenco che la facolta' appositamente predispone per l'indirizzo all'inizio di ogni anno accademico, e ad una seconda lingua straniera moderna scelta fra quelle effettivamente insegnate nell'ateneo.
+Diploma in pubblicita'
 
-Gli insegnamenti obbligatori del biennio specialistico per l'indirizzo politico-internazionale son i seguenti:
+Art. 105. - I - Materie costitutive:
 
-1) Diritto internazionale;
+Dottrina e tecnica della pubblicita' (corso superiore);
 
-2) Storia delle relazioni e delle istituzioni internazionali (I anno);
+(Organizzazione, redazione e visualizzazione, pianificazione);
 
-3) Storia e sistemi delle relazioni fra Stato e Chiesa nell'eta' moderna;
+Economia dell'impresa;
 
-4) Diritto internazionale (corso superiore);
+Ricerca di mercato;
 
-5) Storia delle relazioni e delle istituzioni internazionali (II anno);
+Psicologia della pubblicita';
 
-6) Organizzazione internazionale.
+Sociologia della pubblicita'.
 
-L'iscrizione e gli esami relativi ai primi tre fra gli insegnamenti predetti possono essere anticipati dallo studente al secondo anno del biennio propedeutico.
+II - Materie ausiliarie.
 
-Per essere ammesso all'esame di laurea lo studente e' tenuto a superare gli esami relativi ai sei insegnamenti predetti, ad almeno quattro discipline scelte nell'elenco che la facolta' appositamente predispone per l'indirizzo all'inizio di ogni anno accademico, e ad una seconda lingua straniera moderna scelta fra quelle effettivamente insegnate nell'ateneo.
+Pubblicita' a stampa;
 
-Gli insegnamenti obbligatori del biennio specialistico per l'indirizzo storico-politico sono i seguenti:
+Pubblicita' grafica;
 
-1) Storia moderna (corso superiore);
+Pubblicita' cinematografica;
 
-2) Storia e sistemi delle relazioni fra Stato e Chiesa nell'eta' moderna;
+Pubblicita' radiofonica e televisiva;
 
-3) Storia economica;
+Pubblicita' diretta, esterna, al punto di vendita;
 
-4) Storia contemporanea (I anno);
+Sociologia della comunicazione (II anno);
 
-5) Storia dell'amministrazione pubblica;
+Storia del costume;
 
-6) Storia delle relazioni e delle istituzioni internazionali (I anno).
+Semeiologia dell'immagine.
 
-L'iscrizione e gli esami relativi ai primi tre fra gli insegnamenti predetti possono essere anticipati dallo studente al secondo anno del biennio propedeutico.
+Gli allievi dovranno seguire cinque fra le otto materie indicate.
 
-Per essere ammesso all'esame di laurea lo studente e' tenuto a superare gli esami relativi ai sei insegnamenti predetti, ad almeno quattro discipline scelte nell'elenco che la facolta' appositamente predispone per l'indirizzo all'inizio di ogni anno accademico, e ad una lingua straniera moderna scelta fra quelle effettivamente insegnate nell'ateneo.
+Gli allievi dovranno sostenere esercitazioni pratiche nell'ambito dei singoli corsi.
 
-Gli insegnamenti obbligatori del biennio specialistico per l'indirizzo politico-sociale sono i seguenti:
+Diploma in critica e tecnica del cinema
 
-1) Metodologia delle scienze sociali;
+Art. 106. - I - Materie costitutive:
 
-2) Sociologia (corso superiore);
+Dottrina e tecnica del film (corso superiore);
 
-3) Psicologia;
+Storia delle teoriche del cinema;
 
-4) Storia del pensiero sociologico;
+Storia del cinema;
 
-5) Teoria e tecnica dell'informazione;
+Drammaturgia critica;
 
-6) Politica del lavoro e legislazione sociale.
+Storia e teoria dell'interpretazione scenica.
 
-L'iscrizione e gli esami relativi ai primi tre fra gli insegnamenti predetti possono essere anticipati dallo studente al secondo anno del biennio propedeutico. Per essere ammesso all'esame di laurea lo studente e' tenuto a superare gli esami relativi ai sei insegnamenti predetti, ad almeno quattro discipline scelte nell'elenco che la facolta' appositamente predispone per l'indirizzo all'inizio di ogni anno accademico, e ad una seconda lingua straniera moderna scelta fra quelle effettivamente insegnate nell'ateneo.
+II - Materie ausiliarie:
 
-Gli articoli 56 e 57, concernenti le disposizioni relative alla laurea e alle propedeuticita' del corso di studi in scienze politiche sono abrogati e sostituiti dai seguenti:
+Produzione e distribuzione cinematografica;
 
-Art. 56. - L'esame di laurea consiste nella preparazione e nella discussione di una dissertazione scritta originale su di un argomento attinente l'indirizzo seguito dallo studente.
+Il cinema come sussidio didattico;
 
-Sul diploma di laurea vien fatta menzione dell'indirizzo seguito dallo studente.
+Musica filmica;
 
-Art. 57. - Agli effetti della successione cronologica degli esami, le "Istituzioni di diritto pubblico" sono propedeutiche rispetto al "Diritto costituzionale italiano e comparato"; la "Statistica" e' propedeutica all'"Economia politica"; le "Istituzioni di diritto privato" (la' dove sono obbligatorie) sono propedeutiche al "Diritto amministrativo" e al "Diritto internazionale";
+Il film scientifico e industriale;
 
-il "Diritto internazionale" e' propedeutico alla "Organizzazione internazionale". Gli esami degli insegnamenti definiti "superiori" possono essere sostenuti soltanto dopo quelli dei rispettivi insegnamenti istituzionali.
+Sociologia delle comunicazioni sociali (II anno);
 
-Spetta al consiglio della facolta' stabilire:
+Semeiologia dell'immagine;
 
-I) le procedure didattiche e le modalita' degli esami di profitto;
+Storia e teoria dello spazio teatrale;
 
-II) la distribuzione cronologica degli insegnamenti entro i bienni ed entro i singoli anni di corso con i relativi orari delle lezioni e delle esercitazioni;
+Storia del teatro e dello spettacolo (II anno);
 
-III) le modalita' del passaggio:
+Gli allievi che aspirano a conseguire il diploma in "Critica e tecnica del cinema" debbono inoltre scegliere come insegnamenti ausiliari due fra le materie sopra indicate.
 
-a) alla facolta' da un altro corso di laurea;
+Gli allievi dovranno sostenere nel corso dell'anno alcune esercitazioni pratiche nell'ambito dei nostri studi cine-televisivi.
 
-b) dall'uno all'altro indirizzo della facolta';
+Diploma in critica e tecnica della radio e della televisione
 
-c) dalla scuola di scienze politiche e sociali, di cui al successivo art. 91, alla facolta' e viceversa.
+Art. 107. - I - Materie costitutive:
 
-Dopo l'art. 90 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli, relativi alla istituzione, presso la facolta' di scienze politiche della scuola speciale in scienze politiche e sociali.
+Dottrina e tecnica della radio (corso superiore);
 
-TITOLO III
+Dottrina e tecnica della televisione (corso superiore);
 
-FACOLTA' DI SCIENZE POLITICHE
+Programmazione radiofonica e televisiva;
 
-Scuola di scienze politiche e sociali
+Drammaturgia critica;
 
-(Scuola diretta a fini speciali)
+Storia e teoria dell'interpretazione scenica.
 
-Art. 91. - La scuola di scienze politiche e sociali ha lo scopo di curare la preparazione del personale di concetto nelle amministrazioni pubbliche e private.
+II - Materie ausiliarie:
 
-Il corso degli studi ha la durata di due anni, al termine dei quali la scuola rilascia il diploma in scienze politiche e sociali.
+Musica radiofonica e televisiva;
 
-Possono essere ammessi a frequentare la scuola quanti posseggono la laurea rilasciata da qualsiasi facolta' o i titoli di studio che danno accesso alla laurea in scienze politiche. L'ammontare delle tasse, soprattasse e contributi per la scuola di scienze politiche e sociali, e' per ogni singolo anno eguale a quello stabilito per la facolta' di scienze politiche.
+Radio e TV come sussidi didattici;
 
-Il consiglio della scuola, d'intesa con il consiglio di amministrazione, stabilisce prima dell'inizio di ogni anno accademico il numero massimo di coloro i quali possono essere ammessi a frequentare la scuola in conformita' alla disponibilita' finanziaria e alle strutture didattiche dell'ateneo.
+Sociologia della comunicazione (II anno);
 
-Art. 92. - Il corso degli studi e' articolato in un anno propedeutico e in un anno specialistico.
+Semeiologia dell'immagine;
 
-Durante il primo anno lo studente deve seguire l'insegnamento delle seguenti discipline:
+Storia e teoria dello spazio teatrale;
 
-1) Istituzioni di diritto pubblico;
+Storia del teatro e dello spettacolo (II anno).
 
-2) Istituzioni di diritto privato;
+Gli allievi che aspirano a conseguire il diploma in "Critica e tecnica della radio e della televisione" debbono inoltre scegliere come insegnamenti ausiliari due fra le materie sopra indicate.
 
-3) Scienza della politica;
+Gli allievi dovranno sostenere nel corso dell'anno alcune esercitazioni pratiche nell'ambito dei nostri studi cine-televisivi.
 
-4) Sociologia;
+Diploma in critica e tecnica del teatro
 
-5) Economia politica;
+Art. 108. - I - Materie costitutive:
 
-6) Statistica.
+Storia del teatro e dello spettacolo (II anno);
 
-Durante il secondo anno lo studente deve seguire sei insegnamenti da lui scelti: a) fra quelli attivati dalla facolta' ai fini del corso di laurea nei suoi diversi indirizzi; b) fra gli insegnamenti impartiti dalle altre facolta' dell'ateneo; e c) in un gruppo di discipline pratico-applicative attivate per la scuola dalla facolta' e stabilite all'inizio di ogni anno accademico.
+Storia e teoria dell'interpretazione scenica;
 
-Il piano di studi di questo secondo anno di corso e' soggetto all'approvazione da parte del consiglio della scuola, il quale predispone una serie di curriculi-tipo corrispondenti alle finalita' della scuola.
+Drammaturgia critica;
 
-Art. 93. - Il diploma in scienze politiche e sociali e' conferito allo studente il quale, avendo superato gli esami relativi ai dodici insegnamenti di cui all'articolo precedente e ad una lingua moderna straniera da lui scelta fra quelle effettivamente insegnate nella facolta', sostiene con esito favorevole un colloquio finale su argomento specifico determinato un mese prima della prova.
+Storia e teoria dello spazio teatrale;
 
-Coloro i quali, avendo conseguito il diploma in scienze politiche e sociali, ed essendo in possesso dei titoli di studio necessari, intendono iscriversi al corso per il conseguimento della laurea in scienze politiche, possono chiedere al consiglio di facolta' il riconoscimento del corso di studi seguito presso la scuola e degli esami ivi sostenuti.
+II - Materie ausiliarie:
 
-Art. 94. - La scuola di scienze politiche e sociali ha un direttore ed un consiglio della scuola.
+Storia della musica teatrale;
 
-Le funzioni di direttore spettano al preside della facolta' di scienze politiche.
+Storia del costume;
 
-Il consiglio della scuola e' composto da tutti i professori di ruolo della facolta' di scienze politiche e dai professori incaricati degli insegnamenti specifici della scuola.
+Organizzazione teatrale.
 
-Art. 95. - Gli insegnamenti della scuola di scienze politiche e sociali, quando non siano mutuati da quelli impartiti nella facolta' di scienze politiche o in altre facolta' dell'ateneo, sono conferiti per incarico dal consiglio di amministrazione, su proposta del consiglio della scuola, e con il parere favorevole del senato accademico.
-
-I professori incaricati della scuola di scienze politiche e sociali hanno lo stesso trattamento dei professori incaricati dell'Universita' cattolica.
+Gli allievi che aspirano a conseguire il diploma in "Critica e tecnica del teatro" debbono scegliere come insegnamenti ausiliari due fra le materie sopra indicate.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 23 settembre 1969.
+Dato a Roma, addi' 30 ottobre 1969
 
 SARAGAT
 
@@ -239,159 +237,140 @@ Visto, il Guardasigilli: GAVA
 Registrato
 ----------
 
-alla Corte dei conti, addi' 16 novembre 1970 Atti del Governo, registro n. 238, foglio n. 59. - CARUSO
+alla Corte dei conti, addi' 23 gennaio 1970 Atti del Governo, registro n. 231, foglio n. 54. - CARUSO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' cattolica del S. Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652); e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione:   
+Veduto lo statuto dell'Universita' cattolica del S. Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive, modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' cattolica del S. Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' cattolica del S. Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 2. - E' modificato nel senso che dopo il terzo comma e' aggiunto il seguente:   
-"Nella facolta' di scienze politiche e' costituita la scuola di scienze politiche e sociali".   
+Gli articoli da 103 a 108, relativi alla scuola superiore delle comunicazioni sociali (scuola diretta a fini speciali) sono abrogati e sostituiti dai seguenti:  
+Art. 103. - Materie istituzionali:  
+Fondamenti teologici delle comunicazioni sociali (I anno);  
+Etica delle comunicazioni sociali (II anno);  
+Deontologia;  
+Drammaturgia teorica;  
+Psicologia sociale;  
+Sociologia della comunicazione e della cultura (I anno);  
+Disciplina giuridica della stampa e dei mezzi audiovisivi;  
+Dottrina e tecnica del giornalismo (corso generale);  
+Dottrina e tecnica della pubblicita' (corso generale);  
+Dottrina e tecnica della radio (corso generale);  
+Dottrina e tecnica della televisione (corso generale);  
+Storia del teatro e dello spettacolo (I anno);  
+Dottrina e tecnica del cinema (corso generale).  
   
-Art. 5, relativo alle lauree e diplomi conferiti nell'universita', e' modificato nel senso che il terzo comma e abrogato e sostituito dal seguente:   
-"Nella facolta' di scienze politiche: la laurea in scienze politiche, specificata nei seguenti indirizzi: A) politico-amministrativo; B) politico-economico; C) politico-internazionale; D) storico-politico; E) politico-sociale".   
+Diploma in giornalismo  
   
-Art. 11, relativo all'ordinamento del corso di laurea in scienze politiche e' abrogato e sostituito dal seguente:   
-"Il corso degli studi, della durata di quattro anni, e' articolato in un biennio propedeutico comune per tutti gli indirizzi ed in cinque bienni specialistici in relazione agli indirizzi di cui all'art. 5.   
-Gli insegnamenti del biennio propedeutico sono:   
-1) Scienza della politica;   
-2) Istituzioni di diritto pubblico;   
-3) Sociologia;   
-4) Statistica;   
-5) Storia delle istituzioni politiche;   
-6) Storia moderna (con esercitazioni di metodologia della ricerca storica);   
-7) Storia delle dottrine politiche;   
-8) Diritto costituzionale italiano e comparato;   
-9) Economia politica.   
+Art. 104. I - Materie costitutive:  
+Dottrina e tecnica del giornalismo (corso superiore);  
+Storia del giornalismo;  
+Storia della politica interna ed estera nell'eta' contemporanea;  
+Organizzazione redazionale e direzionale;  
+Storia e teoria del linguaggio giornalistico.  
+II - Materie ausiliarie:  
+Stampa quotidiana;  
+Stampa periodica di attualita';  
+Stampa per ragazzi;  
+Stampa settoriale;  
+Ufficio stampa e pubbliche relazioni;  
+Semeiologia dell'immagine;  
+Drammaturgia critica.  
+Gli allievi che aspirano a conseguire il diploma in giornalismo debbono inoltre scegliere come insegnamenti due fra le materie sopra indicate.  
+Gli allievi dovranno sostenere esercitazioni pratiche nell'ambito dei singoli corsi.  
   
-Per essere ammesso a frequentare il biennio specialistico lo studente deve aver superato gli esami relativi agli insegnamenti predetti e ad una lingua straniera moderna da lui scelta fra quelle appartenenti al gruppo anglo-germanico o al gruppo slavo ed effettivamente insegnate nell'ateneo. E' altresi' in potere del consiglio di facolta' stabilire che lo studente possa essere ammesso a frequentare determinati bienni specialistici soltanto dopo aver seguito con profitto un seminario di "Principi di logica e di matematica", e un seminario di "Metodologia del lavoro scientifico".   
+Diploma in pubblicita'  
   
-Gli insegnamenti obbligatori del biennio specialistico per l'indirizzo politico-amministrativo sono i seguenti:   
-1) Istituzioni di diritto privato;   
-2) Diritto internazionale;   
-3) Storia e sistemi delle relazioni fra Stato e Chiesa nell'eta' moderna;   
-4) Diritto amministrativo (I anno);   
-5) Diritto amministrativo (II anno);   
-6) Storia dell'amministrazione pubblica.   
+Art. 105. - I - Materie costitutive:  
+Dottrina e tecnica della pubblicita' (corso superiore);  
+(Organizzazione, redazione e visualizzazione, pianificazione);  
+Economia dell'impresa;  
+Ricerca di mercato;  
+Psicologia della pubblicita';  
+Sociologia della pubblicita'.  
+II - Materie ausiliarie.  
+Pubblicita' a stampa;  
+Pubblicita' grafica;  
+Pubblicita' cinematografica;  
+Pubblicita' radiofonica e televisiva;  
+Pubblicita' diretta, esterna, al punto di vendita;  
+Sociologia della comunicazione (II anno);  
+Storia del costume;  
+Semeiologia dell'immagine.  
+Gli allievi dovranno seguire cinque fra le otto materie indicate.  
+Gli allievi dovranno sostenere esercitazioni pratiche nell'ambito dei singoli corsi.  
+Diploma in critica e tecnica del cinema  
+Art. 106. - I - Materie costitutive:  
+Dottrina e tecnica del film (corso superiore);  
+Storia delle teoriche del cinema;  
+Storia del cinema;  
+Drammaturgia critica;  
+Storia e teoria dell'interpretazione scenica.  
+II - Materie ausiliarie:  
+Produzione e distribuzione cinematografica;  
+Il cinema come sussidio didattico;  
+Musica filmica;  
+Il film scientifico e industriale;  
+Sociologia delle comunicazioni sociali (II anno);  
+Semeiologia dell'immagine;  
+Storia e teoria dello spazio teatrale;  
+Storia del teatro e dello spettacolo (II anno);  
+Gli allievi che aspirano a conseguire il diploma in "Critica e tecnica del cinema" debbono inoltre scegliere come insegnamenti ausiliari due fra le materie sopra indicate.  
+Gli allievi dovranno sostenere nel corso dell'anno alcune esercitazioni pratiche nell'ambito dei nostri studi cine-televisivi.  
+Diploma in critica e tecnica della radio e della televisione  
+Art. 107. - I - Materie costitutive:  
+Dottrina e tecnica della radio (corso superiore);  
+Dottrina e tecnica della televisione (corso superiore);  
+Programmazione radiofonica e televisiva;  
+Drammaturgia critica;  
+Storia e teoria dell'interpretazione scenica.  
+II - Materie ausiliarie:  
+Musica radiofonica e televisiva;  
+Radio e TV come sussidi didattici;  
+Sociologia della comunicazione (II anno);  
+Semeiologia dell'immagine;  
+Storia e teoria dello spazio teatrale;  
+Storia del teatro e dello spettacolo (II anno).  
+Gli allievi che aspirano a conseguire il diploma in "Critica e tecnica della radio e della televisione" debbono inoltre scegliere come insegnamenti ausiliari due fra le materie sopra indicate.  
+Gli allievi dovranno sostenere nel corso dell'anno alcune esercitazioni pratiche nell'ambito dei nostri studi cine-televisivi.  
   
-L'iscrizione e gli esami relativi ai primi tre fra gli insegnamenti predetti possono essere anticipati dallo studente, al secondo anno del biennio propedeutico. Per essere ammesso all'esame di laurea lo studente e' tenuto a superare gli esami relativi ai sei insegnamenti predetti, ad almeno quattro discipline scelte nell'elenco che la facolta' appositamente predispone per l'indirizzo all'inizio di ogni anno accademico, e ad una seconda lingua straniera moderna scelta fra quelle effettivamente insegnate nell'ateneo.   
+Diploma in critica e tecnica del teatro  
   
-Gli insegnamenti obbligatori del biennio specialistico per l'indirizzo politico-economico sono i seguenti:   
-1) Istituzioni di diritto privato;   
-2) Diritto internazionale;   
-3) Statistica (corso superiore);   
-4) Economia politica (corso superiore);   
-5) Scienza delle finanze;   
-6) Storia economica.   
-  
-L'iscrizione e gli esami relativi ai primi tre fra gli insegnamenti predetti possono essere anticipati dallo studente al secondo anno del biennio propedeutico. Per essere ammesso all'esame di laurea lo studente e' tenuto a superare gli esami relativi ai sei insegnamenti predetti, ad almeno quattro discipline scelte nell'elenco che la facolta' appositamente predispone per l'indirizzo all'inizio di ogni anno accademico, e ad una seconda lingua straniera moderna scelta fra quelle effettivamente insegnate nell'ateneo.   
-  
-Gli insegnamenti obbligatori del biennio specialistico per l'indirizzo politico-internazionale son i seguenti:   
-1) Diritto internazionale;   
-2) Storia delle relazioni e delle istituzioni internazionali (I anno);   
-3) Storia e sistemi delle relazioni fra Stato e Chiesa nell'eta' moderna;   
-4) Diritto internazionale (corso superiore);   
-5) Storia delle relazioni e delle istituzioni internazionali (II anno);   
-6) Organizzazione internazionale.   
-  
-L'iscrizione e gli esami relativi ai primi tre fra gli insegnamenti predetti possono essere anticipati dallo studente al secondo anno del biennio propedeutico.   
-Per essere ammesso all'esame di laurea lo studente e' tenuto a superare gli esami relativi ai sei insegnamenti predetti, ad almeno quattro discipline scelte nell'elenco che la facolta' appositamente predispone per l'indirizzo all'inizio di ogni anno accademico, e ad una seconda lingua straniera moderna scelta fra quelle effettivamente insegnate nell'ateneo.   
-  
-Gli insegnamenti obbligatori del biennio specialistico per l'indirizzo storico-politico sono i seguenti:   
-1) Storia moderna (corso superiore);   
-2) Storia e sistemi delle relazioni fra Stato e Chiesa nell'eta' moderna;   
-3) Storia economica;   
-4) Storia contemporanea (I anno);   
-5) Storia dell'amministrazione pubblica;   
-6) Storia delle relazioni e delle istituzioni internazionali (I anno).   
-  
-L'iscrizione e gli esami relativi ai primi tre fra gli insegnamenti predetti possono essere anticipati dallo studente al secondo anno del biennio propedeutico.   
-Per essere ammesso all'esame di laurea lo studente e' tenuto a superare gli esami relativi ai sei insegnamenti predetti, ad almeno quattro discipline scelte nell'elenco che la facolta' appositamente predispone per l'indirizzo all'inizio di ogni anno accademico, e ad una lingua straniera moderna scelta fra quelle effettivamente insegnate nell'ateneo.   
-  
-Gli insegnamenti obbligatori del biennio specialistico per l'indirizzo politico-sociale sono i seguenti:   
-1) Metodologia delle scienze sociali;   
-2) Sociologia (corso superiore);   
-3) Psicologia;   
-4) Storia del pensiero sociologico;   
-5) Teoria e tecnica dell'informazione;   
-6) Politica del lavoro e legislazione sociale.   
-  
-L'iscrizione e gli esami relativi ai primi tre fra gli insegnamenti predetti possono essere anticipati dallo studente al secondo anno del biennio propedeutico. Per essere ammesso all'esame di laurea lo studente e' tenuto a superare gli esami relativi ai sei insegnamenti predetti, ad almeno quattro discipline scelte nell'elenco che la facolta' appositamente predispone per l'indirizzo all'inizio di ogni anno accademico, e ad una seconda lingua straniera moderna scelta fra quelle effettivamente insegnate nell'ateneo.   
-Gli articoli 56 e 57, concernenti le disposizioni relative alla laurea e alle propedeuticita' del corso di studi in scienze politiche sono abrogati e sostituiti dai seguenti:   
-  
-Art. 56. - L'esame di laurea consiste nella preparazione e nella discussione di una dissertazione scritta originale su di un argomento attinente l'indirizzo seguito dallo studente.   
-Sul diploma di laurea vien fatta menzione dell'indirizzo seguito dallo studente.   
-  
-Art. 57. - Agli effetti della successione cronologica degli esami, le "Istituzioni di diritto pubblico" sono propedeutiche rispetto al "Diritto costituzionale italiano e comparato"; la "Statistica" e' propedeutica all'"Economia politica"; le "Istituzioni di diritto privato" (la' dove sono obbligatorie) sono propedeutiche al "Diritto amministrativo" e al "Diritto internazionale";   
-il "Diritto internazionale" e' propedeutico alla "Organizzazione internazionale". Gli esami degli insegnamenti definiti "superiori" possono essere sostenuti soltanto dopo quelli dei rispettivi insegnamenti istituzionali.   
-Spetta al consiglio della facolta' stabilire:   
-I) le procedure didattiche e le modalita' degli esami di profitto;   
-II) la distribuzione cronologica degli insegnamenti entro i bienni ed entro i singoli anni di corso con i relativi orari delle lezioni e delle esercitazioni;   
-III) le modalita' del passaggio:   
-a) alla facolta' da un altro corso di laurea;   
-b) dall'uno all'altro indirizzo della facolta';   
-c) dalla scuola di scienze politiche e sociali, di cui al successivo art. 91, alla facolta' e viceversa.   
-  
-Dopo l'art. 90 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli, relativi alla istituzione, presso la facolta' di scienze politiche della scuola speciale in scienze politiche e sociali.   
-  
-TITOLO III   
-  
-FACOLTA' DI SCIENZE POLITICHE   
-  
-Scuola di scienze politiche e sociali   
-(Scuola diretta a fini speciali)   
-  
-Art. 91. - La scuola di scienze politiche e sociali ha lo scopo di curare la preparazione del personale di concetto nelle amministrazioni pubbliche e private.   
-Il corso degli studi ha la durata di due anni, al termine dei quali la scuola rilascia il diploma in scienze politiche e sociali.   
-Possono essere ammessi a frequentare la scuola quanti posseggono la laurea rilasciata da qualsiasi facolta' o i titoli di studio che danno accesso alla laurea in scienze politiche. L'ammontare delle tasse, soprattasse e contributi per la scuola di scienze politiche e sociali, e' per ogni singolo anno eguale a quello stabilito per la facolta' di scienze politiche.   
-Il consiglio della scuola, d'intesa con il consiglio di amministrazione, stabilisce prima dell'inizio di ogni anno accademico il numero massimo di coloro i quali possono essere ammessi a frequentare la scuola in conformita' alla disponibilita' finanziaria e alle strutture didattiche dell'ateneo.   
-  
-Art. 92. - Il corso degli studi e' articolato in un anno propedeutico e in un anno specialistico.   
-Durante il primo anno lo studente deve seguire l'insegnamento delle seguenti discipline:   
-1) Istituzioni di diritto pubblico;   
-2) Istituzioni di diritto privato;   
-3) Scienza della politica;   
-4) Sociologia;   
-5) Economia politica;   
-6) Statistica.   
-  
-Durante il secondo anno lo studente deve seguire sei insegnamenti da lui scelti: a) fra quelli attivati dalla facolta' ai fini del corso di laurea nei suoi diversi indirizzi; b) fra gli insegnamenti impartiti dalle altre facolta' dell'ateneo; e c) in un gruppo di discipline pratico-applicative attivate per la scuola dalla facolta' e stabilite all'inizio di ogni anno accademico.   
-Il piano di studi di questo secondo anno di corso e' soggetto all'approvazione da parte del consiglio della scuola, il quale predispone una serie di curriculi-tipo corrispondenti alle finalita' della scuola.   
-Art. 93. - Il diploma in scienze politiche e sociali e' conferito allo studente il quale, avendo superato gli esami relativi ai dodici insegnamenti di cui all'articolo precedente e ad una lingua moderna straniera da lui scelta fra quelle effettivamente insegnate nella facolta', sostiene con esito favorevole un colloquio finale su argomento specifico determinato un mese prima della prova.   
-Coloro i quali, avendo conseguito il diploma in scienze politiche e sociali, ed essendo in possesso dei titoli di studio necessari, intendono iscriversi al corso per il conseguimento della laurea in scienze politiche, possono chiedere al consiglio di facolta' il riconoscimento del corso di studi seguito presso la scuola e degli esami ivi sostenuti.   
-  
-Art. 94. - La scuola di scienze politiche e sociali ha un direttore ed un consiglio della scuola.   
-Le funzioni di direttore spettano al preside della facolta' di scienze politiche.   
-Il consiglio della scuola e' composto da tutti i professori di ruolo della facolta' di scienze politiche e dai professori incaricati degli insegnamenti specifici della scuola.   
-  
-Art. 95. - Gli insegnamenti della scuola di scienze politiche e sociali, quando non siano mutuati da quelli impartiti nella facolta' di scienze politiche o in altre facolta' dell'ateneo, sono conferiti per incarico dal consiglio di amministrazione, su proposta del consiglio della scuola, e con il parere favorevole del senato accademico.   
-I professori incaricati della scuola di scienze politiche e sociali hanno lo stesso trattamento dei professori incaricati dell'Universita' cattolica.   
+Art. 108. - I - Materie costitutive:  
+Storia del teatro e dello spettacolo (II anno);  
+Storia e teoria dell'interpretazione scenica;  
+Drammaturgia critica;  
+Storia e teoria dello spazio teatrale;  
+II - Materie ausiliarie:  
+Storia della musica teatrale;  
+Storia del costume;  
+Organizzazione teatrale.  
+Gli allievi che aspirano a conseguire il diploma in "Critica e tecnica del teatro" debbono scegliere come insegnamenti ausiliari due fra le materie sopra indicate.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 settembre 1969.
+### Dato a Roma, addi' 30 ottobre 1969
 
 SARAGAT FERRARI AGGRADI
 
 Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 16 novembre 1970
+Registrato alla Corte dei conti, addi' 23 gennaio 1970
 
-Atti del Governo, registro n. 238, foglio n. 59. - CARUSO
+Atti del Governo, registro n. 231, foglio n. 54. - CARUSO

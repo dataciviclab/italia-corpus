@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1979 n. 717
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1968 n. 1223
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1979 n. 717
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1968 n. 1223
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
@@ -10,110 +10,40 @@ Modificazioni allo statuto dell'Universita' degli studi di Messina.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923) e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1392);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73).;   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, numero 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 89 - l'articolo e' modificato nel senso che la facolta' di farmacia conferisce anche la laurea in chimica e tecnologia farmaceutiche.   
-Dopo l'art. 91, con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il nuovo seguente articolo relativo all'istituzione del corso di laurea in chimica e tecnologia farmaceutiche:   
-  
-CORSO DI LAUREA IN CHIMICA E TECNOLOGIA FARMACEUTICHE   
-  
-Art. 92. - La durata del corso degli studi per la laurea in "chimica e tecnologia farmaceutiche" e' di cinque anni, divisi in un biennio ed in un triennio.   
-Sono insegnamenti fondamentali:   
-Biennio:   
-1) analisi chimico-farmaceutica I (analisi qualitativa);   
-(\*) 2) anatomia umana;   
-(\*) 3) botanica farmaceutica;   
-(\*) 4) chimica fisica;   
-5) chimica generale ed inorganica;   
-6) chimica organica; (1)   
-7) fisica;   
-8) fisiologia generale;   
-(\*) 9) istituzioni di matematiche;   
-10) microbiologia ed igiene.   
-Triennio:   
-11) analisi chimico-farmaceutica II (analisi quantitativa);   
-12) analisi chimico-farmaceutica III (analisi dei medicamenti); (\*) 13) biochimica applicata;   
-(\*) 14) chimica biologica;   
-(\*) 15) chimica degli alimenti;   
-(\*) 16) chimica farmaceutica applicata;   
-(\*) 17) chimica farmaceutica e tossicologica I;   
-(\*) 18) chimica farmaceutica e tossicologica II;   
-(\*\*)19) chimica organica II;   
-(\*) 20) farmacologia e farmacognosia;   
-21) impianti dell'industria farmaceutica;   
-22) laboratorio di preparazione estrattiva e sintetica dei farmaci;   
-23) metodi fisici in chimica organica;   
-24) saggi e dosaggi farmacologici;   
-(\*) 25) tecnica e legislazione farmaceutica.   
-Sono insegnamenti complementari:   
-analisi chimico-cliniche;   
-chimica delle sostanze organiche naturali;   
-(\*) complementi di chimica tossicologica;   
-(\*) farmacognosia;   
-(\*) farmacologia molecolare;   
-fitofarmaci;   
-(\*) idrologia;   
-impianti per laboratori galenici;   
-(\*) mineralogia;   
-prodotti cosmetici;   
-prodotti dietetici;   
-tossicologia;   
-zoologia e parassitologia.   
-Le materie segnate con un asterisco sono comuni alla laurea in farmacia, quella con due asterischi e' comune al corso di laurea in chimica.   
-Per ottenere l'iscrizione al terzo anno di corso, lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per i due anni precedenti. Inoltre lo studente non puo' iscriversi al laboratorio del primo corso di analisi chimico-farmaceutica se non ha superato l'esame di chimica generale ed inorganica; pertanto non puo' ottenere la frequenza al suddetto corso.   
-Lo studente non puo' iscriversi al laboratorio del terzo corso di analisi chimico-farmaceutica se non ha superato l'esame di chimica organica I; pertanto, non puo' ottenere la frequenza al suddetto corso.   
-Dovranno inoltre essere osservate le seguenti precedenze:   
-  
-
-|  |  |
-| --- | --- |
-| Lo studente non puo' essere ammesso a sostenere l'esame di | Se non ha superato l'esame di |
-| Chimica organica I | Chimica generale ed inorganica |
-| Chimica fisica | Chimica generale ed inorganica + Fisica + Istituzioni di matematiche |
-| Chimica farmaceutica e tossicologica I | Chimica organica I |
-| Fisiologia generale | Anatomia umana |
-| Farmacologia e farmacognosia | Fisiologia generale + Chimica biologica |
-| Chimica biologica | Chimica organica I |
-| Impianti dell'industria farmaceutica | Chimica farmaceutica e tossicologica I e II |
-| Metodi fisici in chimica organica | Fisica + Chimica organica I |
-| Biochimica applicata | Chimica biologica |
-| Chimica farmaceutica applicata | Chimica farmaceutica e tossicologica I e II |
-| Analisi chimico-farmaceutica II | Analisi chimico-farmaceutica I |
-
-  
-  
-  
-  
-Per essere ammesso all'esame di laurea, lo studente deve avere seguito i corsi e superato tutti gli esami dei corsi fondamentali ed almeno due esami a scelta fra i corsi complementari.   
-La prova di laurea comporta la discussione di una tesi sperimentale.   
-Per essere ammesso a sostenere l'esame di Stato per l'esercizio della professione di farmacista, il laureato in chimica e tecnologia farmaceutiche deve aver compiuto un semestre di pratica professionale presso una farmacia, oppure un trimestre presso una farmacia ed un trimestre presso una industria farmaceutica.   
-Il periodo di pratica professionale dovra' avere inizio dopo il conseguimento del titolo accademico.   
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 25. - E' modificato nel senso che all'elenco degli istituti annessi alla facolta' di economia e commercio e' aggiunto il seguente: "istituto di diritto pubblico".  
+Art. 53. - All'elenco degli insegnamenti complementari per i seguenti tre indirizzi: generale, didattico ed applicativo nel corso di laurea in Fisica e' aggiunto quello di "Algebra".  
+Art. 70. - All'elenco degli insegnamenti complementari nel corso di laurea in medicina veterinaria sono aggiunti i seguenti:  
+Scienza dell'alimentazione degli animali domestici;  
+Oncologia comparata degli animali domestici;  
+Struttura sub-microscopica normale delle cellule e dei tessuti.  
+Art. 71, relativo al corso di laurea in medicina veterinaria e' modificato nel senso che tra la lettera i e la lettera l delle disposizioni concernenti le materie di esame venga aggiunto quanto segue:  
+"L'insegnamento biennale di patologia speciale e clinica medica viene impartito al terzo anno per quante riguarda la patologia speciale ed al quarto per la clinica medica. Salvo restando l'unicita' dell'insegnamento, l'esame di patologia speciale e clinica medica (biennale) comporta per lo studente, alla fine del terzo corso, un esame teorico di patologia speciale medica e alla fine del quarto anno un esame pratico di clinica medica".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 giugno 1979
+### Dato a Roma, addi' 14 ottobre 1968
 
-PERTINI SPADOLINI
+SARAGAT SCAGLIA
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 16 gennaio 1980
+Registrato alla Corte dei conti, addi' 6 dicembre 1968
 
-Registro n. 2 Istruzione, foglio n. 97
-
-(1) L'insegnamento non e' asteriscato per effetto del [decreto del Presidente della Repubblica 31 ottobre 1977, n. 1244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-10-31;1244).
+Atti del Governo, registro n. 224, foglio n. 30. - GRECO

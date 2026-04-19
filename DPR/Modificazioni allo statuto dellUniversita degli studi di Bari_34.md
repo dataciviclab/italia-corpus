@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1973 n. 1196
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1963 n. 874
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1973 n. 1196
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1963 n. 874
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,11 +10,11 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), modificato con [regio decreto 31 ottobre 1929, n. 2481](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2481) e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, numero 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
@@ -22,243 +22,298 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione:
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-L'art. 59, relativo al corso di laurea in medicina e chirurgia, e' modificato nel senso che dopo il terzo comma, successivo all'elenco degli insegnamenti complementari, e' inserito il nuovo comma riguardante la propedeuticita' degli esami:
+Art. 52. - Agli insegnamenti complementari del corso di laurea in Lettere e' aggiunto quello di "Storia della critica letteraria".
 
-"L'esame di fisiologia umana deve essere superato prima di sostenere quelli di patologia generale, di farmacologia e di tutti gli insegnamenti clinici. L'esame di patologia generale deve essere superato prima di sostenere gli esami di tutti gli insegnamenti clinici".
+Art. 35. - Agli insegnamenti complementari del corso di laurea in Farmacia e' aggiunto quello di "Chimica farmaceutica applicata".
 
-Art. 64 - nell'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti gli insegnamenti di "Istituzioni di patologia generale" e "Fisiologia cellulare".
+Art. 80. - I primi quattro comma sono abrogati e sostituiti dai seguenti:
 
-Art. 70 - nell'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologie farmaceutiche sono aggiunti gli insegnamenti di "Istituzioni di patologia generale" e "Fisiologia cellulare".
+"La durata del corso degli studi per la laurea in Matematica, e' di quattro anni".
 
-L'art. 78, concernente l'elenco degli istituti annessi alla facolta' di agraria, e' abrogato e sostituito dai seguenti:
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica. Possono essere ammessi i diplomi degli Istituti tecnici industriali, nautici, agrari e per geometri, alle condizioni stabilite dalla legge.
 
-Istituto di agronomia e coltivazioni erbacee, cui fanno capo gli insegnamenti di: agronomia generale, coltivazioni erbacee, orticoltura e floricoltura, ecologia, fisica del terreno agrario, agricoltura tropicale e subtropicale, colture protette, tecnica della fertilizzazione, tecnica agronomica della irrigazione, orticoltura, floricoltura, ecologia agraria, foraggicoltura.
+Il corso di studi si distingue in tre indirizzi: generale, didattico, applicativo.
 
-Istituto di coltivazione arboree, cui fanno capo gli insegnamenti di: coltivazioni arboree, viticoltura, olivicoltura, tecnica vivaistica, frutticoltura industriale, agrumicoltura, pomologia, tecnica dei frangiventi.
+Il primo biennio di studi e' comune a tutti gli indirizzi.
 
-Istituto di chimica agraria, cui fanno capo gli insegnamenti di: chimica generale ed inorganica con applicazioni di analitica, chimica organica, chimica agraria (biennale), enzimologia, chimica biologica, chimica degli antiparassitari, pedologia, biochimica vegetale.
+Nello stesso articolo dopo l'elenco degli insegnamenti dell'indirizzo didattico viene inserito il seguente elenco di insegnamenti relativi alla istituzione dell'indirizzo applicativo:
 
-Istituto di patologia vegetale, cui fanno capo gli insegnamenti di: patologia vegetale, patologia vegetale forestale, fisiopatologia, patologia delle piante ortive, patologia delle sementi, patologia dei prodotti e delle derrate agrarie, fitoiatria, diserbanti, batteriologia fitopatologica, virologia vegetale, nematologia, micologia, botanica generale, botanica sistematica, fisiologia vegetale.
+c) Indirizzo applicativo
 
-Istituto di microbiologia agraria e tecnica, cui fanno capo gli insegnamenti di: microbiologia agraria e tecnica, microbiologia industriale, micotossicologia, residui dei biocidi e biodegradazione.
+3° Anno
 
-Istituto di zootecnia, cui fanno capo gli insegnamenti di: zootecnica generale, zootecnica speciale, avicoltura e coniglicoltura, igiene zootecnica, immunogenetica, fisiologia e tecnica della riproduzione animale, tecnica mangimistica, avicoltura, coniglicoltura, idrobiologia e pescicoltura, ovinicoltura, tecnica dell'alimentazione del bestiame, etnografia zootecnica e studio della popolazione, fisioclimatologia animale.
+Insegnamenti fondamentali
 
-Istituto di anatomia e fisiologia degli animali domestici, cui fanno capo gli insegnamenti di: anatomia e fisiologia degli animali domestici, zoognostica, fisiologia zootecnica, approvvigionamenti annonari.
+1) Istituzioni di analisi superiore;
 
-Istituto di meccanica agraria, cui fanno capo gli insegnamenti di: matematica, fisica, meccanica agraria, tecnica della meccanizzazione agricola, proprieta' fisico-meccaniche dei prodotti agricoli, impianti frigoriferi, macchine ed impianti di industrie agrarie.
+2) Istituzioni di geometria superiore;
 
-Istituto di costruzioni rurali, cui fanno capo gli insegnamenti di: costruzioni agricole d'esercizio e di abitazione, topografia e costruzioni rurali, edilizia zootecnica, costruzioni ed impianti per le coltivazioni protette, idraulica agraria, tecnica della bonifica, impianti idrici rurali.
+3) Istituzioni di fisica matematica;
 
-Istituto di industrie agrarie, cui fanno capo gli insegnamenti di: industrie agrarie, tecnica delle applicazioni frigorifere, tecnica commerciale dei prodotti agricoli, tecnologia degli oli grassi e derivati, legislazione dei prodotti agrari e delle sostanze di uso agrario, industria della distillazione.
+4) Calcolo numerico con elementi di programmazione I o II.
 
-Istituto di economia e politica agraria, cui fanno capo gli insegnamenti di: principi di economia politica e statistica, economia e politica agraria, cooperazione agricola, sociologia rurale, storia dell'agricoltura, diritto agrario, tecnica del mercato dei prodotti agricoli, programmazione economica in agricoltura, zooeconomia.
+4° Anno
 
-Istituto di estimo rurale e contabilita', cui fanno capo gli insegnamenti di: estimo rurale e contabilita', analisi contabile e gestione aziendale, istituzioni di statistica economico-agraria, economia degli investimenti pubblici e privati in agricoltura.
+Insegnamento fondamentale:
 
-Istituto di entomologia agraria, cui fanno capo gli insegnamenti di: entomologia agraria, zoologia generale, acarologia, parassitologia animale dei vegetali, bachicoltura e apicoltura, principi e metodi di applicazione della lotta chimica contro gli insetti, entomologia ortofrutticola, tecnica di lotta biologica.
+1) Calcolo numerico con elementi di programmazione II o I;
 
-Azienda agraria sperimentale "Enrico Pantanelli".
+2) Due insegnamenti complementari, di cui uno almeno ad indirizzo fisico.
 
-Azienda agraria sperimentale "Vincenzo Ricchioni".
+Insegnamenti complementari:
 
-Istituto di miglioramento genetico delle piante agrarie, cui fanno capo gli insegnamenti di: miglioramento genetico delle piante agrarie, genetica, genetica vegetale, genetica vegetale quantitativa, metodologia statistica, produzione e controllo delle sementi.
+1) Analisi numerica;
 
-Istituto di selvicoltura, cui fanno capo gli insegnamenti di: botanica forestale, selvicoltura I (ecologia e selvicoltura generale), selvicoltura II (selvicoltura speciale).
+2) Analisi superiore;
 
-Azienda sperimentale "Pasquale Martucci".
+3) Astronomia (\*);
 
-Dopo l'art. 164 sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in "Patologia delle colture mediterranee", con il conseguente spostamento della numerazione degli articoli successivi:
+4) Calcolo delle probabilita';
 
-Scuola di specializzazione in patologia delle colture mediterranee
+5) Cibernetica e teoria della informazione (\*);
 
-Art. 165. - Scopo della scuola e' di fornire una speciale competenza nel campo della patologia delle colture erbacee ed arboree, tipiche della regione mediterranea. La scuola, della durata di due anni, conferira' il diploma di "Specialista in patologia delle colture mediterranee" valevole a tutti gli effetti di legge.
+6) Complementi di fisica generale (\*)
 
-Art. 166. - Direttore della scuola e' il direttore dell'istituto di patologia vegetale, cui la scuola stessa afferisce. In caso di sua indisponibilita' il direttore della scuola sara' nominato anno per anno dalla facolta' e sara' rieleggibile.
+7) Economia matematica
 
-Art. 167. - Il consiglio della scuola e' presieduto dal direttore ed e' costituito dai docenti che vi impartiscono insegnamenti.
+8) Fisica matematica
 
-Art. 168. - Per il conseguimento del titolo di specialista e' obbligatoria la frequenza alle lezioni, alle esercitazioni, alle conferenze, ai colloqui, ecc. Nel secondo anno e' obbligatorio l'internato presso l'istituto di patologia vegetale.
+9) Geometria differenziale;
 
-Art. 169. - Alla scuola possono iscriversi coloro - italiani e stranieri - che siano in possesso della laurea in scienze agrarie, in scienze forestali, in scienze biologiche e in scienze naturali, conseguita in una universita' italiana. Alla scuola sono ugualmente ammessi coloro che siano in possesso di equipollenti titoli accademici stranieri. Possono essere ammessi al secondo anno allievi che, pur non avendo frequentato il primo anno, mostrino di possedere una particolare preparazione mediante una prova da sostenere di fronte ad una commissione nominata dalla facolta' su proposta del direttore. La valutazione degli aspiranti, ai fini dell'ammissione alla scuola, sara' fatta da una commissione presieduta dal direttore e nominata dalla facolta'. Nel caso in cui gli aspiranti superino il numero massimo fissato dalla facolta', la stessa commissione provvedera' a stabilire una graduatoria di merito.
+10) Geometria superiore;
 
-Art. 170. - Gli insegnamenti possono non avere carattere cattedratico ed essere svolti in quella diversa forma che e' consentita dall'indole di ciascuna disciplina.
+11) Istituzioni di fisica teorica (\*);
 
-Art. 171. - Gli insegnamenti impartiti nella scuola sono i seguenti:
+12) Logica matematica
 
-Ecologia della regione mediterranea (semestrale);
+13) Matematica finanziaria ed attuariale;
 
-Legislazione e organizzazione dei servizi fitopatologici (semestrale);
+14) Matematiche complementari I o II;
 
-Patologia generale e processi patogenetici;
+15) Matematiche elementari da un punto di vista superiore;
 
-Parassitologia animale delle colture;
+16) Matematiche superiori;
 
-Agenti eziologici di malattie (corsi monografici);
+17) Meccanica statistica;
 
-Epifitologia, previsione e stima delle malattie e metodologia statistica;
+18) Statistica matematica;
 
-Principi di lotta, mezzi meccanici e metodi di applicazione dei biocidi;
+19) Storia delle matematiche;
 
-Variabilita' dei patogeni e piante resistenti (semestrale);
+20) Struttura della materia; (1)
 
-Produzione di sementi e piante sane (semestrale);
+21) Teoria dei numeri;
 
-Malattie delle principali colture mediterranee (corsi monografici).
+22) Teoria delle funzioni
 
-Art. 172. - I docenti dei singoli insegnamenti o di parte di essi e i docenti dei corsi monografici sono nominati per incarico, anno per anno, dal consiglio di facolta' su proposta del direttore della scuola.
+23) Teoria ed applicazioni delle macchine calcolatrici.
 
-Art. 173. - Alla fine del primo anno si sostengono i seguenti esami di profitto:
+Nota:
 
-Ecologia della regione mediterranea;
+Art. 81, relativo alle norme comuni del corso di laurea in Matematica, e' modificato nel senso che il terzo comma e' abrogato e sostituito dal seguente:
 
-Legislazione e organizzazione dei servizi fitopatologici;
+"Gli insegnamenti fondamentali del primo biennio e gli insegnamenti di Istituzioni di analisi superiore, Istituzioni di geometria superiore, Istituzioni di fisica matematica, Matematiche complementari I e II, Calcolo numerico con elementi di programmazione I e II sono accompagnati ciascuno da un corso di esercitazioni che ne e' parte integrante".
 
-Patologia generale e processi patogenetici;
+Art. 105. - Agli Istituti annessi alla Facolta' di ingegneria e' aggiunto quello di "Disegno".
 
-Parassitologia animale delle colture;
+Art. 116, relativo alla Scuola di perfezionamento in Diritto del lavoro e previdenza sociale, e' modificato nel senso che il corso biennale di "Diritto del lavoro" e' distinto in due corsi annuali:
 
-Agenti eziologici di malattie;
+"Diritto costituzionale del lavoro" al primo anno;
 
-Epifitologia, previsione e stima delle malattie e metodologia statistica.
+"Diritto del lavoro" al secondo anno.
 
-Alla fine del secondo anno si sostengono i seguenti esami di profitto:
+Fra gli insegnamenti del secondo anno della suddetta Scuola sono aggiunti i seguenti:
 
-Principi di lotta, mezzi meccanici e metodi di applicazione dei biocidi;
+"Diritto internazionale del lavoro";
 
-Variabilita' dei patogeni e piante resistenti;
+"Diritto penale del lavoro";
 
-Produzione di sementi e piante sane;
+"Diritto processuale del lavoro".
 
-Malattie delle principali colture mediterranee.
+Art. 156. - L'ordinamento degli studi relativo alla Scuola di specializzazione in Neurologia e' abrogato ed in sostituzione viene istituita la "Scuola di specializzazione in Malattie nervose e mentali" con il seguente ordinamento La Scuola di specializzazione in Malattie nervose e mentali e' annessa all'istituto di clinica delle malattie nervose e mentali.
 
-L'esame di diploma consiste nella discussione di una dissertazione scritta, svolta dal candidato dinnanzi ad una commissione nominata dalla facolta', su proposta del direttore. L'argomento della dissertazione sara' scelto dal candidato con l'approvazione del direttore della scuola.
+Alla Scuola sono ammessi i laureati in medicina e chirurgia in numero non superiore a 10 ogni anno.
 
-Art. 174. - Le tasse e soprattasse per gli iscritti alla scuola sono le stesse stabilite dalla legge per gli iscritti alla facolta' di agraria. Il contributo annuo che gli iscritti debbono corrispondere per le esercitazioni pratiche e per le prestazioni di qualunque natura di cui usufruiscono durante l'anno di studio, e' stabilito, anno per anno, dal consiglio di facolta' e dal senato accademico.
+La durata del corso degli studi per il conseguimento del diploma di specialista e' di tre anni.
 
-Art. 175. - Al funzionamento della scuola viene provveduto, oltre che con gli introiti di cui all'articolo precedente, con eventuali contributi da parte dei Ministeri, di enti o privati, che intendono cooperare all'attuazione dei fini che la scuola si propone di conseguire.
+Gli insegnamenti impartiti nella Scuola sono cosi' suddivisi:
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e di decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+1° Anno:
 
-Dato a Roma, addi' 24 dicembre 1973
+1) Anatomia del sistema nervoso;
 
-LEONE
+2) Fisiologia e fisiopatologia del sistema nervoso;
 
-MALFATTI
+3) Psicologia e psicopatologia generale.
 
-Visto, il Guardasigilli: ZAGARI
+2° Anno:
+
+1) Anatomia e istologia patologica del sistema nervoso;
+
+2) Semeiotica neurologica;
+
+3) Semeiotica psichiatrica;
+
+4) Elementi di neuroradiologia e di elettroencefalografia.
+
+3° Anno:
+
+1) Clinica neurologica;
+
+2) Clinica psichiatrica;
+
+3) Psicoterapia e igiene mentale.
+
+Al termine di ciascun anno di corso l'allievo dovra' sostenere un esame teorico pratico sulle materie che sono state oggetto d'insegnamento.
+
+Durante i tre anni di corso gli iscritti alla Scuola di specializzazione sono obbligati a frequentare come interni la clinica delle malattie nervose e mentali.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e del decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 24 maggio 1963
+
+SEGNI
+
+Visto, il Guardasigilli: BOSCO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 19 novembre 1974 Atti di Governo, registro n. 6, foglio n. 132. - SCIARRETTA
+alla Corte dei conti, addi' 28 giugno 1963 Atti del Governo, registro n. 171, foglio n. 50. - VILLA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione:   
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), modificato con [regio decreto 31 ottobre 1929, n. 2481](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2481) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, numero 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-L'art. 59, relativo al corso di laurea in medicina e chirurgia, e' modificato nel senso che dopo il terzo comma, successivo all'elenco degli insegnamenti complementari, e' inserito il nuovo comma riguardante la propedeuticita' degli esami:   
-"L'esame di fisiologia umana deve essere superato prima di sostenere quelli di patologia generale, di farmacologia e di tutti gli insegnamenti clinici. L'esame di patologia generale deve essere superato prima di sostenere gli esami di tutti gli insegnamenti clinici".   
-Art. 64 - nell'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti gli insegnamenti di "Istituzioni di patologia generale" e "Fisiologia cellulare".   
-Art. 70 - nell'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologie farmaceutiche sono aggiunti gli insegnamenti di "Istituzioni di patologia generale" e "Fisiologia cellulare".   
-L'art. 78, concernente l'elenco degli istituti annessi alla facolta' di agraria, e' abrogato e sostituito dai seguenti:   
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Istituto di agronomia e coltivazioni erbacee, cui fanno capo gli insegnamenti di: agronomia generale, coltivazioni erbacee, orticoltura e floricoltura, ecologia, fisica del terreno agrario, agricoltura tropicale e subtropicale, colture protette, tecnica della fertilizzazione, tecnica agronomica della irrigazione, orticoltura, floricoltura, ecologia agraria, foraggicoltura.   
-Istituto di coltivazione arboree, cui fanno capo gli insegnamenti di: coltivazioni arboree, viticoltura, olivicoltura, tecnica vivaistica, frutticoltura industriale, agrumicoltura, pomologia, tecnica dei frangiventi.   
-Istituto di chimica agraria, cui fanno capo gli insegnamenti di: chimica generale ed inorganica con applicazioni di analitica, chimica organica, chimica agraria (biennale), enzimologia, chimica biologica, chimica degli antiparassitari, pedologia, biochimica vegetale.   
-Istituto di patologia vegetale, cui fanno capo gli insegnamenti di: patologia vegetale, patologia vegetale forestale, fisiopatologia, patologia delle piante ortive, patologia delle sementi, patologia dei prodotti e delle derrate agrarie, fitoiatria, diserbanti, batteriologia fitopatologica, virologia vegetale, nematologia, micologia, botanica generale, botanica sistematica, fisiologia vegetale.   
-Istituto di microbiologia agraria e tecnica, cui fanno capo gli insegnamenti di: microbiologia agraria e tecnica, microbiologia industriale, micotossicologia, residui dei biocidi e biodegradazione.   
-Istituto di zootecnia, cui fanno capo gli insegnamenti di: zootecnica generale, zootecnica speciale, avicoltura e coniglicoltura, igiene zootecnica, immunogenetica, fisiologia e tecnica della riproduzione animale, tecnica mangimistica, avicoltura, coniglicoltura, idrobiologia e pescicoltura, ovinicoltura, tecnica dell'alimentazione del bestiame, etnografia zootecnica e studio della popolazione, fisioclimatologia animale.   
-Istituto di anatomia e fisiologia degli animali domestici, cui fanno capo gli insegnamenti di: anatomia e fisiologia degli animali domestici, zoognostica, fisiologia zootecnica, approvvigionamenti annonari.   
-Istituto di meccanica agraria, cui fanno capo gli insegnamenti di: matematica, fisica, meccanica agraria, tecnica della meccanizzazione agricola, proprieta' fisico-meccaniche dei prodotti agricoli, impianti frigoriferi, macchine ed impianti di industrie agrarie.   
-Istituto di costruzioni rurali, cui fanno capo gli insegnamenti di: costruzioni agricole d'esercizio e di abitazione, topografia e costruzioni rurali, edilizia zootecnica, costruzioni ed impianti per le coltivazioni protette, idraulica agraria, tecnica della bonifica, impianti idrici rurali.   
-Istituto di industrie agrarie, cui fanno capo gli insegnamenti di: industrie agrarie, tecnica delle applicazioni frigorifere, tecnica commerciale dei prodotti agricoli, tecnologia degli oli grassi e derivati, legislazione dei prodotti agrari e delle sostanze di uso agrario, industria della distillazione.   
-Istituto di economia e politica agraria, cui fanno capo gli insegnamenti di: principi di economia politica e statistica, economia e politica agraria, cooperazione agricola, sociologia rurale, storia dell'agricoltura, diritto agrario, tecnica del mercato dei prodotti agricoli, programmazione economica in agricoltura, zooeconomia.   
-Istituto di estimo rurale e contabilita', cui fanno capo gli insegnamenti di: estimo rurale e contabilita', analisi contabile e gestione aziendale, istituzioni di statistica economico-agraria, economia degli investimenti pubblici e privati in agricoltura.   
-Istituto di entomologia agraria, cui fanno capo gli insegnamenti di: entomologia agraria, zoologia generale, acarologia, parassitologia animale dei vegetali, bachicoltura e apicoltura, principi e metodi di applicazione della lotta chimica contro gli insetti, entomologia ortofrutticola, tecnica di lotta biologica.   
-Azienda agraria sperimentale "Enrico Pantanelli".   
-Azienda agraria sperimentale "Vincenzo Ricchioni".   
-Istituto di miglioramento genetico delle piante agrarie, cui fanno capo gli insegnamenti di: miglioramento genetico delle piante agrarie, genetica, genetica vegetale, genetica vegetale quantitativa, metodologia statistica, produzione e controllo delle sementi.   
-Istituto di selvicoltura, cui fanno capo gli insegnamenti di: botanica forestale, selvicoltura I (ecologia e selvicoltura generale), selvicoltura II (selvicoltura speciale).   
-Azienda sperimentale "Pasquale Martucci".   
+Art. 52. - Agli insegnamenti complementari del corso di laurea in Lettere e' aggiunto quello di "Storia della critica letteraria".  
   
-Dopo l'art. 164 sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in "Patologia delle colture mediterranee", con il conseguente spostamento della numerazione degli articoli successivi:   
+Art. 35. - Agli insegnamenti complementari del corso di laurea in Farmacia e' aggiunto quello di "Chimica farmaceutica applicata".  
   
-Scuola di specializzazione in patologia delle colture mediterranee   
-Art. 165. - Scopo della scuola e' di fornire una speciale competenza nel campo della patologia delle colture erbacee ed arboree, tipiche della regione mediterranea. La scuola, della durata di due anni, conferira' il diploma di "Specialista in patologia delle colture mediterranee" valevole a tutti gli effetti di legge.   
-Art. 166. - Direttore della scuola e' il direttore dell'istituto di patologia vegetale, cui la scuola stessa afferisce. In caso di sua indisponibilita' il direttore della scuola sara' nominato anno per anno dalla facolta' e sara' rieleggibile.   
-Art. 167. - Il consiglio della scuola e' presieduto dal direttore ed e' costituito dai docenti che vi impartiscono insegnamenti.   
-Art. 168. - Per il conseguimento del titolo di specialista e' obbligatoria la frequenza alle lezioni, alle esercitazioni, alle conferenze, ai colloqui, ecc. Nel secondo anno e' obbligatorio l'internato presso l'istituto di patologia vegetale.   
-Art. 169. - Alla scuola possono iscriversi coloro - italiani e stranieri - che siano in possesso della laurea in scienze agrarie, in scienze forestali, in scienze biologiche e in scienze naturali, conseguita in una universita' italiana. Alla scuola sono ugualmente ammessi coloro che siano in possesso di equipollenti titoli accademici stranieri. Possono essere ammessi al secondo anno allievi che, pur non avendo frequentato il primo anno, mostrino di possedere una particolare preparazione mediante una prova da sostenere di fronte ad una commissione nominata dalla facolta' su proposta del direttore. La valutazione degli aspiranti, ai fini dell'ammissione alla scuola, sara' fatta da una commissione presieduta dal direttore e nominata dalla facolta'. Nel caso in cui gli aspiranti superino il numero massimo fissato dalla facolta', la stessa commissione provvedera' a stabilire una graduatoria di merito.   
-Art. 170. - Gli insegnamenti possono non avere carattere cattedratico ed essere svolti in quella diversa forma che e' consentita dall'indole di ciascuna disciplina.   
-Art. 171. - Gli insegnamenti impartiti nella scuola sono i seguenti:   
+Art. 80. - I primi quattro comma sono abrogati e sostituiti dai seguenti:  
   
-Ecologia della regione mediterranea (semestrale);   
-Legislazione e organizzazione dei servizi fitopatologici (semestrale);   
-Patologia generale e processi patogenetici;   
-Parassitologia animale delle colture;   
-Agenti eziologici di malattie (corsi monografici);   
-Epifitologia, previsione e stima delle malattie e metodologia statistica;   
-Principi di lotta, mezzi meccanici e metodi di applicazione dei biocidi;   
-Variabilita' dei patogeni e piante resistenti (semestrale);   
-Produzione di sementi e piante sane (semestrale);   
-Malattie delle principali colture mediterranee (corsi monografici).   
+"La durata del corso degli studi per la laurea in Matematica, e' di quattro anni".  
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica. Possono essere ammessi i diplomi degli Istituti tecnici industriali, nautici, agrari e per geometri, alle condizioni stabilite dalla legge.  
+Il corso di studi si distingue in tre indirizzi: generale, didattico, applicativo.  
+Il primo biennio di studi e' comune a tutti gli indirizzi.  
   
-Art. 172. - I docenti dei singoli insegnamenti o di parte di essi e i docenti dei corsi monografici sono nominati per incarico, anno per anno, dal consiglio di facolta' su proposta del direttore della scuola.   
-Art. 173. - Alla fine del primo anno si sostengono i seguenti esami di profitto:   
+Nello stesso articolo dopo l'elenco degli insegnamenti dell'indirizzo didattico viene inserito il seguente elenco di insegnamenti relativi alla istituzione dell'indirizzo applicativo:  
+c) Indirizzo applicativo  
   
-Ecologia della regione mediterranea;   
-Legislazione e organizzazione dei servizi fitopatologici;   
-Patologia generale e processi patogenetici;   
-Parassitologia animale delle colture;   
-Agenti eziologici di malattie;   
-Epifitologia, previsione e stima delle malattie e metodologia statistica.   
+3° Anno  
   
-Alla fine del secondo anno si sostengono i seguenti esami di profitto:   
+Insegnamenti fondamentali  
+1) Istituzioni di analisi superiore;  
+2) Istituzioni di geometria superiore;  
+3) Istituzioni di fisica matematica;  
+4) Calcolo numerico con elementi di programmazione I o II.  
   
-Principi di lotta, mezzi meccanici e metodi di applicazione dei biocidi;   
-Variabilita' dei patogeni e piante resistenti;   
-Produzione di sementi e piante sane;   
-Malattie delle principali colture mediterranee.   
+4° Anno  
   
-L'esame di diploma consiste nella discussione di una dissertazione scritta, svolta dal candidato dinnanzi ad una commissione nominata dalla facolta', su proposta del direttore. L'argomento della dissertazione sara' scelto dal candidato con l'approvazione del direttore della scuola.   
-Art. 174. - Le tasse e soprattasse per gli iscritti alla scuola sono le stesse stabilite dalla legge per gli iscritti alla facolta' di agraria. Il contributo annuo che gli iscritti debbono corrispondere per le esercitazioni pratiche e per le prestazioni di qualunque natura di cui usufruiscono durante l'anno di studio, e' stabilito, anno per anno, dal consiglio di facolta' e dal senato accademico.   
-Art. 175. - Al funzionamento della scuola viene provveduto, oltre che con gli introiti di cui all'articolo precedente, con eventuali contributi da parte dei Ministeri, di enti o privati, che intendono cooperare all'attuazione dei fini che la scuola si propone di conseguire.   
+Insegnamento fondamentale:  
+1) Calcolo numerico con elementi di programmazione II o I;  
+2) Due insegnamenti complementari, di cui uno almeno ad indirizzo fisico.  
+  
+Insegnamenti complementari:  
+1) Analisi numerica;  
+2) Analisi superiore;  
+3) Astronomia (\*);  
+4) Calcolo delle probabilita';  
+5) Cibernetica e teoria della informazione (\*);  
+6) Complementi di fisica generale (\*)  
+7) Economia matematica  
+8) Fisica matematica  
+9) Geometria differenziale;  
+10) Geometria superiore;  
+11) Istituzioni di fisica teorica (\*);  
+12) Logica matematica  
+13) Matematica finanziaria ed attuariale;  
+14) Matematiche complementari I o II;  
+15) Matematiche elementari da un punto di vista superiore;  
+16) Matematiche superiori;  
+17) Meccanica statistica;  
+18) Statistica matematica;  
+19) Storia delle matematiche;  
+20) Struttura della materia; (1)  
+21) Teoria dei numeri;  
+22) Teoria delle funzioni  
+23) Teoria ed applicazioni delle macchine calcolatrici.  
+  
+Nota:  
+  
+Art. 81, relativo alle norme comuni del corso di laurea in Matematica, e' modificato nel senso che il terzo comma e' abrogato e sostituito dal seguente:  
+  
+"Gli insegnamenti fondamentali del primo biennio e gli insegnamenti di Istituzioni di analisi superiore, Istituzioni di geometria superiore, Istituzioni di fisica matematica, Matematiche complementari I e II, Calcolo numerico con elementi di programmazione I e II sono accompagnati ciascuno da un corso di esercitazioni che ne e' parte integrante".  
+  
+Art. 105. - Agli Istituti annessi alla Facolta' di ingegneria e' aggiunto quello di "Disegno".  
+  
+Art. 116, relativo alla Scuola di perfezionamento in Diritto del lavoro e previdenza sociale, e' modificato nel senso che il corso biennale di "Diritto del lavoro" e' distinto in due corsi annuali:  
+"Diritto costituzionale del lavoro" al primo anno;  
+"Diritto del lavoro" al secondo anno.  
+  
+Fra gli insegnamenti del secondo anno della suddetta Scuola sono aggiunti i seguenti:  
+"Diritto internazionale del lavoro";  
+"Diritto penale del lavoro";  
+"Diritto processuale del lavoro".  
+  
+Art. 156. - L'ordinamento degli studi relativo alla Scuola di specializzazione in Neurologia e' abrogato ed in sostituzione viene istituita la "Scuola di specializzazione in Malattie nervose e mentali" con il seguente ordinamento La Scuola di specializzazione in Malattie nervose e mentali e' annessa all'istituto di clinica delle malattie nervose e mentali.  
+Alla Scuola sono ammessi i laureati in medicina e chirurgia in numero non superiore a 10 ogni anno.  
+La durata del corso degli studi per il conseguimento del diploma di specialista e' di tre anni.  
+  
+Gli insegnamenti impartiti nella Scuola sono cosi' suddivisi:  
+  
+1° Anno:  
+1) Anatomia del sistema nervoso;  
+2) Fisiologia e fisiopatologia del sistema nervoso;  
+3) Psicologia e psicopatologia generale.  
+  
+2° Anno:  
+1) Anatomia e istologia patologica del sistema nervoso;  
+2) Semeiotica neurologica;  
+3) Semeiotica psichiatrica;  
+4) Elementi di neuroradiologia e di elettroencefalografia.  
+  
+3° Anno:  
+1) Clinica neurologica;  
+2) Clinica psichiatrica;  
+3) Psicoterapia e igiene mentale.  
+  
+Al termine di ciascun anno di corso l'allievo dovra' sostenere un esame teorico pratico sulle materie che sono state oggetto d'insegnamento.  
+Durante i tre anni di corso gli iscritti alla Scuola di specializzazione sono obbligati a frequentare come interni la clinica delle malattie nervose e mentali.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e di decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e del decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 dicembre 1973
+### Dato a Roma, addi' 24 maggio 1963
 
-LEONE MALFATTI
+SEGNI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 19 novembre 1974
+Registrato alla Corte dei conti, addi' 28 giugno 1963
 
-Atti di Governo, registro n. 6, foglio n. 132. - SCIARRETTA
+Atti del Governo, registro n. 171, foglio n. 50. - VILLA
+
+(1) Gli insegnamenti contrassegnati con asterisco sono ad indirizzo fisico.

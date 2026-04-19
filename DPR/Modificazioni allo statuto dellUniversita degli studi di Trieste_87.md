@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 agosto 1982 n. 892
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1127
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 agosto 1982 n. 892
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1127
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
@@ -10,56 +10,99 @@ Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1962, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-10-31;1836), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [regio decreto 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1962-09-07;1540), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Visto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Visto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduto l'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Veduta la necessita' di adeguare le norme sulla direzione delle scuole di perfezionamento e di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Decreta:
---------
+Sulla
+-----
 
-Lo statuto dell'Universita' di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+proposta del Ministro della pubblica istruzione; Decreta:
 
-Art. 1
-------
-
-  
-L'art. 42, relativo all'esame di laurea di economia e commercio, e' soppresso e sostituito dal seguente:  
-Art. 42. - La dissertazione scritta per l'esame di laurea puo' concernere qualunque materia elencata nell'art. 40, ad eccezione delle lingue. Essa dovra' essere depositata in segreteria in quattro copie, a stampa o dattilografate, venti giorni prima del relativo esame.  
-L'esame deve essere integrato dalla discussione di un argomento scelto in una materia diversa da quella della tesi, ma come quella appartenente al gruppo delle discipline caratterizzanti uno degli indirizzi di studio annualmente predisposti dalla facolta'.  
-
-Art. 2
-------
+Articolo unico
+--------------
 
   
-Dopo l'art. 43, con il conseguente spostamento degli articoli successivi, e' aggiunto il nuovo seguente articolo:  
-Art. 44. - Biblioteca della facolta' di economia e commercio.  
+  
+Lo statuto dell'Universita' di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+  
+Dopo l'art. 120, e con il conseguente spostamento della numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di perfezionamento in "scienza dell'educazione" presso la facolta' di magistero.   
+Scuola di perfezionamento in scienza dell'educazione   
+Art. 121. - Alla facolta' di magistero dell'Universita' di Trieste e' annessa una scuola di perfezionamento in scienze dell'educazione con lo scopo di integrare, qualificandola professionalmente, la preparazione di giovani che intendono dedicarsi all'insegnamento.   
+Alla scuola possono essere iscritti laureati di qualsiasi facolta' in possesso di un titolo di studio che dia diritto di partecipare ad esami di abilitazione o a concorsi per scuole secondarie.   
+Possono essere ammessi alla scuola un massimo di sessanta iscritti.  
+L'ammissione verra' decisa dal consiglio della scuola dopo un colloquio del richiedente davanti ad apposita commissione.   
+La durata della scuola e' di due anni.   
+La frequenza della scuola e' obbligatoria.   
+Art. 122. - Nella scuola sono impartiti i seguenti insegnamenti distinti per ciascun anno di corso:   
+1° Anno:   
+pedagogia;   
+didattica;   
+psicologia pedagogica;   
+un complementare.   
+2° Anno:   
+pedagogia;   
+didattica;   
+un complementare;   
+un seminario o partecipazione a un progetto sperimentale.   
+Sono insegnamenti complementari:   
+auxologia ed igiene;   
+istituzioni di diritto pubblico e legislazione scolastica;   
+psicologia dell'eta' evolutiva;   
+sociologia dell'educazione.   
+Art. 123. - La scuola di perfezionamento in scienze dell'educazione prevede l'attuazione delle norme generali per le scuole di perfezionamento e di specializzazione di cui al titolo 3, cap. I, articoli 105, 106, 107, 108, 109 e 111 dello statuto dell'Universita' di Trieste.   
+In particolare si precisa ai sensi del suddetto art. 107 che oltre agli insegnamenti stabiliti nello statuto, presso la scuola potranno svolgersi cicli di conferenze e di esercitazioni su speciali materie stabilite annualmente dal consiglio di facolta'.   
+Su tali materie potra' sostenersi la prova d'esame.   
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima. La scuola sara' retta da un direttore e da un consiglio composto dai professori ufficiali che impartiscono insegnamenti nella scuola.   
+L'organizzazione della scuola e' affidata all'istituto di pedagogia, a cui fanno capo gli insegnamenti della scuola stessa.  
+Detto istituto porra' a disposizione della scuola quanto necessario per il suo funzionamento e in particolare i corredi di carattere scientifico e bibliografico e i supporti ed i sussidi di carattere didattico che sono disponibili in misura sufficiente nella sede dell'istituto.   
+Ai sensi dell'art. 111 dello statuto dell'Universita' di Trieste, le tasse di iscrizione e le soprattasse della scuola sono le seguenti:   
+  
+Primo anno:   
+tassa di immatricolazione . . . . . . . . . . . . . . . . . L. 10.000 tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 50.000 tassa annuale di esami. . . . . . . . . . . . . . . . . . . L. 10.000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . L. 70.000 Anni successivi:   
+tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 50.000 tassa annuale di esami. . . . . . . . . . . . . . . . . . . L. 10.000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . L. 60.000   
+  
+Soprattassa di diploma L. 10.000, mentre la tassa di diploma e' fissata a norma di legge.   
+Come per legge (art. 20 del testo unico) agli insegnamenti si provvedera' sia con docenti della facolta' di magistero, sia con opportuni raggruppamenti e coordinamenti di insegnamenti propri di altre facolta' della stessa Universita'.   
+Il consiglio della facolta' di magistero provvedera' secondo la normativa vigente alla nomina del direttore e dei docenti della scuola stessa.   
+Art. 124. - Di uno stesso insegnamento, tra quelli indicati, possono venir incaricati piu' docenti aventi specifica competenza nelle diverse parti del programma.   
+Art. 125. - Il consiglio direttivo della scuola determina:   
+a) i curricoli della stessa;   
+b) i programmi dei singoli corsi di insegnamento e la rispettiva durata;   
+c) il numero degli esami richiesti per l'ammissione al secondo anno;   
+d) le proposte da sottoporre al consiglio di amministrazione dell'Universita' per iniziative integrative dell'attivita' normale della scuola.   
+Art. 126. - Il diploma della scuola sara' conseguibile con la discussione orale di un documento scritto, su un tema o prova sperimentale concordati con uno dei docenti della scuola, sentito il parere del consiglio direttivo.   
+Il candidato non riconosciuto idoneo ad una prima prova dell'esame di diploma puo' ripresentarsi una seconda volta, ma non nello stesso anno accademico.   
+Gli esami previsti dal curricolo di ciascun iscritto possono essere sostenuti non piu' di due volte e sempre in sessioni distinte.   
+I candidati che non riescono a superare un esame del loro corso di studi alla seconda prova, sono esclusi dalla scuola.   
+Le commissioni di esame sono costituite da insegnanti della scuola secondo le vigenti norme degli esami universitari.   
+Gli esami vengono svolti nelle sessioni di esami previste dalla legge.   
+Art. 127. - Per il conseguimento del diploma si richiede una frequenza di due anni, il superamento di tutti gli esami relativi al primo e al secondo anno del curricolo scelto dal candidato e dell'esame di diploma.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 agosto 1982
+### Dato a Roma, addi' 31 ottobre 1981
 
 PERTINI BODRATO
 
 Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 26 novembre 1982
+Registrato alla Corte dei conti, addi' 20 marzo 1982
 
-Registro n. 128 Istruzione, foglio n. 327
+Registro n. 43 Istruzione, foglio n. 324

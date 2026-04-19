@@ -1,18 +1,198 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 975
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1239
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 975
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1239
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Gli articoli da 106 a 118 relativi alla scuola di specializzazione in psicologia, in pedagogia, in psico-pedagogia sono abrogati e sostituiti dai seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in psicologia, annessa alla facolta' di magistero, con il conseguente spostamento della numerazione degli articoli successivi.
+
+Scuola di specializzazione in psicologia
+
+Art. 134. - E' istituita una scuola di specializzazione in psicologia annessa alla facolta' di magistero della Universita' di Torino.
+
+Art. 135. - La scuola e' articolata nei seguenti indirizzi:
+
+a) indirizzo medico;
+
+b) indirizzo differenziale e scolastico;
+
+c) indirizzo industriale e del lavoro;
+
+d) indirizzo sociale.
+
+Art. 136. - Per lo svolgimento della sua attivita' la scuola si avvale delle strutture dell'istituto di psicologia e di altri istituti interessati.
+
+Art. 137. - Titolo di ammissione e' la laurea in qualsiasi disciplina, conseguita presso una universita' italiana, oppure un titolo di studio straniero equipollente. Per il solo indirizzo medico e' richiesta la laurea in medicina e chirurgia.
+
+L'accettazione della domanda di iscrizione alla scuola avviene previo accertamento dell'idoneita' del candidato attraverso un colloquio.
+
+Art. 138. - La scuola e' triennale; non sono consentite abbreviazioni.
+
+Art. 139. - Al termine del corso la scuola rilascia il diploma di "specialista in psicologia" con l'indicazione dell'indirizzo seguito.
+
+Art. 140. - Il consiglio della scuola e' costituito da tutti i docenti (scelti anche tra esperti) ai quali sia stato affidato un corso di insegnamento, e dai rappresentanti degli allievi eletti di anno in anno dagli allievi della scuola in numero di due per ogni indirizzo. Il consiglio della scuola propone al consiglio della facolta' di magistero la nomina del direttore e dei docenti, provvede al coordinamento dei vari corsi, discute i programmi presentati dai singoli docenti, predispone l'orario delle lezioni, dei seminari e delle esercitazioni.
+
+Art. 141. - La direzione della scuola e' affidata a un docente di materie psicologiche nominato dal consiglio della facolta' di magistero per la durata di un biennio.
+
+Art. 142. - Il consiglio della scuola elegge fra i suoi membri il direttore proponendone la nomina alla facolta'. Il consiglio della scuola provvede al coordinamento dei vari corsi, discute i programmi presentati dai singoli docenti, predispone l'orario delle lezioni, dei seminari e delle esercitazioni.
+
+Art. 143. - Gli insegnamenti sono suddivisi in tre gruppi:
+
+a) insegnamenti comuni a tutti gli indirizzi (per il 1° anno di corso), obbligatori per tutti gli allievi indipendentemente dall'indirizzo prescelto;
+
+b) insegnamenti costitutivi di ciascun indirizzo (per il 2° e il 3° anno di corso), obbligatori nell'ambito dell'indirizzo prescelto;
+
+c) insegnamenti integrativi stabiliti ogni anno dal consiglio della scuola e pubblicati nel manifesto-programma annuale.
+
+Art. 144. - Gli insegnamenti di cui al punto a) sono:
+
+1) psicologia generale (comprendente metodologia, teorie della personalita', psicologia differenziale);
+
+2) metodologia statistica e psicometria (primo anno);
+
+3) psicologia dell'eta' evolutiva (primo anno);
+
+4) psicologia sociale (primo anno);
+
+5) tecniche psicodiagnostiche;
+
+6) psicologia dinamica.
+
+Gli insegnamenti di cui al punto b) sono: per l'indirizzo medico:
+
+1) psicologia dello sviluppo;
+
+2) psicofisiologia;
+
+3) psicofarmacologia;
+
+4) psicopatologia e neuropsichiatria;
+
+5) medicina psicosomatica;
+
+6) psicologia clinica;
+
+7) psicoterapia;
+
+8) psicologia criminologica, giudiziaria e penitenziaria;
+
+9) igiene mentale.
+
+Per l'indirizzo differenziale e scolastico:
+
+1) Fondamenti di biologia generale e di anatomia fisiologia umana;
+
+2) psicologia dell'eta' evolutiva (secondo anno);
+
+3) pedagogia;
+
+4) istituzioni di psicopatologia e igiene mentale;
+
+5) psicologia pedagogica (comprendente la decimologia le tecniche di valutazione scolastica e le tecniche di intervento individuale e di gruppo);
+
+6) psicologia del disadattamento scolastico e professionale nell'eta' evolutiva;
+
+7) orientamento scolastico e professionale.
+
+Per l'indirizzo industriale e del lavoro:
+
+1) fondamenti di biologia generale e di anatomia e fisiologia umana;
+
+2) istituzioni di psicopatologia e di igiene mentale;
+
+3) psicologia del lavoro (comprendente la ergonomia, l'analisi e la valutazione delle mansioni e profili professionali e la psicologia delle relazioni interpersonali nell'ambiente di lavoro);
+
+4) psicologia del disadattamento lavorativo (comprendente il riadattamento professionale del minorato);
+
+5) analisi motivazionale;
+
+6) orientamento scolastico e professionale;
+
+7) metodologia statistica e psicometria (secondo anno).
+
+Per l'indirizzo sociale:
+
+1) antropologia culturale;
+
+2) psicologia della comunicazione (comprendente la psicologia del linguaggio);
+
+3) psicologia sociale (secondo anno);
+
+4) sociologia;
+
+5) tecniche quantitative dell'indagine psicosociale;
+
+6) dinamiche di gruppo;
+
+7) ricerca motivazionale;
+
+8) tecniche di studio dell'opinione pubblica;
+
+9) patologia e controllo sociale.
+
+Le materie sopra indicate, quando sono elencate come comprendenti altre materie, possono dar luogo ad insegnamenti distinti. In alcuni casi altre materie possono essere raggruppate.
+
+Il manifesto-programma annuale indica gli indirizzi che vengono realizzati e gli eventuali insegnamenti integrativi impartiti durante l'anno accademico.
+
+Art. 145. - Al principio dell'anno viene stabilito il numero massimo degli allievi che possono iscriversi al primo anno di corso.
+
+Nel caso di domande di iscrizione eccedenti il numero stabilito, si procedera' alla scelta sulla base del risultato del colloquio previsto dall'articolo 137. Le altre norme di funzionamento verranno formulate nel regolamento della scuola.
+
+Art. 146. - Per il conseguimento del diploma l'allievo dovra' superare gli esami degli insegnamenti comuni e degli insegnamenti costitutivi dell'indirizzo prescelto e discutere una dissertazione su un tema attinente a una delle discipline specifiche dell'indirizzo.
+
+Art. 147. - Il finanziamento della scuola e' assicurato oltre che dai proventi delle tasse anche da una dotazione annua sul bilancio universitario. La scuola e' autorizzata a chiedere contributi a enti pubblici o privati e a ricevere eventuali lasciti o donazioni.
+
+Norma transitoria
+
+Per l'anno di apertura della scuola, il direttore e i docenti sono nominati direttamente dal consiglio della facolta' di magistero.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1969
+
+SARAGAT
+
+FERRARI AGGRADI
+
+Visto, il Guardasigilli: GAVA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 26 marzo 1970 Atti del Governo, registro n. 234, foglio n. 50. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
@@ -24,85 +204,109 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli da 106 a 118 relativi alla scuola di specializzazione in psicologia, in pedagogia, in psico-pedagogia sono abrogati e sostituiti dai seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in psicologia, annessa alla facolta' di magistero, con il conseguente spostamento della numerazione degli articoli successivi.  
   
-L'art. 140, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che le scuole, in "Chirurgia polmonare" e "Malattie dell'apparato digerente, della nutrizione e del ricambio" mutano rispettivamente la denominazione in quelle di scuola in "Chirurgia toracopolmonare" e in "Malattie dell'apparato digerente".  
+Scuola di specializzazione in psicologia  
   
-Gli articoli da 209 a 217 relativi alla scuola in "Chirurgia polmonare" che muta la denominazione in quella di scuola in "Chirurgia toraco-polmonare" sono abrogati e sostituiti dai seguenti.  
+Art. 134. - E' istituita una scuola di specializzazione in psicologia annessa alla facolta' di magistero della Universita' di Torino.  
   
-Scuola di specializzazione in chirurgia toraco-polmonare  
+Art. 135. - La scuola e' articolata nei seguenti indirizzi:  
+a) indirizzo medico;  
+b) indirizzo differenziale e scolastico;  
+c) indirizzo industriale e del lavoro;  
+d) indirizzo sociale.  
   
-Art. 209. - Per il conseguimento del diploma di specialista in chirurgia toraco-polmonare si richiedono tre anni di corso.  
-Art. 210. - La scuola e' costituita presso il centro di chirurgia toraco-polmonare dell'Universita' di Torino ed e' posta sotto la direzione e la diretta sorveglianza del direttore del centro di chirurgia toraco-polmonare, coadiuvato da docenti da lui proposti e particolarmente preparati su tale materia.  
-Art. 211. - Il materiale didattico e' costituito dai degenti per affezioni delle vie respiratorie del centro toraco-polmonare, dal materiale anatomo-patologico e dalla documentazione raccolta nel museo e nell'archivio del centro, nonche' dalla biblioteca.  
-Art. 212. - Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti specialistici.  
-Gli insegnamenti impartiti dalla scuola sono i seguenti:  
+Art. 136. - Per lo svolgimento della sua attivita' la scuola si avvale delle strutture dell'istituto di psicologia e di altri istituti interessati.  
   
-1° Anno:  
-1) embriologia, anatomia descrittiva e topografia dell'apparato respiratorio (annuale);  
-2) anatomia chirurgica dell'apparato toraco-polmonare (annuale);  
-3) fisiologia e fisiopatologia dell'apparato respiratorio e valutazione funzionale (biennale);  
-4) anatomia patologica delle affezioni dell'apparato toraco-polmonare (annuale);  
-5) anestesia e rianimazione in chirurgia dell'apparato respiratorio (annuale).  
+Art. 137. - Titolo di ammissione e' la laurea in qualsiasi disciplina, conseguita presso una universita' italiana, oppure un titolo di studio straniero equipollente. Per il solo indirizzo medico e' richiesta la laurea in medicina e chirurgia.  
+L'accettazione della domanda di iscrizione alla scuola avviene previo accertamento dell'idoneita' del candidato attraverso un colloquio.  
   
-2° Anno:  
-1) fisiologia e fisiopatologia dell'apparato respiratorio e valutazione funzionale (biennale);  
-2) semeiotica e diagnostica clinica e strumentale delle affezioni dell'apparato respiratorio, dell'esofago e del mediastino (annuale);  
-3) diagnostica radiologica toraco-polmonare (annuale);  
-4) patologia, clinica e terapia chirurgica delle affezioni dell'apparato respiratorio, della parete toracica e del mediastino (biennale).  
+Art. 138. - La scuola e' triennale; non sono consentite abbreviazioni.  
   
-3° Anno:  
-1) patologia, clinica e terapia chirurgica delle affezioni dell'apparato respiratorio, della parete toracica e del mediastino (biennale);  
-2) patologia, clinica e terapia chirurgica delle affezioni dell'esofago e del diaframma (annuale);  
-3) chirurgia della tubercolosi polmonare (annuale);  
-4) tecnica operatoria per le affezioni dell'apparato toraco-polmonare (annuale);  
-5) elementi di fisioterapia respiratoria (annuale).  
+Art. 139. - Al termine del corso la scuola rilascia il diploma di "specialista in psicologia" con l'indicazione dell'indirizzo seguito.  
   
-Durante i tre anni di corso verranno quotidianamente tenute esercitazioni di diagnostica, di tecnica operatoria, di laboratorio ed anche di indole pratica.  
-Art. 213. - La frequenza alle lezioni e conferenze ed esercitazioni teoriche e pratiche e' obbligatoria.  
-Art. 214. - Alla fine di ciascun anno accademico gli specializzandi che abbiano ottenuto le firme di frequenza dovranno sostenere uni esame di profitto nelle materie fondamentali, il cui superamento e' condizione necessaria per l'iscrizione dell'anno successivo e per quelli che sono stati iscritti a quest'ultimo, per l'ammissione all'esame di diploma.  
-Art. 215. - Alla fine del terzo anno del corso ha luogo l'esame di diploma, consistente nella presentazione e discussione di una dissertazione scritta su argomento di chirurgia dell'apparato respiratorio concordato tra il diplomando ed il direttore della scuola all'inizio del terzo anno di corso. La dissertazione deve essere approvata dal direttore stesso e depositata presso la direzione almeno quindici giorni prima dell'esame.  
-Art. 216. - Il numero degli iscritti e' di quarantaquattro (44) per i tre anni di corso.  
-Art. 217. - La commissione per gli esami di profitto e' costituita dal direttore della scuola e da due membri scelti tra i docenti del corso.  
-La commissione per l'esame di diploma e' formata da sette membri ed e' presieduta dal preside della facolta' o da un professore da lui delegato.  
-Di essa fanno parte altri membri scelti dal preside fra i professori ed i liberi docenti dell'Universita' di Torino.  
+Art. 140. - Il consiglio della scuola e' costituito da tutti i docenti (scelti anche tra esperti) ai quali sia stato affidato un corso di insegnamento, e dai rappresentanti degli allievi eletti di anno in anno dagli allievi della scuola in numero di due per ogni indirizzo. Il consiglio della scuola propone al consiglio della facolta' di magistero la nomina del direttore e dei docenti, provvede al coordinamento dei vari corsi, discute i programmi presentati dai singoli docenti, predispone l'orario delle lezioni, dei seminari e delle esercitazioni.  
   
-Gli articoli 242 e 244 relativi alla scuola di specializzazione in "Malattie dell'apparato digerente, della nutrizione e del ricambio" che muta la denominazione in quella di scuola di specializzazione in "Malattie dello apparato digerente" sono abrogati e sostituiti dai seguenti.  
+Art. 141. - La direzione della scuola e' affidata a un docente di materie psicologiche nominato dal consiglio della facolta' di magistero per la durata di un biennio.  
   
-Scuola di specializzazione in malattie dell'apparato digerente  
+Art. 142. - Il consiglio della scuola elegge fra i suoi membri il direttore proponendone la nomina alla facolta'. Il consiglio della scuola provvede al coordinamento dei vari corsi, discute i programmi presentati dai singoli docenti, predispone l'orario delle lezioni, dei seminari e delle esercitazioni.  
   
-Art. 242. - E' istituita presso la facolta' di medicina e chirurgia la scuola di specializzazione in malattie dell'apparato digerente.  
-La durata del corso e' di quattro anni: tre anni di corso con frequenza obbligatoria ed esami, ed un anno di tirocinio pratico presso la clinica medica.  
-Alla scuola sono ammessi i laureati in medicina e chirurgia.  
-Il numero massimo degli iscritti e' di cinque per ogni anno di corso.  
-Art. 244. - Il piano di studi e' il seguente:  
+Art. 143. - Gli insegnamenti sono suddivisi in tre gruppi:  
+a) insegnamenti comuni a tutti gli indirizzi (per il 1° anno di corso), obbligatori per tutti gli allievi indipendentemente dall'indirizzo prescelto;  
+b) insegnamenti costitutivi di ciascun indirizzo (per il 2° e il 3° anno di corso), obbligatori nell'ambito dell'indirizzo prescelto;  
+c) insegnamenti integrativi stabiliti ogni anno dal consiglio della scuola e pubblicati nel manifesto-programma annuale.  
   
-1° Anno:  
-Anatomia patologica; fisiopatologia; chimica clinica; semeiotica fisica e strumentale; clinica medica.  
+Art. 144. - Gli insegnamenti di cui al punto a) sono:  
+1) psicologia generale (comprendente metodologia, teorie della personalita', psicologia differenziale);  
+2) metodologia statistica e psicometria (primo anno);  
+3) psicologia dell'eta' evolutiva (primo anno);  
+4) psicologia sociale (primo anno);  
+5) tecniche psicodiagnostiche;  
+6) psicologia dinamica.  
   
-2° Anno:  
-Semeiotica fisica e strumentale; semeiotica radiologica; malattie del tubo digerente; clinica medica.  
+Gli insegnamenti di cui al punto b) sono: per l'indirizzo medico:  
+1) psicologia dello sviluppo;  
+2) psicofisiologia;  
+3) psicofarmacologia;  
+4) psicopatologia e neuropsichiatria;  
+5) medicina psicosomatica;  
+6) psicologia clinica;  
+7) psicoterapia;  
+8) psicologia criminologica, giudiziaria e penitenziaria;  
+9) igiene mentale.  
   
-3° Anno:  
-Malattie del fegato e del pancreas; clinica medica.  
+Per l'indirizzo differenziale e scolastico:  
+1) Fondamenti di biologia generale e di anatomia fisiologia umana;  
+2) psicologia dell'eta' evolutiva (secondo anno);  
+3) pedagogia;  
+4) istituzioni di psicopatologia e igiene mentale;  
+5) psicologia pedagogica (comprendente la decimologia le tecniche di valutazione scolastica e le tecniche di intervento individuale e di gruppo);  
+6) psicologia del disadattamento scolastico e professionale nell'eta' evolutiva;  
+7) orientamento scolastico e professionale.  
   
-4° Anno:  
-Tirocinio pratico da svolgersi in clinica medica.  
+Per l'indirizzo industriale e del lavoro:  
+1) fondamenti di biologia generale e di anatomia e fisiologia umana;  
+2) istituzioni di psicopatologia e di igiene mentale;  
+3) psicologia del lavoro (comprendente la ergonomia, l'analisi e la valutazione delle mansioni e profili professionali e la psicologia delle relazioni interpersonali nell'ambiente di lavoro);  
+4) psicologia del disadattamento lavorativo (comprendente il riadattamento professionale del minorato);  
+5) analisi motivazionale;  
+6) orientamento scolastico e professionale;  
+7) metodologia statistica e psicometria (secondo anno).  
   
-Per le materie biennali e triennali, sara' dato un esame al termine del biennio e del triennio.  
+Per l'indirizzo sociale:  
+1) antropologia culturale;  
+2) psicologia della comunicazione (comprendente la psicologia del linguaggio);  
+3) psicologia sociale (secondo anno);  
+4) sociologia;  
+5) tecniche quantitative dell'indagine psicosociale;  
+6) dinamiche di gruppo;  
+7) ricerca motivazionale;  
+8) tecniche di studio dell'opinione pubblica;  
+9) patologia e controllo sociale.  
+Le materie sopra indicate, quando sono elencate come comprendenti altre materie, possono dar luogo ad insegnamenti distinti. In alcuni casi altre materie possono essere raggruppate.  
+Il manifesto-programma annuale indica gli indirizzi che vengono realizzati e gli eventuali insegnamenti integrativi impartiti durante l'anno accademico.  
   
-Materie complementari:  
-Dietetica; indicazioni alla terapia chirurgica (semestrali).  
+Art. 145. - Al principio dell'anno viene stabilito il numero massimo degli allievi che possono iscriversi al primo anno di corso.  
+Nel caso di domande di iscrizione eccedenti il numero stabilito, si procedera' alla scelta sulla base del risultato del colloquio previsto dall'articolo 137. Le altre norme di funzionamento verranno formulate nel regolamento della scuola.  
+  
+Art. 146. - Per il conseguimento del diploma l'allievo dovra' superare gli esami degli insegnamenti comuni e degli insegnamenti costitutivi dell'indirizzo prescelto e discutere una dissertazione su un tema attinente a una delle discipline specifiche dell'indirizzo.  
+  
+Art. 147. - Il finanziamento della scuola e' assicurato oltre che dai proventi delle tasse anche da una dotazione annua sul bilancio universitario. La scuola e' autorizzata a chiedere contributi a enti pubblici o privati e a ricevere eventuali lasciti o donazioni.  
+  
+Norma transitoria  
+  
+Per l'anno di apertura della scuola, il direttore e i docenti sono nominati direttamente dal consiglio della facolta' di magistero.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 31 ottobre 1969
 
-LEONE SCALFARO
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 7 febbraio 1973
+Registrato alla Corte dei conti, addi' 26 marzo 1970
 
-Atti di Governo, registro n. 255, foglio n. 82. - VALENTINI
+Atti del Governo, registro n. 234, foglio n. 50. - CARUSO

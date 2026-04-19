@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1977 n. 728
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 giugno 1967 n. 914
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1977 n. 728
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 giugno 1967 n. 914
 =============================================================
 
 Modificazioni allo statuto della Scuola normale superiore di Pisa.
@@ -12,39 +12,39 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto della Scuola normale di Pisa, approvato con [decreto del Presidente della Repubblica 13 giugno 1965, n. 979](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-06-13;979), e modificato con [decreto del Presidente della Repubblica 24 giugno 1967, n. 914](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-06-24;914), e successive modificazioni;  
+Veduto lo statuto della Scuola normale superiore di Pisa, approvato con [decreto del Presidente della Repubblica del 15 giugno 1965, n. 979](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-06-15;979);  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche della Scuola anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici della Scuola normale superiore di Pisa e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto della Scuola normale superiore di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-L'art. 5, relativo alla composizione del consiglio direttivo, e' modificato nel modo seguente:  
-La lettera h) del primo comma e' abrogata e sostituita dalle seguenti:  
-h) di un rappresentante del personale non docente;  
-i) del direttore amministrativo.  
-Dopo il quarto comma e' aggiunto il seguente:  
-"Il rappresentante del personale non docente e' eletto il 31 dicembre di ogni anno a scrutinio segreto da tutti i dipendenti non docenti della Scuola, di ruolo e non di ruolo, risultanti in servizio nel mese in cui ha luogo l'elezione e rimane in carica fino all'avvenuta elezione del rappresentante dell'anno successivo, comunque non oltre il 31 dicembre.  
-Se viene a cessare nel corso dell'anno sara' sostituito da coloro che lo seguono nell'ordine di designazione per numero di voti".  
-L'attuale sesto comma e' abrogato e sostituito dal seguente:  
-"Le funzioni di segretario del consiglio sono esercitate dal direttore amministrativo. Questi, unitamente al rappresentante del personale non docente di cui alla lettera h), partecipa alle riunioni con voto deliberante per le questioni amministrative e concernenti il personale non insegnante della Scuola".  
+Lo statuto della Scuola normale superiore di Pisa, approvato e modificato con il decreto sopraindicato, e' ulteriormente modificato come appresso:  
+Art. 23. - E' abrogato e sostituito dal seguente:  
+"Per le spese ed i discarichi inventariali si osservano le disposizioni legislative vigenti in materia per le Universita' e gli Istituti superiori statali".  
+Artt. 34 e 35. - Sono abrogati e sostituiti dal seguente (con il conseguente spostamento della numerazione degli articoli successivi):  
+Art. 34. - "Il Consiglio direttivo, nell'approvare nei termini e nei modi di cui all'art. 27 il bando di concorso per il corso ordinario, stabilisce le materie su cui verteranno le prove, sia scritte che orali, degli esami di ammissione del concorso ordinario conformemente ai fini istituzionali della Scuola. Esse non potranno comunque essere inferiori, sia per la classe di Lettere che di Scienze, al numero appresso indicato:  
+1) per l'ammissione al primo anno almeno due prove scritte e una prova orale atta a dimostrare l'adeguato livello intellettuale e culturale del candidato;  
+2) per l'ammissione al secondo e terzo anno almeno tre prove scritte; prove orali sulle materie dei programmi di studio consigliati per l'anno precedente dalla Facolta' di provenienza, secondo il tipo di laurea prescelto dal candidato".  
+Art. 39 (gia' 40). - Il primo comma e' abrogato e sostituito dal seguente:  
+"La Scuola puo' accogliere, come alunni, studenti o laureati in discipline umanistiche o scientifiche presso le Universita' estere di maggior fama secondo gli indirizzi di studio particolarmente coltivati presso la Scuola e che intendono perfezionarsi in Italia".  
+Art. 48 (gia' 49). - E' abrogato e sostituito dal seguente:  
+"Il Consiglio direttivo puo' ammettere a sostenere l'esame per il conferimento del diploma di perfezionamento giovani laureati in discipline umanistiche o scientifiche i quali, pur non appartenendo alla Scuola come alunni, abbiano dimostrato, per studi compiuti o pubblicazioni fatte, notevole perizia nella disciplina nella quale chiedono il diploma, sempreche' la medesima sia particolarmente coltivata nella Scuola".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 giugno 1977
+### Dato a Roma, addi' 24 giugno 1967
 
-LEONE MALFATTI
+SARAGAT GUI
 
-Visto, il Guardasigilli BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 26 settembre 1977
+Registrato alla Corte dei conti, addi' 11 ottobre 1967
 
-Registro n. 106 Istruzione, foglio n. 368
+Atti del Governo, registro n. 214, foglio n. 43. - GRECO

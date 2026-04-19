@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 922
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1973 n. 74
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 922
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1973 n. 74
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -10,55 +10,276 @@ Modificazioni allo statuto dell'Universita' degli studi di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
-
-Veduto il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso;
 
-Articolo unico
---------------
+L'art. 140, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola in igiene muta la denominazione in quella di igiene e medicina preventiva.
 
+Nello stesso elenco la scuola in medicina scolastica e' soppressa.
+
+Gli articoli 178-179 relativi alla "Scuola di specializzazione in igiene" che muta la denominazione in quella di "Scuola di specializzazione in igiene e medicina preventiva" sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in igiene
+
+e medicina preventiva
+
+Art. 178. - La scuola di specializzazione in igiene e medicina preventiva ha la durata di tre anni.
+
+La scuola conferisce il diploma di specialista in igiene e medicina preventiva con gli orientamenti di sanita' pubblica, laboratorio, igiene e tecnica ospedaliera, igiene e medicina scolastica.
+
+Alla scuola sono ammessi i laureati in medicina e chirurgia in numero di venti (20) per ogni - anno di corso.
+
+Art. 179. - Gli insegnamenti impartiti sono i seguenti:
+
+1° Anno:
+
+Metodologia statistica e biometria;
+
+Psicologia;
+
+Microbiologia e immunologia;
+
+Parassitologia;
+
+Epidemiologia e profilassi generale;
+
+Educazione sanitaria.
+
+2° Anno:
+
+Patologia e clinica delle malattie infettive;
+
+Epidemiologia e profilassi delle malattie infettive;
+
+Patologia e clinica delle malattie non infettive di importanza sociale;
+
+Epidemiologia e profilassi delle malattie non infettive di importanza sociale;
+
+Demografia e statistica sanitaria;
+
+Legislazione e organizzazione sanitaria.
+
+3° Anno (con orientamento di sanita' pubblica):
+
+Approvigionamento idrico; raccolta e smaltimento dei rifiuti solidi e liquidi;
+
+Inquinamenti atmosferici;
+
+Igiene edilizia e urbanistica;
+
+Igiene dell'alimentazione;
+
+Igiene e medicina scolastica;
+
+Igiene ospedaliera;
+
+Servizi di sanita' pubblica;
+
+(con orientamento di laboratorio)
+
+Microscopia applicata all'igiene;
+
+Microbiologia applicata all'igiene;
+
+Chimica clinica;
+
+Accertamento diagnostico delle malattie batteriche e parassitarie;
+
+Accertamento diagnostico delle infezioni virali;
+
+Nozioni di anatomia e istologia patologica.
+
+Materie complementari:
+
+Ispezioni delle carni;
+
+Geologia applicata all'igiene;
+
+Igiene mentale;
+
+Malattie mentali e loro prevenzioni;
+
+Diritto sanitario;
+
+Igiene navale e dell'emigrazione;
+
+Antropologia culturale e sociologica;
+
+Malattie tropicali;
+
+Istituzioni di matematica;
+
+Genetica;
+
+Gerontologia e geriatria;
+
+Elementi di economia politica;
+
+(con orientamento di igiene e tecnica e direzione ospedaliera)
+
+Storia degli ospedali e principi metodologici dell'assistenza ospedaliera;
+
+Igiene e tecnica delle costruzioni ospedaliere, arredamento ed impianti sanitari;
+
+Organizzazione e funzione degli ospedali generali e speciali;
+
+Diritto amministrativo e legislazione ospedaliera;
+
+Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospedaliera;
+
+Selezione e istruzione professionale del personale ospedaliero;
+
+Organizzazione e funzione dei laboratori di analisi di accertamento necroscopico;
+
+(con orientamento di igiene e medicina scolastica)
+
+Auxologia normale e patologica;
+
+Epidemiologia e profilassi delle malattie dell'eta' scolare;
+
+Servizi di medicina scolastica;
+
+Elementi di psicologia e pedagogia per l'eta' scolare;
+
+Assistenza para-scolastica;
+
+Edilizia scolastica.
+
+Gli articoli da 236 a 241 relativi al corso di perfezionamento in medicina scolastica sono soppressi, con il conseguente spostamento della numerazione degli articoli successivi.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 2 febbraio 1973
+
+LEONE
+
+SCALFARO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 3 aprile 1973 Atti di Governo, registro n. 257, foglio n. 37. - VALENTINI
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Nell'art. 48, relativo al corso di laurea in pedagogia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-storia dell'estetica moderna;  
-sociologia dell'organizzazione.  
-Nell'art. 47, relativo al corso di laurea in materie letterarie, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-storia dell'estetica moderna;  
-sociologia dell'organizzazione.  
-Nell'art. 49, relativo al corso di laurea in lingue e letterature straniere, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-storia dell'estetica moderna;  
-sociologia dell'organizzazione.  
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
+  
+Decreta:   
+  
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso;   
+L'art. 140, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola in igiene muta la denominazione in quella di igiene e medicina preventiva.   
+Nello stesso elenco la scuola in medicina scolastica e' soppressa.   
+Gli articoli 178-179 relativi alla "Scuola di specializzazione in igiene" che muta la denominazione in quella di "Scuola di specializzazione in igiene e medicina preventiva" sono abrogati e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in igiene   
+e medicina preventiva   
+Art. 178. - La scuola di specializzazione in igiene e medicina preventiva ha la durata di tre anni.   
+La scuola conferisce il diploma di specialista in igiene e medicina preventiva con gli orientamenti di sanita' pubblica, laboratorio, igiene e tecnica ospedaliera, igiene e medicina scolastica.   
+Alla scuola sono ammessi i laureati in medicina e chirurgia in numero di venti (20) per ogni - anno di corso.   
+Art. 179. - Gli insegnamenti impartiti sono i seguenti:   
+  
+1° Anno:   
+Metodologia statistica e biometria;   
+Psicologia;   
+Microbiologia e immunologia;   
+Parassitologia;   
+Epidemiologia e profilassi generale;   
+Educazione sanitaria.   
+  
+2° Anno:   
+Patologia e clinica delle malattie infettive;   
+Epidemiologia e profilassi delle malattie infettive;   
+Patologia e clinica delle malattie non infettive di importanza sociale;   
+Epidemiologia e profilassi delle malattie non infettive di importanza sociale;   
+Demografia e statistica sanitaria;   
+Legislazione e organizzazione sanitaria.   
+  
+3° Anno (con orientamento di sanita' pubblica):   
+Approvigionamento idrico; raccolta e smaltimento dei rifiuti solidi e liquidi;   
+Inquinamenti atmosferici;   
+Igiene edilizia e urbanistica;   
+Igiene dell'alimentazione;   
+Igiene e medicina scolastica;   
+Igiene ospedaliera;   
+Servizi di sanita' pubblica;   
+(con orientamento di laboratorio)   
+Microscopia applicata all'igiene;   
+Microbiologia applicata all'igiene;   
+Chimica clinica;   
+Accertamento diagnostico delle malattie batteriche e parassitarie;   
+Accertamento diagnostico delle infezioni virali;   
+Nozioni di anatomia e istologia patologica.   
+  
+Materie complementari:   
+Ispezioni delle carni;   
+Geologia applicata all'igiene;   
+Igiene mentale;   
+Malattie mentali e loro prevenzioni;   
+Diritto sanitario;   
+Igiene navale e dell'emigrazione;   
+Antropologia culturale e sociologica;   
+Malattie tropicali;   
+Istituzioni di matematica;   
+Genetica;   
+Gerontologia e geriatria;   
+Elementi di economia politica;   
+(con orientamento di igiene e tecnica e direzione ospedaliera)   
+Storia degli ospedali e principi metodologici dell'assistenza ospedaliera;   
+Igiene e tecnica delle costruzioni ospedaliere, arredamento ed impianti sanitari;   
+Organizzazione e funzione degli ospedali generali e speciali;   
+Diritto amministrativo e legislazione ospedaliera;   
+Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospedaliera;   
+Selezione e istruzione professionale del personale ospedaliero;   
+Organizzazione e funzione dei laboratori di analisi di accertamento necroscopico;   
+(con orientamento di igiene e medicina scolastica)   
+Auxologia normale e patologica;   
+Epidemiologia e profilassi delle malattie dell'eta' scolare;   
+Servizi di medicina scolastica;   
+Elementi di psicologia e pedagogia per l'eta' scolare;   
+Assistenza para-scolastica;   
+Edilizia scolastica.   
+  
+Gli articoli da 236 a 241 relativi al corso di perfezionamento in medicina scolastica sono soppressi, con il conseguente spostamento della numerazione degli articoli successivi.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 giugno 1983
+### Dato a Roma, addi' 2 febbraio 1973
 
-PERTINI FALCUCCI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 30 gennaio 1984
+Registrato alla Corte dei conti, addi' 3 aprile 1973
 
-Registro n. 5 Istruzione, foglio n. 5
+Atti di Governo, registro n. 257, foglio n. 37. - VALENTINI

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 maggio 1978 n. 360
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 giugno 1978 n. 366
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 maggio 1978 n. 360
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 giugno 1978 n. 366
 =============================================================
 
 Recupero di un posto di assistente ordinario e sua assegnazione alla facolta' di medicina e chirurgia dell'Universita' di Roma.
@@ -10,17 +10,23 @@ Recupero di un posto di assistente ordinario e sua assegnazione alla facolta' di
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Visto il [decreto del Presidente della Repubblica 19 giugno 1961, n. 891](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-06-19;891), con cui fu assegnato un posto di assistente ordinario alla cattedra di filosofia del diritto della facolta' di giurisprudenza dell'Universita' di Trieste e il successivo [decreto del Presidente della Repubblica 6 febbraio 1971, n. 331](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-02-06;331), con cui il posto stesso fu trasferito alla cattedra omonima della facolta' di scienze politiche della stessa Universita';
+Vista la [legge 18 marzo 1958, n. 349](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-18;349) ed in particolare l'art. 2 e l'ultimo comma dell'art. 13;
 
-Considerato che tale posto e' vacante dal 1 novembre 1971 per nomina a professore straordinario dell'ultimo assistente titolare prof. Arduino Agnelli e per la mancanza di idonei aventi titolo all'inquadramento ai sensi dell'[art. 3 della legge 30 novembre 1973, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766~art3);
+Visto il decreto ministeriale 2 luglio 1949, con cui e' stato assegnato, tra gli altri, un posto di assistente di ruolo alla cattedra di ostetricia e ginecologia veterinaria della facolta' di medicina veterinaria dell'Universita' di Bologna;
 
-Considerato che non si e' provveduto alla copertura del posto nel termine fissato dall'ultimo comma dell'[art. 13 della legge 18 marzo 1950, n. 349](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-03-18;349~art13);
+Visto il [decreto del Presidente della Repubblica 31 ottobre 1975, n. 863, pubblicato nella Gazzetta Ufficiale n. 46 del 20 febbraio 1976](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1976-02-20&numeroGazzetta=46), con cui il posto di cui sopra, insieme ad altri, e' stato trasferito (vacante) alla cattedra di scienza e tecnica della fecondazione artificiale della stessa facolta' ed Universita' con decorrenza 1 novembre 1975;
 
-Ritenuto che, per tale ragione sono venuti meno i motivi che a suo tempo determinarono l'assegnazione del posto stesso alla cattedra sopracitata;
+Visto il decreto rettorale 17 giugno 1977, il quale ha recepito la delibera 12 maggio 1977 con cui il consiglio di facolta' di medicina veterinaria dell'Universita' di Bologna ha stabilito con efficacia costitutiva, ai sensi dell'[art. 1 della legge 12 febbraio 1977, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-02-12;34~art1), che il posto di cui si tratta e' trasferito, sempre vacante, alla cattedra di patologia della riproduzione e fecondazione artificiale della stessa facolta';
 
-Vista la nota 23 marzo 1978 con cui il titolare della cattedra in soprannumero di medicina del lavoro della facolta' di medicina e chirurgia dell'Universita' di Roma chiede che venga assegnato alla cattedra stessa un posto di assistente per sopperire alla notevole mole di lavoro didattico e scientifico cui la cattedra deve far fronte;
+Viste le note 25 luglio 1977, n. 18279 e 17 settembre 1977; n. 31185, del rettore dell'Universita' di Bologna da cui si evince che il posto di cui si tratta e' libero dal 1 novembre 1971 e che non ci sono aventi titoli all'inquadramento ai sensi dell'[art. 3 della legge 30 novembre 1973, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766~art3);
 
-Ravvisata, pertanto, la necessita' e l'opportunita' di assegnare il posto in questione alla cattedra in soprannumero di medicina del lavoro della facolta' di medicina e chirurgia dell'Universita' di Roma;
+Considerato che non si e' provveduto alla copertura del posto nel termine fissato dall'ultimo comma dell'[art. 13 della legge 18 marzo 1958, n. 349](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-18;349~art13);
+
+Ritenuto che per tale ragione sono venuti meno i motivi che a suo tempo determinarono l'assegnazione del posto stesso alla cattedra sopracitata;
+
+Vista la nota del 4 aprile 1978, con cui il titolare della prima cattedra di microbiologia della facolta' di medicina e chirurgia dell'Universita' di Roma chiede che gli venga assegnato alla cattedra stessa un posto di assistente per le attivita' inerenti alla virologia a causa della notevole attivita' e didattica e scientifica afferente all'insegnamento;
+
+Ravvisata, pertanto, la necessita' e l'opportunita' di assegnare il posto in questione alla prima cattedra di microbiologia della facolta' di medicina e chirurgia dell'Universita' di Roma;
 
 Sulla
 -----
@@ -31,24 +37,24 @@ Art. 1
 ------
 
   
-Il posto di assistente ordinario gia' assegnato con [decreto del Presidente della Repubblica 19 giugno 1961, n. 891](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-06-19;891), alla cattedra di filosofia del diritto della facolta' di giurisprudenza dell'Universita' di Trieste, e, successivamente trasferito con [decreto del Presidente della Repubblica 6 febbraio 1971, n. 331](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-02-06;331), alla cattedra omonima della facolta' di scienze politiche della stessa Universita', e' recuperato.  
+Il posto di assistente ordinario gia' assegnato con decreto ministeriale 2 luglio 1949 alla cattedra di ostetricia e ginecologia veterinaria della facolta' di medicina veterinaria dell'Universita' di Bologna, successivamente trasferito con [decreto del Presidente della Repubblica 31 ottobre 1975, n. 863](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1975-10-31;863), alla cattedra di scienza e tecnica della fecondazione artificiale e successivamente con decreto rettorale 17 giugno 1977 alla cattedra di patologia della riproduzione e fecondazione artificiale della stessa facolta' ed Universita', e' recuperato.  
 
 Art. 2
 ------
 
   
-Il posto di cui all'art. 1 del presente decreto e' assegnato alla cattedra in soprannumero di medicina del lavoro della facolta' di medicina e chirurgia dell'Universita' di Roma.  
+Il posto di cui si tratta e' assegnato alla cattedra di microbiologia I della facolta' di medicina e chirurgia dell'Universita' di Roma e specificatamente per un assistente virologo.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 maggio 1978
+### Dato a Roma, addi' 26 giugno 1978
 
-LEONE PEDINI
+p. Il Presidente della Repubblica Il Presidente del Senato FANFANI PEDINI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 30 giugno 1978
+Registrato alla Corte dei conti, addi' 11 luglio 1978
 
-Registro n. 73 Istruzione, foglio n. 101
+Registro n. 74 Istruzione, foglio n. 114

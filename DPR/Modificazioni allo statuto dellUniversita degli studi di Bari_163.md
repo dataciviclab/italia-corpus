@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1965 n. 419
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1118
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1965 n. 419
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1118
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Bari approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,170 +20,43 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 7. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di:
-
-"Organizzazione internazionale".
-
-Art. 10, relativo alle modalita' di insegnamento delle lingue straniere per il corso di laurea in Scienze politiche e' soppresso, con il conseguente spostamento della successiva numerazione.
-
-Art. 18, concernente il Seminario giuridico, e' modificato nel senso che il secondo comma e' abrogato e sostituito dal seguente: "La Direzione della biblioteca e' affidata ad un bibliotecario di gruppo A, nominato con pubblico concorso, il quale svolgera' la sua attivita' secondo le direttive del Seminario".
-
-Art. 49. - Agli Istituti della Facolta' di agraria e' aggiunto il seguente:
-
-"Istituto di Entomologia agraria".
-
-Art. 79. - L'insegnamento complementare di Astronomia del corso di laurea in Matematica per l'indirizzo didattico viene contraddistinto con un asterisco (\*), per indicare che e' fra i corsi a scelta dello studente ad indirizzo fisico.
-
-Art. 94. - Agli Istituti della Facolta' di scienze matematiche, fisiche e naturali e' aggiunto l'"Osservatorio di Geofisica e Fisica cosmica".
-
-Nello stesso articolo la denominazione dell'Istituto di "Chimica, biologica" viene cosi' integrata: "Istituto di Chimica biologica (comprendente il Centro di studi sulla alimentazione)".
-
-Dopo l'art. 99, e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli, relativi al Centro di studi sull'alimentazione, al Seminario di studi chimici e all'Osservatorio di Geofisica, e Fisica cosmica.
-
-Centro di studi sull'alimentazione
-
-Art. 100. - Presso la Facolta' di scienze viene istituito un Centro di studi sull'alimentazione che ha per finalita' studi sperimentali ed attivita' sociali attinenti a problemi di biochimica alimentare e relative tecniche produttivistiche.
-
-Art. 101. - Tale Centro ha sede presso l'Istituto di Chimica biologica il cui direttore assume anche la direzione di detto Centro.
-
-Art. 102. - Per la gestione di tale Centro verranno utilizzati i fondi di ordinaria amministrazione dell'Istituto di Chimica biologica ed eventuali sovvenzioni da parte di enti o di privati.
-
-Seminario di studi chimici
-
-Art. 103. - Viene istituito il Seminario di studi chimici, cui partecipano i diversi istituti chimici della Facolta' di scienze.
-
-Il Seminario di studi chimici ha le seguenti finalita' 1) organizzare simposi, conferenze, cicli di lezione, riunioni e pubblicazioni al fine di ampliare e completare la preparazione degli studenti e dei ricercatori e permettere un aggiornamento sui piu' moderni campi della ricerca pura e applicata 2) promuovere e facilitare la collaborazione tra i vari Istituti chimici mettendo a, disposizione degli stessi servizi, apparecchiature e ogni altro mezzo idoneo allo scopo.
-
-Art. 104. - Organo direttivo del seminario di studi chimici e' un Comitato costituito da tutti i professori di ruolo delle discipline chimiche della Facolta' di scienze.
-
-Il Comitato nomina nel suo seno un direttore del Seminario, che durera' in carica un anno accademico.
-
-Art. 105. - Le attivita' del Seminario di studi chimici sono determinate e organizzate dal Comitato.
-
-Gli atti amministrativi avranno la firma del solo direttore che risponde personalmente del funzionamento del Seminario al Comitato.
-
-Osservatorio di Geofisica e Fisica cosmica
-
-Art. 106. - E' istituito presso l'Universita' di Bari un osservatorio per la ricerca scientifica nel campo della Geofisica e della Fisica cosmica.
-
-Art. 107. - Sono preposti alla Direzione dell'osservatorio:
-
-il Comitato direttivo;
-
-il direttore tecnico.
-
-Art. 108. - Il Comitato direttivo e' costituito da tre professori di ruolo della Universita' di Bari nominati dal rettore su proposta della Facolta' di scienze.
-
-Di essi due sono scelti fra i professori del gruppo geomineralogico e del gruppo fisico della Facolta' stessa.
-
-Tali professori avranno la qualifica di membri effettivi e potranno essere sostituiti, in caso di assenza o impedimento, da due membri supplenti nominati anche dal rettore, su proposta della. Facolta' di scienze, tra i professori titolari di cattedra della Facolta' stessa e graduati secondo l'anzianita' di ruolo.
-
-Art. 109. - Il Comitato direttivo dura in carica un triennio accademico. Esso nomina, nella prima seduta, il suo presidente che rimane in carica per il detto triennio.
-
-Art. 110. - Nel caso che, prima della scadenza del triennio, uno dei membri effettivi venga comunque a cessare dal servizio o a trovarsi definitivamente nella impossibilita' di esercitare le sue funzioni, si provvedera' a nominare effettivo il membro supplente piu' anziano del ruolo, procedendosi quindi alla nomina di altro membro supplente in sostituzione di quello passato effettivo.
-
-Sia il primo che il secondo dureranno pero' in carica sempre fino alla scadenza del triennio.
-
-Qualora la cessazione dal servizio o la definitiva impossibilita' di esercitare le funzioni riguardi proprio il presidente, si procedera' alla nomina del nuovo presidente dopo aver integrato la composizione del Comitato nei sensi prescritti dal comma precedente.
-
-Ed il nuovo presidente rimarra' in carica sempre fino alla fine del triennio.
-
-Art. 111. - Il Comitato direttivo discute, approva, e dirige il programma generale di ricerca scientifica e delibera sin tutte le questioni che riguardano l'attivita' dell'Osservatorio. Il presidente convoca e presiede le riunioni del Comitato e ne fa eseguire le deliberazioni.
-
-Art. 112. - Il direttore tecnico dell'Osservatorio e' nominato dal rettore su proposta del Comitato direttivo. Egli opera in conformita' alle direttive del Comitato per la organizzazione e il funzionamento dei servizi, rispondendo personalmente, per l'attivita' corrente, al presidente del Comitato.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 18 marzo 1965
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 6 maggio 1965 Atti del Governo, registro n. 193, foglio n. 15. - VILLA
+Lo statuto dell'Universita' di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso;
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Nel secondo comma dell'art. 275, relativo alla scuola di preparazione per tecnici di audiometria (scuola diretta ai fini speciali), la frase: "La commissione per gli esami di diploma e' costituita dal direttore della scuola stessa, e da altri docenti", e' soppressa e sostituita dalla seguente: "La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro insegnanti della scuola stessa o da altri docenti".  
+
+Art. 2
+------
+
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 7. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di:  
-"Organizzazione internazionale".  
-Art. 10, relativo alle modalita' di insegnamento delle lingue straniere per il corso di laurea in Scienze politiche e' soppresso, con il conseguente spostamento della successiva numerazione.  
-Art. 18, concernente il Seminario giuridico, e' modificato nel senso che il secondo comma e' abrogato e sostituito dal seguente: "La Direzione della biblioteca e' affidata ad un bibliotecario di gruppo A, nominato con pubblico concorso, il quale svolgera' la sua attivita' secondo le direttive del Seminario".  
-Art. 49. - Agli Istituti della Facolta' di agraria e' aggiunto il seguente:  
-"Istituto di Entomologia agraria".  
-Art. 79. - L'insegnamento complementare di Astronomia del corso di laurea in Matematica per l'indirizzo didattico viene contraddistinto con un asterisco (\*), per indicare che e' fra i corsi a scelta dello studente ad indirizzo fisico.  
-Art. 94. - Agli Istituti della Facolta' di scienze matematiche, fisiche e naturali e' aggiunto l'"Osservatorio di Geofisica e Fisica cosmica".  
-Nello stesso articolo la denominazione dell'Istituto di "Chimica, biologica" viene cosi' integrata: "Istituto di Chimica biologica (comprendente il Centro di studi sulla alimentazione)".  
-Dopo l'art. 99, e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli, relativi al Centro di studi sull'alimentazione, al Seminario di studi chimici e all'Osservatorio di Geofisica, e Fisica cosmica.  
-Centro di studi sull'alimentazione  
-Art. 100. - Presso la Facolta' di scienze viene istituito un Centro di studi sull'alimentazione che ha per finalita' studi sperimentali ed attivita' sociali attinenti a problemi di biochimica alimentare e relative tecniche produttivistiche.  
-Art. 101. - Tale Centro ha sede presso l'Istituto di Chimica biologica il cui direttore assume anche la direzione di detto Centro.  
-Art. 102. - Per la gestione di tale Centro verranno utilizzati i fondi di ordinaria amministrazione dell'Istituto di Chimica biologica ed eventuali sovvenzioni da parte di enti o di privati.  
-Seminario di studi chimici  
-Art. 103. - Viene istituito il Seminario di studi chimici, cui partecipano i diversi istituti chimici della Facolta' di scienze.  
-Il Seminario di studi chimici ha le seguenti finalita' 1) organizzare simposi, conferenze, cicli di lezione, riunioni e pubblicazioni al fine di ampliare e completare la preparazione degli studenti e dei ricercatori e permettere un aggiornamento sui piu' moderni campi della ricerca pura e applicata 2) promuovere e facilitare la collaborazione tra i vari Istituti chimici mettendo a, disposizione degli stessi servizi, apparecchiature e ogni altro mezzo idoneo allo scopo.  
-Art. 104. - Organo direttivo del seminario di studi chimici e' un Comitato costituito da tutti i professori di ruolo delle discipline chimiche della Facolta' di scienze.  
-Il Comitato nomina nel suo seno un direttore del Seminario, che durera' in carica un anno accademico.  
-Art. 105. - Le attivita' del Seminario di studi chimici sono determinate e organizzate dal Comitato.  
-Gli atti amministrativi avranno la firma del solo direttore che risponde personalmente del funzionamento del Seminario al Comitato.  
-Osservatorio di Geofisica e Fisica cosmica  
-Art. 106. - E' istituito presso l'Universita' di Bari un osservatorio per la ricerca scientifica nel campo della Geofisica e della Fisica cosmica.  
-Art. 107. - Sono preposti alla Direzione dell'osservatorio:  
-il Comitato direttivo;  
-il direttore tecnico.  
-Art. 108. - Il Comitato direttivo e' costituito da tre professori di ruolo della Universita' di Bari nominati dal rettore su proposta della Facolta' di scienze.  
-Di essi due sono scelti fra i professori del gruppo geomineralogico e del gruppo fisico della Facolta' stessa.  
-Tali professori avranno la qualifica di membri effettivi e potranno essere sostituiti, in caso di assenza o impedimento, da due membri supplenti nominati anche dal rettore, su proposta della. Facolta' di scienze, tra i professori titolari di cattedra della Facolta' stessa e graduati secondo l'anzianita' di ruolo.  
-Art. 109. - Il Comitato direttivo dura in carica un triennio accademico. Esso nomina, nella prima seduta, il suo presidente che rimane in carica per il detto triennio.  
-Art. 110. - Nel caso che, prima della scadenza del triennio, uno dei membri effettivi venga comunque a cessare dal servizio o a trovarsi definitivamente nella impossibilita' di esercitare le sue funzioni, si provvedera' a nominare effettivo il membro supplente piu' anziano del ruolo, procedendosi quindi alla nomina di altro membro supplente in sostituzione di quello passato effettivo.  
-Sia il primo che il secondo dureranno pero' in carica sempre fino alla scadenza del triennio.  
-Qualora la cessazione dal servizio o la definitiva impossibilita' di esercitare le funzioni riguardi proprio il presidente, si procedera' alla nomina del nuovo presidente dopo aver integrato la composizione del Comitato nei sensi prescritti dal comma precedente.  
-Ed il nuovo presidente rimarra' in carica sempre fino alla fine del triennio.  
-Art. 111. - Il Comitato direttivo discute, approva, e dirige il programma generale di ricerca scientifica e delibera sin tutte le questioni che riguardano l'attivita' dell'Osservatorio. Il presidente convoca e presiede le riunioni del Comitato e ne fa eseguire le deliberazioni.  
-Art. 112. - Il direttore tecnico dell'Osservatorio e' nominato dal rettore su proposta del Comitato direttivo. Egli opera in conformita' alle direttive del Comitato per la organizzazione e il funzionamento dei servizi, rispondendo personalmente, per l'attivita' corrente, al presidente del Comitato.  
+Nel primo comma dell'art. 287, relativo alla scuola di preparazione per tecnici di logopedia (scuola diretta ai fini speciali), la frase: "La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro insegnanti della scuola stessa e da altri docenti", e' soppressa e sostituita dalla seguente: "La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro insegnanti della scuola stessa o da altri docenti".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 marzo 1965
+### Dato a Roma, addi' 31 ottobre 1981
 
-SARAGAT GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 6 maggio 1965
+Registrato alla Corte dei conti, addi' 15 marzo 1982
 
-Atti del Governo, registro n. 193, foglio n. 15. - VILLA
+Registro n. 41 Istruzione, foglio n. 290

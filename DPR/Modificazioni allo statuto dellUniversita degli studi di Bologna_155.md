@@ -1,89 +1,98 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 settembre 1962 n. 1768
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1981 n. 555
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 settembre 1962 n. 1768
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1981 n. 555
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Lo statuto dell'Universita' di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 88. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti quelli di:  
-Cristallografia;  
-Geologia degli idrocarburi;  
-Geologia e paleontologia del quaternario;  
-Geologia stratigrafica;  
-Idrogeologia;  
-Interpretazione aerofotogeologica;  
-Mineralogia sistematica;  
-Oceanografia;  
-Paleontologia dei vertebrati;  
-Petrografia applicata;  
-Sedimentologia;  
-Vulcanologia.  
-Art. 95. - L'ultimo comma dell'art. 95 relativo alla composizione del Consiglio della Facolta' di chimica industriale e' soppresso.  
-Dopo l'art. 201 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di perfezionamento in Fisica con il conseguente spostamento della numerazione degli articoli successivi:  
-  
-Scuola di perfezionamento in Fisica  
-  
-Art. 202. - E' istituita presso la Facolta' di scienze matematiche fisiche e naturali una Scuola di perfezionamento in Fisica; essa ha sede presso l'istituto di fisica dell'Universita'. La Scuola ha fine scientifico e rilascia il diploma di perfezionamento in Fisica.  
-Art. 203. - Alla Scuola vengono ammessi i laureati in Fisica, Matematica, Matematica e Fisica, Chimica e Ingegneria.  
-Il corso ha la durata di due anni. Per poter adire all'esame di diploma gli iscritti alla Scuola dovranno.  
-durante la loro permanenza nella Scuola stessa, superare l'esame sul contenuto di almeno 5 corsi annuali scelti tra gli insegnamenti sotto specificati.  
-Ciascun allievo dovra' comunicare al direttore della Scuola entro il 15 novembre di ciascun anno il piano degli studi che egli intende seguire in relazione alle materie che sono oggetto di insegnamento durante l'anno in corso. Tale piano dovra' essere approvato dal Consiglio dei professori della Scuola (v. successivo articolo 206).  
-Per gli iscritti al primo anno tale piano dovra' contemplare la frequenza di almeno tre corsi; per gli iscritti al secondo anno di almeno due. Il Consiglio dei professori della Scuola potra' riconoscere la validita' dei corsi frequentati o degli esami sostenuti presso al tre Scuole di perfezionamento.  
-Art. 204. - Il direttore proporra' all'inizio di ciascun anno al Consiglio della Facolta' di scienze l'elenco dei professori incaricati dei corsi; questi verranno nominati dal Consiglio di Facolta'.  
-Gli insegnamenti saranno scelti nel seguente piano:  
-1) Complementi di matematica;  
-2) Meccanica quantistica;  
-3) Tecniche sperimentali;  
-4) Fisica nucleare;  
-5) Particelle elementari;  
-6) Fisica dei gas;  
-7) Fisica degli stati condensati;  
-8) Geo-astrofisica;  
-9) Biofisica;  
-10) Corsi monografici.  
-I corsi monografici, in numero non superiore a due, saranno affidati ad esperti italiani o stranieri.  
-Gli insegnamenti potranno essere biennali, annuali o semestrali; a tutti gli effetti due corsi semestrali sono equivalenti ad un corso annuale. Un corso biennale a due corsi annuali.  
-Un corso annuale consistera' di non meno di 40 lezioni.  
-Il programma della Scuola potra' altresi' essere integrato da seminari.  
-La frequenza ai corsi e' obbligatoria.  
-Art. 205. - Le Commissioni per gli esami di profitto sono formate da tre insegnanti della Scuola.  
-La Commissione per l'esame di diploma e' formata da quattro membri (tra i quali il relatore), scelti dal direttore tra gli insegnanti della Scuola stessa e da un contro relatore nominato dal Consiglio dei professori nella persona di un competente nel soggetto particolare della dissertazione, il quale non faccia parte dell'Universita' di Bologna.  
-L'esame di diploma, il quale potra' essere sostenuto dopo che l'allievo abbia sostenuto gli esami di profitto previsti dall'art. 203, consistera' nella discussione sopra una dissertazione originale scritta.  
-Art. 206. - Per quanto attiene al Consiglio dei professori esso e' costituito dal direttore e dai professori che sono incaricati nell'anno in Corso di un insegnamento presso la Scuola.  
-Il direttore e' nominato dal Consiglio della Facolta' di scienze tra i titolari di cattedre di discipline fisiche, dura in carica quattro anni ed e' rieleggibile.  
-Art. 207. - Per le norme di iscrizione, le tasse e i contributi nonche' il rilascio del diploma, vengono richiamate le disposizioni in vigore per la Facolta' di scienze matematiche fisiche e naturali.  
+Dopo l'art. 678, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in geriatria e gerontologia.  
+Scuola di specializzazione in geriatria e gerontologia  
+Art. 679. - La scuola di specializzazione in geriatria e gerontologia ha sede presso l'istituto di clinica medica e gastroenterologia della facolta' di medicina e chirurgia dell'Universita' di Bologna e conferisce il diploma di specialista in geriatria e gerontologia.  
+Art. 680. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione. Il numero massimo degli allievi e' di cinque per anno di corso e complessivamente di venti iscritti per l'intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami.  
+Art. 681. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+farmacologia (annuale);  
+principi e tecniche della riabilitazione nella patologia dell'apparato locomotore (annuale);  
+anatomia e istologia patologica (biennale I);  
+biologia della senescenza (biennale I);  
+fisiopatologia (biennale I);  
+geriatria sociale (biennale I);  
+semeiotica (biennale I);  
+principi e tecniche di materie specialistiche in geriatria (triennale I).  
+2° Anno:  
+principi e tecniche della riabilitazione cardiovascolare e respiratoria (annuale);  
+anatomia e istologia patologica (biennale II);  
+biologia della senescenza (biennale II);  
+fisiopatologia (biennale II);  
+geriatria sociale (biennale II);  
+semeiotica (biennale II);  
+radiologia e radioterapia (biennale I);  
+principi e tecniche di materie specialistiche in geriatria (triennale II).  
+3° Anno:  
+neurologia (annuale);  
+principi e tecniche della riabilitazione neurologica (annuale); psicologia (annuale);  
+radiologia e radioterapia (biennale II);  
+principi e tecniche di materie specialistiche in geriatria (triennale III);  
+clinica geriatrica (biennale I);  
+terapia medica (biennale I);  
+pratica geriatrica extraospedaliera (biennale I).  
+4° Anno:  
+chirurgia geriatrica (annuale);  
+formazione degli operatori geriatrici (annuale);  
+principi e tecniche della riabilitazione nel campo delle funzioni cerebrali superiori (annuale);  
+principi e tecniche di riattivazione, terapia occupazionale;  
+geragogia (annuale);  
+psicogeriatria (annuale);  
+clinica geriatrica (biennale II);  
+terapia medica (biennale II);  
+pratica geriatrica extraospedaliera (biennale II).  
+Art. 682. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
+Art. 683. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in geriatria e gerontologia devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 settembre 1962
+### Dato a Roma, addi' 29 maggio 1981
 
-SEGNI GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 3 gennaio 1963
+Registrato alla Corte dei conti, addi' 26 settembre 1981
 
-Atti del Governo, registrato n. 161, foglio n. 48. - VILLA
+Registro n. 90 Istruzione, foglio n. 237

@@ -1,156 +1,331 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1956 n. 892
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1979 n. 476
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1956 n. 892
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1979 n. 476
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regi decreti 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;1904); [4 maggio 1942, n. 557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-05-04;557); [5 settembre 1942, n. 1120; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-09-05;1120) [26 febbraio 1949, n. 612](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;612); [23 settembre 1949, n. 931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;931); [30 ottobre 1949, n. 1059](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1059); [5 aprile 1950, n. 284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-04-05;284); [30 ottobre 1950, n. 1277](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1277); [31 ottobre 1950, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1311); [18 aprile 1951, n. 934](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;934); [30 luglio 1951, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-07-30;1304); [27 ottobre 1951, n. 1680](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1680); [19 settembre 1952, n. 4551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-19;4551); [25 agosto 1953, n. 1117](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;1117); [26 aprile 1954, n. 738](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;738); [30 giugno 1954, n. 753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;753); [31 luglio 1954, n. 865](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-07-31;865); [24 agosto 1954, n. 987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-08-24;987); [14 settembre 1954, n. 1056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1056); [29 ottobre 1954, n. 1458](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-29;1458); [29 ottobre 1954, n. 1465](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-29;1465); [4 febbraio 1955, n. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;71); [16 febbraio 1955, n. 220](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-16;220); [2 agosto 1955, n. 897](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-08-02;897); [20 settembre 1955, n. 939](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-20;939) e [30 gennaio 1956, n. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-01-30;163);
-
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 135 (gia' 107). - Agli insegnamenti complementari comuni a tutte le Sezioni e' aggiunto quello di:
-
-21) "Ingegneria sanitaria".
-
-Dopo l'attuale art. 212, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione del corso di specializzazione in ingegneria sanitaria annesso alla Facolta' di ingegneria, con il conseguente spostamento della numerazione degli articoli successivi.
-
-Corso di specializzazione in ingegneria sanitaria
-
-Art. 213. - E' istituito presso la Facolta' di ingegneria un corso di specializzazione in ingegneria sanitaria.
-
-Il corso ha la durata di un anno scolastico e comprende i seguenti insegnamenti:
-
-1) Principi di biologia, microbiologia, parassitologia ed epidomiologia;
-
-2) Complementi di idraulica ed idrologia;
-
-3) Complementi di geologia e di geotecnica;
-
-4) Chimica e biochimica delle acque, dei liquami e dei trattamenti;
-
-5) Progetti di acquedotti e fognature;
-
-6) Trattamenti delle acque potabili e delle acque di rifiuto domestiche e industriali, con progetti;
-
-7) Igiene industriale e del lavoro;
-
-8) Igiene dell'abitato e dell'edilizia;
-
-9) Riscaldamento e condizionamento degli ambienti.
-
-Altri insegnamenti monografici eventuali.
-
-Art. 214. - Al corso possono essere ammessi laureati in ingegneria della sezione civile, sottosezione idraulica. Possono essere anche ammessi, previo esame preliminare, coloro che siano muniti di laurea in ingegneria di altra sezione. Il numero degli iscritti viene stabilito per ogni anno scolastico dal direttore del corso.
-
-Della accettazione delle domande di iscrizione giudica il direttore del corso.
-
-Art. 215. - Il corso si svolge presso l'Istituto di costruzioni idrauliche. Il direttore del corso e' il direttore del predetto istituto.
-
-Art. 216. - Sono ammessi a sostenere l'esame finale gli allievi, che hanno regolarmente frequentato il corso.
-
-L'esame consiste in una prova orale sulle materie d'insegnamento, e nella discussione di una tesi scritta o di un progetto elaborato dal candidato durante il corso. Puo' essere sostenuto nelle sessioni estiva ed autunnale.
-
-La Commissione di esami e' nominata dal preside della Facolta', udito il direttore del corso, che ne e' il presidente. Essa e' costituita da un numero di membri che va da cinque a sette.
-
-Art. 217. - A coloro che hanno frequentato il corso e superati gli esami, e' rilasciato un diploma di specializzazione.
-
-Art. 218. - Le tasse d'iscrizione e le sopratasse vengono fissate dal Consiglio di amministrazione dell'Universita', su proposta del Consiglio della Facolta'.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 28 giugno 1956
-
-GRONCHI
-
-ROSSI
-
-Visto, il Guardasigilli: MORO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 9 agosto 1956 Atti del Governo, registro n. 100, foglio n. 37. - RELLEVA
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regi decreti 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;1904); [4 maggio 1942, n. 557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-05-04;557); [5 settembre 1942, n. 1120; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-09-05;1120) [26 febbraio 1949, n. 612](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;612); [23 settembre 1949, n. 931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;931); [30 ottobre 1949, n. 1059](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1059); [5 aprile 1950, n. 284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-04-05;284); [30 ottobre 1950, n. 1277](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1277); [31 ottobre 1950, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1311); [18 aprile 1951, n. 934](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;934); [30 luglio 1951, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-07-30;1304); [27 ottobre 1951, n. 1680](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1680); [19 settembre 1952, n. 4551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-19;4551); [25 agosto 1953, n. 1117](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;1117); [26 aprile 1954, n. 738](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;738); [30 giugno 1954, n. 753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;753); [31 luglio 1954, n. 865](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-07-31;865); [24 agosto 1954, n. 987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-08-24;987); [14 settembre 1954, n. 1056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1056); [29 ottobre 1954, n. 1458](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-29;1458); [29 ottobre 1954, n. 1465](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-29;1465); [4 febbraio 1955, n. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;71); [16 febbraio 1955, n. 220](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-16;220); [2 agosto 1955, n. 897](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-08-02;897); [20 settembre 1955, n. 939](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-20;939) e [30 gennaio 1956, n. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-01-30;163);  
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Dopo l'art. 560, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla istituzione presso la prima facolta' di medicina e chirurgia, delle scuole di specializzazione in medicina nucleare ed in urologia:   
   
-Art. 135 (gia' 107). - Agli insegnamenti complementari comuni a tutte le Sezioni e' aggiunto quello di:  
-21) "Ingegneria sanitaria".  
-Dopo l'attuale art. 212, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione del corso di specializzazione in ingegneria sanitaria annesso alla Facolta' di ingegneria, con il conseguente spostamento della numerazione degli articoli successivi.  
+Scuola di specializzazione in medicina nucleare   
   
-Corso di specializzazione in ingegneria sanitaria  
+Art. 561. - La scuola di specializzazione in medicina nucleare ha sede presso l'istituto di radiologia della prima facolta' di medicina e chirurgia ed e' diretta da un professore di ruolo o fuori ruolo della stessa materia o, in carenza, di materia affine.   
+Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso del diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione.   
+Non sono ammesse abbreviazioni di corso.   
+Art. 562. - La scuola conferisce il diploma di specialista in medicina nucleare.   
+Gli anni di studio necessari per conseguire questo titolo sono tre.  
+Art. 563. - Gli insegnamenti per il conseguimento del diploma di specialista in medicina nucleare sono cosi' distribuiti nei tre anni di corso.   
+1° Anno:   
+a) fisica: con richiami di matematica, nozioni di statistica, informatica e dosimetria;   
+b) radiobiologia, legislazione e norme generali di radioprotezione;   
+c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;   
+d) nozioni di anatomia e fisiologia generale.   
+2° Anno:   
+a) teoria dei traccianti;   
+b) elementi di radiochimica;   
+c) applicazioni di diagnostica I;   
+d) tecniche di misure di radioattivita'.   
+3° Anno:   
+a) applicazioni diagnostiche II;   
+b) applicazioni terapeutiche;   
+c) radioprotezione e legislazione applicate.   
+Art. 564. - I singoli insegnamenti sono tenuti da uno o piu' docenti a secondo di quanto opportuno al loro migliore svolgimento.   
+Art. 565. - Il numero massimo di iscritti in corso alla scuola e' di otto per anno di corso e complessivamente di ventiquattro iscritti per l'intero corso di studi.   
+Art. 566. - La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei.  
+L'insegnamento viene svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti, ecc. Gli allievi, per essere ammessi a sostenere gli esami delle singole materie, devono avere la firma di frequenza da parte del direttore della scuola stessa. Gli allievi, al termine di ogni anno devono superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.   
+Art. 567. - Gli allievi, per conseguire il diploma di specializzazione, oltre ad essere stati approvati in tutti gli esami, devono elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.   
   
-Art. 213. - E' istituito presso la Facolta' di ingegneria un corso di specializzazione in ingegneria sanitaria.  
-Il corso ha la durata di un anno scolastico e comprende i seguenti insegnamenti:  
-1) Principi di biologia, microbiologia, parassitologia ed epidomiologia;  
-2) Complementi di idraulica ed idrologia;  
-3) Complementi di geologia e di geotecnica;  
-4) Chimica e biochimica delle acque, dei liquami e dei trattamenti;  
-5) Progetti di acquedotti e fognature;  
-6) Trattamenti delle acque potabili e delle acque di rifiuto domestiche e industriali, con progetti;  
-7) Igiene industriale e del lavoro;  
-8) Igiene dell'abitato e dell'edilizia;  
-9) Riscaldamento e condizionamento degli ambienti.  
-Altri insegnamenti monografici eventuali.  
-Art. 214. - Al corso possono essere ammessi laureati in ingegneria della sezione civile, sottosezione idraulica. Possono essere anche ammessi, previo esame preliminare, coloro che siano muniti di laurea in ingegneria di altra sezione. Il numero degli iscritti viene stabilito per ogni anno scolastico dal direttore del corso.  
-Della accettazione delle domande di iscrizione giudica il direttore del corso.  
-Art. 215. - Il corso si svolge presso l'Istituto di costruzioni idrauliche. Il direttore del corso e' il direttore del predetto istituto.  
-Art. 216. - Sono ammessi a sostenere l'esame finale gli allievi, che hanno regolarmente frequentato il corso.  
-L'esame consiste in una prova orale sulle materie d'insegnamento, e nella discussione di una tesi scritta o di un progetto elaborato dal candidato durante il corso. Puo' essere sostenuto nelle sessioni estiva ed autunnale.  
-La Commissione di esami e' nominata dal preside della Facolta', udito il direttore del corso, che ne e' il presidente. Essa e' costituita da un numero di membri che va da cinque a sette.  
-Art. 217. - A coloro che hanno frequentato il corso e superati gli esami, e' rilasciato un diploma di specializzazione.  
-Art. 218. - Le tasse d'iscrizione e le sopratasse vengono fissate dal Consiglio di amministrazione dell'Universita', su proposta del Consiglio della Facolta'.  
+Scuola di specializzazione in urologia   
+  
+Art. 568. - La scuola di specializzazione in urologia ha sede presso l'istituto di patologia speciale chirurgica e propedeutica clinica della prima facolta' di medicina e chirurgia e conferisce il diploma di specialista in urologia.   
+Art. 569. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 570. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente.   
+Art. 571. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.   
+Art. 572. - Il numero massimo degli allievi e' complessivamente di diciotto iscritti per l'intero corso di studi.   
+Art. 573. - L'ammissione al corso avviene per titoli ed esami.   
+Art. 574. - Le materie di insegnamento e gli esami sono i seguenti:   
+  
+  
+Insegnamenti Esami  
+  
+1° Anno:  
+  
+anatomia sistematica e to- anatomia sistematica e to- pografica dell'apparato pografica dell'apparato urinario e genitale ma- urinario e genitale ma- schile maschile  
+fisiologia dell'apparato fisiologia dell'apparato urinario e genitale ma- urinario e genitale ma- schile schile  
+batteriologia in urologia batteriologia in urologia semeiotica funzionale e  
+strumentale dell'appara-  
+to uro-genitale I.  
+  
+2° Anno:  
+  
+semeiotica funzionale e semeiotica funzionale e strumentale dell'appara- strumentale dell'appara- to uro-genitale II to uro-genitale II  
+le nefropatie mediche le nefropatie mediche  
+anatomia chirurgica del- anatomia chirurgica del- l'apparato urinario e l'apparato urinario e genitale maschile genitale maschile  
+patologia dell'apparato  
+urinario e genitale ma-  
+schile I  
+radiologia dell'apparato  
+urinario e genitale ma-  
+schile I  
+  
+3° Anno:  
+  
+patologia dell'apparato patologia dell'apparato urinario e genitale ma- urinario e genitale ma- schile II schile  
+radiologia dell'apparato radiologia dell'apparato urinario e genitale ma- urinario e genitale ma- schile II schile  
+le affezioni cutanee e ve- le affezioni cutanee e ve- neree nei riguardi del- nei riguardi dell'urolo- l'urologia gia  
+andrologia andrologia  
+  
+4° Anno:  
+  
+anatomia ed istologia pa- anatomia ed istologia pa- tologica dell'apparato tologica dell'apparato urinario e genitale ma- urinario e genitale ma- schile schile  
+farmacoterapia delle affe- farmacoterapia delle affe- zioni uro-genitali zioni uro-genitali  
+anestesia e trattamento anestesia e trattamento pre e post-operatorio pre e post-operatorio del malato urologico del malato urologico  
+nefrologia chirurgica nefrologia chirurgica  
+clinica urologica I  
+procedimenti di chirurgia  
+endoscopica I  
+interventi e procedimenti  
+operatori, sull'appara-  
+urinario e genitale ma-  
+schile I  
+  
+5° Anno:  
+  
+clinica urologica II clinica urologica  
+patologia e clinica urolo- patologia e clinica urolo- gica infantile gica infantile  
+  
+urologia ginecologica urologia ginecologica  
+procedimenti di chirurgia interventi e procedimenti endoscopica II operatori sull'apparato chirurgia dell'intestino urinario e genitale ma- chirurgia vascolare schile  
+interventi e procedimenti  
+operatori sull'apparato  
+urinario e genitale ma-  
+schile II  
+  
+  
+Art. 575. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
+Art. 576. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno ad eccezione delle discipline svolte in corsi pluriennali il cui esame e' sostenuto alla fine dei corsi medesimi.   
+Art. 577. - Al termine del corso di studi, per il conseguimento del diploma di specialista in urologia, gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+Gli articoli 596, 597, 598, 599, 600, 601 e 602, relativi alla scuola di specializzazione in malattie infettive della seconda facolta' di medicina e chirurgia, sono soppressi e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in malattie infettive   
+  
+Art. 596. - La scuola di specializzazione in malattie infettive ha sede presso la clinica delle malattie infettive e conferisce il diploma di specialista in malattie infettive.   
+Art. 597. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 598. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato d'alle autorita' competenti.   
+Art. 599. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
+Art. 600. - Il numero massimo di allievi e' di tredici per anno di corso e complessivamente di cinquantadue iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Art. 601. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+epidemiologia generale delle malattie infettive;   
+batteriologia e micologia;   
+virologia;   
+parassitologia;   
+immunologia generale.   
+2° Anno:   
+tecniche batteriologiche e micologia applicate alle malattie infettive;   
+tecniche virologiche applicate alle malattie infettive;   
+tecniche parassitologiche applicate alle malattie infettive;   
+tecniche immunologiche applicate alle malattie infettive;   
+anatomia patologica;   
+genetica.   
+3° Anno:   
+clinica delle malattie infettive 1° anno;   
+diagnostica e semeiotica delle malattie infettive;   
+radiologia;   
+medicina preventiva delle malattie infettive.   
+4° Anno:   
+clinica delle malattie infettive 2° anno;   
+malattie tropicali;   
+legislazione sanitaria delle malattie infettive;   
+farmacologia e terapia delle malattie infettive.   
+Art. 602. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.   
+Al termine di ciascun anno di corso gli allievi sono tenuti a sostenere gli esami del rispettivo anno; al termine del corso di studi per il conseguimento del diploma di specialista in malattie infettive gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente la specialita'.   
+Agli allievi i quali abbiano ottenuto l'approvazione nell'esame di diploma viene rilasciato il diploma di specializzazione in malattie infettive.   
+Gli articoli 613, 614, 615, 616, 617, relativi alla scuola di specializzazione in ostetricia e ginecologia della seconda facolta' di medicina e chirurgia, che muta la denominazione in quella di scuola di specializzazione in ginecologia e ostetricia, sono soppressi e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in ginecologia e ostetricia   
+  
+Art. 613. - La scuola di specializzazione in ginecologia ed ostetricia ha sede presso la clinica ostetrica e ginecologica e conferisce il diploma di specialista in ginecologia ed ostetricia.   
+Art. 614. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 615. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
+Il numero massimo degli allievi e' di dodici per anno di corso e complessivamente di quarantotto iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Art. 616. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+elementi di genetica medica;   
+elementi di embriologia; anatomia macro e micro dell'apparato genitale femminile; anatomia della pelvi;   
+elementi di fisiopatologia della riproduzione umana;   
+fisiologia ostetrica;   
+endocrinologia ginecologica ed ostetrica;   
+semeiotica e diagnostica ostetrica;   
+patologia ostetrica e ginecologica (biennale) I;   
+lingua straniera (inglese) quadriennale I.   
+2° Anno:   
+semeiotica e diagnostica ginecologica;   
+operazioni ostetriche (biennale) I;   
+anatomia ed istologia patologica della sfera genitale femminile;   
+citologia ginecologica;   
+patologia ostetrica e ginecologica (biennale) II;   
+diagnostica di laboratorio in ostetricia e ginecologia;   
+lingua straniera (inglese) quadriennale II.   
+3° Anno:   
+puericultura prenatale;   
+immunologia ostetrica e ginecologica;   
+analgo-anestesia e rianimazione in ostetricia;   
+operazioni ostetriche (biennale) II;   
+operazioni ginecologiche (biennale) I;   
+ostetricia e ginecologia forense;   
+terapia medica in ostetricia e ginecologia;   
+clinica ostetrica e ginecologica (biennale) I;   
+psicosomatica ostetrica e ginecologica;   
+lingua straniera (inglese) quadriennale III.   
+4° Anno:   
+neonatologia;   
+urologia ginecologica;   
+radio-diagnostica e terapia fisica in ostetricia e ginecologia; chirurgia addominale;   
+operazioni ginecologiche (biennale) II;   
+clinica ostetrica e ginecologica (biennale) II;   
+lingua straniera (inglese) quadriennale.   
+Art. 617.- La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
+Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corsi pluriennali l'esame e' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di studi, per il conseguimento del diploma di specialista in ginecologia ed ostetricia, gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+Dopo l'art. 652, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione presso la seconda facolta' di medicina e chirurgia della scuola di specializzazione in chirurgia vascolare:   
+  
+Scuola di specializzazione in chirurgia vascolare   
+  
+Art. 653. - La scuola di specializzazione in chirurgia vascolare ha sede presso la clinica chirurgica e conferisce il diploma di specialista in chirurgia vascolare.   
+Art. 654. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 655. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+Art. 656. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.   
+Art. 657. - Il numero massimo degli allievi e' di quattro per anno di corso e complessivamente di venti iscritti per l'intero corso di studi.   
+Art. 658. - L'ammissione al corso avviene per titoli ed esami.   
+Art. 659. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+embriologia, anatomia macro e microscopica dell'apparato vascolare;   
+fisiopatologia dell'apparato vascolare e della coagulazione sanguigna;   
+anatomia patologica dell'apparato vascolare;   
+semiologia fisica e strumentale delle malattie vascolari;   
+semiologia radiologica delle malattie vascolari;   
+vasculopatie di interesse medico e specialistico.   
+2° Anno:   
+patologia e clinica delle malattie del sistema arterioso;   
+patologia e clinica delle malattie del sistema venoso;   
+patologia e clinica delle malattie del sistema linfatico;   
+patologia e clinica delle malattie dei piccoli vasi.   
+3° Anno:   
+nozioni di terapia medica delle malattie vascolari;   
+terapia chirurgica delle malattie vascolari;   
+chirurgia vascolare applicata a malattie dei vari organi I.   
+4° Anno:   
+informatica medica;   
+rianimazione e terapia intensiva;   
+patologia e clinica vascolare pediatrica I;   
+epidemiologia delle malattie vascolari;   
+elementi di legislazione sanitaria comunitaria;   
+chirurgia vascolare applicata a malattie dei vari organi II.   
+5° Anno:   
+elementi di bioingegneria applicati al circolo;   
+principi e tecnica di circolazione extracorporea;   
+terapia intensiva;   
+patologia e clinica vascolare pediatrica II;   
+tecniche chirurgiche applicate alla patologia vascolare;   
+chirurgia vascolare applicata a malattie dei vari organi III.   
+Art. 660. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
+Art. 661. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in chirurgia vascolare gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione e devono sostenere una prova clinica.   
+L'ordinamento della scuola di specializzazione in radiologia della seconda facolta' di medicina e chirurgia di cui al [decreto del Presidente della Repubblica 24 ottobre 1975, n. 602](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1975-10-24;602), e' soppresso e sostituito dal seguente:   
+  
+Scuola di specializzazione in radiologia   
+  
+La scuola di specializzazione in radiologia ha sede presso la radiologia della seconda facolta' di medicina e chirurgia ed e' diretta da un professore di ruolo o fuori ruolo della stessa materia o, in carenza, di materia affine.   
+Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso del diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione per titoli ed esami.   
+Non sono ammesse abbreviazioni di corso.   
+La scuola conferisce i seguenti diplomi:   
+a) diploma di specialista in radiodiagnostica.   
+Gli anni di studio necessari per conseguire questo titolo sono quattro;   
+b) diploma di specialista in radioterapia oncologica.   
+Gli anni di studio necessari per conseguire questo titolo sono quattro.   
+La scuola ha un tronco comune di due anni identico per i diplomi in radiodiagnostica e radioterapia oncologica.   
+Gli insegnamenti per il diploma di specialista in radiodiagnostica sono cosi' distribuiti in quattro anni di corso:   
+1° Anno (comune alla specializzazione in radioterapia oncologica):   
+a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);   
+b) radiobiologia, legislazione e norme generali di radioprotezione;   
+c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;   
+d) nozioni di anatomia e Fisiologia generale.   
+2° Anno (comune alla radioterapia oncologica):   
+a) anatomia patologica;   
+b) apparecchiature e tecniche radiologiche;   
+c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);   
+d) radiopatologia;   
+e) dosimetria applicata.   
+3° Anno:   
+a) tecniche speciali e relativa semeiotica (I);   
+b) radiodiagnostica speciale dei vari organi ed apparati (I). 4° Anno:   
+a) tecniche speciali e relativa semeiotica (termografia, ecografia, xerografia, TAC) (II);   
+b) radiodiagnostica speciale dei vari organi ed apparati (II).   
+Gli insegnamenti per il diploma di specialista in radioterapia oncologica sono cosi' distribuiti nei quattro anni di corso:   
+1° Anno (comune alla specializzazione in radiodiagnostica):   
+a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);   
+b) radiobiologia, legislazione e norme generali di radioprotezione;   
+c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;   
+d) nozioni di anatomia e fisiologia generale.   
+2° Anno (comune alla radiodiagnostica):   
+a) anatomia patologica;   
+b) apparecchiature e tecniche radiologiche;   
+c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);   
+d) radiopatologia;   
+e) dosimetria applicata.   
+3° Anno:   
+a) oncologia generale;   
+b) oncologia clinica (I);   
+c) tecniche radioterapiche.   
+4° Anno:   
+a) oncologia clinica (II);   
+b) fondamenti di terapia chirurgica dei tumori;   
+c) radioterapia clinica;   
+d) trattamento del canceroso in fase avanzata.   
+I singoli insegnamenti sono tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento.   
+Il numero massimo di iscritti in corso alla scuola e' di 30 (trenta) da ripartirsi annualmente fra i vari corsi di diploma previsti dal comma quarto.   
+La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei.   
+L'insegnamento viene svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti a specialisti, ecc.   
+Gli allievi, per essere ammessi a sostenere gli esami delle singole materie, devono avere la firma di frequenza da parte del direttore della scuola stessa.   
+Gli allievi al termine di ogni anno devono superare gli esami di profitto delle materie prescritte per poter Ottenere l'iscrizione all'anno successivo.   
+Gli allievi, per conseguire il diploma di specializzazione, oltre ad essere stati approvati in tutti gli esami, devono elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 giugno 1956
+### Dato a Roma, addi' 11 giugno 1979
 
-GRONCHI ROSSI
+PERTINI SPADOLINI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 9 agosto 1956
+Registrato alla Corte dei conti, addi' 19 settembre 1979
 
-Atti del Governo, registro n. 100, foglio n. 37. - RELLEVA
+Registro n. 68 Istruzione, foglio n. 368

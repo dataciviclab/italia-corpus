@@ -1,94 +1,59 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1980 n. 1143
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1195
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1980 n. 1143
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1195
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni dagli organi accademici dell'Universita' degli studi di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-L'art. 9 e' modificato nel senso che e' aggiunta la seguente frase:  
-13. L'Universita' degli studi di Napoli comprende, altresi', un centro di calcolo elettronico interfacolta'.  
-Dopo l'art. 883 sono aggiunti i seguenti nuovi articoli relativi alla istituzione del centro di calcolo elettronico interfacolta'.  
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Sezione XVII Centro di calcolo elettronico  
+Decreta:   
   
-Art. 884. - Il centro di calcolo elettronico dell'Universita' di Napoli e' destinato al servizio relativo alle attivita' didattiche e scientifiche dell'Universita' di Napoli, nonche' di altre universita' o istituti universitari che stipulano apposite convenzioni con l'Universita' di Napoli.  
-Art. 885. - Il centro ha le seguenti finalita':  
-a) sopperire alle esigenze di calcolo connesse con la ricerca scientifica delle istituzioni di cui all'art. 884 mettendo a disposizione di coloro che operano in tali istituzioni le attrezzature per il calcolo e le elaborazioni che possono essere necessarie per lo svolgimento delle loro attivita' di ricerca;  
-b) sopperire alle esigenze didattiche delle istituzioni di cui all'art. 884 fornendo le attrezzature necessarie per la preparazione degli studenti;  
-c) promuovere attivita' di documentazione e di studio e qualsiasi altra attivita' connessa con lo sviluppo di mezzi di elaborazione del centro ed il loro impiego;  
-d) favorire il collegamento e la collaborazione con centri di calcolo o centri di studio e di ricerca appartenenti ad altre universita' o enti analoghi.  
-Il centro potra' altresi' soddisfare esigenze di calcolo di altri enti, ma soltanto in quanto cio' non ostacoli il buon perseguimento delle finalita' di cui sopra.  
-Art. 886. - Il centro per sua natura sostiene le attivita' di quelle componenti delle istituzioni di cui all'art. 884 che sono particolarmente volte alle ricerche di informatica.  
-Art. 887. - Sono organi del centro:  
-a) il consiglio direttivo e il suo presidente;  
-b) il comitato tecnico;  
-c) il direttore del centro.  
-Art. 888. - Il consiglio direttivo e' costituito da professori ufficiali rappresentanti dell'Universita' di Napoli e da un massimo di dodici professori ufficiali rappresentanti delle istituzioni di cui all'art. 884 nel numero fissato dalle relative convenzioni.  
-I rappresentanti dell'Universita' di Napoli sono distribuiti come segue:  
-a) tre professori ufficiali della facolta' di scienze;  
-b) tre professori ufficiali della facolta' di ingegneria;  
-c) due professori ufficiali della facolta' di economia e commercio;  
-d) due professori ufficiali della facolta' di agraria;  
-e) due professori ufficiali della facolta' di architettura;  
-f) un professore ufficiale di ciascuna delle altre facolta'.  
-Fa parte inoltre del consiglio direttivo il direttore amministrativo dell'Universita' di Napoli o un funzionario da lui delegato.  
-Il consiglio direttivo elegge il presidente ed il segretario fra i rappresentanti dell'Universita' di Napoli e degli enti di cui all'art. 884.  
-I membri del consiglio direttivo di cui alle voci a), b), c), d), e), f), sono nominati dal rettore su proposta delle rispettive facolta'.  
-I rappresentanti dell'Universita' di Napoli e quelli degli enti di cui all'art. 884 durano in carica tre anni purche' conservino la qualifica di professori ufficiali e sono nominabili al massimo per due volte consecutive.  
-Art. 889. - Il comitato tecnico e' costituito da esperti del settore degli elaboratori elettronici e dell'elaborazione automatica dei dati.  
-Il comitato tecnico e' costituito da:  
-a) il direttore del centro;  
-b) il segretario amministrativo del centro;  
-c) un rappresentante eletto dal personale tecnico del centro nel proprio ambito;  
-d) non piu' di sei membri scelti fra il personale docente delle istituzioni di cui all'art. 884 che abbiano comprovata esperienza nel settore degli elaboratori elettronici e dell'elaborazione automatica dei dati.  
-I membri del comitato tecnico di cui alle voci c) e d) durano in carica due anni.  
-I membri di cui alla voce d) non possono contemporaneamente far parte anche del consiglio direttivo.  
-Art. 890. - Il direttore del centro nominato dal rettore e' scelto tra i professori ufficiali dell'Universita'.  
-Art. 891. - Le norme relative al funzionamento del centro formano oggetto di apposito regolamento approvato dal consiglio di amministrazione dell'Universita' su proposta del consiglio direttivo e previo parere del senato accademico.  
-Il regolamento viene reso esecutivo con decreto del rettore, previa approvazione ministeriale.  
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli 307 e 308, relativi alla scuola di perfezionamento in filologia moderna, sono abrogati e sostituiti dal seguente articolo:   
+Art. 307. - Il consiglio direttivo della scuola, formate da tutti i docenti dell'istituto di filologia moderna, stabilisce ogni anno il programma dei corsi e dei seminari che, nell'ambito delle materie attinenti alla filosofia moderna, saranno tenuti da docenti dell'Istituto o a cio' espressamente invitati. I corsi avranno durata annuale o semestrale e potranno essere integrati da cicli piu' brevi.   
+Gli iscritti dovranno ottenere alla fine di ogni anno un attestato di frequenza e di partecipazione attiva ai seminari; tale attestato non sara' concesso a chi risultera' assente a piu' di un quarto delle sedute.   
+Per il conseguimento del diploma sono richiesti due attestati annuali di frequenza e partecipazione e la presentazione e discussione di un lavoro scientifico originale.   
+L'art. 347, relativo alla scuola di perfezionamento in storia dell'arte medioevale e moderna, e' abrogato e sostituito dal seguente:   
+"E' titolo necessario per l'ammissione alla scuola di perfezionamento la laurea in lettere o in filosofia o in lingue e letterature moderne straniere d'indirizzo europeo, o in architettura o in sociologia o in scienze sociali. Possono essere ammessi anche i laureati in materie letterarie o in pedagogia presso i magisteri.  
+L'ammissione alla scuola si consegue in base al risultato positivo di un colloquio sostenuto dinanzi ad una commissione di professori designati dal comitato direttivo della scuola e volto ad accertare la preparazione in storia dell'arte degli aspiranti e le loro attitudini alla ricerca".   
+Art. 348 - all'elenco degli insegnamenti della scuola di perfezionamento in storia dell'arte medioevale e moderna sono inclusi quelli di:   
+  
+Storia dell'arte contemporanea;   
+Legislazione e amministrazione del patrimonio artistico.   
+  
+Nello stesso articolo il penultimo comma viene abrogato e sostituito dal seguente:   
+"Tre di tali materie, a scelta degli allievi, sono oggetto di esami biennali; tutte le altre sono oggetto di esami annuali".   
+L'art. 349, relativo alla scuola di perfezionamento in storia dell'arte medioevale e moderna, viene abrogato e sostituito dal seguente:   
+"Direttore della scuola di perfezionamento e' il direttore dell'istituto di storia dell'arte medioevale e moderna della facolta' di lettere, coadiuvato da un comitato direttivo del quale fanno parte: a) i titolari di ruolo delle cattedre di storia dell'arte medioevale e moderna della facolta'; b) i professori fuori ruolo di storia dell'arte medioevale e moderna della facolta'; c) il titolare di ruolo della cattedra di archeologia e storia dell'arte antica della facolta'; d) professori aggregati di discipline storico-artistiche della facolta'".   
+L'art. 351, relativo alla scuola di perfezionamento in storia dell'arte medioevale e moderna, viene abrogato e sostituito dal seguente:   
+"Per conseguire il diploma di perfezionamento, gli allievi dovranno presentare una dissertazione scritta, frutto di studi e di ricerche personali in una qualsiasi delle materie di insegnamento, eccettuate quelle per le quali esistono nell'Universita' di Napoli scuole di perfezionamento specifiche".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 ottobre 1980
+### Dato a Roma, addi' 31 ottobre 1973
 
-PERTINI SARTI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 19 maggio 1981
+Registrato alla Corte dei conti, addi' 19 novembre 1974
 
-Registro n. 44 istruzione, foglio n. 150
+Atti di Governo, registro n. 6, foglio n. 135. - SCIARRETTA

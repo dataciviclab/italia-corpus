@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1978 n. 387
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 272
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1978 n. 387
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 272
 =============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-387. Decreto del Presidente della Repubblica 3 maggio 1978, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione disposta dalla sig.ra Maria Arrighi vedova Jesi con atto di donazione 21 luglio 1976, n. 32603 di repertorio, a rogito dott. Domenico Acquarone, notaio in Milano, consistente in una collezione composta di quarantotto quadri e cinque sculture che testimoniano l'arte figurativa italiana degli ultimi anni dell'800 e dei primi del 900, i quali rivestono un importante interesse storico e artistico, da destinare alla Pinacoteca nazionale di Brera, in Milano.  
+272. Decreto del Presidente della Repubblica 26 aprile 1983, col quale, sulla proposta del Ministro della difesa, il Ministero della difesa viene autorizzato ad accettare la donazione a favore dello Stato, consistente nel panfilo "Caroly" GE-70, disposta dai fratelli Mario, Alberto e Cesare Preve con atto 25 novembre 1982, n. 77055 di repertorio, a rogito dott. Ottavio Ferrando, notaio in Sestri Levante (Genova), registrato a Chiavari (Genova) in data 29 novembre 1982, al n. 3194, da destinare all'addestramento degli allievi dell'Accademia navale di Livorno.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 10 luglio 1978  
-Registro n. 9 Beni culturali, foglio n. 313
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 27 maggio 1983  
+Registro n. 19 Difesa, foglio n. 155

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 gennaio 1976 n. 73
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1980 n. 909
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 gennaio 1976 n. 73
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1980 n. 909
+==============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un'eredita'.
 ----------------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-73. Decreto del Presidente della Repubblica 30 gennaio 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla signora Valera Maria Pierina in favore dell'Opera mutilatini don Gnocchi, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi" come ha fatto presente la fondazione medesima, con testamento olografo 25 gennaio 1973 pubblicato a rogito dott. Mario Donati, notaio in Clusone (Bergamo), in data 31 luglio 1973, n. 16331 di repertorio, n. 5612 di raccolta, registrato a Clusone il 9 agosto 1973 con il n. 516, vol. 111-I, consistente in un fabbricato sito in Milano, via Chiesa Rossa n. 31, con annessi mq 70 di terreno del valore presunto di lire 5.000.000, censito al mappale n. 903, gg. 13 sub 1/2, di mq A 114.  
+909. Decreto del Presidente della Repubblica 30 ottobre 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.ra Giussani Eva Pierina ved. Merlini con testamento olografo 30 settembre 1972, pubblicato a rogito dott.  
+Pentangelo Lucio, notaio in Seregno (Milano), in data 11 settembre 1975, n. 25008 di repertorio e n. 1589 di raccolta, registrato a Desio (Milano) il 19 settembre 1975 al n. 3446, consistente in beni mobili ed immobili per complessive lire 44.500.000.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 13 marzo 1976  
-Atti di Governo, registro n. 4, foglio n. 12
+Visto, il Guardasigilli: SARTI  
+Registrato alla Corte dei conti, addi' 20 dicembre 1980  
+Registro n. 9 Presidenza, foglio n. 190

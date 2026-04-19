@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1949 n. 1152
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1980 n. 1039
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1949 n. 1152
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1980 n. 1039
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
@@ -10,670 +10,96 @@ Modificazioni allo statuto dell'Universita' degli studi di Roma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 14 ottobre 1926, n. 2319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2319) e modificato con i [regi decreti 13 ottobre 1927, n. 2819](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2819), [20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;20) settembre 1028, n. 3018, 31 ottobre 1929, n. 2483, 30 ottobre 1930, n. 1828, 1 ottobre 1931, n. 1329, 22 ottobre 1931, n. 1754, 22 ottobre 1932, n. 2090, 26 ottobre 1933, n. 2391, 27 dicembre 1934, n. 2419, 1 ottobre 1936, n. 2498, 27 ottobre 1937, n. 2619, 20 aprile 1939, n. 1350, 26 ottobre 1939, n. 1734, 26 ottobre 1940, n. 2069, 4 maggio 1942, n. 565, 24 luglio 1942, n. 949, 24 agosto 1942, n. 1098, [decreto luogotenenziale 8 febbraio 1946, n. 242](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-02-08;242), e con i [decreti del Capo provvisorio dello Stato 12 aprile 1917, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1917-04-12;461), [31 dicembre 1947, n. 1758 e con decreto del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1758) [24 dicembre 1948, n. 1619](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-12-24;1619);
+Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, numero 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica Istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso.
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli dal n. 106 al n. 119 vengono sostituiti dai seguenti:
+Articolo unico
+--------------
 
-TITOLO XI
-
-Facolta' di ingegneria
-
-Art. 106. - Presso la Facolta' di ingegneria si segue il triennio di studi di applicazione in tre sezioni che danno adito rispettivamente alle seguenti lauree:
-
-a) laurea in ingegneria civile (sottosezioni: edile, idraulica, trasporti);
-
-b) laurea in ingegneria industriale (sottoscrizioni: meccanica, elettrotecnica, chimica);
-
-c) laurea in ingegneria mineraria.
-
-Per ottenere l'iscrizione al triennio di applicazione lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per il biennio di studi propedeutici e deve inoltre avere superato una prova attestante la conoscenza di due lingue straniere moderne a sua scelta.
-
-Art. 107. - Fanno parte della Facolta' i seguenti Istituti:
-
-1 - Istituto di architettura e urbanistica presso il quale si svolgono i seguenti insegnamenti:
-
-a) architettura tecnica;
-
-b) architettura e composizione architettonica;
-
-c) tecnica urbanistica.
-
-2. - Istituto di chimica applicata ed industriale presso il quale si svolgono i seguenti insegnamenti:
-
-a) chimica applicata con laboratorio;
-
-b) chimica industriale con laboratorio;
-
-c) chimica analitica con laboratorio;
-
-d) chimica organica con laboratorio;
-
-e) chimica fisica;
-
-f) elettrochimica;
-
-g) impianti industriali chimici;
-
-h) tecnologie generali.
-
-3. - Istituto di costruzioni stradali e ferroviarie presso il quale si svolge l'insegnamento di costruzioni stradali e ferroviarie con laboratorio.
-
-4. - Istituto di elettrotecnica (con laboratorio) presso il quale si svolgono i seguenti insegnamenti:
-
-a) comunicazioni elettriche;
-
-b) costruzione di macchine elettriche;
-
-c) elettrotecnica;
-
-d) impianti industriali elettrici;
-
-e) misure elettriche;
-
-f) radiotecnica.
-
-5. - Istituto di fisica tecnica presso il quale si svolge l'insegnamento di fisica tecnica con laboratorio.
-
-6. - Istituto di geologia applicata (con laboratorio) presso il quale si svolgono i seguenti insegnamenti:
-
-a) geofisica mineraria;
-
-b) geologia applicata;
-
-c) giacimenti minerari.
-
-7. - Istituto di idraulica (con laboratorio) presso il quale si svolgono i seguenti insegnamenti:
-
-a) costruzioni idrauliche;
-
-b) costruzioni marittime;
-
-c) idraulica;
-
-d) impianti speciali idraulici.
-
-8. - Istituto di macchine e di tecnologie meccaniche (con laboratorio) presso il quale si svolgono i seguenti insegnamenti:
-
-a) costruzione di macchine;
-
-b) disegno di macchine e progetti;
-
-c) impianti industriali meccanici;
-
-d) macchine;
-
-e) meccanica applicata alle macchine;
-
-h tecnologie speciali meccaniche.
-
-9. - Istituto di metallurgia (con laboratorio) presso il quale si svolgono i seguenti insegnamenti:
-
-a) metallurgia e metallografia;
-
-b) tecnologie speciali chimiche.
-
-10. - Istituto di miniere (con laboratorio) presso il quale si svolge l'insegnamento di arte mineraria.
-
-11. - Istituto di scienza delle costruzioni (con laboratorio) presso il quale si svolgono i seguenti insegnamenti:
-
-a) costruzioni di legno, ferro, cemento armato;
-
-b) costruzioni di ponti;
-
-c) scienza delle costruzioni.
-
-12. - Istituto di topografia geodesia (con laboratorio) presso il quale si svolge l'insegnamento di topografia con elementi di geodesia.
-
-13. - Istituto di trasporti presso il quale si svolgono i seguenti insegnamenti:
-
-a) tecnica ed economia dei trasporti;
-
-b) trazione elettrica.
-
-Art. 108. - La sezione di ingegneria civile, suddivisa nelle tre sottosezioni, edile, idraulica e trasporti, comprende i seguenti insegnamenti fondamentali:
-
-A. - Insegnamenti comuni a tutte e tre le sottosezioni:
-
-1) architettura, tecnica, (biennale per la sola sottosezione edile);
-
-2) chimica applicata;
-
-3) costruzioni di legno ferro, cemento armato;
-
-4) costruzioni stradali e ferroviarie;
-
-5) elettrotecnica;
-
-6) estimo civile e rurale;
-
-7) fisica tecnica;
-
-8) idraulica;
-
-9) macchine;
-
-10) materie giuridiche ed economiche;
-
-11) meccanica applicata alle macchine;
-
-12) scienza delle costruzioni;
-
-13) tecnologie generali;
-
-14) topografia con elementi di geodesia.
-
-B. - Insegnamenti particolari per le singole sottosezioni:
-
-a) sottosezioni edile;
-
-15) architettura e composizione architettonica;
-
-16) tecnica urbanistica;
-
-b) sottosezione idraulica;
-
-15) costruzioni idrauliche;
-
-16) impianti speciali idratilici;
-
-c) sottosezione trasporti:
-
-15) costruzione di ponti;
-
-16) tecnica ed economia dei trasporti.
-
-Art. 109. - La sezione di ingegneria industriale, suddivisa nelle tre sottosezioni, chimica, elettrotecnica e meccanica, comprende i seguenti insegnamenti fondamentali:
-
-A. - insegnamenti comuni alle tre sottosezioni:
-
-1) architettura tecnica;
-
-2) chimica applicata;
-
-3) chimica industriale;
-
-4) costruzione di macchine;
-
-5) elettrotecnica;
-
-6) fisica tecnica;
-
-7) idraulica;
-
-8) macchine;
-
-9) materie giuridiche ed economiche;
-
-10) meccanica applicata alle macchine;
-
-11) scienza delle costruzioni;
-
-12) tecnologie generali;
-
-13) topografia con elementi di geodesia.
-
-B. - Insegnamenti particolari per le singole sottosezioni:
-
-a) sottosezione chimica:
-
-14) chimica fisica;
-
-15) impianti industriali chimici;
-
-b) sottosezione elettrotecnica:
-
-14) costruzione di macchine elettriche;
-
-15) impianti industriali elettrici;
-
-c) sottosezione meccanica:
-
-14) disegno di macchine e progetti;
-
-15) impianti industriali meccanici.
-
-Art. 110. - La sezione di ingegneria, mineraria comprende i seguenti insegnamenti fondamentali:
-
-1) architettura tecnica;
-
-2) arte mineraria;
-
-3) chimica applicata;
-
-4) elettrotecnica;
-
-5) fisica tecnica;
-
-4) geologia;
-
-7) giacimenti minerari;
-
-8) idraulica;
-
-9) macchine;
-
-10) materie giuridiche ed economiche;
-
-11) metallurgia e metallografia;
-
-12) meccanica applicata alle macchine;
-
-13) paleontologia;
-
-14) petrografia;
-
-15) scienza delle costruzioni;
-
-16) tecnologie generali;
-
-17) topografia con elementi di geodesia.
-
-Art. 111. - Sono insegnamenti complementari i seguenti:
-
-1) Architettura e composizione architettonica - 2) Arte mineraria - 3) Chimica analitica - 4) Chimica fisica - 5) Chimica industriale - 6) Chimica organica - 7) Comunicazioni elettriche - 8) Costruzione di macchine - 9) Costruzione di macchine elettriche - 10) Costruzione di ponti - 11) Costruzioni idrauliche - 12) Costruzioni di legno, ferro, cemento armato - 13) Costruzioni marittime - 14) Costruzioni stradali e ferroviarie - 15) Disegno di macchine e progetti - 16) Elettrochimica - 17) Estimo civile e rurale - 18) Geofisica mineraria - 19) Geologia applicata - 20) Giacimenti minerari - 21) Igiene applicata - 22) Impianti industriali chimici - 23) Impianti industriali elettrici - 24) Impianti industriali meccanici - 25) Impianti speciali idraulici - 26) Metallurgia e metallografia - 27) Misure elettriche - 28) Paleontologia - 29) Petrografia - 30) Radiotecnica - 31) Tecnica ed economia dei trasporti - 32) Tecnica urbanistica - 33) Tecnologie speciali (meccaniche) - 34) Tecnologie speciali (chimiche) - 35) Trazione elettrica.
-
-Per ogni sezione o sottosezione sono da considerarsi complementari tutti gli insegnamenti di cui sopra il eccezione, naturalmente, di quelli che figurano fra i fondamentali della sezione o sottosezione medesima.
-
-Art. 112. - Gli insegnamenti fondamentali e complementari sono di regola integrati da esercitazioni.
-
-Art. 113. - All'atto dell'iscrizione al 1° corso lo studente deve dichiarare quali siano la sezione e la sottosezione che intende seguire.
-
-Art. 114. - Ai fini della propedeuticita' degli esami delle diverse materie di insegnamento vale la seguente tabella:
-
-Non si puo essere am- Se non si e superato l'e
-
-messi a sostenere l'e- same di:
-
-same di:
-
-Architettura e composi- Architettura tecnica I
-
-zione architettonica
-
-Architettura tecnica I Scienza delle costruzioni
-
-Architettura tecnica II Architettura e composizione ar-
-
-chitettonica, Costruzioni di
-
-legno, ferro, cemento armato
-
-Chimica applicata Tecnologie generali - Fisica
-
-tecnica
-
-Chimica industriale Chimica applicata e, per la sot-
-
-tosezione chimica, Chimica fi-
-
-sica
-
-Comunicazioni elettriche Elettrotecnica
-
-Costruzione di macchine Scienza delle costruzioni, Mac- chine
-
-Costruzione di macchine Elettrotecnica
-
-elettriche
-
-Costruzione di ponti Scienza delle costruzioni
-
-Costruzioni idrauliche Idraulica, Scienza delle costru- zioni
-
-Costruzioni di legno, Scienza delle costruzioni
-
-ferro, cemento armato
-
-Costruzioni marittime Idraulica, Scienza delle costru- zioni
-
-Costruzioni stradali e Scienza delle costruzioni, Topo- ferroviarie grafia con elementi di geodesia
-
-Elettrochimica Chimica fisica
-
-Elettrotecnica Fisica tecnica
-
-Geologia Petrografia
-
-Giacimenti minerari Petrografia
-
-Idraulica Fisica tecnica
-
-Impianti industriali chi- Chimica applicata, Chimica fisi- mici ca, Chimica industriale, Elet-
-
-trotecnica, Macchine, Scienza
-
-delle costruzioni
-
-Impianti industriali e- Macchine, Elettrotecnica
-
-lettrici
-
-Impianti industriali Macchine
-
-meccanici
-
-Impianti speciali idraulici Idraulica, Macchine
-
-Macchine Idraulica, Meccanica applicata
-
-alle macchine, Scienza delle
-
-costruzioni, Tecnologie gene- rali
-
-Metallurgia e metallogra- Chimica applicata e, per le sot- fia
-
-tosezioni chimica e meccanica, Chimica fisica
-
-Misure elettriche Elettrotecnica
-
-Paleontologia Petrografia
-
-Radiotecnica Elettrotecnica
-
-Tecnica ed economia dei Macchine, Elettrotecnica
-
-trasporti
-
-Tecnologie speciali (mec- Chimica fisica, Meccanica appli- caniche) cata alle macchine, Scienza
-
-delle costruzioni, Tecnologie
-
-generali
-
-Tecnologie speciali chi- Chimica applicata
-
-miche
-
-Trazione elettrica Tecnica ed economia dei traspor- ti
-
-Art. 115. - Gli esami speciali consistono in prove orali che possono essere integrate da prove scritte, grafiche e pratiche, secondo modalita' che per ciascuna prova vengono stabilite dal Consiglio di facolta'.
-
-Nella votazione deve essere tenuto conto dei disegni e dei progetti compiuti durante l'anno accademico, dei risultati delle prove scritte e grafiche, dei colloqui, delle esercitazioni di laboratorio e di campagna.
-
-Art. 116. - Per essere ammessi agli esami di laurea gli studenti sono tenuti a frequentare i corsi ed a superare gli esami relativi agli insegnamenti fondamentali indicati negli articoli 108, 109, 110 ed a quelli complementari nel numero minimo di due per la sezione civile, sei per la sezione industriale e quattro per la sezione mineraria.
-
-I laureandi in ingegneria mineraria, salvo eccezioni debitamente autorizzate dal Consiglio di facolta', debbono aver trascorso un periodo di almeno un mese di tirocinio pratico presso un'azienda mineraria ed esibire una relazione del tirocinio fatto.
-
-Art. 117. - L'esame di laurea consiste:
-
-a) nella redazione di un progetto di un'opera di ingegneria civile, industriale o mineraria (tesi di laurea);
-
-b) nella esecuzione di due prove, l'una di carattere generale, l'altra specifica nel campo degli insegnamenti della sezione e sottosezione cui appartiene il candidato.
-
-Le modalita' delle prove vengono stabilite dal Consiglio di facolta';
-
-c) in una prova orale comprendente la discussione sul progetto presentato come tesi di laurea, nonche' sulle prove di cui in b) con richiami ai vari insegnamenti della (Facolta'.
-
-Art. 118. - La Facolta' puo' avvalersi degli insegnamenti di geologia, paleontologia e petrografia che si svolgono negli Istituti di mineralogia e di geologia della Facolta' di scienze.
-
-Art. 119. - Il programma degli studi che devono essere compiuti e degli esami che devono essere sostenuti presso la Facolta' dagli ingegneri del Corpo statale delle miniere viene per ciascuno di essi determinato dal Consiglio di facolta' con l'intervento del capo del Corpo delle miniere.
-
-Gli articoli 120, 121, 122, 123, 124 sono abrogati.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Dogliani, addi' 30 ottobre 1949
-
-EINAUDI
-
-GONELLA
-
-Visto, il Guardasigilli: PICCIONI
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 6 marzo 1950 Atti del Governo, registro n. 32, foglio n. 11. - FRASCA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 14 ottobre 1926, n. 2319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2319) e modificato con i [regi decreti 13 ottobre 1927, n. 2819](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2819), [20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;20) settembre 1028, n. 3018, 31 ottobre 1929, n. 2483, 30 ottobre 1930, n. 1828, 1 ottobre 1931, n. 1329, 22 ottobre 1931, n. 1754, 22 ottobre 1932, n. 2090, 26 ottobre 1933, n. 2391, 27 dicembre 1934, n. 2419, 1 ottobre 1936, n. 2498, 27 ottobre 1937, n. 2619, 20 aprile 1939, n. 1350, 26 ottobre 1939, n. 1734, 26 ottobre 1940, n. 2069, 4 maggio 1942, n. 565, 24 luglio 1942, n. 949, 24 agosto 1942, n. 1098, [decreto luogotenenziale 8 febbraio 1946, n. 242](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-02-08;242), e con i [decreti del Capo provvisorio dello Stato 12 aprile 1917, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1917-04-12;461), [31 dicembre 1947, n. 1758 e con decreto del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1758) [24 dicembre 1948, n. 1619](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-12-24;1619);   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica Istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:   
+I testi degli articoli 443, 444, 445, 446, 447 e 448, relativi alla scuola di perfezionamento in scienza dell'alimentazione, che muta la denominazione in quella di scuola di specializzazione in scienza dell'alimentazione, sono sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi:   
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso.   
-Gli articoli dal n. 106 al n. 119 vengono sostituiti dai seguenti:   
-  
-TITOLO XI   
-Facolta' di ingegneria   
-  
-Art. 106. - Presso la Facolta' di ingegneria si segue il triennio di studi di applicazione in tre sezioni che danno adito rispettivamente alle seguenti lauree:   
-a) laurea in ingegneria civile (sottosezioni: edile, idraulica, trasporti);   
-b) laurea in ingegneria industriale (sottoscrizioni: meccanica, elettrotecnica, chimica);   
-c) laurea in ingegneria mineraria.   
-Per ottenere l'iscrizione al triennio di applicazione lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per il biennio di studi propedeutici e deve inoltre avere superato una prova attestante la conoscenza di due lingue straniere moderne a sua scelta.   
-Art. 107. - Fanno parte della Facolta' i seguenti Istituti:   
-1 - Istituto di architettura e urbanistica presso il quale si svolgono i seguenti insegnamenti:   
-a) architettura tecnica;   
-b) architettura e composizione architettonica;   
-c) tecnica urbanistica.   
-2. - Istituto di chimica applicata ed industriale presso il quale si svolgono i seguenti insegnamenti:   
-a) chimica applicata con laboratorio;   
-b) chimica industriale con laboratorio;   
-c) chimica analitica con laboratorio;   
-d) chimica organica con laboratorio;   
-e) chimica fisica;   
-f) elettrochimica;   
-g) impianti industriali chimici;   
-h) tecnologie generali.   
-3. - Istituto di costruzioni stradali e ferroviarie presso il quale si svolge l'insegnamento di costruzioni stradali e ferroviarie con laboratorio.   
-4. - Istituto di elettrotecnica (con laboratorio) presso il quale si svolgono i seguenti insegnamenti:   
-a) comunicazioni elettriche;   
-b) costruzione di macchine elettriche;   
-c) elettrotecnica;   
-d) impianti industriali elettrici;   
-e) misure elettriche;   
-f) radiotecnica.   
-5. - Istituto di fisica tecnica presso il quale si svolge l'insegnamento di fisica tecnica con laboratorio.   
-6. - Istituto di geologia applicata (con laboratorio) presso il quale si svolgono i seguenti insegnamenti:   
-a) geofisica mineraria;   
-b) geologia applicata;   
-c) giacimenti minerari.   
-7. - Istituto di idraulica (con laboratorio) presso il quale si svolgono i seguenti insegnamenti:   
-a) costruzioni idrauliche;   
-b) costruzioni marittime;   
-c) idraulica;   
-d) impianti speciali idraulici.   
-8. - Istituto di macchine e di tecnologie meccaniche (con laboratorio) presso il quale si svolgono i seguenti insegnamenti:   
-a) costruzione di macchine;   
-b) disegno di macchine e progetti;   
-c) impianti industriali meccanici;   
-d) macchine;   
-e) meccanica applicata alle macchine;   
-h tecnologie speciali meccaniche.   
-9. - Istituto di metallurgia (con laboratorio) presso il quale si svolgono i seguenti insegnamenti:   
-a) metallurgia e metallografia;   
-b) tecnologie speciali chimiche.   
-10. - Istituto di miniere (con laboratorio) presso il quale si svolge l'insegnamento di arte mineraria.   
-11. - Istituto di scienza delle costruzioni (con laboratorio) presso il quale si svolgono i seguenti insegnamenti:   
-a) costruzioni di legno, ferro, cemento armato;   
-b) costruzioni di ponti;   
-c) scienza delle costruzioni.   
-12. - Istituto di topografia geodesia (con laboratorio) presso il quale si svolge l'insegnamento di topografia con elementi di geodesia.   
-13. - Istituto di trasporti presso il quale si svolgono i seguenti insegnamenti:   
-a) tecnica ed economia dei trasporti;   
-b) trazione elettrica.   
-Art. 108. - La sezione di ingegneria civile, suddivisa nelle tre sottosezioni, edile, idraulica e trasporti, comprende i seguenti insegnamenti fondamentali:   
-A. - Insegnamenti comuni a tutte e tre le sottosezioni:   
-1) architettura, tecnica, (biennale per la sola sottosezione edile);   
-2) chimica applicata;   
-3) costruzioni di legno ferro, cemento armato;   
-4) costruzioni stradali e ferroviarie;   
-5) elettrotecnica;   
-6) estimo civile e rurale;   
-7) fisica tecnica;   
-8) idraulica;   
-9) macchine;   
-10) materie giuridiche ed economiche;   
-11) meccanica applicata alle macchine;   
-12) scienza delle costruzioni;   
-13) tecnologie generali;   
-14) topografia con elementi di geodesia.   
-B. - Insegnamenti particolari per le singole sottosezioni:   
-a) sottosezioni edile;   
-15) architettura e composizione architettonica;   
-16) tecnica urbanistica;   
-b) sottosezione idraulica;   
-15) costruzioni idrauliche;   
-16) impianti speciali idratilici;   
-c) sottosezione trasporti:   
-15) costruzione di ponti;   
-16) tecnica ed economia dei trasporti.   
-Art. 109. - La sezione di ingegneria industriale, suddivisa nelle tre sottosezioni, chimica, elettrotecnica e meccanica, comprende i seguenti insegnamenti fondamentali:   
-A. - insegnamenti comuni alle tre sottosezioni:   
-1) architettura tecnica;   
-2) chimica applicata;   
-3) chimica industriale;   
-4) costruzione di macchine;   
-5) elettrotecnica;   
-6) fisica tecnica;   
-7) idraulica;   
-8) macchine;   
-9) materie giuridiche ed economiche;   
-10) meccanica applicata alle macchine;   
-11) scienza delle costruzioni;   
-12) tecnologie generali;   
-13) topografia con elementi di geodesia.   
-B. - Insegnamenti particolari per le singole sottosezioni:   
-a) sottosezione chimica:   
-14) chimica fisica;   
-15) impianti industriali chimici;   
-b) sottosezione elettrotecnica:   
-14) costruzione di macchine elettriche;   
-15) impianti industriali elettrici;   
-c) sottosezione meccanica:   
-14) disegno di macchine e progetti;   
-15) impianti industriali meccanici.   
-Art. 110. - La sezione di ingegneria, mineraria comprende i seguenti insegnamenti fondamentali:   
-1) architettura tecnica;   
-2) arte mineraria;   
-3) chimica applicata;   
-4) elettrotecnica;   
-5) fisica tecnica;   
-4) geologia;   
-7) giacimenti minerari;   
-8) idraulica;   
-9) macchine;   
-10) materie giuridiche ed economiche;   
-11) metallurgia e metallografia;   
-12) meccanica applicata alle macchine;   
-13) paleontologia;   
-14) petrografia;   
-15) scienza delle costruzioni;   
-16) tecnologie generali;   
-17) topografia con elementi di geodesia.   
-Art. 111. - Sono insegnamenti complementari i seguenti:   
-1) Architettura e composizione architettonica - 2) Arte mineraria - 3) Chimica analitica - 4) Chimica fisica - 5) Chimica industriale - 6) Chimica organica - 7) Comunicazioni elettriche - 8) Costruzione di macchine - 9) Costruzione di macchine elettriche - 10) Costruzione di ponti - 11) Costruzioni idrauliche - 12) Costruzioni di legno, ferro, cemento armato - 13) Costruzioni marittime - 14) Costruzioni stradali e ferroviarie - 15) Disegno di macchine e progetti - 16) Elettrochimica - 17) Estimo civile e rurale - 18) Geofisica mineraria - 19) Geologia applicata - 20) Giacimenti minerari - 21) Igiene applicata - 22) Impianti industriali chimici - 23) Impianti industriali elettrici - 24) Impianti industriali meccanici - 25) Impianti speciali idraulici - 26) Metallurgia e metallografia - 27) Misure elettriche - 28) Paleontologia - 29) Petrografia - 30) Radiotecnica - 31) Tecnica ed economia dei trasporti - 32) Tecnica urbanistica - 33) Tecnologie speciali (meccaniche) - 34) Tecnologie speciali (chimiche) - 35) Trazione elettrica.   
-Per ogni sezione o sottosezione sono da considerarsi complementari tutti gli insegnamenti di cui sopra il eccezione, naturalmente, di quelli che figurano fra i fondamentali della sezione o sottosezione medesima.   
-Art. 112. - Gli insegnamenti fondamentali e complementari sono di regola integrati da esercitazioni.   
-Art. 113. - All'atto dell'iscrizione al 1° corso lo studente deve dichiarare quali siano la sezione e la sottosezione che intende seguire.   
-Art. 114. - Ai fini della propedeuticita' degli esami delle diverse materie di insegnamento vale la seguente tabella:   
-Non si puo essere am- Se non si e superato l'e   
-messi a sostenere l'e- same di:   
-same di:   
-  
-Architettura e composi- Architettura tecnica I   
-zione architettonica   
-Architettura tecnica I Scienza delle costruzioni   
-Architettura tecnica II Architettura e composizione ar-   
-chitettonica, Costruzioni di   
-legno, ferro, cemento armato   
-Chimica applicata Tecnologie generali - Fisica   
-tecnica   
-Chimica industriale Chimica applicata e, per la sot-   
-tosezione chimica, Chimica fi-   
-sica   
-Comunicazioni elettriche Elettrotecnica   
-Costruzione di macchine Scienza delle costruzioni, Mac- chine   
-Costruzione di macchine Elettrotecnica   
-elettriche   
-Costruzione di ponti Scienza delle costruzioni   
-Costruzioni idrauliche Idraulica, Scienza delle costru- zioni   
-Costruzioni di legno, Scienza delle costruzioni   
-ferro, cemento armato   
-Costruzioni marittime Idraulica, Scienza delle costru- zioni   
-  
-Costruzioni stradali e Scienza delle costruzioni, Topo- ferroviarie grafia con elementi di geodesia   
-Elettrochimica Chimica fisica   
-Elettrotecnica Fisica tecnica   
-Geologia Petrografia   
-Giacimenti minerari Petrografia   
-Idraulica Fisica tecnica   
-  
-Impianti industriali chi- Chimica applicata, Chimica fisi- mici ca, Chimica industriale, Elet-   
-trotecnica, Macchine, Scienza   
-delle costruzioni   
-Impianti industriali e- Macchine, Elettrotecnica   
-lettrici   
-Impianti industriali Macchine   
-meccanici   
-Impianti speciali idraulici Idraulica, Macchine   
-Macchine Idraulica, Meccanica applicata   
-alle macchine, Scienza delle   
-costruzioni, Tecnologie gene- rali   
-Metallurgia e metallogra- Chimica applicata e, per le sot- fia   
-tosezioni chimica e meccanica, Chimica fisica   
-Misure elettriche Elettrotecnica   
-Paleontologia Petrografia   
-Radiotecnica Elettrotecnica   
-Tecnica ed economia dei Macchine, Elettrotecnica   
-trasporti   
-  
-Tecnologie speciali (mec- Chimica fisica, Meccanica appli- caniche) cata alle macchine, Scienza   
-delle costruzioni, Tecnologie   
-generali   
-Tecnologie speciali chi- Chimica applicata   
-miche   
-Trazione elettrica Tecnica ed economia dei traspor- ti   
-  
-Art. 115. - Gli esami speciali consistono in prove orali che possono essere integrate da prove scritte, grafiche e pratiche, secondo modalita' che per ciascuna prova vengono stabilite dal Consiglio di facolta'.   
-Nella votazione deve essere tenuto conto dei disegni e dei progetti compiuti durante l'anno accademico, dei risultati delle prove scritte e grafiche, dei colloqui, delle esercitazioni di laboratorio e di campagna.   
-Art. 116. - Per essere ammessi agli esami di laurea gli studenti sono tenuti a frequentare i corsi ed a superare gli esami relativi agli insegnamenti fondamentali indicati negli articoli 108, 109, 110 ed a quelli complementari nel numero minimo di due per la sezione civile, sei per la sezione industriale e quattro per la sezione mineraria.   
-I laureandi in ingegneria mineraria, salvo eccezioni debitamente autorizzate dal Consiglio di facolta', debbono aver trascorso un periodo di almeno un mese di tirocinio pratico presso un'azienda mineraria ed esibire una relazione del tirocinio fatto.   
-Art. 117. - L'esame di laurea consiste:   
-a) nella redazione di un progetto di un'opera di ingegneria civile, industriale o mineraria (tesi di laurea);   
-b) nella esecuzione di due prove, l'una di carattere generale, l'altra specifica nel campo degli insegnamenti della sezione e sottosezione cui appartiene il candidato.   
-Le modalita' delle prove vengono stabilite dal Consiglio di facolta';   
-c) in una prova orale comprendente la discussione sul progetto presentato come tesi di laurea, nonche' sulle prove di cui in b) con richiami ai vari insegnamenti della (Facolta'.   
-Art. 118. - La Facolta' puo' avvalersi degli insegnamenti di geologia, paleontologia e petrografia che si svolgono negli Istituti di mineralogia e di geologia della Facolta' di scienze.   
-Art. 119. - Il programma degli studi che devono essere compiuti e degli esami che devono essere sostenuti presso la Facolta' dagli ingegneri del Corpo statale delle miniere viene per ciascuno di essi determinato dal Consiglio di facolta' con l'intervento del capo del Corpo delle miniere.   
-Gli articoli 120, 121, 122, 123, 124 sono abrogati.   
+Scuola di specializzazione in scienza dell'alimentazione   
+Art. 443. - Alla facolta' di scienze matematiche, fisiche e naturali e' annessa la scuola di specializzazione in scienza dell'alimentazione.   
+Art. 444. - L'ammissione alla scuola avviene per titoli. Sono disponibili trenta posti per ciascun anno di corso, complessivamente per i tre indirizzi.   
+Art. 445. - Il corso degli studi ha la durata di tre anni e si distingue nei seguenti tre indirizzi:   
+a) indirizzo dietetico;   
+b) indirizzo nutrizionistico;   
+c) indirizzo tecnologico.   
+Art. 446. - L'indirizzo dietetico mira ad approfondire nei medici le basi teoriche e pratiche di fondamentale importanza per la dietetica preventiva e curativa ed a stimolare altresi' la ricerca scientifica nel vasto campo della nutrizione umana.   
+A tale indirizzo possono iscriversi soltanto i laureati in medicina e chirurgia.   
+L'indirizzo nutrizionistico mira alla preparazione specialistica di laureati in settori concernenti lo studio di problemi generali e speciali dell'alimentazione negli aspetti fisiologici, biochimici, igienici, ecologici, economico-sociali, nonche' a stimolare la ricerca scientifica nei sopracitati settori.   
+A tale indirizzo sono ammessi i laureati in chimica, chimica e tecnologia farmaceutiche, in farmacia, in medicina e chirurgia, in medicina veterinaria, in scienze biologiche e scienze naturali.   
+L'indirizzo tecnologico mira alla preparazione di laureati per le attivita' direttive in settori concernenti le tecnologie alimentari in funzione dei loro riflessi nutrizionali ed igienici sul prodotto finito, nonche' a stimolare la ricerca in questo settore.   
+A tale indirizzo sono ammessi i laureati in chimica, chimica industriale, chimica e tecnologia farmaceutiche, in farmacia, in ingegneria chimica, in scienze agrarie, in scienze biologiche, in scienze delle preparazioni alimentari.   
+Art. 447. - Gli insegnamenti del primo biennio della scuola sono comuni ai tre indirizzi; gli insegnamenti speciali, che qualificano i tre indirizzi, sono svolti nel terzo anno.   
+Le materie di insegnamento sono le seguenti:   
+1° Anno (comune ai tre indirizzi):   
+1) chimica degli alimenti;   
+2) biochimica della nutrizione;   
+3) fisiologia generale della nutrizione;   
+4) istituzioni di statistica applicata ai problemi alimentari. 2° Anno (comune ai tre indirizzi):   
+5) fisiologia della nutrizione umana;   
+6) igiene alimentare ed elementi di legislazione;   
+7) istituzioni di tecnologie alimentari;   
+8) biochimica patologica della nutrizione.   
+3° Anno:   
+a) indirizzo dietetico:   
+9) alimentazione umana;   
+10) dietetica nell'eta' adulta;   
+11) dietetica nell'infanzia;   
+12) dietetica per le collettivita';   
+13) malattie dell'alimentazione e dietoterapia;   
+14) dietetica ospedaliera e organizzazione dei relativi servizi;   
+b) indirizzo nutrizionistico:   
+9) alimentazione umana;   
+10) alimentazione degli animali da allevamento e da lavoro;   
+11) ecologia e geografia dell'alimentazione;   
+12) economia e statistica applicata all'alimentazione;   
+13) tecnica dei rilevamenti alimentari;   
+14) analisi chimiche degli alimenti; additivi chimici, sofisticazioni e adulterazioni alimentari;   
+c) indirizzo tecnologico:   
+9) microbiologia e chimica delle fermentazioni nell'industria alimentare;   
+10) tecnologie industriali di preparazione, conservazione e confezionamento degli alimenti di origine animale;   
+11) tecnologie industriali di preparazione, conservazione e confezionamento degli alimenti di origine vegetale;   
+12) analisi chimiche degli alimenti, additivi chimici, sofisticazioni e adulterazioni alimentari.   
+Art. 448. - Il consiglio della scuola ha la facolta' di inserire uno o piu' insegnamenti complementari nei vari anni di corso e stabilire gli insegnamenti per i quali debbono essere svolte anche esercitazioni.   
+I corsi impartiti nella scuola possono essere integrati da conferenze su argomenti speciali.   
+La scuola conferisce il diploma di specializzazione in scienza dell'alimentazione con l'indicazione dello indirizzo seguito.   
+Per conseguire il diploma il candidato, dopo aver superato gli esami in tutte le materie di insegnamento assegnategli dal consiglio della scuola, deve presentare e discutere una dissertazione scritta su argomento riguardante la scienza dell'alimentazione nell'ambito dell'indirizzo prescelto.   
+Coloro che hanno conseguito il diploma di specializzazione per uno dei tre indirizzi, potranno essere iscritti al terzo anno di un altro indirizzo nell'ambito della disponibilita' dei posti e sempre che il titolo di studio posseduto consenta l'accesso.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Dogliani, addi' 30 ottobre 1949
+### Dato a Roma, addi' 31 ottobre 1980
 
-EINAUDI GONELLA
+PERTINI BODRATO
 
-Visto, il Guardasigilli: PICCIONI
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 6 marzo 1950
+Registrato alla Corte dei conti, addi' 31 gennaio 1981
 
-Atti del Governo, registro n. 32, foglio n. 11. - FRASCA
+Registro n. 9 Istruzione, foglio n. 70

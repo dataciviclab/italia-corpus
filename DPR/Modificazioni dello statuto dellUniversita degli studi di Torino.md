@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1969 n. 273
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 aprile 1949 n. 613
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1969 n. 273
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 aprile 1949 n. 613
+=============================================================
 
 Modificazioni dello statuto dell'Universita' degli studi di Torino.
 -------------------------------------------------------------------
@@ -10,15 +10,15 @@ Modificazioni dello statuto dell'Universita' degli studi di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Torino approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788) e successive modificazioni;
+Visto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), modificato con i [regi decreti 20 aprile 1939, n. 1118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1118), [12 gennaio 1941, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-12;34), [27 aprile 1942, n. 571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-04-27;571), [5 settembre 1942, n. 1237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-09-05;1237), [24 ottobre 1942, n. 1438](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-10-24;1438), e con i [decreti del Capo provvisorio dello Stato 4 febbraio 1947, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-04;196) e [7 marzo 1947, n. 1727](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-03-07;1727);
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Visto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Visto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Viste le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,444 +30,298 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 120, relativo all'elenco delle discipline nelle quali si conferiscono diplomi di specialista o di perfezionamento e' modificato nel senso che la disciplina di cui al n. 2 e' cambiata in "Anestesiologia e rianimazione" che sono aggiunte al n. 29 quella di "Microbiologia" e al n. 30 quella di "Psichiatria".
+All'art. 66 vengono aggiunti i seguenti numeri:
 
-Gli articoli 132, 133, 134, 174 e 175 relativi alla scuola di specializzazione in anestesia e alla scuola di specializzazione in ortopedia e traumatologia, sono abrogati e sostituiti dai seguenti:
+n. 15. Anestesia;
 
-Scuola di specializzazione in anestesiologia e rianimazione
+n. 16. Medicina interna;
 
-Art. 132. - Gli insegnamenti impartiti nella scuola sono i seguenti:
+n. 17. Patologia generale;
 
-1° Anno:
+n. 18. Tisiologia.
 
-Anatomia, biochimica, farmacologia, fisica, fisiologia applicata alla anestesiologia e rianimazione; anestesiologia; tecniche chirurgiche di interesse anestesiologico; aspetti medico-legali dell'anestesia e della rianimazione; internato.
+Dopo l'art. 102 vengono aggiunti i seguenti articoli:
 
-2° Anno:
+Anestesia.
 
-Anestesiologia; terapia antalgica; rianimazione; internato.
+Art. 103. - Per il conseguimento del diploma di specialista in anestesia, si richiedono due anni di corso con internato.
 
-3° Anno:
+Art. 104. - Gli insegnamenti impartiti nella scuola sono i seguenti:
 
-Rianimazione; tecniche speciali di anestesia e rianimazione; indagini diagnostiche attinenti alla specialita'; internato.
+1° anno:
 
-Numero massimo di iscritti: n. 30 per ogni anno di corso (totale n. 90 iscritti).
+1) anatomia, - con speciale riguardo alla topografia dei nervi periferici;
 
-Art. 133. - Non e' concesso nessun abbreviamento di corso, ad eccezione dei candidati che, gia' in possesso del diploma di specializzazione in anestesiologia, possono essere ammessi al 3° anno per ottenere il completamento.
+2) fisiologia - del sistema cardiovascolare, del sistema respiratorio e del sistema nervoso;
 
-Per accedere ai corsi successivi e' obbligatorio il superamento di tutti gli esami del corso precedente, ivi comprese le materie biennali. Gli esami possono essere sostenuti solamente in due sessioni annuali, una estiva ed una autunnale, e comunque non oltre il 30 novembre dell'anno in corso.
+3) farmacologia, - con particolare riguardo ai narcotici, ipnotici, anestetici ad azione locale, vari alcaloidi, cardiocinetici ed analettici respiratori;
 
-Art. 134. - Il diploma viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico o sperimentale.
+4) generalita' e tecnica della narcosi;
 
-Scuola di specializzazione in ortopedia e traumatologia
+5) generalita' e tecnica delle anestesie periferiche, rachianestesia, anestesie plessiche regionali, anestesie locali, ecc. 2° anno:
 
-Art. 174. - La scuola di specializzazione in ortopedia e traumatologia, ha sede presso l'istituto di clinica ortopedica e traumatologica, e conferisce il diploma di specializzazione in ortopedia e traumatologia. Il corso ha la durata di tre anni.
+1) generalita' e tecnica della narcosi (biennale)
 
-Potranno essere ammessi alla scuola i laureati in medicina e chirurgia.
+2) generalita' e tecnica delle anestesie periferiche (biennale);
 
-La frequenza e' obbligatoria nell'istituto sede della scuola per un periodo di almeno nove mesi per ogni anno accademico. E' in facolta' del direttore della scuola di concedere una deroga a tale norma, solo agli iscritti che facciano parte di cliniche ortopediche che non abbiano la scuola di specializzazione, o che siano assistenti di ruolo di divisioni di ortopedia e traumatologia, in ospedali di la categoria. Per queste due categorie di iscritti il periodo di frequenza presso l'istituto sede della scuola, puo' essere ridotto sino a non meno di un mese ogni anno.
+3) anestesia del parto;
 
-Per nessun motivo sono ammesse abbreviazioni della durata degli studi.
+4) patogenesi del dolore e metodi di terapia antalgica;
 
-Gli insegnamenti si svolgeranno con indirizzo prevalentemente pratico, dimostrativo, ma per ogni singola materia di insegnamento dovra' anche svolgersi un regolare corso di lezioni, il cui numero verra' fissato annualmente dal direttore della scuola in accordo con i docenti delle singole materie.
+5) trattamento pre, intra e post operatorio con speciale riguardo alla trasfusione del sangue.
 
-Il numero massimo di iscritti e' di 40 per ogni anno di corso per un totale complessivo di 120 iscritti.
+Art. 105. - Lo specializzando per accedere al secondo anno della scuola di specializzazione deve aver superato gli esami del primo anno.
 
-Art. 175. - Le materie di insegnamento sono le seguenti:
+Art. 106. - Al corso di specializzazione possono essere iscritti cinque allievi per anno.
 
-1) Clinica ortopedica e traumatologica (triennale);
+Medicina interna.
 
-2) Patologia delle deformita', lesioni e malattie degli organi di movimento (triennale);
+Art. 107. - Per il conseguimento del diploma di specialita' in medicina interna si richiedono cinque anni di corso.
 
-3) Tecnica operatoria cruenta e incruenta (triennale);
+Art. 108. - Gli insegnamenti impartiti nelle scuole sono i seguenti:
 
-4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);
+1° anno:
 
-5) Anatomia ed istologia dell'apparato locomotore;
+1) clinica medica;
 
-6) Fisiologia dell'apparato locomotore;
+2) anatomia patologica;
 
-7) Anatomia ed istologia patologica dell'apparato locomotore;
+3) parassitologia medica;
 
-8) Nozioni di chirurgia generale;
+4) chimica per clinica.
 
-9) Neuropatologia dell'apparato locomotore ed elettrodiagnostica;
+2° anno:
 
-10) Nozioni di pediatria;
+1) clinica medica;
 
-11) Apparato-terapia ortopedica;
+2) patologia e semeiotica cardiovascolare e renale;
 
-12) Fisiochinesiterapia;
+3) ematologia;
 
-13) Infortunistica;
+4) batterioscopia, e sierologia clinica.
 
-14) Anestesia e rianimazione in ortopedia e traumatologia.
+3° anno:
 
-Le materie d'insegnamento sono cosi' distribuite nei vari anni di corso:
+1) clinica medica;
 
-1° Anno:
+2) patologia e semeiotica apparato digerente;
 
-Clinica ortopedica e traumatologica (triennale);
+3) malattie infettive;
 
-Patologia delle deformita', lesioni, e malattie degli organi di movimento (triennale);
+4) semeiotica oculare.
 
-Tecnica operatoria cruenta e incruenta ortopedica e traumatologica (triennale);
+4° anno:
 
-Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);
+1) clinica medica;
 
-Anatomia e istologia dell'apparato locomotore;
+2) patologia e semeiotica polmonare;
 
-Fisiologia dell'apparato locomotore;
+3) climatologia, e idrologia;
 
-Nozioni di chirurgia generale;
+4) diagnostica e radiologia.
 
-Nozioni di pediatria.
+5° anno:
 
-2° Anno:
+1) clinica medica;
 
-Clinica ortopedica e traumatologica (triennale);
+2) patologia e semeiotica neurologica;
 
-Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);
+3) terapia medica.
 
-Tecnica operatoria cruenta e incruenta ortopedica e traumatologica (triennale);
+Art. 109. - L'internato si svolgera' presso l'Istituto in clinica medica generale dell'Universita' di Torino.
 
-Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);
+Patologia generale.
 
-Neuropatologia dell'apparato locomotore, ed elettrodiagnostica;
+Art. 110. - Per il conseguimento del diploma di perfezionamento in patologia generale si richiedono due anni di corso con internato.
 
-Anatomia ed istologia patologica dell'apparato locomotore;
+Alla scuola di perfezionamento vengono ammessi solo i laureati in medicina e chirurgia. L'insegnamento si svolge nell'Istituto di patologia generale dell'Universita'. Gli iscritti alla scuola hanno l'obbligo di frequentare tutti gli insegnamenti teorici e le esercitazioni pratiche impartite dai professori.
 
-Anestesia e rianimazione in Ortopedia e traumatologia.
+Art. 111. Gli insegnamenti impartiti nella scuola sono i seguenti: 1° anno:
 
-3° Anno:
+1) patologia generale (eziologia, cipatologia, eucologia);
 
-Clinica ortopedica e traumatologica (triennale);
+2) parassitologia;
 
-Patologia delle deformita'; lesioni e malattie degli organi di movimento (triennale);
+3) batteriologia;
 
-Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);
+4) immunologia.
 
-Apparatoterapia ortopedica;
+2° anno:
 
-Fisiochinesiterapia;
+patologia generale (fisiopatologia);
 
-Infortunistica;
+biochimica;
 
-Gli esami si svolgeranno per singole materie. Gli esami di clinica ortopedica e traumatologica, di tecnica operatoria cruenta ed incruenta, e di radiodiagnostica, saranno teorici e pratici.
+istopatologia.
 
-Per l'ammissione al corso successivo e' obbligatorio il superamento degli esami delle materie di ciascun corso.
+Art. 112. - Alla fine del primo e secondo anno i candidati dovranno sostenere un esame teorico sul programma svolto in ciascun insegnamento. Superati gli esami dei singoli insegnamenti per il conseguimento del diploma gli iscritti dovranno presentare e discutere innanzi ad una commissione formata da sette membri scelti fra gli insegnanti della scuola, una dissertazione su di un argomento di patologia generale, dopo aver superata una prova pratica sperimentale.
 
-Per l'ammissione all'esame di diploma il candidato dovra' presentare una tesi a stampa dattiloscritta su argomento della specialita'.
+Tisiologia.
 
-Dopo l'art. 242 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in microbiologia e in psichiatria.
+Art. 113. - Per il conseguimento del diploma di specializzazione in tisiologia e malattie dell'apparato respiratorio si richiedono due anni di corso con internato.
 
-Scuola di specializzazione in microbiologia
+Art. 114. - Gli insegnamenti impartiti nella scuola sono i seguenti:
 
-Art. 243. - La scuola di specializzazione in microbiologia ha lo scopo di allargare e completare sul piano scientifico la cultura di coloro che si dedicano allo studio di questa disciplina e di fornire sul piano tecnico una preparazione pratica specifica.
+1° anno:
 
-Possono essere ammessi i laureati in medicina e chirurgia, medicina veterinaria, scienze biologiche, scienze naturali e farmacia.
+1) tisiologia;
 
-Il corso ha la durata di tre anni ed ha luogo presso l'istituto di microbiologia.
+2) clinica delle malattie non tubercolari dell'apparato respiratorio;
 
-Gli iscritti al primo anno non potranno superare il numero di 20; il numero massimo complessivo per i tre anni di corso e' fissato in 60 specializzandi.
+3) radiologia dell'apparato respiratorio;
 
-Nel caso di domande eccedenti, la selezione verra' effettuata mediante concorso con norme che verranno precisate nel manifesto annuale. Qualora un aspirante, sufficientemente fornito di titoli attinenti alle materie della scuola, chieda abbreviazione di corso, dovra' presentare motivata istanza.
+4) anatomia e istologia patologica;
 
-La direzione della scuola viene assunta da un professore di ruolo di microbiologia. Il direttore della scuola puo' nominare un vice direttore che lo coadiuvi e lo supplisca ed un segretario.
+5) diagnostica di laboratorio;
 
-L'ordine degli studi (distribuzione degli insegnamenti nei diversi anni del corso) e l'ordine e le modalita' degli esami verranno stabiliti nel manifesto annuale.
+6) igiene e assistenza sociale nel campo tubercolare;
 
-Art. 244. - Gli insegnamenti impartiti nella scuola sono:
+7) terapia medica.
 
-1) Chimica microbiologica;
+2° anno:
 
-2) Batteriologia generale e tecnica batteriologica;
+1) tisiologia;
 
-3) Analisi statistica del dosaggio biologico;
+2) radiologia dell'apparato respiratorio;
 
-4) Immunologia;
+3) la tubercolosi nell'infanzia;
 
-5) Batteriologia speciale;
+4) la tubercolosi in gravidanza;
 
-6) Virologia generale e tecnica virologica;
+5) tecnica sanatoriale e dispensariale;
 
-7) Micologia;
+6) collassoterapia;
 
-8)Protozoologia;
+7) terapia chirurgia.
 
-9) Genetica dei microorganismi;
+Art. 115. - L'internato si svolgera' presso l'Istituto di clinica medica generale dell'Universita' di Torino, comprendendo anche la frequenza, nell'Ospedale sanatorio San Luigi, ove puo' essere svolta e dimostrata la parte tecnica sanatoriale e dispensariale.
 
-10)Virologia speciale;
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta, ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-11) Microbiologia degli alimenti;
+Dato a Dogliani, addi' 21 aprile 1949
 
-12) Microbiologia industriale;
+EINAUDI
 
-13) Metodi e dosaggi microbiologici.
+GONELLA
 
-Il direttore puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari di conferenze su materie e argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola.
-
-Art. 245. - L'esame di diploma constera' di una discussione sopra una tesi scritta e di una prova pratica.
-
-I candidati non riconosciuti idonei, potranno ripresentarsi dopo un altro anno di frequenza alla scuola. Ma se al secondo esame non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.
-
-A coloro che abbiano superato l'esame di diploma verra' rilasciato un diploma di specialista in microbiologia.
-
-Scuola di specializzazione in psichiatria
-
-Art. 246. - E' istituita presso la facolta' di medicina e chirurgia, una scuola di specializzazione in psichiatria. Il corso degli studi ha una durata di quattro anni. Alla scuola sono ammessi i laureati in medicina e chirurgia. Il numero massimo degli ammessi sara' di quindici per ogni anno di corso per un totale di sessanta iscritti. La direzione della scuola e' affidata al direttore dell'istituto di clinica psichiatrica dell'Universita' di Torino:
-
-All'insegnamento sono chiamati a collaborare docenti della locale facolta' di medicina e chirurgia e cultori delle materie di insegnamento.
-
-Art. 247. - Il programma di insegnamento si svolge in quattro anni di corso e comprende le seguenti materie:
-
-1° Anno:
-
-Anatomia e istologia del S. N.
-
-Fisiologia del S. N.
-
-Biochimica del S. N.
-
-Genetica (elementi);
-
-Psicologia generale;
-
-Psicopatologia I;
-
-Semeiotica psichiatrica.
-
-2° Anno:
-
-Anatomia ed istologia patologica del S. N;
-
-Semeiotica neurologica;
-
-Patologia speciale e diagnostica neurologica;
-
-Neuro-radiologia;
-
-Endocrinologia e neurologia vegetativa;
-
-Elettroencefalografia.
-
-3° Anno:
-
-Patologia speciale psichiatrica;
-
-Psicopatologia 2°;
-
-Clinica psichiatrica 1°;
-
-Psicologia clinica e psicodiagnostica;
-
-Psicofarmacologia;
-
-Psichiatria in rapporto con la patologia internistica;
-
-Esami di laboratorio.
-
-4° Anno:
-
-Clinica psichiatrica (2°);
-
-Terapia psichiatrica generale;
-
-Psicoterapia;
-
-Neuropsichiatria infantile;
-
-Psichiatria forense e legislazione psichiatrica;
-
-Psichiatria sociale (del lavoro, scolastica, igiene e profilassi mentale).
-
-I corsi sono integrati da conferenze su argomenti di particolare interesse specialistico.
-
-Alla fine di ciascun anno di corso lo specializzando, che abbia ottenuto le firme di frequenza, deve sostenere gli esami sulle materie di insegnamento ed al termine dei quattro anni deve superare un esame di diploma con presentazione e discussione di una tesi scritta per conseguire il titolo di specialista in psichiatria.
-
-Art. 248. - E' obbligatorio l'internato per l'intero anno scolastico per il 1°, 3°, 4° anno in clinica psichiatrica sede della scuola. Tale internato potra' essere ridotto a non meno di quattro mesi all'anno per i medici che prestino servizio regolare in ospedale psichiatrico. L'internato e' obbligatorio per il secondo anno in neurologia per l'intero anno scolastico, salvo per i medici che prestino regolare servizio in ospedale psichiatrico per i quali potra' essere ridotto a non meno di mesi sei, e per i medici che prestino regolare servizio in un reparto neurologico per i quali potra' essere ridotto a noti meno di mesi quattro. Per gli specialisti in neurologia neuropsichiatria infantile potra' esservi un abbuono di due anni; un anno di abbuono per gli specialisti in altre materie affini (psicologia, medicina generale, neurochirurgia).
-
-Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 marzo 1969
-
-SARAGAT
-
-FERRARI AGGRADI
-
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: GRASSI
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 3 giugno 1969 Atti del Governo, registro n. 227, foglio n. 5. - GRECO
+alla Corte dei conti, addi' 7 settembre 1949 Atti del Governo, registro n. 29, foglio n. 126. - FRASCA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Torino approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788) e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Visto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), modificato con i [regi decreti 20 aprile 1939, n. 1118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1118), [12 gennaio 1941, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-12;34), [27 aprile 1942, n. 571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-04-27;571), [5 settembre 1942, n. 1237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-09-05;1237), [24 ottobre 1942, n. 1438](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-10-24;1438), e con i [decreti del Capo provvisorio dello Stato 4 febbraio 1947, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-04;196) e [7 marzo 1947, n. 1727](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-03-07;1727);  
+Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Visto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071);  
+Visto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Viste le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 120, relativo all'elenco delle discipline nelle quali si conferiscono diplomi di specialista o di perfezionamento e' modificato nel senso che la disciplina di cui al n. 2 e' cambiata in "Anestesiologia e rianimazione" che sono aggiunte al n. 29 quella di "Microbiologia" e al n. 30 quella di "Psichiatria".   
-Gli articoli 132, 133, 134, 174 e 175 relativi alla scuola di specializzazione in anestesia e alla scuola di specializzazione in ortopedia e traumatologia, sono abrogati e sostituiti dai seguenti:   
-  
-Scuola di specializzazione in anestesiologia e rianimazione   
-  
-Art. 132. - Gli insegnamenti impartiti nella scuola sono i seguenti:   
-1° Anno:   
-Anatomia, biochimica, farmacologia, fisica, fisiologia applicata alla anestesiologia e rianimazione; anestesiologia; tecniche chirurgiche di interesse anestesiologico; aspetti medico-legali dell'anestesia e della rianimazione; internato.   
-2° Anno:   
-Anestesiologia; terapia antalgica; rianimazione; internato.   
-3° Anno:   
-Rianimazione; tecniche speciali di anestesia e rianimazione; indagini diagnostiche attinenti alla specialita'; internato.   
-Numero massimo di iscritti: n. 30 per ogni anno di corso (totale n. 90 iscritti).   
-Art. 133. - Non e' concesso nessun abbreviamento di corso, ad eccezione dei candidati che, gia' in possesso del diploma di specializzazione in anestesiologia, possono essere ammessi al 3° anno per ottenere il completamento.   
-Per accedere ai corsi successivi e' obbligatorio il superamento di tutti gli esami del corso precedente, ivi comprese le materie biennali. Gli esami possono essere sostenuti solamente in due sessioni annuali, una estiva ed una autunnale, e comunque non oltre il 30 novembre dell'anno in corso.   
-Art. 134. - Il diploma viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico o sperimentale.   
-  
-Scuola di specializzazione in ortopedia e traumatologia   
-  
-Art. 174. - La scuola di specializzazione in ortopedia e traumatologia, ha sede presso l'istituto di clinica ortopedica e traumatologica, e conferisce il diploma di specializzazione in ortopedia e traumatologia. Il corso ha la durata di tre anni.   
-Potranno essere ammessi alla scuola i laureati in medicina e chirurgia.   
-La frequenza e' obbligatoria nell'istituto sede della scuola per un periodo di almeno nove mesi per ogni anno accademico. E' in facolta' del direttore della scuola di concedere una deroga a tale norma, solo agli iscritti che facciano parte di cliniche ortopediche che non abbiano la scuola di specializzazione, o che siano assistenti di ruolo di divisioni di ortopedia e traumatologia, in ospedali di la categoria. Per queste due categorie di iscritti il periodo di frequenza presso l'istituto sede della scuola, puo' essere ridotto sino a non meno di un mese ogni anno.   
-Per nessun motivo sono ammesse abbreviazioni della durata degli studi.   
-Gli insegnamenti si svolgeranno con indirizzo prevalentemente pratico, dimostrativo, ma per ogni singola materia di insegnamento dovra' anche svolgersi un regolare corso di lezioni, il cui numero verra' fissato annualmente dal direttore della scuola in accordo con i docenti delle singole materie.   
-Il numero massimo di iscritti e' di 40 per ogni anno di corso per un totale complessivo di 120 iscritti.   
-Art. 175. - Le materie di insegnamento sono le seguenti:   
-1) Clinica ortopedica e traumatologica (triennale);   
-2) Patologia delle deformita', lesioni e malattie degli organi di movimento (triennale);   
-3) Tecnica operatoria cruenta e incruenta (triennale);   
-4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);   
-5) Anatomia ed istologia dell'apparato locomotore;   
-6) Fisiologia dell'apparato locomotore;   
-7) Anatomia ed istologia patologica dell'apparato locomotore;   
-8) Nozioni di chirurgia generale;   
-9) Neuropatologia dell'apparato locomotore ed elettrodiagnostica;  
-10) Nozioni di pediatria;   
-11) Apparato-terapia ortopedica;   
-12) Fisiochinesiterapia;   
-13) Infortunistica;   
-14) Anestesia e rianimazione in ortopedia e traumatologia.   
-Le materie d'insegnamento sono cosi' distribuite nei vari anni di corso:   
-1° Anno:   
-Clinica ortopedica e traumatologica (triennale);   
-Patologia delle deformita', lesioni, e malattie degli organi di movimento (triennale);   
-Tecnica operatoria cruenta e incruenta ortopedica e traumatologica (triennale);   
-Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);   
-Anatomia e istologia dell'apparato locomotore;   
-Fisiologia dell'apparato locomotore;   
-Nozioni di chirurgia generale;   
-Nozioni di pediatria.   
-2° Anno:   
-Clinica ortopedica e traumatologica (triennale);   
-Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);   
-Tecnica operatoria cruenta e incruenta ortopedica e traumatologica (triennale);   
-Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);   
-Neuropatologia dell'apparato locomotore, ed elettrodiagnostica;  
-Anatomia ed istologia patologica dell'apparato locomotore;   
-Anestesia e rianimazione in Ortopedia e traumatologia.   
-3° Anno:   
-Clinica ortopedica e traumatologica (triennale);   
-Patologia delle deformita'; lesioni e malattie degli organi di movimento (triennale);   
-Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);   
-Apparatoterapia ortopedica;   
-Fisiochinesiterapia;   
-Infortunistica;   
-Gli esami si svolgeranno per singole materie. Gli esami di clinica ortopedica e traumatologica, di tecnica operatoria cruenta ed incruenta, e di radiodiagnostica, saranno teorici e pratici.   
-Per l'ammissione al corso successivo e' obbligatorio il superamento degli esami delle materie di ciascun corso.   
-Per l'ammissione all'esame di diploma il candidato dovra' presentare una tesi a stampa dattiloscritta su argomento della specialita'.   
-Dopo l'art. 242 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in microbiologia e in psichiatria.   
-  
-Scuola di specializzazione in microbiologia   
-  
-Art. 243. - La scuola di specializzazione in microbiologia ha lo scopo di allargare e completare sul piano scientifico la cultura di coloro che si dedicano allo studio di questa disciplina e di fornire sul piano tecnico una preparazione pratica specifica.   
-Possono essere ammessi i laureati in medicina e chirurgia, medicina veterinaria, scienze biologiche, scienze naturali e farmacia.   
-Il corso ha la durata di tre anni ed ha luogo presso l'istituto di microbiologia.   
-Gli iscritti al primo anno non potranno superare il numero di 20; il numero massimo complessivo per i tre anni di corso e' fissato in 60 specializzandi.   
-Nel caso di domande eccedenti, la selezione verra' effettuata mediante concorso con norme che verranno precisate nel manifesto annuale. Qualora un aspirante, sufficientemente fornito di titoli attinenti alle materie della scuola, chieda abbreviazione di corso, dovra' presentare motivata istanza.   
-La direzione della scuola viene assunta da un professore di ruolo di microbiologia. Il direttore della scuola puo' nominare un vice direttore che lo coadiuvi e lo supplisca ed un segretario.   
-L'ordine degli studi (distribuzione degli insegnamenti nei diversi anni del corso) e l'ordine e le modalita' degli esami verranno stabiliti nel manifesto annuale.   
-Art. 244. - Gli insegnamenti impartiti nella scuola sono:   
-1) Chimica microbiologica;   
-2) Batteriologia generale e tecnica batteriologica;   
-3) Analisi statistica del dosaggio biologico;   
-4) Immunologia;   
-5) Batteriologia speciale;   
-6) Virologia generale e tecnica virologica;   
-7) Micologia;   
-8)Protozoologia;   
-9) Genetica dei microorganismi;   
-10)Virologia speciale;   
-11) Microbiologia degli alimenti;   
-12) Microbiologia industriale;   
-13) Metodi e dosaggi microbiologici.   
-Il direttore puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari di conferenze su materie e argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola.   
-Art. 245. - L'esame di diploma constera' di una discussione sopra una tesi scritta e di una prova pratica.   
-I candidati non riconosciuti idonei, potranno ripresentarsi dopo un altro anno di frequenza alla scuola. Ma se al secondo esame non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.   
-A coloro che abbiano superato l'esame di diploma verra' rilasciato un diploma di specialista in microbiologia.   
-  
-Scuola di specializzazione in psichiatria   
-  
-Art. 246. - E' istituita presso la facolta' di medicina e chirurgia, una scuola di specializzazione in psichiatria. Il corso degli studi ha una durata di quattro anni. Alla scuola sono ammessi i laureati in medicina e chirurgia. Il numero massimo degli ammessi sara' di quindici per ogni anno di corso per un totale di sessanta iscritti. La direzione della scuola e' affidata al direttore dell'istituto di clinica psichiatrica dell'Universita' di Torino:  
-All'insegnamento sono chiamati a collaborare docenti della locale facolta' di medicina e chirurgia e cultori delle materie di insegnamento.   
-Art. 247. - Il programma di insegnamento si svolge in quattro anni di corso e comprende le seguenti materie:   
-1° Anno:   
-Anatomia e istologia del S. N.   
-Fisiologia del S. N.   
-Biochimica del S. N.   
-Genetica (elementi);   
-Psicologia generale;   
-Psicopatologia I;   
-Semeiotica psichiatrica.   
-2° Anno:   
-Anatomia ed istologia patologica del S. N;   
-Semeiotica neurologica;   
-Patologia speciale e diagnostica neurologica;   
-Neuro-radiologia;   
-Endocrinologia e neurologia vegetativa;   
-Elettroencefalografia.   
-3° Anno:   
-Patologia speciale psichiatrica;   
-Psicopatologia 2°;   
-Clinica psichiatrica 1°;   
-Psicologia clinica e psicodiagnostica;   
-Psicofarmacologia;   
-Psichiatria in rapporto con la patologia internistica;   
-Esami di laboratorio.   
-4° Anno:   
-Clinica psichiatrica (2°);   
-Terapia psichiatrica generale;   
-Psicoterapia;   
-Neuropsichiatria infantile;   
-Psichiatria forense e legislazione psichiatrica;   
-Psichiatria sociale (del lavoro, scolastica, igiene e profilassi mentale).   
-I corsi sono integrati da conferenze su argomenti di particolare interesse specialistico.   
-Alla fine di ciascun anno di corso lo specializzando, che abbia ottenuto le firme di frequenza, deve sostenere gli esami sulle materie di insegnamento ed al termine dei quattro anni deve superare un esame di diploma con presentazione e discussione di una tesi scritta per conseguire il titolo di specialista in psichiatria.   
-Art. 248. - E' obbligatorio l'internato per l'intero anno scolastico per il 1°, 3°, 4° anno in clinica psichiatrica sede della scuola. Tale internato potra' essere ridotto a non meno di quattro mesi all'anno per i medici che prestino servizio regolare in ospedale psichiatrico. L'internato e' obbligatorio per il secondo anno in neurologia per l'intero anno scolastico, salvo per i medici che prestino regolare servizio in ospedale psichiatrico per i quali potra' essere ridotto a non meno di mesi sei, e per i medici che prestino regolare servizio in un reparto neurologico per i quali potra' essere ridotto a noti meno di mesi quattro. Per gli specialisti in neurologia neuropsichiatria infantile potra' esservi un abbuono di due anni; un anno di abbuono per gli specialisti in altre materie affini (psicologia, medicina generale, neurochirurgia).   
-Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.   
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+All'art. 66 vengono aggiunti i seguenti numeri:  
+n. 15. Anestesia;  
+n. 16. Medicina interna;  
+n. 17. Patologia generale;  
+n. 18. Tisiologia.  
+Dopo l'art. 102 vengono aggiunti i seguenti articoli:  
+Anestesia.  
+Art. 103. - Per il conseguimento del diploma di specialista in anestesia, si richiedono due anni di corso con internato.  
+Art. 104. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1° anno:  
+1) anatomia, - con speciale riguardo alla topografia dei nervi periferici;  
+2) fisiologia - del sistema cardiovascolare, del sistema respiratorio e del sistema nervoso;  
+3) farmacologia, - con particolare riguardo ai narcotici, ipnotici, anestetici ad azione locale, vari alcaloidi, cardiocinetici ed analettici respiratori;  
+4) generalita' e tecnica della narcosi;  
+5) generalita' e tecnica delle anestesie periferiche, rachianestesia, anestesie plessiche regionali, anestesie locali, ecc. 2° anno:  
+1) generalita' e tecnica della narcosi (biennale)  
+2) generalita' e tecnica delle anestesie periferiche (biennale);  
+3) anestesia del parto;  
+4) patogenesi del dolore e metodi di terapia antalgica;  
+5) trattamento pre, intra e post operatorio con speciale riguardo alla trasfusione del sangue.  
+Art. 105. - Lo specializzando per accedere al secondo anno della scuola di specializzazione deve aver superato gli esami del primo anno.  
+Art. 106. - Al corso di specializzazione possono essere iscritti cinque allievi per anno.  
+Medicina interna.  
+Art. 107. - Per il conseguimento del diploma di specialita' in medicina interna si richiedono cinque anni di corso.  
+Art. 108. - Gli insegnamenti impartiti nelle scuole sono i seguenti:  
+1° anno:  
+1) clinica medica;  
+2) anatomia patologica;  
+3) parassitologia medica;  
+4) chimica per clinica.  
+2° anno:  
+1) clinica medica;  
+2) patologia e semeiotica cardiovascolare e renale;  
+3) ematologia;  
+4) batterioscopia, e sierologia clinica.  
+3° anno:  
+1) clinica medica;  
+2) patologia e semeiotica apparato digerente;  
+3) malattie infettive;  
+4) semeiotica oculare.  
+4° anno:  
+1) clinica medica;  
+2) patologia e semeiotica polmonare;  
+3) climatologia, e idrologia;  
+4) diagnostica e radiologia.  
+5° anno:  
+1) clinica medica;  
+2) patologia e semeiotica neurologica;  
+3) terapia medica.  
+Art. 109. - L'internato si svolgera' presso l'Istituto in clinica medica generale dell'Universita' di Torino.  
+Patologia generale.  
+Art. 110. - Per il conseguimento del diploma di perfezionamento in patologia generale si richiedono due anni di corso con internato.  
+Alla scuola di perfezionamento vengono ammessi solo i laureati in medicina e chirurgia. L'insegnamento si svolge nell'Istituto di patologia generale dell'Universita'. Gli iscritti alla scuola hanno l'obbligo di frequentare tutti gli insegnamenti teorici e le esercitazioni pratiche impartite dai professori.  
+Art. 111. Gli insegnamenti impartiti nella scuola sono i seguenti: 1° anno:  
+1) patologia generale (eziologia, cipatologia, eucologia);  
+2) parassitologia;  
+3) batteriologia;  
+4) immunologia.  
+2° anno:  
+patologia generale (fisiopatologia);  
+biochimica;  
+istopatologia.  
+Art. 112. - Alla fine del primo e secondo anno i candidati dovranno sostenere un esame teorico sul programma svolto in ciascun insegnamento. Superati gli esami dei singoli insegnamenti per il conseguimento del diploma gli iscritti dovranno presentare e discutere innanzi ad una commissione formata da sette membri scelti fra gli insegnanti della scuola, una dissertazione su di un argomento di patologia generale, dopo aver superata una prova pratica sperimentale.  
+Tisiologia.  
+Art. 113. - Per il conseguimento del diploma di specializzazione in tisiologia e malattie dell'apparato respiratorio si richiedono due anni di corso con internato.  
+Art. 114. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1° anno:  
+1) tisiologia;  
+2) clinica delle malattie non tubercolari dell'apparato respiratorio;  
+3) radiologia dell'apparato respiratorio;  
+4) anatomia e istologia patologica;  
+5) diagnostica di laboratorio;  
+6) igiene e assistenza sociale nel campo tubercolare;  
+7) terapia medica.  
+2° anno:  
+1) tisiologia;  
+2) radiologia dell'apparato respiratorio;  
+3) la tubercolosi nell'infanzia;  
+4) la tubercolosi in gravidanza;  
+5) tecnica sanatoriale e dispensariale;  
+6) collassoterapia;  
+7) terapia chirurgia.  
+Art. 115. - L'internato si svolgera' presso l'Istituto di clinica medica generale dell'Universita' di Torino, comprendendo anche la frequenza, nell'Ospedale sanatorio San Luigi, ove puo' essere svolta e dimostrata la parte tecnica sanatoriale e dispensariale.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta, ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 marzo 1969
+### Dato a Dogliani, addi' 21 aprile 1949
 
-SARAGAT FERRARI AGGRADI
+EINAUDI GONELLA
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: GRASSI
 
-Registrato alla Corte dei conti, addi' 3 giugno 1969
+Registrato alla Corte dei conti, addi' 7 settembre 1949
 
-Atti del Governo, registro n. 227, foglio n. 5. - GRECO
+Atti del Governo, registro n. 29, foglio n. 126. - FRASCA

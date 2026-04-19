@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 aprile 1950 n. 940
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 aprile 1950 n. 459
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 aprile 1950 n. 940
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 aprile 1950 n. 459
 =============================================================
 
 Autorizzazione alla Cassa scolastica dell'Istituto tecnico commerciale di Siracusa ad accettare una donazione.
@@ -12,8 +12,7 @@ Art. 1
 
 N.
 
-940. Decreto del Presidente della Repubblica 29 aprile 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dell'Istituto tecnico commerciale di Siracusa viene autorizzata ad accettare la donazione di nominali L. 10.000 in titoli di Stato 5% disposta al fine dell'istituzione di un premio di studio biennale intitolato al nome del preside "Prof.  
-Giovanni Leggio".  
+459. Decreto del Presidente della Repubblica 29 aprile 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dell'Istituto tecnico commerciale di Siracusa viene autorizzata ad accettare la donazione di nominali L. 10.000, in titoli di Stato 5%, disposta al fine dell'istituzione di un premio di studio intitolato al nome di "Prof. Gaetano e Tecla Navarra".  
   
 Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 28 novembre 1950
+Registrato alla Corte dei conti, addi' 5 luglio 1950

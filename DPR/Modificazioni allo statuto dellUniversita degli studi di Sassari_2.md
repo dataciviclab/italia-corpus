@@ -1,114 +1,104 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1985 n. 470
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 marzo 1955 n. 331
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1985 n. 470
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 marzo 1955 n. 331
 ============================================================
 
-Modificazioni allo statuto dell'Universita' degli studi di Sassari
-------------------------------------------------------------------
+Modificazioni allo statuto dell'Universita' degli studi di Sassari.
+-------------------------------------------------------------------
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084) e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1804](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1804) e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e coi [decreti del Presidente della Repubblica 28 aprile 1951, n. 769](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-28;769) e [27 ottobre 1951, n. 1848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1848);
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 3 novembre 1952, n. 1787](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-11-03;1787);
 
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+Veduta, la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+Veduta la [legge 11 aprile 1953, n. 314](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;314);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica, istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
+--------
 
-Articolo unico
---------------
+Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 1
+------
 
   
-  
-  
-Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Dopo l'art. 153, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in fisiologia, allevamento e patologia degli ovini e caprini.   
-  
-Scuola di specializzazione in fisiologia,   
-allevamento e patologia degli ovini e caprini   
-  
-Art. 154. - E' istituita presso la facolta' di medicina veterinaria di Sassari la "Scuola di specializzazione in fisiologia, allevamento e patologia degli ovini e caprini". Questa ha lo scopo di approfondire ed aggiornare le conoscenze di fisiologia, di allevamento e di patologia degli ovini e caprini in produzione zootecnica per incentivare lo sviluppo economico e sociale delle popolazioni rurali.   
-Art. 155. - Alla scuola di specializzazione in argomento sono ammessi coloro che sono in possesso della laurea in medicina veterinaria e del diploma di abilitazione all'esercizio professionale.   
-Art. 156. - Il numero massimo degli iscrivibili e' di 20 (venti).   
-Art. 157. - I corsi hanno la durata di due anni nei quali, complessivamente, dovranno essere sostenuti due esami di profitto. Le discipline obbligatorie comprese nell'ordinamento degli studi sono le seguenti (e dovranno constare di lezioni per il numero di ore specificato a fianco di ciascuna materia):   
-1) anatomia - ore n. 10;   
-2) fisiologia (con biochimica ed endocrinologia) ore n. 10;   
-3) zoognostica ed etnologia - ore n. 10;   
-4) miglioramento genetico - ore n. 10;   
-5) alimentazione e nutrizione - ore n. 10;   
-6) tecnica di allevamento - ore n. 10;   
-7) tecnica riproduttiva, sincronizzazione calori, fecondazione artificiale - ore n. 10;   
-8) ambiente di allevamento e ricoveri - ore n. 10;   
-9) metodologia dell'assistenza tecnica ed organizzativa degli allevatori con legislazione veterinaria e zootecnica - ore 10;   
-10) economia dell'alimentazione e dell'allevamento - ore n. 10;   
-11) microbiologia ed immunologia - ore n. 10;   
-12) semeiotica e diagnostica di laboratorio - ore n. 10;   
-13) igiene del latte - ore n. 10;   
-14) clinica medica - ore n. 10;   
-15) clinica chirurgica - ore n. 10;   
-16) clinica ostetrica - ore n. 10;   
-17) malattie infettive - ore n. 10;   
-18) malattie parassitarie - ore n. 10;   
-19) anatomia patologia e diagnostica cadaverica - ore n. 10;   
-20) farmacologia, tossicologia e terapia - ore n. 10;   
-21) produzioni foraggere ed utilizzazione - ore n. 10.   
-Ciascun corso sara' corredato da esercitazioni pratiche per un numero di ore almeno pari a quelle del relativo insegnamento teorico.   
-Nel primo anno verranno impartiti i corsi di cui ai numeri 1), 2), 3), 4), 5), 6), 7), 8), 10, 11), 17) (prima parte), 18), 21).   
-Nel secondo anno verranno impartiti i corsi di cui ai numeri 9), 12), 13), 14), 15), 16), 17) (seconda parte), 18), 19), 20).   
-Art. 158. - Tutti gli insegnamenti afferiscono alla facolta' di medicina veterinaria.   
-Al termine di ciascun corso gli allievi dovranno sostenere un esame teorico-pratico. Per poter essere ammessi agli esami gli allievi devono aver frequentato almeno il 90% delle lezioni sia teoriche che pratiche.   
-Perche' gli allievi possano essere iscritti al secondo anno debbono aver superato l'esame del primo anno.   
-La commissione di esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno in corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno in corso.   
-Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.   
-Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio si concludera' con un esame finale consistente nella discussione di una dissertazione scritta sulle materie oggetto del corso.   
-A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista. La frequenza e' obbligatoria per tutti gli insegnamenti teorici e per le esercitazioni pratiche.   
-Art. 159. - Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base della idonea documentazione, l'attivita' svolta dallo specializzando, in strutture di servizio socio-sanitario attinenti alla specializzazione o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.   
-Art. 160 - Ammissione. - Per l'ammissione alla scuola di specializzazione e' richiesto il superamento di un esame consistente in una prova scritta che si svolgera' mediante domande e risposte multiple, integrata da un colloquio e dalla valutazione in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei titoli.   
-Sono titoli valutabili la tesi nella disciplina attinente alla specializzazione, il voto di laurea, il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione e le pubblicazioni nelle predette materie.   
-La ripartizione del punteggio tra i titoli indicati nel precedente comma e' determinata dal decreto ministeriale del 16 settembre 1982.   
-Possono partecipare all'esame di ammissione coloro che siano in possesso del diploma di laurea in medicina veterinaria. Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero di posti disponibili, si siano collocati in posizione utile nella graduatoria compilata sulla base del punteggio complessivo riportato.   
-Non e' consentita la contemporanea iscrizione ai corsi delle scuole di specializzazione ed a quelli per il conseguimento al dottorato di ricerca.   
-Il consiglio della scuola di specializzazione, in relazione ad eventuali domande di ammissione di candidati che abbiano conseguito il titolo di dottorato di ricerca, delibera specificamente, considerato il processo formativo e la produzione specifica dell'aspirante, un apposito piano di studi e di attivita' professionalizzanti, rispettando le eventuali direttive CEE in materia, ma senza abbreviazione di corso.   
-Art. 161 - Consiglio della scuola. - Il Consiglio e' composto dai professori ordinari, straordinari, associati ed a contratto ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).   
-Il consiglio e' unico ed e' presieduto da un direttore.   
-Il consiglio esercita le competenze spettanti, ai sensi dell'[art. 94 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art94), al consiglio di corso di laurea, in materia di coordinamento degli insegnamenti. Si applicano le disposizioni di cui al [secondo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16-com2) e [terzo comma dell'art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16-com3).   
-La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola stessa.   
-Art. 162 - Borse di studio. - Fermo restando quanto previsto per il dottorato di ricerca, anche in relazione a quanto disposto nell'art. 74 nonche' nell'ultimo comma dell'[art. 75 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art75), sono attribuite agli iscritti alle scuole di specializzazione con le modalita' ed alle condizioni previste nell'art. 75 e seguenti del citato [decreto del Presidente della Repubblica n. 382/80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382).   
-Art. 163. - Le tasse sono quelle previste dalla normativa vigente e i contributi di laboratorio quelli stabiliti dal consiglio di amministrazione. La tassa di diploma e' quella stabilita dalla legge 26 gennaio 1982 pari a L. 60.000.   
-Art. 164. - Per quanto non previsto dalle presenti norme si applicano, in quanto compatibili, le altre norme sull'istruzione universitaria.   
+Art. 15. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:  
+7) Storia delle istituzioni giuridiche ed economiche della Sardegna;  
+8) Diritto pubblico comparato.  
+Art. 25. - Agli insegnamenti fondamentali del corso di laurea in medicina e chirurgia sono aggiunti: per il primo biennio, gli insegnamenti di chimica biologica e di microbiologia, e, per il terzo biennio, l'insegnamento di radiologia (semestrale), ai sensi della [legge 3 novembre 1952, n. 1787](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-11-03;1787).  
+Art. 29. - Agli insegnamenti complementari dei corso di laurea in farmacia sono aggiunti quelli di:  
+7) Chimica delle fermentazioni;  
+8) Fisiologia vegetale;  
+9) Scienza dell'alimentazione.  
+Dopo l'art. 45, sono aggiunti i seguenti nuovi articoli, relativi all'ordinamento didattico della Facolta' di scienze matematiche, fisiche e naturali (limitatamente al corso di laurea in scienze biologiche).  
+Facolta' di scienze matematiche, fisiche e naturati  
+Art. 46. - La Facolta' di scienze matematiche, fisiche e naturali conferisce la laurea in scienze biologiche.  
+La durata del corso degli studi e' di quattro anni.  
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.  
+Art. 47. - Sono insegnamenti fondamentali:  
+1) Istituzioni di matematiche;  
+2) Fisica;  
+3) Chimica generale ed inorganica;  
+4) Chimica organica;  
+5) Botanica (biennale);  
+6) Zoologia, (biennale);  
+7) Anatomia comparata;  
+8) Anatomia umana;  
+9) Istologia ed embriologia;  
+10) Fisiologia generale (biennale);  
+11) Chimica biologica;  
+12) Igiene.  
+Sono insegnamenti complementari:  
+1) Scienza dell'alimentazione;  
+2) Microbiologia;  
+3) Parassitologia;  
+4) Fisiologia vegetale;  
+5) Biochimica comparata;  
+6) Genetica;  
+7) Chimica fisica;  
+8) Chimica delle fermentazioni;  
+9) Entomologia agraria;  
+10) Patologia vegetale.  
+Art. 48. - Gli insegnamenti biennali di "botanica" e di "zoologia" comprendono tanto la parte generale quanto quella sistematica; essi comportano un solo esame alla fine del biennio, come comporta un solo esame il corso biennale di "fisiologia generale".  
+Art. 49. - Gli insegnamenti comportano anche corsi di esercitazioni pratiche che fanno parte integrante degli insegnamenti stessi; quelli di botanica e zoologia comportano un corso biennale di esercitazioni, alcune delle quali possono essere svolte come escursioni di campagna.  
+Art. 50. - Non potranno presentarsi a sostenere gli esami di chimica organica, di zoologia e di anatomia umana gli studenti che non abbiano superato gli esami di istituzioni di matematiche, di fisica, di chimica generale ed inorganica e di istologia ed embriologia; non potranno presentarsi a sostenere gli esami di anatomia comparata, di chimica biologica e di fisiologia generale gli studenti che non abbiano superato gli esami di anatomia umana e di chimica organica.  
+Per essere ammessi agli esami di botanica e di zoologia gli studenti debbono aver dimostrato di aver seguito con profitto i relativi corsi biennali di laboratorio.  
+Art. 51. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e in quattro almeno da lui scelti fra i complementari.  
+Art. 52. - Per il conseguimento della laurea in scienze biologiche, lo studente deve presentare una dissertazione scritta sopra un argomento concordato con un professore ufficiale della Facolta'; la dissertazione deve essere presentata, in triplice esemplare, alla segreteria della Facolta' almeno quindici giorni prima della data di inizio degli esami di laurea, assieme ai titoli di due argomenti scelti quali tesi di dissertazione orale su materie diverse fra loro e da quella della dissertazione scritta, comprese nell'elenco degli insegnamenti complementari e fondamentali.  
+Art. 53. - Per l'iscrizione di coloro che siano provveduti di altra laurea, valgono le seguenti norme:  
+a) i laureati in scienze naturali possono essere iscritti al quarto anno del corso;  
+b) per la iscrizione di coloro che siano provvisti di laurea diversa da quella suddetta, come per gli esami e i corsi che possono essere convalidati, il Consiglio di Facolta' decidera' caso per caso.  
+Art. 54. - Il professore di ruolo di chimica, farmaceutica e tossicologica della Facolta' di farmacia e' aggregato alla Facolta' di scienze matematiche, fisiche e naturali, a norma dell'ultimo capoverso dell'art. 15 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592).  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 marzo 1985
+### Dato a Roma, addi' 1 marzo 1955
 
-PERTINI
+EINAUDI ERMINI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DE PIETRO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 30 aprile 1955
 
-Registrato alla Corte dei conti, addi' 9 settembre 1985
-
-Registro n. 60 Istruzione, foglio n. 174
+Atti del Governo, registro n. 90, foglio n. 102. - CARLOMAGNO

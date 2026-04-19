@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1984 n. 108
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 46
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1984 n. 108
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 46
+=============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare una eredita'.
 ----------------------------------------------------------------------------------
@@ -12,8 +12,19 @@ Art. 1
 
 N.
 
-108. Decreto del Presidente della Repubblica 20 marzo 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita', consistente in un appartamento sito in Savona, via Monturbano n. 6/14, del valore di L. 17.000.000, attribuito con perizia di parte e ritenuto congruo dall'ufficio tecnico erariale di Savona, disposta dalla sig.na Maria Pompei con testamento olografo 1 ottobre 1978, pubblicato in data 9 ottobre 1979, n. 62298 di repertorio, a rogito dott. Attilio Bianchi, notaio in Savona, registrato a Savona in data 12 ottobre 1979 al n. 5054.  
+46. Decreto del Presidente della Repubblica 10 gennaio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri,   
+l'Unione italiana dei ciechi, in Roma, viene autorizzata ad   
+accettare, col beneficio d'inventario, l'eredita', consistente   
+nella quota di meta' dei beni immobili siti in Firenze, via   
+Serragli n. 194/2, via Ponte alle Masse n. 134/2, via Passerini n. 1/7 e via Tortori, 5, valore complessivo attribuito con perizia di parte L. 276.000.000, elevato dall'ufficio tecnico erariale di   
+Firenze a L. 320.000.000 con deprezzamento del 30% a causa dei   
+vincoli di locazione, e in beni mobili per un valore di L.   
+3.973.860, disposta dalla sig.ra Mariani Natalina a favore della   
+sezione provinciale di Firenze, con testamento olografo 5 maggio   
+1973, pubblicato in data 24 ottobre 1979, n. 20572/4624 di   
+repertorio, a rogito dottor Paolo Messeri, notaio in Carmignano   
+(Firenze), registrato a Prato (Firenze) in data 26 ottobre 1979 al n. 4321.   
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 27 aprile 1984  
-Registro n. 4 Presidenza, foglio n. 70
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 14 febbraio 1985   
+Registro n. 2 Presidenza, foglio n. 35

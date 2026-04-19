@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1029
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 marzo 1963 n. 646
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1029
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 marzo 1963 n. 646
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -10,17 +10,17 @@ Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,201 +30,406 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come oppresso:
 
-Art. 105. - E' abrogato e sostituito dal seguente:
+Art. 20. - Agli insegnamenti complementari del corso di laurea in Scienze politiche e' aggiunto quello di "Istituzioni giuridiche dell'Europa orientale".
 
-"La facolta' di farmacia conferisce la laurea in farmacia e la laurea in chimica e tecnologia farmaceutiche".
+Art. 52. - Agli insegnamenti complementari del corso di laurea in Lettere e' aggiunto quello di "Filologia dantesca".
 
-Dopo l'art. 119 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente nuovo articolo relativo all'istituzione del corso di laurea in chimica e tecnologia farmaceutiche annesso alla facolta' di farmacia.
+Art. 59. - Agli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti quelli di Storia americana" e di "Psicologia".
 
-Laurea in chimica e tecnologia farmaceutiche
+Art. 60. - Agli insegnamenti complementari del corso di laurea in Pedagogia e' aggiunto quello di "Sociologia".
 
-Art. 120. - Durata del corso degli studi: cinque anni, divisi in un biennio ed un triennio.
+Art. 61. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere e' aggiunto quello di "Storia americana".
 
-Titolo di ammissione: diploma di maturita' classica o scientifica.
+Art. 84. - Agli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti quelli di "Astronomia" e di "Citologia ed Embriologia vegetale".
 
-Insegnamenti fondamentali:
+Art. 86. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche e' aggiunto quello di Citologia ed embriologia vegetale".
 
-Biennio:
+Art. 88. - Agli insegnamenti complementari del corso di laurea, in Scienze geologiche sono aggiunti quelli di:
 
-1) Analisi chimico farmaceutica I (analisi qualitativa);
+Cristallochimica;
 
-\* 2) Anatomia umana;
+Geologia regionale;
 
-\* 3) Botanica farmaceutica;
+Geologia degli idrocarburi;
 
-\* 4) Chimica fisica;
+Giacimenti minerari;
 
-\* 5) Chimica generale ed inorganica;
+Micropaleontologia;
 
-6) Chimica organica I;
+Mineralogia applicata;
 
-\* 7) Fisica;
+Paleontologia vegetale;
 
-8) Fisiologia generale;
+Paleontologia dei vertebrati;
 
-9) Istituzioni di matematiche;
+Petrografia sedimentaria;
 
-10) Microbiologia e igiene.
+Art. 115, relativo alle modalita' di esami e' abrogato e sostituito dal seguente corso di laurea in Farmacia:
 
-Triennio:
+"Gli esami di profitto si sostengono per singole materie. Al corso triennale di esercitazioni di Chimica farmaceutica e tossicologica corrispondono tre esami che gli studenti devono sostenere al termine di ognuno dei tre corsi annuali.
 
-11) Analisi chimico farmaceutica II (analisi quantitativa);
+L'insegnamento biennale di Chimica farmaceutica e tossicologica importa un esame alla fine di ciascun anno di corso.
 
-12) Analisi chimico farmaceutica III (analisi dei medicamenti);
+Art. 221, relativo alle modalita' di ammissione alle scuole di specializzazione annessa alla Facolta' di medicina e chirurgia e' abrogato e sostituito dal seguente:
 
-\* 13) Biochimica applicata;
+"Per essere iscritti alle scuole di specializzazione della Facolta' di medicina e chirurgia occorre avere conseguito la laurea in medicina e chirurgia ed il titolo di abilitazioni professionale; anche i laureati stranieri, la cui preparazione scientifica sia, ritenuta idonea dalla Facolta', possono essere iscritti alle scuole stesse.
 
-\* 14) Chimica biologica;
+Art. 237, relativo alla scuola di specializzazione in Odontoiatria e protesi dentaria, annessa alla Facolta' di medicina e chirurgia e' abrogato e sostituito dal seguente concernente la Scuola di specializzazione in Odontoiatria e stomatologia:
 
-15) Chimica degli alimenti;
+a) la durata del corso degli studi per il conseguimento del diploma di specialista in odontoiatria e stomatologia e' di due anni;
 
-\* 16) Chimica farmaceutica applicata;
+b) gli insegnamenti della scuola sono cosi' ripartiti nei due anni del corso:
 
-\* 17) Chimica farmaceutica e tossicologica I;
+1° anno:
 
-\* 18) Chimica farmaceutica e tossicologica II;
+Clinica e patologia stomatologica;
 
-\*\* 19) Chimica organica II;
+Odontoiatria conservatrice;
 
-\* 20) Farmacologia e farmacognosia;
+Ortognatodonzia;
 
-21) Impianti dell'industria farmaceutica;
+Protesi fissa e odontotecnica;
 
-22) Laboratorio di preparazione estrattiva e sintetica dei farmaci;
+Protesi mobile e odontotecnica;
 
-23) Metodi fisici in chimica organica;
+Embriologia, anatomia e istologia orale;
 
-24) Saggi e dosaggi farmacologici;
+Fisiologia orale;
 
-\* 25) Tecnica e legislazione farmaceutica;
+Anestesiologia e chirurgia dentale;
 
-Insegnamenti complementari:
+Anatomia e istologia patologica;
 
-\* 1) Chimica delle fermentazioni e microbiologia industriale;
+Microbiologia e igiene orale;
 
-2) Chimica delle sostanze organiche naturali;
+Radiologia dentale:
 
-3) Chimica dei prodotti dietetici;
+Materiali in odontostomatologia;
 
-4) Chimica dei prodotti cosmetici;
+2° anno:
 
-\* 5) Complementi di chimica tossicologica;
+Clinica e patologia stomatologica
 
-\* 6) Farmacologia molecolare;
+Odontoiatrica conservatrice;
 
-7) Impianti per laboratori galenici;
+Ortognatodonzia;
 
-\* 8) Microchimica;
+Protesi fissa e odontotecnica;
 
-\* 9) Mineralogia;
+Protesi mobile e odontotecnica;
 
-10) Prodotti dietetici;
+Chirurgia orale;
 
-11) Prodotti cosmetici;
+Paradontologia;
 
-12) Zoologia e parassitologia.
+Radiologia stomatologica;
 
-Le materie segnate con un asterisco sono comuni alla laurea in farmacia; quelle segnate con due asterischi sono comuni alla laurea in chimica. Per ottenere l'iscrizione al III anno di corso, lo studente deve aver seguito e superato gli esami in tutti gli insegnamenti fissati per i due anni precedenti.
+Metallurgia;
 
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami dei corsi fondamentali e almeno due esami a scelta fra i corsi complementari. La prova di laurea comporta la discussione di una tesi sperimentale.
+c) durante gli anni del corso saranno tenute anche lezioni di carattere complementare su argomenti di Patologia medica, di Pediatrica di Dermosifilopatica, di Otorinolaringoiatria, di Oculistica e di Medicina legale;
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+d) alla fine di ciascun anno di corso gli allievi dovranno sostenere un esame di profitto teorico e pratico sulle materie che sono state soggetto di insegnamento;
 
-Dato a Roma, addi' 31 ottobre 1969
+e) per il conseguimento del diploma di specialista in Odontoiatria e Stomatologia l'allievo dovra' sostenere una discussione sopra un caso clinico della specialita' oltre la discussione, dinanzi all'apposita Commissione, di una tesi scritta;
 
-SARAGAT
+f) durante i due anni di corso gli allievi hanno l'obbligo di frequentare gli ambulatori ed i reparti della Clinica odontoiatrica.
 
-FERRARI AGGRADI
+Art. 243, relativo alla Scuola di specializzazione in Igiene annessa alla Facolta' di medicina e chirurgia e abrogato e sostituito dal seguente concernente la Scuola di specializzazione in Igiene e Sanita' pubblica:
 
-Visto, il Guardasigilli: GAVA
+a) la durata del corso degli studi per il conseguimento del diploma in Igiene e Sanita' pubblica e' di due anni;
+
+b) gli insegnamenti della Scuola nei due anni di corso sono cosi' suddivisi:
+
+1° anno:
+
+Igiene generale e speciale;
+
+Elementi di statistica demografica
+
+Statistica sanitaria;
+
+Organizzazione sanitaria nazionale ed internazionale
+
+Legislazione sanitaria;
+
+Microbiologia e parassitologia;
+
+Etiologia, epidemiologia e profilassi delle malattie infettive contagiose;
+
+Istologia normale e patologica
+
+Tecnica delle autopsie e delle biopsie;
+
+Patologia, e clinica, delle malattie infettive;
+
+2° anno:
+
+Igiene generale e speciale;
+
+Chimica, fisica e microscopia applicata all'igiene;
+
+Etiologia, epidemiologia e profilassi delle malattie sociali;
+
+c) oltre a seguire le lezioni e le esercitazioni gli allievi devono frequentare come interni l'Istituto di igiene;
+
+d) alla fine di ciascun corso l'allievo deve sostenere una prova scritta su un tema che abbracci i punti fondamentali dell'insegnamento annuo, una prova orale sugli insegnamenti impartiti durante l'anno di corso, una prova pratica consistente nella, lettura, e discussione di preparati in manualita' tecniche e dimostrative;
+
+e) nel secondo anno saranno tenuti i turni di addestramento presso Uffici sanitari, Laboratori provinciali, Dispensari antitubercolari, Centrale del latte, Ospedali, Ambulatori ecc.;
+
+f) alla fine del corso l'allievo dovra' sostenere un esame finale riassuntivo e discutere una tesi.
+
+Saranno ammessi al corso solo coloro che hanno superato una prova di ammissione per titoli ed esami.
+
+Dopo l'art. 250 sono aggiunti i seguenti nuovi articoli, relativi all'istituzione delle scuole di specializzazione in Chirurgia toracica ed in Fisio-chinesiterapia.
+
+Art. 251. - Scuola di specializzazione in Chirurgia toracica:
+
+a) possono ottenere l'iscrizione alla scuola previo esame di ammissione i laureati in Medicina e Chirurgia che siano in possesso della libera, docenza in Patologia speciale chirurgica e in Clinica chirurgica e del diploma di specialista in Chirurgia generale;
+
+b) il corso si compone di insegnamenti fondamentali, di esercitazioni pratiche e di conferenze su argomenti speciali;
+
+c) gli insegnamenti sono i seguenti:
+
+1° anno:
+
+Embriologia;
+
+Anatomia descrittiva e topografica del torace e degli organi toracici in esso contenuti;
+
+Anatomia patologica del torace e degli organi toracici;
+
+Fisiologia e fisiopatologia degli organi toracici;
+
+Principi di anestesia e rianimazione in Chirurgia toracica;
+
+2° anno:
+
+Patologia dell'apparato respiratorio, dell'apparato cardiocircolatorio e del mediastino;
+
+Semeiotica dell'apparato respiratorio, dell'apparato cardiocircolatorio e del mediastino;
+
+Terapia chirurgica
+
+Tecnica operatoria.
+
+Il numero dei posti disponibili per gli allievi e' di dodici per ciascun anno di corso;
+
+d) gli esami di profitto dovranno essere dati alla fine del primo e del secondo anno;
+
+e) alla fine del corso l'iscritto dovra' presentare una dissertazione scritta su argomenti di Chirurgia toracica e sostenerne la relativa discussione.
+
+Art. 252. - Scuola di specializzazione in Fisio-chinesiterapia:
+
+a) possono ottenere l'iscrizione alla scuola, previo esame di ammissione i laureati in Medicina e Chirurgia;
+
+b) la durata del corso degli studi per il conseguimento del diploma di specializzazione in Fisio-chinesiterapia e' di due anni;
+
+c) gli insegnamenti sono cosi' suddivisi nei due anni di corso:
+
+1° anno:
+
+Anatomia degli organi di movimento;
+
+Patologia degli organi di movimento in rapporto alla rieducazione funzionale;
+
+Terapia radiante;
+
+Elettroterapia;
+
+Idroterapia e balneoterapia;
+
+2° anno:
+
+Neurologia;
+
+Rieducazione motoria e riabilitazione;
+
+Ginnastica medica;
+
+Massoterapia;
+
+Terapia di movimento e meccanoterapia;
+
+Termoterapia;
+
+Rieducazione motoria, dell'apparato respiratorio;
+
+d) il numero dei posti disponibili per gli allievi e' di quindici per ciascun anno di corso;
+
+e) al termine di ogni anno di corso gli allievi dovranno sostenere un esame teorico-pratico sulle materie oggetto di insegnamento;
+
+f) al termine del biennio, per il conseguimento del diploma di specialista l'allievo dovra' sostenere davanti all'apposita.
+
+Commissione la discussione di una tesi di laurea, su argomento attinente la, specialita';
+
+g) durante i due anni di corso gli allievi sono tenuti a frequentare come interni la Clinica ortopedica;
+
+h) coloro che abbiano conseguito il diploma di specialista in Ortopedia e Traumatologia potranno ottenere il diploma, di specialista in Fisio-chinesiterapia con un ulteriore anno di studio.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica, italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 25 marzo 1963
+
+SEGNI
+
+GUI
+
+Visto, il Guardasigilli: BOSCO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 30 dicembre 1969 Atti del Governo, registro n. 230, foglio n. 184. - CARUSO
+alla Corte dei conti, addi' 8 maggio 1968 Atti del Governo, registro n. 169, foglio n. 11 - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 105. - E' abrogato e sostituito dal seguente:  
-"La facolta' di farmacia conferisce la laurea in farmacia e la laurea in chimica e tecnologia farmaceutiche".  
-Dopo l'art. 119 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente nuovo articolo relativo all'istituzione del corso di laurea in chimica e tecnologia farmaceutiche annesso alla facolta' di farmacia.  
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come oppresso:  
+Art. 20. - Agli insegnamenti complementari del corso di laurea in Scienze politiche e' aggiunto quello di "Istituzioni giuridiche dell'Europa orientale".  
+Art. 52. - Agli insegnamenti complementari del corso di laurea in Lettere e' aggiunto quello di "Filologia dantesca".  
+Art. 59. - Agli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti quelli di Storia americana" e di "Psicologia".  
+Art. 60. - Agli insegnamenti complementari del corso di laurea in Pedagogia e' aggiunto quello di "Sociologia".  
+Art. 61. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere e' aggiunto quello di "Storia americana".  
+Art. 84. - Agli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti quelli di "Astronomia" e di "Citologia ed Embriologia vegetale".  
+Art. 86. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche e' aggiunto quello di Citologia ed embriologia vegetale".  
+Art. 88. - Agli insegnamenti complementari del corso di laurea, in Scienze geologiche sono aggiunti quelli di:  
+Cristallochimica;  
+Geologia regionale;  
+Geologia degli idrocarburi;  
+Giacimenti minerari;  
+Micropaleontologia;  
+Mineralogia applicata;  
+Paleontologia vegetale;  
+Paleontologia dei vertebrati;  
+Petrografia sedimentaria;  
+Art. 115, relativo alle modalita' di esami e' abrogato e sostituito dal seguente corso di laurea in Farmacia:  
+"Gli esami di profitto si sostengono per singole materie. Al corso triennale di esercitazioni di Chimica farmaceutica e tossicologica corrispondono tre esami che gli studenti devono sostenere al termine di ognuno dei tre corsi annuali.  
+L'insegnamento biennale di Chimica farmaceutica e tossicologica importa un esame alla fine di ciascun anno di corso.  
+Art. 221, relativo alle modalita' di ammissione alle scuole di specializzazione annessa alla Facolta' di medicina e chirurgia e' abrogato e sostituito dal seguente:  
+"Per essere iscritti alle scuole di specializzazione della Facolta' di medicina e chirurgia occorre avere conseguito la laurea in medicina e chirurgia ed il titolo di abilitazioni professionale; anche i laureati stranieri, la cui preparazione scientifica sia, ritenuta idonea dalla Facolta', possono essere iscritti alle scuole stesse.  
+Art. 237, relativo alla scuola di specializzazione in Odontoiatria e protesi dentaria, annessa alla Facolta' di medicina e chirurgia e' abrogato e sostituito dal seguente concernente la Scuola di specializzazione in Odontoiatria e stomatologia:  
+a) la durata del corso degli studi per il conseguimento del diploma di specialista in odontoiatria e stomatologia e' di due anni;  
+b) gli insegnamenti della scuola sono cosi' ripartiti nei due anni del corso:  
+1° anno:  
+Clinica e patologia stomatologica;  
+Odontoiatria conservatrice;  
+Ortognatodonzia;  
+Protesi fissa e odontotecnica;  
+Protesi mobile e odontotecnica;  
+Embriologia, anatomia e istologia orale;  
+Fisiologia orale;  
+Anestesiologia e chirurgia dentale;  
+Anatomia e istologia patologica;  
+Microbiologia e igiene orale;  
+Radiologia dentale:  
+Materiali in odontostomatologia;  
+2° anno:  
+Clinica e patologia stomatologica  
+Odontoiatrica conservatrice;  
+Ortognatodonzia;  
+Protesi fissa e odontotecnica;  
+Protesi mobile e odontotecnica;  
+Chirurgia orale;  
+Paradontologia;  
+Radiologia stomatologica;  
+Metallurgia;  
+c) durante gli anni del corso saranno tenute anche lezioni di carattere complementare su argomenti di Patologia medica, di Pediatrica di Dermosifilopatica, di Otorinolaringoiatria, di Oculistica e di Medicina legale;  
+d) alla fine di ciascun anno di corso gli allievi dovranno sostenere un esame di profitto teorico e pratico sulle materie che sono state soggetto di insegnamento;  
+e) per il conseguimento del diploma di specialista in Odontoiatria e Stomatologia l'allievo dovra' sostenere una discussione sopra un caso clinico della specialita' oltre la discussione, dinanzi all'apposita Commissione, di una tesi scritta;  
+f) durante i due anni di corso gli allievi hanno l'obbligo di frequentare gli ambulatori ed i reparti della Clinica odontoiatrica.  
+Art. 243, relativo alla Scuola di specializzazione in Igiene annessa alla Facolta' di medicina e chirurgia e abrogato e sostituito dal seguente concernente la Scuola di specializzazione in Igiene e Sanita' pubblica:  
+a) la durata del corso degli studi per il conseguimento del diploma in Igiene e Sanita' pubblica e' di due anni;  
+b) gli insegnamenti della Scuola nei due anni di corso sono cosi' suddivisi:  
+1° anno:  
+Igiene generale e speciale;  
+Elementi di statistica demografica  
+Statistica sanitaria;  
+Organizzazione sanitaria nazionale ed internazionale  
+Legislazione sanitaria;  
+Microbiologia e parassitologia;  
+Etiologia, epidemiologia e profilassi delle malattie infettive contagiose;  
+Istologia normale e patologica  
+Tecnica delle autopsie e delle biopsie;  
+Patologia, e clinica, delle malattie infettive;  
+2° anno:  
+Igiene generale e speciale;  
+Chimica, fisica e microscopia applicata all'igiene;  
+Etiologia, epidemiologia e profilassi delle malattie sociali;  
+c) oltre a seguire le lezioni e le esercitazioni gli allievi devono frequentare come interni l'Istituto di igiene;  
+d) alla fine di ciascun corso l'allievo deve sostenere una prova scritta su un tema che abbracci i punti fondamentali dell'insegnamento annuo, una prova orale sugli insegnamenti impartiti durante l'anno di corso, una prova pratica consistente nella, lettura, e discussione di preparati in manualita' tecniche e dimostrative;  
+e) nel secondo anno saranno tenuti i turni di addestramento presso Uffici sanitari, Laboratori provinciali, Dispensari antitubercolari, Centrale del latte, Ospedali, Ambulatori ecc.;  
+f) alla fine del corso l'allievo dovra' sostenere un esame finale riassuntivo e discutere una tesi.  
+Saranno ammessi al corso solo coloro che hanno superato una prova di ammissione per titoli ed esami.  
+Dopo l'art. 250 sono aggiunti i seguenti nuovi articoli, relativi all'istituzione delle scuole di specializzazione in Chirurgia toracica ed in Fisio-chinesiterapia.  
+Art. 251. - Scuola di specializzazione in Chirurgia toracica:  
+a) possono ottenere l'iscrizione alla scuola previo esame di ammissione i laureati in Medicina e Chirurgia che siano in possesso della libera, docenza in Patologia speciale chirurgica e in Clinica chirurgica e del diploma di specialista in Chirurgia generale;  
+b) il corso si compone di insegnamenti fondamentali, di esercitazioni pratiche e di conferenze su argomenti speciali;  
+c) gli insegnamenti sono i seguenti:  
+1° anno:  
+Embriologia;  
+Anatomia descrittiva e topografica del torace e degli organi toracici in esso contenuti;  
+Anatomia patologica del torace e degli organi toracici;  
+Fisiologia e fisiopatologia degli organi toracici;  
+Principi di anestesia e rianimazione in Chirurgia toracica;  
+2° anno:  
+Patologia dell'apparato respiratorio, dell'apparato cardiocircolatorio e del mediastino;  
+Semeiotica dell'apparato respiratorio, dell'apparato cardiocircolatorio e del mediastino;  
+Terapia chirurgica  
+Tecnica operatoria.  
+Il numero dei posti disponibili per gli allievi e' di dodici per ciascun anno di corso;  
+d) gli esami di profitto dovranno essere dati alla fine del primo e del secondo anno;  
+e) alla fine del corso l'iscritto dovra' presentare una dissertazione scritta su argomenti di Chirurgia toracica e sostenerne la relativa discussione.  
+Art. 252. - Scuola di specializzazione in Fisio-chinesiterapia:  
+a) possono ottenere l'iscrizione alla scuola, previo esame di ammissione i laureati in Medicina e Chirurgia;  
+b) la durata del corso degli studi per il conseguimento del diploma di specializzazione in Fisio-chinesiterapia e' di due anni;  
+c) gli insegnamenti sono cosi' suddivisi nei due anni di corso:  
+1° anno:  
+Anatomia degli organi di movimento;  
+Patologia degli organi di movimento in rapporto alla rieducazione funzionale;  
+Terapia radiante;  
+Elettroterapia;  
+Idroterapia e balneoterapia;  
+2° anno:  
+Neurologia;  
+Rieducazione motoria e riabilitazione;  
+Ginnastica medica;  
+Massoterapia;  
+Terapia di movimento e meccanoterapia;  
+Termoterapia;  
+Rieducazione motoria, dell'apparato respiratorio;  
+d) il numero dei posti disponibili per gli allievi e' di quindici per ciascun anno di corso;  
+e) al termine di ogni anno di corso gli allievi dovranno sostenere un esame teorico-pratico sulle materie oggetto di insegnamento;  
+f) al termine del biennio, per il conseguimento del diploma di specialista l'allievo dovra' sostenere davanti all'apposita.  
+Commissione la discussione di una tesi di laurea, su argomento attinente la, specialita';  
+g) durante i due anni di corso gli allievi sono tenuti a frequentare come interni la Clinica ortopedica;  
+h) coloro che abbiano conseguito il diploma di specialista in Ortopedia e Traumatologia potranno ottenere il diploma, di specialista in Fisio-chinesiterapia con un ulteriore anno di studio.  
   
-Laurea in chimica e tecnologia farmaceutiche  
-  
-Art. 120. - Durata del corso degli studi: cinque anni, divisi in un biennio ed un triennio.  
-Titolo di ammissione: diploma di maturita' classica o scientifica.  
-Insegnamenti fondamentali:  
-Biennio:  
-1) Analisi chimico farmaceutica I (analisi qualitativa);  
-\* 2) Anatomia umana;  
-\* 3) Botanica farmaceutica;  
-\* 4) Chimica fisica;  
-\* 5) Chimica generale ed inorganica;  
-6) Chimica organica I;  
-\* 7) Fisica;  
-8) Fisiologia generale;  
-9) Istituzioni di matematiche;  
-10) Microbiologia e igiene.  
-Triennio:  
-11) Analisi chimico farmaceutica II (analisi quantitativa);  
-12) Analisi chimico farmaceutica III (analisi dei medicamenti);  
-\* 13) Biochimica applicata;  
-\* 14) Chimica biologica;  
-15) Chimica degli alimenti;  
-\* 16) Chimica farmaceutica applicata;  
-\* 17) Chimica farmaceutica e tossicologica I;  
-\* 18) Chimica farmaceutica e tossicologica II;  
-\*\* 19) Chimica organica II;  
-\* 20) Farmacologia e farmacognosia;  
-21) Impianti dell'industria farmaceutica;  
-22) Laboratorio di preparazione estrattiva e sintetica dei farmaci;  
-23) Metodi fisici in chimica organica;  
-24) Saggi e dosaggi farmacologici;  
-\* 25) Tecnica e legislazione farmaceutica;  
-Insegnamenti complementari:  
-\* 1) Chimica delle fermentazioni e microbiologia industriale;  
-2) Chimica delle sostanze organiche naturali;  
-3) Chimica dei prodotti dietetici;  
-4) Chimica dei prodotti cosmetici;  
-\* 5) Complementi di chimica tossicologica;  
-\* 6) Farmacologia molecolare;  
-7) Impianti per laboratori galenici;  
-\* 8) Microchimica;  
-\* 9) Mineralogia;  
-10) Prodotti dietetici;  
-11) Prodotti cosmetici;  
-12) Zoologia e parassitologia.  
-Le materie segnate con un asterisco sono comuni alla laurea in farmacia; quelle segnate con due asterischi sono comuni alla laurea in chimica. Per ottenere l'iscrizione al III anno di corso, lo studente deve aver seguito e superato gli esami in tutti gli insegnamenti fissati per i due anni precedenti.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami dei corsi fondamentali e almeno due esami a scelta fra i corsi complementari. La prova di laurea comporta la discussione di una tesi sperimentale.  
-  
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica, italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1969
+### Dato a Roma, addi' 25 marzo 1963
 
-SARAGAT FERRARI AGGRADI
+SEGNI GUI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 30 dicembre 1969
+Registrato alla Corte dei conti, addi' 8 maggio 1968
 
-Atti del Governo, registro n. 230, foglio n. 184. - CARUSO
+Atti del Governo, registro n. 169, foglio n. 11 - VILLA

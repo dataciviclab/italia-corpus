@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 settembre 1962 n. 1568
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1093
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 settembre 1962 n. 1568
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1093
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e successivi;
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,252 +20,130 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto il [decreto del Presidente della Repubblica n. 382 dell'11 luglio 1980](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministero per la pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
+
+Veduta la necessita' di adeguare le norme sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 7. - Agli insegnamenti complementari per il corso di laurea in Giurisprudenza, sono aggiunti quelli di:
-
-Diritto fallimentare;
-
-Papirologia ed epigrafia giuridica;
-
-Criminologia.
-
-Art. 14 - Agli Istituti scientifici, annessi alla Facolta' di giurisprudenza e' aggiunto l' "Istituto di diritto processuale civile".
-
-Art. 81, relativo al corso di laurea in Fisica, e' aggiunto il seguente comma dopo l'enumerazione degli insegnamenti obbligatori per l'indirizzo didattico:
-
-"Il corso di "Storia della fisica" potra' in via transitoria, essere sostituito su deliberazione della Facolta', con un corso scelto fra i complementari.
-
-Art. 84. - Agli insegnamenti complementari del corso di laurea in chimica, indirizzo inorganico, chimico, fisico, sono aggiunti quelli di:
-
-Storia della chimica Strutturistica chimica;
-
-Chimica teorica;
-
-Radiochimica.
-
-Art. 88 - Agli insegnamenti complementari del corso di laurea in Scienze biologiche e' aggiunto quello di "Biologia delle razze umane".
-
-Art. 91. - Agli insegnamenti complementari per il corso di laurea in Scienze geologiche sono aggiunti quelli di:
-
-Analisi mineralogica;
-
-Fotogeologia;
-
-Geologia regionale;
-
-Geologia degli idrocarburi;
-
-Geotecnica;
-
-Giacimenti minerari;
-
-Idrogeologia;
-
-Micropaleontologia;
-
-Mineralogia applicata.
-
-Gli insegnamenti complementari di Geologia economica e di Paleontologia umana dello stesso corso di laurea sono soppressi.
-
-Art. 96. Agli Istituti scientifici annessi alla Facolta' di scienze matematiche, fisiche e naturali sono aggiunti i seguenti:
-
-Istituto ci chimica analitica;
-
-Istituto di genetica.
-
-L' Istituto di fisiologia generale cambia denominazione in "Istituto di fisiologia generale e chimica biologica".
-
-Art. 101, relativo alle propedeuticita' del biennio nel corso di laurea in Ingegneria, sono abrogati i primi due commi e sostituiti dai seguenti:
-
-Agli effetti della successione dei relativi esami nel biennio propedeutico occorre osservare le seguenti precedenze:
-
-1) gli esami di Analisi matematica I e di Geometria devono precedere gli esami di Analisi matematica 11 e di Meccanica razionale;
-
-2) l'esame di Analisi matematica II deve precedere l'esame di Meccanica razionale;
-
-3) l'esame di Fisica I deve precedere l'esame di Fisica II;
-
-4) l'esame di Disegno I deve precedere l'esame di Disegno II;
-
-5) gli studenti del primo anno di corso potranno ottenere l'iscrizione al secondo anno di corso qualora abbiano superato almeno due fra i quattro seguenti esami: Analisi matematica I, Geometria, Fisica I, Chimica.
-
-Al termine del secondo anno di corso lo studente per essere ammesso al terzo anno di corso dovra' aver superato gli esami di tutte le discipline del biennio propedeutico, stabilite nell'art. 100 dello statuto.
-
-Dopo l'art. 102 e con il conseguente spostamento della successiva numerazione e' inserito il seguente nuova articolo, relativo alle propedeuticita' del triennio di applicazione nel corso di laurea in Ingegneria.
-
-Art. 103. - Agli effetti della successione dei relativi esami nel triennio di applicazione occorre osservare le seguenti precedenze:
-
-1) l'esame di Scienza della costruzioni deve precedere quelli di Tecnica delle costruzioni, Scienza delle costruzioni II, Costruzione di ponti. Costruzioni stradali e ferroviarie, Costruzioni idrauliche, Costruzioni di macchine, Architettura tecnica;
-
-2) l'esame di meccanica applicata, alle macchine, quello di macchine e costruzione di macchine;
-
-3) l'esame di Architettura tecnica deve precedere quelli di Architettura, tecnica II, Architettura e composizione architettonica;
-
-4) l'esame di Idraulica deve precedere quelli di Costruzioni idrauliche, Impianti speciali idraulici, Costruzioni marittime, Complementi di costruzioni idrauliche, Idrologia, Idraulica agraria, Tecnica della bonifica;
-
-5) l'esame di Costruzioni idrauliche deve precedere quello di Complemento di costruzioni idrauliche;
-
-6) l'esame di Elettrotecnica deve precedere quelli di Tecnica ed economia dei trasporti; Trazione elettrica; Complementi di tecnica ed economia dei trasporti;
-
-7) l'esame di Fisica tecnica deve precedere quello di Meccanica applicata alle macchine, Macchine, Impianti tecnici edili, Tecnica ed economia dei trasporti, Complementi di tecnica ed economia dei trasporti.
-
-Art. 104, relativo alle norme per gli esami di laurea del corso di studi in Ingegneria e' abrogato e sostituito dal seguente:
-
-Per essere ammesso all'esame di laurea lo studente deve aver superato gli esami delle materie fondamentali e di quelle dell'indirizzo scelto.
-
-Gli esami di profitto consistono di norma in una prova orale sulle materie e di una discussione sui risultati delle esercitazioni e sui progetti.
-
-Gli esami di Architettura tecnica e di Architettura e composizione architettonica comportano sempre anche una prova pratica.
-
-L'esame di laurea consta di due prove, una orale vertente sugli argomenti e sulle esercitazioni svolte nelle materie degli ultimi tre anni: la seconda sulla discussione di un progetto particolare presentato come tesi.
-
-Dopo l'art. 104, e con il conseguente spostamento della numerazione successiva, e' inserito il seguente nuovo articolo.
-
-Art. 105. - Gli Istituti della Facolta' di ingegneria sono i seguenti:
-
-1) Istituto di architettura e composizione architettonica;
-
-2) Istituto di chimica applicata;
-
-3) Istituto di elettrotecnica;
-
-4) Istituto di fisica tecnica;
-
-5) Istituto di idraulica e costruzioni idrauliche;
-
-6) Istituto di macchine;
-
-7) Istituto di scienza delle costruzioni;
-
-8) Istituto di costruzioni stradali e ferroviarie;.
-
-9) Istituto di trasporti.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e del decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 17 settembre 1962
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 12 novembre 1962 Atti del Governo, registro n. 160, foglio n. 15. - VILLA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministero per la pubblica istruzione;  
+Il testo dell'art. 133, relativo ai titoli di ammissione alla scuola di perfezionamento in "diritto del lavoro e previdenza sociale", e' sostituito dal seguente:  
+"Alla scuola potranno iscriversi tutti i laureati il cui titolo di studio sia riconosciuto valido come diploma di laurea dall'attuale legislazione universitaria vigente".  
+
+Art. 2
+------
+
   
-Decreta:  
+Dopo l'art. 190, e con lo spostamento della numerazione del titolo e degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di "farmacologia applicata" e di "farmacia ospedaliera", annesse alla facolta' di farmacia.  
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 7. - Agli insegnamenti complementari per il corso di laurea in Giurisprudenza, sono aggiunti quelli di:  
-Diritto fallimentare;  
-Papirologia ed epigrafia giuridica;  
-Criminologia.  
+Titolo XIX  
+FACOLTA' DI FARMACIA  
   
-Art. 14 - Agli Istituti scientifici, annessi alla Facolta' di giurisprudenza e' aggiunto l' "Istituto di diritto processuale civile".  
+Scuola di specializzazione in farmacologia applicata  
   
-Art. 81, relativo al corso di laurea in Fisica, e' aggiunto il seguente comma dopo l'enumerazione degli insegnamenti obbligatori per l'indirizzo didattico:  
-"Il corso di "Storia della fisica" potra' in via transitoria, essere sostituito su deliberazione della Facolta', con un corso scelto fra i complementari.  
+Art. 191. - Alla facolta' di farmacia dell'Universita' di Bari e' annessa la scuola di specializzazione in farmacologia applicata.  
+Art. 192. - La scuola rilascia il diploma di specializzazione in farmacologia applicata al termine del corso di studi che ha durata biennale. Nel secondo anno di corso la scuola si articola in due indirizzi: sperimentale e terapeutico.  
+Art. 193. - Alla scuola di specializzazione sono ammessi i laureati in farmacia, chimica e tecnologia farmaceutiche, scienze biologiche, medicina e chirurgia, medicina veterinaria. L'ammissione alla scuola e' condizionata al superamento degli esami di fisiologia generale o umana e di farmacologia o farmacologia e farmacognosia, ove questi non siano stati superati nel corso degli studi universitari.  
+Art. 194. - Gli insegnamenti della scuola sono i seguenti:  
+1° Anno:  
+1) biometria e statistica;  
+2) patologia generale;  
+3) endocrinologia;  
+4) farmacologia generale;  
+5) biofarmaceutica e farmacocinetica;  
+6) biochimica farmacologica;  
+7) tossicologia;  
+8) microbiologia e igiene.  
+2° Anno:  
+a) indirizzo sperimentale:  
+1) radiochimica e radiobiologia;  
+2) progettazione degli esperimenti;  
+3) meccanismi di azione dei farmaci;  
+4) dosaggi biologici;  
+5) farmaci del sistema nervoso;  
+6) chemioterapici e antibiotici;  
+7) interazioni tra farmaci;  
+8) enzimologia.  
+2° Anno:  
+b) indirizzo terapeutico:  
+1) biochimica clinica;  
+2) farmaci dell'apparato cardio-vascolare;  
+3) farmaci degli stati dismetabolici;  
+4) farmaci del sistema nervoso centrale;  
+5) farmaci dell'apparato digerente;  
+6) chemioterapici antimicrobici, antivirali e antitumorali;  
+7) interazioni tra farmaci;  
+8) scienza dell'alimentazione.  
+Art. 195. - La scuola e' organizzata dalla facolta' di farmacia dell'Universita' di Bari presso i propri laboratori. I corsi teorici e pratici possono essere integrati da conferenze, seminari e dimostrazioni svolti con la collaborazione di studiosi ed esperti. Il consiglio direttivo della scuola e' formato dai titolari degli insegnamenti di farmacologia e farmacognosia, chimica farmaceutica e tossicologica e da altri tre docenti designati dal consiglio di facolta' di farmacia. Il consiglio direttivo elegge nel suo seno il direttore della scuola, nella persona di un professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+Art. 196. - Gli incarichi di insegnamento, anche per un limitato numero di lezioni ed esercitazioni, sono conferiti dal rettore su proposta del consiglio direttivo della scuola con l'approvazione del senato accademico e del consiglio di amministrazione.  
+Art. 197. - Le tasse e soprattasse per l'iscrizione alla scuola sono quelle stabilite per la facolta' di farmacia.  
+I contributi a carico degli iscritti dovranno essere fissati annualmente dal consiglio di amministrazione su proposta del consiglio della scuola e verranno resi noti ogni anno con un apposito manifesto.  
+Art. 198. - Il numero massimo di iscritti alla scuola e' di venti per ogni anno di corso. Iscrizioni in numero superiore possono essere ammesse eccezionalmente su parere favorevole del consiglio direttivo della scuola.  
+L'ammissione alla scuola e' decisa dal consiglio direttivo sulla base di una valutazione dei titoli e per esame.  
+La frequenza e' obbligatoria sia per le lezioni che per le esercitazioni.  
+Art. 199. - La scuola e' finanziata con le quote di iscrizione ed attraverso eventuali lasciti e donazioni di enti e di privati. Tali fondi dovranno comunque essere iscritti nel bilancio dell'Universita'.  
   
-Art. 84. - Agli insegnamenti complementari del corso di laurea in chimica, indirizzo inorganico, chimico, fisico, sono aggiunti quelli di:  
-Storia della chimica Strutturistica chimica;  
-Chimica teorica;  
-Radiochimica.  
+Scuola di specializzazione in farmacia ospedaliera  
   
-Art. 88 - Agli insegnamenti complementari del corso di laurea in Scienze biologiche e' aggiunto quello di "Biologia delle razze umane".  
-  
-Art. 91. - Agli insegnamenti complementari per il corso di laurea in Scienze geologiche sono aggiunti quelli di:  
-Analisi mineralogica;  
-Fotogeologia;  
-Geologia regionale;  
-Geologia degli idrocarburi;  
-Geotecnica;  
-Giacimenti minerari;  
-Idrogeologia;  
-Micropaleontologia;  
-Mineralogia applicata.  
-Gli insegnamenti complementari di Geologia economica e di Paleontologia umana dello stesso corso di laurea sono soppressi.  
-  
-Art. 96. Agli Istituti scientifici annessi alla Facolta' di scienze matematiche, fisiche e naturali sono aggiunti i seguenti:  
-Istituto ci chimica analitica;  
-Istituto di genetica.  
-L' Istituto di fisiologia generale cambia denominazione in "Istituto di fisiologia generale e chimica biologica".  
-  
-Art. 101, relativo alle propedeuticita' del biennio nel corso di laurea in Ingegneria, sono abrogati i primi due commi e sostituiti dai seguenti:  
-Agli effetti della successione dei relativi esami nel biennio propedeutico occorre osservare le seguenti precedenze:  
-1) gli esami di Analisi matematica I e di Geometria devono precedere gli esami di Analisi matematica 11 e di Meccanica razionale;  
-2) l'esame di Analisi matematica II deve precedere l'esame di Meccanica razionale;  
-3) l'esame di Fisica I deve precedere l'esame di Fisica II;  
-4) l'esame di Disegno I deve precedere l'esame di Disegno II;  
-5) gli studenti del primo anno di corso potranno ottenere l'iscrizione al secondo anno di corso qualora abbiano superato almeno due fra i quattro seguenti esami: Analisi matematica I, Geometria, Fisica I, Chimica.  
-Al termine del secondo anno di corso lo studente per essere ammesso al terzo anno di corso dovra' aver superato gli esami di tutte le discipline del biennio propedeutico, stabilite nell'art. 100 dello statuto.  
-Dopo l'art. 102 e con il conseguente spostamento della successiva numerazione e' inserito il seguente nuova articolo, relativo alle propedeuticita' del triennio di applicazione nel corso di laurea in Ingegneria.  
-  
-Art. 103. - Agli effetti della successione dei relativi esami nel triennio di applicazione occorre osservare le seguenti precedenze:  
-1) l'esame di Scienza della costruzioni deve precedere quelli di Tecnica delle costruzioni, Scienza delle costruzioni II, Costruzione di ponti. Costruzioni stradali e ferroviarie, Costruzioni idrauliche, Costruzioni di macchine, Architettura tecnica;  
-2) l'esame di meccanica applicata, alle macchine, quello di macchine e costruzione di macchine;  
-3) l'esame di Architettura tecnica deve precedere quelli di Architettura, tecnica II, Architettura e composizione architettonica;  
-4) l'esame di Idraulica deve precedere quelli di Costruzioni idrauliche, Impianti speciali idraulici, Costruzioni marittime, Complementi di costruzioni idrauliche, Idrologia, Idraulica agraria, Tecnica della bonifica;  
-5) l'esame di Costruzioni idrauliche deve precedere quello di Complemento di costruzioni idrauliche;  
-6) l'esame di Elettrotecnica deve precedere quelli di Tecnica ed economia dei trasporti; Trazione elettrica; Complementi di tecnica ed economia dei trasporti;  
-7) l'esame di Fisica tecnica deve precedere quello di Meccanica applicata alle macchine, Macchine, Impianti tecnici edili, Tecnica ed economia dei trasporti, Complementi di tecnica ed economia dei trasporti.  
-  
-Art. 104, relativo alle norme per gli esami di laurea del corso di studi in Ingegneria e' abrogato e sostituito dal seguente:  
-Per essere ammesso all'esame di laurea lo studente deve aver superato gli esami delle materie fondamentali e di quelle dell'indirizzo scelto.  
-Gli esami di profitto consistono di norma in una prova orale sulle materie e di una discussione sui risultati delle esercitazioni e sui progetti.  
-Gli esami di Architettura tecnica e di Architettura e composizione architettonica comportano sempre anche una prova pratica.  
-L'esame di laurea consta di due prove, una orale vertente sugli argomenti e sulle esercitazioni svolte nelle materie degli ultimi tre anni: la seconda sulla discussione di un progetto particolare presentato come tesi.  
-Dopo l'art. 104, e con il conseguente spostamento della numerazione successiva, e' inserito il seguente nuovo articolo.  
-  
-Art. 105. - Gli Istituti della Facolta' di ingegneria sono i seguenti:  
-1) Istituto di architettura e composizione architettonica;  
-2) Istituto di chimica applicata;  
-3) Istituto di elettrotecnica;  
-4) Istituto di fisica tecnica;  
-5) Istituto di idraulica e costruzioni idrauliche;  
-6) Istituto di macchine;  
-7) Istituto di scienza delle costruzioni;  
-8) Istituto di costruzioni stradali e ferroviarie;.  
-9) Istituto di trasporti.  
+Art. 200. - E' istituita presso la facolta' di farmacia dell'Universita' di Bari la scuola di specializzazione in farmacia ospedaliera, con l'intento di assicurare ai laureati in discipline farmaceutiche (farmacia e chimica e tecnologia farmaceutiche) la possibilita' di un perfezionamento nelle materie necessarie ad esercitare la loro attivita' nella farmacia ospedaliera.  
+Art. 201. - La scuola rilascia il diploma di specializzazione in farmacia ospedaliera al termine del corso di studi che ha la durata biennale.  
+Art. 202. - Alla scuola di specializzazione sono ammessi i laureati in farmacia e in chimica e tecnologia farmaceutiche.  
+Art. 203. - Gli insegnamenti nella scuola sono i seguenti:  
+1° Anno:  
+1) matematica e informatica;  
+2) patologia generale;  
+3) biofarmaceutica e farmacocinetica I;  
+4) tossicita', interazioni, effetti secondari dei farmaci;  
+5) radiochimica e radiobiologia;  
+6) microbiologia e igiene;  
+7) tecnologia delle preparazioni magistrali;  
+8) chimica farmaceutica generale.  
+2° Anno:  
+1) biofarmaceutica e farmacocinetica II;  
+2) immunochimica;  
+3) farmacia clinica;  
+4) documentazione e informazione sui farmaci;  
+5) officina galenica;  
+6) chimica degli alimenti;  
+7) economia, organizzazione e legislazione ospedaliera;  
+8) scienza dell'alimentazione.  
+Gli insegnamenti comprendono lezioni teoriche ed esercitazioni pratiche.  
+Art. 204. - La scuola e' organizzata dalla facolta' di farmacia dell'Universita' di Bari. Potranno essere invitati a tenere lezioni, conferenze, seminari ed esercitazioni, docenti di altre facolta' o universita' esperti anche all'estero.  
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento, la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+Il direttore viene eletto dal consiglio direttivo costituito da cinque docenti nominati dal consiglio di facolta', per la durata di tre anni, scelti tra i docenti di discipline chimico-farmaceutiche (due), farmaco-biologiche (due) e tecnologiche (uno).  
+Il direttore ed i membri del consiglio sono rieleggibili.  
+In caso di decadenza il nuovo membro resta in carica fino alla scadenza del mandato triennale.  
+Art. 205. - Gli incarichi di insegnamento, anche per un limitato numero di lezioni o esercitazioni, sono conferiti dal rettore su proposta del consiglio direttivo della scuola con l'approvazione del senato accademico e del consiglio di amministrazione dell'Universita'.  
+Art. 206. - Le tasse e soprattasse per l'iscrizione alla scuola sono quelle stabilite per la facolta' di farmacia.  
+I contributi a carico degli iscritti dovranno essere fissati annualmente dal consiglio di amministrazione su proposta del consiglio della scuola e verranno resi noti ogni anno con apposito manifesto.  
+Art. 207. - Il numero massimo degli iscritti alla scuola e' di quindici per ogni anno di corso. Iscrizioni in numero superiore possono essere ammesse eccezionalmente su parere favorevole del consiglio direttivo della scuola. L'ammissione alla scuola e' decisa sulla base di un concorso per esame e per titoli.  
+La frequenza e' obbligatoria sia per le lezioni che per le esercitazioni.  
+Art. 208. - La scuola e' finanziata con le quote di iscrizione e attraverso eventuali contributi della Societa' italiana di farmacia ospedaliera e di contributi, lasciti e donazioni di altri enti e di privati. Tali fondi dovranno comunque essere iscritti nel bilancio dell'Universita'.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e del decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 settembre 1962
+### Dato a Roma, addi' 31 ottobre 1981
 
-SEGNI GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 12 novembre 1962
+Registrato alla Corte dei conti, addi' 10 marzo 1982
 
-Atti del Governo, registro n. 160, foglio n. 15. - VILLA
+Registro n. 38 Istruzione, foglio n. 255

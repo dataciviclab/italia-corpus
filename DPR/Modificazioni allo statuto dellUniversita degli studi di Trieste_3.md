@@ -1,70 +1,47 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1985 n. 633
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1963 n. 2377
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1985 n. 633
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1963 n. 2377
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Nell'art. 61, relativo al corso di laurea in materie letterarie, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-storia della cartografia;  
-storia della architettura moderna e contemporanea.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592).  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduto il [decreto del Presidente della Repubblica 14 ottobre 1963, n. 1534](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1963-10-14;1534);  
+Rivedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione:  
   
-Nell'art. 63, relativo al corso di laurea in lingue e letterature straniere, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-filologia ibero-romanza;  
-didattica delle lingue straniere.  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 36, relativo alle modalita' del corso di laurea in Economia e commercio, e' abrogato e sostituito dal seguente:  
+  
+La dissertazione scritta per l'esame di laurea puo' concernere qualunque materia, elencata nell'art. 34 ad eccezione delle lingue.  
+Essa dovra' essere depositata in segreteria, in quattro copie a stampa o dattilografate, venti giorni prima dei relativi esami.  
+L'esame deve essere integrato dalla discussione di un argomento scelto, con l'approvazione del professore della disciplina nella predetta materia.  
+Per la scelta dell'argomento della dissertazione scritta e della tesi orale, gli insegnamenti sono distinti in cinque gruppi:  
+Economico-statistico, professionale, amministrativo, bancario-assicurativo, tecnico industriale; i due argomenti dovranno essere scelti nello stesso gruppo.  
+Gruppo economico-statistico: Economia politica, Geografia economica, Storia economica, Statistica, Scienza, delle finanze e diritto finanziario, Economia, e politica agraria, Politica economica e finanziaria, Economia matematica, Economia monetaria e creditizia, Econometria, Economia internazionale, Statistica economica, Storia del pensiero economico, Economia dei trasporti, Demografia, Economia agraria comparata.  
+Gruppo amministrativo: Ragioneria generale ed applicata, Tecnica industriale e commerciale, Tecnica bancaria e professionale, Organizzazione e direzione aziendale, Tecnica amministrativa e Ragioneria delle aziende pubbliche.  
+Gruppo professionale: Istituzioni di diritto privato, Istituzioni di diritto pubblico, Ragioneria generale ed applicata, Diritto commerciale, Diritto del lavoro, Diritto tributario, Organizzazione e direzione aziendale, Diritto processuale civile, Diritto amministrativo, tecnica del commercio internazionale.  
+Gruppo bancario-assicurativo: Matematica generale, Ragioneria generale ed applicata, Matematica finanziaria, Tecnica bancaria e professionale, Statistica assicurativa, Economia monetaria e creditizia, Organizzazione e direzione aziendale, Tecnica del commercio internazionale, Diritto internazionale, Principi e tecnica delle applicazioni meccanografiche ed elettroniche.  
+Gruppo tecnico industriale: Merceologia, Ragioneria generale ed applicata, Statistica, Tecnica industriale e commerciale, Ricerca operativa, Sociologia, Tecnologia dei cicli produttivi, Tecnica delle ricerche di mercato, Organizzazione e direzione aziendale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 maggio 1985
+### Dato a Sassari, addi' 31 dicembre 1963
 
-PERTINI
-
-FALCUCCI, Ministro della pubblica istruzione
-
-Visto, il Guardasigilli: MARTINAZZOLI
-
-Registrato alla Corte dei conti, addi' 9 novembre 1985
-
-Registro n. 74 Istruzione, foglio n. 124
+GUI Visto, il Guardasigilli: REALE Registrato alla Corte del Conti, addi' 18 marzo 1964 Atti del Governo, registro n. 182, foglio n. 49. - VILLA

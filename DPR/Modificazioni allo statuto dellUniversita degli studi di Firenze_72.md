@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 luglio 1981 n. 682
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 gennaio 1971 n. 128
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 luglio 1981 n. 682
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 gennaio 1971 n. 128
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,315 +18,494 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio universitario nazionale nei suoi pareri;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Gli articoli dal 120 al 132, relativi all'ordinamento degli studi della facolta' di architettura sono abrogati e sostituiti dai seguenti:
+
+TITOLO X
+
+FACOLTA' DI ARCHITETTURA
+
+Art. 120. - La facolta' di architettura conferisce la laurea in architettura.
+
+Art. 121. - La durata del corso degli studi per la laurea in architettura e' di cinque anni. Il titolo di ammissione e' quello stabilito dalle vigenti disposizioni di legge.
+
+Art. 122. - Gli insegnamenti fondamentali sono:
+
+1) analisi matematica e geometria analitica (annuale + un semestre);
+
+2) arredamento (annuale);
+
+3) composizione architettonica (quinquennale);
+
+4) disegno e rilievo (annuale);
+
+5) estimo ed esercizio professionale (semestrale);
+
+6) fisica (semestrale);
+
+7) fisica tecnica ed impianti (annuale);
+
+8) geometria descrittiva (annuale);
+
+9) igiene edilizia (semestrale);
+
+10) statica (annuale);
+
+11) restauro dei monumenti (annuale);
+
+12) scienza delle costruzioni (annuale);
+
+13) storia dell'architettura (biennale);
+
+14) tecnica delle costruzioni (annuale);
+
+15) tecnologia dell'architettura (biennale);
+
+16) urbanistica (biennale).
+
+Sono insegnamenti complementari:
+
+1) letteratura italiana;
+
+2) plastica ornamentale;
+
+3) lingua straniera;
+
+4) arte dei giardini;
+
+5) scenografia;
+
+6) decorazione;
+
+7) materie giuridiche;
+
+8) applicazione di geometria descrittiva;
+
+9) architettura sociale;
+
+10) allestimento e museografia;
+
+11) indirizzi dell'architettura moderna;
+
+12) caratteri stilistici e costruttivi dei monumenti;
+
+13) complementi di matematica;
+
+14) consolidamento ed adattamento degli edifici;
+
+15) disegno dal vero;
+
+16) ponti e grandi strutture;
+
+17) impianti speciali;
+
+18) istituzioni di storia dell'arte;
+
+19) illuminazione ed acustica nell'edilizia;
+
+20) letteratura artistica;
+
+21) pianificazione territoriale urbanistica;
+
+22) progettazione artistica per l'industria;
+
+23) storia dell'urbanistica;
+
+24) geotecnica e tecnica delle fondazioni;
+
+25) tipologia strutturale;
+
+26) unificazione edilizia e prefabbricazione;
+
+27) materiali da costruzione speciali;
+
+28) complementi di fisica;
+
+29) costruzioni in zone sismiche;
+
+30) sociologia;
+
+31) economia dello spazio;
+
+32) topografia;
+
+33) analisi dei sistemi urbani.
+
+Per essere ammesso all'esame di laurea, lo studente deve aver seguito le lezioni e le esercitazioni e deve aver superato i relativi esami di tutti gli insegnamenti fondamentali e di sei insegnamenti complementari della durata di un anno (o equivalente), da lui scelti fra quelli propri della facolta'.
+
+Art. 123. Per gli insegnamenti pluriennali, gli esami sono cosi' determinati:
+
+per analisi matematica 1 esame alla fine del II anno
+
+e geometria analitica
+
+per composizione archi- 1 esame alla fine del I anno
+
+tettonica
+
+1 esame alla fine del III anno
+
+1 esame alla fine del V anno
+
+per storia dell'architet- 1 esame alla fine di ciascun
+
+tura e per tecnologia della corso annuale
+
+architettura
+
+per urbanistica 1 esame alla fine di ciascun corso.
+
+Art. 124. - Nella serie degli esami stabiliti dalla facolta' per materie pluriennali, non puo' essere sostenuto un esame senza che sia stato superato il precedente.
+
+Sono stabilite, inoltre, le seguenti precedenze di esami:
+
+Non si puo essere ammessi se non e stato superato
+
+a sostenere l'esame di: l'esame di:
+
+Arredamento Composizione architettonica I e III;
+
+Estimo ed esercizio profes- Tutti gli esami del I anno
+
+sionale e l'esame di composizione
+
+architettonica III;
+
+Analisi dei sistemi urbani Storia dell'architettura II e
+
+composizione architettonica
+
+I e III;
+
+Arte dei giardini Composizione architettonica I e III;
+
+Allestimento e museografia Composizione architettonica III,
+
+storia dell'architettura I e II;
+
+Pianificazione territoriale Materie giuridiche;
+
+urbanistica
+
+Restauro dei monumenti Storia dell'architettura I e II;
+
+Storia dell'architettura II Disegno e rilievo;
+
+Tecnologia dell'architettu- Analisi matematica e geometria
+
+ra II analitica I e II, fisica;
+
+Fisica Analisi matematica e geometria
+
+analitica I e II;
+
+Statica Analisi matematica e geometria
+
+analitica I e II, fisica;
+
+Scienza delle costruzioni Statica, tecnologia dell'architet-
+
+tura I e II, fisica;
+
+Tecnica delle costruzioni Scienza delle costruzioni;
+
+Fisica tecnica ed impianti Tecnologia dell'architettura I e II,
+
+analisi matematica e geometria
+
+analitica II;
+
+Geometria descrittiva Analisi matematica e geometria
+
+analitica I e II;
+
+Impianti speciali Fisica tecnica ed impianti;
+
+Materiali da costruzione spe- Tecnica delle costruzioni,
+
+ciali fisica tecnica ed impianti;
+
+Geotecnica e tecnica delle Tecnica delle costruzioni;
+
+fondazioni
+
+Tipologia strutturale Tecnica delle costruzioni, fisica
+
+tecnica ed impianti;
+
+Ponti e grandi strutture Scienza delle costruzioni;
+
+Topografia Tecnica delle costruzioni, analisi
+
+matematica e geometria
+
+analitica I e II, fisica;
+
+Caratteri stilistici Storia dell'architettura I e II.
+
+Per sostenere l'esame di urbanistica II ed estimo, e' opportuno aver frequentato il corso di materie giuridiche.
+
+Art. 125. - Gli studenti del I, II, III, IV anno di corso potranno ottenere l'iscrizione, rispettivamente al II, III, IV e V anno di corso, qualora abbiano seguito i corsi e superato, per ogni anno, almeno 2 esami, scelti tra quelli previsti nel precedente anno di corso. Tali esami devono essere superati entro e non oltre la sessione autunnale.
+
+Art. 126. - L'insegnamento viene svolto, secondo le materie, mediante lezioni orali, esercizi grafici, ed esercitazioni varie seminariali, di laboratorio e di cantiere.
+
+Art. 127. - Nell'ambito del V anno gli insegnamenti si svolgono anche sulla redazione del progetto di laurea.
+
+Art. 128. - I professori si accertano dell'assiduita' e del profitto degli studenti mediante appelli, interrogazioni, ed ogni altro mezzo che essi ritengano opportuno e ne attestano la frequenza.
+
+Art. 129. - Per gli studenti provenienti da altre facolta' universitarie o istituti superiori, e sempreche' siano forniti del titolo di studio prescritto per l'ammissione al corso di laurea in architettura, il consiglio di facolta', tenuto conto degli studi compiuti e degli esami superati ed in relazione al piano di studi proposto, determina caso per caso l'anno di corso al quale possono essere iscritti, gli insegnamenti che debbono seguire e gli esami che debbono superare, e stabilisce il piano di studi.
+
+Art. 130. - I laureati in ingegneria possono essere iscritti in base al piano di studio seguito, al IV o al V anno di corso, con dispensa dagli esami, previo giudizio del consiglio di facolta'.
+
+Art. 131. - Lo studente puo' variare il piano di studi consigliato dalla facolta', purche' frequenti, in ogni anno, almeno tre e non piu' di otto insegnamenti, e rispetti le norme di precedenza.
+
+Art. 132. - Gli esami di profitto consistono in prove orali, pratiche e grafiche. Le modalita' per ciascuna prova sono stabilite dal consiglio di facolta'.
+
+Nel giudizio, le commissioni tengono conto anche dei lavori eseguiti dai candidati durante l'anno accademico.
+
+Art. 133. - L'esame di laurea in architettura consiste nella discussione di una tesi presentata dal candidato, assistito da un relatore, scelto fra i professori ufficiali della facolta' e gli assistenti di ruolo liberi docenti.
+
+Il titolo della tesi deve essere depositato almeno sei mesi prima, ed approvato da una apposita commissione composta dal preside e da altri due professori, la quale ha la facolta' di richiedere al candidato prove integrative, grafiche o speciali prima della discussione.
+
+L'elaborato presentato dal candidato per la discussione della tesi deve presentare carattere di contributo originale.
+
+Le tesi presentate per il conseguimento della laurea in architettura devono tendere ad essere:
+
+1) od un contributo originale a carattere professionale, consistente nella redazione di un progetto architettonico od urbanistico, definito, almeno in parte, a livello esecutivo. Nel caso di un progetto particolarmente complesso, e le cui parti siano chiaramente distinguibili, piu' candidati possono associarsi nella redazione dello stesso progetto, ferma restando la possibilita' individuale dello sviluppo delle singole parti;
+
+2) oppure, un contributo originale di ricerca scientifica applicata che deve consistere nell'apporto individuale ad una ricerca (che puo' anche essere contemporaneamente svolta da piu' persone nel campo della pianificazione e della meta-progettazione). Anche se il valore del contributo si accentra, in questo caso, sulla ricerca, la tesi dovra' sempre concludersi con una proposta specifica anche a livello normativo o pianificatorio;
+
+3) infine, un contributo originale con carattere essenziale di ricerca scientifica, che si puo' esaurire nella ricerca stessa o nelle proposte metodologiche che ne derivano.
+
+Anche in questo caso la ricerca dovra' essere specifica dell'area che interessi l'architetto e l'urbanistica, cioe' derivare dagli insegnamenti impartiti nella facolta', dalla storia dell'architettura e quella del territorio, dalla scienza alla tecnica delle costruzioni ed al restauro, fino alle metodologie di progettazione e di pianificazione.
+
+Le tesi di cui al punto 1) saranno presentate e discusse estemporaneamente con la illustrazione, da parte del candidato, di una serie di elaborati essenzialmente grafici.
+
+Le tesi di cui al punto 3), che illustrano una ricerca pura, vanno consegnate in sei copie, alla segreteria della facolta' almeno quindici giorni prima della data stabilita per la discussione. La tesi sara' esaminata preliminarmente dal relatore, da almeno due correlatori e da due controrelatori, nominati dal preside all'interno della commissione di laurea.
+
+Prima della discussione, il relatore riferira' alla commissione sui risultati della ricerca.
+
+Le tesi di cui al punto 2) seguiranno le norme dettate per il punto 3) per la loro parte introduttiva e di ricerca, e quelle dettate per il punto 1) per la parte conclusiva pianificatoria progettuale.
+
+L'originale delle tesi sono di proprieta' della facolta'.
+
+Esse sono depositate presso la biblioteca della facolta'.
+
+E' costituito un "Archivio lauree", a disposizione degli studenti.
+
+Un tecnico di ruolo e' addetto alla loro conservazione.
+
+Gli elaborati grafici saranno microfilmati, e nella loro redazione si dovra' tener conto della riproducibilita' tecnica degli stessi.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 25 gennaio 1971
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 25 marzo 1971 Atti del Governo, registro n. 241, foglio n. 90. - GRECO.
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
+  
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
+  
+Decreta:   
+  
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli dal 120 al 132, relativi all'ordinamento degli studi della facolta' di architettura sono abrogati e sostituiti dai seguenti:   
+  
+TITOLO X   
+FACOLTA' DI ARCHITETTURA   
+  
+Art. 120. - La facolta' di architettura conferisce la laurea in architettura.   
+Art. 121. - La durata del corso degli studi per la laurea in architettura e' di cinque anni. Il titolo di ammissione e' quello stabilito dalle vigenti disposizioni di legge.   
+Art. 122. - Gli insegnamenti fondamentali sono:   
+1) analisi matematica e geometria analitica (annuale + un semestre);   
+2) arredamento (annuale);   
+3) composizione architettonica (quinquennale);   
+4) disegno e rilievo (annuale);   
+5) estimo ed esercizio professionale (semestrale);   
+6) fisica (semestrale);   
+7) fisica tecnica ed impianti (annuale);   
+8) geometria descrittiva (annuale);   
+9) igiene edilizia (semestrale);   
+10) statica (annuale);   
+11) restauro dei monumenti (annuale);   
+12) scienza delle costruzioni (annuale);   
+13) storia dell'architettura (biennale);   
+14) tecnica delle costruzioni (annuale);   
+15) tecnologia dell'architettura (biennale);   
+16) urbanistica (biennale).   
+Sono insegnamenti complementari:   
+1) letteratura italiana;   
+2) plastica ornamentale;   
+3) lingua straniera;   
+4) arte dei giardini;   
+5) scenografia;   
+6) decorazione;   
+7) materie giuridiche;   
+8) applicazione di geometria descrittiva;   
+9) architettura sociale;   
+10) allestimento e museografia;   
+11) indirizzi dell'architettura moderna;   
+12) caratteri stilistici e costruttivi dei monumenti;   
+13) complementi di matematica;   
+14) consolidamento ed adattamento degli edifici;   
+15) disegno dal vero;   
+16) ponti e grandi strutture;   
+17) impianti speciali;   
+18) istituzioni di storia dell'arte;   
+19) illuminazione ed acustica nell'edilizia;   
+20) letteratura artistica;   
+21) pianificazione territoriale urbanistica;   
+22) progettazione artistica per l'industria;   
+23) storia dell'urbanistica;   
+24) geotecnica e tecnica delle fondazioni;   
+25) tipologia strutturale;   
+26) unificazione edilizia e prefabbricazione;   
+27) materiali da costruzione speciali;   
+28) complementi di fisica;   
+29) costruzioni in zone sismiche;   
+30) sociologia;   
+31) economia dello spazio;   
+32) topografia;   
+33) analisi dei sistemi urbani.   
+Per essere ammesso all'esame di laurea, lo studente deve aver seguito le lezioni e le esercitazioni e deve aver superato i relativi esami di tutti gli insegnamenti fondamentali e di sei insegnamenti complementari della durata di un anno (o equivalente), da lui scelti fra quelli propri della facolta'.   
+  
+Art. 123. Per gli insegnamenti pluriennali, gli esami sono cosi' determinati:   
   
   
-Lo statuto dell'Universita' di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 273 - all'elenco delle scuole di specializzazione in medicina e chirurgia sono apportate le seguenti modifiche:   
-la scuola di specializzazione in chirurgia muta la denominazione in "chirurgia generale";   
-la scuola di specializzazione in ortopedia e traumatologia muta la denominazione in "ortopedia";   
-e' aggiunta la scuola di specializzazione in chirurgia della mano.   
-
-Art. 2
-------
-
+per analisi matematica 1 esame alla fine del II anno  
+e geometria analitica  
+per composizione archi- 1 esame alla fine del I anno  
+tettonica  
+1 esame alla fine del III anno  
+  
+1 esame alla fine del V anno  
+per storia dell'architet- 1 esame alla fine di ciascun  
+tura e per tecnologia della corso annuale  
+architettura  
+per urbanistica 1 esame alla fine di ciascun corso.  
   
   
-L'art. 285, lettera a), relativo alla scuola di specializzazione in chirurgia, che muta la denominazione in chirurgia generale, e' soppresso e sostituito dal seguente:   
-  
-Scuola di specializzazione in chirurgia generale   
-a) La scuola di specializzazione in chirurgia generale conferisce il diploma di specialista in chirurgia generale.   
-
-Art. 3
-------
-
-  
-L'art. 286, relativo alla scuola di specializzazione in ortopedia e traumatologia, che muta la denominazione in ortopedia, e' soppresso e sostituito dal seguente:  
-  
-Scuola di specializzazione in ortopedia  
-Art. 286. - La scuola di specializzazione in ortopedia ha sede presso l'istituto di clinica ortopedica e conferisce il diploma di specialista in ortopedia.  
-Il corso ha la durata di cinque anni e non e' suscettibile di abbreviazione.  
-La scuola comprende un insegnamento teorico e pratico.  
-Possono essere ammessi alla scuola i laureati in medicina e chirurgia.  
-Il numero degli iscritti e' di otto per ogni anno e non puo' superare il numero di quaranta per l'intero corso.  
-La frequenza e' obbligatoria nell'istituto sede della scuola per un periodo di almeno nove mesi per ogni anno accademico.  
-E' in facolta' della direzione della scuola di concedere una deroga a tale norma solo agli iscritti alla scuola che facciano parte di cliniche ortopediche universitarie o che siano assistenti di ruolo in divisioni di ortopedia e traumatologia di ospedali; per queste due categorie di iscritti il periodo di frequenza presso l'istituto sede della scuola puo' essere ridotto fino a non meno di un mese ogni anno.  
-Gli insegnamenti si svolgono con indirizzo prevalentemente pratico, dimostrativo, ma per ogni singola materia di insegnamento deve anche svolgersi un corso regolare di lezioni, il cui numero viene fissato annualmente dal direttore della scuola in accordo con i docenti delle singole materie.  
-Le materie d'insegnamento sono le seguenti:  
-  
-INSEGNAMENTO TEORICO  
-  
-1° Anno:  
-1) anatomia dell'apparato locomotore;  
-2) fisiologia dell'apparato locomotore;  
-3) semeiotica ortopedica;  
-4) nozioni di chirurgia generale;  
-5) bioingegneria dell'apparato locomotore I.  
-2° Anno:  
-1) anatomia ed istologia patologica dell'apparato locomotore I;  
-2) patologia dell'apparato locomotore I;  
-3) clinica ortopedica I;  
-4) traumatologia dell'apparato locomotore I;  
-5) radiologia I;  
-6) nozioni di chirurgia d'urgenza e pronto soccorso;  
-7) bioingegneria dell'apparato locomotore II.  
-3° Anno:  
-1) anatomia ed istologia patologica dell'apparato locomotore II;  
-2) patologia dell'apparato locomotore II;  
-3) clinica ortopedica II;  
-4) traumatologia dell'apparato locomotore II;  
-5) radiologia II;  
-6) tecnica operatoria I;  
-7) apparato terapia e tecnica degli apparecchi gessati;  
-8) elementi di reumatologia.  
-4° Anno:  
-1) patologia dell'apparato locomotore III;  
-2) clinica ortopedica III;  
-3) traumatologia dell'apparato locomotore III;  
-4) tecnica operatoria II;  
-5) fisiokinesiterapia I;  
-6) neuropatologia dell'apparato locomotore ed elettrodiagnostica;  
-7) nozioni di medicina legale.  
-5° Anno:  
-1) patologia dell'apparato locomotore IV;  
-2) clinica ortopedica IV;  
-3) traumatologia dell'apparato locomotore IV;  
-4) tecnica operatoria III;  
-5) fisioterapia II.  
-  
-INSEGNAMENTO PRATICO  
-  
-1° Anno:  
-1) chirurgia generale;  
-2) pronto soccorso generale;  
-3) fisioterapia.  
-2° Anno:  
-1) chirurgia generale (con frequenza eventuale in reparti specialistici interessanti per l'apparato locomotore);  
-2) reparti di pronto soccorso traumatologico;  
-3) reparti di ortopedia e traumatologia.  
-3° Anno:  
-1) reparti di ortopedia e traumatologia (in particolare sale di degenza e sale di gessi).  
-4° Anno:  
-1) reparti di ortopedia e traumatologia (frequenza nei reparti operatori).  
-5° Anno:  
-1) reparti di ortopedia e traumatologia (frequenza nei reparti operatori);  
-2) officine ortopediche.  
-Alla fine di ogni corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle singole materie impartite durante l'anno. Per le materie a corso pluriennale, l'iscritto deve superare, alla fine di ogni anno, un colloquio, mentre l'esame e' sostenuto alla fine dei corsi medesimi.  
-Per conseguire il diploma di specialista i candidati devono superare l'esame di diploma, consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
-
-Art. 4
-------
-
+Art. 124. - Nella serie degli esami stabiliti dalla facolta' per materie pluriennali, non puo' essere sostenuto un esame senza che sia stato superato il precedente.   
+Sono stabilite, inoltre, le seguenti precedenze di esami:   
   
   
-L'art. 288, relativo alla scuola di specializzazione in igiene e medicina preventiva, e' soppresso e sostituito dal seguente:   
+Non si puo essere ammessi se non e stato superato  
+a sostenere l'esame di: l'esame di:  
   
-Scuola di specializzazione in igiene e medicina preventiva   
-Art. 288. - La scuola di specializzazione in igiene e medicina preventiva ha sede presso l'istituto di igiene e conferisce il diploma di specialista in igiene e medicina preventiva.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
-Il numero massimo degli allievi e' di venticinque per anno di corso e complessivamente di cento iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Il corso si articola in un biennio propedeutico seguito da un biennio differenziato con cinque orientamenti e precisamente:   
-a) sanita' pubblica;   
-b) igiene e tecnica ospedaliera;   
-c) igiene del lavoro;   
-d) igiene e medicina scolastica;   
-e) laboratorio.   
-Il piano di studi e' il seguente:   
+Arredamento Composizione architettonica I e III;  
+Estimo ed esercizio profes- Tutti gli esami del I anno  
+sionale e l'esame di composizione  
+architettonica III;  
+Analisi dei sistemi urbani Storia dell'architettura II e  
+composizione architettonica  
+I e III;  
+Arte dei giardini Composizione architettonica I e III;  
+Allestimento e museografia Composizione architettonica III,  
+storia dell'architettura I e II;  
+Pianificazione territoriale Materie giuridiche;  
+urbanistica  
+Restauro dei monumenti Storia dell'architettura I e II;  
+Storia dell'architettura II Disegno e rilievo;  
+Tecnologia dell'architettu- Analisi matematica e geometria  
+ra II analitica I e II, fisica;  
+Fisica Analisi matematica e geometria  
+analitica I e II;  
+Statica Analisi matematica e geometria  
+analitica I e II, fisica;  
+Scienza delle costruzioni Statica, tecnologia dell'architet-  
+tura I e II, fisica;  
+Tecnica delle costruzioni Scienza delle costruzioni;  
+Fisica tecnica ed impianti Tecnologia dell'architettura I e II,  
+analisi matematica e geometria  
+analitica II;  
+Geometria descrittiva Analisi matematica e geometria  
+analitica I e II;  
+Impianti speciali Fisica tecnica ed impianti;  
+Materiali da costruzione spe- Tecnica delle costruzioni,  
+ciali fisica tecnica ed impianti;  
+Geotecnica e tecnica delle Tecnica delle costruzioni;  
+fondazioni  
+Tipologia strutturale Tecnica delle costruzioni, fisica  
+tecnica ed impianti;  
+Ponti e grandi strutture Scienza delle costruzioni;  
+Topografia Tecnica delle costruzioni, analisi  
+matematica e geometria  
+analitica I e II, fisica;  
+Caratteri stilistici Storia dell'architettura I e II.  
   
-PRIMO BIENNIO   
   
-1° Anno:   
-metodologia statistica e biometria;   
-educazione sanitaria;   
-psicologia;   
-microbiologia ed immunologia I;   
-parassitologia;   
-epidemiologia generale e metodologia epidemiologica;   
-profilassi generale;   
-sociologia medica ed antropologia culturale.   
-2° Anno:   
-microbiologia e immunologia II;   
-patologia e clinica delle malattie infettive;   
-epidemiologia e profilassi delle malattie infettive I;   
-patologia e clinica delle malattie non infettive di importanza sociale;   
-epidemiologia e profilassi delle malattie non infettive di importanza sociale I;   
-demografia e statistica sanitaria;   
-legislazione e programmazione sanitarie.   
-  
-SECONDO BIENNIO   
-  
-a) Orientamento di "sanita' pubblica"   
-3° Anno:   
-epidemiologia e profilassi delle malattie infettive II;   
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
-igiene dell'ambiente fisico e difesa ecologica;   
-igiene degli alimenti e della nutrizione;   
-igiene dell'eta' evolutiva;   
-igiene del lavoro;   
-igiene ed assistenza dell'anziano.   
-4° Anno:   
-igiene edilizia e dell'aggregato urbano;   
-igiene ospedaliera;   
-organizzazione del territorio e programmazione sanitaria;   
-medicina di comunita';   
-economia sanitaria;   
-elementi di diritto amministrativo.   
-b) Orientamento di "igiene e tecnica ospedaliera"   
-3° Anno:   
-epidemiologia e profilassi delle malattie infettive II;   
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
-igiene dell'ambiente fisico e difesa ecologica;   
-igiene e tecnica delle costruzioni ospedaliere: arredamenti ed impianti tecnologici;   
-igiene dell'alimentazione e dietetica ospedaliera;   
-organizzazione e funzionamento degli ospedali I;   
-elementi di diritto e legislazione ospedaliera.   
-4° Anno:   
-organizzazione e funzionamento degli ospedali II;   
-compiti ed attribuzione della direzione sanitaria;   
-formazione professionale e compiti del personale ospedaliero;   
-programmazione ospedaliera e medicina di comunita';   
-assistenza psichiatrica;   
-aspetti socio sanitari dell'ospedalismo;   
-aspetti economici della gestione ospedaliera;   
-c) Orientamento di "igiene del lavoro"   
-3° Anno:   
-epidemiologia e profilassi delle malattie infettive II;   
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
-igiene dell'ambiente fisico e difesa ecologica;   
-epidemiologia e profilassi delle malattie del lavoro;   
-tecnica ed economia degli impianti industriali;   
-tossicologia industriale e diagnostica di laboratorio;   
-elementi di fisica tecnica applicata all'igiene;   
-igiene dell'ambiente di lavoro I.   
-4° Anno:   
-igiene dell'ambiente di lavoro II;   
-elementi di diritto e legislazione del lavoro;   
-psicologia del lavoro;   
-prevenzione degli infortuni;   
-politica del territorio ed insediamenti industriali;   
-igiene del lavoro e medicina di comunita'.   
-d) Orientamento di "igiene e medicina scolastica"   
-3° Anno:   
-epidemiologia e profilassi delle malattie infettive II;   
-epidemiologia e profilassi delle malattie non infettive II;   
-igiene dell'ambiente fisico e difesa ecologica;   
-clinica delle malattie e dell'eta' evolutiva;   
-epidemiologia e profilassi delle malattie dell'eta' evolutiva;   
-igiene degli alimenti e della nutrizione;   
-auxologia normale e patologica;   
-psicologia dell'eta' evolutiva.   
-4° Anno:   
-servizi di medicina scolastica;   
-edilizia ed arredamento scolastico;   
-elementi di pedagogia;   
-assistenza parascolastica;   
-educazione sanitaria nella scuola;   
-legislazione scolastica;   
-igiene mentale.   
-e) Orientamento di "laboratorio"   
-3° Anno:   
-epidemiologia e profilassi delle malattie infettive II;   
-epidemiologia e profilassi delle malattie non infettive II;   
-igiene dell'ambiente fisico e difesa ecologica;   
-metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale I;   
-metodi e dosaggi biologici per il controllo dell'inquinamento ambientale;   
-strumentazione e metodologie chimico-cliniche ed ematologiche I; microscopia applicata all'igiene;   
-elementi di fisica tecnica applicata all'igiene;   
-accertamento diagnostico delle malattie infettive e parassitarie I.   
-4° Anno:   
-metodi e dosaggi fisico chimici per il controllo dell'inquinamento ambientale II;   
-accertamento diagnostico delle malattie infettive e parassitarie II;   
-strumentazione e metodologie chimico-cliniche ed ematologiche II; ispezione e controllo degli alimenti;   
-elementi di informatica.   
-I corsi saranno completati da insegnamenti complementari scelti dalla scuola tra i seguenti:   
-automazione del sistema ospedaliero;   
-biochimica applicata;   
-climatologia;   
-diritto sanitario internazionale;   
-elementi di medicina legale;   
-genetica umana medica;   
-geologia applicata all'igiene;   
-idrologia;   
-igiene dei climi tropicali;   
-igiene dei trasporti;   
-igiene militare;   
-igiene rurale;   
-istituzioni di matematiche;   
-micologia;   
-radioprotezionistica.   
-A giudizio della scuola possono essere indicati come complementari anche altri insegnamenti regolarmente attivati nei corsi di laurea dell'Universita' di Firenze. I corsi sono integrati da un tirocinio pratico di durata comunque non inferiore a tre mesi, da svolgersi durante il secondo biennio.   
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
-Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno; per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in igiene e medicina preventiva, gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
-
-Art. 5
-------
-
-  
-Dopo l'art. 319, e con il conseguente spostamento della numerazione successiva, e' inserito il seguente nuovo articolo relativo all'istituzione della scuola di specializzazione in chirurgia della mano.  
-Scuola di specializzazione in chirurgia della mano  
-Art. 320. - La scuola di specializzazione di chirurgia della mano ha sede presso l'istituto di clinica ortopedica e conferisce il diploma di specialista in chirurgia della mano.  
-Il corso ha la durata di tre anni. Possono essere ammessi alla scuola i laureati in medicina e chirurgia.  
-Il numero dei posti disponibili e' di cinque per ogni anno.  
-La frequenza e' obbligatoria nell'istituto sede della scuola per un periodo di nove mesi per ogni anno accademico.  
-Per nessun motivo sono ammesse abbreviazioni della durata degli studi.  
-Gli insegnamenti impartiti dalla scuola sono:  
-1° Anno:  
-clinica ortopedica dell'arto superiore (biennale I);  
-traumatologia dell'arto superiore (biennale I);  
-chirurgia plastica ricostruttiva (biennale I);  
-anatomia funzionale della mano;  
-anatomia chirurgica dell'arto superiore;  
-anatomia ed istologia patologica;  
-radiodiagnostica dell'arto superiore e nozioni di radioterapia; anestesiologia e rianimazione.  
-2° Anno:  
-clinica ortopedica dell'arto superiore (biennale II);  
-traumatologia dell'arto superiore (biennale II);  
-chirurgia plastica ricostruttiva (biennale II);  
-tecniche di chirurgia tendinea;  
-tecniche di chirurgia osteo-articolare;  
-chirurgia vascolare dell'arto superiore.  
-3° Anno:  
-semeiotica e clinica neurologica dell'arto superiore;  
-elettrodiagnostica ed elettromiografia;  
-microchirurgia dei nervi periferici;  
-fisiochinesiterapia;  
-clinica dermatologica;  
-nozioni di medicina legale;  
-nozioni di psicologia;  
-protesi sostitutive nelle amputazioni dell'arto superiore.  
-L'allievo del primo anno, per essere ammesso al secondo, deve aver superato tutti gli esami del primo anno.  
-L'allievo del secondo anno, per essere ammesso al terzo, deve aver superato i tre esami biennali e tutti gli altri esami del secondo anno.  
-Per l'ammissione all'esame di diploma il candidato deve presentare una dissertazione scritta su un argomento della specialita'.  
+Per sostenere l'esame di urbanistica II ed estimo, e' opportuno aver frequentato il corso di materie giuridiche.   
+Art. 125. - Gli studenti del I, II, III, IV anno di corso potranno ottenere l'iscrizione, rispettivamente al II, III, IV e V anno di corso, qualora abbiano seguito i corsi e superato, per ogni anno, almeno 2 esami, scelti tra quelli previsti nel precedente anno di corso. Tali esami devono essere superati entro e non oltre la sessione autunnale.   
+Art. 126. - L'insegnamento viene svolto, secondo le materie, mediante lezioni orali, esercizi grafici, ed esercitazioni varie seminariali, di laboratorio e di cantiere.   
+Art. 127. - Nell'ambito del V anno gli insegnamenti si svolgono anche sulla redazione del progetto di laurea.   
+Art. 128. - I professori si accertano dell'assiduita' e del profitto degli studenti mediante appelli, interrogazioni, ed ogni altro mezzo che essi ritengano opportuno e ne attestano la frequenza.   
+Art. 129. - Per gli studenti provenienti da altre facolta' universitarie o istituti superiori, e sempreche' siano forniti del titolo di studio prescritto per l'ammissione al corso di laurea in architettura, il consiglio di facolta', tenuto conto degli studi compiuti e degli esami superati ed in relazione al piano di studi proposto, determina caso per caso l'anno di corso al quale possono essere iscritti, gli insegnamenti che debbono seguire e gli esami che debbono superare, e stabilisce il piano di studi.   
+Art. 130. - I laureati in ingegneria possono essere iscritti in base al piano di studio seguito, al IV o al V anno di corso, con dispensa dagli esami, previo giudizio del consiglio di facolta'.   
+Art. 131. - Lo studente puo' variare il piano di studi consigliato dalla facolta', purche' frequenti, in ogni anno, almeno tre e non piu' di otto insegnamenti, e rispetti le norme di precedenza.   
+Art. 132. - Gli esami di profitto consistono in prove orali, pratiche e grafiche. Le modalita' per ciascuna prova sono stabilite dal consiglio di facolta'.   
+Nel giudizio, le commissioni tengono conto anche dei lavori eseguiti dai candidati durante l'anno accademico.   
+Art. 133. - L'esame di laurea in architettura consiste nella discussione di una tesi presentata dal candidato, assistito da un relatore, scelto fra i professori ufficiali della facolta' e gli assistenti di ruolo liberi docenti.   
+Il titolo della tesi deve essere depositato almeno sei mesi prima, ed approvato da una apposita commissione composta dal preside e da altri due professori, la quale ha la facolta' di richiedere al candidato prove integrative, grafiche o speciali prima della discussione.   
+L'elaborato presentato dal candidato per la discussione della tesi deve presentare carattere di contributo originale.   
+Le tesi presentate per il conseguimento della laurea in architettura devono tendere ad essere:   
+1) od un contributo originale a carattere professionale, consistente nella redazione di un progetto architettonico od urbanistico, definito, almeno in parte, a livello esecutivo. Nel caso di un progetto particolarmente complesso, e le cui parti siano chiaramente distinguibili, piu' candidati possono associarsi nella redazione dello stesso progetto, ferma restando la possibilita' individuale dello sviluppo delle singole parti;   
+2) oppure, un contributo originale di ricerca scientifica applicata che deve consistere nell'apporto individuale ad una ricerca (che puo' anche essere contemporaneamente svolta da piu' persone nel campo della pianificazione e della meta-progettazione). Anche se il valore del contributo si accentra, in questo caso, sulla ricerca, la tesi dovra' sempre concludersi con una proposta specifica anche a livello normativo o pianificatorio;   
+3) infine, un contributo originale con carattere essenziale di ricerca scientifica, che si puo' esaurire nella ricerca stessa o nelle proposte metodologiche che ne derivano.   
+Anche in questo caso la ricerca dovra' essere specifica dell'area che interessi l'architetto e l'urbanistica, cioe' derivare dagli insegnamenti impartiti nella facolta', dalla storia dell'architettura e quella del territorio, dalla scienza alla tecnica delle costruzioni ed al restauro, fino alle metodologie di progettazione e di pianificazione.   
+Le tesi di cui al punto 1) saranno presentate e discusse estemporaneamente con la illustrazione, da parte del candidato, di una serie di elaborati essenzialmente grafici.   
+Le tesi di cui al punto 3), che illustrano una ricerca pura, vanno consegnate in sei copie, alla segreteria della facolta' almeno quindici giorni prima della data stabilita per la discussione. La tesi sara' esaminata preliminarmente dal relatore, da almeno due correlatori e da due controrelatori, nominati dal preside all'interno della commissione di laurea.   
+Prima della discussione, il relatore riferira' alla commissione sui risultati della ricerca.   
+Le tesi di cui al punto 2) seguiranno le norme dettate per il punto 3) per la loro parte introduttiva e di ricerca, e quelle dettate per il punto 1) per la parte conclusiva pianificatoria progettuale.   
+L'originale delle tesi sono di proprieta' della facolta'.   
+Esse sono depositate presso la biblioteca della facolta'.   
+E' costituito un "Archivio lauree", a disposizione degli studenti.  
+Un tecnico di ruolo e' addetto alla loro conservazione.   
+Gli elaborati grafici saranno microfilmati, e nella loro redazione si dovra' tener conto della riproducibilita' tecnica degli stessi.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 luglio 1981
+### Dato a Roma, addi' 25 gennaio 1971
 
-PERTINI BODRATO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 18 novembre 1981
+Registrato alla Corte dei conti, addi' 25 marzo 1971
 
-Registro n. 112 Istruzione, foglio n. 46
+Atti del Governo, registro n. 241, foglio n. 90. - GRECO.

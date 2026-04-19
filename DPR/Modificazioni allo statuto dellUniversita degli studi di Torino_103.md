@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1980 n. 835
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1977 n. 160
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1980 n. 835
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1977 n. 160
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
@@ -12,91 +12,113 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidette;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:
+
+Art. 97 - all'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti i seguenti:
+
+analisi chimico-cliniche (con esercitazioni pratiche);
+
+chimica biofarmaceutica.
+
+L'art. 100, relativo alle norme dell'esame di laurea per il corso di laurea in farmacia, e' modificato nel senso che i commi secondo, terzo, quarto e quinto sono abrogati e sostituiti dai seguenti:
+
+L'esame di laurea e' preceduto da prove pratiche, da una prova scritta di cultura in chimica e da un colloquio.
+
+Le prove pratiche consistono in una operazione preparativa tecnico farmaceutica, relativa all'esercizio della professione in farmacia, con riconoscimento e controllo di qualita' (quantitativo e di purezza secondo F.U.) delle sostanze impiegate nella preparazione. Tempo massimo otto ore complessive.
+
+Le prove pratiche vengono sorteggiate dai candidati.
+
+I risultati sono da raccogliere in apposite relazioni scritte e le prove debbono svolgersi sotto la vigilanza di almeno due dei commissari appartenenti alla commissione di esame di laurea.
+
+Il colloquio consiste nel riconoscimento delle principali droghe e piante medicinali, in una discussione sulla preparazione dei farmaci, sulla F.U., sulla parte di legislazione sanitaria attinente alla farmacia nonche' sulle prove pratiche.
+
+Art. 103 - all'elenco degli insegnanti complementari del corso di laurea in chimica e tecnologia farmaceutiche sono aggiunti i seguenti:
+
+chimica analitica;
+
+analisi chimico-cliniche (con esercitazioni pratiche);
+
+chimica biofarmaceutica;
+
+farmacologia molecolare.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 29 gennaio 1977
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 21 aprile 1977 Registro n. 50 Istruzione, foglio n. 101
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Lo statuto dell'Universita' di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 158. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in igiene.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidette;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
+Decreta:  
   
-Dopo l'art. 305, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in igiene:   
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:  
+Art. 97 - all'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti i seguenti:  
+analisi chimico-cliniche (con esercitazioni pratiche);  
+chimica biofarmaceutica.  
+L'art. 100, relativo alle norme dell'esame di laurea per il corso di laurea in farmacia, e' modificato nel senso che i commi secondo, terzo, quarto e quinto sono abrogati e sostituiti dai seguenti:  
   
-Scuola di specializzazione, in igiene   
-Art. 306. - La scuola di specializzazione in igiene ha sede presso l'istituto di igiene. Essa ha lo scopo di conferire adeguata preparazione teorica e pratica ai laureati che intendono dedicarsi alla carriera dei laboratori di sanita' pubblica e della progettazione di impianti tecnologici di ospedali, scuole, industrie.   
-La scuola si articola nei seguenti due indirizzi:   
-1) laboratorio di sanita' pubblica, al quale possono essere ammessi i laureati in chimica, chimica e tecnologie farmaceutiche, farmacia, scienze biologiche, scienze naturali e medicina veterinaria;   
-2) igiene ed edilizia socio-sanitaria, al quale possono essere ammessi i laureati in architettura, fisica ed ingegneria.   
-Art. 307 - Il numero massimo degli allievi iscrivibili alla scuola e' di ottanta suddivisi in quaranta per ciascun indirizzo.   
-Art. 308. - Le, materie di insegnamento per l'indirizzo di laboratorio di sanita' pubblica sono le seguenti:   
-1° Anno:   
-metodologia statistica e biometria;   
-microbiologia e parassitologia;   
-epidemiologia e profilassi generale;   
-legislazione e organizzazione sanitaria;   
-elementi di patologia generale;   
-biochimica applicata;   
-igiene dell'ambiente fisico e difesa ecologica.   
-2° Anno:   
-metodi e dosaggi chimici, fisici e biologici per il controllo dell'inquinamento ambientale;   
-epidemiologia e profilassi delle malattie infettive e di quelle non infettive di importanza sociale;   
-strumentazione e misure chimico-cliniche;   
-accertamento diagnostico delle malattie infettive e parassitarie;   
-ispezione e controllo degli alimenti;   
-microscopia applicata all'igiene;   
-elementi di informatica.   
-Art. 309. - Le materie di insegnamento per l'indirizzo igiene ed edilizia socio-sanitaria sono le seguenti:   
-1° Anno:   
-metodologia statistica e biometria;   
-elementi di epidemiologia e profilassi delle malattie infettive e non infettive di importanza sociale;   
-legislazione sanitaria;   
-igiene dell'ambiente fisico e difesa ecologica;   
-organizzazione del territorio e programmazione sanitaria;   
-principi di ingegneria del lavoro e della sicurezza.   
-2° Anno:   
-igiene edilizia e dell'aggregato urbano;   
-igiene e tecnica delle costruzioni ospedaliere; - arredamenti ed impianti tecnologici;   
-edilizia ed arredamento scolastico;   
-elementi di fisica tecnica applicata all'igiene;   
-urbanistica ed insediamento industriale;   
-approvvigionamento idrico e smaltimento dei rifiuti.   
-Gli insegnamenti sono svolti sotto forma di lezioni integrate da dimostrazioni pratiche, da esercitazioni e da visite ad impianti e strutture interessanti la scuola di specializzazione.   
-Art. 310. - L'esame di diploma, cui si e' ammessi dopo aver superato tutti gli esami del biennio, consta di una dissertazione scritta, elaborata sotto il controllo di un docente della scuola, su un argomento riguardante l'orientamento scelto.   
-Agli allievi che abbiano ottenuto l'approvazione all'esame di diploma viene rilasciato il diploma di specializzazione in igiene con l'indicazione del relativo orientamento.   
+L'esame di laurea e' preceduto da prove pratiche, da una prova scritta di cultura in chimica e da un colloquio.  
+Le prove pratiche consistono in una operazione preparativa tecnico farmaceutica, relativa all'esercizio della professione in farmacia, con riconoscimento e controllo di qualita' (quantitativo e di purezza secondo F.U.) delle sostanze impiegate nella preparazione. Tempo massimo otto ore complessive.  
+Le prove pratiche vengono sorteggiate dai candidati.  
+I risultati sono da raccogliere in apposite relazioni scritte e le prove debbono svolgersi sotto la vigilanza di almeno due dei commissari appartenenti alla commissione di esame di laurea.  
+Il colloquio consiste nel riconoscimento delle principali droghe e piante medicinali, in una discussione sulla preparazione dei farmaci, sulla F.U., sulla parte di legislazione sanitaria attinente alla farmacia nonche' sulle prove pratiche.  
+Art. 103 - all'elenco degli insegnanti complementari del corso di laurea in chimica e tecnologia farmaceutiche sono aggiunti i seguenti:  
+chimica analitica;  
+analisi chimico-cliniche (con esercitazioni pratiche);  
+chimica biofarmaceutica;  
+farmacologia molecolare.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 ottobre 1980
+### Dato a Roma, addi' 29 gennaio 1977
 
-PERTINI SARTI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 26 novembre 1980
+Registrato alla Corte dei conti, addi' 21 aprile 1977
 
-Registro n. 111 Istruzione, foglio n. 317
+Registro n. 50 Istruzione, foglio n. 101

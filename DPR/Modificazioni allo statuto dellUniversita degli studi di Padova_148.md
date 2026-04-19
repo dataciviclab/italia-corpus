@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 marzo 1957 n. 285
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1981 n. 196
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 marzo 1957 n. 285
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1981 n. 196
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -10,129 +10,61 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con i [regi decreti 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-10-05;1847); [26 ottobre 1940, n. 2058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2058); [16 marzo 1942, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-03-16;323), [24 ottobre 1942, n. 1597 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1597) [23 settembre 1949, n. 932](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;932); [31 ottobre 1950, n. 1308](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1308);
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
 
-11 aprile 1951, n. 953; 25 luglio 1952, n. 1501; 26 ottobre 1952, n. 4529; 10 febbraio 1953, n. 384; 30 luglio 1953, n. 715; 24 settembre 1954, n. 1205; 14 marzo 1955, n. 345; 24 luglio 1955, n. 798; 28 giugno 1956, n. 891 e 24 settembre 1956, n. 1156;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 76. All'elenco degli Istituti della Facolta' di medicina e chirurgia e' aggiunto quello di:
+Articolo unico
+--------------
 
-"Istituto di storia della medicina".
-
-Art. 188. - E' sostituito dal seguente:
-
-"Presso la Facolta' di ingegneria vengono tenuti i seguenti corsi annuali di perfezionamento:
-
-a) in idraulica sperimentale;
-
-b) in elettrologia ed elettrotecnica;
-
-c) in tecnica del traffico;
-
-i quali conducono al conseguimento di appositi certificati di frequenza ed esami rispettivamente in idraulica sperimentale, in elettrologia ed elettrotecnica e in tecnica del traffico.
-
-Dopo l'attuale art. 198 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione del corso di perfezionamento in tecnica del traffico con il conseguente spostamento della numerazione degli articoli successivi.
-
-Corso di perfezionamento in tecnica del traffico.
-
-Art. 199. - Al corso annuale di perfezionamento in tecnica del traffico e' titolo di ammissione la laurea in ingegneria civile o industriale.
-
-Il numero massimo degli iscritti viene fissato per ogni anno dal direttore del corso. Dell'accettazione delle domande di iscrizione al corso giudica il Consiglio di Facolta', su proposta del direttore dell'Istituto di costruzioni ponti e strade.
-
-Art. 200. - Il corso si svolge presso l'Istituto di costruzioni ponti e strade ed ha la durata di un anno accademico.
-
-Direttore del corso e' il direttore dell'Istituto di costruzioni, ponti e strade.
-
-Art. 201. - Le tasse di iscrizioni e le soprattasse vengono fissate annualmente dal Consiglio di amministrazione, su proposta del Consiglio di Facolta'.
-
-Art. 202. - Il corso comprende l'insegnamento di tecnica del traffico in relazione allo studio dei problemi della circolazione stradale, dei rapporti tra strada e veicolo, degli autoveicoli, del progetto delle strade in relazione a particolari esigenze, dei rapporti tra traffico e urbanistica, della legislazione e della infortunistica stradale.
-
-Il perfezionando inoltre puo' seguire altri insegnamenti impartiti nelle discipline attinenti la costruzione di strade, il traffico e i trasporti secondo un piano che verra' approvato dal direttore del corso.
-
-Art. 203. - Il profitto degli allievi e' riconosciuto dagli insegnanti durante il corso stesso e mediante prove speciali al termine di esso, con approvazione di semplice idoneita'.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 7 marzo 1957
-
-GRONCHI
-
-ROSSI
-
-Visto, il Guardasigilli: MORO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 6 maggio 1957 Atti del Governo, registro n. 105, foglio n. 79. - RELLEVA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con i [regi decreti 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-10-05;1847); [26 ottobre 1940, n. 2058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2058); [16 marzo 1942, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-03-16;323), [24 ottobre 1942, n. 1597 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1597) [23 settembre 1949, n. 932](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;932); [31 ottobre 1950, n. 1308](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1308);   
-[11 aprile 1951, n. 953](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;953); [25 luglio 1952, n. 1501](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1501); [26 ottobre 1952, n. 4529](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4529); [10 febbraio 1953, n. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;384); [30 luglio 1953, n. 715](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;715); [24 settembre 1954, n. 1205](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-24;1205); [14 marzo 1955, n. 345](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-03-14;345); [24 luglio 1955, n. 798](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-24;798); [28 giugno 1956, n. 891](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-06-28;891) e [24 settembre 1956, n. 1156](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-09-24;1156);   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:   
-  
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-Art. 76. All'elenco degli Istituti della Facolta' di medicina e chirurgia e' aggiunto quello di:   
-"Istituto di storia della medicina".   
-Art. 188. - E' sostituito dal seguente:   
-"Presso la Facolta' di ingegneria vengono tenuti i seguenti corsi annuali di perfezionamento:   
-a) in idraulica sperimentale;   
-b) in elettrologia ed elettrotecnica;   
-c) in tecnica del traffico;   
-i quali conducono al conseguimento di appositi certificati di frequenza ed esami rispettivamente in idraulica sperimentale, in elettrologia ed elettrotecnica e in tecnica del traffico.   
-Dopo l'attuale art. 198 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione del corso di perfezionamento in tecnica del traffico con il conseguente spostamento della numerazione degli articoli successivi.   
-  
-Corso di perfezionamento in tecnica del traffico.   
-  
-Art. 199. - Al corso annuale di perfezionamento in tecnica del traffico e' titolo di ammissione la laurea in ingegneria civile o industriale.   
-Il numero massimo degli iscritti viene fissato per ogni anno dal direttore del corso. Dell'accettazione delle domande di iscrizione al corso giudica il Consiglio di Facolta', su proposta del direttore dell'Istituto di costruzioni ponti e strade.   
-Art. 200. - Il corso si svolge presso l'Istituto di costruzioni ponti e strade ed ha la durata di un anno accademico.   
-Direttore del corso e' il direttore dell'Istituto di costruzioni, ponti e strade.   
-Art. 201. - Le tasse di iscrizioni e le soprattasse vengono fissate annualmente dal Consiglio di amministrazione, su proposta del Consiglio di Facolta'.   
-Art. 202. - Il corso comprende l'insegnamento di tecnica del traffico in relazione allo studio dei problemi della circolazione stradale, dei rapporti tra strada e veicolo, degli autoveicoli, del progetto delle strade in relazione a particolari esigenze, dei rapporti tra traffico e urbanistica, della legislazione e della infortunistica stradale.   
-Il perfezionando inoltre puo' seguire altri insegnamenti impartiti nelle discipline attinenti la costruzione di strade, il traffico e i trasporti secondo un piano che verra' approvato dal direttore del corso.   
-Art. 203. - Il profitto degli allievi e' riconosciuto dagli insegnanti durante il corso stesso e mediante prove speciali al termine di esso, con approvazione di semplice idoneita'.   
+Gli articoli 340, 341 e 342, relativi alla scuola di specializzazione in chimica nucleare della facolta' di scienze matematiche, fisiche e naturali, sono cosi' modificati:   
+Art. 340. - La scuola e' retta da un direttore nominato dal rettore su designazione del consiglio della facolta' di scienze matematiche, fisiche e naturali. Il direttore dura in carica due anni. Puo' essere riconfermato ed e' coadiuvato da un consiglio direttivo costituito da quattro professori di ruolo di discipline chimiche impartite presso la facolta' di scienze matematiche, fisiche e naturali, designati dal consiglio di facolta'.   
+Art. 341. - Al corso di specializzazione si possono iscrivere i laureati in chimica, chimica industriale, fisica, ingegneria chimica e ingegneria nucleare.   
+Art. 342. - I corsi sono biennali e comprendono le seguenti materie:   
+1° Anno:   
+chimica nucleare generale;   
+almeno tre corsi semestrali con esercitazioni a scelta tra tutti i corsi elencati nell'articolo successivo.   
+2° Anno:   
+chimica nucleare applicata;   
+legislazione nucleare;   
+almeno tre corsi semestrali con esercitazioni, a scelta tra tutti i corsi elencati nell'articolo successivo.   
+Ogni anno gli allievi presentano il piano di studi prescelto che deve essere approvato dal consiglio direttivo.   
+All'art. 343, relativo alla medesima scuola, nell'elenco dei corsi semestrali con esercitazioni il corso di tecniche sul dosaggio delle radiazioni e sulle protezioni cambia la denominazione in quella di "tecniche sul dosaggio delle radiazioni" e nel medesimo elenco sono aggiunti i seguenti nuovi corsi:   
+21) elementi di matematica statistica;   
+22) effetti biologici delle radiazioni;   
+23) radioprotezione in campo nucleare e medico.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 marzo 1957
+### Dato a Roma, addi' 21 gennaio 1981
 
-GRONCHI ROSSI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 6 maggio 1957
+Registrato alla Corte dei conti, addi' 30 aprile 1981
 
-Atti del Governo, registro n. 105, foglio n. 79. - RELLEVA
+Registro n. 38 Istruzione, foglio n. 3

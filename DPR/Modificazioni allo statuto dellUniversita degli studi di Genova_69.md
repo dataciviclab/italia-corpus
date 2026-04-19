@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1315
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1972 n. 56
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1315
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1972 n. 56
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
@@ -10,249 +10,208 @@ Modificazioni allo statuto dell'Universita' degli studi di Genova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduta la [legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi di Genova, intese ad ottenere l'istituzione del corso di laurea in storia;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione;
 
-proposta del Ministro per la pubblica istruzione; Decreta:
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 122. - All'elenco delle scuole di specializzazione e di perfezionamento annesse alla facolta' di medicina e chirurgia, e' aggiunta quella di "Chirurgia oculare".
+
+Dopo l'art. 275 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della "Scuola di perfezionamento in chirurgia oculare".
+
+Scuola di perfezionamento in chirurgia oculare
+
+Art. 276. - Presso l'Istituto di clinica oculistica e' istituita la scuola di perfezionamento in chirurgia oculare. Essa ha lo scopo di consentire un ulteriore perfezionamento ed approfondimento, pratico e teorico, ai laureati in medicina e chirurgia che avendo gia' conseguito il diploma presso la scuola di specializzazione in clinica oculistica desiderano perfezionarsi nella chirurgia oculare.
+
+Direttore della scuola e' il titolare della cattedra di clinica oculistica.
+
+Art. 277. - Il corso ha la durata di tre anni e l'insegnamento ha carattere teorico, pratico e dimostrativo.
+
+Gli iscritti hanno l'obbligo di frequentare per tutto il triennio le lezioni, le esercitazioni e le dimostrazioni prestando regolare servizio come medico interno nella clinica a norma degli articoli 129 e 130 di questo statuto.
+
+Gli insegnamenti riguardano sia l'anestesia del paziente e le sue complicanze, sia la tecnologia degli strumenti operatori, sia la tecnica operatoria specialistica, che il trattamento e la prevenzione delle complicanze pre e postoperatorie.
+
+Tali insegnamenti saranno svolti dal direttore della scuola e dai suoi collaboratori.
+
+E' facolta' della scuola di invitare cultori, anche stranieri, della materia a tenere conferenze e seminari su particolari settori.
+
+I mezzi che sono messi a disposizione della scuola sono le attrezzature operatorie dell'Istituto di clinica oculistica.
+
+La scuola dispone per le dimostrazioni e l'insegnamento degli ammalati operatori ricoverati nella clinica oculistica.
+
+Le norme relative all'iscrizione, alla frequenza, alle lezioni e alle esercitazioni, agli esami, al pagamento delle tasse, sopratasse e contributi, sono quelle generali delle scuole di specializzazione e di perfezionamento contenute negli articoli da 122 e 137 dello statuto della universita'.
+
+Art. 278. - Gli insegnamenti impartiti nella scuola, suddivisi nei tre anni del corso, sono i seguenti:
+
+1° Anno:
+
+Anestesia generale e locale. Complicanze e mezzi per prevenirle e trattarle.
+
+Tecnologia delle attrezzature chirurgiche piu' complesse (apparati per microchirurgia, apparati per fotocoagulazione con sorgenti allo xenone e laser, apparati diatermici, apparati criogenici, dermotomi e mucosotomi, apparati per cheratoplastiche, apparati per la preparazione di impianti plastici e protesi corneali, lenticolari e sclerali, apparati per incisioni corneali e sclerali, materiali per suture).
+
+Chirurgia della cornea: 1) tecniche per la cheratoplastica perforante e lamellare; 2) conservazione del materiale da innesto; 3) cheratoplastiche a scopo refrattivo e tettonico; 4) tecniche delle cheratoprotesi perforanti, delle cheratoprotesi intralamellari, delle epicheratoprotesi e dell'impianto di endotelio artificiale; 5) mezzi di sutura per la cornea e impiego di adesivi tissurali; 6) uso del microscopio operatorio nella chirurgia della cornea.
+
+Chirurgia del cristallino: 1) estrazione del cristallino con microscopio operatorio; 2) crioestrazione del cristallino; 3) zonulolisi enzimatica: indicazioni e complicanze; 4) estrazione del cristallino lussato e sublussato.
+
+Chirurgia del glaucoma: 1) tecniche ed indicazioni degli interventi fistolizzanti; 2) ciclodialisi; 3) cicloanemizzazione ed interventi diretti a ridurre la secrezione dell'umor acqueo (ciclodiatermia, crioapplicazioni); 4) tecniche di trabeculotomia con l'ausilio del microscopio operatorio; 5) intervento per glaucoma secondario; 6) intervento per il glaucoma congenito.
+
+Correzione chirurgica delle eterotropie ed eteroforie con particolare riguardo agli interventi dei muscoli verticali ed al trattamento delle sindromi A e V.
+
+Chirurgia dell'apparato lacrimale: dacriocistorinostomia, lacorinostomia, ricostruzione chirurgica dei canalini lacrimali.
+
+2° Anno:
+
+Chirurgia delle palpebre: 1) correzione chirurgica della ptosi palpebrale; 2) chirurgia dell'entropino; ectropion e lagoftalmo; 3) asportazione di neoformazioni palpebrali ed interventi di ricostruzione plastica.
+
+Tecniche di localizzazione ed estrazione di corpi estranei endoculari magnetizzabili e non magnetizzabili.
+
+Chirurgia dell'orbita: exenteratio orbitae e procedimenti di plastica a scopo cosmetico; procedimenti chirurgici per il trattamento di neoformazioni orbitarie; trattamento chirurgico della retrazione delle cavita' anfotalmiche; procedimenti di enucleazioni ed eviscerazione del bulbo con impianti orbitari per protesi mobili.
+
+Chirurgia del distacco di retina: 1) tecniche diagnostiche inerenti alla chirurgia retinica; 2) interventi di diatermocoagulazione di superficie; 3) interventi di scleroplastica con e senza impiego di impianto intrasclerale; 4) interventi di scleroplastica con cerchiaggio; 5) materiali di impianto organico ed inorganico; 6) interventi di scleroplastica con applicazioni criogeniche; 7) fotocoagulazioni e sue indicazioni, interventi con fotocoagulazione con e senza procedimenti di scleroplastica; 8) chirurgia del vitreo: impianti di vitreo fresco e conservato e suoi succedanei; 9) profilassi del distacco retinico: sue indicazioni ed impiego delle applicazioni diatermiche e della fotocoagulazione.
+
+3° Anno:
+
+Trattamento chirurgico della retinopatia diabetica, della retinopatia di Eales e delle retinopatie angiomatosiche: fotocoagulazione, diatermia, applicazioni criogeniche.
+
+Complicazioni internistiche generali preoperatorie della chirurgia oculare e loro trattamento: complicazioni cardiovascolari, respiratorie, urologiche, endocrine e dismetaboliche, complicazioni jatrogeniche postoperatorie, complicazioni psicologiche e psichiatriche.
+
+Complicazione della chirurgia palpebrale ed in particolare delle operazioni per ptosi palpebrale.
+
+Complicazioni della chirurgia dell'apparato lacrimale.
+
+Complicazioni della chirurgia delle esotropie e delle esoforie.
+
+Complicazioni della chirurgia dell'orbita, della enucleazione ed eviscerazione del bulbo e degli impianti orbitari.
+
+Complicazioni degli interventi sulla cornea, ed in particolare delle cheratoplastiche e degli impianti cheratoprotesici e loro trattamento.
+
+Complicazioni degli interventi per il glaucoma e loro trattamento.
+
+Reinterventi antiglaucomatosi.
+
+Complicazioni della chirurgia del cristallino e loro trattamento.
+
+Complicazioni della chirurgia per il distacco di retina. Recidive e reinterventi.
+
+Art. 279. - Alla scuola sono ammessi i laureati in medicina e chirurgia che abbiano conseguito il diploma di specializzazione presso una scuola di specializzazione in clinica oculistica in numero non superiore a dieci complessivamente. La frequenza ai corsi e' obbligatoria.
+
+Art. 280. - Alla fine di ogni corso, gli iscritti dovranno sostenere un colloquio sulle materie svolte.
+
+Alla fine del terzo anno gli allievi che avranno superato i colloqui saranno ammessi alla prova finale consistente in una prova orale, in una dimostrazione operatoria pratica e nella discussione di una tesi scritta.
+
+Art. 281. - Il colloquio di ciascun anno e la prova finale saranno sostenuti davanti ad una commissione nominata dal rettore e composta da 5 membri preposti dal direttore della scuola (3 dei quali professori di ruolo della stessa materia o di materie affini).
+
+Art. 282. - Agli iscritti alla scuola che avranno superato gli esami prescritti sara' rilasciato un diploma di perfezionamento in chirurgia oculare da valere a tutti gli effetti legali.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 28 gennaio 1972
+
+LEONE
+
+MISASI
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 11 marzo 1972 Atti del Governo, registro n. 247, foglio n. 101. - VALENTINI
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Presso la facolta' di lettere e filosofia puo' essere istituito il corso di laurea in storia.   
-Il titolo di studio per l'ammissione al predetto corso di laurea, la durata e l'ordinamento del corso medesimo sono stabiliti dalla tabella annessa al presente decreto, firmata, d'ordine nostro, dal Ministro per la pubblica istruzione.   
-All'elenco delle lauree e dei diplomi, di cui alla tabella I, annessa al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e' aggiunta la laurea in storia.   
-La tabella II, annessa al citato regio decreto n. 1652, e' integrata nel senso che la facolta' di lettere e filosofia rilascia anche la laurea in storia.   
-Dopo la tabella XXXIII, annessa al citato regio decreto n. 1652, e' inserita, assumendo, il numero XXXIII-bis, la tabella allegata al presente decreto (Allegato A).   
-
-Art. 2
-------
-
+Decreta:  
   
-A decorrere dall'anno accademico 1970-71 e' istituito, presso la facolta' di lettere e filosofia dell'Universita' degli studi di Genova, il corso di laurea in storia.  
-
-Art. 3
-------
-
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 122. - All'elenco delle scuole di specializzazione e di perfezionamento annesse alla facolta' di medicina e chirurgia, e' aggiunta quella di "Chirurgia oculare".  
+Dopo l'art. 275 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della "Scuola di perfezionamento in chirurgia oculare".  
+Scuola di perfezionamento in chirurgia oculare  
+Art. 276. - Presso l'Istituto di clinica oculistica e' istituita la scuola di perfezionamento in chirurgia oculare. Essa ha lo scopo di consentire un ulteriore perfezionamento ed approfondimento, pratico e teorico, ai laureati in medicina e chirurgia che avendo gia' conseguito il diploma presso la scuola di specializzazione in clinica oculistica desiderano perfezionarsi nella chirurgia oculare.  
+Direttore della scuola e' il titolare della cattedra di clinica oculistica.  
+Art. 277. - Il corso ha la durata di tre anni e l'insegnamento ha carattere teorico, pratico e dimostrativo.  
+Gli iscritti hanno l'obbligo di frequentare per tutto il triennio le lezioni, le esercitazioni e le dimostrazioni prestando regolare servizio come medico interno nella clinica a norma degli articoli 129 e 130 di questo statuto.  
+Gli insegnamenti riguardano sia l'anestesia del paziente e le sue complicanze, sia la tecnologia degli strumenti operatori, sia la tecnica operatoria specialistica, che il trattamento e la prevenzione delle complicanze pre e postoperatorie.  
+Tali insegnamenti saranno svolti dal direttore della scuola e dai suoi collaboratori.  
+E' facolta' della scuola di invitare cultori, anche stranieri, della materia a tenere conferenze e seminari su particolari settori.  
+I mezzi che sono messi a disposizione della scuola sono le attrezzature operatorie dell'Istituto di clinica oculistica.  
+La scuola dispone per le dimostrazioni e l'insegnamento degli ammalati operatori ricoverati nella clinica oculistica.  
+Le norme relative all'iscrizione, alla frequenza, alle lezioni e alle esercitazioni, agli esami, al pagamento delle tasse, sopratasse e contributi, sono quelle generali delle scuole di specializzazione e di perfezionamento contenute negli articoli da 122 e 137 dello statuto della universita'.  
+Art. 278. - Gli insegnamenti impartiti nella scuola, suddivisi nei tre anni del corso, sono i seguenti:  
   
+1° Anno:  
   
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti suindicati e' ulteriormente modificato nel senso che dopo l'art. 32 e con il conseguente spostamento della numerazione degli articoli successivi e' inserito un nuovo articolo che assume il numero 33, contenente l'ordinamento del corso di laurea in storia con le seguenti aggiunte per i titoli di ammissione:   
+Anestesia generale e locale. Complicanze e mezzi per prevenirle e trattarle.  
+Tecnologia delle attrezzature chirurgiche piu' complesse (apparati per microchirurgia, apparati per fotocoagulazione con sorgenti allo xenone e laser, apparati diatermici, apparati criogenici, dermotomi e mucosotomi, apparati per cheratoplastiche, apparati per la preparazione di impianti plastici e protesi corneali, lenticolari e sclerali, apparati per incisioni corneali e sclerali, materiali per suture).  
+Chirurgia della cornea: 1) tecniche per la cheratoplastica perforante e lamellare; 2) conservazione del materiale da innesto; 3) cheratoplastiche a scopo refrattivo e tettonico; 4) tecniche delle cheratoprotesi perforanti, delle cheratoprotesi intralamellari, delle epicheratoprotesi e dell'impianto di endotelio artificiale; 5) mezzi di sutura per la cornea e impiego di adesivi tissurali; 6) uso del microscopio operatorio nella chirurgia della cornea.  
+Chirurgia del cristallino: 1) estrazione del cristallino con microscopio operatorio; 2) crioestrazione del cristallino; 3) zonulolisi enzimatica: indicazioni e complicanze; 4) estrazione del cristallino lussato e sublussato.  
+Chirurgia del glaucoma: 1) tecniche ed indicazioni degli interventi fistolizzanti; 2) ciclodialisi; 3) cicloanemizzazione ed interventi diretti a ridurre la secrezione dell'umor acqueo (ciclodiatermia, crioapplicazioni); 4) tecniche di trabeculotomia con l'ausilio del microscopio operatorio; 5) intervento per glaucoma secondario; 6) intervento per il glaucoma congenito.  
+Correzione chirurgica delle eterotropie ed eteroforie con particolare riguardo agli interventi dei muscoli verticali ed al trattamento delle sindromi A e V.  
+Chirurgia dell'apparato lacrimale: dacriocistorinostomia, lacorinostomia, ricostruzione chirurgica dei canalini lacrimali.  
   
-Alla lettera a), viene aggiunta la seguente precisazione: di cui agli articoli 29, 30, 31. Alla lettera b) viene aggiunta la seguente precisazione: di cui agli articoli 45, 46, 47. Alla lettera c) viene aggiunta la seguente precisazione: di cui agli articoli 9 e 11. Alla lettera d) viene aggiunta la seguente precisazione: di cui all'art.  
-23.   
-Anche l'art. 28 viene modificato nel senso che la facolta' di lettere e filosofia conferisce la laurea in lettere, la laurea in filosofia, la laurea in lingue e letterature straniere moderne, la laurea in storia e la laurea in geografia.   
+2° Anno:  
+  
+Chirurgia delle palpebre: 1) correzione chirurgica della ptosi palpebrale; 2) chirurgia dell'entropino; ectropion e lagoftalmo; 3) asportazione di neoformazioni palpebrali ed interventi di ricostruzione plastica.  
+Tecniche di localizzazione ed estrazione di corpi estranei endoculari magnetizzabili e non magnetizzabili.  
+Chirurgia dell'orbita: exenteratio orbitae e procedimenti di plastica a scopo cosmetico; procedimenti chirurgici per il trattamento di neoformazioni orbitarie; trattamento chirurgico della retrazione delle cavita' anfotalmiche; procedimenti di enucleazioni ed eviscerazione del bulbo con impianti orbitari per protesi mobili.  
+Chirurgia del distacco di retina: 1) tecniche diagnostiche inerenti alla chirurgia retinica; 2) interventi di diatermocoagulazione di superficie; 3) interventi di scleroplastica con e senza impiego di impianto intrasclerale; 4) interventi di scleroplastica con cerchiaggio; 5) materiali di impianto organico ed inorganico; 6) interventi di scleroplastica con applicazioni criogeniche; 7) fotocoagulazioni e sue indicazioni, interventi con fotocoagulazione con e senza procedimenti di scleroplastica; 8) chirurgia del vitreo: impianti di vitreo fresco e conservato e suoi succedanei; 9) profilassi del distacco retinico: sue indicazioni ed impiego delle applicazioni diatermiche e della fotocoagulazione.  
+  
+3° Anno:  
+  
+Trattamento chirurgico della retinopatia diabetica, della retinopatia di Eales e delle retinopatie angiomatosiche: fotocoagulazione, diatermia, applicazioni criogeniche.  
+Complicazioni internistiche generali preoperatorie della chirurgia oculare e loro trattamento: complicazioni cardiovascolari, respiratorie, urologiche, endocrine e dismetaboliche, complicazioni jatrogeniche postoperatorie, complicazioni psicologiche e psichiatriche.  
+Complicazione della chirurgia palpebrale ed in particolare delle operazioni per ptosi palpebrale.  
+Complicazioni della chirurgia dell'apparato lacrimale.  
+Complicazioni della chirurgia delle esotropie e delle esoforie.  
+Complicazioni della chirurgia dell'orbita, della enucleazione ed eviscerazione del bulbo e degli impianti orbitari.  
+Complicazioni degli interventi sulla cornea, ed in particolare delle cheratoplastiche e degli impianti cheratoprotesici e loro trattamento.  
+Complicazioni degli interventi per il glaucoma e loro trattamento.  
+Reinterventi antiglaucomatosi.  
+Complicazioni della chirurgia del cristallino e loro trattamento.  
+Complicazioni della chirurgia per il distacco di retina. Recidive e reinterventi.  
+  
+Art. 279. - Alla scuola sono ammessi i laureati in medicina e chirurgia che abbiano conseguito il diploma di specializzazione presso una scuola di specializzazione in clinica oculistica in numero non superiore a dieci complessivamente. La frequenza ai corsi e' obbligatoria.  
+Art. 280. - Alla fine di ogni corso, gli iscritti dovranno sostenere un colloquio sulle materie svolte.  
+Alla fine del terzo anno gli allievi che avranno superato i colloqui saranno ammessi alla prova finale consistente in una prova orale, in una dimostrazione operatoria pratica e nella discussione di una tesi scritta.  
+Art. 281. - Il colloquio di ciascun anno e la prova finale saranno sostenuti davanti ad una commissione nominata dal rettore e composta da 5 membri preposti dal direttore della scuola (3 dei quali professori di ruolo della stessa materia o di materie affini).  
+Art. 282. - Agli iscritti alla scuola che avranno superato gli esami prescritti sara' rilasciato un diploma di perfezionamento in chirurgia oculare da valere a tutti gli effetti legali.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1970
+### Dato a Roma, addi' 28 gennaio 1972
 
-SARAGAT MISASI
+LEONE MISASI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 10 febbraio 1971
+Registrato alla Corte dei conti, addi' 11 marzo 1972
 
-Atti del Governo, registro n. 240, foglio n. 158. - CARUSO
-
-Tabella XXXIII bis
-
- TABELLA XXXIII bis   
-LAUREA IN STORIA   
-  
-Durata del corso di studi: tre anni.   
-Il corso di studi si distingue in quattro indirizzi:   
-a) antico;   
-b) medioevale;   
-c) moderno;   
-d) orientale.   
-Sono titoli di ammissione:   
-a) il primo anno dei corsi di laurea in lettere o in filosofia o in lingue e letterature straniere moderne con l'obbligo di avere superato almeno quattro esami negli insegnamenti fondamentali (per gli studenti di filosofia deve essere superato l'esame di storia della filosofia);   
-b) il primo anno del corso di laurea in giurisprudenza ed in scienze politiche con l'obbligo di aver superato almeno quattro esami negli insegnamenti fondamentali;   
-c) il primo anno del corso di laurea in economia e commercio, con l'obbligo di aver superato almeno quattro esami degli insegnamenti fondamentali;   
-d) il primo anno dei corsi di laurea appartenenti alle facolta' di scienze matematiche, fisiche e naturali, con l'obbligo di aver superato gli esami relativi ad almeno quattro delle seguenti materie:   
-istituzioni matematiche, geografia, geologia, anatomia comparata, fisica, chimica generale ed inorganica, chimica organica, istologia ed embriologia, topografia e cartografia.   
-A) Indirizzo antico:   
-Sono insegnamenti fondamentali:   
-Storia greca;   
-Storia romana;   
-Storia del Mediterraneo antico orientate;   
-Epigrafia e antichita' greche;   
-Epigrafia e antichita' romane;   
-Papirologia;   
-Numismatica antica;   
-Archeologia;   
-Storia della filosofia antica.   
-Sono insegnamenti complementari:   
-Topografia antica;   
-Archeologia delle province romane;   
-Climatologia storica;   
-Ebraico;   
-Esegesi delle fonti di storia greca e romana;   
-Esegesi delle fonti di diritto romano;   
-Etruscologia ed archeologia italica;   
-Filologia greca e latina;   
-Geologia e sedimentologia storica;   
-Istituzioni di diritto romano;   
-Paleografia greca e latina;   
-Paletnologia;   
-Letteratura cristiana antica;   
-Letteratura greca;   
-Letteratura latina;   
-Storia ed istituzioni della Liguria antica;   
-Storia del cristianesimo antico;   
-Storia delle religioni del mondo classico;   
-Storia del diritto romano;   
-Storia dell'economia antica;   
-Storia del diritto greco;   
-Storia sociale del mondo antico;   
-Storia delle costituzioni del mondo antico.   
-B) Indirizzo medioevale:   
-Sono insegnamenti fondamentali:   
-Storia medioevale;   
-Paleografia latina e diplomatica;   
-Archivistica;   
-Letteratura latina medioevale;   
-Filologia romanza;   
-Storia bizantina;   
-Storia medioevale dell'oriente europeo (oppure: storia e antichita' musulmane);   
-Storia della filosofia medioevale;   
-Lettorato di latino.   
-Sono insegnamenti complementari:   
-Archeologia medioevale;   
-Antichita' ed istituzioni medioevali;   
-Bibliografia e biblioteconomia;   
-Cronologia e cronografia;   
-Numismatica, sfragistica e araldica;   
-Linguistica, onomastica e toponomastica medioevali;   
-Epigrafia medioevale;   
-Filologia italiana;   
-Storia del diritto romano;   
-Storia del diritto italiano;   
-Storia del commercio e della navigazione;   
-Codicologia;   
-Pubblicistica e cronachistica medioevali;   
-Paleografia musicale;   
-Storia delle esplorazioni geografiche;   
-Storia dei paesi islamici;   
-Storia e civilta' precolombiane dell'America;   
-Lingua e letteratura catalana;   
-Paleografia greca;   
-Esegesi delle fonti della storia medioevale;   
-Papirologia;   
-Istituzioni di diritto romano;   
-Storia ed istituzioni della Liguria medioevale;   
-Geografia storica;   
-Storia dell'arte medioevale;   
-Letteratura umanistica;   
-Istituzioni militari medioevali;   
-Storia agraria medioevale.   
-C) indirizzo moderno:   
-Sono insegnamenti fondamentali:   
-Storia moderna;   
-Storia contemporanea;   
-Cinematica dei fatti economici e sociali;   
-Storia della filosofia moderna e contemporanea;   
-Filosofia della scienza;   
-Letteratura italiana moderna e contemporanea;   
-Geografia politica ed economica;   
-Storia dei paesi slavi;   
-Storia americana.   
-Sono insegnamenti complementari (quelli indicati in gruppo non possono essere scelti separatamente, fuorche' sia indicato "oppure"):   
-Storia del giornalismo;   
-Storia del Rinascimento;   
-Storia dell'eta' della riforma e della controriforma;   
-Storia dell'eta' dell'illuminismo;   
-Storia del Risorgimento;   
-Storia delle Chiese cristiane, diritto ecclesiastico o diritto canonico;   
-Storia del movimento operaio;   
-Storia del movimento contadino;   
-Storia dei partiti politici;   
-Storia delle istituzioni politiche, istituzioni del diritto pubblico;   
-Storia del diritto italiano, istituzioni di diritto privato;   
-Storia dei trattati e relazioni internazionali, diritto internazionale;   
-Storia della Liguria moderna, diritto regionale;Filosofia della storia;   
-Psicologia;   
-Sociologia;   
-Linguistica;   
-Storia della lingua italiana;   
-Cibernetica e teoria dell'informazione;   
-Statistica oppure calcolo delle probabilita', istituzioni di matematiche;   
-Storia delle matematiche, istituzioni di matematiche;   
-Storia della medicina, antropologia oppure genetica, oppure anatomia comparata, oppure istologia ed embriologia, oppure biologia generale;   
-Storia della dottrina chimico-inorganica, chimica generale ed inorganica (I anno);   
-Storia dell'urbanistica, storia dell'arte moderna e contemporanea;   
-Storia della tecnica, elementi di macchine, oppure elettronica, oppure arte mineraria, oppure idraulica, oppure complementi di scienza delle costruzioni, oppure complementi di tecnica delle costruzioni, oppure tecnologie generali, oppure tecnica ed economia dei trasporti;   
-Cronologia e tecniche della misura del tempo, oppure cosmologia, astronomia, fisica (I anno);   
-Storia della geografia oppure storia delle esplorazioni, geografia fisica;   
-Interpretazione aereofotografica, geologia;   
-Storia dell'agricoltura, ecologia;   
-Storia del commercio, oppure storia dell'industria, economia politica, merceologia;   
-Storia della moneta e della banca, scienza delle finanze;   
-Storia navale, tecnologia della nave oppure costrizioni navali oppure architettura navale;   
-Storia dell'arte moderna e contemporanea.   
-D) indirizzo orientale:   
-Sono insegnamenti fondamentali:   
-Storia dei paesi afro-asiatici;   
-Storia e geografia dell'Asia orientale;   
-Storia religiosa dell'oriente cristiano;   
-Islamistica;   
-Africanistica;   
-Assirologia ed archeologia orientale;   
-Indologia;   
-Filosofia dell'India e dell'Asia orientale;   
-Sanscrito.   
-Sono insegnamenti complementari:   
-Egittologia;   
-Lingua e letteratura araba;   
-Lingua e letteratura persiana;   
-Etruscologia ed archeologia italica;   
-Storia della filosofia antica;   
-Filologia semitica;   
-Lingua e letteratura armena;   
-Religioni dell'India e dell'estremo oriente;   
-Epigrafia semitica;   
-Lingua e letteratura turca;   
-Lingua e letteratura cinese;   
-Lingua e letteratura giapponese;   
-Lingue arte moderne dell'India (indostano e bengalico).   
-Per essere ammesso all'esame di laurea lo studente deve aver superato gli esami in tutti gli insegnamenti fondamentali ed in almeno nove scelti fra i complementari che comprendono i quattro esami superati nel corso di laurea di provenienza purche' non vengano ripetuti nel nuovo corso di laurea.   
-Due esami complementari dovranno essere scelti fra le seguenti discipline:   
-Storia economica;   
-Storia delle dottrine politiche;   
-Storia delle dottrine economiche;   
-Teoria e storia della storiografia;   
-Storia della scienza e della tecnica.   
-Altri due esami fra le seguenti discipline:   
-Lingua e letteratura inglese;   
-Lingua e letteratura francese;   
-Lingua e letteratura tedesca;   
-Lingua e letteratura spagnola;   
-Lingua e letteratura russa.   
-Tre esami complementari per ciascun indirizzo potranno essere scelti fra i fondamentali ed i complementari degli altri indirizzi.   
-L'esame di laurea in storia, consiste della discussione di una dissertazione scritta svolta dal candidato in uno degli insegnamenti relativi al corso di laurea ed in rapporto al carattere della laurea stessa e dell'indirizzo prescelto.   
-  
-Visto, d'ordine del Presidente della Repubblica   
-  
-Il Ministro per la pubblica istruzione   
-MISASI   
+Atti del Governo, registro n. 247, foglio n. 101. - VALENTINI

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 agosto 1975 n. 535
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 173
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 agosto 1975 n. 535
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 173
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-535. Decreto del Presidente della Repubblica 11 agosto 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato consistente nella somma di lire 3.000.000 disposto dal sig. Ennio Brandini in favore della fondazione stessa, collegio di Parma, con testamento olografo 29 dicembre 1971, pubblicato a rogito del notaio dott. Giovanni Bergonza in data 31 ottobre 1972, n. 50401 di repertorio, n. 1226 di raccolta, registrato a Parma il 20 novembre 1972 con il n. 4314, vol. 425.  
+173. Decreto del Presidente della Repubblica 10 febbraio 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella quota di 1/2 dei beni mobili, libretto a risparmio e conti correnti per complessive L. 127.895.497 - quota di un 1/2 uguale L. 63.943.738 meno L. 21.000.000 di passivita' restano L. 42.943.736 - disposto dal rev. Corengia Antonio con testamento olografo 10 maggio 1982, pubblicato in data 11 novembre 1983, n. 24222/8565 di repertorio, a rogito dott. Achille Cornelio, notaio in Como, registrato a Como in data 16 novembre 1983 al n. 5148.   
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 29 ottobre 1975  
-Atti di Governo, registro n. 13, foglio n. 43
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 22 aprile 1986   
+Registro n. 4 Presidenza, foglio n. 47

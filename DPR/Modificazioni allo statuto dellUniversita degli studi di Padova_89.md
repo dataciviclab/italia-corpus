@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1979 n. 378
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1972 n. 476
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1979 n. 378
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1972 n. 476
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Padova, approvato con regio decreto 20 aprile 1939, 1058 e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847) e modificato con [regio decreto 26 ottobre 1940, n. 2058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2058), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,206 +20,348 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 101 - all'elenco degli insegnamenti complementari del corso di laurea in matematica sono aggiunti i seguenti:
+Art. 69. - All'elenco degli insegnamenti complementari del corso di laurea in lettere e' aggiunto il seguente:
 
-Indirizzo generale:
+Filologia ed esegesi neotestamentaria
 
-algebra II;
+Art. 117. - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto il seguente:
 
-continui elastici;
+Palcontologia umana.
 
-continui plastici;
+Art. 119, relativo alle norme riguardanti l'internato, per gli iscritti al corso di laurea in scienze naturali, e' abrogato e sostituito dal seguente:
 
-corpi numerici e algebre;
+"Dopo il primo biennio lo studente dovra' frequentare per un anno come interno, uno degli istituti di scienze naturali dell'universita' o dietro approvazione del preside della facolta', altro istituto dell'universita' nel quale attendera' alla elaborazione della tesi di laurea.
 
-geometrie finite;
+L'ammissione all'internato e' regolata dalle norme contenute
 
-gruppi abeliani;
+nell'ordinamento annuale degli studi della facolta'"
 
-gruppi continui;
+Art. 120. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti quelli di:
 
-gruppi lineari;
+Paleontologia umana;
 
-gruppi topologici;
+Biologia marina.
 
-logica II;
+Art. 122, relativo alle norme riguardanti l'internato per gli iscritti al corso di laurea in scienze biologiche, e' abrogato e sostituito dal seguente:
 
-omologia e coomologia;
+"Dopo il primo biennio lo studente dovra' frequentare per un anno, come interno, uno degli istituti di scienze biologiche, o, dietro approvazione del preside della facolta', altro istituto dell'universita', nel quale attendera' alla elaborazione della tesi di laurea.
 
-sistemi ereditari;
+L'ammissione all'internato e' regolata dalle norme contenute nell'ordinamento annuale degli studi della facolta'".
 
-teoria degli ideali;
+Art. 123. - All'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche e aggiunto il seguente:
 
-teoria degli insiemi;
+Paleontologia umana.
 
-teoria delle distribuzioni;
+Art. 126, relativo al corso di laurea in astronomia, e' modificato nel senso che al quinto paragrafo le parole:
 
-teoria delle funzioni di variabile reale;
+"Per l'indirizzo fisico: istituzione di fisica teorica;
 
-teoria delle funzioni di variabile complessa;
+Per l'indirizzo matematico: meccanica celeste" sono abrogate e sostituite dalle seguenti:
 
-funzioni speciali;
+Per l'indirizzo fisico lo studente potra' scegliere tra i seguenti insegnamenti istituzionali:
 
-teorie combinatorie;
+1) Istituzioni di fisica teorica;
 
-topologia algebrica;
+2) Istituzioni di fisica nucleare;
 
-topologia combinatoria;
+3) Meccanica statistica;
 
-topologia dei fibrali;
+4) Spettroscopia.
 
-topologia generale;
+Per l'indirizzo matematico potra' scegliere tra:
 
-geometria simplettica.
+1) Meccanica celeste;
 
-Nello stesso elenco l'insegnamento complementare di teoria delle onde muta denominazione in quella di teoria della propagazione ondosa.
+2) Metodi matematici per la fisica;
 
-Indirizzo applicativo:
+3) Metodi matematici per l'astronomia;
 
-l'orientamento c) applicativo meccanico astronomico muta denominazione in orientamento c) applicativo meccanico fisico matematico;
+4) Teoria delle orbite.
 
-all'elenco degli insegnamenti complementari dell'orientamento a) applicativo-elettronico e' aggiunto quello di teoria dei sistemi;
+Nello stesso articolo il sesto paragrafo e' modificato nel senso che all'elenco a carattere orientativo di insegnamenti sono aggiunti i seguenti:
 
-all'elenco degli insegnamenti complementari dell'orientamento b) applicativo statistico-economico e' aggiunto quello di teoria dei sistemi;
+Fisica terrestre;
 
-all'elenco degli insegnamenti fondamentali dello orientamento e) applicativo meccanico-fisico matematico l'insegnamento del quarto anno di meccanica celeste muta denominazione in meccanica dei continui.
+Onde elettromagnetiche;
 
-Nell'elenco degli insegnamenti complementari del quarto anno dello stesso orientamento e) sono soppressi i seguenti insegnamenti:
+Fisica atomica.
 
-astrofisica;
+Art. 164. - All'elenco degli insegnamenti complementari del corso di laurea in farmacia e' aggiunto quello di:
 
-astrofisica teorica;
+Biofarmacia.
 
-astronomia;
+Art. 219. - All'elenco delle scuole di perfezionamento e di specializzazione dipendenti dalla facolta' di lettere e filosofia e' aggiunta la seguente:
 
-meccanica dei continui;
+Scuola di perfezionamento in lingue e letterature straniere.
 
-statistica stellare.
+Dopo l'art. 240, e con lo spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo alla istituzione della "Scuola di perfezionamento in lingue e letterature straniere", annessa alla facolta' di lettere e filosofia.
 
-Nello stesso elenco l'insegnamento di teoria delle onde muta denominazione in teoria della propagazione ondosa.
+Scuola di perfezionamento in lingue e letterature straniere
 
-Inoltre, sono aggiunti i seguenti insegnamenti complementari:
+Art. 241. - 1) scopi:
 
-continui plastici;
+La scuola ha lo scopo di promuovere l'approfondimento della preparazione scientifica, come pure il perfezionamento della preparazione didattica dei laureati. Si distingue in due corsi; il perfezionamento scientifico, per la formazione di studiosi specialisti nelle letterature straniere, ed il perfezionamento didattico, per il perfezionamento dei laureati che intendono dedicarsi all'insegnamento delle lingue e letterature straniere negli istituti secondari.
 
-meccanica celeste;
+2) Durata:
 
-meccanica quantistica;
+La durata dei corsi di perfezionamento scientifico e' di tre anni; la durata dei corsi di perfezionamento didattico e' di due anni. Al termine dei corsi agli iscritti che abbiano ottemperato alle condizioni richieste e superato le prove di esame viene rilasciato un diploma. Il direttore della scuola puo' concedere l'abbreviazione di un anno del corso di studi per il conseguimento dei diplomi quando il perfezionando abbia gia' frequentato analoghe scuole, o quando dimostri speciale maturita' e preparazione.
 
-meccanica razionale II;
+3) Iscrizioni:
 
-meccanica statistica;
+Sono ammessi alla scuola i laureati:
 
-continui elastici;
+in lettere, in filosofia, in lingue e letterature straniere moderne;
 
-sistemi ereditari;
+in lingue e letterature straniere;
 
-geometria simplettica.
+in materie letterarie, in pedagogia.
+
+Il direttore della scuola potra', caso per caso, decidere dell'ammissione di laureati con titoli simili ed equipollenti.
+
+4) Materie d'insegnamento:
+
+La scuola raggruppa e coordina i seguenti insegnamenti:
+
+Materie fondamentali:
+
+Lingua e letteratura francese;
+
+Lingua e letteratura inglese;
+
+Lingua e letteratura spagnola;
+
+Lingua e letteratura tedesca;
+
+Filologia romanza;
+
+Filologia germanica.
+
+Materie integrative:
+
+Lingua e letteratura neerlandese;
+
+Lingua e letteratura neogreca;
+
+Lingua e letteratura portoghese;
+
+Lingua e letteratura rumena;
+
+Lingua e letteratura russa;
+
+Lingua e letteratura serbo-croata;
+
+Lingua e letteratura ungherese;
+
+Letteratura ispano-americana;
+
+Letteratura nord-americana;
+
+Storia della letteratura italiana moderna e contemporanea;
+
+Storia della lingua italiana;
+
+Storia della letteratura latina medioevale;
+
+Filologia balcanica;
+
+Filologia slava;
+
+Glottologia;
+
+Geografia regionale;
+
+Storia moderna.
+
+5) Piano degli studi:
+
+Il piano di studi per i due perfezionamenti comporta, in linea di massima la frequenza ed il superamento degli esami di due discipline del gruppo delle materie fondamentali e di tre del gruppo delle materie integrative.
+
+Il piano di studi per ogni perfezionando viene fissato dal professore della materia di perfezionamento ed e' approvato dal direttore della scuola.
+
+Sara' possibile scegliere come materia di perfezionamento una lingua e letteratura straniera del gruppo delle materie integrative.
+
+6) Esami:
+
+Gli aspiranti al perfezionamento scientifico dovranno iterare sia l'esame della lingua e letteratura straniera nella quale aspirano a perfezionarsi che quello della relativa filologia.
+
+Gli aspiranti al perfezionamento didattico dovranno iterare l'esame della lingua e letteratura straniera prescelta, mentre l'esame della relativa filologia sara' annuale.
+
+Gli iscritti al perfezionamento scientifico, al principio del primo e del secondo anno, dovranno scegliere, d'accordo con il professore della materia di perfezionamento, un tema da trattare per iscritto, che servira' di base all'esame, al termine di ogni corso. Oltre che nella discussione della tesi scritta, l'esame orale consistera' nell'accertamento teorico e pratico della progressiva preparazione del candidato. I lavori assegnati nel 1° e 2° anno possono avere carattere preliminare e preparatorio della tesi di diploma, redatta nella lingua straniera in cui il candidato si e' specializzato, che sara' discussa al termine del triennio.
+
+Gli aspiranti al perfezionamento didattico dovranno seguire i corsi di lettorato della lingua, oltre che quelli della letteratura prescelta, e, su consiglio del professore della materia prescelta, quei corsi e quelle esercitazioni che possono meglio introdurli alla conoscenza dei vari aspetti della storia della civilta' e della geografia dei popoli di cui studiano la lingua e la letteratura.
+
+Oltre agli esami orali i candidati dovranno sostenere alla fine del 1° e 2° anno, una prova scritta di dettato, di traduzione e composizione nella lingua straniera in cui si specializzano. Per accedere all'esame di diploma i candidati dovranno aver trascorso un periodo di almeno tre mesi nel paese della lingua prescelta, e avere ivi compiuto studi ed esercitazioni presso istituti qualificati, che saranno consigliati dal professore competente.
+
+L'esame di diploma, per il perfezionamento didattico, consistera' in una prova orale, modellata su quella stabilita per gli esami di concorso ed abilitazione per l'insegnamento delle varie lingue straniere negli istituti secondari. Il candidato, inoltre, dovra' discutere una tesina, scritta nella lingua straniera, assegnata dal professore della lingua di perfezionamento.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 14 marzo 1979
+Dato a Roma, addi' 20 giugno 1972
 
-PERTINI
+LEONE
 
-PEDINI
+MISASI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 28 luglio 1979 Registro n. 60 Istruzione, foglio n. 189
+alla Corte dei conti, addi' 10 agosto 1972 Atti del Governo, registro n. 230, foglio n. 144. - VALENTINI
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Padova, approvato con regio decreto 20 aprile 1939, 1058 e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847) e modificato con [regio decreto 26 ottobre 1940, n. 2058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2058), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 101 - all'elenco degli insegnamenti complementari del corso di laurea in matematica sono aggiunti i seguenti:  
-Indirizzo generale:  
-algebra II;  
-continui elastici;  
-continui plastici;  
-corpi numerici e algebre;  
-geometrie finite;  
-gruppi abeliani;  
-gruppi continui;  
-gruppi lineari;  
-gruppi topologici;  
-logica II;  
-omologia e coomologia;  
-sistemi ereditari;  
-teoria degli ideali;  
-teoria degli insiemi;  
-teoria delle distribuzioni;  
-teoria delle funzioni di variabile reale;  
-teoria delle funzioni di variabile complessa;  
-funzioni speciali;  
-teorie combinatorie;  
-topologia algebrica;  
-topologia combinatoria;  
-topologia dei fibrali;  
-topologia generale;  
-geometria simplettica.  
-Nello stesso elenco l'insegnamento complementare di teoria delle onde muta denominazione in quella di teoria della propagazione ondosa.  
-Indirizzo applicativo:  
-l'orientamento c) applicativo meccanico astronomico muta denominazione in orientamento c) applicativo meccanico fisico matematico;  
-all'elenco degli insegnamenti complementari dell'orientamento a) applicativo-elettronico e' aggiunto quello di teoria dei sistemi;  
-all'elenco degli insegnamenti complementari dell'orientamento b) applicativo statistico-economico e' aggiunto quello di teoria dei sistemi;  
-all'elenco degli insegnamenti fondamentali dello orientamento e) applicativo meccanico-fisico matematico l'insegnamento del quarto anno di meccanica celeste muta denominazione in meccanica dei continui.  
-Nell'elenco degli insegnamenti complementari del quarto anno dello stesso orientamento e) sono soppressi i seguenti insegnamenti:  
-astrofisica;  
-astrofisica teorica;  
-astronomia;  
-meccanica dei continui;  
-statistica stellare.  
-Nello stesso elenco l'insegnamento di teoria delle onde muta denominazione in teoria della propagazione ondosa.  
-Inoltre, sono aggiunti i seguenti insegnamenti complementari:  
-continui plastici;  
-meccanica celeste;  
-meccanica quantistica;  
-meccanica razionale II;  
-meccanica statistica;  
-continui elastici;  
-sistemi ereditari;  
-geometria simplettica.  
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 69. - All'elenco degli insegnamenti complementari del corso di laurea in lettere e' aggiunto il seguente:   
+Filologia ed esegesi neotestamentaria   
+Art. 117. - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto il seguente:   
+Palcontologia umana.   
+Art. 119, relativo alle norme riguardanti l'internato, per gli iscritti al corso di laurea in scienze naturali, e' abrogato e sostituito dal seguente:   
+"Dopo il primo biennio lo studente dovra' frequentare per un anno come interno, uno degli istituti di scienze naturali dell'universita' o dietro approvazione del preside della facolta', altro istituto dell'universita' nel quale attendera' alla elaborazione della tesi di laurea.   
+L'ammissione all'internato e' regolata dalle norme contenute   
+nell'ordinamento annuale degli studi della facolta'"   
+Art. 120. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti quelli di:   
+  
+Paleontologia umana;   
+Biologia marina.   
+  
+Art. 122, relativo alle norme riguardanti l'internato per gli iscritti al corso di laurea in scienze biologiche, e' abrogato e sostituito dal seguente:   
+"Dopo il primo biennio lo studente dovra' frequentare per un anno, come interno, uno degli istituti di scienze biologiche, o, dietro approvazione del preside della facolta', altro istituto dell'universita', nel quale attendera' alla elaborazione della tesi di laurea.   
+L'ammissione all'internato e' regolata dalle norme contenute nell'ordinamento annuale degli studi della facolta'".   
+Art. 123. - All'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche e aggiunto il seguente:   
+  
+Paleontologia umana.   
+  
+Art. 126, relativo al corso di laurea in astronomia, e' modificato nel senso che al quinto paragrafo le parole:   
+"Per l'indirizzo fisico: istituzione di fisica teorica;   
+Per l'indirizzo matematico: meccanica celeste" sono abrogate e sostituite dalle seguenti:   
+Per l'indirizzo fisico lo studente potra' scegliere tra i seguenti insegnamenti istituzionali:   
+  
+1) Istituzioni di fisica teorica;   
+2) Istituzioni di fisica nucleare;   
+3) Meccanica statistica;   
+4) Spettroscopia.   
+  
+Per l'indirizzo matematico potra' scegliere tra:   
+1) Meccanica celeste;   
+2) Metodi matematici per la fisica;   
+3) Metodi matematici per l'astronomia;   
+4) Teoria delle orbite.   
+  
+Nello stesso articolo il sesto paragrafo e' modificato nel senso che all'elenco a carattere orientativo di insegnamenti sono aggiunti i seguenti:   
+  
+Fisica terrestre;   
+Onde elettromagnetiche;   
+Fisica atomica.   
+  
+Art. 164. - All'elenco degli insegnamenti complementari del corso di laurea in farmacia e' aggiunto quello di:   
+  
+Biofarmacia.   
+  
+Art. 219. - All'elenco delle scuole di perfezionamento e di specializzazione dipendenti dalla facolta' di lettere e filosofia e' aggiunta la seguente:   
+  
+Scuola di perfezionamento in lingue e letterature straniere.   
+  
+Dopo l'art. 240, e con lo spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo alla istituzione della "Scuola di perfezionamento in lingue e letterature straniere", annessa alla facolta' di lettere e filosofia.   
+  
+Scuola di perfezionamento in lingue e letterature straniere   
+  
+Art. 241. - 1) scopi:   
+  
+La scuola ha lo scopo di promuovere l'approfondimento della preparazione scientifica, come pure il perfezionamento della preparazione didattica dei laureati. Si distingue in due corsi; il perfezionamento scientifico, per la formazione di studiosi specialisti nelle letterature straniere, ed il perfezionamento didattico, per il perfezionamento dei laureati che intendono dedicarsi all'insegnamento delle lingue e letterature straniere negli istituti secondari.   
+  
+2) Durata:   
+La durata dei corsi di perfezionamento scientifico e' di tre anni; la durata dei corsi di perfezionamento didattico e' di due anni. Al termine dei corsi agli iscritti che abbiano ottemperato alle condizioni richieste e superato le prove di esame viene rilasciato un diploma. Il direttore della scuola puo' concedere l'abbreviazione di un anno del corso di studi per il conseguimento dei diplomi quando il perfezionando abbia gia' frequentato analoghe scuole, o quando dimostri speciale maturita' e preparazione.   
+  
+3) Iscrizioni:   
+Sono ammessi alla scuola i laureati:   
+  
+in lettere, in filosofia, in lingue e letterature straniere moderne;   
+in lingue e letterature straniere;   
+in materie letterarie, in pedagogia.   
+  
+Il direttore della scuola potra', caso per caso, decidere dell'ammissione di laureati con titoli simili ed equipollenti.   
+  
+4) Materie d'insegnamento:   
+La scuola raggruppa e coordina i seguenti insegnamenti:   
+  
+Materie fondamentali:   
+Lingua e letteratura francese;   
+Lingua e letteratura inglese;   
+Lingua e letteratura spagnola;   
+Lingua e letteratura tedesca;   
+Filologia romanza;   
+Filologia germanica.   
+  
+Materie integrative:   
+Lingua e letteratura neerlandese;   
+Lingua e letteratura neogreca;   
+Lingua e letteratura portoghese;   
+Lingua e letteratura rumena;   
+Lingua e letteratura russa;   
+Lingua e letteratura serbo-croata;   
+Lingua e letteratura ungherese;   
+Letteratura ispano-americana;   
+Letteratura nord-americana;   
+Storia della letteratura italiana moderna e contemporanea;   
+Storia della lingua italiana;   
+Storia della letteratura latina medioevale;   
+Filologia balcanica;   
+Filologia slava;   
+Glottologia;   
+Geografia regionale;   
+Storia moderna.   
+  
+5) Piano degli studi:   
+Il piano di studi per i due perfezionamenti comporta, in linea di massima la frequenza ed il superamento degli esami di due discipline del gruppo delle materie fondamentali e di tre del gruppo delle materie integrative.   
+Il piano di studi per ogni perfezionando viene fissato dal professore della materia di perfezionamento ed e' approvato dal direttore della scuola.   
+Sara' possibile scegliere come materia di perfezionamento una lingua e letteratura straniera del gruppo delle materie integrative.   
+  
+6) Esami:   
+Gli aspiranti al perfezionamento scientifico dovranno iterare sia l'esame della lingua e letteratura straniera nella quale aspirano a perfezionarsi che quello della relativa filologia.   
+Gli aspiranti al perfezionamento didattico dovranno iterare l'esame della lingua e letteratura straniera prescelta, mentre l'esame della relativa filologia sara' annuale.   
+Gli iscritti al perfezionamento scientifico, al principio del primo e del secondo anno, dovranno scegliere, d'accordo con il professore della materia di perfezionamento, un tema da trattare per iscritto, che servira' di base all'esame, al termine di ogni corso. Oltre che nella discussione della tesi scritta, l'esame orale consistera' nell'accertamento teorico e pratico della progressiva preparazione del candidato. I lavori assegnati nel 1° e 2° anno possono avere carattere preliminare e preparatorio della tesi di diploma, redatta nella lingua straniera in cui il candidato si e' specializzato, che sara' discussa al termine del triennio.   
+Gli aspiranti al perfezionamento didattico dovranno seguire i corsi di lettorato della lingua, oltre che quelli della letteratura prescelta, e, su consiglio del professore della materia prescelta, quei corsi e quelle esercitazioni che possono meglio introdurli alla conoscenza dei vari aspetti della storia della civilta' e della geografia dei popoli di cui studiano la lingua e la letteratura.  
+Oltre agli esami orali i candidati dovranno sostenere alla fine del 1° e 2° anno, una prova scritta di dettato, di traduzione e composizione nella lingua straniera in cui si specializzano. Per accedere all'esame di diploma i candidati dovranno aver trascorso un periodo di almeno tre mesi nel paese della lingua prescelta, e avere ivi compiuto studi ed esercitazioni presso istituti qualificati, che saranno consigliati dal professore competente.   
+L'esame di diploma, per il perfezionamento didattico, consistera' in una prova orale, modellata su quella stabilita per gli esami di concorso ed abilitazione per l'insegnamento delle varie lingue straniere negli istituti secondari. Il candidato, inoltre, dovra' discutere una tesina, scritta nella lingua straniera, assegnata dal professore della lingua di perfezionamento.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 marzo 1979
+### Dato a Roma, addi' 20 giugno 1972
 
-PERTINI PEDINI
+LEONE MISASI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 28 luglio 1979
+Registrato alla Corte dei conti, addi' 10 agosto 1972
 
-Registro n. 60 Istruzione, foglio n. 189
+Atti del Governo, registro n. 230, foglio n. 144. - VALENTINI

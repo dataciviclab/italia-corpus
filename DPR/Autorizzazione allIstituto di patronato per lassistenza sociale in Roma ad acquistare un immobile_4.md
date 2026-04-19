@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 giugno 1979 n. 920
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 564
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 giugno 1979 n. 920
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 564
 =============================================================
 
 Autorizzazione all'Istituto di patronato per l'assistenza sociale, in Roma, ad acquistare un immobile.
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-920. Decreto del Presidente della Repubblica 22 giugno 1979, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Istituto di patronato per l'assistenza sociale (IPAS), in Roma, viene autorizzato ad acquistare, al prezzo di L. 136.100.000, la porzione di immobile rappresentata da parte del piano ammezzato (mq 360), parte del piano terreno di mq 31 e parte del piano cantine (mq 90) dell'edificio sito in Palermo, via F.  
-Laurana, 5, censito al nuovo catasto edilizio urbano al foglio 33, particelle 132, 134, 135, 136, 137, 138 e 565, di proprieta' del sig. Giuseppe Pirrone, come da atto di promessa di vendita in data 18 novembre 1976, da adibire a sede dell'ente.  
+564. Decreto del Presidente della Repubblica 4 giugno 1983, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Istituto di patronato per l'assistenza sociale, in Roma, viene autorizzato ad acquistare, al prezzo di L. 106.000.000, un appartamento di sette locali al primo piano e un locale cantina dello stabile sito in Milano, piazza Tricolore n. 3, censito al nuovo catasto edilizio urbano al foglio 354, mappale 230 sub 20-21, di proprieta' delle signore Maria Grazia, Patrizia, Maria Paola Bevilacqua e Maria Maddalena Pelissa ved. Bevilacqua, come da atto di dichiarazione di terzo acquirente 10 settembre 1976, n. 433707 di repertorio, a rogito dott. Giovanni Lainati, notaio in Milano, registrato a Milano in data 20 settembre 1976 al n. 12683, da adibire ad uffici del patronato.  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 3 giugno 1980  
-Registro n. 1 Lavoro, foglio n. 109
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 12 ottobre 1983  
+Registro n. 1 Lavoro, foglio n. 206

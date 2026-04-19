@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1950 n. 1268
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 1004
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1950 n. 1268
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 1004
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -10,557 +10,139 @@ Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo Statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regi decreti 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-12;2227), [4 settembre 1930, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-09-04;1312), [10 ottobre 1931, n. 1778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-10;1778), [27 ottobre 1932, n. 2092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2092), [6 dicembre 1934, n. 2394](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2394), [1 ottobre 1936, n. 2502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2502), [12 maggio 1939, n. 1315](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-05-12;1315), [5 ottobre 1939, n. 1644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1644), [11 luglio 1941, n. 848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-07-11;848), [18 luglio 1912, n. 928](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1912-07-18;928), [24 settembre 1942, n. 1595, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-09-24;1595) [16 maggio 1947, n. 694 e con decreto del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-05-16;694) [22 febbraio 1948, n. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-02-22;414);
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto-legge 27 gennaio 1944, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-27;58);
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifica allo Statuto formulate dalle Autorita' accademiche della predetta Universita';
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo Statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 18. - All'elenco delle materie del corso di laurea in giurisprudenza e' aggiunto l'insegnamento complementare di diritto della navigazione.
+Articolo unico
+--------------
 
-Art. 19. - E' sostituito dal seguente:
-
-"Nessun anno del corso per la laurea in giurisprudenza e' valido se lo studente non abbia preso iscrizione almeno a quattro insegnamenti e non li abbia regolarmente frequentati.
-
-Non possono essere sostenuti:
-
-Gli esami di diritto del lavoro, diritto civile, diritto commerciale e diritto agrario, se prima non sia stato superato l'esame di istituzioni di diritto privato; gli esami di storia del diritto italiano, diritto romano e papirologia giuridica se prima non siano stati superati gli esami di: istituzioni di diritto romano e storia del diritto romano.
-
-Gli esami di diritto del lavoro, diritto internazionale e diritto amministrativo se prima non sia stato superato l'esame di diritto costituzionale; l'esame di scienza delle finanze e diritto finanziario se prima non sia stato superato l'esame di economia politica).
-
-L'esame di diritto ecclesiastico se prima non siano stati superati gli esami di "istituzioni di diritto privato" e di "diritto costituzionale".
-
-Art. 22. - Nel primo capoverso dopo le parole "si riferisce" viene aggiunto: "e di due tesine orali su temi appartenenti a gruppi di materie diverse da quelle della dissertazione scritta, temi assegnati da professori titolari di materie facenti parte dei gruppi prescelti".
-
-L'ultimo comma e' sostituito dal seguente: "La dissertazione puo' riguardare qualunque insegnamento della Facolta' esclusi quelli di medicina legale e delle assicurazioni, di esegesi delle fonti del diritto romano, di esegesi delle fonti del diritto italiano e di papirologia giuridica".
-
-Art. 26. - L'ultimo periodo del secondo comma e' cosi' sostituito: "Il prestito dei libri e' disciplinato dal regolamento interno dell'Istituto".
-
-L'art. 30. - E' sostituito dal seguente: "L'Istituto e' retto da un direttore eletto a maggioranza assoluta di voti dalla Facolta' di giurisprudenza fra i professori ordinari delle materie indicate nell'art. 31, da un consigliere nominato nello stesso modo, dal preside della Facolta' e dal professore ordinario preposto alla sezione di pratica amministrativa, ove non faccia parte del consiglio per altro titolo. Alle adunanze del Consiglio puo' essere invitato dal direttore il presidente del Consiglio dell'Ordine degli avvocati e procuratori di Bologna, che avra' voto consultivo. Nel caso di parita', di voti prevale il voto di chi presiedera' il Consiglio.
-
-Il direttore e il Consiglio elettivo durano in carica un triennio e possono essere confermati".
-
-Art. 32. - L'elenco delle discipline e' sostituito dal seguente:
-
-"Diritto del lavoro;
-
-Diritto tributario;
-
-Amministrazione aziendale;
-
-Procedimenti amministrativi speciali;
-
-Ordinamento della proprieta' fondiaria;
-
-Arte notarile;
-
-Altre eventuali materie.
-
-L'art. 34 e' sostituito dal seguente: "La tassa annuale di iscrizione e' di L. 300".
-
-Art. 39. - Viene sostituito dal seguente:
-
-"Non possono essere sostenuti:
-
-l'esame di Statistica 1° anno senza avere prima superato quello di Matematica generale;
-
-l'esame di Economia 1° anno senza avere prima superato quello di Statistica 1° anno;
-
-l'esame di Scienza delle finanze e diritto finanziario senza avere prima superato gli esami di Economia politica 1° e 20 anno;
-
-l'esame di Politica economica e finanziaria senza avere prima superato quello di Scienza delle finanze e diritto finanziario;
-
-l'esame di Tecnica industriale e commerciale e quello di Tecnica bancaria professionale senza avere prima superato gli esami di Ragioneria generale ed applicata; - l'esame di Tecnica bancaria professionale senza avere prima superato quello di Tecnica industriale e commerciale;
-
-l'esame di Diritto commerciale senza avere prima superato quello di Diritto privato;
-
-l'esame di Diritto del lavoro senza avere prima superato quelli di Istituzioni di diritto privato e di Istituzioni di diritto pubblico;
-
-gli esami di Matematica finanziaria senza avere prima superato quello di Matematica generale".
-
-Art. 43. - Sono soppressi i seguenti insegnamenti complementari cc Lingue e letterature semitiche dell'A.O.I.", "Lingue non semitiche dell'A.O.I.", "Storia del fascismo", "Lingua serbo-croata".
-
-Vengono aggiunti i seguenti nuovi insegnamenti complementari:
-
-"Antichita' greco-romane;
-
-Storia della letteratura latina medioevale:
-
-Lingua e letteratura portoghese;
-
-Lingua e letteratura rumena;
-
-Storia della Chiesa;
-
-Etnologia".
-
-L'art. 45 e' sostituito dal seguente: "Le esercitazioni linguistiche per gli insegnamenti di letteratura italiana, latina, greca e di letterature straniere e moderne sono affidate ai lettori".
-
-Art. 49. - Al terzo comma le parole "in doppio esemplare" sono sostituite con "in triplo esemplare".
-
-Art. 53. - Nel primo comma le parole "possono essere obbligati" sono sostituite con "sono obbligati".
-
-Art. 63. - Sono aggiunti i seguenti nuovi insegnamenti complementari: "Matematiche elementari dal punto di vista superiore", "Matematiche superiori" e "Calcoli numerici e grafici".
-
-Art. 64. - Vengono aggiunti i seguenti nuovi insegnamenti complementari: "Fisica terrestre", "Elettrologia", "Radioattivita'".
-
-Art. 65. - Sono aggiunti i seguenti nuovi insegnamenti complementari: "Meccanica superiore", "Matematiche superiori", "Matematiche elementari dal punto di vista superiore", "Fisica terrestre", "Calcoli numerici e grafici".
-
-Art. 66. - Dopo l'elenco degli insegnamenti complementari e precisamente dopo l'insegnamento n. 14 "Storia della chimica)) sono inseriti i seguenti nuovi comma.
-
-"Dato il carattere di propedeuticita' del primo anno dei corsi biennali di Chimica generale ed inorganica, di Chimica organica, di Istituzioni di matematiche, di Esercitazioni di matematiche rispetto alla materia dei secondi anni dei diversi corsi biennali stessi (tanto che i due anni di questi corsi biennali debbono avere un carattere a se' distinto) lo studente dovra' sostenere un esame di chimica generale inorganica (Iª parte), uno di chimica organica (Iª parte), uno di istituzioni di matematiche (Iª parte), uno di esercitazioni di matematiche (1° parte) prima di sostenere gli esami delle rispettive seconde parti di queste materie biennali.
-
-Le due parti di questi corsi biennali dovranno essere coordinate fra di loro nei riguardi del carattere di propedeuticita' sopra indicato anche se le due parti di ciascuno di questi corsi saranno tenute da insegnanti diversi.
-
-Le due parti del corso di esercitazioni di Chimica fisica per il triennio di studi di applicazione comportano due esami distinti.
-
-Le esercitazioni di preparazioni chimiche (materia fondamentale per il triennio degli studi di applicazione) e le esercitazioni di analisi chimica applicata pure fondamentali per il triennio costituiscono due materie distinte insegnate in due corsi distinti.
-
-Lo studente puo' scegliere o l'uno o l'altro di questi due corsi fondamentali ma non ambedue. Gli esami ed i relativi verbali saranno percio' distinti.
-
-Onde non confondere le preparazioni chimiche fondamentali del triennio dalle esercitazioni di preparazioni chimiche del biennio propedeutico (pure fondamentali) si indicheranno nell'ordine degli studi, nei verbali d'esame e negli altri documenti questi due corsi come segue:
-
-a) esercitazioni di preparazioni chimiche (biennio propedeutico);
-
-b) esercitazioni di preparazioni chimiche (triennio di applicazione).
-
-Ai predetti nuovi comma seguono poi quelli gia' esistenti e di cui il primo inizia con le parole "I tre insegnamenti ecc.".
-
-Art. 67. - Vengono aggiunti i seguenti nuovi insegnamenti complementari: "Genetica", "Fisiologia vegetale", "Geochimica), "Fisica terrestre e climatologia)).
-
-Dopo l'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo comma: "Il corso biennale di botanica importa due esami distinti rispettivamente alla fine del lo e del 2° anno di corso".
-
-Art. 68. - Sono aggiunti i seguenti nuovi insegnamenti complementari: "Fisiologia vegetale", "Genetica" e "Microbiologia".
-
-Dopo l'elenco degli insegnamenti complementari viene aggiunto il seguente nuova comma: "Il corso biennale di Botanica importa due esami distinti rispettivamente alla fine del 1 e del 2° anno di corso".
-
-Art. 71. - E' soppresso.
-
-Art. 73. - E' soppresso.
-
-Attuale art. 75.- Dopo il quarto comma che termina con le parole "la laurea in scienze matematiche" sono inseriti i seguenti nuovi comma:
-
-"Il 1° corso dei corsi biennali (Fondamentali) di "chimica generale", "chimica organica", "istituzioni di matematiche", "esercitazioni di matematiche", del biennio propedeutico per la laurea in chimica industriale, ha carattere propedeutico rispetto alla materia del 2° anno, e pertanto i due anni di questi corsi biennali devono avere un carattere a se' distinto. Di conseguenza lo studente dovra' sostenere un esame di chimica la parte e di esercitazioni di matematiche parte Iª prima di sostenere le relative seconde parti di queste materie biennali. Le due parti di tali corsi biennali, dovranno essere dalla Facolta' coordinate, nei riguardi del carattere di propedeuticita' sopra specificato, anche se le due parti della materia sono dettate da (docenti diversi.
-
-Lo stesso principio vale per le seguenti materie biennali fondamentali del triennio di applicazione: "Chimica industriale", "Esercitazioni di chimica industriale", "Impianti chimici", "Esercitazioni di chimica fisica". Eppero' le due parti sono insegnate in corsi distinti, dei quali la la parte e' da considerare propedeutica a tutti gli effetti. I programmi delle due parti di tali corsi biennali dovranno essere coordinati dalla Facolta' nei riguardi della propedeuticita' e anche se dette due parti sono tenute da insegnanti diversi. Di conseguenza anche gli esami devono essere sostenuti separatamente e quello della Iª parte deve precedere quello della seconda e distinti devono essere i relativi verbali.
-
-Il comma che inizia con le parole "All'atto dell'iscrizione ecc." e' sostituito con il seguente: "All'atto dell'iscrizione al primo anno del biennio di applicazione lo studente deve sottoporre all'approvazione della Facolta' l'elenco degli insegnamenti complementari prescelti; la Facolta' potra' delegare il preside a rendere esecutiva la scelta delle materie complementari. Detta scelta e' impegnativa. In casi speciali pero' la Facolta' puo' valutare la equipollenza di materie diverse da quelle scelte, qualora l'allievo ne faccia richiesta con motivata domanda".
-
-Attuale art. 76. - E' soppresso.
-
-Attuale art. 80. - E' sostituito dal seguente: "L'esame di laurea in chimica industriale comprende le seguenti prove:
-
-1) una analisi qualitativa di almeno 5 cationi e 5 milioni;
-
-2) una analisi a tipo industriale;
-
-3) tre saggi diversi da scegliersi dal candidato fra i seguenti:
-
-a) una preparazione di una sostanza colorante, o di un prodotto intermedio;
-
-b) un saggio metallografico;
-
-c) una analisi di un prodotto inerente alla tecnologia degli zuccheri o prodotti di fermentazione;
-
-d) una analisi o determinazione chimico-fisica;
-
-e) una preparazione elettrochimica.
-
-(Le diverse prove di cui ai numeri 1, 2, 3, sulle quali il candidato deve riferire per iscritto, sono tenute negli Istituti dei rispettivi insegnamenti, e sono eseguiti sotto la direzione del direttore dell'istituto che valuta le prove e ne riferisce alla Commissione di laurea);
-
-4) un colloquio di cultura generale in chimica.
-
-Detto colloquio precedera' la prova di cui al seguente n. 5, e qualora esso risulti insufficiente il candidato non potra' essere ammesso alla discussione della tesi.
-
-Il colloquio stesso viene sostenuto davanti a una Giunta della Commissione di laurea nominata dal preside" 5) discussione di una dissertazione scritta, preferibilmente su argomento di carattere sperimentale.
-
-Il candidato deve presentare in Segreteria una tesi che tratti delle ricerche eseguite su una delle materie di insegnamento della Facolta', eseguita sotto la direzione del direttore di Istituto della Facolta' stessa. Si proposta del direttore dell'istituto interessato, i laureandi - per eseguire le ricerche inerenti alla loro tesi di laurea - potranno essere spostati anche in un Istituto o Laboratorio scientifico tecnico o industriale.
-
-Attuale art. 81. - Viene aggiunto il seguente nuovo comma, "Il Consiglio della Facolta' di chimica industriale si compone del preside che lo presiede, dei professori di ruolo risultanti dal ruolo della Facolta' di cui alla tabella B del [testo unico del 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592) e successive modificazioni, e dai professori di ruolo di altre Facolta' i quali impartiscono insegnamenti di cui comunque si usufruisca nell'ultimo triennio del corso di studi per la laurea in chimica industriale e da un professore di ruolo della Facolta' di scienze matematiche, fisiche e naturali designato dalla Facolta' stessa".
-
-Attuale art. 94. - Dopo l'elenco degli insegnamenti fondamentali a tutte le Sezioni e' aggiunto il seguente comma: "Il corso biennale di architettura, tecnica importa due esami distinti".
-
-Attuale art. 95. - E' sostituito dal seguente: "La Facolta' annualmente determinera' con apposito manifesto il piano di studi consigliato per le singole lauree.
-
-Gli studenti che desiderano seguire un piano di studi comprendente corsi complementari diversi da quelli consigliati dalla Facolta' dovranno presentare motivata domanda entro il 31 dicembre per l'approvazione della Facolta'.
-
-In ogni caso debbono essere osservate le seguenti norme:
-
-l'iscrizione e l'esame di fisica tecnica debbono rispettivamente precedere la iscrizione e l'esame di macchine;
-
-l'iscrizione e l'esame di meccanica applicata alle macchine debbono precedere rispettivamente le iscrizioni e gli esami di macchine, costruzioni di macchine, disegno di macchine e progetti, tecnologie generali, tecnologie speciali.
-
-L'iscrizione e l'esame di scienza delle costruzioni debbono rispettivamente precedere le iscrizioni e gli esami di: costruzioni in legno, ferro, cemento armato, costruzione di ponti, costruzione di macchine, costruzioni idrauliche, impianti speciali idraulici, costruzioni stradali e ferroviarie, tecnologie generali, architettura tecnica seconda parte, costruzione di macchine elettriche.
-
-L'iscrizione e l'esame di idraulica debbono rispettivamente precedere la iscrizione e l'esame di costruzioni idrauliche e di impianti speciali idraulici.
-
-L'iscrizione e l'esame di costruzione di macchine debbono rispettivamente precedere l'iscrizione e l'esame di costruzioni aeronautiche e di impianti industriali meccanici.
-
-L'iscrizione e l'esame di macchine debbono rispettivamente precedere l'iscrizione e l'esame di impianti industriali meccanici.
-
-L'iscrizione e l'esame di elettrotecnica debbono rispettivamente precedere le iscrizioni e gli esami di misure elettriche, impianti industriali elettrici, costruzioni di macchine elettriche, comunicazioni elettriche radiotecnica, trazione elettrica, geofisica mineraria, tecnica ed economia dei trasporti.
-
-L'iscrizione e l'esame di topografia con elementi di geodesia debbono precedere l'iscrizione e l'esame di costruzioni stradali e ferroviarie e geofisica mineraria.
-
-L'iscrizione e l'esame di chimica organica debbono precedere rispettivamente l'iscrizione e l'esame di chimica fisica, chimica industriale, impianti industriali chimici.
-
-L'iscrizione e l'esame di chimica applicata devono precedere rispettivamente l'iscrizione e l'esame di impianti industriali chimici.
-
-L'iscrizione e gli esami di petrografia e geologia debbono rispettivamente precedere l'iscrizione e l'esame di arte mineraria, giacimenti minerali, geofisica mineraria".
-
-Attuale art. 96. - E' sostituito dal seguente: "L'esame di laurea consiste nella discussione o di un progetto o di una ricerca tecnica svolti dal candidato.
-
-La discussione di laurea deve essere preceduta da una prova di cultura generale tecnica sostenuta dal candidato con esito favorevole.
-
-Le modalita' per la scelta e lo svolgimento del progetto o della ricerca vengono fissate dal Consiglio di Facolta'.
-
-La Commissione di laurea esaminato il progetto o la relazione della ricerca presentata dal candidato, delibera sulla ammissibilita', alla discussione orale".
-
-Attuale art. 136. - E' sostituito dal seguente:
-
-"Nella Facolta' di lettere e filosofia sono costituite le scuole di perfezionamento in:
-
-Filologia moderna;
-
-Filologia classica;
-
-Biblioteconomia e archivistica;
-
-Storia antica, medioevale e moderna;
-
-Storia dell'arte medioevale e moderna;
-
-Geografia".
-
-Attuale art. 137. - E' sostituto dal seguente: "Il corso di studi delle suddette Scuole di perfezionamento dura due anni accademici e da' adito al rilascio di un diploma di perfezionamento".
-
-Attuale art. 138. - E' sostituito dal seguente: "Per gli iscritti alle Scuole di perfezionamento le tasse sono fissate nella misura seguente:
-
-Tassa annua iscrizione................................... L. 10 00
-
-Sopratassa annua per esami............................... " 2 00
-
-Tassa di diploma......................................... " 4 00
-
-oltre ai contributi di laboratorio che saranno determinati dalle 'Facolta' e dal Consiglio di amministrazione per gli insegnamenti che debbono essere completati dalle esercitazioni".
-
-Attuale art. 139. - Dopo il 10 capoverso il testo dell'articolo e' cosi' sostituito: "La Scuola di perfezionamento in filologia moderna comprende insegnamenti fondamentali e complementari.
-
-Sono insegnamenti fondamentali:
-
-Letteratura, italiana (con esercitazioni);
-
-Lingua e letteratura tedesca (con esercitazioni);
-
-Lingua e letteratura francese (con esercitazioni)
-
-Lingua e letteratura inglese (con esercitazioni);
-
-Lingua e letteratura spagnola (con esercitazioni);
-
-Lingua e letteratura ungherese (con esercitazioni);
-
-Filologia romanza (con esercitazioni);
-
-Glottologia (con esercitazioni).
-
-Sono insegnamenti complementari:
-
-Storia della lingua italiana;
-
-Filologia germanica;
-
-Filologia slava;
-
-Storia medioevale;
-
-Storia moderna;
-
-Storia del risorgimento
-
-Storia della filosofia;
-
-Paleografia e diplomatica".
-
-Attuale art. 140. - E' sostituito dal seguente: "Per conseguire il diploma di perfezionamento in filologia moderna, lo studente che abbia scelto come insegnamento fondamentale una delle lingue e letterature moderne, dovra' sostenere:
-
-a) esami biennali di profitto oltre che nell'insegnamento fondamentale in cui intende perfezionarsi, in altri due insegnamenti scelti fra i fondamentali e i complementari della scuola, con l'approvazione del Consiglio dei professori della scuola;
-
-b) una prova scritta di composizione nella lingua che e' oggetto dello studio fondamentale, su argomento letterario, senza uso del vocabolario;
-
-c) presentare e discutere una dissertazione scritta, avente carattere di originalita', su tema assegnato dal professore della materia.
-
-Il terzo esame biennale puo' essere sostituto da due esami annuali sui due materie distinte, col consenso dell'insegnamento della materia scelta per il perfezionamento".
-
-Attuali articoli 143 - 145. - Sono sostituiti dai seguenti:
-
-Art. 143. - Alla Scuola di perfezionamento in biblioteconomia e archivistica possono essere iscritti i laureati in lettere, in filosofia, in giurisprudenza e in materie letterarie presso le Facolta' di magistero.
-
-Art. 144. - Gli insegnamenti fondamentali della Scuola sono:
-
-Paleografia e diplomatica;
-
-Biblioteconomia e bibliografia;
-
-Archivistica.
-
-Sono insegnamenti complementari:
-
-Patologia del libro;
-
-Arte applicata al libro;
-
-Storia medioevale;
-
-Storia moderna;
-
-Storia romana;
-
-Filologia romanza;
-
-Storia del diritto italiano.
-
-Un insegnamento romanistico a scelta, per i laureati in lettere, in filosofia, in materie letterarie.
-
-Un insegnamento filologico a scelta, per i laureati in giurisprudenza.
-
-Art. 145. - Per conseguire il diploma gli iscritti alla Scuola devono:
-
-a) superare gli esami biennali di profitto di paleografia e diplomatica e di un altro degli insegnamenti fondamentali della Scuola;
-
-b) superare due esami annuali o un terzo esame biennale su insegnamenti scelti fra i fondamentali o i complementari della, Scuola con l'approvazione del Consiglio dei professori della Scuola medesima;
-
-c) presentare e discutere una dissertazione scritta, avente carattere di originalita', su tema assegnato dal professore di uno degli insegnamenti fondamentali.
-
-Coloro che siano in possesso del certificato di frequenza ed esame rilasciato dal corso di perfezionamento in biblioteconomia ed archivistica ordinato secondo gli articoli 142 e seguenti dello statuto universitario approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e successive modificazioni, possono essere ammessi al secondo anno della Scuola, previo giudizio favorevole del Consiglio dei professori.
-
-Essi
-----
-
-saranno tenuti a sostenere le prove di cui ai comma b) e c)". Dopo l'attuale art. 145. - Sono inseriti modificando di conseguenza la successiva numerazione, i seguenti nuovi articoli relativi all'istituzione delle Scuole di perfezionamento in "Storia antica medioevale e moderna", "Storia dell'arte medioevale e moderna, "Geografia".
-
-CAPO I
-------
-
-### Art. 1
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo Statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regi decreti 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-12;2227), [4 settembre 1930, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-09-04;1312), [10 ottobre 1931, n. 1778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-10;1778), [27 ottobre 1932, n. 2092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2092), [6 dicembre 1934, n. 2394](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2394), [1 ottobre 1936, n. 2502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2502), [12 maggio 1939, n. 1315](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-05-12;1315), [5 ottobre 1939, n. 1644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1644), [11 luglio 1941, n. 848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-07-11;848), [18 luglio 1912, n. 928](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1912-07-18;928), [24 settembre 1942, n. 1595, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-09-24;1595) [16 maggio 1947, n. 694 e con decreto del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-05-16;694) [22 febbraio 1948, n. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-02-22;414);  
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduto il [regio decreto-legge 27 gennaio 1944, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-27;58);  
-Vedute le proposte di modifica allo Statuto formulate dalle Autorita' accademiche della predetta Universita';  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
+Dopo l'art. 711, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in tossicologia afferente alla facolta' di farmacia:   
   
-Lo Statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:  
-Art. 18. - All'elenco delle materie del corso di laurea in giurisprudenza e' aggiunto l'insegnamento complementare di diritto della navigazione.  
+Scuola di specializzazione in tossicologia   
+Art. 712. E' istituita la scuola di specializzazione in tossicologia presso l'Universita' degli studi di Bologna.   
+La scuola ha lo scopo di contribuire alla formazione di una figura professionale particolarmente esperta nel settore farmaco-tossicologico, che possa essere inserita nella problematica del farmaco a tutti i livelli della sua progettazione, alla produzione, al controllo ed alla distribuzione.   
+La necessita' quindi di istituire detta scuola di specializzazione risponde al rapido evolversi della societa' che ha posto nuove problematiche relative ai vantaggi, ma anche ai danni, che dal farmaco (nella sua accezione piu' ampia) derivano per l'uomo e per l'ambiente che lo circonda.   
+La scuola soddisfa precise esigenze espresse dal piano sanitario regionale ([legge regionale 7 febbraio 1981, n. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:regione.:legge:1981-02-07;6), Bollettino ufficiale 11 febbraio 1981, n. 17), che richiede in particolare specialisti farmacologi e tossicologi da inserire nelle strutture operanti nel territorio.   
+La scuola rilascia il titolo di specialista in tossicologia.   
+Art. 713. - La scuola ha la durata di tre anni e non e' suscettibile di abbreviazioni.   
+Ciascun anno di corso prevede ottocento ore di insegnamento e di attivita' pratiche guidate.   
+In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in venti per ciascun anno di corso, per un totale di sessanta specializzandi.   
+Art. 714. - Per l'attuazione delle attivita' didattiche programmate dal consiglio della scuola provvede la facolta' di farmacia. Nel manifesto annuale degli studi viene indicata la sede della direzione della scuola.   
+Art. 715. - Sono ammessi alle prove per ottenere l'iscrizione i laureati in chimica e tecnologia farmaceutiche, in farmacia, chimica, scienze biologiche, scienze naturali, medicina e chirurgia, medicina veterinaria, scienze agrarie, scienze delle preparazioni alimentari, scienza della produzione animale, i quali debbono essere in possesso - almeno all'inizio del corso, qualora prescritta - dell'abilitazione all'esercizio professionale.   
+Art. 716. - La scuola comprende tre aree di insegnamento e tirocinio professionale:   
+a) propedeutica;   
+b) sperimentale;   
+c) tecnico-applicativa.   
+Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:   
+a) Area propedeutica:   
+biologia molecolare;   
+biologia e farmacologia cellulare;   
+chimica farmaceutica e tossicologica molecolare I;   
+biometria e statistica;   
+farmacologia e farmacognosia I;   
+tossicologia sperimentale I;   
+disegno degli esperimenti;   
+cancerogenesi, mutagenesi e teratogenesi I.   
+b) Area sperimentale:   
+immunologia e immunochimica;   
+microbiologia ed igiene;   
+anatomia ed istopatologia degli stati tossici;   
+metodiche analitiche chimico-fisiche e chimico-cliniche;   
+farmacologia e farmacognosia II;   
+cinetica e metabolismo in tossicologia;   
+tossicologia sperimentale II;   
+tossicologia sperimentale III;   
+cancerogenesi, mutagenesi e teratogenesi II;   
+tossicologia da abuso da farmaci.   
+c) tecnico-applicativa:   
+chimica farmaceutica e tossicologica molecolare II;   
+epidemiologia;   
+patologia comparata;   
+tossicologia dell'ambiente e misure di prevenzione;   
+tossicologia nutrizionale;   
+legislazione;   
+organizzazione di laboratori e centri di tossicologia.   
+Art. 717. - L'attivita' didattica comprende ogni anno ottocento ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in una attivita' didattica teorico-pratica comune per tutti gli studenti (quattrocento ore come di seguito ripartite) ed in una attivita' didattica elettiva, prevalentemente di carattere tecnico-applicativo di ulteriori quattrocento ore, rivolte all'approfondimento del curriculum di studi professionali.   
+La frequenza nelle varie aree avviene pertanto come di seguito specificato:   
   
-Art. 19. - E' sostituito dal seguente:  
-"Nessun anno del corso per la laurea in giurisprudenza e' valido se lo studente non abbia preso iscrizione almeno a quattro insegnamenti e non li abbia regolarmente frequentati.  
-Non possono essere sostenuti:  
-Gli esami di diritto del lavoro, diritto civile, diritto commerciale e diritto agrario, se prima non sia stato superato l'esame di istituzioni di diritto privato; gli esami di storia del diritto italiano, diritto romano e papirologia giuridica se prima non siano stati superati gli esami di: istituzioni di diritto romano e storia del diritto romano.  
-Gli esami di diritto del lavoro, diritto internazionale e diritto amministrativo se prima non sia stato superato l'esame di diritto costituzionale; l'esame di scienza delle finanze e diritto finanziario se prima non sia stato superato l'esame di economia politica).  
-L'esame di diritto ecclesiastico se prima non siano stati superati gli esami di "istituzioni di diritto privato" e di "diritto costituzionale".  
   
-Art. 22. - Nel primo capoverso dopo le parole "si riferisce" viene aggiunto: "e di due tesine orali su temi appartenenti a gruppi di materie diverse da quelle della dissertazione scritta, temi assegnati da professori titolari di materie facenti parte dei gruppi prescelti".  
-L'ultimo comma e' sostituito dal seguente: "La dissertazione puo' riguardare qualunque insegnamento della Facolta' esclusi quelli di medicina legale e delle assicurazioni, di esegesi delle fonti del diritto romano, di esegesi delle fonti del diritto italiano e di papirologia giuridica".  
   
-Art. 26. - L'ultimo periodo del secondo comma e' cosi' sostituito: "Il prestito dei libri e' disciplinato dal regolamento interno dell'Istituto".  
-L'art. 30. - E' sostituito dal seguente: "L'Istituto e' retto da un direttore eletto a maggioranza assoluta di voti dalla Facolta' di giurisprudenza fra i professori ordinari delle materie indicate nell'art. 31, da un consigliere nominato nello stesso modo, dal preside della Facolta' e dal professore ordinario preposto alla sezione di pratica amministrativa, ove non faccia parte del consiglio per altro titolo. Alle adunanze del Consiglio puo' essere invitato dal direttore il presidente del Consiglio dell'Ordine degli avvocati e procuratori di Bologna, che avra' voto consultivo. Nel caso di parita', di voti prevale il voto di chi presiedera' il Consiglio.  
-Il direttore e il Consiglio elettivo durano in carica un triennio e possono essere confermati".  
+1° Anno:  
+Propedeutica (ore 220):  
+biologia molecolare. . . . . . . . . . . . . . . . . . . . . . ore 30 biologia e farmacologia cellulare. . . . . . . . . . . . . . . ore 30
+
+((chimica farmaceutica e tossicologica molecolare I))
+
+. . . . .ore 40 biometria e statistica . . . . . . . . . . . . . . . . . . . . ore 40 farmacologia e farmacognosia I . . . . . . . . . . . . . . . . ore 40
+
+((tossicologia sperimentale I))
+
+. . . . . . . . . . . . . . . . ore 40 Sperimentale (ore 180):  
+immunologia ed immunochimica . . . . . . . . . . . . . . . . . ore 60 microbiologia ed igiene. . . . . . . . . . . . . . . . . . . . ore 60 anatomia ed istopatologia degli stati tossici. . . . . . . . . ore 60 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
   
-Art. 32. - L'elenco delle discipline e' sostituito dal seguente:  
-"Diritto del lavoro;  
-Diritto tributario;  
-Amministrazione aziendale;  
-Procedimenti amministrativi speciali;  
-Ordinamento della proprieta' fondiaria;  
-Arte notarile;  
-Altre eventuali materie.  
-L'art. 34 e' sostituito dal seguente: "La tassa annuale di iscrizione e' di L. 300".  
   
-Art. 39. - Viene sostituito dal seguente:  
-"Non possono essere sostenuti:  
-l'esame di Statistica 1° anno senza avere prima superato quello di Matematica generale;  
-l'esame di Economia 1° anno senza avere prima superato quello di Statistica 1° anno;  
-l'esame di Scienza delle finanze e diritto finanziario senza avere prima superato gli esami di Economia politica 1° e 20 anno;  
-l'esame di Politica economica e finanziaria senza avere prima superato quello di Scienza delle finanze e diritto finanziario;  
-l'esame di Tecnica industriale e commerciale e quello di Tecnica bancaria professionale senza avere prima superato gli esami di Ragioneria generale ed applicata; - l'esame di Tecnica bancaria professionale senza avere prima superato quello di Tecnica industriale e commerciale;  
-l'esame di Diritto commerciale senza avere prima superato quello di Diritto privato;  
-l'esame di Diritto del lavoro senza avere prima superato quelli di Istituzioni di diritto privato e di Istituzioni di diritto pubblico;  
-gli esami di Matematica finanziaria senza avere prima superato quello di Matematica generale".  
   
-Art. 43. - Sono soppressi i seguenti insegnamenti complementari cc Lingue e letterature semitiche dell'A.O.I.", "Lingue non semitiche dell'A.O.I.", "Storia del fascismo", "Lingua serbo-croata".  
-Vengono aggiunti i seguenti nuovi insegnamenti complementari:  
-"Antichita' greco-romane;  
-Storia della letteratura latina medioevale:  
-Lingua e letteratura portoghese;  
-Lingua e letteratura rumena;  
-Storia della Chiesa;  
-Etnologia".  
-L'art. 45 e' sostituito dal seguente: "Le esercitazioni linguistiche per gli insegnamenti di letteratura italiana, latina, greca e di letterature straniere e moderne sono affidate ai lettori".  
+2° Anno:  
+Propedeutica (
+
+((ore 70))
+
+):  
+disegno degli esperimenti. . . . . . . . . . . . . . . . . . . ore 30 cancerogenesi, mutagenesi e teratogenesi I . . . . . . . . . . ore 40 Sperimentale (ore 190):  
+
+((metodiche analitiche chimico-fisiche e chimico-cliniche))
+
+. .ore 50 farmacologia e farmacognosia II. . . . . . . . . . . . . . . . ore 40 cinetica e metabolismo in tossicologia . . . . . . . . . . . . ore 40 tossicologia sperimentale II . . . . . . . . . . . . . . . . . ore 60 Tecnico-applicativa (ore 140):  
+chimica farmaceutica e tossicologica molecolare II . . . . . . ore 30 epidemiologia. . . . . . . . . . . . . . . . . . . . . . . . . ore 30 patologia comparata. . . . . . . . . . . . . . . . . . . . . ore
+
+((40))
+
   
-Art. 49. - Al terzo comma le parole "in doppio esemplare" sono sostituite con "in triplo esemplare".  
+tossicologia dell'ambiente e misure di prevenzione . . . . . . ore 40 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
   
-Art. 53. - Nel primo comma le parole "possono essere obbligati" sono sostituite con "sono obbligati".  
+3° Anno:   
+Sperimentale (ore 230):   
+tossicologia sperimentale III. . . . . . . . . . . . . . . . . ore 80 cancerogenesi, mutagenesi e teratogenesi II. . . . . . . . . . ore 80 tossicologia da abuso di farmaci . . . . . . . . . . . . . . . ore 70 Tecnico-applicativa (ore 170):   
+tossicologia nutrizionale. . . . . . . . . . . . . . . . . . . ore 70 legislazione . . . . . . . . . . . . . . . . . . . . . . . . . ore 50 organizzazione di laboratori e centri di tossicologia. . . . . ore 50 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
   
-Art. 63. - Sono aggiunti i seguenti nuovi insegnamenti complementari: "Matematiche elementari dal punto di vista superiore", "Matematiche superiori" e "Calcoli numerici e grafici".  
-  
-Art. 64. - Vengono aggiunti i seguenti nuovi insegnamenti complementari: "Fisica terrestre", "Elettrologia", "Radioattivita'".  
-  
-Art. 65. - Sono aggiunti i seguenti nuovi insegnamenti complementari: "Meccanica superiore", "Matematiche superiori", "Matematiche elementari dal punto di vista superiore", "Fisica terrestre", "Calcoli numerici e grafici".  
-  
-Art. 66. - Dopo l'elenco degli insegnamenti complementari e precisamente dopo l'insegnamento n. 14 "Storia della chimica)) sono inseriti i seguenti nuovi comma.  
-"Dato il carattere di propedeuticita' del primo anno dei corsi biennali di Chimica generale ed inorganica, di Chimica organica, di Istituzioni di matematiche, di Esercitazioni di matematiche rispetto alla materia dei secondi anni dei diversi corsi biennali stessi (tanto che i due anni di questi corsi biennali debbono avere un carattere a se' distinto) lo studente dovra' sostenere un esame di chimica generale inorganica (Iª parte), uno di chimica organica (Iª parte), uno di istituzioni di matematiche (Iª parte), uno di esercitazioni di matematiche (1° parte) prima di sostenere gli esami delle rispettive seconde parti di queste materie biennali.  
-Le due parti di questi corsi biennali dovranno essere coordinate fra di loro nei riguardi del carattere di propedeuticita' sopra indicato anche se le due parti di ciascuno di questi corsi saranno tenute da insegnanti diversi.  
-Le due parti del corso di esercitazioni di Chimica fisica per il triennio di studi di applicazione comportano due esami distinti.  
-Le esercitazioni di preparazioni chimiche (materia fondamentale per il triennio degli studi di applicazione) e le esercitazioni di analisi chimica applicata pure fondamentali per il triennio costituiscono due materie distinte insegnate in due corsi distinti.  
-Lo studente puo' scegliere o l'uno o l'altro di questi due corsi fondamentali ma non ambedue. Gli esami ed i relativi verbali saranno percio' distinti.  
-Onde non confondere le preparazioni chimiche fondamentali del triennio dalle esercitazioni di preparazioni chimiche del biennio propedeutico (pure fondamentali) si indicheranno nell'ordine degli studi, nei verbali d'esame e negli altri documenti questi due corsi come segue:  
-a) esercitazioni di preparazioni chimiche (biennio propedeutico);  
-b) esercitazioni di preparazioni chimiche (triennio di applicazione).  
-Ai predetti nuovi comma seguono poi quelli gia' esistenti e di cui il primo inizia con le parole "I tre insegnamenti ecc.".  
-  
-Art. 67. - Vengono aggiunti i seguenti nuovi insegnamenti complementari: "Genetica", "Fisiologia vegetale", "Geochimica), "Fisica terrestre e climatologia)).  
-Dopo l'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo comma: "Il corso biennale di botanica importa due esami distinti rispettivamente alla fine del lo e del 2° anno di corso".  
-  
-Art. 68. - Sono aggiunti i seguenti nuovi insegnamenti complementari: "Fisiologia vegetale", "Genetica" e "Microbiologia".  
-Dopo l'elenco degli insegnamenti complementari viene aggiunto il seguente nuova comma: "Il corso biennale di Botanica importa due esami distinti rispettivamente alla fine del 1 e del 2° anno di corso".  
-  
-Art. 71. - E' soppresso.  
-  
-Art. 73. - E' soppresso.  
-Attuale art. 75.- Dopo il quarto comma che termina con le parole "la laurea in scienze matematiche" sono inseriti i seguenti nuovi comma:  
-"Il 1° corso dei corsi biennali (Fondamentali) di "chimica generale", "chimica organica", "istituzioni di matematiche", "esercitazioni di matematiche", del biennio propedeutico per la laurea in chimica industriale, ha carattere propedeutico rispetto alla materia del 2° anno, e pertanto i due anni di questi corsi biennali devono avere un carattere a se' distinto. Di conseguenza lo studente dovra' sostenere un esame di chimica la parte e di esercitazioni di matematiche parte Iª prima di sostenere le relative seconde parti di queste materie biennali. Le due parti di tali corsi biennali, dovranno essere dalla Facolta' coordinate, nei riguardi del carattere di propedeuticita' sopra specificato, anche se le due parti della materia sono dettate da (docenti diversi.  
-Lo stesso principio vale per le seguenti materie biennali fondamentali del triennio di applicazione: "Chimica industriale", "Esercitazioni di chimica industriale", "Impianti chimici", "Esercitazioni di chimica fisica". Eppero' le due parti sono insegnate in corsi distinti, dei quali la la parte e' da considerare propedeutica a tutti gli effetti. I programmi delle due parti di tali corsi biennali dovranno essere coordinati dalla Facolta' nei riguardi della propedeuticita' e anche se dette due parti sono tenute da insegnanti diversi. Di conseguenza anche gli esami devono essere sostenuti separatamente e quello della Iª parte deve precedere quello della seconda e distinti devono essere i relativi verbali.  
-Il comma che inizia con le parole "All'atto dell'iscrizione ecc." e' sostituito con il seguente: "All'atto dell'iscrizione al primo anno del biennio di applicazione lo studente deve sottoporre all'approvazione della Facolta' l'elenco degli insegnamenti complementari prescelti; la Facolta' potra' delegare il preside a rendere esecutiva la scelta delle materie complementari. Detta scelta e' impegnativa. In casi speciali pero' la Facolta' puo' valutare la equipollenza di materie diverse da quelle scelte, qualora l'allievo ne faccia richiesta con motivata domanda".  
-  
-Attuale art. 76. - E' soppresso.  
-  
-Attuale art. 80. - E' sostituito dal seguente: "L'esame di laurea in chimica industriale comprende le seguenti prove:  
-1) una analisi qualitativa di almeno 5 cationi e 5 milioni;  
-2) una analisi a tipo industriale;  
-3) tre saggi diversi da scegliersi dal candidato fra i seguenti:  
-a) una preparazione di una sostanza colorante, o di un prodotto intermedio;  
-b) un saggio metallografico;  
-c) una analisi di un prodotto inerente alla tecnologia degli zuccheri o prodotti di fermentazione;  
-d) una analisi o determinazione chimico-fisica;  
-e) una preparazione elettrochimica.  
-(Le diverse prove di cui ai numeri 1, 2, 3, sulle quali il candidato deve riferire per iscritto, sono tenute negli Istituti dei rispettivi insegnamenti, e sono eseguiti sotto la direzione del direttore dell'istituto che valuta le prove e ne riferisce alla Commissione di laurea);  
-4) un colloquio di cultura generale in chimica.  
-Detto colloquio precedera' la prova di cui al seguente n. 5, e qualora esso risulti insufficiente il candidato non potra' essere ammesso alla discussione della tesi.  
-Il colloquio stesso viene sostenuto davanti a una Giunta della Commissione di laurea nominata dal preside" 5) discussione di una dissertazione scritta, preferibilmente su argomento di carattere sperimentale.  
-Il candidato deve presentare in Segreteria una tesi che tratti delle ricerche eseguite su una delle materie di insegnamento della Facolta', eseguita sotto la direzione del direttore di Istituto della Facolta' stessa. Si proposta del direttore dell'istituto interessato, i laureandi - per eseguire le ricerche inerenti alla loro tesi di laurea - potranno essere spostati anche in un Istituto o Laboratorio scientifico tecnico o industriale.  
-  
-Attuale art. 81. - Viene aggiunto il seguente nuovo comma, "Il Consiglio della Facolta' di chimica industriale si compone del preside che lo presiede, dei professori di ruolo risultanti dal ruolo della Facolta' di cui alla tabella B del [testo unico del 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592) e successive modificazioni, e dai professori di ruolo di altre Facolta' i quali impartiscono insegnamenti di cui comunque si usufruisca nell'ultimo triennio del corso di studi per la laurea in chimica industriale e da un professore di ruolo della Facolta' di scienze matematiche, fisiche e naturali designato dalla Facolta' stessa".  
-  
-Attuale art. 94. - Dopo l'elenco degli insegnamenti fondamentali a tutte le Sezioni e' aggiunto il seguente comma: "Il corso biennale di architettura, tecnica importa due esami distinti".  
-  
-Attuale art. 95. - E' sostituito dal seguente: "La Facolta' annualmente determinera' con apposito manifesto il piano di studi consigliato per le singole lauree.  
-Gli studenti che desiderano seguire un piano di studi comprendente corsi complementari diversi da quelli consigliati dalla Facolta' dovranno presentare motivata domanda entro il 31 dicembre per l'approvazione della Facolta'.  
-In ogni caso debbono essere osservate le seguenti norme:  
-l'iscrizione e l'esame di fisica tecnica debbono rispettivamente precedere la iscrizione e l'esame di macchine;  
-l'iscrizione e l'esame di meccanica applicata alle macchine debbono precedere rispettivamente le iscrizioni e gli esami di macchine, costruzioni di macchine, disegno di macchine e progetti, tecnologie generali, tecnologie speciali.  
-L'iscrizione e l'esame di scienza delle costruzioni debbono rispettivamente precedere le iscrizioni e gli esami di: costruzioni in legno, ferro, cemento armato, costruzione di ponti, costruzione di macchine, costruzioni idrauliche, impianti speciali idraulici, costruzioni stradali e ferroviarie, tecnologie generali, architettura tecnica seconda parte, costruzione di macchine elettriche.  
-L'iscrizione e l'esame di idraulica debbono rispettivamente precedere la iscrizione e l'esame di costruzioni idrauliche e di impianti speciali idraulici.  
-L'iscrizione e l'esame di costruzione di macchine debbono rispettivamente precedere l'iscrizione e l'esame di costruzioni aeronautiche e di impianti industriali meccanici.  
-L'iscrizione e l'esame di macchine debbono rispettivamente precedere l'iscrizione e l'esame di impianti industriali meccanici.  
-L'iscrizione e l'esame di elettrotecnica debbono rispettivamente precedere le iscrizioni e gli esami di misure elettriche, impianti industriali elettrici, costruzioni di macchine elettriche, comunicazioni elettriche radiotecnica, trazione elettrica, geofisica mineraria, tecnica ed economia dei trasporti.  
-L'iscrizione e l'esame di topografia con elementi di geodesia debbono precedere l'iscrizione e l'esame di costruzioni stradali e ferroviarie e geofisica mineraria.  
-L'iscrizione e l'esame di chimica organica debbono precedere rispettivamente l'iscrizione e l'esame di chimica fisica, chimica industriale, impianti industriali chimici.  
-L'iscrizione e l'esame di chimica applicata devono precedere rispettivamente l'iscrizione e l'esame di impianti industriali chimici.  
-L'iscrizione e gli esami di petrografia e geologia debbono rispettivamente precedere l'iscrizione e l'esame di arte mineraria, giacimenti minerali, geofisica mineraria".  
-  
-Attuale art. 96. - E' sostituito dal seguente: "L'esame di laurea consiste nella discussione o di un progetto o di una ricerca tecnica svolti dal candidato.  
-La discussione di laurea deve essere preceduta da una prova di cultura generale tecnica sostenuta dal candidato con esito favorevole.  
-Le modalita' per la scelta e lo svolgimento del progetto o della ricerca vengono fissate dal Consiglio di Facolta'.  
-La Commissione di laurea esaminato il progetto o la relazione della ricerca presentata dal candidato, delibera sulla ammissibilita', alla discussione orale".  
-  
-Attuale art. 136. - E' sostituito dal seguente:  
-"Nella Facolta' di lettere e filosofia sono costituite le scuole di perfezionamento in:  
-Filologia moderna;  
-Filologia classica;  
-Biblioteconomia e archivistica;  
-Storia antica, medioevale e moderna;  
-Storia dell'arte medioevale e moderna;  
-Geografia".  
-  
-Attuale art. 137. - E' sostituto dal seguente: "Il corso di studi delle suddette Scuole di perfezionamento dura due anni accademici e da' adito al rilascio di un diploma di perfezionamento".  
-  
-Attuale art. 138. - E' sostituito dal seguente: "Per gli iscritti alle Scuole di perfezionamento le tasse sono fissate nella misura seguente:  
-Tassa annua iscrizione................................... L. 10 00  
-Sopratassa annua per esami............................... " 2 00  
-Tassa di diploma......................................... " 4 00  
-  
-oltre ai contributi di laboratorio che saranno determinati dalle 'Facolta' e dal Consiglio di amministrazione per gli insegnamenti che debbono essere completati dalle esercitazioni".  
-  
-Attuale art. 139. - Dopo il 10 capoverso il testo dell'articolo e' cosi' sostituito: "La Scuola di perfezionamento in filologia moderna comprende insegnamenti fondamentali e complementari.  
-Sono insegnamenti fondamentali:  
-Letteratura, italiana (con esercitazioni);  
-Lingua e letteratura tedesca (con esercitazioni);  
-Lingua e letteratura francese (con esercitazioni)  
-Lingua e letteratura inglese (con esercitazioni);  
-Lingua e letteratura spagnola (con esercitazioni);  
-Lingua e letteratura ungherese (con esercitazioni);  
-Filologia romanza (con esercitazioni);  
-Glottologia (con esercitazioni).  
-Sono insegnamenti complementari:  
-Storia della lingua italiana;  
-Filologia germanica;  
-Filologia slava;  
-Storia medioevale;  
-Storia moderna;  
-Storia del risorgimento  
-Storia della filosofia;  
-Paleografia e diplomatica".  
-  
-Attuale art. 140. - E' sostituito dal seguente: "Per conseguire il diploma di perfezionamento in filologia moderna, lo studente che abbia scelto come insegnamento fondamentale una delle lingue e letterature moderne, dovra' sostenere:  
-a) esami biennali di profitto oltre che nell'insegnamento fondamentale in cui intende perfezionarsi, in altri due insegnamenti scelti fra i fondamentali e i complementari della scuola, con l'approvazione del Consiglio dei professori della scuola;  
-b) una prova scritta di composizione nella lingua che e' oggetto dello studio fondamentale, su argomento letterario, senza uso del vocabolario;  
-c) presentare e discutere una dissertazione scritta, avente carattere di originalita', su tema assegnato dal professore della materia.  
-Il terzo esame biennale puo' essere sostituto da due esami annuali sui due materie distinte, col consenso dell'insegnamento della materia scelta per il perfezionamento".  
-  
-Attuali articoli 143 - 145. - Sono sostituiti dai seguenti:  
-  
-Art. 143. - Alla Scuola di perfezionamento in biblioteconomia e archivistica possono essere iscritti i laureati in lettere, in filosofia, in giurisprudenza e in materie letterarie presso le Facolta' di magistero.  
-  
-Art. 144. - Gli insegnamenti fondamentali della Scuola sono:  
-Paleografia e diplomatica;  
-Biblioteconomia e bibliografia;  
-Archivistica.  
-Sono insegnamenti complementari:  
-Patologia del libro;  
-Arte applicata al libro;  
-Storia medioevale;  
-Storia moderna;  
-Storia romana;  
-Filologia romanza;  
-Storia del diritto italiano.  
-Un insegnamento romanistico a scelta, per i laureati in lettere, in filosofia, in materie letterarie.  
-Un insegnamento filologico a scelta, per i laureati in giurisprudenza.  
-Art. 145. - Per conseguire il diploma gli iscritti alla Scuola devono:  
-a) superare gli esami biennali di profitto di paleografia e diplomatica e di un altro degli insegnamenti fondamentali della Scuola;  
-b) superare due esami annuali o un terzo esame biennale su insegnamenti scelti fra i fondamentali o i complementari della, Scuola con l'approvazione del Consiglio dei professori della Scuola medesima;  
-c) presentare e discutere una dissertazione scritta, avente carattere di originalita', su tema assegnato dal professore di uno degli insegnamenti fondamentali.  
-Coloro che siano in possesso del certificato di frequenza ed esame rilasciato dal corso di perfezionamento in biblioteconomia ed archivistica ordinato secondo gli articoli 142 e seguenti dello statuto universitario approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e successive modificazioni, possono essere ammessi al secondo anno della Scuola, previo giudizio favorevole del Consiglio dei professori.  
-Essi saranno tenuti a sostenere le prove di cui ai comma b) e c)".  
-Dopo l'attuale art. 145. - Sono inseriti modificando di conseguenza la successiva numerazione, i seguenti nuovi articoli relativi all'istituzione delle Scuole di perfezionamento in "Storia antica medioevale e moderna", "Storia dell'arte medioevale e moderna, "Geografia".  
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella. Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Dato a Roma, addi' 4 ottobre 1986
+
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
+
+Visto, il Guardasigilli: ROGNONI
+
+Registrato alla Corte dei conti, addi' 3 febbraio 1987
+
+Registro n. 6 Istruzione, foglio n. 141

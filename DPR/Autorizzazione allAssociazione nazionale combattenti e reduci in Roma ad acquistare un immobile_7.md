@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1984 n. 107
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 166
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1984 n. 107
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 166
+===============================================================
 
 Autorizzazione all'Associazione nazionale combattenti e reduci, in Roma, ad acquistare un immobile.
 ---------------------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione all'Associazione nazionale combattenti e reduci, in Roma, ad acqu
 Art. 1
 ------
 
-N.
+n.
 
-107. Decreto del Presidente della Repubblica 20 marzo 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci, in Roma, viene autorizzata ad acquistare, al prezzo di L. 30.000.000, un locale di mq 80, sito in Pomezia, via Filippo Re, angolo via Vanone, non ancora censito al nuovo catasto edilizio urbano ma eretto su area distinta al nuovo catasto terreni al foglio 11, mappale 329, di proprieta' del sig. Renato De Paulis, da adibire a sede della sezione combattenti e reduci di Pomezia.  
+166. Decreto del Presidente della Repubblica 10 febbraio 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci, in Roma, viene autorizzata ad acquistare, al prezzo di L. 17.000.000 elevato dall'ufficio tecnico erariale di Udine a L. 27.000.000, un appartamento con garage, sito in Pavia di Udine, frazione Percoto, censito al nuovo catasto edilizio urbano alla partita n. 713, foglio n. 37, particella n. 640 sub 8, foglio n. 37, particella n. 640 sub 35, di proprieta' del sig. Damiano Pierino, come da promessa di vendita condizionata in data 25 maggio 1977, da adibire a sede sociale.  
   
 Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 27 aprile 1984  
-Registro n. 4 Presidenza, foglio n. 71
+Registrato alla Corte dei conti, addi' 22 aprile 1986  
+Registro n. 4 Presidenza, foglio n. 50

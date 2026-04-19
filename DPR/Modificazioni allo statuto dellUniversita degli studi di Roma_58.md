@@ -1,87 +1,321 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1971 n. 1339
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1963 n. 2386
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1971 n. 1339
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1963 n. 2386
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 24 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-24;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 9 febbraio 1963, n. 153](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-09;153);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuito dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Gli articoli da 156 a 167 - relativi alla Scuola speciale per archivisti e bibliotecari - sono abrogati e sostituiti dai seguenti con il conseguente spostamento della successiva numerazione.
+
+Scuola speciale per archivisti e bibliotecari
+
+Art. 156. - La Scuola speciale per archivisti e bibliotecari ha il fine di promuovere l'incremento scientifico delle discipline archivistiche e bibliografiche e di curare la preparazione tecnica e professionale necessaria per il governo degli archivi e delle biblioteche.
+
+La Scuola comprende le seguenti sezioni:
+
+a) archivisti
+
+b) conservatori di manoscritti;
+
+c) bibliotecari.
+
+Art. 157. - Possono iscriversi alla Scuola i laureati in Lettere, in Filosofia, in Giurisprudenza, in Scienze politiche, in Materie letterarie, in Pedagogia e in Lingue e letterature straniere, nonche' gli studenti dei medesimi corsi di laurea che abbiano superati gli esami prescritti o consigliati negli ordini di studio delle rispettive Facolta' per il primo biennio.
+
+Coloro che non siano in possesso del diploma di maturita' classica dovranno previamente sostenere una> prova che attesti la loro
+
+conoscenza della lingua greca.
+
+Art. 158. - Agli iscritti alla Scuola si applicano, per quanto concerne le tasse e le soprattasse, le disposizioni vigenti per gli studenti della Facolta'.
+
+Art. 159. - I corsi della Scuola, distinti secondo le sezioni di cui all'art. 156, capoverso, hanno la durata di un biennio e danno adito rispettivamente al conseguimento del diploma di:
+
+a) archivista paleografo;
+
+b) conservatore di manoscritti;
+
+c) bibliotecario.
+
+All'atto dell'iscrizione gli allievi devono dichiarare la sezione prescelta e presentare il proprio piano di studio per gli scopi di cui all'art. 165.
+
+Art. 160. - Sono insegnamenti costitutivi della Scuola ai sensi della [legge 9 febbraio 1963, n. 153](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-09;153), quelli fondamentali delle singole sezioni e i rispettivi complementari secondo l'elenco dei successivi articoli 161-163.
+
+Art. 161. - Sono insegnamenti della sezione archivisti:
+
+a) Fondamentali:
+
+1) Archivistica generale e legislazione degli archivi;
+
+2) Archivistica speciale e storia degli archivi
+
+3) Paleografia latina (biennale);
+
+4) Diplomatica (biennale)
+
+5) Storia degli ordinamenti degli Stati italiani;
+
+b) Complementari
+
+1) Istituzioni giuridiche medievali
+
+2) Istituzioni giuridiche dell'eta' moderna;
+
+3) Esegesi delle fonti del diritto italiano;
+
+4) Storia dell'amministrazione dello Stato italiano;
+
+5) Storia medioevale;
+
+6) Scienze ausiliari della storia
+
+7) Esegesi delle fonti della storia d'Italia;
+
+8) Storia moderna;
+
+9) Storia del Risorgimento.
+
+Art. 162. - Sono insegnamenti della sezione conservatori di manoscritti:
+
+a) Fondamentali:
+
+1) Paleografia latina (biennale);
+
+2) Paleografia greca;
+
+3) Biblioteconomia
+
+4) Bibliologia e storia delle biblioteche (biennale);
+
+5) Storia della decorazione del manoscritto;
+
+b) Complementari:
+
+1) Bibliografia;
+
+2) Latino medioevale
+
+3) Codicologia;
+
+4) Storia della tradizione manoscritta;
+
+5) Paleografia musicale;
+
+6) Filologia romanza;
+
+7) Filologia e storia bizantina;
+
+8) Archeologia medievale.
+
+Art. 163. - Sono insegnamenti della sezione bibliotecari:
+
+a) Fondamentali:
+
+1) Paleografia latina;
+
+2) Biblioteconomia;
+
+3) Tecnica dei cataloghi e classificazione;
+
+4) Bibliologia e storia delle biblioteche;
+
+5) Bibliografia (biennale).
+
+b) Complementari:
+
+1) Applicazioni tecniche agli archivi e alle biblioteche;
+
+2) Documentazione
+
+3) Storia della decorazione del libro a stampa;
+
+4) Lingua e letteratura francese;
+
+5) Lingua e letteratura tedesca;
+
+6) Lingua e letteratura spagnola;
+
+7) Lingua e letteratura inglese;
+
+8) Lingua e letteratura russa.
+
+Art. 164. - L'esame di diploma consiste nella presentazione e discussione orale di una dissertazione scritta su tema che riguardi uno degli insegnamenti fondamentali della sezione prescelta dal candidato, da concordare col professore della materia.
+
+Il preside, sentito, se del caso, il Consiglio della scuola, puo' consentire che la dissertazione verta anche su un tema attinente ad uno degli insegnamenti complementari.
+
+Art. 165. - Per essere ammessi a sostenere l'esame di diploma, gli allievi devono aver seguiti i corsi e superati gli esami negli insegnamenti fondamentali e in almeno tre dei complementari della sezione prescelta e dei complementari o fondamentali di altra sezione secondo il piano di studio individuale che sara' stabilito dal Consiglio della scuola sulla base di quello presentato dall'allievo a norma del precedente art. 159, comma ultimo. Uno o due degli insegnamenti complementari potranno essere sostituiti con un secondo anno di uno o due degli insegnamenti fondamentali previsti come annuali.
+
+Gli allievi dovranno inoltre aver sostenuto, con esito positivo, uno o piu' colloqui su discipline formanti oggetto di insegnamento in altre Facolta' o Scuole della Universita' di Roma, secondo le prescrizioni che verranno fatte a ciascuno dal Consiglio stesso all'atto dell'approvazione del piano di studi.
+
+Nell'approvazione dei piani di studio e nella prescrizione dei colloqui il Consiglio terra' conto della Facolta' di provenienza di ciascun allievo e degli esami superati nel biennio precedente all'iscrizione alla Scuola.
+
+Art. 166. - L'esame biennale di paleografia latina comprende una prova scritta preliminare, consistente:
+
+a) per gli aspiranti al diploma di conservatore di manoscritti nella descrizione di un codice e nella trascrizione con illustrazione critica di uno o piu' passi di esso;
+
+b) per gli aspiranti al diploma di archivisti nella, trascrizione con illustrazione critica e regesto di uno o piu' documenti.
+
+Per gli aspiranti al diploma di bibliotecario l'esame di tecnica dei cataloghi e classificazione comprende una, prova pratica preliminare di catalogazione per autore per soggetto.
+
+Art. 167. - Su domanda documentata e su conforme parere del Consiglio della Scuola, agli allievi provvisti di laurea puo' essere concessa l'abbreviazione di un anno di corso.
+
+In tal caso gli insegnamenti previsti come biennali dall'art. 161 saranno ridotti ad annuali, fermo restando l'obbligo della prova scritta prevista dall'articolo precedente.
+
+Il Consiglio decidera' altresi' caso per caso, tenuto conto degli studi compiuti da ciascuno degli allievi, l'eventuale dispensa dagli esami di uno o piu' insegnamenti complementari o la loro sostituzione con colloqui.
+
+Art. 168. - Per il raggiungimento dei suoi fini istituzionali la Scuola potra' organizzare altresi' corsi di addestramento e di aggiornamento per bibliotecari e archivisti delle Amministrazioni pubbliche e private in accordo con dette Amministrazioni.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Sassari, addi' 31 dicembre 1963
+
+SEGNI
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 21 marzo 1964 Atti del Governo, registro n. 182, foglio n. 53. - VILLA
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 24 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-24;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 9 febbraio 1963, n. 153](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-09;153);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli 380, 383, 384 relativi alla scuola diretta a fini speciali di ricerca e di applicazione per la formazione di educatori di comunita' sono abrogati e sostituiti dai seguenti:   
-Art. 380. - La scuola ha un proprio comitato direttivo costituito:   
-a) dal direttore della scuola, che lo presiede;   
-b) da sei docenti della scuola, designati dal consiglio dei professori;   
-c) da sei membri designati dalle amministrazioni pubbliche o private interessate alla formazione degli educatori;   
-d) da un rappresentante dell'associazione professionale degli educatori;   
-e) da sei rappresentanti eletti dagli allievi, due per ciascun corso;   
-f) da un rappresentante dell'amministrazione regionale. Fa parte del comitato direttivo anche il direttore dei corsi nominato a norma dell'art. 380, quarto comma, lettera a).   
-Il comitato direttivo:   
-a) ratifica la designazione del vice-direttore; nomina il direttore dei corsi, su proposta del direttore della scuola; ratifica le proposte di conferimento degli incarichi di docenza e di monitorato effettuato dal direttore della scuola, sentito il consiglio dei professori;   
-b) delibera il bilancio della scuola;   
-c) approva il regolamento delle scuole e le sue modificazioni, sentito il consiglio dei professori.   
-Art. 383. - La scuola si articola in corsi di formazione della durata di due anni ed in successivo corso di qualificazione della durata di un anno per educatori gia' in possesso del diploma di educatore di comunita'. La distribuzione degli insegnamenti tra i due anni di ciascun corso e' stabilita dal consiglio dei professori.   
-Possono essere ammessi al corso di formazione coloro che siano in possesso di un titolo di scuola secondaria di II grado.   
-L'ammissione e' subordinata ad una valutazione della idoneita' del candidato ad esercitare la professione ed a trarre profitto dalla formazione. Il limite numerico e' fissato dal comitato direttivo.   
-Agli studenti fuori corso puo' essere consentito il prolungamento dell'iscrizione per un periodo che non superi la durata del corso stesso.   
-Gli esami sostenuti nei corsi universitari per le materie d'insegnamento della scuola, possono essere convalidati.   
-Art. 384. - Gli insegnamenti della scuola hanno carattere teorico, tecnico e pratico.   
-Sono insegnamenti teorici dei corsi di formazione:   
-1) Deontologia professionale;   
-2) Elementi di sociologia;   
-3) Psicologia sociale con elementi di psicologia generale;   
-4) Psicologia dell'eta' evolutiva con elementi di psicologia dinamica;   
-5) Pedagogia (biennale);   
-6) Pedagogia speciale;   
-7) Lineamenti anatomo-fisiologici e fisiopatologici dello sviluppo ed elementi di igiene;   
-8) Elementi di psicopatologia e neuropsichiatria dell'eta' evolutiva;   
-9) Istituzioni di diritto pubblico e di diritto amministrativo speciale;   
-10) Legislazione minorile.   
-Sono insegnamenti tecnici e pratici dei corsi di formazione:   
-1) Tecniche educative ed organizzative di comunita' (biennale);   
-2) Studio dell'ambiente;   
-3) Attivita' di gruppo e seminari (biennale);   
-4) Tirocini professionali (biennale).   
-Sono insegnamenti teorici del corso di qualificazione:   
-1) Metodologia della ricerca ed elementi di statistica;   
-2) Pedagogia sperimentale;   
-3) Pedagogia speciale;   
-4) Sociologia dell'educazione;   
-5) Psicologia clinica;   
-6) Psicopatologia e neuropsichiatria dell'eta' evolutiva.   
-Sono insegnamenti tecnici e pratici del corso di qualificazione:   
-1) Organizzazione ed amministrazione dei servizi sociali;   
-2) Tecniche educative ed organizzazione delle comunita' speciali;  
-3) Attivita' di gruppo e seminari;   
-4) Tirocini professionali.   
+Lo statuito dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Gli articoli da 156 a 167 - relativi alla Scuola speciale per archivisti e bibliotecari - sono abrogati e sostituiti dai seguenti con il conseguente spostamento della successiva numerazione.  
+  
+Scuola speciale per archivisti e bibliotecari  
+  
+Art. 156. - La Scuola speciale per archivisti e bibliotecari ha il fine di promuovere l'incremento scientifico delle discipline archivistiche e bibliografiche e di curare la preparazione tecnica e professionale necessaria per il governo degli archivi e delle biblioteche.  
+La Scuola comprende le seguenti sezioni:  
+a) archivisti  
+b) conservatori di manoscritti;  
+c) bibliotecari.  
+Art. 157. - Possono iscriversi alla Scuola i laureati in Lettere, in Filosofia, in Giurisprudenza, in Scienze politiche, in Materie letterarie, in Pedagogia e in Lingue e letterature straniere, nonche' gli studenti dei medesimi corsi di laurea che abbiano superati gli esami prescritti o consigliati negli ordini di studio delle rispettive Facolta' per il primo biennio.  
+Coloro che non siano in possesso del diploma di maturita' classica dovranno previamente sostenere una> prova che attesti la loro  
+conoscenza della lingua greca.  
+Art. 158. - Agli iscritti alla Scuola si applicano, per quanto concerne le tasse e le soprattasse, le disposizioni vigenti per gli studenti della Facolta'.  
+Art. 159. - I corsi della Scuola, distinti secondo le sezioni di cui all'art. 156, capoverso, hanno la durata di un biennio e danno adito rispettivamente al conseguimento del diploma di:  
+a) archivista paleografo;  
+b) conservatore di manoscritti;  
+c) bibliotecario.  
+All'atto dell'iscrizione gli allievi devono dichiarare la sezione prescelta e presentare il proprio piano di studio per gli scopi di cui all'art. 165.  
+Art. 160. - Sono insegnamenti costitutivi della Scuola ai sensi della [legge 9 febbraio 1963, n. 153](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-09;153), quelli fondamentali delle singole sezioni e i rispettivi complementari secondo l'elenco dei successivi articoli 161-163.  
+Art. 161. - Sono insegnamenti della sezione archivisti:  
+a) Fondamentali:  
+1) Archivistica generale e legislazione degli archivi;  
+2) Archivistica speciale e storia degli archivi  
+3) Paleografia latina (biennale);  
+4) Diplomatica (biennale)  
+5) Storia degli ordinamenti degli Stati italiani;  
+b) Complementari  
+1) Istituzioni giuridiche medievali  
+2) Istituzioni giuridiche dell'eta' moderna;  
+3) Esegesi delle fonti del diritto italiano;  
+4) Storia dell'amministrazione dello Stato italiano;  
+5) Storia medioevale;  
+6) Scienze ausiliari della storia  
+7) Esegesi delle fonti della storia d'Italia;  
+8) Storia moderna;  
+9) Storia del Risorgimento.  
+Art. 162. - Sono insegnamenti della sezione conservatori di manoscritti:  
+a) Fondamentali:  
+1) Paleografia latina (biennale);  
+2) Paleografia greca;  
+3) Biblioteconomia  
+4) Bibliologia e storia delle biblioteche (biennale);  
+5) Storia della decorazione del manoscritto;  
+b) Complementari:  
+1) Bibliografia;  
+2) Latino medioevale  
+3) Codicologia;  
+4) Storia della tradizione manoscritta;  
+5) Paleografia musicale;  
+6) Filologia romanza;  
+7) Filologia e storia bizantina;  
+8) Archeologia medievale.  
+Art. 163. - Sono insegnamenti della sezione bibliotecari:  
+a) Fondamentali:  
+1) Paleografia latina;  
+2) Biblioteconomia;  
+3) Tecnica dei cataloghi e classificazione;  
+4) Bibliologia e storia delle biblioteche;  
+5) Bibliografia (biennale).  
+b) Complementari:  
+1) Applicazioni tecniche agli archivi e alle biblioteche;  
+2) Documentazione  
+3) Storia della decorazione del libro a stampa;  
+4) Lingua e letteratura francese;  
+5) Lingua e letteratura tedesca;  
+6) Lingua e letteratura spagnola;  
+7) Lingua e letteratura inglese;  
+8) Lingua e letteratura russa.  
+Art. 164. - L'esame di diploma consiste nella presentazione e discussione orale di una dissertazione scritta su tema che riguardi uno degli insegnamenti fondamentali della sezione prescelta dal candidato, da concordare col professore della materia.  
+Il preside, sentito, se del caso, il Consiglio della scuola, puo' consentire che la dissertazione verta anche su un tema attinente ad uno degli insegnamenti complementari.  
+Art. 165. - Per essere ammessi a sostenere l'esame di diploma, gli allievi devono aver seguiti i corsi e superati gli esami negli insegnamenti fondamentali e in almeno tre dei complementari della sezione prescelta e dei complementari o fondamentali di altra sezione secondo il piano di studio individuale che sara' stabilito dal Consiglio della scuola sulla base di quello presentato dall'allievo a norma del precedente art. 159, comma ultimo. Uno o due degli insegnamenti complementari potranno essere sostituiti con un secondo anno di uno o due degli insegnamenti fondamentali previsti come annuali.  
+Gli allievi dovranno inoltre aver sostenuto, con esito positivo, uno o piu' colloqui su discipline formanti oggetto di insegnamento in altre Facolta' o Scuole della Universita' di Roma, secondo le prescrizioni che verranno fatte a ciascuno dal Consiglio stesso all'atto dell'approvazione del piano di studi.  
+Nell'approvazione dei piani di studio e nella prescrizione dei colloqui il Consiglio terra' conto della Facolta' di provenienza di ciascun allievo e degli esami superati nel biennio precedente all'iscrizione alla Scuola.  
+Art. 166. - L'esame biennale di paleografia latina comprende una prova scritta preliminare, consistente:  
+a) per gli aspiranti al diploma di conservatore di manoscritti nella descrizione di un codice e nella trascrizione con illustrazione critica di uno o piu' passi di esso;  
+b) per gli aspiranti al diploma di archivisti nella, trascrizione con illustrazione critica e regesto di uno o piu' documenti.  
+Per gli aspiranti al diploma di bibliotecario l'esame di tecnica dei cataloghi e classificazione comprende una, prova pratica preliminare di catalogazione per autore per soggetto.  
+Art. 167. - Su domanda documentata e su conforme parere del Consiglio della Scuola, agli allievi provvisti di laurea puo' essere concessa l'abbreviazione di un anno di corso.  
+In tal caso gli insegnamenti previsti come biennali dall'art. 161 saranno ridotti ad annuali, fermo restando l'obbligo della prova scritta prevista dall'articolo precedente.  
+Il Consiglio decidera' altresi' caso per caso, tenuto conto degli studi compiuti da ciascuno degli allievi, l'eventuale dispensa dagli esami di uno o piu' insegnamenti complementari o la loro sostituzione con colloqui.  
+Art. 168. - Per il raggiungimento dei suoi fini istituzionali la Scuola potra' organizzare altresi' corsi di addestramento e di aggiornamento per bibliotecari e archivisti delle Amministrazioni pubbliche e private in accordo con dette Amministrazioni.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1971
+### Dato a Sassari, addi' 31 dicembre 1963
 
-SARAGAT MISASI
+SEGNI GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 22 febbraio 1972
+Registrato alla Corte dei conti, addi' 21 marzo 1964
 
-Atti del Governo, registro n. 247, foglio n. 29. - VALENTINI
+Atti del Governo, registro n. 182, foglio n. 53. - VILLA

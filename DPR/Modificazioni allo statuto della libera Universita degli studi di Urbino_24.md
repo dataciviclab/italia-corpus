@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1966 n. 504
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1981 n. 1080
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1966 n. 504
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1981 n. 1080
+==============================================================
 
 Modificazioni allo statuto della libera Universita' degli studi di Urbino.
 --------------------------------------------------------------------------
@@ -10,380 +10,343 @@ Modificazioni allo statuto della libera Universita' degli studi di Urbino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto della libera Universita' degli studi di Urbino, approvato con [regio decreto 8 febbraio 1925, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-08;230), e modificato con [regio decreto 31 ottobre 1929, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2475) e successive modificazioni;
+Veduto lo statuto dell'Universita' di Urbino, approvato con [regio decreto 8 febbraio 1925, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-08;230) e modificato con [regio decreto 31 ottobre 1929, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2475), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Urbino e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
 Lo statuto della libera Universita' degli studi di Urbino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Le disposizioni dell'art. 19 - relative alle propedeuticita' di esame del corso di laurea in Giurisprudenza - sono abrogate e sostituite dalle seguenti:
-
-Art. 19. - Lo studente non senza aver prima superato puo superare l'esame di: l'esame di:
-
-Diritto agrario Istituzioni di diritto
-
-privato;
-
-+----------------------------------+-------------------------------+
-
-|Art. 19. - Lo studente non | senza aver prima superato |
-
-| puo superare l'esame di: | l'esame di: |
-
-+----------------------------------+-------------------------------+
-
-| Diritto agrario | Istituzioni di diritto |
-
-| | privato; |
-
-+----------------------------------+-------------------------------+
-
-|Diritto amministrativo |Diritto costituzionale; |
-
-| | Istituzioni di diritto |
-
-| | privato; |
-
-+----------------------------------+-------------------------------+
-
-| | Istituzioni di diritto |
-
-| | privato; |
-
-| Diritto civile | |
-
-| | Istituzioni di diritto |
-
-| | romano; |
-
-+----------------------------------+-------------------------------+
-
-| Diritto commerciale | Istituzioni di diritto |
-
-| | privato; |
-
-+----------------------------------+-------------------------------+
-
-| | Istituzioni di diritto |
-
-| | romano; |
-
-| | Istituzioni di diritto |
-
-| | privato; |
-
-| | |
-
-| Diritto comune | Storia del diritto ro |
-
-| | mano; |
-
-| | Storia del diritto ita |
-
-| | liano; |
-
-+----------------------------------+-------------------------------+
-
-| | Diritto costituzionale; |
-
-| Diritto del lavoro | Istituzioni di diritto |
-
-| | privato; |
-
-+----------------------------------+-------------------------------+
-
-| | Diritto commerciale; |
-
-| Diritto della navigazio- | |
-
-| ne | Istituzioni di diritto |
-
-| | privato; |
-
-+----------------------------------+-------------------------------+
-
-| | Diritto costituzionale; |
-
-| Diritto ecclesiastico | Istituzioni di diritto |
-
-| | privato; |
-
-+----------------------------------+-------------------------------+
-
-| | Diritto commerciale; |
-
-| Diritto industriale | Istituzioni di diritto |
-
-| | privato; |
-
-+----------------------------------+-------------------------------+
-
-| | Istituzioni di diritto |
-
-| Diritto internazionale | privato; |
-
-| | Diritto costituzionale; |
-
-+----------------------------------+-------------------------------+
-
-| | Istituzioni di diritto |
-
-| | privato; |
-
-| Diritto processuale ci- | Diritto costituzionale; |
-
-| vile | |
-
-+----------------------------------+-------------------------------+
-
-| | Istituzioni di diritto |
-
-| | privato; |
-
-| Diritto romano | Istituzioni di diritto |
-
-| | romano; |
-
-| | Storia del diritto ro |
-
-| | mano; |
-
-+----------------------------------+-------------------------------+
-
-| | Storia del diritto ro |
-
-| Esegesi delle fonti del | mano; |
-
-| diritto romano | |
-
-| | Istituzioni di diritto |
-
-| | romano; |
-
-+----------------------------------+-------------------------------+
-
-| Scienza delle finanze e | Economia politica; |
-
-| diritto finanziario | |
-
-+----------------------------------+-------------------------------+
-
-| | Istituzioni di diritto |
-
-| | privato |
-
-| Storia del diritto ita- | Istituzioni di diritto |
-
-| liano | romano |
-
-| | Storia del diritto ro |
-
-| | mano; |
-
-+----------------------------------+-------------------------------+
-
-| | |
-
-| Statistica | Economia politica; |
-
-| Medicina legale e delle | Diritto penale; |
-
-| assicurazioni | |
-
-+----------------------------------+-------------------------------+
-
-| | |
-
-| | Istituzioni di diritto|
-
-| | privato; |
-
-| Diritto canonico | Istituzioni di diritto|
-
-| | romano; |
-
-+----------------------------------+-------------------------------+
-
-| | |
-
-| Diritto privato compara- | Istituzioni di diritto|
-
-| to | privato; |
-
-| | Istituzioni di diritto|
-
-| | privato; |
-
-| | Istituzioni di diritto |
-
-| | romano; |
-
-+----------------------------------+-------------------------------+
-
-| Esegesi delle fonti del | |
-
-| diritto italiano | Storia del diritto ro|
-
-| | mano; |
-
-| | Storia del diritto ita|
-
-| | liano; |
-
-+----------------------------------+-------------------------------+
-
-| | |
-
-| Diritto internazionale | Istituzioni di diritto|
-
-| privato | privato; |
-
-+----------------------------------+-------------------------------+
-
-| Storia dei trattati | Diritto costituzionale; |
-
-+----------------------------------+-------------------------------+
-
-| Dottrina dello Stato | Diritto costituzionale; |
-
-+----------------------------------+-------------------------------+
-
-| Diritto pubblico ameri- | Diritto costituzionale;|
-
-| cano | |
-
-+----------------------------------+-------------------------------+
-
-| Diritto fallimentare | Diritto processuale ci |
-
-| | vile; |
-
-+----------------------------------+-------------------------------+
-
-| | |
-
-| | Diritto costituzionale;|
-
-| Diritto tributario | Diritto processuale ci |
-
-| | vile; |
-
-+----------------------------------+-------------------------------+
-
-| Antropologia criminale | Diritto penale; |
-
-+----------------------------------+-------------------------------+
-
-| | |
-
-| | Diritto costituzionale;|
-
-| Contabilita dello Stato | |
-
-+----------------------------------+-------------------------------+
-
-| | Economia politica; |
-
-| Filologia giuridica | Storia del diritto ro |
-
-| | mano; |
-
-+----------------------------------+-------------------------------+
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 10 giugno 1966
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 2 luglio 1916 Atti del Governo, registro n. 204, foglio n. 22. - DI PRETORO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto della libera Universita' degli studi di Urbino, approvato con [regio decreto 8 febbraio 1925, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-08;230), e modificato con [regio decreto 31 ottobre 1929, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2475) e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
-  
-Decreta:   
-  
-Lo statuto della libera Universita' degli studi di Urbino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Le disposizioni dell'art. 19 - relative alle propedeuticita' di esame del corso di laurea in Giurisprudenza - sono abrogate e sostituite dalle seguenti:   
-Art. 19. - Lo studente non senza aver prima superato puo superare l'esame di: l'esame di:   
-  
-Diritto agrario Istituzioni di diritto   
-privato;   
-  
+All'art. 79, relativo alla scuola di perfezionamento in filosofia, dopo l'insegnamento fondamentale di storia della filosofia antica del primo, secondo e terzo anno e' aggiunto l'insegnamento di storia della filosofia moderna e contemporanea. Nello stesso articolo e' soppresso dall'elenco delle materie integrative l'insegnamento di storia della filosofia moderna e contemporanea.  
 
-|  |  |
-| --- | --- |
-| Art. 19. - Lo studente non puo superare l'esame di: | senza aver prima superato l'esame di: |
-| Diritto agrario | Istituzioni di diritto privato; |
-| Diritto amministrativo | Diritto costituzionale; Istituzioni di diritto privato; |
-| Diritto civile | Istituzioni di diritto privato; Istituzioni di diritto romano; |
-| Diritto commerciale | Istituzioni di diritto privato; |
-| Diritto comune | Istituzioni di diritto romano; Istituzioni di diritto privato; Storia del diritto ro mano; Storia del diritto ita liano; |
-| Diritto del lavoro | Diritto costituzionale; Istituzioni di diritto privato; |
-| Diritto della navigazio- ne | Diritto commerciale; Istituzioni di diritto privato; |
-| Diritto ecclesiastico | Diritto costituzionale; Istituzioni di diritto privato; |
-| Diritto industriale | Diritto commerciale; Istituzioni di diritto privato; |
-| Diritto internazionale | Istituzioni di diritto privato; Diritto costituzionale; |
-| Diritto processuale ci- vile | Istituzioni di diritto privato; Diritto costituzionale; |
-| Diritto romano | Istituzioni di diritto privato; Istituzioni di diritto romano; Storia del diritto ro mano; |
-| Esegesi delle fonti del diritto romano | Storia del diritto ro mano; Istituzioni di diritto romano; |
-| Scienza delle finanze e diritto finanziario | Economia politica; |
-| Storia del diritto ita- liano | Istituzioni di diritto privato Istituzioni di diritto romano Storia del diritto ro mano; |
-| Statistica Medicina legale e delle assicurazioni | Economia politica; Diritto penale; |
-| Diritto canonico | Istituzioni di diritto privato; Istituzioni di diritto romano; |
-| Diritto privato compara- to | Istituzioni di diritto privato; Istituzioni di diritto privato; Istituzioni di diritto romano; |
-| Esegesi delle fonti del diritto italiano | Storia del diritto ro mano; Storia del diritto ita liano; |
-| Diritto internazionale privato | Istituzioni di diritto privato; |
-| Storia dei trattati | Diritto costituzionale; |
-| Dottrina dello Stato | Diritto costituzionale; |
-| Diritto pubblico ameri- cano | Diritto costituzionale; |
-| Diritto fallimentare | Diritto processuale ci vile; |
-| Diritto tributario | Diritto costituzionale; Diritto processuale ci vile; |
-| Antropologia criminale | Diritto penale; |
-| Contabilita dello Stato | Diritto costituzionale; |
-| Filologia giuridica | Economia politica; Storia del diritto ro mano; |
+Art. 2
+------
+
+  
+  
+L'art. 81, relativo alla scuola di perfezionamento in lingue e letterature straniere moderne, e' sostituito dal seguente:   
+Art. 81. - La scuola ha lo scopo di promuovere la formazione scientifica e il perfezionamento didattico dei laureati che intendono dedicarsi all'insegnamento delle lingue e letterature straniere moderne nei vari tipi di istituti elementari, medi e superiori. Il corso ha la durata di due anni.   
+Sono ammessi alla scuola i laureati in lingue e letterature straniere nonche' i laureati in lettere e materie letterarie o titoli equipollenti che abbiano svolto una tesi di laurea in letteratura o filologia straniera moderna. Sul parere del consiglio della scuola possono essere ammessi anche i laureati italiani e stranieri di altre facolta' o corsi di laurea affini.   
+La scuola di perfezionamento in lingue e letterature straniere moderne prevede l'insegnamento di lingua e letteratura francese, spagnola, inglese, tedesca e russa.   
+Per tutte le lingue e' previsto un indirizzo linguistico e un indirizzo letterario fra i quali gli iscritti alla scuola possono optare. Il piano di studio comprende quattro insegnamenti per ogni anno del corso di cui due fondamentali e due integrativi a scelta dell'iscritto. Nessun iscritto potra' essere ammesso al secondo anno di corso se non avra' completato il piano di studi previsto per il primo anno. All'inizio di ogni anno il consiglio della scuola delibera, in relazione al numero degli iscritti, quanti e quali saranno gli insegnamenti integrativi attivati tra i quali gli iscritti potranno scegliere.   
+L'insegnamento si svolge in forma di seminari per ciascun insegnamento, articolati secondo un calendario annuale. Si effettuano, inoltre, incontri di informazione con esperti su temi che saranno preventivamente indicati.   
+  
+INSEGNAMENTI E PIANI DI STUDIO   
+  
+Lingua e letteratura francese   
+Insegnamenti fondamentali:   
+1) linguistica generale;   
+2) storia della lingua francese;   
+3) glottodidattica;   
+4) letteratura francese classica;   
+5) letteratura francese moderna e contemporanea;   
+6) letterature comparate.   
+Insegnamenti integrativi:   
+1) sociolinguistica;   
+2) psicolinguistica;   
+3) linguistica del testo;   
+4) linguistica contrastiva;   
+5) teoria della comunicazione;   
+6) teoria e storia della traduzione;   
+7) teoria e storia della grammatica francese;   
+8) dialettologia francese;   
+9) filologia francese;   
+10) filologia romanza;   
+11) semiotica generale;   
+12) semiotica della letteratura;   
+13) teoria della letteratura;   
+14) sociologia della letteratura;   
+15) stilistica e retorica;   
+16) metrica e versificazione francese;   
+17) letteratura francese medioevale;   
+18) letteratura francese del Rinascimento;   
+19) letteratura drammatica francese;   
+20) letterature francofone;   
+21) letteratura folclorica della Francia;   
+22) storia della civilta' francese;   
+23) didattica della letteratura francese;   
+24) metodologia della ricerca letteraria francese;   
+25) storia della critica letteraria francese.   
+Piano di studio per l'indirizzo linguistico:   
+1° Anno:   
+1) linguistica generale I;   
+2) storia della lingua francese;   
+3) (integrativo);   
+4) (integrativo).   
+2° Anno:   
+1) linguistica generale II;   
+2) glottodidattica;   
+3) (integrativo);   
+4) (integrativo).   
+Piano di studio per l'indirizzo letterario:   
+1° Anno:   
+1) letteratura francese classica;   
+2) letteratura francese moderna e contemporanea I;   
+3) (integrativo);   
+4) (integrativo).   
+2° Anno:   
+1) letteratura francese moderna e contemporanea II;   
+2) letterature comparate;   
+3) (integrativo);   
+4) (integrativo).   
+Lingua e letteratura spagnola   
+Insegnamenti fondamentali:   
+1) linguistica generale;   
+2) storia della lingua spagnola;   
+3) glottodidattica;   
+4) letteratura spagnola classica;   
+5) letteratura spagnola moderna e contemporanea;   
+6) letteratura ispano-americana.   
+Insegnamenti integrativi:   
+1) sociolinguistica;   
+2) psicolinguistica;   
+3) linguistica del testo;   
+4) linguistica contrastiva;   
+5) teoria della comunicazione;   
+6) teoria e storia della traduzione;   
+7) teoria e storia della grammatica spagnola;   
+8) dialettologia spagnola;   
+9) filologia spagnola;   
+10) filologia romanza;   
+11) semiotica generale;   
+12) semiotica della letteratura;   
+13) teoria della letteratura;   
+14) sociologia della letteratura;   
+15) stilistica e retorica;   
+16) metrica e versificazione spagnola;   
+17) letteratura spagnola del Medioevo e del Rinascimento;   
+18) letteratura spagnola del Romanticismo;   
+19) letteratura drammatica spagnola;   
+20) letteratura folclorica spagnola;   
+21) storia della civilta' spagnola;   
+22) didattica della letteratura spagnola;   
+23) letteratura ispano-americana;   
+24) letteratura folclorica ispano-americana;   
+25) storia della critica letteraria spagnola.   
+Piano di studio per l'indirizzo linguistico:   
+1° Anno:   
+1) linguistica generale I;   
+2) storia della lingua spagnola;   
+3) (integrativo);   
+4) (integrativo);   
+2° Anno:   
+1) linguistica generale II;   
+2) glottodidattica;   
+3) (integrativo);   
+4) (integrativo).   
+Piano di studio per l'indirizzo letterario:   
+1° Anno:   
+1) letteratura spagnola classica;   
+2) letteratura spagnola moderna e contemporanea I;   
+3) (integrativo);   
+4) (integrativo).   
+2° Anno:   
+1) letteratura spagnola moderna e contemporanea II;   
+2) letteratura ispano-americana;   
+3) (integrativo);   
+4) (integrativo).   
+Lingua e letteratura inglese   
+Insegnamenti fondamentali:   
+1) linguistica generale;   
+2) storia della lingua inglese;   
+3) glottodidattica;   
+4) letteratura inglese del Rinascimento;   
+5) letteratura inglese moderna;   
+6) letteratura inglese contemporanea;   
+7) letteratura americana.   
+Insegnamenti integrativi:   
+1) sociolinguistica;   
+2) psicolinguistica;   
+3) linguistica del testo;   
+4) linguistica contrastiva;   
+5) teoria della comunicazione;   
+6) teoria e storia della traduzione;   
+7) teoria e storia della grammatica inglese;   
+8) filologia inglese;   
+9) dialettologia inglese;   
+10) filologia germanica;   
+11) semiotica generale;   
+12) semiotica della letteratura;   
+13) teoria della letteratura;   
+14) sociologia della letteratura;   
+15) stilistica e retorica;   
+16) metrica e versificazione inglese;   
+17) letteratura inglese del periodo anglosassone;   
+18) letteratura del Middle English;   
+19) letteratura drammatica inglese;   
+20) letterature anglofone;   
+21) letteratura folclorica della Gran Bretagna;   
+22) letteratura folclorica degli Stati Uniti;   
+23) storia della civilta' anglosassone;   
+24) didattica della letteratura inglese;   
+25) letterature comparate;   
+26) metodologia dell'analisi letteraria;   
+27) letteratura australiana;   
+28) letteratura anglocanadase.   
+Piano di studio per l'indirizzo linguistico:   
+1° Anno:   
+1) linguistica generale I;   
+2) storia della lingua inglese;   
+3) (integrativo);   
+4) (integrativo).   
+2° Anno:   
+1) linguistica generale II;   
+2) glottodidattica;   
+3) (integrativo);   
+4) (integrativo).   
+Piano di studio per l'indirizzo letterario:   
+1° Anno:   
+1) letteratura inglese del Rinascimento;   
+2) letteratura inglese moderna;   
+3) (integrativo);   
+4) (integrativo).   
+2° Anno:   
+1) letteratura inglese contemporanea;   
+2) letteratura anglo-americana;   
+3) (integrativo);   
+4) (integrativo).   
+Lingua e letteratura tedesca   
+Insegnamenti fondamentali:   
+1) linguistica generale;   
+2) linguistica del testo;   
+3) storia della lingua tedesca;   
+4) glottodidattica;   
+5) letteratura tedesca classica e romantica;   
+6) letteratura tedesca moderna e contemporanea;   
+7) teoria della letteratura;   
+8) letterature comparate.   
+Insegnamenti integrativi:   
+1) sociolinguistica;   
+2) psicolinguistica;   
+3) linguistica contrastiva;   
+4) teoria della comunicazione;   
+5) teoria e storia della traduzione;   
+6) teoria e storia della grammatica tedesca;   
+7) filologia tedesca;   
+8) dialettologia tedesca;   
+9) filologia germanica;   
+10) semiotica generale;   
+11) semiotica della letteratura;   
+12) sociologia della letteratura;   
+13) stilistica e retorica;   
+14) metrica e versificazione tedesca;   
+15) letteratura tedesca medioevale;   
+16) letteratura tedesca dall'Umanesimo all'Illuminismo;   
+17) letteratura tedesca drammatica;   
+18) letteratura folclorica dei Paesi di lingua tedesca;   
+19) storia della civilta' tedesca;   
+20) didattica della letteratura tedesca.   
+Piano di studio per l'indirizzo linguistico:   
+1° Anno:   
+1) linguistica generale;   
+2) storia della lingua tedesca;   
+3) (integrativo);   
+4) (integrativo).   
+2° Anno:   
+1) linguistica del testo;   
+2) glottodidattica;   
+3) (integrativo);   
+4) (integrativo).   
+Piano di studio per l'indirizzo letterario:   
+1° Anno:   
+1) letteratura tedesca classica e romantica;   
+2) teoria della letteratura;   
+3) (integrativo);   
+4) (integrativo).   
+2° Anno:   
+1) letteratura tedesca moderna e contemporanea;   
+2) letterature comparale;   
+3) (integrativo);   
+4) (integrativo).   
+Lingua e letteratura russa   
+Insegnamenti fondamentali:   
+1) linguistica generale;   
+2) storia della lingua russa;   
+3) glottodidattica;   
+4) letteratura russa classica;   
+5) letteratura russa moderna;   
+6) letteratura russa contemporanea;   
+7) letterature comparate.   
+Insegnamenti integrativi:   
+1) sociolinguistica;   
+2) psicolinguistica;   
+3) linguistica del testo;   
+4) linguistica contrastiva;   
+5) teoria della comunicazione;   
+6) teoria e storia della traduzione;   
+7) teoria e storia della grammatica russa;   
+8) filologia russa;   
+9) dialettologia russa;   
+10) semiotica generale;   
+11) semiotica della letteratura;   
+12) teoria della letteratura;   
+13) sociologia della letteratura;   
+14) stilistica e retorica;   
+15) metrica e versificazione russa;   
+16) letteratura russa medioevale;   
+17) letteratura drammatica russa;   
+18) letteratura folclorica russa;   
+19) storia della civilta' russa;   
+20) didattica della letteratura russa;   
+21) storia della critica letteraria russa.   
+Piano di studio per l'indirizzo linguistico:   
+1° Anno:   
+1) linguistica generale I;   
+2) storia della lingua russa;   
+3) (integrativo);   
+4) (integrativo).   
+2° Anno:   
+1) linguistica generale II;   
+2) glottodidattica;   
+3) (integrativo);   
+4) (integrativo).   
+Piano di studio per l'indirizzo letterario:   
+1° Anno:   
+1) letteratura russa classica;   
+2) letteratura russa moderna;   
+3) (integrativo);   
+4) (integrativo).   
+2° Anno:   
+1) letteratura russa contemporanea;   
+2) letterature comparate;   
+3) (integrativo);   
+4) (integrativo).   
+Per conseguire il diploma di perfezionamento in lingue e letterature straniere moderne, ogni iscritto alla scuola deve:   
+1) partecipare attivamente a tutti i seminari, agli incontri di formazione e alle esercitazioni;   
+2) sostenere alla fine di ogni anno del corso gli esami in forma di colloquio di accertamento in ognuno dei quattro insegnamenti del suo piano di studio e, inoltre, nella lingua straniera;   
+3) sostenere una discussione finale su una dissertazione scritta con carattere di originalita' su un tema concordato con il docente di uno degli insegnamenti del piano di studio.   
+La partecipazione e la frequenza sono obbligatorie per gli iscritti alla scuola e sono condizione per il conseguimento del diploma.   
+  
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 giugno 1966
+### Dato a Roma, addi' 31 luglio 1981
 
-SARAGAT GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 2 luglio 1916
+Registrato alla Corte dei conti, addi' 10 marzo 1982
 
-Atti del Governo, registro n. 204, foglio n. 22. - DI PRETORO
+Registro n. 38 Istruzione, foglio n. 259

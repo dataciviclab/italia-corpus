@@ -1,214 +1,50 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1970 n. 389
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1962 n. 1644
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1970 n. 389
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1962 n. 1644
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 157. - All'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola di specializzazione in "Clinica pediatrica".
-
-Gli articoli 188 e 189 relativi alla scuola di specializzazione in "Urologia" sono abrogati e sostituiti dai seguenti:
-
-Scuola di specializzazione in urologia
-
-Art. 188. - Il corso di studi della scuola di specializzazione in urologia ha la durata di tre anni.
-
-Alla scuola sono ammessi cinque iscritti per ogni anno di corso.
-
-Art. 189. - Gli insegnamenti impartiti nella scuola sono i seguenti:
-
-1° Anno:
-
-Anatomia descrittiva e topografica dell'apparato urogenitale, fisiologia dell'apparato urogenitale, patologia dell'apparato urinario e genitale maschile, le nefropatie mediche, semeiotica dell'apparato uro-genitale (funzionale e di laboratorio), tecniche strumentali e semeiologia endoscopica, batteriologia in urologia, farmacoterapia delle affezioni uro-genitali.
-
-2° Anno:
-
-Patologia dell'apparato urinario e genitale maschile, clinica urologica; patologia genitale femminile di interesse urologico, nefrologia chirurgica, anatomia ed istologia patologica dell'apparato urogenitale, semeiotica dell'apparato urogenitale (funzionale e di laboratorio), tecniche strumentali e semeiologia endoscopica, anatomia chirurgica dell'apparato urinario e genitale, radiologia dell'apparato urinario e genitale, le affezioni cutanee e veneree nei riguardi dell'urologia, l'anestesiologia ed il trattamento pre e post-operatorio del malato urologico.
-
-3° Anno:
-
-Clinica urologica, patologia e clinica urologica infantile, radiologia dell'apparato urinario e genitale; tecniche operatorie sull'apparato urinario e genitale, urologia ginecologica.
-
-Dopo l'art. 213 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in clinica pediatrica.
-
-Scuola di specializzazione in clinica pediatrica
-
-Art. 214. - Il corso di studi di specializzazione in clinica pediatrica ha la durata di tre anni.
-
-Art. 215. - La scuola non puo' accogliere piu' di dieci allievi per ciascun anno di corso.
-
-Art. 216. - Gli insegnamenti impartiti nella scuola sono:
-
-1° Anno:
-
-Clinica pediatrica (triennale);
-
-Patologia pediatrica (biennale);
-
-Puericultura (biennale);
-
-Semeiotica pediatrica e tecnica diagnostica (biennale);
-
-Auxologia normale e patologica;
-
-Psicologia dell'eta' evolutiva.
-
-2° Anno:
-
-Clinica pediatrica;
-
-Patologia pediatrica;
-
-Puericultura;
-
-Semeiotica pediatrica e tecnica diagnostica;
-
-Terapia pediatrica;
-
-Radiologia pediatrica;
-
-Malattie infettive dell'infanzia.
-
-3° Anno:
-
-Clinica pediatrica;
-
-Neuropsichiatria e igiene mentale dell'infanzia.
-
-Insegnamenti complementari (uno per ogni anno a scelta dell'iscritto):
-
-Chirurgia pediatrica;
-
-Ortopedia e traumatologia infantile;
-
-Odontoiatria;
-
-Clinica dermosifilopatica;
-
-Clinica oculistica;
-
-Clinica otorinolaringoiatrica;
-
-Cardiologia;
-
-Genetica.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica, italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 7 febbraio 1970
-
-SARAGAT
-
-FERRARI AGGRADI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 17 giugno 1970 Atti del Governo, registro n. 236, foglio n. 29. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduto lo statuto degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), modificato con regio decreto 16 ottobre 1940, Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 1933, numero 1592;  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 21 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-21;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 157. - All'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola di specializzazione in "Clinica pediatrica".  
-Gli articoli 188 e 189 relativi alla scuola di specializzazione in "Urologia" sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in urologia  
-  
-Art. 188. - Il corso di studi della scuola di specializzazione in urologia ha la durata di tre anni.  
-Alla scuola sono ammessi cinque iscritti per ogni anno di corso.  
-Art. 189. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
-1° Anno:  
-Anatomia descrittiva e topografica dell'apparato urogenitale, fisiologia dell'apparato urogenitale, patologia dell'apparato urinario e genitale maschile, le nefropatie mediche, semeiotica dell'apparato uro-genitale (funzionale e di laboratorio), tecniche strumentali e semeiologia endoscopica, batteriologia in urologia, farmacoterapia delle affezioni uro-genitali.  
-2° Anno:  
-Patologia dell'apparato urinario e genitale maschile, clinica urologica; patologia genitale femminile di interesse urologico, nefrologia chirurgica, anatomia ed istologia patologica dell'apparato urogenitale, semeiotica dell'apparato urogenitale (funzionale e di laboratorio), tecniche strumentali e semeiologia endoscopica, anatomia chirurgica dell'apparato urinario e genitale, radiologia dell'apparato urinario e genitale, le affezioni cutanee e veneree nei riguardi dell'urologia, l'anestesiologia ed il trattamento pre e post-operatorio del malato urologico.  
-3° Anno:  
-Clinica urologica, patologia e clinica urologica infantile, radiologia dell'apparato urinario e genitale; tecniche operatorie sull'apparato urinario e genitale, urologia ginecologica.  
-Dopo l'art. 213 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in clinica pediatrica.  
-  
-Scuola di specializzazione in clinica pediatrica  
-  
-Art. 214. - Il corso di studi di specializzazione in clinica pediatrica ha la durata di tre anni.  
-Art. 215. - La scuola non puo' accogliere piu' di dieci allievi per ciascun anno di corso.  
-Art. 216. - Gli insegnamenti impartiti nella scuola sono:  
-1° Anno:  
-Clinica pediatrica (triennale);  
-Patologia pediatrica (biennale);  
-Puericultura (biennale);  
-Semeiotica pediatrica e tecnica diagnostica (biennale);  
-Auxologia normale e patologica;  
-Psicologia dell'eta' evolutiva.  
-2° Anno:  
-Clinica pediatrica;  
-Patologia pediatrica;  
-Puericultura;  
-Semeiotica pediatrica e tecnica diagnostica;  
-Terapia pediatrica;  
-Radiologia pediatrica;  
-Malattie infettive dell'infanzia.  
-3° Anno:  
-Clinica pediatrica;  
-Neuropsichiatria e igiene mentale dell'infanzia.  
-Insegnamenti complementari (uno per ogni anno a scelta dell'iscritto):  
-Chirurgia pediatrica;  
-Ortopedia e traumatologia infantile;  
-Odontoiatria;  
-Clinica dermosifilopatica;  
-Clinica oculistica;  
-Clinica otorinolaringoiatrica;  
-Cardiologia;  
-Genetica.  
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicato, e' ulteriormente modificato come appresso:  
+Art. 53. relativo al corso di laurea in Chimica e' modificato nel senso che il quarto comma e' abrogato e sostituito dal seguente: "Gli insegnamenti biennali di "Chimica generale e inorganica" di "Chimica organica" di "Istituzioni di matematica" di "Esercitazioni di matematiche" e di "Esercitazioni di Chimica fisica" comportano un esame alla fine di ogni anno anziche' alla fine del biennio".  
+Art. 67. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche e' aggiunto quello di "Geologia stratigrafica" .  
+Nello stesso articolo e' aggiunto il seguente comma: "L'esame biennale di "Fisica sperimentale" importa un esame alla fine di ogni anno anzicche' alla fine del biennio" .  
+Art. 69, relativo al corso di laurea in Scienze geologiche, e' abrogato sostituito dal seguente: o L'esame di laurea mi Scienze geologiche consta di due parti di cui la prima precede la seconda, ma non con carattere prelusivo.  
+La prima parte consiste in:  
+a) esame di cultura generale nelle Scienze geologiche;  
+b) prova pratica di riconoscimento di minerali, fossili e rocce;  
+c) presentazione di un rilevamento geologico originale.  
+La seconda parte consiste nella discussione di una dissertazione scritta, e di due argomenti orali scelti dal candidato in materie diverse da quella in cui verte la dissertazione scritta.  
+Per essere ammesso all'esame di laurea lo studente deve aver superato gli esami delle materie fondamentali ed almeno quattro delle complementari".  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica, italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della. Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 febbraio 1970
+### Dato a Roma, addi' 15 ottobre 1962
 
-SARAGAT FERRARI AGGRADI
+SEGNI GUI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 17 giugno 1970
+Registrato alla Corte dei conti, addi' 6 dicembre 1962
 
-Atti del Governo, registro n. 236, foglio n. 29. - CARUSO
+Atti del Governo, registro n. 160, foglio n. 66. - VILLA

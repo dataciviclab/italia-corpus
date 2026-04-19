@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1951 n. 1304
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 903
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1951 n. 1304
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 903
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
@@ -10,349 +10,131 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con i [regi decreti 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), [4 maggio 1942, n. 557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-05-04;557) e [5 settembre 1942, n. 1120](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-09-05;1120), e con i [decreti del Presidente della Repubblica 26 febbraio 1949, n. 612](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;612), [23 settembre 1949, n. 931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;931), [30 ottobre 1949, n. 1059](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1059) e [5 aprile 1950, n. 284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-04-05;284);
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090) e modificato con [regio decreto 13 ottobre 1927, n. 2281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2281), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati e' cosi' ulteriormente modificato:
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:
 
-Attuale art. 154. - Dopo il secondo comma e' aggiunto quanto appresso:
+Articolo unico
+--------------
 
-L'insegnamento fondamentale del corso di laurea in filosofia di "filosofia morale" (biennale) importa rispettivamente un esame alla fine di ogni anno
-
-Dopo l'attuale art. 149 vengono aggiunti i seguenti nuovi articoli relativi alla istituzione delle scuole di perfezionamento in filologia classica ed in archeologia ed antichita'.
-
-Scuola di perfezionamento in filologia classica
-
-Art. 150. - E' istituita presso la Facolta' di lettere e filosofia una scuola di perfezionamento in filologia classica.
-
-Art. 151. - La scuola rilascia il diploma di perfezionamento in filologia classica.
-
-Art. 152. - La scuola ha la durata di due anni.
-
-Art. 153. - Sono ammessi alla scuola i laureati in lettere. Non e' permesso iscriversi contemporaneamente ad altro corso di laurea o di perfezionamento.
-
-Art. 154. - Gli insegnamenti della scuola sono i seguenti:
-
-Fondamentali:
-
-1) Letteratura latina;
-
-2) Letteratura greca;
-
-3) Grammatica storica delle lingue classiche;
-
-4) Storia antica;
-
-5) Antichita' ed epigrafie classiche.
-
-Gli insegnamenti nn. 1, 2 e 3 sono biennali, quelli nn. 4 e 5 sono annuali e potranno essere seguiti nel primo o nel secondo anno.
-
-Complementari:
-
-1) Paleografia e papirologia;
-
-2) Poetica classica;
-
-3) Metrica classica;
-
-4) Storia della filosofia antica;
-
-5) Storia delle religioni antiche;
-
-6) Diritto romano;
-
-7) Storia del Cristianesimo antico;
-
-8) Esegesi dei monumenti;
-
-9) Storia dell'arte antica;
-
-10) Filologia bizantina;
-
-11) Patristica;
-
-12) Letteratura umanistica;
-
-13) Latino medioevale.
-
-Art. 155. - Al principio di ogni anno accademico il Consiglio della scuola stabilira', compatibilmente con le possibilita' del momento, quali di questi corsi complementari dovranno essere effettivamente impartiti in quell'anno. Il Consiglio potra' anche istituire altri corsi non compresi nel suddetto elenco.
-
-Lo studente dovra' seguire in ciascun anno un corso complementare in aggiunta a quelli fondamentali.
-
-Art. 156. - Presso la scuola sara' tenuto ogni anno anche un corso di esercitazioni di lingua latina.
-
-Art. 157. - Per il conferimento degli incarichi di insegnamento si seguira' la norma contemplata dall'[art. 9 del regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071~art9), convertito in [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73).
-
-Art. 158. - Le prove di esame, che avranno luogo al termine del biennio, sono le seguenti:
-
-a) una composizione latina (durata della prova 7 ore);
-
-b) un esame orale globale di cultura generale e specifica sulle materie dei corsi seguiti nel biennio. In tale esame il candidato dovra' dimostrare anche adeguata conoscenza di due lingue moderne scelte fra la francese, la tedesca, l'inglese;
-
-c) una dissertazione scritta su un argomento attinente alla filologia classica.
-
-Art. 159. - Le prove di esame saranno giudicate ciascuna da una Commissione composta dal direttore e da sei professori della scuola, designati dal direttore.
-
-Risultera' promosso il candidato che in ciascuna prova avra' meritato non meno di punti quarantanove su settanta. Non potra' sostenere gli altri due esami chi non avra' superato la prova di composizione latina.
-
-Art. 160. - La frequenza ai singoli corsi e' obbligatoria. Gli studenti dovranno essere presenti ogni anno ad almeno due terzi delle lezioni di ciascun corso. Non potranno essere iscritti al secondo anno e, al termine del biennio, non potranno essere ammessi agli esami gli studenti che non abbiano ottenuto l'attestazione di frequenza in tutti i corsi prescritti.
-
-Art. 161. - Gli esami avranno luogo in due sessioni, estiva e autunnale. Gli studenti presenteranno, nei termini stabiliti per gli esami universitari, apposita domanda corredata dall'attestazione di frequenza di cui all'articolo precedente.
-
-Art. 162. - Lo studente dovra' comunicare per iscritto al direttore, non oltre il 15 febbraio, i corsi da lui scelti.
-
-Art. 163. - Il Consiglio della scuola e' composto dai professori universitari di ruolo insegnanti della scuola.
-
-Art. 164 - Il direttore della scuola e' nominato dal rettore fra i componenti del Consiglio della scuola, su proposta della Facolta' di lettere e filosofia, e dura in carica due anni.
-
-Art. 165. - Gli insegnanti della scuola che non siano professori universitari di ruolo debbono presentare prima dell'inizio dei corsi un programma particolareggiato della materia che intendono svolgere e delle esercitazioni. Tale programma deve essere approvato dal Consiglio della scuola.
-
-Art. 166. - Soltanto gli studenti regolarmente iscritti, alla scuola possono frequentare i corsi.
-
-Art. 167. - Per essere iscritto alla scuola, il richiedente deve presentare, non oltre il 31 dicembre, domanda su carta legale al rettore, corredata dal certificato di laurea e dalla quietanza del pagamento delle tasse.
-
-Per l'iscrizione al secondo anno e per la qualifica di studente fuori corso il richiedente presentera', entro lo stesso termine, domanda su carta legale corredata dalle tasse relative.
-
-Art. 168. - Le tasse sono fissate nella misura seguente:
-
-tassa di immatricolazione . . . . . . . . . . . . . . . . L. 2000 tassa annuale di iscrizione . . . . . . . . . . . . . . . L. 5000 tassa di esame. . . . . . . . . . . . . . . . . . . . . . L. 1500 tassa di diploma. . . . . . . . . . . . . . . . . . . . . L. 6000 sopratassa di ripetizione per ciascun esame. . . . . . . . L. 500 tassa per studenti fuori corso. . . . . . . . . . . . . . L. 2000
-
-Art. 169. - Ogni anno il Consiglio della scuola potra' esonerare dal pagamento delle tasse (esclusa quella di diploma) quattro studenti in seguito a concorso per titoli. Le dissertazioni giudicate in tutto o in parte degne di stampa saranno pubblicate nei quaderni della scuola.
-
-Scuola di perfezionamento in archeologia ed antichita'
-
-Art. 170. - E' istituita presso la facolta' di lettere e filosofia una scuola di perfezionamento in archeologia ed in antichita' con l'intento di perfezionare i giovani negli studi archeologici, di addestrarli in particolar modo allo studio delle antichita' della Campania e del Mezzogiorno d'Italia, di prepararli alle funzioni tecniche e scientifiche dei musei di antichita' e degli scavi.
-
-Art. 171. - Alla scuola possono iscriversi i laureati in lettere.
-
-Art. 172. - La scuola ha la durata di due anni e al termine del biennio, superate le prove scritte, sara' rilasciato un diploma di perfezionamento negli studi di archeologia e di antichita'.
-
-Art. 173. - Gli insegnamenti fondamentali sono:
-
-1) Archeologia e storia dell'arte antica;
-
-2-a) Antichita' ed epigrafia greco romana;
-
-b) Antichita' pompeiane ed ercolanesi;
-
-3) Storia antica;
-
-4) Topografia antica della Campania e della Magna Grecia;
-
-5) Paletnologia;
-
-6) Numismatica.
-
-Sono corsi complementari:
-
-7) Lingua ed epigrafia italica;
-
-8) Archeologia cristiana;
-
-9) Storia dell'arte bizantina nell'Italia meridionale;
-
-10) Storia dell'arte medioevale e moderna.
-
-Le materie di cui ai nn. 1, 2, 3 sono biennali, le altre annuali.
-
-Dei corsi complementari verra' stabilito annualmente l'obbligo della frequenza almeno a due corsi e il Consiglio dei professori si riserva, all'inizio dell'anno, di istituire altri corsi complementari in sostituzione di quelli contemplati nel presente statuto, o corsi speciali di esercitazione per le materie fondamentali.
-
-Art. 174. - Gli iscritti aspiranti al diploma dovranno inoltre dimostrare: 1) di possedere pratica del disegno e del rilievo sul terreno; 2) di aver seguito un corso pratico di assistenza agli scavi e ai lavori di restauro dei monumenti e di materiale archeologico; 3) di aver esperienza della tecnica della fotografia; 4) di aver buona conoscenza di due lingue straniere scelte tra la francese, l'inglese e il tedesco.
-
-Art. 175. - Il Consiglio dei professori, ove ne abbia la possibilita', si riserva di affidare ad allievi della scuola di riconosciuta capacita', particolari incarichi di studio e di assistenza a esplorazioni e a ricerche di carattere archeologico.
-
-Art. 176. - Per conseguire il diploma della scuola di perfezionamento gli allievi dovranno:
-
-a) dare prova di maturita' sostenendo nel 1° anno almeno tre prove di esame (mediante colloquio o esercitazione scritta) su tre materie del corso annuale, di cui due almeno del gruppo delle materie fondamentali;
-
-b) dare al termine del biennio prova di maturita' sostenendo le altre prove dei corsi annuali e biennali (mediante colloquio o esercitazione scritta);
-
-c) presentare e discutere una dissertazione scritta sa argomento attinente alle materie del corso e approvato dal docente della materia.
-
-Gli esami hanno luogo nella sessione estiva ed autunnale e le prove saranno sostenute innanzi alla Commissione composta dal Consiglio dei professori presieduto dal direttore della scuola.
-
-Art. 177. - La frequenza dei corsi e' obbligatoria e l'ammissione agli esami e' subordinata alla frequenza di almeno due terzi delle lezioni d'ogni corso.
-
-Art. 178. - L'allievo che non abbia sostenuto le prove di esame nel termine prescritto, potra' ottenere l'iscrizione fuori corso per il termine di un anno.
-
-Art. 179.- Il Consiglio direttivo della scuola archeologica e' formato dai professori universitari di ruolo; gli incarichi d'insegnamento verranno conferiti dal Consiglio di facolta' e in conformita' delle norme dell'[art. 9 del regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071~art9), convertito in [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73).
-
-Art. 180. - Il direttore della scuola e' nominato dal rettore su proposta del Consiglio di facolta' tra i professori universitari di ruolo incaricati di materie d'insegnamento nella scuola di archeologia e di antichita', e dura in carica due anni.
-
-Art. 181. - Le tasse d'immatricolazione e d'iscrizione, d'esame e di diploma, verranno determinate annualmente e per l'intero corso biennale dal Consiglio di facolta' su proposta del Consiglio della scuola e ratificate dal rettore dell'Universita', sentito il Consiglio di amministrazione.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Caprarola, addi' 30 luglio 1951
-
-EINAUDI
-
-SEGNI
-
-Visto, il Guardasigilli: ZOLI
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 1 dicembre 1951 Atti del Governo, registro n. 47, foglio n. 13. - FRASCA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con i [regi decreti 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), [4 maggio 1942, n. 557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-05-04;557) e [5 settembre 1942, n. 1120](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-09-05;1120), e con i [decreti del Presidente della Repubblica 26 febbraio 1949, n. 612](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;612), [23 settembre 1949, n. 931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;931), [30 ottobre 1949, n. 1059](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1059) e [5 aprile 1950, n. 284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-04-05;284);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Gli articoli da 318 a 329, relativi alla scuola di perfezionamento in diritto amministrativo e scienza dell'amministrazione che muta denominazione in scuola di specializzazione, sono abrogati e sostituiti dai seguenti con il conseguente spostamento della numerazione degli articoli successivi:  
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati e' cosi' ulteriormente modificato:  
-Attuale art. 154. - Dopo il secondo comma e' aggiunto quanto appresso:  
-L'insegnamento fondamentale del corso di laurea in filosofia di "filosofia morale" (biennale) importa rispettivamente un esame alla fine di ogni anno  
-Dopo l'attuale art. 149 vengono aggiunti i seguenti nuovi articoli relativi alla istituzione delle scuole di perfezionamento in filologia classica ed in archeologia ed antichita'.  
-  
-Scuola di perfezionamento in filologia classica  
-  
-Art. 150. - E' istituita presso la Facolta' di lettere e filosofia una scuola di perfezionamento in filologia classica.  
-  
-Art. 151. - La scuola rilascia il diploma di perfezionamento in filologia classica.  
-  
-Art. 152. - La scuola ha la durata di due anni.  
-  
-Art. 153. - Sono ammessi alla scuola i laureati in lettere. Non e' permesso iscriversi contemporaneamente ad altro corso di laurea o di perfezionamento.  
-  
-Art. 154. - Gli insegnamenti della scuola sono i seguenti:  
-Fondamentali:  
-1) Letteratura latina;  
-2) Letteratura greca;  
-3) Grammatica storica delle lingue classiche;  
-4) Storia antica;  
-5) Antichita' ed epigrafie classiche.  
-Gli insegnamenti nn. 1, 2 e 3 sono biennali, quelli nn. 4 e 5 sono annuali e potranno essere seguiti nel primo o nel secondo anno.  
-Complementari:  
-1) Paleografia e papirologia;  
-2) Poetica classica;  
-3) Metrica classica;  
-4) Storia della filosofia antica;  
-5) Storia delle religioni antiche;  
-6) Diritto romano;  
-7) Storia del Cristianesimo antico;  
-8) Esegesi dei monumenti;  
-9) Storia dell'arte antica;  
-10) Filologia bizantina;  
-11) Patristica;  
-12) Letteratura umanistica;  
-13) Latino medioevale.  
-  
-Art. 155. - Al principio di ogni anno accademico il Consiglio della scuola stabilira', compatibilmente con le possibilita' del momento, quali di questi corsi complementari dovranno essere effettivamente impartiti in quell'anno. Il Consiglio potra' anche istituire altri corsi non compresi nel suddetto elenco.  
-Lo studente dovra' seguire in ciascun anno un corso complementare in aggiunta a quelli fondamentali.  
-  
-Art. 156. - Presso la scuola sara' tenuto ogni anno anche un corso di esercitazioni di lingua latina.  
-  
-Art. 157. - Per il conferimento degli incarichi di insegnamento si seguira' la norma contemplata dall'[art. 9 del regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071~art9), convertito in [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73).  
-  
-Art. 158. - Le prove di esame, che avranno luogo al termine del biennio, sono le seguenti:  
-a) una composizione latina (durata della prova 7 ore);  
-b) un esame orale globale di cultura generale e specifica sulle materie dei corsi seguiti nel biennio. In tale esame il candidato dovra' dimostrare anche adeguata conoscenza di due lingue moderne scelte fra la francese, la tedesca, l'inglese;  
-c) una dissertazione scritta su un argomento attinente alla filologia classica.  
-  
-Art. 159. - Le prove di esame saranno giudicate ciascuna da una Commissione composta dal direttore e da sei professori della scuola, designati dal direttore.  
-Risultera' promosso il candidato che in ciascuna prova avra' meritato non meno di punti quarantanove su settanta. Non potra' sostenere gli altri due esami chi non avra' superato la prova di composizione latina.  
-  
-Art. 160. - La frequenza ai singoli corsi e' obbligatoria. Gli studenti dovranno essere presenti ogni anno ad almeno due terzi delle lezioni di ciascun corso. Non potranno essere iscritti al secondo anno e, al termine del biennio, non potranno essere ammessi agli esami gli studenti che non abbiano ottenuto l'attestazione di frequenza in tutti i corsi prescritti.  
-  
-Art. 161. - Gli esami avranno luogo in due sessioni, estiva e autunnale. Gli studenti presenteranno, nei termini stabiliti per gli esami universitari, apposita domanda corredata dall'attestazione di frequenza di cui all'articolo precedente.  
-  
-Art. 162. - Lo studente dovra' comunicare per iscritto al direttore, non oltre il 15 febbraio, i corsi da lui scelti.  
-  
-Art. 163. - Il Consiglio della scuola e' composto dai professori universitari di ruolo insegnanti della scuola.  
-  
-Art. 164 - Il direttore della scuola e' nominato dal rettore fra i componenti del Consiglio della scuola, su proposta della Facolta' di lettere e filosofia, e dura in carica due anni.  
-  
-Art. 165. - Gli insegnanti della scuola che non siano professori universitari di ruolo debbono presentare prima dell'inizio dei corsi un programma particolareggiato della materia che intendono svolgere e delle esercitazioni. Tale programma deve essere approvato dal Consiglio della scuola.  
-  
-Art. 166. - Soltanto gli studenti regolarmente iscritti, alla scuola possono frequentare i corsi.  
-  
-Art. 167. - Per essere iscritto alla scuola, il richiedente deve presentare, non oltre il 31 dicembre, domanda su carta legale al rettore, corredata dal certificato di laurea e dalla quietanza del pagamento delle tasse.  
-Per l'iscrizione al secondo anno e per la qualifica di studente fuori corso il richiedente presentera', entro lo stesso termine, domanda su carta legale corredata dalle tasse relative.  
-  
-Art. 168. - Le tasse sono fissate nella misura seguente:  
-  
-tassa di immatricolazione . . . . . . . . . . . . . . . . L. 2000 tassa annuale di iscrizione . . . . . . . . . . . . . . . L. 5000 tassa di esame. . . . . . . . . . . . . . . . . . . . . . L. 1500 tassa di diploma. . . . . . . . . . . . . . . . . . . . . L. 6000 sopratassa di ripetizione per ciascun esame. . . . . . . . L. 500 tassa per studenti fuori corso. . . . . . . . . . . . . . L. 2000   
-Art. 169. - Ogni anno il Consiglio della scuola potra' esonerare dal pagamento delle tasse (esclusa quella di diploma) quattro studenti in seguito a concorso per titoli. Le dissertazioni giudicate in tutto o in parte degne di stampa saranno pubblicate nei quaderni della scuola.  
-  
-Scuola di perfezionamento in archeologia ed antichita'  
-  
-Art. 170. - E' istituita presso la facolta' di lettere e filosofia una scuola di perfezionamento in archeologia ed in antichita' con l'intento di perfezionare i giovani negli studi archeologici, di addestrarli in particolar modo allo studio delle antichita' della Campania e del Mezzogiorno d'Italia, di prepararli alle funzioni tecniche e scientifiche dei musei di antichita' e degli scavi.  
-  
-Art. 171. - Alla scuola possono iscriversi i laureati in lettere.  
-  
-Art. 172. - La scuola ha la durata di due anni e al termine del biennio, superate le prove scritte, sara' rilasciato un diploma di perfezionamento negli studi di archeologia e di antichita'.  
-  
-Art. 173. - Gli insegnamenti fondamentali sono:  
-1) Archeologia e storia dell'arte antica;  
-2-a) Antichita' ed epigrafia greco romana;  
-b) Antichita' pompeiane ed ercolanesi;  
-3) Storia antica;  
-4) Topografia antica della Campania e della Magna Grecia;  
-5) Paletnologia;  
-6) Numismatica.  
-Sono corsi complementari:  
-7) Lingua ed epigrafia italica;  
-8) Archeologia cristiana;  
-9) Storia dell'arte bizantina nell'Italia meridionale;  
-10) Storia dell'arte medioevale e moderna.  
-Le materie di cui ai nn. 1, 2, 3 sono biennali, le altre annuali.  
-Dei corsi complementari verra' stabilito annualmente l'obbligo della frequenza almeno a due corsi e il Consiglio dei professori si riserva, all'inizio dell'anno, di istituire altri corsi complementari in sostituzione di quelli contemplati nel presente statuto, o corsi speciali di esercitazione per le materie fondamentali.  
-  
-Art. 174. - Gli iscritti aspiranti al diploma dovranno inoltre dimostrare: 1) di possedere pratica del disegno e del rilievo sul terreno; 2) di aver seguito un corso pratico di assistenza agli scavi e ai lavori di restauro dei monumenti e di materiale archeologico; 3) di aver esperienza della tecnica della fotografia; 4) di aver buona conoscenza di due lingue straniere scelte tra la francese, l'inglese e il tedesco.  
-  
-Art. 175. - Il Consiglio dei professori, ove ne abbia la possibilita', si riserva di affidare ad allievi della scuola di riconosciuta capacita', particolari incarichi di studio e di assistenza a esplorazioni e a ricerche di carattere archeologico.  
-  
-Art. 176. - Per conseguire il diploma della scuola di perfezionamento gli allievi dovranno:  
-a) dare prova di maturita' sostenendo nel 1° anno almeno tre prove di esame (mediante colloquio o esercitazione scritta) su tre materie del corso annuale, di cui due almeno del gruppo delle materie fondamentali;  
-b) dare al termine del biennio prova di maturita' sostenendo le altre prove dei corsi annuali e biennali (mediante colloquio o esercitazione scritta);  
-c) presentare e discutere una dissertazione scritta sa argomento attinente alle materie del corso e approvato dal docente della materia.  
-Gli esami hanno luogo nella sessione estiva ed autunnale e le prove saranno sostenute innanzi alla Commissione composta dal Consiglio dei professori presieduto dal direttore della scuola.  
-  
-Art. 177. - La frequenza dei corsi e' obbligatoria e l'ammissione agli esami e' subordinata alla frequenza di almeno due terzi delle lezioni d'ogni corso.  
-  
-Art. 178. - L'allievo che non abbia sostenuto le prove di esame nel termine prescritto, potra' ottenere l'iscrizione fuori corso per il termine di un anno.  
-  
-Art. 179.- Il Consiglio direttivo della scuola archeologica e' formato dai professori universitari di ruolo; gli incarichi d'insegnamento verranno conferiti dal Consiglio di facolta' e in conformita' delle norme dell'[art. 9 del regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071~art9), convertito in [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73).  
-  
-Art. 180. - Il direttore della scuola e' nominato dal rettore su proposta del Consiglio di facolta' tra i professori universitari di ruolo incaricati di materie d'insegnamento nella scuola di archeologia e di antichita', e dura in carica due anni.  
-  
-Art. 181. - Le tasse d'immatricolazione e d'iscrizione, d'esame e di diploma, verranno determinate annualmente e per l'intero corso biennale dal Consiglio di facolta' su proposta del Consiglio della scuola e ratificate dal rettore dell'Universita', sentito il Consiglio di amministrazione.  
+Scuola di specializzazione in diritto amministrativo e scienza dell'amministrazione  
+Art. 318. - E' istituita presso l'Universita' di Napoli la scuola di specializzazione in diritto amministrativo e scienza dell'amministrazione che conferisce il diploma di specialista in diritto amministrativo - scienza dell'amministrazione.  
+Art. 319. - La scuola ha sede presso l'istituto di diritto amministrativo della facolta' di giurisprudenza.  
+Art. 320. - La scuola ha lo scopo di formare specialisti in diritto amministrativo. In connessione con l'attivita' didattica ed al fine di elevare la professionalita' degli specializzandi promuove ricerche scientifiche sugli istituti del diritto amministrativo, organizza convegni di studio, seminari, conferenze, discussioni e cura pubblicazioni. Per il conseguimento di tali fini possono essere stipulate convenzioni con scuole, centri, istituti, dipartimenti, enti pubblici o privati anche stranieri.  
+Art. 321. - La durata del corso e' di tre anni.  
+Art. 322. - Il numero degli iscritti e' di centoventi per ogni anno.  
+Art. 323. - Alla scuola sono ammessi i laureati in giurisprudenza, in scienze politiche, in economia e commercio, in scienze economico-marittime, in possesso del diploma di abilitazione all'esercizio professionale, qualora prescritto.  
+Art. 324. - Possono essere iscritti alla scuola coloro i quali sono dotati di titoli di studio conseguiti all'estero equivalenti a quelli indicati nel comma precedente. Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che potra' svolgersi in attuazione dell'[art. 13 del decreto del Presidente della Repubblica n. 162/82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;162~art13) mediante domande a risposte multiple integrate eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
+a) tesi di laurea in disciplina attinente alla specializzazione;  
+b) voto di laurea;  
+c) voto riportato negli esami di profitto del corso di laurea nelle materie attinenti alla specializzazione;  
+d) pubblicazioni nelle predette materie.  
+Il punteggio dei titoli e' quello stabilito dal decreto ministeriale 16 settembre 1982. Sono ammessi alla scuola coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nella graduatoria compilata sulla base del punteggio complessivo riportato.  
+In caso di rinunzia sono ammessi coloro che seguono nella graduatoria.  
+Art. 325. - Gli insegnamenti della scuola consistono in:  
+a) materie fondamentali a carattere generale;  
+b) materie a scelta degli iscritti;  
+c) materie di indirizzo.  
+Gli insegnamenti sono cosi' ripartiti:  
+Sono fondamentali del primo anno:  
+diritto amministrativo;  
+politica economica e di mercato;  
+scienza dell'amministrazione.  
+Sono materie a scelta degli iscritti del primo anno:  
+storia dell'amministrazione pubblica;  
+elementi di statistica;  
+diritto pubblico comparato.  
+Sono insegnamenti fondamentali del secondo anno:  
+contabilita' dello Stato;  
+diritto delle Comunita' europee;  
+diritto finanziario e tributario.  
+Sono materie a scelta degli iscritti del secondo anno:  
+programmazione e bilancio;  
+amministrazione del personale;  
+diritto regionale.  
+Sono insegnamenti fondamentali del terzo anno (indirizzo giuridico-amministrativo):  
+contabilita' degli enti locali;  
+ordinamento giuridico degli enti locali;  
+impiego pubblico e privato;  
+reati contro la pubblica amministrazione;  
+appalti ed opere pubbliche.  
+Sono materie a scelta degli iscritti del terzo anno (indirizzo giuridico-amministrativo):  
+diritto pubblico dell'economia;  
+diritto sindacale e relazioni industriali;  
+giustizia amministrativa;  
+legislazione urbanistica;  
+uso degli elaboratori nella P.A.  
+Sono insegnamenti fondamentali del terzo anno (indirizzo tecnico-amministrativo):  
+tecniche di selezione e di valutazione del personale;  
+diritto sindacale e relazioni industriali;  
+organizzazione aziendale;  
+elementi di macroeconomia;  
+elementi di microeconomia.  
+Sono materie a scelta degli iscritti al terzo anno (indirizzo tecnico-amministrativo):  
+ricerca operativa;  
+uso degli elaboratori nella P.A.;  
+legislazione doganale e valutaria;  
+tecnica e legislazione bancaria;  
+diritto penale e commerciale;  
+contratti.  
+Art. 326. - Per i primi due anni di corso lo specializzando e' tenuto a seguire oltre ai corsi obbligatori almeno due corsi opzionali fra quelli attivati dalla scuola.  
+All'atto della iscrizione al terzo anno della scuola gli studenti dovranno indicare l'indirizzo prescelto e scegliere due materie opzionali a esso relative.  
+Art. 327. - Ai sensi dell'[art. 11 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art11), la frequenza ai corsi e' obbligatoria. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno successivo.  
+La commissione d'esame, composta a norma di legge, esprime un giudizio globale sul livello di preparazione del candidato, nelle singole discipline e relative attivita' pratiche per l'anno di corso.  
+Coloro che non superano detto esame potranno ripetere l'anno di corso per una sola volta.  
+Le borse di studio per la frequenza di corsi sono disciplinate dalla normativa vigente.  
+Art. 328. - Lo svolgimento dell'attivita' didattica terra' conto, oltre che degli aspetti teorici, del carattere pratico delle varie discipline. Al tale scopo il consiglio della scuola stabilira', sentiti i docenti interessati, le attivita' che gli specializzandi dovranno svolgere in collaborazione con ordini ed organizzazioni professionali, con l'autorita' giudiziaria, con enti locali, con aziende ed enti privati o pubblici e con chiunque altro riterra' utile ai fini della specializzazione. Nell'ambito dell'attivita' didattica gli specializzandi interessati, per la loro formazione, a compiere esperienze applicative nelle materie di studio potranno partecipare ad ogni altra iniziativa della scuola.  
+Il consiglio della scuola programma i seminari di singole discipline e di insegnamenti raggruppati e coordinati.  
+Oltre ai docenti universitari, saranno chiamati a collaborare a questi, esperti che con il loro apporto possano mantenere elevato il livello culturale e di specializzazione professionale a norma della legislazione vigente.  
+Il consiglio della scuola decide altresi' le forme di frequenza assistita e le relative modalita' di svolgimento, in conformita' alle disposizioni vigenti.  
+Superati gli esami del terzo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.  
+A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista in diritto amministrativo.  
+Art. 329. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge. I contributi sono stabiliti anno per anno dal consiglio di amministrazione dell'Universita' degli studi di Napoli. La scuola e' finanziata, oltre che dai contributi ordinari e straordinari dell'Universita', da sovvenzioni, lasciti e donazioni di aziende, enti e privati che figurano nel bilancio dell'Universita' stessa.  
+Potranno essere assegnati agli specializzandi borse di studio e premi scientifici ai sensi dell'[art. 80 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art80).  
+Art. 330. - La scuola e' retta da un consiglio composto dai docenti universitari di ruolo e dai professori a contralto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99). Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea, in materia di coordinamento di insegnamenti.  
+Art. 331. - I componenti il consiglio eleggono il direttore che lo presiede per un biennio ed e' rieleggibile.  
+Nella programmazione dell'attivita' didattica il consiglio individua le esigenze cui si deve far fronte con l'apporto di professori a contratto, a norma dell'art. 4 del citato [decreto del Presidente della Repubblica n. 162 del 1982](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;162) e indica i requisiti scientifici e professionali che debbono possedere i professori da nominare.  
+Art. 332. - La direzione della scuola e' affidata ad un professore ordinario, straordinario che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata ad un professore associato che pure insegni nella scuola medesima.  
+Il direttore della scuola puo' delegare sentito il consiglio della scuola, ai membri del consiglio stesso lo svolgimento di particolari attivita' relative all'attuazione dei fini istituzionali della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Caprarola, addi' 30 luglio 1951
+### Dato a Roma, addi' 31 ottobre 1985
 
-EINAUDI SEGNI
+COSSIGA
 
-Visto, il Guardasigilli: ZOLI
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 1 dicembre 1951
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Atti del Governo, registro n. 47, foglio n. 13. - FRASCA
+Registrato alla Corte dei conti, addi' 7 febbraio 1986
+
+Registro n. 7 Istruzione, foglio n. 276

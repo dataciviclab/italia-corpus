@@ -1,68 +1,124 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 925
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1967 n. 1526
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 925
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1967 n. 1526
+=================================================================
 
 Modificazioni allo statuto della libera Universita' abruzzese degli studi "G. D'Annunzio" di Chieti.
 ----------------------------------------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto della libera Universita' abruzzese degli studi "G. D'Annunzio" di Chieti, approvato con [decreto del Presidente della Repubblica 8 maggio 1965, n. 1007](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-05-08;1007) e modificato con [decreto del Presidente della Repubblica 20 settembre 1966, n. 1291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-09-20;1291), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici della libera Universita' degli studi "G. D'Annunzio" di Chieti e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto della libera Universita' degli studi "G. D'Annunzio" di Chieti, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
+Art. 1
+------
 
   
-Art. 14 - nell'elenco degli insegnamenti complementari del corso di laurea in lettere sono inserite le seguenti nuove discipline:  
-linguistica generale;  
-filologia italiana;  
-istituzioni di storia medioevale;  
-storia della Chiesa;  
-storia della storiografia;  
-archivistica;  
-filologia neotestamentaria.  
-Art. 15 - nell'elenco degli insegnamenti complementari del corso di laurea in filosofia sono inserite le seguenti nuove discipline:  
-psicologia dell'eta' evolutiva;  
-storia della pedagogia;  
-sociologia della conoscenza;  
-storia della sociologia.  
+  
+IL PRESIDENTE DELLA REPUBBLICA  
+  
+  
+Veduto lo statuto della libera Universita' abruzzese "G.D'Annunzio" di Chieti, approvato con [decreto del Presidente della Repubblica 8 maggio 1965, n. 1007](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-05-08;1007) e modificato con [decreto del Presidente della Repubblica 20 settembre 1966, n. 1291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-09-20;1291);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione, di concerto col Ministro per il tesoro;  
+  
+Decreta:  
+  
+Lo statuto della libera Universita' abruzzese degli studi "G.  
+D'Annunzio" di Chieti, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che la tabella C annessa allo statuto e' abrogata e sostituita dalla seguente:  
+  
+Numero dei ex coef-  
+posti ficiente  
+  
+  
+a) Carriera direttiva:  
+  
+Direttore amministrativo 1 500  
+  
+Direttore di sezione 3 402  
+  
+Consigliere di 1a classe 325  
+Consigliere di 2a classe 1 271  
+Consigliere di 3a classe 229  
+  
+  
+b) Personale della biblioteca (carriera direttiva):  
+  
+  
+Bibliotecario di 2a classe 1 402  
+  
+Bibliotecario di 3a classe 325  
+Bibliotecario aggiunto. 1 271  
+bibliotecario 229  
+  
+  
+c) Personale della biblioteca (carriera di concetto):  
+  
+Bibliotecario principale 1 325  
+  
+Aiuto bibliotecario 271  
+Aiuto bibliotecario aggiunto 3 229  
+Aiuto vice bibliotecario 202  
+  
+  
+d) Personale della ragioneria (carriera di concetto):  
+  
+Primo ragioniere 1 325  
+  
+Ragioniere 271  
+Ragioniere aggiunto 4 229  
+Vice ragioniere economo 202  
+  
+  
+e) Personale di segreteria (carriera di concetto):  
+  
+Primo segretario 1 325  
+  
+Segretario 271  
+Segretario aggiunto 6 229  
+Vice segretario 202  
+  
+  
+f) Personale degli uffici tecnici (carriera di concetto):  
+  
+Tecnico coadiutore di la classe 1 325  
+  
+Tecnico coadiutore di 2a classe 271  
+Tecnico coadiutore di 3a classe 2 229  
+Tecnico coadiutore aggiunto 202  
+  
+  
+g) Personale di segreteria (carriera esecutiva):  
+  
+Primo archivista 1 229  
+  
+Archivista 202  
+Archivista aggiunto 12 180  
+Applicato 157  
+  
+  
+h) Carriera ausiliaria:  
+  
+Usciere capo 3 173  
+  
+Usciere di 2a classe 15 159  
+Usciere di 3a classe 151  
+  
+Autista 2 159  
+Portiere 151  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 ottobre 1981
+### Dato a Roma, addi' 25 settembre 1967
 
-PERTINI BODRATO
+Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI - COLOMBO
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 9 febbraio 1982
+Registrato alla Corte dei conti, addi' 22 luglio 1968
 
-Registro n. 20 Istruzione, foglio n. 185
+Atti del Governo, registro n. 222, foglio n. 7. - GRECO

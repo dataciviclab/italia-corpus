@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 dicembre 1982 n. 1160
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1986 n. 908
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 dicembre 1982 n. 1160
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1986 n. 908
+==============================================================
 
 Autorizzazione all'Associazione nazionale combattenti e reduci, in Roma, ad acquistare un immobile.
 ---------------------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione all'Associazione nazionale combattenti e reduci, in Roma, ad acqu
 Art. 1
 ------
 
-N.
+n.
 
-1160. Decreto del Presidente della Repubblica 1 dicembre 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci, in Roma, viene autorizzata ad acquistare, al convenuto prezzo di L. 65.000.000, un immobile sito in L'Aquila, via Borie Novelle, 24, di proprieta' del sig. Iorio Pio, distinto nel nuovo catasto edilizio urbano alla partita 19576, foglio 10, mappale 1415 sub 8, da destinare a sede della federazione provinciale combattenti e reduci di L'Aquila.  
+908. Decreto del Presidente della Repubblica 29 ottobre 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci, in Roma, viene autorizzata ad acquistare, al convenuto prezzo di L. 220.000.000, una porzione di fabbricato sito in Ascoli Piceno, via della Fortezza numeri 5, 7 e 9, censito nel nuovo catasto edilizio urbano alla partita 129, foglio 169/A, mappale 563 sub. 1 - 5, di proprieta' della ditta F.lli Silvestri S.r.l., da destinare a sede sociale.   
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 24 marzo 1983  
-Registro n. 3 Presidenza, foglio n. 36
+Visto, il Guardasigilli: ROGNONI   
+Registrato alla Corte dei conti, addi' 20 dicembre 1986   
+Registro n. 12 Presidenza, foglio n. 201

@@ -1,84 +1,484 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 752
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1963 n. 1446
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 752
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1963 n. 1446
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846) e successivi;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:
+
+Art. 9. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:
+
+Sociologia;
+
+Antropologia criminale;
+
+Esegesi delle fonti del diritto romano.
+
+Art. 29. - Agli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:
+
+Storia del teatro e dello spettacolo;
+
+Archivistica.
+
+Gli articoli 83 e 86 relativi all'ordinamento della Scuola di perfezionamento in filologia classica annessa alla Facolta' di lettere e filosofia, sono modificati come segue:
+
+Art. 83. - Il secondo comma e' abrogato e sostituito dal seguente:
+
+"Alla Scuola di perfezionamento possono essere iscritti i laureati in Lettere e filosofia, in materie letterarie e in Pedagogia".
+
+Art. 86. - E' abrogato e sostituito dal seguente:
+
+"Le materie costitutive per conseguire il diploma di perfezionamento sono quattro annuali da scegliere fra le seguenti:
+
+Letteratura greca;
+
+Letteratura latina;
+
+Filologia greca e latina;
+
+Glottologia;
+
+Grammatica greca e latina;
+
+Storia comparata delle lingue classiche;
+
+Papirologia;
+
+Storia romana con esercitazioni di epigrafia;
+
+Storia greca;
+
+Archeologia e storia dell'arte greca a romana;
+
+Storia della filosofia antica;
+
+Antichita' greche e romane;
+
+Etruscologia;
+
+Letteratura cristiana antica;
+
+Filologia bizantina:
+
+Storia della letteratura latina medioevale;
+
+Filologia umanistica;
+
+Paleografia.
+
+Art. 91, relativo alla Scuola di perfezionamento in filosofia annessa alla Facolta' di lettere e filosofia fra le discipline a scelta dello studente e' aggiunta quella di "Esercitazioni di filosofia teoretica".
+
+Dopo l'art. 92 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti nuovi articoli relativi alla istituzione della Scuola di perfezionamento in Storia annessa alla Facolta' di lettere e filosofia.
+
+Scuola di perfezionamento in storia
+
+Art. 93. - Presso la Facolta' di lettere e filosofia e' istituita una Scuola di perfezionamento in storia.
+
+La durata del corso e' di due anni. Vi sono ammessi i laureati delle Facolta' di lettere e filosofia, di magistero e di giurisprudenza. Limitatamente all'indirizzo di storia moderna e contemporanea sono ammessi i laureati della Facolta' di scienze politiche e di economia e commercio.
+
+Sono ammessi, i laureati stranieri forniti di titoli equivalenti.
+
+La Scuola di perfezionamento rilascia un diplomi di perfezionamento.
+
+Art. 94. - La Scuola di perfezionamento ha tre indirizzi:
+
+1) Storia antica;
+
+2) Storia medioevale;
+
+3) Storia moderna e contemporanea.
+
+Art. 95. - Sono materie fondamentali obbligatorie da seguirsi per un biennio dell'indirizzo di storia antica:
+
+1) Storia greca;
+
+2) Storia romana;
+
+Sono materie complementari annuali, da scegliersi in numero di due per ciascun anno di corso:
+
+1) Epigrafia greca;
+
+2) Epigrafia romana;
+
+3) Antichita' greche e romane;
+
+4) Numismatica antica;
+
+5) Filologia classica;
+
+6) Archeologia;
+
+7) Paleografia e diplomatica;
+
+8) Storia antica orientale;
+
+9) Storia del diritto romano;
+
+10) Storia della letteratura greca;
+
+11) Storia della letteratura romana;
+
+12) Storia della filosofia antica;
+
+13) Storia delle religioni;
+
+14) Storia del cristianesimo;
+
+15) Storia della letteratura cristiana antica;
+
+16) Storia della letteratura latina medioevale;
+
+17) Storia medioevale;
+
+18) Storia ed istituzioni della Liguria.
+
+Art. 96. - Sono materie fondamentali obbligatorie da seguirsi per un biennio dell'indirizzo di storia medioevale:
+
+1) Storia medioevale;
+
+2) Paleografia e diplomatica.
+
+Sono materie complementari annuali da scegliersi in numero di due per ciascun anno di corso:
+
+1) Storia romana;
+
+2) Storia moderna;
+
+3) Storia e filologia bizantina;
+
+4) Biblioteconomia e bibliografia;
+
+5) Archivistica;
+
+6) Numismatica; sfragistica e araldica;
+
+7) Linguistica, onomastica e toponomastica medioevale;
+
+8) Pubblicistica e cronachistica medioevale;
+
+9) Paleografia musicale;
+
+10) Epigrafia medioevale;
+
+11) Storia della letteratura latina medioevale;
+
+12) Storia economica;
+
+13) Storia del diritto italiano;
+
+14) Storia del Cristianesimo;
+
+15) Storia della Chiesa;
+
+16) Storia delle religioni;
+
+17) Storia del commercio e della navigazione;
+
+18) Archeologia medioevale;
+
+19) Storia ed istituzioni musulmane;
+
+20) Storia della cultura ebraica;
+
+21) Storia dell'Europa orientale;
+
+22) Storia della tecnica e dell'arte libraria;
+
+23) Storia ed istituzione della Liguria.
+
+Art. 97. - Sono materie fondamentali obbligatorie da seguirsi per un biennio dell'indirizzo di storia moderna e contemporanea:
+
+1) Storia moderna;
+
+2) Storia contemporanea;
+
+3) Geografia.
+
+Sono materie complementari annuali, da scegliersi in numero di due per ciascun anno di corso:
+
+1) Storia medioevale;
+
+2) Storia del Risorgimento;
+
+3) Storia delle dottrine politiche;
+
+4) Storia delle dottrine economiche;
+
+5) Storia del giornalismo;
+
+6) Storia del lavoro e delle idee sociali;
+
+7) Storia del Cristianesimo;
+
+8 Storia della scienza e delle tecniche;
+
+9) Storia della storiografia;
+
+10) Storia economica;
+
+11) Storia dell'industria e degli affari;
+
+12) Sociologia e antropologia culturale;
+
+13) Economia politica;
+
+14) Statistica e demografia;
+
+15) Storia dei trattati e politica internazionale;
+
+16) Storia dei Paesi afro-asiatici;
+
+17) Storia dei Paesi latino americani;
+
+18) Storia dell'America anglo-sassone e degli Stati Uniti;
+
+19) Storia delle democrazie socialiste e dell'Unione Sovietica;
+
+20) Storia della Resistenza e della seconda guerra mondiale;
+
+21) Storia e politica navale;
+
+22) Storia religiosa dell'Oriente cristiano;
+
+23) Storia ed istituzioni della Liguria.
+
+Art. 98. - Almeno negli insegnamenti fondamentali la Scuola di perfezionamento organizza corsi trimestrali di seminario, affidati ai ricercatori facenti capo agli Istituti di storia antica e di storia medioevale e moderna, al termine dei quali gli allievi dovranno sostenere un colloquio o una prova scritta o presentare una esercitazione scritta.
+
+Art. 99. - Gli allievi della Scuola di perfezionamento sono tenuti a frequentare le lezioni ed i seminari.
+
+Il piano di studi e' concordato entro il primo anno di corso tra l'allievo ed il docente della materia in cui l'allievo intende svolgere la dissertazione finale. Per ciascun anno di corso una delle discipline complementari puo' essere scelta tra gli insegnamenti impartiti nell'Universita' e non previsti dal presente regolamento.
+
+Il piano di studi e le sue eventuali successive modifiche sono sottoposti all'approvazione del Consiglio della scuola.
+
+Gli allievi non sono ammessi al secondo anno di corso se non hanno superato tutti gli esami del primo anno.
+
+L'esame di diploma consiste nella presentazione di una, dissertazione scritta avente carattere di originalita', interessante una delle discipline previste per l'indirizzo prescelto e nella discussione della stessa.
+
+Art. 100. - Gli allievi, sono tenuti al pagamento delle tasse nella misura fissata annualmente e per tutto il biennio dal Consiglio della scuola. Tale misura non dovra' in ogni caso eccedere, per il primo e il secondo anno di corso quella stabilita rispettivamente per il primo e per l'ultimo anno di corso della Facolta' di lettere e filosofia.
+
+Su proposta del direttore della Scuola, sentito il parere del Consiglio della scuola, possono essere esonerati in tutto o in parte dal pagamento delle tasse quegli allievi che svolgano o che abbiano svolto una attivita' a carattere continuativo non remunerata presso l'Istituto di storia antica o presso l'Istituto di storia medioevale e moderna.
+
+Art. 101. - Il direttore della Scuola e' nominato per un triennio dalla Facolta' tra i professori di ruolo delle materie comprese nella Scuola.
+
+Art. 102. - Gli insegnanti della Scuola e gli incaricati dei corsi di seminario sono proposti alla Facolta' dal direttore della Scuola e scelti tra i professori di ruolo, i liberi docenti e i cultori notoriamente competenti. Il Consiglio della scuola e' formato dai professori di ruolo e dai liberi docenti incaricati di insegnamenti fondamentali ed e' presieduto dal direttore della Scuola.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 22 settembre 1963
+
+SEGNI
+
+GUI
+
+Visto, il Guardasigilli: BOSCO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 29 ottobre 1963 Atti del Governo, registro n. 175, foglio n. 94. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846) e successivi;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le modifiche proposte;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Dopo l'art. 436 vengono inseriti i seguenti nuovi articoli relativi al corso di specializzazione in ingegneria informatica:  
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:  
   
-Corso di specializzazione in ingegneria informatica  
-Art. 437. - Presso la facolta' di ingegneria e' istituito un corso di specializzazione in ingegneria informatica, per la formazione di esperti nei diversi settori riguardanti la teoria e l'applicazione dell'informatica.  
-Art. 438. - Il corso ha la durata di un anno ed e' retto da un direttore assistito dal consiglio del corso.  
-Art. 439. - Il direttore del corso e' nominato dal rettore su designazione del consiglio di facolta' di ingegneria. Il direttore dura in carica quattro anni ed e' rieleggibile. Il direttore puo' promuovere tutte le iniziative di cooperazione con altre Universita' e con enti italiani e stranieri, che giudichi utili per il raggiungimento dei fini istituzionali.  
-Il consiglio di facolta', sentito il direttore, decide di anno in anno sullo svolgimento del corso e sulle materie da attivare.  
-Art. 440. - Il consiglio del corso e' costituito dal direttore, che lo presiede, e dai docenti delle materie oggetto di insegnamento fra quelle elencate nell'art. 444.  
-Gli insegnanti del corso sono nominati dal rettore su proposta del direttore, che di anno in anno puo' sceglierli tra i professori di ruolo, fra i liberi docenti, fra gli aiuti e gli assistenti o anche fra persone di riconosciuta competenza in una delle materie trattate nel corso, ovvero giovarsi, per talune materie, di insegnamenti svolti presso una delle facolta' dell'Universita' di Genova.  
-Art. 441. - Al corso sono ammessi i laureati in ingegneria; il consiglio del corso potra' ammettere candidati in possesso di laurea in altra materia o di Aiolo giudicato equivalente. Il consiglio del corso delibera tempestivamente di anno in anno l'inizio e lo svolgimento delle lezioni, il numero massimo di allievi ammessi al corso, e le norme per l'ammissione. L'ammissione al corso e' subordinata ad una graduatoria formulata in base all'esito di un esame orale che verte sui fondamenti dei sistemi di calcolo automatico e sulla loro programmazione.  
-Art. 442. - Il direttore e' responsabile della supervisione dell'attivita' di studio degli iscritti che sono tenuti a frequentare i singoli insegnamenti secondo le modalita' stabilite dal consiglio del corso.  
-Art. 443. - Ciascuno allievo deve predisporre un piano di studi nell'ambito delle discipline oggetto di insegnamento tra quelle elencate nel successivo articolo o nell'ambito delle discipline insegnate presso l'Universita' di Genova. Il numero degli insegnamenti nel piano di studi deve essere almeno equivalente a sei insegnamenti annuali. Il piano di studi e' sottoposto all'approvazione del consiglio del corso.  
-Art. 444. - Gli insegnamenti impartiti sono annuali, ad eccezione dei corsi monografici che sono semestrali; alcuni degli insegnamenti annuali potranno essere suddivisi in insegnamenti semestrali. Essi sono:  
-1) Acquisizione e trasmissione dati;  
-2) Applicazioni gestionali degli elaboratori elettronici;  
-3) Automazione degli impianti industriali;  
-4) Calcolo numerico e programmazione;  
-5) Compilatori e sistemi operativi;  
-6) Esercitazioni di linguaggi programmativi;  
-7) Istruzione assistita da calcolatori;  
-8) Linguaggi programmativi speciali;  
-9) Logica e teoria degli automi;  
-10) Metodi di calcolo ibrido;  
-11) Modelli di processi industriali;  
-12) Organizzazione dei sistemi di elaborazione della informazione;  
-13) Principi di economia ed econometria;  
-14) Reti combinatorie e sequenziali;  
-15) Ricerca operativa;  
-16) Simulazione e modellistica;  
-17) Struttura dei calcolatori elettronici;  
-18) Tecniche digitali;  
-19) Tecniche di interazione uomo-macchina;  
-20) Tecniche di organizzazione delle informazioni;  
-21) Teoria della probabilita' e statistica;  
-22) Corsi monografici.  
-I corsi monografici in numero non superiore a due, sono stabiliti di anno in anno dal consiglio del corso e sono affidati ad esperti italiani e stranieri, prescelti dal consiglio stesso.  
-Gli insegnamenti sono integrati da seminari.  
-Art. 445. - Per la validita' del corso ciascuno iscritto dovra' superare gli esami di tutti gli insegnamenti previsti nel suo piano di studi e dovra' svolgere un lavoro personale di carattere teorico e sperimentale. Agli iscritti che abbiano superati gli esami ed abbiano ottenuto l'idoneita' per il lavoro personale eseguito viene rilasciato un attestato comprovante la carriera scolastica compiuta.  
-Art. 446. - Il lavoro personale andra' concordato con uno degli insegnanti del corso e svolto sotto la sua guida. Il giudizio sull'idoneita' sul lavoro personale verra' espresso da una commissione costituita dal direttore del corso, dal relatore, e da un correlatore, nominato dal consiglio del corso nella persona di un competente nel soggetto particolare del lavoro, il quale non faccia parte dell'Universita' di Genova.  
-Art. 447. - Gli iscritti sono tenuti al pagamento delle seguenti tasse, soprattasse e contributi:  
+Art. 9. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:  
+Sociologia;  
+Antropologia criminale;  
+Esegesi delle fonti del diritto romano.  
   
-tassa di immatricolazione. . . . . . . . . . . . . . . . . . L. 5.000 tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 18.000 soprattassa annuale per esame di profitto . . . . . . . . . L. 7.000 contributo assistenziale . . . . . . . . . . . . . . . . . . . L. 400 contributo riscaldamento . . . . . . . . . . . . . . . . . . L. 9.500 contributo unificato . . . . . . . . . . . . . . . . . . . . L. 4.000   
-L'ammontare dei contributi di laboratorio e di esercitazione viene stabilito dal consiglio di amministrazione su proposta del senato accademico, uditi la facolta' di ingegneria e il consiglio di corso.  
+Art. 29. - Agli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:  
+Storia del teatro e dello spettacolo;  
+Archivistica.  
+  
+Gli articoli 83 e 86 relativi all'ordinamento della Scuola di perfezionamento in filologia classica annessa alla Facolta' di lettere e filosofia, sono modificati come segue:  
+  
+Art. 83. - Il secondo comma e' abrogato e sostituito dal seguente:   
+"Alla Scuola di perfezionamento possono essere iscritti i laureati in Lettere e filosofia, in materie letterarie e in Pedagogia".  
+  
+Art. 86. - E' abrogato e sostituito dal seguente:  
+  
+"Le materie costitutive per conseguire il diploma di perfezionamento sono quattro annuali da scegliere fra le seguenti:  
+Letteratura greca;  
+Letteratura latina;  
+Filologia greca e latina;  
+Glottologia;  
+Grammatica greca e latina;  
+Storia comparata delle lingue classiche;  
+Papirologia;  
+Storia romana con esercitazioni di epigrafia;  
+Storia greca;  
+Archeologia e storia dell'arte greca a romana;  
+Storia della filosofia antica;  
+Antichita' greche e romane;  
+Etruscologia;  
+Letteratura cristiana antica;  
+Filologia bizantina:  
+Storia della letteratura latina medioevale;  
+Filologia umanistica;  
+Paleografia.  
+  
+Art. 91, relativo alla Scuola di perfezionamento in filosofia annessa alla Facolta' di lettere e filosofia fra le discipline a scelta dello studente e' aggiunta quella di "Esercitazioni di filosofia teoretica".  
+Dopo l'art. 92 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti nuovi articoli relativi alla istituzione della Scuola di perfezionamento in Storia annessa alla Facolta' di lettere e filosofia.  
+  
+Scuola di perfezionamento in storia  
+  
+Art. 93. - Presso la Facolta' di lettere e filosofia e' istituita una Scuola di perfezionamento in storia.  
+La durata del corso e' di due anni. Vi sono ammessi i laureati delle Facolta' di lettere e filosofia, di magistero e di giurisprudenza. Limitatamente all'indirizzo di storia moderna e contemporanea sono ammessi i laureati della Facolta' di scienze politiche e di economia e commercio.  
+Sono ammessi, i laureati stranieri forniti di titoli equivalenti.  
+La Scuola di perfezionamento rilascia un diplomi di perfezionamento.  
+  
+Art. 94. - La Scuola di perfezionamento ha tre indirizzi:  
+1) Storia antica;  
+2) Storia medioevale;  
+3) Storia moderna e contemporanea.  
+  
+Art. 95. - Sono materie fondamentali obbligatorie da seguirsi per un biennio dell'indirizzo di storia antica:  
+1) Storia greca;  
+2) Storia romana;  
+  
+Sono materie complementari annuali, da scegliersi in numero di due per ciascun anno di corso:  
+  
+1) Epigrafia greca;  
+2) Epigrafia romana;  
+3) Antichita' greche e romane;  
+4) Numismatica antica;  
+5) Filologia classica;  
+6) Archeologia;  
+7) Paleografia e diplomatica;  
+8) Storia antica orientale;  
+9) Storia del diritto romano;  
+10) Storia della letteratura greca;  
+11) Storia della letteratura romana;  
+12) Storia della filosofia antica;  
+13) Storia delle religioni;  
+14) Storia del cristianesimo;  
+15) Storia della letteratura cristiana antica;  
+16) Storia della letteratura latina medioevale;  
+17) Storia medioevale;  
+18) Storia ed istituzioni della Liguria.  
+  
+Art. 96. - Sono materie fondamentali obbligatorie da seguirsi per un biennio dell'indirizzo di storia medioevale:  
+1) Storia medioevale;  
+2) Paleografia e diplomatica.  
+  
+Sono materie complementari annuali da scegliersi in numero di due per ciascun anno di corso:  
+1) Storia romana;  
+2) Storia moderna;  
+3) Storia e filologia bizantina;  
+4) Biblioteconomia e bibliografia;  
+5) Archivistica;  
+6) Numismatica; sfragistica e araldica;  
+7) Linguistica, onomastica e toponomastica medioevale;  
+8) Pubblicistica e cronachistica medioevale;  
+9) Paleografia musicale;  
+10) Epigrafia medioevale;  
+11) Storia della letteratura latina medioevale;  
+12) Storia economica;  
+13) Storia del diritto italiano;  
+14) Storia del Cristianesimo;  
+15) Storia della Chiesa;  
+16) Storia delle religioni;  
+17) Storia del commercio e della navigazione;  
+18) Archeologia medioevale;  
+19) Storia ed istituzioni musulmane;  
+20) Storia della cultura ebraica;  
+21) Storia dell'Europa orientale;  
+22) Storia della tecnica e dell'arte libraria;  
+23) Storia ed istituzione della Liguria.  
+  
+Art. 97. - Sono materie fondamentali obbligatorie da seguirsi per un biennio dell'indirizzo di storia moderna e contemporanea:  
+1) Storia moderna;  
+2) Storia contemporanea;  
+3) Geografia.  
+  
+Sono materie complementari annuali, da scegliersi in numero di due per ciascun anno di corso:  
+1) Storia medioevale;  
+2) Storia del Risorgimento;  
+3) Storia delle dottrine politiche;  
+4) Storia delle dottrine economiche;  
+5) Storia del giornalismo;  
+6) Storia del lavoro e delle idee sociali;  
+7) Storia del Cristianesimo;  
+8 Storia della scienza e delle tecniche;  
+9) Storia della storiografia;  
+10) Storia economica;  
+11) Storia dell'industria e degli affari;  
+12) Sociologia e antropologia culturale;  
+13) Economia politica;  
+14) Statistica e demografia;  
+15) Storia dei trattati e politica internazionale;  
+16) Storia dei Paesi afro-asiatici;  
+17) Storia dei Paesi latino americani;  
+18) Storia dell'America anglo-sassone e degli Stati Uniti;  
+19) Storia delle democrazie socialiste e dell'Unione Sovietica;  
+20) Storia della Resistenza e della seconda guerra mondiale;  
+21) Storia e politica navale;  
+22) Storia religiosa dell'Oriente cristiano;  
+23) Storia ed istituzioni della Liguria.  
+  
+Art. 98. - Almeno negli insegnamenti fondamentali la Scuola di perfezionamento organizza corsi trimestrali di seminario, affidati ai ricercatori facenti capo agli Istituti di storia antica e di storia medioevale e moderna, al termine dei quali gli allievi dovranno sostenere un colloquio o una prova scritta o presentare una esercitazione scritta.  
+  
+Art. 99. - Gli allievi della Scuola di perfezionamento sono tenuti a frequentare le lezioni ed i seminari.  
+Il piano di studi e' concordato entro il primo anno di corso tra l'allievo ed il docente della materia in cui l'allievo intende svolgere la dissertazione finale. Per ciascun anno di corso una delle discipline complementari puo' essere scelta tra gli insegnamenti impartiti nell'Universita' e non previsti dal presente regolamento.  
+Il piano di studi e le sue eventuali successive modifiche sono sottoposti all'approvazione del Consiglio della scuola.  
+Gli allievi non sono ammessi al secondo anno di corso se non hanno superato tutti gli esami del primo anno.  
+L'esame di diploma consiste nella presentazione di una, dissertazione scritta avente carattere di originalita', interessante una delle discipline previste per l'indirizzo prescelto e nella discussione della stessa.  
+  
+Art. 100. - Gli allievi, sono tenuti al pagamento delle tasse nella misura fissata annualmente e per tutto il biennio dal Consiglio della scuola. Tale misura non dovra' in ogni caso eccedere, per il primo e il secondo anno di corso quella stabilita rispettivamente per il primo e per l'ultimo anno di corso della Facolta' di lettere e filosofia.  
+Su proposta del direttore della Scuola, sentito il parere del Consiglio della scuola, possono essere esonerati in tutto o in parte dal pagamento delle tasse quegli allievi che svolgano o che abbiano svolto una attivita' a carattere continuativo non remunerata presso l'Istituto di storia antica o presso l'Istituto di storia medioevale e moderna.  
+  
+Art. 101. - Il direttore della Scuola e' nominato per un triennio dalla Facolta' tra i professori di ruolo delle materie comprese nella Scuola.  
+  
+Art. 102. - Gli insegnanti della Scuola e gli incaricati dei corsi di seminario sono proposti alla Facolta' dal direttore della Scuola e scelti tra i professori di ruolo, i liberi docenti e i cultori notoriamente competenti. Il Consiglio della scuola e' formato dai professori di ruolo e dai liberi docenti incaricati di insegnamenti fondamentali ed e' presieduto dal direttore della Scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1974
+### Dato a Roma, addi' 22 settembre 1963
 
-LEONE MALFATTI
+SEGNI GUI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 27 gennaio 1975
+Registrato alla Corte dei conti, addi' 29 ottobre 1963
 
-Atti di Governo, registro n. 8, foglio n. 18
+Atti del Governo, registro n. 175, foglio n. 94. - VILLA

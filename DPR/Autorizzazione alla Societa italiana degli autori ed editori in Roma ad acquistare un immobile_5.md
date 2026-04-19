@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1985 n. 185
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 novembre 1982 n. 996
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1985 n. 185
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 novembre 1982 n. 996
 ===============================================================
 
 Autorizzazione alla Societa' italiana degli autori ed editori, in Roma, ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-185. Decreto del Presidente della Repubblica 25 febbraio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana degli autori ed editori, in Roma, viene autorizzata ad acquistare, al convenuto prezzo di L. 127.500.000, un immobile sito in Lucca, piazza del Giglio n. 4, distinto nel nuovo catasto edilizio urbano alla partita 9573, foglio 197, mappale 388 sub 4, come da atto in data 18 marzo 1981, n. 64433 di repertorio, a rogito dott. Francesco Raspini, notaio in Lucca, registrato a Lucca in data 6 aprile 1981 al n. 1835.  
+996. Decreto del Presidente della Repubblica 23 novembre 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana degli autori ed editori - SIAE, in Roma, viene autorizzata ad acquistare, come da atto 25 gennaio 1980, n. 17606 di repertorio, del dott. Umberto Caprara, notaio in Vicenza, ed atto rettificativo dello stesso notaio 17 settembre 1980, n. 18648 di repertorio, al convenuto prezzo di L. 61.600.000, un immobile sito in Vicenza, via del Quartiere n. 8 comprendente pei la piena proprieta' un appartamento al piano rialzato distinto nel nuovo catasto edilizio urbano alla sezione A, foglio III, mappale 395 sub 1 - via del Quartiere n. 8 p.t., e per 69/1000 di comproprieta' sull'area di pertinenza del fabbricato e sulle parti comuni e per 69/85 di 85,595/1000 di comproprieta' della centrale elettrica al piano seminterrato, mappale 395 sub 18 p.St.; immobile valutato da perizia estimativa di parte L. 64.720.000.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 2 maggio 1985  
-Registro n. 4 Presidenza, foglio n. 89
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 12 gennaio 1983  
+Registro n. 1 Presidenza, foglio n. 52

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1953 n. 907
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1954 n. 770
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1953 n. 907
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1954 n. 770
+==============================================================
 
 Autorizzazione all'Universita' di Pavia ad accettare una donazione.
 -------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-907. Decreto del Presidente della Repubblica 30 luglio 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Pavia viene autorizzata ad accettare la donazione di L. 600.000 (seicentomila) nominali in cartelle di Rendita italiana 5% al portatore, oltre L. 60.000 in denaro liquido, disposta in suo favore dal prof. Luigi Brusotti, per l'istituzione, con la rendita del capitale donato, di un premio di studio intitolato "Premio Luigi Berzolari".  
+770. Decreto del Presidente della Repubblica 26 gennaio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Pavia viene autorizzata ad accettare la donazione di L. 200.000 nominali, in titoli di Stato, buoni del Tesoro 5% 1959, da convertirsi in certificati nominativi intestati all'Universita' medesima, con annotazione di vincolo a favore del premio di studio "Dott. Giampiero Veratti" disposta in suo favore dal prof. Emilio Veratti, con atto pubblico amministrativo 25 giugno 1953, allo scopo di incrementare il capitale del gia' costituito premio di studio intitolato "Dott. Giampiero Veratti".  
   
-Visto, il Guardasigilli: AZARA  
-Registrato alla Corte dei conti, addi' 7 dicembre 1953  
-Atti del Governo, registro n. 80, foglio n. 66. - PALLA
+Visto, il Guardasigilli: DE PIETRO  
+Registrato alla Corte dei conti, addi' 26 agosto 1954  
+Atti del Governo, registro n. 85, foglio n. 88. - CARLOMAGNO

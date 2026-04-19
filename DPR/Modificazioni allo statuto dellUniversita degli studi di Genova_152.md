@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 luglio 1950 n. 1255
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1986 n. 607
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 luglio 1950 n. 1255
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1986 n. 607
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
@@ -10,375 +10,166 @@ Modificazioni allo statuto dell'Universita' degli studi di Genova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), modificato con [regi decreti 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2846), [25 ottobre 1928, n. 3510](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1928-10-25;3510), [31 ottobre 1929, n. 2396](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1929-10-31;2396), [30 ottobre 1930, n. 1859](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1859), [1 ottobre 1931, n. 1371](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-01;1371), [27 ottobre 1932, n. 2086](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-10-27;2086), [6 dicembre 1934, n. 2281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-06;2281), [1 ottobre 1936, n. 2474](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2474), [20 aprile 1939, n. 1086](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-04-20;1086), [16 marzo 1942, n. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-03-16;324), [5 settembre 1942, n. 1236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-09-05;1236), [24 ottobre 1942, n. 1671 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1671) [2 novembre 1948, n. 1505](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-11-02;1505) e [30 ottobre 1949, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1058);
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduto il [regio decreto-legge 27 gennaio 1944, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-27;58);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche della Universita' predetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico del 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova;
+
+Considerato che e' tuttora in atto la sperimentazione organizzativa e didattica di cui agli [articoli 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art81)-[93 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art93);
+
+Considerato che le tabelle dell'ordinamento didattico universitario relative ai corsi di laurea sono in fase di riordinamento per effetto di apposite commissioni di studio, e che anzi alcune tabelle sono state gia' riordinate;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Rilevata la necessita' di accogliere la richiesta dell'Universita' di Genova di istituire il corso di laurea in scienze dell'informazione, allo scopo di riequilibrare le iscrizioni presso gli omonimi corsi di laurea degli atenei viciniori, al fine di assicurare una migliore formazione degli studenti;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti succitati, e' cosi' ulteriormente modificato:
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 9. - Gli insegnamenti di "Diritto marittimo", di "Diritto aeronautico" sono soppressi.
+Articolo unico
+--------------
 
-All'elenco degli insegnamenti complementari sono aggiunti i seguenti:
-
-"Diritto della navigazione";
-
-"Psicologia".
-
-Art. 12. - E' cosi' sostituito:
-
-"Lo studente non puo' sostenere gli esami di "Diritto internazionale, di dottrina dello Stato e di diritto del lavoro", ove non abbia prima superato l'esame di istituzioni di diritto pubblico; ne' puo' sostenere l'esame di diritto amministrativo ove non abbia prima superato l'esame di diritto costituzionale".
-
-Art. 23. - L'insegnamento di "Diritto marittimo o e' sostituito con quello di "Diritto della navigazione".
-
-Art. 24. - Il secondo comma e' sostituito dal seguente:
-
-"L'economia politica e' considerata propedeutica alla scienza delle finanze e diritto finanziario, all'economia e politica agraria, alla storia economica e alla politica economica e finanziaria".
-
-Art. 26. - Dopo il primo comma e' inserito il seguente:
-
-"La Commissione di laurea puo' dispensare il candidato dalla discussione di una delle due tesi orali. Gli argomenti della dissertazione scritta e delle due tesi orali debbono essere comunicati dal candidato alla Segreteria, previa approvazione dei professori della materia, entro il termine stabilito dal Consiglio di Facolta".
-
-E' aggiunto il seguente comma:
-
-"Sulla dissertazione di laurea riferiranno per iscritto due relatori designati dal Consiglio di Facolta'. La Commissione esaminatrice puo' non ammettere alla discussione la dissertazione che per giudizio motivato dei relatori non risulti degna di essere presa in considerazione".
-
-Art. 27. - E' sostituito dal seguente:
-
-Sono annessi alla Facolta' gli Istituti di Economia e Finanza.
-
-Geografia economica.
-
-Matematica generale, finanziaria e attuariale.
-
-Merceologia.
-
-Politica economica e finanziaria.
-
-Ragioneria.
-
-Statistica.
-
-Storia economica.
-
-Studi giuridici.
-
-Tecnica economico-commerciale.
-
-In seno all'Istituto di studi giuridici e' costituita una Sezione autonoma di diritto delle assicurazioni.
-
-Negli Istituti si svolgono esercitazioni e conferenze diurne e serali relative ai corsi d'insegnamento al fine d'integrare la cultura dei giovani e di addestrarli alla pratica della professione, degli impieghi e al lavoro scientifico.
-
-L'incarico della direzione dei singoli Istituti e' conferito annualmente dal Consiglio di Facolta',.
-
-Gli studenti sono tenuti al pagamento di un contributo speciale a favore degli Istituti e della Biblioteca di Facolta' in misura da deliberarsi ogni anno dal Consiglio di Facolta'.
-
-Dopo l'art. 27, e' inserito il seguente nuovo articolo, col conseguente spostamento della numerazione degli articoli successivi.
-
-Art. 28. - Durante ogni biennio potra' essere compiuto un viaggio d'istruzione in Italia o all'estero con le modalita che saranno di volta in volta stabilite.
-
-All'attuale art. 30, nell'elenco degli insegnamenti complementari sono aggiunti i seguenti:
-
-"Storia della letteratura latina medioevale";
-
-"Filologia germanica";
-
-"Paletnologia".
-
-All'attuale art. 31, nell'elenco degli insegnamenti complementari sono aggiunti i seguenti:
-
-"Estetica";
-
-"Storia della filosofia antica";
-
-"Storia della filosofia medioevale".
-
-L'attuale art. 37, e' cosi' sostituito:
-
-Il laureato proveniente da altra Facolta', che domanda di iscriversi a uno dei corsi di laurea in lettere o in filosofia, e' tenuto a iscriversi ed a sostenere l'esame in tutti quegli insegnamenti, richiesti per il nuovo corso di laurea, dei quali non risulti aver gia' superato l'esame nel corso di laurea precedente.
-
-Ai laureati, provenienti da altre Facolta', che aspirano all'iscrizione ai corsi di laurea in lettere o filosofia, si concedera', in linea di massima, l'abbreviazione di un anno per ogni cinque esami sostenuti nel precedente corso di studi, valutabili per il nuovo corso di laurea. Il Consiglio di Facolta', tuttavia, si riserva di prendere in esame e di valutare debitamente eventuali titoli che possano autorizzare un criterio di maggiore larghezza, quali ottimi risultati di studi precedenti, pubblicazioni, assententato, ecc. Sara' concessa l'iscrizione al secondo anno del corso di laurea in lettere o in filosofia ai laureati in giurisprudenza purche' adempiano all'obbligo di iscriversi e di sostenere gli esami in tutte le materie fondamentali del rispettivo corso di laurea, nonche' in tre materia complementari per la laurea in lettere, due complementari per la laurea in filosofia.
-
-Per il corso di laurea in lettere, dovranno essere biennali gli insegnamenti di letteratura italiana e di letteratura latina.
-
-Per l'indirizzo classico dovra' essere biennale l'insegnamento della "Letteratura greca", per l'indirizzo moderno quello di "Filologia romanza" o quello di una "Lingua e letteratura straniera".
-
-Per il corso di laurea in filosofia dovranno essere biennali gli insegnamenti di "Storia della filosofia" di "Filosofia morale" e "Filosofia teoretica".
-
-All'attuale art. 44, nell'elenco degli insegnamenti complementari sono soppressi quelli di "Biologia della razze umane" e di "Malattie infettive" e sono aggiunti i seguenti insegnamenti:
-
-"Psicologia";
-
-"Medicina del lavoro".
-
-All'attuale art. 49, nell'elenco degli insegnamenti complementari per l'indirizzo inorganico-chimico-fisico e' aggiunto quello di "Scienza dei metalli".
-
-All'attuale art. 50, nell'elenco degli insegnamenti complementari e' aggiunto quello di "Scienza dei metalli".
-
-Agli attuali articoli 52 e 53, nell'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:
-
-"Matematiche superiori";
-
-"Meccanica superiore".
-
-All'attuale art. 54, nell'elenco degli insegnamenti complementari e' soppresso quello di "Biologia delle razze umane".
-
-Dopo l'attuale art. 55, e' aggiunto il seguente nuovo articolo, col conseguente spostamento della numerazione degli articoli successivi.
-
-Art. 56. - "Qualora se ne constati l'opportunita', la Facolta' puo' stabilire che alcuni degli insegnamenti complementari elencati negli attuali articoli 49, 50, 51, 52, 53 e 54 vengano impartiti ad anni alternati".
-
-All'attuale art. 56, nell'ultimo comma le parole "chimica fisica" sono soppresse.
-
-All'attuale art. 57, e' aggiunto il seguente comma:
-
-"Gli esami di fisica, di chimica generale ed inorganica, di chimica organica per la laurea in scienze naturali devono precedere gli esami di botanica, di zoologia e di mineralogia".
-
-All'attuale art. 60, nell'ultimo comma dopo le parole "prova pratica" sono aggiunte le seguenti altre: "e ad un esame di cultura generale".
-
-All'attuale art. 62, nell'elenco degli insegnamenti complementari viene soppresso quello di "Chimica di guerra" ed aggiunto l'insegnamento di "Scienza dell'alimentazione".
-
-L'attuale art. 64, e' sostituito del seguente:
-
-Lo studente non puo' prendere iscrizione all'insegnamento di chimica organica se non ha frequentato quello di chimica generale ed inorganica.
-
-Gli insegnamenti di chimica generale ed inorganica e di chimica organica sono propedeutici rispetto a quelli di chimica farmaceutica e tossicologica, di chimica biologica, di chimica bromatologica e della terza parte (3° anno) delle esercitazioni di chimica farmaceutica e tossicologica.
-
-Gli insegnamenti di chimica generale ed inorganica, di chimica organica, di anatomia umana, di fisiologia generale sono propedeutici rispetto a quello di farmacologia e farmacognosia.
-
-Lo studente deve frequentare gli insegnamenti propedeutici prima di seguire gli altri sopra indicati e non puo' presentarsi agli esami di questi ultimi se non ha superato gli esami dei primi.
-
-Il corso complementare di igiene, da chi lo scelga, dev'essere frequentato nel secondo biennio.
-
-All'attuale art. 65, nel primo comma le parole "una prova pratica alla fine di ogni anno" sono sostituite con "una prova teorico-pratica alla fine di ogni anno".
-
-All'attuale art. 77, e' aggiunto il seguente comma:
-
-"Le materie a svolgimento pluriennale avranno esami di profitto al termine di ciascun anno d'insegnamento".
-
-Dopo l'attuale art. 151, sono inseriti i seguenti nuovi articoli relativi alla "Scuola di specializzazione in clinica medica generale".
-
-Art. 152. - Presso l'Istituto di clinica medica generale e terapia e con la direzione affidata al proprio titolare, e' istituita la Scuola di specializzazione in clinica, medica generale, che ha lo scopo di conferire la necessaria competenza a coloro che vogliono particolarmente dedicarsi all'esercizio della medicina generale.
-
-Il diploma, che viene rilasciato in seguito ad esami, da' diritto alla qualifica di specialista in medicina interna, a norma dell'art. 178 del testo unico delle leggi sull'istruzione superiore.
-
-Art. 153. - Gli insegnamenti impartiti nella Scuola sono i seguenti:
-
-1) Clinica medica generale;
-
-2) Terapia medica e ricettazione;
-
-3) Chimica applicata alla clinica;
-
-4) Batteriologia e sierologia applicata alla clinica;
-
-5) Anatomia patologica applicata alla clinica;
-
-6) Radiologia applicata alla clinica;
-
-7) Cardiologia;
-
-8) Endocrinologia;
-
-9) Ricambio;
-
-10) Ematologia;
-
-11) Gastroenterologia;
-
-12) Malattie infettive;
-
-13) Patologia del lavoro;
-
-14) Scienza dell'alimentazione e dietetica;
-
-15) Tecnica assistenziale ed ospedaliera.
-
-La ripartizione degli insegnamenti nei singoli anni e' fatta dal direttore della Scuola.
-
-Il numero e la distribuzione delle ore di lezione saranno fissati dal direttore della Scuola al principio di ciascun anno scolastico.
-
-Oltre alle materie suddette, oggetto di lezioni, gli inscritti avranno esercitazioni pratiche nelle materie di insegnamento.
-
-Ogni anno sara', inoltre tenuto un ciclo di conferenze di cultura generale e collaterale, soprattutto riguardanti l'apporto alla clinica medica da parte delle branche specialistiche.
-
-Art. 154. - Il corso ha la durata di cinque anni.
-
-L'insegnamento ha carattere dottrinale, dimostrativo e pratico. Il periodo puo' essere abbreviato per gli assistenti ordinari di clinica medica e patologia medica, per gli assistenti incaricati o volontari con tre anni di effettivo servizio.
-
-Art. 155. - Gli inscritti hanno l'obbligo di frequentare la clinica medica ed i corsi ufficiali di lezioni ed esercitazioni. Essi dovranno inoltre prestare servizio in clinica medica come medici interni con diritto a due mesi di vacanze durante ogni anno.
-
-Al corso possono iscriversi solo i laureati in medicina e chirurgia. Le tasse da pagare sono quelle prescritte dalla Facolta' di medicina e chirurgia. Coloro che sostengono l'esame per il diploma di specialista debbono pagare la tassa relativa fissata dal Consiglio di amministrazione dell'Universita'.
-
-Art. 156. - Alla fine del quinto anno, sempre subordinatamente alla ottenuta frequenza al corso, gli allievi saranno ammessi all'esamne finale consistente in un esame orale - ed eventualmente scritto - con discussione sulla diagnosi, prognosi, terapia di un caso clinico.
-
-Dopo superato tale esame, dovranno presentare e discutere una tesi scritta su un argomento di ordine medico.
-
-Art. 157. - L'esame finale e la discussione della tesi sono sostenuti davanti ad una Commissione, nominata dal Consiglio della Facolta' di medicina e chirurgia, e composta di cinque membri e cioe' dal direttore della scuola, titolare delle cattedre di clinica medica, quale presidente della Commissione, da tre professori di ruolo della Facolta', titolari di materie il cui insegnamento e' oggetto del corso, e da un libero docente.
-
-Art. 158. - Agli allievi che hanno ottenuto l'approvazione nell'esame finale viene rilasciato il diploma di specializzazione in medicina interna.
-
-Le spese relative al funzionamento della predetta, Scuola saranno a carico del bilancio ordinario dell'Universita' di Genova.
-
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 4 luglio 1950
-
-EINAUDI
-
-GONELLA
-
-Visto, il Guardasigilli: PICCIONI
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 23 marzo 1951 Atti del Governo, registro n. 38, foglio n. 65. - CARLOMAGNO
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), modificato con [regi decreti 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2846), [25 ottobre 1928, n. 3510](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1928-10-25;3510), [31 ottobre 1929, n. 2396](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1929-10-31;2396), [30 ottobre 1930, n. 1859](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1859), [1 ottobre 1931, n. 1371](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-01;1371), [27 ottobre 1932, n. 2086](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-10-27;2086), [6 dicembre 1934, n. 2281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-06;2281), [1 ottobre 1936, n. 2474](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2474), [20 aprile 1939, n. 1086](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-04-20;1086), [16 marzo 1942, n. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-03-16;324), [5 settembre 1942, n. 1236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-09-05;1236), [24 ottobre 1942, n. 1671 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1671) [2 novembre 1948, n. 1505](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-11-02;1505) e [30 ottobre 1949, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1058);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduto il [regio decreto-legge 27 gennaio 1944, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-27;58);  
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche della Universita' predetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti succitati, e' cosi' ulteriormente modificato:  
-Art. 9. - Gli insegnamenti di "Diritto marittimo", di "Diritto aeronautico" sono soppressi.  
-All'elenco degli insegnamenti complementari sono aggiunti i seguenti:  
-"Diritto della navigazione";  
-"Psicologia".  
-Art. 12. - E' cosi' sostituito:  
-"Lo studente non puo' sostenere gli esami di "Diritto internazionale, di dottrina dello Stato e di diritto del lavoro", ove non abbia prima superato l'esame di istituzioni di diritto pubblico; ne' puo' sostenere l'esame di diritto amministrativo ove non abbia prima superato l'esame di diritto costituzionale".  
-Art. 23. - L'insegnamento di "Diritto marittimo o e' sostituito con quello di "Diritto della navigazione".  
-Art. 24. - Il secondo comma e' sostituito dal seguente:  
-"L'economia politica e' considerata propedeutica alla scienza delle finanze e diritto finanziario, all'economia e politica agraria, alla storia economica e alla politica economica e finanziaria".  
-Art. 26. - Dopo il primo comma e' inserito il seguente:  
-"La Commissione di laurea puo' dispensare il candidato dalla discussione di una delle due tesi orali. Gli argomenti della dissertazione scritta e delle due tesi orali debbono essere comunicati dal candidato alla Segreteria, previa approvazione dei professori della materia, entro il termine stabilito dal Consiglio di Facolta".  
-E' aggiunto il seguente comma:  
-"Sulla dissertazione di laurea riferiranno per iscritto due relatori designati dal Consiglio di Facolta'. La Commissione esaminatrice puo' non ammettere alla discussione la dissertazione che per giudizio motivato dei relatori non risulti degna di essere presa in considerazione".  
-Art. 27. - E' sostituito dal seguente:  
-  
-Sono annessi alla Facolta' gli Istituti di Economia e Finanza.  
-Geografia economica.  
-Matematica generale, finanziaria e attuariale.  
-Merceologia.  
-Politica economica e finanziaria.  
-Ragioneria.  
-Statistica.  
-Storia economica.  
-Studi giuridici.  
-Tecnica economico-commerciale.  
-In seno all'Istituto di studi giuridici e' costituita una Sezione autonoma di diritto delle assicurazioni.  
-Negli Istituti si svolgono esercitazioni e conferenze diurne e serali relative ai corsi d'insegnamento al fine d'integrare la cultura dei giovani e di addestrarli alla pratica della professione, degli impieghi e al lavoro scientifico.  
-L'incarico della direzione dei singoli Istituti e' conferito annualmente dal Consiglio di Facolta',.  
-Gli studenti sono tenuti al pagamento di un contributo speciale a favore degli Istituti e della Biblioteca di Facolta' in misura da deliberarsi ogni anno dal Consiglio di Facolta'.  
-Dopo l'art. 27, e' inserito il seguente nuovo articolo, col conseguente spostamento della numerazione degli articoli successivi.  
-Art. 28. - Durante ogni biennio potra' essere compiuto un viaggio d'istruzione in Italia o all'estero con le modalita che saranno di volta in volta stabilite.  
-All'attuale art. 30, nell'elenco degli insegnamenti complementari sono aggiunti i seguenti:  
-"Storia della letteratura latina medioevale";  
-"Filologia germanica";  
-"Paletnologia".  
-All'attuale art. 31, nell'elenco degli insegnamenti complementari sono aggiunti i seguenti:  
-"Estetica";  
-"Storia della filosofia antica";  
-"Storia della filosofia medioevale".  
-L'attuale art. 37, e' cosi' sostituito:  
-  
-Il laureato proveniente da altra Facolta', che domanda di iscriversi a uno dei corsi di laurea in lettere o in filosofia, e' tenuto a iscriversi ed a sostenere l'esame in tutti quegli insegnamenti, richiesti per il nuovo corso di laurea, dei quali non risulti aver gia' superato l'esame nel corso di laurea precedente.  
-Ai laureati, provenienti da altre Facolta', che aspirano all'iscrizione ai corsi di laurea in lettere o filosofia, si concedera', in linea di massima, l'abbreviazione di un anno per ogni cinque esami sostenuti nel precedente corso di studi, valutabili per il nuovo corso di laurea. Il Consiglio di Facolta', tuttavia, si riserva di prendere in esame e di valutare debitamente eventuali titoli che possano autorizzare un criterio di maggiore larghezza, quali ottimi risultati di studi precedenti, pubblicazioni, assententato, ecc. Sara' concessa l'iscrizione al secondo anno del corso di laurea in lettere o in filosofia ai laureati in giurisprudenza purche' adempiano all'obbligo di iscriversi e di sostenere gli esami in tutte le materie fondamentali del rispettivo corso di laurea, nonche' in tre materia complementari per la laurea in lettere, due complementari per la laurea in filosofia.  
-Per il corso di laurea in lettere, dovranno essere biennali gli insegnamenti di letteratura italiana e di letteratura latina.  
-Per l'indirizzo classico dovra' essere biennale l'insegnamento della "Letteratura greca", per l'indirizzo moderno quello di "Filologia romanza" o quello di una "Lingua e letteratura straniera".  
-Per il corso di laurea in filosofia dovranno essere biennali gli insegnamenti di "Storia della filosofia" di "Filosofia morale" e "Filosofia teoretica".  
-All'attuale art. 44, nell'elenco degli insegnamenti complementari sono soppressi quelli di "Biologia della razze umane" e di "Malattie infettive" e sono aggiunti i seguenti insegnamenti:  
-"Psicologia";  
-"Medicina del lavoro".  
-All'attuale art. 49, nell'elenco degli insegnamenti complementari per l'indirizzo inorganico-chimico-fisico e' aggiunto quello di "Scienza dei metalli".  
-All'attuale art. 50, nell'elenco degli insegnamenti complementari e' aggiunto quello di "Scienza dei metalli".  
-Agli attuali articoli 52 e 53, nell'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-"Matematiche superiori";  
-"Meccanica superiore".  
-All'attuale art. 54, nell'elenco degli insegnamenti complementari e' soppresso quello di "Biologia delle razze umane".  
-Dopo l'attuale art. 55, e' aggiunto il seguente nuovo articolo, col conseguente spostamento della numerazione degli articoli successivi.  
-Art. 56. - "Qualora se ne constati l'opportunita', la Facolta' puo' stabilire che alcuni degli insegnamenti complementari elencati negli attuali articoli 49, 50, 51, 52, 53 e 54 vengano impartiti ad anni alternati".  
-All'attuale art. 56, nell'ultimo comma le parole "chimica fisica" sono soppresse.  
-All'attuale art. 57, e' aggiunto il seguente comma:  
-"Gli esami di fisica, di chimica generale ed inorganica, di chimica organica per la laurea in scienze naturali devono precedere gli esami di botanica, di zoologia e di mineralogia".  
-All'attuale art. 60, nell'ultimo comma dopo le parole "prova pratica" sono aggiunte le seguenti altre: "e ad un esame di cultura generale".  
-All'attuale art. 62, nell'elenco degli insegnamenti complementari viene soppresso quello di "Chimica di guerra" ed aggiunto l'insegnamento di "Scienza dell'alimentazione".  
-L'attuale art. 64, e' sostituito del seguente:  
-  
-Lo studente non puo' prendere iscrizione all'insegnamento di chimica organica se non ha frequentato quello di chimica generale ed inorganica.  
-Gli insegnamenti di chimica generale ed inorganica e di chimica organica sono propedeutici rispetto a quelli di chimica farmaceutica e tossicologica, di chimica biologica, di chimica bromatologica e della terza parte (3° anno) delle esercitazioni di chimica farmaceutica e tossicologica.  
-Gli insegnamenti di chimica generale ed inorganica, di chimica organica, di anatomia umana, di fisiologia generale sono propedeutici rispetto a quello di farmacologia e farmacognosia.  
-Lo studente deve frequentare gli insegnamenti propedeutici prima di seguire gli altri sopra indicati e non puo' presentarsi agli esami di questi ultimi se non ha superato gli esami dei primi.  
-Il corso complementare di igiene, da chi lo scelga, dev'essere frequentato nel secondo biennio.  
-All'attuale art. 65, nel primo comma le parole "una prova pratica alla fine di ogni anno" sono sostituite con "una prova teorico-pratica alla fine di ogni anno".  
-All'attuale art. 77, e' aggiunto il seguente comma:  
-"Le materie a svolgimento pluriennale avranno esami di profitto al termine di ciascun anno d'insegnamento".  
-Dopo l'attuale art. 151, sono inseriti i seguenti nuovi articoli relativi alla "Scuola di specializzazione in clinica medica generale".  
-Art. 152. - Presso l'Istituto di clinica medica generale e terapia e con la direzione affidata al proprio titolare, e' istituita la Scuola di specializzazione in clinica, medica generale, che ha lo scopo di conferire la necessaria competenza a coloro che vogliono particolarmente dedicarsi all'esercizio della medicina generale.  
-Il diploma, che viene rilasciato in seguito ad esami, da' diritto alla qualifica di specialista in medicina interna, a norma dell'art. 178 del testo unico delle leggi sull'istruzione superiore.  
-Art. 153. - Gli insegnamenti impartiti nella Scuola sono i seguenti:  
-1) Clinica medica generale;  
-2) Terapia medica e ricettazione;  
-3) Chimica applicata alla clinica;  
-4) Batteriologia e sierologia applicata alla clinica;  
-5) Anatomia patologica applicata alla clinica;  
-6) Radiologia applicata alla clinica;  
-7) Cardiologia;  
-8) Endocrinologia;  
-9) Ricambio;  
-10) Ematologia;  
-11) Gastroenterologia;  
-12) Malattie infettive;  
-13) Patologia del lavoro;  
-14) Scienza dell'alimentazione e dietetica;  
-15) Tecnica assistenziale ed ospedaliera.  
-La ripartizione degli insegnamenti nei singoli anni e' fatta dal direttore della Scuola.  
-Il numero e la distribuzione delle ore di lezione saranno fissati dal direttore della Scuola al principio di ciascun anno scolastico.  
-Oltre alle materie suddette, oggetto di lezioni, gli inscritti avranno esercitazioni pratiche nelle materie di insegnamento.  
-Ogni anno sara', inoltre tenuto un ciclo di conferenze di cultura generale e collaterale, soprattutto riguardanti l'apporto alla clinica medica da parte delle branche specialistiche.  
-Art. 154. - Il corso ha la durata di cinque anni.  
-L'insegnamento ha carattere dottrinale, dimostrativo e pratico. Il periodo puo' essere abbreviato per gli assistenti ordinari di clinica medica e patologia medica, per gli assistenti incaricati o volontari con tre anni di effettivo servizio.  
-Art. 155. - Gli inscritti hanno l'obbligo di frequentare la clinica medica ed i corsi ufficiali di lezioni ed esercitazioni. Essi dovranno inoltre prestare servizio in clinica medica come medici interni con diritto a due mesi di vacanze durante ogni anno.  
-Al corso possono iscriversi solo i laureati in medicina e chirurgia. Le tasse da pagare sono quelle prescritte dalla Facolta' di medicina e chirurgia. Coloro che sostengono l'esame per il diploma di specialista debbono pagare la tassa relativa fissata dal Consiglio di amministrazione dell'Universita'.  
-Art. 156. - Alla fine del quinto anno, sempre subordinatamente alla ottenuta frequenza al corso, gli allievi saranno ammessi all'esamne finale consistente in un esame orale - ed eventualmente scritto - con discussione sulla diagnosi, prognosi, terapia di un caso clinico.  
-Dopo superato tale esame, dovranno presentare e discutere una tesi scritta su un argomento di ordine medico.  
-Art. 157. - L'esame finale e la discussione della tesi sono sostenuti davanti ad una Commissione, nominata dal Consiglio della Facolta' di medicina e chirurgia, e composta di cinque membri e cioe' dal direttore della scuola, titolare delle cattedre di clinica medica, quale presidente della Commissione, da tre professori di ruolo della Facolta', titolari di materie il cui insegnamento e' oggetto del corso, e da un libero docente.  
-Art. 158. - Agli allievi che hanno ottenuto l'approvazione nell'esame finale viene rilasciato il diploma di specializzazione in medicina interna.  
-Le spese relative al funzionamento della predetta, Scuola saranno a carico del bilancio ordinario dell'Universita' di Genova.  
+Nell'art. 75, all'elenco delle lauree che conferisce la facolta' di scienze matematiche, fisiche e naturali, e' aggiunta la seguente laurea: "scienze dell'informazione".  
+Dopo l'art. 82, con il conseguente scorrimento della numerazione degli articoli successivi, sono inseriti la intitolazione del corso di laurea in scienze dell'informazione e l'articolo relativo all'ordinamento degli studi del corso di laurea medesimo, come di seguito riportato:  
+"laurea in scienze dell'informazione".  
+Art. 83. - La durata del corso di studi per la laurea in scienze dell'informazione e' di quattro anni. Titoli di ammissione sono quelli previsti dall'[art. 1 della legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1).  
+Ogni anno, prima dell'apertura delle iscrizioni, il senato accademico e il consiglio di amministrazione, sulla base delle indicazioni motivate fornite dalla facolta', fissano il numero massimo di studenti ammessi all'iscrizione al primo anno di corso.  
+Il corso degli studi si distingue in tre indirizzi: indirizzo generale, indirizzo applicativo (gestione), indirizzo tecnico (sistemi per l'elaborazione).  
+Il primo biennio di studi e' comune ai tre indirizzi.  
+La scelta dell'indirizzo viene fatta dallo studente  
+all'atto della sua iscrizione al terzo anno di corso.  
+a) Sono insegnamenti fondamentali obbligatori per il primo biennio per flutti gli indirizzi:  
+1° Anno.  
+1) analisi matematica I;  
+2) algebra (semestrale);  
+3) fisica I;  
+4) geometria (semestrale);  
+5) teoria ed applicazione delle macchine calcolatrici.  
+2° Anno.  
+1) analisi matematica II;  
+2) calcolo delle probabilita' e statistica (semestrale);  
+3) calcolo numerico (semestrale);  
+4) fisica II;  
+5) ricerca operativa e gestione aziendale;  
+6) sistemi per l'elaborazione dell'informazione I.  
+b) Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi per il secondo biennio:  
+1) metodi per il trattamento dell'informazione;  
+2) sistemi per l'elaborazione dell'informazione II;  
+3) teoria dell'informazione e della trasmissione.  
+Sono insegnamenti fondamentali obbligatori:  
+a) Per l'indirizzo generale:  
+1) linguaggi formali e compilatori;  
+2) metodi di approssimazione.  
+b) Per l'indirizzo tecnico:  
+1) tecniche numeriche e analogiche;  
+2) teoria dei sistemi.  
+c) Per l'indirizzo applicativo:  
+1) teoria e metodi dell'ottimizzazione;  
+2) economia e organizzazione aziendale (semestrale);  
+3) trattamento dell'informazione nell'impresa (semestrale).  
+Sono insegnamenti complementari comuni ai tre indirizzi:  
+1) analisi numerica;  
+2) automi e linguaggi formali;  
+3) bioelettronica;  
+4) calcolo delle probabilita';  
+5) cibernetica e teoria dell'informazione;  
+6) complementi di gestione aziendale;  
+7) comunicazioni elettriche;  
+8) controlli automatici;  
+9) controllo dei processi industriali;  
+10) documentazione automatica;  
+11) econometrica;  
+12) elaborazione dell'informazione non numerica;  
+13) elaborazione di immagini;  
+14) elaborazione dei testi letterali;  
+15) elettronica;  
+16) elettronica applicata;  
+17) fisica delle basse temperature;  
+18) fisica delle particelle elementari;  
+19) fisica dei semiconduttori;  
+20) fisica numerica;  
+21) fisica superiore;  
+22) ingegneria del software;  
+23) istituzioni di fisica teorica;  
+24) istituzioni di algebra;  
+25) istituzioni di analisi superiore;  
+26) istituzioni di fisica matematica;  
+27) linguaggi di programmazione;  
+28) linguaggi speciali di programmazione;  
+29) linguaggi e programmazione;  
+30) logica della programmazione;  
+31) logica matematica;  
+32) macchine calcolatrici analogiche;  
+33) matematica applicata;  
+34) metodologie di programmazione;  
+35) metodi di osservazione e misura;  
+36) metodi di analisi numerica;  
+37) modelli per i sistemi socioeconomici;  
+38) progetto con l'ausilio del calcolatore;  
+39) progetto di sistemi numerici;  
+40) ricerca operativa;  
+41) riconoscimento automatico delle forme;  
+42) simulazione;  
+43) sistemi operativi;  
+44) statistica;  
+45) strutture informative;  
+46) tecnica di organizzazione delle informazioni;  
+47) tecniche avanzate di programmazione;  
+48) tecniche di progettazione automatica;  
+49) tecniche direzionali;  
+50) tecniche speciali di elaborazione;  
+51) tecnologia degli elaboratori in tempo reale I (hardware);  
+52) tecnologia degli elaboratori in tempo reale II (software);  
+53) teoria degli algoritmi e calcolabilita';  
+54) teoria degli autonomi;  
+55) teoria dei giochi;  
+56) teoria dei grafi;  
+57) teoria delle decisioni;  
+58) teoria dei linguaggi;  
+59) teoria dei modelli;  
+60) teoria dei sistemi;  
+61) teoria e metodi dell'ottimizzazione;  
+62) teoria e sistemi di programmazione.  
+La facolta' si riserva di indicare quali corsi complementari sono da considerarsi semestrali.  
+Gli insegnamenti fondamentali e complementari sono accompagnati da un corso di esercitazioni che ne e' parte integrante.  
+Ciascuno degli insegnamenti, sia fondamentali che complementari, comporta un esame finale.  
+Ciascun insegnamento fondamentale di un indirizzo, puo' essere scelto come insegnamento complementare per un altro indirizzo in cui non sia fondamentale.  
+La scelta delle materie complementari da parte dello studente e' sottoposta alla preventiva approvazione della facolta'.  
+Per ottenere l'iscrizione al secondo biennio lo studente deve aver seguito i corsi e superato gli esami di almeno cinque materie annuali del primo biennio (due corsi semestrali sono valutati come un corso annuale).  
+Gli esami di analisi matematica I e fisica I sono propedeutici rispettivamente agli esami di analisi matematica II e fisica II e tutti gli esami del primo biennio sono propedeutici agli esami del secondo biennio.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali e almeno di quattro fra i complementari se a corso semestrale, di almeno tre se uno di questi e' annuale e di almeno due se ambedue sono annuali.  
+L'esame di laurea consiste nella discussione di una tesi scritta.  
   
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 luglio 1950
+### Dato a Roma, addi' 4 agosto 1986
 
-EINAUDI GONELLA
+COSSIGA
 
-Visto, il Guardasigilli: PICCIONI
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 23 marzo 1951
+Visto, il Guardasigilli: ROGNONI
 
-Atti del Governo, registro n. 38, foglio n. 65. - CARLOMAGNO
+Registrato alla Corte dei conti, addi' 25 settembre 1986
+
+Registro n. 72 Istruzione, foglio n. 136

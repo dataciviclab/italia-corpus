@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 giugno 1967 n. 750
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 aprile 1961 n. 336
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 giugno 1967 n. 750
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 aprile 1961 n. 336
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Urbino.
@@ -10,19 +10,17 @@ Modificazioni allo statuto dell'Universita' degli studi di Urbino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Urbino, approvato con [regio decreto 8 febbraio 1925, numero 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-08;230), e modificato con [regio decreto 31 ottobre 1929, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2475), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Urbino, approvato con [regio decreto 8 febbraio 1925, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-08;230), modificato con [regio decreto 31 ottobre 1929, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2475) e successivi.
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -30,205 +28,73 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Urbino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuito dell'Universita' degli studi di Urbino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 16. - Dall'elenco degli insegnamenti complementari del corso di laurea in Giurisprudenza e' soppresso quello di: "Diritto coloniale".
+Art. 18. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:
 
-Dopo l'art. 19, e con il conseguente spostamento della successiva numerazione, sono aggiunti i seguenti nuovi articoli relativi alla creazione dell'Istituto di applicazione forense annesso alla Facolta' di giurisprudenza.
+12) Diritto internazionale privato;
 
-Istituto di applicazione forense
+13) Dottrina dello Stato.
 
-Art. 20. - Alla Facolta' di giurisprudenza e' annesso un Istituto di applicazione forense, il quale si propone di corrispondere, per mezzo di esercitazioni, alle esigenze teoriche e pratiche della preparazione alla magistratura e all'esercizio della professione forense nonche', in genere, alla preparazione degli operatori del diritto.
+Art. 21. - Agli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti quelli di:
 
-L'Istituto, i cui corsi hanno la durata di un anno, funziona anche ai fini ed alle condizioni di cui all'[art. 18 del regio decreto-legge 27 novembre 1933, n. 1578](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-27;1578~art18), concernente l'ordinamento delle professioni di avvocato e di procuratore.
+21) Diritto tributario;
 
-Art. 21. - I mezzi per il funzionamento dell'Istituto sono costituiti dalle tasse e contributi degli iscritti, dai contributi dell'Universita' e da eventuali elargizioni di Enti pubblici e privati.
+22) Tecnica della distribuzione generale e delle ricerche di mercato.
 
-Art. 22. - L'Istituto e' retto da un Consiglio direttivo, composto da tre membri. Del Consiglio fa parte di diritto il preside della Facolta' di giurisprudenza. Gli altri due membri sono eletti dal Consiglio di Facolta' tra i professori ufficiali della Facolta' stessa.
-
-Il Consiglio di Facolta' nomina, a maggioranza assoluta, il direttore del Consiglio direttivo tra i membri di questo.
-
-Il direttore ed i consiglieri eletti durano in carica un triennio e possono essere rieletti.
-
-Alle adunanze del Consiglio direttivo possono essere invitati dal direttore a singole riunioni, con voto consultivo, i docenti dell'Istituto, i magistrati della provincia di Pesaro-Urbino, funzionari dello Stato, nonche' i presidenti dei Consigli degli Ordini degli avvocati e procuratori della provincia di Pesaro-Urbino.
-
-Art. 23. - Le esercitazioni si svolgono sulle seguenti materie:
-
-Diritto civile;
-
-Diritto commerciale;
-
-Diritto amministrativo;
-
-Diritto penale;
-
-Diritto processuale civile;
-
-Procedura penale;
-
-Diritto del lavoro;
-
-Diritto tributario.
-
-Art. 24. - Presso l'istituto possono, altresi', tenersi secondo la convenienza, esercitazioni e conferenze speciali in altre materie e segnatamente nelle seguenti:
-
-Ordinamento giudiziario;
-
-Giurisprudenza costituzionale;
-
-Contabilita' di Stato;
-
-Diritto pubblico dell'economia;
-
-Diritto internazionale privato;
-
-Diritto agrario;
-
-Psicologia forense;
-
-Medicina legale e delle assicurazioni;
-
-Arte notarile;
-
-Etica professionale.
-
-Art. 25. - Possono iscriversi all'Istituto, in qualita' di praticanti, i laureati in Giurisprudenza in qualunque Universita' italiana e straniera.
-
-Il direttore, puo', altresi', ammettere studenti laureandi in Giurisprudenza dell'Universita' di Urbino, nonche' laureati di altra Facolta', ad assistere, come uditori, ai singoli corsi di esercitazione.
-
-Art. 26. - Le tasse annuali di iscrizione e contributi accessori sono stabiliti da norme interne.
-
-Art. 27. - Agli iscritti che abbiano frequentato il corso con diligenza e con profitto, viene rilasciato un certificato agli effetti dell'[art. 6 del regio decreto 22 gennaio 1934, n. 37](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-01-22;37~art6), in relazione all'[art. 18 del regio decreto-legge 27 novembre 1933, n. 1578](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-27;1578~art18). Il rilascio di tale diploma e' soggetto al pagamento di un diritto fisso stabilito da norme interne.
-
-Art. 28. - Il funzionamento dell'Istituto e' regolato da apposite norme deliberate dal Consiglio direttivo ed approvate dalla Facolta' di giurisprudenza e dal rettore.
-
-Art. 36 (gia' 27). - All'elenco degli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti quelli di:
-
-12) Psicologia pedagogica;
-
-13) Storia del cristianesimo;
-
-14) Filosofia della religione.
-
-Art. 37 (gia' 28). - All'elenco degli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di:
-
-9) Filosofia del linguaggio;
-
-10) Psicologia sociale;
-
-11) Storia del cristianesimo;
-
-12) Storia della filosofia moderna e contemporanea;
-
-13) Storia della pedagogia;
-
-14) Filosofia della religione.
-
-Art. 38 (gia' 29). - All'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere sono aggiunti quelli di:
-
-12) Psicologia pedagogica;
-
-13) Storia del cristianesimo.
+Art. 29. - La tabella B annessa allo statuto modificata nel senso che il numero dei posti degli assistenti di ruolo della Facolta' di economia e commercio e' elevato a quattro.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 13 giugno 1967
+Dato a Roma, addi' 5 aprile 1961
 
-SARAGAT
+GRONCHI
 
-GUI
+BOSCO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 21 agosto 1967 Atti del Governo, registro n. 213, foglio n. 15. - CARUSO
+alla Corte dei conti, addi' 9 maggio 1961 Atti del Governo, registro n. 136, foglio n. 103. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Urbino, approvato con [regio decreto 8 febbraio 1925, numero 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-08;230), e modificato con [regio decreto 31 ottobre 1929, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2475), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Urbino, approvato con [regio decreto 8 febbraio 1925, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-08;230), modificato con [regio decreto 31 ottobre 1929, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2475) e successivi.  
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Urbino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 16. - Dall'elenco degli insegnamenti complementari del corso di laurea in Giurisprudenza e' soppresso quello di: "Diritto coloniale".  
-Dopo l'art. 19, e con il conseguente spostamento della successiva numerazione, sono aggiunti i seguenti nuovi articoli relativi alla creazione dell'Istituto di applicazione forense annesso alla Facolta' di giurisprudenza.  
+Lo statuito dell'Universita' degli studi di Urbino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Istituto di applicazione forense  
-  
-Art. 20. - Alla Facolta' di giurisprudenza e' annesso un Istituto di applicazione forense, il quale si propone di corrispondere, per mezzo di esercitazioni, alle esigenze teoriche e pratiche della preparazione alla magistratura e all'esercizio della professione forense nonche', in genere, alla preparazione degli operatori del diritto.  
-L'Istituto, i cui corsi hanno la durata di un anno, funziona anche ai fini ed alle condizioni di cui all'[art. 18 del regio decreto-legge 27 novembre 1933, n. 1578](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-27;1578~art18), concernente l'ordinamento delle professioni di avvocato e di procuratore.  
-Art. 21. - I mezzi per il funzionamento dell'Istituto sono costituiti dalle tasse e contributi degli iscritti, dai contributi dell'Universita' e da eventuali elargizioni di Enti pubblici e privati.  
-Art. 22. - L'Istituto e' retto da un Consiglio direttivo, composto da tre membri. Del Consiglio fa parte di diritto il preside della Facolta' di giurisprudenza. Gli altri due membri sono eletti dal Consiglio di Facolta' tra i professori ufficiali della Facolta' stessa.  
-Il Consiglio di Facolta' nomina, a maggioranza assoluta, il direttore del Consiglio direttivo tra i membri di questo.  
-Il direttore ed i consiglieri eletti durano in carica un triennio e possono essere rieletti.  
-Alle adunanze del Consiglio direttivo possono essere invitati dal direttore a singole riunioni, con voto consultivo, i docenti dell'Istituto, i magistrati della provincia di Pesaro-Urbino, funzionari dello Stato, nonche' i presidenti dei Consigli degli Ordini degli avvocati e procuratori della provincia di Pesaro-Urbino.  
-Art. 23. - Le esercitazioni si svolgono sulle seguenti materie:  
-  
-Diritto civile;  
-Diritto commerciale;  
-Diritto amministrativo;  
-Diritto penale;  
-Diritto processuale civile;  
-Procedura penale;  
-Diritto del lavoro;  
-Diritto tributario.  
-  
-Art. 24. - Presso l'istituto possono, altresi', tenersi secondo la convenienza, esercitazioni e conferenze speciali in altre materie e segnatamente nelle seguenti:  
-  
-Ordinamento giudiziario;  
-Giurisprudenza costituzionale;  
-Contabilita' di Stato;  
-Diritto pubblico dell'economia;  
-Diritto internazionale privato;  
-Diritto agrario;  
-Psicologia forense;  
-Medicina legale e delle assicurazioni;  
-Arte notarile;  
-Etica professionale.  
-  
-Art. 25. - Possono iscriversi all'Istituto, in qualita' di praticanti, i laureati in Giurisprudenza in qualunque Universita' italiana e straniera.  
-Il direttore, puo', altresi', ammettere studenti laureandi in Giurisprudenza dell'Universita' di Urbino, nonche' laureati di altra Facolta', ad assistere, come uditori, ai singoli corsi di esercitazione.  
-Art. 26. - Le tasse annuali di iscrizione e contributi accessori sono stabiliti da norme interne.  
-Art. 27. - Agli iscritti che abbiano frequentato il corso con diligenza e con profitto, viene rilasciato un certificato agli effetti dell'[art. 6 del regio decreto 22 gennaio 1934, n. 37](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-01-22;37~art6), in relazione all'[art. 18 del regio decreto-legge 27 novembre 1933, n. 1578](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-27;1578~art18). Il rilascio di tale diploma e' soggetto al pagamento di un diritto fisso stabilito da norme interne.  
-Art. 28. - Il funzionamento dell'Istituto e' regolato da apposite norme deliberate dal Consiglio direttivo ed approvate dalla Facolta' di giurisprudenza e dal rettore.  
-Art. 36 (gia' 27). - All'elenco degli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti quelli di:  
-12) Psicologia pedagogica;  
-13) Storia del cristianesimo;  
-14) Filosofia della religione.  
-Art. 37 (gia' 28). - All'elenco degli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di:  
-9) Filosofia del linguaggio;  
-10) Psicologia sociale;  
-11) Storia del cristianesimo;  
-12) Storia della filosofia moderna e contemporanea;  
-13) Storia della pedagogia;  
-14) Filosofia della religione.  
-Art. 38 (gia' 29). - All'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere sono aggiunti quelli di:  
-12) Psicologia pedagogica;  
-13) Storia del cristianesimo.  
+Art. 18. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:  
+12) Diritto internazionale privato;  
+13) Dottrina dello Stato.  
+Art. 21. - Agli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti quelli di:  
+21) Diritto tributario;  
+22) Tecnica della distribuzione generale e delle ricerche di mercato.  
+Art. 29. - La tabella B annessa allo statuto modificata nel senso che il numero dei posti degli assistenti di ruolo della Facolta' di economia e commercio e' elevato a quattro.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 giugno 1967
+### Dato a Roma, addi' 5 aprile 1961
 
-SARAGAT GUI
+GRONCHI BOSCO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 21 agosto 1967
+Registrato alla Corte dei conti, addi' 9 maggio 1961
 
-Atti del Governo, registro n. 213, foglio n. 15. - CARUSO
+Atti del Governo, registro n. 136, foglio n. 103. - VILLA

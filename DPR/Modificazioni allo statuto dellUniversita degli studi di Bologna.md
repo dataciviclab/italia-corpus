@@ -1,89 +1,112 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 826
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1948 n. 414
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 826
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1948 n. 414
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Visto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con i [regi decreti 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-12;2227); [4 settembre 1930, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-09-04;1312); [1 ottobre 1931, n. 1778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1778); [27 ottobre 1932, n. 2092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2092); [6 dicembre 1934, numero 2394](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2394); [1 ottobre 1936, n. 2502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2502); [12 maggio 1939, n. 1315](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-05-12;1315); [5 ottobre 1939, n. 1644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1644); [11 luglio 1941, n. 848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-07-11;848); [18 luglio 1942, n. 928](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-18;928); [24 novembre 1942, n. 1595, e col decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-11-24;1595) [16 maggio 1947, n. 694](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-05-16;694);  
+Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Visto il [regio decreto-legge 20 giugno 1931, n. 1671](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-06-20;1671);  
+Visto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Visto il [regio decreto-legge 27 gennaio 1944, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-27;58);  
+Viste le proposte di modificazioni dello statuto formulate dall'Universita' predetta;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Riconosciuta la particolare necessita' di approvare le nuove modificazioni proposte;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Nell'art. 115, relativo al corso di laurea in chimica, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:   
-Indirizzo organico-biologico:   
-chimica biorganica;   
-meccanismi di reazione in chimica organica;   
-chimica analitica clinica;   
-complementi di chimica organica;   
-metodi fisici in chimica organica.   
-Indirizzo inorganico-chimico-fisico:   
-analisi degli inquinanti:   
-analisi chimica spettroscopica;   
-termodinamica statistica;   
-meccanismi di reazione in chimica inorganica;   
-stereochimica.   
-Nel medesimo elenco sono, inoltre, soppressi i seguenti insegnamenti:   
-Indirizzo organico-biologico:   
-chimica farmaceutica;   
-farmacologia;   
-chimica delle fermentazioni;   
-chimica agraria;   
-scienza dell'alimentazione;   
-fisiologia generale ed igiene del lavoro industriale (corso speciale per chimici);   
-chimica e analisi merceologica con esercitazioni;   
-biochimica generale;   
-biochimica fisica;   
-storia della dottrina chimico-organica;   
-magneto chimica.   
-Indirizzo inorganico-chimico-fisico:   
-geochimica (corso speciale per chimici);   
-idrologia chimica;   
-storia della dottrina chimico-inorganica;   
-strumentazione didattica da laboratorio;   
-chimica isotopica;   
-chimica statistica.   
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i regi decreti sopraindicati e' cosi' ulteriormente modificato:  
+  
+Titolo XVII. - "Scuole e corsi di perfezionamento".  
+Alla Sezione VIII - Facolta' di medicina e chirurgia - dopo l'art. 277 vengono aggiunti i seguenti nuovi articoli:  
+  
+XVIII. - Scuola di perfezionamento in tisiologia.  
+  
+Art. 278. - La scuola di perfezionamento in tisiologia, della durata di due anni, conferisce il diploma di specialista in tisiologia.  
+Art. 279. - Le materie obbligatorie per il conseguimento del diploma sono le seguenti:  
+  
+1° anno:  
+patologia della tubercolosi dell'apparato respiratorio;  
+clinica della tubercolosi dell'apparato respiratorio;  
+semeiologia fisica e funzionale della tubercolosi dell'apparato respiratorio;  
+terapia della tubercolosi dell'apparato respiratorio;  
+anatomia patologica della tubercolosi;  
+clinica e diagnostica differenziale delle malattie dell'apparato respiratorio;  
+patologia e clinica della tubercolosi dell'infanzia;  
+radiologia dell'apparato respiratorio;  
+patologia e clinica della tubercolosi delle prime vie respiratorie;  
+patologia e clinica della tubercolosi chirurgica;  
+la chirurgia della tubercolosi polmonare;  
+igiene sociale e profilassi della tubercolosi;  
+previdenza sociale e medicina assicurativa;  
+tecnica dispensariale.  
+  
+2° anno:  
+esercitazioni pratiche delle varie materie;  
+internato nei vari istituti universitari, sanatoriali e dispensariali;  
+conferenze varie tenute da professori universitari sulla fisiologia della respirazione, sull'anatomia ed istologia degli organi respiratori, sulla tubercolosi e gravidanza, sulla tubercolosi oculare, sulla tubercolosi del sistema nervoso, sulla tubercolosi cutanea, sulla tubercolosi e malattie professionali, sulla immunita' nella tubercolosi, sui presidi farmacologici nella tubercolosi, ecc.; compilazione di una tesi scritta in una delle materie d'insegnamento.  
+  
+Art. 280. - Oltre la discussione della tesi gli allievi, per ottenere il diploma, dovranno sostenere una prova pratica davanti ad una Commissione di sette membri, scelti fra gli insegnanti della scuola.  
+  
+XIX. - Scuola di perfezionamento in medicina generale.  
+  
+Art. 281. - La scuola di perfezionamento in medicina generale conferisce il diploma di specialista in medicina generale.  
+La durata degli studi post-universitari necessari per conseguire il titolo e' di cinque anni.  
+Art. 282. - Gli insegnamenti ufficiali costituiti da:  
+1) patologia medica;  
+2) anatomia patologica;  
+3) semeiotica medica;  
+4) clinica medica;  
+saranno integrati da esami di laboratorio di:  
+microscopia;  
+batteriologia;  
+sierologia;  
+chimica.  
+Art. 283. - Il corso comprendera' i seguenti insegnamenti:  
+1) anatomia patologica (3 anni);  
+2) batteriologia e sierologia (1 anno);  
+3) parassitologia (6 mesi);  
+4) patologia speciale medica (1 anno);  
+5) semeiotica fisica (1 anno);  
+6) semeiotica comparata radiologica (1 anno);  
+7) neuropatologia (1 anno);  
+8) clinica medica generale (4 anni).  
+L'insegnamento della clinica medica generale comprendera':  
+a) patologia costituzionale ed endocrinologia;  
+b) malattie infettive e parassitologia;  
+c) malattie del ricambio;  
+d) malattie dell'appaiato respiratorio;  
+e) malattie dell'apparato uropoietico;  
+f) terapia medica.  
+Per le semeiotiche e cliniche specializzate si prenderanno accordi fra il Consiglio della scuola ed i rispettivi direttori circa il numero delle lezioni:  
+a) semeiologia oculare;  
+b) semeiologia dell'orecchio e prime vie respiratorie;  
+c) semeiologia del cavo orale e dei seni.  
+Il corso di terapia medica comprendera':  
+a) farmacologia;  
+b) dietetica,  
+c) terapia fisica (climatologia ed idrologia, elioterapia, massoterapia, luteoterapia, elettrodiatermo Marconiterapia).  
+Art. 284. - Gli iscritti sono tenuti a sostenere gli esami sulle varie materie di insegnamento alla fine di ogni anno di corso.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 marzo 1984
+### Dato a Roma, addi' 22 febbraio 1948
 
-PERTINI FALCUCCI
+DE NICOLA GONELLA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: GRASSI
 
-Registrato alla Corte dei conti, addi' 24 novembre 1984
+Registrato alla Corte dei conti, addi' 29 aprile 1948
 
-Registro n. 71 Istruzione, foglio n. 397
+Atti del Governo, registro n. 19, foglio n. 218. - FRASCA

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 aprile 1965 n. 450
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1980 n. 949
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 aprile 1965 n. 450
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1980 n. 949
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,149 +20,44 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
 Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 23. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di "Teoria generale del processo".
-
-Art. 43, relativo alla propedeuticita' degli esami del corso di laurea in Economia e commercio, e' cosi' modificato:
-
-Sono dichiarati propedeutici ai fini dell'esame e non della frequenza al corso i seguenti insegnamenti:
-
-A) Istituzioni di diritto privato per Diritto commerciale, il Diritto internazionale, il Diritto del lavoro, il Diritto industriale;
-
-B) Istituzioni di diritto pubblico per il Diritto internazionale, il Diritto del lavoro, il Diritto amministrativo;
-
-C) Matematica generale per la Matematica finanziaria, l'Economia politica, la Statistica e l'Econometrica;
-
-D) Economia politica per la Scienza delle finanze e diritto finanziario, la Politica economica e finanziaria, l'Economia politica e politica agraria, la Storia economica, l'Economia dei trasporti, l'Econometrica, l'Economia e finanza delle imprese di assicurazioni;
-
-E) Ragioneria generale ed applicata per la Tecnica industriale e commerciale, la Tecnica bancaria e professionale, la Tecnica del commercio internazionale, la Tecnica amministrativa delle imprese agricole e minerarie, la Tecnica amministrativa delle imprese dei pubblici servizi, l'Organizzazione aziendale, la Statistica aziendale, la Tecnica delle ricerche di mercato e della distribuzione generale;
-
-F) Scienza delle finanze per il Diritto tributario;
-
-G) Statistica metodologica per la Statistica aziendale, l'Econometrica, la Demografia;
-
-H) Tecnica industriale e commerciale per la Tecnica del commercio internazionale, la Tecnica delle ricerche di mercato e della distribuzione generale, la Tecnica amministrativa delle imprese agricole e minerarie.
-
-L'art. 74, relativo agli Istituti del corso di laurea in Scienze matematiche, fisiche e naturali, viene modificato con l'aggiunta di: una biblioteca per i corsi di laurea in Chimica e in "Chimica industriale" che assume la denominazione di biblioteca di chimica.
-
-Art. 103, relativo al corso di laurea in Farmacia, l'insegnamento complementare di "Fisiologia vegetale" viene soppresso e aggiunto quello di "Fitochimica".
-
-Art. 116 (ex 122). - Agli insegnamenti fondamentali del corso di laurea in Ingegneria meccanica (V) viene aggiunto "Complementi di scienze delle costruzioni" (semestrale) all'insegnamento di "Materie giuridiche" viene aggiunta la specificazione "semestrale".
-
-Per il corso di laurea in Ingegneria aeronautica (VIII) agli insegnamenti fondamentali viene aggiunto "Complementi di scienza delle costruzioni" (semestrale); viene soppresso l'insegnamento di "Elettronica applicata".
-
-L'insegnamento di "Radiotecnica" viene soppresso e sostituito con "Elettronica applicata e radiotecnica".
-
-Nelle materie del II gruppo l'insegnamento fondamentale di "Complementi di missilistica" viene soppresso e sostituito con "Teoria e tecnica dei sistemi di guida aeromissilistici".
-
-Agli insegnamenti complementari del corso di laurea in Ingegneria nucleare (X) viene soppresso l'insegnamento di "Sicurezza degli impianti nucleari" e sostituito con "Sicurezza degli impianti nucleari" e "radioprotezione" (semestrale).
-
-Negli insegnamenti fondamentali del I gruppo viene aggiunto "Complementi di scienza delle costruzioni" (semestrale). Gli insegnamenti di "Servomeccanismi" e "Regolazione degli impianti nucleari" vengono soppressi e sostituiti da, un unico insegnamento annuale di "Servomeccanismi e regolazione degli impianti nucleari".
-
-All'art. 122 (ex 128), relativo alla propedeuticita' degli esami:
-
-A) vengono soppressi i seguenti insegnamenti "Complementi di missilistica (missilistica)"; Servomeccanismi (Elettronica applicata) o (Elettronica nucleare)";
-
-B) vengono aggiunti i seguenti insegnamenti "Elettronica applicata e radiotecnica (elettrotecnica)"; "Servomeccanismi e regolazione degli impianti nucleari (Elettronica nucleare)";
-
-C) vengono modificati gli insegnamenti di "Sicurezza degli impianti nucleari (Fisica nucleare)" con "Sicurezza degli impianti nucleari e radioprotezione (Fisica nucleare)";
-
-Misure elettroniche (Elettronica applicata) con "Misure elettroniche (Elettronica applicata, Misure elettriche)";
-
-Prove su macchine e impianti elettrici (Misure elettriche) con "Prove su macchine e impianti elettrici (Macchine elettriche, Misure elettriche)";
-
-Tecnica ed economia dei trasporti (Meccanica applicata alle macchine e macchine) con "Tecnica ed economia dei trasporti (Meccanica applicata alle macchine e Meccanica applicata alle macchine e macchine)".
-
-Art. 125 (ex 131). - La denominazione dell'Istituto di matematica applicata viene modificato in "Istituto di matematiche Ulisse Dini".
-
-L'art. 127, relativo alla Facolta' di agraria, viene modificato con l'aggiunta del seguente comma da inserirsi dopo il sesto comma:
-
-"L'insegnamento biennale di "Agronomia generale e coltivazioni erbacee" comporta due distinti esami annuali, uno di "Agronomia generale" e uno di"Coltivazioni erbacee". L'insegnamento biennale di "Chimica agraria" comporta due distinti esami annuali, uno di "Chimica agraria I" e uno di "Chimica agraria II"".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 1 aprile 1965
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 15 maggio 1965 Atti del Governo, registro n. 193, foglio n. 72. - VILLA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+L'art. 66, relativo all'elenco degli istituti, annessi alla facolta' di lettere e filosofia, e' modificato nel senso che l'istituto di storia medioevale, moderna e contemporanea e di paleografia e diplomatica viene scisso nei due seguenti istituti policattedra:  
+istituto di storia medioevale, paleografia e diplomatica;  
+istituto di storia moderna e contemporanea.  
+
+Art. 2
+------
+
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 23. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di "Teoria generale del processo".  
-Art. 43, relativo alla propedeuticita' degli esami del corso di laurea in Economia e commercio, e' cosi' modificato:  
-Sono dichiarati propedeutici ai fini dell'esame e non della frequenza al corso i seguenti insegnamenti:  
-A) Istituzioni di diritto privato per Diritto commerciale, il Diritto internazionale, il Diritto del lavoro, il Diritto industriale;  
-B) Istituzioni di diritto pubblico per il Diritto internazionale, il Diritto del lavoro, il Diritto amministrativo;  
-C) Matematica generale per la Matematica finanziaria, l'Economia politica, la Statistica e l'Econometrica;  
-D) Economia politica per la Scienza delle finanze e diritto finanziario, la Politica economica e finanziaria, l'Economia politica e politica agraria, la Storia economica, l'Economia dei trasporti, l'Econometrica, l'Economia e finanza delle imprese di assicurazioni;  
-E) Ragioneria generale ed applicata per la Tecnica industriale e commerciale, la Tecnica bancaria e professionale, la Tecnica del commercio internazionale, la Tecnica amministrativa delle imprese agricole e minerarie, la Tecnica amministrativa delle imprese dei pubblici servizi, l'Organizzazione aziendale, la Statistica aziendale, la Tecnica delle ricerche di mercato e della distribuzione generale;  
-F) Scienza delle finanze per il Diritto tributario;  
-G) Statistica metodologica per la Statistica aziendale, l'Econometrica, la Demografia;  
-H) Tecnica industriale e commerciale per la Tecnica del commercio internazionale, la Tecnica delle ricerche di mercato e della distribuzione generale, la Tecnica amministrativa delle imprese agricole e minerarie.  
-L'art. 74, relativo agli Istituti del corso di laurea in Scienze matematiche, fisiche e naturali, viene modificato con l'aggiunta di: una biblioteca per i corsi di laurea in Chimica e in "Chimica industriale" che assume la denominazione di biblioteca di chimica.  
-Art. 103, relativo al corso di laurea in Farmacia, l'insegnamento complementare di "Fisiologia vegetale" viene soppresso e aggiunto quello di "Fitochimica".  
-Art. 116 (ex 122). - Agli insegnamenti fondamentali del corso di laurea in Ingegneria meccanica (V) viene aggiunto "Complementi di scienze delle costruzioni" (semestrale) all'insegnamento di "Materie giuridiche" viene aggiunta la specificazione "semestrale".  
-Per il corso di laurea in Ingegneria aeronautica (VIII) agli insegnamenti fondamentali viene aggiunto "Complementi di scienza delle costruzioni" (semestrale); viene soppresso l'insegnamento di "Elettronica applicata".  
-L'insegnamento di "Radiotecnica" viene soppresso e sostituito con "Elettronica applicata e radiotecnica".  
-Nelle materie del II gruppo l'insegnamento fondamentale di "Complementi di missilistica" viene soppresso e sostituito con "Teoria e tecnica dei sistemi di guida aeromissilistici".  
-Agli insegnamenti complementari del corso di laurea in Ingegneria nucleare (X) viene soppresso l'insegnamento di "Sicurezza degli impianti nucleari" e sostituito con "Sicurezza degli impianti nucleari" e "radioprotezione" (semestrale).  
-Negli insegnamenti fondamentali del I gruppo viene aggiunto "Complementi di scienza delle costruzioni" (semestrale). Gli insegnamenti di "Servomeccanismi" e "Regolazione degli impianti nucleari" vengono soppressi e sostituiti da, un unico insegnamento annuale di "Servomeccanismi e regolazione degli impianti nucleari".  
-All'art. 122 (ex 128), relativo alla propedeuticita' degli esami:  
-A) vengono soppressi i seguenti insegnamenti "Complementi di missilistica (missilistica)"; Servomeccanismi (Elettronica applicata) o (Elettronica nucleare)";  
-B) vengono aggiunti i seguenti insegnamenti "Elettronica applicata e radiotecnica (elettrotecnica)"; "Servomeccanismi e regolazione degli impianti nucleari (Elettronica nucleare)";  
-C) vengono modificati gli insegnamenti di "Sicurezza degli impianti nucleari (Fisica nucleare)" con "Sicurezza degli impianti nucleari e radioprotezione (Fisica nucleare)";  
-Misure elettroniche (Elettronica applicata) con "Misure elettroniche (Elettronica applicata, Misure elettriche)";  
-Prove su macchine e impianti elettrici (Misure elettriche) con "Prove su macchine e impianti elettrici (Macchine elettriche, Misure elettriche)";  
-Tecnica ed economia dei trasporti (Meccanica applicata alle macchine e macchine) con "Tecnica ed economia dei trasporti (Meccanica applicata alle macchine e Meccanica applicata alle macchine e macchine)".  
-Art. 125 (ex 131). - La denominazione dell'Istituto di matematica applicata viene modificato in "Istituto di matematiche Ulisse Dini".  
-L'art. 127, relativo alla Facolta' di agraria, viene modificato con l'aggiunta del seguente comma da inserirsi dopo il sesto comma:  
-"L'insegnamento biennale di "Agronomia generale e coltivazioni erbacee" comporta due distinti esami annuali, uno di "Agronomia generale" e uno di"Coltivazioni erbacee". L'insegnamento biennale di "Chimica agraria" comporta due distinti esami annuali, uno di "Chimica agraria I" e uno di "Chimica agraria II"".  
+L'art. 96, relativo al corso di laurea in scienze naturali, e' modificato nel senso che all'elenco degli insegnamenti complementari e' aggiunto il seguente:  
+analisi mineralogiche.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 aprile 1965
+### Dato a Roma, addi' 16 ottobre 1980
 
-SARAGAT GUI
+PERTINI SARTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 15 maggio 1965
+Registrato alla Corte dei conti, addi' 30 dicembre 1980
 
-Atti del Governo, registro n. 193, foglio n. 72. - VILLA
+Registro n. 122 Istruzione, foglio n. 40

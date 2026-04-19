@@ -1,110 +1,292 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1257
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1972 n. 679
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1257
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1972 n. 679
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso: gli articoli 122, 123 e 124 relativi alla "Scuola di specializzazione in dermosifilopatica" che muta la denominazione in quella di "Scuola di specializzazione in clinica dermosifilopatica" sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in clinica dermosifilopatica
+
+Art. 122. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in clinica dermosifilopatica con sede presso la clinica dermosifilopatica.
+
+Il corso ha la durata di tre anni.
+
+Il numero massimo degli iscritti per l'intero corso e' di nove, al primo anno saranno ammessi tre specializzandi.
+
+Art. 123. - Gli aspiranti alla scuola di specializzazione saranno previamente sottoposti ad un esame di ammissione e saranno altresi' valutati i titoli preferenziali che i candidati stessi eventualmente abbiano presentato.
+
+Art. 124. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+Anatomia e istologia normale della cute;
+
+Fisiologia della cute e degli annessi cutanei;
+
+Anatomia e fisiologia dell'apparato genitale;
+
+Microbiologia e parassitologia applicate;
+
+Tecnica di laboratorio con particolare riferimento alla sierologia applicata;
+
+Semeiotica dermatologica e venereologica.
+
+2° Anno:
+
+Patologia delle malattie cutanee;
+
+Patologia delle infezioni sessuali;
+
+Anatomia e istologia patologica della cute;
+
+Anatomia patologica delle malattie veneree e sessuali;
+
+Angiologia;
+
+Sessuologia.
+
+3° Anno:
+
+Clinica dell'malattie cutanee;
+
+Clinica delle infezioni sessuali;
+
+Farmacologia e terapia medicamentosa;
+
+Fisioterapia dermatologica;
+
+Cosmetologia;
+
+Chirurgia plastica riparatrice;
+
+Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.
+
+Il corso di lezioni consistera' in almeno cinquanta lezioni annuali comprensive delle varie materie e la frequenza giornaliera da parte degli iscritti non sara' inferiore alle quattro ore effettive per tutta la durata dell'anno accademico. Gli specializzandi avranno pertanto obbligo di internato onde seguire i corsi di lezione e svolgere contemporaneamente attivita' pratica nelle corsie, negli ambulatori e nei laboratori.
+
+Gli esami di profitto degli specializzandi verranno dati in tre gruppi ed in tre sessioni distinte, ogni gruppo comprendente le materie proprie in ciascun anno di studio.
+
+L'esame di diploma consistera' nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato 24 ore prima della prova.
+
+Gli articoli 131, 132 e 133 relativo alla "Scuola di specializzazione in neurologia e psichiatria" che muta la denominazione in quella di "Scuola di specializzazione in neurologia" sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in neurologia
+
+Art. 131. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in "neurologia", con sede presso la clinica delle malattie nervose e mentali. Il numero massimo degli iscritti e' di sette per ogni anno di corso per un totale complessivo di 28.
+
+Art. 132. - La durata del corso degli studi per il conseguimento del diploma di specialista in neurologia e' di 4 anni. L'ammissione alla scuola sara' fatta per titoli ed esame.
+
+Art. 133. - Le materie di insegnamento sono le seguenti:
+
+1° Anno (internato in psichiatria):
+
+Anatomia e istologia del sistema nervoso;
+
+Fisiologia del S.N.;
+
+Biochimica del S.N.;
+
+Genetica (elementi);
+
+Psicologia generale;
+
+Psicopatologia;
+
+Semeiotica psichiatrica.
+
+2° Anno:
+
+Anatomia e istologia patologica del S.N.;
+
+Semeiotica neurologica;
+
+Patologia speciale e diagnostica neurologica (I);
+
+Neuro-radiologia;
+
+Endocrinologia e neurologia vegetativa.
+
+3° Anno:
+
+Patologia speciale e diagnostica neurologica (II);
+
+Clinica neurologica e terapia (I);
+
+Elettroencefalografia;
+
+Elettromiografia, elettrodiagnostica ed elettroterapia;
+
+Neuro-oftalmologia;
+
+Neuro-otologia;
+
+Esami di laboratorio.
+
+4° Anno:
+
+Clinica neurologica e terapia (II);
+
+Neurochirurgia;
+
+Teoria e clinica della riabilitazione;
+
+Neuro-traumatologia anche sotto l'aspetto della medicina legale;
+
+Neurologia in rapporto alla patologia internistica.
+
+Per conseguire il diploma di specializzazione e' previsto l'internato obbligatorio per l'intero anno scolastico nel 2°, 3° e 4° anno nella clinica neurologica. Tale internato potra' essere ridotto a non meno di mesi quattro per anno per, i medici che prestino regolare servizio in reparto neurologico. E' altresi' obbligatorio, durante il 1° anno, l'interrato in psichiatria per la durata dell'intero anno scolastico; quest'ultimo internato potra' essere ridotto a non meno di mesi cinque per i medici che prestino servizio in reparto neurologico ed a non meno di mesi quattro per coloro che prestino servizio in ospedale psichiatrico.
+
+Un esonero dalla frequenza di anni due puo' essere concesso agli specialisti in psichiatria, neuropsichiatria infantile e neurochirurgia; un esonero dalla frequenza di un anno potra' essere concesso agli specialisti in altre materie affini (medicina interna, otorinolaringoiatria, oculistica, radiologia).
+
+Gli esoneri di cui sopra sono concessi, su proposta del direttore della scuola, dal consiglio della medesima a seguito del superamento dell'esame di ammissione.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 1 agosto 1972
+
+LEONE
+
+SCALFARO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 13 novembre 1972 Atti del Governo, registro n. 253, foglio n. 29. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Cagliari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso: gli articoli 122, 123 e 124 relativi alla "Scuola di specializzazione in dermosifilopatica" che muta la denominazione in quella di "Scuola di specializzazione in clinica dermosifilopatica" sono abrogati e sostituiti dai seguenti:  
   
-Dopo l'art. 228, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in ortopedia.  
+Scuola di specializzazione in clinica dermosifilopatica  
   
-Scuola di specializzazione in ortopedia  
+Art. 122. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in clinica dermosifilopatica con sede presso la clinica dermosifilopatica.  
+Il corso ha la durata di tre anni.  
+Il numero massimo degli iscritti per l'intero corso e' di nove, al primo anno saranno ammessi tre specializzandi.  
+Art. 123. - Gli aspiranti alla scuola di specializzazione saranno previamente sottoposti ad un esame di ammissione e saranno altresi' valutati i titoli preferenziali che i candidati stessi eventualmente abbiano presentato.  
+Art. 124. - Le materie di insegnamento sono le seguenti:  
   
-Art. 229. - La scuola di specializzazione in ortopedia ha sede presso l'istituto di clinica ortopedica e conferisce il diploma di specializzazione in ortopedia. Direttore della scuola e' un professore ordinario dell'istituto di clinica ortopedica.  
-Il corso ha durata di cinque anni.  
-Potranno essere ammessi alla scuola soltanto i laureati in medicina e chirurgia.  
-Il numero degli iscritti non potra' superare il numero di venti complessivamente.  
-Art. 230. - La frequenza e' obbligatoria nell'istituto sede della scuola, per un periodo di almeno dieci mesi per anno accademico. E' in facolta' del direttore della scuola di concedere una deroga a tale norma solo agli iscritti alla scuola che facciano parte di cliniche ortopediche che non abbiano la scuola di specializzazione o che siano assistenti di ruolo in divisioni di ortopedia e traumatologia di ospedali regionali o provinciali; per queste due categorie di iscritti il periodo di frequenza presso l'istituto sede della scuola, puo' essere ridotto fino a non meno di un mese ogni anno.  
-Per nessun motivo sono ammesse abbreviazioni alla durata degli studi. Gli insegnamenti si svolgeranno con indirizzo prevalentemente pratico e dimostrativo, ma per ogni singola materia di insegnamento dovra' anche svolgersi un corso regolare di lezioni, il cui numero verra' fissato nell'allegato piano idi studio.  
-Art. 231. - Il piano di studi della scuola di specializzazione in ortopedia e' il seguente:  
 1° Anno:  
-Insegnamento pratico:  
-chirurgia generale;  
-pronto soccorso generale;  
-fisioterapia.  
-Insegnamento teorico:  
-anatomia dell'apparato locomotore;  
-fisiologia dell'apparato locomotore;  
-semeiotica ortopedica;  
-nozioni di chirurgia generale;  
-bioingegneria dell'apparato locomotore I.  
+Anatomia e istologia normale della cute;  
+Fisiologia della cute e degli annessi cutanei;  
+Anatomia e fisiologia dell'apparato genitale;  
+Microbiologia e parassitologia applicate;  
+Tecnica di laboratorio con particolare riferimento alla sierologia applicata;  
+Semeiotica dermatologica e venereologica.  
+  
 2° Anno:  
-Insegnamento pratico:  
-chirurgia generale (con frequenza eventuale in reparti specialistici interessanti per l'apparato locomotore);  
-reparti di pronto soccorso traumatologico;  
-reparti di ortopedia e traumatologia.  
-Insegnamento teorico:  
-anatomia e istologia patologica dell'apparato locomotore I;  
-patologia dell'apparato locomotore I;  
-clinica ortopedica I;  
-traumatologia dell'apparato locomotore I;  
-radiologia I;  
-nozioni di chirurgia d'urgenza e p.s.;  
-bioingegneria dell'apparato locomotore II.  
+Patologia delle malattie cutanee;  
+Patologia delle infezioni sessuali;  
+Anatomia e istologia patologica della cute;  
+Anatomia patologica delle malattie veneree e sessuali;  
+Angiologia;  
+Sessuologia.  
+  
 3° Anno:  
-Insegnamento pratico:  
-reparti di ortopedia e traumatologia (in particolare sale di degenza e sale gessi).  
-Insegnamenti teorici:  
-anatomia e istologia patologica dell'apparato locomotore II; patologia dell'apparato locomotore II;  
-clinica ortopedica II;  
-traumatologia dell'apparato locomotore II;  
-radiologia II;  
-tecnica operatoria I;  
-apparatoterapia e tecnica degli apparecchi gessati;  
-elementi di reumatologia.  
+Clinica dell'malattie cutanee;  
+Clinica delle infezioni sessuali;  
+Farmacologia e terapia medicamentosa;  
+Fisioterapia dermatologica;  
+Cosmetologia;  
+Chirurgia plastica riparatrice;  
+Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.  
+  
+Il corso di lezioni consistera' in almeno cinquanta lezioni annuali comprensive delle varie materie e la frequenza giornaliera da parte degli iscritti non sara' inferiore alle quattro ore effettive per tutta la durata dell'anno accademico. Gli specializzandi avranno pertanto obbligo di internato onde seguire i corsi di lezione e svolgere contemporaneamente attivita' pratica nelle corsie, negli ambulatori e nei laboratori.  
+Gli esami di profitto degli specializzandi verranno dati in tre gruppi ed in tre sessioni distinte, ogni gruppo comprendente le materie proprie in ciascun anno di studio.  
+L'esame di diploma consistera' nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato 24 ore prima della prova.  
+Gli articoli 131, 132 e 133 relativo alla "Scuola di specializzazione in neurologia e psichiatria" che muta la denominazione in quella di "Scuola di specializzazione in neurologia" sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in neurologia  
+  
+Art. 131. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in "neurologia", con sede presso la clinica delle malattie nervose e mentali. Il numero massimo degli iscritti e' di sette per ogni anno di corso per un totale complessivo di 28.  
+Art. 132. - La durata del corso degli studi per il conseguimento del diploma di specialista in neurologia e' di 4 anni. L'ammissione alla scuola sara' fatta per titoli ed esame.  
+Art. 133. - Le materie di insegnamento sono le seguenti:  
+  
+1° Anno (internato in psichiatria):  
+Anatomia e istologia del sistema nervoso;  
+Fisiologia del S.N.;  
+Biochimica del S.N.;  
+Genetica (elementi);  
+Psicologia generale;  
+Psicopatologia;  
+Semeiotica psichiatrica.  
+  
+2° Anno:  
+Anatomia e istologia patologica del S.N.;  
+Semeiotica neurologica;  
+Patologia speciale e diagnostica neurologica (I);  
+Neuro-radiologia;  
+Endocrinologia e neurologia vegetativa.  
+  
+3° Anno:  
+Patologia speciale e diagnostica neurologica (II);  
+Clinica neurologica e terapia (I);  
+Elettroencefalografia;  
+Elettromiografia, elettrodiagnostica ed elettroterapia;  
+Neuro-oftalmologia;  
+Neuro-otologia;  
+Esami di laboratorio.  
+  
 4° Anno:  
-Insegnamento pratico:  
-reparti di ortopedia e traumatologia (frequenza nei reparti operatori).  
-Insegnamenti teorici:  
-patologia dell'apparato locomotore III;  
-clinica ortopedica III;  
-traumatologia dell'apparato locomotore III;  
-tecnica operatoria II;  
-fisiokinesiterapia;  
-neuropatologia dell'apparato locomotore ed elettrodiagnostica;  
-nozioni di medicina legale.  
-5° Anno:  
-Insegnamento pratico:  
-reparti di ortopedia e traumatologia (frequenza nei reparti operatori);  
-officine ortopediche.  
-Insegnamenti teorici:  
-patologia dell'apparato locomotore IV;  
-clinica ortopedica IV;  
-traumatologia dell'apparato locomotore IV;  
-tecnica operatoria III;  
-fisioterapia.  
-Art. 232. - Gli esami si svolgeranno per singole materie. Gli esami di clinica ortopedica e traumatologica, di tecnica operatoria cruenta ed incruenta ortopedica e traumatologica, di radiodiagnostica, saranno teorici e pratici. Per l'ammissione al corso successivo e' obbligatorio il superamento degli esami delle materie di ciascun corso.  
-Per l'ammissione all'esame di diploma il candidato dovra' presentare una tesi a stampa o dattiloscritta su un argomento della specialita'.  
+Clinica neurologica e terapia (II);  
+Neurochirurgia;  
+Teoria e clinica della riabilitazione;  
+Neuro-traumatologia anche sotto l'aspetto della medicina legale;  
+Neurologia in rapporto alla patologia internistica.  
+  
+Per conseguire il diploma di specializzazione e' previsto l'internato obbligatorio per l'intero anno scolastico nel 2°, 3° e 4° anno nella clinica neurologica. Tale internato potra' essere ridotto a non meno di mesi quattro per anno per, i medici che prestino regolare servizio in reparto neurologico. E' altresi' obbligatorio, durante il 1° anno, l'interrato in psichiatria per la durata dell'intero anno scolastico; quest'ultimo internato potra' essere ridotto a non meno di mesi cinque per i medici che prestino servizio in reparto neurologico ed a non meno di mesi quattro per coloro che prestino servizio in ospedale psichiatrico.  
+Un esonero dalla frequenza di anni due puo' essere concesso agli specialisti in psichiatria, neuropsichiatria infantile e neurochirurgia; un esonero dalla frequenza di un anno potra' essere concesso agli specialisti in altre materie affini (medicina interna, otorinolaringoiatria, oculistica, radiologia).  
+Gli esoneri di cui sopra sono concessi, su proposta del direttore della scuola, dal consiglio della medesima a seguito del superamento dell'esame di ammissione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1977
+### Dato a Roma, addi' 1 agosto 1972
 
-LEONE MALFATTI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 4 agosto 1978
+Registrato alla Corte dei conti, addi' 13 novembre 1972
 
-Registro n. 88 Istruzione, foglio n. 2
+Atti del Governo, registro n. 253, foglio n. 29. - CARUSO

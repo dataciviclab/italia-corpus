@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 agosto 1955 n. 912
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1982 n. 803
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 agosto 1955 n. 912
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1982 n. 803
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
@@ -10,138 +10,106 @@ Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, numero 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con i [regi decreti 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2229); [30 ottobre 1930, n. 1931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1931); [22 ottobre 1931, numero 1463](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-22;1463); [27 ottobre 1932, n. 2079](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2079); [27 dicembre 1934, n. 2435](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-27;2435); [1 ottobre 1936, n. 2472](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2472); [20 aprile 1939, numero 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-04-20;1068); [2 ottobre 1940, n. 1470](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-02;1470); [24 novembre 1941, n. 1443; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1941-11-24;1443) [20 novembre 1947, n. 1702 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-11-20;1702) [20 luglio 1948, n. 1161](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-07-20;1161); [31 ottobre 1950, n. 1278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1278); [19 giugno 1951, n. 1093](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-19;1093); [27 ottobre 1951, n. 1805](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1805); [27 ottobre 1951, n. 1806](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1806); [2 agosto 1952, numero 1222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-08-02;1222); [12 maggio 1953, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-05-12;549); [26 aprile 1954, numero 740](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;740); [4 febbraio 1955, n. 125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;125) e [19 luglio 1955, n. 763](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-19;763);
+Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il regio decreto-legge 20 giugno 1835, n. 1071, convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Pavia, approvato e' modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 15. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:
+Articolo unico
+--------------
 
-"Sociologia;
-
-Diritto pubblico comparato;
-
-Elementi di ragioneria e contabilita' aziendale".
-
-Dall'elenco degli insegnamenti complementari dello stesso corso di laurea in giurisprudenza sono soppressi quelli di demografia generale e di diritto coloniale.
-
-Art. 16. - Agli insegnamenti, i cui esami non possono essere sostenuti se prima non sia stato superato l'esame di "istituzioni di diritto privato", sono aggiunti quelli di "diritto processuale civile", "diritto penale", "procedura penale" e "diritto internazionale"; agli insegnamenti, i cui esami non possono essere sostenuti se prima non sia stato superato l'esame di "diritto costituzionale", sono aggiunti quelli di "diritto processuale civile", "diritto penale" e "procedura penale".
-
-Art. 19. - E' abrogato e sostituito dal seguente:
-
-"Tutti gli insegnamenti della Facolta' sono integrati da corsi di esercitazioni da tenersi negli Istituti annessi alle singole cattedre".
-
-Art. 20. - E' abrogato e sostituito dal seguente:
-
-"Qualora non tutti gli insegnamenti dispongano di un Istituto autonomo, la Direzione dell'istituto che serve a piu' insegnamenti e tenuta dal professore di ruolo, piu' anziano".
-
-Art 21. E' abrogato e sostituito dal seguente:
-
-"Per essere ammesso all'esame di laurea lo studente deve aver frequentato almeno quattro Istituti, partecipando per almeno un anno alle esercitazioni ivi tenute".
-
-Art. 22. - E' abrogato e sostituito dal seguente:
-
-"Sono ammessi agli Istituti gli studenti iscritti alla Facolta' di giurisprudenza dell'Universita' di Pavia, previo pagamento di un contributo stabilito dal Consiglio di amministrazione, su proposta del Senato accademico, udita la Facolta'".
-
-Art. 36. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e aggiunto quello di:
-
-"Scienza dell'alimentazione".
-
-Art. 51. - E' cosi' modificato nella parte riguardante le modalita' dell'esame di laurea in chimica:
-
-Laurea in chimica:
-
-1) una prova, pratica di analisi chimica qualitativa;
-
-2) una prova pratica di analisi chimica quantitativa;
-
-3) un colloquio orale di cultura chimica, vertente su concetti fondamentali delle seguenti materie: chimica generale ed inorganica, chimica organica, chimica analitica, chimica fisica;
-
-4) discussione sulla dissertazione e sulle prove pratiche;
-
-5) discussione di un argomento orale liberamente scelto in materia diversa da quella della dissertazione scritta.
-
-Il presente e decreto munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Lurisia, addi' 31 agosto 1955
-
-GRONCHI
-
-ROSSI
-
-Visto, il Guardasigilli: MORO
-
-Registrato
-----------
-
-alla corte dei conti, addi' 17 ottobre 1955 Atti del Governo, registro, n. 93, foglio n. 46. - CARLOMAGNO
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, numero 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con i [regi decreti 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2229); [30 ottobre 1930, n. 1931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1931); [22 ottobre 1931, numero 1463](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-22;1463); [27 ottobre 1932, n. 2079](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2079); [27 dicembre 1934, n. 2435](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-27;2435); [1 ottobre 1936, n. 2472](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2472); [20 aprile 1939, numero 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-04-20;1068); [2 ottobre 1940, n. 1470](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-02;1470); [24 novembre 1941, n. 1443; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1941-11-24;1443) [20 novembre 1947, n. 1702 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-11-20;1702) [20 luglio 1948, n. 1161](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-07-20;1161); [31 ottobre 1950, n. 1278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1278); [19 giugno 1951, n. 1093](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-19;1093); [27 ottobre 1951, n. 1805](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1805); [27 ottobre 1951, n. 1806](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1806); [2 agosto 1952, numero 1222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-08-02;1222); [12 maggio 1953, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-05-12;549); [26 aprile 1954, numero 740](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;740); [4 febbraio 1955, n. 125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;125) e [19 luglio 1955, n. 763](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-19;763);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il regio decreto-legge 20 giugno 1835, n. 1071, convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Nell'art. 33, relativo al corso di laurea in scienze politiche, sono aggiunti i seguenti nuovi insegnamenti:  
+amministrazione comparata;  
+demografia sociale;  
+diritto costituzionale;  
+diritto e legislazione bancaria;  
+diritto pubblico dei Paesi socialisti;  
+diritto pubblico dell'economia;  
+diritto pubblico generale;  
+economia applicata;  
+economia e politica del lavoro;  
+economia e politica del territorio;  
+economia e politica industriale;  
+finanza degli enti locali;  
+metodologia e tecnica della ricerca sociale;  
+partiti e gruppi di pressione;  
+relazioni internazionali;  
+sistema politico italiano;  
+sociologia dei Paesi in via di sviluppo;  
+sociologia dei processi culturali;  
+sociologia dell'organizzazione;  
+statistica aziendale e analisi di mercato;  
+storia del giornalismo e dell'informazione;  
+storia dell'amministrazione pubblica;  
+storia dell'Africa sub-sahariana;  
+storia dell'Asia sud-orientale;  
+storia della Chiesa nell'eta' moderna e contemporanea;  
+storia dell'India contemporanea;  
+storia delle istituzioni e delle dottrine politiche;  
+storia delle istituzioni militari;  
+storia dell'espansione coloniale e della decolonizzazione;  
+storia del movimento contadino;  
+storia del pensiero politico antico;  
+storia del pensiero politico medievale;  
+storia del pensiero politico moderno e contemporaneo;  
+storia del Risorgimento e dell'eta' contemporanea;  
+storia e legislazione delle istituzioni scolastiche;  
+storia moderna e contemporanea del Giappone;  
+storia moderna e contemporanea della Cina;  
+storia sociale;  
+tecniche di ricerca ed elaborazione dei dati.  
+Nello stesso articolo sono soppressi i seguenti insegnamenti:  
+controlli costituzionali;  
+diritto pubblico comparato degli Stati africani;  
+diritto pubblico romano;  
+economia aziendale;  
+economia dei Paesi afro-asiatici;  
+etnologia;  
+filosofia della scienza;  
+logica;  
+paleografia e diplomatica;  
+pedagogia;  
+psicologia;  
+sociologia applicata;  
+storia antica;  
+storia del cristianesimo;  
+storia medioevale;  
+storia moderna e contemporanea dell'Iran e dell'Asia centrale;  
+storia e tecnica dei mezzi di informazione;  
+tecnica degli scambi internazionali;  
+storia moderna e contemporanea dell'Asia.  
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:  
-Art. 15. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:  
-"Sociologia;  
-Diritto pubblico comparato;  
-Elementi di ragioneria e contabilita' aziendale".  
-Dall'elenco degli insegnamenti complementari dello stesso corso di laurea in giurisprudenza sono soppressi quelli di demografia generale e di diritto coloniale.  
-Art. 16. - Agli insegnamenti, i cui esami non possono essere sostenuti se prima non sia stato superato l'esame di "istituzioni di diritto privato", sono aggiunti quelli di "diritto processuale civile", "diritto penale", "procedura penale" e "diritto internazionale"; agli insegnamenti, i cui esami non possono essere sostenuti se prima non sia stato superato l'esame di "diritto costituzionale", sono aggiunti quelli di "diritto processuale civile", "diritto penale" e "procedura penale".  
-Art. 19. - E' abrogato e sostituito dal seguente:  
-"Tutti gli insegnamenti della Facolta' sono integrati da corsi di esercitazioni da tenersi negli Istituti annessi alle singole cattedre".  
-Art. 20. - E' abrogato e sostituito dal seguente:  
-"Qualora non tutti gli insegnamenti dispongano di un Istituto autonomo, la Direzione dell'istituto che serve a piu' insegnamenti e tenuta dal professore di ruolo, piu' anziano".  
-Art 21. E' abrogato e sostituito dal seguente:  
-"Per essere ammesso all'esame di laurea lo studente deve aver frequentato almeno quattro Istituti, partecipando per almeno un anno alle esercitazioni ivi tenute".  
-Art. 22. - E' abrogato e sostituito dal seguente:  
-"Sono ammessi agli Istituti gli studenti iscritti alla Facolta' di giurisprudenza dell'Universita' di Pavia, previo pagamento di un contributo stabilito dal Consiglio di amministrazione, su proposta del Senato accademico, udita la Facolta'".  
-Art. 36. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e aggiunto quello di:  
-"Scienza dell'alimentazione".  
-Art. 51. - E' cosi' modificato nella parte riguardante le modalita' dell'esame di laurea in chimica:  
-Laurea in chimica:  
-1) una prova, pratica di analisi chimica qualitativa;  
-2) una prova pratica di analisi chimica quantitativa;  
-3) un colloquio orale di cultura chimica, vertente su concetti fondamentali delle seguenti materie: chimica generale ed inorganica, chimica organica, chimica analitica, chimica fisica;  
-4) discussione sulla dissertazione e sulle prove pratiche;  
-5) discussione di un argomento orale liberamente scelto in materia diversa da quella della dissertazione scritta.  
-  
-Il presente e decreto munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.  
-  
-Dato a Lurisia, addi' 31 agosto 1955  
-  
-GRONCHI  
-  
-ROSSI   
-Visto, il Guardasigilli: MORO  
-Registrato alla corte dei conti, addi' 17 ottobre 1955  
-Atti del Governo, registro, n. 93, foglio n. 46. - CARLOMAGNO  
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Dato a Roma, addi' 15 luglio 1982
+
+PERTINI BODRATO
+
+Visto, il Guardasigilli: DARIDA
+
+Registrato alla Corte dei conti, addi' 26 ottobre 1982
+
+Registro n. 121 Istruzione, foglio n. 44

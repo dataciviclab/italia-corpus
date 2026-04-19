@@ -1,65 +1,59 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 agosto 1988 n. 342
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 marzo 1988 n. 95
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 agosto 1988 n. 342
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 marzo 1988 n. 95
+===========================================================
 
 Modificazioni delle aliquote dell'imposta di fabbricazione 
 su alcuni prodotti petroliferi.
 -------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 27/8/1988
+Entrata in vigore del decreto: 10/04/1988
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
 Visti gli [articoli 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art76) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
 
-Vista la [legge 9 ottobre 1987, n. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-09;417), recante delega al Governo per la emanazione di norme concernenti l'aumento o la riduzione dell'imposta di fabbricazione sui prodotti petroliferi con riferimento alla riduzione o all'aumento dei prezzi medi europei di tali prodotti;
+Vista la [legge 9 ottobre 1987, n. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-09;417), recante delega al Governo per la emanazione di norme concernenti l'aumento o la riduzione dell'imposta di fabbricazione sui prodotti petroliferi con riferimento alla riduzione o all'aumento dei prezzi medi di tali prodotti;
 
-Vista la comunicazione della segreteria del Comitato interministeriale prezzi in data 9 agosto 1988 concernente la variazione dei prezzi medi europei sui prodotti petroliferi;
+Vista la comunicazione della segreteria del Comitato interministeriale prezzi in data 23 marzo 1988 concernente la variazione dei prezzi medi europei sui prodotti petroliferi;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 10 agosto 1988;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 25 marzo 1988;
 
-Sulla proposta del Ministro delle finanze, di concerto con i Ministri del tesoro, del bilancio e della programmazione economica e dell'industria, del commercio e dell'artigianato;
+Sulla proposta del Ministro delle finanze, di concerto con i Ministri del tesoro e dell'industria, del commercio e dell'artigianato;
 
-E M A N A il seguente decreto:
+EMANA
+-----
+
+il seguente decreto:
 
 Art. 1
 ------
 
-1. A partire dal 12 agosto 1988, l'imposta di fabbricazione e la corrispondente sovrimposta di confine sui seguenti prodotti petroliferi sono diminuite:
+1. A partire dal 26 marzo 1988, l'imposta di fabbricazione e la corrispondente sovrimposta di confine sui seguenti prodotti petroliferi sono aumentate:
 
-a) da lire 84.776 a lire 83.637 per ettolitro, alla temperatura di 15›C, per le benzine speciali diverse dall'acqua ragia minerale, per la benzina e per il petrolio diverso da quello lampante;
+a) da L. 31.525 a L. 32.645 per ettolitro, alla temperatura di 15 ›C, per gli oli da gas da usare come combustibili di cui alla lettera F), punto 1), della tabella B allegata alla [legge 19 marzo 1973, n. 32](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-03-19;32);
 
-b) da lire 8.477,60 a lire 8.363,70 per ettolitro, alla temperatura di 15›C, per il prodotto denominato "Jet Fuel JP/4", destinato all'Amministrazione della difesa, relativamente al quantitativo eccedente il contingente annuo di tonnellate 18.000 sulle quali e' dovuta l'imposta nella misura normale stabilita per la benzina.
-
-Art. 2
-------
-
-1. Alle minori entrate derivanti dall'attuazione del presente decreto, valutate in lire 71 miliardi per l'anno 1988 ed in lire 182 miliardi per gli anni successivi, si provvede a valere sulle maggiori entrate derivanti dall'attuazione dei decreti del Presidente della Repubblica precedentemente emanati in forza della [legge 9 ottobre 1987, n. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-09;417).
-
-2. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+b) da L. 10.188 a L. 10.524, da L. 12.026 a L. 12.429 e da L. 35.916 a L. 37.191 per cento kg, rispettivamente, per gli oli combustibili diversi da quelli speciali, semifluidi, fluidi e fluidissimi, di cui alla lettera H), punti 1-b), 1 -c) e 1-d), della predetta tabella B.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Newmarket-on-Fergus (Repubblica d'Irlanda), addi' 10 agosto 1988
+### Dato a Roma, addi' 25 marzo 1988
 
 COSSIGA
 
-DE MITA, Presidente del Consiglio dei Ministri
+GORIA, Presidente del Consiglio dei Ministri
 
-COLOMBO, Ministro delle finanze
+GAVA, Ministro delle finanze
 
 AMATO, Ministro del tesoro
-
-FANFANI, Ministro del bilancio e della programmazione economica
 
 BATTAGLIA, Ministro dell'industria, del commercio e dell'artigianato
 
 Visto, il Guardasigilli: VASSALLI
 
-Registrato alla Corte dei conti, addi' 12 agosto 1988
+Registrato alla Corte dei conti, addi' 26 marzo 1988
 
-Atti di Governo, registro n. 75, foglio n. 36
+Atti di Governo, registro n. 73, foglio n. 11

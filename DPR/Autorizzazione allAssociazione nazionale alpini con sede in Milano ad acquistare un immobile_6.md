@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1967 n. 407
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 novembre 1973 n. 865
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1967 n. 407
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 novembre 1973 n. 865
+===============================================================
 
 Autorizzazione all'Associazione nazionale alpini, con sede in Milano, ad acquistare un immobile.
 ------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-407. Decreto del Presidente della Repubblica 19 maggio 1967, col quale, sulla proposta del Ministro per la difesa, l'Associazione nazionale alpini, con sede in Milano, viene autorizzata ad acquistare dal comune di Vadeseta, al prezzo di L. 250.000, un appezzamento di terreno di mq. 990, situato a quota 1980, in comune censuario di Barzio (corrispondente alla porzione b del mappale 1770), da utilizzare per l'ampliamento del rifugio Cazzaniga di proprieta' della Sezione di Lecco dell'Associazione stessa.  
+865. Decreto del Presidente della Repubblica 3 novembre 1973, col quale, sulla proposta del Ministro per la difesa, l'Associazione nazionale alpini, con sede in Milano, viene autorizzata ad acquistare, per adibirlo a sede della dipendente sezione di Conegliano (Treviso), dai signori Curto Guido, Vallomy Giacomo, Travaini Francesco, Battistella Alfredo e Mason Giovanni, al prezzo di lire cinque milioni, il fabbricato con annesso terreno sito nel comune di Conegliano, via Beccaruzzi n. 7, allibrato nel catasto fabbricati di quel comune alla sezione E, foglio IV, mappale n. 457 (sub 1, 2, 3 e 4) e nel catasto terreni del comune stesso alla sezione E, foglio IV, mappale n. 458.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 13 giugno 1967  
-Atti del Governo, registro n. 211, foglio n. 121. - GRECO
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 22 dicembre 1973  
+Atti di Governo, registro n. 263, foglio n. 16. - CARUSO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 gennaio 1968 n. 70
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1964 n. 1052
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 gennaio 1968 n. 70
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1964 n. 1052
+==============================================================
 
 Autorizzazione all'Universita' degli studi di Padova ad acquistare un immobile.
 -------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-70. Decreto del Presidente della Repubblica 12 gennaio 1968, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Padova viene autorizzata ad acquistare dalla societa' "Anselmi e Casale" un compendio immobiliare di mq. 17.000 sito in Padova, fra via Venezia, il canale Piovego e via Lungargine del Piovego, al prezzo di L. 460.000.000.  
+1052. Decreto del Presidente della Repubblica 3 agosto 1964, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Padova viene autorizzata ad acquistare, dall'Amministrazione finanziaria dello Stato, il compendio immobiliare demaniale dell'ex carcere giudiziario dei "Paolotti", sito in Padova, via Belzoni, al prezzo di L. 125.000.000.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 12 febbraio 1968  
-Atti del Governo, registro n. 217, foglio n. 66. - GRECO
+Registrato alla Corte dei conti, addi' 14 ottobre 1964  
+Atti del Governo, registro n. 187, foglio n. 116. - VILLA

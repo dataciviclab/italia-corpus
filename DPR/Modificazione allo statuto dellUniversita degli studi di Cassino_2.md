@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 agosto 1986 n. 948
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 505
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 agosto 1986 n. 948
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 505
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Cassino.
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Cassino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Cassino, approvato con [decreto del Presidente della Repubblica 31 ottobre 1981, n. 1122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-10-31;1122), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Cassino, approvato con [decreto del Presidente della Repubblica 31 ottobre 1981, n. 1122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-10-31;1122), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -22,44 +22,39 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
-
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Considerato che e' tuttora in atto la sperimentazione organizzativa e didattica di cui agli [articoli 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art81) - [93 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art93);
-
-Considerato che le tabelle dell'ordinamento didattico universitario relative ai corsi di laurea sono in fase di riordinamento per effetto di apposite commissioni di studio, e che anzi alcune tabelle sono state gia' riordinate;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Cassino e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
-
-Rilevata la necessita' di accogliere la richiesta della Universita' di Cassino di istituire il corso di laurea in ingegneria elettrotecnica, allo scopo di riequilibrare le iscrizioni presso gli omonimi corsi di laurea degli Atenei viciniori, al fine di assicurare una migliore formazione degli studenti e, quindi, la necessita' di apportare la modifica proposta in deroga al termine triennale di cui all'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 --------
 
-Lo statuto dell'Universita' degli studi di Cassino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Cassino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-L'art. 20 e' modificato nel senso che la facolta' di ingegneria conferisce anche la laurea in ingegneria elettrotecnica.  
-Con successivo provvedimento verra' stabilito l'ordinamento degli studi di detto corso di laurea.  
+Art. 17 - all'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti insegnamenti: sociologia industriale;  
+sistemi informativi aziendali e telematica;  
+teoria dei costi di produzione e contabilita' industriale;  
+gestione del personale e tecniche di retribuzione;  
+economia e tecnica del mercato mobiliare.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 agosto 1986
+### Dato a Roma, addi' 26 aprile 1984
 
-COSSIGA
+PERTINI FALCUCCI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 8 agosto 1984
 
-Registrato alla Corte dei conti, addi' 30 dicembre 1986
-
-Registro n. 90 Istruzione, foglio n. 229
+Registro n. 49 Istruzione, foglio n. 201

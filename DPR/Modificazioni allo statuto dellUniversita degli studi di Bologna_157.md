@@ -1,59 +1,72 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 marzo 1965 n. 365
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1981 n. 939
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 marzo 1965 n. 365
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1981 n. 939
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Dopo l'art. 36 sono aggiunti i seguenti nuovi articoli relativi alla costituzione del "Centro per la ricerca e lo studio dei testi civilistici medievali" annesso alla Facolta' di giurisprudenza con il conseguente spostamento della numerazione degli articoli successivi.  
-  
-Centro per la ricerca e lo studio dei testi civilistici medievali  
-  
-Art. 37. - Presso l'Universita' di Bologna e' costituito il "Centro per la ricerca e lo studio dei testi civilistici medievali".  
-Art. 38. - Il Centro ha lo scopo di promuovere lo studio della dottrina giuridica, medievale; e in particolare:  
-a) la raccolta dei dati relativi ai codici medievali italiani attinenti al Corpus iuris civilis, conservati sia in Italia sia all'estero;  
-b) la raccolta di microfilms o fotocopie dei sopraddetti codici;  
-c) la compilazione di uno schedario relativo;  
-d) l'attivita' di collegamento e di scambio fra, studiosi di istituti scientifico-culturali, anche attraverso incontri e convegni;  
-e) l'organizzazione di corsi tecnici di specializzazione nello studio delle fonti civilistiche medievali;  
-f) l'eventuale pubblicazione di un suo bollettino a stampa.  
-Art. 39. - I mezzi economici per il funzionamento del Centro sono costituiti da contributi dell'Universita' di Bologna e da elargizioni di altri enti pubblici e privati.  
-Art. 40. - Il Centro e' aperto alle adesioni sia di privati sia di enti scientifico-culturali.  
-Art. 41. - Sono organi del Centro:  
-a) il Comitato direttivo composto da un numero di membri da 5 a 15, designati dalla Facolta' di giurisprudenza dell'Universita' di Bologna, che eleggono nel loro seno il presidente, un segretario ed un economo;  
-b) una Giunta esecutiva, di membri tecnici, in numero da 3 a 5, eletta dai Comitato direttivo.  
-Art. 42. - Il funzionamento del Centro sara' disciplinato da apposito regolamento da redigersi entro un anno dall'approvazione del Centro stesso da parte delle competenti autorita'.  
+Nell'art. 89, relativo al corso di laurea in materie letterarie, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+storia della retorica classica;  
+storia della liturgia;  
+demografia storica.  
+Nel medesimo elenco l'insegnamento complementare di "psicologia" cambia la propria denominazione in quella di "psicologia generale".  
+Nell'art. 90, relativo al corso di laurea in pedagogia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+docimologia;  
+metodologia e didattica degli audiovisivi;  
+storia della scuola e delle istituzioni educative;  
+storia della letteratura per l'infanzia;  
+storia e metodologia delle scienze.  
+Nell'art. 91, relativo al corso di laurea in lingue e letterature straniere, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+lingua e letteratura catalana;  
+lingua e letteratura neogreca;  
+lingua e letteratura inglese medievale;  
+letterature anglofone.  
+Nel medesimo elenco l'insegnamento complementare di "letteratura anglo-americana" cambia denominazione in quella di "lingua e letteratura anglo-americana".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 marzo 1965
+### Dato a Roma, addi' 28 ottobre 1981
 
-SARAGAT GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 26 aprile 1965
+Registrato alla Corte dei conti, addi' 9 febbraio 1982
 
-Atti del Governo, registro n. 192, foglio n. 91. - VILLA
+Registro n. 20 Istruzione, foglio n. 205

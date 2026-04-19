@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1969 n. 659
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1965 n. 1439
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1969 n. 659
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1965 n. 1439
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
@@ -12,12 +12,11 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e modificato con [regio decreto 2 ottobre 1940 n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -26,40 +25,123 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 33. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:  
-Cultura greca;  
-Letteratura latina medioevale;  
-Letteratura umanistica;  
-Storia della letteratura italiana moderna e contemporanea;  
-Filosofia morale;  
-Storia della filosofia medioevale;  
-Paleografia e diplomatica;  
-Storia delle dottrine economiche;  
-Storia contemporanea;  
-Storia della critica letteraria.  
-Art. 34. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:  
-Cultura greca;  
-Letteratura latina medioevale;  
-Filosofia morale;  
-Storia della filosofia medioevale;  
-Storia delle dottrine economiche;  
-Storia contemporanea;  
-Igiene.  
-Art. 38, relativo alla propedeuticita' di esami tra prova scritta e orale e' soppresso con il conseguente spostamento della numerazione degli articoli successivi.  
-Art. 41. - E' modificato nel senso che il secondo comma relativo all'esame di laurea e' soppresso.  
-Art. 46. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto il seguente:  
-Gerontologia e geriatria.  
+L'art. 103, relativo alla Scuola di perfezionamento in Pediatria e' abrogato e sostituito dal seguente.  
+  
+Scuola di specializzazione in Pediatria  
+La Scuola ha la durata di tre anni.  
+Le materie di insegnamento sono:  
+1° Anno:  
+Anatomia umana normale;  
+Anatomia patologica;  
+Fisiologia;  
+Farmacologia;  
+Puericultura I;  
+Clinica pediatrica.  
+2° Anno:  
+Puericultura II;  
+Clinica pediatrica;  
+Semeiotica;  
+Clinica oculistica;  
+Clinica dermatologica;  
+Metodologia psichiatrica e igiene mentale;  
+Metodologia di laboratorio.  
+3° Anno:  
+Clinica pediatrica;  
+Clinica ortopedica;  
+Clinica chirurgica;  
+Radiologia;  
+Elementi di psichiatria infantile;  
+Profilassi e igiene nelle collettivita'.  
+Per l'ammissione agli anni successivi di corso gli iscritti dovranno aver superato l'esame del gruppo delle materie dell'anno precedente.  
+L'art. 105, relativo alla Scuola di perfezionamento in Oculistica e' abrogato e sostituito dal seguente.  
+  
+Scuola di specializzazione in Oculistica  
+La Scuola ha la durata di quattro anni. Il numero degli studenti che possono essere iscritti e' limitato a venticinque per ogni anno di corso.  
+Le materie di insegnamento sono:  
+1° Anno:  
+Anatomia ed istologia dell'apparato oculare;  
+Nozioni di embriologia e genetica oculare;  
+Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;  
+Nozioni di ottica fisiologica, esame della refrazione;  
+Microbiologia ed igiene oculare.  
+2° Anno:  
+Semeiotica oculare e mezzi di indagini dell'apparato oculare (biomicroscopia, oftalmologia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);  
+Farmacologia oculare e terapia fisica;  
+Anatomia e patologia oculare;  
+Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della sclera).  
+3° Anno:  
+Patologia e clinica oculare (malattie dell'urea, della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);  
+Anomalie e patologia della motilita' oculare e della visione binoculare ortottica e pleottica;  
+Affezioni otorinolaringoiatriche e occhio;  
+Tecnica operatoria - I parte.  
+4° Anno:  
+Neuro-oftalmologia;  
+Malattie oculari in rapporto ad affezioni generali;  
+Malattie professionali;  
+Infortunistica e medicina legale oculare;  
+Tecnica operatoria - II parte;  
+Tesi di specializzazione.  
+Per l'ammissione agli anni successivi di corso gli iscritti dovranno aver superato l'esame del gruppo di materie dell'anno precedente.  
+Alla fine del corso gli iscritti, oltre a presentare la dissertazione scritta ed a sostenere la relativa discussione, dovranno sostenere una prova pratica sull'ammalato.  
+L'art. 109, relativo alla Scuola di perfezionamento in Gastroenterologia, e' abrogato e sostituito dal seguente:  
+  
+Scuola di specializzazione in Gastroenterologia  
+La Scuola ha la durata di due anni.  
+Il numero degli iscritti e' limitato a sei per ogni anno di corso.  
+Le materie di insegnamento sono:  
+1° Anno:  
+Anatomia normale;  
+Fisiologia;  
+Anatomia patologica;  
+Semeiotica fisica;  
+Patologia speciale dei vari segmenti dell'apparato digerente e ghiandole annesse;  
+Clinica generale I;  
+Radiologia I.  
+2° Anno:  
+Semeiotica strumentale;  
+Chimica clinica;  
+Clinica generale II;  
+Radiologia II;  
+Terapia generale e speciale medica;  
+Terapia chirurgica;  
+Dietetica generale e speciale (semestrale).  
+L'art. 112, relativo alla Scuola di perfezionamento in Cardiologia, e' abrogato e sostituito dal seguente.  
+  
+Scuola di specializzazione in Cardiologia  
+La Scuola ha la durata di tre anni.  
+Il numero degli studenti che possono essere iscritti e' limitato a dodici per ogni anno di corso.  
+Le materie di insegnamento sono:  
+1° Anno:  
+Anatomia normale;  
+Anatomia patologica;  
+Fisiologia;  
+Semeiotica fisica;  
+Elettrocardiografia e vettocardiografia I;  
+Patologia delle malattie di cuore I.  
+2° Anno:  
+Patologia delle malattie di cuore II;  
+Elettrocardiografia II;  
+Semeiotica strumentale;  
+Radiologia generale e speciale;  
+Fisiopatologia respiratoria;  
+Clinica delle malattie cardiovascolari I.  
+3° Anno:  
+Clinica delle malattie cardiovascolari II;  
+Terapia generale e speciale;  
+Reumatologia;  
+Malattie vascolari;  
+Cardioangiopatie congenite.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 settembre 1969
+### Dato a Roma, addi' 30 ottobre 1965
 
-SARAGAT FERRARI AGGRADI
+SARAGAT GUI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 3 ottobre 1969
+Registrato alla Corte dei conti, addi' 27 dicembre 1965
 
-Atti del Governo, registro n. 229, foglio n. 73. - GRECO
+Atti del Governo, registro n. 199, foglio n. 21. - VILLA

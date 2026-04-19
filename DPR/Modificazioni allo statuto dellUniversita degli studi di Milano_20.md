@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 681
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 agosto 1959 n. 871
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 681
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 agosto 1959 n. 871
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -10,702 +10,266 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvate con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte; Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Silla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-L'art. 132 relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che le scuole in "Igiene ed epidemiologia", "Igiene e tecnica ospedaliera", "Medicina ed igiene scolastica" sono soppresse.
+Art. 57. - All'elenco, delle Scuole annesse alla Facolta' di lettere e filosofia e' aggiunta quella di "perfezionamento in storia dell'arte antica, medioevale e moderna".
 
-La "Scuola di specializzazione in otorinolaringoiatria" muta la denominazione in quella di "Scuola di specializzazione in otorinolaringoiatria e patologia cervicofacciale".
+Dopo l'art. 82 e con il conseguente spostamento della numerazione di quelli successivi, sono inseriti i seguenti nuovi articoli relativi alla:
 
-Allo stesso elenco sono aggiunte le scuole di specializzazione in "Igiene e medicina preventiva" e in "Reumatologia" di nuova istituzione.
+Scuola di perfezionamento in storia dell'arte antica, medioevale e moderna
 
-Gli articoli da 156 a 163 relativi alla scuola di specializzazione in "Chirurgia dell'infanzia" sono abrogati e sostituiti dai seguenti:
+Art. 83. - La Scuola di perfezionamento in storia dell'arte antica, medioevale e moderna ha lo scopo, nell'ambito delle discipline costitutive della Scuola di:
 
-Scuola di specializzazione in chirurgia dell'infanzia
+1) guidare e promuovere la continuazione della ricerca scientifica nei giovani laureati;
 
-Art. 156. - La scuola di specializzazione in chirurgia dell'infanzia conferisce il diploma di specialista in chirurgia dell'infanzia.
+2) promuovere, mediante il coordinamento dei singoli insegnamenti, la loro integrazione con speciali corsi ed esercitazioni e l'assistenza dei docenti, una cultura specifica piu' approfondita nei giovani laureati che a queste aspirano, anche allo scopo di preparare insegnanti di storia dell'arte per le scuole secondarie e personale dirigente nelle Sopraintendenze e musei;
 
-Art. 157. - La durata del corso di studi per il conseguimento della specialita' in chirurgia dell'infanzia e' fissata in anni due.
+3) promuovere gli studi ai quali si intitola la Scuola con l'insegnamento, con pubblicazioni, raccolta di materiali, collaborazione con istituti similari ed ogni altra iniziativa consentita dai mezzi finanziari disponibili (quali borse di studio, viaggi, stampa di lavori degli allievi piu' meritevoli, ecc.).
 
-Possono ottenere l'iscrizione alla scuola i laureati in medicina e chirurgia che siano in possesso del diploma di specialista in chirurgia o abbiano conseguito la libera docenza in clinica chirurgica o patologia chirurgica, o semeiotica chirurgica, o anatomia chirurgica, o in chirurgia pediatrica.
+Art. 84. - La durata del corso di studi e' di due anni.
 
-Non e' ammessa l'abbreviazione di corso.
+Per ognuno dei due anni di perfezionamento lo studente deve ottenere la firma di iscrizione e frequenza di almeno tre corsi e sostenere i relativi esami: biennali per la disciplina prescelta per la tesi, annuali per le altre.
 
-Art. 158. - Il numero degli iscritti alla scuola e' di dieci per anno di corso.
+Gli insegnamenti costitutivi della Scuola si articolano in tre rami:
 
-Qualora il numero degli aspiranti superi quello stabilito per la scuola in chirurgia dell'infanzia, l'ammissione sara' subordinata ad una prova d'esame.
+storia dell'arte medioevale e moderna;
 
-Art. 159. - La direzione della scuola e' affidata al titolare dell'insegnamento della chirurgia pediatrica o ad una persona nominata dalla facolta'.
+archeologia e storia dell'arte greca e romana;
 
-Art. 160. - Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali, oltre ad un periodo di internato obbligatorio di almeno sei mesi per ogni anno di corso.
+egittologia.
 
-Il periodo di internato potra' essere abbreviato per coloro che documentino di svolgere effettivo servizio presso reparti di chirurgia pediatrica universitari o ospedalieri.
+Sono insegnamenti obbligatori per tutti e tre i rami la storia dell'arte medioevale e moderna e l'archeologia e storia dell'arte greca e romana. Le discipline a completamento degli esami fondamentali in ciascuna branca saranno scelte fra quelle insegnante nella Facolta' di lettere e filosofia dell'Universita' di Milano, a seconda dell'indirizzo dei suoi studi, dai candidato d'accordo con il direttore della Scuola.
 
-Art. 161. - Le materie di insegnamento sono le seguenti:
+Art. 85. - La Scuola e' retta da un direttore e da un Consiglio della scuola.
 
-1° Anno:
+Il direttore e' scelto dalla Facolta' fra i titolari delle cattedre di storia dell'arte medioevale e moderna, di archeologia e storia dell'arte greca e romana e di egittologia.
 
-Anatomia patologica e teratologia (lezioni);
+Il Consiglio della scuola e' costituito dai professori ufficiali che vi tengono gli insegnamenti costitutivi.
 
-Endocrinologia infantile (conferenze);
+Art. 86. - Alla Scuola possono iscriversi i laureati in lettere, in filosofia e in lingue e letterature straniere moderne.
 
-Clinica pediatrica (lezioni);
+I candidati dovranno indicare all'atto della iscrizione in quale delle discipline costitutive della Scuola intendono conseguire il perfezionamento.
 
-Clinica chirurgica pediatrica (lezioni);
+Art. 87. - Per conseguire il diploma di perfezionamento della Scuola gli iscritti dovranno, oltreche' aver superato gli esami di cui all'art. 84:
 
-Patologia chirurgica e semeiotica chirurgica (lezioni);
+a) sostenere un esame di cultura generale nell'ambito delle discipline prescelte, dimostrando di conoscere, ai fini di una corrente lettura e traduzione di testi, almeno in due lingue straniere;
 
-Diagnostica radiologica e nucleare delle malattie chirurgiche dell'infanzia (lezioni);
+b) presentare una dissertazione scritta intorno ad un tema prescelto nell'ambito delle discipline della e) sostenere la discussione orale intorno a tale dissertazione.
 
-Anestesiologia e rianimazione (conferenze).
+Art. 88. - Le Commissioni dei singoli esami di profitto sono nominate dal preside di Facolta' di intesa con il direttore della Scuola e sono composte di tre membri, dei quali almeno due professori del corso.
 
-2° Anno:
+La Commissione dell'esame di diploma e' nominata, dai rettore, sentiti il preside della Facolta' di lettere e filosofia e il direttore della Scuola, ed e' composta di sette membri fra cui il preside della Facolta' di lettere e filosofia, il direttore della Scuola e almeno tre docenti della Scuola stessa.
 
-Clinica pediatrica (lezioni);
+Dopo il corso di perfezionamento in matematica applicata, annesso alla Facolta' di scienze matematiche, fisiche e naturali, sono aggiunti, con lo spostamento della, numerazione successiva, i seguenti nuovi articoli relativi all'ordinamento delle Scuole di perfezionamento delle Facolta' di scienze matematiche, fisiche e naturali.
 
-Clinica chirurgica pediatrica (lezioni);
+Art. 141. Alla Facolta' di scienze matematiche, fisiche e naturali e' annessa la Scuola di perfezionamento in fisica.
 
-Chirurgia d'urgenza nell'infanzia (lezioni);
+La durata del corso per il conseguimento dei singoli diplomi e' di due anni. Alla Scuola di perfezionamento sono ammessi i laureati in possesso dei titoli indicati per ogni singolo diploma.
 
-Otorinolaringoiatria nell'infanzia (conferenze);
+Art. 142. - Il direttore della Scuola e' nominato dal rettore su proposta del Consiglio della Facolta'. Il Consiglio nomina, altresi', un Comitato direttivo preposto all'organizzazione e alla disciplina degli studi. Esso e' costituito da almeno tre professori di ruolo, competenti nei rami degli studi relativi.
 
-Ortopedia nell'infanzia (conferenze);
+I docenti di ruolo di altre Facolta' dell'Universita' di Milano che abbiano incarichi di insegnamento nelle scuole stesse, possono far parte del Comitato.
 
-Urologia nell'infanzia (conferenze);
+Il Comitato e' presieduto dal direttore della Scuola.
 
-Neurochirurgia infantile (conferenze);
+Art. 143. - Ogni anno, entro il mese di maggio, il Consiglio della Facolta', su proposta del Comitato della Scuola, stabilisce il numero dei posti disponibili al primo anno di ogni Scuola.
 
-Chirurgia del cuore e dei grossi vasi (conferenze).
+E' comunque vietata L'iscrizione contemporanea a due o piu' corsi di perfezionamento.
 
-Art. 162. - La frequenza alle lezioni e' obbligatoria.
+Art. 144. - Gli allievi dovranno sostenere gli esami di profitto e di diploma secondo l'ordinamento della Scuola.
 
-Al termine di ciascun anno accademico, gli specializzandi, che abbiano ottenuto le firme di frequenza, dovranno sostenere gli esami di profitto nelle materie oggetto di insegnamento.
+L'ammissione all'esame di diploma implica, in ogni caso, un giudizio preventivo di maturita' dei candidati, da parte del Comitato preposto al corso di ogni singolo diploma.
 
-Art. 163. - Al termine del corso di specializzazione gli specializzandi dovranno presentare una dissertazione scritta su argomento di chirurgia infantile e sostenere l'esame di diploma.
+Art. 145. - Le Commissioni per gli esami di profitto sono composte di non meno di tre membri, compreso un libero docente, e sono nominate dal direttore della Scuola.
 
-L'art. 178 relativo alla scuola di specializzazione in igiene ed epidemiologia; gli articoli 179-180 relativi alla scuola di specializzazione in igiene e tecnica ospedaliera; l'art. 185 relativo alla scuola di specializzazione in medicina e igiene scolastica sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.
+Le Commissioni per gli esami di diploma sono costituite da sette membri nominati dal preside della Facolta', udito il direttore della Scuola.
 
-L'art. 202 relativo alla "Scuola di specializzazione in neurochirurgia" e' abrogato e sostituito dal seguente:
+I commissari debbono rivestire la qualita' di professori ufficiali, ed e' chiamato a far parte della Commissione anche un libero docente.
 
-Scuola di specializzazione in neurochirurgia
+Art. 146. - Le tasse e soprattasse per gli iscritti alla Scuola di perfezionamento sono quelle stabilite per il conseguimento delle varie lauree della Facolta' di scienze matematiche, fisiche e naturali.
 
-Art. 202. - La durata del corso e' di quattro anni.
+L'ammontare dei contributi vari e dei contributi speciali per ogni singola Scuola verra' stabilito ogni anno dal Consiglio di amministrazione, su proposta del Senato accademico, udita la Facolta' e sara' devoluto agli istituti presso i quali funzionano le Scuole di perfezionamento.
 
-Il numero degli iscritti e' stabilito in un massimo di sei per il primo anno di corso (totale ventiquattro iscritti).
+Art. 147. - Per quanto riguarda, le modalita' di iscrizione si richiamano le norme del regolamento sugli studenti approvato con [regio decreto 4 giugno 1938, n. 1269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-04;1269).
 
-Le materie di insegnamento sono:
+Art. 148. - La Scuola di perfezionamento in fisica conferisce il diploma in:
 
-1° Anno:
+a) elettronica;
 
-1) Neuroanatomia;
+b) fisica atomica e nucleare.
 
-2) Neurofisiologia;
+A) Diploma in elettronica:
 
-3) Semeiotica e clinica neurologica;
+Al corso sono ammessi i laureati in fisica, in ingegneria, in chimica, in chimica industriale.
 
-4) Elementi di psichiatria;
+Gli insegnamenti sono:
 
-5) Clinica neurochirurgica (I).
+1) elementi e teoria dei circuiti elettrici;
 
-Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2), 3), 4).
+2) fisica degli elettroni;
 
-2° Anno:
+3) tubi e circuiti elettronici;
 
-1) Neuro-oftalmologia;
+4) apparecchiature elettroniche;
 
-2) Neuro-otoiatria;
+5) elettronica industriale;
 
-3) Elettroencefalografia ed elettromiografia;
+6) esercitazioni di laboratorio.
 
-4) Clinica neurochirurgica (II).
+Ciascuno insegnamento comporta un esame annuale.
 
-Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2) e 3).
+Per l'ammissione al secondo anno e' obbligatorio il superamento di almeno due esami degli insegnamenti predetti.
 
-3° Anno:
+L'esame di diploma consiste nella discussione orale di una dissertazione scritta su un tema approvato in precedenza dal Consiglio direttivo, corredato da rilievi teorici e sperimentali personali.
 
-1) Anestesiologia;
+B) Diploma di fisica atomica e nucleare
 
-2) Neuropatologia;
+Al corso sono ammessi i laureati in fisica, in matematica e fisica, in scienze matematiche e in ingegneria.
 
-3) Neuroradiologia (I);
+Gli insegnamenti sono:
 
-4) Clinica neurochirurgica (III).
+1) fisica atomica e molecolare;
 
-Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1) e 2).
+2) fisica nucleare;
 
-4° Anno:
+3) fisica teorica;
 
-1) Tecniche operatorie;
+4) fisica delle particelle elementari;
 
-2) Neuroradiologia (II);
+5) tecniche e misure di fisica nucleare.
 
-3) Clinica neurochirurgica (IV);
+L'ammissione al secondo anno di corso implica il superamento di due degli esami degli insegnamenti sopra elencati.
 
-4) Neurotraumatologia;
-
-5) Neurochirurgia infantile;
-
-6) Chirurgia stereotassica;
-
-7) Neurochirurgia spinale.
-
-Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2) e 3).
-
-Gli insegnamenti saranno integrati da esercitazioni cliniche e di laboratorio.
-
-La frequenza alla scuola e' obbligatoria durante l'anno accademico.
-
-Gli allievi sono tenuti a frequentare assiduamente le lezioni ed i laboratori della clinica neurochirurgica secondo l'orario stabilito ed a partecipare attivamente alle esercitazioni cliniche e di laboratorio.
-
-Il direttore della scuola potra' disporre che gli allievi frequentino per determinati periodi le lezioni e le esercitazioni di laboratorio in altri istituti dell'universita'.
-
-Al termine di ciascun anno gli allievi che abbiano regolarmente frequentato il corso dovranno superare un esame di profitto.
-
-L'art. 209 relativo alla scuola di specializzazione in otorinolaringoiatria che muta la denominazione in quella di scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale e' abrogato e sostituito dal seguente:
-
-Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale
-
-Art. 209. - La durata del corso e' di tre anni.
-
-Il numero dei posti e' fissato in cinque per ogni anno di corso.
-
-E' obbligatoria la frequenza giornaliera per un minimo di quattro ore.
-
-Le materie di insegnamento sono:
-
-1° Anno:
-
-Anatomia;
-
-Fisiologia;
-
-Audiologia (1° anno);
-
-Semeiotica otorinolaringoiatrica;
-
-Tecnica di laboratorio;
-
-Patologia e clinica otorinolaringoiatrica e cervicofacciale (1° anno);
-
-Anatomia ed istologia patologica otorinolaringoiatrica.
-
-2° Anno:
-
-Tecniche operatorie in otorinolaringoiatria;
-
-Anestesiologia in otorinolaringoiatria;
-
-Patologia e clinica otorinolaringoiatrica e cervicofacciale (2° anno);
-
-Radiologia in rapporto con l'otorinolaringoiatria;
-
-Pediatria in rapporto con l'otorinolaringoiatria;
-
-Audiologia (2° anno);
-
-Otoneurologia;
-
-Foniatria.
-
-3° Anno:
-
-Patologia e clinica otorinolaringoiatrica e cervicofacciale;
-
-Terapia medica e fisica in otorinolaringoiatria;
-
-Neuropatologia in rapporto con l'otorinolaringoiatria;
-
-Oculistica in rapporto con l'otorinolaringoiatria;
-
-Chirurgia plastica;
-
-Tracheo-broncoscopia;
-
-Medicina legale ed infortunistica in otorinolaringoiatria.
-
-Dopo l'art. 225 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Igiene e medicina preventiva" e in "Reumatologia".
-
-Scuola di specializzazione in igiene e medicina preventiva
-
-Art. 226. - La scuola e' articolata nei seguenti orientamenti:
-
-a) sanita' pubblica;
-
-b) laboratorio;
-
-c) igiene e tecnica (o direzione) ospedaliera;
-
-d) igiene e medicina scolastica.
-
-La durata del corso e' di tre anni di cui i primi due comuni, il terzo differenziato per i vari orientamenti.
-
-La scuola rilascia il diploma di specialista in igiene e medicina preventiva con l'indicazione dell'orientamento prescelto.
-
-Il numero degli iscritti e' stabilito in un massimo di quindici, per il primo anno di corso.
-
-Art. 227. - Le materie di insegnamento per il primo biennio sono:
-
-1° Anno:
-
-Metodologia statistica e biometria;
-
-Educazione sanitaria;
-
-Psicologia;
-
-Microbiologia;
-
-Parassitologia;
-
-Epidemiologia e profilassi generale.
-
-2° Anno:
-
-Patologia e clinica delle malattie infettive;
-
-Epidemiologia e profilassi delle malattie infettive;
-
-Patologia e clinica delle malattie non infettive di importanza sociale;
-
-Epidemiologia e profilassi delle malattie infettive di importanza sociale;
-
-Demografia e statistica sanitaria;
-
-Legislazione e organizzazione sanitaria.
-
-3° Anno:
-
-a) per l'orientamento di sanita' pubblica:
-
-Approvvigionamento idrico: raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici;
-
-Igiene edilizia e urbanistica;
-
-Igiene dell'alimentazione;
-
-Igiene e medicina scolastica;
-
-Igiene ospitaliera;
-
-Servizi di sanita' pubblica.
-
-b) per l'orientamento di laboratorio:
-
-Microscopia applicata all'igiene;
-
-Microbiologia applicata all'igiene;
-
-Chimica clinica;
-
-Accertamento diagnostico delle malattie batteriche e parassitarie;
-
-Accertamento diagnostico delle infezioni virali;
-
-Nozioni di anatomia ed istologia patologica.
-
-c) per l'orientamento di igiene e tecnica ospitaliera:
-
-Storia degli ospedali e principi metodologici dell'assistente ospitaliero;
-
-Igiene e tecnica delle costruzioni ospitaliere, arredamento ed impianti sanitari;
-
-Organizzazione e funzione degli ospedali generali e speciali;
-
-Diritto amministrativo e legislazione ospitaliera;
-
-Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera;
-
-Selezione e istruzione professionale del personale ospitaliero;
-
-Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.
-
-d) per l'orientamento di igiene e medicina scolastica:
-
-Auxologia normale e patologica;
-
-Epidemiologia e profilassi delle malattie dell'eta' scolare;
-
-Servizi di medicina scolastica;
-
-Elementi di psicologia e pedagogia per l'eta' scolare;
-
-Igiene dell'alimentazione;
-
-Assistenza parascolastica;
-
-Edilizia scolastica.
-
-Durante i tre anni di corso gli allievi dovranno inoltre seguire i corsi di almeno tre insegnamenti complementari da scegliersi tra i seguenti ed in rapporto con la attinenza all'orientamento prescelto:
-
-Ispezione delle carni;
-
-Geologia applicata all'igiene;
-
-Igiene mentale;
-
-Malattie professionali e loro prevenzione;
-
-Diritto sanitario;
-
-Igiene navale e dell'emigrazione;
-
-Antropologia culturale e sociologia;
-
-Malattie tropicali;
-
-Istituzioni di matematica;
-
-Genetica;
-
-Gerontologia e geriatria;
-
-Elementi di economia politica.
-
-Al termine di ciascun anno gli allievi che abbiano regolarmente frequentato il corso dovranno superare un esame di profitto.
-
-Scuola di specializzazione in reumatologia
-
-Art. 228. - La scuola ha la durata di tre anni e rilascia il diploma di specialista in reumatologia.
-
-Alla scuola sono ammessi i laureati in medicina e chirurgia.
-
-Il numero dei posti disponibili per ogni anno di corso e' fissato nel numero di otto. Nel caso che le domande di ammissione eccedano il numero dei posti disponibili si effettuera' una selezione per titoli ed esami.
-
-Art. 229. - Le materie di insegnamento sono:
-
-1° Anno:
-
-Anatomia, istologia e morfogenesi dell'apparato muscolo-scheletrico ed articolare;
-
-Fisiopatologia dell'apparato muscolo-scheletrico ed articolare;
-
-Biochimica dei tessuti connettivi;
-
-Microbiologia ed immunologia in relazione alle malattie reumatiche;
-
-Semeiotica fisica, strumentale e di laboratorio in reumatologia (biennale).
-
-2° Anno:
-
-Semeiotica fisica, strumentale e di laboratorio in reumatologia (biennale);
-
-Anatomia ed istologia patologica delle malattie reumatiche;
-
-Farmacologia in relazione alle malattie reumatiche;
-
-Diagnostica radiologica;
-
-Patologia, clinica e terapia delle malattie reumatiche (biennale);
-
-Terapia fisica, termale e riabilitativa in reumatologia (biennale).
-
-3° Anno
-
-Patologia, clinica e terapia delle malattie reumatiche (biennale);
-
-Terapia fisica, termale e riabilitativa in reumatologia (biennale);
-
-Clinica e terapia ortopedica applicata alla reumatologia;
-
-Aspetti sociali ed epidemiologici delle malattie reumatiche.
-
-Al termine di ogni anno di corso gli specializzandi, per ottenere l'ammissione all'anno successivo, devono superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno in corso.
-
-Art. 230. - E' obbligatoria la frequenza alle lezioni e alle esercitazioni. E' altresi' obbligatorio un periodo di internato di almeno sei mesi per ciascun anno di corso.
-
-L'esame di diploma consiste nella discussione di una tesi scritta su un tema precedentemente approvato dal direttore della scuola.
+Il conferimento del diploma implica il superamento di tutti gli esami degli insegnamenti del corso e lo svolgimento di una ricerca originale, giudicata degna di pubblicazione.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 22 settembre 1972
+Dato a Roma, addi' 26 agosto 1959
 
-LEONE
+GRONCHI
 
-SCALFARO
+MEDICI
 
 Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 17 novembre 1972. Atti del Governo, registro n. 253, foglio n. 52-bis. - CARUSO
+alla Corte del conti, addi' 23 ottobre 1959 Atti del Governo, registro n. 121, foglio n. 76. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvate con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte; Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Silla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 57. - All'elenco, delle Scuole annesse alla Facolta' di lettere e filosofia e' aggiunta quella di "perfezionamento in storia dell'arte antica, medioevale e moderna".  
+Dopo l'art. 82 e con il conseguente spostamento della numerazione di quelli successivi, sono inseriti i seguenti nuovi articoli relativi alla:  
   
-L'art. 132 relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che le scuole in "Igiene ed epidemiologia", "Igiene e tecnica ospedaliera", "Medicina ed igiene scolastica" sono soppresse.  
-La "Scuola di specializzazione in otorinolaringoiatria" muta la denominazione in quella di "Scuola di specializzazione in otorinolaringoiatria e patologia cervicofacciale".  
-Allo stesso elenco sono aggiunte le scuole di specializzazione in "Igiene e medicina preventiva" e in "Reumatologia" di nuova istituzione.  
-Gli articoli da 156 a 163 relativi alla scuola di specializzazione in "Chirurgia dell'infanzia" sono abrogati e sostituiti dai seguenti:  
+Scuola di perfezionamento in storia dell'arte antica, medioevale e moderna  
+Art. 83. - La Scuola di perfezionamento in storia dell'arte antica, medioevale e moderna ha lo scopo, nell'ambito delle discipline costitutive della Scuola di:  
+1) guidare e promuovere la continuazione della ricerca scientifica nei giovani laureati;  
+2) promuovere, mediante il coordinamento dei singoli insegnamenti, la loro integrazione con speciali corsi ed esercitazioni e l'assistenza dei docenti, una cultura specifica piu' approfondita nei giovani laureati che a queste aspirano, anche allo scopo di preparare insegnanti di storia dell'arte per le scuole secondarie e personale dirigente nelle Sopraintendenze e musei;  
+3) promuovere gli studi ai quali si intitola la Scuola con l'insegnamento, con pubblicazioni, raccolta di materiali, collaborazione con istituti similari ed ogni altra iniziativa consentita dai mezzi finanziari disponibili (quali borse di studio, viaggi, stampa di lavori degli allievi piu' meritevoli, ecc.).  
+Art. 84. - La durata del corso di studi e' di due anni.  
+Per ognuno dei due anni di perfezionamento lo studente deve ottenere la firma di iscrizione e frequenza di almeno tre corsi e sostenere i relativi esami: biennali per la disciplina prescelta per la tesi, annuali per le altre.  
+Gli insegnamenti costitutivi della Scuola si articolano in tre rami:  
+storia dell'arte medioevale e moderna;  
+archeologia e storia dell'arte greca e romana;  
+egittologia.  
+Sono insegnamenti obbligatori per tutti e tre i rami la storia dell'arte medioevale e moderna e l'archeologia e storia dell'arte greca e romana. Le discipline a completamento degli esami fondamentali in ciascuna branca saranno scelte fra quelle insegnante nella Facolta' di lettere e filosofia dell'Universita' di Milano, a seconda dell'indirizzo dei suoi studi, dai candidato d'accordo con il direttore della Scuola.  
+Art. 85. - La Scuola e' retta da un direttore e da un Consiglio della scuola.  
+Il direttore e' scelto dalla Facolta' fra i titolari delle cattedre di storia dell'arte medioevale e moderna, di archeologia e storia dell'arte greca e romana e di egittologia.  
+Il Consiglio della scuola e' costituito dai professori ufficiali che vi tengono gli insegnamenti costitutivi.  
+Art. 86. - Alla Scuola possono iscriversi i laureati in lettere, in filosofia e in lingue e letterature straniere moderne.  
+I candidati dovranno indicare all'atto della iscrizione in quale delle discipline costitutive della Scuola intendono conseguire il perfezionamento.  
+Art. 87. - Per conseguire il diploma di perfezionamento della Scuola gli iscritti dovranno, oltreche' aver superato gli esami di cui all'art. 84:  
+a) sostenere un esame di cultura generale nell'ambito delle discipline prescelte, dimostrando di conoscere, ai fini di una corrente lettura e traduzione di testi, almeno in due lingue straniere;  
+b) presentare una dissertazione scritta intorno ad un tema prescelto nell'ambito delle discipline della e) sostenere la discussione orale intorno a tale dissertazione.  
+Art. 88. - Le Commissioni dei singoli esami di profitto sono nominate dal preside di Facolta' di intesa con il direttore della Scuola e sono composte di tre membri, dei quali almeno due professori del corso.  
+La Commissione dell'esame di diploma e' nominata, dai rettore, sentiti il preside della Facolta' di lettere e filosofia e il direttore della Scuola, ed e' composta di sette membri fra cui il preside della Facolta' di lettere e filosofia, il direttore della Scuola e almeno tre docenti della Scuola stessa.  
+Dopo il corso di perfezionamento in matematica applicata, annesso alla Facolta' di scienze matematiche, fisiche e naturali, sono aggiunti, con lo spostamento della, numerazione successiva, i seguenti nuovi articoli relativi all'ordinamento delle Scuole di perfezionamento delle Facolta' di scienze matematiche, fisiche e naturali.  
+Art. 141. Alla Facolta' di scienze matematiche, fisiche e naturali e' annessa la Scuola di perfezionamento in fisica.  
+La durata del corso per il conseguimento dei singoli diplomi e' di due anni. Alla Scuola di perfezionamento sono ammessi i laureati in possesso dei titoli indicati per ogni singolo diploma.  
+Art. 142. - Il direttore della Scuola e' nominato dal rettore su proposta del Consiglio della Facolta'. Il Consiglio nomina, altresi', un Comitato direttivo preposto all'organizzazione e alla disciplina degli studi. Esso e' costituito da almeno tre professori di ruolo, competenti nei rami degli studi relativi.  
+I docenti di ruolo di altre Facolta' dell'Universita' di Milano che abbiano incarichi di insegnamento nelle scuole stesse, possono far parte del Comitato.  
+Il Comitato e' presieduto dal direttore della Scuola.  
+Art. 143. - Ogni anno, entro il mese di maggio, il Consiglio della Facolta', su proposta del Comitato della Scuola, stabilisce il numero dei posti disponibili al primo anno di ogni Scuola.  
+E' comunque vietata L'iscrizione contemporanea a due o piu' corsi di perfezionamento.  
+Art. 144. - Gli allievi dovranno sostenere gli esami di profitto e di diploma secondo l'ordinamento della Scuola.  
+L'ammissione all'esame di diploma implica, in ogni caso, un giudizio preventivo di maturita' dei candidati, da parte del Comitato preposto al corso di ogni singolo diploma.  
+Art. 145. - Le Commissioni per gli esami di profitto sono composte di non meno di tre membri, compreso un libero docente, e sono nominate dal direttore della Scuola.  
+Le Commissioni per gli esami di diploma sono costituite da sette membri nominati dal preside della Facolta', udito il direttore della Scuola.  
+I commissari debbono rivestire la qualita' di professori ufficiali, ed e' chiamato a far parte della Commissione anche un libero docente.  
+Art. 146. - Le tasse e soprattasse per gli iscritti alla Scuola di perfezionamento sono quelle stabilite per il conseguimento delle varie lauree della Facolta' di scienze matematiche, fisiche e naturali.  
+L'ammontare dei contributi vari e dei contributi speciali per ogni singola Scuola verra' stabilito ogni anno dal Consiglio di amministrazione, su proposta del Senato accademico, udita la Facolta' e sara' devoluto agli istituti presso i quali funzionano le Scuole di perfezionamento.  
+Art. 147. - Per quanto riguarda, le modalita' di iscrizione si richiamano le norme del regolamento sugli studenti approvato con [regio decreto 4 giugno 1938, n. 1269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-04;1269).  
+Art. 148. - La Scuola di perfezionamento in fisica conferisce il diploma in:  
+a) elettronica;  
+b) fisica atomica e nucleare.  
+A) Diploma in elettronica:  
   
-Scuola di specializzazione in chirurgia dell'infanzia  
-  
-Art. 156. - La scuola di specializzazione in chirurgia dell'infanzia conferisce il diploma di specialista in chirurgia dell'infanzia.  
-Art. 157. - La durata del corso di studi per il conseguimento della specialita' in chirurgia dell'infanzia e' fissata in anni due.  
-Possono ottenere l'iscrizione alla scuola i laureati in medicina e chirurgia che siano in possesso del diploma di specialista in chirurgia o abbiano conseguito la libera docenza in clinica chirurgica o patologia chirurgica, o semeiotica chirurgica, o anatomia chirurgica, o in chirurgia pediatrica.  
-Non e' ammessa l'abbreviazione di corso.  
-Art. 158. - Il numero degli iscritti alla scuola e' di dieci per anno di corso.  
-Qualora il numero degli aspiranti superi quello stabilito per la scuola in chirurgia dell'infanzia, l'ammissione sara' subordinata ad una prova d'esame.  
-Art. 159. - La direzione della scuola e' affidata al titolare dell'insegnamento della chirurgia pediatrica o ad una persona nominata dalla facolta'.  
-Art. 160. - Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali, oltre ad un periodo di internato obbligatorio di almeno sei mesi per ogni anno di corso.  
-Il periodo di internato potra' essere abbreviato per coloro che documentino di svolgere effettivo servizio presso reparti di chirurgia pediatrica universitari o ospedalieri.  
-Art. 161. - Le materie di insegnamento sono le seguenti:  
-  
-1° Anno:  
-Anatomia patologica e teratologia (lezioni);  
-Endocrinologia infantile (conferenze);  
-Clinica pediatrica (lezioni);  
-Clinica chirurgica pediatrica (lezioni);  
-Patologia chirurgica e semeiotica chirurgica (lezioni);  
-Diagnostica radiologica e nucleare delle malattie chirurgiche dell'infanzia (lezioni);  
-Anestesiologia e rianimazione (conferenze).  
-  
-2° Anno:  
-Clinica pediatrica (lezioni);  
-Clinica chirurgica pediatrica (lezioni);  
-Chirurgia d'urgenza nell'infanzia (lezioni);  
-Otorinolaringoiatria nell'infanzia (conferenze);  
-Ortopedia nell'infanzia (conferenze);  
-Urologia nell'infanzia (conferenze);  
-Neurochirurgia infantile (conferenze);  
-Chirurgia del cuore e dei grossi vasi (conferenze).  
-  
-Art. 162. - La frequenza alle lezioni e' obbligatoria.  
-Al termine di ciascun anno accademico, gli specializzandi, che abbiano ottenuto le firme di frequenza, dovranno sostenere gli esami di profitto nelle materie oggetto di insegnamento.  
-Art. 163. - Al termine del corso di specializzazione gli specializzandi dovranno presentare una dissertazione scritta su argomento di chirurgia infantile e sostenere l'esame di diploma.  
-L'art. 178 relativo alla scuola di specializzazione in igiene ed epidemiologia; gli articoli 179-180 relativi alla scuola di specializzazione in igiene e tecnica ospedaliera; l'art. 185 relativo alla scuola di specializzazione in medicina e igiene scolastica sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.  
-L'art. 202 relativo alla "Scuola di specializzazione in neurochirurgia" e' abrogato e sostituito dal seguente:  
-  
-Scuola di specializzazione in neurochirurgia  
-  
-Art. 202. - La durata del corso e' di quattro anni.  
-Il numero degli iscritti e' stabilito in un massimo di sei per il primo anno di corso (totale ventiquattro iscritti).  
-Le materie di insegnamento sono:  
-  
-1° Anno:  
-1) Neuroanatomia;  
-2) Neurofisiologia;  
-3) Semeiotica e clinica neurologica;  
-4) Elementi di psichiatria;  
-5) Clinica neurochirurgica (I).  
-Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2), 3), 4).  
-  
-2° Anno:  
-1) Neuro-oftalmologia;  
-2) Neuro-otoiatria;  
-3) Elettroencefalografia ed elettromiografia;  
-4) Clinica neurochirurgica (II).  
-Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2) e 3).  
-  
-3° Anno:  
-1) Anestesiologia;  
-2) Neuropatologia;  
-3) Neuroradiologia (I);  
-4) Clinica neurochirurgica (III).  
-Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1) e 2).  
-  
-4° Anno:  
-1) Tecniche operatorie;  
-2) Neuroradiologia (II);  
-3) Clinica neurochirurgica (IV);  
-4) Neurotraumatologia;  
-5) Neurochirurgia infantile;  
-6) Chirurgia stereotassica;  
-7) Neurochirurgia spinale.  
-  
-Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2) e 3).  
-Gli insegnamenti saranno integrati da esercitazioni cliniche e di laboratorio.  
-La frequenza alla scuola e' obbligatoria durante l'anno accademico.  
-Gli allievi sono tenuti a frequentare assiduamente le lezioni ed i laboratori della clinica neurochirurgica secondo l'orario stabilito ed a partecipare attivamente alle esercitazioni cliniche e di laboratorio.  
-Il direttore della scuola potra' disporre che gli allievi frequentino per determinati periodi le lezioni e le esercitazioni di laboratorio in altri istituti dell'universita'.  
-Al termine di ciascun anno gli allievi che abbiano regolarmente frequentato il corso dovranno superare un esame di profitto.  
-L'art. 209 relativo alla scuola di specializzazione in otorinolaringoiatria che muta la denominazione in quella di scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale e' abrogato e sostituito dal seguente:  
-  
-Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale  
-  
-Art. 209. - La durata del corso e' di tre anni.  
-Il numero dei posti e' fissato in cinque per ogni anno di corso.  
-E' obbligatoria la frequenza giornaliera per un minimo di quattro ore.  
-Le materie di insegnamento sono:  
-  
-1° Anno:  
-Anatomia;  
-Fisiologia;  
-Audiologia (1° anno);  
-Semeiotica otorinolaringoiatrica;  
-Tecnica di laboratorio;  
-Patologia e clinica otorinolaringoiatrica e cervicofacciale (1° anno);  
-Anatomia ed istologia patologica otorinolaringoiatrica.  
-  
-2° Anno:  
-Tecniche operatorie in otorinolaringoiatria;  
-Anestesiologia in otorinolaringoiatria;  
-Patologia e clinica otorinolaringoiatrica e cervicofacciale (2° anno);  
-Radiologia in rapporto con l'otorinolaringoiatria;  
-Pediatria in rapporto con l'otorinolaringoiatria;  
-Audiologia (2° anno);  
-Otoneurologia;  
-Foniatria.  
-  
-3° Anno:  
-Patologia e clinica otorinolaringoiatrica e cervicofacciale;  
-Terapia medica e fisica in otorinolaringoiatria;  
-Neuropatologia in rapporto con l'otorinolaringoiatria;  
-Oculistica in rapporto con l'otorinolaringoiatria;  
-Chirurgia plastica;  
-Tracheo-broncoscopia;  
-Medicina legale ed infortunistica in otorinolaringoiatria.  
-  
-Dopo l'art. 225 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Igiene e medicina preventiva" e in "Reumatologia".  
-  
-Scuola di specializzazione in igiene e medicina preventiva  
-  
-Art. 226. - La scuola e' articolata nei seguenti orientamenti:  
-a) sanita' pubblica;  
-b) laboratorio;  
-c) igiene e tecnica (o direzione) ospedaliera;  
-d) igiene e medicina scolastica.  
-La durata del corso e' di tre anni di cui i primi due comuni, il terzo differenziato per i vari orientamenti.  
-La scuola rilascia il diploma di specialista in igiene e medicina preventiva con l'indicazione dell'orientamento prescelto.  
-Il numero degli iscritti e' stabilito in un massimo di quindici, per il primo anno di corso.  
-Art. 227. - Le materie di insegnamento per il primo biennio sono:  
-  
-1° Anno:  
-Metodologia statistica e biometria;  
-Educazione sanitaria;  
-Psicologia;  
-Microbiologia;  
-Parassitologia;  
-Epidemiologia e profilassi generale.  
-  
-2° Anno:  
-Patologia e clinica delle malattie infettive;  
-Epidemiologia e profilassi delle malattie infettive;  
-Patologia e clinica delle malattie non infettive di importanza sociale;  
-Epidemiologia e profilassi delle malattie infettive di importanza sociale;  
-Demografia e statistica sanitaria;  
-Legislazione e organizzazione sanitaria.  
-  
-3° Anno:  
-a) per l'orientamento di sanita' pubblica:  
-Approvvigionamento idrico: raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici;  
-Igiene edilizia e urbanistica;  
-Igiene dell'alimentazione;  
-Igiene e medicina scolastica;  
-Igiene ospitaliera;  
-Servizi di sanita' pubblica.  
-b) per l'orientamento di laboratorio:  
-Microscopia applicata all'igiene;  
-Microbiologia applicata all'igiene;  
-Chimica clinica;  
-Accertamento diagnostico delle malattie batteriche e parassitarie;  
-Accertamento diagnostico delle infezioni virali;  
-Nozioni di anatomia ed istologia patologica.  
-c) per l'orientamento di igiene e tecnica ospitaliera:  
-Storia degli ospedali e principi metodologici dell'assistente ospitaliero;  
-Igiene e tecnica delle costruzioni ospitaliere, arredamento ed impianti sanitari;  
-Organizzazione e funzione degli ospedali generali e speciali;  
-Diritto amministrativo e legislazione ospitaliera;  
-Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera;  
-Selezione e istruzione professionale del personale ospitaliero;  
-Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.  
-d) per l'orientamento di igiene e medicina scolastica:  
-Auxologia normale e patologica;  
-Epidemiologia e profilassi delle malattie dell'eta' scolare;  
-Servizi di medicina scolastica;  
-Elementi di psicologia e pedagogia per l'eta' scolare;  
-Igiene dell'alimentazione;  
-Assistenza parascolastica;  
-Edilizia scolastica.  
-  
-Durante i tre anni di corso gli allievi dovranno inoltre seguire i corsi di almeno tre insegnamenti complementari da scegliersi tra i seguenti ed in rapporto con la attinenza all'orientamento prescelto:  
-  
-Ispezione delle carni;  
-Geologia applicata all'igiene;  
-Igiene mentale;  
-Malattie professionali e loro prevenzione;  
-Diritto sanitario;  
-Igiene navale e dell'emigrazione;  
-Antropologia culturale e sociologia;  
-Malattie tropicali;  
-Istituzioni di matematica;  
-Genetica;  
-Gerontologia e geriatria;  
-Elementi di economia politica.  
-  
-Al termine di ciascun anno gli allievi che abbiano regolarmente frequentato il corso dovranno superare un esame di profitto.  
-  
-Scuola di specializzazione in reumatologia  
-  
-Art. 228. - La scuola ha la durata di tre anni e rilascia il diploma di specialista in reumatologia.  
-Alla scuola sono ammessi i laureati in medicina e chirurgia.  
-Il numero dei posti disponibili per ogni anno di corso e' fissato nel numero di otto. Nel caso che le domande di ammissione eccedano il numero dei posti disponibili si effettuera' una selezione per titoli ed esami.  
-Art. 229. - Le materie di insegnamento sono:  
-  
-1° Anno:  
-Anatomia, istologia e morfogenesi dell'apparato muscolo-scheletrico ed articolare;  
-Fisiopatologia dell'apparato muscolo-scheletrico ed articolare;  
-Biochimica dei tessuti connettivi;  
-Microbiologia ed immunologia in relazione alle malattie reumatiche;  
-Semeiotica fisica, strumentale e di laboratorio in reumatologia (biennale).  
-  
-2° Anno:  
-Semeiotica fisica, strumentale e di laboratorio in reumatologia (biennale);  
-Anatomia ed istologia patologica delle malattie reumatiche;  
-Farmacologia in relazione alle malattie reumatiche;  
-Diagnostica radiologica;  
-Patologia, clinica e terapia delle malattie reumatiche (biennale);  
-Terapia fisica, termale e riabilitativa in reumatologia (biennale).  
-  
-3° Anno  
-Patologia, clinica e terapia delle malattie reumatiche (biennale);  
-Terapia fisica, termale e riabilitativa in reumatologia (biennale);  
-Clinica e terapia ortopedica applicata alla reumatologia;  
-Aspetti sociali ed epidemiologici delle malattie reumatiche.  
-  
-Al termine di ogni anno di corso gli specializzandi, per ottenere l'ammissione all'anno successivo, devono superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno in corso.  
-Art. 230. - E' obbligatoria la frequenza alle lezioni e alle esercitazioni. E' altresi' obbligatorio un periodo di internato di almeno sei mesi per ciascun anno di corso.  
-L'esame di diploma consiste nella discussione di una tesi scritta su un tema precedentemente approvato dal direttore della scuola.  
+Al corso sono ammessi i laureati in fisica, in ingegneria, in chimica, in chimica industriale.  
+Gli insegnamenti sono:  
+1) elementi e teoria dei circuiti elettrici;  
+2) fisica degli elettroni;  
+3) tubi e circuiti elettronici;  
+4) apparecchiature elettroniche;  
+5) elettronica industriale;  
+6) esercitazioni di laboratorio.  
+Ciascuno insegnamento comporta un esame annuale.  
+Per l'ammissione al secondo anno e' obbligatorio il superamento di almeno due esami degli insegnamenti predetti.  
+L'esame di diploma consiste nella discussione orale di una dissertazione scritta su un tema approvato in precedenza dal Consiglio direttivo, corredato da rilievi teorici e sperimentali personali.  
+B) Diploma di fisica atomica e nucleare  
+Al corso sono ammessi i laureati in fisica, in matematica e fisica, in scienze matematiche e in ingegneria.  
+Gli insegnamenti sono:  
+1) fisica atomica e molecolare;  
+2) fisica nucleare;  
+3) fisica teorica;  
+4) fisica delle particelle elementari;  
+5) tecniche e misure di fisica nucleare.  
+L'ammissione al secondo anno di corso implica il superamento di due degli esami degli insegnamenti sopra elencati.  
+Il conferimento del diploma implica il superamento di tutti gli esami degli insegnamenti del corso e lo svolgimento di una ricerca originale, giudicata degna di pubblicazione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 settembre 1972
+### Dato a Roma, addi' 26 agosto 1959
 
-LEONE SCALFARO
+GRONCHI MEDICI
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 17 novembre 1972.
+Registrato alla Corte del conti, addi' 23 ottobre 1959
 
-Atti del Governo, registro n. 253, foglio n. 52-bis. - CARUSO
+Atti del Governo, registro n. 121, foglio n. 76. - VILLA

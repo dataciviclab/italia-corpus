@@ -1,57 +1,264 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 1045
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1973 n. 1196
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 1045
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1973 n. 1196
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione:
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+L'art. 59, relativo al corso di laurea in medicina e chirurgia, e' modificato nel senso che dopo il terzo comma, successivo all'elenco degli insegnamenti complementari, e' inserito il nuovo comma riguardante la propedeuticita' degli esami:
+
+"L'esame di fisiologia umana deve essere superato prima di sostenere quelli di patologia generale, di farmacologia e di tutti gli insegnamenti clinici. L'esame di patologia generale deve essere superato prima di sostenere gli esami di tutti gli insegnamenti clinici".
+
+Art. 64 - nell'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti gli insegnamenti di "Istituzioni di patologia generale" e "Fisiologia cellulare".
+
+Art. 70 - nell'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologie farmaceutiche sono aggiunti gli insegnamenti di "Istituzioni di patologia generale" e "Fisiologia cellulare".
+
+L'art. 78, concernente l'elenco degli istituti annessi alla facolta' di agraria, e' abrogato e sostituito dai seguenti:
+
+Istituto di agronomia e coltivazioni erbacee, cui fanno capo gli insegnamenti di: agronomia generale, coltivazioni erbacee, orticoltura e floricoltura, ecologia, fisica del terreno agrario, agricoltura tropicale e subtropicale, colture protette, tecnica della fertilizzazione, tecnica agronomica della irrigazione, orticoltura, floricoltura, ecologia agraria, foraggicoltura.
+
+Istituto di coltivazione arboree, cui fanno capo gli insegnamenti di: coltivazioni arboree, viticoltura, olivicoltura, tecnica vivaistica, frutticoltura industriale, agrumicoltura, pomologia, tecnica dei frangiventi.
+
+Istituto di chimica agraria, cui fanno capo gli insegnamenti di: chimica generale ed inorganica con applicazioni di analitica, chimica organica, chimica agraria (biennale), enzimologia, chimica biologica, chimica degli antiparassitari, pedologia, biochimica vegetale.
+
+Istituto di patologia vegetale, cui fanno capo gli insegnamenti di: patologia vegetale, patologia vegetale forestale, fisiopatologia, patologia delle piante ortive, patologia delle sementi, patologia dei prodotti e delle derrate agrarie, fitoiatria, diserbanti, batteriologia fitopatologica, virologia vegetale, nematologia, micologia, botanica generale, botanica sistematica, fisiologia vegetale.
+
+Istituto di microbiologia agraria e tecnica, cui fanno capo gli insegnamenti di: microbiologia agraria e tecnica, microbiologia industriale, micotossicologia, residui dei biocidi e biodegradazione.
+
+Istituto di zootecnia, cui fanno capo gli insegnamenti di: zootecnica generale, zootecnica speciale, avicoltura e coniglicoltura, igiene zootecnica, immunogenetica, fisiologia e tecnica della riproduzione animale, tecnica mangimistica, avicoltura, coniglicoltura, idrobiologia e pescicoltura, ovinicoltura, tecnica dell'alimentazione del bestiame, etnografia zootecnica e studio della popolazione, fisioclimatologia animale.
+
+Istituto di anatomia e fisiologia degli animali domestici, cui fanno capo gli insegnamenti di: anatomia e fisiologia degli animali domestici, zoognostica, fisiologia zootecnica, approvvigionamenti annonari.
+
+Istituto di meccanica agraria, cui fanno capo gli insegnamenti di: matematica, fisica, meccanica agraria, tecnica della meccanizzazione agricola, proprieta' fisico-meccaniche dei prodotti agricoli, impianti frigoriferi, macchine ed impianti di industrie agrarie.
+
+Istituto di costruzioni rurali, cui fanno capo gli insegnamenti di: costruzioni agricole d'esercizio e di abitazione, topografia e costruzioni rurali, edilizia zootecnica, costruzioni ed impianti per le coltivazioni protette, idraulica agraria, tecnica della bonifica, impianti idrici rurali.
+
+Istituto di industrie agrarie, cui fanno capo gli insegnamenti di: industrie agrarie, tecnica delle applicazioni frigorifere, tecnica commerciale dei prodotti agricoli, tecnologia degli oli grassi e derivati, legislazione dei prodotti agrari e delle sostanze di uso agrario, industria della distillazione.
+
+Istituto di economia e politica agraria, cui fanno capo gli insegnamenti di: principi di economia politica e statistica, economia e politica agraria, cooperazione agricola, sociologia rurale, storia dell'agricoltura, diritto agrario, tecnica del mercato dei prodotti agricoli, programmazione economica in agricoltura, zooeconomia.
+
+Istituto di estimo rurale e contabilita', cui fanno capo gli insegnamenti di: estimo rurale e contabilita', analisi contabile e gestione aziendale, istituzioni di statistica economico-agraria, economia degli investimenti pubblici e privati in agricoltura.
+
+Istituto di entomologia agraria, cui fanno capo gli insegnamenti di: entomologia agraria, zoologia generale, acarologia, parassitologia animale dei vegetali, bachicoltura e apicoltura, principi e metodi di applicazione della lotta chimica contro gli insetti, entomologia ortofrutticola, tecnica di lotta biologica.
+
+Azienda agraria sperimentale "Enrico Pantanelli".
+
+Azienda agraria sperimentale "Vincenzo Ricchioni".
+
+Istituto di miglioramento genetico delle piante agrarie, cui fanno capo gli insegnamenti di: miglioramento genetico delle piante agrarie, genetica, genetica vegetale, genetica vegetale quantitativa, metodologia statistica, produzione e controllo delle sementi.
+
+Istituto di selvicoltura, cui fanno capo gli insegnamenti di: botanica forestale, selvicoltura I (ecologia e selvicoltura generale), selvicoltura II (selvicoltura speciale).
+
+Azienda sperimentale "Pasquale Martucci".
+
+Dopo l'art. 164 sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in "Patologia delle colture mediterranee", con il conseguente spostamento della numerazione degli articoli successivi:
+
+Scuola di specializzazione in patologia delle colture mediterranee
+
+Art. 165. - Scopo della scuola e' di fornire una speciale competenza nel campo della patologia delle colture erbacee ed arboree, tipiche della regione mediterranea. La scuola, della durata di due anni, conferira' il diploma di "Specialista in patologia delle colture mediterranee" valevole a tutti gli effetti di legge.
+
+Art. 166. - Direttore della scuola e' il direttore dell'istituto di patologia vegetale, cui la scuola stessa afferisce. In caso di sua indisponibilita' il direttore della scuola sara' nominato anno per anno dalla facolta' e sara' rieleggibile.
+
+Art. 167. - Il consiglio della scuola e' presieduto dal direttore ed e' costituito dai docenti che vi impartiscono insegnamenti.
+
+Art. 168. - Per il conseguimento del titolo di specialista e' obbligatoria la frequenza alle lezioni, alle esercitazioni, alle conferenze, ai colloqui, ecc. Nel secondo anno e' obbligatorio l'internato presso l'istituto di patologia vegetale.
+
+Art. 169. - Alla scuola possono iscriversi coloro - italiani e stranieri - che siano in possesso della laurea in scienze agrarie, in scienze forestali, in scienze biologiche e in scienze naturali, conseguita in una universita' italiana. Alla scuola sono ugualmente ammessi coloro che siano in possesso di equipollenti titoli accademici stranieri. Possono essere ammessi al secondo anno allievi che, pur non avendo frequentato il primo anno, mostrino di possedere una particolare preparazione mediante una prova da sostenere di fronte ad una commissione nominata dalla facolta' su proposta del direttore. La valutazione degli aspiranti, ai fini dell'ammissione alla scuola, sara' fatta da una commissione presieduta dal direttore e nominata dalla facolta'. Nel caso in cui gli aspiranti superino il numero massimo fissato dalla facolta', la stessa commissione provvedera' a stabilire una graduatoria di merito.
+
+Art. 170. - Gli insegnamenti possono non avere carattere cattedratico ed essere svolti in quella diversa forma che e' consentita dall'indole di ciascuna disciplina.
+
+Art. 171. - Gli insegnamenti impartiti nella scuola sono i seguenti:
+
+Ecologia della regione mediterranea (semestrale);
+
+Legislazione e organizzazione dei servizi fitopatologici (semestrale);
+
+Patologia generale e processi patogenetici;
+
+Parassitologia animale delle colture;
+
+Agenti eziologici di malattie (corsi monografici);
+
+Epifitologia, previsione e stima delle malattie e metodologia statistica;
+
+Principi di lotta, mezzi meccanici e metodi di applicazione dei biocidi;
+
+Variabilita' dei patogeni e piante resistenti (semestrale);
+
+Produzione di sementi e piante sane (semestrale);
+
+Malattie delle principali colture mediterranee (corsi monografici).
+
+Art. 172. - I docenti dei singoli insegnamenti o di parte di essi e i docenti dei corsi monografici sono nominati per incarico, anno per anno, dal consiglio di facolta' su proposta del direttore della scuola.
+
+Art. 173. - Alla fine del primo anno si sostengono i seguenti esami di profitto:
+
+Ecologia della regione mediterranea;
+
+Legislazione e organizzazione dei servizi fitopatologici;
+
+Patologia generale e processi patogenetici;
+
+Parassitologia animale delle colture;
+
+Agenti eziologici di malattie;
+
+Epifitologia, previsione e stima delle malattie e metodologia statistica.
+
+Alla fine del secondo anno si sostengono i seguenti esami di profitto:
+
+Principi di lotta, mezzi meccanici e metodi di applicazione dei biocidi;
+
+Variabilita' dei patogeni e piante resistenti;
+
+Produzione di sementi e piante sane;
+
+Malattie delle principali colture mediterranee.
+
+L'esame di diploma consiste nella discussione di una dissertazione scritta, svolta dal candidato dinnanzi ad una commissione nominata dalla facolta', su proposta del direttore. L'argomento della dissertazione sara' scelto dal candidato con l'approvazione del direttore della scuola.
+
+Art. 174. - Le tasse e soprattasse per gli iscritti alla scuola sono le stesse stabilite dalla legge per gli iscritti alla facolta' di agraria. Il contributo annuo che gli iscritti debbono corrispondere per le esercitazioni pratiche e per le prestazioni di qualunque natura di cui usufruiscono durante l'anno di studio, e' stabilito, anno per anno, dal consiglio di facolta' e dal senato accademico.
+
+Art. 175. - Al funzionamento della scuola viene provveduto, oltre che con gli introiti di cui all'articolo precedente, con eventuali contributi da parte dei Ministeri, di enti o privati, che intendono cooperare all'attuazione dei fini che la scuola si propone di conseguire.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e di decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 24 dicembre 1973
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: ZAGARI
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 19 novembre 1974 Atti di Governo, registro n. 6, foglio n. 132. - SCIARRETTA
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione:   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 83, relativo al corso di laurea in chimica, e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente:  
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+L'art. 59, relativo al corso di laurea in medicina e chirurgia, e' modificato nel senso che dopo il terzo comma, successivo all'elenco degli insegnamenti complementari, e' inserito il nuovo comma riguardante la propedeuticita' degli esami:   
+"L'esame di fisiologia umana deve essere superato prima di sostenere quelli di patologia generale, di farmacologia e di tutti gli insegnamenti clinici. L'esame di patologia generale deve essere superato prima di sostenere gli esami di tutti gli insegnamenti clinici".   
+Art. 64 - nell'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti gli insegnamenti di "Istituzioni di patologia generale" e "Fisiologia cellulare".   
+Art. 70 - nell'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologie farmaceutiche sono aggiunti gli insegnamenti di "Istituzioni di patologia generale" e "Fisiologia cellulare".   
+L'art. 78, concernente l'elenco degli istituti annessi alla facolta' di agraria, e' abrogato e sostituito dai seguenti:   
   
-L'esame di laurea consiste nella discussione orale di una dissertazione scritta (tesi) da presentarsi in segreteria in triplice copia, almeno quindici giorni prima della data fissata per la seduta di laurea.  
-L'art. 91, relativo alle norme comuni per l'esame di laurea in chimica, scienze naturali e scienze geologiche, e' soppresso.  
-L'art. 102, relativo al seminario di studi chimici, e' modificato nel senso che il punto contrassegnato con il punto 2) e' abrogato e sostituito dal seguente:  
-2) promuovere e facilitare la collaborazione fra i vari istituti chimici, sia in campo scientifico che didattico, mettendo a disposizione degli stessi servizi, apparecchiature ed ogni altro mezzo idoneo allo scopo.  
-L'art. 103, relativo al suddetto seminario di studi chimici e' abrogato e sostituito dal seguente:  
-Organo direttivo del seminario di studi chimici e' un comitato nominato dalla facolta', costituito da:  
-a) tutti i direttori degli istituti chimici della facolta' di scienze;  
-b) un rappresentante (professore ufficiale) per ciascuno degli istituti chimici eletto da tutto il personale (docente e ricercatore) che fa capo all'istituto;  
-c) i direttori degli organi di ricerca extra-universitari operanti nell'ambito degli istituti chimici;  
-d) un rappresentante del personale non docente eletto fra tutto il personale (non docente) degli istituti che afferiscono al seminario.  
-Il comitato direttivo puo' cooptare professori ufficiali di materie chimiche anche di altre facolta'.  
-Questi vengono in tal modo a far parte del comitato direttivo a parita' di diritto.  
-I rappresentanti eletti e i membri cooptanti durano in carica due anni e possono essere riconfermati.  
-Il comitato nomina nel suo seno un direttore del seminario che durera' in carica due anni accademici.  
+Istituto di agronomia e coltivazioni erbacee, cui fanno capo gli insegnamenti di: agronomia generale, coltivazioni erbacee, orticoltura e floricoltura, ecologia, fisica del terreno agrario, agricoltura tropicale e subtropicale, colture protette, tecnica della fertilizzazione, tecnica agronomica della irrigazione, orticoltura, floricoltura, ecologia agraria, foraggicoltura.   
+Istituto di coltivazione arboree, cui fanno capo gli insegnamenti di: coltivazioni arboree, viticoltura, olivicoltura, tecnica vivaistica, frutticoltura industriale, agrumicoltura, pomologia, tecnica dei frangiventi.   
+Istituto di chimica agraria, cui fanno capo gli insegnamenti di: chimica generale ed inorganica con applicazioni di analitica, chimica organica, chimica agraria (biennale), enzimologia, chimica biologica, chimica degli antiparassitari, pedologia, biochimica vegetale.   
+Istituto di patologia vegetale, cui fanno capo gli insegnamenti di: patologia vegetale, patologia vegetale forestale, fisiopatologia, patologia delle piante ortive, patologia delle sementi, patologia dei prodotti e delle derrate agrarie, fitoiatria, diserbanti, batteriologia fitopatologica, virologia vegetale, nematologia, micologia, botanica generale, botanica sistematica, fisiologia vegetale.   
+Istituto di microbiologia agraria e tecnica, cui fanno capo gli insegnamenti di: microbiologia agraria e tecnica, microbiologia industriale, micotossicologia, residui dei biocidi e biodegradazione.   
+Istituto di zootecnia, cui fanno capo gli insegnamenti di: zootecnica generale, zootecnica speciale, avicoltura e coniglicoltura, igiene zootecnica, immunogenetica, fisiologia e tecnica della riproduzione animale, tecnica mangimistica, avicoltura, coniglicoltura, idrobiologia e pescicoltura, ovinicoltura, tecnica dell'alimentazione del bestiame, etnografia zootecnica e studio della popolazione, fisioclimatologia animale.   
+Istituto di anatomia e fisiologia degli animali domestici, cui fanno capo gli insegnamenti di: anatomia e fisiologia degli animali domestici, zoognostica, fisiologia zootecnica, approvvigionamenti annonari.   
+Istituto di meccanica agraria, cui fanno capo gli insegnamenti di: matematica, fisica, meccanica agraria, tecnica della meccanizzazione agricola, proprieta' fisico-meccaniche dei prodotti agricoli, impianti frigoriferi, macchine ed impianti di industrie agrarie.   
+Istituto di costruzioni rurali, cui fanno capo gli insegnamenti di: costruzioni agricole d'esercizio e di abitazione, topografia e costruzioni rurali, edilizia zootecnica, costruzioni ed impianti per le coltivazioni protette, idraulica agraria, tecnica della bonifica, impianti idrici rurali.   
+Istituto di industrie agrarie, cui fanno capo gli insegnamenti di: industrie agrarie, tecnica delle applicazioni frigorifere, tecnica commerciale dei prodotti agricoli, tecnologia degli oli grassi e derivati, legislazione dei prodotti agrari e delle sostanze di uso agrario, industria della distillazione.   
+Istituto di economia e politica agraria, cui fanno capo gli insegnamenti di: principi di economia politica e statistica, economia e politica agraria, cooperazione agricola, sociologia rurale, storia dell'agricoltura, diritto agrario, tecnica del mercato dei prodotti agricoli, programmazione economica in agricoltura, zooeconomia.   
+Istituto di estimo rurale e contabilita', cui fanno capo gli insegnamenti di: estimo rurale e contabilita', analisi contabile e gestione aziendale, istituzioni di statistica economico-agraria, economia degli investimenti pubblici e privati in agricoltura.   
+Istituto di entomologia agraria, cui fanno capo gli insegnamenti di: entomologia agraria, zoologia generale, acarologia, parassitologia animale dei vegetali, bachicoltura e apicoltura, principi e metodi di applicazione della lotta chimica contro gli insetti, entomologia ortofrutticola, tecnica di lotta biologica.   
+Azienda agraria sperimentale "Enrico Pantanelli".   
+Azienda agraria sperimentale "Vincenzo Ricchioni".   
+Istituto di miglioramento genetico delle piante agrarie, cui fanno capo gli insegnamenti di: miglioramento genetico delle piante agrarie, genetica, genetica vegetale, genetica vegetale quantitativa, metodologia statistica, produzione e controllo delle sementi.   
+Istituto di selvicoltura, cui fanno capo gli insegnamenti di: botanica forestale, selvicoltura I (ecologia e selvicoltura generale), selvicoltura II (selvicoltura speciale).   
+Azienda sperimentale "Pasquale Martucci".   
+  
+Dopo l'art. 164 sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in "Patologia delle colture mediterranee", con il conseguente spostamento della numerazione degli articoli successivi:   
+  
+Scuola di specializzazione in patologia delle colture mediterranee   
+Art. 165. - Scopo della scuola e' di fornire una speciale competenza nel campo della patologia delle colture erbacee ed arboree, tipiche della regione mediterranea. La scuola, della durata di due anni, conferira' il diploma di "Specialista in patologia delle colture mediterranee" valevole a tutti gli effetti di legge.   
+Art. 166. - Direttore della scuola e' il direttore dell'istituto di patologia vegetale, cui la scuola stessa afferisce. In caso di sua indisponibilita' il direttore della scuola sara' nominato anno per anno dalla facolta' e sara' rieleggibile.   
+Art. 167. - Il consiglio della scuola e' presieduto dal direttore ed e' costituito dai docenti che vi impartiscono insegnamenti.   
+Art. 168. - Per il conseguimento del titolo di specialista e' obbligatoria la frequenza alle lezioni, alle esercitazioni, alle conferenze, ai colloqui, ecc. Nel secondo anno e' obbligatorio l'internato presso l'istituto di patologia vegetale.   
+Art. 169. - Alla scuola possono iscriversi coloro - italiani e stranieri - che siano in possesso della laurea in scienze agrarie, in scienze forestali, in scienze biologiche e in scienze naturali, conseguita in una universita' italiana. Alla scuola sono ugualmente ammessi coloro che siano in possesso di equipollenti titoli accademici stranieri. Possono essere ammessi al secondo anno allievi che, pur non avendo frequentato il primo anno, mostrino di possedere una particolare preparazione mediante una prova da sostenere di fronte ad una commissione nominata dalla facolta' su proposta del direttore. La valutazione degli aspiranti, ai fini dell'ammissione alla scuola, sara' fatta da una commissione presieduta dal direttore e nominata dalla facolta'. Nel caso in cui gli aspiranti superino il numero massimo fissato dalla facolta', la stessa commissione provvedera' a stabilire una graduatoria di merito.   
+Art. 170. - Gli insegnamenti possono non avere carattere cattedratico ed essere svolti in quella diversa forma che e' consentita dall'indole di ciascuna disciplina.   
+Art. 171. - Gli insegnamenti impartiti nella scuola sono i seguenti:   
+  
+Ecologia della regione mediterranea (semestrale);   
+Legislazione e organizzazione dei servizi fitopatologici (semestrale);   
+Patologia generale e processi patogenetici;   
+Parassitologia animale delle colture;   
+Agenti eziologici di malattie (corsi monografici);   
+Epifitologia, previsione e stima delle malattie e metodologia statistica;   
+Principi di lotta, mezzi meccanici e metodi di applicazione dei biocidi;   
+Variabilita' dei patogeni e piante resistenti (semestrale);   
+Produzione di sementi e piante sane (semestrale);   
+Malattie delle principali colture mediterranee (corsi monografici).   
+  
+Art. 172. - I docenti dei singoli insegnamenti o di parte di essi e i docenti dei corsi monografici sono nominati per incarico, anno per anno, dal consiglio di facolta' su proposta del direttore della scuola.   
+Art. 173. - Alla fine del primo anno si sostengono i seguenti esami di profitto:   
+  
+Ecologia della regione mediterranea;   
+Legislazione e organizzazione dei servizi fitopatologici;   
+Patologia generale e processi patogenetici;   
+Parassitologia animale delle colture;   
+Agenti eziologici di malattie;   
+Epifitologia, previsione e stima delle malattie e metodologia statistica.   
+  
+Alla fine del secondo anno si sostengono i seguenti esami di profitto:   
+  
+Principi di lotta, mezzi meccanici e metodi di applicazione dei biocidi;   
+Variabilita' dei patogeni e piante resistenti;   
+Produzione di sementi e piante sane;   
+Malattie delle principali colture mediterranee.   
+  
+L'esame di diploma consiste nella discussione di una dissertazione scritta, svolta dal candidato dinnanzi ad una commissione nominata dalla facolta', su proposta del direttore. L'argomento della dissertazione sara' scelto dal candidato con l'approvazione del direttore della scuola.   
+Art. 174. - Le tasse e soprattasse per gli iscritti alla scuola sono le stesse stabilite dalla legge per gli iscritti alla facolta' di agraria. Il contributo annuo che gli iscritti debbono corrispondere per le esercitazioni pratiche e per le prestazioni di qualunque natura di cui usufruiscono durante l'anno di studio, e' stabilito, anno per anno, dal consiglio di facolta' e dal senato accademico.   
+Art. 175. - Al funzionamento della scuola viene provveduto, oltre che con gli introiti di cui all'articolo precedente, con eventuali contributi da parte dei Ministeri, di enti o privati, che intendono cooperare all'attuazione dei fini che la scuola si propone di conseguire.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e di decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 settembre 1978
+### Dato a Roma, addi' 24 dicembre 1973
 
-PERTINI PEDINI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 23 aprile 1979
+Registrato alla Corte dei conti, addi' 19 novembre 1974
 
-Registro n. 27 Istruzione, foglio n. 27
+Atti di Governo, registro n. 6, foglio n. 132. - SCIARRETTA

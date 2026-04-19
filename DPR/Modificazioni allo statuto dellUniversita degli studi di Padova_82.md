@@ -1,82 +1,47 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1115
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1971 n. 644
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1115
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1971 n. 644
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 14 ottobre 1926, n. 2133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2133) e modificato con [regio decreto 13 ottobre 1927, n. 2226](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2226) e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Dopo l'art. 430 sono aggiunti i seguenti nuovi articoli:  
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e modificato con [regio decreto 26 ottobre 1940, n. 2058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2058), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Titolo XXIV  
-CENTRO PER LA STORIA DELL'UNIVERSITA' DI PADOVA  
+Decreta:  
   
-Art. 431. - Il centro per la storia dell'Universita' di Padova, con sede presso l'archivio antico dell'Universita' stessa, ha il fine di promuovere con rigore scientifico la conoscenza della storia dell'Universita' di Padova dalle origini ai nostri giorni e dei suoi rapporti con la cultura italiana ed europea.  
-Art. 432. - Per raggiungere questo fine il centro cura:  
-a) la conservazione, l'ordinamento, l'incremento e la consultazione degli archivi dell'Universita' nell'ambito delle vigenti disposizioni, nonche' la riproduzione in microfilms o con altri sistemi fotomeccanici, delle varie fonti manoscritte disperse in Italia e all'estero;  
-b) la conservazione, la riproduzione fotografica e la schedatura di epigrafi e qualsiasi cimelio, esistenti in sede e fuori sede;  
-c) la conservazione, l'incremento e la schedatura di una raccolta bibliografica specializzata e di una raccolta iconografica;  
-d) la conservazione, l'incremento e la schedatura del medagliere;  
-e) la promozione tra gli studenti universitari ed i giovani laureati di ricerche originali sulla storia dell'Universita', procurando e destinando i mezzi occorrenti allo scopo (quali i premi per le migliori tesi di laurea, borse di studio, i contributi di ricerca);  
-f) la pubblicazione di monografie e di quanto altro possa contribuire alla conoscenza della storia dell'Universita'.  
-Art. 433. - Al raggiungimento del suo fine istituzionale, mediante le attivita' di cui al precedente articolo, il centro provvede con lo stanziamento annualmente assegnatogli dal consiglio di amministrazione dell'Universita', oltre che con eventuali sovvenzioni di enti e di singoli, da iscrivere nel bilancio dell'Universita'.  
-Art. 434. - Sono organi del centro;  
-a) l'assemblea generale, presieduta dal rettore o da un suo delegato, inizialmente composta dai membri gia' facenti parte del comitato per la storia dell'Universita' di Padova, e successivamente integrata da docenti universitari e studiosi eletti dall'assemblea stessa fra coloro che abbiano contribuito o contribuiscano al progresso della conoscenza della storia dell'Universita' di Padova;  
-b) il direttore del centro, nominato dal rettore su designazione, a maggioranza assoluta, dall'assemblea generale, scelto tra i docenti dell'assemblea stessa;  
-c) il consiglio direttivo, presieduto dal direttore del centro, e composto oltre che dal direttore, da quattro consiglieri eletti a maggioranza assoluta dall'assemblea generale;  
-Il direttore e i consiglieri durano in carica tre anni e sono rieleggibili.  
-Sono competenze dell'assemblea:  
-a) l'approvazione della relazione scientifico-organizzativa per l'anno trascorso e dei programmi annuali o pluriennali di attivita' del centro, nonche' del rendiconto delle spese e del bilancio preventivo, presentati dal consiglio direttivo;  
-b) l'elezione dei nuovi membri dell'assemblea generale e dei membri elettivi del consiglio direttivo;  
-c) la proposta al consiglio direttivo di iniziative, attivita', collaborazioni, che piu' efficacemente contribuiscano al raggiungimento del fine proprio del centro.  
-Sono competenze del consiglio direttivo:  
-a) la predisposizione dei conti consuntivi e dei bilanci preventivi;  
-b) la redazione della relazione scientifico-organizzativa dell'anno trascorso e la formulazione dei programmi annuali o pluriennali di attivita' del centro.  
-Art. 435. - I programmi annuali e pluriennali di attivita' del centro sono approvati dall'assemblea generale su proposta del consiglio direttivo.  
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 54: all'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti:  
+  
+Politica economica e finanziaria internazionale;  
+Tecnica della revisione aziendale;  
+Calcolatori elettronici e sistemi meccanografici;  
+Storia delle esplorazioni geografiche.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 8 giugno 1971
 
-PERTINI BODRATO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 17 marzo 1982
+Registrato alla Corte dei conti, addi' 21 agosto 1971
 
-Registro n. 42 Istruzione, foglio n. 187
+Atti del Governo, registro n. 243, foglio n. 160. - PASQUALUCCI

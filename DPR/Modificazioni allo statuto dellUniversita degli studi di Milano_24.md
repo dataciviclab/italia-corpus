@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1970 n. 985
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1962 n. 215
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1970 n. 985
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1962 n. 215
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -12,12 +12,13 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1936, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-11-04;2280), modificato con [regio decreto 25 ottobre 1940, n. 2096](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-25;2096) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduto il [decreto del Presidente della Repubblica 26 luglio 1960, n. 1692](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-07-26;1692) Veduta la [legge 21 luglio 1961, n. 685](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-21;685);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -26,41 +27,127 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 31. - All'elenco degli insegnamenti complementari del corso di laurea in chimica (indirizzo organico-biologico) sono aggiunti i seguenti:  
-Strutturistica chimica;  
-Chimica dei composti elemento-organici.  
-Nello stesso corso di laurea per l'indirizzo inorganico-chimico-fisico e' aggiunto quello di "Proprieta' elettriche e magnetiche della materia".  
-Art. 32, relativo alle norme del biennio di studi propedeutici del corso di laurea in chimica e' modificato nel senso che il secondo e terzo comma sono abrogati e sostituiti dal seguente nuovo comma:  
-"L'iscrizione al corso di esercitazioni di analisi chimica qualitativa implica il superamento dell'esame di chimica generale ed inorganica entro la prima sessione di esami disponibile".  
-Art. 34, relativo alle modalita' degli esami di laurea e' modificato nel senso che dopo il primo comma e' aggiunto il seguente: "Consiste anche nella discussione di una tesina scritta riguardante argomenti di interesse chimico".  
-Art. 36, relativo alle norme per il biennio di studi propedeutici del corso di laurea in chimica industriale e' modificato nel senso che il quarto comma e' abrogato e sostituito dal seguente:  
-"Le frequenze agli insegnamenti di: chimica organica, mineralogia, chimica analitica ed esercitazioni di disegno con elementi di macchine sono facoltative al biennio o al terzo anno di corso. Per ottenere la iscrizione al triennio di applicazione lo studente deve aver seguito i corsi e superato gli esami in tutti gli altri insegnamenti fissati per il biennio di studi".  
-Art. 37, relativo alle norme per il triennio di applicazione del corso di laurea in chimica industriale e' modificato nel senso che e' soppressa la seguente frase: "Le stesse norme valgono per la chimica industriale e le esercitazioni rispettive".  
-Art. 44. - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:  
-24) Biologia molecolare;  
-25) Fitogeografia.  
-Art. 47. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:  
-14) Biofisica;  
-15) Biologia molecolare;  
-16) Citologia;  
-17) Farmacologia applicata;  
-18) Genetica dei microorganismi.  
-Art. 50. - All'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti:  
-30) Geofisica mineraria;  
-31) Geofisica applicata;  
-32) Calcoli numerici e grafici;  
-33) Paleontologia stratigrafica.  
+Gli articoli 30 e 31 relativi al corso di laurea in Fisica sono abrogati e sostituiti dai seguenti:  
+  
+Art. 30. - La durata del corso degli studi per la laurea in Fisica e' di 4 anni.  
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica. Possono essere ammessi inoltre i diplomati dagli Istituti tecnici industriali, agrari, nautici e per geometri ai sensi delle vigenti disposizioni di legge.  
+Il corso di studi si distingue in tre indirizzi: generale, didattico, applicativo.  
+  
+1° Biennio.  
+  
+Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi:  
+1) Fisica generale I (con esercitazioni);  
+2) Fisica generale II (con esercitazioni);  
+3) Analisi matematica I (con esercitazioni);  
+4) Analisi matematica II (con esercitazioni);  
+5) Geometria I (con esercitazioni);  
+6) Meccanica razionale (con esercitazioni);  
+7) Chimica con esercitazioni di laboratorio (per fisici);  
+8) Esperimentazione fisica (biennale).  
+E' richiesta inoltre una prova di conoscenza di due lingue straniere da scegliersi tra le seguenti: inglese, francese, russo, tedesco.  
+  
+2° Biennio.  
+  
+Gli insegnamenti obbligatori per il secondo biennio sono i seguenti:  
+  
+a) corsi comuni ai tre indirizzi:  
+  
+1) Struttura della materia;  
+2) Istituzioni di fisica teorica (con esercitazioni);  
+3) Metodi matematici della fisica (con esercitazioni);  
+  
+b) corsi per l'indirizzo generale:  
+  
+4) Fisica superiore (con esercitazioni);  
+5) Fisica teorica (con esercitazioni);  
+6) Corso di matematiche superiori;  
+7) Laboratorio di fisica I;  
+8) Laboratorio di fisica II;  
+9) Un corso complementare a scelta;  
+  
+c) corsi per l'indirizzo didattico:  
+  
+4) Complementi di fisica generale I;  
+5) Complementi di fisica generale II;  
+6) Storia della fisica;  
+7) Preparazione di esperienze didattiche I:  
+8) Preparazione di esperienze didattiche II;  
+9) Un corso complementare a scelta;  
+  
+d) corsi per l'indirizzo applicativo:  
+  
+4), 5), 6), 7) Quattro insegnamenti da scegliersi secondo modalita' che verranno indicate nel piano degli studi in corrispondenza dei vari orientamenti che puo' assumere l'indirizzo applicativo;  
+8) Laboratorio di fisica I;  
+9) Laboratorio di fisica II;  
+  
+Elenco dei corsi complementari:  
+  
+1) Acceleratori di particelle;  
+2) Acustica;  
+3) Astrofisica;  
+4) Chimica teorica  
+5) Chimica fisica;  
+6) Cibernetica e teoria dell'informazione;  
+7) Conduzione elettrica nei gas;  
+8) Elettrologia;  
+9) Elettronica;  
+10) Elettronica applicata;  
+11) Fisica dei reattori nucleari;  
+12) Fisica dei neutroni;  
+13) Fisica dello stato solido;  
+14) Fisica delle particelle elementari  
+15) Fisica dei plasmi;  
+16) Fisica matematica;  
+17) Fisica nucleare;  
+18) Fisica superiore;  
+19) Fisica teorica;  
+20) Istituzioni di analisi superiore;  
+21) Istituzioni di fisica nucleare;  
+22) Istituzioni di fisica matematica;  
+23) Macchine calcolatrici;  
+24) Meccanica quantistica;  
+25) Meccanica statistica;  
+26) Onde elettromagnetiche;  
+27) Ottica;  
+28) Ottica elettronica;  
+29) Radioastronomia;  
+30) Radioattivita';  
+31) Relativita';  
+32) Semiconduttori;  
+33) Spettroscopia,;  
+34) Storia della fisica;  
+35) Termodinamica;  
+36) Fisica cosmica;  
+37) Fisica atomica;  
+38) Fisica molecolare;  
+39) Astronomia;  
+40) Calcolo delle probabilita';  
+41) Calcoli numerici e grafici;  
+42) Statistica matematica;  
+43) Analisi superiore;  
+44) Analisi funzionale;  
+45) Matematiche superiori;  
+46) Teoria delle funzioni;  
+47) Meccanica superiore;  
+48) Geometria differenziale.  
+Art. 31. - Per ciascuno dei corsi elencati vi e' un esame finale.  
+Gli insegnamenti di Fisica generale I e II, Analisi matematica I e II, constano ciascuno di due parti annuali distinte, la prima propedeutica alla seconda e comportano ciascuno due distinti esami, il primo propedeutico al secondo.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti prescritti dall'ordinamento per l'indirizzo prescelto.  
+Potranno iscriversi ai corsi del secondo biennio soltanto quegli studenti che abbiano superato gli esami di Fisica generale I e II, Analisi matematica I e II.  
+Art. 32. - L'esame di laurea per gli indirizzi generale ed applicativo consiste nella discussione di una dissertazione scritta riguardante ricerche di regola originali su argomenti riferentisi ad una disciplina del corso di laurea.  
+L'esame di laurea per l'indirizzo didattico consiste nella discussione di una dissertazione scritta riguardante ricerche non necessariamente originali su argomenti riferentisi ad una disciplina del corso di laurea.  
+Detta discussione sara' preceduta da un esame di cultura generale sulle discipline del corso di laurea.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 ottobre 1970
+### Dato a Roma, addi' 9 marzo 1962
 
-SARAGAT MISASI
+GRONCHI GUI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 7 dicembre 1970
+Registrato alla Corte del conti, addi' 4 maggio 1962
 
-Atti del Governo, registro n. 238, foglio n. 215. - CARUSO
+Atti del Governo, registro n. 146, foglio n. 5. - VILLA

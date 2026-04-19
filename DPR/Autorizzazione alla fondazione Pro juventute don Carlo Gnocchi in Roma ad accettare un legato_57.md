@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1981 n. 722
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 223
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1981 n. 722
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 223
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-722. Decreto del Presidente della Repubblica 9 ottobre 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un immobile sito in Torino, corso Siracusa n. 71, distinto nel nuovo catasto edilizio urbano alla partita 127999, foglio 84, mappale 820 sub 19, del valore attribuito di L. 11.500.000, elevato dall'ufficio tecnico erariale di Torino a L. 24.000.000, disposto dalla sig.na Teresa Anna Beltramo a favore della fondazione "Pro juventute don Carlo Gnocchi - Istituto mutilatini e poliomielitici", viale Settimio Severo, 65, Torino, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi" come ha fatto presente lo stesso ente, con scheda testamentaria olografa del 10 marzo 1977, pubblicata a rogito dott. Giuseppe Savio, notaio in Torino, in data 5 maggio 1978, n. 15424 di repertorio e n. 7440 di raccolta, registrato a Torino il 22 maggio 1978 al n. 25276, vol. 41.  
+223. Decreto del Presidente della Repubblica 26 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato di L. 2.716.050 disposto dalla sig.na Pozzi Angela a favore dei "Mutilatini di don Gnocchi", che si identificano con la fondazione "Pro juventute don Carlo Gnocchi" come si evince dal verbale in data 24 novembre 1979 del consiglio di amministrazione della fondazione medesima, con testamento olografo 21 febbraio 1977, pubblicato a rogito dott. Francesco Boggia, notaio in Vercelli, con atto 22 febbraio 1979, n. 1089 di repertorio e n. 74 di raccolta, registrato a Vercelli il 5 marzo 1979 al n. 559.   
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 1 dicembre 1981  
-Registro n. 10 Presidenza, foglio n. 243
+  
+Visto, il Guardasigilli: DARIDA   
+Registrato alla Corte dei Conti, addi' 23 aprile 1982   
+Registro, n. 3 Presidenza, foglio n. 324

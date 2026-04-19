@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 ottobre 1985 n. 894
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1986 n. 950
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 ottobre 1985 n. 894
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1986 n. 950
+=============================================================
 
 Modificazione allo statuto dell'Istituto universitario orientale di 
 Napoli.
@@ -25,7 +25,7 @@ Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http:
 
 Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Istituto universitario anzidetto ai sensi della citata legge n. 615;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
 Veduto il parere del Consiglio universitario nazionale;
 
@@ -41,21 +41,22 @@ Articolo unico
 
   
   
-Nell'art. 30, relativo al corso di laurea in lingue e letterature straniere moderne, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:   
-lingua e letteratura ebraica moderna.   
+Nell'art. 68, relativo al corso di laurea in scienze politiche, per l'indirizzo politico-internazionale all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:   
+diritto privato dell'economia.   
+Nel medesimo articolo, all'elenco degli insegnamenti complementari per l'indirizzo storico-politico, e' incluso l'insegnamento "storia del diritto pubblico italiano".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 ottobre 1985
+### Dato a Roma, addi' 8 luglio 1986
 
 COSSIGA
 
 FALCUCCI, Ministro della pubblica istruzione
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: ROGNONI
 
-Registrato alla Corte dei conti, addi' 29 gennaio 1986
+Registrato alla Corte dei conti, addi' 30 dicembre 1986
 
-Registro n. 4 Istruzione, foglio n. 113
+Registro n. 90 Istruzione, foglio n. 221

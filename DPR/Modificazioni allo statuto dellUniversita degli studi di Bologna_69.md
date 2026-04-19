@@ -1,140 +1,324 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969 n. 443
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1969 n. 842
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969 n. 443
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1969 n. 842
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduta la [legge 25 luglio 1966, n. 602](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-25;602);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 92. - E' integrato nel senso che l'elenco delle lauree rilasciate dalla facolta' di scienze matematiche, fisiche e naturali comprende anche la laurea in astronomia.
+
+Dopo l'art. 95 e con il conseguente spostamento della numerazione degli articoli successivi sono aggiunti i seguenti nuovi articoli, relativi all'istituzione del corso di laurea in astronomia.
+
+Laurea in astronomia
+
+Art. 96. - La durata del corso degli studi per la laurea in astronomia e' di quattro anni.
+
+Art. 97. - Titolo di ammissione: diploma di maturita' classica, scientifica, di abilitazione per i provenienti dagli istituti tecnici, industriali, nautici, agrari e per geometri.
+
+Art. 98. - Sono insegnamenti fondamentali, obbligatori per il primo biennio:
+
+1) Astronomia;
+
+2) Fisica generale I;
+
+3) Fisica generale II;
+
+4) Analisi matematica I;
+
+5) Analisi matematica II;
+
+6) Geometria I;
+
+7) Chimica;
+
+8) Meccanica razionale;
+
+9) Esercitazioni di fisica.
+
+Alla fine del primo biennio e' richiesta la prova di conoscenza di due lingue straniere di importanza scientifica.
+
+Gli esami di fisica generale I, analisi matematica I, geometria, chimica, sono propedeutici a quelli di astronomia, fisica generale II, analisi matematica II, meccanica razionale.
+
+I corsi di fisica generale I e II, analisi matematica I e II, non devono essere considerati come corsi biennali: essi constano di due corsi distinti, l'uno propedeutico all'altro e con esami distinti.
+
+I corsi numero 1, 2, 3, 4, 5, 6, 7, 8 sono accompagnati da esercitazioni che ne fanno parte integrante. Per ciascuno dei corsi elencati vi e' un esame finale.
+
+Art. 99. - Gli insegnamenti obbligatori per il secondo biennio sono i seguenti:
+
+1) Complementi di astronomia;
+
+2) Astrofisica;
+
+3) Struttura della materia;
+
+4), 5) Esercitazioni di astronomia (biennale).
+
+A giudizio della facolta', le esercitazioni di astronomia potranno essere sostituite con il laboratorio di fisica biennale del corso della laurea in fisica.
+
+Art. 100. - Nel secondo biennio, oltre agli insegnamenti di cui al precedente paragrafo, dovranno essere impartite altre quattro discipline, di cui una dovra' essere ad indirizzo fisico e una ad indirizzo matematico:
+
+per l'indirizzo fisico: istituzioni di fisica teorica;
+
+per l'indirizzo matematico: meccanica celeste.
+
+I rimanenti due saranno insegnamenti complementari che lo studente potra' scegliere dall'elenco che segue nell'articolo successivo.
+
+Art. 101. - Elenco a carattere orientativo di insegnamenti entro cui potranno essere scelti i quattro insegnamenti di cui all'articolo precedente:
+
+Astrofisica teorica;
+
+Astrometria;
+
+Astronautica;
+
+Calcolo delle probabilita';
+
+Calcoli numerici e grafici;
+
+Chimica fisica;
+
+Chimica organica;
+
+Conduzione elettrica nei gas;
+
+Cosmologia;
+
+Elettrodinamica;
+
+Elettronica;
+
+Elettronica applicata;
+
+Fisica del sistema solare;
+
+Fisica del plasma;
+
+Fisica solare;
+
+Fisica dello spazio;
+
+Fisica matematica;
+
+Fisica nucleare;
+
+Fisica superiore;
+
+Fisica teorica;
+
+Geofisica;
+
+Geodesia;
+
+Istituzioni di analisi superiore;
+
+Istituzioni di fisica teorica;
+
+Istituzioni di fisica nucleare;
+
+Istituzioni di fisica matematica;
+
+Matematiche complementari;
+
+Matematiche superiori;
+
+Meccanica analitica;
+
+Meccanica celeste;
+
+Meccanica quantistica;
+
+Meccanica statistica;
+
+Meccanica superiore;
+
+Metodi matematici per la fisica;
+
+Metodi matematici per l'astronomia;
+
+Ottica;
+
+Ottica elettronica;
+
+Radioastronomia;
+
+Relativita';
+
+Spettroscopia;
+
+Statistica stellare;
+
+Storia dell'astronomia;
+
+Storia delle matematiche;
+
+Teoria delle funzioni;
+
+Teoria delle orbite;
+
+Teoria e applicazione delle macchine calcolatrici.
+
+Art. 102. - Potranno iscriversi ai corsi del secondo biennio soltanto quegli studenti che abbiano superato gli esami di analisi matematica I e II, fisica I, meccanica razionale, astronomia generale, geometria I.
+
+Art. 103. - L'esame di laurea dovra' comprendere un lavoro scritto e la discussione di tesine orali.
+
+Superato l'esame di laurea lo studente consegue il titolo di dottore in astronomia.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 23 ottobre 1969
+
+SARAGAT
+
+FERRARI AGGRADI
+
+Visto, il Guardasigilli: GAVA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 27 novembre 1969 Atti del Governo, registro n. 230, foglio n. 72. - CARUSO
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Veduta la [legge 25 luglio 1966, n. 602](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-25;602);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 51. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti quelli di:  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 92. - E' integrato nel senso che l'elenco delle lauree rilasciate dalla facolta' di scienze matematiche, fisiche e naturali comprende anche la laurea in astronomia.   
+Dopo l'art. 95 e con il conseguente spostamento della numerazione degli articoli successivi sono aggiunti i seguenti nuovi articoli, relativi all'istituzione del corso di laurea in astronomia.   
   
-Storia sociale;  
-Storia della tecnica;  
-Econometria.  
-Art. 52, relativo alle propedeuticita' del suddetto corso di laurea e' modificato nel senso che il secondo comma e' soppresso e il quinto comma e' abrogato e sostituito dal seguente: "L'esame di tecnica industriale e commerciale senza aver superato prima l'esame di ragioneria generale e applicata 1° corso".  
-Art. 61, relativo agli istituti annessi alla facolta' di economia e commercio e' modificato nel senso che la denominazione dell'istituto di matematica finanziaria muta denominazione in quella di "Istituto di matematica generale e finanziaria".  
-Nello stesso articolo dopo l'elenco degli istituti e' aggiunto il seguente comma: "Con il regolamento approvato dal consiglio di facolta', possono essere articolati, all'interno di ogni istituto, reparti e seminari per singole discipline, o per gruppi di discipline o per settori e tipi di ricerca e di insegnamento".  
-Art. 62. - E' abrogato e sostituito dal seguente: "Il direttore degli istituti di cui all'articolo precedente e' eletto, per un triennio, fra i professori di ruolo, o, in assenza di professori di ruolo, tra i professori ufficiali di ogni istituto, dal personale insegnante dell'istituto stesso. Il direttore e' rieleggibile.  
-Con regolamento approvato dal consiglio di facolta' possono essere istituiti consigli direttivi di istituto e puo' essere fissata la elezione di un vicedirettore e di un segretario di istituto".  
-Dopo l'art. 62 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente nuovo articolo.  
-Art. 63. - Alla facolta' di economia e commercio e' annessa una biblioteca centrale il cui funzionamento e' regolato dalle norme vigenti per gli istituti universitari.  
-La biblioteca centrale e' diretta da un professore ordinario della facolta' eletto per un triennio dal consiglio di facolta'. Il direttore, che e' rieleggibile, riferisce annualmente al consiglio di facolta' sulla gestione della biblioteca stessa.  
-Art. 64. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
+Laurea in astronomia   
   
-Archeologia e storia dell'arte del vicino oriente antico;  
-Dialettologia italiana;  
-Egittologia;  
-Linguistica generale;  
-Storia orientale antica;  
-Archivistica;  
-Storia delle universita'.  
-Art. 65. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:  
+Art. 96. - La durata del corso degli studi per la laurea in astronomia e' di quattro anni.   
+Art. 97. - Titolo di ammissione: diploma di maturita' classica, scientifica, di abilitazione per i provenienti dagli istituti tecnici, industriali, nautici, agrari e per geometri.   
+Art. 98. - Sono insegnamenti fondamentali, obbligatori per il primo biennio:   
+1) Astronomia;   
+2) Fisica generale I;   
+3) Fisica generale II;   
+4) Analisi matematica I;   
+5) Analisi matematica II;   
+6) Geometria I;   
+7) Chimica;   
+8) Meccanica razionale;   
+9) Esercitazioni di fisica.   
+Alla fine del primo biennio e' richiesta la prova di conoscenza di due lingue straniere di importanza scientifica.   
+Gli esami di fisica generale I, analisi matematica I, geometria, chimica, sono propedeutici a quelli di astronomia, fisica generale II, analisi matematica II, meccanica razionale.   
+I corsi di fisica generale I e II, analisi matematica I e II, non devono essere considerati come corsi biennali: essi constano di due corsi distinti, l'uno propedeutico all'altro e con esami distinti.   
+I corsi numero 1, 2, 3, 4, 5, 6, 7, 8 sono accompagnati da esercitazioni che ne fanno parte integrante. Per ciascuno dei corsi elencati vi e' un esame finale.   
+Art. 99. - Gli insegnamenti obbligatori per il secondo biennio sono i seguenti:   
+1) Complementi di astronomia;   
+2) Astrofisica;   
+3) Struttura della materia;   
+4), 5) Esercitazioni di astronomia (biennale).   
+A giudizio della facolta', le esercitazioni di astronomia potranno essere sostituite con il laboratorio di fisica biennale del corso della laurea in fisica.   
+Art. 100. - Nel secondo biennio, oltre agli insegnamenti di cui al precedente paragrafo, dovranno essere impartite altre quattro discipline, di cui una dovra' essere ad indirizzo fisico e una ad indirizzo matematico:   
+per l'indirizzo fisico: istituzioni di fisica teorica;   
+per l'indirizzo matematico: meccanica celeste.   
+I rimanenti due saranno insegnamenti complementari che lo studente potra' scegliere dall'elenco che segue nell'articolo successivo.   
+Art. 101. - Elenco a carattere orientativo di insegnamenti entro cui potranno essere scelti i quattro insegnamenti di cui all'articolo precedente:   
   
-Linguistica generale;  
-Logica;  
-Storia della scienza;  
-Storia della critica.  
-Art. 70. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo) sono aggiunti i seguenti:  
-  
-Dialettologia italiana;  
-Linguistica generale.  
-Art. 78. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto il seguente:  
-  
-Letteratura moderna e contemporanea.  
-Art. 79. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia e' aggiunto il seguente:  
-  
-Letteratura moderna e contemporanea.  
-Art. 80. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto il seguente:  
-  
-Letteratura moderna e contemporanea.  
-Art. 96. - All'elenco degli insegnamenti complementari del corso di laurea in chimica (indirizzo organico-biologico) sono aggiunti i seguenti:  
-  
-Spettrometria di massa;  
-Cromatografia;  
-Magnetochimica.  
-Nello stesso articolo, all'elenco degli insegnamenti complementari del corso di laurea in chimica (indirizzo inorganico-chimico-fisico) e' aggiunto il seguente: "Fotografia scientifica con esercitazioni".  
-Art. 97. - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:  
-  
-Genetica dei microorganismi;  
-Genetica delle popolazioni;  
-Genetica umana;  
-Biologia molecolare;  
-Sistematica di vertebrati;  
-Fitosociologia;  
-Biochimica comparata;  
-Parassitologia;  
-Entomologia;  
-Fisiologia dello sviluppo;  
-Fisiologia comparata;  
-Microscopia elettronica;  
-Embriologia;  
-Micologia;  
-Micropaleontologia;  
-Paleoecologia.  
-Nello stesso articolo sono soppressi i seguenti insegnamenti complementari:  
-  
-Biologia delle razze umane;  
-Antropometria;  
-Zooculture;  
-Entomologia agraria.  
-Dopo l'elenco degli insegnamenti complementari del predetto corso di laurea, dopo il primo comma e' aggiunto il seguente: "Il corso biennale di zoologia importera' due esami distinti rispettivamente alla fine del 1° e del 2° anno di corso".  
-Art. 98. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:  
-  
-Genetica dei microorganismi;  
-Genetica delle popolazioni;  
-Genetica umana;  
-Biologia molecolare;  
-Sistematica di vertebrati;  
-Fitosociologia;  
-Biochimica comparata;  
-Parassitologia;  
-Entomologia;  
-Fisiologia comparata;  
-Microscopia elettronica;  
-Embriologia.  
-Nello stesso articolo sono soppressi i seguenti insegnamenti complementari:  
-  
-Biologia delle razze umane;  
-Antropometria;  
-Zooculture (bachi, api);  
-Entomologia agraria.  
-Dopo l'elenco degli insegnamenti complementari del predetto corso di laurea e' aggiunto, dopo il primo comma, il seguente: "Il corso biennale di zoologia importera' due esami distinti rispettivamente alla fine del 1° e del 2° anno di corso".  
-Art. 99. - All'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti:  
-  
-Paleoecologia;  
-Geologia marina;  
-Rilevamento geologico;  
-Petrologia sperimentale.  
+Astrofisica teorica;   
+Astrometria;   
+Astronautica;   
+Calcolo delle probabilita';   
+Calcoli numerici e grafici;   
+Chimica fisica;   
+Chimica organica;   
+Conduzione elettrica nei gas;   
+Cosmologia;   
+Elettrodinamica;   
+Elettronica;   
+Elettronica applicata;   
+Fisica del sistema solare;   
+Fisica del plasma;   
+Fisica solare;   
+Fisica dello spazio;   
+Fisica matematica;   
+Fisica nucleare;   
+Fisica superiore;   
+Fisica teorica;   
+Geofisica;   
+Geodesia;   
+Istituzioni di analisi superiore;   
+Istituzioni di fisica teorica;   
+Istituzioni di fisica nucleare;   
+Istituzioni di fisica matematica;   
+Matematiche complementari;   
+Matematiche superiori;   
+Meccanica analitica;   
+Meccanica celeste;   
+Meccanica quantistica;   
+Meccanica statistica;   
+Meccanica superiore;   
+Metodi matematici per la fisica;   
+Metodi matematici per l'astronomia;   
+Ottica;   
+Ottica elettronica;   
+Radioastronomia;   
+Relativita';   
+Spettroscopia;   
+Statistica stellare;   
+Storia dell'astronomia;   
+Storia delle matematiche;   
+Teoria delle funzioni;   
+Teoria delle orbite;   
+Teoria e applicazione delle macchine calcolatrici.   
+Art. 102. - Potranno iscriversi ai corsi del secondo biennio soltanto quegli studenti che abbiano superato gli esami di analisi matematica I e II, fisica I, meccanica razionale, astronomia generale, geometria I.   
+Art. 103. - L'esame di laurea dovra' comprendere un lavoro scritto e la discussione di tesine orali.   
+Superato l'esame di laurea lo studente consegue il titolo di dottore in astronomia.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 maggio 1969
+### Dato a Roma, addi' 23 ottobre 1969
 
 SARAGAT FERRARI AGGRADI
 
 Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 18 luglio 1969
+Registrato alla Corte dei conti, addi' 27 novembre 1969
 
-Atti del Governo, registro n. 228, foglio n. 30. - CARUSO
+Atti del Governo, registro n. 230, foglio n. 72. - CARUSO

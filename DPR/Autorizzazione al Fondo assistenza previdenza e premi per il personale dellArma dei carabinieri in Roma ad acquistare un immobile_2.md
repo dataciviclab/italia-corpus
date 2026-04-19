@@ -1,19 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1974 n. 239
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1984 n. 926
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1974 n. 239
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1984 n. 926
+==============================================================
 
-Autorizzazione al "Fondo assistenza, previdenza e premi per il personale dell'Arma dei carabinieri", in Roma, ad acquistare un immobile.
-----------------------------------------------------------------------------------------------------------------------------------------
+Autorizzazione al Fondo assistenza, previdenza e premi per il personale dell'Arma dei carabinieri, in Roma, ad acquistare un immobile.
+--------------------------------------------------------------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-239. Decreto del Presidente della Repubblica 2 marzo 1974, col quale, sulla proposta del Ministro per la difesa, la fondazione "Fondo assistenza, previdenza e premi per il personale dell'Arma dei carabinieri", in Roma, viene autorizzata ad acquistare dalla sig.ra Pitscheider Teresa in Demetz, al prezzo di L. 7.560.000, l'appezzamento di terreno di mq 2160 tavolarmente indicato con la particella fondiaria 621/1, attualmente in partita tavolare 215/ II del comune catastale di Selva Gardena (Bolzano).  
+926. Decreto del Presidente della Repubblica 30 ottobre 1984, col quale, sulla proposta del Ministro della difesa, il Fondo assistenza, previdenza e premi per il personale dell'Arma dei carabinieri, in Roma, viene autorizzato ad acquistare, al prezzo di L. 256.000.000, una porzione di immobile sito in Bressanone (Bolzano), via dei Giardini n. 1 e 1/A, censita all'ufficio tavolare di Bressanone alle partite tavolari 1264/II, porzione materiale 1, particella edificiale 313, e 840/II, porzione materiale 2, particella edificiale 314/2, del comune catastale di Bressanone, di proprieta' della societa' "Bar Goldiner e Co." come da atto preliminare di compravendita 8 novembre 1983, n. 54468/25290 di repertorio, a rogito dott. Alfredo De Martino, notaio in Roma.   
   
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 18 giugno 1974  
-Atti di Governo, registro n. 4, foglio n. 20. - SCIARRETTA
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 27 dicembre 1984   
+Registro n. 42 Difesa, foglio n. 174

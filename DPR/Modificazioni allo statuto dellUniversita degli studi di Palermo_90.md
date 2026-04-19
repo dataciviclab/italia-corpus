@@ -1,121 +1,123 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1957 n. 965
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 878
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1957 n. 965
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 878
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240) e successivi;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Il testo dell'art. 147, relativo all'elenco delle scuole di specializzazione in medicina e chirurgia, e' modificato nel senso che la denominazione della scuola di clinica pediatrica muta in quella di pediatria.  
+
+Art. 2
+------
+
   
-Decreta:   
+L'art. 171, relativo alla scuola di specializzazione in clinica pediatrica, che muta la denominazione in pediatria, e' sostituito dai seguenti con lo spostamento della numerazione degli articoli successivi.  
   
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-L'art. 37 e' sostituito dal seguente:   
-"La Facolta' di scienze matematiche, fisiche e naturali conferisce le seguenti lauree:   
-1) Laurea in chimica;   
-2) Laurea in fisica;   
-3) Laurea in scienze matematiche;   
-4) Laurea in matematica e fisica;   
-5) Laurea in scienze naturali;   
-6) Laurea in scienze biologiche;   
-7) Laurea in scienze geologiche.   
-E' ammesso alla Facolta' di scienze matematiche, fisiche e naturali il biennio propedeutico agli studi per la laurea in ingegneria.   
-Il professore titolare di chimica farmaceutica e' aggregato alla Facolta' di scienze matematiche, fisiche e naturali".   
-Dopo l'art. 42 vengono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in scienze biologiche e del corso di laurea in scienze geologiche, con il conseguente spostamento della numerazione degli articoli successivi.   
-Art. 43. - La durata del corso degli studi per la laurea in scienze biologiche e' di quattro anni.   
-E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.   
-Sono insegnamenti fondamentali:   
-1) Istituzioni di matematiche;   
-2) Fisica;   
-3) Chimica generale ed inorganica;   
-4) Chimica organica;   
-5) Botanica (biennale);   
-6) Zoologia (biennale);   
-7) Anatomia comparata;   
-8) Anatomia umana;   
-9) Istologia ed embriologia;   
-10) Fisiologia generale (biennale);   
-11) Chimica biologica;   
-12) Igiene.   
-Sono insegnamenti complementari:   
-1) Chimica fisica;   
-2) Biologia generale;   
-3) Antropologia;   
-4) Biologia delle razze umane;   
-5) Etnologia;   
-6) Genetica;   
-7) Zoocultura (bachi, api, avicultura);   
-8) Idrobiologia e piscicoltura;   
-9) Patologia generale;   
-10) Microbiologia;   
-11) Parassitologia;   
-12) Entomologia agraria;   
-13) Fisiologia vegetale;   
-14) Patologia vegetale;   
-15) Geologia;   
-16) Paleontologia;   
-17) Statistica;   
-18) Scienza dell'alimentazione;   
-19) Cristallo-chimica;   
-20) Embriologia e morfologia sperimentale.   
-Gli insegnamenti biennali di botanica e di zoologia comprendono tanto la parte generale quanto la parte sistematica. Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in quattro almeno da lui scelti fra i complementari.   
-Art. 44. - La durata del corso degli studi per la laurea in scienze geologiche e' di quattro anni.   
-E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.   
-Sono insegnamenti fondamentali:   
-1) Istituzioni di matematiche;   
-2) Fisica sperimentale (biennale);   
-3) Chimica generale ed inorganica con elementi di organica;   
-4) Mineralogia;   
-5) Geologia;   
-6) Geologia applicata;   
-7) Paleontologia;   
-8) Geografia;   
-9) Geografia fisica;   
-10) Topografia e cartografia;   
-11) Fisica terrestre;   
-12) Petrografia.   
-Sono insegnamenti complementari:   
-1) Chimica organica;   
-2) Chimica fisica;   
-3) Geochimica;   
-4) Astronomia;   
-5) Geodesia;   
-6) Zoologia;   
-7) Botanica;   
-8) Antropologia;   
-9) Giacimenti minerari;   
-10) Vulcanologia;   
-11) Analisi matematica (algebrica ed infinitesimale) biennale;   
-12) Meccanica razionale con elementi di statica grafica e disegno;   
-13) Geofisica mineraria;   
-14) Mineralogia applicata.   
-Gli insegnamenti di botanica e di zoologia debbono avere indirizzo biografico. Per l'insegnamento di analisi matematica vale la norma stabilita per la laurea in scienze matematiche. Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra gli insegnamenti complementari.   
+Scuola di specializzazione in pediatria  
+  
+Art. 171. - La scuola di specializzazione in pediatria ha sede presso la clinica pediatrica e conferisce il diploma di specialista in pediatria.  
+Art. 172. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
+Art. 173. - Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente.  
+Art. 174. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.  
+Art. 175. - Il numero massimo degli allievi e' di venti per anno di corso e complessivamente di ottanta per l'intero corso di studi.  
+Art. 176. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 177. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+genetica;  
+auxologia;  
+alimentazione;  
+epidemiologia;  
+malattie infettive;  
+clinica pediatrica I.  
+2° Anno:  
+radiologia;  
+legislazione del minore;  
+organizzazione sanitaria;  
+psicologia pediatrica;  
+oculistica ed ortottica;  
+otorino e foniatria;  
+odontoiatria;  
+neonatologia I;  
+chirurgia pediatrica I;  
+pediatria preventiva e sociale I;  
+clinica pediatrica II.  
+3° Anno:  
+neurologia;  
+psichiatria infantile;  
+nefrologia e urologia;  
+ginecologia pediatrica;  
+neonatologia II;  
+chirurgia pediatrica II;  
+pediatria preventiva e sociale II;  
+cardiologia I;  
+endocrinologia I;  
+ematologia I;  
+immunologia I;  
+gastroenterologia I;  
+clinica pediatrica III.  
+4° Anno:  
+oncologia;  
+pneumologia;  
+ortopedia e traumatologia;  
+dermatologia;  
+cardiologia II;  
+endocrinologia II;  
+ematologia II;  
+immunologia II;  
+gastroenterologia II;  
+clinica pediatrica IV.  
+Art. 178. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere le prove di esame.  
+Art. 179. - Alla fine di ciascun anno di corso gli iscritti per essere ammessi agli anni successivi devono superare le prove di esame sulle materie impartite durante l'anno.  
+Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.  
+Al termine del corso di studi, per il conseguimento del diploma di specialista in pediatria, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 settembre 1957
+### Dato a Roma, addi' 21 ottobre 1981
 
-GRONCHI MORO
+PERTINI BODRATO
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 24 ottobre 1957
+Registrato alla Corte dei conti, addi' 20 gennaio 1982
 
-Atti del Governo, registro n. 108, foglio n. 99. - RELLEVA
+Registro n. 6 Istruzione, foglio n. 102

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 480
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1985 n. 657
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 480
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1985 n. 657
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
@@ -39,18 +39,20 @@ Articolo unico
 --------------
 
   
-Art. 117 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche e' inserito il seguente insegnamento: immunologia generale.  
+Art. 59 - nell'elenco degli insegnamenti complementari del corso di laurea in lettere e' inserito l'insegnamento di "grammatica latina".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 giugno 1983
+### Dato a Roma, addi' 12 giugno 1985
 
-PERTINI FALCUCCI
+PERTINI
 
-Visto, il Guardasigilli: DARIDA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 17 agosto 1983
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registro n. 59 Istruzione, foglio n. 142
+Registrato alla Corte dei conti, addi' 9 novembre 1985
+
+Registro n. 74 Istruzione, foglio n. 141

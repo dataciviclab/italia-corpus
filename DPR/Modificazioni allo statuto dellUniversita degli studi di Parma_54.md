@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 giugno 1969 n. 484
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1070
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 giugno 1969 n. 484
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1070
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 14 ottobre 1926, numero 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -30,195 +30,77 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 138, relativo all'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia, e' modificato nel senso che le denominazioni delle discipline in a Radiologia medica e medicina nucleare", e "Anestesiologia" sono cambiate in quelle di "Radiologia" e di "Anestesiologia e rianimazione".
+Art. 138. - All'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola in "Nefrologia medica".
 
-Gli articoli 169, 170, 188, 189, 190, 191 relativi alle scuole di specializzazione in radiologia medica e medicina nucleare e in anestesiologia sono abrogati e sostituiti dai seguenti.
+Dopo l'art. 254 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in nefrologia medica.
 
-Scuola di specializzazione in radiologia
+Scuola di specializzazione in nefrologia medica
 
-Art. 169. - La scuola conferisce due diplomi:
+Art. 255. - E' istituita la scuola di specializzazione in nefrologia medica che ha sede presso l'istituto di patologia speciale medica della facolta' di medicina e chirurgia.
 
-a) diploma di specialista in radiologia che abilita all'esercizio specialistico della roentgendiagnostica, della radioterapia e della medicina nucleare;
+Alla scuola, che ha la durata di tre anni, sono ammessi i laureati in medicina e chirurgia.
 
-b) diploma di specialista in radiologia diagnostica che abilita all'esercizio specialistico della roentgendiagnostica.
+Il numero massimo complessivo degli iscritti per i tre anni di corso e' di ventidue.
 
-Alla scuola sono ammessi soltanto i laureati in medicina e chirurgia.
+Art. 256. - Nel caso che le domande eccedano il numero previsto per gli iscritti alla scuola, la selezione verra' fatta mediante concorso da parte di una commissione presieduta dal direttore della scuola (graduatoria per titoli ed esami).
 
-Il diploma di specializzazione in radiologia viene conseguito dopo quattro anni di corso.
+Qualora un aspirante, sufficientemente fornito di titoli attinenti alle materie della scuola, chieda abbreviazione di corso, dovra' presentare motivata istanza al rettore.
 
-L'iscrizione per ogni anno accademico e' limitata a otto allievi (totale 32 specializzandi).
+Art. 257. - La direzione della scuola sara' affidata dalla facolta' di medicina al direttore di clinica o di istituto che sia un noto cultore di nefrologia medica e che continui a dedicarsi ad essa insieme con i suoi collaboratori.
 
-Programma di insegnamento:
+Art. 258. - Gli iscritti alla scuola avranno l'obbligo di frequentare le lezioni, le esercitazioni, le visite di istruzione e le eventuali conferenze; in caso contrario, non potranno avere l'attestato di frequenza necessario per essere ammessi a sostenere le prove di esame.
 
-1° Anno:
+Art. 259. - Al termine di ogni anno accademico, l'allievo della scuola di specializzazione dovra' sostenere un esame di profitto che comprenda il gruppo delle materie in programma; ove non sia superato tale esame, il candidato non potra' essere ammesso al corso successivo.
 
-1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;
+Art. 260. - L'esame di diploma si svolgera' con le norme generali previste dall'art. 154 del presente statuto.
 
-2) Nozioni sugli apparecchi ed istrumenti della radiologia;
+Al termine del corso di studi, verra' conseguito il diploma di specialista in "Nefrologia medica".
 
-3) Anatomia radiologica normale;
-
-4) Fisiologia radiologica;
-
-5) Tecnica radiologica generale;
-
-6) Semeiotica radiologica generale;
-
-7) Fondamenti di radiobiologia;
-
-8) Nozioni di statistica e matematica.
-
-2° Anno:
-
-1) Tecnica e metodica dell'esame radiologico dei vari organi, apparati e sistemi;
-
-2) Semeiotica radiologica speciale e diagnosi differenziale;
-
-3) Fondamenti di radioterapia;
-
-4) Danni da radiazioni e mezzi di protezione;
-
-5) Dimostrazioni cliniche di diagnostica radiologica;
-
-6) Dimostrazioni cliniche di radioterapia.
-
-3° Anno:
-
-1) Diagnostica radiologica differenziale;
-
-2) Dimostrazioni di casistica di roentgendiagnostica con confronto del quadro anatomo-patologico;
-
-3) Dimostrazioni di casistica di roentgenterapia con particolare riferimento all'anatomia patologica;
-
-4) Radioterapia tradizionale. Curieterapia;
-
-5) Radioterapia con alte energie;
-
-6) Elementi di medicina nucleare;
-
-7) Istrumentario, tecnica e metodica di applicazione;
-
-8) Dosimetria.
-
-4° Anno:
-
-1) Moderne tecniche di esplorazione e terapia radiologica;
-
-2) Diagnostica e terapia con isotopi radioattivi somministrati per via interna;
-
-3) Radiodiagnostica e radioterapia clinica (casistica);
-
-4) Medicina legale e legislazione sanitaria in relazione alla radiologia.
-
-I corsi saranno integrati da conferenze, esercitazioni, e seminari.
-
-Gli allievi dovranno prestare servizio di internato nell'istituto di radiologia.
-
-Ogni materia di insegnamento e' anche materia di esame, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo.
-
-Alla fine dei quattro anni gli allievi dovranno presentare una tesi scritta e sostenere un esame di diploma.
-
-Art. 170. - Il diploma di specializzazione in radiologia-diagnostica viene conseguito dopo tre anni di corso.
-
-L'iscrizione per ogni anno accademico e' limitata a otto allievi (totale 24 specializzandi).
-
-Programma di insegnamento:
+Art. 261. - Gli insegnamenti impartiti saranno i seguenti:
 
 1° Anno:
 
-1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;
+Struttura ed ultrastruttura normale del rene;
 
-2) Nozioni sugli apparecchi ed istrumenti della radiologia;
+Aspetti biochimici della funzione renale;
 
-3) Anatomia radiologica normale;
+Fisiologia renale;
 
-4) Fisiologia radiologica;
+Semeiologia renale (fisica, radiologica, funzionale);
 
-5) Tecnica radiologica generale;
+Microbiologia, ed immunologia applicate alla nefrologia;
 
-6) Semeiotica radiologica generale;
-
-7) Fondamenti di radiobiologia;
-
-8) Nozioni di statistica e matematica.
+Struttura ed ultrastruttura patologica del rene.
 
 2° Anno:
 
-1) Metodica di esplorazioni dei vari organi ed apparati;
+Patologia del ricambio idro-salino;
 
-2) Semeiotica radiologica speciale e diagnosi differenziale;
+Insufficienza renale acuta e cronica;
 
-3) Nozioni generali sulle lesioni da radiazioni e mezzi di protezione;
+Nefropatie glomerulari;
 
-4) Moderne tecniche di esplorazione radiologica.
+Nefropatie tubulari;
 
-3° Anno:
+Farmacologia d'interesse nefrologico;
 
-1) Esplorazione radiologica nella patologia dei vari organi ed apparati. Diagnostica differenziale;
-
-2) Radiodiagnostica clinica;
-
-3) Medicina legale e legislazione sanitaria in relazione alla radiologia.
-
-I corsi saranno integrati da conferenze, esercitazioni e seminari.
-
-Gli allievi dovranno prestare servizio di internato nell'istituto di radiologia.
-
-Ogni materia di insegnamento e' anche materia di esame, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo.
-
-Alla fine dei tre anni gli allievi dovranno presentare una tesi scritta e sostenere un esame di diploma.
-
-Scuola di specializzazione in anestesiologia e rianimazione
-
-Art. 188. - La scuola di specializzazione in anestesiologia e rianimazione ha la durata di tre anni.
-
-Il numero massimo degli iscritti e' limitato a trenta per ogni anno (totale n. 90 specializzandi).
-
-Non e' concesso nessun abbreviamento di corso, ad eccezione dei candidati che, gia' in possesso del diploma di specializzazione in anestesiologia, possono essere ammessi al 3° anno per ottenere il completamento.
-
-Art. 189. - Le materie di insegnamento sono:
-
-1° Anno:
-
-Anatomia, biochimica, farmacologia, fisica, fisiologia applicate alla anestesiologia e rianimazione;
-
-Anestesiologia;
-
-Tecniche chirurgiche di interesse anestesiologico;
-
-Aspetti medico-legali dell'anestesia e della rianimazione;
-
-Internato.
-
-2° Anno:
-
-Anestesiologia;
-
-Terapia antalgica;
-
-Rianimazione;
-
-Internato.
+Terapia dietetica e dialitica (1° anno):
 
 3° Anno:
 
-Rianimazione;
+Nefropatie interstiziali;
 
-Tecniche speciali di anestesia e rianimazione;
+Nefropatie vascolari;
 
-Indagini diagnostiche attinenti alla specialita';
+Nefropatie malformative neoplastiche;
 
-Internato.
+Terapia dietetica e dialitica (2° anno);
 
-Art. 190. - Per accedere ai corsi successivi e' obbligatorio il superamento di tutti gli esami del corso precedente, ivi compreso le materie biennali.
-
-Gli esami possono essere sostenuti solamente in due sessioni annuali, una estiva ed una autunnale, e comunque non oltre il 30 novembre dell'anno in corso.
-
-Art. 191. - Il diploma viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico o sperimentale.
+Terapia generale delle nefropatie (antibiotica, antireattiva, sintomatica).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 25 giugno 1969
+Dato a Roma, addi' 31 ottobre 1969
 
 SARAGAT
 
@@ -229,129 +111,72 @@ Visto, il Guardasigilli: GAVA
 Registrato
 ----------
 
-alla Corte dei conti, addi' 1 agosto 1969 Atti del Governo, registro n. 228, foglio n. 100. - GRECO
+alla Corte dei conti, addi' 15 gennaio 1970 Atti del Governo, registro n. 231, foglio n. 29. - CARUSO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 14 ottobre 1926, numero 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 138, relativo all'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia, e' modificato nel senso che le denominazioni delle discipline in a Radiologia medica e medicina nucleare", e "Anestesiologia" sono cambiate in quelle di "Radiologia" e di "Anestesiologia e rianimazione".  
-Gli articoli 169, 170, 188, 189, 190, 191 relativi alle scuole di specializzazione in radiologia medica e medicina nucleare e in anestesiologia sono abrogati e sostituiti dai seguenti.  
-Scuola di specializzazione in radiologia  
-Art. 169. - La scuola conferisce due diplomi:  
-a) diploma di specialista in radiologia che abilita all'esercizio specialistico della roentgendiagnostica, della radioterapia e della medicina nucleare;  
-b) diploma di specialista in radiologia diagnostica che abilita all'esercizio specialistico della roentgendiagnostica.  
-Alla scuola sono ammessi soltanto i laureati in medicina e chirurgia.  
-Il diploma di specializzazione in radiologia viene conseguito dopo quattro anni di corso.  
-L'iscrizione per ogni anno accademico e' limitata a otto allievi (totale 32 specializzandi).  
-Programma di insegnamento:  
-1° Anno:  
-1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;  
-2) Nozioni sugli apparecchi ed istrumenti della radiologia;  
-3) Anatomia radiologica normale;  
-4) Fisiologia radiologica;  
-5) Tecnica radiologica generale;  
-6) Semeiotica radiologica generale;  
-7) Fondamenti di radiobiologia;  
-8) Nozioni di statistica e matematica.  
-2° Anno:  
-1) Tecnica e metodica dell'esame radiologico dei vari organi, apparati e sistemi;  
-2) Semeiotica radiologica speciale e diagnosi differenziale;  
-3) Fondamenti di radioterapia;  
-4) Danni da radiazioni e mezzi di protezione;  
-5) Dimostrazioni cliniche di diagnostica radiologica;  
-6) Dimostrazioni cliniche di radioterapia.  
-3° Anno:  
-1) Diagnostica radiologica differenziale;  
-2) Dimostrazioni di casistica di roentgendiagnostica con confronto del quadro anatomo-patologico;  
-3) Dimostrazioni di casistica di roentgenterapia con particolare riferimento all'anatomia patologica;  
-4) Radioterapia tradizionale. Curieterapia;  
-5) Radioterapia con alte energie;  
-6) Elementi di medicina nucleare;  
-7) Istrumentario, tecnica e metodica di applicazione;  
-8) Dosimetria.  
-4° Anno:  
-1) Moderne tecniche di esplorazione e terapia radiologica;  
-2) Diagnostica e terapia con isotopi radioattivi somministrati per via interna;  
-3) Radiodiagnostica e radioterapia clinica (casistica);  
-4) Medicina legale e legislazione sanitaria in relazione alla radiologia.  
-I corsi saranno integrati da conferenze, esercitazioni, e seminari.  
-Gli allievi dovranno prestare servizio di internato nell'istituto di radiologia.  
-Ogni materia di insegnamento e' anche materia di esame, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo.  
-Alla fine dei quattro anni gli allievi dovranno presentare una tesi scritta e sostenere un esame di diploma.  
-Art. 170. - Il diploma di specializzazione in radiologia-diagnostica viene conseguito dopo tre anni di corso.  
-L'iscrizione per ogni anno accademico e' limitata a otto allievi (totale 24 specializzandi).  
-Programma di insegnamento:  
-1° Anno:  
-1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;  
-2) Nozioni sugli apparecchi ed istrumenti della radiologia;  
-3) Anatomia radiologica normale;  
-4) Fisiologia radiologica;  
-5) Tecnica radiologica generale;  
-6) Semeiotica radiologica generale;  
-7) Fondamenti di radiobiologia;  
-8) Nozioni di statistica e matematica.  
-2° Anno:  
-1) Metodica di esplorazioni dei vari organi ed apparati;  
-2) Semeiotica radiologica speciale e diagnosi differenziale;  
-3) Nozioni generali sulle lesioni da radiazioni e mezzi di protezione;  
-4) Moderne tecniche di esplorazione radiologica.  
-3° Anno:  
-1) Esplorazione radiologica nella patologia dei vari organi ed apparati. Diagnostica differenziale;  
-2) Radiodiagnostica clinica;  
-3) Medicina legale e legislazione sanitaria in relazione alla radiologia.  
-I corsi saranno integrati da conferenze, esercitazioni e seminari.  
-Gli allievi dovranno prestare servizio di internato nell'istituto di radiologia.  
-Ogni materia di insegnamento e' anche materia di esame, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo.  
-Alla fine dei tre anni gli allievi dovranno presentare una tesi scritta e sostenere un esame di diploma.  
-Scuola di specializzazione in anestesiologia e rianimazione  
-Art. 188. - La scuola di specializzazione in anestesiologia e rianimazione ha la durata di tre anni.  
-Il numero massimo degli iscritti e' limitato a trenta per ogni anno (totale n. 90 specializzandi).  
-Non e' concesso nessun abbreviamento di corso, ad eccezione dei candidati che, gia' in possesso del diploma di specializzazione in anestesiologia, possono essere ammessi al 3° anno per ottenere il completamento.  
-Art. 189. - Le materie di insegnamento sono:  
-1° Anno:  
-Anatomia, biochimica, farmacologia, fisica, fisiologia applicate alla anestesiologia e rianimazione;  
-Anestesiologia;  
-Tecniche chirurgiche di interesse anestesiologico;  
-Aspetti medico-legali dell'anestesia e della rianimazione;  
-Internato.  
-2° Anno:  
-Anestesiologia;  
-Terapia antalgica;  
-Rianimazione;  
-Internato.  
-3° Anno:  
-Rianimazione;  
-Tecniche speciali di anestesia e rianimazione;  
-Indagini diagnostiche attinenti alla specialita';  
-Internato.  
-Art. 190. - Per accedere ai corsi successivi e' obbligatorio il superamento di tutti gli esami del corso precedente, ivi compreso le materie biennali.  
-Gli esami possono essere sostenuti solamente in due sessioni annuali, una estiva ed una autunnale, e comunque non oltre il 30 novembre dell'anno in corso.  
-Art. 191. - Il diploma viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico o sperimentale.  
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 138. - All'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola in "Nefrologia medica".   
+Dopo l'art. 254 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in nefrologia medica.   
+  
+Scuola di specializzazione in nefrologia medica   
+  
+Art. 255. - E' istituita la scuola di specializzazione in nefrologia medica che ha sede presso l'istituto di patologia speciale medica della facolta' di medicina e chirurgia.   
+Alla scuola, che ha la durata di tre anni, sono ammessi i laureati in medicina e chirurgia.   
+Il numero massimo complessivo degli iscritti per i tre anni di corso e' di ventidue.   
+Art. 256. - Nel caso che le domande eccedano il numero previsto per gli iscritti alla scuola, la selezione verra' fatta mediante concorso da parte di una commissione presieduta dal direttore della scuola (graduatoria per titoli ed esami).   
+Qualora un aspirante, sufficientemente fornito di titoli attinenti alle materie della scuola, chieda abbreviazione di corso, dovra' presentare motivata istanza al rettore.   
+Art. 257. - La direzione della scuola sara' affidata dalla facolta' di medicina al direttore di clinica o di istituto che sia un noto cultore di nefrologia medica e che continui a dedicarsi ad essa insieme con i suoi collaboratori.   
+Art. 258. - Gli iscritti alla scuola avranno l'obbligo di frequentare le lezioni, le esercitazioni, le visite di istruzione e le eventuali conferenze; in caso contrario, non potranno avere l'attestato di frequenza necessario per essere ammessi a sostenere le prove di esame.   
+Art. 259. - Al termine di ogni anno accademico, l'allievo della scuola di specializzazione dovra' sostenere un esame di profitto che comprenda il gruppo delle materie in programma; ove non sia superato tale esame, il candidato non potra' essere ammesso al corso successivo.   
+Art. 260. - L'esame di diploma si svolgera' con le norme generali previste dall'art. 154 del presente statuto.   
+Al termine del corso di studi, verra' conseguito il diploma di specialista in "Nefrologia medica".   
+Art. 261. - Gli insegnamenti impartiti saranno i seguenti:   
+1° Anno:   
+Struttura ed ultrastruttura normale del rene;   
+Aspetti biochimici della funzione renale;   
+Fisiologia renale;   
+Semeiologia renale (fisica, radiologica, funzionale);   
+Microbiologia, ed immunologia applicate alla nefrologia;   
+Struttura ed ultrastruttura patologica del rene.   
+2° Anno:   
+Patologia del ricambio idro-salino;   
+Insufficienza renale acuta e cronica;   
+Nefropatie glomerulari;   
+Nefropatie tubulari;   
+Farmacologia d'interesse nefrologico;   
+Terapia dietetica e dialitica (1° anno):   
+3° Anno:   
+Nefropatie interstiziali;   
+Nefropatie vascolari;   
+Nefropatie malformative neoplastiche;   
+Terapia dietetica e dialitica (2° anno);   
+Terapia generale delle nefropatie (antibiotica, antireattiva, sintomatica).   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 giugno 1969
+### Dato a Roma, addi' 31 ottobre 1969
 
 SARAGAT FERRARI AGGRADI
 
 Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 1 agosto 1969
+Registrato alla Corte dei conti, addi' 15 gennaio 1970
 
-Atti del Governo, registro n. 228, foglio n. 100. - GRECO
+Atti del Governo, registro n. 231, foglio n. 29. - CARUSO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 1981 n. 347
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 giugno 1982 n. 740
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 1981 n. 347
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 giugno 1982 n. 740
+=============================================================
 
 Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-347. Decreto del Presidente della Repubblica 13 febbraio 1981, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita', consistente in nove unita' immobiliari site in Bolzano, oltre a somme liquide, il tutto per un valore complessivo di L. 168.500.000, disposta dal dott. Pasquale Fontana con testamento olografo 20 dicembre 1972, pubblicato in data 30 novembre 1974, n. 52378/3041 di repertorio, a rogito dott. Pietro Longi, notaio in Bolzano, registrato a Bolzano in data 3 dicembre 1974, da destinare per l'assistenza ai bambini spastici.  
+740. Decreto del Presidente della Repubblica 29 giugno 1982, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita', consistente nella somma di L. 22.752.499, disposta dal signor Angelo Giordano con testamento 14 gennaio 1938, omologato dalla corte delle successioni della Contea del Bronx (U.S.A.) con provvedimento 20 ottobre 1975, registrato negli atti di ultima volonta' al n. 604, pag. 424.  
   
 Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 2 luglio 1981  
-Registro n. 4 Sanita', foglio n. 233
+Registrato alla Corte dei conti, addi' 2 ottobre 1982  
+Registro n. 6 Sanita', foglio n. 231

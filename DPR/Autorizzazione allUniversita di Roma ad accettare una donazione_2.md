@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1949 n. 1007
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1949 n. 394
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1949 n. 1007
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1949 n. 394
+=============================================================
 
 Autorizzazione all'Universita' di Roma ad accettare una donazione.
 ------------------------------------------------------------------
@@ -12,7 +12,7 @@ Art. 1
 
 N.
 
-1007. Decreto del Presidente della Repubblica 4 novembre 1949, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Roma viene autorizzata ad accettare la donazione della biblioteca tecnica e dei manoscritti del defunto prof. ing.Luciano Conti, disposta in suo favore dagli eredi legittimi del "de cujus", con atti Pubblici amministrativi in data 7 marzo 1946 e 28 dicembre 1948.  
+394. Decreto del Presidente della Repubblica 12 maggio 1949, col quale, sulla, proposta del Ministro per la pubblica istruzione, l'Universita' di Roma viene autorizzata ad accettare la donazione della somma di L. 155.000 nominali, in titoli di Rendita italiana 8%, disposta in suo favore dal sig. Raffaele Di Lorenzo, con atto pubblico in data 2 agosto 1948, allo scopo di aumentare a L. 205.000 nominali il patrimonio della "Borsa di studio Orazio Di Lorenzo" istituita presso l'Universita' medesima con una precedente donazione dello stesso sig. Raffaele Di Lorenzo.  
   
 Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 9 gennaio 1950
+Registrato alla Corte dei conti, addi' 28 giugno 1949

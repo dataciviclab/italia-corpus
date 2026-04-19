@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1977 n. 1210
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1977 n. 193
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1977 n. 1210
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1977 n. 193
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
@@ -10,35 +10,69 @@ Modificazioni allo statuto dell'Universita' degli studi di Messina.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923) e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923), e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio superiore della pubblica istruzione;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Dopo l'art. 201, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in fisiopatologia e fisiochinesiterapia respiratoria.   
   
-La scuola di specializzazione in oculistica, di cui agli articoli da 134 a 138, muta la denominazione in quella di scuola di specializzazione in oftalmologia.  
-L'art. 138, secondo comma, relativo alla scuola di specializzazione in oftalmologia, e' abrogato e sostituito dal seguente:  
-"Per conseguire il diploma di specialista in oftalmologia, gli iscritti al termine dei corsi, oltre a superare le prove di esame nelle singole materie, dovranno discutere una dissertazione scritta su un argomento di oftalmologia e sostenere un esame pratico dinanzi ad una commissione formata dagli insegnanti della scuola".  
+Scuola di specializzazione in fisiopatologia e fisiochinesiterapia respiratoria   
+  
+Art. 202. - La scuola ha la durata di tre anni. Sono ammessi i laureati in medicina e chirurgia. Il numero degli iscritti da ammettere alla scuola e' di 38 per i tre anni di corso.   
+  
+Art. 203. - L'ammissione alla scuola avviene mediante concorso per titoli ed esami.   
+  
+Art. 204. - L'ammontare delle tasse e soprattasse per l'iscrizione alla scuola e' stabilito nel modo seguente:   
+  
+  
+immatricolazione. . . . . . . . . . . . . . . . . . . . . . L. 10.000 iscrizione. . . . . . . . . . . . . . . . . . . . . . . . . " 45.000 contributo laboratorio. . . . . . . . . . . . . . . . . . . " 60.000 contributo clinico. . . . . . . . . . . . . . . . . . . . . " 30.000 contributo libretto . . . . . . . . . . . . . . . . . . . . " 1.000 soprattassa esami . . . . . . . . . . . . . . . . . . . . . " 5.000 soprattassa diploma . . . . . . . . . . . . . . . . . . . . " 5.000 ripetizione esami . . . . . . . . . . . . . . . . . . . . . " 2.000   
+  
+  
+Art. 205. - L'ordinamento degli studi e' il seguente:   
+1° Anno:   
+1) anatomia funzionale dell'apparato respiratorio;   
+2) fisiomeccanica della respirazione;   
+3) le funzioni respiratorie ai vari livelli;   
+4) le funzioni del circolo polmonare;   
+5) attivita' non respiratorie del polmone;   
+6) metodologia di indagine della funzionalita' respiratoria;   
+7) i farmaci del respiro.   
+2° Anno:   
+1) inquadramento generale e diagnostico di patologia broncopleuropolmonare;   
+2) le alterazioni funzionali respiratorie in patologia broncopleuropolmonare;   
+3) l'insufficienza respiratoria nei suoi aspetti eziopatogenetici, clinici e terapeutici;   
+4) fisiopatologia cardiocircolatoria nei broncopneumopatici;   
+5) le alterazioni funzionali respiratorie nei vasculopatici e nei cardiopatici.   
+3° Anno:   
+1) terapia medica generale delle sindromi da disfunzione respiratoria;   
+2) terapia strumentale della insufficienza respiratoria;   
+3) metodologie di rieducazione funzionale respiratoria;   
+4) la rieducazione respiratoria nelle broncopneumopatie invalidanti;   
+5) terapia cardiologica e del circolo nei broncopneumopatici cronici;   
+6) terapia d'urgenza nelle sindromi disfunzionali respiratorie;  
+7) prevenzione e cura dell'invalidita' respiratoria.   
+I corsi di insegnamento saranno altresi' integrati da turni obbligatori di internato, nei reparti di degenza, nei laboratori di ricerca, da esercitazioni pratiche e da conferenze. Gli esami di profitto avranno luogo al termine di ogni anno di corso. Per il conseguimento del diploma di specializzazione e' prescritta la presentazione e discussione di una dissertazione scritta.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 ottobre 1977
+### Dato a Roma, addi' 21 gennaio 1977
 
 LEONE MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 27 giugno 1978
+Registrato alla Corte dei conti, addi' 4 maggio 1977
 
-Registro n. 67 Istruzione, foglio n. 341
+Registro n. 55 Istruzione, foglio n. 301

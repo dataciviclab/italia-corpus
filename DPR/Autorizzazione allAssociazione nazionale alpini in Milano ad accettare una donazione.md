@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1984 n. 730
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1977 n. 823
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1984 n. 730
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1977 n. 823
+==============================================================
 
 Autorizzazione all'Associazione nazionale alpini, in Milano, ad accettare una donazione.
 ----------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-730. Decreto del Presidente della Repubblica 20 giugno 1984, col quale, sulla proposta del Ministro della difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad accettare la donazione, consistente in un terreno sito in Calice al Cornoviglio (La Spezia), censito al nuovo catasto terreni al foglio n. 16, mappale n. 233, disposta dal sig. Leopoldo Andreoni con atto 31 luglio 1982, n. 205254 di repertorio, a rogito dott. Roberto Ferrara, notaio in La Spezia e registrato a La Spezia in data 9 agosto 1982 al n. 3599.  
+823. Decreto del Presidente della Repubblica 7 ottobre 1977, col quale, sulla proposta del Ministro per la difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad accettare, rispettandone la condizione, la donazione disposta dal dott. Sotero Bernardi e dai signori Giuseppe, Anna Maria e Raffaella Baldoni con atto pubblico 2 giugno 1976, n. 28846 di repertorio e n. 8150 di matrice, a rogito dott. Antonio Bosi, notaio in Bagnacavallo (Ravenna), consistente in una chiesetta in comune di Lama Mocogno (Modena) localita' Piane di Mocogno, dedicata agli alpini modenesi caduti per la Patria e del circostante terreno, della superficie catastale di mq 255.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 18 ottobre 1984  
-Registro n. 33 Difesa, foglio n. 379
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 5 novembre 1977  
+Registro n. 29 Difesa, foglio n. 343

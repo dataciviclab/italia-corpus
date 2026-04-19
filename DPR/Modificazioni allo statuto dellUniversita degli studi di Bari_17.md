@@ -1,179 +1,43 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 938
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1957 n. 1000
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 938
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1957 n. 1000
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 174. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola in reumatologia.
-
-Dopo l'art. 223 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in reumatologia.
-
-Scuola di specializzazione in reumatologia
-
-Art. 224. - La scuola di specializzazione ha sede presso l'istituto di clinica medica I, direttore della scuola e' il direttore della clinica medica I; condirettore il professore ufficiale incaricato dell'insegnamento di reumatologia.
-
-Il corso degli studi per il conseguimento del diploma di specialista in reumatologia ha la durata di 3 anni accademici.
-
-Alla scuola possono iscriversi i laureati in medicina e chirurgia.
-
-Per l'ammissione e' previsto un concorso per titoli ed esami.
-
-Puo' essere concessa l'abbreviazione di corso a coloro che siano in possesso dei seguenti titoli:
-
-1) servizio di assistente ordinario e incaricato universitario ed ospedaliero in reparto di reumatologia;
-
-2) titoli scientifici e professionali in campo reumatologico;
-
-3) diplomi di specializzazioni e perfezionamento comprendenti la reumatologia.
-
-Il numero complessivo degli iscritti nel tre anni di corso non puo' essere superiore a Otto.
-
-Art. 225. - Le materie di insegnamento ed i relativi esami sono cosi' ripartiti:
-
-1° Anno:
-
-1) Anatomia, istologia e morfogenesi dell'apparato muscolo-scheletrico e articolare;
-
-2) Fisiopatologia dell'apparato muscolo-scheletrico e articolare;
-
-3) Biochimica dei tessuti connettivi;
-
-4) Microbiologia ed immunologia in relazione alle malattie reumatiche;
-
-5) Semeiotica fisica, strumentale e di laboratorio in reumatologia (I corso).
-
-2° Anno:
-
-1) Semeiotica fisica, strumentale e di laboratorio in reumatologia (II corso);
-
-2) Anatomia e istologia patologica delle malattie reumatiche;
-
-3) Farmacologia in relazione alle malattie reumatiche;
-
-4) Patologia, clinica e terapia delle malattie reumatiche (I corso);
-
-5) Terapia fisica, termale e riabilitativa, in reumatologia (I corso);
-
-6) Diagnostica radiologica.
-
-3° Anno:
-
-1) Patologia, clinica e terapia delle malattie reumatiche (II corso);
-
-2) Terapia fisica, termale e riabilitativa in reumatologia (II corso);
-
-3) Clinica e terapia ortopedica applicata alla reumatologia;
-
-4) Aspetti sociali ed epidemiologici delle malattie reumatiche.
-
-Per conseguire il diploma di specialista dovra' essere presentata e discussa una tesi scritta su un tema preventivamente approvato dal direttore della scuola.
-
-E' obbligatoria la frequenza alle lezioni, esercitazioni ed un internato annuale di almeno sei mesi.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1972
-
-LEONE
-
-SCALFARO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 17 Gennaio 1973 Atti di Governo, registro n. 255, foglio n. 36. - VALENTINI
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Veduto il [decreto del Capo dello Stato 11 settembre 1956, n. 1210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.governo:decreto:1956-09-11;1210), con il quale vennero, fra l'altro, modificati gli articoli 57 e 59 dello statuto dell'Universita' di Bari nel senso che venne eliminato l'insegnamento della letteratura cristiana antica dall'elenco degli insegnamenti complementari dei corsi di laurea in materie letterarie e di pedagogia della Facolta' di magistero, in quanto il Consiglio superiore aveva ritenuto di esprimere parere contrario al mantenimento di tale insegnamento fra quelli complementari dei predetti corsi di laurea ancorche' le autorita' accademiche dell'Universita' di Bari non avessero richiesto l'eliminazione dell'insegnamento stesso;  
+Vedute le delibere delle competenti autorita' accademiche dell'Universita' di Bari per cui si fanno voti perche' l'insegnamento della letteratura cristiana antica sia mantenuto quale insegnamento complementare della Facolta' di magistero almeno limitatamente al corso di laurea in materie letterarie;  
+Sentita la Sezione prima del Consiglio superiore della pubblica istruzione che nell'adunanza del 31 gennaio 1957, nell'esprimere il proprio parere in merito alla richiesta di apertura di concorsi a cattedre universitarie, ebbe fra l'altro, ad approvare quella relativa alla cattedra di letteratura cristiana antica della Facolta' di magistero dell'Universita' di Bari, e che conseguentemente il concorso per tale cattedra venne indetto a norma dell'[art. 68 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.pubblica.istruzione::1933-08-31;1592~art68), con decreto del Ministro per la pubblica istruzione 7 febbraio 1957, pubblicato nella Gazzetta Ufficiale del 14 febbraio 1957, n. 41;  
+Ritenuto che in relazione a tale parere e' indispensabile includere l'insegnamento complementare di letteratura cristiana antica tra le materie che vengono insegnate nella Facolta' di magistero dell'Universita' di Bari e conseguentemente si rende necessario la modifica dello statuto di detta Universita';  
+Ritenuta l'urgenza in quanto e' stato gia' bandito il relativo concorso a cattedra col citato decreto Ministeriale 7 febbraio 1957;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 174. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola in reumatologia.  
-Dopo l'art. 223 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in reumatologia.  
-  
-Scuola di specializzazione in reumatologia  
-  
-Art. 224. - La scuola di specializzazione ha sede presso l'istituto di clinica medica I, direttore della scuola e' il direttore della clinica medica I; condirettore il professore ufficiale incaricato dell'insegnamento di reumatologia.  
-Il corso degli studi per il conseguimento del diploma di specialista in reumatologia ha la durata di 3 anni accademici.  
-Alla scuola possono iscriversi i laureati in medicina e chirurgia.  
-Per l'ammissione e' previsto un concorso per titoli ed esami.  
-Puo' essere concessa l'abbreviazione di corso a coloro che siano in possesso dei seguenti titoli:  
-1) servizio di assistente ordinario e incaricato universitario ed ospedaliero in reparto di reumatologia;  
-2) titoli scientifici e professionali in campo reumatologico;  
-3) diplomi di specializzazioni e perfezionamento comprendenti la reumatologia.  
-Il numero complessivo degli iscritti nel tre anni di corso non puo' essere superiore a Otto.  
-Art. 225. - Le materie di insegnamento ed i relativi esami sono cosi' ripartiti:  
-1° Anno:  
-1) Anatomia, istologia e morfogenesi dell'apparato muscolo-scheletrico e articolare;  
-2) Fisiopatologia dell'apparato muscolo-scheletrico e articolare;  
-3) Biochimica dei tessuti connettivi;  
-4) Microbiologia ed immunologia in relazione alle malattie reumatiche;  
-5) Semeiotica fisica, strumentale e di laboratorio in reumatologia (I corso).  
-2° Anno:  
-1) Semeiotica fisica, strumentale e di laboratorio in reumatologia (II corso);  
-2) Anatomia e istologia patologica delle malattie reumatiche;  
-3) Farmacologia in relazione alle malattie reumatiche;  
-4) Patologia, clinica e terapia delle malattie reumatiche (I corso);  
-5) Terapia fisica, termale e riabilitativa, in reumatologia (I corso);  
-6) Diagnostica radiologica.  
-3° Anno:  
-1) Patologia, clinica e terapia delle malattie reumatiche (II corso);  
-2) Terapia fisica, termale e riabilitativa in reumatologia (II corso);  
-3) Clinica e terapia ortopedica applicata alla reumatologia;  
-4) Aspetti sociali ed epidemiologici delle malattie reumatiche.  
-Per conseguire il diploma di specialista dovra' essere presentata e discussa una tesi scritta su un tema preventivamente approvato dal direttore della scuola.  
-E' obbligatoria la frequenza alle lezioni, esercitazioni ed un internato annuale di almeno sei mesi.  
+L'art. 57 dello statuto dell'Universita' degli stadi di Bari, modificato con il citato decreto 11 settembre 1956, n. 1210, e' ulteriormente modificato nel senso che fra gli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto il seguente:  
+8) Letteratura cristiana antica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 18 ottobre 1957
 
-LEONE SCALFARO
+GRONCHI MORO
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 17 Gennaio 1973
+Registrato alla Corte dei conti, addi' 28 ottobre 1957
 
-Atti di Governo, registro n. 255, foglio n. 36. - VALENTINI
+Atti del Governo, registro n. 108, foglio n. 118. - RELLEVA

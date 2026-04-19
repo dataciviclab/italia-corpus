@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 dicembre 1986 n. 1062
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1973 n. 1144
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 dicembre 1986 n. 1062
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1973 n. 1144
+=================================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione ad accettare una donazione a favore dello Stato.
 Art. 1
 ------
 
-n.
+N.
 
-1062. Decreto del Presidente della Repubblica 22 dicembre 1986, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione, consistente in una collezione di trentaquattro opere, fra dipinti e disegni dei secoli XV, XVIII e XIX, i quali rivestono un importante interesse artistico e storico, da destinare alla Galleria nazionale d'arte moderna di Firenze, disposta dall'avv. Marcello Saltini con atto 6 aprile 1978, n. 15998/7309 di repertorio, a rogito dottor Giovanni Basetti Sani, notaio in Firenze, registrato a Firenze in data 24 aprile 1978 al n. 3421.  
+1144. Decreto del Presidente della Repubblica 5 settembre 1973, col quale, sulla proposta del Ministro per la difesa, viene autorizzata l'accettazione della donazione a favore dello Stato di un medagliere navale, disposta dall'avv. Angelo Ponzio con atto del notaio Gianfranco Troise, registrato a Taranto il 23 febbraio 1973 al n. 3407, da conservare in una sala del circolo Marina di Taranto intitolata al dottor Ugo Ponzio-De Quarto, numismatico navale, aperta alla visita di autorita', personalita', studiosi e amatori dell'arte numismatica.  
   
-Visto, il Guardasigilli: ROGNONI  
-Registrato alla Corte dei conti, addi' 25 marzo 1987  
-Registro n. 8 Beni culturali, foglio n. 227
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 7 ottobre 1974  
+Atti di Governo, registro n. 6, foglio n. 8. - SCIARRETTA

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 luglio 1974 n. 502
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 luglio 1963 n. 1364
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 luglio 1974 n. 502
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 luglio 1963 n. 1364
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -10,238 +10,69 @@ Modificazioni allo statuto dell'Universita' degli studi di Roma.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 20 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-20;1734), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successive;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appreso:   
-Gli articoli da 25 a 42 relativi alla facolta' di scienze politiche sono abrogati e sostituiti dai seguenti:   
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Titolo III   
-FACOLTA' DI SCIENZE POLITICHE   
+Gli articoli dal n. 439 al n. 448, relativi alla Scuola di perfezionamento in Cardiologia sono abrogati e sostituiti dai seguenti:  
   
-Art. 25. - La facolta' di scienze politiche ha per fine di promuovere l'alta cultura politica e sociale.   
+Scuola di specializzazione in Cardiologia  
   
-Art. 26. - La facolta' di scienze politiche conferisce la laurea in scienze politiche.   
+Art. 439. - La Scuola di specializzazione in Cardiologia ha lo scopo di promuovere l'incremento scientifico e pratico di tale branca della medicina e di conferire diplomi che abilitino al particolare esercizio della branca stessa con la qualifica di "specialista" a norma dell'[art. 178 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art178).  
+Art. 440. - Alla Scuola vengono ammessi i laureati in medicina e chirurgia. Il numero massimo degli ammessi al primo anno della Scuola e' di trenta.  
+Art. 441. - La durata dell'intero corso di studi e' di tre anni.  
+Art. 442. - Gli insegnamenti della Scuola sono:  
+Primo anno:  
+1) Anatomia normale dell'apparato cardiovascolare;  
+2) Fisiologia dell'apparato cardiovascolare e respiratorio;  
+3) Microbiologia;  
+4) Fisiopatologia cardiovascolare e respiratoria (1° corso);  
+5) Patologia cardiovascolare (1° corso);  
+6) Semeiologia fisica (1° corso);  
+7) Semeiologia strumentale (1° corso).  
+Per essere ammessi al secondo anno occorrera' aver superato gli esami di: Anatomia, Fisiologia, Microbiologia.  
+Secondo anno:  
+1) Fisiopatologia cardiovascolare e respiratoria (2° corso);  
+2) Patologia cardiovascolare (2° corso);  
+3) Semeiologia fisica (2° corso);  
+4) Semeiologia strumentale (2° corso);  
+5) Anatomia patologica dell'apparato cardiovascolare (1° corso);  
+6) Radiologia;  
+7) Farmacologia;  
+8) Clinica e terapia (1° corso).  
+Per essere ammessi al terzo anno occorrera' aver superato gli esami di: Fisiopatologia, Patologia, Semeiologia fisica, Semeiologia strumentale, Radiologia, Farmacologia.  
+Terzo anno:  
+1) Anatomia patologica dell'apparato cardiovascolare (2° corso);  
+2) Clinica e terapia (2° corso);  
+3) Chirurgia dell'apparato cardiovascolare;  
+4) Medicina legale con elementi di statistica e organizzazione sociale per la lotta contro il reumatismo e le cardiopatie.  
+I detti insegnamenti saranno integrati da corsi complementari e da corsi di esercitazioni pratiche.  
+Alla fine del terzo anno, dopo aver superato i singoli esami speciali, gli specializzandi dovranno sostenere un esame di diploma, vertente sulla discussione di una dissertazione scritta elaborata su un argomento di cardiologia concordato con il direttore della Scuola durante il secondo anno di corso.  
+Art. 443. - Gli specializzandi presteranno servizio in qualita' di assistente nel reparto clinico annesso alla Scuola, per l'intero anno solare e per tutta la durata della loro iscrizione alla Scuola. La frequenza nel reparto ed ai corsi e' obbligatoria e condizione indispensabile per l'ammissione agli esami.  
+Art. 444. - Il direttore della Scuola potra' concedere l'abbreviazione di corso, per titoli, con iscrizione al secondo anno (potra' essere richiesto un esame di idoneita); gli aspiranti che ne usufruiranno dovranno sostenere ugualmente gli esami del primo anno prima di quelli del secondo.  
+Art. 446. - A coloro che avranno superato l'esame di diploma, verra' rilasciato il diploma di specialista in Cardiologia.  
   
-Art. 27. - Sono annessi alla facolta' di scienze politiche i seguenti istituti:   
-  
-1) Istituto di studi economici finanziari e statistici "Alberto de' Stefani", al quale sono attribuiti i seguenti insegnamenti:   
-Contabilita' di Stato e degli enti pubblici;   
-Demografia;   
-Econometrica;   
-Economia e politica bancaria;   
-Economia e politica agraria;   
-Economia e politica dei trasporti;   
-Economia e politica industriale;   
-Economia internazionale;   
-Economia politica;   
-Geografia politica ed economica;   
-Matematica per le scienze sociali;   
-Politica economica e finanziaria;   
-Programmazione economica;   
-Scienza delle finanze;   
-Statistica;   
-Statistica economica;   
-Storia delle dottrine economiche;   
-Storia economica;   
-Storia e politica monetaria.   
-  
-2) Istituto di studi giuridici, al quale sono attribuiti i seguenti insegnamenti:   
-Diritto aero-spaziale;   
-Diritto amministrativo;   
-Diritto costituzionale italiano e comparato;   
-Diritto del lavoro e legislazione sociale;   
-Diritto delle Comunita' europee;   
-Diritto ecclesiastico italiano e comparato;   
-Diritto finanziario;   
-Diritto internazionale privato;   
-Diritto internazionale pubblico;   
-Diritto parlamentare;   
-Diritto pubblico dell'economia;   
-Diritto regionale;   
-Diritto tributario;   
-Filosofia del diritto;   
-Istituzioni di diritto e procedura penale;   
-Istituzioni di diritto privato;   
-Istituzioni di diritto pubblico;   
-Organizzazione internazionale;   
-Scienza dell'amministrazione.   
-  
-3) Istituto di studi storici, al quale sono attribuiti i seguenti insegnamenti:   
-Filosofia della politica;   
-Scienza della politica;   
-Sociologia;   
-Sociologia politica;   
-Storia contemporanea;   
-Storia dei partiti e dei movimenti politici;   
-Storia dei rapporti fra Stato e Chiesa;   
-Storia dei trattati e politica internazionale;   
-Storia del giornalismo;   
-Storia dell'America del nord;   
-Storia dell'America latina;   
-Storia delle dottrine politiche;   
-Storia delle istituzioni politiche;   
-Storia dell'Europa orientale;   
-Storia del Risorgimento;   
-Storia e istituzioni dei Paesi afro-asiatici;   
-Storia moderna.   
-  
-4) Istituto di lingue straniere.   
-  
-Art. 28. - La durata del corso degli studi per il conseguimento della laurea in scienze politiche e' di quattro anni ed il titolo di ammissione e' quello richiesto dalla legge.   
-Il corso degli studi comprende un biennio propedeutico ed un biennio di specializzazione.   
-  
-Art. 29. - Il biennio propedeutico comprende nove insegnamenti annuali obbligatori:   
-1) Istituzioni di diritto pubblico;   
-2) Istituzioni di diritto privato;   
-3) Diritto costituzionale italiano e comparato;   
-4) Economia politica;   
-5) Statistica;   
-6) Storia contemporanea;   
-7) Storia moderna;   
-8) Storia delle dottrine politiche;   
-9) Sociologia.   
-  
-Art. 30. - Il biennio di specializzazione e' ordinato nei seguenti quattro indirizzi:   
-a) indirizzo politico-amministrativo;   
-b) indirizzo politico-economico;   
-c) indirizzo politico-internazionale;   
-d) indirizzo storico-politico.   
-  
-Art. 31. - Ogni indirizzo comprende insegnamenti obbligatori e altri insegnamenti fra i quali lo studente deve scegliere, secondo le modalita' del successivo art. 34, quelli necessari per completare il suo piano di studi.   
-La facolta' rende noti annualmente gli insegnamenti attivati.   
-  
-Art. 32. - Gli elenchi degli insegnamenti relativi ai quattro indirizzi sono i seguenti:   
-  
-a) INDIRIZZO POLITICO-AMMINISTRATIVO:   
-  
-Insegnamenti obbligatori:   
-1) Diritto amministrativo (biennale);   
-2) Istituzioni di diritto e procedura penale;   
-3) Diritto tributario o diritto finanziario;   
-4) Contabilita' di Stato e degli enti pubblici.   
-  
-Insegnamenti a scelta dello studente:   
-5) Diritto pubblico dell'economia;   
-6) Scienza dell'amministrazione;   
-7) Diritto delle Comunita' europee;   
-8) Diritto regionale;   
-9) Diritto parlamentare;   
-10) Diritto del lavoro e legislazione sociale;   
-11) 5Filosofia della politica;   
-12) Filosofia del diritto;   
-13) Sociologia politica;   
-14) Politica economica e finanziaria.   
-  
-b) INDIRIZZO POLITICO-ECONOMICO:   
-  
-Insegnamenti obbligatori:   
-1) Politica economica e finanziaria;   
-2) Storia e politica monetaria;   
-3) Scienza delle finanze;   
-4) Economia internazionale;   
-5) Statistica economica.   
-  
-Insegnamenti a scelta dello studente:   
-6) Storia delle dottrine economiche;   
-7) Storia economica;   
-8) Economia e politica bancaria;   
-9) Economia e politica agraria;   
-10) Economia e politica industriale;   
-11) Economia e politica dei trasporti;   
-12) Programmazione economica;   
-13) Econometrica;   
-14) Matematica per le scienze sociali;   
-15) Demografia.   
-  
-C) INDIRIZZO POLITICO-INTERNAZIONALE:   
-  
-Insegnamenti obbligatori:   
-1) Storia dei trattati e politica internazionale;   
-2) Diritto internazionale pubblico;   
-3) Organizzazione internazionale;   
-4) Economia internazionale;   
-5) Geografia politica ed economica.   
-  
-Insegnamenti a scelta dello studente:   
-6) Storia delle istituzioni politiche;   
-7) Storia dell'Europa orientale;   
-8) Storia dell'America del nord;   
-9) Storia e istituzioni dei Paesi afro-asiatici;   
-10) Diritto internazionale privato;   
-11) Diritto ecclesiastico italiano e comparato;   
-12) Diritto delle Comunita' europee;   
-13) Diritto aero-spaziale;   
-14) Diritto tributario o diritto finanziario;   
-15) Diritto amministrativo (annuale).   
-  
-d) INDIRIZZO STORICO-POLITICO:   
-1) Storia contemporanea (corso monografico);   
-2) Storia moderna (corso monografico);   
-3) Storia dei trattati e politica internazionale;   
-4) Storia delle istituzioni politiche;   
-5) Scienza della politica.   
-  
-Insegnamenti a scelta dello studente:   
-6) Storia dell'Europa orientale;   
-7) Storia dell'America del nord;   
-8) Storia dell'America latina;   
-9) Storia e istituzioni dei Paesi afro-asiatici;   
-10) Storia dei partiti e dei movimenti politici;   
-11) Storia del giornalismo;   
-12) Storia dei rapporti fra Stato e Chiesa;   
-13) Storia del Risorgimento;   
-14) Filosofia della politica;   
-15) Sociologia politica.   
-  
-Art. 33. - Gli insegnamenti dei vari indirizzi sono annuali, salvo diversa indicazione.   
-  
-Art. 34. - Lo studente, all'inizio del terzo anno accademico, sceglie uno degli indirizzi e aggiunge agli insegnamenti obbligatori previsti per detto indirizzo gli altri insegnamenti a sua scelta, fra quelli attivati, necessari per completare il suo piano di studi.   
-Gli insegnamenti scelti dallo studente possono appartenere anche a indirizzi diversi da quello da lui indicato, o ad altre facolta'. In tal caso il piano degli studi dovra' essere sottoposto all'approvazione della facolta'.   
-  
-Art. 35. - Lo studente puo' anticipare al biennio propedeutico non piu' di tre insegnamenti obbligatori del biennio di specializzazione da lui prescelto. Tali insegnamenti anticipati al biennio propedeutico vanno in detrazione del numero degli insegnamenti del biennio di specializzazione.   
-Gli insegnamenti a scelta dello studente non possono essere anticipati al biennio propedeutico.   
-  
-Art. 36. - La facolta', all'inizio di ogni anno, stabilisce gli insegnamenti di lingue estere effettivamente impartiti. Tra tali insegnamenti sono in ogni caso contemplati quelli delle lingue inglese, francese e tedesca.   
-Gli insegnamenti di lingue estere hanno durata biennale.   
-  
-Art. 37. - Per essere ammesso all'esame di laurea lo studente, oltre ad aver seguito i corsi e superati gli esami in due lingue estere (di cui almeno una deve essere la francese o l'inglese o la tedesca) scelte fra quelle insegnate nella facolta', deve aver seguito i corsi e superati gli esami relativi ad almeno diciannove insegnamenti annuali.   
-Ai fini del numero di insegnamenti sopra stabilito e fatta eccezione per le lingue estere, un insegnamento biennale equivale a due insegnamenti annuali.   
-  
-Art. 38. - L'esame di laurea consiste nella discussione di una dissertazione scritta. Il tema della dissertazione scritta e' scelto dal candidato tra le materie nelle quali abbia superato gli esami, previo consenso del professore della materia. Il tema deve essere approvato dal preside, o, per delega, dal direttore di istituto competente.   
-Superato l'esame di laurea, lo studente consegue il titolo di dottore in scienze politiche con l'indicazione dell'indirizzo prescelto.   
-  
-Art. 39. - Lo studente puo' apportare al proprio piano di studio modifiche concernenti le materie a sua scelta, sottoponendole all'approvazione del consiglio di facolta'.   
-Lo studente puo' anche cambiare l'indirizzo prescelto, in tal caso sostenendo gli esami relativi agli insegnamenti obbligatori del nuovo indirizzo.   
-  
-Art. 40. - I laureati in giurisprudenza, in economia e commercio e in scienze statistiche e demografiche o in scienze statistiche e attuariali sono ammessi al terzo anno.   
-All'inizio di tale anno scelgono il proprio indirizzo e formulano il proprio piano di studio. Sostengono in ogni caso gli esami relativi agli insegnamenti obbligatori del biennio propedeutico ed agli insegnamenti obbligatori dell'indirizzo prescelto, con la esclusione degli esami gia' superati per la precedente laurea.   
-  
-Art. 41. - Per l'abbreviazione dei corsi ed il riconoscimento di esami in base ad altre lauree ed a studi compiuti presso altri istituti italiani e stranieri, decide la facolta' caso per caso.   
-  
-Art. 42. - Gli studenti che, all'entrata in vigore del presente ordinamento, risultano iscritti nei precedenti anni accademici hanno facolta' di proseguire gli studi secondo il preesistente ordinamento o di scegliere un indirizzo tra quelli contemplati dal presente statuto.   
-In tal caso, gli studenti adegueranno il proprio piano di studi tenendo conto degli esami gia' sostenuti. I piani di studi cosi' modificati sono sottoposti all'approvazione del consiglio di facolta'.   
 
-Il presente decreto munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 luglio 1974
+### Dato a Roma, addi' 26 luglio 1963
 
-LEONE MALFATTI
+SEGNI GUI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 21 ottobre 1974
+Registrato alla Corte dei conti, addi' 16 ottobre 1963
 
-Atti di Governo, registro n. 6, foglio n. 17 - SCIARRETTA
+Atti del Governo, registro n. 175, foglio n. 22. - VILLA

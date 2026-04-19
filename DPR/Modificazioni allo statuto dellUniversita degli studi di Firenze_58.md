@@ -1,94 +1,552 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 578
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 gennaio 1969 n. 144
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 578
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 gennaio 1969 n. 144
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che gli articoli dal 19 al 31, relativi alla facolta' di scienze politiche, "Cesare Alfieri", sono abrogati e sostituiti dai seguenti con il conseguente spostamento della successiva numerazione:
+
+TITOLO III
+
+Facolta' di scienze politiche "Cesare Alfieri"
+
+Art. 19. - La facolta' di scienze politiche "Cesare Alfieri" conferisce la laurea in scienze politiche. Nel diploma di laurea e' indicato l'indirizzo seguito dal laureato.
+
+Art. 20. - La durata del corso degli studi per la laurea in scienze politiche e' di quattro anni.
+
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.
+
+Gli insegnamenti sono determinati dal seguente piano di studi:
+
+1° BIENNIO COMUNE
+
+1° Anno:
+
+1) Istituzioni di diritto pubblico;
+
+2) Storia delle dottrine politiche;
+
+3) Economia politica;
+
+4) Storia moderna;
+
+5) Statistica.
+
+2° Anno:
+
+1) Diritto costituzionale italiano e comparato;
+
+2) Sociologia;
+
+3) Scienza della politica;
+
+4) Politica economica e finanziaria.
+
+Oltre agli insegnamenti obbligatori del primo biennio lo studente potra' anticipare un massimo di tre insegnamenti, scelti tra quelli esistenti in statuto, e resi obbligatori per l'indirizzo prescelto del secondo biennio. Tali insegnamenti anticipati andranno in detrazione dal numero di insegnamenti del biennio di specializzazione.
+
+2° BIENNIO
+
+Per il secondo biennio sono previsti i seguenti cinque indirizzi:
+
+Politico-amministrativo;
+
+Politico-economico;
+
+Politico-internazionale;
+
+Storico-politico;
+
+Politico-sociale.
+
+Fermi restando gli insegnamenti obbligatori del primo biennio elencati in precedenza, gli insegnamenti che possono essere impartiti o mutuati dalla facolta' in relazione agli indirizzi di cui sopra sono i seguenti:
+
+Istituzioni di diritto privato;
+
+Diritto amministrativo;
+
+Scienza dell'amministrazione;
+
+Diritto del lavoro;
+
+Istituzioni di diritto e di procedura penale;
+
+Diritto finanziario;
+
+Diritto tributario;
+
+Diritto degli enti locali;
+
+Diritto delle comunita' europee;
+
+Diritto diplomatico e consolare;
+
+Diritto parlamentare;
+
+Diritto privato comparato;
+
+Diritto pubblico americano;
+
+Diritto pubblico dell'economia;
+
+Diritto regionale;
+
+Istituzioni giuridiche e sociali dell'Europa orientale;
+
+Matematica generale;
+
+Scienza delle finanze;
+
+Economia e politica industriale;
+
+Economia dei trasporti;
+
+Teoria dello sviluppo economico;
+
+Econometria;
+
+Economia internazionale;
+
+Diritto internazionale;
+
+Diritto internazionale privato;
+
+Organizzazione internazionale;
+
+Organizzazione economica internazionale;
+
+Pianificazione e organizzazione territoriale;
+
+Programmazione economica;
+
+Ricerca operativa;
+
+Storia contemporanea;
+
+Storia antica;
+
+Storia della filosofia;
+
+Storia della filosofia moderna e contemporanea;
+
+Storia della filosofia politica;
+
+Storia delle dottrine economiche;
+
+Storia dell'economia;
+
+Storia delle istituzioni politiche;
+
+Storia dell'amministrazione pubblica;
+
+Storia dei partiti e movimenti politici;
+
+Storia del giornalismo;
+
+Storia americana;
+
+Storia dell'Europa orientale;
+
+Storia dei movimenti sindacali;
+
+Storia delle costituzioni;
+
+Storia e istituzioni dei paesi afro-asiatici;
+
+Storia e istituzioni dei paesi latino-americani;
+
+Storia e istituzioni dell'Europa orientale;
+
+Storia moderna e contemporanea;
+
+Storia del Risorgimento;
+
+Storia medioevale;
+
+Storia delle istituzioni religiose;
+
+Storia della Chiesa;
+
+Storia moderna della Chiesa e delle altre confessioni cristiane;
+
+Storia delle relazioni internazionali;
+
+Metodologia della ricerca storica;
+
+Contabilita' dello Stato e degli enti pubblici;
+
+Contabilita' nazionale;
+
+Demografia;
+
+Geografia politica ed economica;
+
+Principi e tecnica delle applicazioni meccanografiche ed elettroniche;
+
+Statistica economica;
+
+Statistica applicata;
+
+Statistica per la ricerca sociale;
+
+Filosofia del diritto;
+
+Filosofia della politica;
+
+Filosofia della scienza;
+
+Logica;
+
+Filosofia morale;
+
+Pedagogia;
+
+Dottrina dello stato;
+
+Politica comparata;
+
+Relazioni internazionali;
+
+Antropologia culturale;
+
+Metodologia delle scienze sociali;
+
+Matematiche per le scienze sociali;
+
+Psicologia;
+
+Psicologia sociale;
+
+Sociologia del lavoro;
+
+Sociologia economica;
+
+Sociologia dell'organizzazione;
+
+Sociologia politica;
+
+Sociologia religiosa;
+
+Sociologia urbana;
+
+Sociologia rurale;
+
+Sociologia delle comunita' locali;
+
+Sociologia della famiglia;
+
+Sociologia della conoscenza;
+
+Sociologia dell'educazione;
+
+Sociologia delle comunicazioni;
+
+Sociologia del diritto;
+
+Sociologia dello sviluppo;
+
+Storia del pensiero sociologico;
+
+Sociologia applicata;
+
+Teoria e tecnica delle comunicazioni di massa;
+
+Teoria delle organizzazioni complesse;
+
+Teoria generale della politica;
+
+Teoria e politica dello sviluppo;
+
+Teoria generale del diritto;
+
+Lingua francese;
+
+Lingua inglese;
+
+Lingua tedesca;
+
+Lingua spagnola;
+
+Lingua russa.
+
+Per ciascun indirizzo attuato la facolta' stabilisce una lista di non piu' di quindici insegnamenti, entro l'elenco generale delle materie in statuto, che la facolta' si riserva di impartire o mutuare da altre facolta' dello Ateneo fiorentino.
+
+All'inizio di ogni anno accademico la facolta' stabilisce e rende note quali degli insegnamenti verranno impartiti durante l'anno, e la durata (pluriennale, annuale, semestrale o trimestrale) degli insegnamenti stessi. La facolta' stabilisce inoltre, indirizzo per indirizzo, quanti e quali insegnamenti siano obbligatori per gli studenti. Gli insegnamenti obbligatori di ciascun indirizzo non potranno essere piu' di sette e meno di quattro. Lo studente dovra' scegliere gli insegnamenti non obbligatori del secondo biennio tra i restanti insegnamenti dell'indirizzo.
+
+Per essere ammesso all'esame di laurea, lo studente deve avere seguito i corsi e superato gli esami di ventuno insegnamenti, ivi comprese due lingue straniere.
+
+Per tutti gli indirizzi e' obbligatoria la lingua inglese.
+
+Per l'indirizzo politico internazionale sono obbligatorie le lingue inglese e francese. Le lingue obbligatorie possono essere anticipate al primo biennio.
+
+Per il computo degli esami, la facolta' stabilisce la equivalenza tra i corsi annuali e i corsi frazionali (trimestrali o semestrali) eventualmente impartiti. Qualora la facolta' istituisca corsi biennali o pluriennali di una stessa materia, ogni esame annuale viene computato ai fini del numero minimo di esami sopra stabilito.
+
+Art. 21. - Ogni studente prima dell'inizio del terzo anno dovra' prescegliere un indirizzo e formulare il piano di studi, che sottoporra' per l'approvazione alla commissione di indirizzo, formato da un professore di materia obbligatoria nell'indirizzo, un professore o assistente di materia dell'indirizzo, e uno studente laureando iscritto a quell'indirizzo.
+
+Lo studente potra' sempre modificare il piano di studio per quanto riguarda le materie a scelta, previo consenso della commissione di indirizzo; potra' anche cambiare indirizzo, accettando di sostenere quegli esami che a tal fine la commissione di indirizzo reputera' necessario.
+
+Art. 22. - Gli insegnamenti sono impartiti mediante lezioni, esercitazioni scritte ed orali, o in forma di seminario.
+
+Art. 23. - Coloro che siano forniti di altra laurea o diploma di studi superiori possono essere iscritti, a giudizio della facolta', a un anno di corso non oltre il secondo, salvo i laureati in giurisprudenza e in economia e commercio che possono essere ammessi al terzo anno.
+
+La facolta', tenuto conto degli studi compiuti e degli esami superati, determina il numero minimo degli insegnamenti che devono essere seguiti e formare oggetto di esame.
+
+Art. 24. - L'esame di laurea consiste nella discussione orale su una dissertazione scritta.
+
+Art. 25. - Il tema della dissertazione di laurea deve essere concordata tra il candidato e il professore della materia prescelta, che deve rientrare tra quelle dello indirizzo seguito dallo studente.
+
+Il professore della materia e' tenuto a indirizzare il candidato durante la preparazione della dissertazione.
+
+Art. 26. - Coloro che precedentemente abbiano conseguito una laurea, debbono comunicare alla segreteria della facolta', con dichiarazione della segreteria dell'universita' o dell'istituto superiore da cui provengono, il tema svolto nella dissertazione scritta per l'esame di laurea, essendo vietato di sostenere l'esame di laurea presso la facolta' "Cesare Alfieri" nello stesso argomento.
+
+Art. 27. - Allo scopo di coordinare e sviluppare i vari insegnamenti, di promuovere la ricerca scientifica e per favorire e completare la cultura specifica degli allievi, sono istituiti i seguenti istituti policattedra:
+
+Istituto di diritto pubblico;
+
+Istituto storico-politico;
+
+Istituto di economia;
+
+Istituto di sociologia;
+
+Istituto di scienza della politica.
+
+Art. 28. - La facolta' si riserva di istituire una scuola biennale di scienze politiche e sociali (scuola diretta a fini speciali), aperta a tutti coloro in possesso dei titoli di studio che danno accesso alla laurea in scienze politiche e a coloro che hanno il diploma di abilitazione tecnica o commerciale, il diploma di abilitazione magistrale o altro titolo considerato dal consiglio di facolta' equipollente ai precedenti. Gli studenti dovranno seguire gli insegnamenti e superare gli esami previsti dal piano di studi della facolta' per il primo biennio. Potra' anche essere richiesta, a giudizio della facolta', una dissertazione finale. A coloro che avranno superato le prove di cui sopra, la facolta' rilascera' il "Diploma di scienze politiche e sociali".
+
+Art. 29. - Disposizioni transitorie per gli studenti in corso.
+
+Al momento dell'entrata in vigore del presente ordinamento gli studenti iscritti nei precedenti anni accademici potranno scegliere l'indirizzo in cui intendono conseguire la laurea, e adeguare ad esso i loro piani di studio, tenendo conto degli esami gia' sostenuti. I criteri di adeguamento dal vecchio al nuovo curricolo sono stabiliti dalla facolta'.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 16 gennaio 1969
+
+SARAGAT
+
+SULLO
+
+Visto, il Guardasigilli: GAVA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 19 aprile 1969 Atti del Governo, registro n. 226, foglio n. 78. - GRECO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;   
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;   
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
 Decreta:   
   
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-L'art. 280, relativo alla scuola di specializzazione in radiologia, e' soppresso e sostituito dal seguente:   
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che gli articoli dal 19 al 31, relativi alla facolta' di scienze politiche, "Cesare Alfieri", sono abrogati e sostituiti dai seguenti con il conseguente spostamento della successiva numerazione:   
   
-Scuola di specializzazione in radiologia   
-Art. 280. - La scuola di specializzazione in radiologia ha sede presso l'istituto di radiologia. Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso di diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione per titoli ed esami.   
-Non sono ammesse abbreviazioni di corso.   
-La scuola conferisce i seguenti diplomi:   
-a) diploma di specialista in radiodiagnostica. Gli anni di studio necessari per conseguire questo titolo sono quattro;   
-b) diploma di specialista in radioterapia oncologica. Gli anni di studio necessari per conseguire questo titolo sono quattro.   
-La scuola ha un tronco comune di due anni identico per i diplomi in radiodiagnostica e radioterapia oncologica.   
-Diploma di specialista in radiodiagnostica Programma di insegnamento:   
-1° Anno (comune alla specializzazione in radioterapia oncologica):   
-a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);   
-b) radiobiologia, legislazione e norme generali di radioprotezione;   
-c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;   
-d) nozioni di anatomia e fisiologia generale.   
-2° Anno (comune alla radioterapia oncologica):   
-a) anatomia patologica;   
-b) apparecchiature e tecniche radiologiche;   
-c) semeiotica radiologica (integrata con le semeiotiche cliniche, isotopica e di laboratorio);   
-d) radiopatologia;   
-e) dosimetria applicata.   
-3° Anno:   
-a) tecniche speciali e relativa semeiotica (I);   
-b) radiodiagnostica speciale dei vari organi ed apparati (I). 4° Anno:   
-a) tecniche speciali e relativa semeiotica (temiografia, ecografia, xerografia, TAC) (II);   
-b) radiodiagnostica speciale dei vari organi ed apparati (II).   
-Diploma di specialista in radioterapia oncologica   
-Programma di insegnamento:   
-1° Anno (comune alla specializzazione in radiodiagnostica):   
-a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);   
-b) radiobiologia, legislazione e norme generali di radioprotezione;   
-c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;   
-d) nozioni di anatomia e fisiologia generale.   
-2° Anno (comune alla specializzazione in radiodiagnostica):   
-a) anatomia patologica;   
-b) apparecchiature e tecniche radiologiche;   
-c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);   
-d) radiopatologia;   
-e) dosimetria applicata.   
-3° Anno:   
-a) oncologia generale;   
-b) oncologia clinica (I);   
-c) tecniche radioterapiche (I).   
-4° Anno:   
-a) oncologia clinica (II);   
-b) fondamenti di terapia chirurgica dei tumori;   
-c) radioterapia clinica;   
-d) trattamento del canceroso in fase avanzata.   
-I singoli insegnamenti saranno tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento, secondo un programma da approvarsi annualmente dal consiglio di facolta' su proposta del direttore della scuola.   
-Il numero massimo di iscritti per anno di corso alla scuola e' di sedici, da ripartirsi annualmente fra i due indirizzi di diploma.   
-La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei dal direttore della scuola.   
-L'insegnamento verra' svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento, aperti anche a specialisti, ecc. Gli allievi, per essere ammessi a sostenere gli esami delle singole materie, dovranno avere la firma di frequenza da parte del direttore della scuola stessa.   
-Gli allievi al termine di ogni anno dovranno superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.   
-Gli allievi per conseguire il diploma di specializzazione, oltre ad essere stati approvati in tutti gli esami, dovranno elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.   
+TITOLO III   
+Facolta' di scienze politiche "Cesare Alfieri"   
+  
+Art. 19. - La facolta' di scienze politiche "Cesare Alfieri" conferisce la laurea in scienze politiche. Nel diploma di laurea e' indicato l'indirizzo seguito dal laureato.   
+Art. 20. - La durata del corso degli studi per la laurea in scienze politiche e' di quattro anni.   
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.   
+Gli insegnamenti sono determinati dal seguente piano di studi:   
+  
+1° BIENNIO COMUNE   
+  
+1° Anno:   
+1) Istituzioni di diritto pubblico;   
+2) Storia delle dottrine politiche;   
+3) Economia politica;   
+4) Storia moderna;   
+5) Statistica.   
+2° Anno:   
+1) Diritto costituzionale italiano e comparato;   
+2) Sociologia;   
+3) Scienza della politica;   
+4) Politica economica e finanziaria.   
+Oltre agli insegnamenti obbligatori del primo biennio lo studente potra' anticipare un massimo di tre insegnamenti, scelti tra quelli esistenti in statuto, e resi obbligatori per l'indirizzo prescelto del secondo biennio. Tali insegnamenti anticipati andranno in detrazione dal numero di insegnamenti del biennio di specializzazione.   
+  
+2° BIENNIO   
+  
+Per il secondo biennio sono previsti i seguenti cinque indirizzi:   
+Politico-amministrativo;   
+Politico-economico;   
+Politico-internazionale;   
+Storico-politico;   
+Politico-sociale.   
+Fermi restando gli insegnamenti obbligatori del primo biennio elencati in precedenza, gli insegnamenti che possono essere impartiti o mutuati dalla facolta' in relazione agli indirizzi di cui sopra sono i seguenti:   
+Istituzioni di diritto privato;   
+Diritto amministrativo;   
+Scienza dell'amministrazione;   
+Diritto del lavoro;   
+Istituzioni di diritto e di procedura penale;   
+Diritto finanziario;   
+Diritto tributario;   
+Diritto degli enti locali;   
+Diritto delle comunita' europee;   
+Diritto diplomatico e consolare;   
+Diritto parlamentare;   
+Diritto privato comparato;   
+Diritto pubblico americano;   
+Diritto pubblico dell'economia;   
+Diritto regionale;   
+Istituzioni giuridiche e sociali dell'Europa orientale;   
+Matematica generale;   
+Scienza delle finanze;   
+Economia e politica industriale;   
+Economia dei trasporti;   
+Teoria dello sviluppo economico;   
+Econometria;   
+Economia internazionale;   
+Diritto internazionale;   
+Diritto internazionale privato;   
+Organizzazione internazionale;   
+Organizzazione economica internazionale;   
+Pianificazione e organizzazione territoriale;   
+Programmazione economica;   
+Ricerca operativa;   
+Storia contemporanea;   
+Storia antica;   
+Storia della filosofia;   
+Storia della filosofia moderna e contemporanea;   
+Storia della filosofia politica;   
+Storia delle dottrine economiche;   
+Storia dell'economia;   
+Storia delle istituzioni politiche;   
+Storia dell'amministrazione pubblica;   
+Storia dei partiti e movimenti politici;   
+Storia del giornalismo;   
+Storia americana;   
+Storia dell'Europa orientale;   
+Storia dei movimenti sindacali;   
+Storia delle costituzioni;   
+Storia e istituzioni dei paesi afro-asiatici;   
+Storia e istituzioni dei paesi latino-americani;   
+Storia e istituzioni dell'Europa orientale;   
+Storia moderna e contemporanea;   
+Storia del Risorgimento;   
+Storia medioevale;   
+Storia delle istituzioni religiose;   
+Storia della Chiesa;   
+Storia moderna della Chiesa e delle altre confessioni cristiane;   
+Storia delle relazioni internazionali;   
+Metodologia della ricerca storica;   
+Contabilita' dello Stato e degli enti pubblici;   
+Contabilita' nazionale;   
+Demografia;   
+Geografia politica ed economica;   
+Principi e tecnica delle applicazioni meccanografiche ed elettroniche;   
+Statistica economica;   
+Statistica applicata;   
+Statistica per la ricerca sociale;   
+Filosofia del diritto;   
+Filosofia della politica;   
+Filosofia della scienza;   
+Logica;   
+Filosofia morale;   
+Pedagogia;   
+Dottrina dello stato;   
+Politica comparata;   
+Relazioni internazionali;   
+Antropologia culturale;   
+Metodologia delle scienze sociali;   
+Matematiche per le scienze sociali;   
+Psicologia;   
+Psicologia sociale;   
+Sociologia del lavoro;   
+Sociologia economica;   
+Sociologia dell'organizzazione;   
+Sociologia politica;   
+Sociologia religiosa;   
+Sociologia urbana;   
+Sociologia rurale;   
+Sociologia delle comunita' locali;   
+Sociologia della famiglia;   
+Sociologia della conoscenza;   
+Sociologia dell'educazione;   
+Sociologia delle comunicazioni;   
+Sociologia del diritto;   
+Sociologia dello sviluppo;   
+Storia del pensiero sociologico;   
+Sociologia applicata;   
+Teoria e tecnica delle comunicazioni di massa;   
+Teoria delle organizzazioni complesse;   
+Teoria generale della politica;   
+Teoria e politica dello sviluppo;   
+Teoria generale del diritto;   
+Lingua francese;   
+Lingua inglese;   
+Lingua tedesca;   
+Lingua spagnola;   
+Lingua russa.   
+Per ciascun indirizzo attuato la facolta' stabilisce una lista di non piu' di quindici insegnamenti, entro l'elenco generale delle materie in statuto, che la facolta' si riserva di impartire o mutuare da altre facolta' dello Ateneo fiorentino.   
+All'inizio di ogni anno accademico la facolta' stabilisce e rende note quali degli insegnamenti verranno impartiti durante l'anno, e la durata (pluriennale, annuale, semestrale o trimestrale) degli insegnamenti stessi. La facolta' stabilisce inoltre, indirizzo per indirizzo, quanti e quali insegnamenti siano obbligatori per gli studenti. Gli insegnamenti obbligatori di ciascun indirizzo non potranno essere piu' di sette e meno di quattro. Lo studente dovra' scegliere gli insegnamenti non obbligatori del secondo biennio tra i restanti insegnamenti dell'indirizzo.   
+Per essere ammesso all'esame di laurea, lo studente deve avere seguito i corsi e superato gli esami di ventuno insegnamenti, ivi comprese due lingue straniere.   
+Per tutti gli indirizzi e' obbligatoria la lingua inglese.   
+Per l'indirizzo politico internazionale sono obbligatorie le lingue inglese e francese. Le lingue obbligatorie possono essere anticipate al primo biennio.   
+Per il computo degli esami, la facolta' stabilisce la equivalenza tra i corsi annuali e i corsi frazionali (trimestrali o semestrali) eventualmente impartiti. Qualora la facolta' istituisca corsi biennali o pluriennali di una stessa materia, ogni esame annuale viene computato ai fini del numero minimo di esami sopra stabilito.   
+Art. 21. - Ogni studente prima dell'inizio del terzo anno dovra' prescegliere un indirizzo e formulare il piano di studi, che sottoporra' per l'approvazione alla commissione di indirizzo, formato da un professore di materia obbligatoria nell'indirizzo, un professore o assistente di materia dell'indirizzo, e uno studente laureando iscritto a quell'indirizzo.   
+Lo studente potra' sempre modificare il piano di studio per quanto riguarda le materie a scelta, previo consenso della commissione di indirizzo; potra' anche cambiare indirizzo, accettando di sostenere quegli esami che a tal fine la commissione di indirizzo reputera' necessario.   
+Art. 22. - Gli insegnamenti sono impartiti mediante lezioni, esercitazioni scritte ed orali, o in forma di seminario.   
+Art. 23. - Coloro che siano forniti di altra laurea o diploma di studi superiori possono essere iscritti, a giudizio della facolta', a un anno di corso non oltre il secondo, salvo i laureati in giurisprudenza e in economia e commercio che possono essere ammessi al terzo anno.   
+La facolta', tenuto conto degli studi compiuti e degli esami superati, determina il numero minimo degli insegnamenti che devono essere seguiti e formare oggetto di esame.   
+Art. 24. - L'esame di laurea consiste nella discussione orale su una dissertazione scritta.   
+Art. 25. - Il tema della dissertazione di laurea deve essere concordata tra il candidato e il professore della materia prescelta, che deve rientrare tra quelle dello indirizzo seguito dallo studente.   
+Il professore della materia e' tenuto a indirizzare il candidato durante la preparazione della dissertazione.   
+Art. 26. - Coloro che precedentemente abbiano conseguito una laurea, debbono comunicare alla segreteria della facolta', con dichiarazione della segreteria dell'universita' o dell'istituto superiore da cui provengono, il tema svolto nella dissertazione scritta per l'esame di laurea, essendo vietato di sostenere l'esame di laurea presso la facolta' "Cesare Alfieri" nello stesso argomento.   
+Art. 27. - Allo scopo di coordinare e sviluppare i vari insegnamenti, di promuovere la ricerca scientifica e per favorire e completare la cultura specifica degli allievi, sono istituiti i seguenti istituti policattedra:   
+Istituto di diritto pubblico;   
+Istituto storico-politico;   
+Istituto di economia;   
+Istituto di sociologia;   
+Istituto di scienza della politica.   
+Art. 28. - La facolta' si riserva di istituire una scuola biennale di scienze politiche e sociali (scuola diretta a fini speciali), aperta a tutti coloro in possesso dei titoli di studio che danno accesso alla laurea in scienze politiche e a coloro che hanno il diploma di abilitazione tecnica o commerciale, il diploma di abilitazione magistrale o altro titolo considerato dal consiglio di facolta' equipollente ai precedenti. Gli studenti dovranno seguire gli insegnamenti e superare gli esami previsti dal piano di studi della facolta' per il primo biennio. Potra' anche essere richiesta, a giudizio della facolta', una dissertazione finale. A coloro che avranno superato le prove di cui sopra, la facolta' rilascera' il "Diploma di scienze politiche e sociali".   
+Art. 29. - Disposizioni transitorie per gli studenti in corso.   
+Al momento dell'entrata in vigore del presente ordinamento gli studenti iscritti nei precedenti anni accademici potranno scegliere l'indirizzo in cui intendono conseguire la laurea, e adeguare ad esso i loro piani di studio, tenendo conto degli esami gia' sostenuti. I criteri di adeguamento dal vecchio al nuovo curricolo sono stabiliti dalla facolta'.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 maggio 1979
+### Dato a Roma, addi' 16 gennaio 1969
 
-PERTINI SPADOLINI
+SARAGAT SULLO
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 31 ottobre 1979
+Registrato alla Corte dei conti, addi' 19 aprile 1969
 
-Registro n. 83 Istruzione, foglio n. 70
+Atti del Governo, registro n. 226, foglio n. 78. - GRECO

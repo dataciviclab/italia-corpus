@@ -1,390 +1,55 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 387
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1973 n. 1151
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 387
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1973 n. 1151
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dall'autorita' accademica dell'Universita' anzidetta;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 155 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono apportate le seguenti modifiche:
-
-la scuola di specializzazione in ematologia clinica e di laboratorio muta denominazione in quella di scuola di specializzazione in ematologia generale;
-
-la scuola di specializzazione in gerontologia e geriatria muta la denominazione in quella di scuola di specializzazione in geriatria e gerontologia;
-
-la scuola di specializzazione in odontoiatria e protesi dentaria muta la denominazione in quella di scuola di specializzazione in odontostomatologia.
-
-Gli articoli 237 e 238, relativi alla scuola di specializzazione in odontoiatria e protesi dentaria che muta la denominazione in quella di scuola di specializzazione in odontostomatologia, sono soppressi e sostituiti dai seguenti:
-
-Scuola di specializzazione in odontostomatologia
-
-Art. 237. - Presso l'istituto di clinica odontoiatrica e' istituita la scuola di specializzazione in odontostomatologia, che ha lo scopo di conferire la necessaria competenza a coloro che vogliono particolarmente dedicarsi all'esercizio della odontostomatologia.
-
-Direttore della scuola e' il professore titolare della cattedra di clinica odontoiatrica.
-
-Art. 238. - Il numero massimo di allievi iscrivibili e' di settantacinque complessivamente per l'intero corso degli studi.
-
-La durata del corso di studi e' di tre anni.
-
-Le vacanze sono conformi al calendario universitario con un solo mese completo estivo (agosto).
-
-Ogni iscritto deve provvedere al proprio corredo di strumenti.
-
-Gli articoli 239 e 243, relativi alla predetta scuola di specializzazione in odontostomatologia, sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.
-
-Gli articoli 299, 300 e 301, relativi alla scuola di specializzazione in medicina del lavoro, sono soppressi e sostituiti dai seguenti:
-
-Scuola di specializzazione in medicina del lavoro
-
-Art. 299. - La scuola di specializzazione in medicina del lavoro ha sede presso l'istituto di medicina del lavoro e conferisce il diploma di specializzazione in medicina del lavoro.
-
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
-
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.
-
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
-
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
-
-Il numero massimo degli allievi iscrivibili e' di quaranta complessivamente per l'intero corso di studi.
-
-Art. 300. - Le materie d'insegnamento sono le seguenti:
-
-1° Anno:
-
-igiene del lavoro I;
-
-fisiologia del lavoro ed ergonomia I;
-
-tecnologia industriale;
-
-statistica medica e biometria;
-
-tecniche di laboratorio.
-
-2° Anno:
-
-patologia e clinica delle malattie del lavoro I;
-
-igiene del lavoro II;
-
-fisiologia del lavoro ed ergonomia II;
-
-psicologia del lavoro;
-
-tossicologia industriale.
-
-3° Anno:
-
-patologia e clinica delle malattie del lavoro II;
-
-prevenzione degli infortuni e delle malattie da lavoro I;
-
-epidemiologia delle malattie da lavoro;
-
-radiobiologia e radioprotezione;
-
-dermatologia professionale.
-
-4° Anno:
-
-patologia e clinica delle malattie da lavoro III;
-
-prevenzione degli infortuni e delle malattie da lavoro II;
-
-pronto soccorso;
-
-medicina legale e delle assicurazioni;
-
-organizzazione dei servizi di medicina e igiene del lavoro.
-
-Gli esami delle discipline svolte in corsi pluriennali verranno sostenuti alla fine dell'ultimo anno.
-
-La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.
-
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove d'esame.
-
-Art. 301 - Per quanto concerne l'ammissione alla scuola, la frequenza e le modalita' per il superamento dagli esami di profitto e di diploma, vedansi le norme generali per le scuole di specializzazione della facolta' di medicina e chirurgia contemplata dal presente statuto.
-
-Gli articoli 308 e 312, relativi alla scuola di specializzazione in neuropsichiatria infantile, sono soppressi e sostituiti dai seguenti:
-
-Art. 308. - La durata del corso di studi e' di quattro anni.
-
-Il numero massimo degli iscritti non puo' essere superiore a venti per l'intero corso di studi.
-
-Art. 312. - Per ottenere l'iscrizione al secondo, al terzo ed al quarto anno di specializzazione, gli iscritti dovranno aver sostenuto gli esami delle materie prescritte per l'anno precedente, tranne che per la clinica psichiatrica infantile, il cui esame va sostenuto al quarto anno.
-
-Per conseguire il diploma di specializzazione in neuropsichiatria infantile gli iscritti, al termine degli esami, dovranno presentare e discutere una dissertazione scritta su un argomento di neuropsichiatria infantile.
-
-L'art. 316, relativo alla scuola di specializzazione in ematologia clinica e di laboratorio, che muta la denominazione in quella di scuola di specializzazione in ematologia generale, e' soppresso e sostituito dal seguente:
-
-Art. 316. - Presso l'istituto scientifico di medicina interna e' istituita la scuola di specializzazione in ematologia generale, la quale ha lo scopo di conferire adeguata preparazione teorica e pratica ai laureati in medicina e chirurgia, i quali intendano conseguire il diploma rilasciato dalla scuola stessa.
-
-La scuola ha durata di tre anni.
-
-Il numero massimo degli iscritti e' di trentacinque complessivamente per i tre anni.
-
-L'art. 318, relativo alla suddetta scuola di specializzazione in ematologia generale, e' soppresso con il conseguente spostamento della numerazione degli articoli successivi.
-
-Gli articoli 362, 363 e 364, relativi alla scuola di specializzazione in gerontologia e geriatria che muta denominazione in quella di scuola di specializzazione in geriatria e gerontologia, sono soppressi e sostituiti dai seguenti:
-
-Scuola di specializzazione in geriatria e gerontologia
-
-Art. 362. - La scuola di specializzazione in geriatria e gerontologia ha sede presso l'istituto scientifico di medicina interna e conferisce il diploma di specializzazione in geriatria e gerontologia.
-
-Art. 363. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione, o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
-
-Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
-
-La durata del corso di studi e' di 4 anni e non e' suscettibile di abbreviazioni.
-
-Il numero massimo degli allievi iscrivibili e' di trentasei complessivamente per l'intero corso di studi.
-
-Art. 364. - Le materie d'insegnamento sono le seguenti:
-
-1° Anno:
-
-farmacologia;
-
-principi e tecniche della riabilitazione nella patologia dell'apparato locomotore;
-
-anatomia ed istologia patologica I;
-
-biologia della senescenza I;
-
-fisiopatologia I;
-
-geriatria sociale I;
-
-semeiotica I;
-
-principi e tecniche di materie specialistiche in geriatria I. 2° Anno:
-
-principi e tecniche della riabilitazione cardiovascolare e respiratoria;
-
-anatomia ed istologia patologica II;
-
-biologia della senescenza II;
-
-fisiopatologia II;
-
-geriatria sociale II;
-
-semeiotica II;
-
-radiologia e radioterapia I;
-
-principi e tecniche di materie specialistiche in geriatria II. 3° Anno:
-
-neurologia;
-
-principi e tecniche della riabilitazione neurologica;
-
-psicologia;
-
-radiologia e radioterapia II;
-
-principi e tecniche di materie specialistiche in geriatria III; clinica geriatrica I;
-
-terapia medica I;
-
-pratica geriatrica extraospedaliera I.
-
-4° Anno:
-
-chirurgia geriatrica;
-
-formazione degli operatori geriatrici;
-
-principi e tecniche della riabilitazione nel campo delle funzioni cerebrali superiori;
-
-principi e tecniche di riattivazione, terapia occupazionale, geragogia;
-
-psicogeriatria;
-
-clinica geriatrica II;
-
-terapia medica II;
-
-pratica geriatrica extraospedaliera II.
-
-Per quanto attiene all'ammissione alla scuola, la frequenza e le modalita' per il superamento degli esami annuali e di diploma, vedansi le norme generali per le scuole di specializzazione della facolta' di medicina e chirurgia contemplate dal presente statuto.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 11 maggio 1979
-
-PERTINI
-
-SPADOLINI
-
-Visto, il Guardasigilli: MORLINO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 28 luglio 1979 Registro n. 60 Istruzione, foglio n. 191
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dall'autorita' accademica dell'Universita' anzidetta;   
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 155 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono apportate le seguenti modifiche:   
-la scuola di specializzazione in ematologia clinica e di laboratorio muta denominazione in quella di scuola di specializzazione in ematologia generale;   
-la scuola di specializzazione in gerontologia e geriatria muta la denominazione in quella di scuola di specializzazione in geriatria e gerontologia;   
-la scuola di specializzazione in odontoiatria e protesi dentaria muta la denominazione in quella di scuola di specializzazione in odontostomatologia.   
-Gli articoli 237 e 238, relativi alla scuola di specializzazione in odontoiatria e protesi dentaria che muta la denominazione in quella di scuola di specializzazione in odontostomatologia, sono soppressi e sostituiti dai seguenti:   
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 50 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto il seguente:  
+Terapia pediatrica sistematica.  
+Nello stesso elenco l'insegnamento complementare di "Tisiologia" muta denominazione in "Tisiologia e malattie dell'apparato respiratorio".  
+L'art. 57, relativo al corso di laurea in fisica, e' modificato nel senso che gli ultimi tre commi concernenti le modalita' dell'esame di laurea vengono abrogati e sostituiti dai seguenti:  
   
-Scuola di specializzazione in odontostomatologia   
+L'esame di laurea consiste nella compilazione e discussione di un elaborato scritto su di un tema liberamente scelto dal candidato, ma rispondente, in modo essenziale, ai fini della laurea.  
+Superato l'esame di laurea lo studente consegue il titolo di dottore in fisica, indipendentemente dall'indirizzo prescelto del quale verra' fatta menzione soltanto nella carriera scolastica.  
+L'art. 67, relativo alle modalita' concernenti gli esami di laurea dei corsi di chimica, chimica industriale, scienze naturali, scienze biologiche e scienze geologiche, viene abrogato e sostituito dal seguente:  
   
-Art. 237. - Presso l'istituto di clinica odontoiatrica e' istituita la scuola di specializzazione in odontostomatologia, che ha lo scopo di conferire la necessaria competenza a coloro che vogliono particolarmente dedicarsi all'esercizio della odontostomatologia.   
-Direttore della scuola e' il professore titolare della cattedra di clinica odontoiatrica.   
-Art. 238. - Il numero massimo di allievi iscrivibili e' di settantacinque complessivamente per l'intero corso degli studi.   
-La durata del corso di studi e' di tre anni.   
-Le vacanze sono conformi al calendario universitario con un solo mese completo estivo (agosto).   
-Ogni iscritto deve provvedere al proprio corredo di strumenti.   
-Gli articoli 239 e 243, relativi alla predetta scuola di specializzazione in odontostomatologia, sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.   
-Gli articoli 299, 300 e 301, relativi alla scuola di specializzazione in medicina del lavoro, sono soppressi e sostituiti dai seguenti:   
-  
-Scuola di specializzazione in medicina del lavoro   
-  
-Art. 299. - La scuola di specializzazione in medicina del lavoro ha sede presso l'istituto di medicina del lavoro e conferisce il diploma di specializzazione in medicina del lavoro.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
-Il numero massimo degli allievi iscrivibili e' di quaranta complessivamente per l'intero corso di studi.   
-Art. 300. - Le materie d'insegnamento sono le seguenti:   
-1° Anno:   
-igiene del lavoro I;   
-fisiologia del lavoro ed ergonomia I;   
-tecnologia industriale;   
-statistica medica e biometria;   
-tecniche di laboratorio.   
-2° Anno:   
-patologia e clinica delle malattie del lavoro I;   
-igiene del lavoro II;   
-fisiologia del lavoro ed ergonomia II;   
-psicologia del lavoro;   
-tossicologia industriale.   
-3° Anno:   
-patologia e clinica delle malattie del lavoro II;   
-prevenzione degli infortuni e delle malattie da lavoro I;   
-epidemiologia delle malattie da lavoro;   
-radiobiologia e radioprotezione;   
-dermatologia professionale.   
-4° Anno:   
-patologia e clinica delle malattie da lavoro III;   
-prevenzione degli infortuni e delle malattie da lavoro II;   
-pronto soccorso;   
-medicina legale e delle assicurazioni;   
-organizzazione dei servizi di medicina e igiene del lavoro.   
-Gli esami delle discipline svolte in corsi pluriennali verranno sostenuti alla fine dell'ultimo anno.   
-La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.   
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove d'esame.   
-Art. 301 - Per quanto concerne l'ammissione alla scuola, la frequenza e le modalita' per il superamento dagli esami di profitto e di diploma, vedansi le norme generali per le scuole di specializzazione della facolta' di medicina e chirurgia contemplata dal presente statuto.   
-Gli articoli 308 e 312, relativi alla scuola di specializzazione in neuropsichiatria infantile, sono soppressi e sostituiti dai seguenti:   
-Art. 308. - La durata del corso di studi e' di quattro anni.   
-Il numero massimo degli iscritti non puo' essere superiore a venti per l'intero corso di studi.   
-Art. 312. - Per ottenere l'iscrizione al secondo, al terzo ed al quarto anno di specializzazione, gli iscritti dovranno aver sostenuto gli esami delle materie prescritte per l'anno precedente, tranne che per la clinica psichiatrica infantile, il cui esame va sostenuto al quarto anno.   
-Per conseguire il diploma di specializzazione in neuropsichiatria infantile gli iscritti, al termine degli esami, dovranno presentare e discutere una dissertazione scritta su un argomento di neuropsichiatria infantile.   
-L'art. 316, relativo alla scuola di specializzazione in ematologia clinica e di laboratorio, che muta la denominazione in quella di scuola di specializzazione in ematologia generale, e' soppresso e sostituito dal seguente:   
-Art. 316. - Presso l'istituto scientifico di medicina interna e' istituita la scuola di specializzazione in ematologia generale, la quale ha lo scopo di conferire adeguata preparazione teorica e pratica ai laureati in medicina e chirurgia, i quali intendano conseguire il diploma rilasciato dalla scuola stessa.   
-La scuola ha durata di tre anni.   
-Il numero massimo degli iscritti e' di trentacinque complessivamente per i tre anni.   
-L'art. 318, relativo alla suddetta scuola di specializzazione in ematologia generale, e' soppresso con il conseguente spostamento della numerazione degli articoli successivi.   
-Gli articoli 362, 363 e 364, relativi alla scuola di specializzazione in gerontologia e geriatria che muta denominazione in quella di scuola di specializzazione in geriatria e gerontologia, sono soppressi e sostituiti dai seguenti:   
-  
-Scuola di specializzazione in geriatria e gerontologia   
-  
-Art. 362. - La scuola di specializzazione in geriatria e gerontologia ha sede presso l'istituto scientifico di medicina interna e conferisce il diploma di specializzazione in geriatria e gerontologia.   
-Art. 363. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione, o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di 4 anni e non e' suscettibile di abbreviazioni.   
-Il numero massimo degli allievi iscrivibili e' di trentasei complessivamente per l'intero corso di studi.   
-Art. 364. - Le materie d'insegnamento sono le seguenti:   
-1° Anno:   
-farmacologia;   
-principi e tecniche della riabilitazione nella patologia dell'apparato locomotore;   
-anatomia ed istologia patologica I;   
-biologia della senescenza I;   
-fisiopatologia I;   
-geriatria sociale I;   
-semeiotica I;   
-principi e tecniche di materie specialistiche in geriatria I. 2° Anno:   
-principi e tecniche della riabilitazione cardiovascolare e respiratoria;   
-anatomia ed istologia patologica II;   
-biologia della senescenza II;   
-fisiopatologia II;   
-geriatria sociale II;   
-semeiotica II;   
-radiologia e radioterapia I;   
-principi e tecniche di materie specialistiche in geriatria II. 3° Anno:   
-neurologia;   
-principi e tecniche della riabilitazione neurologica;   
-psicologia;   
-radiologia e radioterapia II;   
-principi e tecniche di materie specialistiche in geriatria III; clinica geriatrica I;   
-terapia medica I;   
-pratica geriatrica extraospedaliera I.   
-4° Anno:   
-chirurgia geriatrica;   
-formazione degli operatori geriatrici;   
-principi e tecniche della riabilitazione nel campo delle funzioni cerebrali superiori;   
-principi e tecniche di riattivazione, terapia occupazionale, geragogia;   
-psicogeriatria;   
-clinica geriatrica II;   
-terapia medica II;   
-pratica geriatrica extraospedaliera II.   
-Per quanto attiene all'ammissione alla scuola, la frequenza e le modalita' per il superamento degli esami annuali e di diploma, vedansi le norme generali per le scuole di specializzazione della facolta' di medicina e chirurgia contemplate dal presente statuto.   
+L'esame di laurea per i corsi di scienze naturali, biologiche e geologiche consiste nella discussione di una dissertazione scritta e di una tesi orale svolte dal candidato in temi relativi ad insegnamenti fondamentali o complementari propri della laurea cui egli aspira.  
+L'argomento della tesi orale deve riferirsi a materia diversa da quella in cui e' stata compilata la dissertazione scritta. L'esame di laurea per i corsi di chimica e chimica industriale consiste nella discussione di una dissertazione scritta svolta dal candidato in tema relativo ad insegnamento fondamentale o complementare propri della laurea cui egli aspira.  
+Per i corsi di laurea in scienze biologiche ed in scienze geologiche la tesi a carattere sperimentale puo' essere fatta, previa autorizzazione della facolta', anche in collaborazione; tuttavia la discussione deve essere sempre individuale.  
+Nella tesi deve essere, pero', chiaramente indicato il contributo di tutti i singoli collaboratori.  
+L'art. 414, relativo all'ammontare delle tasse che gli iscritti alla scuola per tecnici testisti (scuola diretta a fini speciali), sono tenuti a pagare, e' modificato nel senso che viene aggiunto il seguente nuovo comma:  
+"Coloro i quali, ritenuti idonei sulla base di esami e di titoli attestanti una preparazione nel campo scientifico, siano ammessi direttamente al secondo anno dovranno pagare un contributo differenziale di L. 40.000, pari ai contributi stabiliti per il primo anno di frequenza".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 maggio 1979
+### Dato a Roma, addi' 16 ottobre 1973
 
-PERTINI SPADOLINI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 28 luglio 1979
+Registrato alla Corte dei conti, addi' 28 ottobre 1974
 
-Registro n. 60 Istruzione, foglio n. 191
+Atti di Governo, registro n. 6, foglio n. 64. - SCIARRETTA

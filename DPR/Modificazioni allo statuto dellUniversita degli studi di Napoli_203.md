@@ -1,73 +1,170 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1954 n. 1458
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1984 n. 1179
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1954 n. 1458
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1984 n. 1179
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli, studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con i [regi decreti 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;1904); [4 maggio 1942, n. 557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-05-04;557); [5 settembre 1942, n. 1120, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-09-05;1120) [26 febbraio 1949, n. 612](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;612); [23 settembre 1949, n. 931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;931); [30 ottobre 1949, n. 1059](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1059); [5 aprile 1950, n. 284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-04-05;284); [30 ottobre 1950, n. 1277](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1277); [31 ottobre 1950, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1311); [18 aprile 1951, n. 934](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;934); [30 luglio 1951, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-07-30;1304); [27 ottobre 1951, n. 1680](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1680); [19 settembre 1952, n. 4551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-19;4551); [25 agosto 1953, n. 1117](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;1117); [26 aprile 1954, n. 738](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;738); [30 giugno 1954, n. 753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;753); [31 luglio 1954, n. 865](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-07-31;865) e [24 agosto 1954, n. 987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-08-24;987);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
+Art. 222 - il testo a partire da: "Al secondo anno vengono inoltre aggiunti i seguenti insegnamenti: ..." fino al termine e' soppresso e sostituito come segue:   
+"Al secondo anno vengono inoltre aggiunti i seguenti insegnamenti: per il corso di laurea in ingegneria civile edile:   
+10) disegno II (civile);   
+per il corso di laurea in ingegneria civile idraulica:   
+10) topografia (insegnamento del triennio obbligatorio sul piano nazionale);   
+per il corso di laurea in ingegneria civile trasporti:   
+10) probabilita' e statistica (insegnamento del triennio obbligatorio sul piano della facolta);   
+per i corsi di laurea in ingegneria aeronautica e navale e meccanica: 10) chimica applicata (insegnamento del triennio obbligatorio sul piano nazionale);   
+per il corso di laurea in ingegneria meccanica:   
+10) programmazione dei calcolatori elettronici (insegnamento del triennio obbligatorio della facolta);   
+per il corso di laurea in ingegneria chimica: 10) chimica II (insegnamento del triennio sul piano della facolta);   
+per il corso di laurea in ingegneria navale e meccanica: 11) tecnologie generali dei materiali (insegnamento del triennio obbligatorio sul piano della facolta);   
+per il corso di laurea in ingegneria
+
+((elettrotecnica))
+
+:   
+10) programmazione dei calcolatori elettronici (insegnamento del triennio obbligatorio sul piano della facolta)".   
+Art. 224 - nell'elenco degli insegnamenti obbligatori sul piano nazionale del corso di laurea in ingegneria civile sezione idraulica e' soppresso l'insegnamento di "topografia".   
+Nell'art. 226, concernente gli insegnamenti per il conseguimento della laurea in ingegneria meccanica, all'elenco degli insegnamenti obbligatori sul piano nazionale e' aggiunto l'insegnamento di "chimica applicata"; nell'elenco degli insegnamenti obbligatori sul piano della facolta' sono soppressi gli insegnamenti di:   
+chimica industriale;   
+programmazione dei calcolatori elettronici;   
+metallurgia e metallografia,   
+
+((Misure e norme di collaudo))
+
+;   
+e sono inseriti i seguenti insegnamenti:   
+complementi di matematica;   
+meccanica delle vibrazioni.   
+Inoltre il numero degli insegnamenti a scelta tratti dall'elenco di cui all'art. 232, raggruppati a costituire gli indirizzi di specializzazione, e' modificato da "cinque" a "sei".   
+Art. 227 - nell'elenco degli insegnamenti obbligatori sul piano della facolta' del corso di laurea in ingegneria
+
+((elettrotecnica))
+
+e' soppresso l'insegnamento di "programmazione dei calcolatori elettronici".   
+Nell'art. 228, concernente il corso di laurea in ingegneria chimica, all'elenco degli insegnamenti obbligatori sul piano nazionale e' aggiunto l'insegnamento di "chimica fisica"; nell'elenco degli insegnamenti obbligatori sul piano della facolta' sono soppressi gli insegnamenti di:   
+chimica II;   
+misure e controllo;   
+ed e' inserito l'insegnamento di "dinamica e controllo dei processi chimici".   
+Art. 229 - nell'elenco degli insegnamenti obbligatori sul piano della facolta' del corso di laurea in ingegneria navale e meccanica l'insegnamento di "macchine marine" cambia la denominazione in quella di "impianti di propulsione navale".   
+Art. 230 - all'elenco degli insegnamenti obbligatori sul piano della facolta' del corso di laurea in ingegneria aeronautica e' aggiunto l'insegnamento di "programmazione dei calcolatori elettronici".   
+Inoltre il numero degli insegnamenti a scelta tratti dall'elenco di cui all'art. 232, raggruppati a costituire gli indirizzi di specializzazione, e' modificato da "sei" a "cinque".   
+Art. 231 - all'elenco degli insegnamenti obbligatori sul piano della facolta' del corso di laurea in ingegneria elettronica e' aggiunto l'insegnamento di "calcolatori elettronici".   
+Inoltre il numero degli insegnamenti a scelta tratti dall'elenco di cui all'art. 232, raggruppati a costituire gli indirizzi di specializzazione, e' modificato da "sei" a "cinque".   
+Art. 232 - nell'elenco degli insegnamenti a scelta dello studente sono soppressi i seguenti insegnamenti:   
+analisi e simulazione dei processi;   
+apparecchiature elettriche ausiliarie;   
+applicazioni di elettronica;   
+calcolatori elettronici;   
+chimica analitica e strumentazione;   
+complementi di controllo;   
+dinamica del volo spaziale;   
+elementi costruttivi di missili;   
+elettronica delle forme d'onde;   
+estimo navale;   
+fisica III;   
+impianti per la produzione di energia;   
+Impianti termotecnici;   
+meccanica dei mezzi plurifasici;   
+organizzazione dei servizi aerei;   
+progetto di macchine marine;   
+regolazione e controlli industriali;   
+sistemi oleodinamici e pneumatici;   
+stabilita' dell'equilibrio e calcolo delle strutture in tecnica del freddo;   
+tecniche di controllo dei processi aleatori;   
+teoria e tecnica delle vibrazioni.   
+Sono aggiunti i seguenti insegnamenti:   
+affidabilita' e sicurezza nell'industria chimica;   
+analisi dei sistemi elettrici di potenza;   
+analisi strumentale e prove su materiali;   
+complementi di controlli;   
+complementi di meccanica applicata alle macchine;   
+controllo dei sistemi stocastici;   
+elaborazione dei dati biomedici;   
+energetica;   
+impianti di condizionamento;   
+microelettronica;   
+tecnica del controllo ambientale;   
+teoria delle onde e comportamento della nave in mare ondoso;   
+impianti navali;   
+metallurgia e metallografia;   
+misure e norme di collaudo.   
+Inoltre nel medesimo elenco e' modificata la denominazione dei seguenti insegnamenti come segue:   
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+
+|  |  |
+| --- | --- |
+| Da | A |
+| Cinetica chimica | Ingegneria delle reazioni chimiche |
+| Cinetica diffusionale | Principi di ingegneria biochimica |
+| Fenomeni di trasporto in fluidi | Principi di ingegneria chimica II |
+| Da | A |
+| Misure elettriche II (collaudi) | Misure sulle macchine e gli impianti elettrici |
+| Sicurezza delle navi nucleari | Sicurezza della nave |
+| Tribologia | Tribologia e lubrificazione |
+| Conversione statica dell'energia | Conversione statica della energia elettrica |
+
   
-Dopo l'art. 304, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della "Scuola di perfezionamento in ortopedia e traumatologia".  
   
-Scuola di perfezionamento in ortopedia e traumatologia  
   
-Art. 305. - Alla Facolta' di medicina e chirurgia e' annessa la scuola di perfezionamento in ortopedia e traumatologia, che ha sede presso l'Istituto di clinica ortopedica.  
-La durata del corso degli studi per il conseguimento del diploma di specialista in ortopedia e traumatologia e' di tre anni.  
-Le iscrizioni non potranno superare il numero di cinque per ciascun anno. La scelta dei candidati all'ammissione sara' fatta in base a concorso per titoli e per esami. Gli aspiranti hanno l'obbligo di accertarsi presso la clinica della data del concorso.  
-La frequenza ai corsi e' obbligatoria; in mancanza non potra' ottenersi l'attestazione di frequenza, necessaria per l'ammissione agli esami.  
-Art. 306. - Le materie di insegnamento sono le seguenti:  
-1° anno:  
-1) Chirurgia infantile (annuale);  
-2) Pediatria ortopedica (annuale);  
-3) Neuropatologia dell'apparato motore (annuale);  
-4) Patologia speciale delle lesioni, malattie e deformita' congenite ed acquisite del sistema locomotore (biennale);  
-5) Anatomia chirurgica ortopedica (biennale);  
-6) Tecnica degli apparecchi (triennale);  
-7) Clinica ortopedica e traumatologica (triennale).  
-2° anno:  
-1) Anatomia patologica dello scheletro e delle articolazioni (annuale);  
-2) Anatomia radiologica, e radiodiagnostica dello scheletro (annuale);  
-3) Patologia speciale delle lesioni, malattie e deformita' congenite ed acquisite dell'apparato locomotore (biennale);  
-4) Anatomia chirurgica ortopedica (biennale);  
-5) Tecnica degli apparecchi (triennale);  
-6) Clinica ortopedica e traumatologica (triennale).  
-3° anno:  
-1) Fisioterapia e studio delle protesi (annuale);  
-2) Infortunistica (annuale);  
-3) Tecnica degli apparecchi (triennale);  
-4) Clinica ortopedica e traumatologica (triennale).  
-Art. 307.- Gli esami (tre al termine del 1° anno di corso, quattro al 2° anno di corso e quattro al 3° anno di corso) debbono essere sostenuti alla fine dell'anno accademico.  
-Art. 308.- Non possono ottenere l'iscrizione al 2° e 3° anno coloro che non hanno superato gli esami rispettivamente del 1° e 2° anno.  
-Art. 309. - Per conseguire il diploma di specialista in ortopedia e traumatologia, gli iscritti, al termine degli studi, dovranno presentare e discutere una dissertazione originale scritta e sostenere una prova pratica dinanzi ad una Commissione formata da insegnanti della scuola secondo le norme dell'art. 173 dello statuto.  
+  
+L'insegnamento di "teoria e tecnica delle vibrazioni" cambia la denominazione in quella di "meccanica delle vibrazioni" ed e' eliminato dall'art. 232 e trasferito nell'art. 226.   
+Gli articoli 233, 234 e 235, sono soppressi e sostituiti come appresso:   
+Art. 233. - Per essere ammesso all'esame di laurea, lo studente deve avere seguito i corsi e superato gli esami delle materie contenute nell'ultimo piano di studi approvato, qualora non segua il piano di studio previsto dall'ordinamento didattico vigente - tabella XXIX.   
+Art. 234. - Gli esami di profitto consistono di norma in una prova orale sulle materie e in una discussione sui risultati delle esercitazioni e sui progetti.   
+L'esame di laurea consiste nella discussione di elaborati all'uopo preparati dai candidati.   
+Le modalita' di svolgimento degli elaborati e dell'esame di laurea sono stabilite dal consiglio di facolta' con apposito regolamento, nel rispetto di quanto stabilito dal R.S. n. 1269 del 4 giugno 1938.   
+Art. 235. - Per i laureati che intendono conseguire presso la facolta' di ingegneria una seconda laurea il consiglio di facolta' da' luogo alla convalida di esami sostenuti e fissa l'anno di iscrizione. Tale procedura vale anche per gli studenti che intendono trasferirsi da altra facolta' o passare da uno ad altro corso di laurea della facolta' di ingegneria.   
+Fermo resta che per i laureati la durata complessiva degli studi, tenuto conto degli anni gia' seguiti nel corso di laurea di provenienza, non puo' essere inferiore a sei anni.   
+Nell'art. 240, concernente gli istituti della facolta' di ingegneria, il secondo comma e' soppresso e sostituito come segue:   
+"Per il funzionamento e l'organizzazione dei suddetti istituti polidisciplinari, si fa rinvio a quanto stabilito in materia dall'[art. 88 del decreto del Presidente della Repubblica 11 luglio 1982, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-07-11;382~art88)".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Dogliani, addi' 29 ottobre 1954
+### Dato a Roma, addi' 30 ottobre 1984
 
-EINAUDI ERMINI
+PERTINI
 
-Visto, il Guardasigilli: DE PIETRO
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 14 marzo 1955
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Atti del Governo, registro n. 89, foglio n. 94. - CARLOMAGNO
+Registrato alla Corte dei conti, addi' 11 aprile 1985
+
+Registro n. 22 Istruzione, foglio n. 145

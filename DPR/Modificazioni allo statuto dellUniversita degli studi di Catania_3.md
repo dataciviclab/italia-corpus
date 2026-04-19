@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 1057
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1950 n. 1305
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 1057
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1950 n. 1305
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
@@ -10,55 +10,150 @@ Modificazioni allo statuto dell'Universita' degli studi di Catania.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regi decreti 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-16;1527), [15 aprile 1942, n. 424](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;424), [5 settembre 1942, n. 1235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1235), [24 ottobre 1942, n. 1596, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1596) [22 ottobre 1946, n. 423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-10-22;423) e modificato ulteriormente con [decreti del Presidente della Repubblica 20 luglio 1948, n. 1160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-07-20;1160), [30 ottobre 1949, n. 994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;994) e [30 ottobre 1949, n. 1167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1167);
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Catania, e' cosi' ulteriormente modificato:
 
-Articolo unico
---------------
+Attuale art. 26. - Alle materie complementari aggiunto il seguente insegnamento:
 
+26. Paletnologia.
+
+Attuale art. 48. - Alle materie complementari e' aggiunto il seguente insegnamento:
+
+6. Spettroscopia.
+
+Attuale art. 126. - Il secondo comma e' sostituito dal seguente:
+
+La scuola, puo' accogliere non piu' di dieci iscritti per il primo, dieci per il secondo anno di corso e otto per il terzo anno".
+
+All'elenco delle scuole di specializzazione in medicina e chirurgia, e' aggiunta la seguente scuola:
+
+5. Scuola di specializzazione in malattie veneree e della pelle.
+
+Scuola di specializzazione in malattie veneree e della pelle.
+
+Art. 135. - La scuola di specializzazione in malattie veneree e della pelle e' di tre anni.
+
+La scuola non puo' accogliere piu' di cinque allievi per ciascun anno di corso.
+
+Art. 136. - Gli insegnamento impartiti nella scuola sono:
+
+1) anatomia della cute, delle mucose e dell'apparato genito-urinario;
+
+2) fisiopatologia della cute, delle mucose e dello apparato genito-urinario;
+
+3) semejotica generale, patologia e clinica dermatologica;
+
+4) semejotica, generale, patologia e clinica delle malattie veneree e sifilitiche;
+
+5) urologia;
+
+6) igiene, profilassi e disposizioni legislative delle malattie veneree e cutanee;
+
+7) sifilide del sistema nervoso;
+
+8) terapia fisica specialistica;
+
+9) terapia generale specialistica (medica e chirurgica);
+
+10) istologia patologica specialistica della cute e delle mucose (prove pratiche ed esami di laboratorio);
+
+11) microbiologia dermovenereologica (con prove pratiche ed esami di laboratorio);
+
+12) parassitologia dermovenereologica (con prove pratiche ed esami di laboratorio);
+
+13) sierologia specialistica (con prove pratiche ed esami di laboratorio);
+
+14) chimica biologica specialistica (con prove pratiche ed esami di laboratorio).
+
+Anche per questa scuola valgono le norme delle altre scuole di specializzazione gia' in funzione.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 30 ottobre 1950
+
+EINAUDI
+
+GONELLA
+
+Visto, il Guardasigilli: PICCIONI
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 30 ottobre 1951 Atti del Governo, registro n. 45, foglio n. 52. - FRASCA
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Nell'art. 31, relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-epigrafia ed istituzioni greche;  
-epigrafia e istituzioni romane.  
-Nell'art. 44, relativo al corso di laurea in lingue e letterature straniere moderne, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-didattica delle lingue moderne.  
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regi decreti 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-16;1527), [15 aprile 1942, n. 424](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;424), [5 settembre 1942, n. 1235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1235), [24 ottobre 1942, n. 1596, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1596) [22 ottobre 1946, n. 423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-10-22;423) e modificato ulteriormente con [decreti del Presidente della Repubblica 20 luglio 1948, n. 1160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-07-20;1160), [30 ottobre 1949, n. 994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;994) e [30 ottobre 1949, n. 1167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1167);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' di Catania, e' cosi' ulteriormente modificato:  
+Attuale art. 26. - Alle materie complementari aggiunto il seguente insegnamento:  
+26. Paletnologia.  
+Attuale art. 48. - Alle materie complementari e' aggiunto il seguente insegnamento:  
+6. Spettroscopia.  
+Attuale art. 126. - Il secondo comma e' sostituito dal seguente:  
+  
+La scuola, puo' accogliere non piu' di dieci iscritti per il primo, dieci per il secondo anno di corso e otto per il terzo anno".  
+All'elenco delle scuole di specializzazione in medicina e chirurgia, e' aggiunta la seguente scuola:  
+5. Scuola di specializzazione in malattie veneree e della pelle.  
+  
+Scuola di specializzazione in malattie veneree e della pelle.  
+  
+Art. 135. - La scuola di specializzazione in malattie veneree e della pelle e' di tre anni.  
+La scuola non puo' accogliere piu' di cinque allievi per ciascun anno di corso.  
+Art. 136. - Gli insegnamento impartiti nella scuola sono:  
+1) anatomia della cute, delle mucose e dell'apparato genito-urinario;  
+2) fisiopatologia della cute, delle mucose e dello apparato genito-urinario;  
+3) semejotica generale, patologia e clinica dermatologica;  
+4) semejotica, generale, patologia e clinica delle malattie veneree e sifilitiche;  
+5) urologia;  
+6) igiene, profilassi e disposizioni legislative delle malattie veneree e cutanee;  
+7) sifilide del sistema nervoso;  
+8) terapia fisica specialistica;  
+9) terapia generale specialistica (medica e chirurgica);  
+10) istologia patologica specialistica della cute e delle mucose (prove pratiche ed esami di laboratorio);  
+11) microbiologia dermovenereologica (con prove pratiche ed esami di laboratorio);  
+12) parassitologia dermovenereologica (con prove pratiche ed esami di laboratorio);  
+13) sierologia specialistica (con prove pratiche ed esami di laboratorio);  
+14) chimica biologica specialistica (con prove pratiche ed esami di laboratorio).  
+Anche per questa scuola valgono le norme delle altre scuole di specializzazione gia' in funzione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 ottobre 1986
+### Dato a Roma, addi' 30 ottobre 1950
 
-COSSIGA
+EINAUDI GONELLA
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: PICCIONI
 
-Visto, il Guardasigilli; ROGNONI
+Registrato alla Corte dei conti, addi' 30 ottobre 1951
 
-Registrato alla Corte dei conti, addi' 24 marzo 1987
-
-Registro n. 18 Istruzione, foglio n. 120
+Atti del Governo, registro n. 45, foglio n. 52. - FRASCA

@@ -1,59 +1,94 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1195
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1961 n. 1408
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1195
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1961 n. 1408
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successivi;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:
+
+Art. 108. Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di:
+
+23) Istituzioni di patologia generale;
+
+24) Genetica umana;
+
+25) Statistica sanitaria;
+
+26) Tossicologia.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1961
+
+GRONCHI
+
+BOSCO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 5 gennaio 1962 Atti del Governo, registro n. 143, foglio n. 18. - VILLA
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli 307 e 308, relativi alla scuola di perfezionamento in filologia moderna, sono abrogati e sostituiti dal seguente articolo:   
-Art. 307. - Il consiglio direttivo della scuola, formate da tutti i docenti dell'istituto di filologia moderna, stabilisce ogni anno il programma dei corsi e dei seminari che, nell'ambito delle materie attinenti alla filosofia moderna, saranno tenuti da docenti dell'Istituto o a cio' espressamente invitati. I corsi avranno durata annuale o semestrale e potranno essere integrati da cicli piu' brevi.   
-Gli iscritti dovranno ottenere alla fine di ogni anno un attestato di frequenza e di partecipazione attiva ai seminari; tale attestato non sara' concesso a chi risultera' assente a piu' di un quarto delle sedute.   
-Per il conseguimento del diploma sono richiesti due attestati annuali di frequenza e partecipazione e la presentazione e discussione di un lavoro scientifico originale.   
-L'art. 347, relativo alla scuola di perfezionamento in storia dell'arte medioevale e moderna, e' abrogato e sostituito dal seguente:   
-"E' titolo necessario per l'ammissione alla scuola di perfezionamento la laurea in lettere o in filosofia o in lingue e letterature moderne straniere d'indirizzo europeo, o in architettura o in sociologia o in scienze sociali. Possono essere ammessi anche i laureati in materie letterarie o in pedagogia presso i magisteri.  
-L'ammissione alla scuola si consegue in base al risultato positivo di un colloquio sostenuto dinanzi ad una commissione di professori designati dal comitato direttivo della scuola e volto ad accertare la preparazione in storia dell'arte degli aspiranti e le loro attitudini alla ricerca".   
-Art. 348 - all'elenco degli insegnamenti della scuola di perfezionamento in storia dell'arte medioevale e moderna sono inclusi quelli di:   
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:  
   
-Storia dell'arte contemporanea;   
-Legislazione e amministrazione del patrimonio artistico.   
-  
-Nello stesso articolo il penultimo comma viene abrogato e sostituito dal seguente:   
-"Tre di tali materie, a scelta degli allievi, sono oggetto di esami biennali; tutte le altre sono oggetto di esami annuali".   
-L'art. 349, relativo alla scuola di perfezionamento in storia dell'arte medioevale e moderna, viene abrogato e sostituito dal seguente:   
-"Direttore della scuola di perfezionamento e' il direttore dell'istituto di storia dell'arte medioevale e moderna della facolta' di lettere, coadiuvato da un comitato direttivo del quale fanno parte: a) i titolari di ruolo delle cattedre di storia dell'arte medioevale e moderna della facolta'; b) i professori fuori ruolo di storia dell'arte medioevale e moderna della facolta'; c) il titolare di ruolo della cattedra di archeologia e storia dell'arte antica della facolta'; d) professori aggregati di discipline storico-artistiche della facolta'".   
-L'art. 351, relativo alla scuola di perfezionamento in storia dell'arte medioevale e moderna, viene abrogato e sostituito dal seguente:   
-"Per conseguire il diploma di perfezionamento, gli allievi dovranno presentare una dissertazione scritta, frutto di studi e di ricerche personali in una qualsiasi delle materie di insegnamento, eccettuate quelle per le quali esistono nell'Universita' di Napoli scuole di perfezionamento specifiche".   
+Art. 108. Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di:  
+23) Istituzioni di patologia generale;  
+24) Genetica umana;  
+25) Statistica sanitaria;  
+26) Tossicologia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1973
+### Dato a Roma, addi' 31 ottobre 1961
 
-LEONE MALFATTI
+GRONCHI BOSCO
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 19 novembre 1974
+Registrato alla Corte dei conti, addi' 5 gennaio 1962
 
-Atti di Governo, registro n. 6, foglio n. 135. - SCIARRETTA
+Atti del Governo, registro n. 143, foglio n. 18. - VILLA

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1980 n. 95
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1980 n. 908
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1980 n. 95
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1980 n. 908
+==============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-95. Decreto del Presidente della Repubblica 22 gennaio 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in azioni, obbligazioni e libretto di deposito, del valore complessivo lire 19.209.319, disposto dalla sig.ra Maria Zavater ved. Galli con testamento olografo 23 giugno 1975, pubblicato in data 14 luglio 1977, n. 43403 di repertorio, a rogito dott. Mario Matricardi, notaio in Verbania-Pallanza (Novara), registrato a Verbania in data 26 luglio 1977, n. 1750, mod. I, vol. 161.  
+908. Decreto del Presidente della Repubblica 30 ottobre 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di lire 10.000.000, disposto a favore del centro pilota "Pro juventute a beneficio dei mutilatini di don Gnocchi" che si identifica nella fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, dalla sig.ra Saltamerenda Jole in Sirtoli con testamento olografo 12 maggio 1972 pubblicato a rogito dott. Enrico Masini, notaio in Milano, in data 10 novembre 1978, n. 48578 di rep. e n. 13212 progress., registrato a Milano il 17 novembre 1978 al n. 19567, serie H.  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 21 marzo 1980  
-Registro n. 2 Presidenza, foglio n. 342
+Visto, il Guardasigilli: SARTI  
+Registrato alla Corte dei conti, addi' 20 dicembre 1980  
+Registro n. 9 Presidenza, foglio n. 188

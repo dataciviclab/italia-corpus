@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 945
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 340
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 945
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 340
+=============================================================
 
 Autorizzazione alla fondazione "Clinica del lavoro", in Pavia, ad acquistare un immobile.
 -----------------------------------------------------------------------------------------
@@ -12,19 +12,8 @@ Art. 1
 
 N.
 
-945. Decreto del Presidente della Repubblica 11 ottobre 1984, col quale, sulla proposta del Ministro della sanita', la fondazione   
-"Clinica del lavoro", in Pavia, viene autorizzata ad acquistare: al   
-prezzo di lire 10 milioni, un appezzamento di terreno, di   
-proprieta' dei signori Antonio Bruno Scarabelli e Felice Scarabelli   
-sito nel comune di Montescano (Pavia), distinto in catasto al   
-foglio 1, mappale 348/b ed esteso Ha 0.14.00, necessario alla   
-fondazione per l'ampliamento del proprio centro medico di   
-riabilitazione di Montescano; al prezzo di lire 20 milioni, il   
-diritto di edificabilita', su altri due terreni, appartenenti agli stessi proprietari, e distinti in catasto alla partita 1086, foglio   
-1, mappale 347 di Ha 0.78.46 e alla partita 13224, foglio 1,   
-mappale 348/a di Ha 0.15.94, sempre in vista dell'ampliamento del centro medico su menzionato, il tutto come da atto di compravendita   
-7 agosto 1981, numero 20952/4744 di repertorio, a rogito avv. Ugo Reitano, notaio in Mede, registrato a Mede in data 27 agosto 1981 al n. 1076.   
+340. Decreto del Presidente della Repubblica 26 aprile 1984, col quale, sulla proposta del Ministro della sanita', la fondazione "Clinica del lavoro", in Pavia, viene autorizzata ad acquistare, al prezzo di lire 180 milioni, un caseggiato con terreno circostante sito in contrada Nisco del comune di Cassano delle Murge (Bari), censito al nuovo catasto terreni alla partita 13578, foglio 39, particella 117, di proprieta' della provincia napoletana detta "Regni" dell'ordine dei frati predicatori di Napoli, come da atto di compravendita 2 settembre 1982, n. 21858 di repertorio, a rogito dott. Antonio de Luise, notaio in Santerano in Colle, registrato a Gioia del Colle in data 22 settembre 1982 al n. 6881, da destinare per l'ampliamento del centro medico di Cassano delle Murge.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 12 gennaio 1985   
-Registro n. 1 Sanita', foglio n. 14
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 30 giugno 1984  
+Registro n. 5 Sanita', foglio n. 185

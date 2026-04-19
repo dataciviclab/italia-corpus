@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1981 n. 769
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 aprile 1977 n. 362
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1981 n. 769
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 aprile 1977 n. 362
 =============================================================
 
 Autorizzazione all'Ente nazionale ACLI per l'istruzione professionale, in Roma, ad acquistare un immobile.
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-769. Decreto del Presidente della Repubblica 6 giugno 1981, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Ente nazionale ACLI per l'istruzione professionale (ENAIP), in Roma, viene autorizzato ad acquistare, al prezzo di L. 45.000.000, un appartamento al piano terreno di complessivi vani nove, sito in Genova, salita S. Brigida, n. 8/1, censito al nuovo catasto edilizio urbano alla cat. 110873, sezione G.C.A., foglio n. 79, mappale 359-sub 15 di proprieta' della societa' semplice "S.  
-Giuseppe lavoratore", in Genova, come da atto di compravendita 1 aprile 1977, n. 126469/29520 di repertorio, a rogito dott. Giuseppe Intersimone, notaio in Roma, registrato a Roma in data 12 aprile 1977, da adibire a sede per gli uffici regionali dell'ente in Liguria operanti per la formazione professionale.  
+362. Decreto del Presidente della Repubblica 1 aprile 1977, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Ente nazionale ACLI per l'istruzione professionale (E.N.A.I.P.), in Roma, viene autorizzato ad acquistare, al prezzo di L. 9.870.000, dalla S.p.a. Giovanni Lanzillotto e C. nelle persone dei liquidatori signori Giovanni Lanzillotto, Carmelo Lanzillotto e Antonietta Ramundo ved. Lanzillotto, l'appezzamento di suolo nudo a forma quadrangolare, esteso 987 mq situato nel comune di Galatone (Lecce), localita' Vasce, e i cui lati misurano, in senso orario, mt 31,25 per mt 27,50, per mt 31,20, e riportato nel nuovo catasto terreni alle partite 1580 e 4335, pt. 302, 342, 343, foglio mappale 24, allo scopo di destinare il suolo all'espansione delle attivita' di formazione professionale dell'Ente medesimo che risulta proprietario di limitrofo appezzamento terriero con annesso fabbricato.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 16 dicembre 1981  
-Registro n. 1 Lavoro, foglio n. 163
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 2 luglio 1977  
+Registro n. 1 Lavoro, foglio n. 24

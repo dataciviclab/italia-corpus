@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1985 n. 799
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1979 n. 455
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1985 n. 799
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1979 n. 455
+=============================================================
 
 Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare una donazione.
 ------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-799. Decreto del Presidente della Repubblica 2 settembre 1985, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare la donazione - consistente nella somma di L. 150.000.000, che dovra' essere utilizzata, secondo espressa volonta' del donante, per l'acquisto di un apparecchio per analisi cliniche del tipo Astra 8 della Beckman Analytical S.p.a., da destinarsi al gruppo donatori sangue della C.R.I., sito in Roma, via Ramazzini n. 31, sul quale dovra' essere apposta una targa a ricordo dell'intervento del donante in favore della C.R.I. - disposta dalla Cassa di risparmio di Roma, con atto 17 giugno 1983 n. 2406 di repertorio, a rogito dott.ssa Marina Fanfani, notaio in Roma, e registrato a Roma in data 27 giugno 1983 al n. 25100.   
+455. Decreto del Presidente della Repubblica 3 luglio 1979, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare la donazione disposta dal comune di Lodi (Milano) con atto redatto dal segretario generale reggente del comune in data 16 dicembre 1975, n. 1183 di repertorio, registrato a Lodi il 26 gennaio 1976 al n. 484 reg. gen. d'ordine, n. 575 reg. part., consistente in una area edificabile di mq 2.000 circa, identificata dai mappali 98 e 99 del foglio 33 del nuovo catasto terreni di Lodi, ubicata in localita' Candi, viale Dalmazia, angolo via C. Sacchi, a condizione che la C.R.I. utilizzi l'area per la realizzazione della nuova sede del sottocomitato di Lodi e rilasci, senza pretese di risarcimenti e indennizzi di sorta, l'attuale sede di proprieta' comunale.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 23 dicembre 1985   
-Registro n. 10 Sanita', foglio n. 307
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 11 settembre 1979  
+Registro n. 6 Sanita', foglio n. 276

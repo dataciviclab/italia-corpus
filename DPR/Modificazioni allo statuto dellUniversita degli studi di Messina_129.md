@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 aprile 1963 n. 807
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 755
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 aprile 1963 n. 807
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 755
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
@@ -10,234 +10,106 @@ Modificazioni allo statuto dell'Universita' degli studi di Messina.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090).
-
-modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905) e successivi;
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923), e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della Pubblica istruzione;
 
 Decreta:
+--------
 
 Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 14. - Agli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di:
+Articolo unico
+--------------
 
-Sociologia;
-
-Storia dei partiti politici;
-
-Storia delle costituzioni;
-
-Scienza della opinione pubblica;
-
-Storia dell'economia.
-
-Dopo l'art. 24 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente nuovo articolo:
-
-Art. 25. - E' annesso alla Facolta' di Economia e commercio l'istituto di Statistica.
-
-Art. 26. - I gabinetti di Archeologia e di Storia dell'arte medioevale e moderna, annessi alla Facolta' di Lettere e filosofia, cambiano denominazione in:
-
-Istituto di Archeologia;
-
-Istituto di Storia dell'arte medioevale e moderna.
-
-Art. 27. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di "Filologia iranica" e di "Storia orientale antica".
-
-Art. 28. - Agli insegnamenti complementari del corso di laurea in Filosofia e' aggiunto quello di "Filosofia della storia".
-
-Art. 37. - Agli insegnamenti complementari del corso di laurea in Pedagogia e' aggiunto quello di "Psicologia dell'eta' evolutiva".
-
-Art. 48. - E' modificato nel senso che l'istituto di Botanica, annesso alla Facolta' di Scienze matematiche, fisiche e naturali cambia denominazione in quella di "Istituto di Botanica e orto Botanico".
-
-Art. 52. - Agli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti i seguenti:
-
-Anatomia vegetale;
-
-Farmacologia;
-
-Fisiologia umana.
-
-Art. 51. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti i seguenti:
-
-Anatomia vegetale;
-
-Farmacologia;
-
-Fisiologia umana;
-
-Scienza dell'alimentazione;
-
-Istologia patologica.
-
-Dopo l'ultimo comma delle norme relative allo stesso corso di laurea in Scienze biologiche e' aggiunto il seguente:
-
-Lo studente fornito di altra laurea, che chiede la iscrizione al corso di laurea in Scienze biologiche, deve ripetere la frequenza e l'esame di ogni materia fondamentale che sia stata sostenuta come complementare nella laurea di provenienza. La tesi di laurea deve essere scelta in uno dei laboratori biennali diverso da quelli in cui e' stata elaborata la tesi per il conseguimento della laurea precedente. Il candidato prima di presentarsi a sostenere l'esame di laurea e' tenuto a sostenere un colloquio di cultura generale con indirizzo biologico. Lo studente non puo' sostenere l'esame di Anatomia comparata se prima non ha sostenuto quello di Zoologia e di istologia ed embriologia; ne' quello di Chimica biologica se prima non ha superato quelli di Chimica generale ed inorganica e di Chimica organica; ne' quello di Botanica e Zoologia se prima non ha superato quello di Chimica generale ed inorganica.
-
-Gli esami di Zoologia e di Botanica biennali debbono essere sostenuti alla fine del corso come esame unico.
-
-Art. 63. - E' modificato nel senso che l'istituto di Biochimica applicata, annesso alla Facolta' di Farmacia cambia denominazione in quella di: "Istituto di Biochimica applicata e di Chimica organica".
-
-Art. 115. - Agli insegnamenti del primo anno della Scuola di specializzazione in Medicina del lavoro e' aggiunto quello di "Psicologia individuale e sociale del lavoro".
-
-Art. 119. - Agli insegnamenti del terzo anno della Scuola di specializzazione in Ostetricia e ginecologia, annessa alla Facolta' di Medicina e Chirurgia e' aggiunto quello di "Ortopedia neo-natale".
-
-Il titolo della Scuola di specializzazione in Malattie del sangue, rene e ricambio e' modificato in "Scuola di specializzazione in Malattie del rene, sangue e ricambio".
-
-Gli articoli 137 e 138 relativi alla suddetta scuola sono abrogati e sostituiti dai seguenti:
-
-Art. 137. - Titolo necessario per l'ammissione alla Scuola di specializzazione in Malattie del rene, sangue e ricambio e' la laurea in Medicina e chirurgia la scuola ha la durata di tre anni. Il numero degli iscritti, per ogni anno, non potra' essere superiore a quindici.
-
-Art. 138. - Le materie di insegnamento sono:
-
-1° anno:
-
-Anatomia speciale;
-
-Biochimica e fisiologia del ricambio;
-
-Fisiopatologia sociale apparato uropoietico;
-
-Fisiopatologia del sangue;
-
-2° anno:
-
-Fisiopatologia speciale del ricambio;
-
-Anatomia e istologia patologica;
-
-Tecnica e diagnostica di laboratorio;
-
-Farmacologia e diagnostica di laboratorio;
-
-Farmacologia speciale;
-
-Clinica medica e terapia.
-
-3° anno:
-
-Semeiotica generale e speciale;
-
-Diagnostica funzionale;
-
-Radiologia;
-
-Clinica medica e terapia.
-
-Art. 141. - E' abrogato e sostituito dal seguente Alla fine del triennio gli studenti che avranno superato tutte le materie, prepareranno una tesi riguardante argomenti contemplati tra le materie di insegnamento e conseguiranno il diploma con esame finale collegiale di tutta la Commissione, presieduta dal di - rettore, della Clinica medica. Il diploma avra' per titolo: "Specializzazione in malattie del rene, sangue e ricambio".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 18 aprile 1963
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli; BOSCO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 11 giugno 1963 Atti del Governo, registro n. 170, foglio n. 96. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090).  
-modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 14. - Agli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di:  
-Sociologia;  
-Storia dei partiti politici;  
-Storia delle costituzioni;  
-Scienza della opinione pubblica;  
-Storia dell'economia.  
-Dopo l'art. 24 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente nuovo articolo:  
-Art. 25. - E' annesso alla Facolta' di Economia e commercio l'istituto di Statistica.  
-Art. 26. - I gabinetti di Archeologia e di Storia dell'arte medioevale e moderna, annessi alla Facolta' di Lettere e filosofia, cambiano denominazione in:  
-Istituto di Archeologia;  
-Istituto di Storia dell'arte medioevale e moderna.  
-Art. 27. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di "Filologia iranica" e di "Storia orientale antica".  
-Art. 28. - Agli insegnamenti complementari del corso di laurea in Filosofia e' aggiunto quello di "Filosofia della storia".  
-Art. 37. - Agli insegnamenti complementari del corso di laurea in Pedagogia e' aggiunto quello di "Psicologia dell'eta' evolutiva".  
-Art. 48. - E' modificato nel senso che l'istituto di Botanica, annesso alla Facolta' di Scienze matematiche, fisiche e naturali cambia denominazione in quella di "Istituto di Botanica e orto Botanico".  
-Art. 52. - Agli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti i seguenti:  
-Anatomia vegetale;  
-Farmacologia;  
-Fisiologia umana.  
-Art. 51. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti i seguenti:  
-Anatomia vegetale;  
-Farmacologia;  
-Fisiologia umana;  
-Scienza dell'alimentazione;  
-Istologia patologica.  
-Dopo l'ultimo comma delle norme relative allo stesso corso di laurea in Scienze biologiche e' aggiunto il seguente:  
-Lo studente fornito di altra laurea, che chiede la iscrizione al corso di laurea in Scienze biologiche, deve ripetere la frequenza e l'esame di ogni materia fondamentale che sia stata sostenuta come complementare nella laurea di provenienza. La tesi di laurea deve essere scelta in uno dei laboratori biennali diverso da quelli in cui e' stata elaborata la tesi per il conseguimento della laurea precedente. Il candidato prima di presentarsi a sostenere l'esame di laurea e' tenuto a sostenere un colloquio di cultura generale con indirizzo biologico. Lo studente non puo' sostenere l'esame di Anatomia comparata se prima non ha sostenuto quello di Zoologia e di istologia ed embriologia; ne' quello di Chimica biologica se prima non ha superato quelli di Chimica generale ed inorganica e di Chimica organica; ne' quello di Botanica e Zoologia se prima non ha superato quello di Chimica generale ed inorganica.  
-Gli esami di Zoologia e di Botanica biennali debbono essere sostenuti alla fine del corso come esame unico.  
-Art. 63. - E' modificato nel senso che l'istituto di Biochimica applicata, annesso alla Facolta' di Farmacia cambia denominazione in quella di: "Istituto di Biochimica applicata e di Chimica organica".  
-Art. 115. - Agli insegnamenti del primo anno della Scuola di specializzazione in Medicina del lavoro e' aggiunto quello di "Psicologia individuale e sociale del lavoro".  
-Art. 119. - Agli insegnamenti del terzo anno della Scuola di specializzazione in Ostetricia e ginecologia, annessa alla Facolta' di Medicina e Chirurgia e' aggiunto quello di "Ortopedia neo-natale".  
-Il titolo della Scuola di specializzazione in Malattie del sangue, rene e ricambio e' modificato in "Scuola di specializzazione in Malattie del rene, sangue e ricambio".  
-Gli articoli 137 e 138 relativi alla suddetta scuola sono abrogati e sostituiti dai seguenti:  
-Art. 137. - Titolo necessario per l'ammissione alla Scuola di specializzazione in Malattie del rene, sangue e ricambio e' la laurea in Medicina e chirurgia la scuola ha la durata di tre anni. Il numero degli iscritti, per ogni anno, non potra' essere superiore a quindici.  
-Art. 138. - Le materie di insegnamento sono:  
-1° anno:  
-Anatomia speciale;  
-Biochimica e fisiologia del ricambio;  
-Fisiopatologia sociale apparato uropoietico;  
-Fisiopatologia del sangue;  
-2° anno:  
-Fisiopatologia speciale del ricambio;  
-Anatomia e istologia patologica;  
-Tecnica e diagnostica di laboratorio;  
-Farmacologia e diagnostica di laboratorio;  
-Farmacologia speciale;  
-Clinica medica e terapia.  
-3° anno:  
-Semeiotica generale e speciale;  
-Diagnostica funzionale;  
-Radiologia;  
-Clinica medica e terapia.  
-Art. 141. - E' abrogato e sostituito dal seguente Alla fine del triennio gli studenti che avranno superato tutte le materie, prepareranno una tesi riguardante argomenti contemplati tra le materie di insegnamento e conseguiranno il diploma con esame finale collegiale di tutta la Commissione, presieduta dal di - rettore, della Clinica medica. Il diploma avra' per titolo: "Specializzazione in malattie del rene, sangue e ricambio".  
+Dopo l'art. 186, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in igiene mentale:  
+Art. 187. - E' istituita presso l'Universita' di Messina la scuola di specializzazione in igiene mentale che conferisce il diploma di specialista in igiene mentale.  
+Art. 188. - La direzione della scuola ha sede presso la cattedra di igiene mentale sita al policlinico universitario di Messina.  
+Art. 189. - La scuola ha lo scopo di formare i medici operatori sul territorio nell'ottica della prevenzione e del recupero del disturbo psichico con metodologie diverse da quella di tipo solamente assistenziale-curativo, modello in uso della psichiatria tradizionale.  
+Art. 190. - La durata del corso e' di quattro anni e non e' suscettibile di abbreviazioni.  
+Art. 191. - Il numero degli iscritti e' di nove per ogni anno e complessivamente di trentasei per l'intero corso di studi.  
+Art. 192. - Alla scuola sono ammessi solo i laureati in medicina e chirurgia, in possesso del diploma di abilitazione all'esercizio professionale.  
+Art. 193. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
+a) la tesi nella disciplina attinente alla specializzazione;  
+b) il voto di laurea;  
+c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
+d) le pubblicazioni nelle predette materie.  
+Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale del 16 settembre 1982.  
+Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
+Art. 194. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) fisiopatologia clinica del sistema nervoso;  
+2) psicologia medica;  
+3) legislazione sanitaria;  
+4) igiene mentale generale;  
+5) psicologia dinamica;  
+6) semeiotica psichiatrica e psicoigienica;  
+7) psicoterapia I.  
+2° Anno:  
+1) psicopedagogia;  
+2) psicodiagnostica;  
+3) neuropsichiatria infantile;  
+4) clinica psichiatrica I;  
+5) psicosomatica clinica;  
+6) igiene mentale dell'eta' evolutiva;  
+7) psicoterapia II.  
+3° Anno:  
+1) psicologia sociale e del lavoro;  
+2) clinica psichiatrica II;  
+3) igiene mentale dell'eta' adulta;  
+4) psichiatria sociale;  
+5) prevenzione psichiatrica I;  
+6) igiene mentale sociale;  
+7) psicoterapia III.  
+4° Anno:  
+1) igiene mentale geriatrica;  
+2) prevenzione psichiatrica II;  
+3) farmacoterapia;  
+4) demografia, statistica medica e metodologia epidemiologica psichiatrica;  
+5) igiene mentale nelle devianze;  
+6) psichiatria forense;  
+7) psicoterapia IV.  
+Tutte le discipline di insegnamento afferiscono alla facolta' di medicina e chirurgia. La materia di insegnamento di psicopedagogia afferisce anche alla facolta' di magistero.  
+Art. 195. - La frequenza ai corsi e' obbligatoria. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
+Art. 196. - Lo specializzando dovra' frequentare obbligatoriamente le attivita' didattiche, consistenti in lezioni teoriche e teorico-pratiche, seminari, gruppi di studio, gruppi di ricerca ed esercitazioni pratiche nei reparti di degenza e nelle strutture ambulatoriali a disposizione della scuola che verranno espletate a giorni alterni nel corso della settimana, secondo un calendario prestabilito dal consiglio della scuola medesima.  
+Ai fini della frequenza e delle attivita' pratiche e' riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitarie attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.  
+Art. 197. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.  
+A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.  
+Art. 198. - L'importo delle tasse e sopratasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
+Art. 199. - Per ciascuna scuola di specializzazione, anche se comprendente piu' indirizzi, e' costituito un unico consiglio presieduto da un direttore.  
+Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate le attivita' didattiche nella scuola nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).  
+Il consiglio esercita le competenze spettanti ai sensi dell'art. 194 del decreto del Presidente della Repubblica n. 382 al consiglio di corso di laurea in materia di coordinamento di insegnamenti.  
+La direzione della scuola e' affidata a professore ordinario o straordinario, che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegna nella scuola medesima.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 aprile 1963
+### Dato a Roma, addi' 28 ottobre 1983
 
-SEGNI GUI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli; BOSCO
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 11 giugno 1963
+Registrato alla Corte dei conti, addi' 27 dicembre 1983
 
-Atti del Governo, registro n. 170, foglio n. 96. - VILLA
+Registro n. 80 Istruzione, foglio n. 22

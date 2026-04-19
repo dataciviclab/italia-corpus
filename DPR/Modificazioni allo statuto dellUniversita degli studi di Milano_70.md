@@ -1,91 +1,124 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1114
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1972 n. 55
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1114
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1972 n. 55
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Considerata la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Dopo l'art. 392 dello statuto sono aggiunti i seguenti articoli relativi all'istituzione di una scuola diretta a fini speciali per tecnici neurofisiopatologi presso la facolta' di medicina e chirurgia.  
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Scuola diretta a fini speciali per tecnici neurofisiopatologi  
+Decreta:   
   
-Art. 393. - La scuola ha lo scopo di preparare gli allievi all'esercizio della professione di tecnico neurofisiopatologo, mediante l'insegnamento teorico di discipline di base e professionali, integrato da esercitazioni e tirocini professionali.  
-Art. 394. - La durata del corso degli studi per il conseguimento del diploma e' di due anni accademici.  
-Le lezioni teoriche ed il tirocinio pratico saranno svolti in istituti universitari. Gli allievi hanno l'obbligo della frequenza alle lezioni, ai seminari ed ai tirocini pratici, secondo le modalita' stabilite dal consiglio della scuola.  
-Art. 395. - Sono ammessi alla scuola gli allievi di ambo i sessi in possesso del titolo di studio della scuola media superiore, che abbiano superato un colloquio attitudinale.  
-Art. 396. - Il numero massimo dei posti disponibili e' stabilito nella misura di trenta, quindici per ciascun anno di corso. I candidati non devono avere superato il trentesimo anno.  
-1° Anno:  
-1) elementi di elettrotecnica;  
-2) elementi di tecnica elettronica e nozioni pratiche di riparazione delle apparecchiature biomediche (biennale);  
-3) nozioni generali di biochimica e biofisica;  
-4) nozioni generali di anatomia e fisiologia;  
-5) anatomia dell'apparato motore e del sistema nervoso;  
-6) nozioni pratiche e teoriche di fisiologia del sistema nervoso (biennale);  
-7) nozioni pratiche e teoriche di elettroencefalografia e neurofisiologia clinica (biennale).  
-2° Anno:  
-8) elementi di tecnica elettronica e nozioni pratiche di riparazione delle apparecchiature biomediche;  
-9) nozioni pratiche e teoriche di fisiologia del sistema nervoso;  
-10) nozioni di patologia e clinica dell'apparato motore;  
-11) nozioni pratiche e teoriche di elettromiografia, elettrodiagnostica ed elettroterapia;  
-12) nozioni di patologia del sistema nervoso;  
-13) nozioni pratiche e teoriche di elettroencefalografia e neurofisiologia clinica;  
-14) nozioni teoriche e pratiche di ecoencefalografia, reoencefalografia e metodi di registrazione poligrafica.  
-Nel secondo anno viene dato particolare risalto alle dimostrazioni pratiche. I corsi saranno integrati da conferenze e da seminari sulle materie di insegnamento.  
-Art. 397. - Per essere ammessi al secondo anno gli allievi dovranno avere superato gli esami di cui ai punti 1), 3), 4), 5) dell'articolo precedente.  
-Art. 398. - L'esame finale per il conseguimento del diploma di tecnico neurofisiopatologo consiste in un esame scritto ed una prova pratica, previo superamento degli esami di profitto relativi alle materie di insegnamento di cui ai punti 6), 7), 8), 9), 10), 11), 12), 13), 14) con cui l'allievo dovra' dimostrare di avere raggiunto un livello di preparazione adeguato nelle materie che sono oggetto di insegnamento. L'esame di diploma dovra' essere superato entro cinque anni dalla data di immatricolazione.  
-Art. 399. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
-Art. 400. - Il consiglio della scuola e' costituito dal direttore e dal corpo docente della scuola.  
-Art. 401. - Ammontare delle tasse per anno di corso:  
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli dal n. 68 al n. 71, relativi al corso di laurea in medicina veterinaria sono abrogati e sostituiti dai seguenti:   
+Art. 68. - Il corso di laurea in medicina veterinaria si effettua mediante un ciclo di studi della durata di cinque anni, diviso in un periodo propedeutico durante il quale viene impartito l'insegnamento di base teorico e pratico, ed in un periodo dedicato all'insegnamento veterinario specifico.   
+Sono titoli di ammissione al corso di laurea in medicina veterinaria quelli previsti dalle leggi in vigore.   
+I cinque anni di studio comportano l'insegnamento teorico e pratico, con esercitazioni e seminari, in non meno di quattromilacinquecento ore relative alle materie di base ed alle materie veterinarie specifiche ed a non meno di tre insegnamenti complementari integrativi scelti dallo studente.   
+Il periodo di insegnamento di base teorico e pratico comporta almeno 500 ore di lezioni teoriche e pratiche, esercitazioni e seminari, ripartite come segue tra le materie appresso indicate:   
   
-tassa annuale di iscrizione . . . . . . . . . . . . . . L. 15.000 soprattassa annuale di esame . . . . . . . . . . . . . . L. 5.000 contributo per esercitazioni pratiche . . . . . . . . . L. 25.000 tassa di diploma. . . . . . . . . . . . . . . . . . . . L. 50.000 tassa annuale di iscrizione per studenti fuori corso . . L. 3.000   
-Il pagamento delle tasse, soprattasse e contributi e' ripartibile in due versamenti uguali: il primo da effettuare all'atto dell'iscrizione, il secondo entro il 31 marzo.  
+  
+Ore   
+Fisica....................................................... 120 Chimica I.................................................... 100 Chimica II................................................... 100 Zoologia..................................................... 120 Botanica..................................................... 90 Metodi matematici applicazione alle scienze biologiche (bio  
+matematica).................................................... 30   
+  
+Il periodo di insegnamento veterinario specifico comporta non meno di 3690 ore di lezioni teoriche e pratiche, esercitazioni e seminari, ripartite come segue tra le materie appresso indicate e raggruppate ai sensi della tabella XXXIII allegata al [decreto del Presidente della Repubblica 23 ottobre 1969, n. 987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-10-23;987):   
+  
+  
+Ore   
+Anatomia veterinaria sistematica e comparata I................. 100 Anatomia veterinaria sistematica e comparata II................ 100 Anatomia topografica veterinaria............................... 70 Teratologia.................................................... 50 Istologia generale e speciale (anatomia microscopica).......... 70 Embriologia.................................................... 50 Fisiologia generale e speciale veterinaria I e fisica biologica 100 Fisiologia generale e speciale veterinaria II e fisica biologi  
+ca............................................................... 100 Biochimica..................................................... 100 Zootecnia I: igiene, aspetti esteriori degli animali, etnologia 110 Zootecnia II: genetica e allevamento........................... 60 Alimentazione e nutrizione animale............................. 130 Economia rurale e agronomia.................................... 30 Farmacologia e farmacodinamia veterinaria...................... 80 Farmacia e terapeutica generale veterinaria.................... 30 Tossicologia veterinaria....................................... 40 Anatomia patologica veterinaria generale e speciale I.......... 60 Anatomia patologica veterinaria generale e speciale II......... 60 Autopsie....................................................... 80 Propedeutica I: semeiologia medica veterinaria e metodologia  
+clinica.......................................................... 60 Propedeutica II: semiologia chirurgica veterinaria e metodolo  
+gia clinica...................................................... 60 Patologia generale veterinaria................................. 70 Microbiologia generale veterinaria (batteriologia, virologia,  
+immunologia)..................................................... 70 Patologia e profilassi delle malattie infettive degli animali  
+domestici I...................................................... 70 Patologia e profilassi delle malattie infettive degli animali  
+domestici II..................................................... 70 Parassitologia veterinaria (compresa micologia, protozoologia,  
+entomologia, elmintologia)....................................... 70 Malattie parassitarie degli animali domestici.................. 50 Polizia sanitaria.............................................. 30 Medicina legale veterinaria, legislazione veterinaria e deonto  
+logia............................................................ 30 Patologia medica degli animali domestici (ruminanti, equini,  
+carnivori, suini, pollame, conigli, ecc.)........................ 150 Ostetricia veterinaria......................................... 80 Patologia della riproduzione e fecondazione artificiale........ 70 Patologia chirurgica veterinaria e podologia................... 80 Medicina operatoria veterinaria................................ 70 Ispezione e controllo delle derrate alimentari di origine ani-  
+male (carni, latte, pesci, uova, ecc.) I......................... 80 Ispezione e controllo delle derrate alimentari di origine ani-  
+male (carni, latte, pesci, uova, ecc.) II........................ 70 Lavori pratici nei macelli..................................... 50 Clinica medica veterinaria..................................... 275 Clinica chirurgica veterinaria................................. 275 Clinica ostetrica e ginecologica veterinaria................... 275 Patologia aviare............................................... 275 Radiologia veterinaria......................................... 50   
+  
+  
+Le ore che restano per raggiungere il numero previsto di 4500 dovranno essere ripartite fra tre insegnamenti complementari scelti dallo studente nel seguente elenco:   
+  
+  
+Insegnamenti complementari:  
+1) Anestesiologia;  
+2) Approvvigionamenti annonari, mercati ed industrie degli alimenti di origine animale;  
+3) Patologia bovina;  
+4) Diagnostica di laboratorio;  
+5) Ecologia;  
+6) Ematologia clinica comparata;  
+7) Endocrinologia degli animali domestici;  
+8) Etnografia;  
+9) Fisioclimatologia;  
+10) Idrobiologia e pescicoltura;  
+11) Igiene del latte;  
+12) Igiene e controllo dei prodotti della pesca;  
+13) Istituzioni di matematica;  
+14) Istologia patologica;  
+15) Ittiopatologia;  
+16) Lingua straniera;  
+17) Oftalmologia comparata;  
+18) Patologia tropicale;  
+19) Storia della medicina veterinaria;  
+20) Tecnica conserviera;  
+21) Tecnica mangimistica;  
+22) Tecnologia avicola;  
+23) Virologia;  
+24) Patologia della selvaggina;  
+25) Fisiopatologia;  
+26) Diritto veterinario;  
+27) Patologia degli animali da laboratorio;  
+28) Medicina nucleare.  
+  
+Dall'elenco delle materie complementari sopra riportate, la facolta', con delibera propria e con rispetto delle esigenze didattiche sceglie i corsi da attivare nei singoli anni accademici nella misura prevista e consentita dalle disposizioni vigenti.   
+La facolta', nell'ambito della propria autonomia didattica, stabilisce altresi' i piani di studio per le materie previste come insegnamenti fondamentali e complementari, nonche' il numero delle ore da attribuire per lo svolgimento dei corsi e delle relative esercitazioni e le modalita' di esami per materia o per gruppi.   
+E' consentita, su richiesta dello studente, la possibilita' di sostenere esami per gruppi di materie affini in numero non superiore a tre, sull'affinita' delle materie decide il consiglio di facolta'.   
+Art. 69. - Gli insegnamenti di clinica medica, di clinica chirurgica, di ispezione e controllo delle derrate alimentari di origine animale e delle materie del gruppo di zootecnia devono essere completati da un tirocinio pratico della durata complessiva di almeno sei mesi presso istituti della facolta' di medicina veterinaria o presso civili macelli e altri enti ed uffici pubblici e privati riconosciuti idonei dalla facolta' di medicina veterinaria.   
+Per quanto attiene alle materie cliniche, ai fini di detto tirocinio pratico, che deve essere iniziato dopo la chiusura dei corsi di insegnamento del 5° anno e completato prima che i candidati si presentino a sostenere l'esame di abilitazione all'esercizio professionale, sono utilizzabili ore assegnate agli insegnamenti del gruppo 19° (insegnamenti clinici).   
+Per essere ammesso all'esame di laurea, lo studente deve seguire i corsi e superare gli esami negli insegnamenti fondamentali e in tre altri insegnamenti da lui scelti fra i complementari.   
+Art. 70. - I corsi di chimica, anatomia veterinaria sistematica o comparata, fisiologia generale e speciale veterinaria e fisica biologica, anatomia patologica veterinaria generale e speciale, patologia e profilassi delle malattie infettive degli animali domestici, ispezione e controllo delle derrate alimentari di origine animale, comportano due insegnamenti e due esami distinti (I e II parte); per ciascuno di tali insegnamenti l'esame relativo alla prima parte deve precedere quello relativo alla seconda parte.   
+Gli esami di fisica, chimica, zoologia, botanica, istologia generale e speciale e di embriologia devono precedere l'esame di anatomia veterinaria sistematica e comparata (I parte).   
+L'esame di anatomia veterinaria (II parte) e l'esame di biochimica devono precedere l'esame di fisiologia generale e speciale veterinaria e fisica biologica (I parte).   
+L'esame di patologia generale deve seguire gli esami di anatomia veterinaria sistematica e comparata II e di fisiologia generale e speciale veterinaria e fisica biologica II e deve precedere quello di anatomia patologica generale e speciale veterinaria (I parte); l'esame di anatomia patologica generale e speciale (II parte) deve precedere gli esami di patologia e profilassi delle malattie infettive degli animali domestici (I parte), patologia medica degli animali domestici, patologia chirurgica veterinaria e podologia; ostetricia veterinaria.   
+L'esame di anatomia patologica veterinaria generale e speciale (II parte), deve precedere l'esame di ispezione e controllo delle derrate di origine animale (II parte).   
+La microbiologia e' propedeutica rispetto alla patologia e profilassi delle malattie infettive degli animali domestici.   
+La parassitologia e' propedeutica rispetto alle malattie parassitarie. L'esame di fisiologia generale e speciale veterinaria II e fisica biologica e' propedeutico per farmacologia e farmacodinamia veterinaria, che deve a sua volta precedere gli esami di farmacia terapeutica generale veterinaria e tossicologia veterinaria.   
+L'esame di zootecnia I (igiene, aspetti esteriori degli animali, etnologia) deve seguire l'esame di fisiologia veterinaria generale e speciale (parte II) e fisica biologica e precedere gli esami di zootecnia II (genetica ed allevamento), alimentazione e nutrizione, economia rurale ed agronomia.   
+Per essere ammesso agli esami di chimica medica, di clinica chirurgica e di clinica ostetrica ginecologica veterinaria, lo studente deve aver superato l'esame di patologia e profilassi delle malattie infettive degli animali domestici II e rispettivamente gli esami di semeiologia medica veterinaria, di semeiologia chirurgica veterinaria, di patologia medica degli animali domestici, di patologia chirurgica veterinaria e podologia, di medicina operatoria, di patologia della riproduzione e fecondazione artificiale e di ostetricia veterinaria.   
+Art. 71. - Per gli studenti provenienti da altre facolta' il consiglio di facolta' stabilisce caso per caso l'anno di corso cui possono essere ammessi, con la eventuale convalida di frequenza e di esami, dopo aver valutato l'equipollenza e l'affinita' dei rispettivi corsi con quelli previsti dal piano di studio della facolta'.   
+Con gli stessi criteri, il consiglio di facolta' determina l'ammissione al corso di laurea in medicina veterinaria di candidati provvisti di diploma di laurea conseguito presso una qualsiasi altra facolta'.   
+  
+Norma transitoria   
+  
+Gli studenti del corso di laurea in medicina veterinaria, all'atto dell'entrata in vigore delle suddette modifiche di statuto, possono optare per il corso di laurea in quattro o cinque anni. All'uopo debbono presentare regolare domanda per integrare gli esami secondo quanto stabilira' caso per caso il consiglio di facolta'.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 28 gennaio 1972
 
-PERTINI BODRATO
+LEONE MISASI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 16 marzo 1982
+Registrato alla Corte dei conti, addi' 14 marzo 1972
 
-Registro n. 42 Istruzione, foglio n. 183
+Atti del Governo, registro n. 247, foglio n. 125. - VALENTINI

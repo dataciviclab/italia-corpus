@@ -1,117 +1,58 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 1111
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 febbraio 1955 n. 123
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 1111
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 febbraio 1955 n. 123
 ===============================================================
 
 Modificazioni allo statuto del Politecnico di Torino.
 -----------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Visto lo statuto del Politecnico di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e successive modificazioni;
-
-Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Visto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Visto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vista la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Visto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Visto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
-
-Viste le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici del Politecnico di Torino e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Udito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto del Politecnico di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Al titolo V, dopo l'art. 36-bis, relativo alla normativa generale per le scuole dirette a fini speciali, e' inserito il seguente:  
-Art. 37 (Scuola di scienze e arti della stampa).  
-
-Art. 2
-------
-
+Veduto lo statuto del Politecnico di Torino, approvato con [regio decreto 5 maggio 1939, n. 1164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-05;1164) e modificato con [regi decreti 5 ottobre 1939, n. 1718](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1718); [24 luglio 1942, n. 923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-07-24;923) e [5 settembre 1942, n. 1391](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-09-05;1391);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche del Politecnico anzidetto;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Il primo comma dell'art. 2 del decreto del Presidente della Repubblica 17 maggio 1986 (in corso di registrazione) di modifica allo statuto del Politecnico e' cosi' riformulato:  
-"Dopo l'art. 37 e' inserito il, seguente art. 38, relativo all'istituzione della scuola diretta a Fini speciali per esperti della produzione industriale".  
-
-Art. 3
-------
-
+Decreta:  
   
-Nel secondo comma dell'art. 2 del citato decreto del Presidente della Repubblica 17 maggio 1986, l'art. 49 (scuola diretta a fini speciali per esperti della produzione industriale) muta in art. 38, con conseguente spostamento della numerazione degli articoli successivi dello statuto.  
-Gli articoli da 39 a 48 del titolo V dello statuto vigente sono soppressi e sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi.  
-Art. 37 (Scuola di scienze e arti della stampa). - E' istituita presso il Politecnico di Torino la scuola diretta a fini speciali di scienze e arti della stampa.  
-La direzione della scuola ha sede presso il Politecnico di Torino - Castello del Valentino - Viale Mattioli, 39 - Torino.  
-La scuola, che promuove la ricerca e le scienze applicate nell'arte della stampa, ha il compito di preparare personale esperto destinato all'industria grafica con una specifica professionalita' in tale ambito, anche con l'utilizzazione di moderne tecnologie per la trasmissione dell'informazione e la composizione elettronica dei testi.  
-La durata del corso e' di tre anni e non e' suscettibile di abbreviazioni.  
-Ciascun anno prevede non meno di trecentocinquanta ore di insegnamento teorico e non meno di trecentocinquanta ore di esercitazioni pratiche ivi compresi brevi periodi di studio guidato.  
-Concorrono alla costituzione della scuola le facolta' di architettura e di ingegneria del Politecnico cui afferiscono gli insegnamenti e tutti i dipartimenti interessati alla scuola stessa.  
-Il numero degli studenti che possono essere iscritti alla scuola e' complessivamente di centoventi per l'intero corso di studi: tale numero puo' essere incrementato del 10% da riservare a personale appartenente ad enti pubblici che operino nel settore cui afferisce la scuola e che siano convenzionati con il Politecnico di Torino anche per l'utilizzazione di strutture extra-universitarie ai fini dello svolgimento di attivita' didattiche.  
-Per l'ammissione al primo anno di corso potranno essere accolti quaranta studenti al massimo, salvo che sussista la possibilita' di incremento di cui al precedente comma; qualora il numero degli aspiranti sia superiore a tale numero massimo, l'ammissione avverra' attraverso una graduatoria stabilita secondo le norme di cui all'articolo precedente.  
-Alla scuola sono ammessi i diplomati degli istituti di istruzione secondaria di secondo grado, secondo le disposizioni vigenti per l'ammissione ai vari corsi di laurea.  
-Tutti gli insegnamenti della scuola hanno durata annuale. Ad ogni insegnamento sono assegnate non meno di tre ore settimanali di lezione e per un periodo didattico non inferiore a venti settimane.  
-L'inizio dei corsi viene fissato nel manifesto annuale della scuola.  
-Le materie di insegnamento sono le seguenti:  
+Lo statuto del Politecnico di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Alle materie complementari della Facolta' di ingegneria sono aggiunte le seguenti:  
   
-Primo anno:  
-matematica;  
-fisica applicata nel campo della stampa;  
-disegno;  
-chimica merceologica;  
-elementi di elettronica e di informatica;  
-tipologia generale nel campo della stampa.  
-  
-Secondo anno:  
-informatica applicata e telematica;  
-storia della scrittura e della stampa;  
-fototecnologia e formatura nel campo della stampa;  
-tecniche della composizione dei testi per la stampa;  
-tecniche di stampa e di allestimento degli stampati;  
-studio degli stampati.  
-  
-Terzo anno:  
-tecniche dei sistemi integrati nel campo della stampa;  
-tecniche editoriali;  
-analisi, controlli e standardizzazioni dei procedimenti di stampa;  
-applicazioni giuridiche nel campo delle comunicazioni;  
-impianti industriali ed igiene del lavoro nel campo della stampa; economia e tecnica aziendale nel campo della stampa.  
-  
-Nei tre anni di corso sono prescritte esercitazioni a carattere professionale, anche interdisciplinare; l'insieme di tali esercitazioni e' coordinato dai docenti titolari dei corsi cui si riferiscono dette esercitazioni.  
-Le esercitazioni si completano al terzo anno con un tirocinio obbligatorio presso industrie del settore, convenzionate col Politecnico e sotto la guida e la responsabilita' dei docenti stessi.  
-Per essere ammessi a frequentare il secondo anno di corso gli iscritti devono aver ottenuto le attestazioni di frequenza in tutte le materie del primo anno e superato almeno tre esami.  
-Per essere ammessi a frequentare il terzo anno gli studenti devono aver ottenuto le attestazioni di frequenza in tutte le materie del secondo anno ed aver superato complessivamente almeno sette esami del primo e secondo anno.  
-Per essere ammessi a sostenere l'esame finale di diploma, consistente nella redazione di una monografia o altro elaborato su argomento assegnato da un docente della scuola scelto dal candidato e nella relativa discussione, gli iscritti dovranno aver superato gli esami di tutti gli insegnamenti prescritti e svolto con risultato positivo i periodi di tirocinio.  
-Agli iscritti che avranno superato l'esame finale di diploma viene rilasciato il diploma di "esperto in scienze ed arti della stampa".  
+Art. 5. - Sezione civile:  
+"Scienza delle costruzioni II (corso annuale)".  
+Art. 6. - Sezione industriale:  
+"Matematica applicata all'elettrotecnica  
+(corso quadrimestrale);  
+Organizzazione industriale (corso quadrimestrale);  
+Applicazioni industriali dell'elettrotecnica  
+(corso quadrimestrale)".  
+Art. 7. - Sezione mineraria:  
+"Organizzazione industriale (corso quadrimestrale);  
+Impianti minerari (corso annuale);  
+Analisi tecnica dei minerali (corso annuale);  
+Preparazione dei minerali (corso annuale);  
+Applicazioni industriali dell'elettrotecnica  
+(corso quadrimestrale)".  
   
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 ottobre 1986
+### Dato a Roma, addi' 4 febbraio 1955
 
-COSSIGA
+EINAUDI ERMINI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DE PIETRO
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 28 marzo 1955
 
-Registrato alla Corte dei conti, addi' 29 maggio 1987
-
-Registro n. 32 Istruzione, foglio n. 49
+Atti del Governo, registro n. 89, foglio n. 193. - CARLOMAGNO

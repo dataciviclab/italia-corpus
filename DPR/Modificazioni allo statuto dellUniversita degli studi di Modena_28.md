@@ -1,180 +1,23 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1971 n. 1179
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 giugno 1967 n. 616
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1971 n. 1179
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 giugno 1967 n. 616
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Gli articoli 132, 133, 134, 135, 136, 137 relativi alla scuola di specializzazione in oncologia generale che muta la denominazione in quella di "Scuola di specializzazione in oncologia", sono abrogati e sostituiti dai seguenti:
-
-Scuola di specializzazione in oncologia
-
-Art. 132. - La scuola di specializzazione in oncologia conferisce il diploma di specialista in oncologia.
-
-Art. 133. - La scuola ha sede presso l'istituto di anatomia e istologia patologica dell'universita'.
-
-Art. 134. - La scuola ha la durata di tre anni.
-
-Art. 135. - Alla scuola sono ammessi i laureati in medicina e chirurgia in numero di quindici al primo corso e di venti al secondo e terzo corso.
-
-Art. 136. - Gli insegnamenti impartiti nella scuola sono:
-
-1° Anno:
-
-1) Etiopatogenesi oncologica;
-
-2) Biochimica oncologica;
-
-3) Anatomia e istologia patologica dei tumori.
-
-2° Anno:
-
-1) Oncologia sperimentale;
-
-2) Epidemiologia e statistica dei tumori.
-
-3° Anno:
-
-1) Diagnosi citologica e citologia dei tumori;
-
-2) Nozioni di diagnostica clinica e terapia dei tumori;
-
-3) Organizzazione della lotta contro i tumori.
-
-Gli insegnamenti saranno integrati dalle esercitazioni pratiche.
-
-Art. 137. - Alla fine di ogni corso, per essere ammessi ai corsi successivi, gli iscritti devono aver ottenuto le firme di frequenza del corso precedente e devono aver superato tutti gli esami delle materie svolte.
-
-Il primo comma dell'art. 164 relativo alla scuola di specializzazione in ematologia clinica e di laboratorio, e' abrogato e sostituito dal seguente:
-
-Art. 164. - "La scuola di specializzazione in ematologia clinica e di laboratorio conferisce il diploma di specialista in ematologia clinica e di laboratorio".
-
-Gli articoli 188, 189, 190, 191, 192, 193, 194 relativi alla "Scuola di specializzazione in ortopedia e traumatologia" sono abrogati e sostituiti dai seguenti:
-
-Scuola di specializzazione in ortopedia e traumatologia
-
-Art. 188. - La scuola di specializzazione in ortopedia e traumatologia ha sede presso l'istituto di clinica ortopedica e conferisce il diploma di specialista in ortopedia e traumatologia.
-
-Art. 189. - Il corso ha la durata di tre anni. Possono essere ammessi alla scuola i laureati in medicina e chirurgia.
-
-Art. 190. - Il numero dei posti disponibili e' di dieci per ogni anno.
-
-Art. 191. - La frequenza e' obbligatoria nell'istituto sede della scuola, per un periodo di almeno nove mesi per ogni anno accademico.
-
-E' in facolta' del direttore della scuola di concedere una deroga a tale norma solo agli iscritti alla scuola che facciano parte di cliniche ortopediche che non abbiano scuola di specializzazione o che siano assistenti di ruolo in divisioni di ortopedia e traumatologia di ospedali di prima categoria. Per queste due categorie di iscritti il periodo di frequenza presso l'istituto sede della scuola puo' essere ridotto fino a non meno di un mese per ogni anno.
-
-Per nessun motivo sono ammesse abbreviazioni della durata degli studi.
-
-Art 192. Gli insegnamenti si svolgeranno con indirizzo prevalentemente pratico, dimostrativo, ma per ogni singola materia di insegnamento dovra' anche svolgersi un corso regolare di lezioni il cui numero verra' fissato annualmente dal direttore della scuola in accordo con i docenti delle singole materie.
-
-Art. 193. - Le materie di insegnamento sono:
-
-1° Anno:
-
-1) Clinica ortopedica e traumatologica (triennale);
-
-2) Patologia delle lesioni, deformita' o malattie degli organi di movimento (triennale);
-
-3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);
-
-4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);
-
-5) Anatomia e istologia dell'apparato locomotore;
-
-6) Fisiologia dell'apparato locomotore;
-
-7) Nozioni di chirurgia generale;
-
-8) Nozioni di pediatria.
-
-2° Anno:
-
-1) Clinica ortopedica e traumatologica (triennale);
-
-2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);
-
-3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);
-
-4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);
-
-5) Neuropatologia dell'apparato locomotore ed elettrodiagnostica;
-
-6) Anatomia e istologia patologica dell'apparato locomotore.
-
-3° Anno:
-
-1) Clinica ortopedica e traumatologica (triennale);
-
-2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);
-
-3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);
-
-4) Apparatoterapia ortopedica;
-
-5) Fisiochinesiterapia;
-
-6) Infortunistica.
-
-Art. 194. - Gli esami si svolgeranno per singole materie. Gli esami di clinica ortopedica e traumatologica, di tecnica operatoria cruenta ed incruenta ortopedica e traumatologica di radiodiagnostica saranno teorici e pratici.
-
-Per l'ammissione al corso successivo e' obbligatorio il superamento degli esami delle materie di ciascun corso.
-
-Per l'ammissione all'esame di diploma il candidato dovra' presentare una tesi a stampa o dattiloscritta su un argomento della specialita'.
-
-L'art. 195 relativo alla "Scuola di specializzazione in clinica dermosifilopatica" e' abrogato e sostituito dal seguente:
-
-Art. 195. - "La scuola di specializzazione in clinica dermosifilopatica conferisce il diploma di specialista in dermosifilopatia".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 18 ottobre 1971
-
-SARAGAT
-
-MISASI
-
-Visto, il Guardasigilli: COLOMBO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 30 dicembre 1971 Atti del Governo, registro n. 245, foglio n. 163. - VALENTINI
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, numero 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -182,81 +25,78 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 132, 133, 134, 135, 136, 137 relativi alla scuola di specializzazione in oncologia generale che muta la denominazione in quella di "Scuola di specializzazione in oncologia", sono abrogati e sostituiti dai seguenti:  
   
-Scuola di specializzazione in oncologia  
-  
-Art. 132. - La scuola di specializzazione in oncologia conferisce il diploma di specialista in oncologia.  
-Art. 133. - La scuola ha sede presso l'istituto di anatomia e istologia patologica dell'universita'.  
-Art. 134. - La scuola ha la durata di tre anni.  
-Art. 135. - Alla scuola sono ammessi i laureati in medicina e chirurgia in numero di quindici al primo corso e di venti al secondo e terzo corso.  
-Art. 136. - Gli insegnamenti impartiti nella scuola sono:  
-1° Anno:  
-1) Etiopatogenesi oncologica;  
-2) Biochimica oncologica;  
-3) Anatomia e istologia patologica dei tumori.  
-2° Anno:  
-1) Oncologia sperimentale;  
-2) Epidemiologia e statistica dei tumori.  
-3° Anno:  
-1) Diagnosi citologica e citologia dei tumori;  
-2) Nozioni di diagnostica clinica e terapia dei tumori;  
-3) Organizzazione della lotta contro i tumori.  
-Gli insegnamenti saranno integrati dalle esercitazioni pratiche.  
-Art. 137. - Alla fine di ogni corso, per essere ammessi ai corsi successivi, gli iscritti devono aver ottenuto le firme di frequenza del corso precedente e devono aver superato tutti gli esami delle materie svolte.  
-Il primo comma dell'art. 164 relativo alla scuola di specializzazione in ematologia clinica e di laboratorio, e' abrogato e sostituito dal seguente:  
-Art. 164. - "La scuola di specializzazione in ematologia clinica e di laboratorio conferisce il diploma di specialista in ematologia clinica e di laboratorio".  
-Gli articoli 188, 189, 190, 191, 192, 193, 194 relativi alla "Scuola di specializzazione in ortopedia e traumatologia" sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in ortopedia e traumatologia  
-  
-Art. 188. - La scuola di specializzazione in ortopedia e traumatologia ha sede presso l'istituto di clinica ortopedica e conferisce il diploma di specialista in ortopedia e traumatologia.  
-Art. 189. - Il corso ha la durata di tre anni. Possono essere ammessi alla scuola i laureati in medicina e chirurgia.  
-Art. 190. - Il numero dei posti disponibili e' di dieci per ogni anno.  
-Art. 191. - La frequenza e' obbligatoria nell'istituto sede della scuola, per un periodo di almeno nove mesi per ogni anno accademico.  
-E' in facolta' del direttore della scuola di concedere una deroga a tale norma solo agli iscritti alla scuola che facciano parte di cliniche ortopediche che non abbiano scuola di specializzazione o che siano assistenti di ruolo in divisioni di ortopedia e traumatologia di ospedali di prima categoria. Per queste due categorie di iscritti il periodo di frequenza presso l'istituto sede della scuola puo' essere ridotto fino a non meno di un mese per ogni anno.  
-Per nessun motivo sono ammesse abbreviazioni della durata degli studi.  
-Art 192. Gli insegnamenti si svolgeranno con indirizzo prevalentemente pratico, dimostrativo, ma per ogni singola materia di insegnamento dovra' anche svolgersi un corso regolare di lezioni il cui numero verra' fissato annualmente dal direttore della scuola in accordo con i docenti delle singole materie.  
-Art. 193. - Le materie di insegnamento sono:  
-1° Anno:  
-1) Clinica ortopedica e traumatologica (triennale);  
-2) Patologia delle lesioni, deformita' o malattie degli organi di movimento (triennale);  
-3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);  
-4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);  
-5) Anatomia e istologia dell'apparato locomotore;  
-6) Fisiologia dell'apparato locomotore;  
-7) Nozioni di chirurgia generale;  
-8) Nozioni di pediatria.  
-2° Anno:  
-1) Clinica ortopedica e traumatologica (triennale);  
-2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);  
-3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);  
-4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);  
-5) Neuropatologia dell'apparato locomotore ed elettrodiagnostica;  
-6) Anatomia e istologia patologica dell'apparato locomotore.  
-3° Anno:  
-1) Clinica ortopedica e traumatologica (triennale);  
-2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);  
-3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);  
-4) Apparatoterapia ortopedica;  
-5) Fisiochinesiterapia;  
-6) Infortunistica.  
-Art. 194. - Gli esami si svolgeranno per singole materie. Gli esami di clinica ortopedica e traumatologica, di tecnica operatoria cruenta ed incruenta ortopedica e traumatologica di radiodiagnostica saranno teorici e pratici.  
-Per l'ammissione al corso successivo e' obbligatorio il superamento degli esami delle materie di ciascun corso.  
-Per l'ammissione all'esame di diploma il candidato dovra' presentare una tesi a stampa o dattiloscritta su un argomento della specialita'.  
-L'art. 195 relativo alla "Scuola di specializzazione in clinica dermosifilopatica" e' abrogato e sostituito dal seguente:  
-Art. 195. - "La scuola di specializzazione in clinica dermosifilopatica conferisce il diploma di specialista in dermosifilopatia".  
+Art. 48, relativo al corso di laurea in Fisica e' modificato nel senso che l'ottavo comma e' abrogato e sostituito dal seguente:  
+Alla fine del primo biennio si richiede la prova di conoscenza della lingua inglese e di una seconda lingua a scelta fra francese, russo e tedesco. Detta prova si svolgera' con le stesse modalita' di tutti gli altri esami, e verra' qualificata se positiva con sufficiente, buona, ottima; se negativa con insufficiente.  
+Nello stesso corso di laurea il tredicesimo comma e' abrogato e sostituito dal seguente:  
+Sono insegnamenti complementari (da cui potranno essere prescelti quelli a scelta dello studente):  
+1) Analisi funzionale;  
+2) Analisi superiore;  
+3) Astrofisica;  
+4) Astronomia;  
+5) Biofisica;  
+6) Calcolo delle probabilita';  
+7) Chimica fisica;  
+8) Chimica organica;  
+9) Chimica teorica;  
+10) Cibernetica e teoria delle informazioni;  
+11) Elettronica;  
+12) Elettronica applicata;  
+13) Elettrotecnica;  
+14) Istituzioni di analisi superiore;  
+15) Istituzioni di fisica matematica;  
+16) Istituzioni di fisica nucleare;  
+17) Istituzioni di geometria superiore;  
+18) Fisica atomica;  
+19) Fisica delle basse temperature;  
+20) Fisica delle particelle elementari;  
+21) Fisica dello stato solido;  
+22) Fisica del plasma;  
+23) Fisica molecolare;  
+24) Fisica nucleare;  
+25) Fisica superiore;  
+26) Fisica tecnica;  
+27) Fisica teorica;  
+28) Fisica terrestre (Geofisica);  
+29) Geodesia;  
+30) Geologia;  
+31) Geometria differenziale;  
+32) Matematiche complementari;  
+33) Meccanica analitica;  
+34) Meccanica quantistica;  
+35) Meccanica statistica;  
+36) Meccanica superiore;  
+37) Mineralogia;  
+38) Misure elettriche;  
+39) Onde elettromagnetiche;  
+40) Ottica elettronica;  
+41) Radioattivita';  
+42) Spettroscopia;  
+43) Storia della fisica;  
+44) Teoria della relativita';  
+45) Teoria delle funzioni;  
+46) Teoria e applicazioni delle macchine calcolatrici;  
+47) Termodinamica.  
+Art. 49. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica sono aggiunti i seguenti:  
+Indirizzo organico-biologico:  
+21) Chimica delle sostanze naturali;  
+22) Chimica fisica organica.  
+Indirizzo inorganico chimico-fisico:  
+18) Chimica metallurgica;  
+19) Chimica dei composti di coordinazione;  
+20) Strutturistica Roentgenografica elettronica e neutronica;  
+21) Chimica analitica applicata.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 ottobre 1971
+### Dato a Roma, addi' 13 giugno 1967
 
-SARAGAT MISASI
+SARAGAT GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 30 dicembre 1971
+Registrato alla Corte dei conti, addi' 20 luglio 1967
 
-Atti del Governo, registro n. 245, foglio n. 163. - VALENTINI
+Atti del Governo, registro n. 212, foglio n. 59. - GRECO

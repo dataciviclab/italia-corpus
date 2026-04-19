@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1985 n. 872
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 1158
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1985 n. 872
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 1158
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -33,28 +33,29 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Bologna, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Nell'art. 51, relativo al corso di laurea in scienze politiche, indirizzo storico-politico, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
   
-teoria generale del diritto.  
+Nell'art. 128, relativo all'elenco degli insegnamenti complementari del corso di laurea in chimica industriale, sono aggiunti i seguenti nuovi insegnamenti:   
+metodi fisici in chimica organica;   
+sintesi speciali organiche;   
+chimica dei composti eterociclici;   
+complementi di chimica organica.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 ottobre 1985
+### Dato a Roma, addi' 28 marzo 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 21 gennaio 1986
+Registrato alla Corte dei conti, addi' 4 aprile 1984
 
-Registro n. 2 Istruzione, foglio n. 99
+Registro n. 21 Istruzione, foglio n. 200

@@ -1,50 +1,93 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1962 n. 1644
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 906
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1962 n. 1644
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 906
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), modificato con regio decreto 16 ottobre 1940, Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 1933, numero 1592;  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 21 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-21;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+All'art. 176, relativo all'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia, e' aggiunta la seguente:  
+scuola di specializzazione in fisiopatologia e fisiochinesiterapia respiratoria.  
+Dopo l'art. 417, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in fisiopatologia e fisiochinesiterapia respiratoria.  
   
-Decreta:  
+Scuola di specializzazione in fisiopatologia e fisiochinesiterapia respiratoria  
   
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicato, e' ulteriormente modificato come appresso:  
-Art. 53. relativo al corso di laurea in Chimica e' modificato nel senso che il quarto comma e' abrogato e sostituito dal seguente: "Gli insegnamenti biennali di "Chimica generale e inorganica" di "Chimica organica" di "Istituzioni di matematica" di "Esercitazioni di matematiche" e di "Esercitazioni di Chimica fisica" comportano un esame alla fine di ogni anno anziche' alla fine del biennio".  
-Art. 67. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche e' aggiunto quello di "Geologia stratigrafica" .  
-Nello stesso articolo e' aggiunto il seguente comma: "L'esame biennale di "Fisica sperimentale" importa un esame alla fine di ogni anno anzicche' alla fine del biennio" .  
-Art. 69, relativo al corso di laurea in Scienze geologiche, e' abrogato sostituito dal seguente: o L'esame di laurea mi Scienze geologiche consta di due parti di cui la prima precede la seconda, ma non con carattere prelusivo.  
-La prima parte consiste in:  
-a) esame di cultura generale nelle Scienze geologiche;  
-b) prova pratica di riconoscimento di minerali, fossili e rocce;  
-c) presentazione di un rilevamento geologico originale.  
-La seconda parte consiste nella discussione di una dissertazione scritta, e di due argomenti orali scelti dal candidato in materie diverse da quella in cui verte la dissertazione scritta.  
-Per essere ammesso all'esame di laurea lo studente deve aver superato gli esami delle materie fondamentali ed almeno quattro delle complementari".  
+Art. 418. - La scuola di specializzazione in fisiopatologia e fisiochinesiterapia respiratoria ha sede presso l'istituto di tisiologia e malattie dell'apparato respiratorio e conferisce il diploma di fisiopatologia e fisiokinesiterapia respiratoria.  
+Art. 419. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
+Art. 420. - La durata della scuola e' di tre anni e non e' suscettibile di abbreviazioni.  
+Art. 421. - Il numero massimo degli allievi e' di cinque per anno di corso. L'ammissione alla scuola si effettua mediante concorso per titoli ed esami.  
+Art. 422. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+anatomia funzionale dell'apparato respiratorio;  
+fisiomeccanica della respirazione;  
+le funzioni respiratorie ai vari livelli;  
+le funzioni del circolo polmonare;  
+attivita' non respiratorie del polmone;  
+metodologia di indagine della funzionalita' respiratoria;  
+i farmaci del respiro.  
+2° Anno:  
+inquadramento generale e diagnostico di patologia broncopleuropolmonare;  
+le alterazioni funzionali respiratorie in patologia broncopleuropolmonare;  
+l'insufficienza respiratoria nei suoi aspetti eziopatogenetici, clinici e terapeutici;  
+fisiopatologia cardio-circolatoria nei broncopneumopatici;  
+le alterazioni funzionali respiratorie nei vasculopatici e nei cardiopatici.  
+3° Anno:  
+terapia medica generale delle sindromi da disfunzione respiratoria;  
+terapia strumentale dell'insufficienza respiratoria;  
+metodologia di rieducazione funzionale respiratoria;  
+la rieducazione respiratoria nelle broncopneumopatie invalidanti;  
+terapia cardiologica e del circolo nei broncopneumopatici cronici;  
+terapia di urgenza nelle sindromi disfunzionali respiratorie;  
+prevenzione e cura dell'invalidita' respiratoria.  
+Art. 423. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
+Art. 424. - I corsi di insegnamento sono integrati da esercitazioni pratiche e nei laboratori di ricerca, da conferenze e da seminari.  
+Art. 425. - Al termine del corso di studi gli interessati dovranno superare l'esame di diploma consistente in una dissertazione scritta su di un argomento attinente alla specializzazione.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della. Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 ottobre 1962
+### Dato a Roma, addi' 21 ottobre 1981
 
-SEGNI GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 6 dicembre 1962
+Registrato alla Corte dei conti, addi' 30 gennaio 1982
 
-Atti del Governo, registro n. 160, foglio n. 66. - VILLA
+Registro n. 12 Istruzione, foglio n. 28

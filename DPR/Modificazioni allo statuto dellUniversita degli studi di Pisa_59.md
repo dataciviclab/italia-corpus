@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 284
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1969 n. 823
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 284
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1969 n. 823
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Pisa, approvato con [regio decreto del 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,82 +18,48 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio universitario nazionale nel suo parere;
+Sulla
+-----
 
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+proposta del Ministro per la pubblica istruzione; Decreta:
 
 Art. 1
 ------
 
   
-Nell'art. 99, relativo al corso di laurea in scienze biologiche della facolta' di scienze matematiche, fisiche e naturali, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-statistiche e biometria;  
-embriologia comparata;  
-scienza dell'alimentazione;  
-analisi biologiche e di laboratorio;  
-fotobiologia;  
-mutagenesi ambientale;  
-microbiologia generale;  
-neurobiologia.  
+Presso l'Universita' degli studi di Pisa e' istituita la facolta' di lingue e letterature straniere.  
+L'attuale corso di laurea in lingue e letterature straniere, annesso alla facolta' di economia e commercio della stessa universita', passa a far parte della nuova facolta' di lingue e letterature straniere.  
 
 Art. 2
 ------
 
   
-Nell'art. 96, relativo al corso di laurea in scienze naturali della facolta' di scienze matematiche, fisiche e naturali, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-citogenetica.  
+Per tale facolta' sono assegnati i seguenti posti di ruolo:  
+a) otto posti di professore, mediante trasferimento dall'organico di cui e' dotata la facolta' di economia e commercio della stessa Universita' di Pisa e propriamente i posti assegnati alle cattedre statali di lingua e letteratura spagnola; di lingua e letteratura francese e di tre posti attualmente vacanti e destinati uno alla storia, uno al raddoppio di storia e uno al raddoppio di lingua e letteratura latina e dei posti convenzionati assegnati alle cattedre di lingua e letteratura latina e di geografia (istituito con [legge 13 giugno 1955, n. 504](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-06-13;504)) e di lingua e letteratura inglese (istituito con [decreto del Presidente della Repubblica 20 ottobre 1961, n. 1842](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-20;1842)); con i posti sono trasferiti anche i professori;  
+b) ventinove posti di assistente mediante trasferimento dall'organico di cui e' dotata la facolta' di economia e commercio della stessa Universita' di Pisa e propriamente cosi' ripartiti per le relative cattedre: tre posti alla lingua e letteratura latina; uno alla geografia; cinque alla lingua e letteratura spagnola; tre alla lingua e letteratura italiana; sei alla lingua e letteratura inglese; cinque alla lingua e letteratura francese; due alla storia della filosofia; due alla lingua e letteratura tedesca; uno alla storia; uno alla filologia germanica.  
 
 Art. 3
 ------
 
   
-Nell'art. 90, relativo al corso di laurea in chimica industriale della facolta' di scienze matematiche, fisiche e naturali, all'elenco degli insegnamenti complementari e aggiunto il seguente nuovo insegnamento:  
-chimica merceologica.  
-
-Art. 4
-------
-
-  
-Nell'art. 88, relativo al corso di laurea in chimica della facolta' di scienze matematiche, fisiche e naturali, all'elenco degli insegnamenti complementari per l'indirizzo organico-biologico e inorganico-chimico-fisico sono aggiunti i seguenti nuovi insegnamenti:  
-teoria degli elettroliti;  
-chimica fisica biologica.  
-
-Art. 5
-------
-
-  
-Nell'art. 94, relativo al corso di laurea in matematica per la facolta' di scienze matematiche, fisiche e naturali, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-Per l'indirizzo fisico:  
-meccanica dei continui.  
-Per l'indirizzo matematico:  
-analisi complessa;  
-analisi non lineare.  
-Per l'indirizzo applicativo:  
-teoria e metodi dell'ottimizzazione.  
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti suindicati, e' ulteriormente modificato nel senso che la lettera b) dell'art. 41 e' soppressa e che, gli articoli 46, 47, 48 e 49 sono raggruppati sotto il titolo IV, facolta' di lingue e letterature straniere (con il conseguente spostamento della numerazione dei titoli successivi).  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1984
+### Dato a Roma, addi' 27 ottobre 1969
 
-PERTINI FALCUCCI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 26 giugno 1984
+Registrato alla Corte dei conti, addi' 21 novembre 1969
 
-Registro n. 39 Istruzione, foglio n. 64
+Atti del Governo, registro n. 230, foglio n. 54. - CARUSO

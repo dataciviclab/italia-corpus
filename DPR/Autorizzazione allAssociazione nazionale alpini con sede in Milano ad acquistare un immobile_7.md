@@ -1,19 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 febbraio 1966 n. 126
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 dicembre 1973 n. 1002
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 febbraio 1966 n. 126
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 dicembre 1973 n. 1002
+================================================================
 
-Autorizzazione all'Associazione nazionale alpini, con sede in Milano ad acquistare un immobile.
------------------------------------------------------------------------------------------------
+Autorizzazione all'Associazione nazionale alpini, con sede in Milano, ad acquistare un immobile.
+------------------------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-126. Decreto del Presidente della Repubblica 21 febbraio 1966, col quale, sulla proposta del Ministro per la difesa, l'Associazione nazionale alpini, con sede in Milano, viene autorizzata ad acquistare dalla Comunanza agraria di Pretare, al prezzo di L. 10 al mq., l'appezzamento di terreno, della superficie di mq. 3000, stimata a quota 1510, in localita' Forca di Presta del comune di Arquata del Tronto (Ascoli Piceno), censito presso il catasto terreni di quel Comune, nel foglio n. 14, con la particella n. 58, sub b.  
+1002. Decreto del Presidente della Repubblica 14 dicembre 1973, col quale, sulla proposta del Ministro per la difesa, l'Associazione nazionale alpini, con sede in Milano, viene autorizzata ad acquistare, per costruirvi una baita da utilizzare come sede per le vacanze estive dei figli degli associati, dal comune di Ferrara di Monte Baldo, al prezzo di L. 250 al metro quadrato, l'appezzamento di terreno della superficie di mq. 3.165 situato in localita' Albare' di quel comune e censito nel catasto del comune stesso alla sezione A, foglio VI, n. 19 v.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 24 marzo 1964  
-Atti del Governo, registro n. 202, foglio n. 66. - VILLA
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 8 febbraio 1974  
+Atti di Governo, registro n. 1, foglio n. 61. - CARUSO

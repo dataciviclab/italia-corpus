@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1976 n. 149
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1184
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1976 n. 149
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1184
+================================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un legato.
 -------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-149. Decreto del Presidente della Repubblica 6 marzo 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato disposto dal sig. Ambrogio Galli con testamento olografo a rogito dott. Giuseppe Gambaro, notaio in Cremona, pubblicato il 4 luglio 1970, n. 13295/7107 di repertorio ed ivi registrato il 17 luglio 1970, n. 2024 di repertorio, volume 290.1.3.510, consistente nel valore di un decimo netto dell'azienda agricola "Lamma", con scorte vive e morte, della superficie di Ha 70.18.70, sita nel comune di Sabbioneta (Mantova).  
+1184. Decreto del Presidente della Repubblica 5 dicembre 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 5.000.000, disposta dalla sig.ra Caccia Emma ved. Maggioni con testamento olografo 7 luglio 1970, pubblicato in data 1 febbraio 1977, n. 14694 di repertorio, a rogito dott. Giovanni Ripamonti, notaio in Lodi (Milano), registrato a Lodi in data 4 febbraio 1977 al n. 609.   
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 20 aprile 1976  
-Atti di Governo, registro n. 5, foglio n. 19
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 22 aprile 1985   
+Registro n. 3 Presidenza, foglio n. 278

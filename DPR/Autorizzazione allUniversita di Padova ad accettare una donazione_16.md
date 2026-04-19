@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1954 n. 293
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 luglio 1953 n. 888
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1954 n. 293
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 luglio 1953 n. 888
+=============================================================
 
 Autorizzazione all'Universita' di Padova ad accettare una donazione.
 --------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-293. Decreto del Presidente della Repubblica 26 gennaio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Padova viene autorizzata ad accettare la donazione di L. 100.000 nominali, in titoli di Stato 5%, da intestare alla Universita' medesima, con annotazione di vincolo, disposta in suo favore dal sig. Valentino Rizzi, a nome proprio e per conto anche dei familiari, con atto pubblico amministrativo in data 10 giugno 1953, per l'istituzione, col relativo reddito, di un premio di studio perenne da intitolarsi "Premio dott. ingegnere Lindoro Rizzi" e da conferirsi, per concorso, ogni due anni, al migliore studente di nazionalita' italiana della Facolta' di ingegneria dell'Universita' medesima (Sezione civile - Trasporti), il quale sia iscritto al quinto corso ed abbia superato gli esami consigliati per il terzo e quarto corso, senza aver avuto punizioni disciplinari, con preferenza nell'ordine, a parita' di merito, ad un figlio di internato civile, o di partigiano, o di caduto in guerra o appartenente a famiglia bisognosa.  
+888. Decreto del Presidente della Repubblica 11 luglio 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Padova viene autorizzata ad accettare la donazione di L. 100.000 nominali investito in titoli nominativi dello Stato, disposta in suo favore dal comm. ing. Marco Zaccaria, per l'istituzione con la rendita del capitale donato, di un premio da intitolarsi "Premio di studio avv. dott, Giovanni Battista Zaccaria".  
   
-Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 4 giugno 1954  
-Atti del Governo, registro n. 83, foglio n. 103. - CARLOMAGNO
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei Conti, addi' 1 dicembre 1953  
+Atti del Governo, registro n. 80, foglio n. 48. - PALLA

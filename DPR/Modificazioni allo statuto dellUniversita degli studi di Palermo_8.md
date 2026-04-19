@@ -1,160 +1,121 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1984 n. 1069
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1957 n. 965
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1984 n. 1069
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1957 n. 965
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
-
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-L'art. 167, relativo all'ordinamento degli studi della scuola di specializzazione in ortopedia e traumatologia, durata triennale, e' soppresso.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240) e successivi;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Dopo l'art. 163, con lo spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi al riordinamento della scuola di specializzazione in ortopedia e traumatologia di durata quinquennale:  
-Art. 164. - E' istituita presso l'Universita' di Palermo la scuola di specializzazione in ortopedia e traumatologia che conferisce il diploma di specialista in ortopedia e traumatologia.  
-Art. 165. - La direzione della scuola ha sede presso l'istituto di clinica ortopedica e traumatologica dell'Universita'.  
-Art. 166. - La scuola ha lo scopo della formazione professionale dei medici che intendono esercitare la professione in qualita' di specialisti in ortopedia e traumatologia.  
-Art. 167. - La durata del corso e' di cinque anni e non e' suscettibile di abbreviazioni.  
-Art. 168. - Il numero degli iscritti e' di otto (8) per ogni anno e complessivamente di quaranta (40) per l'intero corso di studi.  
-Art. 169. - Alla scuola sono ammessi soltanto i laureati in medicina e chirurgia che abbiano gia' conseguito l'abilitazione all'esercizio professionale.  
-Art. 170. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che potra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e dalla valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
-a) la tesi di laurea nella disciplina attinente alla specializzazione;  
-b) il voto di laurea;  
-c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
-d) le pubblicazioni nelle predette materie.  
-Il punteggio dei predetti titoli e' quello determinato dall'apposito decreto del Ministro della pubblica istruzione del 16 settembre 1982.  
-Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nella graduatoria compilata sulla base del punteggio complessivo riportato.  
-Art. 171. - Fermo restando il disposto del [quinto comma dell'art. 74 del decreto del Presidente della Repubblica n. 382 dell'11 luglio 1980](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art74-com5), non e' consentita la contemporanea iscrizione alla scuola di specializzazione ed ai corsi per il conseguimento del dottorato di ricerca.  
-Art. 172. - E' costituito il consiglio della scuola presieduto dal direttore della scuola di specializzazione.  
-Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica n. 162 del 10 marzo 1982](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[articolo 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).  
-Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio del corso di laurea, in materia di coordinamento degli insegnamenti.  
-Art. 173. - A norma dell'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16), la direzione della scuola e' affidata ad un docente professore ordinario, straordinario o fuori ruolo che sia anche docente nella scuola stessa.  
-In caso di motivato impedimento, la direzione della scuola e' affidata ad un professore associato che pure insegni nella scuola medesima.  
-Art. 174. - Le materie di insegnamento, afferenti alla facolta' di medicina e chirurgia, sono le seguenti:  
+Decreta:   
   
-1° Anno:  
-Insegnamento pratico:  
-chirurgia generale;  
-pronto soccorso generale;  
-fisioterapia.  
-Insegnamento teorico:  
-anatomia dell'apparato locomotore I;  
-fisiologia dell'apparato locomotore;  
-semeiotica ortopedica;  
-nozioni di chirurgia generale;  
-bioingegneria dell'apparato locomotore I;  
-kinesiologia (opzionale).  
-2° Anno:  
-Insegnamento pratico:  
-chirurgia generale (con frequenza eventuale in reparti specialistici interessanti per l'apparato locomotore);  
-reparti di pronto soccorso traumatologico;  
-reparti di ortopedia e traumatologia.  
-Insegnamento teorico:  
-anatomia ed istologia patologica dell'apparato locomotore I;  
-patologia dell'apparato locomotore I;  
-clinica ortopedica I;  
-traumatologia dell'apparato locomotore I;  
-radiologia I;  
-nozioni di chirurgia d'urgenza e pronto soccorso;  
-bioingegneria dell'apparato locomotore II.  
-3° Anno:  
-Insegnamento pratico:  
-reparti di ortopedia e traumatologia (in particolare sale di degenza e sale gessi).  
-Insegnamento teorico:  
-anatomia ed istologia patologica dell'apparato locomotore II;  
-clinica ortopedica II;  
-traumatologia dell'apparato locomotore II;  
-patologia dell'apparato locomotore II;  
-radiologia II;  
-tecnica operatoria I;  
-apparatoterapia e tecnica degli apparecchi gessati;  
-elementi di reumatologia.  
-4° Anno:  
-Insegnamento pratico:  
-reparti di ortopedia e traumatologia (frequenza nei reparti operatori).  
-Insegnamento teorico:  
-patologia dell'apparato locomotore III;  
-clinica ortopedica III;  
-traumatologia dell'apparato locomotore III;  
-tecnica operatoria II;  
-fisioterapia I;  
-neuropatologia dell'apparato locomotore ed elettrodiagnostica;  
-nozioni di medicina legale.  
-5° Anno:  
-Insegnamento pratico:  
-reparti di ortopedia e traumatologia (frequenza nei reparti operatori, officine ortopediche).  
-Insegnamento teorico:  
-chirurgia della mano (opzionale);  
-patologia dell'apparato locomotore IV;  
-traumatologia dell'apparato locomotore IV;  
-clinica ortopedica IV;  
-pediatria ortopedica (opzionale);  
-tecnica operatoria III;  
-fisioterapia II.  
-  
-Art. 175. - Le attivita' pratiche consistono nella assidua frequenza, secondo turni stabiliti dalla direzione della scuola, che si alternano tra: ambulatorio, sala gessi, sale di degenza, sala medicazione e sala operatoria.  
-Gli specializzandi dovranno partecipare direttamente alle attivita' svolte nei sopra citati reparti.  
-Art. 176. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
-Art. 177. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni successivi, devono superare la prova di esame sulle materie svolte durante l'anno.  
-Art. 178. - La frequenza ai corsi e' obbligatoria. Per essere ammessi agli esami e' necessario aver frequentato, sia in attivita' didattiche che pratiche, un periodo non inferiore ai due terzi delle giornate lavorative come da calendario accademico.  
-Le assenze per malattia non abbassano il quorum delle presenze necessarie per essere ammessi agli esami: pero' va riconosciuta utile la giustificazione dell'assenza. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo.  
-La commissione d'esame di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso.  
-Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
-Art. 179. - Ai fini della frequenza e delle attivita' pratiche, si riconosce utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.  
-La documentazione prodotta dovra' essere valutata dal consiglio della scuola.  
-Art. 180. - Gli esami di profitto di ciascun anno di corso si svolgono in unica sessione autunnale.  
-Superato l'esame teorico-pratico dell'ultimo anno il corso di studio della scuola si conclude con un esame finale, consistente nella discussione di una tesi scritta su una o piu' materie del corso.  
-A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista in ortopedia e traumatologia.  
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+L'art. 37 e' sostituito dal seguente:   
+"La Facolta' di scienze matematiche, fisiche e naturali conferisce le seguenti lauree:   
+1) Laurea in chimica;   
+2) Laurea in fisica;   
+3) Laurea in scienze matematiche;   
+4) Laurea in matematica e fisica;   
+5) Laurea in scienze naturali;   
+6) Laurea in scienze biologiche;   
+7) Laurea in scienze geologiche.   
+E' ammesso alla Facolta' di scienze matematiche, fisiche e naturali il biennio propedeutico agli studi per la laurea in ingegneria.   
+Il professore titolare di chimica farmaceutica e' aggregato alla Facolta' di scienze matematiche, fisiche e naturali".   
+Dopo l'art. 42 vengono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in scienze biologiche e del corso di laurea in scienze geologiche, con il conseguente spostamento della numerazione degli articoli successivi.   
+Art. 43. - La durata del corso degli studi per la laurea in scienze biologiche e' di quattro anni.   
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.   
+Sono insegnamenti fondamentali:   
+1) Istituzioni di matematiche;   
+2) Fisica;   
+3) Chimica generale ed inorganica;   
+4) Chimica organica;   
+5) Botanica (biennale);   
+6) Zoologia (biennale);   
+7) Anatomia comparata;   
+8) Anatomia umana;   
+9) Istologia ed embriologia;   
+10) Fisiologia generale (biennale);   
+11) Chimica biologica;   
+12) Igiene.   
+Sono insegnamenti complementari:   
+1) Chimica fisica;   
+2) Biologia generale;   
+3) Antropologia;   
+4) Biologia delle razze umane;   
+5) Etnologia;   
+6) Genetica;   
+7) Zoocultura (bachi, api, avicultura);   
+8) Idrobiologia e piscicoltura;   
+9) Patologia generale;   
+10) Microbiologia;   
+11) Parassitologia;   
+12) Entomologia agraria;   
+13) Fisiologia vegetale;   
+14) Patologia vegetale;   
+15) Geologia;   
+16) Paleontologia;   
+17) Statistica;   
+18) Scienza dell'alimentazione;   
+19) Cristallo-chimica;   
+20) Embriologia e morfologia sperimentale.   
+Gli insegnamenti biennali di botanica e di zoologia comprendono tanto la parte generale quanto la parte sistematica. Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in quattro almeno da lui scelti fra i complementari.   
+Art. 44. - La durata del corso degli studi per la laurea in scienze geologiche e' di quattro anni.   
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.   
+Sono insegnamenti fondamentali:   
+1) Istituzioni di matematiche;   
+2) Fisica sperimentale (biennale);   
+3) Chimica generale ed inorganica con elementi di organica;   
+4) Mineralogia;   
+5) Geologia;   
+6) Geologia applicata;   
+7) Paleontologia;   
+8) Geografia;   
+9) Geografia fisica;   
+10) Topografia e cartografia;   
+11) Fisica terrestre;   
+12) Petrografia.   
+Sono insegnamenti complementari:   
+1) Chimica organica;   
+2) Chimica fisica;   
+3) Geochimica;   
+4) Astronomia;   
+5) Geodesia;   
+6) Zoologia;   
+7) Botanica;   
+8) Antropologia;   
+9) Giacimenti minerari;   
+10) Vulcanologia;   
+11) Analisi matematica (algebrica ed infinitesimale) biennale;   
+12) Meccanica razionale con elementi di statica grafica e disegno;   
+13) Geofisica mineraria;   
+14) Mineralogia applicata.   
+Gli insegnamenti di botanica e di zoologia debbono avere indirizzo biografico. Per l'insegnamento di analisi matematica vale la norma stabilita per la laurea in scienze matematiche. Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra gli insegnamenti complementari.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1984
+### Dato a Roma, addi' 5 settembre 1957
 
-PERTINI
+GRONCHI MORO
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: GONELLA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 24 ottobre 1957
 
-Registrato alla Corte dei conti, addi' 11 febbraio 1985
-
-Registro n. 8 Istruzione, foglio n. 93
+Atti del Governo, registro n. 108, foglio n. 99. - RELLEVA

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980 n. 119
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 gennaio 1977 n. 24
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980 n. 119
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 gennaio 1977 n. 24
+=============================================================
 
 Autorizzazione alla fondazione "Pro Juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-119. Decreto del Presidente della Repubblica 7 febbraio 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella nuda proprieta' di un appartamento sito in Milano, via Plinio, 34, censito al nuovo catasto edilizio urbano alla partita 39305, foglio 316, mappale 276 sub 3, del valore periziato di L. 15.500.000, disposto dal sig. Celeste Angelo Quaglia, detto semplicemente Celeste, con testamento olografo 28 luglio 1976, pubblicato in data 28 febbraio 1977, n. 1446 di repertorio, a rogito dott. Antonio Sorgato, notaio in Milano, registrato a Varese in data 7 marzo 1977, n. 449, mod. 71/ M.  
+24. Decreto del Presidente della Repubblica 12 gennaio 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro Juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Annetta Bologna con testamento olografo 8 agosto 1967, pubblicato a rogito del notaio Carlo Franchi in data 24 agosto 1970, n. 76951 di repertorio e n. 11412 di raccolta, registrato a Savona il 9 settembre 1970 con il n. 4924 mod. I, consistente nella somma di L. 500.000.  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 31 marzo 1980  
-Registro n. 3 Presidenza, foglio n. 3
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 9 febbraio 1977  
+Registro n. 2 Presidenza, foglio n. 37

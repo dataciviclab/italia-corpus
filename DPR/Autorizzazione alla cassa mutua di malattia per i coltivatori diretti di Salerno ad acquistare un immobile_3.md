@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1976 n. 891
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1976 n. 896
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1976 n. 891
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1976 n. 896
 ================================================================
 
 Autorizzazione alla cassa mutua di malattia per i coltivatori diretti di Salerno ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-891. Decreto del Presidente della Repubblica 24 settembre 1976, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, la cassa mutua di malattia per i coltivatori diretti di Salerno viene autorizzata ad acquistare, al prezzo di L. 7.450.000, una porzione di immobile sito in Salerno, prospiciente il corso Garibaldi e la via G. Santoro, rappresentata da un locale e servizi al piano terra e distinta nel nuovo catasto edilizio urbano al foglio 64/ D n. 2391 sub 1, di proprieta' dei signori Emanuele e Luigi Cavaliere e Giuseppe Braca, come da rogito per notaio Monaco Gaspare di Salerno, n. 8649 di repertorio, del 26 maggio 1957, da adibire ad uffici dell'ente.  
+896. Decreto del Presidente della Repubblica 24 settembre 1976, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, la cassa mutua di malattia per i coltivatori diretti di Salerno viene autorizzata ad acquistare, al prezzo di L. 9.200.000, una porzione di immobile sita in Salerno, corso Garibaldi 1/M, rappresentata da parte del primo piano e distinta nel nuovo catasto edilizio urbano al foglio 64/D n. 2386 sub 10, di proprieta' del sig. Pietro Cusati, come da rogito per notaio Monaco Gaspare di Salerno, n. 22482 di repertorio, del 15 gennaio 1962, da destinare ad ampliamento del poliambulatorio.  
   
 Visto, il Guardasigilli: BONIFACIO  
 Registrato alla Corte dei conti, addi' 27 dicembre 1976  
-Registro n. 1 Lavoro, foglio n. 10
+Registro n. 1 Lavoro, foglio n. 8

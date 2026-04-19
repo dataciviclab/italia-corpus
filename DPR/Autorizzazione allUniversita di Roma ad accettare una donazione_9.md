@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 marzo 1954 n. 690
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1951 n. 723
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 marzo 1954 n. 690
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1951 n. 723
+=============================================================
 
 Autorizzazione all'Universita' di Roma ad accettare una donazione.
 ------------------------------------------------------------------
@@ -12,8 +12,7 @@ Art. 1
 
 N.
 
-690. Decreto del Presidente della Repubblica 23 marzo 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Roma viene autorizzata ad accettare la donazione di L. 170.000 nominali in titoli del Prestito della Ricostruzione 5% al portatore, disposta in suo favore dall'avv. Giuseppe Ambrosio, anche a nome della moglie, sig.ra Emilia Lafortuna, con atto pubblico amministrativo 26 febbraio 1953, e destinata ad incrementare il capitale del gia' costituito premio "Raffaele Ambrosio". Il premio medesimo viene trasformato in premio quadriennale e sara' conferito secondo le norme fissate da un nuovo regolamento.  
+723. Decreto del Presidente della Repubblica 19 giugno 1951, col quale, sulla proposta, del Ministro per la pubblica istruzione, l'Universita' di Roma viene autorizzata ad accettare la donazione della somma di L. 272.000 nominali, in titoli di Rendita italiana 5%, disposta in suo favore dal sig. Raffaele Di Lorenzo, con atto pubblico amministrativo in data 19 maggio 1950, allo scopo di aumentare a L. 477.000 nominali il patrimonio della borsa di studio "Orazio Di Lorenzo" istituita presso l'Universita' medesima a seguito di due precedenti donazioni dello stesso sig. Raffaele Di Lorenzo.  
   
-Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 13 agosto 1954  
-Atti del Governo, registro n. 85, foglio n. 33. - TEMPESTA
+Visto, il Guardasigilli: PICCIONI  
+Registrato alla Corte dei conti, addi' 24 agosto 1951

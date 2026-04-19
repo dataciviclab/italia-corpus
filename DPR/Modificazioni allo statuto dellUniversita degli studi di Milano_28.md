@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1202
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1963 n. 1365
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1202
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1963 n. 1365
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -10,13 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056) e successivi;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -30,174 +32,107 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 140 - il punto 6) e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Psicologia" e' stabilito in trentacinque per il primo anno di corso (totale centocinque iscritti).
+Art. 23. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di:
 
-Art. 144 - il punto 2) e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Psicologia" e' stabilito in trentacinque.
+Micologia medica;
 
-Art. 148 - l'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Scienza dell'alimentazione e dietetica" muta la denominazione in quella di scuola in "Scienza dell'alimentazione".
+Neuropsichiatria infantile;
 
-Art. 161 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Anatomia ed istologia patologica e tecniche di laboratorio" e' stabilito in quindici per il primo anno di corso.
+Dermatologia allergologica e professionale;
 
-Art. 163 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Anestesiologia e rianimazione" e' stabilito in cinquanta per il primo anno di corso.
+Fisiopatologia ostetrica e ginecologica;
 
-Art. 167 - e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Angiologia e in angiologia e chirurgia vascolare" e' stabilito in quarantaquattro per i tre anni di corso.
+Medicina preventiva dei lavoratori e psicotecnica.
 
-Art. 179 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Cardiologia" e' stabilito in quindici per il primo anno di corso.
+Dopo l'art. 145, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Scienza dell'alimentazione e dietetica, con il conseguente spostamento della numerazione degli articoli successivi.
 
-Art. 180 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Chirurgia" e' stabilito in trentatre' per il primo anno di corso.
+Scuola di specializzazione in Scienza dell'alimentazione e dietetica
 
-Art. 198 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Dermatologia e venereologia" e' stabilito in venti per il primo anno di corso.
+Art. 146. - Alla Facolta' di Medicina e chirurgia dell'Universita' di Milano e' annessa la Scuola di specializzazione in Scienza dell'alimentazione e dietetica.
 
-Art. 199 - il terzo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Ematologia clinica e di laboratorio" e' stabilito in venti per il primo anno di corso.
+Alla Scuola di specializzazione possono iscriversi i laureati in Medicina e chirurgia. Il numero degli iscritti alla Scuola e' fissato ad un massimo di dieci per ogni anno di corso.
 
-Art. 200 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Farmacologia applicata all'industria" e' stabilito in quindici per il primo anno di corso.
+La durata del corso degli studi e' di due anni e comprende i seguenti insegnamenti:
 
-Art. 201 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Idrologia, climatologia e talassoterapia" e' stabilito in dieci per il primo anno di corso.
+Primo anno:
 
-Art. 207 - l'ultimo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Malattie dell'apparato digerente" e' stabilito in quindici per il primo anno di corso.
+Chimica degli alimenti (proteine, carboidrati, lipidi, sali minerali, oligo elementi);
 
-Art. 213 - il primo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Medicina fisica e riabilitazione" e' stabilito in quindici per il primo anno di corso.
+Biochimica e fisiologia della nutrizione;
 
-Art. 227 - il terzo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Nefrologia medica" e' stabilito in dodici per il primo anno di corso.
+Patologia dell'alimentazione;
 
-Art. 235 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Ortopedia e traumatologia" e' stabilito in trenta per il primo anno di corso.
+Microbiologia in rapporto con la produzione alimentare e con la conservazione degli alimenti;
 
-Art. 236 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Ostetricia e ginecologia" e' stabilito in venticinque per il primo anno di corso.
+Vitaminologia, enzimologia, fattori di crescita;
 
-Art. 239 - il settimo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Psichiatria" e' stabilito in venti per il primo anno di corso.
+Metodi cromatografici, radioisotopici, ecc., nello studio delle sostanze alimentari;
 
-Gli articoli 250 e 251, relativi alla scuola di specializzazione in "Scienza dell'alimentazione e dietetica" che muta la denominazione in quella di scuola di specializzazione in "Scienza dell'alimentazione", sono abrogati e sostituiti dai seguenti:
+Preservazione degli alimenti mediante metodi fisici (essiccamento, freddo, radiazioni ecc), metodi chimici (sostanze anti-ossidanti, antibatteriche, antibiotiche, ecc,.).
 
-Scuola di specializzazione in scienza dell'alimentazione
+Secondo anno:
 
-Art. 250. - La durata del corso e' di tre anni. Il numero degli iscritti alla scuola e' fissato ad un massimo di venti per ogni anno di corso.
+Chimica degli alimenti, estrazione, purificazione, sintesi di sostanze alimentari;
 
-Direttore della scuola e' il professore ufficiale di chimica biologica.
+Biochimica e fisiologia della nutrizione;
 
-La scuola di specializzazione in scienza dell'alimentazione e' articolata in tre indirizzi:
+Farmacologia della nutrizione;
 
-1) indirizzo dietetico;
+Gli additivi chimici nell'industria alimentare;
 
-2) indirizzo nutrizionistico;
+Alimentazione e malattie;
 
-3) indirizzo tecnologico.
+Dietologia nel bambino, nel vecchio, nel malato;
 
-L'indirizzo dietetico mira ad approfondire nei medici le basi teoriche e pratiche di fondamentale importanza per la dietetica preventiva e curativa ed a stimolare altresi' la ricerca scientifica nel vasto campo della nutrizione umana.
+Dietologia nei grandi aggregati umani (forze armate, collegi, colonie, ospedali);
 
-A tale indirizzo possono iscriversi soltanto i laureati in medicina e chirurgia.
+Clinica e terapia delle malattie alimentari;
 
-L'indirizzo nutrizionistico mira alla preparazione specialistica di laureati in settori concernenti lo studio di problemi generali e speciali dell'alimentazione negli aspetti fisiologici, biochimici, igienici, ecologici, economico-sociali, nonche' a stimolare la ricerca scientifica nei sopracitati settori.
+Terapia mediante alimenti;
 
-A tale indirizzo sono ammessi i laureati in chimica e tecnologia farmaceutiche, in farmacia, in medicina e chirurgia, in medicina veterinaria, in scienze biologiche, in scienze naturali.
+Statistica, economia, legislazione.
 
-L'indirizzo tecnologico mira alla preparazione di laureati per le attivita' direttive in settori concernenti le tecnologie alimentari in funzione dei loro riflessi nutrizionali ed igienici sul prodotto finito, nonche' a stimolare la ricerca in questo settore.
+Sono previste conferenze ed esercitazioni su argomenti particolari.
 
-A tale indirizzo sono ammessi i laureati in chimica, chimica e tecnologia farmaceutiche, farmacia, ingegneria chimica, scienze agrarie, scienze biologiche, scienza delle preparazioni alimentari.
+Art. 147. - Direttore della Scuola e' il professore ufficiale di Farmacologia.
 
-L'attivazione di quest'ultimo indirizzo e' facoltativo nelle singole scuole.
+Gli insegnanti delle singole materie vengono nominati dal Consiglio di Facolta' di medicina e chirurgia.
 
-Art. 251. - Gli insegnamenti del primo biennio della scuola saranno comuni ai tre indirizzi; gli insegnamenti speciali, che qualificano i tre indirizzi, saranno svolti nel terzo anno.
+Si avra' un solo esame generale al termine di ogni anno, che sara' effettuato "a gruppo" dai docenti delle varie discipline.
 
-Le materie di insegnamento sono le seguenti:
+La specializzazione sara' conseguita dopo discussione di una apposita tesi.
 
-1° Anno (comuni ai tre indirizzi):
+L'internato e' obbligatorio e si svolge di norma, secondo l'orario 9-13, 15-20 in tutti i giorni feriali, dallo inizio della Scuola, inizio che viene stabilito di anno in anno, intorno al 10 dicembre, al 15 luglio.
 
-Chimica degli alimenti;
+L'ammissione avviene dopo un esame - che si effettua verso i primi di dicembre - destinato a stabilire la preparazione degli aspiranti alla Scuola e fissarne una graduatoria di merito.
 
-Biochimica della nutrizione;
-
-Fisiologia generale della nutrizione;
-
-Istituzioni di statistica applicata ai problemi alimentari.
-
-2° Anno (comuni al tre indirizzi):
-
-Fisiologia della nutrizione umana;
-
-Igiene alimentare ed elementi di legislazione;
-
-Istituzioni di tecnologie alimentari;
-
-Biochimica patologica della nutrizione.
-
-3° Anno:
-
-A) Indirizzo dietetico:
-
-Alimentazione umana;
-
-Dietetica nell'eta' adulta;
-
-Dietetica nell'infanzia;
-
-Dietetica per le collettivita';
-
-Malattie dell'alimentazione e dietoterapia;
-
-Dietetica ospedaliera e organizzazione dei relativi servizi.
-
-B) Indirizzo nutrizionistico:
-
-Alimentazione umana;
-
-Alimentazione degli animali da allevamento e da lavoro;
-
-Ecologia e geografia dell'alimentazione;
-
-Economia e statistica applicata all'alimentazione;
-
-Tecnica dei rilevamenti alimentari;
-
-Analisi chimiche degli alimenti; additivi chimici, sofisticazioni e adulterazioni alimentari.
-
-C) Indirizzo tecnologico:
-
-Microbiologia e chimica delle fermentazioni nell'industria alimentare;
-
-Tecnologie industriali di preparazione, conservazione e confezionamento degli alimenti di origine animale;
-
-Tecnologie industriali di preparazione, conservazione e confezionamento degli alimenti di origine vegetale;
-
-Analisi chimiche degli alimenti, additivi chimici sofisticazioni e adulterazioni alimentari.
-
-I corsi sopraindicati possono essere integrati da insegnamenti complementari, nonche' da conferenze su argomenti speciali (psicologia della alimentazione, antropologia nutrizionale, organizzazione della vigilanza e del controllo sulla produzione e commercio degli alimenti e bevande, ecc.).
-
-Al termine di ciascun anno si avra' un solo esame generale, che sara' effettuato a gruppo dai docenti delle varie discipline.
-
-La specializzazione sara' conseguita dopo la discussione di una apposita tesi.
-
-Art. 252 - il terzo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Tisiologia e malattie dell'apparato respiratorio" e' stabilito in diciotto per il primo anno di corso.
-
-Art. 253 - il terzo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Urologia" e' stabilito in quattordici per il primo anno di corso.
-
-L'ordinamento della scuola di specializzazione in "Allergologia e immunologia clinica" istituita con [decreto del Presidente della Repubblica 7 giugno 1972, n. 421](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-06-07;421), e' modificato nel senso che il numero degli iscritti da ammettere alla scuola e' stabilito in dieci per il primo anno di corso.
-
-L'ordinamento della scuola di specializzazione in "Reumatologia" istituita con [decreto del Presidente della Repubblica 22 settembre 1972, n. 681](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-09-22;681), e' modificato nel senso che il numero degli iscritti da ammettere alla scuola e' stabilito in dieci per il primo anno di corso.
+Per le altre condizioni di ammissione alla Scuola si applicano le norme previste per tutte le Scuole di specializzazione annesse alla Facolta' di medicina e chirurgia.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1973
+Dato a Roma, addi' 5 agosto 1963
 
-LEONE
+SEGNI
 
-MALFATTI
+GUI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BOSCO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 27 gennaio 1975 Atti di Governo, registro n. 8, foglio n. 65
+alla Corte dei conti, addi' 16 ottobre 1963 Atti del Governo, registro n. 175, foglio n. 24. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056) e successivi;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -206,95 +141,57 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 140 - il punto 6) e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Psicologia" e' stabilito in trentacinque per il primo anno di corso (totale centocinque iscritti).  
-Art. 144 - il punto 2) e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Psicologia" e' stabilito in trentacinque.  
-Art. 148 - l'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Scienza dell'alimentazione e dietetica" muta la denominazione in quella di scuola in "Scienza dell'alimentazione".  
-Art. 161 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Anatomia ed istologia patologica e tecniche di laboratorio" e' stabilito in quindici per il primo anno di corso.  
-Art. 163 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Anestesiologia e rianimazione" e' stabilito in cinquanta per il primo anno di corso.  
-Art. 167 - e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Angiologia e in angiologia e chirurgia vascolare" e' stabilito in quarantaquattro per i tre anni di corso.  
-Art. 179 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Cardiologia" e' stabilito in quindici per il primo anno di corso.  
-Art. 180 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Chirurgia" e' stabilito in trentatre' per il primo anno di corso.  
-Art. 198 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Dermatologia e venereologia" e' stabilito in venti per il primo anno di corso.  
-Art. 199 - il terzo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Ematologia clinica e di laboratorio" e' stabilito in venti per il primo anno di corso.  
-Art. 200 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Farmacologia applicata all'industria" e' stabilito in quindici per il primo anno di corso.  
-Art. 201 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Idrologia, climatologia e talassoterapia" e' stabilito in dieci per il primo anno di corso.  
-Art. 207 - l'ultimo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Malattie dell'apparato digerente" e' stabilito in quindici per il primo anno di corso.  
-Art. 213 - il primo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Medicina fisica e riabilitazione" e' stabilito in quindici per il primo anno di corso.  
-Art. 227 - il terzo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Nefrologia medica" e' stabilito in dodici per il primo anno di corso.  
-Art. 235 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Ortopedia e traumatologia" e' stabilito in trenta per il primo anno di corso.  
-Art. 236 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Ostetricia e ginecologia" e' stabilito in venticinque per il primo anno di corso.  
-Art. 239 - il settimo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Psichiatria" e' stabilito in venti per il primo anno di corso.  
-Gli articoli 250 e 251, relativi alla scuola di specializzazione in "Scienza dell'alimentazione e dietetica" che muta la denominazione in quella di scuola di specializzazione in "Scienza dell'alimentazione", sono abrogati e sostituiti dai seguenti:  
   
-Scuola di specializzazione in scienza dell'alimentazione  
+Art. 23. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di:  
+Micologia medica;  
+Neuropsichiatria infantile;  
+Dermatologia allergologica e professionale;  
+Fisiopatologia ostetrica e ginecologica;  
+Medicina preventiva dei lavoratori e psicotecnica.  
+Dopo l'art. 145, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Scienza dell'alimentazione e dietetica, con il conseguente spostamento della numerazione degli articoli successivi.  
   
-Art. 250. - La durata del corso e' di tre anni. Il numero degli iscritti alla scuola e' fissato ad un massimo di venti per ogni anno di corso.  
-Direttore della scuola e' il professore ufficiale di chimica biologica.  
-La scuola di specializzazione in scienza dell'alimentazione e' articolata in tre indirizzi:  
-1) indirizzo dietetico;  
-2) indirizzo nutrizionistico;  
-3) indirizzo tecnologico.  
-L'indirizzo dietetico mira ad approfondire nei medici le basi teoriche e pratiche di fondamentale importanza per la dietetica preventiva e curativa ed a stimolare altresi' la ricerca scientifica nel vasto campo della nutrizione umana.  
-A tale indirizzo possono iscriversi soltanto i laureati in medicina e chirurgia.  
-L'indirizzo nutrizionistico mira alla preparazione specialistica di laureati in settori concernenti lo studio di problemi generali e speciali dell'alimentazione negli aspetti fisiologici, biochimici, igienici, ecologici, economico-sociali, nonche' a stimolare la ricerca scientifica nei sopracitati settori.  
-A tale indirizzo sono ammessi i laureati in chimica e tecnologia farmaceutiche, in farmacia, in medicina e chirurgia, in medicina veterinaria, in scienze biologiche, in scienze naturali.  
-L'indirizzo tecnologico mira alla preparazione di laureati per le attivita' direttive in settori concernenti le tecnologie alimentari in funzione dei loro riflessi nutrizionali ed igienici sul prodotto finito, nonche' a stimolare la ricerca in questo settore.  
-A tale indirizzo sono ammessi i laureati in chimica, chimica e tecnologia farmaceutiche, farmacia, ingegneria chimica, scienze agrarie, scienze biologiche, scienza delle preparazioni alimentari.  
-L'attivazione di quest'ultimo indirizzo e' facoltativo nelle singole scuole.  
-Art. 251. - Gli insegnamenti del primo biennio della scuola saranno comuni ai tre indirizzi; gli insegnamenti speciali, che qualificano i tre indirizzi, saranno svolti nel terzo anno.  
-Le materie di insegnamento sono le seguenti:  
-  
-1° Anno (comuni ai tre indirizzi):  
-Chimica degli alimenti;  
-Biochimica della nutrizione;  
-Fisiologia generale della nutrizione;  
-Istituzioni di statistica applicata ai problemi alimentari.  
-  
-2° Anno (comuni al tre indirizzi):  
-Fisiologia della nutrizione umana;  
-Igiene alimentare ed elementi di legislazione;  
-Istituzioni di tecnologie alimentari;  
-Biochimica patologica della nutrizione.  
-  
-3° Anno:  
-A) Indirizzo dietetico:  
-Alimentazione umana;  
-Dietetica nell'eta' adulta;  
-Dietetica nell'infanzia;  
-Dietetica per le collettivita';  
-Malattie dell'alimentazione e dietoterapia;  
-Dietetica ospedaliera e organizzazione dei relativi servizi.  
-B) Indirizzo nutrizionistico:  
-Alimentazione umana;  
-Alimentazione degli animali da allevamento e da lavoro;  
-Ecologia e geografia dell'alimentazione;  
-Economia e statistica applicata all'alimentazione;  
-Tecnica dei rilevamenti alimentari;  
-Analisi chimiche degli alimenti; additivi chimici, sofisticazioni e adulterazioni alimentari.  
-C) Indirizzo tecnologico:  
-Microbiologia e chimica delle fermentazioni nell'industria alimentare;  
-Tecnologie industriali di preparazione, conservazione e confezionamento degli alimenti di origine animale;  
-Tecnologie industriali di preparazione, conservazione e confezionamento degli alimenti di origine vegetale;  
-Analisi chimiche degli alimenti, additivi chimici sofisticazioni e adulterazioni alimentari.  
-  
-I corsi sopraindicati possono essere integrati da insegnamenti complementari, nonche' da conferenze su argomenti speciali (psicologia della alimentazione, antropologia nutrizionale, organizzazione della vigilanza e del controllo sulla produzione e commercio degli alimenti e bevande, ecc.).  
-Al termine di ciascun anno si avra' un solo esame generale, che sara' effettuato a gruppo dai docenti delle varie discipline.  
-La specializzazione sara' conseguita dopo la discussione di una apposita tesi.  
-Art. 252 - il terzo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Tisiologia e malattie dell'apparato respiratorio" e' stabilito in diciotto per il primo anno di corso.  
-Art. 253 - il terzo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Urologia" e' stabilito in quattordici per il primo anno di corso.  
-L'ordinamento della scuola di specializzazione in "Allergologia e immunologia clinica" istituita con [decreto del Presidente della Repubblica 7 giugno 1972, n. 421](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-06-07;421), e' modificato nel senso che il numero degli iscritti da ammettere alla scuola e' stabilito in dieci per il primo anno di corso.  
-L'ordinamento della scuola di specializzazione in "Reumatologia" istituita con [decreto del Presidente della Repubblica 22 settembre 1972, n. 681](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-09-22;681), e' modificato nel senso che il numero degli iscritti da ammettere alla scuola e' stabilito in dieci per il primo anno di corso.  
+Scuola di specializzazione in Scienza dell'alimentazione e dietetica   
+Art. 146. - Alla Facolta' di Medicina e chirurgia dell'Universita' di Milano e' annessa la Scuola di specializzazione in Scienza dell'alimentazione e dietetica.  
+Alla Scuola di specializzazione possono iscriversi i laureati in Medicina e chirurgia. Il numero degli iscritti alla Scuola e' fissato ad un massimo di dieci per ogni anno di corso.  
+La durata del corso degli studi e' di due anni e comprende i seguenti insegnamenti:  
+Primo anno:  
+Chimica degli alimenti (proteine, carboidrati, lipidi, sali minerali, oligo elementi);  
+Biochimica e fisiologia della nutrizione;  
+Patologia dell'alimentazione;  
+Microbiologia in rapporto con la produzione alimentare e con la conservazione degli alimenti;  
+Vitaminologia, enzimologia, fattori di crescita;  
+Metodi cromatografici, radioisotopici, ecc., nello studio delle sostanze alimentari;  
+Preservazione degli alimenti mediante metodi fisici (essiccamento, freddo, radiazioni ecc), metodi chimici (sostanze anti-ossidanti, antibatteriche, antibiotiche, ecc,.).  
+Secondo anno:  
+Chimica degli alimenti, estrazione, purificazione, sintesi di sostanze alimentari;  
+Biochimica e fisiologia della nutrizione;  
+Farmacologia della nutrizione;  
+Gli additivi chimici nell'industria alimentare;  
+Alimentazione e malattie;  
+Dietologia nel bambino, nel vecchio, nel malato;  
+Dietologia nei grandi aggregati umani (forze armate, collegi, colonie, ospedali);  
+Clinica e terapia delle malattie alimentari;  
+Terapia mediante alimenti;  
+Statistica, economia, legislazione.  
+Sono previste conferenze ed esercitazioni su argomenti particolari.  
+Art. 147. - Direttore della Scuola e' il professore ufficiale di Farmacologia.  
+Gli insegnanti delle singole materie vengono nominati dal Consiglio di Facolta' di medicina e chirurgia.  
+Si avra' un solo esame generale al termine di ogni anno, che sara' effettuato "a gruppo" dai docenti delle varie discipline.  
+La specializzazione sara' conseguita dopo discussione di una apposita tesi.  
+L'internato e' obbligatorio e si svolge di norma, secondo l'orario 9-13, 15-20 in tutti i giorni feriali, dallo inizio della Scuola, inizio che viene stabilito di anno in anno, intorno al 10 dicembre, al 15 luglio.  
+L'ammissione avviene dopo un esame - che si effettua verso i primi di dicembre - destinato a stabilire la preparazione degli aspiranti alla Scuola e fissarne una graduatoria di merito.  
+Per le altre condizioni di ammissione alla Scuola si applicano le norme previste per tutte le Scuole di specializzazione annesse alla Facolta' di medicina e chirurgia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1973
+### Dato a Roma, addi' 5 agosto 1963
 
-LEONE MALFATTI
+SEGNI GUI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 27 gennaio 1975
+Registrato alla Corte dei conti, addi' 16 ottobre 1963
 
-Atti di Governo, registro n. 8, foglio n. 65
+Atti del Governo, registro n. 175, foglio n. 24. - VILLA

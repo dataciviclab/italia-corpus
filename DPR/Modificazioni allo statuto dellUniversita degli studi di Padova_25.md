@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1970 n. 703
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1384
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1970 n. 703
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1384
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,7 +20,7 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -32,64 +32,90 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 179. - L'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie e' modificato nel senso che gli insegnamenti di "Orticoltura e floricoltura" e di "Avicoltura e coniglicoltura" vengono trasformati da semestrali ad annuali.
+Art. 42. - Agli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di "Diritto pubblico americano".
 
-Nello stesso elenco sono inclusi i seguenti insegnamenti complementari:
+Art. 47. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di "Filologia italiana".
 
-Sociologia rurale;
+Art. 49. - Agli insegnamenti complementari del corso di laurea in filosofia, sono aggiunti quelli di:
 
-Frutticultura industriale;
+"Filosofia della politica" e "Storia della filosofia moderna e contemporanea";
 
-Microbiologia del terreno;
+Art. 119. - Agli insegnamenti complementari del corso di laurea in farmacia e' aggiunto quello di "Biochimica applicata".
 
-Attrezzature e impianti industriali;
+Art. 140. - Agli insegnamenti complementari del corso di laurea in agraria e' aggiunto quello di "Miglioramento genetico delle piante agrarie".
 
-Biochimica vegetale;
+Art. 175. - Agli insegnamenti della scuola di perfezionamento in storia, dell'arte annessa alla Facolta' di lettere e filosofia, e' aggiunto quello di "Storia dell'arte contemporanea".
 
-Igiene degli alimenti;
+Art. 208, relativo ai corsi di addestramento della scuola di specializzazione in chimica nucleare e' cosi' modificato:
 
-Complementi di chimica analitica applicata alle industrie agrarie;
+La Scuola organizza, inoltre, anche "Corsi di addestramento" della durata di anni due per laureati in chimica, chimica industriale, ingegneria, matematica e fisica, fisica, scienze geologiche, scienze biologiche, scienze naturali, farmacia, agraria, medicina, per diplomati degli Istituti tecnici (scuola media superiore) limitatamente agli indirizzi tecnologici e per coloro che dopo conseguito un diploma di scuola media superiore hanno completato i loro studi presso accademie e scuole militari.
 
-Tecnologia delle conserve alimentari;
+Art. 263. - All'elenco delle scuole di perfezionamento annesse alla Facolta' di medicina e chirurgia e' aggiunto il "Corso di perfezionamento in igiene e tecnica ospedaliera".
 
-Lingua inglese;
+Art. 264.- E' modificato nel senso che agli insegnamenti del terzo anno della scuola, di specializzazione in ostetricia e ginecologia e' aggiunto quello di "Medicina legale".
 
-Climatologia e metereologia (semestrale);
+Art. 265. - Dopo la scuola di perfezionamento in ortopedia e traumatologia e' aggiunto l'ordinamento del nuovo corso di perfezionamento in "Igiene e tecnica ospedaliera".
 
-Colture pregiate (semestrale);
+Corso di perfezionamento in igiene e tecnica ospedaliera E' istituito presso l'Istituto di igiene dell'Universita' di Padova un corso di perfezionamento in "Igiene e tecnica ospedaliera".
 
-Diserbo chimico (semestrale);
+Il corso avra' la durata di un anno accademico.
 
-Giardini e tappeti erbosi (semestrale);
+Finalita' del corso e' la preparazione di personale tecnico specificatamente idoneo alla direzione sanitaria degli ospedali e alle loro progettazione e costruzione.
 
-Produzione e controllo delle sementi.
+Gli insegnamenti sono i seguenti:
+
+1) Storia degli ospedali e principi metodologici di assistenza sanitaria;
+
+2) Epidemiologia e profilassi e igiene generale applicata all'ambiente ospedaliero;
+
+3) Microbiologia e immunologia applicata;
+
+4) Chimica e fisica applicata;
+
+5) Architettura e edilizia ospedaliera. Tecnologia delle attrezzature ospedaliere;
+
+6) Organizzazione funzionale degli ospedali e formazione del personale ospedaliero;
+
+7) Igiene dell'alimentazione e dietologia ospedaliera;
+
+8) Selezione psicotecnica del personale di igiene mentale negli ospedali;
+
+9) Statistica ospedaliera;
+
+10) Legislazione e prassi giuridica ed amministrativa della assistenza ospedaliera.
+
+Le lezioni saranno integrate da conferenze di esperti, da esercitazioni pratiche, da visite di istruzione e da tirocinio ospedaliero.
+
+Al corso saranno ammessi i laureati in medicina e chirurgia, in ingegneria, in architettura.
+
+Gli esami saranno tenuti con le modalita' stabilite per le altre Scuole di perfezionamento. A coloro i quali avranno frequentato il corso e superato i relativi esami verra' rilasciato un attestato di frequenza e profitto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 3 agosto 1970
+Dato a Roma, addi' 19 ottobre 1960
 
-SARAGAT
+GRONCHI
 
-MISASI
+BOSCO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 29 settembre 1970 Atti del Governo, registro n. 237, foglio n. 129. - CARUSO
+alla Corte dei conti, addi' 24 novembre 1960 Atti del Governo, registro n. 131, foglio n. 91. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -97,35 +123,47 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 42. - Agli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di "Diritto pubblico americano".  
+Art. 47. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di "Filologia italiana".  
+Art. 49. - Agli insegnamenti complementari del corso di laurea in filosofia, sono aggiunti quelli di:  
+"Filosofia della politica" e "Storia della filosofia moderna e contemporanea";  
+Art. 119. - Agli insegnamenti complementari del corso di laurea in farmacia e' aggiunto quello di "Biochimica applicata".  
+Art. 140. - Agli insegnamenti complementari del corso di laurea in agraria e' aggiunto quello di "Miglioramento genetico delle piante agrarie".  
+Art. 175. - Agli insegnamenti della scuola di perfezionamento in storia, dell'arte annessa alla Facolta' di lettere e filosofia, e' aggiunto quello di "Storia dell'arte contemporanea".  
+Art. 208, relativo ai corsi di addestramento della scuola di specializzazione in chimica nucleare e' cosi' modificato:  
   
-Art. 179. - L'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie e' modificato nel senso che gli insegnamenti di "Orticoltura e floricoltura" e di "Avicoltura e coniglicoltura" vengono trasformati da semestrali ad annuali.  
-Nello stesso elenco sono inclusi i seguenti insegnamenti complementari:  
-  
-Sociologia rurale;  
-Frutticultura industriale;  
-Microbiologia del terreno;  
-Attrezzature e impianti industriali;  
-Biochimica vegetale;  
-Igiene degli alimenti;  
-Complementi di chimica analitica applicata alle industrie agrarie;  
-Tecnologia delle conserve alimentari;  
-Lingua inglese;  
-Climatologia e metereologia (semestrale);  
-Colture pregiate (semestrale);  
-Diserbo chimico (semestrale);  
-Giardini e tappeti erbosi (semestrale);  
-Produzione e controllo delle sementi.  
+La Scuola organizza, inoltre, anche "Corsi di addestramento" della durata di anni due per laureati in chimica, chimica industriale, ingegneria, matematica e fisica, fisica, scienze geologiche, scienze biologiche, scienze naturali, farmacia, agraria, medicina, per diplomati degli Istituti tecnici (scuola media superiore) limitatamente agli indirizzi tecnologici e per coloro che dopo conseguito un diploma di scuola media superiore hanno completato i loro studi presso accademie e scuole militari.  
+Art. 263. - All'elenco delle scuole di perfezionamento annesse alla Facolta' di medicina e chirurgia e' aggiunto il "Corso di perfezionamento in igiene e tecnica ospedaliera".  
+Art. 264.- E' modificato nel senso che agli insegnamenti del terzo anno della scuola, di specializzazione in ostetricia e ginecologia e' aggiunto quello di "Medicina legale".  
+Art. 265. - Dopo la scuola di perfezionamento in ortopedia e traumatologia e' aggiunto l'ordinamento del nuovo corso di perfezionamento in "Igiene e tecnica ospedaliera".  
+Corso di perfezionamento in igiene e tecnica ospedaliera E' istituito presso l'Istituto di igiene dell'Universita' di Padova un corso di perfezionamento in "Igiene e tecnica ospedaliera".  
+Il corso avra' la durata di un anno accademico.  
+Finalita' del corso e' la preparazione di personale tecnico specificatamente idoneo alla direzione sanitaria degli ospedali e alle loro progettazione e costruzione.  
+Gli insegnamenti sono i seguenti:  
+1) Storia degli ospedali e principi metodologici di assistenza sanitaria;  
+2) Epidemiologia e profilassi e igiene generale applicata all'ambiente ospedaliero;  
+3) Microbiologia e immunologia applicata;  
+4) Chimica e fisica applicata;  
+5) Architettura e edilizia ospedaliera. Tecnologia delle attrezzature ospedaliere;  
+6) Organizzazione funzionale degli ospedali e formazione del personale ospedaliero;  
+7) Igiene dell'alimentazione e dietologia ospedaliera;  
+8) Selezione psicotecnica del personale di igiene mentale negli ospedali;  
+9) Statistica ospedaliera;  
+10) Legislazione e prassi giuridica ed amministrativa della assistenza ospedaliera.  
+Le lezioni saranno integrate da conferenze di esperti, da esercitazioni pratiche, da visite di istruzione e da tirocinio ospedaliero.  
+Al corso saranno ammessi i laureati in medicina e chirurgia, in ingegneria, in architettura.  
+Gli esami saranno tenuti con le modalita' stabilite per le altre Scuole di perfezionamento. A coloro i quali avranno frequentato il corso e superato i relativi esami verra' rilasciato un attestato di frequenza e profitto.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 agosto 1970
+### Dato a Roma, addi' 19 ottobre 1960
 
-SARAGAT MISASI
+GRONCHI BOSCO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 29 settembre 1970
+Registrato alla Corte dei conti, addi' 24 novembre 1960
 
-Atti del Governo, registro n. 237, foglio n. 129. - CARUSO
+Atti del Governo, registro n. 131, foglio n. 91. - VILLA

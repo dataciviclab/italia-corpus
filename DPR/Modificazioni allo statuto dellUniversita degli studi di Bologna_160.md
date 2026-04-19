@@ -1,77 +1,94 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1966 n. 684
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 gennaio 1982 n. 132
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1966 n. 684
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 gennaio 1982 n. 132
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduto l'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Veduta la necessita' di adeguare le norme sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);.  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Lo statuto dell'Universita' di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Decreta:  
+Dopo l'art. 683, e con il conseguente spostamento della numerazione, sono inseriti i seguenti nuovi articoli relativi alla ristrutturazione delle scuole di specializzazione in oncologia.  
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 61, relativi agli Istituti annessi alla Facolta' di economia e commercio, i numeri 5, 8 e 11 sono abrogati e sostituiti dai seguenti:  
-5. Istituto di Matematica: per gli insegnamenti di Matematica generale, di Matematica finanziaria, di Elementi di matematica, di Ricerca operativa.  
-8. Istituto di Ragioneria: per gli insegnamenti di Ragioneria generale e applicata, di Contabilita' nazionale, di Ragioneria pubblica.  
-11. Istituto di Tecnica economica: per gli insegnamenti di Tecnica industriale e commerciale, di Tecnica bancaria e professionale, di Organizzazione aziendale.  
-Art. 62, il comma relativo alla direzione dell'Istituto di matematica di cui all'art. 61 e' modificato come segue:  
-"al professore di ruolo che impartisce l'insegnamento di Matematica generale per l'istituto di matematica.  
-Gli articoli 335, 336, 337, 338, 339 e 340 relativi alla Scuola di perfezionamento in oculistica sono abrogati e sostituiti dai seguenti:  
+Scuola di specializzazione in oncologia  
   
-Scuola di perfezionamento in oculistica  
-Art. 335. - La Scuola di perfezionamento in oculistica conferisce il diploma di specialista in Oculistica.  
-Gli anni di studio postuniversitari necessari per conseguire il titolo sono quattro.  
-Art. 336. - Il numero complessivo degli iscritti ai quattro anni di corso non potra' superare quello di quaranta.  
-Art. 337. - Gli insegnamenti impartiti nella Scuola e distribuiti nei quattro anni di corso sono i seguenti:  
-1° anno:  
-1. Anatomia ed Istologia dell'apparato oculare.  
-2. Nozioni di embriologia e genetica oculare.  
-3. Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari.  
-4. Nozioni di ottica fisiologica, esame della refrazione.  
-5. Microbiologia ed igiene oculare.  
-2° anno:  
-Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia; oftalmologia, perimetria, campimetria, adattometria, senso cromatico, tonometria, esami elettrofunzionali, radiologia).  
-Farmacologia oculare e terapia fisica.  
-Anatomia patologica oculare.  
-Patologia e Clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della sclera).  
-3° anno:  
-Patologia e clinica oculare (malattie dell'urea, della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita', e dell'orbita, glaucoma).  
-Anomalia e patologia della mobilita' oculare e della visione binoculare. Ortottica e pleottica.  
-Affezioni otorinolaringoiatriche e occhio.  
-Tecnica operatoria (biennale).  
-4° anno:  
-Neurooftalmologia.  
-Malattie oculari in rapporto ad affezioni generali.  
-Malattie professionali, infortunistica e medicina legale oculare.  
-Tecnica operatoria (biennale).  
-Art. 338. - E' obbligatorio l'internato per quattro anni nella Clinica oculistica.  
-Art. 339. - Gli esami di profitto verranno sostenuti per gruppo di materie alla fine di ogni anno.  
-Al termine del corso, prima di presentare la dissertazione scritta e sostenere la relativa discussione, i diplomati debbono sostenere una prova pratica sull'ammalato.  
+Art. 684. - La scuola di specializzazione in oncologia ha sede presso l'istituto di cancerologia dell'Universita' degli studi di Bologna e conferisce il diploma di specialista in oncologia.  
+Art. 685. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+Art. 686. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.  
+Art. 687. - La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazione.  
+Art. 688. - Il numero massimo di allievi e' di dieci per ogni anno di corso e complessivamente di trenta iscritti per l'intero corso di studi.  
+Art. 689. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 690. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+patologia generale dei tumori (I);  
+oncologia sperimentale (I);  
+anatomia ed istologia patologica dei tumori (I);  
+epidemiologia dei tumori;  
+cancerogenesi ambientale professionale e prevenzione primaria; immunologia dei tumori.  
+2° Anno:  
+patologia generale di tumori (II);  
+oncologia sperimentale (II);  
+anatomia ed istologia patologica dei tumori (II);  
+citodiagnostica dei tumori;  
+prevenzione clinica e tecniche diagnostiche e di laboratorio;  
+radiodiagnostica dei tumori;  
+oncologia medica (I);  
+oncologia chirurgica (I).  
+3° Anno:  
+oncologia medica (II);  
+oncologia chirurgica (II);  
+radioprotezione dei tumori;  
+oncologia dell'apparato genitale femminile;  
+oncologia pediatrica;  
+principi di riabilitazione oncologica;  
+organizzazione della lotta contro i tumori.  
+E' pure prevista l'organizzazione di seminari e conferenze su specifici argomenti con l'integrazione di quelli elencati nello statuto.  
+Art. 691. - La frequenza alle lezioni, alle esercitazioni pratiche, ai seminari e alle conferenze e' obbligatoria per l'ammissione agli esami. Il superamento degli esami di ciascun anno sara' condizione indispensabile per l'iscrizione all'anno successivo. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.  
+Art. 692. - Al termine del triennio per ottenere il diploma i candidati dovranno presentare una dissertazione scritta su un argomento attinente alla specializzazione.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella. Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 maggio 1966
+### Dato a Roma, addi' 15 gennaio 1982
 
-SARAGAT GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 25 agosto 1966
+Registrato alla Corte dei conti, addi' 15 marzo 1982
 
-Atti del Governo, registro n. 205, foglio n. 18. - VILLA.
+Registro n. 41 istruzione, foglio n. 289

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1978 n. 412
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 ottobre 1977 n. 887
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1978 n. 412
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 ottobre 1977 n. 887
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Siena.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395) e successive modificazioni;
+Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,352 +20,454 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni dagli organi accademici dell'Universita' di Siena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
-Sentito il parere del Consiglio superiore della superiore della proposta del Ministro della pubblica istruzione;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli 145, 146 e 147, relativi alla scuola di specializzazione in clinica pediatrica, che muta la denominazione in quella di scuola di specializzazione in pediatria, sono abrogati e sostituiti dai seguenti:
+Gli articoli 148, 149 e 150, relativi alla scuola di specializzazione in malattie dell'apparato cardiovascolare che muta la denominazione in quella di scuola di specializzazione in cardiologia, sono abrogati e sostituiti dai seguenti:
 
-Scuola di specializzazione in pediatria
+Scuola di specializzazione in cardiologia
 
-Art. 145. - La scuola di specializzazione in pediatria ha sede presso l'istituto di clinica pediatrica e conferisce il diploma di specialista in pediatria.
+Art. 148. - La scuola di specializzazione in cardiologia ha sede presso la clinica medica generale e terapia medica e conferisce il diploma di specialista in cardiologia.
 
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione, o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
 
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
 
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente.
+La durata del corso di studi e' di quattro anni e non suscettibile di abbreviazioni di corso.
 
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
+Il numero massimo degli allievi e' di diciannove al primo anno di corso.
 
-Il numero massimo degli allievi e' di 10 per anno di corso e complessivamente di 40 per l'intero corso di studi.
+L'ammissione al corso avviene per esami.
 
-L'ammissione al corso avviene per titoli ed esami.
-
-Art. 146. - Le materie di insegnamento sono le seguenti:
+Art. 149. - Le materie di insegnamento sono le seguenti:
 
 1° Anno:
 
-genetica;
+1) anatomia umana normale ed embriologia dello apparato cardiovascolare;
 
-auxologia;
+2) fisiologia dell'apparato cardiovascolare I;
 
-alimentazione;
+3) biochimica e biofisica;
 
-epidemiologia;
+4) semeiotica fisica e strumentale dell'apparato cardiovascolare I;
 
-malattie infettive;
-
-clinica pediatrica I.
+5) informatica medica e strumentazione biomedica I.
 
 2° Anno:
 
-radiologia;
+1) anatomia patologica I;
 
-legislazione del minore;
+2) fisiologia dell'apparato cardiovascolare II;
 
-organizzazione sanitaria;
+3) patologia e clinica cardiovascolare I;
 
-psicologia pediatrica;
+4) semeiotica fisica e strumentale dell'apparato cardiovascolare II;
 
-oculistica e ortottica;
+5) informatica medica e strumentazione biomedica II;
 
-otorino e foniatria;
+6) radiologia I;
 
-odonto;
-
-neonatologia I;
-
-chirurgia pediatrica I;
-
-pediatria preventiva e sociale I;
-
-clinica pediatrica II.
+7) aspetti sociali ed epidemiologici delle malattie cardiovascolari.
 
 3° Anno:
 
-neurologia;
+1) anatomia patologica II;
 
-psichiatria infantile;
+2) semeiotica fisica e strumentale dell'apparato cardiovascolare III;
 
-nefrologia e urologia;
+3) patologia e clinica cardiovascolare II;
 
-ginecologia pediatrica;
+4) radiologia II;
 
-neonatologia II;
-
-chirurgia pediatrica II;
-
-pediatria preventiva e sociale II;
-
-cardiologia I;
-
-endocrinologia I;
-
-ematologia I;
-
-immunologia I;
-
-gastroenterologia I;
-
-clinica pediatrica III.
+5) terapia medica e farmacologia clinica I.
 
 4° Anno:
 
-oncologia;
+1) semeiotica fisica e strumentale dell'apparato cardiovascolare IV;
 
-pneumologia;
+2) patologia e clinica cardiovascolare III;
 
-ortopedia e traumatologia;
+3) terapia medica e farmacologia clinica II;
 
-dermatologia;
+4) terapia chirurgica;
 
-cardiologia II;
+5) terapie intensive cardiologiche.
 
-endocrinologia II;
+Art. 150. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.
 
-ematologia II;
+Gli allievi che non hanno conseguito le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
 
-immunologia II;
+Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esami sulle materie impartite durante l'anno.
 
-gastroenterologia II;
+Al termine del corso di studi per il conseguimento del diploma di specialista in cardiologia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento di carattere cardiologico.
 
-clinica pediatrica IV.
+Le tasse, soprattasse e contributi della scuola di specializzazione in cardiologia sono cosi' fissate:
 
-Art. 147. - La frequenza alle lezioni, alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere le prove di esame.
+immatricolazione . . . . . . . . . . . . .. . . . . L. 12.000 tassa annuale di iscrizione . . . . . . . . . . . . " 200.000 soprattassa annuale di esame. . . . . . . . . . . . " 16.000
 
-Alla fine di ciascun anno di corso gli iscritti per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
+contributi annui di laboratorio . . . . . . . . . . " 14.000
 
-Al termine del corso di studi per il conseguimento del diploma di specialista in pediatria, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+tassa di diploma. . . . . . . . . . . . . . . . . . " 20.000
 
-Le tasse, soprattasse e contributi della scuola di specializzazione in pediatria sono cosi' fissate:
+Gli articoli 171 e 172, relativi alla scuola di specializzazione in malattie infettive, sono abrogati e sostituiti dai seguenti:
 
-immatricolazione. . . . . . . . . . . . . . . . . . . . L. 12.000 tassa annuale di iscrizione. . . . . . . . . . . . . . L. 200.000 soprattassa annuale di esame. . . . . . . . . . . . . . L. 16.000 contributi annui di laboratorio . . . . . . . . . . . . L. 14.000 tassa di diploma. . . . . . . . . . . . . . . . . . . . L. 20.000
+Scuola di specializzazione in malattie infettive
 
-L'art. 151, relativo alla scuola di specializzazione in anestesiologia e rianimazione, che muta la denominazione in quella di scuola di specializzazione in anestesia e rianimazione, e' abrogato e sostituito dal seguente:
-
-Scuola di specializzazione in anestesia e rianimazione
-
-Art. 151. - La scuola di specializzazione in anestesia e rianimazione ha sede presso l'istituto di anestesiologia e rianimazione e conferisce il diploma di specialista in anestesia e rianimazione.
+Art. 171. - La scuola di specializzazione in malattie infettive ha sede presso la cattedra di malattie infettive dell'Universita' di Siena e conferisce il diploma di specialista in malattie infettive.
 
 La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
 
 Possono iscriversi alla scuola i laureati in medicina e chirurgia.
 
-E' richiesto, almeno per l'inizio del corso, il possesso di diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente.
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.
 
-La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazione.
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
 
-Il numero massimo degli allievi e' di 30 per anno di corso e complessivamente di 90 iscritti per l'intero corso di studi.
+Il numero massimo di allievi e' di quattro per anno di corso e complessivamente di sedici iscritti per l'intero corso di studi.
 
 L'ammissione al corso avviene per titoli ed esami.
 
-Le materie di insegnamento sono le seguenti:
+Art. 172. - Le materie di insegnamento sono le seguenti:
 
 1° Anno:
 
-anatomia applicata all'anestesia ed alla rianimazione;
+1) epidemiologia generale delle malattie infettive;
 
-biochimica applicata all'anestesia ed alla rianimazione;
+2) batteriologia e micologia;
 
-farmacologia applicata all'anestesia ed alla rianimazione;
+3) virologia;
 
-fisica applicata all'anestesia ed alla rianimazione;
+4) parassitologia;
 
-fisiologia applicata all'anestesia ed alla rianimazione;
+5) immunologia generale.
 
-anestesiologia I;
+2° Anno:
 
-tecniche chirurgiche di interesse anestesiologico;
+1) tecniche batteriologiche e micologia applicata alle malattie infettive;
 
-aspetti medico-legali dell'anestesia e della rianimazione;
+2) tecniche virologiche applicate alle malattie infettive;
+
+3) tecniche parassitologiche applicate alle malattie infettive;
+
+4) tecniche immunologiche applicate alle malattie infettive;
+
+5) anatomia patologica;
+
+6) genetica.
+
+3° Anno:
+
+1) clinica delle malattie infettive (I anno);
+
+2) diagnostica e semeiotica delle malattie infettive;
+
+3) radiologia;
+
+4) medicina preventiva delle malattie infettive.
+
+4° Anno:
+
+1) clinica delle malattie infettive (II anno);
+
+2) malattie tropicali;
+
+3) legislazione sanitaria delle malattie infettive;
+
+4) farmacologia e terapia delle malattie infettive.
+
+La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.
+
+Al termine di ciascun anno di corso gli allievi sono tenuti a sostenere gli esami del rispettivo anno; al termine del corso di studi per il conseguimento del diploma di specialista in malattie infettive gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente la specialita'.
+
+Agli allievi i quali abbiano ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specializzazione in malattie infettive.
+
+Le tasse, soprattasse e contributi della scuola di specializzazione in malattie infettive sono cosi' fissate:
+
+immatricolazione . . . .. . . . . . . . . . . . . . L. 12.000 tassa annuale di iscrizione . . . . . . . . . . . . " 200.000 soprattassa annuale di esame. . . . . . . . . . . . " 16.000
+
+contributi annui di laboratorio . . . . . . . . . . " 14.000
+
+tassa di diploma. . . . . . . . . . . . . . . . . . " 20.000
+
+Dopo l'art. 193, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in odontostomatologia.
+
+Scuola di specializzazione in odontostomatologia
+
+Art. 194. - La durata del corso di studi per il conseguimento del diploma di specialista in odontostomatologia e' di tre anni e non e' suscettibile di abbreviazioni.
+
+La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.
+
+Il numero degli iscritti, distribuiti nei tre anni di corso, e' di dodici (quattro per anno di corso).
+
+Art. 195. - Gli insegnamenti della scuola sono cosi' ripartiti nei tre anni di corso:
+
+1° Anno:
+
+embriologia ed anatomia dentale e maxillo-facciale (semestrale);
+
+microbiologia e igiene orale (semestrale);
+
+farmacologia (annuale);
+
+odontotecnica (annuale);
+
+anestesia e chirurgia stomatologica (annuale);
+
+patologia odonto-stomatologica (annuale);
+
+odontoiatrica conservativa (biennale I);
 
 esercitazioni pratiche.
 
 2° Anno:
 
-anestesiologia II;
+odontoiatria conservativa (biennale II);
 
-terapia antalgica;
+clinica protesica dentaria e maxillo-facciale (biennale I);
 
-rianimazione I;
+parodontologia (biennale I);
+
+ortopedia dento-maxillo-facciale (biennale I);
+
+chirurgia maxillo-facciale (biennale I);
+
+odontoiatria infantile (annuale);
+
+radiologia odonto-stomatologica (annuale);
+
+anatomia e isto-patologia odonto-stomatologica (annuale);
 
 esercitazioni pratiche.
 
 3° Anno:
 
-rianimazione II;
+clinica odonto-stomatologica (annuale);
 
-tecniche speciali di anestesia;
+chirurgia maxillo-facciale (biennale II);
 
-tecniche speciali di rianimazione;
+ortopedia dento-maxillo-facciale (biennale II);
 
-indagini diagnostiche attinenti alla specialita';
+paradontologia (biennale II);
+
+clinica protesica dentaria e maxillo-facciale (biennale II);
+
+medicina legale e delle assicurazioni odonto-stomatologica (semestrale);
 
 esercitazioni pratiche.
 
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.
+Art. 196. - Al termine di ciascun anno di corso gli allievi dovranno sostenere un esame di profitto teorico e pratico sulle materie che sono state oggetto di insegnamento dinanzi ad una apposita commissione di almeno tre membri e presieduta dal direttore della scuola.
 
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+Per il conseguimento del diploma di specialista in odontostomatologia l'allievo dovra' sostenere, dinanzi ad una apposita commissione di sette membri e presieduta dal direttore della scuola, la discussione di una tesi scritta.
 
-Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.
+Le tasse, soprattasse e contributi della scuola di specializzazione in odontostomatologia sono cosi' fissate:
 
-Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.
+immatricolazione . . . . . . . . . . . . . . . . . L. 12.000
 
-Al termine del corso di studi per il conseguimento del diploma di specialista in anestesia e rianimazione gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+tassa annuale di iscrizione . . . . . . . . . . . . " 200.000 soprattassa annuale di esame. . . . . . . . . . . . " 16.000
 
-Le tasse, soprattasse e contributi della scuola di specializzazione in anestesia e rianimazione sono cosi' fissate:
+contributi annui di laboratorio . . . . . . . . . . " 14.000
 
-immatricolazione. . . . . . . . . . . . . . . . . . . . L. 12.000 tassa annuale di iscrizione. . . . . . . . . . . . . . L. 200.000 soprattassa annuale di esame. . . . . . . . . . . . . . L. 16.000 contributi annui di laboratorio . . . . . . . . . . . . L. 14.000 tassa di diploma. . . . . . . . . . . . . . . . . . . . L. 20.000
+tassa di diploma. . . . . . . . . . . . . . . . . . " 20.000
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 10 aprile 1978
+Dato a Roma, addi' 10 ottobre 1977
 
 LEONE
 
-PEDINI
+MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 15 luglio 1978 Registro n. 75 Istruzione, foglio n. 320
+alla Corte dei conti, addi' 30 novembre 1977 Registro n. 136 Istruzione, foglio n. 215
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della superiore della proposta del Ministro della pubblica istruzione;  
+Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni dagli organi accademici dell'Universita' di Siena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 145, 146 e 147, relativi alla scuola di specializzazione in clinica pediatrica, che muta la denominazione in quella di scuola di specializzazione in pediatria, sono abrogati e sostituiti dai seguenti:  
+Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Scuola di specializzazione in pediatria  
+Gli articoli 148, 149 e 150, relativi alla scuola di specializzazione in malattie dell'apparato cardiovascolare che muta la denominazione in quella di scuola di specializzazione in cardiologia, sono abrogati e sostituiti dai seguenti:   
   
-Art. 145. - La scuola di specializzazione in pediatria ha sede presso l'istituto di clinica pediatrica e conferisce il diploma di specialista in pediatria.  
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione, o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente.  
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
-Il numero massimo degli allievi e' di 10 per anno di corso e complessivamente di 40 per l'intero corso di studi.  
-L'ammissione al corso avviene per titoli ed esami.  
-Art. 146. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-genetica;  
-auxologia;  
-alimentazione;  
-epidemiologia;  
-malattie infettive;  
-clinica pediatrica I.  
-2° Anno:  
-radiologia;  
-legislazione del minore;  
-organizzazione sanitaria;  
-psicologia pediatrica;  
-oculistica e ortottica;  
-otorino e foniatria;  
-odonto;  
-neonatologia I;  
-chirurgia pediatrica I;  
-pediatria preventiva e sociale I;  
-clinica pediatrica II.  
-3° Anno:  
-neurologia;  
-psichiatria infantile;  
-nefrologia e urologia;  
-ginecologia pediatrica;  
-neonatologia II;  
-chirurgia pediatrica II;  
-pediatria preventiva e sociale II;  
-cardiologia I;  
-endocrinologia I;  
-ematologia I;  
-immunologia I;  
-gastroenterologia I;  
-clinica pediatrica III.  
-4° Anno:  
-oncologia;  
-pneumologia;  
-ortopedia e traumatologia;  
-dermatologia;  
-cardiologia II;  
-endocrinologia II;  
-ematologia II;  
-immunologia II;  
-gastroenterologia II;  
-clinica pediatrica IV.  
-Art. 147. - La frequenza alle lezioni, alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere le prove di esame.  
-Alla fine di ciascun anno di corso gli iscritti per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.  
-Al termine del corso di studi per il conseguimento del diploma di specialista in pediatria, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
-Le tasse, soprattasse e contributi della scuola di specializzazione in pediatria sono cosi' fissate:  
+Scuola di specializzazione in cardiologia   
   
-immatricolazione. . . . . . . . . . . . . . . . . . . . L. 12.000 tassa annuale di iscrizione. . . . . . . . . . . . . . L. 200.000 soprattassa annuale di esame. . . . . . . . . . . . . . L. 16.000 contributi annui di laboratorio . . . . . . . . . . . . L. 14.000 tassa di diploma. . . . . . . . . . . . . . . . . . . . L. 20.000   
-L'art. 151, relativo alla scuola di specializzazione in anestesiologia e rianimazione, che muta la denominazione in quella di scuola di specializzazione in anestesia e rianimazione, e' abrogato e sostituito dal seguente:  
+Art. 148. - La scuola di specializzazione in cardiologia ha sede presso la clinica medica generale e terapia medica e conferisce il diploma di specialista in cardiologia.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di quattro anni e non suscettibile di abbreviazioni di corso.   
+Il numero massimo degli allievi e' di diciannove al primo anno di corso.   
+L'ammissione al corso avviene per esami.   
   
-Scuola di specializzazione in anestesia e rianimazione  
+Art. 149. - Le materie di insegnamento sono le seguenti:   
   
-Art. 151. - La scuola di specializzazione in anestesia e rianimazione ha sede presso l'istituto di anestesiologia e rianimazione e conferisce il diploma di specialista in anestesia e rianimazione.  
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno per l'inizio del corso, il possesso di diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente.  
-La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazione.  
-Il numero massimo degli allievi e' di 30 per anno di corso e complessivamente di 90 iscritti per l'intero corso di studi.  
-L'ammissione al corso avviene per titoli ed esami.  
-Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-anatomia applicata all'anestesia ed alla rianimazione;  
-biochimica applicata all'anestesia ed alla rianimazione;  
-farmacologia applicata all'anestesia ed alla rianimazione;  
-fisica applicata all'anestesia ed alla rianimazione;  
-fisiologia applicata all'anestesia ed alla rianimazione;  
-anestesiologia I;  
-tecniche chirurgiche di interesse anestesiologico;  
-aspetti medico-legali dell'anestesia e della rianimazione;  
-esercitazioni pratiche.  
-2° Anno:  
-anestesiologia II;  
-terapia antalgica;  
-rianimazione I;  
-esercitazioni pratiche.  
-3° Anno:  
-rianimazione II;  
-tecniche speciali di anestesia;  
-tecniche speciali di rianimazione;  
-indagini diagnostiche attinenti alla specialita';  
-esercitazioni pratiche.  
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.  
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
-Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.  
-Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.  
-Al termine del corso di studi per il conseguimento del diploma di specialista in anestesia e rianimazione gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
-Le tasse, soprattasse e contributi della scuola di specializzazione in anestesia e rianimazione sono cosi' fissate:  
+1° Anno:   
+1) anatomia umana normale ed embriologia dello apparato cardiovascolare;   
+2) fisiologia dell'apparato cardiovascolare I;   
+3) biochimica e biofisica;   
+4) semeiotica fisica e strumentale dell'apparato cardiovascolare I;   
+5) informatica medica e strumentazione biomedica I.   
   
-immatricolazione. . . . . . . . . . . . . . . . . . . . L. 12.000 tassa annuale di iscrizione. . . . . . . . . . . . . . L. 200.000 soprattassa annuale di esame. . . . . . . . . . . . . . L. 16.000 contributi annui di laboratorio . . . . . . . . . . . . L. 14.000 tassa di diploma. . . . . . . . . . . . . . . . . . . . L. 20.000   
+2° Anno:   
+1) anatomia patologica I;   
+2) fisiologia dell'apparato cardiovascolare II;   
+3) patologia e clinica cardiovascolare I;   
+4) semeiotica fisica e strumentale dell'apparato cardiovascolare II;   
+5) informatica medica e strumentazione biomedica II;   
+6) radiologia I;   
+7) aspetti sociali ed epidemiologici delle malattie cardiovascolari.   
+  
+3° Anno:   
+1) anatomia patologica II;   
+2) semeiotica fisica e strumentale dell'apparato cardiovascolare III;   
+3) patologia e clinica cardiovascolare II;   
+4) radiologia II;   
+5) terapia medica e farmacologia clinica I.   
+  
+4° Anno:   
+1) semeiotica fisica e strumentale dell'apparato cardiovascolare IV;   
+2) patologia e clinica cardiovascolare III;   
+3) terapia medica e farmacologia clinica II;   
+4) terapia chirurgica;   
+5) terapie intensive cardiologiche.   
+  
+Art. 150. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.   
+Gli allievi che non hanno conseguito le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esami sulle materie impartite durante l'anno.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in cardiologia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento di carattere cardiologico.   
+Le tasse, soprattasse e contributi della scuola di specializzazione in cardiologia sono cosi' fissate:   
+immatricolazione . . . . . . . . . . . . .. . . . . L. 12.000 tassa annuale di iscrizione . . . . . . . . . . . . " 200.000 soprattassa annuale di esame. . . . . . . . . . . . " 16.000   
+contributi annui di laboratorio . . . . . . . . . . " 14.000   
+tassa di diploma. . . . . . . . . . . . . . . . . . " 20.000   
+  
+Gli articoli 171 e 172, relativi alla scuola di specializzazione in malattie infettive, sono abrogati e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in malattie infettive   
+  
+Art. 171. - La scuola di specializzazione in malattie infettive ha sede presso la cattedra di malattie infettive dell'Universita' di Siena e conferisce il diploma di specialista in malattie infettive.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.   
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.   
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
+Il numero massimo di allievi e' di quattro per anno di corso e complessivamente di sedici iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+  
+Art. 172. - Le materie di insegnamento sono le seguenti:   
+  
+1° Anno:   
+1) epidemiologia generale delle malattie infettive;   
+2) batteriologia e micologia;   
+3) virologia;   
+4) parassitologia;   
+5) immunologia generale.   
+  
+2° Anno:   
+1) tecniche batteriologiche e micologia applicata alle malattie infettive;   
+2) tecniche virologiche applicate alle malattie infettive;   
+3) tecniche parassitologiche applicate alle malattie infettive;  
+4) tecniche immunologiche applicate alle malattie infettive;   
+5) anatomia patologica;   
+6) genetica.   
+  
+3° Anno:   
+1) clinica delle malattie infettive (I anno);   
+2) diagnostica e semeiotica delle malattie infettive;   
+3) radiologia;   
+4) medicina preventiva delle malattie infettive.   
+  
+4° Anno:   
+1) clinica delle malattie infettive (II anno);   
+2) malattie tropicali;   
+3) legislazione sanitaria delle malattie infettive;   
+4) farmacologia e terapia delle malattie infettive.   
+  
+La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.   
+Al termine di ciascun anno di corso gli allievi sono tenuti a sostenere gli esami del rispettivo anno; al termine del corso di studi per il conseguimento del diploma di specialista in malattie infettive gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente la specialita'.   
+Agli allievi i quali abbiano ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specializzazione in malattie infettive.   
+Le tasse, soprattasse e contributi della scuola di specializzazione in malattie infettive sono cosi' fissate:   
+immatricolazione . . . .. . . . . . . . . . . . . . L. 12.000 tassa annuale di iscrizione . . . . . . . . . . . . " 200.000 soprattassa annuale di esame. . . . . . . . . . . . " 16.000   
+contributi annui di laboratorio . . . . . . . . . . " 14.000   
+tassa di diploma. . . . . . . . . . . . . . . . . . " 20.000   
+  
+Dopo l'art. 193, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in odontostomatologia.   
+  
+Scuola di specializzazione in odontostomatologia   
+  
+Art. 194. - La durata del corso di studi per il conseguimento del diploma di specialista in odontostomatologia e' di tre anni e non e' suscettibile di abbreviazioni.   
+La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.   
+Il numero degli iscritti, distribuiti nei tre anni di corso, e' di dodici (quattro per anno di corso).   
+  
+Art. 195. - Gli insegnamenti della scuola sono cosi' ripartiti nei tre anni di corso:   
+  
+1° Anno:   
+embriologia ed anatomia dentale e maxillo-facciale (semestrale);   
+microbiologia e igiene orale (semestrale);   
+farmacologia (annuale);   
+odontotecnica (annuale);   
+anestesia e chirurgia stomatologica (annuale);   
+patologia odonto-stomatologica (annuale);   
+odontoiatrica conservativa (biennale I);   
+esercitazioni pratiche.   
+  
+2° Anno:   
+odontoiatria conservativa (biennale II);   
+clinica protesica dentaria e maxillo-facciale (biennale I);   
+parodontologia (biennale I);   
+ortopedia dento-maxillo-facciale (biennale I);   
+chirurgia maxillo-facciale (biennale I);   
+odontoiatria infantile (annuale);   
+radiologia odonto-stomatologica (annuale);   
+anatomia e isto-patologia odonto-stomatologica (annuale);   
+esercitazioni pratiche.   
+  
+3° Anno:   
+clinica odonto-stomatologica (annuale);   
+chirurgia maxillo-facciale (biennale II);   
+ortopedia dento-maxillo-facciale (biennale II);   
+paradontologia (biennale II);   
+clinica protesica dentaria e maxillo-facciale (biennale II);   
+medicina legale e delle assicurazioni odonto-stomatologica (semestrale);   
+esercitazioni pratiche.   
+  
+Art. 196. - Al termine di ciascun anno di corso gli allievi dovranno sostenere un esame di profitto teorico e pratico sulle materie che sono state oggetto di insegnamento dinanzi ad una apposita commissione di almeno tre membri e presieduta dal direttore della scuola.   
+Per il conseguimento del diploma di specialista in odontostomatologia l'allievo dovra' sostenere, dinanzi ad una apposita commissione di sette membri e presieduta dal direttore della scuola, la discussione di una tesi scritta.   
+Le tasse, soprattasse e contributi della scuola di specializzazione in odontostomatologia sono cosi' fissate:   
+immatricolazione . . . . . . . . . . . . . . . . . L. 12.000   
+tassa annuale di iscrizione . . . . . . . . . . . . " 200.000 soprattassa annuale di esame. . . . . . . . . . . . " 16.000   
+contributi annui di laboratorio . . . . . . . . . . " 14.000   
+tassa di diploma. . . . . . . . . . . . . . . . . . " 20.000   
+  
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 aprile 1978
+### Dato a Roma, addi' 10 ottobre 1977
 
-LEONE PEDINI
+LEONE MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 15 luglio 1978
+Registrato alla Corte dei conti, addi' 30 novembre 1977
 
-Registro n. 75 Istruzione, foglio n. 320
+Registro n. 136 Istruzione, foglio n. 215

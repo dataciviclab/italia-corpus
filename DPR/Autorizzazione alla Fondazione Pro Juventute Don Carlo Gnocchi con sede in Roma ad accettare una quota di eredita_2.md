@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1959 n. 108
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 aprile 1965 n. 789
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1959 n. 108
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 aprile 1965 n. 789
+=============================================================
 
 Autorizzazione alla "Fondazione Pro Juventute Don Carlo Gnocchi", con sede in Roma, ad accettare una quota di eredita'.
 -----------------------------------------------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-108. Decreto del Presidente della Repubblica 5 febbraio 1959, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare, col beneficio d'inventario, la quota di eredita' disposta dalla defunta signora Assunta Ricci ved.  
-Delfino con testamento olografo 12 luglio 1955, a favore dell'"Opera dei mutilatini di Don Gnocchi", che si identifica con la Fondazione suindicata.  
+789. Decreto del Presidente della Repubblica 3 maggio 1965, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare, col beneficio d'inventario, una quota di eredita' disposta dalla defunta signorina Becchia Carlotta, con testamento olografo del 4 giugno 1957, depositato e pubblicato con verbale a rogito avv. Remo Morone, notaio in Torino, in data 18 giugno 1962, repertorio n. 152.964.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 27 marzo 1959  
-Atti del Governo, registro n. 117, foglio n. 34. - VILLA
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 5 luglio 1965  
+Atti del Governo, registro n. 195, foglio n. 21. - VILLA

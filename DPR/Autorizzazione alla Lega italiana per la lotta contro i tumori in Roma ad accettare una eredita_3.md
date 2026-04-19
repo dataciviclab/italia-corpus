@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1981 n. 587
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 giugno 1982 n. 732
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1981 n. 587
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 giugno 1982 n. 732
 =============================================================
 
 Autorizzazione alla Lega italiana per la lotta contro i tumori, in Roma, ad accettare una eredita'.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-587. Decreto del Presidente della Repubblica 2 maggio 1981, col quale, sulla proposta del Ministro della sanita', la Lega italiana per la lotta contro i tumori, in Roma, viene autorizzata ad accettare l'eredita', consistente in beni immobili e mobili e in un deposito bancario, del valore complessivo di circa lire 2.000.000.000, disposta dalla sig.ra Elena Vitali con testamento olografo 18 aprile 1975, pubblicato in data 30 settembre 1977, n. 52922/6823 di repertorio, a rogito dott. Antonio Cardarelli, notaio in Macerata, registrato a Macerata in data 4 ottobre 1977 al n. 2630.  
+732. Decreto del Presidente della Repubblica 17 giugno 1982, col quale, sulla proposta del Ministro della sanita', la Lega italiana per la lotta contro i tumori, in Roma, viene autorizzata ad accettare l'eredita', consistente nella somma di L. 12.257.731, oltre agli interessi maturati e maturandi dal 1 gennaio 1978, depositata presso la Cassa di risparmio di Gorizia sul conto corrente n. 256/30, disposta dal sig. Carlo Maria Verani in favore della sezione provinciale di Trieste dell'ente con testamento olografo 19 gennaio 1978, pubblicato in data 27 settembre 1978 numero 39344/2729 di repertorio, a rogito dott. Giuseppe Sardelli, notaio in Gorizia, registrato a Gorizia in data 4 ottobre 1978 al n. 2198.  
   
 Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 8 ottobre 1981  
-Registro n. 5 Sanita', foglio n. 390
+Registrato alla Corte dei conti, addi' 2 ottobre 1982  
+Registro n. 6 Sanita', foglio n. 236

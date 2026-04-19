@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 febbraio 1972 n. 155
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1964 n. 1153
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 febbraio 1972 n. 155
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1964 n. 1153
+=================================================================
 
 Autorizzazione all'Unione italiana dei ciechi, con sede in Roma, ad accettare un legato.
 ----------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-155. Decreto del Presidente della Repubblica 21 febbraio 1972, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede in Roma, viene autorizzata ad accettare il legato disposto dalla signorina Virani Angela con testamento olografo depositato e pubblicato con verbale a rogito del dott. Giovanni Battista Marchisio, notaio in Poirino (Torino) in data 24 marzo 1970, numero 3272/1968 di repertorio, che si concreta in alcuni appezzamenti di terreno di complessive are 224,26 siti nel comune di Torino, descritti e valutati in lire 6.440.000.  
+1153. Decreto del Presidente della Repubblica 19 settembre 1964, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede in Roma, viene autorizzata ad accettare un legato a favore della "Unione per l'assistenza ai ciechi di Brescia", disposto dal defunto sig. Luigi Colombo, con testamento olografo del 16 marzo 1961, pubblicato per atto a rogito dott. Gerolamo Calini, notaio residente in Brescia, in data 8 giugno 1962, n. 78-41 di repertorio, n. 4985 di racc.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 20 aprile 1972  
-Atti del Governo, registro n. 248, foglio n. 50. - VALENTINI
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 6 novembre 1964  
+Atti del Governo, registro n. 188, foglio n. 31. - VILLA

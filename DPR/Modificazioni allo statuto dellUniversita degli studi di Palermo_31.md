@@ -1,51 +1,179 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1971 n. 1137
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1966 n. 101
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1971 n. 1137
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1966 n. 101
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, numero 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933 n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e Successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 42. - Agli insegnamenti complementari del corpo di laurea in Scienze naturali sono aggiunti quelli di:
+
+Fisiologia dello sviluppo;
+
+Embriologia chimica.
+
+Art. 43. - Agli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto quello di "Farmacologia".
+
+Art. 44. - All'elenco degli Istituti annessi alla Facolta' di scienze matematiche, fisiche e naturali sono aggiunti quelli di:
+
+Istituto di chimica fisica;
+
+Istituto di fisiologia generale;
+
+Istituto di geofisica mineraria;
+
+Istituto di istologia ed embriologia.
+
+Dopo l'art. 145 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in chirurgia vascolare.
+
+Scuola di specializzazione in Chirurgia vascolare
+
+Art. 146. - Presso la Facolta' di medicina e chirurgia e' istituita la Scuola di specializzazione in "Chirurgia vascolare".
+
+Art. 147. - La durata del corso degli studi per il conseguimento del diploma e' di due anni.
+
+Art. 148. - La Scuola ha sede presso l'Istituto di clinica chirurgica generale e terapia chirurgica dell'Universita'. Direttore della Scuola e' il professore di ruolo titolare della Cattedra di clinica chirurgica o, ove cio' non sia possibile, su proposta della Facolta', altro professore di ruolo il cui insegnamento sia compreso fra quelli impartiti nella Scuola stessa.
+
+Art. 149. - Alla Scuola sono ammessi soltanto i laureati in medicina e chirurgia.
+
+Art. 150. - Il numero massimo di allievi che possono essere accolti e' di quindici per anno di corso.
+
+Art. 6. - Le materie d'insegnamento sono:
+
+1° Anno:
+
+1) Anatomia macro e microscopica dell'apparato vascolare;
+
+2) Fisiopatologia della circolazione periferica e nella coagulazione sanguigna;
+
+3) Anatomia patologica dell'apparato vascolare;
+
+4) Semeiologia fisica e strumentale dell'apparato vascolare;
+
+5) Studio radiologico delle malattie vascolari;
+
+6) Le angiopatie in medicina;
+
+7) Le angiopatie dei tugumenti.
+
+2° Anno:
+
+1) Malattie vascolari (arteriopatie, flebopatie, lesioni dei piccoli vasi e linfopatie);
+
+2) Terapia medica delle malattie vascolari;
+
+3) Chirurgia vascolare.
+
+Art. 151. - Gli allievi alla fine di ogni anno di corso dovranno sostenere di fronte ad una Commissione proposta dal direttore della Scuola ed approvata dal preside, un colloquio per stabilire la loro idoneita' o meno per la iscrizione al successivo anno di corso. Alla fine del biennio gli allievi che hanno frequentato i corsi e superata la prova del colloquio saranno ammessi agli esami di diploma consistenti nella presentazione e discussione di una tesi scritta su argomento pertinente la chirurgia vascolare e in una prova teorica.
+
+Agli allievi che hanno ottenuto l'approvazione dell'esame di diploma verra' rilasciato il diploma di specializzazione in chirurgia vascolare, valido a tutti gli effetti di legge.
+
+Art. 152. - Per quanto non esplicitamente richiamato nei vari articoli riportati valgono le norme generali stabilite dallo statuto dell'Universita' di Palermo.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 14 febbraio 1966
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 15 marzo 1966 Atti del Governo, registro n. 202, foglio n. 43. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;  
-Veduto il testo unico delle leggi, sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, numero 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933 n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e Successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere, del Consiglio superiore della pubblica istruzione;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 89. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:  
+Art. 42. - Agli insegnamenti complementari del corpo di laurea in Scienze naturali sono aggiunti quelli di:  
   
-Batteriologia fitopatologica;  
-Fisiopatologia;  
-Allevamento vegetale;  
-Classificazione agronomica e cartografia dei suoli;  
-Sistemazioni idrauliche e difesa del suolo;  
-Viabilita' rurale (semestrale).  
+Fisiologia dello sviluppo;  
+Embriologia chimica.  
+Art. 43. - Agli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto quello di "Farmacologia".  
+Art. 44. - All'elenco degli Istituti annessi alla Facolta' di scienze matematiche, fisiche e naturali sono aggiunti quelli di:  
+Istituto di chimica fisica;  
+Istituto di fisiologia generale;  
+Istituto di geofisica mineraria;  
+Istituto di istologia ed embriologia.  
+Dopo l'art. 145 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in chirurgia vascolare.  
   
-Nello stesso articolo gli insegnamenti complementari di: virologia, nematologia e sociologia mutano denominazione rispettivamente in "Virologia vegetale", "Nematologia agraria", "Sociologia rurale".  
+Scuola di specializzazione in Chirurgia vascolare  
+Art. 146. - Presso la Facolta' di medicina e chirurgia e' istituita la Scuola di specializzazione in "Chirurgia vascolare".  
+Art. 147. - La durata del corso degli studi per il conseguimento del diploma e' di due anni.  
+Art. 148. - La Scuola ha sede presso l'Istituto di clinica chirurgica generale e terapia chirurgica dell'Universita'. Direttore della Scuola e' il professore di ruolo titolare della Cattedra di clinica chirurgica o, ove cio' non sia possibile, su proposta della Facolta', altro professore di ruolo il cui insegnamento sia compreso fra quelli impartiti nella Scuola stessa.  
+Art. 149. - Alla Scuola sono ammessi soltanto i laureati in medicina e chirurgia.  
+Art. 150. - Il numero massimo di allievi che possono essere accolti e' di quindici per anno di corso.  
+Art. 6. - Le materie d'insegnamento sono:  
+1° Anno:  
+1) Anatomia macro e microscopica dell'apparato vascolare;  
+2) Fisiopatologia della circolazione periferica e nella coagulazione sanguigna;  
+3) Anatomia patologica dell'apparato vascolare;  
+4) Semeiologia fisica e strumentale dell'apparato vascolare;  
+5) Studio radiologico delle malattie vascolari;  
+6) Le angiopatie in medicina;  
+7) Le angiopatie dei tugumenti.  
+2° Anno:  
+1) Malattie vascolari (arteriopatie, flebopatie, lesioni dei piccoli vasi e linfopatie);  
+2) Terapia medica delle malattie vascolari;  
+3) Chirurgia vascolare.  
+Art. 151. - Gli allievi alla fine di ogni anno di corso dovranno sostenere di fronte ad una Commissione proposta dal direttore della Scuola ed approvata dal preside, un colloquio per stabilire la loro idoneita' o meno per la iscrizione al successivo anno di corso. Alla fine del biennio gli allievi che hanno frequentato i corsi e superata la prova del colloquio saranno ammessi agli esami di diploma consistenti nella presentazione e discussione di una tesi scritta su argomento pertinente la chirurgia vascolare e in una prova teorica.  
+Agli allievi che hanno ottenuto l'approvazione dell'esame di diploma verra' rilasciato il diploma di specializzazione in chirurgia vascolare, valido a tutti gli effetti di legge.  
+Art. 152. - Per quanto non esplicitamente richiamato nei vari articoli riportati valgono le norme generali stabilite dallo statuto dell'Universita' di Palermo.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 ottobre 1971
+### Dato a Roma, addi' 14 febbraio 1966
 
-SARAGAT MISASI
+SARAGAT GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 21 dicembre 1971
+Registrato alla Corte dei conti, addi' 15 marzo 1966
 
-Atti del Governo, registro n. 245, foglio n. 127. - VALENTINI
+Atti del Governo, registro n. 202, foglio n. 43. - VILLA

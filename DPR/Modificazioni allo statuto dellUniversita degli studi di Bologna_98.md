@@ -1,159 +1,154 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1979 n. 359
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 725
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1979 n. 359
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 725
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna, e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli 520, 521 e 522, relativi alla scuola di specializzazione in psichiatria, sono soppressi e sostituiti dai seguenti:   
+Decreta:  
   
-Scuola di specializzazione in psichiatria   
-Art. 520. - La scuola di specializzazione in psichiatria ha sede presso l'istituto di psichiatria e conferisce il diploma di specialista in psichiatria.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.   
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
-Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Art. 521. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) metodologia del rapporto medico-paziente (annuale);   
-2) psicologia (annuale);   
-3) elementi di genetica e biochimica (annuale);   
-4) struttura e funzioni integrative del SNC (annuale);   
-5) neurologia clinica (annuale);   
-6) clinica psichiatrica I (quadriennale).   
-2° Anno:   
-1) psicopatologia e psicodinamica (annuale);   
-2) psicoterapia I (triennale);   
-3) psicofarmacologia (annuale);   
-4) psicofarmacoterapia (annuale);   
-5) clinica psichiatrica II (quadriennale).   
-3° Anno:   
-1) psicodiagnostica ed informatica psichiatrica (annuale);   
-2) psichiatria sociale I (biennale);   
-3) psichiatria infantile (annuale);   
-4) psicoterapia II (triennale);   
-5) clinica psichiatrica III (quadriennale).   
-4° Anno:   
-1) psicosomatica (annuale);   
-2) psichiatria sociale II (biennale);   
-3) psichiatria forense (annuale);   
-4) psicoterapia III (triennale);   
-5) clinica psichiatrica IV (quadriennale).   
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 467, 468, 469, 470, 471, 472, relativi alla "Scuola di perfezionamento in chirurgia" che muta la denominazione in quella di "Scuola di specializzazione in chirurgia", sono abrogati e sostituiti dai seguenti:  
   
-Note esplicative.   
-1) Strutture e funzioni integrative del SNC: tale materia, annuale, e' comprensiva della anatomofisiologia del SNC e della psicofisiologia.   
-2) Neurologia clinica: tale insegnamento, annuale, deve essere comprensivo, eventualmente con sottodivisioni, di cenni di anatomia patologica del SN, di semeiologia neurologica, clinica e strumentale, di neuroradiologia.   
-3) Clinica psichiatrica: tale materia, quadriennale, e' comprensiva anche degli elementi di semeiotica psichiatrica, delle tecniche laboratoristiche, delle terapie biologiche.   
-4) Psicoterapia: tale materia, triennale, comprende e considera nel corso dei tre anni, le tecniche e i principi fondamentali delle principali psicoterapie individuali, direttive e non direttive, i principi fondamentali e le dinamiche delle piu' importanti psicoterapie di gruppo, delle prassi psicoterapiche, socioterapiche e delle sociodinamiche delle istituzioni psichiatriche.   
-5) Psicodiagnostica ed informatica psichiatrica: tale materia, annuale, e' comprensiva di cenni di statistica, dei reattivi mentali e psicodiagnostica strumentale e di metodologia della ricerca psichiatrica.   
-6) Psichiatria sociale: tale materia, biennale, con molte possibilita' di suddivisioni, e' comprensiva di elementi di sociologia, di antropologia culturale, di etologia, di ecologia psichiatrica, di epidemiologia psichiatrica, di psichiatria transculturale, di psichiatria preventiva ed igiene mentale, prassi ed organizzazione di assistenza psichiatrica sul territorio extraistituzionale.   
-7) Psicosomatica: tale materia, annuale, e' comprensiva degli aspetti psichici delle malattie somatiche della cosiddetta medicina integrata, della endocrinologia in riferimento alla psichiatria delle cosiddette malattie psicosomatiche.   
-Art. 522. - E' obbligatoria la frequenza per undici mesi all'anno; tale periodo comprende sia la frequenza alle lezioni, sia l'esercitazione pratica nei reparti di degenza e nelle strutture ambulatoriali a disposizione della scuola.   
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
-La scuola programma lo svolgimento dei corsi di insegnamento.   
-Per il passaggio agli anni successivi e' obbligatorio il superamento degli esami per ogni singolo anno. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.   
-Le lezioni teoriche sono integrate da seminari anche interdisciplinari, da documentazioni cliniche, esperienze effettuate nei vari settori della disciplina.   
-Alla fine dei quattro anni gli allievi che hanno frequentato i corsi sono ammessi all'esame di diploma, consistente nella presentazione e discussione di una tesi scritta di argomento pertinente alla psichiatria, in una prova orale e in una prova pratica.   
-Agli allievi che hanno ottenuto l'approvazione nell'esame di diploma viene rilasciato il diploma di specializzazione in psichiatria valido a tutti gli effetti di legge.   
-
-Art. 2
-------
-
+Scuola di specializzazione in chirurgia  
   
+Art. 467. - Presso la facolta' di medicina e chirurgia e' istituita la scuola di specializzazione in chirurgia, che conferisce il diploma di specialista in chirurgia.  
+La sede della scuola e' presso la clinica chirurgica di codesta universita'.  
+Art. 468. - La durata del corso e' di 5 anni e non sono consentite abbreviazioni di corso.  
+L'ammissione alla scuola avverra' sulla base di titoli ed esami.  
+Sono disponibili sette posti per ciascun anno di corso.  
+Il numero complessivo dei posti, nei cinque anni di corso, non potra' essere superiore ai trentacinque.  
+Art. 469. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+Clinica chirurgica generale (quinquennale);  
+Patologia speciale chirurgica (triennale);  
+Semeiotica chirurgica (biennale);  
+Anatomia chirurgica e corso di operazioni (triennale);  
+Chirurgia sperimentale;  
+Anestesia e rianimazione;  
+Ricerche di laboratorio.  
+2° Anno:  
+Clinica chirurgica (quinquennale);  
+Patologia speciale chirurgica (triennale);  
+Semeiotica chirurgica (biennale);  
+Anatomia chirurgica e corso di operazioni (triennale);  
+Fisiopatologia chirurgica;  
+Trattamento pre e post-operatorio;  
+Anatomia e istologia patologica (biennale).  
+3° Anno:  
+Clinica chirurgica generale (quinquennale);  
+Patologia speciale chirurgica (triennale);  
+Semeiotica strumentale ed endoscopica;  
+Anatomia chirurgica e corso di operazioni (triennale);  
+Radiologia;  
+Anatomia ed istologia patologica (biennale).  
+4° Anno:  
+Clinica chirurgica generale (quinquennale);  
+Chirurgia ginecologica;  
+Chirurgia urologica;  
+Neurochirurgia;  
+Traumatologia ed ortopedia;  
+Chirurgia pediatrica.  
+5° Anno:  
+Clinica chirurgica generale (quinquennale);  
+Chirurgia toracica;  
+Chirurgia cardiovascolare;  
+Chirurgia riparativa e plastica;  
+Chirurgia d'urgenza;  
+Medicina legale.  
+Art. 470. - Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni teoriche e le esercitazioni. L'internato e' obbligatorio durante tutti i cinque anni del corso e si svolgera' presso la clinica chirurgica sotto forma di presenza costante nella detta clinica durante le ore della sua attivita', con presenza giornaliera negli ambulatori e nei reparti di degenza. Dall'obbligo di tale internato possono essere esonerati coloro i quali prestano servizio in qualita' di assistenti o aiuto effettivi di ruolo presso reparti di chirurgia generale di policlinici universitari o di ospedale di I e II categoria.  
+Art. 471. - La frequenza nelle sale operatorie si iniziera' dal primo anno di corso, e dopo un periodo di tirocinio, dovra' trasformarsi in compartecipazione attiva agli interventi operatori.  
+Gli allievi hanno doveri e attribuzioni analoghi a quelli degli assistenti.  
+Per i corsi che non siano della clinica chirurgica generale possono essere stabiliti, su parere del direttore della scuola, la continuativa frequenza presso i relativi reparti specializzati, qualora esistano reparti indipendenti.  
+Art. 472. - Gli allievi che non abbiano ottemperato agli obblighi di frequenza non potranno essere ammessi a sostenere gli esami annuali.  
+Alla fine di ogni anno di corso gli iscritti sono tenuti a superare gli esami relativi ai singoli insegnamenti di ciascun anno per il passaggio all'anno successivo. Gli esami biennali, triennali e quinquennali saranno superati rispettivamente alla fine del biennio, del triennio e del quinquennio.  
+Al termine del corso di studi per il conseguimento del diploma di specialista, gli allievi dovranno superare l'esame di diploma consistente nella dissertazione scritta su materie che sono state oggetto dei corsi.  
+Gli articoli da 479 a 484 relativi alla "Scuola di perfezionamento in igiene e sanita' pubblica"; gli articoli da 547 a 553 relativi alla "Scuola di perfezionamento in igiene e medicina scolastica" sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.  
+Dopo l'art. 594 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della "Scuola di specializzazione in igiene e medicina preventiva".  
   
-Dopo l'art. 678, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della seconda scuola di specializzazione in ginecologia ed ostetricia:   
+Scuola di specializzazione in igiene e medicina preventiva  
   
-Scuola di specializzazione in ginecologia ed ostetricia   
-Art. 679. - Il corso di studi per la specializzazione in ginecologia ed ostetricia ha la durata di quattro anni.   
-L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami.   
-Art. 680. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine. Egli e' nominato dalla facolta' di medicina e chirurgia per un anno ed e' sempre riconfermabile. Egli presiede il consiglio della scuola costituito a norma dell'art. 187 ed e' tenuto a dare comunicazione al preside della facolta' medico-chirurgica di tutti gli atti e di tutte le deliberazioni del consiglio da lui presieduto.   
-Art. 681. - Il numero massimo degli allievi e' di quattro per anno di corso e complessivamente di sedici iscritti per l'intero corso di studi.   
-Per nessun motivo il corso di quattro anni puo' essere abbreviato.  
-Nessun titolo puo' esonerare dalla frequenza gli iscritti ai quattro anni di corso.   
-Art. 682. - Gli iscritti, oltre all'obbligo di frequenza alle lezioni cattedratiche, esercitazioni, seminari, ecc., hanno l'obbligo di esercitazioni pratiche nei reparti per non meno di dieci mesi su dodici all'anno. La scelta dei mesi di permesso e' in facolta' del consiglio della scuola, a seconda dell'epoca delle lezioni e delle esigenze di servizio nella clinica.   
-Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni successivi di corso, devono superare le prove di esame sulle materie impartite durante l'anno accademico. Per le materie a corsi pluriennali l'esame e' sostenuto alla fine dei corsi medesimi.   
-La frequenza degli iscritti deve essere convalidata e confermata dalla firma degli insegnanti delle rispettive materie.   
-Art. 683. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-a) elementi di genetica medica;   
-b) elementi di embriologia; anatomia macro e micro dell'apparato genitale femminile; anatomia della pelvi;   
-c) elementi di fisiopatologia della riproduzione umana;   
-d) fisiologia ostetrica;   
-e) endocrinologia ginecologica ed ostetrica;   
-f) semeiotica e diagnostica ostetrica;   
-g) patologia ostetrica e ginecologica (biennale) I;   
-h) lingua straniera (inglese) quadriennale I.   
-2° Anno:   
-a) semeiotica e diagnostica ginecologica;   
-b) operazioni ostetriche (biennale) I;   
-c) anatomia e istologia patologica della sfera genitale femminile;   
-d) citologia ginecologica;   
-e) patologia ostetrica e ginecologica (biennale) II;   
-f) diagnostica di laboratorio in ostetricia e ginecologia;   
-g) lingua straniera (inglese) quadriennale II.   
-3° Anno:   
-a) puericultura prenatale;   
-b) immunologia ostetrica e ginecologica;   
-c) analgo-anestesia e rianimazione in ostetricia;   
-d) operazioni ostetriche (biennale) II;   
-e) operazioni ginecologiche (biennale) I;   
-f) ostetricia e ginecologia forense;   
-g) terapia medica in ostetricia e ginecologia;   
-h) clinica ostetrica e ginecologica (biennale) I;   
-i) psicosomatica ostetrica e ginecologica;   
-l) lingua straniera (inglese) quadriennale III.   
-4° Anno:   
-a) neonatologia;   
-b) urologia ginecologica;   
-c) radiodiagnostica e terapia fisica in ostetricia e ginecologia;   
-d) chirurgia addominale;   
-e) operazioni ginecologiche (biennale) II;   
-f) clinica ostetrica e ginecologica (biennale) II;   
-g) lingua straniera (inglese) quadriennale.   
-Art. 684. - Al termine del corso di studi per il conseguimento del diploma di specialista in ginecologia e ostetricia, gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+Art. 595. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in igiene e medicina preventiva, con sede presso l'istituto di igiene, della durata di tre anni, che conferisce il diploma di igiene e medicina preventiva.  
+Il corso si distingue in un biennio propedeutico seguito da un terzo anno con tre orientamenti differenziati: sanita' pubblica, laboratorio, igiene e medicina scolastica.  
+Sono ammessi i laureati in medicina e chirurgia purche' abbiano sostenuto l'esame di igiene. L'ammissione avviene per titoli ed esami.  
+Sono disponibili numero venticinque posti per ciascun anno di corso.  
+Coloro che hanno conseguito il diploma di specializzazione per uno dei tre orientamenti, potranno essere iscritti al terzo anno di un altro orientamento nell'ambito della disponibilita' dei posti.  
+Analogamente quelli che hanno conseguito il diploma di specializzazione in igiene o in igiene e sanita' pubblica, a norma dei precedenti statuti delle scuole di specializzazione potranno essere iscritti al 3° anno di uno dei tre orientamenti previsti, sempre nell'ambito della disponibilita' dei posti.  
+Non sono consentite altre abbreviazioni di corso.  
+Art. 596. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+Metodologia statistica e biometria;  
+Educazione sanitaria;  
+Psicologia;  
+Microbiologia;  
+Parassitologia;  
+Epidemiologia e profilassi generale.  
+2° Anno:  
+Patologia e clinica delle malattie infettive;  
+Epidemiologia e profilassi delle malattie infettive;  
+Patologia e clinica delle malattie non infettive di importanza sociale;  
+Epidemiologia e profilassi delle malattie non infettive di importanza sociale;  
+Demografia e statistica sanitaria;  
+Legislazione e organizzazione sanitaria.  
+3° Anno (con orientamento di sanita' pubblica):  
+Approvvigionamento idrico; raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici;  
+Igiene edilizia ed urbanistica;  
+Igiene dell'alimentazione;  
+Igiene e medicina scolastica;  
+Igiene ospedaliera;  
+Servizi di sanita' pubblica.  
+3° Anno: (con orientamento di laboratorio):  
+Microscopia applicata all'igiene;  
+Microbiologia applicata all'igiene;  
+Chimica clinica;  
+Accertamento diagnostico delle malattie batteriche e parassitarie;  
+Accertamento diagnostico delle infezioni virali;  
+Nozioni di anatomia ed istologia patologica.  
+3° Anno (con orientamento di igiene e medicina scolastica):  
+Auxologia normale e patologica;  
+Epidemiologia e profilassi delle malattie dell'eta' scolare;  
+Servizi di medicina scolastica;  
+Elementi di psicologia e pedagogia per l'eta' scolare;  
+Igiene dell'alimentazione;  
+Assistenza parascolastica;  
+Edilizia scolastica.  
+  
+Materie complementari, una per il primo anno ed una per il secondo anno a scelta dell'iscritto.  
+1° Anno:  
+Chimica applicata all'igiene;  
+Fisica applicata all'igiene.  
+2° Anno:  
+Geologia applicata all'igiene;  
+Diritto sanitario.  
+Al termine di ciascun anno di corso gli allievi dovranno superare i relativi esami sostenendo un esame per ogni singola materia prevista.  
+Alla fine del triennio dovranno sostenere l'esame di diploma consistente nella presentazione e discussione di una tesi scritta su un argomento attinente ad una delle materie di insegnamento.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 giugno 1979
+### Dato a Roma, addi' 22 settembre 1972
 
-PERTINI SPADOLINI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 6 agosto 1979
+Registrato alla Corte dei conti, addi' 23 novembre 1972
 
-Registro n. 60 Istruzione, foglio n. 214
+Atti del Governo, registro n. 253, foglio n. 71. - CARUSO

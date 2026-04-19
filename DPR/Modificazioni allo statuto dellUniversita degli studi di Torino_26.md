@@ -1,447 +1,147 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1968 n. 1224
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1961 n. 178
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1968 n. 1224
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1961 n. 178
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788) e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 92, relativo alle discipline nelle quali si conferiscono diplomi di specialista o di perfezionamento e' modificato nel senso che la disciplina di cui al n. 11 e' cambiata in "otorinolaringoiatria e patologia cervico-facciale".
-
-Gli articoli 126, 127, 134 e 135, 138 e 139 relativi rispettivamente alle scuole di specializzazione in otorinolaringoiatria e patologia cervico-facciale, in radiologia, e in patologia generale sono abrogati e sostituiti dai seguenti.
-
-Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale
-
-Art. 126. - La scuola ha la durata di tre anni.
-
-Il numero complessivo da ammettere alla scuola e' di 25 allievi.
-
-Art. 127. - Le materie di insegnamento sono cosi' distribuite per anno di corso:
-
-1° Anno:
-
-Anatomia
-
-Fisiologia
-
-Audiologia (1° anno)
-
-Semeiotica otorinolaringoiatrica
-
-Tecnica di laboratorio
-
-Patologia otorinolaringoiatrica e cervico-facciale (1° anno)
-
-Anatomia ed istologia patologica otorinolaringoiatrica.
-
-2° Anno:
-
-Tecniche operatorie in otorinolaringoiatria
-
-Anestesiologia in otorinolaringoiatria
-
-Patologia e clinica otorinolaringoiatrica e cervico-facciale (2° anno)
-
-Radiologia in rapporto con l'otorinolaringoiatria
-
-Pediatria in rapporto con l'otorinolaringoiatria
-
-Audiologia (2° anno)
-
-Otoneurologia
-
-Foniatria
-
-3° Anno:
-
-Patologia e clinica otorinolaringoiatrica e cervico-facciale
-
-Terapia medica e fisica in otorinolaringoiatria
-
-Neuropatologia in rapporto con l'otorinolaringoiatria
-
-Oculistica in rapporto con l'otorinolaringoiatria
-
-Chirurgia plastica
-
-Tracheo-bronco-esofagoscopia
-
-Medicina legale ed infortunistica in otorinolaringoiatria
-
-Saranno inoltre tenute conferenze di medicina e di chirurgia generale a carattere integrativo.
-
-I singoli esami di profitto devono essere sostenuti alla fine di ogni anno di corso; per accedere al secondo e terzo anno di corso devono essere stati superati gli esami degli anni precedenti.
-
-Per il conseguimento del diploma di specialista deve essere presentata e discussa una dissertazione scritta su un argomento della specialita' e superata una prova tecnica.
-
-Scuola di specializzazione in radiologia
-
-Art. 134. - La scuola di specializzazione in radiologia conferisce il diploma in radiologia e il diploma in radiologia diagnostica.
-
-Il numero complessivo degli allievi da ammettere alla scuola e' di centoventi.
-
-Art. 135. - La durata dei corsi per il conseguimento del diploma in radiologia e' di quattro anni. Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni.
-
-Nozioni sugli apparecchi ed istrumenti della radiologia.
-
-Anatomia radiologica normale.
-
-Fisiologia radiologica.
-
-Tecnica radiologica generale.
-
-Semeiotica radiologica generale.
-
-Fondamenti di radiobiologia.
-
-Nozioni di statistica e matematica.
-
-2° Anno:
-
-Tecnica e metodica dell'esame radiologico dei vari organi, apparati e sistemi.
-
-Semeiotica radiologica speciale e diagnosi differenziale.
-
-Fondamenti di radioterapia.
-
-Danni da radiazioni e mezzi di protezione.
-
-Dimostrazioni cliniche di diagnostica radiologica.
-
-Dimostrazioni cliniche di radioterapia.
-
-3° Anno:
-
-Diagnostica radiologica differenziale.
-
-Dimostrazioni di casistica di roentgendiagnostica con confronto del quadro anatomopatologico.
-
-Dimostrazioni di casistica di roentgenterapia con particolare riferimento all'anatomia patologica.
-
-Radioterapia tradizionale. Curieterapia.
-
-Radioterapia con alte energie.
-
-Elementi di medicina nucleare.
-
-Istrumentario, tecnica e metodica di applicazione.
-
-Dosimetria.
-
-4° Anno:
-
-Moderne tecniche di esplorazione e terapia radiologica.
-
-Diagnostica e terapia con isotopi radioattivi somministrati per via interna.
-
-Radiodiagnostica e radioterapia clinica (casistica).
-
-Medicina legale e legislazione sanitaria in relazione alla radiologia.
-
-I corsi sono integrati da conferenze, esercitazioni e seminari.
-
-Sono strettamente obbligatori la frequenza alle lezioni e l'internato.
-
-La direzione della scuola si riserva di accertare, mediante esame, la preparazione basale generica medicochirurgica dei candidati.
-
-La durata dei corsi per il conseguimento del diploma in radiologia diagnostica e' di tre anni.
-
-Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni.
-
-Nozioni sugli apparecchi ed istrumenti della radiologia.
-
-Anatomia radiologica normale.
-
-Fisiologia radiologica.
-
-Tecnica radiologica generale.
-
-Semeiotica radiologica generale.
-
-Fondamenti di radiobiologia.
-
-Nozioni di statistica e matematica.
-
-2° Anno:
-
-Metodica di esplorazione dei vari organi ed apparati.
-
-Semeiotica radiologica speciale e diagnosi differenziale.
-
-Nozioni generali sulle lesioni da radiazioni e mezzi di protezione.
-
-Moderne tecniche di esplorazione radiologica.
-
-3° Anno:
-
-Esplorazione radiologica nella patologia dei vari organi ed apparati. Diagnostica differenziale. Rapporti con l'anatomia patologica.
-
-Radiodiagnostica clinica.
-
-Medicina legale e legislazione sanitaria in relazione alla
-
-radiologia.
-
-I corsi della scuola sono integrati da conferenze, esercitazioni e seminari. Sono strettamente obbligatori la frequenza alle lezioni e l'internato.
-
-La direzione della scuola si riserva di accertare, mediante esame, la preparazione basale generica medicochirurgica dei candidati.
-
-Scuola di specializzazione in patologia generale
-
-Art. 138. - La scuola di specializzazione in patologia generale ha sede presso l'istituto di patologia generale.
-
-Il corso di studi ha la durata di tre anni.
-
-Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia, in scienze biologiche o di altre facolta' nel cui ordinamento degli studi e' inserito l'insegnamento di patologia generale.
-
-Le iscrizioni ai singoli anni non potranno superare il numero di 30 allievi (totale n. 90).
-
-Nel caso di eccedenza di domande, la scelta tra i candidati richiedenti sara' fatta in base a concorso interno, per esame; gli aspiranti hanno l'obbligo di accertarsi presso l'istituto della eventuale data del concorso.
-
-A giudizio del direttore, entro il numero stabilito per i singoli anni di corso, possono essere ammessi al II corso direttamente i richiedenti sufficientemente forniti di titoli attinenti alla patologia generale (assistenti volontari di patologia generale e materie affini; specializzati in altre discipline affini alla patologia generale, ecc.).
-
-I candidati non riconosciuti idonei all'esame di diploma potranno ripresentarsi dopo un altro anno di frequenza alla scuola. Ma se al secondo esame non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.
-
-Art. 139. - Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-Eziologia generale (cause patogene, fisiche, chimiche e biologiche).
-
-Patologia istochimica.
-
-((Patologia delle infestioni)).
-
-Laboratorio di patologia generale (triennale).
-
-2° Anno:
-
-Patologia delle infezioni.
-
-Immunologia.
-
-Fisiopatologia sistemica (biennale); (Fisiopatologia della
-
-termoregolazione, del cuore e dei vasi, della respirazione).
-
-Patologia del metabolismo (dei protidi, dei lipidi, dell'acqua e dei minerali e dei bioregolatori);
-
-Laboratorio di patologia generale.
-
-3° Anno:
-
-Fisiopatologia sistemica (della digestione, del rene, del sangue e del sistema neuro-endocrino);
-
-Patologia oncologica.
-
-Laboratorio di patologia generale.
-
-Alla fine di ogni anno saranno sostenuti gli esami di ciascuna delle materie suindicate.
-
-Per conseguire il diploma di specializzazione in patologia generale, al termine del corso triennale oltre ad avere superato tutti gli esami nelle singole materie, e' di obbligo presentare una dissertazione scritta, preferibilmente di carattere sperimentale, elaborata nell'istituto.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 18 ottobre 1968
-
-SARAGAT
-
-SCAGLIA
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 6 dicembre 1968 Atti del Governo, registro n. 224, foglio n. 28. - GRECO
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788) e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1074](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1074), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta, la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 92, relativo alle discipline nelle quali si conferiscono diplomi di specialista o di perfezionamento e' modificato nel senso che la disciplina di cui al n. 11 e' cambiata in "otorinolaringoiatria e patologia cervico-facciale".   
-Gli articoli 126, 127, 134 e 135, 138 e 139 relativi rispettivamente alle scuole di specializzazione in otorinolaringoiatria e patologia cervico-facciale, in radiologia, e in patologia generale sono abrogati e sostituiti dai seguenti.   
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 24. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere moderne (indirizzo europeo) sono aggiunti quelli di "Storia romana a e "Lingua e letteratura polacca".  
+L'ordinamento della. Scuola di perfezionamento in Archeologia e Storia dell'arte annessa alla Facolta' di lettere e filosofia, e' modificato con la seguente nuova denominazione: Scuola di perfezionamento in Storia dell'arte medioevale e moderna.  
+L'art. 74 e' sostituito dal seguente:  
   
-Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale   
-Art. 126. - La scuola ha la durata di tre anni.   
-Il numero complessivo da ammettere alla scuola e' di 25 allievi.   
-Art. 127. - Le materie di insegnamento sono cosi' distribuite per anno di corso:   
-1° Anno:   
-Anatomia   
-Fisiologia   
-Audiologia (1° anno)   
-Semeiotica otorinolaringoiatrica   
-Tecnica di laboratorio   
-Patologia otorinolaringoiatrica e cervico-facciale (1° anno)   
-Anatomia ed istologia patologica otorinolaringoiatrica.   
-2° Anno:   
-Tecniche operatorie in otorinolaringoiatria   
-Anestesiologia in otorinolaringoiatria   
-Patologia e clinica otorinolaringoiatrica e cervico-facciale (2° anno)   
-Radiologia in rapporto con l'otorinolaringoiatria   
-Pediatria in rapporto con l'otorinolaringoiatria   
-Audiologia (2° anno)   
-Otoneurologia   
-Foniatria   
-3° Anno:   
-Patologia e clinica otorinolaringoiatrica e cervico-facciale   
-Terapia medica e fisica in otorinolaringoiatria   
-Neuropatologia in rapporto con l'otorinolaringoiatria   
-Oculistica in rapporto con l'otorinolaringoiatria   
-Chirurgia plastica   
-Tracheo-bronco-esofagoscopia   
-Medicina legale ed infortunistica in otorinolaringoiatria   
-Saranno inoltre tenute conferenze di medicina e di chirurgia generale a carattere integrativo.   
-I singoli esami di profitto devono essere sostenuti alla fine di ogni anno di corso; per accedere al secondo e terzo anno di corso devono essere stati superati gli esami degli anni precedenti.   
-Per il conseguimento del diploma di specialista deve essere presentata e discussa una dissertazione scritta su un argomento della specialita' e superata una prova tecnica.   
+Sono insegnamenti costitutivi della Scuola della Storia dell'arte medioevale e moderna:  
+1) Archeologia e storia dell'arte greca;  
+2) Archeologia, e storia dell'arte romana;  
+3) Storia dell'arte medioevale e moderna;  
+4) Storia della musica;  
+5) Estetica.  
+Gli iscritti sono tenuti a sostenere, prima dell'esame di diploma:  
+a) un esame biennale di Storia dell'arte medioevale e moderna;  
+b) un esame annuale di Archeologia e storia dell'arte greca;  
+c) un esame annuale di Archeologia e storia dell'arte romana;  
+d) un esame annuale di Estetica Ognuno degli esami indicati alle lettere b), c), d) puo' essere sostituito con un esame di atti disciplina (previa approvazione del direttore della Scuola) qualora esso sia gia' stato superato dall'iscritto prima del conseguimento della, laurea.  
+Dopo l'art. 74 e' aggiunto il seguente nuovo articolo relativo alla istituzione della Scuola di perfezionamento in Archeologia con il conseguente spostamento della, numerazione degli articoli successivi.  
   
-Scuola di specializzazione in radiologia   
-Art. 134. - La scuola di specializzazione in radiologia conferisce il diploma in radiologia e il diploma in radiologia diagnostica.   
-Il numero complessivo degli allievi da ammettere alla scuola e' di centoventi.   
-Art. 135. - La durata dei corsi per il conseguimento del diploma in radiologia e' di quattro anni. Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni.   
-Nozioni sugli apparecchi ed istrumenti della radiologia.   
-Anatomia radiologica normale.   
-Fisiologia radiologica.   
-Tecnica radiologica generale.   
-Semeiotica radiologica generale.   
-Fondamenti di radiobiologia.   
-Nozioni di statistica e matematica.   
-2° Anno:   
-Tecnica e metodica dell'esame radiologico dei vari organi, apparati e sistemi.   
-Semeiotica radiologica speciale e diagnosi differenziale.   
-Fondamenti di radioterapia.   
-Danni da radiazioni e mezzi di protezione.   
-Dimostrazioni cliniche di diagnostica radiologica.   
-Dimostrazioni cliniche di radioterapia.   
-3° Anno:   
-Diagnostica radiologica differenziale.   
-Dimostrazioni di casistica di roentgendiagnostica con confronto del quadro anatomopatologico.   
-Dimostrazioni di casistica di roentgenterapia con particolare riferimento all'anatomia patologica.   
-Radioterapia tradizionale. Curieterapia.   
-Radioterapia con alte energie.   
-Elementi di medicina nucleare.   
-Istrumentario, tecnica e metodica di applicazione.   
-Dosimetria.   
-4° Anno:   
-Moderne tecniche di esplorazione e terapia radiologica.   
-Diagnostica e terapia con isotopi radioattivi somministrati per via interna.   
-Radiodiagnostica e radioterapia clinica (casistica).   
-Medicina legale e legislazione sanitaria in relazione alla radiologia.   
-I corsi sono integrati da conferenze, esercitazioni e seminari.  
-Sono strettamente obbligatori la frequenza alle lezioni e l'internato.   
-La direzione della scuola si riserva di accertare, mediante esame, la preparazione basale generica medicochirurgica dei candidati.   
-La durata dei corsi per il conseguimento del diploma in radiologia diagnostica e' di tre anni.   
-Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni.   
-Nozioni sugli apparecchi ed istrumenti della radiologia.   
-Anatomia radiologica normale.   
-Fisiologia radiologica.   
-Tecnica radiologica generale.   
-Semeiotica radiologica generale.   
-Fondamenti di radiobiologia.   
-Nozioni di statistica e matematica.   
-2° Anno:   
-Metodica di esplorazione dei vari organi ed apparati.   
-Semeiotica radiologica speciale e diagnosi differenziale.   
-Nozioni generali sulle lesioni da radiazioni e mezzi di protezione.   
-Moderne tecniche di esplorazione radiologica.   
-3° Anno:   
-Esplorazione radiologica nella patologia dei vari organi ed apparati. Diagnostica differenziale. Rapporti con l'anatomia patologica.   
-Radiodiagnostica clinica.   
-Medicina legale e legislazione sanitaria in relazione alla   
-radiologia.   
-I corsi della scuola sono integrati da conferenze, esercitazioni e seminari. Sono strettamente obbligatori la frequenza alle lezioni e l'internato.   
-La direzione della scuola si riserva di accertare, mediante esame, la preparazione basale generica medicochirurgica dei candidati.   
+SCUOLA DI PERFEZIONAMENTO IN ARCHEOLOGIA  
   
-Scuola di specializzazione in patologia generale   
-Art. 138. - La scuola di specializzazione in patologia generale ha sede presso l'istituto di patologia generale.   
-Il corso di studi ha la durata di tre anni.   
-Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia, in scienze biologiche o di altre facolta' nel cui ordinamento degli studi e' inserito l'insegnamento di patologia generale.   
-Le iscrizioni ai singoli anni non potranno superare il numero di 30 allievi (totale n. 90).   
-Nel caso di eccedenza di domande, la scelta tra i candidati richiedenti sara' fatta in base a concorso interno, per esame; gli aspiranti hanno l'obbligo di accertarsi presso l'istituto della eventuale data del concorso.   
-A giudizio del direttore, entro il numero stabilito per i singoli anni di corso, possono essere ammessi al II corso direttamente i richiedenti sufficientemente forniti di titoli attinenti alla patologia generale (assistenti volontari di patologia generale e materie affini; specializzati in altre discipline affini alla patologia generale, ecc.).   
-I candidati non riconosciuti idonei all'esame di diploma potranno ripresentarsi dopo un altro anno di frequenza alla scuola. Ma se al secondo esame non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.   
-Art. 139. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-Eziologia generale (cause patogene, fisiche, chimiche e biologiche).   
-Patologia istochimica.   
-
-((Patologia delle infestioni))
-
-.   
-Laboratorio di patologia generale (triennale).   
-2° Anno:   
-Patologia delle infezioni.   
-Immunologia.   
-Fisiopatologia sistemica (biennale); (Fisiopatologia della   
-termoregolazione, del cuore e dei vasi, della respirazione).   
-Patologia del metabolismo (dei protidi, dei lipidi, dell'acqua e dei minerali e dei bioregolatori);   
-Laboratorio di patologia generale.   
-3° Anno:   
-Fisiopatologia sistemica (della digestione, del rene, del sangue e del sistema neuro-endocrino);   
-Patologia oncologica.   
-Laboratorio di patologia generale.   
-Alla fine di ogni anno saranno sostenuti gli esami di ciascuna delle materie suindicate.   
-Per conseguire il diploma di specializzazione in patologia generale, al termine del corso triennale oltre ad avere superato tutti gli esami nelle singole materie, e' di obbligo presentare una dissertazione scritta, preferibilmente di carattere sperimentale, elaborata nell'istituto.   
+Art. 75. - Sono insegnamenti costitutivi della Scuola di perfezionamento in Archeologia:  
+1) Archeologia, e storia dell'arte greca;  
+2) Archeologia e storia dell'arte romana;  
+3) Storia dell'arte medioevale e moderna;  
+4) Estetica;  
+5) Antichita) greche e romane;  
+6) Topografia dell'Italia antica;  
+7) Archeologia delle province romane;  
+8) Etruscologia ed archeologia italica;  
+9) Archeologia, cristiana;  
+10) Paletnologia;  
+11) Numismatica;  
+12) Epigrafia greca;  
+13) Epigrafia latina;  
+14) Egittologia;  
+15) Archeologia orientale;  
+16) Storia orientale antica;  
+17) Indologia;  
+18) Filologia iranica;  
+19) Storia dell'arte islamica;  
+20) Storia e stili dell'architettura.  
+Insegnamenti aggiuntivi:  
+1) Tecnica dello scavo;  
+2) Restauro delle opere d'arte e Museografia;  
+3) Elementi di disegno e di rilievo;  
+4) Restauro dei monumenti;  
+5) Storia greca;  
+6) Storia romana.  
+Di tali insegnamenti quelli ai numeri 3 e 4 solo per gli iscritti provenienti dalla Facolta' di lettere, quelli ai numeri 5 e 6 solo per i provenienti dalla Facolta' di architettura.  
+La Scuola di perfezionamento comprende tre indirizzi:  
+1) Archeologia e storia dell'arte greca e romana;  
+2) Archeologia italica;  
+3) Archeologia orientale.  
+Indirizzo di Archeologia e storia dell'arte greca e romana:  
+Insegnamenti fondamentali:  
+i) Archeologia e storia dell'arte greca;  
+2) Archeologia e storia dell'arte romana;  
+3) Storia e stile dell'architettura;  
+4) Storia dell'arte medioevale e moderna;  
+5) Estetica.  
+Insegnamenti complementari:  
+1) Antichita', greche e romane;  
+2) Etruscologia e archeologia italica;  
+3) Topografia dell'Italia antica;  
+4) Archeologia delle province romane;  
+5) Numismatica;  
+6) Egittologia;  
+7) Archeologia orientale;  
+5) Epigrafia greca;  
+9) Epigrafia latina.  
+Indirizzo di Archeologia italica:  
+Insegnamenti fondamentali:  
+1) Archeologia e storia dell'arte greca;  
+2) Archeologia e storia dell'arte romana;  
+3) Paletnologia;  
+4) Topografia dell'Italia antica;  
+5) Etruscologia ed archeologia italica.  
+Insegnamenti complementari:  
+1) Archeologia cristiana;  
+2) Storia e stili dell'architettura;  
+3) Antichita' greche e romane;  
+4) Numismatica;  
+5) Epigrafia greca;  
+6) Epigrafia latina;  
+7) Archeologia delle province romane;  
+8) Storia dell'arte medioevale e moderna.  
+Indirizzo di Archeologia orientale:  
+Insegnamenti fondamentali:  
+1) Archeologia orientale;  
+2) Archeologia e storia dell'arte greca;  
+3) Storia, orientale antica;  
+4) Indologia;  
+5) Storia dell'arte islamica.  
+Insegnamenti complementari:  
+1) Filologia iranica;  
+2) Archeologia e storia dell'arte romana;  
+3) Archeologia delle province romane;  
+4) Numismatica;  
+5) Egittologia;  
+6) Storia dell'arte medioevale e moderna;  
+7) Epigrafia greca.  
+Gli iscritti alla Scuola di perfezionamento in Archeologia, possono scegliere uno dei tre indirizzi previsti. Debbono sostenere sette esami per ciascun indirizzo, di cui cinque fondamentali e due complementari a scelta. Debbono altresi' seguire i corsi degli insegnamenti aggiuntivi, sui quali sosterranno un colloquio prima dell'esame fondamentale di archeologia dell'indirizzo prescelto.  
+Gli iscritti dovranno sottoporre entro il 31 gennaio del primo anno di corso, all'approvazione del direttore della Scuola, il programma, degli esami che intendono superare, con la facolta' di scegliere due insegnamenti complementari da quelli dell'indirizzo prescelto.  
+Art. 77 (gia' 76) e' sostituito dal seguente:  
+  
+Ai diplomi di perfezionamento in Filologia classica; in Filologia moderna, in Discipline storiche e geografiche e in Storia dell'arte possono aspirare i laureati in Lettere o in Filosofia della Facolta' di lettere e filosofia; al diploma di perfezionamento in Archeologia i laureati in Lettere o in Filosofia della Facolta' di lettere e filosofia e i laureati della Facolta' di architettura provvisti di diploma di maturita' classica; al diploma di perfezionamento in Filosofia e Pedagogia i laureati in Filosofia o in Lettere della Facolta' di lettere e filosofia e i laureati della Facolta' di giurisprudenza.  
+Art. 78 (gia' 77). - Al secondo comma sono aggiunte le seguenti parole:  
+"salvo quanto diversamente disposto per le Scuole di perfezionamento in Storia dell'arte medioevale e moderna e in archeologia".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 ottobre 1968
+### Dato a Roma, addi' 16 febbraio 1961
 
-SARAGAT SCAGLIA
+GRONCHI BOSCO
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 6 dicembre 1968
+Registrato alla Corte dei conti, addi' 27 marzo 1961
 
-Atti del Governo, registro n. 224, foglio n. 28. - GRECO
+Atti del Governo, registro n. 135, foglio n. 95. - VILLA

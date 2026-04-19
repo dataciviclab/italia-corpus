@@ -1,18 +1,18 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1968 n. 1128
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 gennaio 1966 n. 68
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1968 n. 1128
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 gennaio 1966 n. 68
+=============================================================
 
-Modificazioni allo statuto dell'Universita' cattolica del "Sacro Cuore", di Milano.
------------------------------------------------------------------------------------
+Modificazioni allo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano.
+----------------------------------------------------------------------------------
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
+Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,7 +20,7 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,121 +30,154 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appreso:
 
-Art. 12. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti quelli di:
+Art. 12. - Agli insegnamenti complementari del corso di laurea in Economia e commercio e' aggiunto quello di "Psicologia del lavoro".
 
-Diritto fallimentare;
+Art. 14. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di:
 
-Economia monetaria e creditizia;
+Archeologia e topografia medioevale;
 
-Storia economica italiana dell'unita' nazionale;
+Istituzioni ed epigrafia del medioevo;
 
-Tecnica dei crediti speciali;
+Metodologia e didattica dell'insegnamento medio;
 
-Elaboratori elettronici e sistemi meccanografici;
+Storia della teologia;
 
-Economia della sicurezza sociale;
+Storia della storiografia.
 
-Ragioneria degli enti pubblici;
+Art. 15. - Agli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti quelli di:
 
-Economia urbanistica.
+Metodologia e didattica dell'insegnamento medio Filologia musicale;
 
-Art. 17. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:
+Storia della storiografia.
 
-Psicologia sociale;
+Art. 16. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere moderno (indirizzo europeo) sono aggiunti quelli di:
 
-Sociologia dell'educazione.
+Metodologia e didattica dell'insegnamento medio;
 
-Art. 18. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti quelli di:
+Filologia musicale;
 
-Psicologia sociale;
+Storia della lingua francese;
 
-Sociologia dell'educazione;
+Storia della lingua inglese;
 
-Art. 19. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:
+Storia della lingua tedesca.
 
-Lingua e letteratura russa;
+Art. 17. - Agli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti quelli di:
 
-Psicologia sociale;
+Storia contemporanea;
 
-Sociologia dell'educazione;
+Storia della liturgia;
 
-Etnologia.
+Metodologia e didattica dell'insegnamento medio Filosofia della storia.
 
-Art. 22. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di:
+Art. 18. - Agli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di:
 
-Neurochirurgia;
+Paleografia e diplomatica;
 
-Igiene mentale.
+Storia contemporanea;
+
+Storia della liturgia;
+
+Filosofia della scienza;
+
+Metodologia e didattica dell'insegnamento medio;
+
+Filosofia della storia.
+
+Art. 19. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere sono aggiunti quelli di:
+
+Storia contemporanea;
+
+Storia della liturgia;
+
+Metodologia e didattica dell'insegnamento medio;
+
+Filosofia della storia.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 24 settembre 1968
+Dato a Roma, addi' 27 gennaio 1966
 
 SARAGAT
 
-SCAGLIA
+GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 2 novembre 1968 Atti del Governo, registro n. 223, foglio n. 81. - GRECO
+alla Corte dei conti, addi' 21 febbraio 1966 Atti del Governo, registro n. 201, foglio n. 75. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 12. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti quelli di:  
-Diritto fallimentare;  
-Economia monetaria e creditizia;  
-Storia economica italiana dell'unita' nazionale;  
-Tecnica dei crediti speciali;  
-Elaboratori elettronici e sistemi meccanografici;  
-Economia della sicurezza sociale;  
-Ragioneria degli enti pubblici;  
-Economia urbanistica.  
-Art. 17. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:  
-Psicologia sociale;  
-Sociologia dell'educazione.  
-Art. 18. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti quelli di:  
-Psicologia sociale;  
-Sociologia dell'educazione;  
-Art. 19. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:  
-Lingua e letteratura russa;  
-Psicologia sociale;  
-Sociologia dell'educazione;  
-Etnologia.  
-Art. 22. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di:  
-Neurochirurgia;  
-Igiene mentale.  
+Lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appreso:  
+Art. 12. - Agli insegnamenti complementari del corso di laurea in Economia e commercio e' aggiunto quello di "Psicologia del lavoro".  
+Art. 14. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di:  
+  
+Archeologia e topografia medioevale;  
+Istituzioni ed epigrafia del medioevo;  
+Metodologia e didattica dell'insegnamento medio;  
+Storia della teologia;  
+Storia della storiografia.  
+Art. 15. - Agli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti quelli di:  
+  
+Metodologia e didattica dell'insegnamento medio Filologia musicale;  
+Storia della storiografia.  
+Art. 16. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere moderno (indirizzo europeo) sono aggiunti quelli di:  
+  
+Metodologia e didattica dell'insegnamento medio;  
+Filologia musicale;  
+Storia della lingua francese;  
+Storia della lingua inglese;  
+Storia della lingua tedesca.  
+Art. 17. - Agli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti quelli di:  
+  
+Storia contemporanea;  
+Storia della liturgia;  
+Metodologia e didattica dell'insegnamento medio Filosofia della storia.  
+Art. 18. - Agli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di:  
+  
+Paleografia e diplomatica;  
+Storia contemporanea;  
+Storia della liturgia;  
+Filosofia della scienza;  
+Metodologia e didattica dell'insegnamento medio;  
+Filosofia della storia.  
+Art. 19. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere sono aggiunti quelli di:  
+  
+Storia contemporanea;  
+Storia della liturgia;  
+Metodologia e didattica dell'insegnamento medio;  
+Filosofia della storia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 settembre 1968
+### Dato a Roma, addi' 27 gennaio 1966
 
-SARAGAT SCAGLIA
+SARAGAT GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 2 novembre 1968
+Registrato alla Corte dei conti, addi' 21 febbraio 1966
 
-Atti del Governo, registro n. 223, foglio n. 81. - GRECO
+Atti del Governo, registro n. 201, foglio n. 75. - VILLA

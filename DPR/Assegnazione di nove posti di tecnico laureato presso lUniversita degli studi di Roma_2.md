@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1983 n. 579
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1983 n. 818
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1983 n. 579
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1983 n. 818
+=============================================================
 
 Assegnazione di nove posti di tecnico laureato presso l'Universita' degli studi di Roma.
 ----------------------------------------------------------------------------------------
@@ -12,11 +12,10 @@ Art. 1
 
 N.
 
-579. Decreto del Presidente della Repubblica 14 settembre 1983, col quale, sulla proposta del Ministro della pubblica istruzione, nove posti disponibili nel ruolo dei tecnici laureati vengono assegnati come segue:  
+818. Decreto del Presidente della Repubblica 1 agosto 1983, col quale, sulla proposta del Ministro della pubblica istruzione, nove posti disponibili nel ruolo dei tecnici laureati vengono assegnati all'Universita' di Roma come segue:  
   
-UNIVERSITA' DI ROMA  
 Facolta' di medicina e chirurgia:  
-istituto di seconda clinica medica (per le esigenze della cattedra di medicina costituzionale ed endocrinologia). . . . . . . . . . posti 1 istituto di quinta clinica medica (per la cattedra di andrologia) . . . . . . . . . . . . . . . . . . . . . . . . . posti 1 istituto di seconda clinica chirurgica (per le esigenze della cattedra di chirurgia toracica) . . . . . . . . . . . . . . . posti 1 istituto di clinica otorinolaringoiatrica (per le esigenze della prima cattedra) . . . . . . . . . . . . . . . . . . . . . . . posti 1 istituto di patologia generale (per le esigenze della prima cattedra) . . . . . . . . . . . . . . . . . . . . . . . . . . posti 2 istituto di quinta semeiotica chirurgica. . . . . . . . . . . posti 1 istituto di terapia medica sistematica. . . . . . . . . . . . posti 2   
+istituto di chimica biologica . . . . . . . . . . . . . . . . posti 1 istituto di farmacologia. . . . . . . . . . . . . . . . . . . posti 1 istituto di anestesiologia e rianimazione . . . . . . . . . . posti 1 istituto di clinica dermatologica . . . . . . . . . . . . . . posti 2 istituto di clinica delle malattie infettive e tropicali. . . posti 2 istituto di II clinica neurologica. . . . . . . . . . . . . . posti 1 istituto policattedra di urologia . . . . . . . . . . . . . . posti 1   
 Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 15 ottobre 1983  
-Registro n. 66 Istruzione, foglio n. 111
+Registrato alla Corte dei conti, addi' 18 gennaio 1984  
+Registro n. 2 Istruzione, foglio n. 211

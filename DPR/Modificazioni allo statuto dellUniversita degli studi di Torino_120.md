@@ -1,147 +1,140 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1961 n. 178
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1980 n. 665
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1961 n. 178
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1980 n. 665
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933 n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio universitario nazionale nei suoi pareri;
+
+Sentito il parere del Consiglio universitario nazionale Veduto il [parere della sezione prima del Consiglio di Stato n. 1902/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
+
+Considerato che non appare opportuno, al momento procedere ad una generale revisione delle norme statutarie di tutti gli atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1074](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1074), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta, la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
+Lo statuto dell'Universita' di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli 179, 180, 181, relativi alla scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio, sono soppressi e sostituiti dai seguenti:   
+Art. 179. - E' istituita presso la facolta' di medicina e chirurgia dell'Universita' degli studi di Torino la scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio.   
+La scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio ha la durata di quattro anni ed ha sede presso l'istituto di medicina interna, clinica medica I.   
+La durata del corso di studi non e' suscettibile di abbreviazione.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione, ed, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+In circostanze eccezionali, per il migliore funzionamento della scuola, la direzione della scuola, su parere del consiglio di facolta', puo' essere affidata al professore ufficiale incaricato della materia oppure ad un docente di chiara fama nazionale ed internazionale rispetto alla disciplina d'insegnamento.   
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti. Il numero massimo di iscritti e' di dieci per ogni anno di corso.   
+L'ammissione viene stabilita mediante prova scritta e valutazione dei titoli.   
+Art. 180. - Le materie d'insegnamento sono le seguenti:   
+1° Anno:   
+anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) (I);   
+patologia della tubercolosi polmonare ed extra-polmonare;   
+patologia delle malattie dell'apparato respiratorio;.   
+fisiologia e fisiopatologia generale dell'apparato respiratorio; semeiotica fisica e funzionale dell'apparato respiratorio;   
+microbiologia;   
+epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.   
+2° Anno:   
+anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) (II);   
+clinica della tubercolosi (triennale) (I);   
+clinica delle malattie dell'apparato respiratorio (triennale) (I);   
+fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;   
+broncologia;   
+radiologia dell'apparato respiratorio;   
+profilassi della tubercolosi;   
+igiene e legislazione sociale.   
+3° Anno:   
+clinica delle malattie dell'apparato respiratorio (triennale) (II);   
+clinica della tubercolosi (triennale) (II);   
+chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;   
+terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;   
+terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.   
+4° Anno:   
+clinica delle malattie dell'apparato respiratorio (triennale) (III);   
+clinica della tubercolosi (triennale) (III).   
+Art. 181. - I corsi di insegnamento sono integrati da conferenze, da esercitazioni pratiche a fini di apprendimento, da seminari interdisciplinari (questi ultimi prevalentemente destinati al quarto anno), per i quali gli allievi hanno l'obbligo di frequenza al pari delle lezioni.   
+Alla fine di ogni anno di corso gli allievi devono sostenere una prova di esame sulle materie del rispettivo anno.   
+Alla fine del quarto anno, gli allievi devono sostenere un esame di diploma.   
+I candidati al diploma devono presentare una dissertazione scritta su un argomento assegnato dal direttore o da uno degli insegnanti della scuola.   
+Per quanto non previsto valgono le norme generali relative alle scuole di specializzazione contenute nel vigente statuto dell'Universita' degli studi di Torino.   
+
+Art. 2
+------
+
   
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 24. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere moderne (indirizzo europeo) sono aggiunti quelli di "Storia romana a e "Lingua e letteratura polacca".  
-L'ordinamento della. Scuola di perfezionamento in Archeologia e Storia dell'arte annessa alla Facolta' di lettere e filosofia, e' modificato con la seguente nuova denominazione: Scuola di perfezionamento in Storia dell'arte medioevale e moderna.  
-L'art. 74 e' sostituito dal seguente:  
-  
-Sono insegnamenti costitutivi della Scuola della Storia dell'arte medioevale e moderna:  
-1) Archeologia e storia dell'arte greca;  
-2) Archeologia, e storia dell'arte romana;  
-3) Storia dell'arte medioevale e moderna;  
-4) Storia della musica;  
-5) Estetica.  
-Gli iscritti sono tenuti a sostenere, prima dell'esame di diploma:  
-a) un esame biennale di Storia dell'arte medioevale e moderna;  
-b) un esame annuale di Archeologia e storia dell'arte greca;  
-c) un esame annuale di Archeologia e storia dell'arte romana;  
-d) un esame annuale di Estetica Ognuno degli esami indicati alle lettere b), c), d) puo' essere sostituito con un esame di atti disciplina (previa approvazione del direttore della Scuola) qualora esso sia gia' stato superato dall'iscritto prima del conseguimento della, laurea.  
-Dopo l'art. 74 e' aggiunto il seguente nuovo articolo relativo alla istituzione della Scuola di perfezionamento in Archeologia con il conseguente spostamento della, numerazione degli articoli successivi.  
-  
-SCUOLA DI PERFEZIONAMENTO IN ARCHEOLOGIA  
-  
-Art. 75. - Sono insegnamenti costitutivi della Scuola di perfezionamento in Archeologia:  
-1) Archeologia, e storia dell'arte greca;  
-2) Archeologia e storia dell'arte romana;  
-3) Storia dell'arte medioevale e moderna;  
-4) Estetica;  
-5) Antichita) greche e romane;  
-6) Topografia dell'Italia antica;  
-7) Archeologia delle province romane;  
-8) Etruscologia ed archeologia italica;  
-9) Archeologia, cristiana;  
-10) Paletnologia;  
-11) Numismatica;  
-12) Epigrafia greca;  
-13) Epigrafia latina;  
-14) Egittologia;  
-15) Archeologia orientale;  
-16) Storia orientale antica;  
-17) Indologia;  
-18) Filologia iranica;  
-19) Storia dell'arte islamica;  
-20) Storia e stili dell'architettura.  
-Insegnamenti aggiuntivi:  
-1) Tecnica dello scavo;  
-2) Restauro delle opere d'arte e Museografia;  
-3) Elementi di disegno e di rilievo;  
-4) Restauro dei monumenti;  
-5) Storia greca;  
-6) Storia romana.  
-Di tali insegnamenti quelli ai numeri 3 e 4 solo per gli iscritti provenienti dalla Facolta' di lettere, quelli ai numeri 5 e 6 solo per i provenienti dalla Facolta' di architettura.  
-La Scuola di perfezionamento comprende tre indirizzi:  
-1) Archeologia e storia dell'arte greca e romana;  
-2) Archeologia italica;  
-3) Archeologia orientale.  
-Indirizzo di Archeologia e storia dell'arte greca e romana:  
-Insegnamenti fondamentali:  
-i) Archeologia e storia dell'arte greca;  
-2) Archeologia e storia dell'arte romana;  
-3) Storia e stile dell'architettura;  
-4) Storia dell'arte medioevale e moderna;  
-5) Estetica.  
-Insegnamenti complementari:  
-1) Antichita', greche e romane;  
-2) Etruscologia e archeologia italica;  
-3) Topografia dell'Italia antica;  
-4) Archeologia delle province romane;  
-5) Numismatica;  
-6) Egittologia;  
-7) Archeologia orientale;  
-5) Epigrafia greca;  
-9) Epigrafia latina.  
-Indirizzo di Archeologia italica:  
-Insegnamenti fondamentali:  
-1) Archeologia e storia dell'arte greca;  
-2) Archeologia e storia dell'arte romana;  
-3) Paletnologia;  
-4) Topografia dell'Italia antica;  
-5) Etruscologia ed archeologia italica.  
-Insegnamenti complementari:  
-1) Archeologia cristiana;  
-2) Storia e stili dell'architettura;  
-3) Antichita' greche e romane;  
-4) Numismatica;  
-5) Epigrafia greca;  
-6) Epigrafia latina;  
-7) Archeologia delle province romane;  
-8) Storia dell'arte medioevale e moderna.  
-Indirizzo di Archeologia orientale:  
-Insegnamenti fondamentali:  
-1) Archeologia orientale;  
-2) Archeologia e storia dell'arte greca;  
-3) Storia, orientale antica;  
-4) Indologia;  
-5) Storia dell'arte islamica.  
-Insegnamenti complementari:  
-1) Filologia iranica;  
-2) Archeologia e storia dell'arte romana;  
-3) Archeologia delle province romane;  
-4) Numismatica;  
-5) Egittologia;  
-6) Storia dell'arte medioevale e moderna;  
-7) Epigrafia greca.  
-Gli iscritti alla Scuola di perfezionamento in Archeologia, possono scegliere uno dei tre indirizzi previsti. Debbono sostenere sette esami per ciascun indirizzo, di cui cinque fondamentali e due complementari a scelta. Debbono altresi' seguire i corsi degli insegnamenti aggiuntivi, sui quali sosterranno un colloquio prima dell'esame fondamentale di archeologia dell'indirizzo prescelto.  
-Gli iscritti dovranno sottoporre entro il 31 gennaio del primo anno di corso, all'approvazione del direttore della Scuola, il programma, degli esami che intendono superare, con la facolta' di scegliere due insegnamenti complementari da quelli dell'indirizzo prescelto.  
-Art. 77 (gia' 76) e' sostituito dal seguente:  
-  
-Ai diplomi di perfezionamento in Filologia classica; in Filologia moderna, in Discipline storiche e geografiche e in Storia dell'arte possono aspirare i laureati in Lettere o in Filosofia della Facolta' di lettere e filosofia; al diploma di perfezionamento in Archeologia i laureati in Lettere o in Filosofia della Facolta' di lettere e filosofia e i laureati della Facolta' di architettura provvisti di diploma di maturita' classica; al diploma di perfezionamento in Filosofia e Pedagogia i laureati in Filosofia o in Lettere della Facolta' di lettere e filosofia e i laureati della Facolta' di giurisprudenza.  
-Art. 78 (gia' 77). - Al secondo comma sono aggiunte le seguenti parole:  
-"salvo quanto diversamente disposto per le Scuole di perfezionamento in Storia dell'arte medioevale e moderna e in archeologia".  
+Dopo l'art. 305, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in fisioterapia.  
+Scuola di specializzazione in fisioterapia  
+Art. 306. - La scuola di specializzazione in fisioterapia ha sede presso l'istituto di clinica ortopedica traumatologica dell'Universita' di Torino, nel centro traumatologico ortopedico e di malattie sociali e del lavoro. La scuola conferisce il diploma di specialista in fisioterapia.  
+La durata dei corsi e' di tre anni.  
+Alla scuola vengono ammessi i laureati in medicina e chirurgia; e' richiesto, per l'iscrizione al corso, il possesso del diploma di abilitazione all'esercizio professionale. Il numero complessivo degli iscritti ai tre anni di corso non puo' essere superiore a ventiquattro (otto per anno). Non sono consentite iscrizioni alla scuola con abbreviazioni di corso. Gli iscritti hanno l'obbligo di frequentare i corsi ufficiali e le esercitazioni; e' inoltre obbligatorio per gli iscritti ai corsi la frequenza alle esercitazioni pratiche presso l'istituto di clinica ortopedica in modo continuativo per dieci mesi all'anno.  
+Gli allievi hanno dovere di frequenza presso l'istituto con presenza giornaliera nell'ambulatorio e nei reparti di fisioterapia.  
+Per i corsi che non possono essere dimostrati presso la clinica ortopedica, possono essere stabiliti su parere del direttore della scuola periodi di continuativa frequenza presso i relativi reparti specialistici, qualora siano costituiti in reparti indipendenti ed abbiano adeguata attrezzatura per la F.K.T. (neurologia - centri di recupero spastici - fisiopatologia respiratoria - otorinolaringologia - reumatologia - oculistica etc.).  
+Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni e sui turni di servizio interno.  
+Per essere ammesso a frequentare il corso il candidato deve superare un esame di ammissione.  
+Art. 307. - Gli insegnamenti obbligatori impartiti dalla scuola sono i seguenti:  
+1° Anno:  
+principi di anatomia funzionale (propedeutico per tutte le materie di base degli anni successivi e per quelle facoltative);  
+fisiopatologia dell'apparato neuromotore (propedeutico per tutte le materie di base degli anni successivi e per quelle facoltative).  
+2° Anno:  
+semeiotica e clinica delle motulesioni neurologiche (propedeutico per tutte le materie di base degli anni successivi e per quelle facoltative);  
+semeiotica e clinica delle deformita' e motulesioni ortopediche (propedeutico per tutte le materie di base degli anni successivi e per quelle facoltative);  
+massoterapia e terapia manuale;  
+cinesiologia e chinesiterapia e ginnastica medica;  
+idro e balneo terapia.  
+3° Anno:  
+elettroterapia ed elettrologia;  
+terapia con onde corte ed altri mezzi fisici;  
+rieducazione motoria e riabilitazione in campo ortopedico e traumatologico;  
+rieducazione motoria e riabilitazione in campo neurologico.  
+Art. 308. - Le materie facoltative qui di seguito elencate potranno essere distribuite nel secondo e terzo anno secondo delle necessita' della scuola previa approvazione del consiglio di facolta':  
+2° Anno:  
+elettromiografia;  
+problemi psicologici e psicopatologici della riabilitazione;  
+medicina assicurativa;  
+climatoterapia.  
+3° Anno:  
+cinesiterapia e riabilitazione nelle malattie internistiche;  
+rieducazione respiratoria;  
+riabilitazione nei disturbi del linguaggio;  
+rieducazione nei disturbi della visione;  
+problemi della riabilitazione geriatrica;  
+riqualificazione professionale.  
+Art. 309. - Per accedere ai corsi successivi al primo anno e' obbligatorio il superamento di tutti gli esami del corso precedente ivi comprese le materie opzionali (almeno due). Gli esami possono essere sostenuti solamente in due sessioni, una estiva ed una autunnale, e comunque non oltre il trenta novembre dell'anno in corso.  
+Il diploma viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico o sperimentale.  
+Il consiglio di amministrazione dell'Universita', su proposta del direttore della scuola, approvata dal consiglio di facolta', stabilira', di anno in anno, l'ammontare dei contributi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 febbraio 1961
+### Dato a Roma, addi' 11 giugno 1980
 
-GRONCHI BOSCO
+PERTINI SARTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 27 marzo 1961
+Registrato alla Corte dei conti, addi' 17 ottobre 1980
 
-Atti del Governo, registro n. 135, foglio n. 95. - VILLA
+Registro n. 95 Istruzione, foglio n. 105

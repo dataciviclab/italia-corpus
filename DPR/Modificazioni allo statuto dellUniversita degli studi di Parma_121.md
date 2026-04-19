@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1961 n. 1576
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 460
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1961 n. 1576
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 460
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -10,146 +10,90 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successivi;
+Veduto lo statuto dell'Universita' di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato, con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Dopo l'art. 177 sono aggiunti i seguenti nuovi articoli relativi all'istituzione della Scuola speciale per ortottiste.
-
-Scuola speciale per ortottiste
-
-Art. 178. - E' istituita ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), una Scuola speciale per ortottiste. La Scuola per "ortottiste" ha sede presso la clinica oculistica dell'Universita'. Essa ha lo scopo di dare una preparazione completa, teorica e pratica alle allieve iscritte, istruendole sui problemi dei difetti di rifrazione, disturbi delle oculomozioni, dell'ambliopia in genere, per avviarle alla attivita' di ortottiste.
-
-Art. 179. - La durata del corso degli studi per il conseguimento del diploma di ortottiste e' di due anni.
-
-Possono essere ammesse alla Scuola allieve di eta' non inferiore ai 17 anni, di sana costituzione, rispondenti a determinati requisiti oculari, in possesso del diploma di maturita' classica, del diploma di maturita' scientifica o del diploma di abilitazione magistrale.
-
-Art. 180. - Chi aspira ad ottenere l'iscrizione al primo anno della Scuola, dovra' sostenere un esame di ammissione per un numero di posti determinato, anno per anno, con decreto del rettore, udito il direttore della Scuola.
-
-Art. 181. - L'esame di ammissione consiste in una prova orale di cultura generale innanzi ad una Commissione composta dal preside della Facolta' di medicina, dal direttore della Scuola e da un terzo membro designato dal rettore della Universita'. L'esame di ammissione avra' luogo entro la prima quindicina del mese di novembre di ciascun anno, nel giorno che sara' stabilito dal rettore con apposito manifesto.
-
-Art. 182. - L'anno accademico ha inizio il 1 dicembre e termina il 30 giugno di ogni anno.
-
-Art. 183. - Il direttore della Scuola e', di diritto, il titolare della Cattedra di clinica oculistica della Universita' di Parma. Gli incarichi di insegnamento della Scuola sono proposti dal Consiglio della Facolta' di medicina e chirurgia, udito il direttore e nominati dal rettore.
-
-Art. 184. - Le materie di insegnamento sono le seguenti:
-
-1° anno:
-
-1) Elementi di anatomia e fisiologia generale;
-
-2) Anatomia e fisiologia dell'apparato oculare;
-
-3) Ottica fisica e fisiologica, vizi di rifrazione;
-
-4) Ortottica;
-
-5) Infermieristica generale.
-
-2° anno:
-
-1) Ortottica;
-
-2) Elementi di patologia oculare;
-
-3) Nozioni di infermieristica oculare.
-
-L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni nel reparto ortottico della clinica oculistica. Durante il secondo anno di studi le allieve presteranno regolare servizio nel reparto ortottico della clinica.
-
-Art. 185. - Per essere ammesse a frequentare il secondo anno di studi, le allieve debbono aver superato tutti gli esami del primo anno. Nel caso in cui le allieve non abbiano superato gli esami prescritti del primo anno, esse rimarranno nella posizione di fuori corso fino a quando non avranno assolto gli obblighi di cui sopra.
-
-Art. 186. - Per essere ammesse a sostenere l'esame di diploma le allieve dovranno aver seguito i corsi, superati gli esami in tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole tutte le esercitazioni pratiche previste.
-
-Art. 187. - Le Commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia, su proposta del direttore della Scuola. Le Commissioni sono composte di tre membri: dal professore ufficiale della materia, presidente; di un professore ufficiale di materia affine e di un libero docente o cultore della materia.
-
-Ogni commissario ha a disposizione dieci punti.
-
-Le candidate non riconosciute idonee possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla Scuola, ma, se al secondo esame non sia loro riconosciuta la idoneita', saranno senz'altro escluse da ulteriori prove.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nelle Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1961
-
-GRONCHI
-
-BOSCO
-
-Visto,
-------
-
-il Guardasigilli: GONELLA Atti del Governo, registro n. 143, foglio n. 147 - VILLA
+Lo statuto dell'Universita' di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato, con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
+All'art. 72, relativo alla facolta' di economia e commercio, e' soppresso il punto: 11) centro meccanografico.   
+
+Art. 2
+------
+
   
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 177 sono aggiunti i seguenti nuovi articoli relativi all'istituzione della Scuola speciale per ortottiste.  
+Dopo l'art. 411 e' inserito:   
   
-Scuola speciale per ortottiste  
-  
-Art. 178. - E' istituita ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), una Scuola speciale per ortottiste. La Scuola per "ortottiste" ha sede presso la clinica oculistica dell'Universita'. Essa ha lo scopo di dare una preparazione completa, teorica e pratica alle allieve iscritte, istruendole sui problemi dei difetti di rifrazione, disturbi delle oculomozioni, dell'ambliopia in genere, per avviarle alla attivita' di ortottiste.  
-Art. 179. - La durata del corso degli studi per il conseguimento del diploma di ortottiste e' di due anni.  
-Possono essere ammesse alla Scuola allieve di eta' non inferiore ai 17 anni, di sana costituzione, rispondenti a determinati requisiti oculari, in possesso del diploma di maturita' classica, del diploma di maturita' scientifica o del diploma di abilitazione magistrale.  
-Art. 180. - Chi aspira ad ottenere l'iscrizione al primo anno della Scuola, dovra' sostenere un esame di ammissione per un numero di posti determinato, anno per anno, con decreto del rettore, udito il direttore della Scuola.  
-Art. 181. - L'esame di ammissione consiste in una prova orale di cultura generale innanzi ad una Commissione composta dal preside della Facolta' di medicina, dal direttore della Scuola e da un terzo membro designato dal rettore della Universita'. L'esame di ammissione avra' luogo entro la prima quindicina del mese di novembre di ciascun anno, nel giorno che sara' stabilito dal rettore con apposito manifesto.  
-Art. 182. - L'anno accademico ha inizio il 1 dicembre e termina il 30 giugno di ogni anno.  
-Art. 183. - Il direttore della Scuola e', di diritto, il titolare della Cattedra di clinica oculistica della Universita' di Parma. Gli incarichi di insegnamento della Scuola sono proposti dal Consiglio della Facolta' di medicina e chirurgia, udito il direttore e nominati dal rettore.  
-Art. 184. - Le materie di insegnamento sono le seguenti:  
-1° anno:  
-1) Elementi di anatomia e fisiologia generale;  
-2) Anatomia e fisiologia dell'apparato oculare;  
-3) Ottica fisica e fisiologica, vizi di rifrazione;  
-4) Ortottica;  
-5) Infermieristica generale.  
-2° anno:  
-1) Ortottica;  
-2) Elementi di patologia oculare;  
-3) Nozioni di infermieristica oculare.  
-L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni nel reparto ortottico della clinica oculistica. Durante il secondo anno di studi le allieve presteranno regolare servizio nel reparto ortottico della clinica.  
-Art. 185. - Per essere ammesse a frequentare il secondo anno di studi, le allieve debbono aver superato tutti gli esami del primo anno. Nel caso in cui le allieve non abbiano superato gli esami prescritti del primo anno, esse rimarranno nella posizione di fuori corso fino a quando non avranno assolto gli obblighi di cui sopra.  
-Art. 186. - Per essere ammesse a sostenere l'esame di diploma le allieve dovranno aver seguito i corsi, superati gli esami in tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole tutte le esercitazioni pratiche previste.  
-Art. 187. - Le Commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia, su proposta del direttore della Scuola. Le Commissioni sono composte di tre membri: dal professore ufficiale della materia, presidente; di un professore ufficiale di materia affine e di un libero docente o cultore della materia.  
-Ogni commissario ha a disposizione dieci punti.  
-Le candidate non riconosciute idonee possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla Scuola, ma, se al secondo esame non sia loro riconosciuta la idoneita', saranno senz'altro escluse da ulteriori prove.  
+Centro interfacolta' di calcolo elettronico   
+Art. 412. - Il centro interfacolta' di calcolo elettronico dell'Universita' di Parma e' destinato al servizio relativo alle attivita' scientifiche e didattiche dell'Universita' di Parma.   
+Art. 413. - Il centro ha le seguenti finalita':   
+a) sopperire alle esigenze di calcolo connesse con la ricerca scientifica nelle istituzioni dell'Universita' di Parma mettendo a disposizione di coloro che operano in tali istituzioni le attrezzature per il calcolo e le elaborazioni che possono essere necessarie per lo svolgimento delle loro attivita' di ricerca;   
+b) sopperire alle esigenze didattiche delle istituzioni dell'Universita' di Parma fornendo le risorse di calcolo e le attrezzature necessarie per la preparazione degli studenti;   
+c) promuovere attivita' di studio e di documentazione, nonche' qualsiasi altra attivita' connessa con l'impiego e lo sviluppo dei mezzi di elaborazione a disposizione del centro;   
+d) favorire il collegamento e la collaborazione con centri di calcolo o centri di studio e di ricerca appartenenti ad altre universita', consorzi interuniversitari, enti pubblici di ricerca.   
+Art. 414. - Sono organi del centro:   
+a) il consiglio direttivo;   
+b) il comitato tecnico;   
+c) il direttore del centro;   
+d) il direttore tecnico del centro.   
+Art. 415. - Il consiglio direttivo e' costituito da:   
+a) il direttore del centro con funzioni di presidente;   
+b) rappresentanti di ciascuna facolta' e dipartimenti interessati dell'Universita' di Parma, scelti fra i professori ufficiali;   
+c) il dirigente amministrativo dell'Universita' di Parma o un funzionario da lui delegato;   
+d) il direttore tecnico anche con funzioni di segretario.   
+I membri del consiglio direttivo di cui alla voce b) sono nominati dal rettore su proposta delle rispettive facolta' e dipartimenti, durano in carica tre anni purche' conservino la qualifica di professori ufficiali dell'Universita' di Parma e possono essere confermati.   
+Art. 416. - Il comitato tecnico del centro e' costituito da esperti nel settore degli elaboratori elettronici e della elaborazione automatica dei dati.   
+Il comitato tecnico e' costituito da:   
+a) il direttore tecnico con funzioni di coordinatore;   
+b) rappresentanti degli utenti dell'Universita' scelti fra il personale docente o tecnico che abbia comprovata esperienza nel settore degli elaborati elettronici e dell'elaborazione automatica dei dati;   
+c) due rappresentanti eletti dal personale tecnico del centro nel proprio ambito;   
+d) un rappresentante dell'amministrazione dell'Universita' di Parma, nominato dal rettore.   
+I membri del comitato tecnico di cui alla voce b) sono nominati dal rettore su proposta del consiglio direttivo.   
+I membri del comitato tecnico di cui alle voci b), c) e d), durano in carica tre anni e possono essere confermati.   
+I membri di cui alle voci b), c) e d) possono contemporaneamente far parte anche del consiglio direttivo.   
+Il comitato tecnico svolge la funzione di organo consultivo del consiglio direttivo e della direzione.   
+Art. 417. - Il direttore del centro, nominato dal rettore, e' scelto fra i professori ufficiali dell'Universita' di Parma. Dura in carica tre anni e puo' essere confermato.   
+Art. 418. - Il direttore tecnico del centro e' nominato dal rettore su proposta del consiglio direttivo ed e' scelto fra il personale docente e tecnico dell'Universita' di Parma avente comprovata esperienza nel settore degli elaboratori elettronici e dell'elaborazione automatica dei dati.   
+Il direttore tecnico dura in carica tre anni e puo' essere confermato.   
+Art. 419. - Le norme relative al funzionamento del centro formano oggetto di apposito regolamento approvato dal consiglio di amministrazione dell'Universita' su proposta del consiglio direttivo e previo parere del senato accademico. Il regolamento viene reso esecutivo con decreto del rettore.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nelle Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1961
+### Dato a Roma, addi' 10 gennaio 1985
 
-GRONCHI BOSCO
+PERTINI
 
-Visto, il Guardasigilli: GONELLA
+FALCUCCI, Ministro della pubblica istruzione
 
-Atti del Governo, registro n. 143, foglio n. 147 - VILLA
+Visto, il Guardasigilli: MARTINAZZOLI
+
+Registrato alla Corte dei conti, addi' 20 agosto 1985
+
+Registro n. 55 Istruzione, foglio n. 256

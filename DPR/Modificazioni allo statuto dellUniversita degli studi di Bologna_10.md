@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1192
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1954 n. 1457
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1192
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1954 n. 1457
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
@@ -10,147 +10,111 @@ Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), modificato con [regi decreti 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-12;2227); [4 settembre 1930, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-09-04;1312); [1 ottobre 1931, n. 1778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1778); [27 ottobre 1932, n. 2092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2092); [6 dicembre 1934, n. 2394](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2394); [1 ottobre 1936, n. 2502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2502); [12 maggio 1939, n. 1315](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-05-12;1315); [5 ottobre 1939, n. 1644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1644); [11 luglio 1941, n. 848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-07-11;848); [18 luglio 1942, n. 928](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-18;928); [24 novembre 1942, n. 1595; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-11-24;1595) [16 maggio 1947, n. 694; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-05-16;694) [22 febbraio 1948, n. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-02-22;414); [30 luglio 1950, n. 1268](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-30;1268); [31 ottobre 1950, n. 1307](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1307); [5 agosto 1951, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-05;1311); [27 ottobre 1951, n. 1792](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1792); [3 ottobre 1952, n. 4541](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-03;4541); 11 marzo 1953, n: 545; 12 maggio 1953, n. 547; 30 giugno 1954, n. 742; 30 giugno 1954, n. 755 e 14 agosto 1954, n. 862;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduta la [legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' di Bologna, intese ad ottenere l'istituzione del corso di laurea in discipline delle arti, della musica e dello spettacolo presso le facolta' di magistero e di lettere e filosofia;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione;
 
-proposta del Ministro per la pubblica istruzione; Decreta:
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Dopo l'art. 179 sono aggiunti i seguenti nuovi articoli con il conseguente spostamento della numerazione degli articoli successivi:
+
+Art. 180. - Alla Facolta' di medicina veterinaria e' annesso l'istituto di fecondazione artificiale degli animali domestici.
+
+Art. 181. - L'Istituto ha sede nei locali ad esso destinati dal Consiglio di amministrazione dell'Universita' su proposta della Facolta' di medicina veterinaria.
+
+Art. 182. - Compiti dell'Istituto sono:
+
+a) la ricerca scientifica circa i problemi connessi con la fecondazione artificiale;
+
+b) la tecnica della raccolta, valutazione, conservazione e trasporto a distanza del liquido seminale.
+
+Art. 183. - L'Istituto fara' funzionare un centro per la fecondazione artificiale degli animali domestici con sede nei locali destinati all'Istituto medesimo.
+
+Il centro sara' in collegamento didattico con gli istituti della Facolta' di medicina veterinaria ed in particolar modo con l'Istituto di ostetricia e ginecologia veterinaria per la preparazione dei veterinari alla tecnica ostetrica ginecologica e all'applicazione pratica della fecondazione artificiale.
+
+Il centro potra' avere sezioni staccate ovunque il Consiglio di amministrazione dell'Universita', su proposta della Facolta' di medicina veterinaria, ne autorizzi l'istituzione.
+
+Art. 184. - Il direttore dell'Istituto e' nominato dal rettore su proposta del Consiglio della Facolta' di medicina veterinaria, udito il Consiglio di amministrazione.
+
+Il direttore rimarra' in carica tre anni e potra' essere riconfermato.
+
+Il direttore dell'Istituto sara' pure direttore dello annesso centro per la fecondazione artificiale degli animali domestici.
+
+Art. 185. - Per l'esercizio della propria attivita' o di quella dell'annesso centro, l'Istituto potra' valersi dell'opera di assistenti universitari straordinari e di personale salariato. La relativa spesa gravera' sui fondi a disposizione dell'Istituto.
+
+Art. 186. - La destinazione dei proventi derivanti dalle attivita' dell'Istituto detratte le spese di qualsiasi natura e specie, sara' determinata dal Consiglio di amministrazione dell'Universita' su proposta della Facolta' di medicina veterinaria.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Dogliani, addi' 29 ottobre 1954
+
+EINAUDI
+
+ERMINI
+
+Visto, il Guardasigilli: DE PIETRO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 14 marzo 1955 Atti dei Governo, registro n. 89, foglio n. 97. - CARLOMAGNO
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Presso la facolta' di lettere e filosofia e di magistero puo' essere istituito il corso di laurea in discipline delle arti, della musica e dello spettacolo.  
-Il titolo di studio per l'ammissione al predetto corso di laurea, la durata e l'ordinamento del corso medesimo sono stabiliti dalla tabella annessa al presente decreto, firmata, d'ordine nostro, dal Ministro per la pubblica istruzione.  
-All'elenco delle lauree e dei diplomi, di cui alla tabella n. 1 annessa al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e' aggiunta la "Laurea in discipline delle arti, della musica e dello spettacolo".  
-La tabella II annessa al citato regio decreto n. 1652 e' integrata nel senso che le facolta' di lettere e filosofia e di magistero rilasciano anche la laurea in discipline delle arti, della musica e dello spettacolo.  
-Dopo la tabella XVI, annessa al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e' inserita la tabella annessa al presente decreto, che assume il numero XVI-bis.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), modificato con [regi decreti 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-12;2227); [4 settembre 1930, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-09-04;1312); [1 ottobre 1931, n. 1778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1778); [27 ottobre 1932, n. 2092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2092); [6 dicembre 1934, n. 2394](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2394); [1 ottobre 1936, n. 2502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2502); [12 maggio 1939, n. 1315](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-05-12;1315); [5 ottobre 1939, n. 1644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1644); [11 luglio 1941, n. 848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-07-11;848); [18 luglio 1942, n. 928](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-18;928); [24 novembre 1942, n. 1595; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-11-24;1595) [16 maggio 1947, n. 694; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-05-16;694) [22 febbraio 1948, n. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-02-22;414); [30 luglio 1950, n. 1268](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-30;1268); [31 ottobre 1950, n. 1307](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1307); [5 agosto 1951, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-05;1311); [27 ottobre 1951, n. 1792](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1792); [3 ottobre 1952, n. 4541](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-03;4541); 11 marzo 1953, n: 545; 12 maggio 1953, n. 547; 30 giugno 1954, n. 742; 30 giugno 1954, n. 755 e 14 agosto 1954, n. 862;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-A decorrere dall'anno accademico 1970-71 e' istituito presso le facolta' di lettere e filosofia dell'Universita' di Bologna il corso di laurea in discipline delle arti, della musica e dello spettacolo.
-
-Art. 3
-------
-
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che dopo l'art. 74, e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito un nuovo articolo, che assume il n. 75, contenente l'ordinamento del corso di laurea in discipline delle arti, della musica e dello spettacolo, conforme a quello previsto dalla tabella annessa al presente decreto.  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Dopo l'art. 179 sono aggiunti i seguenti nuovi articoli con il conseguente spostamento della numerazione degli articoli successivi:  
+Art. 180. - Alla Facolta' di medicina veterinaria e' annesso l'istituto di fecondazione artificiale degli animali domestici.  
+Art. 181. - L'Istituto ha sede nei locali ad esso destinati dal Consiglio di amministrazione dell'Universita' su proposta della Facolta' di medicina veterinaria.  
+Art. 182. - Compiti dell'Istituto sono:  
+a) la ricerca scientifica circa i problemi connessi con la fecondazione artificiale;  
+b) la tecnica della raccolta, valutazione, conservazione e trasporto a distanza del liquido seminale.  
+Art. 183. - L'Istituto fara' funzionare un centro per la fecondazione artificiale degli animali domestici con sede nei locali destinati all'Istituto medesimo.  
+Il centro sara' in collegamento didattico con gli istituti della Facolta' di medicina veterinaria ed in particolar modo con l'Istituto di ostetricia e ginecologia veterinaria per la preparazione dei veterinari alla tecnica ostetrica ginecologica e all'applicazione pratica della fecondazione artificiale.  
+Il centro potra' avere sezioni staccate ovunque il Consiglio di amministrazione dell'Universita', su proposta della Facolta' di medicina veterinaria, ne autorizzi l'istituzione.  
+Art. 184. - Il direttore dell'Istituto e' nominato dal rettore su proposta del Consiglio della Facolta' di medicina veterinaria, udito il Consiglio di amministrazione.  
+Il direttore rimarra' in carica tre anni e potra' essere riconfermato.  
+Il direttore dell'Istituto sara' pure direttore dello annesso centro per la fecondazione artificiale degli animali domestici.  
+Art. 185. - Per l'esercizio della propria attivita' o di quella dell'annesso centro, l'Istituto potra' valersi dell'opera di assistenti universitari straordinari e di personale salariato. La relativa spesa gravera' sui fondi a disposizione dell'Istituto.  
+Art. 186. - La destinazione dei proventi derivanti dalle attivita' dell'Istituto detratte le spese di qualsiasi natura e specie, sara' determinata dal Consiglio di amministrazione dell'Universita' su proposta della Facolta' di medicina veterinaria.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1970
+### Dato a Dogliani, addi' 29 ottobre 1954
 
-SARAGAT MISASI
+EINAUDI ERMINI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DE PIETRO
 
-Registrato alla Corte dei conti, addi' 19 gennaio 1971
+Registrato alla Corte dei conti, addi' 14 marzo 1955
 
-Atti del Governo, registro n. 240, foglio n. 80. - CARUSO
-
-Tabella XVI bis
-
- TABELLA XVI bis   
-  
-Laurea in discipline delle arti, della musica e dello spettacolo   
-  
-Durata del corso: quattro anni.   
-Titolo di ammissione: quello consentito dalle vigenti disposizioni di legge.   
-Il corso di studi si distingue in tre indirizzi: a) arti; b) musica; c) spettacolo.   
-Insegnamenti fondamentali comuni ai tre indirizzi:   
-italiano;   
-Estetica;   
-Lingua straniera;   
-Psicologia.   
-Discipline fondamentali specifiche per l'indirizzo delle arti:   
-Teoria delle forme;   
-Semiologia delle arti;   
-Fenomenologia degli stili;   
-Storia delle arti.   
-Discipline fondamentali specifiche per l'indirizzo della musica:   
-Teoria musicale;   
-Semiologia della musica;   
-Elementi di armonia e contrappunto;   
-Storia della musica.   
-Discipline fondamentali specifiche per l'indirizzo dello spettacolo:   
-Istituzioni di regia;   
-Drammaturgia;   
-Semiologia dello spettacolo;   
-Storia dello spettacolo.   
-Discipline complementari per i tre indirizzi:   
-Antropologia culturale;   
-Architettura teatrale;   
-Caratteri dell'architettura contemporanea;   
-Cinematografia documentaria;   
-Civilta' musicale afro-americana;   
-Complementi di elettronica;   
-Complementi di statistica;   
-Comunicazioni di massa;   
-Disegno industriale;   
-Docimologia;   
-Drammaturgia classica;   
-Drammaturgia musicale;   
-Elementi di acustica e di ottica;   
-Elementi di coreografia;   
-Elementi di scenografia;   
-Elementi di storia della liturgia;   
-Etnomusicologia;   
-Filmologia;   
-Forme della poesia per musica;   
-Metodologia della critica delle arti;   
-Metodologia della critica della musica;   
-Metodologia della critica dello spettacolo;   
-Museografia;   
-Organizzazione delle forme;   
-Organizzazione ed economia dello spettacolo;   
-Organologia e storia degli strumenti musicali;   
-Problemi di storiografia delle arti;   
-Problemi di storiografia musicale;   
-Problemi di storiografia dello spettacolo;   
-Psicologia della percezione;   
-Scienza e tecnica del restauro;   
-Sociologia;   
-Storia della moda e del costume;   
-Storia dell'architettura;   
-Storia del cinema;   
-Storia delle istituzioni e delle strutture sociali;   
-Storia del mimo e della danza;   
-Storia della scenografia;   
-Struttura della figurazione;   
-Teatro d'animazione;   
-Tecnica della comunicazione visiva;   
-Tecniche della fotografia;   
-Tecnica del linguaggio radio televisivo;   
-Tecniche pubblicitarie;   
-Tecnologia dei materiali;   
-Teoria dell'informazione;   
-Tradizioni popolari e folklore;   
-Urbanistica.   
-Per essere ammesso a sostenere l'esame di laurea lo studente deve seguire i corsi e sostenere gli esami corrispondenti, fondamentali (quattro fondamentali comuni piu' quattro fondamentali specifici) e complementari (dieci), per un totale di diciotto annualita'.   
-L'esame di laurea consiste nella discussione di una dissertazione scritta, svolta sotto la direzione di almeno due professori, di cui uno della materia scelta dal candidato.   
-  
-Visto, d'ordine del Presidente della Repubblica   
-  
-Il Ministro per la pubblica istruzione   
-MISASI   
+Atti dei Governo, registro n. 89, foglio n. 97. - CARLOMAGNO

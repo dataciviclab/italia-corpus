@@ -1,108 +1,52 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1982 n. 141
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 luglio 1971 n. 711
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1982 n. 141
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 luglio 1971 n. 711
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifiche dello statuto formulate delle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Veduta la necessita' di adeguare le norme sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Lo statuto dell'Universita' di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 192 - all'elenco delle scuole di specializzazione in medicina e' aggiunta la scuola di specializzazione in "biologia clinica".  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Dopo l'art. 265, e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo alla scuola di specializzazione in biologia clinica.  
+Decreta:  
   
-Scuola di specializzazione in biologia clinica  
-  
-Art. 266. - Alla facolta' di medicina e chirurgia dell'Universita' di Bari e' annessa la scuola di specializzazione in biologia clinica che ha sede presso gli istituti di chimica biologica e patologia medica e metodologia clinica.  
-La scuola ha lo scopo di preparare sul piano scientifico e tecnico i medici che intendono dedicarsi particolarmente alle analisi di laboratorio applicate alla clinica e rilascia il diploma di specialista in biologia clinica.  
-Possono essere ammessi i laureati in medicina e chirurgia. Il corso ha la durata di quattro anni e non possono essere concesse abbreviazioni di corso. L'attivita' della scuola e' basata su lezioni teorico-pratiche e su frequenza obbligatoria ai fini di apprendimento nei laboratori e si svolge presso gli istituti di chimica biologica e patologia medica.  
-La frequenza obbligatoria ai fini di apprendimento puo' essere svolta anche presso i servizi di analisi universitari o ospedalieri previa autorizzazione del direttore della scuola. Il numero massimo degli iscritti e' di trenta per anno ed il numero massimo complessivo e' di centoventi. L'ammissione viene regolata mediante concorso per titoli ed esami.  
-La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento, la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
-Gli insegnamenti impartiti dalla scuola sono distribuiti nei quattro anni cosi' come segue:  
-1° Anno:  
-1) chimica biologica generale;  
-2) fondamenti di chimica fisica biologica;  
-3) batteriologia generale;  
-4) biochimica analitica I;  
-5) tecnica dei prelevamenti;  
-6) fisiopatologia I;  
-7) fondamenti di statistica biologica.  
-2° Anno:  
-8) chimica biologica speciale di organi e tessuti;  
-9) fisiopatologia II;  
-10) ematologia ed ematochimica I;  
-11) batteriologia speciale;  
-12) immunologia e sierologia;  
-13) biochimica analitica II.  
-3° Anno:  
-14) nozioni di igiene e legislazione sanitaria;  
-15) ematologia ed ematochimica II;  
-16) chimica clinica;  
-17) immunochimica;  
-18) parassitologia;  
-19) virologia.  
-4° Anno:  
-20) analisi biologico-tossicologiche;  
-21) endocrinologia clinica e dosaggi ormonali;  
-22) micologia;  
-23) enzimologia clinica;  
-24) automazione e controlli di qualita';  
-25) metodiche microanalitiche;  
-26) microscopia clinica e citodiagnostica.  
-Ogni materia di insegnamento e' anche materia di esame, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo.  
-Alla fine dei quattro anni gli allievi devono presentare una tesi scritta e sostenere un esame di diploma.  
-L'esame di diploma consiste nella discussione di una dissertazione scritta originale e nell'espletamento di prove pratiche e si svolge secondo norme generali del testo unico.  
-I candidati non riconosciuti idonei possono presentarsi dopo un altro anno di frequenza alla scuola. A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista in biologia clinica.  
-I professori incaricati di svolgere i corsi proposti dal direttore della scuola vengono designati dalla facolta' di medicina e chirurgia in conformita' alle norme vigenti.  
-Gli studenti sono tenuti al pagamento di tasse, soprattasse e contributi in conformita' alle vigenti disposizioni in materia nella misura di: tassa annuale di iscrizione L. 30.000, contributo annuo di laboratorio L. 200.000.  
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 20, relativo alle norme sulle propedeuticita' ed esame del corso di laurea in economia e commercio e' abrogato e sostituito dal seguente:  
+"Per gli esami devono essere osservate le seguenti precedenze:  
+1) l'esame di economia politica (1° anno) deve precedere quelli di politica economica e finanziaria, di scienza delle finanze e diritto finanziario, di economia e politica agraria;  
+2) l'esame di ragioneria generale ed applicata (primo anno) deve precedere quello di tecnica bancaria e professionale;  
+3) l'esame di istituzioni di diritto privato deve precedere quelli di diritto commerciale, di diritto internazionale, di diritto processuale civile, di diritto del lavoro, di diritto della navigazione, di diritto fallimentare, di diritto industriale;  
+4) l'esame di, istituzioni di diritto, pubblico deve precedere quelli di diritto internazionale, di diritto amministrativo, di diritto del lavoro, di diritto processuale civile;  
+5) l'esame di matematica generale deve precedere quelli di matematica finanziaria, di statistica (1° anno);  
+6) l'esame di statistica (1° anno) deve precedere quello di statistica (2° anno)".  
+Art. 26, relativo alle norme sulle propedeuticita' ed esame per il conseguimento del diploma in statistica, e' modificato nel senso che prima dell'ultimo comma e' aggiunto il seguente nuovo comma:  
+"L'esame di elementi di matematica deve precedere quello di statistica. Quest'ultimo esame deve precedere tutti gli esami delle statistiche speciali".  
+Art. 38: all'elenco degli istituti annessi alla facolta' di lettere e filosofia e' aggiunto il seguente:  
+Istituto di civilta' preclassiche (con annesso Museo paletnologico).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 febbraio 1982
+### Dato a Roma, addi' 6 luglio 1971
 
-PERTINI BODRATO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 30 marzo 1982
+Registrato alla Corte dei conti, addi' 31 agosto 1971
 
-Registro n. 49 Istruzione, foglio n. 199
+Atti del Governo, registro n. 244, foglio n. 53. - PASQUALUCCI

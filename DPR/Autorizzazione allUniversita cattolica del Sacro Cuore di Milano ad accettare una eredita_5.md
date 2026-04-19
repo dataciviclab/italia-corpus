@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 marzo 1949 n. 228
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1976 n. 297
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 marzo 1949 n. 228
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1976 n. 297
 ============================================================
 
 Autorizzazione all'Universita' cattolica del Sacro Cuore di Milano ad accettare una eredita'.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-228. Decreto del Presidente della Repubblica 30 marzo 1949, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' cattolica del Sacro Cuore di Milano viene autorizzata ad accettare l'eredita' relitta in suo favore dal rag. Felice Somasca fu Antonio, con testamento olografo in data 22 aprile 1946, pubblicato e depositato il 24 marzo 1947 per atti del notaio dott.  
-Alessandro Brambilla di Milano, valutata complessivamente a circa lire 25 milioni, il cui usufrutto generale spetta alla sorella del dp cuius Maria Somasca, vita natural durante, a condizione che si proceda allo smobilizzo degli stabili facenti parte dell'eredita' stessa, quando la nuda proprieta' si sara' consolidata con l'usufrutto.  
+297. Decreto del Presidente della Repubblica 10 marzo 1976, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' cattolica del Sacro Cuore di Milano viene autorizzata ad accettare l'eredita' disposta dalla sig.na Eliade Capati con testamento olografo 12 maggio 1963, pubblicato in data 11 dicembre 1973, n. 108832/22180 di repertorio, registrato a Milano il 24 dicembre 1973, n. 22963, a rogito dott. Domenico Moretti, notaio in Milano, consistente in beni mobili, obbligazioni ed azioni per un valore complessivo netto di L. 10.000.000 circa e in un immobile sito in Milano, via Carbonera 24, del valore di L. 35.000.000.  
   
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 10 maggio 1949
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 12 maggio 1976  
+Atti di Governo, registro n. 5, foglio n. 89

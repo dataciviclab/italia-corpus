@@ -1,72 +1,67 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1964 n. 1487
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1982 n. 721
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1964 n. 1487
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1982 n. 721
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Parma approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Parma approvato con [regio decreto 13 ottobre 1927, n.  
-2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il regio decreto 30 settembre 1138, n. 16;52 e successive modificazioni Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Dopo l'art. 25, sono aggiunti i seguenti nuovi articoli; relativi alla istituzione della Scuola di amministrazione industriale (Scuola diretta a fini speciali) annessa alla Facolta' di economia e commercio con il conseguente spostamento della numerazione degli articoli successivi.  
-  
-Scuola di amministrazione industriale  
-(Scuola diretta a fini speciali)  
-  
-Art. 26. - Alla Facolta' di economia e commercio, e' annessa una Scuola di amministrazione industriale, quale Scuola diretta a fini speciali. La Scuola anzidetta ha lo scopo di formare giovani professionalmente preparati per le carriere amministrative e direttive nelle imprese.  
-Art. 27. - La Scuola ha la durata di due anni e conferisce il diploma di Amministrazione industriale.  
-Art. 28. - Sono titoli di ammissione alla Scuola quelli richiesti per l'ammissione alla Facolta' di economia e commercio.  
-Art. 29. - Il direttore della Scuola e' nominato ogni due anni dal Consiglio della Facolta' di economia e commercio.  
-Art. 30. - Il Consiglio della scuola e' costituito da tutti i professori che vi tengono insegnamenti ed e' presieduto dal direttore.  
-Art. 31. - Gli insegnamenti vengono conferiti per incarico dalla Facolta' di economia e commercio a professori di ruolo, incaricati, liberi docenti, aiuti e assistenti, o anche a cultori di riconosciuta competenza.  
-Art. 32. - Le materie di insegnamento sono:  
-1° Anno:  
-Economia politica;  
-Tecnica e Organizzazione aziendale;  
-Ragioneria I;  
-Matematica generale;  
-Diritto commerciale Diritto del lavoro;  
-2° Anno:  
-Statistica metodologica;  
-Matematica finanziaria Ragioneria II;  
-Tecnica industriale e commerciale;  
-Tecnica bancaria;  
-Diritto tributario.  
-Complementari:  
-Diritto fallimentare Statistica economica;  
-Storia dell'industria Tecnica del commercio internazionale;  
-Tecnica delle ricerche di mercato.  
-Art. 33. - I corsi biennali comportano un esame alla fine di ogni anno.  
-Art. 34. - Per essere ammesso all'esame di diploma gli iscritti devono avere superato tutti gli esami fondamentali e almeno un esame complementare. L'esame predetto deve essere preceduto da un colloquio per l'accertamento della conoscenza di due lingue straniere.  
-Art. 35. - L'esame di diploma consiste nella preparazione e discussione di una dissertazione scritta su un argomento scelto dal candidato ed approvato dal Consiglio della scuola almeno sei mesi prima dell'esame predetto.  
-Art. 36. - Il Consiglio della Facolta' di economia e commercio si riserva di non iniziare i corsi, qualora il numero degli iscritti al primo anno di corso non raggiunga il numero minimo di trenta.  
+Nell'art. 75, relativo al corso di laurea in materie letterarie, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+archivistica;  
+storia greca;  
+storia e istituzioni dei Paesi afro-asiatici;  
+storia del libro e dell'editoria;  
+tecniche dell'informazione e della documentazione.  
+Nell'art. 76, relativo al corso di laurea in pedagogia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+storia del pensiero sociologico;  
+antropologia culturale;  
+metodologia delle scienze sociali;  
+pedagogia sperimentale;  
+psicologia sociale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1964
+### Dato a Roma, addi' 22 luglio 1982
 
-Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 11 gennaio 1965
+Registrato alla Corte dei conti, addi' 28 settembre 1982
 
-Atti del Governo, registro n. 180, foglio n. 93. - VILLA
+Registro n. 112 Istruzione, foglio n. 365

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1276
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 aprile 1968 n. 720
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1276
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 aprile 1968 n. 720
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,90 +10,202 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduti la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio universitario nazionale nel suo parere;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione:
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Napoli, approvato e modificato con 1 decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 132. - Nell'elenco degli insegnamenti complementari del corso di laurea in chimica (indirizzo organico biologico) all'insegnamento di "Chimica biologica" viene aggiunta la specificazione: corso speciale per chimici.
 
+Art. 152, relativo al corso di laurea in scienze naturali viene modificato nel senso che dopo l'elenco degli insegnamenti complementari e' aggiunto il seguente comma: "L'insegnamento di botanica (biennale) comporta due esami distinti alla fine di ciascun anno di corso".
+
+Art. 156, relativo al corso di laurea in scienze biologiche e' modificato nel senso che dopo l'elenco degli insegnamenti complementari e' aggiunto il seguente comma: "L'insegnamento di botanica (biennale) comporta due esami distinti alla fine di ciascun anno di corso".
+
+Art. 159. - All'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti quelli di "Geologia stratigrafica"; "Geologia strutturale" e "Fisica del vulcanismo".
+
+Dopo l'art. 514 e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della scuola di specializzazione in infrastrutture aeronautiche annessa alla facolta' di ingegneria.
+
+Scuola di specializzazione in infrastrutture aeronautiche
+
+Art. 515. - E' istituita, presso la facolta' di Ingegneria, una scuola di specializzazione in infrastrutture aeronautiche.
+
+Detta scuola ha il fine di qualificare ulteriormente i laureati in ingegneria nella progettazione, costruzione ed esercizio delle infrastrutture aeronautiche nonche' di promuovere gli studi e le ricerche relativi alle infrastrutture ed alle scienze tecniche ad esse connesse.
+
+Art. 516. - La durata minima degli studi e' di un anno accademico.
+
+Gli insegnamenti sono coordinati in cinque gruppi di materie, afferenti ai seguenti argomenti:
+
+1) Costruzione di piste aeroportuali;
+
+2) Economia dei trasporti aerei;
+
+3) Aerotecnica;
+
+4) Costruzioni edili per l'aeronautica;
+
+5) Impianti aeroportuali.
+
+Gli insegnamenti numeri 1), 2), 3), 4) sono di norma affidati rispettivamente ai professori ufficiali di costruzioni di strade, ferrovie ed aeroporti; di tecnica ed economia dei trasporti, di aerodinamica, di costruzioni edili. L'insegnamento n. 5) sara' affidato ad un ufficiale generale del Genio aeronautico, categoria edile.
+
+Art. 517. - La scuola e' diretta ed amministrata da un consiglio nominato dal rettore su proposta della facolta' di ingegneria di concerto col Ministero della di.
+
+fesa - Ispettorato del genio aeronautico, e costituito, di norma, dai titolari dei corsi di cui all'art. 516.
+
+Art. 518. - Il consiglio direttivo, presieduto e rappresentato dal preside della facolta' di ingegneria, si riunisce in seduta ordinaria per l'approvazione del programma ed ogni qualvolta il suo presidente lo riterra' opportuno.
+
+Il consiglio della scuola puo' deliberare di assegnare ad uno dei componenti le funzioni di segretario, comprendenti quelle responsabilita' e quei compiti esecutivi od amministrativi che si riterra' opportuno delegare.
+
+Restera' comunque di competenza del consiglio direttivo l'approvazione dei bilanci consuntivo e preventivo e della relativa relazione.
+
+Per quanto qui non preveduto si seguiranno le norme stabilite dalle leggi e dai regolamenti per l'amministrazione degli istituti universitari.
+
+Art. 519. - Il consiglio direttivo della scuola, puo' stabilire anno per anno, con suo manifesto, l'istituzione di corsi complementari ed un programma di conferenze, di tavole rotonde e di visite tecniche da coordinarsi negli insegnamenti di cui al precedente art. 516.
+
+In relazione a particolari esigenze degli studi, il consiglio potra' stabilire, per allievi particolarmente dotati, speciali curricula: richiedendo, ove del caso, anche la frequenza di alcuni dei corsi ufficiali della facolta'.
+
+E' fin d'ora istituito il corso complementare di metodologia della progettazione.
+
+Art. 520. - Gli incarichi per gli insegnamenti della scuola sono conferiti su proposta del consiglio direttivo della scuola, con la normale procedura prescritta per gli insegnamenti ufficiali.
+
+Gli insegnanti possono essere scelti fra professori di ruolo e liberi docenti e, per i corsi applicativi, fra gli ufficiali superiori del genio aeronautico ruolo ingegneri.
+
+Art. 521. - Alla scuola possono essere iscritti i laureati in ingegneria civile e, con deliberazione del consiglio direttivo, esaminati gli studi effettuati, i laureati nelle altre sezioni di ingegneria ed in architettura nonche' gli ufficiali del genio aeronautico ruolo ingegneri, allievi dell'Accademia aeronautica per il conseguimento della promozione a tenente in servizio permanente effettivo del Corpo stesso.
+
+Varranno, in generale per gli ufficiali in servizio permanente effettivo, le norme degli articoli 144 e 146 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592).
+
+Comunque il numero degli iscritti non puo' superare le 30 unita'.
+
+Art. 522. - Ai singoli corsi possono essere iscritti, in base al disposto della legislazione vigente sugli uditori, anche gli studenti della facolta' di ingegneria che abbiano superato tutti gli esami prescritti per i primi quattro anni.
+
+Art. 523. - Coloro che, trovandosi in una delle anzidette condizioni, intendano iscriversi alla scuola devono presentare domanda al rettore, su carta legale, corredata dal certificato di laurea e/o tutti i titoli che riterranno opportuno.
+
+In base a questi elementi ed al disposto del precedente art. 521 il consiglio direttivo della scuola decidera' sulle iscrizioni.
+
+. Art. 524. - Gli iscritti alla scuola sono tenuti a pagare le tasse, sopratasse e contributi secondo quanto stabilito per gli studenti della facolta' di ingegneria, nonche' la tassa di diploma nella misura di lire 6000 ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7). Essi sono tenuti altresi' a pagare un contributo speciale nella misura che sara' determinata annualmente dal consiglio di amministrazione su proposta del consiglio direttivo della scuola.
+
+Art. 525. - Gli iscritti hanno l'obbligo di frequenza alle lezioni ed alle esercitazioni osservando l'orario che sara' stabilito dal consiglio direttivo.
+
+Art. 526. - Al termine dei corsi gli iscritti sosterranno gli esami orali e/o grafici prescritti dal consiglio direttivo per ciascuno dei gruppi di materie di cui all'art. 517. Detti esami comprenderanno la discussione degli elaborati svolti durante l'anno.
+
+Per ciascuno dei gruppi di materie la commissione e costituita da tutti gli insegnanti del gruppo.
+
+Art. 527. - I laureati iscritti alla scuola, che abbiano superato tutti gli esami speciali, possono sostenere lo esame di diploma, comprendente la discussione di una tesi monografica o di un progetto.
+
+La commissione di diploma, nominata dal consiglio direttivo, e' costituita da nove insegnanti della scuola, fra cui almeno tre professori di ruolo.
+
+Essa e' presieduta dal preside della facolta' di ingegneria.
+
+Art. 528. - A coloro che hanno superato l'esame di cui all'art. 527 verra' conferito il diploma di specializzazione in infrastrutture aeronautiche. Possono essere rilasciati altresi' certificati dei singoli esami sostenuti o per studi o per ricerche eseguiti nell'ambito della scuola.
+
+Art. 529. - Il Ministero della difesa ed altri enti o privati possono porre a disposizione dell'Universita' di Napoli somme o fondi per le spese di insegnamento e di attrezzatura didattica o scientifica, somme che saranno amministrate secondo le norme dell'art. 518. Ministeri od enti potranno altresi' porre a disposizione della scuola materiale didattico o scientifico, anche conservandone la proprieta'. In tal caso saranno istituiti inventari speciali.
+
+L'Universita' di Napoli fornira' i locali idonei e provvedera' alla sistemazione e manutenzione del materiale stesso.
+
+Art. 530. - Gli ufficiali laureati in ingegneria, comandati dal Ministero della difesa a seguire i corsi tenuti nella scuola sono esentati dal pagamento di tutte le tasse e contributi. Il consiglio direttivo, ove lo ritenga opportuno, potra' esentare da tali pagamenti, totalmente o parzialmente, anche altri iscritti particolarmente meritevoli.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 8 aprile 1968
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 10 giugno 1968 Atti del Governo, registro n. 220, foglio n. 53. - GRECO
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-  
-Nell'art. 137, relativo agli istituti annessi alla prima facolta' di medicina e chirurgia, gli istituti di:   
-fisiologia umana;   
-patologia generale;   
-chimica biologica;   
-igiene;   
-clinica neurologica;   
-puericultura;   
-chirurgia pediatrica;   
-per lo studio delle ultrastrutture di interesse biologico;   
-chirurgia d'urgenza, mutano la denominazione rispettivamente in: fisiologia umana e fisica medica;   
-patologia generale e oncologia;   
-chimica e chimica biologica;   
-igiene e di medicina preventiva;   
-scienze neurologiche;   
-pediatria clinica preventiva e sociale;   
-pediatria medica e chirurgica;   
-biologia;   
-clinica chirurgica d'urgenza.   
-Nel medesimo articolo l'istituto di istituzioni di patologia generale e' soppresso e sono altresi' istituiti i seguenti nuovi istituti polidisciplinari di:   
-biochimica delle macromolecole;   
-morfopatologia;   
-terapia medica;   
-endocrinologia;   
-cardiologia;   
-medicina interna e nefrologia;   
-ematologia.   
-Infine, l'ultimo comma e' soppresso e sostituito dal seguente:   
-  
-Tali istituti, ciascuno dei quali comprende piu' discipline di insegnamento affini, svolgono in collaborazione con le facolta' ed i corsi di laurea e di indirizzo, le attivita' didattiche per il conseguimento delle lauree e dei diplomi, o in collaborazione con i dipartimenti, ove costituiti, le attivita' di ricerca concernenti le discipline afferenti agli istituti stessi.   
-Art. 139 - il testo dell'articolo e' soppresso e sostituito dal seguente:   
-  
-Ogni istituto e' diretto da un direttore, che coordina e sovrintende all'attivita' dell'istituto, e' responsabile della gestione amministrativa e contabile dell'istituto stesso e dura in carica un triennio.   
-Art. 140 - il testo dell'articolo e' soppresso e sostituito dal seguente:   
-  
-La direzione di ogni istituto e' affidata ad un professore ordinario o straordinario di una delle discipline afferenti all'istituto stesso, nominato dal rettore su designazione del consiglio di istituto.   
-In mancanza di professore ordinario o straordinario di discipline afferenti all'istituto, ovvero in caso di impedimento, ritenuto motivato dal senato accademico, la direzione dell'istituto e' affidata con le modalita' di cui al comma precedente, per la durata di un anno, ad un professore associato o in mancanza ad altro docente.   
-Art. 141 - il testo dell'articolo e' soppresso e sostituito dal seguente:   
-  
-Il consiglio di istituto e' costituito dai professori ufficiali e dagli assistenti di ruolo che vi afferiscono, nonche' da una rappresentanza, da uno a cinque ricercatori qualora essi superino il numero di tre. Possono essere addetti ad un istituto tecnici, bibliotecari, personale amministrativo e subalterno appartenente ai ruoli universitari.   
-Art. 142 - il testo dell'articolo e' soppresso e sostituito dal seguente:   
-  
-Le norme di gestione e di funzionamento sono stabilite da un regolamento emanato dal rettore, sentito il senato accademico e il consiglio di amministrazione.   
-Nell'art. 143 l'istituto per lo studio delle ultrastrutture di interesse biologico muta la denominazione in istituto di biologia.   
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduti la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione:  
+Decreta:  
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 132. - Nell'elenco degli insegnamenti complementari del corso di laurea in chimica (indirizzo organico biologico) all'insegnamento di "Chimica biologica" viene aggiunta la specificazione: corso speciale per chimici.  
+Art. 152, relativo al corso di laurea in scienze naturali viene modificato nel senso che dopo l'elenco degli insegnamenti complementari e' aggiunto il seguente comma: "L'insegnamento di botanica (biennale) comporta due esami distinti alla fine di ciascun anno di corso".  
+Art. 156, relativo al corso di laurea in scienze biologiche e' modificato nel senso che dopo l'elenco degli insegnamenti complementari e' aggiunto il seguente comma: "L'insegnamento di botanica (biennale) comporta due esami distinti alla fine di ciascun anno di corso".  
+Art. 159. - All'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti quelli di "Geologia stratigrafica"; "Geologia strutturale" e "Fisica del vulcanismo".  
+Dopo l'art. 514 e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della scuola di specializzazione in infrastrutture aeronautiche annessa alla facolta' di ingegneria.  
+Scuola di specializzazione in infrastrutture aeronautiche  
+Art. 515. - E' istituita, presso la facolta' di Ingegneria, una scuola di specializzazione in infrastrutture aeronautiche.  
+Detta scuola ha il fine di qualificare ulteriormente i laureati in ingegneria nella progettazione, costruzione ed esercizio delle infrastrutture aeronautiche nonche' di promuovere gli studi e le ricerche relativi alle infrastrutture ed alle scienze tecniche ad esse connesse.  
+Art. 516. - La durata minima degli studi e' di un anno accademico.  
+Gli insegnamenti sono coordinati in cinque gruppi di materie, afferenti ai seguenti argomenti:  
+1) Costruzione di piste aeroportuali;  
+2) Economia dei trasporti aerei;  
+3) Aerotecnica;  
+4) Costruzioni edili per l'aeronautica;  
+5) Impianti aeroportuali.  
+Gli insegnamenti numeri 1), 2), 3), 4) sono di norma affidati rispettivamente ai professori ufficiali di costruzioni di strade, ferrovie ed aeroporti; di tecnica ed economia dei trasporti, di aerodinamica, di costruzioni edili. L'insegnamento n. 5) sara' affidato ad un ufficiale generale del Genio aeronautico, categoria edile.  
+Art. 517. - La scuola e' diretta ed amministrata da un consiglio nominato dal rettore su proposta della facolta' di ingegneria di concerto col Ministero della di.  
+fesa - Ispettorato del genio aeronautico, e costituito, di norma, dai titolari dei corsi di cui all'art. 516.  
+Art. 518. - Il consiglio direttivo, presieduto e rappresentato dal preside della facolta' di ingegneria, si riunisce in seduta ordinaria per l'approvazione del programma ed ogni qualvolta il suo presidente lo riterra' opportuno.  
+Il consiglio della scuola puo' deliberare di assegnare ad uno dei componenti le funzioni di segretario, comprendenti quelle responsabilita' e quei compiti esecutivi od amministrativi che si riterra' opportuno delegare.  
+Restera' comunque di competenza del consiglio direttivo l'approvazione dei bilanci consuntivo e preventivo e della relativa relazione.  
+Per quanto qui non preveduto si seguiranno le norme stabilite dalle leggi e dai regolamenti per l'amministrazione degli istituti universitari.  
+Art. 519. - Il consiglio direttivo della scuola, puo' stabilire anno per anno, con suo manifesto, l'istituzione di corsi complementari ed un programma di conferenze, di tavole rotonde e di visite tecniche da coordinarsi negli insegnamenti di cui al precedente art. 516.  
+In relazione a particolari esigenze degli studi, il consiglio potra' stabilire, per allievi particolarmente dotati, speciali curricula: richiedendo, ove del caso, anche la frequenza di alcuni dei corsi ufficiali della facolta'.  
+E' fin d'ora istituito il corso complementare di metodologia della progettazione.  
+Art. 520. - Gli incarichi per gli insegnamenti della scuola sono conferiti su proposta del consiglio direttivo della scuola, con la normale procedura prescritta per gli insegnamenti ufficiali.  
+Gli insegnanti possono essere scelti fra professori di ruolo e liberi docenti e, per i corsi applicativi, fra gli ufficiali superiori del genio aeronautico ruolo ingegneri.  
+Art. 521. - Alla scuola possono essere iscritti i laureati in ingegneria civile e, con deliberazione del consiglio direttivo, esaminati gli studi effettuati, i laureati nelle altre sezioni di ingegneria ed in architettura nonche' gli ufficiali del genio aeronautico ruolo ingegneri, allievi dell'Accademia aeronautica per il conseguimento della promozione a tenente in servizio permanente effettivo del Corpo stesso.  
+Varranno, in generale per gli ufficiali in servizio permanente effettivo, le norme degli articoli 144 e 146 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592).  
+Comunque il numero degli iscritti non puo' superare le 30 unita'.  
+Art. 522. - Ai singoli corsi possono essere iscritti, in base al disposto della legislazione vigente sugli uditori, anche gli studenti della facolta' di ingegneria che abbiano superato tutti gli esami prescritti per i primi quattro anni.  
+Art. 523. - Coloro che, trovandosi in una delle anzidette condizioni, intendano iscriversi alla scuola devono presentare domanda al rettore, su carta legale, corredata dal certificato di laurea e/o tutti i titoli che riterranno opportuno.  
+In base a questi elementi ed al disposto del precedente art. 521 il consiglio direttivo della scuola decidera' sulle iscrizioni.  
+. Art. 524. - Gli iscritti alla scuola sono tenuti a pagare le tasse, sopratasse e contributi secondo quanto stabilito per gli studenti della facolta' di ingegneria, nonche' la tassa di diploma nella misura di lire 6000 ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7). Essi sono tenuti altresi' a pagare un contributo speciale nella misura che sara' determinata annualmente dal consiglio di amministrazione su proposta del consiglio direttivo della scuola.  
+Art. 525. - Gli iscritti hanno l'obbligo di frequenza alle lezioni ed alle esercitazioni osservando l'orario che sara' stabilito dal consiglio direttivo.  
+Art. 526. - Al termine dei corsi gli iscritti sosterranno gli esami orali e/o grafici prescritti dal consiglio direttivo per ciascuno dei gruppi di materie di cui all'art. 517. Detti esami comprenderanno la discussione degli elaborati svolti durante l'anno.  
+Per ciascuno dei gruppi di materie la commissione e costituita da tutti gli insegnanti del gruppo.  
+Art. 527. - I laureati iscritti alla scuola, che abbiano superato tutti gli esami speciali, possono sostenere lo esame di diploma, comprendente la discussione di una tesi monografica o di un progetto.  
+La commissione di diploma, nominata dal consiglio direttivo, e' costituita da nove insegnanti della scuola, fra cui almeno tre professori di ruolo.  
+Essa e' presieduta dal preside della facolta' di ingegneria.  
+Art. 528. - A coloro che hanno superato l'esame di cui all'art. 527 verra' conferito il diploma di specializzazione in infrastrutture aeronautiche. Possono essere rilasciati altresi' certificati dei singoli esami sostenuti o per studi o per ricerche eseguiti nell'ambito della scuola.  
+Art. 529. - Il Ministero della difesa ed altri enti o privati possono porre a disposizione dell'Universita' di Napoli somme o fondi per le spese di insegnamento e di attrezzatura didattica o scientifica, somme che saranno amministrate secondo le norme dell'art. 518. Ministeri od enti potranno altresi' porre a disposizione della scuola materiale didattico o scientifico, anche conservandone la proprieta'. In tal caso saranno istituiti inventari speciali.  
+L'Universita' di Napoli fornira' i locali idonei e provvedera' alla sistemazione e manutenzione del materiale stesso.  
+Art. 530. - Gli ufficiali laureati in ingegneria, comandati dal Ministero della difesa a seguire i corsi tenuti nella scuola sono esentati dal pagamento di tutte le tasse e contributi. Il consiglio direttivo, ove lo ritenga opportuno, potra' esentare da tali pagamenti, totalmente o parzialmente, anche altri iscritti particolarmente meritevoli.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1983
+### Dato a Roma, addi' 8 aprile 1968
 
-PERTINI FALCUCCI
+SARAGAT GUI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 8 agosto 1984
+Registrato alla Corte dei conti, addi' 10 giugno 1968
 
-Registro n. 49 Istruzione, foglio n. 192
+Atti del Governo, registro n. 220, foglio n. 53. - GRECO

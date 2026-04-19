@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 gennaio 1984 n. 35
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 789
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 gennaio 1984 n. 35
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 789
+==============================================================
 
 Autorizzazione alla regione Abruzzo ad acquistare un immobile.
 --------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-35. Decreto del Presidente della Repubblica 31 gennaio 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la regione Abruzzo viene autorizzata, in via di sanatoria, ad acquistare, al prezzo di L. 2.144.000.000, due fabbricati siti in Pescara, uno al viale Bovio ed uno alla via Raffaello, insistenti rispettivamente nel catasto terreni alla partita 25277, foglio 8, particelle 119, 579, 576, e alla partita 24298, foglio 8, particelle 577, 578, non ancora censiti al nuovo catasto edilizio urbano di Pescara, di proprieta' della societa' immobiliare Armando Caldora, da adibire a sede di uffici regionali.  
+789. Decreto del Presidente della Repubblica 11 ottobre 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la regione Abruzzo viene autorizzata ad acquistare, al prezzo di L. 1.595.000.000, e sotto le condizioni indicate nella relazione di stima dell'ufficio tecnico erariale di Teramo, il primo e il secondo piano, oltre agli accessori, alle parti comuni e all'area di parcheggio, di un immobile in corso di realizzazione a Teramo, in un'area di proprieta' dell'impresa edile "F.lli Zecchini S.a.s.", sita alla via di Ponte S. Giovanni, per destinarli a sede della sezione di Teramo del comitato regionale di controllo e di altri uffici.  
   
 Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 14 marzo 1984  
-Registro n. 3 Presidenza, foglio n. 76
+Registrato alla Corte dei conti, addi' 17 novembre 1984  
+Registro n. 10 Presidenza, foglio n. 63

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1964 n. 1179
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1966 n. 703
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1964 n. 1179
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1966 n. 703
+=============================================================
 
 Autorizzazione all'Universita' degli studi di Bologna ad acquistare un immobile.
 --------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1179. Decreto del Presidente della Repubblica 19 settembre 1964, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Bologna viene autorizzata ad acquistare dall'ingegnere Alessandro Gorrieri, l'immobile sito in Bologna, via Zamboni n. 34, con annessa area di terreno, descritto nel nuovo catasto terreni al foglio n. 90, mappali numeri 108, 109, 110 e 112, al prezzo complessivo di L. 160.000.000 ed alle altre condizioni e modalita' stabilite nello schema di contratto di compravendita.  
+703. Decreto del Presidente della Repubblica 10 giugno 1966, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Bologna viene autorizzata ad acquistare un immobile di proprieta' condominiale sito in Bologna, via Belle Arti, 39, al prezzo di L. 65.505.000.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 6 novembre 1964  
-Atti del Governo, registro n. 188, foglio n. 37. - VILLA
+Registrato alla Corte dei conti, addi' 7 settembre 1966  
+Atti del Governo, registro n. 205, foglio n. 41. - DI PRETORO

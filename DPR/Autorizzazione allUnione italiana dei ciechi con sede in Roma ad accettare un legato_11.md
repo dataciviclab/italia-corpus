@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 giugno 1965 n. 1054
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 gennaio 1974 n. 91
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 giugno 1965 n. 1054
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 gennaio 1974 n. 91
+=============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, con sede in Roma, ad accettare un legato.
 ----------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1054. Decreto del Presidente della Repubblica 15 giugno 1965, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana, dei ciechi, con sede in Roma, viene autorizzata ad accettare il legato disposto della defunta signora Pirih Maria Carolina vedova Giacomelli, in favore dei "ciechi civili di Trieste e Gorizia" come da testamento olografo del 18 febbraio 1959 depositato e pubblicato, insieme a due successive schede di modifica, con atto a rogito dott. Giovanni Dandri, notaio in Trieste, in data 20 dicembre 1963, repertorio n. 54854, racc. n. 7370.  
+91. Decreto del Presidente della Repubblica 16 gennaio 1974, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede in Roma, viene autorizzata ad accettare il legato disposto dalla signora Ottilia Muller vedova Mahl con testamento segreto ricevuto dall'avv. Aldo Pantozzi notaio in Bolzano, in data 10 agosto 1970, repertorio n. 103 atti ultime volonta', e da questi pubblicato con rogito in data 2 dicembre 1971, rep. n. 81651, racc. n. 2851, registrato a Bolzano il 9 dicembre 1971, pubbl. vol. 80, n. 2065, consistente in quattro appartamenti siti in Bolzano, via Bruso n. 221, sub. 1, 2, 3, 4 p. ed 2903 porz. Mat. 3, 4, 5, 6, del valore complessivo di L. 18.000.000.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 6 settembre 1965  
-Atti del Governo, registro n. 196, foglio n. 112. - VILLA
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 30 marzo 1974  
+Atti di Governo, registro n. 2, foglio n. 59. - SCIARRETTA

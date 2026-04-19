@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 maggio 1971 n. 479
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1962 n. 1621
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 maggio 1971 n. 479
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1962 n. 1621
+===============================================================
 
 Autorizzazione all'Unione nazionale ufficiali in congedo d'Italia, con sede in Roma, ad acquistare un immobile.
 ---------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-479. Decreto del Presidente della Repubblica 27 maggio 1971, col quale, sulla proposta del Ministro per la difesa, l'Unione nazionale ufficiali in congedo d'Italia, con sede in Roma, viene autorizzata ad acquistare, per la sede del dipendente gruppo provinciale di Livorno, dalla signora Jasoni Marisa in Gragnani, al prezzo di L. 6.500.000, l'appartamento di quattro vani ed accessori situato al primo piano del fabbricato che sorge in Livorno, Scali Bettarini n. 11.  
+1621. Decreto del Presidente della Repubblica 19 ottobre 1962, col quale, sulla proposta del Ministro per la difesa, l'Unione nazionale ufficiali in congedo d'Italia, con sede in Roma, viene autorizzata ad acquistare dall'impresa Costruzioni edili e stradali ing. Conti Luigi, al prezzo di L. 6.240.000 circa, in appartamento di quattro stanze e servizi, di complessivi mq. 80, situato al primo piano di un fabbricato in costruzione in Mantova, via Tezze, da destinare alla sede del gruppo provinciale di detta citta'.  
   
-Visto, il Guardasigilli: COLOMBO  
-Registrato alla Corte dei conti, addi' 20 luglio 1971  
-Atti del Governo, registro n. 243, foglio n. 45. - VALENTINI
+Visto, il Guardasigilli: BOSCO  
+Registrato alla Corte dei conti, addi' 21 novembre 1962  
+Atti del Governo, registro n. 160, foglio n. 38. - VILLA

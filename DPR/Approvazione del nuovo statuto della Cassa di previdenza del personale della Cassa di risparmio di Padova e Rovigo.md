@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1964 n. 939
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1952 n. 119
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1964 n. 939
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1952 n. 119
+===============================================================
 
 Approvazione del nuovo statuto della Cassa di previdenza del personale della Cassa di risparmio di Padova e Rovigo.
 -------------------------------------------------------------------------------------------------------------------
@@ -12,31 +12,29 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Visto l'[art. 16 del Codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art16);  
-Visto l'[art. 15 della legge 20 febbraio 1958, n. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-20;55~art15) sulla estensione del trattamento di riversibilita' ed altre provvidenze a favore dei pensionati dell'assicurazione obbligatoria per la invalidita', la vecchiaia e i superstiti;  
-Visto il [regio decreto 21 dicembre 1967, n. 2329](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1967-12-21;2329), con il quale e' stata eretta in ente morale la Cassa di previdenza del personale, della Cassa di risparmio di Padova e Rovigo e ne e' stato approvato il relativo statuto, sostituito con quello approvato col [decreto del Presidente della Repubblica 2 febbraio 1952, n. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-02;119), successivamente modificato col [decreto del Presidente della Repubblica 4 gennaio 1954, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-01-04;196);  
-Visto lo statuto della Cassa di risparmio di Padova e Rovigo, ente morale con sede in Padova, approvato col decreto ministeriale 15 ottobre 1948 e successivamente modificato con i decreti ministeriali 23 marzo 1954 e 18 marzo 1958;  
-Visto, l'estratto dal verbale numero 33 della riunione tenuta 17 aprile 1962 - per certificato del notaio dott. Antonio Nalin, n. 53764 di repertorio, in data 24 maggio 1962 - dal quale risulta che il Comitato amministrativo della suddetta Cassa di previdenza ha approvato il testo del nuovo statuto della Cassa stessa;  
-Visto l'estratto del verbale n. 835 della seduta del Consiglio di amministrazione della Cassa di risparmio di Padova e Rovigo, tenuta in Padova il 27 aprile 1962 - per certificato del notaio dott.  
-Antonio Nalin, numero 533717 di repertorio, in data 21 maggio 1962 - dal quale risulta che il Consiglio predetto ha approvato il nuovo statuto della Cassa di previdenza suindicata, nel testo approvato come sopra, e ha deliberato di assumersi tutti gli obblighi derivanti dallo statuto stesso, nonche' quello di versare in un quinquennio dalla data della deliberazione la somma di lire settecentoquarantottomilioni oltre gli interessi, ad integrazione delle riserve matematiche accertate alla data del 31 dicembre 1960, in aggiunta al contributo straordinario di lire duecentomilioni deliberato il 7 febbraio 1962;  
-Vista la istanza del presidente della Cassa di previdenza del personale della Cassa di risparmio di Padova e Rovigo, con la quale si chiede l'approvazione del nuovo statuto della Cassa stessa;  
+Visto il [regio decreto 23 dicembre 1937, n. 2329](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-12-23;2329), con il quale fu eretta in ente morale la Cassa di previdenza del personale della Cassa di risparmio di Padova e Rovigo, e ne fu approvato il relativo statuto;  
+Vista la domanda di esonero dall'obbligo dell'assicurazione per la invalidita, la vecchiaia ed i superstiti, presentata dalla Cassa di risparmio di Padova e Rovigo nell'aprile 1946, ai sensi del [regio decreto-legge 14 aprile 1939, n. 636](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-04-14;636), che non risulta ancora decisa;  
+Visto l'art. 27 dello statuto della Cassa di previdenza del personale della Cassa di risparmio di Padova e Rovigo, approvato con il suddetto [regio decreto 23 dicembre 1937, n. 2329](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-12-23;2329);  
+Visti i verbali 20 febbraio 1951, n. 10 e 11 luglio 1951, n. 15, del commissario straordinario della Cassa di previdenza stessa, nominato con decreto 7 ottobre 1950 del Ministro per il lavoro e la previdenza sociale; i verbali 15 dicembre 1950, n. 515 e 6 luglio 1951, n. 532, del Consiglio di amministrazione della Cassa di risparmio di Padova e Rovigo, attestanti che gli organi predetti hanno deliberato e sottoposto all'approvazione un nuovo statuto della Cassa di previdenza medesima;  
+Considerato che lo statuto proposto e' rispondente ai nuovi indirizzi della previdenza e dello stato democratico;  
 Udito il parere del Consiglio di Stato;  
 Sulla proposta del Ministro per il lavoro e la previdenza sociale;  
   
 Decreta:  
   
-E' approvato il nuovo statuto della Cassa di previdenza del personale della Cassa di risparmio di Padova e Rovigo, eretta in ente morale col [regio decreto 23 dicembre 1937, n. 2329](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-12-23;2329), nel testo annesso al presente decreto, composto di 35 articoli e di 3 allegati e vistato dal Ministro proponente.  
+E' approvato il nuovo statuto della Cassa di previdenza del personale della Cassa di risparmio di Padova e Rovigo, nel testo annesso al presente decreto, composto di 26 articoli e vistato dal Ministro proponente.  
+L'approvazione di cui al precedente comma non pregiudica la decisione che dovra' essere adottata circa la domanda indicata in epigrafe per l'esonero, ai sensi ed agli effetti dell'[art. 28 del regio decreto-legge 14 aprile 1939, n. 636](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-04-14;636~art28), dall'obbligo dell'assicurazione generale obbligatoria per l'invalidita', la vecchiaia ed i superstiti.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei (decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 luglio 1964
+### Dato a Roma, addi' 2 febbraio 1952
 
-SEGNI BOSCO
+EINAUDI RUBINACCI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: ZOLI
 
-Registrato alla Corte dei conti, addi' 19 ottobre 1964
+Registrato alla Corte dei conti, addi' 8 marzo 1952
 
-Atti del Governo, registro n. 187, foglio n. 14. - VILLA
+Atti del Governo, registro n. 50, foglio n. 75. - FRASCA

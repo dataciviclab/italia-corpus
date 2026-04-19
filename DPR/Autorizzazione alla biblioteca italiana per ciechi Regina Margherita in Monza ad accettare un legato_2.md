@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 settembre 1981 n. 513
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 815
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 settembre 1981 n. 513
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 815
+=============================================================
 
 Autorizzazione alla biblioteca italiana per ciechi "Regina Margherita", in Monza, ad accettare un legato.
 ---------------------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-513. Decreto del Presidente della Repubblica 3 settembre 1981, col quale, sulla proposta del Ministro per i beni culturali ed ambientali, la biblioteca italiana per ciechi "Regina Margherita", in Monza (Milano), viene autorizzata ad accettare il legato, consistente in un appartamento sito in Milano, viale Pasubio, 3, composto da tre locali oltre i servizi, al settimo piano dello stabile condominiale ed annesso vano cantina al secondo piano sotterraneo, partita catastale 169729, valutato L. 43.500.000, disposto dalla sig.ra Annamaria Brun Bosisio con testamento olografo 2 novembre 1971, pubblicato con atto 2 marzo 1977, n. 1155425 di repertorio, a rogito dott. Edoardo Fasola, notaio in Milano, registrato a Milano in data 10 marzo 1977.   
+815. Decreto del Presidente della Repubblica 16 giugno 1983, col quale, sulla proposta del Ministro per i beni culturali e ambientali, la biblioteca italiana per ciechi "Regina Margherita", in Monza (Milano), viene autorizzata ad accettare il legato, consistente nella somma di L. 10.780.460, disposto dal sig.  
+Giampiero Ramelli con testamento olografo e postilla olografa 9 febbraio 1980, pubblicati in data 24 marzo 1980, n. 11011/1015 di repertorio, a rogito dott. Luigi Prinetti, notaio in Milano, registrato a Milano in data 8 aprile 1980 al n. A/2.08152.  
   
-Visto, il Guardasigilli: DARIDA   
-Registrato alla Corte dei conti, addi' 3 settembre 1981   
-Registro n. 15 Beni culturali, foglio n. 348
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 13 gennaio 1984  
+Registro n. 2 Beni culturali, foglio n. 48

@@ -1,76 +1,150 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1968 n. 1318
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1967 n. 1499
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1968 n. 1318
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1967 n. 1499
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduta la proposta avanzata dalle autorita' accademiche dell'Universita' di Pavia intesa ad ottenere l'istituzione della facolta' di ingegneria presso l'universita' medesima;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla
+-----
+
+proposta del Ministro per la pubblica istruzione di concerto col Ministro per il tesoro; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Presso l'Universita' degli studi di Pavia e' istituita la facolta' di ingegneria con il corso di laurea in ingegneria elettrotecnica.  
+
+Art. 2
+------
+
   
-Decreta:  
+Per tale facolta' sono assegnati i seguenti posti di ruolo:  
+a) sette posti di professore, prelevati sul contingente di cui all'[art. 1 della legge 24 febbraio 1967, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-24;62~art1);  
+b) dieci posti di assistente, prelevati sul contingente di cui all'art. 18, secondo comma, della suddetta legge n. 62.  
+
+Art. 3
+------
+
   
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 42. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: "Neurochirurgia".  
-Gli articoli 200, 201, 202, 203, 204, 205, 206, 207, 208 e 209 relativi alla scuola speciale per tecnici di istituti medico-biologici sono abrogati e sostituiti dai seguenti:  
+Le attribuzioni demandate dalle vigenti disposizioni di legge e di regolamento al consiglio di facolta', vengono esercitate da un apposito comitato composto di tre professori di ruolo e fuori ruolo, nominati dal Ministro per la pubblica istruzione, sentita la sezione prima del Consiglio superiore della pubblica istruzione.  
+I professori di ruolo che in base alle vigenti disposizioni verranno a far parte della predetta facolta', saranno aggregati al comitato anzidetto. Tale comitato cessera' dalle sue funzioni allorche' alla facolta' stessa risulteranno assegnati tre professori di ruolo.  
+In ogni caso detto comitato non potra' rimanere in carica oltre un triennio e, qualora allo scadere del triennio medesimo, non risultino assegnati alla facolta' tre professori di ruolo, il Ministro per la pubblica istruzione provvedera' alla nomina di un nuovo comitato con le stesse modalita' indicate nel primo comma del presente articolo.  
+
+Art. 4
+------
+
   
-Scuola per tecnici di istituti medico-biologici  
-(Scuola diretta a fini speciali)  
-  
-Art. 241 (gia' 200). - E' istituita presso l'Universita' di Pavia una scuola ad indirizzo essenzialmente pratico diretta a preparare personale tecnico per gli istituti e laboratori medico-biologici. Il direttore della scuola viene nominato dal rettore su proposta della facolta' di medicina e chirurgia.  
-Gli insegnanti della scuola sono proposti dal direttore che puo' sceglierli fra i professori di ruolo, fra i liberi docenti, fra gli aiuti ed assistenti.  
-Il consiglio della scuola si compone di tutti i professori che tengono gli insegnamenti prescritti ed e' presieduto dal direttore.  
-Art. 242 (gia' 201). - La scuola prende il nome di "Scuola per tecnici di istituti medico-biologici", ha la durata di due anni e conferisce il diploma di "tecnico di istituti medico-biologici", ne e' titolo di ammissione la maturita' classica, scientifica, l'abilitazione magistrale e di istituti tecnici. La facolta' udito il consiglio della scuola puo' concedere un abbreviamento di corso non superiore ad un anno a quegli iscritti che si presentino gia' forniti di notevoli titoli di riconosciuto valore.  
-Art. 243 (gia' 202). - Gli aspiranti all'iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova orale di cultura generale ed in una prova orale di conoscenza di una lingua straniera moderna, scelta tra l'inglese, il francese ed il tedesco.  
-Art. 244 (gia' 203). - Alla scuola non sono ammessi piu' di venti allievi. Qualora le domande di iscrizione fossero in numero superiore la direzione della scuola si riserva di provvedere ad una scelta in base ai risultati dell'esame di ammissione.  
-Art. 245 (gia' 204). - Il corso comprende lezioni tecniche ed esercitazioni pratiche. Le materie di insegnamento sono le seguenti: 1° Anno:  
-Anatomia e istologia;  
-Chimica generale e biochimica;  
-Fisiologia;  
-Farmacologia.  
-2° Anno:  
-Microbiologia;  
-Anatomia patologica;  
-Patologia.  
-Le esercitazioni pratiche comprendono.  
-1° Anno:  
-Tecnica istologica, istochimica, cultura in vitro, microscopia elettronica;  
-Tecnica biochimica;  
-Prove biologiche (di fisiologia e di farmacologia).  
-2° Anno:  
-Tecnica microbiologica;  
-Istologia patologica;  
-Analisi cliniche.  
-Art. 246 (gia' 205). - E' fatto obbligo agli allievi di frequentare le lezioni teoriche e le esercitazioni: queste ultime in forma di tirocinio pratico della durata non inferiore a mesi due consecutivi presso un istituto universitario ad indirizzo biologico o clinico.  
-Art. 247 (gia' 206). - Alla fine di ogni anno di corso gli allievi devono sostenere un esame sulle materie di insegnamento. Nel caso in cui i candidati non abbiano superato gli esami prescritti, essi rimarranno nella posizione di "fuori corso" fino a quando non avranno assolto tutti gli obblighi di cui sopra.  
-Art. 248 (gia' 207). - A conclusione dei loro studi gli allievi devono sostenere un esame di diploma che consiste nella discussione di una dissertazione scritta su argomento che a scelta del candidato potra' essere biologico o clinico e nella esecuzione di una prova pratica di laboratorio.  
-Art. 249 (gia' 208). - I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola. Se al secondo esame non venga loro riconosciuta la idoneita', essi saranno senz'altro esclusi da ulteriori prove.  
-Art. 250 (gia' 209). - Gli iscritti sono tenuti al pagamento di tasse, sopratasse e contributi annuali approvati dal consiglio di amministrazione su proposta della facolta' di medicina e chirurgia.  
+Lo statuto dell'Universita' di Pavia, approvato e modificato con i decreti suindicati e' ulteriormente modificato come dal testo annesso al presente decreto - vistato dal Ministro per la pubblica istruzione - contenente le norme relative all'ordinamento del triennio di applicazione del corso di laurea in ingegneria elettrotecnica.  
+Il biennio propedeutico all'ingegneria, esistente presso la facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Pavia passa a far parte integrante della facolta' di ingegneria istituita con il presente decreto.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1968
+### Dato a Roma, addi' 9 giugno 1967
 
-SARAGAT SCAGLIA
+SARAGAT GUI - COLOMBO
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 2 gennaio 1969
+Registrato alla Corte dei conti, addi' 16 aprile 1968
 
-Atti del Governo, registro n. 224, foglio n. 117. - GRECO
+Atti del Governo, registro n. 219, foglio n. 14. - GRECO
+
+Allegato
+
+TESTO DELLE MODIFICHE DELLO STATUTO DELLA UNIVERSITA' DI PAVIA, RELATIVO ALL'ISTITUZIONE DELLA FACOLTA' DI INGEGNERIA   
+  
+Art. 1. - All'elenco delle facolta' che comprende la Universita' di Pavia e' aggiunta la seguente:   
+Facolta' di ingegneria.   
+  
+Dopo l'art. 52 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi all'istituzione del triennio di applicazione del corso di laurea in ingegneria elettrotecnica.   
+  
+Art. 53. - Gli insegnamenti del triennio (3°, 4° e 5° anno) si distinguono in:   
+  
+A) Obbligatori sul piano nazionale:   
+  
+1. Scienza delle costruzioni;   
+2. Meccanica applicata alle macchine I;   
+3. Fisica tecnica;   
+4. Elettrotecnica;   
+5. Idraulica;   
+6. Misure elettriche;   
+7. Macchine;   
+8. Macchine elettriche;   
+9. Impianti elettrici I;   
+10. Elettronica applicata.   
+  
+B) Obbligatori sul piano della facolta':   
+  
+11. Complementi di analisi matematica;   
+12. Economia ed organizzazione aziendale;   
+13. Tecnica delle costruzioni;   
+14. Costruzioni di macchine elettriche;   
+15. Controlli automatici.   
+  
+C) Gruppi di materie a scelta dello studente:   
+  
+Indirizzo impianti:   
+  
+16. Impianti elettrici II;   
+17. Centrali elettriche;   
+18 e 19, a scelta tra:   
+Trazione elettrica;   
+Campi elettromagnetici e circuiti;   
+Elettrochimica;   
+Radiotecnica;   
+Analisi numerica;   
+Ergotecnica;   
+Igiene applicata all'ingegneria e ingegneria sanitaria   
+Teoria ed applicazioni delle macchine calcolatrici;   
+  
+Indirizzo macchine:   
+  
+16. Costruzione di macchine;   
+17. Trazione elettrica;   
+18 e 19, a scelta tra:   
+Macchine elettriche speciali;   
+Costruzione di apparecchi elettrici;   
+Campi elettromagnetici e circuiti;   
+Impianti elettrici II;   
+Analisi numerica;   
+Meccanica applicata alle macchine II;   
+Ergotecnica;   
+Teoria ed applicazioni delle macchine calcolatrici.   
+  
+Art. 54. La scelta dello studente dovra' comunque cadere sugli insegnamenti effettivamente impartiti nei singoli anni accademici nell'ambito della facolta'.   
+  
+Art. 55. - Per essere ammesso all'esame di laurea lo studente dovra' aver superato tutti gli insegnamenti obbligatori del triennio di applicazione e quelli da lui scelti secondo le norme indicate nell'articolo precedente.   
+  
+Art. 56. - L'esame di laurea comprende due prove scritte (una delle quali a indirizzo specifico e una prova orale) agli studenti iscritti al 5° anno, che abbiano superato gli esami degli anni precedenti con media elevata, e' consentito di sostituire la prova scritta a indirizzo specifico con una tesi anche di carattere teorico.   
+La prova orale verte sulla discussione delle scritte sui progetti svolti nel quinto anno e su argomenti intesi ad accertare la organica preparazione di base del candidato e le sue cognizioni tecniche e pratiche nel ramo dell'ingegneria elettrotecnica.   
+  
+  
+Visto, d'ordine del Presidente della Repubblica   
+  
+Il Ministro per la pubblica istruzione   
+GUI   

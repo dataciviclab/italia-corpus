@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 gennaio 1953 n. 424
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1951 n. 751
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 gennaio 1953 n. 424
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1951 n. 751
+===============================================================
 
 Autorizzazione alla Cassa scolastica dell'Istituto tecnico commerciale e per geometri "Mossotti" di Novara ad accettare una donazione.
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-424. Decreto del Presidente della Repubblica 20 gennaio 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dell'Istituto tecnico commerciale e per geometri "Mossotti" di Novara viene autorizzata ad accettare la donazione di nominali lire 205.000 in titoli di Stato, disposta allo scopo di istituire, col relativo reddito, un annuo premio di studio intitolato al nome di Luigi Bussi.  
+751. Decreto del Presidente della Repubblica 22 febbraio 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dell'Istituto tecnico commerciale e per geometri "Mossotti" di Novara viene autorizzata ad accettare la donazione di L. 300.000 in titoli di Stato e L. 1045,50 in contante, da parte di parenti ed ammiratori di Alberto Saini, per l'istituzione di una borsa di studio intitolata "Alberto Saini", a favore di due alunni, o alunne, dell'Istituto superiore, Sezione ragioneria.  
   
-Visto, il Guardasigilli: ZOLI  
-Registrato alla corte dei conti, addi' 5 giugno 1953  
-Atti del Governo, registro n. 77, foglio n. 17. - PALLA
+Visto, il Guardasigilli: PICCIONI  
+Registrato alla Corte dei conti, addi' 1 settembre 1951  
+Atti del Governo, registro n. 42, foglio n. 4. - CARLOMAGNO

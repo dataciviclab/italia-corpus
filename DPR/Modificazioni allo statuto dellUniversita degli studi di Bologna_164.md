@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1963 n. 1768
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 273
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1963 n. 1768
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 273
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -10,145 +10,93 @@ Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926,numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successivi;
+Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1392);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1632](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1632), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le Proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita', anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Bologna approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso.
-
-Dopo l'art. 187, e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della Scuola di perfezionamento in Archeologia.
-
-Art. 188. - Al corso biennale di perfezionamento in Archeologia possono iscriversi i laureati in Lettere.
-
-Art. 189. - Per conseguire il diploma gli iscritti alla Scuola di perfezionamento in Archeologia dovranno:
-
-a) superare due esami biennali nelle materie obbligatorie della Scuola e un terzo, pure biennale, scelto fra gli insegnamenti fondamentali o complementari.
-
-Ove l'iscritto scelga per la dissertazione prescritta per il conseguimento del diploma di specializzazione una disciplina fondamentale o complementare, il terzo esame biennale dovra' vertere sulla stessa;
-
-b) superare tre esami annuali scelti fra le discipline fondamentali e complementari;
-
-c) sostenere una prova scritta consistente in traduzioni, con l'uso del dizionario, dal greco antico e da due lingue moderne, di brevi passi riguardanti l'arte antica;
-
-d) presentare e discutere una dissertazione scritta su una delle discipline della Scuola. Il tema, dovra' essere scelto agli inizi del primo anno di corso.
-
-Art. 190. - Sono corsi biennali obbligatori:
-
-Archeologia;
-
-Storia dell'arte medioevale e moderna.
-
-Sono insegnamenti fondamentali:
-
-Antichita' greche e romane;
-
-Archeologia cristiana;
-
-Etruscologia ed archeologia italica;
-
-Numismatica;
-
-Paletnologia;
-
-Topografia dell'Italia antica.
-
-Sono insegnamenti complementari:
-
-Critica d'arte;
-
-Paleografia e diplomatica;
-
-Storia greca;
-
-Storia romana.
-
-Art. 191. - Potranno essere concesse abbreviazioni di corso con deliberazione del Consiglio della scuola ai laureati in possesso di titoli post-universitari attinenti allo studio della Archeologia.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 22 ottobre 1963
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 9 dicembre 1963 Atti del Governo, registro n. 178, foglio n. 30. - VILLA
+Lo statuto dell'Universita' di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926,numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1392);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1632](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1632), e successive modificazioni;  
-Vedute le Proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita', anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Nell'art. 51, relativo all'elenco degli insegnamenti complementari dell'indirizzo storico-politico, del corso di laurea in scienze politiche sono aggiunti i seguenti nuovi insegnamenti:  
+partiti politici e gruppi di pressione;  
+storia ed istituzioni dell'Africa mediterranea e del vicino Oriente;  
+storia ed istituzioni dei Paesi latino-americani;  
+storia economica contemporanea.  
+Nel medesimo articolo sono soppressi i seguenti insegnamenti:  
+storia ed istituzioni dei Paesi di lingua spagnola;  
+storia dei rapporti tra Stato e Chiesa;  
+storia della filosofia;  
+storia della filosofia moderna e contemporanea;  
+storia del diritto italiano;  
+storia medioevale;  
+storia politica e diplomatica dell'Asia orientale.  
+
+Art. 2
+------
+
   
-Decreta:  
+Nell'art. 52, relativo all'elenco degli insegnamenti complementari dell'indirizzo politico-sociale del medesimo corso di laurea, e' aggiunto il seguente nuovo insegnamento:  
+teoria e tecnica delle comunicazioni di massa.  
+
+Art. 3
+------
+
   
-Lo statuto dell'Universita' degli studi di Bologna approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso.  
-Dopo l'art. 187, e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della Scuola di perfezionamento in Archeologia.  
+Nell'art. 53, relativo all'elenco degli insegnamenti complementari dell'indirizzo politico-amministrativo del medesimo corso di laurea, sono aggiunti i seguenti nuovi insegnamenti:  
+analisi delle politiche pubbliche;  
+metodologia delle scienze politiche;  
+governo locale;  
+psicologia dell'organizzazione;  
+ordinamento giudiziario.  
+Nel medesimo elenco sono soppressi i seguenti insegnamenti:  
+istituzioni di diritto privato;  
+diritto amministrativo I;  
+diritto amministrativo II;  
+economia industriale;  
+economia aziendale;  
+diritto tributario;  
+diritto delle Comunita' europee.  
+
+Art. 4
+------
+
   
-Art. 188. - Al corso biennale di perfezionamento in Archeologia possono iscriversi i laureati in Lettere.  
-  
-Art. 189. - Per conseguire il diploma gli iscritti alla Scuola di perfezionamento in Archeologia dovranno:  
-a) superare due esami biennali nelle materie obbligatorie della Scuola e un terzo, pure biennale, scelto fra gli insegnamenti fondamentali o complementari.  
-Ove l'iscritto scelga per la dissertazione prescritta per il conseguimento del diploma di specializzazione una disciplina fondamentale o complementare, il terzo esame biennale dovra' vertere sulla stessa;  
-b) superare tre esami annuali scelti fra le discipline fondamentali e complementari;  
-c) sostenere una prova scritta consistente in traduzioni, con l'uso del dizionario, dal greco antico e da due lingue moderne, di brevi passi riguardanti l'arte antica;  
-d) presentare e discutere una dissertazione scritta su una delle discipline della Scuola. Il tema, dovra' essere scelto agli inizi del primo anno di corso.  
-  
-Art. 190. - Sono corsi biennali obbligatori:  
-Archeologia;  
-Storia dell'arte medioevale e moderna.  
-Sono insegnamenti fondamentali:  
-Antichita' greche e romane;  
-Archeologia cristiana;  
-Etruscologia ed archeologia italica;  
-Numismatica;  
-Paletnologia;  
-Topografia dell'Italia antica.  
-Sono insegnamenti complementari:  
-Critica d'arte;  
-Paleografia e diplomatica;  
-Storia greca;  
-Storia romana.  
-  
-Art. 191. - Potranno essere concesse abbreviazioni di corso con deliberazione del Consiglio della scuola ai laureati in possesso di titoli post-universitari attinenti allo studio della Archeologia.  
+Nell'art. 54, relativo all'elenco degli insegnamenti complementari dell'indirizzo politico-economico del medesimo corso di laurea, sono aggiunti i seguenti nuovi insegnamenti:  
+economia applicata;  
+teoria e politica monetaria internazionale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 ottobre 1963
+### Dato a Roma, addi' 26 aprile 1983
 
-SEGNI GUI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 9 dicembre 1963
+Registrato alla Corte dei conti, addi' 28 maggio 1983
 
-Atti del Governo, registro n. 178, foglio n. 30. - VILLA
+Registro n. 39 Istruzione, foglio n. 292

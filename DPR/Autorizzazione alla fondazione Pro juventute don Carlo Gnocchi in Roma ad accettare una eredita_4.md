@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 271
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1977 n. 328
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 271
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1977 n. 328
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad ac
 Art. 1
 ------
 
-n.
+N.
 
-271. Decreto del Presidente della Repubblica 10 marzo 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita' consistente nella quota di 1/2 di saldo conti correnti, titoli obbligazionari ed azionari per un totale di lire 75.370.464, quota 1/2 L. 37.675.232, disposta dal signor Tagliafico Achille con testamento olografo 15 marzo 1974, pubblicato in data 27 ottobre 1978, n. 1571 di repertorio, a rogito dott. Ulderico Brambilla, notaio in Milano, registrato a Milano in data 8 novembre 1978 al n. 18988.  
+328. Decreto del Presidente della Repubblica 9 maggio 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.ra Dinati Margherita con testamento olografo 3 aprile 1969, pubblicato a rogito del notaio dott. Mario Brunelli in data 22 febbraio 1975, numero 736/366 di repertorio, registrato a Orzinuovi (Brescia) il 4 marzo 1975 al n. 66, vol. I, consistente in beni mobili (denaro, titoli di credito, preziosi vari, mobili, suppellettili d'arredamento domestico, buoni del Tesoro novennali 5%) per un totale di lire 6.328.130.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 6 giugno 1986  
-Registro n. 5 Presidenza, foglio n. 84
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 15 giugno 1977  
+Registro n. 5 Presidenza, foglio n. 210

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1966 n. 994
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1980 n. 871
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1966 n. 994
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1980 n. 871
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -10,186 +10,118 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regi decreti 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743) e [26 marzo 1942, n. 328](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-26;328), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1632](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1632), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Cagliari e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:
 
-Art. 13. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze politiche e' aggiunto quello di: "Storia politica ed economica della Sardegna".
+Articolo unico
+--------------
 
-Art. 35. - All'elenco degli insegnamenti complementari del corso di laurea in Materie letterarie e' aggiunto quello di: "Linguistica".
-
-Art. 36. - All'elenco degli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di: "Linguistica" e "Igiene".
-
-Art. 37. - All'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere e' aggiunto quello di: "Linguistica".
-
-Art. 50. - L'elenco degli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' abrogato e sostituito dal seguente:
-
-1) Istologia ed embriologia generale (\*);
-
-2) Parassitologia (\*\*);
-
-3) Biologia delle razze umane (\*);
-
-4) Puericultura (\*\*\*);
-
-5) Semeiotica medica (\*);
-
-6) Tisiologia (\*\*);
-
-7) Clinica delle malattie tropicali e subtropicali (\*\*);
-
-8) Psicologia (\*\*\*);
-
-9) Urologia (\*\*);
-
-10) Anatomia chirurgica e corso di operazioni (\*\*);
-
-11) Medicina preventiva dei lavoratori e psicotecnica (\*\*);
-
-12) Clinica ortopedica (\*\*\*);
-
-13) Neurochirurgia (\*\*\*);
-
-14) Medicina del lavoro (\*\*);
-
-15) Antropologia criminale (\*\*);
-
-16) Psichiatria (\*\*);
-
-17) Genetica medica (\*)
-
-18) Clinica delle malattie infettive (\*);
-
-19) Medicina nucleare (\*);
-
-20) Anatomia topografica (\*), 21) Semeiotica chirurgica (");
-
-22) Fisiologia della nutrizione (\*);
-
-23) Clinica chirurgica pediatrica (\*\*\*);
-
-24) Anestesiologia e rianimazione (\*\*»;
-
-25) Chemioterapia (\*);
-
-26) Virologia (\*\*\*);
-
-27) Tecnica e diagnostica istopatologica (\*).
-
-L'ottavo comma dello stesso articolo e' abrogato e sostituito dal seguente:
-
-"Gli esami di "fisiologia umana", e di "patologia generale, debbono essere superati prima di sostenere quelli di "patologia speciale medica, di "patologia speciale chirurgica, e di "clinica otorinolaringoiatrica"".
-
-Il decimo comma dello stesso articolo e' abrogato e sostituito dal seguente:
-
-"Per gli insegnamenti complementari e' prescritto un corso semestrale; gli studenti hanno l'obbligo di sostenere un insegnamento complementare per ciascun biennio; detto insegnamento dovra' essere scelto tra quelli contrassegnati con un asterisco per il primo biennio, con due asterischi per il secondo biennio e con tre asterischi per il terzo biennio. Per gli insegnamenti non contrassegnati da asterisco gli studenti dovranno attenersi alle disposizioni annualmente impartite dalla Facolta'".
-
-Art. 58, relativo a modalita' di esami dei corsi di laurea in Scienze matematiche, in Fisica e in Scienze naturali - e' soppresso con il conseguente spostamento della numerazione degli articoli successivi.
-
-Art. 69. - Nell'orientamento C dei gruppi di materie a scelta dello studente del corso di laurea in Ingegneria chimica, l'insegnamento di Chimica organica assume la denominazione di "Chimica agraria".
-
-Art. 70, relativo alle precedenze degli insegnamenti del corso di laurea in Ingegneria chimica la materia "Chimica degli altri polimeri" assume la denominazione di "Chimica degli alti polimeri".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 9 settembre 1966
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 22 novembre 1966 Atti del Governo, registro n. 207, foglio n. 55. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1632](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1632), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+I primi due commi dell'art. 56 relativi al corso di laurea in medicina e chirurgia sono sostituiti dai seguenti:  
   
-Decreta:  
+La facolta' di medicina e chirurgia conferisce la laurea in medicina e chirurgia e la laurea in odontoiatria e protesi dentaria.  
+La durata del corso degli studi per la laurea in medicina e chirurgia e' di sei anni, divisi in tre bienni.  
+La durata del corso degli studi per la laurea in odontoiatria e protesi dentaria e' di cinque anni, divisi in un biennio e in un triennio.  
+I titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge per l'ammissione al corso di laurea in medicina e chirurgia.  
+L'accesso al corso di laurea in odontoiatria e protesi dentaria verra' regolato da un esame di ammissione; il punteggio da attribuire nell'esame sara' cosi' ripartito: il 30% sara' riservato al voto riportato dal candidato nell'esame di Stato di licenza della scuola secondaria superiore ed il 70% sara' riservato alla prova di esame di ammissione al corso di laurea con test a scelta multipla su argomenti di biologia generale, chimica fisica e matematica, secondo i programmi della scuola secondaria superiore.  
+Dopo l'art. 56, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi all'istituzione del corso di laurea in odontoiatria e protesi dentaria.  
+Art. 57. - Sono insegnamenti fondamentali per la laurea in medicina e chirurgia quelli contemplati dallo statuto dell'Universita' degli studi di Cagliari, titolo VII, facolta' di medicina e chirurgia.  
+Art. 58 - Laurea in odontoiatria e protesi dentaria.  
+Il numero massimo degli allievi iscrivibili e' di venti per anno di corso.  
+Sono insegnamenti fondamentali per la laurea in odontoiatria e protesi dentaria:  
+Biennio:  
+1) anestesia generale e speciale odontostomatologica (semestrale);  
+\* 2) biologia generale applicata agli studi medici;  
+\* 3) chimica;  
+\* 4) chimica biologica;  
+5) farmacologia (semestrale);  
+\* 6) fisica medica;  
+7) fisiologia umana e dell'apparato stomatognatico;  
+8) igiene e odontoiatria preventiva e sociale con epidemiologia (semestrale);  
+9) istituzioni di anatomia umana normale e dell'apparato stomatognatico;  
+10) istituzioni di anatomia e istologia patologica;  
+\* 11) istologia ed embriologa generale (compresa la citologia);  
+12) materiali dentari;  
+13) microbiologia (semestrale);  
+14) odontoiatria conservatrice (triennale - secondo, terzo e quarto anno);  
+15) patologia generale.  
+Triennio:  
+16) chirurgia speciale odontostomatologica (biennale - terzo e quarto anno);  
+17) clinica odontostomatologica (biennale - quarto e quinto anno);  
+18) medicina legale e delle assicurazioni e deontologia in odontostomatologia (semestrale);  
+19) neuropatologia e psicopatologia (semestrale);  
+20) ortognatodonzia e gnatologia (funzione masticatoria) (biennale - quarto e quinto anno);  
+21) parodontologia (biennale - quarto e quinto anno);  
+22) patologia speciale chirurgica e propedeutica clinica;  
+23) patologia speciale medica e metodologia clinica (compresa la pediatria);  
+24) patologia speciale odontostomatologica;  
+25) pedodonzia (semestrale);  
+26) protesi dentaria (triennale - terzo, quarto e quinto anno);  
+27) radiologia generale e speciale odontostomatologica (semestrale).  
+Insegnamenti complementari:  
+\* 1) chirurgia maxillo-facciale;  
+\* 2) dermatologia e venerologia (semestrale);  
+\* 3) otorinolaringoiatria (semestrale);  
+\* 4) statistica sanitaria;  
+altri insegnamenti complementari nel piano della facolta' sempre mutuati dal corso di laurea in medicina e chirurgia.  
+Gli insegnamenti segnati con asterisco sono mutuati dal corso di laurea in medicina e chirurgia.  
+Gli insegnamenti fondamentali sono teorici e pratici e la loro frequenza e' obbligatoria.  
+Gli insegnamenti specificatamente odontostomatologici di ordine clinico comportano anche un tirocinio pratico continuativo da espletare prima di sostenere i relativi esami.  
+Gli allievi che non conseguono le attestazioni di frequenza, non possono essere ammessi a sostenere le relative prove di esame.  
+Il tirocinio pratico, relativo ad ogni insegnamento clinico, deve prevedere da parte dei componenti dell'organico, una assistenza didattica adeguata al numero degli studenti.
+
+|  |  |
+| --- | --- |
+| Non si puo' essere ammessi a sostenere l'esame di: | Se non si e' superato l'esame di: |
+| Fisiologia umana e dell'apparato stomatognatico | Istituzioni di anatomia umana normale e dell'apparato stomatognatico; |
+| Patologia generale | Chimica; |
+|  | Biologia generale applicata agli studi medici; |
+|  | Fisica medica; |
+| Patologia speciale medica e metodologia clinica (compresa la pediatria) | Fisiologia umana e dell'apparato stomatognatico; |
+| Patologia speciale chirurgica e propedeutica clinica | Patologia generale; |
+| Clinica odontostomatologica | Patologia speciale medica e metodologia clinica (compresa la pediatria); |
+|  | Patologia speciale chirurgica e propedeutica clinica; |
+|  | Istituzioni di anatomia ed istologia patologica; |
+|  | Patologia speciale odontostomatologica; |
+
   
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 13. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze politiche e' aggiunto quello di: "Storia politica ed economica della Sardegna".  
-Art. 35. - All'elenco degli insegnamenti complementari del corso di laurea in Materie letterarie e' aggiunto quello di: "Linguistica".  
-Art. 36. - All'elenco degli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di: "Linguistica" e "Igiene".  
-Art. 37. - All'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere e' aggiunto quello di: "Linguistica".  
-Art. 50. - L'elenco degli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' abrogato e sostituito dal seguente:  
-1) Istologia ed embriologia generale (\*);  
-2) Parassitologia (\*\*);  
-3) Biologia delle razze umane (\*);  
-4) Puericultura (\*\*\*);  
-5) Semeiotica medica (\*);  
-6) Tisiologia (\*\*);  
-7) Clinica delle malattie tropicali e subtropicali (\*\*);  
-8) Psicologia (\*\*\*);  
-9) Urologia (\*\*);  
-10) Anatomia chirurgica e corso di operazioni (\*\*);  
-11) Medicina preventiva dei lavoratori e psicotecnica (\*\*);  
-12) Clinica ortopedica (\*\*\*);  
-13) Neurochirurgia (\*\*\*);  
-14) Medicina del lavoro (\*\*);  
-15) Antropologia criminale (\*\*);  
-16) Psichiatria (\*\*);  
-17) Genetica medica (\*)  
-18) Clinica delle malattie infettive (\*);  
-19) Medicina nucleare (\*);  
-20) Anatomia topografica (\*), 21) Semeiotica chirurgica (");  
-22) Fisiologia della nutrizione (\*);  
-23) Clinica chirurgica pediatrica (\*\*\*);  
-24) Anestesiologia e rianimazione (\*\*»;  
-25) Chemioterapia (\*);  
-26) Virologia (\*\*\*);  
-27) Tecnica e diagnostica istopatologica (\*).  
-L'ottavo comma dello stesso articolo e' abrogato e sostituito dal seguente:  
-"Gli esami di "fisiologia umana", e di "patologia generale, debbono essere superati prima di sostenere quelli di "patologia speciale medica, di "patologia speciale chirurgica, e di "clinica otorinolaringoiatrica"".  
-Il decimo comma dello stesso articolo e' abrogato e sostituito dal seguente:  
-"Per gli insegnamenti complementari e' prescritto un corso semestrale; gli studenti hanno l'obbligo di sostenere un insegnamento complementare per ciascun biennio; detto insegnamento dovra' essere scelto tra quelli contrassegnati con un asterisco per il primo biennio, con due asterischi per il secondo biennio e con tre asterischi per il terzo biennio. Per gli insegnamenti non contrassegnati da asterisco gli studenti dovranno attenersi alle disposizioni annualmente impartite dalla Facolta'".  
-Art. 58, relativo a modalita' di esami dei corsi di laurea in Scienze matematiche, in Fisica e in Scienze naturali - e' soppresso con il conseguente spostamento della numerazione degli articoli successivi.  
-Art. 69. - Nell'orientamento C dei gruppi di materie a scelta dello studente del corso di laurea in Ingegneria chimica, l'insegnamento di Chimica organica assume la denominazione di "Chimica agraria".  
-Art. 70, relativo alle precedenze degli insegnamenti del corso di laurea in Ingegneria chimica la materia "Chimica degli altri polimeri" assume la denominazione di "Chimica degli alti polimeri".  
+  
+Per essere ammesso a sostenere l'esame di laurea in odontoiatria e protesi dentaria, lo studente deve aver seguito i corsi ed aver superato gli esami in tutti gli insegnamenti fondamentali ed almeno in due insegnamenti scelti tra i complementari ed aver, inoltre, seguito le prescritte esercitazioni cliniche, i tirocini pratici ed averne conseguito le relative attestazioni.  
+L'esame di laurea consiste nella discussione di una tesi scritta su argomenti di odontostomatologia da richiedere almeno all'inizio dell'ultimo anno di corso.  
+Per il trasferimento degli studenti iscritti al corso di laurea in medicina e chirurgia le abbreviazioni di corso non possono superare l'ammissione oltre il secondo anno, subordinatamente al numero di posti resisi disponibili all'inizio del secondo anno sempre che gli aspiranti abbiano superato gli esami di biologia generale applicata agli studi medici, chimica, fisica medica, istologia ed embriologia generale (compresa la citologia).  
+Per i laureati in medicina e chirurgia le abbreviazioni di corso potranno essere concesse, sempre con iscrizione al secondo anno, subordinatamente al numero di posti resisi disponibili all'inizio del secondo anno e dopo che sia trascorso un anno accademico dal conseguimento della laurea precedente.  
+Per esercitare la professione i laureati in odontoiatria e protesi dentaria devono superare un apposito esame di Stato.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 settembre 1966
+### Dato a Roma, addi' 24 ottobre 1980
 
-SARAGAT GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 22 novembre 1966
+Registrato alla Corte dei conti, addi' 10 dicembre 1980
 
-Atti del Governo, registro n. 207, foglio n. 55. - VILLA
+Registro n. 115 Istruzione, foglio n. 365

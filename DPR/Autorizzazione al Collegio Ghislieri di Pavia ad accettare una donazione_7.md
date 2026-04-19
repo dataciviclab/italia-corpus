@@ -1,19 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 ottobre 1952 n. 3092
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1954 n. 907
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 ottobre 1952 n. 3092
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1954 n. 907
+=============================================================
 
-Autorizzazione al Collegio Ghislieri di Pavia ad accettare una donazione.
--------------------------------------------------------------------------
+Autorizzazione al Collegio "Ghislieri" di Pavia ad accettare una donazione.
+---------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-3092. Decreto del Presidente della Repubblica 3 ottobre 1952, col quale, sulla proposta del Ministro per la pubblica istituzione, il Collegio Ghislieri di Pavia viene autorizzato ad accettare la donazione della somma di L. 2.000.000, disposta in suo favore per desiderio del defunto dott. grand'uff. Manfredo Zanardi Lamberti, dalla consorte, sig.ra Maria Vezzani, rappresentata dal figlio dott. Bruno Zanardi Lamberti, con atto pubblico in data 17 ottobre 1951 per l'istruzione, con la rendita del capitale donato, di una o piu' borse di studio o di perfezionamento in Italia o all'estero, o premi per lavori particolarmente notevoli da intitolarsi "Borsa di studio o di perfezionamento dott. Mario Zanardi" e da conferirsi a giovanni nati, essi stessi, e da genitori originari delle province di Sondrio e di Mantova che intendano dedicarsi o si siano dedicati a studi od a lavori di chimica o di fisica o di economia politica.  
+907. Decreto del Presidente della Repubblica 31 luglio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, il Collegio "Ghislieri" di Pavia viene autorizzato ad accettare la donazione di n. 1250 azioni della Societa' Edison, con sede in Milano, costituenti un capitale nominale di L. 2.500.000, disposta in suo favore dall'Associazione alunni del Collegio Ghislieri, per l'istituzione, con la rendita del suddetto capitale, di una borsa per studi di perfezionamento da denominarsi "Borsa di perfezionamento Associazione alunni".  
   
-Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 18 dicembre 1952  
-Atti del Governo, registro n. 64, foglio n. 29. - PALLA
+Visto, il Guardasigilli: DE PIETRO  
+Registrato alla Corte dei conti, addi' 24 settembre 1954  
+Atti del Governo, registro n. 86, foglio n. 50. - CARLOMAGNO

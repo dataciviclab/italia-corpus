@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1968 n. 501
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 febbraio 1984 n. 178
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1968 n. 501
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 febbraio 1984 n. 178
+===============================================================
 
 Autorizzazione all'Automobile club di Modena ad acquistare un immobile.
 -----------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-501. Decreto del Presidente della Repubblica 6 marzo 1968, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile club di Modena viene autorizzato ad acquistare in proprieta' dall'ingegnere Domenico Rabino, per destinarla a sede degli uffici della propria delegazione e per il prezzo di lire 14.000.000, una porzione di fabbricato, estesa per una superficie di circa 130 mq., posta al piano terra nello spigolo sud-est del fabbricato di nuova costruzione sito in Modena alla via Emilia ovest, angolo via S. Cataldo, nel catasto indicata al F. 84, mappale 1743/b, scheda n. 195720.  
+178. Decreto del Presidente della Repubblica 6 febbraio 1984, col quale, sulla proposta del Ministro del turismo e dello spettacolo, l'Automobile club di Modena viene autorizzato ad acquistare, al prezzo di L. 350.000.000, la restante quota del 50% del fabbricato sito in Modena, viale Verdi, via Emilia est, via Cantelli, composto di sette piani fuori terra oltre soffitta, censito al nuovo catasto edilizio urbano alla partita n. 11744, foglio n. 98, mappale n. 3940 sub 1, 25, 12845 sub 1, 2 e 3, 17362 sub 10, ora foglio n. 144, mappali 97 sub 1, 25, 98 sub 10 e 99 sub 1, 2 e 3, di proprieta' dell'Automobile club d'Italia, come da promessa condizionata di compravendita 11 giugno 1983, da adibire a sede di propri uffici.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 16 aprile 1968  
-Atti del Governo, registro n. 219, foglio n. 5. - GRECO
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 17 maggio 1984  
+Registro n. 4 Turismo, foglio n. 194

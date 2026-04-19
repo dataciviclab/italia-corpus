@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1963 n. 1182
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 marzo 1967 n. 483
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1963 n. 1182
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 marzo 1967 n. 483
+============================================================
 
 Autorizzazione al Commissariato per la Gioventu' italiana, con sede in Roma, ad acquistare un immobile.
 -------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1182. Decreto del Presidente della Repubblica 5 giugno 1963, col quale, sulla proposta del Ministro per il tesoro, il Commissariato per la Gioventu' italiana, con sede in Roma, via A. Diaz, 20, viene autorizzato ad acquistare un terreno di mq. 100, sito in Monte Labbate (Pesaro), al prezzo di L. 5 al mq. di cui al compromesso stipulato il 19 giugno 1938 con l'allora proprietario sig. Giuseppe Pedini.  
+483. Decreto del Presidente della Repubblica 22 marzo 1967, col quale, sulla proposta del Ministro per il tesoro, il Commissariato per la Gioventu' italiana, con sede in Roma, viene autorizzato ad acquistare dalla Croce Rossa italiana un terreno di mq. 2296, sito in Bellaria Igea Marina (Forli) censito in catasto al foglio di mappa n. 23, particella n. 28, frazionata con i numeri 28-a e 28-b, al prezzo di lire 10.080.000.  
   
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 5 settembre 1963  
-Atti del Governo, registro n. 174, foglio n. 15. - VILLA
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 13 giugno 1967  
+Atti del Governo, registro n. 211, foglio 108. - GRECO

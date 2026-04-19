@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 726
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 aprile 1985 n. 490
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 726
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 aprile 1985 n. 490
 =============================================================
 
 Assegnazione di un posto di tecnico laureato presso l'Universita' degli studi di Bologna.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-726. Decreto del Presidente della Repubblica 16 giugno 1983, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di patologia generale della facolta' di medicina e chirurgia dell'Universita' di Bologna.  
+490. Decreto del Presidente della Repubblica 22 aprile 1985, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di genio rurale della facolta' di agraria dell'Universita' di Bologna.  
   
 Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 14 dicembre 1983  
-Registro n. 76 Istruzione, foglio n. 286
+Registrato alla Corte dei conti, addi' 18 settembre 1985  
+Registro n. 63 Istruzione, foglio n. 340

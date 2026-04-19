@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1189
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1960 n. 1628
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1189
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1960 n. 1628
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
@@ -12,11 +12,11 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1959, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1959-10-26;1734), e successivi;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche anzidette;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -25,56 +25,69 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 711, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della seconda scuola di specializzazione in malattie infettive.  
+Gli articoli 323-331 relativi alla Scuola di perfezionamento di fisica nucleare sono abrogati e sostituiti dai seguenti con il conseguente spostamento della numerazione degli articoli successivi.  
   
-Scuola di specializzazione in malattie infettive (seconda scuola)  
+Scuola di perfezionamento in "fisica"  
   
-Art. 712. - La scuola di specializzazione in malattie infettive ha lo scopo di promuovere un'approfondita conoscenza delle malattie umane da infezione e dei metodi di diagnosi, di profilassi e di cura delle stesse.  
-Essa conferisce il diploma di specialista in malattie infettive.  
-Alla scuola sono ammessi i laureati in medicina e chirurgia in numero non superiore a 20 per ciascun anno. Qualora gli aspiranti siano in numero maggiore, i candidati dovranno sostenere una prova scritta e la ammissione sara' determinata in base alla graduatoria.  
-Gli aspiranti che per titoli gia' acquisiti ritengano di poter essere ammessi al 2° anno di corso, dovranno presentare documentata richiesta.  
-Art. 713. - Il corso di studi ha la durata di tre anni, durante i quali gli iscritti hanno l'obbligo di frequentare le lezioni, le esercitazioni pratiche ed i vari reparti degli istituti clinici.  
-La firma di frequenza e' necessaria per l'ammissione agli esami di profitto che saranno sostenuti alla fine di ogni anno accademico per le discipline di insegnamento annuale ed alla fine del biennio per gli insegnamenti biennali.  
-Alla fine del corso gli iscritti dovranno presentare e discutere una dissertazione scritta su un argomento di malattie infettive.  
-Per essere ammesso a questo esame di diploma, il candidato deve aver superato tutti gli esami di profitto.  
-Art. 714. - La scuola di specializzazione in malattie infettive comprende i seguenti insegnamenti:  
+Art. 323. - La Scuola di perfezionamento in "fisica", istituita, presso la Facolta' di scienze matematiche, fisiche e naturali, ha fine scientifico e rilascia il diploma di perfezionamento in uno degli indirizzi che verranno specificati annualmente nel bando. Il diploma conterra' l'indicazione dell'indirizzo degli studi seguito dall'allievo. Il corso degli studi ha la durata di due anni.  
+Non sono consentite abbreviazioni di corso.  
+Art. 324. - La Scuola e' retta da un direttore assistito da un Consiglio; il direttore della Scuola e' nominato dal rettore su designazione del Consiglio di facolta) di scienze matematiche, fisiche e naturali. Questo lo designa scegliendo tra i professori di ruolo delle seguenti materie: fisica sperimentale, fisica superiore, fisica teoretica, teorie quantistiche, spettroscopia e astrofisica.  
+Il direttore dura in carica un biennio.  
+Il Consiglio della Scuola e' costituito da tutti gli insegnanti i cui insegnamenti fanno parte della medesima ed e' presieduto dal direttore.  
+Gli insegnanti della Scuola sono proposti dal direttore che puo' sceglierli tra i professori di ruolo, tra i liberi docenti, tra gli assistenti o anche tra persone di riconosciuta competenza in uno degli indirizzi trattati nella Scuola; tali proposte sono approvate dal Consiglio della Facolta'.  
+E' data facolta' al direttore, all'inizio di ogni anno accademico, di rivedere il programma della Scuola e, sentito il parere del Consiglio, di sottoporre al Consiglio della Facolta' proposte di variazioni del medesimo che saranno rese pubbliche.  
+Art. 325. - Alla Scuola di perfezionamento in fisica vengono ammessi soltanto laureati in fisica, scienze, matematiche, matematica e fisica, chimica ed ingegneria.  
+E' data facolta' al direttore di stabilire, prima dello inizio di ogni anno accademico un numero massimo di iscrizioni oltre al quale potranno non essere accolte le domande eccedenti.  
+Quando gli iscritti siano in numero molto limitato gli insegnamenti possono non avere il carattere cattedratico ed essere svolti in quella diversa forma che e' consentita dall'indole di ciascuna disciplina.  
+Art. 326. La sorveglianza degli iscritti per tutto quanto riguarda la loro attivita' spetta al direttore della Scuola che a questo scopo sara' coadiuvato da un segretario nominato di anno in anno.  
+La frequenza ai singoli insegnamenti deve essere attestata dai rispettivi insegnanti.  
+Art. 327. - Le Commissioni per gli esami di profitto sono formate dal professore della materia e da due altri insegnanti detta Scuola.  
+Art. 328. - La Commissione per l'esame di diploma e' formata da quattro membri scelti dal direttore fra gli insegnanti della Scuola e da un controrelatore nominato dal Consiglio dei professori nella persona di un competente nel soggetto particolare della dissertazione, il quale non faccia parte dell'Universita' di Roma.  
+L'esame di diploma consistera' nella discussione di una dissertazione originale scritta.  
+Art. 329. - L'esame di diploma dovra' essere superato entro cinque anni dalla data di immatricolazione.  
+I candidati non riconosciuti idonei ad una prima prova non potranno ripresentarsi prima che sia trascorso un periodo di undici mesi.  
+Art. 330. - Gli insegnamenti impartiti dalla Scuola sono scelti nel seguente elenco a cui potranno essere aggiunti altri cinque corsi il cui titolo sara' fissato di anno in anno dal Consiglio dei professori che li sottopone per l'approvazione al Consiglio di facolta':  
+1) Tecniche sperimentali e progettazione di esperienze di fisica nucleare;  
+2) Complementi di fisica teoretica;  
+3) Macchine acceleratrici (con esercitazioni);  
+4) Fisica dei reattori (con esercitazioni);  
+5) Fisica nucleare (1ª parte);  
+6) Fisica nucleare (2ª parte);  
+7) Fisica delle particelle elementari;  
+8) Teoria, dei campi;  
+9) Relativita';  
+10) Complementi di elettronica;  
+11) Matematica applicata;  
+12) Tecniche della fisica dei solidi e dei liquidi;  
+13) Tecniche della fisica dei gas ionizzati;  
+14) Complementi di struttura della materia;  
+15) Fisica dei gas ionizzati;  
+16) Magnetoidrodinamica e elettrodinamica cosmica;  
+17) Fisica dei fluidi;  
+18) Fisica dei solidi;  
+19) Astrofisica (1ª parte);  
+20) Astrofisica (2ª parte);  
+21) Complementi di chimica fisica.  
+Art. 331. - Gli iscritti alla Scuola devono frequentare e sostenere l'esame di cinque materie, trattate in corsi annuali, secondo uno degli ordini degli studi fissati dal Consiglio dei professori della Scuola a norma dell'art. 332.  
+Varianti rispetto a detti ordini degli studi possono essere concesse dal Consiglio dei professori su domanda scritta dall'allievo, presentata alla segreteria della Scuola non oltre il 31 dicembre.  
+Per adire al secondo anno gli iscritti alla Scuola dovranno aver superato gli esami relativi agli insegnamenti del primo anno: per adire all'esame di diploma devono aver superato gli esami previsti dall'ordine degli studi.  
+Art. 332. - Il Consiglio dei professori della Scuola, privi dell'inizio di ciascun anno accademico, prepara due o piu' ordini degli studi corrispondenti a diversi indirizzi e stabilisce quali siano i corsi a carattere semestrale essendo inteso che la frequenza e gli esami di due materie svolte in corsi semestrali sono equivalenti alla frequenza ed all'esame di una materia svolta in un corso annuale.  
+I detti ordini degli studi, nonche' l'eventuale carattere semestrale di alcuni corsi, verranno specificati nel bando della Scuola, pubblicato, previa approvazione della Facolta' prima dell'inizio di ciascun anno accademico.  
+Art. 333. Gli iscritti alla Scuola di perfezionamento sono tenuti a pagare le medesime tasse, soprattasse e contributi generali stabiliti dalle vigenti disposizioni di legge per gli studenti della Facolta'.  
+La tassa di diploma e' fissata in L. 6000, a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
+La misura dei contributi per le esercitazioni di laboratorio e per altre prestazioni, di cui gli iscritti usufruiscono durante il corso degli studi, e' fissata dal Consiglio di amministrazioni, su proposta del Senato accademico, udito il Consiglio della facolta' di scienze matematiche, fisiche e naturali e il Consiglio della scuola.  
+Art. 334. - Presso la Scuola di perfezionamento in fisica sara' istituito, a completamento degli insegnamenti, un seminario di fisica.  
   
-1° Anno:  
-1) Epidemiologia generale delle malattie infettive;  
-2) Nozioni generali di batteriologia, di virologia, di parassitologia, di immunologia;  
-3) Tecnica batteriologica, virologica, parassitologica, immunologica applicata alle malattie infettive (1° anno).  
-  
-2° Anno:  
-1) Patologia e clinica delle malattie infettive (1° anno);  
-2) Semeiotica e diagnostica delle malattie infettive;  
-3) Anatomia patologica delle malattie infettive;  
-4) Tecnica batteriologica, virologica, parassitologica, immunologica applicata alle malattie infettive (2° anno).  
-  
-3° Anno:  
-1) Patologia e clinica delle malattie infettive (2° anno);  
-2) Malattie infettive dei Paesi caldi;  
-3) Farmacologia e terapia generale delle malattie infettive;  
-4) Legislazione sanitaria e malattie infettive.  
-  
-L'ordine degli esami e' il seguente:  
-I anno: esame delle discipline n. 1) e 2);  
-II anno: esame delle discipline n. 2), 3) e 4);  
-III anno: esame delle discipline n. 1), 2), 3), 4) ed un esame di diploma.  
-  
-I candidati non riconosciuti idonei all'esame di diploma potranno ripresentarsi dopo un altro anno di frequenza alla scuola. Ma se, al secondo esame, non sara' loro riconosciuta la idoneita', saranno esclusi da ulteriori prove.  
-Art. 715. - Le tasse e soprattasse che gli iscritti sono tenuti a pagare, sono fissate come segue:  
-  
-tassa d'immatricolazione . . . . . . . . . . . . . . . . . . L. 5.000 tassa annuale d'iscrizione. . . . . . . . . . . . . . . . . L. 18.000 soprattassa annuale per esami di profitto. . . . . . . . . . L. 7.000 contributi generali. . . . . . . . . . . . . . . . . . . . . . L. 950 riscaldamento. . . . . . . . . . . . . . . . . . . . . . . . L. 2.000 contributo di laboratorio per esercitazioni . . . . . . . . L. 50.000 libretto di riconoscimento . . . . . . . . . . . . . . . . . . L. 300 indennita' di schedatura . . . . . . . . . . . . . . . . . . . L. 500 soprattassa esami di diploma . . . . . . . . . . . . . . . . L. 3.000   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1973
+### Dato a Roma, addi' 31 ottobre 1960
 
-LEONE MALFATTI
+GRONCHI BOSCO
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 19 novembre 1974
+Registrato alla Corte dei conti, addi' 30 dicembre 1960
 
-Atti di Governo, registro n. 6, foglio n. 137. - SCIARRETTA
+Atti del Governo, registro n. 132, foglio n. 148. - VILLA

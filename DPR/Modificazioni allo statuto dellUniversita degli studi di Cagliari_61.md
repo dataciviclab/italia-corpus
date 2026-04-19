@@ -1,114 +1,42 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1977 n. 722
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1969 n. 882
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1977 n. 722
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1969 n. 882
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Cagliari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 12 - all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:
-
-storia del diritto italiano moderno e contemporaneo;
-
-diritto penitenziario;
-
-storia e sistemi dei rapporti fra Stato e Chiesa.
-
-L'art. 67, relativo all'ordinamento degli studi del corso di laurea in farmacia, e' modificato nel senso che dopo il secondo comma successivo all'elenco degli insegnamenti complementari sono inseriti i seguenti due commi, relativi alle propedeuticita' degli esami:
-
-Lo studente non puo' iscriversi al laboratorio di esercitazioni di chimica farmaceutica e tossicologica (triennale primo) se non ha superato l'esame di chimica generale ed inorganica, pertanto non puo' ottenere la firma di frequenza del suddetto corso.
-
-Lo studente non puo' iscriversi al laboratorio di esercitazioni di chimica farmaceutica e tossicologica (triennale terzo) se non ha superato l'esame di chimica organica, pertanto non puo' ottenere la firma del suddetto corso.
-
-L'art. 70, relativo all'ammissione all'esame di laurea in chimica e tecnologia farmaceutiche, e' modificato nel senso che sono inseriti come primo e secondo comma i seguenti:
-
-Lo studente non puo' iscriversi al laboratorio di analisi chimico farmaceutica I (analisi qualitativa) se non ha superato l'esame di chimica generale ed inorganica, pertanto non puo' ottenere la firma di frequenza del suddetto corso.
-
-Lo studente non puo' iscriversi al laboratorio di analisi chimico farmaceutica III (analisi dei medicamenti) se non ha superato l'esame di chimica organica I, pertanto non puo' ottenere la frequenza del suddetto corso.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 1 giugno 1977
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 26 settembre 1977 Registro n. 106 Istruzione, foglio n. 364
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Cagliari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Veduto il [regio decreto 30 settembre 1938, n. 1692](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1692), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 12 - all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:  
-storia del diritto italiano moderno e contemporaneo;  
-diritto penitenziario;  
-storia e sistemi dei rapporti fra Stato e Chiesa.  
-L'art. 67, relativo all'ordinamento degli studi del corso di laurea in farmacia, e' modificato nel senso che dopo il secondo comma successivo all'elenco degli insegnamenti complementari sono inseriti i seguenti due commi, relativi alle propedeuticita' degli esami:  
-  
-Lo studente non puo' iscriversi al laboratorio di esercitazioni di chimica farmaceutica e tossicologica (triennale primo) se non ha superato l'esame di chimica generale ed inorganica, pertanto non puo' ottenere la firma di frequenza del suddetto corso.  
-Lo studente non puo' iscriversi al laboratorio di esercitazioni di chimica farmaceutica e tossicologica (triennale terzo) se non ha superato l'esame di chimica organica, pertanto non puo' ottenere la firma del suddetto corso.  
-L'art. 70, relativo all'ammissione all'esame di laurea in chimica e tecnologia farmaceutiche, e' modificato nel senso che sono inseriti come primo e secondo comma i seguenti:  
-  
-Lo studente non puo' iscriversi al laboratorio di analisi chimico farmaceutica I (analisi qualitativa) se non ha superato l'esame di chimica generale ed inorganica, pertanto non puo' ottenere la firma di frequenza del suddetto corso.  
-Lo studente non puo' iscriversi al laboratorio di analisi chimico farmaceutica III (analisi dei medicamenti) se non ha superato l'esame di chimica organica I, pertanto non puo' ottenere la frequenza del suddetto corso.  
+Lo statuto dell'universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 50, relativo al corso di laurea in medicina e chirurgia e' modificato nel senso che dopo il quindicesimo comma e' aggiunto il seguente:  
+"L'esame di laurea consiste nella presentazione e nella discussione orale di una dissertazione scritta su tema liberamente scelto dal candidato".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 giugno 1977
+### Dato a Roma, addi' 30 ottobre 1969
 
-LEONE MALFATTI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 26 settembre 1977
+Registrato alla Corte dei conti, addi' 2 dicembre 1969
 
-Registro n. 106 Istruzione, foglio n. 364
+Atti del Governo, registro n. 230, foglio n. 115. - CARUSO

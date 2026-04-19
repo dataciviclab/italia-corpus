@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1980 n. 360
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1976 n. 1010
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1980 n. 360
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1976 n. 1010
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,48 +18,153 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Perugia e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' degli studi di Perugia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Veduto il [parere della sezione prima del Consiglio di Stato n. 1902/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
+Sulla proposta del Ministro per la pubblica istruzione;
 
-Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli Atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
+Decreta:
 
-Sulla
------
+Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-proposta del Ministro della pubblica istruzione; Decreta:
+L'art. 99 e' modificato nel senso che al primo comma, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, la scuola di specializzazione in endocrinologia e malattie del ricambio muta la denominazione in endocrinologia.
 
-Articolo unico
---------------
+L'art. 109, relativo alla scuola di specializzazione in endocrinologia e malattie del ricambio, che muta la denominazione in scuola di specializzazione in endocrinologia, e' soppresso e sostituito dal seguente:
 
+Scuola di specializzazione in endocrinologia
+
+Art. 109. - La scuola ha la durata di anni tre; il numero degli iscritti e' limitato a sei per ogni anno di corso.
+
+Gli aspiranti saranno ammessi alla scuola in base alla graduatoria formulata dopo un esame preliminare che comprende una prova scritta ed una prova orale, che si svolgera' entro il mese di dicembre.
+
+Gli iscritti alla scuola hanno l'obbligo di frequentare gli insegnamenti stabiliti secondo il programma del corso, nonche' l'istituto sede della scuola.
+
+Coloro che non ottempereranno all'obbligo di frequenza ai corsi di insegnamento e al servizio di corsia e di laboratorio non potranno ottenere l'attestazione di frequenza necessaria.
+
+Il programma di ciascun anno di corso sara' svolto in almeno 60 lezioni globali e sara' integrato da seminari, conferenze, esercitazioni.
+
+Alla fine di ciascun anno accademico, coloro che abbiano ottenuto la prescritta attestazione di frequenza potranno sostenere gli esami di profitto, il cui superamento e' condizione necessaria per l'iscrizione al corso successivo.
+
+Al termine del terzo anno, per conseguire il diploma di specializzazione in endocrinologia, oltre aver superato le prove d'esame dei singoli insegnamenti obbligatori e di uno almeno scelto tra gli insegnamenti complementari, gli iscritti dovranno presentare una dissertazione scritta su un argomento di ordine endocrinologico "clinico e sperimentale" che sara' stabilito in base ad accordi presi con il direttore della scuola.
+
+I candidati non riconosciuti idonei agli esami di ciascun anno di corso e all'esame di diploma, potranno sostenere le prove dopo un altro anno di frequenza.
+
+Le materie di insegnamento sono:
+
+1° Anno:
+
+1) anatomia ed embriologia degli organi endocrini;
+
+2) fisiologia endocrina;
+
+3) biochimica endocrina;
+
+4) anatomia patologica delle malattie endocrine (biennale);
+
+5) semeiotica e diagnostica endocrina (biennale).
+
+2° Anno:
+
+1) anatomia patologica delle malattie endocrine (biennale);
+
+2) semeiotica e diagnostica endocrine (biennale);
+
+3) patologia speciale medica e clinica delle malattie endocrine e delle auxopatie (biennale);
+
+4) eredopatologia endocrina.
+
+3° Anno:
+
+1) patologia speciale medica e clinica delle malattie endocrine e delle auxopatie (biennale);
+
+2) terapia delle malattie endocrine.
+
+Insegnamenti complementari:
+
+1) farmacologia endocrina;
+
+2) endocrinologia ostetrico-ginecologica;
+
+3) neuroendocrinologia.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 30 ottobre 1976
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 19 febbraio 1977 Registro n. 18 Istruzione, foglio n. 70
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Lo statuto dell'Universita' di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 101, 102, 104 e 105, relativi alle norme generali per le scuole di specializzazione annesse alla facolta' di medicina e chirurgia, sono soppressi e sostituiti dai seguenti:  
-Art. 101. - Alle scuole di specializzazione possono iscriversi solo i laureati in medicina e chirurgia, salvo diversi indirizzi.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio della professione rilasciato dall'autorita' competente.  
-Non e' ammessa l'iscrizione contemporanea a piu' di una scuola di specializzazione.  
-Art. 102. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione, e, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Il consiglio di ciascuna scuola e' formato dai professori che tengono gli insegnamenti ed e' presieduto dal direttore della scuola stessa.  
-Art. 104. - L'ammissione alla scuola e' subordinata ad un concorso per titoli ed esami.  
-La durata dei corsi e' fissata nello statuto delle singole scuole.  
-Art. 105. - Non sono consentite abbreviazioni di corso.  
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' degli studi di Perugia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
+  
+Decreta:   
+  
+Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+  
+L'art. 99 e' modificato nel senso che al primo comma, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, la scuola di specializzazione in endocrinologia e malattie del ricambio muta la denominazione in endocrinologia.   
+L'art. 109, relativo alla scuola di specializzazione in endocrinologia e malattie del ricambio, che muta la denominazione in scuola di specializzazione in endocrinologia, e' soppresso e sostituito dal seguente:   
+  
+Scuola di specializzazione in endocrinologia   
+Art. 109. - La scuola ha la durata di anni tre; il numero degli iscritti e' limitato a sei per ogni anno di corso.   
+Gli aspiranti saranno ammessi alla scuola in base alla graduatoria formulata dopo un esame preliminare che comprende una prova scritta ed una prova orale, che si svolgera' entro il mese di dicembre.   
+Gli iscritti alla scuola hanno l'obbligo di frequentare gli insegnamenti stabiliti secondo il programma del corso, nonche' l'istituto sede della scuola.   
+Coloro che non ottempereranno all'obbligo di frequenza ai corsi di insegnamento e al servizio di corsia e di laboratorio non potranno ottenere l'attestazione di frequenza necessaria.   
+Il programma di ciascun anno di corso sara' svolto in almeno 60 lezioni globali e sara' integrato da seminari, conferenze, esercitazioni.   
+Alla fine di ciascun anno accademico, coloro che abbiano ottenuto la prescritta attestazione di frequenza potranno sostenere gli esami di profitto, il cui superamento e' condizione necessaria per l'iscrizione al corso successivo.   
+Al termine del terzo anno, per conseguire il diploma di specializzazione in endocrinologia, oltre aver superato le prove d'esame dei singoli insegnamenti obbligatori e di uno almeno scelto tra gli insegnamenti complementari, gli iscritti dovranno presentare una dissertazione scritta su un argomento di ordine endocrinologico "clinico e sperimentale" che sara' stabilito in base ad accordi presi con il direttore della scuola.   
+I candidati non riconosciuti idonei agli esami di ciascun anno di corso e all'esame di diploma, potranno sostenere le prove dopo un altro anno di frequenza.   
+Le materie di insegnamento sono:   
+1° Anno:   
+1) anatomia ed embriologia degli organi endocrini;   
+2) fisiologia endocrina;   
+3) biochimica endocrina;   
+4) anatomia patologica delle malattie endocrine (biennale);   
+5) semeiotica e diagnostica endocrina (biennale).   
+2° Anno:   
+1) anatomia patologica delle malattie endocrine (biennale);   
+2) semeiotica e diagnostica endocrine (biennale);   
+3) patologia speciale medica e clinica delle malattie endocrine e delle auxopatie (biennale);   
+4) eredopatologia endocrina.   
+3° Anno:   
+1) patologia speciale medica e clinica delle malattie endocrine e delle auxopatie (biennale);   
+2) terapia delle malattie endocrine.   
+Insegnamenti complementari:   
+1) farmacologia endocrina;   
+2) endocrinologia ostetrico-ginecologica;   
+3) neuroendocrinologia.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 marzo 1980
+### Dato a Roma, addi' 30 ottobre 1976
 
-PERTINI VALITUTTI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 26 giugno 1980
+Registrato alla Corte dei conti, addi' 19 febbraio 1977
 
-Registro n. 61 Istruzione, foglio n. 315
+Registro n. 18 Istruzione, foglio n. 70

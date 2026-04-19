@@ -1,40 +1,84 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 maggio 1959 n. 419
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 febbraio 1981 n. 258
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 maggio 1959 n. 419
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 febbraio 1981 n. 258
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923), e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, numero 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
+Lo statuto dell'Universita' di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 21. - Agli insegnamenti complementari del Corso di laurea in economia e commercio e' aggiunto quello di "Diritto internazionale".  
+Dopo l'art. 186, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in malattie del fegato e del ricambio.   
+Scuola di specializzazione in malattie del fegato e del ricambio   
+Art. 187. - La scuola ha la durata di tre anni ed ha sede presso l'istituto di clinica medica generale e terapia medica prima cattedra. Potranno essere iscritti alla scuola i laureati in medicina e chirurgia nel numero massimo di otto per anno, per un totale di ventiquattro specializzandi nei tre anni di corso.   
+Non sono ammesse abbreviazioni di corso per nessun motivo.   
+Art. 188. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+1) anatomia e istologia normale del fegato e delle vie biliari;  
+2) fisiologia del fegato e delle vie biliari e del ricambio intermedio;   
+3) clinica medica generale (triennale) I;   
+4) malattie del fegato e delle vie biliari (triennale) I;   
+5) malattie del ricambio (triennale) I;   
+6) nozioni di microbiologia e parassitologia con particolare riguardo al fegato;   
+7) nozioni sull'enzimologia e sul ricambio a livello epatico. 2° Anno:   
+1) anatomia e istologia patologica del fegato e delle vie biliari;   
+2) fisiopatologia del fegato e delle vie biliari e del ricambio intermedio;   
+3) diagnostica funzionale delle malattie del fegato e del ricambio;   
+4) controllo radiologico del fegato e delle vie biliari;   
+5) clinica medica generale (triennale) II;   
+6) malattie del fegato e delle vie biliari (triennale) II;   
+7) malattie del ricambio (triennale) II.   
+3° Anno:   
+1) clinica medica generale (triennale) III;   
+2) malattie del fegato e delle vie biliari (triennale) III;   
+3) malattie del ricambio (triennale) III;   
+4) principi di terapia generale e dietetica applicata alle malattie del fegato e del ricambio;   
+5) terapia chirurgica delle malattie del fegato e delle vie biliari;   
+6) terapia idrologica delle malattie del fegato e delle vie biliari e del ricambio.   
+Art. 189. - Gli iscritti hanno l'obbligo di frequenza alle lezioni e di assistenza pratica secondo le modalita' stabilite dal direttore della scuola stessa.   
+Al termine di ciascun anno gli specializzandi che hanno ottenuto la prescritta attestazione di frequenza per iscriversi all'anno successivo devono superare un esame di profitto, comprensivo delle materie in insegnamento dell'anno stesso.   
+Alla fine del terzo anno gli specializzandi devono sostenere l'esame di diploma che consiste nella discussione di una dissertazione scritta su un tema approvato in precedenza dal direttore della scuola.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 maggio 1959
+### Dato a Roma, addi' 3 febbraio 1981
 
-GRONCHI MEDICI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 25 giugno 1959
+Registrato alla Corte dei conti, addi' 25 maggio 1981
 
-Atti del Governo, registro n. 119, foglio n. 59. - VILLA
+Registro n. 48 Istruzione, foglio n. 302

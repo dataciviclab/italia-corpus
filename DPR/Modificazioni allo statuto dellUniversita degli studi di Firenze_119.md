@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 settembre 1962 n. 1541
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 luglio 1981 n. 693
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 settembre 1962 n. 1541
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 luglio 1981 n. 693
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -10,142 +10,296 @@ Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, numero 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e successivi;
+Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935; n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953 n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio universitario nazionale nei suoi pareri;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla
+-----
 
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 20. - Agli insegnanti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di:
-
-21) Storia dei partiti e dei movimenti politici;
-
-22) Organizzazione internazionale.
-
-Art. 67. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di:
-
-24) Radiobiologia.
-
-Dopo l'art. 134, sono aggiunti i seguenti nuovi articoli, relativi alla creazione di un Seminario di architettura annesso alla Facolta' di architettura, con il conseguente spostamento della numerazione degli articoli successivi.
-
-Art. 135. - Alla Facolta' di architettura e' annesso un Seminario di architettura.
-
-Il Seminario ha la sua sede nei locali della Facolta' di architettura.
-
-Art. 136. - Il Seminario si propone i seguenti scopi:
-
-a) dirigere ed assistere i giovani che intendono dedicarsi allo studio dell'architettura;
-
-b) svolgere in genere ogni attivita' rivolta al progresso dell'architettura e degli studi relativi.
-
-Art. 137 - Il Seminario svolge la sua attivita' come appresso:
-
-a) conferenze tenute dai professori e da assistenti della Facolta' o di altri Istituti di istruzione superiore o da, chiunque sia interessato ai problemi dell'architettura, su questioni di critica storica, di metodologia e di evoluzione dell'architettura;
-
-b) conferenze tenute da studenti con la guida di professori della Facolta';
-
-c) discussioni, comunicazioni scientifiche, riassunti generali o particolari di moderne ricerche.
-
-Art. 138. - Possono prendere parte al Seminario:
-
-a) i professori e gli assistenti della Facolta' di architettura e gli accademici dell'Accademia fiorentina delle arti del disegno;
-
-b) i laureati in architettura presso la Facolta' di architettura di Firenze;
-
-c) gli studenti iscritti alla Facolta';
-
-d) tutti coloro che ai interessano allo studio dell'architettura e che abbiano ottenuto il motivato consenso del direttore.
-
-Art. 139. - La direzione e la vigilanza del Seminario e' affidata a professori ordinari, straordinari e fuori ruolo della Facolta', uno dei quali viene scelto dal Consiglio di facolta' per la durata di un biennio, come direttore: questi e' coadiuvato da un Comitato consultivo, nominato dal Consiglio di facolta' entro le categorie a) e b) dell'articolo precedente.
-
-Art. 140. - Le conferenze del Seminario di particolare interesse possono essere raccolte e pubblicate.
-
-Art. 141. - Il rettore puo' rilasciare a coloro che ne facciano domanda un certificato comprovante il contributo apportato ai lavori del Seminario, conforme le modalita' del regolamento interno.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 17 settembre 1962
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 31 ottobre 1962 Atti del Governo, registro n. 159, foglio n. 86 - VILLA
+proposta del Ministro della pubblica istruzione; Decreta:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, numero 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935; n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953 n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Lo statuto dell'Universita' di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 273 - all'elenco delle scuole di specializzazione in medicina e chirurgia, sono apportate le seguenti modifiche:  
+la scuola di specializzazione in clinica pediatrica muta la denominazione in pediatria;  
+la scuola di specializzazione in clinica dermosifilopatica muta la denominazione in dermatologia e venereologia;  
+la scuola di specializzazione in odontoiatria e protesi dentaria muta la denominazione in odontostomatologia;  
+la scuola di specializzazione in nefrologia medica muta la denominazione in nefrologia.  
+Allo stesso elenco e' aggiunta la scuola di specializzazione in chirurgia vascolare.  
+
+Art. 2
+------
+
   
-Decreta:  
+L'art. 274, relativo alla scuola di specializzazione in clinica pediatrica che muta la denominazione in pediatria, e' soppresso e sostituito dal seguente:  
   
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Scuola di specializzazione in pediatria  
   
-Art. 20. - Agli insegnanti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di:  
-21) Storia dei partiti e dei movimenti politici;  
-22) Organizzazione internazionale.  
-Art. 67. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di:  
-24) Radiobiologia.  
-Dopo l'art. 134, sono aggiunti i seguenti nuovi articoli, relativi alla creazione di un Seminario di architettura annesso alla Facolta' di architettura, con il conseguente spostamento della numerazione degli articoli successivi.  
-Art. 135. - Alla Facolta' di architettura e' annesso un Seminario di architettura.  
-Il Seminario ha la sua sede nei locali della Facolta' di architettura.  
-Art. 136. - Il Seminario si propone i seguenti scopi:  
-a) dirigere ed assistere i giovani che intendono dedicarsi allo studio dell'architettura;  
-b) svolgere in genere ogni attivita' rivolta al progresso dell'architettura e degli studi relativi.  
-Art. 137 - Il Seminario svolge la sua attivita' come appresso:  
-a) conferenze tenute dai professori e da assistenti della Facolta' o di altri Istituti di istruzione superiore o da, chiunque sia interessato ai problemi dell'architettura, su questioni di critica storica, di metodologia e di evoluzione dell'architettura;  
-b) conferenze tenute da studenti con la guida di professori della Facolta';  
-c) discussioni, comunicazioni scientifiche, riassunti generali o particolari di moderne ricerche.  
-Art. 138. - Possono prendere parte al Seminario:  
-a) i professori e gli assistenti della Facolta' di architettura e gli accademici dell'Accademia fiorentina delle arti del disegno;  
-b) i laureati in architettura presso la Facolta' di architettura di Firenze;  
-c) gli studenti iscritti alla Facolta';  
-d) tutti coloro che ai interessano allo studio dell'architettura e che abbiano ottenuto il motivato consenso del direttore.  
-Art. 139. - La direzione e la vigilanza del Seminario e' affidata a professori ordinari, straordinari e fuori ruolo della Facolta', uno dei quali viene scelto dal Consiglio di facolta' per la durata di un biennio, come direttore: questi e' coadiuvato da un Comitato consultivo, nominato dal Consiglio di facolta' entro le categorie a) e b) dell'articolo precedente.  
-Art. 140. - Le conferenze del Seminario di particolare interesse possono essere raccolte e pubblicate.  
-Art. 141. - Il rettore puo' rilasciare a coloro che ne facciano domanda un certificato comprovante il contributo apportato ai lavori del Seminario, conforme le modalita' del regolamento interno.  
+Art. 274. - La scuola di specializzazione in pediatria ha sede presso la clinica pediatrica e conferisce il diploma di specialista in pediatria.  
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. La durata del corso e' di quattro anni e non e' suscettibile di abbreviazioni.  
+Il numero massimo degli allievi e' di venticinque per anno di corso e complessivamente di cento per l'intero corso di studi. L'ammissione al corso avviene per titoli ed esami. Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+genetica;  
+auxologia;  
+alimentazione;  
+epidemiologia;  
+malattie infettive;  
+clinica pediatrica I.  
+2° Anno:  
+radiologia;  
+organizzazione sanitaria;  
+psicologia pediatrica;  
+oculistica ed ortottica;  
+otorino e foniatria;  
+odontoiatria;  
+neonatologia I;  
+chirurgia pediatrica I;  
+pediatria preventiva e sociale I;  
+clinica pediatrica II;  
+legislazione del minore.  
+3° Anno:  
+neurologia;  
+psichiatria infantile;  
+nefrologia ed urologia;  
+ginecologia pediatrica;  
+neonatologia II;  
+chirurgia pediatrica II;  
+pediatria preventiva e sociale II;  
+cardiologia I;  
+endocrinologia I;  
+ematologia I;  
+immunologia I;  
+gastroenterologia I;  
+clinica pediatrica III.  
+4° Anno:  
+oncologia;  
+pneumologia;  
+ortopedia e traumatologia;  
+dermatologia;  
+cardiologia II;  
+endocrinologia II;  
+ematologia II;  
+immunologia II;  
+gastroenterologia II;  
+clinica pediatrica IV.  
+La frequenza alle lezioni, alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere le prove di esame.  
+Alla fine di ciascun anno di corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno.  
+Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.  
+Al termine del corso di studi, per il conseguimento del diploma di specialista in pediatria, gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+
+Art. 3
+------
+
+  
+L'art. 277, relativo alla scuola di specializzazione in clinica dermosifilopatica che muta la denominazione in dermatologia e venereologia, e' soppresso e sostituito dal seguente:  
+  
+Scuola di specializzazione in dermatologia e venereologia  
+  
+Art. 277. - La scuola di specializzazione in dermatologia e venereologia ha sede presso la clinica dermatologica e conferisce il diploma di specialista in dermatologia e venereologia.  
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazione.  
+Il numero massimo degli iscritti e' di dieci per ogni anno di corso e complessivamente di trenta iscritti per l'intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami.  
+Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+anatomia ed istologia normale della cute;  
+fisiologia della cute e degli annessi;  
+anatomia e fisiologia dell'apparato genitale;  
+microbiologia e parassitologia applicate;  
+tecniche di laboratorio applicate alla disciplina;  
+semeiotica dermatologica e venereologica.  
+2° Anno:  
+patologia delle malattie cutanee;  
+patologia delle infezioni veneree;  
+istopatologia e citologia dermatologica e venereologica;  
+immunopatologia cutanea;  
+dermatologia allergologica e professionale;  
+angiologia;  
+sessuologia.  
+3° Anno:  
+clinica delle malattie cutanee;  
+clinica delle infezioni veneree;  
+dermatologia pediatrica;  
+farmacologia e terapia;  
+fisioterapia dermatologica;  
+cosmetologia;  
+chirurgia plastica riparatrice;  
+igiene e profilassi delle malattie cutanee e veneree  
+e relativa legislazione.  
+Il corso delle lezioni deve essere impartito mediante almeno cinquanta lezioni annuali, comprensive delle varie materie e la frequenza giornaliera degli iscritti non deve essere inferiore alle quattro ore effettive per tutta la durata dell'anno accademico.  
+Gli specializzandi hanno percio' obblighi di frequenza onde seguire i corsi di lezioni e svolgere contemporaneamente esercitazioni pratiche nelle corsie, negli ambulatori e nei laboratori.  
+Gli esami di profitto vengono sostenuti in due sessioni.  
+L'esame di diploma consiste nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato ventiquattro ore prima della prova.  
+
+Art. 4
+------
+
+  
+La scuola di specializzazione in odontoiatria e protesi-dentaria di cui all'art. 281, muta la denominazione in odontostomatologia.  
+
+Art. 5
+------
+
+  
+L'art. 292, relativo alla scuola di specializzazione in medicina del lavoro, e' soppresso e sostituito dal seguente:  
+  
+Scuola di specializzazione in medicina del lavoro  
+  
+Art. 292. - La scuola di specializzazione in medicina del lavoro ha sede presso l'istituto di medicina del lavoro e conferisce il diploma di specialista in medicina del lavoro. Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
+Il numero massimo degli allievi e' di undici per anno di corso e complessivamente di quarantaquattro iscritti per l'intero corso di studi. L'ammissione al corso avviene per titoli ed esami.  
+Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) igiene del lavoro (primo corso);  
+2) fisiologia del lavoro ed ergonomia (primo corso);  
+3) tecnologia industriale;  
+4) statistica medica e biometria;  
+5) tecniche di laboratorio.  
+2° Anno:  
+1) patologia e clinica delle malattie del lavoro (primo corso);  
+2) igiene del lavoro (secondo corso);  
+3) fisiologia del lavoro ed ergonomia (secondo corso);  
+4) psicologia del lavoro;  
+5) tossicologia industriale.  
+3° Anno:  
+1) patologia e clinica delle malattie da lavoro (secondo corso);  
+2) prevenzione degli infortuni e malattie da lavoro (primo corso);  
+3) epidemiologia delle malattie da lavoro;  
+4) radiobiologia e radioprotezione;  
+5) dermatologia professionale.  
+4° Anno:  
+1) patologia e clinica delle malattie da lavoro (terzo corso);  
+2) prevenzione degli infortuni e delle malattie da lavoro (secondo corso);  
+3) pronto soccorso;  
+4) medicina legale e delle assicurazioni;  
+5) organizzazione dei servizi di medicina e igiene del lavoro.  
+Gli esami delle discipline svolte in corsi pluriennali vengono sostenuti alla fine dell'ultimo corso.  
+La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.  
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
+Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie biennali o triennali l'esame e' sostenuto alla fine del biennio o del triennio.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in medicina del lavoro, gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione.  
+
+Art. 6
+------
+
+  
+L'art. 307, relativo alla scuola di specializzazione in nefrologia medica che muta la denominazione in nefrologia, e' soppresso e sostituito dal seguente:  
+  
+Scuola di specializzazione in nefrologia  
+  
+Art. 307. - La scuola di specializzazione in nefrologia ha sede presso gli istituti di clinica medica II e di urologia e conferisce il diploma di specialista in nefrologia.  
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
+Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami.  
+Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+struttura ed ultrastruttura normale del rene;  
+aspetti biochimici della funzione renale;  
+fisiologia renale;  
+microbiologia ed immunologia applicate alla nefrologia;  
+genetica applicata alla nefrologia;  
+semeiotica renale (primo anno).  
+2° Anno:  
+struttura ed ultrastruttura patologica del rene;  
+patologia del ricambio idroelettrolitico;  
+insufficienza renale;  
+rene e ipertensione arteriosa;  
+semeiotica renale (secondo anno);  
+nefropatie tubulari.  
+3° Anno:  
+nefropatie glomerulari;  
+nefropatie interstiziali;  
+nefropatie vascolari;  
+terapie dietetica e dialitica (primo anno);  
+farmacologia d'interesse nefrologico.  
+4° Anno:  
+nefroropatie calcolotiche, malformative e neoplastiche;  
+terapie dietetica e dialitica (secondo anno);  
+fisiopatologia e clinica del trapianto renale;  
+aspetti di nefrologia nell'eta' pediatrica;  
+problemi chirurgici in nefrologia;  
+terapia medica delle nefropatie.  
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.  
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
+Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in nefrologia, gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+
+Art. 7
+------
+
+  
+Dopo l'art. 319, e con il conseguente spostamento della numerazione successiva, e' inserito il seguente nuovo articolo relativo alla istituzione della scuola di specializzazione in chirurgia vascolare.  
+Scuola di specializzazione in chirurgia vascolare  
+Art. 320. - La scuola di specializzazione in chirurgia vascolare ha sede presso la cattedra di chirurgia vascolare afferente all'istituto di clinica chirurgica generale.  
+La scuola conferisce il diploma di specialista in chirurgia vascolare. La durata del corso e' di cinque anni e non e' suscettibile di abbreviazione.  
+Sono ammessi alla scuola i laureati in medicina e chirurgia in possesso del diploma di abilitazione professionale rilasciato dall'autorita' competente.  
+Il numero massimo degli iscritti e' di due per ogni anno di corso e complessivamente di dieci per l'intero corso di studi. L'ammissione alla scuola avviene per titoli ed esami.  
+Le materie per l'insegnamento sono le seguenti:  
+1° Anno:  
+1) embriologia, anatomia macro e microscopica dell'apparato vascolare;  
+2) fisiopatologia dell'apparato vascolare e della coagulazione sanguigna;  
+3) anatomia patologica dell'apparato vascolare;  
+4) semeiologia fisica e strumentale delle malattie vascolari;  
+5) semeiologia radiologica delle malattie vascolari;  
+6) vasculopatie di interesse medico e specialistico.  
+2° Anno:  
+7) patologia e clinica delle malattie del sistema arterioso;  
+8) patologia e clinica delle malattie del sistema venoso;  
+9) patologia e clinica delle malattie del sistema linfatico;  
+10) patologia e clinica delle malattie dei piccoli vasi.  
+3° Anno:  
+11) nozioni di terapia medica delle malattie vascolari;  
+12) terapia chirurgica delle malattie vascolari;  
+13) chirurgia vascolare applicata a malattie dei vari organi (I).  
+4° Anno:  
+14) informatica medica;  
+15) rianimazione e terapia intensiva;  
+16) patologia e clinica vascolare pediatrica (I);  
+17) epidemiologia delle malattie vascolari;  
+18) elementi di legislazione sanitaria comunitaria;  
+19) chirurgia vascolare applicata a malattie dei vari organi (II).  
+5° Anno:  
+20) elementi di bioingegneria applicati al circolo;  
+21) principi e tecnica di circolazione extracorporea;  
+22) terapia intensiva;  
+23) patologia e clinica vascolare pediatrica (II);  
+24) tecniche chirurgiche applicate alla patologia vascolare;  
+25) chirurgia vascolare applicata a malattie dei vari organi (III).  
+La frequenza alle lezioni ed alle esercitazioni pratiche nei reparti e' obbligatoria. Gli allievi i quali non conseguano le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Alla fine degli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in chirurgia vascolare gli interessati devono sostenere una prova clinica e superare l'esame di diploma consistente nella discussione di una tesi scritta sopra di un argomento attinente alla specializzazione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 settembre 1962
+### Dato a Roma, addi' 1 luglio 1981
 
-SEGNI GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 31 ottobre 1962
+Registrato alla Corte dei conti, addi' 23 novembre 1981
 
-Atti del Governo, registro n. 159, foglio n. 86 - VILLA
+Registro n. 114 Istruzione, foglio n. 215

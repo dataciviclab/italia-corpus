@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1980 n. 908
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 marzo 1985 n. 203
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1980 n. 908
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 marzo 1985 n. 203
+============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-908. Decreto del Presidente della Repubblica 30 ottobre 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di lire 10.000.000, disposto a favore del centro pilota "Pro juventute a beneficio dei mutilatini di don Gnocchi" che si identifica nella fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, dalla sig.ra Saltamerenda Jole in Sirtoli con testamento olografo 12 maggio 1972 pubblicato a rogito dott. Enrico Masini, notaio in Milano, in data 10 novembre 1978, n. 48578 di rep. e n. 13212 progress., registrato a Milano il 17 novembre 1978 al n. 19567, serie H.  
+203. Decreto del Presidente della Repubblica 26 marzo 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare un legato, consistente in appezzamenti di terreno siti nel comune di Sassoferrato, distinti nel nuovo catasto terreni alla partita 2715, del valore peritato di L. 21.000.000, ritenuto congruo dall'ufficio tecnico erariale di Pesaro, disposto dalla sig.na Orciari Wanda a favore della fondazione "Don Gnocchi", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi" come si evince dal verbale del consiglio di amministrazione della fondazione medesima del 20 novembre 1982, con testamento segreto 18 novembre 1972, pubblicato in data 4 maggio 1973, n. 405 di repertorio, a rogito dott. Virginio Reffi, notaio in S. Marino, ed ivi registrato in data 8 maggio 1973 al n. 1200.  
   
-Visto, il Guardasigilli: SARTI  
-Registrato alla Corte dei conti, addi' 20 dicembre 1980  
-Registro n. 9 Presidenza, foglio n. 188
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 14 maggio 1985  
+Registro n. 4 Presidenza, foglio n. 291

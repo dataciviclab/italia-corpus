@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 gennaio 1981 n. 20
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1985 n. 553
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 gennaio 1981 n. 20
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1985 n. 553
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-20. Decreto del Presidente della Repubblica 3 gennaio 1981, con il quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in beni mobili ed immobili per un valore complessivo netto di L. 73.928.110, disposta dalla sig.na Dorina Rolleri con testamento olografo 8 marzo 1976, pubblicato in data 17 settembre 1976, n. 25142 di repertorio, a rogito dott. Ferruccio Micheli, notaio in Fidenza (Parma), registrato a Fidenza in data 21 settembre 1976, n. 2586, vol. 157 AP.  
+553. Decreto del Presidente della Repubblica 18 luglio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in titoli azionari, depositi bancari ed altri beni mobili al netto delle passivita' di lire 30.800.000, disposta dalla sig.ra Ogliari Agostina con testamento olografo 7 marzo 1972, pubblicato in data 30 dicembre 1980, n. 20080 di repertorio e n. 4413 di raccolta, a rogito dott. Italo Tarsia, notaio in Milano, registrato a Milano il 14 gennaio 1981 al n. 320.   
   
-Visto, il Guardasigilli: SARTI  
-Registrato alla Corte dei conti, addi' 10 febbraio 1981  
-Registro n. 1 Presidenza, foglio n. 347
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 11 ottobre 1985   
+Registro n. 9 Presidenza, foglio n. 72

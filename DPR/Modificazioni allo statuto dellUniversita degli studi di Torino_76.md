@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1094
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 844
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1094
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 844
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -10,105 +10,75 @@ Modificazioni allo statuto dell'Universita' degli studi di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788) e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);.
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio universitario nazionale nei suoi pareri;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sulla proposta del Ministro per la pubblica istruzione;
 
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Decreta:
 
-Sulla
------
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente, modificato come appresso:
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Art. 12. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di "Analisi del linguaggio politico".
 
-Articolo unico
---------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
+Dato a Roma, addi' 4 agosto 1971
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: COLOMBO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 15 ottobre 1971 Atti del Governo, registro n. 244, foglio n. 152. - CARUSO
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Lo statuto dell'Universita' di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 236, 237, 238, 239, 240, 241, 242, 243 e 244, relativi alla scuola di specializzazione in cardioangiochirurgia, sono soppressi e sostituiti dai seguenti:  
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Scuola di specializzazione in cardioangiochirurgia  
+Decreta:  
   
-Art. 236. - La scuola di specializzazione in cardioangiochirurgia ha sede presso la cattedra di cardiochirurgia - centro Blalock - dell'Universita' di Torino e conferisce il diploma di specialista in cardioangiochirurgia.  
-Art. 237. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
-Art. 238. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione allo esercizio professionale rilasciato dall'autorita' competente.  
-Art. 239. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.  
-Art. 240. - Il numero massimo di allievi e' di due per anno di corso e complessivamente di dieci iscritti per l'intero corso di studi.  
-Art. 241. - L'ammissione e' subordinata all'esito di un concorso per titoli ed esami.  
-Art. 242. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) embriologia e teratologia;  
-2) anatomia descrittiva e topografica generale con particolare riguardo all'apparato cardiocircolatorio (biennale) I;  
-3) patologia chirurgica generale;  
-4) fisiologia dell'apparato cardiocircolatorio;  
-5) radiologia generale;  
-6) semeiotica clinica delle cardiopatie chirurgiche;  
-7) principi di informatica medica;  
-8) elementi di ingegneria medica.  
-2° Anno:  
-1) anatomia descrittiva e topografica generale con particolare riguardo all'apparato cardiocircolatorio (biennale) II;  
-2) clinica chirurgica generale;  
-3) anatomia ed istologia patologica con particolare riguardo all'apparato cardiocircolatorio (biennale) I;  
-4) cardioangioradiologia (biennale) I;  
-5) semeiotica strumentale delle cardiopatie chirurgiche;  
-6) elementi di anestesia e rianimazione;  
-7) fisiopatologia respiratoria;  
-8) fisiopatologia cardiocircolatoria (biennale) I;  
-9) patologia e clinica delle angiopatie chirurgiche.  
-3° Anno:  
-1) anatomia ed istologia patologica con particolare riguardo all'apparato cardiocircolatorio (biennale) II;  
-2) cardioangioradiologia (biennale) II;  
-3) semeiotica di laboratorio delle cardiopatie chirurgiche;  
-4) semeiotica angiologica;  
-5) cardiologia medica (biennale) I;  
-6) terapia chirurgica e tecnica operatoria delle malattie del cuore e dei grossi vasi (triennale) I;  
-7) principi e tecniche della circolazione extra-corporea;  
-8) fisiopatologia cardiocircolatoria (biennale) II;  
-9) patologia e clinica delle cardiopatie chirurgiche (biennale) I;  
-4° Anno:  
-1) cardiologia medica (biennale) II;  
-2) angiologia medica;  
-3) terapia chirurgica e tecnica operatoria delle malattie del cuore e dei grossi vasi (triennale) II;  
-4) terapia chirurgica e tecnica operatoria delle vasculopatie periferiche;  
-5) terapia intensiva (biennale) I;  
-6) patologia e clinica cardiologica pediatrica;  
-7) cardiochirurgia pediatrica (biennale) I;  
-8) patologia e clinica delle cardiopatie chirurgiche (biennale) II.  
-5° Anno:  
-1) terapia chirurgica e tecnica operatoria delle malattie del cuore e dei grossi vasi (triennale) III;  
-2) terapia intensiva (biennale) II;  
-3) cardioangiochirurgia pediatrica (biennale) II;  
-4) assistenza meccanica cardiocircolatoria.  
-Art. 243. - La frequenza alle lezioni ed alle esercitazioni e' obbligatoria.  
-Gli allievi che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le prove di esame.  
-Art. 244. - Alla fine di ogni corso gli iscritti devono sostenere i relativi esami, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo; per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.  
-Alla fine del quinto anno, dopo aver superato tutti gli esami, ha luogo l'esame di diploma consistente nella discussione di una dissertazione scritta su un argomento attinente alla specializzazione e la cui scelta sia stata concordata tra diplomando e direttore della scuola.  
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente, modificato come appresso:  
+Art. 12. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di "Analisi del linguaggio politico".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 4 agosto 1971
 
-PERTINI BODRATO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 10 marzo 1982
+Registrato alla Corte dei conti, addi' 15 ottobre 1971
 
-Registro n. 38 Istruzione, foglio n. 252
+Atti del Governo, registro n. 244, foglio n. 152. - CARUSO

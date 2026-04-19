@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 gennaio 1964 n. 287
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 novembre 1965 n. 1620
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 gennaio 1964 n. 287
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 novembre 1965 n. 1620
+================================================================
 
 Autorizzazione al Commissariato per la Gioventu' italiana, con sede in Roma, ad accettare una donazione.
 --------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-287. Decreto del Presidente della Repubblica 12 gennaio 1964, col quale, sulla proposta del Ministro per il tesoro, il Commissariato per la Gioventu' italiana, con sede in zona, via Armando-Diaz n. 20, viene autorizzato ad accettare dal rev. don Giuseppe Passarelli, la donazione di un appezzamento di terreno della superficie complessiva di 6080 mq., sito in Castellabate (Salerno), oggetto dei rogiti notarili Carmelo De Chiara n. 31788 del 19 dicembre 1961 e n. 35994 del 24 dicembre 1962.  
+1620. Decreto del Presidente della Repubblica 8 novembre 1965, col quale, sulla proposta del Ministro per il tesoro, il Commissariato per la Gioventu' italiana, con sede in Roma, via Armando Diaz n. 20, viene autorizzato ad accettare dal comune di Alberobello (Bari), la donazione di una superficie di terreno, sito in Alberobello, di circa ha. 1.50 indicata esattamente nel tipo di frazionamento in mq. 18.402, distinta in catasto al foglio n. 40, particella n. 96 parte, da riprodurre frazionata con il n. 96-a, per la costruzione di un Centro-vacanze per giovani.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 9 maggio 1964  
-Atti del Governo, registro n. 183, foglio n. 64. - VILLA
+Registrato alla Corte dai conti, addi' 28 gennaio 1966  
+Atti del Governo, registro n. 200, foglio n. 45. - VILLA

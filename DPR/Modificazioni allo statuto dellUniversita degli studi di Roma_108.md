@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1015
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1969 n. 856
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1015
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1969 n. 856
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -13,10 +13,9 @@ Art. 1
  IL PRESIDENTE DELLA REPUBBLICA  
   
 Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -25,40 +24,75 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 441, 442, 443 e 444 relativi alla Scuola di perfezionamento in medicina legale e delle assicurazioni, che muta denominazione in quella di Scuola di specializzazione in medicina legale e delle assicurazioni, e gli articoli 481, 482, 483 e 484 relativi alla scuola di perfezionamento in oncologia che assume la denominazione in scuola di specializzazione in oncologia, sono abrogati e sostituiti dai seguenti:  
   
-Art. 56. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:  
-Storia amministrativa romana;  
-Filologia medioevale ed umanistica;  
-Storia comparata delle lingue indo-iraniche;  
-Topografia e urbanistica del mondo classico;  
-Preistoria del vicino e medio oriente;  
-Etnografia preistorica dell'Africa.  
-Nello stesso elenco l'insegnamento complementare di "Disegno e rilievo dei monumenti" muta la denominazione in quella di "Rilievo e analisi tecnica dei monumenti antichi".  
-Art. 58. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne (indirizzo orientale) e' aggiunto il seguente:  
-Storia comparata delle lingue indo-iraniche.  
-Art. 66. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:  
-Antichita' ed istituzioni medioevali;  
-Archivistica;  
-Storia dell'Africa;  
-Storia e metodo della critica del testo.  
-Art. 68. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:  
-Letteratura brasiliana;  
-Lingue e letteratura nederlandese.  
-Nello stesso elenco l'insegnamento complementare di "Letteratura ibero-americana" muta la denominazione in quella di "Letteratura ispano-americana".  
-Art. 79. - All'elenco degli insegnamenti complementari del corso di laurea in sociologia sono aggiunti quelli di:  
-Sociologia urbana;  
-Sociologia della famiglia.  
+Scuola di specializzazione in medicina legale e delle assicurazioni  
+Art. 441. - Alla scuola potranno accedere i laureati in medicina e chirurgia, abilitati all'esercizio della professione.  
+La durata della scuola e' di tre anni; il numero degli iscritti per ogni anno non potra' essere superiore a dieci.  
+Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni e le esercitazioni, nonche' di prestare servizio di medico interno per almeno sei mesi per ciascun anno.  
+Art. 442. - Alla fine di ogni anno gli iscritti sosterranno gli esami di profitto sulle singole materie di insegnamento. Lo specializzando che non abbia superato tutti gli esami dell'anno frequentato non potra' essere iscritto all'anno successivo.  
+Art. 443. - L'esame di diploma consistera' in una dissertazione scritta su un argomento di medicina legale o di medicina delle assicurazioni.  
+I candidati non riconosciuti idonei all'esame di diploma si potranno ripresentare dopo un altro anno di frequenza alla scuola; se al secondo esame non sara' loro riconosciuta l'idoneita' verranno senz'altro esclusi da ulteriori prove.  
+Art. 444. - Le materie d'insegnamento sono le seguenti:  
+1° Anno:  
+Medicina legale generale;  
+Elementi di diritto pubblico e privato;  
+Tecnica e diagnostica anatomo-patologica generale e medico-legale;  
+Traumatologia medico-legale;  
+Semeiotica medico-legale.  
+2° Anno:  
+Medicina legale penalistica;  
+Deontologia medica;  
+Neuropsichiatria medico-legale;  
+Elementi di medicina criminologica e di medicina penitenziaria;  
+Indagini di sopralluogo;  
+Identificazione personale.  
+3° Anno:  
+Medicina legale civilistica e canonistica;  
+Tossicologia medico-legale;  
+Tecniche di laboratorio medico-legale ed ematologia forense;  
+Ostetricia e ginecologia forensi;  
+Elementi di legislazione del lavoro;  
+Elementi di medicina del lavoro;  
+Medicina delle assicurazioni;  
+Medicina legale militare e pensionistica civile.  
+  
+Scuola di specializzazione in oncologia  
+Art. 481. - La scuola di specializzazione in oncologia ha lo scopo ed il compito di formare la necessaria competenza scientifica e di completare la preparazione biologica e di patologia clinica di coloro che vogliono dedicarsi all'esercizio della medicina e chirurgia con speciale riguardo allo studio dei tumori, alla diagnostica precoce, al loro rilievo ed alla loro prevenzione.  
+La scuola e' diretta dal titolare della cattedra di anatomia ed istologia patologica o di patologia generale.  
+Alla scuola sono ammessi i laureati in medicina e chirurgia (con preferenza per gli specializzati in altre materie biologiche e cliniche), in numero di venti per ogni anno di corso, per un numero complessivo di sessanta specializzandi.  
+Qualora le domande di iscrizione fossero superiori al numero dei posti disponibili, la direzione della scuola si riserva di formare una graduatoria in base ai titoli presentati, o ad esami.  
+La frequenza al corso ed alle esercitazioni e' obbligatoria, con obbligo di internato semestrale nei vari istituti designati dal direttore della scuola.  
+Art. 482. - Le materie di insegnamento sono cosi' suddivise nei singoli corsi:  
+1° Anno:  
+Etiopatogenesi oncologica;  
+Biochimica oncologica;  
+Anatomia ed istologia patologica dei tumori.  
+2° Anno:  
+Oncologia sperimentale;  
+Epidemiologia e statistica dei tumori.  
+3° Anno:  
+Diagnosi citologica e citologia dei tumori;  
+Nozioni di diagnostica clinica e terapia dei tumori;  
+Clinica medica dei tumori;  
+Organizzazione della lotta contro i tumori;  
+Clinica ginecologica dei tumori.  
+Il corso ha la durata di tre anni e l'insegnamento avra' carattere dottrinale, dimostrativo e pratico.  
+La direzione della scuola ha la facolta' di invitare i cultori della materia e tenere conferenze su capitoli dell'oncologia.  
+Gli insegnamenti saranno completati con esercitazioni pratiche che si svolgeranno durante il corso nei vari Istituti.  
+Art. 483. - Alla fine di ogni corso, per essere ammessi al corso successivo, gli iscritti, ottenuta la firma di frequenza, dovranno sostenere un colloquio o un esame delle materie svolte.  
+Alla fine del terzo anno, gli iscritti, che avranno ottenuto la firma di frequenza, saranno ammessi alla prova finale, consistente in un esame teorico-pratico, che, superato, dara' diritto al candidato a discutere una dissertazione scritta su un argomento di oncologia generale o speciale.  
+L'esame o il colloquio, la prova pratica e teorica e la discussione della tesi di specializzazione saranno sostenuti davanti ad una commissione costituita dal direttore della scuola, da tre titolari delle materie di insegnamento del corso e da un libero docente di anatomia ed istologia patologica, o di patologia generale, quale segretario.  
+Art. 484. - Agli iscritti alla scuola che avranno superato le prove prescritte sara' rilasciato un diploma di specialista in oncologia, da esibirsi a tutti gli effetti legali.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di tarlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 15 ottobre 1969
 
-LEONE SCALFARO
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: GAVA Registrato alla Corte dei conti addi' 27 novembre 1965
 
-Registrato alla Corte dei conti, addi' 20 febbraio 1973
-
-Atti di Governo, registro n. 256, foglio n. 1. - VALENTINI
+Atti del Governo, registro n. 230, foglio n. 74. - GRECO

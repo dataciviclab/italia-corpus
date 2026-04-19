@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1984 n. 681
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 febbraio 1980 n. 1111
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1984 n. 681
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 febbraio 1980 n. 1111
+================================================================
 
 Assegnazione di un posto di tecnico laureato presso l'Universita' degli studi di Pavia.
 ---------------------------------------------------------------------------------------
@@ -10,10 +10,36 @@ Assegnazione di un posto di tecnico laureato presso l'Universita' degli studi di
 Art. 1
 ------
 
-N.
-
-681. Decreto del Presidente della Repubblica 9 aprile 1984, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di scienze. sanitarie applicate della facolta' di medicina e chirurgia dell'Universita' di Pavia.   
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 8 ottobre 1984   
-Registro n. 60 Istruzione, foglio n. 367
+Veduta la [legge 3 novembre 1961, n. 1255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-11-03;1255), ed in particolare l'art. 5;   
+Veduta la [legge 3 giugno 1970, n. 380](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-06-03;380);   
+Veduta la [legge 25 novembre 1971, n. 1042](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-11-25;1042);   
+Veduto il [decreto-legge 1 ottobre 1973, n. 580](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580), convertito con modificazioni in [legge 30 novembre 1973, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766), ed in particolare l'art. 8;   
+Veduta la [legge 25 ottobre 1977, n. 808](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-10-25;808), ed in particolare l'art. 9;   
+Considerato che il personale non docente universitario con incarico a tempo indeterminato, conferito ai sensi della suddetta [legge n. 1042/1971](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971;1042), il quale alla data di entrata in vigore della [legge n. 808/1977](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977;808) non aveva maturato il prescritto triennio di servizio a carico dei bilanci universitari, viene immesso in ruolo, con effetto dalla stessa data, nel ruolo organico corrispondente all'incarico ricoperto;   
+Considerato, altresi', che la predetta immissione in ruolo ha luogo mediante l'utilizzazione dei posti riservati al personale di cui trattasi ai sensi dell'art. 8 della citata [legge n. 766/1973](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973;766);   
+Tenuto conto che presso l'Universita' di Pavia presta servizio un tecnico laureato incaricato, avente diritto all'immissione in ruolo ai sensi di quanto previsto dall'art. 9, primo comma, della piu' volte citata [legge n. 808/1977](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977;808);   
+Ritenuta l'opportunita' di provvedere ad assegnare al suddetto Ateneo un posto di ruolo di tecnico laureato degli istituti scientifici universitari, riservato per l'immissione in ruolo di una unita' di personale incaricato a tempo indeterminato;   
+Sulla motivata proposta del Ministro della pubblica Istruzione;   
+  
+Decreta:   
+Il posto di tecnico laureato, indicato nelle premesse, e' assegnato come segue:   
+  
+UNIVERSITA' DI PAVIA   
+  
+Centro di calcoli numerici. . . . . . . . . . . . . . . . . posti 1   
+  
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Dato a Roma, addi' 27 febbraio 1980
+
+PERTINI VALITUTTI
+
+Visto, il Guardasigilli: MORLINO
+
+Registrato alla Corte dei conti, addi' 2 aprile 1981
+
+Registro n. 31 Istruzione, foglio n. 302

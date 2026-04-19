@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 399
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1970 n. 659
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 399
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1970 n. 659
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
@@ -10,71 +10,105 @@ Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con regio, decreto 14 ottobre 1926, n. 2406 e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 273 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunto il corso di perfezionamento in neonatologia.   
-Dopo l'art. 330, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione del corso di perfezionamento in neonatologia:   
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Corso di perfezionamento in neonatologia   
-Art. 331. - E' istituito presso la facolta' di medicina e chirurgia un corso di perfezionamento in neonatologia, il corso ha fini di aggiornamento sul piano teorico, ma soprattutto di perfezionamento clinico-pratico nell'ambito della neonatologia.   
-Art. 332. - La durata del corso e' annuale. Possono essere ammessi al corso gli aspiranti gia' in possesso di un titolo di specializzazione in pediatria (in clinica pediatrica e/o in puericultura), conseguito presso una scuola di specializzazione.   
-Il numero degli ammessi e' stabilito in otto sulla base di esami e titoli.   
-Art. 333. - La direzione del corso e' affidata al professore di ruolo o fuori ruolo della materia del corso di perfezionamento o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Il direttore del corso e' coadiuvato da un consiglio direttivo composto dai direttori della clinica ostetrica e ginecologica, della clinica pediatrica e della puericultura.   
-Art. 334. - Le materie di insegnamento sono le seguenti:   
-1) clinica della gravidanza, del parto normale e a rischio;   
-2) fisiopatologia e teratologia embrio-fetale;   
-3) genetica della patologia cromosomica e delle malattie metaboliche congenite;   
-4) fisiologia neonatale;   
-5) immunologia neonatale;   
-6) biochimica neonatale;   
-7) farmacologia neonatale;   
-8) patologia neonatale;   
-9) diagnostica radiologica neonatale;   
-10) tecniche di laboratorio riguardanti la fisiologia e patologia neonatale;   
-11) assistenza al neonato sano e malato;   
-12) clinica e terapia neonatale;   
-13) rianimazione e cure intensive neonatali;   
-14) affezioni chirurgiche del neonato;   
-15) anatomia e patologia del feto e del neonato;   
-16) evoluzioni ed esiti della patologia feto-neonatale.   
-Le materie fondamentali saranno integrate a giudizio del consiglio direttivo, da conferenze su argomenti specialistici pertinenti a problemi di neonatologia e di profilassi dalla patologia perinatale.   
-Gli insegnamenti verranno impartiti attraverso lezioni, seminari, discussioni cliniche.   
-Art. 335. - L'allievo dovra' ottemperare all'obbligo di effettuare esercitazioni pratiche nei reparti.   
-In tale periodo egli esplichera' attivita' in sala parto e nelle diverse sezioni e servizi interni di assistenza e cura del neonato.  
-In particolare presso la sezione neonatale universitaria, la clinica ostetrico-ginecologica, la clinica pediatrica.   
-Art. 336. - Alla fine del corso l'allievo sosterra' un esame globale di profitto, con prove teoriche e pratiche e svolgera' una dissertazione scritta su argomento di attualita' in campo neonatologico, con relativa discussione dinanzi ad una commissione formata dal direttore e dagli insegnanti del corso.   
-La sessione di esami sara' unica alla fine del corso.   
-All'allievo che avra' completato le prove con esito favorevole verra' rilasciato un diploma di perfezionamento in neonatologia. Il diploma non comporta il diritto alla qualifica di specialista.   
-Art. 337. - Le tasse e i contributi dovuti dall'allievo ammesso al corso sono i seguenti:   
-a) una tassa di immatricolazione, nella misura di L. 7.000;   
-b) una tassa annuale di iscrizione, nella misura di L. 30.000;   
-c) una soprattassa annuale di esami di profitto, nella misura di L. 7.000;   
-d) contributi clinici e di laboratorio, nella misura stabilita dal consiglio di amministrazione per le scuole di specializzazione della facolta' di medicina e chirurgia;   
-e) la tassa di diploma e' fissata in L. 6.000 a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).   
+Art. 242, relativo all'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Radiologia medica e radioterapia" muta denominazione in quella di "Radiologia".  
+L'art. 249, relativo alla scuola di specializzazione in radiologia medica e radioterapia e' abrogato e sostituito dal seguente:  
+  
+VII Scuola di specializzazione in radiologia  
+  
+Art. 249. - Presso l'istituto di radiologia e' istituita la scuola di specializzazione in radiologia che conferisce due diplomi:  
+a) diploma di specialista in radiologia che abilita all'esercizio specialistico della roentgendiagnostica, della radioterapia e della medicina nucleare.  
+Gli anni di studio necessari per conseguire questo titolo sono quattro.  
+b) diploma di specialista in radiologia diagnostica che abilita all'esercizio specialistico della roentgendiagnostica.  
+Gli anni di studio necessari per conseguire questo titolo sono tre.  
+Alla scuola possono essere iscritti solo i laureati in medicina e chirurgia. Il numero massimo degli iscritti e' stabilito in dieci per ciascun anno di corso.  
+  
+A) Diploma di specialista in radiologia: durata anni 4.  
+  
+PROGRAMMA DI INSEGNAMENTO  
+  
+1° Anno:  
+1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;  
+2) Nozioni sugli apparecchi ed istrumenti della radiologia;  
+3) Anatomia radiologica normale;  
+4) Fisiologia radiologica;  
+5) Tecnica radiologica generale;  
+6) Semeiotica radiologica generale;  
+7) Fondamenti di radiobiologia;  
+8) Nozioni di statistica e matematica.  
+2° Anno:  
+1) Tecnica e metodica dell'esame radiologico dei vari organi, apparati e sistemi;  
+2) Semeiotica radiologica speciale e diagnosi differenziale;  
+3) Fondamenti di radioterapia;  
+4) Danni da radiazioni e mezzi di protezione;  
+5) Dimostrazioni cliniche di diagnostica radiologica;  
+6) Dimostrazioni cliniche di radioterapia.  
+3° Anno:  
+1) Diagnostica radiologica differenziale;  
+2) Dimostrazioni di casistica di roentgendiagnostica con confronto del quadro anatomo-patologico;  
+3) Dimostrazioni di casistica di roentgenterapia con particolare riferimento all'anatomia patologica;  
+4) Radioterapia tradizionale. Curieterapia;  
+5) Radioterapia con alte energie;  
+6) Elementi di medicina nucleare;  
+7) Instrumentario, tecnica e metodica di applicazione;  
+8) Dosimetria.  
+4° Anno:  
+1) Moderne tecniche di esplorazione e terapia radiologica;  
+2) Diagnostica e terapia con isotopi radioattivi somministrati per via interna;  
+3) Radiodiagnostica e radioterapia clinica (casistica);  
+4) Medicina legale e legislazione sanitaria in relazione alla radiologia.  
+I corsi saranno integrati da conferenze, esercitazioni e seminari.  
+E' obbligatorio l'internato.  
+  
+B) Diploma di specializzazione in radiologia diagnostica: durata anni 3.  
+  
+PROGRAMMA DI INSEGNAMENTO  
+  
+1° Anno:  
+1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;  
+2) Nozioni sugli apparecchi ed istrumenti della radiologia;  
+3) Anatomia radiologica normale;  
+4) Fisiologia radiologica;  
+5) Tecnica radiologica generale;  
+6) Semeiotica radiologica generale;  
+7) Fondamenti di radiobiologia;  
+8) Nozioni di statistica e matematica.  
+2° Anno:  
+1) Metodica di esplorazione dei vari organi ed apparati;  
+2) Semeiotica radiologica speciale e diagnosi differenziale;  
+3) Nozioni generali sulle lesioni da radiazioni e mezzi di protezione;  
+4) Moderne tecniche di esplorazione radiologica.  
+3° Anno:  
+1) Esplorazione radiologica nella patologia dei vari organi ed apparati. Diagnostica differenziale. Rapporti con l'anatomia patologica;  
+2) Radiodiagnostica clinica;  
+3) Medicina legale e legislazione sanitaria in relazione alla radiologia.  
+I corsi saranno integrati da conferenze, esercitazioni e seminari.  
+E' obbligatorio l'internato.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 maggio 1979
+### Dato a Roma, addi' 14 luglio 1970
 
-PERTINI SPADOLINI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 28 luglio 1979
+Registrato alla Corte dei conti, addi' 7 settembre 1970
 
-Registro n. 60 Istruzione, foglio n. 187
+Atti del Governo, registro n. 237, foglio n. 78. - CARUSO

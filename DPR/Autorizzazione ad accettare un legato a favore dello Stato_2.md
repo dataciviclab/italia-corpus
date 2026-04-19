@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1986 n. 888
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1976 n. 963
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1986 n. 888
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1976 n. 963
+===============================================================
 
 Autorizzazione ad accettare un legato a favore dello Stato.
 -----------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-888. Decreto del Presidente della Repubblica 4 giugno 1986, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato del legato, consistente in una collezione composta di ventiquattro esemplari in maiolica e un bronzetto, i quali rivestono un interesse artistico e storico, da destinare al Museo nazionale del Bargello, in Firenze, disposto dalla sig.ra Buschka Diamondstein ved. Manenti con testamento olografo 3 settembre 1981, pubblicato in data 11 febbraio 1982, n. 2383 di repertorio, a rogito dott.ssa Lucia Niccolai, notaio in Firenze, registrato a Firenze in data 19 febbraio 1982 al n. 2109.   
+963. Decreto del Presidente della Repubblica 26 febbraio 1976, col quale, sulla proposta del Ministro per i beni culturali ed ambientali, viene autorizzata l'accettazione a favore dello Stato del legato disposto dal prof. Biagio Doria con testamento olografo 11 gennaio 1975, pubblicato con atto pubblico 15 gennaio 1975, n. 116203 di repertorio, a rogito dott. Gaetano Catalano, notaio in Napoli, consistente in una raccolta di disegni, stampe colorate e in bianco e nero, fotografie ed alcuni dipinti di soggetto popolare napoletano da destinare al museo nazionale di S. Martino in Napoli.  
   
-Visto, il Guardasigilli: ROGNONI   
-Registrato alla Corte dei conti, addi' 15 dicembre 1986   
-Registro n. 35 Beni culturali, foglio n. 36
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 18 gennaio 1977  
+Registro n. 1 Beni culturali, foglio n. 236

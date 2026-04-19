@@ -1,183 +1,97 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 890
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1105
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 890
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1105
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Veduto l'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali, a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Gli articoli 311, 312, 313, 314 e 315, relativi alla scuola di specializzazione in malattie infettive, sono sostituiti dai seguenti:  
+Veduto lo statuto dell'Universita' degli studi di Firenze approvato con [regio decreto 14 ottobre 1926, numero 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Scuola di specializzazione in malattie infettive  
+Decreta:  
   
-Art. 311. - La scuola di specializzazione in malattie infettive ha sede presso l'istituto di clinica pediatrica e conferisce il diploma di specialista in malattie infettive.  
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.  
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.  
-Il numero massimo degli allievi e' di otto per anno di corso e complessivamente di trentadue iscritti per l'intero corso di studi.  
-L'ammissione al corso avviene per titoli ed esami.  
-Art. 312. - Gli insegnamenti della scuola sono cosi' ripartiti in quattro anni di corso:  
-1° Anno:  
-1) epidemiologia generale delle malattie infettive;  
-2) batteriologia e micologia;  
-3) virologia;  
-4) parassitologia;  
-5) immunologia generale.  
-2° Anno:  
-1) tecniche batteriologiche e micologiche applicate  
-alle malattie infettive;  
-2) tecniche virologiche applicate alle malattie infettive;  
-3) tecniche parassitologiche applicate alle malattie infettive;  
-4) tecniche immunologiche applicate alle malattie infettive;  
-5) anatomia patologica;  
-6) genetica.  
-3° Anno:  
-1) clinica delle malattie infettive (primo anno);  
-2) diagnostica e semeiotica delle malattie infettive;  
-3) radiologia;  
-4) medicina preventiva delle malattie infettive.  
-4° Anno:  
-1) clinica delle malattie infettive (secondo anno);  
-2) malattie tropicali;  
-3) legislazione sanitaria delle malattie infettive;  
-4) farmacologia e terapia delle malattie infettive.  
-Art. 313. - Le lezioni saranno integrate da esercitazioni e dimostrazioni pratiche da eseguirsi nei reparti della divisione specialita' pediatriche, sezione malattie infettive, e nei laboratori della clinica pediatrica. La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.  
-Art. 314. - Al termine di ciascun corso annuale gli allievi sono tenuti a sostenere gli esami del rispettivo corso.  
-Art. 315. - Per il conseguimento del diploma in malattie infettive gli allievi dovranno discutere, di fronte ad apposita commissione, una tesi scritta su un argomento attinente la specialita'.  
-La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
-
-Art. 2
-------
-
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 68. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia, e' aggiunto quello di "Patologia ostetrica e ginecologica".  
+Dopo l'art. 274 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola diretta a fini speciali per terapisti della riabilitazione.  
   
-Dopo l'art. 319, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in farmacologia:  
+Scuola per terapisti della riabilitazione  
+(Scuola diretta a fini speciali)  
   
-Scuola di specializzazione in farmacologia  
-  
-Art. 320. - La scuola di specializzazione in "farmacologia" rilascia i seguenti diplomi:  
-a) specialista in farmacologia; indirizzo: farmacologia di base;  
-b) specialista in farmacologia; indirizzo: farmacologia clinica;  
-c) specialista in farmacologia; indirizzo: tossicologia.  
-Art. 321. - La scuola ha la durata di quattro anni: i primi due anni sono comuni, il secondo biennio e' diverso nei tre indirizzi previsti: di "farmacologia di base", di "farmacologia clinica", di "tossicologia".  
-Il numero massimo degli iscritti e' fissato a nove per ciascun anno di corso, da ripartire tra i tre indirizzi previsti. Al momento dell'iscrizione al terzo anno i candidati dovranno scegliere l'indirizzo che intendono seguire.  
-Non sono ammesse abbreviazioni di corso. Per l'iscrizione alla scuola e' necessaria la laurea in medicina e chirurgia ed avere superato l'esame di Stato in medicina. L'ammissione alla scuola e' fatta in base ai titoli e ad apposito esame.  
-Art. 322. - La facolta', considerato il numero degli iscritti e le possibilita' didattiche, puo' attivare anche un solo indirizzo della scuola.  
-Art. 323. - Le materie di insegnamento sono:  
-1° Anno:  
-1) chimica organica;  
-2) statistica medica;  
-3) farmacologia generale;  
-4) biologia e farmacologia cellulare;  
-5) immunologia;  
-6) biologia molecolare dei procarioti e dei virus;  
-7) saggi e dosaggi farmacologici;  
-8) inglese scientifico.  
-2° Anno:  
-1) basi di farmacocinetica;  
-2) farmacologia speciale;  
-3) chemioterapia antibatterica, antivirale, antineoplastica, antifungina, antiparassitaria;  
-4) principi di tossicologia, con elementi di tossicologia da ambiente di lavoro, da additivi;  
-5) tecniche chimico-fisiche, immunologiche, radioisotopiche;  
-6) inglese scientifico;  
-7) statistica e programmazione.  
-3° Anno:  
-A) Indirizzo "farmacologia di base":  
-1) farmacologia speciale;  
-2) farmacologia molecolare;  
-3) chemioterapia sperimentale;  
-4) immunofarmacologia;  
-5) tecniche ed analisi critica degli "screening" di farmaci "in vivo" e "in vitro";  
-6) biochimica, fisiologia e farmacologia comparata.  
-B) Indirizzo "farmacologia clinica":  
-1) organizzazione di un laboratorio di farmacologia clinica e sua funzione;  
-2) farmacologia clinica e tecniche di sperimentazione clinica;  
-3) farmacologia speciale in connessione con la patologia dei singoli organi ed apparati e con la pratica clinica I;  
-4) biodisponibilita' dei farmaci;  
-5) farmacocinetica e biochimica clinica.  
-C) Indirizzo "tossicologia":  
-1) tossicologia sperimentale;  
-2) cancerogenesi e teratogenesi;  
-3) tossicologia dell'ambiente e misure di prevenzione;  
-4) chimica tossicologica e tecniche di riconoscimento di sostanze tossiche;  
-5) anatomia e istopatologia degli stati tossici;  
-6) epidemiologia;  
-7) terapia e prevenzione degli stati tossici I.  
-4° Anno:  
-A) Indirizzo "farmacologia di base":  
-1) farmacologia speciale;  
-2) modelli sperimentali di malattie umane;  
-3) metodi di allevamento, incrocio e stabulazione degli animali da laboratorio;  
-4) principi di sperimentazione sull'uomo e farmacologia preclinica;  
-5) legislazione in campo di farmaci.  
-B) Indirizzo "farmacologia clinica":  
-1) farmacologia speciale in connessione con la patologia degli organi e con la pratica clinica II;  
-2) farmacologia in eta' prenatale, perinatale ed in geriatria;  
-3) chemioterapia clinica;  
-4) deontologia e legislazione in campo di farmacologia clinica.  
-C) Indirizzo "tossicologia":  
-1) tossicologia sistematica;  
-2) terapia e prevenzione degli stati tossici II;  
-3) tossicologia da abuso di farmaci;  
-4) tossicologia nutrizionale;  
-5) organizzazione di centri antiveleni ed antidroga;  
-6) legislazione concernente la tossicologia individuale e di ambiente.  
-Ciascun corso di lezioni sara' accompagnato da esercitazioni pratiche.  
-Gli insegnamenti verranno integrati da conferenze riguardanti specifici argomenti e problemi farmacoterapici e tossicologici di attualita'.  
-Art. 324. - Frequenza: l'insegnamento si svolge normalmente secondo il calendario universitario durante il periodo delle lezioni. La durata del corso si prolunga tuttavia per tutto l'anno solare, senza interruzioni, per la pratica di laboratorio e clinica, che si esplica attraverso la frequenza obbligatoria ai fini dell'apprendimento.  
-La frequenza ai corsi e' obbligatoria.  
-L'indirizzo di farmacologia clinica e di tossicologia prevede la frequenza obbligatoria di almeno un anno in una clinica specializzata.  
-Per essere ammesso all'anno successivo il candidato, al termine di ogni anno, dovra' superare un esame di profitto comprensivo delle materie di insegnamento dell'anno frequentato.  
-Superati gli esami di profitto prescritti per il quarto anno, il candidato viene ammesso all'esame per il diploma di specializzazione che consiste nella discussione orale di una dissertazione scritta su di un tema originale approvato dal direttore della scuola.  
-Art. 325. - Il direttore puo' durare in carica quattro anni e puo' essere rieletto. Il direttore nomina un vice direttore responsabile dell'attivita' didattica e scientifica per ogni indirizzo attivato.  
-Art. 326. - Sede ed organizzazione della scuola: le lezioni teoriche e le esercitazioni di laboratorio avranno luogo nei locali messi a disposizione dell'istituto di farmacologia.  
-La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
-Art. 327. - Per quanto non regolato dagli articoli di cui sopra, si fa riferimento alle norme generali dello statuto dell'Universita' di Firenze.  
+Art. 275. - La scuola speciale per terapisti della riabilitazione ha sede presso l'istituto di gerontologia.  
+Essa ha lo scopo di dare una preparazione completa, teorica e pratica, agli allievi istruendoli sui problemi della riabilitazione dei minorati fisici suscettibili di recupero funzionale e sociale mediante terapie fisiche, chinesiterapiche, occupazionali e del linguaggio.  
+Art. 276. - La durata del corso degli studi per il conseguimento del diploma di terapista della riabilitazione e' di tre anni accademici; i primi due consistenti in lezioni teoriche, in dimostrazioni o in esercitazioni su materie propedeutiche e tecniche presso l'istituto di gerontologia. Il terzo di tirocinio pratico presso il servizio di riabilitazione e di fisiochinesiterapia dello istituto di gerontologia, della clinica ortopedica, della clinica delle malattie nervose e mentali, della clinica pediatrica, del reparto di chirurgia toracica dell'arcispedale di Santa Maria Nuova e del centro di rieducazione motoria "A. Torrigiani" della C.R.I. di Firenze.  
+Gli allievi hanno l'obbligo della frequenza.  
+Art. 277. - Possono essere ammessi alla scuola gli allievi di ambo i sessi di eta' non inferiore ai 17 anni in possesso del titolo di studio prescritto per l'ammissione alle universita' (preferibilmente del diploma di maturita' classica, del diploma di maturita' scientifica, del diploma di abilitazione magistrale).  
+Art. 278. - Il numero massimo dei posti disponibili annualmente e' stabilito nella misura di 30. Chi aspira ad ottenere l'iscrizione al primo anno della scuola dovra' sostenere un esame di ammissione consistente in una prova orale di cultura generale e in una intervista attitudinale.  
+Gli allievi dell'I.S.E.F. possono essere ammessi al secondo anno, a giudizio del direttore della scuola, dopo aver sostenuto un esame di ammissione.  
+Art. 279. - Il direttore della scuola e' il titolare dell'istituto di gerontologia dell'universita'. Fanno parte del Corpo insegnante i titolari delle cattedre di anatomia, di fisiologia, di patologia generale, di igiene, della clinica, neuropsichiatrica, della clinica ortopedica, il direttore del centro di rieducazione motoria "A.  
+Torrigiani" della C.R.I. di Firenze. Inoltre possono essere chiamati a far parte del corpo insegnante quelle persone che il direttore della scuola potra' ritenere necessarie, sentito il parere della facolta'.  
+Art. 280. - Per essere ammessi al secondo anno occorre aver superato almeno due terzi degli esami del primo anno.  
+Art. 281. - Le materie di insegnamento del 1° anno sono:  
+1) Nozioni generali di anatomia e fisiologia umana;  
+2) Elementi di patologia generale e medica;  
+3) Principi di fisica; terapia fisica;  
+4) Igiene e tecnica ospedaliera e infermieristica;  
+5) Principi e tecniche di riabilitazione (fisiochinesiterapia, ergoterapia, logoterapia);  
+6) Psicologia;  
+7) Medicina sociale e geriatria.  
+Le materie di insegnamento del 2° anno sono:  
+1) Fisiopatologia e riabilitazione delle malattie del sistema neuromotorio;  
+2) Fisiopatologia e riabilitazione delle malattie degli organi della parola e dell'udito;  
+3) Fisiopatologia e riabilitazione delle malattie dell'apparato locomotore;  
+4) Fisiopatologia e riabilitazione delle malattie degli apparati cardiovascolare e respiratorio;  
+5) La riabilitazione in pediatria;  
+6) La riabilitazione in geriatria;  
+7) Psichiatria;  
+8) Ergoterapia.  
+Il programma di insegnamento al 1° ed al 2° anno comprende 4 ore di lezioni teoriche al giorno e tre ore di esercitazione pratica.  
+Gli allievi frequenteranno per due mesi i diversi reparti ospedalieri con funzioni di allievi infermieri; negli altri mesi frequenteranno i vari reparti di riabilitazione come allievi fisioterapisti.  
+Il 3° anno comprende un tirocinio pratico presso i servizi di riabilitazione degli istituti della citta', con vario indirizzo a seconda della specializzazione preferita in senso fisio-ergo-logoterapico;  
+1) ospedali geriatrici di riattivazione (3 mesi);  
+2) centro di rieducazione motoria C.R.I. "A Torrigiani" pediatrico (2 mesi);  
+3) clinica neuropsichiatrica (2 mesi);  
+4) clinica ortopedica (2 mesi);  
+5) reparto chirurgia toracica (1 mese);  
+6) altri centri di reumatologia, idrologia, ostetricia (un mese).  
+Il 3° anno si conclude con un esame scritto e dimostrazione pratica con discussione sui trattamenti riabilitativi di alcuni casi clinici.  
+I corsi regolari sono integrati da conferenze di esperti, da proiezione di films e da visite ad altri istituti, esercitazioni e discussioni di casi clinici.  
+Art. 282. - Per essere ammessi a sostenere l'esame di diploma gli allievi dovranno aver seguito i corsi, superati gli esami scritti ed orali in tutti gli insegnamenti prescritti, ed aver compiuto con esito favorevole le esercitazioni previste e l'anno di tirocinio.  
+L'esame per il conseguimento del diploma di terapista della riabilitazione consiste nella discussione di una tesi scritta su un tema preventivamente assegnato dal direttore della scuola.  
+Art. 283. - Per ottenere l'ammissione alla scuola si deve presentare all'ufficio di segreteria dell'universita' entro il 5 novembre la domanda redatta in carta da bollo da L. 400 diretta al rettore (indicare il recapito del richiedente) e previo pagamento di una multa per ritardata presentazione per gravi e giustificati motivi fino al 30 novembre.  
+Art. 284. - I candidati ammessi alla scuola dovranno entro il termine che verra' a suo tempo comunicato presentare:  
+a) titolo originale di studio;  
+b) due copie (formato tessera su fondo chiaro e firmate) della fotografia del richiedente di cui una bollata e autenticata;  
+c) quietanza comprovante il pagamento alla tesoreria universitaria delle tasse, soprattasse e contributi prescritti (immatricolazione 5000, tassa annuale di iscrizione 10.000, soprattassa annuale di esami 7000, contributi generali 950, contributo di riscaldamento 2000, libretto di riconoscimento 500, indennita' di schedatura 1000, contributo di reparto 80.000 annuali).  
+Il pagamento della tassa di iscrizione e della soprattassa potra' essere ripartito in due rate uguali.  
+Art. 285. - Per ottenere il rilascio del diploma, gli interessati dovranno presentare:  
+a) domanda diretta al rettore in carta bollata;  
+b) quietanza comprovante il pagamento di L. 88 per indennita' diploma, bollo, ecc., effettuato mediante apposito bollettino mod. 0;  
+c) quietanza comprovante il pagamento della tassa erariale di diploma di L. 6000 da effettuare al procuratore IGE.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 31 ottobre 1969
 
-PERTINI BODRATO
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 20 gennaio 1982
+Registrato alla Corte dei conti, addi' 23 gennaio 1970
 
-Registro n. 6 Istruzione, foglio n. 95
+Atti del Governo, registro n. 231, foglio n. 56. - CARUSO

@@ -1,11 +1,89 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1973 n. 778
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1967 n. 1053
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1973 n. 778
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1967 n. 1053
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 18. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio e' aggiunto quello di "organizzazione aziendale". Nello stesso corso di laurea insegnamento di "economia e finanza delle imprese di assicurazione" e' soppresso.
+
+Art. 20. - All'elenco degli istituti annessi alla facolta' di economia e commercio sono aggiunti quelli di:
+
+"Istituto di diritto del lavoro";
+
+"Istituto di geografia economica".
+
+Nello stesso elenco gli istituti di matematica per la ricerca operativa, che e' diretto dal professore ufficiale dell'insegnamento di matematica generale e "istituto di finanza" mutano denominazione in quelli di "istituto di matematica per la ricerca operativa" e "istituto di scienze finanziarie".
+
+Art. 32. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di:
+
+anestesiologia;
+
+audiologia;
+
+chemioterapia;
+
+gerontologia e geriatria;
+
+immunologia;
+
+neuro-chirurgia;
+
+patologia ostetrica e ginecologica;
+
+tecnica e diagnostica istopatologica;
+
+virologia.
+
+Art. 37. - All'elenco degli istituti annessi alla facolta' di medicina e chirurgia e' aggiunto quello di:
+
+"istituto di istologia ed embriologia generale".
+
+Art. 44, relativo agli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali, e' modificato nel senso che l'istituto di antropologia e' soppresso ed in sua sostituzione e' istituito l'istituto di genetica.
+
+Art. 74. - All'elenco degli insegnamenti complementari del corso di laurea in architettura e' aggiunto quello di: "sociologia".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 14 agosto 1967
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 15 novembre 1967 Atti del Governo, registro n. 214, foglio n. 146. - GRECO
 
 Art. 1
 ------
@@ -17,7 +95,7 @@ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regi
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -25,22 +103,36 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 48 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
-  
-Traumatologia della strada;  
-Patologia neonatale;  
-Fisiopatologia cardio-vascolare.  
+Art. 18. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio e' aggiunto quello di "organizzazione aziendale". Nello stesso corso di laurea insegnamento di "economia e finanza delle imprese di assicurazione" e' soppresso.  
+Art. 20. - All'elenco degli istituti annessi alla facolta' di economia e commercio sono aggiunti quelli di:  
+"Istituto di diritto del lavoro";  
+"Istituto di geografia economica".  
+Nello stesso elenco gli istituti di matematica per la ricerca operativa, che e' diretto dal professore ufficiale dell'insegnamento di matematica generale e "istituto di finanza" mutano denominazione in quelli di "istituto di matematica per la ricerca operativa" e "istituto di scienze finanziarie".  
+Art. 32. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di:  
+anestesiologia;  
+audiologia;  
+chemioterapia;  
+gerontologia e geriatria;  
+immunologia;  
+neuro-chirurgia;  
+patologia ostetrica e ginecologica;  
+tecnica e diagnostica istopatologica;  
+virologia.  
+Art. 37. - All'elenco degli istituti annessi alla facolta' di medicina e chirurgia e' aggiunto quello di:  
+"istituto di istologia ed embriologia generale".  
+Art. 44, relativo agli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali, e' modificato nel senso che l'istituto di antropologia e' soppresso ed in sua sostituzione e' istituito l'istituto di genetica.  
+Art. 74. - All'elenco degli insegnamenti complementari del corso di laurea in architettura e' aggiunto quello di: "sociologia".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 settembre 1973
+### Dato a Roma, addi' 14 agosto 1967
 
-LEONE MALFATTI
+SARAGAT GUI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 30 novembre 1973
+Registrato alla Corte dei conti, addi' 15 novembre 1967
 
-Atti di Governo, registro n. 262, foglio n. 69. - CARUSO
+Atti del Governo, registro n. 214, foglio n. 146. - GRECO

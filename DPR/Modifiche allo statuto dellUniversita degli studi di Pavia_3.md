@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 settembre 1961 n. 1159
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1961 n. 1226
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 settembre 1961 n. 1159
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1961 n. 1226
+===============================================================
 
 Modifiche allo statuto dell'Universita' degli studi di Pavia.
 -------------------------------------------------------------
@@ -12,62 +12,46 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, numero 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), modificato con regio decreto 13 ottobre - 1927, n. 2929; e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1502);  
-Veduto il regio, decreto 30 settembre 1933, n. 1652, e successive modificazioni;  
-Veduto il [decreto del Presidente della Repubblica 31 gennaio 1960;  
-n. 593](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;593);  
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, numero 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del consiglio superiore della pubblica istruzione;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-L'art. 49, relativo al biennio propedeutico per la laurea in Ingegneria, e' abrogato e sostituito dal seguente:  
-  
-Art. 49. a) Titolo di ammissione al biennio propedeutico per le lauree in Ingegneria e' il diploma di maturita' classica o scientifica;  
-b) sono insegnamenti fondamentali del biennio:  
-1° anno:  
-1) Analisi matematica I;  
-2) Geometria I;  
-3) Fisica I;  
-4) Chimica;  
-5) Disegno.  
-2° anno:  
-1) Analisi matematica II;  
-2) Geometria II;  
-3) Meccanica razionale;  
-4) Fisica II;  
-c) per gli studenti che dichiarano di voler proseguire gli studi presso una Facolta' di ingegneria e in un corso di laurea dove l'insegnamento di Geometria II non sia previsto come fondamentale del II anno detto insegnamento e' sostituito con quello di Disegno II (differenziato secondo i corsi di laurea);  
-d) a seconda del corso di laurea che intende seguire lo studente e' autorizzato ad aggiungere agli insegnamenti del secondo anno del biennio i seguenti:  
-Per il corso in Ingegneria civile Litologia e geologia:  
-Tecnologie dei materiali e chimica applicata.  
-Per i corsi in Ingegneria elettrotecnica, navale e meccanica aeronautica, elettronica nucleare;  
-Tecnologie generali dei materiali e tecnologia meccanica;  
-Chimica applicata.  
-Per il corso in Ingegneria chimica:  
-Chimica organica;  
-Chimica analitica.  
-Per il corso in Ingegneria mineraria:  
-Disegno II;  
-Mineralogia;  
-e) i due esami di fisica comprendono la parte riguardante le relative esercitazioni;  
-f) per essere ammesso al II anno lo studente deve aver superato almeno due dei quattro esami: Analisi matematica I, Geometria I, Fisica I, Chimica.  
-g) per aver titolo di ammissione al terzo anno di corso lo studente dovra' aver superato gli esami in tutte le discipline del biennio propedeutico di cui al comma B), tenuta presente l'eventuale sostituzione di cui al comma c).  
+Art. 42. - Agli insegnamenti complementari del triennio di applicazione del corso di laurea in Chimica, sia per l'indirizzo organico biologico che per l'indirizzo inorganico-chimico-fisico, sono aggiunti i seguenti:  
+Chimica teorica;  
+Radiochimica;  
+Chimica nucleare con esercitazioni;  
+Chimica macromolecolare;  
+Spettroscopia (corso speciale per chimici).  
+Art. 46. - Agli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti i seguenti:  
+Ecologia ed etologia animale;  
+Fisiologia comparata;  
+Embriologia e morfologia causale.  
+Art. 47. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti i seguenti:  
+Ecologia ed etologia animale;  
+Fisiologia comparata;  
+Embriologia e morfologia causale.  
+Art. 48. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche e' aggiunto quello di Analisi mineralogica.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara', inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 settembre 1961
+### Dato a Roma, addi' 17 ottobre 1961
 
 GRONCHI BOSCO
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 8 novembre 1961
+Registrato alla Corte dei conti, addi' 30 novembre 1961
 
-Atti del Governo, registro n. 141, foglio n. 80. - VILLA
+Atti del Governo, registro n. 142, foglio n. 61. - VILLA

@@ -1,189 +1,72 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1966 n. 1068
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1190
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1966 n. 1068
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1190
 ===============================================================
 
 Modificazioni allo statuto della libera Universita' degli studi dell'Aquila.
 ----------------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto della libera Universita' degli studi dell'Aquila, approvato con [decreto del Presidente della Repubblica 18 agosto 1964, n. 921](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1964-08-18;921) e modificato con [decreto del Presidente della Repubblica 30 ottobre 1965, n. 1516](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-10-30;1516);
-
-Veduto il testo unico delle leggi sull'istruzione superiore approvato, con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto della libera Universita' degli studi dell'Aquila, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come segue:
-
-L'art. 4 e' abrogato e sostituito dal seguente:
-
-"Il rettore e' eletto a maggioranza di voti dal Corpo accademico tra i professori di ruolo o fuori ruolo, ovvero tra i professori in quiescenza, che abbiano diretto quali commissari l'Istituto universitario pareggiato o quali rettori, dell'Universita' degli studi complessivamente per almeno dieci anni. Egli e' nominato dal Ministro per la pubblica istruzione.
-
-Il rettore dura in carica un triennio e puo' essere rieletto.
-
-Il rettore:
-
-1) rappresenta l'Universita';
-
-2) ha l'alta vigilanza sulla biblioteca e sugli stabilimenti dell'Universita';
-
-3) esercita l'autorita' disciplinare sul personale di ogni categoria addetto all'Universita';
-
-4) provvede all'esecuzione delle deliberazioni del Senato accademico e del Consiglio di amministrazione;
-
-5) cura l'osservanza di tutte le norme concernenti l'ordinamento universitario e da' esecuzione ai provvedimenti presi dal Ministro;
-
-6) esercita tutte le altre attribuzioni che gli sono demandate dalle norme generali e speciali concernenti l'ordinamento universitario.
-
-In caso di assenza o di impedimento il rettore puo' delegare a sostituirlo uno dei professori di ruolo dell'Universita'.
-
-Il rettore puo' delegare inoltre uno dei professori di ruolo ad esercitare particolari funzioni indicandole esplicitamente nella delega.
-
-Al rettore spetta un'indennita' di carica, non computabile ai fini del trattamento di quiescenza, nella misura stabilita dal Consiglio di amministrazione e nei limiti delle norme vigenti sull'indennita' di carica spettante ai rettori delle Universita' statali".
-
-Art. 17. - Agli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti quelli di:
-
-Paleografia latina e diplomatica;
-
-Psicologia;
-
-Psicologia sociale;
-
-Sociologia;
-
-Storia della filosofia moderna e contemporanea;
-
-Storia della musica;
-
-Storia delle tradizioni popolari;
-
-Storia del teatro.
-
-L'insegnamento complementare di "Storia delle Istituzioni e delle dottrine politiche" e' soppresso e sostituito da quello di "Storia delle dottrine politiche".
-
-Art. 24. - Agli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di:
-
-Estetica;
-
-Psicologia dell'eta' evolutiva;
-
-Sociologia;
-
-Storia della filosofia moderna e contemporanea.
-
-L'insegnamento complementare di "Lingua e civilta' greca" e' soppresso.
-
-Art. 30. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere sono aggiunti quelli di:
-
-Grammatica latina;
-
-Letteratura anglo-americana;
-
-Storia della filosofia moderna e contemporanea;
-
-Storia della letteratura italiana moderna e contemporanea;
-
-Storia delle tradizioni popolari;
-
-Storia del teatro.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e del decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 24 ottobre 1966
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 6 dicembre 1966 Atti del Governo, registro n. 207, foglio n. 105. - VILLA
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto della libera Universita' degli studi dell'Aquila, approvato con [decreto del Presidente della Repubblica 18 agosto 1964, n. 921](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1964-08-18;921) e modificato con [decreto del Presidente della Repubblica 30 ottobre 1965, n. 1516](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-10-30;1516);  
-Veduto il testo unico delle leggi sull'istruzione superiore approvato, con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto della libera Universita' degli studi dell'Aquila, approvato con [decreto del Presidente della Repubblica 23 gennaio 1963, n. 393](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1963-01-23;393) e modificato con [decreto del Presidente della Repubblica 6 febbraio 1964, n. 96](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1964-02-06;96), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto della libera Universita' degli studi dell'Aquila, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come segue:  
-L'art. 4 e' abrogato e sostituito dal seguente:  
-"Il rettore e' eletto a maggioranza di voti dal Corpo accademico tra i professori di ruolo o fuori ruolo, ovvero tra i professori in quiescenza, che abbiano diretto quali commissari l'Istituto universitario pareggiato o quali rettori, dell'Universita' degli studi complessivamente per almeno dieci anni. Egli e' nominato dal Ministro per la pubblica istruzione.  
-Il rettore dura in carica un triennio e puo' essere rieletto.  
-Il rettore:  
-1) rappresenta l'Universita';  
-2) ha l'alta vigilanza sulla biblioteca e sugli stabilimenti dell'Universita';  
-3) esercita l'autorita' disciplinare sul personale di ogni categoria addetto all'Universita';  
-4) provvede all'esecuzione delle deliberazioni del Senato accademico e del Consiglio di amministrazione;  
-5) cura l'osservanza di tutte le norme concernenti l'ordinamento universitario e da' esecuzione ai provvedimenti presi dal Ministro;  
-6) esercita tutte le altre attribuzioni che gli sono demandate dalle norme generali e speciali concernenti l'ordinamento universitario.  
-In caso di assenza o di impedimento il rettore puo' delegare a sostituirlo uno dei professori di ruolo dell'Universita'.  
-Il rettore puo' delegare inoltre uno dei professori di ruolo ad esercitare particolari funzioni indicandole esplicitamente nella delega.  
-Al rettore spetta un'indennita' di carica, non computabile ai fini del trattamento di quiescenza, nella misura stabilita dal Consiglio di amministrazione e nei limiti delle norme vigenti sull'indennita' di carica spettante ai rettori delle Universita' statali".  
-Art. 17. - Agli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti quelli di:  
-Paleografia latina e diplomatica;  
-Psicologia;  
-Psicologia sociale;  
-Sociologia;  
-Storia della filosofia moderna e contemporanea;  
-Storia della musica;  
-Storia delle tradizioni popolari;  
-Storia del teatro.  
-L'insegnamento complementare di "Storia delle Istituzioni e delle dottrine politiche" e' soppresso e sostituito da quello di "Storia delle dottrine politiche".  
-Art. 24. - Agli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di:  
-Estetica;  
-Psicologia dell'eta' evolutiva;  
-Sociologia;  
-Storia della filosofia moderna e contemporanea.  
-L'insegnamento complementare di "Lingua e civilta' greca" e' soppresso.  
-Art. 30. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere sono aggiunti quelli di:  
-Grammatica latina;  
-Letteratura anglo-americana;  
-Storia della filosofia moderna e contemporanea;  
-Storia della letteratura italiana moderna e contemporanea;  
-Storia delle tradizioni popolari;  
-Storia del teatro.  
+Lo statuto della libera Universita' degli studi dell'Aquila, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+L'art. 62, relativo alla distinzione degli indirizzi del corso di laurea in matematica, e' abrogato e sostituito dal seguente:   
+Art. 62. - Il corso degli studi si distingue in tre indirizzi: generale, didattico, applicativo.   
+Sono insegnamenti fondamentali comuni ai tre indirizzi:   
+  
+1° Anno:   
+Analisi matematica I;   
+Geometria I;   
+Algebra;   
+Fisica generale I.   
+  
+2° Anno:   
+Analisi matematica II;   
+Meccanica razionale;   
+Geometria II;   
+Fisica generale II.   
+Ciascuno degli insegnamenti fondamentali suddetti sara' accompagnato da un corso di esercitazioni, che ne e' parte integrante. Per ciascuno degli insegnamenti sopra indicati dovra' essere sostenuto un esame annuale distinto per ciascun anno di corso.   
+All'atto dell'iscrizione al 3° anno lo studente deve precisare l'indirizzo che sceglie.   
+Art. 64 - il primo comma relativo al corso di laurea in matematica viene modificato nel senso che il numero degli indirizzi viene elevato a tre.   
+L'art. 65, relativo agli insegnamenti del secondo biennio del corso di laurea in matematica, viene modificato nel senso che il secondo, il terzo e il quarto comma vengono abrogati e sostituiti dai seguenti:   
+Due di tali insegnamenti sono obbligatori e sono i seguenti:   
+a) per l'indirizzo generale:   
+nel terzo anno: topologia algebrica;   
+nel quarto anno: analisi superiore;   
+b) per l'indirizzo didattico:   
+nel terzo anno: matematica complementare I;   
+nel quarto anno: matematica complementare II;   
+c) per l'indirizzo applicativo:   
+nel terzo anno: analisi numerica;   
+nel quarto anno: calcolo delle probabilita'.   
+Gli insegnamenti suddetti saranno accompagnati da un corso di esercitazioni.   
+Gli altri due insegnamenti sono complementari a scelta dello studente.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e del decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 ottobre 1966
+### Dato a Roma, addi' 31 ottobre 1973
 
-SARAGAT GUI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 6 dicembre 1966
+Registrato alla Corte dei conti, addi' 19 novembre 1974
 
-Atti del Governo, registro n. 207, foglio n. 105. - VILLA
+Atti di Governo, registro n. 6, foglio n. 130. - SCIARRETTA

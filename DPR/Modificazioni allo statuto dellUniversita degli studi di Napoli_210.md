@@ -1,66 +1,149 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1954 n. 865
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 924
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1954 n. 865
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 924
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090), modificato con [regio decreto 13 ottobre 1927, n. 2281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2281), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Vista la necessita' di discostarsi dal parere stesso per la parte relativa al comitato scientifico non previsto dalle norme vigenti;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1169), modificato con [regi decreti 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;1904); [4 maggio 1942, n. 557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-05-04;557); [5 settembre 1942, n. 1120 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-09-05;1120) [26 febbraio 1949, n. 612](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;612); [23 settembre 1949, n. 931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;931); [30 ottobre 1950, numero 1277](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1277); [31 ottobre 1950, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1311); [18 aprile 1951, n. 934](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;934); [30 luglio 1951, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-07-30;1304); [27 ottobre 1951, n. 1680](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1680); 19 settembre 1352, n. 4551 e 25 agosto 1953, n. 1117;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Gli articoli da 338 a 347, relativi alla scuola di perfezionamento in diritto civile, afferente alla facolta' di giurisprudenza, che muta la denominazione in scuola di specializzazione in diritto civile, sono abrogati e sostituiti dai seguenti con lo spostamento della numerazione successiva:  
   
-Decreta:  
+Scuola di specializzazione in diritto civile  
   
-Lo statuto dell'Universita' degli studi di Napoli approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli attuali articoli dal n. 252 al n. 254 relativi alla scuola di perfezionamento in dermatologia e stilografia sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di perfezionamento in dermatologia e sifilografia  
-  
-Art. 252. - La scuola ha la durata di due anni.  
-Il numero dei posti messi a concorso e' limitato a otto per ogni anno accademico.  
-Le materie d'insegnamento sono:  
-1° anno:  
-1) Anatomia e fisiologia della pelle;  
-2) Patologia generale dermatologica e venereologica;  
-3) Sierologia, biochimica;  
-4) Batteriologia e micrologia;  
-5) Clinica delle malattie cutanee;  
-6) Clinica delle malattie veneree;  
-7) Terapia fisica.  
-2° anno:  
-1) Clinica delle malattie cutanee;  
-2) Clinica delle malattie veneree;  
-3) Terapia medicamentosa;  
-4) Terapia fisica;  
-5) Cosmetologia e chirurgia riparatrice;  
-6) Igiene della cute e profilassi delle malattie cutanee con particolare riguardo alle dermatosi professionali.  
-Art. 253. - Gli esami di profitto sono dati in due gruppi e in due sessioni distinte, uno alla fine del primo e uno alla fine del secondo anno.  
-Gli esami di profitto del primo gruppo comprendono anatomia e fisiologia della pelle; patologia generale dermatologica e venereologica, sierologia, batteriologia e micrologia; oltre ad un colloquio su argomento di clinica dermosifilopatica e un esame clinico di un dermopaziente.  
-Gli esami di profitto del secondo gruppo comprendono: clinica delle malattie cutanee; clinica delle malattie veneree; terapia fisica; terapia medicamentosa; cosmetologia e chirurgia riparatrice; igiene della cute e profilassi delle malattie cutanee con particolare riguardo alle dermatosi professionali; un esame clinico di due pazienti di spettanza dermatologica e venereologica.  
-Art. 254. - L'esame di diploma consistera' nella esposizione e discussione di un argomento della disciplina su tema dato al candidato 24 ore prima della prova.  
+Art. 338. - e' istituita presso l'Universita' di Napoli la scuola di specializzazione in diritto civile che conferisce il diploma di specialista in diritto civile.  
+Art. 339. - La direzione della scuola ha sede presso la sede della scuola, nella facolta' di giurisprudenza.  
+Art. 340. - La scuola ha lo scopo di formare specialisti in "diritto civile", con particolare riguardo alle professioni forensi e notarili nonche' alle funzioni giudiziarie, al fine comunque di promuovere ed elevare la professionalita' degli specializzandi. In connessione con l'attivita' degli specializzandi, promuove ricerche scientifiche sugli istituti del diritto civile, organizzazione di convegni di studio, seminari, conferenze, discussioni e cura pubblicazioni. Per il conseguimento di tali fini possono essere stipulate convenzioni con scuole, centri, istituti, dipartimenti, enti privati o pubblici, anche stranieri.  
+Art. 341. - La durata del corso e' di tre anni e non e' suscettibile di abbreviazioni.  
+Art. 342. - Il numero massimo degli iscritti e' di cento per ogni anno e di trecento per l'intero corso di studi.  
+Art. 343. - Alla scuola sono ammessi solo i laureati in giurisprudenza, in economia e commercio, in scienze politiche, in economia marittima e in scienze economiche bancarie, purche' abbiano conseguito il diploma di abilitazione all'esercizio professionale qualora prescritto.  
+I corsi di studio sono corsi ufficiali universitari e sono pubblici.  
+Possono essere iscritti alla scuola coloro i quali sono dotati di titoli di studio conseguiti all'estero equivalenti a quelli indicati nel primo comma.  
+Art. 344. - Per l'ammissione alla scuota e' richiesto il superamento di un esame consistente in una prova scritta che potra' svolgersi, in attuazione dell'[art. 13 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art13), mediante domande a risposte multiple, integrate eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
+a) la tesi nella disciplina attinente alla specializzazione;  
+b) il voto di laurea;  
+c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
+d) le pubblicazioni nelle predette materie.  
+Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale del 16 settembre 1982.  
+Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, siano in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato. In caso di rinunzia, sono ammessi coloro che seguono nella graduatoria.  
+Art. 345. - Le materie di insegnamento fanno parte degli studi giuridici afferenti alla facolta' di giurisprudenza e sono le seguenti:  
+1° Anno.  
+diritto civile comparato;  
+diritto dei contratti;  
+diritto delle imprese e delle societa';  
+diritto delle persone;  
+teoria dei rapporti patrimoniali;  
+teoria dell'interpretazione.  
+2° Anno.  
+diritto di famiglia;  
+diritto delle successioni;  
+responsabilita' civile e sicurezza sociale;  
+tutela dei diritti e processo.  
+3° Anno.  
+A) per l'indirizzo di diritto delle obbligazioni e dei contratti:  
+analisi della disciplina dei contratti tipici;  
+autonomia privata e forme contrattuali;  
+diritto delle obbligazioni e dei contratti nei Paesi europei;  
+esercitazioni pratiche di diritto delle obbligazioni e dei contratti;  
+garanzie reali e personali;  
+normativa dei rapporti agrari;  
+regime fiscale italiano e comparato dei contratti;  
+regimi di pubblicita' degli atti;  
+tecniche della redazione contrattuale;  
+diritto delle locazioni urbane.  
+B) per l'indirizzo di diritto delle persone e della famiglia:  
+diritto delle formazioni sociali;  
+diritto matrimoniale;  
+diritto per i minori;  
+esercitazioni pratiche di diritto delle persone e della famiglia; giurisdizione volontaria in materia di persone e di famiglia;  
+impresa familiare;  
+ordinamento statuale e diritti delle persone;  
+rapporti patrimoniali nella famiglia;  
+rapporti personali nella famiglia.  
+C) per l'indirizzo del diritto comparato e comunitario:  
+diritto agrario comparato e comunitario;  
+diritto civile e common law;  
+diritto privato comunitario;  
+elementi di diritto civile dei Paesi dell'Europa occidentale;  
+elementi di diritto civile dei Paesi Latinoamericani;  
+elementi di diritto civile dei Paesi socialisti.  
+D) corsi comuni a tutti gli indirizzi:  
+diritto agrario regionale;  
+diritto dell'arbitrato;  
+diritto del lavoro;  
+diritto internazionale privato;  
+diritto privato dell'economia;  
+elementi di diritto tributario e valutario;  
+giurisdizione volontaria;  
+informatica giuridica;  
+legislazione notarile;  
+legislazione sulle agevolazioni finanziarie;  
+ordinamento forense;  
+ordinamento giudiziario;  
+tutela dei beni ambientali, culturali ed artistici.  
+Nei termini previsti dalla vigente normativa e particolarmente in attuazione dell'[art. 11 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art11), ai fini della frequenza lo studente dovra' iscriversi ogni anno a cinque corsi ufficiali scegliendo, per il primo ed il secondo anno, tra le materie comuni ai primi due anni di corso e, per il terzo anno, tra le materie indicate sub A), B), C), D) regolarmente attivate.  
+Art. 346. - La frequenza ai corsi e' obbligatoria e comunque non puo' essere inferiore ai due terzi della complessiva attivita' di formazione professionale organizzata dalla scuola. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, composta a norma di legge, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno in corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta. Le borse di studio per la frequenza dei corsi sono sottoposte alla vigente normativa.  
+Art. 347. - Lo svolgimento dell'attivita' didattica terra' conto anche del carattere pratico delle discipline. A tale scopo il consiglio della scuola stabilira', sentiti i docenti interessati, le attivita' che gli specializzandi dovranno svolgere in collaborazione con ordini ed organizzazioni professionali, con l'autorita' giudiziaria, con enti locali, con enti pubblici o privati, e con chiunque altro riterra' utile ai fini della formazione professionale.  
+Gli specializzandi, ai Fini della loro formazione professionale e con esperienza applicativa delle attivita' didattiche, potranno, nel rispetto della normativa vigente, partecipare a tutte le altre attivita' della scuola. Il consiglio programma anche i seminari di singole discipline e di insegnamenti raggruppati e coordinati. A questi saranno chiamati a collaborare docenti universitari ed esperti che con il loro apporto possono mantenere il piu' alto possibile il livello culturale e di preparazione professionale a norma della legislazione vigente; per l'attuazione di tale collaborazione si provvedera' con contratti di diritto privato a norma dell'art. 4 del decreto del Presidente della Repubblica 10 marzo 1982. n. 162, o con apposita convenzione tra Universita' ed enti nel rispetto della vigente normativa dell'ordinamento universitario.  
+Il consiglio decide altresi' le forme di frequenza e le relative modalita' di svolgimento, in conformita' alla legge vigente e alle norme dello statuto dell'Universita' di Napoli.  
+Art. 348. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.  
+A coloro che abbiano superato l'esame Finale viene rilasciato il diploma di specialista in diritto civile.  
+Art. 349. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione dell'Universita' anche su indicazione del consiglio di scuola. La scuola e' finanziata, oltre che da contributi ordinari e straordinari dell'Universita', da lasciti e donazioni di enti e di privati che saranno comunque iscritti nel bilancio dell'Universita'.  
+Potranno essere assegnati premi scientifici a seguito di concorso con le modalita' stabilite dal consiglio di scuola con fondi iscritti nel bilancio dell'Universita'.  
+Art. 350. - Il consiglio di scuola e' presieduto dal direttore ed e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4).  
+Il consiglio individua tutte le possibilita' nell'ambito delle normative vigenti, nell'ambito di convenzioni con altri enti, affinche' competenze specifiche siano acquisite da altre sedi universitarie.  
+Il consiglio individua le esigenze didattiche cui si deve far fronte mediante contratto e provvede alla proposta, indicando i requisiti scientifici e professionali che debbono possedere i professori da nominare.  
+Il consiglio, oltre a decidere su tutte le attivita' di cui all'art. 347, ha le competenze attribuitegli dalla vigente normativa.  
+Art. 351. - La direzione della scuola e' affidata ad un professore ordinario, straordinario, o fuori ruolo che insegni nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 luglio 1954
+### Dato a Roma, addi' 31 ottobre 1985
 
-EINAUDI MARTINO
+COSSIGA
 
-Visto, il Guardasigilli: DE PIETRO
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 24 settembre 1954
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Atti del Governo, registro n. 86, foglio n. 39. - CARLOMAGNO
+Registrato alla Corte dei conti, addi' 14 febbraio 1986
+
+Registro n. 9 Istruzione, foglio n. 118

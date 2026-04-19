@@ -1,157 +1,121 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1982 n. 994
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1977 n. 840
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1982 n. 994
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1977 n. 840
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 14 ottobre 1926, n. 2133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2133), e modificato con [regio decreto 13 ottobre 1927, n. 2226](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2226), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Il punto 1) dell'art. 37, relativo all'elenco degli istituti della facolta' di scienze politiche, e' soppresso ed e' sostituito dal seguente:  
-1) istituto di studi storici comprendente i seminari di storia moderna e contemporanea, storia dei trattati, storia e politica afro-asiatica, storia del giornalismo e delle istituzioni culturali, storia dei partiti, dei movimenti e delle dottrine politiche, storia dell'economia.  
-Nel punto 2) del medesimo articolo e' aggiunto il seguente nuovo seminario:  
-seminario di sociologia della conoscenza.  
-Nel punto 5) del medesimo articolo la dizione del seminario di "storia e politica internazionale" e' soppressa ed e' sostituita dalla seguente:  
-seminario di politica internazionale.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Nell'art. 74, relativo al corso di laurea in materie letterarie, all'elenco degli insegnamenti complementari, e' aggiunto il seguente nuovo insegnamento:  
-storia degli antichi stati italiani.  
-
-Art. 3
-------
-
+Decreta:  
   
-Nell'art. 85, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-angiologia medica;  
-dermatologia allergologica e professionale;  
-diagnostica e terapia allergologica;  
-endocrinologia sperimentale;  
-epatologia;  
-fisiopatologia medica;  
-fisiopatologia digestiva;  
-fisiopatologia dell'emostasi;  
-fisiopatologia endocrina;  
-fisiopatologia respiratoria;  
-medicina costituzionale;  
-idroclimatologia medica;  
-medicina d'urgenza;  
-andrologia;  
-medicina dello sport;  
-semeiotica e tecnica di fisiopatologia respiratoria;  
-semeiotica cardiovascolare;  
-applicazioni tecnologiche in chirurgia;  
-cardiochirurgia pediatrica;  
-chirurgia oncologica;  
-chirurgia della mano;  
-chirurgia sostitutiva dei trapianti d'organo o di organi artificiali;  
-diagnostica e chirurgia endoscopica;  
-endocrinochirurgia;  
-fisiopatologia chirurgica;  
-microchirurgia;  
-neurochirurgia funzionale;  
-tecniche operatorie generali;  
-ematologia pediatrica;  
-endocrinologia ostetrico-ginecologica;  
-fisiopatologia ostetrico-ginecologica;  
-fisiopatologia prenatale;  
-gastroenterologia pediatrica;  
-malattie metaboliche del bambino;  
-nefrologia pediatrica;  
-patologia neonatale;  
-pediatria preventiva e sociale;  
-patologia embriofetale;  
-semeiotica-ostetrica;  
-terapia pediatrica sistematica;  
-economia sanitaria;  
-epidemiologia;  
-igiene applicata;  
-igiene ambientale e del territorio;  
-medicina delle comunita';  
-programmazione ed organizzazione dei servizi sanitari;  
-istituzioni di matematica per medici;  
-igiene industriale;  
-istologia patologica;  
-medicina criminologica e psichiatria forense;  
-medicina sociale;  
-patologia ultrastrutturale;  
-tossicologia forense;  
-teratologia e patologia delle malformazioni;  
-patologia cardio-vascolare;  
-diagnostica clinica radioisotopica;  
-radiobiologia medica;  
-radioprotezione;  
-radioterapia;  
-chirurgia maxillo-facciale;  
-neuroftalmologia;  
-odontoiatria infantile;  
-oftalmologia pediatrica;  
-otoneuroradiologia;  
-analisi biochimico-cliniche;  
-biochimica applicata;  
-biochimica comparata;  
-enzimologia;  
-fisiologia della nutrizione;  
-biochimica patologica;  
-biologia e patologia delle ultrastrutture;  
-farmacologia cellulare;  
-neuropsicofarmacologia;  
-oncologia medica;  
-patologia molecolare;  
-virologia oncologica;  
-biologia cellulare;  
-istochimica;  
-embriologia;  
-genetica umana;  
-psicoterapia;  
-neurofisiologia clinica;  
-neuropsicologia clinica.  
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 41 - all'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti:  
+economia aziendale;  
+economia matematica;  
+diritto processuale amministrativo;  
+diritto tributario;  
+diritto delle Comunita' europee.  
+Nello stesso elenco l'insegnamento di tecnica del commercio internazionale muta la denominazione in quella di politica e tecnica degli scambi internazionali.  
+Art. 84 - all'elenco degli istituti, annessi alla facolta' di magistero, e' aggiunto il seguente:  
+istituto di storia del teatro e dello spettacolo.  
+Gli articoli 183, 184, 185, 186, 187, 188 relativi alla scuola di perfezionamento in statistica annessa alla facolta' di giurisprudenza, sono soppressi.  
+Dopo l'art. 232, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di perfezionamento in statistica presso la facolta' di scienze statistiche, demografiche ed attuariali.  
+  
+Scuola di perfezionamento in statistica  
+  
+Art. 233. - Alla facolta' di scienze statistiche, demografiche ed attuariali e' annessa la scuola di perfezionamento in statistica.  
+La scuola conferisce il diploma di perfezionamento in statistica.  
+La durata degli studi per il conseguimento del diploma di perfezionamento e' di due anni.  
+Art. 234. - Sono organi della scuola:  
+a) il direttore;  
+b) il consiglio dei docenti.  
+Il direttore e' nominato dal consiglio di facolta' di scienze statistiche, demografiche ed attuariali.  
+Il consiglio dei docenti e' composto dal direttore che lo presiede e dai docenti degli insegnamenti previsti dal successivo art. 237 o attivati nell'anno.  
+Il consiglio dei docenti: determina e coordina i programmi degli insegnamenti e delle attivita' didattiche connesse; opera la selezione dei candidati; decide su questioni disciplinari.  
+I docenti dei corsi fondamentali e complementari, di cui al successivo art. 237, sono nominati, dal rettore dell'Universita' su proposta del consiglio di facolta', sentito il direttore della scuola.  
+Art. 235. - Alla scuola possono iscriversi quei laureati che, per gli studi gia' compiuti, abbiano interesse a conseguire il diploma di perfezionamento in statistica.  
+Il numero annuo degli iscritti e' determinato dal consiglio di facolta'.  
+Il consiglio dei docenti, di cui al precedente art. 234, provvede alla selezione dei candidati in base alla valutazione dei titoli.  
+Art. 236. - I contributi che gli iscritti dovranno versare per il conseguimento del diploma di perfezionamento in statistica sono fissati annualmente dal consiglio di amministrazione, su proposta del senato accademico, udito il consiglio della facolta' di scienze statistiche, demografiche ed attuariali.  
+Le tasse e soprattasse a carico degli iscritti restano cosi' determinate:  
+  
+tassa di immatricolazione. . . . . . . . . . . . . . . L. 5.000 tassa annuale di iscrizione. . . . . . . . . . . . . . " 100.000 soprattassa esami di profitto. . . . . . . . . . . . . " 10.000 tassa quale fuori corso. . . . . . . . . . . . . . . . " 10.000   
+La tassa di diploma e' stabilita dall'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
+Art. 237. - Gli insegnamenti fondamentali della scuola sono i seguenti:  
+1° Anno:  
+1) complementi di matematiche;  
+2) calcolo delle probabilita' (corso superiore);  
+3) statistica matematica (I anno).  
+2° Anno:  
+4) statistica matematica (II anno);  
+5) ricerca operativa;  
+6) teoria ed applicazioni dei processi stocastici.  
+Gli insegnamenti complementari sono:  
+1° Anno:  
+1) teoria e metodi della affidabilita';  
+2) modelli matematici per la ricerca delle scienze naturali;  
+3) metodi statistici per la ricerca sociale;  
+4) metodi statistici in psicologia;  
+5) complementi di econometria;  
+6) economia matematica;  
+7) analisi della attendibilita' e confrontabilita' delle fonti statistiche;  
+8) teoria dei giochi e delle decisioni;  
+9) teoria delle informazioni;  
+10) teoria e tecnica dell'elaborazione automatica dei dati (corso sup.);  
+11) metodologia delle scienze;  
+12) programmazione matematica.  
+2° Anno:  
+13) teoria dei sistemi;  
+14) controllo statistico dei processi produttivi e della qualita';  
+15) programmazione ed interpretazione statistica degli esperimenti;  
+16) metodi statistici per le scienze fisiche;  
+17) metodi statistici per la ricerca biometrica;  
+18) sociologia matematica e sociometria;  
+19) metodologia della pianificazione sociale;  
+20) analisi delle serie temporali;  
+21) modelli non lineari;  
+22) ricerca operativa nei problemi della pianificazione economica;  
+23) modelli demografici;  
+24) programmazione aziendale;  
+25) ricerca operativa nella gestione aziendale;  
+26) processi aleatori e teoria delle file d'attesa;  
+27) tecnica di simulazione;  
+28) metodi matematici di ottimizzazione;  
+29) genetici di popolazione.  
+Al fine del conseguimento del diploma di perfezionamento, e' necessario aver seguito i corsi e superato gli esami degli insegnamenti fondamentali e di cinque insegnamenti complementari, due al primo anno e tre al secondo, scelti dallo studente.  
+Le lezioni sono integrate da esercitazioni, seminari e conferenze, secondo un programma approvato annualmente dal consiglio dei docenti, su proposta dei singoli docenti.  
+Per essere ammesso all'esame di profitto lo studente dovra' presentare una relazione scritta su un argomento di ricerca proposto dallo studente stesso ed approvato dal docente della disciplina.  
+Art. 238. - L'esame di diploma consiste nella discussione davanti alla commissione di diploma di una dissertazione scritta su un tema approvato dal direttore della scuola e di un tema orale, liberamente scelto dal candidato nell'ambito di una disciplina diversa da quella cui si riferisce la dissertazione scritta.  
+La commissione di diploma, nominata dal direttore della scuola, e' composta di sette membri. Ogni membro dispone di dieci punti ai fini della valutazione complessiva.  
+Art. 239. - La scuola funziona con i proventi delle tasse e dei contributi versati dagli iscritti; ha sede nei locali dell'istituto di statistica della facolta' di scienze statistiche, demografiche ed attuariali dell'Universita' di Padova; si vale degli insegnamenti impartiti da personale insegnante ed in servizio presso le Universita' o altre scuole dello Stato e delle attrezzature didattiche e scientifiche della facolta'.  
+Le proposte concernenti le retribuzioni degli insegnanti e la utilizzazione dei fondi della scuola sono formulate dal consiglio della facolta' e sottoposte all'approvazione del consiglio di amministrazione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 ottobre 1982
+### Dato a Roma, addi' 10 febbraio 1977
 
-PERTINI BODRATO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 10 gennaio 1983
+Registrato alla Corte dei conti, addi' 16 novembre 1977
 
-Registro n. 1 Istruzione, foglio n. 35
+Registro n. 126 Istruzione, foglio n. 340

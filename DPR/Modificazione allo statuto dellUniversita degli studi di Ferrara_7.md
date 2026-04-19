@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 540
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 961
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 540
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 961
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Ferrara.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -39,19 +39,20 @@ Articolo unico
 --------------
 
   
-Nell'art. 54, relativo al corso di laurea in odontoiatria e protesi dentaria, sono soppressi gli asterischi degli insegnamenti fondamentali e complementari.  
-Nello stesso articolo sono soppressi il periodo successivo all'elenco degli insegnamenti complementari nonche' il comma seguente a tale periodo.  
+L'art. 268, relativo alla scuola di preparazione per tecnici di logopedia, e' soppresso ed e' sostituito dal seguente:  
+Art. 268. - La durata del corso degli studi della scuola di preparazione per tecnici di logopedia e' di tre anni. L'indirizzo e' teorico-pratico.  
+Il numero complessivo degli iscritti alla scuola e' di trenta.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 marzo 1984
+### Dato a Roma, addi' 31 ottobre 1981
 
-PERTINI FALCUCCI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 24 agosto 1984
+Registrato alla Corte dei conti, addi' 9 febbraio 1982
 
-Registro n. 51 Istruzione, foglio n. 80
+Registro n. 20 Istruzione, foglio n. 207

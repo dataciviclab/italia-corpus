@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1952 n. 466
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 maggio 1952 n. 651
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1952 n. 466
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 maggio 1952 n. 651
+=============================================================
 
 Autorizzazione all'Ente Nazionale Assistenza Lavoratori "E.N.A.L.", con sede in Roma, ad acquistare un appezzamento di terreno.
 -------------------------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-466. Decreto del Presidente della Repubblica 27 marzo 1952, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Ente Nazionale Assistenza Lavoratori "E.N.A.L.", con sede in Roma, viene autorizzato ad acquistare dall'Amministrazione comunale di Molochio (Reggio Calabria) un appezzamento di terreno.  
+651. Decreto del Presidente della Repubblica 5 maggio 1952, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Ente Nazionale Assistenza Lavoratori "E.N.A.L.", con sede in Roma, viene autorizzato ad acquistare, per il prezzo di lire 680.000, l'appezzamento di terreno di mq. 1500 circa, denominato Varatella, situato sulla via Aurelia in comune di Borghetto Santo Spirito (Savona), da servire per l'impianto di una colonia marina.  
   
 Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 5 maggio 1952  
-Atti del Governo, registro n. 53, foglio n. 35. - FRASCA
+Registrato alla Corte dei conti, addi' 9 giugno 1952  
+Atti del Governo, registro n. 54, foglio n. 30. - FRASCA

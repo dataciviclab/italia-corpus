@@ -1,47 +1,31 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 gennaio 1992 n. 6
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 2005 n. 10
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 gennaio 1992 n. 6
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 2005 n. 10
+==============================================================
 
 Esercizio temporaneo di funzioni del Presidente della Repubblica da parte del Presidente del Senato.
 ----------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 24/1/1992
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Visto l'[art. 86, primo comma, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art86-com1);
-
-Considerata la durata e la distanza dal territorio nazionale del viaggio che il Presidente della Repubblica intraprendera' all'estero a decorrere dal 10 gennaio prossimo;
-
-Ritenuto che, pertanto, ricorrano le condizioni previste dalla Costituzione per far luogo alla supplenza;
-
-Sentito il Consiglio dei Ministri;
-
-Sulla
------
-
-proposta del Presidente del Consiglio dei Ministri; Decreta:
+Entrata in vigore del provvedimento: 26/2/2005
 
 Art. 1
 ------
 
-1. La supplenza delle funzioni del Presidente della Repubblica, prevista dall'[art. 86, primo comma, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art86-com1), e' esercitata, per le funzioni non inerenti allo svolgimento della missione all'estero, dal Presidente del Senato con il titolo di "Presidente supplente della Repubblica", a decorrere dal 10 gennaio 1992 e fino al rientro del Capo dello Stato nel territorio nazionale.
+ IL PRESIDENTE DELLA REPUBBLICA  
+  
+Visto l'[articolo 86, primo comma, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art86-com1);  
+Considerata la durata e la distanza dal territorio nazionale della missione ufficiale che il Presidente della Repubblica intraprendera' all'estero a decorrere dal 12 febbraio 2005, recandosi in India in visita di Stato;  
+Decreta:  
+Le funzioni del Presidente della Repubblica, non inerenti allo svolgimento della missione all'estero, sono esercitate, ai sensi dell'[articolo 86, primo comma, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art86-com1), dal Presidente del Senato a decorrere dal 12 febbraio 2005 e, precisamente, dal momento in cui il Capo dello Stato lascera' l'Italia e fino al suo rientro nel territorio nazionale.  
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 gennaio 1992
+### Dato a Roma, addi' 8 febbraio 2005
 
-COSSIGA
+CIAMPI
 
-ANDREOTTI, Presidente del Consiglio dei Ministri
+Berlusconi, Presidente del Consiglio dei Ministri
 
-Visto, il Guardasigilli: MARTELLI
-
-AVVERTENZA:  
-Il testo della nota qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura della disposizione di legge alla quale e' operato il rinvio e della quale restano invariati il valore e l'efficacia.  
-Nota alle premesse e all'[art. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art1):  
-- Il [primo comma dell'art. 86 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art86-com1) prevede che le funzioni del Presidente della Repubblica, in ogni caso che egli non possa adempierle, siano esercitate dal Presidente del Senato.
+Visto, il Guardasigilli: Castelli

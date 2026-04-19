@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1157
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1983 n. 385
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1157
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1983 n. 385
+============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
@@ -39,19 +39,24 @@ Articolo unico
 --------------
 
   
-Art. 76 - nell'elenco degli insegnamenti complementari dell'indirizzo applicativo, secondo gruppo, del corso di laurea in matematica e' inserito il seguente insegnamento:  
-linguaggi di programmazione.  
+Art. 68 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono inseriti i seguenti insegnamenti: fisiopatologia chirurgica;  
+psicopatologia generale;  
+neuroanatomia clinica;  
+otorinolaringoiatria pediatrica;  
+foniatria;  
+otoneuroradiologia;  
+microchirurgia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 dicembre 1983
+### Dato a Roma, addi' 31 marzo 1983
 
 PERTINI FALCUCCI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 22 marzo 1984
+Registrato alla Corte dei conti, addi' 11 agosto 1983
 
-Registro n. 17 Istruzione, foglio n. 323
+Registro n. 58 Istruzione, foglio n. 152

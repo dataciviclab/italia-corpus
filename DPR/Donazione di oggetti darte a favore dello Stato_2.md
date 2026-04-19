@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 dicembre 1969 n. 1337
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1970 n. 553
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 dicembre 1969 n. 1337
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1970 n. 553
+===============================================================
 
 Donazione di oggetti d'arte a favore dello Stato.
 -------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1337. Decreto del Presidente della Repubblica 19 dicembre 1969, col quale, sulla proposta del Ministro per la pubblica istruzione, viene autorizzata l'accettazione di un legato di ottanta dipinti di autori ed epoche varie, disposto a favore dello Stato dal cav. di gran croce avv. Giovanni Benfratello con testamento olografo del 24 marzo 1956, repertorio n. 29511, con destinazione al Museo nazionale di Palermo con la clausola che i predetti dipinti dovranno essere esposti possibilmente in un unico ambiente nell'ingresso del quale dovra' essere scritto su di una targhetta "Quadri donati dall'olimpionico avv. Giovanni Benfratello".  
+553. Decreto del Presidente della Repubblica 7 febbraio 1970, col quale, sulla proposta del Ministro per la pubblica istruzione, viene autorizzata l'accettazione del lascito di oggetti d'arte disposto, con testamento pubblico in data 31 maggio 1963 a rogito del dottor Luigi Napoleone, notaio in Roma, registrato in data 1 giugno 1963 al n. 10134 di repertorio, a favore dello Stato italiano dalla signora Maria Gabbrielli ved. Gagliardi, con destinazione rispettivamente al Museo di arti decorative di Palazzo Barberini in Roma, al Museo nazionale di Siracusa, al Museo nazionale di Reggio Calabria, al Museo nazionale delle terme di Roma, al Museo nazionale di Capodimonte di Napoli, alla Galleria nazionale di Palazzo Barberini di Roma.  
   
-Visto, il Guardasigilli: GAVA  
-Registrato alla Corte dei conti addi' 2 luglio 1970  
-Atti del Governo, registro n. 236, foglio n. 94. - CARUSO
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 24 luglio 1970  
+Atti del Governo, registro n. 236, foglio n. 177. - IZZI

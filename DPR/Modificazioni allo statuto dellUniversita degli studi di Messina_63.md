@@ -1,101 +1,59 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1981 n. 768
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 628
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1981 n. 768
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 628
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923) e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217); - Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Lo statuto dell'Universita' di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Veduto lo statuto dell'Universita' degli studi di Messina approvato con [regio decreto 30 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-30;1090) e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Dopo l'art. 186, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia toracica.  
+Decreta:  
   
-Scuola di specializzazione in chirurgia toracica  
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 21. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti:  
   
-Art. 187 - La scuola di specializzazione in chirurgia toracica ha sede presso la cattedra di chirurgia toracica ospedale Piemonte Messina e conferisce il diploma di specialista in chirurgia toracica.  
-Art. 188. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
-Art. 189. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia che siano gia' specialisti in chirurgia generale.  
-E' richiesto il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente.  
-Art. 190. - La durata del corso di studi e' di cinque anni, non e' suscettibile di abbreviazione e prevede l'insegnamento di tutte le branche della chirurgia toracica, chirurgia polmonare, chirurgia cardiaca, chirurgia esofagea, chirurgia del mediastino e della parete toracica.  
-Art. 191. - Il numero massimo degli allievi e' di due per anno di corso e complessivamente di dieci iscritti per l'intero corso di studi.  
-Art. 192. - L'ammissione al corso avviene per concorso per titoli ed esami.  
-Art. 193. - Le materie di insegnamento sono le seguenti.  
-1° Anno:  
-1) embriologia, anatomia descrittiva e topografica del torace e degli organi endotoracici;  
-2) anatomia chirurgica del torace e degli organi endotoracici;  
-3) anatomia patologica delle malattie del torace (biennale I);  
-4) anestesia in chirurgia toracica.  
-2° Anno:  
-1) fisiopatologia dell'apparato respiratorio;  
-2) fisiopatologia dell'apparato cardiocircolatorio;  
-3) semeiotica dell'apparato respiratorio, dell'esofago e del mediastino;  
-4) semeiotica dell'apparato cardiocircolatorio;  
-5) anatomia patologica delle malattie del torace (biennale II).  
-3° Anno:  
-1) patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete  
-toracica (biennale I):  
-2) patologia e clinica chirurgica delle affezioni del cuore e dei grossi vasi endotoracici;  
-3) patologia e clinica chirurgica delle affezioni dell'esofago e del diaframma;  
-4) elementi di terapia medica delle cardio-angiopatie;  
-5) elementi di fisioterapia respiratoria;  
-6) diagnostica radiologica e nelle malattie chirurgiche del torace.  
-4° Anno:  
-1) patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete  
-toracica (biennale II);  
-2) tecnica operatoria per le affezioni della parete toracica, dell'apparato respiratorio, dell'esofago, del mediastino e del diaframma (biennale I);  
-3) tecnica operatoria delle affezioni del cuore, pericardio e grossi vasi endotoracici;  
-4) principi e tecniche della circolazione extracorporee.  
-5° Anno:  
-1) terapia intensiva e rianimazione in chirurgia toracica;  
-2) tecnica operatoria per le affezioni della parete toracica, dell'apparato respiratorio, dell'esofago, del mediastino e del diaframma (biennale II);  
-3) terapia chirurgica della TBC pleuropolmonare.  
-Art. 194. - Il corso si compone di lezioni, di esercitazioni pratiche, di conferenze riguardanti argomenti specialistici, di turni in corsia ed in sala operatoria.  
-La frequenza ai corsi, alle esercitazioni pratiche, in corsia ed in sala operatoria, e' obbligatoria. In caso contrario i candidati non potranno ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.  
-Art. 195. - Alla fine di ciascun anno di corso gli specializzandi che abbiano ottenuto la firma di frequenza dovranno sostenere un esame di profitto sulle materie di insegnamento il cui superamento e' condizione necessaria ed indispensabile per ottenere l'iscrizione all'anno successivo e, per quelli che sono stati iscritti al quinto anno per l'ammissione all'esame di diploma.  
-Durante il corso gli specializzandi frequenteranno la sala operatoria in maniera assidua, dovranno assistere a numerosi interventi di chirurgia toracica ed essere in grado di eseguirne essi stessi.  
-Art. 196. - Per tutti gli specializzandi che hanno superato gli esami dei cinque anni, alla fine del quinto anno di corso ha luogo l'esame di diploma, consistente nella presentazione e' discussione di una dissertazione scritta su un argomento di chirurgia toracica concordata con la direzione della scuola.  
+Legislazione e tecnica del turismo;  
+Storia della banca e delle assicurazioni.  
+  
+Art. 48. - All'elenco degli istituti annessi alla facolta' di medicina e chirurgia sono aggiunti i seguenti:  
+  
+Istituto di chirurgia sperimentale;  
+Istituto di oncologia sperimentale;  
+Istituto di neurochirurgia.  
+  
+Art. 55. - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di:  
+  
+Psicofisiologia.  
+  
+Art. 56. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto quello di:  
+  
+Psicofisiologia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1981
+### Dato a Roma, addi' 22 settembre 1972
 
-PERTINI BODRATO
+LEONE SCALFARO
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 17 dicembre 1981
+Registrato alla Corte dei conti, addi' 3 novembre 1972
 
-Registro n. 128 Istruzione, foglio n. 302
+Atti del Governo, registro n. 251, foglio n. 134. - CARUSO

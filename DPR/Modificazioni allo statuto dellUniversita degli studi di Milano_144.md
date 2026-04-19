@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1965 n. 792
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 735
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1965 n. 792
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 735
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,694 +20,1101 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 9. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:
+Articolo unico
+--------------
 
-Papirologia giuridica;
-
-Diritto greco;
-
-Criminologia;
-
-Politica economica Storia delle dottrine economiche;
-
-Teoria generale del diritto;
-
-Diritto pubblico comparato.
-
-Gli insegnamenti complementari di "Diritto coloniale" e di "Diritto dell'Oriente mediterraneo" sono soppressi.
-
-Art. 23. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di:
-
-Antropologia criminale;
-
-Endocrinologia ostetrico-ginecologica Citochimica e istochimica.
-
-Art. 30. - Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo inorganico-chimico-fisico) sono aggiunti quelli di:
-
-Chimica metallurgica;
-
-Corrosione e protezione dei metalli;
-
-Metallografia.
-
-Nell'art. 37, relativo alle modalita' di esami del corso di laurea in Scienze naturali, dopo il secondo comma e' aggiunto il seguente:
-
-"Non possono sostenere l'esame di Botanica I gli studenti che non hanno superato gli esami di Istituzioni di matematiche, di Chimica generale ed inorganica e di Fisica".
-
-Art. 39. - L'insegnamento complementare di "Istituzioni di patologia generale" tra le materie del corso di laurea in Scienze biologiche, e' soppresso.
-
-Nell'art. 40, relativo alle modalita' di esami, del corso di laurea in Scienze biologiche, il secondo comma e abrogato e sostituito dal seguente:
-
-"Non potranno sostenere l'esame di Botanica. I gli studenti che non abbiano superato gli (esami di Istituzioni di matematiche, di Chimica generale ed inorganica e di Fisica".
-
-E' aggiunto il seguente comma: "Non potranno sostenere l'esame di Chimica biologica, gli studenti che non abbiano superato gli esami di "Istituzioni di matematiche, di Chimica generale ed inorganica, di Fisica e di Chimica organica".
-
-Art. 42. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche e' aggiunto quello di: "Geotecnica".
-
-L'insegnamento complementare di "Esplorazione geologica del sottosuolo" e' abrogato e sostituito con quello di "Rilevamento geologico".
-
-Art. 111. - La Scuola di specializzazione in Igiene e' trasformata in "Scuola di specializzazione in Igiene ed Epidemiologia con il seguente piano degli studi.
-
-1° Anno:
-
-1) Epidemiologia generale e speciale delle malattie infettive (comprese le zoonosi);
-
-2) Nozioni in Patologia e clinica delle malattie infettive;
-
-3) Microbiologia (con particolare riguardo alla diagnosi di laboratorio delle malattie infettive e dei metodi d'indagine epidemiologica;
-
-4) Parassitologia;
-
-5) Elementi di statistica metodologica - Statistica demografica e sanitaria.
-
-2° Anno:
-
-1) Epidemiologia delle malattie dell'apparato cardiocircolatorio, dell'apparato respiratorio, dei tumori, della malattia reumatica, ecc.;
-
-2) Nozioni di patologia e clinica delle malattie dell'apparato respiratorio, dell'apparato cardiocircolatorio, dei tumori, dell'affezione reumatica, ecc.;
-
-3) Igiene tecnica - Approvvigionamento idrico - Raccolta e smaltimento dei rifiuti dell'abitato - Ventilazione, riscaldamento e condizionamento dell'aria;
-
-4) Ordinamento sanitario - Legislazione sanitaria Sistemi di assistenza sanitaria e sociale;
-
-5) Nozioni di Chimica e fisica applicata all'igiene.
-
-L'art. 116, relativo alla Scuola di specializzazione in Medicina del lavoro e' abrogato e sostituito dal seguente:
-
-Scuola di specializzazione in Medicina del lavoro
-
-Art. 116. - La durata del corso e' di due anni.
-
-Il numero degli iscritti alla Scuola e' fissato ad un massimo di venti per il primo anno di corso.
-
-Le materie di insegnamento sono:
-
-Patologia del lavoro;
-
-Ematologia professionale;
-
-Igiene del lavoro;
-
-Traumatologia del lavoro;
-
-Psicologia del lavoro;
-
-Fisiologia del lavoro ed ergonomia;
-
-Assicurazioni sociali;
-
-Medicina preventiva dei lavoratori;
-
-Malattie infettive di origine professionale e zoonosi;
-
-Dermatologia professionale;
-
-Tecnologia industriale;
-
-Statistica sanitaria;
-
-Ingegneria sanitaria.
-
-Tutti i corsi teorici vengono tenuti durante il primo anno ed hanno la durata di 16 settimane effettive con lezioni al lunedi, mercoledi e venerdi, dalle ore 9 alle 12.
-
-L'insegnamento di "Tecnologia industriale" prevede visite a stabilimenti industriali.
-
-Al termine del ciclo di lezioni di ciascun insegnamento si tiene un esame orale.
-
-Il secondo anno di corso e' riservato ai tirocini pratici, ed ha la durata di sette mesi. Esso comprende: tirocinio in ambulatori di fabbrica (due mesi), tirocinio in ambulatori di traumatologia (un mese), tirocinio in clinica (quattro mesi).
-
-Al fine del corso gli specializzandi devono sostenere un esame scritto e orale di "Medicina del lavoro".
-
-L'art. 119, relativo alla Scuola di specializzazione in Oculistica, e' abrogato e sostituito dal seguente:
-
-Scuola di specializzazione in Oculistica
-
-Art. 119. - La durata del corso e' di tre anni.
-
-Il numero degli iscritti alla Scuola e' fissato ad un massimo di otto per il primo anno di corso.
-
-Le materie d'insegnamento sono:
-
-1° Anno:
-
-1) Anatomia ed embriologia dell'apparato oculare;
-
-2) Fisiologia dell'apparato oculare;
-
-3) Semeiotica oculare;
-
-4) Patologia oculare (I);
-
-5) Ottica fisiologica ed anomalie della rifrazione;
-
-6) Igiene e profilassi oculare;
-
-7) Oftalmoscopia (I).
-
-2° Anno:
-
-1) Oftalinoscopia (II);
-
-2) Patologia oculare (II);
-
-3) Radiodiagnostica e radioterapia in oftalmologia;
-
-4) Clinica oculistica (I);
-
-5) Anatomia ed istologia dell'apparato oculare;
-
-6) Terapia delle malattie oculari (I);
-
-7) Tecnica operatoria (I).
-
-3° Anno:
-
-1) Terapia delle malattie oculari (II);
-
-2) Tecnica operatoria (II) - Esame;
-
-3) Neuropatologia oculare;
-
-4) Medicina legale ed infortunistica oculare;
-
-5) Clinica, oculistica (II) - Esame;
-
-6) Nozioni di Pleottica e di Ortottica;
-
-7) Rinologia e malattie oculari.
-
-L'art. 120, relativo alla Scuola di specializzazione in Odontoiatria e protesi dentaria, e' abrogato e sostituito dal seguente nuovo ordinamento e con la seguente nuova denominazione.
-
-Scuola di specializzazione in Clinica odontoiatrica e stomatologica
-
-Art. 120. - La durata del corso e' di due anni.
-
-Il numero degli iscritti alla Scuola e' fissato ad un massimo di trenta per il primo anno di corso.
-
-Le materie d'insegnamento sono:
-
-1° Anno:
-
-Patologia orale;
-
-Patologia dentale e semeiotica;
-
-Paradontologia propedeutica;
-
-Chirurgia dentale e anestesiologia;
-
-Endodontia;
-
-Gnato-ortopedia;
-
-Propedeutica protesica;
-
-Propedeutica radiologica;
-
-Propedeutica odontotecnica;
-
-Materiali;
-
-Morfologia e istologia dentale.
-
-Esercitazioni:
-
-Odontoiatria conservativa (al manichino);
-
-Chirurgia dentale;
-
-Endodontia.
-
-2° Anno:
-
-Odontoiatria infantile;
-
-Chirurgia orale;
-
-Clinica gnato-ortopedica;
-
-Clinica paradontologica;
-
-Clinica protesica totale;
-
-Clinica protesica parziale;
-
-Riabilitazione protesica fissa;
-
-Radiologia.
-
-Esercitazioni:
-
-Protesi - Gnato-ortopedia - Paradontopatie - Endodontia.
-
-Inoltre lezioni integrative:
-
-Anatomia - Otorinolaringoiatria - Clinica dermosifilopatica - Medicina legale.
-
-Al termine di ciascun anno gli allievi che abbiano regolarmente frequentato il corso dovranno superare colloqui nelle singole materie prima di essere ammessi ad un esame di profitto.
-
-L'art. 122, relativo alla Scuola di specializzzazione in Ostetricia e ginecologia, e' abrogato e sostituito dal seguente:
-
-Scuola di specializzazione in Ostetricia e ginecologia
-
-Art. 122. - La durata del corso e' di quattro anni.
-
-Il numero degli iscritti alla Scuola e' fissato ad un massimo di dieci per il primo anno di corso.
-
-Le materie di insegnamento sono:
-
-1° Anno:
-
-Embriogenesi, anatomia, fisiologia dell'apparato genitale femminile;
-
-Endocrinologia ostetrica ginecologica;
-
-Fisiologia della gravidanza del parto del puerperio;
-
-Fisiologia dell'utero partoriente;
-
-Fisiologia e fisiopatologia della: mestruazione;
-
-Eugenetica e genetica umana.
-
-2° Anno:
-
-La patologia gravidica e la patologia medica in gravidanza;
-
-Le distocie;
-
-La patologia puerperale;
-
-La patologia emocoagulatoria, le emopatie, la emoterapia in ostetricia e ginecologia;
-
-Puericoltura prenatale;
-
-Urologia ostetrica e ginecologia;
-
-Radiologia, radio-diagnostica radioterapia ostetrica e ginecologica.
-
-3° Anno:
-
-Diagnostica generale ostetrica e ginecologica. Le diagnosi di laboratorio. La colpocitologia;
-
-Oncologia generale ginecologica. Anatomia patologica;
-
-Puericoltura prenatale e post-natale. Fisiopatologia e patologia neonatale;
-
-Neuropsichiatria ostetrica e ginecologica;
-
-Medicina forense in ostetricia Anestesia nel parto e nelle operazioni ostetriche e ginecologiche;
-
-Operazioni ostetriche e tecnica operativa.
-
-4° Anno:
-
-Patologia del lavoro e gravidanza: profilassi in gravidanza;
-
-Ortopedia neonatale e infantile;
-
-Malattie chirurgiche del neonato;
-
-La patologia del neonato e dei lattante;
-
-Dimostrazioni cliniche ed esercitazioni diagnostiche (30 e 4° anno);
-
-Internato fisso obbligatorio per almeno un semestre nel secondo biennio.
-
-L'art. 125, relativo alla. Scuola di specializzazione in psichiatria il terzo e quarto comma sono abrogati e sostituiti dai seguenti: "La Scuola ha sede presso lo Istituto di clinica psichiatrica.
-
-Direttore della Scuola e' il direttore dell'Istituto di psichiatria".
-
-Il sesto comma e' abrogato e sostituito dal seguente:
-
-"Durante i tre anni di corso gli specializzandi debbono prestare servizio di internato nei reparti dello Istituto di psichiatria e in quelli della Clinica delle malattie nervose e mentali, ai quali vengono assegnati".
-
-L'art. 147, relativo alla Scuola di specializzazione in Scienza dell'alimentazione e dietetica, il primo comma e' abrogato e sostituito dal seguente: "Il direttore della Scuola e' il professore ufficiale di Chimica biologica".
-
-Dopo l'art. 171, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione delle Scuole di specializzazione in Medicina nucleare ed in Chirurgia dell'infanzia con il conseguente spostamento della numerazione degli articoli successivi.
-
-Scuola di specializzazione in Medicina nucleare
-
-Art. 172. - La durata del corso e' di due anni.
-
-I posti disponibili per il primo anno sono otto.
-
-Si possono iscrivere i laureati in medicina e chirurgia.
-
-Le materie d'insegnamento sono:
-
-1° Anno:
-
-1) Fondamenti fisici e tecnici;
-
-2) Fondamenti biologici;
-
-3) Fondamenti metodologici;
-
-4) Applicazioni diagnostiche;
-
-5) Applicazioni terapeutiche;
-
-6) Radioprotezione.
-
-Gli allievi debbono sostenere esami di profitto nelle materie di insegnamento.
-
-Scuola di specializzazione in Chirurgia dell'infanzia
-
-Art. 173. - La durata del corso di studi per il conseguimento della specialita' in chirurgia dell'infanzia e fissato in anni due.
-
-Il numero degli iscritti alla Scuola e' fissato ad un massimo di dieci per il primo anno di corso.
-
-Art. 174. - La direzione della Scuola e' affidata al titolare dell'insegnamento di Clinica chirurgica generale.
-
-Art. 175. - Possono ottenere l'iscrizione alla Scuola, previo esame di ammissione, i laureati in medicina e chirurgia che siano in possesso del diploma di specialista in Chirurgia generale, o abbiano conseguito la libera docenza in Clinica o Patologia o Semeiotica o Anatomia chirurgica o Chirurgia pediatrica.
-
-Art. 176. - Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali, oltre ad un periodo di internato obbligatorio.
-
-Art. 177. - Gli argomenti impartiti dalla Scuola sono i seguenti:
-
-1° Anno:
-
-Anatomia patologica delle malattie chirurgiche dell'infanzia e teratologia;
-
-Patologia chirurgica e semeiotica chirurgica;
-
-Diagnostica radiologica delle malattie chirurgiche della infanzia;
-
-Diagnostica e clinica delle malattie cardiocircolatorie dell'infanzia;
-
-Clinica pediatrica;
-
-Anestesia e rianimazione;
-
-Clinica chirurgica (biennale).
-
-2° Anno:
-
-Chirurgia plastica nell'infanzia;
-
-Otorinolaringologia nell'infanzia;
-
-Ortopedia e traumatologia nell'infanzia;
-
-Urologia nell'infanzia;
-
-Neurochirurgia nell'infanzia;
-
-Chirurgia d'urgenza nell'infanzia;
-
-Chirurgia cardio-toracica nell'infanzia;
-
-Clinica chirurgica (biennale).
-
-Art. 178. - La frequenza alle lezioni ed alle conferenze e' obbligatoria al pari del periodo di internato.
-
-Art. 179. - Al termine di ciascun anno accademico gli specializzandi che abbiano ottenuto le firme di frequenza, dovranno sostenere gli esami di profitto nelle materie oggetto di insegnamento; l'esame di Clinica chirurgica viene sostenuto alla fine del secondo anno di corso.
-
-Art. 180. - Al termine del corso di specializzazione gli specializzandi dovranno presentare una dissertazione scritta su argomento attinente al corso stesso e sostenere l'esame di diploma secondo le norme speciali per le Scuole di specializzazione della Facolta'.
-
-Art. 174 (gia' 155), contenente norme comuni alle Scuole di specializzazione in Coltivazioni irrigue ed in Zootecnica presso la, Facolta' di agraria, sono aggiunti i seguenti commi:
-
-"Per essere ammessi alle Scuole predette occorre:
-
-a) presentare domanda su carta legale diretta al rettore, corredata dai documenti indicati nel manifesto pubblicato annualmente dall'Universita';
-
-b) versare le tasse, soprattasse e gli eventuali contributi che verranno stabiliti di anno in anno, dal Consiglio di amministrazione uditi il Senato accademico ed il Consiglio di Facolta'".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 21 maggio 1965
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 9 luglio 1965 Atti del Governo, registro n. 195, foglio n. 72. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Gli articoli 60, 61, 62, 63, 64 e 65, concernenti il corso di laurea in scienze agrarie, sono soppressi e sostituiti come segue:  
+Art. 60. - Durata del corso degli studi cinque anni.  
+Il corso di studi e' articolato nei seguenti tre indirizzi:  
+a produzione vegetale", "tecnico-economico" e "zootecnico".  
+Lo studente e' tenuto a scegliere l'indirizzo non oltre il termine del secondo anno.  
+Discipline comuni a tutti gli indirizzi:  
+1) Anatomia, fisiologia e morfologia degli animali domestici;  
+2) Biochimica agraria;  
+3) Botanica generale;  
+3,5) Botanica sistematica (semestrale);  
+4,5) Chimica;  
+5,5) Chimica del suolo;  
+6,5) Fisica;  
+7,5) Genetica agraria;  
+8,5) Istituzioni di economia e di statistica agraria;  
+9,5) Matematica;  
+10) Zoologia generale agraria (semestrale);  
+11) Agronomia generale;  
+12) Coltivazioni arboree;  
+13) Coltivazioni erbacee;  
+14) Costruzioni rurali e topografia;  
+15) Economia e politica agraria;  
+16) Estimo rurale e contabilita';  
+17) Industrie agrarie;  
+17,5) Istituzioni di entomologia agraria (semestrale);  
+18) Istituzioni di microbiologia agraria (semestrale);  
+18,5) Istituzioni di patologia vegetale (semestrale);  
+19,5) Meccanica e meccanizzazione agricola;  
+20,5) Zootecnica;  
+- Accertamento della conoscenza di almeno una lingua straniera fra quelle indicate nel manifesto annuale degli studi mediante colloquio e traduzione di testi scientifici, da effettuarsi prima dell'assegnazione della tesi di laurea con docenti di discipline attinenti alla tesi stessa.  
   
-Decreta:  
+DISCIPLINE CARATTERIZZANTI GLI INDIRIZZI  
   
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 9. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:  
-Papirologia giuridica;  
-Diritto greco;  
-Criminologia;  
-Politica economica Storia delle dottrine economiche;  
-Teoria generale del diritto;  
-Diritto pubblico comparato.  
-Gli insegnamenti complementari di "Diritto coloniale" e di "Diritto dell'Oriente mediterraneo" sono soppressi.  
-Art. 23. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di:  
-Antropologia criminale;  
-Endocrinologia ostetrico-ginecologica Citochimica e istochimica.  
-Art. 30. - Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo inorganico-chimico-fisico) sono aggiunti quelli di:  
-Chimica metallurgica;  
-Corrosione e protezione dei metalli;  
-Metallografia.  
-Nell'art. 37, relativo alle modalita' di esami del corso di laurea in Scienze naturali, dopo il secondo comma e' aggiunto il seguente:  
-"Non possono sostenere l'esame di Botanica I gli studenti che non hanno superato gli esami di Istituzioni di matematiche, di Chimica generale ed inorganica e di Fisica".  
-Art. 39. - L'insegnamento complementare di "Istituzioni di patologia generale" tra le materie del corso di laurea in Scienze biologiche, e' soppresso.  
-Nell'art. 40, relativo alle modalita' di esami, del corso di laurea in Scienze biologiche, il secondo comma e abrogato e sostituito dal seguente:  
-"Non potranno sostenere l'esame di Botanica. I gli studenti che non abbiano superato gli (esami di Istituzioni di matematiche, di Chimica generale ed inorganica e di Fisica".  
-E' aggiunto il seguente comma: "Non potranno sostenere l'esame di Chimica biologica, gli studenti che non abbiano superato gli esami di "Istituzioni di matematiche, di Chimica generale ed inorganica, di Fisica e di Chimica organica".  
-Art. 42. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche e' aggiunto quello di: "Geotecnica".  
-L'insegnamento complementare di "Esplorazione geologica del sottosuolo" e' abrogato e sostituito con quello di "Rilevamento geologico".  
-Art. 111. - La Scuola di specializzazione in Igiene e' trasformata in "Scuola di specializzazione in Igiene ed Epidemiologia con il seguente piano degli studi.  
-1° Anno:  
-1) Epidemiologia generale e speciale delle malattie infettive (comprese le zoonosi);  
-2) Nozioni in Patologia e clinica delle malattie infettive;  
-3) Microbiologia (con particolare riguardo alla diagnosi di laboratorio delle malattie infettive e dei metodi d'indagine epidemiologica;  
-4) Parassitologia;  
-5) Elementi di statistica metodologica - Statistica demografica e sanitaria.  
-2° Anno:  
-1) Epidemiologia delle malattie dell'apparato cardiocircolatorio, dell'apparato respiratorio, dei tumori, della malattia reumatica, ecc.;  
-2) Nozioni di patologia e clinica delle malattie dell'apparato respiratorio, dell'apparato cardiocircolatorio, dei tumori, dell'affezione reumatica, ecc.;  
-3) Igiene tecnica - Approvvigionamento idrico - Raccolta e smaltimento dei rifiuti dell'abitato - Ventilazione, riscaldamento e condizionamento dell'aria;  
-4) Ordinamento sanitario - Legislazione sanitaria Sistemi di assistenza sanitaria e sociale;  
-5) Nozioni di Chimica e fisica applicata all'igiene.  
-L'art. 116, relativo alla Scuola di specializzazione in Medicina del lavoro e' abrogato e sostituito dal seguente:  
+Indirizzo di "produzione vegetale":  
+- Arboricoltura generale (in sostituzione di "coltivazioni arboree");  
+21) Arboricoltura speciale (semestrale) (\*);  
+- Coltivazioni erbacee speciali (\*) (in sostituzione di "coltivazioni erbacce");  
+22) Fisiologia delle piante coltivate;  
+22,5) Entomologia agraria (in sostituzione di "istituzioni di entomologia agraria");  
+23) Irrigazione e drenaggio (semestrale) (\*);  
+23,5) Microbiologia agraria (in sostituzione di "istituzioni di microbiologia agraria");  
+24,5) Miglioramento genetico delle piante agrarie;  
+25) Orticoltura (semestrale) (\*);  
+25,5) Patologia vegetale (in sostituzione di "istituzioni di patologia vegetale");  
   
-Scuola di specializzazione in Medicina del lavoro  
+Indirizzo "tecnico-economico":  
+21,5) Economia agraria (in sostituzione di "economia e politica agraria");  
+- Politica agraria (in sostituzione di "economia e politica agraria");  
+22) Entomologia agraria (in sostituzione di "istituzioni di entomologia agraria");  
+23) Estimo rurale (in sostituzione di "estimo rurale e contabilita'");  
+- Contabilita' e tecnica amministrativa delle imprese in agricoltura (in sostituzione di "estimo rurale e contabilita'");  
+24) Economia del mercato dei prodotti agricoli;  
+25) Idraulica agraria;  
+- Meccanizzazione agricola (in sostituzione di "meccanica e meccanizzazione agricola");  
+25,5) Patologia vegetale (in sostituzione di "istituzioni di patologia vegetale").  
   
-Art. 116. - La durata del corso e' di due anni.  
-Il numero degli iscritti alla Scuola e' fissato ad un massimo di venti per il primo anno di corso.  
-Le materie di insegnamento sono:  
-Patologia del lavoro;  
-Ematologia professionale;  
-Igiene del lavoro;  
-Traumatologia del lavoro;  
-Psicologia del lavoro;  
-Fisiologia del lavoro ed ergonomia;  
-Assicurazioni sociali;  
-Medicina preventiva dei lavoratori;  
-Malattie infettive di origine professionale e zoonosi;  
-Dermatologia professionale;  
-Tecnologia industriale;  
-Statistica sanitaria;  
-Ingegneria sanitaria.  
-Tutti i corsi teorici vengono tenuti durante il primo anno ed hanno la durata di 16 settimane effettive con lezioni al lunedi, mercoledi e venerdi, dalle ore 9 alle 12.  
-L'insegnamento di "Tecnologia industriale" prevede visite a stabilimenti industriali.  
-Al termine del ciclo di lezioni di ciascun insegnamento si tiene un esame orale.  
-Il secondo anno di corso e' riservato ai tirocini pratici, ed ha la durata di sette mesi. Esso comprende: tirocinio in ambulatori di fabbrica (due mesi), tirocinio in ambulatori di traumatologia (un mese), tirocinio in clinica (quattro mesi).  
-Al fine del corso gli specializzandi devono sostenere un esame scritto e orale di "Medicina del lavoro".  
-L'art. 119, relativo alla Scuola di specializzazione in Oculistica, e' abrogato e sostituito dal seguente:  
+(\*) Discipline che in determinati orientamenti possono essere sostituite dalla facolta' con corsi a svolgimento piu' ampio, purche' attivate e afferenti alla stessa area disciplinare, fermo restando in 31 il numero complessivo delle annualita'.  
   
-Scuola di specializzazione in Oculistica  
+Indirizzo "zootecnico":  
+21,5) Fisiologia degli animali in produzione zootecnica;  
+22) Foraggicoltura (semestrale);  
+22,5) Microbiologia agraria (in sostituzione di "istituzioni di microbiologia agraria");  
+23,5) Nutrizione e alimentazione animale;  
+- Zootecnica generale e miglioramento genetico (in sostituzione di "zootecnica");  
+24,5) Zootecnica speciale I;  
+25,5) Zootecnica speciale II.  
   
-Art. 119. - La durata del corso e' di tre anni.  
-Il numero degli iscritti alla Scuola e' fissato ad un massimo di otto per il primo anno di corso.  
-Le materie d'insegnamento sono:  
-1° Anno:  
-1) Anatomia ed embriologia dell'apparato oculare;  
-2) Fisiologia dell'apparato oculare;  
-3) Semeiotica oculare;  
-4) Patologia oculare (I);  
-5) Ottica fisiologica ed anomalie della rifrazione;  
-6) Igiene e profilassi oculare;  
-7) Oftalmoscopia (I).  
-2° Anno:  
-1) Oftalinoscopia (II);  
-2) Patologia oculare (II);  
-3) Radiodiagnostica e radioterapia in oftalmologia;  
-4) Clinica oculistica (I);  
-5) Anatomia ed istologia dell'apparato oculare;  
-6) Terapia delle malattie oculari (I);  
-7) Tecnica operatoria (I).  
-3° Anno:  
-1) Terapia delle malattie oculari (II);  
-2) Tecnica operatoria (II) - Esame;  
-3) Neuropatologia oculare;  
-4) Medicina legale ed infortunistica oculare;  
-5) Clinica, oculistica (II) - Esame;  
-6) Nozioni di Pleottica e di Ortottica;  
-7) Rinologia e malattie oculari.  
-L'art. 120, relativo alla Scuola di specializzazione in Odontoiatria e protesi dentaria, e' abrogato e sostituito dal seguente nuovo ordinamento e con la seguente nuova denominazione.  
+Orientamenti:  
+Ogni indirizzo e' articolato in "orientamenti" stabiliti dalla facolta' nel manifesto annuale in base agli insegnamenti attivati.  
+Ciascun orientamento viene definito da un gruppo di discipline, il cui numero concorre al raggiungimento di complessive trentuno annualita', scelto dallo studente fra gruppi predisposti dalla facolta'.  
   
-Scuola di specializzazione in Clinica odontoiatrica e stomatologica   
-Art. 120. - La durata del corso e' di due anni.  
-Il numero degli iscritti alla Scuola e' fissato ad un massimo di trenta per il primo anno di corso.  
-Le materie d'insegnamento sono:  
-1° Anno:  
-Patologia orale;  
-Patologia dentale e semeiotica;  
-Paradontologia propedeutica;  
-Chirurgia dentale e anestesiologia;  
-Endodontia;  
-Gnato-ortopedia;  
-Propedeutica protesica;  
-Propedeutica radiologica;  
-Propedeutica odontotecnica;  
-Materiali;  
-Morfologia e istologia dentale.  
-Esercitazioni:  
-Odontoiatria conservativa (al manichino);  
-Chirurgia dentale;  
-Endodontia.  
-2° Anno:  
-Odontoiatria infantile;  
-Chirurgia orale;  
-Clinica gnato-ortopedica;  
-Clinica paradontologica;  
-Clinica protesica totale;  
-Clinica protesica parziale;  
-Riabilitazione protesica fissa;  
-Radiologia.  
-Esercitazioni:  
-Protesi - Gnato-ortopedia - Paradontopatie - Endodontia.  
-Inoltre lezioni integrative:  
-Anatomia - Otorinolaringoiatria - Clinica dermosifilopatica - Medicina legale.  
-Al termine di ciascun anno gli allievi che abbiano regolarmente frequentato il corso dovranno superare colloqui nelle singole materie prima di essere ammessi ad un esame di profitto.  
-L'art. 122, relativo alla Scuola di specializzzazione in Ostetricia e ginecologia, e' abrogato e sostituito dal seguente:  
+Art. 62. - Non potranno essere ammessi agli esami del III, IV e V anno gli studenti che non abbiano superato quelli di matematica, fisica, chimica generale e inorganica e chimica organica.  
   
-Scuola di specializzazione in Ostetricia e ginecologia  
+Art. 63 - Laurea. - Lo studente per accedere all'esame di laurea dovra' aver seguito i corsi e superato gli esami relativi a trentuno discipline annuali o equivalenti (due discipline semestrali equivalgono ad una annuale), avere elaborato una tesi di laurea derivante da ricerca o progettazione o sperimentazione originali ed avere effettuato un tirocinio pratico-applicativo della durata minima da tre e sei mesi presso aziende della facolta' o aziende riconosciute dalla facolta' con apposite convenzioni ed indicate sul manifesto annuale degli studi.  
+Superato l'esame di laurea lo studente consegue il titolo di dottore in scienze agrarie con l'indicazione dell'indirizzo seguito.  
   
-Art. 122. - La durata del corso e' di quattro anni.  
-Il numero degli iscritti alla Scuola e' fissato ad un massimo di dieci per il primo anno di corso.  
-Le materie di insegnamento sono:  
-1° Anno:  
-Embriogenesi, anatomia, fisiologia dell'apparato genitale femminile;  
-Endocrinologia ostetrica ginecologica;  
-Fisiologia della gravidanza del parto del puerperio;  
-Fisiologia dell'utero partoriente;  
-Fisiologia e fisiopatologia della: mestruazione;  
-Eugenetica e genetica umana.  
-2° Anno:  
-La patologia gravidica e la patologia medica in gravidanza;  
-Le distocie;  
-La patologia puerperale;  
-La patologia emocoagulatoria, le emopatie, la emoterapia in ostetricia e ginecologia;  
-Puericoltura prenatale;  
-Urologia ostetrica e ginecologia;  
-Radiologia, radio-diagnostica radioterapia ostetrica e ginecologica.  
-3° Anno:  
-Diagnostica generale ostetrica e ginecologica. Le diagnosi di laboratorio. La colpocitologia;  
-Oncologia generale ginecologica. Anatomia patologica;  
-Puericoltura prenatale e post-natale. Fisiopatologia e patologia neonatale;  
-Neuropsichiatria ostetrica e ginecologica;  
-Medicina forense in ostetricia Anestesia nel parto e nelle operazioni ostetriche e ginecologiche;  
-Operazioni ostetriche e tecnica operativa.  
-4° Anno:  
-Patologia del lavoro e gravidanza: profilassi in gravidanza;  
-Ortopedia neonatale e infantile;  
-Malattie chirurgiche del neonato;  
-La patologia del neonato e dei lattante;  
-Dimostrazioni cliniche ed esercitazioni diagnostiche (30 e 4° anno);  
-Internato fisso obbligatorio per almeno un semestre nel secondo biennio.  
-L'art. 125, relativo alla. Scuola di specializzazione in psichiatria il terzo e quarto comma sono abrogati e sostituiti dai seguenti: "La Scuola ha sede presso lo Istituto di clinica psichiatrica.  
-Direttore della Scuola e' il direttore dell'Istituto di psichiatria".  
-Il sesto comma e' abrogato e sostituito dal seguente:  
-"Durante i tre anni di corso gli specializzandi debbono prestare servizio di internato nei reparti dello Istituto di psichiatria e in quelli della Clinica delle malattie nervose e mentali, ai quali vengono assegnati".  
-L'art. 147, relativo alla Scuola di specializzazione in Scienza dell'alimentazione e dietetica, il primo comma e' abrogato e sostituito dal seguente: "Il direttore della Scuola e' il professore ufficiale di Chimica biologica".  
-Dopo l'art. 171, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione delle Scuole di specializzazione in Medicina nucleare ed in Chirurgia dell'infanzia con il conseguente spostamento della numerazione degli articoli successivi.  
+Art. 64 - Elenco in ordine alfabetico delle discipline del corso di laurea in scienze agrarie.  
   
-Scuola di specializzazione in Medicina nucleare  
+A  
   
-Art. 172. - La durata del corso e' di due anni.  
-I posti disponibili per il primo anno sono otto.  
-Si possono iscrivere i laureati in medicina e chirurgia.  
-Le materie d'insegnamento sono:  
-1° Anno:  
-1) Fondamenti fisici e tecnici;  
-2) Fondamenti biologici;  
-3) Fondamenti metodologici;  
-4) Applicazioni diagnostiche;  
-5) Applicazioni terapeutiche;  
-6) Radioprotezione.  
-Gli allievi debbono sostenere esami di profitto nelle materie di insegnamento.  
+Acarologia agraria  
+Acquicoltura  
+Agricoltura e sviluppo economico  
+Agrometeorologia  
+Agrometeorologia e climatologia  
+Agronomia  
+Agronomia generale  
+Agronomia generale e coltivazioni erbacee  
+Agronomia montana  
+Agronomia tropicale e sub-tropicale  
+Agrotecnica e conservazione del suolo  
+Agrumicoltura  
+Algologia  
+Allevamento degli animali di interesse faunistico e venatorio  
+Alimentazione e nutrizione umana  
+Alpicoltura (prati, pascoli e colture di montagna)  
+Analisi chimico-agrarie  
+Analisi chimico-biologica degli alimenti zootecnici  
+Analisi contabile in agricoltura  
+Analisi dei residui di fitofarmaci  
+Analisi dei prodotti alimentari  
+Analisi dei sistemi produttivi  
+Anatomia, fisiologia e morfologia degli animali domestici  
+Anatomia vegetale  
+Antiparassitari agricoli  
+Apicoltura  
+Apicoltura e bachicoltura  
+Applicazioni fitoiatriche  
+Approvigionamenti e industrie degli alimenti di origine animale  
+Approvvigionamento dei prodotti agricoli e alimentari  
+Approvvigionamento energetico in agricoltura  
+Approvvigionamento idrico per l'agricoltura  
+Arboricoltura generale  
+Arboricoltura speciale  
+Architettura rurale  
+Aridocoltura  
+Assetto del territorio agricolo e forestale  
+Avicoltura  
   
-Scuola di specializzazione in Chirurgia dell'infanzia  
+B  
   
-Art. 173. - La durata del corso di studi per il conseguimento della specialita' in chirurgia dell'infanzia e fissato in anni due.  
-Il numero degli iscritti alla Scuola e' fissato ad un massimo di dieci per il primo anno di corso.  
-Art. 174. - La direzione della Scuola e' affidata al titolare dell'insegnamento di Clinica chirurgica generale.  
-Art. 175. - Possono ottenere l'iscrizione alla Scuola, previo esame di ammissione, i laureati in medicina e chirurgia che siano in possesso del diploma di specialista in Chirurgia generale, o abbiano conseguito la libera docenza in Clinica o Patologia o Semeiotica o Anatomia chirurgica o Chirurgia pediatrica.  
-Art. 176. - Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali, oltre ad un periodo di internato obbligatorio.  
-Art. 177. - Gli argomenti impartiti dalla Scuola sono i seguenti:  
-1° Anno:  
-Anatomia patologica delle malattie chirurgiche dell'infanzia e teratologia;  
-Patologia chirurgica e semeiotica chirurgica;  
-Diagnostica radiologica delle malattie chirurgiche della infanzia;  
-Diagnostica e clinica delle malattie cardiocircolatorie dell'infanzia;  
-Clinica pediatrica;  
-Anestesia e rianimazione;  
-Clinica chirurgica (biennale).  
-2° Anno:  
-Chirurgia plastica nell'infanzia;  
-Otorinolaringologia nell'infanzia;  
-Ortopedia e traumatologia nell'infanzia;  
-Urologia nell'infanzia;  
-Neurochirurgia nell'infanzia;  
-Chirurgia d'urgenza nell'infanzia;  
-Chirurgia cardio-toracica nell'infanzia;  
-Clinica chirurgica (biennale).  
-Art. 178. - La frequenza alle lezioni ed alle conferenze e' obbligatoria al pari del periodo di internato.  
-Art. 179. - Al termine di ciascun anno accademico gli specializzandi che abbiano ottenuto le firme di frequenza, dovranno sostenere gli esami di profitto nelle materie oggetto di insegnamento; l'esame di Clinica chirurgica viene sostenuto alla fine del secondo anno di corso.  
-Art. 180. - Al termine del corso di specializzazione gli specializzandi dovranno presentare una dissertazione scritta su argomento attinente al corso stesso e sostenere l'esame di diploma secondo le norme speciali per le Scuole di specializzazione della Facolta'.  
-Art. 174 (gia' 155), contenente norme comuni alle Scuole di specializzazione in Coltivazioni irrigue ed in Zootecnica presso la, Facolta' di agraria, sono aggiunti i seguenti commi:  
-"Per essere ammessi alle Scuole predette occorre:  
-a) presentare domanda su carta legale diretta al rettore, corredata dai documenti indicati nel manifesto pubblicato annualmente dall'Universita';  
-b) versare le tasse, soprattasse e gli eventuali contributi che verranno stabiliti di anno in anno, dal Consiglio di amministrazione uditi il Senato accademico ed il Consiglio di Facolta'".  
+Bachicoltura  
+Batteriologia fitopatologica  
+Biochimica  
+Biochimica agraria  
+Biochimica degli alimenti  
+Biochimica del suolo  
+Biochimica industriale  
+Biochimica vegetale  
+Biochimica zootecnica  
+Biofisica  
+Biologia agraria  
+Biologia cellulare  
+Biologia generale  
+Biologia, produzione e tecnologia delle sementi  
+Biomatematica  
+Biotecnologia dei microorganismi fotosintetici  
+Biotecnologia delle fermentazioni  
+Botanica  
+Botanica agraria  
+Botanica forestale  
+Botanica generale  
+Botanica sistematica  
+  
+C  
+  
+Cartografia e fotointerpretazione agricola  
+Catasto terreni e fabbricati  
+Cerealicoltura  
+Chimica  
+Chimica agraria  
+Chimica analitica  
+Chimica analitica e strumentale  
+Chimica degli antiparassitari  
+Chimica dei composti unici  
+Chimica e biochimica dei fitofarmaci e dei fitoregolatori  
+Chimica del suolo  
+Chimica della fertilizzazione  
+Chimica delle acque per uso irriguo  
+Chimica delle fermentazioni  
+Chimica delle sostanze naturali  
+Chimica e tecnologia degli aromi alimentari  
+Chimica forestale  
+Chimica generale ed inorganica  
+Chimica lattiero-casearia  
+Chimica organica  
+Chimica propedeutica I per agraria  
+Chimica propedeutica II per agraria  
+Citologia ed embriologia vegetale  
+Citogenetica vegetale  
+Citogenetica zootecnica  
+Citotassonomia vegetale  
+Classificazione agronomica e cartografia dei suoli  
+Climatologia  
+Climatologia e geopedologia  
+Coltivazione delle specie aromatiche e medicinali  
+Coltivazione e conservazione dei foraggi  
+Coltivazioni arboree  
+Coltivazioni arboree da legno e da frangivento  
+Coltivazioni erbacee  
+Coltivazioni erbacee delle regioni tropicali e sub-tropicali  
+Coltivazioni erbacee speciali  
+Coltivazioni legnose ornamentali  
+Colture erbacee industriali  
+Colture protette  
+Commercio internazionale dei prodotti agricoli  
+Complementi di costruzioni rurali  
+Complementi di idraulica agraria  
+Complementi di meccanica agraria  
+Coniglicoltura e allevamento degli animali da pelliccia e da laborat.  
+Contabilità e tecnica amministrativa delle imprese in agricoltura  
+Controllo degli inquinamenti in agricoltura  
+Controllo delle attività vegetative e riproduttive in arboricoltura  
+Controllo e climatizzazione degli ambienti agricoli  
+Cooperazione ed associazione in agricoltura  
+Costruzioni ed impianti per coltivazioni protette  
+Costruzioni rurali  
+Costruzioni rurali e topografia  
+Costruzioni stradali forestali ed agrarie  
+Costruzioni zootecniche  
+D  
+  
+Danni alle colture da avversità atmosferiche  
+Demografia zootecnica  
+Detergenza e sanificazione degli impianti delle industrie alimentari Diagnostica e terapia fitopatologica  
+Diagnostica e terapia fitovirologica  
+Difesa degli alimenti dagli animali infestanti  
+Difesa e conservazione del suolo  
+Diritto agrario  
+Diritto agrario pubblico  
+Diritto regionale  
+Disegno tecnico e materiali  
+Diserbanti  
+E  
+  
+Entomologia forestale  
+Entomologia forestale tropicale e sub-tropicale  
+Ecofisiologia vegetale  
+Ecologia ed epidemiologia dei virus dei vegetali  
+Ecologia forestale  
+Ecologia microbica  
+Ecologia vegetale agraria  
+Ecologia zootecnica  
+Econometria agraria  
+Economia agraria  
+Economia degli investimenti pubblici e privati in agricoltura  
+Economia del mercato dei mezzi tecnici in agricoltura  
+Economia del mercato dei prodotti agricoli  
+Economia del mercato dei prodotti forestali  
+Economia del mercato dei prodotti zootecnici  
+Economia del mercato fondiario  
+Economia della meccanizzazione in agricoltura  
+Economia della produzione ittica  
+Economia delle industrie agro-alimentari  
+Economia e pianificazione dei Paesi tropicali e sub-tropicali  
+Economia e politica agraria  
+Economia e politica forestale  
+Economia ed estimo forestale  
+Economia montana e forestale  
+Elementi di fisica  
+Elementi di matematica  
+Elementi di meccanica applicata alle macchine agricole  
+Elementi di patologia vegetale  
+Elementi di scienza e tecnica delle costruzioni  
+Elettrificazione agricola  
+Enologia  
+Entomologia agraria  
+Entomologia agraria generale  
+Entomologia agraria speciale  
+Entomologia agraria tropicale e sub-tropicale  
+Entomologia delle piante ortensi, da fiore e ornamentali  
+Entomologia frutticola  
+Entomologia medica  
+Entomologia merceologica  
+Entomologia urbana  
+Entomologia veterinaria  
+Enzimologia  
+Epidemiologia e previsione delle malattie delle piante  
+Ergotecnica e organizzazione aziendale  
+Ergotecnica, infortunistica e organizzazione del lavoro in agricolt.  
+Esercitazioni di analisi chimica dei prodotti alimentari  
+Estimo forestale e contabilità  
+Etnologia ed etnografia zootecnica  
+Etologia degli animali in produzione zootecnica  
+Estimo rurale  
+Estimo rurale e contabilità  
+F  
+  
+Fertilità del suolo e nutrizione delle piante  
+Finanziamento e credito in agricoltura  
+Fisica  
+Fisica del terreno agrario  
+Fisica tecnica  
+Fisica tecnica applicata all'agricoltura  
+Fisiologia degli animali in produzione zootecnica  
+Fisiologia delle piante coltivate  
+Fisiologia e tecnica della riproduzione animale  
+Fisiologia post-raccolta dei prodotti frutticoli  
+Fisiologia post-raccolta dei prodotti ortofloricoli  
+Fisiologia vegetale  
+Fisiopatologia degli animali in produzione zootecnica  
+Fisiopatologia vegetale  
+Fitofarmaci  
+Fitogeografia ed ecologia vegetale  
+Fitoiatria  
+Fitomizologia  
+Fitopatie da frigoconservazione  
+Fitopatie non parassitarie  
+Fitormoni e fitoregolatori in arboricoltura  
+Fitotossicità degli inquinanti ambientali  
+Flora mellifora e impollinazione  
+Floricoltura  
+Fondamenti di chimica agraria  
+Fondamenti di idrotecnica per l'agricoltura  
+Foraggicoltura  
+Frutticoltura  
+Frutticoltura protetta  
+Frutticoltura tropicale e sub-tropicale  
+Fitormoni e fitoregolatori in ortofloricoltura  
+Fitosociologia  
+G  
+  
+Genesi, classificazione e cartografia dei suoli  
+Genetica agraria  
+Genetica biometrica  
+Genetica dei microrganismi  
+Genetica della produzione sementiera  
+Geobotanica  
+Geologia applicata  
+Geopedologia  
+  
+I  
+  
+Idraulica agraria  
+Idrologia agraria  
+Idrologia e pianificazione delle risorse idriche (facoltà di agraria) Igiene degli allevamenti e profilassi  
+Igiene per l'industria alimentare  
+Immunogenetica zootecnica  
+Impianti aziendali  
+Impianti speciali irrigui ed automazione  
+Industrie agrarie  
+Industrie alimentari dei prodotti di origine animale  
+Industrie chimico-forestali  
+Infestanti del legname  
+Infrastrutture territoriali agrarie e forestali  
+Ingegneria ambientale dei sistemi agricoli e forestali  
+Ingegneria genetica  
+Ingegneria zootecnica  
+Interazioni macchine e prodotti agricoli  
+Irrigazione e drenaggio  
+Ispezione degli alimenti di origine animale  
+Ispezione fitosanitaria dei prodotti annonari vegetali  
+Istituzioni di agricoltura  
+Istituzioni di economia  
+Istituzioni di economia politica  
+Istituzioni di economia e di statistica agraria  
+Istituzioni di entomologia agraria  
+Istituzioni di genio rurale  
+Istituzioni di microbiologia agraria  
+Istituzioni di patologia vegetale  
+Istituzioni di statistica economico-agraria  
+Istituzioni di tecnologie alimentari  
+Istituzioni e servizi internazionali in agricoltura  
+  
+L  
+  
+Legislazione agraria  
+Legislazione alimentare  
+Legislazione forestale  
+Legislazione zootecnica  
+Lotta alle malerbe  
+Lotta biologica e integrata  
+Lingua francese  
+Lingua inglese  
+Lingua russa  
+Lingua spagnola  
+Lingua tedesca  
+M  
+  
+Macchine agricole  
+Macchine ed impianti di industrie agro-alimentari  
+Macchine per la sistemazione dei terreni agricoli  
+Malattie delle colture industriali da legno  
+Matematica  
+Materiali e tecnica delle costruzioni rurali  
+Meccanica agraria  
+Meccanica del suolo ed interazione macchina terreno  
+Meccanica e meccanizzazione agricola  
+Meccanizzazione agricola  
+Meccanizzazione agricolo-forestale  
+Meccanizzazione degli impianti zootecnici  
+Meccanizzazione delle colture tropicali e sub-tropicali  
+Metodi di lotta chimica contro le crittogame  
+Metodi numerici e statistici applicati all'agricoltura  
+Metodi statistici in economia agraria  
+Metodologia dell'assistenza tecnica e divulgazione in agricoltura  
+Metodologia della pratica estimativa  
+Metodologia sperimentale in agricoltura  
+Metodologia statistica e sperimentale in agricoltura  
+Metodologia statistica in agricoltura  
+Metodologie avanzate di selezione genetica  
+Metodologie di gestione della meccanizzazione agricola  
+Metodologie di selezione per la resistenza genetica alle avversità  
+Micologia  
+Micologia agraria  
+Micologia fitopatologica  
+Microbiologia agraria  
+Microbiologia degli alimenti di originale animale  
+Microbiologia dei prodotti alimentari  
+Microbiologia del terreno  
+Microbiologia dell'apparato digerente degli animali  
+Microbiologia delle acque  
+Microbiologia enologica  
+Microbiologia forestale  
+Microbiologia generale  
+Microbiologia industriale  
+Microbiologia lattiero-casearia  
+Microbiologia marina  
+Miglioramento genetico degli alberi forestali  
+Miglioramento genetico degli animali in produzione zootecnica  
+Miglioramento genetico delle piante agrarie  
+Miglioramento genetico delle piante legnose da frutto  
+Mineralogia del suolo  
+Mineralogia e geologia  
+Modellistica e programmazione delle aziende in agricoltura  
+Motori e trattrici agricole  
+N  
+  
+Nematologia agraria  
+Neuroendocrinologia degli animali in produzione zootecnica  
+Nutrizione e alimentazione animale  
+Nutrizione minerale delle piante  
+O  
+  
+Olivicoltura  
+Ordinamento e gestione delle industrie zootecniche  
+Organizzazione del lavoro in agricoltura  
+Organizzazione di mercato dei prodotti agricolo-alimentari  
+Organizzazione e gestione dell'azienda agraria  
+Orticoltura  
+Orticoltura e floricoltura  
+Orticoltura e floricoltura tropicale e sub-tropicale  
+P  
+  
+Paesaggistica, parchi e giardini  
+Parassitologia  
+Parassitologia animale dei vegetali  
+Pascoli e foraggere tropicali e sub-tropicali  
+Patologia apicola  
+Patologia dei prodotti e delle derrate agrarie  
+Patologia del legno e derivati  
+Patologia delle colture protette  
+Patologia delle piante da frutto  
+Patologia delle piante ornamentali e da fiore  
+Patologia delle piante ortensi  
+Patologia delle piante tropicali e sub-tropicali  
+Patologia delle sementi  
+Patologia generale delle piante  
+Patologia vegetale  
+Patologia vegetale forestale  
+Pedologia  
+Pedologia forestale  
+Pedologia tropicale e sub-tropicale  
+Pianificazione agricola ed organizzazione del territorio  
+Pianificazione e gestione delle risorse idriche  
+Pianificazione e gestione economica del territorio  
+Pianificazione e programmazione economica in agricoltura  
+Piante ornamentali  
+Piante parassitarie e nocive alle colture agrarie  
+Politica agraria  
+Politica agraria comparata  
+Politica agraria della Comunità economica europea  
+Pomologia  
+Principi di economia agraria  
+Principi e metodi di applicaz. della lotta chimica contro gli insetti Prodotti chimici di uso agrario  
+Produzione delle sementi ortive e floreali  
+Programmazione economica in agricoltura ed utilizzaz. delle risorse  
+Propagazione e vivaismo in orticoltura e floricoltura  
+Proprietà fisico-meccaniche dei prodotti agricoli e alimentari  
+Protezione della natura e riassetto del paesaggio  
+R  
+  
+Residui e additivi alimentari  
+Resistenza alle malattie e selezione sanitaria delle piante  
+Ricerca operativa in agricoltura  
+Ricerche di mercato in agricoltura  
+Riordinamento fondiario  
+Risorse genetiche agrarie  
+  
+  
+S  
+  
+  
+  
+  
+Selvicolture e colture industriali da legno  
+Servizi fitopatologici, norme fitosanitarie e quarantena  
+Sistematica ed ecologia delle piante ortive e ornamentali  
+Sistemazioni idrauliche e difesa del suolo  
+Sistemazioni idraulico-forestali  
+Sistemi agricoli comparati  
+Sociologia rurale  
+Statistica agraria  
+Storia dell'agricoltura  
+  
+T  
+  
+Tappeti erbosi  
+Tecnica agronomica dell'irrigazione  
+Tecnica agronomica della fertilizzazione  
+Tecnica degli impianti di riscaldamento e frigoriferi per l'agricolt.  
+Tecnica degli impianti irrigui  
+Tecnica del diserbo  
+Tecnica della bonifica  
+Tecnica della bonifica e dell'irrigazione  
+Tecnica della coltivazione dei funghi  
+Tecnica delle applicazioni frigorifere  
+Tecnica mangimistica  
+Tecnica vivaistica  
+Tecniche delle colture irrigue  
+Tecniche di lotta antiparassitaria  
+Tecniche di protezione delle colture  
+Tecniche di valutazione delle malattie delle piante  
+Tecnologia birraria  
+Tecnologia degli olii, grassi e derivati  
+Tecnologia dei cereali e derivati  
+Tecnologia dei prodotti agrumari  
+Tecnologia dei prodotti alimentari tropicali e sub-tropicali  
+Tecnologia del condizionamento e della distribuzione  
+Tecnologia della conservazione dei prodotti agricoli  
+Tecnologia delle bevande alcooliche  
+Tecnologia delle conserve alimentari  
+Tecnologia delle fermentazioni  
+Tecnologia delle produzioni bovine  
+Tecnologia delle produzioni ovine e caprine  
+Tecnologia delle produzioni suine  
+Tecnologia di conservazione e di trasformazione della frutta  
+Tecnologia lattiero-casearia  
+Tecnologia saccarifera dell'amido e derivati  
+Tecnologie alimentari (operazioni fondamentali, processi)  
+Tecnologie chimico-agrarie  
+Tecnologie energetiche per l'agricoltura  
+Topografia, fotogrammetria e cartografia  
+Topografia rurale  
+Tossine e micotossine di parassiti vegetali  
+Trasformazione e conservazione dei prodotti agricoli  
+Trasformazioni montane e rimboschimento  
+Trattamento dei sottoprodotti degli effluenti  
+e approvvigionamento delle acque  
+Tecniche di lotta biologica  
+Tecnologia delle produzioni equine  
+  
+  
+U  
+  
+  
+  
+  
+Urbanistica rurale  
+Uso e riciclo delle biomasse in agricoltura  
+  
+V  
+  
+Valore alimentare e qualità degli ortaggi  
+Valutazioni ed amministrazione forestali  
+Valutazioni morfo-funzionali degli animali in produzione zootecnica  
+Viabilità rurale  
+Virologia vegetale  
+Virologia vegetale molecolare  
+Virosi delle colture mediterranee  
+Viticoltura  
+Z  
+  
+Zoocolture  
+Zooeconomia  
+Zoologia agraria  
+Zoologia forestale  
+Zoologia forestale, venatoria e acquicoltura  
+Zoologia generale agraria  
+Zoologia speciale agraria  
+Zootecnica  
+Zootecnica generale  
+Zootecnica generale e miglioramento genetico  
+Zootecnica montana  
+Zootecnica speciale I  
+Zootecnica speciale II  
+Zootecnica tropicale e sub-tropicale  
+  
+ELENCO DELLE PREDETTE DISCIPLINE DEL CORSO DI LAUREA IN SCIENZE AGRARIE SUDDIVISE PER AREE DISCIPLINARI  
+  
+Area n. 1 - Agronomia  
+  
+Agrometeorologia  
+Agrometeorologia e climatologia  
+Agronomia  
+Agronomia generale  
+Agronomia generale e coltivazioni erbacee  
+Agronomia montana  
+Agronomia tropicale e sub-tropicale  
+Agrotecnica e conservazione del suolo  
+Alpicoltura (prati, pascoli e colture di montagna)  
+Aridocoltura  
+Biologia, produzione e tecnologia delle sementi  
+Cerealicoltura  
+Classificazione agronomica e cartografia dei suoli  
+Climatologia  
+Coltivazione e conservazione dei foraggi  
+Coltivazioni erbacee  
+Coltivazioni erbacee speciali  
+Coltivazioni erbacee delle regioni tropicali e sub-tropicali  
+Colture erbacee industriali  
+Ecologia vegetale agraria  
+Fisica del terreno agrario  
+Foraggicoltura  
+Istituzioni di agricoltura  
+Lotta alle malerbe  
+Metodologia sperimentale in agricoltura  
+Metodologia statistica e sperimentale in agricoltura  
+Pascoli e foraggere tropicali e sub-tropicali  
+Tecnica agronomica dell'irrigazione  
+Tecnica agronomica della fertilizzazione  
+Tecnica del diserbo  
+Tecnica delle colture irrigue  
+  
+Area n. 2 - Botanica  
+  
+Algologia  
+Anatomia vegetale  
+Biologia agraria  
+Biologia cellulare  
+Biologia generale  
+Botanica  
+Botanica agraria  
+Botanica forestale  
+Botanica generale  
+Botanica sistematica  
+Cartografia e fotointerpretazione agricola  
+Citologia ed embriologia vegetale  
+Citotassonomia vegetale  
+Ecofisiologia vegetale  
+Ecologia forestale  
+Fisiologia delle piante coltivate  
+Fisiologia vegetale  
+Fitogeografia ed ecologia vegetale  
+Fitosociologia  
+Geobotanica  
+Ingegneria ambientale dei sistemi agricoli e forestali  
+Protezione della natura e riassetto del paesaggio  
+  
+Area n. 3 - Chimica agraria  
+  
+Analisi chimico-agrarie  
+Analisi dei residui di fitofarmaci  
+Biochimica agraria  
+Biochimica del suolo  
+Biochimica vegetale  
+Biochimica zootecnica  
+Chimica  
+Chimica agraria  
+Chimica analitica  
+Chimica analitica e strumentale  
+Chimica degli antiparassitari  
+Chimica dei composti unici  
+Chimica del suolo  
+Chimica della fertilizzazione  
+Chimica delle acque per uso irriguo  
+Chimica delle sostanze naturali  
+Chimica e biochimica dei fitofarmaci e dei fitoregolatori  
+Chimica forestale  
+Chimica generale ed inorganica  
+Chimica organica  
+Chimica propedeutica I per agraria  
+Chimica propedeutica II per agraria  
+Controllo degli inquinamenti in agricoltura  
+Fertilità del suolo e nutrizione delle piante  
+Fondamenti di chimica agraria  
+Industrie chimico-forestali  
+Mineralogia e geologia  
+Nutrizione minerale delle piante  
+Prodotti chimici di uso agrario  
+Tecnologie chimico-agrarie  
+Uso e riciclo delle biomasse in agricoltura  
+  
+Arca n. 4 - Coltivazioni arboree  
+  
+Agrumicoltura  
+Arboricoltura generale  
+Arboricoltura speciale  
+Coltivazioni arboree  
+Coltivazioni arboree da legno e da frangivento  
+Coltivazioni legnose ornamentali  
+Controllo delle attività vegetative e riproduttive in arboricoltura  
+Fisiologia post raccolta dei prodotti frutticoli  
+Fitormoni e fitoregolatori in arboricoltura  
+Frutticoltura  
+Frutticoltura protetta  
+Frutticoltura tropicale e sub-tropicale  
+Miglioramento genetico delle piante legnose da frutto  
+Olivicoltura  
+Pomologia  
+Selvicolture e colture industriali da legno  
+Tecnica vivaistica  
+Viticoltura  
+  
+Area n. 5 - Costruzioni rurali  
+  
+Architettura rurale  
+Assetto del territorio agricolo e forestale  
+Complementi di costruzioni rurali  
+Controllo e climatizzazione degli ambienti agricoli  
+Costruzioni ed impianti per coltivazioni protette  
+Costruzioni rurali  
+Costruzioni rurali e topografia  
+Costruzioni stradali forestali ed agrarie  
+Costruzioni zootecniche  
+Elementi di scienza e tecnica delle costruzioni  
+Infrastrutture territoriali agrarie e forestali  
+Materiali e tecnica delle costruzioni rurali  
+Topografia, fotogrammetria e cartografia  
+Topografia rurale  
+Urbanistica rurale  
+Viabilità rurale  
+  
+Area n. 6 - Economico-estimativa  
+  
+Agricoltura e sviluppo economico  
+Analisi contabile in agricoltura  
+Analisi dei sistemi produttivi  
+Approvvigionamento dei prodotti agricoli e alimentari  
+Catasto terreni e fabbricati  
+Commercio internazionale dei prodotti agricoli  
+Contabilità e tecnica amministrativa delle imprese in agricoltura  
+Cooperazione ed associazione in agricoltura  
+Diritto agrario  
+Diritto agrario pubblico  
+Diritto regionale  
+Econometria agraria  
+Economia agraria  
+Economia degli investimenti pubblici e privati in agricoltura  
+Economia del mercato dei mezzi tecnici in agricoltura  
+Economia del mercato dei prodotti agricoli  
+Economia del mercato dei prodotti forestali  
+Economia del mercato dei prodotti zootecnici  
+Economia del mercato fondiario  
+Economia della meccanizzazione in agricoltura  
+Economia della produzione ittica  
+Economia delle industrie agro-alimentari  
+Economia e pianificazione dei Paesi tropicali e sub-tropicali  
+Economia e politica agraria  
+Economia e politica forestale  
+Economia ed estimo forestale  
+Economia montana e forestale  
+Ergotecnica e organizzazione aziendale  
+Estimo forestale e contabilità  
+Estimo rurale  
+Estimo rurale e contabilità  
+Finanziamento e credito in agricoltura  
+Istituzioni di economia  
+Istituzioni di economia politica  
+Istituzioni di economia e di statistica agraria  
+Istituzioni di statistica economico-agraria  
+Istituzioni e servizi internazionali in agricoltura  
+Legislazione agraria  
+Legislazione forestale  
+Legislazione zootecnica  
+Metodi numerici e statistici applicati all'agricoltura  
+Metodi statistici in economia agraria  
+Metodologia dell'assistenza tecnica e divulgazione in agricoltura  
+Metodologia della pratica estimativa  
+Metodologia statistica in agricoltura  
+Metodologia di gestione della meccanizzazione agricola  
+Modellistica e programmazione delle aziende in agricoltura  
+Ordinamento e gestione delle industrie zootecniche  
+Organizzazione del lavoro in agricoltura  
+Organizzazione di mercato dei prodotti agricolo-alimentari  
+Organizzazione e gestione dell'azienda agraria  
+Pianificazione agricola ed organizzazione del territorio  
+Pianificazione e gestione economica del territorio  
+Pianificazione e programmazione economica in agricoltura  
+Politica agraria  
+Politica agraria comparata  
+Politica agraria della Comunità economica europea  
+Principi di economia agraria  
+Programmazione economica in agricoltura ed utilizzaz. delle risorse  
+Ricerca operativa in agricoltura  
+Ricerche di mercato in agricoltura  
+Riordinamento fondiario  
+Sistemi agricoli comparati  
+Sociologia rurale  
+Statistica agraria  
+Storia dell'agricoltura  
+Trasformazioni montane e rimboschimento  
+Valutazioni di amministrazione forestali  
+Zoo-economia  
+  
+Area n. 7 - Entomologia agraria  
+  
+Acarologia agraria  
+Antiparassitari agricoli  
+Apicoltura  
+Apicoltura e bachicoltura  
+Bachicoltura  
+Difesa degli alimenti dagli animali infestanti  
+Entomologia agraria  
+Entomologia agraria generale  
+Entomologia agraria speciale  
+Entomologia agraria tropicale e sub-tropicale  
+Entomologia delle piante ortensi, da fiore e ornamentali  
+Entomologia forestale  
+Entomologia forestale tropicale e sub-tropicale  
+Entomologia frutticola  
+Entomologia medica  
+Entomologia merceologica  
+Entomologia urbana  
+Entomologia veterinaria  
+Fitomizologia  
+Flora mellifora e impollinazione  
+Infestanti del legname  
+Istituzioni di entomologia agraria  
+Lotta biologica e integrata  
+Nematologia agraria  
+Parassitologia  
+Parassitologia animale dei vegetali  
+Patologia apicola  
+Principi e metodi di applicaz. della lotta chimica contro gli insetti Tecniche di lotta antiparassitaria  
+Tecniche di lotta biologica  
+Zoologia agraria  
+Zoologia generale agraria  
+Zoologia speciale agraria  
+Zoologia forestale  
+Zoologia forestale, venatoria e acquicoltura  
+  
+Area n. 8  
+  
+Biofisica  
+Elementi di fisica  
+Fisica  
+  
+Area n. 9 - Idraulica agraria  
+  
+Approvvigionamento idrico per l'agricoltura  
+Complementi di idraulica agraria  
+Fondamenti di idrotecnica per l'agricoltura  
+Idraulica agraria  
+Idrologia agraria  
+Idrologia e pianificazione delle risorse idriche (facoltà di agraria) Impianti speciali irrigui ed automazione  
+Irrigazione e drenaggio  
+Pianificazione e gestione delle risorse idriche  
+Sistemazioni idrauliche e difesa del suolo  
+Sistemazioni idraulico-forestali  
+Tecnica degli impianti irrigui  
+Tecnica della bonifica  
+Tecnica della bonifica e dell'irrigazione  
+  
+Area n. 10 - Industrie agrarie  
+  
+Alimentazione e nutrizione umana  
+Analisi dei prodotti alimentari  
+Biochimica  
+Biochimica degli alimenti  
+Biochimica industriale  
+Chimica e tecnologia degli aromi alimentari  
+Chimica lattiero-casearia  
+Detergenza e sanificazione degli impianti delle industrie alimentari Enologia  
+Enzimologia  
+Esercitazioni di analisi chimica dei prodotti alimentari  
+Fisica tecnica  
+Industrie agrarie  
+Industrie alimentari dei prodotti di origine animale  
+Istituzioni di tecnologie alimentari  
+Legislazione alimentare  
+Proprietà fisico-meccaniche dei prodotti agricoli e alimentari  
+Residui e additivi alimentari  
+Tecnica delle applicazioni frigorifere  
+Tecnologia birraria  
+Tecnologia degli olii, grassi e derivati  
+Tecnologia dei cereali e derivati  
+Tecnologia dei prodotti agrumari  
+Tecnologia dei prodotti alimentari tropicali e sub-tropicali  
+Tecnologia del condizionamento e della distribuzione  
+Tecnologia della conservazione dei prodotti agricoli  
+Tecnologia delle bevande alcooliche  
+Tecnologia delle conserve alimentari  
+Tecnologia di conservazione e di trasformazione della frutta  
+Tecnologia lattiero-casearia  
+Tecnologia saccarifera dell'amido e derivati  
+Tecnologie alimentari (operazioni fondamentali, processi)  
+Trasformazione e conservazione dei prodotti agricoli  
+Trattamento dei sottoprod. degli effluenti e approvvig. delle acque  
+  
+Area n. 11 - Lingue  
+  
+Lingua francese  
+Lingua inglese  
+Lingua russa  
+Lingua spagnola  
+Lingua tedesca  
+  
+Area n. 12 - Matematica  
+  
+Biomatematica  
+Elementi di matematica  
+Matematica  
+  
+Area n. 13 - Meccanica agraria  
+  
+Approvvigionamento energetico in agricoltura  
+Complementi di meccanica agraria  
+Disegno tecnico e materiali  
+Elementi di meccanica applicata alle macchine agricole  
+Elettrificazione agricola  
+Ergotecnica, infortunistica e organizzazione del lavoro in agricolt.  
+Fisica tecnica applicata all'agricoltura  
+Impianti aziendali  
+Interazioni macchine e prodotti agricoli  
+Istituzioni di genio rurale  
+Macchine agricole  
+Macchine ed impianti di industrie agro-alimentari  
+Macchine per la sistemazione dei terreni agricoli  
+Meccanica agraria  
+Meccanica del suolo ed interazione macchina terreno  
+Meccanica e meccanizzazione agricola  
+Meccanizzazione agricola  
+Meccanizzazione agricolo-forestale  
+Meccanizzazione degli impianti zootecnici  
+Meccanizzazione delle colture tropicali e sub-tropicali  
+Motori e trattrici agricole  
+Tecnica degli impianti di riscaldamento e frigoriferi per l'agricolt.  
+Tecnologie energetiche per l'agricoltura  
+  
+Area n. 14 - Microbiologia agraria  
+  
+Biotecnologia dei microrganismi fotosintetici  
+Biotecnologia delle fermentazioni  
+Chimica delle fermentazioni  
+Ecologia microbica  
+Genetica dei microrganismi  
+Igiene per l'industria alimentare  
+Ispezione degli alimenti di origine animale  
+Istituzioni di microbiologia agraria  
+Microbiologia agraria  
+Microbiologia degli alimenti di origine animale  
+Microbiologia dei prodotti alimentari  
+Microbiologia del terreno  
+Microbiologia dell'apparato digerente degli animali  
+Microbiologia delle acque  
+Microbiologia enologica  
+Microbiologia forestale  
+Microbiologia generale  
+Microbiologia industriale  
+Microbiologia lattiero-casearia  
+Microbiologia marina  
+Tecnologia delle fermentazioni  
+  
+Area n. 15 - Miglioramento genetico delle piante agrarie  
+  
+Citogenetica vegetale  
+Genetica agraria  
+Genetica biometrica  
+Genetica della produzione sementiera  
+Ingegneria genetica  
+Metodologie avanzate di selezione genetica  
+Metodologie di selezione per la resistenza genetica alle avversità  
+Miglioramento genetico degli alberi forestali  
+Miglioramento genetico delle piante agrarie  
+Risorse genetiche agrarie  
+  
+Area n. 16 - Orticoltura e floricoltura  
+  
+Coltivazione delle specie aromatiche e medicinali  
+Colture protette  
+Fisiologia post-raccolta dei prodotti ortofloricoli  
+Fitormoni e fitoregolatori in ortofloricoltura  
+Floricoltura  
+Orticoltura  
+Orticoltura e floricoltura  
+Orticoltura e floricoltura tropicale e sub-tropicale  
+Paesaggistica, parchi e giardini  
+Piante ornamentali  
+Produzione delle sementi ortive e floreali  
+Propagazione e vivaismo in orticoltura e floricoltura  
+Sistematica ed ecologia delle piante ortive e ornamentali  
+Tappeti erbosi  
+Tecnica della coltivazione dei funghi  
+Tecniche di protezione delle colture  
+Valore alimentare e qualità degli ortaggi  
+  
+Area n. 17 - Patologia vegetale  
+  
+Applicazioni fitoiatriche  
+Batteriologia fitopatologica  
+Danni alle colture da avversità atmosferiche  
+Diagnostica e terapia fitopatologica  
+Diagnostica e terapia fitovirologica  
+Diserbanti  
+Ecologia ed epidemiologia dei virus dei vegetali  
+Elementi di patologia vegetale  
+Epidemiologia e previsione delle malattie delle piante  
+Fisiopatologia vegetale  
+Fitofarmaci  
+Fitoiatria  
+Fitopatie da frigoconservazione  
+Fitopatie non parassitarie  
+Fitotossicità degli inquinanti ambientali  
+Ispezione fitosanitaria dei prodotti annonari vegetali  
+Istituzioni di patologia vegetale  
+Malattie delle colture industriali da legno  
+Metodi di lotta chimica contro le crittogame  
+Micologia  
+Micologia agraria  
+Micologia fitopatologica  
+Patologia dei prodotti e delle derrate agrarie  
+Patologia del legno e derivati  
+Patologia delle colture protette  
+Patologia delle piante da frutto  
+Patologia delle piante ornamentali e da fiore  
+Patologia delle piante ortensi  
+Patologia delle piante tropicali e sub-tropicali  
+Patologia delle sementi  
+Patologia generale delle piante  
+Patologia vegetale  
+Patologia vegetale forestale  
+Piante parassitarie e nocive alle colture agrarie  
+Resistenza alle malattie e selezione sanitaria delle piante  
+Servizi fitopatologici, norme fitosanitarie e quarantena  
+Tecniche di valutazione delle malattie delle piante  
+Tossine e micotossine di parassiti vegetali  
+Virologia vegetale molecolare  
+Virosi delle colture mediterranee  
+Virologia vegetale  
+  
+Area n. 18 - Pedologia  
+  
+Climatologia e geopedologia  
+Difesa e conservazione del suolo  
+Genesi, classificazione e cartografia dei suoli  
+Geologia applicata  
+Geopedologia  
+Mineralogia del suolo  
+Pedologia  
+Pedologia forestale  
+Pedologia tropicale e sub-tropicale  
+  
+Area n. 19 - Produzione animale  
+  
+Acquicoltura  
+Allevamento degli animali di interesse faunistico e venatorio  
+Analisi chimico-biologica degli alimenti zootecnici  
+Anatomia, fisiologia e morfologia degli animali domestici  
+Approvvigionamenti e industrie degli alimenti di origine animale  
+Avicoltura  
+Citogenetica zootecnica  
+Coniglicoltura e allevamento degli animali da pelliccia e da laborat.  
+Demografia zootecnica  
+Ecologia zootecnica  
+Etnologia ed etnografia zootecnica  
+Etologia degli animali in produzione zootecnica  
+Fisiologia degli animali in produzione zootecnica  
+Fisiologia e tecnica della riproduzione animale  
+Fisiopatologia degli animali in produzione zootecnica  
+Igiene degli allevamenti e profilassi  
+Immunogenetica zootecnica  
+Ingegneria zootecnica  
+Miglioramento genetico degli animali in produzione zootecnica  
+Neuroendocrinologia degli animali in produzione zootecnica  
+Nutrizione e alimentazione animale  
+Tecnica mangimistica  
+Tecnologia delle produzioni bovine  
+Tecnologia delle produzioni equine  
+Tecnologia delle produzioni ovine e caprine  
+Tecnologia delle produzioni suine  
+Valutazioni morfo-funzionali degli animali in produzione zootecnica  
+Zoocolture  
+Zootecnica  
+Zootecnica generale  
+Zootecnica generale e miglioramento genetico  
+Zootecnica montana  
+Zootecnica speciale I  
+Zootecnica speciale II  
+Zootecnica tropicale e sub-tropicale  
+  
+Ogni insegnamento, a giudizio della facolta', nel manifesto potra' avere durata semestrale o annuale.  
+Art. 65. - Sono annessi alla facolta' di agraria:  
+a) le aziende agrarie e i campi sperimentali i cui precipui scopi sono la ricerca sperimentale e il tirocinio degli studenti;  
+b) la stazione sperimentale di zootecnica fondata con [regio decreto 10 maggio 1928, n. 1285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-05-10;1285).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 maggio 1965
+### Dato a Selva di Val Gardena, addi' 2 settembre 1983
 
-SARAGAT GUI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 9 luglio 1965
+Registrato alla Corte dei conti, addi' 14 dicembre 1983
 
-Atti del Governo, registro n. 195, foglio n. 72. - VILLA
+Registro n. 76 Istruzione, foglio n. 307

@@ -1,185 +1,67 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1971 n. 623
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1202
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1971 n. 623
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1202
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 29: all'elenco degli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di "Storia delle tecniche artistiche".
-
-Art. 30: all'elenco degli insegnamenti complementari del corso di laurea in filosofia e' aggiunto quello di "Storia della logica".
-
-Art. 46: all'elenco degli insegnamenti complementari del corso di laurea in pedagogia e' aggiunto quello di "Storia della filosofia morale".
-
-Art. 50: all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:
-
-Gastroenterologia;
-
-Epidemiologia.
-
-Art. 58, relativo al corso di laurea in matematica, nell'elenco degli insegnamenti obbligatori per il secondo biennio l'insegnamento di "Calcolo numerico" (con esercitazioni) dal 4° anno passa al 3° anno, mentre lo insegnamento complementare di cui al n. 4) passa dal 3° al 4° anno.
-
-All'elenco degli insegnamenti complementari del II gruppo sono aggiunti i seguenti:
-
-Indirizzo generale:
-
-Geometria differenziale;
-
-Logica matematica;
-
-Teoria del potenziale.
-
-Indirizzo didattico:
-
-Didattica della fisica;
-
-Didattica delle scienze naturali.
-
-Indirizzo applicativo:
-
-Linguaggi programmativi e programmazione;
-
-Struttura dei calcolatori.
-
-Nello stesso elenco sono soppressi i seguenti insegnamenti:
-
-Indirizzo didattico:
-
-Fisica terrestre.
-
-Indirizzo applicativo:
-
-Fisica terrestre.
-
-Nello stesso art. 58 le propedeuticita' dei punti 2) e 3) sono cosi' modificate:
-
-2) L'esame di geometria I deve precedere quello di geometria II e questo deve precedere l'esame di istituzioni di geometria superiore.
-
-3) L'esame di meccanica razionale deve precedere quello di istituzioni di fisica matematica.
-
-Art. 59: all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di "Paleontologia vegetale".
-
-Art. 63: e' aggiunto il seguente comma: "Oltre alle esercitazioni che sono comprese fra i corsi fondamentali per le lauree in scienze naturali, scienze biologiche, scienze geologiche, col manifesto degli studi saranno prescritte annualmente altre esercitazioni e le eventuali prove per quegli insegnamenti per i quali siano ritenute opportune dalla facolta'".
-
-Art. 104: all'elenco degli insegnamenti complementari della scuola di perfezionamento in storia, indirizzo storia antica, sono aggiunti:
-
-Storia del mediterraneo antico-orientale;
-
-Storia dell'economia antica;
-
-Esegesi delle fonti di storia greca e romana.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 19 maggio 1971
-
-SARAGAT
-
-MISASI
-
-Visto, il Guardasigilli: COLOMBO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 20 agosto 1971 Atti del Governo, registro n. 243, foglio n. 150. - PASQUALUCCI
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sentito il parere del Consiglio superiore della pubblica amministrazione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+l'art. 122, relativo all'elenco delle scuole di specializzazione annessa alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Angiologia" muta denominazione in quella di "Chirurgia vascolare".  
+Gli articoli 254, 255 e 256, relativi alla scuola di specializzazione in angiologia che assume la denominazione di scuola di specializzazione in chirurgia vascolare, sono abrogati e sostituiti dai seguenti:  
   
-Art. 29: all'elenco degli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di "Storia delle tecniche artistiche".  
-Art. 30: all'elenco degli insegnamenti complementari del corso di laurea in filosofia e' aggiunto quello di "Storia della logica".  
-Art. 46: all'elenco degli insegnamenti complementari del corso di laurea in pedagogia e' aggiunto quello di "Storia della filosofia morale".  
-Art. 50: all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
-Gastroenterologia;  
-Epidemiologia.  
-Art. 58, relativo al corso di laurea in matematica, nell'elenco degli insegnamenti obbligatori per il secondo biennio l'insegnamento di "Calcolo numerico" (con esercitazioni) dal 4° anno passa al 3° anno, mentre lo insegnamento complementare di cui al n. 4) passa dal 3° al 4° anno.  
-All'elenco degli insegnamenti complementari del II gruppo sono aggiunti i seguenti:  
-  
-Indirizzo generale:  
-Geometria differenziale;  
-Logica matematica;  
-Teoria del potenziale.  
-  
-Indirizzo didattico:  
-Didattica della fisica;  
-Didattica delle scienze naturali.  
-  
-Indirizzo applicativo:  
-Linguaggi programmativi e programmazione;  
-Struttura dei calcolatori.  
-  
-Nello stesso elenco sono soppressi i seguenti insegnamenti:  
-  
-Indirizzo didattico:  
-Fisica terrestre.  
-  
-Indirizzo applicativo:  
-Fisica terrestre.  
-  
-Nello stesso art. 58 le propedeuticita' dei punti 2) e 3) sono cosi' modificate:  
-2) L'esame di geometria I deve precedere quello di geometria II e questo deve precedere l'esame di istituzioni di geometria superiore.  
-3) L'esame di meccanica razionale deve precedere quello di istituzioni di fisica matematica.  
-Art. 59: all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di "Paleontologia vegetale".  
-Art. 63: e' aggiunto il seguente comma: "Oltre alle esercitazioni che sono comprese fra i corsi fondamentali per le lauree in scienze naturali, scienze biologiche, scienze geologiche, col manifesto degli studi saranno prescritte annualmente altre esercitazioni e le eventuali prove per quegli insegnamenti per i quali siano ritenute opportune dalla facolta'".  
-Art. 104: all'elenco degli insegnamenti complementari della scuola di perfezionamento in storia, indirizzo storia antica, sono aggiunti:  
-Storia del mediterraneo antico-orientale;  
-Storia dell'economia antica;  
-Esegesi delle fonti di storia greca e romana.  
+Scuola di specializzazione in chirurgia vascolare  
+Art. 254 - Presso la clinica chirurgica e' istituita la scuola di specializzazione in chirurgia vascolare, la quale ha lo scopo di conferire adeguata competenza teorica e pratica ai laureati in medicina e chirurgia i quali intendano conseguire il diploma di specializzazione in chirurgia vascolare.  
+La scuola ha la durata di tre anni. Ad essa possono iscriversi soltanto i laureati in medicina e chirurgia.  
+Le norme d'iscrizione, esami, tasse e tutte le altre norme generali sono tutte quelle stabilite nello statuto dell'universita'.  
+Il numero complessivo degli specializzandi e' di trentuno per tutti i tre anni di corso.  
+Art. 255. - Le materie d'insegnamento sono:  
+1° Anno:  
+1) Embriologia, anatomia macro e microscopica dell'apparato vascolare;  
+2) Fisiopatologia dell'apparato vascolare della coagulazione sanguigna;  
+3) Anatomia patologica dell'apparato vascolare;  
+4) Semeiologia fisica e strumentale delle malattie vascolari;  
+5) Semeiologia radiologica delle materie vascolari;  
+6) Vasculopatie di interesse medico e specialistico.  
+2° Anno:  
+7) Patologia e clinica delle malattie del sistema arterioso;  
+8) Patologia e clinica delle malattie del sistema venoso;  
+9) Patologia e clinica delle malattie del sistema linfatico;  
+10) Patologia e clinica delle malattie dei piccoli vasi.  
+3° Anno:  
+11) Nozioni di terapia medica delle malattie vascolari;  
+12) Terapia chirurgica delle malattie vascolari;  
+13) Chirurgia vascolare applicata a malattie dei vari organi.  
+L'insegnamento sara' dottrinario e pratico. Gli iscritti hanno l'obbligo di frequenza sia alle lezioni sia al tirocinio pratico.  
+Art. 256. - Alla fine del triennio gli specializzandi, che abbiano superato gli esami dei tre corsi, dovranno superare una prova orale-teorica ed una prova clinica prima di essere ammessi all'esame di diploma. L'esame di diploma consistera' nella discussione di una tesi scritta su argomenti di chirurgia vascolare.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 maggio 1971
+### Dato a Roma, addi' 30 ottobre 1970
 
 SARAGAT MISASI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALI
 
-Registrato alla Corte dei conti, addi' 20 agosto 1971
+Registrato alla Corte dei conti, addi' 19 gennaio 1971
 
-Atti del Governo, registro n. 243, foglio n. 150. - PASQUALUCCI
+Atti del Governo, registro n. 240, foglio n. 72. - CARUSO

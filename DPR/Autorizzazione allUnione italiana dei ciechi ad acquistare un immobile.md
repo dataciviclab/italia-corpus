@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 agosto 1968 n. 991
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1951 n. 1751
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 agosto 1968 n. 991
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1951 n. 1751
+================================================================
 
 Autorizzazione all'Unione italiana dei ciechi ad acquistare un immobile.
 ------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-991. Decreto del Presidente della Repubblica 7 agosto 1968, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi viene autorizzata ad acquistare, dai fratelli Beretta Emilio e Giovanni, al prezzo di L. 26.000.000, un immobile sito in comune di Brescia, consistente in un appezzamento di terreno sul quale insiste un fabbricato industriale non ancora censito, da destinare a laboratorio dell'istituto professionale per ciechi "Carlo e Giulia Milani", come da atto a rogito avv. Angelo Cicognini, notaio in Orzinuovi (iscritto al distretto notarile di Brescia) in data 22 aprile 1964, n. 4711 rep., n. 2044 pos.  
+1751. Decreto del Presidente della Repubblica 18 dicembre 1951, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi viene autorizzata ad acquistare l'immobile sito in Roma, al viale Parioli n. 55 piano 2° per il prezzo di L. 8.600.000, da adibire a sede del servizio di assistenza e previdenza per i ciechi.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 17 settembre 1968  
-Atti del Governo, registro n. 222, foglio n. 150. - GRECO
+Visto, il Guardasigilli: ZOLI  
+Registrato alla Corte dei conti, addi' 7 febbraio 1952  
+Atti del Governo, registro n. 50, foglio n. 15. - FRASCA

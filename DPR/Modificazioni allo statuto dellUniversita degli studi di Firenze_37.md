@@ -1,46 +1,118 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1968 n. 163
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1963 n. 1505
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1968 n. 163
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1963 n. 1505
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 13 ottobre 1927, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e successivi;
+
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita', accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove, modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 9. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:
+
+16) Diritto dell'economia;
+
+17) Diritto comparato del lavoro
+
+18) Dottrina generale del processo;
+
+19) Papirologia giuridica.
+
+Art. 52. - Agli insegna menti complementari del corso di laurea in Lettere sono aggiunti quelli di:
+
+Filologia biblica;
+
+Letteratura cristiana antica;
+
+Storia del cristianesimo.
+
+Art. 53. - Agli insegnamenti complementari del corso di laurea in Filosofia e' aggiunto quello di: Filosofia della religione.
+
+L'art. 188, relativo ai titoli di ammissione alle Scuole ed ai Corsi di perfezionamento annesse alla Facolta' di lettere e filosofia e' abrogato e sostituito dal seguente:
+
+Art. 188. - Alle Scuole e ai Corsi di perfezionamento possono iscriversi i laureati delle Facolta' di lettere e filosofia e di Magistero".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 22 settembre 1963
+
+SEGNI
+
+GUI
+
+Visto, il Guardasigilli: BOSCO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 15 novembre 1963 Atti del Governo, registro n. 176, figlio n. 4. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 13 ottobre 1927, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita', accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove, modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 20. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche sono aggiunti quelli di:  
-25) Diritto pubblico americano;  
-26) Diritto delle comunita' europee;  
-27) Organizzazione economica internazionale.  
-Art. 52. - Dall'elenco degli insegnamenti complementari del corso di laurea in lettere l'insegnamento di "ebraico e lingue semitiche comparate" e' soppresso ed al suo posto viene istituito quello di "filosofia semitica".  
+  
+Art. 9. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:  
+16) Diritto dell'economia;  
+17) Diritto comparato del lavoro  
+18) Dottrina generale del processo;  
+19) Papirologia giuridica.  
+Art. 52. - Agli insegna menti complementari del corso di laurea in Lettere sono aggiunti quelli di:  
+Filologia biblica;  
+Letteratura cristiana antica;  
+Storia del cristianesimo.  
+Art. 53. - Agli insegnamenti complementari del corso di laurea in Filosofia e' aggiunto quello di: Filosofia della religione.  
+L'art. 188, relativo ai titoli di ammissione alle Scuole ed ai Corsi di perfezionamento annesse alla Facolta' di lettere e filosofia e' abrogato e sostituito dal seguente:  
+Art. 188. - Alle Scuole e ai Corsi di perfezionamento possono iscriversi i laureati delle Facolta' di lettere e filosofia e di Magistero".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 febbraio 1968
+### Dato a Roma, addi' 22 settembre 1963
 
-SARAGAT GUI
+SEGNI GUI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 7 marzo 1968
+Registrato alla Corte dei conti, addi' 15 novembre 1963
 
-Atti del Governo, registro n. 217, foglio n. 131. - GRECO
+Atti del Governo, registro n. 176, figlio n. 4. - VILLA

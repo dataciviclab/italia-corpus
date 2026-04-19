@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1980 n. 959
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 908
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1980 n. 959
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 908
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
@@ -10,19 +10,19 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' degli studi di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
@@ -31,64 +31,98 @@ Sulla
 
 proposta del Ministro della pubblica istruzione; Decreta:
 
-Art. 1
-------
+Articolo unico
+--------------
 
   
-Lo statuto dell'Universita' di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 148 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la seconda scuola di specializzazione in medicina interna.  
-
-Art. 2
-------
-
+Nell'art. 30 dello statuto dell'Universita' degli studi di Milano, all'elenco delle lauree che conferisce la facolta' di scienze matematiche, fisiche e naturali, e' aggiunta la laurea in "Scienze dell'informazione".  
+Dopo l'art. 52, con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo all'istituzione del corso di laurea in scienze dell'informazione:  
   
-Dopo l'art. 264, e con il conseguente spostamento della numerazione successiva, e' inserito il seguente nuovo articolo relativo alla istituzione della seconda scuola di specializzazione in medicina interna.  
-Seconda scuola di specializzazione in medicina interna  
-Art. 265. - La seconda scuola di specializzazione in medicina interna ha sede presso la quinta cattedra di clinica medica dell'Universita' degli studi di Milano.  
-La scuola ha la durata di cinque anni.  
-Il numero degli iscritti e' limitato a cinque per ogni anno di corso.  
-Le materie di insegnamento sono:  
+Laurea in scienze dell'informazione  
+Art. 53. - Durata del corso: quattro anni.  
+Titolo di ammissione: diploma di maturita' classica, di maturita' scientifica, diploma di abilitazione per i provenienti dagli istituti tecnici industriali, nautici, agrari e per geometri.  
+Il corso si distingue in tre indirizzi: indirizzo generale, indirizzo applicativo (gestione), indirizzo tecnico (sistemi per l'elaborazione).  
+A) Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi per il primo biennio:  
 1° Anno:  
-malattie infettive, disreattive e del sangue;  
-istituzioni di terapia;  
-anatomia ed istologia patologica (I corso);  
-clinica medica generale e terapia medica (I corso).  
+1) fisica I;  
+2) analisi matematica I;  
+3) algebra (semestrale);  
+4) geometria (semestrale);  
+5) teoria ed applicazioni delle macchine calcolatrici.  
 2° Anno:  
-malattie dell'apparato cardiovascolare;  
-microbiologia e sierologia;  
-chimica clinica;  
-anatomia ed istologia patologica (II corso);  
-clinica medica generale e terapia medica (II corso).  
-3° Anno:  
-malattie dell'apparato digerente;  
-malattie renali;  
-clinica medica generale e terapia medica (III corso).  
-4° Anno:  
-malattie dell'apparato respiratorio;  
-malattie del sistema nervoso;  
-clinica medica generale e terapia medica (IV corso).  
-5° Anno:  
-malattie del ricambio;  
-malattie delle ghiandole endocrine;  
-clinica medica generale e terapia medica (V corso).  
-Insegnamenti complementari:  
-parassitologia medica;  
-genetica medica;  
-radiologia;  
-semeiotica oculistica.  
-Gli allievi hanno obbligo di frequenza ai fini di apprendimento.  
-Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno. L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali. Alla fine del corso l'allievo, prima di adire l'esame di diploma, deve sostenere un esame generale di profitto.  
+6) fisica II;  
+7) analisi matematica II;  
+8) calcolo numerico (semestrale);  
+9) calcolo delle probabilita' e statistica (semestrale);  
+10) sistemi per l'elaborazione dell'informazione 1;  
+11) ricerca operativa e gestione aziendale.  
+B) Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi per il secondo biennio:  
+12) sistemi per l'elaborazione dell'informazione II;  
+13) teoria dell'informazione e della trasmissione;  
+14) metodi per il trattamento dell'informazione.  
+C) Sono insegnamenti fondamentali obbligatori:  
+a) per l'indirizzo generale:  
+15ª) linguaggi formali e compilatori;  
+16ª) metodi di approssimazione.  
+b) per l'indirizzo applicativo:  
+15b) teoria e metodi dell'ottimizzazione;  
+16b) economia ed organizzazione aziendale (semestrale);  
+17b) trattamento dell'informazione nell'impresa (semestrale).  
+c) per l'indirizzo tecnico:  
+15c) teoria dei sistemi;  
+16c) tecniche numeriche ed analogiche.  
+Insegnamenti complementari commi ai tre indirizzi:  
+1) analisi numerica;  
+2) bioelettronica;  
+3) calcolo delle probabilita';  
+4) cibernetica e teoria dell'informazione;  
+5) complementi di gestione aziendale;  
+6) comunicazioni elettriche;  
+7) controlli automatici;  
+8) controllo dei processi industriali;  
+9) documentazione automatica;  
+10) econometria;  
+11) elaborazione dell'informazione non numerica;  
+12) elaborazione di immagini;  
+13) elaborazione dei testi letterali;  
+14) elettronica;  
+15) fisica numerica;  
+16) fisica superiore;  
+17) istituzioni di fisica teorica;  
+18) istituzioni di analisi superiore;  
+19) istituzioni di fisica matematica;  
+20) linguaggi speciali di programmazione;  
+21) logica matematica;  
+22) macchine calcolatrici analogiche;  
+23) teoria dei modelli;  
+24) progetto di sistemi numerici;  
+25) simulazione;  
+26) statistica;  
+27) tecniche di progettazione automatica;  
+28) tecniche direzionali;  
+29) tecniche speciali di elaborazione;  
+30) teoria degli algoritmi e calcolabilita';  
+31) teoria degli automi;  
+32) teoria dei giochi;  
+33) teoria dei grafi;  
+34) teoria delle decisioni.  
+Alcuni di questi corsi complementari potranno avere la durata semestrale.  
+Ciascuno degli insegnamenti, sia fondamentali che complementari, comporta un esame finale.  
+Ciascun insegnamento fondamentale di un indirizzo puo' essere scelto come insegnamento complementare per altro indirizzo in cui non sia fondamentale.  
+La scelta delle materie complementari da parte dello studente e' sottoposta alla preventiva approvazione della facolta'.  
+Per ottenere l'iscrizione al secondo biennio, lo studente deve aver seguito i corsi e superato gli esami di almeno cinque materie annuali del primo biennio (due corsi semestrali sono valutati come un corso annuale).  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in quattro scelti fra i complementari se a corso semestrale, in almeno tre se uno di essi annuale, o in almeno due se ambedue sono annuali.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1980
+### Dato a Roma, addi' 31 ottobre 1979
 
-PERTINI BODRATO
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 30 dicembre 1980
+Registrato alla Corte dei conti, addi' 7 maggio 1980
 
-Registro n. 122 Istruzione, foglio n. 30
+Registro n. 40 Istruzione, foglio n. 362

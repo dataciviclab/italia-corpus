@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 luglio 1973 n. 569
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 dicembre 1973 n. 1088
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 luglio 1973 n. 569
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 dicembre 1973 n. 1088
+================================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", con sede in Roma, ad accettare un legato.
 -----------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-569. Decreto del Presidente della Repubblica 24 luglio 1973, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare il legato, disposto dal signor Alessandro Baccaglini con testamento olografo del 4 marzo 1969, depositato e pubblicato per rogito dott. Edoardo Colozza, notaio in Roma, in data 13 novembre 1971 (n. 58811 di rep. e n. 10856 di racc.), registrato a Roma in data 17 novembre 1971 al n. 20514 - mod. 71/ M - serie B - vol. 2344, in favore del collegio mutilatini di don Gnocchi che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", consistente in buoni novennali del Tesoro per un valore nominale di L. 30.000.000.  
+1088. Decreto del Presidente della Repubblica 14 dicembre 1973, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare il legato, consistente in un appartamento sito in Roma, piazza S. Martino ai Monti n. 2, int. 3, del valore presunto di L. 2.800.000, disposto dalla sig.ra Dea Oldani ved. Gori con testamento olografo 4 luglio 1968, pubblicato il 14 gennaio 1969, per atto del dott. Vincenzo Pompili, notaio in Roma (n. 37168 di rep. e n. 16115 di prot.), registrato a Roma il 17 gennaio 1969 al n. 697, volume 1080, in favore dell'Istituto don Gnocchi, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi".  
   
 Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 13 settembre 1973  
-Atti di Governo, registro n. 260, foglio n. 22. - VALENTINI
+Registrato alla Corte dei conti, addi' 29 aprile 1974  
+Atti di Governo, registro n. 2, foglio n. 134. - SCIARRETTA

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 552
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1977 n. 98
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 552
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1977 n. 98
+==============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-552. Decreto del Presidente della Repubblica 16 luglio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella quota di 1/3 della nuda proprieta' di titoli di Stato (buoni ordinari del Tesoro) valore nominale L. 85.000.000 quota 1/3 L. 28.333.333, disposta dalla sig.ra Montanari Giuseppina Marietta Rosalinda a favore dello istituito "Don Gnocchi" di Milano, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale 20 novembre 1982 del consiglio di amministrazione della fondazione stessa, per l'acquisto di qualche apparecchiatura scientifica per alleviare le pene dei suoi beneficiati, con testamento olografo 17 aprile 1982 e pubblicato in data 22 giugno 1982, n. 12664 di repertorio e n. 4005 di raccolta, a rogito dott.  
-Vittorio Morandi, notaio in Alessandria, registrato ad Alessandria il 12 luglio 1982 al n. 3119.   
+98. Decreto del Presidente della Repubblica 22 febbraio 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Maria Reverberi con testamento olografo 18 maggio 1970 pubblicato a rogito notaio dott. Angelo Gallizia in data 22 gennaio 1973, n. 7790/1024 di repertorio, registrato a Lodi il 9 febbraio 1973 con il n. 823, vol. 194, consistente nella nuda proprieta' di un immobile sito in Milano, via Goldoni n. 77 distinto nel nuovo catasto edilizio urbano alla partita 40537, mapp. 337/31 del valore presunto di L. 7.000.000.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 11 ottobre 1985   
-Registro n. 9 Presidenza, foglio n. 69
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 29 marzo 1977  
+Registro n. 3 Presidenza, foglio n. 260

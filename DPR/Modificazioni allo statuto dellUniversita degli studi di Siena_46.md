@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1977 n. 586
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 740
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1977 n. 586
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 740
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -10,19 +10,17 @@ Modificazioni allo statuto dell'Universita' degli studi di Siena.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -32,68 +30,162 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 9 - all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza l'insegnamento complementare di esegesi delle fonti del diritto italiano muta la denominazione in quella di storia delle codificazioni moderne.
+Gli articoli 134, 135, 136 relativi alla "Scuola di specializzazione in pediatria" che muta la denominazione in quella di "Scuola di specializzazione in clinica pediatrica" sono abrogati e sostituiti dai seguenti:
 
-Art. 11 - all'elenco degli insegnamenti complementari del corso di laurea in scienze politiche, l'insegnamento complementare di diritto internazionale privato muta denominazione in quella di diritto internazionale privato e processuale.
+Scuola di specializzazione in clinica pediatrica
 
-Nello stesso articolo, tra le materie obbligatorie dell'indirizzo storico-politico e' aggiunto l'insegnamento di istituzioni di diritto privato.
+Art. 134. - L'ammissione al corso e' per esami e per titoli.
 
-Art. 96 - all'elenco degli insegnamenti complementari del biennio di studi propedeutici per le lauree in ingegneria sono aggiunti i seguenti:
+La durata del corso e' triennale.
 
-chimica fisica;
+Il numero degli iscritti e' di venticinque per l'intero corso di studi.
 
-chimica applicata.
+Art. 135. - L'internato e' obbligatorio con non piu' di due mesi di ferie all'anno.
+
+L'iscrizione direttamente al 2° anno di corso puo' essere consentita, a giudizio del consiglio della scuola per i candidati che abbiano conseguito il diploma di specializzazione in puericultura o che abbiano titoli pediatrici.
+
+Art. 136. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+1) Clinica pediatrica (triennale);
+
+2) Patologia pediatrica (triennale);
+
+3) Puericultura (biennale);
+
+4) Semeiotica pediatrica e tecnica diagnostica (biennale);
+
+5) Auxologia normale e patologica;
+
+6) Psicologia dell'eta' evolutiva.
+
+2° Anno:
+
+1) Clinica pediatrica;
+
+2) Patologia pediatrica;
+
+3) Puericultura;
+
+4) Semeiotica pediatrica e tecnica diagnostica;
+
+5) Terapia pediatrica;
+
+6) Radiologia pediatrica;
+
+7) Malattie infettive dell'infanzia.
+
+3° Anno:
+
+1) Clinica pediatrica;
+
+2) Neuropsichiatria ed igiene mentale dell'infanzia.
+
+Le materie fondamentali sopraelencate saranno integrate a giudizio del consiglio della scuola da almeno tre insegnamenti tra i seguenti:
+
+1) Chirurgia pediatrica;
+
+2) Ortopedia e traumatologia infantile;
+
+3) Odontoiatria;
+
+4) Clinica dermosifilopatica;
+
+5) Clinica oculistica;
+
+6) Clinica otorinolaringoiatrica;
+
+7) Cardiologia;
+
+8) Genetica;
+
+ed altre eventuali che il consiglio della scuola puo' stabilire di anno in anno. Il direttore della scuola, inoltre, puo' disporre che si tengano un certo numero di conferenze su argomenti di interesse pediatrico.
+
+Per conseguire il diploma di specializzazione in clinica pediatrica gli iscritti al corso, dopo aver superato tutti gli esami e completata la frequenza obbligatoria, dovranno presentare e discutere una dissertazione scritta su un argomento di pediatria.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 1 giugno 1977
+Dato a Roma, addi' 2 ottobre 1972
 
 LEONE
 
-MALFATTI
+SCALFARO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 30 luglio 1977 Registro n. 92 Istruzione, foglio n. 34
+alla Corte dei conti, addi' 28 novembre 1972 Atti del Governo, registro n. 253, foglio n. 82. - CARUSO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 9 - all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza l'insegnamento complementare di esegesi delle fonti del diritto italiano muta la denominazione in quella di storia delle codificazioni moderne.  
-Art. 11 - all'elenco degli insegnamenti complementari del corso di laurea in scienze politiche, l'insegnamento complementare di diritto internazionale privato muta denominazione in quella di diritto internazionale privato e processuale.  
-Nello stesso articolo, tra le materie obbligatorie dell'indirizzo storico-politico e' aggiunto l'insegnamento di istituzioni di diritto privato.  
-Art. 96 - all'elenco degli insegnamenti complementari del biennio di studi propedeutici per le lauree in ingegneria sono aggiunti i seguenti:  
-chimica fisica;  
-chimica applicata.  
+Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli 134, 135, 136 relativi alla "Scuola di specializzazione in pediatria" che muta la denominazione in quella di "Scuola di specializzazione in clinica pediatrica" sono abrogati e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in clinica pediatrica   
+  
+Art. 134. - L'ammissione al corso e' per esami e per titoli.   
+La durata del corso e' triennale.   
+Il numero degli iscritti e' di venticinque per l'intero corso di studi.   
+Art. 135. - L'internato e' obbligatorio con non piu' di due mesi di ferie all'anno.   
+L'iscrizione direttamente al 2° anno di corso puo' essere consentita, a giudizio del consiglio della scuola per i candidati che abbiano conseguito il diploma di specializzazione in puericultura o che abbiano titoli pediatrici.   
+Art. 136. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+1) Clinica pediatrica (triennale);   
+2) Patologia pediatrica (triennale);   
+3) Puericultura (biennale);   
+4) Semeiotica pediatrica e tecnica diagnostica (biennale);   
+5) Auxologia normale e patologica;   
+6) Psicologia dell'eta' evolutiva.   
+2° Anno:   
+1) Clinica pediatrica;   
+2) Patologia pediatrica;   
+3) Puericultura;   
+4) Semeiotica pediatrica e tecnica diagnostica;   
+5) Terapia pediatrica;   
+6) Radiologia pediatrica;   
+7) Malattie infettive dell'infanzia.   
+3° Anno:   
+1) Clinica pediatrica;   
+2) Neuropsichiatria ed igiene mentale dell'infanzia.   
+Le materie fondamentali sopraelencate saranno integrate a giudizio del consiglio della scuola da almeno tre insegnamenti tra i seguenti:   
+1) Chirurgia pediatrica;   
+2) Ortopedia e traumatologia infantile;   
+3) Odontoiatria;   
+4) Clinica dermosifilopatica;   
+5) Clinica oculistica;   
+6) Clinica otorinolaringoiatrica;   
+7) Cardiologia;   
+8) Genetica;   
+ed altre eventuali che il consiglio della scuola puo' stabilire di anno in anno. Il direttore della scuola, inoltre, puo' disporre che si tengano un certo numero di conferenze su argomenti di interesse pediatrico.   
+Per conseguire il diploma di specializzazione in clinica pediatrica gli iscritti al corso, dopo aver superato tutti gli esami e completata la frequenza obbligatoria, dovranno presentare e discutere una dissertazione scritta su un argomento di pediatria.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 giugno 1977
+### Dato a Roma, addi' 2 ottobre 1972
 
-LEONE MALFATTI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 30 luglio 1977
+Registrato alla Corte dei conti, addi' 28 novembre 1972
 
-Registro n. 92 Istruzione, foglio n. 34
+Atti del Governo, registro n. 253, foglio n. 82. - CARUSO

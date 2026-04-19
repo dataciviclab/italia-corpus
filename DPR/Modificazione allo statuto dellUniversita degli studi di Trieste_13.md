@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1984 n. 553
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 novembre 1982 n. 1047
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1984 n. 553
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 novembre 1982 n. 1047
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazione allo statuto dell'Universita' degli studi di Trieste.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Trieste, approvato con [regio decreto 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1961-10-31;1836), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -39,22 +39,23 @@ Articolo unico
 --------------
 
   
-Art. 48 - all'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti insegnamenti:  
-storia delle civilta' preclassiche;  
-storia del teatro antico;  
-epigrafia ed antichita' cristiane;  
-topografia ed urbanistica del mondo classico.  
+Nell'art. 40, relativo al corso di laurea in economia e commercio, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+economia delle aziende di credito;  
+gestione valutaria delle banche;  
+economia delle aziende industriali;  
+economia delle aziende commerciali.  
+Nel medesimo elenco gli insegnamenti di "problematiche alimentari" e "fonti di energia" mutano la denominazione rispettivamente in quella di "merceologia dei prodotti alimentari" e "merceologia delle fonti di energia".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 maggio 1984
+### Dato a Roma, addi' 8 novembre 1982
 
-PERTINI FALCUCCI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 24 agosto 1984
+Registrato alla Corte dei conti, addi' 10 gennaio 1983
 
-Registro n. 51 Istruzione, foglio n. 71
+Registro n. 1 Istruzione, foglio n. 33

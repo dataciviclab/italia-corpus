@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1205
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 marzo 1955 n. 221
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1205
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 marzo 1955 n. 221
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -10,15 +10,17 @@ Modificazioni allo statuto dell'Universita' degli studi di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli Studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 20 aprile 1939, n. 1118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1118) e modificato con i [regi decreti 12 gennaio 1941, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-01-12;34); [27 aprile 1942, n. 571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;571); [5 settembre 1942, n. 1237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1237); [24 ottobre 1942, n. 1438; con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1438) [4 febbraio 1947, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-04;196) e [7 marzo 1947, n. 1727 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-03-07;1727) [26 febbraio 1949, n. 430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;430); [21 aprile 1949, n. 613](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;613); [1 settembre 1949, n. 816](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-01;816); [13 marzo 1950, n. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;599); [30 ottobre 1950, n. 1125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1125) [31 ottobre 1950, n. 1310](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1310); [30 giugno 1951, n. 1148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-30;1148); [27 ottobre 1951, n. 1794](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1794); [25 luglio 1952, n. 1352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1352); [16 ottobre 1952, n. 4554](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-16;4554); [26 ottobre 1952, n. 4506](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4506); [30 ottobre 1952, n. 4483](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-30;4483); [11 marzo 1953, n. 573](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;573); [11 marzo 1953, n. 576](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;576); [12 ottobre 1953, n. 1046](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-10-12;1046); [2 marzo 1954, n. 181](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-02;181) e [26 aprile 1954, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;741);
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,255 +32,216 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 120. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in neuropsichiatria infantile.
+Art. 9. Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di:
 
-Dopo l'art. 242 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in neuropsichiatria infantile.
+16) "Storia delle dottrine politiche".
 
-Scuola di specializzazione in neuropsichiatria infantile
+Art. 10. - Il secondo comma e' cosi' modificato:
 
-Art. 243. - La durata del corso e' di anni 4.
+"Gli esami di istituzioni di diritto romano e di storia del diritto romano precedono quelli di diritto romano, di esegesi delle fonti del diritto romano, di diritto bizantino, di storia del diritto italiano e del diritto comune".
 
-La sede della scuola: a periodi alterni di due anni: presso la clinica delle malattie nervose e mentali e presso la clinica pediatrica.
+Dopo il secondo comma dell'art. 10 sono aggiunti i seguenti:
 
-Alla direzione si alterneranno ogni due anni il direttore della clinica delle malattie nervose e mentali e il direttore della clinica pediatrica.
+"L'esame di diritto penale precede quello di procedura penale.
 
-La scuola e' retta secondo le norme del regolamento generale per le scuole di specializzazione dell'Universita' di Torino.
+L'esame di diritto costituzionale precede quelli di diritto amministrativo e di diritto internazionale.
 
-Il numero delle iscrizioni e' di venti per ogni anno.
+L'esame di economia politica precede quello di scienza delle finanze.
 
-L'ammissione e' per titoli ed esami.
+L'esame di storia del diritto italiano precede quello di diritto comune".
 
-E' obbligatoria la frequenza alle lezioni e alle esercitazioni.
+Art. 12. - Agli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di:
 
-L'internato e' obbligatorio per sei mesi in clinica pediatrica per gli studenti del 1° anno; di tre mesi in clinica delle malattie nervose e mentali e di tre mesi nell'istituto di clinica psichiatrica per gli studenti del 2° anno; di sei mesi per gli studenti del 3° anno e di sei mesi per gli studenti del 4° anno in clinica delle malattie nervose e mentali e in clinica pediatrica a periodi alterni di pari durata.
+9) "Diritto ecclesiastico".
 
-Nei periodi di internato gli studenti frequenteranno anche istituti e centri specializzati collegati con le cliniche universitarie.
+Art. 25. - Agli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto quello di:
 
-Art. 244. - Le materie sono le seguenti:
+7) "Storia della geografia (storia della scienza e delle esplorazioni)".
 
-1° Anno:
+Art. 27. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto quello di:
 
-1) Anatomia ed embriologia del sistema nervoso;
+5) "Storia della geografia (storia della scienza e delle esplorazioni)".
 
-2) Fisiologia del sistema nervoso con particolare riguardo all'eta' evolutiva;
+Art. 28. - Agli insegnamenti complementari del diploma di abilitazione alla vigilanza nelle scuole elementari e' aggiunto quello di:
 
-3) Genetica;
+2) "Storia della geografia (storia della scienza e delle esplorazioni)".
 
-4) Endocrinologia dell'eta' evolutiva e auxologia;
+Art. 37. - Agli insegnamenti complementari del corso di laurea in chimica (indirizzo organico-biologico) e aggiunto quello di: 16) "Misure elettriche (corso speciale per chimici)".
 
-5) Patologia e clinica pediatrica;
+Art. 39. - Agli insegnamenti complementari del corso di laurea in fisica e' aggiunto quello di: 12) "Onde elettromagnetiche".
 
-6) Tecniche di laboratorio.
+Art. 76. - Il secondo comma e' abrogato e sostituito dai seguenti:
 
-2° Anno:
+"L'ammontare delle tasse e soprattasse sara' deliberato anno per anno dal Consiglio di amministrazione su proposta del Senato accademico, udito il parere del Consiglio della Facolta' di lettere e filosofia.
 
-7) Anatomia patologica del sistema nervoso;
+L'ammontare dei contributi sara' ugualmente stabilito anno per anno dal Consiglio di amministrazione, su proposta del Senato accademico, udite la Facolta' e scuole.
 
-8) Biochimica patologica del sistema nervoso;
+La tassa di diploma e' fissata nella misura di L. 6000, a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7)".
 
-9) Psicologia dell'eta' evolutiva;
+L'art. 82 e' modificato nel senso che la materia "Geografia e topografia storica del mondo antico" e' considerata quale insegnamento aggiuntivo della scuola di discipline storiche e geografiche.
 
-10) Semeiotica e clinica neurologica;
+Art. 86. - Il secondo comma e' sostituito dal seguente:
 
-11) Semeiotica e clinica psichiatrica.
+"Durante gli anni di iscrizione lo studente deve ottenere la firma di iscrizione e di frequenza per almeno tre corsi, scelti fra quelli costitutivi della scuola, e sostenere i relativi esami".
 
-3° Anno:
+Art. 108. - Dopo il n. 23 e' aggiunto quanto appresso:
 
-12) Psicopatologia dell'eta' evolutiva;
+24) Cardioangiochirurgia.
 
-13) Semeiotica e clinica neurologica infantile;
+All'art. 110, relativo ai titoli di ammissione alle scuole di perfezionamento e di specializzazione in medicina e chirurgia e' aggiunto il seguente nuovo comma:
 
-14) Psicodiagnostica dell'eta' evolutiva;
+"Al diploma di specialista in cardioangiochirurgia possono aspirare i laureati in medicina e chirurgia che siano in possesso della libera docenza in patologia speciale chirurgica o in clinica chirurgica o del diploma di specialista in chirurgia generale".
 
-15) Elettrofisiologia;
+Dopo l'art. 183, sono aggiunti i seguenti nuovi articoli, relativi all'istituzione della "Scuola di specializzazione in cardioangiochirurgia".
 
-16) Neuroradiologia;
+Scuola di specializzazione in cardioangiochirurgia
 
-17) Neurochirurgia dell'eta' evolutiva;
+Art. 184. - Per il conseguimento del diploma di specialista in cardioangiochirurgia, si richiedono due anni di corso.
 
-18) Semeiotica e clinica psichiatrica infantile (1° corso).
+Art. 185. - La scuola e' costituita presso l'Istituto di clinica chirurgica generale ed e' posta sotto la direzione e la diretta sorveglianza del titolare della cattedra di clinica chirurgica generale, coadiuvato da professori e docenti proposti e particolarmente preparati in tale materia.
 
-4° Anno:
+Art. 186. - Il materiale didattico e' costituito dai degenti presso il centro di cardiochirurgia e presso il reparto di angiologia della clinica chirurgica, dal materiale anatomo-patologico e dalla documentazione raccolta nel museo, nell'archivio e nella biblioteca dell'Istituto.
 
-19) Clinica psichiatrica infantile;
+Art. 187. - Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali.
 
-20) Terapia generale delle malattie mentali infantili;
+Art. 188. - Gli insegnamenti fondamentali impartiti dalla scuola sono i seguenti:
 
-21) Psicoterapia dell'eta' evolutiva;
+Embriologia, anatomia descrittiva e topografica dell'apparato circolatorio (1° anno);
 
-22) Foniatria;
+Fisiologia dell'apparato circolatorio (1° anno);
 
-23) Psicopedagogia;
+Anatomia patologica (1° anno)
 
-24) Sociologia applicata alla popolazione infantile;
+Semeiotica e diagnostica delle cardiopatie chirurgiche (clinica strumentale, radiologica e di laboratorio) (1° anno);
 
-25) Organizzazione diagnostico-assistenziale e legislazione;
+Semeiotica e diagnostica angiologica (clinica strumentale, radiologica e di laboratorio) (1° anno);
 
-ESAMI
+Fisiopatologia del sistema neuro-vegetativo (1° anno);
 
-1° Anno:
+Patologia e terapia medica cardiologica (2° anno);
 
-1) Embriologia e anatomia del sistema nervoso;
+Fisiopatologia e terapia medica angiologica (2° anno);
 
-2) Fisiologia del sistema nervoso;
+Anestesia e rianimazione (2° anno);
 
-3) Genetica, endocrinologia e auxologia;
+Terapia chirurgica e tecnica operativa (biennale).
 
-4) Patologia e clinica pediatrica.
+Durante i due anni di corso verranno tenute esercitazioni di diagnostica, di laboratorio, di tecnica operativa e dimostrazioni pratiche.
 
-2° Anno:
+Art. 189. - La frequenza alle lezioni, alle conferenze ed alle esercitazioni teoriche e pratiche e' obbligatoria.
 
-5) Anatomia e biochimica patologica del sistema nervoso;
+Art. 190. - Alla fine di ciascun anno accademico i perfezionandi che abbiano ottenuto le firme di frequenza dovranno sostenere un esame di profitto nelle materie fondamentali, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo e per quelli che sono stati iscritti a quest'ultimo, all'esame di diploma.
 
-6) Psicologia dell'eta' evolutiva;
+Art. 191. - Alla fine del secondo anno del corso ha luogo l'esame di diploma, che consiste nella discussione di una dissertazione scritta su argomento di cardiochirurgia e di angiologia, proposto o approvato dal direttore della scuola non oltre l'inizio del secondo anno di corso.
 
-7) Semeiotica e clinica neurologica;
+La dissertazione, approvata dal direttore, dovra' essere depositata presso la Direzione della scuola almeno trenta giorni prima dell'esame.
 
-8) Semeiotica e clinica psichiatrica.
+Art. 192. - La Commissione per gli esami di profitto e' costituita dal direttore della scuola, dal docente della materia e da un altro docente del corso.
 
-3° Anno:
+La Commissione per l'esame di diploma e' formata da sette membri presieduta dal preside della Facolta' o da un professore da lui delegato.
 
-9) Semeiotica e clinica neurologica infantile;
-
-10) Psicopatologia dell'eta' evolutiva;
-
-11) Psicodiagnostica dell'eta' evolutiva.
-
-4° Anno:
-
-12) Semeiotica e clinica psichiatrica infantile;
-
-13) Psicopedagogia;
-
-14) Organizzazione diagnostico-assistenziale e legislazione.
-
-Art. 245. - Norme:
-
-Per ottenere l'iscrizione al 2°, 3° e 4° anno di specializzazione gli iscritti dovranno aver sostenuto gli esami delle materie prescritte per l'anno precedente, tranne che per la clinica psichiatrica infantile il cui esame va sostenuto al 4° anno.
-
-Gli specialisti in clinica delle malattie nervose e mentali o in neurologia o in psichiatria, sono iscritti di ufficio al 2° anno della scuola e sono esentati dal sostenere gli esami di profitto numeri 1), 2), 5), 7), 8) e dall'espletare il periodo di internato in neurologia e psichiatria.
-
-Gli specialisti in clinica pediatrica sono iscritti d'ufficio al 2° anno della scuola e sono esentati dal sostenere esami di profitto numeri 3) e 4) e dall'espletare il periodo di internato del 1° anno.
-
-Per conseguire il diploma di specialista in neuropsichiatria infantile gli iscritti, al termine degli esami, dovranno presentare e discutere una dissertazione scritta su un argomento di neuropsichiatria infantile.
+Di essa faranno parte altri membri scelti dal preside fra i professori ed i liberi docenti dell'Universita' di Torino.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 30 ottobre 1970
+Dato a Roma, addi' 1 marzo 1955
 
-SARAGAT
+EINAUDI
 
-MISASI
+ERMINI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DE PIETRO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 19 gennaio 1971 Atti del Governo, registro n. 240, foglio n. 73. - CARUSO
+alla Corte dei conti, addi' 2 aprile 1955 Atti del Governo, registro n. 90, foglio n. 22. - CARLOMAGNO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli Studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 20 aprile 1939, n. 1118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1118) e modificato con i [regi decreti 12 gennaio 1941, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-01-12;34); [27 aprile 1942, n. 571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;571); [5 settembre 1942, n. 1237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1237); [24 ottobre 1942, n. 1438; con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1438) [4 febbraio 1947, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-04;196) e [7 marzo 1947, n. 1727 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-03-07;1727) [26 febbraio 1949, n. 430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;430); [21 aprile 1949, n. 613](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;613); [1 settembre 1949, n. 816](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-01;816); [13 marzo 1950, n. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;599); [30 ottobre 1950, n. 1125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1125) [31 ottobre 1950, n. 1310](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1310); [30 giugno 1951, n. 1148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-30;1148); [27 ottobre 1951, n. 1794](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1794); [25 luglio 1952, n. 1352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1352); [16 ottobre 1952, n. 4554](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-16;4554); [26 ottobre 1952, n. 4506](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4506); [30 ottobre 1952, n. 4483](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-30;4483); [11 marzo 1953, n. 573](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;573); [11 marzo 1953, n. 576](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;576); [12 ottobre 1953, n. 1046](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-10-12;1046); [2 marzo 1954, n. 181](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-02;181) e [26 aprile 1954, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;741);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 9. Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di:  
+16) "Storia delle dottrine politiche".  
+Art. 10. - Il secondo comma e' cosi' modificato:  
+"Gli esami di istituzioni di diritto romano e di storia del diritto romano precedono quelli di diritto romano, di esegesi delle fonti del diritto romano, di diritto bizantino, di storia del diritto italiano e del diritto comune".  
+Dopo il secondo comma dell'art. 10 sono aggiunti i seguenti:  
+"L'esame di diritto penale precede quello di procedura penale.  
+L'esame di diritto costituzionale precede quelli di diritto amministrativo e di diritto internazionale.  
+L'esame di economia politica precede quello di scienza delle finanze.  
+L'esame di storia del diritto italiano precede quello di diritto comune".  
+Art. 12. - Agli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di:  
+9) "Diritto ecclesiastico".  
+Art. 25. - Agli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto quello di:  
+7) "Storia della geografia (storia della scienza e delle esplorazioni)".  
+Art. 27. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto quello di:  
+5) "Storia della geografia (storia della scienza e delle esplorazioni)".  
+Art. 28. - Agli insegnamenti complementari del diploma di abilitazione alla vigilanza nelle scuole elementari e' aggiunto quello di:  
+2) "Storia della geografia (storia della scienza e delle esplorazioni)".  
+Art. 37. - Agli insegnamenti complementari del corso di laurea in chimica (indirizzo organico-biologico) e aggiunto quello di: 16) "Misure elettriche (corso speciale per chimici)".  
+Art. 39. - Agli insegnamenti complementari del corso di laurea in fisica e' aggiunto quello di: 12) "Onde elettromagnetiche".  
+Art. 76. - Il secondo comma e' abrogato e sostituito dai seguenti:  
+"L'ammontare delle tasse e soprattasse sara' deliberato anno per anno dal Consiglio di amministrazione su proposta del Senato accademico, udito il parere del Consiglio della Facolta' di lettere e filosofia.  
+L'ammontare dei contributi sara' ugualmente stabilito anno per anno dal Consiglio di amministrazione, su proposta del Senato accademico, udite la Facolta' e scuole.  
+La tassa di diploma e' fissata nella misura di L. 6000, a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7)".  
+L'art. 82 e' modificato nel senso che la materia "Geografia e topografia storica del mondo antico" e' considerata quale insegnamento aggiuntivo della scuola di discipline storiche e geografiche.  
+Art. 86. - Il secondo comma e' sostituito dal seguente:  
+"Durante gli anni di iscrizione lo studente deve ottenere la firma di iscrizione e di frequenza per almeno tre corsi, scelti fra quelli costitutivi della scuola, e sostenere i relativi esami".  
+Art. 108. - Dopo il n. 23 e' aggiunto quanto appresso:  
+24) Cardioangiochirurgia.  
+All'art. 110, relativo ai titoli di ammissione alle scuole di perfezionamento e di specializzazione in medicina e chirurgia e' aggiunto il seguente nuovo comma:  
+"Al diploma di specialista in cardioangiochirurgia possono aspirare i laureati in medicina e chirurgia che siano in possesso della libera docenza in patologia speciale chirurgica o in clinica chirurgica o del diploma di specialista in chirurgia generale".  
+Dopo l'art. 183, sono aggiunti i seguenti nuovi articoli, relativi all'istituzione della "Scuola di specializzazione in cardioangiochirurgia".  
   
-Art. 120. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in neuropsichiatria infantile.   
-  
-Dopo l'art. 242 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in neuropsichiatria infantile.   
-  
-Scuola di specializzazione in neuropsichiatria infantile   
-  
-Art. 243. - La durata del corso e' di anni 4.   
-La sede della scuola: a periodi alterni di due anni: presso la clinica delle malattie nervose e mentali e presso la clinica pediatrica.   
-Alla direzione si alterneranno ogni due anni il direttore della clinica delle malattie nervose e mentali e il direttore della clinica pediatrica.   
-La scuola e' retta secondo le norme del regolamento generale per le scuole di specializzazione dell'Universita' di Torino.   
-Il numero delle iscrizioni e' di venti per ogni anno.   
-L'ammissione e' per titoli ed esami.   
-E' obbligatoria la frequenza alle lezioni e alle esercitazioni.  
-L'internato e' obbligatorio per sei mesi in clinica pediatrica per gli studenti del 1° anno; di tre mesi in clinica delle malattie nervose e mentali e di tre mesi nell'istituto di clinica psichiatrica per gli studenti del 2° anno; di sei mesi per gli studenti del 3° anno e di sei mesi per gli studenti del 4° anno in clinica delle malattie nervose e mentali e in clinica pediatrica a periodi alterni di pari durata.   
-Nei periodi di internato gli studenti frequenteranno anche istituti e centri specializzati collegati con le cliniche universitarie.   
-  
-Art. 244. - Le materie sono le seguenti:   
-1° Anno:   
-1) Anatomia ed embriologia del sistema nervoso;   
-2) Fisiologia del sistema nervoso con particolare riguardo all'eta' evolutiva;   
-3) Genetica;   
-4) Endocrinologia dell'eta' evolutiva e auxologia;   
-5) Patologia e clinica pediatrica;   
-6) Tecniche di laboratorio.   
-2° Anno:   
-7) Anatomia patologica del sistema nervoso;   
-8) Biochimica patologica del sistema nervoso;   
-9) Psicologia dell'eta' evolutiva;   
-10) Semeiotica e clinica neurologica;   
-11) Semeiotica e clinica psichiatrica.   
-3° Anno:   
-12) Psicopatologia dell'eta' evolutiva;   
-13) Semeiotica e clinica neurologica infantile;   
-14) Psicodiagnostica dell'eta' evolutiva;   
-15) Elettrofisiologia;   
-16) Neuroradiologia;   
-17) Neurochirurgia dell'eta' evolutiva;   
-18) Semeiotica e clinica psichiatrica infantile (1° corso).   
-4° Anno:   
-19) Clinica psichiatrica infantile;   
-20) Terapia generale delle malattie mentali infantili;   
-21) Psicoterapia dell'eta' evolutiva;   
-22) Foniatria;   
-23) Psicopedagogia;   
-24) Sociologia applicata alla popolazione infantile;   
-25) Organizzazione diagnostico-assistenziale e legislazione;   
-  
-ESAMI   
-  
-1° Anno:   
-1) Embriologia e anatomia del sistema nervoso;   
-2) Fisiologia del sistema nervoso;   
-3) Genetica, endocrinologia e auxologia;   
-4) Patologia e clinica pediatrica.   
-2° Anno:   
-5) Anatomia e biochimica patologica del sistema nervoso;   
-6) Psicologia dell'eta' evolutiva;   
-7) Semeiotica e clinica neurologica;   
-8) Semeiotica e clinica psichiatrica.   
-3° Anno:   
-9) Semeiotica e clinica neurologica infantile;   
-10) Psicopatologia dell'eta' evolutiva;   
-11) Psicodiagnostica dell'eta' evolutiva.   
-4° Anno:   
-12) Semeiotica e clinica psichiatrica infantile;   
-13) Psicopedagogia;   
-14) Organizzazione diagnostico-assistenziale e legislazione.   
-  
-Art. 245. - Norme:   
-Per ottenere l'iscrizione al 2°, 3° e 4° anno di specializzazione gli iscritti dovranno aver sostenuto gli esami delle materie prescritte per l'anno precedente, tranne che per la clinica psichiatrica infantile il cui esame va sostenuto al 4° anno.   
-Gli specialisti in clinica delle malattie nervose e mentali o in neurologia o in psichiatria, sono iscritti di ufficio al 2° anno della scuola e sono esentati dal sostenere gli esami di profitto numeri 1), 2), 5), 7), 8) e dall'espletare il periodo di internato in neurologia e psichiatria.   
-Gli specialisti in clinica pediatrica sono iscritti d'ufficio al 2° anno della scuola e sono esentati dal sostenere esami di profitto numeri 3) e 4) e dall'espletare il periodo di internato del 1° anno.   
-Per conseguire il diploma di specialista in neuropsichiatria infantile gli iscritti, al termine degli esami, dovranno presentare e discutere una dissertazione scritta su un argomento di neuropsichiatria infantile.   
+Scuola di specializzazione in cardioangiochirurgia  
+Art. 184. - Per il conseguimento del diploma di specialista in cardioangiochirurgia, si richiedono due anni di corso.  
+Art. 185. - La scuola e' costituita presso l'Istituto di clinica chirurgica generale ed e' posta sotto la direzione e la diretta sorveglianza del titolare della cattedra di clinica chirurgica generale, coadiuvato da professori e docenti proposti e particolarmente preparati in tale materia.  
+Art. 186. - Il materiale didattico e' costituito dai degenti presso il centro di cardiochirurgia e presso il reparto di angiologia della clinica chirurgica, dal materiale anatomo-patologico e dalla documentazione raccolta nel museo, nell'archivio e nella biblioteca dell'Istituto.  
+Art. 187. - Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali.  
+Art. 188. - Gli insegnamenti fondamentali impartiti dalla scuola sono i seguenti:  
+Embriologia, anatomia descrittiva e topografica dell'apparato circolatorio (1° anno);  
+Fisiologia dell'apparato circolatorio (1° anno);  
+Anatomia patologica (1° anno)  
+Semeiotica e diagnostica delle cardiopatie chirurgiche (clinica strumentale, radiologica e di laboratorio) (1° anno);  
+Semeiotica e diagnostica angiologica (clinica strumentale, radiologica e di laboratorio) (1° anno);  
+Fisiopatologia del sistema neuro-vegetativo (1° anno);  
+Patologia e terapia medica cardiologica (2° anno);  
+Fisiopatologia e terapia medica angiologica (2° anno);  
+Anestesia e rianimazione (2° anno);  
+Terapia chirurgica e tecnica operativa (biennale).  
+Durante i due anni di corso verranno tenute esercitazioni di diagnostica, di laboratorio, di tecnica operativa e dimostrazioni pratiche.  
+Art. 189. - La frequenza alle lezioni, alle conferenze ed alle esercitazioni teoriche e pratiche e' obbligatoria.  
+Art. 190. - Alla fine di ciascun anno accademico i perfezionandi che abbiano ottenuto le firme di frequenza dovranno sostenere un esame di profitto nelle materie fondamentali, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo e per quelli che sono stati iscritti a quest'ultimo, all'esame di diploma.  
+Art. 191. - Alla fine del secondo anno del corso ha luogo l'esame di diploma, che consiste nella discussione di una dissertazione scritta su argomento di cardiochirurgia e di angiologia, proposto o approvato dal direttore della scuola non oltre l'inizio del secondo anno di corso.  
+La dissertazione, approvata dal direttore, dovra' essere depositata presso la Direzione della scuola almeno trenta giorni prima dell'esame.  
+Art. 192. - La Commissione per gli esami di profitto e' costituita dal direttore della scuola, dal docente della materia e da un altro docente del corso.  
+La Commissione per l'esame di diploma e' formata da sette membri presieduta dal preside della Facolta' o da un professore da lui delegato.  
+Di essa faranno parte altri membri scelti dal preside fra i professori ed i liberi docenti dell'Universita' di Torino.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1970
+### Dato a Roma, addi' 1 marzo 1955
 
-SARAGAT MISASI
+EINAUDI ERMINI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DE PIETRO
 
-Registrato alla Corte dei conti, addi' 19 gennaio 1971
+Registrato alla Corte dei conti, addi' 2 aprile 1955
 
-Atti del Governo, registro n. 240, foglio n. 73. - CARUSO
+Atti del Governo, registro n. 90, foglio n. 22. - CARLOMAGNO

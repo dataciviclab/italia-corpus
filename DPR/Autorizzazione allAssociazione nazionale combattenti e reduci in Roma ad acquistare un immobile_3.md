@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 166
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 229
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 166
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 229
+=============================================================
 
 Autorizzazione all'Associazione nazionale combattenti e reduci, in Roma, ad acquistare un immobile.
 ---------------------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione all'Associazione nazionale combattenti e reduci, in Roma, ad acqu
 Art. 1
 ------
 
-n.
+N.
 
-166. Decreto del Presidente della Repubblica 10 febbraio 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci, in Roma, viene autorizzata ad acquistare, al prezzo di L. 17.000.000 elevato dall'ufficio tecnico erariale di Udine a L. 27.000.000, un appartamento con garage, sito in Pavia di Udine, frazione Percoto, censito al nuovo catasto edilizio urbano alla partita n. 713, foglio n. 37, particella n. 640 sub 8, foglio n. 37, particella n. 640 sub 35, di proprieta' del sig. Damiano Pierino, come da promessa di vendita condizionata in data 25 maggio 1977, da adibire a sede sociale.  
+229. Decreto del Presidente della Repubblica 11 maggio 1979, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci, in Roma, viene autorizzata ad acquistare dalla sig.ra Luisa Pioli in Guzzi, al prezzo di L. 7.250.000, un appartamento sito in Varese, via Cesare Battisti n. 21, distinto nel nuovo catasto edilizio urbano al foglio 29, mappale 516 sub 4, da adibire a sede della federazione combattenti e reduci di Varese.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 22 aprile 1986  
-Registro n. 4 Presidenza, foglio n. 50
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 14 giugno 1979  
+Registro n. 4 Presidenza, foglio n. 388

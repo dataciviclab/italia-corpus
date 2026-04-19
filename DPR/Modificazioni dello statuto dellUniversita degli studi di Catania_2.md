@@ -1,51 +1,143 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1953 n. 544
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 febbraio 1952 n. 366
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1953 n. 544
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 febbraio 1952 n. 366
 ===============================================================
 
 Modificazioni dello statuto dell'Universita' degli studi di Catania.
 --------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regi decreti 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-16;1527); [15 aprile 1942, n. 424](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;424); [5 settembre 1942, n. 1235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1235); [24 ottobre 1942, n. 1596, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1596) [22 ottobre 1946, n. 423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-10-22;423) e modificato ulteriormente con [decreti del Presidente della Repubblica 20 luglio 1948, n. 1160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-07-20;1160); [30 ottobre 1940, n. 994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1940-10-30;994); [30 ottobre 1949, n. 1167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1167); [30 ottobre 1950, n. 1305](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1305) e [11 aprile 1951, n. 564](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;564);
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1986, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1935, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati e' cosi' ulteriormente modificato:
+
+Dopo l'art. 136, sono aggiunti i seguenti nuovi articoli:
+
+Scuola di specializzazione in odontoiatria e protesi dentaria.
+
+Art. 137. - Il corso degli studi della Scuola di specializzazione in odontoiatria e protesi dentaria ha la durata di due anni.
+
+La Scuola non puo' accogliere piu' di dieci iscritti per ciascun anno di corso.
+
+Art. 138. - Gli insegnamenti impartiti nella Scuola sono:
+
+1° anno:
+
+1) Anatomia e embriologia della bocca e dello apparato dentale;
+
+2) Fisiologia della bocca e dell'apparato dentale;
+
+3) Microbiologia della cavita' dentale;
+
+4) Anatomia e istologia patologica della bocca e dei denti;
+
+5) Patologia speciale e clinica odontoiatrica;
+
+6) Radiologia dentale e mascellare;
+
+7) Esercitazioni di istologia normale e patologica orale e dentale.
+
+2° anno:
+
+1) Odontotecnica;
+
+2) Chirurgia dentale ed orale;
+
+3) Odontoiatria conservatoria e tecnica delle otturazioni;
+
+4) Ortopedica dento-mascella-facciale;
+
+5) Protesi dentale;
+
+6) Patologia orale e dentale in rapporto alla medicina generale;
+
+7) Traumatologia delle ossa mascellari.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 11 febbraio 1952
+
+EINAUDI
+
+SEGNI
+
+Visto, il Guardasigilli: ZOLI
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 17 aprile 1952 Atti del Governo, registro n. 51, foglio n. 77. - FRASCA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e modificato con [regi decreti 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-16;1527); [15 aprile 1942, n. 424](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;424); [5 settembre 1942, n. 1235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1235); [24 ottobre 1942, n. 1596; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1596) [22 ottobre 1946, n. 423, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-22;423) [20 luglio 1948, n. 1160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-07-20;1160); [30 ottobre 1949, n. 994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;994); [30 ottobre 1949, n. 1167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1167); [30 ottobre 1950, n. 1305](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1305); [11 aprile 1951, n. 564](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;564); [27 ottobre 1951, n. 1793](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1793) e [11 febbraio 1952, n. 366](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-11;366);  
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regi decreti 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-16;1527); [15 aprile 1942, n. 424](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;424); [5 settembre 1942, n. 1235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1235); [24 ottobre 1942, n. 1596, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1596) [22 ottobre 1946, n. 423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-10-22;423) e modificato ulteriormente con [decreti del Presidente della Repubblica 20 luglio 1948, n. 1160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-07-20;1160); [30 ottobre 1940, n. 994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1940-10-30;994); [30 ottobre 1949, n. 1167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1167); [30 ottobre 1950, n. 1305](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1305) e [11 aprile 1951, n. 564](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;564);  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1986, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-01-02;73);  
+Veduto il [regio decreto 30 settembre 1935, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati e' cosi' ulteriormente modificato:  
+Dopo l'art. 136, sono aggiunti i seguenti nuovi articoli:  
   
-All'art. 11, lettera b), relativo al corso di laurea in giurisprudenza, alle materie di cui e' propedeutico l'insegnamento di istituzioni di diritto privato, sono aggiunte le seguenti: filosofia del diritto, diritto ecclesiastico, diritto canonico, diritto agrario, diritto industriale, diritto della navigazione, diritto penale e diritto del lavoro.  
-L'art. 17, relativo al corso di laurea in scienze politiche e' sostituito dal seguente:  
-"Sono dichiarati propedeutici i seguenti insegnamenti:  
-a) istituzioni di diritto privato per il diritto del lavoro e filosofia del diritto;  
-b) istituzioni di diritto pubblico per il diritto internazionale, il diritto del lavoro;  
-c) economia politica per la politica economica e finanziaria".  
-All'art. 136, relativo alla scuola di specializzazione in malattie veneree e della pelle, gli insegnamenti di cui ai nn. 3 e 4 sono sostituiti dai seguenti:  
-"3) Semeiotica generale, patologia e clinica dermatologica (triennale);  
-4) Semeiotica generale, patologia e clinica delle malattie veneree e sifilitiche (triennale)".  
-Le materie di cui ai nn. 11 e 12 sono sostituite dal seguente insegnamento: "Parassitologia dermovenereologica (con prove pratiche ed esami di laboratorio)".  
+Scuola di specializzazione in odontoiatria e protesi dentaria.  
+  
+Art. 137. - Il corso degli studi della Scuola di specializzazione in odontoiatria e protesi dentaria ha la durata di due anni.  
+La Scuola non puo' accogliere piu' di dieci iscritti per ciascun anno di corso.  
+Art. 138. - Gli insegnamenti impartiti nella Scuola sono:  
+1° anno:  
+1) Anatomia e embriologia della bocca e dello apparato dentale;  
+2) Fisiologia della bocca e dell'apparato dentale;  
+3) Microbiologia della cavita' dentale;  
+4) Anatomia e istologia patologica della bocca e dei denti;  
+5) Patologia speciale e clinica odontoiatrica;  
+6) Radiologia dentale e mascellare;  
+7) Esercitazioni di istologia normale e patologica orale e dentale.  
+2° anno:  
+1) Odontotecnica;  
+2) Chirurgia dentale ed orale;  
+3) Odontoiatria conservatoria e tecnica delle otturazioni;  
+4) Ortopedica dento-mascella-facciale;  
+5) Protesi dentale;  
+6) Patologia orale e dentale in rapporto alla medicina generale;  
+7) Traumatologia delle ossa mascellari.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 febbraio 1953
+### Dato a Roma, addi' 11 febbraio 1952
 
 EINAUDI SEGNI
 
 Visto, il Guardasigilli: ZOLI
 
-Registrato alla Corte dei conti, addi' 27 luglio 1953
+Registrato alla Corte dei conti, addi' 17 aprile 1952
 
-Atti del Governo, registro n. 78, foglio n. 53. - PALLA
+Atti del Governo, registro n. 51, foglio n. 77. - FRASCA

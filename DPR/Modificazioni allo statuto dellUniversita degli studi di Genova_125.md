@@ -1,495 +1,107 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1960 n. 1914
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 970
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1960 n. 1914
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 970
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA,  
-  
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Veduto il [decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla, proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 58, relativo al biennio propedeutico agli studi di ingegneria in seno alla Facolta' di Scienze matematiche fisiche e naturali e' soppresso.  
-  
-Art. 61, il settimo comma, relativo alle precedenze di esami nel biennio propedeutico agli studi di ingegneria, e' soppresso.  
-Gli articoli da 74 ad 82, relativi ai corsi di studi della Facolta' di Ingegneria, sono abrogati e sostituiti dai seguenti:  
-  
-Art. 74. - La Facolta' di Ingegneria della Universita' di Genova, nel campo didattico, ha per fine di provvedere alla preparazione professionale e scientifica dei giovani per portarli a conseguire le lauree in Ingegneria civile (sezione edile idraulica, trasporti), Ingegneria meccanica, Ingegneria elettrotecnica, Ingegneria chimica, Ingegneria navale e meccanica, Ingegneria elettronica, e di promuovere ulteriori perfezionamenti dei laureati stessi nei diversi rami della Ingegneria.  
-  
-Art. 75. - Lo studente e' tenuto a frequentare le lezioni e le esercitazioni degli insegnamenti prescritti, per ogni singolo anno dal piano degli studi relativo al corso di laurea prescelto. Ogni professore, in relazione al proprio insegnamento, si accerta della frequenza, diligenza e e profitto dello studente nel modo che crede piu' opportuno.  
-  
-Art. 76. - Gli insegnamenti della Facolta' di ingegneria si distinguono in:  
-Obbligatori comuni sul piano nazionale a)  
-Obbligatori sul piano della Facolta' b)  
-Materie a scelta dello studente c)  
-Essi sono indicati nelle tabelle seguenti:  
-  
-Ingegneria civile (Sezione Edile)  
-  
-1° anno:  
-1) Analisi matematica I a)  
-2) Geometria I a)  
-3) Fisica I a)  
-4) Chimica a)  
-5) Disegno a)  
-  
-2° anno:  
-6) Analisi matematica II a)  
-7) Meccanica razionale a)  
-8) Fisica II a)  
-9°) Geometria II (semestrale) b)  
-9°) Disegno d'architettura (semestrale) b)  
-10) Materie giuridiche (insegnamento aggiunto) b)  
-  
-3° anno:  
-11) Scienza, delle costruzioni a)  
-12) Meccanica applicata alle macchine e Macchine a)  
-13) Fisica tecnica a)  
-14) Tecnologie dei materiali e Chimica applicata a)  
-15) Idraulica a)  
-16) Architettura tecnica a)  
-17) Topografia a)  
-  
-4° anno:  
-18) Complementi di scienza delle costruzioni b)  
-19) Elettrotecnica a)  
-20) Tecnica delle costruzioni a)  
-21) Costruzioni di strade, ferrovie ed aeroporti b)  
-22) Geologia e Geologia applicata b)  
-23) Architettura e composizione architettonica a)  
-24) Impianti tecnici b)  
-  
-5° anno:  
-25) Complementi di tecnica delle costruzioni b)  
-26°) Estimo ed esercizio professionale (semestrale) b)  
-26°) Igiene applicata (semestrale) b)  
-27) Tecnica urbanistica b)  
-28) Gruppi di materie secondo gli indirizzi a c)  
-29) scelta dello studente c)  
-  
-Indirizzo I  
-28) Storia e stili dell'architettura c)  
-29) Costruzione di ponti c)  
-  
-Indirizzo II  
-28) Meccanica dei terreni c)  
-29) Meccanica tecnica superiore c)  
-  
-Ingegneria civile (Sezione Idraulica)  
-  
-1° anno:  
-1) Analisi matematica I a)  
-2) Geometria I a)  
-3) Fisica I a)  
-4) Chimica a)  
-5) Disegno a)  
-  
-2° anno:  
-6) Analisi matematica II a)  
-7) Meccanica razionale a)  
-8) Fisica II a)  
-9°) Geometria II (semestrale) b)  
-9°) Disegno d'architettura (semestrale) b)  
-10) Materie giuridiche (insegnamento aggiunto) b)  
-  
-3° anno:  
-11) scienza delle costruzioni a)  
-12) Meccanica applicata alle macchine e Macchine a)  
-13) Fisica tecnica a)  
-14) Tecnologie dei materiali e Chimica applicata a)  
-15) Idraulica a)  
-16) Architettura tecnica a)  
-17) Topografia a)  
-  
-4° anno:  
-18) Complementi di scienza delle costruzioni b)  
-19) Elettrotecnica a)  
-20) Tecnica delle costruzioni a)  
-21) Costruzioni di strade, ferrovie ed aeroporti b)  
-22) Geologia e Geologia applicata b)  
-23) Impianti speciali idraulici b)  
-24) Costruzioni idrauliche a)  
-  
-5° anno:  
-25) Complementi di tecnica delle costruzioni b)  
-26') Estimo ed esercizio professionale semestrale) b)  
-26") Igiene applicata (semestrale) b)  
-27) Costruzione di ponti b)  
-28) Gruppi di materiale secondo gli indirizzi a c)  
-29) scelta dello studente c)  
-  
-Indirizzo I  
-28) Complementi di idraulica c)  
-29) Costruzioni marittime c)  
-  
-Indirizzo II  
-28) Meccanica dei terreni c)  
-29) Meccanica tecnica superiore c)  
-  
-Ingegneria civile (Sezione Trasporti)  
-  
-1° anno:  
-1) Analisi matematica I a)  
-2) Geometria I a)  
-3) Fisica I a)  
-4) Chimica a)  
-5) Disegno a)  
-  
-2° anno:  
-6) Analisi matematica II a)  
-7) Meccanica razionale a)  
-8) Fisica II a)  
-9°) Geometria II (semestrale) b)  
-9°) Disegno d'architettura (semestrale) b)  
-10) Materie giuridiche (insegnamento aggiunto) b)  
-  
-3° anno:  
-11) Scienza delle costruzioni a)  
-12) Meccanica applicata alle macchine e Macchine a)  
-13) Fisica tecnica a)  
-14) Tecnologie dei materiali e Chimica applicata a)  
-15) Idraulica a)3  
-16) Architettura tecnica a)  
-17) Topografia a)  
-  
-4° anno:  
-18) Complementi di scienza delle costruzioni b)  
-19) Elettrotecnica a)  
-20) Tecnica delle costruzioni a)  
-21) Costruzioni di strade, ferrovie ed aeroporti a)  
-22) Geologia e Geologia applicata b)  
-23) Tecnica ed economia dei trasporti b)  
-24) Meccanica dei terreni b)  
-  
-5° anno:  
-25) Complementi di tecnica delle costruzioni b)  
-26) Tecnica urbanistica b)  
-27) Costruzione di ponti b)  
-28) Gruppi di materie secondo gli indirizzi a c)  
-29) scelta dello studente c)  
-  
-Indirizzo I  
-28) Trazione elettrica c)  
-29°) Impianti di sollevamento e trasporti (semestrale)  
-29°) Complementi di tecnica ed economia dei trasporti (semestrale)   
-Indirizzo II  
-28) Meccanica tecnica superiore c)  
-29) Architettura e composizione architettonica c)  
-  
-Ingegneria meccanica  
-  
-1° anno:  
-1) Analisi matematica I a)  
-2) Geometria I a)  
-3) Fisica I a)  
-4) Chimica a)  
-5) Disegno a)  
-  
-2° anno:  
-6) Analisi matematica II a)  
-7) Meccanica razionale a)  
-8) Fisica II a)  
-9°) Geometria II (semestrale) b)  
-9°) Disegno tecnico (semestrale) b)  
-10) Materie giuridiche (insegnamento aggiunto) b)  
-  
-3° anno:  
-11) Scienza delle costruzioni a)  
-12) Meccanica applicata alle macchine a)  
-13) Fisica tecnica a)  
-14) Chimica applicata a)  
-15) idraulica a)  
-16) Tecnologia meccanica a)  
-  
-4° anno:  
-17) Macchine a)  
-18) Elettrotecnica a)  
-19) Costruzione di macchine a)  
-20) Tecnologie speciali b)  
-21) Tecnica delle costruzioni b)  
-22) Tecnologie dei metalli b)  
-23) Estimo ed esercizio professionale (semestrale) b)  
-  
-5° anno:  
-24) Impianti meccanici a)  
-25) Complementi di macchine b)  
-26) Disegno di macchine b)  
-27) Economia ed organizzazione industriale b)  
-28) Gruppi di materie secondo gli indirizzi a)c)  
-29) scelta dello studente c)  
-Indirizzo macchine a fluido  
-28) Progetto di macchine c)  
-29) Misure meccaniche e collaudo c)  
-  
-Indirizzo aeronautico  
-28) Aerotecnica c)  
-29) Propulsione aerea e spaziale c)  
-  
-Indirizzo sidrurgico  
-28) Chimica siderurgica c)  
-29) Tecnica siderurgica c)  
-  
-Indirizzo della tecnica della produzione  
-28) Progettazione industriale c)  
-29) Programmazione e controllo delle produzioni c)  
-  
-Indirizzo termotecnico  
-28) Complementi di termotecnica e misure c)  
-29) Impianti speciali termici c)  
-  
-Ingegneria elettrotecnica  
-  
-1° anno:  
-1) Analisi matematica I a)  
-2) Geometria I a)  
-3) Fisica I a)  
-4) Chimica a)  
-5) Disegno a)  
-  
-2° anno:  
-6) Analisi matematica II a)  
-7) Meccanica razionale a)  
-8) Fisica II a)  
-9°) Disegno tecnico (semestrale) (in sostituzione di Geometria II) b)  
-9°) Metodi di osservazione e misura: (semestrale) (in sostituzione di Geometria II) b)  
-10) Materie giuridiche (insegnamento aggiunto) b)  
-  
-3° anno:  
-11) Scienza delle costruzioni a)  
-12) Meccanica applicata alle macchine a)  
-13) Fisica tecnica a)  
-14) Chimica applicata b)  
-15) Elettrotecnica a)  
-16) Complementi di matematica (semestrale) b)  
-  
-4° anno:  
-17) Macchine a)  
-18) Idraulica a)  
-19) Macchine elettriche a)  
-20) Misure elettriche a)  
-21) Elettronica applicata a)  
-22) Impianti elettrici a)  
-  
-5° anno:  
-23) Costruzione di macchine elettriche b)  
-24) Complementi di macchine b)  
-25) Economia e organizzazione industriale b)  
-26) Controlli automatici b)  
-27) Trazione elettrica b)  
-28) Gruppi di materie secondo gli indirizzi a c)  
-29) scelta dello studente  
-  
-Indirizzo "Impianti"  
-28) Complementi di impianti elettrici c)  
-29) Impianti elettrici di bordo c)  
-  
-Indirizzo "Elettromeccanica"  
-28) Tecnologia meccanica c)  
-29) Costruzione di macchine c)  
-  
-Ingegneria chimica  
-  
-1° anno:  
-1) Analisi matematica I a)  
-2) Geometria I a)  
-3) Fisica I a)  
-4) Chimica a)  
-5) Disegno a)  
-  
-2° anno:  
-6) Analisi matematica II a)  
-7) Meccanica razionale a)  
-8) Fisica II a)  
-9) Mineralogia (in sostituzione di Geometria II) b)  
-10) Chimica organica (insegnamento, aggiunto) b)  
-  
-3° anno:  
-11) Scienza delle costruzioni a)  
-12) Meccanica applicata alle macchine a)  
-13) Fisica tecnica a)  
-14) Chimica applicata a)  
-15) Idraulica b)  
-16) Chimica fisica a)  
-  
-4° anno:  
-17) Macchine a)  
-18) Elettrotecnica a)  
-19) Principi di ingegneria chimica a)  
-20) Chimica industriale a)  
-21) Chimica analitica b)  
-22) Gruppi di materie secondo gli indirizzi a c)  
-23) scelta dello studente c)  
-24) Impianti chimici a)  
-25) Tecnologie dei metalli b)  
-26) Economia ed organizzazione industriale b)  
-27) Economia ed organizzazione industriale c)  
-28) Gruppi di materie secondo gli indirizzi a) c)  
-29) scelta dello studente c)  
-  
-Indirizzo chimico industriale  
-22) Misure fisico-tecniche e controlli c)  
-23) Chimica e tecnologia dei combustibili c)  
-27) Elettrochimica c)  
-28) Ceramiche, refrattari ed affini c)  
-29) Tecnologie chimico-inorganiche c)  
-  
-Indirizzo petrolchimico  
-22) Misure fisico-tecniche e controlli c)  
-23) Petrolchimica c)  
-27) Tecnologie chimico-organiche c)  
-28) Impianti petrolchimici c)  
-29) Giacimenti petroliferi di gas combustibili c)  
-  
-Ingegneria navale e meccanica  
-  
-1° anno:  
-1) Analisi matematica I a)  
-2) Geometria I a)  
-3) Fisica I a)  
-4) Chimica a)  
-5) Disegno a)  
-  
-2° anno:  
-6) Analisi matematica II a)  
-7) Meccanica razionale a)  
-8) Fisica II a)  
-9°) Geometria II (semestrale) b)  
-9°) Disegno tecnico (semestrale) b)  
-10) Materie giuridiche (insegnamento aggiunto) b)  
-  
-3° anno:  
-11) Scienza delle costruzioni a)  
-12) Meccanica applicata alle macchine a)  
-13) Fisica tecnica a)  
-14) Chimica applicata a)  
-15) Idraulica a)  
-16) Tecnologia meccanica b)  
-17) Costruzioni navali mercantili I a)  
-  
-4° anno:  
-18) Macchine a)  
-19) Elettrotecnica a)  
-20) Costruzione di macchine b)  
-21) Tecnologie speciali b)  
-22) Architettura navale I a)  
-23) Costruzioni navali, militari I a)  
-24) Costruzioni navali mercantili II b)  
-  
-5° anno:  
-25) Macchine marine b)  
-26) Complementi di macchine b)  
-27) Architettura navale II b)  
-28) Costruzioni navali militari II b)  
-29) Gruppi di materie secondo gli indirizzi a) c)  
-30) scelta dello studente  
-  
-Indirizzo I  
-29) Economia ed organizzazione industriale c)  
-30) Cantieri navali c)  
-  
-Indirizzo II  
-29) Impianti elettrici di bordo c)  
-30) Attrezzature e strumenti di bordo c)  
-La tesi di laurea consistera' nella redazione di un progetto completo di una nave.  
-  
-Ingegneria elettronica  
-  
-1° anno:  
-1) Analisi matematica I a)  
-2) Geometria a)  
-3) Fisica I a)  
-4) Chimica a)  
-5) Disegno a)  
-  
-2° anno:  
-6) Analisi matematica II a)  
-7) Meccanica razionale a)  
-8) Fisica II a)  
-9°) Disegno tecnico (semestrale) (in sostituzione di Geometria II) b)  
-9°) Metodi di osservazione e misura (semestrale) (in sostituzione di Geometria II) b)  
-10) Materie giuridiche (insegnamento aggiunto) b)  
-  
-3° anno:  
-11) Scienza delle costruzioni a)  
-12) Meccanica delle macchine e macchine a)  
-13) Fisica tecnica a)  
-14) Chimica applicata b)  
-15) Elettrotecnica a)  
-16) Complementi di matematica (semestrale) b)  
-  
-4° anno:  
-17) Macchine b)  
-18) Campi elettromagnetici e circuiti a)  
-19) Macchine elettriche b)  
-20) Misure elettriche a)  
-21) Elettronica applicata a)  
-22) Comunicazioni elettriche a)  
-  
-5° anno:  
-23) Radiotecnica a)  
-24) Tecnica, telefonica e telegrafica b)  
-25) Economia ed organizzazione industriale b)  
-26) Controlli automatici a)  
-27) Gruppi di materie secondo gli indirizzi c)  
-28) Gruppi di materie secondo gli indirizzi a) c)  
-29) scelta dello studente c)  
-  
-Indirizzo "Telecomunicazioni"  
-27) Misure ad alta frequenza c)  
-28) Microonde c)  
-29) Impianti di comunicazione elettriche c)  
-  
-Indirizzo "Automazione"  
-27) Calcolatori elettronici c)  
-28) Impianti elettrici c)  
-29) Impianti meccanici c)  
-  
-Art. 77. - Negli elenchi di cui all'articolo precedente le singole materie che non portano nessuna indicazione si intendono di durata annuale. Le altre hanno durata specificatamente indicata di un semestre. Ai fini della osservanza del [secondo comma dell'art. 8 del decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53~art8-com2), due corsi semestrali vengono computati come equivalenti ad un corso annuale.  
-  
-Art. 78. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti obbligatori comuni sul piano nazionale, gli insegnamenti obbligatori stabiliti dalla Facolta' e inoltre quelli da lui scelti nel minimo numero precisato per la sezione stessa.  
-A norma dell'art. 8, secondo comma, nel citato [decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53), gli insegnamenti non potranno nel complesso superare, per ciascun corso quinquennale di laurea, il numero di trenta.  
-  
-Art. 79. - Per gli studenti provenienti da altre Facolta' di Ingegneria il Consiglio di Facolta' formulera' il piano di studi per l'ulteriore svolgimento della carriera scolastica.  
-  
-Art. 80. - Coloro che gia' posseggono la laurea in un ramo di Ingegneria sono ammessi a conseguire la laurea in un altro ramo con obbligo della frequenza e degli esami per gli insegnamenti non compresi nello ordine di studi anteriore, secondo deliberazione del Consiglio di facolta' e con iscrizione all'anno di corso che verra' stabilito dal Consiglio stesso.  
-Il Consiglio di facolta' delibera sulla iscrizione di coloro che siano forniti di altra laurea.  
-  
-Art. 81. - Fermi restando gli sbarramenti rigidamente stabiliti dall'[art. 10 del decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53~art10), per il biennio propedeutico, gli studenti sono tenuti a rispettare le precedenze di iscrizione e di esame che il Consiglio di facolta' stabilira' nel piano di studi.  
-  
-Art. 82. - L'esame di laurea consiste:  
-a) nella redazione di un progetto di un'opera di Ingegneria, ovvero nella esecuzione di un studio di carattere monografico, tecnico o sperimentale, il cui argomento dovra' inquadrarsi nel corso di laurea e nello indirizzo scelto dallo studente (tesi di laurea);  
-b) nella dissertazione (tesina) su un argomento scelto dallo studente in accordo con uno dei professori ufficiali del corso di studi seguito dallo studente;  
-c) In una prova orale comprendente la discussione sulla tesi e sulla tesina di laurea, con eventuali richiami ai vari Insegnamenti di cui lo studente ha superato lo esame.  
-Il Consiglio di facolta' il riserva inoltre di accertare in casi particolari la maturita' di preparazione generale dei singoli candidati alla laurea mediante una prova scritta.  
+Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Considerata la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
+  
+Dopo l'art. 499, sono inseriti, con il conseguente spostamento della numerazione degli articoli successivi, i seguenti nuovi articoli concernenti l'istituzione della scuola diretta a fini speciali per tecnici di neurofisiopatologia:  
+  
+Scuola diretta a fini speciali per tecnici di neurofisiopatologia  
+  
+Art. 500. - Presso la facolta' di medicina e chirurgia e' istituita la scuola diretta a fini speciali per tecnici di neurofisiopatologia.  
+La scuola ha lo scopo di impartire agli allievi, con unita' di indirizzo e metodo scientifico, tutte le nozioni tecniche e pratiche necessarie a ben esercitare la professione di tecnico di neurofisiopatologia.  
+Art. 501. - La durata degli studi e' di tre anni accademici. Alla scuola possono essere ammessi allievi di ambo i sessi, forniti del titolo di istruzione di secondo grado e che abbiano compiuto il sedicesimo anno di eta'.  
+Art. 502. - Al primo anno della scuola si accede previo esame di cultura generale e attitudinale davanti ad una commissione composta dal direttore della scuola e da due insegnanti della scuola stessa.  
+A giudizio del consiglio della scuola possono essere ammessi, per i primi due anni d'istituzione, anche allievi in possesso di titolo di studio di scuola media inferiore che svolgono da almeno cinque anni mansioni di tecnico di neurofisiopatologia presso un istituto o clinica universitaria o servizio di ospedale regionale.  
+Tali allievi, oltre all'esame di ammissione, dovranno superare un esame tecnico-pratico sulle mansioni svolte.  
+Art. 503. - Il numero massimo degli allievi che possono essere ammessi ad ogni anno di corso della scuola e' di quindici.  
+Art. 504. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa.  
+In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+Il consiglio della scuola si compone degli insegnanti che vi svolgono i corsi prescritti.  
+La scuola e' sotto la vigilanza della facolta' di medicina e chirurgia.  
+Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' di medicina e chirurgia e nominati dal rettore.  
+Essi possono essere scelti fra i professori ufficiali, tra i liberi docenti, tra gli assistenti della facolta' di medicina e chirurgia e di facolta' dell'ateneo o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.  
+Art. 505. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) strumentazione medicale per analisi di segnali elettrofisiologici I;  
+2) nozioni generali di anatomia e fisiologia umana;  
+3) anatomia funzionale del sistema nervoso e dello apparato motore;  
+4) fisiologia del sistema nervoso e dell'apparato motore;  
+5) nozioni di igiene ospedaliera;  
+6) lingua inglese I.  
+2° Anno:  
+1) strumentazione medicale per analisi di segnali elettrofisiologici II;  
+2) patologia del sistema nervoso e dell'apparato motore;  
+3) l'epilessia;  
+4) tecniche di registrazione EEGrafiche, EMGrafiche, poligrafiche - reo ed ecografiche - doppler;  
+5) rilevamento di dati non strumentali e archiviazione;  
+6) norme di sicurezza e protezione elettrica del paziente;  
+7) lingua inglese II.  
+3° Anno:  
+1) tecniche di registrazioni speciali (segnali analogici e digitali) e analisi "on line" assistite da computer;  
+2) registrazioni poligrafiche del sonno;  
+3) neuropsichiatria infantile;  
+4) registrazioni in anestesia e rianimazione; morte cerebrale;  
+5) esercitazioni e tirocinio;  
+6) lingua inglese III.  
+Per le materie a corso pluriennale l'esame sara' unico.  
+Art. 506. - La frequenza alle lezioni teoriche e alle esercitazioni pratiche e' obbligatoria. Per la validita' dell'anno gli allievi devono partecipare almeno ai due terzi delle lezioni sia teoriche che pratiche.  
+I programmi di insegnamento e gli orari vengono predisposti dal direttore della scuola e approvati dal consiglio della facolta' di medicina e chirurgia.  
+Per essere ammessi a sostenere l'esame di diploma gli allievi dovranno aver seguito i corsi, superato gli esami in tutti gli insegnamenti prescritti e aver compiuto, con esito favorevole, tutte le esercitazioni pratiche previste.  
+Le commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia, su proposta del direttore della scuola, e composte da tre membri: dal professore ufficiale della materia, da un professore ufficiale di materia affine e da un cultore della materia. Ogni commissario ha a disposizione dieci punti.  
+L'esame di diploma consiste in un esame orale sui temi trattati durante il corso degli studi ed in una prova pratica.  
+La commissione esaminatrice e' composta da cinque membri nominati dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola.  
+Ogni commissario ha a disposizione dieci punti. I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza della scuola; se al secondo esame non sia loro riconosciuta l'idoneita' saranno esclusi da ulteriori prove.  
+Agli allievi che avranno superato l'esame finale verra' rilasciato il diploma di tecnico di neurofisiopatologia.  
+Le tasse, soprattasse e contributi generali sono quelli previsti per gli iscritti al corso di laurea in medicina e chirurgia; il contributo speciale viene fissato con le procedure previste dalla [legge 18 dicembre 1951, numero 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' Inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1960
+### Dato a Roma, addi' 31 ottobre 1981
 
-GRONCHI BOSCO
+PERTINI BODRATO
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 22 giugno 1961
+Registrato alla Corte dei conti, addi' 9 febbraio 1982
 
-Atti del Governo, registro n. 137, foglio n. 49. - VILLA
+Registro n. 20 Istruzione, foglio n. 231

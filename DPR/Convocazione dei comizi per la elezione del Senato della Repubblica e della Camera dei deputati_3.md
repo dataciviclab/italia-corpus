@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1979 n. 115
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1968 n. 129
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1979 n. 115
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1968 n. 129
+============================================================
 
 Convocazione dei comizi per la elezione del Senato della Repubblica e della Camera dei deputati.
 ------------------------------------------------------------------------------------------------
@@ -12,25 +12,24 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Visto il proprio decreto in data 2 aprile 1979, n. 96, relativo allo scioglimento della Camera dei deputati e del Senato della Repubblica;  
+Visto il decreto in pari data relativo allo scioglimento del Senato della Repubblica e della Camera dei deputati;  
 Visti gli [articoli 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art61) e [87, terzo comma, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com3);  
-Visto il testo unico delle leggi per l'elezione della Camera dei deputati, approvato con [decreto presidenziale 30 marzo 1957, n. 361](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-03-30;361), e successive modificazioni;  
-Vista la [legge 6 febbraio 1948, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-02-06;29), recante norme per l'elezione del Senato della Repubblica, e successive modificazioni;  
-Vista la [legge 23 aprile 1976, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-23;136), recante norme per la riduzione dei termini e semplificazione del procedimento elettorale;  
+Visto, il testo unico delle leggi per l'elezione della Camera dei deputati, approvato con [decreto presidenziale 30 marzo 1957, n. 361](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-03-30;361);  
+Vista la [legge 6 febbraio 1948, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-02-06;29), recante norme per l'elezione del Senato della, Repubblica e successive modificazioni;  
 Sentito il Consiglio dei Ministri;  
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'interno;  
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per l'interno;  
   
 Decreta:  
   
-I comizi per la elezione del Senato della Repubblica e della Camera dei deputati sono convocati per il giorno di domenica 3 giugno 1979.  
-La prima riunione delle Camere avra' luogo il giorno di mercoledi 20 giugno 1979.  
+I comizi per la elezione del Senato della Repubblica e della Camera dei deputati sono convocati per il giorno di domenica 19 maggio 1968.  
+La prima riunione delle Camere avra' luogo il giorno 5 giugno 1968.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 aprile 1979
+### Dato a Roma, addi' 11 marzo 1968
 
-PERTINI ANDREOTTI - ROGNONI
+SARAGAT MORO - TAVIANI
 
-Visto, il Guardasigilli: MORINO
+Visto, il Guardasigilli: REALE

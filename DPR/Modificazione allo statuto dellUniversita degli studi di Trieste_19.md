@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1081
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 492
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1081
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 492
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
@@ -39,19 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 77, relativo al corso di laurea in chimica, all'elenco degli insegnamenti degli indirizzi inorganico-chimico-fisico ed organico-biologico e' aggiunto il seguente insegnamento:  
-stechiometria.  
+Nell'art. 78, relativo al corso di laurea in fisica all'elenco degli insegnamenti complementari e' aggiunte il seguente insegnamento:  
+astrofisica teorica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1983
+### Dato a Roma, addi' 16 giugno 1983
 
 PERTINI FALCUCCI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 15 marzo 1984
+Registrato alla Corte dei conti, addi' 17 agosto 1983
 
-Registro n. 16 Istruzione, foglio n. 178
+Registro n. 59 Istruzione, foglio n. 118

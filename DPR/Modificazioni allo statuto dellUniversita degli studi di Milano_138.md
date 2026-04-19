@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 luglio 1955 n. 802
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1114
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 luglio 1955 n. 802
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1114
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, n. 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166), e modificato con [legge 1 giugno 1939, n. 872](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;872); con [regi decreti 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2056); [15 aprile 1942, n. 423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;423); [24 ottobre 1942, n. 1847; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1847) [27 luglio 1947, n. 1138 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-07-27;1138) [23 settembre 1949, n. 942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;942); [21 novembre 1949, n. 1194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-11-21;1194); [13 marzo 1950, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;283) [27 ottobre 1951, n. 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1825); [23 aprile 1952, n. 873](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-04-23;873); [10 febbraio 1953, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;383); [13 febbraio 1954, n. 750](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-02-13;750); [14 settembre 1954 n. 1161](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1161); [16 febbraio 1955, n. 138](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-16;138); [27 gennaio 1955, n. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-01-27;210) e [21 giugno 1955, n. 560](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-06-21;560);
+Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,211 +18,74 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Considerata la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 104 sono aggiunti i seguenti nuovi articoli, relativi all'istituzione della "Scuola per tecnici di istituti medico-biologici".
+Articolo unico
+--------------
 
-SCUOLE DIRETTE A FINI SPECIALI
-
-Scuola per tecnici di istituti medico-biologici
-
-Art. 105. - E' istituita, ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), una scuola per tecnici di istituti medico-biologici, che ha lo scopo di preparare adeguatamente personale tecnico che sia in grado di collaborare attivamente con lo studioso e col ricercatore nell'indagine scientifica sperimentale.
-
-Art. 106. - La durata del corso degli studi della scuola per tecnici di istituti medico-biologici e' di due anni.
-
-E' titolo di ammissione il diploma di maturita' classica, il diploma di maturita' scientifica, il diploma di abilitazione magistrale.
-
-Art. 107 - Chi aspira ad ottenere l'iscrizione al 1° anno dei corsi della scuola dovra' sostenere un esame di ammissione per un numero di posti determinato, anno per anno, con decreto del rettore udito il Consiglio della scuola.
-
-Art. 108. - L'esame di ammissione consiste in una prova orale di cultura generale, innanzi ad una Commissione composta dal preside della Facolta' di medicina e chirurgia, dal direttore della scuola e da un terzo membro designato dal rettore dell'Universita' e in una prova orale di conoscenza di una lingua straniera moderna scelta tra l'inglese, il francese e il tedesco.
-
-L'esame di ammissione avra' luogo entro la prima quindicina del mese di novembre di ciascun anno nel giorno che sara' stabilito dal rettore con apposito manifesto.
-
-Art. 109. - L'anno accademico ha inizio il 1 dicembre e termina il 30 giugno di ogni anno.
-
-La domanda di iscrizione deve essere corredata dai seguenti documenti:
-
-1) certificato di nascita in carta legale debitamente legalizzato per i nati fuori della giurisdizione di Milano;
-
-2) titolo di studi medi superiori in originale;
-
-3) tre fotografie di cui una autenticata;
-
-4) quietanza del pagamento delle tasse;
-
-5) foglio di iscrizione al corso su modulo rilasciato dall'economato dell'Universita'.
-
-Art. 110. - Il direttore della scuola viene nominato dal rettore su designazione del Consiglio della Facolta' di medicina e chirurgia tra i docenti della scuola.
-
-Il Consiglio della scuola si compone di tutti i professori designati a tenere i corsi prescritti ed e' presieduto dal preside della Facolta' di medicina e chirurgia.
-
-Gli insegnanti della scuola sono proposti dal Consiglio della Facolta' di medicina e chirurgia e nominati dal rettore. Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli aiuti ed assistenti della Facolta' di medicina e chirurgia o di altra Facolta' dell'Ateneo o tra persone di riconosciuta competenza anche fuori dell'ambito universitario.
-
-Art. 111. - Le materie di insegnamento sono le seguenti:
-
-1° anno:
-
-Organizzazioni di laboratori;
-
-Anatomia;
-
-Microbiologia;
-
-Istologia normale;
-
-Fisiologia;
-
-Chimica (I).
-
-2° anno:
-
-Istologia patologica;
-
-Chimica (II);
-
-Farmacologia;
-
-Tecnica di laboratorio.
-
-Sono inoltre prescritte esercitazioni pratiche presso i vari istituti prescelti dalla direzione della scuola, il cui numero verra' stabilito dal direttore della scuola stessa.
-
-Alla fine del corso gli allievi dovranno aver superato una prova attestante la conoscenza di una lingua straniera scelta fra il francese, l'inglese e il tedesco, diversa pero' da quella che e' stata oggetto per l'ammissione alla scuola.
-
-Art. 112. - I programmi di insegnamento vengono predisposti anno per anno dal Consiglio della scuola e sottoposti all'approvazione della Facolta' di medicina e chirurgia. Il Consiglio stabilisce pure l'orario delle lezioni e dei turni di tirocinio pratico.
-
-La sorveglianza degli iscritti, per quanto riguarda la loro attivita', spetta al direttore della scuola. La frequenza ai singoli insegnamenti deve essere attestata dai rispettivi insegnanti e notificata al direttore della scuola.
-
-Art. 113. - Per essere ammessi a frequentare il secondo corso, gli allievi debbono aver superato tutti gli esami del primo corso. Nel caso in cui gli allievi non abbiano superato gli esami prescritti, essi rimarranno nella posizione di fuori corso, fino a quando non avranno assolto tutti gli obblighi di cui sopra.
-
-Art. 114. - Durante il secondo corso gli allievi hanno l'obbligo di effettuare un internato della durata di quattro mesi presso l'istituto dove si svolge la materia che sara' oggetto della dissertazione finale di diploma.
-
-Art. 115. - Per essere ammessi a sostenere l'esame di diploma, gli allievi dovranno aver seguito i corsi, superato gli esami in tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole tutte le esercitazioni pratiche previste.
-
-Art. 116. - Le Commissioni per gli esami di profitto sono nominate dal preside della Facolta' di medicina e chirurgia, su proposta del direttore della scuola.
-
-Le Commissioni sono composte di tre membri: dal professore ufficiale della materia, presidente; da un professore ufficiale di materia affine e da un libero docente o cultore della materia. Ogni commissario ha a disposizione dieci punti.
-
-Art. 117. - L'esame di diploma consiste in una discussione sopra una dissertazione scritta su tema preventivamente assegnato dal direttore della scuola o da uno degli insegnanti con l'adesione del direttore, e in una prova pratica di laboratorio stabilita dalla Commissione esaminatrice.
-
-L'esame di diploma viene sostenuto davanti ad una Commissione di cinque membri, scelti tra i docenti della scuola, nominata dal preside della Facolta' di medicina e chirurgia su proposta del direttore della scuola. Ogni commissario ha a disposizione dieci punti.
-
-I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola; ma se al secondo esame non sia loro riconosciuta la idoneita', saranno senz'altro esclusi da ulteriori prove.
-
-Agli allievi che avranno superato l'esame finale viene rilasciato il diploma di tecnico di istituti medico-biologici.
-
-Art. 118. - Le tasse e soprattasse per la scuola sono le seguenti: tassa annuale di iscrizione: L. 15.000;
-
-soprattassa annuale di esame: L. 5000.
-
-L'ammontare dei contributi delle esercitazioni pratiche e per le altre prestazioni di cui gli iscritti usufruiscono durante il corso di studi, e' fissata anno per anno dal Consiglio di amministrazione dell'Universita', su proposta del Senato accademico, udite la Facolta' e scuola.
-
-La tassa di diploma e' fissata nella misura di L. 6000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 27 luglio 1955
-
-GRONCHI
-
-ROSSI
-
-Visto, il Guardasigilli: MORO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 1 settembre 1955 Atti del Governo, registro n. 92, foglio n. 137. - CARLOMAGNO
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, n. 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166), e modificato con [legge 1 giugno 1939, n. 872](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;872); con [regi decreti 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2056); [15 aprile 1942, n. 423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;423); [24 ottobre 1942, n. 1847; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1847) [27 luglio 1947, n. 1138 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-07-27;1138) [23 settembre 1949, n. 942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;942); [21 novembre 1949, n. 1194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-11-21;1194); [13 marzo 1950, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;283) [27 ottobre 1951, n. 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1825); [23 aprile 1952, n. 873](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-04-23;873); [10 febbraio 1953, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;383); [13 febbraio 1954, n. 750](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-02-13;750); [14 settembre 1954 n. 1161](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1161); [16 febbraio 1955, n. 138](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-16;138); [27 gennaio 1955, n. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-01-27;210) e [21 giugno 1955, n. 560](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-06-21;560);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Dopo l'art. 392 dello statuto sono aggiunti i seguenti articoli relativi all'istituzione di una scuola diretta a fini speciali per tecnici neurofisiopatologi presso la facolta' di medicina e chirurgia.  
   
-Decreta:  
+Scuola diretta a fini speciali per tecnici neurofisiopatologi  
   
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 393. - La scuola ha lo scopo di preparare gli allievi all'esercizio della professione di tecnico neurofisiopatologo, mediante l'insegnamento teorico di discipline di base e professionali, integrato da esercitazioni e tirocini professionali.  
+Art. 394. - La durata del corso degli studi per il conseguimento del diploma e' di due anni accademici.  
+Le lezioni teoriche ed il tirocinio pratico saranno svolti in istituti universitari. Gli allievi hanno l'obbligo della frequenza alle lezioni, ai seminari ed ai tirocini pratici, secondo le modalita' stabilite dal consiglio della scuola.  
+Art. 395. - Sono ammessi alla scuola gli allievi di ambo i sessi in possesso del titolo di studio della scuola media superiore, che abbiano superato un colloquio attitudinale.  
+Art. 396. - Il numero massimo dei posti disponibili e' stabilito nella misura di trenta, quindici per ciascun anno di corso. I candidati non devono avere superato il trentesimo anno.  
+1° Anno:  
+1) elementi di elettrotecnica;  
+2) elementi di tecnica elettronica e nozioni pratiche di riparazione delle apparecchiature biomediche (biennale);  
+3) nozioni generali di biochimica e biofisica;  
+4) nozioni generali di anatomia e fisiologia;  
+5) anatomia dell'apparato motore e del sistema nervoso;  
+6) nozioni pratiche e teoriche di fisiologia del sistema nervoso (biennale);  
+7) nozioni pratiche e teoriche di elettroencefalografia e neurofisiologia clinica (biennale).  
+2° Anno:  
+8) elementi di tecnica elettronica e nozioni pratiche di riparazione delle apparecchiature biomediche;  
+9) nozioni pratiche e teoriche di fisiologia del sistema nervoso;  
+10) nozioni di patologia e clinica dell'apparato motore;  
+11) nozioni pratiche e teoriche di elettromiografia, elettrodiagnostica ed elettroterapia;  
+12) nozioni di patologia del sistema nervoso;  
+13) nozioni pratiche e teoriche di elettroencefalografia e neurofisiologia clinica;  
+14) nozioni teoriche e pratiche di ecoencefalografia, reoencefalografia e metodi di registrazione poligrafica.  
+Nel secondo anno viene dato particolare risalto alle dimostrazioni pratiche. I corsi saranno integrati da conferenze e da seminari sulle materie di insegnamento.  
+Art. 397. - Per essere ammessi al secondo anno gli allievi dovranno avere superato gli esami di cui ai punti 1), 3), 4), 5) dell'articolo precedente.  
+Art. 398. - L'esame finale per il conseguimento del diploma di tecnico neurofisiopatologo consiste in un esame scritto ed una prova pratica, previo superamento degli esami di profitto relativi alle materie di insegnamento di cui ai punti 6), 7), 8), 9), 10), 11), 12), 13), 14) con cui l'allievo dovra' dimostrare di avere raggiunto un livello di preparazione adeguato nelle materie che sono oggetto di insegnamento. L'esame di diploma dovra' essere superato entro cinque anni dalla data di immatricolazione.  
+Art. 399. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+Art. 400. - Il consiglio della scuola e' costituito dal direttore e dal corpo docente della scuola.  
+Art. 401. - Ammontare delle tasse per anno di corso:  
   
-Dopo l'art. 104 sono aggiunti i seguenti nuovi articoli, relativi all'istituzione della "Scuola per tecnici di istituti medico-biologici".  
-  
-SCUOLE DIRETTE A FINI SPECIALI  
-Scuola per tecnici di istituti medico-biologici  
-  
-Art. 105. - E' istituita, ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), una scuola per tecnici di istituti medico-biologici, che ha lo scopo di preparare adeguatamente personale tecnico che sia in grado di collaborare attivamente con lo studioso e col ricercatore nell'indagine scientifica sperimentale.  
-Art. 106. - La durata del corso degli studi della scuola per tecnici di istituti medico-biologici e' di due anni.  
-E' titolo di ammissione il diploma di maturita' classica, il diploma di maturita' scientifica, il diploma di abilitazione magistrale.  
-Art. 107 - Chi aspira ad ottenere l'iscrizione al 1° anno dei corsi della scuola dovra' sostenere un esame di ammissione per un numero di posti determinato, anno per anno, con decreto del rettore udito il Consiglio della scuola.  
-Art. 108. - L'esame di ammissione consiste in una prova orale di cultura generale, innanzi ad una Commissione composta dal preside della Facolta' di medicina e chirurgia, dal direttore della scuola e da un terzo membro designato dal rettore dell'Universita' e in una prova orale di conoscenza di una lingua straniera moderna scelta tra l'inglese, il francese e il tedesco.  
-L'esame di ammissione avra' luogo entro la prima quindicina del mese di novembre di ciascun anno nel giorno che sara' stabilito dal rettore con apposito manifesto.  
-Art. 109. - L'anno accademico ha inizio il 1 dicembre e termina il 30 giugno di ogni anno.  
-La domanda di iscrizione deve essere corredata dai seguenti documenti:  
-1) certificato di nascita in carta legale debitamente legalizzato per i nati fuori della giurisdizione di Milano;  
-2) titolo di studi medi superiori in originale;  
-3) tre fotografie di cui una autenticata;  
-4) quietanza del pagamento delle tasse;  
-5) foglio di iscrizione al corso su modulo rilasciato dall'economato dell'Universita'.  
-Art. 110. - Il direttore della scuola viene nominato dal rettore su designazione del Consiglio della Facolta' di medicina e chirurgia tra i docenti della scuola.  
-Il Consiglio della scuola si compone di tutti i professori designati a tenere i corsi prescritti ed e' presieduto dal preside della Facolta' di medicina e chirurgia.  
-Gli insegnanti della scuola sono proposti dal Consiglio della Facolta' di medicina e chirurgia e nominati dal rettore. Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli aiuti ed assistenti della Facolta' di medicina e chirurgia o di altra Facolta' dell'Ateneo o tra persone di riconosciuta competenza anche fuori dell'ambito universitario.  
-Art. 111. - Le materie di insegnamento sono le seguenti:  
-1° anno:  
-Organizzazioni di laboratori;  
-Anatomia;  
-Microbiologia;  
-Istologia normale;  
-Fisiologia;  
-Chimica (I).  
-2° anno:  
-Istologia patologica;  
-Chimica (II);  
-Farmacologia;  
-Tecnica di laboratorio.  
-Sono inoltre prescritte esercitazioni pratiche presso i vari istituti prescelti dalla direzione della scuola, il cui numero verra' stabilito dal direttore della scuola stessa.  
-Alla fine del corso gli allievi dovranno aver superato una prova attestante la conoscenza di una lingua straniera scelta fra il francese, l'inglese e il tedesco, diversa pero' da quella che e' stata oggetto per l'ammissione alla scuola.  
-Art. 112. - I programmi di insegnamento vengono predisposti anno per anno dal Consiglio della scuola e sottoposti all'approvazione della Facolta' di medicina e chirurgia. Il Consiglio stabilisce pure l'orario delle lezioni e dei turni di tirocinio pratico.  
-La sorveglianza degli iscritti, per quanto riguarda la loro attivita', spetta al direttore della scuola. La frequenza ai singoli insegnamenti deve essere attestata dai rispettivi insegnanti e notificata al direttore della scuola.  
-Art. 113. - Per essere ammessi a frequentare il secondo corso, gli allievi debbono aver superato tutti gli esami del primo corso. Nel caso in cui gli allievi non abbiano superato gli esami prescritti, essi rimarranno nella posizione di fuori corso, fino a quando non avranno assolto tutti gli obblighi di cui sopra.  
-Art. 114. - Durante il secondo corso gli allievi hanno l'obbligo di effettuare un internato della durata di quattro mesi presso l'istituto dove si svolge la materia che sara' oggetto della dissertazione finale di diploma.  
-Art. 115. - Per essere ammessi a sostenere l'esame di diploma, gli allievi dovranno aver seguito i corsi, superato gli esami in tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole tutte le esercitazioni pratiche previste.  
-Art. 116. - Le Commissioni per gli esami di profitto sono nominate dal preside della Facolta' di medicina e chirurgia, su proposta del direttore della scuola.  
-Le Commissioni sono composte di tre membri: dal professore ufficiale della materia, presidente; da un professore ufficiale di materia affine e da un libero docente o cultore della materia. Ogni commissario ha a disposizione dieci punti.  
-Art. 117. - L'esame di diploma consiste in una discussione sopra una dissertazione scritta su tema preventivamente assegnato dal direttore della scuola o da uno degli insegnanti con l'adesione del direttore, e in una prova pratica di laboratorio stabilita dalla Commissione esaminatrice.  
-L'esame di diploma viene sostenuto davanti ad una Commissione di cinque membri, scelti tra i docenti della scuola, nominata dal preside della Facolta' di medicina e chirurgia su proposta del direttore della scuola. Ogni commissario ha a disposizione dieci punti.  
-I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola; ma se al secondo esame non sia loro riconosciuta la idoneita', saranno senz'altro esclusi da ulteriori prove.  
-Agli allievi che avranno superato l'esame finale viene rilasciato il diploma di tecnico di istituti medico-biologici.  
-Art. 118. - Le tasse e soprattasse per la scuola sono le seguenti: tassa annuale di iscrizione: L. 15.000;  
-soprattassa annuale di esame: L. 5000.  
-L'ammontare dei contributi delle esercitazioni pratiche e per le altre prestazioni di cui gli iscritti usufruiscono durante il corso di studi, e' fissata anno per anno dal Consiglio di amministrazione dell'Universita', su proposta del Senato accademico, udite la Facolta' e scuola.  
-La tassa di diploma e' fissata nella misura di L. 6000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
+tassa annuale di iscrizione . . . . . . . . . . . . . . L. 15.000 soprattassa annuale di esame . . . . . . . . . . . . . . L. 5.000 contributo per esercitazioni pratiche . . . . . . . . . L. 25.000 tassa di diploma. . . . . . . . . . . . . . . . . . . . L. 50.000 tassa annuale di iscrizione per studenti fuori corso . . L. 3.000   
+Il pagamento delle tasse, soprattasse e contributi e' ripartibile in due versamenti uguali: il primo da effettuare all'atto dell'iscrizione, il secondo entro il 31 marzo.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 luglio 1955
+### Dato a Roma, addi' 31 ottobre 1981
 
-GRONCHI ROSSI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 1 settembre 1955
+Registrato alla Corte dei conti, addi' 16 marzo 1982
 
-Atti del Governo, registro n. 92, foglio n. 137. - CARLOMAGNO
+Registro n. 42 Istruzione, foglio n. 183

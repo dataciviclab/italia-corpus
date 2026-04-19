@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 luglio 1987 n. 341
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 febbraio 1972 n. 53
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 luglio 1987 n. 341
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 febbraio 1972 n. 53
+==============================================================
 
 Modificazioni alle piante organiche dei magistrati di alcuni uffici giudiziari.
 -------------------------------------------------------------------------------
@@ -12,48 +12,50 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Viste le tabelle C e D relative alle piante organiche dei magistrati giudicanti e del pubblico ministero addetti ai tribunali ed alle preture, allegate al [decreto del Presidente della Repubblica 31 dicembre 1966, n. 1185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-12-31;1185) e successive variazioni;  
-Considerata la necessita', al fine di fronteggiare le accresciute esigenze di servizio, di aumentare di una unita' la pianta organica dei procuratori aggiunti della procura della Repubblica presso il tribunale di Palermo e di una unita' quella di presidenti di sezione del tribunale di Caltanissetta;  
-Ritenuto che per far fronte alle esigenze innanzi prospettate si puo' provvedere sopprimendo un posto di consigliere pretore del mandamento di Napoli ed un posto di pretore del mandamento di Roma;  
-Visto il parere espresso al riguardo dal Consiglio superiore della magistratura nella seduta del 18 giugno 1987;  
+Viste le tabelle C e D allegate al [decreto presidenziale 31 dicembre 1966, n. 1185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-12-31;1185), e successive variazioni, contenenti le piante organiche dei magistrati addetti ai tribunali e alle preture;  
+Riconosciuta l'urgenza di aumentare di quattro unita' la pianta organica dei magistrati addetti alla pretura di Torino per accresciute esigenze di servizio;  
+Considerato che per reperire i posti necessari si possono ridurre di una unita' ciascuna le piante organiche dei magistrati addetti ai tribunali di Sondrio, Cuneo, Piacenza e Grosseto;  
+Visto il parere espresso al riguardo dal Consiglio superiore della magistratura nella seduta del 24 novembre 1971;  
 Visto l'art. 1, ultimo comma, della [legge 4 gennaio 1963, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-01-04;1);  
-Sulla proposta del Ministro di grazia e giustizia;  
+Sulla proposta del Ministro Segretario di Stato per la grazia e giustizia;  
   
 Decreta:  
   
-Le tabelle C e D relative alle piante organiche dei magistrati giudicanti e del pubblico ministero addetti ai tribunali ed alle preture, allegate al [decreto del Presidente della Repubblica 31 dicembre 1966, n. 1185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-12-31;1185) e successive variazioni, sono modificate, per la parte concernente gli uffici cui si riferiscono, come dalle tabelle A e B allegate al presente decreto, vistate dal Ministro proponente.  
+Le tabelle C e D allegate al [decreto presidenziale 31 dicembre 1966, n. 1185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-12-31;1185), e successive variazioni, contenenti le piante organiche dei magistrati addetti ai tribunali e alle preture, sono modificate - per la parte relativa agli uffici cui si riferiscono - come dalle tabelle A e B allegate al presente decreto, vistate dal Ministro proponente.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 luglio 1987
+### Dato a Roma, addi' 21 febbraio 1972
 
-COSSIGA
+LEONE GONELLA
 
-ROGNONI, Ministro di grazia e giustizia
+Visto, il Guardasigilli: GONELLA
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 14 marzo 1972
 
-Registrato alla Corte dei conti, addi' 6 agosto 1987
+Atti del Governo, registro n. 247, foglio n. 131. - VALENTINI
 
-Registro n. 35 Giustizia, foglio n. 20
-
-Tabella A
+Tabelle
 
  TABELLA A   
-MAGISTRATI GIUDICANTI E DEL PUBBLICO MINISTERO ADDETTI AI TRIBUNALI   
+  
+Magistrati giudicanti e del pubblico ministero addetti ai tribunali   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=087U034100100010110001&dgu=1987-08-17&art.dataPubblicazioneGazzetta=1987-08-17&art.codiceRedazionale=087U0341)
-  
-
-Tabella B
-
- TABELLA B   
-MAGISTRATI ADDETTI ALLE PRETURE   
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=072U005300100010110001&dgu=1972-03-20&art.dataPubblicazioneGazzetta=1972-03-20&art.codiceRedazionale=072U0053)
   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=087U034100200010110001&dgu=1987-08-17&art.dataPubblicazioneGazzetta=1987-08-17&art.codiceRedazionale=087U0341)
+  
+  
+  
+TABELLA B   
+  
+Magistrati addetti alle preture   
+  
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=072U005300100010110002&dgu=1972-03-20&art.dataPubblicazioneGazzetta=1972-03-20&art.codiceRedazionale=072U0053)
   

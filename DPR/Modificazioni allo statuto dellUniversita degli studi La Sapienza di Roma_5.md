@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 804
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 marzo 1983 n. 226
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 804
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 marzo 1983 n. 226
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 ------------------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi "La Sapienza" di Roma, approvato con [regio decreto 14 ottobre 1926, n. 2319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2319), e successive modificazioni;
+Veduto lo statuto dell'Universita' "La Sapienza" di Roma, approvato con [regio decreto 14 ottobre 1926, n. 2319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2319), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -24,7 +24,7 @@ Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http:
 
 Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta, ai sensi della citata legge n. 615;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
 Veduto il parere del Consiglio universitario nazionale;
 
@@ -33,31 +33,32 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' degli studi "La Sapienza" di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' "La Sapienza" di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Nell'art. 127, relativo al corso di laurea in farmacia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-enzimologia;  
-metodologia biochimica.  
-Nell'art. 132, relativo al corso di laurea in chimica e tecnologia farmaceutiche, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-enzimologia;  
-metodologia biochimica.  
+  
+Art. 115 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' inserito il seguente insegnamento: biochimica vegetale.   
+Art. 117 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono inseriti i seguenti insegnamenti:   
+laboratorio di tecniche microscopiche istologiche e istochimiche;   
+embriologia e morfologia sperimentale;   
+genetica molecolare;   
+biochimica vegetale.   
+Art. 119 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche e' inserito il seguente insegnamento:   
+geotermia.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 luglio 1986
+### Dato a Roma, addi' 25 marzo 1983
 
-COSSIGA
+PERTINI FALCUCCI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DARIDA
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 19 maggio 1983
 
-Registrato alla Corte dei conti, addi' 17 novembre 1986
-
-Registro n. 84 Istruzione, foglio n. 111
+Registro n. 36 Istruzione, foglio n. 63

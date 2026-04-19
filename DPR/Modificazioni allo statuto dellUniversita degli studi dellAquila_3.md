@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 maggio 1978 n. 790
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 agosto 1986 n. 687
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 maggio 1978 n. 790
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 agosto 1986 n. 687
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi dell'Aquila.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi dell'Aquila.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi dell'Aquila degli Abruzzi, approvato con [decreto del Presidente della Repubblica 18 agosto 1964, n. 921](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1964-08-18;921) e modificato con [decreto del Presidente della Repubblica 31 ottobre 1965, n. 1074](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-10-31;1074), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi dell'Aquila approvato con [decreto del Presidente della Repubblica 27 ottobre 1983, n. 837](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1983-10-27;837), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,38 +20,88 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' degli studi dell'Aquila degli Abruzzi e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sulla
------
+Considerato che e' tuttora in atto la sperimentazione organizzativa e didattica di cui agli [articoli 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art81) e [93 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art93);
 
-proposta del Ministro della pubblica istruzione, di concerto con il Ministro del tesoro; Decreta:
+Considerato che le tabelle dell'ordinamento didattico universitario relative ai corsi di laurea sono in fase di riordinamento per effetto di apposite commissioni di studio, e che anzi alcune tabelle sono state gia' riordinate;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Rilevata la necessita' di accogliere la richiesta dell'Universita' dell'Aquila di istituire il corso di laurea in scienze dell'informazione allo scopo di riequilibrare le iscrizioni presso gli omonimi corsi di laurea degli altri atenei, al fine di assicurare una migliore formazione degli studenti;
+
+Rilevata, quindi, la necessita' di apportare le modifiche in deroga al termine triennale di cui all'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi dell'Aquila, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-La tabella A, annessa allo statuto dell'Universita' dell'Aquila degli Abruzzi, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificata nel senso che l'organico dei posti di professore di ruolo e' ampliato come segue:  
-facolta' di scienze matematiche, fisiche e naturali:  
-professori di ruolo (10 + 2) + 1;  
-totale n. 12 + 1;  
-facolta' di ingegneria: professori di ruolo (6 + 2);  
-totale n. 8.  
+Nell'art. 73, all'elenco delle lauree che conferisce la facolta' di scienze matematiche, fisiche e naturali, e' aggiunta la seguente laurea:  
+"d) la laurea in scienze dell'informazione".  
+Dopo l'art. 94, con il conseguente scorrimento della numerazione degli articoli successivi, sono inseriti l'intitolazione del corso di laurea in scienze dell'informazione e gli articoli relativi all'ordinamento degli studi del corso di laurea medesimo come di seguito riportato:  
+  
+Corso di laurea in scienze dell'informazione  
+  
+Art. 95. - Durata del corso quattro anni.  
+Titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge.  
+Art. 96. - Il corso si distingue in tre indirizzi:  
+indirizzo generale, indirizzo applicativo (gestione), indirizzo tecnico (sistemi per la elaborazione).  
+Art. 97. - a) Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi per il primo biennio:  
+1° Anno.  
+fisica I, analisi matematica I, algebra (semestrale), geometria (semestrale), teoria ed applicazione delle macchine calcolatrici.  
+2° Anno.  
+fisica II, analisi matematica II, calcolo numerico (semestrale), calcolo delle probabilita' e statistica (semestrale), sistemi per l'elaborazione dell'informazione I, ricerca operativa e gestione aziendale.  
+Art. 98. - b) Sono insegnamenti fondamentali comuni a tutti gli indirizzi per il secondo biennio:  
+sistemi per l'elaborazione dell'informazione, teoria dell'informazione e della trasmissione, metodi per il trattamento dell'informazione.  
+c) Sono insegnamenti fondamentali obbligatori:  
+a) per l'indirizzo generale:  
+linguaggi formali e compilatori, metodi di approssimazione.  
+b) per l'indirizzo applicativo:  
+teoria e metodi dell'ottimizzazione, economia ed organizzazione aziendale (semestrale); trattamento dell'informazione nell'impresa (semestrale).  
+c) per l'indirizzo tecnico:  
+teoria dei sistemi, tecniche numeriche ed analogiche.  
+Art. 99. - Insegnamenti complementari comuni ai tre indirizzi:  
+analisi numerica, basi di dati, bioelettronica, biometria, calcolo delle probabilita', cibernetica e teoria dell'informazione, complementi di gestione aziendale, complessita' computazionale, comunicazioni elettriche, controlli automatici, controllo dei processi industriali, didattica dell'informatica, documentazione automatica, econometria, elaborazione dell'informazione non numerica, elaborazione di immagini, elaborazione di testi letterali, elettronica, fisica numerica, fisica superiore, istituzioni di fisica teorica, istituzioni di analisi superiore, istituzioni di fisica matematica, istituzioni di informatica teorica, lingua inglese, linguaggi speciali di programmazione, logica matematica, macchine calcolatrici analogiche, matematica applicata, matematica discreta, metodi dell'intelligenza artificiale, processi stocastici, progetto di sistemi numerici, ricerca operativa, semantica dei linguaggi, simulazione, statistica matematica, tecniche automatiche di acquisizione dati, tecniche di progettazione automatica, tecniche direzionali, tecniche speciali di elaborazioni, teoria degli algoritmi e della calcolabilita', teoria degli automi, teoria dei giochi, teoria dei grafi, teoria dei modelli, teoria delle decisioni.  
+Alcuni di questi corsi complementari potranno avere durata semestrale.  
+Ciascuno degli insegnamenti, sia fondamentali che complementari, comporta un esame finale.  
+Ciascun insegnamento fondamentale di un indirizzo puo' essere scelto come complementare per altro indirizzo in cui non sia fondamentale.  
+La scelta delle materie complementari da parte dello studente e' sottoposta alla preventiva approvazione della facolta' e del consiglio di corso di laurea.  
+Art. 100. - Per ottenere l'iscrizione al secondo biennio, lo studente deve aver seguito i corsi e superato gli esami di almeno cinque materie annuali del primo biennio (due corsi semestrali sono valutati come un corso annuale).  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in quattro scelti fra i complementari se a corso semestrale, in almeno tre se uno di essi e' annuale, o in almeno due se ambedue sono annuali.  
+Art. 101. - L'esame di laurea comprende due prove:  
+a) la discussione di una tesi scritta su un argomento attinente ad una delle discipline del corso di laurea;  
+b) discussione di una o piu' tesine assegnate allo studente previa approvazione del consiglio di corso di laurea.  
+Tali tesine dovranno essere di argomento diverso dalla tesi e diverse per argomento tra loro.  
+Le tesine avranno carattere generale e saranno dirette a verificare la cultura dello studente in aree fondamentali del corso di laurea.  
+Art. 102 - Immatricolazione di laureati e passaggi da altri corsi di laurea.  
+Potranno essere iscritti al secondo anno del corso di laurea in scienze dell'informazione coloro che avendo seguito il primo anno del corso di laurea in ingegneria o in fisica o in matematica, abbiano superato almeno due degli esami di analisi matematica I, fisica, algebra, geometria.  
+Potranno essere iscritti al terzo anno coloro che avendo seguito due o piu' anni del corso di laurea in fisica o in matematica abbiano superato almeno cinque degli esami tra analisi matematica I e II, algebra, geometria, calcolo numerico.  
+Per l'iscrizione ai corsi per la laurea in scienze dell'informazione di studenti provenienti da altri corsi di laurea valgono le stesse norme valide per gli studenti provenienti dai corsi di laurea menzionati.  
+Coloro che sono in possesso di altra laurea che aspirano alla laurea in scienza dell'informazione, possono ottenere un'abbreviazione del corso non superiore ai due anni che viene stabilita con decreto rettorale udito caso per caso il consiglio di facolta'.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 maggio 1978
+### Dato a Roma, addi' 29 agosto 1986
 
-LEONE PEDINI - PANDOLFI
+COSSIGA
 
-Visto, il Guardasigilli: BONIFACIO
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 2 dicembre 1978
+Visto, il Guardasigilli: ROGNONI
 
-Registro n. 127 Istruzione, foglio n. 251
+Registrato alla Corte dei conti, addi' 14 ottobre 1986
+
+Registro n. 76 Istruzione, foglio n. 372

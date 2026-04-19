@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1977 n. 1214
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979 n. 456
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1977 n. 1214
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979 n. 456
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
@@ -10,78 +10,79 @@ Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Art. 52 - all'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
-linguistica generale;  
-linguistica applicata;  
-sociolinguistica;  
-teoria della letteratura;  
-geografia umana;  
-storia del pensiero scientifico;  
-metodologia didattica.  
-Art. 53 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne sono aggiunti i seguenti:  
-geografia umana;  
-linguistica applicata;  
-psicolinguistica;  
-sociolinguistica;  
-metodologia didattica;  
-pedagogia sperimentale.  
-Art. 54 - all'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:  
-storia del pensiero scientifico;  
-metodologia didattica;  
-linguistica generale;  
-sociolinguistica.  
-Art. 59 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto il seguente:  
-immunoematologia.  
-Lo stesso elenco e' modificato nel senso che gli insegnamenti complementari di statistica sanitaria e chirurgia pediatrica mutano rispettivamente la denominazione in quella di:  
-biometria e statistica medica;  
-clinica chirurgia pediatrica.  
-L'art. 77, relativo alla propedeuticita' degli esami per la laurea in farmacia, e' modificato nel senso che e' aggiunto il seguente ultimo comma:  
-"Gli esami di esercitazioni di chimica farmaceutica tossicologica I, II e III devono essere sostenuti e superati in ordine progressivo".  
-Dopo l'art. 85, e con lo spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo, relativo alla propedeuticita' degli esami per la laurea in chimica e tecnologia farmaceutiche.  
-Art. 86. - L'esame di chimica farmaceutica I non puo' essere sostenuto se prima non siano stati superati gli esami di chimica generale ed inorganica e di chimica organica I; l'esame di farmacologia non puo' essere sostenuto se prima non siano stati superati gli esami di botanica e di fisiologia generale.  
-L'esame di fisiologia generale non puo' essere sostenuto se prima non si sia superato l'esame di anatomia umana; l'esame di tecnica e legislazione farmaceutica non puo' essere sostenuto se prima non siano stati superati gli esami di chimica farmaceutica e di farmacologia; l'esame di chimica degli alimenti non potra' essere sostenuto se prima non siano stati superati gli esami di chimica organica I e di analisi chimicofarmaceutiche II.  
-L'esame di chimica biologica non puo' essere sostenuto se prima non sia stato superato l'esame di chimica organica I.  
-L'esame di chimica fisica non puo' essere sostenuto se prima non siano stati superati gli esami di istituzioni di matematiche, di chimica generale ed inorganica e di fisica.  
-L'esame di laboratorio di preparazione estrattiva e sintetica dei farmaci non potra' essere sostenuto se prima non saranno stati superati gli esami di chimica organica I e II.  
-L'esame di analisi chimico-farmaceutiche III non puo' essere sostenuto se non saranno superati gli esami di analisi chimico-farmaceutiche I e analisi chimicofarmaceutiche II.  
-L'esame di metodi fisici in chimica organica non puo' essere sostenuto se prima non saranno stati superati gli esami di chimica organica I e chimica fisica.  
-L'esame di saggi e dosaggi farmacologici non potra' essere sostenuto se prima non verra' superato l'esame di farmacologia.  
-Per essere ammesso al corso di analisi chimico-farmaceutiche I lo studente deve aver superato l'esame di chimica generale ed inorganica.  
-Per essere ammesso ai corsi di analisi chimico-farmaceutiche III, di lab. preparazione estrattiva e sintetica dei farmaci e di chimica degli alimenti lo studente deve aver superato l'esame di chimica organica I.  
-L'esame di laurea in chimica e tecnologia farmaceutiche consiste in:  
-1) un'analisi qualitativa da eseguirsi nel laboratorio di chimica farmaceutica e tossicologica, alla presenza di almeno tre membri della commissione esaminatrice;  
-2) una prova di riconoscimento e saggi di purezza, qualitativi e quantitativi, di due prodotti farmaceutici, iscritti nella F.U.I., da eseguirsi come sopra;  
-3) una prova di riconoscimento di droghe, inclusi procedimenti biologici, da eseguirsi nell'istituto di farmacologia alla presenza di almeno tre membri della commissione esaminatrice;  
-4) preparazione di medicamento, iscritto nella F.U.I., da eseguirsi nell'istituto di chimica farmaceutica alla presenza di almeno tre membri della commissione esaminatrice;  
-5) discussione sui risultati delle predette prove e su di una dissertazione sperimentale, svolta sopra un argomento scelto dal candidato sul campo delle discipline eseguite durante il corso di studi;  
-6) prova orale di cultura tecnica.  
+Dopo l'art. 270, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina dello sport.   
+  
+Scuola di specializzazione in medicina dello sport   
+  
+Art. 271. - La scuola di specializzazione in medicina dello sport dell'Universita' degli studi di Pavia si propone:   
+a) di valorizzare e approfondire gli studi biologici e di medicina applicata nel campo delle attivita' sportive, formative e di competizione, e della educazione fisica;   
+b) di preparare adeguatamente sotto l'aspetto teorico e della applicazione pratica, i medici che intendono dedicarsi alle attivita' attinenti a questa particolare branca della medicina applicata, conferendo ad essi il diploma di specialista in medicina dello sport.   
+Art. 272. - Il titolo richiesto per l'ammissione alla scuola e' la laurea in medicina e chirurgia.   
+Il corso di studi ha la durata di tre anni, con frequenza obbligatoria; esso ha la sua sede ufficiale presso l'istituto di fisiologia umana. Gli insegnamenti clinici e specialistici si svolgono presso i rispettivi istituti clinici e specialistici.   
+Il numero massimo degli allievi e' di dodici per anno e complessivamente di trentasei per l'intero corso.   
+L'ammissione ai corsi avviene per titoli. Nel caso di domande eccedenti il numero dei posti disponibili la selezione dei candidati avviene in base ai risultati di un esame di ammissione.   
+Non sono previste abbreviazioni di corso.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 273. - L'ordine degli studi e' il seguente:   
+1° Anno:   
+1) anatomia dell'apparato locomotore;   
+2) fisiologia dell'apparato locomotore;   
+3) biochimica ed energetica muscolare;   
+4) antropometria e auxologia;   
+5) psicologia applicata allo sport;   
+6) storia dell'educazione fisica e dello sport;   
+7) sistematica delle attivita' sportivo-agonistiche e regolamenti sportivi.   
+2° Anno:   
+1) fisiologia dell'esercizio fisico;   
+2) biomeccanica dell'esercizio fisico;   
+3) metodologia dell'allenamento sportivo;   
+4) scienza della nutrizione applicata all'attivita' sportiva;   
+5) fisiopatologia degli sport e semeiotica medico-sportiva I;   
+6) farmacologia e tossicologia del doping;   
+7) igiene e medicina preventiva applicata all'attivita' sportiva;   
+8) traumatologia degli sport.   
+3° Anno:   
+1) fisiologia applicata agli sport;   
+2) valutazione funzionale dello sportivo;   
+3) fisiopatologia degli sport e semeiotica medico-sportiva II;   
+4) fisioterapia e rieducazione funzionale;   
+5) rianimazione e pronto soccorso;   
+6) medicina legale ed infortunistica legata agli sport;   
+7) fisiologia dell'adattamento agli ambienti straordinari.   
+La scuola svolge brevi corsi integrativi di conferenze o seminari sopra argomenti e discipline che sono stabiliti, secondo le possibilita' contingenti, del consiglio dei docenti della scuola.  
+Sono inoltre svolte esercitazioni pratiche in sede e sul campo.   
+Art. 274. - Alla fine di ogni anno di corso gli allievi devono sostenere l'esame di profitto nelle materie di insegnamento (art. 273), previste per ogni anno di corso e articolate in un unico gruppo.   
+L'iscrizione agli anni successivi e' subordinata al superamento di tutti gli esami annuali.   
+Art. 275. - Il diploma si consegue dopo aver superato tutte le prove di esame del triennio; la prova di diploma si svolge con la discussione su una dissertazione scritta concernente un tema assegnato o in ogni altro caso approvato dal direttore della scuola.   
+Art. 276. - Alle spese occorrenti al funzionamento della scuola si provvede con le seguenti tasse, soprattasse e contributi degli iscritti:   
+  
+tassa di immatricolazione. . . . . . . . . . . . . . . . . . L. 5.000 libretto e tessera . . . . . . . . . . . . . . . . . . . . . L. 2.000 tassa annuale di iscrizione (in due rate). . . . . . . . . L. 186.000 tassa erariale di diploma. . . . . . . . . . . . . . . . . . L. 6.000   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 ottobre 1977
+### Dato a Roma, addi' 4 giugno 1979
 
-LEONE MALFATTI
+PERTINI SPADOLINI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 27 giugno 1978
+Registrato alla Corte dei conti, addi' 7 settembre 1979
 
-Registro n. 67 Istruzione, foglio n. 344
+Registro n. 67 Istruzione, foglio n. 394

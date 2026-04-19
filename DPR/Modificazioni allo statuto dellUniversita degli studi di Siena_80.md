@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1980 n. 684
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 716
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1980 n. 684
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 716
 ================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Siena.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 agosto 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-08-31;2395), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,129 +18,346 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio universitario nazionale nel suo parere;
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
---------
 
 Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Gli articoli 138, 139 e 140, relativi alla scuola di specializzazione in urologia, sono soppressi e sostituiti dai seguenti:
+
+Scuola di specializzazione in urologia
+
+Art. 138. - La scuola di specializzazione in urologia ha sede presso l'istituto di semeiotica chirurgica e conferisce il diploma di specialista in urologia.
+
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Possono iscriversi alla scuola tutti i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+La durata del corso di studi e' di 5 anni e non e' suscettibile di abbreviazione.
+
+Il numero massimo degli allievi e' di 9 per anno di corso e complessivamente di 45 iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Art. 139. - Le materie d'insegnamento e gli esami sono i seguenti:
+
+=====================================================================
+
+Insegnamenti | Esami
+
+=====================================================================
+
+Primo anno |Primo anno
+
+---------------------------------------------------------------------
+
+1) Anatomia sistematica e |1) Anatomia sistematica e
+
+topografica dell'apparato urinario|topografica dell'apparato urinario
+
+e genitale maschile |e genitale maschile
+
+---------------------------------------------------------------------
+
+2) Fisiologia dell'apparato |2) Fisiologia dell'apparato
+
+urinario e genitale maschile |urinario e genitale maschile
+
+---------------------------------------------------------------------
+
+3) Batteriologia in urologia |3) Batteriologia in urologia
+
+---------------------------------------------------------------------
+
+4) Semeiotica funzionale e |
+
+strumentale dell'apparato |
+
+uro-genitale I |
+
+---------------------------------------------------------------------
+
+Secondo anno |Secondo anno
+
+---------------------------------------------------------------------
+
+1) Semeiotica funzionale e |1) Semeiotica funzionale e
+
+strumentale dell'apparato |strumentale dell'apparato
+
+uro-genitale II |uro-genitale
+
+---------------------------------------------------------------------
+
+2) Le nefropatie mediche |2) Le nefropatie mediche
+
+---------------------------------------------------------------------
+
+3) Anatomia chirurgica |3) Anatomia chirurgica
+
+dell'apparato urinario e genitale |dell'apparato urinario e genitale
+
+maschile |maschile
+
+---------------------------------------------------------------------
+
+4) Patologia dell'apparato |
+
+urinario e genitale maschile I |
+
+---------------------------------------------------------------------
+
+5) Radiologia dell'apparato |
+
+urinario e genitale maschile I |
+
+---------------------------------------------------------------------
+
+Terzo anno |Terzo anno
+
+---------------------------------------------------------------------
+
+1) Patologia dell'apparato |1) Patologia dell'apparato
+
+urinario e genitale maschile II |urinario e genitale maschile
+
+---------------------------------------------------------------------
+
+2) Radiologia dell'apparato |2) Radiologia dell'apparato
+
+urinario e genitale maschile II |urinario e genitale maschile
+
+---------------------------------------------------------------------
+
+3) Le affezioni cutanee e veneree |3) Le affezioni cutanee e veneree
+
+nei riguardi dell'urologia |nei riguardi dell'urologia
+
+---------------------------------------------------------------------
+
+4) Andrologia |4) Andrologia
+
+---------------------------------------------------------------------
+
+Quarto anno |Quarto anno
+
+---------------------------------------------------------------------
+
+1) Anatomia ed istologia |1) Anatomia ed istologia
+
+patologica dell'apparato urinario |patologica dell'apparato urinario
+
+e genitale maschile |e genitale maschile
+
+---------------------------------------------------------------------
+
+2) Farmacoterapia delle affezioni |2) Farmacoterapia delle affezioni
+
+uro-genitali |uro-genitali
+
+---------------------------------------------------------------------
+
+3) Anestesia e trattamento |3) Anestesia e trattamento
+
+pre-post operatorio del malato |pre-post-operatorio del malato
+
+urologico |urologico
+
+---------------------------------------------------------------------
+
+4) Nefrologia chirurgica |4) Nefrologia chirurgica
+
+---------------------------------------------------------------------
+
+5) Clinica urologica I |
+
+---------------------------------------------------------------------
+
+6) Procedimenti di chirurgia |
+
+endoscopica I |
+
+---------------------------------------------------------------------
+
+7) Interventi e procedimenti |
+
+operatori sullo apparato urinario |
+
+e genitale maschile I |
+
+---------------------------------------------------------------------
+
+Quinto anno |Quinto anno
+
+---------------------------------------------------------------------
+
+1) Clinica urologica II |1) Clinica urologica
+
+---------------------------------------------------------------------
+
+2) Patologia e clinica urologica |2) Patologia e clinica urologica
+
+infantile |infantile
+
+---------------------------------------------------------------------
+
+3) Urologia ginecologica |3) Urologia ginecologica
+
+---------------------------------------------------------------------
+
+|4) Interventi e procedimenti
+
+4) Procedimenti di chirurgia |operatori sullo apparato urinario
+
+endoscopica II |e genitale maschile
+
+---------------------------------------------------------------------
+
+5) La chirurgia dell'intestino |
+
+---------------------------------------------------------------------
+
+6) La chirurgia vascolare |
+
+---------------------------------------------------------------------
+
+7) Interventi e procedimenti |
+
+operatori sull'apparato urinario e|
+
+genitale maschile II. |
+
+Art. 140. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante lo anno ad eccezione delle discipline svolte in corsi pluriennali il cui esame sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in urologia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+Le tasse, soprattasse e contributi della scuola di specializzazione in urologia sono cosi' fissate:
+
+immatricolazione. . . . . . . . . . . . . . . . . . . . L. 12.000 tassa annuale di iscrizione. . . . . . . . . . . . . . L. 200.000 soprattassa annuale di esame. . . . . . . . . . . . . . L. 16.000 contributi annui di laboratorio . . . . . . . . . . . . L. 14.000 tassa di diploma. . . . . . . . . . . . . . . . . . . . L. 20.000
+
+L'art. 163, relativo alla scuola di specializzazione in radiologia, e' soppresso e sostituito dal seguente:
+
+Art. 163. - La scuola e' riservata ai laureati in medicina e chirurgia che possono essere accolti in numero massimo di 20 al primo anno di corso per un totale di 70 nei sette anni di corso (4 anni di radiologia e 3 anni di radiologia diagnostica).
+
+L'art. 215, relativo alla scuola di specializzazione in psichiatria, e' soppresso e sostituito dal seguente:
+
+Art. 215. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in psichiatria con sede presso la clinica psichiatrica. Il numero degli iscritti e' di 4 per ogni anno di corso per un totale complessivo di 16.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 12 settembre 1978
+
+PERTINI
+
+PEDINI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 6 novembre 1978 Registro n. 119 Istruzione, foglio n. 54
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
+  
+Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Gli articoli 138, 139 e 140, relativi alla scuola di specializzazione in urologia, sono soppressi e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in urologia  
+  
+Art. 138. - La scuola di specializzazione in urologia ha sede presso l'istituto di semeiotica chirurgica e conferisce il diploma di specialista in urologia.  
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Possono iscriversi alla scuola tutti i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+La durata del corso di studi e' di 5 anni e non e' suscettibile di abbreviazione.  
+Il numero massimo degli allievi e' di 9 per anno di corso e complessivamente di 45 iscritti per l'intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami.  
+Art. 139. - Le materie d'insegnamento e gli esami sono i seguenti: 
+
+|  |  |
+| --- | --- |
+| Insegnamenti | Esami |
+| Primo anno | Primo anno |
+| 1) Anatomia sistematica e topografica dell'apparato urinario e genitale maschile | 1) Anatomia sistematica e topografica dell'apparato urinario e genitale maschile |
+| 2) Fisiologia dell'apparato urinario e genitale maschile | 2) Fisiologia dell'apparato urinario e genitale maschile |
+| 3) Batteriologia in urologia | 3) Batteriologia in urologia |
+| 4) Semeiotica funzionale e strumentale dell'apparato uro-genitale I |  |
+| Secondo anno | Secondo anno |
+| 1) Semeiotica funzionale e strumentale dell'apparato uro-genitale II | 1) Semeiotica funzionale e strumentale dell'apparato uro-genitale |
+| 2) Le nefropatie mediche | 2) Le nefropatie mediche |
+| 3) Anatomia chirurgica dell'apparato urinario e genitale maschile | 3) Anatomia chirurgica dell'apparato urinario e genitale maschile |
+| 4) Patologia dell'apparato urinario e genitale maschile I |  |
+| 5) Radiologia dell'apparato urinario e genitale maschile I |  |
+| Terzo anno | Terzo anno |
+| 1) Patologia dell'apparato urinario e genitale maschile II | 1) Patologia dell'apparato urinario e genitale maschile |
+| 2) Radiologia dell'apparato urinario e genitale maschile II | 2) Radiologia dell'apparato urinario e genitale maschile |
+| 3) Le affezioni cutanee e veneree nei riguardi dell'urologia | 3) Le affezioni cutanee e veneree nei riguardi dell'urologia |
+| 4) Andrologia | 4) Andrologia |
+| Quarto anno | Quarto anno |
+| 1) Anatomia ed istologia patologica dell'apparato urinario e genitale maschile | 1) Anatomia ed istologia patologica dell'apparato urinario e genitale maschile |
+| 2) Farmacoterapia delle affezioni uro-genitali | 2) Farmacoterapia delle affezioni uro-genitali |
+| 3) Anestesia e trattamento pre-post operatorio del malato urologico | 3) Anestesia e trattamento pre-post-operatorio del malato urologico |
+| 4) Nefrologia chirurgica | 4) Nefrologia chirurgica |
+| 5) Clinica urologica I |  |
+| 6) Procedimenti di chirurgia endoscopica I |  |
+| 7) Interventi e procedimenti operatori sullo apparato urinario e genitale maschile I |  |
+| Quinto anno | Quinto anno |
+| 1) Clinica urologica II | 1) Clinica urologica |
+| 2) Patologia e clinica urologica infantile | 2) Patologia e clinica urologica infantile |
+| 3) Urologia ginecologica | 3) Urologia ginecologica |
+| 4) Procedimenti di chirurgia endoscopica II | 4) Interventi e procedimenti operatori sullo apparato urinario e genitale maschile |
+| 5) La chirurgia dell'intestino |  |
+| 6) La chirurgia vascolare |  |
 
   
-L'art. 68, relativo alla facolta' di medicina e chirurgia, e' sostituito dal seguente:  
   
-La facolta' di medicina e chirurgia conferisce la laurea in medicina e chirurgia e la laurea in odontoiatria e protesi dentaria.  
-Il primo comma dell'art. 69 e' cosi' modificato:  
+Art. 140. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante lo anno ad eccezione delle discipline svolte in corsi pluriennali il cui esame sara' sostenuto alla fine dei corsi medesimi.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in urologia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+Le tasse, soprattasse e contributi della scuola di specializzazione in urologia sono cosi' fissate:  
   
-La durata del corso degli studi e' di sei anni divisi in tre bienni.  
-Titolo di ammissione: quello previsto dalle vigenti leggi.  
-Dopo l'art. 73, e con il conseguente spostamento della numerazione degli articoli successivi, e' aggiunto il seguente nuovo articolo relativo alla istituzione del corso di laurea in odontoiatria e protesi dentaria.  
-Laurea in odontoiatria e protesi dentaria  
-Art. 74. - La durata del corso degli studi e' di cinque anni suddivisi in un biennio ed un triennio.  
-Titolo di ammissione: quello previsto dalle vigenti leggi.  
-Il numero massimo degli studenti che possono essere iscritti e' di quaranta per anno di corso.  
-L'accesso al corso di laurea verra' regolato da un esame di ammissione; il punteggio da attribuire nell'esame sara', cosi' ripartito: il 30% sara' riservato al voto riportato dal candidato nell'esame di Stato di licenza della scuola secondaria superiore ed il 70% sara' riservato alla prova di esame di ammissione al corso di laurea con tests a scelta multipla su argomenti di biologia generale, chimica, fisica e matematica, secondo i programmi della scuola secondaria superiore.  
-Insegnamenti fondamentali:  
-Biennio:  
-1) anestesia generale e speciale odontostomatologica (semestrale);  
-\* 2) biologia generale applicata agli studi medici;  
-\* 3) chimica;  
-\* 4) chimica biologica;  
-5) farmacologia (semestrale);  
-\* 6) fisica medica;  
-7) fisiologia umana e dell'apparato stomatognatico 8) igiene e odontoiatria preventiva e sociale corepidemiologia (semestrale);  
-9) istituzioni di anatomia umana normale e dell'apparato stomatognatico;  
-10) istituzioni di anatomia e istologia patologica  
-\* 11) istologia ed embriologia generale (compresa la citologia);  
-12) materiali dentari;  
-13) microbiologia (semestrale);  
-14) odontoiatria conservatrice (triennale 2°, 3° e 4° anno);  
-15) patologia generale.  
-Triennio:  
-16) chirurgia speciale odontostomatologica (biennale 3° e 4° anno);  
-17) clinica odontostomatologica (biennale 4° e 5° anno);  
-18) medicina legale e delle assicurazioni e deontologia in odontostomatologia (semestrale);  
-19) neuropatologia e psicopatologia (semestrale)  
-20) ortognatodonzia e gnatologia (funzionale masticatoria) (biennale 4° e 5° anno);  
-21) parodontologia (biennale 4° e 5° anno);  
-22) patologia speciale chirurgica e propedeutica clinica;  
-23) patologia speciale medica e metodologia clinica (compresa la pediatria);  
-24) patologia speciale odontostomatologica;  
-25) pedodonzia (semestrale);  
-26) protesi dentaria (triennale 3°, 4° e 5° anno);  
-27) radiologia generale e speciale odontostomatologia (semestrale).  
-Sono insegnamenti complementari:  
-\* 1) chirurgia maxillo-facciale;  
-\* 2) dermatologia e venereologia (semestrale);  
-\* 3) otorinolaringoiatria (semestrale);  
-\* 4) statistica sanitaria;  
-\* 5) psicologia generale e clinica;  
-\* 6) clinica ortopedica;  
-\* 7) clinica oculistica;  
-\* 8) medicina sociale;  
-\* 9) antropologia;  
-\* 10) biochimica applicata;  
-\* 11) immunologia clinica.  
-Gli insegnamenti segnati con asterisco sono mutuati dal corso di laurea in medicina e chirurgia.  
-Gli insegnamenti fondamentali sono teorici e pratici e la loro frequenza e' obbligatoria.  
-Gli insegnamenti specificatamente odontostomatologici di ordine clinico comportano anche un tirocinio pratico continuativo da espletare prima di sostenere i relativi esami.  
-Gli allievi che non conseguono le attestazioni di frequenza, non possono essere ammessi a sostenere le relative prove di esame.  
-Il tirocinio pratico, relativo ad ogni insegnamento clinico, deve prevedere da parte di componenti dell'organico un assistenza didattica adeguata al numero degli studenti.  
-  
-Non si puo' essere ammessi Se non si e' superato  
-a sostenere l'esame di: l'esame di:  
-  
-Fisiologia umana e dell'apparato Istituzioni di anatomia  
-Stomatognatico umana normale e dell'apparato Patologia generale stomatognatico  
-Chimica  
-Biologia generale applicata  
-agli studi medici  
-Fisica medica  
-  
-Patologia speciale medica Fisiologia umana e del-  
-e metodologica clinica l'apparato stomatognatico  
-(compresa la pediatria) Patologia generale  
-Patologia speciale chirurgica  
-e propedeutica clinica  
-  
-Clinica odontostomatologica Patologia speciale medica  
-e metodologia clinica  
-(compresa la pediatria)  
-Patologia speciale chirurgica  
-e propedeutica clinica  
-Istituzioni di anatomia e  
-istologia patologica  
-Patologia speciale odonto-  
-stomatologica  
-Chirurgia speciale odonto-  
-stomatologia  
-  
-Per essere ammesso a sostenere l'esame di laurea in odontoiatria e protesi dentaria, lo studente deve aver seguito i corsi ed aver superato gli esami in tutti gli insegnamenti fondamentali ed almeno in due insegnamenti scelti tra i complementari ed aver, inoltre, seguito le prescritte esercitazioni cliniche, i tirocini pratici ed averne conseguito le relative attestazioni.  
-L'esame di laurea consiste nella discussione di una tesi scritta su argomenti di odontostomatologia da richiedere almeno all'inizio dell'ultimo anno di corso.  
-Per il trasferimento degli studenti iscritti al corso di laurea in medicina e chirurgia le abbreviazioni di corso non possono superare l'ammissione oltre il secondo anno, subordinatamente al numero di posti resisi disponibili all'inizio del secondo anno sempre che gli aspiranti abbiano superato gli esami di biologia generale applicata agli studi medici, chimica, fisica medica, istologia ed embriologia generale (compresa la citologia).  
-Per i laureati in medicina e chirurgia le abbreviazioni di corso potranno essere concesse, sempre con iscrizione al secondo anno, subordinatamente al numero di posti resisi disponibili all'inizio del secondo anno e dopo che sia trascorso un anno accademico dal conseguimento della laurea precedente.  
-Per esercitare la professione i laureati in odontoiatria e protesi dentaria devono superare un apposito esame di Stato.  
+immatricolazione. . . . . . . . . . . . . . . . . . . . L. 12.000 tassa annuale di iscrizione. . . . . . . . . . . . . . L. 200.000 soprattassa annuale di esame. . . . . . . . . . . . . . L. 16.000 contributi annui di laboratorio . . . . . . . . . . . . L. 14.000 tassa di diploma. . . . . . . . . . . . . . . . . . . . L. 20.000   
+L'art. 163, relativo alla scuola di specializzazione in radiologia, e' soppresso e sostituito dal seguente:  
+Art. 163. - La scuola e' riservata ai laureati in medicina e chirurgia che possono essere accolti in numero massimo di 20 al primo anno di corso per un totale di 70 nei sette anni di corso (4 anni di radiologia e 3 anni di radiologia diagnostica).  
+L'art. 215, relativo alla scuola di specializzazione in psichiatria, e' soppresso e sostituito dal seguente:  
+Art. 215. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in psichiatria con sede presso la clinica psichiatrica. Il numero degli iscritti e' di 4 per ogni anno di corso per un totale complessivo di 16.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 settembre 1980
+### Dato a Roma, addi' 12 settembre 1978
 
-p. Il Presidente della Repubblica Il Presidente del Senato FANFANI SARTI
+PERTINI PEDINI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 21 ottobre 1980
+Registrato alla Corte dei conti, addi' 6 novembre 1978
 
-Registro n. 95 Istruzione, foglio n. 309
+Registro n. 119 Istruzione, foglio n. 54

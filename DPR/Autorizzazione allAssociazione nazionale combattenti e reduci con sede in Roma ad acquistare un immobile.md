@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1970 n. 1299
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1962 n. 1620
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1970 n. 1299
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1962 n. 1620
+===============================================================
 
 Autorizzazione all'Associazione nazionale combattenti e reduci, con sede in Roma, ad acquistare un immobile.
 ------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1299. Decreto del Presidente della Repubblica 3 dicembre 1970, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci; con sede in Roma, viene autorizzata ad acquistare al complessivo convenuto prezzo di L. 41.500.000, dai signori Ilio Ganni e Tina Avelardi in Ganni, un immobile - composto da: seminterrato, piano terreno, primo piano, per complessivi, vani utili dieci, con due cucine, quattro bagni, accessori, due autorimesse, oltre il terreno circostante - sito nel comune di Rosignano Marittimo, frazione Castiglioncello, localita' "Parco Uzielli" via Francesco Brunelleschi (distinto al nuovo catasto terreni alla partita 5821, foglio n. 65, particelle 231, 180, 140, 104, 331, 332 e 333), da destinare a casa di riposo per gli ex combattenti.  
+1620. Decreto del Presidente della Repubblica 15 ottobre 1962, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci, con sede in Roma, viene autorizzata ad acquistare dal geom. Cesare Torno, al prezzo di L. 200.000, come da scrittura privata in data 27 febbraio 1960, un immobile costituito da un appezzamento di terreno di mq. 190, sito nel comune di Castano Primo (Milano), da destinare all'ampliamento della sede sociale della locale sezione dell'Associazione anzidetta.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 4 febbraio 1971  
-Atti del Governo, registro n. 240, foglio n. 151. - CARUSO
+Visto, il Guardasigilli: BOSCO  
+Registrato alla Corte dei conti, addi' 21 novembre 1962  
+Atti del Governo, registro n. 160, foglio n. 37. - VILLA

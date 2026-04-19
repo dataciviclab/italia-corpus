@@ -1,60 +1,96 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1980 n. 530
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1979 n. 315
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1980 n. 530
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1979 n. 315
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-All'art. 38, relativo all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie, sono aggiunti i seguenti: antropologia culturale;  
-sociologia dell'educazione;  
-docimologia.  
-All'art. 39, relativo all'elenco degli insegnamenti complementari del corso di laurea in pedagogia, sono aggiunti i seguenti:  
-antropologia culturale;  
-sociologia dell'educazione;  
-docimologia.  
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la legge 11 aprile 11953, n. 312;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Dopo l'art. 22, e con il conseguente spostamento della numerazione degli articoli successivi, e' aggiunto il seguente nuovo articolo relativo all'istituzione del corso di laurea in scienze statistiche ed economiche.  
+Laurea in scienze statistiche ed economiche  
+Art. 23. - La durata del corso di studi per la laurea in scienze statistiche ed economiche e' di quattro anni.  
+Sono titoli di ammissione quelli previsti dall'[art. 1 della legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1).  
+I diplomati in statistica sono ammessi al terzo anno, ma il consiglio di facolta' provvedera' a prescrivere di volta in volta il piano di studi per adire la laurea.  
+Insegnamenti fondamentali:  
+istituzioni di analisi matematica;  
+(\*) analisi matematica;  
+(\*) geometria analitica;  
+(\*) calcolo delle probabilita';  
+(\*) statistica;  
+istituzioni di statistica;  
+statistica metodologica;  
+(\*) demografia;  
+(\*) economia politica (biennale);  
+(\*\*) politica economica e finanziaria;  
+istituzioni di statistica economica;  
+statistica economica;  
+economia d'azienda;  
+statistica aziendale ed analisi di mercato;  
+controllo statistico delle qualita' e statistica industriale;  
+(\*\*) istituzioni di diritto privato;  
+(\*\*) istituzioni di diritto pubblico;  
+teoria dei campioni.  
+Insegnamenti complementari:  
+geografia politica ed economica;  
+statistica sociale;  
+sociologia;  
+scienza delle finanze;  
+econometrica;  
+contabilita' nazionale;  
+diritto commerciale;  
+diritto del lavoro;  
+matematica finanziaria ed istituzioni di matematica attuariale;  
+teoria e tecnica dell'elaborazione automatica dei dati;  
+ricerca operativa;  
+teoria dei sistemi;  
+psicologia sperimentale;  
+antropologia;  
+statistica medica e biometria;  
+statistica applicata alle scienze fisiche;  
+genetica;  
+diritto dell'economia pubblica;  
+storia della statistica;  
+demografia investigativa;  
+analisi e contabilita' dei costi;  
+economia matematica;  
+geografia applicata;  
+tecnologia ed economia delle fonti di energia.  
+Gli insegnamenti segnati con un asterisco sono comuni con quelli del corso di diploma in statistica, gli insegnamenti con due asterischi sono comuni con quelli del corso di laurea in economia e commercio.  
+Gli insegnamenti complementari possono essere scelti dallo studente anche fra discipline impartite nel biennio per il diploma in statistica o fra quelle impartite nei corsi di laurea della facolta' e delle altre facolta' dell'ateneo, previa approvazione del preside della facolta'. Detta approvazione deve essere richiesta entro il 31 dicembre di ogni anno.  
+Per essere iscritto al secondo anno lo studente deve avere superato almeno due esami fondamentali del primo anno.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali e di almeno tre complementari. Deve anche aver seguito per due anni e superato, dopo un biennio di frequenza, gli esami di lingua inglese e di un'altra lingua moderna scelta tra quelle insegnate nella facolta'.  
+Per l'insegnamento biennale di economia politica e' prescritto l'esame alla fine di ciascun corso annuale, dovendosi il primo considerare propedeutico rispetto al secondo.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 marzo 1980
+### Dato a Roma, addi' 9 aprile 1979
 
-PERTINI VALITUTTI
+PERTINI SPADOLINI
 
 Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 25 agosto 1980
+Registrato alla Corte dei conti, addi' 18 luglio 1979
 
-Registro n. 79 Istruzione, foglio n. 387
+Registro n. 56 Istruzione, foglio n. 80

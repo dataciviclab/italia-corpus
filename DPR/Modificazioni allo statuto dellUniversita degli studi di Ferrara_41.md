@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1977 n. 451
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1971 n. 470
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1977 n. 451
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1971 n. 470
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
@@ -10,17 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -32,329 +30,251 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 54 - all'elenco degli insegnamenti complementari del corso di laurea in matematica sono aggiunti i seguenti:
+Gli articoli 101, 102 e 103, relativi alla "scuola di specializzazione in anestesiologia" che assume la denominazione di "scuola di specializzazione in anestesiologia e rianimazione", sono abrogati e sostituiti dai seguenti:
 
-Per gli indirizzi generale e didattico:
+Scuola di specializzazione in anestesiologia e rianimazione
 
-istituzioni di algebra superiore;
+Art. 101. - La scuola di specializzazione in anestesiologia e rianimazione ha sede presso la clinica chirurgica, ed ha la durata di tre anni.
 
-teoria dei gruppi;
+Direttore della scuola e' il direttore della clinica chirurgica.
 
-algebra omologica;
+Alla scuola potranno essere iscritti i laureati in medicina e chirurgia per un numero complessivo di trentasette specializzandi.
 
-calcolo delle variazioni.
-
-Per l'indirizzo applicativo:
-
-calcolo delle variazioni;
-
-ricerca operativa;
-
-istituzioni di algebra superiore.
-
-Art. 56 - il secondo comma e' soppresso e sostituito dal seguente: "L'esame di laurea puo' essere preceduto da un esame di cultura generale sulle scienze matematiche eventualmente comprendente anche una prova scritta".
-
-Art. 58 - all'elenco degli insegnamenti complementari del corso di laurea in fisica sono aggiunti i seguenti:
-
-cosmologia;
-
-fisica dell'atmosfera;
-
-fisica della radiazione;
-
-ottica quantistica;
-
-proprieta' magnetiche della materia;
-
-reologia;
-
-scienza e tecnologia dei materiali.
-
-Art. 61 - all'elenco degli insegnamenti complementari del corso di laurea in chimica sono aggiunti i seguenti:
-
-Per l'indirizzo organico-biologico:
-
-chimica dei composti elemento-organici;
-
-chimica dei composti di coordinazione;
-
-petrolchimica;
-
-chimica dei coloranti;
-
-analisi chimico-cliniche;
-
-cromatografia;
-
-applicazioni chimiche del calcolo automatico;
-
-chimica degli eterocicli;
-
-meccanismi di reazione in chimica organica;
-
-chimica fisica dello stato solido;
-
-chimica dell'inquinamento;
-
-cristallochimica.
-
-Per l'indirizzo inorganico chimico-fisico:
-
-chimica dei composti di coordinazione;
-
-chimica dei composti elemento-organici;
-
-tecnologie chimiche speciali;
-
-impianti industriali chimici;
-
-cromatografia;
-
-applicazioni chimiche del calcolo automatico;
-
-termodinamica statistica;
-
-chimica fisica dello stato solido;
-
-corrosione e protezione degli impianti industriali;
-
-chimica dell'inquinamento;
-
-cristallochimica.
-
-Art. 66 - all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:
-
-pedologia;
-
-paleobotanica;
-
-paleontologia dei vertebrati;
-
-sedimentologia;
-
-rilevamento geologico;
-
-geochimica.
-
-Art. 71 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:
-
-biometria;
-
-neurobiologia;
-
-zoologia dei vertebrati;
-
-biologia marina;
-
-idrobiologia e pescicoltura;
-
-etologia;
-
-citogenetica;
-
-fisiologia comparata;
-
-biochimica comparata;
-
-analisi biochimiche-cliniche;
-
-esperimentazioni chimiche;
-
-ecologia umana.
-
-Gli articoli 166, primo comma dell'art. 169, 171, quinto e sesto comma dell'art. 173 e 174, relativi alla scuola diretta a fini speciali di preparazione per tecnici di audiometria sono abrogati e sostituiti dai seguenti:
-
-Art. 166. - La durata del corso degli studi della scuola di preparazione per tecnici di audiometria e' di tre anni. L'indirizzo e' teorico-pratico. Il numero massimo complessivo degli iscritti alla scuola e' di quindici (cinque per anno di corso).
-
-Art. 169 - il primo comma e' sostituito dal seguente:
-
-"Il direttore della scuola e' un professore di ruolo degli insegnamenti che afferiscono all'istituto policattedra clinica otorinolaringoiatrica dell'Universita' di Ferrara".
-
-Art. 171. - Le materie di insegnamento sono le seguenti:
+Art. 102. - Le materie di insegnamento sono:
 
 1° Anno:
 
-1) anatomia degli organi e dei sismi audiofonoarticolatori;
+Anatomia, biochimica, farmacologia, fisica, fisiologia applicata alla anestesiologia e rianimazione;
 
-2) fisiologia degli organi e dei sistemi audiofonoarticolatori;
+Anestesiologia;
 
-3) elementi di fisica acustica e tecniche di fonometria;
+Tecniche chirurgiche di interesse anestesiologico;
 
-4) psicologia generale;
+Aspetti medico-legali dell'anestesiologia e della rianimazione;
 
-5) elementi di audiologia;
-
-6) elementi di fonetica e di linguistica.
+Internato.
 
 2° Anno:
 
-1) tecniche audiometriche I;
+Anestesiologia;
 
-2) audiometria infantile;
+Terapia antalgica;
 
-3) neuropsichiatria infantile;
+Rianimazione;
 
-4) tecniche di esplorazione vestibolare;
-
-5) audiometria di massa e prevenzione della sordita'.
+Internato.
 
 3° Anno:
 
-1) tecniche audiometriche II;
+Rianimazione;
 
-2) patologia dell'udito, del linguaggio e dell'organo dell'equilibrio;
+Tecniche speciali di anestesia e rianimazione;
 
-3) tecniche di protesizzazione acustica;
+Indagini diagnostiche attinenti alla specialita';
 
-4) tecniche di audiometria obiettiva;
+l'Internato.
 
-5) elementi di logopedia.
+Art. 103. - Non e' concessa nessuna abbreviazione di corso, ad eccezione dei candidati che gia' in possesso del diploma di specializzazione in anestesiologia, possono essere ammessi al 3° anno, per ottenere il completamento.
 
-Art. 173 - i commi quinto e sesto sono sostituiti dal seguente:
+Per accedere ai corsi successivi, e' obbligatorio il superamento di tutti gli esami del corso precedente, ivi comprese le materie biennali.
 
-"L'esame di diploma consiste, a scelta del candidato, o nella discussione di una tesi scritta su argomento riguardante le materie di insegnamento, eventualmente integrata da una prova pratica stabilita dalla commissione esaminatrice, o in un esame generale teorico-pratico".
+Il diploma viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi a carattere clinico o sperimentale.
 
-Art. 174 - e' abrogato e sostituito dal seguente:
+Dopo l'art. 127 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in psichiatria.
 
-"Per essere ammessi a frequentare gli anni di corso successivi al primo, gli iscritti debbono aver superato gli esami dell'anno precedente. Alla fine del terzo anno di corso, per essere ammessi all'esame di diploma, gli iscritti debbono aver superato tutti gli esami prescritti".
+Scuola di specializzazione in psichiatria
+
+Art. 128. - Il corso della scuola di specializzazione in psichiatria ha la durata di quattro anni ed e' tenuto presso la clinica delle malattie nervose e mentali.
+
+Alla scuola non potranno essere iscritti, complessivamente, piu' di cinque laureati in medicina e chirurgia, previa ammissione per titoli ed esame.
+
+Art. 129. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+1) Anatomia e istologia del sistema nervoso;
+
+2) Fisiologia del sistema nervoso;
+
+3) Biochimica del sistema nervoso;
+
+4) Genetica (elementi);
+
+5) Psicologia generale;
+
+6) Psicopatologia (1°);
+
+7) Semeiotica psichiatrica.
+
+2° Anno:
+
+1) Anatomia e istologia patologica del sistema nervoso;
+
+2) Semeiotica neurologica;
+
+3) Patologia speciale e diagnostica neurologica;
+
+4) Neuro-radiologia;
+
+5) Endocrinologia e neurologia vegetativa;
+
+6) Elettroencefalografia.
+
+3° Anno:
+
+1) Patologia speciale psichiatrica;
+
+2) Psicopatologia (2°);
+
+3) Clinica psichiatrica (1°);
+
+4) Psicologia clinica e psicodiagnostica;
+
+5) Psicofarmacologia;
+
+6) Psichiatria in rapporto con la patologia internistica;
+
+7) Esami di laboratorio.
+
+4° Anno:
+
+1) Clinica psichiatrica (2°);
+
+2) Terapia psichiatrica generale;
+
+3) Psicoterapia;
+
+4) Neuropsichiatria infantile;
+
+5) Psichiatria forense e legislazione psichiatrica;
+
+6) Psichiatria sociale (del lavoro, scolastica, igiene e profilassi mentale).
+
+Art. 130. - L'internato e' obbligatorio per l'intero anno scolastico presso la clinica delle malattie nervose e mentali, sede della scuola. L'internato del 1°, 3° e 4° anno potra' essere ridotto a non meno di 4 mesi per anno per i medici che prestino servizio regolare in un ospedale psichiatrico.
+
+L'internato per il 2° anno potra' essere ridotto a non meno di mesi 6 per i medici che prestino regolare servizio in un ospedale psichiatrico e a non meno di mesi 5 per coloro che prestino regolare servizio in un reparto neurologico.
+
+Non potranno accedere ai corsi superiori gli iscritti che non avranno superato gli esami del corso precedente.
+
+Possono ottenere l'esonero di due anni gli specialisti in neurologia, neuropsichiatria infantile. Un anno di esonero possono ottenere gli specialisti in materie affini (psicologia, medicina generale, neurochirurgia).
+
+Tali esoneri possono essere concessi solo dopo aver superato l'esame di ammissione, e a giudizio del direttore della scuola.
+
+Alla fine del corso il candidato dovra' presentare e discutere una tesi scritta.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 29 gennaio 1977
+Dato a Roma, addi' 11 maggio 1971
 
-LEONE
+SARAGAT
 
-MALFATTI
+MISASI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: COLOMBO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 26 luglio 1977 Registro n. 86 Istruzione, foglio n. 154
+alla Corte dei conti, addi' 20 luglio 1971 Atti del Governo, registro n. 243, foglio n. 54. - CARUSO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 54 - all'elenco degli insegnamenti complementari del corso di laurea in matematica sono aggiunti i seguenti:  
-Per gli indirizzi generale e didattico:  
-istituzioni di algebra superiore;  
-teoria dei gruppi;  
-algebra omologica;  
-calcolo delle variazioni.  
-Per l'indirizzo applicativo:  
-calcolo delle variazioni;  
-ricerca operativa;  
-istituzioni di algebra superiore.  
-Art. 56 - il secondo comma e' soppresso e sostituito dal seguente: "L'esame di laurea puo' essere preceduto da un esame di cultura generale sulle scienze matematiche eventualmente comprendente anche una prova scritta".  
-Art. 58 - all'elenco degli insegnamenti complementari del corso di laurea in fisica sono aggiunti i seguenti:  
-cosmologia;  
-fisica dell'atmosfera;  
-fisica della radiazione;  
-ottica quantistica;  
-proprieta' magnetiche della materia;  
-reologia;  
-scienza e tecnologia dei materiali.  
-Art. 61 - all'elenco degli insegnamenti complementari del corso di laurea in chimica sono aggiunti i seguenti:  
-Per l'indirizzo organico-biologico:  
-chimica dei composti elemento-organici;  
-chimica dei composti di coordinazione;  
-petrolchimica;  
-chimica dei coloranti;  
-analisi chimico-cliniche;  
-cromatografia;  
-applicazioni chimiche del calcolo automatico;  
-chimica degli eterocicli;  
-meccanismi di reazione in chimica organica;  
-chimica fisica dello stato solido;  
-chimica dell'inquinamento;  
-cristallochimica.  
-Per l'indirizzo inorganico chimico-fisico:  
-chimica dei composti di coordinazione;  
-chimica dei composti elemento-organici;  
-tecnologie chimiche speciali;  
-impianti industriali chimici;  
-cromatografia;  
-applicazioni chimiche del calcolo automatico;  
-termodinamica statistica;  
-chimica fisica dello stato solido;  
-corrosione e protezione degli impianti industriali;  
-chimica dell'inquinamento;  
-cristallochimica.  
-Art. 66 - all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:  
-pedologia;  
-paleobotanica;  
-paleontologia dei vertebrati;  
-sedimentologia;  
-rilevamento geologico;  
-geochimica.  
-Art. 71 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:  
-biometria;  
-neurobiologia;  
-zoologia dei vertebrati;  
-biologia marina;  
-idrobiologia e pescicoltura;  
-etologia;  
-citogenetica;  
-fisiologia comparata;  
-biochimica comparata;  
-analisi biochimiche-cliniche;  
-esperimentazioni chimiche;  
-ecologia umana.  
-Gli articoli 166, primo comma dell'art. 169, 171, quinto e sesto comma dell'art. 173 e 174, relativi alla scuola diretta a fini speciali di preparazione per tecnici di audiometria sono abrogati e sostituiti dai seguenti:  
-Art. 166. - La durata del corso degli studi della scuola di preparazione per tecnici di audiometria e' di tre anni. L'indirizzo e' teorico-pratico. Il numero massimo complessivo degli iscritti alla scuola e' di quindici (cinque per anno di corso).  
-Art. 169 - il primo comma e' sostituito dal seguente:  
-"Il direttore della scuola e' un professore di ruolo degli insegnamenti che afferiscono all'istituto policattedra clinica otorinolaringoiatrica dell'Universita' di Ferrara".  
-Art. 171. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) anatomia degli organi e dei sismi audiofonoarticolatori;  
-2) fisiologia degli organi e dei sistemi audiofonoarticolatori;  
-3) elementi di fisica acustica e tecniche di fonometria;  
-4) psicologia generale;  
-5) elementi di audiologia;  
-6) elementi di fonetica e di linguistica.  
-2° Anno:  
-1) tecniche audiometriche I;  
-2) audiometria infantile;  
-3) neuropsichiatria infantile;  
-4) tecniche di esplorazione vestibolare;  
-5) audiometria di massa e prevenzione della sordita'.  
-3° Anno:  
-1) tecniche audiometriche II;  
-2) patologia dell'udito, del linguaggio e dell'organo dell'equilibrio;  
-3) tecniche di protesizzazione acustica;  
-4) tecniche di audiometria obiettiva;  
-5) elementi di logopedia.  
-Art. 173 - i commi quinto e sesto sono sostituiti dal seguente:  
-"L'esame di diploma consiste, a scelta del candidato, o nella discussione di una tesi scritta su argomento riguardante le materie di insegnamento, eventualmente integrata da una prova pratica stabilita dalla commissione esaminatrice, o in un esame generale teorico-pratico".  
-Art. 174 - e' abrogato e sostituito dal seguente:  
-"Per essere ammessi a frequentare gli anni di corso successivi al primo, gli iscritti debbono aver superato gli esami dell'anno precedente. Alla fine del terzo anno di corso, per essere ammessi all'esame di diploma, gli iscritti debbono aver superato tutti gli esami prescritti".  
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli 101, 102 e 103, relativi alla "scuola di specializzazione in anestesiologia" che assume la denominazione di "scuola di specializzazione in anestesiologia e rianimazione", sono abrogati e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in anestesiologia e rianimazione   
+  
+Art. 101. - La scuola di specializzazione in anestesiologia e rianimazione ha sede presso la clinica chirurgica, ed ha la durata di tre anni.   
+Direttore della scuola e' il direttore della clinica chirurgica.   
+Alla scuola potranno essere iscritti i laureati in medicina e chirurgia per un numero complessivo di trentasette specializzandi.   
+Art. 102. - Le materie di insegnamento sono:   
+1° Anno:   
+Anatomia, biochimica, farmacologia, fisica, fisiologia applicata alla anestesiologia e rianimazione;   
+Anestesiologia;   
+Tecniche chirurgiche di interesse anestesiologico;   
+Aspetti medico-legali dell'anestesiologia e della rianimazione;  
+Internato.   
+2° Anno:   
+Anestesiologia;   
+Terapia antalgica;   
+Rianimazione;   
+Internato.   
+3° Anno:   
+Rianimazione;   
+Tecniche speciali di anestesia e rianimazione;   
+Indagini diagnostiche attinenti alla specialita';   
+l'Internato.   
+Art. 103. - Non e' concessa nessuna abbreviazione di corso, ad eccezione dei candidati che gia' in possesso del diploma di specializzazione in anestesiologia, possono essere ammessi al 3° anno, per ottenere il completamento.   
+Per accedere ai corsi successivi, e' obbligatorio il superamento di tutti gli esami del corso precedente, ivi comprese le materie biennali.   
+Il diploma viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi a carattere clinico o sperimentale.   
+Dopo l'art. 127 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in psichiatria.   
+  
+Scuola di specializzazione in psichiatria   
+  
+Art. 128. - Il corso della scuola di specializzazione in psichiatria ha la durata di quattro anni ed e' tenuto presso la clinica delle malattie nervose e mentali.   
+Alla scuola non potranno essere iscritti, complessivamente, piu' di cinque laureati in medicina e chirurgia, previa ammissione per titoli ed esame.   
+Art. 129. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+1) Anatomia e istologia del sistema nervoso;   
+2) Fisiologia del sistema nervoso;   
+3) Biochimica del sistema nervoso;   
+4) Genetica (elementi);   
+5) Psicologia generale;   
+6) Psicopatologia (1°);   
+7) Semeiotica psichiatrica.   
+2° Anno:   
+1) Anatomia e istologia patologica del sistema nervoso;   
+2) Semeiotica neurologica;   
+3) Patologia speciale e diagnostica neurologica;   
+4) Neuro-radiologia;   
+5) Endocrinologia e neurologia vegetativa;   
+6) Elettroencefalografia.   
+3° Anno:   
+1) Patologia speciale psichiatrica;   
+2) Psicopatologia (2°);   
+3) Clinica psichiatrica (1°);   
+4) Psicologia clinica e psicodiagnostica;   
+5) Psicofarmacologia;   
+6) Psichiatria in rapporto con la patologia internistica;   
+7) Esami di laboratorio.   
+4° Anno:   
+1) Clinica psichiatrica (2°);   
+2) Terapia psichiatrica generale;   
+3) Psicoterapia;   
+4) Neuropsichiatria infantile;   
+5) Psichiatria forense e legislazione psichiatrica;   
+6) Psichiatria sociale (del lavoro, scolastica, igiene e profilassi mentale).   
+Art. 130. - L'internato e' obbligatorio per l'intero anno scolastico presso la clinica delle malattie nervose e mentali, sede della scuola. L'internato del 1°, 3° e 4° anno potra' essere ridotto a non meno di 4 mesi per anno per i medici che prestino servizio regolare in un ospedale psichiatrico.   
+L'internato per il 2° anno potra' essere ridotto a non meno di mesi 6 per i medici che prestino regolare servizio in un ospedale psichiatrico e a non meno di mesi 5 per coloro che prestino regolare servizio in un reparto neurologico.   
+Non potranno accedere ai corsi superiori gli iscritti che non avranno superato gli esami del corso precedente.   
+Possono ottenere l'esonero di due anni gli specialisti in neurologia, neuropsichiatria infantile. Un anno di esonero possono ottenere gli specialisti in materie affini (psicologia, medicina generale, neurochirurgia).   
+Tali esoneri possono essere concessi solo dopo aver superato l'esame di ammissione, e a giudizio del direttore della scuola.   
+Alla fine del corso il candidato dovra' presentare e discutere una tesi scritta.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 gennaio 1977
+### Dato a Roma, addi' 11 maggio 1971
 
-LEONE MALFATTI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 26 luglio 1977
+Registrato alla Corte dei conti, addi' 20 luglio 1971
 
-Registro n. 86 Istruzione, foglio n. 154
+Atti del Governo, registro n. 243, foglio n. 54. - CARUSO

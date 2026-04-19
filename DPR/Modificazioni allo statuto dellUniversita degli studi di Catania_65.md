@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 781
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1026
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 781
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1026
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Catania.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,246 +18,259 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduto la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio universitario nazionale nei suoi pareri;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 157. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono aggiunte le scuole in "Microbiologia e in "Reumatologia".
+
+L'art. 198, relativo alla scuola di specializzazione in igiene e medicina preventiva e' modificato nel senso che dopo il 3° comma e' aggiunto il seguente:
+
+"Analogamente coloro che hanno conseguito il diploma di specializzazione in igiene a norma dei precedenti statuti delle scuole di specializzazione possono essere iscritti al 3° anno in uno dei quattro orientamenti previsti, nell'ambito della disponibilita' dei posti" Dopo l'art. 213 sono aggiunti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in microbiologia e in reumatologia.
+
+Scuola di specializzazione in microbiologia
+
+Art. 214. - La scuola di specializzazione in microbiologia che conferisce il diploma di specialista in microbiologia, ha sede presso l'Istituto di microbiologia dell'Universita' di Catania. La direzione di detta scuola e' assunta dal professore di ruolo direttore dell'istituto di microbiologia dell'Universita' di Catania od, in sua assenza, da altro professore di ruolo, designato dalla facolta' di medicina e chirurgia dell'Universita' di Catania tra gli insegnanti della scuola di specializzazione.
+
+Art. 215. - Il corso di studi per il conseguimento del diploma ha la durata di tre anni.
+
+Art. 216. - La scuola di specializzazione in microbiologia ha lo scopo di allargare e completare sul piano scientifico la cultura di coloro che si dedicano allo studio di questa disciplina e di fornire sul piano tecnico una preparazione pratica specifica.
+
+Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia ed in scienze biologiche.
+
+Il numero massimo degli iscritti e' di dieci per ogni anno di corso.
+
+Nel caso che le domande eccedessero tale numero la selezione verra' fatta mediante concorso (graduatoria per titoli ed esami).
+
+Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni, le esercitazioni, le visite di istruzione e le eventuali conferenze; in caso contrario non potranno ottenere l'attestazione di frequenza necessaria per essere ammessi a sostenere le prove di esami.
+
+Art. 217. - Gli insegnamenti impartiti dalla scuola sono i seguenti:
+
+1° Anno:
+
+Chimica microbiologica;
+
+Batteriologia generale e tecnica batteriologica;
+
+Analisi statistica del dosaggio biologico;
+
+Immunologia.
+
+2° Anno:
+
+Virologia generale e tecnica virologica;
+
+Micologia;
+
+Protozoologia;
+
+Chemioterapici ed antibiotici;
+
+Batteriologia speciale.
+
+3° Anno:
+
+Genetica dei microrganismi;
+
+Virologia speciale;
+
+Microbiologia degli alimenti;
+
+Microbiologia industriale;
+
+Metodi e dosaggio microbiologici.
+
+Art. 218. - Gli esami di profitto (discussione orale e prova pratica) saranno sostenuti singolarmente per ciascun insegnamento.
+
+L'esame di diploma, cui si e' ammessi dopo aver superato tutti gli esami nelle singole materie consta di una dissertazione scritta - elaborata preferibilmente in un istituto universitario, sotto il controllo di un relatore scelto fra il personale docente - su un argomento pertinente gli insegnamenti della scuola e da prove pratiche.
+
+Art. 219. - Gli iscritti dovranno pagare al 1° anno una tassa di immatricolazione di L. 7500 ed annualmente una tassa di iscrizione di L. 27.000; sopratassa esami di profitto di L. 7000, contributi di laboratorio L. 40.000, contributo spese generali L. 40.000, contributo riscaldamento L. 3000, contributo COSA L. 1000;
+
+I diplomati dovranno inoltre pagare L. 3000 per sopratassa di diploma e L. 6000 per tassa di diploma.
+
+Questa ultima tassa verra' versata all'erario, mentre tutte le altre tasse, sopratasse e contributi verranno versati alla cassa dell'universita'.
+
+Scuola di specializzazione in reumatologia
+
+Art. 220. - La scuola di specializzazione in reumatologia ha sede presso l'istituto di terapia medica sistematica dell'Universita' degli studi di Catania.
+
+Il corso degli studi per il conseguimento del diploma di specialista in reumatologia ha la durata di tre anni accademici.
+
+Alla scuola possono iscriversi i laureati in medicina e chirurgia.
+
+Per l'ammissione e' previsto un concorso per titoli ed esami.
+
+La scuola non puo' accogliere piu' di quattro specializzandi per ciascun anno di corso.
+
+Art. 221. - Le materie di insegnamento ed i relativi esami sono cosi' ripartiti:
+
+1° Anno:
+
+Anatomia, istologia e morfogenesi dell'apparato muscolo-scheletrico e articolare;
+
+Fisiopatologia dell'apparato muscolo-scheletrico e articolare;
+
+Biochimica dei tessuti connettivi;
+
+Microbiologia ed immunologia in relazione alle malattie reumatiche;
+
+Semeiotica fisica, strumentale e di laboratorio in reumatologia (biennale).
+
+2° Anno:
+
+Semeiotica fisica, strumentale e di laboratorio in reumatologia (biennale);
+
+Anatomia ed istologia patologica delle malattie reumatiche;
+
+Farmacologia in relazione alle malattie reumatiche;
+
+Diagnostica radiologica;
+
+Patologia, clinica e terapia delle malattie reumatiche (biennale);
+
+Terapia fisica, termale e riabilitativa in reumatologia (biennale).
+
+3° Anno:
+
+Patologia clinica e terapia delle malattie reumatiche (biennale);
+
+Terapia fisica, termale e riabilitativa in reumatologia (biennale);
+
+Clinica e terapia ortopedica applicata alla reumatologia;
+
+Aspetti sociali ed epidemiologici delle malattie reumatiche.
+
+Art. 222. - Per conseguire il diploma di specialista dovra' essere presentata e discussa una tesi scritta su un tema preventivamente approvato dal direttore della scuola.
+
+E' obbligatoria la frequenza alle lezioni, esercitazioni ed un internato annuale di almeno 6 anni.
+
+Le norme per l'iscrizione, le tasse, le eventuali abbreviazioni di corso, gli esami, ecc. sono quelle previste dalle disposizioni generali relative alle scuole di specializzazione della facolta' di medicina e chirurgia dell'Universita'.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1972
+
+LEONE
+
+SCALFARO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 20 febbraio 1973 Atti di Governo, registro n. 256, foglio n. 2. - VALENTINI
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Il testo dell'art. 176, relativo all'elenco delle scuole di specializzazione in medicina e chirurgia, e' integrato nel modo seguente:  
-scuola di specializzazione in cardioangiochirurgia;  
-scuola di specializzazione in farmacologia;  
-scuola di specializzazione in nefrologia.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-L'art. 212, relativo alla scuola di specializzazione in chirurgia generale, e' modificato nel senso che il quinto, sesto e decimo comma sono soppressi e sostituiti dai seguenti:  
+Decreta:  
   
-Le esercitazioni pratiche nei reparti sono obbligatorie durante tutti i cinque anni del corso e si svolgeranno presso la clinica chirurgica sotto forma di permanenza costante ai fini di apprendimento nella detta clinica durante le ore della sua attivita', con presenza giornaliera agli ambulatori ed ai reparti di degenza.  
-Dall'obbligo di tali esercitazioni pratiche saranno esentati quegli allievi che, in qualita' di assistenti ed aiuti, prestino effettivamente servizio presso reparti di chirurgia generale delle universita' e di ospedali di prima e seconda categoria.  
-Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche.  
-Il settimo comma e' soppresso.  
-
-Art. 3
-------
-
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 157. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono aggiunte le scuole in "Microbiologia e in "Reumatologia".  
+L'art. 198, relativo alla scuola di specializzazione in igiene e medicina preventiva e' modificato nel senso che dopo il 3° comma e' aggiunto il seguente:  
+"Analogamente coloro che hanno conseguito il diploma di specializzazione in igiene a norma dei precedenti statuti delle scuole di specializzazione possono essere iscritti al 3° anno in uno dei quattro orientamenti previsti, nell'ambito della disponibilita' dei posti" Dopo l'art. 213 sono aggiunti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in microbiologia e in reumatologia.  
   
-Dopo l'art. 264, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in cardioangiochirurgia, farmacologia, nefrologia.  
+Scuola di specializzazione in microbiologia  
   
-Scuola di specializzazione in cardioangiochirurgia  
+Art. 214. - La scuola di specializzazione in microbiologia che conferisce il diploma di specialista in microbiologia, ha sede presso l'Istituto di microbiologia dell'Universita' di Catania. La direzione di detta scuola e' assunta dal professore di ruolo direttore dell'istituto di microbiologia dell'Universita' di Catania od, in sua assenza, da altro professore di ruolo, designato dalla facolta' di medicina e chirurgia dell'Universita' di Catania tra gli insegnanti della scuola di specializzazione.  
+Art. 215. - Il corso di studi per il conseguimento del diploma ha la durata di tre anni.  
+Art. 216. - La scuola di specializzazione in microbiologia ha lo scopo di allargare e completare sul piano scientifico la cultura di coloro che si dedicano allo studio di questa disciplina e di fornire sul piano tecnico una preparazione pratica specifica.  
+Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia ed in scienze biologiche.  
+Il numero massimo degli iscritti e' di dieci per ogni anno di corso.  
+Nel caso che le domande eccedessero tale numero la selezione verra' fatta mediante concorso (graduatoria per titoli ed esami).  
+Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni, le esercitazioni, le visite di istruzione e le eventuali conferenze; in caso contrario non potranno ottenere l'attestazione di frequenza necessaria per essere ammessi a sostenere le prove di esami.  
+Art. 217. - Gli insegnamenti impartiti dalla scuola sono i seguenti:  
   
-Art. 265. - La scuola di specializzazione in cardioangiochirurgia ha sede presso la facolta' di medicina e chirurgia dell'Universita' degli studi di Catania - cattedra di chirurgia cardiaca - e conferisce il diploma di specialista in cardioangiochirurgia.  
-Art. 266. - La direzione della scuola e' affidata al professore ordinario, straordinario e fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata al professore associato, che pure insegni nella scuola medesima.  
-Art. 267, - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Art. 268. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni.  
-Art. 269. - Il numero massimo degli allievi e' di tre per anno di corso e complessivamente di quindici iscritti per l'intero corso di studi.  
-Art. 270 - L'ammissione al corso avviene per titoli ed esami.  
-Art. 271. - Le materie di insegnamento sono le seguenti:  
 1° Anno:  
-embriologia e teratologia;  
-anatomia descrittiva e topografica generale con particolare riguardo all'apparato cardiocircolatorio (biennale) I;  
-patologia chirurgica generale;  
-fisiologia dell'apparato cardiocircolatorio;  
-radiologia generale;  
-semeiotica clinica delle cardiopatie chirurgiche;  
-principi di informatica medica;  
-elementi di ingegneria medica.  
+Chimica microbiologica;  
+Batteriologia generale e tecnica batteriologica;  
+Analisi statistica del dosaggio biologico;  
+Immunologia.  
+  
 2° Anno:  
-anatomia descrittiva e topografica generale con particolare riguardo all'apparato cardiocircolatorio (biennale) II;  
-clinica chirurgica generale;  
-anatomia ed istologia patologica con particolare riguardo all'apparato cardiocircolatorio (biennale) I;  
-cardioangioradiologia (biennale) I;  
-semeiotica strumentale delle cardiopatie chirurgiche;  
-elementi di anestesia e rianimazione;  
-fisiopatologia respiratoria;  
-fisiopatologia cardiocircolatoria (biennale) I;  
-patologia e clinica delle angiopatie chirurgiche.  
+Virologia generale e tecnica virologica;  
+Micologia;  
+Protozoologia;  
+Chemioterapici ed antibiotici;  
+Batteriologia speciale.  
+  
 3° Anno:  
-anatomia ed istologia patologica con particolare riguardo all'apparato cardiocircolatorio (biennale) II;  
-cardioangioradiologia (biennale) II;  
-semeiotica di laboratorio delle cardiopatie chirurgiche;  
-semeiotica angiologica;  
-cardiologia medica (biennale) I;  
-terapia chirurgica e tecnica operatoria delle malattie del cuore e dei grossi vasi (triennale) I;  
-principi e tecniche della circolazione extracorporea;  
-fisiopatologia cardiocircolatoria (biennale) II;  
-patologia e clinica delle cardiopatie chirurgiche (biennale) I. 4° Anno:  
-cardiologia medica (biennale) II;  
-angiologia medica;  
-terapia chirurgica e tecnica operatoria delle malattie del cuore e dei grossi vasi (triennale) II;  
-terapia chirurgica e tecnica operatoria delle vasculopatie periferiche, terapia intensiva (biennale) I;  
-patologia clinica cardiologica pediatrica;  
-cardiochirurgia pediatrica (biennale) I;  
-patologia e clinica delle cardiopatie chirurgiche (biennale) II.  
-5° Anno:  
-terapia chirurgica e tecnica operatoria delle malattie del cuore e dei grossi vasi (triennale) III;  
-terapia intensiva (biennale) II;  
-cardiochirurgia pediatrica (biennale) II;  
-assistenza meccanica cardiocircolatoria.  
-Art. 272. - La frequenza alle lezioni ed alle esercitazioni e' obbligatoria.  
-Gli allievi che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le prove di esame.  
-Art. 273. - Alla fine di ogni corso gli iscritti devono sostenere i relativi esami, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo; per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.  
-Alla fine del quinto anno, dopo aver superato tutti gli esami ha luogo l'esame di diploma consistente nella discussione di una dissertazione scritta su argomento attinente alla specializzazione e la cui scelta sia stata concordata tra diplomando e direttore della scuola.  
+Genetica dei microrganismi;  
+Virologia speciale;  
+Microbiologia degli alimenti;  
+Microbiologia industriale;  
+Metodi e dosaggio microbiologici.  
   
-Scuola di specializzazione in farmacologia  
+Art. 218. - Gli esami di profitto (discussione orale e prova pratica) saranno sostenuti singolarmente per ciascun insegnamento.  
+L'esame di diploma, cui si e' ammessi dopo aver superato tutti gli esami nelle singole materie consta di una dissertazione scritta - elaborata preferibilmente in un istituto universitario, sotto il controllo di un relatore scelto fra il personale docente - su un argomento pertinente gli insegnamenti della scuola e da prove pratiche.  
+Art. 219. - Gli iscritti dovranno pagare al 1° anno una tassa di immatricolazione di L. 7500 ed annualmente una tassa di iscrizione di L. 27.000; sopratassa esami di profitto di L. 7000, contributi di laboratorio L. 40.000, contributo spese generali L. 40.000, contributo riscaldamento L. 3000, contributo COSA L. 1000;  
+I diplomati dovranno inoltre pagare L. 3000 per sopratassa di diploma e L. 6000 per tassa di diploma.  
+Questa ultima tassa verra' versata all'erario, mentre tutte le altre tasse, sopratasse e contributi verranno versati alla cassa dell'universita'.  
   
-Art. 274. - La scuola di specializzazione in farmacologia rilascia i seguenti diplomi:  
-a) specialista in farmacologia - indirizzo: farmacologia di base;  
-b) specialista in farmacologia - indirizzo: farmacologia clinica;  
-c) specialista in farmacologia - indirizzo: tossicologia.  
-Art. 275. - La scuola ha la durata di quattro anni: i primi due anni sono comuni, il secondo biennio e' diverso nei tre indirizzi previsti: di "farmacologia di base", di "farmacologia clinica", di "tossicologia".  
-Il numero massimo degli iscritti e' fissato a quindici per ciascun anno di corso, da ripartire tra i tre indirizzi previsti. Al momento dell'iscrizione al terzo anno i candidati dovranno scegliere l'indirizzo che intendono seguire. Non sono ammesse abbreviazioni di corso. Per l'iscrizione alla scuola e' necessaria la laurea in medicina e chirurgia ed aver superato l'esame di Stato in medicina.  
-L'ammissione alla scuola e' fatta in base ai titoli e ad apposito esame.  
-Art. 276. - La facolta', considerato il numero degli iscritti e le possibilita' didattiche, puo' attivare anche un solo indirizzo della scuola.  
-Art. 277. - Le materie d'insegnamento sono:  
+Scuola di specializzazione in reumatologia  
+  
+Art. 220. - La scuola di specializzazione in reumatologia ha sede presso l'istituto di terapia medica sistematica dell'Universita' degli studi di Catania.  
+Il corso degli studi per il conseguimento del diploma di specialista in reumatologia ha la durata di tre anni accademici.  
+Alla scuola possono iscriversi i laureati in medicina e chirurgia.  
+Per l'ammissione e' previsto un concorso per titoli ed esami.  
+La scuola non puo' accogliere piu' di quattro specializzandi per ciascun anno di corso.  
+Art. 221. - Le materie di insegnamento ed i relativi esami sono cosi' ripartiti:  
+  
 1° Anno:  
-1) chimica organica;  
-2) statistica medica;  
-3) farmacologia generale;  
-4) biologia e farmacologia cellulare;  
-5) immunologia;  
-6) biologia molecolare dei procarioti e dei virus;  
-7) saggi e dosaggi farmacologici;  
-8) inglese scientifico.  
+Anatomia, istologia e morfogenesi dell'apparato muscolo-scheletrico e articolare;  
+Fisiopatologia dell'apparato muscolo-scheletrico e articolare;  
+Biochimica dei tessuti connettivi;  
+Microbiologia ed immunologia in relazione alle malattie reumatiche;  
+Semeiotica fisica, strumentale e di laboratorio in reumatologia (biennale).  
+  
 2° Anno:  
-1) basi di farmacocinetica;  
-2) farmacologia speciale;  
-3) chemioterapia antibatterica, antivirale, antineoplastica, antifungina, antiparassitaria;  
-4) principi di tossicologia, con elementi di tossicologia da ambienti da lavoro, da additivi;  
-5) tecniche chimico-fisiche, immunologiche, radio-isotopiche;  
-6) inglese scientifico;  
-7) statistica e programmazione.  
+Semeiotica fisica, strumentale e di laboratorio in reumatologia (biennale);  
+Anatomia ed istologia patologica delle malattie reumatiche;  
+Farmacologia in relazione alle malattie reumatiche;  
+Diagnostica radiologica;  
+Patologia, clinica e terapia delle malattie reumatiche (biennale);  
+Terapia fisica, termale e riabilitativa in reumatologia (biennale).  
+  
 3° Anno:  
-A) Indirizzo "farmacologia di base":  
-1) farmacologia speciale;  
-2) farmacologia molecolare;  
-3) chemioterapia sperimentale;  
-4) immunofarmacologia;  
-5) tecniche ed analisi critica degli "screening" di farmaci "in vivo" e "in vitro";  
-6) biochimica, fisiologia e farmacologia comparata.  
-B) Indirizzo "farmacologia clinica":  
-1) organizzazione di un laboratorio di farmacologia clinica e sua funzione;  
-2) farmacologia clinica e tecniche di sperimentazione clinica;  
-3) farmacologia speciale, in connessione con la patologia dei singoli organi ed apparati e con la pratica clinica I;  
-4) biodisponibilita' dei farmaci;  
-5) farmacocinetica e biochimica clinica.  
-C) Indirizzo "tossicologia":  
-1) tossicologia sperimentale;  
-2) cancerogenesi e teratogenesi;  
-3) tossicologia dell'ambiente e misure di prevenzione;  
-4) chimica tossicologica e tecniche di riconoscimento di sostanze tossiche;  
-5) anatomia ed istopatologia degli stati tossici;  
-6) epidemiologia;  
-7) terapia e prevenzione degli stati tossici I.  
-4° Anno:  
-A) Indirizzo "farmacologia di base":  
-1) farmacologia speciale;  
-2) modelli sperimentali di malattie umane;  
-3) metodi di allevamento, incrocio e stabulazione degli animali da laboratorio;  
-4) principi di sperimentazione sull'uomo e farmacologia pre-clinica;  
-5) legislazione in campo di farmaci.  
-B) Indirizzo "farmacologia clinica":  
-1) farmacologia speciale in connessione con la patologia degli organi e con la pratica clinica II;  
-2) farmacologia in eta' prenatale, perinatale ed in geriatria;  
-3) chemioterapia clinica;  
-4) deontologia e legislazione in campo di farmacologia clinica.  
-C) Indirizzo "tossicologia":  
-1) tossicologia sistematica;  
-2) terapia e prevenzione degli stati tossici II;  
-3) tossicologia nutrizionale;  
-4) tossicologia da abuso di farmaci;  
-5) organizzazione di centri antiveleni ed antidroga;  
-6) legislazione concernente la tossicologia individuale e di ambiente.  
-Ciascun corso di lezioni e' accompagnato da esercitazioni pratiche.  
-Gli insegnamenti vengono integrati da conferenze riguardanti specifici argomenti e problemi farmacoterapici e tossicologici di attualita'.  
-Art. 278. - Frequenza: l'insegnamento si svolge normalmente secondo il calendario universitario durante il periodo delle lezioni.  
-La durata del corso si prolunga tuttavia per tutto l'anno solare, senza interruzioni, per la pratica di laboratorio e clinica, che si esplica attraverso la frequenza obbligatoria ai fini di apprendimento.  
-La frequenza ai corsi e' obbligatoria ai fini di apprendimento.  
-L'indirizzo di farmacologia clinica e di tossicologia prevede la frequenza obbligatoria ai fini di apprendimento di almeno un anno in una clinica specializzata.  
-Per essere ammesso all'anno successivo il candidato, al termine di ogni anno deve superare un esame di profitto comprensivo delle materie di insegnamento dell'anno frequentato.  
-Superati gli esami di profitto prescritti per il quarto anno, il candidato viene ammesso all'esame per il diploma di specializzazione che consiste nella discussione orale di una dissertazione scritta su un tema originale approvato dal direttore della scuola.  
-Art. 279. - La direzione della scuola e' affidata al professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata al professore associato, che pure insegni nella scuola medesima.  
-Il direttore puo' durare in carica quattro anni e puo' essere rieletto. Il direttore nomina un vice direttore responsabile della attivita' didattica e scientifica per ogni indirizzo attivato.  
-Art. 280. - Sede ed organizzazione della scuola: le lezioni teoriche e le esercitazioni di laboratorio avranno luogo nei locali messi a disposizione dall'istituto di farmacologia.  
-Art. 281. - Per quanto non regolato dagli articoli di cui sopra, si fa riferimento alle norme generali dello statuto dell'Universita' di Catania.  
+Patologia clinica e terapia delle malattie reumatiche (biennale);  
+Terapia fisica, termale e riabilitativa in reumatologia (biennale);  
+Clinica e terapia ortopedica applicata alla reumatologia;  
+Aspetti sociali ed epidemiologici delle malattie reumatiche.  
   
-Scuola di specializzazione in nefrologia  
-  
-Art. 282. - La scuola di specializzazione in nefrologia ha sede presso la cattedra di nefrologia chirurgica e conferisce il diploma di specialista in nefrologia.  
-Art. 283. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
-Art. 284. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Art. 285. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.  
-Art. 286. - Il numero massimo degli allievi e' di nove per anno di corso e complessivamente di trentasei iscritti per l'intero corso di studio.  
-Art. 287. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 288. - Le materie d'insegnamento sono le seguenti:  
-1° Anno:  
-struttura ed ultrastruttura normale del rene;  
-aspetti biochimici della funzione renale;  
-fisiologia renale;  
-microbiologia ed immunologia applicate alla nefrologia;  
-genetica applicata alla nefrologia;  
-semeiotica renale (1° anno).  
-2° Anno:  
-struttura ed ultrastruttura patologica del renepatologia del ricambio idroelettrolitico;  
-insufficienza renale;  
-rene ed ipertensione arteriosa;  
-semeiotica renale (2° anno);  
-nefropatie tubulari.  
-3° Anno:  
-nefropatie glomerulari;  
-nefropatie interstiziali;  
-nefropatie vascolari;  
-terapie dietetica e dialitica (1° anno);  
-farmacologia d'interesse nefrologico.  
-4° Anno:  
-nefrouropatie calcolotiche, malformative e neoplastiche;  
-terapie dietetica e dialitica (2° corso);  
-fisiopatologia e clinica del trapianto renale;  
-aspetti di nefrologia nell'eta' pediatrica;  
-problemi chirurgici in nefrologia;  
-terapia medica delle nefropatie.  
-Art. 289. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.  
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
-Art. 290. - Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.  
-Al termine del corso di studi per il conseguimento del diploma di specialista in nefrologia, gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
-
-Art. 4
-------
-
-  
-L'art. 268 dello statuto dell'Universita' di Catania di cui al [decreto del Presidente della Repubblica 31 ottobre 1978, n. 882](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-10-31;882), concernente la scuola di specializzazione in chirurgia d'urgenza e pronto soccorso, e' soppresso e sostituito dal seguente:  
-  
-La frequenza alle lezioni, esercitazioni e seminari e' obbligatoria per tutti gli iscritti. Le esercitazioni pratiche sono obbligatorie durante tutti i cinque anni di corso e si svolgeranno sotto forma di permanenza costante ai fini di apprendimento in istituto durante le ore della sua attivita'.  
+Art. 222. - Per conseguire il diploma di specialista dovra' essere presentata e discussa una tesi scritta su un tema preventivamente approvato dal direttore della scuola.  
+E' obbligatoria la frequenza alle lezioni, esercitazioni ed un internato annuale di almeno 6 anni.  
+Le norme per l'iscrizione, le tasse, le eventuali abbreviazioni di corso, gli esami, ecc. sono quelle previste dalle disposizioni generali relative alle scuole di specializzazione della facolta' di medicina e chirurgia dell'Universita'.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 ottobre 1981
+### Dato a Roma, addi' 31 ottobre 1972
 
-PERTINI BODRATO
+LEONE SCALFARO
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 17 dicembre 1981
+Registrato alla Corte dei conti, addi' 20 febbraio 1973
 
-Registro n. 128 Istruzione, foglio n. 301
+Atti di Governo, registro n. 256, foglio n. 2. - VALENTINI

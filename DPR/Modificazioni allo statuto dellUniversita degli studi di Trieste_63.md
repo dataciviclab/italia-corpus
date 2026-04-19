@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 luglio 1979 n. 440
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 maggio 1978 n. 614
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 luglio 1979 n. 440
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 maggio 1978 n. 614
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
@@ -12,252 +12,729 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933 n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 6 marzo 1978, n. 102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-03-06;102);
-
-Veduta la proposta di modifiche dello statuto formulata dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro della pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
 
-Articolo unico
---------------
+Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+La scuola di specializzazione in oculistica di cui agli articoli 142 e 143, muta la denominazione in quella di scuola di specializzazione in oftalmologia. L'art. 143, relativo alla predetta scuola di specializzazione in oftalmologia e' integrato con il seguente nuovo comma:
+
+Le tasse, soprattasse e contributi sono fissati nel modo seguente:
+
+=====================================================================
+
+| 1° anno | Anni successivi
+
+=====================================================================
+
+tassa di immatricolazione | 5.000 | -
+
+costo libretto iscrizione e tesserino | 1.500 | -
+
+tassa annuale di iscrizione | 100.000 | 100.000
+
+soprattassa esami profitto | 7.000 | 7.000
+
+contributo opere sportive assistenziali | 1.000 | 1.000
+
+contributo biblioteca | 10.000 | 10.000
+
+contributo clinica e laboratorio | 48.000 | 48.000
+
+prestazioni segreteria | 3.000 | 3.000
+
+contributo riscaldamento | 3.000 | 3.000
+
+Totale | 178.500 | 172.000
+
+Gli articoli 149 e 150, relativi alla scuola di specializzazione in clinica pediatrica, che muta la denominazione in quella di scuola di specializzazione in pediatria, sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in pediatria
+
+Art. 149. - La scuola di specializzazione in pediatria ha sede presso la clinica pediatrica dell'Universita' di Trieste e conferisce il diploma di specialista in pediatria.
+
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
+
+Il numero massimo degli allievi e' di sei per anno di corso e complessivamente di ventiquattro per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Art. 150. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+genetica;
+
+auxologia;
+
+alimentazione;
+
+epidemiologia;
+
+malattie infettive;
+
+clinica pediatrica I.
+
+2° Anno:
+
+radiologia;
+
+legislazione del minore;
+
+organizzazione sanitaria;
+
+psicologia pediatrica;
+
+oculistica ed ortottica;
+
+otorino e foniatria;
+
+odonto;
+
+neonatologia I;
+
+chirurgia pediatrica I;
+
+pediatria preventiva e sociale I;
+
+clinica pediatrica II.
+
+3° Anno:
+
+neurologia;
+
+psichiatria infantile;
+
+nefrologia e urologia;
+
+ginecologia pediatrica;
+
+neonatologia II;
+
+chirurgia pediatrica II;
+
+pediatria preventiva e sociale II;
+
+cardiologia I;
+
+endocrinologia I;
+
+ematologia I;
+
+immunologia I;
+
+gastroenterologia I;
+
+clinica pediatrica III.
+
+4° Anno:
+
+oncologia;
+
+pneumologia;
+
+ortopedia e traumatologia;
+
+dermatologia;
+
+cardiologia II;
+
+endocrinologia II;
+
+ematologia II;
+
+immunologia II;
+
+gastroenterologia II;
+
+clinica pediatrica IV.
+
+La frequenza alle lezioni, alle esercitazioni pratiche e' obbligatoria. Gli allievi, che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere le prove di esame.
+
+Alla fine di ciascun anno di corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del corso di studi, per il conseguimento del diploma di specializzazione in pediatria, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+Gli articoli 155, 156, 157, 158 e 159, relativi alla scuola di specializzazione in chirurgia toracica, sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in chirurgia toracica
+
+Art. 155.- La scuola di specializzazione in chirurgia toracica ha sede presso l'istituto di patologia chirurgica dell'Universita' di Trieste e conferisce il diploma di specialista in chirurgia toracica.
+
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Art. 156. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+La durata del corso di studi e' di cinque anni, non e' suscettibile di abbreviazione e prevede l'insegnamento di tutte le branche della chirurgia toracica, chirurgia polmonare, chirurgia cardiaca, chirurgia esofagea, chirurgia del mediastino e della parete toracica.
+
+Il numero massimo degli allievi e' di otto per anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per concorso per titoli ed esami.
+
+Art. 157. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+1) embriologia, anatomia descrittiva e topografica del torace e degli organi endotoracici;
+
+2) anatomia chirurgica del torace e degli organi endotoracici;
+
+3) anatomia patologica delle malattie del torace (biennale I);
+
+4) anestesia in chirurgia toracica.
+
+2° Anno:
+
+1) fisiopatologia dell'apparato respiratorio;
+
+2) fisiopatologia dell'apparato cardiocircolatorio;
+
+3) semeiotica dell'apparato respiratorio, dell'esofago e del mediastino;
+
+4) semeiotica dell'apparato cardiocircolatorio;
+
+5) anatomia patologica delle malattie del torace (biennale II). 3° Anno:
+
+1) patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (biennale I);
+
+2) patologia e clinica chirurgica delle affezioni del cuore e dei grossi vasi endotoracici;
+
+3) patologia e clinica chirurgica delle affezioni dell'esofago e del diaframma;
+
+4) elementi di terapia medica delle cardio-angiopatie;
+
+5) elementi di fisioterapia respiratoria;
+
+6) diagnostica radiologica nelle malattie chirurgiche del torace.
+
+4° Anno:
+
+1) patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (biennale II);
+
+2) tecnica operatoria per le affezioni della parete toracica, dell'apparato respiratorio, dell'esofago, del mediastino e del diaframma (biennale I);
+
+3) tecnica operatoria delle affezioni del cuore, pericardio e grossi vasi endotoracici;
+
+4) principi e tecniche della circolazione extracorporea.
+
+5° Anno:
+
+1) terapia intensiva e rianimazione in chirurgia toracica;
+
+2) tecnica operatoria per le affezioni della parete toracica, dell'apparato respiratorio, dell'esofago, del mediastino e del diaframma (biennale II);
+
+3) terapia chirurgica della tbc pleuropolmonare.
+
+Art. 158. - Il corso si compone di lezioni, di esercitazioni pratiche, di periodi di internato, di conferenze riguardanti argomenti specialistici, di turni in corsia ed in sala operatoria.
+
+La frequenza ai corsi, agli internati, in corsia e in sala operatoria, alle esercitazioni e' obbligatoria. In caso contrario i candidati non potranno ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.
+
+Alla fine di ciascun anno di corso gli specializzandi che abbiano ottenuto la firma di frequenza dovranno sostenere un esame di profitto sulle materie di insegnamento il cui superamento e' condizione necessaria ed indispensabile per ottenere la iscrizione all'anno successivo, e, per quelli che sono stati iscritti al quinto anno, per l'ammissione all'esame di diploma. Durante il corso gli specializzandi frequenteranno la sala operatoria in maniera assidua, dovranno assistere a numerosi interventi di chirurgia toracica ed essere in grado di eseguirne essi stessi.
+
+Per tutti gli specializzandi che hanno superato gli esami dei cinque anni, alla fine del quinto anno di corso ha luogo l'esame di diploma, consistente nella presentazione e discussione di una dissertazione scritta su un argomento di chirurgia toracica concordato con la direzione della scuola.
+
+Art. 159. - Le tasse, soprattasse e contributi sono fissati nel modo seguente:
+
+=====================================================================
+
+| 1° anno | Anni successivi
+
+=====================================================================
+
+tassa di immatricolazione | 5.000 | -
+
+costo libretto iscrizione e tesserino | 1.500 | -
+
+tassa annuale di iscrizione | 100.000 | 100.000
+
+soprattassa esami profitto | 7.000 | 7.000
+
+contributo opere sportive assistenziali | 1.000 | 1.000
+
+contributo clinica e laboratorio | 48.000 | 48.000
+
+contributo biblioteca | 10.000 | 10.000
+
+prestazioni segreteria | 3.000 | 3.000
+
+contributo riscaldamento | 3.000 | 3.000
+
+Totale | 178.500 | 172.000
+
+Dopo l'art. 171, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in urologa.
+
+Scuola di specializzazione in urologia
+
+Art. 172. - La scuola di specializzazione in urologia ha sede presso la cattedra di clinica urologica dell'Universita' di Trieste e conferisce il diploma di specialista in urologia.
+
+Art. 173. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine
+
+Art. 174. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+Art. 175. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.
+
+Art. 176. - Il numero degli allievi e' di quattro per anno di corso e complessivamente di venti iscritti per l'intero corso di studi.
+
+Art. 177. - L'ammissione al corso avviene per titoli ed esami.
+
+Art. 178. - Le materie di insegnamento e gli esami sono i seguenti:
+
+=====================================================================
+
+Insegnamenti | Esami
+
+=====================================================================
+
+1° Anno: |
+
+---------------------------------------------------------------------
+
+1) anatomia sistematica e |1) anatomia sistematica e
+
+topografica dell'apparato urinario|topografica dell'apparato urinario
+
+e genitale maschile |e genitale maschile
+
+---------------------------------------------------------------------
+
+2) fisiologia dell'apparato |2) fisiologia dell'apparato
+
+urinario e genitale maschile |urinario e genitale maschile
+
+---------------------------------------------------------------------
+
+3) batteriologia in urologia |3) batteriologia in urologia
+
+---------------------------------------------------------------------
+
+4) semeiotica funzionale e |
+
+strumentale dell'apparato |
+
+uro-genitale I |
+
+---------------------------------------------------------------------
+
+2° Anno: |
+
+---------------------------------------------------------------------
+
+1) semeiotica funzionale e |1) semeiotica funzionale e
+
+strumentale dell'apparato |strumentale dell'apparato
+
+uro-genitale II |uro-genitale
+
+---------------------------------------------------------------------
+
+2) le nefropatie mediche |2) le nefropatie mediche
+
+---------------------------------------------------------------------
+
+3) anatomia chirurgica |3) anatomia chirurgica
+
+dell'apparato urinario e genitale |dell'apparato urinario e genitale
+
+maschile |maschile
+
+---------------------------------------------------------------------
+
+4) patologia dell'apparato |
+
+urinario e genitale maschile I |
+
+---------------------------------------------------------------------
+
+5) radiologia dell'apparato |
+
+urinario e genitale maschile I |
+
+---------------------------------------------------------------------
+
+3° Anno: |
+
+---------------------------------------------------------------------
+
+1) patologia dell'apparato |1) patologia dell'apparato
+
+urinario e genitale maschile II |urinario e genitale maschile
+
+---------------------------------------------------------------------
+
+2) radiologia dell'apparato |2) radiologia dell'apparato
+
+urinario e genitale maschile II |urinario e genitale maschile
+
+---------------------------------------------------------------------
+
+3) le affezioni cutanee e veneree |3) le affezioni cutanee e veneree
+
+nei riguardi dell'urologia |nei riguardi dell'urologia
+
+---------------------------------------------------------------------
+
+4) andrologia |4) andrologia
+
+---------------------------------------------------------------------
+
+4° Anno: |
+
+---------------------------------------------------------------------
+
+1) anatomia e istologia patologica|1) anatomia e istologia patologica
+
+dell'apparato urinario e genitale |dell'apparato urinario e genitale
+
+---------------------------------------------------------------------
+
+2) farmacoterapia delle affezioni |2) farmacoterapia delle affezioni
+
+uro-genitali |uro-genitali
+
+---------------------------------------------------------------------
+
+3) anestesia e trattamento pre e |3) anestesia e trattamento pre e
+
+post-operatorio del malato |post-operatorio del malato
+
+urologico |urologico
+
+---------------------------------------------------------------------
+
+4) nefrologia chirurgica |4) nefrologia chirurgica
+
+---------------------------------------------------------------------
+
+5) clinica urologica I |
+
+---------------------------------------------------------------------
+
+6) procedimenti di chirurgia |
+
+endoscopica I |
+
+---------------------------------------------------------------------
+
+7) interventi e procedimenti |
+
+operatori sull'apparato urinario e|
+
+genitale maschile I |
+
+---------------------------------------------------------------------
+
+5° Anno: |
+
+---------------------------------------------------------------------
+
+1) clinica urologica II |1) clinica urologica
+
+---------------------------------------------------------------------
+
+2) patologia e clinica urologica |2) patologia e clinica urologica
+
+infantile |infantile
+
+---------------------------------------------------------------------
+
+3) urologia ginecologica |3) urologia ginecologica
+
+---------------------------------------------------------------------
+
+|4) interventi e procedimenti
+
+4) procedimenti di chirurgia |operatori sull'apparato urinario e
+
+endoscopica II |genitale maschile
+
+---------------------------------------------------------------------
+
+5) la chirurgia dell'intestino |
+
+---------------------------------------------------------------------
+
+6) la chirurgia vascolare |
+
+---------------------------------------------------------------------
+
+7) interventi e procedimenti |
+
+operatori sull'apparato urinario e|
+
+genitale maschile II |
+
+Art. 179. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Art. 180. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno, ad eccezione delle discipline svolte in corsi pluriennali il cui esame sara' sostenuto alla fine dei corsi medesimi.
+
+Art. 181. - Al termine del corso di studi per il conseguimento del diploma di specialista in urologia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+Art. 182. - Le tasse, soprattasse e contributi sono stabiliti nel modo seguente:
+
+=====================================================================
+
+| 1° anno | Anni successivi
+
+=====================================================================
+
+tassa di immatricolazione | 5.000 | -
+
+costo libretto iscrizione e tesserino | 1.500 | -
+
+tassa annuale di iscrizione | 100.000 | 100.000
+
+soprattassa esami profitto | 7.000 | 7.000
+
+contributo opere sportive assistenziali | 1.000 | 1.000
+
+contributo biblioteca | 10.000 | 10.000
+
+contributo clinica e laboratorio | 48.000 | 48.000
+
+prestazioni segreteria | 3.000 | 3.000
+
+contributo riscaldamento | 3.000 | 3.000
+
+Totale | 178.500 | 172.000
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 22 maggio 1978
+
+LEONE
+
+PEDINI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 4 ottobre 1978 Registro n. 107 Istruzione, foglio n. 175
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
+  
+Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933 n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+La scuola di specializzazione in oculistica di cui agli articoli 142 e 143, muta la denominazione in quella di scuola di specializzazione in oftalmologia. L'art. 143, relativo alla predetta scuola di specializzazione in oftalmologia e' integrato con il seguente nuovo comma:  
+Le tasse, soprattasse e contributi sono fissati nel modo seguente: 
+
+|  |  |
+| --- | --- |
+| 1° anno | Anni successivi |
 
   
   
-Gli articoli 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206 e 207 dello statuto dell'Universita' degli studi di Trieste sono sostituiti dai seguenti:   
+Gli articoli 149 e 150, relativi alla scuola di specializzazione in clinica pediatrica, che muta la denominazione in quella di scuola di specializzazione in pediatria, sono abrogati e sostituiti dai seguenti:  
   
-Scuola superiore di lingue moderne per interpreti e traduttori   
+Scuola di specializzazione in pediatria  
   
-Art. 184. - Nell'Universita' degli studi di Trieste e' istituita la scuola superiore di lingue moderne per interpreti e traduttori, con effetto dall'entrata in vigore del [decreto del Presidente della Repubblica 6 marzo 1978, n. 102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-03-06;102).   
-La scuola si propone di fornire la necessaria preparazione tecnica e scientifica a coloro che intendono dedicarsi all'esercizio della professione di traduttore e di interprete.   
-L'ammissione come allievi della scuola e' subordinata all'esito dell'esame di ammissione, di cui ai successivi articoli 190 e 193, bandito annualmente dalla scuola stessa. Gli iscritti alla scuola sono studenti universitari a tutti gli effetti. La scuola superiore di lingue moderne per interpreti e traduttori assorbe la scuola di lingue moderne per traduttori ed interpreti di conferenze funzionante presso la facolta' di economia e commercio dell'Universita' degli studi di Trieste ed istituita con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540).   
-Art. 185. - La scuola superiore di lingue moderne per interpreti e traduttori ha sede a Trieste presso la Universita' degli studi di Trieste e gode di autonomia amministrativa, didattica e disciplinare, nei limiti stabiliti dal [decreto del Presidente della Repubblica del 6 marzo 1978, n. 102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-03-06;102) e dalle norme di cui al testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni.   
-Art. 186. - Gli organi di direzione della scuola sono:   
-1) il comitato direttivo;   
-2) il direttore;   
-3) il consiglio della scuola superiore.   
-Art. 187. - Il comitato direttivo e' composto:   
-1) dal rettore dell'Universita' di Trieste che lo presiede;   
-2) dal direttore della scuola superiore, con funzione di vicepresidente;   
-3) da due rappresentanti designati dal consiglio di amministrazione dell'Universita' di Trieste;   
-4) da due rappresentanti dei docenti della scuola superiore eletti dal consiglio della scuola;   
-5) da due rappresentanti degli studenti eletti dagli studenti della scuola;   
-6) da due rappresentanti del personale non docente eletti dal personale non docente assegnato alla scuola;   
-7) dal direttore amministrativo della scuola che svolge le funzioni di segretario.   
-Il comitato direttivo dura in carica un biennio.   
-Il comitato direttivo sovrintende alla gestione speciale della scuola e predispone il bilancio e il conto consuntivo annuale della scuola superiore che vanno approvati dal consiglio di amministrazione dell'Universita' di Trieste e costituiscono rispettivamente parte integrante del bilancio e del conto consuntivo dell'Universita' stessa.   
-Le rappresentanze, di cui ai punti 4), 5) e 6), saranno elette dalle corrispondenti categorie e secondo le modalita' fissate dall'[art. 9 del decreto-legge 1 ottobre 1973, n. 580](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580~art9), convertito, con modificazioni, nella [legge 30 novembre 1973, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766), e successive norme integrative e modificative (cfr. art. 35 del decreto del Presidente della Repubblica istitutivo 6 marzo 1978, n. 102).   
-In conformita' di quanto disposto dall'[art. 9, comma quarto, del decreto-legge 1 ottobre 1973, n. 580](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580~art9-com4), convertito, con modificazioni, con [legge 30 novembre 1973, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766), e successive norme integrative modificate (cfr. art. 36 del citato decreto del Presidente della Repubblica istitutivo), il direttore della scuola e' un professore di ruolo della scuola stessa eletto dal consiglio della scuola e dura in carica un triennio.   
-Il direttore della scuola promuove e sovrintende allo svolgimento delle attivita' della stessa ed esercita tutti i poteri attribuitigli dal [decreto del Presidente della Repubblica 6 marzo 1978, n. 102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-03-06;102), dallo statuto e dai regolamenti dell'Universita' nonche' le altre attribuzioni previste dall'ordinamento universitario per i presidi di facolta'.   
-Art. 188. - Il consiglio della scuola svolge le funzioni di consiglio di facolta' ed e' composto dal direttore che lo presiede, dai professori ufficiali della scuola e dai rappresentanti degli studenti della scuola nelle proporzioni e secondo le modalita' di partecipazione di cui all'[art. 9 del decreto-legge 1 ottobre 1973, n.   
-580](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580~art9), convertito con [legge 30 novembre 1973, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766), e successive modificazioni ed integrazioni, in materia di consiglio di facolta'.   
-Art. 189. - L'insegnamento ufficiale e' impartito dai professori di ruolo e dai professori incaricati.   
-Tutti i docenti della scuola sono docenti universitari. Per quanto riguarda le procedure di conferimento degli incarichi la scuola dovra' osservare le norme stabilite per il conferimento degli incarichi di insegnamento dall'[art. 4 del decreto-legge 1 ottobre 1973, n. 580](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580~art4), convertito, con modificazioni, nella [legge 30 novembre 1973, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766).   
-Art. 190. - La scuola rilascia due titoli: un diploma alla fine del secondo anno e la laurea per interprete o traduttore dopo quattro anni.   
-Al primo anno della scuola possono iscriversi coloro che siano in possesso di un titolo di istruzione secondaria di secondo grado valido per l'immatricolazione ai corsi di laurea universitari, previo superamento dell'esame di ammissione di cui al precedente art. 184 e al seguente art. 193.   
-Al termine del primo biennio gli allievi che abbiano superato tutti gli esami di profitto sostengono un esame per il conseguimento del diploma.   
-Al terzo anno potranno iscriversi coloro che abbiano conseguito il diploma (della scuola superiore). Prima dell'iscrizione al terzo anno, indirizzo interpreti, gli allievi frequenteranno un breve seminario e sosterranno un colloquio di orientamento attitudinale.   
-Coloro che abbiano titolo all'iscrizione al terzo anno di una corrispondente facolta', e coloro che abbiano titolo all'iscrizione al terzo anno di corso della scuola di lingue moderne per traduttori ed interpreti di conferenze funzionante presso la facolta' di economia e commercio dell'Universita' di Trieste, potranno iscriversi al terzo anno della scuola superiore previo superamento di un esame di concorso e nel numero di posti a tal fine stabilito annualmente dal consiglio della scuola. Le prove per l'esame di concorso dovranno consentire l'accertamento della conoscenza della prima e seconda lingua straniera nonche' delle attitudini per la traduzione o per l'interpretazione.   
-Art. 191. - La scuola ha, nel secondo biennio, due indirizzi:   
-1) indirizzo per traduttori;   
-2) indirizzo per interpreti.   
-Entro il 31 luglio il consiglio della scuola puo' concedere agli studenti del terzo anno di cambiare l'indirizzo prescelto, esonerandoli dall'obbligo della frequenza ed indicando quali esami mancanti devono essere sostenuti per ottenere l'iscrizione al quarto anno.   
-Art. 192. - Al momento della prima applicazione del [decreto del Presidente della Repubblica 6 marzo 1978, n. 102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-03-06;102), le lingue insegnate come "prima lingua straniera" sono il francese, l'inglese, il tedesco e l'italiano per stranieri e le lingue insegnate come "seconda lingua straniera" sono il francese, l'inglese, l'olandese, il russo, il serbo-croato, lo sloveno, lo spagnolo ed il tedesco.   
-Per ogni corso gli studenti seguono una "prima", una "seconda" ed eventualmente una terza lingua straniera, scelta fra le "seconde lingue straniere".   
-Art. 193. - Tutti i corsi della scuola possono essere frequentati da coloro che abbiano superato l'esame di ammissione o di concorso e siano in regola con il pagamento delle tasse.   
-Con l'esame di ammissione i candidati devono dimostrare di possedere una buona conoscenza della lingua prescelta come "prima lingua straniera".   
-L'esame di ammissione comprende un dettato nella prima lingua straniera, una traduzione dalla prima lingua straniera in italiano ed una traduzione dall'italiano nella prima lingua straniera. Per queste prove non e' concesso l'ausilio di alcun vocabolario, dizionario o altro materiale. I candidati devono ottenere un giudizio positivo in tutte le tre prove di esame ed, eventualmente, potranno ripetere l'esame di ammissione negli anni successivi.   
-Gli studenti stranieri, iscrivendosi al corso di italiano "prima" lingua, devono scegliere tra il francese, l'inglese o il tedesco la lingua base per l'intero corso di studio.   
-L'esame di ammissione e quello di concorso, di cui all'art. 190, hanno luogo in un'unica sessione autunnale ed i risultati vengono esposti all'albo della scuola. Gli esami non costituiscono titolo di studio e non danno diritto ad attestazioni di alcun genere.   
-I candidati dichiarati idonei in base all'esame di ammissione o di concorso possono immatricolarsi anche nell'anno accademico successivo.   
-Art. 194. - L'insegnamento e' svolto in corsi di lezioni, esercitazioni e seminari. Durante il terzo e quarto anno di corso possono essere organizzate speciali esercitazioni pubbliche per gli allievi interpreti, con il consenso e sotto il controllo del consiglio della scuola, in occasione di congressi internazionali in Italia o all'estero.   
-La frequenza alle lezioni e' obbligatoria ed e' comprovata dalle attestazioni dei docenti sul libretto d'iscrizione. Lo studente al quale sia stata negata l'attestazione di frequenza ad una materia non e' ammesso al rispettivo esame.   
-Gli insegnamenti sono articolati in corsi annuali e semestrali.   
-Art. 195. - Per ogni anno di corso e' previsto il seguente piano di studi obbligatorio:   
-1° Anno:   
-1) prima lingua straniera con esercitazioni pratiche - 1 (annuale);   
-2) traduzione dall'italiano nella prima lingua straniera - 1 (annuale);   
-3) traduzione in italiano dalla prima lingua straniera - 1 (annuale);   
-4) lingua, civilta' ed istituzioni del Paese (prima lingua straniera) - 1 (annuale);   
-5) seconda lingua straniera con esercitazioni pratiche - 1 (annuale);   
-6) traduzione dall'italiano nella seconda lingua straniera - 1 (annuale);   
-7) traduzione in italiano dalla seconda lingua straniera - 1 (annuale);   
-8) lingua madre d'iscrizione - 1 (annuale); (a)   
-9) tecnica e corrispondenza commerciale nella prima lingua   
-straniera (annuale);   
-10) linguistica generale ed applicata - 1 (annuale);   
-11) insegnamento opzionale - 1 - scelto fra i complementari attivati (semestrale).   
-2° Anno:   
-1) prima lingua straniera con esercitazioni pratiche - 2 (annuale);   
-2) traduzione dall'italiano nella prima lingua straniera - 2 (annuale);   
-3) traduzione in italiano dalla prima lingua straniera - 2 (annuale);   
-4) linguistica generale ed applicata - 2 (annuale);   
-5) lingua, civilta' e istituzioni del Paese (prima lingua straniera) - 2 (annuale);   
-6) seconda lingua straniera con esercitazioni pratiche - 2 (annuale);   
-7) traduzione dall'italiano nella seconda lingua straniera - 2 (annuale);   
-8) traduzione in italiano dalla seconda lingua straniera - 2 (annuale);   
-9) lingua madre d'iscrizione - 2 (annuale); (b)   
-10) geografia politica ed economica (annuale);   
-11) insegnamento opzionale - 2 - scelto fra i complementari attivati (semestrale).   
-3° Anno (indirizzo interpreti):   
-1) prima lingua straniera con esercitazioni pratiche - 3 (annuale);   
-2) seconda lingua straniera con esercitazioni pratiche - 3 (annuale);   
-3) interpretazione consecutiva dall'italiano nella prima lingua straniera - 1 (annuale);   
-4) interpretazione consecutiva in italiano dalla seconda lingua straniera - 1 (annuale);   
-5) interpretazione consecutiva in italiano dalla prima lingua straniera - 1 (annuale);   
-6) interpretazione simultanea dall'italiano nella prima lingua straniera - 1 (annuale);   
-7) interpretazione simultanea in italiano dalla prima lingua straniera - 1 (annuale);   
-8) interpretazione simultanea in italiano dalla seconda lingua straniera - 1 (annuale);   
-9) letteratura della lingua madre d'iscrizione - 1 (annuale);(c)   
-10) organizzazioni internazionali (annuale);   
-11) insegnamento opzionale - 3 - scelto tra i complementari attivati (semestrale).   
-4° Anno (indirizzo interpreti):   
-1) prima lingua straniera con esercitazioni pratiche - 4 (annuale);   
-2) seconda lingua straniera con esercitazioni pratiche - 4 (annuale);   
-3) interpretazione consecutiva dall'italiano nella prima lingua straniera - 2 (annuale);   
-4) interpretazione consecutiva in italiano dalla prima lingua straniera - 2 (annuale);   
-5) interpretazione consecutiva in italiano dalla seconda lingua straniera - 2 (annuale);   
-6) interpretazione simultanea dall'italiano nella prima lingua straniera - 2 (annuale);   
-7) interpretazione simultanea in italiano dalla prima lingua straniera - 2 (annuale);   
-8) interpretazione simultanea in italiano dalla seconda lingua straniera - 2 (annuale);   
-9) letteratura della lingua madre d'iscrizione - 2 (annuale);(d)   
-10) insegnamento opzionale - 4 - scelto tra i complementari   
-attivati (semestrale).   
-3° Anno (indirizzo traduttori):   
-1) prima lingua straniera con esercitazioni pratiche - 3 (annuale);   
-2) seconda lingua straniera con esercitazioni pratiche - 3 (annuale);   
-3) traduzione dall'italiano nella prima lingua straniera con elementi di traduzione specializzata - 1 (annuale);   
-4) traduzione in italiano dalla prima lingua straniera con elementi di traduzione specializzata - 1 (annuale);   
-5) traduzione dall'italiano nella seconda lingua straniera - 3 (annuale);   
-6) traduzione in italiano dalla seconda lingua straniera - 3 (annuale);   
-7) letteratura della prima lingua straniera - 1 (annuale);   
-8) letteratura della seconda lingua straniera - 1 (annuale);   
-9) letteratura della lingua madre d'iscrizione - 1 (annuale);(c)   
-10) organizzazioni internazionali (annuale);   
-11) insegnamento opzionale - 3 - scelto tra i complementari attivati (semestrale).   
-4° Anno (indirizzo traduttori):   
-1) prima lingua straniera con esercitazioni pratiche - 4 (annuale);   
-2) seconda lingua straniera con esercitazioni pratiche - 4 (annuale);   
-3) traduzione dall'italiano nella prima lingua straniera con elementi di traduzione specializzata - 2 (annuale);   
-4) traduzione in italiano dalla prima lingua straniera con elementi di traduzione specializzata - 2 (annuale);   
-5) traduzione dall'italiano nella seconda lingua straniera - 4 (annuale);   
-6) traduzione in italiano dalla seconda lingua straniera - 4 (annuale);   
-7) letteratura della prima lingua straniera - 2 (annuale);   
-8) letteratura della seconda lingua straniera - 2 (annuale);   
-9) letteratura della lingua madre d'iscrizione - 2 (annuale);(d)   
-10) insegnamento opzionale - 4 - scelto tra i complementari   
-attivati (semestrale).   
-Art. 196. - La scuola attivera' annualmente sei insegnamenti opzionali (semestrali) al fine di permettere agli studenti di approfondire la loro preparazione in alcuni dei principali settori nei quali svolgeranno la loro attivita' professionale di interpreti e di traduttori, e cioe' due insegnamenti nel settore politico-economico, due nel settore sociale-giuridico e due nel settore tecnico-scientifico.   
-Durante i quattro anni di corso gli studenti hanno l'obbligo di sostenere ogni anno un esame opzionale (semestrale) scegliendolo tra gli insegnamenti complementari previsti nello statuto.   
-Insegnamenti complementari (semestrali):   
-1) elementi di diritto pubblico e privato;   
-2) elementi di diritto commerciale;   
-3) elementi di diritto internazionale;   
-4) fondamenti di politica economica;   
-5) fondamenti di economia;   
-6) elementi di scienza delle finanze;   
-7) introduzione allo studio delle risorse naturali;   
-8) elementi biologici relativi alle scienze mediche;   
-9) elementi clinici relativi alle scienze mediche;   
-10) nozioni introduttive alle discipline ingegneristiche;   
-11) nozioni introduttive alle discipline chimiche;   
-12) nozioni introduttive alle discipline fisiche;   
-13) nozioni introduttive alle scienze naturali.   
-Art. 197. - Gli esami di profitto, di diploma e di laurea si svolgono nei periodi fissati dall'art. 164 del testo unico e dell'[art. 1 della legge 5 gennaio 1955, n. 8](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-01-05;8~art1).   
-Le commissioni degli esami di profitto, di diploma e di laurea, sono costituite secondo quanto stabilito dall'art. 42 del regolamento studenti approvato con [regio decreto 4 giugno 1938, n. 1269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-04;1269).   
-Art. 198. - Per tutte le prove scritte d'esame, previste nel primo biennio, non e' concesso l'uso di dizionari o vocabolari di alcun genere.   
-Per le prove scritte di esame del secondo biennio e dell'esame finale di laurea potra', eventualmente, essere concesso l'uso di vocabolari o dizionari a giudizio del consiglio della scuola.   
-Art. 199. - Per essere ammesso all'esame finale per il conseguimento del diploma lo studente deve aver superato i seguenti diciotto esami annuali e i due esami semestrali:   
-prima lingua straniera con esercitazioni pratiche 1 e 2 (due esami);   
-traduzione dall'italiano nella prima lingua straniera 1 e 2 (due esami);   
-traduzione in italiano dalla prima lingua straniera 1 e 2 (due esami);   
-seconda lingua straniera con esercitazioni pratiche 1 e 2 (due esami);   
-traduzione dall'italiano nella seconda lingua straniera 1 e 2 (due esami);   
-traduzione in italiano dalla seconda lingua straniera 1 e 2 (due esami);   
-lingua, civilta' ed istituzioni del Paese (prima lingua straniera) (due esami);   
-lingua madre di iscrizione 1 e 2 (un esame);   
-tecnica e corrispondenza commerciale nella prima lingua straniera (un esame);   
-linguistica generale ed applicata 1 e 2 (un esame);   
-geografia politica ed economica (un esame);   
-insegnamento opzionale 1 (un esame) (semestrale);   
-insegnamento opzionale 2 (un esame) (semestrale).   
-L'esame finale per il conseguimento del diploma consiste in prove di accertamento della preparazione professionale del candidato determinate dal consiglio della scuola.   
-Per essere ammesso all'esame finale per il conseguimento della laurea lo studente deve aver superato nove esami annuali, comuni ai due indirizzi, che sono:   
-prima lingua straniera con esercitazioni pratiche 3 e 4 (due esami);   
-seconda lingua straniera con esercitazioni pratiche 3 e 4 (due esami);   
-letteratura della lingua madre d'iscrizione 1 e 2 (due esami);   
-organizzazioni internazionali (un esame);   
-insegnamento opzionale 3 (un esame);   
-insegnamento opzionale 4 (un esame).   
-Gli studenti che si presentano all'esame finale per il conseguimento della laurea per interprete devono aver superato inoltre i seguenti dodici esami caratterizzanti:   
-interpretazione consecutiva dall'italiano nella prima lingua straniera 1 e 2 (due esami);   
-interpretazione consecutiva in italiano dalla prima lingua straniera 1 e 2 (due esami);   
-interpretazione consecutiva in italiano dalla seconda lingua straniera 1 e 2 (due esami);   
-interpretazione simultanea dall'italiano nella prima lingua straniera 1 e 2 (due esami);   
-interpretazione simultanea in italiano dalla prima lingua straniera 1 e 2 (due esami);   
-interpretazione simultanea in italiano dalla seconda lingua straniera 1 e 2 (due esami).   
-Gli studenti che si presentano all'esame finale per il conseguimento delLa laurea per traduttore devono, inoltre, aver superato i seguenti dodici esami caratterizzanti:   
-traduzione dall'italiano nella prima lingua straniera con elementi di traduzione specializzata 1 e 2 (due esami);   
-traduzione in italiano dalla prima lingua straniera con elementi di traduzione specializzata 1 e 2 (due esami);   
-traduzione dall'italiano nella seconda lingua straniera 3 e 4 (due esami);   
-traduzione in italiano dalla seconda lingua straniera 3 e 4 (due esami);   
-letteratura della prima lingua straniera 1 e 2 (due esami);   
-letteratura della seconda lingua straniera 1 e 2 (due esami).   
-L'esame finale per i candidati alla laurea per interprete comprende le seguenti prove: relazioni orali in italiano e nella prima lingua straniera su argomenti sorteggiati in precedenza; interpretazione consecutiva dalla prima lingua straniera in italiano; interpretazione consecutiva dalla seconda lingua straniera in italiano; interpretazione simultanea dalla prima lingua straniera in italiano; interpretazione simultanea dalla seconda lingua straniera in italiano; interpretazione simultanea oppure consecutiva dall'italiano nella prima lingua straniera.   
-L'esame finale per i candidati alla laurea per traduttore comprende le seguenti prove: traduzione dall'italiano nella prima lingua straniera; traduzione dalla prima lingua straniera in italiano; traduzione dalla seconda lingua straniera in italiano; discussione orale di una traduzione in italiano di un testo nella prima lingua straniera eseguito in precedenza su un argomento concordato con il relatore e corredato da un commento critico.   
-Art. 200. - Le tasse e soprattasse nonche' le tasse di diploma o di laurea dovute dagli studenti in corso e fuori corso devono essere conformi a quelle stabilite dall'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).   
-L'ammontare invece dei contributi dovra' essere stabilito prima dell'inizio dell'anno accademico dal consiglio di amministrazione con la procedura di cui all'art. 11 della citata legge n. 1551.   
-Art. 201. - Per quanto non previsto dal presente statuto si applicano le norme vigenti per l'ordinamento universitario.   
+Art. 149. - La scuola di specializzazione in pediatria ha sede presso la clinica pediatrica dell'Universita' di Trieste e conferisce il diploma di specialista in pediatria.  
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.  
+Il numero massimo degli allievi e' di sei per anno di corso e complessivamente di ventiquattro per l'intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami.  
+Art. 150. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+genetica;  
+auxologia;  
+alimentazione;  
+epidemiologia;  
+malattie infettive;  
+clinica pediatrica I.  
+2° Anno:  
+radiologia;  
+legislazione del minore;  
+organizzazione sanitaria;  
+psicologia pediatrica;  
+oculistica ed ortottica;  
+otorino e foniatria;  
+odonto;  
+neonatologia I;  
+chirurgia pediatrica I;  
+pediatria preventiva e sociale I;  
+clinica pediatrica II.  
+3° Anno:  
+neurologia;  
+psichiatria infantile;  
+nefrologia e urologia;  
+ginecologia pediatrica;  
+neonatologia II;  
+chirurgia pediatrica II;  
+pediatria preventiva e sociale II;  
+cardiologia I;  
+endocrinologia I;  
+ematologia I;  
+immunologia I;  
+gastroenterologia I;  
+clinica pediatrica III.  
+4° Anno:  
+oncologia;  
+pneumologia;  
+ortopedia e traumatologia;  
+dermatologia;  
+cardiologia II;  
+endocrinologia II;  
+ematologia II;  
+immunologia II;  
+gastroenterologia II;  
+clinica pediatrica IV.  
+La frequenza alle lezioni, alle esercitazioni pratiche e' obbligatoria. Gli allievi, che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere le prove di esame.  
+Alla fine di ciascun anno di corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.  
+Al termine del corso di studi, per il conseguimento del diploma di specializzazione in pediatria, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+Gli articoli 155, 156, 157, 158 e 159, relativi alla scuola di specializzazione in chirurgia toracica, sono abrogati e sostituiti dai seguenti:  
   
-Norme transitorie.   
+Scuola di specializzazione in chirurgia toracica  
   
-1) A norma dell'art. 17 del testo unico delle leggi sull'istruzione universitaria lo statuto della scuola entrera' in vigore una volta completata la procedura di modifica statutaria.   
-L'attivita' della scuola avra' inizio con l'anno accademico 1978-79.   
-Gli studenti che, alla data di approvazione del presente statuto, risultino iscritti presso la scuola di lingue moderne per traduttori ed interpreti di conferenze funzionante presso la facolta' di economia e commercio dell'Universita' degli studi di Trieste, avranno diritto di sostenere l'esame finale secondo il vecchio ordinamento.  
-Sara' loro rilasciato l'attestato di traduttore-corrispondente in lingue estere ed il diploma di traduttore-interprete o di traduttore-interprete di conferenze con menzione dell'istituto precedente alla entrata in vigore del [decreto del Presidente della Repubblica 6 marzo 1978, n. 102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-03-06;102).   
-E' data facolta' a questi studenti di proseguire gli studi secondo il nuovo ordinamento, integrando gli esami gia' sostenuti con quelli che il consiglio della scuola determinera' caso per caso.   
-2) La direzione amministrativa dell'Universita' degli studi di Trieste procedera' alla ricostruzione della carriera giuridica ed economica degli incaricati stabilizzati e non stabilizzati, secondo quanto disposto dall'[art. 42 del decreto del Presidente della Repubblica 6 marzo 1978, n. 102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-03-06;102~art42), e norme successive.   
-Gli incaricati stabilizzati nella scuola di lingue moderne per traduttori ed interpreti di conferenze funzionante presso la facolta' di economia e commercio dell'Universita' degli studi di Trieste potranno chiedere la stabilizzazione di uno degli incarichi di insegnamento affini previsti dal nuovo statuto.   
-L'amministrazione universitaria provvedera' alla regolarizzazione del nuovo decreto secondo le norme previste dall'[art. 42 del decreto del Presidente della Repubblica 6 marzo 1978, n. 102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-03-06;102~art42), e norme successive, per gli aventi diritto alla stabilizzazione.   
-3) I diplomati della scuola di lingue moderne per traduttori ed interpreti di conferenze, funzionante presso la facolta' di economia e commercio dell'Universita' degli studi di Trieste, potranno conseguire la laurea per interprete o traduttore a seguito di esami integrativi determinati caso per caso dal consiglio della scuola.   
+Art. 155.- La scuola di specializzazione in chirurgia toracica ha sede presso l'istituto di patologia chirurgica dell'Universita' di Trieste e conferisce il diploma di specialista in chirurgia toracica.  
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Art. 156. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+La durata del corso di studi e' di cinque anni, non e' suscettibile di abbreviazione e prevede l'insegnamento di tutte le branche della chirurgia toracica, chirurgia polmonare, chirurgia cardiaca, chirurgia esofagea, chirurgia del mediastino e della parete toracica.  
+Il numero massimo degli allievi e' di otto per anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.  
+L'ammissione al corso avviene per concorso per titoli ed esami.  
+Art. 157. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) embriologia, anatomia descrittiva e topografica del torace e degli organi endotoracici;  
+2) anatomia chirurgica del torace e degli organi endotoracici;  
+3) anatomia patologica delle malattie del torace (biennale I);  
+4) anestesia in chirurgia toracica.  
+2° Anno:  
+1) fisiopatologia dell'apparato respiratorio;  
+2) fisiopatologia dell'apparato cardiocircolatorio;  
+3) semeiotica dell'apparato respiratorio, dell'esofago e del mediastino;  
+4) semeiotica dell'apparato cardiocircolatorio;  
+5) anatomia patologica delle malattie del torace (biennale II). 3° Anno:  
+1) patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (biennale I);  
+2) patologia e clinica chirurgica delle affezioni del cuore e dei grossi vasi endotoracici;  
+3) patologia e clinica chirurgica delle affezioni dell'esofago e del diaframma;  
+4) elementi di terapia medica delle cardio-angiopatie;  
+5) elementi di fisioterapia respiratoria;  
+6) diagnostica radiologica nelle malattie chirurgiche del torace.  
+4° Anno:  
+1) patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (biennale II);  
+2) tecnica operatoria per le affezioni della parete toracica, dell'apparato respiratorio, dell'esofago, del mediastino e del diaframma (biennale I);  
+3) tecnica operatoria delle affezioni del cuore, pericardio e grossi vasi endotoracici;  
+4) principi e tecniche della circolazione extracorporea.  
+5° Anno:  
+1) terapia intensiva e rianimazione in chirurgia toracica;  
+2) tecnica operatoria per le affezioni della parete toracica, dell'apparato respiratorio, dell'esofago, del mediastino e del diaframma (biennale II);  
+3) terapia chirurgica della tbc pleuropolmonare.  
+Art. 158. - Il corso si compone di lezioni, di esercitazioni pratiche, di periodi di internato, di conferenze riguardanti argomenti specialistici, di turni in corsia ed in sala operatoria.  
+La frequenza ai corsi, agli internati, in corsia e in sala operatoria, alle esercitazioni e' obbligatoria. In caso contrario i candidati non potranno ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.  
+Alla fine di ciascun anno di corso gli specializzandi che abbiano ottenuto la firma di frequenza dovranno sostenere un esame di profitto sulle materie di insegnamento il cui superamento e' condizione necessaria ed indispensabile per ottenere la iscrizione all'anno successivo, e, per quelli che sono stati iscritti al quinto anno, per l'ammissione all'esame di diploma. Durante il corso gli specializzandi frequenteranno la sala operatoria in maniera assidua, dovranno assistere a numerosi interventi di chirurgia toracica ed essere in grado di eseguirne essi stessi.  
+Per tutti gli specializzandi che hanno superato gli esami dei cinque anni, alla fine del quinto anno di corso ha luogo l'esame di diploma, consistente nella presentazione e discussione di una dissertazione scritta su un argomento di chirurgia toracica concordato con la direzione della scuola.  
+Art. 159. - Le tasse, soprattasse e contributi sono fissati nel modo seguente:
+
+|  |  |
+| --- | --- |
+| 1° anno | Anni successivi |
+
   
   
-----------   
-(a) Mutuato da prima lingua straniera con esercitazioni pratiche - 1 (annuale).   
-(b) Mutuato da prima lingua straniera con esercitazioni pratiche - 2 (annuale)   
-(c) Mutuato da letteratura della prima lingua straniera - 1 (annuale).   
-(c) Mutuato dalla letteratura della prima lingua straniera - 1 (annuale).   
-(d) Mutuato dalla letteratura della prima lingia straniera - 2 (annuale).   
+Dopo l'art. 171, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in urologa.  
   
+Scuola di specializzazione in urologia  
+  
+Art. 172. - La scuola di specializzazione in urologia ha sede presso la cattedra di clinica urologica dell'Universita' di Trieste e conferisce il diploma di specialista in urologia.  
+  
+Art. 173. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine  
+  
+Art. 174. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Art. 175. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.  
+Art. 176. - Il numero degli allievi e' di quattro per anno di corso e complessivamente di venti iscritti per l'intero corso di studi.  
+Art. 177. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 178. - Le materie di insegnamento e gli esami sono i seguenti: 
+
+|  |  |
+| --- | --- |
+| Insegnamenti | Esami |
+| 1° Anno: |  |
+| 1) anatomia sistematica e topografica dell'apparato urinario e genitale maschile | 1) anatomia sistematica e topografica dell'apparato urinario e genitale maschile |
+| 2) fisiologia dell'apparato urinario e genitale maschile | 2) fisiologia dell'apparato urinario e genitale maschile |
+| 3) batteriologia in urologia | 3) batteriologia in urologia |
+| 4) semeiotica funzionale e strumentale dell'apparato uro-genitale I |  |
+| 2° Anno: |  |
+| 1) semeiotica funzionale e strumentale dell'apparato uro-genitale II | 1) semeiotica funzionale e strumentale dell'apparato uro-genitale |
+| 2) le nefropatie mediche | 2) le nefropatie mediche |
+| 3) anatomia chirurgica dell'apparato urinario e genitale maschile | 3) anatomia chirurgica dell'apparato urinario e genitale maschile |
+| 4) patologia dell'apparato urinario e genitale maschile I |  |
+| 5) radiologia dell'apparato urinario e genitale maschile I |  |
+| 3° Anno: |  |
+| 1) patologia dell'apparato urinario e genitale maschile II | 1) patologia dell'apparato urinario e genitale maschile |
+| 2) radiologia dell'apparato urinario e genitale maschile II | 2) radiologia dell'apparato urinario e genitale maschile |
+| 3) le affezioni cutanee e veneree nei riguardi dell'urologia | 3) le affezioni cutanee e veneree nei riguardi dell'urologia |
+| 4) andrologia | 4) andrologia |
+| 4° Anno: |  |
+| 1) anatomia e istologia patologica dell'apparato urinario e genitale | 1) anatomia e istologia patologica dell'apparato urinario e genitale |
+| 2) farmacoterapia delle affezioni uro-genitali | 2) farmacoterapia delle affezioni uro-genitali |
+| 3) anestesia e trattamento pre e post-operatorio del malato urologico | 3) anestesia e trattamento pre e post-operatorio del malato urologico |
+| 4) nefrologia chirurgica | 4) nefrologia chirurgica |
+| 5) clinica urologica I |  |
+| 6) procedimenti di chirurgia endoscopica I |  |
+| 7) interventi e procedimenti operatori sull'apparato urinario e genitale maschile I |  |
+| 5° Anno: |  |
+| 1) clinica urologica II | 1) clinica urologica |
+| 2) patologia e clinica urologica infantile | 2) patologia e clinica urologica infantile |
+| 3) urologia ginecologica | 3) urologia ginecologica |
+| 4) procedimenti di chirurgia endoscopica II | 4) interventi e procedimenti operatori sull'apparato urinario e genitale maschile |
+| 5) la chirurgia dell'intestino |  |
+| 6) la chirurgia vascolare |  |
+
+  
+  
+Art. 179. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Art. 180. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno, ad eccezione delle discipline svolte in corsi pluriennali il cui esame sara' sostenuto alla fine dei corsi medesimi.  
+Art. 181. - Al termine del corso di studi per il conseguimento del diploma di specialista in urologia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+Art. 182. - Le tasse, soprattasse e contributi sono stabiliti nel modo seguente:
+
+|  |  |
+| --- | --- |
+| 1° anno | Anni successivi |
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 luglio 1979
+### Dato a Roma, addi' 22 maggio 1978
 
-PERTINI SPADOLINI
+LEONE PEDINI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 30 agosto 1979
+Registrato alla Corte dei conti, addi' 4 ottobre 1978
 
-Registro n. 67 Istruzione, foglio n. 190
-
-(1) Mutuato da prima lingua straniera con esercitazioni pratiche - 1 (annuale).  
-(2) Mutuato da prima lingua straniera con esercitazioni pratiche - 2 (annuale).  
-(3) Mutuato da letteratura della prima lingua straniera - 1 (annuale).  
-(4) Mutuato da prima lingua straniera con esercitazioni pratiche - 2 (annuale).  
-(5) Mutuato da letteratura della prima lingua straniera - 1 (annuale).  
-(6) (d) Mutuato dalla letteratura della prima lingua straniera 2 (annuale).
+Registro n. 107 Istruzione, foglio n. 175

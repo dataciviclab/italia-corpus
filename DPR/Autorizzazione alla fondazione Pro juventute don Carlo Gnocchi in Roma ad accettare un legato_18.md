@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 559
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1977 n. 76
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 559
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1977 n. 76
+==============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-559. Decreto del Presidente della Repubblica 16 luglio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 2.000.000, disposto dal sig. Gallotti Attilio con testamento olografo 3 aprile 1977, pubblicato a rogito dott. Marco Serpi, notaio in Milano, il 9 febbraio 1978, n. 135245 di repertorio e n. 215113 di raccolta, registrato a Milano il 24 febbraio 1978 al n. 03523-71.  
+76. Decreto del Presidente della Repubblica 5 febbraio 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Cerutti Maria in favore dell'Ente mutilatini di don Gnocchi che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", con testamento pubblico in data 17 maggio 1968, pubblicato a rogito del notaio dottor Mario Barberi in data 11 giugno 1973, n. 221162 di repertorio, registrato a Novara il 14 giugno 1973, con il n. 3297, vol. 381, consistente nella somma di L. 5.000.000.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 11 ottobre 1985  
-Registro n. 9 Presidenza, foglio n. 68
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 14 marzo 1977  
+Registro n. 3 Presidenza, foglio n. 66

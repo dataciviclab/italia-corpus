@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1974 n. 672
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 agosto 1959 n. 778
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1974 n. 672
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 agosto 1959 n. 778
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
@@ -10,13 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Catania.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527) e successivi;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -30,236 +32,115 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli 196 e 197, relativi alla scuola di specializzazione in radiologia, sono abrogati e sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi:
+Art. 19. - Agli insegnamenti complementari del corso di laurea in economia e commercio e' aggiunto quello di: "economia montana e forestale".
 
-Scuola di specializzazione in radiologia
+Art. 48. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: "medicina del lavoro".
 
-Art. 196. - La scuola rilascia i seguenti diplomi di specializzazione: in radiologia e in radiologia diagnostica.
+Art. 50. - Dopo il n. 5, e' aggiunto quanto appresso:
 
-La scuola e' riservata ai laureati in medicina e chirurgia, che possono essere accolti in numero massimo di quattro per ciascun anno di corso per radiologia e radiologia diagnostica.
+n. 6: laurea in scienze geologiche.
 
-Art. 197. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia e' di quattro anni.
+Art. 51. - Dopo il terzo comma e' aggiunto il seguente nuovo comma: "L'esame di laurea in scienze geologiche e' preceduto da una prova di cultura sui concetti fondamentali delle discipline di carattere geologico, da una prova pratica di riconoscimento di minerali, rocce e fossili e dalla presentazione di un rilevamento geologico originale".
 
-Gli insegnamenti sono i seguenti:
+Dopo l'art. 67, sono aggiunti i seguenti nuovi articoli relativi all'istituzione dei corso di laurea in scienze geologiche, con il conseguente spostamento della numerazione degli articoli successivi:
 
-a) Matematica, fisica, nozioni di statistica e informatica (annuale), comprendente:
+Laurea in scienze geologiche
 
-1) richiami di matematica e fisica generale;
+Art. 62. - La durata del corso degli studi per la laurea in scienze geologiche e' di quattro anni.
 
-2) costituzione della materia;
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.
 
-3) produzione, assorbimento e misura delle radiazioni;
+Sono insegnamenti fondamentali:
 
-4) statistica applicata alla medicina;
+1) istituzioni di matematiche;
 
-5) informatica e cibernetica applicata alla radiologia;
+2) fisica sperimentale;
 
-b) Radiodiagnostica (triennale) comprendente:
+3) chimica generale ed inorganica con elementi di organica;
 
-1) principi generali di radiodiagnostica;
+4) mineralogia;
 
-2) apparecchi, strumenti e tecnica di radiodiagnostica;
+5) geologia;
 
-3) tecnica e fisiologia applicate alla radiodiagnostica;
+6) geologia applicata;
 
-4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;
+7) paleontologia;
 
-5) semeiotica radiologica;
+8) geografia;
 
-6) diagnostica differenziale radiologica;
+9) geografia fisica;
 
-7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;
+10) topografia e cartografia;
 
-8) dimostrazioni di casistica clinica;
+11) fisica terrestre;
 
-c) Radiobiologia (annuale) comprendente:
+12) petrografia.
 
-1) radiobiologia generale;
+Sono insegnamenti complementari:
 
-2) danni di radiazioni e radiopatie;
+1) giacimenti minerari;
 
-d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
+2) geotecnica;
 
-1) legislazione sanitaria applicata alla radiologia;
+3) micropaleontologia;
 
-2) compiti e responsabilita' medico-legali del radiologo;
+4) sedimentologia;
 
-3) radioprotezione fisica e dosimetria ad essa connessa;
+5) vulcanologia;
 
-4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;
+6) geochimica;
 
-5) radioprotezione chimica;
+7) chimica fisica;
 
-6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici;
+8) chimica organica;
 
-e) Radioterapia e terapia fisica (triennale) comprendente:
+9) geodesia;
 
-1) radiobiologia applicata;
+10) zoologia;
 
-2) fondamenti generali di radioterapia e terapia fisica;
+11) botanica;
 
-3) istopatologia speciale dei tumori;
+12) statistica;
 
-4) nozioni sugli apparecchi e strumenti per la radioterapia;
+13) paleontologia dei vertebrati;
 
-5) tecnica e metodica e radioterapia;
+14) meccanica razionale con elementi di disegno;
 
-6) dosimetria;
+15) arte mineraria;
 
-7) clinica radioterapica;
+16) fisica nucleare.
 
-8) fondamenti generali di chemioterapia oncologica;
+Art. 63. - L'esame di laurea in scienze geologiche consta della discussione di una dissertazione scritta, della discussione di due argomenti orali scelti dal candidato in materie diverse da quelle su cui verte la dissertazione scritta.
 
-9) chemioterapia clinica dei tumori e sua associazione alla radioterapia;
+Per essere ammesso all'esame di laurea lo studente deve aver superato tutti gli esami delle materie fondamentali e di almeno quattro complementari.
 
-10) dimostrazione di casistica clinica;
-
-f) Medicina nucleare (biennale) comprendente:
-
-1) elementi di medicina nucleare;
-
-2) istrumentario, tecnica e metodica dell'impiego di radioisotopi in medicina nucleare;
-
-3) dosimetria dei radioisotopi somministrati per via interna;
-
-4) diagnostica con radioisotopi somministrati per via interna;
-
-5) radioterapia metabolica;
-
-6) dimostrazioni di casistica clinica.
-
-I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nel quattro anni di corso:
-
-1° Anno (tronco comune):
-
-Matematica, fisica, nozioni di statistica ed informatica;
-
-Radiobiologia;
-
-Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;
-
-Radiodiagnostica (I).
-
-2° Anno:
-
-Radiodiagnostica (II);
-
-Radioterapia e terapia fisica (I).
-
-3° Anno:
-
-Radiodiagnostica (III);
-
-Radioterapia e terapia fisica (II);
-
-Medicina nucleare (I).
-
-4° Anno:
-
-Radioterapia e terapia fisica (III);
-
-Medicina nucleare (II).
-
-Art. 198. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.
-
-Gli insegnamenti sono i seguenti:
-
-a) Matematica, fisica, nozioni di statistica e di informatica (annuale) comprendente:
-
-1) richiami di matematica e fisica generale;
-
-2) costituzione della materia;
-
-3) produzione, assorbimento e misura delle radiazioni;
-
-4) statistica applicata alla medicina;
-
-5) informatica e cibernetica applicate alla radiologia;
-
-b) Radiodiagnostica (triennale) comprendente:
-
-1) principi generali di radiodiagnostica;
-
-2) apparecchi, strumenti e tecnica radiodiagnostica;
-
-3) tecnica e fisiologia applicate alla radiodiagnostica;
-
-4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;
-
-5) semeiotica radiologica;
-
-6) diagnostica differenziale radiologica;
-
-7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;
-
-8) dimostrazioni di casistica clinica;
-
-c) Radiobiologia (annuale) comprendente:
-
-1) radiobiologia generale;
-
-2) danni di radiazioni e radiopatie;
-
-d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
-
-1) legislazione sanitaria applicata alla radiologia;
-
-2) compiti e responsabilita' medico-legali del radiologo;
-
-3) radioprotezione fisica e dosimetria ad essa connessa;
-
-4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;
-
-5) radioprotezione chimica;
-
-6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.
-
-I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:
-
-1° Anno (tronco comune):
-
-Matematica, fisica, nozioni di statistica ed informatica;
-
-Radiobiologia;
-
-Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;
-
-Radiodiagnostica (I).
-
-2° Anno:
-
-Radiodiagnostica (II).
-
-3° Anno:
-
-Radiodiagnostica (III).
-
-Art. 199. - Per essere ammessi agli esami di diploma in radiologia e in radiologia diagnostica, gli iscritti, oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia di insegnamento ed elaborata una tesi scritta su di un argomento radiologico concordato con il direttore della scuola.
+Art. 68 (gia' 66). - Agli insegnamenti complementari del corso di laurea in farmacia e' aggiunto quello di chimica farmaceutica applicata.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 29 ottobre 1974
+Dato a Napoli, addi' 20 agosto 1959
 
-LEONE
+GRONCHI
 
-MALFATTI
+MEDICI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 7 dicembre 1974 Atti di Governo, registro n. 7, foglio n. 69. - SCIARRETTA
+alla Corte dei conti, addi' 28 settembre 1959 Atti del Governo, registro n. 120, foglio n. 163. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527) e successivi;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -268,131 +149,60 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 196 e 197, relativi alla scuola di specializzazione in radiologia, sono abrogati e sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi:  
+Art. 19. - Agli insegnamenti complementari del corso di laurea in economia e commercio e' aggiunto quello di: "economia montana e forestale".  
+Art. 48. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: "medicina del lavoro".  
+Art. 50. - Dopo il n. 5, e' aggiunto quanto appresso:  
+n. 6: laurea in scienze geologiche.  
+Art. 51. - Dopo il terzo comma e' aggiunto il seguente nuovo comma: "L'esame di laurea in scienze geologiche e' preceduto da una prova di cultura sui concetti fondamentali delle discipline di carattere geologico, da una prova pratica di riconoscimento di minerali, rocce e fossili e dalla presentazione di un rilevamento geologico originale".  
+Dopo l'art. 67, sono aggiunti i seguenti nuovi articoli relativi all'istituzione dei corso di laurea in scienze geologiche, con il conseguente spostamento della numerazione degli articoli successivi:  
   
-Scuola di specializzazione in radiologia  
-  
-Art. 196. - La scuola rilascia i seguenti diplomi di specializzazione: in radiologia e in radiologia diagnostica.  
-La scuola e' riservata ai laureati in medicina e chirurgia, che possono essere accolti in numero massimo di quattro per ciascun anno di corso per radiologia e radiologia diagnostica.  
-Art. 197. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia e' di quattro anni.  
-Gli insegnamenti sono i seguenti:  
-a) Matematica, fisica, nozioni di statistica e informatica (annuale), comprendente:  
-1) richiami di matematica e fisica generale;  
-2) costituzione della materia;  
-3) produzione, assorbimento e misura delle radiazioni;  
-4) statistica applicata alla medicina;  
-5) informatica e cibernetica applicata alla radiologia;  
-b) Radiodiagnostica (triennale) comprendente:  
-1) principi generali di radiodiagnostica;  
-2) apparecchi, strumenti e tecnica di radiodiagnostica;  
-3) tecnica e fisiologia applicate alla radiodiagnostica;  
-4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;  
-5) semeiotica radiologica;  
-6) diagnostica differenziale radiologica;  
-7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;  
-8) dimostrazioni di casistica clinica;  
-c) Radiobiologia (annuale) comprendente:  
-1) radiobiologia generale;  
-2) danni di radiazioni e radiopatie;  
-d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:  
-1) legislazione sanitaria applicata alla radiologia;  
-2) compiti e responsabilita' medico-legali del radiologo;  
-3) radioprotezione fisica e dosimetria ad essa connessa;  
-4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;  
-5) radioprotezione chimica;  
-6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici;  
-e) Radioterapia e terapia fisica (triennale) comprendente:  
-1) radiobiologia applicata;  
-2) fondamenti generali di radioterapia e terapia fisica;  
-3) istopatologia speciale dei tumori;  
-4) nozioni sugli apparecchi e strumenti per la radioterapia;  
-5) tecnica e metodica e radioterapia;  
-6) dosimetria;  
-7) clinica radioterapica;  
-8) fondamenti generali di chemioterapia oncologica;  
-9) chemioterapia clinica dei tumori e sua associazione alla radioterapia;  
-10) dimostrazione di casistica clinica;  
-f) Medicina nucleare (biennale) comprendente:  
-1) elementi di medicina nucleare;  
-2) istrumentario, tecnica e metodica dell'impiego di radioisotopi in medicina nucleare;  
-3) dosimetria dei radioisotopi somministrati per via interna;  
-4) diagnostica con radioisotopi somministrati per via interna;  
-5) radioterapia metabolica;  
-6) dimostrazioni di casistica clinica.  
-I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nel quattro anni di corso:  
-  
-1° Anno (tronco comune):  
-Matematica, fisica, nozioni di statistica ed informatica;  
-Radiobiologia;  
-Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;  
-Radiodiagnostica (I).  
-  
-2° Anno:  
-Radiodiagnostica (II);  
-Radioterapia e terapia fisica (I).  
-  
-3° Anno:  
-Radiodiagnostica (III);  
-Radioterapia e terapia fisica (II);  
-Medicina nucleare (I).  
-  
-4° Anno:  
-Radioterapia e terapia fisica (III);  
-Medicina nucleare (II).  
-  
-Art. 198. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.  
-Gli insegnamenti sono i seguenti:  
-a) Matematica, fisica, nozioni di statistica e di informatica (annuale) comprendente:  
-1) richiami di matematica e fisica generale;  
-2) costituzione della materia;  
-3) produzione, assorbimento e misura delle radiazioni;  
-4) statistica applicata alla medicina;  
-5) informatica e cibernetica applicate alla radiologia;  
-b) Radiodiagnostica (triennale) comprendente:  
-1) principi generali di radiodiagnostica;  
-2) apparecchi, strumenti e tecnica radiodiagnostica;  
-3) tecnica e fisiologia applicate alla radiodiagnostica;  
-4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;  
-5) semeiotica radiologica;  
-6) diagnostica differenziale radiologica;  
-7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;  
-8) dimostrazioni di casistica clinica;  
-c) Radiobiologia (annuale) comprendente:  
-1) radiobiologia generale;  
-2) danni di radiazioni e radiopatie;  
-d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:  
-1) legislazione sanitaria applicata alla radiologia;  
-2) compiti e responsabilita' medico-legali del radiologo;  
-3) radioprotezione fisica e dosimetria ad essa connessa;  
-4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;  
-5) radioprotezione chimica;  
-6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.  
-I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:  
-  
-1° Anno (tronco comune):  
-Matematica, fisica, nozioni di statistica ed informatica;  
-Radiobiologia;  
-Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;  
-Radiodiagnostica (I).  
-  
-2° Anno:  
-Radiodiagnostica (II).  
-  
-3° Anno:  
-Radiodiagnostica (III).  
-  
-Art. 199. - Per essere ammessi agli esami di diploma in radiologia e in radiologia diagnostica, gli iscritti, oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia di insegnamento ed elaborata una tesi scritta su di un argomento radiologico concordato con il direttore della scuola.  
+Laurea in scienze geologiche  
+Art. 62. - La durata del corso degli studi per la laurea in scienze geologiche e' di quattro anni.  
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.  
+Sono insegnamenti fondamentali:  
+1) istituzioni di matematiche;  
+2) fisica sperimentale;  
+3) chimica generale ed inorganica con elementi di organica;  
+4) mineralogia;  
+5) geologia;  
+6) geologia applicata;  
+7) paleontologia;  
+8) geografia;  
+9) geografia fisica;  
+10) topografia e cartografia;  
+11) fisica terrestre;  
+12) petrografia.  
+Sono insegnamenti complementari:  
+1) giacimenti minerari;  
+2) geotecnica;  
+3) micropaleontologia;  
+4) sedimentologia;  
+5) vulcanologia;  
+6) geochimica;  
+7) chimica fisica;  
+8) chimica organica;  
+9) geodesia;  
+10) zoologia;  
+11) botanica;  
+12) statistica;  
+13) paleontologia dei vertebrati;  
+14) meccanica razionale con elementi di disegno;  
+15) arte mineraria;  
+16) fisica nucleare.  
+Art. 63. - L'esame di laurea in scienze geologiche consta della discussione di una dissertazione scritta, della discussione di due argomenti orali scelti dal candidato in materie diverse da quelle su cui verte la dissertazione scritta.  
+Per essere ammesso all'esame di laurea lo studente deve aver superato tutti gli esami delle materie fondamentali e di almeno quattro complementari.  
+Art. 68 (gia' 66). - Agli insegnamenti complementari del corso di laurea in farmacia e' aggiunto quello di chimica farmaceutica applicata.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 ottobre 1974
+### Dato a Napoli, addi' 20 agosto 1959
 
-LEONE MALFATTI
+GRONCHI MEDICI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 7 dicembre 1974
+Registrato alla Corte dei conti, addi' 28 settembre 1959
 
-Atti di Governo, registro n. 7, foglio n. 69. - SCIARRETTA
+Atti del Governo, registro n. 120, foglio n. 163. - VILLA

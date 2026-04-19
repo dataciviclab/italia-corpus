@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 novembre 1975 n. 853
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1976 n. 565
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 novembre 1975 n. 853
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1976 n. 565
+=============================================================
 
 Recupero e nuova assegnazione di un posto di assistente ordinario.
 ------------------------------------------------------------------
@@ -10,13 +10,13 @@ Recupero e nuova assegnazione di un posto di assistente ordinario.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Visto il [decreto del Presidente della Repubblica 10 febbraio 1971, n. 100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-02-10;100), con il quale fu assegnato un posto di assistente ordinario alla cattedra di storia della letteratura per l'infanzia della facolta' di magistero dell'Universita' degli studi di Bari;
+Visto il [decreto del Presidente della Repubblica 21 agosto 1971, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-08-21;910), con il quale, tra gli altri, e' stato assegnato un posto di assistente ordinario alla cattedra di storia economica della facolta' di economia e commercio dell'Universita' di Roma;
 
-Vista la rettorale n. 8274 del 3 luglio 1975 con la quale si comunica che il posto in questione e' rimasto inutilizzato fin dalla data della sua assegnazione;
+Visto il telegramma del 30 marzo 1976 con cui il rettore dell'Universita' di Roma comunica che il posto suddetto e' vacante fin dall'assegnazione;
 
 Considerato, pertanto, che non si e' provveduto alla copertura del posto nei termini fissati dall'ultimo comma dell'[art. 13 della legge 18 marzo 1958, n. 349](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-18;349~art13);
 
-Ritenuto che per tale ragione siano venuti meno i motivi che a suo tempo determinarono l'assegnazione del posto alla cattedra sopra citata;
+Ritenuto che per tale ragione sono venuti meno i motivi che a suo tempo determinarono l'assegnazione del posto alla cattedra sopracitata;
 
 Sulla
 -----
@@ -27,24 +27,24 @@ Art. 1
 ------
 
   
-Il posto di assistente ordinario gia' assegnato con il [decreto del Presidente della Repubblica 10 febbraio 1971, n. 100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-02-10;100), alla cattedra di storia della letteratura per l'infanzia della facolta' di magistero dell'Universita' degli studi di Bari e' recuperato.  
+Il posto di assistente ordinario gia' assegnato con [decreto del Presidente della Repubblica n. 910 del 21 agosto 1971](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-08-21;910) alla cattedra di storia economica della facolta' di economia e commercio dell'Universita' di Roma e' recuperato.  
 
 Art. 2
 ------
 
   
-Il posto di assistente ordinario di cui al precedente articolo e' assegnato alla cattedra di chimica analitica clinica della facolta' di scienze matematiche, fisiche e naturali dell'Universita' degli studi di Roma.  
+Il posto di cui sopra e' assegnato all'insegnamento di istituzioni di diritto e procedura penale della facolta' di scienze politiche dell'Universita' di Genova.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 novembre 1975
+### Dato a Roma, addi' 18 maggio 1976
 
 LEONE MALFATTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 10 febbraio 1976
+Registrato alla Corte dei conti, addi' 18 agosto 1976
 
-Atti di Governo, registro n. 2, foglio n. 46
+Atti di Governo, registro n. 8, foglio n. 68

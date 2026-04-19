@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 febbraio 1965 n. 243
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 dicembre 1965 n. 1549
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 febbraio 1965 n. 243
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 dicembre 1965 n. 1549
+================================================================
 
 Autorizzazione alla "Fondazione Pro Juventute Don Carlo Gnocchi", con sede in Roma, ad accettare un legato.
 -----------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-243. Decreto del Presidente della Repubblica 15 febbraio 1965, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare un legato, disposto dalla defunta signora Pavesi Zelmira Carolina vedova Sironi, con testamento olografo del 1 febbraio 1961, consistente in "cio' che risultera' depositato sui libretti di risparmio nominativi e al portatore depositati in cassette di sicurezza" a nome della testatrice, che risulta costituito da cinque libretti bancari per un importo complessivo di L. 5.080.192.  
+1549. Decreto del Presidente della Repubblica 6 dicembre 1965, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare un legato di L. 500.000 (cinquecentomila) disposto dalla defunta signorina Rosa Ortensia - con testamento pubblico per atto a rogito dott. Nando Viale, notaio in Monza, in data 11 agosto 1962, n. 54 del repertorio degli atti di ultima volonta', registrato come da atto a rogito dello stesso notaio, in data 5 ottobre 1962, rep. gen. n. 27210, raccolta n. 1834 a favore dell'Opera dei mutilati di Don Gnocchi, che si identifica con la Fondazione Pro Juventute suindicata.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 8 aprile 1965  
-Atti del Governo, registro n. 192, foglio n. 23. - VILLA
+Registrato alla Corte dei conti, addi' 21 gennaio 1966  
+Atti del Governo, registro n. 200, foglio, n. 24. - VILLA

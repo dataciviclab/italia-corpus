@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1980 n. 667
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1985 n. 821
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1980 n. 667
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1985 n. 821
+==============================================================
 
 Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-667. Decreto del Presidente della Repubblica 13 maggio 1980, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita', del valore di L. 11.000.000 circa, disposta dal sig. Giuseppe Leonardini con testamento olografo 21 aprile 1961, pubblicato in data 13 dicembre 1969, n. 30442 di repertorio, a rogito dott. Giuseppe Bigliardi, notaio in La Spezia.  
+821. Decreto del Presidente della Repubblica 1 ottobre 1985, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare, con riserva dei diritti dei terzi, l'eredita', consistente nella quota parte di un sesto dell'asse ereditario e precisamente in beni mobili per L. 39.927.310 e in beni immobili siti in Sansepolcro (Arezzo), via Donato Sbragi, del periziato valore di L. 90.000.000 come da nota dell'ufficio tecnico erariale di Arezzo in data 22 ottobre 1979, disposta dal sig. Augusto Massa con testamento olografo 2 novembre 1954 e successivi atti aggiuntivi, pubblicato in data 10 novembre 1962, n. 3349/1478 di repertorio, a rogito dott. Fulvio Fiori, notaio in Sansepolcro, registrato a Sansepolcro in data 22 novembre 1962 al n. 418.   
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 16 ottobre 1980  
-Registro n. 6 Sanita', foglio n. 57
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 7 gennaio 1986   
+Registro n. 1 Sanita', foglio n. 3

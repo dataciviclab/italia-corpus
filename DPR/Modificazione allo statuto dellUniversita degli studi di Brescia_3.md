@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 195
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 febbraio 1985 n. 50
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 195
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 febbraio 1985 n. 50
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Brescia.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Brescia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Brescia, approvato con [decreto del Presidente della Repubblica del 27 ottobre 1983, n. 844](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1983-10-27;844), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Brescia, approvato con [decreto del Presidente della Repubblica 27 ottobre 1983, n. 844](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1983-10-27;844), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -21,6 +21,8 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -39,21 +41,26 @@ Articolo unico
 --------------
 
   
-Art. 29 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti insegnamenti: tossicologia;  
-chemioterapia;  
-neuropsicofarmacologia;  
-chirurgia della mano.  
+Art. 29 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti insegnamenti: medicina del lavoro;  
+malattie infettive;  
+cardiologia pediatrica;  
+genetica umana;  
+genetica medica;  
+chirurgia pediatrica;  
+fisiopatologia della riproduzione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 marzo 1984
+### Dato a Roma, addi' 6 febbraio 1985
 
-PERTINI FALCUCCI
+PERTINI
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 23 maggio 1984
+Registrato alla Corte dei conti, addi' 28 febbraio 1985
 
-Registro n. 30 Istruzione, foglio n. 81
+Registro n. 12 Istruzione, foglio n. 340

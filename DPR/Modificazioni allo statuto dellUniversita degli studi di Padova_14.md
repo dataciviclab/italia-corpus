@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1972 n. 680
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1957 n. 317
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1972 n. 680
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1957 n. 317
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939 n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847) e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,261 +20,78 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposte del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 45, relativo alle norme del corso di laurea in scienze politiche e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente:
+Art. 15. - Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di:
 
-"Le lingua straniere insegnate dalla facolta' sono: il francese, l'inglese, lo spagnolo, il russo e il tedesco.
+18) Organizzazione internazionale.
 
-Altri insegnamenti di lingue potranno essere attivati su proposta del consiglio di facolta'".
+Art. 44. - Agli insegnamenti complementari del corso di laurea in lettere, sono aggiunti quelli di:
 
-Art. 49, relativo all'elenco degli istituti annessi alla facolta' di scienze politiche e' modificato nel senso che al punto n. 5) l'istituto di studi anglo-americani e' trasformato in "Istituto di studi internazionali".
+44) Paleografia greca;
 
-Art. 69, all'elenco degli insegnamenti complementari del corso di laurea in lettere e' aggiunto il seguente:
-
-Codicologia.
-
-Art. 72, all'elenco degli insegnamenti complementari del corso di laurea in filosofia e' aggiunto il seguente:
-
-Storia della filosofia araba medioevale.
-
-Art. 86, all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:
-
-Geografia regionale;
-
-Storia delle arti applicate;
-
-Storia dell'arte veneta.
-
-Art. 87, all'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:
-
-Storia delle arti applicate;
-
-Storia dalla storiografia filosofica;
-
-Storia della filosofia medioevale araba;
-
-Storia della filosofia medioevale ebraica;
-
-Filosofia della scienza;
-
-Educazione degli adulti;
-
-Pedagogia speciale.
-
-Art. 98, all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di:
-
-Neurofisiopatologia;
-
-Puericultura prenatale.
-
-Art. 130, relativo all'elenco degli istituti della facolta' di scienze matematiche, fisiche e naturali e' modificato nel senso che l'istituto di chimica fisica, di chimica teorica e di elettrochimica muta denominazione in quella di "Istituto di chimica fisica e di chimica fisica inorganica, organica ed industriale".
-
-Gli articoli 241 e 242 relativi alle scuole di specializzazione per "Archivisti" e per "Bibliotecari" sono abrogati e sostituiti dai seguenti:
-
-Scuola di specializzazione per archivisti
-
-Art. 241. - Titolo di ammissione alla scuola e' una qualsiasi laurea conseguita presso una universita' o istituto superiore universitario.
-
-Sono materie fondamentali:
-
-Archivistica;
-
-Diplomatica;
-
-Paleografia;
-
-Storia delle Venezie.
-
-Sono materie complementari:
-
-Bibliografia;
-
-Biblioteconomia;
-
-Dialetti veneti;
-
-Latino medioevale;
-
-Storia del diritto italiano;
-
-Storia economica,
-
-nonche' tutte le altre discipline che il consiglio della scuola si riserva di indicare tenendo conto della preparazione degli iscritti e dello scopo della specializzazione.
-
-Gli iscritti debbono frequentare i corsi e superare gli esami delle quattro materie fondamentali e di quelle materie complementari la cui scelta sara' concordata col professore della materia della dissertazione per il diploma ed approvata dal direttore della scuola.
-
-Nel secondo anno gli iscritti debbono compiere un tirocinio presso un archivio designato dal direttore della scuola, con esercitazioni dirette dal professore di archivistica; alla fine devono superare una prova pratica di ricerca archivistica. In questa prova i candidati dovranno dimostrare di conoscere la lingua francese e la lingua tedesca o inglese.
-
-Per conseguire il diploma di archivistica, gli aspiranti debbono, dopo aver assolto gli obblighi determinati dai precedenti commi, presentare e discutere una dissertazione scritta sopra una delle materie costitutive della specializzazione, scelta di concerto con il direttore della scuola, preferibilmente tra le materie fondamentali".
-
-Art. 242. - L'ordinamento della scuola di specializzazione per bibliotecari viene sostituito dal seguente:
-
-Scuola di specializzazione per bibliotecari
-
-Titolo di ammissione alla scuola e' una qualsiasi laurea conseguita presso una universita' o istituto superiore universitario.
-
-La scuola puo' articolarsi in due indirizzi: letterario o scientifico.
-
-L'ammissione all'uno o all'altro degli indirizzi e' demandata al consiglio della scuola, tenuto conto del diploma di laurea in possesso dell'aspirante.
-
-Sono materie fondamentali:
-
-Bibliografia;
-
-Biblioteconomia;
-
-Paleografia;
-
-Storia delle Venezie.
-
-Sono materie complementari:
-
-Archivistica;
-
-Aspetti artistici del libro;
-
-Dialetti veneti;
-
-Diplomatica;
-
-Latino medioevale;
-
-Filologia medioevale e umanistica,
-
-nonche' tutte le altre discipline che il consiglio della scuola si riserva di indicare tenendo conto della preparazione degli iscritti e dell'indirizzo letterario o scientifico.
-
-Gli iscritti debbono frequentare i corsi e superare gli esami delle quattro materie fondamentali e di quelle materie complementari la cui scelta sara' concordata col professore della materia della dissertazione per il diploma e approvata dal direttore della scuola.
-
-Nel secondo anno della scuola gli iscritti debbono compiere un tirocinio in una biblioteca designata dal direttore della scuola, con esercitazioni dirette dal professore di biblioteconomia e alla fine superare una prova pratica di ricerca bibliografica. In queste prove i candidati dovranno dimostrare di conoscere la lingua francese e di saper usare repertori inglesi e tedeschi; potranno anche dare saggio di catalogazione di opere scritte in una lingua slava od orientale.
-
-Per conseguire il diploma di bibliotecario, gli aspiranti debbono, dopo aver assolto gli obblighi determinati dal precedente comma, presentare e discutere una dissertazione sopra una delle materie della specializzazione, scelte di concerto con il direttore della scuola, preferibilmente tra le materie fondamentali.
+45) Etruscologia ed antichita' italiche.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 1 agosto 1972
+Dato a Roma, addi' 2 aprile 1957
 
-LEONE
+GRONCHI
 
-SCALFARO
+ROSSI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MORO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 13 novembre 1972 Atti del Governo, registro n. 253, foglio n. 31. - CARUSO
+alla Corte dei conti, addi' 17 maggio 1957 Atti del Governo, registro n. 105, foglio n. 119. - CARLOMAGNO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposte del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939 n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 45, relativo alle norme del corso di laurea in scienze politiche e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente:   
-"Le lingua straniere insegnate dalla facolta' sono: il francese, l'inglese, lo spagnolo, il russo e il tedesco.   
-Altri insegnamenti di lingue potranno essere attivati su proposta del consiglio di facolta'".   
-Art. 49, relativo all'elenco degli istituti annessi alla facolta' di scienze politiche e' modificato nel senso che al punto n. 5) l'istituto di studi anglo-americani e' trasformato in "Istituto di studi internazionali".   
-Art. 69, all'elenco degli insegnamenti complementari del corso di laurea in lettere e' aggiunto il seguente:   
-Codicologia.   
-Art. 72, all'elenco degli insegnamenti complementari del corso di laurea in filosofia e' aggiunto il seguente:   
-  
-Storia della filosofia araba medioevale.   
-  
-Art. 86, all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:   
-Geografia regionale;   
-Storia delle arti applicate;   
-Storia dell'arte veneta.   
-Art. 87, all'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:   
-Storia delle arti applicate;   
-Storia dalla storiografia filosofica;   
-Storia della filosofia medioevale araba;   
-Storia della filosofia medioevale ebraica;   
-Filosofia della scienza;   
-Educazione degli adulti;   
-Pedagogia speciale.   
-Art. 98, all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di:   
-Neurofisiopatologia;   
-Puericultura prenatale.   
-Art. 130, relativo all'elenco degli istituti della facolta' di scienze matematiche, fisiche e naturali e' modificato nel senso che l'istituto di chimica fisica, di chimica teorica e di elettrochimica muta denominazione in quella di "Istituto di chimica fisica e di chimica fisica inorganica, organica ed industriale".   
-Gli articoli 241 e 242 relativi alle scuole di specializzazione per "Archivisti" e per "Bibliotecari" sono abrogati e sostituiti dai seguenti:   
-  
-Scuola di specializzazione per archivisti   
-  
-Art. 241. - Titolo di ammissione alla scuola e' una qualsiasi laurea conseguita presso una universita' o istituto superiore universitario.   
-Sono materie fondamentali:   
-Archivistica;   
-Diplomatica;   
-Paleografia;   
-Storia delle Venezie.   
-Sono materie complementari:   
-Bibliografia;   
-Biblioteconomia;   
-Dialetti veneti;   
-Latino medioevale;   
-Storia del diritto italiano;   
-Storia economica,   
-nonche' tutte le altre discipline che il consiglio della scuola si riserva di indicare tenendo conto della preparazione degli iscritti e dello scopo della specializzazione.   
-Gli iscritti debbono frequentare i corsi e superare gli esami delle quattro materie fondamentali e di quelle materie complementari la cui scelta sara' concordata col professore della materia della dissertazione per il diploma ed approvata dal direttore della scuola.   
-Nel secondo anno gli iscritti debbono compiere un tirocinio presso un archivio designato dal direttore della scuola, con esercitazioni dirette dal professore di archivistica; alla fine devono superare una prova pratica di ricerca archivistica. In questa prova i candidati dovranno dimostrare di conoscere la lingua francese e la lingua tedesca o inglese.   
-Per conseguire il diploma di archivistica, gli aspiranti debbono, dopo aver assolto gli obblighi determinati dai precedenti commi, presentare e discutere una dissertazione scritta sopra una delle materie costitutive della specializzazione, scelta di concerto con il direttore della scuola, preferibilmente tra le materie fondamentali".   
-Art. 242. - L'ordinamento della scuola di specializzazione per bibliotecari viene sostituito dal seguente:   
-  
-Scuola di specializzazione per bibliotecari   
-  
-Titolo di ammissione alla scuola e' una qualsiasi laurea conseguita presso una universita' o istituto superiore universitario.   
-La scuola puo' articolarsi in due indirizzi: letterario o scientifico.   
-L'ammissione all'uno o all'altro degli indirizzi e' demandata al consiglio della scuola, tenuto conto del diploma di laurea in possesso dell'aspirante.   
-Sono materie fondamentali:   
-Bibliografia;   
-Biblioteconomia;   
-Paleografia;   
-Storia delle Venezie.   
-Sono materie complementari:   
-Archivistica;   
-Aspetti artistici del libro;   
-Dialetti veneti;   
-Diplomatica;   
-Latino medioevale;   
-Filologia medioevale e umanistica,   
-nonche' tutte le altre discipline che il consiglio della scuola si riserva di indicare tenendo conto della preparazione degli iscritti e dell'indirizzo letterario o scientifico.   
-Gli iscritti debbono frequentare i corsi e superare gli esami delle quattro materie fondamentali e di quelle materie complementari la cui scelta sara' concordata col professore della materia della dissertazione per il diploma e approvata dal direttore della scuola.   
-Nel secondo anno della scuola gli iscritti debbono compiere un tirocinio in una biblioteca designata dal direttore della scuola, con esercitazioni dirette dal professore di biblioteconomia e alla fine superare una prova pratica di ricerca bibliografica. In queste prove i candidati dovranno dimostrare di conoscere la lingua francese e di saper usare repertori inglesi e tedeschi; potranno anche dare saggio di catalogazione di opere scritte in una lingua slava od orientale.   
-Per conseguire il diploma di bibliotecario, gli aspiranti debbono, dopo aver assolto gli obblighi determinati dal precedente comma, presentare e discutere una dissertazione sopra una delle materie della specializzazione, scelte di concerto con il direttore della scuola, preferibilmente tra le materie fondamentali.   
+Art. 15. - Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di:  
+18) Organizzazione internazionale.  
+Art. 44. - Agli insegnamenti complementari del corso di laurea in lettere, sono aggiunti quelli di:  
+44) Paleografia greca;  
+45) Etruscologia ed antichita' italiche.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 agosto 1972
+### Dato a Roma, addi' 2 aprile 1957
 
-LEONE SCALFARO
+GRONCHI ROSSI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MORO
 
-Registrato alla Corte dei conti, addi' 13 novembre 1972
+Registrato alla Corte dei conti, addi' 17 maggio 1957
 
-Atti del Governo, registro n. 253, foglio n. 31. - CARUSO
+Atti del Governo, registro n. 105, foglio n. 119. - CARLOMAGNO

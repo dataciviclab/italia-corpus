@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1103
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1968 n. 1368
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1103
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1968 n. 1368
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Perugia approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,126 +20,172 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Perugia e convalidati dal Consiglio universitario nazionale nel suo parere;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 15. - L'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' modificato nel senso che l'insegnamento di "Geografia ed etnografia coloniale" muta denominazione in quello di Etnologia";
 
+Art. 43. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti quelli di:
+
+Microbiologia lattiero-casearia;
+
+Scienza dell'alimentazione del bestiame;
+
+Olivicoltura (semestrale);
+
+Virologia (semestrale);
+
+Cooperazione agricola (semestrale);
+
+Micologia (semestrale);
+
+Tecnica della sperimentazione in agricoltura (semestrale);
+
+Economia dei mercati agricoli (semestrali);
+
+Tecnologia delle conserve alimentari (semestrale);
+
+Elettrificazione agricola (semestrale).
+
+Nello stesso corso di laurea dopo il penultimo comma e' inserito il seguente:
+
+"Il corso di economia e politica agraria - pur restando biennale ed unito quanto all'insegnamento - comporta per quanto riguarda l'accertamento due esami distinti uno alla fine del 3° anno di corso (Economia agraria) ed uno alla fine del 4° anno di corso (Politica agraria)".
+
+Art. 44, relativo alle norme sulle propedeuticita' ed esami del corso di laurea in scienze agrarie e' modificato nel senso che viene aggiunto il seguente nuovo comma:
+
+"L'esame di chimica generale ed inorganica e quello di fisica debbono precedere quello di mineralogia e geologia".
+
+Art. 56. - All'elenco degli insegnamenti complementari del corso di laurea in medicina veterinaria sono aggiunti quelli di:
+
+Genetica animale;
+
+Semeiotica medica e metodologia clinica veterinaria;
+
+Fisiopatologia comparata;
+
+Anatomia topografica.
+
+Nello stesso articolo dopo l'elenco degli insegnamenti complementari il primo comma e' abrogato e sostituito dai seguenti:
+
+"Gli insegnamenti biennali di "Anatomia degli animali domestici con istologia ed embriologia" e di "Fisiologia generale e speciale degli animali domestici e chimica biologica" comportano ciascuno due esami distinti che lo studente dovra' sostenere rispettivamente dopo il primo e dopo il secondo anno di corso".
+
+Gli insegnamenti biennali di "Patologia generale ed anatomia patologica" e di "Patologia speciale e clinica medica" comportano ciascuno due esami distinti che lo studente dovra' sostenere rispettivamente dopo il terzo e dopo il quarto anno di corso".
+
+Dopo l'art. 123 e' aggiunto il seguente nuovo articolo relativo alla istituzione del corso di perfezionamento in patologia aviare annesso alla facolta' di medicina veterinaria.
+
+Corso di perfezionamento in patologia aviare
+
+Art. 124. - La durata del corso e' di un anno, le materie di insegnamento sono:
+
+Cenni di anatomia e fisiologia degli uccelli domestici;
+
+Igiene degli allevamenti avicoli e dell'alimentazione degli uccelli domestici;
+
+Malattie di origine nutritiva e carenziale;
+
+Malattie infettive;
+
+Malattie parassitarie;
+
+Avvelenamenti;
+
+Malattie ed eziologia indeterminata ed ereditaria;
+
+Anatomia ed istologia patologica.
+
+Le esercitazioni riguarderanno essenzialmente la anatomia e l'istologia patologica e la diagnosi di laboratorio delle malattie infettive parassitarie. Esse saranno integrate da sopraluoghi presso allevamenti avicoli a carattere rurale ed industriale.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 27 ottobre 1968
+
+SARAGAT
+
+SCAGLIA
+
+Visto, il Guardasigilli: GAVA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 22 gennaio 1969 Atti del Governo registro n. 224, foglio n. 165 - GRECO
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' degli studi di Perugia approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-L'art. 48, relativo alla facolta' di medicina e chirurgia, e' soppresso e sostituito dal seguente:   
+Decreta:  
   
-Art. 48. - La facolta' di medicina e chirurgia conferisce le lauree in medicina e chirurgia e in odontoiatria e protesi dentaria.   
-Dopo l'art. 48 e' inclusa la seguente dizione:   
+Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 15. - L'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' modificato nel senso che l'insegnamento di "Geografia ed etnografia coloniale" muta denominazione in quello di Etnologia";  
+Art. 43. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti quelli di:  
+Microbiologia lattiero-casearia;  
+Scienza dell'alimentazione del bestiame;  
+Olivicoltura (semestrale);  
+Virologia (semestrale);  
+Cooperazione agricola (semestrale);  
+Micologia (semestrale);  
+Tecnica della sperimentazione in agricoltura (semestrale);  
+Economia dei mercati agricoli (semestrali);  
+Tecnologia delle conserve alimentari (semestrale);  
+Elettrificazione agricola (semestrale).  
+Nello stesso corso di laurea dopo il penultimo comma e' inserito il seguente:  
+"Il corso di economia e politica agraria - pur restando biennale ed unito quanto all'insegnamento - comporta per quanto riguarda l'accertamento due esami distinti uno alla fine del 3° anno di corso (Economia agraria) ed uno alla fine del 4° anno di corso (Politica agraria)".  
+Art. 44, relativo alle norme sulle propedeuticita' ed esami del corso di laurea in scienze agrarie e' modificato nel senso che viene aggiunto il seguente nuovo comma:  
+"L'esame di chimica generale ed inorganica e quello di fisica debbono precedere quello di mineralogia e geologia".  
+Art. 56. - All'elenco degli insegnamenti complementari del corso di laurea in medicina veterinaria sono aggiunti quelli di:  
+Genetica animale;  
+Semeiotica medica e metodologia clinica veterinaria;  
+Fisiopatologia comparata;  
+Anatomia topografica.  
+Nello stesso articolo dopo l'elenco degli insegnamenti complementari il primo comma e' abrogato e sostituito dai seguenti:  
+"Gli insegnamenti biennali di "Anatomia degli animali domestici con istologia ed embriologia" e di "Fisiologia generale e speciale degli animali domestici e chimica biologica" comportano ciascuno due esami distinti che lo studente dovra' sostenere rispettivamente dopo il primo e dopo il secondo anno di corso".  
+Gli insegnamenti biennali di "Patologia generale ed anatomia patologica" e di "Patologia speciale e clinica medica" comportano ciascuno due esami distinti che lo studente dovra' sostenere rispettivamente dopo il terzo e dopo il quarto anno di corso".  
+Dopo l'art. 123 e' aggiunto il seguente nuovo articolo relativo alla istituzione del corso di perfezionamento in patologia aviare annesso alla facolta' di medicina veterinaria.  
   
-CORSO DI LAUREA IN MEDICINA E CHIRURGIA   
+Corso di perfezionamento in patologia aviare  
   
-Nell'art. 49 e' preposto il seguente comma:   
-  
-La durata del corso degli studi per la laurea in medicina e chirurgia e' di sei anni divisi in tre bienni. Titolo di ammissione e' quello previsto dalle leggi in vigore.   
-Dopo l'art. 51, con il conseguente spostamento degli articoli successivi, sono inclusi i seguenti nuovi articoli:   
-  
-CORSO DI LAUREA IN ODONTOIATRIA E PROTESI DENTARIA   
-  
-Art. 52. - La durata del corso degli studi per la laurea in odontoiatria e protesi dentaria e' di cinque anni, divisi in un biennio ed in un triennio. Titolo di ammissione e' quello previsto dalle leggi in vigore.   
-Art. 53. - Il numero massimo degli studenti che possono essere iscritti e' di venticinque per anno di corso.   
-L'accesso al corso di laurea verra' regolato da un esame di ammissione; il punteggio da attribuire nell'esame sara' cosi' ripartito: il 30% sara' riservato al voto riportato dal candidato nell'esame di Stato di licenza della scuola secondaria superiore ed il 70% sara' riservato alla prova di esame di ammissione al corso di laurea con tests a scelta multipla su argomenti di biologia generale, chimica, fisica e matematica, secondo i programmi della scuola secondaria superiore.   
-Art. 54. - Per il trasferimento degli studenti iscritti al corso di laurea in medicina e chirurgia, le abbreviazioni di corso non possono superare l'ammissione oltre il secondo anno, subordinatamente al numero dei posti resisi eventualmente disponibili all'inizio del secondo anno, sempre che gli aspiranti abbiano superato gli esami di biologia generale applicata agli studi medici, chimica, fisica medica, istologia ed embriologia generale (compresa la citologia).   
-Per i laureati in medicina e chirurgia le abbreviazioni di corso dovranno essere concesse, sempre con iscrizione al secondo anno, subordinatamente al numero di posti resisi eventualmente disponibili all'inizio del secondo anno e dopo che sia trascorso un anno accademico dal conseguimento della laurea precedente.   
-Art. 55. - Oltre alla graduatoria prevista dall'art. 53 per l'immatricolazione, ne sara' formulata una seconda per gli studenti ed i laureati della facolta' di medicina e chirurgia che aspirino a conseguire la laurea in odontoiatria e protesi dentaria, da ammettere al secondo anno ai sensi dell'art. 54.   
-Art. 56. - Sono insegnamenti fondamentali:   
-Biennio:   
-\* 1) biologia generale applicata agli studi medici;   
-\* 2) chimica;   
-\* 3) chimica biologica;   
-4) farmacologia (semestrale);   
-\* 5) fisica medica;   
-6) fisiologia umana e dell'apparato stomatognatico;   
-7) igiene e odontoiatria preventiva e sociale con epidemiologia (semestrale);   
-8) istituzioni di anatomia umana normale e dell'apparato stomatognatico;   
-\* 9) istologia ed embriologia generale (compresa la citologia);  
-10) materiali dentari;   
-11) microbiologia (semestrale);   
-12) odontoiatria conservatrice (triennale, 2°, 3° e 4° anno);   
-13) patologia generale;   
-14) anestesia generale e speciale odontostomatologica (semestrale);   
-15) istituzioni di anatomia ed istologia patologica.   
-Triennio:   
-16) chirurgia speciale odontostomatologica (biennale, 3° e 4° anno);   
-17) clinica odontostomatologica (biennale, 4° e 5° anno);   
-18) medicina legale e delle assicurazioni e deontologia in odontostomatologia (semestrale);   
-19) neuropatologia e psicopatologia (semestrale);   
-20) ortognatondozia e gnatologia (funzione masticatoria) (biennale, 40 e 5° anno);   
-21) parodontologia (biennale, 4° e 5° anno);   
-22) patologia speciale chirurgica e propedeutica clinica;   
-23) patologia speciale medica e metodologia clinica (compresa la pediatria);   
-24) patologia speciale odontostomatologica;   
-25) pedodonzia (semestrale);   
-26) protesi dentaria (triennale, 3°, 4° e 5° anno);   
-27) radiologia generale e speciale odontostomatologica (semestrale).   
-Sono insegnamenti complementari:   
-\* 1) chirurgia maxillo-facciale;   
-\* 2) dermatologia e venereologia (semestrale);   
-\* 3) otorinolaringoiatria (semestrale);   
-\* 4) statistica sanitaria;   
-\* 5) patologia pediatrica.   
-Art. 57. - Gli insegnamenti segnati con asterisco sono mutuati dal corso di laurea in medicina e chirurgia.   
-Altri insegnamenti complementari nel piano della facolta' possono essere mutuati dal corso di laurea in medicina e chirurgia.   
-Art. 58. - Gli insegnamenti fondamentali sono teorici e pratici e la frequenza al relativo corso e' obbligatoria.   
-Gli insegnamenti specificamente odontostomatologici di ordine clinico comportano anche un tirocinio pratico continuativo da espletare prima di sostenere i relativi esami.   
-Gli allievi che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le relative prove di esame. Per gli insegnamenti semestrali ed annuali lo studente e' tenuto a sostenere un esame alla fine del corso. Per gli insegnamenti pluriennali lo studente e' tenuto a superare tanti esami per quante sono le annualita'.   
-Il tirocinio pratico relativo ad ogni insegnamento clinico deve prevedere una assistenza didattica, da parte dei componenti dell'organico, adeguata al numero degli studenti.   
-  
-  
-Art. 59.  
-Non si puo essere ammessi Se non si e superato l'esame di: a sostenere l'esame di:  
-  
-Fisiologia umana e del- Chimica biologica  
-l'apparato stomatogna- Istituzioni di anatomia umana tico normale e dell'apparato sto-  
-matognatico  
-  
-Patologia generale Chimica  
-Biologia generale applicata agli studi medici  
-Fisica medica  
-Patologia speciale medica Fisiologia umana dell'apparato e metodologia clinica stomatognatico  
-(compresa la pediatria)  
-Patologia speciale chirur- Patologia generale  
-gica e propedeutica  
-clinica  
-Clinica odontostomatolo- Patologia speciale medica e gica metodologia clinica (compresa la pediatria)  
-Patologia speciale chirurgica e propedeutica clinica  
-Istituzioni di anatomia ed isto- logia patologica  
-Patologia speciale odontostoma- tologica  
-Chirurgia speciale odontostoma- tologica  
-  
-  
-Art. 60. - Per essere ammesso a sostenere gli esami di laurea in odontoiatria e protesi dentaria, lo studente deve aver seguito i corsi ed aver superato gli esami in tutti gli insegnamenti fondamentali ed almeno in due insegnamenti scelti tra i complementari ed avere, inoltre, seguito le prescritte esercitazioni cliniche, i tirocini pratici ed averne conseguito le relative attestazioni.   
-L'esame di laurea consiste nella discussione di una tesi scritta su argomenti di odontostomatologia da richiedere almeno all'inizio del quarto anno di corso.   
-Art. 61. - Per esercitare la professione di laureati in odontoiatria e protesi dentaria devono superare un apposito esame di Stato.   
+Art. 124. - La durata del corso e' di un anno, le materie di insegnamento sono:  
+Cenni di anatomia e fisiologia degli uccelli domestici;  
+Igiene degli allevamenti avicoli e dell'alimentazione degli uccelli domestici;  
+Malattie di origine nutritiva e carenziale;  
+Malattie infettive;  
+Malattie parassitarie;  
+Avvelenamenti;  
+Malattie ed eziologia indeterminata ed ereditaria;  
+Anatomia ed istologia patologica.  
+Le esercitazioni riguarderanno essenzialmente la anatomia e l'istologia patologica e la diagnosi di laboratorio delle malattie infettive parassitarie. Esse saranno integrate da sopraluoghi presso allevamenti avicoli a carattere rurale ed industriale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 27 ottobre 1968
 
-PERTINI BODRATO
+SARAGAT SCAGLIA
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 10 marzo 1982
+Registrato alla Corte dei conti, addi' 22 gennaio 1969
 
-Registro n. 38 Istruzione, foglio n. 267
+Atti del Governo registro n. 224, foglio n. 165 - GRECO

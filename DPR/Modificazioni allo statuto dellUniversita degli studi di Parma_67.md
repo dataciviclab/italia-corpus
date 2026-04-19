@@ -1,71 +1,122 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 980
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1972 n. 456
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 980
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1972 n. 456
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA   
   
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il regio, [decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Nell'art. 142, relativo al corso di laurea in medicina veterinaria, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:   
-scienza e tecnologia delle carni;   
-statistica applicata alla produzione animale;   
-informatica e statistica applicata alla epidemiologia;   
-citogenetica veterinaria;   
-semeiologia ed epidemiologia degli allevamenti intensivi;   
-valutazione bromatologica degli alimenti per uso zootecnico;   
-etologia e patologia del comportamento degli animali domestici; terapia veterinaria di gruppo;   
-economia degli allevamenti nella C.E.E.;   
-patologia molecolare.   
-Nell'art. 143 gli ultimi cinque commi sono soppressi e cosi' sostituiti:   
-a) fisiologia generale e speciale veterinaria I e II (fisica biologica), chimica I e II, microbiologia generale veterinaria, rispetto alla patologia generale veterinaria;   
-b) patologia generale veterinaria, rispetto all'anatomia patologica generale e speciale veterinaria I e II, farmacologia e farmacodinamica veterinaria, propedeutica: 1) semeiologia medica veterinaria e metodologia clinica, patologia medica degli animali domestici, propedeutica: 2) semeiologia chirurgica veterinaria e metodologia clinica, patologia chirurgica veterinaria e podologia, medicina operatoria veterinaria;   
-c) propedeutica: 1) semeiologia medica veterinaria e metodologia clinica e patologia medica degli animali domestici rispetto alla clinica medica veterinaria;   
-d) propedeutica: 2) semeiologia chirurgica veterinaria e metodologia clinica, patologia chirurgica veterinaria e podologia e medicina operatoria veterinaria rispetto a clinica chirurgica veterinaria;   
-e) ostetricia veterinaria e patologia della riproduzione e fecondazione artificiale rispetto a clinica ostetrica e ginecologica veterinaria;   
-f) microbiologia generale veterinaria rispetto a patologia generale veterinaria, patologia e profilassi delle malattie infettive I e II, patologia aviare.   
+Decreta:   
+  
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+  
+L'art. 142, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la scuola, in "Tisiologia" e la scuola in "Odontoiatria e stomatologia" mutano rispettivamente la denominazione in quella di scuola in "Tisiologia e malattie dell'apparato respiratorio" e in "Odontoiatria e protesi dentaria".   
+Gli articoli da 228 a 234, relativi alla "Scuola di specializzazione in tisiologia" che muta la denominazione in quella di "Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio", sono abrogati e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio   
+  
+Art. 228: - La scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio ha la durata di tre anni. L'iscrizione per ogni anno accademico e' limitata a numero dodici allievi.   
+Art. 229. - Sono ammessi i laureati in medicina e chirurgia.  
+L'ammissione alla scuola e' stabilita attraverso un colloquio orale.   
+Art. 230. - Le materie di insegnamento sono:   
+  
+1° Anno:   
+Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);   
+Patologia della tubercolosi polmonare ed extrapolmonare;   
+Patologia delle malattie dell'apparato respiratorio;   
+Fisiologia e fisiopatologia generale dell'apparato respiratorio;   
+Semeiotica fisica e funzionale dell'apparato respiratorio;   
+Microbiologia;   
+Epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.   
+  
+2° Anno:   
+Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);   
+Clinica della tubercolosi (biennale);   
+Clinica delle malattie dell'apparato respiratorio (biennale);   
+Fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;   
+Broncologia;   
+Radiologia dell'apparato respiratorio;   
+Profilassi della tubercolosi;   
+Igiene e legislazione speciale.   
+  
+3° Anno:   
+Clinica della tubercolosi (biennale);   
+Clinica delle malattie dell'apparato respiratorio (biennale);   
+Chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;   
+Terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;   
+Terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.   
+  
+Art. 231. - I corsi di insegnamento sono integrati da turni obbligatori di internato nei reparti di degenza e nei laboratori di ricerca; da esercitazioni pratiche; da conferenze.   
+Art. 232. - Gli esami di profitto hanno luogo al termine di ogni anno di corso.   
+Art. 233. - Per il conseguimento del diploma di specialista in tisiologia e malattie dell'apparato respiratorio e' prescritta la presentazione e la discussione di una dissertazione scritta.   
+Gli articoli da 251 a 258, relativi alla "Scuola di specializzazione in odontoiatria e stomatologia" che muta la denominazione in quella di "Scuola di specializzazione in odontoiatria e protesi dentaria", sono abrogati e sostituiti dai seguenti, con il relativo spostamento della numerazione degli articoli successivi:   
+  
+Scuola di specializzazione in odontoiatria e protesi dentaria   
+  
+Art. 251. - La scuola ha la durata di tre anni.   
+Le materie di insegnamento sono:   
+  
+1° Anno:   
+Embriologia ed anatomia dentaria e maxillo-facciale;   
+Microbiologia e igiene orale;   
+Farmacologia;   
+Patologia odontostomatologica;   
+Odontotecnica;   
+Anestesia e chirurgia stomatologica;   
+Odontoiatria conservativa (I) (biennale);   
+Esercitazioni pratiche.   
+  
+2° Anno:   
+Odontoiatria conservativa (II);   
+Clinica protesica dentaria e maxillo-facciale (I) (biennale);   
+Parodontologia (I) (biennale);   
+Anatomia e istopatologia odontostomatologica;   
+Odontoiatria infantile;   
+Radiologia odontostomatologica;   
+Ortopedia dento-maxillo-facciale (I) (biennale);   
+Chirurgia maxillo-facciale (I) (biennale);   
+Esercitazioni pratiche.   
+  
+3° Anno:   
+Clinica odontostomatologica;   
+Chirurgia maxillo-facciale (II);   
+Medicina legale odontostomatologica e delle assicurazioni;   
+Ortopedia dento-maxillo-facciale (II);   
+Clinica protesica dentaria e maxillo-facciale (II);   
+Parodontologia (II);   
+Esercitazioni pratiche.   
+  
+Art. 252. - Il numero complessivo degli specializzandi da ammettere alla scuola e' fissato in quindici (5 per anno di corso).   
+Art. 253. - La frequenza e' obbligatoria per l'intero anno accademico.   
+Art. 254. - Gli esami di profitto teorici e pratici saranno sostenuti alla fine di ogni anno in un'unica sessione (ottobre).   
+Alla fine del terzo anno, dopo aver superato gli esami di profitto, gli allievi saranno ammessi a sostenere l'esame di diploma che consiste nella discussione orale di una dissertazione scritta, su un tema proposto in precedenza dall'insegnante della materia sulla quale verte l'argomento, e approvato dal direttore della scuola.   
+L'art. 259, relativo alla scuola di specializzazione in nefrologia medica e' modificato nel senso che il numero complessivo degli iscritti per i tre anni di corso e' aumentato a trenta.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 20 giugno 1972.
 
-PERTINI BODRATO
+LEONE MISASI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 9 febbraio 1982
+Registrato alla Corte dei conti, addi' 10 agosto 1972
 
-Registro n. 20 Istruzione, foglio n. 233
+Atti del Governo, registro n. 250 foglio n. 150. - VALENTINI

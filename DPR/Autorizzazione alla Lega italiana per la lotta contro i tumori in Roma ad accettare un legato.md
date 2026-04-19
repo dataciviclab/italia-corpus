@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1986 n. 551
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 1075
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1986 n. 551
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 1075
+===============================================================
 
 Autorizzazione alla Lega italiana per la lotta contro i tumori, in Roma, ad accettare un legato.
 ------------------------------------------------------------------------------------------------
@@ -12,8 +12,14 @@ Art. 1
 
 N.
 
-551. Decreto del Presidente della Repubblica 8 luglio 1986, col quale, sulla proposta del Ministro della sanita', la lega italiana per la lotta contro i tumori, in Roma, viene autorizzata ad accettare il legato, consistente in immobili siti in Milano largo Murani n. 4, e in comune di S. Giulietta (Pavia), del periziato valore rispettivamente di L. 33.000.000, e di L. 40.000.000, da utilizzare dalla Lega stessa per il perseguimento dei propri fini istituzionali, disposto dalla sig.ra Lucilla Milanesi con testamento olografo 9 novembre 1979, pubblicato in data 27 ottobre 1981, n. 12208 di repertorio, a rogito dott. Giuseppe Pedone, notaio in Milano, registrato a Milano in data 2 novembre 1981 al n. 19922.   
+1075. Decreto del Presidente della Repubblica 11 ottobre 1984, col quale, sulla proposta del Ministro della sanita', la Lega italiana per la lotta contro i tumori, in Roma, viene autorizzata ad   
+accettare il legato, consistente in una quota-parte pari al 75%   
+dell'eredita' totale che ammonta a L. 30.000.000, che sara'   
+utilizzato per l'attuazione dei propri fini istituzionali, disposto   
+dalla sig.ra Maria Scalier ved. Sensoli con testamento olografo 11 luglio 1978, pubblicato in data 20 ottobre 1978, n. 334470 di   
+repertorio, a rogito dottor Carlo Emiliano Verde, notaio in Genova,   
+registrato a Genova in data 24 ottobre 1978 al n. 16450.   
   
-Visto, il Guardasigilli: ROGNONI   
-Registrato alla Corte dei conti, addi' 10 settembre 1986   
-Registro n. 9 Sanita', foglio n. 96
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 14 febbraio 1985   
+Registro n. 2 Sanita', foglio n. 37

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 gennaio 1982 n. 110
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 settembre 1968 n. 1093
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 gennaio 1982 n. 110
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 settembre 1968 n. 1093
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
@@ -10,99 +10,158 @@ Modificazioni allo statuto dell'Universita' degli studi di Messina.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con [regio decreto 26 ottobre 1940, n. 1095](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1095), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Veduto l'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16);
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio universitario nazionale nel suo parere;
+Sulla proposta del Ministro per la pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
+Decreta:
 
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Sulla
------
+Dopo l'art. 141 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi all'istituzione presso la facolta' di medicina e chirurgia della scuola di specializzazione in anestesiologia e rianimazione.
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Scuola di specializzazione in anestesiologia e rianimazione
 
-Articolo unico
---------------
+Art. 142. - La scuola di specializzazione in anestesiologia e rianimazione ha sede presso l'istituto di patologia speciale chirurgica e propedeutica clinica dell'Universita' di Messina ed e' retta secondo le norme del regolamento generale per le scuole di specializzazione della facolta' di medicina e chirurgia di cui agli articoli 73 e seguenti.
 
+Art. 143. - Il corso degli studi avra' la durata di tre anni e comprendera' le seguenti materie di insegnamento integrate da esercitazioni di pratica specialistica clinica.
+
+Art. 144. - L'obbligo della frequenza ai corsi e' categorico e gli iscritti sono tenuti non soltanto a presenziare alle lezioni ed a prendere parte alle esercitazioni, ma anche a svolgere un internato in modo da poter ricavare una esperienza diretta sia dell'attivita' nei reparti operatori che dall'osservazione clinica continuata del paziente.
+
+Art. 145. - In vista del carattere prevalentemente clinico degli insegnamenti e della necessita' di un periodo sufficientemente lungo di esercitazioni pratiche non sono concesse abbreviazioni di corso ad eccezione dei candidati che, gia' in possesso del diploma di specializzazione in anestesiologia, possono essere ammessi al terzo anno per ottenere la specializzazione in anestesiologia e rianimazione.
+
+Art. 146. - Per accedere ai corsi successivi e' obbligatorio il superamento di tutti gli esami del corso precedente, ivi comprese le materie biennali.
+
+Art. 147. - Gli esami possono aver luogo solamente in due sessioni annuali, una estiva ed una autunnale, e comunque non oltre il 30 novembre dell'anno in corso.
+
+Art. 148. - Il numero degli iscritti da ammettere complessivamente per i tre anni alla scuola e' di 18 specializzandi (sei per ogni anno di corso).
+
+Art. 149. - I corsi di insegnamento si uniformeranno al calendario dell'universita'; per quanto riguarda invece le esercitazioni ed i servizi interni, l'attivita' della scuola si estendera' all'intero anno solare.
+
+Art. 150. - Il diploma di specialista di anestesiologia e rianimazione viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinica e sperimentale.
+
+Materie d'insegnamento
+
+1° Anno:
+
+Anatomia, biochimica, farmacologia, fisica, fisiologia applicata alla anestesiologia e rianimazione;
+
+Anestesiologia;
+
+Tecniche chirurgiche di interesse anestesiologico;
+
+Aspetti medico-legali dell'anestesia e della rianimazione;
+
+Internato.
+
+2° Anno:
+
+Anestesiologia;
+
+Terapia antalgica;
+
+Rianimazione;
+
+Internato.
+
+3° Anno:
+
+Rianimazione;
+
+Tecniche speciali di anestesia e rianimazione;
+
+Indagini diagnostiche attinenti alla specialita';
+
+Internato.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 11 settembre 1968
+
+SARAGAT
+
+SCAGLIA
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 22 ottobre 1968 Atti del Governo, registro n. 223, foglio n. 43. - GRECO
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Lo statuto dell'Universita' di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Dopo l'art. 186, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia oncologica.  
+Decreta:  
   
-Scuola di specializzazione in chirurgia oncologica  
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 187. - La scuola di specializzazione in chirurgia oncologica ha sede presso l'istituto di prima patologia speciale chirurgica e conferisce il diploma di specialista in chirurgia oncologica. La scuola ha lo scopo di fornire al giovane laureato, che si voglia dedicare allo studio dei mezzi di diagnosi e di cura chirurgica delle neoplasie, un corso di specializzazione nel quale trovi spazio ogni utile conoscenza in questo settore.  
-Art. 188. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
-Art. 189. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Art. 190. - La durata del corso e' di cinque anni e non e' suscettibile di abbreviazioni.  
-Art. 191. - Il numero massimo degli iscritti e' di quattro per anno di corso, e complessivamente di venti allievi per l'intero corso di studi. Pertanto il reparto clinico dell'istituto mette a disposizione numero ottanta posti letto.  
-Art. 192. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 193. - Le materie d'insegnamento sono le seguenti:  
+Dopo l'art. 141 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi all'istituzione presso la facolta' di medicina e chirurgia della scuola di specializzazione in anestesiologia e rianimazione.  
+  
+Scuola di specializzazione in anestesiologia e rianimazione  
+  
+Art. 142. - La scuola di specializzazione in anestesiologia e rianimazione ha sede presso l'istituto di patologia speciale chirurgica e propedeutica clinica dell'Universita' di Messina ed e' retta secondo le norme del regolamento generale per le scuole di specializzazione della facolta' di medicina e chirurgia di cui agli articoli 73 e seguenti.  
+Art. 143. - Il corso degli studi avra' la durata di tre anni e comprendera' le seguenti materie di insegnamento integrate da esercitazioni di pratica specialistica clinica.  
+Art. 144. - L'obbligo della frequenza ai corsi e' categorico e gli iscritti sono tenuti non soltanto a presenziare alle lezioni ed a prendere parte alle esercitazioni, ma anche a svolgere un internato in modo da poter ricavare una esperienza diretta sia dell'attivita' nei reparti operatori che dall'osservazione clinica continuata del paziente.  
+Art. 145. - In vista del carattere prevalentemente clinico degli insegnamenti e della necessita' di un periodo sufficientemente lungo di esercitazioni pratiche non sono concesse abbreviazioni di corso ad eccezione dei candidati che, gia' in possesso del diploma di specializzazione in anestesiologia, possono essere ammessi al terzo anno per ottenere la specializzazione in anestesiologia e rianimazione.  
+Art. 146. - Per accedere ai corsi successivi e' obbligatorio il superamento di tutti gli esami del corso precedente, ivi comprese le materie biennali.  
+Art. 147. - Gli esami possono aver luogo solamente in due sessioni annuali, una estiva ed una autunnale, e comunque non oltre il 30 novembre dell'anno in corso.  
+Art. 148. - Il numero degli iscritti da ammettere complessivamente per i tre anni alla scuola e' di 18 specializzandi (sei per ogni anno di corso).  
+Art. 149. - I corsi di insegnamento si uniformeranno al calendario dell'universita'; per quanto riguarda invece le esercitazioni ed i servizi interni, l'attivita' della scuola si estendera' all'intero anno solare.  
+Art. 150. - Il diploma di specialista di anestesiologia e rianimazione viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinica e sperimentale.  
+  
+Materie d'insegnamento  
+  
 1° Anno:  
-1) etiopatogenesi dei tumori ed immunologia in oncologia;  
-2) anatomia ed Istologia patologica dei tumori;  
-3) epidemiologia dei tumori;  
-4) oncologia clinica;  
-5) clinica chirurgica oncologica (I);  
-6) senologia ed endocrinologia oncologica.  
+Anatomia, biochimica, farmacologia, fisica, fisiologia applicata alla anestesiologia e rianimazione;  
+Anestesiologia;  
+Tecniche chirurgiche di interesse anestesiologico;  
+Aspetti medico-legali dell'anestesia e della rianimazione;  
+Internato.  
 2° Anno:  
-1) clinica chirurgica oncologica (II);  
-2) semeiotica chirurgica generale e speciale (mezzi di diagnosi precoce);  
-3) principi di programmazione terapeutica;  
-4) oncologia ginecologica;  
-5) oncologia maxillo-facciale e stomatologica;  
-6) oncologia otorinolaringoiatrica;  
-7) oncologia ortopedica.  
+Anestesiologia;  
+Terapia antalgica;  
+Rianimazione;  
+Internato.  
 3° Anno:  
-1) diagnosi radiologica generale e speciale, isotopi radioattivi e tecniche angiografiche in oncologia;  
-2) diagnostica citologica e diagnostica istopatologica estemporanea;  
-3) principi di anestesia e rianimazione, terapia del dolore;  
-4) oncologia neurologica;  
-5) tecniche chirurgiche in oncologia (apparato digerente e ghiandole annesse) (I);  
-6) chirurgia plastica ricostruttiva.  
-4° Anno:  
-1) tecniche chirurgiche speciali e trattamento chemioterapico distrettuale;  
-2) radioterapia oncologica;  
-3) chemioterapia oncologica;  
-4) profilassi oncologica;  
-5) prognosi dei vari tipi di tumori e significato dei controlli periodici dei curati;  
-6) tecniche chirurgiche in oncologia (II).  
-5° Anno:  
-1) tecniche chirurgiche in oncologia: apparato respiratorio e mediastino;  
-2) tecniche chirurgiche in oncologia: apparato urinario e genitale maschile;  
-3) endocrinochirurgia oncologica;  
-4) chirurgia del dolore;  
-5) possibilita' e tecniche della riabilitazione e del recupero;  
-6) tecniche chirurgiche in oncologia (III).  
-Art. 194. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
-Art. 195. - Alla fine di ogni corso, gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.  
-Al termine del corso di studi per il conseguimento del diploma di specialista in chirurgia oncologica gli allievi dovranno superare l'esame di diploma, che consiste nella dissertazione scritta su di un argomento attinente alla specializzazione, proposto dal direttore della scuola o da un docente della stessa, e dovranno sostenere una prova clinica.  
-Art. 196. - La direzione della scuola ha facolta' di invitare i cultori della materia, italiani e stranieri, a tenere lezioni, conferenze o seminari su argomenti di oncologia.  
+Rianimazione;  
+Tecniche speciali di anestesia e rianimazione;  
+Indagini diagnostiche attinenti alla specialita';  
+Internato.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 gennaio 1982
+### Dato a Roma, addi' 11 settembre 1968
 
-PERTINI BODRATO
+SARAGAT SCAGLIA
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 10 marzo 1982
+Registrato alla Corte dei conti, addi' 22 ottobre 1968
 
-Registro n. 38 Istruzione, foglio n. 258
+Atti del Governo, registro n. 223, foglio n. 43. - GRECO

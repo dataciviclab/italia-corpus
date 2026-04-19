@@ -1,22 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1971 n. 674
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1973 n. 743
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1971 n. 674
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1973 n. 743
 =============================================================
 
-Modificazioni allo statuto dell'Universita' cattolica del S. Cuore di Milano.
------------------------------------------------------------------------------
+Modificazioni allo statuto dell'Universita' cattolica del "S. Cuore" di Milano.
+-------------------------------------------------------------------------------
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' cattolica del S. Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
+Veduto lo statuto dell'Universita' cattolica del "S. Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652); e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
@@ -28,80 +28,90 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' cattolica del S. Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che dopo l'art. 108 e con il conseguente spostamento della successiva numerazione e inserito il seguente articolo relativo alla istituzione della scuola di specializzazione in patologia generale.
+Lo statuto dell'Universita' cattolica del "S. Cuore" di Milano, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:
 
-Scuola di specializzazione in patologia generale
+Dopo l'art. 97, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in oculistica.
 
-Art. 109. - Alla scuola di specializzazione in patologia generale vengono ammessi i laureati in medicina e chirurgia, in scienze biologiche e di altre facolta', nel cui ordinamento degli studi e' inserito l'insegnamento di patologia generale.
+Scuola di specializzazione in oculistica
 
-Il corso ha la durata di tre anni. Le iscrizioni ai singoli anni non potranno superare il numero di dieci.
+Art. 98. - Il corso di studi della scuola ha la durata di quattro anni. Il numero massimo degli iscritti e' di quindici per i 4 anni di corso.
 
-Nel caso di eccedenza di domande, la scelta tra i richiedenti sara' fatta in base a concorso interno, per esame.
-
-A giudizio del direttore, entro il numero stabilito per i singoli anni di corso, possono essere ammessi al secondo corso direttamente i richiedenti sufficientemente forniti di titoli attinenti alla patologia generale (assistenti volontari di patologia generale o affini; specializzati in altre discipline affini alla patologia generale; ecc.).
-
-I candidati non riconosciuti idonei all'esame di diploma potranno ripresentarsi dopo un altro anno di frequenza alla scuola. Ma se al secondo esame non sia loro riconosciuta la idoneita', saranno senz'altro esclusi da ulteriori prove.
-
-Le materie di insegnamento sono le seguenti:
+Art. 99. - Gli insegnamenti impartiti nella scuola sono:
 
 1° Anno:
 
-1) Biologia generale (cause patogene: fisiche, chimiche e biologiche);
+Anatomia ed istologia dell'apparato oculare;
 
-2) Patologia istochimica;
+Nozioni di embriologia e genetica oculare;
 
-3) Patologia delle infezioni;
+Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;
 
-4) Laboratorio di patologia generale (triennale).
+Nozioni di ottica fisiologica esame della refrazione;
+
+Microbiologia ed igiene oculare.
 
 2° Anno:
 
-1) Patologia delle infezioni;
+Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmoscopia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);
 
-2) Immunologia;
+Farmacologia oculare, terapia fisica;
 
-3) Fisiopatologia sistemica (biennale) (fisiopatologia della termoregolazione, del cuore e dei vasi, della respirazione);
+Anatomia patologica oculare;
 
-4) Patologia del metabolismo (dei protidi, dei lipidi, dell'acqua; e dei minerali e dei bioregolatori);
-
-5) Laboratorio di patologia generale.
+Patologia e clinica oculare (malattia delle palpebre e della congiuntiva, delle vie lacrimali, della cornea e della selera).
 
 3° Anno:
 
-1) Fisiopatologia sistemica (della digestione, del rene, del sangue e del sistema neuro-endocrino);
+Patologia e clinica oculare (malattia dell'uvea della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);
 
-2) Patologia oncologica;
+Anomalie e patologia della motilita' oculare e della visione binoculare; ortottica e pleottica;
 
-3) Laboratorio di patologia generale.
+Affezioni otorinolaringoiatriche e occhio;
 
-Alla fine di ogni anno saranno sostenuti gli esami di ciascuna delle materie suindicate.
+Tecnica operatoria (1ª parte).
 
-Per conseguire il diploma di specializzazione in patologia generale, al termine del corso triennale, oltre ad avere superato tutti gli esami delle singole materie, e' di obbligo presentare una dissertazione scritta, preferibilmente di carattere sperimentale elaborata nello istituto.
+4° Anno:
+
+Neuroftalmologia;
+
+Malattie oculari in rapporto ad affezioni generali;
+
+Malattie professionali, infortunistica e medicina legale oculare;
+
+Tecnica operatoria (2ª parte).
+
+Art. 100. - E' obbligatoria la frequenza in istituto, la partecipazione alle lezioni ed alle esercitazioni.
+
+Alla fine di ogni anno gli iscritti, ottenuta firma di frequenza, dovranno sostenere un esame di profitto sulle materie svolte durante l'anno.
+
+Abbreviazioni di corso possono essere concesse a coloro che dimostrino, a giudizio del direttore della scuola, una particolare preparazione oftalmologica precedente alla iscrizione.
+
+Per il conseguimento del diploma di specializzazione gli iscritti, dopo aver sostenuto favorevolmente gli esami dei quattro anni, dovranno presentare e discutere una tesi scritta su un argomento di interesse oftalmologico, previamente concordato con il direttore della scuola.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 19 maggio 1971
+Dato a Roma, addi' 25 luglio 1973
 
-SARAGAT
+LEONE
 
-MISASI
+MALFATTI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: ZAGARI
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 25 agosto 1971 Atti del Governo, registro n. 243, foglio n. 171. - PASQUALUCCI
+alla Corte dei conti, addi' 23 novembre 1973 Atti di Governo, registro n. 262, foglio n. 51. - VALENTINI
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' cattolica del S. Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' cattolica del "S. Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652); e successive modificazioni;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -109,44 +119,49 @@ Sulla proposta del Ministro per la pubblica istruzione;
   
 Decreta:  
   
-Lo statuto dell'Universita' cattolica del S. Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che dopo l'art. 108 e con il conseguente spostamento della successiva numerazione e inserito il seguente articolo relativo alla istituzione della scuola di specializzazione in patologia generale.  
+Lo statuto dell'Universita' cattolica del "S. Cuore" di Milano, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:  
   
-Scuola di specializzazione in patologia generale  
+Dopo l'art. 97, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in oculistica.  
   
-Art. 109. - Alla scuola di specializzazione in patologia generale vengono ammessi i laureati in medicina e chirurgia, in scienze biologiche e di altre facolta', nel cui ordinamento degli studi e' inserito l'insegnamento di patologia generale.  
-Il corso ha la durata di tre anni. Le iscrizioni ai singoli anni non potranno superare il numero di dieci.  
-Nel caso di eccedenza di domande, la scelta tra i richiedenti sara' fatta in base a concorso interno, per esame.  
-A giudizio del direttore, entro il numero stabilito per i singoli anni di corso, possono essere ammessi al secondo corso direttamente i richiedenti sufficientemente forniti di titoli attinenti alla patologia generale (assistenti volontari di patologia generale o affini; specializzati in altre discipline affini alla patologia generale; ecc.).  
-I candidati non riconosciuti idonei all'esame di diploma potranno ripresentarsi dopo un altro anno di frequenza alla scuola. Ma se al secondo esame non sia loro riconosciuta la idoneita', saranno senz'altro esclusi da ulteriori prove.  
-Le materie di insegnamento sono le seguenti:  
+Scuola di specializzazione in oculistica  
+Art. 98. - Il corso di studi della scuola ha la durata di quattro anni. Il numero massimo degli iscritti e' di quindici per i 4 anni di corso.  
+Art. 99. - Gli insegnamenti impartiti nella scuola sono:  
 1° Anno:  
-1) Biologia generale (cause patogene: fisiche, chimiche e biologiche);  
-2) Patologia istochimica;  
-3) Patologia delle infezioni;  
-4) Laboratorio di patologia generale (triennale).  
+Anatomia ed istologia dell'apparato oculare;  
+Nozioni di embriologia e genetica oculare;  
+Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;  
+Nozioni di ottica fisiologica esame della refrazione;  
+Microbiologia ed igiene oculare.  
 2° Anno:  
-1) Patologia delle infezioni;  
-2) Immunologia;  
-3) Fisiopatologia sistemica (biennale) (fisiopatologia della termoregolazione, del cuore e dei vasi, della respirazione);  
-4) Patologia del metabolismo (dei protidi, dei lipidi, dell'acqua; e dei minerali e dei bioregolatori);  
-5) Laboratorio di patologia generale.  
+Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmoscopia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);  
+Farmacologia oculare, terapia fisica;  
+Anatomia patologica oculare;  
+Patologia e clinica oculare (malattia delle palpebre e della congiuntiva, delle vie lacrimali, della cornea e della selera).  
 3° Anno:  
-1) Fisiopatologia sistemica (della digestione, del rene, del sangue e del sistema neuro-endocrino);  
-2) Patologia oncologica;  
-3) Laboratorio di patologia generale.  
-Alla fine di ogni anno saranno sostenuti gli esami di ciascuna delle materie suindicate.  
-Per conseguire il diploma di specializzazione in patologia generale, al termine del corso triennale, oltre ad avere superato tutti gli esami delle singole materie, e' di obbligo presentare una dissertazione scritta, preferibilmente di carattere sperimentale elaborata nello istituto.  
+Patologia e clinica oculare (malattia dell'uvea della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);  
+Anomalie e patologia della motilita' oculare e della visione binoculare; ortottica e pleottica;  
+Affezioni otorinolaringoiatriche e occhio;  
+Tecnica operatoria (1ª parte).  
+4° Anno:  
+Neuroftalmologia;  
+Malattie oculari in rapporto ad affezioni generali;  
+Malattie professionali, infortunistica e medicina legale oculare;  
+Tecnica operatoria (2ª parte).  
+Art. 100. - E' obbligatoria la frequenza in istituto, la partecipazione alle lezioni ed alle esercitazioni.  
+Alla fine di ogni anno gli iscritti, ottenuta firma di frequenza, dovranno sostenere un esame di profitto sulle materie svolte durante l'anno.  
+Abbreviazioni di corso possono essere concesse a coloro che dimostrino, a giudizio del direttore della scuola, una particolare preparazione oftalmologica precedente alla iscrizione.  
+Per il conseguimento del diploma di specializzazione gli iscritti, dopo aver sostenuto favorevolmente gli esami dei quattro anni, dovranno presentare e discutere una tesi scritta su un argomento di interesse oftalmologico, previamente concordato con il direttore della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 maggio 1971
+### Dato a Roma, addi' 25 luglio 1973
 
-SARAGAT MISASI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 25 agosto 1971
+Registrato alla Corte dei conti, addi' 23 novembre 1973
 
-Atti del Governo, registro n. 243, foglio n. 171. - PASQUALUCCI
+Atti di Governo, registro n. 262, foglio n. 51. - VALENTINI

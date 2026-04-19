@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 marzo 1957 n. 436
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 gennaio 1982 n. 130
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 marzo 1957 n. 436
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 gennaio 1982 n. 130
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Siena.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successivi;
+Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,104 +18,76 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto l'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Decreta:
+Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Sulla
+-----
 
-Art. 17. - Viene sostituito dal seguente:
+proposta del Ministro della pubblica istruzione; Decreta:
 
-"Il colloquio ha luogo dinanzi alla Commissione di laurea e consiste in una discussione orale di una tesi scelta dalla Commissione predetta tra le due che il candidato e' tenuto a presentare due giorni prima di quello fissato per la discussione della tesi scritta. I temi delle tesi orali devono riguardare due gruppi diversi di materie escluso quello cui si riferisce la dissertazione scritta. I gruppi sono:
+Articolo unico
+--------------
 
-Giurisprudenza.
-
-Diritto pubblico: Diritto costituzionale - Diritto ecclesiastico - Diritto processuale civile - Diritto internazionale - Diritto amministrativo - Legislazione del lavoro (C) - Diritto coloniale (C).
-
-Diritto privato: Diritto del lavoro - Istituzioni di diritto privato - Diritto civile - Diritto commerciale Diritto privato comparato (C) - Diritto agrario (C) Diritto canonico (C).
-
-Materie storiche e filosofiche: Istituzioni di diritto romano - Storia del diritto romano - Storia del diritto italiano - Diritto romano - Filosofia del diritto Teoria generale del diritto romano (C) - Diritto comune (C) - Esegesi delle fonti del diritto romano (C) - Storia dei trattati e politica internazionale (C) - Storia delle dottrine politiche (C).
-
-Materie penaliste e medico-legali: Diritto penale Procedura penale - Medicina legale e delle assicurazioni (C) - Antropologia criminale (C).
-
-Materie economiche e statistiche: Economia politica - Scienze delle finanze e diritto finanziario - Statistica (C) - Demografia (C).
-
-Corso di laurea in scienze politiche Materie giuridiche:
-
-Istituzioni di diritto privato Diritto amministrativo - Istituzioni di diritto pubblico - Diritto internazionale - Diritto del lavoro - Diritto costituzionale italiano e comparato - Legislazione del lavoro (C).
-
-Materie economiche e statistiche: Geografia politica ed economica - Economia politica - Politica economica e finanziaria - Demografia (C) - Statistica.
-
-Materie storiche: Storia moderna - Storia delle dottrine politiche - Storia e politica coloniale - Storia dei trattati e politica internazionale - Storia delle dottrine economiche.
-
-Materie filosofiche e politiche: Dottrina dello Stato - Filosofia del diritto (C)".
-
-Art. 21. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di puericoltura.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 8 marzo 1957
-
-GRONCHI
-
-ROSSI
-
-Visto, il Guardasigilli: MORO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 21 giugno 1957 Atti del Governo, registro n. 106, foglio n. 76. - CARLOMAGNO
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Lo statuto dell'Universita' di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Decreta:  
+Dopo l'art. 362, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in sicurezza sociale e organizzazione sanitaria.  
   
-Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Scuola di specializzazione in sicurezza sociale e organizzazione sanitaria  
   
-Art. 17. - Viene sostituito dal seguente:  
-"Il colloquio ha luogo dinanzi alla Commissione di laurea e consiste in una discussione orale di una tesi scelta dalla Commissione predetta tra le due che il candidato e' tenuto a presentare due giorni prima di quello fissato per la discussione della tesi scritta. I temi delle tesi orali devono riguardare due gruppi diversi di materie escluso quello cui si riferisce la dissertazione scritta. I gruppi sono:  
-Giurisprudenza.  
-Diritto pubblico: Diritto costituzionale - Diritto ecclesiastico - Diritto processuale civile - Diritto internazionale - Diritto amministrativo - Legislazione del lavoro (C) - Diritto coloniale (C).  
-Diritto privato: Diritto del lavoro - Istituzioni di diritto privato - Diritto civile - Diritto commerciale Diritto privato comparato (C) - Diritto agrario (C) Diritto canonico (C).  
-Materie storiche e filosofiche: Istituzioni di diritto romano - Storia del diritto romano - Storia del diritto italiano - Diritto romano - Filosofia del diritto Teoria generale del diritto romano (C) - Diritto comune (C) - Esegesi delle fonti del diritto romano (C) - Storia dei trattati e politica internazionale (C) - Storia delle dottrine politiche (C).  
-Materie penaliste e medico-legali: Diritto penale Procedura penale - Medicina legale e delle assicurazioni (C) - Antropologia criminale (C).  
-Materie economiche e statistiche: Economia politica - Scienze delle finanze e diritto finanziario - Statistica (C) - Demografia (C).  
-Corso di laurea in scienze politiche Materie giuridiche:  
-Istituzioni di diritto privato Diritto amministrativo - Istituzioni di diritto pubblico - Diritto internazionale - Diritto del lavoro - Diritto costituzionale italiano e comparato - Legislazione del lavoro (C).  
-Materie economiche e statistiche: Geografia politica ed economica - Economia politica - Politica economica e finanziaria - Demografia (C) - Statistica.  
-Materie storiche: Storia moderna - Storia delle dottrine politiche - Storia e politica coloniale - Storia dei trattati e politica internazionale - Storia delle dottrine economiche.  
-Materie filosofiche e politiche: Dottrina dello Stato - Filosofia del diritto (C)".  
-Art. 21. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di puericoltura.  
+Art. 363. - La scuola di specializzazione in sicurezza sociale e organizzazione sanitaria ha sede presso la cattedra di medicina sociale e conferisce il diploma di specialista in sicurezza sociale e organizzazione sanitaria.  
+Art. 364. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+Art. 365. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.  
+Art. 366. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
+Art. 367. - Il numero massimo degli allievi e' di quindici per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi.  
+Art. 368. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 369. - L'insegnamento verra' impartito per certe materie secondo moduli interdisciplinari e si articolera' in lezioni e in seminari di ricerca. Le materie d'insegnamento sono le seguenti:  
+1° Anno:  
+storia delle istituzioni sanitarie e previdenziali nel secolo XX;  
+medicina legale e della sicurezza sociale (biennale - 1° anno); deontologia e legislazione sanitaria;  
+diritto della sicurezza sociale;  
+psicopatologia sociale;  
+sociologia medica delle devianze.  
+2° Anno:  
+medicina legale e della sicurezza sociale (2° anno);  
+medicina sociale e preventiva (insegnamento interdisciplinare sugli aspetti sociali delle situazioni patologiche di maggiore importanza) (triennale - 1° anno);  
+informatica ed epidemiologia (insegnamento interdisciplinare: elementi di statistica, statistica sanitaria, informatica sanitaria, epidemiologia generale e clinica, biometria).  
+3° Anno:  
+medicina sociale e preventiva (2° anno);  
+igiene sociale;  
+tossicologia industriale e medicina preventiva dei lavoratori; economia sanitaria;  
+programmazione ed organizzazione dei servizi sanitari (insegnamento interdisciplinare: indicatori di efficienza e di efficacia dei servizi, principi e metodiche di controllo delle prestazioni mediche e farmaceutiche, automazione dei servizi, personale paramedico) (biennale - 1° anno).  
+4° Anno:  
+medicina sociale e preventiva (3° anno);  
+programmazione e organizzazione dei servizi sanitari (i servizi di prevenzione e riabilitazione nel piano fisico e mentale) (2° anno);  
+caratteristiche e competenze dell'U.S.L.;  
+organizzazione e competenze sanitarie e previdenziali nei Paesi della Comunita' europea.  
+Art. 370. - La frequenza alle lezioni e ai seminari di ricerca e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove d'esame.  
+Art. 371. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove d'esame sulle materie impartite durante l'anno. Dovranno altresi' presentare un rendiconto scritto sulle loro ricerche seminariali.  
+Per le materie biennali o triennali l'esame sara' sostenuto alla fine del biennio o del triennio.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in "sicurezza sociale e organizzazione sanitaria", gli interessati dovranno superare lo esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione.  
+Art. 372. - Le tasse, soprattasse e contributi della scuola di specializzazione in sicurezza sociale e organizzazione sanitaria sono quelle previste dalle norme generali del presente statuto.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 marzo 1957
+### Dato a Roma, addi' 15 gennaio 1982
 
-GRONCHI ROSSI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 21 giugno 1957
+Registrato alla Corte dei conti, addi' 20 marzo 1982
 
-Atti del Governo, registro n. 106, foglio n. 76. - CARLOMAGNO
+Registro n. 43 Istruzione, foglio n. 323

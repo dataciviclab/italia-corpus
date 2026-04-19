@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 giugno 1953 n. 911
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 giugno 1953 n. 684
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 giugno 1953 n. 911
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 giugno 1953 n. 684
 =============================================================
 
 Autorizzazione al Politecnico di Milano ad accettare una donazione.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-911. Decreto del Presidente della Repubblica 25 giugno 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, il Politecnico di Milano viene autorizzato ad accettare la donazione di L. 417.500 nominali, in titoli di Stato rendita italiana 5%, disposta in suo favore dal prof. dott. mg. Piero Portaluppi, con atto pubblico amministrativo in data 28 ottobre 1952, per l'istituzione, con la rendita del capitale donato, di un premio di studio da intitolarsi "Premio dott. ing. Tuccio Portaluppi" e da conferirsi annualmente ad un laureato della Facolta' di architettura del Politecnico di Milano che abbia dato prova di speciale cultura e applicazione nel campo delle scienze e delle tecniche ausiliarie dell'architettura.  
+684. Decreto del Presidente della Repubblica 14 giugno 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, il Politecnico di Milano viene autorizzato ad accettare la donazione di n. 3000 azioni "Montecatini" di L. 700 ciascuna, intestate al Politecnico di Milano con vincolo a favore della "Borsa Luigi Franzi" disposta in suo favore con atto pubblico amministrativo in data 16 settembre 1952 dall'avv. Corrado Franzi, per onorare la memoria del compianto figlio Luigi Franzi. Con la somma complessiva dei dividendi viene istituita una borsa di studio da intitolarsi al nome "Luigi Franzi" e da conferirsi ad uno studente iscritto al Politecnico stesso, che appartenga alla Facolta' di ingegneria e, a partire dal terzo corso, sia iscritto alla Sezione di ingegneria industriale (sottosezione elettrotecnica).  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 7 dicembre 1953  
-Atti del Governo, registro n. 80, foglio n. 64. - PALLA
+Visto, il Guardasigilli: ZOLI  
+Registrato alla Corte dei conti, addi' 3 settembre 1953  
+Atti del Governo, registro n. 79, foglio n. 21. - PALLA

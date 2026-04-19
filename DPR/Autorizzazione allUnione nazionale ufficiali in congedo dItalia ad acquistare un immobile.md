@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 dicembre 1968 n. 1385
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 novembre 1956 n. 1530
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 dicembre 1968 n. 1385
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 novembre 1956 n. 1530
 ================================================================
 
 Autorizzazione all'Unione nazionale ufficiali in congedo d'Italia ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1385. Decreto del Presidente della Repubblica 6 dicembre 1968, col quale, sulla proposta del Ministro per la difesa, l'Unione nazionale ufficiali in congedo d'Italia, con sede in Roma, viene autorizzata ad acquistare, per la sede della dipendente sezione di Massa, dall'ing. Enzo Mariano, al prezzo di L. 6.200.000, l'appartamento di tre vani ed accessori, situato al primo piano del fabbricato che sorge in Massa, piazza Liberazione n. 15.  
+1530. Decreto del Presidente della Repubblica 9 novembre 1956, col quale, sulla proposta del Ministro per la difesa, l'Unione nazionale ufficiali in congedo d'Italia viene autorizzata ad acquistare, per la somma di L. 75.000.000, un immobile, sito in Roma, da adibirsi a sede centrale dell'Unione medesima.  
   
-Visto, il Guardasigilli: GAVA  
-Registrato alla Corte dei conti, addi' 29 gennaio 1969  
-Atti del Governo, registro n. 225, foglio n. 4. - GRECO
+Visto, il Guardasigilli: MORO  
+Registrato alla Corte dei conti, addi' 10 gennaio 1957  
+Atti del Governo, registro n. 103, foglio n. 21. - CARLOMAGNO

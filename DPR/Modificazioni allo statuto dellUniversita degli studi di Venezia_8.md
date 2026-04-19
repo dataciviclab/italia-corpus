@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 settembre 1968 n. 1126
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1972 n. 591
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 settembre 1968 n. 1126
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1972 n. 591
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Venezia.
 -------------------------------------------------------------------
@@ -10,11 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Venezia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Istituto universitario di economia e commercio e di lingue e letterature straniere di Venezia, approvato con [regio decreto 20 aprile 1939, n. 1029](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1029) e modificato con [regio decreto 26 marzo 1942, n. 352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-26;352), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Venezia, approvato con [regio decreto 20 aprile 1939, numero 1029](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1029) e modificato con [regio decreto 26 marzo 1942, n. 352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-26;352) e successive modificazioni;
 
-Veduto il [decreto del Presidente della Repubblica 28 maggio 1968, n. 919](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-05-28;919), con il quale la denominazione del suddetto istituto e' stata trasformata in universita' degli studi;
-
-Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -22,7 +20,7 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'istituto anzidetto;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -34,55 +32,202 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Venezia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 7. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti:
+Il terzo comma dell'art. 1 e' abrogato e sostituito dal seguente:
 
-Economia del lavoro;
+Appartengono alla facolta' di lingue e letterature straniere i seguenti seminari:
 
-Economia internazionale;
+Seminario di letteratura francese;
 
-Economia monetaria e creditizia;
+Seminario di letteratura inglese;
 
-Contabilita' nazionale;
+Seminario di letteratura tedesca;
 
-Tecnica delle politiche di vendita.
+Seminario di letteratura russa;
 
-Nel predetto corso di laurea, gli insegnamenti complementari di "Tecnica commerciale dei prodotti agricoli" e di "Tecnica delle imprese dei pubblici servizi" sono soppressi.
+Seminario di letterature iberiche;
 
-Art. 16. - Il terzo comma, relativo al corso di laurea in lingue e letterature straniere, e' abrogato e sostituito dal seguente:
+Seminario di letteratura italiana;
 
-"Lo studente che, superata la prova scritta in una sessione, non sostenga o non superi la prova orale nell'anno accademico, deve ripetere la prova scritta".
+Seminario di letteratura latina;
 
-Art. 21. - Il terzo comma, relativo al corso di laurea in lingue e letterature orientali, e' abrogato e sostituito dal seguente:
+Seminario di storia;
 
-"Lo studente che, superata la prova scritta in una sessione, non sostenga o non superi la prova orale nell'anno accademico, deve ripetere la prova scritta".
+Seminario di storia dell'arte;
+
+Seminario di letteratura araba;
+
+Seminario di letteratura cinese;
+
+Seminario di letteratura giapponese;
+
+Seminario di letteratura ebraica;
+
+Seminario di letteratura hindi;
+
+Seminario di letteratura iranica.
+
+Gli articoli 18, 19, 21, relativi all'ordinamento degli studi del corso di laurea in lingue e letterature straniere sono abrogati e sostituiti dai seguenti:
+
+Art. 18.
+
+Sono insegnamenti fondamentali:
+
+Lingua e letteratura italiana (biennale);
+
+Una lingua e letteratura straniera (quadriennale) da scegliersi tra: francese, inglese, tedesca, spagnola, russa, polacca, portoghese, cecoslovacca o qualsiasi altra il cui insegnamento sia impartito nel corso di laurea;
+
+Una seconda lingua e letteratura straniera (triennale) da scegliersi tra quelle insegnate nel corso di laurea;
+
+La filologia afferente alla lingua scelta come quadriennale (filologia romanza, filologia germanica, filologia slava);
+
+Glottologia;
+
+Storia moderna e contemporanea;
+
+Geografia, soprattutto antropica.
+
+Sono insegnamenti complementari:
+
+Lingua e letteratura latina;
+
+Storia della filosofia;
+
+Storia dell'arte;
+
+Didattica delle lingue moderne;
+
+Filosofia;
+
+Pedagogia;
+
+Lingua serbo-croata;
+
+Lingua slovena;
+
+Storia della lingua italiana;
+
+Letteratura anglo-americana;
+
+Biblioteconomia e bibliografia;
+
+Letteratura italiana moderna e contemporanea;
+
+Storia del teatro e dello spettacolo;
+
+Storia dell'Europa orientale;
+
+Storia comparata delle letterature moderne;
+
+Letteratura ispano-americana;
+
+Metodologia e didattica delle lingue straniere;
+
+Storia della lingua francese;
+
+Storia della lingua inglese;
+
+Storia della lingua tedesca;
+
+Storia delle lingue iberiche;
+
+Storia della lingua russa;
+
+Storia delle religioni;
+
+Antropologia;
+
+Etnologia;
+
+Psicologia;
+
+Psicologia dell'eta' evolutiva;
+
+Letteratura dei paesi francofoni;
+
+Lingua e letteratura catalana;
+
+Letteratura dei paesi di lingua inglese;
+
+Lingue e letterature della Jugoslavia;
+
+Lingua e letteratura bulgara;
+
+Storia della critica letteraria;
+
+Storia delle dottrine politiche;
+
+Storia delle tradizioni popolari;
+
+Storia dell'arte contemporanea;
+
+Linguistica generale;
+
+Linguistica applicata;
+
+Storia del Risorgimento;
+
+Storia del giornalismo e dell'informazione;
+
+Letteratura brasiliana;
+
+Semiologia.
+
+Oltre agli insegnamenti fondamentali, lo studente dovra' seguire, superando il relativo esame di ciascuno di essi, tre insegnamenti scelti tra le discipline insegnate nella facolta' (con esclusione di quelle pluriennali) ovvero, ma in questo caso previa approvazione dell'organo universitario competente, fra le discipline di altra facolta' della stessa sede universitaria.
+
+Gli insegnamenti complementari impartiti nella facolta' vengono resi noti tempestivamente prima dell'inizio dei corsi. Fra gli insegnamenti da impartirsi nel corso di laurea in lingue e letterature straniere devono necessariamente figurare i seguenti: lingua e letteratura latina, storia della filosofia, storia dell'arte, didattica delle lingue moderne.
+
+La facolta' scegliera' inoltre gli insegnamenti da impartirsi fra tutti gli insegnamenti previsti nell'attuale ordinamento delle altre facolta' dell'Universita' di Venezia.
+
+Lo studente deve seguire per tutti i quattro anni l'insegnamento della lingua straniera alla quale intende dedicare i suoi studi (lingua quadriennale) e per tre anni quello di un'altra lingua straniera (triennale).
+
+Art. 19. - Gli esami relativi alla lingua e letteratura straniera quadriennale consistono in quattro prove orali (una per ciascun anno di corso) ed in tre prove scritte (per il secondo, terzo e quarto anno) non vincolanti nei confronti degli orali, ed in un accertamento al termine del primo anno di corso. Il numero e il tipo delle prove scritte (dettato, traduzione dall'italiano e in italiano, composizione, accertamento, ecc.) vengono deliberati dal consiglio di facolta' a seconda delle particolari esigenze didattiche di ciascuna lingua e letteratura.
+
+Per la lingua e letteratura straniera scelta come triennale sono previste prove orali per ciascun anno di corso, e prove scritte al secondo e al terzo anno di corso.
+
+Gli esami di italiano consistono in due prove orali (una per ciascun anno di corso) e in una prova scritta, che puo' essere sostenuta in uno qualsiasi degli anni di corso.
+
+Tutti gli altri esami sono orali.
+
+L'esame di storia e quello di geografia sono afferenti alla lingua scelta come quadriennale.
+
+I competenti organi dell'Universita' potranno, con motivate deliberazioni, rendere obbligatoria una o due delle materie complementari.
+
+L'organo deliberante dell'Universita' potra' consentire, su richiesta motivata dell'interessato, che lo studente, in luogo della seconda lingua e letteratura straniera (triennale) segua l'insegnamento di una disciplina biennale e una annuale, tenuto conto delle esigenze di formazione culturale e di preparazione professionale dello studente.
+
+Gli studenti potranno sostenere l'esame della filologia afferente alla lingua scelta come quadriennale solo dopo aver superato almeno un esame della medesima lingua.
+
+L'insegnamento della letteratura anglo-americana e ispano-americana puo' essere scelto per la dissertazione scritta dell'esame di laurea.
+
+In tal caso lo studente deve seguire detto insegnamento nel secondo biennio degli studi, dopo aver seguito, rispettivamente, quello di lingua e letteratura inglese o di lingua e letteratura spagnola nel primo biennio. Lo studente deve sostenere in ambedue gli insegnamenti le prove scritte e orali previste per la disciplina quadriennale di lingua e letteratura straniera. Superati gli esami fondamentali e complementari previsti dal piano di studi, lo studente deve presentare un elaborato scritto su un argomento tra una delle discipline di cui abbia superato gli esami, nel quadro della civilta' della lingua quadriennale.
+
+Tale elaborato sara' discusso dinnanzi ad una commissione di docenti.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 7 settembre 1968
+Dato a Roma, addi' 1 agosto 1972
 
-SARAGAT
+LEONE
 
-SCAGLIA
+SCALFARO
 
 Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 2 novembre 1968 Atti del Governo, registro n. 223, foglio n. 83. - GRECO
+alla Corte dei conti, addi' 10 ottobre 1972 Atti del Governo, registro n. 251, foglio n. 111. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Istituto universitario di economia e commercio e di lingue e letterature straniere di Venezia, approvato con [regio decreto 20 aprile 1939, n. 1029](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1029) e modificato con [regio decreto 26 marzo 1942, n. 352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-26;352), e successive modificazioni;  
-Veduto il [decreto del Presidente della Repubblica 28 maggio 1968, n. 919](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-05-28;919), con il quale la denominazione del suddetto istituto e' stata trasformata in universita' degli studi;  
-Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Venezia, approvato con [regio decreto 20 aprile 1939, numero 1029](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1029) e modificato con [regio decreto 26 marzo 1942, n. 352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-26;352) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'istituto anzidetto;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -91,28 +236,111 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Venezia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 7. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti:  
-Economia del lavoro;  
-Economia internazionale;  
-Economia monetaria e creditizia;  
-Contabilita' nazionale;  
-Tecnica delle politiche di vendita.  
-Nel predetto corso di laurea, gli insegnamenti complementari di "Tecnica commerciale dei prodotti agricoli" e di "Tecnica delle imprese dei pubblici servizi" sono soppressi.  
-Art. 16. - Il terzo comma, relativo al corso di laurea in lingue e letterature straniere, e' abrogato e sostituito dal seguente:  
-"Lo studente che, superata la prova scritta in una sessione, non sostenga o non superi la prova orale nell'anno accademico, deve ripetere la prova scritta".  
-Art. 21. - Il terzo comma, relativo al corso di laurea in lingue e letterature orientali, e' abrogato e sostituito dal seguente:  
-"Lo studente che, superata la prova scritta in una sessione, non sostenga o non superi la prova orale nell'anno accademico, deve ripetere la prova scritta".  
+Il terzo comma dell'art. 1 e' abrogato e sostituito dal seguente:  
+Appartengono alla facolta' di lingue e letterature straniere i seguenti seminari:  
+Seminario di letteratura francese;  
+Seminario di letteratura inglese;  
+Seminario di letteratura tedesca;  
+Seminario di letteratura russa;  
+Seminario di letterature iberiche;  
+Seminario di letteratura italiana;  
+Seminario di letteratura latina;  
+Seminario di storia;  
+Seminario di storia dell'arte;  
+Seminario di letteratura araba;  
+Seminario di letteratura cinese;  
+Seminario di letteratura giapponese;  
+Seminario di letteratura ebraica;  
+Seminario di letteratura hindi;  
+Seminario di letteratura iranica.  
+  
+Gli articoli 18, 19, 21, relativi all'ordinamento degli studi del corso di laurea in lingue e letterature straniere sono abrogati e sostituiti dai seguenti:  
+  
+Art. 18.  
+  
+Sono insegnamenti fondamentali:  
+  
+Lingua e letteratura italiana (biennale);  
+Una lingua e letteratura straniera (quadriennale) da scegliersi tra: francese, inglese, tedesca, spagnola, russa, polacca, portoghese, cecoslovacca o qualsiasi altra il cui insegnamento sia impartito nel corso di laurea;  
+Una seconda lingua e letteratura straniera (triennale) da scegliersi tra quelle insegnate nel corso di laurea;  
+La filologia afferente alla lingua scelta come quadriennale (filologia romanza, filologia germanica, filologia slava);  
+Glottologia;  
+Storia moderna e contemporanea;  
+Geografia, soprattutto antropica.  
+  
+Sono insegnamenti complementari:  
+  
+Lingua e letteratura latina;  
+Storia della filosofia;  
+Storia dell'arte;  
+Didattica delle lingue moderne;  
+Filosofia;  
+Pedagogia;  
+Lingua serbo-croata;  
+Lingua slovena;  
+Storia della lingua italiana;  
+Letteratura anglo-americana;  
+Biblioteconomia e bibliografia;  
+Letteratura italiana moderna e contemporanea;  
+Storia del teatro e dello spettacolo;  
+Storia dell'Europa orientale;  
+Storia comparata delle letterature moderne;  
+Letteratura ispano-americana;  
+Metodologia e didattica delle lingue straniere;  
+Storia della lingua francese;  
+Storia della lingua inglese;  
+Storia della lingua tedesca;  
+Storia delle lingue iberiche;  
+Storia della lingua russa;  
+Storia delle religioni;  
+Antropologia;  
+Etnologia;  
+Psicologia;  
+Psicologia dell'eta' evolutiva;  
+Letteratura dei paesi francofoni;  
+Lingua e letteratura catalana;  
+Letteratura dei paesi di lingua inglese;  
+Lingue e letterature della Jugoslavia;  
+Lingua e letteratura bulgara;  
+Storia della critica letteraria;  
+Storia delle dottrine politiche;  
+Storia delle tradizioni popolari;  
+Storia dell'arte contemporanea;  
+Linguistica generale;  
+Linguistica applicata;  
+Storia del Risorgimento;  
+Storia del giornalismo e dell'informazione;  
+Letteratura brasiliana;  
+Semiologia.  
+  
+Oltre agli insegnamenti fondamentali, lo studente dovra' seguire, superando il relativo esame di ciascuno di essi, tre insegnamenti scelti tra le discipline insegnate nella facolta' (con esclusione di quelle pluriennali) ovvero, ma in questo caso previa approvazione dell'organo universitario competente, fra le discipline di altra facolta' della stessa sede universitaria.  
+Gli insegnamenti complementari impartiti nella facolta' vengono resi noti tempestivamente prima dell'inizio dei corsi. Fra gli insegnamenti da impartirsi nel corso di laurea in lingue e letterature straniere devono necessariamente figurare i seguenti: lingua e letteratura latina, storia della filosofia, storia dell'arte, didattica delle lingue moderne.  
+La facolta' scegliera' inoltre gli insegnamenti da impartirsi fra tutti gli insegnamenti previsti nell'attuale ordinamento delle altre facolta' dell'Universita' di Venezia.  
+Lo studente deve seguire per tutti i quattro anni l'insegnamento della lingua straniera alla quale intende dedicare i suoi studi (lingua quadriennale) e per tre anni quello di un'altra lingua straniera (triennale).  
+  
+Art. 19. - Gli esami relativi alla lingua e letteratura straniera quadriennale consistono in quattro prove orali (una per ciascun anno di corso) ed in tre prove scritte (per il secondo, terzo e quarto anno) non vincolanti nei confronti degli orali, ed in un accertamento al termine del primo anno di corso. Il numero e il tipo delle prove scritte (dettato, traduzione dall'italiano e in italiano, composizione, accertamento, ecc.) vengono deliberati dal consiglio di facolta' a seconda delle particolari esigenze didattiche di ciascuna lingua e letteratura.  
+Per la lingua e letteratura straniera scelta come triennale sono previste prove orali per ciascun anno di corso, e prove scritte al secondo e al terzo anno di corso.  
+Gli esami di italiano consistono in due prove orali (una per ciascun anno di corso) e in una prova scritta, che puo' essere sostenuta in uno qualsiasi degli anni di corso.  
+Tutti gli altri esami sono orali.  
+L'esame di storia e quello di geografia sono afferenti alla lingua scelta come quadriennale.  
+I competenti organi dell'Universita' potranno, con motivate deliberazioni, rendere obbligatoria una o due delle materie complementari.  
+L'organo deliberante dell'Universita' potra' consentire, su richiesta motivata dell'interessato, che lo studente, in luogo della seconda lingua e letteratura straniera (triennale) segua l'insegnamento di una disciplina biennale e una annuale, tenuto conto delle esigenze di formazione culturale e di preparazione professionale dello studente.  
+Gli studenti potranno sostenere l'esame della filologia afferente alla lingua scelta come quadriennale solo dopo aver superato almeno un esame della medesima lingua.  
+L'insegnamento della letteratura anglo-americana e ispano-americana puo' essere scelto per la dissertazione scritta dell'esame di laurea.  
+In tal caso lo studente deve seguire detto insegnamento nel secondo biennio degli studi, dopo aver seguito, rispettivamente, quello di lingua e letteratura inglese o di lingua e letteratura spagnola nel primo biennio. Lo studente deve sostenere in ambedue gli insegnamenti le prove scritte e orali previste per la disciplina quadriennale di lingua e letteratura straniera. Superati gli esami fondamentali e complementari previsti dal piano di studi, lo studente deve presentare un elaborato scritto su un argomento tra una delle discipline di cui abbia superato gli esami, nel quadro della civilta' della lingua quadriennale.  
+Tale elaborato sara' discusso dinnanzi ad una commissione di docenti.  
+  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 settembre 1968
+### Dato a Roma, addi' 1 agosto 1972
 
-SARAGAT SCAGLIA
+LEONE SCALFARO
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 2 novembre 1968
+Registrato alla Corte dei conti, addi' 10 ottobre 1972
 
-Atti del Governo, registro n. 223, foglio n. 83. - GRECO
+Atti del Governo, registro n. 251, foglio n. 111. - CARUSO

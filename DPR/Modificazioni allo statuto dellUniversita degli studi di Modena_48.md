@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1087
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1971 n. 1179
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1087
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1971 n. 1179
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
@@ -10,138 +10,253 @@ Modificazioni allo statuto dell'Universita' degli studi di Modena.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Veduto l'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Modena e convalidati dal Consiglio universitario nazionale nel suo parere;
+Sulla proposta del Ministro per la pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
+Decreta:
 
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Sulla
------
+Gli articoli 132, 133, 134, 135, 136, 137 relativi alla scuola di specializzazione in oncologia generale che muta la denominazione in quella di "Scuola di specializzazione in oncologia", sono abrogati e sostituiti dai seguenti:
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Scuola di specializzazione in oncologia
 
-Articolo unico
---------------
+Art. 132. - La scuola di specializzazione in oncologia conferisce il diploma di specialista in oncologia.
 
+Art. 133. - La scuola ha sede presso l'istituto di anatomia e istologia patologica dell'universita'.
+
+Art. 134. - La scuola ha la durata di tre anni.
+
+Art. 135. - Alla scuola sono ammessi i laureati in medicina e chirurgia in numero di quindici al primo corso e di venti al secondo e terzo corso.
+
+Art. 136. - Gli insegnamenti impartiti nella scuola sono:
+
+1° Anno:
+
+1) Etiopatogenesi oncologica;
+
+2) Biochimica oncologica;
+
+3) Anatomia e istologia patologica dei tumori.
+
+2° Anno:
+
+1) Oncologia sperimentale;
+
+2) Epidemiologia e statistica dei tumori.
+
+3° Anno:
+
+1) Diagnosi citologica e citologia dei tumori;
+
+2) Nozioni di diagnostica clinica e terapia dei tumori;
+
+3) Organizzazione della lotta contro i tumori.
+
+Gli insegnamenti saranno integrati dalle esercitazioni pratiche.
+
+Art. 137. - Alla fine di ogni corso, per essere ammessi ai corsi successivi, gli iscritti devono aver ottenuto le firme di frequenza del corso precedente e devono aver superato tutti gli esami delle materie svolte.
+
+Il primo comma dell'art. 164 relativo alla scuola di specializzazione in ematologia clinica e di laboratorio, e' abrogato e sostituito dal seguente:
+
+Art. 164. - "La scuola di specializzazione in ematologia clinica e di laboratorio conferisce il diploma di specialista in ematologia clinica e di laboratorio".
+
+Gli articoli 188, 189, 190, 191, 192, 193, 194 relativi alla "Scuola di specializzazione in ortopedia e traumatologia" sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in ortopedia e traumatologia
+
+Art. 188. - La scuola di specializzazione in ortopedia e traumatologia ha sede presso l'istituto di clinica ortopedica e conferisce il diploma di specialista in ortopedia e traumatologia.
+
+Art. 189. - Il corso ha la durata di tre anni. Possono essere ammessi alla scuola i laureati in medicina e chirurgia.
+
+Art. 190. - Il numero dei posti disponibili e' di dieci per ogni anno.
+
+Art. 191. - La frequenza e' obbligatoria nell'istituto sede della scuola, per un periodo di almeno nove mesi per ogni anno accademico.
+
+E' in facolta' del direttore della scuola di concedere una deroga a tale norma solo agli iscritti alla scuola che facciano parte di cliniche ortopediche che non abbiano scuola di specializzazione o che siano assistenti di ruolo in divisioni di ortopedia e traumatologia di ospedali di prima categoria. Per queste due categorie di iscritti il periodo di frequenza presso l'istituto sede della scuola puo' essere ridotto fino a non meno di un mese per ogni anno.
+
+Per nessun motivo sono ammesse abbreviazioni della durata degli studi.
+
+Art 192. Gli insegnamenti si svolgeranno con indirizzo prevalentemente pratico, dimostrativo, ma per ogni singola materia di insegnamento dovra' anche svolgersi un corso regolare di lezioni il cui numero verra' fissato annualmente dal direttore della scuola in accordo con i docenti delle singole materie.
+
+Art. 193. - Le materie di insegnamento sono:
+
+1° Anno:
+
+1) Clinica ortopedica e traumatologica (triennale);
+
+2) Patologia delle lesioni, deformita' o malattie degli organi di movimento (triennale);
+
+3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);
+
+4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);
+
+5) Anatomia e istologia dell'apparato locomotore;
+
+6) Fisiologia dell'apparato locomotore;
+
+7) Nozioni di chirurgia generale;
+
+8) Nozioni di pediatria.
+
+2° Anno:
+
+1) Clinica ortopedica e traumatologica (triennale);
+
+2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);
+
+3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);
+
+4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);
+
+5) Neuropatologia dell'apparato locomotore ed elettrodiagnostica;
+
+6) Anatomia e istologia patologica dell'apparato locomotore.
+
+3° Anno:
+
+1) Clinica ortopedica e traumatologica (triennale);
+
+2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);
+
+3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);
+
+4) Apparatoterapia ortopedica;
+
+5) Fisiochinesiterapia;
+
+6) Infortunistica.
+
+Art. 194. - Gli esami si svolgeranno per singole materie. Gli esami di clinica ortopedica e traumatologica, di tecnica operatoria cruenta ed incruenta ortopedica e traumatologica di radiodiagnostica saranno teorici e pratici.
+
+Per l'ammissione al corso successivo e' obbligatorio il superamento degli esami delle materie di ciascun corso.
+
+Per l'ammissione all'esame di diploma il candidato dovra' presentare una tesi a stampa o dattiloscritta su un argomento della specialita'.
+
+L'art. 195 relativo alla "Scuola di specializzazione in clinica dermosifilopatica" e' abrogato e sostituito dal seguente:
+
+Art. 195. - "La scuola di specializzazione in clinica dermosifilopatica conferisce il diploma di specialista in dermosifilopatia".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 18 ottobre 1971
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: COLOMBO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 30 dicembre 1971 Atti del Governo, registro n. 245, foglio n. 163. - VALENTINI
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Lo statuto dell'Universita' di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 211, 212, 213 e 214, relativi alla scuola di specializzazione in puericultura, che muta la denominazione in quella di "pediatria preventiva e puericultura", sono sostituiti dal seguente, con lo spostamento della numerazione degli articoli successivi:  
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Scuola di specializzazione in pediatria preventiva e puericultura  
+Decreta:  
   
-Art. 211. - Presso l'istituto di clinica pediatrica dell'Universita' di Modena e' istituita la scuola di specializzazione in pediatria preventiva e puericultura.  
-La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
-Alla scuola stessa possono iscriversi esclusivamente i laureati in medicina e chirurgia. La scuola si propone di conferire la preparazione teorico-pratica sia nel campo della neonatologia e patologia neonatale, sia nel campo della pratica pediatrica preventiva e sociale, con particolare riguardo alla prevalente funzione preventiva e sociale della medicina infantile sul territorio, che il pediatra e' chiamato a svolgere.  
-Essa ha la durata di quattro anni ed e' articolata in due indirizzi:  
-a) neonatologia e patologia neonatale;  
-b) pediatria sociale.  
-Dopo un primo biennio comune ai due indirizzi, e' istituito un secondo biennio differenziato per ciascuno dei due indirizzi.  
-I medici che abbiano conseguito la specializzazione in pediatria preventiva e puericultura con uno dei due indirizzi, potranno iscriversi direttamente al secondo biennio della scuola con l'altro indirizzo previsto dallo statuto.  
-Il numero massimo degli allievi che possono essere iscritti e' di sedici complessivamente per l'intera durata del corso di studi, bienni orientativi inclusi.  
-Le materie di insegnamento sono:  
-BIENNIO PROPEDEUTICO COMUNE:  
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 132, 133, 134, 135, 136, 137 relativi alla scuola di specializzazione in oncologia generale che muta la denominazione in quella di "Scuola di specializzazione in oncologia", sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in oncologia  
+  
+Art. 132. - La scuola di specializzazione in oncologia conferisce il diploma di specialista in oncologia.  
+Art. 133. - La scuola ha sede presso l'istituto di anatomia e istologia patologica dell'universita'.  
+Art. 134. - La scuola ha la durata di tre anni.  
+Art. 135. - Alla scuola sono ammessi i laureati in medicina e chirurgia in numero di quindici al primo corso e di venti al secondo e terzo corso.  
+Art. 136. - Gli insegnamenti impartiti nella scuola sono:  
 1° Anno:  
-1) anatomia e fisiologia dell'eta' evolutiva I;  
-2) elementi di ostetricia e ginecologia;  
-3) semeiotica infantile;  
-4) genetica medica;  
-5) elementi di laboratorio e biochimica clinica;  
-6) fisiologia della nutrizione;  
-7) metabolismo dell'eta' evolutiva I;  
-8) embriologia e fisiologia prenatali;  
-9) patologia infantile I;  
-10) alimentazione nell'eta' evolutiva.  
+1) Etiopatogenesi oncologica;  
+2) Biochimica oncologica;  
+3) Anatomia e istologia patologica dei tumori.  
 2° Anno:  
-1) anatomia e fisiologia dell'eta' evolutiva II;  
-2) metabolismo dell'eta' evolutiva II;  
-3) patologia infantile II;  
-4) auxologia normale;  
-5) malattie infettive e loro prevenzione;  
-6) patologia prenatale;  
-7) patologia perinatale;  
-8) elementi di clinica pediatrica;  
-9) dietologia infantile;  
-10) anatomia patologica infantile;  
-11) O.R.L. e audiologia infantili;  
-12) oculistica e ottica fisio-patologica infantili.  
-INDIRIZZO DI NEONATOLOGIA E PATOLOGIA NEONATALE:  
+1) Oncologia sperimentale;  
+2) Epidemiologia e statistica dei tumori.  
 3° Anno:  
-1) clinica della gravidanza e del parto normale;  
-2) fisiopatologia embrio-fetale;  
-3) fisiologia neonatale;  
-4) biochimica neonatale;  
-5) immunologia neonatale;  
-6) diagnostica radiologica neonatale;  
-7) tecniche di laboratorio (con riferimento alla fisiopatologia neonatale);  
-8) patologia neonatale I;  
-9) assistenza al neonato sano ed ammalato;  
-10) semeiotica neonatale.  
-4° Anno:  
-1) patologia neonatale II;  
-2) il neonato a rischio;  
-3) farmacologia neonatale;  
-4) clinica e terapia neonatali;  
-5) rianimazione e terapia intensiva del neonato;  
-6) alimentazione del neonato sano e patologico;  
-7) anatomia patologica del feto e del neonato;  
-8) patologia chirurgica neonatale;  
-9) neurologia neonatale.  
-INDIRIZZO DI PEDIATRIA SOCIALE:  
+1) Diagnosi citologica e citologia dei tumori;  
+2) Nozioni di diagnostica clinica e terapia dei tumori;  
+3) Organizzazione della lotta contro i tumori.  
+Gli insegnamenti saranno integrati dalle esercitazioni pratiche.  
+Art. 137. - Alla fine di ogni corso, per essere ammessi ai corsi successivi, gli iscritti devono aver ottenuto le firme di frequenza del corso precedente e devono aver superato tutti gli esami delle materie svolte.  
+Il primo comma dell'art. 164 relativo alla scuola di specializzazione in ematologia clinica e di laboratorio, e' abrogato e sostituito dal seguente:  
+Art. 164. - "La scuola di specializzazione in ematologia clinica e di laboratorio conferisce il diploma di specialista in ematologia clinica e di laboratorio".  
+Gli articoli 188, 189, 190, 191, 192, 193, 194 relativi alla "Scuola di specializzazione in ortopedia e traumatologia" sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in ortopedia e traumatologia  
+  
+Art. 188. - La scuola di specializzazione in ortopedia e traumatologia ha sede presso l'istituto di clinica ortopedica e conferisce il diploma di specialista in ortopedia e traumatologia.  
+Art. 189. - Il corso ha la durata di tre anni. Possono essere ammessi alla scuola i laureati in medicina e chirurgia.  
+Art. 190. - Il numero dei posti disponibili e' di dieci per ogni anno.  
+Art. 191. - La frequenza e' obbligatoria nell'istituto sede della scuola, per un periodo di almeno nove mesi per ogni anno accademico.  
+E' in facolta' del direttore della scuola di concedere una deroga a tale norma solo agli iscritti alla scuola che facciano parte di cliniche ortopediche che non abbiano scuola di specializzazione o che siano assistenti di ruolo in divisioni di ortopedia e traumatologia di ospedali di prima categoria. Per queste due categorie di iscritti il periodo di frequenza presso l'istituto sede della scuola puo' essere ridotto fino a non meno di un mese per ogni anno.  
+Per nessun motivo sono ammesse abbreviazioni della durata degli studi.  
+Art 192. Gli insegnamenti si svolgeranno con indirizzo prevalentemente pratico, dimostrativo, ma per ogni singola materia di insegnamento dovra' anche svolgersi un corso regolare di lezioni il cui numero verra' fissato annualmente dal direttore della scuola in accordo con i docenti delle singole materie.  
+Art. 193. - Le materie di insegnamento sono:  
+1° Anno:  
+1) Clinica ortopedica e traumatologica (triennale);  
+2) Patologia delle lesioni, deformita' o malattie degli organi di movimento (triennale);  
+3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);  
+4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);  
+5) Anatomia e istologia dell'apparato locomotore;  
+6) Fisiologia dell'apparato locomotore;  
+7) Nozioni di chirurgia generale;  
+8) Nozioni di pediatria.  
+2° Anno:  
+1) Clinica ortopedica e traumatologica (triennale);  
+2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);  
+3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);  
+4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);  
+5) Neuropatologia dell'apparato locomotore ed elettrodiagnostica;  
+6) Anatomia e istologia patologica dell'apparato locomotore.  
 3° Anno:  
-1) adolescentologia I;  
-2) auxologia patologica ed endocrinologia infantile;  
-3) neuropsichiatria infantile;  
-4) epidemiologia, statistica medica e biometria;  
-5) epidemiologia e prevenzione di malattie di importanza sociale nell'eta' evolutiva;  
-6) igiene dell'alimentazione;  
-7) medicina scolastica e sua legislazione;  
-8) psicologia dell'eta' evolutiva;  
-9) fisioterapia e riabilitazione;  
-10) consulenza genetica sul territorio;  
-11) patologia e clinica delle malattie di importanza sociale nell'eta' evolutiva.  
-4° Anno:  
-1) adolescentologia II;  
-2) medicina dello sport nell'eta' evolutiva;  
-3) odontologia e odontoiatria;  
-4) ortopedia e traumatologia nell'eta' evolutiva;  
-5) legislazione ed assistenza sociale per l'infanzia e l'adolescenza;  
-6) informazione sanitaria;  
-7) servizi pubblici extra-ospedalieri di sanita' e assistenza per l'eta' evolutiva;  
-8) psicopedagogia;  
-9) sociologia applicata alla popolazione infantile.  
-Le norme generali per l'iscrizione, gli esami, le tasse, ecc. sono quelle che regolano le scuole di specializzazione dell'Universita' di Modena.  
-La frequenza alle lezioni, alle esercitazioni pratiche nei reparti e' obbligatoria: gli allievi che non conseguono le attestazioni di frequenza non potranno essere ammessi a sostenere le prove d'esame.  
-Il tirocinio pratico durante il quarto anno della scuola, per l'indirizzo di neonatologia e patologia neonatale, potra' essere svolto oltreche' presso l'istituto ove la scuola ha sede, presso strutture assistenziali che abbiano, a giudizio del consiglio della scuola, caratteristiche idonee allo scopo. Tale tirocinio sara' attestato per iscritto dal responsabile di ciascuna struttura.  
-Il tirocinio pratico durante il quarto anno per l'indirizzo di pediatria sociale, e' previsto sia svolto almeno in parte, in accordo con le amministrazioni competenti (regioni, province, comuni) presso strutture assistenziali sul territorio (consultori, ecc.) che abbiano, a giudizio del consiglio della scuola, caratteristiche idonee allo scopo. Tale tirocinio sara' attestato dall'ente responsabile della struttura.  
-Alla fine di ciascun anno di corso, gli allievi, per essere ammessi agli anni successivi, debbono superare le prove d'esame teorico-pratiche sulle materie impartite durante l'anno; per le materie a corso biennale, l'esame sara' sostenuto sotto forma di colloquio, al termine di ciascun anno.  
-Superati gli esami finali, l'allievo sosterra' l'esame di diploma, che potra' essere costituito anche da una dissertazione orale su un argomento precedentemente concordato.  
-All'allievo risultato idoneo verra' rilasciato il diploma di specialista in pediatria preventiva e puericultura, con espressa menzione dell'indirizzo seguito, valido a tutti gli effetti di legge.  
+1) Clinica ortopedica e traumatologica (triennale);  
+2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);  
+3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);  
+4) Apparatoterapia ortopedica;  
+5) Fisiochinesiterapia;  
+6) Infortunistica.  
+Art. 194. - Gli esami si svolgeranno per singole materie. Gli esami di clinica ortopedica e traumatologica, di tecnica operatoria cruenta ed incruenta ortopedica e traumatologica di radiodiagnostica saranno teorici e pratici.  
+Per l'ammissione al corso successivo e' obbligatorio il superamento degli esami delle materie di ciascun corso.  
+Per l'ammissione all'esame di diploma il candidato dovra' presentare una tesi a stampa o dattiloscritta su un argomento della specialita'.  
+L'art. 195 relativo alla "Scuola di specializzazione in clinica dermosifilopatica" e' abrogato e sostituito dal seguente:  
+Art. 195. - "La scuola di specializzazione in clinica dermosifilopatica conferisce il diploma di specialista in dermosifilopatia".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 18 ottobre 1971
 
-PERTINI BODRATO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 10 marzo 1982
+Registrato alla Corte dei conti, addi' 30 dicembre 1971
 
-Registro n. 38 Istruzione, foglio n. 262
+Atti del Governo, registro n. 245, foglio n. 163. - VALENTINI

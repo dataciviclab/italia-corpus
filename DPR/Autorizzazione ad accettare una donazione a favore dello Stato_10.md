@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1984 n. 1190
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 ottobre 1974 n. 728
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1984 n. 1190
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 ottobre 1974 n. 728
 ==============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
@@ -10,11 +10,10 @@ Autorizzazione ad accettare una donazione a favore dello Stato.
 Art. 1
 ------
 
-DECRETO 7 giugno 1984, n. 1190.   
 N.
 
-1190. Decreto del Presidente della Repubblica 7 giugno 1984, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Dumenza (Varese), con atto 18 giugno 1976, n. 19305 di repertorio, a rogito dott. Claudia Pisciotta, notaio in Luino (Varese), consistente in un appezzamento di terreno di mq 430 sito nel comune di Dumenza, su cui e' stato costruito un fabbricato adibito a posto di vigilanza della Guardia di finanza.   
+728. Decreto del Presidente della Repubblica 5 ottobre 1974, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Tocco Caudio (Benevento), con atto 27 aprile 1972, n. 63152 di repertorio, a rogito notaio Mario Iannella, del lotto di terreno contraddistinto col n. 50, della estensione di mq 530, sito in localita' "Coppole" del monte Taburno, da destinare all'installazione di un ponte ripetitore della rete radiotelefonica dell'Arma dei carabinieri.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 26 ottobre 1984   
-Registro n. 59 Finanze, foglio n. 288
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 16 gennaio 1975  
+Atti di Governo, registro n. 7, foglio n. 109

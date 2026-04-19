@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1956 n. 1156
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 888
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1956 n. 1156
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 888
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -10,214 +10,283 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con i [regi decreti 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-10-05;1847); [26 ottobre 1940, n. 2058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2058); [16 marzo 1942, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-03-16;323); [24 ottobre 1942, n. 1597, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1597) [23 settembre 1949, n. 932](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;932); [31 ottobre 1950, n. 1308](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1308); [11 aprile 1951, n. 953](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;953); [25 luglio 1952, n. 1501](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1501); [26 ottobre 1952, n. 4529](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4529); [10 febbraio 1953, n. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;384); [30 luglio 1953, n. 715](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;715); [24 settembre 1954, n. 1205](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-24;1205); [14 marzo 1955, n. 345](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-03-14;345); [24 luglio 1955, n. 798](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-24;798) e [28 giugno 1956, n. 891](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-06-28;891);
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73); e successive modificazioni;
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 44. - Agli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:
+Gli articoli da 151 a 158, relativi alla facolta' di farmacia, sono abrogati e sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi:
 
-1) Lingua e letteratura olandese e fiamminga;
+FACOLTA' DI FARMACIA
 
-2) Storia della letteratura nord-americana;
+Art. 151. - La facolta' di farmacia conferisce la laurea in farmacia e in chimica e tecnologia farmaceutiche.
 
-3) Filologia medioevale ed umanistica;
+Art. 152. - La durata del corso degli studi per la laurea in farmacia e' di quattro anni. I titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge.
 
-4) Storia della pedagogia;
+Sono insegnamenti fondamentali:
 
-5) Storia della letteratura centro e sud-americana.
+1) chimica generale ed inorganica;
 
-Art. 79. - Agli insegnamenti complementari del corso di laurea in chimica sono aggiunti i seguenti:
+2) chimica organica;
 
-a) indirizzo organico-biologico:
+3) chimica farmaceutica e tossicologica (biennale);
 
-1) Storia della chimica;
+4) esercitazioni di chimica farmaceutica e tossicologica (triennale);
 
-2) Chimica macromolecolare (contrassegnato con asterisco);
+5) chimica biologica;
 
-3) Chimica organica superiore (contrassegnato con asterisco);
+6) fisica;
 
-4) Esercitazioni di tecniche e sintesi speciali organiche.
+7) farmacologia e farmacognosia;
 
-b) indirizzo inorganico-chimico-fisico:
+8) anatomia umana;
 
-1) Complementi di matematiche (corso speciale per chimici);
+9) fisiologia generale (biennale);
 
-2) Chimica fisica tecnica (contrassegnato con asterisco);
+10) botanica farmaceutica;
 
-3) Storia della chimica.
+11) tecnica e legislazione farmaceutica.
 
-Art. 82. - Agli insegnamenti complementari del corso di laurea in chimica industriale sono aggiunti i seguenti:
+Sono insegnamenti complementari:
 
-1) Chimica nucleare con esercitazioni (contrassegnato con asterisco);
+1) biochimica applicata;
 
-2) Chimica macromolecolare;
+2) biofarmacia;
 
-3) Chimica degli idrocarburi naturali e derivati;
+3) biologia molecolare;
 
-4) Chimica fisica tecnica (contrassegnato con asterisco);
+4) chimica analitica;
 
-5) Chimica analitica applicata.
+5) chimica degli alimenti;
 
-Nell'elenco degli insegnamenti medesimi e' soppresso l'insegnamento di "radiochimica".
+6) chimica biofarmaceutica;
 
-Art. 88. - Agli insegnamenti complementari del corso di laurea in scienze matematiche sono aggiunti i seguenti:
+7) chimica clinica;
 
-1) Matematiche superiori;
+8) chimica dei prodotti cosmetici;
 
-2) Matematica attuariale e tecnica delle assicurazioni libere silla vita umana;
+9) chimica farmaceutica applicata;
 
-3) Calcoli numerici e grafici;
+10) chimica fisica;
 
-4) Storia delle matematiche.
+11) chimica terapeutica;
 
-Art. 91. - Agli insegnamenti complementari del corso di laurea in matematica e fisica sono aggiunti i seguenti:
+12) chimica tossicologica industriale;
 
-1) Matematiche elementari dal punto di vista superiore;
+13) dietofarmacia;
 
-2) Storia delle matematiche;
+14) enzimologia;
 
-3) Algebra superiore.
+15) erboristeria;
 
-Art. 94. - Agli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di "vulcanologia".
+16) farmacia industriale;.
 
-Art. 100. - Agli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti:
+17) farmacia veterinaria;
 
-15) Geologia degli idrocarburi;
+18) farmacologia applicata;
 
-16) Cristallochimica;
+19) fitofarmacia;
 
-17) Geologia regionale.
+20) fitoterapia;
 
-Art. 116. - Agli insegnamenti complementari del corso di laurea in farmacia sono aggiunti i seguenti:
+21) idrologia chimica;
 
-1) Microchimica;
+22) igiene;
 
-2) Chimica farmaceutica applicata.
+23) impianti e macchinario farmaceutico;
 
-Art. 125. - Nell'elenco degli insegnamenti complementari del triennio di applicazione del corso di laurea in ingegneria e' soppresso l'insegnamento di "organizzazione industriale".
+24) organizzazione e amministrazione dell'azienda farmaceutica;
 
-Agli insegnamenti medesimi sono aggiunti i seguenti:
+25) istituzioni di matematiche;
 
-38) Organizzazione ed economia industriale;
+26) istituzioni di patologia generale;
 
-39) Tecnica della circolazione stradale;
+27) microbiologia;
 
-40) Idromeccanica superiore;
+28) microchimica;
 
-41) ingegneria sanitaria;
+29) saggi e dosaggi farmacologici.
 
-42) Termodinamica applicata;
+Il corso biennale di chimica farmaceutica e tossicologica comporta due distinti esami alla fine di ciascun anno del biennio.
 
-43) Impianti nucleari.
+Il corso triennale di esercitazioni di chimica farmaceutica e tossicologica comporta tre distinti esami alla fine di ciascun anno di corso. Non e' consentita la frequenza a piu' di un corso di esercitazioni di chimica farmaceutica e tossicologica nello stesso anno accademico.
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Art. 153. - Le esercitazioni, che formano parte integrante del corso, sono obbligatorie per gli studenti che frequentano il corso stesso.
 
-Dato a Roma, addi' 24 settembre 1956
+Al termine di ogni corso integrato da esercitazioni i professori possono accertarsi del profitto in queste ultime mediante colloqui e prove.
 
-GRONCHI
+Art. 154. - Sono ammessi al corso di esercitazioni di chimica farmaceutica e tossicologica I gli studenti che abbiano superato l'esame di chimica generale ed inorganica o, in mancanza di questo, che siano risultati idonei in una preliminare prova di accertamento.
 
-ROSSI
+Nel sostenere gli esami, lo studente dovra' rispettare le seguenti precedenze:
 
-Visto, il Guardasigilli: MORO
+Parte di provvedimento in formato grafico
+
+La facolta' delibera sui criteri di propedeuticita' da osservare per gli insegnamenti complementari.
+
+Art. 155. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in quattro almeno da lui scelti fra i complementari, ed inoltre deve aver compiuto durante il terzo o quarto anno un periodo semestrale di pratica, documentata, presso una farmacia autorizzata.
+
+L'esame di laurea consiste in un colloquio di cultura e nella discussione di una dissertazione scritta di indole sperimentale o teorica su un argomento attinente ad uno degli insegnamenti della facolta', approvato dal professore della materia.
+
+La facolta' stabilisce il contenuto del colloquio di cultura e le modalita' di discussione della tesi.
+
+L'art. 160, relativo al seminario di scienze farmaceutiche, e' abrogato e sostituito dal seguente:
+
+Seminario di scienze farmaceutiche
+
+Art. 160. - Il seminario di scienze farmaceutiche ha lo scopo di promuovere studi e ricerche nel campo delle discipline farmaceutiche pure ed applicate.
+
+L'attivita' del seminario si svolge per mezzo di conferenze, comunicazioni scientifiche, discussioni, dimostrazioni, viaggi di istruzione, corsi di preparazione e di aggiornamento e di quanto altro possa servire allo scopo su indicato.
+
+Art. 161. - Del seminario fanno parte tutti i docenti della facolta' di farmacia.
+
+Il consiglio del seminario e' formato da un direttore e quattro consiglieri e viene nominato dal rettore su proposta del consiglio della facolta' di farmacia. Il consiglio resta in carica per un triennio.
+
+Art. 162. - L'iscrizione al seminario e' annuale ed e' obbligatoria per gli studenti del 3° e 4° corso della laurea in farmacia e del secondo triennio della laurea in chimica e tecnologia farmaceutiche.
+
+Possono iscriversi anche laureati e laureandi fuori corso e anche gli studenti di altre facolta' (nonche' laureati e diplomati).
+
+Art. 163. - A tutti gli iscritti e' fatto obbligo di versare all'atto della iscrizione i contributi che vengono stabiliti dal consiglio di amministrazione su proposta del senato accademico, udito il consiglio del seminario.
+
+Art. 164. - Agli iscritti al seminario puo' essere rilasciato un certificato.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto
+
+nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1978
+
+PERTINI
+
+PEDINI
+
+Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 22 ottobre 1956 Atti del Governo, registro n. 101, foglio n. 59. - CARLOMAGNO
+alla Corte dei conti, addi' 28 dicembre 1978 Registro n. 135 Istruzione, foglio n. 302
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con i [regi decreti 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-10-05;1847); [26 ottobre 1940, n. 2058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2058); [16 marzo 1942, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-03-16;323); [24 ottobre 1942, n. 1597, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1597) [23 settembre 1949, n. 932](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;932); [31 ottobre 1950, n. 1308](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1308); [11 aprile 1951, n. 953](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;953); [25 luglio 1952, n. 1501](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1501); [26 ottobre 1952, n. 4529](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4529); [10 febbraio 1953, n. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;384); [30 luglio 1953, n. 715](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;715); [24 settembre 1954, n. 1205](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-24;1205); [14 marzo 1955, n. 345](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-03-14;345); [24 luglio 1955, n. 798](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-24;798) e [28 giugno 1956, n. 891](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-06-28;891);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73); e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli da 151 a 158, relativi alla facolta' di farmacia, sono abrogati e sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi:   
   
-Art. 44. - Agli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
-1) Lingua e letteratura olandese e fiamminga;  
-2) Storia della letteratura nord-americana;  
-3) Filologia medioevale ed umanistica;  
-4) Storia della pedagogia;  
-5) Storia della letteratura centro e sud-americana.  
-Art. 79. - Agli insegnamenti complementari del corso di laurea in chimica sono aggiunti i seguenti:  
-a) indirizzo organico-biologico:  
-1) Storia della chimica;  
-2) Chimica macromolecolare (contrassegnato con asterisco);  
-3) Chimica organica superiore (contrassegnato con asterisco);  
-4) Esercitazioni di tecniche e sintesi speciali organiche.  
-b) indirizzo inorganico-chimico-fisico:  
-1) Complementi di matematiche (corso speciale per chimici);  
-2) Chimica fisica tecnica (contrassegnato con asterisco);  
-3) Storia della chimica.  
-Art. 82. - Agli insegnamenti complementari del corso di laurea in chimica industriale sono aggiunti i seguenti:  
-1) Chimica nucleare con esercitazioni (contrassegnato con asterisco);  
-2) Chimica macromolecolare;  
-3) Chimica degli idrocarburi naturali e derivati;  
-4) Chimica fisica tecnica (contrassegnato con asterisco);  
-5) Chimica analitica applicata.  
-Nell'elenco degli insegnamenti medesimi e' soppresso l'insegnamento di "radiochimica".  
-Art. 88. - Agli insegnamenti complementari del corso di laurea in scienze matematiche sono aggiunti i seguenti:  
-1) Matematiche superiori;  
-2) Matematica attuariale e tecnica delle assicurazioni libere silla vita umana;  
-3) Calcoli numerici e grafici;  
-4) Storia delle matematiche.  
-Art. 91. - Agli insegnamenti complementari del corso di laurea in matematica e fisica sono aggiunti i seguenti:  
-1) Matematiche elementari dal punto di vista superiore;  
-2) Storia delle matematiche;  
-3) Algebra superiore.  
-Art. 94. - Agli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di "vulcanologia".  
-Art. 100. - Agli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti:  
-15) Geologia degli idrocarburi;  
-16) Cristallochimica;  
-17) Geologia regionale.  
-Art. 116. - Agli insegnamenti complementari del corso di laurea in farmacia sono aggiunti i seguenti:  
-1) Microchimica;  
-2) Chimica farmaceutica applicata.  
-Art. 125. - Nell'elenco degli insegnamenti complementari del triennio di applicazione del corso di laurea in ingegneria e' soppresso l'insegnamento di "organizzazione industriale".  
-Agli insegnamenti medesimi sono aggiunti i seguenti:  
-38) Organizzazione ed economia industriale;  
-39) Tecnica della circolazione stradale;  
-40) Idromeccanica superiore;  
-41) ingegneria sanitaria;  
-42) Termodinamica applicata;  
-43) Impianti nucleari.  
+FACOLTA' DI FARMACIA   
+  
+Art. 151. - La facolta' di farmacia conferisce la laurea in farmacia e in chimica e tecnologia farmaceutiche.   
+Art. 152. - La durata del corso degli studi per la laurea in farmacia e' di quattro anni. I titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge.   
+Sono insegnamenti fondamentali:   
+1) chimica generale ed inorganica;   
+2) chimica organica;   
+3) chimica farmaceutica e tossicologica (biennale);   
+4) esercitazioni di chimica farmaceutica e tossicologica (triennale);   
+5) chimica biologica;   
+6) fisica;   
+7) farmacologia e farmacognosia;   
+8) anatomia umana;   
+9) fisiologia generale (biennale);   
+10) botanica farmaceutica;   
+11) tecnica e legislazione farmaceutica.   
+Sono insegnamenti complementari:   
+1) biochimica applicata;   
+2) biofarmacia;   
+3) biologia molecolare;   
+4) chimica analitica;   
+5) chimica degli alimenti;   
+6) chimica biofarmaceutica;   
+7) chimica clinica;   
+8) chimica dei prodotti cosmetici;   
+9) chimica farmaceutica applicata;   
+10) chimica fisica;   
+11) chimica terapeutica;   
+12) chimica tossicologica industriale;   
+13) dietofarmacia;   
+14) enzimologia;   
+15) erboristeria;   
+16) farmacia industriale;.   
+17) farmacia veterinaria;   
+18) farmacologia applicata;   
+19) fitofarmacia;   
+20) fitoterapia;   
+21) idrologia chimica;   
+22) igiene;   
+23) impianti e macchinario farmaceutico;   
+24) organizzazione e amministrazione dell'azienda farmaceutica;   
+25) istituzioni di matematiche;   
+26) istituzioni di patologia generale;   
+27) microbiologia;   
+28) microchimica;   
+29) saggi e dosaggi farmacologici.   
+Il corso biennale di chimica farmaceutica e tossicologica comporta due distinti esami alla fine di ciascun anno del biennio.   
+Il corso triennale di esercitazioni di chimica farmaceutica e tossicologica comporta tre distinti esami alla fine di ciascun anno di corso. Non e' consentita la frequenza a piu' di un corso di esercitazioni di chimica farmaceutica e tossicologica nello stesso anno accademico.   
+Art. 153. - Le esercitazioni, che formano parte integrante del corso, sono obbligatorie per gli studenti che frequentano il corso stesso.   
+Al termine di ogni corso integrato da esercitazioni i professori possono accertarsi del profitto in queste ultime mediante colloqui e prove.   
+Art. 154. - Sono ammessi al corso di esercitazioni di chimica farmaceutica e tossicologica I gli studenti che abbiano superato l'esame di chimica generale ed inorganica o, in mancanza di questo, che siano risultati idonei in una preliminare prova di accertamento.   
+Nel sostenere gli esami, lo studente dovra' rispettare le seguenti precedenze:   
+  
+  
+Parte di provvedimento in formato grafico  
+  
+  
+La facolta' delibera sui criteri di propedeuticita' da osservare per gli insegnamenti complementari.   
+Art. 155. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in quattro almeno da lui scelti fra i complementari, ed inoltre deve aver compiuto durante il terzo o quarto anno un periodo semestrale di pratica, documentata, presso una farmacia autorizzata.   
+L'esame di laurea consiste in un colloquio di cultura e nella discussione di una dissertazione scritta di indole sperimentale o teorica su un argomento attinente ad uno degli insegnamenti della facolta', approvato dal professore della materia.   
+La facolta' stabilisce il contenuto del colloquio di cultura e le modalita' di discussione della tesi.   
+L'art. 160, relativo al seminario di scienze farmaceutiche, e' abrogato e sostituito dal seguente:   
+  
+Seminario di scienze farmaceutiche   
+  
+Art. 160. - Il seminario di scienze farmaceutiche ha lo scopo di promuovere studi e ricerche nel campo delle discipline farmaceutiche pure ed applicate.   
+L'attivita' del seminario si svolge per mezzo di conferenze, comunicazioni scientifiche, discussioni, dimostrazioni, viaggi di istruzione, corsi di preparazione e di aggiornamento e di quanto altro possa servire allo scopo su indicato.   
+Art. 161. - Del seminario fanno parte tutti i docenti della facolta' di farmacia.   
+Il consiglio del seminario e' formato da un direttore e quattro consiglieri e viene nominato dal rettore su proposta del consiglio della facolta' di farmacia. Il consiglio resta in carica per un triennio.   
+Art. 162. - L'iscrizione al seminario e' annuale ed e' obbligatoria per gli studenti del 3° e 4° corso della laurea in farmacia e del secondo triennio della laurea in chimica e tecnologia farmaceutiche.   
+Possono iscriversi anche laureati e laureandi fuori corso e anche gli studenti di altre facolta' (nonche' laureati e diplomati).   
+Art. 163. - A tutti gli iscritti e' fatto obbligo di versare all'atto della iscrizione i contributi che vengono stabiliti dal consiglio di amministrazione su proposta del senato accademico, udito il consiglio del seminario.   
+Art. 164. - Agli iscritti al seminario puo' essere rilasciato un certificato.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto
+------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 settembre 1956
+### nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-GRONCHI ROSSI
+Dato a Roma, addi' 31 ottobre 1978 PERTINI PEDINI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 22 ottobre 1956
+Registrato alla Corte dei conti, addi' 28 dicembre 1978
 
-Atti del Governo, registro n. 101, foglio n. 59. - CARLOMAGNO
+Registro n. 135 Istruzione, foglio n. 302

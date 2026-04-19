@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1964 n. 1054
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1963 n. 1740
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1964 n. 1054
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1963 n. 1740
+===============================================================
 
 Autorizzazione all'Ente Nazionale Assistenza Lavoratori (E.N.A.L.) ad acquistare un immobile.
 ---------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1054. Decreto del Presidente della Repubblica 13 agosto 1964, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Ente Nazionale Assistenza Lavoratori (E.N.A.L.), viene autorizzato ad acquistare un immobile costituito dalla casa dell'ex fascio di Sovicille (Siena) al prezzo di L. 1.800.000 per essere destinato a sede del circolo ricreativo per l'assistenza dei lavoratori del luogo.  
+1740. Decreto del Presidente della Repubblica 22 ottobre 1963, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Ente Nazionale Assistenza Lavoratori (E.N.A.L.), viene autorizzato ad acquistare dai signori Isella Francesco, Mapelli Enrico e Rigamonti Giovanni, per il prezzo di L. 450.000, una casa per abitazione, sita in frazione Verdego' del comune di Barzago (Como).  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 14 ottobre 1964  
-Atti del Governo, registro n. 187, foglio n. 126. - VILLA
+Visto, il Guardasigilli: BOSCO  
+Registrato alla Corte dei conti, addi' 28 novembre 1963  
+Atti del Governo, registro n. 177, foglio n. 56. - VILLA

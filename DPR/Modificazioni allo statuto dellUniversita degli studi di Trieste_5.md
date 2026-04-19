@@ -1,135 +1,11 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1972 n. 846
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1964 n. 904
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1972 n. 846
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1964 n. 904
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Dopo l'art. 124 sono istituiti i seguenti nuovi articoli relativi alla istituzione della scuola (diretta a fini speciali) di preparazione per tecnici di laboratorio di igiene e microbiologia.
-
-Art. 125. - E' istituita presso l'istituto di igiene dell'Universita' di Trieste una "Scuola di preparazione per tecnici di laboratorio biologico" che ha lo scopo di preparare adeguatamente personale tecnico in grado di collaborare nella ricerca scientifica e nella indagine sperimentale. La scuola ha indirizzo teorico pratico.
-
-La durata del corso degli studi della scuola di preparazione per tecnici di laboratorio biologico e' di due anni accademici.
-
-E' titolo di ammissione il diploma di scuola media unica, il diploma di avviamento professionale, commerciale o industriale o agrario o ad altro indirizzo.
-
-Al primo anno della scuola si accede previo esame orale di cultura generale sostenuto davanti ad una commissione, composta dal direttore della scuola e da due membri designati dal consiglio della facolta' di medicina e chirurgia e da una prova di lettura di un testo scientifico in lingua francese. L'esame di ammissione avra' luogo entro la prima quindicina del mese di ottobre di ciascun anno, in un giorno stabilito dalla facolta' di medicina e chirurgia, su proposta del direttore della scuola.
-
-Il numero massimo dei partecipanti viene determinato anno per anno dal rettore, su proposta del direttore della scuola.
-
-Le domande di iscrizione devono essere corredate dai seguenti documenti:
-
-1) certificato di nascita in carta legale debitamente legalizzato per i nati fuori della giurisdizione di Trieste;
-
-2) titolo di studio di scuola media inferiore;
-
-3) tre fotografie di cui una autenticata;
-
-4) quietanza del pagamento della tassa;
-
-5) domanda di iscrizione al corso in carta legale.
-
-Art. 126. - Le tasse e le soprattasse sono le seguenti:
-
-Tassa di immatricolazione. . . . . . . . . . . . . . . . . . L. 1.500 Tassa di iscrizione. . . . . . . . . . . . . . . . . . . . . L. 5.000 Libretto . . . . . . . . . . . . . . . . . . . . . . . . . . L. 1.500 Soprattassa esami. . . . . . . . . . . . . . . . . . . . . . L. 3.000 Prestazioni segreteria . . . . . . . . . . . . . . . . . . . L. 3.000 Contributi di laboratorio. . . . . . . . . . . . . . . . . . L. 5.000
-
-Art. 127. - Il direttore della scuola e' il direttore dell'istituto di igiene dell'Universita' di Trieste. La scuola e' sotto la vigilanza della facolta' di medicina e chirurgia. Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' di medicina e chirurgia, e nominati dal rettore. Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli, aiuti ed assistenti della facolta' di medicina e chirurgia o di altra facolta' dell'ateneo o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.
-
-Art. 128. - Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-Organizzazioni di laboratorio;
-
-Anatomia e fisiologia umana e comparata;
-
-Tecnica istologica;
-
-Batteriologia e sierologia (I);
-
-Chimica (I).
-
-2° Anno:
-
-Batteriologia e sierologia (II);
-
-Chimica (II);
-
-Parassitologia;
-
-Virologia;
-
-Fisica tecnica.
-
-Inoltre gli allievi devono compiere un internato nell'istituto di igiene della durata di due anni, compiendo un tirocinio di quattro mesi per ciascuno dei reparti.
-
-I programmi di insegnamento e gli orari vengono predisposti dal direttore della scuola ed approvati dal consiglio della facolta' di medicina e chirurgia.
-
-La sorveglianza degli iscritti per quanto riguarda le attivita' di laboratorio spetta al direttore della scuola.
-
-La frequenza e' obbligatoria. Le assenze ingiustificate comportano l'esclusione dal corso.
-
-Per essere ammessi a frequentare il secondo anno gli allievi devono aver sostenuto tutti gli esami del primo corso.
-
-Nel caso in cui gli allievi non abbiano superato gli esami prescritti, essi rimarranno nella posizione di fuori corso fino a quando non avranno assolto gli obblighi di cui sopra.
-
-Per essere ammessi a sostenere l'esame di diploma, gli allievi dovranno aver seguito i corsi, superato gli esami in tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole tutte le esercitazioni pratiche previste.
-
-Le commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia, su proposta del direttore della scuola.
-
-Le commissioni sono composte di tre membri: dal professore ufficiale della materia, presidente; da un professore ufficiale di materia affine e da un libero docente o cultore della materia. Ogni commissario ha a disposizione dieci punti.
-
-L'esame di diploma consiste in un esame orale sui temi trattati durante il corso ed in una prova pratica di laboratorio stabilita dalla commissione esaminatrice.
-
-L'esame di diploma viene sostenuto davanti ad una commissione di cinque membri scelti tra i docenti della scuola, nominata dal presidente della facolta' di medicina e chirurgia su proposta del direttore della scuola.
-
-Ogni commissario ha a disposizione dieci punti.
-
-I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola; ma se al secondo esame non sia loro riconosciuta una idoneita' saranno senz'altro esclusi da ulteriori prove.
-
-Agli allievi che avranno superato l'esame finale viene rilasciato un diploma di "Tecnico di laboratorio biologico".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto, nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' (atto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 28 ottobre 1972
-
-LEONE
-
-SCALFARO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 21 dicembre 1972 Atti di Governo, registro n. 254, foglio n. 41. - CARUSO
 
 Art. 1
 ------
@@ -137,11 +13,11 @@ Art. 1
  IL PRESIDENTE DELLA REPUBBLICA  
   
 Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -150,60 +26,114 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 124 sono istituiti i seguenti nuovi articoli relativi alla istituzione della scuola (diretta a fini speciali) di preparazione per tecnici di laboratorio di igiene e microbiologia.  
-Art. 125. - E' istituita presso l'istituto di igiene dell'Universita' di Trieste una "Scuola di preparazione per tecnici di laboratorio biologico" che ha lo scopo di preparare adeguatamente personale tecnico in grado di collaborare nella ricerca scientifica e nella indagine sperimentale. La scuola ha indirizzo teorico pratico.  
-La durata del corso degli studi della scuola di preparazione per tecnici di laboratorio biologico e' di due anni accademici.  
-E' titolo di ammissione il diploma di scuola media unica, il diploma di avviamento professionale, commerciale o industriale o agrario o ad altro indirizzo.  
-Al primo anno della scuola si accede previo esame orale di cultura generale sostenuto davanti ad una commissione, composta dal direttore della scuola e da due membri designati dal consiglio della facolta' di medicina e chirurgia e da una prova di lettura di un testo scientifico in lingua francese. L'esame di ammissione avra' luogo entro la prima quindicina del mese di ottobre di ciascun anno, in un giorno stabilito dalla facolta' di medicina e chirurgia, su proposta del direttore della scuola.  
-Il numero massimo dei partecipanti viene determinato anno per anno dal rettore, su proposta del direttore della scuola.  
-Le domande di iscrizione devono essere corredate dai seguenti documenti:  
-1) certificato di nascita in carta legale debitamente legalizzato per i nati fuori della giurisdizione di Trieste;  
-2) titolo di studio di scuola media inferiore;  
-3) tre fotografie di cui una autenticata;  
-4) quietanza del pagamento della tassa;  
-5) domanda di iscrizione al corso in carta legale.  
-Art. 126. - Le tasse e le soprattasse sono le seguenti:  
+Art. 56, e' abrogato e sostituito dal seguente:  
+La Facolta' di scienze matematiche, fisiche e naturali conferisce la laurea in:  
+Chimica;  
+Fisica;  
+Matematica Scienze naturali;  
+Scienze biologiche;  
+Scienze geologiche.  
+Dopo l'art. 61, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione dei corsi di laurea in Scienze biologiche ed in Scienze geologiche annessi alla Facolta' di scienze matematiche, fisiche e naturali con il conseguente spostamento della successiva numerazione.  
   
-Tassa di immatricolazione. . . . . . . . . . . . . . . . . . L. 1.500 Tassa di iscrizione. . . . . . . . . . . . . . . . . . . . . L. 5.000 Libretto . . . . . . . . . . . . . . . . . . . . . . . . . . L. 1.500 Soprattassa esami. . . . . . . . . . . . . . . . . . . . . . L. 3.000 Prestazioni segreteria . . . . . . . . . . . . . . . . . . . L. 3.000 Contributi di laboratorio. . . . . . . . . . . . . . . . . . L. 5.000   
-Art. 127. - Il direttore della scuola e' il direttore dell'istituto di igiene dell'Universita' di Trieste. La scuola e' sotto la vigilanza della facolta' di medicina e chirurgia. Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' di medicina e chirurgia, e nominati dal rettore. Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli, aiuti ed assistenti della facolta' di medicina e chirurgia o di altra facolta' dell'ateneo o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.  
-Art. 128. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-Organizzazioni di laboratorio;  
-Anatomia e fisiologia umana e comparata;  
-Tecnica istologica;  
-Batteriologia e sierologia (I);  
-Chimica (I).  
-2° Anno:  
-Batteriologia e sierologia (II);  
-Chimica (II);  
-Parassitologia;  
-Virologia;  
-Fisica tecnica.  
-Inoltre gli allievi devono compiere un internato nell'istituto di igiene della durata di due anni, compiendo un tirocinio di quattro mesi per ciascuno dei reparti.  
-I programmi di insegnamento e gli orari vengono predisposti dal direttore della scuola ed approvati dal consiglio della facolta' di medicina e chirurgia.  
-La sorveglianza degli iscritti per quanto riguarda le attivita' di laboratorio spetta al direttore della scuola.  
-La frequenza e' obbligatoria. Le assenze ingiustificate comportano l'esclusione dal corso.  
-Per essere ammessi a frequentare il secondo anno gli allievi devono aver sostenuto tutti gli esami del primo corso.  
-Nel caso in cui gli allievi non abbiano superato gli esami prescritti, essi rimarranno nella posizione di fuori corso fino a quando non avranno assolto gli obblighi di cui sopra.  
-Per essere ammessi a sostenere l'esame di diploma, gli allievi dovranno aver seguito i corsi, superato gli esami in tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole tutte le esercitazioni pratiche previste.  
-Le commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia, su proposta del direttore della scuola.  
-Le commissioni sono composte di tre membri: dal professore ufficiale della materia, presidente; da un professore ufficiale di materia affine e da un libero docente o cultore della materia. Ogni commissario ha a disposizione dieci punti.  
-L'esame di diploma consiste in un esame orale sui temi trattati durante il corso ed in una prova pratica di laboratorio stabilita dalla commissione esaminatrice.  
-L'esame di diploma viene sostenuto davanti ad una commissione di cinque membri scelti tra i docenti della scuola, nominata dal presidente della facolta' di medicina e chirurgia su proposta del direttore della scuola.  
-Ogni commissario ha a disposizione dieci punti.  
-I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola; ma se al secondo esame non sia loro riconosciuta una idoneita' saranno senz'altro esclusi da ulteriori prove.  
-Agli allievi che avranno superato l'esame finale viene rilasciato un diploma di "Tecnico di laboratorio biologico".  
+Laurea in scienze biologiche  
+  
+Art. 62. - La durata del corso di studi per la laurea in Scienze biologiche e' di quattro anni.  
+Sono insegnamenti fondamentali:  
+1) Istituzioni di matematiche;  
+2) Fisica;  
+3) Chimica generale ed inorganica;  
+4) Chimica organica;  
+5) Botanica (biennale);  
+6) Zoologia (biennale)  
+7) Anatomia comparata;  
+8) Anatomia umana;  
+9) Istologia ed embriologia;  
+10) Fisiologia generale (biennale);  
+11) Chimica biologica;  
+12) Igiene.  
+Sono insegnamenti complementari:  
+1) Chimica fisica;  
+2) Biologia generale;  
+3) Antropologia;  
+4) Biologia delle razze umane;  
+5) Etnologia;  
+6) Genetica;  
+7) Zoocolture (bachi, api, avi, coniglicoltura);  
+8) Idrologia e pescicoltura;  
+9) Patologia generale;  
+10) Microbiologia;  
+11) Parassitologia;  
+12) Entomologia agraria;  
+13) Fisiologia vegetale;  
+14) Geologia;  
+15) Paleontologia;  
+16) Statistica;  
+17) Scienza dell'alimentazione;  
+18) Biologia marina;  
+19) Biochimica applicata;  
+20) Citologia;  
+21) Embriologia sperimentale;  
+22) Fitogeografia;  
+23) Ecologia vegetale.  
+Gli insegnamenti biennali di "Botanica" e di "Zoologia" comprendono tanto la parte generale quanto quella sistematica.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e in quattro almeno da lui scelti fra i complementari.  
+  
+Laurea in Scienze geologiche  
+  
+Art. 63. - La durata del corso di studi per la laurea in Scienze geologiche e' di quattro anni.  
+Sono insegnamenti fondamentali:  
+1) Istituzioni di matematiche;  
+2) Fisica sperimentale (biennale);  
+3) Chimica generale ed inorganica con elementi di organica;  
+4) Mineralogia;  
+5) Geologia;  
+6) Geologia applicata;  
+7) Paleontologia;  
+8) Geografia;  
+9) Geografia fisica;  
+10) Topografia e cartografia;  
+11) Fisica terrestre;  
+12) Petrografia.  
+Sono insegnamenti complementari:  
+1) Chimica organica;  
+2) Chimica fisica;  
+3) Geochimica;  
+4) Astronomia;  
+5) Geodesia;  
+6) Zoologia;  
+7) Botanica;  
+8) Antropologia;  
+9) Etnologia;  
+10) Geografia economica;  
+11) Vulcanologia;  
+12) Analisi matematica (algebrica ed infinitesimale) (biennale);  
+13) Meccanica razionale con elementi di statica grafica e disegno;  
+14) Statistica;  
+15) Giacimenti minerari;  
+16) Micropaleontologia;  
+17) Mineralogia applicata;  
+18) Geologia stratigrafica;  
+19) Geofisica applicata;  
+20) Speleologia;  
+21) Oceanografia;  
+22) Prospezioni geofisiche;  
+23) Idrogeologia;  
+24) Geologia degli idrocarburi;  
+25) Geotecnica.  
+Gli insegnamenti di "Botani" e di "Zoologia" debbono avere indirizzo biogeografico.  
+L'insegnamento di "Analisi matematica" sara' impartito da due professori ciascuno dei quali insegnera' alternativamente "Analisi algebrica" per il primo anno ed"Analisi infinitesimale" per il secondo anno; lo studente dovra' sostenere due esami distinti.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto, nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' (atto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e del decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1972
+### Dato a Roma, addi' 14 agosto 1964
 
-LEONE SCALFARO
+Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 21 dicembre 1972
+Registrato alla Corte dei conti, addi' 9 ottobre 1964
 
-Atti di Governo, registro n. 254, foglio n. 41. - CARUSO
+Atti del Governo, registro n. 187, foglio n. 88. - VILLA

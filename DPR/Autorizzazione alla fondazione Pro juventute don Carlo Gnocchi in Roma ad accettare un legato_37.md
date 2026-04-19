@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1982 n. 410
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1980 n. 788
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1982 n. 410
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1980 n. 788
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-410. Decreto del Presidente della Repubblica 17 maggio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in una raccolta di francobolli del valore di L. 900.000, come risulta dal verbale d'inventario, disposto dal sig. Ramelli Giampiero con testamento olografo 9 febbraio 1980, pubblicato in data 24 marzo 1980, n. 11011/1015 di repertorio, a rogito dott. Luigi Prinetti, notaio in Milano, registrato a Milano l'8 aprile 1980 al numero A/Z 08152.  
+788. Decreto del Presidente della Repubblica 22 luglio 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in libretti bancari e beni mobili per un valore complessivo di L. 26.954.431, disposto dalla sig.ra Girardi Maria ved. Leiss De Leimburg a favore dell'opera mutilatini di don Gnocchi, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, con testamento olografo 15 agosto 1977, pubblicato in data 26 settembre 1978, n. 17260 di repertorio, a rogito dott. Anna Maria Callari Bennati, notaio in Torino, registrato a Torino in data 2 ottobre 1978 al n. 39960.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 30 giugno 1982  
-Registro n. 6 Presidenza, foglio n. 70
+Visto, il Guardasigilli: SARTI  
+Registrato alla Corte dei conti, addi' 21 novembre 1980  
+Registro n. 9 Presidenza, foglio n. 9

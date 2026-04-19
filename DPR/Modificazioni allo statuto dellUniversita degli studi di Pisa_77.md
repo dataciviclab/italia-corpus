@@ -1,211 +1,213 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 maggio 1978 n. 1041
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1972 n. 478
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 maggio 1978 n. 1041
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1972 n. 478
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936; n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 55, relativo agli istituti scientifici della facolta' di lettere e filosofia e' modificato nel senso che l'istituto di filologia classica viene scisso nei due seguenti istituti:
+
+Istituto di filologia greca;
+
+Istituto di filologia latina.
+
+Art. 74. - All'elenco degli istituti scientifici della facolta' di scienze matematiche, fisiche e naturali e' aggiunto quello di:
+
+Istituto di scienze dell'informazione.
+
+Art. 129. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie e' aggiunto quello di:
+
+Ordinamento e gestione dell'azienda agricola.
+
+Art. 138. - All'elenco degli istituti didattici e sperimentali appartenenti alla facolta' di medicina veterinaria sono aggiunti i seguenti:
+
+Istituto di anatomia e istologia degli animali domestici;
+
+Istituto di malattie infettive, profilassi e polizia veterinaria.
+
+Nello stesso articolo l'istituto di patologia speciale clinica medica e polizia sanitaria muta denominazione in quella di istituto di patologia speciale e clinica medica veterinaria.
+
+Gli articoli 201, 202 e 205 relativi al corso di perfezionamento in ingegneria nucleare, annesso alla facolta' di ingegneria sono abrogati e sostituiti dai seguenti:
+
+Art. 201. - Il corso ha la durata di un anno. Il corso di perfezionamento ha diverso contenuto per:
+
+A) i laureati in ingegneria nucleare;
+
+B) i non laureati in ingegneria nucleare.
+
+Per coloro che appartengono alla categoria A), gli insegnamenti sono i seguenti:
+
+A-1) Misure di fisica nucleare;
+
+A-2) Complementi di costruzioni nucleari;
+
+A-3) Metodi avanzati per l'analisi di sicurezza degli impianti nucleari;
+
+A-4) Esercizio degli impianti nucleari.
+
+Per coloro che appartengono alla categoria B), gli insegnamenti sono i seguenti:
+
+B-1) Fisica nucleare;
+
+B-2) Fisica dei reattori nucleari e reattori nucleari;
+
+B-3) Misure di fisica nucleare;
+
+B-4) Impianti nucleari terrestri e navali;
+
+B-5) Costruzioni nucleari;
+
+B-6) Sicurezza e dosimetria;
+
+B-7) Teoria dei servomeccanismi applicata al controllo ed alla regolazione dei reattori;
+
+B-8) Elettronica applicata agli impianti nucleari;
+
+B-9) Chimica dei reattori;
+
+B-10) Tecnologia dei materiali dei reattori. Trattamenti e separazione degli isotopi.
+
+Detti insegnamenti saranno integrati da esercitazioni pratiche ed eventualmente da conferenze.
+
+Art. 202. - Al termine, del corso la facolta' rilascia un certificato di studi per il conseguimento del quale e' necessario:
+
+per gli appartenenti alla categoria A):
+
+aver superato gli esami delle materie A-1), A-2), A-3), A-4) ed aver discusso davanti ad apposita commissione, nominata dal consiglio di facolta', una relazione relativa ad una ricerca applicata all'ingegneria nucleare, cui il candidato abbia apportato contributi originali;
+
+per gli appartenenti alla categoria B):
+
+aver superato gli esami delle materie B-1), B-2), B-3), B-4), B-5), B-6) e alternativamente B-7) e 5-8) oppure B-9) e B-10).
+
+Art. 205. - La tassa e la soprattassa che gli iscritti sono tenuti a pagare sono quelle stabilite per gli studenti in corso.
+
+La tassa di diploma e' fissata in L. 6000 a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7). Gli eventuali contributi potranno essere fissati di anno in anno dal consiglio di amministrazione su proposta del senato accademico, udito il consiglio di facolta'.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 20 giugno 1972
+
+LEONE
+
+MISASI
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 12 agosto 1972 Atti del Governo, registro n. 250, foglio n. 158. - VALENTINI
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936; n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli 268, 269, 270, 271 e 272, relativi alle norme generali delle scuole di specializzazione in medicina e chirurgia, sono soppressi e sostituiti dai seguenti:   
-Art. 268. - Nei singoli statuti sono indicati la durata dei corsi, la sede e il direttore. La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione e, in carenza, al professore di ruolo o fuori ruolo in materia affine.   
-Il consiglio di ciascuna scuola si compone dei professori che vi tengono gli insegnamenti prescritti ed e' presieduto dal direttore.   
-Art. 269. - Alle scuole sono ammessi i laureati in medicina e chirurgia, salvo diverso indirizzo. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. Non e' ammessa l'iscrizione contemporanea a piu' scuole o corsi di perfezionamento.   
-Art. 270. - Il numero di allievi, che annualmente possono essere accolti al primo corso di ciascuna scuola, e' fissato nello statuto di ogni singola scuola.   
-L'immatricolazione avviene mediante concorso per titoli ed esami.  
-Le modalita' di questi ultimi sono determinate dal direttore della scuola, secondo le particolari esigenze di ogni corso di studi.   
-Per ciascuna scuola puo' essere stabilito un numero minimo di iscrizioni; qualora questo numero non venga raggiunto, il direttore della scuola ha la facolta' di non iniziare i corsi; se, tuttavia, questi vengono iniziati, devono essere portati al termine qualunque sia il numero degli iscritti.   
-Art. 271. - Le domande di ammissione ad una scuola o corso, devono essere dirette al rettore e presentate all'ufficio di segreteria dell'Universita' corredate dai documenti prescritti e dagli altri eventuali titoli che l'aspirante ritenga opportuno di unire; domande e documenti vengono trasmessi al direttore di ciascuna scuola o corso, per l'espletamento del concorso, terminati i cui esami vengono da lui restituiti all'ufficio di segreteria.   
-Art. 272. - Non sono consentite abbreviazioni di corso.   
-La scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale, di cui agli articoli 287, 288, 289 e 290, e la scuola di specializzazione in odontoiatria e protesi dentaria, di cui agli articoli 325, 326, 327, 328 e 329, cambiano rispettivamente le denominazioni in otorinolaringoiatria e odontostomatologia.   
-Gli articoli 337, 338, 339 e 340, relativi alla scuola di specializzazione in igiene e sanita' pubblica, sono soppressi, con il conseguente spostamento della numerazione degli articoli successivi.   
-Gli articoli 374, 375 e 376, relativi alla scuola di specializzazione in igiene e medicina scolastica, e gli articoli 377, 378, 379 e 380, relativi alla scuola di specializzazione in igiene tecnica e direzione ospedaliera, sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.   
-Dopo l'art. 411, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in igiene e medicina preventiva:   
+Art. 55, relativo agli istituti scientifici della facolta' di lettere e filosofia e' modificato nel senso che l'istituto di filologia classica viene scisso nei due seguenti istituti:   
   
-Scuola di specializzazione in igiene e medicina preventiva   
+Istituto di filologia greca;   
+Istituto di filologia latina.   
   
-Art. 412. - La scuola di specializzazione in igiene e medicina preventiva ha sede presso l'istituto d'igiene dell'Universita' di Pisa e conferisce il diploma di specialista in igiene e medicina preventiva.   
-Art. 413. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Art. 414. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-Art. 415. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
-Art. 416. - Il numero massimo degli allievi e' di trenta per anno di corso e complessivamente di centoventi iscritti per l'intero corso di studi.   
-Art. 417. - L'ammissione al corso avviene per titoli ed esami.   
-Art. 418. - Il corso si articola in un biennio propedeutico seguito da un biennio differenziato con cinque orientamenti e precisamente:   
-a) sanita' pubblica;   
-b) igiene e tecnica ospedaliera;   
-c) igiene del lavoro;   
-d) igiene e medicina scolastica;   
-e) laboratorio.   
-Art. 419. - Il piano di studi e' il seguente:   
+Art. 74. - All'elenco degli istituti scientifici della facolta' di scienze matematiche, fisiche e naturali e' aggiunto quello di:   
   
-PRIMO BIENNIO   
+Istituto di scienze dell'informazione.   
   
-1° Anno:   
-metodologia statistica e biometria;   
-educazione sanitaria;   
-psicologia;   
-microbiologia ed immunologia I;   
-parassitologia;   
-epidemiologia generale e metodologia;   
-profilassi generale;   
-sociologia medica ed antropologia culturale.   
-2° Anno:   
-microbiologia e immunologia II;   
-patologia e clinica delle malattie infettive;   
-epidemiologia e profilassi delle malattie infettive I;   
-patologia e clinica delle malattie non infettive di importanza sociale;   
-epidemiologia e profilassi delle malattie non infettive di importanza sociale I;   
-demografia e statistica sanitaria;   
-legislazione e programmazione sanitarie.   
+Art. 129. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie e' aggiunto quello di:   
   
-SECONDO BIENNIO   
+Ordinamento e gestione dell'azienda agricola.   
   
-a) Orientamento di sanita' pubblica.   
+Art. 138. - All'elenco degli istituti didattici e sperimentali appartenenti alla facolta' di medicina veterinaria sono aggiunti i seguenti:   
   
-3° Anno:   
-epidemiologia e profilassi delle malattie infettive II;   
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
-igiene dell'ambiente fisico e difesa ecologica;   
-igiene degli alimenti e della nutrizione;   
-igiene dell'eta' evolutiva;   
-igiene del lavoro;   
-igiene ed assistenza dell'anziano.   
-4° Anno:   
-igiene edilizia e dell'aggregato urbano;   
-igiene ospedaliera;   
-organizzazione del territorio e programmazione sanitaria;   
-medicina di comunita';   
-economia sanitaria;   
-elementi di diritto amministrativo.   
+Istituto di anatomia e istologia degli animali domestici;   
+Istituto di malattie infettive, profilassi e polizia veterinaria.   
   
-b) Orientamento di igiene e tecnica ospedaliera.   
+Nello stesso articolo l'istituto di patologia speciale clinica medica e polizia sanitaria muta denominazione in quella di istituto di patologia speciale e clinica medica veterinaria.   
+Gli articoli 201, 202 e 205 relativi al corso di perfezionamento in ingegneria nucleare, annesso alla facolta' di ingegneria sono abrogati e sostituiti dai seguenti:   
+Art. 201. - Il corso ha la durata di un anno. Il corso di perfezionamento ha diverso contenuto per:   
   
-3° Anno:   
-epidemiologia e profilassi delle malattie infettive II;   
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
-igiene dell'ambiente fisico e difesa ecologica;   
-igiene e tecnica delle costruzioni ospedaliere; arredamenti ed impianti tecnologici;   
-igiene dell'alimentazione e dietetica ospedaliera;   
-organizzazione e funzionamento degli ospedali I;   
-elementi di diritto e legislazione ospedaliera.   
-4° Anno:   
-organizzazione e funzionamento degli ospedali II;   
-compiti ed attribuzione della direzione sanitaria;   
-formazione professionale e compiti del personale ospedaliero;   
-programmazione ospedaliera e medicina di comunita';   
-assistenza psichiatrica;   
-aspetti sociosanitari dell'ospitalismo;   
-aspetti economici della gestione ospedaliera.   
+A) i laureati in ingegneria nucleare;   
+B) i non laureati in ingegneria nucleare.   
   
-c) Orientamento di igiene del lavoro.   
+Per coloro che appartengono alla categoria A), gli insegnamenti sono i seguenti:   
   
-3° Anno:   
-epidemiologia e profilassi delle malattie infettive II;   
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
-igiene dell'ambiente fisico e difesa ecologica;   
-epidemiologia e profilassi delle malattie del lavoro;   
-tecnica ed economia degli impianti industriali;   
-tossicologia industriale e diagnostica di laboratorio;   
-elementi di fisica tecnica applicata all'igiene;   
-igiene dell'ambiente di lavoro I.   
-4° Anno:   
-igiene dell'ambiente di lavoro II;   
-elementi di diritto e legislazione del lavoro;   
-psicologia del lavoro;   
-prevenzione degli infortuni;   
-politica del territorio ed insediamenti industriali;   
-igiene del lavoro e medicina di comunita'.   
+A-1) Misure di fisica nucleare;   
+A-2) Complementi di costruzioni nucleari;   
+A-3) Metodi avanzati per l'analisi di sicurezza degli impianti nucleari;   
+A-4) Esercizio degli impianti nucleari.   
   
-d) Orientamento di igiene e medicina scolastica.   
+Per coloro che appartengono alla categoria B), gli insegnamenti sono i seguenti:   
   
-3° Anno:   
-epidemiologia e profilassi delle malattie infettive II;   
-epidemiologia e profilassi delle malattie non infettive di importanza sociale I;   
-igiene dell'ambiente fisico e difesa ecologica;   
-clinica delle malattie dell'eta' evolutiva;   
-epidemiologia e profilassi delle malattie dell'eta' evolutiva;   
-igiene degli alimenti e della nutrizione;   
-auxologia normale e patologica;   
-psicologia dell'eta' evolutiva.   
-4° Anno:   
-servizi di medicina scolastica;   
-edilizia ed arredamento scolastico;   
-elementi di pedagogia;   
-assistenza parascolastica;   
-educazione sanitaria nella scuola;   
-legislazione scolastica;   
-igiene mentale.   
+B-1) Fisica nucleare;   
+B-2) Fisica dei reattori nucleari e reattori nucleari;   
+B-3) Misure di fisica nucleare;   
+B-4) Impianti nucleari terrestri e navali;   
+B-5) Costruzioni nucleari;   
+B-6) Sicurezza e dosimetria;   
+B-7) Teoria dei servomeccanismi applicata al controllo ed alla regolazione dei reattori;   
+B-8) Elettronica applicata agli impianti nucleari;   
+B-9) Chimica dei reattori;   
+B-10) Tecnologia dei materiali dei reattori. Trattamenti e separazione degli isotopi.   
   
-e) Orientamento di laboratorio.   
+Detti insegnamenti saranno integrati da esercitazioni pratiche ed eventualmente da conferenze.   
+Art. 202. - Al termine, del corso la facolta' rilascia un certificato di studi per il conseguimento del quale e' necessario:   
+per gli appartenenti alla categoria A):   
+aver superato gli esami delle materie A-1), A-2), A-3), A-4) ed aver discusso davanti ad apposita commissione, nominata dal consiglio di facolta', una relazione relativa ad una ricerca applicata all'ingegneria nucleare, cui il candidato abbia apportato contributi originali;   
+per gli appartenenti alla categoria B):   
+aver superato gli esami delle materie B-1), B-2), B-3), B-4), B-5), B-6) e alternativamente B-7) e 5-8) oppure B-9) e B-10).   
   
-3° Anno:   
-epidemiologia e profilassi delle malattie infettive II;   
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
-igiene dell'ambiente fisico e difesa ecologica;   
-metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale I;   
-metodi e dosaggi biologici per il controllo dell'inquinamento ambientale;   
-strumentazione e metodologie chimico-cliniche ed ematologiche I; microscopia applicata all'igiene;   
-elementi di fisica tecnica applicata all'igiene;   
-accertamento diagnostico delle malattie infettive e parassitarie I.   
-4° Anno:   
-metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale II;   
-accertamento diagnostico delle malattie infettive e parassitarie II;   
-strumentazione e metodologie chimico-cliniche ed ematologiche II; ispezione e controllo degli alimenti;   
-elementi di informatica.   
-Gli esami relativi alle discipline svolte con insegnamento biennale verranno sostenuti alla fine di detti insegnamenti.   
-I corsi saranno completati da insegnamenti complementari scelti dalla scuola tra i seguenti:   
-Materie complementari:   
-automazione del sistema ospedaliero;   
-biochimica applicata;   
-climatologia;   
-diritto sanitario Internazionale;   
-elementi di medicina legale;   
-genetica umana;   
-geologia applicata all'igiene;   
-idrologia;   
-igiene dei climi tropicali;   
-igiene dei trasporti;   
-igiene militare;   
-igiene rurale;   
-istituzioni di matematiche;   
-micologia;   
-radioprotezionistica.   
-A giudizio della scuola possono essere indicati come complementari anche altri insegnamenti regolarmente attivati nei corsi di laurea di ciascuna universita'.   
-I corsi saranno integrati da un tirocinio pratico di durata comunque non inferiore a tre mesi, da svolgersi durante il secondo biennio.   
-Art. 420. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
-Art. 421. - alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno; per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in igiene e medicina preventiva, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
-Art. 422. - Le tasse e soprattasse sono le seguenti:   
-  
-tassa di immatricolazione. . . . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione annuale . . . . . . . . . . . . . . . L. 18.000 soprattassa esami di profitto. . . . . . . . . . . . . . . L. 7.000 soprattassa esami di diploma . . . . . . . . . . . . . . . L. 3.000 tassa di diploma . . . . . . . . . . . . . . . . . . . . . L. 6.000   
+Art. 205. - La tassa e la soprattassa che gli iscritti sono tenuti a pagare sono quelle stabilite per gli studenti in corso.   
+La tassa di diploma e' fissata in L. 6000 a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7). Gli eventuali contributi potranno essere fissati di anno in anno dal consiglio di amministrazione su proposta del senato accademico, udito il consiglio di facolta'.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 maggio 1978
+### Dato a Roma, addi' 20 giugno 1972
 
-LEONE PEDINI
+LEONE MISASI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 23 aprile 1979
+Registrato alla Corte dei conti, addi' 12 agosto 1972
 
-Registro n. 27 istruzione, foglio n. 24
+Atti del Governo, registro n. 250, foglio n. 158. - VALENTINI

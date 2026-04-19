@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1968 n. 571
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 febbraio 1966 n. 174
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1968 n. 571
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 febbraio 1966 n. 174
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
@@ -10,15 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1957, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207) e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi, sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -28,57 +28,27 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 123 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione presso la facolta' di medicina e chirurgia, della scuola di specializzazione in oncologia.
+Art. 86, relativo alla Scuola di specializzazione in Chirurgia generale e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente:
 
-SCUOLA DI SPECIALIZZAZIONE IN ONCOLOGIA
+"Alla Scuola non potranno essere iscritti piu' di dieci medici per ciascun anno di corso".
 
-Art. 124. - La scuola ha la durata di tre anni. Ha sede presso l'istituto di anatomia e istologia patologica, il cui professore di ruolo e' direttore della scuola stessa.
+Art. 89, relativo alla Scuola di perfezionamento in Anestesiologia e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente:
 
-Art. 125. - Potranno essere iscritti alla scuola i laureati in medicina e chirurgia, nel numero massimo di 10 (dieci) per anno.
+"Alla Scuola non potranno essere iscritti piu' di dieci medici per ciascun anno di corso".
 
-Art. 126. - Le materie di insegnamento sono le seguenti:
+Art. 98, relativo alla Scuola di perfezionamento in Diagnostica di laboratorio e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente:
 
-1° Anno:
+"Il corso avra' la durata di due anni. L'iscrizione e' limitata per ogni anno accademico a venti allievi".
 
-Etiopatogenesi oncologica;
+Art. 104, relativo alla Scuola di specializzazione in Chirurgia pediatrica e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente:
 
-Biochimica oncologica;
-
-Anatomia e istologia patologica dei tumori (1° anno).
-
-2° Anno:
-
-Oncologia sperimentale;
-
-Epidemiologia e statistica dei tumori;
-
-Anatomia e istologia patologica dei tumori (2° anno);
-
-Clinica medica oncologica.
-
-3° Anno:
-
-Diagnosi citologica e citologia dei tumori;
-
-Nozioni di diagnostica clinica e terapia dei tumori;
-
-Organizzazione della lotta contro i tumori;
-
-Ginecologia oncologica.
-
-Gli insegnamenti teorici vengono completati da esercitazioni pratiche obbligatorie e, ad iniziativa del direttore della scuola, da conferenze teorico-pratiche sui tumori della cute, del sistema nervoso, degli apparati respiratori, digerente, mopoietico, urinario, genitale maschile ed endocrino.
-
-Art. 127. - Ogni anno di corso comporta periodi di internato obbligatorio nell'istituto di anatomia e istologia patologica, secondo modalita' stabilite dal direttore della scuola.
-
-Alla fine di ogni anno gli iscritti, per essere ammessi agli anni di corso successivi, devono superare un esame sulle materie di insegnamento.
-
-L'esame di diploma si sostiene alla fine del terzo anno e consiste nello svolgimento e discussione di una tesi scritta su argomento di oncologia, approvato dal direttore della scuola.
+"Alla Scuola non potranno essere iscritti, piu' di dieci allievi per ciascun anno di corso".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 20 marzo 1968
+Dato a Roma, addi' 23 febbraio 1966
 
 SARAGAT
 
@@ -89,62 +59,44 @@ Visto, il Guardasigilli: REALE
 Registrato
 ----------
 
-alla Corte dei conti, addi' 24 aprile 1968 Atti del Governo, registro n. 219, foglio n. 59. - GRECO
+alla Corte dei conti, addi' 31 marzo 1966 Atti del Governo, registro n. 202, foglio n. 96. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1957, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207) e successive modificazioni;  
+Veduto il testo unico delle leggi, sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:  
-  
-Dopo l'art. 123 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione presso la facolta' di medicina e chirurgia, della scuola di specializzazione in oncologia.  
-  
-SCUOLA DI SPECIALIZZAZIONE IN ONCOLOGIA  
-  
-Art. 124. - La scuola ha la durata di tre anni. Ha sede presso l'istituto di anatomia e istologia patologica, il cui professore di ruolo e' direttore della scuola stessa.  
-Art. 125. - Potranno essere iscritti alla scuola i laureati in medicina e chirurgia, nel numero massimo di 10 (dieci) per anno.  
-Art. 126. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-Etiopatogenesi oncologica;  
-Biochimica oncologica;  
-Anatomia e istologia patologica dei tumori (1° anno).  
-2° Anno:  
-Oncologia sperimentale;  
-Epidemiologia e statistica dei tumori;  
-Anatomia e istologia patologica dei tumori (2° anno);  
-Clinica medica oncologica.  
-3° Anno:  
-Diagnosi citologica e citologia dei tumori;  
-Nozioni di diagnostica clinica e terapia dei tumori;  
-Organizzazione della lotta contro i tumori;  
-Ginecologia oncologica.  
-Gli insegnamenti teorici vengono completati da esercitazioni pratiche obbligatorie e, ad iniziativa del direttore della scuola, da conferenze teorico-pratiche sui tumori della cute, del sistema nervoso, degli apparati respiratori, digerente, mopoietico, urinario, genitale maschile ed endocrino.  
-Art. 127. - Ogni anno di corso comporta periodi di internato obbligatorio nell'istituto di anatomia e istologia patologica, secondo modalita' stabilite dal direttore della scuola.  
-Alla fine di ogni anno gli iscritti, per essere ammessi agli anni di corso successivi, devono superare un esame sulle materie di insegnamento.  
-L'esame di diploma si sostiene alla fine del terzo anno e consiste nello svolgimento e discussione di una tesi scritta su argomento di oncologia, approvato dal direttore della scuola.  
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 86, relativo alla Scuola di specializzazione in Chirurgia generale e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente:  
+"Alla Scuola non potranno essere iscritti piu' di dieci medici per ciascun anno di corso".  
+Art. 89, relativo alla Scuola di perfezionamento in Anestesiologia e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente:  
+"Alla Scuola non potranno essere iscritti piu' di dieci medici per ciascun anno di corso".  
+Art. 98, relativo alla Scuola di perfezionamento in Diagnostica di laboratorio e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente:  
+"Il corso avra' la durata di due anni. L'iscrizione e' limitata per ogni anno accademico a venti allievi".  
+Art. 104, relativo alla Scuola di specializzazione in Chirurgia pediatrica e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente:  
+"Alla Scuola non potranno essere iscritti, piu' di dieci allievi per ciascun anno di corso".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 marzo 1968
+### Dato a Roma, addi' 23 febbraio 1966
 
 SARAGAT GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 24 aprile 1968
+Registrato alla Corte dei conti, addi' 31 marzo 1966
 
-Atti del Governo, registro n. 219, foglio n. 59. - GRECO
+Atti del Governo, registro n. 202, foglio n. 96. - VILLA

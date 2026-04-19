@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1985 n. 1001
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1985 n. 832
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1985 n. 1001
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1985 n. 832
+================================================================
 
 Autorizzazione all'associazione "Centro Ilse", in Milano, ad accettare una donazione.
 -------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1001. Decreto del Presidente della Repubblica 7 ottobre 1985, col quale, sulla proposta del Ministro della pubblica istruzione, l'associazione "Centro Ilse", in Milano, viene autorizzata ad accettare la donazione, consistente in due appartamenti siti in Milano, via Gubbio, 10, del valore di L. 380.000.000, disposta dall'Immobiliare Flora con atto 25 maggio 1983, n. 35837 di repertorio, a rogito dottor Paolo De Marchi, notaio in Milano e registrato a Milano in data 2 giugno 1983 al n. 9699.   
+832. Decreto del Presidente della Repubblica 2 settembre 1985, col quale, sulla proposta del Ministro della pubblica istruzione, l'associazione "Centro Ilse", in Milano, viene autorizzata ad accettare la donazione, consistente in un fabbricato sito in Milano, via Elba n. 21, del valore di L. 1.200.000.000, disposta dalla "Saul Societe' Anonime", in Vaduz (Liechtenstein), con atto 30 settembre 1981, n. 32018 di repertorio, a rogito dott. Paolo De Marchi, notaio in Milano, registrato a Milano in data 9 ottobre 1981 al n. 17901.   
   
 Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 3 aprile 1986   
-Registro n. 23 Istruzione, foglio n. 69
+Registrato alla Corte dei conti, addi' 21 gennaio 1986   
+Registro n. 2 Istruzione, foglio n. 117

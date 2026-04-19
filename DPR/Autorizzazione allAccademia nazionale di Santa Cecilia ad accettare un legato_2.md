@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1949 n. 227
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 novembre 1956 n. 1682
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1949 n. 227
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 novembre 1956 n. 1682
+================================================================
 
 Autorizzazione all'Accademia nazionale di Santa Cecilia ad accettare un legato.
 -------------------------------------------------------------------------------
@@ -12,7 +12,8 @@ Art. 1
 
 N.
 
-227. Decreto del Presidente della Repubblica 18 marzo 1949, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Accademia nazionale di Santa Cecilia, con sede in Roma, viene autorizzata, ad accettare un legato di L. 100.000 disposto in suo favore dalla signora Lina Cavalieri.  
+1682. Decreto del Presidente della Repubblica 1 novembre 1956, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Accademia nazionale di Santa Cecilia viene autorizzata ad accettare il legato di L. 10.000.000 disposto in suo favore dalla contessa Maddalena Fourton vedova San Martino di Valperga, con testamento olografo 4 giugno 1954  
   
-Visto, il Guardasigilli: GRASSI  
-Registrato alla corte dei conti, addi' 10 maggio 1949
+Visto, il Guardasigilli: MORO  
+Registrato alla Corte dei conti, addi' 29 marzo 1957  
+Atti del Governo, registro n. 104, foglio n. 195. - CARLOMAGNO

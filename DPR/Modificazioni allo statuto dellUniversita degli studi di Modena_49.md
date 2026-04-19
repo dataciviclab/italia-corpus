@@ -1,57 +1,185 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1979 n. 313
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1972 n. 60
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1979 n. 313
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1972 n. 60
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Gli articoli 167, 168, 169, 170, 171 relativi alla "Scuola di specializzazione in stomatologia (malattie della bocca e protesi dentaria) che muta la denominazione in quella di "Scuola di specializzazione in odontoiatria e protesi dentaria", sono abrogati e sostituiti dai seguenti.
+
+Scuola di specializzazione in odontoiatria e protesi dentaria
+
+Art. 167. - La scuola di specializzazione in odontoiatria e protesi dentaria con sede presso la clinica odontoiatrica, conferisce il diploma di specialista in odontoiatria e protesi dentaria.
+
+Art. 168. - Alla scuola sono ammessi i laureati in medicina e chirurgia. Il corso ha la durata di anni tre e vi sono venti posti disponibili per anno. In totale sessanta posti.
+
+Art. 169. - Gli insegnamenti impartiti dalla scuola sono:
+
+1° Anno:
+
+Embriologia e anatomia dentaria e maxillo-facciale;
+
+Microbiologia e igiene orale;
+
+Farmacologia;
+
+Patologia odontostomatologica;
+
+Odontotecnica;
+
+Anestesia e chirurgia stomatologica;
+
+Odontoiatria conservativa (1° anno) (biennale);
+
+Esercitazioni pratiche.
+
+2° Anno:
+
+Odontoiatria conservativa (2° anno) (biennale);
+
+Clinica protesica dentaria e maxillo-facciale (1° anno) (biennale);
+
+Paradontologia (1° anno) (biennale);
+
+Anatomia e istopatologia odontostomatologica;
+
+Odontoiatria infantile;
+
+Radiologia odontostomatologica;
+
+Ortopedia dento-maxillo-facciale (1° anno) (biennale);
+
+Chirurgia maxillo-facciale (1° anno) (biennale);
+
+Esercitazioni pratiche.
+
+3° Anno:
+
+Clinica odontostomatologica;
+
+Chirurgia maxillo-facciale (2° anno) (biennale);
+
+Medicina legale odontostomatologica e delle assicurazioni;
+
+Ortopedia dento-maxillo-facciale (2° anno) (biennale);
+
+Clinica protesica dentaria e maxillo-facciale (2° anno) (biennale);
+
+Paradontologia (2° anno) (biennale);
+
+Esercitazioni pratiche.
+
+Art. 170. - Alla fine di ciascun anno di corso gli iscritti alla scuola dovranno sostenere gli esami di profitto sulle materie che sono state oggetto di insegnamento.
+
+Art. 171. - Per il conseguimento del diploma di specialista in odontoiatria e protesi dentaria, esaurita la frequenza obbligatoria dei tre anni di corso, e superati, al termine di ciascun anno, gli esami di profitto, l'allievo dovra' sostenere, innanzi ad apposita commissione, la discussione di una tesi scritta.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 28 gennaio 1972
+
+LEONE
+
+MISASI
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 14 marzo 1972 Atti del Governo, registro n. 247, foglio n. 126. - VALENTINI
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' Accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Modena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 47 - all'elenco degli insegnamenti complementari del corso di laurea in fisica sono aggiunti i seguenti:  
-fisica sanitaria;  
-fisica numerica;  
-scienza dei metalli;  
-fisica dei neutroni.  
-Art. 48 - all'elenco degli insegnamenti complementari del corso di laurea in chimica - indirizzo organicobiologico e indirizzo inorganico chimico fisico, sono aggiunti i seguenti:  
-complementi di chimica organica;  
-stereochimica organica;  
-didattica chimica;  
-stereochimica inorganica;  
-corrosione e protezione dei metalli;  
-cristallografia.  
-Art. 52 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:  
-citogenetica;  
-ecologia;  
-citologia e citofisiologia vegetale.  
+  
+Gli articoli 167, 168, 169, 170, 171 relativi alla "Scuola di specializzazione in stomatologia (malattie della bocca e protesi dentaria) che muta la denominazione in quella di "Scuola di specializzazione in odontoiatria e protesi dentaria", sono abrogati e sostituiti dai seguenti.  
+Scuola di specializzazione in odontoiatria e protesi dentaria  
+Art. 167. - La scuola di specializzazione in odontoiatria e protesi dentaria con sede presso la clinica odontoiatrica, conferisce il diploma di specialista in odontoiatria e protesi dentaria.  
+Art. 168. - Alla scuola sono ammessi i laureati in medicina e chirurgia. Il corso ha la durata di anni tre e vi sono venti posti disponibili per anno. In totale sessanta posti.  
+Art. 169. - Gli insegnamenti impartiti dalla scuola sono:  
+  
+1° Anno:  
+Embriologia e anatomia dentaria e maxillo-facciale;  
+Microbiologia e igiene orale;  
+Farmacologia;  
+Patologia odontostomatologica;  
+Odontotecnica;  
+Anestesia e chirurgia stomatologica;  
+Odontoiatria conservativa (1° anno) (biennale);  
+Esercitazioni pratiche.  
+  
+2° Anno:  
+Odontoiatria conservativa (2° anno) (biennale);  
+Clinica protesica dentaria e maxillo-facciale (1° anno) (biennale);  
+Paradontologia (1° anno) (biennale);  
+Anatomia e istopatologia odontostomatologica;  
+Odontoiatria infantile;  
+Radiologia odontostomatologica;  
+Ortopedia dento-maxillo-facciale (1° anno) (biennale);  
+Chirurgia maxillo-facciale (1° anno) (biennale);  
+Esercitazioni pratiche.  
+  
+3° Anno:  
+Clinica odontostomatologica;  
+Chirurgia maxillo-facciale (2° anno) (biennale);  
+Medicina legale odontostomatologica e delle assicurazioni;  
+Ortopedia dento-maxillo-facciale (2° anno) (biennale);  
+Clinica protesica dentaria e maxillo-facciale (2° anno) (biennale);  
+Paradontologia (2° anno) (biennale);  
+Esercitazioni pratiche.  
+  
+Art. 170. - Alla fine di ciascun anno di corso gli iscritti alla scuola dovranno sostenere gli esami di profitto sulle materie che sono state oggetto di insegnamento.  
+Art. 171. - Per il conseguimento del diploma di specialista in odontoiatria e protesi dentaria, esaurita la frequenza obbligatoria dei tre anni di corso, e superati, al termine di ciascun anno, gli esami di profitto, l'allievo dovra' sostenere, innanzi ad apposita commissione, la discussione di una tesi scritta.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta uffici delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 marzo 1979
+### Dato a Roma, addi' 28 gennaio 1972
 
-PERTINI PEDINI
+LEONE MISASI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 18 luglio 1979
+Registrato alla Corte dei conti, addi' 14 marzo 1972
 
-Registro n. 56 Istruzione, foglio n. 86
+Atti del Governo, registro n. 247, foglio n. 126. - VALENTINI

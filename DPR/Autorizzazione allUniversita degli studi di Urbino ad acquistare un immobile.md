@@ -1,19 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 febbraio 1972 n. 204
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 febbraio 1972 n. 113
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 febbraio 1972 n. 204
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 febbraio 1972 n. 113
 ===============================================================
 
-Autorizzazione, all'Universita' degli studi di Urbino ad acquistare un immobile.
---------------------------------------------------------------------------------
+Autorizzazione all'Universita' degli studi di Urbino ad acquistare un immobile.
+-------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-204. Decreto del Presidente della Repubblica 11 febbraio 1972, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Urbino viene autorizzata ad acquistare l'immobile sito in Urbino, via del Ruscio, denominato palazzo Passionei, descritto nel nuovo catasto edilizio urbano alla partita 932, mappa urbana particelle 984/1 e 984/2, con annesso terreno descritto nella partita 7322, mappa urbana particella 761 del catasto terreni del comune di Urbino, al prezzo di L. 200.000.000.   
+113. Decreto del Presidente della Repubblica 11 febbraio 1972, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Urbino viene autorizzata ad acquistare un immobile sito in Urbino, in via Veterani e via di Ruscio, denominato palazzo Veterani, descritto nel nuovo catasto edilizio urbano del comune di Urbino alla partita 589, mappale 755, al prezzo di L. 85.000.000.  
   
-Visto, il Guardasigilli: GONELLA   
-Registrato alla Corte dei conti, addi' 13 maggio 1972   
-Atti del Governo, registro n. 249, foglio n. 5. - VALENTINI
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 30 marzo 1972  
+Atti del Governo, registro n. 248, foglio n. 5. - VALENTINI

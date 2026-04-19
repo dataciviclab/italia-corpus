@@ -1,81 +1,69 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1982 n. 1057
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1977 n. 511
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1982 n. 1057
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1977 n. 511
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 14 ottobre 1926, n. 2133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2133), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Nell'art. 108, relativo al corso di laurea in scienze biologiche, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-biogeografia;  
-citomorfologia e citofisiologia animale;  
-protozoologia;  
-genetica ecologica;  
-genetica dei microorganismi;  
-biofisica;  
-storia della biologia;  
-citofisiologia vegetale;  
-citotassonomia ed embriologia vegetale;  
-fitosociologia;  
-igiene ambientale e del territorio.  
-Nel medesimo articolo sono soppressi i seguenti insegnamenti complementari:  
-fitogeografia;  
-zoogeografia;  
-esercitazioni di chimica fisica;  
-esercitazioni di fisica sperimentale;  
-esercitazioni di istituzioni matematiche I;  
-esercitazioni di istituzioni matematiche II;  
-termodinamica;  
-geologia;  
-psicologia sperimentale.  
-E inoltre, gli insegnamenti di citologia, citologia ed embriologia vegetale, oceanografia, sempre nel medesimo succitato art. 108, mutano rispettivamente la denominazione in quella di:  
-citologia animale;  
-citologia vegetale;  
-oceanografia biologica.  
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' degli studi di Padova e convalidati dal Consiglio superiore della pubblica istruzione;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
+  
+Decreta:   
+  
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 405 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la seguente:   
+scuola di specializzazione in microbiologia che conferisce il diploma di specialista in microbiologia.   
+L'art. 406, concernente l'ordinamento delle scuole di specializzazione in medicina e chirurgia, e' integrato con l'inserimento dell'ordinamento della scuola di specializzazione in microbiologia.   
+Scuola di specializzazione in microbiologia   
+E' istituita presso l'Universita' di Padova la scuola di specializzazione in microbiologia con sede presso l'istituto di microbiologia. La scuola ha indirizzo teorico e pratico e permette il conseguimento del diploma di specialista in microbiologia.   
+Sono ammessi alla scuola, con l'obbligo di frequenza, i laureati in medicina e chirurgia per un numero massimo di cinque per ogni anno di corso.   
+L'ammissione alla scuola avviene per titoli ed esami.   
+La durata dei corsi e' di tre anni e non e' suscettibile di abbreviazioni in alcun caso.   
+Alla fine di ciascun anno accademico gli specializzandi, che abbiano ottenuto le firme di frequenza, dovranno sostenere un esame di profitto nelle materie fondamentali il cui superamento e' condizione indispensabile per ottenere l'iscrizione all'anno successivo ed, alla fine dei corsi, per l'ammissione all'esame di diploma.   
+Questo consistera' nella presentazione e discussione di un elaborato scritto su un argomento relativo alle materie di insegnamento, concordato tra il diplomando ed il corpo docente della scuola.   
+Per quanto attiene alle tasse ed ai contributi valgono le regole generali contemplate nell'art. 400 dello statuto dell'Universita' di Padova.   
+Le materie di insegnamento fondamentali, distribuite per anno di corso, sono le seguenti:   
+1° Anno:   
+batteriologia generale e tecnica batteriologica;   
+chimica microbiologica;   
+immunologia;   
+analisi statistica del dosaggio biologico.   
+2° Anno:   
+virologia generale e tecnica virologica;   
+batteriologia speciale;   
+micologia;   
+protozoologia e parassitologia.   
+3° Anno:   
+genetica dei microrganismi;   
+virologia speciale;   
+microbiologia industriale;   
+microbiologia degli alimenti e dell'ambiente;   
+metodi e dosaggi microbiologici.   
+Lo studio teorico-pratico di tali materie realizzato attraverso lezioni, esercitazioni pratiche e discussioni, sara' completato da conferenze tenute da docenti invitati dalla direzione della scuola.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 ottobre 1982
+### Dato a Roma, addi' 29 gennaio 1977
 
-PERTINI BODRATO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 17 gennaio 1983
+Registrato alla Corte dei conti, addi' 30 luglio 1977
 
-Registro n. 4 Istruzione, foglio n. 127
+Registro n. 92 Istruzione, foglio n. 20

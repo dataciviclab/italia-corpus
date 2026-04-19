@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 946
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 agosto 1951 n. 1312
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 946
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 agosto 1951 n. 1312
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -12,57 +12,78 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con i [regi decreti 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1929-10-31;2395); [30 ottobre 1930, n. 1771](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1771); [22 ottobre 1931, n. 1421](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-22;1421); [27 ottobre 1932, n. 2078](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-10-27;2078); [26 ottobre 1933, n. 2378](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1933-10-26;2378); [16 ottobre 1934, n. 2080](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-10-16;2080); [10 ottobre 1936, n. 1949](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-10;1949); [9 maggio 1939, n. 1091](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-05-09;1091); [5 ottobre 1939, n. 1645](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-10-05;1645) e [2 ottobre 1940, n. 1472, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1940-10-02;1472) [6 aprile 1948, n. 758](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-04-06;758) e [30 ottobre 1949, n. 1139](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1139);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);  
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio universitario nazionale nel suo parere;  
-Sentito il parere del Consiglio universitario nazionale;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare Le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Nell'art. 45, relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-critica del testo;  
-drammaturgia classica;  
-metrica greca e latina;  
-letteratura austriaca;  
-archeologia del paleolitico;  
-preistoria dell'Europa;  
-paleografia greca e latina;  
-metodologia e tecnica dello scavo;  
-metodologia della conservazione e del restauro degli oggetti mobili.  
-Nell'art. 47, relativo al corso di laurea in filosofia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-storia delle istituzioni educative;  
-didattica della filosofia;  
-storia del pensiero scientifico;  
-filosofia della politica;  
-storia della filosofia moderna e contemporanea;  
-storia della cultura materiale;  
-sociologia della conoscenza;  
-storia della logica.  
-Nell'art. 49, relativo al corso di laurea in storia, indirizzo antico, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-metodologia e tecnica dello scavo;  
-storia dell'archeologia;  
-archeologia;  
-archeologia tardo-antica.  
+Lo statuto dell'Universita' di Siena, approvato e modificato con i decreti sopraindicati e' cosi' ulteriormente modificato:  
+Attuale art. 17. - Il primo comma e' cosi' modificato:  
+"Il colloquio ha luogo dinanzi alla Commissione di laurea e consiste nella discussione orale di una tesi scelta fra le due che il candidato e' tenuto a presentare due giorni prima di quello fissato per la discussione della tesi scritta. I temi delle tesi orali devono riguardare due diversi gruppi di materie, escluso quello cui si riferisce la dissertazione scritta.  
+Al secondo comma, ai quattro gruppi di materie per il corso di laurea in giurisprudenza e' aggiunto un quinto gruppo: materie penalistiche e medico-legali".  
+Attuale art. 26. - E' sostituito dal seguente:  
+"La Facolta' di farmacia, conferisce la laurea in farmacia.  
+La durata del corso degli studi per la laurea in farmacia e' di quattro anni.  
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.  
+Sono insegnamenti fondamentali:  
+1) Chimica generale ed inorganica;  
+2) Chimica organica;  
+3) Chimica farmaceutica e tossicologica (biennale);  
+4) Esercitazioni di chimica farmaceutica e tossicologica (triennale);  
+5) Chimica biologica;  
+6) Fisica;  
+7) Farmacologia e farmacognosia;  
+8) Anatomia umana;  
+9) Fisiologia generale (biennale);  
+10) Botanica farmaceutica;  
+11) Tecnica e legislazione farmaceutica.  
+Sono insegnamenti complementari:  
+1) Chimica fisica;  
+2) Chimica bromatologica;  
+3) Chimica di guerra;  
+4) Zoologia generale;  
+5) Igiene;  
+6) Mineralogia;  
+7) Idrologia.  
+Durante il corso degli studi sono stabilite le seguenti precedenze:  
+1) lo studente non e' ammesso a sostenere l'esame di fisiologia generale se prima non ha superato l'esame di anatomia umana;  
+2) l'esame di chimica farmaceutica e tossicologica come pure quello di chimica biologica, non possono sostenersi se lo studente non ha superato gli esami di chimica generale ed inorganica e di chimica organica;  
+3) L'esame di farmacologia e farmacognosia puo' essere sostenuto solo dopo aver superati gli esami di fisiologia generale, di botanica farmaceutica e di chimica farmaceutica.  
+Superati gli esami in tutti gli insegnamenti fondamentali ed in quattro almeno di quelli complementari, lo studente dovra' sostenere un "colloquium ante lauream" che vertera' su argomenti di chimica farmaceutica e tossicologica, di farmacologia e farmacognosia e di tecnica e legislazione farmaceutica.  
+Lo studente, per essere ammesso all'esame di laurea dovra' inoltre aver compiuto durante il 3° e 4° anno dei suoi studi un periodo semestrale di pratica presso una farmacia autorizzata".  
+L'attuale art. 27 e' sostituito dal seguente:  
+"Alla fine del 4° anno lo studente che abbia superato tutti gli esami ed il "colloquium ante lauream" ed abbia presentato il certificato del direttore della farmacia presso la quale ha compiuta la pratica, viene ammesso all'esame di laurea in farmacia, consistente in una prova pratica ed in una orale.  
+La prova pratica comprende:  
+a) preparazione di un prodotto farmaceutico;  
+b) riconoscimento e saggi di purezza, qualitativi e quantitativi, di due prodotti farmaceutici;  
+c) prova pratica di chimica biologica;  
+d) saggio biologico di medicamento;  
+e) riconoscimento di piante e droghe medicinali.  
+L'esame orale comprende la discussione di una dissertazione scritta, presentata almeno quindici giorni prima degli esami, e la dimostrazione della conoscenza dei medicamenti delle droghe e delle piante medicinali, nonche' dell'arte di ricettare, della farmacopea e della legislazione sanitaria in quanto ha attinenza colla farmacia".  
+L'attuale art. 28 e' sostituito dal seguente:  
+"I laureati in chimica od in chimica industriale, che aspirano a conseguire la laurea in farmacia, possono essere ammessi al 4° anno purche' comprovino di aver frequentato almeno per un anno il corso di chimica farmaceutica e tossicologica e quello di fisiologia generale.  
+In caso contrario sono ammessi al 3° anno.  
+Anche i diplomati in farmacia possono essere ammessi al terzo anno del corso di laurea in farmacia.  
+In ogni caso i richiedenti devono essere forniti del diploma di maturita' classica o scientifica".  
+L'attuale art. 36 e' sostituito dal seguente:  
+"Le tasse per la scuola di perfezionamento in ostetricia e ginecologia sono fissate e occorrendo modificate, dal Consiglio di amministrazione su proposta del Consiglio della Facolta' competente approvata dal Senato accademico.  
+Dette tasse avranno vigore dall'anno accademico successivo a quello nel quale vengono deliberate".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 giugno 1986
+### Dato a Gressoney, addi' 31 agosto 1951
 
-COSSIGA
+EINAUDI SEGNI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: ZOLI
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 1 dicembre 1951
 
-Registrato alla Corte dei conti, addi' 30 dicembre 1986
-
-Registro n. 90 Istruzione, foglio n. 225
+Atti del Governo, registro n. 47, foglio n. 16. - FRASCA

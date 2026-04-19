@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 agosto 1964 n. 1016
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 aprile 1983 n. 1105
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 agosto 1964 n. 1016
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 aprile 1983 n. 1105
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 14 ottobre 1926, n. 2133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2133), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,165 +18,57 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Sentito il parere della Sezione prima del Consiglio superiore della pubblica istruzione;
+Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Sulla proposta del Ministro per la pubblica istruzione,
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+
+Veduto il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Dopo l'art. 165 e con il conseguente spostamento della successiva numerazione, vengono inseriti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Servizio sociale.
-
-Scuola di specializzazione in Servizio sociale
-
-Art. 166. - Alla Facolta' di scienze politiche della Universita' degli studi di Padova, e' annessa la Scuola post-universitaria di Servizio sociale che si propone:
-
-a) di perfezionare la preparazione professionale di assistente sociale e di laureati operanti in Organismi economici, sociali, assistenziali e previdenziali;
-
-b) di completare la preparazione didattica di docenti presso le scuole di Servizio sociale;
-
-La Scuola conferisce il diploma di specializzazione in Servizio sociale.
-
-Art. 167. - La durata dei corsi della Scuola e' di due anni.
-
-Art. 168. - Alla Scuola per il conseguimento del diploma di specializzazione in Servizio sociale, possono iscriversi i laureati in Facolta' universitarie italiane e straniere (questi ultimi in base a lauree debitamente omologate).
-
-Il numero annuo degli iscritti, di cui ai commi precedenti per ciascun anno di corso, e' determinato dal Consiglio della Scuola (di cui all'art. 172) che provvede anche alla selezione dei candidati a suo insindacabile giudizio, in base alla valutazione dei titoli.
-
-Art. 169. - I corsi della Scuola comprendono i seguenti insegnamenti fondamentali:
-
-Elementi di diritto pubblico e privato;
-
-Elementi di economia politica e politica economica;
-
-Elementi di medicina generale e di servizio sanitario;
-
-Psicologia;
-
-Sociologia;
-
-Statistica;
-
-Storia e teoria del servizio sociale;
-
-Metodi professionali del servizio sociale.
-
-A questi vengono aggiunti, su proposta del direttore della Scuola, insegnamenti complementari, in relazione a particolari esigenze, ai sensi dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
-
-Per ogni singolo iscritto, il Consiglio della Scuola stabilisce il piano di studi, in relazione ai titoli di studio e professionali presentati dall'interessato all'atto dell'iscrizione.
-
-Le lezioni sono integrate da conferenze, esercitazioni, dimostrazioni pratiche, visite, viaggi a scopo di studio ed istruzione, ecc.
-
-Art. 170. - Al termine del biennio gli iscritti regolari, dopo aver superato gli esami degli insegnamenti fissati dal piano di studi ed un esame riassuntivo generale, sono ammessi a discutere una dissertazione scritta di diploma sul tema approvato da uno degli insegnanti della Scuola.
-
-Superate tutte le anzidette prove, viene rilasciato un diploma di specializzazione in Servizio sociale.
-
-Art. 171. - Gli organi della Scuola sono:
-
-1) il direttore;
-
-2) il Consiglio.
-
-Il direttore della Scuola viene nominato dal rettore della Universita' tra i professori della Scuola. Egli dura in carica un biennio accademico e puo' essere confermato. Il direttore nomina i docenti della Scuola, su proposta del Consiglio della Facolta' di scienze politiche.
-
-Art. 172. - Il Consiglio e' composto dal direttore che lo presiede, dai docenti cui spettano gli insegnamenti fondamentali e complementari, previsti dall'art. 169.
-
-Spetta al Consiglio della Scuola di determinare e coordinare, i programmi degli insegnamenti e delle attivita' didattiche connesse; operare la selezione dei candidati; decidere su questioni disciplinari.
-
-Art 173. - Le Commissioni per gli esami di profitto nono composte dal professore della materia in qualita' di presidente, e da due altri insegnanti della Scuola.
-
-La Commissione per l'esame di diploma e' composta dal direttore, che la presiede, da altri quattro professori della Scuola e da due esperti di Servizio sociale.
-
-Ciascun commissario dispone di dieci punti.
-
-Art. 174. - Tutti gli iscritti alla Scuola, di cui al precedente art. 168, sono tenuti al versamento annuo delle tasse di iscrizione, secondo quanto prevede il regolamento della Universita' degli studi di Padova, da pagare in due rate uguali, la prima all'atto dell'iscrizione e la seconda entro il 31 marzo, nonche' al pagamento della tassa erariale di cui alla [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551)".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 18 agosto 1964
-
-Per il Presidente della Repubblica
-
-Il Presidente del Senato
-
-MERZAGORA
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 22 ottobre 1964 Atti del Governo, registro n. 187, foglio n. 152 - VILLA
+Lo statuto dell'Universita' di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere della Sezione prima del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione,  
+Nell'art. 61, relativo al corso di laurea in filosofia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+ermeneutica filosofica;  
+storia della filosofia politica.  
+
+Art. 2
+------
+
   
-Decreta:  
+Nell'art. 108, relativo al corso di laurea in scienze biologiche, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+primatologia.  
+
+Art. 3
+------
+
   
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Dopo l'art. 165 e con il conseguente spostamento della successiva numerazione, vengono inseriti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Servizio sociale.  
-Scuola di specializzazione in Servizio sociale  
-Art. 166. - Alla Facolta' di scienze politiche della Universita' degli studi di Padova, e' annessa la Scuola post-universitaria di Servizio sociale che si propone:  
-a) di perfezionare la preparazione professionale di assistente sociale e di laureati operanti in Organismi economici, sociali, assistenziali e previdenziali;  
-b) di completare la preparazione didattica di docenti presso le scuole di Servizio sociale;  
-La Scuola conferisce il diploma di specializzazione in Servizio sociale.  
-Art. 167. - La durata dei corsi della Scuola e' di due anni.  
-Art. 168. - Alla Scuola per il conseguimento del diploma di specializzazione in Servizio sociale, possono iscriversi i laureati in Facolta' universitarie italiane e straniere (questi ultimi in base a lauree debitamente omologate).  
-Il numero annuo degli iscritti, di cui ai commi precedenti per ciascun anno di corso, e' determinato dal Consiglio della Scuola (di cui all'art. 172) che provvede anche alla selezione dei candidati a suo insindacabile giudizio, in base alla valutazione dei titoli.  
-Art. 169. - I corsi della Scuola comprendono i seguenti insegnamenti fondamentali:  
-Elementi di diritto pubblico e privato;  
-Elementi di economia politica e politica economica;  
-Elementi di medicina generale e di servizio sanitario;  
-Psicologia;  
-Sociologia;  
-Statistica;  
-Storia e teoria del servizio sociale;  
-Metodi professionali del servizio sociale.  
-A questi vengono aggiunti, su proposta del direttore della Scuola, insegnamenti complementari, in relazione a particolari esigenze, ai sensi dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);  
-Per ogni singolo iscritto, il Consiglio della Scuola stabilisce il piano di studi, in relazione ai titoli di studio e professionali presentati dall'interessato all'atto dell'iscrizione.  
-Le lezioni sono integrate da conferenze, esercitazioni, dimostrazioni pratiche, visite, viaggi a scopo di studio ed istruzione, ecc.  
-Art. 170. - Al termine del biennio gli iscritti regolari, dopo aver superato gli esami degli insegnamenti fissati dal piano di studi ed un esame riassuntivo generale, sono ammessi a discutere una dissertazione scritta di diploma sul tema approvato da uno degli insegnanti della Scuola.  
-Superate tutte le anzidette prove, viene rilasciato un diploma di specializzazione in Servizio sociale.  
-Art. 171. - Gli organi della Scuola sono:  
-1) il direttore;  
-2) il Consiglio.  
-Il direttore della Scuola viene nominato dal rettore della Universita' tra i professori della Scuola. Egli dura in carica un biennio accademico e puo' essere confermato. Il direttore nomina i docenti della Scuola, su proposta del Consiglio della Facolta' di scienze politiche.  
-Art. 172. - Il Consiglio e' composto dal direttore che lo presiede, dai docenti cui spettano gli insegnamenti fondamentali e complementari, previsti dall'art. 169.  
-Spetta al Consiglio della Scuola di determinare e coordinare, i programmi degli insegnamenti e delle attivita' didattiche connesse; operare la selezione dei candidati; decidere su questioni disciplinari.  
-Art 173. - Le Commissioni per gli esami di profitto nono composte dal professore della materia in qualita' di presidente, e da due altri insegnanti della Scuola.  
-La Commissione per l'esame di diploma e' composta dal direttore, che la presiede, da altri quattro professori della Scuola e da due esperti di Servizio sociale.  
-Ciascun commissario dispone di dieci punti.  
-Art. 174. - Tutti gli iscritti alla Scuola, di cui al precedente art. 168, sono tenuti al versamento annuo delle tasse di iscrizione, secondo quanto prevede il regolamento della Universita' degli studi di Padova, da pagare in due rate uguali, la prima all'atto dell'iscrizione e la seconda entro il 31 marzo, nonche' al pagamento della tassa erariale di cui alla [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551)".  
+Nell'art. 168, relativo al corso di laurea in ingegneria, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+scienza dei materiali metallici;  
+metodologie metallurgiche;  
+complementi di meccanica applicata alle macchine.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 agosto 1964
+### Dato a Roma, addi' 28 aprile 1983
 
-Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 22 ottobre 1964
+Registrato alla Corte dei conti, addi' 22 marzo 1984
 
-Atti del Governo, registro n. 187, foglio n. 152 - VILLA
+Registro n. 17 Istruzione, foglio n. 356

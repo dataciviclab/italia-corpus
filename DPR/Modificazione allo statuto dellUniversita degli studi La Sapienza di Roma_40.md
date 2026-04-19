@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 543
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1984 n. 696
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 543
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1984 n. 696
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
@@ -39,18 +39,18 @@ Articolo unico
 --------------
 
   
-Art. 59 - nell'elenco degli insegnamenti complementari del corso di laurea in lettere e' inserito l'insegnamento di "storia dell'archeologia classica".  
+Art. 59 - all'elenco degli insegnamenti complementari del corso di laurea in lettere e' aggiunto l'insegnamento di "storia dell'arte veneta".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 luglio 1983
+### Dato a Roma, addi' 18 luglio 1984
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 28 settembre 1983
+Registrato alla Corte dei conti, addi' 1 ottobre 1984
 
-Registro n. 63 Istruzione, foglio n. 134
+Registro n. 58 Istruzione, foglio n. 305

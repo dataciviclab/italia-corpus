@@ -1,122 +1,40 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 1105
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 luglio 1948 n. 1161
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 1105
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 luglio 1948 n. 1161
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
-
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Gli articoli 415 a 424, relativi alla scuola di specializzazione in "fisica applicata", sono soppressi.  
-
-Art. 2
-------
-
+Visto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), modificato con i [regi decreti 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2229); [30 ottobre 1930, n. 1931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1931); [22 ottobre 1931, n. 1463](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-22;1463); [27 ottobre 1933, n. 2079](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1933-10-27;2079); [27 dicembre 1934, n. 2435](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-27;2435); [1 ottobre 1936, n. 2472](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2472); [20 aprile 1939, n. 1068, e con il decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1939-04-20;1068) [20 novembre 1947, n. 1702](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-11-20;1702);  
+Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Visto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte relative allo statuto dell'Universita' predetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Dopo l'art. 397, e con lo spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli, relativi alla istituzione della scuola di specializzazione in "scienza e tecnologia dei materiali", afferente alla facolta' di scienze matematiche, fisiche e naturali.  
-Scuola di specializzazione  
-in scienza e tecnologia dei materiali  
-Art. 398. - E' istituita la scuola di specializzazione in scienza e tecnologia dei materiali presso l'Universita' degli studi di Pavia.  
-La scuola ha il compito di formare competenze professionali specifiche nel campo della scienza e della tecnologia dei materiali.  
-La scuola rilascia il titolo di specialista in scienza e tecnologia dei materiali.  
-Art. 399. - La scuola ha la durata di due anni e non e' suscettibile di abbreviazione. Ciascun anno prevede almeno centocinquanta ore di insegnamento e almeno cento ore di attivita' pratiche guidate.  
-In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare un numero massimo di dieci iscritti per ciascun anno di corso, per un totale di venti specializzandi.  
-Art. 400. - Concorrono al funzionamento della scuola la facolta' di scienze matematiche, fisiche e naturali, il dipartimento di fisica "A. Volta" e il dipartimento di chimica fisica dell'Universita' di Pavia.  
-Nel manifesto annuale degli studi viene indicata la sede della direzione della scuola.  
-Art. 401. - Sono ammessi al concorso per ottenere l'iscrizione alla scuola i laureati in chimica, chimica industriale, fisica, ingegneria.  
-Sono altresi' ammessi al concorso per l'ammissione alla scuola coloro che siano in possesso di un titolo di studio conseguito presso universita' straniere che sia equipollente, ai sensi dell'[art. 332 del testo unico del 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art332), a quelli richiesti nei commi precedenti.  
-Art. 402. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-fisica dei materiali;  
-chimica dei materiali;  
-laboratorio materiali;  
-almeno un quarto insegnamento opzionale;  
-partecipazione a corsi seminariali.  
-Il primo anno in particolare, a giudizio del consiglio della scuola, da uno o piu' dei seguenti corsi che integrino la preparazione dei laureati provenienti da diversi corsi di laurea:  
-fondamenti di chimica dei materiali;  
-fondamenti di fisica della materia;  
-fondamenti di ingegneria dei materiali.  
-2° Anno:  
-comportamento e affidabilita';  
-struttura e caratterizzazione dei materiali;  
-almeno due corsi opzionali;  
-partecipazione a corsi seminariali;  
-preparazione della tesi.  
-Gli insegnamenti opzionali si scelgono tra quelli del seguente elenco:  
-laboratorio materiali II;  
-chimica fisica dei materiali;  
-tecnologia e processi di fabbricazione;  
-caratterizzazione, struttura e proprieta' dei materiali;  
-materiali:  
-metallici;  
-ceramici;  
-semiconduttori;  
-polimerici;  
-compositi;  
-magnetici;  
-strutturali;  
-biomateriali;  
-scienza delle costruzioni e proprieta' meccaniche dei materiali;  
-corrosione e protezione dei materiali;  
-tecniche informatiche e di elaborazione dei dati;  
-superfici e interfacce;  
-fisica e tecnologia dei dispositivi;  
-fondamenti di cristallografia e strutturistica;  
-criteri di scelta dei materiali;  
-analisi chimico-fisica dei materiali;  
-principi delle tecnologie dei materiali.  
-Art. 403. - All'inizio di ciascun anno di corso gli specializzandi dovranno concordare con il consiglio della scuola la scelta dei corsi opzionali che dovranno costituire orientamento all'interno della specializzazione.  
-Su parere del consiglio della scuola verranno riconosciute attivita' inerenti alla specializzazione quelle svolte presso enti pubblici o privati anche nell'ambito di convenzioni specifiche.  
-L'Universita', su proposta del consiglio della scuola, e' autorizzata ad accettare contributi e a stabilire convenzioni per lo svolgimento dell'attivita' della scuola stessa.  
-Art. 404. - Il corso di conclude con un esame di diploma, che consiste nella discussione di una dissertazione scritta, che dimostri la preparazione scientifica e le capacita' operative sulla scienza e tecnologia dei materiali.  
-Art. 405. - Per tutto quanto non previsto dal presente statuto si fa riferimento alle norme generali delle scuole di specializzazione.  
+Decreta:  
+  
+Lo statuto dell'Universita' di Pavia, approvato e modificato con i decreti sopraindicati, e' cosi' ulteriormente modificato:  
+Art. 41. - E' soppresso l'insegnamento complementare di "chimica di guerra" tanto per il corso di laurea in chimica ad indirizzo organico-biologico, quanto per quello ad indirizzo inorganico - chimico - fisico.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 ottobre 1986
+### Dato a Roma, addi' 20 luglio 1948
 
-COSSIGA
+EINAUDI GONELLA
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: GRASSI
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 16 settembre 1948
 
-Registrato alla Corte dei conti, addi' 14 maggio 1987
-
-Registro n. 27 Istruzione, foglio n. 381
+Atti del Governo, registro n. 24, foglio n. 29. - VENTURA

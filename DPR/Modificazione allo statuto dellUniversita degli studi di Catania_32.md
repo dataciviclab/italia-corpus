@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 1103
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1983 n. 1032
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 1103
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1983 n. 1032
+===============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
@@ -39,25 +39,18 @@ Articolo unico
 --------------
 
   
-Nell'art. 51, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-igiene ambientale e del territorio;  
-igiene degli alimenti;  
-fisiopatologia clinica;  
-neurologia pediatrica;  
-scienza dell'ortogenesi;  
-ematologia pediatrica;  
-cardiologia pediatrica.  
+Nell'art. 57, relativo al corso di laurea in chimica, agli elenchi degli insegnamenti complementari degli indirizzi organico-biologico e inorganico-chimico-fisico e' aggiunto il seguente nuovo insegnamento: chimica bio-organica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1983
+### Dato a Roma, addi' 24 ottobre 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 22 marzo 1984
+Registrato alla Corte dei conti, addi' 29 febbraio 1984
 
-Registro n. 17 Istruzione, foglio n. 363
+Registro n. 13 Istruzione, foglio n. 68

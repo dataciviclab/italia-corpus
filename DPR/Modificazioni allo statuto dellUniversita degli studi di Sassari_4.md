@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1970 n. 1242
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1957 n. 243
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1970 n. 1242
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1957 n. 243
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Sassari.
@@ -10,60 +10,36 @@ Modificazioni allo statuto dell'Universita' degli studi di Sassari.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084) e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084), e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1941-10-17;1217), e con [decreti del Presidente della Repubblica 28 aprile 1951, n. 769](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-28;769); [27 ottobre 1951, n. 1804](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1804); [1 marzo 1955, n. 331](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-03-01;331); [20 settembre 1955, n. 899](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-20;899), e [25 febbraio 1956, n. 311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-02-25;311);   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 26. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:  
-Storia della Sardegna;  
-Storia della Chiesa;  
-Storia contemporanea;  
-Paleografia e diplomatica;  
-Biblioteconomia e bibliografia;  
-Antichita' sarde;  
-Storia delle religioni.  
-Art. 27. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti quelli di:  
-Storia della scienza;  
-Storia delle tradizioni popolari;  
-Antropologia culturale;  
-Sociologia.  
-Art. 28. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:  
-Linguistica sarda;  
-Letteratura ispano-americana;  
-Letteratura cristiana antica;  
-Lingua e letteratura araba;.  
-Lingua e letteratura russa;  
-Glottologia.  
-Dopo l'art. 33 e con il conseguente spostamento della numerazione degli articoli successivi e' aggiunto il seguente nuovo articolo relativo alla creazione di nuovi istituti annessi alla facolta' di magistero.  
-Art. 34. - Sono costituiti i seguenti istituti:  
-Istituto di scienze storiche;  
-Istituto di pedagogia e sociologia;  
-Istituto di filosofia;  
-Istituto di latino;  
-Istituto di filologia moderna.  
+Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 35. - Agli insegnamenti complementari del corso di laurea in medicina veterinaria e' aggiunto quello di:   
+11) "Scienza e tecnica dell'allevamento del bestiame".   
+Art. 40. - Agli insegnamenti complementari del corso di laurea in scienze agrarie e' aggiunto quello di:   
+11) "Scienza e tecnica dell'allevamento del bestiame".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1970
+### Dato a Roma, addi' 26 febbraio 1957
 
-SARAGAT MISASI
+GRONCHI ROSSI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MORO
 
-Registrato alla Corte dei conti, addi' 26 gennaio 1971
+Registrato alla Corte dei conti, addi' 23 aprile 1957
 
-Atti del Governo, registro n. 240, foglio n. 125. - CARUSO
+Atti del Governo, registro n. 105, foglio n. 58. - RELLEVA

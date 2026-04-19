@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 392
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1972 n. 371
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 392
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1972 n. 371
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
@@ -10,211 +10,560 @@ Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933 n. 592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-La dizione del titolo III dello statuto "Scuole di perfezionamento e di specializzazione annesse alla facolta' di medicina e chirurgia", e' soppressa e sostituita dalla seguente: "Scuole di specializzazione annesse alla facolta' di medicina e chirurgia". Gli articoli 94, 95, 96, 97 e 98, relativi alle norme generali per le scuole di specializzazione annesse alla facolta' di medicina e chirurgia, sono soppressi e sostituiti dai seguenti:
+L'art. 109, relativo alla "Scuola di specializzazione in clinica ostetrica e ginecologica" che muta la denominazione in quella di "Scuola di specializzazione in ostetricia e ginecologia", e' abrogato e sostituito dal seguente:
 
-Art. 94. - Le scuole post-universitarie di specializzazione conferiscono i rispettivi diplomi di specialista ai sensi dell'[art. 178 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art178).
+Scuola di specializzazione in ostetricia e ginecologia
 
-Art. 95. - La direzione delle scuole di specializzazione e' affidata ad un professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine. La facolta' di medicina e chirurgia e' chiamata a deliberare in merito.
+Art. 109. - Il corso di studi per la specializzazione in ostetricia e ginecologia ha la durata di 4 anni. La ammissione alla scuola avviene a seguito di concorso per titoli ed esami.
 
-Il direttore presiede il consiglio della scuola costituito a norma dell'articolo seguente; vigila sul buon funzionamento di essa ed e' tenuto a dare comunicazione al preside della facolta' di medicina e chirurgia di tutti gli atti e di tutte le deliberazioni del consiglio da lui presieduto.
+Sono da considerarsi titoli preferenziali, a parita' di risultato dell'esame di ammissione:
 
-Gli insegnanti sono proposti dal direttore, che puo' sceglierli tra i professori di ruolo, tra i liberi docenti, tra gli assistenti, tra cultori della materia e sono nominati dalla facolta'.
+a) il voto di laurea in medicina e chirurgia;
 
-Art. 96. - Il consiglio dei professori di ciascuna delle scuole di specializzazione e' costituito da tutti i docenti, che a qualsiasi titolo vi impartiscono un insegnamento.
+b) aver frequentato come studente interno una clinica ostetrica e ginecologica dell'universita';
 
-Art. 97. - Alle scuole di specializzazione sono ammessi i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. Gli aspiranti debbono nei termini regolamentari, presentare apposita domanda su carta legale, indirizzata al rettore e corredata dal certificato di nascita, dal certificato di laurea e dalle quietanze del pagamento delle tasse, soprattasse e contributi relativi. Il numero degli iscritti e' determinato per ciascuna scuola.
+c) aver svolto la tesi di laurea nella clinica ostetrica e ginecologica;
 
-L'ammissione ai corsi avviene per concorso per titoli ed esami.
+d) documentazione di eventuali servizi prestati in grossi reparti ospitalieri della specialita';
 
-Gli specializzandi che chiedono il trasferimento dalla Universita' di Ferrara, possono ottenerlo soltanto con il consenso del rettore, udito il parere del direttore della scuola.
+e) eventuali pubblicazioni.
 
-Art. 98. - Per il conseguimento del titolo di specialista e' obbligatoria la frequenza ai corsi e l'esercitazione pratica in uno, almeno, degli istituti pertinenti agli insegnamenti impartiti.
+L'esame di ammissione deve espletarsi entro il mese di dicembre.
 
-Gli insegnamenti di ciascuna scuola sono quelli fissati nel presente statuto.
+Il numero degli iscritti e' di quattro per ogni anno di corso.
 
-Quando gli iscritti siano in numero limitato, gli insegnamenti possono non avere il carattere cattedratico ed essere svolti in quella forma che e' consentita dall'indole di ciascuna disciplina.
+Per nessun motivo il corso di 4 anni puo' essere abbreviato. Nessun titolo puo' esonerare dalla frequenza gli iscritti nei 4 anni di corso.
 
-In ogni caso, pero', per le materie fondamentali debbono essere tenuti appositi corsi per gli iscritti alla scuola.
+Gli iscritti, oltre all'obbligo di frequenza delle lezioni, esercitazioni, seminari, ecc., devono prestare servizio analogo a quello degli assistenti per non meno di 9 mesi all'anno.
 
-Non sono consentite iscrizioni con abbreviazioni di corso.
+Gli iscritti alla scuola debbono sostenere esami annuali di profitto e l'esame finale di diploma. La sessione di esami di profitto e' unica, ed e' espletata nel mese di ottobre.
 
-L'art. 99, relativo alle norme generali delle scuole di specializzazione in medicina e chirurgia, e' soppresso con il conseguente spostamento della numerazione degli articoli successivi.
+Non puo' essere iscritto all'anno successivo di corso chi non abbia superato le materie fondamentali della specialita'.
 
-L'art. 102, relativo alle norme generali per le scuole di specializzazione in medicina e chirurgia, e' modificato nel senso che il primo comma e' soppresso e sostituito dal seguente:
-
-"Le tasse e soprattasse da pagarsi dagli iscritti alle scuole di specializzazione sono quelle medesime stabilite dalla legge per le facolta' presso le quali le scuole sono istituite".
-
-Gli articoli 104 e 105, relativi alle norme generali per le scuole di specializzazione in medicina e chirurgia, sono soppressi e sostituiti dai seguenti:
-
-Art. 104. - Alle scuole di specializzazione si intendono applicabili tutte le norme legislative e regolamentari in vigore per tutto quanto non e contemplato nel presente statuto.
-
-Art. 105. - A coloro che hanno frequentato le scuole e superato le prove relative, verra' rilasciato, nelle forme legali, un diploma di specializzazione da valere a tutti gli effetti di legge.
-
-Dopo l'art. 156, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in immunoematologia:
-
-Scuola di specializzazione in immunoematologia
-
-Art. 157. - La scuola di specializzazione in immunoematologia ha sede presso l'istituto di patologia generale e conferisce il diploma di specialista in immunoematologia.
-
-Art. 158. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
-
-Art. 159. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
-
-Art. 160. - La durata del corso di studi e' di anni tre e non e' suscettibile di abbreviazioni.
-
-Art. 161. - Il numero massimo degli allievi e' di quindici per anno di corso e complessivamente di quarantacinque iscritti per l'intero corso di studi.
-
-Art. 162. - L'ammissione al corso avviene per titoli ed esami.
-
-Art. 163. - Le materie di insegnamento sono le seguenti:
+Il programma di studi e' il seguente:
 
 1° Anno:
 
-nozioni di biochimica e di morfologia del sangue;
+Elementi di genetica e di eugenica;
 
-immunita' ed allergia;
+Anatomia normale ed embriologia dell'apparato genitale femminile;
 
-gli antigeni individuali; sistematica dei gruppi sanguigni.
+Fisiologia dell'apparato genitale femminile;
+
+Endocrinologia fisiologica;
+
+Fisiologia ostetrica;
+
+Diagnostica ostetrica;
+
+Clinica ostetrica e ginecologica.
 
 2° Anno:
 
-organizzazione e metodologia trasfusionale I;
+Tecnica operatoria ostetrica;
 
-malattie da incompatibilita' gruppale;
+Diagnostica ginecologica;
 
-malattie trasmesse con la trasfusione di sangue e derivati.
+Tecnica diagnostica di laboratorio nel campo ostetrico-ginecologico, esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);
+
+Clinica ostetrica e ginecologica.
 
 3° Anno:
 
-organizzazione e metodologia trasfusionale II;
+Anatomia patologica ostetrica e ginecologica;
 
-legislazione e questioni giuridiche attinenti alla trasfusione di sangue e derivati;
+Istologia normale e patologica nel campo della specialita';
 
-aspetti medico-legali dell'immunoematologia.
+Puericultura prenatale;
 
-Le lezioni saranno integrate da esercitazioni pratiche e da conferenze attinenti alle materie di insegnamento e stabilite dal direttore della scuola.
+Emoterapia nel campo ostetrico e ginecologico;
 
-La frequenza alle lezioni, esercitazioni e seminari e' obbligatoria. E' obbligatoria l'esercitazione pratica nei reparti per periodi stabiliti dal direttore della scuola.
+Anestesia e analgesia nel campo ostetrico e ginecologico;
 
-Gli iscritti, al termine di ogni anno, per essere ammessi a quello successivo, dovranno superare, per singola disciplina, tutti gli esami di profitto sulle materie di insegnamento.
+Tecnica operatoria ginecologica;
 
-Per essere ammessi all'esame di diploma gli iscritti dovranno aver superato tutti gli esami relativi alle materie dell'intero corso di studi.
+Clinica ostetrica e ginecologica;
 
-L'esame di diploma consistera' nella esposizione e discussione di una tesi scritta su un argomento attinente all'immunoematologia.
+Terapia medica ostetrica e ginecologica.
+
+4° Anno:
+
+Puericultura postnatale e malattie del neonato;
+
+Ostetricia e ginecologia forense;
+
+Diagnostica roentgen, radioterapia in ostetricia e ginecologia;
+
+Clinica ostetrica e ginecologica (esame alla fine del quarto anno);
+
+Urologia ginecologica;
+
+Chirurgia addominale extra genitale.
+
+Gli esami si fanno per gruppi di materie ed i membri delle commissioni saranno preposti dai direttori delle scuole.
+
+A giudizio del consiglio della scuola, formulato sulla base del rendimento di ogni iscritto, gli specializzandi potranno essere esonerati dal pagamento delle tasse universitarie.
+
+Per il conseguimento del diploma, l'iscritto deve presentare e discutere una dissertazione scritta con contributo personale.
+
+Gli articoli 110, 111, 112 e 113, relativi alla "Scuola di specializzazione in chirurgia generale" che cambia la denominazione in quella di "Scuola di specializzazione in chirurgia", sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in chirurgia
+
+Art. 110. La scuola di specializzazione in chirurgia ha la durata di cinque anni. La sua sede naturale e' la clinica chirurgica. Il direttore della scuola deve essere un ordinario di clinica chirurgica di ruolo oppure uno dei membri titolari di materie chirurgiche della facolta'.
+
+Art. 111. - Alla scuola non potranno essere iscritti piu' di cinque laureati in medicina e chirurgia per ciascun anno di corso.
+
+La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base di titoli ed esami.
+
+Le materie obbligatorie per il conseguimento del diploma sono le seguenti:
+
+Anatomia chirurgica e corso di operazioni (triennale);
+
+Anatomia ed istologia patologica (biennale);
+
+Anestesia e rianimazione;
+
+Chirurgia cardiovascolare;
+
+Chirurgia d'urgenza;
+
+Chirurgia ginecologica;
+
+Chirurgia pediatrica;
+
+Chirurgia riparativa e plastica;
+
+Chirurgia sperimentale;
+
+Chirurgia toracica;
+
+Chirurgia urologica;
+
+Clinica chirurgica generale (quinquennale);
+
+Fisiopatologia chirurgica;
+
+Medicina legale;
+
+Neurochirurgia;
+
+Patologia speciale chirurgica (triennale);
+
+Radiologia;
+
+Ricerche di laboratorio;
+
+Semeiotica chirurgica;
+
+Semeiotica strumentale ed endoscopica;
+
+Trattamento pre e post-operatorio;
+
+Traumatologia ed ortopedia.
+
+Le suddette materie sono cosi' distribuite negli anni di corso:
+
+1° Anno:
+
+Clinica chirurgica generale;
+
+Patologia speciale chirurgica;
+
+Semeiotica chirurgica;
+
+Anatomia chirurgica e corso operazioni;
+
+Chirurgia sperimentale;
+
+Anestesia e rianimazione;
+
+Ricerche di laboratorio.
+
+2° Anno:
+
+Clinica chirurgica generale;
+
+Patologia speciale chirurgica;
+
+Semeiotica chirurgica;
+
+Anatomia chirurgica e corso operazioni;
+
+Fisiopatologia chirurgica;
+
+Trattamento pre e post-operatorio;
+
+Anatomia e istologia patologica.
+
+3° Anno:
+
+Clinica chirurgica generale;
+
+Patologia speciale chirurgica;
+
+Semeiotica strumentale ed endoscopica;
+
+Anatomia chirurgica e corso operazioni;
+
+Radiologia;
+
+Anatomia ed istologia patologica.
+
+4° Anno:
+
+Clinica chirurgica generale;
+
+Chirurgia ginecologica;
+
+Chirurgia urologica;
+
+Neurochirurgia;
+
+Traumatologia e ortopedia;
+
+Chirurgia pediatrica.
+
+5° Anno:
+
+Clinica chirurgica generale;
+
+Chirurgia toracica;
+
+Chirurgia cardiovascolare;
+
+Chirurgia riparativa e plastica;
+
+Chirurgia d'urgenza;
+
+Medicina legale.
+
+Art. 112. - Non sono consentite iscrizioni con abbreviazioni di corso.
+
+La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.
+
+L'internato e' obbligatorio durante tutti i cinque anni di corso e si svolge nella clinica chirurgica e negli istituti chirurgici specialistici, con presenza giornaliera nelle sale operatorie, negli ambulatori, nei laboratori e nelle sale di degenza secondo i turni stabiliti dal direttore della scuola.
+
+Dall'obbligo di tale internato saranno esentati quegli allievi che, in qualita' di assistenti e di aiuti, prestino effettivamente servizio presso reparti di chirurgia generale delle universita' e di ospedali di 1ª e 2ª categoria.
+
+Gli allievi hanno doveri ed attribuzioni analoghi a quelli degli assistenti.
+
+La frequenza nelle sale operatorie iniziera' fin dal primo anno di corso, e dopo un periodo di tirocinio, dovra' trasformarsi in compartecipazione attiva agli interventi operatori.
+
+Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.
+
+L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.
+
+Art. 113. - Alla fine del corso l'allievo dovra' sostenere un esame generale di profitto.
+
+Gli articoli 138, 139, 140 e 141, relativi alla "Scuola di specializzazione in clinica otorinolaringoiatrica" che cambia la denominazione in quella di "Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale", sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale
+
+Art. 138. - La scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale, ha sede presso la clinica otorinolaringoiatrica ed ha la durata di tre anni. Direttore della scuola e' il direttore della clinica otorinolaringoiatrica.
+
+Art. 139. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+Anatomia;
+
+Fisiologia;
+
+Audiologia (1° anno);
+
+Semeiotica otorinolaringoiatrica;
+
+Tecnica di laboratorio;
+
+Patologia otorinolaringoiatrica e cervico-facciale;
+
+Anatomia ed istologia patologica otorinolaringoiatrica.
+
+2° Anno:
+
+Tecniche operatorie in otorinolaringoiatria;
+
+Anestesiologia in otorinolaringoiatria;
+
+Patologia e clinica otorinolaringoiatrica e cervico-facciale (1° anno);
+
+Radiologia in rapporto con l'otorinolaringoiatria;
+
+Pediatria in rapporto con l'otorinolaringoiatria;
+
+Audiologia (2° anno);
+
+Otoneurologia;
+
+Foniatria.
+
+3° Anno:
+
+Patologia e clinica otorinolaringoiatrica e cervico-facciale (2° anno);
+
+Terapia medica e fisica in otorinolaringoiatria;
+
+Neuropatologia in rapporto con l'otorinolaringoiatria;
+
+Oculistica in rapporto con l'otorinolaringoiatria;
+
+Chirurgia plastica;
+
+Tracheo-broncoscopia;
+
+Medicina legale e infortunistica in otorinolaringoiatria.
+
+Art. 140. - Possono iscriversi alla scuola i laureati in medicina e chirurgia nel numero massimo di sei per ogni anno di corso.
+
+Gli iscritti sono tenuti non soltanto a presenziare alle lezioni ed a prendere parte alle esercitazioni, ma anche a svolgere un internato in modo da poter ricavare una esperienza diretta sia dall'attivita' nei reparti operatori che dall'osservazione clinica continuata del paziente.
+
+Art. 141. - Per accedere ai corsi successivi e' obbligatorio il superamento di tutti gli esami del corso precedente, ivi comprese le materie biennali.
+
+Il diploma di specialista in otorinolaringoiatria e patologia cervico-facciale viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico o sperimentale.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 11 maggio 1979
+Dato a Roma, addi' 7 giugno 1972
 
-PERTINI
+LEONE
 
-SPADOLINI
+MISASI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 28 luglio 1979 Registro n. 60 Istruzione, foglio n. 186
+alla Corte dei conti, addi' 25 luglio 1972 Atti del Governo, registro n. 250, foglio n. 68. - CARUSO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933 n. 592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-La dizione del titolo III dello statuto "Scuole di perfezionamento e di specializzazione annesse alla facolta' di medicina e chirurgia", e' soppressa e sostituita dalla seguente: "Scuole di specializzazione annesse alla facolta' di medicina e chirurgia". Gli articoli 94, 95, 96, 97 e 98, relativi alle norme generali per le scuole di specializzazione annesse alla facolta' di medicina e chirurgia, sono soppressi e sostituiti dai seguenti:   
-Art. 94. - Le scuole post-universitarie di specializzazione conferiscono i rispettivi diplomi di specialista ai sensi dell'[art. 178 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art178).   
-Art. 95. - La direzione delle scuole di specializzazione e' affidata ad un professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine. La facolta' di medicina e chirurgia e' chiamata a deliberare in merito.   
-Il direttore presiede il consiglio della scuola costituito a norma dell'articolo seguente; vigila sul buon funzionamento di essa ed e' tenuto a dare comunicazione al preside della facolta' di medicina e chirurgia di tutti gli atti e di tutte le deliberazioni del consiglio da lui presieduto.   
-Gli insegnanti sono proposti dal direttore, che puo' sceglierli tra i professori di ruolo, tra i liberi docenti, tra gli assistenti, tra cultori della materia e sono nominati dalla facolta'.   
-Art. 96. - Il consiglio dei professori di ciascuna delle scuole di specializzazione e' costituito da tutti i docenti, che a qualsiasi titolo vi impartiscono un insegnamento.   
-Art. 97. - Alle scuole di specializzazione sono ammessi i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. Gli aspiranti debbono nei termini regolamentari, presentare apposita domanda su carta legale, indirizzata al rettore e corredata dal certificato di nascita, dal certificato di laurea e dalle quietanze del pagamento delle tasse, soprattasse e contributi relativi. Il numero degli iscritti e' determinato per ciascuna scuola.   
-L'ammissione ai corsi avviene per concorso per titoli ed esami.   
-Gli specializzandi che chiedono il trasferimento dalla Universita' di Ferrara, possono ottenerlo soltanto con il consenso del rettore, udito il parere del direttore della scuola.   
-Art. 98. - Per il conseguimento del titolo di specialista e' obbligatoria la frequenza ai corsi e l'esercitazione pratica in uno, almeno, degli istituti pertinenti agli insegnamenti impartiti.   
-Gli insegnamenti di ciascuna scuola sono quelli fissati nel presente statuto.   
-Quando gli iscritti siano in numero limitato, gli insegnamenti possono non avere il carattere cattedratico ed essere svolti in quella forma che e' consentita dall'indole di ciascuna disciplina.   
-In ogni caso, pero', per le materie fondamentali debbono essere tenuti appositi corsi per gli iscritti alla scuola.   
-Non sono consentite iscrizioni con abbreviazioni di corso.   
-L'art. 99, relativo alle norme generali delle scuole di specializzazione in medicina e chirurgia, e' soppresso con il conseguente spostamento della numerazione degli articoli successivi.   
-L'art. 102, relativo alle norme generali per le scuole di specializzazione in medicina e chirurgia, e' modificato nel senso che il primo comma e' soppresso e sostituito dal seguente:   
-"Le tasse e soprattasse da pagarsi dagli iscritti alle scuole di specializzazione sono quelle medesime stabilite dalla legge per le facolta' presso le quali le scuole sono istituite".   
-Gli articoli 104 e 105, relativi alle norme generali per le scuole di specializzazione in medicina e chirurgia, sono soppressi e sostituiti dai seguenti:   
-Art. 104. - Alle scuole di specializzazione si intendono applicabili tutte le norme legislative e regolamentari in vigore per tutto quanto non e contemplato nel presente statuto.   
-Art. 105. - A coloro che hanno frequentato le scuole e superato le prove relative, verra' rilasciato, nelle forme legali, un diploma di specializzazione da valere a tutti gli effetti di legge.   
-Dopo l'art. 156, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in immunoematologia:   
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+L'art. 109, relativo alla "Scuola di specializzazione in clinica ostetrica e ginecologica" che muta la denominazione in quella di "Scuola di specializzazione in ostetricia e ginecologia", e' abrogato e sostituito dal seguente:  
   
-Scuola di specializzazione in immunoematologia   
-Art. 157. - La scuola di specializzazione in immunoematologia ha sede presso l'istituto di patologia generale e conferisce il diploma di specialista in immunoematologia.   
-Art. 158. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Art. 159. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-Art. 160. - La durata del corso di studi e' di anni tre e non e' suscettibile di abbreviazioni.   
-Art. 161. - Il numero massimo degli allievi e' di quindici per anno di corso e complessivamente di quarantacinque iscritti per l'intero corso di studi.   
-Art. 162. - L'ammissione al corso avviene per titoli ed esami.   
-Art. 163. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-nozioni di biochimica e di morfologia del sangue;   
-immunita' ed allergia;   
-gli antigeni individuali; sistematica dei gruppi sanguigni.   
-2° Anno:   
-organizzazione e metodologia trasfusionale I;   
-malattie da incompatibilita' gruppale;   
-malattie trasmesse con la trasfusione di sangue e derivati.   
-3° Anno:   
-organizzazione e metodologia trasfusionale II;   
-legislazione e questioni giuridiche attinenti alla trasfusione di sangue e derivati;   
-aspetti medico-legali dell'immunoematologia.   
-Le lezioni saranno integrate da esercitazioni pratiche e da conferenze attinenti alle materie di insegnamento e stabilite dal direttore della scuola.   
-La frequenza alle lezioni, esercitazioni e seminari e' obbligatoria. E' obbligatoria l'esercitazione pratica nei reparti per periodi stabiliti dal direttore della scuola.   
-Gli iscritti, al termine di ogni anno, per essere ammessi a quello successivo, dovranno superare, per singola disciplina, tutti gli esami di profitto sulle materie di insegnamento.   
-Per essere ammessi all'esame di diploma gli iscritti dovranno aver superato tutti gli esami relativi alle materie dell'intero corso di studi.   
-L'esame di diploma consistera' nella esposizione e discussione di una tesi scritta su un argomento attinente all'immunoematologia.   
+Scuola di specializzazione in ostetricia e ginecologia  
+  
+Art. 109. - Il corso di studi per la specializzazione in ostetricia e ginecologia ha la durata di 4 anni. La ammissione alla scuola avviene a seguito di concorso per titoli ed esami.  
+Sono da considerarsi titoli preferenziali, a parita' di risultato dell'esame di ammissione:  
+a) il voto di laurea in medicina e chirurgia;  
+b) aver frequentato come studente interno una clinica ostetrica e ginecologica dell'universita';  
+c) aver svolto la tesi di laurea nella clinica ostetrica e ginecologica;  
+d) documentazione di eventuali servizi prestati in grossi reparti ospitalieri della specialita';  
+e) eventuali pubblicazioni.  
+L'esame di ammissione deve espletarsi entro il mese di dicembre.  
+Il numero degli iscritti e' di quattro per ogni anno di corso.  
+Per nessun motivo il corso di 4 anni puo' essere abbreviato. Nessun titolo puo' esonerare dalla frequenza gli iscritti nei 4 anni di corso.  
+Gli iscritti, oltre all'obbligo di frequenza delle lezioni, esercitazioni, seminari, ecc., devono prestare servizio analogo a quello degli assistenti per non meno di 9 mesi all'anno.  
+Gli iscritti alla scuola debbono sostenere esami annuali di profitto e l'esame finale di diploma. La sessione di esami di profitto e' unica, ed e' espletata nel mese di ottobre.  
+Non puo' essere iscritto all'anno successivo di corso chi non abbia superato le materie fondamentali della specialita'.  
+Il programma di studi e' il seguente:  
+  
+1° Anno:  
+Elementi di genetica e di eugenica;  
+Anatomia normale ed embriologia dell'apparato genitale femminile;  
+Fisiologia dell'apparato genitale femminile;  
+Endocrinologia fisiologica;  
+Fisiologia ostetrica;  
+Diagnostica ostetrica;  
+Clinica ostetrica e ginecologica.  
+  
+2° Anno:  
+Tecnica operatoria ostetrica;  
+Diagnostica ginecologica;  
+Tecnica diagnostica di laboratorio nel campo ostetrico-ginecologico, esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);  
+Clinica ostetrica e ginecologica.  
+  
+3° Anno:  
+Anatomia patologica ostetrica e ginecologica;  
+Istologia normale e patologica nel campo della specialita';  
+Puericultura prenatale;  
+Emoterapia nel campo ostetrico e ginecologico;  
+Anestesia e analgesia nel campo ostetrico e ginecologico;  
+Tecnica operatoria ginecologica;  
+Clinica ostetrica e ginecologica;  
+Terapia medica ostetrica e ginecologica.  
+  
+4° Anno:  
+Puericultura postnatale e malattie del neonato;  
+Ostetricia e ginecologia forense;  
+Diagnostica roentgen, radioterapia in ostetricia e ginecologia;  
+Clinica ostetrica e ginecologica (esame alla fine del quarto anno);  
+Urologia ginecologica;  
+Chirurgia addominale extra genitale.  
+  
+Gli esami si fanno per gruppi di materie ed i membri delle commissioni saranno preposti dai direttori delle scuole.  
+A giudizio del consiglio della scuola, formulato sulla base del rendimento di ogni iscritto, gli specializzandi potranno essere esonerati dal pagamento delle tasse universitarie.  
+Per il conseguimento del diploma, l'iscritto deve presentare e discutere una dissertazione scritta con contributo personale.  
+Gli articoli 110, 111, 112 e 113, relativi alla "Scuola di specializzazione in chirurgia generale" che cambia la denominazione in quella di "Scuola di specializzazione in chirurgia", sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in chirurgia  
+  
+Art. 110. La scuola di specializzazione in chirurgia ha la durata di cinque anni. La sua sede naturale e' la clinica chirurgica. Il direttore della scuola deve essere un ordinario di clinica chirurgica di ruolo oppure uno dei membri titolari di materie chirurgiche della facolta'.  
+Art. 111. - Alla scuola non potranno essere iscritti piu' di cinque laureati in medicina e chirurgia per ciascun anno di corso.  
+La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base di titoli ed esami.  
+Le materie obbligatorie per il conseguimento del diploma sono le seguenti:  
+  
+Anatomia chirurgica e corso di operazioni (triennale);  
+Anatomia ed istologia patologica (biennale);  
+Anestesia e rianimazione;  
+Chirurgia cardiovascolare;  
+Chirurgia d'urgenza;  
+Chirurgia ginecologica;  
+Chirurgia pediatrica;  
+Chirurgia riparativa e plastica;  
+Chirurgia sperimentale;  
+Chirurgia toracica;  
+Chirurgia urologica;  
+Clinica chirurgica generale (quinquennale);  
+Fisiopatologia chirurgica;  
+Medicina legale;  
+Neurochirurgia;  
+Patologia speciale chirurgica (triennale);  
+Radiologia;  
+Ricerche di laboratorio;  
+Semeiotica chirurgica;  
+Semeiotica strumentale ed endoscopica;  
+Trattamento pre e post-operatorio;  
+Traumatologia ed ortopedia.  
+  
+Le suddette materie sono cosi' distribuite negli anni di corso:  
+  
+1° Anno:  
+Clinica chirurgica generale;  
+Patologia speciale chirurgica;  
+Semeiotica chirurgica;  
+Anatomia chirurgica e corso operazioni;  
+Chirurgia sperimentale;  
+Anestesia e rianimazione;  
+Ricerche di laboratorio.  
+  
+2° Anno:  
+Clinica chirurgica generale;  
+Patologia speciale chirurgica;  
+Semeiotica chirurgica;  
+Anatomia chirurgica e corso operazioni;  
+Fisiopatologia chirurgica;  
+Trattamento pre e post-operatorio;  
+Anatomia e istologia patologica.  
+  
+3° Anno:  
+Clinica chirurgica generale;  
+Patologia speciale chirurgica;  
+Semeiotica strumentale ed endoscopica;  
+Anatomia chirurgica e corso operazioni;  
+Radiologia;  
+Anatomia ed istologia patologica.  
+  
+4° Anno:  
+Clinica chirurgica generale;  
+Chirurgia ginecologica;  
+Chirurgia urologica;  
+Neurochirurgia;  
+Traumatologia e ortopedia;  
+Chirurgia pediatrica.  
+  
+5° Anno:  
+Clinica chirurgica generale;  
+Chirurgia toracica;  
+Chirurgia cardiovascolare;  
+Chirurgia riparativa e plastica;  
+Chirurgia d'urgenza;  
+Medicina legale.  
+  
+Art. 112. - Non sono consentite iscrizioni con abbreviazioni di corso.  
+La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.  
+L'internato e' obbligatorio durante tutti i cinque anni di corso e si svolge nella clinica chirurgica e negli istituti chirurgici specialistici, con presenza giornaliera nelle sale operatorie, negli ambulatori, nei laboratori e nelle sale di degenza secondo i turni stabiliti dal direttore della scuola.  
+Dall'obbligo di tale internato saranno esentati quegli allievi che, in qualita' di assistenti e di aiuti, prestino effettivamente servizio presso reparti di chirurgia generale delle universita' e di ospedali di 1ª e 2ª categoria.  
+Gli allievi hanno doveri ed attribuzioni analoghi a quelli degli assistenti.  
+La frequenza nelle sale operatorie iniziera' fin dal primo anno di corso, e dopo un periodo di tirocinio, dovra' trasformarsi in compartecipazione attiva agli interventi operatori.  
+Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.  
+L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.  
+Art. 113. - Alla fine del corso l'allievo dovra' sostenere un esame generale di profitto.  
+Gli articoli 138, 139, 140 e 141, relativi alla "Scuola di specializzazione in clinica otorinolaringoiatrica" che cambia la denominazione in quella di "Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale", sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale  
+  
+Art. 138. - La scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale, ha sede presso la clinica otorinolaringoiatrica ed ha la durata di tre anni. Direttore della scuola e' il direttore della clinica otorinolaringoiatrica.  
+Art. 139. - Le materie di insegnamento sono le seguenti:  
+  
+1° Anno:  
+Anatomia;  
+Fisiologia;  
+Audiologia (1° anno);  
+Semeiotica otorinolaringoiatrica;  
+Tecnica di laboratorio;  
+Patologia otorinolaringoiatrica e cervico-facciale;  
+Anatomia ed istologia patologica otorinolaringoiatrica.  
+  
+2° Anno:  
+Tecniche operatorie in otorinolaringoiatria;  
+Anestesiologia in otorinolaringoiatria;  
+Patologia e clinica otorinolaringoiatrica e cervico-facciale (1° anno);  
+Radiologia in rapporto con l'otorinolaringoiatria;  
+Pediatria in rapporto con l'otorinolaringoiatria;  
+Audiologia (2° anno);  
+Otoneurologia;  
+Foniatria.  
+  
+3° Anno:  
+Patologia e clinica otorinolaringoiatrica e cervico-facciale (2° anno);  
+Terapia medica e fisica in otorinolaringoiatria;  
+Neuropatologia in rapporto con l'otorinolaringoiatria;  
+Oculistica in rapporto con l'otorinolaringoiatria;  
+Chirurgia plastica;  
+Tracheo-broncoscopia;  
+Medicina legale e infortunistica in otorinolaringoiatria.  
+  
+Art. 140. - Possono iscriversi alla scuola i laureati in medicina e chirurgia nel numero massimo di sei per ogni anno di corso.  
+Gli iscritti sono tenuti non soltanto a presenziare alle lezioni ed a prendere parte alle esercitazioni, ma anche a svolgere un internato in modo da poter ricavare una esperienza diretta sia dall'attivita' nei reparti operatori che dall'osservazione clinica continuata del paziente.  
+Art. 141. - Per accedere ai corsi successivi e' obbligatorio il superamento di tutti gli esami del corso precedente, ivi comprese le materie biennali.  
+Il diploma di specialista in otorinolaringoiatria e patologia cervico-facciale viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico o sperimentale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 maggio 1979
+### Dato a Roma, addi' 7 giugno 1972
 
-PERTINI SPADOLINI
+LEONE MISASI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 28 luglio 1979
+Registrato alla Corte dei conti, addi' 25 luglio 1972
 
-Registro n. 60 Istruzione, foglio n. 186
+Atti del Governo, registro n. 250, foglio n. 68. - CARUSO

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1972 n. 597
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1957 n. 447
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1972 n. 597
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1957 n. 447
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
@@ -10,285 +10,125 @@ Modificazioni allo statuto dell'Universita' degli studi di Roma.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successivi;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli da 465 a 470 relativi alla "Scuola di perfezionamento in chirurgia" che muta la denominazione in quella di: "Scuola di specializzazione in chirurgia", sono abrogati e sostituiti dai seguenti:  
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Scuola di specializzazione in chirurgia  
-(annessa alla Iª cattedra)  
-Art. 465. - La scuola di specializzazione in chirurgia conferisce il diploma di specializzazione in chirurgia.  
-Gli anni necessari per il conseguimento del diploma sono cinque.  
-Non sono consentite abbreviazioni di corso.  
-Art. 466. - Il numero degli specializzandi da ammettere alla scuola e' di ottanta complessivamente (sedici per ogni anno di corso).  
-La selezione dei candidati aspiranti all'ammissione alla scuola avviene in base a titoli ed esami.  
-Art. 467. - Le materie della scuola sono le seguenti:  
-1) Anatomia chirurgica e corso di operazioni (triennale);  
-2) Anatomia ed istologia patologica (biennale);  
-3) Anestesia e rianimazione;  
-4) Chirurgia cardiovascolare;  
-5) Chirurgia d'urgenza;  
-6) Chirurgia ginecologica;  
-7) Chirurgia pediatrica;  
-8) Chirurgia riparativa e plastica;  
-9) Chirurgia sperimentale;  
-10) Chirurgia toracica;  
-11) Chirurgia urologica;  
-12) Clinica chirurgica generale (quinquennale);  
-13) Fisiopatologia chirurgica;  
-14) Medicina legale;  
-15) Neurochirurgia;  
-16) Patologia speciale chirurgica (triennale);  
-17) Radiologia;  
-18) Ricerche di laboratorio;  
-19) Semeiotica chirurgica (biennale);  
-20) Semeiotica strumentale ed endoscopica;  
-21) Trattamento pre e post-operatorio;  
-22) Traumatologia ed ortopedia.  
-Art. 468. - Le materie sopraelencate sono cosi' distribuite nei singoli anni:  
+Dopo le scuole di perfezionamento e di specializzazione della Facolta' di giurisprudenza, vanno inserite le seguenti norme riguardanti i corsi di specializzazione della Facolta' di economia e commercio.   
   
-1° Anno:  
-Clinica chirurgica generale;  
-Patologia speciale chirurgica;  
-Semeiotica chirurgica;  
-Anatomia chirurgica e corso di operazioni;  
-Chirurgia sperimentale;  
-Anestesia e rianimazione;  
-Ricerche di laboratorio.  
+Corso di specializzazione in discipline bancarie   
   
-2° Anno:  
-Clinica chirurgica generale;  
-Patologia speciale chirurgica;  
-Semeiotica chirurgica;  
-Anatomia chirurgica e corso di operazioni;  
-Fisiopatologia chirurgica;  
-Trattamento pre e post-operatorio;  
-Anatomia ed istologia patologica.  
+Art. 215. - Il corso di specializzazione in discipline bancarie, annesso alla Facolta' di economia e commercio di Roma, ha lo scopo di completare nei laureati in economia e commercio le conoscenze utili al raggiungimento di una specifica maturita' in ordine alle esigenze di una fattiva e responsabile direzione di organismi bancari importanti.   
+Art. 216. - Il direttore del corso di specializzazione, e' il professore di ruolo, titolare della cattedra di tecnica bancaria e professionale.   
+Il direttore del corso, su conforme parere del Consiglio della facolta', puo' proporre che un professore del Consiglio di facolta', docente del corso assuma le funzioni di vice-direttore con l'incarico di coadiuvarlo e di sostituirlo temporaneamente. Alla nomina provvede il rettore.   
+Gli insegnanti del corso sono proposti annualmente dal direttore, che puo' sceglierli fra i professori di ruolo e fuori ruolo, fra i liberi docenti, o anche fra persone di riconosciuta competenza nelle rispettive specialita'.   
+Tali proposte sono subordinate all'approvazione del Consiglio di facolta' e alle nomine provvede il rettore.   
+Il Consiglio del corso si compone di tutti i professori che vi tengono gli insegnamenti prescritti ed e' presieduto dal direttore.   
+Art. 217. - Al corso possono essere iscritti i laureati in economia e commercio e i laureati stranieri in possesso di titoli di studio che siano giudicati dalle autorita' accademiche equipollenti alla laurea italiana in economia e commercio al solo effetto dell'ammissione al corso.   
+Art. 218. - Nel manifesto annuale possono essere stabilite particolari condizioni di ammissione, nonche' un numero massimo di iscrizioni. In mancanza di un sufficiente numero di iscritti il Consiglio di facolta' puo' disporre che il corso non abbia luogo per un anno.   
+Tuttavia, se il corso venga comunque iniziato, dovra' essere proseguito, qualunque sia il numero degli iscritti, per la durata dell'intero corso.   
+Art. 219. - Il corso ha la durata di un anno e consiste nei seguenti insegnamenti che si svolgeranno nei periodi e con la durata che saranno fissati dal Consiglio dei professori:   
+1) Economia monetaria e creditizia;   
+2) Diritto bancario;   
+3) Ordinamenti bancari esteri;   
+4) Organizzazione amministrativa e gestione delle imprese bancarie;   
+5) Organizzazione contabile delle imprese bancarie;   
+6) Ordinamento e tecnica dei crediti speciali;   
+7) Mercato finanziario e tecnica di borsa;   
+8) Tecnica e disciplina dei cambi e del commercio estero;   
+9) Diritto tributario;   
+10) Statistica di mercato e statistica bancaria;   
+11) Rapporti di lavoro, assistenza e previdenza sociale nelle banche;   
+12) Organizzazione meccanografica dei servizi di banca.   
+Art. 220. - Il corso rilascia un certificato di frequenza e di esami sostenuti ai candidati che, avendo frequentato il corso stesso, superino, entro un periodo massimo di un biennio dalla iscrizione, gli esami delle singole discipline di cui all'art. 219, nonche' un esame finale.   
+Art. 221. - L'esame finale consistera' in una prova orale di cultura generale sulle discipline interessanti la specializzazione e sara' sostenuto dopo aver superato tutti gli esami speciali davanti a una Commissione di sette membri, nominati dal rettore, su proposta del direttore del corso e composta in totalita', od in maggioranza, da insegnanti del corso stesso.   
+Art. 222. - A completamento degli insegnamenti di cui all'art. 219 potranno essere tenute esercitazioni pratiche, conferenze su argomenti interessanti la specializzazione e predisposti viaggi di studio, visite e periodi di pratica in Italia e all'estero.   
+Art. 223. - Per gli iscritti al corso valgono, in quanto applicabili, le disposizioni regolamentari vigenti per gli studenti dei corsi di laurea.   
+Art. 224. - Gli iscritti al corso sono tenuti a pagare le medesime tasse, soprattasse e contributi generali, nella misura stabilita dalle vigenti disposizioni di legge per gli studenti della Facolta' di economia e commercio. La misura dei contributi per le esercitazioni di cui gli iscritti usufruiranno durante il corso e' fissata dal Consiglio di amministrazione, su proposta del Senato accademico, udito il Consiglio di facolta'.   
   
-3° Anno:  
-Clinica chirurgica generale;  
-Patologia speciale chirurgica;  
-Semeiotica strumentale ed endoscopica;  
-Anatomia chirurgica e corso di operazioni;  
-Radiologia;  
-Anatomia ed istologia patologica.  
+Corso di specializzazione in economia dei trasporti e del turismo   
+Art. 225. - Il corso di specializzazione in economia dei trasporti e del turismo annesso alla Facolta' di economia e commercio ha lo scopo di completare nei laureati le conoscenze utili per la direzione e gli impieghi presso le imprese turistiche, alberghiere e di trasporto e presso le aziende e gli enti pubblici interessati al movimento dei forestieri, ai trasporti e alle comunicazioni.   
+Art. 226. - Il direttore del corso e' nominato dal rettore fra i professori di ruolo della Facolta', su proposta del Consiglio della facolta' stessa, dura in carica un triennio, e puo' essere confermato.   
+Il direttore del corso su conforme parere della Facolta' puo' proporre che un professore della stessa Facolta', docente del corso, assuma le funzioni di vice direttore con l'incarico di coadiuvarlo e di sostituirlo temporaneamente. Alla nomina provvede il rettore.   
+Gli insegnanti del corso sono proposti annualmente dal direttore, che puo' sceglierli fra i professori di ruolo e fuori ruolo, fra i liberi docenti, o anche fra persone di riconosciuta competenza nelle rispettive specialita'.   
+Tali proposte sono subordinate all'approvazione della Facolta' e alle nomine provvede il rettore.   
+Il Consiglio del corso si compone di tutti i professori che vi tengono gli insegnamenti prescritti ed e' presieduto dal direttore.   
+Art. 227. - Al corso possono essere iscritti i laureati in economia e commercio, in giurisprudenza, in scienze politiche e in scienze statistiche, demografiche e attuariali od anche laureati stranieri in possesso di titoli di studio che siano giudicati dalle autorita' accademiche equipollenti alle lauree italiane di cui al presente articolo al solo effetto dell'ammissione al corso.   
+Art. 228. - Nel manifesto annuale possono essere stabilite particolari condizioni di ammissione, nonche' un numero, massimo di iscrizioni. In mancanza di un sufficiente numero di iscritti, il Consiglio di facolta' puo' disporre che il corso non abbia luogo per un anno.   
+Tuttavia, se il corso venga comunque iniziato, dovra' essere proseguito, qualunque sia il numero degli iscritti per la durata dell'intero corso.   
+Art. 229. - Il corso ha la durata di un anno e consiste nei seguenti insegnamenti che si svolgeranno nei periodi e con la durata che saranno fissati dal Consiglio dei professori:   
+1) Economia dei trasporti e del turismo;   
+2) Statistica dei trasporti e del turismo;   
+3) Sociologia e psicologia del turismo;   
+4) Geografia delle comunicazioni;   
+5) Tecnica amministrativa delle imprese dei trasporti e di turismo;   
+6) Tecnica merceologica dei trasporti;   
+7) Legislazione dei trasporti e del turismo;   
+8) Tecnica valutaria e creditizia.   
+Art. 230. - Il corso rilascia un certificato di frequenza e di esami sostenuti ai candidati che, avendo frequentato il corso, superino, entro un periodo massimo di un biennio dalla iscrizione, gli esami delle discipline di cui all'art. 229, ed un esame finale nonche' esami di lingua francese e di un'altra lingua europea.   
+Art. 231. - L'esame finale, al quale gli iscritti potranno presentarsi dopo aver superato tutti gli esami di profitto, consistera' nella discussione di una memoria originale su argomento relativo alle materie di insegnamento e sara' sostenuto dai candidati davanti ad una Commissione composta di sette membri, nominata dal rettore, su proposta del direttore del corso e composta in totalita', od in maggioranza, da insegnanti del corso stesso.   
+Art. 232. - A complemento degli insegnamenti di cui all'art. 229 potranno essere tenute conferenze sui problemi della propaganda, della pubblicita', del diritto marittimo ed aereo, di amministrazione e di altre materie affini, da esperti in materia, e potranno anche essere predisposte visite e gite di studio per la conoscenza del funzionamento di organizzazioni per la ricettivita' ed i trasporti.   
+Art. 233. - Per gli iscritti al corso valgono, in quanto applicabili, le disposizioni regolamentari vigenti per gli studenti dei corsi di laurea.   
+Art. 234. - Gli iscritti al corso sono tenuti a pagare le medesime tasse, soprattasse e contributi generali, nella misura stabilita dalle vigenti disposizioni di legge per gli studenti della Facolta' di economia e commercio.   
+La misura dei contributi per le esercitazioni di cui gli iscritti usufruiranno durante il corso e' fissata dal Consiglio di amministrazione su proposta del Senato accademico, udito il Consiglio di facolta'.   
+Dopo l'art. 384, sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di specializzazione in ingegneria del traffico, con il conseguente spostamento della numerazione degli articoli successivi.   
   
-4° Anno:  
-Clinica chirurgica generale;  
-Chirurgia ginecologica;  
-Chirurgia urologica;  
-Neurochirurgia;  
-Traumatologia ed ortopedia;  
-Chirurgia pediatrica.  
+Corso di specializzazione in ingegneria del traffico   
   
-5° Anno:  
-Clinica chirurgica generale;  
-Chirurgia toracica;.  
-Chirurgia cardiovascolare;  
-Chirurgia riparativa e plastica;  
-Chirurgia d'urgenza;  
-Medicina legale.  
-  
-Art. 469. - I corsi saranno corredati da esercitazioni pratiche.  
-La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.  
-L'internato e' obbligatorio durante tutti i cinque anni del corso e si svolgera' presso la clinica chirurgica sotto forma di permanenza costante nella detta clinica durante le ore della sua attivita' con presenza giornaliera negli ambulatori e nei reparti di degenza.  
-Dall'obbligo di tale internato saranno esentati quegli allievi che, in qualita' di assistenti o di aiuti, prestino effettivamente servizio presso reparti di chirurgia generale delle universita' o di ospedali di I e II categoria.  
-Gli allievi hanno doveri ed attribuzioni analoghi a quelli degli assistenti della clinica. Gli specializzandi frequenteranno a turno le sale operatorie iniziando dal primo anno e quindi, una volta completato il primo triennio e superato i relativi esami potranno partecipare attivamente agli interventi operatori.  
-Per i corsi che non siano di pertinenza della clinica chirurgica, verranno stabiliti periodi di frequenza continuativa presso i relativi reparti specialistici.  
-Il direttore ed i docenti della scuola si accerteranno, durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.  
-L'allievo che non abbia ottemperato agli obblighi di frequenza, non sara' ammesso a sostenere gli esami annuali.  
-Art. 470. - Alla fine del corso di specializzazione l'allievo dovra' sostenere un esame generale di profitto.  
-Gli articoli 481, 482 e 483, relativi alla "Scuola di perfezionamento in dermosifilopatia" che muta la denominazione in quella di "Scuola di specializzazione in clinica dermosifilopatica" sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in clinica dermosifilopatica  
-Art. 481. - Il corso degli studi della scuola di specializzazione in clinica dermosifilopatica ha la durata di tre anni.  
-Il numero massimo complessivo degli iscritti alla scuola e' di quindici per ogni anno di corso, per un totale di quarantacinque specializzandi.  
-Gli aspiranti all'iscrizione alla scuola saranno previamente sottoposti ad un esame di ammissione e saranno valutati i titoli preferenziali che i candidati stessi eventualmente abbiano presentato.  
-Art. 482. - Gli insegnamenti impartiti sono i seguenti:  
-1° Anno:  
-1) Anatomia e istologia normale della cute;  
-2) Fisiologia della cute e degli annessi cutanei;  
-3) Anatomia e fisiologia dell'apparato genitale;  
-4) Microbiologia e parassitologia applicate;  
-5) Tecnica di laboratorio con particolare riferimento alla sierologia applicata;  
-6) Semeiotica dermatologica e venereologica.  
-2° Anno:  
-1) Patologia delle malattie cutanee;  
-2) Patologia delle infezioni sessuali;  
-3) Anatomia e istologia patologica della cute;  
-4) Anatomia patologica delle malattie veneree e sessuali;  
-5) Dermatosi allergiche e professionali;  
-6) Angiologia;  
-7) Sessuologia.  
-3° Anno:  
-1) Clinica delle malattie cutanee;  
-2) Clinica delle infezioni sessuali;  
-3) Farmacologia e terapia medicamentosa;  
-4) Fisioterapia dermatologica;  
-5) Cosmetologia;  
-6) Chirurgia plastica riparatrice;  
-7) Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.  
-Art. 483. - Il corso di lezioni dovra' essere impartito mediante almeno 50 lezioni annuali, comprensive delle varie materie e la frequenza giornaliera degli iscritti non dovra' essere inferiore alle 4 ore effettive per tutta la durata dell'anno accademico. Gli specializzandi avranno percio' obblighi di internato onde seguire i corsi di lezioni e svolgere contemporaneamente attivita' pratica nelle corsie, negli ambulatori e nei laboratori.  
-Gli esami di profitto verranno dati in tre gruppi e in tre sessioni distinte, ogni gruppo comprende le materie proprie di ciascun anno di corso.  
-L'esame di diploma consistera' nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato 24 ore prima della prova.  
-Gli articoli 502, 503, 504, relativi alla "Scuola di specializzazione in otorinolaringoiatria" che muta la denominazione in quella di "Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale" sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale  
-  
-Art. 502. - La durata della scuola e' di tre anni.  
-Art. 503. - Il numero massimo degli iscritti e' di quattro per ogni anno di corso (totale: dodici iscritti).  
-Art. 504. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
-  
-1° Anno:  
-1) Anatomia;  
-2) Fisiologia;  
-3) Audiologia (biennale);  
-4) Semeiotica otorinolaringoiatrica;  
-5) Tecnica di laboratorio;  
-6) Patologia e' clinica otorinolaringoiatrica e cervicofacciale (triennale);  
-7) Anatomia e istologia patologica otorinolaringoiatrica:  
-  
-2° Anno:  
-1) Tecniche operatorie in otorinolaringoiatria;  
-2) Anestesiologia in otorinolaringoiatria;  
-3) Patologia e clinica otorinolaringoiatrica e cervicofacciale (triennale);  
-4) Radiologia in rapporto con l'otorinolaringoiatria;  
-5) Pediatria in rapporto con l'otorinolaringoiatria;  
-6) Audiologia (biennale);  
-7) Otoneurologia;  
-8) Foniatria.  
-  
-3° Anno:  
-1) Patologia e clinica otorinolaringoiatrica e cervicofacciale (triennale);  
-2) Terapia medica e fisica in otorinolaringoiatria;  
-3) Neuropatologia in rapporto con l'otorinolaringoiatria;  
-4) Oculistica in rapporto con l'otorinolaringoiatria;  
-5) Chirurgia plastica;  
-6) Tracheobroncoscopia;  
-7) Medicina legale ed infortunistica in otorinolaringoiatria;  
-  
-Gli articoli 505, 506 e 507, relativi alla "Scuola di perfezionamento in puericultura" che mutua la denominazione in quella di "Scuola di specializzazione in puericultura", sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in puericultura  
-Art. 505. - La scuola di specializzazione in puericultura ha la durata di tre anni e si propone di conferire un'approfondita preparazione teorico-pratica in biologia dell'eta' evolutiva e pediatria preventiva a laureati in medicina e chirurgia.  
-Alla scuola possono essere ammessi non piu' di dodici allievi per ciascun anno di corso, per un totale complessivo di trentasei allievi.  
-Eventuali abbreviazioni di corso potranno essere accordate su parere favorevole del consiglio della scuola.  
-Art. 506. - Le materie di insegnamento sono le seguenti:  
-  
-1° Anno:  
-1) Peculiarita' anatomo-fisiologiche dell'eta' evolutiva;  
-2) Elementi di genetica medica e di eugenetica;  
-3) Elementi di puericultura prenatale;  
-4) Auxologia;  
-5) Alimentazione e dietetica dell'eta' infantile;  
-6) Elementi di semeiotica infantile.  
-  
-2° Anno:  
-1) Psicologia ed igiene mentale dell'eta' evolutiva;  
-2) Igiene ed assistenza nell'eta' evolutiva;  
-3) Profilassi delle malattie infettive dell'infanzia;  
-4) Elementi di medicina scolastica;  
-5) Legislazione ed assistenza sociale dell'infanzia.  
-  
-3° Anno:  
-Tirocinio pratico presso la sede della scuola o altre istituzioni o enti che abbiano, a giudizio del consiglio della scuola, caratteristiche tali da assicurare lo svolgimento di un efficace tirocinio sotto l'aspetto eminentemente pratico.  
-  
-Art. 507. Durante ogni anno saranno svolte esercitazioni pratiche e conferenze su argomenti di puericultura.  
-Gli iscritti hanno obbligo di internato con le modalita' e l'orario che saranno stabiliti dal direttore della scuola, sentito il parere della facolta'.  
-Alla fine di ognuno dei primi due anni gli iscritti dovranno sostenere l'esame delle materie d'insegnamento. Al termine del 2° anno dovranno sostenere un esame teorico generale, mentre al termine del 3° anno dovranno sostenere un esame pratico unitamente all'esame di diploma che sara' valido a tutti gli effetti.  
-Gli articoli 519, 520, 521 e 522, relativi alla "Scuola di perfezionamento in odontoiatria e protesi dentaria" che muta la denominazione in quella di "Scuola di specializzazione in odontoiatria e protesi dentaria", sono abrogati e sostituiti dai seguenti, con il relativo spostamento della numerazione degli articoli successivi:  
-  
-Scuola di specializzazione in odontoiatria e protesi dentaria  
-Art. 519. - La scuola ha la durata di tre anni.  
-Art. 520. - Il numero degli iscritti e' di centoquarantacinque (145) per i tre anni di corso.  
-Art. 521. - Le materie di insegnamento nei tre anni di corso sono le seguenti:  
-  
-1° Anno:  
-1) Embriologia ed anatomia dentaria e maxillo-facciale;  
-2) Microbiologia e igiene orale;  
-3) Farmacologia;  
-4) Patologia odontostomatologica;  
-5) Odontotecnica;  
-6) Anestesia e chirurgia stomatologica;  
-7) Odontoiatria conservativa (1° anno) (biennale);  
-Esercitazioni pratiche.  
-2° Anno:  
-1) Odontoiatria conservativa (2° anno);  
-2) Clinica protesica dentaria e maxillo-facciale (1° anno) (biennale);  
-3) Paradontologia (1° anno) (biennale);  
-4) Anatomia e istopatologia odontostomatologica;  
-5) Odontoiatria infantile;  
-6) Radiologia odontostomatologica;  
-7) Ortopedia dento-maxillo-facciale (1° anno) (biennale);  
-8) Chirurgia maxillo-facciale (1° anno) (biennale);  
-Esercitazioni pratiche.  
-3° Anno:  
-1) Clinica odontostomatologica;  
-2) Chirurgia maxillo-facciale (2° anno);  
-3) Medicina legale odontostomatologica e delle assicurazioni;  
-4) Ortopedia dento-maxillo-facciale (2° anno);  
-5) Clinica protesica dentaria e maxillo-facciale (2° anno);  
-6) Parodontologia (2° anno);  
-Esercitazioni pratiche.  
-  
-Gli articoli 532, 533 e 534, relativi alla "Scuola di clinica della tubercolosi e delle malattie delle vie respiratorie" che muta la denominazione in quella di "Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio" sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio  
-Art. 532. - Il corso per la specializzazione in tisiologia e malattie dell'apparato respiratorio ha la durata di tre anni.  
-Il numero degli iscritti al primo anno non potra' essere superiore a quaranta.  
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-Art. 533. - Il piano di studi e' il seguente:  
-1° Anno:  
-1) Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);  
-2) Patologia della tubercolosi polmonare ed extrapolmonare;  
-3) Patologia delle malattie dell'apparato respiratorio;  
-4) Fisiologia e fisiopatologia generale dell'apparato respiratorio;  
-5) Semeiotica fisica e funzionale dell'apparato respiratorio;  
-6) Microbiologia;  
-7) Epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio;  
-2° Anno:  
-1) Anatomia e istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);  
-2) Clinica della tubercolosi (biennale);  
-3) Clinica delle malattie dell'apparato respiratorio (biennale);  
-4) Fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;  
-5) Broncologia;  
-6) Radiologia dell'apparato respiratorio;  
-7) Profilassi della tubercolosi;  
-8) Igiene e legislazione sociale.  
-3° Anno:  
-1) Clinica della tubercolosi (biennale);  
-2) Clinica delle malattie dell'apparato respiratorio (biennale);  
-3) Chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;  
-4) Terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;  
-5) Terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.  
-  
-Art. 534. - I corsi di insegnamento sono integrati da turni obbligatori di internato nei reparti di degenza e nei laboratori di ricerca, da esercitazioni pratiche, da seminari e da conferenze.  
-Alla fine di ogni anno saranno tenuti gli esami relativi. Il non aver sostenuto le prove, o l'averle sostenute con esito sfavorevole, non inibisce il passaggio all'anno successivo: pero' chi non ha superato gli esami dell'anno precedente non puo' presentarsi a quelli degli anni successivi.  
-Le materie di insegnamento saranno raggruppate in due esami teorici per ogni anno di corso. Gli esami di clinica saranno teorici e pratici.  
-Per il conseguimento del diploma di specializzazione e' prevista la presentazione e la discussione di una dissertazione scritta.  
-Sono ammesse abbreviazioni di corso non superiori al 1° anno di corso della scuola, in base alla presentazione di una provata qualificazione, a giudizio del direttore della scuola.  
+Art. 385. - Presso la Facolta' di ingegneria della Universita' degli studi di Roma e' istituito un corso di specializzazione in "ingegneria del traffico", al fine di preparare tecnici specializzati alla risoluzione di problemi inerenti alla circolazione dei mezzi di trasporto su strada.   
+Art. 386. - Il corso ha la durata di un anno; e' diretto da un professore ordinario della Facolta' nominato dal rettore su designazione del Consiglio di facolta'.   
+Il Consiglio del corso e' composto dal direttore e dai docenti degli insegnamenti costitutivi di cui all'art. 389.   
+Art. 387. - Al corso possono essere ammessi esclusivamente laureati in ingegneria.   
+Il Consiglio del corso delibera ogni anno tempestivamente l'inizio delle lezioni e lo svolgimento delle lezioni, il numero massimo degli iscritti e le norme per la ammissione nonche' il numero minimo di iscritti affinche' il corso stesso abbia luogo.   
+Il Consiglio di facolta' potra' sospendere lo svolgimento del corso a partire dall'anno accademico successivo alla deliberazione.   
+Art. 388. - La frequenza ai singoli insegnamenti deve essere attestata dai rispettivi docenti, secondo le modalita' stabilite dal Consiglio del corso.   
+Art. 389. - Gli insegnamenti impartiti nel corso si distinguono in costitutivi e monografici.   
+Gli insegnamenti costitutivi (con esercitazioni) sono:   
+1) Elementi del traffico;   
+2) Controllo e regolazione del traffico;   
+3) Progetto della viabilita';   
+4) Traffico e urbanistica.   
+Gli insegnamenti monografici sono:   
+1° gruppo:   
+1) Fondamenti di statistica;   
+2) Elementi di psicotecnica;   
+3) Legislazione e infortunistica.   
+2° gruppo:   
+1) Trasporti pubblici urbani e suburbani;   
+2) Problemi economici della ingegneria del traffico.   
+Gli esami degli insegnamenti costitutivi possono comprendere una prova pratica.   
+Il Consiglio del corso stabilisce la durata degli insegnamenti.   
+Gli insegnamenti monografici formano oggetto di esami di gruppo.   
+Gli insegnamenti potranno venire integrati da conferenze e visite ad impianti, stabilimenti o situazioni stradali di particolare interesse.   
+Art. 390. - E' data facolta' al direttore, all'inizio di ogni anno accademico, di rivedere il programma del corso e, sentito il parere del Consiglio, di sottoporre al Consiglio della facolta' proposte di variazioni del medesimo che saranno rese pubbliche soltanto dopo l'approvazione degli organi competenti, ai sensi delle vigenti disposizioni di legge.   
+Art. 391. - Gli insegnanti del corso sono proposti dal direttore, che puo' sceglierli fra i professori di ruolo e fuori ruolo, fra i liberi docenti, fra gli aiuti e gli assistenti o anche fra persone di riconosciuta competenza nelle rispettive specialita'. Tali proposte sono subordinate alla approvazione del Consiglio di facolta' e alle nomine provvede il rettore.   
+Art. 392. - Per la validita' del corso, cioe' per il conseguimento dell'attestato di cui all'art. 393, gli iscritti dovranno: superare gli esami degli insegnamenti costitutivi e quelli di gruppo sugli insegnamenti monografici; redigere un progetto o uno studio sulle materie d'insegnamento.   
+Tale ultimo elaborato verra' discusso alla presenza di una Commissione di cinque membri scelti fra i docenti del corso e nominata e presieduta dal direttore del corso.   
+Ogni esame fallito potra' essere ripetuto una sola volta.   
+Art. 393. - Agli iscritti che abbiano superato tutti gli esami ed ottenuta la idoneita' nel progetto o studio finale viene rilasciato un attestato comprovante la carriera scolastica compiuta.   
+Art. 394. - Gli iscritti al corso sono tenuti a pagare le tasse, soprattasse, contributi generali e per esercitazioni nella misura che verra' stabilita dal Consiglio di amministrazione della Universita' su proposta del Consiglio della facolta' udito il direttore del corso.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 agosto 1972
+### Dato a Roma, addi' 2 maggio 1957
 
-LEONE SCALFARO
+GRONCHI
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 10 ottobre 1972
+Registrato alla Corte dei conti, addi' 24 giugno 1957
 
-Atti del Governo, registro n. 251, foglio n. 117. - CARUSO
+Atti del Governo, registro n. 106, foglio n. 91. - CARLOMAGNO

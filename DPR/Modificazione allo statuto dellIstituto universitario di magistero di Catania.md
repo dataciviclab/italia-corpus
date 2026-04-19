@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1983 n. 694
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 maggio 1980 n. 582
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1983 n. 694
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 maggio 1980 n. 582
 =============================================================
 
 Modificazione allo statuto dell'Istituto universitario di magistero di Catania.
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Istituto universitario di magistero di Catania.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Istituto universitario di magistero di Catania, approvato con [regio decreto 18 settembre 1951, n. 1160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1951-09-18;1160), e successive modificazioni;
+Veduto lo statuto dell'Istituto universitario di magistero di Catania, approvato con [regio decreto 18 settembre 1951, n. 1160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1951-09-18;1160) e modificato con [regio decreto 25 settembre 1955, n. 957](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1955-09-25;957), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,13 +20,11 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Istituto anzidetto;
 
-Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Istituto universitario di magistero di Catania e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Istituto universitario anzidetto ai sensi della citata legge n. 615;
-
-Veduto il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
@@ -39,19 +37,33 @@ Articolo unico
 --------------
 
   
-Nell'art. 15, agli elenchi degli insegnamenti complementari dei corsi di laurea in materie letterarie e in pedagogia, e' aggiunto il seguente nuovo insegnamento:  
-storia amministrativa romana.  
+L'art. 15, lettere A), B), C), relativo all'ordinamento dei corsi di laurea in materie letterarie, pedagogia lingue e letterature straniere, e' modificato nel senso che agli elenchi degli insegnamenti complementari dei tre corsi di laurea sono aggiunti i seguenti insegnamenti:  
+A) Laurea in materie letterarie:  
+archeologia cristiana;  
+storia del teatro e dello spettacolo;  
+storia contemporanea.  
+B) Laurea in pedagogia:  
+storia della scuola e delle istituzioni educative;  
+storia della pedagogia;  
+pedagogia speciale;  
+psicopatologia generale;  
+tecnologia dell'educazione.  
+C) Laurea in lingue e letterature straniere:  
+storia della lingua francese;  
+storia della lingua inglese;  
+dialettologia italiana;  
+linguistica applicata.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 agosto 1983
+### Dato a Roma, addi' 20 maggio 1980
 
-PERTINI FALCUCCI
+PERTINI SARTI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 7 dicembre 1983
+Registrato alla Corte dei conti, addi' 18 settembre 1980.
 
-Registro n. 75 Istruzione, foglio n. 284
+Registro n. 87 Istruzione, foglio n. 34

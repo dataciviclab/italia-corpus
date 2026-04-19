@@ -1,155 +1,1133 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1957 n. 1221
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 ottobre 1978 n. 881
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1957 n. 1221
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 ottobre 1978 n. 881
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+L'art. 107, concernente la scuola di specializzazione in malattie dell'apparato digerente, che cambia la denominazione in quella di scuola di specializzazione in gastroenterologia ed endoscopia digestiva, e' abrogato e sostituito dal seguente:
+
+La scuola di specializzazione in gastroenterologia ed endoscopia digestiva ha sede presso la clinica medica generale e conferisce il diploma di specialista in gastroenterologia ed endoscopia digestiva.
+
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
+
+Il numero massimo degli allievi e' di dieci per ogni anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+anatomia clinica;
+
+farmacologia clinica;
+
+chimica clinica, coprologia, parassitologia;
+
+genetica;
+
+biostatistica ed epidemiologia.
+
+2° Anno:
+
+clinica medica generale I;
+
+clinica e terapia del tubo digerente, fegato e pancreas I;
+
+anatomia ed istologia patologica I;
+
+fisiopatologia e semeiotica digestiva I;
+
+radiologia e medicina nucleare I;
+
+scienza dell'alimentazione e dietetica.
+
+3° Anno:
+
+clinica medica generale II;
+
+clinica e terapia del tubo digerente, fegato e pancreas II;
+
+anatomia ed istologia patologica II;
+
+fisiopatologia e semeiotica digestiva II;
+
+radiologia e medicina nucleare II;
+
+endoscopia digestiva II.
+
+4° Anno:
+
+clinica medica generale III;
+
+clinica e terapia del tubo digerente, fegato e pancreas III;
+
+endoscopia digestiva;
+
+terapia intensiva;
+
+gastroenterologia pediatrica;
+
+elementi di chirurgia del tubo digerente, fegato e pancreas.
+
+E' obbligatoria la frequenza alle lezioni, alle esercitazioni oltre che il tirocinio pratico durante il quadriennio di studi da svolgere nell'istituto clinico sede della scuola o in altri istituti clinici o in reparti ospedalieri di gastroenterologia conforme alle scelte approvate dal consiglio della scuola.
+
+Potranno essere aggiunte alle materie fondamentali obbligatorie, alcune materie complementari con corsi semestrali, in numero non superiore a sei per la totalita' del corso.
+
+Gli insegnamenti saranno integrati da esercitazioni pratiche.
+
+L'esame di profitto si sosterra' alla fine dei singoli corsi: per le materie biennali e triennali sara' sostenuto un unico esame per ciascuna materia alla fine del biennio o triennio.
+
+Gli allievi del primo, del secondo e del terzo anno, per essere ammessi rispettivamente al secondo, terzo e quarto anno devono avere ottenuto tutte le firme di frequenza dei corsi e devono aver superato tutti i relativi esami.
+
+Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, dovranno superare le prove di esame sulle materie impartite durante l'anno; per le materie biennali e triennali, invece, sara' dato l'esame alla fine del biennio o del triennio.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in gastroenterologia ed endoscopia digestiva, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+La scuola di specializzazione in chirurgia di cui agli articoli 111, 112, 113 e 114 muta la denominazione in quella di scuola di specializzazione in chirurgia generale.
+
+L'art. 118, relativo alla scuola di specializzazione in neurologia, e' abrogato e sostituito dal seguente:
+
+Il corso della scuola di specializzazione in neurologia ha la durata di quattro anni ed e' tenuto presso l'istituto di clinica neurologica.
+
+Alla scuola non potranno essere iscritti piu' di cinque laureati in medicina e chirurgia per ogni anno di corso, previa ammissione per titoli ed esami.
+
+Gli articoli 130, 131, 132, 133 e 134, concernenti la scuola di specializzazione in chirurgia dell'infanzia, che muta la denominazione in quella di chirurgia pediatrica, sono soppressi e sostituiti dai seguenti:
+
+Scuola di specializzazione in chirurgia pediatrica
+
+Art. 130. - La scuola di specializzazione in chirurgia pediatrica istituita presso la facolta' di medicina e chirurgia conferisce il diploma di specialista in chirurgia pediatrica.
+
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+La durata del corso di studi per il conseguimento del diploma e' fissata in cinque anni e non e' suscettibile di abbreviazione.
+
+Art. 131. - Possono ottenere l'iscrizione alla scuola solo i laureati in medicina e chirurgia.
+
+L'ammissione alla scuola avviene mediante concorso per titoli ed esami (prova scritta su argomenti medicochirurgici generali).
+
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.
+
+Alla scuola non possono essere ammessi piu' di tre allievi per ciascun anno di corso e complessivamente di quindici iscritti per l'intero corso di studi.
+
+Art. 132. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Art. 133. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+embriologia e genetica delle malformazioni congenite;
+
+anatomia patologica generale (biennale);
+
+diagnostica radiologica e nucleare generale;
+
+anestesiologia;
+
+clinica pediatrica (biennale);
+
+patologia e clinica chirurgica generale (biennale).
+
+2° Anno:
+
+patologia e clinica chirurgica generale (biennale);
+
+rianimazione e terapia intensiva (biennale);
+
+anatomia patologica generale (biennale);
+
+diagnostica radiologica e nucleare delle malattie infantili;
+
+clinica pediatrica (biennale).
+
+3° Anno:
+
+patologia e clinica chirurgica pediatrica (triennale);
+
+endocrinologia pediatrica;
+
+tecnica chirurgica generale;
+
+rianimazione e terapia intensiva (biennale);
+
+chirurgia neonatale.
+
+4° Anno:
+
+patologia e clinica chirurgica pediatrica (triennale);
+
+neurochirurgia pediatrica;
+
+tecnica chirurgica pediatrica;
+
+ortopedia pediatrica;
+
+chirurgia plastica e ricostruttiva pediatrica.
+
+5° Anno:
+
+patologia e clinica chirurgica pediatrica (triennale);
+
+otorinolaringoiatria pediatrica;
+
+cardiochirurgia pediatrica;
+
+urologia pediatrica.
+
+Art. 134. - Alla fine di ogni corso, gli iscritti per essere ammessi agli anni di corso successivi, devono superare le prove d'esame sulle materie impartite durante l'anno ad eccezione delle discipline svolte in corsi pluriennali, il cui esame sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del corso di specializzazione, gli specializzandi dovranno presentare una dissertazione scritta su argomento di chirurgia pediatrica e sostenere l'esame di diploma.
+
+Gli articoli 149, 150, 151 e 152, concernenti la scuola di specializzazione in igiene e medicina preventiva, sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in igiene e medicina preventiva
+
+Art. 149. - La scuola di specializzazione in igiene e medicina preventiva ha sede presso l'istituto di igiene e conferisce il diploma di specialista in igiene e medicina preventiva, differenziato in uno dei cinque orientamenti di cui all'articolo successivo.
+
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
+
+Il numero massimo degli allievi e' di venti per anno di corso e complessivamente di ottanta iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Art. 150. - Il corso si articola in un biennio propedeutico seguito da un biennio differenziato con cinque orientamenti e precisamente:
+
+a) sanita' pubblica;
+
+b) igiene e tecnica ospedaliera;
+
+c) igiene del lavoro;
+
+d) igiene e medicina scolastica;
+
+e) laboratorio.
+
+((E' concessa l'iscrizione al terzo anno di altro orientamento a chi abbia gia' conseguito il diploma di specialita' in uno degli orientamenti previsti, seguendo il piano di studi proposto nel presente statuto)).
+
+Art. 151. - Il piano di studi e' il seguente:
+
+PRIMO BIENNIO
+
+1° Anno:
+
+metodologia statistica e biometria;
+
+educazione sanitaria;
+
+psicologia;
+
+microbiologia ed immunologia I;
+
+parassitologia;
+
+profilassi generale;
+
+epidemiologia generale e metodologia;
+
+sociologia medica ed antropologia culturale.
+
+2° Anno:
+
+microbiologia e immunologia II;
+
+patologia e clinica delle malattie infettive;
+
+epidemiologia e profilassi delle malattie infettive I;
+
+patologia e clinica delle malattie non infettive di importanza sociale;
+
+epidemiologia e profilassi delle malattie non infettive di importanza sociale I;
+
+demografia e statistica sanitaria;
+
+legislazione e programmazione sanitaria.
+
+SECONDO BIENNIO
+
+a) Orientamento di sanita' pubblica.
+
+3° Anno:
+
+epidemiologia e profilassi delle malattie infettive II;
+
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
+
+igiene dell'ambiente fisico e difesa ecologica;
+
+igiene degli alimenti e della nutrizione;
+
+igiene dell'eta' evolutiva;
+
+igiene del lavoro;
+
+igiene ed assistenza dell'anziano.
+
+4° Anno:
+
+igiene edilizia e dell'aggregato urbano;
+
+igiene ospedaliera;
+
+organizzazione del territorio e programmazione sanitaria;
+
+medicina di comunita';
+
+economia sanitaria;
+
+elementi di diritto amministrativo.
+
+b) Orientamento di igiene e tecnica ospedaliera.
+
+3° Anno:
+
+epidemiologia e profilassi delle malattie infettive II;
+
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
+
+igiene dell'ambiente fisico e difesa ecologica;
+
+igiene e tecnica delle costruzioni ospedaliere; arredamenti ed impianti tecnologici;
+
+igiene dell'alimentazione e dietetica ospedaliera;
+
+organizzazione e funzionamento degli ospedali I;
+
+elementi di diritto e legislazione ospedaliera.
+
+4° Anno:
+
+organizzazione e funzionamento degli ospedali II;
+
+compiti ed attribuzioni della direzione sanitaria;
+
+formazione professionale e compiti del personale ospedaliero;
+
+programmazione ospedaliera e medicina di comunita';
+
+assistenza psichiatrica;
+
+aspetti socio-sanitari dell'ospitalismo;
+
+aspetti economici della gestione ospedaliera.
+
+c) Orientamento di igiene del lavoro.
+
+3° Anno:
+
+epidemiologia e profilassi delle malattie infettive II;
+
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
+
+igiene dell'ambiente fisico e difesa ecologica;
+
+epidemiologia e profilassi delle malattie del lavoro;
+
+tecnica ed economia degli impianti industriali;
+
+tossicologia industriale e diagnostica di laboratorio;
+
+elementi di fisica tecnica applicata all'igiene;
+
+igiene dell'ambiente di lavoro I.
+
+4° Anno:
+
+igiene dell'ambiente di lavoro II;
+
+elementi di diritto e legislazione del lavoro;
+
+psicologia del lavoro;
+
+prevenzione degli infortuni;
+
+politica del territorio ed insediamenti industriali;
+
+igiene del lavoro e medicina di comunita'.
+
+d) Orientamento di igiene e medicina scolastica.
+
+3° Anno:
+
+epidemiologia e profilassi delle malattie infettive II;
+
+epidemiologia e profilassi delle malattie non infettive II;
+
+igiene dell'ambiente fisico e difesa ecologica;
+
+clinica delle malattie dell'eta' evolutiva;
+
+epidemiologia e profilassi delle malattie dell'eta' evolutiva;
+
+igiene degli alimenti e della nutrizione;
+
+auxologia normale e patologica;
+
+psicologia dell'eta' evolutiva.
+
+4° Anno:
+
+servizi di medicina scolastica;
+
+edilizia ed arredamento scolastico;
+
+elementi di pedagogia;
+
+assistenza parascolastica;
+
+educazione sanitaria nella scuola;
+
+legislazione scolastica;
+
+igiene mentale.
+
+e) Orientamento di laboratorio.
+
+3° Anno:
+
+epidemiologia e profilassi delle malattie infettive II;
+
+epidemiologia e profilassi delle malattie non infettive II;
+
+igiene dell'ambiente fisico e difesa ecologica;
+
+metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale I;
+
+metodi e dosaggi biologici per il controllo dell'inquinamento ambientale;
+
+strumentazione e metodologie chimico-cliniche ed ematologiche I; microscopia applicata all'igiene;
+
+elementi di fisica tecnica applicata all'igiene;
+
+accertamento diagnostico delle malattie infettive e parassitarie I.
+
+4° Anno:
+
+metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale II;
+
+accertamento diagnostico delle malattie infettive e parassitarie II;
+
+strumentazione e metodologie chimico-cliniche ed ematologiche II; ispezione e controllo degli alimenti;
+
+elementi di informatica.
+
+Gli esami relativi alle discipline svolte con insegnamento biennale verranno sostenuti alla fine di detti insegnamenti.
+
+I corsi saranno completati da insegnamenti complementari scelti dalla scuola tra i seguenti:
+
+Materie complementari:
+
+automazione del sistema ospedaliero;
+
+biochimica applicata;
+
+climatologia;
+
+diritto sanitario internazionale;
+
+elementi di medicina legale;
+
+genetica umana;
+
+geologia applicata all'igiene;
+
+idrologia;
+
+igiene dei climi tropicali;
+
+igiene dei trasporti;
+
+igiene rurale;
+
+istituzioni di matematiche;
+
+micologia;
+
+radioprotezionistica;
+
+igiene militare.
+
+Art. 152. - A giudizio della scuola possono essere indicati come complementari anche altri insegnamenti regolarmente attivati nei corsi di laurea di ciascuna universita'.
+
+I corsi saranno integrati da un tirocinio pratico di durata comunque non inferiore a tre mesi, da svolgersi durante il secondo biennio.
+
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove d'esame.
+
+Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno: per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in igiene e medicina preventiva, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+Dopo l'art. 156, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alle scuole di specializzazione in neurochirurgia, anatomia patologica, chirurgia vascolare:
+
+Scuola di specializzazione in neurochirurgia
+
+Art. 157. - La scuola di specializzazione in neurochirurgia ha sede presso la clinica neurochirurgica della Universita' e conferisce il diploma di specialista in neurochirurgia.
+
+Art. 158. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Art. 159. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+Art. 160. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.
+
+Art. 161. - Il numero massimo degli allievi e di due per anno di corso e complessivamente di dieci iscritti per l'intero corso di studi.
+
+Art. 162. - L'ammissione al corso avviene per titoli ed esami.
+
+Art. 163. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+neuroanatomia;
+
+neurofisiologia;
+
+semeiotica e clinica neurologica;
+
+elementi di psichiatria;
+
+clinica neurochirurgica I.
+
+2° Anno:
+
+neuro-oftalmologia;
+
+neuro-otoiatria;
+
+neurofisiologia clinica;
+
+clinica neurochirurgica II.
+
+3° Anno:
+
+neuroanestesia e rianimazione;
+
+neuropatologia;
+
+neuroradiologia I;
+
+clinica neurochirurgica III.
+
+4° Anno:
+
+neuroradiologia II;
+
+neurotraumatologia;
+
+tecniche operatorie I;
+
+clinica neurochirurgica IV.
+
+5° Anno:
+
+neurochirurgia funzionale e stereotassica;
+
+neurochirurgia infantile;
+
+tecniche operatorie II;
+
+clinica neurochirurgica V.
+
+Art. 164. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Art. 165. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in neurochirurgia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+Scuola di specializzazione in chirurgia vascolare
+
+Art. 166. - La scuola di specializzazione in chirurgia vascolare ha sede presso l'istituto di clinica chirurgica e terapia chirurgica dell'Universita' degli studi di Ferrara e conferisce il diploma di specialista in chirurgia vascolare.
+
+Art. 167. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Art. 168. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+Art. 169. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.
+
+Art. 170. - Il numero massimo degli allievi e' di tre per anno di corso e complessivamente di quindici iscritti per l'intero corso di studi.
+
+Art. 171. - L'ammissione al corso avviene per titoli ed esami.
+
+Art. 172. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+1) embriologia, anatomia macro e microscopica dell'apparato vascolare;
+
+2) fisiopatologia dell'apparato vascolare e della coagulazione sanguigna;
+
+3) anatomia patologica dall'apparato vascolare;
+
+4) semeiologia fisica e strumentale delle malattie vascolari;
+
+5) semeiologia radiologica delle malattie vascolari;
+
+6) vasculopatie di interesse medico e specialistico.
+
+2° Anno:
+
+7) patologia e clinica delle malattie del sistema arterioso;
+
+8) patologia e clinica delle malattie del sistema venoso;
+
+9) patologia e clinica delle malattie del sistema linfatico;
+
+10) patologia e clinica delle malattie dei piccoli vasi.
+
+3° Anno:
+
+11) nozioni di terapia medica delle malattie vascolari;
+
+12) terapia chirurgica delle malattie vascolari;
+
+13) chirurgia vascolare applicata a malattie dei vari organi I.
+
+4° Anno:
+
+14) informatica medica;
+
+15) rianimazione e terapia intensiva;
+
+16) patologia e clinica vascolare pediatrica I;
+
+17) epidemiologia delle malattie vascolari;
+
+18) elementi di legislazione sanitaria comunitaria;
+
+19) chirurgia vascolare applicata a malattie dei vari organi II.
+
+5° Anno:
+
+20) elementi di bioingegneria applicati al circolo;
+
+21) principi e tecnica di circolazione extracorporea;
+
+22) terapia intensiva;
+
+23) patologia e clinica vascolare pediatrica II;
+
+24) tecniche chirurgiche applicate alla patologia vascolare;
+
+25) chirurgia vascolare applicata a malattie dei vari organi III..
+
+Art. 173. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.
+
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Art. 174. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in chirurgia vascolare gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione e dovranno sostenere una prova clinica.
+
+Scuola di specializzazione in anatomia patologica
+
+Art. 175. - La scuola di specializzazione in anatomia patologica ha sede presso l'istituto di anatomia e istologia patologica e conferisce il diploma di specialista in anatomia patologica.
+
+Art. 176. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione e, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Art. 177. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente.
+
+Art. 178. - La durata del corso di studio e' di quattro anni e non e' suscettibile di abbreviazione.
+
+Art. 179. - Il numero massimo degli allievi e' di quindici per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi.
+
+Art. 180. - L'ammissione al corso avviene per titoli ed esami.
+
+Art. 181. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+anatomia patologica sistematica I;
+
+tecnica delle autopsie;
+
+diagnostica anatomo-patologica macroscopica I;
+
+tecniche istologiche ed istochimiche.
+
+2° Anno:
+
+anatomia patologica sistematica II;
+
+diagnostica anatomo-patologica macroscopica II;
+
+diagnostica istopatologica I;
+
+tecniche e diagnostica citologica e citogenetica.
+
+3° Anno:
+
+diagnostica istopatologica II;
+
+tecniche di microscopia elettronica e biologia ultrastrutturale;
+
+immunopatologia.
+
+4° Anno:
+
+diagnostica istopatologica III;
+
+diagnostica isto-citopatologica ultrastrutturale;
+
+diagnostica autoptica medico legale ed elementi di legislazione sanitaria;
+
+applicazioni statistiche ed epidemiologiche.
+
+Art. 182. - La frequenza alle lezioni, alle esercitazioni pratiche, e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Art. 183. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in anatomia patologica gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+L'ordinamento della scuola di specializzazione in puericultura istituita con [decreto del Presidente della Repubblica 28 ottobre 1976, n. 915](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-28;915), e' integrato con il seguente nuovo comma:
+
+Gli allievi, per essere ammessi agli esami di corso successivi al primo, debbono aver superato; per singola materia, tutti gli esami dell'anno precedente.
+
+Alla fine del terzo anno di corso ha luogo l'esame di diploma, consistente nella preparazione e discussione di una dissertazione scritta su di un argomento di puericultura o di pediatria preventiva, previamente concordata con il direttore della scuola.
+
+Per essere ammessi all'esame di diploma, gli specializzandi dovranno aver superato tutti gli esami dei primi due anni ed aver ottenuto l'attestazione di frequenza relativa al tirocinio pratico previsto per il terzo anno di corso.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 6 ottobre 1978
+
+PERTINI
+
+PEDINI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 22 dicembre 1978 Registro n. 132 Istruzione, foglio n. 308
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;   
+Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;   
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
 Decreta:   
   
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+L'art. 107, concernente la scuola di specializzazione in malattie dell'apparato digerente, che cambia la denominazione in quella di scuola di specializzazione in gastroenterologia ed endoscopia digestiva, e' abrogato e sostituito dal seguente:   
   
-Dopo l'art. 70, e con il conseguente spostamento di quelli successivi, sono inseriti i seguenti articoli relativi alle scuole di perfezionamento e specializzazione annessi alla Facolta' di medicina e chirurgia.   
-  
-Scuole di perfezionamento annesse alla Facolta' di medicina e chirurgia   
-  
-Art. 71. - Le scuole postuniversitarie di perfezionamento e specializzazione conferiscono i rispettivi diplomi di specialista ai sensi dell'[art. 178 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art178).   
-Art. 72. - Direttore di ciascuna scuola di perfezionamento e specializzazione e' il titolare della cattedra che da' il titolo alla scuola; egli e' nominato dalla Facolta' di medicina e chirurgia per un anno ed e' sempre riconfermabile. Nel caso in cui detto titolare non sia professore di ruolo, il direttore e' scelto dalla Facolta' tra i suoi membri titolari. Egli presiede il Consiglio della scuola costituito a norma dell'articolo seguente; vigila sul buon funzionamento di essa ed e' tenuto a dare comunicazione al preside della Facolta' di medicina e chirurgia di tutti gli atti e di tutte le deliberazioni del Consiglio da lui presieduto.   
-Gli insegnanti sono proposti dal direttore che puo' sceglierli fra i professori di ruolo, tra i liberi docenti, tra gli assistenti e sono nominati dalla Facolta'.   
-Art. 73. - Il Consiglio dei professori di ciascuna delle scuole di perfezionamento e' costituito da tutti i docenti, che a qualsiasi titolo vi impartiscono un insegnamento.   
-Art. 71. Alle scuole di perfezionamento sono ammessi i laureati in medicina e chirurgia. Gli aspiranti debbono nei termini regolamentari presentare apposita domanda su carta legale, indirizzata al rettore e corredata dal certificato di nascita, del certificato di laurea e delle quietanze del pagamento delle tasse, soprattasse e contributi relativi. Il numero degli iscritti e' determinato per ciascuna scuola.   
-Qualora il numero delle domande d'iscrizione ecceda quello fissato, si procedera' a una scelta in base ai titoli e a un esame di cultura medico chirurgica generale.   
-Art. 75. - Per il conseguimento del titolo di specialista e' obbligatorio l'internato in uno almeno degli istituti pertinenti agli insegnamenti impartiti.   
-Gli insegnamenti di ciascuna scuola di perfezionamento sono quelli fissati nel presente statuto.   
-Quando gli iscritti siano in numero limitato, gli insegnamenti possono non avere il carattere cattedratico ed essere svolti in quella diversa forma che e' consentita dall'indole di ciascuna disciplina.   
-In ogni caso, pero', per le materie fondamentali debbono essere tenuti appositi corsi per gli iscritti alla scuola.   
-Art. 76. - La Facolta', su parere del Consiglio della scuola, puo' esonerare da una parte degli anni di studio prescritti dallo statuto per il conseguimento del diploma nelle singole scuole, quei laureati in medicina e chirurgia che presentino particolari titoli di studio acquisiti dopo la laurea. L'esonero, pero', non potra' in nessun caso essere superiore a un anno di corso, fermo restando che l'iscritto deve superare gli esami relativi all'anno di corso esonerato e ottemperare agli obblighi amministrativi.   
-Art. 77. - Le date di inizio e di termine delle lezioni sono di regola eguali a quelle fissate per l'anno accademico. Tuttavia per ragioni speciali inerenti alla natura dei corsi, tali date possono essere dalla Facolta' prorogate o spostate.   
-Art. 78. - Le Commissioni per gli esami di profitto sono nominate dalla Facolta', su proposta del direttore di ogni scuola. In ogni caso ciascuna Commissione non puo' essere composta con meno di tre membri. Le Commissioni per gli esami di diploma sono composte di sette membri; ne e' presidente il direttore della scuola e ne fanno parte gli insegnanti della scuola stessa ed altri professori di ruolo, designati dal preside della Facolta' su proposta del direttore della scuola, nonche' un libero docente.   
-L'esame di diploma consiste nella discussione di una dissertazione scritta svolta dal candidato su argomento da lui scelto con l'approvazione del direttore della scuola.   
-Art. 79. - Le tasse e soprattasse da pagarsi dagli iscritti alle scuole di perfezionamento e di specializzazione sono quelle medesime stabilite dalla legge per le Facolta' presso le quali le scuole sono istituite.   
-Il Consiglio di amministrazione dell'Universita', su proposta del Senato accademico, udito il Consiglio della facolta', stabilisce anno per anno i contributi che gli iscritti alle varie scuole debbono corrispondere per le esercitazioni pratiche e per le prestazioni di qualsiasi natura di cui usufruiscono durante gli anni di studio.   
-La tassa di diploma e' fissata in L. 6.000 a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).   
-Art. 80. - L'importo delle soprattasse d'esame viene diviso secondo quanto stabilito dal [decreto Presidenziale del 2 dicembre 1952, n. 4512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-12-02;4512).   
-Dall'importo delle tasse di immatricolazione e di iscrizione, e' detratta una quota da stabilirsi dal Consiglio di amministrazione a favore di ogni singola scuola.   
-I contributi di laboratorio vengono versati integralmente alle singole scuole. Le tasse di diploma sono devolute all'Erario.   
-Art. 81. - Alle scuole di perfezionamento e di specializzazione si intendono applicabili tutte le norme legislative e regolamentari in vigore, per tutto quanto non e' contemplato nel presente statuto.   
-Art. 82. - A coloro che hanno frequentato le scuole e superato le prove relative, verra' rilasciato nelle forme legali, un diploma di perfezionamento o di specializzazione a seconda delle finalita' delle varie scuole, da valere a tutti gli effetti di legge.   
-  
-NORME SPECIALI PER LE SINGOLE SCUOLE   
-  
-Scuola di perfezionamento in cardio-reumatologia   
-  
-Art. 83. - La scuola ha la durata di tre anni. Ha sede presso la clinica medica il cui professore di ruolo e' direttore della scuola stessa.   
-Potranno essere iscritti alla scuola i medici in possesso della laurea in medicina, e chirurgia, nel numero massimo di 10 (dieci) per anno.   
-Le materie d'insegnamento per anno sono le seguenti:   
-1° anno:   
-Anatomia cardio-vascolare ed articolare;   
-Fisiologia cardio-vascolare;   
-Patologia speciale cardio-reumatica;   
-Semeiotica fisica.   
-2° anno:   
-Anatomia patologica cardio-vascolare ed articolare;   
-Patologia speciale cardio-reumatica;   
-Fisiopatologia cardio-reumatica;   
-Semeiotica fisica;   
-Tecniche laboratoristiche speciali;   
-Elettrocardiografia;   
-Farmacologia.   
-3° anno:   
-Clinica cardio-reumatica;   
-Terapia cardio-reumatica;   
-Radiologia;   
-Elettrocardiografia.   
-Alla fine di ogni corso si dovranno sostenere gli esami per le materie svolte durante l'anno ad eccezione di quelle biennali per le quali si dovra' adire all'esame di completamento del biennio.   
-Oltre agli insegnamenti teorici, saranno svolte esercitazioni pratiche alle quali gli iscritti hanno l'obbligo di intervenire.  
-L'insegnamento avra' carattere eminentemente pratico, dimostrativo a mezzo di lezioni, colloqui, esercitazioni sopra casi clinici e ricerche di laboratorio.   
-L'esame di diploma si sostiene alla fine dei tre anni di corso e si estende a tutte le materie di insegnamento vertendo in particolare sull'argomento scelto come tesi.   
-In un manifesto annuale della clinica medica vengono esposte le norme dettagliate riguardanti i vari insegnamenti.   
-  
-Scuola di perfezionamento in malattie del fegato e del ricambio   
-  
-Art. 84. - La scuola che ha la durata di due anni ha sede presso la clinica medica il cui professore di ruolo e' il direttore della scuola. Potranno essere iscritti alla scuola i medici, in possesso della laurea in medicina e chirurgia, nel numero massimo di 10 (dieci) per anno.   
+La scuola di specializzazione in gastroenterologia ed endoscopia digestiva ha sede presso la clinica medica generale e conferisce il diploma di specialista in gastroenterologia ed endoscopia digestiva.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
+Il numero massimo degli allievi e' di dieci per ogni anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
 Le materie di insegnamento sono le seguenti:   
-1° anno:   
-Chimica dei processi digestivi, nozioni di chimica sulle malattie del ricambio;   
-Microscopia e chimica clinica relativa alla specialita';   
-Anatomia normale e patologica del fegato, del tubo digerente, e delle ghiandole endocrine in relazione alle malattie del ricambio (si intende che anatomia normale e anatomia patologica degli organi ed apparati contrassegnati sono due materie distinte di insegnamento).   
-Internato nella clinica medica.   
-1° e 2° anno:   
-Patologia e clinica delle malattie del fegato e del ricambio (in quest'ultime con le ghiandole endocrine);   
-Terapia generale e speciale delle malattie del ricambio e del tubo digerente.   
-Gli iscritti al secondo anno hanno l'obbligo di compiere periodi di internato nell'Istituto di clinica medica, secondo i turni stabiliti dal direttore della scuola.   
-Al termine del primo anno gli iscritti dovranno superare una prova di esame su nozioni generali di chimica fisiologica e clinica. Alla fine dei corsi, oltre alla dissertazione scritta i candidati dovranno sostenere un esame di cultura generale sulla specialita', comprendente tutte le materie di insegnamento e una prova clinica sul malato.   
+1° Anno:   
+anatomia clinica;   
+farmacologia clinica;   
+chimica clinica, coprologia, parassitologia;   
+genetica;   
+biostatistica ed epidemiologia.   
+2° Anno:   
+clinica medica generale I;   
+clinica e terapia del tubo digerente, fegato e pancreas I;   
+anatomia ed istologia patologica I;   
+fisiopatologia e semeiotica digestiva I;   
+radiologia e medicina nucleare I;   
+scienza dell'alimentazione e dietetica.   
+3° Anno:   
+clinica medica generale II;   
+clinica e terapia del tubo digerente, fegato e pancreas II;   
+anatomia ed istologia patologica II;   
+fisiopatologia e semeiotica digestiva II;   
+radiologia e medicina nucleare II;   
+endoscopia digestiva II.   
+4° Anno:   
+clinica medica generale III;   
+clinica e terapia del tubo digerente, fegato e pancreas III;   
+endoscopia digestiva;   
+terapia intensiva;   
+gastroenterologia pediatrica;   
+elementi di chirurgia del tubo digerente, fegato e pancreas.   
+E' obbligatoria la frequenza alle lezioni, alle esercitazioni oltre che il tirocinio pratico durante il quadriennio di studi da svolgere nell'istituto clinico sede della scuola o in altri istituti clinici o in reparti ospedalieri di gastroenterologia conforme alle scelte approvate dal consiglio della scuola.   
+Potranno essere aggiunte alle materie fondamentali obbligatorie, alcune materie complementari con corsi semestrali, in numero non superiore a sei per la totalita' del corso.   
+Gli insegnamenti saranno integrati da esercitazioni pratiche.   
+L'esame di profitto si sosterra' alla fine dei singoli corsi: per le materie biennali e triennali sara' sostenuto un unico esame per ciascuna materia alla fine del biennio o triennio.   
+Gli allievi del primo, del secondo e del terzo anno, per essere ammessi rispettivamente al secondo, terzo e quarto anno devono avere ottenuto tutte le firme di frequenza dei corsi e devono aver superato tutti i relativi esami.   
+Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, dovranno superare le prove di esame sulle materie impartite durante l'anno; per le materie biennali e triennali, invece, sara' dato l'esame alla fine del biennio o del triennio.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in gastroenterologia ed endoscopia digestiva, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+La scuola di specializzazione in chirurgia di cui agli articoli 111, 112, 113 e 114 muta la denominazione in quella di scuola di specializzazione in chirurgia generale.   
+L'art. 118, relativo alla scuola di specializzazione in neurologia, e' abrogato e sostituito dal seguente:   
   
-Scuola di perfezionamento in ematologia   
+Il corso della scuola di specializzazione in neurologia ha la durata di quattro anni ed e' tenuto presso l'istituto di clinica neurologica.   
+Alla scuola non potranno essere iscritti piu' di cinque laureati in medicina e chirurgia per ogni anno di corso, previa ammissione per titoli ed esami.   
+Gli articoli 130, 131, 132, 133 e 134, concernenti la scuola di specializzazione in chirurgia dell'infanzia, che muta la denominazione in quella di chirurgia pediatrica, sono soppressi e sostituiti dai seguenti:   
   
-Art. 85. - La scuola ha la durata di due anni e ha sede presso l'Istituto di patologia medica. Il professore di ruolo di semeiotica medica e' il direttore della scuola.   
-Potranno essere iscritti alla scuola i medici in possesso della laurea in medicina e chirurgia, nel numero massimo di 12 (dodici) per anno.   
-Le materie di insegnamento sono le seguenti:   
-1° anno:   
-1. Ematologia morfologica e clinica;   
-2. Fisiopatologia della coagulazione;   
-3. Immuno-ematologia;   
-4. Anatomia patologica degli organi ematopoietici.   
-2° anno:   
-1. Patologia e clinica delle malattie del sangue e degli organi emopoietici;   
-2. Tecnica e diagnostica ematologica con esercitazioni istologiche, sierologiche e biochimiche;   
-3. Terapia delle emopatie.   
-Gli iscritti alla scuola hanno l'obbligo di compiere periodi di internato nell'Istituto sede della scuola, secondo i turni stabiliti dal direttore della scuola.   
-L'insegnamento oltre che a mezzo di lezioni cattedratiche e' impartito in forma di esercitazioni, di colloqui su casi clinici che si presentino di volta in volta all'esame. A iniziativa del direttore della scuola potranno essere svolte conferenze sopra argomenti speciali affini.   
-Gli iscritti alla fine del primo anno di corso dovranno superare una prova di esame su nozioni generali di ematologia. Alla fine del secondo anno di corso i candidati dovranno sostenere un esame di cultura generale sulla specialita', comprendente tutte le materie di insegnamento e una prova clinica sul malato, per poter essere ammessi all'esame di diploma.   
+Scuola di specializzazione in chirurgia pediatrica   
+Art. 130. - La scuola di specializzazione in chirurgia pediatrica istituita presso la facolta' di medicina e chirurgia conferisce il diploma di specialista in chirurgia pediatrica.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+La durata del corso di studi per il conseguimento del diploma e' fissata in cinque anni e non e' suscettibile di abbreviazione.   
+Art. 131. - Possono ottenere l'iscrizione alla scuola solo i laureati in medicina e chirurgia.   
+L'ammissione alla scuola avviene mediante concorso per titoli ed esami (prova scritta su argomenti medicochirurgici generali).   
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.   
+Alla scuola non possono essere ammessi piu' di tre allievi per ciascun anno di corso e complessivamente di quindici iscritti per l'intero corso di studi.   
+Art. 132. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Art. 133. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+embriologia e genetica delle malformazioni congenite;   
+anatomia patologica generale (biennale);   
+diagnostica radiologica e nucleare generale;   
+anestesiologia;   
+clinica pediatrica (biennale);   
+patologia e clinica chirurgica generale (biennale).   
+2° Anno:   
+patologia e clinica chirurgica generale (biennale);   
+rianimazione e terapia intensiva (biennale);   
+anatomia patologica generale (biennale);   
+diagnostica radiologica e nucleare delle malattie infantili;   
+clinica pediatrica (biennale).   
+3° Anno:   
+patologia e clinica chirurgica pediatrica (triennale);   
+endocrinologia pediatrica;   
+tecnica chirurgica generale;   
+rianimazione e terapia intensiva (biennale);   
+chirurgia neonatale.   
+4° Anno:   
+patologia e clinica chirurgica pediatrica (triennale);   
+neurochirurgia pediatrica;   
+tecnica chirurgica pediatrica;   
+ortopedia pediatrica;   
+chirurgia plastica e ricostruttiva pediatrica.   
+5° Anno:   
+patologia e clinica chirurgica pediatrica (triennale);   
+otorinolaringoiatria pediatrica;   
+cardiochirurgia pediatrica;   
+urologia pediatrica.   
+Art. 134. - Alla fine di ogni corso, gli iscritti per essere ammessi agli anni di corso successivi, devono superare le prove d'esame sulle materie impartite durante l'anno ad eccezione delle discipline svolte in corsi pluriennali, il cui esame sara' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di specializzazione, gli specializzandi dovranno presentare una dissertazione scritta su argomento di chirurgia pediatrica e sostenere l'esame di diploma.   
+Gli articoli 149, 150, 151 e 152, concernenti la scuola di specializzazione in igiene e medicina preventiva, sono abrogati e sostituiti dai seguenti:   
   
-Scuola di perfezionamento in clinica pediatrica   
+Scuola di specializzazione in igiene e medicina preventiva   
+Art. 149. - La scuola di specializzazione in igiene e medicina preventiva ha sede presso l'istituto di igiene e conferisce il diploma di specialista in igiene e medicina preventiva, differenziato in uno dei cinque orientamenti di cui all'articolo successivo.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
+Il numero massimo degli allievi e' di venti per anno di corso e complessivamente di ottanta iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Art. 150. - Il corso si articola in un biennio propedeutico seguito da un biennio differenziato con cinque orientamenti e precisamente:   
+a) sanita' pubblica;   
+b) igiene e tecnica ospedaliera;   
+c) igiene del lavoro;   
+d) igiene e medicina scolastica;   
+e) laboratorio.   
+
+((E' concessa l'iscrizione al terzo anno di altro orientamento a chi abbia gia' conseguito il diploma di specialita' in uno degli orientamenti previsti, seguendo il piano di studi proposto nel presente statuto))
+
+.   
+Art. 151. - Il piano di studi e' il seguente:   
   
-Art. 86. - La scuola di perfezionamento in pediatria ha la durata di due anni ed ha sede presso la clinica pediatrica, il cui professore di ruolo e' direttore della scuola. Potranno essere iscritti alla scuola i medici in possesso della laurea in medicina e chirurgia, nel numero massimo di 8 (otto).   
-Le materie di insegnamento sono le seguenti:   
-1° anno:   
-1. Clinica, pediatrica;   
-2. Puericultura;   
-3. Anatomia patologica con particolare riguardo alla patologia infantile;   
-4. Clinica ortopedica;   
-5. Clinica otorinolaringoiatrica;   
-6. Embriologia - Anatomia del neonato;   
-7. Fisiologia del neonato.   
-2° anno:   
-1. Clinica pediatrica;   
-2. Radiologia pediatrica;   
-3. Clinica pediatrica chirurgica;   
-4. Terapia generale pediatrica.   
-E' obbligatorio l'internato nei due anni di corso nella clinica pediatrica.   
-L'insegnamento oltre che a mezzo di lezioni consta di colloqui su casi clinici che si presentino di volta in volta. A iniziativa del direttore della scuola potranno essere svolte conferenze sopra argomenti speciali affini.   
-Gli iscritti alla fine del primo anno di corso hanno l'obbligo di sostenere e superare l'esame di profitto in un gruppo unico delle seguenti materie:   
-1. Clinica ortopedica;   
-2. Clinica otorinolaringoiatrica;   
-3. Puericultura;   
-4. Anatomia patologica.   
-Alla fine del secondo anno di corso gli iscritti dovranno sostenere l'esame di profitto di tutte le materie del secondo anno per poter essere ammessi all'esame del diploma.   
+PRIMO BIENNIO   
+  
+1° Anno:   
+metodologia statistica e biometria;   
+educazione sanitaria;   
+psicologia;   
+microbiologia ed immunologia I;   
+parassitologia;   
+profilassi generale;   
+epidemiologia generale e metodologia;   
+sociologia medica ed antropologia culturale.   
+2° Anno:   
+microbiologia e immunologia II;   
+patologia e clinica delle malattie infettive;   
+epidemiologia e profilassi delle malattie infettive I;   
+patologia e clinica delle malattie non infettive di importanza sociale;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale I;   
+demografia e statistica sanitaria;   
+legislazione e programmazione sanitaria.   
+  
+SECONDO BIENNIO   
+  
+a) Orientamento di sanita' pubblica.   
+3° Anno:   
+epidemiologia e profilassi delle malattie infettive II;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
+igiene dell'ambiente fisico e difesa ecologica;   
+igiene degli alimenti e della nutrizione;   
+igiene dell'eta' evolutiva;   
+igiene del lavoro;   
+igiene ed assistenza dell'anziano.   
+4° Anno:   
+igiene edilizia e dell'aggregato urbano;   
+igiene ospedaliera;   
+organizzazione del territorio e programmazione sanitaria;   
+medicina di comunita';   
+economia sanitaria;   
+elementi di diritto amministrativo.   
+b) Orientamento di igiene e tecnica ospedaliera.   
+3° Anno:   
+epidemiologia e profilassi delle malattie infettive II;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
+igiene dell'ambiente fisico e difesa ecologica;   
+igiene e tecnica delle costruzioni ospedaliere; arredamenti ed impianti tecnologici;   
+igiene dell'alimentazione e dietetica ospedaliera;   
+organizzazione e funzionamento degli ospedali I;   
+elementi di diritto e legislazione ospedaliera.   
+4° Anno:   
+organizzazione e funzionamento degli ospedali II;   
+compiti ed attribuzioni della direzione sanitaria;   
+formazione professionale e compiti del personale ospedaliero;   
+programmazione ospedaliera e medicina di comunita';   
+assistenza psichiatrica;   
+aspetti socio-sanitari dell'ospitalismo;   
+aspetti economici della gestione ospedaliera.   
+c) Orientamento di igiene del lavoro.   
+3° Anno:   
+epidemiologia e profilassi delle malattie infettive II;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
+igiene dell'ambiente fisico e difesa ecologica;   
+epidemiologia e profilassi delle malattie del lavoro;   
+tecnica ed economia degli impianti industriali;   
+tossicologia industriale e diagnostica di laboratorio;   
+elementi di fisica tecnica applicata all'igiene;   
+igiene dell'ambiente di lavoro I.   
+4° Anno:   
+igiene dell'ambiente di lavoro II;   
+elementi di diritto e legislazione del lavoro;   
+psicologia del lavoro;   
+prevenzione degli infortuni;   
+politica del territorio ed insediamenti industriali;   
+igiene del lavoro e medicina di comunita'.   
+d) Orientamento di igiene e medicina scolastica.   
+3° Anno:   
+epidemiologia e profilassi delle malattie infettive II;   
+epidemiologia e profilassi delle malattie non infettive II;   
+igiene dell'ambiente fisico e difesa ecologica;   
+clinica delle malattie dell'eta' evolutiva;   
+epidemiologia e profilassi delle malattie dell'eta' evolutiva;   
+igiene degli alimenti e della nutrizione;   
+auxologia normale e patologica;   
+psicologia dell'eta' evolutiva.   
+4° Anno:   
+servizi di medicina scolastica;   
+edilizia ed arredamento scolastico;   
+elementi di pedagogia;   
+assistenza parascolastica;   
+educazione sanitaria nella scuola;   
+legislazione scolastica;   
+igiene mentale.   
+e) Orientamento di laboratorio.   
+3° Anno:   
+epidemiologia e profilassi delle malattie infettive II;   
+epidemiologia e profilassi delle malattie non infettive II;   
+igiene dell'ambiente fisico e difesa ecologica;   
+metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale I;   
+metodi e dosaggi biologici per il controllo dell'inquinamento ambientale;   
+strumentazione e metodologie chimico-cliniche ed ematologiche I; microscopia applicata all'igiene;   
+elementi di fisica tecnica applicata all'igiene;   
+accertamento diagnostico delle malattie infettive e parassitarie I.   
+4° Anno:   
+metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale II;   
+accertamento diagnostico delle malattie infettive e parassitarie II;   
+strumentazione e metodologie chimico-cliniche ed ematologiche II; ispezione e controllo degli alimenti;   
+elementi di informatica.   
+Gli esami relativi alle discipline svolte con insegnamento biennale verranno sostenuti alla fine di detti insegnamenti.   
+I corsi saranno completati da insegnamenti complementari scelti dalla scuola tra i seguenti:   
+Materie complementari:   
+automazione del sistema ospedaliero;   
+biochimica applicata;   
+climatologia;   
+diritto sanitario internazionale;   
+elementi di medicina legale;   
+genetica umana;   
+geologia applicata all'igiene;   
+idrologia;   
+igiene dei climi tropicali;   
+igiene dei trasporti;   
+igiene rurale;   
+istituzioni di matematiche;   
+micologia;   
+radioprotezionistica;   
+igiene militare.   
+Art. 152. - A giudizio della scuola possono essere indicati come complementari anche altri insegnamenti regolarmente attivati nei corsi di laurea di ciascuna universita'.   
+I corsi saranno integrati da un tirocinio pratico di durata comunque non inferiore a tre mesi, da svolgersi durante il secondo biennio.   
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove d'esame.   
+Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno: per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in igiene e medicina preventiva, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+Dopo l'art. 156, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alle scuole di specializzazione in neurochirurgia, anatomia patologica, chirurgia vascolare:   
+  
+Scuola di specializzazione in neurochirurgia   
+Art. 157. - La scuola di specializzazione in neurochirurgia ha sede presso la clinica neurochirurgica della Universita' e conferisce il diploma di specialista in neurochirurgia.   
+Art. 158. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 159. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+Art. 160. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.   
+Art. 161. - Il numero massimo degli allievi e di due per anno di corso e complessivamente di dieci iscritti per l'intero corso di studi.   
+Art. 162. - L'ammissione al corso avviene per titoli ed esami.   
+Art. 163. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+neuroanatomia;   
+neurofisiologia;   
+semeiotica e clinica neurologica;   
+elementi di psichiatria;   
+clinica neurochirurgica I.   
+2° Anno:   
+neuro-oftalmologia;   
+neuro-otoiatria;   
+neurofisiologia clinica;   
+clinica neurochirurgica II.   
+3° Anno:   
+neuroanestesia e rianimazione;   
+neuropatologia;   
+neuroradiologia I;   
+clinica neurochirurgica III.   
+4° Anno:   
+neuroradiologia II;   
+neurotraumatologia;   
+tecniche operatorie I;   
+clinica neurochirurgica IV.   
+5° Anno:   
+neurochirurgia funzionale e stereotassica;   
+neurochirurgia infantile;   
+tecniche operatorie II;   
+clinica neurochirurgica V.   
+Art. 164. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Art. 165. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in neurochirurgia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+Scuola di specializzazione in chirurgia vascolare   
+Art. 166. - La scuola di specializzazione in chirurgia vascolare ha sede presso l'istituto di clinica chirurgica e terapia chirurgica dell'Universita' degli studi di Ferrara e conferisce il diploma di specialista in chirurgia vascolare.   
+Art. 167. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 168. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+Art. 169. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.   
+Art. 170. - Il numero massimo degli allievi e' di tre per anno di corso e complessivamente di quindici iscritti per l'intero corso di studi.   
+Art. 171. - L'ammissione al corso avviene per titoli ed esami.   
+Art. 172. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+1) embriologia, anatomia macro e microscopica dell'apparato vascolare;   
+2) fisiopatologia dell'apparato vascolare e della coagulazione sanguigna;   
+3) anatomia patologica dall'apparato vascolare;   
+4) semeiologia fisica e strumentale delle malattie vascolari;   
+5) semeiologia radiologica delle malattie vascolari;   
+6) vasculopatie di interesse medico e specialistico.   
+2° Anno:   
+7) patologia e clinica delle malattie del sistema arterioso;   
+8) patologia e clinica delle malattie del sistema venoso;   
+9) patologia e clinica delle malattie del sistema linfatico;   
+10) patologia e clinica delle malattie dei piccoli vasi.   
+3° Anno:   
+11) nozioni di terapia medica delle malattie vascolari;   
+12) terapia chirurgica delle malattie vascolari;   
+13) chirurgia vascolare applicata a malattie dei vari organi I.   
+4° Anno:   
+14) informatica medica;   
+15) rianimazione e terapia intensiva;   
+16) patologia e clinica vascolare pediatrica I;   
+17) epidemiologia delle malattie vascolari;   
+18) elementi di legislazione sanitaria comunitaria;   
+19) chirurgia vascolare applicata a malattie dei vari organi II.   
+5° Anno:   
+20) elementi di bioingegneria applicati al circolo;   
+21) principi e tecnica di circolazione extracorporea;   
+22) terapia intensiva;   
+23) patologia e clinica vascolare pediatrica II;   
+24) tecniche chirurgiche applicate alla patologia vascolare;   
+25) chirurgia vascolare applicata a malattie dei vari organi III..   
+Art. 173. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Art. 174. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in chirurgia vascolare gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione e dovranno sostenere una prova clinica.   
+  
+Scuola di specializzazione in anatomia patologica   
+Art. 175. - La scuola di specializzazione in anatomia patologica ha sede presso l'istituto di anatomia e istologia patologica e conferisce il diploma di specialista in anatomia patologica.   
+Art. 176. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione e, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 177. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente.   
+Art. 178. - La durata del corso di studio e' di quattro anni e non e' suscettibile di abbreviazione.   
+Art. 179. - Il numero massimo degli allievi e' di quindici per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi.   
+Art. 180. - L'ammissione al corso avviene per titoli ed esami.   
+Art. 181. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+anatomia patologica sistematica I;   
+tecnica delle autopsie;   
+diagnostica anatomo-patologica macroscopica I;   
+tecniche istologiche ed istochimiche.   
+2° Anno:   
+anatomia patologica sistematica II;   
+diagnostica anatomo-patologica macroscopica II;   
+diagnostica istopatologica I;   
+tecniche e diagnostica citologica e citogenetica.   
+3° Anno:   
+diagnostica istopatologica II;   
+tecniche di microscopia elettronica e biologia ultrastrutturale;   
+immunopatologia.   
+4° Anno:   
+diagnostica istopatologica III;   
+diagnostica isto-citopatologica ultrastrutturale;   
+diagnostica autoptica medico legale ed elementi di legislazione sanitaria;   
+applicazioni statistiche ed epidemiologiche.   
+Art. 182. - La frequenza alle lezioni, alle esercitazioni pratiche, e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Art. 183. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in anatomia patologica gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+L'ordinamento della scuola di specializzazione in puericultura istituita con [decreto del Presidente della Repubblica 28 ottobre 1976, n. 915](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-28;915), e' integrato con il seguente nuovo comma:   
+  
+Gli allievi, per essere ammessi agli esami di corso successivi al primo, debbono aver superato; per singola materia, tutti gli esami dell'anno precedente.   
+Alla fine del terzo anno di corso ha luogo l'esame di diploma, consistente nella preparazione e discussione di una dissertazione scritta su di un argomento di puericultura o di pediatria preventiva, previamente concordata con il direttore della scuola.   
+Per essere ammessi all'esame di diploma, gli specializzandi dovranno aver superato tutti gli esami dei primi due anni ed aver ottenuto l'attestazione di frequenza relativa al tirocinio pratico previsto per il terzo anno di corso.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 ottobre 1957
+### Dato a Roma, addi' 6 ottobre 1978
 
-GRONCHI MORO
+PERTINI PEDINI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 23 dicembre 1957
+Registrato alla Corte dei conti, addi' 22 dicembre 1978
 
-Atti del Governo, registro n. 109, foglio n. 132. - RELLEVA
+Registro n. 132 Istruzione, foglio n. 308

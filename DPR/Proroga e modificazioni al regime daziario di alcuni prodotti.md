@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1961 n. 1171
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1959 n. 1108
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1961 n. 1171
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1959 n. 1108
+================================================================
 
 Proroga e modificazioni al regime daziario di alcuni prodotti.
 --------------------------------------------------------------
@@ -20,110 +20,216 @@ Vista la [legge 6 marzo 1957, n. 68](http://www.normattiva.it/uri-res/N2Ls?urn:n
 
 Vista la [legge 24 luglio 1959, n. 693](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-24;693);
 
-Vista la [legge 20 dicembre 1960, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-12-20;1527);
+Vista la tariffa dei dazi doganali di importazione, approvata con [decreto Presidenziale 26 dicembre 1958, n. 1105](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1958-12-26;1105);
 
-Vista la tariffa dei dazi doganali di importazione, approvata con [decreto presidenziale 26 dicembre 1958, numero 1105](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1958-12-26;1105);
+Visto il [decreto Presidenziale 26 dicembre 1958, n. 1100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1958-12-26;1100), che proroga a non oltre il 31 dicembre 1961 il regime daziario temporaneo;
 
-Visto il [decreto presidenziale 26 dicembre 1958, numero 1100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1958-12-26;1100), che proroga a non oltre il 31 dicembre 1961 il regime daziario temporaneo;
-
-Visti i [decreti presidenziali 29 dicembre 1958, numeri 1101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1958-12-29;1101), [1102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1958-12-29;1102), [1103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1958-12-29;1103), [1104; 24 dicembre 1959](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-12-24;1104), [numeri 1108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-12-24;1108) e [1109; 28 giugno 1960](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-06-28;1109), [n. 588; 30 giugno 1960](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-06-30;588), [n. 592; 17 settembre 1960](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-09-17;592), [n. 1220; 20 dicembre 1960](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-12-20;1220), [n. 1543;24 dicembre 1960](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-12-24;1543), [numeri 1585](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-12-24;1585) e [1556 e 3 aprile 1901](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1901-04-03;1556), [numeri 320](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1901-04-03;320) e [321](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1901-04-03;321) che recano aggiunte e modificazioni al regime daziario temporaneo;
+Visti i [decreti Presidenziali 29 dicembre 1958, numeri 1101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1958-12-29;1101), [1102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1958-12-29;1102), [1103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1958-12-29;1103), [1104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1958-12-29;1104) che recano aggiunte e modificazioni al regime daziario temporaneo;
 
 Vista la [legge 5 aprile 1950, n. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-04-05;295), che da' piena ed intera esecuzione all'Accordo generale sulle tariffe doganali e sul commercio, concluso a Ginevra il 30 ottobre 1947, ed all'Accordo tariffario, concluso tra l'Italia e le Parti contraenti ed i Paesi aderenti, annesso al Protocollo di Annecy del 10 ottobre 1949;
 
-Vista la [legge 27 ottobre 1951, n. 1172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-10-27;1172), che da'; piena ed intera esecuzione all'Accordo tariffario, concluso tra l'Italia e le Parti contraenti ed i Paesi aderenti, annesso al Protocollo di Torquay del 21 aprile 1951;
+Vista la [legge 27 ottobre 1951, n. 1172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-10-27;1172), che da' piena
+
+ed intera esecuzione all'Accordo tariffario, concluso tra l'Italia e le Parti contraenti ed i Paesi aderenti, annesso al Protocoilo di Torquay del 21 aprile 1951;
 
 Vista la [legge 14 aprile 1952, n. 560](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-14;560), che ratifica e da' esecuzione agli Accordi italo-svizzeri, conclusi a Berna il 14 luglio 1950;
 
-Vista la [legge 31 ottobre 1952, n. 2360](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-10-31;2360), che approva e da esecuzione all'Accordo tariffario tra l'Italia e la Francia, concluso a Roma il 7 marzo 1950;
+Vista la [legge 31 ottobre 1952, n. 2360](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-10-31;2360), che approva e da' esecuzione all'Accordo tariffario tra l'Italia e la Francia, concluso a Roma il 7 marzo 1950;
 
-Vista la [legge 14 aprile 1957, n. 356](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-04-14;356),che approva e da' esecuzione al Protocollo delle condizioni di accessione del Giappone all'Accordo generale sulle tariffe doganali e sul commercio, concluso a Ginevra il 7 giugno 1955, con annesse liste delle concessioni tariffarie;
+Vista la [legge 14 aprile 1957, n. 356](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-04-14;356), che approva e da' esecuzione al Protocollo delle condizioni di accessione del Giappone all'Accordo generale sulle tariffe doganali e sul commercio, concluso a Ginevra il 7 giugno 1955, con annesse liste delle concessioni tariffarie;
 
-Vista la [legge 7 novembre 1957, n. 130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-11-07;130).7, che da' esecuzione agli atti internazionali adottati a Ginevra il 10 marzo 1955 per la modifica dell'Accordo generale sulle tariffe doganali e sul commercio, con esclusione delle norme contenute nella parte II dello stesso Accordo;
+Vista, la [legge 7 novembre 1957, n. 1307](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-11-07;1307), che da' esecuzione agli atti internazionali adottati a Ginevra il 10 marzo 1955 per la modifica dell'Accordo generale sulle tariffe doganali e sul commercio, con esclusione delle norme contenute nella parte II dello stesso Accordo;
 
-Vista la [legge 9 novembre 1957, n. 1164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-11-09;1164), che approva e da' esecuzione agli Accordi conclusi a Ginevra dall'Italia con gli Stati Uniti d'America, con la Gran Bretagna, con la Danimarca, con la Svezia e con l'Austria il 27 giugno, il 25 luglio, il 30 novembre 1955 e il 18 aprile 1956, ai sensi dell'articolo XXVIII dell'Accordo generale sulle tariffe doganali e sul commercio, con annesse liste di concessioni tariffarie;
+Vista la [legge 9 novembre 1957, n. 1164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-11-09;1164), che approva e da' esecuzione agli Accordi conclusi a Ginevra dall'Italia con gli Stati Uniti d' America, con la Gran Bretagna, con la Danimarca, con la Svezia e con l'Austria il 27 giugno, il 25 luglio, il 30 novembre 1955 e il 18 aprile 1956, ai sensi dell'articolo XXVIII dell'Accordo generale sulle tariffe doganali e sul commercio, con annesse liste di concessioni tariffarie - Vista la [legge 2 gennaio 1958, n. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-01-02;25), che da' piena ed intera esecuzione al Sesto Protocollo delle concessioni addizionali, allegato all'Accordo generale sulle tariffe doganali e sul commercio del 30 ottobre 1947 e relativi Annessi, firmato a Ginevra il 23 maggio 1956;
 
-Vista la [legge 2 gennaio 1958, n. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-01-02;25), che da piena ed intera esecuzione al sesto Protocollo delle concessioni addizionali, allegato all'Accordo generale sulle tariffe doganali e sul commercio del 30 ottobre 1947 e relativi Annessi, firmato a Ginevra il 23 maggio 1956;
+Vista la [legge 31 ottobre 1952, n. 1976](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-10-31;1976), che ratifica e da' esecuzione alle seguenti Convenzioni internazionali firmate dall'Italia a Bruxelles l'11 gennaio 1951:
 
-Vista, la [legge 31 ottobre 1952, n. 1976](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-10-31;1976), che ratifica e da' esecuzione alle seguenti Convenzioni internazionali firmate dall'Italia a Bruxelles l'11 gennaio 1951: Convenzione sulla nomenclatura per la classificazione delle merci nelle tariffe doganali e relativo annesso: Convenzione sul valore in dogana delle merci relativi annessi;Convenzione per la creazione di un Consiglio di cooperazione doganale e relativo annesso; Protocollo relativo al gruppo di studi per l'Unione doganale europea;
+Convenzione sulla Nomenclatura per la classificazione delle merci nelle tariffe doganali e relativo annesso;
 
-Vista la [legge 25 aprile 1957, n. 358](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-04-25;358), che ratifica e da' esecuzione al Protocollo di rettifica alla Convenzione di Bruxelles del 15 dicembre 1950 sulla, nomenclatura per la classificazione delle merci nelle tariffe doganali, firmato a Bruxelles il 1 luglio 1955;
+Convenzione sul valore in dogana delle merci e relativi annessi;
 
-Vista la [legge 25 giugno 1952, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-06-25;766), che ratifica e da' esecuzione ai seguenti Accordi internazionali firmati a Parigi il 18 aprile 1951; Trattato che istituisce la Comunita', europea del carbone e dell'acciaio e relativi annessi; Protocollo sui privilegi e le immunita' della Comunita'; Protocollo sullo Statuto della Corte di giustizia; Protocollo sulle relazioni con il Consiglio d'Europa;
+Convenzione per la creazione di un Consiglio di cooperazione doganale e relativo annesso; Protocollo relativo al Gruppo di studi per l'Unione doganale europea;
+
+Vista la [legge 25 aprile 1957, n. 358](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-04-25;358), che ratifica e da' esecuzione al Protocollo di rettifica alla Convenzione di Bruxelles del 15 dicembre 1950 sulla Nomenclatura per la classificazione delle merci nelle tariffe doganali, firmato a Bruxelles il 1 luglio 1955;
+
+Vista la [legge 25 giugno 1952, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-06-25;766), che ratifica e da' esecuzione ai seguenti Accordi internazionali firmati a Parigi il 18 aprile 1951: Trattato che istituisce la Comunita' europea del carbone e dell'acciaio e relativi annessi; Protocollo sui privilegi e le immunita' della Comunita'; Protocollo sullo statuto della Corte di giustizia; Protocollo sulle relazioni con il Consiglio d'Europa;
 
 Convenzione relativa alle disposizioni transitorie;
 
-Vista la [legge 14 ottobre 1957, n. 1203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-10-14;1203), che ratifica e da' esecuzione ai seguenti Accordi internazionali firmati a Roma il 25 marzo 1957; a) Trattato che istituisce la Comunita' europea dell'energia atomica ed Atti allegati; b) Trattato che istituisce la Comunita' economica europea ed Atti allegati; c) Convenzione relativa ad alcune istituzioni comuni alle Comunita' europee;
-
-Visti il [decreto presidenziale 24 dicembre 1960, numero 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-12-24;154), che d'applicazione alla decisione del Consiglio dei Ministri delle Comunita' Europee del 13 febbraio 1960, che stabilisce la Tariffa doganale comune e le successive aggiunte e modificazioni apportate a detta tariffa con i [decreti presidenziali 26 dicembre 1960, n. 1700](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-12-26;1700) e [7 gennaio 1961, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-01-07;1);
-
-Visto il [decreto presidenziale 24 dicembre 1960, numero 1587](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-12-24;1587), che stabilisce le modalita' di applicazione degli articoli 9 e 10 del Trattato che istituisce la Comunita' economica europea;
-
-Visti gli [articoli 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art76) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
+Visto l'[art. 87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
 
 Ritenuta la necessita' di apportare alcune aggiunte e modificazioni al regime daziario temporaneo;
 
-Sentita la Commissione parlamentare, costituita a norma dell'[art. 3 della legge 24 dicembre 1949, n. 993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-12-24;993~art3) e confermata con le [leggi 7 dicembre 1952, n. 1846; 3 novembre 1954, n. 1077; 6 marzo 1957, n. 68 e 24 luglio 1959, n. 693](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-24;693);
+Sentita la Commissione parlamentare, costituita a norma dell'[art. 3 della legge 24 dicembre 1949, n. 993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-12-24;993~art3), e confermata con le [leggi 7 dicembre 1952, n. 1846; 3 novembre 1954, n. 1077; 6 marzo 1957, n. 68, e 24 luglio 1959, n. 693](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-24;693);
 
 Sentito il Consiglio dei Ministri;
 
 Sulla
 -----
 
-proposta del Ministro per le finanze, di concerto con i Ministri per gli affari esteri, per il tesoro, per il bilancio, per l'agricoltura e foreste, per l'industria e per il commercio, per il commercio con l'estero e per la marina mercantile; Decreta:
+proposta del Ministro per le finanze, di concerto con i Ministri per gli affari esteri, per il tesoro, per il bilancio, per l'agricoltura e foreste, per l'industria ed il commercio, per il commercio con l'estero e per la marina mercantile. Decreta:
 
 Art. 1
 ------
 
-Dal 1 luglio 1961 a non oltre il 31 dicembre 1961 si rendono applicabili per i sottoindicati prodotti, importati in Italia da Paesi non membri della Comunita' europea del carboni e dell'acciaio a) il dazio doganale nella misura dell'1% sul valore per le ghise grezze, in lingotti, pani, salmoni o masse, contenenti in peso da 0,3% fino a 1% inclusi di titanio e da 0,5% fino a 1% inclusi di vanadio (voce della tariffa 73.01-d-1);  
-b) il dazio doganale nella misura del 3% sui valore, sotto l'osservanza delle norme e condizioni da stabilirsi dal Ministro per le finanze, per gli sbozzi in rotoli per lamiere, di ferro o di acciaio, non placcati, di larghezza inferiore a metri 1,50 (voce della tariffa 73.08-a-1):  
-I) nei limiti di in contingente di tonnellate 50.000, riservato alle aziende sprovviste di acciaieria ma dotate di impianti per la laminazione a freddo di roils per la produzione di lamierini laminati a freddo, destinati, in tutto ed in parte, alla fabbricazione, con impianti propri, di bande stagnate, lamierini zincati o piombati;  
-II) nei limiti di un contingente di tonnellate 15.000, riservato alle aziende che, anche tramite proprie consociate, producano tubi ad alla pressione di tipo a saldatura elicoidale ad arco sommerso e che provvedano inoltre direttamente alla costruzione di oleodotti,  
-c) la sospensione del dazio doganale, nei limiti di un contingente di tonnellate 2.400 e sotto l'osservanza delle norme e condizioni da stabilirsi dal Ministro per le finanze, per le lamiere dette "magnetiche", aventi, qualunque sia il loro spessore, una perdita in watt per Kg. non superiore a 0,75 watt - lamiere a cristalli orientati (voci della tariffa 73.13-a-1; 73.15-b-6-alfa-I);  
-d) la sospensione del dazio doganale, nei limiti di un contingente di tonnellate 1.000 e sotto l'osservanza delle norme e condizioni da stabilirsi dal Ministro per le finanze per la vergella di acciaio fino al carbonio, semplicemente laminata o lavorata a caldo del diametro compreso fra mm. 4,5 e mm. 5,5 e del tenore in carbonio compreso fra 0,62% e 0,74%, destinata all'industria dei pneumatici (voce della tariffa ex 75.15-a-4-beta-I).  
+  
+Dal 1 luglio 1959 a non oltre il 31 dicembre 1959 si rendono applicabili per i sottoindicati prodotti, importati in Italia da Paesi non membri della Comunita' europea del carbone e dell'acciaio:  
+a) il dazio doganale nella misura dell'1% sul valore per le ghise greggie, in lingotti, pani, salmoni o masse, contenenti in peso da 0,3% fino a 1% inclusi di titanio e da 0,5% fino a 1% inclusi di vanadio (voce della tariffa italiana 73.01-c-1);  
+b) il dazio doganale nella misura del 3% sul valore, sotto l'osservanza delle norme e condizioni da stabilirsi dal Ministro per le finanze, per gli sbozzi in rotoli per lamiere, di di acciaio, non placcati, di larghezza inferiore a metri 1,50 (voce della tariffa italiana 73.08-a-1), nei limiti di un contingente di tonnellate 30.000, riservato alle aziende dotate di impianti per la laminazione a freddo dei coils - escluse quelle produttrici di detti semiprodotti - che lo destinino esclusivamente alla fabbricazione di lamierini stagnati, zincati o piombati;  
+c) la sospensione del dazio doganale per le lamiere dette "magnetiche", aventi, qualunque sia il loro spessore, una perdita in watt per kg. non superiore a 0,75 watt - lamiere a cristalli orientati - (voci della tariffa 73.13-a-1; 73.15-b-6-alfa-I), sotto l'osservanza delle norme e condizioni da stabilirsi dal Ministro per le finanze e nei limiti di un contingente di tonnellate 700 che puo' essere aumentato con i residui non usufruiti del contingente per il primo semestre del 1959 e stabiliti con [decreto Presidenziale 26 dicembre 1955, n. 1100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-12-26;1100).  
 
 Art. 2
 ------
 
   
-All'[art. 5 del decreto dei Presidente della Repubblica 24 dicembre 1960, n. 1585](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-12-24;1585~art5), la voce della tariffa 32.07-a-2-beta-IX e' corretta in "ex 32.07-a-2-beta-IX (cromati e solfocromati di piombo e di zinco)".  
-Alla tabella annessa al [decreto del Presidente della Repubblica 24 dicembre 1960, n. 1586](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-12-24;1586), nella colonna "Osservazioni" in corrispondenza del dazio del 26% con un minimo di L. 130 (') per pezzo, indicato per la voce 85.21-c, aggiungere "Per i diodi a cristallo e' sospesa l'applicazione del dazio minimo per pezzo".  
-Alla tabella B annessa al [decreto del Presidente della Repubblica 3 aprile 1961, n. 321](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-04-03;321), nella colonna "Osservazioni" in corrispondenza del dazio del 14% (a), indicato per la voce di tariffa ex 28.38-b-2, leggere "Escluso l'allume di potassio" invece di "Escluso il cloruro di potassio".  
+Dal 1 gennaio 1960 a non oltre il 30 giugno 1960 si rendono applicabili per i sottoindicati prodotti, importati in Italia da Paesi non membri della Comunita' europea del carbone e dell'acciaio:  
+a) il dazio doganale nella misura dell'1% sul valore per le ghise greggie, in lingotti, pani, salmoni o masse, contenenti in peso da 0,3% fino a 1% inclusi di titanio e da 0,5% fino a 1% inclusi di vanadio (voce della tariffa italiana 73.01-c-1);  
+b) il dazio doganale nella misura del 3% sul valore, sotto l'osservanza delle norme e condizioni da stabilirsi dal Ministro per le finanze, per gli sbozzi in rotoli per lamiere, di ferro o di acciaio, non placcati, di larghezza inferiore a metri 1,50 (voce della tariffa italiana 73.08-a-1), nei limiti di un contingente di tonnellate 30.000, riservato alle aziende dotate di impianti per la laminazione a freddo dei coils - escluse quelle produttrici di detti semiprodotti - che lo destinino esclusivamente alla fabbricazione di lamierini stagnatizincati o piombati;  
+c) la sospensione del dazio doganale, nei limiti di un contingente di tonnellate 700 e sotto l'osservanza delle norme e condizioni da stabilirsi dal Ministro per le finanze, per le lamiere dette "magnetiche", aventi, qualunque sia il loro spessore, una perdita in watt per kg. non superiore a 0,75 watt - lamiere a cristalli orientati - (voci della tariffa 73.13-a-1: 73.15-b-6-alfa-I).  
 
 Art. 3
 ------
 
   
-La denominazione delle merci per la voce n. 73.03: -b 3-gaiaina della tariffa dei dazi doganali di importazione e' modificata come segue:  
-"non nominati, in materiali d'ogni specie resi inservibili dall'uso, oppure scarti di laminazione o diffusione (spuntature o pezzi di lingotti, di barre o verghe, aventi profondi difetti di struttura, sfoglie o screpolature), presentati o ridotti sotto vigilanza doganale in masse informi pressate o in pezzi, di dimensioni non superiori a m. 1,50 x 0,50 x 0,50 (C)".  
+Alla tariffa dei dazi doganali di importazione e alle relative disposizioni preliminari sono apportate le seguenti rettifiche:  
+Il diritto di statistica nella misura fissa di lire 10 per ogni tonnellata di peso lordo, di cui all'art. 47, lettera a) delle disposizioni preliminari alla tariffa dei dazi doganali, e' esteso alle merci considerate sotto le seguenti voci e sottovoci della stessa tariffa: 12.09.12.10, 25-17-c, 25.24, 25.26, 25.27, 25.28, 25.29, 25.31, 27.06, 32.08-b-2, 68.15-a-1, 69.12-a;  
+L'ultimo periodo del penultimo comma dell'art. 47 delle disposizioni preliminari alla tariffa dei dazi doganali e' modificato come segue:  
+"il diritto di statistica e' riscosso nella misura di lire dieci per tonnellata per gli oli di petrolio destinati alla esportazione".  
+L'esenzione del diritto di statistica, di cui all'art. 48, lettera n) di dette disposizioni preliminari e' estesa ai natanti considerati sotto le voci e sottovoci della tariffa dei dazi doganali, numeri 89.01-a-b-c-e: 89.02: 89.03: 89.05;  
+Alla nota (1) a pie' pagina della tariffa dei dazi doganali, riferita alla, voce 17.01, alla seconda riga leggere: "... esportati da non oltre un anno..." invece di "... esportati da oltre un anno...";  
+Nella voce n. 22.05-a) e nella relativa nota, la parola "ricchezza" e' sostituita con "gradazione":  
+Nella seconda e terza riga del 1° comma della nota alla voce 22.05-b) sono soppresse le parole. "ma non i 21 gradi";  
+All'ultima riga della nota. C-c) al capitolo 27 della tariffa la dizione "30° a" e' sostituita, con "300° C";  
+Dalla nota inserita sotto la voce di tariffa numero 29.14-b-4) e' soppresso "(acido oleico, palmitico, ecc.)";  
+Le voci di tariffa numeri 29.25-a-2) e 29.25-a-3) sono modificate come segue:  
+  
+----> Parte di provvedimento in formato grafico <----   
+Alla voce di tariffa n. 29.35-c-13) e' soppresso "e suoi sali";  
+Alle voci di tariffa numeri 29-42-c-1), 29.42-c-2), 29-42-c-3-beta), 29.42-c-6) e' aggiunto "e suoi sali"; alle voci numeri 29.42-c-4), 29.42-c-5) e' aggiunto "e loro sali";  
+Alla voce di tariffa n. 32.09-b) e' inserito il dazio temporaneo "23";  
+Alla nomenclatura (denominazione delle merci) della voce n. 39.02-b) e' premesso "soluzioni";  
+Sotto la voce n. 44.04-b-1-alfa-II) e' inserito:  
+Dazio al valore  
+generale % temporaneo %  
+  
+di Douglas fir (pseudotsuga  
+taxifolia e pseudotsuga glaua);  
+di Western Hemlok (tsuga  
+heterophilla); di Southem pine  
+(Pinus palustris; Pinus echinata;  
+Pinus taeda; Pinus virginiana:  
+Pinus caribaca ; Pinus glabra;  
+Pinus rigida; Pinus rigida  
+varieta serotina)................. -- 6 (\*)  
+Sotto la voce n. 44.04-b-2-  
+beta) e inserito: di Black Walnut  
+(juglans nigra)................... -- 8 (\*)  
+Sotto la voce n. 44.05-c-1-  
+beta) e inserito: listelli a  
+sezione quadrata, di legno di  
+faggio semplicemente segato, con i  
+lati diritti e paralleli a spigolo  
+vivo, di lunghezza da m. 1 a m.  
+1,50 e di spessore da mm. 24 a  
+mm. 30............................ -- 4  
+  
+ed e' soppresso dalla voce n. 44.04-b-1-beta-II-aa);  
+Il dazio generale del 30 per cento della voce di tariffa n. 45.02-b) e' contrassegnato con l'asterisco (\*):  
+La parola "foderati", indicata alle voci numeri 64.03-c-1-al-alfa).  
+64.03-c-2-alfa) e 64.04-c-1) e' sostituita con "foderata":  
+La dizione "68.02 lettera b)", indicata nella nota A) del capitolo 68, e' sostituita con "68.02 lettera c)";  
+La nomenclatura (denominazione delle merci) della voce n. 73.02-e-1) e' modificata come segue:  
+"ferro-silico-cromo contenente piu' di 90% ma non piu' di 96% complessivamente di cromo e silicio con prevalenza in peso del cromo":  
+Il dazio temporaneo di 20 (\*) di cui alla voce n. 84.07-c-5) e' soppresso;  
+La nomenclatura (denominazione delle merci) della voce n. 84.55-b-3-beta-III) e' sostituita dalla seguente:  
+"di registratori di cassa; di macchine per la compilazione dei biglietti e simili; di macchine per statistica e simili, a schede perforate";  
+Alla voce n. 84.56-e-2) sono sostituite:  
+la lettera "gamma", con "III";  
+la dizione "della per la preparazione del calcestruzzo" con: "gamma" di macchine ed apparecchi per la preparazione del calcestruzzo;  
+la lettera "epsilon" con "della";  
+Alla prima riga della dizione della voce n. 85.19-f) e' soppressa la parola "altri";  
+Alla voce di tariffa n. 91.08-c) e' inserito il dazio temporaneo "18 (\*)".  
 
 Art. 4
 ------
 
   
-Dalla data di entrata in vigore del presente decreto ai prodotti compresi nell'annessa tabella, firmata dal Ministro per le finanze, si applicano i dazi a fianco di ciascuno di essi indicati.  
-Agli stessi prodotti importati dagli altri Stati membri della Comunita' economica europea e scortati dai prescritti certificati rimane tuttavia applicabile il regime daziario attualmente in vigore per tali provenienze qualora risulti piu' favorevole di quello stabilito nell'annessa tabella.  
+La sospensione daziaria per lo zucchero greggio importato a reintegro dei corrispondenti quantitativi di zucchero raffinato esportati, prevista dalla nota (1) (a pie' pagina) riferita alla voce n. 17.01 della vigente tariffa dei dazi doganali di importazione, e' prorogata a non oltre il 31 dicembre 1961.  
 
 Art. 5
 ------
 
   
+E' sospesa a non oltre il 31 dicembre 1961 l'applicazione del dazio d'importazione per i macchinari e le attrezzature che non possono essere forniti dall'industria nazionale e che risultino necessari per la fabbricazione di armamenti speciali e relative parti e accessori, che rientrano nelle commesse per la difesa.  
+La sospensione daziaria e' disposta dal Ministero delle finanze - Direzione generale delle dogane, previo accertamento svolto d'intesa con il Ministero industria e commercio.  
+La sospensione daziaria si applica anche per i macchinari e le attrezzature, gia' ammessi alla temporanea importazione, all'atto dello scarico delle relative bollette per l'importazione definitiva.
+
+Art. 6
+------
+
+  
+Dal 1 ottobre 1959 la voce della tariffa dei dazi doganali di importazione n. 26.02 e' modificata come segue:  
+  
+  
+----> Parte di provvedimento in formato grafico <----
+
+Art. 7
+------
+
+  
+L'esenzione da dazio doganale stabilita dall'[art. 5 del decreto Presidenziale 26 dicembre 1958, n. 1100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1958-12-26;1100~art5), per alcuni materiali ferrosi ricavati dagli scafi delle navi in demolizione nei cantieri nazionali, e' estesa a tutti i materiali ferrosi anche non formanti oggetto della Comunita' europea del carbone e dell'acciaio, ed ai materiali di altri metalli comuni ricavati dagli scafi e dalle soprastrutture, nonche' all'apparato motore di propulsione, ai macchinari ausiliari e di coperta, alle ancore, alle catene, ai battelli di salvataggio, ai mobili facenti corpo con la nave ed alla legna da ardere, sotto l'osservanza delle norme e condizioni da stabilirsi dal Ministro per le finanze.  
+
+Art. 8
+------
+
+  
+Dalla data di entrata in vigore del presente decreto a non oltre il 31 dicembre 1961:  
+a) ai prodotti compresi nell'annessa tabella A, firmata dal Ministro per le finanze, si applicano i dazi temporanei a fianco di ciascuno di essi indicati:  
+b) i dazi doganali sui semi oleosi (voce della tariffa doganale n. 12.01), destinati alla produzione di oli per uso alimentare, importati da Paesi estranei alla Comunita' economica europea o da Paesi di detta Comunita' ma non accompagnati dal "certificato per la circolazione delle merci", sono ridotti del 50 per cento, sotto l'osservanza delle norme e condizioni da stabilirsi dal Ministro per le finanze;  
+c) il dazio temporaneo del 4% sul valore, stabilito per le tavolette di legno di faggio, di rovere, di frassino, di mansonia, e di mogano, semplicemente segato, con i lati paralleli e rifilati a spigolo vivo (frise), di lunghezza da cm. 20 a cm. 61, di larghezza da cm. 4 a cm. 8 e di spessore da mm. 18 a mm. 27 (voce della tariffa. n. ex 44.05-c), si applica alle stesse tavolette di lunghezza da cm. 20 a cm. 65, di larghezza da cm. 4 a, cm. 8,50 e di spessore da mm. 18 a mm. 30;  
+d) l'applicazione del dazio minimo (temporaneo) per pezzo per i diodi a cristallo (voce della tariffa doganale n. ex 85-21-c) e' sospesa;  
+e) i linters idrofilizzati, destinati alla nitrazione per la fabbricazione della celluloide, previsti dalla nota 3 della voce della tariffa doganale n. 55.02 sono ammessi in esenzione da dazio, con l'osservanza, delle norme condizioni in vigore;  
+f) i limiti minimo e massimo del tenore di nichelio per la ghisa nichelifera allo stato greggio prevista alla voce della, tariffa dei dazi doganali di importazione n. 73.02-ij-1) sono rispettivamente stabiliti in 20% e 45%.  
+
+Art. 9
+------
+
+  
+Dal 1 gennaio 1960 a non oltre il 31 dicembre 1961, ai prodotti compresi nell'annessa, tabella B, firmata dal Ministro per le finanze, si applicano i dazi temporanei a fianco di ciascuno di essi indicati.  
+
+Art. 10
+-------
+
+  
 Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.  
   
-Il presente decreto, munito del sigillo della Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.  
-  
-Dato a Roma, addi' 7 ottobre 1961  
-  
-GRONCHI  
-  
-FANFANI - TRABUCCHI - SEGNI - TAVIANI - PELLA - RUMOR - COLOMBO - MARTINELLI - JERVOLINO   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte del conti, addi' 15 novembre 1961  
-Atti del Governo, registro n. 142, foglio n. 4. - VILLA  
 
-Tabella
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica, italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- TABELLA   
+### Dato a Roma, addi' 24 dicembre 1959
+
+GRONCHI SEGNI - TAVIANI - PELLA - TAMBRONI - RUMOR - COLOMBO - DEL BO - JERVOLINO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 31 dicembre 1959
+
+Atti del Governo, registro n. 122, foglio n. 169. - VILLA
+
+Tabelle
+
+ TABELLA A   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U117100100010110001&dgu=1961-11-18&art.dataPubblicazioneGazzetta=1961-11-18&art.codiceRedazionale=061U1171)
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=059U110800100010110001&dgu=1959-12-31&art.dataPubblicazioneGazzetta=1959-12-31&art.codiceRedazionale=059U1108)
+  
+  
+  
+TABELLA B   
+  
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=059U110800100010110002&dgu=1959-12-31&art.dataPubblicazioneGazzetta=1959-12-31&art.codiceRedazionale=059U1108)
   

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 507
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1976 n. 725
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 507
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1976 n. 725
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ancona.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Ancona.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Ancona, approvato con [decreto del Presidente della Repubblica 4 ottobre 1971, n. 1330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-10-04;1330), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Ancona, approvato con [decreto del Presidente della Repubblica 10 dicembre 1969, n. 1321](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-12-10;1321), e modificato con [decreto del Presidente della Repubblica 7 agosto 1973, n. 909](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-08-07;909), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,51 +20,161 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ancona e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ancona e convalidati dal Consiglio universitario nazionale nel suo parere;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Ancona, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Ancona, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 14. - all'elenco degli insegnamenti complementari nel corso di laurea in medicina e chirurgia e' aggiunto il seguente:
+
+fisiopatologia ostetrica e ginecologica.
+
+Art. 28. - all'elenco degli insegnamenti complementari per i vari corsi di laurea in ingegneria sono aggiunti i seguenti:
+
+organizzazione del cantiere;
+
+storia dell'architettura;
+
+teoria delle strutture;
+
+impianti tecnici per l'edilizia;
+
+macchine speciali;
+
+macchine di sollevamento e trasporto;
+
+generatori di vapore;
+
+progetti di macchine;
+
+metodi matematici per l'ingegneria;
+
+calcolo numerico;
+
+sistemi operativi;
+
+tecniche della programmazione;
+
+fisica dello stato solido;
+
+tecnica del freddo;
+
+acustica applicata ed illuminotecnica;
+
+reti logiche;
+
+controllo di processi;
+
+antenne e propagazione;
+
+sintesi di reti lineari;
+
+ingegneria dei materiali;
+
+tecnologia dei materiali polimerici;
+
+trattamento delle acque di approvvigionamento e delle acque di rifiuto;
+
+tecnica del traffico;
+
+regime e protezione dei litorali;
+
+geologia applicata;
+
+fotogrammetria;
+
+urbanistica.
+
+Nello Stesso elenco gli insegnamenti di corrosione e protezione dei metalli e di idrogeologia e sistemazioni idrauliche mutano la denominazione rispettivamente in quella di:
+
+corrosione e protezione dei materiali metallici;
+
+idrogeologia applicata.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 30 giugno 1976
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 29 ottobre 1976 Atti di Governo, registro n. 11, foglio n. 6
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Nell'art. 14, relativo al corso di laurea in medicina e chirurgia della facolta' di medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-bioingegneria;  
-traumatologia dello sport;  
-chirurgia della mano;  
-tossicologia industriale;  
-igiene industriale;  
-istituzioni di matematica;  
-tecnica e diagnostica citopatologica.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' di Ancona, approvato con [decreto del Presidente della Repubblica 10 dicembre 1969, n. 1321](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-12-10;1321), e modificato con [decreto del Presidente della Repubblica 7 agosto 1973, n. 909](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-08-07;909), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ancona e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Nell'art. 20, relativo al corso di laurea in odontoiatria e protesi dentaria della facolta' di medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-clinica oculistica.  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Ancona, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 14. - all'elenco degli insegnamenti complementari nel corso di laurea in medicina e chirurgia e' aggiunto il seguente:  
+fisiopatologia ostetrica e ginecologica.  
+Art. 28. - all'elenco degli insegnamenti complementari per i vari corsi di laurea in ingegneria sono aggiunti i seguenti:  
+organizzazione del cantiere;  
+storia dell'architettura;  
+teoria delle strutture;  
+impianti tecnici per l'edilizia;  
+macchine speciali;  
+macchine di sollevamento e trasporto;  
+generatori di vapore;  
+progetti di macchine;  
+metodi matematici per l'ingegneria;  
+calcolo numerico;  
+sistemi operativi;  
+tecniche della programmazione;  
+fisica dello stato solido;  
+tecnica del freddo;  
+acustica applicata ed illuminotecnica;  
+reti logiche;  
+controllo di processi;  
+antenne e propagazione;  
+sintesi di reti lineari;  
+ingegneria dei materiali;  
+tecnologia dei materiali polimerici;  
+trattamento delle acque di approvvigionamento e delle acque di rifiuto;  
+tecnica del traffico;  
+regime e protezione dei litorali;  
+geologia applicata;  
+fotogrammetria;  
+urbanistica.  
+Nello Stesso elenco gli insegnamenti di corrosione e protezione dei metalli e di idrogeologia e sistemazioni idrauliche mutano la denominazione rispettivamente in quella di:  
+corrosione e protezione dei materiali metallici;  
+idrogeologia applicata.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1984
+### Dato a Roma, addi' 30 giugno 1976
 
-PERTINI FALCUCCI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 8 agosto 1984
+Registrato alla Corte dei conti, addi' 29 ottobre 1976
 
-Registro n. 49 Istruzione, foglio n. 206
+Atti di Governo, registro n. 11, foglio n. 6

@@ -1,229 +1,296 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1977 n. 996
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1969 n. 841
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1977 n. 996
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1969 n. 841
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare 13 nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 90, relativo al corso di laurea in lettere e' modificato nel senso che e' soppresso l'undicesimo comma, che reca la norma seguente: "Gli insegnamenti di storia medioevale e di storia moderna sono tenuti alternativamente e nel manifesto di studi e' indicato ogni anno il corso che sara' impartito".
+
+Art. 93, relativo al corso di laurea in filosofia, e' modificato nel senso che e' soppresso il quarto comma, che reca la norma seguente: "Gli insegnamenti di storia medioevale e di storia moderna sono tenuti alternativamente e nel manifesto di studi e' indicato ogni anno il corso che sara' impartito".
+
+Art. 98, relativo al corso di laurea in lingue e letterature straniere moderne (indirizzo europeo), e' modificato nel senso che e' soppresso il decimo comma, che reca la norma seguente: "Gli insegnamenti di storia medioevale e di storia moderna sono tenuti alternativamente e nel manifesto di studi e' indicato ogni anno il corso che sara' impartito".
+
+Art. 159. - All'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche e' aggiunto quello di "Paleogeografia".
+
+Nello stesso elenco e' soppresso l'insegnamento di "Paleografia".
+
+Art. 163. - All'elenco degli istituti della facolta' di scienze matematiche, fisiche e naturali sono aggiunti i seguenti istituti:
+
+Centro di studio di microscopia elettronica;
+
+Centro di calcolo elettronico.
+
+Art. 258, relativo ai titoli di ammissione alla scuola di perfezionamento il diritto civile e' modificato nel senso che a tale scuola oltre i laureati in giurisprudenza possono iscriversi anche i laureati in economia e commercio, in economia marittima e in scienze politiche.
+
+Art. 264, relativo alla suddetta scuola di perfezionamento in diritto civile e' abrogato e sostituito dal seguente: "Gli incarichi di insegnamento sono conferiti dal consiglio della facolta' su proposta del direttore della scuola, con l'approvazione del senato accademico e del consiglio di amministrazione dell'Universita' di Napoli".
+
+Gli articoli da 515 a 530, relativi alla scuola di specializzazione in infrastrutture aeronautiche sono abrogati e sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi.
+
+Scuola di specializzazione in infrastrutture aeronautiche
+
+Art. 515. - E' istituita, presso la facolta' di ingegneria, una scuola di specializzazione in infrastrutture aeronautiche.
+
+Detta scuola ha il fine di qualificare ulteriormente i laureati in ingegneria nella progettazione, costruzione ed esercizio delle infrastrutture aeronautiche nonche' di promuovere gli studi e le ricerche relative alle infrastrutture ed alle scienze tecniche ad esse connesse.
+
+Art. 516. - La scuola e' diretta ed amministrata da un consiglio nominato dal rettore su proposta della facolta' di ingegneria di concerto col Ministero della difesa - Ufficio del generale ispettore del genio aeronautico e costituito, di norma, dai direttori degli istituti di costruzioni di strade, ferrovie ed aeroporti, di costruzioni edili, di tecnica ed economia dei trasporti, di aerodinamica e da un ufficiale del genio aeronautico, ciascuno incaricato del coordinamento di uno dei gruppi di materie di cui al seguente articolo 518.
+
+Art. 517. - Il consiglio direttivo, presieduto e rappresentato dal preside della facolta' di ingegneria, si riunisce in seduta ordinaria per l'approvazione del programma ed ogni qualvolta il suo presidente lo riterra' opportuno.
+
+Il consiglio della scuola puo' deliberare di assegnare ad uno dei componenti le funzioni di segretario, comprendenti quelle responsabilita' e quei compiti esecutivi od amministrativi che si riterra' opportuno delegare. Restera' comunque di competenza del consiglio direttivo l'approvazione dei bilanci consuntivo e preventivo e della relativa relazione.
+
+Per quanto qui non preveduto si seguiranno le norme stabilite dalle leggi e dai regolamenti per l'amministrazione degli istituti universitari.
+
+Art. 518. - La durata minima degli studi e' di un anno accademico.
+
+Gli insegnamenti obbligatori sono coordinati in cinque gruppi di materie, afferenti ai seguenti argomenti:
+
+1) Costruzione di piste aeroportuali, comprendente:
+
+a) Terre e materiali di sovrastruttura;
+
+b) Pavimentazioni aeroportuali;
+
+c) Tecnica costruttiva delle piste.
+
+2) Pianificazione delle infrastrutture e costruzioni edili per l'Aeronautica, comprendente:
+
+a) Progettazione di insieme delle infrastrutture;
+
+b) Complementi di costruzioni edili.
+
+3) Impianti aeroportuali comprendente:
+
+a) Impianti luminosi di aiuto alla navigazione aerea;
+
+b) Impianti per carburanti.
+
+4) Aerotecnica comprendente:
+
+a) Principi di aerodinamica ed elementi costruttivi;
+
+b) Principi di propulsione aerea.
+
+5) Trasporti e traffico aereo comprendente:
+
+a) Economia dei trasporti aerei;
+
+b) Traffico e radionavigazione.
+
+Art. 519. - Sono istituiti i seguenti corsi complementari per il perfezionamento in metodologia della progettazione:
+
+a) Metodologia generale;
+
+b) Ergonomia applicata;
+
+c) Progettazione sistematica nell'edilizia e nelle infrastrutture aeronautiche.
+
+Il direttore dell'istituto di costruzioni edili (con annesso centro studi per la metodologia della progettazione) e' responsabile del coordinamento dei corsi per il perfezionamento in metodologia della progettazione.
+
+Art. 520. - Il consiglio direttivo della scuola, puo' stabilire anno per anno, con suo manifesto, l'istituzione di corsi complementari ed un programma di conferenze, di tavole rotonde e di visite tecniche da coordinarsi negli insegnamenti di cui al precedente art. 518.
+
+In relazione a particolari esigenze degli studi, il consiglio potra' stabilire, per allievi particolarmente dotati, speciali curricula: richiedendo, ove del caso, anche la frequenza di alcuni dei corsi ufficiali della facolta'.
+
+Art. 521. - Gli incarichi per gli insegnamenti della scuola sono conferiti su proposta del consiglio direttivo della scuola sentito l'ufficio del generale ispettore del genio aeronautico, e per il resto, con la normale procedura prescritta per gli insegnamenti delle scuole di specializzazione.
+
+Gli insegnanti saranno scelti fra professori di ruolo, professori incaricati, liberi docenti, ufficiali superiori e generali del genio aeronautico ruolo ingegneri, nonche' tra ufficiali dell'Aeronautica particolarmente competenti negli specifici settori di insegnamento e fra i cultori della materia.
+
+Art. 522. - Alla scuola possono essere iscritti i laureati in ingegneria civile e, con deliberazione del consiglio direttivo, esaminati gli studi effettuati, i laureati nelle altre sezioni di ingegneria ed in architettura nonche' gli ufficiali del genio aeronautico ruolo ingegneri, allievi dell'Accademia aeronautica per il conseguimento della promozione a tenente in servizio permanente effettivo del Corpo stesso.
+
+Varranno, in generale per gli ufficiali in servizio permanente effettivo, le norme degli articoli 144 e 146 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592). Comunque il numero degli iscritti non puo' superare le 30 unita'.
+
+Art. 523. - Gli allievi della scuola che non abbiano ancora sostenuto i seguenti esami della facolta' di ingegneria:
+
+Costruzioni di strade, ferrovie ed aeroporti;
+
+Costruzioni edili;
+
+Tecnica delle costruzioni;
+
+Tecnica delle fondazioni e costruzioni in terra (o tecnica fondazioni per edili)
+
+dovranno frequentare i corsi relativi ed ottenere dai rispettivi professori ufficiali un certificato di frequenza e profitto prima di potere essere ammessi a sostenere gli esami della scuola.
+
+Art. 524. - Ai singoli corsi possono essere iscritti, in base al disposto della legislazione vigente sugli uditori, anche gli studenti della facolta' di ingegneria che abbiano superato tutti gli esami prescritti per i primi quattro anni.
+
+Art. 525. - Coloro che, trovandosi in una delle anzidette condizioni, intendano iscriversi alla scuola devono presentare domanda al rettore, su carta legale, corredata dal certificato di laurea, dal certificato degli esami speciali sostenuti e tutti gli altri titoli che riterranno opportuno.
+
+In base a questi elementi ed al disposto del precedente art. 522 il consiglio direttivo della scuola decidera' sulle iscrizioni.
+
+Art. 526. - Gli iscritti alla scuola sono tenuti a pagare le tasse, soprattasse e contributi secondo quanto stabilito per gli studenti della facolta' di ingegneria, nonche' la tassa di diploma nella misura di lire 6000 ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7). Essi sono tenuti altresi' a pagare un contributo speciale nella misura che sara' determinata annualmente dal consiglio di amministrazione su proposta del consiglio direttivo della scuola.
+
+Art. 527. - Gli iscritti hanno l'obbligo di frequenza alle lezioni ed alle esercitazioni osservando l'orario che sara' stabilito dal consiglio direttivo.
+
+Art. 528. - Al termine dei corsi gli iscritti sosterranno gli esami orali e/o grafici prescritti dal consiglio direttivo per ciascuno dei gruppi di materie di cui all'art. 518.
+
+Detti esami comprenderanno la discussione degli elaborati svolti durante l'anno.
+
+Per ciascuno dei gruppi di materie la commissione e' costituita da tutti gli insegnanti del gruppo.
+
+Art. 529. - I laureati iscritti alla scuola, che abbiano superato tutti gli esami speciali, possono sostenere l'esame di diploma, comprendente la discussione di una tesi monografica o di un progetto.
+
+La commissione di diploma, nominata dal consiglio direttivo, e' costituita da nove insegnanti della scuola, fra cui almeno tre professori di ruolo.
+
+Essa e' presieduta dal preside della facolta' di ingegneria.
+
+Art. 530. - A coloro che hanno superato l'esame di cui all'art. 528 verra' conferito il diploma di specializzazione in infrastrutture aeronautiche. In particolare sara' annotata nel diploma la dizione "indirizzo metodologia della progettazione" per coloro che avranno sostenuto i tre esami di cui all'art. 5 oltre gli esami obbligatori ed avranno redatto la tesi di diploma in metodologia della progettazione.
+
+A coloro che avranno sostenuto gli esami dei tre corsi di cui all'art. 519 per il perfezionamento in metodologia della progettazione potra' essere rilasciato un attestato.
+
+Possono essere rilasciati altresi' certificati dei singoli esami sostenuti o per studi o per ricerche eseguiti nell'ambito della scuola.
+
+Art. 531. - Il Ministero della difesa ed altri enti o privati possono porre a disposizione dell'Universita' di Napoli somme o fondi per le spese di insegnamento e di attrezzatura didattica o scientifica somme che saranno amministrate secondo le norme dell'art.
+
+517. Ministero od enti potranno altresi' porre a disposizione della scuola materiale didattico o scientifico, anche conservandone la proprieta'. In tal caso saranno istituiti inventari speciali.
+
+L'Universita' di Napoli fornira' i locali idonei e provvedera' alla sistemazione e manutenzione del materiale stesso.
+
+Art. 532. - Gli ufficiali laureati in ingegneria, comandati dal Ministero della difesa a seguire i corsi tenuti nella scuola sono esentati dal pagamento di tutte le tasse e contributi. Il consiglio direttivo, ove lo ritenga opportuno, potra' esentare da tali pagamenti, totalmente o parzialmente, anche gli altri iscritti particolarmente meritevoli.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 15 ottobre 1969
+
+SARAGAT
+
+FERRARI AGGRADI
+
+Visto, il Guardasigilli: GAVA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 27 novembre 1969 Atti del Governo, registro n. 230, foglio n. 67. - CARUSO
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare 13 nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 443, quinto comma, relativo alla scuola di specializzazione in neurologia della prima facolta' di medicina e chirurgia e' abrogato e sostituito dal seguente:  
-"Non sono ammesse abbreviazioni di corso".  
-La scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale della prima facolta' di medicina e chirurgia, di cui agli articoli 444 e 445, muta la denominazione in quella di scuola di specializzazione in otorinolaringoiatria.  
-La scuola di specializzazione in odontoiatria e protesi dentaria della prima facolta' di medicina e chirurgia, di cui agli articoli 448 e 449, muta la denominazione in quella di scuola di specializzazione in odontostomatologia.  
-Gli articoli 455, 456, 457, 458, 459, relativi alla scuola di specializzazione in medicina legale e delle assicurazioni della prima facolta' di medicina e chirurgia sono abrogati e sostituiti dai seguenti:  
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 90, relativo al corso di laurea in lettere e' modificato nel senso che e' soppresso l'undicesimo comma, che reca la norma seguente: "Gli insegnamenti di storia medioevale e di storia moderna sono tenuti alternativamente e nel manifesto di studi e' indicato ogni anno il corso che sara' impartito".   
+Art. 93, relativo al corso di laurea in filosofia, e' modificato nel senso che e' soppresso il quarto comma, che reca la norma seguente: "Gli insegnamenti di storia medioevale e di storia moderna sono tenuti alternativamente e nel manifesto di studi e' indicato ogni anno il corso che sara' impartito".   
+Art. 98, relativo al corso di laurea in lingue e letterature straniere moderne (indirizzo europeo), e' modificato nel senso che e' soppresso il decimo comma, che reca la norma seguente: "Gli insegnamenti di storia medioevale e di storia moderna sono tenuti alternativamente e nel manifesto di studi e' indicato ogni anno il corso che sara' impartito".   
+Art. 159. - All'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche e' aggiunto quello di "Paleogeografia".   
+Nello stesso elenco e' soppresso l'insegnamento di "Paleografia".   
+Art. 163. - All'elenco degli istituti della facolta' di scienze matematiche, fisiche e naturali sono aggiunti i seguenti istituti:   
   
-Scuola di specializzazione in medicina legale e delle assicurazioni   
-Art. 455. - Alla facolta' di medicina e chirurgia I e' annessa la scuola di specializzazione in medicina legale e delle assicurazioni.  
-Art. 456. - La durata della scuola e' di tre anni. Il direttore della scuola e' un professore di ruolo della cattedra di medicina legale e delle assicurazioni. Il numero massimo degli iscritti e' di dieci per anno per un totale di trenta iscritti per i tre anni di corso.  
-Art. 457. - Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni e le esercitazioni nonche' di prestare servizio medico interno per almeno sei mesi per ciascun asilo.  
-Alla fine di ogni anno, gli iscritti sosterranno gli esami di profitto sulle singole materie di insegnamento.  
-Lo specializzando che non abbia superato tutti gli esami dell'anno frequentato non potra' essere iscritto all'anno successivo.  
-Art. 458. - L'esame di diploma consistera' in una dissertazione scritta su un argomento di medicina legale e di medicina delle assicurazioni.  
-I candidati non riconosciuti idonei all'esame di diploma si potranno presentare dopo un altro anno di frequenza alla scuola; se al secondo esame non sara' loro riconosciuta l'idoneita' verranno senz'altro esclusi da ulteriori prove.  
-Art. 459. - Gli insegnamenti impartiti dalla scuola sono:  
-1° Anno:  
-1) medicina legale generale;  
-2) elementi di diritto pubblico e privato;  
-3) tecnica e diagnostica anatomo-patologica generale e medico-legale;  
-4) traumatologia medico-legale;  
-5) semeiotica medico-legale.  
-2° Anno:  
-1) medicina legale penalistica;  
-2) deontologia medica;  
-3) neuropsichiatria medico-legale;  
-4) elementi di medicina criminologica e di medicina penitenziaria;  
-5) indagini di sopralluogo;  
-6) identificazione personale.  
-3° Anno:  
-1) medicina legale civilistica e canonistica;  
-2) tossicologia medico-legale;  
-3) tecniche di laboratorio medico-legale ed ematologie forense;  
-4) ostetricia e ginecologia forensi;  
-5) elementi di legislazione del lavoro;  
-6) elementi di medicina del lavoro;  
-7) medicina delle assicurazioni;  
-8) medicina legale militare e pensionistica civile.  
-Gli articoli 532, 533, 534, 535, 536, 537, relativi alla scuola di specializzazione in endocrinologia e malattie del ricambio della prima facolta' di medicina e chirurgia, che muta la denominazione in quella di scuola di specializzazione in endocrinologia, sono abrogati e sostituiti dai seguenti:  
+Centro di studio di microscopia elettronica;   
+Centro di calcolo elettronico.   
+Art. 258, relativo ai titoli di ammissione alla scuola di perfezionamento il diritto civile e' modificato nel senso che a tale scuola oltre i laureati in giurisprudenza possono iscriversi anche i laureati in economia e commercio, in economia marittima e in scienze politiche.   
+Art. 264, relativo alla suddetta scuola di perfezionamento in diritto civile e' abrogato e sostituito dal seguente: "Gli incarichi di insegnamento sono conferiti dal consiglio della facolta' su proposta del direttore della scuola, con l'approvazione del senato accademico e del consiglio di amministrazione dell'Universita' di Napoli".   
+Gli articoli da 515 a 530, relativi alla scuola di specializzazione in infrastrutture aeronautiche sono abrogati e sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi.   
+Scuola di specializzazione in infrastrutture aeronautiche   
+Art. 515. - E' istituita, presso la facolta' di ingegneria, una scuola di specializzazione in infrastrutture aeronautiche.   
+Detta scuola ha il fine di qualificare ulteriormente i laureati in ingegneria nella progettazione, costruzione ed esercizio delle infrastrutture aeronautiche nonche' di promuovere gli studi e le ricerche relative alle infrastrutture ed alle scienze tecniche ad esse connesse.   
+Art. 516. - La scuola e' diretta ed amministrata da un consiglio nominato dal rettore su proposta della facolta' di ingegneria di concerto col Ministero della difesa - Ufficio del generale ispettore del genio aeronautico e costituito, di norma, dai direttori degli istituti di costruzioni di strade, ferrovie ed aeroporti, di costruzioni edili, di tecnica ed economia dei trasporti, di aerodinamica e da un ufficiale del genio aeronautico, ciascuno incaricato del coordinamento di uno dei gruppi di materie di cui al seguente articolo 518.   
+Art. 517. - Il consiglio direttivo, presieduto e rappresentato dal preside della facolta' di ingegneria, si riunisce in seduta ordinaria per l'approvazione del programma ed ogni qualvolta il suo presidente lo riterra' opportuno.   
+Il consiglio della scuola puo' deliberare di assegnare ad uno dei componenti le funzioni di segretario, comprendenti quelle responsabilita' e quei compiti esecutivi od amministrativi che si riterra' opportuno delegare. Restera' comunque di competenza del consiglio direttivo l'approvazione dei bilanci consuntivo e preventivo e della relativa relazione.   
+Per quanto qui non preveduto si seguiranno le norme stabilite dalle leggi e dai regolamenti per l'amministrazione degli istituti universitari.   
+Art. 518. - La durata minima degli studi e' di un anno accademico.  
+Gli insegnamenti obbligatori sono coordinati in cinque gruppi di materie, afferenti ai seguenti argomenti:   
+1) Costruzione di piste aeroportuali, comprendente:   
+a) Terre e materiali di sovrastruttura;   
+b) Pavimentazioni aeroportuali;   
+c) Tecnica costruttiva delle piste.   
+2) Pianificazione delle infrastrutture e costruzioni edili per l'Aeronautica, comprendente:   
+a) Progettazione di insieme delle infrastrutture;   
+b) Complementi di costruzioni edili.   
+3) Impianti aeroportuali comprendente:   
+a) Impianti luminosi di aiuto alla navigazione aerea;   
+b) Impianti per carburanti.   
+4) Aerotecnica comprendente:   
+a) Principi di aerodinamica ed elementi costruttivi;   
+b) Principi di propulsione aerea.   
+5) Trasporti e traffico aereo comprendente:   
+a) Economia dei trasporti aerei;   
+b) Traffico e radionavigazione.   
+Art. 519. - Sono istituiti i seguenti corsi complementari per il perfezionamento in metodologia della progettazione:   
+a) Metodologia generale;   
+b) Ergonomia applicata;   
+c) Progettazione sistematica nell'edilizia e nelle infrastrutture aeronautiche.   
+Il direttore dell'istituto di costruzioni edili (con annesso centro studi per la metodologia della progettazione) e' responsabile del coordinamento dei corsi per il perfezionamento in metodologia della progettazione.   
+Art. 520. - Il consiglio direttivo della scuola, puo' stabilire anno per anno, con suo manifesto, l'istituzione di corsi complementari ed un programma di conferenze, di tavole rotonde e di visite tecniche da coordinarsi negli insegnamenti di cui al precedente art. 518.   
+In relazione a particolari esigenze degli studi, il consiglio potra' stabilire, per allievi particolarmente dotati, speciali curricula: richiedendo, ove del caso, anche la frequenza di alcuni dei corsi ufficiali della facolta'.   
+Art. 521. - Gli incarichi per gli insegnamenti della scuola sono conferiti su proposta del consiglio direttivo della scuola sentito l'ufficio del generale ispettore del genio aeronautico, e per il resto, con la normale procedura prescritta per gli insegnamenti delle scuole di specializzazione.   
+Gli insegnanti saranno scelti fra professori di ruolo, professori incaricati, liberi docenti, ufficiali superiori e generali del genio aeronautico ruolo ingegneri, nonche' tra ufficiali dell'Aeronautica particolarmente competenti negli specifici settori di insegnamento e fra i cultori della materia.   
+Art. 522. - Alla scuola possono essere iscritti i laureati in ingegneria civile e, con deliberazione del consiglio direttivo, esaminati gli studi effettuati, i laureati nelle altre sezioni di ingegneria ed in architettura nonche' gli ufficiali del genio aeronautico ruolo ingegneri, allievi dell'Accademia aeronautica per il conseguimento della promozione a tenente in servizio permanente effettivo del Corpo stesso.   
+Varranno, in generale per gli ufficiali in servizio permanente effettivo, le norme degli articoli 144 e 146 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592). Comunque il numero degli iscritti non puo' superare le 30 unita'.   
+Art. 523. - Gli allievi della scuola che non abbiano ancora sostenuto i seguenti esami della facolta' di ingegneria:   
   
-Scuola di specializzazione in endocrinologia  
-Prima facolta' di medicina e chirurgia  
-  
-Art. 532. - La scuola assume la denominazione di scuola di specializzazione in endocrinologia con sede nei locali attribuiti all'endocrinologia della prima facolta' di medicina e chirurgia.  
-La scuola e' diretta dal professore ufficiale della materia o da un professore di ruolo di materia affine.  
-Art. 533. - La scuola ha la durata di tre anni.  
-Ad ogni anno accademico possono essere ammessi alla scuola ventuno candidati.  
-Art. 534. - Gli aspiranti saranno ammessi alla scuola in base alla classifica di un esame preliminare che comprende una prova scritta ed una orale che si svolgera' entro il mese di dicembre.  
-Gli iscritti alla scuola hanno l'obbligo di frequentare gli insegnamenti stabiliti secondo il programma del corso, nonche' l'istituto sede della scuola.  
-Art. 535. - Coloro che non ottempereranno all'obbligo di frequentare ai corsi di insegnamento ed al servizio di corsia e di laboratorio non potranno ottenere l'attestazione di frequenza, necessaria per l'ammissione agli esami.  
-Alla fine di ciascun anno accademico coloro che abbiano ottenuto la prescritta attestazione di frequenza potranno sostenere gli esami di profitto, il cui superamento e' condizione necessaria per l'iscrizione al corso successivo.  
-Art. 536. - Al termine del terzo anno, per conseguire il diploma di specializzazione in endocrinologia, gli iscritti, oltre ad aver superato le prove di esame dei singoli, dovranno presentare una dissertazione scritta su un argomento di ordine endocrinologico (clinico, e sperimentale) che sara' stabilito in base agli accordi presi con il direttore della scuola.  
-I candidati non riconosciuti idonei agli esami di ciascun corso o all'esame di diploma potranno sostenere le prove dopo un altro anno di frequenza.  
-Art. 537. - Le materie saranno le seguenti:  
-1° Anno:  
-1) anatomia ed embriologia degli organi endocrini;  
-2) fisiologia endocrina;  
-3) biochimica endocrina;  
-4) anatomia patologica delle malattie endocrine (biennale);  
-5) semeiotica e diagnostica endocrine (biennale).  
-2° Anno:  
-1) anatomia patologica delle malattie endocrine (biennale);  
-2) semeiotica e diagnostica endocrine (biennale);  
-3) patologia speciale medica e clinica delle malattie endocrine e delle auxopatie (biennale);  
-4) eredopatologia endocrina.  
-3° Anno:  
-1) patologia speciale medica e clinica delle malattie endocrine e delle auxopatie (biennale);  
-2) terapia delle malattie endocrine.  
-Inoltre vengono inseriti quattro insegnamenti facoltativi di cui uno a scelta del candidato sara' materia d'esame.  
-I suddetti insegnamenti sono:  
-tecniche di laboratorio endocrinologiche;  
-endocrinologia ostetrico-ginecologica;  
-endocrino-chirurgia;  
-psiconeuroendocrinologia.  
-Il programma di ciascun anno di corso sara' svolto in almeno sessanta lezioni globali e sara' integrato da seminari, conferenze, esercitazioni.  
-L'art. 612, relativo alla scuola di specializzazione in neurologia della seconda facolta' di medicina e chirurgia, e' abrogato e sostituito dal seguente:  
-Art. 612. - Non sono previste abbreviazioni di corso.  
-Dopo l'art. 652, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione, presso la seconda facolta' di medicina e chirurgia, della scuola di specializzazione in criminologia clinica.  
-  
-Scuola di specializzazione in criminologia clinica  
-  
-Art. 653. - Presso la cattedra di antropologia criminale della seconda facolta' di medicina e chirurgia della Universita' di Napoli, e' istituita la scuola di specializzazione in criminologia clinica; essa e' diretta dal titolare della cattedra predetta, o dal titolare di disciplina strettamente affine.  
-Art. 654. - La scuola ha due indirizzi:  
-a) indirizzo medico psicologico e psichiatrico forense, per i laureati in medicina e chirurgia;  
-b) indirizzo socio-psicologico, per i laureati in giurisprudenza, scienze politiche, pedagogia, sociologia, psicologia, lettere e filosofia.  
-Dell'indirizzo seguito viene fatta espressa menzione sul diploma di, specializzazione.  
-La durata del corso della scuola e' di tre anni. La frequenza e' obbligatoria. Non sono consentite abbreviazioni di corso.  
-Art. 655. - Gli insegnamenti impartiti, nella scuola sono i seguenti:  
-Insegnamenti fondamentali comuni ai due indirizzi:  
-1) criminologia generale (I);  
-2) elementi di diritto;  
-3) elementi di sociologia;  
-4) elementi di psicologia;  
-5) elementi di biologia;  
-6) metodologia della ricerca;  
-7) criminologia generale (II);  
-8) criminologia minorile;  
-9) trattamento criminologico;  
-10) politica criminale e diritto penitenziario.  
-Insegnamenti fondamentali dell'indirizzo medico-psicologico e psichiatrico-forense:  
-1) psicopatologia generale;  
-2) psichiatria clinica;  
-3) diagnostica criminologica;  
-4) medicina legale e criminalistica;  
-5) psicodiagnostica;  
-6) neurologia e psichiatria forense;  
-7) prevenzione della patologia del comportamento;  
-8) tecniche di rieducazione minorile;  
-9) legislazione socio-sanitaria.  
-Insegnamenti fondamentali dell'indirizzo socio-psicologico:  
-1) elementi di psicopatologia generale;  
-2) elementi di psichiatria clinica e forense;  
-3) tecniche di servizio sociale;  
-4) antropologia culturale;  
-5) elementi di medicina legale;  
-6) psicologia sociale;  
-7) tecniche psicopedagogiche;  
-8) sociologia della devianza;  
-9) metodi di prevenzione.  
-Insegnamenti complementari:  
-1) antropofenomenologia;  
-2) etologia dei comportamenti criminosi;  
-3) sociologia del diritto;  
-4) psicobiologia;  
-5) economia della sicurezza e della difesa sociale;  
-6) psicologia e psicopatologia dell'eta' evolutiva;  
-7) igiene mentale;  
-8) psicoterapia.  
-Art. 656. - Il piano di studi della scuola di specializzazione e' il seguente:  
-1° Anno (comune ai due indirizzi):  
-1) criminologia generale (I);  
-2) elementi di diritto;  
-3) elementi di sociologia;  
-4) elementi di psicologia;  
-5) elementi di biologia;  
-6) metodologia della ricerca;  
-7) una materia integrativa a scelta.  
-2° Anno:  
-  
-A) Indirizzo medico-psicologico e psichiatrico-forense:  
-1) criminologia generale (II);  
-2) psicopatologia generale;  
-3) psichiatria clinica;  
-4) diagnostica criminologica;  
-5) medicina legale e criminalistica;  
-6) psicodiagnostica;  
-7) criminologia minorile;  
-8) una materia integrativa a scelta.  
-  
-B) Indirizzo socio-psicologico:  
-1) criminologia generale (II);  
-2) elementi di psicopatologia generale;  
-3) elementi di psichiatria clinica e forense;  
-4) tecniche di servizio sociale;  
-5) antropologia culturale;  
-6) elementi di medicina legale;  
-7) criminologia minorile;  
-8) una materia integrativa a scelta.  
-3° Anno:  
-  
-A) indirizzo medico-psicologico e psichiatrico-forense:  
-1) neurologia e psichiatria forense;  
-2) prevenzione della patologia del comportamento;  
-3) trattamento criminologico;  
-4) tecniche di rieducazione minorile;  
-5) legislazione socio-sanitaria;  
-6) politica criminale e diritto penitenziario;  
-7) una materia integrativa a scelta.  
-  
-B) indirizzo socio-psicologico;  
-1) psicologia sociale;  
-2) tecniche psico-pedagogiche;  
-3) sociologia della devianza;  
-4) metodi di prevenzione;  
-5) trattamento criminologico;  
-6) politica criminale e diritto penitenziario;  
-7) una materia a scelta integrativa.  
-Art. 657. - All'atto della domanda di iscrizione a ciascuno dei tre anni di corso, l'allievo dovra' indicare alla segreteria della scuola una materia integrativa, da scegliere fra le materie complementari ovvero fra quelle fondamentali appartenenti all'indirizzo al quale non e' iscritto. L'indicazione e' vincolante.  
-Art. 658. - Gli insegnamenti potranno essere integrati da esercitazioni pratiche, nonche' da conferenze tenute da esperti italiani e stranieri.  
-Art. 659. - Alla scuola sono ammessi i laureati in medicina e chirurgia, in giurisprudenza, in scienze politiche, in pedagogia, in sociologia, in psicologia, in lettere e in filosofia, in numero complessivo non superiore a trenta per i tre anni di corso.  
-L'ammissione avviene mediante concorso per esami.  
-Art. 660. - Gli esami di profitto sono tenuti ogni anno per singole materie o per gruppi di materie. Per essere ammesso all'esame di diploma l'allievo deve aver sostenuto, ventidue esami, dei quali diciannove relativi alle materie fondamentali del suo indirizzo e tra relativi alle materie integrative da lui scelte.  
-I voti degli esami di profitto sono attribuiti in trentesimi, il voto dell'esame di diploma e' attribuito in cinquantesimi.  
-Art. 661. - L'esame di diploma consiste nella discussione di una dissertazione scritta originale, in una delle materie oggetto di insegnamento. Il tema, concordato con il docente, dovra' essere presentato al direttore della scuola per l'approvazione entro trenta giorni dalla data di inizio dell'ultimo anno di corso.  
-A coloro che hanno superato l'esame di diploma viene rilasciato il diploma di specialista in criminologia clinica, con la specificazione dell'indirizzo seguito.  
-Art. 662. - Le norme per l'iscrizione, per gli esami, per le tasse, ecc, sono quelle generali, delle scuole di specializzazione dello statuto dell'Universita' di Napoli.  
-L'[art. 679 del decreto del Presidente della Repubblica 24 ottobre 1975, n. 602](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1975-10-24;602~art679), relativo alla scuola di specializzazione in radiologia della seconda facolta' di medicina e chirurgia, e' modificato nel senso che gli insegnamenti di cui al punto c) sono abrogati e sostituiti dai seguenti:  
-c) radiobiologia (annuale) comprendente:  
-1) radiologia generale;  
-2) danni da radiazioni e radiopatie.  
+Costruzioni di strade, ferrovie ed aeroporti;   
+Costruzioni edili;   
+Tecnica delle costruzioni;   
+Tecnica delle fondazioni e costruzioni in terra (o tecnica fondazioni per edili)   
+dovranno frequentare i corsi relativi ed ottenere dai rispettivi professori ufficiali un certificato di frequenza e profitto prima di potere essere ammessi a sostenere gli esami della scuola.   
+Art. 524. - Ai singoli corsi possono essere iscritti, in base al disposto della legislazione vigente sugli uditori, anche gli studenti della facolta' di ingegneria che abbiano superato tutti gli esami prescritti per i primi quattro anni.   
+Art. 525. - Coloro che, trovandosi in una delle anzidette condizioni, intendano iscriversi alla scuola devono presentare domanda al rettore, su carta legale, corredata dal certificato di laurea, dal certificato degli esami speciali sostenuti e tutti gli altri titoli che riterranno opportuno.   
+In base a questi elementi ed al disposto del precedente art. 522 il consiglio direttivo della scuola decidera' sulle iscrizioni.   
+Art. 526. - Gli iscritti alla scuola sono tenuti a pagare le tasse, soprattasse e contributi secondo quanto stabilito per gli studenti della facolta' di ingegneria, nonche' la tassa di diploma nella misura di lire 6000 ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7). Essi sono tenuti altresi' a pagare un contributo speciale nella misura che sara' determinata annualmente dal consiglio di amministrazione su proposta del consiglio direttivo della scuola.   
+Art. 527. - Gli iscritti hanno l'obbligo di frequenza alle lezioni ed alle esercitazioni osservando l'orario che sara' stabilito dal consiglio direttivo.   
+Art. 528. - Al termine dei corsi gli iscritti sosterranno gli esami orali e/o grafici prescritti dal consiglio direttivo per ciascuno dei gruppi di materie di cui all'art. 518.   
+Detti esami comprenderanno la discussione degli elaborati svolti durante l'anno.   
+Per ciascuno dei gruppi di materie la commissione e' costituita da tutti gli insegnanti del gruppo.   
+Art. 529. - I laureati iscritti alla scuola, che abbiano superato tutti gli esami speciali, possono sostenere l'esame di diploma, comprendente la discussione di una tesi monografica o di un progetto.   
+La commissione di diploma, nominata dal consiglio direttivo, e' costituita da nove insegnanti della scuola, fra cui almeno tre professori di ruolo.   
+Essa e' presieduta dal preside della facolta' di ingegneria.   
+Art. 530. - A coloro che hanno superato l'esame di cui all'art. 528 verra' conferito il diploma di specializzazione in infrastrutture aeronautiche. In particolare sara' annotata nel diploma la dizione "indirizzo metodologia della progettazione" per coloro che avranno sostenuto i tre esami di cui all'art. 5 oltre gli esami obbligatori ed avranno redatto la tesi di diploma in metodologia della progettazione.   
+A coloro che avranno sostenuto gli esami dei tre corsi di cui all'art. 519 per il perfezionamento in metodologia della progettazione potra' essere rilasciato un attestato.   
+Possono essere rilasciati altresi' certificati dei singoli esami sostenuti o per studi o per ricerche eseguiti nell'ambito della scuola.   
+Art. 531. - Il Ministero della difesa ed altri enti o privati possono porre a disposizione dell'Universita' di Napoli somme o fondi per le spese di insegnamento e di attrezzatura didattica o scientifica somme che saranno amministrate secondo le norme dell'art.  
+517. Ministero od enti potranno altresi' porre a disposizione della scuola materiale didattico o scientifico, anche conservandone la proprieta'. In tal caso saranno istituiti inventari speciali.   
+L'Universita' di Napoli fornira' i locali idonei e provvedera' alla sistemazione e manutenzione del materiale stesso.   
+Art. 532. - Gli ufficiali laureati in ingegneria, comandati dal Ministero della difesa a seguire i corsi tenuti nella scuola sono esentati dal pagamento di tutte le tasse e contributi. Il consiglio direttivo, ove lo ritenga opportuno, potra' esentare da tali pagamenti, totalmente o parzialmente, anche gli altri iscritti particolarmente meritevoli.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 ottobre 1977
+### Dato a Roma, addi' 15 ottobre 1969
 
-LEONE MALFATTI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei Conti, addi' 29 dicembre 1977
+Registrato alla Corte dei conti, addi' 27 novembre 1969
 
-Registro n. 146 Istruzione, foglio n. 324
+Atti del Governo, registro n. 230, foglio n. 67. - CARUSO

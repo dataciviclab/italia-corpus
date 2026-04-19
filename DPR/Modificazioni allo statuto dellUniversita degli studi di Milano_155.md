@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1963 n. 1060
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1985 n. 537
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1963 n. 1060
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1985 n. 537
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -10,885 +10,403 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, numero 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056) e successivi;
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 17. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti i seguenti:
+Articolo unico
+--------------
 
-Archivistica;
-
-Storia delle dottrine politiche.
-
-Art. 18. - Agli insegnamenti complementari del corso di laurea in Filosofia e' aggiunto quello di "Sociologia".
-
-Art. 30. - Agli insegnamenti complementari del corso di laurea in Fisica sono aggiunti i seguenti:
-
-49) Strutture nucleari;
-
-50) Tecnologie nucleari;
-
-51) Fisica sanitaria;
-
-52) Elettronica nucleare;
-
-53) Effetti biologici delle radiazioni.
-
-Art. 36. - Agli insegnamenti complementari del corso di laurea in Scienze naturali e' aggiunto quello di "Paleontologia umana e paletnologia".
-
-Art. 40, relativo alle modalita' di esami del corso di laurea in Scienze biologiche, e' abrogato e sostituito dal seguente:
-
-"L'insegnamento biennale di Botanica comporta un esame alla fine di ogni anno: il primo sulla parte generale, il secondo sulla parte sistematica. Quelli di Zoologia e fisiologia generale comportano un solo esame alla fine del biennio.
-
-Non potranno sostenere gli esami di Botanica I e Chimica, biologica gli studenti che non abbiano superato gli esami di Chimica generale ed inorganica, di Chimica organica, di Fisica e di istituzioni di matematiche.
-
-Non potranno sostenere gli esami di Anatomia comparata e zoologia gli studenti che non abbiano superato gli esami di Anatomia umana, Chimica, generale ed inorganica, Chimica organica, Fisica, Istituzioni di matematiche.
-
-Non potranno sostenere l'esame di Fisiologia generale gli studenti che non abbiano superato gli esami di Anatomia umana e Chimica biologica.
-
-Non potranno sostenere i tre esami complementari del quarto anno gli studenti che non abbiano superato tutti gli esami fondamentali".
-
-Art. 46. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti quelli di:
-
-"Fitoiatria" e "Virologia vegetale".
-
-Art. 49, relativo alle modalita' degli esami di laurea in Scienze agrarie, e' abrogato e sostituito dal seguente:
-
-"L'esame di laurea consiste:
-
-a) nella discussione di una dissertazione scritta, su un tema liberamente scelto dal candidato;
-
-b) nello svolgimento di una tesina su materia diversa da quella della tesi;
-
-c) nella discussione intorno alle osservazioni pratiche annotate dal candidato sull'apposito libretto delle esercitazioni compiute presso l'Azienda di Landriano.
-
-I candidati all'esame di laurea devono depositare in segreteria i titoli della dissertazione e della tesina, firmati dai professori relatori, all'atto in cui essi presentano la domanda di ammissione all'esame di laurea.
-
-La dissertazione di laurea e la tesina devono essere depositate in segreteria, in triplice copia, dattilografate, almeno un mese prima della data stabilita per l'esame di laurea".
-
-Art. 61, relativo ai titoli di ammissione alla Scuola di perfezionamento in filosofia, e' abrogato e sostituito dal seguente: "Alla Scuola possono iscriversi i laureati in Filosofia, nonche' i laureati di altre Facolta' per i quali pero' l'ammissione e subordinata alla approvazione della Direzione della semola.
-
-Dopo l'art. 82 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della
-
-SCUOLA DI PERFEZIONAMENTO IN LINGUE E LETTERATURE
-
-STRANIERE MODERNE
-
-Art. 83. - La Scuola di perfezionamento in lingue e letterature straniere ha lo scopo di guidare i laureati in lingue e nella ricerca scientifica, approfondendo altresi' la loro preparazione didattica.
-
-Art. 81. - La Scuola ha la durata di due anni. Vi si possono iscrivere i laureati in lingue e letterature straniere moderne delle Facolta' di lettere e di lingue, nonche' i laureati in Lettere che si siano laureati con una tesi di letteratura o filologia moderna.
-
-L'ammissione e' subordinata alla approvazione della Direzione della Scuola.
-
-Per poter essere ammessi alla Scuola, in ogni modo i candidati dovranno dar prova di saper parlare e scrivere correntemente e correttamente la lingua in cui intendono specializzarsi.
-
-Art. 85. - Gli iscritti devono seguire le lezioni, partecipare alle esercitazioni e superare gli esami nelle seguenti discipline:
-
-a) la lingua e letteratura moderna in cui intendono specializzarsi (esame biennale) con esercitazioni di Metodologia didattica e di storia della civilta', studiata prescelta;
-
-b) la Filologia corrispondente (esame biennale);
-
-c) un'altra lingua e letteratura moderna il cui insegnamento sia impartito nella Facolta' (corso annuale)
-
-d) un corso di storia della filosofia moderna (annuale)
-
-e) una materia scelta da concordare col direttore dei corsi.
-
-Art. 86. - Alla fine di ciascun anno di corso i candidati devono superare le seguenti prove scritte gradualmente progressive:
-
-a) un dettato;
-
-b) una traduzione dall'italiano nella lingua prescelta;
-
-c) una composizione di argomento letterario.
-
-Art. 87. - Per conseguire il diploma di perfezionamento, gli iscritti dovranno presentare una dissertazione dottorale sulla letteratura o filologia in cui si saranno specializzati, stesa interamente o in parte nella lingua straniera prescelta.
-
-La scelta del tema della tesi sara' fatta di regola allo inizio del corso di studi, d'intesa col professore della materia e col direttore della Scuola, e il candidato sara' tenuto a informare il professore che lo guida, del progresso delle sue ricerche.
-
-La discussione della tesi sara' fatta parte in italiano e parte nella lingua straniera, davanti ad una Commissione di sette membri, composta dal preside della Facolta', dal direttore della Scuola, dai professori delle materie seguite dal candidato e da un altro professore.
-
-Art. 88. - La Scuola e' diretta da un direttore, coadiuvato da un Consiglio composto dai titolari delle discipline che sono oggetto di insegnamento.
-
-Art. 89. - Schema dei corsi:
-
-Francese:
-
-I Anno: Francese; Filologia romanza; materia a scelta;
-
-II Anno: Francese; Filologia romanza; Storia della filosofia; 2ª lingua
-
-Inglese:
-
-I Anno: Inglese; Filologia germanica; materia a scelta;
-
-II Anno: Inglese; Filologia germanica; Storia della filosofia; 2ª lingua.
-
-Russo:
-
-I Anno: Russo; Filologia slava; materia a scelta;
-
-II Anno: Russo; Filologia slava; Storia della filosofia; 2ª lingua;
-
-Spagnolo:
-
-I Anno: Spagnolo; Filologia romanza; materia a scelta;
-
-II Anno: Spagnolo; Filologia romanza; Storia della filosofia; 2ª lingua.
-
-Tedesco:
-
-I Anno: Tedesco; Filologia germanica; materia a scelta;
-
-I Anno: Tedesco; Filologia germanica; Storia della filosofia; 2ª lingua.
-
-Art. 141. - E' abrogato e sostituito dal seguente:
-
-"Alla Facolta' di Scienze matematiche, fisiche e naturali sono annesse le seguenti Scuole di perfezionamento:
-
-1) Scuola di perfezionamento in fisica;
-
-2) Scuola di perfezionamento in matematica;
-
-3) Scuola di perfezionamento in biologia;
-
-4) Scuola di perfezionamento in geologia applicata.
-
-la durata del corso per il conseguimento dei singoli diplomi e' di due anni. Alle Scuole di perfezionamento sono ammessi i laureati in possesso dei titoli indicati per ogni singolo diploma".
-
-Dopo gli articoli da 142 a 149 relativi alla Scuola di perfezionamento in Fisica, e con il conseguente spostamento della successiva numerazione sono inseriti i segmenti nuovi articoli relativi alle Scuole di perfezionamento in Matematica, in Biologia e in Geologia applicata.
-
-SCUOLA DI PERFEZIONAMENTO IN MATEMATICA
-
-Art. 150. - La Scuola di perfezionamento in Matematica conferisce i diplomi di "perfezionamento in Matematica" secondo i seguenti indirizzi:
-
-A) Indirizzo didattico;
-
-B) Indirizzo generale;
-
-C) Indirizzo applicativo.
-
-A) Diploma di perfezionamento in Matematica (indirizzo didattico).
-
-Al corso sono ammessi i laureati in Matematica, in Fisica, in Matematica e fisica, in Ingegneria.
-
-Insegnamenti fondamentali:
-
-1) Didattica matematica
-
-2) Critica dei principi.
-
-Insegnamenti complementari:
-
-1) Analisi
-
-2) Algebra;
-
-3) Geometria;
-
-4) Fisica matematica;
-
-5) Logica matematica;
-
-6) Storia delle matematiche.
-
-I predetti insegnamenti sono costituiti da cicli di conferenze, esercitazioni e discussioni a indirizzo didattico.
-
-Gli esami sono tutti annuali. La validita' di un anno di corso implica la frequenza, di almeno due insegnamenti e il superamento degli esami relativi.
-
-Per l'ammissione all'esame di diploma e' richiesto il superamento degli esami sugli insegnamenti fondamentali e su due degli insegnamenti complementari.
-
-L'esame di diploma consiste in una prova teorico-pratica, relativa al complesso dei corsi seguiti dallo allievo.
-
-B) Diploma di perfezionamento in Matematica (indirizzo generale).
-
-Al corso sono ammessi i laureati in Matematica, in Fisica, in Matematica e fisica, in Ingegneria che dimostrino particolari attitudini alla ricerca scientifica, in base ad un giudizio insindacabile del Comitato direttivo.
-
-Gli insegnamenti riguardano cicli di lezioni di aggiornamento relativi alle seguenti discipline:
-
-1) Analisi;
-
-2) Algebra;
-
-3) Geometria;
-
-4) Fisica matematica;
-
-5) Critica dei principi.
-
-Ogni iscritto dovra' svolgere per ogni singolo anno di corso una ricerca originale su un tema assegnato o concordato con un professore ufficiale del corso. La ammissione al secondo anno di corso implica, il superamento degli esami su almeno due degli insegnamenti sopra indicati.
-
-Il diploma sara' rilasciato dopo il superamento degli esami si quattro cieli di lezioni scelti tra quelli sopra elencati ed in seguito ad un giudizio di idoneita' dato da una Commissione, in base ai risultati delle ricerche eseguite durante il biennio di corso.
-
-C) Diploma di perfezionamento in Matematica (indirizzo applicativo).
-
-Al corso, sono ammessi i laureati in Matematica, in Fisica, in Matematica e fisica, in Ingegneria.
-
-Gli insegnamenti riguardano cicli di lezioni di aggiornamento relativi alle seguenti discipline:
-
-1) Calcoli numerici (corso superiore);
-
-2) Economia matematica;
-
-3) Ricerca operativa;
-
-4) Statistica;
-
-5) Teoria delle macchine calcolatrici;
-
-6) Teoria dei giochi.
-
-Per l'ammissione al secondo anno di corso e' richiesto
-
-Il superamento degli esami in almeno due degli insegnamenti sopra elencati.
-
-Per l'ammissione all'esame di diploma e' richiesto il superamento degli esami su quattro degli insegnamenti sopra elencati.
-
-L'esame di diploma consiste in una prova teorico pratica relativa al complesso dei corsi seguiti dallo allievo.
-
-SCUOLA DI PERFEZIONAMENTO IN BIOLOGIA
-
-Art. 151. - La Scuola di perfezionamento in Biologia conferisce il diploma di "perfezionamento in Biologia".
-
-a) ricerche biologiche;
-
-b) genetica applicata;
-
-c) biologia applicata.
-
-Nel diploma di perfezionamento conferito dalla Scuola e' fatta menzione dell'indirizzo seguito.
-
-Titolo preferenziale per l'ammissione al corso e' la laurea in Scienze biologiche; possono tuttavia essere iscritti anche laureati in Scienze naturali, Medicina e Chirurgia, Medicina veterinaria, Agraria, Farmacia. Le iscrizioni sono limitate alla disponibilita' dei posti e gli aspiranti verranno scelti in base ai titoli presentati e al risultato di un colloquio da una Commissione costituita da tre insegnanti del corso.
-
-A) Indirizzo di ricerche biologiche
-
-Gli insegnamenti sono:
-
-1) Chimica e fisica applicata alla biologia (biennale)
-
-2) Metodologia biologica (biennale);
-
-3) Problemi attuali di biologia (biennale).
-
-Gli allievi che non conoscono la lingua inglese saranno tenuti a frequentare, nel primo anno, un corso di tale lingua.
-
-I corsi 1), 2), 3), hanno indirizzo prevalentemente di seminario e di discussione. Gli allievi sono tenuti a svolgere seminari su temi assegnati.
-
-Al termine di ciascun anno gli allievi dovranno sostenere un esame di profitto sugli insegnamenti predetti. L'allievo respinto dovra' ripresentarsi l'anno successivo e, se si tratta dell'esame del secondo anno, dovra' iscriversi alla Scuola per un altro anno.
-
-Gli allievi sono tenuti alla frequenza di uno dei laboratori biologici della Facolta' di scienze. Entro il mese di marzo del primo anno sara' assegnato un tema di ricerca sperimentale. I risultati di questa ricerca saranno presentati in una tesi scritta, all'esame finale per il conseguimento del diploma.
-
-B) Indirizzo in genetica applicata.
-
-Gli insegnamenti sono:
-
-1) Genetica fondamentale;
-
-2) Citogenetica;
-
-3) Genetiche speciali;
-
-4) Produzioni di mutazioni sperimentali;
-
-5) Statistica e pianificazione degli esperimenti;
-
-6) Teoria della selezione.
-
-Saranno svolti inoltre i seminari di Genetica biochimica e di argomenti specialistici. Gli allievi che non conoscono la lingua inglese saranno tenuti a frequentare nel primo anno, un corso di tale lingua.
-
-A meta' del primo anno verra' assegnato un tema di ricerca sperimentale applicativa, che dovra' essere compiuta entro l'anno successivo.
-
-L'ammissione al secondo anno e' condizionata dal superamento di due esami. L'esame di diploma consista nella discussione dei risultati conseguiti nella tesi sperimentale.
-
-C) Indirizzo in Biologia applicata.
-
-Gli insegnamenti sono:
-
-Primo anno:
-
-1) Elementi di statistica applicata;
-
-2) Elementi di biologia degli animali di laboratorio;
-
-3) Tecniche biochimiche I (biennale)
-
-4) Tecniche microbiologiche;
-
-5) Tecniche microscopiche;
-
-Secondo anno:
-
-6) Tecniche biochimiche II;
-
-7) Titolazioni biologiche;
-
-8) Titolazioni microbiologiche;
-
-9) Test di funzionalita'.
-
-Per l'ammissione al secondo anno e' obbligatorio il superamento di almeno due esami degli insegnamenti del primo anno.
-
-L'ammissione all'esame di diploma e' subordinata al superamento degli esami di tutti i corsi sopra elencati.
-
-L'esame di diploma consiste in una prova pratica seguita da una discussione e da un esame di cultura generale.
-
-SCUOLA DI PERFEZIONAMENTO IN GEOLOGIA APPLICATA
-
-Art. 152. - La Scuola di perfezionamento in Geologia applicata conferisce il "Diploma in Geologia applicata" secondo i seguenti indirizzi:
-
-a) Geologia degli idrocarburi;
-
-b) Idrogeologia;
-
-c) Giacimenti minerari.
-
-Alla Scuola sono ammessi i laureati in Scienze geologiche, in Scienze naturali, in Ingegneria mineraria, in Ingegneria chimica, in Chimica industriale. Le iscrizioni sono limitate alle disponibilita' dei posti e gli aspiranti verranno scelti, in base ai titoli presentati (carriera scolastica, titoli scientifici e pratici, conoscenza delle lingue ecc.) e al risultato di un colloquio da una Commissione composta da tre insegnanti della Scuola.
-
-Le materie di insegnamento per i tre indirizzi sono:
-
-A) Indirizzo in "Geologia degli idrocarburi".
-
-Primo anno:
-
-1) Chimica degli idrocarburi naturali;
-
-2) Geofisica applicata alle ricerche degli idrocarburi naturali;
-
-3) Sedimentologia;
-
-4) Petrografia delle rocce sedimentarie;
-
-5) Paleontologia stratigrafica;
-
-6) Micropaleontologia;
-
-7) Stratigrafia;
-
-8) Geologia regionale;
-
-9) Fotogeologia;
-
-10) Metodi e apparecchi di perforazione;
-
-Secondo anno:
-
-11) Geochimica degli idrocarburi;
-
-12) Microfacies;
-
-13) Giacimentologia degli idrocarburi;
-
-14) Tecnica geologica di cantiere nel campo degli idrocarburi;
-
-15) Organizzazione delle ricerche di idrocarburi.
-
-B) Indirizzo in "Idrogeologia".
-
-Primo anno:
-
-1) Meteorizzazione e climatologia;
-
-2) Nozioni di chimica delle acque;
-
-3) Nozioni di idraulica;
-
-4) Idrologia;
-
-5) Geologia regionale;
-
-6) Idrogeologia generale;
-
-7) Nozioni di igiene delle acque;
-
-Secondo anno:
-
-8) Tecnica delle perforazioni;
-
-9) Geofisica applicata alle ricerche idrologiche;
-
-10) Geochimica delle acque;
-
-11) Nozioni di costruzioni idrauliche;
-
-12) Idrologia applicata.
-
-C) indirizzo in "giacimenti minerari".
-
-Primo anno:
-
-1) Analisi chimica di minerali e rocce;
-
-2) Tecniche di microscopia in luce polarizzate trasmessa;
-
-3) Microscopia in luce riflessa e tecniche micrografiche:
-
-4) Mineralogia descrittiva;
-
-5) Geologia regionale;
-
-6) Giacimentologia generale;
-
-Secondo anno:
-
-7) Arte mineraria;
-
-8) Topografia di miniera e stratimetria;
-
-9) Concentrazione meccanica e flottazione dei minerali;
-
-10) Prospezioni geochimiche e minerarie;
-
-11) Prospezioni geofisiche applicate alla ricerca di minerali metallici e non metallici;
-
-12) Giacimentologia regionale.
-
-Norme comuni ai tre indirizzi.
-
-Per l'ammissione al secondo anno e' obbligatorio il superamento di almeno due esami degli insegnamenti previsti per il primo anno del corrispondente indirizzo.
-
-Per l'ammissione all'esame di diploma lo studente dovra' superare gli esami di almeno sei insegnamenti scelti fra quelli previsti, in base ad un piano approvate dal Comitato direttivo.
-
-L'esame di diploma consiste nella discussione di una tesi scritta su un terna approvato in precedenza da un Comitato direttivo e nella dissertazione orale su un argomento prescelto dal candidato su tre proposti dalla Commissione d'esame 24 ore prima.
-
-L'esame di diploma puo' essere preceduto da una prova pratica.
-
-Gli articoli 153, 154 e 155 relativi alla Scuola di perfezionamento in coltivazioni irrigue e allevamenti zootecnici sono abrogati e sostituiti dai seguenti:
-
-SCUOLA DI SPECIALIZZAZIONE IN COLTIVAZIONI IRRIGUE
-
-Art. 153. - Alla Facolta' di agraria e' annessa la Scuola di specializzazione in coltivazioni irrigue.
-
-La durata del corso e' di due anni.
-
-Alla Scuola possono iscriversi i laureati in scienze agrarie.
-
-Le materie d'insegnamento sono:
-
-Primo anno:
-
-1) Complementi di Idraulica agraria;
-
-2) Legislazione delle acque;
-
-3) Acque da irrigazione con esercitazioni di analisi chimica;
-
-4) Coltivazioni irrigue I;
-
-5) Attrezzature da irrigazione (motori, pompe e tubazioni);
-
-6) Irrigazione a pioggia;
-
-7) Patologia delle colture da acque non idonee;
-
-Secondo anno:
-
-8) Progettazioni irrigue;
-
-9) Costruzioni idraulico-agrarie;
-
-10) Coltivazioni irrigue II;
-
-11) Consorzi di irrigazione;
-
-12) Applicazioni economico-estimative.
-
-Gli allievi, al termine di ogni anno, saranno sottoposti agli esami di profitto sulle materie di insegnamento.
-
-L'esame di diploma consiste nella discussione di una dissertazione scritta su argomento preventivamente prescelto e concordato.
-
-SCUOLA DI SPECIALIZZAZIONE IN ZOOTECNICA
-
-Art. 154. - Alla Facolta' di agraria e' annessa una Scuola di specializzazione in Zootecnica.
-
-La durata del corso e' di due anni.
-
-Alla Scuola possono iscriversi i laureati in Scienze agrarie, in Medicina veterinaria o, a giudizio della Facolta', provvisti di lauree similari.
-
-Gli allievi hanno l'obbligo della frequenza alle lezioni ed alle esercitazioni, nonche' di partecipare alle visite ed ai sopralluoghi tecnici in Italia ed in altri Paesi.
-
-Le materie di insegnamento sono:
-
-Primo anno:
-
-1) Etnologia ed Etnografia I;
-
-2) Miglioramento delle popolazioni degli animali domestici I;
-
-3) Dottrina dell'alimentazione degli animali domestici;
-
-4) Legislazione zootecnica;
-
-5) Economia zootecnica;
-
-6) Industria mangimistica;
-
-Secondo anno:
-
-7) Etnologia ed etnografia II;
-
-8) Miglioramento delle popolazioni degli animali domestici II;
-
-9) Tecnica di allevamento degli animali domestici;
-
-10) Razionamento degli animali domestici;
-
-11) Igiene zootecnica e profilassi delle malattie;
-
-12) Tecnica commerciale e indagini di mercato;
-
-13) Organizzazione degli allevatori.
-
-Gli allievi, al termine di ogni anno, saranno sottoposti all'esame di profitto sulle materie di insegnamento. Alla fine del secondo anno, dovranno inoltre superare favorevolmente le prove finali che consistono in un esame scritto, in un esame pratico ed in un esame orale.
-
-L'esame di diploma consiste nella discussione di una dissertazione scritta su argomento preventivamente prescelto e concordato.
-
-Art. 155. - Il direttore della Scuola di specializzazione in coltivazioni irrigue puo' essere il titolare della cattedra di Agronomia generale e coltivazioni erbacee oppure quello di Idraulica agraria; il direttore della Scuola di specializzazione in Zootecnica e' il titolare della cattedra di Zootecnica generale. Ciascun direttore e' assistito da una Commissione di due professori ordinario delegati dal Consiglio della Facolta' di Scienze agrarie. Il direttore della Scuola stabilisce l'ordine e gli orari delle lezioni e delle esercitazioni e decide su tutte le altre modalita' didattiche atte ad assicurare la migliore preparazione degli allievi.
-
-L'ammissione a ciascuna delle Scuole e' limitata ad un massimo di trenta allievi per ciascun anno di corso;
-
-Il Consiglio della Facolta' di Scienze agrarie fissa i criteri per l'accettazione delle domande di ammissione.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 30 giugno 1963
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 23 agosto 1963 Atti del Governo, registro n. 173, foglio n. 104. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, numero 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
+Dopo l'art. 502, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione delle seguenti scuole di specializzazione: miglioramento genetico degli animali domestici e delle produzioni zootecniche;   
+igiene e tecnologia del latte e derivati;   
+clinica ostetrico-ginecologica e riproduzione animale;   
+scienza e medicina degli animali da laboratorio;   
+produzione e ispezione sanitaria degli organismi acquatici di interesse alimentare;   
+patologia e tecnologia avi-cunicola;   
+dietologia comparata animale.   
   
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 17. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti i seguenti:  
-Archivistica;  
-Storia delle dottrine politiche.  
-Art. 18. - Agli insegnamenti complementari del corso di laurea in Filosofia e' aggiunto quello di "Sociologia".  
-Art. 30. - Agli insegnamenti complementari del corso di laurea in Fisica sono aggiunti i seguenti:  
-49) Strutture nucleari;  
-50) Tecnologie nucleari;  
-51) Fisica sanitaria;  
-52) Elettronica nucleare;  
-53) Effetti biologici delle radiazioni.  
-Art. 36. - Agli insegnamenti complementari del corso di laurea in Scienze naturali e' aggiunto quello di "Paleontologia umana e paletnologia".  
-Art. 40, relativo alle modalita' di esami del corso di laurea in Scienze biologiche, e' abrogato e sostituito dal seguente:  
-"L'insegnamento biennale di Botanica comporta un esame alla fine di ogni anno: il primo sulla parte generale, il secondo sulla parte sistematica. Quelli di Zoologia e fisiologia generale comportano un solo esame alla fine del biennio.  
-Non potranno sostenere gli esami di Botanica I e Chimica, biologica gli studenti che non abbiano superato gli esami di Chimica generale ed inorganica, di Chimica organica, di Fisica e di istituzioni di matematiche.  
-Non potranno sostenere gli esami di Anatomia comparata e zoologia gli studenti che non abbiano superato gli esami di Anatomia umana, Chimica, generale ed inorganica, Chimica organica, Fisica, Istituzioni di matematiche.  
-Non potranno sostenere l'esame di Fisiologia generale gli studenti che non abbiano superato gli esami di Anatomia umana e Chimica biologica.  
-Non potranno sostenere i tre esami complementari del quarto anno gli studenti che non abbiano superato tutti gli esami fondamentali".  
-Art. 46. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti quelli di:  
-"Fitoiatria" e "Virologia vegetale".  
-Art. 49, relativo alle modalita' degli esami di laurea in Scienze agrarie, e' abrogato e sostituito dal seguente:  
-"L'esame di laurea consiste:  
-a) nella discussione di una dissertazione scritta, su un tema liberamente scelto dal candidato;  
-b) nello svolgimento di una tesina su materia diversa da quella della tesi;  
-c) nella discussione intorno alle osservazioni pratiche annotate dal candidato sull'apposito libretto delle esercitazioni compiute presso l'Azienda di Landriano.  
-I candidati all'esame di laurea devono depositare in segreteria i titoli della dissertazione e della tesina, firmati dai professori relatori, all'atto in cui essi presentano la domanda di ammissione all'esame di laurea.  
-La dissertazione di laurea e la tesina devono essere depositate in segreteria, in triplice copia, dattilografate, almeno un mese prima della data stabilita per l'esame di laurea".  
-Art. 61, relativo ai titoli di ammissione alla Scuola di perfezionamento in filosofia, e' abrogato e sostituito dal seguente: "Alla Scuola possono iscriversi i laureati in Filosofia, nonche' i laureati di altre Facolta' per i quali pero' l'ammissione e subordinata alla approvazione della Direzione della semola.  
-Dopo l'art. 82 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della  
+Scuola di specializzazione in miglioramento genetico degli animali domestici e delle produzioni zootecniche   
+Art. 503. - E' istituita presso l'Universita' di Milano la scuola di specializzazione in miglioramento genetico degli animali domestici e delle produzioni zootecniche che conferisce il diploma di specialista in miglioramento genetico degli animali domestici e delle produzioni zootecniche.   
+Art. 504. - La direzione della scuola ha sede presso la facolta' di medicina veterinaria.   
+Art. 505. - La scuola ha lo scopo di preparare un professionista, nel settore del miglioramento genetico degli animali domestici e delle produzioni zootecniche.   
+Art. 506. - La durata del corso e' di due anni e non e' suscettibile di abbreviazioni.   
+Art. 507. - Il numero degli iscritti e' di dieci per ogni anno e complessivamente di venti per l'intero corso di studi.   
+Art. 508. - Alla scuola sono ammessi i laureati in medicina veterinaria, scienze della produzione animale e scienze agrarie.  
+Possono partecipare all'esame di ammissione coloro che siano in possesso del diploma di laurea richiesto e, qualora prescritto, anche del diploma di abilitazione.   
+Art. 509. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:   
+a) la tesi nella disciplina attinente alla specializzazione;   
+b) il voto di laurea;   
+c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;   
+d) le pubblicazioni nelle predette materie.   
+Il punteggio dei predetti titoli e' quello stabilito dal [decreto ministeriale 16 settembre 1982, pubblicato nella Gazzetta Ufficiale n. 275 del 6 ottobre 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-10-06&numeroGazzetta=275).   
+Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.   
+Art. 510. - Le materie di insegnamento che afferiscono alla facolta' di medicina veterinaria sono le seguenti:   
   
-SCUOLA DI PERFEZIONAMENTO IN LINGUE E LETTERATURE  
-STRANIERE MODERNE  
+1° Anno:   
+biologia applicata alle produzioni zootecniche;   
+statistica e principi di informatica applicati alla zootecnica; genetica generale e mutagenesi;   
+genetica qualitativa comparata.   
+2° Anno:   
+genetica di popolazione e demografia zootecnica;   
+genetica quantitativa e selezione;   
+miglioramento genetico delle produzioni zootecniche.   
   
-Art. 83. - La Scuola di perfezionamento in lingue e letterature straniere ha lo scopo di guidare i laureati in lingue e nella ricerca scientifica, approfondendo altresi' la loro preparazione didattica.  
-Art. 81. - La Scuola ha la durata di due anni. Vi si possono iscrivere i laureati in lingue e letterature straniere moderne delle Facolta' di lettere e di lingue, nonche' i laureati in Lettere che si siano laureati con una tesi di letteratura o filologia moderna.  
-L'ammissione e' subordinata alla approvazione della Direzione della Scuola.  
-Per poter essere ammessi alla Scuola, in ogni modo i candidati dovranno dar prova di saper parlare e scrivere correntemente e correttamente la lingua in cui intendono specializzarsi.  
-Art. 85. - Gli iscritti devono seguire le lezioni, partecipare alle esercitazioni e superare gli esami nelle seguenti discipline:  
-a) la lingua e letteratura moderna in cui intendono specializzarsi (esame biennale) con esercitazioni di Metodologia didattica e di storia della civilta', studiata prescelta;  
-b) la Filologia corrispondente (esame biennale);  
-c) un'altra lingua e letteratura moderna il cui insegnamento sia impartito nella Facolta' (corso annuale)  
-d) un corso di storia della filosofia moderna (annuale)  
-e) una materia scelta da concordare col direttore dei corsi.  
-Art. 86. - Alla fine di ciascun anno di corso i candidati devono superare le seguenti prove scritte gradualmente progressive:  
-a) un dettato;  
-b) una traduzione dall'italiano nella lingua prescelta;  
-c) una composizione di argomento letterario.  
-Art. 87. - Per conseguire il diploma di perfezionamento, gli iscritti dovranno presentare una dissertazione dottorale sulla letteratura o filologia in cui si saranno specializzati, stesa interamente o in parte nella lingua straniera prescelta.  
-La scelta del tema della tesi sara' fatta di regola allo inizio del corso di studi, d'intesa col professore della materia e col direttore della Scuola, e il candidato sara' tenuto a informare il professore che lo guida, del progresso delle sue ricerche.  
-La discussione della tesi sara' fatta parte in italiano e parte nella lingua straniera, davanti ad una Commissione di sette membri, composta dal preside della Facolta', dal direttore della Scuola, dai professori delle materie seguite dal candidato e da un altro professore.  
-Art. 88. - La Scuola e' diretta da un direttore, coadiuvato da un Consiglio composto dai titolari delle discipline che sono oggetto di insegnamento.  
-Art. 89. - Schema dei corsi:  
-Francese:  
-I Anno: Francese; Filologia romanza; materia a scelta;  
-II Anno: Francese; Filologia romanza; Storia della filosofia; 2ª lingua  
-Inglese:  
-I Anno: Inglese; Filologia germanica; materia a scelta;  
-II Anno: Inglese; Filologia germanica; Storia della filosofia; 2ª lingua.  
-Russo:  
-I Anno: Russo; Filologia slava; materia a scelta;  
-II Anno: Russo; Filologia slava; Storia della filosofia; 2ª lingua;  
-Spagnolo:  
-I Anno: Spagnolo; Filologia romanza; materia a scelta;  
-II Anno: Spagnolo; Filologia romanza; Storia della filosofia; 2ª lingua.  
-Tedesco:  
-I Anno: Tedesco; Filologia germanica; materia a scelta;  
-I Anno: Tedesco; Filologia germanica; Storia della filosofia; 2ª lingua.  
-Art. 141. - E' abrogato e sostituito dal seguente:  
-"Alla Facolta' di Scienze matematiche, fisiche e naturali sono annesse le seguenti Scuole di perfezionamento:  
-1) Scuola di perfezionamento in fisica;  
-2) Scuola di perfezionamento in matematica;  
-3) Scuola di perfezionamento in biologia;  
-4) Scuola di perfezionamento in geologia applicata.  
-la durata del corso per il conseguimento dei singoli diplomi e' di due anni. Alle Scuole di perfezionamento sono ammessi i laureati in possesso dei titoli indicati per ogni singolo diploma".  
-Dopo gli articoli da 142 a 149 relativi alla Scuola di perfezionamento in Fisica, e con il conseguente spostamento della successiva numerazione sono inseriti i segmenti nuovi articoli relativi alle Scuole di perfezionamento in Matematica, in Biologia e in Geologia applicata.  
+Art. 511. - La frequenza dei corsi e' obbligatoria. Comunque, in caso di assenza giustificata, lo specializzando, per poter sostenere gli esami annuali e finali, deve avere frequentato almeno i quattro quinti delle lezioni teoriche e tecnico-pratiche.   
+Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.   
+Art. 512. - La scuola si articola in lezioni, conferenze, esercitazioni teorico-pratiche e seminari.   
+Le attivita' pratiche (analisi di laboratorio per tests diagnostici, esercitazioni sulle tecniche di allevamento e miglioramento genetico nelle diverse specie e in diversi indirizzi produttivi) si svolgeranno presso i laboratori e le strutture della facolta' e presso i centri di produzione, di volta in volta indicati dal consiglio della scuola in base alle disponibilita' e all'esigenza di completare la preparazione degli allievi in relazione ai fini della scuola stessa.   
+Ai fini della frequenza e delle attivita' pratiche, va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.   
+Art. 513. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.   
+A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.   
+Art. 514. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.   
+Art. 515. - Per la scuola di specializzazione e' costituito un consiglio presieduto da un direttore.   
+Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).   
+Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.   
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.   
   
-SCUOLA DI PERFEZIONAMENTO IN MATEMATICA  
+Scuola di specializzazione in igiene e tecnologia del latte e derivati   
+Art. 516. - E' istituita presso l'Universita' di Milano la scuola di specializzazione in igiene e tecnologia del latte e derivati che conferisce il diploma di specialista in igiene e tecnologia del latte e derivati.   
+Art. 517. - La direzione della scuola ha sede presso la facolta' di medicina veterinaria.   
+Art. 518. - La scuola ha lo scopo di formare un professionista nel settore della produzione igienica, trasformazione e commercializzazione del latte e derivati.   
+Art. 519. - La durata del corso e' di due anni e non e' suscettibile di abbreviazione.   
+Art. 520. - Il numero degli iscritti e' di venti per ogni anno e complessivamente di quaranta per l'intero corso di studi.   
+Art. 521. - Alla scuola sono ammessi i laureati in medicina veterinaria, scienze della produzione animale, scienze agrarie e scienze delle preparazioni alimentari. Possono partecipare all'esame di ammissione coloro che siano in possesso del diploma di laurea richiesto e, qualora prescritto, anche del diploma di abilitazione all'esercizio professionale.   
+Art. 522. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:   
+a) la tesi nella disciplina attinente alla specializzazione;   
+b) il voto di laurea;   
+c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;   
+d) le pubblicazioni nelle predette materie.   
+Il punteggio dei predetti titoli e' quello stabilito dal [decreto ministeriale 16 settembre 1982, pubblicato nella Gazzetta Ufficiale n. 275 del 6 ottobre 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-10-06&numeroGazzetta=275).   
+Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.   
+Art. 523. - Le materie di insegnamento che afferiscono alla facolta' di medicina veterinaria sono le seguenti:   
   
-Art. 150. - La Scuola di perfezionamento in Matematica conferisce i diplomi di "perfezionamento in Matematica" secondo i seguenti indirizzi:  
-A) Indirizzo didattico;  
-B) Indirizzo generale;  
-C) Indirizzo applicativo.  
-A) Diploma di perfezionamento in Matematica (indirizzo didattico).  
-Al corso sono ammessi i laureati in Matematica, in Fisica, in Matematica e fisica, in Ingegneria.  
-Insegnamenti fondamentali:  
-1) Didattica matematica  
-2) Critica dei principi.  
-Insegnamenti complementari:  
-1) Analisi  
-2) Algebra;  
-3) Geometria;  
-4) Fisica matematica;  
-5) Logica matematica;  
-6) Storia delle matematiche.  
-I predetti insegnamenti sono costituiti da cicli di conferenze, esercitazioni e discussioni a indirizzo didattico.  
-Gli esami sono tutti annuali. La validita' di un anno di corso implica la frequenza, di almeno due insegnamenti e il superamento degli esami relativi.  
-Per l'ammissione all'esame di diploma e' richiesto il superamento degli esami sugli insegnamenti fondamentali e su due degli insegnamenti complementari.  
-L'esame di diploma consiste in una prova teorico-pratica, relativa al complesso dei corsi seguiti dallo allievo.  
-B) Diploma di perfezionamento in Matematica (indirizzo generale).  
-Al corso sono ammessi i laureati in Matematica, in Fisica, in Matematica e fisica, in Ingegneria che dimostrino particolari attitudini alla ricerca scientifica, in base ad un giudizio insindacabile del Comitato direttivo.  
-Gli insegnamenti riguardano cicli di lezioni di aggiornamento relativi alle seguenti discipline:  
-1) Analisi;  
-2) Algebra;  
-3) Geometria;  
-4) Fisica matematica;  
-5) Critica dei principi.  
-Ogni iscritto dovra' svolgere per ogni singolo anno di corso una ricerca originale su un tema assegnato o concordato con un professore ufficiale del corso. La ammissione al secondo anno di corso implica, il superamento degli esami su almeno due degli insegnamenti sopra indicati.  
-Il diploma sara' rilasciato dopo il superamento degli esami si quattro cieli di lezioni scelti tra quelli sopra elencati ed in seguito ad un giudizio di idoneita' dato da una Commissione, in base ai risultati delle ricerche eseguite durante il biennio di corso.  
-C) Diploma di perfezionamento in Matematica (indirizzo applicativo).  
-Al corso, sono ammessi i laureati in Matematica, in Fisica, in Matematica e fisica, in Ingegneria.  
-Gli insegnamenti riguardano cicli di lezioni di aggiornamento relativi alle seguenti discipline:  
-1) Calcoli numerici (corso superiore);  
-2) Economia matematica;  
-3) Ricerca operativa;  
-4) Statistica;  
-5) Teoria delle macchine calcolatrici;  
-6) Teoria dei giochi.  
-Per l'ammissione al secondo anno di corso e' richiesto  
-Il superamento degli esami in almeno due degli insegnamenti sopra elencati.  
-Per l'ammissione all'esame di diploma e' richiesto il superamento degli esami su quattro degli insegnamenti sopra elencati.  
-L'esame di diploma consiste in una prova teorico pratica relativa al complesso dei corsi seguiti dallo allievo.  
+1° Anno:   
+anatomia e fisiologia della mammella e della lattazione;   
+fattori genetici e zootecnici connessi alla produzione del latte; basi nutrizionali e tecniche di alimentazione degli animali allevati per la produzione del latte;   
+ingegneria zootecnica applicata agli animali lattiferi;   
+igiene veterinaria (controllo dello stato sanitario degli animali destinati alla produzione del latte);   
+ezio-patogenesi, diagnosi e controllo delle mastiti;   
+tecniche e tecnologia della mungitura;   
+produzione igienica del latte alla stalla (raccolta, refrigerazione e trasporto).   
+2° Anno:   
+composizione e caratteristiche chimico-bromatologiche del latte e derivati;   
+microbiologia lattiero-casearia;   
+tecnologia del latte alimentare;   
+tecnologia delle trasformazioni lattiero-casearie;   
+legislazione nazionale ed internazionale del latte e derivati;   
+organizzazione e funzionamento delle imprese destinate alla produzione, trasformazione e commercializzazione del latte;   
+principi di economia politica e statistica applicati alla lavorazione e commercializzazione del latte e derivati;   
+organizzazione e funzionamento del controllo del latte e derivati.   
   
-SCUOLA DI PERFEZIONAMENTO IN BIOLOGIA  
+Art. 524. - La frequenza dei corsi e' obbligatoria. Comunque, in caso di assenza giustificata, lo specializzando per poter sostenere gli esami annuali e finali, deve aver frequentato almeno i quattro quinti delle lezioni teoriche e tecnico-pratiche.   
+Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione di esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.   
+Art. 525. - La scuola si articola in lezioni, conferenze, esercitazioni tecnico-pratiche e seminari. Le attivita' pratiche (analisi di laboratorio chimiche e microbiologiche, esercitazioni di impiantistica del settore lattiero caseario) si svolgeranno presso i laboratori della facolta' e presso i centri e strutture, di volta in volta indicati dal consiglio della scuola in base alle disponibilita' e alla esigenza di completare la preparazione degli allievi in relazione ai fini della scuola stessa. Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.   
+Art. 526. - Superato l'esame teorico-pratico dello ultimo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.   
+A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.   
+Art. 527. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.   
+Art. 528. - Per la scuola di specializzazione e' costituito un consiglio presieduto da un direttore.   
+Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).   
+Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti. La direzione della scuola e' affidata a professore ordinario o straordinario che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.   
   
-Art. 151. - La Scuola di perfezionamento in Biologia conferisce il diploma di "perfezionamento in Biologia".  
-a) ricerche biologiche;  
-b) genetica applicata;  
-c) biologia applicata.  
-Nel diploma di perfezionamento conferito dalla Scuola e' fatta menzione dell'indirizzo seguito.  
-Titolo preferenziale per l'ammissione al corso e' la laurea in Scienze biologiche; possono tuttavia essere iscritti anche laureati in Scienze naturali, Medicina e Chirurgia, Medicina veterinaria, Agraria, Farmacia. Le iscrizioni sono limitate alla disponibilita' dei posti e gli aspiranti verranno scelti in base ai titoli presentati e al risultato di un colloquio da una Commissione costituita da tre insegnanti del corso.  
-A) Indirizzo di ricerche biologiche  
-Gli insegnamenti sono:  
-1) Chimica e fisica applicata alla biologia (biennale)  
-2) Metodologia biologica (biennale);  
-3) Problemi attuali di biologia (biennale).  
-Gli allievi che non conoscono la lingua inglese saranno tenuti a frequentare, nel primo anno, un corso di tale lingua.  
-I corsi 1), 2), 3), hanno indirizzo prevalentemente di seminario e di discussione. Gli allievi sono tenuti a svolgere seminari su temi assegnati.  
-Al termine di ciascun anno gli allievi dovranno sostenere un esame di profitto sugli insegnamenti predetti. L'allievo respinto dovra' ripresentarsi l'anno successivo e, se si tratta dell'esame del secondo anno, dovra' iscriversi alla Scuola per un altro anno.  
-Gli allievi sono tenuti alla frequenza di uno dei laboratori biologici della Facolta' di scienze. Entro il mese di marzo del primo anno sara' assegnato un tema di ricerca sperimentale. I risultati di questa ricerca saranno presentati in una tesi scritta, all'esame finale per il conseguimento del diploma.  
-B) Indirizzo in genetica applicata.  
-Gli insegnamenti sono:  
-1) Genetica fondamentale;  
-2) Citogenetica;  
-3) Genetiche speciali;  
-4) Produzioni di mutazioni sperimentali;  
-5) Statistica e pianificazione degli esperimenti;  
-6) Teoria della selezione.  
-Saranno svolti inoltre i seminari di Genetica biochimica e di argomenti specialistici. Gli allievi che non conoscono la lingua inglese saranno tenuti a frequentare nel primo anno, un corso di tale lingua.  
-A meta' del primo anno verra' assegnato un tema di ricerca sperimentale applicativa, che dovra' essere compiuta entro l'anno successivo.  
-L'ammissione al secondo anno e' condizionata dal superamento di due esami. L'esame di diploma consista nella discussione dei risultati conseguiti nella tesi sperimentale.  
-C) Indirizzo in Biologia applicata.  
-Gli insegnamenti sono:  
-Primo anno:  
-1) Elementi di statistica applicata;  
-2) Elementi di biologia degli animali di laboratorio;  
-3) Tecniche biochimiche I (biennale)  
-4) Tecniche microbiologiche;  
-5) Tecniche microscopiche;  
-Secondo anno:  
-6) Tecniche biochimiche II;  
-7) Titolazioni biologiche;  
-8) Titolazioni microbiologiche;  
-9) Test di funzionalita'.  
-Per l'ammissione al secondo anno e' obbligatorio il superamento di almeno due esami degli insegnamenti del primo anno.  
-L'ammissione all'esame di diploma e' subordinata al superamento degli esami di tutti i corsi sopra elencati.  
-L'esame di diploma consiste in una prova pratica seguita da una discussione e da un esame di cultura generale.  
+Scuola di specializzazione in clinica ostetrico-ginecologica e riproduzione animate   
+Art. 529. - E' istituita presso l'Universita' di Milano la scuola di specializzazione in clinica ostetrico-ginecologica e riproduzione animale, che conferisce il diploma di specialista in clinica ostetrico-ginecologica e riproduzione animale.   
+Art. 530. - La direzione della scuola ha sede presso la facolta' di medicina veterinaria.   
+Art. 531. - La scuola ha lo scopo di formare un professionista nel settore della riproduzione animale per il miglioramento o recupero della fertilita'.   
+Art. 532. - La durata del corso e' di due anni e non e' suscettibile di abbreviazioni.   
+Art. 533. - Il numero degli iscritti e' di dieci per ogni anno e complessivamente di venti per l'intero corso di studi.   
+Art. 534. - Possono partecipare all'esame di ammissione i laureati in medicina veterinaria in possesso del diploma di abilitazione all'esercizio professionale.   
+Art. 535. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:   
+a) la tesi nella disciplina attinente alla specializzazione;   
+b) il voto di laurea;   
+c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;   
+d) le pubblicazioni nelle predette materie.   
+Il punteggio dei predetti titoli e' quello stabilito dal [decreto ministeriale 16 settembre 1982, pubblicato nella Gazzetta Ufficiale n. 275 del 6 ottobre 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-10-06&numeroGazzetta=275).   
+Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.   
+Art. 536. - Le materie di insegnamento che afferiscono alla facolta' di medicina veterinaria sono le seguenti:   
   
-SCUOLA DI PERFEZIONAMENTO IN GEOLOGIA APPLICATA  
+1° Anno:   
+anatomia dell'apparato genitale maschile e femminile;   
+embriologia;   
+fisiologia dell'apparato genitale maschile e femminile;   
+genetica della riproduzione e parametri riproduttivi;   
+andrologia con diagnostica e terapia;   
+ginecologia con diagnostica e terapia.   
+2° Anno:   
+anatomia e istologia patologica dell'apparato genitale maschile, e femminile;   
+endocrinologia della riproduzione;   
+biotecnologia della riproduzione;   
+fisiopatologia della gravidanza e del parto;   
+clinica ostetrico-ginecologica e corso di operazioni;   
+diagnostica di laboratorio e strumentale nella riproduzione animale.   
   
-Art. 152. - La Scuola di perfezionamento in Geologia applicata conferisce il "Diploma in Geologia applicata" secondo i seguenti indirizzi:  
-a) Geologia degli idrocarburi;  
-b) Idrogeologia;  
-c) Giacimenti minerari.  
-Alla Scuola sono ammessi i laureati in Scienze geologiche, in Scienze naturali, in Ingegneria mineraria, in Ingegneria chimica, in Chimica industriale. Le iscrizioni sono limitate alle disponibilita' dei posti e gli aspiranti verranno scelti, in base ai titoli presentati (carriera scolastica, titoli scientifici e pratici, conoscenza delle lingue ecc.) e al risultato di un colloquio da una Commissione composta da tre insegnanti della Scuola.  
-Le materie di insegnamento per i tre indirizzi sono:  
-A) Indirizzo in "Geologia degli idrocarburi".  
-Primo anno:  
-1) Chimica degli idrocarburi naturali;  
-2) Geofisica applicata alle ricerche degli idrocarburi naturali;  
-3) Sedimentologia;  
-4) Petrografia delle rocce sedimentarie;  
-5) Paleontologia stratigrafica;  
-6) Micropaleontologia;  
-7) Stratigrafia;  
-8) Geologia regionale;  
-9) Fotogeologia;  
-10) Metodi e apparecchi di perforazione;  
-Secondo anno:  
-11) Geochimica degli idrocarburi;  
-12) Microfacies;  
-13) Giacimentologia degli idrocarburi;  
-14) Tecnica geologica di cantiere nel campo degli idrocarburi;  
-15) Organizzazione delle ricerche di idrocarburi.  
-B) Indirizzo in "Idrogeologia".  
-Primo anno:  
-1) Meteorizzazione e climatologia;  
-2) Nozioni di chimica delle acque;  
-3) Nozioni di idraulica;  
-4) Idrologia;  
-5) Geologia regionale;  
-6) Idrogeologia generale;  
-7) Nozioni di igiene delle acque;  
-Secondo anno:  
-8) Tecnica delle perforazioni;  
-9) Geofisica applicata alle ricerche idrologiche;  
-10) Geochimica delle acque;  
-11) Nozioni di costruzioni idrauliche;  
-12) Idrologia applicata.  
-C) indirizzo in "giacimenti minerari".  
-Primo anno:  
-1) Analisi chimica di minerali e rocce;  
-2) Tecniche di microscopia in luce polarizzate trasmessa;  
-3) Microscopia in luce riflessa e tecniche micrografiche:  
-4) Mineralogia descrittiva;  
-5) Geologia regionale;  
-6) Giacimentologia generale;  
-Secondo anno:  
-7) Arte mineraria;  
-8) Topografia di miniera e stratimetria;  
-9) Concentrazione meccanica e flottazione dei minerali;  
-10) Prospezioni geochimiche e minerarie;  
-11) Prospezioni geofisiche applicate alla ricerca di minerali metallici e non metallici;  
-12) Giacimentologia regionale.  
-Norme comuni ai tre indirizzi.  
-Per l'ammissione al secondo anno e' obbligatorio il superamento di almeno due esami degli insegnamenti previsti per il primo anno del corrispondente indirizzo.  
-Per l'ammissione all'esame di diploma lo studente dovra' superare gli esami di almeno sei insegnamenti scelti fra quelli previsti, in base ad un piano approvate dal Comitato direttivo.  
-L'esame di diploma consiste nella discussione di una tesi scritta su un terna approvato in precedenza da un Comitato direttivo e nella dissertazione orale su un argomento prescelto dal candidato su tre proposti dalla Commissione d'esame 24 ore prima.  
-L'esame di diploma puo' essere preceduto da una prova pratica.  
-Gli articoli 153, 154 e 155 relativi alla Scuola di perfezionamento in coltivazioni irrigue e allevamenti zootecnici sono abrogati e sostituiti dai seguenti:  
+Art. 537. - La frequenza dei corsi e' obbligatoria. Comunque, in caso di assenza giustificata, lo specializzando, per poter sostenere gli esami annuali e finali, deve aver frequentato almeno i quattro quinti delle lezioni teoriche e tecnico-pratiche.   
+Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione di esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso.   
+Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.   
+Art. 538. - La scuola si articola in lezioni, conferenze, esercitazioni tecnico-pratiche e seminari.   
+Le attivita' pratiche (esame clinico di animali affetti o sospetti di malattie organiche, infettive od infestive, corredate da opportune indagini collaterali di laboratorio; provvedimenti terapeutici, medici e/o chirurgici), si svolgeranno presso gli ambulatori e le cliniche della facolta' e presso allevamenti o centri di produzione, di volta in volta indicati dal consiglio della scuola in base alle disponibilita' delle aziende e alla esigenza di completare la preparazione degli allievi in relazione ai fini della scuola stessa.   
+Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.   
+Art. 539. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.   
+A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.   
+Art. 540. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.   
+Art. 541. - Per la scuola di specializzazione e' costituito un consiglio presieduto da un direttore.   
+Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).   
+Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.   
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.   
   
-SCUOLA DI SPECIALIZZAZIONE IN COLTIVAZIONI IRRIGUE  
+Scuola di specializzazione in scienza e medicina degli animali da laboratorio   
+Art. 542. - E' istituita presso l'Universita' di Milano la scuola di specializzazione in scienza e medicina degli animali da laboratorio che conferisce i diplomi di specialista in scienza degli animali da laboratorio e in scienza e medicina degli animali da laboratorio.   
+Art. 543. - La direzione della scuola ha sede presso la facolta' di medicina veterinaria.   
+Art. 544. - La scuola ha lo scopo di preparare esperti in scienze degli animali da laboratorio e in scienze e medicina degli animali da laboratorio.   
+Art. 545. - La durata del corso e' di due anni per il conseguimento del diploma in scienze degli animali da laboratorio e di tre anni per il conseguimento del diploma in scienze e medicina degli animali da laboratorio e non e' suscettibile di abbreviazioni.   
+Art. 546. - Il numero degli iscritti e' di otto per ogni anno e complessivamente di sedici per l'intero corso di studi per il conseguimento del diploma in scienze degli animali da laboratorio e di otto per ogni anno e complessivamente di ventiquattro per l'intero corso di studi per il conseguimento del diploma in scienze e medicina degli animali da laboratorio.   
+Art. 547. - Al conseguimento del diploma in scienze degli animali da laboratorio sono ammessi i laureati in medicina veterinaria, scienze della produzione animale, scienze biologiche, scienze naturali, farmacia, chimica e tecnologia farmaceutiche e medicina e chirurgia. Possono partecipare all'esame di ammissione coloro che siano in possesso del diploma di laurea richiesto e, qualora prescritto, anche del diploma di abilitazione all'esercizio professionale; al conseguimento del diploma in scienze e medicina degli animali da laboratorio sono ammessi i laureati in medicina veterinaria abilitati all'esercizio professionale.   
+Art. 548. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:   
+a) la tesi nella disciplina attinente alla specializzazione;   
+b) il voto di laurea;   
+c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;   
+d) le pubblicazioni nelle predette materie.   
+Il punteggio dei predetti titoli e' quello stabilito dal [decreto ministeriale 16 settembre 1982, pubblicato nella Gazzetta Ufficiale n. 275 del 6 ottobre 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-10-06&numeroGazzetta=275).   
+Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.   
+Art. 549. - Le materie di insegnamento che afferiscono alla facolta' di medicina veterinaria sono le seguenti:   
   
-Art. 153. - Alla Facolta' di agraria e' annessa la Scuola di specializzazione in coltivazioni irrigue.  
-La durata del corso e' di due anni.  
-Alla Scuola possono iscriversi i laureati in scienze agrarie.  
-Le materie d'insegnamento sono:  
-Primo anno:  
-1) Complementi di Idraulica agraria;  
-2) Legislazione delle acque;  
-3) Acque da irrigazione con esercitazioni di analisi chimica;  
-4) Coltivazioni irrigue I;  
-5) Attrezzature da irrigazione (motori, pompe e tubazioni);  
-6) Irrigazione a pioggia;  
-7) Patologia delle colture da acque non idonee;  
-Secondo anno:  
-8) Progettazioni irrigue;  
-9) Costruzioni idraulico-agrarie;  
-10) Coltivazioni irrigue II;  
-11) Consorzi di irrigazione;  
-12) Applicazioni economico-estimative.  
-Gli allievi, al termine di ogni anno, saranno sottoposti agli esami di profitto sulle materie di insegnamento.  
-L'esame di diploma consiste nella discussione di una dissertazione scritta su argomento preventivamente prescelto e concordato.  
+1° Anno:   
+nazioni sulla sperimentazione scientifica su animali (storia, norme etiche, legislazione vigente, metodi alternativi o sostitutivi, organismi nazionali e internazionali);   
+anatomia degli animali da laboratorio (topo, ratto, hamster, cavia, coniglio, pollo, cane, gatto, suino, scimmia);   
+fisiologia degli animali da laboratorio (topo, ratto, hamster, cavia, coniglio, pollo, cane, gatto, suino, scimmia);   
+tecniche di allevamento e stabulazione;   
+genetica e selezione;   
+igiene di allevamento e profilassi;   
+nutrizione, alimentazione e tecnica mangimistica;   
+biostatistica.   
+2° Anno:   
+anatomia e fisiologia di: uccelli, rettili, anfibi, pesci;   
+patologia comparata, con elementi di anatomia patologica;   
+microbiologia speciale;   
+parassitologia;   
+malattie da errori dietetici, da carenze e del ricambio;   
+principi di anestesia ed eutanasia;   
+principi e tecniche sperimentali in biomedicina.   
+3° Anno:   
+malformazioni congenite e patologia neonatale;   
+anatomia patologica e istopatologica degli animali da laboratorio;   
+malattie da allevamento intensivo;   
+malattie infettive;   
+malattie parassitarie;   
+metodologie diagnostiche;   
+terapia individuale e di massa;   
+chirurgia sperimentale;   
+legislazione sanitaria.   
   
-SCUOLA DI SPECIALIZZAZIONE IN ZOOTECNICA  
+A completamento sono previsti:   
+visite ad allevamenti e stabulari "modello" (1° anno);   
+tirocinio pratico finalizzato presso istituti o centri qualificati (2° anno);   
+sopralluoghi e stages presso allevamenti e stabulari (3° anno).   
+Art. 550. - La frequenza dei corsi e' obbligatoria. Comunque, in caso di assenza giustificata, lo specializzando, per poter sostenere gli esami annuali e finali, deve aver frequentato almeno i quattro quinti delle lezioni teoriche e tecnico-pratiche.   
+Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.   
+Art. 551. - La scuola si articola in lezioni, conferenza, esercitazioni tecnico-pratiche e seminari.   
+Le attivita' pratiche (esercitazioni di tecnologia e igiene di allevamento a diverso orientamento di utilizzo per il primo biennio ed esercitazioni di diagnostica clinica, di necroscopia e di analisi di laboratorio per il terzo anno) si svolgeranno presso i laboratori e le strutture della facolta' e presso i centri di produzione, di volta in volta indicati dal consiglio della scuola in base alle disponibilita' e alla esigenza di completare la preparazione degli allievi in relazione ai fini della scuola stessa.   
+Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.   
+Art. 552. - Superato l'esame teorico-pratico dell'ultimo anno ciascun corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.   
+A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.   
+Art. 553. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.   
+Art. 554. - Per la scuola di specializzazione e' costituito un consiglio presieduto da un direttore.   
+Il Consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'arti 99 del [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382).   
+Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.   
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.   
   
-Art. 154. - Alla Facolta' di agraria e' annessa una Scuola di specializzazione in Zootecnica.  
-La durata del corso e' di due anni.  
-Alla Scuola possono iscriversi i laureati in Scienze agrarie, in Medicina veterinaria o, a giudizio della Facolta', provvisti di lauree similari.  
-Gli allievi hanno l'obbligo della frequenza alle lezioni ed alle esercitazioni, nonche' di partecipare alle visite ed ai sopralluoghi tecnici in Italia ed in altri Paesi.  
-Le materie di insegnamento sono:  
-Primo anno:  
-1) Etnologia ed Etnografia I;  
-2) Miglioramento delle popolazioni degli animali domestici I;  
-3) Dottrina dell'alimentazione degli animali domestici;  
-4) Legislazione zootecnica;  
-5) Economia zootecnica;  
-6) Industria mangimistica;  
-Secondo anno:  
-7) Etnologia ed etnografia II;  
-8) Miglioramento delle popolazioni degli animali domestici II;  
-9) Tecnica di allevamento degli animali domestici;  
-10) Razionamento degli animali domestici;  
-11) Igiene zootecnica e profilassi delle malattie;  
-12) Tecnica commerciale e indagini di mercato;  
-13) Organizzazione degli allevatori.  
-Gli allievi, al termine di ogni anno, saranno sottoposti all'esame di profitto sulle materie di insegnamento. Alla fine del secondo anno, dovranno inoltre superare favorevolmente le prove finali che consistono in un esame scritto, in un esame pratico ed in un esame orale.  
-L'esame di diploma consiste nella discussione di una dissertazione scritta su argomento preventivamente prescelto e concordato.  
-Art. 155. - Il direttore della Scuola di specializzazione in coltivazioni irrigue puo' essere il titolare della cattedra di Agronomia generale e coltivazioni erbacee oppure quello di Idraulica agraria; il direttore della Scuola di specializzazione in Zootecnica e' il titolare della cattedra di Zootecnica generale. Ciascun direttore e' assistito da una Commissione di due professori ordinario delegati dal Consiglio della Facolta' di Scienze agrarie. Il direttore della Scuola stabilisce l'ordine e gli orari delle lezioni e delle esercitazioni e decide su tutte le altre modalita' didattiche atte ad assicurare la migliore preparazione degli allievi.  
-L'ammissione a ciascuna delle Scuole e' limitata ad un massimo di trenta allievi per ciascun anno di corso;  
-Il Consiglio della Facolta' di Scienze agrarie fissa i criteri per l'accettazione delle domande di ammissione.  
+Scuola di specializzazione in produzione e ispezione sanitaria degli organismi acquatici di interesse alimentare   
+Art. 555. - E' istituita presso l'Universita' di Milano la scuola di specializzazione in produzione ed ispezione sanitaria degli organismi acquatici di interesse alimentare che conferisce i diplomi di specialista in produzione degli organismi acquatici di interesse alimentare e in produzione e ispezione sanitaria degli organismi acquatici di interesse alimentare.   
+Art. 556. - La direzione della scuola ha sede presso la facolta' di medicina veterinaria.   
+Art. 557. - La scuola ha lo scopo di formare un professionista nel settore della produzione degli organismi acquatici di interesse alimentare e in quello della produzione e ispezione sanitaria degli organismi acquatici di interesse alimentare.   
+Art. 558. - La durata del corso e' di due anni per il conseguimento del diploma in produzione degli organismi acquatici di interesse alimentare e di tre anni per il conseguimento del diploma in produzione ed ispezione sanitaria degli organismi acquatici di interesse alimentare e non e' suscettibile di abbreviazioni.   
+Art. 559. - Il numero degli iscritti e' di dieci per ogni anno e complessivamente di venti per l'intero corso di studi per il conseguimento del diploma di produzione degli organismi acquatici di interesse alimentare e di dieci iscritti per ogni anno e complessivamente trenta per l'intero corso di studi per il conseguimento del diploma in produzione ed ispezione sanitaria degli organismi acquatici di interesse alimentare.   
+Art. 560. - Al conseguimento del diploma di produzione degli organismi acquatici di interesse alimentare sono ammessi i laureati in medicina veterinaria, scienze della produzione animale, scienze naturali, scienze biologiche e scienze agrarie.   
+Possono partecipare all'esame di ammissione coloro che siano in possesso del diploma di laurea richiesto e, qualora prescritto, anche del diploma di abilitazione all'esercizio professionale. Al conseguimento del diploma di produzione ed ispezione sanitaria degli organismi acquatici di interesse alimentare sono ammessi i laureati in medicina veterinaria abilitati all'esercizio professionale.   
+Art. 561. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:   
+a) la tesi nella disciplina attinente alla specializzazione;   
+b) il voto di laurea;   
+c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;   
+d) le pubblicazioni nelle predette materie.   
+Il punteggio dei predetti titoli e' quello stabilito dal [decreto ministeriale 16 settembre 1982, pubblicato nella Gazzetta Ufficiale n. 275 del 6 ottobre 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-10-06&numeroGazzetta=275).   
+Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.   
+Art. 562. - Le materie di insegnamento che afferiscono alla facolta' di medicina veterinaria sono le seguenti:   
+  
+1° Anno:   
+chimica e fisica degli ambienti acquatici;   
+botanica degli ambienti acquatici;   
+zoologia degli ambienti acquatici;   
+microbiologia degli ambienti acquatici;   
+ecologia degli ambienti acquatici;   
+identificazione degli organismi acquatici commestibili;   
+disturbo antropico degli ambienti acquatici.   
+2° Anno:   
+tecnologia e igiene della pesca;   
+tecnologia e igiene dell'acquacoltura;   
+patologia degli organismi acquatici;   
+approvvigionamento, mercati e conservazione dei prodotti ittici freschi;   
+legislazione delle acque di pesca e delle attivita' di acquacoltura.   
+3° Anno:   
+composizione chimica del pesce, dei molluschi e dei crostacei;   
+indici di freschezza;   
+microbiologia e alterazione dei prodotti ittici freschi;   
+tecnologia e igiene dei prodotti ittici conservati;   
+tecnologia e igiene dei sottoprodotti ittici;   
+tecniche di analisi dei prodotti e dei sottoprodotti ittici;   
+tossinfezioni e intossicazioni da prodotti ittici;   
+approvvigionamenti, mercati, industrie e consumi dei prodotti ittici conservati e dei sottoprodotti ittici;   
+disciplina igienico-sanitaria e commerciale dei prodotti ittici freschi e conservati, nonche' dei sottoprodotti ittici. Principali frodi del commercio ittico;   
+organizzazione dei servizi sanitari e annonari concernente i prodotti ittici freschi e conservati, nonche' i sottoprodotti ittici.   
+  
+Art. 563. - La frequenza del corso e' obbligatoria.   
+Comunque, in caso di assenza giustificata, lo specializzando, per poter sostenere gli esami annuali e finali, deve avere frequentato almeno i quattro quinti delle lezioni teoriche e tecnico-pratiche.   
+Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.   
+Art. 564. - La scuola si articola in lezioni, conferenze, esercitazioni tecnico-pratiche e seminari.   
+Le attivita' pratiche (esercitazioni di tecnologia e igiene di allevamento a diverso orientamento produttivo per il primo biennio ed esercitazioni di diagnostica clinica, di necroscopia e di analisi di laboratorio per il terzo anno) si svolgeranno presso i laboratori e le strutture della facolta' e presso i centri di produzione, di volta in volta indicati dal consiglio della scuola in base alle disponibilita' e alla esigenza di completare la preparazione degli allievi in relazione ai fini della scuola stessa.   
+Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.   
+Art. 565. - Superato l'esame teorico-pratico dell'ultimo anno ciascun corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.   
+A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.   
+Art. 566. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.   
+Art. 567. - Per la scuola di specializzazione e' costituito un consiglio presieduto da un direttore.   
+Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99). Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.   
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.   
+  
+Scuola di specializzazione in tecnologia e patologia avi-cunicola Art. 568. - E' istituita presso l'Universita' di Milano la scuola di specializzazione in tecnologia e patologia avi-cunicola che conferisce i diplomi di specialista in tecnologia avi-cunicola e in tecnologia e patologia avicunicola.   
+Art. 569. - La direzione della scuola ha sede presso la facolta' di medicina veterinaria.   
+Art. 570. - La scuola ha lo scopo di preparare un esperto in tecnologia avi-cunicola e un esperto in tecnologia e patologia avi-cunicola.   
+Art. 571. - La durata del corso e' di due anni per il conseguimento del diploma in tecnologia avi-cunicola e di tre anni per il conseguimento del diploma in tecnologia e patologia avi-cunicola e non e' suscettibile di abbreviazione.   
+Art. 572. - Il numero degli iscritti e' di dieci per ogni anno e complessivamente di venti per l'intero corso di studi per il conseguimento del diploma in tecnologia avi-cunicola e di venti per ogni anno e complessivamente di sessanta per l'intero corso di studi per il conseguimento del diploma in tecnologia e patologia avi-cunicola.   
+Art. 573. - Al conseguimento del diploma in tecnologia avi-cunicola sono ammessi i laureati in medicina veterinaria, scienze della produzione animale e scienze agrarie. Possono partecipare all'esame di ammissione coloro che siano in possesso del diploma di laurea richiesto e, qualora prescritto, anche del diploma di abilitazione all'esercizio professionale; al conseguimento del diploma in tecnologia e patologia avi-cunicola sono ammessi i laureati in medicina veterinaria abilitati allo esercizio professionale.   
+Art. 574. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:   
+a) la tesi nella disciplina attinente alla specializzazione;   
+b) il voto di laurea;   
+c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;   
+d) le pubblicazioni nelle predette materie.   
+Il punteggio dei predetti titoli e' quello stabilito dal [decreto ministeriale 16 settembre 1982, pubblicato nella Gazzetta Ufficiale n. 275 del 6 ottobre 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-10-06&numeroGazzetta=275).   
+Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.   
+Art. 575. - Le materie di insegnamento che afferiscono alla facolta' di medicina veterinaria sono le seguenti:   
+  
+1° Anno:   
+anatomia;   
+fisiologia;   
+etologia;   
+microbiologia ed immunologia;   
+parassitologia;   
+statistica applicata alla biologia e programmazione sperimentale; valutazione morfo-funzionale;   
+edilizia, impianti ed attrezzature di allevamento;   
+organizzazione produttiva e principi di amministrazione aziendale;   
+igiene di allevamento.   
+2° Anno:   
+alimentazione del consiglio, volatili e selvaggina;   
+tecnologie di allevamento (per specie e per produzioni);   
+patologia generale ed anatomia patologica;   
+fisiopatologia della riproduzione e dell'incubazione;   
+malattie da errori dietetici, da carenza e del ricambio;   
+commercializzazione dei prodotti avicoli, cunicoli e della selvaggina;   
+tecnologia delle carni avi-cunicole; uova ed altri prodotti;   
+legislazione zootecnica e sanitaria;   
+miglioramento genetico e pianificazione selettiva.   
+3° Anno:   
+malattie infettive;   
+malattie parassitarie;   
+malattie da intossicazione;   
+terapia individuale e di massa;   
+profilassi igienica e vaccinale, polizia veterinaria;   
+metodologie diagnostiche.   
+  
+Art. 576. - La frequenza dei corsi e' obbligatoria. Comunque, in caso di assenza giustificata, lo specializzando, per poter sostenere gli esami annuali e finali, deve aver frequentato almeno i quattro quinti delle lezioni teoriche e tecnico-pratiche.   
+Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione darne, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che noi superano detto esame potranno ripetere l'anno di corso una sola volta.   
+Art. 577. - La scuola si articola in lezioni, conferenze, esercitazioni tecnico-pratiche e seminari.   
+Le attivita' pratiche (esercitazioni di tecnologia e igiene di allevamento a diverso orientamento produttivo per il primo biennio e esercitazioni di diagnostica clinica, di necroscopia e di analisi di laboratorio per il terzo anno) si svolgeranno presso i laboratori e le strutture della facolta' e presso i centri di produzione, di volta in volta indicati dal consiglio della scuola in base alle disponibilita' e alla esigenza di completare la preparazione degli allievi in relazione ai fini della scuola stessa.   
+Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.   
+Art. 578. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.   
+A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.   
+Art. 579. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.   
+Art. 580. - Per la scuola di specializzazione, anche se rilascia due diplomi, e' costituito un unico consiglio presieduto da un direttore. Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).   
+Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.   
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.   
+  
+Scuola di specializzazione in dietologia comparata animale   
+Art. 581. - E' istituita presso l'Universita' di Milano la scuola di specializzazione in dietologia comparata animale che conferisce il diploma di specialista in dietologia comparata animale.   
+Art. 582. - La direzione della scuola ha sede presso la facolta' di medicina veterinaria.   
+Art. 583. - La scuola ha lo scopo di preparare un professionista esperto nel settore della nutrizione ed alimentazione animale.   
+Art. 584. - La durata del corso e' di due anni e non e' suscettibile di abbreviazioni.   
+Art. 585. - Il numero degli iscritti e' di quindici per ogni anno e complessivamente di trenta per l'intero corso di studi.   
+Art. 586. - Alla scuola sono ammessi i laureati in medicina veterinaria, scienze della produzione animale e scienze agrarie.   
+Possono partecipare all'esame di ammissione coloro che siano in possesso del diploma di laurea richiesto e qualora prescritto, anche del diploma di abilitazione.   
+Art. 587. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:   
+a) la tesi nella disciplina attinente alla specializzazione;   
+b) voto di laurea;   
+c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;   
+d) le pubblicazioni nelle predette materie.   
+Il punteggio dei predetti titoli e' quello stabilito dal [decreto ministeriale 16 settembre 1982, pubblicato nella Gazzetta Ufficiale n. 275 del 6 ottobre 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-10-06&numeroGazzetta=275).   
+Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.   
+Art. 588. - Le materie di insegnamento che afferiscono alla facolta' di medicina veterinaria sono le seguenti:   
+  
+1° Anno:   
+anatomia veterinaria comparata dell'apparato digerente;   
+fisiologia della nutrizione;   
+biochimica della nutrizione;   
+coltivazione e conservazione dei foraggi;   
+analisi chimico-bromatologica e valutazione degli alimenti;   
+caratteristiche nutrizionali degli alimenti e loro utilizzazione produttiva;   
+aspetti economici e gestionali dell'alimentazione.   
+2° Anno:   
+esigenze nutritive e tecnica di razionamento dei poligastrici;   
+esigenze nutritive e tecnica del razionamento dei monogastrici e degli animali acquatici di interesse alimentare;   
+tecnica ed industria mangimistica. Prodotti complementari;   
+alimentazione, produzione zootecnica e miglioramento animale;   
+legislazione e normativa sulla produzione, impiego, commercializzazione degli alimenti ad uso zootecnico;   
+fisiopatologia della nutrizione;   
+tossicologia alimentare.   
+  
+Art. 589. - La frequenza dei corsi e' obbligatoria. Comunque, in caso di assenza giustificata, lo specializzando, per poter sostenere gli esami annuali e finali, deve aver frequentato almeno i quattro quinti delle lezioni teoriche e tecnico-pratiche.   
+Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.   
+Art. 590. - La scuola si articola in lezioni, conferenze, esercitazioni tecnico-pratiche e seminari. Le attivita' pratiche (analisi bromatologiche degli alimenti, formulazioni mangimistiche, esercitazioni pratiche di alimentazione in allevamenti e centri mangimistici) si svolgeranno presso i laboratori e le strutture della facolta' e presso allevamenti e centri di produzione, di volta in volta indicati dal consiglio della scuola in base alle disponibilita' e alla esigenza di completare la preparazione degli allievi in relazione ai fini della scuola stessa.   
+Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.   
+Art. 591. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso. A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.   
+Art. 592. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.   
+Art. 593. - Per la scuola di specializzazione e' costituito un consiglio presieduto da un direttore.   
+Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99). Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.   
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni nella scuola stessa.   
+In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 giugno 1963
+### Dato a Roma, addi' 18 marzo 1985
 
-SEGNI GUI
+PERTINI
 
-Visto, il Guardasigilli: BOSCO
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 23 agosto 1963
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Atti del Governo, registro n. 173, foglio n. 104. - VILLA
+Registrato alla Corte dei conti, addi' 30 settembre 1985
+
+Registro n. 66 Istruzione, foglio n. 141

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1963 n. 1248
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 maggio 1967 n. 511
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1963 n. 1248
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 maggio 1967 n. 511
+=============================================================
 
 Autorizzazione alla "Fondazione Pro Juventute Don Carlo Gnocchi", con sede in Roma, ad accettare un legato.
 -----------------------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-1248. Decreto del Presidente della Repubblica 5 agosto 1963, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare un legato, costituito dal ricavato dalla vendita del patrimonio della testatrice in Italia di un appartamento sito in Roma, via Tor de' Schiavi n. 154, disposto dalla signora Amelia Granelli (indicata anche come Amelia Rubbi, o Amelia Rubbi in Granelli, o Amelia Granelli nata Rubbi), vedova, deceduta in Bulawavo (Sud Rodesia) il 13 agosto 1956, con testamento del 21 luglio 1956 conservato ed accettato nell'archivio dell'Alta Corte della Rodesia del Sud.  
+511. Decreto del Presidente della Repubblica 27 maggio 1967, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare il legato disposto in suo favore dal defunto sig. Guiot Umberto Michele Pietro - con testamento olografo del 15 ottobre 1964, pubblicato con verbale a rogito dott.  
+Gianfranco Franchini, notaio residente in Milano, in data 17 settembre 1965, n. 26085 di repertorio, n. 3604 di raccolta - consistente in azioni di diverse societa' per un ammontare indicato dalla Fondazione in L. 8.000.000 circa.  
   
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 27 settembre 1963  
-Atti del Governo, registro n. 174, foglio n. 138. - VILLA
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 27 giugno 1967  
+Atti del Governo, registro n. 211, foglio n. 165. - GRECO

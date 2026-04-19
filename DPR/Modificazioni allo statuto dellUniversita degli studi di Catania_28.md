@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1973 n. 959
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 gennaio 1963 n. 416
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1973 n. 959
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 gennaio 1963 n. 416
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
@@ -10,11 +10,11 @@ Modificazioni allo statuto dell'Universita' degli studi di Catania.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527) e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico dello, leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1532](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1532);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
@@ -30,123 +30,81 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Catania approvato e modificato con i decreti sopraindicati, ulteriormente modificato come appresso:
 
-Art. 81 - all'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti quelli di:
+Art. 26. - Agli insegnamenti complementari del corso di laurea in lettere, sono aggiunti quelli di "Storia della critica d'arte", "Storia del cristianesimo" e "Storia della filosofia antica".
 
-14) Biologia generale;
+Art. 33. - Agli insegnamenti complementari del corso di laurea in filosofia sono aggiunti quelli di "Psicologia sperimentale", "Storia del cristianesimo" "Filosofia della religione" e "Psicologia dell'eta' evolutiva".
 
-15) Microchimica;
+Art. 40. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne e' aggiunto quello di: "Storia della critica d'arte"
 
-16) Analisi chimica farmaceutica strumentale.
+Art. 41. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di: Idrologia medica;
 
-Nello stesso articolo l'insegnamento complementare di "Zoologia generale" muta denominazione in quella di "Zoologia e parassitologia".
+Dopo l'art. 187 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in urologia con il conseguente spostamento della numerazione degli articoli successivi.
 
-Nello stesso articolo dopo l'elenco degli insegnamenti complementari e' soppresso il seguente comma: L'insegnamento di "Zoologia generale" e' comune con quello di "Biologia e zoologia generale" per la laurea in medicina e chirurgia.
+Scuola di specializzazione in Urologia
 
-Art. 82, relativo alla propedeuticita' degli esami, e' modificato nel senso che e' aggiunto il seguente ultimo comma.
+Art. 188. - Il corso degli studi della Scuola di specializzazione in Urologia ha la durata di anni tre.
 
-L'esame di "Chimica generale ed inorganica" e' propedeutico nei confronti degli esami di "esercitazioni di chimica farmaceutica e tossicologica" 1°, 2° e 3° corso.
+La Scuola non puo' accogliere piu' di cinque iscritti per ciascun anno di corso.
 
-Dopo l'art. 188, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla istituzione della scuola di specializzazione in "fisica".
+Art. 189. - Gli insegnamenti impartiti nella Scuola sono:
 
-Scuola di specializzazione in fisica
+1° anno:
 
-Art. 189. - E' istituita presso gli istituti di fisica e di astronomia della facolta' di scienze matematiche, fisiche e naturali una scuola di specializzazione in fisica. Scopo istituzionale della scuola e' di rendere possibile a laureati in fisica di migliorare e qualificare la loro preparazione per il lavoro di ricerca scientifica, attraverso un'esperienza di studio e di ricerca su problemi di speciale rilievo nel campo della fisica.
+Anatomia ed Embriologia dell'apparato urinario
 
-La scuola rilascia un diploma di specializzazione in fisica.
+Fisiologia speciale dell'apparato urinario;
 
-Art. 190. - La scuola si articola in cinque sezioni, come appresso indicato:
+Semeiotica speciale dell'apparato urinario;
 
-1) Fisica nucleare (problemi di fisica dei nuclei e delle reazioni nucleari di interesse sia fondamentale che applicativo);
+Radiologia dell'apparato urinario;
 
-2) Astrofisica (problemi di fisica dello spazio, cosmologia e astrofisica osservazionale e teorica con riferimento alle ricerche svolte presso l'osservatorio di Catania);
+Endoscopia (biennale).
 
-3) Fisica teorica (problemi di teoria dei fenomeni fisici sia di interesse critico-metodologico, sia orientati al progetto o all'interpretazione di esperimenti, con riferimento alle ricerche svolte presso gli Istituti di fisica e di astronomia di Catania e gli altri laboratori con cui essi collaborano);
+2° anno:
 
-4) Struttura della materia (problemi di fisica degli stati aggregati attinenti sia alle loro proprieta' macroscopiche sia alla loro struttura di sistemi atomici o molecolari e di interesse sia fondamentale che applicativo);
+Patologia chirurgica dell'apparato urinario (biennale);
 
-5) Metodologia e didattica della fisica (problemi connessi con l'evoluzione della scienza e delle concezioni della sua didattica, con riferimento sia alla analisi della dinamica delle idee e delle strutture concettuali della fisica sia alle prospettive d'applicazione didattica di attrezzature di laboratorio e di altri ausili tecnologici avanzati).
+Clinica chirurgica dell'apparato urinario (biennale);
 
-Nel diploma di specializzazione verra' indicata la sezione presso la quale sono stati condotti gli studi e le ricerche cui il diploma si riferisce.
+Endoscopia (biennale);
 
-Art. 191. - Alla scuola sono ammessi, in seguito a concorso per titoli, i laureati in fisica ovvero coloro che siano forniti di altri titoli universitari italiani o stranieri atti a garantire la preparazione necessaria per seguire i corsi e le altre attivita' della scuola, a giudizio insindacabile del consiglio di direzione della scuola stessa, sentito il collegio dei docenti della sezione per cui l'ammissione e' richiesta.
+Ginecologia speciale;
 
-Il numero massimo di allievi che puo' accedere alle singole sezioni della scuola e' fissato annualmente dal consiglio di direzione, sentito il parere dei singoli docenti, e in relazione alle possibilita' d'impegno dei laboratori e degli istituti presso i quali gli allievi devono svolgere l'attivita' di studio e di ricerca.
+Terapia e corso di operazioni (biennale).
 
-Il diploma di specializzazione viene rilasciato dopo almeno due anni dalla data di iscrizione alla scuola e alle condizioni in appresso specificate.
+3° anno:
 
-Art. 192. - Per conseguire il diploma di specializzazione in una delle sezioni della scuola si richiede:
+Patologia chirurgica dell'apparato urinario (biennale);
 
-a) la frequenza ai corsi di lezioni e il superamento dei relativi esami;
+Clinica chirurgica dell'apparato urinario (biennale);
 
-b) la partecipazione ai lavori dei gruppi di studio coordinati con i corsi stessi;
-
-c) il "lavoro di diploma".
-
-I corsi di lezioni saranno di due tipi: fondamentali e monografici; il collegamento critico tra di essi verra' realizzato attraverso l'organizzazione di gruppi di studio cui parteciperanno insieme allievi e docenti della scuola. I corsi del 1° anno avranno, di regola, la funzione di introdurre le metodologie e le altre conoscenze specificamente rilevanti per ciascuna sezione della scuola, mentre quelli del 2° anno serviranno per ampliare gli orizzonti culturali degli allievi orientandone l'attenzione sui problemi piu' avanzati della ricerca. In linea di massima si possono prevedere per ogni sezione della scuola 2 corsi fondamentali e 2 o 3 corsi monografici nel 2° anno. La durata dei corsi fondamentali e' di regola annuale (50 lezioni) mentre quella dei corsi monografici potra' variare da un bimestre (8-10 lezioni) ad un semestre (25 lezioni).
-
-Degli esami attinenti ai corsi fara' parte integrante la discussione e la valutazione del contributo dell'allievo al lavoro dei gruppi di studio cui egli ha partecipato, a misura che tale contributo implica e manifesta una preparazione nell'ordine di conoscenze e di metodi di elaborazione cui i corsi stessi si riferiscono.
-
-Della preparazione del lavoro di diploma faranno parte integrante almeno due seminari pubblici, il primo sul progetto del lavoro di regola entro il 1° anno di corso ed il secondo sul suo stato di avanzamento, di regola non meno di un semestre dopo il primo.
-
-L'esame di diploma consistera' in un seminario dello allievo sui risultati del lavoro di diploma seguito a discussione con i membri della commissione d'esame.
-
-Art. 193. - Il consiglio di direzione della scuola e' costituito dai direttori dei quattro istituti di fisica e dell'istituto di astronomia della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Catania. Il direttore della scuola e' nominato dal rettore tra i membri del consiglio di direzione, su proposta del consiglio stesso.
-
-Il consiglio di direzione propone annualmente quali sezioni della scuola vengano attivate e quali corsi debbano essere impartiti, e predispone di conseguenza il bando del concorso di ammissione alla scuola e quello per l'attribuzione degli incarichi d'insegnamento.
-
-Gli incarichi d'insegnamento vengono attribuiti dal consiglio di facolta' sulla base delle domande documentate presentate dagli aspiranti, sentito il consiglio di direzione della scuola.
-
-Il collegio dei docenti e' costituito dagli incarichi dello insegnamento di un corso di una sezione della scuola ed e' presieduto dal direttore della sezione, eletto dal collegio stesso tra i suoi componenti, che lo convoca per le esigenze di funzionamento della sezione.
-
-I deliberati del collegio dei docenti di ogni singola sezione sono resi esecutivi dal direttore della scuola su parere conforme del consiglio di direzione.
-
-Il coordinamento dei corsi tra loro e con l'attivita' di ricerca, il calendario delle lezioni ed il programma dei gruppi di studio e dei seminari vengono concordati in riunioni congiunte del collegio dei docenti con gli allievi, per ogni singola sezione.
-
-A completamento dei corsi le singole sezioni organizzeranno annualmente un programma di seminari tenuti da specialisti di riconosciuta competenza, italiani e stranieri.
-
-Art. 194. - Le commissioni d'esame per i singoli corsi sono nominate dal direttore della scuola e sono costituite da tre membri scelti fra gli insegnanti della scuola. Il presidente della commissione d'esame e' per ogni corso il docente che ne ha avuto l'incarico. La commissione per l'esame di diploma e' costituita per ogni sezione dal direttore della sezione, che la presiede e da quattro altri insegnanti della scuola nominati dal rettore su proposta del direttore della scuola.
-
-Art. 195. - I fondi su cui gravano le retribuzioni degli incarichi e le altre spese di funzionamento della scuola sono costituiti dalle tasse, soprattasse e contributi vari pagati dagli studenti della scuola e da eventuali finanziamenti a tale scopo attribuiti da enti pubblici e privati ai quattro istituti di fisica e a quello di astronomia della facolta' di scienze dell'Universita' di Catania. Le tasse, soprattasse e contributi vari di cui al comma precedente, sono cosi' stabilite:
-
-a) una tassa d'immatricolazione di L. 12.000;
-
-b) una tassa d'iscrizione di L. 60.000;
-
-c) una soprattassa annuale per esami di profitto di L. 8.000;
-
-d) una soprattassa di diploma di L. 3.000.
-
-Coloro i quali conseguono il diploma di specializzazione, sono tenuti, altresi', a pagare all'erario una tassa di diploma di L. 6.000.
-
-La tassa annuale d'iscrizione puo' essere pagata in due rate eguali da versare rispettivamente entro il 30 novembre ed entro il 31 marzo.
-
-Art. 196. - Per quanto non esplicitamente previsto nel presente testo valgono per analogia le norme vigenti per le altre scuole di specializzazione esistenti presso l'Universita' di Catania.
+Terapia chirurgica dell'apparato urinario (biennale).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 23 ottobre 1973
+Dato a Sassari, addi' 31 gennaio 1963
 
-LEONE
+SEGNI
 
-MALFATTI
+GUI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: BOSCO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 24 gennaio 1974 Atti di Governo, registro n. 1, foglio n. 36. - CARUSO
+alla Corte dei conti, addi' 2 aprile 1963 Atti del Governo, registro n. 167, foglio n. 66. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527) e successivi;  
+Veduto il testo unico dello, leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1532](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1532);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
@@ -156,64 +114,43 @@ Sulla proposta del Ministro per la pubblica istruzione;
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 81 - all'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti quelli di:  
-14) Biologia generale;  
-15) Microchimica;  
-16) Analisi chimica farmaceutica strumentale.  
-Nello stesso articolo l'insegnamento complementare di "Zoologia generale" muta denominazione in quella di "Zoologia e parassitologia".  
-Nello stesso articolo dopo l'elenco degli insegnamenti complementari e' soppresso il seguente comma: L'insegnamento di "Zoologia generale" e' comune con quello di "Biologia e zoologia generale" per la laurea in medicina e chirurgia.  
-Art. 82, relativo alla propedeuticita' degli esami, e' modificato nel senso che e' aggiunto il seguente ultimo comma.  
-L'esame di "Chimica generale ed inorganica" e' propedeutico nei confronti degli esami di "esercitazioni di chimica farmaceutica e tossicologica" 1°, 2° e 3° corso.  
-Dopo l'art. 188, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla istituzione della scuola di specializzazione in "fisica".  
-Scuola di specializzazione in fisica  
-Art. 189. - E' istituita presso gli istituti di fisica e di astronomia della facolta' di scienze matematiche, fisiche e naturali una scuola di specializzazione in fisica. Scopo istituzionale della scuola e' di rendere possibile a laureati in fisica di migliorare e qualificare la loro preparazione per il lavoro di ricerca scientifica, attraverso un'esperienza di studio e di ricerca su problemi di speciale rilievo nel campo della fisica.  
-La scuola rilascia un diploma di specializzazione in fisica.  
-Art. 190. - La scuola si articola in cinque sezioni, come appresso indicato:  
-1) Fisica nucleare (problemi di fisica dei nuclei e delle reazioni nucleari di interesse sia fondamentale che applicativo);  
-2) Astrofisica (problemi di fisica dello spazio, cosmologia e astrofisica osservazionale e teorica con riferimento alle ricerche svolte presso l'osservatorio di Catania);  
-3) Fisica teorica (problemi di teoria dei fenomeni fisici sia di interesse critico-metodologico, sia orientati al progetto o all'interpretazione di esperimenti, con riferimento alle ricerche svolte presso gli Istituti di fisica e di astronomia di Catania e gli altri laboratori con cui essi collaborano);  
-4) Struttura della materia (problemi di fisica degli stati aggregati attinenti sia alle loro proprieta' macroscopiche sia alla loro struttura di sistemi atomici o molecolari e di interesse sia fondamentale che applicativo);  
-5) Metodologia e didattica della fisica (problemi connessi con l'evoluzione della scienza e delle concezioni della sua didattica, con riferimento sia alla analisi della dinamica delle idee e delle strutture concettuali della fisica sia alle prospettive d'applicazione didattica di attrezzature di laboratorio e di altri ausili tecnologici avanzati).  
-Nel diploma di specializzazione verra' indicata la sezione presso la quale sono stati condotti gli studi e le ricerche cui il diploma si riferisce.  
-Art. 191. - Alla scuola sono ammessi, in seguito a concorso per titoli, i laureati in fisica ovvero coloro che siano forniti di altri titoli universitari italiani o stranieri atti a garantire la preparazione necessaria per seguire i corsi e le altre attivita' della scuola, a giudizio insindacabile del consiglio di direzione della scuola stessa, sentito il collegio dei docenti della sezione per cui l'ammissione e' richiesta.  
-Il numero massimo di allievi che puo' accedere alle singole sezioni della scuola e' fissato annualmente dal consiglio di direzione, sentito il parere dei singoli docenti, e in relazione alle possibilita' d'impegno dei laboratori e degli istituti presso i quali gli allievi devono svolgere l'attivita' di studio e di ricerca.  
-Il diploma di specializzazione viene rilasciato dopo almeno due anni dalla data di iscrizione alla scuola e alle condizioni in appresso specificate.  
-Art. 192. - Per conseguire il diploma di specializzazione in una delle sezioni della scuola si richiede:  
-a) la frequenza ai corsi di lezioni e il superamento dei relativi esami;  
-b) la partecipazione ai lavori dei gruppi di studio coordinati con i corsi stessi;  
-c) il "lavoro di diploma".  
-I corsi di lezioni saranno di due tipi: fondamentali e monografici; il collegamento critico tra di essi verra' realizzato attraverso l'organizzazione di gruppi di studio cui parteciperanno insieme allievi e docenti della scuola. I corsi del 1° anno avranno, di regola, la funzione di introdurre le metodologie e le altre conoscenze specificamente rilevanti per ciascuna sezione della scuola, mentre quelli del 2° anno serviranno per ampliare gli orizzonti culturali degli allievi orientandone l'attenzione sui problemi piu' avanzati della ricerca. In linea di massima si possono prevedere per ogni sezione della scuola 2 corsi fondamentali e 2 o 3 corsi monografici nel 2° anno. La durata dei corsi fondamentali e' di regola annuale (50 lezioni) mentre quella dei corsi monografici potra' variare da un bimestre (8-10 lezioni) ad un semestre (25 lezioni).  
-Degli esami attinenti ai corsi fara' parte integrante la discussione e la valutazione del contributo dell'allievo al lavoro dei gruppi di studio cui egli ha partecipato, a misura che tale contributo implica e manifesta una preparazione nell'ordine di conoscenze e di metodi di elaborazione cui i corsi stessi si riferiscono.  
-Della preparazione del lavoro di diploma faranno parte integrante almeno due seminari pubblici, il primo sul progetto del lavoro di regola entro il 1° anno di corso ed il secondo sul suo stato di avanzamento, di regola non meno di un semestre dopo il primo.  
-L'esame di diploma consistera' in un seminario dello allievo sui risultati del lavoro di diploma seguito a discussione con i membri della commissione d'esame.  
-Art. 193. - Il consiglio di direzione della scuola e' costituito dai direttori dei quattro istituti di fisica e dell'istituto di astronomia della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Catania. Il direttore della scuola e' nominato dal rettore tra i membri del consiglio di direzione, su proposta del consiglio stesso.  
-Il consiglio di direzione propone annualmente quali sezioni della scuola vengano attivate e quali corsi debbano essere impartiti, e predispone di conseguenza il bando del concorso di ammissione alla scuola e quello per l'attribuzione degli incarichi d'insegnamento.  
-Gli incarichi d'insegnamento vengono attribuiti dal consiglio di facolta' sulla base delle domande documentate presentate dagli aspiranti, sentito il consiglio di direzione della scuola.  
-Il collegio dei docenti e' costituito dagli incarichi dello insegnamento di un corso di una sezione della scuola ed e' presieduto dal direttore della sezione, eletto dal collegio stesso tra i suoi componenti, che lo convoca per le esigenze di funzionamento della sezione.  
-I deliberati del collegio dei docenti di ogni singola sezione sono resi esecutivi dal direttore della scuola su parere conforme del consiglio di direzione.  
-Il coordinamento dei corsi tra loro e con l'attivita' di ricerca, il calendario delle lezioni ed il programma dei gruppi di studio e dei seminari vengono concordati in riunioni congiunte del collegio dei docenti con gli allievi, per ogni singola sezione.  
-A completamento dei corsi le singole sezioni organizzeranno annualmente un programma di seminari tenuti da specialisti di riconosciuta competenza, italiani e stranieri.  
-Art. 194. - Le commissioni d'esame per i singoli corsi sono nominate dal direttore della scuola e sono costituite da tre membri scelti fra gli insegnanti della scuola. Il presidente della commissione d'esame e' per ogni corso il docente che ne ha avuto l'incarico. La commissione per l'esame di diploma e' costituita per ogni sezione dal direttore della sezione, che la presiede e da quattro altri insegnanti della scuola nominati dal rettore su proposta del direttore della scuola.  
-Art. 195. - I fondi su cui gravano le retribuzioni degli incarichi e le altre spese di funzionamento della scuola sono costituiti dalle tasse, soprattasse e contributi vari pagati dagli studenti della scuola e da eventuali finanziamenti a tale scopo attribuiti da enti pubblici e privati ai quattro istituti di fisica e a quello di astronomia della facolta' di scienze dell'Universita' di Catania. Le tasse, soprattasse e contributi vari di cui al comma precedente, sono cosi' stabilite:  
-a) una tassa d'immatricolazione di L. 12.000;  
-b) una tassa d'iscrizione di L. 60.000;  
-c) una soprattassa annuale per esami di profitto di L. 8.000;  
-d) una soprattassa di diploma di L. 3.000.  
-Coloro i quali conseguono il diploma di specializzazione, sono tenuti, altresi', a pagare all'erario una tassa di diploma di L. 6.000.  
-La tassa annuale d'iscrizione puo' essere pagata in due rate eguali da versare rispettivamente entro il 30 novembre ed entro il 31 marzo.  
-Art. 196. - Per quanto non esplicitamente previsto nel presente testo valgono per analogia le norme vigenti per le altre scuole di specializzazione esistenti presso l'Universita' di Catania.  
+Lo statuto dell'Universita' degli studi di Catania approvato e modificato con i decreti sopraindicati, ulteriormente modificato come appresso:  
+Art. 26. - Agli insegnamenti complementari del corso di laurea in lettere, sono aggiunti quelli di "Storia della critica d'arte", "Storia del cristianesimo" e "Storia della filosofia antica".  
+Art. 33. - Agli insegnamenti complementari del corso di laurea in filosofia sono aggiunti quelli di "Psicologia sperimentale", "Storia del cristianesimo" "Filosofia della religione" e "Psicologia dell'eta' evolutiva".  
+Art. 40. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne e' aggiunto quello di: "Storia della critica d'arte"  
+Art. 41. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di: Idrologia medica;  
+Dopo l'art. 187 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in urologia con il conseguente spostamento della numerazione degli articoli successivi.  
+Scuola di specializzazione in Urologia  
+Art. 188. - Il corso degli studi della Scuola di specializzazione in Urologia ha la durata di anni tre.  
+La Scuola non puo' accogliere piu' di cinque iscritti per ciascun anno di corso.  
+Art. 189. - Gli insegnamenti impartiti nella Scuola sono:  
+1° anno:  
+Anatomia ed Embriologia dell'apparato urinario  
+Fisiologia speciale dell'apparato urinario;  
+Semeiotica speciale dell'apparato urinario;  
+Radiologia dell'apparato urinario;  
+Endoscopia (biennale).  
+2° anno:  
+Patologia chirurgica dell'apparato urinario (biennale);  
+Clinica chirurgica dell'apparato urinario (biennale);  
+Endoscopia (biennale);  
+Ginecologia speciale;  
+Terapia e corso di operazioni (biennale).  
+3° anno:  
+Patologia chirurgica dell'apparato urinario (biennale);  
+Clinica chirurgica dell'apparato urinario (biennale);  
+Terapia chirurgica dell'apparato urinario (biennale).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 ottobre 1973
+### Dato a Sassari, addi' 31 gennaio 1963
 
-LEONE MALFATTI
+SEGNI GUI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 24 gennaio 1974
+Registrato alla Corte dei conti, addi' 2 aprile 1963
 
-Atti di Governo, registro n. 1, foglio n. 36. - CARUSO
+Atti del Governo, registro n. 167, foglio n. 66. - VILLA

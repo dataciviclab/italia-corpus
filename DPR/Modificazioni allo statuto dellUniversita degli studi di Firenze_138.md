@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1952 n. 4543
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1270
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1952 n. 4543
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1270
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
@@ -10,252 +10,267 @@ Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), modificato con i [regi decreti 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2230); [30 ottobre 1930, n. 1826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1826); [1 ottobre 1931, n. 1441](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-01;1441); [6 dicembre 1934, n. 2449](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-06;2449); [1 ottobre 1936, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2475); [27 ottobre 1937, n. 2620](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1937-10-27;2620); [5 maggio 1939, n. 1165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-05-05;1165); [12 ottobre 1939, n. 1712](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-10-12;1712); [26 ottobre 1940, n. 2057](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2057); [27 aprile 1942, n. 467](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-04-27;467); [24 ottobre 1942, n. 1439 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1439) [11 giugno 1950, n. 616](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;616); [30 ottobre 1950, n. 1127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1127); [30 ottobre 1950, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1304); [30 giugno 1951, n. 957](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-30;957); [27 ottobre 1951, n. 1681](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1681) e [23 gennaio 1952, n. 168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;168);
+Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e successive modificazioni;
 
-Veduto il testo unico del leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato per la parte relativa alle scuole e corsi di perfezionamento annessi alla Facolta' di scienze politiche "Cesare Alfieri".
+Lo statuto dell'Universita' di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-L'ordinamento della Scuola di perfezionamento in studi politici internazionali, e' modificato nel modo seguente:
+Articolo unico
+--------------
 
-Scuola di perfezionamento in studi politici internazionali
-
-Art. 147. - Alla Scuola di perfezionamento in studi politici internazionali possono iscriversi i laureati in scienze politiche e sociali, in scienze politiche, in giurisprudenza, in economia e commercio, nonche' i laureati stranieri, la cui preparazione scientifica sia ritenuta idonea dal Consiglio della scuola.
-
-Art. 148. - La Scuola e' retta da un direttore, nominato per un biennio dal rettore della Universita' su proposta del Consiglio della facolta' di scienze politiche "Cesare Alfieri".
-
-La nomina dei professori incaricati degli insegnamenti e' fatta, su proposta del direttore, dal Consiglio della facolta' di scienze politiche.
-
-Il Consiglio della scuola e' costituito dal direttore e dai professori.
-
-Art. 149. - La Scuola rilascia, dopo due anni di corso e dopo che i candidati abbiano superato le prove nelle materie di cui all'articolo seguente, nonche' dopo l'esito favorevole dell'esame finale di cui all'art. 153, un diploma di perfezionamento in studi politici internazionali.
-
-Art. 150. - Gli insegnamenti della Scuola sono i seguenti:
-
-1) Problemi di diritto internazionale pubblico (biennale);
-
-2) Problemi di diritto internazionale privato, amministrativo, penale (biennale);
-
-3) Problemi di diritto pubblico comparato (biennale);
-
-4) Storia diplomatica contemporanea;
-
-5) Problemi economici, finanziari e monetari internazionali;
-
-6) Le organizzazioni internazionali;
-
-7) La comunita' internazionale nella storia del pensiero politico;
-
-8) Le ideologie politiche nelle relazioni internazionali.
-
-Art. 151. - Gli insegnamenti sono integrati da conferenze e da brevi corsi di lezioni su particolari argomenti di attualita', secondo programmi fissati anno per anno dal Consiglio della facolta' di scienze politiche.
-
-Art. 152. - Gli esami delle materie biennali devono essere sostenuti al termine di ogni anno e vertono sul programma svolto nell'anno accademico.
-
-Ogni Commissione per gli esami di profitto e' composta di tre professori designati dal direttore della Scuola.
-
-Art. 153. - L'esame di diploma consiste nella discussione orale di una memoria originale, il cui argomento deve essere preventivamente approvato dal direttore della Scuola, dinanzi ad una Commissione composta di cinque professori, compreso il direttore che la presiede.
-
-Art. 154. - Le tasse e le sopratasse della Scuola tono stabilite dalle competenti autorita' accademiche.
-
-La Scuola di perfezionamento in studi corporativi e' trasformata in "Scuola di perfezionamento in studi sindacali e aziendali", con il seguente nuovo ordinamento:
-
-Scuola di perfezionamento in studi sindacali e aziendali
-
-Art. 155. - Alla Scuola di perfezionamento in studi sindacali e aziendali possono iscriversi i laureati in scienze politiche e sociali, in scienze politiche, in giurisprudenza, in economia e commercio.
-
-Art. 156. - La Scuola e' retta da un direttore, nominato per un biennio dal rettore dell'Universita', su proposta del Consiglio della facolta' di scienze politiche "Cesare Alfieri".
-
-La nomina dei professori incaricati degli insegnamenti e' fatta dal Consiglio della facolta' di scienze politiche, su proposta del direttore della Scuola.
-
-Il Consiglio della scuola e' costituito dal direttore e dai professori.
-
-Art. 157. - La Scuola rilascia, dopo due anni di corso e dopo che i candidati abbiano superato le prove nelle materie di cui all'articolo seguente, nonche' dopo l'esito favorevole dell'esame finale, di cui all'art. 159, un diploma di perfezionamento in studi sindacali e aziendali.
-
-Art. 158. - Gli insegnamenti impartiti dalla Scuola sono:
-
-1) Storia del sindacalismo e politica delle organizzazioni operaie;
-
-2) Problemi di economia e di politica economica;
-
-3) Problemi di diritto commerciale e industriale;
-
-4) Problemi di diritto sindacale e del lavoro aziendale;
-
-5) Organizzazione tecnica e amministrativa delle imprese;
-
-6) Struttura e tecnica delle organizzazioni sindacali;
-
-7) Problemi sociali del lavoro;
-
-8) Psicotecnica;
-
-9) Statistica applicata all'aziende e alle organizzazioni sindacali;
-
-10) Problemi di diritto pubblico comparato del lavoro.
-
-Gli insegnamenti sono integrati da esercitazioni, da esperienze pratiche, da conferenze e da brevi corsi di lezione su particolari argomenti, secondo programmi fissati anno per anno dal Consiglio della facolta' di scienze politiche.
-
-Art. 159. - Ogni Commissione per gli esami di profitto e' composta di tre professori designati dal direttore fra gli insegnanti della Scuola.
-
-L'esame di diploma consiste nella discussione orale di una memoria originale, il cui argomento deve essere preventivamente approvato dal direttore della Scuola, dinanzi ad una Commissione composta di sette professori, compreso il direttore che la presiede.
-
-Art. 160. - Le tasse e le sopratasse della Scuola sono stabilite dalle competenti autorita' accademiche.
-
-Il corso di perfezionamento in studi coloniali e' trasformato in "corso di perfezionamento sui problemi dell'emigrazione", con il seguente nuovo ordinamento:
-
-Corso di perfezionamento sui problemi dell'emigrazione
-
-Art. 161. - Al corso di perfezionamento sui problemi dell'emigrazione, che ha la durata di un anno, possono iscriversi i laureati di qualunque Universita'.
-
-Art. 162. - Il direttore del corso e' nominato annualmente dal rettore dell'Universita', su proposta del Consiglio della facolta' di scienze politiche "Cesare Alfieri".
-
-La nomina dei professori incaricati degli insegnamenti e' fatta dal Consiglio della facolta' di scienze politiche su proposta del direttore.
-
-Art. 163. - Dopo aver superato gli esami delle materie di cui all'articolo seguente e dopo l'esito favorevole dell'esame finale, viene rilasciato un certificato di frequenza e di esame.
-
-Art. 164. - Gli insegnamenti del corso sono:
-
-1) Esperienze e problemi dell'emigrazione italiana;
-
-2) Legislazione italiana e comparata sull'emigrazione all'estero;
-
-3) Tutela giuridica dell'emigrazione;
-
-4) Problemi economici e sociali dell'emigrazione interna;
-
-5) Problemi economici e finanziari dell'emigrazione all'estero;
-
-6) Geografia economica e sociale in rapporto all'emigrazione.
-
-Art. 165. - Gli insegnamenti sono integrati da esercitazioni e da conferenze su particolari argomenti, secondo programmi fissati anno per anno dal Consiglio della facolta' di scienze politiche.
-
-Art. 166. - Ogni Commissione per gli esami di profitto e' composta di tre professori designati dal direttore fra gli insegnanti del corso.
-
-Art. 167. - Le tasse e sopratasse del corso sono stabilite dalle competenti autorita' accademiche.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 26 ottobre 1952
-
-EINAUDI
-
-SEGNI
-
-Visto, il Guardasigilli: ZOLI
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 24 aprile 1953 Atti del Governo, registro n. 76, foglio n. 46. - PALLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), modificato con i [regi decreti 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2230); [30 ottobre 1930, n. 1826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1826); [1 ottobre 1931, n. 1441](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-01;1441); [6 dicembre 1934, n. 2449](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-06;2449); [1 ottobre 1936, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2475); [27 ottobre 1937, n. 2620](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1937-10-27;2620); [5 maggio 1939, n. 1165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-05-05;1165); [12 ottobre 1939, n. 1712](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-10-12;1712); [26 ottobre 1940, n. 2057](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2057); [27 aprile 1942, n. 467](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-04-27;467); [24 ottobre 1942, n. 1439 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1439) [11 giugno 1950, n. 616](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;616); [30 ottobre 1950, n. 1127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1127); [30 ottobre 1950, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1304); [30 giugno 1951, n. 957](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-30;957); [27 ottobre 1951, n. 1681](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1681) e [23 gennaio 1952, n. 168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;168);  
-Veduto il testo unico del leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato per la parte relativa alle scuole e corsi di perfezionamento annessi alla Facolta' di scienze politiche "Cesare Alfieri".  
-L'ordinamento della Scuola di perfezionamento in studi politici internazionali, e' modificato nel modo seguente:  
-  
-Scuola di perfezionamento in studi politici internazionali  
-  
-Art. 147. - Alla Scuola di perfezionamento in studi politici internazionali possono iscriversi i laureati in scienze politiche e sociali, in scienze politiche, in giurisprudenza, in economia e commercio, nonche' i laureati stranieri, la cui preparazione scientifica sia ritenuta idonea dal Consiglio della scuola.  
-Art. 148. - La Scuola e' retta da un direttore, nominato per un biennio dal rettore della Universita' su proposta del Consiglio della facolta' di scienze politiche "Cesare Alfieri".  
-La nomina dei professori incaricati degli insegnamenti e' fatta, su proposta del direttore, dal Consiglio della facolta' di scienze politiche.  
-Il Consiglio della scuola e' costituito dal direttore e dai professori.  
-Art. 149. - La Scuola rilascia, dopo due anni di corso e dopo che i candidati abbiano superato le prove nelle materie di cui all'articolo seguente, nonche' dopo l'esito favorevole dell'esame finale di cui all'art. 153, un diploma di perfezionamento in studi politici internazionali.  
-Art. 150. - Gli insegnamenti della Scuola sono i seguenti:  
-1) Problemi di diritto internazionale pubblico (biennale);  
-2) Problemi di diritto internazionale privato, amministrativo, penale (biennale);  
-3) Problemi di diritto pubblico comparato (biennale);  
-4) Storia diplomatica contemporanea;  
-5) Problemi economici, finanziari e monetari internazionali;  
-6) Le organizzazioni internazionali;  
-7) La comunita' internazionale nella storia del pensiero politico;  
-8) Le ideologie politiche nelle relazioni internazionali.  
-Art. 151. - Gli insegnamenti sono integrati da conferenze e da brevi corsi di lezioni su particolari argomenti di attualita', secondo programmi fissati anno per anno dal Consiglio della facolta' di scienze politiche.  
-Art. 152. - Gli esami delle materie biennali devono essere sostenuti al termine di ogni anno e vertono sul programma svolto nell'anno accademico.  
-Ogni Commissione per gli esami di profitto e' composta di tre professori designati dal direttore della Scuola.  
-Art. 153. - L'esame di diploma consiste nella discussione orale di una memoria originale, il cui argomento deve essere preventivamente approvato dal direttore della Scuola, dinanzi ad una Commissione composta di cinque professori, compreso il direttore che la presiede.  
-Art. 154. - Le tasse e le sopratasse della Scuola tono stabilite dalle competenti autorita' accademiche.  
-La Scuola di perfezionamento in studi corporativi e' trasformata in "Scuola di perfezionamento in studi sindacali e aziendali", con il seguente nuovo ordinamento:  
-  
-Scuola di perfezionamento in studi sindacali e aziendali  
-  
-Art. 155. - Alla Scuola di perfezionamento in studi sindacali e aziendali possono iscriversi i laureati in scienze politiche e sociali, in scienze politiche, in giurisprudenza, in economia e commercio.  
-Art. 156. - La Scuola e' retta da un direttore, nominato per un biennio dal rettore dell'Universita', su proposta del Consiglio della facolta' di scienze politiche "Cesare Alfieri".  
-La nomina dei professori incaricati degli insegnamenti e' fatta dal Consiglio della facolta' di scienze politiche, su proposta del direttore della Scuola.  
-Il Consiglio della scuola e' costituito dal direttore e dai professori.  
-Art. 157. - La Scuola rilascia, dopo due anni di corso e dopo che i candidati abbiano superato le prove nelle materie di cui all'articolo seguente, nonche' dopo l'esito favorevole dell'esame finale, di cui all'art. 159, un diploma di perfezionamento in studi sindacali e aziendali.  
-Art. 158. - Gli insegnamenti impartiti dalla Scuola sono:  
-1) Storia del sindacalismo e politica delle organizzazioni operaie;  
-2) Problemi di economia e di politica economica;  
-3) Problemi di diritto commerciale e industriale;  
-4) Problemi di diritto sindacale e del lavoro aziendale;  
-5) Organizzazione tecnica e amministrativa delle imprese;  
-6) Struttura e tecnica delle organizzazioni sindacali;  
-7) Problemi sociali del lavoro;  
-8) Psicotecnica;  
-9) Statistica applicata all'aziende e alle organizzazioni sindacali;  
-10) Problemi di diritto pubblico comparato del lavoro.  
-Gli insegnamenti sono integrati da esercitazioni, da esperienze pratiche, da conferenze e da brevi corsi di lezione su particolari argomenti, secondo programmi fissati anno per anno dal Consiglio della facolta' di scienze politiche.  
-Art. 159. - Ogni Commissione per gli esami di profitto e' composta di tre professori designati dal direttore fra gli insegnanti della Scuola.  
-L'esame di diploma consiste nella discussione orale di una memoria originale, il cui argomento deve essere preventivamente approvato dal direttore della Scuola, dinanzi ad una Commissione composta di sette professori, compreso il direttore che la presiede.  
-Art. 160. - Le tasse e le sopratasse della Scuola sono stabilite dalle competenti autorita' accademiche.  
-Il corso di perfezionamento in studi coloniali e' trasformato in "corso di perfezionamento sui problemi dell'emigrazione", con il seguente nuovo ordinamento:  
-  
-Corso di perfezionamento sui problemi dell'emigrazione  
-  
-Art. 161. - Al corso di perfezionamento sui problemi dell'emigrazione, che ha la durata di un anno, possono iscriversi i laureati di qualunque Universita'.  
-Art. 162. - Il direttore del corso e' nominato annualmente dal rettore dell'Universita', su proposta del Consiglio della facolta' di scienze politiche "Cesare Alfieri".  
-La nomina dei professori incaricati degli insegnamenti e' fatta dal Consiglio della facolta' di scienze politiche su proposta del direttore.  
-Art. 163. - Dopo aver superato gli esami delle materie di cui all'articolo seguente e dopo l'esito favorevole dell'esame finale, viene rilasciato un certificato di frequenza e di esame.  
-Art. 164. - Gli insegnamenti del corso sono:  
-1) Esperienze e problemi dell'emigrazione italiana;  
-2) Legislazione italiana e comparata sull'emigrazione all'estero;  
-3) Tutela giuridica dell'emigrazione;  
-4) Problemi economici e sociali dell'emigrazione interna;  
-5) Problemi economici e finanziari dell'emigrazione all'estero;  
-6) Geografia economica e sociale in rapporto all'emigrazione.  
-Art. 165. - Gli insegnamenti sono integrati da esercitazioni e da conferenze su particolari argomenti, secondo programmi fissati anno per anno dal Consiglio della facolta' di scienze politiche.  
-Art. 166. - Ogni Commissione per gli esami di profitto e' composta di tre professori designati dal direttore fra gli insegnanti del corso.  
-Art. 167. - Le tasse e sopratasse del corso sono stabilite dalle competenti autorita' accademiche.  
+Gli articoli 128 e seguenti, relativi al corso di laurea in architettura, sono soppressi e, con il conseguente spostamento degli articoli successivi, sono sostituiti dai seguenti:  
+Art. 128 - Finalita'. - La facolta' di architettura ha il fine di sviluppare gli studi nel campo dell'architettura e di fornire gli strumenti per la formazione culturale e professionale degli studenti.  
+Art. 129 - Articolazione della didattica. - La facolta' di architettura comprende il corso di laurea in architettura.  
+Il corso di laurea in architettura si articola in quattro indirizzi:  
+a) indirizzo in progettazione architettonica;  
+b) indirizzo in tutela e recupero del patrimonio storico-architettonico;  
+c) indirizzo tecnologico;  
+d) indirizzo urbanistico.  
+Art. 130 - Durata degli studi. - La durata del corso di laurea in architettura e' di cinque anni. Esso comprende trenta esami di profitto in trenta annualita'.  
+Il titolo di ammissione e' quello stabilito dalle vigenti disposizioni di legge.  
+Art. 131 - Aree disciplinari. - Gli insegnamenti della facolta' di architettura sono raccolti, ai soli fini della organizzazione didattica, in aree disciplinari omogenee:  
+1) area progettuale architettonica;  
+2) area della progettazione territoriale ed urbanistica;  
+3) area storico-critica e del restauro;  
+4) area tecnologica;  
+5) area impiantistica;  
+6) area fisico-matematica;  
+7) area della scienza e tecnica delle costruzioni;  
+8) area socio-economica;  
+9) area della rappresentazione.  
+Art. 132 - Insegnamenti. - Nella facolta' di architettura possono essere attivati, area per area, i seguenti insegnamenti annuali:  
+1) Area progettuale architettonica (17 discipline):  
+composizione architettonica (1ª annualita);  
+composizione architettonica (2ª annualita);  
+allestimento e museografia;  
+arredamento e architettura degli interni;  
+arte dei giardini;  
+caratteri tipologici dell'architettura;  
+normative e legislazione per l'edilizia;  
+progettazione architettonica (1ª annualita);  
+progettazione architettonica (2ª annualita);  
+scenografia;  
+teoria dei modelli per la progettazione;  
+teorie e tecniche della progettazione architettonica;  
+progettazione integrale;  
+progettazione urbana;  
+architettura sociale;  
+caratteri distributivi degli edifici.  
+2) Area della progettazione territoriale e urbanistica (18 discipline):  
+urbanistica (1ª annualita);  
+urbanistica (2ª annualita);  
+analisi dei sistemi urbani;  
+analisi delle strutture urbanistiche e territoriali (1ª annualita);  
+analisi delle strutture urbanistiche e territoriali (2ª annualita);  
+diritto e legislazione urbanistica;  
+ecologia applicata;  
+geologia applicata e idrogeologia;  
+gestione urbanistica del territorio;  
+organizzazione del territorio;  
+pianificazione del territorio;  
+progettazione urbanistica (la annualita);  
+progettazione urbanistica (2ª annualita);  
+teoria dell'urbanistica (1ª annualita);  
+teoria dell'urbanistica (2ª annualita);  
+assetto del paesaggio.  
+3) Area storico-critica e del restauro (20 discipline):  
+storia dell'architettura (1ª annualita);  
+storia dell'architettura (2ª annualita);  
+storia dell'urbanistica (1ª annualita);  
+storia dell'urbanistica (2ª annualita);  
+storia dell'architettura contemporanea;  
+storia dell'arte;  
+storia della citta' e del territorio;  
+storia della critica e della letteratura architettonica;  
+storia della scienza;  
+storia della tecnologia;  
+restauro architettonico;  
+restauro urbano;  
+teoria del restauro;  
+storia dell'architettura (3ª annualita).  
+4) Area tecnologica (16 discipline):  
+tecnologia dell'architettura (1ª annualita);  
+tecnologia dell'architettura (2ª annualita);  
+cultura tecnologica della progettazione;  
+disegno industriale;  
+ergonomia;  
+igiene ambientale;  
+morfologia dei componenti;  
+progettazione ambientale;  
+sperimentazione di sistemi e componenti;  
+tecnica ed economia della produzione edilizia;  
+tecnologie di materiali da costruzione;  
+tipologia strutturale;  
+unificazione edilizia e prefabbricazione;  
+organizzazione della produzione;  
+metodi e tecniche della formazione edilizia.  
+5) Area impiantistica (6 discipline):  
+fisica tecnica ed impianti;  
+illuminotecnica, acustica e climatizzazione nell'edilizia;  
+impianti tecnici urbani;  
+impianti speciali di sicurezza;  
+ubicazione e distribuzione della produzione della energia;  
+collaudo e controllo degli impianti.  
+6) Area fisico-matematica (11 discipline):  
+istituzioni di matematica;  
+calcolo numerico e programmazione;  
+elaborazione elettronica dei dati;  
+elaborazione elettronica della progettazione;  
+fisica;  
+geometria descrittiva;  
+istituzioni di statistica;  
+linguaggio per l'uso dei calcolatori;  
+matematica applicata;  
+complementi di matematica.  
+7) Area della scienza e tecnica delle costruzioni (14 discipline):  
+consolidamento e adattamento degli edifici;  
+costruzioni in zone sismiche;  
+dinamica delle costruzioni;  
+geotecnica e tecnica delle fondazioni;  
+progettazione di grandi strutture;  
+scienza delle costruzioni;  
+tecnica delle costruzioni (1ª annualita);  
+tecnica delle costruzioni (2ª annualita);  
+collaudo e controllo delle strutture;  
+costruzioni metalliche.  
+8) Area socioeconomica (8 discipline):  
+estimo ed esercizio professionale;  
+economia urbana e regionale;  
+antropologia culturale;  
+demografia;  
+economia dei trasporti;  
+fondamenti di economia;  
+geografia urbana e regionale;  
+sociologia urbana e rurale.  
+9) Area della rappresentazione (13 discipline):  
+disegno e rilievo;  
+applicazioni di geometria descrittiva;  
+cartografia tematica;  
+elementi di fotogrammetria;  
+interpretazione di immagini e telerilevamenti;  
+strumenti e metodi per il rilievo architettonico;  
+strumenti e tecniche di comunicazione visiva;  
+tecniche della cartografia automatica;  
+tecniche di rappresentazione dell'architettura;  
+topografia;  
+strumenti e tecniche della rappresentazione.  
+Gli insegnamenti fondamentali per la facolta' e per il corso di laurea in architettura e gli insegnamenti caratterizzanti i relativi indirizzi sono attivati, come indicato successivamente, traendoli dai precedenti elenchi. Dagli stessi elenchi la facolta' trae anche gli insegnamenti fondamentali integrativi.  
+Art. 133 - Discipline fondamentali per la facolta' di architettura.  
+- Sono discipline fondamentali per la facolta' di architettura:  
+1) composizione architettonica (prima annualita) (area 1);  
+2) urbanistica (1ª annualita) (area 2);  
+3) storia dell'architettura 1ª annualita) (area 3);  
+4) tecnologia dell'architettura (prima annualita) (area 4);  
+5) fisica tecnica ed impianti (area 5);  
+6) istituzioni di matematica (1ª annualita) (area 6);  
+7) statica (area 7);  
+8) estimo ed esercizio professionale (area 8);  
+9) disegno e rilievo (area 9).  
+Art. 134 - Discipline fondamentali, comuni a tutti gli indirizzi e caratterizzanti il corso di laurea in architettura. - Sono discipline fondamentali comuni a tutti gli indirizzi e caratterizzanti il corso di laurea in architettura:  
+10) composizione architettonica (seconda annualita) (area 1);  
+11) progettazione architettonica (prima annualita) (area 1);  
+12) analisi delle strutture urbanistiche e territoriali (1ª annualita) (area 2);  
+13) restauro architettonico (area 3);  
+14) tecnologia dell'architettura (seconda annualita) (area 4);  
+15) scienza delle costruzioni (area 7).  
+Al fine di consentire una migliore precisazione dei contenuti didattici degli indirizzi ed una piu' efficace organizzazione degli studi, delle nove discipline caratterizzanti il corso di laurea in architettura previste dal decreto del Presidente della Repubblica, le tre ultime discipline vengono scelte come segue:  
+una annualita' dell'area 1;  
+una annualita' dell'area 3;  
+una annualita' dell'area 8.  
+Art. 135 - Discipline caratterizzanti gli indirizzi del corso di laurea in architettura. - Sono discipline caratterizzanti gli indirizzi del corso di laurea in architettura:  
+a) Per l'indirizzo di progettazione architettonica:  
+tre discipline dell'area progettuale architettonica (area 1);  
+due discipline dell'area della scienza e tecnica delle costruzioni (area 7);  
+una disciplina dell'area della progettazione territoriale urbanistica (area 2);  
+una disciplina dell'area della rappresentazione (area 9);  
+una disciplina dell'area storico-critica e del restauro (area 3);  
+una disciplina dell'area tecnologica (area 4).  
+b) Per l'indirizzo di tutela e recupero del patrimonio storico architettonico:  
+tre discipline dell'area storico-critica e del restauro (area 3);  
+due discipline dell'area progettuale architettonica (area 1);  
+una disciplina dell'area della progettazione territoriale e urbanistica (area 2);  
+una disciplina dell'area della rappresentazione (area 9);  
+una disciplina dell'area della scienza e tecnica delle costruzioni (area 7);  
+una disciplina dell'area tecnologica (area 4).  
+c) Per l'indirizzo tecnologico:  
+tre discipline dell'area tecnologica (area 4);  
+una disciplina dell'area fisico-matematica (area 6);  
+una disciplina dell'area impiantistica (area 5);  
+una disciplina dell'area progettuale architettonica (area 1);  
+una disciplina dell'area della rappresentazione (area 9);  
+una disciplina dell'area della scienza e tecnica delle costruzioni (area 7);  
+una disciplina dell'area storico-critica e del restauro (area 3).  
+d) Per l'indirizzo urbanistico:  
+tre discipline dell'area della progettazione territoriale ed urbanistica (area 2);  
+due discipline dell'area socio-economica (area 8);  
+una disciplina dell'area fisico-matematica (area 6);  
+una disciplina dell'area della rappresentazione (area 9);  
+una disciplina dell'area storico-critica e del restauro (area 3);  
+una disciplina dell'area tecnologica (area 4).  
+Art. 136 - Piani di studio consigliati. - All'interno di ciascun indirizzo, la facolta' indichera' un determinato numero di "piani consigliati" corrispondenti a specifici campi di laurea.  
+La facolta' si riserva di attivarli, su indicazione di ciascun consiglio di indirizzo, previa approvazione del consiglio di facolta' con propria delibera e inserimento nel manifesto annuale degli studi.  
+Lo studente che intendera' seguire uno dei "piani consigliati" all'interno dell'indirizzo di laurea prescelto, dovra' inserire nel proprio piano di studi le discipline indicate dalla facolta' perche' considerate necessarie ed indispensabili per una esauriente conoscenza del corrispondente campo di laurea.  
+Art. 137 - Collocazione e propedeuticita' delle discipline obbligatorie e delle discipline opzionali. - La collocazione negli anni di corso delle discipline fondamentali e obbligatorie, comuni al corso di laurea in architettura e delle discipline integrative vengono stabilite - con il criterio di garantire a tutti gli studenti percorsi didattici graduati nel tempo e articolati per sequenze logiche e di consentire la scelta dell'indirizzo dal 3° anno di corso - come dal seguente prospetto:  
+1° Anno:  
+composizione architettonica (1ª annualita);  
+analisi delle strutture urbanistiche e territoriali (1ª annualita);  
+disegno e rilievo;  
+istituzioni di matematica;  
+storia dell'architettura (1ª annualita);  
+tecnologia dell'architettura (1ª annualita).  
+2° Anno:  
+composizione architettonica (2ª annualita);  
+urbanistica (1ª annualita);  
+tecnologia dell'architettura (2ª annualita).  
+3° Anno:  
+progettazione architettonica (2ª annualita);  
+fisica tecnica ed impianti;  
+statica.  
+4° Anno:  
+scienza delle costruzioni;  
+estimo ed esercizio professionale.  
+5° Anno:  
+restauro architettonico.  
+Non puo' essere sostenuto un esame senza che sia stato superato l'esame precedente, nella serie degli esami stabiliti dalla facolta' per insegnamenti pluriennali.  
+Art. 138 - Insegnamenti obbligatori e opzionali del corso di laurea in architettura. - Sono obbligatori per il corso di laurea in architettura i nove insegnamenti fondamentali per la facolta' (vedi art. 7), i primi sei insegnamenti fondamentali caratterizzanti il corso di laurea in architettura (vedi art. 8).  
+Sono opzionali tutti gli altri insegnamenti.  
+Art. 139 - Carattere degli insegnamenti. - Le discipline fondamentali e obbligatorie ai vari anni di corso hanno carattere fondativo e applicativo generale per la preparazione dello studente e per garantire l'obiettivo dell'unita' culturale e professionale della figura dell'architetto, all'interno di un corso di laurea articolato in indirizzo.  
+Ciascun consiglio di indirizzo, definiti anno per anno gli obiettivi didattici e gli insegnamenti e i corsi da attivare con i relativi docenti, ne specifica i fini e ne coordina i programmi. Il consiglio di facolta' esamina le proposte avanzate dai consigli di indirizzo, delibera l'attivazione dei corsi e dispone la collaborazione degli insegnamenti ai vari anni di corso, promulgando altresi' il manifesto annuale degli studi.  
+Art. 140 - Numero e tipo degli esami da sostenere. - Per poter accedere all'esame di laurea in architettura lo studente deve aver superato gli esami delle nove discipline fondamentali per la facolta' di architettura (vedi art. 7), delle prime sei discipline caratterizzanti il corso di laurea e di quindici discipline scelte come indicato nei precedenti articoli.  
+Art. 141 - Accertamento della conoscenza di lingua straniera. - La facolta' si accerta della conoscenza di almeno una lingua straniera fra quelle indicate nel manifesto annuale degli studi, mediante colloquio e traduzione di testi scientifici, da effettuarsi prima dell'assegnazione della tesi di laurea con docenti di discipline attinenti alla tesi stessa e avvalendosi del centro linguistico di ateneo.  
+Art. 142 - Esame di laurea. - Per poter sostenere l'esame di laurea il candidato deve redigere individualmente una tesi sotto la guida di un professore ufficiale dell'indirizzo seguito, che funge da relatore; l'argomento e il contenuto della tesi dovra' essere coerente con gli studi seguiti dal candidato.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 ottobre 1952
+### Dato a Roma, addi' 28 ottobre 1983
 
-EINAUDI SEGNI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: ZOLI
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 24 aprile 1953
+Registrato alla Corte dei conti, addi' 31 luglio 1984
 
-Atti del Governo, registro n. 76, foglio n. 46. - PALLA
+Registro n. 47 Istruzione, foglio n. 384

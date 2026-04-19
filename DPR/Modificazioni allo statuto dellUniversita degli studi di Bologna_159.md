@@ -1,58 +1,116 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1966 n. 700
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1077
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1966 n. 700
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1077
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Nell'art. 18, relativo al corso di laurea in giurisprudenza, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+diritto bancario;  
+diritto regionale;  
+diritto dell'economia;  
+diritto internazionale privato e processuale;  
+diritto processuale comparato;  
+diritto processuale amministrativo;  
+diritto delle Comunita' europee;  
+diritto sindacale italiano e comparato;  
+diritto della previdenza sociale;  
+diritto penale comparato;  
+diritto parlamentare;  
+teoria del diritto;  
+diritto ecclesiastico comparato;  
+sociologia criminale.  
+
+Art. 2
+------
+
   
-Decreta:  
+Nell'art. 57, relativo al corso di laurea in economia e commercio, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+economia d'azienda;  
+tecnologia ed economia delle fonti di energia;  
+ragioneria generale ed applicata (corso progredito);  
+tecnica industriale e commerciale (corso progredito);  
+economia applicata;  
+programmazione e pianificazione aziendale.  
+
+Art. 3
+------
+
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Nell'art. 106, relativo al corso di laurea in fisica, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+fisica della terra solida;  
+fisica del vulcanesimo;  
+geotermia fisica;  
+sismologia teorica;  
+sismometria;  
+tettonofisica.  
+
+Art. 4
+------
+
   
-Dopo l'art. 252, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione del Corso di specializzazione di Tecniche radioisotopiche e di protezione dalle radiazioni annesso alla Facolta' di scienze matematiche, fisiche e naturali.  
-Corso di specializzazione di tecniche radioisotopiche e di protezione dalle radiazioni  
-Art. 253. - I corsi di specializzazione di tecniche radioisotopiche e di protezione dalle radiazioni vengono organizzati dall'Istituto di fisica dell'Universita' di Bologna. Gli allievi acquisteranno conoscenza pratica delle tecniche di base per la manipolazione dei radioisotopi e delle tecniche speciali di misura della radioattivita';  
-particolare attenzione verra' dedicata ai problemi di protezione dalle radiazioni.  
-Art. 254. - Saranno ammessi i laureati in Medicina e chirurgia, Medicina veterinaria, Scienze matematiche, fisiche e naturali, Chimica, Chimica industriale, Farmacia, Ingegneria ed Agraria.  
-Inoltre per dare ai partecipanti l'effettiva possibilita' di impiegare successivamente le tecniche nei loro laboratori, ciascuno di essi potra' farsi accompagnare da un tecnico (chimico o elettronico). Una Commissione presieduta dal direttore del corso decidera' per l'ammissione sulla base dei titoli presentati dai candidati.  
-Art. 255. - Il direttore del corso verra' nominato per un triennio dalla Facolta' di scienze, su proposta del direttore dell'Istituto di fisica. Ogni anno il direttore del corso sottoporra' all'approvazione della Facolta' di scienze il calendario dei corsi ed il nome dei docenti tra riconosciuti esperti della materia, italiani o strafieri.  
-Art. 256. - La durata del corso e' annuale. Gli insegnamenti impartiti ed il nome dei docenti, il numero dei posti disponibili verranno resi noti anno per anno con pubblico bando.  
-Gli insegnamenti impartiti sono:  
-1) Elementi di dosimetria e tecniche di misura della dose;  
-2) Elementi di radioattivita' e tecniche di misura;  
-3) Fisica sanitaria e radioprotezione;  
-4) Elementi di chimica nucleare e radiochimica;  
-5) Complementi di matematica (impiego dei calcolatori elettronici).  
-Tutti i corsi sono accompagnati da esercitazioni pratiche.  
-Verranno inoltre tenuti brevi cicli di lezioni su argomenti monografici e di attualita', conferenze e seminari.  
-Art. 257. - Alla fine del corso a coloro che avranno frequentato le lezioni e le esercitazioni pratiche verra' rilasciato un attestato di frequenza; a coloro che avranno frequentato il corso e avranno superato una prova d'esame su tutte le materie verra' rilasciato un certificato di profitto.  
+Nell'art. 135, relativo al corso di laurea in farmacia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+chimica analitica clinica;  
+chimica tossicologica;  
+farmacologia molecolare.  
+Nell'art. 144, relativo al corso di laurea in chimica e tecnologia farmaceutiche, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+chimica analitica clinica;  
+chimica tossicologica;  
+farmacologia molecolare;  
+radiochimica.  
+
+Art. 5
+------
+
+  
+Gli articoli 656 e 662, relativi alla scuola per terapisti della riabilitazione, sono soppressi e sostituiti dai seguenti:  
+Art. 656. - La durata del corso per il conseguimento del diploma di terapista della riabilitazione e' di tre anni: i primi due consistenti in lezioni teoriche e pratiche sulle materie propedeutiche, il terzo di frequenza obbligatoria ai fini dell'apprendimento presso i centri di riabilitazione delle cliniche: ortopedica, neurologica, medica (sezione di terapia fisica) dell'Universita' di Bologna, e/o altri ospedali di Bologna e provincia, previa stipula di convenzione ai sensi dell'[art. 27 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art27).  
+Art. 662. - Il terzo anno e' esclusivamente dedicato alla frequenza obbligatoria ai fini dell'apprendimento della durata di dieci mesi, suddivisa negli istituti di clinica ortopedica, clinica neurologica, istituto di terapia fisica dell'ospedale S. Orsola e/o altri ospedali di Bologna e provincia, previa stipula di convenzione ai sensi dell'[art. 27 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art27).  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato ad Antagnod, addi' 30 luglio 1966
+### Dato a Roma, addi' 31 ottobre 1981
 
-- SARAGAT GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 7 settembre 1966
+Registrato alla Corte dei conti, addi' 2 marzo 1982
 
-Atti del Governo, registro n. 205, foglio n. 38. - DI PRETORO
+Registro n. 33 Istruzione, foglio n. 344

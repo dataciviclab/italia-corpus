@@ -1,64 +1,89 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1951 n. 1813
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1139
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1951 n. 1813
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1139
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con i [regi decreti 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-26;1734); [26 ottobre 1940, n. 2069](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2069); [4 maggio 1942, numero 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-05-04;565); [24 luglio 1942, n. 949](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-24;949); [24 agosto 1942, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-08-24;1098); [24 ottobre 1942, n. 1672, e con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1672) [12 aprile 1947, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-12;461) e [31 dicembre 1947, n. 1758, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1758) [24 dicembre 1948, n. 1619](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-12-24;1619); [18 luglio 1949, n. 882](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-07-18;882); [20 ottobre 1949, n. 989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;989); [20 ottobre 1949, n. 991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;991); [30 ottobre 1949, n. 1152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1152); [20 ottobre 1949, n. 3178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;3178); [11 giugno 1950, n. 622](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;622) e [11 maggio 1951, n. 653](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-05-11;653);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni;  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita', degli studi di Roma approvato e modificato con i decreti sopraindicati, e cosi' ulteriormente modificato:  
-L'art. 321 relativo alla Scuola di perfezionamento in medicina legale e delle assicurazioni, e cosi' modificato:  
-"L'ordine degli studi, che comprende insegnamenti comuni per tutti gli iscritti e insegnamenti speciali per i non medici, e il seguente: 1° anno:  
-Medicina legale generale;  
-Tanatologia e tecnica delle autopsie medico-legali;  
-Laboratorio medico-legale e indagini di sopraluogo;  
-Lesivita' medico-legale;  
-Elementi di traumatologia clinica;  
-Elementi di metodologia attuariale e di statistica medica;  
-Nozioni generali di diritto;  
-Nozioni generali di biologia (per laureati in giurisprudenza). 2° anno:  
-Medicina legale applicata al diritto civile, penale e Canonico;  
-Neuropsichiatria medico-legale;  
-Psicologia medico-legale e del lavoro;  
-Criminologia;  
-Elementi di fisiologia e di patologia del lavoro;  
-Elementi di legislazione igienico-sanitaria del lavoro;  
-Prevenzione degli infortuni e dei sinistri;  
-Assicurazione contro gli infortuni e le malattie professionali;  
-Assicurazioni invalidita', vecchiaia e contro la tubercolosi;  
-Assicurazione malattie;  
-Assicurazione vita;  
-Medicina legale militare e pensionistica".  
-Art. 322. - "Gli esami di profitto dei singoli insegnamenti comuni e speciali, vengono sostenuti al termine dei rispettivi anni di corso.  
-I candidati non possono essere ammessi agli esami se non abbiano ottenuto una attestazione di frequenza e di diligenza da parte del direttore della Scuola; non possono, inoltre, essere iscritti al 2° anno, se non abbiano superato gli esami di tutti gli insegnamenti del primo".  
+Dopo l'art. 954, e con lo spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli, relativi alla istituzione della scuola di specializzazione in "Valutazione e prevenzione della nocivita' dei prodotti chimici industriali" annessa alla facolta' di farmacia.  
+Scuola di specializzazione in valutazione e prevenzione della nocivita' dei prodotti chimici industriali  
+Art. 955. - La scuola di specializzazione in valutazione e prevenzione della nocivita' dei prodotti chimici industriali ha lo scopo di preparare i tecnici qualificati per gli organi di controllo per le industrie, per i laboratori di ricerca.  
+Art. 956. - La scuola di specializzazione in valutazione e prevenzione della nocivita' dei prodotti chimici industriali ha sede presso la cattedra di chimica organica.  
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+Art. 957. - La durata del corso e' di due anni. Possono essere ammessi alla scuola i laureati in farmacia, in chimica e tecnologia farmaceutiche, in chimica e in chimica industriale.  
+Art. 958. - Il consiglio della scuola stabilisce entro il mese di luglio di ciascun anno il numero massimo di iscritti alla scuola in relazione alle disponibilita' di locali, di attrezzature, di personale.  
+Se il numero delle domande e' eccedente, la scelta verra' fatta in base alle norme previste in apposito regolamento emanato dal senato accademico per l'ammissione alle scuole con numero limitato di iscritti.  
+Art. 959. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) chimica industriale I;  
+2) analisi chimica I;  
+3) relazioni tra proprieta' chimico-fisiche e nocivita';  
+4) tossicologia generale;  
+5) metodologie tossicologiche a breve e lungo termine;  
+6) ecotossicologia generale;  
+7) metodiche ecotossicologiche;  
+8) biostatistica e metodiche per la valutazione del rischio;  
+9) strutture ed organizzazioni nazionali, comunitarie ed internazionali competenti agli effetti della valutazione della nocivita' delle sostanze chimiche.  
+2° Anno:  
+1) chimica industriale II;  
+2) analisi chimica II;  
+3) economia dei cicli produttivi;  
+4) tossicologia speciale con particolare riferimento alla cancerogenesi;  
+5) epidemiologia;  
+6) tossicologia industriale con particolare riferimento ai criteri di sicurezza;  
+7) criteri di purezza in relazione a particolari utilizzazioni dei prodotti chimici (farmaci, cosmetici, additivi alimentari, ecc.);  
+8) legislazione e controlli;  
+9) acquisizione e gestione delle informazioni.  
+Art. 960. - Il consiglio della scuola puo' deliberare che gli insegnamenti articolati in differenti settori tecnologici vengano svolti da piu' insegnanti specializzati nei singoli settori industriali, per un numero di lezioni stabilito singolarmente dal consiglio stesso.  
+Art. 961. - Gli iscritti alla scuola sono obbligati a frequentare le lezioni, le esercitazioni pratiche e le eventuali visite alle industrie chimiche.  
+Art. 962. - Per conseguire il diploma di specialista in valutazione e prevenzione della nocivita' dei prodotti chimici industriali, i candidati dovranno aver superato gli esami su tutte le materie prescritte ed un esame finale consistente nella discussione su una dissertazione scritta preferibilmente a carattere sperimentale.  
+Art. 963. - A coloro che avranno superato l'esame finale verra' rilasciato un diploma di specialista in "valutazione e prevenzione della nocivita' dei prodotti chimici industriali".  
+Art. 964. - Il consiglio della scuola e' costituito dal preside della facolta' di farmacia, dal direttore della scuola e da tutti i professori che svolgono i corsi di insegnamento. La commissione di diploma e' costituita da sette membri designati dal consiglio della scuola fra i professori incaricati dei vari corsi di insegnamento.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 ottobre 1951
+### Dato a Roma, addi' 31 ottobre 1981
 
-EINAUDI SEGNI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: ZOLI
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 5 maggio 1952
+Registrato alla Corte dei conti, addi' 24 aprile 1982
 
-Atti del Governo, registro n. 53, foglio n. 23. - FRASCA
+Registro, n. 58 Istruzione, foglio n. 165

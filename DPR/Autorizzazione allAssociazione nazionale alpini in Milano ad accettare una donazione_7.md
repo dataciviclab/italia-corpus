@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1978 n. 142
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1984 n. 730
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1978 n. 142
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1984 n. 730
+=============================================================
 
 Autorizzazione all'Associazione nazionale alpini, in Milano, ad accettare una donazione.
 ----------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-142. Decreto del Presidente della Repubblica 20 marzo 1978, col quale, sulla proposta del Ministro della difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad accettare, rispettandone gli oneri, la donazione di un immobile ubicato in comune di Varese, disposta dai signori Giuseppe Bonazzola e Piera Castelli ved. Bonazzola con atto pubblico 18 febbraio 1976, n. 70347/5613 di repertorio, a rogito dott. Giuseppe Bortoluzzi, notaio in Varese, consistente in un fabbricato urbano ad un piano fuori terra, composto di sei vani, della superficie coperta di centotrentacinque metri quadrati, con area di pertinenza di cinquecento metri quadrati, esclusa l'area di sedime del fabbricato, il tutto identificato nel nuovo catasto terreni al foglio 31, mappali 12933 e 18842, allibrati alla partita 3511 in ditta "De Micheli Antonietta di Giulio in Bonazzola".  
+730. Decreto del Presidente della Repubblica 20 giugno 1984, col quale, sulla proposta del Ministro della difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad accettare la donazione, consistente in un terreno sito in Calice al Cornoviglio (La Spezia), censito al nuovo catasto terreni al foglio n. 16, mappale n. 233, disposta dal sig. Leopoldo Andreoni con atto 31 luglio 1982, n. 205254 di repertorio, a rogito dott. Roberto Ferrara, notaio in La Spezia e registrato a La Spezia in data 9 agosto 1982 al n. 3599.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 21 aprile 1978  
-Registro n. 12 Difesa, foglio n. 383
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 18 ottobre 1984  
+Registro n. 33 Difesa, foglio n. 379

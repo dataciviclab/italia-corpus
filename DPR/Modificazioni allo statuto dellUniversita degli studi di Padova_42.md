@@ -1,118 +1,78 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 settembre 1971 n. 903
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 dicembre 1965 n. 1630
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 settembre 1971 n. 903
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 dicembre 1965 n. 1630
 ================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1056) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 15. - All'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:
-
-Diritto regionale;
-
-Diritto pubblico dell'economia;
-
-Diritto bancario;
-
-Scienza dell'amministrazione;
-
-Contabilita' di Stato;
-
-Diritto penale comparato.
-
-Art. 98. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di:
-
-Neurotraumatologia Urologia pediatrica;
-
-Anatomia radiologica;
-
-Auxologia;
-
-Patologia dell'apparato locomotore;
-
-Traumatologia della strada.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 18 settembre 1971
-
-SARAGAT
-
-Visto, il Guardasigilli: COLOMBO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 5 novembre 1971 Atti del Governo, registro n. 245, foglio n. 7. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1056) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con regio, decreto 20 aprile 1939, numero 1058, e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Veduta la proposta avanzata dalle autorita' accademiche dell'Universita' anzidetta intesa ad ottenere l'istituzione del corso di laurea in lingue e letterature straniere presso la Facolta' di economia e commercio;  
+Riconosciuta la particolare necessita' di approvare la proposta stessa;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 15. - All'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:  
-Diritto regionale;  
-Diritto pubblico dell'economia;  
-Diritto bancario;  
-Scienza dell'amministrazione;  
-Contabilita' di Stato;  
-Diritto penale comparato.  
-Art. 98. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di:  
-Neurotraumatologia Urologia pediatrica;  
-Anatomia radiologica;  
-Auxologia;  
-Patologia dell'apparato locomotore;  
-Traumatologia della strada.  
+La tabella IX annessa al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e' integrata nel senso che la laurea in Lingue e letterature straniere e' rilasciata anche dall'Universita' di Padova.  
+Lo statuto dell'Universita' di Padova approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:  
+  
+L'art. 47 e' abrogato e sostituito dal seguente: La Facolta' di economia e commercio conferisce le lauree in Economia e commercio e in Lingue e letterature straniere.  
+Dopo l'art. 50 sono inseriti i seguenti nuovi articoli con il conseguente spostamento della numerazione degli articoli successivi.  
+Art. 51. - La durata del corso degli studi per la laurea in Lingue e letterature straniere e' di quattro anni.  
+Titolo di ammissione: diploma di maturita' classica, di maturita' scientifica, di abilitazione magistrale o licenza, a norma dell'[art. 2 della legge 9 ottobre 1951 n. 1130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-10-09;1130~art2), della Scuola civica "Regina Margherita" di Genova ora "Grazia Deledda" o della Scuola civica "Alessandro Manzoni" di Milano o dell'Istituto di cultura e lingue "Marcelline" di Milano ovvero licenza a norma della [legge 12 marzo 1957, n. 94](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-03-12;94), o dal Liceo linguistico femminile "Santa Caterina da Siena" di Venezia o dal Liceo linguistico "Orsoline del Sacro Cuore" di Cortina d'Ampezzo; diploma di abilitazione per i provenienti dagli Istituti tecnici di ogni tipo compresi gli Istituti tecnici femminili e diploma della Scuola di magistero professionale per la donna a norma e con le modalita' di cui alla [legge 21 luglio 1961, n. 685](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-21;685).  
+Insegnamenti fondamentali:  
+1) Lingua e letteratura italiana (biennale)  
+2) Lingua e letteratura latina (biennale)  
+3) Lingua e letteratura francese  
+4) Lingua e letteratura tedesca  
+5) Lingua e letteratura inglese  
+6) Lingua e letteratura spagnola  
+7) Filologia romanza  
+8) Filologia germanica  
+9) Storia (biennale)  
+10) Geografia.  
+Insegnamenti complementari:  
+1) Storia della filosofia  
+2) Storia delle dottrine economiche  
+3) Pedagogia  
+4) Istituzioni giuridiche comparate  
+5) Istituzioni economiche e commerciali  
+6) Lingua e letteratura russa  
+7) Lingua serbo-croata  
+8) Glottologia  
+9) Lingua slovena  
+10) Lingua e letteratura neo-greca  
+11) Letteratura ibero-americana  
+12) Lingua e letteratura portoghese.  
+Art. 52. - Lo studente deve seguire per tutti i quattro anni l'insegnamento della lingua straniera alla quale intende dedicare i suoi studi, e per due anni quello di un'altra delle lingue straniere; egli puo' inoltre seguire per due anni l'insegnamento di una terza lingua straniera, nel qual caso puo' diminuire di uno gli insegnamenti complementari.  
+Nel corso di storia (biennale) un anno deve essere dedicato alla Storia medioevale ed uno alla Storia moderna, alternativamente.  
+Tutti gli insegnamenti, sia annuali che pluriennali, comportano un esame alla fine di ciascun anno di corso.  
+Lo studente deve sostenere una prova scritta di italiano, una di traduzione latina.  
+L'esame della lingua e letteratura straniera scelta come materia quadriennale consta, ogni anno, di una prova scritta e di una orale.  
+La prova scritta per il quarto anno sara' di cultura generale.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in tre da lui scelti fra i complementari.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 settembre 1971
+### Dato a Roma, addi' 15 dicembre 1965
 
-SARAGAT
+SARAGAT GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 5 novembre 1971
+Registrato alla Corte dei conti, addi' 5 febbraio 1966
 
-Atti del Governo, registro n. 245, foglio n. 7. - CARUSO
+Atti del Governo, registro n. 201, foglio n. 13. - VILLA

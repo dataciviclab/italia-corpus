@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 dicembre 1978 n. 918
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 274
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 dicembre 1978 n. 918
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 274
+============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una donazione.
 ------------------------------------------------------------------------------------------------------
@@ -10,14 +10,10 @@ Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad ac
 Art. 1
 ------
 
-N.
+n.
 
-918. Decreto del Presidente della Repubblica 13 dicembre 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare la donazione disposta dai fratelli Grossi Luigi, Aldo, Anita, Maria, Giulio e Bruno, con atto 26 giugno 1973, n. 16284/1686 di repertorio, registrato a Busto Arsizio (Varese) il 5 luglio 1973 al n. 5797, vol. 275, a rogito dott. Ferruccio Brambilla, notaio in Milano, consistente nella quota di 24/28 dei seguenti beni immobili:
-
-a) comune di Portoferraio (Livorno) - partita catastale 2462: 1) fabbricato rurale foglio 13, part. 16/2, di vani 12 in pessime condizioni, cadente e abbandonato; 2) terreni agricoli foglio 13, part. 21; foglio 26, part. 352, 366, 424, 425; foglio 27, part. 189; foglio 31, part. 4, per complessivi ettari 4.59.35;
-
-b) comune di Capolivieri (Livorno): terreni agricoli distinti al catasto al foglio 29, mapp. 80, 95, 96, 97, 98 e 337, per complessivi ettari 1.29.30, il tutto per un valore complessivo di lire 6.500.000.  
+274. Decreto del Presidente della Repubblica 10 marzo 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare la donazione, consistente nella nuda proprieta' di un immobile sito in Domo (Pavia), distinto al nuovo catasto edilizio urbano alla partita 549, foglio 19, mappali 630, 631 e 483, del valore di L. 70.000.000, disposta dalle sorelle Perotti Pierina ed Emilia, con atto 20 ottobre 1982, n. 1856/1225 di repertorio, a rogito dott. Ulderico Brambilla, notaio in Milano, registrato a Milano in data 29 ottobre 1982 al n. 18628.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 25 gennaio 1979  
-Registro n. 1 Presidenza, foglio n. 207
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 6 giugno 1986  
+Registro n. 5 Presidenza, foglio n. 85

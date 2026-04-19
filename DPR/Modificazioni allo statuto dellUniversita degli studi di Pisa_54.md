@@ -1,78 +1,162 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 maggio 1977 n. 538
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1969 n. 24
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 maggio 1977 n. 538
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1969 n. 24
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Pisa approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225) e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 25 luglio 1966, n. 602](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-25;602);
+
+Vedute le proposte avanzate dalle autorita' accademiche dell'universita' di Pisa, intese ad ottenere l'istituzione del corso di laurea in scienze dell'informazione presso la facolta' di scienze matematiche, fisiche e naturali;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla
+-----
+
+proposta del Ministro per la pubblica istruzione; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Presso la facolta' di scienze matematiche, fisiche e naturali puo' essere istituito il corso di laurea in scienze dell'informazione.  
+Il titolo di studio per l'ammissione al predetto corso di laurea, la durata e l'ordinamento del corso medesimo sono stabiliti dalla tabella annessa al presente decreto firmata, d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione.  
+All'elenco delle lauree e dei diplomi, di cui alla tabella I, annessa al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e' aggiunta la laurea in scienze dell'informazione.  
+La tabella II, annessa al citato regio decreto numero 1652, e' integrata nel senso che la facolta' di scienze matematiche, fisiche e naturali rilascia anche la laurea in scienze dell'informazione.  
+Dopo la tabella XXVI, annessa al citato regio decreto n. 1652, e' inserita, assumendo il numero XXVI-bis, la tabella annessa al presente decreto.  
+
+Art. 2
+------
+
   
-Decreta:  
+A decorrere dall'anno accademico 1969-70 e' istituito presso la facolta' di scienze matematiche, fisiche e naturali dell'Universita' degli studi di Pisa il corso di laurea in scienze dell'informazione.
+
+Art. 3
+------
+
   
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Dopo l'art. 433, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in andrologia:  
-  
-Scuola di specializzazione in andrologia  
-Art. 434. - E' istituita presso la facolta' di medicina e chirurgia dell'Universita' di Pisa, la scuola di specializzazione in andrologia.  
-Il direttore della scuola viene nominato fra i professori di ruolo e fuori ruolo di medicina interna della facolta' particolarmente competente nel campo della andrologia, dura in carica tre anni e puo' essere confermato.  
-La sede della scuola sara' indicata per ogni triennio in rapporto alla nomina del direttore.  
-Art. 435. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-anatomia ed embriologia generale degli organi endocrini;  
-anatomia ed embriologia dell'apparato riproduttivo maschile;  
-fisiologia endocrina e della riproduzione nell'uomo;  
-biochimica endocrina;  
-anatomia patologica delle ghiandole endocrine e dell'apparato riproduttivo maschile I;  
-nozioni di immunopatologia;  
-semeiotica e diagnostica andrologica medica I;  
-semeiotica e diagnostica andrologica chirurgica I.  
-2° Anno:  
-anatomia patologica delle ghiandole endocrine e dell'apparato riproduttivo maschile II;  
-semeiotica e diagnostica andrologica medica II;  
-semeiotica e diagnostica andrologica chirurgica II;  
-immunopatologia della infertilita' maschile;  
-eredopatologia andrologica;  
-patologia speciale e clinica dell'apparato genitale maschile I; aspetti neuropsichiatrici della patologia andrologica;  
-patologia venereologia nei riguardi dell'andrologia.  
-3° Anno:  
-patologia speciale e clinica dell'apparato genitale maschile II;  
-profilassi della infertilita' maschile;  
-terapia andrologica medica;  
-terapia andrologica chirurgica;  
-farmacologia endocrina e della riproduzione dell'uomo.  
-Art. 436. - Gli allievi devono seguire le lezioni e le esercitazioni e frequentare come interni la prima clinica medica per un periodo che verra' stabilito dal direttore della scuola.  
-Gli iscritti per ciascun anno di corso non possono superare il numero di otto. I candidati devono superare una prova di ammissione per titoli ed esami.  
-L'ammissione e' limitata ai laureati in medicina e chirurgia.  
-Alla fine di ciascun anno di corso l'allievo deve superare un esame di profitto che puo' vertere anche su prove pratiche. Gli esami di profitto si svolgono a gruppi di materie e possono essere sostenuti solo in due sessioni annuali, una estiva e l'altra autunnale e comunque non oltre il 30 novembre dell'anno in corso.  
-Al termine del triennio, superato il relativo esame di profitto, l'allievo dovra' sostenere un esame di diploma consistente nella discussione di una dissertazione scritta su argomento approvato dal direttore della scuola.  
-Gli insegnamenti sono accompagnati da esercitazioni pratiche e da conferenze su argomenti attinenti le discipline andrologiche.  
-Non sono ammesse abbreviazioni di corso.  
-Per quanto non compreso nel presente statuto, si fa riferimento alle norme generali delle scuole di perfezionamento e di specializzazione della facolta' di medicina e chirurgia contenute nel regolamento sul funzionamento delle scuole di specializzazione e perfezionamento dell'Universita' di Pisa.  
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti suindicati, e' ulteriormente modificato come appresso:  
+Art. 70. - All'elenco delle lauree conferite dalla facolta' di scienze matematiche, fisiche e naturali e' aggiunta la seguente: "Laurea in scienze dell'informazione".  
+Art. 95. - Dopo il sesto comma e' aggiunto il seguente: "L'esame di laurea in scienze dell'informazione consiste nella discussione di una dissertazione scritta oppure in una prova orale di cultura secondo quanto sara' stabilito caso per caso dal consiglio di facolta'".  
+Dopo l'art. 101, e con il conseguente spostamento della successiva numerazione, sono aggiunti gli articoli 102 e 103 contenente le norme relative all'ordinamento del corso di studi per il conseguimento della laurea in scienze dell'informazione secondo l'ordinamento riportato nella annessa tabella.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 maggio 1977
+### Dato a Roma, addi' 28 gennaio 1969
 
-LEONE MALFATTI
+SARAGAT SULLO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 30 luglio 1977
+Registrato alla Corte dei conti, addi' 28 febbraio 1969
 
-Registro n. 92 Istruzione, foglio n. 26
+Atti del Governo, registro n. 225, foglio n. 96. - GRECO
+
+Tabella XXVI bis
+
+ ALLEGATO   
+TABELLA XXVI-bis   
+  
+LAUREA IN SCIENZE DELL'INFORMAZIONE   
+  
+Durata del corso: quattro anni.   
+Titolo di ammissione: diploma di maturita' classica, di maturita' scientifica, diploma di abilitazione per i provenienti dagli istituti tecnici industriali, nautici, agrari e per geometri.   
+Il corso si distingue in tre indirizzi: indirizzo generale, indirizzo applicativo (gestione), indirizzo tecnico (sistemi per l'elaborazione).   
+  
+A) Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi per il primo biennio:   
+1° Anno:   
+1) Fisica I;   
+2) Analisi matematica I;   
+3) Algebra (semestrale);   
+4) Geometria (semestrale);   
+5) Teoria ed applicazioni delle macchine calcolatrici.   
+2° Anno:   
+6) Fisica II;   
+7) Analisi matematica II;   
+8) Calcolo numerico (semestrale);   
+9) Calcolo delle probabilita' e statistica (semestrale);   
+10) Sistemi per l'elaborazione dell'informazione I;   
+11) Ricerca operativa e gestione aziendale.   
+  
+B) Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi per il secondo biennio:   
+12) Sistemi per l'elaborazione dell'informazione II;   
+13) Teoria dell'informazione e della trasmissione;   
+14) Metodi per il trattamento dell'informazione.   
+  
+C) Sono insegnamenti fondamentali obbligatori:   
+a) per l'indirizzo generale:   
+15-a) Linguaggi formali e compilatori;   
+16-a) Metodi di approssimazione;   
+b) per l'indirizzo applicativo:   
+15-b) Teoria e metodi dell'ottimizzazione;   
+16-b) Economia ed organizzazione aziendale (semestrale);   
+17-b) Trattamento, dell'informazione nell'impresa (semestrale);   
+c) per l'indirizzo tecnico:   
+15-c) Teoria dei sistemi;   
+15-b) Tecniche numeriche ed analogiche.   
+  
+Insegnamenti complementari comuni ai tre indirizzi:   
+1) Analisi numerica;   
+2) Bioelettronica;   
+3) Calcolo delle probabilita';   
+4) Cibernetica e teoria dell'informazione;   
+5) Complementi di gestione aziendale;   
+6) Comunicazioni elettriche;   
+7) Controlli automatici;   
+8) Controllo dei processi industriali;   
+9) Documentazione automatica;   
+10) Econometrica;   
+11) Elaborazione dell'informazione non numerica;   
+12) Elaborazione di immagini;   
+13) Elaborazione dei testi letterali;   
+14) Elettronica;   
+15) Fisica numerica;   
+16) Fisica superiore;   
+17) Istituzioni di fisica teorica;   
+18) Istituzioni di analisi superiore;   
+19) Istituzioni di fisica matematica;   
+20) Linguaggi speciali di programmazione;   
+21) Logica matematica;   
+22) Macchine calcolatrici analogiche;   
+23) Teoria dei modelli;   
+24) Progetto di sistemi numerici;   
+25) Simulazione;   
+26) Statistica;   
+27) Tecniche di progettazione automatica;   
+28) Tecniche direzionali;   
+29) Tecniche speciali di elaborazione;   
+30) Teoria degli algoritmi e calcolabilita';   
+31) Teoria degli atomi;   
+32) Teoria dei giochi;   
+33) Teoria dei grafi;   
+34) Teoria delle decisioni.   
+  
+Alcuni di questi corsi complementari potranno avere la durata semestrale.   
+Ciascuno degli insegnamenti, sia fondamentali che complementari comporta un esame finale.   
+Ciascuno insegnamento fondamentale di un indirizzo puo' essere scelto come insegnamento complementare per altro indirizzo in cui non sia fondamentale.   
+La scelta delle materie complementari da parte dello studente e' sottoposta alla preventiva approvazione della facolta'.   
+Per ottenere l'iscrizione al secondo biennio, lo studente deve aver seguito i corsi e superato gli esami di almeno cinque materie annuali del primo biennio (due corsi semestrali sono valutati come un corso annuale).   
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in quattro scelti fra i complementari se a corso semestrale, in almeno tre se uno di essi annuale, o in almeno due se ambedue sono annuali.   
+  
+Visto, d'ordine del Presidente della Repubblica   
+  
+Il Ministro per la pubblica istruzione   
+SULLO   

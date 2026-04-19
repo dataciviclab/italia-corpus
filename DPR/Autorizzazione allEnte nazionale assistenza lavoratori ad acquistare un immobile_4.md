@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1968 n. 914
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 maggio 1972 n. 274
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1968 n. 914
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 maggio 1972 n. 274
 =============================================================
 
 Autorizzazione all'Ente nazionale assistenza lavoratori ad acquistare un immobile.
@@ -12,14 +12,8 @@ Art. 1
 
 N.
 
-914. Decreto del Presidente della Repubblica 19 giugno 1968, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Ente nazionale assistenza lavoratori, viene autorizzato ad acquistare dal comune di Ravenna e per il prezzo di L. 70.000, un appezzamento di terreno, della superficie di mq. 700, sito in "Casal Borsetti", distinto in mappa del comune di Ravenna - sezione S.  
-Alberto, partita al rustico n. 1096, foglio 31, particella 58, per consentire la unificazione nello stesso ente della proprieta' del terreno e del fabbricato, adibito a sede del locale circolo E.N.A.L., che insiste sul terreno in parola.   
+274. Decreto del Presidente della Repubblica 6 maggio 1972, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Ente nazionale assistenza lavoratori (E.N.A.L.) viene autorizzato ad acquistare al complessivo convenuto prezzo di L. 600.000 dall'Ente morale dopolavoro Ravenna, un fabbricato di piani uno, vani tre, sito in Casal Borsetti (Ravenna), distinto in catasto al foglio n. 31, mappale 58 della sezione di S. Alberto, da servire ad uso diretto dell'ente.  
   
-Visto, il Guardasigilli: GONELLA   
-Registrato alla Corte dei conti, addi' 16 agosto 1968   
-Atti del Governo, registro n. 222, foglio n. 69 - DI PRETORO   
-  
----------------   
-Nota redazionale   
-Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'avviso di rettifica pubblicato in G.U. 10/09/1968, n. 230 durante il periodo di "vacatio legis".   
-E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 22 giugno 1972  
+Atti del Governo, registro n. 249, foglio n. 95. - VALENTINI

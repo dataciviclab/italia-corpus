@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1972 n. 511
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1958 n. 589
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1972 n. 511
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1958 n. 589
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -12,35 +12,50 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successivi;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciutala particolare necessita' di approvare le nuove modifiche proposte;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 81. - All'elenco degli istituti annessi alla facolta' di medicina e chirurgia e' aggiunto quello di:  
   
-Istituto di chirurgia d'urgenza e di pronto soccorso.  
+Dopo l'art. 384 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della scuola di perfezionamento in patologia generale, con il conseguente spostamento della numerazione degli articoli successivi.  
   
-Art. 82, relativo all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' modificato nel senso che l'insegnamento di "Chirurgia di pronto soccorso" muta denominazione in quella di "Chirurgia d'urgenza e di pronto soccorso".  
+Scuola di perfezionamento in patologia generale  
+  
+Art. 385. - Finalita' e titoli di ammissione sono quelli di cui e gli articoli 292 e 293.  
+Art. 386. - La durata dell'intero corso di studi e' di due anni.  
+Il numero massimo degli iscritti e' di trenta per corso.  
+Art. 387. - Le materie d'insegnamento sono cosi' distribuite:  
+1° anno:  
+Patologia eziologica (cause fisiche, chimiche e biologiche di malattia);  
+Patologia delle infezioni e immunologia;  
+Patologia delle infezioni;  
+Laboratorio di patologia generale.  
+2° anno:  
+Patologia sistematica (circolatoria, neuroendocrina, respiratoria, digerente, renale);  
+Patologia metabolica;  
+Patologia istologica e oncologica;  
+Laboratorio di patologia generale.  
+Art. 388. - L'ordine degli studi (distribuzione degli insegnamenti nei diversi anni di corso) e' quello indicato al precedente art. 387, e l'ordine e le modalita' degli esami di profitto sono quelli usuali (esami orali, scritti, microscopico, ecc.).  
+Art. 389. - A coloro che avranno superato l'esame di diploma, verra' rilasciato il diploma di perfezionamento in patologia generale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 luglio 1972
+### Dato a Roma, addi' 14 gennaio 1958
 
-LEONE SCALFARO
+GRONCHI MORO
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 6 settembre 1972
+Registrato alla Corte dei conti, addi' 17 giugno 1958
 
-Atti del Governo, registro n. 251, foglio n. 10. - VALENTINI
+Atti del Governo, registro n. 112, foglio n. 195. - RELLEVA

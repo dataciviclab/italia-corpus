@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 1012
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 novembre 1956 n. 1461
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 1012
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 novembre 1956 n. 1461
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), modificato con [regio decreti 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1772); [1 ottobre 1931, n. 1380](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1380); [26 ottobre 1933, n. 2401](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1933-10-26;2401); [13 dicembre 1934, n. 2423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-13;2423); [1 ottobre 1936, n. 2076](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2076); [20 aprile 1939, n. 1067](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-04-20;1067); [1 agosto 1941, n. 893](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-08-01;893); [26 marzo 1942, n. 330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-03-26;330); [5 settembre 1942, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1178) e [21 gennaio 1943, n. 21; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1943-01-21;21) [30 dicembre 1947, n. 1735 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1735) [27 marzo 1948, n. 458](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-03-27;458); [30 ottobre 1949, n. 1002](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1002); [30 maggio 1950, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-05-30;615); [11 aprile 1951, n. 471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;471); [27 ottobre 1951, n. 1701](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1701); [31 agosto 1951, n. 1824](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-31;1824); [25 luglio 1952, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1350); [16 ottobre 1952, numero 4013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-16;4013); [27 marzo 1954, n. 734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-27;734); [24 settembre 1954, n. 1135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-24;1135); [4 febbraio 1955, n. 116](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;116); [24 luglio 1955, n. 801](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-24;801); [31 luglio 1956, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-07-31;1027) e [5 settembre 1956, n. 1151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-09-05;1151);
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,146 +20,77 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio universitario nazionale nel suo parere;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 16. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:
 
+14) Esegesi delle fonti del diritto romano;
+
+15) Diritto internazionale privato e processuale.
+
+Art. 27. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:
+
+11) Scienza dell'alimentazione.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 9 novembre 1956
+
+GRONCHI
+
+ROSSI
+
+Visto, il Guardasigilli: MORO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 20 dicembre 1956 Atti del Governo, registro n. 102, foglio n. 135. - CARLOMAGNO
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Art. 92 - all'elenco degli insegnamenti complementari del secondo gruppo del corso di laurea in matematica sono aggiunti i seguenti insegnamenti:  
-metodi probabilistici, statistici e processi stocastici;  
-teoria delle decisioni;  
-linguaggi formali e compilatori;  
-teoria degli algoritmi e della calcolabilita';  
-metodi per il trattamento dell'informazione;  
-documentazione automatica;  
-teoria dell'informazione;  
-riconoscimento automatico delle forme;  
-istituzioni di meccanica superiore;  
-meccanica dei continui;  
-analisi numerica;  
-complementi di analisi numerica.  
-Art. 99 - all'elenco degli insegnamenti complementari del corso di laurea in fisica sono aggiunti i seguenti insegnamenti:  
+Veduto lo statuto dell'Universita' degli studi Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), modificato con [regio decreti 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1772); [1 ottobre 1931, n. 1380](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1380); [26 ottobre 1933, n. 2401](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1933-10-26;2401); [13 dicembre 1934, n. 2423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-13;2423); [1 ottobre 1936, n. 2076](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2076); [20 aprile 1939, n. 1067](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-04-20;1067); [1 agosto 1941, n. 893](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-08-01;893); [26 marzo 1942, n. 330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-03-26;330); [5 settembre 1942, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1178) e [21 gennaio 1943, n. 21; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1943-01-21;21) [30 dicembre 1947, n. 1735 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1735) [27 marzo 1948, n. 458](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-03-27;458); [30 ottobre 1949, n. 1002](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1002); [30 maggio 1950, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-05-30;615); [11 aprile 1951, n. 471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;471); [27 ottobre 1951, n. 1701](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1701); [31 agosto 1951, n. 1824](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-31;1824); [25 luglio 1952, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1350); [16 ottobre 1952, numero 4013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-16;4013); [27 marzo 1954, n. 734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-27;734); [24 settembre 1954, n. 1135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-24;1135); [4 febbraio 1955, n. 116](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;116); [24 luglio 1955, n. 801](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-24;801); [31 luglio 1956, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-07-31;1027) e [5 settembre 1956, n. 1151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-09-05;1151);  
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-INDIRIZZO GENERALE  
-2° gruppo:  
-teorie quantistiche;  
-istituzioni di meccanica quantistica;  
-elettrodinamica.  
-Art. 107 - All'elenco degli insegnamenti complementari del corso di laurea in chimica, per l'indirizzo organico-biologico sono eliminati i seguenti insegnamenti:  
-chimica organica teorica;  
-chimica degli alti polimeri;  
-chimica dell'alimentazione.  
-Allo stesso elenco, sempre per l'indirizzo organico-biologico sono aggiunti i seguenti insegnamenti:  
-didattica chimica;  
-chimica fisica biologica;  
-chimica tossicologica;  
-chimica ambientale;  
-chimica organica industriale;  
-chimica macromolecolare;  
-fitochimica;  
-chimica organica superiore.  
-All'elenco degli insegnamenti complementari per l'indirizzo inorganico-chimico-fisico sono aggiunti i seguenti insegnamenti:  
-didattica chimica;  
-chimica fisica biologica;  
-chimica tossicologica;  
-chimica ambientale;  
-teoria degli elettroliti;  
-spettroscopia a radio frequenze;  
-analisi chimica applicata;  
-chimica analitica clinica;  
-chimica e tecnologia delle acque;  
-chimica fisica industriale;  
-chimica fisica dei polimeri;  
-catalisi;  
-termodinamica di processi irreversibili.  
-Art. 111 - all'elenco degli insegnamenti complementari del corso di laurea in chimica industriale, sono aggiunti i seguenti insegnamenti: spettroscopia molecolare;  
-storia della chimica;  
-chimica bromatologica;  
-chimica dei composti di coordinazione;  
-chimica fisica dello stato solido;  
-chimica fisica tecnica;  
-metodi fisici in chimica organica;  
-meccanismi di reazione in chimica inorganica;  
-chimica e tecnologia della catalisi;  
-catalisi;  
-chimica fisica dei polimeri.  
-Art. 117 - all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali, sono aggiunti i seguenti insegnamenti:  
-didattica delle scienze geologiche;  
-mineralogia sistematica;  
-esercitazioni di analisi chimica qualitativa;  
-chimica delle sostanze organiche naturali;  
-entomologia;  
-protozoologia.  
-Il secondo comma dell'art. 124, relativo al biennio di studi propedeutici per la laurea in ingegneria, e' soppresso e sostituito come segue:  
-Art. 124, secondo comma: "Al termine del secondo anno di corso lo studente, per essere ammesso al terzo anno di corso presso una qualunque facolta' di ingegneria e politecnico, dovra' aver superato tutti gli esami fondamentali comuni ai vari indirizzi, e l'esame obbligatorio (sul piano nazionale o della facolta), relativo all'indirizzo prescelto al momento dell'iscrizione al secondo corso".  
-Art. 125 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti insegnamenti:  
-bioclimatologia;  
-biochimica cellulare;  
-biochimica vegetale;  
-biologia delle popolazioni umane;  
-conservazione della natura e delle sue risorse;  
-genetica molecolare;  
-laboratorio di tecniche fisiologiche;  
-protozoologia.  
-Il secondo comma dell'art. 126 e' soppresso e sostituito come segue:  
-Art. 126, secondo comma: "L'insegnamento di zoologia importa due esami distinti, relativi ai due anni di insegnamento, nel primo dei quali viene trattata la parte generale, nel secondo la parte sistematica".  
-I commi secondo e terzo dell'art. 127 sono soppressi e sostituiti come segue:  
-Art. 127:  
-secondo comma: "La dissertazione deve essere presentata alla segreteria dell'Universita' almeno dieci giorni prima dell'esame di laurea";  
-terzo comma: "Per essere ammesso all'esame di laurea in scienze biologiche lo studente a meno di aver presentato un piano di studi approvato dal C.C.L., deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in tre da lui scelti fra i complementari".  
-Il primo comma dell'art. 128 e' soppresso e sostituito come segue:  
-Art. 128, primo comma: "L'esame di laurea comprende l'esposizione della tesi di laurea ed una discussione dei risultati conseguiti atta a dimostrare la preparazione culturale del candidato in ottemperanza all'art. 18 del presente statuto".  
-Art. 130 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono soppressi i seguenti insegnamenti:  
-chimica organica;  
-analisi matematica algebrica ed infinitesimale (biennale);  
-etnologia;  
-cristallografia strutturale;  
-genetica evoluzionistica.  
-Allo stesso elenco sono aggiunti i seguenti insegnamenti:  
-geologia matematica;  
-meccanica delle rocce;  
-paleobotanica;  
-termodinamica.  
-Gli articoli 131, 132, 133, secondo comma, 134, sono soppressi e sostituiti come segue:  
-Art. 131. - L'esame di istituzioni di matematiche deve precedere l'esame di fisica sperimentale primo anno.  
-L'esame di fisica sperimentale primo anno deve precedere l'esame di fisica sperimentale secondo anno.  
-L'esame di chimica generale ed inorganica con elementi di organica deve precedere l'esame di mineralogia.  
-L'esame di mineralogia deve precedere l'esame di petrografia.  
-Sono obbligatori due anni di internato al terzo e al quarto anno.  
-Annualmente la facolta', su proposta del consiglio di corso di laurea, indichera' i corsi complementari che saranno attivati nell'anno accademico, in conformita' con i disposti dell'[art. 9 del decreto del Presidente della Repubblica n. 382/80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art9).  
-Art. 132. - A meno di aver presentato un piano di studi autonomo, approvato dal consiglio di corso di laurea, lo studente per essere ammesso all'esame di laurea deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari.  
-Art. 133. - Per essere ammesso all'esame di laurea lo studente deve inoltre aver sostenuto un colloquio di cultura generale nelle scienze geologiche, da sostenersi davanti ad una commissione nominata dal preside.  
-L'esito di tale colloquio, pero', non ha carattere preclusivo.  
-Art. 134. - L'esame di laurea comprende:  
-1) la discussione orale della tesi di laurea;  
-2) la discussione orale di due su tre argomenti scelti dal candidato in materie d'insegnamento della facolta', diverse fra di loro e da quelle formate oggetto della tesi di laurea.  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 16. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:  
+14) Esegesi delle fonti del diritto romano;  
+15) Diritto internazionale privato e processuale.  
+Art. 27. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:  
+11) Scienza dell'alimentazione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 ottobre 1984
+### Dato a Roma, addi' 9 novembre 1956
 
-PERTINI
+GRONCHI ROSSI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: MORO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 20 dicembre 1956
 
-Registrato alla Corte dei conti, addi' 30 gennaio 1985
-
-Registro n. 4 Istruzione, foglio n. 324
+Atti del Governo, registro n. 102, foglio n. 135. - CARLOMAGNO

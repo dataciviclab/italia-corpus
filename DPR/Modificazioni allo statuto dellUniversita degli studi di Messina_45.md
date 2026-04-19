@@ -1,74 +1,90 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1977 n. 785
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 marzo 1968 n. 573
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1977 n. 785
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 marzo 1968 n. 573
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Messina approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 14. - All'elenco degli insegnamenti complementari nel corso di laurea in scienze politiche e' aggiunto quello di "Diritto pubblico romano".
+
+Art. 21. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti quelli di: "Statistica aziendale" e "Tecnologia dei cicli produttivi".
+
+Art. 27. - All'elenco degli istituti annessi alla facolta' di lettere e filosofia e' aggiunta anche la biblioteca.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 22 marzo 1968
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 24 aprile 1968 Atti del Governo, registro n. 219, foglio n. 56. - GRECO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923) e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Messina approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 14. - All'elenco degli insegnamenti complementari nel corso di laurea in scienze politiche e' aggiunto quello di "Diritto pubblico romano".  
+Art. 21. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti quelli di: "Statistica aziendale" e "Tecnologia dei cicli produttivi".  
+Art. 27. - All'elenco degli istituti annessi alla facolta' di lettere e filosofia e' aggiunta anche la biblioteca.  
   
-Dopo l'art. 202 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione per revisori e certificatori di bilanci societari annessa alla facolta' di economia e commercio.  
-  
-FACOLTA' DI ECONOMIA E COMMERCIO  
-Scuola di specializzazione per revisori  
-e certificatori di bilanci societari  
-  
-Art. 203.- Titolo per l'ammissione alla scuola di specializzazione e' la laurea in economia e commercio.  
-Art. 204. - La scuola ha sede presso la facolta' di economia e commercio dell'Universita' ed e' retta secondo le norme del regolamento generale per la scuola di specializzazione dell'Universita' di Messina e secondo le norme del seguente ordinamento.  
-Art. 205. - La domanda di ammissione deve essere diretta al rettore della Universita' ed accompagnata dal diploma di laurea, dal certificato di carriera scolastica e da tutti gli altri titoli che il candidato ritenesse opportuno presentare.  
-Art. 206. - La scuola ha la durata di due anni. Il numero dei posti disponibili per ogni anno e di cento.  
-Art. 207. - Gli insegnamenti impartiti dalla scuola sono i seguenti:  
-1° Anno:  
-1) economia e politica aziendale;  
-2) procedure contabili e sistemi informativi di azienda;  
-3) teoria e pratica dell'unificazione contabile (nazionale e comparata);  
-4) analisi dei costi e finanza aziendale;  
-5) economia dei gruppi aziendali e delle imprese multinazionali.  
-2° Anno:  
-1) diritto delle societa' commerciali;  
-2) tecnica fiscale e tributaria del bilancio;  
-3) tecnica delle negoziazioni di borsa;  
-4) tecnica dei fidi bancari;  
-5) tecnica delle revisioni e della certificazione dei bilanci;  
-6) diritto tributario e di bilancio.  
-Art. 208. - La Direzione della scuola e' affidata al professore di ragioneria generale ed applicata al quale spetta, fra l'altro, la vigilanza sulla frequenza, sulla attivita' e sulla disciplina degli specializzandi.  
-Il controllo sul funzionamento viene esercitato dal preside della facolta' di economia e commercio.  
-Art. 209. - Per ottenere l'ammissione al secondo anno, gli specializzandi dovranno aver superato gli esami delle materie annuali del primo anno.  
-Art. 210. - La frequenza ai corsi e' obbligatoria. Essa sara' accertata mediante la firma apposta dagli specializzandi su appositi fogli di presenza.  
-Art. 211. - Gli esami avranno luogo in due sessioni annuali, una estiva ed una autunnale.  
-Art. 212. - Il direttore della scuola valutera' comparativamente la carriera scolastica e gli altri eventuali titoli presentati e procedera' alla graduatoria degli aspiranti, che diventera' esecutiva dopo l'approvazione del preside della facolta' di economia e commercio.  
-Art. 213. - La scuola rilascia, dopo la discussione di una dissertazione scritta, un diploma di specialista in revisore e certificatore di bilancio.  
-Art. 214. - Le tasse e soprattasse che gli iscritti sono tenuti a pagare sono cosi' fissate:  
-  
-tassa di ammissione (all'atto della domanda). . . . . . L. 10.000 tassa di immatricolazione . . . . . . . . . . . . . . . " 10.000 tassa di iscrizione (in 4 rate). . . . . . . . . . . . " 90.000 soprattassa esame (in due rate) . . . . . . . . . . . . " 5.000 biblioteca ed esercitazioni (in 3 rate) . . . . . . . . " 148.000 libretto. . . . . . . . . . . . . . . . . . . . . . . . " 1.000 soprattassa esame di diploma. . . . . . . . . . . . . . " 5.000 tassa di ripetizione esame. . . . . . . . . . . . . . . " 2.000 tassa di ripetizione diploma. . . . . . . . . . . . . . " 1.000 tassa fuori corso . . . . . . . . . . . . . . . . . . . " 20.000 contributo pergamena. . . . . . . . . . . . . . . . . . " 2.000 tassa di diploma (erario) . . . . . . . . . . . . . . . " 6.000   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 luglio 1977
+### Dato a Roma, addi' 22 marzo 1968
 
-LEONE MALFATTI
+SARAGAT GUI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 18 ottobre 1977
+Registrato alla Corte dei conti, addi' 24 aprile 1968
 
-Registro n. 116 Istruzione, foglio n. 68
+Atti del Governo, registro n. 219, foglio n. 56. - GRECO

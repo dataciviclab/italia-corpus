@@ -1,128 +1,102 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 908
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 836
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 908
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 836
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' degli studi di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Nell'art. 30 dello statuto dell'Universita' degli studi di Milano, all'elenco delle lauree che conferisce la facolta' di scienze matematiche, fisiche e naturali, e' aggiunta la laurea in "Scienze dell'informazione".  
-Dopo l'art. 52, con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo all'istituzione del corso di laurea in scienze dell'informazione:  
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Laurea in scienze dell'informazione  
-Art. 53. - Durata del corso: quattro anni.  
-Titolo di ammissione: diploma di maturita' classica, di maturita' scientifica, diploma di abilitazione per i provenienti dagli istituti tecnici industriali, nautici, agrari e per geometri.  
-Il corso si distingue in tre indirizzi: indirizzo generale, indirizzo applicativo (gestione), indirizzo tecnico (sistemi per l'elaborazione).  
-A) Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi per il primo biennio:  
-1° Anno:  
-1) fisica I;  
-2) analisi matematica I;  
-3) algebra (semestrale);  
-4) geometria (semestrale);  
-5) teoria ed applicazioni delle macchine calcolatrici.  
-2° Anno:  
-6) fisica II;  
-7) analisi matematica II;  
-8) calcolo numerico (semestrale);  
-9) calcolo delle probabilita' e statistica (semestrale);  
-10) sistemi per l'elaborazione dell'informazione 1;  
-11) ricerca operativa e gestione aziendale.  
-B) Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi per il secondo biennio:  
-12) sistemi per l'elaborazione dell'informazione II;  
-13) teoria dell'informazione e della trasmissione;  
-14) metodi per il trattamento dell'informazione.  
-C) Sono insegnamenti fondamentali obbligatori:  
-a) per l'indirizzo generale:  
-15ª) linguaggi formali e compilatori;  
-16ª) metodi di approssimazione.  
-b) per l'indirizzo applicativo:  
-15b) teoria e metodi dell'ottimizzazione;  
-16b) economia ed organizzazione aziendale (semestrale);  
-17b) trattamento dell'informazione nell'impresa (semestrale).  
-c) per l'indirizzo tecnico:  
-15c) teoria dei sistemi;  
-16c) tecniche numeriche ed analogiche.  
-Insegnamenti complementari commi ai tre indirizzi:  
-1) analisi numerica;  
-2) bioelettronica;  
-3) calcolo delle probabilita';  
-4) cibernetica e teoria dell'informazione;  
-5) complementi di gestione aziendale;  
-6) comunicazioni elettriche;  
-7) controlli automatici;  
-8) controllo dei processi industriali;  
-9) documentazione automatica;  
-10) econometria;  
-11) elaborazione dell'informazione non numerica;  
-12) elaborazione di immagini;  
-13) elaborazione dei testi letterali;  
-14) elettronica;  
-15) fisica numerica;  
-16) fisica superiore;  
-17) istituzioni di fisica teorica;  
-18) istituzioni di analisi superiore;  
-19) istituzioni di fisica matematica;  
-20) linguaggi speciali di programmazione;  
-21) logica matematica;  
-22) macchine calcolatrici analogiche;  
-23) teoria dei modelli;  
-24) progetto di sistemi numerici;  
-25) simulazione;  
-26) statistica;  
-27) tecniche di progettazione automatica;  
-28) tecniche direzionali;  
-29) tecniche speciali di elaborazione;  
-30) teoria degli algoritmi e calcolabilita';  
-31) teoria degli automi;  
-32) teoria dei giochi;  
-33) teoria dei grafi;  
-34) teoria delle decisioni.  
-Alcuni di questi corsi complementari potranno avere la durata semestrale.  
-Ciascuno degli insegnamenti, sia fondamentali che complementari, comporta un esame finale.  
-Ciascun insegnamento fondamentale di un indirizzo puo' essere scelto come insegnamento complementare per altro indirizzo in cui non sia fondamentale.  
-La scelta delle materie complementari da parte dello studente e' sottoposta alla preventiva approvazione della facolta'.  
-Per ottenere l'iscrizione al secondo biennio, lo studente deve aver seguito i corsi e superato gli esami di almeno cinque materie annuali del primo biennio (due corsi semestrali sono valutati come un corso annuale).  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in quattro scelti fra i complementari se a corso semestrale, in almeno tre se uno di essi annuale, o in almeno due se ambedue sono annuali.  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 28. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di "Immunologia clinica".  
+L'art. 38, relativo agli esami di laurea del corso di studi in chimica industriale e' abrogato e sostituito dal seguente:  
+"L'esame di laurea consiste nella discussione di una dissertazione scritta, riguardante ricerche originali su argomenti riferentisi alle discipline del corso di laurea ed eseguite presso uno degli istituti gia' frequentati dallo studente".  
+Art. 47. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto il seguente:  
+  
+Fisiologia cellulare.  
+Art. 54. - All'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti i seguenti:  
+  
+Chimica degli alimenti;  
+Farmacologia clinica;  
+Istituzioni di matematiche;  
+Chimica delle fermentazioni e microbiologia industriale;  
+Complementi di chimica tossicologica;  
+Enzimologia;  
+Microbiologia e igiene;  
+Farmacologia applicata;  
+Zoologia e parassitologia;  
+Prodotti dietetici;  
+Prodotti cosmetici;  
+Microchimica;  
+Inglese scientifico.  
+Dallo stesso elenco sono soppressi i seguenti insegnamenti complementari:  
+  
+Chimica bromatologica;  
+Idrologia;  
+Biologia molecolare;  
+Chimica delle fermentazioni;  
+Chimica macromolecolare;  
+Chimica terapeutica;  
+Farmacodinamica molecolare.  
+Art. 56. - All'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologia farmaceutiche sono aggiunti i seguenti:  
+  
+Prodotti dietetici;  
+Prodotti cosmetici;  
+Farmacologia clinica;  
+Scienza dell'alimentazione;  
+Biologia generale;  
+Biologia molecolare;  
+Chemioterapia;  
+Chimica clinica;  
+Chimica macromolecolare;  
+Complementi di chimica tossicologica;  
+Farmacognosia;  
+Patologia generale;  
+Statistica;  
+Tossicologia;  
+Neurochimica;  
+Immunochimica;  
+Psicobiologia;  
+Chimica dei composti eterociclici;  
+Radiochimica;  
+Radiobiologia;  
+Inglese scientifico;  
+Enzimologia;  
+Farmacologia applicata;  
+Endocrinologia.  
+Nello stesso elenco l'insegnamento di "Chimica delle fermentazioni e microbiologia industriale" e quello di "Microchimica" sono contrassegnati con un asterisco.  
+Dallo stesso elenco sono soppressi i seguenti insegnamenti complementari:  
+  
+Chimica dei prodotti dietetici;  
+Chimica dei prodotti cosmetici.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo, osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1979
+### Dato a Roma, addi' 4 agosto 1971
 
-PERTINI VALITUTTI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 7 maggio 1980
+Registrato alla Corte dei conti, addi' 14 ottobre 1971
 
-Registro n. 40 Istruzione, foglio n. 362
+Atti del Governo, registro n. 244, foglio n. 139. - CARUSO

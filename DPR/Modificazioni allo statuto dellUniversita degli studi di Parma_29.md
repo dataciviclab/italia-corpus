@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1974 n. 522
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1963 n. 2076
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1974 n. 522
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1963 n. 2076
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -12,12 +12,10 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73):  
-  
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -27,58 +25,37 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 52 - all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:  
-  
-Storia dell'arte moderna;  
-Storia dell'arte medioevale;  
-Storia dell'arte contemporanea;  
-Letteratura italiana moderna e contemporanea;  
-Storia della critica d'arte;  
-Psicologia dell'eta' evolutiva.  
-Nello stesso elenco viene soppresso l'insegnamento complementare di "Storia dell'arte medioevale e moderna".  
-  
-Art. 53 - all'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:  
-  
-Storia dell'arte moderna;  
-Storia dell'arte medioevale;  
-Storia dell'arte contemporanea;  
-Letteratura italiana moderna e contemporanea;  
-Storia della critica d'arte;  
-Psicologia dell'eta' evolutiva.  
-Nello stesso elenco viene soppresso l'insegnamento complementare di "Storia dell'arte medioevale e moderna".  
-  
-Art. 54 - all'elenco degli insegnamenti complementari del corso di laurea in lingua e letterature straniere sono aggiunti i seguenti:  
-  
-Storia dell'arte moderna;  
-Storia dell'arte medioevale;  
-Storia dell'arte contemporanea;  
-Letteratura italiana moderna e contemporanea;  
-Storia della critica d'arte;  
-Psicologia dell'eta' evolutiva.  
-Nello stesso elenco viene soppresso l'insegnamento complementare di "Storia dell'arte medioevale e moderna".  
-  
-Art. 61 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
-  
-Medicina nucleare;  
-Cardiologia pediatrica;  
-Auxologia normale e patologica;  
-Epatologia;  
-Medicina sociale;  
-Farmacologia clinica;  
-Chimica e microscopia clinica.  
-  
-L'art. 283, relativo agli esami della scuola di perfezionamento in fisica dello stato solido, e' abrogato e sostituito dal seguente: "Gli esami, fissati in numero di tre per ciascun anno, vengono sostenuti ciascuno su un gruppo di materie, concordato dal candidato col consiglio dei professori della scuola. Per essere ammessi al secondo anno di corso l'allievo dovra' superare almeno due dei predetti esami".  
+Dopo l'art. 199 vengono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Gerontologia e Geriatria, annessa alla Facolta' di medicina e chirurgia.  
+Scuola di specializzazione in Gerontologia e Geriatria  
+Art. 200. - E' istituita la Scuola di specializzazione in Gerontologia e Geriatria.  
+La Scuola e' sottoposta alle regolamentazioni generali fissate dallo statuto delle Scuole di specializzazione annesse alla Facolta' di medicina e chirurgia dell'Universita' degli studi di Parma.  
+Art. 201. - La Scuola ha sede presso l'Istituto di Semeiotica medica.  
+Art. 202. - La Scuola ha la durata di due anni.  
+Art. 203. - Sono ammessi i laureati in Medicina e chirurgia.  
+Art. 204. - L'iscrizione alla Scuola e' limitata per ogni anno accademico a n. 20 allievi.  
+Art. 205. - Le materie di insegnamento sono:  
+Primo anno:  
+1) Semeiologia medica diretta strumentale e funzionale 2) Patologia medica con particolare riguardo alle malattie dell'eta' geriatrica;  
+3) Anatomia ed Istologia patologica;  
+4) Chimica clinica e Batteriologia clinica.  
+Secondo anno:  
+1) Clinica medica e terapia delle malattie dell'eta' geriatrica;  
+2) Patologia e diagnostica delle malattie geriatriche;  
+3) Diagnostica radiologica delle malattie geriatriche.  
+Art. 206. - Gli allievi sono tenuti a seguire le lezioni teoriche, le esercitazioni ed i turni di internato stabiliti dal direttore della Scuola.  
+Alla fine di ogni anno gli allievi che abbiano ottenuto la prescritta attestazione di frequenza, dovranno sostenere un esame di profitto.  
+Alla fine del biennio gli allievi dovranno presentare una dissertazione scritta e sostenere un esame di diploma.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 luglio 1974
+### Dato a Roma, addi' 3 dicembre 1963
 
-LEONE MALFATTI
+SEGNI GUI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 28 ottobre 1974
+Registrato alla Corte dei conti, addi' 22 gennaio 1964
 
-Atti di Governo, registro n. 6, foglio n. 68. - SCIARRETTA
+Atti del Governo, registro n. 179, foglio n. 126. - VILLA

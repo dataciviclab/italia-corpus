@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1980 n. 955
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1979 n. 417
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1980 n. 955
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1979 n. 417
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Pavia approvato con [regio decreto 14 ottobre 1926 n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229) e successive modificazioni;
+Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,96 +18,212 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
---------
 
 Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+L'art. 134, relativo alla scuola di specializzazione in psichiatria, e' soppresso e sostituito dal seguente:
+
+Scuola di specializzazione in psichiatria
+
+Art. 134. - La scuola di specializzazione in psichiatria ha sede presso la clinica psichiatrica e conferisce il diploma di specialista in psichiatria.
+
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
+
+Il numero massimo degli allievi e' di quindici per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+1) metodologia del rapporto medico-paziente (annuale);
+
+2) psicologia (annuale);
+
+3) elementi di genetica e biochimica (annuale);
+
+4) struttura e funzioni integrative del SNC (annuale);
+
+5) neurologia clinica (annuale);
+
+6) clinica psichiatrica I (quadriennale).
+
+2° Anno:
+
+1) psicopatologia e psicodinamica (annuale);
+
+2) psicoterapia I (triennale);
+
+3) psicofarmacologia (annuale);
+
+4) psicofarmacoterapia (annuale);
+
+5) clinica psichiatrica II (quadriennale).
+
+3° Anno:
+
+1) psicodiagnostica ed informatica psichiatrica (annuale);
+
+2) psichiatria sociale I (biennale);
+
+3) psichiatria infantile (annuale);
+
+4) psicoterapia II (triennale);
+
+5) clinica psichiatrica III (quadriennale).
+
+4° Anno:
+
+1) psicosomatica (annuale);
+
+2) psichiatria sociale II (triennale);
+
+3) psichiatria forense (annuale);
+
+4) psicoterapia III (triennale);
+
+5) clinica psichiatrica IV (quadriennale).
+
+Note esplicative.
+
+1) Strutture e funzioni integrative del SNC: tale materia, annuale, e' comprensiva della anatomofisiologia del SNC e della psicofisiologia.
+
+2) Neurologia clinica: tale insegnamento, annuale, deve essere comprensivo, eventualmente con sottodivisioni, di cenni di anatomia patologica del SNC, di semeiologia neurologica, clinica e strumentale, di neuroradiologia.
+
+3) Clinica psichiatrica: tale materia, quadriennale, e' comprensiva anche degli elementi di semeiotica psichiatrica, delle tecniche laboratoristiche, delle terapie biologiche.
+
+4) Psicoterapia: tale materia, triennale, comprende e considera nel corso dei tre anni, le tecniche e i principi fondamentali delle principali psicoterapie individuali, direttive e non direttive, i principi fondamentali e le dinamiche delle piu' importanti psicoterapie di gruppo, delle prassi psicoterapiche, socioterapiche e delle sociodinamiche delle istituzioni psichiatriche.
+
+5) Psicodiagnostica ed informatica psichiatrica: tale materia, annuale, e' comprensiva di cenni di statistica, dei reattivi mentali e psicodiagnostica strumentale e di metodologia della ricerca psichiatrica.
+
+6) Psichiatria sociale: tale materia, biennale, con molte possibilita' di suddivisioni, e' comprensiva di elementi di sociologia, di antropologia culturale, di etologia, di ecologia psichiatrica, di epidemiologia psichiatrica, di psichiatria transculturale, di psichiatria preventiva e di igiene mentale, prassi ed organizzazione di assistenza psichiatrica sul territorio extra istituzionale.
+
+7) Psicosomatica: tale materia, annuale, e' comprensiva degli aspetti psichici delle malattie somatiche della cosiddetta medicina integrata, della endocrinologia in riferimento alla psichiatria delle cosiddette specifiche malattie psicosomatiche.
+
+E' obbligatoria la frequenza per undici mesi all'anno; tale periodo comprende sia la frequenza alle lezioni, sia l'esercitazione pratica nei reparti di degenza e nelle strutture ambulatoriali a disposizione della scuola.
+
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove d'esame.
+
+La scuola programma lo svolgimento dei corsi di insegnamento.
+
+Per il passaggio agli anni successivi e' obbligatorio il superamento degli esami per ogni singolo anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Le lezioni teoriche sono integrate da seminari anche interdisciplinari, da documentazioni cliniche e da esperienze effettuate nei vari settori della disciplina.
+
+Alla fine dei quattro anni gli allievi che hanno frequentato i corsi saranno ammessi all'esame di diploma, consistente nella presentazione e discussione di una tesi scritta di argomento pertinente alla psichiatria, in una prova orale e in una prova pratica.
+
+Agli allievi che hanno ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specializzazione in psichiatria valido a tutti gli effetti di legge.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 17 maggio 1979
+
+PERTINI
+
+SPADOLINI
+
+Visto, il Guardasigilli: MORLINO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 23 agosto 1979 Registro n. 65 Istruzione, foglio n. 46
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-L'art. 52, relativo al corso di laurea in lettere, e' modificato nel senso che all'elenco degli insegnamenti complementari sono aggiunti i seguenti:  
-storia delle tecniche artistiche;  
-storia dell'arte contemporanea.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
-L'art. 59, relativo al corso di laurea in medicina e chirurgia, e' modificato nel senso che all'elenco degli insegnamenti complementari sono aggiunti i seguenti:  
-neurochirurgia infantile;  
-istituzioni di matematica (biomatematica);  
-malattie metaboliche del bambino;  
-radioterapia;  
-cardiologia pediatrica;  
-nefrologia pediatrica.  
-
-Art. 3
-------
-
+Decreta:  
   
-Dopo l'art. 429 (ex 300), e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla istituzione della scuola di perfezionamento in istochimica e citochimica, annessa alla facolta' di scienze matematiche, fisiche e naturali.  
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+L'art. 134, relativo alla scuola di specializzazione in psichiatria, e' soppresso e sostituito dal seguente:  
   
-Scuola di perfezionamento in istochimica e citochimica  
-Art. 430. - La scuola di perfezionamento in istochimica e citochimica presso la facolta' di scienze matematiche, fisiche e naturali ha lo scopo di fornire ai giovani laureati la preparazione teorica e pratica necessarie per compiere ricerche istochimiche in laboratori universitari, industriali, ospedalieri e rilascia il diploma di perfezionamento in istochimica. Il corso di studi ha durata di due anni. Non sono previste abbreviazioni.  
-Art. 431. - E' direttore della scuola un professore ordinario o straordinario delle discipline isto e morfologiche della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Pavia.  
-Il funzionamento della scuola e' affidato ad un consiglio direttivo formato dal direttore e da altri due membri, i quali sono nominati ogni quadriennio dalla facolta'.  
-I docenti per singoli corsi verranno scelti su proposta del consiglio direttivo, tra i professori ufficiali o gli assistenti o anche tra persone italiane o straniere, non appartenenti alla facolta', ma di riconosciuta e documentata competenza specifica. Tale scelta verra' operata dalla facolta' in conformita' alle norme vigenti.  
-Art. 432. - Alla scuola di perfezionamento sono ammessi i laureati in:  
-scienze biologiche;  
-scienze naturali;  
-medicina e chirurgia;  
-medicina veterinaria;  
-scienze della produzione animale;  
-chimica;  
-chimica e tecnologie farmaceutiche;  
-farmacia;  
-fisica.  
-Art. 433. - Gli insegnamenti impartiti dalla scuola nei due anni sono i seguenti:  
+Scuola di specializzazione in psichiatria  
+Art. 134. - La scuola di specializzazione in psichiatria ha sede presso la clinica psichiatrica e conferisce il diploma di specialista in psichiatria.  
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.  
+Il numero massimo degli allievi e' di quindici per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami.  
+Le materie di insegnamento sono le seguenti:  
 1° Anno:  
-1) biologia e fisiologia cellulare;  
-2) istituzioni di istochimica e di istofisica;  
-3) tecnica e diagnostica istochimica e citochimica;  
-4) citochimica ultrastrutturale;  
-5) tecniche biochimiche applicate all'analisi morfologica;  
-6) cinetica cellulare.  
+1) metodologia del rapporto medico-paziente (annuale);  
+2) psicologia (annuale);  
+3) elementi di genetica e biochimica (annuale);  
+4) struttura e funzioni integrative del SNC (annuale);  
+5) neurologia clinica (annuale);  
+6) clinica psichiatrica I (quadriennale).  
 2° Anno:  
-1) citochimica quantitativa;  
-2) enzimoistochimica;  
-3) immunoistochimica;  
-4) istochimica patologica.  
-Alla fine di ogni anno gli iscritti dovranno sostenere un esame vertente sugli insegnamenti impartiti dalla scuola in quell'anno, di fronte ad una commissione formata dai professori incaricati dei corsi e presieduta dal direttore della scuola.  
-Per ottenere il diploma di perfezionamento i candidati dopo aver sostenuto i suddetti esami, dovranno anche discutere una dissertazione scritta di carattere sperimentale originale, preparata durante il periodo di perfezionamento. La discussione verra' sostenuta davanti ad una commissione di tre membri tra i quali un relatore e un correlatore, nominati dal consiglio direttivo, il correlatore sara' un esperto nel soggetto particolare della dissertazione, italiano o straniero, al quale verra' inviata la dissertazione almeno trenta giorni prima della discussione.  
-Art 434 - Gli iscritti alla scuola di perfezionamento sono tenuti a pagare le medesime tasse e soprattasse che le vigenti disposizioni di legge stabiliscono per gli studenti della facolta', oltre ad una tassa di diploma di L. 6.000. La misura dei contributi speciali (comprensivi della tassa per la preparazione della dissertazione scritta a carattere sperimentale, ecc.) e' fissata annualmente dal consiglio di amministrazione su proposta del senato accademico, udita la facolta' di scienze matematiche, fisiche e naturali e il consiglio della scuola.  
-
-Art. 4
-------
-
-  
-Dopo l'art. 81, relativo al corso di laurea in farmacia 3 con lo spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo, relativo alle modalita' d'esame.  
-Art. 81. - L'insegnamento biennale di fisiologia generale (biennale) comporta un esame alla fine di ogni anno.  
+1) psicopatologia e psicodinamica (annuale);  
+2) psicoterapia I (triennale);  
+3) psicofarmacologia (annuale);  
+4) psicofarmacoterapia (annuale);  
+5) clinica psichiatrica II (quadriennale).  
+3° Anno:  
+1) psicodiagnostica ed informatica psichiatrica (annuale);  
+2) psichiatria sociale I (biennale);  
+3) psichiatria infantile (annuale);  
+4) psicoterapia II (triennale);  
+5) clinica psichiatrica III (quadriennale).  
+4° Anno:  
+1) psicosomatica (annuale);  
+2) psichiatria sociale II (triennale);  
+3) psichiatria forense (annuale);  
+4) psicoterapia III (triennale);  
+5) clinica psichiatrica IV (quadriennale).  
+Note esplicative.  
+1) Strutture e funzioni integrative del SNC: tale materia, annuale, e' comprensiva della anatomofisiologia del SNC e della psicofisiologia.  
+2) Neurologia clinica: tale insegnamento, annuale, deve essere comprensivo, eventualmente con sottodivisioni, di cenni di anatomia patologica del SNC, di semeiologia neurologica, clinica e strumentale, di neuroradiologia.  
+3) Clinica psichiatrica: tale materia, quadriennale, e' comprensiva anche degli elementi di semeiotica psichiatrica, delle tecniche laboratoristiche, delle terapie biologiche.  
+4) Psicoterapia: tale materia, triennale, comprende e considera nel corso dei tre anni, le tecniche e i principi fondamentali delle principali psicoterapie individuali, direttive e non direttive, i principi fondamentali e le dinamiche delle piu' importanti psicoterapie di gruppo, delle prassi psicoterapiche, socioterapiche e delle sociodinamiche delle istituzioni psichiatriche.  
+5) Psicodiagnostica ed informatica psichiatrica: tale materia, annuale, e' comprensiva di cenni di statistica, dei reattivi mentali e psicodiagnostica strumentale e di metodologia della ricerca psichiatrica.  
+6) Psichiatria sociale: tale materia, biennale, con molte possibilita' di suddivisioni, e' comprensiva di elementi di sociologia, di antropologia culturale, di etologia, di ecologia psichiatrica, di epidemiologia psichiatrica, di psichiatria transculturale, di psichiatria preventiva e di igiene mentale, prassi ed organizzazione di assistenza psichiatrica sul territorio extra istituzionale.  
+7) Psicosomatica: tale materia, annuale, e' comprensiva degli aspetti psichici delle malattie somatiche della cosiddetta medicina integrata, della endocrinologia in riferimento alla psichiatria delle cosiddette specifiche malattie psicosomatiche.  
+E' obbligatoria la frequenza per undici mesi all'anno; tale periodo comprende sia la frequenza alle lezioni, sia l'esercitazione pratica nei reparti di degenza e nelle strutture ambulatoriali a disposizione della scuola.  
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove d'esame.  
+La scuola programma lo svolgimento dei corsi di insegnamento.  
+Per il passaggio agli anni successivi e' obbligatorio il superamento degli esami per ogni singolo anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.  
+Le lezioni teoriche sono integrate da seminari anche interdisciplinari, da documentazioni cliniche e da esperienze effettuate nei vari settori della disciplina.  
+Alla fine dei quattro anni gli allievi che hanno frequentato i corsi saranno ammessi all'esame di diploma, consistente nella presentazione e discussione di una tesi scritta di argomento pertinente alla psichiatria, in una prova orale e in una prova pratica.  
+Agli allievi che hanno ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specializzazione in psichiatria valido a tutti gli effetti di legge.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1980
+### Dato a Roma, addi' 17 maggio 1979
 
-PERTINI BODRATO
+PERTINI SPADOLINI
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 30 dicembre 1980
+Registrato alla Corte dei conti, addi' 23 agosto 1979
 
-Registro n. 122 Istruzione, foglio n. 29
+Registro n. 65 Istruzione, foglio n. 46

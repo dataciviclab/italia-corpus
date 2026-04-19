@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1964 n. 1044
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1964 n. 1555
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1964 n. 1044
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1964 n. 1555
+================================================================
 
 Autorizzazione all'Unione italiana dei ciechi ad accettare una eredita'.
 ------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-1044. Decreto del Presidente della Repubblica 14 agosto 1964, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi viene autorizzata ad accettare, col beneficio d'inventario, la quota di eredita' disposta dalla defunta signora Anna Gaerber vedova Pritzi, con testamento olografo del 26 giugno 1958 e le relative due aggiunte del 25 aprile 1960 e del 7 luglio 1961, pubblicati per atto a rogito dott. Pietro Longi in data 29 luglio 1961, n. 35659 di rep. e al n. 8055 di raccolta.  
+188. Decreto del Presidente della Repubblica 25 novembre 1964, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi viene autorizzata ad accettare, col beneficio di inventario, l'eredita' disposta dalla defunta signorina Annita Ester Redini con testamento pubblico per atto a rogito dott. Umberto Mario Olampi, notaio in Cascina (Pisa), in data 30 novembre 1959, rep. U.V. n. 84 - allegato al relativo verbale di pubblicazione per atto a rogito dello stesso notaio dott. Ciampi, in data 9 febbraio 1960, rep. n. 37755, fase n. 939 - a favore della "Sezione o reparto o nucleo del comune di Pisa dell'Unione italiana ciechi". L'eredita' in parola, su cui gravano le limitazioni indicate nel suddetto testamento pubblico, risulta costituita da beni mobili per un valore complessivo di L. 458.450, da un utile netto di rendiconto di L. 1.154.616, e da beni.  
+Immobili valutati per complessive L. 13.815.000.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 12 ottobre 1964  
-Atti del Governo, registro n. 187, foglio n. 109. - VILLA
+Registrato alla Corte dei conti, addi' 23 gennaio 1965  
+Atti del Governo, registro n. 190, foglio n. 55. - VILLA

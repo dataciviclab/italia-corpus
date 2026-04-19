@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1949 n. 199
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1949 n. 1007
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1949 n. 199
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1949 n. 1007
+================================================================
 
 Autorizzazione all'Universita' di Roma ad accettare una donazione.
 ------------------------------------------------------------------
@@ -12,7 +12,7 @@ Art. 1
 
 N.
 
-199. Decreto del Presidente della Repubblica 18 marzo 1949, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Roma viene autorizzata ad accettare la donazione della somma di L. 40.000 nominali, in titoli di Rendita 5% al portatore, disposta in suo favore dalla signorina Emma Ponce de Leon, con atto pubblico in data 3 giugno 1948, per l'istituzione di un premio da denominarsi "Premio di studio triennale Giuseppe Pouce de Leon" e da conferirsi ad un assistente, di ruolo o volontario dell'Istituito di topografia e geodesia della Facolta' di ingegneria in Roma, il quale abbia svolto, nell'ultimo triennio, il miglior lavoro di topografia.  
+1007. Decreto del Presidente della Repubblica 4 novembre 1949, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Roma viene autorizzata ad accettare la donazione della biblioteca tecnica e dei manoscritti del defunto prof. ing.Luciano Conti, disposta in suo favore dagli eredi legittimi del "de cujus", con atti Pubblici amministrativi in data 7 marzo 1946 e 28 dicembre 1948.  
   
 Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 2 maggio 1949
+Registrato alla Corte dei conti, addi' 9 gennaio 1950

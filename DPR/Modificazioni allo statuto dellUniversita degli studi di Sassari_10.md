@@ -1,323 +1,23 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1970 n. 871
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 agosto 1963 n. 1375
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1970 n. 871
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 agosto 1963 n. 1375
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Sassari.
 -------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, numero 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084) e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 15. - E' abrogato e sostituito dal seguente:
-
-"La facolta' di giurisprudenza conferisce le lauree in giurisprudenza ed in scienze politiche, dopo un corso di studi della durata di anni quattro.
-
-E' titolo di ammissione quello previsto dalle vigenti disposizioni di legge".
-
-Dopo l'art. 16, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla istituzione del corso di laurea in scienze politiche.
-
-Corso di laurea in scienze politiche
-
-Art. 17. - Il corso di studi comprende un biennio propedeutico ed un biennio di specializzazione ordinato secondo tre indirizzi: storico-politico, politico-economico e politico-amministrativo.
-
-Il biennio propedeutico comprende i seguenti insegnamenti obbligatori:
-
-1) Istituzioni di diritto pubblico;
-
-2) Diritto costituzionale italiano e comparato;
-
-3) Economia politica;
-
-4) Statistica;
-
-5) Sociologia;
-
-6) Storia moderna;
-
-7) Istituzioni di diritto privato;
-
-8) Politica economica e finanziaria;
-
-9) Storia delle dottrine politiche.
-
-Art. 18. - Il biennio di specializzazione comprende, per ciascun indirizzo, i seguenti insegnamenti obbligatori:
-
-a) Indirizzo storico-politico:
-
-1) Storia contemporanea;
-
-2) Storia economica;
-
-3) Storia dei trattati e politica internazionale;
-
-4) Storia dei partiti e movimenti politici.
-
-b) Indirizzo politico-economico:
-
-1) Economia politica II;
-
-2) Politica economica e finanziaria II;
-
-3) Storia delle dottrine economiche;
-
-4) Scienza delle finanze.
-
-c) Indirizzo politico-amministrativo:
-
-1) Diritto internazionale;
-
-2) Diritto delle comunita' europee;
-
-3) Diritto amministrativo I;
-
-4) Diritto amministrativo II.
-
-Per ciascuno degli indirizzi prescelti la facolta' predisporra', all'inizio di ogni anno accademico, un elenco di non meno di otto e di non piu' di undici insegnamenti annuali. Lo studente dovra' seguire i corsi e sostenere gli esami relativi ad almeno sei insegnamenti compresi nell'elenco dell'indirizzo prescelto. Gli elenchi saranno predisposti dalla facolta' nell'ambito delle seguenti materie:
-
-1) Dottrina dello Stato;
-
-2) Filosofia del diritto;
-
-3) Filosofia della politica;
-
-4) Metodologia della ricerca storica;
-
-5) Sociologia politica;
-
-6) Storia del movimento operaio;
-
-7) Storia dei rapporti fra Stato e Chiesa;
-
-8) Storia del diritto italiano;
-
-9) Storia dell'amministrazione pubblica;
-
-10) Storia delle dottrine economiche;
-
-11) Storia del Risorgimento;
-
-12) Storia delle codificazioni e delle costituzioni contemporanee;
-
-13) Storia delle istituzioni giuridiche ed economiche della Sardegna;
-
-14) Storia americana;
-
-15) Storia dell'Europa orientale;
-
-16) Storia della filosofia;
-
-17) Diritto del lavoro;
-
-18) Diritto pubblico dell'economia;
-
-19) Diritto tributario;
-
-20) Economia aziendale;
-
-21) Economia internazionale;
-
-22) Economia e politica monetaria;
-
-23) Economia e politica agraria;
-
-24) Economia e politica industriale;
-
-25) Sociologia economica;
-
-26) Geografia politica ed economica;
-
-27) Matematica per economisti;
-
-28) Econometria;
-
-29) Organizzazione economica internazionale;
-
-30) Programmazione economica;
-
-31) Istituzioni di diritto e procedura penale;
-
-32) Diritto costituzionale regionale;
-
-33) Diritto pubblico comparato;
-
-34) Organizzazione internazionale;
-
-35) Contabilita' dello Stato e degli enti pubblici;
-
-36) Diritto diplomatico e consolare;
-
-37) Diritto commerciale;
-
-38) Scienza dell'amministrazione;
-
-39) Diritto degli enti locali;
-
-40) Diritto internazionale privato;
-
-41) Sociologia giuridica;
-
-42) Diritto parlamentare;
-
-43) Storia dei trattati e politica internazionale;
-
-44) Storia dei partiti e movimenti politici;
-
-45) Storia economica;
-
-46) Antropologia culturale;
-
-47) Sociologia urbana e rurale;
-
-48) Sociologia industriale;
-
-49) Storia contemporanea;
-
-50) Diritto delle comunita' europee;
-
-51) Storia delle istituzioni politiche.
-
-Art. 19. - Lo studente potra' aggiungere ai nove insegnamenti del biennio propedeutico non piu' di tre insegnamenti obbligatori del biennio di specializzazione indicati nel precedente art. 18, a seconda dell'indirizzo prescelto. Tali insegnamenti anticipati al biennio propedeutico vanno in detrazione dal numero degli insegnamenti del biennio di specializzazione.
-
-Alcuni insegnamenti possono essere mutuati da quelli impartiti in altre facolta' e corsi di laurea.
-
-Art. 20. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superati gli esami relativi ad almeno 19 (diciannove) corsi annuali ed inoltre quelli relativi ad almeno due lingue straniere.
-
-Qualora la facolta' istituisca corsi semestrali o trimestrali, la facolta' stabilira' l'equivalenza fra corsi frazionali e corsi annuali. Gli insegnamenti biennali vengono computati come due insegnamenti annuali.
-
-Per tutti gli indirizzi predetti, una delle lingue straniere prescelte dovra' essere il francese o l'inglese.
-
-Per l'altra lingua la scelta potra' cadere tra quelle effettivamente insegnate nell'ateneo.
-
-Superato l'esame di laurea, lo studente consegue il titolo di dottore in scienze politiche con l'indicazione dell'indirizzo prescelto.
-
-Art. 21. - Per i laureati in facolta' o corsi di laurea diversi da quelli di scienze politiche, la facolta' deliberera', caso per caso, l'anno di corso a cui potranno essere iscritti, il numero minimo degli insegnamenti che dovranno seguire sostenendo il relativo esame, e quali tra essi saranno obbligatori, tenuto conto degli studi compiuti e dell'indirizzo prescelto.
-
-Analoga deliberazione verra' presa dalla facolta' per il passaggio, a richiesta dello studente, dall'uno all'altro indirizzo.
-
-Art. 56. - E' abrogato e sostituito dal seguente: "La facolta' di scienze matematiche, fisiche e naturali conferisce le lauree in scienze naturali e in scienze biologiche, dopo un corso di studi della durata di anni quattro.
-
-E' titolo di ammissione quello previsto dalle vigenti disposizioni di legge".
-
-Dopo l'art. 56, e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo, relativo all'ordinamento del corso di studi per il conseguimento della laurea in scienze naturali.
-
-Corso di laurea in scienze naturali
-
-Art. 57. - Sono insegnamenti fondamentali:
-
-1) Istituzioni di matematiche;
-
-2) Fisica;
-
-3) Chimica generale ed inorganica;
-
-4) Chimica organica;
-
-5) Botanica (biennale);
-
-6) Zoologia (biennale);
-
-7) Mineralogia;
-
-8) Geologia;
-
-9) Geografia;
-
-10) Anatomia comparata;
-
-11) Anatomia umana;
-
-12) Fisiologia generale (biennale).
-
-Sono insegnamenti complementari:
-
-1) Chimica fisica;
-
-2) Biologia generale;
-
-3) Istologia ed embriologia;
-
-4) Chimica biologica;
-
-5) Antropologia;
-
-6) Paleontologia;
-
-7) Idrobiologia e pescicoltura;
-
-8) Entomologia agraria;
-
-9) Fisiologia vegetale;
-
-10) Genetica;
-
-11) Geografia fisica;
-
-12) Patologia vegetale;
-
-13) Geochimica;
-
-14) Oceanografia;
-
-15) Igiene;
-
-16) Statistica;
-
-17) Scienza dell'alimentazione;
-
-18) Paleontologia umana;
-
-19) Geologia applicata.
-
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 14 ottobre 1970
-
-SARAGAT MISASI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 18 novembre 1970 Atti del Governo, registro n. 238, foglio n. 88. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, numero 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084) e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084), e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -325,148 +25,64 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 15. - E' abrogato e sostituito dal seguente:  
-"La facolta' di giurisprudenza conferisce le lauree in giurisprudenza ed in scienze politiche, dopo un corso di studi della durata di anni quattro.  
-E' titolo di ammissione quello previsto dalle vigenti disposizioni di legge".  
-Dopo l'art. 16, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla istituzione del corso di laurea in scienze politiche.  
-Corso di laurea in scienze politiche  
-Art. 17. - Il corso di studi comprende un biennio propedeutico ed un biennio di specializzazione ordinato secondo tre indirizzi: storico-politico, politico-economico e politico-amministrativo.  
-Il biennio propedeutico comprende i seguenti insegnamenti obbligatori:  
-1) Istituzioni di diritto pubblico;  
-2) Diritto costituzionale italiano e comparato;  
-3) Economia politica;  
-4) Statistica;  
-5) Sociologia;  
-6) Storia moderna;  
-7) Istituzioni di diritto privato;  
-8) Politica economica e finanziaria;  
-9) Storia delle dottrine politiche.  
-Art. 18. - Il biennio di specializzazione comprende, per ciascun indirizzo, i seguenti insegnamenti obbligatori:  
-a) Indirizzo storico-politico:  
-1) Storia contemporanea;  
-2) Storia economica;  
-3) Storia dei trattati e politica internazionale;  
-4) Storia dei partiti e movimenti politici.  
-b) Indirizzo politico-economico:  
-1) Economia politica II;  
-2) Politica economica e finanziaria II;  
-3) Storia delle dottrine economiche;  
-4) Scienza delle finanze.  
-c) Indirizzo politico-amministrativo:  
-1) Diritto internazionale;  
-2) Diritto delle comunita' europee;  
-3) Diritto amministrativo I;  
-4) Diritto amministrativo II.  
-Per ciascuno degli indirizzi prescelti la facolta' predisporra', all'inizio di ogni anno accademico, un elenco di non meno di otto e di non piu' di undici insegnamenti annuali. Lo studente dovra' seguire i corsi e sostenere gli esami relativi ad almeno sei insegnamenti compresi nell'elenco dell'indirizzo prescelto. Gli elenchi saranno predisposti dalla facolta' nell'ambito delle seguenti materie:  
-1) Dottrina dello Stato;  
-2) Filosofia del diritto;  
-3) Filosofia della politica;  
-4) Metodologia della ricerca storica;  
-5) Sociologia politica;  
-6) Storia del movimento operaio;  
-7) Storia dei rapporti fra Stato e Chiesa;  
-8) Storia del diritto italiano;  
-9) Storia dell'amministrazione pubblica;  
-10) Storia delle dottrine economiche;  
-11) Storia del Risorgimento;  
-12) Storia delle codificazioni e delle costituzioni contemporanee;  
-13) Storia delle istituzioni giuridiche ed economiche della Sardegna;  
-14) Storia americana;  
-15) Storia dell'Europa orientale;  
-16) Storia della filosofia;  
-17) Diritto del lavoro;  
-18) Diritto pubblico dell'economia;  
-19) Diritto tributario;  
-20) Economia aziendale;  
-21) Economia internazionale;  
-22) Economia e politica monetaria;  
-23) Economia e politica agraria;  
-24) Economia e politica industriale;  
-25) Sociologia economica;  
-26) Geografia politica ed economica;  
-27) Matematica per economisti;  
-28) Econometria;  
-29) Organizzazione economica internazionale;  
-30) Programmazione economica;  
-31) Istituzioni di diritto e procedura penale;  
-32) Diritto costituzionale regionale;  
-33) Diritto pubblico comparato;  
-34) Organizzazione internazionale;  
-35) Contabilita' dello Stato e degli enti pubblici;  
-36) Diritto diplomatico e consolare;  
-37) Diritto commerciale;  
-38) Scienza dell'amministrazione;  
-39) Diritto degli enti locali;  
-40) Diritto internazionale privato;  
-41) Sociologia giuridica;  
-42) Diritto parlamentare;  
-43) Storia dei trattati e politica internazionale;  
-44) Storia dei partiti e movimenti politici;  
-45) Storia economica;  
-46) Antropologia culturale;  
-47) Sociologia urbana e rurale;  
-48) Sociologia industriale;  
-49) Storia contemporanea;  
-50) Diritto delle comunita' europee;  
-51) Storia delle istituzioni politiche.  
-Art. 19. - Lo studente potra' aggiungere ai nove insegnamenti del biennio propedeutico non piu' di tre insegnamenti obbligatori del biennio di specializzazione indicati nel precedente art. 18, a seconda dell'indirizzo prescelto. Tali insegnamenti anticipati al biennio propedeutico vanno in detrazione dal numero degli insegnamenti del biennio di specializzazione.  
-Alcuni insegnamenti possono essere mutuati da quelli impartiti in altre facolta' e corsi di laurea.  
-Art. 20. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superati gli esami relativi ad almeno 19 (diciannove) corsi annuali ed inoltre quelli relativi ad almeno due lingue straniere.  
-Qualora la facolta' istituisca corsi semestrali o trimestrali, la facolta' stabilira' l'equivalenza fra corsi frazionali e corsi annuali. Gli insegnamenti biennali vengono computati come due insegnamenti annuali.  
-Per tutti gli indirizzi predetti, una delle lingue straniere prescelte dovra' essere il francese o l'inglese.  
-Per l'altra lingua la scelta potra' cadere tra quelle effettivamente insegnate nell'ateneo.  
-Superato l'esame di laurea, lo studente consegue il titolo di dottore in scienze politiche con l'indicazione dell'indirizzo prescelto.  
-Art. 21. - Per i laureati in facolta' o corsi di laurea diversi da quelli di scienze politiche, la facolta' deliberera', caso per caso, l'anno di corso a cui potranno essere iscritti, il numero minimo degli insegnamenti che dovranno seguire sostenendo il relativo esame, e quali tra essi saranno obbligatori, tenuto conto degli studi compiuti e dell'indirizzo prescelto.  
-Analoga deliberazione verra' presa dalla facolta' per il passaggio, a richiesta dello studente, dall'uno all'altro indirizzo.  
-Art. 56. - E' abrogato e sostituito dal seguente: "La facolta' di scienze matematiche, fisiche e naturali conferisce le lauree in scienze naturali e in scienze biologiche, dopo un corso di studi della durata di anni quattro.  
-E' titolo di ammissione quello previsto dalle vigenti disposizioni di legge".  
-Dopo l'art. 56, e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo, relativo all'ordinamento del corso di studi per il conseguimento della laurea in scienze naturali.  
-Corso di laurea in scienze naturali  
-Art. 57. - Sono insegnamenti fondamentali:  
-1) Istituzioni di matematiche;  
-2) Fisica;  
-3) Chimica generale ed inorganica;  
-4) Chimica organica;  
-5) Botanica (biennale);  
-6) Zoologia (biennale);  
-7) Mineralogia;  
-8) Geologia;  
-9) Geografia;  
-10) Anatomia comparata;  
-11) Anatomia umana;  
-12) Fisiologia generale (biennale).  
-Sono insegnamenti complementari:  
-1) Chimica fisica;  
-2) Biologia generale;  
-3) Istologia ed embriologia;  
-4) Chimica biologica;  
-5) Antropologia;  
-6) Paleontologia;  
-7) Idrobiologia e pescicoltura;  
-8) Entomologia agraria;  
-9) Fisiologia vegetale;  
-10) Genetica;  
-11) Geografia fisica;  
-12) Patologia vegetale;  
-13) Geochimica;  
-14) Oceanografia;  
-15) Igiene;  
-16) Statistica;  
-17) Scienza dell'alimentazione;  
-18) Paleontologia umana;  
-19) Geologia applicata.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari.  
+  
+Art. 40. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti quelli di:  
+12) Ecologia;  
+13) Agricoltura tropicale e subtropicale;  
+14) Fitoiatria;  
+15) Miglioramento genetico delle piante agrarie;  
+16) Tecnica commerciale dei prodotti agricoli.  
+Dopo l'art. 54, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di perfezionamento in legislazione regionale annessa alla Facolta' di giurisprudenza.  
+  
+Scuola di perfezionamento in legislazione regionale  
+  
+Art. 55. - La Scuola di perfezionamento in Legislazione regionale annessa alla Facolta' di giurisprudenza, ha lo scopo di preparare gli allievi nelle materie che interessano l'autonomia regionale, con particolare riguardo all'organizzazione, con Statuto speciale, della Regione autonoma della Sardegna.  
+Art. 56. - Il corso di studi e' diviso in due anni; a studi compiuti verra' rilasciato un diploma. E' ammessa l'iscrizione fuori corso per un massimo complessivo di due anni.  
+Art. 57. - L'insegnamento e' impartito da docenti nominati dal rettore, su proposta della Facolta' di giurisprudenza, secondo il vigente ordinamento universitario.  
+La Scuola e' retta da un direttore coadiuvato da un Consiglio composto da quattro professori ufficiali della Facolta' di giurisprudenza che hanno insegnamento nella Scuola.  
+Il direttore e il Consiglio della Scuola sono nominati dal rettore su designazione della Facolta' di giurisprudenza, durano in carica un biennio e possono essere confermati.  
+Art. 58. - L'Universita' di Sassari amministra la Scuola tramite il proprio Consiglio di amministrazione.  
+Essa altresi' provvede al funzionamento della Scuola con i propri servizi di Segreteria, Economato e Cassa, ai locali occorrenti ed al personale subalterno.  
+Art. 59. - Sono ammessi alla Scuola i laureati in Giurisprudenza, in Scienze politiche, in Economia e commercio ed in Scienze statistiche, demografiche ed attuariali. Il Consiglio della Scuola determina per ciascun anno un numero massimo di iscritti; ove le domande superino tale numero ha facolta' di far sostenere un concorso per titoli o per esami scritti ed orali.  
+Art. 60. - Le materie di insegnamento della Scuola sono:  
+1° Anno:  
+a) Diritto costituzionale regionale;  
+b) Diritto amministrativo regionale;  
+c) Diritto pubblico comparato;  
+d) Storia delle Istituzioni giuridiche ed economiche della Sardegna;  
+e) Politica economica con particolare riguardo ai problemi dello sviluppo economico regionale;  
+f) Legislazione regionale.  
+2° Anno:  
+g) Finanza locale;  
+h) Contabilita' dello Stato e degli Enti locali;  
+i) Diritto agrario e legislazione agraria regionale;  
+l) Economia e politica agraria;  
+m) Demografia e statistica economica applicata ai problemi sardi;  
+n) Diritto processuale costituzionale e amministrativo.  
+Art. 61. - Lo studente non potra' essere ammesso al secondo anno se non avra' superato gli esami di:  
+a) Diritto costituzionale regionale;  
+b) Diritto amministrativo regionale;  
+c) Politica economia con particolare riguardo ai problemi dello sviluppo economico regionale.  
+Art. 62. - Gli esami saranno compiuti in due sessioni: la prova fallita in quella di giugno potra' essere superata in quella di ottobre.  
+Nessun esame sostenuto nel corso di laurea, della quale l'allievo e' fornito, potra' essere convalidato; cosi' pure non sara' ammessa nessuna abbreviazione di corso.  
+Art. 63. - Superati tutti gli esami, gli allievi saranno ammessi a sostenere l'esame finale di diploma, il quale consistera':  
+a) in due prove scritte, la prima in Diritto pubblico e la seconda in materie economiche;  
+b) in un esame orale consistente in un colloquio su due argomenti nelle suddette materie, scelti dalla Commissione, per la preparazione dei quali saranno concesse al candidato quarantotto ore di tempo.  
+Art. 64. - Le Commissioni di esame saranno composte da tre professori; quelle di diploma da almeno cinque professori. Negli esami speciali e di diploma, ciascun commissario dispone di dieci punti ed il voto sara' composto dalla somma di questi.  
+Il candidato avra' superato l'esame quando avra' riportato almeno i 6/10 dei voti.  
+Art. 65. - Le tasse degli studenti e la retribuzione ai professori ed al direttore sono stabiliti anno per anno dal Consiglio di amministrazione, su proposta del Consiglio della Scuola.  
+Egualmente saranno fissate le tasse da pagarsi dagli allievi che, per non aver superato regolarmente le prove, saranno iscritti fuori corso.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 ottobre 1970
+### Dato a Roma, addi' 28 agosto 1963
 
-SARAGAT MISASI
+SEGNI GUI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 18 novembre 1970
+Registrato alla Corte dei conti, addi' 16 ottobre 1963
 
-Atti del Governo, registro n. 238, foglio n. 88. - CARUSO
+Atti del Governo, registro n. 175, foglio n. 28. - VILLA

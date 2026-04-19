@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 1001
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 1150
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 1001
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 1150
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' commerciale "Luigi Bocconi" di Milano.
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' commerciale "Luigi Bocconi" di Milan
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' commerciale "Luigi Bocconi" di Milano, approvato con [regio decreto 8 marzo 1925, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-08;547) e modificato con [regio decreto 21 ottobre 1940, n. 1590](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-21;1590), e successive modificazioni;
+Veduto lo statuto dell'Universita' commerciale "Luigi Bocconi" di Milano, approvato con [regio decreto 8 marzo 1925, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-08;547) e modificato con [regio decreto 2 dicembre 1928, n. 3108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-02;3108), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,91 +20,51 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' commerciale "Luigi Bocconi" di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla
------
+Sentito il parere del Consiglio universitario nazionale;
 
-proposta del Ministro per la pubblica istruzione; Decreta:
+Sulla proposta del Ministro della pubblica istruzione di concerto con il Ministro del tesoro;
 
-Art. 1
-------
+Decreta:
+--------
 
-  
-Presso la facolta' di economia e commercio puo' essere istituito il corso di laurea in discipline economiche e sociali.  
-Il titolo di studio per l'ammissione al predetto corso di laurea, la durata e l'ordinamento del corso medesimo sono stabiliti dalla tabella annessa al presente decreto, firmata dal Ministro per la pubblica istruzione (allegato).  
-La tabella II annessa al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e' integrata nel senso che la facolta' di economia e commercio rilascia anche la laurea in discipline economiche e sociali.  
-Dopo la tabella VIII-quater annessa al citato regio decreto n. 1652, e' inserita, assumendo il numero VIII-quinquies, la tabella annessa al presente decreto (allegato).  
+Lo statuto dell'Universita' commerciale "Luigi Bocconi" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 2
-------
+Articolo unico
+--------------
 
   
-Presso la facolta' di economia e commercio dell'Universita' commerciale "Luigi Bocconi" di Milano e' riconosciuto il corso di laurea in discipline economiche e sociali.  
-Alla fine del corso di studi viene rilasciata la laurea in discipline economiche e sociali.  
-
-Art. 3
-------
-
-  
-Lo statuto dell'Universita' commerciale "Luigi Bocconi" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che dopo l'art. 54, e con il conseguente spostamento della numerazione degli articoli successivi, vengono aggiunti gli articoli 54, 55, 56, 57 e 58 contenenti le norme relative all'ordinamento del corso di studi per il conseguimento della laurea in discipline economiche e sociali secondo l'ordinamento riportato nell'annessa tabella.  
+L'art. 7, concernente il ruolo organico dei professori, e' abrogato e sostituito come segue:  
+Art. 7. - Il ruolo dei professori universitari dell'Universita' commerciale "Luigi Bocconi" comprende le seguenti fasce:  
+a) professori ordinari e straordinari;  
+b) professori associati.  
+Il ruolo organico dei professori della prima fascia e' costituito da ventinove posti.  
+Il ruolo organico dei professori della seconda fascia e' costituito da ventidue posti.  
+Ai professori di ruolo spetta il trattamento economico e di carriera che lo Stato attribuisce ai professori di ruolo delle Universita' governative provvisti della medesima anzianita' di servizio.  
+In caso di trasferimento alla Universita' "Bocconi" di professori di ruolo appartenenti ad altri istituti universitari, saranno applicate le disposizioni vigenti in materia per i professori delle Universita' governative.  
+Ai professori di ruolo della prima fascia e' assicurato il trattamento di previdenza e di quiescenza che le norme legislative vigenti stabiliscono per i professori di ruolo delle Universita' governative.  
+Ai professori di ruolo della seconda fascia, ai fini del trattamento di previdenza e di quiescenza, sono applicate le vigenti e future disposizioni di legge in materia riguardanti il corrispondente personale docente delle Universita' statali.  
+Dopo l'art. 10, con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti due nuovi articoli concernenti norme per i ricercatori.  
+Art. 11. - Il ruolo organico dei ricercatori universitari e' costituito da trentacinque posti.  
+Ai ricercatori dell'Universita' "Bocconi" spetta il trattamento economico e di carriera che lo Stato attribuisce ai ricercatori di ruolo delle Universita' governative.  
+Ai fini del trattamento di previdenza e di quiescenza, si applicano ai ricercatori le stesse disposizioni di legge in materia previste dal vigente statuto per gli assistenti di ruolo.  
+Art. 12. - Per le modalita' inerenti la ripartizione dei posti di ricercatore e la loro copertura, per lo inquadramento nel ruolo entro i limiti dei posti in organico di cui al precedente articolo, la disciplina generale, i diritti, le funzioni ed i doveri si applicano, in quanto compatibili con il presente statuto e con la natura dell'Universita' non statale, le disposizioni di legge vigenti riguardanti i ricercatori universitari.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1975
+### Dato a Roma, addi' 21 ottobre 1981
 
-LEONE MALFATTI
+PERTINI BODRATO - ANDREATTA
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 24 maggio 1976
+Registrato alla Corte dei conti, addi' 18 giugno 1982
 
-Atti di Governo, registro n. 6, foglio n. 30
-
-Allegato
-
- ALLEGATO   
-  
-Art. 54. - Presso l'Universita' commerciale "Luigi Bocconi" e' riconosciuto il corso di laurea in discipline economiche e sociali.   
-La durata degli studi e' di cinque anni. Sono titoli d'ammissione al corso di laurea suddetto i diplomi conseguiti in un istituto di durata quinquennale di istruzione secondaria di secondo grado.   
-Art. 55. - Il corso di studi e' suddiviso in due cicli, il primo biennale e il secondo triennale.   
-Nel primo ciclo propedeutico, a fine formativo, sono impartite le seguenti discipline:   
-logica ed epistemologia (annuale);   
-metodi matematici di analisi economica (biennale);   
-statistica (biennale);   
-economia politica (biennale);   
-storia moderna (annuale);   
-storia contemporanea (annuale);   
-istituzioni di diritto (biennale);   
-sociologia (annuale).   
-Nel secondo ciclo vengono insegnate le seguenti discipline:   
-storia economica (annuale);   
-diritto delle imprese e delle societa' commerciali (annuale);   
-scienza delle finanze (annuale);   
-politica economica (biennale);   
-ricerca operativa (biennale);   
-econometria (biennale);   
-storia delle dottrine politiche (annuale);   
-storia delle dottrine sociali (annuale).   
-Per ciascuna disciplina annuale e' prevista una prova finale; per ciascuna disciplina biennale e' prevista una prova alla fine di ciascun anno.   
-Art. 56. - La frequenza ai corsi e l'applicazione alle ricerche sono obbligatorie. Al termine del primo ciclo lo studente, superate le prove delle materie sopra elencate, deve discutere con un'apposita commissione nominata dal consiglio di facolta' e composta da cinque docenti di cui almeno tre professori ordinari, una dissertazione scritta, assegnata tre mesi prima su di un tema da lui proposto e approvato dal consiglio di facolta'.   
-La dissertazione che non ottenesse l'approvazione potra' essere ripetuta, dopo altri tre mesi, su un diverso tema. Il suo superamento e' condizione per l'iscrizione ai corsi del secondo ciclo.   
-Nel secondo triennio lo studente partecipa alle ricerche che si svolgono negli istituti della facolta' su temi connessi alla ricerca stessa e nella forma che gli sara' indicata dal consiglio di facolta'.   
-Il consiglio di facolta' indichera' per il primo e per il secondo ciclo quali prove potranno essere sostenute su gruppi di materie.  
-Nella valutazione della preparazione del candidato sara' tenuto conto dei risultati della sua partecipazione al lavoro scientifico dell'istituto.   
-Art. 57. - All'inizio del quarto corso lo studente sceglie il tema della dissertazione di laurea e partecipa alle ricerche degli istituti.   
-Per ogni laureando viene scelta dal consiglio di facolta' una commissione di tre docenti, uno dei quali insegnante della materia in cui rientra il tema prescelto e al quale spetta il compito di consigliare l'allievo nella elaborazione della dissertazione. La commissione propone anche allo studente i corsi ed i seminari da seguire, a integrazione dei suoi studi, scelti fra quelli impartiti nell'Universita', in modo che il numero complessivo delle prove superate sia di ventisette, computandosi separatamente le prove eventualmente sostenute su gruppi di materie.   
-Nel diploma di laurea sara' indicato il piano di studi seguito dal candidato.   
-Art. 58. - I contributi per gli iscritti al corso di laurea in discipline economiche e sociali vengono stabiliti, anno per anno dal consiglio di amministrazione dell'Universita'.   
-La partecipazione degli studenti meno abbienti al corso di laurea predetto verra' favorita mediante la concessione di assegni e borse di studio.   
-  
-Visto, d'ordine del Presidente della Repubblica   
-  
-Il Ministro per la pubblica istruzione   
-MALFATTI   
+Registro n. 81 Istruzione, foglio n. 67

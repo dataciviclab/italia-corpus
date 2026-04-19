@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 dicembre 1979 n. 869
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1979 n. 454
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 dicembre 1979 n. 869
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1979 n. 454
+=============================================================
 
 Autorizzazione all'Associazione volontari italiani del sangue, in Milano, ad accettare un lascito.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-869. Decreto del Presidente della Repubblica 20 dicembre 1979, col quale, sulla proposta del Ministro della sanita', l'Associazione volontari italiani del sangue, in Milano, viene autorizzata ad accettare il lascito di L. 6.000.000 circa, piu' gioielli, disposto dalla sig.ra Fedora Bicchierai in favore dell'A.V.I.S. comunale di Forli' con testamento olografo 8 gennaio 1968, pubblicato in data 28 marzo 1968, n. 14594 di repertorio, a rogito dott. Raffaele Gafa', notaio in Forli' e registrato a Forli' in data 2 aprile 1968, n. 894, vol. 210.  
+454. Decreto del Presidente della Repubblica 3 luglio 1979, col quale, sulla proposta del Ministro della sanita', l'Associazione volontari italiani del sangue, in Milano, viene autorizzata ad accettare, in favore della sezione comunale di Savona, il lascito disposto dal sig. Gioacchino Traverso con testamento olografo 7 gennaio 1966, pubblicato per atto del notaio Franchi di Savona in data 12 giugno 1968, n. 65997 di repertorio, consistente in un appartamento sito in Savona, via Fiume n. 7, iscritto al nuovo catasto edilizio urbano alla partita 11458, foglio 55, con il n. 423/23 di mappa, vani 6,5, cui l'ufficio tecnico erariale di Savona ha attribuito il valore di L. 27.000.000.  
   
 Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 26 marzo 1980  
-Registro n. 3 Sanita', foglio n. 64
+Registrato alla Corte dei conti, addi' 28 agosto 1979  
+Registro n. 6 Sanita', foglio n. 262

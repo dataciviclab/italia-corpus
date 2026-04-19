@@ -1,76 +1,99 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1010
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1970 n. 655
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1010
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1970 n. 655
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+L'art. 117 relativo alle propedeuticita' di alcuni insegnamenti agli effetti della iscrizione e degli esami per il corso di laurea in farmacia e' abrogato e sostituito dal seguente:
+
+Art. 117. - Agli effetti della iscrizione e degli esami sono da considerarsi materie propedeutiche: A) la chimica generale ed inorganica rispetto alla chimica organica; B) la chimica organica e la fisica rispetto alla chimica farmaceutica e tossicologica e alla chimica biologica; C) l'anatomia umana e la chimica biologica rispetto alla fisiologia generale; D) la fisiologia generale rispetto alla farmacologia e farmacognosia.
+
+L'ultimo comma dell'art. 125 relativo al corso di laurea in farmacia e' abrogato e sostituito dal seguente:
+
+"I laureati in chimica ed in chimica industriale potranno essere ammessi al terzo corso per la laurea in farmacia".
+
+L'art. 134 relativo all'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie e' modificato nel senso che l'insegnamento di "Economia della commercializzazione dei prodotti agricoli" da semestrale, diventa annuale.
+
+L'art. 236, relativo alla scuola di perfezionamento in storia dell'arte medioevale e moderna annessa alla facolta' di lettere e filosofia, e' modificato nel senso che alla predetta scuola possono essere ammessi anche i laureati in lingue e letterature straniere moderne.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 14 luglio 1970
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 7 settembre 1970 Atti del Governo, registro n. 237, foglio n. 72. - CARUSO
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), o successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
-Decreta:   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Art. 79. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne presso la facolta' di lettere e filosofia e' aggiunto il seguente: "Linguistica   
-applicata"   
-Art. 275. - All'elenco degli insegnamenti complementari della scuola di perfezionamento in filologia moderna presso la facolta' di lettere e filosofia e' aggiunto il seguente: "Letteratura italiana, moderna e contemporanea".   
-Art. 277. - Gli insegnamenti di "Storia della lingua greca" e di "Storia della lingua latina" nella scuola di perfezionamento in filologia classica presso la facolta' di lettere e filosofia sono trasformati da complementari a caratterizzanti.   
-Dopo l'art. 608 sono aggiunti i seguenti nuovi articoli relativi all'istituzione della scuola di perfezionamento per tecnici neurofisiopatologi (scuola diretta a fini speciali).   
+Decreta:  
   
-Scuola di perfezionamento per tecnici neurofisiopatologi   
-(Scuola diretta a fini speciali)   
-  
-Art. 609. - La scuola ha lo scopo di preparare gli allievi all'esercizio della professione di tecnico neurofisiopatologo, mediante l'insegnamento teorico di discipline di base e professionali, integrato da esercitazioni e tirocini professionali.   
-Art. 610. - La scuola speciale per tecnici neurofisiopatologi ha sede presso l'istituto di clinica delle malattie nervose e mentali.   
-Art. 611. - La durata del corso degli studi per il conseguimento del diploma e' di due anni accademici. Le lezioni teoriche ed il tirocinio pratico saranno svolti presso l'istituto di malattie nervose e mentali, secondo le modalita' che saranno stabilite dal consiglio della scuola. Gli allievi hanno l'obbligo della frequenza alle lezioni, ai seminari e ai tirocini pratici, secondo le modalita' stabilite dal consiglio della scuola.   
-Art. 612. - Sono ammessi alla scuola gli allievi di ambo i sessi in possesso del titolo di studio della scuola media superiore, che abbiano superato un colloquio attitudinale che si svolgera' presso la sede della scuola all'inizio dell'anno accademico.   
-Art. 613. - Il numero massimo dei posti disponibili e' stabilito nella misura di 30; 15 per ciascun anno di corso. I candidati non devono aver superato il 30° anno.   
-1° Anno:   
-1) Elementi di elettrotecnica;   
-2) Elementi di tecnica elettronica e nozioni pratiche di riparazione delle apparecchiature biomediche (biennale);   
-3) Nozioni generali di biochimica e biofisica;   
-4) Nozioni generali di anatomia e fisiologia;   
-5) Anatomia dell'apparato motore e del sistema nervoso;   
-6) Nozioni pratiche e teoriche di fisiologia del sistema nervoso (biennale);   
-7) Nozioni pratiche e teoriche di elettroencefalografia e neurofisiologia clinica (biennale).   
-2° Anno:   
-8) Elementi di tecnica elettronica e nozioni pratiche di riparazione delle apparecchiature biomediche;   
-9) Nozioni pratiche e teoriche di fisiologia del sistema nervoso;  
-10) Nozioni di patologia e clinica dell'apparato motore;   
-11) Nozioni pratiche e teoriche di elettromiografia, elettrodiagnostica ed elettroterapia;   
-12) Nozioni di patologia del sistema nervoso;   
-13) Nozioni pratiche e teoriche di elettroencefalografia e neurofisiologia clinica;   
-14) Nozioni teoriche e pratiche di ecoencefalografia, reoencefalografia e metodi di registrazione poligrafica.   
-Nel secondo anno viene dato particolare risalto alle dimostrazioni pratiche. I corsi saranno integrati da conferenze e da seminari sulle materie di insegnamento.   
-Art. 615. - Per essere ammessi al secondo anno gli allievi dovranno aver superato gli esami di cui ai punti 1), 3), 4), 5) dell'articolo precedente.   
-Art. 616. - L'esame finale per il conseguimento del diploma di tecnico neurofisiopatologo consiste in un esame scritto ed una prova pratica, previo superamento degli esami di profitto relativi alle materie di insegnamento di cui ai punti 6), 7), 8), 9), 10), 11), 12), 13), 14) dell'art. 614, con cui l'allievo dovra' dimostrare di aver raggiunto un livello di preparazione adeguato nelle materie che sono oggetto di insegnamento. L'esame di diploma dovra' essere superato entro cinque anni dalla data di immatricolazione.   
-Art. 617. - Il direttore della scuola e' un professore ordinario, straordinario, aggregato della facolta' medica di Bologna, del gruppo delle discipline neuropsichiatriche. Esso viene designato dal consiglio di facolta' di medicina e chirurgia e nominato con decreto del rettore.   
-Il direttore della scuola puo' farsi coadiuvare da un segretario nominato su sua proposta.   
-Art. 618. - Il consiglio della scuola e' costituito dal direttore, dal segretario e dal Corpo docente della scuola.   
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+L'art. 117 relativo alle propedeuticita' di alcuni insegnamenti agli effetti della iscrizione e degli esami per il corso di laurea in farmacia e' abrogato e sostituito dal seguente:  
+Art. 117. - Agli effetti della iscrizione e degli esami sono da considerarsi materie propedeutiche: A) la chimica generale ed inorganica rispetto alla chimica organica; B) la chimica organica e la fisica rispetto alla chimica farmaceutica e tossicologica e alla chimica biologica; C) l'anatomia umana e la chimica biologica rispetto alla fisiologia generale; D) la fisiologia generale rispetto alla farmacologia e farmacognosia.  
+L'ultimo comma dell'art. 125 relativo al corso di laurea in farmacia e' abrogato e sostituito dal seguente:  
+"I laureati in chimica ed in chimica industriale potranno essere ammessi al terzo corso per la laurea in farmacia".  
+L'art. 134 relativo all'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie e' modificato nel senso che l'insegnamento di "Economia della commercializzazione dei prodotti agricoli" da semestrale, diventa annuale.  
+L'art. 236, relativo alla scuola di perfezionamento in storia dell'arte medioevale e moderna annessa alla facolta' di lettere e filosofia, e' modificato nel senso che alla predetta scuola possono essere ammessi anche i laureati in lingue e letterature straniere moderne.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 14 luglio 1970
 
-LEONE SCALFARO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 17 febbraio 1973
+Registrato alla Corte dei conti, addi' 7 settembre 1970
 
-Atti di Governo, registro n. 255, foglio n. 113. - VALENTINI
+Atti del Governo, registro n. 237, foglio n. 72. - CARUSO

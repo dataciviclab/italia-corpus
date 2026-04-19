@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1982 n. 920
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 272
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1982 n. 920
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 272
+============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad ac
 Art. 1
 ------
 
-N.
+n.
 
-920. Decreto del Presidente della Repubblica 28 ottobre 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in immobili siti nel comune di Jerago (Varese), del valore dichiarato di L. 312.000.000 elevato dall'ufficio tecnico erariale di Varese a L. 375.000.000, disposto dalla sig.ra Lucia Maria Fontana a favore dell'istituto "Mutilatini don Gnocchi" che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale 28 novembre 1980 del consiglio di amministrazione della fondazione suddetta, con testamento olografo 30 agosto 1976, pubblicato in data 30 ottobre 1980, n. 10871 di repertorio e n. 1601 di raccolta a rogito dott. Ernesto Masolo, notaio in Busto Arsizio (Varese), registrato a Busto Arsizio in data 11 novembre 1980 al n. 2585.  
+272. Decreto del Presidente della Repubblica 10 marzo 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella quota di 1/6 pari a L. 11.666.666 ricavata dalla vendita di un immobile sito in Bergamo, via Ghirardelli n. 12, del valore di L. 70.000.000, disposto dalla signora Angeloni Ida, vedova Mistri, a favore dell'istituto "Don Gnocchi", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione con testamento olografo 14 novembre 1980, pubblicato in data 19 ottobre 1981, n. 41760 di repertorio, a rogito dott. Gian Mario Grazioli, notaio in Bergamo, registrato a Bergamo in data 23 ottobre 1981 al n. 7260.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 11 dicembre 1982  
-Registro n. 11 Presidenza, foglio n. 180
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 6 giugno 1986  
+Registro n. 5 Presidenza, foglio n. 86

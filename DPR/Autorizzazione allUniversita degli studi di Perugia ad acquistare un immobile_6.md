@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1965 n. 213
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1971 n. 1028
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1965 n. 213
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1971 n. 1028
+==============================================================
 
 Autorizzazione all'Universita' degli studi di Perugia ad acquistare un immobile.
 --------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-213. Decreto del Presidente della Repubblica 20 febbraio 1965, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Perugia viene autorizzata ad acquistare dal sig. Giulio Purgotti un complesso immobiliare sito in Perugia, via Fabretti n. 48, descritto nel nuovo catasto edilizio urbano del comune di Perugia alla partita 6027, foglio 234, part. 195/sub 1 - 2 - 3 - 4, al prezzo complessivo di L. 82.000.000 (lire ottantaduemilioni).  
+1028. Decreto del Presidente della Repubblica 11 maggio 1971, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Perugia viene autorizzata ad acquistare un immobile sito in Perugia, corso Garibaldi, ai numeri civici 183, 185, 187 e 189 descritto al catasto del comune di Perugia al foglio n. 234, particelle 47/1, 48, 49/1; subalterni 2-3-4-5-6-7; part. 49 sub. 3 - 4; part. 47 sub. 8 - 9, al prezzo di L. 44.500.000.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 30 marzo 1965  
-Atti del Governo, registro n. 192, foglio n. 1. - VILLA
+Visto, il Guardasigilli: COLOMBO  
+Registrato alla Corte dei conti, addi' 4 dicembre 1971  
+Atti del Governo, registro n. 245, foglio n. 114. - POLIFRONI

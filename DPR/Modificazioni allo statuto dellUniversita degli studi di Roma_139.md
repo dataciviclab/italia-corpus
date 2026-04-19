@@ -1,85 +1,52 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1980 n. 625
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1971 n. 1167
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1980 n. 625
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1971 n. 1167
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio universitario nazionale nei suoi pareri;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Veduto il [parere della sezione prima del Consiglio di Stato, n. 1902/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
-
-Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Lo statuto dell'Universita' di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Dopo l'art. 522, e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo alla istituzione della seconda scuola di specializzazione in pediatria.  
+Decreta:  
   
-Seconda scuola di specializzazione in pediatria  
-  
-Art. 523. - La seconda scuola di specializzazione in pediatria ha sede presso la seconda cattedra di clinica pediatrica.  
-Il numero degli allievi e' di quindici per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi.  
-Per quanto riguarda la direzione della scuola, la durata del corso, i titoli di ammissione, l'ordinamento degli studi ed ogni altra norma si rimanda all'ordinamento della prima scuola di specializzazione, in pediatria (articoli 519-522).  
-
-Art. 2
-------
-
-  
-Dopo l'art. 695, e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo alla istituzione della seconda scuola di specializzazione in psichiatria.  
-Seconda scuola di specializzazione in psichiatria  
-Art. 696. - La seconda scuola di specializzazione in psichiatria ha sede presso la seconda cattedra di psichiatria.  
-Il numero complessivo degli allievi e' di dodici per anno di corso e complessivamente di quarantotto iscritti per l'intero corso di studi.  
-Per quanto riguarda la direzione della scuola, la durata del corso, i titoli di ammissione, l'ordinamento degli studi ed ogni altra norma si rimanda all'ordinamento della prima scuola di specializzazione in psichiatria (articoli 690 - 695).  
-
-Art. 3
-------
-
-  
-Dopo l'art. 770, e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo alla istituzione della seconda scuola di specializzazione in nefrologia.  
-Seconda scuola di specializzazione in nefrologia  
-Art. 771. - La seconda scuola di specializzazione in nefrologia ha sede presso la cattedra di terapia medica sistematica e conferisce il diploma di specialista in nefrologia.  
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo di terapia medica sistematica.  
-Il numero massimo degli allievi e' di sei per ogni anno di corso e complessivamente di ventiquattro iscritti per l'intero corso di studi.  
-Per quanto riguarda la durata del corso, i titoli di ammissione, l'ordinamento degli studi ed ogni altra norma si rimanda all'ordinamento della prima scuola di specializzazione in nefrologia (articoli 766-770).  
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 56. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
+Lingua e letteratura catalana;  
+Letteratura ellenistico-giudaica;  
+Storia della civilta' egea.  
+Art. 57. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia e' aggiunto:  
+Logica matematica.  
+Art. 58. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne e' aggiunto quello di:  
+Lingua e letteratura catalana.  
+Art. 316. - All'elenco degli insegnamenti costitutivi della Scuola nazionale di archeologia sono aggiunti i seguenti:  
+Preistoria del vicino e medio oriente;  
+Etnografia preistorica dell'Africa.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 settembre 1980
+### Dato a Roma, addi' 4 ottobre 1971
 
-PERTINI SARTI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 30 settembre 1980
+Registrato alla Corte dei conti, addi' 30 dicembre 1971
 
-Registro n. 89 Istruzione, foglio n. 263
+Atti del Governo, registro n. 245, foglio n. 168. - VALENTINI

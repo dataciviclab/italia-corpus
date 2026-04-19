@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 948
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1972 n. 414
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 948
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1972 n. 414
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -10,75 +10,208 @@ Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927; n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, numero 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 330, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola diretta a fini speciali di preparazione per tecnici di audiometria e ortofonia.   
-Scuola di preparazione per tecnici di audiometria e ortofonia (diretta a fini speciali)   
-Art. 331. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una scuola speciale di preparazione per tecnici di audiometria e ortofonia.   
-Art. 332. - La durata del corso degli studi della scuola di preparazione per tecnici di audiometria e ortofonia e' di tre anni.  
-L'indirizzo e' teorico-pratico. Il numero massimo degli iscritti e' fissato in 5 (cinque) per ogni anno di corso.   
-Possono essere ammessi alla scuola coloro che siano in possesso del titolo di studio prescritto per l'ammissione all'universita' o istituto di istruzione universitaria.   
-Gli aspiranti devono presentare, nei termini regolamentari, domanda su carta legale diretta al rettore e corredata dei prescritti documenti e sostenere un esame di ammissione.   
-Le domande di iscrizione ad anni successivi al primo dovranno essere presentate nei termini regolamentari.   
-Alla scuola si accede in ogni caso previo esame di cultura generale su argomenti facenti parte dei normali programmi dei licei o degli istituti di istruzione secondaria, con particolare riguardo alla parte dell'insegnamento di fisica acustica e previo esame di corretta dizione e prova di lettura di un testo di lingua straniera.   
-La commissione giudicatrice viene nominata dal preside della facolta' di medicina e chirurgia ed e' composta dal direttore della scuola, presidente, e da due membri scelti fra i professori di ruolo, incaricati o liberi docenti.   
-Solo in casi particolari, e con relazione motivata, potra' esser concessa a candidati in possesso di particolari requisiti culturali e tecnici, l'iscrizione al 2° anno di corso fermo restando l'obbligo per questi candidati di sostenere tutti gli esami previsti dal piano di studio per i tre anni della scuola.   
-Art. 333. - Il direttore della scuola e' il professore ufficiale dell'insegnamento di audiologia dell'Universita' di Firenze.   
-Gli insegnanti sono nominati, su proposta del direttore della scuola, dal consiglio di facolta' e sono scelti tra i professori ufficiali di altri insegnamenti della facolta' di medicina e chirurgia dell'Universita' di Firenze, tra i liberi docenti in audiologia od in altre materie, o tra persone, anche al di fuori dell'ambito universitario, aventi pero' particolare competenza delle materie del corso.   
-Le date di inizio e termine delle lezioni sono uguali a quelle fissate dal calendario accademico dell'Universita'.   
-Tali date, tuttavia, possono essere spostate per ragioni speciali inerenti alla natura dei corsi.   
-Art. 334. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-elementi di fisica acustica;   
-anatomia e fisiologia dell'orecchio, delle vie e dei centri acustici e degli organi fonatori;   
-tecniche audiometriche.   
-2° Anno:   
-patologia dell'udito, del linguaggio e dell'organo dell'equilibrio;   
-audiologia infantile;   
-elementi di psicologia;   
-tecniche audiometriche;   
-elementi di neuropsichiatria infantile.   
-3° Anno:   
-elementi di foniatria;   
-trattamento rieducativo dei disturbi dell'udito, della voce e del linguaggio;   
-elementi di otoneurologia;   
-tecniche di indagine audiometrica di massa.   
-L'intero corso di studi e' costituito da lezioni teoriche e da esercitazioni pratiche. Gli allievi sono obbligati all'internato per un periodo di tre anni presso la cattedra di audiologia od in istituti qualificati approvati dal direttore della scuola.   
-Le commissioni esaminatrici per gli esami di profitto sono nominate, su proposta del direttore della scuola, dal preside della facolta' di medicina e chirurgia.   
-Gli esami di profitto, che consistono in prove teoriche e pratiche, si sostengono in unico gruppo di materie per ciascun anno di corso.   
-Seguiti i corsi e superati gli esami prescritti, gli allievi saranno ammessi a sostenere l'esame di diploma.   
-L'esame di diploma consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento della scuola ed in una prova pratica stabilita dalla commissione esaminatrice.   
-L'esame di diploma viene sostenuto davanti ad una commissione di cinque membri, scelti fra i docenti della scuola, nominata dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola.   
-I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola ma, se anche in questa seconda prova non verra' loro riconosciuta l'idoneita', saranno senza altro esclusi da ulteriori prove.   
-Agli allievi che avranno superato l'esame finale verra' rilasciato il diploma di tecnico di audiometria e ortofonia.   
-Per essere ammessi a frequentare il secondo anno di corso gli allievi dovranno aver superato gli esami del primo anno e per essere ammessi al terzo anno di corso dovranno aver superato gli esami del primo e del secondo anno. Per essere ammessi all'esame di diploma dovranno aver superato tutti gli esami prescritti.   
-Gli esami di profitto e l'esame di diploma possono essere sostenuti soltanto in due sessioni annuali, una estiva ed una autunnale.   
-Art. 335. - Le tasse, soprattasse e contributi a carico degli iscritti sono dello stesso importo di quelle annualmente richieste agli studenti iscritti al corso di laurea in medicina e chirurgia dell'Universita' di Firenze.   
+L'art. 257, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la scuola di specializzazione in "Malattie veneree e della pelle", in "Otorinolaringoiatria", in "Odontoiatria e stomatologia", mutano rispettivamente la denominazione in scuola di specializzazione in "Clinica dermosifilopatica", in "Otorinolaringoiatria e patologia cervico-facciale" e in "Odontoiatria e protesi dentaria".  
+L'art. 259, relativo alla "Scuola di specializzazione in ostetricia e ginecologia", e' abrogato e sostituito dal seguente:  
+  
+Scuola di specializzazione in ostetricia e ginecologia  
+  
+Art. 259. - Il corso di specializzazione in ostetricia e ginecologia ha la durata di quattro anni.  
+L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami. L'esame di ammissione, deve espletarsi entro il mese di dicembre. Sono da considerarsi titoli preferenziali, a parita' di risultato dell'esame di ammissione:  
+1) il voto di laurea in medicina e chirurgia;  
+2) aver frequentato come studente interno una clinica ostetrica e ginecologica della universita';  
+3) aver svolto la tesi di laurea nella clinica ostetrica e ginecologica;  
+4) documentazione di eventuali servizi prestati in grossi reparti ospedalieri della specialita';  
+5) eventuali pubblicazioni.  
+Il numero degli iscritti e' di dieci per ogni anno di corso.  
+Per nessun motivo il corso di quattro anni puo' essere abbreviato.  
+Nessun titolo puo' esonerare dalla frequenza gli iscritti nei quattro anni di corso.  
+Gli iscritti, oltre all'obbligo di frequenza delle lezioni, esercitazioni e seminari ecc., devono prestare servizio analogo a quello degli assistenti per non meno di nove mesi all'anno.  
+Gli iscritti alla scuola debbono sostenere esami annuali di profitto e l'esame finale di diploma. Non puo' essere iscritto all'anno successivo di corso chi non abbia superato le materie fondamentali della specialita'.  
+Il programma di studi e' il seguente:  
+1° Anno:  
+Elementi di genetica e di eugenica;  
+Anatomia normale ed embriologia dell'apparato genitale femminile;  
+Fisiologia dell'apparato genitale femminile;  
+Endocrinologia fisiologica;  
+Fisiologia ostetrica;  
+Diagnostica ostetrica;  
+Clinica ostetrica e ginecologica.  
+2° Anno:  
+Tecnica operatoria ostetrica;  
+Diagnostica ginecologica;  
+Tecnica diagnostica di laboratorio nel campo ostetrico-ginecologico, esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica).  
+Clinica ostetrica e ginecologica.  
+3° Anno:  
+Anatomia patologica ostetrica e ginecologica;  
+Istologia normale e patologica nel campo della specialita';  
+Puericultura prenatale;  
+Emoterapia nel campo ostetrico e ginecologico;  
+Anestesia e analgesia nel campo ostetrico e ginecologico;  
+Tecnica operatoria ginecologica;  
+Clinica ostetrica e ginecologica;  
+Terapia medica ostetrica e ginecologica.  
+4° Anno:  
+Puericultura postnatale e malattie del neonato;  
+Ostetricia e ginecologia forense;  
+Diagnostica roentgen, radioterapia in ostetricia e ginecologia;  
+Clinica ostetrica e ginecologica (esame alla fine del 4° anno);  
+Urologia ginecologica;  
+Chirurgia addominale extra genitale.  
+Gli esami si fanno per gruppi di materie ed i membri delle commissioni saranno proposti dai direttori delle scuole.  
+Per il conseguimento del diploma, l'inscritto deve presentare e discutere una dissertazione scritta con contributo personale.  
+L'art. 261, relativo alla "Scuola di specializzazione in malattie veneree e della pelle" che muta la denominazione in quella di "Scuola di specializzazione in clinica dermosifilopatica", e' abrogato e sostituito dal seguente:  
+  
+Scuola di specializzazione in clinica dermosifilopatica  
+  
+Art. 261. - La durata del corso degli studi per il conseguimento del diploma di specialista in clinica dermosifilopatica, e' di tre anni.  
+Il numero degli iscritti per ogni anno di corso e' di cinque.  
+Gli insegnamenti della scuola sono cosi' suddivisi nei tre anni di corso:  
+1° Anno:  
+Anatomia e istologia normale della cute;  
+Fisiologia della cute e degli annessi cutanei;  
+Anatomia e fisiologia dell'apparato genitale;  
+Microbiologia e parassitologia applicata;  
+Tecnica di laboratorio con particolare riferimento alla sierologia applicata;  
+Semeiotica dermatologica e venereologica.  
+2° Anno:  
+Patologia delle malattie cutanee;  
+Patologia delle infezioni sessuali;  
+Anatomia e istologia patologica della cute;  
+Anatomia patologica delle malattie veneree e sessuali;  
+Angiologia;  
+Sessuologia.  
+3° Anno:  
+Clinica delle malattie cutanee;  
+Clinica delle infezioni sessuali;  
+Farmacologia e terapia medicamentosa;  
+Fisioterapia dermatologica;  
+Cosmetologia;  
+Chirurgia plastica riparatrice;  
+Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.  
+Al termine di ciascun anno di corso, nel sostenere gli esami speciali sugli insegnamenti impartiti durante l'anno, l'allievo dovra' praticare la visita di almeno due malati della specialita', discuterne la diagnosi e la cura, nonche' illustrare un preparato istologico ed eseguire una prova di laboratorio.  
+Al termine del corso l'esame per il conseguimento del diploma consistera' nella discussione di un caso clinico e nella discussione di una tesi scritta sopra un argomento della specialita'.  
+Nei tre anni di corso e' obbligatoria la frequenza dell'allievo nella clinica per l'intero anno solare, con gli stessi obblighi cui sono tenuti gli assistenti volontari.  
+L'art. 262, relativo alla "Scuola di specializzazione in medicina legale e delle assicurazioni", e' abrogato e sostituito dal seguente:  
+  
+Scuola di specializzazione in medicina legale e delle assicurazioni   
+Art. 262. - Alla scuola potranno accedere i laureati in medicina e chirurgia abilitati all'esercizio professionale, nonche' i laureati in giurisprudenza.  
+La durata della scuola e' di tre anni. Il numero degli iscritti per ogni anno non potra' essere superiore a cinque. Per l'eventuale abbreviazione di corso si potra' tener conto dei titoli di carriera acquisiti anche fuori dell'ambiente universitario ed ospedaliero, con servizio non inferiore ai tre anni, che comportino una gia' acquisita preparazione medico legale. Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni e le esercitazioni, nonche' di prestare servizio di internato per almeno sei mesi in ciascun anno di corso.  
+Al termine di ogni anno di corso gli iscritti sosterranno gli esami di profitto sulle singole materie d'insegnamento. Lo specializzando che non abbia superato tutti gli esami dell'anno frequentato non potra' ottenere l'iscrizione all'anno successivo.  
+L'esame di diploma consistera' in una dissertazione scritta su un argomento di medicina legale.  
+I candidati non riconosciuti idonei all'esame di diploma si potranno presentare dopo un altro anno di frequenza alla scuola; se al secondo esame non sara' riconosciuta l'idoneita' verranno senz'altro esclusi da ulteriori prove.  
+Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+Medicina legale generale;  
+Elementi di diritto pubblico e di diritto privato;  
+Tecnica e diagnostica anatomo-patologica generale e medico-legale;  
+Traumatologia medico-legale;  
+Semeiotica medico-legale.  
+2° Anno:  
+Medicina legale penalistica;  
+Deontologia medica;  
+Neuropsichiatria medico-legale:  
+Elementi di medicina criminologica e di medicina penitenziaria;  
+Indagini di sopralluogo;  
+Identificazione personale.  
+3° Anno:  
+Medicina legale civilistica e canonistica;  
+Tossicologia medico-legale;  
+Tecniche di laboratorio medico-legale ed ematologia forense;  
+Ostetricia e ginecologia forense;  
+Elementi di legislazione del lavoro;  
+Medicina legale e delle assicurazioni;  
+Elementi di medicina del lavoro;  
+Medicina legale militare e pensionistica civile.  
+L'art. 263, relativo alla "Scuola di specializzazione in otorinolaringoiatria" che muta la denominazione in quella di "Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale", e' abrogato e sostituito dal seguente:  
+  
+Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale  
+  
+Art. 263. - La durata del corso degli studi per il conseguimento del diploma di specialista in otorinolaringoiatria e patologia cervico-facciale e' di tre anni, e la frequenza e' obbligatoria.  
+Il numero degli iscritti ammessi a frequentare la scuola di specializzazione e' limitato a sei per anno (complessivamente 18 nei tre anni).  
+Le materie di insegnamento durante i tre anni del corso sono cosi' suddivise:  
+1° Anno:  
+Anatomia;  
+Fisiologia;  
+Audiologia (1° anno);  
+Semeiotica otorinolaringoiatrica;  
+Tecnica di laboratorio;  
+Patologia e clinica otorinolaringoiatrica e cervicofacciale (1° anno);  
+Anatomia e istologia patologica in otorinolaringoiatria.  
+2° Anno:  
+Tecniche operatorie in otorinolaringoiatria;  
+Anestesia in otorinolaringoiatria;  
+Patologia e clinica otorinolaringoiatrica e cervicofacciale (2° anno);  
+Radiologia in rapporto con l'otorinolaringoiatria;  
+Pediatria in rapporto con l'otorinolaringoiatria;  
+Audiologia (2° anno);  
+Otoneurologia;  
+Foniatria.  
+3° Anno:  
+Patologia e clinica otorinolaringoiatrica e cervicofacciale (3° anno);  
+Terapia medica e fisica in otorinolaringoiatria;  
+Neuropatologia in rapporto con l'otorinolaringoiatria;  
+Oculistica in rapporto con l'otorinolaringoiatria;  
+Chirurgia plastica;  
+Tracheobroncoscopia;  
+Medicina legale ed infortunistica in otorinolaringoiatria.  
+L'art. 265, relativo alla "Scuola di specializzazione in odontoiatria e stomatologia" che muta la denominazione in quella di "Scuola di specializzazione in odontoiatria e protesi dentaria", e' abrogato e sostituito dal seguente:  
+  
+Scuola di specializzazione in odontoiatria e protesi dentaria  
+  
+Art. 265. - La durata del corso degli studi per il conseguimento del diploma di specialista in odontoiatria e protesi dentaria e' di tre anni.  
+Il numero degli iscritti e' di sessanta, distribuiti nei tre anni di corso. Gli insegnamenti delle scuole sono cosi' ripartiti nei tre anni di corso:  
+1° Anno:  
+Embriologia e anatomia dentale e maxillo-facciale;  
+Microbiologia e igiene orale;  
+Farmacologia;  
+Patologia odontostomatologica;  
+Odontotecnica;  
+Anestesia e chirurgia stomatologica;  
+Odontoiatria conservativa (biennale: 1° anno);  
+2° Anno:  
+Odontoiatria conservativa (biennale: 2° anno);  
+Clinica protesica dentaria e maxillo-facciale (biennale: 1° anno);  
+Parodontologia (biennale: 1° anno);  
+Anatomia e istopatologia odontostomatologica;  
+Odontoiatria infantile;  
+Radiologia odontostomatologica;  
+Ortopedia dento-maxillo-facciale (biennale: 1° anno);  
+Chirurgia maxillo-facciale (biennale: 1° anno).  
+3° Anno:  
+Clinica odontostomatologica;  
+Chirurgia maxillo-facciale (biennale: 2° anno);  
+Ortopedia dento-maxillo-facciale (biennale: 2° anno);  
+Clinica protesica dentaria e maxillo-facciale (biennale: 2° anno);  
+Parodontologia (biennale: 2° anno);  
+Medicina legale odontostomatologica e delle assicurazioni.  
+Alla fine di ciascun anno di corso gli allievi dovranno sostenere dinanzi ad apposita commissione di almeno tre membri e presieduta dal direttore della scuola lo esame di profitto teorico e pratico sulle materie oggetto di insegnamento nell'anno.  
+Per il conseguimento del diploma di specialista in odontoiatria e protesi dentaria l'allievo dovra' sostenere dinanzi ad apposita commissione di sette membri e presieduta dal direttore della scuola la discussione di una tesi scritta.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1975
+### Dato a Roma, addi' 7 giugno 1972
 
-LEONE MALFATTI
+LEONE MISASI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 30 marzo 1976
+Registrato alla Corte dei conti, addi' 31 luglio 1972
 
-Atti di Governo, registro n. 4, foglio n. 41
+Atti del Governo, registro n. 250, foglio n. 101. - CARUSO

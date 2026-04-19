@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1966 n. 1162
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1966 n. 1339
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1966 n. 1162
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1966 n. 1339
+=================================================================
 
 Autorizzazione all'Istituto nazionale per l'addestramento e per il perfezionamento dei lavoratori dell'industria (INAPLI), con sede in Roma, ad acquistare un immobile.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1162. Decreto del Presidente della Repubblica 28 marzo 1966, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Istituto nazionale per l'addestramento e per il perfezionamento dei lavoratori dell'industria (INAPLI), con sede in Roma, viene autorizzato ad acquistare, dal sig. Giuseppe Naccarato, un'area fabbricabile sita in Cosenza, localita' "Torre Alta", della superficie complessiva di mq. 5850, distinta in catasto alla partita n. 1372, foglio n. 7, particella 16 sub c e 167 a (allo scopo di provvedere alla costruzione di stabili da adibire esclusivamente quale sede sociale per il conseguimento degli scopi assistenziali propri dell'Istituto stesso), come da atto notaio Luigi Goffredo, repertorio n. 114839, in data 11 dicembre 1961 e da atto di rettifica del 12 giugno 1962, repertorio 119144.  
+1339. Decreto del Presidente della Repubblica 5 settembre 1966, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Istituto nazionale per l'addestramento e per il perfezionamento dei lavoratori dell'industria (INAPLI), con sede in Roma, viene, autorizzato ad acquistare dai signori Luigi, Francesca, Valentina Antonini e Afra Baffi, tre appezzamenti di terreno edificatorio, ubicati in Roma, localita' "Torrevecchia e la Parrocchietta" di mq. 6.942, 2.608 e 10.000, distinti rispettivamente in catasto alla partita n. 1806, sez. A, foglio n. 355, particella 23-a; alla partita 29077, sez. A, foglio n. 355, particella 126-b; alla partita 28919, sez. A, foglio 447, particelle 76-a e 93-b, allo scopo di utilizzarli per la costruzione di una sede propria del Centro di addestramento professionale di Roma, come da atto pubblico di compravendita per notaio Nicolo' Bruno, repertorio n. 1159, racc. n. 426, in data 3 settembre 1959.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 21 dicembre 1966  
-Atti del Governo, registro n. 208, foglio n. 49. - VILLA
+Registrato alla Corte dei conti, addi' 28 febbraio 1967  
+Atti del Governo, registro n. 209, foglio n. 73. - VILLA

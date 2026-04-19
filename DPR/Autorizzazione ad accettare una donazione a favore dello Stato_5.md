@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 luglio 1985 n. 1104
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1974 n. 473
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 luglio 1985 n. 1104
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1974 n. 473
+=============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1104. Decreto del Presidente della Repubblica 17 luglio 1985, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Romagnano Sesia (Novara) con atto 21 settembre 1981, n. 8700 di repertorio, a rogito dott.ssa Rossana Lenzi, notaio in Romagnano Sesia, registrato a Borgomanero (Novara) il 12 ottobre 1981 al n. 1480, un appezzamento di terreno di circa mq 1.700 sito in detto comune, catastalmente indicato in atto, per la costruzione della caserma dei carabinieri.   
+473. Decreto del Presidente della Repubblica 27 giugno 1974, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dalla sig.ra Genzone Laura con atto 30 novembre 1972, n. 59196 di repertorio per notaio Renzo Lazzareschi, del terreno di mq 36, sito in comune di Lucca, frazione di S. Lorenzo a Vaccoli, localita' "ai Picchi".  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 13 giugno 1986   
-Registro n. 34 Finanze, foglio n. 96
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 26 settembre 1974  
+Atti di Governo, registro n. 5, foglio n. 90. - SCIARRETTA

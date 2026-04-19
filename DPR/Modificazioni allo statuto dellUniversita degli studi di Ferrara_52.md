@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1983 n. 871
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1973 n. 1155
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1983 n. 871
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1973 n. 1155
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
@@ -10,83 +10,154 @@ Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Ferrara, approvato con decreto del Presidente della Repubblica 18 aprile 1951, e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'art. 17 del teste unico 31 agosto 1933, n. 1592, per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+L'art. 106, relativo alla "Scuola di perfezionamento in malattie del fegato e del ricambio" che muta la denominazione in quella di "Scuola di specializzazione in malattie dell'apparato digerente", e' abrogato e sostituito dal seguente:
 
+Scuola di specializzazione in malattie dell'apparato digerente
+
+Art. 106. - La scuola di specializzazione in malattie dell'apparato digerente ha la durata di quattro anni di cui Lino di tirocinio pratico e ha sede presso la clinica medica generale e terapia medica, il cui professore di ruolo e' il direttore della scuola stessa.
+
+Alla scuola sono ammessi i laureati in medicina e chirurgia.
+
+Il numero dei posti e' fissato in dieci per anno di corso.
+
+Gli insegnamenti impartiti sono:
+
+1° Anno:
+
+Anatomia patologica;
+
+Fisiopatologia;
+
+Chimica clinica;
+
+Semeiotica fisica e strumentale (biennale);
+
+Clinica medica (triennale).
+
+2° Anno:
+
+Semeiotica fisica e strumentale (biennale);
+
+Semeiotica radiologica;
+
+Patologia speciale delle malattie del tubo digerente;
+
+Clinica medica (triennale).
+
+3° Anno:
+
+Patologia speciale delle malattie del fegato e del pancreas;
+
+Clinica medica (triennale).
+
+A queste materie fondamentali possono essere aggiunte materie complementari in numero non superiore a quattro per la totalita' del corso, secondo i particolari sviluppi di ricerca e di dottrina caratteristici della scuola.
+
+4° Anno:
+
+Internato: tirocinio pratico ed applicazione delle tecniche della specialita'.
+
+Gli insegnamenti saranno integrati da esercitazioni pratiche.
+
+L'esame di profitto si sosterra' alla fine dei singoli corsi: gli insegnamenti biennali e triennali importano un unico esame alla fine del corso.
+
+Gli allievi del 1°, del 2° e del 3° anno, per essere ammessi rispettivamente al 2°, 3° e 4° anno devono avere ottenute tutte le firme di frequenza dei corsi e devono aver superato tutti i relativi esami.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 23 ottobre 1973
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: ZAGARI
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 28 ottobre 1974 Atti di Governo, registro n. 6, foglio n. 48. - SCIARRETTA
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Dopo il titolo VI, relativo alle scuole di perfezionamento e di specializzazione annesse ala facolta' di farmacia, e' aggiunto il nuovo seguente titolo relativo ai centri dell'Universita':   
+Decreta:  
   
-Titolo VII   
-CENTRI DELL'UNIVERSITA'   
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+L'art. 106, relativo alla "Scuola di perfezionamento in malattie del fegato e del ricambio" che muta la denominazione in quella di "Scuola di specializzazione in malattie dell'apparato digerente", e' abrogato e sostituito dal seguente:  
   
-Capo I   
-Facolta' di medicina e chirurgia   
-Centro di studi biochimici sul morbo di Cooley   
+Scuola di specializzazione in malattie dell'apparato digerente  
   
-Art. 316. - Presso la facolta' di medicina e chirurgia dell'Universita' degli studi di Ferrara e' istituito il centro di studi biochimici sul morbo di Cooley, che per le finalita' perseguite e per la diffusione della talassemia e' centro di medicina preventiva e sociale.   
-Art. 317. - Gli scopi del centro sono:   
-a) le definizioni della struttura e dell'espressione dei geni globinici nelle talassemie;   
-b) la diagnostica prenatale e postnatale delle talassemie;   
-c) la terapia molecolare delle talassemie.   
-Art. 318. - Organi di governo del centro sono:   
-a) il consiglio direttivo;   
-b) il direttore del centro.   
-Art. 319. - Il consiglio direttivo e' costituito da tre professori di ruolo del gruppo discipline biochimiche dell'Universita' di Ferrara.   
-I membri del consiglio direttivo sono nominati dal rettore su proposta della facolta' di medicina e chirurgia per un triennio e possono essere rinominati.   
-Il consiglio direttivo e' presieduto dal direttore del centro.   
-Art. 320. - Compiti del consiglio direttivo sono:   
-a) proporre al rettore la nomina del direttore del centro scelto tra membri del consiglio stesso;   
-b) coordinare i programmi e l'attivita' del centro;   
-c) deliberare sulla relazione annuale del direttore del centro e inoltrarla al rettore e al preside della facolta' di medicina e chirurgia.   
-Il consiglio direttivo si riunisce in seduti ordinaria almeno una volta all'anno e ogni qualvolta il direttore lo ritenga opportuno o uno dei suoi membri ne faccia motivata richiesta al direttore.   
-Art. 321. - Il direttore del centro e' nominato dal rettore, su proposta del consiglio direttivo, che lo sceglie tra i suoi membri.   
-Il direttore dura in carica tre anni e puo' essere rieletto.   
-Compiti del direttore sono:   
-a) curare l'attivita' del centro in base alle delibere programmatiche del consiglio direttivo;   
-b) disporre che lo svolgimento dell'attivita' dei ricercatori avvenga secondo modalita' predisposte dal consiglio direttivo e nel rispetto della normativa concernente i ricercatori di ruolo di cui al [decreto del Presidente della Repubblica 13 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-13;382) e al [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);   
-c) seguire quanto necessario per il buon funzionamento del centro stesso;   
-d) preparare alla fine di ogni anno accademico una relazione sull'attivita' del centro che viene esaminata ed approvata dal consiglio direttivo ed inoltrata al rettore e al preside della facolta' di medicina e chirurgia.   
-Art. 322. - Il direttore del centro e' responsabile della gestione amministrativa e contabile del centro stesso.   
-Il centro dispone di proprie attrezzature iscritte in apposito inventario, tenuto in consegna dal direttore del centro in conformita' alle norme contabili ed amministrative in vigore per gli istituti universitari di cui al [decreto del Presidente della Repubblica 4 marzo 1982, n. 371](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-04;371).   
-Art. 323. - I fondi per il funzionamento del centro sono quelli provenienti da erogazioni di enti pubblici e privati interessati alle finalita' istituzionali e scientifiche sia di base che applicate. Il centro puo' disporre anche di eventuali contributi concessi dall'Universita' sul proprio bilancio in armonia a quanto previsto dal [decreto del Presidente della Repubblica 4 marzo 1982, n. 371](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-04;371).   
-Art. 324. - Possono svolgere attivita' di ricerca presso il centro i ricercatori italiani e stranieri interessati al problema della patologia molecolare del morbo di Cooley e che siano autorizzati dal direttore del centro, previa specifica richiesta.   
+Art. 106. - La scuola di specializzazione in malattie dell'apparato digerente ha la durata di quattro anni di cui Lino di tirocinio pratico e ha sede presso la clinica medica generale e terapia medica, il cui professore di ruolo e' il direttore della scuola stessa.  
+Alla scuola sono ammessi i laureati in medicina e chirurgia.  
+Il numero dei posti e' fissato in dieci per anno di corso.  
+Gli insegnamenti impartiti sono:  
+  
+1° Anno:  
+Anatomia patologica;  
+Fisiopatologia;  
+Chimica clinica;  
+Semeiotica fisica e strumentale (biennale);  
+Clinica medica (triennale).  
+  
+2° Anno:  
+Semeiotica fisica e strumentale (biennale);  
+Semeiotica radiologica;  
+Patologia speciale delle malattie del tubo digerente;  
+Clinica medica (triennale).  
+  
+3° Anno:  
+Patologia speciale delle malattie del fegato e del pancreas;  
+Clinica medica (triennale).  
+  
+A queste materie fondamentali possono essere aggiunte materie complementari in numero non superiore a quattro per la totalita' del corso, secondo i particolari sviluppi di ricerca e di dottrina caratteristici della scuola.  
+  
+4° Anno:  
+Internato: tirocinio pratico ed applicazione delle tecniche della specialita'.  
+Gli insegnamenti saranno integrati da esercitazioni pratiche.  
+L'esame di profitto si sosterra' alla fine dei singoli corsi: gli insegnamenti biennali e triennali importano un unico esame alla fine del corso.  
+Gli allievi del 1°, del 2° e del 3° anno, per essere ammessi rispettivamente al 2°, 3° e 4° anno devono avere ottenute tutte le firme di frequenza dei corsi e devono aver superato tutti i relativi esami.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 ottobre 1983
+### Dato a Roma, addi' 23 ottobre 1973
 
-PERTINI FALCUCCI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 18 gennaio 1984
+Registrato alla Corte dei conti, addi' 28 ottobre 1974
 
-Registro n. 2 Istruzione, foglio n. 194
+Atti di Governo, registro n. 6, foglio n. 48. - SCIARRETTA

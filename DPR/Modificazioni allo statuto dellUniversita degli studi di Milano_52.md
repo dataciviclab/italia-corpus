@@ -1,156 +1,48 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 834
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1970 n. 424
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 834
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1970 n. 424
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-L'art. 132, relativo all'elenco delle scuole annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Malattie del ricambio e dell'apparato digerente" muta la denominazione in quella di "Malattie dell'apparato digerente".
-
-L'art. 181, relativo alla "Scuola di specializzazione in malattie del ricambio e dell'apparato digerente" che muta la denominazione in "Scuola di specializzazione in malattie dell'apparato digerente" e' abrogato e sostituito dal seguente:
-
-Scuola di specializzazione in malattie dell'apparato digerente
-
-Art. 181. - La durata del corso e' di quattro anni.
-
-insegnamenti fondamentali:
-
-1° Anno:
-
-1) Anatomia patologica;
-
-2) Fisiopatologia;
-
-3) Chimica clinica;
-
-4) Semeiotica fisica e strumentale;
-
-5) Clinica medica.
-
-2° Anno:
-
-1) Semeiotica fisica e strumentale;
-
-2) Semeiotica radiologica;
-
-3) Malattie dell'apparato gastroenterico;
-
-4) Clinica e terapia medica.
-
-3° Anno:
-
-1) Malattie del fegato e del pancreas;
-
-2) Clinica e terapia medica.
-
-Agli insegnamenti fondamentali potranno essere aggiunti insegnamenti complementari con corsi semestrali ed in numero non superiore a sei come indicazioni operatorie, medicina operatoria, metodica operatoria, medicina nucleare, ecc.
-
-4° Anno:
-
-Tirocinio pratico da svolgersi presso l'istituto in cui ha sede la scuola stessa.
-
-Al termine di ogni anno di corso lo studente dovra' sostenere un esame di profitto scritto ed orale per accertare la sua preparazione.
-
-Al termine del corso lo studente dovra' sostenere un esame di diploma consistente nella presentazione di una tesi riguardante un argomento che lo studente ha particolarmente approfondito ed in cui ha eventualmente condotto ricerche personali.
-
-Alla scuola saranno ammessi numero sei allievi per ciascun anno di corso.
-
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e de decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 4 agosto 1971
-
-SARAGAT
-
-MISASI
-
-Visto, il Guardasigilli: COLOMBO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 14 ottobre 1971 Atti del Governo, registro n. 244, foglio n. 140. - CARUSO
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1935, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-L'art. 132, relativo all'elenco delle scuole annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Malattie del ricambio e dell'apparato digerente" muta la denominazione in quella di "Malattie dell'apparato digerente".  
-L'art. 181, relativo alla "Scuola di specializzazione in malattie del ricambio e dell'apparato digerente" che muta la denominazione in "Scuola di specializzazione in malattie dell'apparato digerente" e' abrogato e sostituito dal seguente:  
-  
-Scuola di specializzazione in malattie dell'apparato digerente  
-Art. 181. - La durata del corso e' di quattro anni.  
-insegnamenti fondamentali:  
-1° Anno:  
-1) Anatomia patologica;  
-2) Fisiopatologia;  
-3) Chimica clinica;  
-4) Semeiotica fisica e strumentale;  
-5) Clinica medica.  
-2° Anno:  
-1) Semeiotica fisica e strumentale;  
-2) Semeiotica radiologica;  
-3) Malattie dell'apparato gastroenterico;  
-4) Clinica e terapia medica.  
-3° Anno:  
-1) Malattie del fegato e del pancreas;  
-2) Clinica e terapia medica.  
-Agli insegnamenti fondamentali potranno essere aggiunti insegnamenti complementari con corsi semestrali ed in numero non superiore a sei come indicazioni operatorie, medicina operatoria, metodica operatoria, medicina nucleare, ecc.  
-4° Anno:  
-Tirocinio pratico da svolgersi presso l'istituto in cui ha sede la scuola stessa.  
-  
-Al termine di ogni anno di corso lo studente dovra' sostenere un esame di profitto scritto ed orale per accertare la sua preparazione.  
-Al termine del corso lo studente dovra' sostenere un esame di diploma consistente nella presentazione di una tesi riguardante un argomento che lo studente ha particolarmente approfondito ed in cui ha eventualmente condotto ricerche personali.  
-Alla scuola saranno ammessi numero sei allievi per ciascun anno di corso.  
+Art. 31, relativo al corso di laurea in chimica e' modificato nel senso che gli ultimi due commi sono soppressi.   
+Art. 34. - E' abrogato e sostituito dal seguente:   
+"L'esame di laurea consiste nella discussione di una dissertazione scritta, riguardante ricerche originali su argomenti riferentisi alle discipline del corso di laurea ed eseguite presso uno degli istituti gia' frequentati dallo studente. Consiste anche nella discussione di una tesina scritta riguardante argomenti di   
+interesse chimico"   
+Art. 37, relativo al corso di laurea in chimica industriale e' modificato nel senso che il terzo comma e abrogato e sostituito dal seguente:   
+"L'insegnamento di chimica fisica e le esercitazioni relative comportano un esame alla fine di ogni anno di corso. Le stesse norme valgono per la chimica industriale e le esercitazioni rispettive".   
+Art. 38. - Il secondo comma e' soppresso.   
   
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e de decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 agosto 1971
+### Dato a Roma, addi' 12 maggio 1970
 
 SARAGAT MISASI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 14 ottobre 1971
+Registrato alla Corte dei conti, addi' 30 giugno 1970
 
-Atti del Governo, registro n. 244, foglio n. 140. - CARUSO
+Atti del Governo, registro n. 236, foglio n. 92. - CARUSO

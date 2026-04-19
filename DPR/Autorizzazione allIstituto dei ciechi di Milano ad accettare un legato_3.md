@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 ottobre 1985 n. 774
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1986 n. 500
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 ottobre 1985 n. 774
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1986 n. 500
+=============================================================
 
 Autorizzazione all'Istituto dei ciechi di Milano ad accettare un legato.
 ------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-774. Decreto del Presidente della Repubblica 12 ottobre 1985, col quale, sulla proposta del Ministro della pubblica istruzione, l'Istituto dei ciechi di Milano viene autorizzato ad accettare il legato, consistente in due unita' immobiliari del valore complessivo, secondo la stima dell'ufficio tecnico erariale, di L. 240.000.000, disposto dalla sig.ra Rosa Canavesi ved. Bombelli con testamento olografo 5 novembre 1968, pubblicato in data 20 ottobre 1982, n. 24117/ 2399, a rogito dott. Mario Grossi, notaio in Corbetta (Milano), registrato in Abbiategrasso (Milano) il 9 novembre 1982 al n. 1016.  
+500. Decreto del Presidente della Repubblica 4 giugno 1986, col quale, sulla proposta del Ministro della pubblica istruzione, l'Istituto dei ciechi di Milano viene autorizzato ad accettare il legato, consistente in un appartamento sito in Milano, via Porpora n. 12, in titoli e denaro del valore stimato di L. 78.164.634 (L. 90.120.634 in attivita' e L. 11.956.000 in passivita), disposto dalla sig.ra Luigia Daprati ved. Cesarini con testamento olografo 10 luglio 1974, pubblicato e depositato con atto 18 luglio 1984, n. 90096 di repertorio e n. 12959 di raccolta, a rogito dott. Nicola Scorza, notaio in Milano, registrato a Milano in data 25 luglio 1984 al n. 22846/A.   
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 14 dicembre 1985  
-Registro n. 86 Istruzione, foglio n. 136
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 11 agosto 1986   
+Registro n. 63 Istruzione, foglio n. 345

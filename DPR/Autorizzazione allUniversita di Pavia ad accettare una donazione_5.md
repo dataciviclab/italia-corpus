@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 luglio 1950 n. 645
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1953 n. 907
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 luglio 1950 n. 645
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1953 n. 907
 =============================================================
 
 Autorizzazione all'Universita' di Pavia ad accettare una donazione.
@@ -12,7 +12,8 @@ Art. 1
 
 N.
 
-645. Decreto del Presidente della Repubblica 4 luglio 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Pavia viene autorizzata ad accettare la donazione della somma di L. 170.000, in titoli di Rendita 5%, e di L. 8500, in contanti, disposta in suo favore dal prof. Pietro Vaccari, anche a nome dei familiari, colleghi ed amici, con atto pubblico amministrativo in data 11 gennaio 1950, per l'istituzione di un premio di studio da intitolarsi al nome del "dott. Enrico Vaccari" e da conferirsi, ogni triennio, ad uno studioso italiano per un lavoro pubblicato nel campo della fitogeografia, che riguardi l'Italia.  
+907. Decreto del Presidente della Repubblica 30 luglio 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Pavia viene autorizzata ad accettare la donazione di L. 600.000 (seicentomila) nominali in cartelle di Rendita italiana 5% al portatore, oltre L. 60.000 in denaro liquido, disposta in suo favore dal prof. Luigi Brusotti, per l'istituzione, con la rendita del capitale donato, di un premio di studio intitolato "Premio Luigi Berzolari".  
   
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 8 agosto 1950
+Visto, il Guardasigilli: AZARA  
+Registrato alla Corte dei conti, addi' 7 dicembre 1953  
+Atti del Governo, registro n. 80, foglio n. 66. - PALLA

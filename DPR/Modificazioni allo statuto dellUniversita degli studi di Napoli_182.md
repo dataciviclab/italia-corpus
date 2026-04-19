@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1966 n. 751
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1982 n. 1018
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1966 n. 751
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1982 n. 1018
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,74 +20,58 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
+
+Considerata la necessita' di adeguare la norma sulla direzione e sul consiglio di istituto a quanto stabilito dall'[art. 88 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art88);
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 116. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di:
+Articolo unico
+--------------
 
-39) Chirurgia sperimentale;
-
-40) Chirurgia geriatrica;
-
-41) Chirurgia vascolare.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato ad Antagnod, addi' 5 agosto 1966
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 22 settembre 1966. Atti del Governo, registro n. 206, foglio n. 17.- DI PRETORO
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 116. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di:  
-39) Chirurgia sperimentale;  
-40) Chirurgia geriatrica;  
-41) Chirurgia vascolare.  
+Dopo l'art. 62, con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i nuovi seguenti articoli concernenti l'istituzione dell'istituto polidisciplinare di diritto internazionale e comunitario.   
+Art. 63. - E' costituito presso la facolta' di giurisprudenza l'istituto di diritto internazionale e comunitario.   
+L'istituto raggruppa gli insegnamenti:   
+diritto internazionale;   
+diritto delle Comunita' europee;   
+organizzazione internazionale;   
+diritto internazionale privato e processuale.   
+All'istituto saranno aggregati tutti gli altri insegnamenti che verranno istituiti in futuro per altre materie internazionalistiche.   
+Art. 64. - L'istituto ha il fine di promuovere e coordinare l'insegnamento, la ricerca ed ogni altra iniziativa o manifestazione scientifica o culturale nel campo delle discipline che fanno capo ad esso.   
+A tale scopo disporra' delle attrezzature in dotazione. L'istituto curera' inoltre la raccolta del materiale scientifico e provvedera' a pubblicazioni autonome.   
+Art. 65. - Fa parte dell'istituto il personale docente e non docente afferente all'istituto stesso; sono ammessi a frequentare di diritto l'istituto gli studenti della facolta' di giurisprudenza.  
+Possono essere ammessi anche altri studenti, studiosi e laureati di altre facolta' e Universita' secondo le modalita' di cui al regolamento previsto dall'[art. 88, sesto comma, del decreto del Presidente della Repubblica n. 382/80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art88-com6).   
+Art. 66. - Il direttore dell'istituto e' un professore ordinario o straordinario di una delle discipline di cui all'art. 63, nominato dal rettore su designazione del consiglio d'istituto.   
+Il direttore coordina e sovraintende alla attivita' dell'istituto, e' responsabile della gestione amministrativa e contabile dell'istituto stesso e dura in carica un triennio.   
+In mancanza di professori ordinari e straordinari si applicano le norme di cui al [quarto comma dell'art. 88 del decreto del Presidente della Repubblica n. 382/80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art88-com4).   
+Il consiglio di istituto e' costituito dai professori ufficiali e dagli assistenti di ruolo, che vi afferiscono, nonche' da una rappresentanza, da uno a cinque ricercatori qualora essi superino il numero di tre.   
+Il consiglio esprime parere sul regolamento interno dell'istituto, sul coordinamento delle materie e dei tempi e dei modi dei corsi - salvo l'autonomia di ogni insegnamento - sulla formazione della biblioteca, sul prestito interno ed esterno del materiale librario e didattico-scientifico, sulle ammissioni di cui all'articolo 65.   
+Esprime parere altresi' su ogni altra questione sottopostagli dal direttore.   
+Art. 67. - Il direttore informera' dei piu' rilevanti problemi dell'istituto, almeno una volta all'anno, agli inizi dell'anno accademico, previo opportuno avviso pubblico, i membri dell'istituto.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato ad Antagnod, addi' 5 agosto 1966
+### Dato a Roma, addi' 11 ottobre 1982
 
-SARAGAT GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 22 settembre 1966.
+Registrato alla Corte dei conti, addi' 10 gennaio 1983
 
-Atti del Governo, registro n. 206, foglio n. 17.- DI PRETORO
+Registro n. 1 Istruzione, foglio n. 8

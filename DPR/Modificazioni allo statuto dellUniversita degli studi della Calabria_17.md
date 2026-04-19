@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1982 n. 719
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 952
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1982 n. 719
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 952
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi della Calabria.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi della Calabria.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' della Calabria approvato con [regio decreto 12 marzo 1968, n. 442](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1968-03-12;442), e successive modificazioni;
+Veduto lo statuto dell'Universita' della Calabria, approvato con [decreto del Presidente della Repubblica 1 dicembre 1971, n. 1329](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-12-01;1329), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -22,44 +22,38 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' della Calabria e convalidati dal Consiglio universitario nazionale nel suo parere;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
-Sentito il parere del Consiglio universitario nazionale;
+Veduto il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 --------
 
-Lo statuto dell'Universita' della Calabria, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi della Calabria, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Nell'art. 44, relativo all'elenco degli insegnamenti afferenti al dipartimento di matematica, sono aggiunti i seguenti nuovi insegnamenti:  
-programmazione matematica;  
-metodi della ricerca operativa;  
-metodi per il trattamento dell'informazione;  
-teoria degli algoritmi della calcolabilita'.  
-Nell'art. 46, relativo all'elenco degli insegnamenti afferenti al dipartimento di chimica, sono aggiunti i seguenti nuovi insegnamenti: meccanismi di reazione in chimica inorganica.  
-Nell'art. 49, relativo all'elenco degli insegnamenti afferenti al dipartimento di scienze della Terra, sono aggiunti i seguenti nuovi insegnamenti:  
-cristallografia;  
-petrografia applicata;  
-petrologia.  
+Nell'art. 56, concernente gli insegnamenti relativi al dipartimento di economia politica e nella tabella F (allegata all'art. 35), e' aggiunto il seguente nuovo insegnamento:  
+storia del pensiero economico.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 luglio 1982
+### Dato a Roma, addi' 19 luglio 1986
 
-PERTINI BODRATO
+COSSIGA
 
-Visto, il Guardasigilli: DARIDA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 28 settembre 1982
+Visto, il Guardasigilli: ROGNONI
 
-Registro n. 112 Istruzione, foglio n. 372
+Registrato alla Corte dei conti, addi' 30 dicembre 1986
+
+Registro n. 90 Istruzione, foglio n. 222

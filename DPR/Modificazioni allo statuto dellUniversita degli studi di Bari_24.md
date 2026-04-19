@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1970 n. 1147
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1960 n. 1746
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1970 n. 1147
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1960 n. 1746
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico dello leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,344 +20,373 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro per la pubblica Istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 7. - All'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:
+Art. 92, relativo alle propedeuticita' degli insegnamenti ed esami del corso di laurea in Scienze geologiche, e' modificato nel senso che e' soppressa la propedeuticita' di Fisica I su Mineralogia.
 
-Diritto bizantino;
+Gli articoli 95 e 96 relativi al biennio propedeutico per la laurea in Ingegneria presso la Facolta' di scienze matematiche, fisiche e naturali sono soppressi.
 
-Diritto delle Comunita' europee;
+Gli articoli da 98 a 103 del titolo X: Facolta' di ingegneria, sono abrogati e sostituiti dai seguenti:
 
-Diritto internazionale privato;
+Art. 98. - La Facolta' di ingegneria e' costituita su cinque anni e comprende il corso di laurea in Ingegneria civile nelle sue tre sezioni: edile, idraulica, trasporti.
 
-Economia del lavoro;
+Art. 99. - Titolo di ammissione al corso di laurea in Ingegneria e' il diploma di maturita' classica o di maturita' scientifica.
 
-Storia economica;
+Art. 100. - I primi due anni del corso quinquennale di studio hanno funzione preminentemente propedeutica a scopo largamente formativo e comprendono i seguenti insegnamenti fondamentali:
 
-Teoria generale del diritto;
+1° anno:
 
-Teoria generale del processo;
+1) Analisi matematica I;
 
-Storia delle codificazioni degli Stati europei;
+2) Geometria I;
 
-Storia del diritto canonico.
+3) Fisica I;
 
-Gli articoli 26 e 27, relativi all'ordinamento del corso di laurea in lingue e letterature straniere, sono abrogati e sostituiti dai seguenti:
+4) Chimica;
 
-Art. 26. - Durata del corso degli studi: quattro anni.
+5) Disegno;
 
-Titolo di ammissione: diploma di maturita' classica, di maturita' scientifica, di abilitazione magistrale o licenza rilasciata dalla scuola civica "Regina Margherita" di Genova, ora "Grazia Deledda", o dalla scuola civica "Alessandro Manzoni" di Milano o dall'istituto di cultura e lingue "Marcelline" di Milano ovvero licenza rilasciata dal liceo linguistico femminile "Santa Caterina da Siena" di Venezia o dal liceo linguistico "Orsoline del Sacro Cuore" di Cortina d'Ampezzo; diploma di abilitazione per i provenienti dagli istituti tecnici di ogni tipo compresi gli istituti tecnici femminili e diploma della scuola di magistero professionale per la donna.
+2° anno:
 
-Insegnamenti fondamentali:
+6) Analisi matematica II;
 
-1) Lingua e letteratura italiana (biennale);
+7) Meccanica razionale;
 
-2) Una lingua e letteratura straniera (quadriennale) da scegliersi tra: francese, inglese, tedesco, spagnolo, albanese, arabo, portoghese, russo, serbo-croato o qualsiasi altra il cui insegnamento sia impartito nel corso di laurea;
+8) Fisica II;
 
-3) Una seconda lingua e letteratura straniera (triennale) da scegliersi tra quelle insegnate nel corso di laurea;
+9) Disegno II (differenziato secondo i corsi di laurea); quest'ultimo in sostituzione della Geometria II.
 
-4) La filologia afferente la lingua scelta come quadriennale;
+Art. 101. - Gli studenti del primo anno di corso potranno ottenere l'iscrizione al secondo anno di corso qualora abbiano superato almeno due fra i quattro seguenti esami: Analisi matematica I, Geometria I, Fisica I, Chimica.
 
-5) Glottologia;
+Al termine del secondo anno di corso lo studente per essere ammesso al terzo anno di corso dovra' aver superato gli esami di tutte le discipline del biennio propedeutico.
 
-6) Storia moderna e contemporanea;
+I due esami di Fisica comprendono la parte riguardante le relative esercitazioni.
 
-7) Geografia, soprattutto antropica.
+Art. 102. - Gli insegnamenti del triennio 3°, 4° e 3° anno hanno carattere applicativo e si distinguono in:
 
-Insegnamenti complementari:
+A) Obbligatori comuni sul piano nazionale;
 
-Oltre agli insegnamenti fondamentali, lo studente dovra' seguire, superando il relativo esame di ciascuno di essi, tre insegnamenti scelti fra le discipline insegnate nella facolta' (con esclusione di quelle pluriennali) ovvero ma in questo caso, previa approvazione dell'organo universitario competente, fra le discipline di altra facolta' della stessa sede universitaria.
+B) Obbligatori sul piano della Facolta';
 
-Gli insegnamenti complementari impartiti nella facolta' vengono resi noti tempestivamente prima dell'inizio dei corsi.
+C) Gruppi di materia a scelta dello studente.
 
-Fra gli insegnamenti da impartirsi nella facolta' figureranno necessariamente i seguenti: lingua e letteratura latina; storia della filosofia; storia dell'arte; didattica delle lingue moderne. La facolta' scegliera' inoltre gli insegnamenti da impartirsi nella facolta' tra tutti quelli previsti nell'attuale ordinamento delle facolta' di lingue, di lettere e filosofia, di magistero, di giurisprudenza e di scienze politiche, nonche' fra le seguenti materie: cibernetica, linguistica; dialettologia e letteratura italo-albanese; geografia delle lingue; geografia storica; letteratura belga vallone; lingua e letteratura provenzale; storia della lingua francese; storia della lingua inglese; storia della lingua latina; storia della lingua tedesca.
+Il terzo anno, comune alle tre sezioni, comprende i seguenti insegnamenti:
 
-Per la lingua e letteratura scelta come quadriennale sono previste prove scritte e orali per, ciascun anno di corso.
+10) Scienza delle costruzioni;
 
-Per la lingua e letteratura scelta come triennale sono previste prove orali per ciascun anno di corso e prove scritte al secondo anno e al terzo anno del corso della lingua e letteratura triennale stessa.
+11) Meccanica applicata alle macchine e macchine;
 
-Le prove scritte relative alle lingue e letterature scelte come triennali o quadriennali costituiscono parte integrante della corrispondente prova orale. E' previsto un voto unico complessivo per le prove scritte e orali relative a ciascun anno di corso. Il numero e il tipo delle prove scritte (dettato, traduzione dall'italiano e in italiano, composizione, test, esercizi di comprehension, ecc.) vengono determinati dall'organo deliberante della facolta' a seconda delle particolari esigenze didattiche di ciascuna lingua e letteratura.
+12) Fisica tecnica;
 
-Gli esami di italiano consistono in due prove orali (una per ciascun anno di corso) ed in una prova scritta, che puo' essere sostenuta in uno qualsiasi degli anni di corso.
+13) Idraulica;
 
-Tutti gli altri esami sono orali.
+14) Tecnologie dei materiali e chimica applicata;
 
-L'esame di storia e quello di geografia sono afferenti alla lingua scelta come quadriennale.
+15) Architettura tecnica;
 
-I competenti organi della facolta' si riservano, con motivate deliberazioni, di rendere obbligatoria una o due delle materie complementari.
+16) Topografia.
 
-L'organo deliberante della facolta' potra' consentire, su richiesta motivata dell'interessato, che lo studente, in luogo dell'insegnamento della seconda lingua e letteratura straniera triennale, segua l'insegnamento di una disciplina biennale e di una annuale, tenuto conto delle esigenze di formazione culturale e di preparazione professionale dello studente.
+Gli insegnamenti del 4° e 5° anno della sezione edile sono i seguenti:
 
-Art. 27. - Superati tutti gli esami fondamentali e complementari previsti dal piano degli studi, lo studente deve presentare un elaborato scritto su un argomento scelto tra una delle discipline di cui abbia superato gli esami, nel quadro della civilta' della lingua quadriennale. Tale elaborato sara' discusso dinanzi ad una commissione di docenti.
+4° anno:
 
-Art. 30. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:
+17) Elettrotecnica;
 
-Storia dell'arte moderna e contemporanea;
+18) Tecnica delle costruzioni;
 
-Storia dell'architettura;
+19) Architettura tecnica II;
 
-Storia della critica d'arte.
+20) Geologia applicata;
 
-Art. 34. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:
+21) Costruzioni idrauliche;
 
-Filosofia della storia;
+22) Tecnica urbanistica;
 
-Filosofia del linguaggio.
+23) Costruzioni di strade, ferrovie ed aeroporti.
 
-Art. 64. - All'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti i seguenti:
+5° anno:
 
-Chemioterapia;
+24) Architettura e composizione architettonica;
 
-Chimica organica superiore;
+25) Materie giuridiche e legislazione dei lavori pubblici;
 
-Chimica dei prodotti cosmetici.
+26) Estimo e principi di tecnica economica;
 
-Art. 70. - All'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologia farmaceutiche sono aggiunti i seguenti:
+27) Scienza delle costruzioni II;
 
-\* Chemioterapia;
+28) Impianti tecnici edili;
 
-\* Chimica organica superiore;
+A scelta uno dei seguenti gruppi:
 
-\* Chimica dei prodotti cosmetici.
+| 29) Igiene applicata;
 
-Gli articoli 127, 130, 132, 133, 135, relativi alla scuola di perfezionamento in diritto del lavoro e previdenza sociale, annessa alla facolta' di giurisprudenza, sono abrogati e sostituiti dai seguenti:
+I <
 
-Art. 127. - Alla scuola potranno iscriversi i laureati in giurisprudenza, in economia e commercio, in lingue e letterature straniere, in scienze politiche, in scienze agrarie, in lettere e filosofia, in ingegneria, in medicina e chirurgia, in chimica, o coloro in possesso di laurea o diploma conferito dalla facolta' di magistero o di altri titoli equiparati ai precedenti conferiti da istituti italiani o stranieri.
+| 30) Tecnologie del materiali edili;
 
-Art. 130. - Alla direzione della scuola sara' pretesto un professore della scuola stessa designato dalla facolta' giuridica e scelto tra gli insegnanti di ruolo. Egli dura in carica un triennio.
+| 29) Cantieri edili;
 
-Art. 132. - Il consiglio della scuola si compone del direttore e di due professori della scuola stessa designati dalla facolta' giuridica.
+II <
 
-Esso potra' essere integrato, per cooptazione, da membri con voto consultivo scelti in rappresentanza di enti o associazioni operanti nel campo industriale, sindacale e previdenziale, e degli istituti per l'intervento pubblico nel Mezzogiorno.
+| 30) Tecnologie della produzione.
 
-Art. 133. - Gli insegnamenti della scuola si distinguono in:
+Gli insegnamenti del 4° e 5° anno della sezione idraulica sono i seguenti:
 
-a) fondamentali a carattere generale;
+4° anno:
 
-b) materie a scelta dell'iscritto ripartite in due indirizzi: previdenziale, relazioni industriali.
+17) Elettrotecnica;
 
-Essi sono indicati nelle tabelle seguenti:
+18) Tecnica delle costruzioni;
 
-a) 1° Anno:
+19) Architettura tecnica II;
 
-1) Diritto sindacale;
+20) Costruzioni idrauliche;
 
-2) Rapporto individuale di lavoro;
+21) Geologia applicata;
 
-3) Economia del lavoro;
+22) Complementi di costruzioni idrauliche;
 
-4) Rapporto di pubblico impiego.
+23) Costruzione di strade, ferrovie ed aeroporti;
 
-2° Anno:
+5° anno:
 
-5) Legislazione sociale e previdenziale;
+24) Materie giuridiche e legislazione dei lavori pubblici;
 
-6) Statistica del lavoro;
+25) Estimo e principi di tecnica economica;
 
-7) Storia del diritto del lavoro;
+26) Impianti speciali idraulici;
 
-8) Diritto internazionale e comunitario del lavoro.
+27) Costruzioni di ponti;
 
-b) Indirizzo previdenziale:
+28) Costruzioni marittime.
 
-Ordinamenti previdenziali comparati;
+A scelta uno dei seguenti gruppi:
 
-Tecnica dell'organizzazione degli enti previdenziali;
+| 29) Idraulica agraria;
 
-Assicurazioni sociali I (corso monografico);
+I <
 
-Assicurazioni sociali II (corso monografico);
+| 30) Tecnica della bonifica;
 
-Contenzioso delle assicurazioni sociali;
+| 29) Igiene applicata;
 
-Politica della sicurezza sociale;
+II <
 
-Economia e finanza della sicurezza sociale;
+| 30) Idrologia.
 
-Medicina del lavoro.
+Gli insegnamenti del 4° e 5° anno della sezione trasporti sono i seguenti:
 
-Indirizzo di relazioni industriali:
+4° anno:
 
-Storia del sindacalismo;
+17) Elettrotecnica;
 
-Teoria del sindacalismo e delle relazioni industriali;
+18) Tecnica delle costruzioni;
 
-Sociologia del lavoro;
+19) Architettura tecnica II;
 
-Diritto sindacale comparato;
+20) Costruzione di strade, ferrovie ed aeroporti;
 
-Tecnica della contrattazione collettiva;
+21) Geologia applicata;
 
-Metodi retributivi;
+22) Costruzioni Idrauliche;
 
-Psicologia del lavoro;
+23) Tecnica urbanistica;
 
-Organizzazione aziendale e del lavoro;
+5° anno:
 
-Direzione del personale nell'impresa;
+24) Materie giuridiche e legislazione dei lavori pubblici;
 
-Controversie di lavoro;
+25) Estimo e principi di tecnica economica;
 
-Tutela amministrativa del lavoro.
+26) Tecnica ed economia dei trasporti;
 
-Il consiglio della scuola determina annualmente l'insegnamento di almeno quattro materie per ciascun indirizzo opzionale, prescegliendole fra quelle indicate nelle precedenti tabelle. Il direttore (della scuola), inoltre, puo' promuovere conferenze e dibattiti ed assumere altre iniziative intese all'incremento dell'attivita' didattica e scientifica della scuola, nell'ambito delle direttive deliberate dal consiglio della scuola.
+27) Costruzione di ponti;
 
-Art. 135. - I componenti le commissioni degli esami di profitto, nominati dal direttore della scuola, saranno tre: il professore ufficiale della materia; un altro professore della scuola; un cultore della materia.
+28) Macchine ed organizzazione dei cantieri.
 
-Il consiglio direttivo potra' deliberare, che gli esami siano svolti contemporaneamente per un gruppo di materie e per tutte le materie di un anno di corso. In tal caso la commissione esaminatrice sara' costituita da un numero di componenti non inferiore a cinque, scelti per i due indirizzi di insegnamento.
+A scelta uno del seguenti gruppi di materie:
 
-La commissione per l'esame di diploma, composta da sette membri (quattro professori ufficiali della scuola e tre liberi docenti o cultori della materia) e nominata, su proposta del direttore della scuola, dal preside della facolta' giuridica.
+| 29) Complementi di costruzioni stradali;
+
+I <
+
+| 30) Tecnica della circolazione;
+
+| 29) Trazione elettrica;
+
+II <
+
+| 30) Complementi di tecnica ed economia dei trasporti.
+
+Art. 103. - Per essere ammesso all'esame di laurea lo studente dovra' aver superato tutti gli insegnamenti obbligatori del triennio di applicazione compresi quelli a scelta dello studente.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 14 ottobre 1970
+Dato a Roma, addi' 30 ottobre 1960
 
-SARAGAT
+GRONCHI
 
-MISASI
+BOSCO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 9 gennaio 1971 Atti del Governo, registro n. 240, foglio n. 2. - CARUSO
+alla Corte del conti, addi' 26 gennaio 1961 Atti del Governo, registro n. 133, foglio n. 97. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e successivi;  
+Veduto il testo unico dello leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Veduto il [decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica Istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 7. - All'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:  
   
-Diritto bizantino;  
-Diritto delle Comunita' europee;  
-Diritto internazionale privato;  
-Economia del lavoro;  
-Storia economica;  
-Teoria generale del diritto;  
-Teoria generale del processo;  
-Storia delle codificazioni degli Stati europei;  
-Storia del diritto canonico.  
+Art. 92, relativo alle propedeuticita' degli insegnamenti ed esami del corso di laurea in Scienze geologiche, e' modificato nel senso che e' soppressa la propedeuticita' di Fisica I su Mineralogia.  
   
-Gli articoli 26 e 27, relativi all'ordinamento del corso di laurea in lingue e letterature straniere, sono abrogati e sostituiti dai seguenti:  
-Art. 26. - Durata del corso degli studi: quattro anni.  
-Titolo di ammissione: diploma di maturita' classica, di maturita' scientifica, di abilitazione magistrale o licenza rilasciata dalla scuola civica "Regina Margherita" di Genova, ora "Grazia Deledda", o dalla scuola civica "Alessandro Manzoni" di Milano o dall'istituto di cultura e lingue "Marcelline" di Milano ovvero licenza rilasciata dal liceo linguistico femminile "Santa Caterina da Siena" di Venezia o dal liceo linguistico "Orsoline del Sacro Cuore" di Cortina d'Ampezzo; diploma di abilitazione per i provenienti dagli istituti tecnici di ogni tipo compresi gli istituti tecnici femminili e diploma della scuola di magistero professionale per la donna.  
-Insegnamenti fondamentali:  
-1) Lingua e letteratura italiana (biennale);  
-2) Una lingua e letteratura straniera (quadriennale) da scegliersi tra: francese, inglese, tedesco, spagnolo, albanese, arabo, portoghese, russo, serbo-croato o qualsiasi altra il cui insegnamento sia impartito nel corso di laurea;  
-3) Una seconda lingua e letteratura straniera (triennale) da scegliersi tra quelle insegnate nel corso di laurea;  
-4) La filologia afferente la lingua scelta come quadriennale;  
-5) Glottologia;  
-6) Storia moderna e contemporanea;  
-7) Geografia, soprattutto antropica.  
-Insegnamenti complementari:  
+Gli articoli 95 e 96 relativi al biennio propedeutico per la laurea in Ingegneria presso la Facolta' di scienze matematiche, fisiche e naturali sono soppressi.  
   
-Oltre agli insegnamenti fondamentali, lo studente dovra' seguire, superando il relativo esame di ciascuno di essi, tre insegnamenti scelti fra le discipline insegnate nella facolta' (con esclusione di quelle pluriennali) ovvero ma in questo caso, previa approvazione dell'organo universitario competente, fra le discipline di altra facolta' della stessa sede universitaria.  
-Gli insegnamenti complementari impartiti nella facolta' vengono resi noti tempestivamente prima dell'inizio dei corsi.  
-Fra gli insegnamenti da impartirsi nella facolta' figureranno necessariamente i seguenti: lingua e letteratura latina; storia della filosofia; storia dell'arte; didattica delle lingue moderne. La facolta' scegliera' inoltre gli insegnamenti da impartirsi nella facolta' tra tutti quelli previsti nell'attuale ordinamento delle facolta' di lingue, di lettere e filosofia, di magistero, di giurisprudenza e di scienze politiche, nonche' fra le seguenti materie: cibernetica, linguistica; dialettologia e letteratura italo-albanese; geografia delle lingue; geografia storica; letteratura belga vallone; lingua e letteratura provenzale; storia della lingua francese; storia della lingua inglese; storia della lingua latina; storia della lingua tedesca.  
-Per la lingua e letteratura scelta come quadriennale sono previste prove scritte e orali per, ciascun anno di corso.  
-Per la lingua e letteratura scelta come triennale sono previste prove orali per ciascun anno di corso e prove scritte al secondo anno e al terzo anno del corso della lingua e letteratura triennale stessa.  
-Le prove scritte relative alle lingue e letterature scelte come triennali o quadriennali costituiscono parte integrante della corrispondente prova orale. E' previsto un voto unico complessivo per le prove scritte e orali relative a ciascun anno di corso. Il numero e il tipo delle prove scritte (dettato, traduzione dall'italiano e in italiano, composizione, test, esercizi di comprehension, ecc.) vengono determinati dall'organo deliberante della facolta' a seconda delle particolari esigenze didattiche di ciascuna lingua e letteratura.  
-Gli esami di italiano consistono in due prove orali (una per ciascun anno di corso) ed in una prova scritta, che puo' essere sostenuta in uno qualsiasi degli anni di corso.  
-Tutti gli altri esami sono orali.  
-L'esame di storia e quello di geografia sono afferenti alla lingua scelta come quadriennale.  
-I competenti organi della facolta' si riservano, con motivate deliberazioni, di rendere obbligatoria una o due delle materie complementari.  
-L'organo deliberante della facolta' potra' consentire, su richiesta motivata dell'interessato, che lo studente, in luogo dell'insegnamento della seconda lingua e letteratura straniera triennale, segua l'insegnamento di una disciplina biennale e di una annuale, tenuto conto delle esigenze di formazione culturale e di preparazione professionale dello studente.  
-Art. 27. - Superati tutti gli esami fondamentali e complementari previsti dal piano degli studi, lo studente deve presentare un elaborato scritto su un argomento scelto tra una delle discipline di cui abbia superato gli esami, nel quadro della civilta' della lingua quadriennale. Tale elaborato sara' discusso dinanzi ad una commissione di docenti.  
-Art. 30. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
-Storia dell'arte moderna e contemporanea;  
-Storia dell'architettura;  
-Storia della critica d'arte.  
-Art. 34. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:  
-Filosofia della storia;  
-Filosofia del linguaggio.  
-Art. 64. - All'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti i seguenti:  
-Chemioterapia;  
-Chimica organica superiore;  
-Chimica dei prodotti cosmetici.  
-Art. 70. - All'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologia farmaceutiche sono aggiunti i seguenti:  
-\* Chemioterapia;  
-\* Chimica organica superiore;  
-\* Chimica dei prodotti cosmetici.  
-Gli articoli 127, 130, 132, 133, 135, relativi alla scuola di perfezionamento in diritto del lavoro e previdenza sociale, annessa alla facolta' di giurisprudenza, sono abrogati e sostituiti dai seguenti:  
-Art. 127. - Alla scuola potranno iscriversi i laureati in giurisprudenza, in economia e commercio, in lingue e letterature straniere, in scienze politiche, in scienze agrarie, in lettere e filosofia, in ingegneria, in medicina e chirurgia, in chimica, o coloro in possesso di laurea o diploma conferito dalla facolta' di magistero o di altri titoli equiparati ai precedenti conferiti da istituti italiani o stranieri.  
-Art. 130. - Alla direzione della scuola sara' pretesto un professore della scuola stessa designato dalla facolta' giuridica e scelto tra gli insegnanti di ruolo. Egli dura in carica un triennio.  
-Art. 132. - Il consiglio della scuola si compone del direttore e di due professori della scuola stessa designati dalla facolta' giuridica.  
-Esso potra' essere integrato, per cooptazione, da membri con voto consultivo scelti in rappresentanza di enti o associazioni operanti nel campo industriale, sindacale e previdenziale, e degli istituti per l'intervento pubblico nel Mezzogiorno.  
-Art. 133. - Gli insegnamenti della scuola si distinguono in:  
-a) fondamentali a carattere generale;  
-b) materie a scelta dell'iscritto ripartite in due indirizzi: previdenziale, relazioni industriali.  
-Essi sono indicati nelle tabelle seguenti:  
-a) 1° Anno:  
-1) Diritto sindacale;  
-2) Rapporto individuale di lavoro;  
-3) Economia del lavoro;  
-4) Rapporto di pubblico impiego.  
-2° Anno:  
-5) Legislazione sociale e previdenziale;  
-6) Statistica del lavoro;  
-7) Storia del diritto del lavoro;  
-8) Diritto internazionale e comunitario del lavoro.  
-b) Indirizzo previdenziale:  
-Ordinamenti previdenziali comparati;  
-Tecnica dell'organizzazione degli enti previdenziali;  
-Assicurazioni sociali I (corso monografico);  
-Assicurazioni sociali II (corso monografico);  
-Contenzioso delle assicurazioni sociali;  
-Politica della sicurezza sociale;  
-Economia e finanza della sicurezza sociale;  
-Medicina del lavoro.  
-Indirizzo di relazioni industriali:  
-Storia del sindacalismo;  
-Teoria del sindacalismo e delle relazioni industriali;  
-Sociologia del lavoro;  
-Diritto sindacale comparato;  
-Tecnica della contrattazione collettiva;  
-Metodi retributivi;  
-Psicologia del lavoro;  
-Organizzazione aziendale e del lavoro;  
-Direzione del personale nell'impresa;  
-Controversie di lavoro;  
-Tutela amministrativa del lavoro.  
-Il consiglio della scuola determina annualmente l'insegnamento di almeno quattro materie per ciascun indirizzo opzionale, prescegliendole fra quelle indicate nelle precedenti tabelle. Il direttore (della scuola), inoltre, puo' promuovere conferenze e dibattiti ed assumere altre iniziative intese all'incremento dell'attivita' didattica e scientifica della scuola, nell'ambito delle direttive deliberate dal consiglio della scuola.  
-Art. 135. - I componenti le commissioni degli esami di profitto, nominati dal direttore della scuola, saranno tre: il professore ufficiale della materia; un altro professore della scuola; un cultore della materia.  
-Il consiglio direttivo potra' deliberare, che gli esami siano svolti contemporaneamente per un gruppo di materie e per tutte le materie di un anno di corso. In tal caso la commissione esaminatrice sara' costituita da un numero di componenti non inferiore a cinque, scelti per i due indirizzi di insegnamento.  
-La commissione per l'esame di diploma, composta da sette membri (quattro professori ufficiali della scuola e tre liberi docenti o cultori della materia) e nominata, su proposta del direttore della scuola, dal preside della facolta' giuridica.  
+Gli articoli da 98 a 103 del titolo X: Facolta' di ingegneria, sono abrogati e sostituiti dai seguenti:  
+  
+Art. 98. - La Facolta' di ingegneria e' costituita su cinque anni e comprende il corso di laurea in Ingegneria civile nelle sue tre sezioni: edile, idraulica, trasporti.  
+  
+Art. 99. - Titolo di ammissione al corso di laurea in Ingegneria e' il diploma di maturita' classica o di maturita' scientifica.  
+  
+Art. 100. - I primi due anni del corso quinquennale di studio hanno funzione preminentemente propedeutica a scopo largamente formativo e comprendono i seguenti insegnamenti fondamentali:  
+1° anno:  
+1) Analisi matematica I;  
+2) Geometria I;  
+3) Fisica I;  
+4) Chimica;  
+5) Disegno;  
+2° anno:  
+6) Analisi matematica II;  
+7) Meccanica razionale;  
+8) Fisica II;  
+9) Disegno II (differenziato secondo i corsi di laurea); quest'ultimo in sostituzione della Geometria II.  
+  
+Art. 101. - Gli studenti del primo anno di corso potranno ottenere l'iscrizione al secondo anno di corso qualora abbiano superato almeno due fra i quattro seguenti esami: Analisi matematica I, Geometria I, Fisica I, Chimica.  
+Al termine del secondo anno di corso lo studente per essere ammesso al terzo anno di corso dovra' aver superato gli esami di tutte le discipline del biennio propedeutico.  
+I due esami di Fisica comprendono la parte riguardante le relative esercitazioni.  
+  
+Art. 102. - Gli insegnamenti del triennio 3°, 4° e 3° anno hanno carattere applicativo e si distinguono in:  
+A) Obbligatori comuni sul piano nazionale;  
+B) Obbligatori sul piano della Facolta';  
+C) Gruppi di materia a scelta dello studente.  
+Il terzo anno, comune alle tre sezioni, comprende i seguenti insegnamenti:  
+10) Scienza delle costruzioni;  
+11) Meccanica applicata alle macchine e macchine;  
+12) Fisica tecnica;  
+13) Idraulica;  
+14) Tecnologie dei materiali e chimica applicata;  
+15) Architettura tecnica;  
+16) Topografia.  
+Gli insegnamenti del 4° e 5° anno della sezione edile sono i seguenti:  
+4° anno:  
+17) Elettrotecnica;  
+18) Tecnica delle costruzioni;  
+19) Architettura tecnica II;  
+20) Geologia applicata;  
+21) Costruzioni idrauliche;  
+22) Tecnica urbanistica;  
+23) Costruzioni di strade, ferrovie ed aeroporti.  
+5° anno:  
+24) Architettura e composizione architettonica;  
+25) Materie giuridiche e legislazione dei lavori pubblici;  
+26) Estimo e principi di tecnica economica;  
+27) Scienza delle costruzioni II;  
+28) Impianti tecnici edili;  
+  
+A scelta uno dei seguenti gruppi:  
+| 29) Igiene applicata;  
+I <  
+| 30) Tecnologie del materiali edili;  
+| 29) Cantieri edili;  
+II <  
+| 30) Tecnologie della produzione.  
+  
+Gli insegnamenti del 4° e 5° anno della sezione idraulica sono i seguenti:  
+4° anno:  
+17) Elettrotecnica;  
+18) Tecnica delle costruzioni;  
+19) Architettura tecnica II;  
+20) Costruzioni idrauliche;  
+21) Geologia applicata;  
+22) Complementi di costruzioni idrauliche;  
+23) Costruzione di strade, ferrovie ed aeroporti;  
+5° anno:  
+24) Materie giuridiche e legislazione dei lavori pubblici;  
+25) Estimo e principi di tecnica economica;  
+26) Impianti speciali idraulici;  
+27) Costruzioni di ponti;  
+28) Costruzioni marittime.  
+  
+A scelta uno dei seguenti gruppi:  
+| 29) Idraulica agraria;  
+I <  
+| 30) Tecnica della bonifica;  
+| 29) Igiene applicata;  
+II <  
+| 30) Idrologia.  
+  
+Gli insegnamenti del 4° e 5° anno della sezione trasporti sono i seguenti:  
+4° anno:  
+17) Elettrotecnica;  
+18) Tecnica delle costruzioni;  
+19) Architettura tecnica II;  
+20) Costruzione di strade, ferrovie ed aeroporti;  
+21) Geologia applicata;  
+22) Costruzioni Idrauliche;  
+23) Tecnica urbanistica;  
+5° anno:  
+24) Materie giuridiche e legislazione dei lavori pubblici;  
+25) Estimo e principi di tecnica economica;  
+26) Tecnica ed economia dei trasporti;  
+27) Costruzione di ponti;  
+28) Macchine ed organizzazione dei cantieri.  
+  
+A scelta uno del seguenti gruppi di materie:  
+| 29) Complementi di costruzioni stradali;  
+I <  
+| 30) Tecnica della circolazione;  
+| 29) Trazione elettrica;  
+II <  
+| 30) Complementi di tecnica ed economia dei trasporti.  
+  
+Art. 103. - Per essere ammesso all'esame di laurea lo studente dovra' aver superato tutti gli insegnamenti obbligatori del triennio di applicazione compresi quelli a scelta dello studente.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 ottobre 1970
+### Dato a Roma, addi' 30 ottobre 1960
 
-SARAGAT MISASI
+GRONCHI BOSCO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 9 gennaio 1971
+Registrato alla Corte del conti, addi' 26 gennaio 1961
 
-Atti del Governo, registro n. 240, foglio n. 2. - CARUSO
+Atti del Governo, registro n. 133, foglio n. 97. - VILLA

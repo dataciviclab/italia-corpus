@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1980 n. 147
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1976 n. 1014
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1980 n. 147
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1976 n. 1014
+===============================================================
 
 Trasferimento di un posto di assistente ordinario dalla facolta' di economia e commercio dell'Universita' di Salerno alla facolta' di scienze politiche dell'Universita' di Napoli.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -10,31 +10,37 @@ Trasferimento di un posto di assistente ordinario dalla facolta' di economia e c
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Vista la [legge 12 febbraio 1977, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-02-12;34);  
-Visto il [decreto del Presidente della Repubblica 15 aprile 1971, n. 467](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-04-15;467), con il quale e' stato assegnato un posto di assistente ordinario alla cattedra di istituzioni di diritto pubblico della facolta' di economia e commercio dell'Universita' di Salerno;  
-Viste le deliberazioni del consiglio della facolta' di economia e commercio dell'Universita' di Salerno del 24 ottobre 1978 e del 17 luglio 1979 che consentono al passaggio del posto di assistente ordinario alla cattedra di diritto dello Stato dell'Universita' di Napoli;  
-Vista la deliberazione del consiglio della facolta' di scienze politiche dell'Universita' di Napoli del 20 dicembre 1978, con cui si chiede che il posto sopra indicato venga assegnato alla cattedra di dottrina dello Stato dell'Universita' stessa al fine di far fronte alle esigenze didattiche e scientifiche della cattedra interessata;  
-Considerato che il posto di assistente ordinario della cattedra di istituzioni di diritto pubblico dell'Universita' di Salerno risulta attualmente ricoperto dal dottor Lucio D'Alessandro e che lo stesso ha espresso il proprio Consenso ad essere assegnato alla cattedra di dottrina dello Stato della facolta' di scienze politiche dell'Universita' di Napoli;  
-Ravvisata, pertanto, l'opportunita', nell'interesse pubblico, di procedere alla modificazione organica dei posti di assistente ordinario delle predette facolta';  
-Considerata l'affinita' degli insegnamenti;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Visto l'[art. 2, quarto comma, del decreto legislativo 7 maggio 1948, n. 1172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;1172~art2-com4), ratificato, con modificazioni, con [legge 24 giugno 1950, n. 465](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-06-24;465);   
+Visto l'[art. 18 della legge 24 febbraio 1967, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-24;62~art18);   
+Visto il [decreto del Presidente della Repubblica 26 marzo 1971, n. 216](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-03-26;216), con il quale venne assegnato un posto di assistente ordinario alla cattedra di contabilita' di Stato della facolta' di economia e commercio dell'Universita' di Salerno;   
+Viste le deliberazioni del consiglio della facolta' di economia e commercio e del senato accademico dell'Universita' di Salerno, rispettivamente adottate il 5 luglio 1976 e 1° ottobre 1976;   
+Viste le deliberazioni del consiglio della facolta' di scienze politiche e del senato accademico dell'Universita' di Napoli, rispettivamente adottate il 22 settembre 1976 e 18 ottobre 1976;   
+Ritenuto che dagli atti sopra richiamati si evidenzia la necessita' di assegnare un posto di assistente ordinario alla cattedra di diritto tributario della facolta' di scienze politiche dell'Universita' di Napoli al fine di perequare il rapporto assistenti studenti che allo stato attuale risulta inadeguato alle esigenze didattiche e scientifiche della cattedra interessata;   
+Ritenuto che tale esigenza puo' essere soddisfatta mediante il trasferimento presso la cattedra di diritto tributario della facolta' di scienze politiche dell'Universita' di Napoli del posto di assistente ordinario gia' assegnato alla cattedra di contabilita' di Stato della facolta' di economia e commercio dell'Universita' di Salerno con [decreto del Presidente della Repubblica 26 marzo 1971, n.   
+216](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-03-26;216);   
+Considerato che gli organi accademici dell'Universita' di Salerno hanno espresso il proprio nulla osta al trasferimento del posto in questione non ritenendolo essenziale per le esigenze didattiche e scientifiche dell'Universita', ed in particolare della cattedra di contabilita' di Stato della facolta' di economia e commercio;   
+Considerato che il consiglio della facolta' di scienze politiche dell'Universita' di Napoli nell'adunanza del 22 settembre 1976 ha dichiarato l'affinita' fra i due insegnamenti;   
+Considerato che il posto di assistente ordinario assegnato alla cattedra di contabilita' di Stato della facolta' di economia e commercio dell'Universita' di Salerno con il decreto del Presidente della Repubblica n. 216 sopracitato, risulta attualmente ricoperto dal dott. Bruno Pucci e che lo stesso ha dichiarato di consentire al proprio trasferimento presso la cattedra di diritto tributario della facolta' di scienze politiche dell'Universita' di Napoli;   
+Ravvisata, pertanto, l'opportunita' - nell'interesse pubblico - di procedere alla modificazione organica dei posti di assistente ordinario delle predette facolta';   
+Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-A decorrere dalla data del presente decreto, il posto di assistente ordinario gia' assegnato alla cattedra di istituzioni di diritto pubblico della facolta' di economia e commercio dell'Universita' di Salerno con [decreto del Presidente della Repubblica 15 aprile 1971, n. 467](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-04-15;467), e' attribuito unitamente al titolare dott. Lucio D'Alessandro alla cattedra di dottrina dello Stato della facolta' di scienze politiche dell'Universita' di Napoli.  
+A decorrere dal 1° novembre 1976, il posto di assistente ordinario gia' assegnato alla cattedra di contabilita' di Stato della facolta' di economia e commercio dell'Universita' di Salerno con il [decreto del Presidente della Repubblica 26 marzo 1971, n. 216](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-03-26;216), e' attribuito alla cattedra di diritto tributario della facolta' di scienze politiche dell'Universita' di Napoli.   
+Il dott. Bruno Pucci, che occupa il posto di assistente ordinario alla cattedra di contabilita' di Stato della facolta' di economia e commercio dell'Universita' di Salerno con il [decreto del Presidente della Repubblica 26 marzo 1971, n. 216](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-03-26;216), e' trasferito, con il proprio consenso, alla cattedra di diritto tributario della facolta' di scienze politiche dell'Universita' di Napoli, a decorrere dal 1° novembre 1976.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 gennaio 1980
+### Dato a Roma, addi' 30 ottobre 1976
 
-PERTINI VALITUTTI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 21 aprile 1980
+Registrato alla Corte dei conti, addi' 19 febbraio 1977
 
-Registro n. 35 Istruzione, foglio n. 251
+Registro n. 18 Istruzione, foglio n. 68

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 agosto 1955 n. 851
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 maggio 1953 n. 678
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 agosto 1955 n. 851
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 maggio 1953 n. 678
 =============================================================
 
 Autorizzazione all'Universita' degli studi di Pavia ad accettare una donazione.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-851. Decreto del Presidente della Repubblica 27 agosto 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Pavia viene autorizzata ad accettare dall'Istituto stomatologico italiano, con sede in Milano, una donazione consistente nel patrimonio e nell'attivita' dell'Istituto medesimo.  
+678. Decreto del Presidente della Repubblica 30 maggio 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Pavia viene autorizzata ad accettare la donazione di un appezzamento di terreno disposta in suo favore dal comune di Pavia, con atto pubblico in data 13 giugno 1938, allo scopo di contribuire alla sistemazione edilizia dell'Ateneo medesimo ed alla costruzione della Casa dello studente.  
   
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 22 settembre 1955  
-Atti del Governo, registro n. 92, foglio n. 188. - CARLOMAGNO
+Visto, il Guardasigilli: ZOLI  
+Registrato alla Corte dei conti, addi' 3 settembre 1953  
+Atti del Governo, registro n. 79, foglio n. 20. - PALLA

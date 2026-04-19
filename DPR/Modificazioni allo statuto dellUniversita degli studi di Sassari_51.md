@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 953
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 884
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 953
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 884
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Sassari.
@@ -10,108 +10,384 @@ Modificazioni allo statuto dell'Universita' degli studi di Sassari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084) e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084), e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Sassari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Sassari e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Considerata la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
 Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 77 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in radiologia.
 
+Dopo l'art. 137 sono inseriti, con il conseguente spostamento della numerazione degli articoli successivi, i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in radiologia di cui all'art. 77.
+
+Scuola di specializzazione in radiologia
+
+Art. 138. - La scuola rilascia i seguenti diplomi di specializzazione: in radiologia e in radiologia diagnostica.
+
+La scuola e' riservata ai laureati in medicina e chirurgia, che possono essere accolti in numero massimo di 5 per ciascun anno di corso per radiologia e radiologia diagnostica.
+
+Art. 139. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia e' di 4 anni.
+
+Gli insegnamenti sono i seguenti:
+
+a) matematica, fisica, nozioni di statistica e informatica (annuale) comprendente:
+
+1) richiami di matematica e fisica generale;
+
+2) costituzione della materia;
+
+3) produzione, assorbimento e misura delle radiazioni;
+
+4) statistica applicata alla medicina;
+
+5) informatica e cibernetica applicata alla radiologia;
+
+b) radiodiagnostica (triennale) comprendente:
+
+1) principi generali di radiodiagnostica;
+
+2) apparecchi, strumenti e tecnica radiodiagnostica;
+
+3) tecnica e fisiologia applicate alla radiodiagnostica;
+
+4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali, connessi con il loro impiego e loro terapia;
+
+5) semeiotica radiologica;
+
+6) diagnostica differenziale radiologica;
+
+7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;
+
+8) dimostrazioni di casistica clinica;
+
+c) radiobiologia (annuale) comprendente:
+
+1) radiobiologia generale;
+
+2) danni da radiazioni e radiopatie;
+
+d) protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
+
+1) legislazione sanitaria applicata alla radiologia;
+
+2) compiti e responsabilita' medico-legali del radiologo;
+
+3) radioprotezione fisica e dosimetria ad essa connesse;
+
+4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;
+
+5) radioprotezione chimica;
+
+6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reperti radiologici;
+
+e) radioterapia e terapia fisica (triennale) comprendente:
+
+1) radiobiologia applicata;
+
+2) fondamenti generali di radioterapia fisica;
+
+3) istopatologia speciale dei tumori;
+
+4) nozioni sugli apparecchi e strumenti per la radioterapia;
+
+5) tecnica e metodica radioterapica;
+
+6) dosimetria;
+
+7) clinica radioterapica;
+
+8) fondamenti generali di chemioterapia oncologica;
+
+9) chemioterapia clinica dei tumori e sua associazione alla radioterapia;
+
+10) dimostrazioni di casistica clinica;
+
+f) medicina nucleare (biennale) comprendente:
+
+1) elementi di medicina nucleare;
+
+2) strumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare;
+
+3) dosimetria dei radioisotopi somministrati per via interna;
+
+4) diagnostica con radioisotopi somministrati per via interna;
+
+5) radioterapia metabolica;
+
+6) dimostrazioni di casistica clinica.
+
+I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro miglior svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ed istituzioni di particolare interesse, sono cosi' distribuiti nei quattro anni di corso.
+
+1° Anno (tronco-comune):
+
+matematica, fisica, nozioni di statistica ed informatica;
+
+radiobiologia;
+
+protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia; radiodiagnostica (1). 2° Anno:
+
+radiodiagnostica (2);
+
+radioterapia e terapia fisica (1).
+
+3° Anno:
+
+radiodiagnostica (3);
+
+radioterapia e terapia fisica (2);
+
+medicina nucleare (1).
+
+4° Anno:
+
+radioterapia e terapia fisica (3);
+
+medicina nucleare (2).
+
+Art. 140. - La durata dei singoli corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.
+
+Gli insegnamenti sono i seguenti:
+
+a) matematica, fisica, nozioni di statistica ed informatica (annuale) comprendente:
+
+1) richiami di matematica e fisica generale;
+
+2) costituzione della materia;
+
+3) produzione, assorbimento e misura delle radiazioni;
+
+4) statistica applicata alla medicina;
+
+5) informatica e cibernetica applicate alla radiologia;
+
+b) radiodiagnostica (triennale) comprendente:
+
+1) principi generali di radiodiagnostica;
+
+2) apparecchi, strumenti e tecnica radiodiagnostica;
+
+3) tecnica e fisiologia applicate alla radiodiagnostica;
+
+4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;
+
+5) semeiotica radiologica;
+
+6) diagnostica differenziale radiologica;
+
+7) dimostrazioni autoptiche di pazienti sottoposti ed esami radiologici;
+
+8) dimostrazioni di casistica clinica;
+
+c) radiobiologia (annuale) comprendente:
+
+1) radiobiologia generale;
+
+2) danni da radiazioni e radiopatie;
+
+d) protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendenti:
+
+1) legislazione sanitaria applicata alla radiologia;
+
+2) compiti e responsabilita' medico-legali del radiologo;
+
+3) radioprotezione fisica e dosimetria ad essa connessa;
+
+4) fattori che influenzano l'effetto biologico dalle radiazioni e problemi connessi con le radioprotezioni;
+
+5) radioprotezione chimica;
+
+6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.
+
+I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche sono cosi' distribuiti nei 3 anni di corso:
+
+1° Anno (tronco-comune):
+
+matematica, fisica, nozioni di statistica ed informatica;
+
+radiobiologia;
+
+protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;
+
+radiodiagnostica (1).
+
+2° Anno:
+
+radiodiagnostica (2).
+
+3° Anno:
+
+radiodiagnostica (3).
+
+Per essere ammessi agli esami di diploma in radiologia e in radiologia diagnostica gli iscritti, oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia di insegnamento ed elaborata una tesi scritta su un argomento radiologico concordato con il direttore della scuola.
+
+Art. 141. - Le tasse di iscrizione e di frequenza sono fissate come segue:
+
+tassa di immatricolazione. . . . . . . . . . . . . . . . L. 6.000 tassa annuale di iscrizione . . . . . . . . . . . . . . L. 60.000 soprattassa esami di profitto. . . . . . . . . . . . . . L. 7.000 soprattassa esame di diploma . . . . . . . . . . . . . . L. 3.000 tassa annuale per fuori corso . . . . . . . . . . . . . L. 50.000
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1975
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 16 febbraio 1976 Atti di Governo, registro n. 3, foglio n. 9
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Dopo l'art. 137, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola - diretta a fini speciali - per terapisti della riabilitazione.  
+Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084), e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Sassari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Scuola diretta a fini speciali per terapisti della riabilitazione  
+Decreta:   
   
-Art. 138. - Ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20) e visto l'[art. 5 della legge 30 marzo 1971, n. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-03-30;118~art5), e' istituita presso l'Universita' degli studi di Sassari con sede nell'istituto di clinica ortopedica, la scuola per terapisti della riabilitazione che ha lo scopo di impartire agli allievi, con unita' di indirizzo e metodo scientifico, tutte le nozioni tecniche e pratiche necessarie per ben esercitare l'attivita' di terapista della riabilitazione.  
-Art. 139. - La durata del corso degli studi e' di tre anni accademici. Possono essere ammessi alla scuola aspiranti di ambo i sessi, che siano in possesso del diploma di scuola secondaria di secondo grado, che abbiano presentato un certificato medico rilasciato dalle autorita' competenti, attestante la loro idoneita' fisica e psichica, e che abbiano superato il diciassettesimo anno di eta'.  
-Art. 140. - Al primo anno si accede previo esame di cultura generale e attitudinale davanti ad una commissione composta dal direttore della scuola e da due docenti della scuola stessa. Il termine per la presentazione delle domande di ammissione scade il 30 settembre. L'esame di ammissione avra' luogo entro il mese di ottobre di ciascun anno in un giorno stabilito dal direttore della scuola.  
-Art. 141. - Il numero massimo degli allievi e' di quindici per anno di corso.  
-Art. 142. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa.  
-In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
-La scuola e' sotto la vigilanza della facolta' di medicina e chirurgia. Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' di medicina e chirurgia e nominati dal rettore. Essi possono essere scelti fra i professori ufficiali, tra i liberi docenti, fra gli aiuto e gli assistenti della facolta' di medicina e chirurgia oppure, infine, tra persone di riconosciuta competenza, anche al di fuori dell'ambito universitario.  
-Art. 143. - Il consiglio della scuola e' costituito dal corpo docenti ed e' presieduto dal direttore.  
-Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-elementi di fisica;  
-elementi di biomeccanica;  
-elementi di anatomia umana generale;  
-elementi di fisiologia umana;  
-elementi di psicologia.  
-2° Anno:  
-nozioni di patologia ortopedica;  
-nozioni di patologia neurologica;  
-nozioni di traumatologia;  
-nozioni di patologia dell'apparato cardiorespiratorio;  
-nozioni di oculistica;  
-nozioni di patologia ginecologica ed addominale di interesse riabilitativo;  
-nozioni di patologia della cute e sottocutanea;  
-cinesiterapia;  
-elettroterapia;  
-fisioterapia strumentale;  
-idroterapia;  
-terapia occupazionale;  
-logoterapia;  
-massoterapia.  
-3° Anno:  
-elementi di igiene e medicina preventiva;  
-elementi di pronto soccorso;  
-elementi di legislazione sanitaria e deontologica;  
-ginnastica medica;  
-riabilitazione del motuleso;  
-ergoterapia;  
-fangoterapia e crenoterapia;  
-elioclimatoterapia.  
-Art. 144. - La frequenza alle lezioni teoriche e alle esercitazioni pratiche e' obbligatoria.  
-Per la validita' dell'anno scolastico l'allievo deve partecipare almeno ai due terzi delle lezioni, sia teoriche che pratiche.  
-Art. 145. - Le lezioni verranno impartite agli allievi in base ai programmi di insegnamento e agli orari predisposti dal consiglio della scuola.  
-La sorveglianza degli iscritti, per quanto riguarda la loro attivita' pratica, spetta al direttore ed ai docenti della scuola.  
-Il tirocinio sara' compiuto dagli allievi sempre sotto la guida di medici, dai tecnici didattici e terapisti della riabilitazione, presso il reparto di terapia fisica e riabilitazione della clinica ortopedica di Sassari, nonche', qualora fosse necessario, presso altri istituti o presidii specialistici universitari o convenzionati con l'Universita'.  
-Art. 146. - Per essere ammessi all'anno successivo gli allievi dovranno superare tutti gli esami previsti per l'anno di corso frequentato.  
-Per essere ammessi a sostenere gli esami di diploma, gli allievi dovranno aver frequentato il corso, superati gli esami prescritti ed aver compiuto con esito favorevole tutte le esercitazioni previste.  
-Art. 147. - Le commissioni per gli esami di profitto sono nominate dal direttore della scuola. Le commissioni sono composte da tre membri: dal professore ufficiale della materia, presidente; dal direttore della scuola, membro; da un altro docente della scuola.  
-Ogni commissario ha a disposizione dieci punti.  
-Art. 148. - L'esame di diploma consiste in una prova orale sui temi trattati durante il corso e in una prova pratica stabilita dalla commissione esaminatrice costituita dal direttore della scuola, presidente o da un suo delegato scelto fra i docenti della scuola e da quattro membri scelti fra i docenti della scuola, nominati dal direttore della scuola. Ogni commissario ha a disposizione dieci punti.  
-I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza di scuola; ma se al secondo esame non verra' loro riconosciuta l'idoneita' saranno senz'altro esclusi da ulteriori prove. Agli allievi che avranno superato l'esame finale viene rilasciato il diploma di terapista della riabilitazione.  
-Art. 149. - Le spese occorrenti al funzionamento della scuola verranno coperte utilizzando le tasse, soprattasse e contributi degli iscritti. Eventuali contributi ministeriali, regionali e di altri enti pubblici o privati, non indispensabili al funzionamento della scuola, potranno essere utilizzati per l'eventuale potenziamento delle attrezzature didattiche.  
-Art. 150. - Le tasse, sopratasse e contributi che gli allievi dovranno versare per ogni anno di corso sono cosi' stabilite:  
+Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 77 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in radiologia.   
+Dopo l'art. 137 sono inseriti, con il conseguente spostamento della numerazione degli articoli successivi, i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in radiologia di cui all'art. 77.   
   
-tassa di imwatricolazione. . . . . . . . . . . . . . . . . . L. 2.000 tassa annuale di iscrizione. . . . . . . . . . . . . . . . . L. 5.000 sopratassa annuale di esame. . . . . . . . . . . . . . . . . L. 3.000 contributi di laboratorio . . . . . . . . . . . . . . . . . L. 30.000 tassa erariale di diploma. . . . . . . . . . . . . . . . . . L. 6.000 libretto e tessera . . . . . . . . . . . . . . . . . . . . . L. 2.000   
-Le variazioni delle tasse debbono essere proposte - come le altre modifiche di statuto - ai sensi dell'art. 17 del testo unico delle leggi sull'Istruzione universitaria 31 agosto 1933, n. 1592, dal senato accademico sentito il consiglio di amministrazione e il consiglio di facolta'.  
-Art. 151. - I compensi ai docenti ed ai tecnici didattici verranno stabiliti per ciascun anno dal consiglio di amministrazione su proposta del consiglio della scuola.  
+Scuola di specializzazione in radiologia   
+  
+Art. 138. - La scuola rilascia i seguenti diplomi di specializzazione: in radiologia e in radiologia diagnostica.   
+La scuola e' riservata ai laureati in medicina e chirurgia, che possono essere accolti in numero massimo di 5 per ciascun anno di corso per radiologia e radiologia diagnostica.   
+Art. 139. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia e' di 4 anni.   
+Gli insegnamenti sono i seguenti:   
+a) matematica, fisica, nozioni di statistica e informatica (annuale) comprendente:   
+1) richiami di matematica e fisica generale;   
+2) costituzione della materia;   
+3) produzione, assorbimento e misura delle radiazioni;   
+4) statistica applicata alla medicina;   
+5) informatica e cibernetica applicata alla radiologia;   
+b) radiodiagnostica (triennale) comprendente:   
+1) principi generali di radiodiagnostica;   
+2) apparecchi, strumenti e tecnica radiodiagnostica;   
+3) tecnica e fisiologia applicate alla radiodiagnostica;   
+4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali, connessi con il loro impiego e loro terapia;   
+5) semeiotica radiologica;   
+6) diagnostica differenziale radiologica;   
+7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;   
+8) dimostrazioni di casistica clinica;   
+c) radiobiologia (annuale) comprendente:   
+1) radiobiologia generale;   
+2) danni da radiazioni e radiopatie;   
+d) protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:   
+1) legislazione sanitaria applicata alla radiologia;   
+2) compiti e responsabilita' medico-legali del radiologo;   
+3) radioprotezione fisica e dosimetria ad essa connesse;   
+4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;   
+5) radioprotezione chimica;   
+6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reperti radiologici;   
+e) radioterapia e terapia fisica (triennale) comprendente:   
+1) radiobiologia applicata;   
+2) fondamenti generali di radioterapia fisica;   
+3) istopatologia speciale dei tumori;   
+4) nozioni sugli apparecchi e strumenti per la radioterapia;   
+5) tecnica e metodica radioterapica;   
+6) dosimetria;   
+7) clinica radioterapica;   
+8) fondamenti generali di chemioterapia oncologica;   
+9) chemioterapia clinica dei tumori e sua associazione alla radioterapia;   
+10) dimostrazioni di casistica clinica;   
+f) medicina nucleare (biennale) comprendente:   
+1) elementi di medicina nucleare;   
+2) strumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare;   
+3) dosimetria dei radioisotopi somministrati per via interna;   
+4) diagnostica con radioisotopi somministrati per via interna;   
+5) radioterapia metabolica;   
+6) dimostrazioni di casistica clinica.   
+I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro miglior svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ed istituzioni di particolare interesse, sono cosi' distribuiti nei quattro anni di corso.   
+1° Anno (tronco-comune):   
+matematica, fisica, nozioni di statistica ed informatica;   
+radiobiologia;   
+protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia; radiodiagnostica (1). 2° Anno:   
+radiodiagnostica (2);   
+radioterapia e terapia fisica (1).   
+3° Anno:   
+radiodiagnostica (3);   
+radioterapia e terapia fisica (2);   
+medicina nucleare (1).   
+4° Anno:   
+radioterapia e terapia fisica (3);   
+medicina nucleare (2).   
+Art. 140. - La durata dei singoli corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.   
+Gli insegnamenti sono i seguenti:   
+a) matematica, fisica, nozioni di statistica ed informatica (annuale) comprendente:   
+1) richiami di matematica e fisica generale;   
+2) costituzione della materia;   
+3) produzione, assorbimento e misura delle radiazioni;   
+4) statistica applicata alla medicina;   
+5) informatica e cibernetica applicate alla radiologia;   
+b) radiodiagnostica (triennale) comprendente:   
+1) principi generali di radiodiagnostica;   
+2) apparecchi, strumenti e tecnica radiodiagnostica;   
+3) tecnica e fisiologia applicate alla radiodiagnostica;   
+4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;   
+5) semeiotica radiologica;   
+6) diagnostica differenziale radiologica;   
+7) dimostrazioni autoptiche di pazienti sottoposti ed esami radiologici;   
+8) dimostrazioni di casistica clinica;   
+c) radiobiologia (annuale) comprendente:   
+1) radiobiologia generale;   
+2) danni da radiazioni e radiopatie;   
+d) protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendenti:   
+1) legislazione sanitaria applicata alla radiologia;   
+2) compiti e responsabilita' medico-legali del radiologo;   
+3) radioprotezione fisica e dosimetria ad essa connessa;   
+4) fattori che influenzano l'effetto biologico dalle radiazioni e problemi connessi con le radioprotezioni;   
+5) radioprotezione chimica;   
+6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.   
+I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche sono cosi' distribuiti nei 3 anni di corso:   
+1° Anno (tronco-comune):   
+matematica, fisica, nozioni di statistica ed informatica;   
+radiobiologia;   
+protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;   
+radiodiagnostica (1).   
+2° Anno:   
+radiodiagnostica (2).   
+3° Anno:   
+radiodiagnostica (3).   
+Per essere ammessi agli esami di diploma in radiologia e in radiologia diagnostica gli iscritti, oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia di insegnamento ed elaborata una tesi scritta su un argomento radiologico concordato con il direttore della scuola.   
+Art. 141. - Le tasse di iscrizione e di frequenza sono fissate come segue:   
+  
+tassa di immatricolazione. . . . . . . . . . . . . . . . L. 6.000 tassa annuale di iscrizione . . . . . . . . . . . . . . L. 60.000 soprattassa esami di profitto. . . . . . . . . . . . . . L. 7.000 soprattassa esame di diploma . . . . . . . . . . . . . . L. 3.000 tassa annuale per fuori corso . . . . . . . . . . . . . L. 50.000   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 31 ottobre 1975
 
-PERTINI BODRATO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 9 febbraio 1982
+Registrato alla Corte dei conti, addi' 16 febbraio 1976
 
-Registro n. 20 Istruzione, foglio n. 201
+Atti di Governo, registro n. 3, foglio n. 9

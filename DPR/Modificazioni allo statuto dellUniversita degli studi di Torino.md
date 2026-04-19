@@ -1,97 +1,65 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 930
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1950 n. 599
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 930
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1950 n. 599
 ============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Nell'art. 43, relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-storia della storiografia antica;  
-storia economica e sociale del mondo antico;  
-grammatica latina;  
-grammatica greca;  
-metrica greca e latina;  
-filologia giudaico-ellenistica;  
-storia religiosa dell'Oriente cristiano;  
-agiografia;  
-retorica e stilistica;  
-esegesi e critica del testo;  
-storia economica moderna;  
-storia economica contemporanea;  
-storia sociale;  
-storia del pensiero politico contemporaneo;  
-storia della musica medievale e rinascimentale;  
-storia della musica moderna e contemporanea;  
-etnomusicologia;  
-storia della scenografia;  
-storia dell'istruzione.  
-Nell'art. 44, relativo al corso di laurea in filosofia, all'elenco degli insegnamenti complementari, sono aggiunti i seguenti nuovi insegnamenti:  
-storia della filosofia moderna;  
-storia della filosofia contemporanea;  
-storia della logica;  
-storia del pensiero antropologico;  
-antropologia bio-sociale.  
-Nel medesimo articolo e' soppresso l'insegnamento:  
-storia della filosofia moderna e contemporanea.  
-Nell'art. 45, relativo al corso di laurea in lingue e letterature straniere moderne (indirizzo europeo), sono aggiunti i seguenti nuovi insegnamenti:  
-linguistica generale;  
-linguistica applicata;  
-didattica della letteratura;  
-letterature dei Paesi francofoni;  
-storia della letteratura austriaca;  
-lingua e letteratura neerlandese;  
-lingue e letterature della Cecoslovacchia;  
-lingua e letteratura bulgara;  
-lingua e letteratura finlandese;  
-letterature dei Paesi di lingua inglese;  
-lingua tedesca.  
+Veduto lo statuito dell'Universita' degli studi di Torino, approvato con [regio decreto 20 aprile 1939, n. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;118), e modificato con [regi decreti 12 gennaio 1941, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-01-12;34), [27 aprile 1942, n. 571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;571), [5 settembre 1942, n. 1237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1237) e [24 ottobre 1942, n. 1438 e con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1438) [4 febbraio 1947, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-04;196) e [7 marzo 1947, n. 1727 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-03-07;1727) [26 febbraio 1949, n. 430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;430) e [1 settembre 1949, n. 816](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-01;816);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' cosi' ulteriormente modificato.  
+All'art. 25 l'insegnamento complementare di "biologia delle razze umane" e' sostituito Con quello di "storia della grammatica e della lingua italiana".  
+All'art. 26 viene soppresso l'insegnamento complementare di "biologia delle razze umane", All'art. 33 viene soppresso l'insegnamento di "Clinica delle malattie tropicali e subtropicali".  
+L'attuale art. 51 viene sostituito dal seguente:  
+"Gli studenti non possono essere iscritti:  
+a) alle esercitazioni di chimica farmaceutica e tossicologica (parte 2ª, analisi qualitativa) se non hanno superato gli esami di: "chimica generale ed inorganica" e di: "esercitazioni di chimica farmaceutica e tossicologica" (parte 1ª, preparazioni chimiche);  
+b) alle "esercitazioni di chimica farmaceutica e tossicologica" (parte 3ª, analisi quantitativa e riconoscimento dei farmaci) se non hanno superato gli esami di: "chimica organica" e di "esercitazioni di chimica farmaceutica e tossicologica" (parte 2ª, analisi qualitativa).  
+Gli studenti non possono sostenere:  
+a) l'esame di "esercitazioni di chimica farmaceutica e tossicologica" (parte 1ª, preparazioni chimiche) se non hanno superato l'esame di "chimica generale ed inorganica";  
+b) l'esame di "chimica organica" se non hanno superato gli esami di "chimica generale e inorganica" e di "fisica";  
+c) l'esame di "chimica farmaceutica inorganica" se non hanno superato l'esame di "chimica generale e inorganica";  
+d) l'esame di "chimica farmaceutica organica" se non hanno superato l'esame di "chimica organica";  
+e) gli esami di "chimica bromatologica", "chimica biologica" e di "biochimica applicata" se non hanno superato l'esame di "chimica organica";  
+f) l'esame di "tecnica farmaceutica" se non hanno superato gli esami di "chimica farmaceutica inorganica", "chimica farmaceutica organica", "botanica farmaceutica organica", "botanica farmaceutica";  
+g) l'esame di "farmacologia e farmacognosia" se non hanno superato l'esame di "fisiologia".  
+L'attuale art. 52 viene sostituito dal seguente:  
+"L'esame di laurea consiste nella discussione di una dissertazione scritta scelta dal candidato con il consenso del professore ufficiale della materia.  
+L'esame di laurea e' preceduto da tre prove pratiche e da un colloquio.  
+Le tre prove pratiche consistono:  
+a) analisi qualitativa di una miscela di sali da cui si originino non piu' di due cationi e due anioni (esclusi gli elementi rari), Tempo massimo otto ore, senza interruzione;  
+b) un dosamento volumetrico con l'uso di soluzioni titolate apprestate di una sostanza iscritta nella F.U. Tempo massimo tre ore;  
+c) riconoscimento e saggi di purezza di una sostanza iscritta nella F.U. Tempo massimo tre ore.  
+Le analisi di cui alle lettere a), b) e c) vengono sorteggiate dai candidati. I risultati delle analisi di cui ala lettera a), b) e c) sono da raccogliersi in apposita relazione scritta. Le analisi devono svolgersi sotto la sorveglianza della Commissione esaminatrice.  
+Il colloquio consiste nel riconoscimento delle principali droghe e piante medicinali, in una discussione sull'arte del ricettare, sulla F.U., sulla parte di legislazione sanitaria attinente alla farmacia, nonche' sulla chimica farmaceutica, e sulle prove pratiche a), b) e c).  
+La Commissione per il colloquio e' costituita da cinque membri scelti tra i commissari per l'esame di laurea e di essa fanno parte i professori di "chimica farmaceutica", "farmacologia e farmacognosia", "tecnica farmaceutica", "botanica farmaceutica".  
+La prova orale dell'esame di laurea si svolge alla presenza di tutti i commissari.  
+Le prove pratiche ed il colloquio devono essere superati nella stessa sessione dell'esame di laurea".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 marzo 1984
+### Dato a Roma, addi' 13 marzo 1950
 
-PERTINI
+EINAUDI GONELLA
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: PICCIONI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 12 agosto 1950
 
-Registrato alla Corte dei conti, addi' 31 dicembre 1984
-
-Registro n. 76 Istruzione, foglio n. 184
+Atti del Governo, registro n. 35, foglio n. 36. - CONSOLI

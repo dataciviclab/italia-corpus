@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1948 n. 1518
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1950 n. 608
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1948 n. 1518
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1950 n. 608
+============================================================
 
 Autorizzazione all'Universita' di Milano ad accettare una donazione.
 --------------------------------------------------------------------
@@ -12,7 +12,7 @@ Art. 1
 
 N.
 
-1518. Decreto del Presidente della Repubblica 14 settembre 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Milano viene autorizzata ad accettare la donazione della somma di L. 60.000 nominali, in titoli di Stato Rendita 5%, disposta in suo favore, con atto pubblico in data 8 luglio 1944, dal dott. prof. Enrico Adami, in nome e in rappresentanza del Comitato per le onoranze al compianto prof. Adriano Valenti, per l'istituzione di un premio di studio da intitolarsi al nome del "prof. Adriano Valenti" medesimo, e da conferirsi, ogni due anni, alternativamente, ad uno studente di medicina, e chirurgia e ad uno di farmacia, cittadino italiano, iscritto per l'anno accademico in cui concorre, ad una Universita' d'Italia, che negli esami di farmacologia abbia riportato una votazione non inferiore a ventisette trentesimi e che sia di disagiata condizione economica.  
+608. Decreto del Presidente della Repubblica 13 marzo 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Milano viene autorizzata ad accettare la donazione della somma di lire 400.000 nominali, in titoli di rendita italiana 5%, disposta in suo favore dal sig. Candido Capello, con atto pubblico amministrativo in data 17 giugno 1949, per l'istituzione di due premi di studio biennali da intitolarsi al nome del figlio "Dott. Amilcare Capello" e da conferirsi per concorso fra laureati in medicina da non oltre sei anni di tutte le Universita' italiane: uno al miglior lavoro in otorinolaringoiatria e l'altro al miglior lavoro in radiologia, ambedue nel campo della tubercolosi.  
   
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 23 dicembre 1948
+Visto, il Guardasigilli: PICCIONI  
+Registrato alla Corte dei conti, addi' 4 agosto 1950

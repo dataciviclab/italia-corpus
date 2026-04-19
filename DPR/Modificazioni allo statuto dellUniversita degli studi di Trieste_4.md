@@ -1,202 +1,113 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1972 n. 891
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1964 n. 1219
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1972 n. 891
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1964 n. 1219
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1988, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1988-09-30;1652) e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Dopo l'art. 124 seno inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in "Clinica pediatrica".
-
-Scuola di specializzazione in clinica pediatrica
-
-Art. 125. - Alla facolta' di medicina e chirurgia dell'Universita' di Trieste e' annessa una scuola di specializzazione in clinica pediatrica.
-
-La durata della scuola e' di tre anni.
-
-L'ammissione alla scuola sara' fatta per esami e titoli.
-
-Il numero massimo degli iscritti, in rapporto alle possibilita' didattiche ricettive della clinica e' di sei per anno per un totale di diciotto iscritti per i tre anni di corso.
-
-L'internato e' obbligatorio con non piu' di due mesi di ferie all'anno.
-
-L'iscrizione direttamente al secondo anno della scuola puo' essere consentita, a giudizio del consiglio della scuola, per i candidati che abbiano conseguito il diploma di specializzazione in puericultura e che abbiano titoli pediatrici.
-
-La scuola ha sede presso l'istituto di clinica pediatrica dell'universita' che e' per statuto un istituto bi-cattedra (Cattedra di clinica pediatrica e cattedra di puericultura) ed e' situato nell'ambito dell'Istituto per l'infanzia Burlo Garofalo, istituto a carattere scientifico, ospedale specializzato pediatrico regionale.
-
-Art. 126. - Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-1) Clinica pediatrica (triennale);
-
-2) Patologia pediatrica (biennale);
-
-3) Puericultura (biennale);
-
-4) Semeiotica pediatrica e tecnica diagnostica (biennale);
-
-5) Auxologia normale e patologica (annuale);
-
-6) Psicologia dell'eta' evolutiva (annuale).
-
-2° Anno:
-
-1) Clinica pediatrica;
-
-2) Patologia pediatrica;
-
-3) Puericultura;
-
-4) Semeiotica pediatrica e tecnica diagnostica;
-
-5) Terapia pediatrica (annuale);
-
-6) Radiologia pediatrica (annuale);
-
-7) Malattie infettive dell'infanzia (annuale).
-
-3° Anno:
-
-1) Clinica
-
-2) Neuropsichiatria ed igiene mentale dell'infanzia.
-
-Le materie fondamentali sopraelencate saranno integrate a giudizio del consiglio di ciascuna scuola da almeno tre insegnamenti scelti tra i seguenti:
-
-Chirurgia pediatrica;
-
-Ortopedia e traumatologia infantile;
-
-Odontoiatria;
-
-Clinica dermosifilopatica;
-
-Clinica oculistica;
-
-Clinica otorinolaringoiatrica;
-
-Cardiologia;
-
-Genetica,
-
-ed altre eventuali che il consiglio della scuola puo' stabilire di anno in anno.
-
-Il direttore della scuola, inoltre, puo' disporre che si tengano un certo numero di conferenze su argomenti di interesse pediatrico.
-
-Per conseguire il diploma di specializzazione in clinica pediatrica gli iscritti alla scuola, dopo aver superato tutti gli esami e completata la frequenza obbligatoria, dovranno presentare e discutere una dissertazione scritta su un argomento di pediatria.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 28 ottobre 1972
-
-LEONE
-
-SCALFARO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 9 gennaio 1973 Atti di Governo, registro n. 255, foglio n. 8. - VALENTINI
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1988, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1988-09-30;1652) e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-Dopo l'art. 124 seno inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in "Clinica pediatrica".   
-  
-Scuola di specializzazione in clinica pediatrica   
-  
-Art. 125. - Alla facolta' di medicina e chirurgia dell'Universita' di Trieste e' annessa una scuola di specializzazione in clinica pediatrica.   
-La durata della scuola e' di tre anni.   
-L'ammissione alla scuola sara' fatta per esami e titoli.   
-Il numero massimo degli iscritti, in rapporto alle possibilita' didattiche ricettive della clinica e' di sei per anno per un totale di diciotto iscritti per i tre anni di corso.   
-L'internato e' obbligatorio con non piu' di due mesi di ferie all'anno.   
-L'iscrizione direttamente al secondo anno della scuola puo' essere consentita, a giudizio del consiglio della scuola, per i candidati che abbiano conseguito il diploma di specializzazione in puericultura e che abbiano titoli pediatrici.   
-La scuola ha sede presso l'istituto di clinica pediatrica dell'universita' che e' per statuto un istituto bi-cattedra (Cattedra di clinica pediatrica e cattedra di puericultura) ed e' situato nell'ambito dell'Istituto per l'infanzia Burlo Garofalo, istituto a carattere scientifico, ospedale specializzato pediatrico regionale.   
-Art. 126. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) Clinica pediatrica (triennale);   
-2) Patologia pediatrica (biennale);   
-3) Puericultura (biennale);   
-4) Semeiotica pediatrica e tecnica diagnostica (biennale);   
-5) Auxologia normale e patologica (annuale);   
-6) Psicologia dell'eta' evolutiva (annuale).   
-2° Anno:   
-1) Clinica pediatrica;   
-2) Patologia pediatrica;   
-3) Puericultura;   
-4) Semeiotica pediatrica e tecnica diagnostica;   
-5) Terapia pediatrica (annuale);   
-6) Radiologia pediatrica (annuale);   
-7) Malattie infettive dell'infanzia (annuale).   
-3° Anno:   
-1) Clinica   
-2) Neuropsichiatria ed igiene mentale dell'infanzia.   
-Le materie fondamentali sopraelencate saranno integrate a giudizio del consiglio di ciascuna scuola da almeno tre insegnamenti scelti tra i seguenti:   
-  
-Chirurgia pediatrica;   
-Ortopedia e traumatologia infantile;   
-Odontoiatria;   
-Clinica dermosifilopatica;   
-Clinica oculistica;   
-Clinica otorinolaringoiatrica;   
-Cardiologia;   
-Genetica,   
-ed altre eventuali che il consiglio della scuola puo' stabilire di anno in anno.   
-Il direttore della scuola, inoltre, puo' disporre che si tengano un certo numero di conferenze su argomenti di interesse pediatrico.   
-Per conseguire il diploma di specializzazione in clinica pediatrica gli iscritti alla scuola, dopo aver superato tutti gli esami e completata la frequenza obbligatoria, dovranno presentare e discutere una dissertazione scritta su un argomento di pediatria.   
+Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 39. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di:  
+Storia delle dottrine politiche;  
+Storia di Trieste e della Regione Giulia;  
+Filologia greco-latina.  
+Gli insegnamenti complementari di "Filologia latina" e di "Filologia greca" sono soppressi.  
+Art. 45. - All'elenco degli Istituti della Facolta' di lettere o filosofia sono aggiunti quelli di:  
+Istituto di studi bizantini e neo-cilenici.  
+Istituto di archeologia e storia dell'arte greca e romana.  
+Istituto di storia dell'arte medioevale e moderna.  
+L'istituto di "Storia dell'arte antica e moderna" e' soppresso.  
+Art. 58. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica (indirizzo organico biologico) sono aggiunti quelli di:  
+Chimica teorica;  
+Strutturistica chimica;  
+Chimica organica superiore;  
+Complementi di matematiche.  
+Art. 61. - All'elenco degli insegnamenti complementari dei corso di laurea in Scienze naturali sono aggiunti quelli di:  
+Statistica;  
+Embriologia sperimentale;  
+Citologia.  
+Art. 76. - La parte riguardante gli insegnamenti del corso di laurea in Ingegneria civile (edile, idraulica e trasporti) e' abrogata e sostituita dal seguente:  
+Per la laurea in Ingegneria civile, comuni alle tre sezioni:  
+1) Architettura tecnica I;  
+2) Architettura tecnica II;  
+3) Costruzioni idrauliche;  
+4) Costruzioni di strade, ferrovie ed aeroporti;  
+5) Elettrotecnica;  
+6) Fisica tecnica;  
+7) Idraulica;  
+8) Meccanica applicata alle macchine e Macchine;  
+9) Scienza delle costruzioni I;  
+10) Scienza delle costruzioni II;  
+11) Tecnica delle costruzioni;  
+12) Topografia;  
+13) Tecnologie dei materiali e chimica applicata.  
+Per la sezione edile:  
+14) Architettura e composizione architettonica;  
+15) Progettazione integrale;  
+16) Tecnica urbanistica;  
+e costituiranno gruppi di indirizzi i seguenti insegnamenti:  
+per l'indirizzo a):  
+17) Pianificazione urbanistica;  
+18) Storia delle tecniche architettoniche;  
+19) Storiografia e critica dell'architettura;  
+per l'indirizzo b):  
+17) Tecnica delle costruzioni II;  
+18) Tecnica delle fondazioni;  
+19) Storia delle tecniche architettoniche.  
+Per la Sezione idraulica:  
+14) Estimo ed economia;  
+15) Impianti speciali idraulici;  
+16) Legislazione del lavoro e delle opere pubbliche;  
+17) Geotecnica;  
+e costituiranno gruppi di indirizzi i seguenti insegnamenti:  
+per l'indirizzo a):  
+18) Complementi di costruzioni idrauliche;  
+19) Costruzioni marittime.  
+per l'indirizzo b):  
+18) Complementi di costruzioni idrauliche;  
+19) Idraulica agraria.  
+Per la Sezione trasporti:  
+14) Estimo ed economia;  
+15) Legislazione del lavoro e delle opere pubbliche;  
+16) Tecnica ed economia dei trasporti;  
+e costituiranno gruppi di indirizzi i seguenti insegnamenti:  
+Per l'indirizzo a):  
+17) Tecnica del traffico e della circolazione;  
+18) Geotecnica;  
+19) Trazione elettrica.  
+Per l'indirizzo b):  
+17) Tecnica delle costruzioni II;  
+18) Costruzioni marittime;  
+19) Tecnica delle fondazioni.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1972
+### Dato a Roma, addi' 3 agosto 1964
 
-LEONE SCALFARO
+SEGNI GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 9 gennaio 1973
+Registrato alla Corte dei conti, addi' 21 novembre 1964
 
-Atti di Governo, registro n. 255, foglio n. 8. - VALENTINI
+Atti del Governo, registro n. 188, foglio n. 104. - VILLA

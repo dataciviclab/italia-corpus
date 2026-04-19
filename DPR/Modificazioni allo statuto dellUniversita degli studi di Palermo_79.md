@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1982 n. 602
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 luglio 1978 n. 1133
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1982 n. 602
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 luglio 1978 n. 1133
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
@@ -10,87 +10,259 @@ Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 147 - all'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola di specializzazione in patologia generale.
+
+Il primo comma dello stesso art. 147 e' abrogato e sostituito con il seguente:
+
+Presso la facolta' di medicina e chirurgia sono istituite le seguenti scuole di specializzazione che conferiscono diplomi di "specialisti nelle discipline professionali medico-chirurgiche" ai sensi dell'[art. 178 del testo unico 3 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-03;1592~art178).
+
+Gli articoli 149, 156, 157, relativi alle norme generali per le scuole di specializzazione in medicina e chirurgia sono soppressi e sostituiti dai seguenti:
+
+Art. 149. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Art. 156. - A queste scuole di specializzazione sono ammessi soltanto laureati in medicina e chirurgia.
+
+Il diploma sara' rilasciato soltanto a coloro che siano abilitati all'esercizio della professione medico-chirurgica.
+
+Non e' consentita l'iscrizione contemporanea a piu' di una scuola di specializzazione.
+
+La domanda di ammissione alla scuola va diretta al rettore dell'Universita' corredata dal diploma di maturita' classica o scientifica, di diploma di laurea originale, della carriera scolastica e degli altri titoli che l'aspirante ritenga di dover presentare. L'ammissione alla scuola avviene per titoli ed esami.
+
+Ogni commissione esaminatrice e' costituita dal direttore della scuola di specializzazione che la presiede, da un professore ufficiale della stessa materia o di materia affine e da un libero docente in una materia compresa nel piano di studio della scuola stessa.
+
+La commissione e' nominata, su proposta del direttore della scuola, dal consiglio di facolta' di medicina e chirurgia.
+
+La graduatoria deve essere approvata dal consiglio di facolta'.
+
+Art. 157. - Non sono consentite abbreviazioni di corso.
+
+Dopo l'art. 196, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in patologia generale.
+
+Scuola di specializzazione in patologia-generale
+
+Art. 197. - La scuola di specializzazione in patologia generale ha sede presso l'istituto di patologia generale della facolta' di medicina e chirurgia. Il corso di studi ha la durata di quattro anni, suddiviso in due bienni.
+
+La durata complessiva del corso di studi non e' suscettibile di abbreviazione. La frequenza alla scuola e' obbligatoria Gli allievi che non conseguono le attestazioni di frequenza non potranno essere ammessi a sostenere le singole prove di esame.
+
+Art. 198. - Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia, ai quali dopo aver superato l'esame finale, sara' rilasciato il diploma di specialista in patologia generale.
+
+Art. 199. - Alla scuola vengono ammessi anche i laureati in medicina veterinaria, in scienze biologiche, in scienze naturali, in farmacia, in chimica e tecnologie farmaceutiche, ai quali dopo aver superato l'esame finale, sara' rilasciato il diploma di specialista in patologia generale con indirizzo tecnico.
+
+Art. 200. - L'ammissione al corso di specializzazione avviene per titoli ed esami. Le iscrizioni sono fissate in cinque per anno di corso (totale venti iscritti per l'intero corso).
+
+Art. 201. - Le materie di insegnamento sono le seguenti:
+
+1° BIENNIO (Propedeutico)
+
+1° Anno:
+
+istituzioni di patologia generale;
+
+patologia delle infezioni;
+
+epidemiologia e patologia ambientale;
+
+immunologia;
+
+parassitologia e diagnostica parassitologica.
+
+2° Anno:
+
+radiobiologia e patologia da radiazioni;
+
+oncologia generale;
+
+immunologia ed analisi immunologiche;
+
+immunopatologia;
+
+analisi chimico-cliniche;
+
+fisiopatologia generale 1° corso (metabolismo e sistema endocrino).
+
+2° BIENNIO
+
+(Conseguimento per il diploma di specialista in patologia generale)
+
+3° Anno:
+
+diagnostica di laboratorio di citopatologia e citogenetica;
+
+diagnostica di laboratorio di batteriologia e virologia;
+
+fisiopatologia generale 2° corso (termoregolazione, sistema cardiocircolatorio, sangue ed organi emopoietici).
+
+4° Anno:
+
+diagnostica oncologica;
+
+diagnostica istopatologica;
+
+diagnostica ultrastrutturale;
+
+fisiopatologia generale 3° corso (fegato, sistema digerente renale, respiratorio).
+
+2° BIENNIO
+
+(Conseguimento per il diploma di specialista in patologia generale con indirizzo tecnico)
+
+3° Anno:
+
+tecniche di batteriologia;
+
+tecniche di virologia;
+
+tecniche di citologia e citogenetica.
+
+4° Anno:
+
+statistica e biometria;
+
+culture in vitro: aspetti biologici ed applicativi;
+
+tecniche ematologiche;
+
+tecniche istologiche ed ultrastrutturali.
+
+Art. 202. - La direzione della scuola e' affidata a un professore di ruolo o fuori ruolo di patologia generale della facolta' di medicina e chirurgia o, in carenza, ad un professore di ruolo o fuori ruolo di materia affine.
+
+Art. 203. - Il direttore puo' stabilire, per un proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari e conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola stessa.
+
+Art. 204. - Per conseguire il relativo diploma di specializzazione, al termine del corso quadriennale. Oltre ad aver superato tutti gli esami delle singole materie, e' obbligatorio sostenere l'esame finale su una dissertazione scritta preferibilmente di carattere sperimentale.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 28 luglio 1978
+
+PERTINI
+
+PEDINI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 16 gennaio 1980 Registro n. 2 Istruzione, foglio n. 109
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Nell'art. 35, relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-sociologia della letteratura;  
-demografia storica;  
-etnomusicologia;  
-estetica musicale;  
-geografia politica ed economica;  
-teoria e tecnica delle comunicazioni di massa;  
-storia della critica d'arte;  
-storia dell'arte contemporanea;  
-storia delle arti applicate;  
-museologia e conservazione delle opere d'arte;  
-storia della Sicilia antica;  
-geografia del mondo antico;  
-epigrafia e antichita' cristiane;  
-religioni del mondo classico;  
-civilta' indigene della Sicilia;  
-archeologia della Magna Grecia;  
-cultura greca;  
-sociologia della cultura;  
-dialettologia siciliana;  
-geografia umana.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
-Nell'art. 36, relativo al corso di laurea in filosofia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-storia della filosofia medioevale araba;  
-storia della filosofia morale;  
-estetica musicale;  
-teoria e tecnica delle comunicazioni di massa;  
-religioni del mondo classico;  
-sociologia della cultura;  
-sociologia della conoscenza.  
-Nell'art. 43, relativo al corso di laurea in lingue e letterature straniere moderne (indirizzo europeo), all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-filologia francese;  
-filologia ibero-romanza;  
-filologia inglese;  
-filologia tedesca;  
-geografia politica ed economica;  
-letteratura francese moderna e contemporanea.  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 147 - all'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola di specializzazione in patologia generale.  
+Il primo comma dello stesso art. 147 e' abrogato e sostituito con il seguente:  
+  
+Presso la facolta' di medicina e chirurgia sono istituite le seguenti scuole di specializzazione che conferiscono diplomi di "specialisti nelle discipline professionali medico-chirurgiche" ai sensi dell'[art. 178 del testo unico 3 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-03;1592~art178).  
+Gli articoli 149, 156, 157, relativi alle norme generali per le scuole di specializzazione in medicina e chirurgia sono soppressi e sostituiti dai seguenti:  
+Art. 149. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Art. 156. - A queste scuole di specializzazione sono ammessi soltanto laureati in medicina e chirurgia.  
+Il diploma sara' rilasciato soltanto a coloro che siano abilitati all'esercizio della professione medico-chirurgica.  
+Non e' consentita l'iscrizione contemporanea a piu' di una scuola di specializzazione.  
+La domanda di ammissione alla scuola va diretta al rettore dell'Universita' corredata dal diploma di maturita' classica o scientifica, di diploma di laurea originale, della carriera scolastica e degli altri titoli che l'aspirante ritenga di dover presentare. L'ammissione alla scuola avviene per titoli ed esami.  
+Ogni commissione esaminatrice e' costituita dal direttore della scuola di specializzazione che la presiede, da un professore ufficiale della stessa materia o di materia affine e da un libero docente in una materia compresa nel piano di studio della scuola stessa.  
+La commissione e' nominata, su proposta del direttore della scuola, dal consiglio di facolta' di medicina e chirurgia.  
+La graduatoria deve essere approvata dal consiglio di facolta'.  
+Art. 157. - Non sono consentite abbreviazioni di corso.  
+Dopo l'art. 196, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in patologia generale.  
+  
+Scuola di specializzazione in patologia-generale  
+  
+Art. 197. - La scuola di specializzazione in patologia generale ha sede presso l'istituto di patologia generale della facolta' di medicina e chirurgia. Il corso di studi ha la durata di quattro anni, suddiviso in due bienni.  
+La durata complessiva del corso di studi non e' suscettibile di abbreviazione. La frequenza alla scuola e' obbligatoria Gli allievi che non conseguono le attestazioni di frequenza non potranno essere ammessi a sostenere le singole prove di esame.  
+Art. 198. - Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia, ai quali dopo aver superato l'esame finale, sara' rilasciato il diploma di specialista in patologia generale.  
+Art. 199. - Alla scuola vengono ammessi anche i laureati in medicina veterinaria, in scienze biologiche, in scienze naturali, in farmacia, in chimica e tecnologie farmaceutiche, ai quali dopo aver superato l'esame finale, sara' rilasciato il diploma di specialista in patologia generale con indirizzo tecnico.  
+Art. 200. - L'ammissione al corso di specializzazione avviene per titoli ed esami. Le iscrizioni sono fissate in cinque per anno di corso (totale venti iscritti per l'intero corso).  
+Art. 201. - Le materie di insegnamento sono le seguenti:  
+  
+1° BIENNIO (Propedeutico)  
+  
+1° Anno:  
+istituzioni di patologia generale;  
+patologia delle infezioni;  
+epidemiologia e patologia ambientale;  
+immunologia;  
+parassitologia e diagnostica parassitologica.  
+2° Anno:  
+radiobiologia e patologia da radiazioni;  
+oncologia generale;  
+immunologia ed analisi immunologiche;  
+immunopatologia;  
+analisi chimico-cliniche;  
+fisiopatologia generale 1° corso (metabolismo e sistema endocrino).  
+  
+2° BIENNIO  
+(Conseguimento per il diploma di specialista in patologia generale)   
+3° Anno:  
+diagnostica di laboratorio di citopatologia e citogenetica;  
+diagnostica di laboratorio di batteriologia e virologia;  
+fisiopatologia generale 2° corso (termoregolazione, sistema cardiocircolatorio, sangue ed organi emopoietici).  
+4° Anno:  
+diagnostica oncologica;  
+diagnostica istopatologica;  
+diagnostica ultrastrutturale;  
+fisiopatologia generale 3° corso (fegato, sistema digerente renale, respiratorio).  
+2° BIENNIO  
+(Conseguimento per il diploma di specialista in patologia generale con indirizzo tecnico)  
+  
+3° Anno:  
+tecniche di batteriologia;  
+tecniche di virologia;  
+tecniche di citologia e citogenetica.  
+4° Anno:  
+statistica e biometria;  
+culture in vitro: aspetti biologici ed applicativi;  
+tecniche ematologiche;  
+tecniche istologiche ed ultrastrutturali.  
+Art. 202. - La direzione della scuola e' affidata a un professore di ruolo o fuori ruolo di patologia generale della facolta' di medicina e chirurgia o, in carenza, ad un professore di ruolo o fuori ruolo di materia affine.  
+Art. 203. - Il direttore puo' stabilire, per un proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari e conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola stessa.  
+Art. 204. - Per conseguire il relativo diploma di specializzazione, al termine del corso quadriennale. Oltre ad aver superato tutti gli esami delle singole materie, e' obbligatorio sostenere l'esame finale su una dissertazione scritta preferibilmente di carattere sperimentale.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 giugno 1982
+### Dato a Roma, addi' 28 luglio 1978
 
-PERTINI BODRATO
+PERTINI PEDINI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 10 agosto 1982
+Registrato alla Corte dei conti, addi' 16 gennaio 1980
 
-Registro n. 99 Istruzione, foglio n. 171
+Registro n. 2 Istruzione, foglio n. 109

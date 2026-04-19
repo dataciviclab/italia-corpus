@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1982 n. 703
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 agosto 1986 n. 853
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1982 n. 703
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 agosto 1986 n. 853
 =============================================================
 
 Assegnazione di due posti di tecnico laureato presso l'Universita' degli studi di Pavia.
@@ -12,8 +12,12 @@ Art. 1
 
 N.
 
-703. Decreto del Presidente della Repubblica 14 maggio 1982, col quale, sulla proposta del Ministro della pubblica istruzione, due posti disponibili nel ruolo dei tecnici laureati vengono assegnati uno all'istituto di medicina preventiva dei lavoratori, e psicotecnica (per le esigenze del centro di oncologia professionale) ed uno all'istituto di medicina preventiva dei lavoratori e psicotecnica (per le esigenze del centro di tossicologia industriale) della facolta' di medicina e chirurgia dell'Universita' di Pavia.  
+853. Decreto del Presidente della Repubblica 29 agosto 1986, col quale, sulla proposta del Ministro della pubblica istruzione, due posti disponibili nel ruolo dei tecnici laureati vengono assegnati all'Universita' di Pavia come segue:   
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 28 settembre 1982  
-Registro n. 112 Istruzione, foglio n. 373
+Facolta' di medicina e chirurgia:   
+dipartimento di chirurgia . . . . . . . . . . . . . . . . . . posti 1 Facolta' di scienze politiche:   
+cattedra di storia contemporanea. . . . . . . . . . . . . . . posti 1   
+  
+Visto, il Guardasigilli: ROGNONI   
+Registrato alla Corte dei conti, addi' 2 dicembre 1986   
+Registro n. 87 Istruzione, foglio n. 16

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 dicembre 1972 n. 964
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 luglio 1969 n. 605
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 dicembre 1972 n. 964
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 luglio 1969 n. 605
+=============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, con sede in Roma, ad acquistare un immobile.
 -------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-964. Decreto del Presidente della Repubblica 6 dicembre 1972, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede in Roma, viene autorizzata ad acquistare dalla signora Maria Alessandrina Ursitti, vedova Romano, al convenuto prezzo di L. 9.200.000, un appartamento al 1° piano, composto di vani sei e accessori, sito in Foggia, via Gorizia, 48.  
+605. Decreto del Presidente della Repubblica 28 luglio 1969, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede in Roma, viene autorizzata ad acquistare dal rag. Girolamo Gardini, per il prezzo di L. 7.000.000, un immobile costituito da un appartamento al piano terreno della superficie di mq. 95, facente parte di una casa di nuova costruzione, sito in Modena in via Garibaldi, composto di tre vani utili, oltre l'ingresso, il corridoio e il bagno, da destinare a sede della sottosezione di Modena.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 23 gennaio 1973  
-Atti di Governo, registro n. 255, foglio n. 62. - VALENTINI
+Visto, il Guardasigilli: GAVA  
+Registrato alla Corte dei conti, addi' 8 settembre 1969  
+Atti del Governo, registro n. 229, foglio n. 5. - CARUSO

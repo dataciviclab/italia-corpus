@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1966 n. 1336
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 febbraio 1972 n. 253
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1966 n. 1336
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 febbraio 1972 n. 253
+===============================================================
 
 Autorizzazione all'Universita' degli studi di Firenze ad acquistare un immobile.
 --------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1336. Decreto del Presidente della Repubblica 31 dicembre 1966, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Firenze viene autorizzata ad acquistare dalla societa' per azioni Zuavi il complesso immobiliare denominato Villa di S. Clemente, sito in Firenze, fra le vie Pier Antonio Micheli, Gino Capponi e Venezia, al prezzo complessivo di L. 570.000.000.  
+253. Decreto del Presidente della Repubblica 24 febbraio 1972, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Firenze viene autorizzata ad acquistare l'ex collegio S. Bonaventura sito in Firenze, localita' Quaracchi, descritto nel nuovo catasto edilizio urbano del comune di Firenze alla partita 7656, foglio n. 29, particelle numeri 8, 108, 118, 189, 188, 190, al prezzo complessivo di L. 435.000.000 ivi compresi beni mobili per un valore di L. 15.000.000 come da processo verbale d'inventario in data 15 aprile 1971.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 20 febbraio 1967  
-Atti del Governo, registro n. 209, foglio n. 62. - VILLA
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 23 giugno 1972  
+Atti del Governo, registro n. 249, foglio n. 109. - VALENTINI

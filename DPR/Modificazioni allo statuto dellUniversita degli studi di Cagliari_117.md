@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1964 n. 1288
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1981 n. 1003
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1964 n. 1288
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1981 n. 1003
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regi decreti 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743) e [26 marzo 1942, n. 328](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-26;328), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, in 1592;
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,72 +20,186 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposto di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Cagliari e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Decreta:
+Sulla
+-----
 
-Lo statuto dall'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:
+proposta del Ministro della pubblica istruzione; Decreta:
 
-Art. 13. - Agli insegnamenti complementari del corso di laurea in Scienze politiche e' aggiunto quello di "Lingua araba".
+Articolo unico
+--------------
 
-Art. 50. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di: "Anestesiologia e rianimazione" e di "Chemioterapia".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 27 ottobre 1964
-
-Per il Presidente della Repubblica
-
-Il Presidente del Senato
-
-MERZAGORA
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 4 dicembre 1964 Atti del Governo, registro n. 188, foglio n. 167. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposto di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dall'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:  
-Art. 13. - Agli insegnamenti complementari del corso di laurea in Scienze politiche e' aggiunto quello di "Lingua araba".  
-Art. 50. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di: "Anestesiologia e rianimazione" e di "Chemioterapia".  
+Lo statuto dell'Universita' di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 72 - nell'elenco degli insegnamenti del triennio di applicazione del corso di laurea in ingegneria mineraria, l'insegnamento di elementi di arte mineraria, obbligatorio sul piano della facolta', e' sostituito con quello di "tecnologie minerarie".  
+Art. 73 - l'insegnamento di "complementi di idraulica" dall'elenco degli insegnamenti obbligatori sul piano della facolta', per il corso di laurea in ingegneria civile, sezione idraulica, e' trasferito nell'elenco degli insegnamenti complementari.  
+Nel medesimo elenco l'insegnamento di "economia e diritto", obbligatorio sul piano della facolta', e' soppresso e sostituito con l'insegnamento di ricerca operativa".  
+Art. 75 - nell'elenco degli insegnamenti del triennio di applicazione del corso di laurea in ingegneria elettrotecnica l'insegnamento di "controlli automatici", obbligatorio sul piano della facolta', muta la denominazione in "controlli automatici (elettrotecnici)".  
+Art. 76 - nell'elenco degli insegnamenti del triennio di applicazione del corso di laurea in ingegneria chimica l'insegnamento di "complementi di chimica", obbligatorio sul piano della facolta', e' trasformato in complementare e sostituito con quello di "stechiometria industriale". Inoltre l'insegnamento di "strumentazione, misure e collaudi" muta la denominazione in quella di "dinamica controllo e strumentazione di processi chimici".  
+Art. 78 - l'elenco degli insegnamenti complementari e' soppresso e sostituito con il seguente nuovo elenco:  
+Art. 78. - Insegnamenti complementari:  
+acquedotti e fognature;  
+analisi delle strutture territoriali;  
+analisi e riconoscimento dei minerali;  
+analisi sperimentale delle tensioni;  
+applicazioni di geometria descrittiva;  
+architettura e composizione architettonica II;  
+architettura degli interni;  
+biochimica del suolo;  
+calcolatori elettronici;  
+calcolo automatico delle strutture;  
+analisi dei sistemi;  
+calcolo numerico;  
+complementi di elettrotecnica;  
+economia;  
+campi elettromagnetici e circuiti;  
+campionatura e valutazione dei giacimenti;  
+caratteri distributivi e tipologie dell'architettura;  
+chimica analitica;  
+chimica macromolecolare;  
+coltivazione dei giacimenti di idrocarburi;  
+combustibili e lubrificanti;  
+complementi di arte mineraria;  
+complementi di chimica;  
+complementi di idraulica;  
+complementi di macchine elettriche;  
+complementi di mineralogia e petrografia;  
+complementi di fisica tecnica;  
+complementi di geofisica mineraria;  
+complementi di chimica fisica;  
+complementi di chimica organica;  
+controlli dei processi;  
+corrosione e protezione;  
+costruzioni automobilistiche e ferroviarie;  
+costruzioni di macchine II;  
+costruzioni di strade, ferrovie ed aeroporti II;  
+costruzioni elettromeccaniche;  
+costruzioni marittime;  
+costruzioni metalliche;  
+difesa del suolo;  
+dinamica delle strutture e ingegneria sismica;  
+economia industriale;  
+elaboratore elettronico nella progettazione, costruzione e conduzione degli impianti chimici;  
+elementi delle macchine;  
+elettronica industriale;  
+energetica;  
+ergotecnica;  
+estimo, economia e legislazione mineraria;  
+fisica dello stato solido;  
+fotogrammetria;  
+generatori di vapore e tecnica della combustione;  
+geochimica;  
+elettronica applicata;  
+geologia applicata;  
+metodi probabilistici, statistici e processi stocastici;  
+macchine elettriche;  
+geofisica applicata;  
+geologia applicata per minerari;  
+geologia e giacimentologia delle fonti energetiche minerali;  
+geotecnica;  
+idraulica marittima e costiera;  
+idrologia tecnica;  
+impianti di sollevamento e trasporto;  
+impianti metallurgici;  
+impianti mineralurgici;  
+impianti minerari;  
+impianti meccanici II;  
+impianti petrolchimici;  
+impianti speciali idraulici;  
+impianti tecnici edili;  
+impianti termotecnici;  
+industrializzazione ed unificazione dell'edilizia;  
+industrie agrarie ed alimentari;  
+ingegneria delle reazioni chimiche;  
+ingegneria delle reazioni enzimatiche;  
+ingegneria sanitaria;  
+inquinamento e tecniche di prevenzione;  
+irrigazioni e bonifiche;  
+macchine di sollevamento e trasporto;  
+macchine II;  
+macchine e centrali elettriche;  
+materiali per le costruzioni meccaniche;  
+materiali per l'elettrotecnica;  
+meccanica agraria;  
+meccanica applicata II;  
+meccanica dei continui;  
+meccanica delle terre e fondazioni;  
+meccanica delle rocce;  
+membrane semimpermeabili;  
+metodi matematici per l'ingegneria;  
+metrologia tecnica e laboratorio;  
+misure e strumentazioni automatiche;  
+organizzazione dei cantieri;  
+ottimazione economica degli impianti chimici;  
+impianti elettrici;  
+misure elettriche;  
+ricerca operativa;  
+sistemi di informazione;  
+paleontologia;  
+pianificazione delle risorse idriche;  
+ponti e strutture speciali;  
+principi di ingegneria biochimica;  
+procedimenti analitici nei processi ed operazioni unitarie;  
+progetti edili;  
+progettazione urbana;  
+programmazione degli impianti meccanici e manutenzione programmata;  
+prospezione geofisica;  
+prospezione geomineraria;  
+resistenza e sicurezza delle costruzioni;  
+rilievo e restauro dei monumenti;  
+scienza dei materiali non metallici;  
+scienza dei metalli;  
+sistemazione dei bacini idrografici e conservazione del suolo; sistemi digitali;  
+sistemi di misura collaudi industriali;  
+sperimentazione dei materiali e delle strutture;  
+stabilita' e dinamica dei sistemi;  
+storia dell'architettura;  
+strumentazione e misure elettroniche;  
+tecnica del freddo;  
+tecnica degli scavi e delle gallerie;  
+tecniche dei controlli;  
+tecnica dei sondaggi;  
+tecniche della fermentazione industriale;  
+tecnica ed economia dei trasporti II;  
+tecnica di utilizzazione delle fonti di energia rinnovabili;  
+tecnologia di lavorazione degli alti polimeri;  
+tecnologie degli elementi costruttivi per l'edilizia industrializzata;  
+tecnologie generali;  
+tecnologie speciali minerallurgiche;  
+tecnologie speciali metallurgiche;  
+teoria e sviluppo dei processi chimici;  
+teoria dei modelli;  
+termotecnica;  
+stechiometria industriale;  
+termodinamica applicata;  
+termofluidodinamica delle macchine;  
+teoria e tecnica della pianificazione;  
+trasmissione dell'energia;  
+trasporti aerei e marittimi;  
+trattamento dei solidi;  
+trazione elettrica;  
+urbanistica II;  
+unificazione e disegno di impianti;  
+utilizzazione delle acque sotterranee;  
+vibrotecnica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 ottobre 1964
+### Dato a Roma, addi' 26 ottobre 1981
 
-Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 4 dicembre 1964
+Registrato alla Corte dei conti, addi' 18 febbraio 1982
 
-Atti del Governo, registro n. 188, foglio n. 167. - VILLA
+Registro n. 26 Istruzione, foglio n. 249

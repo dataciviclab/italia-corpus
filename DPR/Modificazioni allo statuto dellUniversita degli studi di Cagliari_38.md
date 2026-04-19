@@ -1,329 +1,112 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1970 n. 394
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1965 n. 1410
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1970 n. 394
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1965 n. 1410
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con regio decreto 20 aprile 1939, numerici 1098 e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Gli articoli da 159 a 162 relativi alla scuola di specializzazione in "Igiene e sanita' pubblica" e gli articoli da 169 a 171 relativi alla scuola di specializzazione in "Igiene e medicina scolastica" sono soppressi.
-
-Dopo l'art. 189 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Igiene e medicina preventiva" e in "Puericultura".
-
-Scuola di specializzazione in igiene e medicina preventiva
-
-Art. 190. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in igiene e medicina preventiva con sede presso l'istituto di igiene.
-
-Art. 191. - La scuola comprende i seguenti orientamenti: a) di sanita' pubblica; b) di laboratorio; c) di tecnica e direzione ospedaliera; d) di medicina scolastica.
-
-Art. 192. - La durata dei corsi e' di tre anni.
-
-Art. 193. - Alla scuola vengono ammessi i laureati in medicina e chirurgia in numero non superiore a quindici per ogni anno di corso.
-
-L'ammissione e' subordinata al superamento di un esame di ammissione.
-
-Art. 194. - Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-Metodologia statistica e biometria;
-
-Educazione sanitaria;
-
-Psicologia;
-
-Microbiologia;
-
-Parassitologia;
-
-Epidemiologia e profilassi generale.
-
-2° Anno:
-
-Patologia e clinica delle malattie infettive;
-
-Epidemiologia e profilassi delle malattie infettive;
-
-Patologia e clinica delle malattie non infettive di importanza sociale;
-
-Epidemiologia e profilassi delle malattie non infettive di importanza sociale;
-
-Demografia e statistica sanitaria;
-
-Legislazione e organizzazione sanitaria.
-
-3° Anno (orientamento di sanita' pubblica):
-
-Approvvigionamento idrico; raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici;
-
-Igiene edilizia e urbanistica;
-
-Igiene dell'alimentazione;
-
-Igiene e medicina scolastica;
-
-Igiene ospedaliera;
-
-Servizi di sanita' pubblica.
-
-3° Anno (orientamento di laboratorio):
-
-Microscopia applicata all'igiene;
-
-Microbiologia applicata all'igiene;
-
-Chimica clinica;
-
-Accertamento diagnostico delle malattie batteriche e parassitarie;
-
-Accertamento diagnostico delle infezioni virali;
-
-Nozioni di anatomia e istologia patologica.
-
-3° Anno (orientamento di tecnica, o direzione, ospitaliera):
-
-Storia degli ospedali e principi metodologici dell'assistenza ospedaliera;
-
-Igiene e tecnica delle costruzioni ospitaliere, arredamento ed impianti sanitari;
-
-Organizzazione e funzione degli ospedali generali e speciali;
-
-Diritto amministrativo e legislazione ospitaliera;
-
-Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera;
-
-Selezione e istruzione professionale del personale ospitaliero;
-
-Organizzazione e funzione dei laboratori di analisi di accertamento necroscopico.
-
-3° Anno (orientamento di medicina scolastica):
-
-Auxologia normale e patologica;
-
-Epidemiologia e profilassi delle malattie dell'eta' scolare;
-
-Servizi di medicina scolastica;
-
-Elementi di psicologia e pedagogia per l'eta' scolare;
-
-Igiene dell'alimentazione;
-
-Assistenza parascolastica;
-
-Edilizia scolastica.
-
-Materie complementari:
-
-Ispezione delle carni;
-
-Igiene mentale;
-
-Malattie tropicali;
-
-Gerontologia e geriatria.
-
-L'allievo dovra' frequentare due materie complementari a scelta, per ognuna delle specializzazioni e sostenere le relative prove d'esami.
-
-Scuola di specializzazione in puericultura
-
-Art. 195. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in puericultura, con sede presso l'istituto di puericultura.
-
-La scuola ha la durata di tre anni e si propone di conferire la preparazione teorico-pratica in biologia infantile e pediatria preventiva a laureati in medicina e chirurgia.
-
-Art. 196. - Alla scuola possono essere ammessi non piu' di sei allievi per ciascun anno, per un totale complessivo di diciotto allievi. Di questi posti, uno per ciascuno dei tre anni di corso sara' riservato ad allievi stranieri, laureati in medicina, originari di nazioni della area mediterranea che saranno esentati dal pagamento delle tasse di specializzazione. L'iscrizione alla scuola di detti allievi stranieri sara' subordinata ad una documentata, buona conoscenza della lingua italiana e sara' regolata da una insindacabile scelta operata, sulla base delle domande presentate dal consiglio della scuola.
-
-Art. 197. - Le materie di insegnamento sono le seguenti, divise nei tre anni di corso:
-
-1° Anno:
-
-Peculiarita' anatomo-fisiologiche della eta' evolutiva;
-
-Elementi di genetica medica e di eugenetica;
-
-Elementi di puericultura perinatale;
-
-Auxologia;
-
-Alimentazione e dietetica dell'eta' infantile;
-
-Elementi di semeiotica infantile.
-
-2° Anno:
-
-Psicologia ed igiene mentale nell'eta' evolutiva;
-
-Igiene ed assistenza dell'eta' evolutiva;
-
-Profilassi delle malattie infettive dell'infanzia;
-
-Elementi di medicina scolastica;
-
-Legislazione ed assistenza sociale alla infanzia.
-
-3° Anno:
-
-Tirocinio pratico presso l'istituto di puericultura, sede della scuola, o presso altre istituzioni od enti che abbiano, a giudizio del consiglio della scuola, caratteristiche tali da assicurare lo svolgimento di un efficace tirocinio sotto l'aspetto eminentemente pratico.
-
-Durante l'anno saranno svolte esercitazioni pratiche e conferenze su argomenti di puericultura.
-
-Art. 198. - Gli iscritti hanno l'obbligo di internato, con le modalita' e l'orario che saranno stabiliti dal direttore della scuola, sentito il parere della facolta' di medicina e chirurgia.
-
-Alla fine di ognuno dei primi due anni, gli iscritti dovranno sostenere l'esame sulle materie di insegnamento. Al termine del secondo anno, l'allievo sosterra' un esame teorico generale, mentre al termine del terzo anno egli sosterra' un esame pratico, unitamente all'esame di diploma. Eventuali abbreviazioni di corso potranno essere accordate dalla facolta' di medicina e chirurgia, su parere favorevole del consiglio della scuola.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 27 marzo 1970
-
-SARAGAT
-
-FERRARI AGGRADI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 19 giugno 1970 Atti del Governo, registro n. 236, foglio n. 45. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con regio decreto 20 aprile 1939, numerici 1098 e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743) e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Veduto il [decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro, per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Gli articoli da 159 a 162 relativi alla scuola di specializzazione in "Igiene e sanita' pubblica" e gli articoli da 169 a 171 relativi alla scuola di specializzazione in "Igiene e medicina scolastica" sono soppressi.  
-Dopo l'art. 189 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Igiene e medicina preventiva" e in "Puericultura".  
-  
-Scuola di specializzazione in igiene e medicina preventiva  
-  
-Art. 190. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in igiene e medicina preventiva con sede presso l'istituto di igiene.  
-Art. 191. - La scuola comprende i seguenti orientamenti: a) di sanita' pubblica; b) di laboratorio; c) di tecnica e direzione ospedaliera; d) di medicina scolastica.  
-Art. 192. - La durata dei corsi e' di tre anni.  
-Art. 193. - Alla scuola vengono ammessi i laureati in medicina e chirurgia in numero non superiore a quindici per ogni anno di corso.  
-L'ammissione e' subordinata al superamento di un esame di ammissione.  
-Art. 194. - Le materie di insegnamento sono le seguenti:  
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che presso la Facolta' di ingegneria e' istituito il corso di laurea in ingegneria meccanica.  
+Detto corso funzionera' gradualmente per quanto riguarda il triennio di applicazione, a decorrere dall'anno accademico 1965-66 e di conseguenza vengono apportate allo statuto dell'Universita' di Cagliari le seguenti modificazioni:  
+"Presso la Facolta' di ingegneria il quinquennio di studio da' adito alle seguenti lauree:  
+a) laurea in ingegneria civile sezione edile, idraulica, trasporti;  
+b) laurea in ingegneria mineraria;  
+c) laurea, in ingegneria meccanica.  
+Dopo l'art. 65 e con il conseguente spostamento della successiva numerazione vengono inseriti i seguenti nuovi articoli relativi all'ordinamento degli studi del corso di laurea in ingegneria meccanica.  
+Art. 67. - Il corso di laurea in ingegneria meccanica comprende i seguenti insegnamenti:  
 1° Anno:  
-Metodologia statistica e biometria;  
-Educazione sanitaria;  
-Psicologia;  
-Microbiologia;  
-Parassitologia;  
-Epidemiologia e profilassi generale.  
+1) Analisi matematica I: gruppo A.  
+2) Chimica: gruppo A.  
+3) Disegno I: gruppo A.  
+4) Fisica I: gruppo A.  
+5) Geometria: gruppo A.  
 2° Anno:  
-Patologia e clinica delle malattie infettive;  
-Epidemiologia e profilassi delle malattie infettive;  
-Patologia e clinica delle malattie non infettive di importanza sociale;  
-Epidemiologia e profilassi delle malattie non infettive di importanza sociale;  
-Demografia e statistica sanitaria;  
-Legislazione e organizzazione sanitaria.  
-3° Anno (orientamento di sanita' pubblica):  
-Approvvigionamento idrico; raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici;  
-Igiene edilizia e urbanistica;  
-Igiene dell'alimentazione;  
-Igiene e medicina scolastica;  
-Igiene ospedaliera;  
-Servizi di sanita' pubblica.  
-3° Anno (orientamento di laboratorio):  
-Microscopia applicata all'igiene;  
-Microbiologia applicata all'igiene;  
-Chimica clinica;  
-Accertamento diagnostico delle malattie batteriche e parassitarie;  
-Accertamento diagnostico delle infezioni virali;  
-Nozioni di anatomia e istologia patologica.  
-3° Anno (orientamento di tecnica, o direzione, ospitaliera):  
-Storia degli ospedali e principi metodologici dell'assistenza ospedaliera;  
-Igiene e tecnica delle costruzioni ospitaliere, arredamento ed impianti sanitari;  
-Organizzazione e funzione degli ospedali generali e speciali;  
-Diritto amministrativo e legislazione ospitaliera;  
-Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera;  
-Selezione e istruzione professionale del personale ospitaliero;  
-Organizzazione e funzione dei laboratori di analisi di accertamento necroscopico.  
-3° Anno (orientamento di medicina scolastica):  
-Auxologia normale e patologica;  
-Epidemiologia e profilassi delle malattie dell'eta' scolare;  
-Servizi di medicina scolastica;  
-Elementi di psicologia e pedagogia per l'eta' scolare;  
-Igiene dell'alimentazione;  
-Assistenza parascolastica;  
-Edilizia scolastica.  
-Materie complementari:  
-Ispezione delle carni;  
-Igiene mentale;  
-Malattie tropicali;  
-Gerontologia e geriatria.  
-L'allievo dovra' frequentare due materie complementari a scelta, per ognuna delle specializzazioni e sostenere le relative prove d'esami.  
+6) Analisi matematica II: gruppo A.  
+7) Disegno II: gruppo A.  
+8) Fisica II: gruppo A.  
+9) Meccanica razionale: gruppo A.  
+Triennio di applicazione:  
+10) Chimica applicata: gruppo A.  
+11) Costruzioni di macchine: gruppo A.  
+12) Elettrotecnica: gruppo A.  
+13) Fisica tecnica: gruppo A.  
+14) Idraulica: gruppo A.  
+15) Impianti meccanici: gruppo A.  
+16) Macchine: gruppo A.  
+17) Meccanica applicata alle macchine: gruppo A.  
+18) Scienza delle Costruzioni: gruppo A.  
+19) Tecnologia meccanica: gruppo A.  
+20) Complementi di matematiche (semestrale): gruppo B.  
+21) Controlli automatici: gruppo B.  
+22) Economia, ed organizzazione aziendale: gruppo B.  
+23) Metallurgia: gruppo B.  
+24) Misure meccaniche, termiche e collaudi: gruppo B.  
+25) Progetti di macchine: gruppo B.  
+26) Tecnica delle costruzioni: gruppo B.  
+27) |  
+28) |  
+29) >Un gruppo di materie a scelta.  
+30) |  
+31) |  
   
-Scuola di specializzazione in puericultura  
-  
-Art. 195. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in puericultura, con sede presso l'istituto di puericultura.  
-La scuola ha la durata di tre anni e si propone di conferire la preparazione teorico-pratica in biologia infantile e pediatria preventiva a laureati in medicina e chirurgia.  
-Art. 196. - Alla scuola possono essere ammessi non piu' di sei allievi per ciascun anno, per un totale complessivo di diciotto allievi. Di questi posti, uno per ciascuno dei tre anni di corso sara' riservato ad allievi stranieri, laureati in medicina, originari di nazioni della area mediterranea che saranno esentati dal pagamento delle tasse di specializzazione. L'iscrizione alla scuola di detti allievi stranieri sara' subordinata ad una documentata, buona conoscenza della lingua italiana e sara' regolata da una insindacabile scelta operata, sulla base delle domande presentate dal consiglio della scuola.  
-Art. 197. - Le materie di insegnamento sono le seguenti, divise nei tre anni di corso:  
-1° Anno:  
-Peculiarita' anatomo-fisiologiche della eta' evolutiva;  
-Elementi di genetica medica e di eugenetica;  
-Elementi di puericultura perinatale;  
-Auxologia;  
-Alimentazione e dietetica dell'eta' infantile;  
-Elementi di semeiotica infantile.  
-2° Anno:  
-Psicologia ed igiene mentale nell'eta' evolutiva;  
-Igiene ed assistenza dell'eta' evolutiva;  
-Profilassi delle malattie infettive dell'infanzia;  
-Elementi di medicina scolastica;  
-Legislazione ed assistenza sociale alla infanzia.  
-3° Anno:  
-Tirocinio pratico presso l'istituto di puericultura, sede della scuola, o presso altre istituzioni od enti che abbiano, a giudizio del consiglio della scuola, caratteristiche tali da assicurare lo svolgimento di un efficace tirocinio sotto l'aspetto eminentemente pratico.  
-Durante l'anno saranno svolte esercitazioni pratiche e conferenze su argomenti di puericultura.  
-Art. 198. - Gli iscritti hanno l'obbligo di internato, con le modalita' e l'orario che saranno stabiliti dal direttore della scuola, sentito il parere della facolta' di medicina e chirurgia.  
-Alla fine di ognuno dei primi due anni, gli iscritti dovranno sostenere l'esame sulle materie di insegnamento. Al termine del secondo anno, l'allievo sosterra' un esame teorico generale, mentre al termine del terzo anno egli sosterra' un esame pratico, unitamente all'esame di diploma. Eventuali abbreviazioni di corso potranno essere accordate dalla facolta' di medicina e chirurgia, su parere favorevole del consiglio della scuola.  
+Gruppi di materie a scelta:  
+Orientamento A:  
+27) Tecnica delle miniere: Gruppo C.  
+28) Preparazione dei minerali: gruppo C.  
+29) Tecnologie speciali metallurgiche: gruppo C.  
+30) Combustibili e lubrificanti (semestrale): gruppo C.  
+31) Impianti minerali: gruppo C.  
+Orientamento B:  
+27) Complementi di elettrotecnica: gruppo C.  
+28) Impianti elettrici.  
+29) Macchine e centrali elettriche: gruppo C.  
+30) Misure elettriche (semestrale): gruppo C.  
+31) Meccanica applicata II (semestrale): gruppo C.  
+Orientamento C:  
+27) Tecnica ed economia dei trasporti: gruppo C.  
+28) Impianti elettrici: gruppo C.  
+29) Trazione elettrica (semestrale): gruppo C.  
+30) Costruzioni automobilistiche e ferroviarie: gruppo C.  
+31) Impianti di sollevamento e trasporti: gruppo C.  
+Art. 68. - Le precedenze per gli insegnamenti del corso di laurea in ingegneria meccanica sono le seguenti:  
+Fisica tecnica prima di Macchine.  
+Meccanica applicata alle macchine prima di Macchine, Costruzioni di macchine, Meccanica applicata II, Impianti di sollevamento e trasporti.  
+Macchine e costruzioni di macchine prima di Progetti di macchine, Costruzioni automobilistiche e ferroviarie, Macchine e centrali elettriche, Impianti meccanici.  
+Scienza delle costruzioni prima di Tecnica delle costruzioni.  
+Elettrotecnica e Costruzioni di macchine prima di Complementi di elettrotecnica, Impianti elettrici, Impianti minerari, Macchine e centrali elettriche, Trazione elettrica, Impianti di sollevamento e trasporto, Misure elettriche.  
+Chimica applicata prima di Metallurgia, Combustibili e lubrificanti, Tecnologie speciali metallurgiche.  
+Macchine ed elettrotecnica prima di Tecnica ed economia dei trasporti.  
+Meccanica applicata alle macchine, Macchine, Elettrotecnica prima di Controlli automatici.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 marzo 1970
+### Dato a Roma, addi' 29 ottobre 1965
 
-SARAGAT FERRARI AGGRADI
+SARAGAT GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 19 giugno 1970
+Registrato alla Corte dei conti, addi' 22 dicembre 1965
 
-Atti del Governo, registro n. 236, foglio n. 45. - CARUSO
+Atti del Governo, registro n. 199, foglio n. 1. - VILLA

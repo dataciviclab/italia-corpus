@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 settembre 1962 n. 2117
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1961 n. 1652
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 settembre 1962 n. 2117
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1961 n. 1652
+================================================================
 
 Autorizzazione alla Fondazione "Giuseppe Alberto Pretto e Maria Pretto Cassanello", con sede in Genova, ad accettare una eredita'.
 ----------------------------------------------------------------------------------------------------------------------------------
@@ -12,10 +12,8 @@ Art. 1
 
 N.
 
-2117. Decreto del Presidente della Repubblica 4 settembre 1962, col quale, sulla proposta del Ministro per la pubblica istruzione, la Fondazione "Giuseppe Alberto Pretto e Maria Pretto Cassanello", con sede in Genova, viene autorizzata ad accettare l'eredita' disposta in suo favore dal comm. Giuseppe Alberto Pretto con testamento segreto, aperto e pubblicato per atto del notaio dott.  
-Giovanni Battista Sciello in Genova addi' 27 febbraio 1961, n. 43736 di repertorio, la cui consistenza patrimoniale ammonta a L. 749.303.566  
-(settecentoquarantanovemiliontrecentotremilacinquecentosessantasei) .  
+1652. Decreto del Presidente della Repubblica 18 dicembre 1961, col quale, sulla proposta del Ministro per la pubblica istruzione, la Fondazione "Giuseppe Alberto Pretto e Maria Pretto Cassanello", con sede in Genova, viene autorizzata ad accettare l'eredita' disposta in suo favore dalla defunta signora Maria Cassanello in Pretto con testamento segreto aperto e pubblicato per atto del notaio Giovanni Battista Sciello in Genova in data 19 novembre 1958, n. 42321 di repertorio, la cui consistenza patrimoniale ammonta a L. 424.164.569 (quattrocentoventiquattromilionicentosessantaquattromilacinquecento sessantanove).  
   
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 9 settembre 1964  
-Atti del Governo, registro n. 185, foglio n. 72. - DI PRETORO
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 9 marzo 1962  
+Atti del Governo, registro n. 144, foglio n. 54. - VILLA

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1968 n. 1368
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1959 n. 1044
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1968 n. 1368
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1959 n. 1044
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
@@ -10,17 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Perugia approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -32,104 +30,121 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 15. - L'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' modificato nel senso che l'insegnamento di "Geografia ed etnografia coloniale" muta denominazione in quello di Etnologia";
+CAP. XII
 
-Art. 43. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti quelli di:
+Corsi di perfezionamento
 
-Microbiologia lattiero-casearia;
+annessi alla Facolta' di medicina veterinaria
 
-Scienza dell'alimentazione del bestiame;
+Dopo l'art. 102, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione dei corsi di perfezionamento in "patologia e clinica dei bovini", "approvvigionamenti annonari, mercati e industrie di origine animale" e "alimentazione del bestiame".
 
-Olivicoltura (semestrale);
+Art. 103. - Alla Facolta' di medicina veterinaria sono annessi i corsi di perfezionamento in "patologia e clinica dei bovini", "approvvigionamenti annonari, mercati e industrie di origine animale", "alimentazione del bestiame", tutti della durata di un anno.
 
-Virologia (semestrale);
+Alla fine del corso sara' rilasciato un attestato di frequenza o di profitto.
 
-Cooperazione agricola (semestrale);
+Art. 104. - Ai corsi di perfezionamento in "patologia e clinica dei bovini" e in "approvvigionamenti annonari, mercati e industrie di origine animale" possono essere iscritti soltanto i laureati in medicina veterinaria; al corso di perfezionamento in "alimentazione del bestiame" possono essere iscritti i laureati in scienze agrarie.
 
-Micologia (semestrale);
+Non e' ammessa la iscrizione contemporanea a piu' di un corso di perfezionamento.
 
-Tecnica della sperimentazione in agricoltura (semestrale);
+Art. 105. - Il direttore del corso di perfezionamento in "patologia e clinica dei bovini" e' il professore di ruolo di patologia speciale e clinica medica; quello del corso di perfezionamento in "approvvigionamenti annonari, mercati e industrie di origine animale" e' il professore di ruolo della materia; quello del corso di perfezionamento in "alimentazione del bestiame" e' il professore di ruolo di fisiologia generale e speciale degli animali domestici con chimica biologica. Nel caso in cui le cattedre sopradette non siano coperte da un professore di ruolo il direttore e' scelto dal Consiglio di Facolta'.
 
-Economia dei mercati agricoli (semestrali);
+Il Consiglio di ciascun corso e' formato dai professori che tengono gli insegnamenti.
 
-Tecnologia delle conserve alimentari (semestrale);
+Art. 106. - Il numero dei laureati che possono essere iscritti a ciascun corso e' di venti. Per il funzionamento di ciascun corso e' comunque necessario un numero di sei iscritti.
 
-Elettrificazione agricola (semestrale).
+Qualora il numero degli iscritti ecceda quello massimo l'ammissione ai corsi stessi e' subordinata alla valutazione dei titoli degli aspiranti. Le date d'inizio e di termine dei corsi sono uguali a quelle fissate per l'anno accademico.
 
-Nello stesso corso di laurea dopo il penultimo comma e' inserito il seguente:
+Art. 107. - Le tasse d'immatricolazione e di iscrizione ai corsi di perfezionamento sono le stesse dovute dagli studenti della Facolta' di medicina veterinaria.
 
-"Il corso di economia e politica agraria - pur restando biennale ed unito quanto all'insegnamento - comporta per quanto riguarda l'accertamento due esami distinti uno alla fine del 3° anno di corso (Economia agraria) ed uno alla fine del 4° anno di corso (Politica agraria)".
+La misura dei contributi per le esercitazioni pratiche verra' fissata dal Consiglio di amministrazione sia proposta del Consiglio della facolta', debitamente approvata dal Senato accademico.
 
-Art. 44, relativo alle norme sulle propedeuticita' ed esami del corso di laurea in scienze agrarie e' modificato nel senso che viene aggiunto il seguente nuovo comma:
+Art. 108. - A coloro che hanno frequentato i corsi e superato le prove relative, verra' rilasciato un attestato di frequenza e di profitto.
 
-"L'esame di chimica generale ed inorganica e quello di fisica debbono precedere quello di mineralogia e geologia".
+Corso di perfezionamento in patologia e clinica dei bovini
 
-Art. 56. - All'elenco degli insegnamenti complementari del corso di laurea in medicina veterinaria sono aggiunti quelli di:
+Art. 109. - Il corso ha la durata di un anno.
 
-Genetica animale;
+Le materie d'insegnamento sono:
 
-Semeiotica medica e metodologia clinica veterinaria;
+1) anatomia e fisiologia dei bovini;
 
-Fisiopatologia comparata;
+2) anatomia patologica;
 
-Anatomia topografica.
+3) ostetricia, ginecologia e fecondazione artificiale;
 
-Nello stesso articolo dopo l'elenco degli insegnamenti complementari il primo comma e' abrogato e sostituito dai seguenti:
+4) patologia speciale e clinica medica;
 
-"Gli insegnamenti biennali di "Anatomia degli animali domestici con istologia ed embriologia" e di "Fisiologia generale e speciale degli animali domestici e chimica biologica" comportano ciascuno due esami distinti che lo studente dovra' sostenere rispettivamente dopo il primo e dopo il secondo anno di corso".
+5) malattie infettive, profilassi e polizia veterinaria;
 
-Gli insegnamenti biennali di "Patologia generale ed anatomia patologica" e di "Patologia speciale e clinica medica" comportano ciascuno due esami distinti che lo studente dovra' sostenere rispettivamente dopo il terzo e dopo il quarto anno di corso".
+6) nozioni di medicina veterinaria legale;
 
-Dopo l'art. 123 e' aggiunto il seguente nuovo articolo relativo alla istituzione del corso di perfezionamento in patologia aviare annesso alla facolta' di medicina veterinaria.
+7) nozioni di chirurgia bovina.
 
-Corso di perfezionamento in patologia aviare
+Le relative esercitazioni riguarderanno l'anatomia patologica, la diagnosi sperimentale delle malattie infettive, la ginecologia e fecondazione artificiale, la chirurgia e la clinica medica dei bovini.
 
-Art. 124. - La durata del corso e' di un anno, le materie di insegnamento sono:
+Corso di perfezionamento in approvvigionamenti annonari, mercati e industrie di origine animale
 
-Cenni di anatomia e fisiologia degli uccelli domestici;
+Art. 110. - Il corso ha la durata di un anno.
 
-Igiene degli allevamenti avicoli e dell'alimentazione degli uccelli domestici;
+Le materie d'insegnamento sono:
 
-Malattie di origine nutritiva e carenziale;
+1) legislazione annonaria;
 
-Malattie infettive;
+2) principi di economia politica e di statistica;
 
-Malattie parassitarie;
+3) tecnica di preparazione, conservazione, trasporto e controllo sanitario degli alimenti di origine animale;
 
-Avvelenamenti;
+4) nozioni di chimica degli alimenti di origine animale;
 
-Malattie ed eziologia indeterminata ed ereditaria;
+5) mercati;
 
-Anatomia ed istologia patologica.
+6) tecnica commerciale dei prodotti alimentari di origine animale.
 
-Le esercitazioni riguarderanno essenzialmente la anatomia e l'istologia patologica e la diagnosi di laboratorio delle malattie infettive parassitarie. Esse saranno integrate da sopraluoghi presso allevamenti avicoli a carattere rurale ed industriale.
+Le relative esercitazioni, riguarderanno, principalmente, le tecniche di preparazione, conservazione, trasporto e controllo sanitario degli alimenti di origine animale.
+
+Corso di perfezionamento in alimentazione del bestiame
+
+Art. 111. - Il corso ha la durata di un anno.
+
+Le materie d'insegnamento sono:
+
+1) nozioni di fisiologia della nutrizione;
+
+2) produzione, conservazione e composizione chimica degli alimenti;
+
+3) metodi di analisi chimica e biologica degli alimenti;
+
+4) tecnica ed economia dell'alimentazione;
+
+5) patologia dell'alimentazione.
+
+Le relative esercitazioni riguarderanno le analisi degli alimenti, il riconoscimento dei foraggi e dei mangimi concentrati, il razionamento.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 27 ottobre 1968
+Dato a Roma, addi' 19 ottobre 1959
 
-SARAGAT
+GRONCHI
 
-SCAGLIA
+MEDICI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 22 gennaio 1969 Atti del Governo registro n. 224, foglio n. 165 - GRECO
+alla Corte dei conti, addi' 9 dicembre 1959 Atti del Governo, registro n. 122, foglio n. 104. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Perugia approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -137,55 +152,64 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 15. - L'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' modificato nel senso che l'insegnamento di "Geografia ed etnografia coloniale" muta denominazione in quello di Etnologia";  
-Art. 43. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti quelli di:  
-Microbiologia lattiero-casearia;  
-Scienza dell'alimentazione del bestiame;  
-Olivicoltura (semestrale);  
-Virologia (semestrale);  
-Cooperazione agricola (semestrale);  
-Micologia (semestrale);  
-Tecnica della sperimentazione in agricoltura (semestrale);  
-Economia dei mercati agricoli (semestrali);  
-Tecnologia delle conserve alimentari (semestrale);  
-Elettrificazione agricola (semestrale).  
-Nello stesso corso di laurea dopo il penultimo comma e' inserito il seguente:  
-"Il corso di economia e politica agraria - pur restando biennale ed unito quanto all'insegnamento - comporta per quanto riguarda l'accertamento due esami distinti uno alla fine del 3° anno di corso (Economia agraria) ed uno alla fine del 4° anno di corso (Politica agraria)".  
-Art. 44, relativo alle norme sulle propedeuticita' ed esami del corso di laurea in scienze agrarie e' modificato nel senso che viene aggiunto il seguente nuovo comma:  
-"L'esame di chimica generale ed inorganica e quello di fisica debbono precedere quello di mineralogia e geologia".  
-Art. 56. - All'elenco degli insegnamenti complementari del corso di laurea in medicina veterinaria sono aggiunti quelli di:  
-Genetica animale;  
-Semeiotica medica e metodologia clinica veterinaria;  
-Fisiopatologia comparata;  
-Anatomia topografica.  
-Nello stesso articolo dopo l'elenco degli insegnamenti complementari il primo comma e' abrogato e sostituito dai seguenti:  
-"Gli insegnamenti biennali di "Anatomia degli animali domestici con istologia ed embriologia" e di "Fisiologia generale e speciale degli animali domestici e chimica biologica" comportano ciascuno due esami distinti che lo studente dovra' sostenere rispettivamente dopo il primo e dopo il secondo anno di corso".  
-Gli insegnamenti biennali di "Patologia generale ed anatomia patologica" e di "Patologia speciale e clinica medica" comportano ciascuno due esami distinti che lo studente dovra' sostenere rispettivamente dopo il terzo e dopo il quarto anno di corso".  
-Dopo l'art. 123 e' aggiunto il seguente nuovo articolo relativo alla istituzione del corso di perfezionamento in patologia aviare annesso alla facolta' di medicina veterinaria.  
   
-Corso di perfezionamento in patologia aviare  
+CAP. XII  
+Corsi di perfezionamento  
+annessi alla Facolta' di medicina veterinaria  
   
-Art. 124. - La durata del corso e' di un anno, le materie di insegnamento sono:  
-Cenni di anatomia e fisiologia degli uccelli domestici;  
-Igiene degli allevamenti avicoli e dell'alimentazione degli uccelli domestici;  
-Malattie di origine nutritiva e carenziale;  
-Malattie infettive;  
-Malattie parassitarie;  
-Avvelenamenti;  
-Malattie ed eziologia indeterminata ed ereditaria;  
-Anatomia ed istologia patologica.  
-Le esercitazioni riguarderanno essenzialmente la anatomia e l'istologia patologica e la diagnosi di laboratorio delle malattie infettive parassitarie. Esse saranno integrate da sopraluoghi presso allevamenti avicoli a carattere rurale ed industriale.  
+Dopo l'art. 102, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione dei corsi di perfezionamento in "patologia e clinica dei bovini", "approvvigionamenti annonari, mercati e industrie di origine animale" e "alimentazione del bestiame".  
+Art. 103. - Alla Facolta' di medicina veterinaria sono annessi i corsi di perfezionamento in "patologia e clinica dei bovini", "approvvigionamenti annonari, mercati e industrie di origine animale", "alimentazione del bestiame", tutti della durata di un anno.  
+Alla fine del corso sara' rilasciato un attestato di frequenza o di profitto.  
+Art. 104. - Ai corsi di perfezionamento in "patologia e clinica dei bovini" e in "approvvigionamenti annonari, mercati e industrie di origine animale" possono essere iscritti soltanto i laureati in medicina veterinaria; al corso di perfezionamento in "alimentazione del bestiame" possono essere iscritti i laureati in scienze agrarie.  
+Non e' ammessa la iscrizione contemporanea a piu' di un corso di perfezionamento.  
+Art. 105. - Il direttore del corso di perfezionamento in "patologia e clinica dei bovini" e' il professore di ruolo di patologia speciale e clinica medica; quello del corso di perfezionamento in "approvvigionamenti annonari, mercati e industrie di origine animale" e' il professore di ruolo della materia; quello del corso di perfezionamento in "alimentazione del bestiame" e' il professore di ruolo di fisiologia generale e speciale degli animali domestici con chimica biologica. Nel caso in cui le cattedre sopradette non siano coperte da un professore di ruolo il direttore e' scelto dal Consiglio di Facolta'.  
+Il Consiglio di ciascun corso e' formato dai professori che tengono gli insegnamenti.  
+Art. 106. - Il numero dei laureati che possono essere iscritti a ciascun corso e' di venti. Per il funzionamento di ciascun corso e' comunque necessario un numero di sei iscritti.  
+Qualora il numero degli iscritti ecceda quello massimo l'ammissione ai corsi stessi e' subordinata alla valutazione dei titoli degli aspiranti. Le date d'inizio e di termine dei corsi sono uguali a quelle fissate per l'anno accademico.  
+Art. 107. - Le tasse d'immatricolazione e di iscrizione ai corsi di perfezionamento sono le stesse dovute dagli studenti della Facolta' di medicina veterinaria.  
+La misura dei contributi per le esercitazioni pratiche verra' fissata dal Consiglio di amministrazione sia proposta del Consiglio della facolta', debitamente approvata dal Senato accademico.  
+Art. 108. - A coloro che hanno frequentato i corsi e superato le prove relative, verra' rilasciato un attestato di frequenza e di profitto.  
+Corso di perfezionamento in patologia e clinica dei bovini  
+Art. 109. - Il corso ha la durata di un anno.  
+Le materie d'insegnamento sono:  
+1) anatomia e fisiologia dei bovini;  
+2) anatomia patologica;  
+3) ostetricia, ginecologia e fecondazione artificiale;  
+4) patologia speciale e clinica medica;  
+5) malattie infettive, profilassi e polizia veterinaria;  
+6) nozioni di medicina veterinaria legale;  
+7) nozioni di chirurgia bovina.  
+Le relative esercitazioni riguarderanno l'anatomia patologica, la diagnosi sperimentale delle malattie infettive, la ginecologia e fecondazione artificiale, la chirurgia e la clinica medica dei bovini.  
+Corso di perfezionamento in approvvigionamenti annonari, mercati e industrie di origine animale  
+Art. 110. - Il corso ha la durata di un anno.  
+Le materie d'insegnamento sono:  
+1) legislazione annonaria;  
+2) principi di economia politica e di statistica;  
+3) tecnica di preparazione, conservazione, trasporto e controllo sanitario degli alimenti di origine animale;  
+4) nozioni di chimica degli alimenti di origine animale;  
+5) mercati;  
+6) tecnica commerciale dei prodotti alimentari di origine animale.  
+Le relative esercitazioni, riguarderanno, principalmente, le tecniche di preparazione, conservazione, trasporto e controllo sanitario degli alimenti di origine animale.  
+Corso di perfezionamento in alimentazione del bestiame  
+Art. 111. - Il corso ha la durata di un anno.  
+Le materie d'insegnamento sono:  
+1) nozioni di fisiologia della nutrizione;  
+2) produzione, conservazione e composizione chimica degli alimenti;  
+3) metodi di analisi chimica e biologica degli alimenti;  
+4) tecnica ed economia dell'alimentazione;  
+5) patologia dell'alimentazione.  
+Le relative esercitazioni riguarderanno le analisi degli alimenti, il riconoscimento dei foraggi e dei mangimi concentrati, il razionamento.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 ottobre 1968
+### Dato a Roma, addi' 19 ottobre 1959
 
-SARAGAT SCAGLIA
+GRONCHI MEDICI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 22 gennaio 1969
+Registrato alla Corte dei conti, addi' 9 dicembre 1959
 
-Atti del Governo registro n. 224, foglio n. 165 - GRECO
+Atti del Governo, registro n. 122, foglio n. 104. - VILLA

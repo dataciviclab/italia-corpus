@@ -1,174 +1,65 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1986 n. 807
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1950 n. 1307
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1986 n. 807
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1950 n. 1307
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 19533, n. 1592;
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1933, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' degli studi di Bologna;
-
-Considerato che e' tuttora in atto la sperimentazione organizzativa e didattica di cui agli [articoli 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art81)-[93 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art93);
-
-Considerato che le tabelle dell'ordinamento didattico universitario relative ai corsi di laurea sono in fase di riordinamento per effetto di apposite commissioni di studio, e che anzi alcune tabelle sono state gia' riordinate;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Rilevata la necessita' di accogliere la richiesta dell'Universita' di Bologna di istituire il corso di laurea in scienze dell'informazione, allo scopo di riequilibrare le iscrizioni presso gli omonimi corsi di laurea degli Atenei viciniori, al fine di assicurare una migliore formazione degli studenti;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con i [regi decreti 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-12;2227); [4 settembre 1930, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-09-04;1312); [10 ottobre 1931, n. 1778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-10;1778); [27 ottobre 1932, n. 2092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2092); [6 dicembre 1934, n. 1315](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;1315); [5 ottobre 1939, n. 1644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1644); [11 luglio 1941, n. 848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-07-11;848); [11 luglio 1942, n. 928](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-11;928); [24 ottobre 1942, n. 1595; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1595) [16 maggio 1947, n. 694 e con decreto del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-05-16;694) [22 febbraio 1948, n. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-02-22;414);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Nell'art. 2, relativo alle facolta' che costituiscono l'Universita' ed alle lauree che si conseguono presso le facolta' medesime, all'elenco delle lauree che si conseguono presso la facolta' di scienze matematiche, fisiche e naturali, e' aggiunta la seguente laurea:   
-"Laurea in scienze dell'informazione, durata del corso quattro anni".   
-
-Art. 2
-------
-
+Decreta:  
   
-  
-L'art. 105, relativo alle lauree che conferisce la facolta' di scienze matematiche, fisiche e naturali e' soppresso e Cosi' sostituito:   
-"Art. 105. - La facolta' di scienze matematiche, fisiche e naturali, conferisce dopo un corso di studi della durata di quattro anni le seguenti lauree:   
-in matematica;   
-in fisica;   
-in scienze naturali;   
-in scienze biologiche;   
-in astronomia;   
-in scienze geologiche;   
-in scienze dell'informazione, e dopo un corso di studi per la durata di cinque anni, la laurea in chimica.   
-Il quinquennio di studi per il conseguimento di questa laurea e' diviso in un biennio di studi propedeutici e in un triennio di studi di applicazione.   
-Titolo di ammissione: quello previsto dalle vigenti disposizioni di legge".   
-Dopo l'art. 120, con il conseguente scorrimento della numerazione degli articoli successivi, sono inseriti l'intitolazione del corso di laurea in scienze dell'informazione e l'articolo relativo all'ordinamento degli studi del corso di laurea medesimo come appresso riportato:   
-h) LAUREA IN SCIENZE DELL'INFORMAZIONE   
-Art. 121. - La durata del corso di studi per la laurea in scienze dell'informazione e' di quattro anni. Titoli di ammissione seno quelli dell'[art. 1 della legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1).   
-Ogni anno, prima dell'apertura delle iscrizioni, il senato accademico e il consiglio di amministrazione, sulla base delle indicazioni motivate dalla facolta', fissano il numero massimo di studenti ammessi all'iscrizione al I anno di corso, compatibilmente con le strutture esistenti.   
-Il corso degli studi si distingue in tre indirizzi: indirizzo generale, indirizzo tecnico (sistemi per l'elaborazione), indirizzo applicativo (gestione).   
-Il primo biennio di studi e' comune ai tre indirizzi.   
-La scelta dell'indirizzo viene fatta dallo studente   
-all'atto della sua iscrizione al terzo anno di corso.   
-a) Sono insegnamenti fondamentali obbligatori per il primo biennio per tutti gli indirizzi:   
-1° Anno:   
-1) analisi matematica I;   
-2) algebra (semestrale);   
-3) fisica I;   
-4) geometria (semestrale);   
-5) teoria ed applicazione delle macchine calcolatrici.   
-2° Anno:   
-1) analisi matematica II;   
-2) calcolo delle probabilita' e statistica (semestrale);   
-3) calcolo numerico (semestrale);   
-4) fisica II;   
-5) ricerca operativa e gestione aziendale;   
-6) sistemi per l'elaborazione dell'informazione I.   
-b) Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi per il secondo biennio:   
-1) metodi per il trattamento dell'informazione;   
-2)
-
-((Sistemi per l'elaborazione dell'informazione II))
-
-;   
-3) teoria dell'informazione e della trasmissione.   
-Sono insegnamenti fondamentali obbligatori:   
-a) Per l'indirizzo generale:   
-1) linguaggi formali e compilatori;   
-2) metodi di approssimazione.   
-b) Per l'indirizzo tecnico:   
-1) tecniche numeriche e analogiche;   
-2) teorie e sistemi. (1)   
-c) Per l'indirizzo applicativo:   
-1) teoria e metodi dell'ottimizzazione;   
-2) economia e organizzazione aziendale (semestrale);   
-3) trattamento dell'informazione nell'impresa (semestrale).   
-Insegnamenti complementari comuni ai tre indirizzi:   
-1) analisi numerica;   
-2) bioelettronica;   
-3) calcolo delle probabilita';   
-4) cibernetica e teoria dell'informazione;   
-5) complementi di gestione aziendale;   
-6) comunicazioni elettriche;   
-7) controlli automatici;   
-8) controllo dei processi industriali;   
-9) documentazione automatica;   
-10) econometria;   
-11) elaborazione dell'informazione non numerica;   
-12) elaborazione di immagini;   
-13) elaborazione dei testi letterari;   
-14) elettronica;   
-15) fisica numerica;   
-16) fisica superiore;   
-17) istituzioni di fisica teorica;   
-18) istituzioni di analisi superiore;   
-19) istituzioni di fisica matematica;   
-20) linguaggi speciali di programmazione;   
-21) logica matematica;   
-22) macchine calcolatrici analogiche;   
-23) teoria dei modelli;   
-24) progetto di sistemi numerici;   
-25) simulazione;   
-26) statistica;   
-27) tecniche di progettazione automatica;   
-28) tecniche direzionali;   
-29) tecniche speciali di elaborazione;   
-30) teoria degli algoritmi e calcolabilita';   
-31) teoria degli automi;   
-32) teoria dei giochi;   
-33) teoria dei grafi;   
-34) teoria delle decisioni.   
-Alcuni di questi corsi complementari potranno avere la durata semestrale.   
-Ciascuno degli insegnamenti, sia fondamentali che complementari, comporta un esame finale.   
-Ciascun insegnamento fondamentale di un indirizzo puo' essere scelto come insegnamento complementare per altro indirizzo in cui non sia fondamentale.   
-La scelta delle materie complementari da parte dello studente e' sottoposta alla preventiva approvazione della facolta'.   
-Per ottenere l'iscrizione al secondo biennio, lo studente deve aver seguito i corsi e superato gli esami di almeno cinque materie annuali del primo biennio - (due corsi semestrali sono valutati come un corso annuale).   
-Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superato gli esami, in tutti gli insegnamenti fondamentali e almeno in quattro scelti fra i complementari se a corso semestrale, in almeno tre se uno di essi e' annuale, o in almeno due se ambedue sono annuali".   
+Lo Statuto dell'Universita' di Bologna approvato e modificato con i decreti sopraindicati e' cosi' ulteriormente modificato.  
+Attuale art. 22. - Il secondo comma e' sostituito dal seguente:  
+L'indicazione scritta del tema, col visto del professore che l'ha approvato, deve depositarsi nella segreteria della Facolta', almeno sei mesi prima della presentazione della dissertazione. La dissertazione, in doppio esemplare, deve essere consegnata alla segreteria almeno un mese prima di quello fissato per la discussione.  
+Al titolo V ed all'art. 23 l'Istituto giuridico-politico assume la denominazione di "Istituto giuridico".  
+L'attuale art. 30, e' cosi' modificato:  
+"L'Istituto e' retto da un direttore eletto dal Consiglio della Facolta' di giurisprudenza tra, i professori ordinari della Facolta' medesima, anche fuori ruolo, e da due consiglieri, uno dei quali e' il preside della Facolta', e l'altro e' eletto dal Consiglio di Facolta', anche fra i professori fuori ruolo.  
+Il direttore ed il consigliere elettivo durano in carica, un triennio e possono essere confermati".  
+Attuale art. 31. - La parola, "discipline" e' sostituita con quella di "materie".  
+L'attuale art. 32, e' sostituito dal seguente:  
+Presso l'Istituto possono tenersi anche, secondo la opportunita'; conferenze ed esercitazioni speciali in altre discipline e segnatamente nelle seguenti:  
+Diritto del lavoro;  
+Diritto tributario;  
+Diritto internazionale privato;  
+Amministrazione aziendale privata e pubblica;  
+Ordinamento della proprieta' fondiaria;  
+Arte notarile.  
+Attuale art. 33. - Il primo comma ed il secondo sono rispettivamente sostituiti dai seguenti:  
+1° comma. "Possono iscriversi ai corsi dell'Istituto, in qualita' di praticanti i laureati in giurisprudenza".  
+2° comma. "Gli iscritti non possono eccedere il numero di 30, salvo diversa deliberazione del direttore dell'Istituto".  
+L'attuale art. 34, e' sostituito dal seguente:  
+"Le tasse annuali di iscrizione e i contributi accessori sono stabiliti da norme interne".  
+Attuale art. 35. - L'ultimo comma e' sostituito dal seguente:  
+"Il rilascio di tale certificato e' soggetto al pagamento di un diritto fisso stabilito da norme interne".  
+Attuale art. 43. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di:  
+29 - "Storia e Geografia dell'Asia Orientale".  
+All'attuale art. 72, e' aggiunto il seguente comma:  
+"L'esame di laurea in scienze geologiche consiste nella discussione di una dissertazione scritta basata sopra un rilevamento geologico originale e di due tesine su argomento geologico, mineralogico, paleontologico e petrografico. La dissertazione di laurea dovra' essere presentata almeno quindici giorni prima del giorno fissato per l'esame di laurea. L'esame di laurea sara' preceduto da un colloquio di cultura generale sulle materie geomineralogiche".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 agosto 1986
+### Dato a Roma, addi' 31 ottobre 1950
 
-COSSIGA
+EINAUDI GONELLA
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: PICCIONI
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 5 novembre 1951
 
-Registrato alla Corte dei conti, addi' 17 novembre 1986
-
-Registro n. 84 Istruzione, foglio n. 108
-
----------------
-
-AGGIORNAMENTO (1)
-
-L'errata corrige in G.U. 10/2/1988, n. 33, ha disposto che nel presente articolo "dove e' scritto: "2) teoria e sistemi", leggasi:  
-"2) teoria dei sistemi"."
+Atti del Governo, registro n. 45, foglio n. 62. - FRASCA

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 aprile 1977 n. 208
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 655
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 aprile 1977 n. 208
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 655
+================================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-208. Decreto del Presidente della Repubblica 5 aprile 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Colombo Alessandra con testamento pubblico 20 gennaio 1971, a rogito del notaio dott. Gian Franco Condo' in data 8 marzo 1971, n. 1649/328 di repertorio e registrato il 9 marzo 1971 a Merate (Como) al n. 202, vol. 44, consistente nella somma di L. 500.000.  
+655. Decreto del Presidente della Repubblica 22 settembre 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 4.000.000, disposto dal sig. Vallero Luigi con testamento pubblico redatto dal dott. Federico Bottino, notaio in Torino, il 10 maggio 1974, attivato dallo stesso notaio con verbale 3 luglio 1979, n. 44399 di repertorio e n. 8859 di raccolta, registrato a Torino il 17 luglio 1979 al n. 35153, vol. 132, a favore dell'Opera mutilatini di don Gnocchi che si identifica con la fondazione - Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 10 maggio 1977  
-Registro n. 4 Presidenza, foglio n. 271
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 14 novembre 1981  
+Registro n. 10 Presidenza, foglio n. 39

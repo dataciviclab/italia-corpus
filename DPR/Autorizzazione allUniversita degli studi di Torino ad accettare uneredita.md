@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1981 n. 710
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 ottobre 1962 n. 1545
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1981 n. 710
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 ottobre 1962 n. 1545
+===============================================================
 
 Autorizzazione all'Universita' degli studi di Torino ad accettare un'eredita'.
 ------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-710. Decreto del Presidente della Repubblica 8 luglio 1981, col quale, sulla proposta del Ministro della pubblica istruzione, l'Universita' degli studi di Torino viene autorizzata ad accettare l'eredita' disposta dalla sig.ra Maria Antonietta Porri con testamento olografo 11 settembre 1969, pubblicato in data 6 febbraio 1976, n. 19695/4350 di repertorio, a rogito dott. Piero Urani, notaio in Torino, registrato a Torino il 10 febbraio 1976, n. 5525, consistente in un immobile del valore di L. 33.600.000, allo scopo di costituire una borsa di studio presso la facolta' di scienze economiche e commerciali per studenti bisognosi che si distinguano nella materia di economia politica.  
+1545. Decreto del Presidente della Repubblica 10 ottobre 1962, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Torino viene autorizzata ad accettare, con beneficio di inventario, l'eredita' dei beni, disposta a suo favore, dal defunto avv. Carlo Marangoni, della consistenza patrimoniale di circa un miliardo di lire, con testamenti pubblici in data 20 giugno 1959, 29 luglio 1959, 23 gennaio 1960, 2 giugno 1960 e 12 ottobre 1960 a rogito del notaio Pietro Astore di Torino, nonche' con testamento olografo in data 12 settembre 1952 pubblicato con verbale dello stesso notaio in data 9 febbraio 1961 e registrato a Torino l'11 stesso mese al n. 18938, vol. 946 atti pubblici.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corta dei conti, addi' 28 novembre 1981  
-Registro n. 117 Istruzione, foglio n. 140
+Visto, il Guardasigilli: BOSCO  
+Registrato alla Corte dei conti, addi' 7 novembre 1962  
+Atti del Governo, registro n. 160, foglio n. 11. - VILLA

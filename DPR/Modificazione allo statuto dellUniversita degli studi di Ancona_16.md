@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1983 n. 1018
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1070
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1983 n. 1018
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1070
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Ancona.
 ------------------------------------------------------------------
@@ -40,14 +40,14 @@ Articolo unico
 
   
 Nell'art. 23, relativo al corso di laurea in ingegneria, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-termodinamica applicata;  
-trasmissione del calore.  
+fisica dell'atmosfera;  
+tecnica dei sondaggi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 agosto 1983
+### Dato a Roma, addi' 23 dicembre 1983
 
 PERTINI FALCUCCI
 
@@ -55,4 +55,4 @@ Visto, il Guardasigilli: MARTINAZZOLI
 
 Registrato alla Corte dei conti, addi' 29 febbraio 1984
 
-Registro n. 13 Istruzione, foglio n. 72
+Registro n. 13 Istruzione, foglio n. 70

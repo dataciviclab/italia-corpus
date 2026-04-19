@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1980 n. 970
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1978 n. 724
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1980 n. 970
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1978 n. 724
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
@@ -12,77 +12,204 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio universitario nazionale nel suo parere;
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
---------
 
 Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 155 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' aggiunta la scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva.
 
+L'art. 383, sesto comma, e' modificato nel senso che il numero degli iscritti da ammettere alla seconda scuola di specializzazione in chirurgia e' stabilito in 42 per tutti i cinque anni di corso.
+
+Dopo l'art. 415, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva.
+
+Scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva
+
+Art. 416. - La scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva ha sede presso la facolta' di medicina e chirurgia e conferisce il diploma di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva.
+
+Art. 417. - La durata del corso e' di cinque anni.
+
+Il numero massimo degli specializzandi ammessi potra' essere di 60 complessivamente per l'intero corso di studi.
+
+Art. 418. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria per l'ammissione all'annuale esame di profitto relativo alle materie svolte. Il superamento di detto esame sara' condizione indispensabile per l'iscrizione all'anno successivo.
+
+Art. 419. - Gli insegnamenti impartiti nella scuola sono cosi' suddivisi:
+
+1° Anno:
+
+1) anatomia descrittiva e topografia specialistica I;
+
+2) fisiopatologia e semeiotica funzionale I;
+
+3) anatomia ed istologia patologica I;
+
+4) patologia chirurgica I.
+
+2° Anno:
+
+5) anatomia descrittiva e topografia specialistica II;
+
+6) fisiopatologia e semeiotica funzionale II;
+
+7) anatomia ed istologia patologica II;
+
+8) patologia chirurgica II;
+
+9) semeiotica chirurgica I;
+
+10) radiologia e medicina nucleare I;
+
+11) endoscopia digestiva diagnostica e terapeutica I.
+
+3° Anno:
+
+12) patologia chirurgica III;
+
+13) semeiotica chirurgica II;
+
+14) radiologia e medicina nucleare II;
+
+15) endoscopia digestiva diagnostica e terapeutica II;
+
+16) clinica e terapia chirurgica I;
+
+17) tecniche operatorie I.
+
+4° Anno:
+
+18) semeiotica chirurgica III;
+
+19) radiologia e medicina nucleare III;
+
+20) endoscopia digestiva diagnostica e terapeutica III;
+
+21) clinica e terapia chirurgica II;
+
+22) tecniche operatorie II;
+
+23) anestesia e rianimazione;
+
+24) riabilitazione in chirurgia digestiva.
+
+5° Anno:
+
+25) clinica e terapia chirurgica III;
+
+26) tecniche operatorie III;
+
+27) chirurgia d'urgenza dell'apparato digerente;
+
+28) chirurgia pediatrica dell'apparato digerente;
+
+29) terapia intensiva.
+
+Art. 420. - Al termine del quinquennio, per ottenere il diploma, i candidati dovranno presentare una dissertazione scritta su un argomento di chirurgia dell'apparato digerente ed endoscopia digestiva e dovranno inoltre sostenere una prova clinica.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 2 ottobre 1978
+
+PERTINI
+
+PEDINI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 6 novembre 1978 Registro n. 119 Istruzione, foglio n. 65
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
-Dopo l'art. 498, con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola diretta a fini speciali di terapia della psicomotricita' nell'eta' evolutiva.   
-Scuola diretta a fini speciali per la terapia della psicomotricita' dell'eta' evolutiva   
-Art. 499. - E' istituita presso la facolta' di medicina e chirurgia la scuola diretta a fini speciali per la terapia della psicomotricita' nell'eta' evolutiva.   
-Essa ha lo scopo di perfezionare la competenza teorica e pratica degli operatori pedagogisti e terapisti della riabilitazione, operanti nel settore dell'eta' evolutiva.   
-La durata del corso e' fissata in un anno accademico.   
-Il programma didattico consiste in lezioni teoriche ed in esercitazioni pratiche, presso le strutture cliniche, didattiche e riabilitative di cui dispone la cattedra di neuropsichiatria infantile, ed eventualmente presso altri centri qualificati ritenuti idonei a tale scopo dal consiglio di facolta'.   
-Art. 500. - Direttore della scuola e' di diritto il titolare della cattedra di neuropsichiatria infantile.   
-I docenti sono proposti dal consiglio di facolta', sentito il direttore della scuola, e nominati dal rettore.   
-Art. 501. - Il numero massimo degli allievi che possono essere ammessi per ogni anno e' di quindici.   
-Il diploma magistrale e' titolo di studio richiesto per l'ammissione, mentre altri diplomi possono essere considerati ai fini della valutazione dei titoli.   
-Alla scuola si accede previo esame di ammissione consistente nella valutazione dei titoli e in una prova orale e/o scritta, concernente gli aspetti generali della disciplina (pedagogia emendativa, ovvero riabilitazione).   
-La commissione per l'esame di ammissione e' nominata dalla facolta' su proposta del direttore della scuola.   
-Tale commissione formula la graduatoria sulla base della valutazione dei titoli e dei risultati della prova orale e/o scritta.   
-Il giudizio della commissione e' insindacabile nel merito.   
-Art. 502. - Le materie di insegnamento teorico sono:   
-1) elementi di anatomo-fisiologia del sistema nervoso nella prospettiva dello sviluppo e in rapporto alla semeiologia e alla funzione;   
-2) tecniche diagnostiche strumentali nella neurologia dell'eta' evolutiva (elettroencefalografia, elettromiografia, potenziali evocati, neuroradiologia, ecc.);   
-3) tecniche psicodiagnostiche (testologiche) nella neuropsichiatria dell'eta' evolutiva;   
-4) elementi fondamentali di clinica neurologica dell'eta' evolutiva;   
-5) elementi fondamentali di clinica psichiatrica dell'eta' evolutiva;   
-6) orientamenti di diagnostica e terapia rieducativa motoria nella prospettiva dello sviluppo;   
-7) orientamenti di diagnostica e terapia rieducativa delle funzioni prassiche ed espressive (psicomotricita' e linguaggio) nella prospettiva dello sviluppo;   
-8) orientamenti di psicoterapia nell'eta' evolutiva;   
-9) nozioni sulle terapie con farmaci neuro e psicotropi nell'eta' evolutiva;   
-10) prevenzione ed assistenza nel territorio: elementi di legislazione sanitaria.   
-Art. 503. - Le presenze alle lezioni teoriche e al tirocinio pratico hanno validita' ai fini dell'ammissione all'esame di diploma se raggiungono almeno i 4/5 del totale, fissato dalla direzione della scuola.   
-Art. 504. - Al termine dell'anno di corso, gli allievi che hanno regolarmente adempiuto agli obblighi di frequenza possono sostenere l'esame di diploma in terapia della psicomotricita' per l'eta' evolutiva.   
-La commissione di esame e' formata dal direttore e da due docenti, nominati dalla facolta' su proposta del direttore.   
-I candidati non riconosciuti idonei possono essere iscritti a tutti gli effetti come ripetenti per un solo anno.   
-Art. 505. - Le domande di iscrizione si accettano dal 1 agosto al 16 ottobre con allegati i seguenti documenti:   
-scheda notizie;   
-originale del titolo di studio.   
-Le tasse, soprattasse e contributi generali, sono quelli previsti per gli iscritti al corso di laurea in medicina e chirurgia.   
-Il contributo speciale per le esercitazioni viene fissato con la procedura prevista dalla [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).   
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 155 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' aggiunta la scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva.  
+L'art. 383, sesto comma, e' modificato nel senso che il numero degli iscritti da ammettere alla seconda scuola di specializzazione in chirurgia e' stabilito in 42 per tutti i cinque anni di corso.  
+Dopo l'art. 415, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva.  
+  
+Scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva  
+  
+Art. 416. - La scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva ha sede presso la facolta' di medicina e chirurgia e conferisce il diploma di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva.  
+Art. 417. - La durata del corso e' di cinque anni.  
+Il numero massimo degli specializzandi ammessi potra' essere di 60 complessivamente per l'intero corso di studi.  
+Art. 418. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria per l'ammissione all'annuale esame di profitto relativo alle materie svolte. Il superamento di detto esame sara' condizione indispensabile per l'iscrizione all'anno successivo.  
+Art. 419. - Gli insegnamenti impartiti nella scuola sono cosi' suddivisi:  
+1° Anno:  
+1) anatomia descrittiva e topografia specialistica I;  
+2) fisiopatologia e semeiotica funzionale I;  
+3) anatomia ed istologia patologica I;  
+4) patologia chirurgica I.  
+2° Anno:  
+5) anatomia descrittiva e topografia specialistica II;  
+6) fisiopatologia e semeiotica funzionale II;  
+7) anatomia ed istologia patologica II;  
+8) patologia chirurgica II;  
+9) semeiotica chirurgica I;  
+10) radiologia e medicina nucleare I;  
+11) endoscopia digestiva diagnostica e terapeutica I.  
+3° Anno:  
+12) patologia chirurgica III;  
+13) semeiotica chirurgica II;  
+14) radiologia e medicina nucleare II;  
+15) endoscopia digestiva diagnostica e terapeutica II;  
+16) clinica e terapia chirurgica I;  
+17) tecniche operatorie I.  
+4° Anno:  
+18) semeiotica chirurgica III;  
+19) radiologia e medicina nucleare III;  
+20) endoscopia digestiva diagnostica e terapeutica III;  
+21) clinica e terapia chirurgica II;  
+22) tecniche operatorie II;  
+23) anestesia e rianimazione;  
+24) riabilitazione in chirurgia digestiva.  
+5° Anno:  
+25) clinica e terapia chirurgica III;  
+26) tecniche operatorie III;  
+27) chirurgia d'urgenza dell'apparato digerente;  
+28) chirurgia pediatrica dell'apparato digerente;  
+29) terapia intensiva.  
+Art. 420. - Al termine del quinquennio, per ottenere il diploma, i candidati dovranno presentare una dissertazione scritta su un argomento di chirurgia dell'apparato digerente ed endoscopia digestiva e dovranno inoltre sostenere una prova clinica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1980
+### Dato a Roma, addi' 2 ottobre 1978
 
-PERTINI BODRATO
+PERTINI PEDINI
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 30 dicembre 1980
+Registrato alla Corte dei conti, addi' 6 novembre 1978
 
-Registro n. 122 Istruzione, foglio n. 43
+Registro n. 119 Istruzione, foglio n. 65

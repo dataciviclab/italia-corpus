@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1095
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 agosto 1971 n. 1356
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1095
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 agosto 1971 n. 1356
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,83 +20,270 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Veduta la [legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta intese ad ottenere l'istituzione del corso di laurea in sociologia presso la facolta' di lettere e filosofia;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Considerata la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali e quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Presso la facolta' di lettere e filosofia dell'Universita' degli studi di Napoli e' istituito il corso di laurea in sociologia. Tale nuovo corso di laurea comincera' a funzionare a decorrere dall'anno accademico 1971-72 con il primo anno di corso. Negli anni accademici successivi funzioneranno progressivamente gli anni di corso susseguenti al primo.
 
-Articolo unico
---------------
+Alla fine del corso di studi viene rilasciata la laurea in sociologia.
 
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati e' modificato come appresso.
+
+L'art. 88 e' abrogato e sostituito dal seguente:
+
+Art. 88. - La facolta' di lettere e filosofia conferisce esclusivamente:
+
+La laurea in lettere;
+
+La laurea in filosofia;
+
+La laurea in lingue e letterature straniere moderne (indirizzo europeo);
+
+La laurea in sociologia.
+
+Dopo l'art. 101 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in sociologia.
+
+LAUREA IN SOCIOLOGIA
+
+Art. 102. - Gli insegnamenti per il conseguimento della laurea in sociologia sono i seguenti:
+
+Insegnamenti fondamentali:
+
+1) Sociologia (biennale);
+
+2) Un insegnamento scelto fra i seguenti: storia della filosofia o storia della filosofia moderna e contemporanea;
+
+3) Filosofia morale;
+
+4) Antropologia culturale;
+
+5) Un insegnamento scelto fra i seguenti: storia moderna o storia contemporanea;
+
+6) Logica;
+
+7) Metodologia e tecnica della ricerca sociale;
+
+8) Statistica;
+
+9) Psicologia;
+
+10) Storia della sociologia;
+
+11) Psicologia sociale.
+
+Insegnamenti complementari:
+
+1) Sociologia politica;
+
+2) Sociologia economica;
+
+3) Sociologia dei gruppi;
+
+4) Sociologia della comunicazione;
+
+5) Sociologia della conoscenza;
+
+6) Metodologia delle scienze umane;
+
+7) Sociologia industriale;
+
+8) Sociologia del lavoro;
+
+9) Filosofia del diritto;
+
+10) Sociologia dell'educazione;
+
+11) Sociologia della religione;
+
+12) Sociologia del diritto;
+
+13) Sociologia dell'arte e della letteratura;
+
+14) Filosofia della storia;
+
+15) Filosofia della scienza;
+
+16) Filosofia del linguaggio;
+
+17) Etnologia;
+
+18) Filosofia teoretica;
+
+19) Storia della filosofia moderna e contemporanea;
+
+20) Storia delle dottrine politiche;
+
+21) Estetica;
+
+22) Filosofia della religione;
+
+23) Linguistica generale;
+
+24) Economia aziendale;
+
+25) Economia politica;
+
+26) Storia economica;
+
+27) Storia delle dottrine economiche;
+
+28) Storia contemporanea;
+
+29) Legislazione sociale;
+
+30) Teorie e tecniche delle comunicazioni di massa;
+
+31) Demografia;
+
+32) Psicologia dell'eta' evolutiva;
+
+33) Psicologia dinamica;
+
+34) Sociolinguistica;
+
+35) Una lingua e letteratura straniera moderna.
+
+Art. 103. - Per essere ammesso all'esame di laurea lo studente deve aver superato gli esami di tutti gli insegnamenti fondamentali e di almeno otto degli insegnamenti complementari, previa approvazione del preside della facolta'. La sociologia deve essere seguita per un biennio, e due degli insegnamenti fondamentali possono essere biennalizzati, nel qual caso lo studente puo' ridurre di due gli insegnamenti complementari che deve seguire.
+
+Art. 104. - La durata del corso di laurea e' di quattro anni.
+
+Titolo di ammissione: quello consentito dalle vigenti disposizioni di legge.
+
+Gli insegnamenti fondamentali di sociologia (biennale), psicologia, logica, statistica, storia moderna saranno seguiti dallo studente nel primo anno di corso. Alla fine di esso lo studente presentera' il piano di studi che intende seguire per i tre anni seguenti, facendolo firmare da uno dei professori delle materie fondamentali, col quale si sara' consultato al riguardo.
+
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali e di almeno otto degli insegnamenti complementari, previa approvazione del preside della facolta'. La sociologia deve essere seguita per un biennio, e due degli insegnamenti fondamentali possono essere biennalizzati, nel qual caso lo studente puo' ridurre di due gli insegnamenti complementari che deve seguire. La dissertazione di laurea, con la quale il corso di studi si conclude, potra' essere sostenuta in una qualsiasi delle discipline scelte dallo studente nel suo piano di studi. Solo ove lo studente lo desideri, essa sara' compilata in lingua diversa dall'italiano.
+
+Art. 105. - Coloro che sono gia' in possesso della laurea in lettere, in filosofia, in lingue e letterature straniere moderne, in giurisprudenza, in scienze politiche, in economia e commercio, in materie letterarie e in pedagogia, e che desiderano iscriversi al corso di laurea in sociologia, vengono ammessi al terzo anno di esso.
+
+Gli esami da essi sostenuti nei loro precedenti corsi di studio e rientranti tra le materie fondamentali o complementari di cui all'art. 102 sono convalidati ipso facto ai fini del conseguimento della nuova laurea. Il numero degli esami ancora necessari per il rispetto delle norme fissate dall'art. 103 viene ripartito in due anni secondo un piano presentato dallo studente e per il quale valgono le norme fissate dall'art. 104. Se il numero degli esami ancora necessari e' superiore a 12, nonche' nel caso in cui sia egli stesso a farne richiesta, lo studente viene ammesso al secondo anno anziche' al terzo.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 28 agosto 1971
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: COLOMBO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 23 febbraio 1972 Atti del Governo, registro n. 247, foglio n. 60. - VALENTINI
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Dopo l'art. 946, con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i nuovi seguenti articoli relativi alla scuola per tecnici di neurofisiopatologia (scuola diretta a fini speciali).  
-Art. 947. - La scuola ha lo scopo di impartire agli allievi, con unita' di indirizzo e metodo scientifico, tutte le nozioni tecniche, teoriche e pratiche necessarie a ben esercitare la professione di tecnico di neurofisiopatologia.  
-Art. 948. - La durata degli studi della scuola per tecnici di neurofisiopatologia e' di tre anni accademici e non e' suscettibile di abbreviazione.  
-Gli allievi hanno l'obbligo della frequenza alle lezioni, ai seminari e ai tirocini pratici, secondo le modalita' stabilite dal consiglio della scuola.  
-Art. 949. - Sono ammessi alla scuola gli allievi di ambo i sessi in possesso del titolo di studio prescritto per l'ammissione all'Universita', che abbiano superato una prova di cultura generale ed una intervista attitudinale.  
-Art. 950. - Al primo anno della scuola si accede previo esame di cultura generale e attitudinale davanti ad una commissione composta dal direttore della scuola e da due docenti della scuola stessa.  
-L'esame di ammissione avra' luogo entro i primi quindici giorni del mese di ottobre di ciascun anno, in un giorno stabilito dalla seconda facolta' di medicina e chirurgia su proposta del direttore della scuola.  
-Art. 951. - Il numero massimo dei posti disponibili e' stabilito nella misura di dieci per il primo anno.  
-Art. 952. - Le materie di insegnamento sono:  
-1° Anno:  
-1) elementi di elettrotecnica;  
-2) biofisica;  
-3) elementi di neurochimica e neurofarmacologia;  
-4) nozioni di anatomia e fisiologia umana;  
-5) anatomia del sistema nervoso e dell'apparato motore;  
-6) neurofisiologia;  
-7) tecniche neurofisiologiche.  
-2° Anno:  
-1) patologia del sistema nervoso;  
-2) nozioni di elettronica;  
-3) principi di elettroencefalografia;  
-4) poligrafia ed altre tecniche di esplorazione del sistema nervoso;  
-5) elettromiografia.  
-3° Anno:  
-1) neurofisiopatologia ed elettroencefalografia clinica;  
-2) strumentazione elettronica;  
-3) clinica neurologica;  
-4) neuropsichiatria infantile;  
-5) neurochirurgia;  
-6) nozioni di neuropsicologia e psichiatria.  
-Art. 953. - Per essere ammessi al secondo ed al terzo anno, gli allievi dovranno aver superato tutti gli esami del primo e del secondo anno del corso rispettivo.  
-Art. 954. - La frequenza alle lezioni teoriche e alle esercitazioni pratiche e' obbligatoria.  
-Le lezioni verranno impartite agli allievi nelle aule messe a disposizione dalla commissione aule della facolta'. I programmi di insegnamento e gli orari vengono predisposti dal direttore della scuola e approvati dal consiglio della facolta' di medicina e chirurgia.  
-La sorveglianza degli iscritti, per quanto riguarda la loro attivita' pratica, spetta al direttore della scuola.  
-Il tirocinio sara' concluso dagli allievi sempre sotto la guida dei medici e dei tecnici della cattedra di neurofisiopatologia della seconda facolta' di medicina e chirurgia dell'Universita' di Napoli.  
-Per essere ammessi a sostenere gli esami di diploma gli allievi dovranno avere seguito il corso, superato gli esami in tutti gli insegnamenti prescritti e avere compiuto, con esito favorevole, tutte le esercitazioni pratiche previste.  
-Art. 955. - Le commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Le commissioni sono composte da tre membri: dal professore ufficiale della materia, dal professore della materia affine e da un docente cultore della materia.  
-Ogni commissario ha a disposizione dieci punti.  
-Art. 956. - L'esame di diploma consiste nella discussione di una tesi scritta su un tema preventivamente assegnato dal direttore della scuola e nella prova pratica stabilita da una commissione esaminatrice. L'esame di diploma viene sostenuto da una commissione di cinque membri scelti fra i docenti della scuola nominati dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Ogni commissario ha a disposizione dieci punti. I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza della scuola, ma se al secondo esame non sia loro riconosciuta l'idoneita' saranno senz'altro esclusi da ulteriore prova. Agli allievi che avranno superato l'esame finale viene rilasciato il diploma di tecnico di neurofisiopatologia.  
-Art. 957. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa.  
-In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
-La scuola e' sotto la vigilanza della suddetta facolta'.  
-Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' di medicina e chirurgia e nominati dal rettore.  
-Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli assistenti della facolta' di medicina e chirurgia e di facolta' dell'ateneo o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.  
-Art. 958. - Gli iscritti alla scuola sono tenuti al versamento annuo delle tasse, soprattasse e contributi nella misura prevista dalla legge vigente per gli studenti della facolta' di medicina e chirurgia.  
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Veduta la [legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta intese ad ottenere l'istituzione del corso di laurea in sociologia presso la facolta' di lettere e filosofia;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
+  
+Decreta:   
+  
+Presso la facolta' di lettere e filosofia dell'Universita' degli studi di Napoli e' istituito il corso di laurea in sociologia. Tale nuovo corso di laurea comincera' a funzionare a decorrere dall'anno accademico 1971-72 con il primo anno di corso. Negli anni accademici successivi funzioneranno progressivamente gli anni di corso susseguenti al primo.   
+Alla fine del corso di studi viene rilasciata la laurea in sociologia.   
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati e' modificato come appresso.   
+L'art. 88 e' abrogato e sostituito dal seguente:   
+Art. 88. - La facolta' di lettere e filosofia conferisce esclusivamente:   
+  
+La laurea in lettere;   
+La laurea in filosofia;   
+La laurea in lingue e letterature straniere moderne (indirizzo europeo);   
+La laurea in sociologia.   
+  
+Dopo l'art. 101 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in sociologia.   
+  
+LAUREA IN SOCIOLOGIA   
+  
+Art. 102. - Gli insegnamenti per il conseguimento della laurea in sociologia sono i seguenti:   
+Insegnamenti fondamentali:   
+  
+1) Sociologia (biennale);   
+2) Un insegnamento scelto fra i seguenti: storia della filosofia o storia della filosofia moderna e contemporanea;   
+3) Filosofia morale;   
+4) Antropologia culturale;   
+5) Un insegnamento scelto fra i seguenti: storia moderna o storia contemporanea;   
+6) Logica;   
+7) Metodologia e tecnica della ricerca sociale;   
+8) Statistica;   
+9) Psicologia;   
+10) Storia della sociologia;   
+11) Psicologia sociale.   
+  
+Insegnamenti complementari:   
+1) Sociologia politica;   
+2) Sociologia economica;   
+3) Sociologia dei gruppi;   
+4) Sociologia della comunicazione;   
+5) Sociologia della conoscenza;   
+6) Metodologia delle scienze umane;   
+7) Sociologia industriale;   
+8) Sociologia del lavoro;   
+9) Filosofia del diritto;   
+10) Sociologia dell'educazione;   
+11) Sociologia della religione;   
+12) Sociologia del diritto;   
+13) Sociologia dell'arte e della letteratura;   
+14) Filosofia della storia;   
+15) Filosofia della scienza;   
+16) Filosofia del linguaggio;   
+17) Etnologia;   
+18) Filosofia teoretica;   
+19) Storia della filosofia moderna e contemporanea;   
+20) Storia delle dottrine politiche;   
+21) Estetica;   
+22) Filosofia della religione;   
+23) Linguistica generale;   
+24) Economia aziendale;   
+25) Economia politica;   
+26) Storia economica;   
+27) Storia delle dottrine economiche;   
+28) Storia contemporanea;   
+29) Legislazione sociale;   
+30) Teorie e tecniche delle comunicazioni di massa;   
+31) Demografia;   
+32) Psicologia dell'eta' evolutiva;   
+33) Psicologia dinamica;   
+34) Sociolinguistica;   
+35) Una lingua e letteratura straniera moderna.   
+  
+Art. 103. - Per essere ammesso all'esame di laurea lo studente deve aver superato gli esami di tutti gli insegnamenti fondamentali e di almeno otto degli insegnamenti complementari, previa approvazione del preside della facolta'. La sociologia deve essere seguita per un biennio, e due degli insegnamenti fondamentali possono essere biennalizzati, nel qual caso lo studente puo' ridurre di due gli insegnamenti complementari che deve seguire.   
+Art. 104. - La durata del corso di laurea e' di quattro anni.   
+Titolo di ammissione: quello consentito dalle vigenti disposizioni di legge.   
+Gli insegnamenti fondamentali di sociologia (biennale), psicologia, logica, statistica, storia moderna saranno seguiti dallo studente nel primo anno di corso. Alla fine di esso lo studente presentera' il piano di studi che intende seguire per i tre anni seguenti, facendolo firmare da uno dei professori delle materie fondamentali, col quale si sara' consultato al riguardo.   
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali e di almeno otto degli insegnamenti complementari, previa approvazione del preside della facolta'. La sociologia deve essere seguita per un biennio, e due degli insegnamenti fondamentali possono essere biennalizzati, nel qual caso lo studente puo' ridurre di due gli insegnamenti complementari che deve seguire. La dissertazione di laurea, con la quale il corso di studi si conclude, potra' essere sostenuta in una qualsiasi delle discipline scelte dallo studente nel suo piano di studi. Solo ove lo studente lo desideri, essa sara' compilata in lingua diversa dall'italiano.   
+Art. 105. - Coloro che sono gia' in possesso della laurea in lettere, in filosofia, in lingue e letterature straniere moderne, in giurisprudenza, in scienze politiche, in economia e commercio, in materie letterarie e in pedagogia, e che desiderano iscriversi al corso di laurea in sociologia, vengono ammessi al terzo anno di esso.   
+Gli esami da essi sostenuti nei loro precedenti corsi di studio e rientranti tra le materie fondamentali o complementari di cui all'art. 102 sono convalidati ipso facto ai fini del conseguimento della nuova laurea. Il numero degli esami ancora necessari per il rispetto delle norme fissate dall'art. 103 viene ripartito in due anni secondo un piano presentato dallo studente e per il quale valgono le norme fissate dall'art. 104. Se il numero degli esami ancora necessari e' superiore a 12, nonche' nel caso in cui sia egli stesso a farne richiesta, lo studente viene ammesso al secondo anno anziche' al terzo.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 28 agosto 1971
 
-PERTINI BODRATO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 10 marzo 1982
+Registrato alla Corte dei conti, addi' 23 febbraio 1972
 
-Registro n. 38 Istruzione, foglio n. 266
+Atti del Governo, registro n. 247, foglio n. 60. - VALENTINI

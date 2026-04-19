@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 luglio 1955 n. 799
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1980 n. 876
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 luglio 1955 n. 799
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1980 n. 876
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -10,209 +10,127 @@ Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regi decreti 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-12;2227); [4 settembre 1930, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-09-04;1312); [1 ottobre 1931, n. 1778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-01;1778); [27 ottobre 1932, n. 2092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-10-27;2092); [6 dicembre 1934, n. 2391](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-12-06;2391); [1 ottobre 1936 n. 2502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;2502); 12 ma maggio 1939 n. 1315: 5 ottobre 1939, n. 1644; 11 luglio 1941, n. 848; 18 luglio 1942, n. 928; 24 novembre 1942, n. 1595 con decreto del Capo provvisorio dello Stato 16 maggio 1947. n. 694, e con [decreti del Presidente della Repubblica 22 febbraio 1948, n. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-02-22;414); [30 luglio 1950, n. 1628](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-30;1628); [31 ottobre 1950, n. 1307](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1307); [5 agosto 1951, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-05;1311), [27 ottobre 1951, n. 1792](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1792); [3 ottobre 1952, n. 4511](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-03;4511); [11 marzo 1953, n. 545](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;545); [12 maggio 1953, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-05-12;547); [30 giugno 1954, n. 742](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;742); [30 giugno 1954, n. 755](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;755); [14 agosto 1954, n. 862](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-08-14;862); [14 settembre 1954, n. 1231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1231); [29 ottobre 1954, n. 1319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-29;1319); [29 ottobre 1954, n. 1457](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-29;1457) e [1 marzo 1955, n. 222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-03-01;222);
+Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito, nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
 Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-L'art. 12 e' abrogato.
+Articolo unico
+--------------
 
-Art. 18. - Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di:
-
-12) "Storia del diritto canonico".
-
-Art. 39. - E' aggiunto il seguente comma: "l'esame di economia e politica agraria senza avere prima superato quelli di economia politica 1° e 2° corso".
-
-Art. 55. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: "anatomia topografica".
-
-Art. 66. - Agli insegnamenti complementari del corso di laurea in chimica (indirizzo inorganico-chimico-fisico) sono aggiunti quelli di:
-
-15) "Chimica inorganica superiore;
-
-16) Analisi chimica spettroscopica;
-
-17) Chimica teorica;
-
-18) Cristallochimica;
-
-19) Siderurgia e metallurgia".
-
-Art. 68. - Agli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto quello di:
-
-22) "Scienza dell'alimentazione".
-
-Art. 94. - Agli insegnamenti complementari del corso sono aggiunti quelli di:
-
-43) Organizzazione industriale;
-
-44) Economia e legislazione industriale;
-
-45) Fondamenti di statistica matematica per ingegneri;
-
-46) Tecnica ed economia delle trasformazioni fondiarie;
-
-47) Misure meccaniche.
-
-L'art. 95 e' sostituito dal seguente:
-
-"La Facolta' annualmente determinera' con apposito manifesto il piano di studi consigliato per le singole lauree, specificando la durata dei singoli corsi.
-
-Gli studenti che desiderano seguire un piano di studi comprendente corsi complementari diversi da quelli consigliati dalla Facolta', dovranno presentare motivata domanda entro il 31 dicembre per l'approvazione della Facolta'.
-
-In ogni caso debbono essere osservate le seguenti norme:
-
-L'iscrizione e l'esame di fisica tecnica debbono precedere l'iscrizione e l'esame di macchine, impianti industriali meccanici, arte mineraria.
-
-L'iscrizione e l'esame di meccanica applicata alle macchine debbono precedere le iscrizioni e gli esami di macchine, costruzioni di macchine, disegno di macchine e progetti, tecnologie generali, tecnologie speciali.
-
-L'iscrizione e l'esame di scienza delle costruzioni debbono precedere le iscrizioni e gli esami di costruzioni in legno, ferro e cemento armato, costruzione di ponti, costruzione di macchine, costruzioni idrauliche, impianti speciali idraulici, costruzioni stradali e ferroviarie, tecnologie generali, architettura tecnica seconda parte, costruzione di macchine elettriche e arte mineraria.
-
-L'iscrizione e l'esame di idraulica debbono precedere l'iscrizione e l'esame di costruzioni idrauliche, di impianti speciali idraulici, di tecnica urbanistica.
-
-L'iscrizione e l'esame di costruzione di macchine debbono precedere l'iscrizione e l'esame di costruzioni aeronautiche, di impianti industriali meccanici, di tecnologie speciali.
-
-L'iscrizione e l'esame di elettrotecnica debbono precedere l'iscrizione e l'esame di costruzione di macchine elettriche, comunicazioni elettriche, radiotecnica, trazione elettrica, geofisica mineraria, tecnica ed economia dei trasporti.
-
-L'iscrizione e l'esame di topografia con elementi di geodesia debbono precedere l'iscrizione e l'esame di costruzioni stradali e ferroviarie e geofisica mineraria.
-
-L'iscrizione e l'esame di chimica organica debbono precedere, per la laurea in ingegneria chimica, l'iscrizione e l'esame di chimica fisica, chimica industriale, impianti industriali chimici.
-
-L'iscrizione e l'esame di chimica applicata debbono precedere l'iscrizione e l'esame di impianti industriali chimici.
-
-Le iscrizioni e gli esami di petrografia e geologia debbono precedere l'iscrizione e l'esame di giacimenti minerari e geofisica mineraria.
-
-L'iscrizione e l'esame di architettura tecnica 1ª parte debbono precedere l'iscrizione e l'esame di architettura tecnica 2ª parte.
-
-L'iscrizione e l'esame di architettura tecnica 2ª parte debbono precedere l'iscrizione e l'esame di architettura e composizione architettonica.
-
-L'iscrizione e l'esame di tecnologie generali debbono precedere l'iscrizione e l'esame di tecnologie speciali.
-
-L'esame di macchine deve precedere l'esame di impianti industriali meccanici.
-
-L'esame di aerodinamica deve precedere l'esame di costruzioni aeronautiche.
-
-L'esame di costruzioni stradali e ferroviarie deve precedere l'esame di tecnica urbanistica.
-
-L'esame di chimica fisica deve precedere l'esame di metallurgia e metallografia.
-
-L'esame di elettrotecnica deve precedere gli esami di misure elettriche e di impianti industriali elettrici.
-
-L'esame di idraulica deve precedere l'esame di macchine".
-
-Il secondo comma dell'art. 107, che prevedeva la presentazione di due tesine orali per l'ammissione all'esame di laurea in scienze agrarie, e' abrogato.
-
-Il terzo comma dell'art. 122 e' abrogato.
-
-Art. 234. - relativo alla Scuola di perfezionamento in radiologia medica - l'insegnamento di cui al n. 9 assume la denominazione di "radiobiologia".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 24 luglio 1955
-
-GRONCHI
-
-ROSSI
-
-Visto, il Guardasigilli: MORO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 1 settembre 1955 Atti del Governo, registro n. 92, foglio n. 135. - CARLOMAGNO
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regi decreti 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-12;2227); [4 settembre 1930, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-09-04;1312); [1 ottobre 1931, n. 1778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-01;1778); [27 ottobre 1932, n. 2092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-10-27;2092); [6 dicembre 1934, n. 2391](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-12-06;2391); [1 ottobre 1936 n. 2502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;2502); 12 ma maggio 1939 n. 1315: 5 ottobre 1939, n. 1644; 11 luglio 1941, n. 848; 18 luglio 1942, n. 928; 24 novembre 1942, n. 1595 con decreto del Capo provvisorio dello Stato 16 maggio 1947. n. 694, e con [decreti del Presidente della Repubblica 22 febbraio 1948, n. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-02-22;414); [30 luglio 1950, n. 1628](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-30;1628); [31 ottobre 1950, n. 1307](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1307); [5 agosto 1951, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-05;1311), [27 ottobre 1951, n. 1792](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1792); [3 ottobre 1952, n. 4511](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-03;4511); [11 marzo 1953, n. 545](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;545); [12 maggio 1953, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-05-12;547); [30 giugno 1954, n. 742](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;742); [30 giugno 1954, n. 755](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;755); [14 agosto 1954, n. 862](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-08-14;862); [14 settembre 1954, n. 1231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1231); [29 ottobre 1954, n. 1319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-29;1319); [29 ottobre 1954, n. 1457](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-29;1457) e [1 marzo 1955, n. 222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-03-01;222);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito, nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+I primi due commi dell'art. 97 sono sostituiti dai seguenti:  
+Art. 97. - La facolta' di medicina e chirurgia conferisce le seguenti lauree:  
+a) medicina e chirurgia;  
+b) odontoiatria e protesi dentaria.  
+I titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge.  
+La durata del corso di studi per la laurea in medicina e chirurgia e' di sei anni, suddivisi in tre bienni.  
+La durata del corso di studi per la laurea in odontoiatria e protesi dentaria e' di cinque anni, suddivisi in un biennio e in un triennio.  
+Dopo l'art. 102, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in odontoiatria e protesi dentaria.  
   
-Decreta:  
+Laurea in odontoiatria e protesi dentaria  
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 103. - L'ammissione al corso di laurea verra' regolato da un esame di ammissione; il punteggio da attribuire nell'esame sara' cosi' ripartito: il 30% sara' riservato al voto riportato dal candidato nell'esame di Stato di licenza della scuola secondaria superiore ed il 70% sara' riservato alla prova di esame di ammissione al corso di laurea con tests a scelta multipla su argomenti di biologia generale, chimica, fisica e matematica, secondo i programmi della scuola secondaria superiore.  
+Il numero massimo degli studenti ammessi al primo anno del corso di laurea in odontoiatria e protesi dentaria sara' determinato dalla consistenza delle strutture (didattiche e cliniche) disponibili presso i locali annessi alla clinica odontoiatrica, secondo un rapporto pari a numero tre iscritti per ogni posto di lavoro (riunito e posto a banco odontotecnico) che verra' esclusivamente adibito all'espletamento del corso di laurea. Attualmente le attrezzature didattico-scientifiche specialistiche consentono l'ammissione di venti studenti per anno di corso.  
+Art. 104. - Gli insegnamenti per la laurea in odontoiatria e protesi dentaria sono i seguenti:  
   
-L'art. 12 e' abrogato.  
-Art. 18. - Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di:  
-12) "Storia del diritto canonico".  
-Art. 39. - E' aggiunto il seguente comma: "l'esame di economia e politica agraria senza avere prima superato quelli di economia politica 1° e 2° corso".  
-Art. 55. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: "anatomia topografica".  
-Art. 66. - Agli insegnamenti complementari del corso di laurea in chimica (indirizzo inorganico-chimico-fisico) sono aggiunti quelli di:  
-15) "Chimica inorganica superiore;  
-16) Analisi chimica spettroscopica;  
-17) Chimica teorica;  
-18) Cristallochimica;  
-19) Siderurgia e metallurgia".  
-Art. 68. - Agli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto quello di:  
-22) "Scienza dell'alimentazione".  
-Art. 94. - Agli insegnamenti complementari del corso sono aggiunti quelli di:  
-43) Organizzazione industriale;  
-44) Economia e legislazione industriale;  
-45) Fondamenti di statistica matematica per ingegneri;  
-46) Tecnica ed economia delle trasformazioni fondiarie;  
-47) Misure meccaniche.  
-L'art. 95 e' sostituito dal seguente:  
-"La Facolta' annualmente determinera' con apposito manifesto il piano di studi consigliato per le singole lauree, specificando la durata dei singoli corsi.  
-Gli studenti che desiderano seguire un piano di studi comprendente corsi complementari diversi da quelli consigliati dalla Facolta', dovranno presentare motivata domanda entro il 31 dicembre per l'approvazione della Facolta'.  
-In ogni caso debbono essere osservate le seguenti norme:  
+INSEGNAMENTI FONDAMENTALI  
   
-L'iscrizione e l'esame di fisica tecnica debbono precedere l'iscrizione e l'esame di macchine, impianti industriali meccanici, arte mineraria.  
-L'iscrizione e l'esame di meccanica applicata alle macchine debbono precedere le iscrizioni e gli esami di macchine, costruzioni di macchine, disegno di macchine e progetti, tecnologie generali, tecnologie speciali.  
-L'iscrizione e l'esame di scienza delle costruzioni debbono precedere le iscrizioni e gli esami di costruzioni in legno, ferro e cemento armato, costruzione di ponti, costruzione di macchine, costruzioni idrauliche, impianti speciali idraulici, costruzioni stradali e ferroviarie, tecnologie generali, architettura tecnica seconda parte, costruzione di macchine elettriche e arte mineraria.  
-L'iscrizione e l'esame di idraulica debbono precedere l'iscrizione e l'esame di costruzioni idrauliche, di impianti speciali idraulici, di tecnica urbanistica.  
-L'iscrizione e l'esame di costruzione di macchine debbono precedere l'iscrizione e l'esame di costruzioni aeronautiche, di impianti industriali meccanici, di tecnologie speciali.  
-L'iscrizione e l'esame di elettrotecnica debbono precedere l'iscrizione e l'esame di costruzione di macchine elettriche, comunicazioni elettriche, radiotecnica, trazione elettrica, geofisica mineraria, tecnica ed economia dei trasporti.  
-L'iscrizione e l'esame di topografia con elementi di geodesia debbono precedere l'iscrizione e l'esame di costruzioni stradali e ferroviarie e geofisica mineraria.  
-L'iscrizione e l'esame di chimica organica debbono precedere, per la laurea in ingegneria chimica, l'iscrizione e l'esame di chimica fisica, chimica industriale, impianti industriali chimici.  
-L'iscrizione e l'esame di chimica applicata debbono precedere l'iscrizione e l'esame di impianti industriali chimici.  
-Le iscrizioni e gli esami di petrografia e geologia debbono precedere l'iscrizione e l'esame di giacimenti minerari e geofisica mineraria.  
-L'iscrizione e l'esame di architettura tecnica 1ª parte debbono precedere l'iscrizione e l'esame di architettura tecnica 2ª parte.  
-L'iscrizione e l'esame di architettura tecnica 2ª parte debbono precedere l'iscrizione e l'esame di architettura e composizione architettonica.  
-L'iscrizione e l'esame di tecnologie generali debbono precedere l'iscrizione e l'esame di tecnologie speciali.  
-L'esame di macchine deve precedere l'esame di impianti industriali meccanici.  
-L'esame di aerodinamica deve precedere l'esame di costruzioni aeronautiche.  
-L'esame di costruzioni stradali e ferroviarie deve precedere l'esame di tecnica urbanistica.  
-L'esame di chimica fisica deve precedere l'esame di metallurgia e metallografia.  
-L'esame di elettrotecnica deve precedere gli esami di misure elettriche e di impianti industriali elettrici.  
-L'esame di idraulica deve precedere l'esame di macchine".  
-Il secondo comma dell'art. 107, che prevedeva la presentazione di due tesine orali per l'ammissione all'esame di laurea in scienze agrarie, e' abrogato.  
-Il terzo comma dell'art. 122 e' abrogato.  
-Art. 234. - relativo alla Scuola di perfezionamento in radiologia medica - l'insegnamento di cui al n. 9 assume la denominazione di "radiobiologia".  
+Biennio:  
+1) anestesia generale e speciale odontostomatologica (semestrale);  
+\* 2) biologia generale applicata agli studi medici;  
+\* 3) chimica;  
+\* 4) chimica biologica;  
+5) farmacologia (semestrale);  
+\* 6) fisica medica;  
+7) fisiologia umana e dell'apparato stomatognatico;  
+8) igiene e odontoiatria preventiva e sociale con epidemiologia (semestrale);  
+9) istituzioni di anatomia umana normale e dell'apparato stomatognatico;  
+10) istituzioni di anatomia ed istologia patologica;  
+\* 11) istologia ed embriologia generale (compresa la citologia);  
+12) materiali dentari;  
+13) microbiologia (semestrale);  
+14) odontoiatria conservatrice (triennale - secondo, terzo e quarto anno);  
+15) patologia generale.  
+Triennio:  
+16) chirurgia speciale odontostomatologica (biennale - terzo e quarto anno);  
+17) clinica odontostomatologica (biennale - quarto e quinto anno);  
+18) medicina legale e delle assicurazioni e deontologia in odontostomatologia (semestrale);  
+19) neuropatologia e psicopatologia (semestrale);  
+20) ortognatodonzia e gnatologia (funzione masticatoria) (biennale - quarto e quinto anno);  
+21) parodontologia (biennale - quarto e quinto anno);  
+22) patologia speciale chirurgica e propedeutica clinica;  
+23) patologia speciale medica e metodologia clinica (compresa la pediatria);  
+24) patologia speciale odontostomatologica;  
+25) pedodonzia (semestrale);  
+26) protesi dentaria (triennale - terzo, quarto e quinto anno);  
+27) radiologia generale e speciale odontostomatologica (semestrale).  
+  
+INSEGNAMENTI COMPLEMENTARI  
+  
+\* 1) chirurgia maxillo-facciale;  
+\* 2) dermatologia e venerologia (semestrale);  
+\* 3) chirurgia maxillo-facciale;  
+\* 4) statistica sanitaria;  
+altri insegnamenti complementari nel piano della facolta' sempre mutuati dal corso di laurea in medicina e chirurgia.  
+Gli insegnamenti segnati con asterisco sono mutuati dal corso di laurea in medicina e chirurgia.  
+Gli insegnamenti fondamentali sono teorici e pratici e la loro frequenza e' obbligatoria.  
+Gli insegnamenti specificatamente odontostomatologici di ordine clinico comportano anche un tirocinio pratico continuativo da espletare prima di sostenere i relativi esami.  
+Gli allievi che non conseguono le attestazioni di frequenza, non possono essere ammessi a sostenere le relative prove di esame.  
+Per gli insegnamenti semestrali ed annuali lo studente e' tenuto a sostenere l'esame alla fine del corso.  
+Per gli insegnamenti pluriennali lo studente e' tenuto a superare tanti esami quante sono le annualita'.  
+Il tirocinio pratico, relativo ad ogni insegnamento clinico, deve prevedere da parte di componenti dell'organico, una assistenza didattica adeguata al numero degli studenti.
+
+|  |  |
+| --- | --- |
+| Non si puo' essere ammessi a sostenere l'esame di: | Se non si e' superato l'esame di: |
+| Fisiologia umana e dell'apparato stomatognatico | Istituzioni di anatomia umana normale e dell'apparato stomatognatico |
+| Patologia generale | Chimica |
+|  | Biologia generale applicata agli studi medici |
+|  | Fisica medica |
+| Patologia speciale medica e metodologia clinica(compresa la pediatria) | Fisiologia umana e dell'apparato stomatognatico |
+| Patologia speciale chirurgica e propedeutica clinica | Patologia generale |
+| Clinica odontostomatologica | Patologia speciale medica e metodologia clinica (compresa la pediatria) |
+|  | Patologia speciale chirurgica e propedeutica clinica |
+|  | Istituzioni di anatomia ed istologia patologica |
+|  | Patologia speciale odontostomatologica |
+
+  
+  
+Per essere ammesso a sostenere l'esame di laurea in odontoiatria e protesi dentaria, lo studente deve avere seguito i corsi ed aver superato gli esami in tutti gli insegnamenti fondamentali ed almeno in due insegnamenti scelti tra i complementari ed aver, inoltre, seguito le prescritte esercitazioni cliniche, i tirocini pratici ed averne conseguito le relative attestazioni.  
+L'esame di laurea consiste nella discussione di una tesi scritta su argomenti di odontostomatologia da richiedere almeno all'inizio dell'ultimo anno di corso.  
+Per il trasferimento degli studenti iscritti al corso di laurea in medicina e chirurgia le abbreviazioni di corso non possono superare l'ammissione oltre il secondo anno, subordinatamente al numero di posti resisi disponibili all'inizio del secondo anno sempre che gli aspiranti abbiano superato gli esami di biologia generale applicata agli studi medici, chimica, fisica medica, istologia ed embriologia generale (compresa la citologia).  
+Per i laureati in medicina e chirurgia le abbreviazioni di corso potranno essere concesse, sempre con iscrizione al secondo anno, subordinatamente al numero di posti resisi disponibili all'inizio del secondo anno e dopo che sia trascorso un anno accademico dal conseguimento della laurea precedente.  
+Per esercitare la professione i laureati in odontoiatria e protesi dentaria devono superare un apposito esame di Stato.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 luglio 1955
+### Dato a Roma, addi' 24 ottobre 1980
 
-GRONCHI ROSSI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 1 settembre 1955
+Registrato alla Corte dei conti, addi' 10 dicembre 1980
 
-Atti del Governo, registro n. 92, foglio n. 135. - CARLOMAGNO
+Registro n. 115 Istruzione, foglio n. 363

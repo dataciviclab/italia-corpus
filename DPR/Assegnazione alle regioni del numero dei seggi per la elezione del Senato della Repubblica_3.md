@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1979 n. 117
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 maggio 1983 n. 147
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1979 n. 117
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 maggio 1983 n. 147
 =============================================================
 
 Assegnazione alle regioni del numero dei seggi per la elezione del Senato della Repubblica.
@@ -10,36 +10,36 @@ Assegnazione alle regioni del numero dei seggi per la elezione del Senato della 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Visto il decreto in data odierna, con il quale i comizi per la elezione del Senato della Repubblica sono stati convocati per il giorno di domenica 3 giugno 1979;  
-Vista la [legge costituzionale 27 dicembre 1963, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-12-27;3) "Modificazioni agli [articoli 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art131) e [57 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art57) e istituzione della regione Molise";  
-Visto l'[art. 1 della legge 27 febbraio 1958, n. 64](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-27;64~art1), recante modificazioni alla [legge 6 febbraio 1948, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-02-06;29) "Norme per la elezione del Senato della Repubblica";  
-Vista la [legge 25 febbraio 1963, n. 282](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-25;282) "Modificazioni all'[art. 1 della legge 27 febbraio 1958, n. 64](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-27;64~art1), sulla elezione del Senato della Repubblica";  
-Vista la [legge 23 aprile 1976, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-23;136), recante norme per la riduzione dei termini e semplificazione del procedimento elettorale;  
-Vista la [legge 14 febbraio 1963, n. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-14;55), per la revisione delle circoscrizioni dei collegi senatoriali del Friuli-Venezia Giulia;  
-Visto il decreto 5 marzo 1973, n. 45, [pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 83 del 30 marzo 1973](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1973-03-30&numeroGazzetta=83), con il quale vengono dichiarati i risultati ufficiali relativi alla popolazione legale secondo il censimento del 24 ottobre 1971;  
-Visto il [decreto del Presidente della Repubblica 6 giugno 1974, n. 276](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-06-06;276), con il quale viene rettificato il numero della popolazione legale residente nel comune di Messina, censita al 24 ottobre 1971;  
-Sulla proposta del Ministro dell'interno;  
+Visto il decreto in data odierna, con il quale i comizi per la elezione del Senato della Repubblica sono stati convocati per il giorno di domenica 26 giugno 1983;   
+Vista la [legge costituzionale 27 dicembre 1963, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-12-27;3): "Modificazioni agli [articoli 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art131) e [57 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art57) e istituzione della regione Molise";   
+Visto l'[art. 1 della legge 27 febbraio 1958, n. 64](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-27;64~art1), recante modificazioni alla [legge 6 febbraio 1948, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-02-06;29):   
+"Norme per la elezione del Senato della Repubblica";   
+Vista la [legge 25 febbraio 1963, n. 282](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-25;282): "Modificazioni all'[art. 1 della legge 27 febbraio 1958, n. 64](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-27;64~art1), sulla elezione del Senato della Repubblica";   
+Vista la [legge 23 aprile 1976, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-23;136), recante norme per la riduzione dei termini e semplificazione del procedimento elettorale;   
+Vista la [legge 14 febbraio 1963, n. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-14;55), per la revisione delle circoscrizioni dei collegi senatoriali del Friuli-Venezia Giulia;   
+Visto il decreto 25 marzo 1983, n. 95, [pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 95 del 7 aprile 1983](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1983-04-07&numeroGazzetta=95), con il quale vengono dichiarati i risultati ufficiali relativi alla popolazione legale secondo il censimento del 25 ottobre 1981;   
+Sulla proposta del Ministro dell'interno;   
   
-Decreta:  
+Decreta:   
   
-Alle regioni di cui all'[art. 131 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art131), modificato dall'[art. 1 della legge costituzionale 27 dicembre 1963, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-12-27;3~art1), e' assegnato il numero di seggi senatoriali rispettivamente indicato nella tabella allegata al presente decreto, vistata dal Ministro dell'interno.  
-Il presente decreto entra in vigore lo stesso giorno della sua pubblicazione nella Gazzetta Ufficiale della Repubblica.  
+Alle regioni di cui all'[art. 131 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art131), modificato dall'[art. 1 della legge costituzionale 27 dicembre 1963, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-12-27;3~art1), e' assegnato il numero di seggi senatoriali rispettivamente indicato nella tabella allegata al presente decreto, vistata dal Ministro dell'interno.   
+Il presente decreto entra in vigore lo stesso giorno della sua pubblicazione nella Gazzetta Ufficiale della Repubblica.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 aprile 1979
+### Dato a Roma, addi' 5 maggio 1983
 
-PERTINI ROGNONI
+PERTINI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: DARIDA ROGNONI
 
-Registrato alla Corte dei conti, addi' 11 aprile 1979
+Registrato alla Corte dei conti, addi' 5 maggio 1983
 
-Atti di Governo, registro n. 21, foglio n. 12
+Atti di Governo, registro n. 46, foglio n. 4
 
 Tabella
 
@@ -47,5 +47,5 @@ TABELLA DI ASSEGNAZIONE ALLE REGIONI DEL NUMERO DEI SEGGI PER LA ELEZIONE DEL SE
   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=079U011700100010110001&dgu=1979-04-11&art.dataPubblicazioneGazzetta=1979-04-11&art.codiceRedazionale=079U0117)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=083U014700100010110001&dgu=1983-05-05&art.dataPubblicazioneGazzetta=1983-05-05&art.codiceRedazionale=083U0147)
   

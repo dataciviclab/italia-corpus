@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1984 n. 987
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1982 n. 1112
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1984 n. 987
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1982 n. 1112
+===============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
@@ -39,23 +39,18 @@ Articolo unico
 --------------
 
   
-Art. 24 - all'elenco degli insegnamenti del corso di laurea in economia e commercio sono aggiunti i seguenti insegnamenti:  
-tecnica attuariale delle assicurazioni sociali;  
-economia e politica internazionale;  
-economia e politica monetaria.  
+Nell'art. 51, relativo all'elenco degli insegnamenti del corso di laurea in medicina e chirurgia, l'insegnamento complementare di "chirurgia pediatrica" muta la denominazione in quella di "clinica chirurgica pediatrica".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 luglio 1984
+### Dato a Roma, addi' 28 ottobre 1982
 
-PERTINI
+PERTINI BODRATO
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DARIDA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 17 febbraio 1983
 
-Registrato alla Corte dei conti, addi' 18 gennaio 1985
-
-Registro n. 2 Istruzione, foglio n. 350
+Registro n. 12 Istruzione, foglio n. 173

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 dicembre 1970 n. 97
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 luglio 1970 n. 584
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 dicembre 1970 n. 97
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 luglio 1970 n. 584
+=============================================================
 
 Autorizzazione al Fondo di assistenza per i finanzieri, con sede in Roma, ad acquistare un immobile.
 ----------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-97. Decreto del Presidente della Repubblica 25 febbraio 1970, col quale, sulla proposta del Ministro per le finanze, il Fondo di assistenza per i finanzieri, con sede in Roma, viene autorizzato ad acquistare al prezzo di L. 780.000.000 l'immobile sito in Roma, con accessi da via Val Maggia numeri 140 e 142, angolo via Val di Non, alle condizioni specificate nella deliberazione consiliare del 17 dicembre 1969.  
+584. Decreto del Presidente della Repubblica 7 luglio 1970, col quale, sulla proposta del Ministro per le finanze, il Fondo di assistenza per i finanzieri, con sede in Roma, viene autorizzato ad acquistare al prezzo di L. 505.000.000 l'immobile sito in Roma, via di piano regolatore, in prossimita' di via Monte Cervialto (quartiere "Nuovo Salario").  
   
-Visto, il Guardasigilli: GAVA  
-Registrato alla Corte dei conti, addi' 26 marzo 1970  
-Atti del Governo, registro n. 234, foglio n. 55. - CARUSO
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 7 agosto 1970  
+Atti del Governo, registro n. 237, foglio n. 17. - CARUSO

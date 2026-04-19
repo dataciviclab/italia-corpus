@@ -1,13 +1,13 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 aprile 1987 n. 159
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 aprile 1953 n. 174
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 aprile 1987 n. 159
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 aprile 1953 n. 174
 =============================================================
 
 Scioglimento della Camera dei deputati e del Senato della Repubblica.
 ---------------------------------------------------------------------
 
-Entrata in vigore del provvedimento: 29/4/1987.
+Entrata in vigore del provvedimento: 4/4/1953.
 
 Art. 1
 ------
@@ -22,13 +22,9 @@ Decreta:
 La Camera dei deputati e il Senato della Repubblica sono sciolti.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 aprile 1987
+### Dato a Roma, addi' 4 aprile 1953
 
-COSSIGA
-
-FANFANI, Presidente del Consiglio dei Ministri
-
-Visto, il Guardasigilli: ROGNONI
+EINAUDI DE GASPERI Visto il Guardasigilli: ZOLI

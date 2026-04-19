@@ -1,18 +1,18 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1964 n. 1252
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1156
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1964 n. 1252
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1156
 ===============================================================
 
-Modificazioni allo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano.
-----------------------------------------------------------------------------------
+Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
+--------------------------------------------------------------------------------
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
+Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,373 +20,81 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Decreta:
+Sulla
+-----
 
-Lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 2. - L'ultimo comma e' abrogato e sostituito dal seguente:
-
-Nella Facolta' di lettere e filosofia sono costituite le seguenti Scuole di perfezionamento:
-
-in Filologia e antichita' classiche e papirologia;
-
-in Filologia romanza e moderna;
-
-in Filosofia neoscolastica;
-
-in Lingue e letterature orientali;
-
-in Storia e civilta' del cristianesimo.
-
-Nella Facolta' di lettere e filosofia e' costituita la Scuola di specializzazione in Psicologia.
-
-Art. 11 - Agli insegnamenti complementari del Corso di laurea in Scienze politiche e' aggiunto quello di "Psicologia del lavoro".
-
-Art. 82. - Il terzo comma e' abrogato e sostituito dal seguente Alle Scuole di perfezionamento costituite nella Facolta' di lettere e filosofia possono essere iscritti i laureati in Lettere e filosofia; a quella di specializzazione in Psicologia possono essere iscritti anche i laureati in Pedagogia e i laureati in Medicina e chirurgia; a quella di perfezionamento in Filosofia neoscolastica possono essere iscritti anche i laureati in Pedagogia e i laureati in Sacra Teologia; a quella di perfezionamento in Filologia romanza e moderna anche i laureati in Materie letterarie.
-
-Il quarto comma e' soppresso.
-
-Il quinto comma e' abrogato e sostituito dal seguente:
-
-Coloro che hanno gia' conseguito il diploma di perfezionamento in Psicologia in una Universita' italiana, purche' in possesso del titolo di laurea che da' accesso alla iscrizione a uno dei diplomi rilasciato dalla Scuola di specializzazione in Psicologia potranno essere iscritti al secondo anno di corso della Scuola di specializzazione.
-
-Art. 83 - Il terzo comma e' abrogato e sostituito dal seguente:
-
-Gli studi per il conseguimento di ciascun diploma di perfezionamento durano due anni. Gli studi per il conseguimento del diploma rilasciato dalla Scuola di specializzazione in Psicologia durano tre anni.
-
-L'art. 94 relative all'ordinamento della Scuola di perfezionamento in Psicologia e' abrogato e sostituito dal seguente nuovo ordinamento.
-
-Scuola di specializzazione in Psicologia
-
-Art. 94. - La Scuola di specializzazione in Psicologia rilascia quattro diplomi:
-
-1) Psicologia sperimentale;
-
-2) Psicologia del lavoro;
-
-3) Psicologia clinica;
-
-4) Psicologia dell'educazione.
-
-I corsi della Scuola di specializzazione in Psicologia sono distribuiti in tre anni, i primi due sono propedeutici e comuni, il terzo orientato secondo gli indirizzi costitutivi della Scuola.
-
-Sono insegnamenti costitutivi comuni:
-
-a) per il 1° anno
-
-Psicometria;
-
-Statistica elementare Psicofisiologia;
-
-Psicologia generale;
-
-Psicologia evolutiva Tecniche di laboratorio.
-
-b) per il 2° anno:
-
-Psicologia del lavoro;
-
-Psicologia sperimentale;
-
-Psicologia sociale;
-
-Statistica progredita;
-
-Metodologia clinica;
-
-Metodologia sperimentale;
-
-Tecnica dell'orientamento professionale.
-
-Sono insegnamenti ausiliari:
-
-a) per il 1° anno:
-
-Sociologia;
-
-Pedagogia;
-
-Neurofisiologia.
-
-b) per il 2° anno:
-
-Teorie della personalita';
-
-Auxologia Filmologia.
-
-Gli insegnamenti costitutivi dei singoli diplomi (3° anno di corso) sono i seguenti:
-
-Per la specializzazione in Psicologia sperimentale:
-
-Teorie della ricerca, Metodi della ricerca;
-
-Esercitazioni in ricerche sperimentali.
-
-Per la specializzazione in Psicologia clinica:
-
-Psicopatologia infantile Psicopatologia generale;
-
-Psicoterapia;
-
-Teorie della psicologia clinica;
-
-Neuropsichiatria;
-
-Interpretazione qualitativa dei tests proiettivi.
-
-Per la specializzazione in Psicologia dell'educazione:
-
-Psicologia dell'eta' evolutiva;
-
-Psicologia della didattica;
-
-Psicologia sperimentale;
-
-Psicopatologia infantile.
-
-Per la specializzazione in Psicologia del lavoro:
-
-Psicologia del personale;
-
-Psicologia della distribuzione;
-
-Dinamica dei gruppi formali;
-
-Tecniche di misura e sociometria;
-
-Antropologia culturale.
-
-Per conseguire il diploma di specializzazione e' necessario aver superato tutti gli esami costitutivi del primo biennio e dell'indirizzo prescelto piu' due degli ausiliari scelti fra quelli indicati per il primo ed il secondo anno.
-
-E' necessario inoltre avere presentato una ricerca sperimentale di carattere originale e aver sostenuto un colloquio vertente sull'orientamento generale della Scuola di specializzazione.
-
-L'ammissione alla Scuola e' fatta mediante concorso annuale allo scopo di stabilire l'idoneita' dei candidati a svolgere la professione dello psicologo; per la stessa ammissione e' necessaria la laurea in Medicina e chirurgia o in Filosofia o in Pedagogia.
-
-Art. 97, relativo alla Scuola di specializzazione in Psicologia del lavoro in psicotecnica e' soppresso.
-
-Dopo l'art. 96 e' aggiunto il seguente nuovo articolo, relativo alla istituzione della Scuola di perfezionamento in Archeologia e Storia dell'arte medioevale e moderna, annessa alla Facolta' di lettere e filosofia.
-
-Scuola di perfezionamento in Archeologia
-
-e Storia dell'arte medioevale e moderna
-
-Art. 97. - La Scuola di perfezionamento in Archeologia e Storia dell'arte medioevale e moderna rilascia, due diplomi:
-
-1) Diploma di perfezionamento in Archeologia;
-
-2) Diploma di perfezionamento in Storia dell'arte medioevale e moderna.
-
-Sono materie costitutive per il diploma di perfezionamento in Archeologia:
-
-Archeologia e storia dell'arte antica;
-
-Epigrafia greca e latina;
-
-Etruscologia ed antichita' italiche;
-
-Archeologia cristiana;
-
-Topografia di Roma e dell'Italia antica.
-
-Sono materie ausiliarie:
-
-Antichita' greche e romane;
-
-Paletnologia;
-
-Numismatica greca e romana;
-
-Storia greca e romana;
-
-Storia dell'arte medioevale.
-
-Sono materie costitutive per il diploma di perfezionamento in Storia dell'arte medioevale e moderna:
-
-Storia dell'arte medioevale;
-
-Storia dell'arte moderna;
-
-Storia dell'arte contemporanea;
-
-Teorie e storia del restauro delle opere d'arte.
-
-Sono materie ausiliarie;
-
-Storia della critica d'arte;
-
-Restauro dei monumenti;
-
-Paleografia e diplomatica;
-
-Numismatica;
-
-Storia delle arti decorative del libro e del manoscritto Estetica.
-
-Per cio' che concerne esami, dissertazione scritta, tasse ecc. e per ogni altra disposizione valgono le disposizioni generali per le Scuole di perfezionamento che formano gli articoli 82, 83, 84 dello statuto dell'Universita' cattolica del "Sacro Cuore".
-
-Per quanto concerne gli insegnamenti ausiliari lo studente ne deve scegliere due per ogni anno di corso.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 8 ottobre 1964
-
-Per il Presidente della Repubblica
-
-Il Presidente del Senato
-
-MERZAGORA
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 27 novembre 1964 Atti del Governo, registro n. 188, foglio n. 117. - VILLA
+proposta del Ministro della pubblica istruzione, di concerto con il Ministro del tesoro; Decreta:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come segue:  
   
-Decreta:  
+Nella tabella n. 1 (art. 27) l'annotazione n. 5, concernente un posto convenzionato di professore di ruolo, presso la facolta' di medicina e chirurgia e' integrata come segue: "la cui denominazione e' stata modificata in "cardiologia" con [decreto del Presidente della Repubblica 5 settembre 1980, n. 637](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-09-05;637)".  
+
+Art. 2
+------
+
   
-Lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 2. - L'ultimo comma e' abrogato e sostituito dal seguente:  
-Nella Facolta' di lettere e filosofia sono costituite le seguenti Scuole di perfezionamento:  
-in Filologia e antichita' classiche e papirologia;  
-in Filologia romanza e moderna;  
-in Filosofia neoscolastica;  
-in Lingue e letterature orientali;  
-in Storia e civilta' del cristianesimo.  
-Nella Facolta' di lettere e filosofia e' costituita la Scuola di specializzazione in Psicologia.  
-Art. 11 - Agli insegnamenti complementari del Corso di laurea in Scienze politiche e' aggiunto quello di "Psicologia del lavoro".  
-Art. 82. - Il terzo comma e' abrogato e sostituito dal seguente Alle Scuole di perfezionamento costituite nella Facolta' di lettere e filosofia possono essere iscritti i laureati in Lettere e filosofia; a quella di specializzazione in Psicologia possono essere iscritti anche i laureati in Pedagogia e i laureati in Medicina e chirurgia; a quella di perfezionamento in Filosofia neoscolastica possono essere iscritti anche i laureati in Pedagogia e i laureati in Sacra Teologia; a quella di perfezionamento in Filologia romanza e moderna anche i laureati in Materie letterarie.  
-Il quarto comma e' soppresso.  
-Il quinto comma e' abrogato e sostituito dal seguente:  
-Coloro che hanno gia' conseguito il diploma di perfezionamento in Psicologia in una Universita' italiana, purche' in possesso del titolo di laurea che da' accesso alla iscrizione a uno dei diplomi rilasciato dalla Scuola di specializzazione in Psicologia potranno essere iscritti al secondo anno di corso della Scuola di specializzazione.  
-Art. 83 - Il terzo comma e' abrogato e sostituito dal seguente:  
-Gli studi per il conseguimento di ciascun diploma di perfezionamento durano due anni. Gli studi per il conseguimento del diploma rilasciato dalla Scuola di specializzazione in Psicologia durano tre anni.  
-L'art. 94 relative all'ordinamento della Scuola di perfezionamento in Psicologia e' abrogato e sostituito dal seguente nuovo ordinamento.  
-  
-Scuola di specializzazione in Psicologia  
-  
-Art. 94. - La Scuola di specializzazione in Psicologia rilascia quattro diplomi:  
-1) Psicologia sperimentale;  
-2) Psicologia del lavoro;  
-3) Psicologia clinica;  
-4) Psicologia dell'educazione.  
-I corsi della Scuola di specializzazione in Psicologia sono distribuiti in tre anni, i primi due sono propedeutici e comuni, il terzo orientato secondo gli indirizzi costitutivi della Scuola.  
-Sono insegnamenti costitutivi comuni:  
-a) per il 1° anno  
-Psicometria;  
-Statistica elementare Psicofisiologia;  
-Psicologia generale;  
-Psicologia evolutiva Tecniche di laboratorio.  
-b) per il 2° anno:  
-Psicologia del lavoro;  
-Psicologia sperimentale;  
-Psicologia sociale;  
-Statistica progredita;  
-Metodologia clinica;  
-Metodologia sperimentale;  
-Tecnica dell'orientamento professionale.  
-Sono insegnamenti ausiliari:  
-a) per il 1° anno:  
-Sociologia;  
-Pedagogia;  
-Neurofisiologia.  
-b) per il 2° anno:  
-Teorie della personalita';  
-Auxologia Filmologia.  
-Gli insegnamenti costitutivi dei singoli diplomi (3° anno di corso) sono i seguenti:  
-Per la specializzazione in Psicologia sperimentale:  
-Teorie della ricerca, Metodi della ricerca;  
-Esercitazioni in ricerche sperimentali.  
-Per la specializzazione in Psicologia clinica:  
-Psicopatologia infantile Psicopatologia generale;  
-Psicoterapia;  
-Teorie della psicologia clinica;  
-Neuropsichiatria;  
-Interpretazione qualitativa dei tests proiettivi.  
-Per la specializzazione in Psicologia dell'educazione:  
-Psicologia dell'eta' evolutiva;  
-Psicologia della didattica;  
-Psicologia sperimentale;  
-Psicopatologia infantile.  
-Per la specializzazione in Psicologia del lavoro:  
-Psicologia del personale;  
-Psicologia della distribuzione;  
-Dinamica dei gruppi formali;  
-Tecniche di misura e sociometria;  
-Antropologia culturale.  
-Per conseguire il diploma di specializzazione e' necessario aver superato tutti gli esami costitutivi del primo biennio e dell'indirizzo prescelto piu' due degli ausiliari scelti fra quelli indicati per il primo ed il secondo anno.  
-E' necessario inoltre avere presentato una ricerca sperimentale di carattere originale e aver sostenuto un colloquio vertente sull'orientamento generale della Scuola di specializzazione.  
-L'ammissione alla Scuola e' fatta mediante concorso annuale allo scopo di stabilire l'idoneita' dei candidati a svolgere la professione dello psicologo; per la stessa ammissione e' necessaria la laurea in Medicina e chirurgia o in Filosofia o in Pedagogia.  
-Art. 97, relativo alla Scuola di specializzazione in Psicologia del lavoro in psicotecnica e' soppresso.  
-Dopo l'art. 96 e' aggiunto il seguente nuovo articolo, relativo alla istituzione della Scuola di perfezionamento in Archeologia e Storia dell'arte medioevale e moderna, annessa alla Facolta' di lettere e filosofia.  
-  
-Scuola di perfezionamento in Archeologia  
-e Storia dell'arte medioevale e moderna  
-  
-Art. 97. - La Scuola di perfezionamento in Archeologia e Storia dell'arte medioevale e moderna rilascia, due diplomi:  
-1) Diploma di perfezionamento in Archeologia;  
-2) Diploma di perfezionamento in Storia dell'arte medioevale e moderna.  
-Sono materie costitutive per il diploma di perfezionamento in Archeologia:  
-Archeologia e storia dell'arte antica;  
-Epigrafia greca e latina;  
-Etruscologia ed antichita' italiche;  
-Archeologia cristiana;  
-Topografia di Roma e dell'Italia antica.  
-Sono materie ausiliarie:  
-Antichita' greche e romane;  
-Paletnologia;  
-Numismatica greca e romana;  
-Storia greca e romana;  
-Storia dell'arte medioevale.  
-Sono materie costitutive per il diploma di perfezionamento in Storia dell'arte medioevale e moderna:  
-Storia dell'arte medioevale;  
-Storia dell'arte moderna;  
-Storia dell'arte contemporanea;  
-Teorie e storia del restauro delle opere d'arte.  
-Sono materie ausiliarie;  
-Storia della critica d'arte;  
-Restauro dei monumenti;  
-Paleografia e diplomatica;  
-Numismatica;  
-Storia delle arti decorative del libro e del manoscritto Estetica.  
-Per cio' che concerne esami, dissertazione scritta, tasse ecc. e per ogni altra disposizione valgono le disposizioni generali per le Scuole di perfezionamento che formano gli articoli 82, 83, 84 dello statuto dell'Universita' cattolica del "Sacro Cuore".  
-Per quanto concerne gli insegnamenti ausiliari lo studente ne deve scegliere due per ogni anno di corso.  
+E' approvato l'allegato atto stipulato il 6 marzo 1981, aggiuntivo della convenzione stipulata il 2 dicembre 1976 tra l'Universita' cattolica del Sacro Cuore di Milano e l'Associazione laicale Oasi Maria SS. di Troina avente per oggetto l'istituzione di un posto convenzionato di professore di ruolo per l'insegnamento di fisiopatologia cardiocircolatoria, concernente il cambio di denominazione di detto insegnamento in cardiologia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 ottobre 1964
+### Dato a Roma, addi' 31 ottobre 1981
 
-Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
+PERTINI BODRATO - ANDREATTA
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 27 novembre 1964
+Registrato alla Corte dei conti, addi' 5 luglio 1982
 
-Atti del Governo, registro n. 188, foglio n. 117. - VILLA
+Registro n. 87 Istruzione, foglio n. 108
+
+Allegato
+
+ Rep. n. 193/1981   
+  
+ATTO AGGIUNTIVO ALLA CONVENZIONE STIPULATA IL 2 DICEMBRE 1976 TRA L'UNIVERSITA' CATTOLICA DEL SACRO CUORE E L'ASSOCIAZIONE LAICALE OASI MARIA SS. DI TROINA AVENTE PER OGGETTO: "ISTITUZIONE DI UN POSTO CONVENZIONATO DI PROFESSORE DI RUOLO PER L'INSEGNAMENTO DI FISIOPATOLOGIA CARDIOCIRCOLATORIA PRESSO LA FACOLTA' DI MEDICINA E CHIRURGIA DELL'UNIVERSITA' CATTOLICA DEL SACRO CUORE".   
+  
+REPUBBLICA ITALIANA   
+  
+L'anno 1981 (millenovecentottantuno) il giorno 6 del mese di marzo alle ore 12, in una sala del rettorato dell'Universita' cattolica del S. Cuore, presso la sede di Roma, avanti a me dott. Domenico Lofrese, nato ad Acquaviva delle Fonti (Bari) il 6 febbraio 1932, residente a Milano, nella mia qualita' di direttore amministrativo dell'Universita' cattolica del S. Cuore, delegato a ricevere gli atti in forma pubblica, ai sensi dell'art. 129 del R.G.U. approvato con [regio decreto 6 aprile 1924, n. 674, con decreto](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674) del rettore n. 7743 in data 27 gennaio 1979, con rinuncia di comune accordo dei testimoni, si sono personalmente costituiti i signori:   
+prof. Giuseppe Lazzati, nato a Milano il 22 giugno 1909, residente per la carica in Milano, largo Gemelli n. 1, rettore dell'Universita' cattolica del S. Cuore, avente i poteri per questo atto;   
+rev.do sac. Luigi Ferlauto, nato a Troina il 24 luglio 1922, residente in Troina, via Conte Ruggero n. 73, presidente della Associazione laicale Oasi Maria SS. di Troina, avente i poteri per questo atto;   
+  
+Premesso   
+  
+che in data 2 dicembre 1976 e' stata stipulata, tra l'Universita' cattolica del S. Cuore e l'Associazione laicale Oasi Maria SS. di Troina, una convenzione per l'istituzione di un posto convenzionato di professore di ruolo per l'insegnamento di "Fisiopatologia cardiocircolatoria";   
+che per aderire alla richiesta del Ministero della pubblica istruzione, formulata su osservazione del Ministero del tesoro, in data 2 febbraio 1978 e' stato stipulato un atto aggiuntivo alla succitata convenzione;   
+che con [decreto del Presidente della Repubblica 5 settembre 1980 n. 637, pubblicato nella Gazzetta Ufficiale n. 282 del 14 ottobre 1980](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1980-10-14&numeroGazzetta=282), e' stato approvato il cambio di denominazione dell'insegnamento di "fisiopatologia cardiocircolatoria" in "cardiologia".   
+  
+Tutto cio' premesso   
+  
+Le parti come sopra costituite convengono che la dizione dell'insegnamento, per cui e' stato istituito un posto convenzionato di professore di ruolo, nella convenzione 2 dicembre 1976 rep. 43/1976 citata nella premessa, nonche' nel primo atto aggiuntivo del 2 febbraio 1978 rep. 68/1978, e' modificata in "cardiologia".   
+La presente convenzione, essendo atto integrativo di altra convenzione stipulata il 2 dicembre 1976 rep. 43/1976 e registrata a Milano il 16 dicembre 1976, ufficio registro atti pubblici, A/2 n. 18839, serie I, verra' registrata con lo stesso regime tributario della gia' richiamata convenzione.   
+Dichiarano le parti stipulanti che il presente atto ha come finalita' quelle culturali e di ricerca scientifica, come peraltro si evince da quanto precede e pertanto l'Universita' cattolica chiede, in ordine alla registrazione, le agevolazioni fiscali del caso.   
+  
+Il presente atto viene pubblicato mediante lettura da me datane ai comparenti che, trovandolo conforme alla loro volonta', lo sottoscrivono con me ufficiale rogante.   
+  
+L'atto consta di un foglio scritto su tre facciate intere e cinque righe della quarta facciata, comprese le firme.   
+  
+Giuseppe LAZZATI   
+Luigi FERLAUTO   
+Domenico LOFRESE, rogante   
+  
+Registrato a Milano il 24 marzo 1981 - ufficio del registro atti pubblici, al n. A/06238, mod. 71/M, serie I - Esatte L. 20.200.   
+  
+Visto, d'ordine del Presidente della Repubblica   
+Il Ministro per la pubblica istruzione   
+BODRATO   

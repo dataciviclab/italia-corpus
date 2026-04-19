@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 aprile 1965 n. 602
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 358
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 aprile 1965 n. 602
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 358
 =============================================================
 
 Autorizzazione all'Universita' degli studi di Trieste ad accettare una donazione.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-602. Decreto del Presidente della Repubblica 30 aprile 1965, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Trieste, viene autorizzata ad accettare dalla Cassa di risparmio di Trieste la donazione di un appezzamento di terreno di complessivi mq. 7673, sito in Prosecco, del valore di L. 98.820.880 (novantottomilioniottocentoventimilaottocentottanta).  
+358. Decreto del Presidente della Repubblica 26 aprile 1984, col quale, sulla proposta del Ministro della pubblica istruzione, l'Universita' di Trieste viene autorizzata ad accettare la donazione, consistente in un immobile sito in Trieste, via Galatti n. 20 e via Filzi n. 14 costituente l'ex Hotel Regina, censito al nuovo catasto edilizio urbano alla partita n. 20483, sezione V, foglio 11, numeri di mappa 7353/1 e dal 7352/2 al 7352/24 nonche' 7353/2, per un valore complessivo di L. 3.300.000.000, disposta dalla Societa' immobiliare triestina S.r.l. (SIT) con atto 30 giugno 1983, n. 28060 di repertorio, a rogito dott. Giulio Flora, notaio in Trieste, e registrato a Trieste in data 5 luglio 1983 al n. 2891.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 3 giugno 1965  
-Atti del Governo, registro n. 193, foglio n. 129. - VILLA
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 17 luglio 1984  
+Registro n. 44 Istruzione, foglio n. 97

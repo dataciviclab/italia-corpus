@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 939
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1951 n. 1813
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 939
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1951 n. 1813
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -10,102 +10,55 @@ Modificazioni allo statuto dell'Universita' degli studi di Roma.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni, date dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con i [regi decreti 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-26;1734); [26 ottobre 1940, n. 2069](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2069); [4 maggio 1942, numero 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-05-04;565); [24 luglio 1942, n. 949](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-24;949); [24 agosto 1942, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-08-24;1098); [24 ottobre 1942, n. 1672, e con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1672) [12 aprile 1947, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-12;461) e [31 dicembre 1947, n. 1758, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1758) [24 dicembre 1948, n. 1619](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-12-24;1619); [18 luglio 1949, n. 882](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-07-18;882); [20 ottobre 1949, n. 989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;989); [20 ottobre 1949, n. 991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;991); [30 ottobre 1949, n. 1152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1152); [20 ottobre 1949, n. 3178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;3178); [11 giugno 1950, n. 622](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;622) e [11 maggio 1951, n. 653](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-05-11;653);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni;  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-Dopo l'art. 711 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione della seconda scuola di specializzazione in microbiologia.   
-Scuola di specializzazione in microbiologia (2ª scuola)   
-Art. 712. - La scuola di specializzazione in microbiologia ha lo scopo di allargare e completare sul piano scientifico la cultura di coloro che si dedicano allo studio di questa disciplina e di fornire sul piano tecnico una preparazione pratica specifica.   
-Art. 713. - Possono essere ammessi i laureati in medicina e chirurgia, medicina veterinaria, scienze biologiche, scienze naturali e farmacia.   
-Art. 714. - Il corso ha la durata di tre anni ed ha luogo presso l'istituto di microbiologia.   
-Art. 715. - Il numero massimo degli iscritti e' stabilito in venti specializzandi per ogni anno di corso. Nel caso di domande eccedenti, la selezione verra' effettuata mediante concorso con norme che verranno precisate nel manifesto annuale. Qualora un aspirante, sufficientemente fornito di titoli attinenti alle materie della scuola, chieda abbreviazione di corso, dovra' presentare motivata istanza.   
-Art. 716. - La direzione della scuola viene assunta dia un professore di ruolo.   
-Il direttore della scuola puo' nominare un vice direttore che lo coadiuvi e lo supplisca ed un segretario.   
-Art. 717. - L'ordine degli studi (distribuzione degli insegnamenti nei diversi anni di corso) e l'ordine e le modalita' degli esami verranno stabiliti nel manifesto annuale.   
-Art. 718. Gli insegnamenti impartiti dalla scuola sono:   
-1) Chimica microbiologica;   
-2) Batteriologia generale e tecnica batteriologica;   
-3) Analisi statistica del dosaggio biologico;   
-4) Immunologia;   
-5) Batteriologia speciale;   
-6) Virologia generale e tecnica virologica;   
-7) Micologia;   
-8) Protozoologia;   
-9) Genetica dei microrganismi;   
-10) Virologia speciale;   
-11) Microbiologia degli alimenti;   
-12) Microbiologia industriale;   
-13) Metodi e dosaggi microbiologici.   
-Art. 719. - Il direttore puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari di conferenze e seminari su materie e argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola.   
-Art. 720. - L'esame di diploma constera' di una discussione sopra una tesi scritta o di una prova pratica. I candidati non riconosciuti idonei, potranno presentarsi dopo un altro anno di frequenza alla scuola. Ma se al secondo esame non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove. A coloro che abbiano superato l'esame di diploma verra' rilasciato un diploma di specialista in microbiologia.   
-Dopo l'art. 754 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della seconda scuola speciale per terapisti della riabilitazione.   
-Scuola speciale per terapisti della riabilitazione (2ª scuola)   
-Art. 755. - La 2ª scuola speciale per terapisti della riabilitazione ha sede presso la 2ª clinica delle malattie nervose e mentali. Essa ha lo scopo di dare una preparazione completa, teorica e pratica, agli allievi, istruendoli sui problemi della riabilitazione dei minorati fisici e psichici con particolare riguardo ai minorati per lesioni organiche del sistema nervoso e di quelli affetti da disturbi organici del linguaggio, suscettibili di recupero funzionale e sociale mediante terapie fisiche, chinesiterapiche, occupazionali e del linguaggio.   
-Art. 756. - La durata del corso degli studi per il conseguimento del diploma di terapista della riabilitazione e' di tre anni accademici: i primi due consistenti in lezioni teoriche e pratiche su materie propedeutiche e tecniche presso la 2ª clinica delle malattie nervose e mentali, il terzo di tirocinio pratico presso il centro di riabilitazione della clinica stessa o presso centri di riabilitazione riconosciuti idonei a tale scopo dalla scuola.   
-Gli allievi hanno l'obbligo di frequenza alle lezioni ed ai tirocini.   
-Art. 757. - Possono essere ammessi alla scuola gli allievi di ambo i sessi di eta' non inferiore ai 17 anni (l'eta' di 17 anni puo' essere compiuta entro l'anno solare), in possesso del titolo di studio prescritto per l'ammissione alle universita' (preferibilmente del diploma di maturita' classica, del diploma di maturita' scientifica, del diploma di abilitazione magistrale).   
-Art. 758. - Numero massimo dei posti disponibili annualmente e' stabilito nella misura di 30. Chi aspira ad ottenere l'iscrizione al primo anno della scuola dovra' sostenere un esame di ammissione, consistente in una prova orale di cultura generale e in una intervista attitudinale.   
-Art. 759. - Il direttore della scuola e' di diritto il titolare della 2ª clinica delle malattie nervose e mentali dell'universita'.  
-Il direttore puo' farsi coadiuvare da un vice direttore nominato dal rettore su sua proposta.   
-Art. 760. - Le materie d'insegnamento del 1° anno sono:   
-1) Nozioni generali di anatomia, fisiologia;   
-2) Anatomia del sistema nervoso;   
-3) Fisiologia del sistema nervoso;   
-4) Anatomia e fisiologia dell'apparato motore;   
-5) Igiene e medicina sociale;   
-6) Nozioni fondamentali di psichiatria;   
-7) Psicologia e psicopatologia del minorato;   
-8) Chinesiologia e diagnostica dei disturbi del movimento;   
-9) Metodologia e fisioterapia;   
-10) Metodologia di terapia occupazionale;   
-11) Clinica della riabilitazione.   
-Le materie d'insegnamento del 2° anno sono:   
-1) Nozioni generali di patologia;   
-2) Fisiologia del sistema nervoso;   
-3) Patologia e clinica del sistema nervoso;   
-4) Patologia e clinica dell'apparato motore;   
-5) Anatomia, fisiologia, patologia degli organi della parola e dell'udito;   
-6) Neuropsichiatria infantile;   
-7) Paralisi cerebrali infantili;   
-8) Riabilitazione geriatrica;   
-9) Nozioni di reumatologia;   
-10) Elettroterapia ed altre terapie fisiche;   
-11) Chinesiologia e diagnostica dei disturbi del movimento;   
-12) Metodologia di fisioterapia;   
-13) Metodologia di terapia occupazionale;   
-14) Metodologia di terapia del linguaggio;   
-15) Servizio sociale e relazioni umane;   
-16) Clinica della riabilitazione.   
-Nel 2° anno viene dato particolare risalto alle dimostrazioni pratiche per tutte le materie di insegnamento.   
-I corsi regolari saranno integrati da conferenze su argomenti specifici, proiezioni, visite ad altri istituti.   
-Art. 761. - Per essere ammessi al 2° anno occorre aver superato gli esami di cui ai numeri 1), 2), 4), 7), 8), 9), 10) dell'articolo precedente ed aver completato la prima parte del tirocinio. Per essere ammessi al 3° anno gli allievi dovranno aver superato tutti gli esami del 1° anno e gli esami di cui ai numeri 1), 2), 3), 4), 5), 7), 11), 12), 13), 16) del 2° anno ed, aver completato la seconda parte del tirocinio.   
-Art. 762. - Per poter essere ammessi alla discussione della tesi di diploma gli allievi dovranno presentare all'universita' una dichiarazione del direttore della scuola attestante la frequenza del tirocinio del 3° anno.   
-L'esame per il conseguimento del diploma di terapista della riabilitazione consiste nella discussione di una tesi scritta su un tema preventivamente assegnato dal direttore della scuola.   
-L'esame di diploma dovra' essere superato non oltre sei anni dalla data di immatricolazione.   
-Art. 763. - Gli iscritti alla scuola sono tenuti a pagare le medesime tasse, soprattasse e contributi generali nella misura stabilita dalle vigenti disposizioni di legge per gli studenti della facolta'.   
-La misura dei contributi per le esercitazioni di laboratorio e per le altre prestazioni di cui gli iscritti usufruiscono durante il corso degli studi, e' fissata dal consiglio di amministrazione, su proposta del senato accademico.   
+Lo statuto dell'Universita', degli studi di Roma approvato e modificato con i decreti sopraindicati, e cosi' ulteriormente modificato:  
+L'art. 321 relativo alla Scuola di perfezionamento in medicina legale e delle assicurazioni, e cosi' modificato:  
+"L'ordine degli studi, che comprende insegnamenti comuni per tutti gli iscritti e insegnamenti speciali per i non medici, e il seguente: 1° anno:  
+Medicina legale generale;  
+Tanatologia e tecnica delle autopsie medico-legali;  
+Laboratorio medico-legale e indagini di sopraluogo;  
+Lesivita' medico-legale;  
+Elementi di traumatologia clinica;  
+Elementi di metodologia attuariale e di statistica medica;  
+Nozioni generali di diritto;  
+Nozioni generali di biologia (per laureati in giurisprudenza). 2° anno:  
+Medicina legale applicata al diritto civile, penale e Canonico;  
+Neuropsichiatria medico-legale;  
+Psicologia medico-legale e del lavoro;  
+Criminologia;  
+Elementi di fisiologia e di patologia del lavoro;  
+Elementi di legislazione igienico-sanitaria del lavoro;  
+Prevenzione degli infortuni e dei sinistri;  
+Assicurazione contro gli infortuni e le malattie professionali;  
+Assicurazioni invalidita', vecchiaia e contro la tubercolosi;  
+Assicurazione malattie;  
+Assicurazione vita;  
+Medicina legale militare e pensionistica".  
+Art. 322. - "Gli esami di profitto dei singoli insegnamenti comuni e speciali, vengono sostenuti al termine dei rispettivi anni di corso.  
+I candidati non possono essere ammessi agli esami se non abbiano ottenuto una attestazione di frequenza e di diligenza da parte del direttore della Scuola; non possono, inoltre, essere iscritti al 2° anno, se non abbiano superato gli esami di tutti gli insegnamenti del primo".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 27 ottobre 1951
 
-LEONE SCALFARO
+EINAUDI SEGNI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: ZOLI
 
-Registrato alla Corte dei conti, addi' 17 gennaio 1973
+Registrato alla Corte dei conti, addi' 5 maggio 1952
 
-Atti di Governo, registro n. 255, foglio n. 40; - VALENTINI
+Atti del Governo, registro n. 53, foglio n. 23. - FRASCA

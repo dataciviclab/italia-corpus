@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1980 n. 1088
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1985 n. 907
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1980 n. 1088
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1985 n. 907
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Salerno.
 -------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Salerno.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Salerno, approvato con [decreto del Presidente della Repubblica 18 dicembre 1968, n. 1436](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-12-18;1436) e modificato con [decreto del Presidente della Repubblica 10 settembre 1969, n. 695](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-09-10;695), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Salerno, approvato con [decreto del Presidente della Repubblica 18 dicembre 1968, n. 1436](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-12-18;1436), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,156 +20,49 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Salerno e convalidati dal Consiglio universitario nazionale nel suo parere;
+Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Sentito il parere del Consiglio universitario nazionale;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+
+Veduto il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 --------
 
-Lo statuto dell'Universita' degli studi di Salerno, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Salerno, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Art. 1
 ------
 
   
-L'art. 46 e' sostituito dal seguente:  
-"La facolta' di scienze matematiche, fisiche e naturali comprende il biennio propedeutico in ingegneria e rilascia la laurea in: fisica, matematica, scienze dell'informazione".  
+Nell'art. 29, relativo al corso di laurea in filosofia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+  
+storia delle dottrine morali.  
 
 Art. 2
 ------
 
   
+Nell'art. 34, relativo al corso di laurea in sociologia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
   
-Dopo l'art. 47, e con il conseguente spostamento della numerazione degli articoli successivi, e' aggiunto il seguente nuovo articolo relativo alla istituzione del corso di laurea in matematica.   
-Art. 48. - Il corso di studi per il conseguimento della laurea in matematica e' di quattro anni.   
-I titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge.   
-Il corso di studi si distingue in tre indirizzi: generale, didattico, applicativo.   
-Sono insegnamenti fondamentali obbligatori comuni ai tre indirizzi per il primo biennio:   
-1° Anno:   
-analisi matematica I;   
-geometria I;   
-algebra;   
-fisica generale I.   
-2° Anno:   
-analisi matematica II;   
-geometria II;   
-meccanica nazionale;   
-fisica generale II.   
-Ciascuno degli insegnamenti sopra elencati e' accompagnato da un corso di esercitazioni che ne e' parte integrante.   
-Sono insegnamenti fondamentali obbligatori comuni ai tre indirizzi per il secondo biennio:   
-3° Anno:   
-istituzioni di analisi superiore;   
-istituzioni di geometria superiore;   
-istituzioni di fisica matematica.   
-L'insegnamento di istituzioni di analisi superiore ovvero quello di istituzioni di fisica matematica potranno essere sostituiti, su deliberazioni della facolta', con quello di metodi matematici della fisica, fondamentale per il corso di laurea in fisica.   
-Nel secondo biennio dovranno inoltre essere impartiti gli insegnamenti di altre quattro discipline, di cui uno dovra' essere seguito nel terzo anno e gli altri nel quarto.   
-Di tali insegnamenti sono fondamentali:   
-Per l'indirizzo generale:   
-  
-4° Anno:   
-analisi superiore;   
-matematiche superiori.   
-  
-Per l'indirizzo didattico:   
-  
-3° Anno:   
-matematiche elementari da un punto di vista superiore.   
-4° Anno:   
-matematiche complementari.   
-  
-Per l'indirizzo applicativo:   
-  
-3° Anno:   
-teoria ed applicazioni delle macchine calcolatrici.   
-4° Anno:   
-analisi numerica.   
-I rimanenti due insegnamenti sono complementari a scelta dello studente; uno almeno di essi dovra' essere ad orientamento fisico.   
-Gli insegnamenti complementari per ciascuno del tre indirizzi dovranno essere scelti nel seguente elenco, escludendo i fondamentali dall'indirizzo prescelto.   
-Si intendono ad indirizzo fisico gli insegnamenti contrassegnati da un asterisco:   
-algebra lineare;   
-algebra superiore;   
-analisi funzionale;   
-analisi numerica;   
-analisi superiore;   
-\* astronomia;   
-calcoli numerici e grafici;   
-calcolo delle probabilita';   
-calcolo numerico e programmazione;   
-\* complementi di fisica generale I;   
-\* complementi di fisica generale II;   
-economia matematica;   
-elettronica;   
-\* elettronica applicata alle macchine calcolatrici;   
-epistemologia e metodologia;   
-\* fisica delle particelle elementari;   
-fisica matematica;   
-\* fisica superiore;   
-\* fisica teorica;   
-funzioni speciali;   
-geometria algebrica;   
-geometria differenziale;   
-geometria superiore;   
-istituzioni di algebra superiore;   
-\* istituzioni di fisica teorica;   
-\* linguaggi formali e compilatori;   
-logica matematica;   
-matematica finanziaria ed attuariale;   
-matematiche complementari;   
-matematiche superiori;   
-\* meccanica quantistica;   
-\* meccanica statistica;   
-\* meccanica superiore;   
-metodi di analisi numerica;   
-metodi di approssimazione;   
-metodi per il trattamento dell'informazione;   
-metodologia e didattica;   
-\*preparazione di esperienze didattiche I;   
-\* preparazione di esperienze didattiche II;   
-processi stocastici;   
-ricerca operativa;   
-sistemi per l'elaborazione dell'informazione;   
-statistica matematica;   
-storia della scienza;   
-storia e didattica della matematica;   
-\* struttura della materia;   
-tecniche numeriche ed analogiche;   
-teoria degli algoritmi e calcolabilita';   
-teoria dei giochi;   
-teoria dei grafi;   
-teoria dei gruppi;   
-teoria dei modelli;   
-teoria dei numeri;   
-teoria dei sistemi;   
-teoria della relativita';   
-teoria delle decisioni;   
-teoria delle funzioni;   
-teoria dell'informazione;   
-teoria ed applicazione delle macchine calcolatrici;   
-topologia.   
-Per ciascuno degli insegnamenti, sia fondamentale sia complementare, vi e' un esame finale.   
-Potranno essere iscritti al secondo anno soltanto quegli studenti che abbiano superato almeno due degli esami di analisi matematica I, geometria I, algebra.   
-I corsi di analisi matematica, di geometria, di fisica generale non debbono essere considerati come dei comuni corsi biennali; essi constano ciascuno di due parti annuali distinte, la prima propedeutica alla seconda, e con due esami distinti il primo propedeutico al secondo.   
-Il corso di teoria ed applicazioni delle macchine calcolatrici deve essere distinto da quello destinato agli allievi del primo anno del corso di laurea in scienze dell'informazione.   
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti prescritti. L'esame di laurea consta:   
-a) della discussione di un lavoro scritto, o sperimentale o avente comunque carattere di elaborazione autonoma;   
-b) dell'esposizione e discussione di una tesina orale, scelta su di un argomento diverso da quello su cui verte la tesi.   
-Superato l'esame di laurea, lo studente consegue il titolo di dottore in matematica, indipendentemente dall'indirizzo prescelto del quale verra' fatta menzione soltanto nella carriera scolastica.   
+scienza della politica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 settembre 1980
+### Dato a Roma, addi' 19 ottobre 1985
 
-p. Il Presidente della Repubblica Il Presidente del Senato FANFANI SARTI
+COSSIGA
 
-Visto, il Guardasigilli: MORLINO
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 9 marzo 1981
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registro n. 22 Istruzione, foglio n. 293
+Registrato alla Corte dei conti, addi' 14 febbraio 1986
+
+Registro n. 9 Istruzione, foglio n. 131

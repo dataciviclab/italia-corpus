@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1977 n. 93
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 gennaio 1978 n. 89
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1977 n. 93
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 gennaio 1978 n. 89
 =============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-93. Decreto del Presidente della Repubblica 21 gennaio 1977, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dalla Pessiona Anstalt, sedente in Vaduz (Liechtenstein), con l'espresso consenso del cavaliere di gran croce Guido Monzino, quale unico proprietario dei diritti di fondazione della detta Pessiona Anstalt, con atto 19 settembre 1974, n. 219.305/7358 di repertorio, a rogito notaio Giovanni Andreottola, del complesso mobiliare ed immobiliare costituente l'albergo Posta-Lina, sito in comune di Valtournanche (Aosta), localita' Paquier.  
+89. Decreto del Presidente della Repubblica 13 gennaio 1978, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Squillace (Catanzaro) con atto 11 aprile 1975, n. 608 di repertorio, a rogito prof. avv. Natale Naso, notaio in Squillace, consistente in un appezzamento di terreno di mq 2000, sito in Squillace, localita' "Miciulla o Cappuccini", occorrente per la costruzione della locale caserma dei carabinieri.  
   
 Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 26 marzo 1977  
-Registro n. 15 Finanze, foglio n. 324
+Registrato alla Corte dei conti, addi' 4 aprile 1978  
+Registro n. 14 Finanze, foglio n. 337

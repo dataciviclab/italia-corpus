@@ -1,92 +1,338 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 settembre 1979 n. 719
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 agosto 1971 n. 906
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 settembre 1979 n. 719
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 agosto 1971 n. 906
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+L'art. 138, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Clinica delle malattie nervose e mentali" e' soppressa e sostituita con l'istituzione delle scuole di specializzazione in "Psichiatria" e in "Neurologia".
+
+Gli articoli 184, 185, 186, 187 relativi alla "Scuola di specializzazione in clinica delle malattie nervose e mentali" sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in psichiatria
+
+Art. 184. - La scuola di specializzazione in psichiatria ha la durata di quattro anni.
+
+Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+Anatomia e istologia del sistema nervoso;
+
+Fisiologia del s.n.;
+
+Biochimica del s.n.;
+
+Genetica (elementi);
+
+Psicologia generale;
+
+Psicopatologia (1°);
+
+Semeiotica psichiatrica.
+
+2° Anno: (internato in neurologia):
+
+Anatomia e istologia patologica del s.n.;
+
+Semeiotica neurologica;
+
+Patologia speciale e diagnostica neurologica;
+
+Neuro-radiologia;
+
+Endocrinologia e neurologia vegetativa;
+
+Elettroencefalografia.
+
+3° Anno:
+
+Patologia speciale psichiatrica;
+
+Psicopatologia (2°);
+
+Clinica psichiatrica (1°);
+
+Psicologia clinica e psicodiagnostica;
+
+Psico-farmacologia;
+
+Psichiatria in rapporto con la patologia internistica;
+
+Esami di laboratorio.
+
+4° Anno:
+
+Clinica psichiatrica (2°);
+
+Terapia psichiatrica generale;
+
+Psicoterapia;
+
+Neuropsichiatria infantile;
+
+Psichiatria forense e legislazione psichiatrica;
+
+Psichiatria sociale (del lavoro, scolastica, igiene e profilassi mentale).
+
+Art. 185. - Internato obbligatorio per l'intero anno scolastico per il 1°, 3° e 4° anno in clinica psichiatrica, sede della scuola.
+
+Tale internato potra': essere ridotto a non meno di 4 mesi all'anno per i medici che prestino servizio regolare in ospedale psichiatrico.
+
+L'internato e' obbligatorio per il 20 anno in neurologia (sede della scuola) per l'intero anno scolastico salvo per i medici che prestino regolare servizio in ospedale psichiatrico per i quali potra' essere ridotto a non meno di mesi 6, e per i medici che prestino regolare servizio in un reparto neurologico per i quali potra' essere ridotto a non meno di mesi 4.
+
+Esami obbligatori per il passaggio all'anno successivo.
+
+Ammissione per titoli ed esame.
+
+Per gli specialisti in neurologia, neuropsichiatria infantile potra' esservi abbuono di due anni.
+
+Un anno di abbuono per gli specialisti in altre materie - affini (psicologia, medicina generale, neurochirurgia).
+
+Tali abbuoni possono essere concessi solo dopo aver superato l'esame di ammissione.
+
+Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.
+
+Alla scuola di specializzazione in psichiatria possono essere ammessi venti iscritti per i quattro anni di corso.
+
+Scuola di specializzazione in neurologia
+
+Art. 186. - La scuola di specializzazione in neurologia ha la durata di quattro anni.
+
+Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+Anatomia e istologia del sistema nervoso;
+
+Fisiologia del s.n.;
+
+Biochimica del s.n.;
+
+Genetica (elementi);
+
+Psicologia generale;
+
+Psicopatologia;
+
+Semeiotica psichiatrica.
+
+2° Anno:
+
+Anatomia e istologia patologica del s.n.;
+
+Semeiotica neurologica;
+
+Patologia speciale diagnostica neurologica (1°);
+
+Neuroradiologia;
+
+Endocrinologia e neurologia vegetativa.
+
+3° Anno:
+
+Patologia speciale e diagnostica neurologica (2°);
+
+Clinica neurologica (1°);
+
+Elettroencefalografia;
+
+Elettromiografia, elettrodiagnostica ed elettroterapia;
+
+Neuro-oftalmologia;
+
+Neuro-otologia;
+
+Esami di laboratorio.
+
+4° Anno:
+
+Clinica neurologica e terapia (2);
+
+Neurochirurgia;
+
+Teoria e clinica della riabilitazione;
+
+Neuro-traumatologia anche sotto l'aspetto della medicina legale;
+
+Neurologia in rapporto alla patologia internistica.
+
+Art. 187. - Internato obbligatorio per l'intero anno scolastico nel secondo, terzo e quarto anno in clinica neurologica sede della scuola. Tale internato potra' essere ridotto a non meno di mesi quattro per anno per i medici che prestino regolare servizio in reparto neurologico.
+
+Internato obbligatorio per l'intero anno scolastico in psichiatria nel 1° anno.
+
+Tale internato potra' essere ridotto a non meno di mesi 6 per i medici che prestino servizio in reparto neurologico e a non meno di mesi 4 per coloro che prestino servizio in ospedale psichiatrico.
+
+Esami obbligatori per il passaggio all'anno successivo.
+
+Ammissione per titoli ed esame. Un abbuono di anni due puo' essere concesso agli specialisti in psichiatria, neuropsichiatria infantile e neurochirurgia.
+
+Un anno di abbuono per gli specialisti in altre materie affini, (medicina interna, otorinolaringoiatria, oculistica, radiologia).
+
+Gli abbuoni possono essere concessi solo superando un esame di ammissione.
+
+Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.
+
+Alla scuola di specializzazione in neurologia possono essere ammessi venti iscritti per i quattro anni di corso.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 28 agosto 1971
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: COLOMBO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 6 novembre 1971 Atti del Governo, registro n. 245, foglio - n. 13. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Dopo l'art. 353 sono aggiunti i seguenti articoli concernenti l'istituzione della scuola diretta a fini speciali per la preparazione di tecnici di audiometria, presso la facolta' di medicina e chirurgia:  
   
-Scuola di preparazione per tecnici di audiometria  
-(Scuola diretta a fini speciali)  
+L'art. 138, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Clinica delle malattie nervose e mentali" e' soppressa e sostituita con l'istituzione delle scuole di specializzazione in "Psichiatria" e in "Neurologia".  
+Gli articoli 184, 185, 186, 187 relativi alla "Scuola di specializzazione in clinica delle malattie nervose e mentali" sono abrogati e sostituiti dai seguenti:  
   
-Art. 354. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una scuola speciale di preparazione per tecnici di audiometria che ha sede presso la clinica otorinolaringoiatrica della Universita'.  
-Art. 355. - La durata del corso degli studi della scuola di preparazione per tecnici di audiometria e' di tre anni. L'indirizzo e' teorico-pratico. Il numero massimo degli iscritti alla scuola e' di quindici (cinque per anno di corso).  
-Art. 356. - Possono essere ammessi alla scuola coloro che siano in possesso del titolo di studio prescritto per l'ammissione all'Universita' o Istituto di istruzione universitaria.  
-Gli aspiranti debbono, nei termini regolamentari, presentare apposita domanda su carta legale diretta al rettore e corredata dei prescritti documenti e sostenere un esame di ammissione che avra' luogo nei giorni stabiliti dal rettore con apposito manifesto.  
-Le domande di iscrizione ad anni successivi al primo vanno presentate nei termini regolamentari.  
-Art. 357. - Alla scuola si accede previo esame di cultura generale su argomenti facenti parte dei normali programmi di licei o degli istituti di istruzione secondaria, con particolare riguardo alla parte dell'insegnamento di fisica acustica. La commissione giudicatrice viene nominata dal preside della facolta' di medicina e chirurgia ed e' composta dal direttore della scuola, presidente, e da due membri scelti fra professori di ruolo, incaricati e liberi docenti.  
-Art. 358. - Il direttore della scuola e' un professore di ruolo degli insegnamenti che afferiscono all'istituto policattedra clinica otorinolaringoiatrica dell'Universita' di Parma.  
-Gli incarichi di insegnamento sono conferiti dal rettore, su proposta del consiglio di facolta' di medicina e chirurgia udito il direttore della scuola.  
-Art. 359. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per la istruzione universitaria. La data di inizio e termine delle lezioni sono di regola eguali a quelle fissate per l'anno accademico. Tali date, tuttavia, possono essere spostate per ragioni speciali inerenti la natura dei corsi.  
-Art. 360. - Le materie di insegnamento sono le seguenti:  
+Scuola di specializzazione in psichiatria  
+  
+Art. 184. - La scuola di specializzazione in psichiatria ha la durata di quattro anni.  
+Le materie di insegnamento sono le seguenti:  
 1° Anno:  
-1) anatomia degli organi e dei sistemi audiofonoarticolatori;  
-2)fisiologia degli organi e dei sistemi audiofonoarticolatori;  
-3) elementi di fisica acustica e tecniche di fonometria;  
-4) psicologia generale;  
-5) elementi di audiologia;  
-6) elementi di fonetica e linguistica.  
-2° Anno:  
-1) tecniche audiometriche I;  
-2) Audiometria infantile;  
-3) neuropsichiatria infantile;  
-4) tecnica di esplorazione vestibolare;  
-5) audiometria di massa e prevenzione della sordita'.  
+Anatomia e istologia del sistema nervoso;  
+Fisiologia del s.n.;  
+Biochimica del s.n.;  
+Genetica (elementi);  
+Psicologia generale;  
+Psicopatologia (1°);  
+Semeiotica psichiatrica.  
+2° Anno: (internato in neurologia):  
+Anatomia e istologia patologica del s.n.;  
+Semeiotica neurologica;  
+Patologia speciale e diagnostica neurologica;  
+Neuro-radiologia;  
+Endocrinologia e neurologia vegetativa;  
+Elettroencefalografia.  
 3° Anno:  
-1) tecniche audiometriche II;  
-2) patologia dell'udito, del linguaggio e dell'organo dell'equilibrio;  
-3) tecniche di protesizzazione acustica;  
-4) tecniche di audiometria obiettiva;  
-5) elementi di logopedia.  
-Art. 361. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo per gli allievi della frequenza per un periodo di due anni nel reparto di audiologia della clinica otorinolaringoiatrica.  
-La frequenza viene comprovata dall'attestazione rilasciata dagli insegnanti sul libretto di iscrizione.  
-L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.  
-Art. 362. - Le commissioni per gli esami di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia, su proposta del direttore della scuola.  
-Le commissioni per gli esami di profitto sono composte di tre membri: il direttore della scuola, presidente, e da due insegnanti della scuola stessa.  
-La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro insegnanti della scuola stessa o da altri docenti.  
-Ogni commissario ha a sua disposizione dieci punti.  
-L'esame di diploma consiste, a scelta del candidato, o nella discussione di una tesi scritta su argomento riguardante le materie d'insegnamento, eventualmente integrata da una prova pratica stabilita dalla commissione esaminatrice, o in un esame generale teorico-pratico.  
-I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola, ma, se al secondo anno non sia loro riconosciuta la idoneita', sono senz'altro esclusi da ulteriori prove.  
-Agli allievi che superano l'esame finale viene rilasciato il diploma di tecnico in audiometria.  
-Art. 363. - Per essere ammessi a frequentare gli anni di corso successivi al primo, gli iscritti debbono aver superato gli esami dell'anno precedente. Alla fine del terzo anno di corso, per essere ammessi all'esame di diploma, gli iscritti debbono aver superato tutti gli esami prescritti.  
-Art. 364. - Gli esami di profitto e di diploma si danno in due sessioni, la prima, estiva, ha inizio subito dopo la chiusura annuale dei corsi e la seconda, autunnale, un mese innanzi il principio del nuovo anno accademico.  
-Art. 365. - Il consiglio di amministrazione dell'Universita', su proposta della direzione della scuola, approvata dal consiglio di facolta', stabilira' di anno in anno l'ammontare dei contributi.  
-Le tasse e soprattasse annuali a carico degli iscritti restano cosi' destinate:  
+Patologia speciale psichiatrica;  
+Psicopatologia (2°);  
+Clinica psichiatrica (1°);  
+Psicologia clinica e psicodiagnostica;  
+Psico-farmacologia;  
+Psichiatria in rapporto con la patologia internistica;  
+Esami di laboratorio.  
+4° Anno:  
+Clinica psichiatrica (2°);  
+Terapia psichiatrica generale;  
+Psicoterapia;  
+Neuropsichiatria infantile;  
+Psichiatria forense e legislazione psichiatrica;  
+Psichiatria sociale (del lavoro, scolastica, igiene e profilassi mentale).  
+Art. 185. - Internato obbligatorio per l'intero anno scolastico per il 1°, 3° e 4° anno in clinica psichiatrica, sede della scuola.  
+Tale internato potra': essere ridotto a non meno di 4 mesi all'anno per i medici che prestino servizio regolare in ospedale psichiatrico.  
+L'internato e' obbligatorio per il 20 anno in neurologia (sede della scuola) per l'intero anno scolastico salvo per i medici che prestino regolare servizio in ospedale psichiatrico per i quali potra' essere ridotto a non meno di mesi 6, e per i medici che prestino regolare servizio in un reparto neurologico per i quali potra' essere ridotto a non meno di mesi 4.  
+Esami obbligatori per il passaggio all'anno successivo.  
+Ammissione per titoli ed esame.  
+Per gli specialisti in neurologia, neuropsichiatria infantile potra' esservi abbuono di due anni.  
+Un anno di abbuono per gli specialisti in altre materie - affini (psicologia, medicina generale, neurochirurgia).  
+Tali abbuoni possono essere concessi solo dopo aver superato l'esame di ammissione.  
+Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.  
+Alla scuola di specializzazione in psichiatria possono essere ammessi venti iscritti per i quattro anni di corso.  
   
-tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 10.000 soprattassa annuale di esami . . . . . . . . . . . . . . . . L. 5.000 tassa erariale di diploma. . . . . . . . . . . . . . . . . . L. 6.000 tassa annuale di iscrizione per studenti fuori corso . . . . L. 3.000   
-Art. 366. - Al funzionamento della suddetta scuola si provvede con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni o contributi di enti pubblici o di privati.  
+Scuola di specializzazione in neurologia  
+  
+Art. 186. - La scuola di specializzazione in neurologia ha la durata di quattro anni.  
+Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+Anatomia e istologia del sistema nervoso;  
+Fisiologia del s.n.;  
+Biochimica del s.n.;  
+Genetica (elementi);  
+Psicologia generale;  
+Psicopatologia;  
+Semeiotica psichiatrica.  
+2° Anno:  
+Anatomia e istologia patologica del s.n.;  
+Semeiotica neurologica;  
+Patologia speciale diagnostica neurologica (1°);  
+Neuroradiologia;  
+Endocrinologia e neurologia vegetativa.  
+3° Anno:  
+Patologia speciale e diagnostica neurologica (2°);  
+Clinica neurologica (1°);  
+Elettroencefalografia;  
+Elettromiografia, elettrodiagnostica ed elettroterapia;  
+Neuro-oftalmologia;  
+Neuro-otologia;  
+Esami di laboratorio.  
+4° Anno:  
+Clinica neurologica e terapia (2);  
+Neurochirurgia;  
+Teoria e clinica della riabilitazione;  
+Neuro-traumatologia anche sotto l'aspetto della medicina legale;  
+Neurologia in rapporto alla patologia internistica.  
+Art. 187. - Internato obbligatorio per l'intero anno scolastico nel secondo, terzo e quarto anno in clinica neurologica sede della scuola. Tale internato potra' essere ridotto a non meno di mesi quattro per anno per i medici che prestino regolare servizio in reparto neurologico.  
+Internato obbligatorio per l'intero anno scolastico in psichiatria nel 1° anno.  
+Tale internato potra' essere ridotto a non meno di mesi 6 per i medici che prestino servizio in reparto neurologico e a non meno di mesi 4 per coloro che prestino servizio in ospedale psichiatrico.  
+Esami obbligatori per il passaggio all'anno successivo.  
+Ammissione per titoli ed esame. Un abbuono di anni due puo' essere concesso agli specialisti in psichiatria, neuropsichiatria infantile e neurochirurgia.  
+Un anno di abbuono per gli specialisti in altre materie affini, (medicina interna, otorinolaringoiatria, oculistica, radiologia).  
+Gli abbuoni possono essere concessi solo superando un esame di ammissione.  
+Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.  
+Alla scuola di specializzazione in neurologia possono essere ammessi venti iscritti per i quattro anni di corso.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 settembre 1979
+### Dato a Roma, addi' 28 agosto 1971
 
-PERTINI VALITUTTI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 16 gennaio 1980
+Registrato alla Corte dei conti, addi' 6 novembre 1971
 
-Registro n. 2 Istruzione, foglio n. 98
+Atti del Governo, registro n. 245, foglio - n. 13. - CARUSO

@@ -1,258 +1,59 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 785
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 dicembre 1950 n. 1314
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 785
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 dicembre 1950 n. 1314
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario, nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Art. 57 - all'elenco degli insegnamenti complementari del corso di laurea in chimica sono aggiunti i seguenti insegnamenti:  
-Per l'indirizzo organico-biologico:  
-metodi fisici in chimica organica;  
-chimica e tecnologia delle sostanze coloranti;  
-complementi di chimica organica;  
-stereochimica organica;  
-esercitazioni di tecniche e sintesi speciali organiche;  
-cristallochimica;  
-chemiometria;  
-didattica della chimica;  
-epistemologia;  
-chimica analitica clinica;  
-chimica dell'ambiente;  
-catalisi;  
-termodinamica dei processi irreversibili;  
-spettroscopia molecolare;  
-fotochimica;  
-cinetica chimica.  
-Per l'indirizzo inorganico-chimico-fisico:  
-complementi di chimica inorganica;  
-chimica fisica delle interfasi;  
-complementi di chimica fisica;  
-termodinamica statistica;  
-cristallochimica;  
-chemiometria;  
-didattica della chimica;  
-epistemologia;  
-chimica analitica clinica;  
-chimica dell'ambiente;  
-teoria degli elettroliti;  
-chimica fisica dello stato solido;  
-catalisi;  
-termodinamica dei processi irreversibili;  
-fotochimica;  
-spettroscopia molecolare.  
-L'art. 59, relativo al corso di laurea in matematica, a partire dalla lettera b) inclusa, e' soppresso e sostituito come segue:  
-b) Sono insegnamenti fondamentali obbligatori, comuni a tutti e tre gli indirizzi per il III anno:  
-1) istituzioni di geometria superiore;  
-2) istituzioni di analisi superiore;  
-3) istituzioni di fisica matematica.  
-c) Nel secondo biennio, oltre gli insegnamenti 1), 2) e 3) della lettera comune ai tre indirizzi, debbono essere seguiti altri quattro insegnamenti, di cui uno al III anno e gli altri tre al IV.  
-Di questi quattro insegnamenti, due sono fondamentali obbligatori, e due complementari a scelta dello studente.  
-I due insegnamenti fondamentali sono per ciascun indirizzo i seguenti:  
-Per l'indirizzo generale:  
-4) analisi superiore;  
-5) algebra superiore.  
-Per l'indirizzo didattico:  
-4) matematiche complementari (con esercitazioni);  
-5) complementi di geometria e algebra.  
-Per l'indirizzo applicativo:  
-4) calcolo delle probabilita';  
-5) fisica matematica.  
-Per l'indirizzo generale:  
-Primo gruppo:  
-meccanica superiore;  
-meccanica dei continui;  
-teoria delle onde;  
-teorie relativistiche;  
-magnetofluidodinamica;  
-fisica teorica;  
-teoria dei campi;  
-fisica superiore.  
-Secondo gruppo:  
-geometria algebrica;  
-complementi di geometria e algebra;  
-teoria dei gruppi;  
-teoria delle funzioni;  
-topologia;  
-geometria superiore;  
-teoria dei numeri;  
-equazioni differenziali.  
-Per l'indirizzo didattico:  
-Primo gruppo:  
-istituzioni di meccanica superiore;  
-meccanica dei continui;  
-fluidodinamica;  
-elettrodinamica;  
-termodinamica;  
-complementi di fisica generale;  
-istituzioni di fisica teorica;  
-preparazione di esperienze didattiche;  
-istituzioni di meccanica quantistica;  
-fisica nucleare;  
-fisica delle particelle elementari.  
-Secondo gruppo:  
-critica dei principi;  
-didattica della matematica;  
-teoria delle funzioni di variabili reali;  
-geometria differenziale;  
-logica matematica;  
-storia delle matematiche;  
-matematiche elementari da un punto di vista superiore;  
-analisi funzionale;  
-matematica finanziaria e attuariale;  
-algebra superiore;  
-calcolo delle probabilita';  
-analisi superiore;  
-complementi di matematica;  
-algebra superiore;  
-teoria delle funzioni.  
-Per l'indirizzo applicativo:  
-Primo gruppo:  
-teoria dei sistemi dinamici;  
-modelli matematici per l'economia;  
-astronomia;  
-geodesia;  
-metodi matematici della fisica;  
-meccanica statistica;  
-biomatematica;  
-fisica dei solidi.  
-Secondo gruppo:  
-teoria e applicazione delle macchine calcolatrici;  
-cibernetica;  
-teoria degli algoritmi e calcolabilita';  
-linguaggi formali e compilatori;  
-metodi per il trattamento dell'informazione;  
-documentazione automatica;  
-statistica matematica;  
-calcolo numerico;  
-analisi numerica;  
-biomatematica;  
-programmazione;  
-processi aleatori e teoria matematica delle file di attesa.  
-Art. 60 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono inseriti i seguenti insegnamenti:  
-entomologia generale;  
-geomorfologia;  
-ecofisiologia vegetale;  
-didattica naturalistica e biologica;  
-conservazione e protezione della natura;  
-etologia ed ecologia animale;  
-geobotanica;  
-esercitazioni di matematiche;  
-analisi chimica strumentale;  
-zoologia applicata;  
-micologia;  
-biologia cellulare;  
-algologia.  
-Nel medesimo elenco sono soppressi i seguenti insegnamenti:  
-entomologia agraria;  
-zoocoltura (bachi, api, avi-coniglicoltura);  
-biologia delle razze umane.  
-Inoltre al testo del medesimo art. 60 e' aggiunto il seguente comma:  
-"Tutti gli insegnamenti sia fondamentali che complementari si intendono con esercitazioni".  
-Art. 61 - l'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche e' soppresso e sostituito come segue:  
-Sono insegnamenti complementari:  
-chimica fisica;  
-biologia generale;  
-antropologia;  
-idrobiologia e pescicoltura;  
-microbiologia;  
-parassitologia;  
-fisiologia vegetale;  
-paleontologia;  
-statistica;  
-biofisica;  
-embriologia chimica;  
-entomologia;  
-fisiologia dello sviluppo;  
-genetica umana;  
-radiobiologia;  
-farmacologia;  
-biologia molecolare;  
-neurologia comparata;  
-citologia;  
-genetica dei microrganismi;  
-ecologia;  
-biochimica fisica;  
-biologia cellulare;  
-elettrofisiologia;  
-genetica molecolare;  
-immunologia;  
-neurobiologia;  
-virologia;  
-biochimica applicata;  
-citogenetica;  
-endocrinologia comparata;  
-genetica applicata;  
-genetica di popolazioni;  
-patologia generale;  
-anatomia vegetale;  
-biologia marina;  
-biologia vegetale applicata;  
-ecologia vegetale;  
-embriologia comparata;  
-etologia;  
-fisiologia comparata;  
-zoologia dei vertebrati.  
-Art. 62 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono inseriti i seguenti insegnamenti:  
-geochimica degli isotopi;  
-petrografia del sedimentario;  
-petrologia;  
-sismologia;  
-biostratigrafia e paleoecologia;  
-geologia stratigrafica;  
-geomorfologia applicata;  
-geotermia.  
-Nel medesimo elenco sono soppressi i seguenti insegnamenti:  
-chimica organica;  
-astronomia;  
-geodesia;  
-antropologia;  
-analisi matematica (algebra ed infinitesimale) biennale;  
-meccanica razionale con elementi di statistica grafica e disegno; geometria analitica con elementi di proiettiva.  
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regi decreti 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2240); [31 ottobre 1929, n. 2477](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1929-10-31;2477); [30 ottobre 1930, numero 1844](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1844); [1 ottobre 1931, n. 1379](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1379); [20 ottobre 1932, n. 1806](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-20;1806); [26 ottobre 1933, n. 1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1933-10-26;1991); [6 dicembre 1934, n. 2430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2430); [10 ottobre 1936, n. 2449](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-10;2449); [23 giugno 1939, n. 1167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-06-23;1167); [27 aprile 1942, n. 485](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;485); [11 luglio 1942, n. 922](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-11;922);  
+[5 settembre 1942, n. 1429, e con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-09-05;1429) [13 luglio 1947, n. 826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-07-13;826); [31 dicembre 1947, n. 1870, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1870) [28 ottobre 1948, n. 1431](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-10-28;1431); [30 ottobre 1949, n. 1151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1151);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Palermo approvato e modificato con decreti sopraindicati, e cosi' ulteriormente modificato:  
+Attuale art. 58. - Agli insegnamenti complementari del corso di laurea in ingegneria e' aggiunto quello di:  
+"Radiotecnica" (Sezione industriale).  
+Attuale art. 64. - E' sostituito dal seguente:  
+"Le precedenze per gli esami tra gli insegnamenti della Facolta' di ingegneria sono cosi' stabilite:  
+L'esame di scienza delle costruzioni deve precedere quelli di costruzione di macchine, di costruzioni in legno ferro e cemento armato, di costruzioni idrauliche e di ponti, di arte mineraria, di costruzioni stradali e ferroviarie, di costruzioni aeronautiche.  
+L'esame di meccanica applicata alle macchine deve precedere quelli di costruzioni di macchine, di disegno di macchine e progetti e di costruzioni di macchine elettriche.  
+L'esame di fisica tecnica deve precedere quelli di macchine, di idraulica, di aerodinamica e di arte mineraria.  
+L'esame di chimica applicata deve precedere quello di chimica industriale.  
+L'esame di architettura tecnica 1ª parte, deve precedere quello di architettura tecnica 2ª parte, e quello della 28 parte l'altro di architettura e composizione architettonica.  
+L'esame di idraulica, deve precedere quelli di costruzioni idrauliche e di impianti speciali idraulici.  
+L'esame di elettrotecnica deve precedere quelli di impianti industriali elettrici di costruzioni di macchine elettriche, di misure elettriche, di arte mineraria e di radiotecnica.  
+L'esame di costruzioni di macchine deve precedere quello di disegno di macchine e progetti.  
+L'esame di tecnologie generali deve precedere quello di tecnologie speciali e di impianti industriali meccanici.  
+L'esame di macchine deve precedere quelli di disegno di macchine e progetti di arte mineraria.  
+L'esame di aerodinamica deve precedere quello di costruzioni aeronautiche.  
+Attuale art. 67. - E' sostituito dal seguente:  
+Per chi, avendo conseguito una delle lauree rilasciate dalla Facolta' di ingegneria, aspiri al conseguimento di un'altra laurea, si concede la iscrizione al quinto anno di corso.  
+Per coloro che avendo conseguito la laurea in matematica o in fisica, o in fisica e matematica, rilasciata dalla Facolta' di scienze aspirano al conseguimento di una, laurea della Facolta' di ingegneria, purche' abbiano durante il precedente corso di studi seguito i corsi e superato gli esami in tutti gli insegnamenti del biennio propedeutico, si concede l'iscrizione al 4° anno di corso.  
+Con provvedimento del rettore, su proposta della Facolta', vengono stabilite le materie fondamentali ed il numero di quelle complementari che il richiedente dovra' frequentare e di cui dovra' superare gli esami per potere adire alla nuova laurea.  
   
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 marzo 1984
+### Dato a Roma, addi' 16 dicembre 1950
 
-PERTINI FALCUCCI
+EINAUDI GONELLA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: PICCIONI
 
-Registrato alla Corte dei conti, addi' 12 novembre 1984
+Registrato alla Corte dei conti, addi' 30 ottobre 1951
 
-Registro n. 69 Istruzione, foglio n. 121
+Atti del Governo, registro n. 45, foglio n. 51. - FRASCA

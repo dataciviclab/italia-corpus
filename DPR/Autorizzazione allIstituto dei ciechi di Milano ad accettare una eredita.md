@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1986 n. 126
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 dicembre 1948 n. 1551
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1986 n. 126
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 dicembre 1948 n. 1551
+================================================================
 
 Autorizzazione all'Istituto dei ciechi di Milano ad accettare una eredita'.
 ---------------------------------------------------------------------------
@@ -10,10 +10,9 @@ Autorizzazione all'Istituto dei ciechi di Milano ad accettare una eredita'.
 Art. 1
 ------
 
-n.
+N.
 
-126. Decreto del Presidente della Repubblica 7 febbraio 1986, col quale, sulla proposta del Ministro della pubblica istruzione, l'istituto dei ciechi di Milano viene autorizzato ad accettare, con beneficio d'inventario, l'eredita', consistente in un appartamento sito in Milano, via Podgori, 6, beni mobili, arredi, oggetti vari, banconote, titoli di credito del valore complessivo di L. 330.790.920, disposta dalla sig.ra Amelia Rognoni ved. Bareggi con testamento olografo 30 giugno 1975, pubblicato in data 8 ottobre 1980, n. 9301/762 di repertorio, a rogito dott.ssa Silvia D'Alonzo, notaio in Milano, registrato a Milano in data 28 ottobre 1980 al n. 42562.  
+1551. Decreto del Presidente della Repubblica 10 dicembre 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto dei ciechi di Milano viene autorizzato ad accettare l'eredita' disposta in suo favore dalla defunta signora Gaetana Negri fu Francesco ved. Vacchelli, detta Nina, con testamento olografo in data 19 marzo 1943.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 7 aprile 1986  
-Registro n. 24 Istruzione, foglio n. 65
+Visto, il Guardasigilli: GRASSI  
+Registrato alla Corte dei conti, addi' 13 gennaio 1949

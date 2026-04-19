@@ -1,95 +1,148 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1023
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 902
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1023
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 902
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Camerino.
 --------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Camerino, approvato con [decreto del Presidente della Repubblica 1° novembre 1959, n. 1388](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-11-01;1388) e modificato con [decreto del Presidente della Repubblica 18 agosto 1962, n. 1392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-08-18;1392), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Camerino e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Camerino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Visto lo statuto dell'Universita' degli studi di Camerino, approvato con [decreto del Presidente della Repubblica 1 novembre 1959, n. 1388](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-11-01;1388) e modificato con [decreto del Presidente della Repubblica 18 agosto 1962, n. 1392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-08-18;1392) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Gli articoli da 58 a 66, relativi alla scuola di specializzazione in "analisi chimico-cliniche" che muta la denominazione in quella di "analisi chimico-cliniche e microbiologia", sono abrogati e sostituiti dai seguenti:   
+Decreta:  
   
-Scuola di specializzazione in analisi chimico-cliniche e microbiologia   
+Lo statuto dell'Universita' degli studi di Camerino, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso.  
+L'art. 25 e' abrogato e sostituito dal seguente: "La facolta' di scienze matematiche, fisiche e naturali conferisce le seguenti lauree:  
+in chimica;  
+in matematica;  
+in scienze naturali;  
+in scienze biologiche".  
+Art. 26 - All'elenco degli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali sono aggiunti quelli di:  
+"Istologia ed embriologia";  
+"Microbiologia";  
+"Fisica";  
+"Matematica".  
+La denominazione dell'istituto di chimica generale ed inorganica e' mutata in quella di istituto chimico.  
+L'istituto di fisica e matematica e' soppresso.  
+Dopo l'art. 28 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli, relativi alla istituzione del corso di laurea in matematica (indirizzo didattico).  
   
-Art. 58. - E' istituita presso l'Universita' di Camerino la scuola di specializzazione in analisi chimico-cliniche e microbiologia, con l'intento di assicurare ai laureati in discipline chimico-biologiche e mediche la possibilita' di una specializzazione nelle materie necessarie ad esercitare la propria attivita' in un laboratorio di analisi cliniche.   
-Art. 59. - La scuola rilascia il diploma di specializzazione in analisi chimico-cliniche e microbiologia al termine del corso di studi che ha durata triennale.   
-Art. 60. - Alla scuola di specializzazione possono iscriversi i laureati in scienze biologiche, in chimica, in medicina e chirurgia, in farmacia e in chimica e tecnologia farmaceutiche, che abbiano sostenuto nei rispettivi corsi di laurea almeno quattro dei seguenti esami:   
-1) chimica biologica;   
-2) fisiologia generale o fisiologia umana;   
-3) anatomia umana o istologia o istologia e embriologia;   
-4) esercitazioni di analisi chimica qualitativa o analisi chimica farmaceutica I (analisi qualitativa) o esercitazioni di chimica farmaceutica e tossicologia I;   
-5) esercitazioni di analisi chimica quantitativa o analisi chimica farmaceutica II (analisi quantitativa) o esercitazioni di chimica farmaceutica e tossicologica II;   
-6) igiene o microbiologia o microbiologia e igiene;   
-7) chimica analitica;   
-8) chimica fisica.   
-Art. 61. - Gli insegnamenti della scuola sono i seguenti:   
-1° Anno:   
-1) elementi di calcolo statistico;   
-2) biochimica clinica;   
-3) istologia con tecniche istologiche e istochimiche;   
-4) patologia generale con elementi di anatomia patologica;   
-5) chimica clinica I (analisi chimica qualitativa e strumentale);   
-6) batteriologia con analisi batteriologiche.   
-2° Anno:   
-1) chimica clinica II (analisi chimica quantitativa e strumentale);   
-2) analisi chimico-cliniche I;   
-3) immunologia e tecniche immunologiche;   
-4) tecniche di prelievi capillare e venoso;   
-5) organizzazione di laboratorio chimico-clinico.   
-3° Anno:   
-1) analisi chimico-cliniche II;   
-2) ematologia ed analisi ematologiche;   
-3) virologia e tecniche virologiche;   
-4) diagnostica micologica e parassitologica;   
-5) elementi di diritto e legislazione.   
-Al termine del corso di studio per il conseguimento del diploma di specialista in analisi chimico-cliniche e microbiologia il candidato dovra' superare l'esame di diploma consistente nella discussione di una dissertazione scritta di un argomento attinente alla specializzazione, approvata dal docente che ne ha assegnato il tema.   
-Art. 62. - La scuola e' organizzata dall'Universita' presso i laboratori degli istituti chimici, di istologia, chimica biologica, igiene, microbiologia e fisiologia generale, e i corsi sono svolti con la collaborazione di studiosi ed esperti invitati per la effettuazione di conferenze, seminari e dimostrazioni. La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima. Egli e' eletto dal consiglio direttivo costituito dai direttori degli istituti ai quali fanno capo i laboratori di cui sopra, e resta in carica per tre anni.   
-Art. 63. - Gli incarichi di insegnamento sono conferiti dal rettore su proposta del consiglio direttivo della scuola con l'approvazione del senato accademico e del consiglio di amministrazione dell'Universita'.   
-Art. 64. - Gli iscritti alla scuola sono tenuti a pagare, oltre alle tasse, soprattasse e contributi previsti dal regolamento universitario, un contributo di laboratorio che verra' stabilito di anno in anno secondo l'incidenza annuale mediata della spesa relativa ai laboratori stessi.   
-Art. 65. - Il numero massimo dei posti disponibili e' di sessanta per ogni anno di corso dei quali dieci riservati ai laureati in medicina e chirurgia. Iscrizioni in numero superiore possono essere ammesse eccezionalmente su parere favorevole del consiglio direttivo della scuola. L'ammissione alla scuola e' decisa dal consiglio direttivo sulla base di una valutazione dei titoli. La frequenza e' obbligatoria sia per i corsi che per i laboratori. Coloro che sono in possesso del diploma di specializzazione in analisi chimico-cliniche conseguito presso questa scuola, a far data dall'anno accademico 1983-84 potranno essere ammessi alla frequenza dei corsi e laboratori non compresi nel piano di studi del diploma di specializzazione gia' da essi conseguito.   
-Art. 66. - La scuola e' finanziata con le quote di iscrizione e i contributi di laboratorio, o attraverso contributi, lasciti o donazioni di enti o di privati. I fondi vanno comunque iscritti nel bilancio universitario.   
+LAUREA IN MATEMATICA  
   
-Il presente decreto, munito del sigillo di Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.   
+Art. 29 - Il corso di studi in matematica e' ad indirizzo didattico.  
+La durata del corso degli studi per la laurea in matematica e' di 4 anni.  
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica; il diploma di abilitazione per i provenienti dagli istituti tecnici industriali, agrari, nautici e per geometri.  
+Per il primo biennio sono insegnamenti fondamentali obbligatori i seguenti:  
+1° Anno:  
+1) Analisi matematica I;  
+2) Geometria I;  
+3) Algebra;  
+4) Fisica generale I;  
+2° Anno:  
+1) Analisi matematica II;  
+2) Geometria II;  
+3) Meccanica razionale;  
+4) Fisica generale II.  
+Per ciascuno degli insegnamenti elencati vi e' un esame finale.  
+Gli insegnamenti fondamentali sopra elencati sono accompagnati ciascuno da un corso di esercitazioni che ne e' parte integrante.  
+Nello svolgimento delle esercitazioni relative a quelle degli insegnamenti anzidetti che siano comuni con altri corsi di laurea dovra' tenersi conto delle diverse esigenze delle differenti categorie di studenti.  
+I corsi di "Analisi matematica" di "Geometria" di "Fisica generale" non debbono essere considerati come dei comuni corsi biennali; essi constano ciascuno di due parti annuali distinte, la prima propedeutica alla seconda e con due esami distinti; il primo propedeutico al secondo.  
+Potranno essere iscritti al secondo anno soltanto quegli studenti che abbiano superato almeno due degli esami di "Analisi matematica I", "Geometria I" "Algebra".  
+Sono insegnamenti fondamentali obbligatori per il 3° Anno:  
+1) Istituzioni di analisi superiore;  
+2) Istituzioni di geometria superiore;  
+3) Istituzioni di fisica matematica;  
+4) Matematica complementare I.  
+Per il 4° anno gli insegnamenti fondamentali sono:  
+1) Matematica complementare II.  
+Gli insegnamenti complementari a scelta dello studente sono nel numero di due, di cui uno almeno dovra' essere ad indirizzo fisico.  
+Gli insegnamenti complementari potranno essere scelti fra i seguenti:  
+1) Algebra superiore,  
+2) Analisi matematica algebrica ed infinitesimale (biennale),  
+3) Analisi funzionale,  
+4) Analisi superiore,  
+5) Astronomia,  
+6) Calcolo delle probabilita',  
+7) Calcoli numerici e grafici,  
+8) Chimica con esercitazioni di laboratorio,  
+9) Complementi di fisica generale,  
+10) Fisica superiore,  
+11) Fisica speciale,  
+12) Fisica spaziale,  
+13) Fisica teorica,  
+14) Geometria algebrica,  
+15) Geometria analitica con elementi di proiettiva,  
+16) Geometria differenziale,  
+17) Geometria superiore,  
+18) Matematica finanziaria ed attuariale,  
+19) Matematiche elementari da un punto di vista superiore,  
+20) Meccanica statistica,  
+21) Meccanica superiore,  
+22) Meccanica razionale con elementi di statica grafica,  
+23) Onde elettromagnetiche,  
+24) Relativita',  
+25) Statistica matematica,  
+26) Storia delle matematiche,  
+27) Storia della scienza,  
+28) Teoria delle funzioni,  
+29) Teoria dei numeri,  
+30) Teoria ed applicazioni delle macchine calcolatrici,  
+31) Topologia,  
+32) Astrofisica,  
+33) Cibernetica,  
+34) Tecnica della programmazione,  
+35) Teoria dei gruppi,  
+36) Teoria delle onde,  
+37) Termodinamica.  
+Per ciascuno degli insegnamenti, sia fondamentali che complementari del secondo biennio vi e' un esame finale; gli insegnamenti del predetto secondo biennio di durata biennale, sia fondamentali che complementari, comportano ciascuno due distinti esami, computati, per quanto riguarda quelli complementari, ai sensi e per gli effetti di cui al dodicesimo comma del presente articolo.  
+Gli insegnamenti complementari a scelta dello studente debbono essere seguiti nel quarto anno.  
+Art. 30 - L'esame di laurea comprende:  
+a) un esame di cultura che verte sulle seguenti materie:  
+1) Analisi matematica,  
+2) Geometria,  
+3) Algebra,  
+4) Fisica generale.  
+Tale esame deve essere sostenuto almeno due sessioni prima di quella scelta per la laurea;  
+b) discussione di un lavoro scritto;  
+c) discussione di una o piu' tesine di laurea.  
+Superato l'esame di laurea lo studente consegue il titolo di dottore in matematica indipendentemente dall'indirizzo didattico del quale verra' fatto menzione soltanto nella carriera scolastica.  
+Art. 31 (gia' 29) - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti quelli di:  
+32) Microbiologia,  
+33) Storia della scienza,  
+34) Petrografia.  
+Art. 33 (gia' 31) - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti quelli di:  
+31) Chimica delle fermentazioni e batteriologia industriale,  
+32) Radiobiologia,  
+33) Storia della scienza.  
+L'art. 35 (gia' 33) e' abrogato e sostituito dal seguente:  
   
-Dato a Roma, addi' 31 ottobre 1981   
+L'esame di laurea consiste:  
+a) nella discussione di una dissertazione scritta svolta sopra un argomento scelto liberamente dal candidato in uno degli insegnamenti fondamentali o complementari da lui scelti;  
+b) nelle esposizioni di due argomenti da discutersi oralmente, riferentesi a materie diverse da quelle inerenti alla dissertazione di laurea.  
+Per la laurea in chimica lo studente non dovra' discutere oralmente i due argomenti al punto b), ma dovra' sostenere un colloquio di cultura generale su argomenti di chimica inorganica, chimica organica, chimica fisica e chimica analitica.  
+Art. 37 (gia' 35) - La denominazione dell'istituto di igiene e microbiologia, annesso alla facolta' di farmacia, e' mutata in quella di igiene.  
   
-PERTINI   
-  
-BODRATO   
-  
-Visto, il Guardasigilli: DARIDA   
-Registrato alla Corte dei conti, addi' 22 febbraio 1982   
-Registro n. 28 Istruzione, foglio n. 86   
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e farlo osservare.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Dato a Roma, addi' 5 giugno 1968
+
+SARAGAT GUI
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 16 agosto 1968
+
+Atti del Governo, registro n. 222, foglio n. 72. - DI PRETORO

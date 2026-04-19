@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1978 n. 515
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1982 n. 101
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1978 n. 515
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1982 n. 101
+===============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un lascito.
 --------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-515. Decreto del Presidente della Repubblica 25 luglio 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare, col beneficio d'inventario, il lascito disposto a favore della sezione Lombardia occidentale dell'Unione italiana dei ciechi, dalla sig.ra Falchero Epuron Maria Teresa Caterina detta Maria con testamento olografo del 15 luglio 1971 pubblicato a rogito notaio dott. Ernesto Fermi in data 8 ottobre 1973, n. 17437 di repertorio e n. 7236 di raccolta, registrato a Milano in data 16 ottobre 1973, n. 17152, vol. A/2.F, consistente in beni mobili esistenti nell'appartamento di Milano, piazza Novelli 10, e da titoli e depositi bancari presso la Banca popolare di Milano, agenzia n. 8, per un valore complessivo di L. 27.624.453.  
+101. Decreto del Presidente della Repubblica 8 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il lascito, consistente in un appartamento sito in Milano, via Castelmorone n. 7, distinto nel nuovo catasto edilizio urbano alla partita 53025, foglio 355, mappale 439 sub 29, del valore attribuito di L. 3.300.000, ritenuto congruo dall'ufficio tecnico erariale di Milano, disposto dalla sig.ra Bernardi Alessandrina ved. Zanfrognini con testamento pubblico 5 luglio 1973, redatto a rogito dott. Gazzaniga Giuseppe, notaio in Milano, e dallo stesso pubblicato in data 8 aprile 1974, n. 810822 di repertorio e n. 8917 di raccolta, registrato a Milano il 10 aprile 1974 al n. 6860 serie D.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 30 agosto 1978  
-Registro n. 6 Presidenza, foglio n. 162
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 20 marzo 1982  
+Registro n. 3 Presidenza, foglio n. 54

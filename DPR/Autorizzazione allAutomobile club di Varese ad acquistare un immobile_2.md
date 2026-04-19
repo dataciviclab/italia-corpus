@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1982 n. 1086
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1985 n. 831
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1982 n. 1086
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1985 n. 831
+==============================================================
 
 Autorizzazione all'Automobile club di Varese ad acquistare un immobile.
 -----------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1086. Decreto del Presidente della Repubblica 11 ottobre 1982, col quale, sulla proposta del Ministro del turismo e dello spettacolo, l'Automobile club di Varese viene autorizzato ad acquistare dall'Immobiliare Forcora S.r.l., al prezzo complessivo di L. 60.000.000, una porzione immobiliare facente parte del fabbricato urbano sito in Luino (Varese), denominato "Condominio Puccini", con ingresso da via Rossini e costituita da un locale uso ufficio al piano terreno, distinto con l'interno lettera "B", denunciato al nuovo catasto edilizio urbano del comune di Luino il 26 novembre 1980 con scheda registrata al n. 394, da adibire a sede degli uffici della delegazione dell'ente stesso.  
+831. Decreto del Presidente della Repubblica 7 ottobre 1985, col quale, sulla proposta del Ministro del turismo e dello spettacolo, l'Automobile club di Varese viene autorizzato ad acquistare dall'Istituto autonomo bustese per le case popolari, al prezzo di L. 255.000.000, due quote del fabbricato sito in Busto Arsizio (Varese), via delle Caserme, 2, distinte nel nuovo catasto edilizio urbano del comune di Busto Arsizio con il mappale 211 rispettivamente sub 26 e sub 6, da destinare agli uffici della locale delegazione.   
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 10 febbraio 1983  
-Registro n. 2 Turismo, foglio n. 272
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 31 dicembre 1985   
+Registro n. 6 Turismo, foglio n. 350

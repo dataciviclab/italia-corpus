@@ -1,13 +1,13 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 gennaio 1994 n. 27
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1979 n. 96
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 gennaio 1994 n. 27
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1979 n. 96
+============================================================
 
 Scioglimento della Camera dei deputati e del Senato della Repubblica.
 ---------------------------------------------------------------------
 
-Entrata in vigore del decreto: 17/1/1994.
+Entrata in vigore del provvedimento: 4/4/1979.
 
 Art. 1
 ------
@@ -20,14 +20,13 @@ Sentiti i Presidenti della Camera dei deputati e del Senato della Repubblica;
 Decreta:   
   
 La Camera dei deputati e il Senato della Repubblica sono sciolti.   
+  
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 gennaio 1994
+### Dato a Roma, addi' 2 aprile 1979
 
-SCALFARO
+PERTINI ANDREOTTI
 
-CIAMPI, Presidente del Consiglio dei Ministri
-
-Visto, il Guardasigilli: CONSO
+Visto, il Guardasigilli: MORLINO

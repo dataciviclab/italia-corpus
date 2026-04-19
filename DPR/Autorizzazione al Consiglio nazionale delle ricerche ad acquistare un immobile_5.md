@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1981 n. 124
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1982 n. 810
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1981 n. 124
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1982 n. 810
+================================================================
 
 Autorizzazione al Consiglio nazionale delle ricerche ad acquistare un immobile.
 -------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-124. Decreto del Presidente della Repubblica 16 febbraio 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, il Consiglio nazionale delle ricerche viene autorizzato ad acquistare, al complessivo convenuto prezzo di L. 1.580.000.000, dalla societa' Megen S.p.a., come da atto preliminare 20 dicembre 1978, n. 72045, di repertorio, a rogito dott. Vincenzo Colapietro, notaio in Roma, un fabbricato sito in Roma, viale del Policlinico n. 137, costituito da un piano interrato, piano terreno, quattro piani in elevazione e da un piano mansarda, per una area coperta di mq 1464, da destinare a sede di propri organi di ricerca.  
+810. Decreto del Presidente della Repubblica 10 settembre 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, il Consiglio nazionale delle ricerche viene autorizzato ad acquistare dai signori Angelo, Giuseppe, Rosalia, Vittoria e Guido Lamberti, come da atto preliminare di vendita 15 luglio 1981, redatto a rogito dott. Giuseppe Ramondelli, notaio in Roma, al complessivo convenuto prezzo di lire 850.000.000, un complesso immobiliare sito in Napoli, via Gramsci, 5 (gia' viale Elena n. 5), consistente in un appartamento composto di 16,5 vani catastali per una superficie totale di mq 606 circa, di un vano cantina e di un locale sottotetto, distinto nel nuovo catasto edilizio urbano alla partita 31901, sezione CHI, foglio 19, particella 160 sub 16, da destinare a sede di propri organi di ricerca.  
   
-Visto, il Guardasigilli: SARTI  
-Registrato alla Corte dei conti, addi' 6 aprile 1981  
-Registro n. 3 Presidenza, foglio n. 62
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 28 ottobre 1982  
+Registro n. 9 Presidenza, foglio n. 373

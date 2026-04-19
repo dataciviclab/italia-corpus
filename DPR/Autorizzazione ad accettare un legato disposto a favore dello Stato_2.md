@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1984 n. 189
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1980 n. 976
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1984 n. 189
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1980 n. 976
+==============================================================
 
 Autorizzazione ad accettare un legato disposto a favore dello Stato.
 --------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-189. Decreto del Presidente della Repubblica 9 aprile 1984, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione del legato, consistente nella villa Boncompagni, sita in Roma, alla via Boncompagni n. 18, con giardino e terreno adiacente e le costruzioni ivi erette, con tutto l'arredamento del piano rialzato di detta villa, disposto a favore dello Stato dalla sig.ra Alice Blanceflor De Bildt, vedova Gancia e gia' vedova Boncompagni Ludovisi, con testamento olografo 22 gennaio 1970, pubblicato in data 15 giugno 1972, n. 749250 di repertorio, a rogito dott. Nazzareno Dobici, notaio in Roma, registrato a Roma in data 7 luglio 1972 al n. 29156.   
+976. Decreto del Presidente della Repubblica 24 ottobre 1980, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato del legato disposto dalla sig.ra Olga Ferroni ved. Chiarini con testamento olografo 14 dicembre 1972, pubblicato con atto 4 marzo 1977, n. 44077 di repertorio, a rogito dott. Alessandro Gallerani, notaio in Bologna, consistente in una raccolta di quindici quadri di autori celebri delle scuole italiane, i quali rivestono un importante interesse artistico e storico, da destinare alla Pinacoteca nazionale di Bologna.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 22 maggio 1984   
-Registro n. 31 Finanze, foglio n. 81
+Visto, il Guardasigilli: SARTI  
+Registrato alla Corte dei conti, addi' 27 dicembre 1980  
+Registro n. 23 Beni culturali, foglio n. 206

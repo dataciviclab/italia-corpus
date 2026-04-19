@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1971 n. 615
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 settembre 1962 n. 1541
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1971 n. 615
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 settembre 1962 n. 1541
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -10,17 +10,17 @@ Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 13 ottobre 1927, numero 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e modificato con [regio decreto 30 ottobre 1930, n. 1826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1826), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, numero 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935; n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 11 aprile 1953 n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -32,150 +32,78 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 58: all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:
+Art. 20. - Agli insegnanti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di:
 
-Etnomusicologia;
+21) Storia dei partiti e dei movimenti politici;
 
-Storia della musica;
+22) Organizzazione internazionale.
 
-Archivistica;
+Art. 67. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di:
 
-Biblioteconomia e bibliografia;
+24) Radiobiologia.
 
-Archeologia medioevale;
+Dopo l'art. 134, sono aggiunti i seguenti nuovi articoli, relativi alla creazione di un Seminario di architettura annesso alla Facolta' di architettura, con il conseguente spostamento della numerazione degli articoli successivi.
 
-Storia delle dottrine politiche;
+Art. 135. - Alla Facolta' di architettura e' annesso un Seminario di architettura.
 
-Filosofia del linguaggio;
+Il Seminario ha la sua sede nei locali della Facolta' di architettura.
 
-Psicologia del linguaggio;
+Art. 136. - Il Seminario si propone i seguenti scopi:
 
-Fonetica generale e sperimentale;
+a) dirigere ed assistere i giovani che intendono dedicarsi allo studio dell'architettura;
 
-Lingua e letteratura catalana;
+b) svolgere in genere ogni attivita' rivolta al progresso dell'architettura e degli studi relativi.
 
-Geografia umana;
+Art. 137 - Il Seminario svolge la sua attivita' come appresso:
 
-Geografia regionale;
+a) conferenze tenute dai professori e da assistenti della Facolta' o di altri Istituti di istruzione superiore o da, chiunque sia interessato ai problemi dell'architettura, su questioni di critica storica, di metodologia e di evoluzione dell'architettura;
 
-Geografia politica ed economica;
+b) conferenze tenute da studenti con la guida di professori della Facolta';
 
-Storia dell'arte greca e romana;
+c) discussioni, comunicazioni scientifiche, riassunti generali o particolari di moderne ricerche.
 
-Storia del movimento sindacale;
+Art. 138. - Possono prendere parte al Seminario:
 
-Lingua e letteratura giapponese;
+a) i professori e gli assistenti della Facolta' di architettura e gli accademici dell'Accademia fiorentina delle arti del disegno;
 
-Filologia slava.
+b) i laureati in architettura presso la Facolta' di architettura di Firenze;
 
-Art. 59: all'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti quelli di:
+c) gli studenti iscritti alla Facolta';
 
-Etnomusicologia;
+d) tutti coloro che ai interessano allo studio dell'architettura e che abbiano ottenuto il motivato consenso del direttore.
 
-Didattica dell'insegnamento delle lingue moderne;
+Art. 139. - La direzione e la vigilanza del Seminario e' affidata a professori ordinari, straordinari e fuori ruolo della Facolta', uno dei quali viene scelto dal Consiglio di facolta' per la durata di un biennio, come direttore: questi e' coadiuvato da un Comitato consultivo, nominato dal Consiglio di facolta' entro le categorie a) e b) dell'articolo precedente.
 
-Psicologia del linguaggio;
+Art. 140. - Le conferenze del Seminario di particolare interesse possono essere raccolte e pubblicate.
 
-Storia della filosofia moderna e contemporanea;
-
-Teoria e tecnica delle comunicazioni di massa;
-
-Psicologia dell'apprendimento;
-
-Storia della scuola e delle istituzioni scolastiche;
-
-Psicodiagnostica;
-
-Psicologia sperimentale;
-
-Pedagogia comparata;
-
-Ortopedagogia;
-
-Letteratura per l'infanzia;
-
-Pedagogia sperimentale.
-
-Art. 60: all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:
-
-Filologia inglese;
-
-Filosofia del linguaggio;
-
-Didattica dell'insegnamento delle lingue moderne;
-
-Psicologia del linguaggio;
-
-Fonetica generale e sperimentale;
-
-Lingua e letteratura catalana;
-
-Filologia slava;
-
-Lingua e letteratura giapponese.
-
-Art. 78, relativo alle norme dell'esame di laurea in fisica e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente: "L'esame di laurea consiste nella discussione di una tesi scritta alla quale non si richiede necessariamente il carattere di ricerca originale".
-
-Art. 79, relativo alle norme dell'esame di laurea del corso di studi in matematica e' modificato nel senso che la lettera c) e' abrogata e sostituita nel modo seguente:
-
-"c) della discussione di una tesina preparata dallo studente su di un argomento attinente ad una disciplina diversa da quella cui si riferisce il lavoro scritto".
-
-L'ultimo comma e' abrogato e sostituito dal seguente:
-
-"La parte a) deve precedere le parti b) e c)".
-
-Art. 92, relativo alle norme dell'esame di laurea e' modificato nel senso che e' soppresso il seguente comma:
-
-"Il candidato alla laurea in chimica deve sostenere una prova pratica consistente in una analisi qualitativa, in una quantitativa ed in un saggio di riconoscimento di sostanze organiche".
-
-Art. 115, relativo alle modalita' per gli esami di laurea in farmacia e' abrogato e sostituito dal seguente:
-
-"L'esame di laurea in farmacia consiste in una prova pratica e in un esame orale. La prova pratica verte sopra una preparazione di tecnica farmaceutica relativa all'esercizio della professione in farmacia, con riconoscimento e controllo di qualita' delle sostanze impiegate nella preparazione.
-
-Il candidato deve presentare almeno 15 giorni prima dell'esame di laurea dissertazione scritta, preferibilmente di carattere sperimentale, su argomento da lui scelto ed approvato dal professore della materia cui si riferisce.
-
-L'esame orale comprende la discussione della dissertazione e della prova pratica ed un esame professionale nel quale il candidato deve dimostrare la sua conoscenza sui medicamenti contenuti nella farmacopea ufficiale, sulla ricettazione e su quelle parti della legislazione sanitaria che hanno attinenza con la farmacia".
-
-Art. 283, relativo alla scuola per terapisti della riabilitazione (scuola diretta a fini speciali) e' modificato nel senso che la lettera c) e' abrogata e sostituita dalla seguente:
-
-"c) quietanza comprovante il pagamento delle tasse, soprattasse e contributi prescritti (immatricolazione 5.000, tassa annuale di iscrizione 18.000, soprattassa annuale di esame 7.000, contributo di riscaldamento 2.000, libretto 1.000, contributo di laboratorio 80.000, contributo studenti 1.000".
-
-Art. 284, relativo alla predetta scuola e' abrogate e sostituito dal seguente: "Per ottenere il rilascio del diploma, gli interessati dovranno presentare:
-
-a) domanda diretta al rettore in carta bollata;
-
-b) quietanza comprovante il pagamento di L. 3.000 per soprattassa esame di diploma;
-
-c) quietanza comprovante il pagamento della tassa erariale di diploma di L. 6.000;
-
-d) quietanza comprovante il pagamento per stampa diploma".
+Art. 141. - Il rettore puo' rilasciare a coloro che ne facciano domanda un certificato comprovante il contributo apportato ai lavori del Seminario, conforme le modalita' del regolamento interno.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 11 giugno 1971
+Dato a Roma, addi' 17 settembre 1962
 
-SARAGAT
+SEGNI
 
-MISASI
+GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: BOSCO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 17 agosto 1971 Atti del Governo, registro n. 243, foglio n. 128. - PASQUALUCCI
+alla Corte dei conti, addi' 31 ottobre 1962 Atti del Governo, registro n. 159, foglio n. 86 - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 13 ottobre 1927, numero 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e modificato con [regio decreto 30 ottobre 1930, n. 1826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1826), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, numero 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935; n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduta la [legge 11 aprile 1953 n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -184,82 +112,40 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 58: all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:  
-  
-Etnomusicologia;  
-Storia della musica;  
-Archivistica;  
-Biblioteconomia e bibliografia;  
-Archeologia medioevale;  
-Storia delle dottrine politiche;  
-Filosofia del linguaggio;  
-Psicologia del linguaggio;  
-Fonetica generale e sperimentale;  
-Lingua e letteratura catalana;  
-Geografia umana;  
-Geografia regionale;  
-Geografia politica ed economica;  
-Storia dell'arte greca e romana;  
-Storia del movimento sindacale;  
-Lingua e letteratura giapponese;  
-Filologia slava.  
-  
-Art. 59: all'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti quelli di:  
-  
-Etnomusicologia;  
-Didattica dell'insegnamento delle lingue moderne;  
-Psicologia del linguaggio;  
-Storia della filosofia moderna e contemporanea;  
-Teoria e tecnica delle comunicazioni di massa;  
-Psicologia dell'apprendimento;  
-Storia della scuola e delle istituzioni scolastiche;  
-Psicodiagnostica;  
-Psicologia sperimentale;  
-Pedagogia comparata;  
-Ortopedagogia;  
-Letteratura per l'infanzia;  
-Pedagogia sperimentale.  
-  
-Art. 60: all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:  
-  
-Filologia inglese;  
-Filosofia del linguaggio;  
-Didattica dell'insegnamento delle lingue moderne;  
-Psicologia del linguaggio;  
-Fonetica generale e sperimentale;  
-Lingua e letteratura catalana;  
-Filologia slava;  
-Lingua e letteratura giapponese.  
-  
-Art. 78, relativo alle norme dell'esame di laurea in fisica e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente: "L'esame di laurea consiste nella discussione di una tesi scritta alla quale non si richiede necessariamente il carattere di ricerca originale".  
-Art. 79, relativo alle norme dell'esame di laurea del corso di studi in matematica e' modificato nel senso che la lettera c) e' abrogata e sostituita nel modo seguente:  
-"c) della discussione di una tesina preparata dallo studente su di un argomento attinente ad una disciplina diversa da quella cui si riferisce il lavoro scritto".  
-L'ultimo comma e' abrogato e sostituito dal seguente:  
-"La parte a) deve precedere le parti b) e c)".  
-Art. 92, relativo alle norme dell'esame di laurea e' modificato nel senso che e' soppresso il seguente comma:  
-"Il candidato alla laurea in chimica deve sostenere una prova pratica consistente in una analisi qualitativa, in una quantitativa ed in un saggio di riconoscimento di sostanze organiche".  
-Art. 115, relativo alle modalita' per gli esami di laurea in farmacia e' abrogato e sostituito dal seguente:  
-"L'esame di laurea in farmacia consiste in una prova pratica e in un esame orale. La prova pratica verte sopra una preparazione di tecnica farmaceutica relativa all'esercizio della professione in farmacia, con riconoscimento e controllo di qualita' delle sostanze impiegate nella preparazione.  
-Il candidato deve presentare almeno 15 giorni prima dell'esame di laurea dissertazione scritta, preferibilmente di carattere sperimentale, su argomento da lui scelto ed approvato dal professore della materia cui si riferisce.  
-L'esame orale comprende la discussione della dissertazione e della prova pratica ed un esame professionale nel quale il candidato deve dimostrare la sua conoscenza sui medicamenti contenuti nella farmacopea ufficiale, sulla ricettazione e su quelle parti della legislazione sanitaria che hanno attinenza con la farmacia".  
-Art. 283, relativo alla scuola per terapisti della riabilitazione (scuola diretta a fini speciali) e' modificato nel senso che la lettera c) e' abrogata e sostituita dalla seguente:  
-"c) quietanza comprovante il pagamento delle tasse, soprattasse e contributi prescritti (immatricolazione 5.000, tassa annuale di iscrizione 18.000, soprattassa annuale di esame 7.000, contributo di riscaldamento 2.000, libretto 1.000, contributo di laboratorio 80.000, contributo studenti 1.000".  
-Art. 284, relativo alla predetta scuola e' abrogate e sostituito dal seguente: "Per ottenere il rilascio del diploma, gli interessati dovranno presentare:  
-a) domanda diretta al rettore in carta bollata;  
-b) quietanza comprovante il pagamento di L. 3.000 per soprattassa esame di diploma;  
-c) quietanza comprovante il pagamento della tassa erariale di diploma di L. 6.000;  
-d) quietanza comprovante il pagamento per stampa diploma".  
+Art. 20. - Agli insegnanti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di:  
+21) Storia dei partiti e dei movimenti politici;  
+22) Organizzazione internazionale.  
+Art. 67. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di:  
+24) Radiobiologia.  
+Dopo l'art. 134, sono aggiunti i seguenti nuovi articoli, relativi alla creazione di un Seminario di architettura annesso alla Facolta' di architettura, con il conseguente spostamento della numerazione degli articoli successivi.  
+Art. 135. - Alla Facolta' di architettura e' annesso un Seminario di architettura.  
+Il Seminario ha la sua sede nei locali della Facolta' di architettura.  
+Art. 136. - Il Seminario si propone i seguenti scopi:  
+a) dirigere ed assistere i giovani che intendono dedicarsi allo studio dell'architettura;  
+b) svolgere in genere ogni attivita' rivolta al progresso dell'architettura e degli studi relativi.  
+Art. 137 - Il Seminario svolge la sua attivita' come appresso:  
+a) conferenze tenute dai professori e da assistenti della Facolta' o di altri Istituti di istruzione superiore o da, chiunque sia interessato ai problemi dell'architettura, su questioni di critica storica, di metodologia e di evoluzione dell'architettura;  
+b) conferenze tenute da studenti con la guida di professori della Facolta';  
+c) discussioni, comunicazioni scientifiche, riassunti generali o particolari di moderne ricerche.  
+Art. 138. - Possono prendere parte al Seminario:  
+a) i professori e gli assistenti della Facolta' di architettura e gli accademici dell'Accademia fiorentina delle arti del disegno;  
+b) i laureati in architettura presso la Facolta' di architettura di Firenze;  
+c) gli studenti iscritti alla Facolta';  
+d) tutti coloro che ai interessano allo studio dell'architettura e che abbiano ottenuto il motivato consenso del direttore.  
+Art. 139. - La direzione e la vigilanza del Seminario e' affidata a professori ordinari, straordinari e fuori ruolo della Facolta', uno dei quali viene scelto dal Consiglio di facolta' per la durata di un biennio, come direttore: questi e' coadiuvato da un Comitato consultivo, nominato dal Consiglio di facolta' entro le categorie a) e b) dell'articolo precedente.  
+Art. 140. - Le conferenze del Seminario di particolare interesse possono essere raccolte e pubblicate.  
+Art. 141. - Il rettore puo' rilasciare a coloro che ne facciano domanda un certificato comprovante il contributo apportato ai lavori del Seminario, conforme le modalita' del regolamento interno.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 giugno 1971
+### Dato a Roma, addi' 17 settembre 1962
 
-SARAGAT MISASI
+SEGNI GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 17 agosto 1971
+Registrato alla Corte dei conti, addi' 31 ottobre 1962
 
-Atti del Governo, registro n. 243, foglio n. 128. - PASQUALUCCI
+Atti del Governo, registro n. 159, foglio n. 86 - VILLA

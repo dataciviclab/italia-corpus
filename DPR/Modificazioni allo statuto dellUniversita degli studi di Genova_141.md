@@ -1,74 +1,167 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1966 n. 430
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 721
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1966 n. 430
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 721
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Genova approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Dopo l'art. 451, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia d'urgenza e pronto soccorso afferente alla facolta' di medicina e chirurgia:  
   
-Decreta:  
+Scuola di specializzazione in chirurgia d'urgenza e pronto soccorso   
+Art. 452. - E' istituita presso l'Universita' di Genova la scuola di specializzazione in chirurgia d'urgenza e pronto soccorso che conferisce il diploma di specializzazione in chirurgia d'urgenza e pronto soccorso.  
+Art. 453. - La direzione della scuola ha sede presso l'Universita' degli studi di Genova - cattedra di chirurgia d'urgenza.  
+Art. 454. - La scuola ha lo scopo di permettere agli iscritti l'acquisizione di quelle nozioni specialistiche teoriche e pratiche che permettono di espletare attivita' in chirurgia d'urgenza e pronto soccorso dopo il conferimento del diploma di specializzazione.  
+Art. 455. - La durata del corso e' di cinque anni accademici e non e' suscettibile di abbreviazione.  
+Art. 456. - Il numero degli iscritti e' di sei per ogni anno e complessivamente di trenta per l'intero corso di studi.  
+Art. 457. - Alla scuola sono ammessi solo i laureati in medicina e chirurgia che abbiano conseguito il diploma di abilitazione all'esercizio professionale.  
+Art. 458. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposta multipla, integrata eventualmente da un colloquio e dalla valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
+a) la tesi nella disciplina attinente alla specializzazione;  
+b) il voto di laurea;  
+c) il voto riportato negli esami di profitto del corso di laurea in medicina e chirurgia nelle materie concernenti la specializzazione;  
+d) le pubblicazioni nelle predette materie.  
+Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale 16 settembre 1982.  
+Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nella graduatoria compilata sulla base del punteggio complessivo riportato.  
+Art. 459. - Le materie di insegnamento sono le seguenti:  
   
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:  
-Art. 55. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche e' aggiunto quello di:  
-23) Bio-polimeri (Biochimica macromolecolare).  
-Dopo l'art. 238, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola per ortottiste (Scuola diretta a fini speciali).  
-Art. 239. - La Scuola per ortottiste ha sede presso la Clinica oculistica dell'Universita' degli studi di Genova. Essa ha lo scopo di dare una preparazione completa teorica e pratica alle allieve, istruendole sui problemi dei difetti di refrazione, disturbi della oculomazione, dell'ambliopia in genere, per avviarle alla professione di ortottiste.  
-Art. 240. - La durata del corso degli studi per il conseguimento del diploma e' di due anni.  
-Possono essere ammesse alla Scuola allieve di eta' non inferiore ai 17 anni, in possesso del titolo di studio prescritto per l'ammissione all'Universita' (preferibilmente del diploma di maturita' classica, del diploma di maturita' scientifica e del diploma di abilitazione magistrale).  
-Art. 241. - Chi aspira ad ottenere l'iscrizione al primo anno della Scuola dovra' sostenere un esame di ammissione. Il numero massimo di posti disponibili annualmente e' stabilito nella misura di quattro.  
-Art. 242. - L'esame di ammissione consiste in una prova orale di cultura generale dinanzi ad una Commissione composta di tre professori ufficiali della Facolta', fra i quali il direttore della Scuola.  
-Art. 243. - L'anno scolastico inizia il 1 novembre e termina il 30 giugno di ogni anno.  
-La domanda di iscrizione alla Scuola e' diretta al rettore dell'Universita' e deve essere corredata del titolo originale di studi medi superiori di cui all'art. 240.  
-Art. 244. - Il direttore della Scuola e' di diritto il titolare della cattedra di Clinica oculistica dell'Universita'. Gli insegnanti della Scuola sono proposti dal Consiglio di facolta' di Medicina e chirurgia, udito il direttore e nominati dal rettore.  
-Art. 245. - Le materie di insegnamento sono le seguenti:  
-1° anno:  
-1) Elementi di anatomia e fisiologia generale;  
-2) Anatomia e fisiologia dell'apparato oculare;  
-3) Ottica fisica e fisiologica;  
-4) Ortottica;  
-5) Pleottica;  
-6) Esercitazioni di ortottica;  
-7) Esercitazioni di pleottica.  
-2° anno:  
-1) Ortottica;  
-2) Pleottica;  
-3) Elementi di patologia oculare;  
-4) Nozioni di infermieristica oculare;  
-5) Esercitazioni di ortottica;  
-6) Esercitazioni di pleottica.  
-L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni nel reparto ortottico della Clinica oculistica.  
-Art. 246. - Per essere ammesse a sostenere l'esame di diploma le allieve dovranno aver seguito i corsi, superando gli esami di tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole tutte le esercitazioni previste.  
-Art. 247. - Le Commissioni per gli esami di profitto sono nominate dal preside della Facolta' di medicina e chirurgia su proposta del direttore della Scuola. Le Commissioni sono composte di tre membri: dal professore ufficiale della materia, presidente, di un professore ufficiale di materia affine e di un libero docente o cultore della materia. Ogni commissario ha a disposizione dieci punti.  
-Art. 248. - L'esame per il conseguimento del "diploma di ortottista" consiste in un colloquio su un tema preventivamente assegnato dal direttore della Scuola di fronte ad una Commissione di cinque membri, composta dal direttore della Scuola e da altri quattro membri designati dal preside della Facolta' di medicina e chirurgia.  
-Ogni commissario ha a sua disposizione dieci punti.  
-Art. 249. - Le tasse e soprattasse per la Scuola sono fissate dal Consiglio di amministrazione, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
+1) clinica chirurgica generale d'urgenza e di pronto soccorso;  
+2) patologia chirurgica;  
+3) anatomia chirurgica;  
+4) semeiotica;  
+5) anestesiologia;  
+6) ricerche di laboratorio;  
+7) anatomia patologica;  
+8) endoscopia;  
+9) fisiopatologia chirurgica;  
+10) chirurgia sperimentale;  
+11) trattamento pre e post-operatorio in chirurgia d'urgenza;  
+12) rianimazione;  
+13) chirurgia vascolare d'urgenza;  
+14) traumatologia dell'apparato locomotore;  
+15) neurotraumatologia;  
+16) terapia intensiva;  
+17) radiologia;  
+18) chirurgia ginecologica d'urgenza;  
+19) chirurgia pediatrica d'urgenza;  
+20) chirurgia plastica e riparatrice;  
+21) chirurgia toracica d'urgenza;  
+22) cardiochirurgia d'urgenza;  
+23) angioradiologia;  
+24) chirurgia urologica d'urgenza;  
+25) traumatologia maxillo-facciale;  
+26) trattamento del politraumatizzato;  
+27) medicina legale.  
+  
+Art. 460. - Le materie di insegnamento sono cosi' distribuite:  
+  
+1° Anno:  
+1) clinica chirurgica generale d'urgenza e di pronto soccorso I;  
+2) patologia chirurgica I;  
+3) anatomia chirurgica;  
+4) semeiotica I;  
+5) anestesiologia;  
+6) ricerche di laboratorio;  
+7) chirurgia sperimentale.  
+  
+2° Anno:  
+8) clinica chirurgica generale d'urgenza e di pronto soccorso II;  
+9) patologia chirurgica II;  
+10) anatomia patologica;  
+11) endoscopia;  
+12) fisiopatologia chirurgica I;  
+13) semeiotica II;  
+14) trattamento pre e post-operatorio in chirurgia d'urgenza;  
+15) rianimazione.  
+  
+3° Anno:  
+16) clinica chirurgica generale d'urgenza e di pronto soccorso III;  
+17) patologia chirurgica III;  
+18) chirurgia vascolare d'urgenza;  
+19) traumatologia dell'apparato locomotore I;  
+20) neurotraumatologia I;  
+21) fisiopatologia chirurgica II;  
+22) terapia intensiva I;  
+23) radiologia.  
+  
+4° Anno:  
+24) clinica chirurgica generale d'urgenza e di pronto soccorso IV;  
+25) chirurgia ginecologica d'urgenza;  
+26) chirurgia pediatrica d'urgenza;  
+27) chirurgia plastica e riparatrice I;  
+28) traumatologia dell'apparato locomotore II;  
+29) neurotraumatologia II;  
+30) chirurgia toracica d'urgenza I;  
+31) terapia intensiva II.  
+  
+5° Anno:  
+32) clinica chirurgica generale d'urgenza e di pronto soccorso V;  
+33) chirurgia plastica riparatrice II;  
+34) chirurgia toracica d'urgenza II;  
+35) cardiochirurgia d'urgenza;  
+36) chirurgia urologica d'urgenza;  
+37) angioradiologia;  
+38) traumatologia maxillo-facciale;  
+39) trattamento del politraumatizzato;  
+40) medicina legale.  
+  
+Tutti gli insegnamenti di cui sopra, specifici della scuola, afferiscono alla facolta' di medicina e chirurgia.  
+Art. 461. - La frequenza dei corsi e' obbligatoria. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno in corso, esprime un giudizio globale sul livello globale di preparazione del candidato, nelle singole discipline e relative attivita' pratiche descritte per l'anno in corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
+Art. 462. - Gli allievi dovranno svolgere le seguenti attivita' pratiche: tecniche endoscopiche, attivita' ambulatoriale, attivita' di sala operatoria presso la cattedra di chirurgia d'urgenza e le strutture eventualmente convenzionate e la XIII U.S.L. pronto soccorso ed astanteria dell'ospedale S. Martino.  
+La frequenza alle predette attivita' pratiche e a quelle didattiche e' regolata in base alle disposizioni impartite dal direttore della scuola secondo i disposti di legge, sentito il consiglio della stessa.  
+Per l'ammissione agli esami gli allievi dovranno aver frequentato almeno l'80% delle lezioni, con particolare obbligo nei periodi indicati dal professore ufficiale del corso, per le esercitazioni e per le attivita' pratiche.  
+L'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione (eventualmente anche all'estero in base alla normativa vigente), e' riconosciuta utile ai fini della frequenza.  
+Art. 463. - Superato l'esame teorico-pratico dell'ultimo anno, il corso si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.  
+A coloro che abbiano superato l'esame finale viene rilasciato un diploma di specialista.  
+Art. 464. - L'importo delle tasse e soprattasse e contributi generali dovuti dagli iscritti alla scuola e' quello previsto per gli iscritti ai vari corsi di laurea; il contributo per le esercitazioni e' stabilito dal consiglio di amministrazione in base alle normative vigenti.  
+Art. 465. - E' costituito il consiglio della scuola - presieduto da un direttore - il quale e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi, eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1982, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-07-11;382~art99).  
+Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del citato [decreto del Presidente della Repubblica n. 382/80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382), al consiglio di corso di laurea in materia di coordinamento degli insegnamenti.  
+La direzione della scuola e' affidata a professore ordinario o straordinario che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 maggio 1966.
+### Dato a Roma, addi' 28 ottobre 1983
 
-SARAGAT GUI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 18 giugno 1966
+Registrato alla Corte dei conti, addi' 16 dicembre 1983
 
-Atti del Governo, registro n. 203, foglio n. 147. - VILLA
+Registro n. 78 Istruzione, foglio n. 77

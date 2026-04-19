@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 672
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 marzo 1983 n. 824
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 672
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 marzo 1983 n. 824
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Venezia.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Venezia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Venezia, approvato con [regio decreto 29 aprile 1939, n. 1029](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-29;1029), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Venezia, approvato con [regio decreto 20 aprile 1939, n. 1029](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1029), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -24,7 +24,7 @@ Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http:
 
 Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata [legge n. 615/81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;615);
 
 Veduto il parere del Consiglio universitario nazionale;
 
@@ -39,36 +39,40 @@ Art. 1
 ------
 
   
-Nell'art. 27, relativo al corso di laurea in lettere, allo elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-filologia greca;  
-filologia latina.  
+Nell'art. 18, relativo al corso di laurea in lingue e letterature straniere, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+storia dell'eta' dell'illuminismo.  
 
 Art. 2
 ------
 
   
-Nell'art. 29, relativo al corso di laurea in storia, allo elenco degli insegnamenti complementari dell'indirizzo medioevale e' aggiunto il seguente nuovo insegnamento:  
-storia economica e sociale del Medioevo.  
-Nel medesimo articolo, all'elenco degli insegnamenti complementari dell'indirizzo contemporaneo, e' aggiunto il seguente nuovo insegnamento:  
-storia dei partiti e movimenti sindacali.  
+Nell'art. 27, relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+archeologia umanistica e storia dell'archeologia.  
 
 Art. 3
 ------
 
   
-Nell'art. 22, relativo al corso di laurea in lingue e letterature orientali, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-lingua turca.  
+Nell'art. 28, relativo al corso di laurea in filosofia all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+ermeneutica filosofica.  
+
+Art. 4
+------
+
+  
+Nell'art. 7, relativo al corso di laurea in economia e commercio, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+economia e politica industriale.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1983
+### Dato a Roma, addi' 8 marzo 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 26 novembre 1983
+Registrato alla Corte dei conti, addi' 18 gennaio 1984
 
-Registro n. 73 Istruzione, foglio n. 315
+Registro n. 2 Istruzione, foglio n. 179

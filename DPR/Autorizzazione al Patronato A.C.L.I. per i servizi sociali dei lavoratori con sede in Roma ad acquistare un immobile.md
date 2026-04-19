@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1971 n. 1407
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 maggio 1966 n. 477
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1971 n. 1407
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 maggio 1966 n. 477
+=============================================================
 
 Autorizzazione al Patronato A.C.L.I. per i servizi sociali dei lavoratori, con sede in Roma, ad acquistare un immobile.
 -----------------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1407. Decreto del Presidente della Repubblica 24 settembre 1971, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, il Patronato A.C.L.I. per i servizi sociali dei lavoratori, con sede in Roma, viene autorizzato ad acquistare dalla S.n.c. "Ernesto e fratelli Silva", al prezzo di L. 15.875.000, un appartamento sito in Piacenza, viale Beverora.  
+477. Decreto del Presidente della Repubblica 23 maggio 1966, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, il Patronato A.C.L.I. per i servizi sociali dei lavoratori, con sede in Roma, viene autorizzato ad acquistare l'appartamento di cinque vani ed accessori, sito in Roma, via del Progresso n. 3, per adibirlo ad uso diretto dell'ente, per il prezzo di L. 7.000.000 (lire settemilioni) come da rogito notaio Giuseppe Intersimone di Roma in data 15 marzo 1965, repertorio 57093.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 4 aprile 1972  
-Atti del Governo, registro n. 248, foglio n. 20. - VALENTINI
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 24 giugno 1966  
+Atti del Governo, registro n. 203, foglio n. 169. - VILLA

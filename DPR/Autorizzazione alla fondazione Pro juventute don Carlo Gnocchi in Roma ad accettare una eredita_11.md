@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1985 n. 201
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 novembre 1979 n. 854
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1985 n. 201
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 novembre 1979 n. 854
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-201. Decreto del Presidente della Repubblica 18 marzo 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in un appartamento sito in Milano, viale Lombardia n. 30, distinto nel nuovo catasto edilizio urbano alla partita 108292, foglio 274, particella 282, sub 3, valutato con perizia giurata L. 33.000.000 elevato dall'ufficio tecnico erariale di Milano a L. 51.000.000, disposta dalla sig.ra Russo Maria con testamento olografo 3 aprile 1979, pubblicato in data 13 giugno 1979, n. 30511/5756 di repertorio, a rogito dott. Ermanno Casero, notaio in Milano, registrato a Milano in data 28 giugno 1979 al n. 18245.  
+854. Decreto del Presidente della Repubblica 28 novembre 1979, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in beni mobili e libretti a risparmio, titoli, denaro, preziosi, del valore presunto di L. 13.955.420, disposta dalla sig.ra Virginia De Capitani Da Vimercate con testamento olografo 5 agosto 1970, pubblicato in data 13 ottobre 1975, n. 116583/23193 di repertorio, a rogito dott. Domenico Moretti, notaio in Milano, registrato a Milano in data 22 ottobre 1975, n. 9108, serie H.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 14 maggio 1985  
-Registro n. 4 Presidenza, foglio n. 289
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 21 marzo 1980  
+Registro n. 2 Presidenza, foglio n. 341

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 giugno 1953 n. 887
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1951 n. 1719
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 giugno 1953 n. 887
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1951 n. 1719
+================================================================
 
 Autorizzazione all'Universita' di Sassari ad accettare una donazione.
 ---------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-887. Decreto del Presidente della Repubblica 25 giugno 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Sassari viene autorizzata ad accettare la donazione di L. 1.000.000 in contanti, da convertirsi in buoni del Tesoro novennali 5% a premi, disposta in suo favore dal dottor Gavino Dore per l'istituzione, con la rendita del capitale donato, di un premio di studio da intitolarsi "Premio dott. Nanni Dore".  
+1719. Decreto del Presidente della Repubblica 4 novembre 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Sassari viene autorizzata ad accettare la donazione della somma di L. 476.805 in contanti, da convertirsi in buoni del Tesoro novennali a premio della emissione dell'anno 1951 disposta in suo favore dai signori Grazzetta Falchi Cocco, prof.  
+Giorgio Falchi, avv. Giulio Falchi, e avv. on. Battista Falchi con atto pubblico amministrativo in data 24 aprile 1951, per la istituzione di un premio di studio da denominarsi "Premio Francesco Falchi" e da conferirsi annualmente al laureato in medicina e chirurgia che risulti essere il piu' distinto del corso rispettivo e presenti la migliore dissertazione per l'esame finale di laurea.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 1 dicembre 1953  
-Atti del Governo, registro n. 80, foglio n. 49. - PALLA
+Visto, il Guardasigilli: ZOLI  
+Registrato alla Corte dei conti, addi' 7 febbraio 1952  
+Atti del Governo, registro n. 50, foglio n. 3. - FRASCA

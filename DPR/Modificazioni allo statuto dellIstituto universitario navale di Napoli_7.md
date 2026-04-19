@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1963 n. 884
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 805
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1963 n. 884
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 805
+==============================================================
 
 Modificazioni allo statuto dell'Istituto universitario navale di Napoli.
 ------------------------------------------------------------------------
@@ -10,234 +10,90 @@ Modificazioni allo statuto dell'Istituto universitario navale di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Istituto universitario navale di Napoli, approvato con [decreto del Presidente della Repubblica 13 ottobre 1959, n. 1218](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-10-13;1218);
+Veduto lo statuto dell'Istituto universitario navale di Napoli, approvato con [regio decreto 16 gennaio 1933, n. 1570](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-01-16;1570) e modificato con [regio decreto 16 ottobre 1934, n. 2081](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-10-16;2081), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 9 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-09;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1935, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'istituto universitario anzidetto;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte; Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
 Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Istituto universitario navale di Napoli, approvato con il decreto sopraindicato e' modificato come appresso;
+Lo statuto dell'Istituto universitario navale di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 3, e con il conseguente spostamento della successiva numerazione, viene inserito il seguente nuovo articolo:
+Art. 14. - Nell'elenco degli insegnamenti fondamentali e' tolta la distinzione triennale dell'insegnamento n. 19.
 
-Art. 4. - Nelle Facolta' di cui all'articolo precedente, sono costituiti, secondo il criterio dell'affinita' degli insegnamenti gli Istituti scientifici specificati negli articoli seguenti.
+Pertanto la denominazione resta cosi' fissata:
 
-Scopo degli Istituti e' di addestrare e di perfezionare studenti e studiosi nelle discipline a cui gli Istituti stessi si riferiscono e di contribuire al progresso delle dette discipline con ricerche e pubblicazioni e con altre iniziative che vengano giudicate opportune dai rispettivi direttori.
+19) Lingua inglese.
 
-Direttore di ciascun Istituto e' uno dei professori di ruolo. Se dell'istituto fanno parte soltanto professori incaricati, potra' essere nominato direttore il preside o altro professore di ruolo della Facolta'.
+Art. 15, relativo alle propedeuticita' del corso di laurea in discipline nautiche e' modificato nel senso che e' soppressa la parola in parentesi (biennio) dalla lingua inglese.
 
-I direttori degli Istituti di cui al comma precedente vengono nominati dal rettore, su designazione del Consiglio della Facolta', per un triennio accademico professore di ruolo, annualmente, se professore incaricato, e possono essere confermati.
+Art. 16, relativo agli esami di profitto e' modificato nel senso che sono soppresse le seguenti parole: "ad eccezione dell'esame di lingua inglese che deve obbligatoriamente essere sostenuto alla fine di ciascun anno".
 
-Gli articoli 14 e 15 relativi agli insegnamenti e alle propedeuticita' del corso di laurea in discipline nautiche sono abrogati e sostituiti dai seguenti:
+Art. 17, relativo alle modalita' dell'esame di laurea della facolta' di scienze nautiche, e' abrogato e sostituito dal seguente: "L'esame di laurea consiste nella discussione di una dissertazione scritta su tema assegnato dal professore della materia e precedentemente approvato dalla facolta'.
 
-Art. 14. - Sono insegnamenti fondamentali:
-
-1) Analisi matematica (biennale);
-
-2) Geometria analitica con elementi di proiettiva:
-
-3) Meccanica nazionale con elementi di statica grafica e disegno;
-
-4) Fisica sperimentale (biennale);
-
-5) Chimica generale ed inorganica con elementi di organica;
-
-6) Complementi di matematica;
-
-7) Astronomia generale e sferica;
-
-8) Geodesia e idrografia:
-
-9) Astronomia nautica;
-
-10) Arte navale (biennale);
-
-11) Navigazione e magnetismo navale (biennale);
-
-12) Meteorologia, e oceanografia;
-
-13) Elementi di architettura e costruzione navale;
-
-14) Misure elettriche e radioelettriche;
-
-15) Navigazione aerea;
-
-16) Elettrotecnica;
-
-17) Teoria e tecnica delle onde elettromagnetiche;
-
-18) Radiotecnica;
-
-19) Lingua straniera (biennale);
-
-Sono insegnamenti complementari:
-
-1) Metodi di osservazione e misura;
-
-2) Statistica applicata ai fenomeni naturali;
-
-3) Aeronautica generale;
-
-4) Assistenza al volo e controllo del traffico aereo;
-
-5) Metereologia sinotica e previsioni del tempo;
-
-6) Tecnica del radar e dei radioaiuti alla navigazione;
-
-7) Magnetismo terrestre;
-
-8) Misure oceanografiche.
-
-Lo studente, al termine dei primi due anni di corso, deve dare prova di conoscenza della lingua straniera, Per essere ammesso al l'esame di laurea, lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali e almeno di due, da lui scelti fra i complementari.
-
-Art. 15. Lo studente non puo' sostenere gli esami di: Complementi di matematica; Arte navale, 2° corso, Navigazione e magnetismo navale (biennale), Metereologia e oceanografia, Astronomia generale e sferica, Elettrotecnica, Radiotecnica, Geodesia e idrografia, Elementi di architettura e costruzione navale, Teoria e tecnica delle onde elettromagnetiche Misure elettriche e radioelettriche, ove non abbia superato gli esami di: Analisi matematica (biennale), Fisica sperimentale (biennale), Geometria analitica con elementi di proiettiva, Meccanica razionale e lingua straniera. ne' l'esame di Radiotecnica non abbia, superato quello di Elettrotecnica, ne' quelli di Misure elettriche e di teoria e tecnica delle onde elettromagnetiche, ove non a abbia superato quelli di Elettrotecnica e radiotecnica, ne' l'esame di Meteorologia sinottica ove non abbia superato quello di Meteorologia e oceanografia, ne' l'esame di Statistica applicata ai fenomeni naturali, ove non abbia superato quello di Analisi matematica (biennale), ne' l'esame di Astronomia nautica ove non abbia superato quello di Astronomia generale e sferica.
-
-Dopo l'art. 17, e con il conseguente spostamento o della successiva numerazione, viene inserito il seguente nuovo articolo
-
-Art. 18. Nella Facolta' di Scienze nautiche sono costituiti i seguenti istituiti scientifici:
-
-di Astronomia nautica e navigazione, comprendente gli insegnamenti di Navigazione aerea, di Astronomia nautica, di Aeronautica generale, di Assistenza al volo e controllo del traffico aereo;
-
-di Meteorologia e oceanografia, comprendente il detto insegnamento e quelli di Misure oceanografiche di meteorologia sinottica e previsione del tempo:
-
-di Teoria e tecnica delle onde elettromagnetiche comprendente il detto insegnamento e quelli di Elettrotecnica, di Radiotecnica, di Misture elettriche e radioelettriche, di Tecnica del radar e dei radioaiuti alla navigazione;
-
-di Fisica sperimentale.
-
-Art. 20. - Agli insegnamenti complementari del corso di laurea in Scienze economico-marittime sono aggiunti quelli di:
-
-6) Diritto della previdenza sociale;
-
-7) Diritto delle assicurazioni.
-
-Dopo l'art. 23 e' aggiunto il seguente nuovo articolo
-
-Art. 24. - Nella Facolta' di Economia marittima sono costituiti i seguenti Istituti scientifici:
-
-di Merceologia;
-
-di Economia dei trasporti marittimi, comprendente gli insegnamenti di Economia politica, di Economia dei trasporti marittimi e di Statistica;
-
-di Diritto pubblico, comprendente oltre il su detto insegnamento, quelli di Diritto amministrativo e di Diritto internazionale;
-
-di Diritto della navigazione, comprendente oltre il suddetto insegnamento quello di Diritto del lavoro. marittimo e portuale;
-
-di Diritto commerciale, comprendente oltre il su detto insegnamento, quelli di Istituzione di diritto privato e di Diritto industriale.
+La dissertazione, in triplice copia, deve essere depositata in segreteria almeno tre mesi prima della data stabilita per l'esame di laurea.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 29 maggio 1963
+Dato a Roma, addi' 2 ottobre 1972
 
-SEGNI
+LEONE
 
-GUI
+SCALFARO
 
-Visto, il Guardasigilli BOSCO
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 28 giugno 1963 Atti del Governo, registro n. 171, foglio n. 53. - VILLA
+alla Corte dei conti, addi' 16 dicembre 1972. Atti di Governo, registro n. 254, foglio n. 30. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Istituto universitario navale di Napoli, approvato con [decreto del Presidente della Repubblica 13 ottobre 1959, n. 1218](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-10-13;1218);  
+Veduto lo statuto dell'Istituto universitario navale di Napoli, approvato con [regio decreto 16 gennaio 1933, n. 1570](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-01-16;1570) e modificato con [regio decreto 16 ottobre 1934, n. 2081](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-10-16;2081), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 9 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-09;73);  
-Veduto il [regio decreto 30 settembre 1935, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'istituto universitario anzidetto;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte; Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Istituto universitario navale di Napoli, approvato con il decreto sopraindicato e' modificato come appresso;  
-Dopo l'art. 3, e con il conseguente spostamento della successiva numerazione, viene inserito il seguente nuovo articolo:  
-  
-Art. 4. - Nelle Facolta' di cui all'articolo precedente, sono costituiti, secondo il criterio dell'affinita' degli insegnamenti gli Istituti scientifici specificati negli articoli seguenti.  
-Scopo degli Istituti e' di addestrare e di perfezionare studenti e studiosi nelle discipline a cui gli Istituti stessi si riferiscono e di contribuire al progresso delle dette discipline con ricerche e pubblicazioni e con altre iniziative che vengano giudicate opportune dai rispettivi direttori.  
-Direttore di ciascun Istituto e' uno dei professori di ruolo. Se dell'istituto fanno parte soltanto professori incaricati, potra' essere nominato direttore il preside o altro professore di ruolo della Facolta'.  
-I direttori degli Istituti di cui al comma precedente vengono nominati dal rettore, su designazione del Consiglio della Facolta', per un triennio accademico professore di ruolo, annualmente, se professore incaricato, e possono essere confermati.  
-Gli articoli 14 e 15 relativi agli insegnamenti e alle propedeuticita' del corso di laurea in discipline nautiche sono abrogati e sostituiti dai seguenti:  
-  
-Art. 14. - Sono insegnamenti fondamentali:  
-1) Analisi matematica (biennale);  
-2) Geometria analitica con elementi di proiettiva:  
-3) Meccanica nazionale con elementi di statica grafica e disegno;  
-4) Fisica sperimentale (biennale);  
-5) Chimica generale ed inorganica con elementi di organica;  
-6) Complementi di matematica;  
-7) Astronomia generale e sferica;  
-8) Geodesia e idrografia:  
-9) Astronomia nautica;  
-10) Arte navale (biennale);  
-11) Navigazione e magnetismo navale (biennale);  
-12) Meteorologia, e oceanografia;  
-13) Elementi di architettura e costruzione navale;  
-14) Misure elettriche e radioelettriche;  
-15) Navigazione aerea;  
-16) Elettrotecnica;  
-17) Teoria e tecnica delle onde elettromagnetiche;  
-18) Radiotecnica;  
-19) Lingua straniera (biennale);  
-  
-Sono insegnamenti complementari:  
-1) Metodi di osservazione e misura;  
-2) Statistica applicata ai fenomeni naturali;  
-3) Aeronautica generale;  
-4) Assistenza al volo e controllo del traffico aereo;  
-5) Metereologia sinotica e previsioni del tempo;  
-6) Tecnica del radar e dei radioaiuti alla navigazione;  
-7) Magnetismo terrestre;  
-8) Misure oceanografiche.  
-  
-Lo studente, al termine dei primi due anni di corso, deve dare prova di conoscenza della lingua straniera, Per essere ammesso al l'esame di laurea, lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali e almeno di due, da lui scelti fra i complementari.  
-  
-Art. 15. Lo studente non puo' sostenere gli esami di: Complementi di matematica; Arte navale, 2° corso, Navigazione e magnetismo navale (biennale), Metereologia e oceanografia, Astronomia generale e sferica, Elettrotecnica, Radiotecnica, Geodesia e idrografia, Elementi di architettura e costruzione navale, Teoria e tecnica delle onde elettromagnetiche Misure elettriche e radioelettriche, ove non abbia superato gli esami di: Analisi matematica (biennale), Fisica sperimentale (biennale), Geometria analitica con elementi di proiettiva, Meccanica razionale e lingua straniera. ne' l'esame di Radiotecnica non abbia, superato quello di Elettrotecnica, ne' quelli di Misure elettriche e di teoria e tecnica delle onde elettromagnetiche, ove non a abbia superato quelli di Elettrotecnica e radiotecnica, ne' l'esame di Meteorologia sinottica ove non abbia superato quello di Meteorologia e oceanografia, ne' l'esame di Statistica applicata ai fenomeni naturali, ove non abbia superato quello di Analisi matematica (biennale), ne' l'esame di Astronomia nautica ove non abbia superato quello di Astronomia generale e sferica.  
-Dopo l'art. 17, e con il conseguente spostamento o della successiva numerazione, viene inserito il seguente nuovo articolo  
-  
-Art. 18. Nella Facolta' di Scienze nautiche sono costituiti i seguenti istituiti scientifici:  
-di Astronomia nautica e navigazione, comprendente gli insegnamenti di Navigazione aerea, di Astronomia nautica, di Aeronautica generale, di Assistenza al volo e controllo del traffico aereo;  
-di Meteorologia e oceanografia, comprendente il detto insegnamento e quelli di Misure oceanografiche di meteorologia sinottica e previsione del tempo:  
-di Teoria e tecnica delle onde elettromagnetiche comprendente il detto insegnamento e quelli di Elettrotecnica, di Radiotecnica, di Misture elettriche e radioelettriche, di Tecnica del radar e dei radioaiuti alla navigazione;  
-di Fisica sperimentale.  
-  
-Art. 20. - Agli insegnamenti complementari del corso di laurea in Scienze economico-marittime sono aggiunti quelli di:  
-6) Diritto della previdenza sociale;  
-7) Diritto delle assicurazioni.  
-  
-Dopo l'art. 23 e' aggiunto il seguente nuovo articolo  
-  
-Art. 24. - Nella Facolta' di Economia marittima sono costituiti i seguenti Istituti scientifici:  
-di Merceologia;  
-di Economia dei trasporti marittimi, comprendente gli insegnamenti di Economia politica, di Economia dei trasporti marittimi e di Statistica;  
-di Diritto pubblico, comprendente oltre il su detto insegnamento, quelli di Diritto amministrativo e di Diritto internazionale;  
-di Diritto della navigazione, comprendente oltre il suddetto insegnamento quello di Diritto del lavoro. marittimo e portuale;  
-di Diritto commerciale, comprendente oltre il su detto insegnamento, quelli di Istituzione di diritto privato e di Diritto industriale.  
+Lo statuto dell'Istituto universitario navale di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 14. - Nell'elenco degli insegnamenti fondamentali e' tolta la distinzione triennale dell'insegnamento n. 19.  
+Pertanto la denominazione resta cosi' fissata:  
+19) Lingua inglese.  
+Art. 15, relativo alle propedeuticita' del corso di laurea in discipline nautiche e' modificato nel senso che e' soppressa la parola in parentesi (biennio) dalla lingua inglese.  
+Art. 16, relativo agli esami di profitto e' modificato nel senso che sono soppresse le seguenti parole: "ad eccezione dell'esame di lingua inglese che deve obbligatoriamente essere sostenuto alla fine di ciascun anno".  
+Art. 17, relativo alle modalita' dell'esame di laurea della facolta' di scienze nautiche, e' abrogato e sostituito dal seguente: "L'esame di laurea consiste nella discussione di una dissertazione scritta su tema assegnato dal professore della materia e precedentemente approvato dalla facolta'.  
+La dissertazione, in triplice copia, deve essere depositata in segreteria almeno tre mesi prima della data stabilita per l'esame di laurea.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 maggio 1963
+### Dato a Roma, addi' 2 ottobre 1972
 
-SEGNI GUI
+LEONE SCALFARO
 
-Visto, il Guardasigilli BOSCO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 28 giugno 1963
+Registrato alla Corte dei conti, addi' 16 dicembre 1972.
 
-Atti del Governo, registro n. 171, foglio n. 53. - VILLA
+Atti di Governo, registro n. 254, foglio n. 30. - CARUSO

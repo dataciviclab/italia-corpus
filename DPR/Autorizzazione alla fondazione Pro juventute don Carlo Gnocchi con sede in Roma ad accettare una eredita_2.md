@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1973 n. 986
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1973 n. 667
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1973 n. 986
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1973 n. 667
+================================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", con sede in Roma, ad accettare una eredita'.
 --------------------------------------------------------------------------------------------------------------
@@ -12,9 +12,9 @@ Art. 1
 
 N.
 
-986. Decreto del Presidente della Repubblica 18 dicembre 1973, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare, col beneficio d'inventario, la eredita' disposta dalla sig.na Romana Fugazzi con testamento olografo del 2 aprile 1964 e codicillo di modifica del 2 aprile 1966, depositato e pubblicato per rogito dott. Giuliano Salvini, notaio in Cusano Milanino, in data 1 dicembre 1971 (n. 3034 di rep. e n. 582 di racc.), registrato a Desio il 16 dicembre 1971 al n. 4668/I, consistente in beni mobili ed immobili di cui agli inventari in data 15 marzo e 27 giugno 1972 redatti dal dott.  
-Ferruccio Brambilla, notaio in Milano, rispettivamente con il n. 12693/1212 e 13295/1323 di repertorio, per un valore complessivo di lire 22.235.019.  
+667. Decreto del Presidente della Repubblica 10 settembre 1973, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta in suo favore dalla signora Adria Valensin, vedova Di Cola-vedova Grassi, con testamento pubblico del 16 luglio 1970, pubblicato il 1 ottobre 1970 per atto del dott.  
+Carlo Marchetti, notaio in Milano (n. 41094 di rep. e n. 12656 di raccolta), registrato in Milano il 2 ottobre 1970 al n. 15133, serie E, consistente in un immobile sito in Milano, via Rovani n. 3, nonche' in beni mobili vari, per un valore complessivo di L. 33.478.431.  
   
 Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 8 febbraio 1974  
-Atti di Governo, registro n. 1, foglio n. 65. - CARUSO
+Registrato alla Corte dei conti, addi' 2 novembre 1973  
+Atti di Governo, registro n. 262, foglio n. 4. - VALENTINI

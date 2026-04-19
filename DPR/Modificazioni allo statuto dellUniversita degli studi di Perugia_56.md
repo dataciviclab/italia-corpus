@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1982 n. 992
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 giugno 1973 n. 548
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1982 n. 992
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 giugno 1973 n. 548
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,71 +18,64 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Perugia e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 113. - La denominazione dell'insegnamento di "Anatomia e rianimazione in ortopedia e traumatologia" previsto al 2° anno di corso della scuola di specializzazione in ortopedia e traumatologia, muta la denominazione in quella di "Anestesia e rianimazione in ortopedia e traumatologia".
 
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 26 giugno 1973
+
+LEONE
+
+SCALFARO
+
+Visto, il Guardasigilli: ZAGARI
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 10 settembre 1973 Atti di Governo, registro n. 259, foglio n. 102. - VALENTINI
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Art. 25 - nell'art. 25, relativo al corso di laurea in economia e commercio; all'elenco degli insegnamenti complementari, sono aggiunti i seguenti nuovi insegnamenti:   
-finanza degli enti locali;   
-applicazioni della matematica all'economia;   
-statistica sociale;   
-teoria dei campioni;   
-metodi della ricerca operativa;   
-calcolatori elettronici e programmazione;   
-controllo statistico delle qualita' e statistica industriale;   
-economia aziendale;   
-finanza aziendale;   
-economia dei gruppi, delle concentrazioni e delle cooperazioni aziendali;   
-analisi dei costi;   
-organizzazione commerciale;   
-merceologia doganale;   
-tecnica del mercato mobiliare;   
-diritto agrario e legislazione forestale;   
-diritto pubblico dell'economia;   
-economia della sicurezza sociale;   
-gestione dell'informazione;   
-sistemi economici comparati;   
-diritto degli enti locali;   
-economia regionale;   
-revisione aziendale.   
-Dallo stesso elenco sono soppressi i sottoindicati insegnamenti complementari:   
-tecnica commerciale dei prodotti agricoli;   
-storia dell'agricoltura;   
-diritto della navigazione;   
-chimica merceologica.   
-Nello stesso art. 25, cambiano denominazione i seguenti insegnamenti complementari:   
-da "diritto delle assicurazioni libere e sociali" a "diritto delle assicurazioni";   
-da "legislazione del lavoro" a "diritto della previdenza sociale";   
-da "economia bancaria" a "economia delle aziende di credito".   
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 113. - La denominazione dell'insegnamento di "Anatomia e rianimazione in ortopedia e traumatologia" previsto al 2° anno di corso della scuola di specializzazione in ortopedia e traumatologia, muta la denominazione in quella di "Anestesia e rianimazione in ortopedia e traumatologia".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Selva di Val Gardena, addi' 2 agosto 1982
+### Dato a Roma, addi' 26 giugno 1973
 
-PERTINI BODRATO
+LEONE SCALFARO
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 10 gennaio 1983
+Registrato alla Corte dei conti, addi' 10 settembre 1973
 
-Registro n. 1 Istruzione, foglio n. 16
+Atti di Governo, registro n. 259, foglio n. 102. - VALENTINI

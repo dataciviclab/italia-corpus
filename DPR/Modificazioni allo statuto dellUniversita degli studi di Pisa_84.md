@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1980 n. 1091
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1061
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1980 n. 1091
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1061
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,112 +20,183 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
 Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 45, relativo agli istituti della facolta' di economia e commercio e' modificato nel senso che l'istituto di statistica muta la denominazione in quella di "Istituto di scienze statistiche "Mario De Vergottini""
+
+Art. 65. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:
+
+Cardiochirurgia.
+
+Art. 74. - All'elenco degli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali e' aggiunto il seguente:
+
+Istituto di istologia ed embriologia.
+
+Art. 76. - All'elenco degli insegnamenti complementari del corso di laurea in chimica (indirizzo organicobiologico ed indirizzo inorganico-chimico-fisico) e' aggiunto quello di:
+
+Termodinamica dei processi irreversibili.
+
+Art. 78. - All'elenco degli insegnamenti complementari del corso di laurea in chimica industriale e' aggiunto quello di:
+
+Termodinamica dei processi irreversibili.
+
+Art. 82. - All'elenco degli insegnamenti complementari comuni ai tre indirizzi sono aggiunti i seguenti:
+
+Didattica della matematica;
+
+Equazioni differenziali;
+
+Topologia algebrica.
+
+Art. 84. - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:
+
+Etologia;
+
+Ecologia;
+
+Microbiologia del suolo;
+
+Giacimenti minerari.
+
+Nello stesso elenco l'insegnamento di "Etologia ed ecologia animale" e' soppresso.
+
+Art. 87. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:
+
+Etologia;
+
+Ecologia;
+
+Microbiologia del suolo.
+
+Nello stesso elenco l'insegnamento di "etologia ed ecologia animale" e' soppresso.
+
+Art. 104. - Dopo l'elenco degli insegnamenti complementari del corso di laurea in farmacia e' aggiunto il seguente comma:
+
+"Possono inoltre essere scelti tutti gli insegnamenti complementari del corso di laurea in chimica e tecnologia farmaceutiche, non in comune ai due corsi di laurea".
+
+Gli articoli 108, 109, 110 relativi agli esami di laurea in farmacia sono abrogati e sostituiti dai seguenti:
+
+Art. 108. - Gli esami di laurea sono preceduti da prove pratiche e da un colloquio su argomenti di carattere professionale.
+
+Art. 109. - Per essere ammesso all'esame di laurea, il candidato deve presentare una dissertazione scritta, sia d'indole sperimentale che teorica, su argomento appropriato al carattere scientifico e professionale della facolta'.
+
+Art. 110. - L'esame di laurea consiste nella discussione pubblica della dissertazione scritta.
+
+Art. 112. - All'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologia farmaceutiche sono aggiunti i seguenti:
+
+Chimica clinica;
+
+Tossicologia e controllo degli inquinamenti;
+
+Farmaci chemioterapici;
+
+Farmacologia applicata.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1972
+
+LEONE
+
+SCALFARO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 5 marzo 1973 Atti di Governo, registro n. 256, foglio n. 51. - VALENTINI
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Il testo dell'art. 23, relativo al corso di laurea in giurisprudenza, e' modificato nel senso che all'elenco degli insegnamenti complementari sono aggiunti i seguenti:  
-diritto penitenziario;  
-diritto processuale comparato;  
-diritto delle Comunita' europee;  
-diritto urbanistico;  
-diritto regionale;  
-diritto pubblico dell'economia;  
-teoria della finanza locale;  
-diritto della famiglia;  
-diritto processuale amministrativo;  
-diritto agrario comparato;  
-sistemi giuridici comparati;  
-diritto della sicurezza sociale;  
-diritto delle banche e delle borse;  
-metodologia della scienza giuridica;  
-istituzioni di diritto pubblico.  
-Dallo stesso elenco sono soppressi i seguenti insegnamenti complementari:  
-diritto dei Paesi afro-asiatici;  
-storia ed istituzioni di Paesi afro-asiatici.  
-Nello stesso elenco l'insegnamento di sociologia cambia la denominazione in quello di "sociologia del diritto".  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
+Decreta:  
   
-Il testo dell'art. 26, relativo alla propedeuticita' degli esami per la laurea in giurisprudenza, e' sostituito dal seguente:   
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 45, relativo agli istituti della facolta' di economia e commercio e' modificato nel senso che l'istituto di statistica muta la denominazione in quella di "Istituto di scienze statistiche "Mario De Vergottini""  
   
-Gli studenti non possono sostenere gli esami di: diritto civile, diritto commerciale, diritto processuale civile, diritto del lavoro, diritto ecclesiastico, diritto penale, procedura penale, diritto amministrativo, diritto agrario, diritto agrario comparato, diritto privato comparato, diritto canonico, diritto della navigazione, diritto industriale, diritto tributario, diritto fallimentare, diritto internazionale privato, diritto urbanistico, diritto della famiglia, diritto processuale amministrativo, diritto della sicurezza sociale, diritto delle banche e delle borse prima di aver superato l'esame di istituzioni di diritto privato.   
-Gli studenti non possono sostenere gli esami di: storia del diritto italiano, diritto romano, esegesi delle fonti di diritto romano, papirologia ed epigrafia giuridica, diritto comune prima di aver superato gli esami di storia del diritto romano e istituzioni di diritto privato.   
-Gli studenti non possono sostenere gli esami di: diritto amministrativo, diritto del lavoro, diritto ecclesiastico, diritto penale, procedura penale, diritto processuale civile, diritto processuale comparato, diritto internazionale, diritto civile, diritto commerciale, diritto agrario, diritto agrario comparato, diritto della navigazione, diritto tributario, teoria generale del processo, diritto delle Comunita' europee, diritto urbanistico, diritto regionale, diritto pubblico dell'economia, diritto della famiglia, diritto processuale amministrativo, diritto della sicurezza sociale, diritto delle banche e delle borse, diritto fallimentare prima di aver sostenuto l'esame di diritto costituzionale, oppure di diritto pubblico generale, oppure di istituzioni di diritto pubblico.   
-Gli studenti non possono sostenere gli esami di: scienza delle finanze e diritto finanziario, diritto commerciale, prima di aver superato l'esame di economia politica.   
-Gli studenti non possono sostenere l'esame di teoria della finanza locale prima di aver superato l'esame di scienza delle finanze e diritto finanziario.   
-Gli studenti non possono sostenere gli esami di diritto della sicurezza sociale prima di aver superato l'esame di diritto del lavoro.   
-
-Art. 3
-------
-
+Art. 65. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:  
   
-Il testo dell'art. 27, relativo alle modalita' dell'esame per il conseguimento della laurea in giurisprudenza, e' sostituito dal seguente:  
+Cardiochirurgia.  
   
-L'esame di laurea consiste in una discussione orale sopra una dissertazione scritta.  
-
-Art. 4
-------
-
+Art. 74. - All'elenco degli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali e' aggiunto il seguente:  
   
-Il testo dell'art. 29 e' sostituito dal seguente:  
-Per raggiungere tali fini, nel seminario:  
-a) e' curata la formazione di una biblioteca speciale;  
-b) sono tenuti corsi complementari in materie non contemplate nell'ordinamento della facolta' o corsi speciali su parti di esse;  
-c) si promuovono conferenze e discussioni;  
-d) si tengono esercitazioni pratiche.  
-
-Art. 5
-------
-
+Istituto di istologia ed embriologia.  
   
-Il testo dell'art. 30 e' sostituito dal seguente:  
+Art. 76. - All'elenco degli insegnamenti complementari del corso di laurea in chimica (indirizzo organicobiologico ed indirizzo inorganico-chimico-fisico) e' aggiunto quello di:  
   
-Il consiglio direttivo del seminario e' costituito dagli stessi membri del consiglio di facolta', nella sua forma piu' allargata ai sensi delle disposizioni di legge in vigore; esso elegge nel proprio seno un direttore con facolta' di conferma.  
-
-Art. 6
-------
-
+Termodinamica dei processi irreversibili.  
   
-Il testo dell'art. 32 e' sostituito dal seguente:  
+Art. 78. - All'elenco degli insegnamenti complementari del corso di laurea in chimica industriale e' aggiunto quello di:  
   
-Al seminario hanno facolta' di iscriversi gli studenti e i laureati italiani e stranieri della facolta' di giurisprudenza, scienze politiche, lettere e filosofia.  
-Dietro favorevole avviso del consiglio direttivo, la iscrizione puo' anche essere accordata a studenti e laureati, italiani e stranieri di altre facolta'.  
-
-Art. 7
-------
-
+Termodinamica dei processi irreversibili.  
   
-Il testo dell'art. 33 e' sostituito dal seguente:  
+Art. 82. - All'elenco degli insegnamenti complementari comuni ai tre indirizzi sono aggiunti i seguenti:  
   
-A coloro che abbiano frequentato per un anno i corsi del seminario viene rilasciato un certificato di lavori compiuti a firma del direttore del seminario e del preside della facolta'.  
+Didattica della matematica;  
+Equazioni differenziali;  
+Topologia algebrica.  
+  
+Art. 84. - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:  
+  
+Etologia;  
+Ecologia;  
+Microbiologia del suolo;  
+Giacimenti minerari.  
+  
+Nello stesso elenco l'insegnamento di "Etologia ed ecologia animale" e' soppresso.  
+Art. 87. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:  
+  
+Etologia;  
+Ecologia;  
+Microbiologia del suolo.  
+  
+Nello stesso elenco l'insegnamento di "etologia ed ecologia animale" e' soppresso.  
+Art. 104. - Dopo l'elenco degli insegnamenti complementari del corso di laurea in farmacia e' aggiunto il seguente comma:  
+"Possono inoltre essere scelti tutti gli insegnamenti complementari del corso di laurea in chimica e tecnologia farmaceutiche, non in comune ai due corsi di laurea".  
+Gli articoli 108, 109, 110 relativi agli esami di laurea in farmacia sono abrogati e sostituiti dai seguenti:  
+Art. 108. - Gli esami di laurea sono preceduti da prove pratiche e da un colloquio su argomenti di carattere professionale.  
+Art. 109. - Per essere ammesso all'esame di laurea, il candidato deve presentare una dissertazione scritta, sia d'indole sperimentale che teorica, su argomento appropriato al carattere scientifico e professionale della facolta'.  
+Art. 110. - L'esame di laurea consiste nella discussione pubblica della dissertazione scritta.  
+Art. 112. - All'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologia farmaceutiche sono aggiunti i seguenti:  
+  
+Chimica clinica;  
+Tossicologia e controllo degli inquinamenti;  
+Farmaci chemioterapici;  
+Farmacologia applicata.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 dicembre 1980
+### Dato a Roma, addi' 31 ottobre 1972
 
-PERTINI BODRATO
+LEONE SCALFARO
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 9 marzo 1981
+Registrato alla Corte dei conti, addi' 5 marzo 1973
 
-Registro n. 22 Istruzione, foglio n. 296
+Atti di Governo, registro n. 256, foglio n. 51. - VALENTINI

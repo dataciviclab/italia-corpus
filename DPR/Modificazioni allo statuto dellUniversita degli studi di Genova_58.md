@@ -1,526 +1,81 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 luglio 1969 n. 615
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1970 n. 1245
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 luglio 1969 n. 615
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1970 n. 1245
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 122, relativo all'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia, e' modificato nel senso che la scuola in "Otorinolaringoiatria" muta denominazione in quella di "Otorinolaringoiatria e patologia cervico-facciale".
-
-Allo stesso elenco e' aggiunta la scuola di specializzazione in "Criminologia clinica".
-
-Gli articoli da 161 a 165 relativi alla scuola di Specializzazione in otorinolaringoiatria, gli articoli da 173 a 179 relativi alla scuola di specializzazione in medicina legale e delle assicurazioni, e gli articoli da 240 a 242 relativi alla scuola di specializzazione in medicina del lavoro sono abrogati e sostituiti dai seguenti:
-
-Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale
-
-Art. 161. - Presso l'istituto di clinica otorinolaringoiatrica e' istituita la scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale, che ha lo scopo di conferire la necessaria competenza a coloro che vogliono dedicarsi all'esercizio di questa branca della medicina. Il diploma che viene rilasciato in seguito ad esame, attribuisce la qualifica di specialista in otorinolaringoiatria e patologia cervico facciale.
-
-Art. 162. - Gli insegnamenti impartiti nella scuola sono:
-
-1° Anno:
-
-1) Anatomia;
-
-2) Fisiologia;
-
-3) Audiologia (1° anno);
-
-4) Semeiotica otorinolaringoiatrica;
-
-5) Tecnica di laboratorio;
-
-6) Patologia otorinolaringoiatrica e cervico-facciale (1° anno);
-
-7) Anatomia e istologia patologica otorinolaringoiatrica.
-
-2° Anno:
-
-1) Tecniche operatorie in otorinolaringoiatria;
-
-2) Anestesiologia in otorinolaringoiatria;
-
-3) Patologia e clinica otorinolaringoiatrica e cervico-facciale (2° anno);
-
-4) Radiologia in rapporto con l'otorinolaringoiatria;
-
-5) Pediatria in rapporto con l'otorinolaringoiatria;
-
-6) Audiologia (2° anno);
-
-7) Otoneurologia;
-
-8) Foniatria.
-
-3° Anno:
-
-1) Patologia e clinica otorinolaringoiatrica e cervico-facciale;
-
-2) Terapia medica e fisica in otorinolaringoiatria;
-
-3) Neuropatologia in rapporto con l'otorinolaringoiatria;
-
-4) Oculistica in rapporto con l'otorinolaringoiatria;
-
-5) Chirurgia plastica;
-
-6) Tracheo-broncoscopia;
-
-7) Medicina legale ed infortunistica in otorinolaringoiatria.
-
-Art. 163. - Il corso ha la durata di anni tre ed ha carattere scientifico, teorico e di ricerca e con particolare indirizzo deduttivo clinico e pratico.
-
-Art. 164. - Gli iscritti hanno l'obbligo di frequentare assiduamente per tutto il triennio il corso di clinica otorinolaringoiatrica, i corsi integrativi, l'ambulatorio, i reparti clinici, e le sale d'operazione, prestando regolare servizio come interni della clinica.
-
-Art. 165. - Al corso possono iscriversi solo i laureati in medicina e chirurgia.
-
-Il numero degli iscritti non puo' superare i ventuno per l'intero corso degli studi.
-
-Al termine di ciascun anno di corso gli allievi sono tenuti ad un colloquio-esame per ciascuna delle materie raggruppate in due gruppi per affinita' di indirizzo culturale.
-
-L'allievo che non ottenga l'idoneita' in tali colloqui esami potra' ripetere il corso.
-
-Alla fine del corso gli allievi che lo hanno frequentato regolarmente sono ammessi a dare l'esame, che consiste in una prova teorica con la presentazione e discussione di una tesi scritta su argomento di otorinolaringoiatria ed in una prova pratica al letto del malato.
-
-Le norme per l'iscrizione, per gli esami, per le tasse, ecc. sono quelle generali per le scuole di specializzazione e di perfezionamento riferite negli articoli da 122 a 137 del presente statuto.
-
-Agli allievi, i quali abbiano ottenuto l'approvazione nell'esame di diploma, viene rilasciato il diploma di specializzazione in otorinolaringoiatria e patologia cervico-facciale, valido a tutti gli effetti di legge.
-
-Scuola di specializzazione in medicina legale e delle assicurazioni
-
-Art. 173. - Presso l'istituto di medicina legale e delle assicurazioni e' istituita la scuola di specializzazione in medicina legale e delle assicurazioni, la quale ha lo scopo di conferire adeguata competenza teorica e pratica ai laureati in medicina e chirurgia, i quali intendano conseguire il diploma di specializzazione.
-
-La durata del corso di studi e' di anni tre.
-
-Direttore della scuola e' il titolare della cattedra di medicina legale e delle assicurazioni.
-
-Alla scuola possono iscriversi solo i laureati in medicina e chirurgia in numero limitato a trenta per lo intero corso degli studi.
-
-Art. 174. - Le materie di insegnamento della scuola sono:
-
-1° Anno:
-
-Medicina legale generale;
-
-Elementi di diritto pubblico e privato;
-
-Tecnica e diagnostica anatomo-patologica generale e medico-legale;
-
-Traumatologia medico-legale;
-
-Semeiotica medico-legale.
-
-2° Anno:
-
-Medicina legale penalistica;
-
-Deontologia medica;
-
-Neuropsichiatria medico-legale;
-
-Elementi di medicina criminologica e di medicina penitenziaria;
-
-Indagini di sopralluogo;
-
-Identificazione personale.
-
-3° Anno:
-
-Medicina legale civilistica e canonistica;
-
-Tossicologia medico-legale;
-
-Tecniche di laboratorio medico-legale ed ematologia forense;
-
-Ostetricia e ginecologia forensi;
-
-Elementi di legislazione del lavoro;
-
-Elementi di medicina del lavoro;
-
-Medicina delle assicurazioni;
-
-Medicina legale militare e pensionistica civile.
-
-Art. 175. - Gli insegnamenti hanno carattere essenzialmente dimostrativo e di pratica esercitazione e saranno integrati da periodi di internato della durata di almeno sei mesi per anno.
-
-Possono essere organizzate inoltre conferenze pratiche da tenersi da docenti di altre materie che abbiano attinenza con gli scopi della scuola.
-
-Art. 176. - I mezzi per l'insegnamento sono forniti dall'istituto di medicina legale e delle assicurazioni ove ha sede la scuola. Alla casistica clinica e giudiziaria possono provvedere anche i singoli docenti, secondo le cariche e gli uffici pubblici da loro coperti, presso le cliniche, ospedali o presso istituti di assicurazioni.
-
-Art. 177. - Alla fine di ogni anno di corso gli allievi, i quali abbiano frequentato il corso stesso, dovranno sostenere un colloquio di esame sulle singole materie di insegnamento di fronte alla commissione prevista dal regolamento generale delle scuole di specializzazione per dimostrare la loro idoneita' alla iscrizione all'anno successivo.
-
-Alla fine del triennio gli allievi, i quali abbiano frequentato i corsi ed eseguite le esercitazioni, saranno ammessi alle prove di esami per il conseguimento del diploma secondo le norme del regolamento generale delle scuole di specializzazione.
-
-Gli esami consisteranno in una prova orale teorica e pratica sulle materie di insegnamento e nella discussione di una dissertazione scritta sopra un argomento attinente agli insegnamenti della scuola.
-
-I candidati non riconosciuti idonei all'esame di diploma si potranno ripresentare dopo un altro anno di frequenza alla scuola; se al secondo esame non sara' loro riconosciuta la idoneita', verranno senz'altro esclusi da ulteriori prove.
-
-Art. 178. - La commissione per l'esame di diploma, nominata dal rettore su proposta del direttore della scuola e del preside della facolta', sara' composta da sei membri.
-
-Art. 179. - Agli allievi i quali abbiano ottenuto la approvazione nell'esame di diploma, verra' rilasciato il diploma di specializzazione in medicina legale e delle assicurazioni, valido a tutti gli effetti di legge. Le norme per l'iscrizione, per gli esami, per le tasse, ecc. sono quelle generali riferite negli articoli da 122 a 137 del presente statuto.
-
-Scuola di specializzazione in medicina del lavoro
-
-Art. 240. - Presso l'istituto di medicina del lavoro e' istituita la scuola di specializzazione in medicina del lavoro, che ha lo scopo di impartire la necessaria competenza teorica e pratica ai laureati in medicina e chirurgia ai fini del conseguimento del diploma di specializzazione in medicina del lavoro. Il corso di specializzazione ha la durata di tre anni. Ad esso possono iscriversi soltanto i laureati in medicina e chirurgia. Le norme per l'iscrizione, per gli esami, per le tasse, ecc. sono quelle generali per le scuole di specializzazione e di perfezionamento riferite negli articoli da 122 a 137 del presente statuto.
-
-Art. 241. - Gli insegnamenti impartiti nella suddetta scuola sono i seguenti:
-
-1° Anno:
-
-1) Fisiologia del lavoro ed ergonomia;
-
-2) Tecnologia ed igiene del lavoro;
-
-3) Patologia e clinica del lavoro;
-
-4) Psicologia del lavoro.
-
-2° Anno:
-
-1) Fisiologia del lavoro ed ergonomia;
-
-2) Tecnologia ed igiene del lavoro;
-
-3) Patologia e clinica del lavoro;
-
-4) Psicologia del lavoro;
-
-5) Tossicologia industriale e diagnostica di laboratorio;
-
-6) Infortunistica e pronto soccorso;
-
-7) Biometria e statistica sanitaria;
-
-8) Medicina preventiva dei lavoratori.
-
-3° Anno:
-
-1) Patologia e clinica del lavoro;
-
-2) Tecnologia ed igiene del lavoro;
-
-3) Infortunistica e pronto soccorso;
-
-4) Medicina legale delle assicurazioni;
-
-5) Medicina preventiva dei lavoratori;
-
-6) Radiologia e medicina nucleare;
-
-7) Tossicologia industriale e diagnostica di laboratorio;
-
-8) Dermatologia professionale.
-
-Il numero e la distribuzione delle ore di lezione saranno fissate dal direttore della scuola al principio di ogni anno accademico.
-
-Avranno inoltre luogo esercitazioni pratiche di diagnostica e di laboratorio, nonche' visite di istruzione ad istituzioni, enti ed aziende industriali.
-
-Il numero massimo dei posti e' fissato in ventiquattro per i tre anni di corso.
-
-Art. 242. - Al termine del corso gli allievi che hanno frequentato il corso saranno ammessi all'esame di diploma secondo le norme generali delle scuole di specializzazione di questa facolta' di medicina e chirurgia, riportate nel presente statuto.
-
-Dopo l'art. 275 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in criminologia clinica.
-
-Scuola di specializzazione in criminologia clinica
-
-Art. 276. - Presso l'istituto di antropologia criminale dell'Universita' di Genova e' istituita una scuola di specializzazione in criminologia clinica.
-
-Art. 277. - Gli insegnamenti impartiti nella scuola sono i seguenti:
-
-a) Criminologia generale e criminologia clinica;
-
-b) Scienza della persona umana - personalita' criminologia clinica;
-
-c) Psicologia e psicopatologia clinica e criminologia clinica;
-
-d) Malattie mentali e criminologia clinica;
-
-e) Semeiotica criminologica; esame medico, psicologico, sociale del criminale;
-
-f) Diagnostica criminologica: criminogenesi - criminodinamica - genesi e dinamica dei singoli comportamenti antisociali e criminosi;
-
-g) Terapia criminologica: trattamento delle varie forme di capacita' a delinquere e di pericolosita' criminale - il trattamento individualizzato;
-
-h) Giustizia penale e criminologia clinica.
-
-Art. 278. - Il piano degli studi della scuola di specializzazione in criminologia clinica e' il seguente:
-
-1° Anno:
-
-1) Criminologia generale e criminologia clinica (1° e 2° anno);
-
-2) Scienza della persona umana - personalita' e criminologia clinica;
-
-3) Psicologia e criminologia clinica;
-
-4) Psicopatologia clinica e criminologia clinica;
-
-5) Malattie mentali e criminologia clinica.
-
-2° Anno:
-
-6) Semeiotica criminologica;
-
-7) Esame medico del criminale;
-
-8) Esame psicologico del criminale;
-
-9) Esame sociale del criminale;
-
-10) Diagnostica criminologica;
-
-11) Criminogenesi - criminodinamica;
-
-12) Genesi e dinamica dei singoli comportamenti antisociali e criminosi (2° e 3° anno).
-
-3° Anno:
-
-13) Terapia criminologica;
-
-14) Trattamento delle varie forme di capacita' a delinquere e di pericolosita' criminale;
-
-15) Il trattamento individualizzato;
-
-16) Giustizia penale e criminologia clinica;
-
-17) Profilassi criminale e criminologia clinica.
-
-Art. 279. - Per gli insegnamenti alla lettera e), f) e g) sono previste esercitazioni pratiche presso istituti penitenziari specializzati.
-
-Art. 280. - I suddetti insegnamenti saranno integrati da conferenze e da brevi corsi affidati a professori italiani e stranieri.
-
-Art. 281. - Alla scuola sono ammessi i laureati in medicina e chirurgia, in giurisprudenza, in scienze politiche, pedagogia, in numero complessivo non superiore a trenta per i tre anni di corse.
-
-Art. 282. - Le norme per l'iscrizione, per gli esami, per le tasse, ecc., sono quelle generali delle scuole di specializzazione e di perfezionamento riferite negli articoli da 122 a 137 del presente statuto.
-
-Art. 283. - Gli esami di profitto vengono dati per gruppi di materie secondo quanto verra' stabilito dal manifesto della scuola.
-
-Art. 284. - L'esame di diploma consiste in una discussione sopra una dissertazione originale scritta, ed in prove teoriche e pratiche stabilite dalla commissione giudicatrice.
-
-A coloro che hanno superato l'esame di diploma viene rilasciato il diploma di specialista.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 21 luglio 1969
-
-SARAGAT
-
-FERRARI AGGRADI
-
-Visto, il Guardasigilli: GAVA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 12 settembre 1969 Atti del Governo, registro n. 229, foglio n. 28. - CARUSO
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 122, relativo all'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia, e' modificato nel senso che la scuola in "Otorinolaringoiatria" muta denominazione in quella di "Otorinolaringoiatria e patologia cervico-facciale".   
-Allo stesso elenco e' aggiunta la scuola di specializzazione in "Criminologia clinica".   
-Gli articoli da 161 a 165 relativi alla scuola di Specializzazione in otorinolaringoiatria, gli articoli da 173 a 179 relativi alla scuola di specializzazione in medicina legale e delle assicurazioni, e gli articoli da 240 a 242 relativi alla scuola di specializzazione in medicina del lavoro sono abrogati e sostituiti dai seguenti:   
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale   
+Dopo l'art. 286 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola per tecnici testisti (scuola diretta a fini speciali).  
   
-Art. 161. - Presso l'istituto di clinica otorinolaringoiatrica e' istituita la scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale, che ha lo scopo di conferire la necessaria competenza a coloro che vogliono dedicarsi all'esercizio di questa branca della medicina. Il diploma che viene rilasciato in seguito ad esame, attribuisce la qualifica di specialista in otorinolaringoiatria e patologia cervico facciale.   
-Art. 162. - Gli insegnamenti impartiti nella scuola sono:   
-1° Anno:   
-1) Anatomia;   
-2) Fisiologia;   
-3) Audiologia (1° anno);   
-4) Semeiotica otorinolaringoiatrica;   
-5) Tecnica di laboratorio;   
-6) Patologia otorinolaringoiatrica e cervico-facciale (1° anno);   
-7) Anatomia e istologia patologica otorinolaringoiatrica.   
-2° Anno:   
-1) Tecniche operatorie in otorinolaringoiatria;   
-2) Anestesiologia in otorinolaringoiatria;   
-3) Patologia e clinica otorinolaringoiatrica e cervico-facciale (2° anno);   
-4) Radiologia in rapporto con l'otorinolaringoiatria;   
-5) Pediatria in rapporto con l'otorinolaringoiatria;   
-6) Audiologia (2° anno);   
-7) Otoneurologia;   
-8) Foniatria.   
-3° Anno:   
-1) Patologia e clinica otorinolaringoiatrica e cervico-facciale;   
-2) Terapia medica e fisica in otorinolaringoiatria;   
-3) Neuropatologia in rapporto con l'otorinolaringoiatria;   
-4) Oculistica in rapporto con l'otorinolaringoiatria;   
-5) Chirurgia plastica;   
-6) Tracheo-broncoscopia;   
-7) Medicina legale ed infortunistica in otorinolaringoiatria.   
-Art. 163. - Il corso ha la durata di anni tre ed ha carattere scientifico, teorico e di ricerca e con particolare indirizzo deduttivo clinico e pratico.   
-Art. 164. - Gli iscritti hanno l'obbligo di frequentare assiduamente per tutto il triennio il corso di clinica otorinolaringoiatrica, i corsi integrativi, l'ambulatorio, i reparti clinici, e le sale d'operazione, prestando regolare servizio come interni della clinica.   
-Art. 165. - Al corso possono iscriversi solo i laureati in medicina e chirurgia.   
-Il numero degli iscritti non puo' superare i ventuno per l'intero corso degli studi.   
-Al termine di ciascun anno di corso gli allievi sono tenuti ad un colloquio-esame per ciascuna delle materie raggruppate in due gruppi per affinita' di indirizzo culturale.   
-L'allievo che non ottenga l'idoneita' in tali colloqui esami potra' ripetere il corso.   
-Alla fine del corso gli allievi che lo hanno frequentato regolarmente sono ammessi a dare l'esame, che consiste in una prova teorica con la presentazione e discussione di una tesi scritta su argomento di otorinolaringoiatria ed in una prova pratica al letto del malato.   
-Le norme per l'iscrizione, per gli esami, per le tasse, ecc. sono quelle generali per le scuole di specializzazione e di perfezionamento riferite negli articoli da 122 a 137 del presente statuto.   
-Agli allievi, i quali abbiano ottenuto l'approvazione nell'esame di diploma, viene rilasciato il diploma di specializzazione in otorinolaringoiatria e patologia cervico-facciale, valido a tutti gli effetti di legge.   
+Scuola per tecnici testisti  
+(Scuola diretta a fini speciali)  
   
-Scuola di specializzazione in medicina legale e delle assicurazioni   
-Art. 173. - Presso l'istituto di medicina legale e delle assicurazioni e' istituita la scuola di specializzazione in medicina legale e delle assicurazioni, la quale ha lo scopo di conferire adeguata competenza teorica e pratica ai laureati in medicina e chirurgia, i quali intendano conseguire il diploma di specializzazione.   
-La durata del corso di studi e' di anni tre.   
-Direttore della scuola e' il titolare della cattedra di medicina legale e delle assicurazioni.   
-Alla scuola possono iscriversi solo i laureati in medicina e chirurgia in numero limitato a trenta per lo intero corso degli studi.   
-Art. 174. - Le materie di insegnamento della scuola sono:   
-1° Anno:   
-Medicina legale generale;   
-Elementi di diritto pubblico e privato;   
-Tecnica e diagnostica anatomo-patologica generale e medico-legale;   
-Traumatologia medico-legale;   
-Semeiotica medico-legale.   
-2° Anno:   
-Medicina legale penalistica;   
-Deontologia medica;   
-Neuropsichiatria medico-legale;   
-Elementi di medicina criminologica e di medicina penitenziaria;  
-Indagini di sopralluogo;   
-Identificazione personale.   
-3° Anno:   
-Medicina legale civilistica e canonistica;   
-Tossicologia medico-legale;   
-Tecniche di laboratorio medico-legale ed ematologia forense;   
-Ostetricia e ginecologia forensi;   
-Elementi di legislazione del lavoro;   
-Elementi di medicina del lavoro;   
-Medicina delle assicurazioni;   
-Medicina legale militare e pensionistica civile.   
-Art. 175. - Gli insegnamenti hanno carattere essenzialmente dimostrativo e di pratica esercitazione e saranno integrati da periodi di internato della durata di almeno sei mesi per anno.   
-Possono essere organizzate inoltre conferenze pratiche da tenersi da docenti di altre materie che abbiano attinenza con gli scopi della scuola.   
-Art. 176. - I mezzi per l'insegnamento sono forniti dall'istituto di medicina legale e delle assicurazioni ove ha sede la scuola. Alla casistica clinica e giudiziaria possono provvedere anche i singoli docenti, secondo le cariche e gli uffici pubblici da loro coperti, presso le cliniche, ospedali o presso istituti di assicurazioni.   
-Art. 177. - Alla fine di ogni anno di corso gli allievi, i quali abbiano frequentato il corso stesso, dovranno sostenere un colloquio di esame sulle singole materie di insegnamento di fronte alla commissione prevista dal regolamento generale delle scuole di specializzazione per dimostrare la loro idoneita' alla iscrizione all'anno successivo.   
-Alla fine del triennio gli allievi, i quali abbiano frequentato i corsi ed eseguite le esercitazioni, saranno ammessi alle prove di esami per il conseguimento del diploma secondo le norme del regolamento generale delle scuole di specializzazione.   
-Gli esami consisteranno in una prova orale teorica e pratica sulle materie di insegnamento e nella discussione di una dissertazione scritta sopra un argomento attinente agli insegnamenti della scuola.   
-I candidati non riconosciuti idonei all'esame di diploma si potranno ripresentare dopo un altro anno di frequenza alla scuola; se al secondo esame non sara' loro riconosciuta la idoneita', verranno senz'altro esclusi da ulteriori prove.   
-Art. 178. - La commissione per l'esame di diploma, nominata dal rettore su proposta del direttore della scuola e del preside della facolta', sara' composta da sei membri.   
-Art. 179. - Agli allievi i quali abbiano ottenuto la approvazione nell'esame di diploma, verra' rilasciato il diploma di specializzazione in medicina legale e delle assicurazioni, valido a tutti gli effetti di legge. Le norme per l'iscrizione, per gli esami, per le tasse, ecc. sono quelle generali riferite negli articoli da 122 a 137 del presente statuto.   
+Art. 287. - Presso l'istituto di psicologia e' istituita una scuola per tecnici testisti (scuola diretta a fini speciali) che ha lo scopo di conferire la necessaria competenza teorica e pratica a coloro che affiancheranno, in veste di tecnici, gli psicologi.  
+Art. 288. - Gli insegnamenti impartiti nella scuola sono:  
+1° Anno:  
+Psicologia generale;  
+Psicometria con esercitazioni I;  
+Statistica;  
+Psicofisiologia del sistema nervoso.  
+2° Anno:  
+Psicometria con esercitazioni II;  
+Psicologia sociale e sociologia;  
+Psicologia dello sviluppo e psicopedagogia;  
+Psicopatologia.  
+Art. 289. - La scuola ha la durata di due anni e ha carattere essenzialmente dimostrativo e pratico.  
+Art. 290. - Alla scuola possono iscriversi persone di eta' non inferiore a 18 anni, con licenza di scuola media superiore o con l'ammissione all'ultimo anno di, liceo classico o scientifico.  
+Art. 291. - E' facolta' del direttore di ammettere direttamente alla frequenza del secondo anno le persone che saranno ritenute idonee sulla base di esami e di titoli, che attestano una preparazione nel campo specifico.  
+Art. 292. - Il direttore della scuola e' il direttore dell'istituto di psicologia della facolta' di medicina e chirurgia.  
+Gli insegnanti della scuola sono proposti dal consiglio di facolta' di medicina e chirurgia, udito il direttore e nominati dal rettore.  
+Il consiglio del corso si compone dei docenti che vi tengano gli insegnamenti prescritti ed e' presieduto dal direttore.  
+Art. 293. - La domanda di ammissione alla scuola e' diretta al direttore della scuola, il quale sottopone ogni aspirante ad esame di selezione ed a colloquio per accertare l'attitudine a seguire gli insegnamenti del corso.  
+Art. 294. - Il numero massimo di allievi che possono essere accolti annualmente dalla scuola e' di venticinque per anno.  
+Art. 295. - Gli iscritti hanno l'obbligo di frequentare assiduamente per tutto il biennio le lezioni teoriche nell'istituto di psicologia e le esercitazioni pratiche, che si svolgeranno sia nell'istituto stesso che in altre istituzioni che saranno di volta in volta indicate.  
+Art. 296. - Alla fine del primo anno gli allievi devono superare, per essere ammessi al secondo, prove di esame sugli insegnamenti teorici e pratici impartiti. Al termine del secondo anno per il conseguimento del diploma gli allievi devono sostenere un esame comprendente:  
+a) una prova scritta;  
+b) una prova orale sulle materie dell'intero corso;  
+c) una prova pratica stabilita dalla commissione esaminatrice.  
+Art. 297. - La commissione d'esame e di diploma e' formata da tre membri scelti fra i docenti e nominati dal preside su proposta del direttore della scuola.  
+Ogni commissario ha a disposizione dieci punti. I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza della scuola. Ma se al secondo esame non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.  
+Art. 298. - Le tasse che gli iscritti sono tenuti a pagare vengono cosi' fissate:  
   
-Scuola di specializzazione in medicina del lavoro   
+1° Anno:  
+Tassa di iscrizione . . . . . . . . . . . . . . . . . . L. 20.000 Contributi. . . . . . . . . . . . . . . . . . . . . . . L. 40.000 Soprattassa esame. . . . . . . . . . . . . . . . . . . . L. 7.000 2° Anno:  
+Tassa di iscrizione . . . . . . . . . . . . . . . . . . L. 20.000 Contributi. . . . . . . . . . . . . . . . . . . . . . . L. 40.000 Soprattassa esame. . . . . . . . . . . . . . . . . . . . L. 7.000 Soprattassa di diploma . . . . . . . . . . . . . . . . . L. 3.000   
+Norma transitoria  
   
-Art. 240. - Presso l'istituto di medicina del lavoro e' istituita la scuola di specializzazione in medicina del lavoro, che ha lo scopo di impartire la necessaria competenza teorica e pratica ai laureati in medicina e chirurgia ai fini del conseguimento del diploma di specializzazione in medicina del lavoro. Il corso di specializzazione ha la durata di tre anni. Ad esso possono iscriversi soltanto i laureati in medicina e chirurgia. Le norme per l'iscrizione, per gli esami, per le tasse, ecc. sono quelle generali per le scuole di specializzazione e di perfezionamento riferite negli articoli da 122 a 137 del presente statuto.   
-Art. 241. - Gli insegnamenti impartiti nella suddetta scuola sono i seguenti:   
-1° Anno:   
-1) Fisiologia del lavoro ed ergonomia;   
-2) Tecnologia ed igiene del lavoro;   
-3) Patologia e clinica del lavoro;   
-4) Psicologia del lavoro.   
-2° Anno:   
-1) Fisiologia del lavoro ed ergonomia;   
-2) Tecnologia ed igiene del lavoro;   
-3) Patologia e clinica del lavoro;   
-4) Psicologia del lavoro;   
-5) Tossicologia industriale e diagnostica di laboratorio;   
-6) Infortunistica e pronto soccorso;   
-7) Biometria e statistica sanitaria;   
-8) Medicina preventiva dei lavoratori.   
-3° Anno:   
-1) Patologia e clinica del lavoro;   
-2) Tecnologia ed igiene del lavoro;   
-3) Infortunistica e pronto soccorso;   
-4) Medicina legale delle assicurazioni;   
-5) Medicina preventiva dei lavoratori;   
-6) Radiologia e medicina nucleare;   
-7) Tossicologia industriale e diagnostica di laboratorio;   
-8) Dermatologia professionale.   
-Il numero e la distribuzione delle ore di lezione saranno fissate dal direttore della scuola al principio di ogni anno accademico.   
-Avranno inoltre luogo esercitazioni pratiche di diagnostica e di laboratorio, nonche' visite di istruzione ad istituzioni, enti ed aziende industriali.   
-Il numero massimo dei posti e' fissato in ventiquattro per i tre anni di corso.   
-Art. 242. - Al termine del corso gli allievi che hanno frequentato il corso saranno ammessi all'esame di diploma secondo le norme generali delle scuole di specializzazione di questa facolta' di medicina e chirurgia, riportate nel presente statuto.   
-Dopo l'art. 275 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in criminologia clinica.   
-  
-Scuola di specializzazione in criminologia clinica   
-  
-Art. 276. - Presso l'istituto di antropologia criminale dell'Universita' di Genova e' istituita una scuola di specializzazione in criminologia clinica.   
-Art. 277. - Gli insegnamenti impartiti nella scuola sono i seguenti:   
-a) Criminologia generale e criminologia clinica;   
-b) Scienza della persona umana - personalita' criminologia clinica;   
-c) Psicologia e psicopatologia clinica e criminologia clinica;   
-d) Malattie mentali e criminologia clinica;   
-e) Semeiotica criminologica; esame medico, psicologico, sociale del criminale;   
-f) Diagnostica criminologica: criminogenesi - criminodinamica - genesi e dinamica dei singoli comportamenti antisociali e criminosi;   
-g) Terapia criminologica: trattamento delle varie forme di capacita' a delinquere e di pericolosita' criminale - il trattamento individualizzato;   
-h) Giustizia penale e criminologia clinica.   
-Art. 278. - Il piano degli studi della scuola di specializzazione in criminologia clinica e' il seguente:   
-1° Anno:   
-1) Criminologia generale e criminologia clinica (1° e 2° anno);  
-2) Scienza della persona umana - personalita' e criminologia clinica;   
-3) Psicologia e criminologia clinica;   
-4) Psicopatologia clinica e criminologia clinica;   
-5) Malattie mentali e criminologia clinica.   
-2° Anno:   
-6) Semeiotica criminologica;   
-7) Esame medico del criminale;   
-8) Esame psicologico del criminale;   
-9) Esame sociale del criminale;   
-10) Diagnostica criminologica;   
-11) Criminogenesi - criminodinamica;   
-12) Genesi e dinamica dei singoli comportamenti antisociali e criminosi (2° e 3° anno).   
-3° Anno:   
-13) Terapia criminologica;   
-14) Trattamento delle varie forme di capacita' a delinquere e di pericolosita' criminale;   
-15) Il trattamento individualizzato;   
-16) Giustizia penale e criminologia clinica;   
-17) Profilassi criminale e criminologia clinica.   
-Art. 279. - Per gli insegnamenti alla lettera e), f) e g) sono previste esercitazioni pratiche presso istituti penitenziari specializzati.   
-Art. 280. - I suddetti insegnamenti saranno integrati da conferenze e da brevi corsi affidati a professori italiani e stranieri.   
-Art. 281. - Alla scuola sono ammessi i laureati in medicina e chirurgia, in giurisprudenza, in scienze politiche, pedagogia, in numero complessivo non superiore a trenta per i tre anni di corse.   
-Art. 282. - Le norme per l'iscrizione, per gli esami, per le tasse, ecc., sono quelle generali delle scuole di specializzazione e di perfezionamento riferite negli articoli da 122 a 137 del presente statuto.   
-Art. 283. - Gli esami di profitto vengono dati per gruppi di materie secondo quanto verra' stabilito dal manifesto della scuola.   
-Art. 284. - L'esame di diploma consiste in una discussione sopra una dissertazione originale scritta, ed in prove teoriche e pratiche stabilite dalla commissione giudicatrice.   
-A coloro che hanno superato l'esame di diploma viene rilasciato il diploma di specialista.   
+Art. 299. - Alla data dell'entrata in vigore del presente statuto gli allievi dei precedenti corsi di cultura per tecnici testisti tenuti presso l'istituto di psicologia di questa universita' che abbiano sostenuto tutti gli esami e che siano in possesso del regolare attestato di frequenza e profitto, potranno ottenere il corrispondente diploma di tecnico testista, previo colloquio integrativo.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 luglio 1969
+### Dato a Roma, addi' 31 ottobre 1970
 
-SARAGAT FERRARI AGGRADI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 12 settembre 1969
+Registrato alla Corte dei conti, addi' 26 gennaio 1971
 
-Atti del Governo, registro n. 229, foglio n. 28. - CARUSO
+Atti del Governo, registro n. 240, foglio n. 122. - CARUSO

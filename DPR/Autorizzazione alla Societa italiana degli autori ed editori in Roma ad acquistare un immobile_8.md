@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 748
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1984 n. 39
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 748
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1984 n. 39
+==============================================================
 
 Autorizzazione alla Societa' italiana degli autori ed editori, in Roma, ad acquistare un immobile.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-748. Decreto del Presidente della Repubblica 22 settembre 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana degli autori ed editori (S.I.A.E.), in Roma, viene autorizzata ad acquistare, al prezzo di L. 67.500.000, un immobile sito in Roma, via Cerreto di Spoleto numeri 31, 33, 35, distinto nel nuovo catasto edilizio urbano alla partita 280096, foglio 931, mappale 42 sub 3, e valutato dall'ufficio tecnico erariale in L. 150.000.000, come da atto di compravendita 1 marzo 1978, n. 131052/12387 di repertorio, a rogito dott. Francesco Varcasia, notaio in Roma, registrato a Roma in data 17 marzo 1978 al n. 2498.  
+39. Decreto del Presidente della Repubblica 10 febbraio 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana degli autori ed editori (S.I.A.E.), in Roma, viene autorizzata ad acquistare, al convenuto prezzo di lire 150.000.000, un immobile sito in Novara, rotonda Massimo d'Azeglio n. 11, costituito da un appartamento al primo piano di mq 148 ed ampio terrazzo, iscritto nel catasto terreni del comune di Novara al foglio 167, part. 179, e regolarmente dichiarato presso il nuovo catasto edilizio urbano di Novara su presentazione rilasciata in data 16 gennaio 1979, n. 414/79, valutato da perizia estimativa di parte L. 160.000.000, come da atto di compravendita 29 gennaio 1981, n. 48459/2756 di repertorio, a rogito dott. Giuseppe Mittino, notaio in Novara, registrato a Novara in data 13 febbraio 1981 al n. 1188.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 11 dicembre 1981  
-Registro n. 10 Presidenza, foglio n. 340
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 14 marzo 1984  
+Registro n. 3 Presidenza, foglio n. 81

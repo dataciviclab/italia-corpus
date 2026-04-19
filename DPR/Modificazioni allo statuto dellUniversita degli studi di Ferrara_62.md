@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1215
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1976 n. 915
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1215
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1976 n. 915
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Udito il testo unico della legge sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,93 +20,119 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni dagli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-L'art. 106, relativo alla scuola di specializzazione in malattie dell'apparato cardiovascolare che muta la denominazione in quella di scuola di specializzazione in cardiologia, e' abrogato e sostituito dal seguente:
+L'art. 115, relativo alla scuola di specializzazione in anestesiologia e rianimazione, e' modificato nel senso che il primo e il secondo comma sono abrogati e sostituiti dai seguenti:
 
-Scuola di specializzazione in cardiologia
+La scuola di specializzazione in anestesiologia e rianimazione ha sede presso l'istituto di anestesiologia e rianimazione, ed ha la durata di tre anni.
 
-Art. 106. - La scuola di specializzazione in cardiologia ha sede presso la clinica medica generale e conferisce il diploma in cardiologia.
+Direttore della scuola e' il direttore dell'istituto di anestesia e rianimazione.
 
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione e, in carenza, a professore di ruolo o fuori ruolo di materia affine.
+Dopo l'art. 163, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in audiologia e in puericultura annesse alla facolta' di medicina e chirurgia.
 
-Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+Scuola di specializzazione in audiologia
 
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
+Art. 164. - La scuola di specializzazione in audiologia ha sede presso l'istituto di clinica otorinolaringoiatrica dell'Universita' di Ferrara. Essa e' diretta da titolare di una delle cattedre afferenti all'istituto policattedra di clinica otorinolaringoiatrica dell'Universita' con designazione da parte del consiglio di facolta'.
 
-Il numero massimo di allievi e' di 15 (quindici) per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi.
+La scuola e' retta secondo le norme del regolamento generale delle scuole di specializzazione dell'Universita' di Ferrara.
 
-L'ammissione al corso avviene per titoli ed esami.
+((Art. 165. - La durata del corso e' di tre anni. L'indirizzo e' teorico-pratico.
 
-Le materie di insegnamento sono le seguenti:
+Il numero massimo complessivo di iscritti e' di dodici.))
+
+Art. 166. - L'ammissione al corso e' per titoli e per esami, titolo necessario per l'ammissione al corso e' la laurea in medicina e chirurgia.
+
+Nessuna abbreviazione di corso puo' essere ammessa.
+
+Art. 167. - Alla fine di ciascun anno scolastico gli specializzandi dovranno sostenere un esame di profitto il cui superamento e' condizione necessaria per l'iscrizione nell'anno successivo e, per quelli che sono iscritti all'ultimo anno, per poter accedere all'esame di diploma.
+
+Alla fine del terzo anno di corso ha luogo l'esame di diploma, consistente nella preparazione e discussione di una dissertazione scritta su di un argomento di audiologia, previamente concordato tra il diplomando ed il direttore della scuola.
+
+Art. 168. - Gli insegnamenti impartiti nella scuola sono i seguenti:
 
 1° Anno:
 
-1) anatomia umana normale ed embriologia dello apparato cardiovascolare;
+nozioni di fisica acustica;
 
-2) fisiologia dell'apparato cardiovascolare (I);
+anatomia dell'orecchio, delle vie e dei centri acustici e vestibolari;
 
-3) biochimica e biofisica;
+fisiologia dell'orecchio, delle vie e dei centri acustici e vestibolari;
 
-4) semeiotica fisica e strumentale dell'apparato cardiovascolare (I);
-
-5) informatica medica e strumentazione biomedica (I).
+nozioni di psichiatria.
 
 2° Anno:
 
-1) anatomia patologica (I);
+tecniche audiometriche;
 
-2) fisiologia dell'apparato cardiovascolare (II);
+nozioni di neurologia;
 
-3) patologia e clinica cardiovascolare (I);
-
-4) semeiotica fisica e strumentale dell'apparato cardiovascolare (II);
-
-5) informatica medica e strumentazione biomedica (II);
-
-6) radiologia (I);
-
-7) aspetti sociali ed epidemiologici delle malattie cardiovascolari.
+nozioni di vestibologia.
 
 3° Anno:
 
-1) anatomia patologia (II);
+patologia dell'udito;
 
-2) semeiotica fisica e strumentale dell'apparato cardiovascolare (III);
+terapia medica, chirurgica e protesica della sordita';
 
-3) patologia e clinica cardiovascolare (II);
+la sordita' sotto il profilo sociale;
 
-4) radiologia (II);
+la rieducazione dell'ipoacusico.
 
-5) terapia medica e farmacologia clinica (I).
+Per tasse, soprattasse e contributi si fa riferimento alle norme statutarie in vigore.
 
-4° Anno:
+Scuola di specializzazione in puericultura
 
-1) semeiotica fisica e strumentale dell'apparato cardiovascolare (IV);
+Art. 169. - La scuola di specializzazione in puericultura ha sede presso l'istituto di puericultura e medicina neonatale dell'Universita' di Ferrara ed e' diretta dal professore di ruolo della cattedra stessa.
 
-2) patologia e clinica cardiovascolare (III);
+Art. 170. - La durata del corso e' di tre anni. Gli iscritti hanno l'obbligo di internato con le modalita' e l'orario che saranno stabiliti dal consiglio della scuola.
 
-3) terapia medica e farmacologia clinica (II);
+Art. 171. - Il numero massimo degli iscritti e' di quindici per i tre anni di corso.
 
-4) terapia chirurgica;
+Art. 172. - L'ammissione al corso e' per titoli.
 
-5) terapie intensive cardiologiche.
+Art. 173. - Le materie di insegnamento sono le seguenti:
 
-La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame. Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.
+1° Anno:
 
-Al termine del corso di studi, per il conseguimento del diploma di specialista in cardiologia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento di carattere cardiologico.
+1) peculiarita' anatomo-fisiologiche dell'eta' evolutiva;
+
+2) elementi di genetica medica ed eugenetica;
+
+3) elementi di puericultura perinatale;
+
+4) auxologia;
+
+5) alimentazione e dietetica dell'eta' infantile;
+
+6) elementi di semeiotica infantile.
+
+2° Anno:
+
+1) psicologia dell'igiene mentale nell'eta' evolutiva;
+
+2) igiene ed assistenza nell'eta' evolutiva;
+
+3) profilassi delle malattie infettive nell'infanzia;
+
+4) elementi di medicina scolastica;
+
+5) legislazione ed assistenza sociale nell'infanzia.
+
+3° Anno:
+
+tirocinio pratico presso l'istituto dove la scuola ha sede od altre istituzioni od enti che abbiano, a giudizio del consiglio della scuola, caratteristiche tali da assicurare lo svolgimento di un efficace tirocinio sotto l'aspetto eminentemente pratico.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1977
+Dato a Roma, addi' 28 ottobre 1976
 
 LEONE
 
@@ -117,76 +143,90 @@ Visto, il Guardasigilli: BONIFACIO
 Registrato
 ----------
 
-alla Corte dei conti, addi' 27 giugno 1978 Registro n. 67 Istruzione, foglio n. 345
+alla Corte dei conti, addi' 28 dicembre 1976 Registro n. 104 Istruzione, foglio n. 394
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;   
+Udito il testo unico della legge sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni dagli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Riconosciuta la particolare necessita' di approvare le modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+L'art. 115, relativo alla scuola di specializzazione in anestesiologia e rianimazione, e' modificato nel senso che il primo e il secondo comma sono abrogati e sostituiti dai seguenti:   
   
-L'art. 106, relativo alla scuola di specializzazione in malattie dell'apparato cardiovascolare che muta la denominazione in quella di scuola di specializzazione in cardiologia, e' abrogato e sostituito dal seguente:   
+La scuola di specializzazione in anestesiologia e rianimazione ha sede presso l'istituto di anestesiologia e rianimazione, ed ha la durata di tre anni.   
+Direttore della scuola e' il direttore dell'istituto di anestesia e rianimazione.   
+Dopo l'art. 163, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in audiologia e in puericultura annesse alla facolta' di medicina e chirurgia.   
+Scuola di specializzazione in audiologia   
+Art. 164. - La scuola di specializzazione in audiologia ha sede presso l'istituto di clinica otorinolaringoiatrica dell'Universita' di Ferrara. Essa e' diretta da titolare di una delle cattedre afferenti all'istituto policattedra di clinica otorinolaringoiatrica dell'Universita' con designazione da parte del consiglio di facolta'.   
+La scuola e' retta secondo le norme del regolamento generale delle scuole di specializzazione dell'Universita' di Ferrara.   
+
+((Art. 165. - La durata del corso e' di tre anni. L'indirizzo e' teorico-pratico.   
+Il numero massimo complessivo di iscritti e' di dodici.))
+
   
-Scuola di specializzazione in cardiologia   
-  
-Art. 106. - La scuola di specializzazione in cardiologia ha sede presso la clinica medica generale e conferisce il diploma in cardiologia.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione e, in carenza, a professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
-Il numero massimo di allievi e' di 15 (quindici) per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Le materie di insegnamento sono le seguenti:   
+Art. 166. - L'ammissione al corso e' per titoli e per esami, titolo necessario per l'ammissione al corso e' la laurea in medicina e chirurgia.   
+Nessuna abbreviazione di corso puo' essere ammessa.   
+Art. 167. - Alla fine di ciascun anno scolastico gli specializzandi dovranno sostenere un esame di profitto il cui superamento e' condizione necessaria per l'iscrizione nell'anno successivo e, per quelli che sono iscritti all'ultimo anno, per poter accedere all'esame di diploma.   
+Alla fine del terzo anno di corso ha luogo l'esame di diploma, consistente nella preparazione e discussione di una dissertazione scritta su di un argomento di audiologia, previamente concordato tra il diplomando ed il direttore della scuola.   
+Art. 168. - Gli insegnamenti impartiti nella scuola sono i seguenti:   
 1° Anno:   
-1) anatomia umana normale ed embriologia dello apparato cardiovascolare;   
-2) fisiologia dell'apparato cardiovascolare (I);   
-3) biochimica e biofisica;   
-4) semeiotica fisica e strumentale dell'apparato cardiovascolare (I);   
-5) informatica medica e strumentazione biomedica (I).   
+nozioni di fisica acustica;   
+anatomia dell'orecchio, delle vie e dei centri acustici e vestibolari;   
+fisiologia dell'orecchio, delle vie e dei centri acustici e vestibolari;   
+nozioni di psichiatria.   
 2° Anno:   
-1) anatomia patologica (I);   
-2) fisiologia dell'apparato cardiovascolare (II);   
-3) patologia e clinica cardiovascolare (I);   
-4) semeiotica fisica e strumentale dell'apparato cardiovascolare (II);   
-5) informatica medica e strumentazione biomedica (II);   
-6) radiologia (I);   
-7) aspetti sociali ed epidemiologici delle malattie cardiovascolari.   
+tecniche audiometriche;   
+nozioni di neurologia;   
+nozioni di vestibologia.   
 3° Anno:   
-1) anatomia patologia (II);   
-2) semeiotica fisica e strumentale dell'apparato cardiovascolare (III);   
-3) patologia e clinica cardiovascolare (II);   
-4) radiologia (II);   
-5) terapia medica e farmacologia clinica (I).   
-4° Anno:   
-1) semeiotica fisica e strumentale dell'apparato cardiovascolare (IV);   
-2) patologia e clinica cardiovascolare (III);   
-3) terapia medica e farmacologia clinica (II);   
-4) terapia chirurgica;   
-5) terapie intensive cardiologiche.   
-La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame. Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.   
-Al termine del corso di studi, per il conseguimento del diploma di specialista in cardiologia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento di carattere cardiologico.   
+patologia dell'udito;   
+terapia medica, chirurgica e protesica della sordita';   
+la sordita' sotto il profilo sociale;   
+la rieducazione dell'ipoacusico.   
+Per tasse, soprattasse e contributi si fa riferimento alle norme statutarie in vigore.   
+Scuola di specializzazione in puericultura   
+Art. 169. - La scuola di specializzazione in puericultura ha sede presso l'istituto di puericultura e medicina neonatale dell'Universita' di Ferrara ed e' diretta dal professore di ruolo della cattedra stessa.   
+Art. 170. - La durata del corso e' di tre anni. Gli iscritti hanno l'obbligo di internato con le modalita' e l'orario che saranno stabiliti dal consiglio della scuola.   
+Art. 171. - Il numero massimo degli iscritti e' di quindici per i tre anni di corso.   
+Art. 172. - L'ammissione al corso e' per titoli.   
+Art. 173. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+1) peculiarita' anatomo-fisiologiche dell'eta' evolutiva;   
+2) elementi di genetica medica ed eugenetica;   
+3) elementi di puericultura perinatale;   
+4) auxologia;   
+5) alimentazione e dietetica dell'eta' infantile;   
+6) elementi di semeiotica infantile.   
+2° Anno:   
+1) psicologia dell'igiene mentale nell'eta' evolutiva;   
+2) igiene ed assistenza nell'eta' evolutiva;   
+3) profilassi delle malattie infettive nell'infanzia;   
+4) elementi di medicina scolastica;   
+5) legislazione ed assistenza sociale nell'infanzia.   
+3° Anno:   
+tirocinio pratico presso l'istituto dove la scuola ha sede od altre istituzioni od enti che abbiano, a giudizio del consiglio della scuola, caratteristiche tali da assicurare lo svolgimento di un efficace tirocinio sotto l'aspetto eminentemente pratico.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1977
+### Dato a Roma, addi' 28 ottobre 1976
 
 LEONE MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 27 giugno 1978
+Registrato alla Corte dei conti, addi' 28 dicembre 1976
 
-Registro n. 67 Istruzione, foglio n. 345
+Registro n. 104 Istruzione, foglio n. 394

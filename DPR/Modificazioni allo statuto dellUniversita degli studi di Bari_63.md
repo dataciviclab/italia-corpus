@@ -1,170 +1,235 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1967 n. 1322
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1968 n. 1427
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1967 n. 1322
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1968 n. 1427
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Bari approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella legge 2 gennaio. 1936, n. 73;
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare 19 nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+L'art. 199 concernente la scuola di specializzazione in oncologia e' abrogato e sostituito dal seguente:
+
+Scuola di specializzazione in oncologia
+
+Art. 199. - La scuola di specializzazione in oncologia ha lo scopo ed il compito di formare la necessaria competenza scientifica e di completare la preparazione biologica e di patologia clinica di coloro che vogliono dedicarsi all'esercizio della medicina e chirurgia con speciale riguardo allo studio dei tumori, alla diagnosi precoce, al loro rilievo ed alla loro prevenzione.
+
+La scuola ha sede presso l'istituto di patologia generale.
+
+Alla scuola sono ammessi i laureati in medicina e chirurgia preferibilmente specializzati in altre materie biologiche o cliniche.
+
+Il numero complessivo degli iscritti alla scuola non puo' essere superiore a sessanta, per i tre anni di corso.
+
+Qualora il numero delle domande di iscrizione fosse superiore a quello dei posti disponibili, la direzione della scuola si riserva di formare una graduatoria in base ai titoli presentati o ad esami.
+
+Non saranno concesse, per alcun motivo, abbreviazioni di corso.
+
+Il corso ha la durata di tre anni e gli insegnamenti avranno carattere dottrinale, dimostrativo e pratico.
+
+Gli iscritti alla scuola hanno l'obbligo della frequenza alle lezioni, alle esercitazioni e dell'internato semestrale negli istituti di patologia generale, di anatomia ed istologia patologica, di igiene, di patologia speciale medica e metodologia clinica, di clinica medica e di clinica ostetrica e ginecologica.
+
+Gli insegnamenti impartiti nella scuola sono i seguenti:
+
+1° Anno:
+
+Etiopatogenesi oncologica;
+
+Biochimica oncologica;
+
+Anatomia ed istologia patologica dei tumori.
+
+2° Anno:
+
+Oncologia sperimentale;
+
+Epidemiologia e statistica dei tumori.
+
+3° Anno:
+
+Diagnostica citologica e citologia dei tumori;
+
+Nozioni di diagnostica clinica e terapia dei tumori;
+
+Nozioni di clinica medica dei tumori;
+
+Nozioni di clinica ginecologica dei tumori;
+
+Organizzazione della lotta contro i tumori.
+
+Gli insegnamenti saranno completati con esercitazioni pratiche che si svolgeranno, durante il corso, nei suddetti istituti.
+
+La direzione della scuola ha la facolta' di invitare i cultori della materia a tenere conferenze su capitoli dell'oncologia.
+
+Dopo l'art. 223 sono inseriti i seguenti nuovi articoli relativi alla istituzione, presso la facolta' di medicina e chirurgia, della scuola di specializzazione in patologia generale, che e' aggiunta all'elenco delle scuole indicate all'art. 174.
+
+Scuola di specializzazione in patologia generale
+
+Art. 224. - La scuola ha sede presso l'istituto di patologia generale.
+
+Alla scuola possono essere ammessi i laureati in medicina e chirurgia, in scienze biologiche, in farmacia.
+
+Art. 225. - Il numero complessivo degli iscritti alla scuola non puo' essere superiore a sessanta, per i tre anni di corso.
+
+Qualora il numero delle domande di iscrizione fosse superiore a quello dei posti disponibili l'ammissione - alla scuola avverra' in seguito a concorso per esami.
+
+Art. 226. - La durata del corso e' di tre anni.
+
+Non saranno concesse, per alcun motivo, abbreviazioni di corso.
+
+Gli iscritti alla scuola hanno l'obbligo dell'internato presso l'istituto di patologia generale per tutta la durata del corso.
+
+Art. 227. - Gli insegnamenti impartiti nella scuola sono i seguenti:
+
+1° Anno:
+
+Eziologia generale (cause patogene: fisiche, chimiche e biologiche);
+
+Patologia istochimica;
+
+Patologia delle infezioni;
+
+Laboratorio di patologia generale (1° corso).
+
+2° Anno:
+
+Patologia delle infezioni;
+
+Immunologia;
+
+Fisiopatologia sistemica (della termoregolazione, del cuore e dei vasi, della respirazione) (I corso);
+
+Patologia del metabolismo (dei protidi, dei lipidi, dell'acqua e dei minerali e dei bioregolatori);
+
+Laboratorio di patologia generale (II corso).
+
+3° Anno:
+
+Fisiopatologia sistemica (della digestione, del rene, del sangue e del sistema neuro-endocrino) (II corso);
+
+Patologia oncologica;
+
+Laboratorio di patologia generale (III corso).
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 26 dicembre 1968
+
+SARAGAT
+
+SULLO
+
+Visto, il Guardasigilli: GAVA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 14 febbraio 1969 Atti del Governo, registro n. 225, foglio n. 30. - GRECO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto lo statuto dell'Universita' degli studi di Bari approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella legge 2 gennaio. 1936, n. 73;  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Riconosciuta la particolare necessita' di approvare 19 nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+L'art. 199 concernente la scuola di specializzazione in oncologia e' abrogato e sostituito dal seguente:  
   
-Art. 35. - All'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti i seguenti:  
-Stechiometria;  
-Microchimica;  
-Saggi e dosaggi farmacologici;  
-Complementi di chimica tossicologica.  
+Scuola di specializzazione in oncologia  
   
-Art. 40. - All'elenco degli istituti della facolta' di farmacia e' aggiunto il seguente:  
-Istituto di chimica organica, per gli insegnamenti di:  
-a) Chimica organica;  
-b) Chimica delle sostanze organiche naturali.  
+Art. 199. - La scuola di specializzazione in oncologia ha lo scopo ed il compito di formare la necessaria competenza scientifica e di completare la preparazione biologica e di patologia clinica di coloro che vogliono dedicarsi all'esercizio della medicina e chirurgia con speciale riguardo allo studio dei tumori, alla diagnosi precoce, al loro rilievo ed alla loro prevenzione.  
+La scuola ha sede presso l'istituto di patologia generale.  
+Alla scuola sono ammessi i laureati in medicina e chirurgia preferibilmente specializzati in altre materie biologiche o cliniche.  
+Il numero complessivo degli iscritti alla scuola non puo' essere superiore a sessanta, per i tre anni di corso.  
+Qualora il numero delle domande di iscrizione fosse superiore a quello dei posti disponibili, la direzione della scuola si riserva di formare una graduatoria in base ai titoli presentati o ad esami.  
+Non saranno concesse, per alcun motivo, abbreviazioni di corso.  
+Il corso ha la durata di tre anni e gli insegnamenti avranno carattere dottrinale, dimostrativo e pratico.  
+Gli iscritti alla scuola hanno l'obbligo della frequenza alle lezioni, alle esercitazioni e dell'internato semestrale negli istituti di patologia generale, di anatomia ed istologia patologica, di igiene, di patologia speciale medica e metodologia clinica, di clinica medica e di clinica ostetrica e ginecologica.  
+Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1° Anno:  
+Etiopatogenesi oncologica;  
+Biochimica oncologica;  
+Anatomia ed istologia patologica dei tumori.  
+2° Anno:  
+Oncologia sperimentale;  
+Epidemiologia e statistica dei tumori.  
+3° Anno:  
+Diagnostica citologica e citologia dei tumori;  
+Nozioni di diagnostica clinica e terapia dei tumori;  
+Nozioni di clinica medica dei tumori;  
+Nozioni di clinica ginecologica dei tumori;  
+Organizzazione della lotta contro i tumori.  
+Gli insegnamenti saranno completati con esercitazioni pratiche che si svolgeranno, durante il corso, nei suddetti istituti.  
+La direzione della scuola ha la facolta' di invitare i cultori della materia a tenere conferenze su capitoli dell'oncologia.  
+Dopo l'art. 223 sono inseriti i seguenti nuovi articoli relativi alla istituzione, presso la facolta' di medicina e chirurgia, della scuola di specializzazione in patologia generale, che e' aggiunta all'elenco delle scuole indicate all'art. 174.  
   
-Art. 82. - Nell'elenco degli insegnamenti complementari del corso di laurea in fisica e' aggiunto quello di "Calcoli numerici e grafici con elementi di programmazione I o II (con asterisco).  
+Scuola di specializzazione in patologia generale  
   
-Art. 83, concernente le norme comuni a tutti gli indirizzi del corso di laurea in fisica e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente: "Gli insegnamenti biennali comportano un esame alla fine di ciascuno anno di corso".  
-  
-Art. 84. - Nell'elenco degli insegnamenti complementari del corso di laurea in chimica (ind. inorganico chimico-fisico) sono aggiunti quelli di:  
-Chimica dei composti di coordinazione e metallorganici;  
-Chimica quantistica;  
-Chimica nucleare;  
-Cinetica chimica;  
-Cromatografia;  
-Chimica delle radiazioni;  
-Chimica macromolecolare;  
-Metodi matematici della chimica;  
-Magnetochimica;  
-Termodinamica statistica.  
-Nello stesso elenco del corso di laurea in chimica (ind.  
-organico-biologico) sono aggiunti quelli di:  
-Cinetica chimica;  
-Cromatografia;  
-Chimica macromolecolare;  
-Chimica delle radiazioni.  
-  
-Art. 86. - Nell'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti quelli di:  
-Algologia;  
-Biochimica vegetale;  
-Esperimentazione dei chimici;  
-Biochimica comparata;  
-Biologia marina;  
-Biologia molecolare;  
-Citologia ed embriologia vegetale;  
-Cristallografia e cristallochimica;  
-Ecologia;  
-Embriologia degli invertebrati;  
-Entomologia;  
-Etologia;  
-Fisiologia comparata;  
-Geologia nucleare;  
-Geologia regionale;  
-Meteorologia;  
-Mineralogia sistematica;  
-Minerogenesi e giacimentologia;  
-Paleontologia dei vertebrati;  
-Sedimentologia;  
-Fitogeografia;  
-Genetica umana;  
-Biologia generale;  
-Biochimica cellulare.  
-Nello stesso corso di laurea l'insegnamento di "Petrografia" muta denominazione in "Petrologia".  
-Nello stesso articolo, all'ultimo comma, alle materie richieste per la prova di cultura generale va aggiunto l'insegnamento di "Fisiologia generale".  
-  
-Art. 87, relativo alle norme di propedeuticita' e di esercitazioni del predetto corso di laurea in scienze naturali e' abrogato e sostituito dal seguente:  
-a) lo studente non potra' essere ammesso a sostenere l'esame di fisica, senza aver prima superato l'esame di istituzioni di matematiche;  
-b) non potra' essere ammesso a sostenere l'esame di chimica generale ed inorganica senza aver prima superato l'esame di fisica;  
-c) non potra' essere ammesso a sostenere l'esame di chimica organica senza avere prima superato l'esame di chimica generale ed inorganica;  
-d) non potra' essere ammesso a sostenere l'esame di mineralogia senza avere prima superato l'esame di chimica generale ed inorganica;  
-e) non potra' essere ammesso a sostenere l'esame di geologia senza aver prima superato l'esame di mineralogia;  
-f) non potra' essere ammesso a sostenere l'esame di fisiologia generale senza aver prima superato gli esami di fisica, di chimica generale ed inorganica, di chimica organica, di anatomia umana e di anatomia comparata;  
-g) non potra' essere ammesso a sostenere l'esame di chimica biologica senza aver prima superato l'esame di chimica organica;  
-h) non potra' essere ammesso a sostenere l'esame di genetica senza aver prima superato gli esami di botanica e di zoologia;  
-i) non potra' essere ammesso a sostenere l'esame di fisiologia vegetale senza aver prima superato gli esami di chimica generale ed inorganica e di chimica organica.  
-Gli insegnamenti fondamentali comportano un corso di esercitazioni, annuale o biennale a seconda del carattere annuale o biennale dell'insegnamento.  
-  
-Art. 88. - Nell'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti quelli di:  
-Algologia;  
-Biochimica comparata;  
-Biochimica molecolare;  
-Biochimica vegetale;  
-Ecologia;  
-Embriologia degli invertebrati;  
-Entomologia;  
-Etologia;  
-Fisiologia comparata;  
-Fitogeografia.  
-Nello stesso articolo, all'ultimo comma, alle materie richieste per la prova di cultura generale va aggiunto l'insegnamento di "Chimica biologica".  
-  
-Art. 89, relativo alle norme sulla propedeuticita' di alcuni esami del corso di laurea in scienze biologiche e' modificato nel senso che il terzo ed il settimo comma sono abrogati e sostituiti dai seguenti:  
-c) non potra' essere ammesso a sostenere l'esame di chimica biologica senza aver prima superato gli esami di chimica generale ed inorganica e di chimica organica;  
-g) non potra' essere ammesso a sostenere l'esame di chimica generale ed inorganica senza aver prima superato l'esame di fisica.  
-Allo stesso articolo e' aggiunto il seguente nuovo comma:  
-"Gli insegnamenti fondamentali comportano un corso di esercitazioni, annuale o biennale a seconda del carattere annuale o biennale dell'insegnamento".  
-  
-Art. 90. - Nell'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti quelli di:  
-Chimica analitica;  
-Cristallografia strutturale;  
-Geofisica nucleare;  
-Geologia nucleare;  
-Geologia stratigrafica;  
-Geotermia;  
-Mineralogia sistematica;  
-Petrografia applicata;  
-Petrotettonica;  
-Sedimentologia.  
-Nello stesso articolo, il quarto, il quinto e il sesto comma sono abrogati e sostituiti dalle seguenti disposizioni:  
-a) gli insegnamenti biennali comportano un esame alla fine di ciascun anno di corso;  
-b) gli esami delle materie fondamentali del III e IV anno devono essere preceduti dagli esami delle materie fondamentali del primo e secondo anno;  
-c) gli esami di fisica sperimentale, topografia e cartografia e di statistica devono essere preceduti da quello di istituzioni di matematiche;  
-d) l'esame di mineralogia deve essere preceduto da quelli di chimica generale ed inorganica con elementi di organica, fisica sperimentale I e II;  
-e) l'esame di geologia applicata deve essere preceduto da quello di geologia;  
-f) gli esami di giacimenti minerari, petrografia applicata, petrotettonica e di vulcanologia devono essere preceduti dall'esame di petrografia;  
-g) gli esami di analisi mineralogica, cristallografia strutturale, geochimica, mineralogia applicata e di mineralogia sistematica devono essere preceduti da quello di mineralogia;  
-h) gli esami di geofisica mineraria, geotermia, geofisica nucleare, di oceanografia e di sismologia devono essere preceduti dagli esami di fisica sperimentale;  
-i) gli esami di fotogeologia, geologia degli idrocarburi, geologia nucleare, geologia regionale, geologia stratigrafica, geotecnica, idrogeologia e di sedimentologia devono essere preceduti dall'esame di geologia;  
-l) l'esame di micropaleontologia deve essere preceduto dall'esame di paleontologia;  
-m) gli esami di chimica analitica, chimica fisica e di chimica organica devono essere preceduti da quello di chimica generale ed inorganica con elementi di organica.  
-Le esercitazioni di topografia e cartografia, petrografia, geologia, paleontologia, fisica terrestre dovranno essere svolte in parte in campagna.  
-Gli insegnamenti di botanica e di zoologia debbono avere indirizzo biogeografico.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro, da lui scelti, fra i complementari.  
-  
-Art. 91, relativo allo stesso corso di laurea in scienze geologiche e' modificato nel senso che le disposizioni in esso contenute sono abrogate e sostituite dalle seguenti:  
-"L'esame di laurea consta:  
-di una prova di cultura generale;  
-della discussione di una tesi scritta;  
-della discussione di almeno una fra due tesine.  
-La prova di cultura generale vertera' sulle seguenti discipline:  
-Fisica terrestre, geologia, mineralogia, paleontologia, petrografia.  
-Le tesi dovranno consistere in ricerche sul terreno o di laboratorio oppure in ricerche teoriche originali e dovranno essere svolte in discipline che fanno capo agli istituti di geodesia e geofisica, geologia e paleontologia, mineralogia e petrografia. A tal fine lo studente dovra' richiedere, all'inizio del III anno, l'internato biennale presso uno degli istituti sopra menzionati.  
-Un rilevamento geologico e una ricerca di laboratorio dovranno comparire o nella tesi o in una delle due tesine.  
+Art. 224. - La scuola ha sede presso l'istituto di patologia generale.  
+Alla scuola possono essere ammessi i laureati in medicina e chirurgia, in scienze biologiche, in farmacia.  
+Art. 225. - Il numero complessivo degli iscritti alla scuola non puo' essere superiore a sessanta, per i tre anni di corso.  
+Qualora il numero delle domande di iscrizione fosse superiore a quello dei posti disponibili l'ammissione - alla scuola avverra' in seguito a concorso per esami.  
+Art. 226. - La durata del corso e' di tre anni.  
+Non saranno concesse, per alcun motivo, abbreviazioni di corso.  
+Gli iscritti alla scuola hanno l'obbligo dell'internato presso l'istituto di patologia generale per tutta la durata del corso.  
+Art. 227. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1° Anno:  
+Eziologia generale (cause patogene: fisiche, chimiche e biologiche);  
+Patologia istochimica;  
+Patologia delle infezioni;  
+Laboratorio di patologia generale (1° corso).  
+2° Anno:  
+Patologia delle infezioni;  
+Immunologia;  
+Fisiopatologia sistemica (della termoregolazione, del cuore e dei vasi, della respirazione) (I corso);  
+Patologia del metabolismo (dei protidi, dei lipidi, dell'acqua e dei minerali e dei bioregolatori);  
+Laboratorio di patologia generale (II corso).  
+3° Anno:  
+Fisiopatologia sistemica (della digestione, del rene, del sangue e del sistema neuro-endocrino) (II corso);  
+Patologia oncologica;  
+Laboratorio di patologia generale (III corso).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 ottobre 1967
+### Dato a Roma, addi' 26 dicembre 1968
 
-SARAGAT GUI
+SARAGAT SULLO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 10 gennaio 1968
+Registrato alla Corte dei conti, addi' 14 febbraio 1969
 
-Atti del Governo, registro n. 216, foglio n. 120. - GRECO
+Atti del Governo, registro n. 225, foglio n. 30. - GRECO

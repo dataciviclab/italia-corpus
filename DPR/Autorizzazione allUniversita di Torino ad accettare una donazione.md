@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1968 n. 122
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 febbraio 1949 n. 71
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1968 n. 122
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 febbraio 1949 n. 71
 ==============================================================
 
 Autorizzazione all'Universita' di Torino ad accettare una donazione.
@@ -12,8 +12,7 @@ Art. 1
 
 N.
 
-122. Decreto del Presidente della Repubblica 22 gennaio 1968, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Torino viene autorizzata ad accettare la donazione di un appezzamento di terreno disposta dall'ospedale ostetrico ginecologico "S. Anna" di Torino, descritto nel catasto al foglio di mappa 122 part. 137-d, del valore di lire 28.000.000.  
+71. Decreto del Presidente della Repubblica, 3 febbraio 1949, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Torino viene autorizzata ad accettare la donazione della somma di L. 10.000.000, pagabile in dieci rate annue consecutive di L. 1.000.000 ciascuna, disposta in suo favore dalla Societa' anonima Francesco Cinzano e C.ia di Torino, con atto pubblico in data 10 marzo 1948, per l'istituzione, per la durata minima di dieci anni, di un centro di studio, annesso a quella Facolta' di agraria, da intitolarsi al nome di "Alberto Marone Cinzano", per la specializzazione in viticoltura ed enologia.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 22 febbraio 1968  
-Atti del Governo, registro n. 217, foglio n. 97. - GRECO
+Visto, il Guardasigilli: GRASSI  
+Registrato alla Corte dei conti, addi' 10 marzo 1049

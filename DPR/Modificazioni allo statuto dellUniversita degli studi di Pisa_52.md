@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1061
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 agosto 1968 n. 1017
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1061
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 agosto 1968 n. 1017
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -10,15 +10,13 @@ Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
@@ -32,101 +30,126 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 45, relativo agli istituti della facolta' di economia e commercio e' modificato nel senso che l'istituto di statistica muta la denominazione in quella di "Istituto di scienze statistiche "Mario De Vergottini""
+L'art. 102 e' abrogato e sostituito dal seguente:
 
-Art. 65. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:
+"La Facolta' di farmacia conferisce:
 
-Cardiochirurgia.
+a) la laurea in farmacia;
 
-Art. 74. - All'elenco degli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali e' aggiunto il seguente:
+b) la laurea in chimica e tecnologia farmaceutiche".
 
-Istituto di istologia ed embriologia.
+Dopo l'art. 110 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in chimica e tecnologia farmaceutiche annesso alla facolta' di farmacia:
 
-Art. 76. - All'elenco degli insegnamenti complementari del corso di laurea in chimica (indirizzo organicobiologico ed indirizzo inorganico-chimico-fisico) e' aggiunto quello di:
+Laurea in chimica e tecnologia farmaceutiche
 
-Termodinamica dei processi irreversibili.
+Art. 111. - La durata del corso degli studi per la laurea in chimica e tecnologia farmaceutiche e' di 5 anni, divisi in un biennio ed un triennio.
 
-Art. 78. - All'elenco degli insegnamenti complementari del corso di laurea in chimica industriale e' aggiunto quello di:
+Titolo di ammissione: diploma di maturita' classica o scientifica.
 
-Termodinamica dei processi irreversibili.
+Insegnamenti fondamentali:
 
-Art. 82. - All'elenco degli insegnamenti complementari comuni ai tre indirizzi sono aggiunti i seguenti:
+Biennio:
 
-Didattica della matematica;
+1) analisi chimico farmaceutica I (analisi qualitativa);
 
-Equazioni differenziali;
+\* 2) anatomia umana;
 
-Topologia algebrica.
+\* 3) botanica farmaceutica;
 
-Art. 84. - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:
+\* 4) chimica fisica;
 
-Etologia;
+\* 5) chimica generale ed inorganica;
 
-Ecologia;
+\*\* 6) chimica organica I;
 
-Microbiologia del suolo;
+\* 7) fisica;
 
-Giacimenti minerari.
+8) fisiologia generale;
 
-Nello stesso elenco l'insegnamento di "Etologia ed ecologia animale" e' soppresso.
+\* 9) istituzioni di matematiche;
 
-Art. 87. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:
+10) microbiologia e igiene;
 
-Etologia;
+Triennio:
 
-Ecologia;
+11) analisi chimico farmaceutica II (analisi quantitativa);
 
-Microbiologia del suolo.
+12) analisi chimico farmaceutica III (analisi dei medicamenti); \* 13) biochimica applicata;
 
-Nello stesso elenco l'insegnamento di "etologia ed ecologia animale" e' soppresso.
+\* 14) chimica biologica;
 
-Art. 104. - Dopo l'elenco degli insegnamenti complementari del corso di laurea in farmacia e' aggiunto il seguente comma:
+\* 15) chimica degli alimenti;
 
-"Possono inoltre essere scelti tutti gli insegnamenti complementari del corso di laurea in chimica e tecnologia farmaceutiche, non in comune ai due corsi di laurea".
+\* 16) chimica farmaceutica applicata;
 
-Gli articoli 108, 109, 110 relativi agli esami di laurea in farmacia sono abrogati e sostituiti dai seguenti:
+\* 17) chimica farmaceutica e tossicologica I;
 
-Art. 108. - Gli esami di laurea sono preceduti da prove pratiche e da un colloquio su argomenti di carattere professionale.
+\* 18) chimica farmaceutica e tossicologica II;
 
-Art. 109. - Per essere ammesso all'esame di laurea, il candidato deve presentare una dissertazione scritta, sia d'indole sperimentale che teorica, su argomento appropriato al carattere scientifico e professionale della facolta'.
+\*\* 19) chimica organica II;
 
-Art. 110. - L'esame di laurea consiste nella discussione pubblica della dissertazione scritta.
+\* 20) farmacologia e farmacognosia;
 
-Art. 112. - All'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologia farmaceutiche sono aggiunti i seguenti:
+21) impianti dell'industria farmaceutica;
 
-Chimica clinica;
+22) laboratorio di preparazione estrattiva e sintetica dei farmaci;
 
-Tossicologia e controllo degli inquinamenti;
+23) metodi fisici in chimica organica;
 
-Farmaci chemioterapici;
+24) saggi e dosaggi farmacologici;
 
-Farmacologia applicata.
+\* 25) tecnica e legislazione farmaceutica;
+
+Insegnamenti complementari:
+
+\* 1) complementi di chimica tossicologica;
+
+\* 2) farmacologia molecolare;
+
+\* 3) chimica delle fermentazioni e microbiologia industriale;
+
+4) chimica delle sostanze organiche naturali;
+
+\* 5) microchimica;
+
+\* 6) mineralogia;
+
+7) prodotti dietetici;
+
+8) prodotti cosmetici.
+
+Le materie segnate con un asterisco sono comuni alla laurea in farmacia; quelle segnate con due asterischi sono comuni alla laurea in chimica.
+
+Per ottenere l'iscrizione al terzo anno di corso, lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fissati per i due anni precedenti.
+
+Art. 112. - Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superato tutti gli esami delle materie fondamentali e di almeno due materie a scelta fra quelle complementari; deve inoltre presentare una dissertazione scritta, di indole sperimentale, e il titolo di tre argomenti liberamente scelti ed appartenenti a materia differente da quella sulla quale verta la dissertazione scritta.
+
+L'esame di laurea consiste nella discussione pubblica della dissertazione scritta e degli argomenti prescelti.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1972
+Dato ad Antagnod, addi' 7 agosto 1968
 
-LEONE
+SARAGAT
 
-SCALFARO
+SCAGLIA
 
 Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 5 marzo 1973 Atti di Governo, registro n. 256, foglio n. 51. - VALENTINI
+alla Corte dei conti, addi' 28 settembre 1968 Atti del Governo, registro n. 222, foglio n. 190. - GRECO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -135,68 +158,68 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 45, relativo agli istituti della facolta' di economia e commercio e' modificato nel senso che l'istituto di statistica muta la denominazione in quella di "Istituto di scienze statistiche "Mario De Vergottini""  
   
-Art. 65. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:  
+L'art. 102 e' abrogato e sostituito dal seguente:  
+"La Facolta' di farmacia conferisce:  
+a) la laurea in farmacia;  
+b) la laurea in chimica e tecnologia farmaceutiche".  
+Dopo l'art. 110 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in chimica e tecnologia farmaceutiche annesso alla facolta' di farmacia:  
   
-Cardiochirurgia.  
+Laurea in chimica e tecnologia farmaceutiche  
   
-Art. 74. - All'elenco degli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali e' aggiunto il seguente:  
-  
-Istituto di istologia ed embriologia.  
-  
-Art. 76. - All'elenco degli insegnamenti complementari del corso di laurea in chimica (indirizzo organicobiologico ed indirizzo inorganico-chimico-fisico) e' aggiunto quello di:  
-  
-Termodinamica dei processi irreversibili.  
-  
-Art. 78. - All'elenco degli insegnamenti complementari del corso di laurea in chimica industriale e' aggiunto quello di:  
-  
-Termodinamica dei processi irreversibili.  
-  
-Art. 82. - All'elenco degli insegnamenti complementari comuni ai tre indirizzi sono aggiunti i seguenti:  
-  
-Didattica della matematica;  
-Equazioni differenziali;  
-Topologia algebrica.  
-  
-Art. 84. - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:  
-  
-Etologia;  
-Ecologia;  
-Microbiologia del suolo;  
-Giacimenti minerari.  
-  
-Nello stesso elenco l'insegnamento di "Etologia ed ecologia animale" e' soppresso.  
-Art. 87. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:  
-  
-Etologia;  
-Ecologia;  
-Microbiologia del suolo.  
-  
-Nello stesso elenco l'insegnamento di "etologia ed ecologia animale" e' soppresso.  
-Art. 104. - Dopo l'elenco degli insegnamenti complementari del corso di laurea in farmacia e' aggiunto il seguente comma:  
-"Possono inoltre essere scelti tutti gli insegnamenti complementari del corso di laurea in chimica e tecnologia farmaceutiche, non in comune ai due corsi di laurea".  
-Gli articoli 108, 109, 110 relativi agli esami di laurea in farmacia sono abrogati e sostituiti dai seguenti:  
-Art. 108. - Gli esami di laurea sono preceduti da prove pratiche e da un colloquio su argomenti di carattere professionale.  
-Art. 109. - Per essere ammesso all'esame di laurea, il candidato deve presentare una dissertazione scritta, sia d'indole sperimentale che teorica, su argomento appropriato al carattere scientifico e professionale della facolta'.  
-Art. 110. - L'esame di laurea consiste nella discussione pubblica della dissertazione scritta.  
-Art. 112. - All'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologia farmaceutiche sono aggiunti i seguenti:  
-  
-Chimica clinica;  
-Tossicologia e controllo degli inquinamenti;  
-Farmaci chemioterapici;  
-Farmacologia applicata.  
+Art. 111. - La durata del corso degli studi per la laurea in chimica e tecnologia farmaceutiche e' di 5 anni, divisi in un biennio ed un triennio.  
+Titolo di ammissione: diploma di maturita' classica o scientifica.  
+Insegnamenti fondamentali:  
+Biennio:  
+1) analisi chimico farmaceutica I (analisi qualitativa);  
+\* 2) anatomia umana;  
+\* 3) botanica farmaceutica;  
+\* 4) chimica fisica;  
+\* 5) chimica generale ed inorganica;  
+\*\* 6) chimica organica I;  
+\* 7) fisica;  
+8) fisiologia generale;  
+\* 9) istituzioni di matematiche;  
+10) microbiologia e igiene;  
+Triennio:  
+11) analisi chimico farmaceutica II (analisi quantitativa);  
+12) analisi chimico farmaceutica III (analisi dei medicamenti); \* 13) biochimica applicata;  
+\* 14) chimica biologica;  
+\* 15) chimica degli alimenti;  
+\* 16) chimica farmaceutica applicata;  
+\* 17) chimica farmaceutica e tossicologica I;  
+\* 18) chimica farmaceutica e tossicologica II;  
+\*\* 19) chimica organica II;  
+\* 20) farmacologia e farmacognosia;  
+21) impianti dell'industria farmaceutica;  
+22) laboratorio di preparazione estrattiva e sintetica dei farmaci;  
+23) metodi fisici in chimica organica;  
+24) saggi e dosaggi farmacologici;  
+\* 25) tecnica e legislazione farmaceutica;  
+Insegnamenti complementari:  
+\* 1) complementi di chimica tossicologica;  
+\* 2) farmacologia molecolare;  
+\* 3) chimica delle fermentazioni e microbiologia industriale;  
+4) chimica delle sostanze organiche naturali;  
+\* 5) microchimica;  
+\* 6) mineralogia;  
+7) prodotti dietetici;  
+8) prodotti cosmetici.  
+Le materie segnate con un asterisco sono comuni alla laurea in farmacia; quelle segnate con due asterischi sono comuni alla laurea in chimica.  
+Per ottenere l'iscrizione al terzo anno di corso, lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fissati per i due anni precedenti.  
+Art. 112. - Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superato tutti gli esami delle materie fondamentali e di almeno due materie a scelta fra quelle complementari; deve inoltre presentare una dissertazione scritta, di indole sperimentale, e il titolo di tre argomenti liberamente scelti ed appartenenti a materia differente da quella sulla quale verta la dissertazione scritta.  
+L'esame di laurea consiste nella discussione pubblica della dissertazione scritta e degli argomenti prescelti.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato ad Antagnod, addi' 7 agosto 1968
 
-LEONE SCALFARO
+SARAGAT SCAGLIA
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 5 marzo 1973
+Registrato alla Corte dei conti, addi' 28 settembre 1968
 
-Atti di Governo, registro n. 256, foglio n. 51. - VALENTINI
+Atti del Governo, registro n. 222, foglio n. 190. - GRECO

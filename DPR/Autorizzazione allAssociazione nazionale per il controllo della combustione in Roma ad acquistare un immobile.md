@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 aprile 1974 n. 630
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1974 n. 465
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 aprile 1974 n. 630
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1974 n. 465
+===============================================================
 
 Autorizzazione all'Associazione nazionale per il controllo della combustione, in Roma, ad acquistare un immobile.
 -----------------------------------------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-630. Decreto del Presidente della Repubblica 24 aprile 1974, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale e del Ministro per l'industria, il commercio e l'artigianato, l'Associazione nazionale per il controllo della combustione, in Roma, viene autorizzata ad acquistare dalla ditta Gemignani, per il prezzo complessivo di L. 55.000.000, il fabbricato sito in Lucca, via Buonamici, 9, intestato al vigente catasto urbano di Lucca alla partita n. 31060 al regolare conto del sig. Gemignani Filippo fu Modesto e cosi' rappresentato nel foglio 125: mappale 896 sub. 1 cat. A/2 (vani 9); mappale 896 sub. 2 cat.  
-A/2 (vani 9).   
+465. Decreto del Presidente della Repubblica 18 febbraio 1974, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale e del Ministro per l'industria, il commercio e l'artigianato, l'Associazione italiana per il controllo della combustione viene autorizzata ad acquistare dall'impresa costruzioni "Cossio Gino ed ing. Enzo", per il prezzo complessivo di L. 60.000.000, una porzione dell'immobile di nuova costruzione sito in Udine, viale Ungheria, consistente in quattro appartamenti posti al secondo piano, uno scantinato e cinque posti macchina, da adibire ad uso ufficio.  
   
-Visto, il Guardasigilli: ZAGARI   
-Registrato alla Corte dei conti, addi' 30 novembre 1974   
-Atti di Governo, registro n. 7, foglio n. 45. - SCIARRETTA
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 26 settembre 1974  
+Atti di Governo, registro n. 5, foglio n. 71. - SCIARRETTA

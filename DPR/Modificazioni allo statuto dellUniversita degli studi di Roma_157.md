@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 febbraio 1961 n. 222
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 1167
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 febbraio 1961 n. 222
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 1167
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
@@ -12,52 +12,94 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successivi;  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Roma, approvato e' modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+L'art. 509 relativo alla "Scuola di specializzazione in pediatria", che muta la denominazione in quella di "Scuola di specializzazione in clinica pediatrica", e' abrogato e sostituito dal seguente:  
   
-Art. 97. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche e' aggiunto quello di:  
-"Tecnologie alimentari";  
-Art. 99. - Il comma sesto e' sostituito dal seguente:  
-"L'insegnamento biennale di Fisica sperimentale comporta un esame alla fine di ciascun anno di corso".  
-Gli articoli dal 463 al 466 relativi alla Scuola di perfezionamento in Endocrinologia e malattie metaboliche sono abrogati e sostituiti dai seguenti con il seguente nuovo ordinamento e con la seguente nuova denominazione.  
+Scuola di specializzazione in clinica pediatrica  
   
-Scuola di specializzazione in Endocrinologia e malattie metaboliche   
-Art. 463. - Il corso degli studi della Scuola di specializzazione in Endocrinologia e malattie metaboliche ha la durata di tre anni.  
-Il numero massimo degli iscritti e' di venti.  
-Art. 464. - Gli insegnamenti impartiti sono i seguenti:  
-1) Anatomia normale delle ghiandole endocrine;  
-2) Biochimica e farmacodinamica endocrina e metabolica;  
-3) Fisiologia endocrina e metabolica;  
-4) Biotipologia umana, auxologia e genetica medica;  
-5) Anatomia patologica endocrina e metabolica;  
-6) Semeiotica delle malattie endocrine e metaboliche;  
-7) Esercitazioni di endocrinologia sperimentale e di chimica clinica;  
-8) Patologia e clinica delle ghiandole endocrine e del metabolismo;  
-9) Terapia delle malattie endocrine e metaboliche.  
-Art. 465. - L'ordine degli studi (distribuzione degli insegnamenti nei tre anni di corso) e l'ordine e le modalita' degli esami di profitto verranno stabiliti nel manifesto annuale.  
-Art. 466. - A coloro che avranno superato l'esame di diploma verra' rilasciato il diploma di specialista in Endocrinologia e malattie metaboliche.  
+Art. 509. - Gli insegnamenti della Scuola sono i seguenti:  
+1° Anno:  
+1) Clinica pediatrica (triennale);  
+2) Patologia pediatrica (biennale);  
+3) Puericultura (biennale);  
+4) Semeiotica pediatrica e tecnica diagnostica (biennale);  
+5) Auxologia normale e patologica;  
+6) Psicologia dell'eta' evolutiva.  
+2° Anno:  
+1) Clinica pediatrica;  
+2) Patologia pediatrica;  
+3) Puericultura;  
+4) Semeiotica pediatrica e tecnica diagnostica;  
+5) Terapia pediatrica;  
+6) Radiologia pediatrica;  
+7) Malattie infettive dell'infanzia.  
+3° Anno:  
+1) Clinica pediatrica;  
+2) Neuropsichiatria ed igiene mentale dell'infanzia;  
+3) Chirurgia pediatrica;  
+4) Ortopedia e traumatologia infantile;  
+5) Odontoiatria;  
+6) Clinica dermosifilopatica;  
+7) Clinica oculistica;  
+8) Clinica otorinolaringoiatrica;  
+9) Cardiologia;  
+10) Genetica.  
+Per le materie dal n. 3 al n. 10 del 3° anno il consiglio della scuola di specializzazione stabilira' di anno in anno quelle prescelte che in base a quanto disposto dal Consiglio superiore non possono essere meno di tre.  
+Gli articoli 578, 579, 580 e 581 relativi alla scuola di specializzazione in "Endocrinologia e malattie metaboliche" che muta la denominazione in quella di "Scuola di specializzazione in endocrinologia", sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in endocrinologia  
+  
+Art. 578. - La scuola di specializzazione in endocrinologia ha la durata di tre anni; essa ha sede presso l'istituto di patologia medica II.  
+In ogni anno accademico possono essere ammessi al 1° anno quindici candidati (totale 45 iscritti), non e' consentita nessuna abbreviazione di corso.  
+Gli aspiranti saranno ammessi alla scuola dopo il superamento di un esame preliminare che comprende una prova scritta ed una piova orale e che si svolgera' entro il mese di dicembre.  
+Art. 579. - Gli iscritti alla scuola hanno l'obbligo di frequentare gli insegnamenti stabiliti secondo il programma del corso, nonche' l'Istituto sede della scuola.  
+Coloro che non ottempereranno all'obbligo di frequenza ai corsi di insegnamento ed al servizio di corsia e di laboratorio, non potranno ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.  
+Alla fine di ciascun anno accademico coloro i quali abbiano ottenuto la prescritta attestazione di frequenza, potranno sostenere gli esami di profitto, il cui superamento e' condizione necessaria per l'iscrizione al corso successivo.  
+Art. 580. - Gli esami consistono in prove scritte (risposte ad un questionario di almeno cinque domande) ed in una prova orale su ciascuna delle materie d'insegnamento che sono oggetto di esame in ogni anno di corso.  
+Al termine del 3° anno, per conseguire il diploma di specializzazione in endocrinologia, gli iscritti, oltre ad aver superato le prove di esame nelle singole materie, dovranno presentare una dissertazione scritta su un argomento di ordine endocrinologico (clinico o sperimentale), che sara' stabilito in base agli accordi presi con il direttore della scuola.  
+I candidati non riconosciuti idonei agli esami di ciascun corso o all'esame di diploma potranno sostenere le prove dopo un altro anno di frequenza.  
+Art. 581. - Gli insegnamenti impartiti sono i seguenti:  
+1° Anno:  
+1) Anatomia ed embriologia degli organi endocrini;  
+2) Fisiologia endocrina;  
+3) Biochimica endocrina;  
+4) Anatomia patologica delle malattie endocrine (1° anno);  
+5) Semeiotica e diagnostica endocrina (1° anno).  
+2° Anno:  
+1) Anatomia patologica delle malattie endocrine (2° anno);  
+2) Semeiotica e diagnostica endocrina (2° anno);  
+3) Eredopatologia endocrina;  
+4) Patologia speciale e clinica delle malattie endocrine e delle auxopatie (1° anno).  
+3° Anno:  
+1) Patologia speciale e clinica delle malattie endocrine e delle auxopatie (2° anno);  
+2) Terapia delle malattie endocrine.  
+Insegnamenti facoltativi:  
+1) Neuroendocrinologia;  
+2) Oncologia endocrina;  
+3) Endocrinologia pediatrica.  
+Dei corsi facoltativi almeno uno, a scelta del candidato, sara' materia d'esame al termine del 3° anno.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 febbraio 1961
+### Dato a Roma, addi' 2 ottobre 1972
 
-GRONCHI BOSCO
+LEONE SCALFARO
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 10 aprile 1961
+Registrato alla Corte dei conti, addi' 9 giugno 1973
 
-Atti del Governo, registro n. 136, foglio n. 11. - VILLA
+Atti di Governo, registro n. 258, foglio n. 109. - VALENTINI

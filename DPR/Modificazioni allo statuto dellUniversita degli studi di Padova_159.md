@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1964 n. 1505
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1982 n. 707
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1964 n. 1505
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1982 n. 707
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -10,259 +10,386 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847) e successive modificazioni;
+Veduto lo statuto dell'Universita' di Padova approvato con [regio decreto 14 ottobre 1926, n. 2133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2133), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
 
-Veduta, la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di. Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente. modificato come appresso:
 
-Art. 62. - Agli Istituti della Facolta' di lettere e filosofia e' aggiunto quello di:
+Articolo unico
+--------------
 
-Istituto di filosofia.
-
-Nello stesso articolo l'Istituto di psicologia viene soppresso.
-
-Art. 71. - Agli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di:
-
-Psicometria;
-
-Filosofia della storia;
-
-Filosofia della religione.
-
-Art. 76. - Il primo comma e' abrogato e sostituito dal seguente:
-
-"La prova scritta di cultura generale nei corsi di laurea puo' essere sostenuta quando siano stati superati i quattro quinti degli esami previsti dal piano di studi".
-
-Art. 77. - L'ultimo comma e' abrogato e sostituito dal seguente:
-
-"L'argomento della dissertazione deve essere letterario, storico e geografico per gli aspiranti alla laurea in Materie letterarie, di carattere filosofico, pedagogico o psicologico per gli aspiranti alla laurea in Pedagogia").
-
-Art. 80, relativo agli Istituti annessi alla Facolta' di magistero l'ultimo comma e' abrogato e sostituito dal seguente:
-
-appartengono alla Facolta':
-
-1) Istituto di Pedagogia;
-
-2) Istituto di Psicologia;
-
-3) Istituto di Storia della filosofia.
-
-Art. 141, relativo al biennio di studi propedeutici del corso di laurea in ingegneria civile (sezione: edile, idraulica e trasporti) e' soppresso al II anno l'insegnamento di "Disegno (semestrale)".
-
-Il secondo comma e' abrogato e sostituito dal seguente:
-
-"Per gli allievi che intendono seguire nel triennio I corsi per le lauree in Ingegneria meccanica ed in Ingegneria chimica, il corso di Geometria II e' sostituito con quello di "Disegno II".
-
-L'insegnamento della Geometria Il puo' essere differenziato secondo i diversi indirizzi di laurea. Oltre ai predetti insegnamenti, gli studenti devono iscriversi ad un insegnamento aggiunto, distinto per corsi di laurea, come sotto specificato, e sostenere il relativo esame".
-
-Art. 142, relativo al triennio di studi applicativi del corso di laurea in Ingegneria civile (sezione: edile, idraulica e trasporti) e' soppresso l'insegnamento di "Costruzioni idrauliche".
-
-Dopo le materie a scelta dello studente e' aggiunto il seguente gruppo:
-
-Terzo gruppo:
-
-19) Costruzioni idrauliche;
-
-20) Architettura industriale;
-
-Nello stesso corso di laurea - per la sezione Idraulica - sono abrogati gli insegnamenti obbligatori e sostituiti dai seguenti:
-
-15) Costruzioni idrauliche;
-
-16) Idromeccanica applicata;
-
-17) Costruzioni marittime;
-
-18) Idraulica agraria;
-
-19) Idrografia e idrologia.
-
-Dopo le materie a scelta dello studente e' aggiunto il seguente gruppo:
-
-Terzo gruppo:
-
-20) Idrometria (semestrale);
-
-21) Macchinario idraulico (semestrale).
-
-Nello stesso corso di laurea - per la sezione Trasporti - sono soppressi gli insegnamenti obbligatori e sostituiti dai seguenti:
-
-15) Costruzioni idrauliche;
-
-16) Ponti;
-
-17) Costruzioni marittime;
-
-18) Tecnica ed economia dei trasporti;
-
-19) Tecnica della circolazione stradale.
-
-Nel triennio di studi applicativi per il corso di laurea in Ingegneria elettrotecnica e' aggiunto agli insegnamenti obbligatori quello di:
-
-17) Costruzioni elettromeccaniche.
-
-Il primo e secondo gruppo tra le materie a scelta dello studente del suddetto corso di laurea, sono abrogati e sostituiti dai seguenti:
-
-Primo gruppo:
-
-18) Grandi utilizzazioni;
-
-19) Trazione elettrica (semestrale).
-
-Secondo gruppo:
-
-18) Centrali elettriche;
-
-19) Impianti nucleari (semestrale).
-
-Nel triennio di studi applicativi per il corso di laurea in Ingegneria elettronica e' soppresso l'insegnamento di "Tecnologie elettroniche" e sostituito con quello di "Componenti elettronici".
-
-Il primo e secondo gruppo tra le materie a scelta dello studente del suddetto corso di laurea sono abrogati e sostituiti dai seguenti:
-
-Primo gruppo:
-
-18) Telefonia e telegrafia;
-
-19) Tecnica delle iperfrequenze.
-
-Secondo gruppo:
-
-18) Elettronica industriale;
-
-19) Calcolatori elettronici.
-
-20) Tecnica delle telecomunicazioni.
-
-Art. 170. - Agli Istituti della Facolta' di Ingegneria e' aggiunto quello di:
-
-Istituto di disegno.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1964
-
-Per il Presidente della Repubblica
-
-Il Presidente del Senato
-
-MERZAGORA
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 16 gennaio 1965 Atti del Governo, registro n. 189, foglio n. 121. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta, la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 62. - Agli Istituti della Facolta' di lettere e filosofia e' aggiunto quello di:  
-Istituto di filosofia.  
-Nello stesso articolo l'Istituto di psicologia viene soppresso.  
-Art. 71. - Agli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di:  
-Psicometria;  
-Filosofia della storia;  
-Filosofia della religione.  
-Art. 76. - Il primo comma e' abrogato e sostituito dal seguente:  
-"La prova scritta di cultura generale nei corsi di laurea puo' essere sostenuta quando siano stati superati i quattro quinti degli esami previsti dal piano di studi".  
-Art. 77. - L'ultimo comma e' abrogato e sostituito dal seguente:  
-"L'argomento della dissertazione deve essere letterario, storico e geografico per gli aspiranti alla laurea in Materie letterarie, di carattere filosofico, pedagogico o psicologico per gli aspiranti alla laurea in Pedagogia").  
-Art. 80, relativo agli Istituti annessi alla Facolta' di magistero l'ultimo comma e' abrogato e sostituito dal seguente:  
-appartengono alla Facolta':  
-1) Istituto di Pedagogia;  
-2) Istituto di Psicologia;  
-3) Istituto di Storia della filosofia.  
-Art. 141, relativo al biennio di studi propedeutici del corso di laurea in ingegneria civile (sezione: edile, idraulica e trasporti) e' soppresso al II anno l'insegnamento di "Disegno (semestrale)".  
-Il secondo comma e' abrogato e sostituito dal seguente:  
-"Per gli allievi che intendono seguire nel triennio I corsi per le lauree in Ingegneria meccanica ed in Ingegneria chimica, il corso di Geometria II e' sostituito con quello di "Disegno II".  
-L'insegnamento della Geometria Il puo' essere differenziato secondo i diversi indirizzi di laurea. Oltre ai predetti insegnamenti, gli studenti devono iscriversi ad un insegnamento aggiunto, distinto per corsi di laurea, come sotto specificato, e sostenere il relativo esame".  
-Art. 142, relativo al triennio di studi applicativi del corso di laurea in Ingegneria civile (sezione: edile, idraulica e trasporti) e' soppresso l'insegnamento di "Costruzioni idrauliche".  
-Dopo le materie a scelta dello studente e' aggiunto il seguente gruppo:  
-Terzo gruppo:  
-19) Costruzioni idrauliche;  
-20) Architettura industriale;  
-Nello stesso corso di laurea - per la sezione Idraulica - sono abrogati gli insegnamenti obbligatori e sostituiti dai seguenti:  
-15) Costruzioni idrauliche;  
-16) Idromeccanica applicata;  
-17) Costruzioni marittime;  
-18) Idraulica agraria;  
-19) Idrografia e idrologia.  
-Dopo le materie a scelta dello studente e' aggiunto il seguente gruppo:  
-Terzo gruppo:  
-20) Idrometria (semestrale);  
-21) Macchinario idraulico (semestrale).  
-Nello stesso corso di laurea - per la sezione Trasporti - sono soppressi gli insegnamenti obbligatori e sostituiti dai seguenti:  
-15) Costruzioni idrauliche;  
-16) Ponti;  
-17) Costruzioni marittime;  
-18) Tecnica ed economia dei trasporti;  
-19) Tecnica della circolazione stradale.  
-Nel triennio di studi applicativi per il corso di laurea in Ingegneria elettrotecnica e' aggiunto agli insegnamenti obbligatori quello di:  
-17) Costruzioni elettromeccaniche.  
-Il primo e secondo gruppo tra le materie a scelta dello studente del suddetto corso di laurea, sono abrogati e sostituiti dai seguenti:  
-Primo gruppo:  
-18) Grandi utilizzazioni;  
-19) Trazione elettrica (semestrale).  
-Secondo gruppo:  
-18) Centrali elettriche;  
-19) Impianti nucleari (semestrale).  
-Nel triennio di studi applicativi per il corso di laurea in Ingegneria elettronica e' soppresso l'insegnamento di "Tecnologie elettroniche" e sostituito con quello di "Componenti elettronici".  
-Il primo e secondo gruppo tra le materie a scelta dello studente del suddetto corso di laurea sono abrogati e sostituiti dai seguenti:  
-Primo gruppo:  
-18) Telefonia e telegrafia;  
-19) Tecnica delle iperfrequenze.  
-Secondo gruppo:  
-18) Elettronica industriale;  
-19) Calcolatori elettronici.  
-20) Tecnica delle telecomunicazioni.  
-Art. 170. - Agli Istituti della Facolta' di Ingegneria e' aggiunto quello di:  
-Istituto di disegno.  
+Nell'art. 168, relativo al corso di laurea in ingegneria, l'elenco degli insegnamenti complementari e' soppresso ed e' sostituito dal seguente nuovo elenco:  
+acquedotti e fognature;  
+acustica applicata e illuminotecnica;  
+aerodinamica applicata;  
+affidabilita' dei sistemi meccanici;  
+affidabilita' delle costruzioni;  
+algebra;  
+analisi e simulazione dei sistemi energetici;  
+analisi e sintesi delle reti elettriche;  
+analisi matematica I;  
+analisi matematica II;  
+analisi sperimentale delle tensioni;  
+analisi statistica dei processi chimici;  
+analisi urbane e territoriali;  
+apparecchi ed impianti di sollevamento e trasporto;  
+applicazione dei calcolatori ai sistemi elettrici di potenza;  
+applicazioni dei calcolatori elettronici;  
+architettura dei calcolatori;  
+architettura e composizione architettonica;  
+architettura industriale;  
+architettura tecnica;  
+automazione ed organizzazione dei servizi sanitari;  
+automazione nella progettazione civile;  
+automi e linguaggi formali;  
+azionamenti e controlli industriali;  
+bacini montani e conservazione del suolo;  
+bioingegneria;  
+biosistemi;  
+bonifica e irrigazione;  
+calcolatori elettronici;  
+calcolo automatico delle strutture;  
+calcolo numerico;  
+campi elettromagnetici e circuiti;  
+centrali elettriche;  
+ceramurgia;  
+chimica;  
+chimica dei composti di coordinazione e metallorganici;  
+chimica applicata;  
+chimica e tecnologia dei composti fluorurati;  
+chimica e tecnologia del restauro e della conservazione;  
+chimica fine industriale;  
+chimica fisica;  
+chimica fisica applicata;  
+chimica fisica dello stato solido;  
+chimica industriale;  
+chimica metallurgica;  
+chimica organica;  
+cinetica chimica applicata e catalisi industriale;  
+circuiti integrati;  
+combustione;  
+commutazione elettronica;  
+compilatori e interpreti;  
+complementi di analisi matematica e calcolo numerico;  
+complementi di architettura tecnica;  
+complementi di chimica industriale;  
+complementi di controlli automatici;  
+complementi di costruzione di macchine;  
+complementi di costruzioni idrauliche;  
+complementi di costruzioni stradali;  
+complementi di elettronica applicata;  
+complementi di fisica;  
+complementi di fisica tecnica;  
+complementi di geotecnica;  
+complementi di idraulica;  
+complementi di macchine;  
+complementi di macchine elettriche;  
+complementi di programmazione;  
+complementi di scienza delle costruzioni;  
+complementi di termodinamica applicata;  
+complementi di trasmissione del calore;  
+complementi di trasmissione dell'energia elettrica;  
+componenti elettronici;  
+composizione urbanistica;  
+comunicazioni elettriche;  
+condizionamenti ambientali;  
+conservazione dell'energia nella gestione delle risorse;  
+conservazione e recupero delle preesistenze edilizie;  
+consolidamento dei terreni e delle rocce;  
+controlli automatici;  
+controlli non lineari;  
+controllo della qualita' e analisi del valore;  
+controllo dei processi chimici;  
+controllo di processi;  
+controllo stocastico;  
+conversione dell'energia solare;  
+conversione statica dell'energia elettrica;  
+corrosione e protezione dei materiali;  
+costruzioni automobilistiche;  
+costruzioni antisismiche;  
+costruzione di apparati elettrici;  
+costruzione di apparecchi chimici;  
+costruzione di macchine;  
+costruzione di macchine elettriche;  
+costruzione di ponti;  
+costruzione di strade, ferrovie ed aeroporti;  
+costruzioni idrauliche;  
+costruzioni industriali;  
+costruzioni marittime;  
+criogenia;  
+criteri di impiego delle macchine utensili;  
+degradazione e conservazione dei materiali per la edilizia;  
+dinamica dei sistemi elettrici;  
+dinamica dei veicoli;  
+dinamica delle costruzioni;  
+dinamica delle macchine elettriche;  
+dinamica di reazioni chimiche in flusso;  
+disegno I;  
+disegno II;  
+disegno di macchine;  
+dispositivi elettronici;  
+economia applicata all'ingegneria;  
+economia dell'energia;  
+economia ed estimo civile;  
+economia ed organizzazione aziendale;  
+economia urbana e regionale;  
+elaborazione automatica delle informazioni;  
+elaborazione di dati biomedici;  
+elaborazione di immagini;  
+elaborazione di segnali digitali;  
+elementi costruttivi delle macchine;  
+elementi di calcolo numerico e programmazione;  
+elementi di economia e di econometria;  
+elementi di progettazione edile;  
+elettromagnetismo;  
+elettronica applicata;  
+elettronica biomedica;  
+elettronica digitale;  
+elettronica industriale;  
+elettronica quantistica;  
+elettrostatica applicata;  
+elettrotecnica;  
+elettrotermia;  
+elettrotermia alle alte frequenze;  
+energetica;  
+equazioni differenziali;  
+esercizio degli impianti per la produzione di energia;  
+fenomeni non stazionari;  
+fisica I;  
+fisica II;  
+fisica dei dispositivi;  
+fisica dello stato solido;  
+fisica del plasma;  
+fisica del reattore nucleare;  
+fisica tecnica;  
+fluodinamica chimico-fisica;  
+forni per l'industria chimica;  
+fotogrammetria;  
+frane e stabilita' dei pendii;  
+gasdinamica;  
+gas ionizzati;  
+geologia applicata e meccanica delle rocce;  
+geometria I;  
+geometria II;  
+geotecnica;  
+gestione delle risorse rinnovabili;  
+idraulica;  
+idraulica dei processi di trattamento delle acque idraulica fluviale;  
+idraulica marittima;  
+idrogeologia;  
+idrografia e idrologia;  
+idromeccanica applicata;  
+igiene applicata all'ingegneria;  
+igiene e sicurezza del lavoro industriale;  
+impianti chimici;  
+impianti elettrici;  
+impianti idroelettrici;  
+impianti meccanici;  
+impianti nucleari;  
+impianti per l'elaborazione dell'informazione;  
+impianti per ricerche sulla fusione termonucleare impianti per telecomunicazioni;  
+impianti siderurgici e metallurgici;  
+impianti tecnici per l'edilizia;  
+impianti termotecnici;  
+industrializzazione edilizia;  
+informatica distribuita;  
+infrastrutture aeroportuali;  
+ingegneria del software;  
+inquinamenti e depurazione dell'ambiente;  
+installazioni frigorifere;  
+intelligenza artificiale;  
+istituzioni di diritto pubblico e privato;  
+istituzioni di fisica nucleare applicata;  
+lavorazioni meccaniche;  
+lavorazioni per deformazione plastica;  
+legislazione urbanistica;  
+linguaggi di programmazione;  
+litologia e geologia;  
+logica matematica;  
+logistica industriale;  
+macchine;  
+macchine e impianti per l'agricoltura;  
+macchine elettriche;  
+macchine per la lavorazione dei metalli;  
+macchine speciali;  
+magnetoidrodinamica;  
+matematiche combinatorie;  
+materiali e componenti per la termotecnica;  
+materiali e tecniche di isolamento termico;  
+materiali per l'elettrotecnica;  
+materiali per reattori;  
+meccanica agraria;  
+meccanica analitica;  
+meccanica applicata alle macchine;  
+meccanica applicata alle macchine e macchine;  
+meccanica biomedica;  
+meccanica dei fluidi;  
+meccanica delle vibrazioni;  
+meccanica razionale;  
+metallurgia e metallografia;  
+metallurgia fisica;  
+metodi di indagine sui materiali;  
+metodi di osservazione e di misura;  
+metodi matematici per l'ingegneria;  
+metodi numerici per la termotecnica;  
+microonde;  
+misure di proprieta' termodinamiche e di trasporto;  
+misure elettriche;  
+misure elettroniche;  
+misure idrauliche;  
+misure meccaniche e termiche;  
+misure sulle macchine e sugli impianti elettrici;  
+misure sulle macchine e sugli impianti meccanici;  
+modelli e simulazione;  
+moti nei mezzi porosi;  
+motori a combustione interna per trazione;  
+musica all'elaboratore elettronico;  
+navigazione interna;  
+oleodinamica e pneumatica;  
+opere in materiali sciolti;  
+optoelettronica;  
+organizzazione aziendale;  
+organizzazione del lavoro;  
+organizzazione e gestione della produzione edilizia;  
+organizzazione e meccanizzazione del cantiere;  
+ottimizzazione;  
+pianificazione dei sistemi produttivi;  
+pianificazione dei trasporti;  
+pianificazione territoriale;  
+ponti radio;  
+previsioni e ricerche di mercato;  
+principi di ingegneria chimica;  
+principi di regolazione automatica;  
+principi di trasmissione del calore;  
+problemi non lineari delle strutture;  
+problemi speciali stradali e ferroviari;  
+processi biochimici;  
+processi industriali elettrochimici;  
+produzione di energia elettrica per conversione diretta;  
+progettazione di sistemi numerici;  
+progettazione statistica e costruzione di modelli;  
+progetti di impianti elettrici;  
+progetti di macchine;  
+progetti di strutture;  
+programmazione e controllo della produzione;  
+programmazione e controllo economico di gestione;  
+propagazione ed antenne;  
+proprieta' meccaniche dei materiali;  
+propulsione marittima ed aerea;  
+prove ad alta tensione;  
+radiosistemi;  
+radiotecnica;  
+reattori a fusione;  
+reattori chimici;  
+regime e protezione dei litorali;  
+relazioni industriali;  
+reti di comunicazione;  
+ricerca operativa;  
+risorse idriche;  
+scienza dei materiali;  
+scienza dei materiali polimerici;  
+scienza dei metalli;  
+scienza delle costruzioni;  
+segnali e sistemi;  
+sicurezza e affidabilita' degli impianti chimici;  
+sicurezza e controllo dei reattori nucleari;  
+siderurgia e fonderia;  
+similitudine chimica e impianti pilota;  
+sintesi alle alte pressioni;  
+sistemi a grandi dimensioni;  
+sistemi ambientali;  
+sistemi a microprocessore;  
+sistemi combinatori e sequenziali;  
+sistemi ecologici;  
+sistemi operativi;  
+smaltimento ed utilizzazione dei sottoprodotti industriali;  
+statica delle strutture prefabbricate;  
+statistica e calcolo delle probabilita';  
+statistica matematica;  
+storia dell'architettura;  
+storia dell'urbanistica;  
+strumentazione chimica;  
+strumentazione industriale;  
+struttura della materia;  
+strutture di dati;  
+strutture speciali in acciaio;  
+strutture speciali in cemento armato;  
+superconduttivita' applicata;  
+tecnica dei lavori idraulici;  
+tecnica del freddo;  
+tecnica della circolazione ed organizzazione dei trasporti;  
+tecnica delle alte tensioni;  
+tecnica delle costruzioni;  
+tecnica delle fondazioni;  
+tecnica dell'energia solare;  
+tecnica del vuoto;  
+tecnica ed economia dei trasporti;  
+tecnica ed economia dell'energia;  
+tecnica urbanistica;  
+tecniche di rilievo e restauro;  
+tecnologia degli alti polimeri;  
+tecnologia dei materiali e chimica applicata;  
+tecnologia dei materiali inorganici;  
+tecnologia dei processi energetici;  
+tecnologia delle reazioni organiche;  
+tecnologia dell'industria alimentare;  
+tecnologia del petrolio;  
+tecnologia del vetro e dei refrattari;  
+tecnologia meccanica;  
+tecnologie dei materiali nucleari;  
+tecnologie elettriche;  
+tecnologie elettroniche;  
+telecomunicazioni;  
+telefonia e trasmissione dati;  
+teoria dei segnali e dell'informazione;  
+teoria dei sistemi;  
+teoria dei sistemi di comunicazione;  
+teoria della identificazione;  
+teoria delle reti elettriche;  
+teoria e sviluppo dei processi chimici;  
+termodinamica applicata;  
+termofluidodinamica delle macchine;  
+topografia;  
+trasmissione dell'energia elettrica;  
+trasmissione industriale del calore;  
+trasmissione ottica;  
+trasporti aerei;  
+trasporti e strutture territoriali;  
+trasporti marittimi;  
+trasporti terrestri;  
+trazione elettrica;  
+vettori e veicoli spaziali.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1964
+### Dato a Roma, addi' 15 luglio 1982
 
-Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 16 gennaio 1965
+Registrato alla Corte dei conti, addi' 28 settembre 1982
 
-Atti del Governo, registro n. 189, foglio n. 121. - VILLA
+Registro n. 112 istruzione, foglio n. 368

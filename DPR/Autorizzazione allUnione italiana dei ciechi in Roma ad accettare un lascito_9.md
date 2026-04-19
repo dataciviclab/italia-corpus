@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 luglio 1978 n. 445
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 509
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 luglio 1978 n. 445
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 509
 =============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un lascito.
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-445. Decreto del Presidente della Repubblica 13 luglio 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare col beneficio d'inventario la quota di 1/16 del lascito disposto dalla sig.ra Agata Consoli ved. Torrese, con testamento olografo del 22 giugno 1975, pubblicato a rogito notaio avv.  
-Giovanni Donato in data 1 luglio 1975, n. 90953 di repertorio, registrato ad Imperia il 9 luglio 1975 al n. 1968, vol. 63, consistente in titoli di reddito fisso, da obbligazioni, da azioni, da conto corrente bancario, da monete d'oro e d'argento, oltre una cassetta di sicurezza, per un valore complessivo di L. 76.771.716 (quota di 1/16 - L. 4.798.323).  
+509. Decreto del Presidente della Repubblica 15 luglio 1983, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il lascito, consistente nella quota di un mezzo gravato di usufrutto di un immobile sito in Imperia, via Pirinoli, 4, distinto nel nuovo catasto edilizio urbano alla partita 1794, foglio VI, mappale 267 sub 1, del valore attribuito dall'ufficio tecnico erariale di Imperia alla data del 14 dicembre 1979 per la nuda proprieta' di L. 8.500.000, per la quota di usufrutto di L. 1.500.000, disposto dalla sig.ra Bottero Luigia detta Luisa a favore dell'Istituto dei poveri ciechi della provincia di Imperia, che si identifica con l'Unione italiana dei ciechi, come si evince dalla delibera in data 18 settembre 1973 del presidente dell'U.I.C., con testamento olografo 18 novembre 1968, pubblicato il 28 febbraio 1973, n. 28484 di repertorio e n. 5800 di raccolta, a rogito dott. Federico Bottino, notaio in Torino, registrato a Torino il 13 marzo 1973 al n. 10571.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 8 agosto 1978  
-Registro n. 6 Presidenza, foglio n. 42
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 19 settembre 1983  
+Registro n. 7 Presidenza, foglio n. 333

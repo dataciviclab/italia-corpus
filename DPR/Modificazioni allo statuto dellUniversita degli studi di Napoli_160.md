@@ -1,75 +1,304 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 gennaio 1956 n. 163
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1980 n. 650
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 gennaio 1956 n. 163
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1980 n. 650
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio universitario nazionale nei suoi pareri;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Veduto il [parere della sezione prima del Consiglio di Stato, n. 1902/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
+
+Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regi decreti 20 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-20;1904); [4 maggio 1942, n. 557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-05-04;557); [5 settembre 1942, n. 1120 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-09-05;1120) [26 febbraio 1949, n. 612](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;612); [23 settembre 1949, n. 931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;931); [30 ottobre 1949, n. 1059](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1059); [5 aprile 1950, n. 284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-04-05;284); [30 ottobre 1950, n. 1277](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1277); [31 ottobre 1950, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1311); [18 aprile 1951, n. 934](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;934); [30 luglio 1951, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-07-30;1304); [27 ottobre 1951, n. 1680](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1680); [19 settembre 1952, n. 4551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-19;4551); [25 agosto 1953, n. 1117](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;1117); [26 aprile 1954, n. 738](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;738); [30 giugno 1954, n. 753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;753); luglio 1954, n. 865; 24 agosto 1954, n. 987; 14 settembre 1954, n. 1056; 29 ottobre 1954, n. 1458; 29 ottobre 1954, n. 1465; 4 febbraio 1955, n. 71; 16 febbraio 1955, n. 220; 2 agosto 1955, n. 897 e 20 settembre 1955, n. 939;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Lo statuto dell'Universita' di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 479, 480, 481, 482, 483 e 484, relativi alla scuola di specializzazione in malattie infettive della prima facolta' di medicina e chirurgia, sono soppressi e sostituiti dai seguenti:  
   
-Decreta:  
+Scuola di specializzazione in malattie infettive  
+Art. 479. - La scuola di specializzazione in malattie infettive ha sede presso la clinica delle malattie infettive, prima facolta' di medicina e chirurgia, e conferisce il diploma di specialista in malattie infettive.  
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo) di materia affine.  
+Art. 480. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione allo esercizio professionale rilasciato dalle autorita' competenti.  
+Art. 481. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.  
+Il numero massimo di allievi e' di venti per anno di corso e complessivamente di ottanta iscritti per l'intero corso di studi.  
+Art. 482. - La ammissione al corso avviene per titoli ed esami.  
+Art. 483. - Le materie d'insegnamento sono le seguenti:  
+1° Anno:  
+1) epidemiologia generale delle malattie infettive;  
+2) batteriologia e micologia;  
+3) virologia;  
+4) parassitologia;  
+5) immunologia generale.  
+2° Anno:  
+1) tecniche batteriologiche e micologia applicate alle malattie infettive;  
+2) tecniche virologiche applicate alle malattie infettive;  
+3) tecniche parassitologiche applicate alle malattie infettive;  
+4) tecniche immunologiche applicate alle malattie infettive;  
+5) anatomia patologica;  
+6) genetica.  
+3° Anno:  
+1) clinica delle malattie infettive - 1° anno;  
+2) diagnostica e semeiotica delle malattie infettive;  
+3) radiologia;  
+4) medicina preventiva delle malattie infettive.  
+4° Anno:  
+1) clinica delle malattie infettive - 2° anno;  
+2) malattie tropicali;  
+3) legislazione sanitaria delle malattie infettive;  
+4) farmacologia e terapia delle malattie infettive.  
+Art. 484. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.  
+Al termine di ciascun anno di corso gli allievi sono tenuti a sostenere gli esami del rispettivo anno; al termine del corso di studi per il conseguimento del diploma di specialista in malattie infettive gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specialita'.  
+Agli allievi i quali abbiano ottenuto l'approvazione nell'esame di diploma viene rilasciato il diploma di specialista in malattie infettive.  
+
+Art. 2
+------
+
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 485, 486, 487, 488, 489, 490, 491, 492 e 493, relativi alla scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio della prima facolta' di medicina e chirurgia, sono soppressi e sostituiti dai seguenti:  
+Art. 485. - La scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio ha sede presso lo istituto di tisiologia e malattie dell'apparato respiratorio e conferisce il diploma di specialista in tisiologia e malattie dell'apparato respiratorio.  
+Art. 486. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Art. 487. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Art. 488. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
+Art. 489. - Il numero massimo degli allievi e' di cinquanta per anno di corso e complessivamente di duecento iscritti per l'intero corso di studi.  
+Art. 490. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 491. - Le materie d'insegnamento sono le seguenti:  
+1° Anno:  
+anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) (I);  
+patologia della tubercolosi polmonare ed extra polmonare;  
+patologia delle malattie dell'apparato respiratorio;  
+fisiologia e fisiopatologia generale dell'apparato respiratorio;  
+microbiologia;  
+semeiotica fisica e funzionale dell'apparato respiratorio;  
+epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.  
+2° Anno:  
+anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) (II);  
+clinica della tubercolosi (triennale) (I);  
+clinica delle malattie dell'apparato respiratorio (triennale) (I);  
+fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;  
+broncologia;  
+radiologia dell'apparato respiratorio;  
+profilassi della tubercolosi;  
+igiene e legislazione sociale.  
+3° Anno:  
+clinica delle malattie dell'apparato respiratorio (triennale) (II);  
+clinica della tubercolosi (triennale) (II);  
+chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;  
+terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;  
+terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.  
+4° Anno:  
+clinica delle malattie dell'apparato respiratorio (triennale) (III);  
+clinica della tubercolosi (triennale) (III).  
+Gli insegnamenti complementari che possono essere inseriti negli statuti sono i seguenti:  
+immunologia clinica;  
+cardiologia;  
+medicina nucleare;  
+malattie professionali dell'apparato respiratorio;  
+terapia intensiva pneumologica, tutti al 4° anno.  
+Art. 492. - I corsi di insegnamento sono integrati da conferenze, da esercitazioni pratiche, da seminari interdisciplinari (questi ultimi prevalentemente destinati al 4° anno), per i quali gli allievi hanno l'obbligo di frequenza al pari delle lezioni.  
+Art. 493. - Alla fine di ogni anno di corso gli allievi devono superare una prova di esame sulle materie del rispettivo anno.  
+Alla fine del 4° anno gli allievi devono sostenere lo esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione assegnato dal direttore della scuola o da uno degli insegnanti della scuola.  
+
+Art. 3
+------
+
   
-Dopo l'attuale art. 235, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della "Scuola di specializzazione in ispezione degli alimenti di origine annuale" con il conseguente spostamento della numerazione degli articoli successivi.  
+Gli articoli 659, 660, 661, 662, 663, 664, 665, 666, 667, 668, 669, 670, 671 e 672 dello statuto dell'Universita' di Napoli, relativi alla scuola di specializzazione in chirurgia dell'infanzia della seconda facolta' di medicina e chirurgia, che muta la denominazione in scuola di specializzazione in chirurgia pediatrica, di cui al [decreto del Presidente della Repubblica 24 ottobre 1975, n. 802](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1975-10-24;802), sono soppressi e sostituiti dai seguenti:  
   
-Scuola di specializzazione in ispezione  
-degli alimenti di origine animale  
+Scuola di specializzazione in chirurgia pediatrica  
+Art. 659. - La scuola di specializzazione in chirurgia pediatrica ha sede presso la cattedra di clinica chirurgica pediatrica e conferisce il diploma di specialista in chirurgia pediatrica.  
+Art. 660. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Art. 661. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Art. 662. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.  
+Art. 663. - Il numero massimo degli allievi e' di quattro per anno di corso e complessivamente di venti iscritti per l'intero corso di studi.  
+Art. 664. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 665. - Le materie d'insegnamento sono le seguenti:  
+1° Anno:  
+embriologia e genetica delle malformazioni congenite;  
+anatomia patologica generale (biennale) I;  
+diagnostica radiologica e nucleare generale;  
+anestesiologia;  
+clinica pediatrica (biennale) I;  
+patologia e clinica chirurgica generale (biennale) 1.  
+2° Anno:  
+patologia e clinica chirurgica generale (biennale) II;  
+rianimazione e terapia intensiva (biennale) I;  
+anatomia patologica generale (biennale) II;  
+diagnostica radiologica e nucleare delle malattie infantili;  
+clinica pediatrica (biennale) II.  
+3° Anno:  
+patologia e clinica chirurgica pediatrica (triennale) I;  
+endocrinologia pediatrica;  
+tecnica chirurgica generale;  
+rianimazione e terapia intensiva (biennale) II;  
+chirurgia neonatale.  
+4° Anno:  
+patologia e clinica chirurgica pediatrica (triennale) II;  
+neurochirurgia pediatrica;  
+tecnica chirurgica pediatrica;  
+ortopedia pediatrica;  
+chirurgia plastica e ricostruttiva pediatrica.  
+5° Anno:  
+patologia e clinica chirurgica pediatrica (triennale) III;  
+otorinolaringoiatria pediatrica;  
+cardiochirurgia pediatrica;  
+urologia pediatrica.  
+Art. 666. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
+Art. 667. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno ad eccezione delle discipline svolte in corsi pluriennali il cui esame e' sostenuto alla fine dei corsi medesimi.  
+Art. 668. - Al termine del corso di studi per il conseguimento del diploma di specialista in chirurgia pediatrica gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+
+Art. 4
+------
+
   
-Art. 236. - E' istituita presso la Facolta' di medicina veterinaria una Scuola di specializzazione in ispezione degli alimenti di origine animale, la quale ha lo scopo di approfondire ed aggiornare la preparazione dei laureati in medicina veterinaria, che dovranno assolvere le complesse funzioni della direzione dei pubblici macelli, e di conferire il diploma di specialista a forma dell'[art. 178 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art178).  
-Art. 237. - La Scuola di specializzazione in ispezione degli alimenti di origine animale ha la durata di due anni e puo' essere frequentata solo da laureati in medicina veterinaria.  
-L'internato si svolge in un Istituto designato dal direttore della Scuola.  
-Art. 238. - Gli insegnamenti impartiti nella Scuola sono i seguenti:  
-1° anno:  
-1) Anatomia;  
-2) Fisiopatologia;  
-3) Approvvigionamento e conservazione degli alimenti di origine animale;  
-4) Anatomia patologica;  
-5) Legislazione sanitaria;  
-6) Microbiologia generale;  
-7) Valore alimentare delle carni di diversa origine;  
-2° anno:  
-1) Malattie infettive ed infestive;  
-2) Metodologia clinica applicata agli animali da macello e produttori del latte;  
-3) Ispezione sanitaria delle carni fresche e conservate, dei vari prodotti elaborati, dall'industria delle carni, dei prodotti della pesca, di quelli del latte (latticini ed altri prodotti dell'industria lattifera), delle carni di animale da cortile e della cacciagione (pollame, lepri, conigli, ecc.);  
-4) Microbiologia e diagnostica di laboratorio.  
-Art. 239. - Gli insegnamenti avranno indirizzo teorico-pratico nella prevalente forma di esercitazioni ispettive e verteranno su argomenti di particolare interesse per l'ispettore degli alimenti.  
-Essi saranno integrati da dimostrazioni pratiche sia presso la Facolta', sia presso stabilimenti di lavorazione prescelti dal Consiglio direttivo della Scuola.  
-Alla fine del 1° e 2° anno i candidati dovranno sostenere un esame teorico-pratico sul programma svolto in ciascun insegnamento.  
-Art. 240. - Per essere ammesso all'esame di diploma di specializzazione, che vertera' sulla discussione di una dissertazione scritta su argomenti di una delle materie svolte, l'iscritto dovra' aver frequentato i corsi e le esercitazioni pratiche, aver superata una prova sperimentale, nonche' gli esami delle singole materie teoriche relative alla Scuola di specializzazione.  
-Art. 211. - Il direttore della Scuola e' il professore di ruolo dell'insegnamento di ispezione degli alimenti di origine animale o di anatomia patologica; in mancanza di questi il Consiglio di facolta' lo designera' tra i propri membri.  
-Gli insegnanti della Scuola sono scelti dal Consiglio di facolta', su proposta del direttore, tra i professori di ruolo, tra i liberi docenti, tra gli aiuti ed assistenti, nonche' tra le persone di riconosciuta competenza nella specialita'. Il Consiglio direttivo della Scuola e' composto dai docenti chiamati a svolgere gli insegnamenti prescritti ed e' presieduto dal direttore. Questi stabilisce l'ordinamento e l'indirizzo degli studi nonche' il numero delle lezioni per ogni singolo insegnamento.  
-Art. 242. - La Commissione per gli esami di profitto e' composta dal professore della materia, dal direttore della Scuola e da un docente del corso medesimo. La Commissione di diploma, presieduta dal direttore della, Scuola e' costituita da sette membri scelti fra gli insegnanti della Scuola medesima.  
-Art. 243. - Il Consiglio della scuola stabilira' annualmente se i corsi dovranno effettuarsi qualora gli iscritti non raggiungano il numero prestabilito; come pure scegliera' con giudizio insindacabile gli allievi nel caso che il numero delle domande superi quello prefissato.  
-Art. 244. - Gli iscritti alla Scuola di specializzazione sono tenuti a pagare la tassa di iscrizione, le tasse e soprattasse di esame, la tassa di diploma, nonche' i contributi vari, secondo quanto stabilito per gli studenti della Facolta' di medicina veterinaria.  
-Inoltre gli iscritti dovranno versare un contributo di laboratorio, previsto dall'[art. 11 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art11).  
-Art. 248 (gia' 169). - Dopo il secondo comma e' aggiunto il seguente:  
-"E' inoltre concessa l'abbreviazione di un solo anno di corso, tuttavia con obbligo di frequenza e di esami, agli studiosi gia' specializzati in materie affini o fondamentali, dietro decisione della Facolta' che valutera' caso per caso, motivando tale abbreviazione in base a un giudizio di affinita' tra la specializzazione precedentemente conseguita e quella da conseguirsi".  
+Dopo l'art. 560, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in chirurgia pediatrica ed in ortognatodonzia presso la facolta' (I) di medicina e chirurgia.  
+Scuola di specializzazione in chirurgia pediatrica  
+Art. 560. - La scuola di specializzazione in chirurgia pediatrica ha sede presso l'istituto di chirurgia pediatrica e conferisce il diploma di specialista in chirurgia pediatrica.  
+Art. 561. - La direzione della scuola e' affidata al professore di ruolo e fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Art. 562. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Art. 563. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni.  
+Art. 564. - Il numero massimo degli allievi e' di quattro per anno di corso e complessivamente di venti iscritti per l'intero corso di studi.  
+Art. 565. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 566. - Le materie d'insegnamento sono le seguenti:  
+1° Anno:  
+embriologia e genetica delle malformazioni congenite;  
+anatomia patologica generale (biennale) I;  
+diagnostica radiologica e nucleare generale;  
+anestesiologia;  
+clinica pediatrica (biennale) I;  
+patologia e clinica chirurgica generale (biennale) I.  
+2° Anno:  
+patologia e clinica chirurgica generale (biennale) II;  
+rianimazione e terapia intensiva (biennale) I;  
+anatomia patologica generale (biennale) II;  
+diagnostica radiologica e nucleare delle malattie infantili;  
+clinica pediatrica (biennale) II.  
+3° Anno:  
+patologia e clinica chirurgica pediatrica (triennale) I;  
+endocrinologia pediatrica;  
+tecnica chirurgica generale;  
+rianimazione e terapia intensiva (biennale) II;  
+chirurgia neonatale.  
+4° Anno:  
+patologia clinica chirurgica pediatrica (triennale) II;  
+neurochirurgia pediatrica;  
+tecnica chirurgica pediatrica;  
+chirurgia plastica e ricostruttiva pediatrica;  
+ortopedia pediatrica.  
+5° Anno:  
+patologia e clinica chirurgica pediatrica (triennale) III;  
+otorinolaringoiatria pediatrica;  
+cardiochirurgia pediatrica;  
+urologia pediatrica.  
+Art. 567. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
+Art. 568. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno ad eccezione delle discipline svolte in corsi pluriennali il cui esame e' sostenuto alla fine dei corsi medesimi.  
+Art. 569. - Al termine del corso di studi per il conseguimento del diploma di specialista in chirurgia pediatrica gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+Scuola di specializzazione in ortognatodonzia  
+Art. 570. - La scuola di specializzazione in ortognatodonzia ha sede presso l'istituto di clinica odontoiatrica e stomatologica e conferisce il diploma di specializzazione in ortognatodonzia.  
+Art. 571. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Art. 572. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Art. 573. - La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazioni.  
+Art. 574. - Il numero massimo degli allievi e' di otto per anno di corso e complessivamente di ventiquattro iscritti per l'intero corso di studi.  
+Art. 575. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 576. - Le materie d'insegnamento sono le seguenti:  
+1) embriologia e anatomia dell'apparato stomatognatico;  
+2) fisiologia dell'apparato stomatognatico;  
+3) farmacologia clinica;  
+4) patologia odontostomatologica;  
+5) chirurgia odontostomatologica;  
+6) odontoiatria conservativa;  
+7) radiologia odontostomatologica;  
+8) stomatologia preventiva;  
+9) ortognatodonzia;  
+10) odontotecnica;  
+11) semeiotica ortognatodontica;  
+12) cefalometria clinica;  
+13) pedodonzia;  
+14) metallurgia e merceologia in ortognatodonzia;  
+15) pediatria auxologica applicata;  
+16) paradontologia;  
+17) chirurgia ortognatodontica;  
+18) genetica applicata;  
+19) statistica applicata alla ricerca scientifica;  
+20) medicina legale e delle assicurazioni in odontostomatologia; esercitazioni cliniche, di laboratorio e di cefalometria.  
+La didattica del primo anno di corso e' particolarmente dedicata alla preparazione stomatologica di base, essenziale alla formazione dello specialista in ortognatodonzia.  
+Suddivisione delle materie d'insegnamento nei tre anni di corso:  
+1° Anno:  
+1) embriologia e anatomia dell'apparato stomatognatico;  
+2) fisiologia dell'apparato stomatognatico (1° anno biennale);  
+3) farmacologia clinica;  
+4) patologia odontostomatologica;  
+5) chirurgia odontostomatologica;  
+6) odontoiatria conservativa;  
+7) radiologia odontostomatologica;  
+8) stomatologia preventiva;  
+9) ortognatodonzia (1° anno - triennale);  
+1°) odontotecnica;  
+esercitazioni cliniche, esercitazioni di laboratorio.  
+2° Anno:  
+1) fisiologia dell'apparato stomatognatico (2° anno - biennale);  
+2) semeiotica ortognatodontica;  
+3) ortognatodonzia (2° anno - triennale);  
+4) cefalometria clinica (1° anno - biennale);  
+5) pedodonzia;  
+6) metallurgia e merceologia in ortognatodonzia;  
+7) pediatria auxologica applicata;  
+8) paradontologia;  
+esercitazioni cliniche, esercitazioni di laboratorio.  
+3° Anno:  
+1) ortognatodonzia (3° anno - triennale);  
+2) cefalometria clinica;  
+3) chirurgia ortognatodontica;  
+4) genetica applicata;  
+5) statistica applicata alla ricerca scientifica;  
+6) medicina legale e delle assicurazioni in ortognatodonzia;  
+esercitazioni cliniche;  
+esercitazioni di laboratorio;  
+esercitazioni di cefalometria clinica.  
+I corsi sono integrati da seminari su argomenti di interesse interdisciplinare.  
+Art. 577. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria per l'intero anno scolastico. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
+Le vacanze sono conformi al calendario universitario con un solo mese completo estivo (agosto).  
+Art. 578. - Gli esami di profitto teorici e pratici sono sostenuti alla fine di ogni anno in un'unica sessione.  
+L'iscrizione agli anni successivi e' subordinata al superamento degli esami. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.  
+Alla fine del terzo anno, dopo aver superato gli esami di profitto, gli allievi sono ammessi a sostenere l'esame di diploma che consiste nella discussione di una tesi scelta su un argomento proposto dall'insegnante della materia su cui verte l'argomento e approvato dal direttore della scuola.  
+Ogni iscritto deve provvedere al corredo personale di strumenti.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della, Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 gennaio 1956
+### Dato a Roma, addi' 11 giugno 1980
 
-GRONCHI ROSSI
+PERTINI SARTI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 26 marzo 1956
+Registrato alla Corte dei conti, addi' 8 ottobre 1980
 
-Atti del Governo, registro n. 96, foglio n. 174. - CARLOMAGNO
+Registro n. 92 Istruzione, foglio n. 137

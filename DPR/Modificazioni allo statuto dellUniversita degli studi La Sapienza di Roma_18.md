@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1985 n. 828
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1249
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1985 n. 828
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1249
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 ------------------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' "La Sapienza" di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e successive modificazioni;
+Veduto lo statuto dell'Universita' "La Sapienza" di Roma, approvato con [regio decreto 14 ottobre 1926, n. 2319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2319), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -22,118 +22,281 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
-
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' "La Sapienza" di Roma e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' "La Sapienza" di Roma e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del ministro della pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 --------
 
 Lo statuto dell'Universita' "La Sapienza" di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 1
-------
+Articolo unico
+--------------
 
   
   
-Dopo l'art. 194, con il conseguente scorrimento della numerazione degli articoli successivi, sono inseriti i seguenti articoli con l'intitolazione "Normativa generale - Scuole dirette a fini speciali":   
-  
-NORMATIVA GENERALE   
-  
-Scuole dirette a fini speciali   
-Art. 195. - Nell'Universita' di Roma "La Sapienza" e' istituita la seguente scuola diretta a fini speciali:   
-informatica.   
-Art. 196 - Sono ammessi alle scuole dirette a fini speciali i diplomati degli istituti di istruzione secondaria di secondo grado in conformita' con le disposizioni vigenti per l'ammissione ai corsi di laurea, fatto salvo l'eventuale ulteriore requisito di ammissione previsto per le singole scuole, cioe' il possesso della specifica qualifica di base.   
-Il numero massimo degli iscrivibili per ciascuna scuola e' determinato dalla normativa specifica.   
-Art. 197 - Qualora il numero degli aspiranti sia superiore a quello dei posti disponibili, l'accesso alla scuola, nei limiti dei posti disponibili, e' subordinato al superamento di un esame consistente in una prova scritta che potra' svolgersi mediante domande e risposte multiple, integrata eventualmente da un colloquio e dalla valutazione, in misura non superiore al 30% del punteggio a disposizione della commissione esaminatrice, dei titoli di studio richiesti per l'ammissione. Le modalita' e il programma di tali prove vengono indicate nel bando di concorso per ciascuna scuola.   
-Sono ammessi ai corsi i candidati che in relazione al numero delle iscrizioni disponibili si siano collocati in posizione utile nella graduatoria compilata sulla base del punteggio complessivo riportato.  
-La commissione per l'esame di ammissione e' costituita da cinque professori di ruolo designati dal consiglio della scuola:   
-Art. 198 - L'importo delle tasse e sovrattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge. I contributi sono stabiliti anno per anno dal consiglio di amministrazione dell'Universita', sentito il consiglio della scuola.   
-Art. 199 - Sono organi della scuola il direttore e il consiglio della scuola.   
-Art. 200 - Il direttore ha la responsabilita' della scuola. E' un professore di ruolo della scuola, di norma di prima fascia. In caso di motivato impedimento dei professori di prima fascia la direzione e' affidata a professori di seconda fascia.   
-Il direttore e' eletto dal consiglio della scuola, di cui al successivo articolo; convoca il consiglio della scuola e 16 presiede; ha, nell'ambito della conduzione della scuola, le funzioni proprie dei presidenti di consiglio di corso di laurea.   
-Il direttore promuove, per la stipula attraverso il consiglio di amministrazione ed il rettore, le convenzioni per lo svolgimento delle attivita' di formazione. Per la gestione dei fondi a disposizione della scuola si applicano le norme dettate per gli istituti dal regolamento per l'amministrazione e la contabilita' generale dell'Universita'.   
-Il direttore dura in carica tre anni ed e' rieleggibile.   
-Nel manifesto annuale degli studi viene indicata la sede della direzione della scuola.   
-Art. 201 - Il consiglio della scuola e' composto da tutti i docenti di ruolo della scuola e dagli eventuali docenti a contratto, da una rappresentanza di tre studenti, eletti secondo quanto previsto dall'[art. 99 del decreto del Presidente della Repubblica n. 382/80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art99) e ai sensi dell'[art. 8 del decreto del Presidente della Repubblica n. 162/82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;162~art8), dalle altre componenti previste dall'[art. 94 del decreto del Presidente della Repubblica n. 382/80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art94). In ogni caso al consiglio della scuola partecipa anche una rappresentanza dei ricercatori che svolgono attivita' nella scuola, secondo quanto previsto dall'[art 8 del decreto del Presidente della Repubblica n. 162/82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;162~art8).   
-Art. 202 - Il consiglio della scuola ne conduce e coordina le attivita' con i consigli dei dipartimenti e delle facolta' interessati, inclusi la designazione dei docenti, l'affidamento degli insegnamenti e le eventuali proposte di contratti.   
-In prima istituzione, i docenti che costituiscono il consiglio della scuola vengono designati in rapporto agli insegnamenti da attivare con apposita delibera dei consigli di facolta' interessati, sentiti i consigli dei dipartimenti coinvolti.   
-Art. 203 - Lo studente e' tenuto a seguire tutti i corsi di lezione e a partecipare a tutte le attivita' pratiche e alle esercitazioni previste, per ciascun anno di corso, dal manifesto degli studi pubblicato annualmente dal consiglio della scuola nel quadro delle norme piu' sotto indicate.   
-La frequenza della scuola e' obbligatoria per tutti gli iscritti.   
-Le modalita' di accertamento della frequenza sono determinate nel manifesto degli studi.   
-Art. 204 - L'organizzazione didattica della scuola avviene con le modalita' e i limiti stabiliti dall'[art. 4 del decreto del Presidente della Repubblica n. 162/82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;162~art4); agli studenti della scuola si applicano le disposizioni di legge e di regolamento riguardanti gli studenti universitari ai sensi dell'[art. 10 del decreto del Presidente della Repubblica n. 162/82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;162~art10).   
-Art. 205. - Il corso si conclude con un esame di diploma consistente nella presentazione e discussione di un elaborato finalizzato alla professionalita' specifica predisposto sotto la guida di un docente.   
-
-Art. 2
-------
-
-  
-  
-Dopo l'art. 1030, con il conseguente scorrimento della numerazione degli articoli successivi, sono inseriti i seguenti articoli e intitolazione relativi all'istituzione della scuola diretta a fini speciali di informatica:   
-Scuola diretta a fini speciali di informatica   
-Art. 1031. - E' istituita una scuola diretta a Fini speciali di informatica presso l'Universita' di Roma "La Sapienza".   
-La scuola ha il compito di preparare personale con competenze informatiche, in grado di affrontare i problemi connessi con il trattamento e la elaborazione dei dati.   
-La scuola rilascia il diploma in informatica.   
-Art. 1032 - La scuola ha la durata di due anni.   
-Ciascun anno prevede 250 ore di insegnamento e 250 ore di attivita' pratiche guidate.   
-Qualora vengano attivate iniziative di istruzione a distanza, a norma dell'[art. 92 del decreto del Presidente della Repubblica n. 382/80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art92), la durata del corso e' prorogabile a tre anni.   
-In base alle strutture disponibili (in ambito universitario e a quelle acquisite attraverso-convenzioni con enti pubblici e privati) la scuola e' in grado di accettare un numero massimo di iscritti determinati in trenta per ciascun anno di corso e per un totale di novanta studenti.   
-Qualora vengano attivate iniziative di istruzione a distanza si potranno avere iscrizioni separate, con le modalita' di cui al successivo art. 3, per un massimo di duecentocinquanta studenti per ogni anno di corso, oltre agli studenti ripetenti.   
-Art. 1033 - Poiche' la struttura dell'eventuale sistema di istruzione a distanza potra' essere basata su una rete di centri di supporto territoriali, fermi restando i disposti degli articoli precedenti, potranno essere stabiliti contingenti di posti in riferimento a tali centri. Le modalita' di assegnazione degli studenti a distanza alle strutture di supporto sono definite nel bando annuale di concorso.   
-Art. 1034 - Concorrono alla costituzione della scuola la facolta' di ingegneria, cui afferiscono gli insegnamenti, e il dipartimento di informatica e sistemistica.   
-Nel manifesto annuale degli studi viene indicata la sede della direzione della scuola.   
-Art. 1035 - Gli insegnamenti impartiti sono i seguenti:   
-1° Anno:   
+Gli articoli 155, 156, 157, 158, 159, 160, 161 e 162, relativi alla facolta' di architettura, sono soppressi e sostituiti come segue con il conseguente scorrimento della numerazione degli articoli successivi.   
+Art. 155. - La facolta' di architettura promuove e sviluppa gli studi e le ricerche sull'architettura con riferimento alla conoscenza, alla progettazione, alla costruzione e alla gestione dell'ambiente, e conferisce la laurea in architettura.   
+Art. 156. - Il corso di laurea in architettura si articola nei seguenti indirizzi:   
+a) di progettazione architettonica;   
+b) tutela e recupero del patrimonio storico-architettonico;   
+c) tecnologico;   
+d) urbanistico.   
+Gli indirizzi suindicati, hanno tutti carattere progettuale, e quindi applicativo, oltre che teorico.   
+La durata del corso di laurea in architettura e' di cinque anni.   
+Il titolo di ammissione e' quello stabilito dalle vigenti disposizioni di legge.   
+Art. 157. - Gli insegnamenti del corso di laurea in architettura sono raccolti, agli esclusivi fini della organizzazione didattica, in aree disciplinari omogenee:   
+1) progettuale architettonica;   
+2) della progettazione territoriale e urbanistica;   
+3) storico critica e del restauro;   
+4) tecnologica;   
+5) impiantistica;   
+6) fisico matematica;   
+7) della scienza e tecnica delle costruzioni;   
+8) socio-economica;   
+9) della rappresentazione.   
+Per il corso di laurea in architettura possono essere attivati i seguenti insegnamenti, che sono tutti annuali:   
+1) "Area progettuale architettonica":   
+composizione architettonica (1ª annualita');   
+composizione architettonica (2ª annualita');   
+allestimento e museografia;   
+arredamento ed architettura degli interni;   
+arte dei giardini;   
+caratteri tipologici dell'architettura;   
+normative e legislazione per l'edilizia;   
+progettazione architettonica (1ª annualita');   
+progettazione architettonica (2ª annualita');   
+scenografia;   
+teoria dei modelli per la progettazione;   
+architettura sociale;   
+progettazione urbana;   
+caratteri distributivi e costruttivi degli edifici.   
+2) "Area della progettazione territoriale e urbanistica":   
+urbanistica (1ª annualita');   
+urbanistica (2ª annualita');   
+analisi dei sistemi urbani;   
+analisi delle strutture urbanistiche e territoriali (1ª annualita');   
+analisi delle strutture urbanistiche e territoriali (2ª annualita');   
+diritto e legislazione urbanistica;   
+ecologia applicata;   
+geologia applicata e idrogeologia;   
+gestione urbanistica del territorio;   
+organizzazione del territorio;   
+pianificazione del territorio;   
+progettazione urbanistica (1ª annualita');   
+progettazione urbanistica (2ª annualita');   
+teoria dell'urbanistica (2ª annualita');   
+assetto del paesaggio;   
+teoria dell'urbanistica (1ª annualita').   
+3) "Area storico critica e del restauro":   
+storia dell'architettura (1ª annualita');   
+storia dell'architettura (2ª annualita');   
+storia della citta' e del territorio;   
+storia della critica e della letteratura architettonica;   
+storia della scienza;   
+storia della tecnologia;   
+storia dell'urbanistica (1ª annualita');   
+storia dell'urbanistica (2ª annualita');   
+teoria del restauro;   
+restauro architettonico;   
+storia dell'architettura (3ª annualita');   
+storia dell'architettura contemporanea;   
+storia dell'arte;   
+restauro architettonico (2ª annualita').   
+4) "Area tecnologica":   
+tecnologia dell'architettura (1ª annualita');   
+tecnologia dell'architettura (2ª annualita');   
+cultura tecnologica della progettazione;   
+disegno industriale;   
+ergonomia;   
+igiene ambientale;   
+morfologia dei componenti;   
+progettazione ambientale;   
+sperimentazione di sistemi e componenti;   
+tecnica ed economia della produzione edilizia;   
+tecnologie dei materiali da costruzione;   
+tipologia strutturale;   
+unificazione edilizia e prefabbricazione;   
+metodi e tecniche della normazione edilizia;   
+organizzazione della produzione;   
+tecnologia del recupero edilizio.   
+5) "Area impiantistica":   
+fisica tecnica e impianti;   
+illuminotecnica, acustica e climatizzazione nell'edilizia;   
+infrastrutture di viabilita' e trasporto;   
+impianti speciali di sicurezza;   
+impianti tecnici urbani;   
+ubicazione e distribuzione della produzione di energia;   
+impianti sanitari.   
+6) "Area fisico matematica":   
 istituzioni di matematica;   
-introduzione agli algoritmi e alla programmazione;   
-architettura degli elaboratori;   
-linguaggi e metodi di programmazione;   
-due insegnamenti scelti tra quelli opzionali.   
-2° Anno.   
-sistemi per l'elaborazione dei dati;   
-basi di dati;   
-sistemi informativi;   
-tre insegnamenti scelti tra quelli opzionali.   
-Gli insegnamenti opzionali sono i seguenti:   
-applicazioni della ricerca operativa;   
-applicazioni gestionali;   
-automazione degli uffici;   
-automazione industriale;   
-elementi di elettronica;   
-elementi di progettazione di sistemi digitali;   
-fondamenti di informatica;   
-matematica computazionale;   
-probabilita' e statistica;   
-sistemi operativi;   
-telematica e sistemi distribuiti.   
-Gli insegnamenti di "sistemi per l'elaborazione dei dati" e di "sistemi informativi" sono a prevalente carattere tecnico pratico.   
-Art. 1036 - Gli insegnamenti prevedono attivita' pratiche che consistono in esercitazioni sulla materia trattata nel corso e in attivita' sperimentali.   
-Tutti gli insegnamenti sono semestrali. Per la scelta degli insegnamenti opzionali, all'inizio di ciascun anno gli studenti dovranno presentare un piano sulla base delle indicazioni contenute nel manifesto degli studi, che indichera' l'effettiva attivazione degli insegnamenti e la loro collocazione in aree culturali omogenee.   
-I piani di studio sono approvati dal consiglio della scuola.   
-Qualora vengano attivate iniziative di istruzione a distanza e la durata del corso venga prorogata a tre anni il consiglio della scuola indichera' la relativa ripartizione degli insegnamenti fra i tre anni del corso a distanza.   
-Art. 1037 - L'attivita' pratica comporta esercitazioni pratiche guidate e al calcolatore relative alle materie di insegnamento.   
-Art. 1038 - E' obbligatorio un tirocinio che si svolge sotto la guida di un docente, di massima nell'ambito di uno dei corsi opzionali dell'ultimo anno. Tale tirocinio ha la durata di almeno 80 ore e consiste in un lavoro personale di progettazione di un sistema hardware o software.   
-Art. 1039 - L'esame di diploma consiste nella presentazione e discussione di un elaborato predisposto durante il tirocinio.   
-Art. 1040 - L'Universita', su proposta del consiglio della scuola, puo' stabilire convenzioni con enti pubblici o privati, con finalita' di sovvenzionamento o di utilizzazione di strutture extrauniversitarie per lo svolgimento di attivita' didattiche ai sensi del [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382) e del [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162).   
+calcolo numerico e programmazione;   
+elaborazione elettronica della progettazione;   
+fisica;   
+geometria descrittiva;   
+istituzioni di statistica;   
+linguaggio per l'uso dei calcolatori;   
+matematica applicata;   
+modelli matematici per la programmazione territoriale;   
+istituzioni di matematica (2ª annualita').   
+7) "Area della scienza e tecnica delle costruzioni":   
+statica;   
+consolidamento e adattamento degli edifici;   
+costruzioni in zone sismiche;   
+dinamica delle costruzioni;   
+geotecnica e tecnica delle fondazioni;   
+progettazione di grandi strutture;   
+scienza delle costruzioni;   
+tecnica delle costruzioni (1ª annualita');   
+tecnica delle costruzioni (2ª annualita');   
+strutture prefabbricate;   
+principi di progettazione strutturale;   
+problemi statici del restauro.   
+8) "Area socio economica":   
+estimo ed esercizio professionale;   
+antropologia culturale;   
+demografia;   
+economia dei trasporti;   
+economia urbana e regionale;   
+sociologia urbana e rurale;   
+geografia urbana e regionale;   
+geografia economica.   
+9) "Area della rappresentazione":   
+disegno e rilievo;   
+applicazioni di geometria descrittiva;   
+cartografia tematica;   
+interpretazioni di immagini e telerilevamenti;   
+strumenti e metodi per il rilievo architettonico;   
+strumenti e tecniche di comunicazione visiva;   
+tecniche della cartografia automatica;   
+tecniche di rappresentazione dell'architettura;   
+topografia;   
+elementi di fotogrammetria;   
+rappresentazione dei fenomeni territoriali;   
+disegno automatico.   
+Art. 158. - Per poter accedere all'esame di laurea in architettura lo studente deve aver superato almeno 30 esami di profitto, relativi a discipline attivate nella facolta' di architettura o in altre facolta' dell'Ateneo romano, secondo le indicazioni precisate nel seguito.   
+Entro il termine precisato nel manifesto annuale degli studi lo studente deve dichiarare l'indirizzo prescelto.   
+A) Le seguenti discipline fondamentali comuni a tutti gli indirizzi del corso di laurea in architettura sono:   
+nove discipline, la prima per ciascuna area, comuni in tutte le facolta':   
+1) composizione architettonica (1ª annualita');   
+2) disegno e rilievo;   
+3) estimo ed esercizio professionale;   
+4) fisica tecnica e impianti;   
+5) istituzioni di matematica;   
+6) statica;   
+7) storia dell'architettura (1ª annualita');   
+8) tecnologia dell'architettura (1ª annualita');   
+9) urbanistica (1ª annualita').   
+sette discipline caratterizzanti il corso di laurea in architettura e comuni a tutti gli indirizzi:   
+1) composizione architettonica (2ª annualita');   
+2) progettazione architettonica (1ª annualita');   
+3) restauro architettonico;   
+4) scienza delle costruzioni;   
+5) storia dell'architettura (2ª annualita');   
+6) tecnologie dei materiali da costruzione;   
+7) urbanistica (2ª annualita').   
+due discipline, integrative comuni a tutti gli indirizzi:   
+1) applicazioni di geometria descrittiva;   
+2) istituzioni di matematica (2ª annualita').   
+B) Le discipline specifiche di ogni indirizzo:   
+tre discipline, precisate, indirizzo per indirizzo, nel manifesto annuale degli studi e attinte dalle singole aree come appresso specificato:   
+una disciplina dell'area progettuale architettonica;   
+una disciplina dell'area socio-economica;   
+una disciplina scelta tra le nove aree.   
+nove discipline, caratterizzanti ciascun indirizzo attinte nelle singole aree come appresso specificato:   
+a) per l'indirizzo di "progettazione architettonica":   
+tre discipline dell'area progettuale architettonica;   
+due discipline dell'area della scienza e della tecnica delle costruzioni;   
+una disciplina dell'area della progettazione territoriale e urbanistica;   
+una disciplina dell'area della rappresentazione;   
+una disciplina dell'area storico critica e del restauro;   
+una disciplina dell'area tecnologica;   
+b) per l'indirizzo di "tutela e recupero del patrimonio storico architettonico":   
+tre discipline dell'area storico critica e del restauro;   
+due discipline dell'area progettuale architettonica;   
+una disciplina dell'area della progettazione territoriale e urbanistica;   
+una disciplina dell'area della rappresentazione;   
+una disciplina dell'area della scienza e tecnica delle costruzioni;   
+una disciplina dell'area tecnologica.   
+c) per l'indirizzo "tecnologico":   
+tre discipline dell'area tecnologica;   
+una disciplina dell'area fisico matematica;   
+una disciplina dell'area impiantistica;   
+una disciplina dell'area progettuale architettonica;   
+una disciplina dell'area della rappresentazione;   
+una disciplina dell'area della scienza e tecnica delle costruzioni;   
+una disciplina dell'area storico critica e del restauro.   
+d) per l'indirizzo "urbanistico":   
+tre discipline dell'area della progettazione territoriale e urbanistica;   
+due discipline dell'area socio economica;   
+una disciplina dell'area fisico matematica;   
+una disciplina dell'area della rappresentazione;   
+una disciplina dell'area storico critica e del restauro;   
+una disciplina dell'area tecnologica.   
+Sono obbligatori, per il corso di laurea in architettura, gli esami relativi alle discipline fondamentali comuni a tutti gli indirizzi, indicati al precedente punto A), nonche' tutti quelli che verranno indicati nel manifesto annuale degli studi (ordine degli studi) relativi ai vari indirizzi.   
+Nel manifesto annuale degli studi la facolta' specifica tra l'altro le modalita' che lo studente deve seguire qualora intenda:   
+sostituire, nel piano di studi, discipline attivate nella facolta' di architettura con altre attivate in facolta' diverse dell'Ateneo romano;   
+modificare, all'inizio di ogni anno accademico, la scelta dell'indirizzo e il piano di studi presentato.   
+Art. 159. - Per gli insegnamenti articolati su due annualita', non si puo' sostenere l'esame relativo alla seconda di esse se non si e' superato l'esame relativo alla prima.   
+Inoltre, per il corso di laurea in architettura, devono essere osservate le seguenti altre propedeuticita':   
   
+  
+=====================================================================  
+  
+  
+Non si puo' sostenere l'esame di: Se non si e' superato l'esame di: 
+
+|  |  |
+| --- | --- |
+| Statica | Istituzioni di matematica |
+| Scienza delle costruzioni | Statica |
+| Fisica tecnica e impianti | Istituzioni di matematica |
+|  | Tecnologia dei materiali da costruzione |
+| Composizione architettonica (2ª annualita') | Applicazioni di geometria descrittiva |
+| Progettazione architettonica (1ª annualita') | Composizione architettonica (2ª annualita') |
+|  | Statica |
+| Restauro dei monumenti | Storia dell'architettura (2ª annualita') |
+|  | Scienza delle costruzioni |
+|  | Disegno e rilievo |
+
+  
+  
+  
+  
+Lo studente, inoltre, dovra' essere sottoposto all'accertamento della conoscenza di almeno una lingua straniera fra quelle indicate dalla facolta' nel manifesto annuale degli studi, mediante colloquio e traduzione di testi scientifici, da effettuarsi prima dell'assegnazione della tesi di laurea con docenti di discipline attinenti alla tesi stessa.   
+Art. 160. - Per poter sostenere l'esame di laurea il candidato deve svolgere individualmente una tesi sotto la guida di un docente ufficiale dell'indirizzo seguito, che funge da relatore.   
+La tesi di laurea in architettura di norma implica una elaborazione progettuale, ma puo' anche avere carattere monografico teorico o di ricerca; in ogni caso l'argomento della tesi di laurea deve essere coerente con gli studi seguiti dal candidato.   
+L'esame di laurea consiste nella valutazione del curriculum del candidato relativo al corso di studi compiuto e nella discussione della tesi presentata.   
+
+((1))
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 ottobre 1985
+### Dato a Roma, addi' 28 ottobre 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 9 gennaio 1986
+Registrato alla Corte dei conti, addi' 11 giugno 1984
 
-Registro n. 1 Istruzione, foglio n. 199
+Registro n. 34 istruzione, foglio n. 306
+
+------------
+
+AGGIORNAMENTO (1)
+
+Il D.P.R. 21 dicembre 1988 (in G.U. 19/05/1989, n. 115) che "Il [decreto del Presidente della Repubblica 28 ottobre 1983, n. 1249, pubblicato nella Gazzetta Ufficiale n. 173 del 25 giugno 1984](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1984-06-25&numeroGazzetta=173), e' cosi' rettificato:   
+dopo l'art. 155 e' reinserito il testo dell'articolo che si riporta e che prende il n. 156. Conseguentemente la numerazione degli articoli 156, 157, 158, 159 e 160 di cui al medesimo [decreto del Presidente della Repubblica n. 1249/1983](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1983;1249) e' rettificata in articoli 157, 158, 159, 160 e 161.   
+Art. 156. - La facolta' di architettura comprende i seguenti istituti:   
+1) istituto di pianificazione territoriale;   
+2) istituto di edilizia.   
+La facolta' di architettura comprende altresi':   
+a) un laboratorio per le applicazioni del calcolo;   
+b) un laboratorio per la produzione e l'applicazione di sistemi audiovisivi ai processi di formazione dell'architetto".

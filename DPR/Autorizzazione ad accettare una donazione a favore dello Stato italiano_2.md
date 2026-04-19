@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1969 n. 619
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1969 n. 625
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1969 n. 619
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1969 n. 625
 =============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato italiano.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-619. Decreto del Presidente della Repubblica 10 giugno 1969, col quale, sulla proposta del Ministro per la pubblica istruzione, viene autorizzata l'accettazione della donazione di un dipinto di Giacomo Ceruti raffigurante "Un Portarolo" disposta a favore dello Stato italiano e per esso alla Pinacoteca di Brera in Milano, dal mercante d'arte sig. Algranti Gilberto, con atto pubblico stipulato in Milano l'11 luglio 1967 a rogito del notaio dott. Enrico Masini col n. 21432 di repertorio e registrato a Milano il 20 luglio 1967 col n. 12.821, serie F, registro atti pubblici.   
+625. Decreto del Presidente della Repubblica 10 giugno 1969, col quale, sulla proposta del Ministro per la pubblica istruzione, viene autorizzata l'accettazione della donazione di un dipinto di Giacomo Ceruti raffigurante un "Portarolo", disposta a favore dello Stato italiano e per esso alla Pinacoteca di Brera in Milano, dallo scrittore dott. Giovanni Testori con atto pubblico stipulato in Milano il 10 luglio 1967 a rogito del notaio dott. Enrico Masini col n. 21.416 di repertorio e registrato a Milano il 20 luglio 1967 col n. 12.828, serie F, registro atti pubblici.  
   
-Visto, il Guardasigilli: GAVA   
-Registrato alla Corte dei conti, addi' 18 settembre 1969   
-Atti del Governo, registro n. 229, foglio n. 34. - GRECO
+Visto, il Guardasigilli: GAVA  
+Registrato alla Corte dei conti, addi' 18 settembre 1969  
+Atti del Governo, registro n. 229, foglio n. 35. - GRECO

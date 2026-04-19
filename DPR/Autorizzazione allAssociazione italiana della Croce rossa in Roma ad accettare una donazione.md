@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 674
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 giugno 1978 n. 1046
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 674
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 giugno 1978 n. 1046
+==============================================================
 
 Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare una donazione.
 ------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-674. Decreto del Presidente della Repubblica 17 maggio 1986, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare la donazione, consistente in un locale sito in comune di Torriglia (Genova), piazza Gastaldi n. 6, del periziato valore di L. 13.000.000 in data 20 marzo 1984, come da nota dell'ufficio tecnico erariale di Genova, disposta dalla sig.ra Maria Lina Garbarino con atto 12 novembre 1983, a rogito dott. Luigi Stamigna, notaio in Genova e registrato a Genova in data 2 dicembre 1983 al n. 22260.   
+1046. Decreto del Presidente della Repubblica 26 giugno 1978, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare la donazione in favore del dipendente sottocomitato di Incisa Valdarno (Firenze), del diritto di sopraelevazione di un piano nell'immobile sito in detto comune alla piazza S. Lucia, distinto in catasto alla partita 86, foglio 19, part. 244, disposta con [deliberazione della giunta comunale 26 settembre 1966, n. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:giunta.comune.:delibera:1966-09-26;148), ratificata dal consiglio comunale con atto 27 maggio 1967, n. 45 e con deliberazione dello stesso [consiglio comunale 30 aprile 1968, n. 32](http://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.comune.::1968-04-30;32), approvata dalla giunta provinciale amministrativa di Firenze il 13 luglio 1968.  
   
-Visto, il Guardasigilli: ROGNONI   
-Registrato alla Corte dei conti, addi' 9 ottobre 1986   
-Registro n. 10 Sanita', foglio n. 68
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 24 aprile 1979  
+Registro n. 3 Sanita', foglio n. 305

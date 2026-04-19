@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1963 n. 1365
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1984 n. 695
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1963 n. 1365
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1984 n. 695
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056) e successivi;
+Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,178 +20,39 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Veduto il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 23. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di:
+Articolo unico
+--------------
 
-Micologia medica;
-
-Neuropsichiatria infantile;
-
-Dermatologia allergologica e professionale;
-
-Fisiopatologia ostetrica e ginecologica;
-
-Medicina preventiva dei lavoratori e psicotecnica.
-
-Dopo l'art. 145, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Scienza dell'alimentazione e dietetica, con il conseguente spostamento della numerazione degli articoli successivi.
-
-Scuola di specializzazione in Scienza dell'alimentazione e dietetica
-
-Art. 146. - Alla Facolta' di Medicina e chirurgia dell'Universita' di Milano e' annessa la Scuola di specializzazione in Scienza dell'alimentazione e dietetica.
-
-Alla Scuola di specializzazione possono iscriversi i laureati in Medicina e chirurgia. Il numero degli iscritti alla Scuola e' fissato ad un massimo di dieci per ogni anno di corso.
-
-La durata del corso degli studi e' di due anni e comprende i seguenti insegnamenti:
-
-Primo anno:
-
-Chimica degli alimenti (proteine, carboidrati, lipidi, sali minerali, oligo elementi);
-
-Biochimica e fisiologia della nutrizione;
-
-Patologia dell'alimentazione;
-
-Microbiologia in rapporto con la produzione alimentare e con la conservazione degli alimenti;
-
-Vitaminologia, enzimologia, fattori di crescita;
-
-Metodi cromatografici, radioisotopici, ecc., nello studio delle sostanze alimentari;
-
-Preservazione degli alimenti mediante metodi fisici (essiccamento, freddo, radiazioni ecc), metodi chimici (sostanze anti-ossidanti, antibatteriche, antibiotiche, ecc,.).
-
-Secondo anno:
-
-Chimica degli alimenti, estrazione, purificazione, sintesi di sostanze alimentari;
-
-Biochimica e fisiologia della nutrizione;
-
-Farmacologia della nutrizione;
-
-Gli additivi chimici nell'industria alimentare;
-
-Alimentazione e malattie;
-
-Dietologia nel bambino, nel vecchio, nel malato;
-
-Dietologia nei grandi aggregati umani (forze armate, collegi, colonie, ospedali);
-
-Clinica e terapia delle malattie alimentari;
-
-Terapia mediante alimenti;
-
-Statistica, economia, legislazione.
-
-Sono previste conferenze ed esercitazioni su argomenti particolari.
-
-Art. 147. - Direttore della Scuola e' il professore ufficiale di Farmacologia.
-
-Gli insegnanti delle singole materie vengono nominati dal Consiglio di Facolta' di medicina e chirurgia.
-
-Si avra' un solo esame generale al termine di ogni anno, che sara' effettuato "a gruppo" dai docenti delle varie discipline.
-
-La specializzazione sara' conseguita dopo discussione di una apposita tesi.
-
-L'internato e' obbligatorio e si svolge di norma, secondo l'orario 9-13, 15-20 in tutti i giorni feriali, dallo inizio della Scuola, inizio che viene stabilito di anno in anno, intorno al 10 dicembre, al 15 luglio.
-
-L'ammissione avviene dopo un esame - che si effettua verso i primi di dicembre - destinato a stabilire la preparazione degli aspiranti alla Scuola e fissarne una graduatoria di merito.
-
-Per le altre condizioni di ammissione alla Scuola si applicano le norme previste per tutte le Scuole di specializzazione annesse alla Facolta' di medicina e chirurgia.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 5 agosto 1963
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 16 ottobre 1963 Atti del Governo, registro n. 175, foglio n. 24. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 23. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di:  
-Micologia medica;  
-Neuropsichiatria infantile;  
-Dermatologia allergologica e professionale;  
-Fisiopatologia ostetrica e ginecologica;  
-Medicina preventiva dei lavoratori e psicotecnica.  
-Dopo l'art. 145, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Scienza dell'alimentazione e dietetica, con il conseguente spostamento della numerazione degli articoli successivi.  
-  
-Scuola di specializzazione in Scienza dell'alimentazione e dietetica   
-Art. 146. - Alla Facolta' di Medicina e chirurgia dell'Universita' di Milano e' annessa la Scuola di specializzazione in Scienza dell'alimentazione e dietetica.  
-Alla Scuola di specializzazione possono iscriversi i laureati in Medicina e chirurgia. Il numero degli iscritti alla Scuola e' fissato ad un massimo di dieci per ogni anno di corso.  
-La durata del corso degli studi e' di due anni e comprende i seguenti insegnamenti:  
-Primo anno:  
-Chimica degli alimenti (proteine, carboidrati, lipidi, sali minerali, oligo elementi);  
-Biochimica e fisiologia della nutrizione;  
-Patologia dell'alimentazione;  
-Microbiologia in rapporto con la produzione alimentare e con la conservazione degli alimenti;  
-Vitaminologia, enzimologia, fattori di crescita;  
-Metodi cromatografici, radioisotopici, ecc., nello studio delle sostanze alimentari;  
-Preservazione degli alimenti mediante metodi fisici (essiccamento, freddo, radiazioni ecc), metodi chimici (sostanze anti-ossidanti, antibatteriche, antibiotiche, ecc,.).  
-Secondo anno:  
-Chimica degli alimenti, estrazione, purificazione, sintesi di sostanze alimentari;  
-Biochimica e fisiologia della nutrizione;  
-Farmacologia della nutrizione;  
-Gli additivi chimici nell'industria alimentare;  
-Alimentazione e malattie;  
-Dietologia nel bambino, nel vecchio, nel malato;  
-Dietologia nei grandi aggregati umani (forze armate, collegi, colonie, ospedali);  
-Clinica e terapia delle malattie alimentari;  
-Terapia mediante alimenti;  
-Statistica, economia, legislazione.  
-Sono previste conferenze ed esercitazioni su argomenti particolari.  
-Art. 147. - Direttore della Scuola e' il professore ufficiale di Farmacologia.  
-Gli insegnanti delle singole materie vengono nominati dal Consiglio di Facolta' di medicina e chirurgia.  
-Si avra' un solo esame generale al termine di ogni anno, che sara' effettuato "a gruppo" dai docenti delle varie discipline.  
-La specializzazione sara' conseguita dopo discussione di una apposita tesi.  
-L'internato e' obbligatorio e si svolge di norma, secondo l'orario 9-13, 15-20 in tutti i giorni feriali, dallo inizio della Scuola, inizio che viene stabilito di anno in anno, intorno al 10 dicembre, al 15 luglio.  
-L'ammissione avviene dopo un esame - che si effettua verso i primi di dicembre - destinato a stabilire la preparazione degli aspiranti alla Scuola e fissarne una graduatoria di merito.  
-Per le altre condizioni di ammissione alla Scuola si applicano le norme previste per tutte le Scuole di specializzazione annesse alla Facolta' di medicina e chirurgia.  
+Art. 34 - all'elenco degli insegnamenti complementari del corso di laurea in chimica, per l'indirizzo organico-biologico e' aggiunto l'insegnamento di "complementi di chimica organica".   
+Art. 38 - all'elenco degli insegnamenti complementari del corso di laurea in chimica industriale e' aggiunto l'insegnamento di "complementi di chimica organica".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 agosto 1963
+### Dato a Roma, addi' 14 luglio 1984
 
-SEGNI GUI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 16 ottobre 1963
+Registrato alla Corte dei conti, addi' 1 ottobre 1984
 
-Atti del Governo, registro n. 175, foglio n. 24. - VILLA
+Registro n. 58 Istruzione, foglio n. 304

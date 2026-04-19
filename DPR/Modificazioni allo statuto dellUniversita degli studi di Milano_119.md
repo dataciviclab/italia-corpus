@@ -1,77 +1,104 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1954 n. 1161
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 giugno 1980 n. 608
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1954 n. 1161
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 giugno 1980 n. 608
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifica dello statuto formulato dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' degli studi di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, numero 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166) e modificato con [legge 1 giugno 1939, numero 872](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;872); con [regi decreti 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2056), [15 aprile 1942, n. 423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;423); [24 ottobre 1942, n. 1847, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1847) [27 luglio 1947, n. 1138 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-07-27;1138) [23 settembre 1949, n. 942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;942); [21 novembre 1949, n. 1194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-11-21;1194); [13 marzo 1930, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1930-03-13;283); [27 ottobre 1951, n. 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1825); [23 aprile 1952, n. 873](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-04-23;873); [10 febbraio 1953, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;383) e [13 febbraio 1954, n. 750](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-02-13;750);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta, la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso;  
-Art. 23. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
-16) Semeiotica medica;  
-17) Anatomia topografica;  
-18) Semeiotica chirurgica;  
-19) Terapia medica sistematica;  
-20) Neurochirurgia;  
-21) Genetica umana.  
-Art. 51. - Agli insegnamenti complementari del corso di laurea in medicina veterinaria sono aggiunti i seguenti:  
-14) Igiene dei prodotti della pesca e derivati, con elementi di pescicoltura;  
-15) Igiene del latte e derivati;  
-16) Genetica;  
-17) Produzione e conservazione del foraggio ai fini zootecnici.  
-La "scuola di perfezionamento in anestesia" e' trasformata in "scuola di specializzazione in anestesia" con il seguente nuovo ordinamento.  
-  
-Scuola di specializzazione in anestesia.  
-  
-Art. 98. - a) E' istituita presso la clinica chirurgica generale la scuola di specializzazione in anestesia per il conseguimento di un diploma di specialista in anestesia.  
-b) Il direttore della scuola e' designato dal Consiglio della Facolta' anno per anno.  
-c) Sono ammessi alla scuola un numero non superiore a 12 di laureati in medicina e chirurgia delle Universita' italiane.  
-d) Il termine per la presentazione delle domande e' tassativamente fissato al 30 novembre di ogni anno.  
-e) La selezione dei richiedenti l'iscrizione al fine della ammissione entro il numero dei posti disponibili, e' fatta dal Consiglio della Facolta', sentito il direttore della, scuola, che provvedera' alla valutazione degli aspiranti in base ai titoli e occorrendo a esame.  
-f) La durata del corso e' di due anni: in questo periodo gli allievi sono tenuti a prestare servizio di internato nella clinica chirurgica generale.  
-g) Le materie di insegnamento sono le seguenti:  
-1) i fondamenti anatomici delle anestesie;  
-2) i fondamenti fisiologici delle anestesie;  
-3) i fondamenti farmacologici delle anestesie;  
-4) le anestesie generali;  
-5) le anestesie locoregionali;  
-6) trattamento pre e post-anestetico.  
-7) Gli insegnanti della scuola sono designati dal Consiglio della Facolta' su proposta del direttore.  
-i) Al termine del primo anno gli allievi dovranno superare un esame speciale sulla materia degli insegnamenti fondamentali come dai paragrafi 1), 2) e 3) della lettera g).  
-Al termine del secondo anno gli allievi dovranno superare:  
-j) un esame speciale sulla materia di insegnamento teorico pratico, come dai paragrafi 4), 5) e 6) della lettera g) 2) un esame di diploma consistente in una dissertazione orale su argomento attinente all'enestesia, scelto dall'allievo ed approvato dal direttore.  
-l) Le Commissioni degli esami speciali saranno costituite di tre membri nominati dal preside della Facolta' scelti fra gli insegnanti della scuola, su proposta, del direttore.  
-La Commissione dell'esame di diploma e' composta di cinque membri ed e' presieduta dal preside od in sua assenza dal direttore della scuola, il quale ne fa parte di diritto.  
-m) Gli iscritti sono tenuti al pagamento delle tasse e sopratasse stabilite per legge per gli studenti del corso di laurea in medicina e chirurgia nonche' ad un contributo nella misura stabilita anno per anno dal Consiglio di amministrazione su proposta del Senato accademico udite la Facolta' e Scuole.  
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Nell'art. 274 sono soppressi i primi quattro commi e sostituiti come segue:   
+La scuola di perfezionamento in biologia conferisce il diploma di perfezionamento in biologia secondo i seguenti indirizzi:   
+ricerche biologiche;   
+genetica applicata;   
+biologia applicata;   
+biologia sanitaria.   
+Nel diploma di perfezionamento conferito dalla scuola e' fatta menzione dell'indirizzo svolto. Titolo preferenziale per l'ammissione al corso e' la laurea in scienze biologiche e naturali. Limitatamente all'indirizzo genetico sono ammessi i laureati in medicina veterinaria ed in agraria. Limitatamente all'indirizzo in biologia applicata ed in biologia sanitaria sono ammessi anche i laureati in chimica (indirizzo organico-biologico).   
+La frequenza ai corsi ed alle esercitazioni e' obbligatoria.  
+Inoltre e' richiesto il tirocinio presso istituti e laboratori qualificati su indicazione del comitato direttivo della scuola.   
+Le iscrizioni sono limitate alla disponibilita' dei posti per ciascun indirizzo come segue:   
+indirizzo di ricerche biologiche, posti n. 8;   
+indirizzo di genetica applicata, posti n. 5;   
+indirizzo di biologia applicata, posti n. 8;   
+indirizzo di biologia sanitaria, posti n. 5.   
+Gli aspiranti verranno scelti in base ai titoli presentati e al risultato di un colloquio, da una commissione costituita da insegnanti del corso.   
+I commi concernenti l'indirizzo in biologia applicata sono soppressi e sostituiti come segue:   
+Indirizzo in biologia applicata. Le materie di insegnamento sono:   
+1° Anno:   
+elementi di biologia degli animali di laboratorio;   
+titolazioni biologiche;   
+tecniche biochimiche;   
+statistica applicata;   
+tecniche microbiologiche.   
+2° Anno:   
+metodi biochimici di separazione;   
+tecniche microscopiche;   
+tecniche fisiologiche;   
+titolazioni microbiologiche;   
+tecniche farmacologiche.   
+Per l'ammissione al secondo anno e' obbligatorio il superamento di almeno due esami degli insegnamenti del primo anno.   
+L'ammissione all'esame di diploma e' subordinata al superamento degli esami di tutti i corsi sopraelencati.   
+L'esame di diploma consiste in una prova pratica seguita da una discussione e da un esame di cultura generale.   
+Sono aggiunti i seguenti nuovi commi relativi all'istituzione dell'indirizzo in biologia sanitaria.   
+Indirizzo in biologia sanitaria.   
+Le materie di insegnamento sono:   
+1° Anno:   
+organizzazione e strumentazione di laboratorio;   
+fisiopatologia;   
+chimica clinica;   
+tecniche chimico-cliniche;   
+microbiologia sanitaria.   
+2° Anno:   
+citologia normale e patologica;   
+tecniche immunologiche;   
+ematologia;   
+dosaggi ormonali;   
+farmacologia e tossicologia sanitaria.   
+Per l'ammissione a questo indirizzo occorre il diploma di perfezionamento in biologia applicata.   
+Per l'ammissione al secondo anno e' obbligatorio il superamento di almeno due esami degli insegnamenti del primo anno.   
+L'ammissione all'esame di diploma e' subordinata al superamento degli esami di tutti i corsi sopraelencati.   
+L'esame di diploma consiste in una prova pratica seguita da una discussione e da un esame di cultura generale.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Dogliani, addi' 14 settembre 1954
+### Dato a Roma, addi' 3 giugno 1980
 
-EINAUDI MARTINO
+PERTINI SARTI
 
-Visto, il Guardasigilli: DE PIETRO
+Visto, il guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 13 dicembre 1954
+Registrato alla Corte dei conti, addi' 25 settembre 1980
 
-Atti del Governo, registro n. 87, foglio n. 81. - CARLOMAGNO
+Registro n. 88 Istruzione, foglio n. 77

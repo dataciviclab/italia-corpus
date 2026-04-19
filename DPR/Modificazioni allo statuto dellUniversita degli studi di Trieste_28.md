@@ -1,165 +1,61 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 dicembre 1971 n. 1282
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1971 n. 695
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 dicembre 1971 n. 1282
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1971 n. 695
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Dopo l'art. 124 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in radiologia.
-
-Scuola di specializzazione in radiologia
-
-(con indirizzo di "Radiologia diagnostica")
-
-Art. 125. - La scuola di specializzazione in radiologia e' limitata al solo indirizzo roentgendiagnostico per cui rilascera' il diploma di specialista in radiologia diagnostica.
-
-Il corso d'insegnamento ha la durata di tre anni ed e' cosi' articolato:
-
-1° Anno:
-
-Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;
-
-Nozioni sugli apparecchi ed istrumenti della radiologia;
-
-Anatomia radiologica normale;
-
-Fisiologia radiologica;
-
-Tecnica radiologica generale;
-
-Semeiotica radiologica generale;
-
-Fondamenti di radiobiologia;
-
-Nozioni di statistica e matematica.
-
-2° Anno:
-
-Metodica di esplorazione dei vari organi ed apparati;
-
-Semeiotica radiologica speciale e diagnosi differenziale;
-
-Nozioni generali sulle lesioni da radiazioni e mezzi di protezione;
-
-Moderne tecniche di esplorazione radiologica.
-
-3° Anno:
-
-Esplorazione radiologica nella patologia dei vari organi ed apparati, diagnostica differenziale, rapporti con l'anatomia patologica;
-
-Radiodiagnostica clinica;
-
-Medicina legale e legislazione sanitaria in relazione alla radiologia.
-
-Art. 126. - I corsi saranno integrati da conferenze, esercitazioni e seminari. E' obbligatorio l'internato.
-
-L'obbligo della frequenza durante tutto l'anno accademico (nove mesi) presso l'istituto di radiologia, sede della scuola, puo' essere ridotto a due mesi (su concessione del direttore della scuola) per gli specializzandi che fanno parte di istituti universitari della stessa disciplina che non abbiano la scuola e per gli assistenti di ruolo di primariati della stessa disciplina presso ospedali regionali.
-
-Non e' consentita per alcun motivo l'abbreviazione dei corsi.
-
-E' obbligatorio il superamento degli esami di un corso per l'ammissione al corso successivo.
-
-Il numero degli iscritti alla scuola e' limitato a otto per anno.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 8 dicembre 1971
-
-SARAGAT
-
-MISASI
-
-Visto, il Guardasigilli: COLOMBO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 1° febbraio 1972 Atti del Governo, registro n. 246, foglio n. 53. - VALENTINI
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961; n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 57: all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di:  
   
-Dopo l'art. 124 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in radiologia.   
-  
-Scuola di specializzazione in radiologia   
-(con indirizzo di "Radiologia diagnostica")   
-  
-Art. 125. - La scuola di specializzazione in radiologia e' limitata al solo indirizzo roentgendiagnostico per cui rilascera' il diploma di specialista in radiologia diagnostica.   
-Il corso d'insegnamento ha la durata di tre anni ed e' cosi' articolato:   
-1° Anno:   
-Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;   
-Nozioni sugli apparecchi ed istrumenti della radiologia;   
-Anatomia radiologica normale;   
-Fisiologia radiologica;   
-Tecnica radiologica generale;   
-Semeiotica radiologica generale;   
-Fondamenti di radiobiologia;   
-Nozioni di statistica e matematica.   
-2° Anno:   
-Metodica di esplorazione dei vari organi ed apparati;   
-Semeiotica radiologica speciale e diagnosi differenziale;   
-Nozioni generali sulle lesioni da radiazioni e mezzi di protezione;   
-Moderne tecniche di esplorazione radiologica.   
-3° Anno:   
-Esplorazione radiologica nella patologia dei vari organi ed apparati, diagnostica differenziale, rapporti con l'anatomia patologica;   
-Radiodiagnostica clinica;   
-Medicina legale e legislazione sanitaria in relazione alla radiologia.   
-Art. 126. - I corsi saranno integrati da conferenze, esercitazioni e seminari. E' obbligatorio l'internato.   
-L'obbligo della frequenza durante tutto l'anno accademico (nove mesi) presso l'istituto di radiologia, sede della scuola, puo' essere ridotto a due mesi (su concessione del direttore della scuola) per gli specializzandi che fanno parte di istituti universitari della stessa disciplina che non abbiano la scuola e per gli assistenti di ruolo di primariati della stessa disciplina presso ospedali regionali.   
-Non e' consentita per alcun motivo l'abbreviazione dei corsi.   
-E' obbligatorio il superamento degli esami di un corso per l'ammissione al corso successivo.   
-Il numero degli iscritti alla scuola e' limitato a otto per anno.   
+Antropologia criminale;  
+Medicina sociale;  
+Igiene mentale;  
+Radiobiologia;  
+Chirurgia del cuore e dei grossi vasi;  
+Chirurgia sperimentale;  
+Oncologia sperimentale;  
+Chimica e microscopia clinica;  
+Biologia molecolare;  
+Biometria e statistica medica;  
+Fisiopatologia cardiocircolatoria;  
+Nefrologia medica;  
+Tossicologia;  
+Clinica delle malattie tropicali e subtropicali;  
+Reumatologia;  
+Ematologia;  
+Endocrinologia e medicina costituzionale;  
+Clinica chirurgica pediatrica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 dicembre 1971
+### Dato a Roma, addi' 12 luglio 1971
 
 SARAGAT MISASI
 
 Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 1° febbraio 1972
+Registrato alla Corte dei conti, addi' 30 agosto 1971
 
-Atti del Governo, registro n. 246, foglio n. 53. - VALENTINI
+Atti del Governo, registro n. 244, foglio n. 38. - PASQUALUCCI

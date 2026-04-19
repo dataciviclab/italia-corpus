@@ -1,23 +1,183 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 settembre 1968 n. 1081
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 luglio 1963 n. 1374
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 settembre 1968 n. 1081
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 luglio 1963 n. 1374
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successivi;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 28. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di:
+
+24) Storia delle tradizioni popolari;
+
+25) Lingua e letteratura russa.
+
+Art. 29. - Agli insegnamenti complementari del corso di laurea in filosofia e' aggiunto quello di:
+
+15) Una lingua e letteratura straniera moderna, scelta tra quelle elencate nell'art. 28 per il corso di laurea in lettere.
+
+Art. 36. - Agli insegnamenti complementari del corso di laurea in Farmacia e' aggiunto quello di:
+
+10) Chimica, farmaceutica applicata.
+
+Art. 56. - Agli insegnamenti complementari del corso di laurea in Medicina veterinaria e' aggiunto quello di:
+
+14) Igiene del latte e derivati.
+
+Dopo l'art. 70 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di perfezionamento in Scienze farmaceutiche e biochimica applicata con il conseguente spostamento della numerazione degli articoli successivi.
+
+Scuola di perfezionamento in Scienze
+
+farmaceutiche e biochimica applicata
+
+Art. 71. - Alla Facolta' di farmacia e' annessa la "Scuola di perfezionamento in Scienze farmaceutiche e biochimica applicata".
+
+Art. 72. - Scopo della Scuola e' perfezionare e completare la preparazione dei laureati in Farmacia, in modo da renderli meglio idonei ad eseguire con sicurezza ricerche di indole chimico-biologica e farmaceutica e capaci di corrispondere alle esigenze professionali dell'industria farmaceutica e dei laboratori di analisi chimico-clinica e chimico-bromatologica.
+
+Art. 73. - Alla Scuola possono iscriversi i laureati in Farmacia ed i laureati in Chimica ed in Chimica e farmacia.
+
+Art. 74. - La Scuola ha durata biennale. Per l'ammissione alla Scuola i candidati debbono superare un esame generale di cultura farmaceutica. Il numero dei posti, per ciascun anno, e' limitato a dieci. Ove il numero dei candidati idonei superi tale numero, avranno diritto di precedenza i meglio graduati nell'esame di ammissione.
+
+Art. 75. - Ai fini del conseguimento del diploma di specializzazione gli iscritti debbono aver frequentato e superato gli esami dei corsi seguenti:
+
+1° Anno:
+
+Microbiologia, sierologia umana e veterinaria e tecnica immunologica;
+
+Microbiologia industriale farmaceutica;
+
+Biochimica applicata;
+
+Analisi chimico-fisiche;
+
+Complementi di farmacologia e farmacologia applicata;
+
+Complementi di chimica farmaceutica ed analitica;
+
+Preparazioni farmaceutiche.
+
+2° Anno:
+
+Analisi chimico-cliniche;
+
+Analisi chimico-bromatologiche;
+
+Chimica farmaceutica industriale;
+
+Lavorazione industriale di materiali biologici;
+
+Impianti e macchinario farmaceutico;
+
+Legislazione ed organizzazione industriale.
+
+Art. 76. - La direzione della Scuola sara' alternativamente affidata, un anno al titolare di Chimica farmaceutica e tossicologica e il successivo a quello di Chimica biologica.
+
+Il Consiglio della Scuola e' costituito da tutti i docenti che insegnano nella Scuola stessa. Gli incarichi di insegnamento nella Scuola sono conferiti dal rettore su proposta del direttore della Scuola.
+
+Art. 77. - Il Consiglio della Scuola disporra' circa i programmi di insegnamento i periodi di internato, le esercitazioni pratiche e quanto altro possa riuscire utile al miglior profitto della Scuola.
+
+Art. 78. - A coloro che hanno frequentato la Scuola e superato le prove di esame prescritte verra' rilasciato un diploma di specialista valido a tutti gli effetti di legge.
+
+Art. 79. - Le Commissioni per gli esami di profitto e di diploma sono costituite rispettivamente da tre e da cinque membri, nominati dal preside della Facolta'.
+
+Art. 80. - L'esame di diploma consiste in un esame di cultura generale nel campo delle Scienze farmaceutiche, completato da prove pratiche a scelta della Commissione, e dalla dissertazione su di una tesi scritta, sperimentale o compilativa, in una delle discipline che sono previste dall'ordinamento didattico della Scuola.
+
+Art. 81. - Le tasse di immatricolazione e di iscrizione alla Scuola sono le stesse dovute dagli studenti della Facolta' di farmacia; la misura dei contributi di laboratorio verra' fissata dal Consiglio di amministrazione su proposta del Consiglio della scuola, debitamente approvato dal Senato accademico.
+
+Dopo l'art. 111 sono aggiunti i seguenti nuovi articoli relativi alla istituzione dei corsi di perfezionamento in "Ispezione degli alimenti di origine animale" ed in "Ostetricia, ginecologia e fecondazione artificiale degli animali domestici annessi alla Facolta' di Medicina veterinaria".
+
+Corso di perfezionamento in ispezione
+
+degli alimenti di origine animale
+
+Art. 112. - La durata del corso e' di un anno.
+
+Le materie d'insegnamento sono:
+
+1) Anatomia ed istologia patologica;
+
+2) Microbiologia;
+
+3) Chimica degli alimenti di origine animale;
+
+4) Tecnica della ispezione sanitaria degli alimenti di origine animale e relative ricerche di laboratorio
+
+5) Legislazione.
+
+Corso di perfezionamento in Ostetricia, ginecologia
+
+e fecondazione artificiale degli animali domestici
+
+Art. 113. - La durata del corso e' di un anno.
+
+Le materie di insegnamento sono:
+
+1) Anatomia e fisiologia dell'apparato genitale maschile e femminile;
+
+2) Malattie infettive attinenti all'apparato genitale maschile e femminile;
+
+3) Anatomia patologica dell'apparato genitale maschile e femminile
+
+4) Fisiopatologia della gravidanza e del puerperio;
+
+5) Sterilita' della femmina e del maschio;
+
+6) Chirurgia ostetrica e ginecologica;
+
+7) Tecnica della fecondazione artificiale.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 26 luglio 1963
+
+SEGNI
+
+GUI
+
+Visto, il Guardasigilli: BOSCO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 16 ottobre 1963 Atti del Governo, registro n. 175, foglio n. 23. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Perugia approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -25,72 +185,98 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 28. - Nel corso di laurea in lettere l'insegnamento complementare di "Letteratura italiana moderna e contemporanea" muta denominazione in quella di "Storia della letteratura italiana moderna e contemporanea".  
-Art. 29. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia e' aggiunto il seguente:  
+Art. 28. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di:  
+24) Storia delle tradizioni popolari;  
+25) Lingua e letteratura russa.  
   
-Storia della scienza.  
+Art. 29. - Agli insegnamenti complementari del corso di laurea in filosofia e' aggiunto quello di:  
+15) Una lingua e letteratura straniera moderna, scelta tra quelle elencate nell'art. 28 per il corso di laurea in lettere.  
   
-Art. 31. - All'elenco degli insegnamenti fondamentali del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo) la denominazione dell'insegnamento di "Filologia romanza (o germanica, o ugro-finnica)" e' rettificata in quella di "Filologia romanza, (o germanica, o slava, o ugro-finnica)".  
-Nel predetto corso di laurea l'insegnamento complementare di "Lingua e letteratura latina medioevale" muta denominazione in quella di "Storia della letteratura latina medioevale".  
-Art. 59, relativo alla facolta' di scienze matematiche, fisiche e naturali e' abrogato e sostituito dal seguente:  
-"La facolta' di scienze matematiche, fisiche e naturali conferisce le lauree in scienze naturali, in scienze biologiche, in chimica, in matematica.  
-Alla facolta' e' annesso il biennio propedeutico agli studi di ingegneria. La durata del corso degli studi e' di anni quattro per le lauree in scienze naturali, in scienze biologiche ed in matematica e di cinque anni per la laurea in chimica.  
-Sono titoli di ammissione per i corsi di laurea in scienze naturali, in scienze biologiche, in chimica e in matematica il diploma di maturita' classica o scientifica, o il diploma di abilitazione per i provenienti dagli istituti tecnici industriali, nautici, agrari, per geometri e, limitatamente ai corsi di laurea in scienze naturali, in scienze biologiche e in chimica, dagli istituti tecnici femminili.  
-Sono titoli di ammissione al biennio propedeutico agli studi di ingegneria, il diploma di maturita' classica, o scientifica, o il diploma di abilitazione per i provenienti dagli istituti tecnici industriali, nautici e per geometri.  
-Art. 70, relativo al corso di laurea in matematica, il primo comma e' abrogato e sostituito dal seguente:  
-"Il corso degli studi per la laurea in matematica si distingue in tre indirizzi: didattico, generale ed applicativo".  
-Nel predetto corso di laurea al secondo ed al sesto comma le parole "... comuni ai due indirizzi" sono soppresse e sostituite dalle seguenti "... comuni ai tre indirizzi".  
-Agli insegnamenti, fondamentali del terzo anno, nel predetto corso di laurea, e' aggiunto quello di "Topologia (per l'indirizzo generale)"; ed inoltre, al quarto anno sono aggiunti quelli di:  
-"Matematiche superiori per l'indirizzo generale";  
-"Matematiche elementari da un punto di vista superiore - per l'indirizzo didattico" (in sostituzione di matematica finanziaria ed attuariale - per l'indirizzo didattico).  
-Nel predetto corso di laurea all'elenco degli insegnamenti complementari sono aggiunti i seguenti:  
-20) Algebra superiore  
-21) Analisi superiore  
-22) Geometria superiore  
-23) Cibernetica e teoria delle informazioni (\*).  
-L'ultimo comma del predetto corso di laurea e' abrogato e sostituito dal seguente:  
-"L'attribuzione degli insegnamenti complementari ai singoli indirizzi verra' stabilita dalla facolta' nei piani di studi".  
-Dopo l'art. 72 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi all'istituzione del biennio propedeutico d'ingegneria.  
+Art. 36. - Agli insegnamenti complementari del corso di laurea in Farmacia e' aggiunto quello di:  
+10) Chimica, farmaceutica applicata.  
   
-Biennio di studi propedeutici per la laurea in ingegneria  
+Art. 56. - Agli insegnamenti complementari del corso di laurea in Medicina veterinaria e' aggiunto quello di:  
+14) Igiene del latte e derivati.  
+Dopo l'art. 70 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di perfezionamento in Scienze farmaceutiche e biochimica applicata con il conseguente spostamento della numerazione degli articoli successivi.  
   
-Art. 73. - Sono insegnamenti fondamentali del biennio propedeutico agli studi di ingegneria:  
-per il primo anno:  
-1) Analisi matematica 1°  
-2) Geometria 1°  
-3) Fisica 1°  
-4) Chimica  
-5) Disegno  
-per il secondo anno:  
-6) Analisi matematica II  
-7) Geometria II  
-8) Meccanica razionale  
-9) Fisica II  
-L'insegnamento di geometria II potra' essere sostituito:  
-A) con litologia e geologia, quando lo studente dichiari di voler proseguire gli studi per la laurea in ingegneria civile e in una sede ove l'insegnamento della geometria II non sia previsto per tale corso di studi;  
-B) con metodi di osservazione e misura; quando lo studente dichiari di voler proseguire gli studi per la laurea in ingegneria meccanica, elettrotecnica, elettronica, aeronautica, nucleare, e in una sede ove l'insegnamento della geometria II non e' previsto per uno di tali corsi di laurea;  
-C) con mineralogia, quando lo studente dichiari di voler proseguire gli studi per la laurea in ingegneria mineraria e in una sede ove l'insegnamento della geometria II non e previsto per tale corso di laurea.  
-Sono insegnamenti fondamentali aggiunti, quando non siano sostitutivi della geometria II, litologia e' geologia, e mineralogia per gli studenti che intendono proseguire i loro studi per la laurea in ingegneria civile o mineraria.  
-Metodi di osservazione e misura, e litologia e geologia, per gli studenti che intendono proseguire i loro studi in un qualsiasi altro corso di laurea.  
-Lo studente, all'atto della iscrizione al secondo anno, chiedera' alla facolta' la convalida del piano di studi che desidera seguire.  
-La scelta e' impegnativa e non puo' subire variazioni durante l'anno di corso.  
-Gli studenti del primo anno di corso potranno ottenere l'iscrizione al secondo anno di corso qualora abbiano superato almeno due dei quattro esami:  
-analisi matematica I, geometria I, fisica I, chimica.  
-Per avere titolo di ammissione al terzo anno di corso, presso una qualsiasi facolta' di ingegneria, lo studente dovra' aver superato tutti gli esami fondamentali del biennio propedeutico - ivi compreso quello dell'insegnamento che sostituisce la geometria II - fatta eccezione degli insegnamenti aggiunti.  
-I due esami di fisica comprendono la parte riguardante le esercitazioni.  
-Art. 74. - L'esame di chimica deve precedere quelli di mineralogia e di litologia e geologia.  
-Gli esami di analisi matematica I, geometria I, fisica I, devono precedere rispettivamente gli esami di analisi matematica II, geometria II, fisica II. Gli esami di analisi matematica I e di geometria I devono precedere quello di meccanica razionale.  
+Scuola di perfezionamento in Scienze  
+farmaceutiche e biochimica applicata  
+  
+Art. 71. - Alla Facolta' di farmacia e' annessa la "Scuola di perfezionamento in Scienze farmaceutiche e biochimica applicata".  
+  
+Art. 72. - Scopo della Scuola e' perfezionare e completare la preparazione dei laureati in Farmacia, in modo da renderli meglio idonei ad eseguire con sicurezza ricerche di indole chimico-biologica e farmaceutica e capaci di corrispondere alle esigenze professionali dell'industria farmaceutica e dei laboratori di analisi chimico-clinica e chimico-bromatologica.  
+  
+Art. 73. - Alla Scuola possono iscriversi i laureati in Farmacia ed i laureati in Chimica ed in Chimica e farmacia.  
+  
+Art. 74. - La Scuola ha durata biennale. Per l'ammissione alla Scuola i candidati debbono superare un esame generale di cultura farmaceutica. Il numero dei posti, per ciascun anno, e' limitato a dieci. Ove il numero dei candidati idonei superi tale numero, avranno diritto di precedenza i meglio graduati nell'esame di ammissione.  
+  
+Art. 75. - Ai fini del conseguimento del diploma di specializzazione gli iscritti debbono aver frequentato e superato gli esami dei corsi seguenti:  
+  
+1° Anno:  
+Microbiologia, sierologia umana e veterinaria e tecnica immunologica;  
+Microbiologia industriale farmaceutica;  
+Biochimica applicata;  
+Analisi chimico-fisiche;  
+Complementi di farmacologia e farmacologia applicata;  
+Complementi di chimica farmaceutica ed analitica;  
+Preparazioni farmaceutiche.  
+  
+2° Anno:  
+Analisi chimico-cliniche;  
+Analisi chimico-bromatologiche;  
+Chimica farmaceutica industriale;  
+Lavorazione industriale di materiali biologici;  
+Impianti e macchinario farmaceutico;  
+Legislazione ed organizzazione industriale.  
+  
+Art. 76. - La direzione della Scuola sara' alternativamente affidata, un anno al titolare di Chimica farmaceutica e tossicologica e il successivo a quello di Chimica biologica.  
+Il Consiglio della Scuola e' costituito da tutti i docenti che insegnano nella Scuola stessa. Gli incarichi di insegnamento nella Scuola sono conferiti dal rettore su proposta del direttore della Scuola.  
+  
+Art. 77. - Il Consiglio della Scuola disporra' circa i programmi di insegnamento i periodi di internato, le esercitazioni pratiche e quanto altro possa riuscire utile al miglior profitto della Scuola.  
+  
+Art. 78. - A coloro che hanno frequentato la Scuola e superato le prove di esame prescritte verra' rilasciato un diploma di specialista valido a tutti gli effetti di legge.  
+  
+Art. 79. - Le Commissioni per gli esami di profitto e di diploma sono costituite rispettivamente da tre e da cinque membri, nominati dal preside della Facolta'.  
+  
+Art. 80. - L'esame di diploma consiste in un esame di cultura generale nel campo delle Scienze farmaceutiche, completato da prove pratiche a scelta della Commissione, e dalla dissertazione su di una tesi scritta, sperimentale o compilativa, in una delle discipline che sono previste dall'ordinamento didattico della Scuola.  
+  
+Art. 81. - Le tasse di immatricolazione e di iscrizione alla Scuola sono le stesse dovute dagli studenti della Facolta' di farmacia; la misura dei contributi di laboratorio verra' fissata dal Consiglio di amministrazione su proposta del Consiglio della scuola, debitamente approvato dal Senato accademico.  
+Dopo l'art. 111 sono aggiunti i seguenti nuovi articoli relativi alla istituzione dei corsi di perfezionamento in "Ispezione degli alimenti di origine animale" ed in "Ostetricia, ginecologia e fecondazione artificiale degli animali domestici annessi alla Facolta' di Medicina veterinaria".  
+  
+Corso di perfezionamento in ispezione  
+degli alimenti di origine animale  
+  
+Art. 112. - La durata del corso e' di un anno.  
+Le materie d'insegnamento sono:  
+1) Anatomia ed istologia patologica;  
+2) Microbiologia;  
+3) Chimica degli alimenti di origine animale;  
+4) Tecnica della ispezione sanitaria degli alimenti di origine animale e relative ricerche di laboratorio  
+5) Legislazione.  
+  
+Corso di perfezionamento in Ostetricia, ginecologia  
+e fecondazione artificiale degli animali domestici  
+  
+Art. 113. - La durata del corso e' di un anno.  
+Le materie di insegnamento sono:  
+1) Anatomia e fisiologia dell'apparato genitale maschile e femminile;  
+2) Malattie infettive attinenti all'apparato genitale maschile e femminile;  
+3) Anatomia patologica dell'apparato genitale maschile e femminile  
+4) Fisiopatologia della gravidanza e del puerperio;  
+5) Sterilita' della femmina e del maschio;  
+6) Chirurgia ostetrica e ginecologica;  
+7) Tecnica della fecondazione artificiale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 settembre 1968
+### Dato a Roma, addi' 26 luglio 1963
 
-SARAGAT SCAGLIA
+SEGNI GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 18 ottobre 1968
+Registrato alla Corte dei conti, addi' 16 ottobre 1963
 
-Atti del Governo, registro n. 223, foglio n. 39. - GRECO
+Atti del Governo, registro n. 175, foglio n. 23. - VILLA

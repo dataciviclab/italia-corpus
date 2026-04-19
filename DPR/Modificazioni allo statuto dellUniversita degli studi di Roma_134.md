@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 luglio 1975 n. 792
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1971 n. 715
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 luglio 1975 n. 792
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1971 n. 715
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
@@ -10,71 +10,63 @@ Modificazioni allo statuto dell'Universita' degli studi di Roma.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17) per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' degli studi di Roma;   
-Riconosciuta, altresi', l'opportunita' di rettificare il [decreto del Presidente della Repubblica 28 ottobre 1974, n. 662](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-10-28;662), in quanto era stato omesso l'insegnamento di "tecniche di impiego degli elaboratori elettronici" nel corso di specializzazione in "informatica", nonche' la numerazione di tutti gli insegnamenti relativi al suddetto corso;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 58, relativo all'elenco degli insegnamenti complementari del corso di laurea in lettere, e' modificato nel senso che l'insegnamento di ebraico medioevale e moderno muta la denominazione in quella di "lingua e letteratura ebraica".   
-Gli articoli relativi all'ordinamento degli studi della scuola di perfezionamento in storia del diritto medioevale e moderno sono modificati nel modo seguente:   
-Art. 214 - e' modificato nel senso che il secondo comma e' abrogato e sostituito dal seguente:   
-"La scuola ha sede presso l'istituto di storia del diritto italiano della facolta' di giurisprudenza ed e' diretta dal direttore dell'istituto".   
-Art. 215 - e' abrogato e sostituito dal seguente:   
-"Possono essere ammessi alla scuola i laureati in giurisprudenza.   
-Possono essere ammessi alla scuola anche i laureati in lettere, in filosofia, in scienze politiche, in economia e commercio, in materie letterarie, i quali possano dimostrare, all'atto dell'iscrizione, di aver gia' superato almeno tre dei seguenti esami, con un punteggio non inferiore a 27/30:   
-1) storia del diritto italiano;   
-2) istituzioni del diritto romano;   
-3) storia del diritto romano;   
-4) diritto romano;   
-5) diritto comune;   
-6) storia delle istituzioni politiche e sociali;   
-7) storia medioevale e/o moderna.   
-L'ammissione alla scuola di coloro che hanno conseguito titoli di studio non conferiti dalle universita' italiane e' regolata dalle disposizioni generali vigenti in materia".   
-Art. 217 - e' modificato nel senso che il secondo comma e' soppresso.   
-Art. 218 - e' abrogato e sostituito dal seguente:   
-"Il corso si svolge nella forma dei seminari. Alle esercitazioni di seminario sono intercalate delle conferenze su problemi storico-giuridici di particolare importanza. La frequenza e' obbligatoria".   
-Art. 219 - "gli insegnamenti hanno per oggetto i seguenti argomenti:   
-1° Anno:   
-1) metodologia e storia della storiografia giuridica;   
-2) paleografia giuridica e diplomatica;   
-3) storia del pensiero giuridico: metodi e dogmatica; oppure   
-3a) storia del diritto pubblico medioevale.   
-2° Anno:   
-4) filologia giuridica e critica del testo;   
-5) pensiero giuridico e realta' sociale nell'organizzazione dello Stato moderno;   
-6) storia del diritto dalle codificazioni ad oggi".   
-Art. 220 - il primo comma e' abrogato e sostituito dal seguente:   
-"I seminari, affidati a studiosi specializzati, si svolgono nella sede dell'istituto. All'inizio di ciascun anno ne viene comunicato il programma".   
-Art. 221 - e' abrogato e sostituito dal seguente:   
-"Saranno ammessi all'esame di diploma gli iscritti che avranno superato, alla fine di ciascun anno, un colloquio sugli argomenti del corso".   
-Art. 222 - e' modificato nel senso che il secondo comma e' soppresso.   
-Art. 223 - e' abrogato e sostituito dal seguente:   
-"La dissertazione dovra' essere presentata in triplica copia, a stampa o dattiloscritta, entro il 20 novembre del secondo anno di corso; ne sara' relatore il direttore della scuola e correlatori due professori che abbiano tenuto corsi di seminario nella scuola stessa".   
-L'art. 262 (nel nuovo statuto: 270) del [decreto del Presidente della Repubblica 28 ottobre 1974, n. 662](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-10-28;662), relativo all'elenco degli insegnamenti del corso di specializzazione in informatica, e' rettificato nel senso che i suddetti insegnamenti vanno numerati da 1 a 12 e che deve essere incluso anche l'insegnamento di "Tecniche d'impiego degli elaboratori elettronici" e contrassegnato con il numero 3.   
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che dopo l'articolo 624 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti articoli relativi alla istituzione della scuola di specializzazione in medicina dello sport.  
+  
+Scuola di specializzazione in medicina dello sport  
+  
+Art. 625. - Il corso ha la durata di tre anni.  
+Il numero degli iscritti da ammettere alla scuola, e' stabilito in trenta per ogni anno di corso.  
+La frequenza e' obbligatoria per tutta la durata del corso.  
+Art. 626. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+Anatomia dell'apparato locomotore;  
+Biomeccanica applicata all'esercizio fisico;  
+Biochimica generale e applicata;  
+Antropometria e auxologia;  
+Storia, sistematica e tecnologia degli sport;  
+Istituzioni di psicologia generale e psicologia applicata agli sport;  
+Istituzioni di scienza della nutrizione e dietetica applicata all'attivita' sportiva.  
+2° Anno:  
+Anatomia degli apparati circolatorio, respiratorio e nervoso;  
+Fisiologia delle ossa, delle articolazioni e dei muscoli;  
+Biochimica ed energetica muscolare;  
+Valutazione funzionale dello sportivo e tecnica fisiologica;  
+Biofisica del muscolo (facoltativo);  
+Fisioterapia e rieducazione funzionale (facoltativo);  
+Farmacologia applicata all'attivita' sportiva (doping) - (facoltativo);  
+Igiene e medicina preventiva applicate all'attivita' sportiva (facoltativo).  
+3° Anno:  
+Fisiologia del sistema nervoso motorio, della respirazione e della circolazione;  
+Educazione fisica e tecnica dell'allenamento sportivo;  
+Chirurgia d'urgenza, rianimazione e pronto soccorso;  
+Medicina legale ed infortunistica;  
+Traumatologia ed ortopedia dello sport;  
+Fisiopatologia degli sport (facoltativo);  
+Assistenza medico-sportiva nei grandi agglomerati urbani (facoltativo).  
   
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 luglio 1975
+### Dato a Roma, addi' 12 luglio 1971
 
-LEONE MALFATTI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 16 gennaio 1976
+Registrato alla Corte dei conti, addi' 30 agosto 1971
 
-Atti di Governo, registro n. 1, foglio n. 38 --------------- Nota redazionale Il testo del presente articolo e' gia' integrato con le correzioni
-
-apportate dall'errata-corrige pubblicato in G.U. 05/02/1976, n. 32 durante il periodo di "vacatio legis". E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
+Atti del Governo, registro n. 244, foglio n. 39. - PASQUALUCCI

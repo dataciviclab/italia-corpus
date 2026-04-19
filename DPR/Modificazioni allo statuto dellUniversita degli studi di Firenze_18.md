@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1970 n. 659
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 novembre 1956 n. 1537
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1970 n. 659
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 novembre 1956 n. 1537
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -12,11 +12,12 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con regio, decreto 14 ottobre 1926, n. 2406 e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, numero 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regi decreti 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2230); [30 ottobre 1930, n. 1826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1826); [1 ottobre 1931, numero 1441](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-01;1441); [6 dicembre 1934, n. 2449](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-06;2449); [1 ottobre 1936, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2475); [27 ottobre 1937, n. 2620](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1937-10-27;2620); [5 maggio 1939, n. 1165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-05-05;1165); [12 ottobre 1939, n. 1712](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-10-12;1712); [26 ottobre 1940, n. 2057](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2057); [27 aprile 1942, n. 467](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-04-27;467); [24 ottobre 1942, n. 1439 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1439) [11 giugno 1950, n. 616](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;616); [30 ottobre 1950, n. 1127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1127); [30 ottobre 1950, numero 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1304); [30 giugno 1951, n. 957](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-30;957); [27 ottobre 1951, n. 1681](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1681); [23 gennaio 1952, n. 168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;168); [26 ottobre 1952, n. 4543](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4543); [26 ottobre 1952, n. 4557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4557); [10 febbraio 1953, n. 376](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;376); [30 luglio 1953, n. 710](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;710); [2 marzo 1954, n. 183](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-02;183); [14 settembre 1954, n. 1202](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1202); [22 gennaio 1955, n. 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-01-22;69); [16 febbraio 1955, n. 120](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-16;120); [19 luglio 1955, n. 761](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-19;761); [27 luglio 1955, n. 804](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-27;804); [31 agosto 1955, n. 936](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-08-31;936); [20 settembre 1955, n. 941](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-20;941) e [5 settembre 1956, n. 1138](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-09-05;1138);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella, [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -24,91 +25,20 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 242, relativo all'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Radiologia medica e radioterapia" muta denominazione in quella di "Radiologia".  
-L'art. 249, relativo alla scuola di specializzazione in radiologia medica e radioterapia e' abrogato e sostituito dal seguente:  
-  
-VII Scuola di specializzazione in radiologia  
-  
-Art. 249. - Presso l'istituto di radiologia e' istituita la scuola di specializzazione in radiologia che conferisce due diplomi:  
-a) diploma di specialista in radiologia che abilita all'esercizio specialistico della roentgendiagnostica, della radioterapia e della medicina nucleare.  
-Gli anni di studio necessari per conseguire questo titolo sono quattro.  
-b) diploma di specialista in radiologia diagnostica che abilita all'esercizio specialistico della roentgendiagnostica.  
-Gli anni di studio necessari per conseguire questo titolo sono tre.  
-Alla scuola possono essere iscritti solo i laureati in medicina e chirurgia. Il numero massimo degli iscritti e' stabilito in dieci per ciascun anno di corso.  
-  
-A) Diploma di specialista in radiologia: durata anni 4.  
-  
-PROGRAMMA DI INSEGNAMENTO  
-  
-1° Anno:  
-1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;  
-2) Nozioni sugli apparecchi ed istrumenti della radiologia;  
-3) Anatomia radiologica normale;  
-4) Fisiologia radiologica;  
-5) Tecnica radiologica generale;  
-6) Semeiotica radiologica generale;  
-7) Fondamenti di radiobiologia;  
-8) Nozioni di statistica e matematica.  
-2° Anno:  
-1) Tecnica e metodica dell'esame radiologico dei vari organi, apparati e sistemi;  
-2) Semeiotica radiologica speciale e diagnosi differenziale;  
-3) Fondamenti di radioterapia;  
-4) Danni da radiazioni e mezzi di protezione;  
-5) Dimostrazioni cliniche di diagnostica radiologica;  
-6) Dimostrazioni cliniche di radioterapia.  
-3° Anno:  
-1) Diagnostica radiologica differenziale;  
-2) Dimostrazioni di casistica di roentgendiagnostica con confronto del quadro anatomo-patologico;  
-3) Dimostrazioni di casistica di roentgenterapia con particolare riferimento all'anatomia patologica;  
-4) Radioterapia tradizionale. Curieterapia;  
-5) Radioterapia con alte energie;  
-6) Elementi di medicina nucleare;  
-7) Instrumentario, tecnica e metodica di applicazione;  
-8) Dosimetria.  
-4° Anno:  
-1) Moderne tecniche di esplorazione e terapia radiologica;  
-2) Diagnostica e terapia con isotopi radioattivi somministrati per via interna;  
-3) Radiodiagnostica e radioterapia clinica (casistica);  
-4) Medicina legale e legislazione sanitaria in relazione alla radiologia.  
-I corsi saranno integrati da conferenze, esercitazioni e seminari.  
-E' obbligatorio l'internato.  
-  
-B) Diploma di specializzazione in radiologia diagnostica: durata anni 3.  
-  
-PROGRAMMA DI INSEGNAMENTO  
-  
-1° Anno:  
-1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;  
-2) Nozioni sugli apparecchi ed istrumenti della radiologia;  
-3) Anatomia radiologica normale;  
-4) Fisiologia radiologica;  
-5) Tecnica radiologica generale;  
-6) Semeiotica radiologica generale;  
-7) Fondamenti di radiobiologia;  
-8) Nozioni di statistica e matematica.  
-2° Anno:  
-1) Metodica di esplorazione dei vari organi ed apparati;  
-2) Semeiotica radiologica speciale e diagnosi differenziale;  
-3) Nozioni generali sulle lesioni da radiazioni e mezzi di protezione;  
-4) Moderne tecniche di esplorazione radiologica.  
-3° Anno:  
-1) Esplorazione radiologica nella patologia dei vari organi ed apparati. Diagnostica differenziale. Rapporti con l'anatomia patologica;  
-2) Radiodiagnostica clinica;  
-3) Medicina legale e legislazione sanitaria in relazione alla radiologia.  
-I corsi saranno integrati da conferenze, esercitazioni e seminari.  
-E' obbligatorio l'internato.  
+Art. 59. - Agli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto quello di "Letterature moderne comparate".  
+Art. 60. - Agli insegnamenti complementari del corso di laurea in pedagogia e' aggiunto quello di "Letterature moderne comparate".  
+Art. 61. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto quello di "Letterature moderne comparate".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 luglio 1970
+### Dato a Roma, addi' 21 novembre 1956
 
-SARAGAT MISASI
+GRONCHI ROSSI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MORO
 
-Registrato alla Corte dei conti, addi' 7 settembre 1970
+Registrato alla Corte dei conti, addi' 21 gennaio 1957
 
-Atti del Governo, registro n. 237, foglio n. 78. - CARUSO
+Atti del Governo, registro n. 103, foglio n. 48. - CARLOMAGNO

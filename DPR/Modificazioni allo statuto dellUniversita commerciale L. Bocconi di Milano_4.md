@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 dicembre 1957 n. 1431
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1982 n. 1113
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 dicembre 1957 n. 1431
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1982 n. 1113
+===============================================================
 
 Modificazioni allo statuto dell'Universita' commerciale "L. Bocconi" di Milano.
 -------------------------------------------------------------------------------
@@ -10,54 +10,53 @@ Modificazioni allo statuto dell'Universita' commerciale "L. Bocconi" di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto della libera Universita' commerciale "L. Bocconi" di Milano, approvato con [regio decreto 8 marzo 1925, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-08;547), modificato con il [regio decreto 2 dicembre 1928, n. 3108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-02;3108) e successivi, e modificato con [decreto del Capo provvisorio dello Stato 27 luglio 1947, n. 1226](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-07-27;1226) e con [decreti del Presidente della Repubblica 14 dicembre 1956, n. 1607](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-12-14;1607) e [8 marzo 1957, n. 528](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-03-08;528);
+Veduto lo statuto dell'Universita' commerciale "L. Bocconi" di Milano, approvato con [regio decreto 8 marzo 1925, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-08;547), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [decreto del Presidente della Repubblica in data 9 novembre 1955, n. 1395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-11-09;1395);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Sulla
------
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-proposta del Ministro per la pubblica istruzione; Decreta:
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' commerciale "L. Bocconi" di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione, di concerto con il Ministro del tesoro;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' commerciale "L. Bocconi" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
+Art. 7 - i commi secondo e terzo, concernenti rispettivamente l'organico dei professori ordinari e straordinari e l'organico dei professori associati, sono soppressi e sostituiti come segue:  
   
-Salvo il disposto della norma transitoria, contenuta nel presente decreto, l'art. 4 dello statuto dell'Universita' "L. Bocconi" di Milano e' cosi' modificato:   
-Art. 4. - Il Consiglio di amministrazione ha il governo amministrativo e la gestione economica e patrimoniale dell'Universita' ed e' costituito da 19 membri.   
-Esso si compone:   
-di persona designata dal Consiglio dell'associazione "Amici della Bocconi" (riconosciuta con [decreto Presidenziale 9 novembre 1955, n. 1395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-11-09;1395)) per le funzioni di presidente; del rettore pro tempore; di un rappresentante del Ministero della pubblica istruzione; di uno del Ministero dell'industria e commercio; di uno della provincia di Milano; di uno del comune di Milano: di uno della Cassa di risparmio delle province lombarde; di tre della Camera di commercio e industria di Milano; di nove membri designati dal Consiglio di amministrazione dell'associazione "Amici della Bocconi" avendo cura che almeno due di essi siano scelti tra i laureati dell'Universita'.   
-Tutti i consiglieri - compreso il presidente - rimangono in carica quattro anni e possono essere confermati; il rettore rimane in carica per la durata del suo mandato.   
-I membri del Consiglio eletti in sostituzione di altri rimangono in carica, per il tempo per il quale sarebbero rimasti i loro predecessori.   
-Il presidente, il rettore e il rappresentante del Ministero della pubblica istruzione sono componenti di diritto del Consiglio.   
-Dell'Ufficio di presidenza fanno parte oltre al presidente anche il vice presidente e il consigliere delegato che sono eletti dal Consiglio nel suo seno e che rimangono in carica quattro anni e sono rieleggibili.   
-Il Consiglio elegge il segretario che puo' essere scelto anche fra estranei.   
-Il presidente del Consiglio di amministrazione ha la rappresentanza giuridica dell'Universita' sia di fronte ai terzi che in giudizio; il vice presidente sostituisce in tale rappresentanza il presidente con gli stessi poteri e con le stesse facolta' in ogni caso di suo impedimento.   
-In seno al Consiglio di amministrazione e' costituito un Comitato esecutivo di cinque membri per l'esame e la risoluzione delle questioni ad esso delegate e in genere per la trattazione di questioni urgenti e per i provvedimenti relativi. Del Comitato esecutivo fanno parte il presidente, il vice presidente, il consigliere delegato, il rettore, il rappresentante del Ministero della pubblica istruzione: qualora a quest'ultimo sia stata conferita la carica di vice presidente, verra' chiamato a far parte del Comitato esecutivo altro componente del Consiglio.   
+Il ruolo organico dei professori della prima fascia e' costituita da trentasette posti.  
+Il ruolo organico dei professori della seconda fascia e' costituito da cinquanta posti.  
+Art. 11 - il comma primo, concernente l'organico dei ricercatori universitari e' soppresso e sostituito come segue:  
   
-Norma transitoria.   
-  
-Rimane in carica a vita nelle funzioni di presidente del Consiglio di amministrazione donna Javotte Bocconi Manca di Villahermosa oppure persona dalla stessa designata: a donna Javotte Bocconi rimane pure riservata a vita la nomina dei nove membri di cui all'ultima parte del secondo capoverso del suindicato art. 4 dello statuto.   
+Il ruolo organico dei ricercatori universitari e' costituito da cinquanta posti.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 dicembre 1957
+### Dato a Roma, addi' 30 ottobre 1982
 
-GRONCHI MORO
+PERTINI BODRATO
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 21 marzo 1958
+Registrato alla Corte dei conti, addi' 17 febbraio 1983
 
-Atti del Governo, registro n. 111, foglio n. 157. - RELLEVA
+Registro n. 12 Istruzione, foglio n. 170

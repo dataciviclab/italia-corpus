@@ -1,249 +1,106 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1970 n. 914
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1953 n. 376
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1970 n. 914
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1953 n. 376
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla
------
-
-proposta del Ministro per la pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Presso l'Universita' degli studi di Firenze e' istituita la facolta' di ingegneria con i corsi di laurea in ingegneria chimica, in ingegneria meccanica, in ingegneria elettronica e in ingegneria civile (sezioni edile, idraulica e trasporti).  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, numero 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), modificato con i [regi decreti 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2230); [30 ottobre 1930, n. 1826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1826); [1 ottobre 1931, numero 1441](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-01;1441); [6 dicembre 1934, n. 2449](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-06;2449); [1 ottobre 1936, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2475); [27 ottobre 1937, n. 2620](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1937-10-27;2620); [5 maggio 1939, numero 1165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-05-05;1165); [12 ottobre 1939, n. 1712](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-10-12;1712); [26 ottobre 1940, n. 2057](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2057); [27 aprile 1942, n. 467](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-04-27;467); [24 ottobre 1942, n. 1439 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1439) [11 giugno 1950, n. 616](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;616); [30 ottobre 1950, n. 1127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1127); [30 ottobre 1950, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1304); [30 giugno 1951, n. 957](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-30;957); [27 ottobre 1951, n. 1681](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1681) e [23 gennaio 1952, n. 168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;168);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Per tale facolta' sono assegnati i seguenti posti di ruolo:  
-a) cinque posti di professore, prelevati sul contingente di cui all'[art. 1 della legge 24 febbraio 1967, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-24;62~art1) (aliquota 1970-71);  
-b) otto posti di assistente, prelevati sul contingente di cui all'art. 18, secondo comma, della suddetta legge n. 62 (aliquota 1970-71).  
-
-Art. 3
-------
-
+Decreta:  
   
-Le attribuzioni, demandate dalle vigenti disposizioni di legge di regolamento al consiglio di facolta', vengono esercitate da un apposito comitato composto di tre professori di ruolo o fuori ruolo, nominati dal Ministro per la pubblica istruzione.  
-I professori di ruolo che in base alle vigenti disposizioni verranno a far parte della predetta facolta', saranno aggregati al comitato anzidetto. Tale comitato cessera' dalle sue funzioni allorche' alla facolta' stessa risulteranno assegnati tre professori di ruolo.  
-In ogni caso detto comitato non potra' rimanere in carica oltre un triennio e, qualora allo scadere del triennio medesimo, non risultino assegnati alla facolta' tre professori di ruolo, il Ministro per la pubblica istruzione provvedera' alla nomina di un nuovo comitato con le stesse modalita' indicate nel primo comma del presente articolo.  
-
-Art. 4
-------
-
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Lo statuto dell'Universita' di Firenze, approvato e modificato con i decreti suindicati e' ulteriormente modificato come dal testo annesso al presente decreto, vistato dal Ministro per la pubblica istruzione, contenente le norme relative all'ordinamento del triennio di applicazione dei corsi di laurea in ingegneria.  
-Il biennio propedeutico all'ingegneria, esistente presso la facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Firenze passa a far parte integrante della facolta' di ingegneria, istituita con il presente decreto.  
+Attuale art. 73, comma primo, dopo le parole: "in scienze naturali" sono aggiunte le seguenti: "in scienze biologiche e in scienze geologiche".  
+Dopo l'attuale art. 83 sono aggiunti i seguenti nuovi articoli relativi alla creazione dei corsi di laurea in scienze biologiche e in scienze geologiche con lo spostamento della numerazione degli articoli successivi.  
+Art. 84. - La durata del corso degli studi per la laurea in scienze biologiche e' di quattro anni.  
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.  
+Sono insegnamenti fondamentali:  
+1. Istituzioni di matematiche;  
+2. Fisica;  
+3. Chimica generale ed inorganica;  
+4. Chimica organica;  
+5. Botanica (biennale);  
+6. Zoologia (biennale);  
+7. Anatomia comparata;  
+8. Anatomia umana;  
+9. Istologia, ed embriologia;  
+10. Fisiologia generale (biennale);  
+11. Chimica biologica;  
+12. Igiene.  
+Sono insegnamenti complementari:  
+1. Chimica fisica;  
+2. Biologia generale;  
+3. Antropologia;  
+4. Genetica;  
+5. Patologia generale;  
+6. Microbiologia;  
+7. Entomologia agraria;  
+8. Fisiologia vegetale;  
+9. Patologia vegetale;  
+10. Geologia;  
+11. Paleontologia;  
+12. Statistica.  
+Gli insegnamenti biennali di "botanica" e di "zoologia" comprendono tanto la parte generale quanto quella sistematica.  
+Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in quattro almeno da lui scelti fra i complementari.  
+Art. 85. - Lo studente non puo' presentarsi all'esame di anatomia comparata se non ha superato l'esame di anatomia umana; all'esame di botanica se non ha superato gli esami di chimica generale ed inorganica e di fisica; all'esame di paleontologia se non ha superato gli esami di botanica e di zoologia; all'esame di statistica se non ha superato l'esame di istituzioni di matematiche. Al termine della prima meta' di ciascun corso annuale di botanica e di zoologia, e del corso di anatomia comparata, lo studente dovra' superare una prova pratica scritta.  
+Art. 86. - La durata del corso degli studi per la laurea in scienze geologiche e' di quattro anni.  
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.  
+Sono insegnamenti fondamentali:  
+1. Istituzioni di matematiche;  
+2. Fisica sperimentale (biennale);  
+3. Chimica generale ed inorganica con elementi di organica 4.  
+Mineralogia;  
+5. Geologia;  
+6. Geologia applicata;  
+7. Paleontologia;  
+8. Geografia;  
+9. Geografia fisica;  
+10. Topografia, e cartografia;  
+11. Fisica terrestre;  
+12. Petrografia.  
+Sono insegnamenti complementari:  
+1. Chimica fisica;  
+2. Geochimica;  
+3. Astronomia;  
+4. Zoologia;  
+5. Botanica;  
+6. Analisi matematica (algebrica ed infinitesimale) (biennale);  
+7. Meccanica razionale con elementi di staticagrafica e disegno;  
+8. Statistica.  
+Per l'insegnamento di analisi matematica, lo studente dovra' sostenere due esami distinti.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in almeno quattro da lui scelti fra i complementari.  
+Gli insegna menti geologici saranno accompagnati da una sistematica applicazione sul terreno.  
+Art. 87. - Lo studente non puo' presentarsi all'esame di mineralogia se non ha superato l'esame di chimica generale ed inorganica; all'esame di geologia se non ha superato l'esame di mineralogia; all'esame di geologia applicata se non ha superato l'esame di geologia.  
+Al termine della prima meta' dei corsi di geologia e di paleontologia lo studente dovra' superare una prova pratica scritta.  
+All'attuale art. 89 e' aggiunto quanto appresso:  
+"il candidato alla laurea in scienze biologiche deve sostenere una prova, pratica di cultura generale;  
+il candidato alla laurea in scienze geologiche devo sostenere una prova pratica di cultura generale".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 settembre 1970
+### Dato a Roma, addi' 10 febbraio 1953
 
-SARAGAT MISASI
+EINAUDI SEGNI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: ZOLI
 
-Registrato alla Corte dei conti, addi' 27 novembre 1970
+Registrato alla Corte dei conti, addi' 15 maggio 1953
 
-Atti del Governo, registro n. 238, foglio n. 137. - CARUSO
-
-Allegato
-
-Testo delle modifiche allo statuto dell'Universita' di Firenze relativo all'istituzione della facolta' di ingegneria   
-  
-Art. 1. - E' modificato nel senso che all'elenco delle facolta' che   
-comprende l'Universita' di Firenze e' aggiunta la seguente: "Facolta' di ingegneria".   
-L'articolo relativo al biennio propedeutico agli studi in   
-ingegneria esistente presso la facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Firenze che passa a far parte integrante della facolta' di ingegneria, assume una nuova numerazione contraddistinta con il n. 104.   
-Dopo il n. 104 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli, relativi all'istituzione del triennio di applicazione dei corsi di laurea in ingegneria chimica, in ingegneria meccanica, in ingegneria elettronica ed in ingegneria civile (sezioni edile, idraulica e trasporti).   
-Art. 105. - Gli insegnamenti del triennio di applicazione (3°, 4° e   
-5° anno) in ingegneria chimica sono i seguenti:   
-a) Insegnamenti obbligatori su piano nazionale:   
-1) Scienza delle costruzioni;   
-2) Meccanica applicata alle macchine;   
-3) Fisica tecnica;   
-4) Elettrotecnica;   
-5) Chimica fisica;   
-6) Chimica applicata;   
-7) Macchine;   
-8) Principi di ingegneria chimica;   
-9) Chimica industriale;   
-10) Impianti chimici.   
-b) Insegnamenti obbligatori comuni agli indirizzi proposti su   
-piano locale:   
-1) Teoria e sviluppo dei processi chimici;   
-2) Chimica industriale II;   
-3) Complementi di ingegneria chimica;   
-4) Chimica fisica tecnica;   
-5) Automazione e servomeccanismi;   
-6) Economia e organizzazione aziendale.   
-c) Insegnamenti caratterizzanti i singoli indirizzi:   
-Gruppo A (organico-industriale): Tessile   
-1) Tecnologia delle fibre tessili;   
-2) Chimica macromolecolare e tecnologia degli alti polimeri;   
-3) Tecnologie tintorie;   
-4) Chimica delle sostanze coloranti.   
-Gruppo B (inorganico-industriale): Vetro-ceramica   
-1) Complementi di chimica fisica;   
-2) Chimica e tecnologia del vetro;   
-3) Chimica e tecnologia dei prodotti ceramici;   
-4) Tecnologia dei materiali sintetizzati.   
-Gruppo C (metallurgica speciale)   
-1) Elettrochimica;   
-2) Tecnologie speciali metallurgiche;   
-3) Scienze dei metalli;   
-4) Chimica fisica dello stato solido e delle superfici.   
-Art. 106. - Gli insegnamenti del triennio di applicazione (3°, 4° e   
-5° anno) in ingegneria meccanica sono i seguenti:   
-a) Insegnamenti obbligatori su piano nazionale:   
-1) Scienza delle costruzioni;   
-2) Meccanica applicata alle macchine;   
-3) Fisica tecnica;   
-4) Elettrotecnica;   
-5) Idraulica;   
-6) Chimica applicata;   
-7) Macchine;   
-8) Costruzioni di macchine;   
-9) Impianti meccanici;   
-10) Tecnologia meccanica.   
-b) Insegnamenti obbligatori comuni agli indirizzi su piano   
-locale:   
-1) Complementi di macchine;   
-2) Costruzioni di macchine II;   
-3) Progetti di macchine;   
-4) Macchine utensili;   
-5) Controlli e servomeccanismi;   
-6) Economia e organizzazione aziendale.   
-c) Insegnamenti caratterizzanti i singoli indirizzi:   
-Gruppo A - Meccanica di precisione   
-1) Meccanica cinematica;   
-2) Ottica;   
-3) Misure di precisione;   
-4) Trattamenti termici.   
-Gruppo B - Meccanica tessile   
-1) Tecnologie tessili;   
-2) Macchine tessili;   
-3) Impiantistica dell'industria tessile;   
-4) Progetti di macchine II.   
-Art. 107. - Gli insegnamenti del triennio di applicazione (3°, 4° e   
-5° anno) in ingegneria elettronica sono i seguenti:   
-a) Insegnamenti comuni su piano nazionale:   
-1) Scienze delle costruzioni;   
-2) Meccanica delle macchine e macchine;   
-3) Fisica tecnica;   
-4) Elettrotecnica;   
-5) Campi elettromagnetici e circuiti;   
-6) Misure elettriche;   
-7) Comunicazioni elettriche;   
-8) Elettronica applicata;   
-9) Controlli automatici;   
-10) Radiotecnica.   
-b) Insegnamenti obbligatori - comuni agli indirizzi - su piano   
-locale:   
-1) Elettronica generale;   
-2) Teoria dell'informazione;   
-3) Tecnologie elettroniche;   
-4) Teoria delle reti elettriche;   
-5) Misure elettroniche;   
-6) Teorie dei sistemi.   
-c) Insegnamenti caratterizzanti i singoli indirizzi:   
-Gruppo A - Telecomunicazioni e comunicazioni   
-1) Teoria dei sistemi di comunicazione;   
-2) Comunicazioni spaziali;   
-3) Ponti radio;   
-4) Elettronica spaziale.   
-Gruppo B - Elaborazione dell'informazione   
-1) Teoria del rumore e dei fenomeni causali;   
-2) Teoria dei codici;   
-3) Logica dei circuiti;   
-4) Sistemi per elaborazione dell'informazione.   
-Gruppo C - Radiolocalizzazione   
-1) Teoria e tecnica;   
-2) Teoria e tecnica delle microonde;   
-3) Metodi elettronici della geodesia;   
-4) Radioaiuti alla navigazione.   
-Art. 108. - Gli insegnamenti del triennio di applicazione (3°, 4° e   
-5° anno) in ingegneria civile sono i seguenti:   
-a) Insegnamenti comuni su piano nazionale:   
-1) Scienza delle costruzioni;   
-2) Meccanica applicata alle macchine e macchine;   
-3) Fisica tecnica;   
-4) Elettrotecnica;   
-5) Idraulica;   
-6) Tecnologie dei materiali e chimica applicata;   
-7) Tecnica delle costruzioni;   
-8) Architettura tecnica;   
-9) Topografia;   
-per edili:   
-10) Architettura e composizione architettonica;   
-per idraulici:   
-10) Costruzioni idrauliche;   
-per trasporti:   
-10) Costruzioni di strade, ferrovie ed aeroporti.   
-b) Insegnamenti obbligatori su piano locale, comuni a tutte le   
-sezioni:   
-1) Complementi di scienza delle costruzioni;   
-2) Materie giuridiche;   
-3) Geologia applicata;   
-4) Architettura ed urbanistica tecniche;   
-5) Principi di economia ed estimo;   
-per edili:   
-6) Architettura e composizione urbanistica;   
-per idraulici:   
-6) Impianti idraulici;   
-per trasporti:   
-6) Progetti di costruzioni stradali e ferroviarie.   
-c) Insegnamenti caratterizzanti le singole sezioni:   
-per edili:   
-1) Tecnica urbanistica;   
-2) Costruzioni edili;   
-3) Progetti di strutture;   
-4) Complementi di tecnica delle costruzioni;   
-per idraulici:   
-1) Impianti speciali per idraulici;   
-2) Geotecnica;   
-3) Complementi di idraulica;   
-4) Acquedotti e fognature;   
-per trasporti:   
-1) Costruzioni di ponti;   
-2) Tecnica ed economia dei trasporti;   
-3) Macchine ed organizzazione dei cantieri;   
-4) Legislazione del lavoro ed opere pubbliche.   
-Art. 109. - Per essere ammesso all'esame di laurea lo studente deve   
-aver seguito i corsi e superati gli esami di tutti gli insegnamenti prescritti per il corso di laurea prescelto. Lo studente deve svolgere per la laurea un elaborato consistente nello sviluppo di un progetto specifico, attinente alle materie in cui egli intende laurearsi, sotto il controllo di insegnanti di tali materie e con le modalita' stabilite dal consiglio di facolta'.   
-Tale elaborato potra' essere sostituito da una tesi di carattere   
-teorico sperimentale o monografico da svolgersi sotto la guida di uno o piu' relatori.   
-Art. 110. - L'esame di laurea consiste nella discussione   
-dell'elaborato o della tesi, estesa in modo da accertare le cognizioni del candidato nelle materie fondamentali ed in modo particolare in quelle attinenti alla laurea da lui scelta.   
-  
-Visto, d'ordine del Presidente della Repubblica   
-  
-Il Ministro per la pubblica istruzione   
-MISASI   
+Atti del Governo, registro n. 76, foglio n. 100. - PALLA

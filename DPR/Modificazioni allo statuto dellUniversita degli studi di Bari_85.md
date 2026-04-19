@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1118
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 agosto 1971 n. 926
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1118
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 agosto 1971 n. 926
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Bari approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,45 +18,310 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso;
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+L'art. 174, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la "Scuola di specializzazione in chirurgia generale" muta la denominazione in quella di "Scuola di specializzazione in chirurgia".
+
+L'art. 187, relativo alla "Scuola di specializzazione in chirurgia generale" che assume la denominazione di "Scuola di specializzazione in chirurgia" e' abrogato e sostituito dal seguente:
+
+Scuola di specializzazione in chirurgia
+
+Art. 187. - La scuola di specializzazione in chirurgia conferisce il diploma di specialista in chirurgia.
+
+Gli anni necessari per il conseguimento del diploma sono cinque.
+
+Le materie del corso sono le seguenti:
+
+1) Anatomia chirurgica e corso di operazioni (triennale);
+
+2) Anatomia ed istologia patologica (biennale);
+
+3) Anestesia e rianimazione;
+
+4) Chirurgia cardiovascolare;
+
+5) Chirurgia d'urgenza;
+
+6) Chirurgia ginecologica;
+
+7) Chirurgia pediatrica;
+
+8) Chirurgia riparativa e plastica;
+
+9) Chirurgia sperimentale;
+
+10) Chirurgia toracica;
+
+11) Chirurgia urologica;
+
+12) Clinica chirurgica generale (quinquennale);
+
+13) Fisiopatologia chirurgica;
+
+14) Medicina legale;
+
+15) Neurochirurgia;
+
+16) Patologia speciale chirurgica (triennale);
+
+17) Radiologia;
+
+18) Ricerche di laboratorio;
+
+19) Semeiotica chirurgica (biennale);
+
+20) Semeiotica strumentale ed endoscopica;
+
+21) Trattamento pre e post-operatorio;
+
+22) Traumatologia ed ortopedia.
+
+Le materie sopraelencate sono cosi' distribuite:
+
+1° Anno:
+
+Clinica chirurgica generale;
+
+Patologia speciale chirurgica;
+
+Semeiotica chirurgica;
+
+Anatomia chirurgica e corso di operazioni;
+
+Chirurgia sperimentale;
+
+Anestesia e rianimazione;
+
+Ricerche di laboratorio.
+
+2° Anno:
+
+Clinica chirurgica generale;
+
+Patologia speciale chirurgica;
+
+Semeiotica chirurgica;
+
+Anatomia chirurgica e corso di operazioni;
+
+Fisiopatologia chirurgica;
+
+Trattamento pre e post-operatorio;
+
+Anatomia e istologia patologica.
+
+3° Anno:
+
+Clinica chirurgica generale;
+
+Patologia speciale chirurgica;
+
+Semeiotica Strumentale ed endoscopica;
+
+Anatomia chirurgica e corso di operazioni;
+
+Radiologia;
+
+Anatomia e istologia patologica.
+
+4° Anno:
+
+Clinica chirurgica generale;
+
+Chirurgia ginecologica;
+
+Chirurgia urologica;
+
+Neurochirurgia;
+
+Traumatologia e ortopedia;
+
+Chirurgia pediatrica.
+
+5° Anno:
+
+Clinica chirurgica generale;
+
+Chirurgia toracica;
+
+Chirurgia cardiovascolare;
+
+Chirurgia riparativa e plastica;
+
+Chirurgia d'urgenza;
+
+Medicina legale.
+
+I corsi dovranno essere corredati da esercitazioni pratiche.
+
+La scuola puo' accogliere complessivamente trentacinque allievi.
+
+La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base di titoli ed esami.
+
+Non sono consentite iscrizioni con abbreviazioni di corso.
+
+La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.
+
+L'internato e' obbligatorio durante i 5 anni di corso e si svolgera' presso la clinica chirurgica sotto forma di permanenza costante nella detta clinica durante le ore della sua attivita', con presenza giornaliera agli ambulatori ed ai reparti di degenza.
+
+Dall'obbligo di tale internato saranno esentati quegli allievi che, in qualita' di assistenti ed aiuti, prestino effettivamente servizio presso reparti di chirurgia generale delle universita' e di ospedali di prima e di seconda categoria.
+
+Gli allievi hanno doveri ed attribuzioni analoghi a quelli degli assistenti.
+
+La frequenza nelle sale operatorie iniziera' fin dal primo anno di corso, e dopo un periodo di tirocinio, dovra' trasformarsi in compartecipazione attiva agli interventi operatori.
+
+Per i corsi che non siano della clinica chirurgica generale, possono essere stabiliti, su parere del direttore della scuola, periodi di continuativa frequenza presso i relativi reparti indipendenti.
+
+Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno. L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.
+
+Alla fine del corso l'allievo; inoltre, dovra' sostenere un esame generale di profitto, che consistera' nella discussione di una dissertazione scritta su un terna assegnato dal direttore della scuola.
+
+L'art. 219, relativo alla scuola di specializzazione in anestesiologia e rianimazione e' abrogato e sostituito dal seguente:
+
+Art. 219. - La scuola si propone di far perfezionare gli aspiranti allo studio ed alla pratica dell'anestesiologia e della rianimazione.
+
+La scuola e' sotto la direzione del titolare della cattedra di anestesiologia e rianimazione, e, per le esercitazioni pratiche, dispone dei reparti clinici e dei laboratori compresi nel servizio di anestesiologia e rianimazione del policlinico.
+
+Il direttore della scuola puo' nominare un vicedirettore, che lo coadiuvi e lo sostituisca, ed un segretario.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 28 agosto 1971
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: COLOMBO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 12 novembre 1971 Atti del Governo, registro n. 245, foglio n. 20. - CARUSO
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Nel secondo comma dell'art. 275, relativo alla scuola di preparazione per tecnici di audiometria (scuola diretta ai fini speciali), la frase: "La commissione per gli esami di diploma e' costituita dal direttore della scuola stessa, e da altri docenti", e' soppressa e sostituita dalla seguente: "La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro insegnanti della scuola stessa o da altri docenti".  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Nel primo comma dell'art. 287, relativo alla scuola di preparazione per tecnici di logopedia (scuola diretta ai fini speciali), la frase: "La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro insegnanti della scuola stessa e da altri docenti", e' soppressa e sostituita dalla seguente: "La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro insegnanti della scuola stessa o da altri docenti".  
+Decreta:   
+  
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+  
+L'art. 174, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la "Scuola di specializzazione in chirurgia generale" muta la denominazione in quella di "Scuola di specializzazione in chirurgia".   
+L'art. 187, relativo alla "Scuola di specializzazione in chirurgia generale" che assume la denominazione di "Scuola di specializzazione in chirurgia" e' abrogato e sostituito dal seguente:   
+  
+Scuola di specializzazione in chirurgia   
+  
+Art. 187. - La scuola di specializzazione in chirurgia conferisce il diploma di specialista in chirurgia.   
+Gli anni necessari per il conseguimento del diploma sono cinque.   
+Le materie del corso sono le seguenti:   
+1) Anatomia chirurgica e corso di operazioni (triennale);   
+2) Anatomia ed istologia patologica (biennale);   
+3) Anestesia e rianimazione;   
+4) Chirurgia cardiovascolare;   
+5) Chirurgia d'urgenza;   
+6) Chirurgia ginecologica;   
+7) Chirurgia pediatrica;   
+8) Chirurgia riparativa e plastica;   
+9) Chirurgia sperimentale;   
+10) Chirurgia toracica;   
+11) Chirurgia urologica;   
+12) Clinica chirurgica generale (quinquennale);   
+13) Fisiopatologia chirurgica;   
+14) Medicina legale;   
+15) Neurochirurgia;   
+16) Patologia speciale chirurgica (triennale);   
+17) Radiologia;   
+18) Ricerche di laboratorio;   
+19) Semeiotica chirurgica (biennale);   
+20) Semeiotica strumentale ed endoscopica;   
+21) Trattamento pre e post-operatorio;   
+22) Traumatologia ed ortopedia.   
+Le materie sopraelencate sono cosi' distribuite:   
+1° Anno:   
+Clinica chirurgica generale;   
+Patologia speciale chirurgica;   
+Semeiotica chirurgica;   
+Anatomia chirurgica e corso di operazioni;   
+Chirurgia sperimentale;   
+Anestesia e rianimazione;   
+Ricerche di laboratorio.   
+2° Anno:   
+Clinica chirurgica generale;   
+Patologia speciale chirurgica;   
+Semeiotica chirurgica;   
+Anatomia chirurgica e corso di operazioni;   
+Fisiopatologia chirurgica;   
+Trattamento pre e post-operatorio;   
+Anatomia e istologia patologica.   
+3° Anno:   
+Clinica chirurgica generale;   
+Patologia speciale chirurgica;   
+Semeiotica Strumentale ed endoscopica;   
+Anatomia chirurgica e corso di operazioni;   
+Radiologia;   
+Anatomia e istologia patologica.   
+4° Anno:   
+Clinica chirurgica generale;   
+Chirurgia ginecologica;   
+Chirurgia urologica;   
+Neurochirurgia;   
+Traumatologia e ortopedia;   
+Chirurgia pediatrica.   
+5° Anno:   
+Clinica chirurgica generale;   
+Chirurgia toracica;   
+Chirurgia cardiovascolare;   
+Chirurgia riparativa e plastica;   
+Chirurgia d'urgenza;   
+Medicina legale.   
+I corsi dovranno essere corredati da esercitazioni pratiche.   
+La scuola puo' accogliere complessivamente trentacinque allievi.   
+La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base di titoli ed esami.   
+Non sono consentite iscrizioni con abbreviazioni di corso.   
+La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.   
+L'internato e' obbligatorio durante i 5 anni di corso e si svolgera' presso la clinica chirurgica sotto forma di permanenza costante nella detta clinica durante le ore della sua attivita', con presenza giornaliera agli ambulatori ed ai reparti di degenza.   
+Dall'obbligo di tale internato saranno esentati quegli allievi che, in qualita' di assistenti ed aiuti, prestino effettivamente servizio presso reparti di chirurgia generale delle universita' e di ospedali di prima e di seconda categoria.   
+Gli allievi hanno doveri ed attribuzioni analoghi a quelli degli assistenti.   
+La frequenza nelle sale operatorie iniziera' fin dal primo anno di corso, e dopo un periodo di tirocinio, dovra' trasformarsi in compartecipazione attiva agli interventi operatori.   
+Per i corsi che non siano della clinica chirurgica generale, possono essere stabiliti, su parere del direttore della scuola, periodi di continuativa frequenza presso i relativi reparti indipendenti.   
+Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno. L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.   
+Alla fine del corso l'allievo; inoltre, dovra' sostenere un esame generale di profitto, che consistera' nella discussione di una dissertazione scritta su un terna assegnato dal direttore della scuola.   
+L'art. 219, relativo alla scuola di specializzazione in anestesiologia e rianimazione e' abrogato e sostituito dal seguente:   
+Art. 219. - La scuola si propone di far perfezionare gli aspiranti allo studio ed alla pratica dell'anestesiologia e della rianimazione.   
+La scuola e' sotto la direzione del titolare della cattedra di anestesiologia e rianimazione, e, per le esercitazioni pratiche, dispone dei reparti clinici e dei laboratori compresi nel servizio di anestesiologia e rianimazione del policlinico.   
+Il direttore della scuola puo' nominare un vicedirettore, che lo coadiuvi e lo sostituisca, ed un segretario.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 28 agosto 1971
 
-PERTINI BODRATO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 15 marzo 1982
+Registrato alla Corte dei conti, addi' 12 novembre 1971
 
-Registro n. 41 Istruzione, foglio n. 290
+Atti del Governo, registro n. 245, foglio n. 20. - CARUSO

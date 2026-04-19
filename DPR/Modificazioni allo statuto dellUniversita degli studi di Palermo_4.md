@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1986 n. 767
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 settembre 1955 n. 938
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1986 n. 767
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 settembre 1955 n. 938
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con i [regi decreti 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2240); [31 ottobre 1929, n. 2477](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1929-10-31;2477); [30 ottobre 1930, numero 1844](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1844); [1 ottobre 1931, n. 1379](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1379); [20 ottobre 1932, n. 1806](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-20;1806); [26 ottobre 1933, n. 1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1933-10-26;1991); [6 dicembre 1934, n. 2430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2430); [1 ottobre 1936, n. 2449](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2449); [23 giugno 1939, numero 1167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-06-23;1167); [27 aprile 1942, n. 485](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;485), [11 luglio 1942, n. 922](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-11;922); [5 settembre 1942, n. 1429 e con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-09-05;1429) [13 luglio 1947, n. 826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-07-13;826) e [31 dicembre 1947, n. 1870 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1870) [28 ottobre 1948, n. 1431](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-10-28;1431); [30 ottobre 1949, n. 1151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1151); [16 dicembre 1950, n. 1314](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-12-16;1314); [11 febbraio 1952, n. 999](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-11;999); [16 agosto 1952, n. 1354](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-08-16;1354) e [19 luglio 1955, n. 762](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-19;762);
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,182 +18,61 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta, intese ad ottenere l'istituzione del corso di laurea in psicologia presso la facolta' di magistero;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Considerato che e' tuttora in atto la sperimentazione organizzativa e didattica di cui agli [articoli 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art81)-[93 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art93);
-
-Considerato che le tabelle dell'ordinamento didattico universitario relative ai corsi di laurea sono in fase di riordinamento per effetto di apposite commissioni di studio, e che anzi alcune tabelle sono state gia' riordinate;
-
-Rilevata la necessita' di accogliere la richiesta dell'Universita' di Palermo, di istituire il corso di laurea in psicologia presso la facolta' di magistero, allo scopo di riequilibrare le iscrizioni presso gli omonimi corsi di laurea degli Atenei di Padova e di Roma "La Sapienza", al fine di assicurare una migliore formazione degli studenti;
-
-Rilevata, quindi, la necessita' di apportare la modifica proposta in deroga al termine triennale di cui all'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
 Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 102. - Il primo comma e' abrogato e sostituito dal seguente: "Il numero massimo degli allievi che possono essere accolti e' di dieci per ogni anno di corso nelle scuola che hanno durata di cinque, quattro e tre anni, di sedici per le scuole che hanno durata di due anni".
 
+Il presente, decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 20 settembre 1955
+
+GRONCHI
+
+ROSSI
+
+Visto, il Guardasigilli: MORO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 25 ottobre 1955 Atti del Governo, registro n. 93, foglio n. 83. - CARLOMAGNO
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Il primo comma dell'art. 113, relativo alle lauree che rilascia la facolta' di magistero, e' soppresso e cosi' sostituito:  
-"La facolta' di magistero rilascia le lauree in materie letterarie, in pedagogia, in lingue e letterature straniere ed in psicologia".  
-Dopo l'art. 116, con il conseguente scorrimento della numerazione degli articoli successivi, e' inserito il seguente articolo, relativo all'ordinamento degli studi del corso di laurea in psicologia:  
-Art. 117. Corso di laurea in psicologia. - Titolo di ammissione: quello previsto dal [primo comma dell'art. 1 della legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1-com1).  
-La durata del corso degli studi per la laurea in psicologia e' di cinque anni.  
-Il corso degli studi si distingue in un biennio propedeutico, inteso a fornire una preparazione di base comune, e in un successivo triennio articolato in indirizzi destinati a offrire una preparazione professionale in un settore specifico di attivita' e le relative tecniche di ricerca.  
-Gli indirizzi in cui il triennio puo' articolarsi sono i seguenti:  
-1) indirizzo di psicologia generale e sperimentale;  
-2) indirizzo di psicologia dello sviluppo e dell'educazione;  
-3) indirizzo di psicologia clinica e di comunita';  
-4) indirizzo di psicologia del lavoro e delle organizzazioni.  
-L'attivazione e l'eventuale disattivazione degli indirizzi inseriti nello statuto delle singole Universita' sono disposte dal rettore, su proposta del consiglio di corso di laurea.  
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con i [regi decreti 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2240); [31 ottobre 1929, n. 2477](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1929-10-31;2477); [30 ottobre 1930, numero 1844](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1844); [1 ottobre 1931, n. 1379](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1379); [20 ottobre 1932, n. 1806](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-20;1806); [26 ottobre 1933, n. 1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1933-10-26;1991); [6 dicembre 1934, n. 2430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2430); [1 ottobre 1936, n. 2449](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2449); [23 giugno 1939, numero 1167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-06-23;1167); [27 aprile 1942, n. 485](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;485), [11 luglio 1942, n. 922](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-11;922); [5 settembre 1942, n. 1429 e con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-09-05;1429) [13 luglio 1947, n. 826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-07-13;826) e [31 dicembre 1947, n. 1870 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1870) [28 ottobre 1948, n. 1431](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-10-28;1431); [30 ottobre 1949, n. 1151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1151); [16 dicembre 1950, n. 1314](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-12-16;1314); [11 febbraio 1952, n. 999](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-11;999); [16 agosto 1952, n. 1354](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-08-16;1354) e [19 luglio 1955, n. 762](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-19;762);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Biennio propedeutico:  
-Nel corso del biennio propedeutico lo studente deve seguire nove insegnamenti comuni e tre insegnamenti opzionali, scelti tra quelli attivati dal corso di laurea.  
-Gli insegnamenti del biennio vengono impartiti mediante corsi istituzionali.  
-Sono insegnamenti comuni:  
-psicologia generale;  
-psicologia dinamica;  
-psicologia della personalita' e delle differenze individuali;  
-psicologia dell'eta' evolutiva;  
-psicologia fisiologica;  
-psicologia sociale;  
-biologia generale;  
-fondamenti anatomo-fisiologici dell'attivita' psichica;  
-statistica psicometrica.  
-Sono insegnamenti complementari:  
-antropologia culturale;  
-etologia;  
-genetica umana;  
-metodologia delle scienze del comportamento;  
-pedagogia;  
-sociologia;  
-storia della filosofia contemporanea;  
-storia della psicologia.  
-Al termine del biennio lo studente deve inoltre sostenere una prova di lingua inglese consistente nella traduzione scritta in italiano di un brano tratto da una opera psicologica e in un colloquio diretto ad accertare la conoscenza del lessico psicologico.  
-Ai fini della preparazione a questa prova il corso di laurea organizza appositi corsi, tenuti da docenti ufficiali, oppure cicli di esercitazioni affidati a lettori sotto la responsabilita' di un docente di altro corso di laurea o, ove istituito, del centro linguistico interfacolta'.  
+Decreta:  
   
-Triennio di indirizzo:  
-Per iscriversi al triennio lo studente deve aver superato tutti gli esami costitutivi comuni del biennio propedeutico e la prova di lingua inglese; gli esami opzionali devono essere superati entro il terzo anno.  
-La scelta dell'indirizzo da seguire avviene all'atto dell'iscrizione al terzo anno, e puo' essere modificata al momento dell'iscrizione al quarto o al quinto anno.  
-In caso di passaggio ad altro indirizzo lo studente ha l'obbligo di iscriversi a tutti gli insegnamenti costitutivi dell'indirizzo al quale si e' trasferito e di sostenere i relativi esami.  
-Ogni indirizzo comporta la frequenza di otto insegnamenti costitutivi e di cinque insegnamenti opzionali, di cui due possono essere stabiliti dal consiglio di corso di laurea.  
-Sono insegnamenti costitutivi per l'indirizzo di psicologia generale e sperimentale:  
-psicologia fisiologica (corso progredito);  
-neuropsicologia;  
-psicologia animale e comparata;  
-psicologia dell'apprendimento e della memoria;  
-psicologia della percezione;  
-psicologia del pensiero;  
-psicometria;  
-tecniche sperimentali di ricerca.  
-Sono insegnamenti costitutivi per l'indirizzo di psicologia dello sviluppo e dell'educazione:  
-psicologia dell'eta' evolutiva (corso progredito);  
-psicologia dell'educazione;  
-psicodinamica dello sviluppo e delle relazioni familiari;  
-psicopatologia generale e dell'eta' evolutiva;  
-tecniche di osservazione del comportamento infantile;  
-tecniche di ricerca psicologica e di analisi dei dati;  
-teoria e metodi di programmazione e di valutazione scolastica;  
-teoria e tecniche dei tests.  
-Sono insegnamenti costitutivi per l'indirizzo di psicologia clinica e di comunita':  
-psicologia dinamica (corso progredito);  
-psicologia clinica con elementi di psicoterapia individuale;  
-psicologia di comunita';  
-psicofisiologia clinica;  
-tecniche di ricerca psicologica e di analisi dei dati;  
-teorie e tecniche del colloquio psicologico;  
-teorie e tecniche della dinamica di gruppo;  
-teorie e tecniche dei tests di personalita'.  
-Sono insegnamenti costitutivi per l'indirizzo di psicologia del lavoro e delle organizzazioni:  
-psicologia sociale (corso progredito);  
-psicologia degli atteggiamenti e delle opinioni;  
-psicologia del lavoro;  
-psicologia delle organizzazioni;  
-psicologia dell'orientamento e della formazione professionale;  
-sociologia del lavoro;  
-metodologia della ricerca psico-sociale;  
-tecniche dell'intervista e del questionario.  
-Sono insegnamenti opzionali comuni a tutti gli indirizzi:  
-criminologia;  
-economia del lavoro;  
-elementi di programmazione ed elaborazione automatica dei dati;  
-epidemiologia dei disturbi psichici;  
-epistemologia genetica;  
-ergonomia;  
-fisica;  
-igiene mentale;  
-informatica;  
-legislazione del lavoro;  
-legislazione scolastica;  
-legislazione socio-sanitaria;  
-linguistica teorica;  
-logica;  
-medicina del lavoro;  
-metodologia dell'insegnamento;  
-neurofisiologia;  
-neuropsichiatria infantile;  
-neuropsicofarmacologia clinica;  
-pedagogia sperimentale;  
-principi di medicina psicosomatica;  
-psichiatria;  
-psicobiologia dello sviluppo;  
-psicofisiologia del sonno e del sogno;  
-psicolinguistica;  
-psicologia ambientale;  
-psicologia dell'arte e della letteratura;  
-psicologia dell'handicap e della riabilitazione;  
-psicologia delle comunicazioni di massa;  
-psicologia dello sport;  
-psicologia dello sviluppo del linguaggio e della comunicazione;  
-psicologia ed epidemiologia delle tossico-dipendenze;  
-psicologia e psicopatologia del comportamento sessuale;  
-psicologia gerontologica;  
-psicologia giuridica;  
-psicologia industriale;  
-psicopedagogia;  
-psicopedagogia del linguaggio e della comunicazione;  
-psicopedagogia differenziale;  
-psicosociologia delle istituzioni educative;  
-psicosociologia delle istituzioni sanitarie;  
-sociologia dell'educazione;  
-sociologia della comunicazione;  
-sociologia della famiglia;  
-sociologia industriale;  
-tecniche di analisi dei dati;  
-tecniche di indagine della personalita';  
-tecniche psicologiche di ricerca di mercato;  
-teoria e sistemi di intelligenza artificiale.  
-Per gli insegnamenti relativi alle "tecniche" di ricerca e per gli altri eventuali insegnamenti il consiglio di corso di laurea stabilisce le modalita' di svolgimento, la durata e le forme di controllo delle relative esperienze pratiche guidate. La verifica dell'esito positivo di tali esperienze e' condizione preliminare per poter sostenere l'esame.  
-Lo studente puo' sostituire uno o piu' insegnamenti opzionali del triennio con altrettanti insegnamenti costitutivi di indirizzi diversi da quello prescelto, oppure - previa deliberazione del consiglio di corso di laurea - con altrettanti insegnamenti opzionali del biennio propedeutico di cui non abbia prima sostenuto l'esame, o ancora con insegnamenti, fino al massimo di due, di altri corsi di laurea dell'Ateneo.  
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 102. - Il primo comma e' abrogato e sostituito dal seguente: "Il numero massimo degli allievi che possono essere accolti e' di dieci per ogni anno di corso nelle scuola che hanno durata di cinque, quattro e tre anni, di sedici per le scuole che hanno durata di due anni".  
   
-Norme finali:  
-Lo studente e' tenuto a definire, all'inizio del quarto anno di corso, l'argomento della tesi di laurea in uno degli insegnamenti costitutivi dell'indirizzo o in un insegnamento opzionale coerente con tale indirizzo.  
-Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti costitutivi comuni e in tre insegnamenti opzionali del biennio propedeutico, negli insegnamenti costitutivi dell'indirizzo seguito e in cinque insegnamenti opzionali del triennio, ed avere inoltre superato la prova di lingua inglese.  
-Il diploma di laurea reca l'indicazione dell'indirizzo seguito nel triennio.  
+Il presente, decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.  
   
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Dato a Roma, addi' 1 ottobre 1986
-
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
-
-Visto, il Guardasigilli: ROGNONI
-
-Registrato alla Corte dei conti, addi' 12 novembre 1986
-
-Registro n. 83 Istruzione, foglio n. 39
+Dato a Roma, addi' 20 settembre 1955  
+  
+GRONCHI  
+  
+ROSSI   
+Visto, il Guardasigilli: MORO  
+Registrato alla Corte dei conti, addi' 25 ottobre 1955  
+Atti del Governo, registro n. 93, foglio n. 83. - CARLOMAGNO  

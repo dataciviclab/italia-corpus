@@ -1,344 +1,44 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1976 n. 475
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 952
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1976 n. 475
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 952
+==============================================================
 
 Modificazioni allo statuto della libera Universita' degli studi di Urbino.
 --------------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto della libera Universita' di Urbino, approvato con [regio decreto 8 febbraio 1925, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-08;230) e modificato con [regio decreto 31 ottobre 1929, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2475), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Urbino e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto della libera Universita' degli studi di Urbino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 37 - all'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti:
-
-finanza aziendale;
-
-economia delle aziende di credito;
-
-tecnologia dei cicli produttivi;
-
-organizzazione delle imprese industriali;
-
-tecnica delle operazioni di borsa;
-
-analisi economica;
-
-economia monetaria e creditizia;
-
-economia internazionale;
-
-economia e politica industriale;
-
-economia e politica del lavoro;
-
-scienza delle finanze e diritto finanziario 2.;
-
-economia e politica del territorio;
-
-economia politica 3°;
-
-diritto sindacale italiano e comparato;
-
-diritto della previdenza sociale;
-
-diritto delle assicurazioni;
-
-diritto regionale;
-
-scienza dell'amministrazione;
-
-diritto privato comparato;
-
-diritto agrario;
-
-legislazione urbanistica;
-
-elaboratori elettronici e sistemi meccanografici;
-
-ricerca operativa;
-
-matematica applicata all'economia;
-
-teoria dei campioni;
-
-statistica metodologica;
-
-metodologia e tecnica della ricerca sociale;
-
-statistica aziendale;
-
-economia della popolazione;
-
-sociologia del lavoro e dell'industria;
-
-sociologia urbana e rurale;
-
-sociologia politica;
-
-sociologia economica;
-
-storia economica dei Paesi in via di sviluppo;
-
-storia della popolazione.
-
-Art. 39 - all'elenco degli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di teoria e storia della storiografia.
-
-Art. 106 - all'elenco degli insegnamenti complementari del corso di laurea in fisica sono aggiunti i seguenti:
-
-I Gruppo:
-
-scienza della terra;
-
-fisica ambientale.
-
-II Gruppo:
-
-rilevamento e trattamento dei dati;
-
-modelli e simulazione di sistemi;
-
-analisi delle decisioni.
-
-Art. 108 - all'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti:
-
-rilevamento geologico;
-
-sedimentologia;
-
-geotecnica;
-
-idrogeologia;
-
-petrografia applicata;
-
-paleoecologia;
-
-palinologia;
-
-oceanografia fisica.
-
-Art. 109 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:
-
-immunogenetica;
-
-citogenetica;
-
-enzimologia;
-
-virologia;
-
-idrobiologia e pescicoltura;
-
-biologia dello sviluppo.
-
-L'art. 112, relativo alle propedeuticita', e' modificato nel senso che i commi terzo e quinto sono abrogati e' sostituiti dal seguente:
-
-Corso di laurea in scienze geologiche
-
-Non si puo essere ammessi se non si e superato
-
-a sostenere l'esame di: l'esame di:
-
-fisica sperimentale istituzioni di matematiche
-
-petrografia mineralogia
-
-geologia chimica generale ed inorganica
-
-con elementi di organica
-
-petrografia
-
-paleontologia
-
-geologia applicata geologia
-
-fisica terrestre fisica sperimentale
-
-geologia
-
-Corso di laurea in scienze biologiche
-
-Non si puo essere ammessi se non si e superato
-
-a sostenere l'esame di: l'esame di:
-
-fisica istituzioni di matematiche
-
-chimica organica chimica generale ed inorganica
-
-anatomia comparata
-
-chimica biologica fisica
-
-chimica organica
-
-fisiologia generale anatomia umana
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 25 maggio 1976
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 7 luglio 1976 Atti di Governo, registro n. 7, foglio n. 47
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto della libera Universita' di Urbino, approvato con [regio decreto 8 febbraio 1925, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-08;230) e modificato con [regio decreto 31 ottobre 1929, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2475), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Urbino e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto della libera Universita' degli studi di Urbino, approvato con [regio decreto 8 febbraio 1925, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-08;230), e modificato con [regio decreto 31 ottobre 1929, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2475), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduto il [decreto-legge 1 ottobre 1973, n. 580](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580), convertito nella [legge 30 novembre 1973, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici della libera Universita' degli studi di Urbino, e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione di concerto con il Ministro per il tesoro;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto della libera Universita' degli studi di Urbino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 37 - all'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti:   
-finanza aziendale;   
-economia delle aziende di credito;   
-tecnologia dei cicli produttivi;   
-organizzazione delle imprese industriali;   
-tecnica delle operazioni di borsa;   
-analisi economica;   
-economia monetaria e creditizia;   
-economia internazionale;   
-economia e politica industriale;   
-economia e politica del lavoro;   
-scienza delle finanze e diritto finanziario 2.;   
-economia e politica del territorio;   
-economia politica 3°;   
-diritto sindacale italiano e comparato;   
-diritto della previdenza sociale;   
-diritto delle assicurazioni;   
-diritto regionale;   
-scienza dell'amministrazione;   
-diritto privato comparato;   
-diritto agrario;   
-legislazione urbanistica;   
-elaboratori elettronici e sistemi meccanografici;   
-ricerca operativa;   
-matematica applicata all'economia;   
-teoria dei campioni;   
-statistica metodologica;   
-metodologia e tecnica della ricerca sociale;   
-statistica aziendale;   
-economia della popolazione;   
-sociologia del lavoro e dell'industria;   
-sociologia urbana e rurale;   
-sociologia politica;   
-sociologia economica;   
-storia economica dei Paesi in via di sviluppo;   
-storia della popolazione.   
-Art. 39 - all'elenco degli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di teoria e storia della storiografia.   
-Art. 106 - all'elenco degli insegnamenti complementari del corso di laurea in fisica sono aggiunti i seguenti:   
-I Gruppo:   
-scienza della terra;   
-fisica ambientale.   
-II Gruppo:   
-rilevamento e trattamento dei dati;   
-modelli e simulazione di sistemi;   
-analisi delle decisioni.   
-Art. 108 - all'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti:   
-rilevamento geologico;   
-sedimentologia;   
-geotecnica;   
-idrogeologia;   
-petrografia applicata;   
-paleoecologia;   
-palinologia;   
-oceanografia fisica.   
-Art. 109 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:   
-immunogenetica;   
-citogenetica;   
-enzimologia;   
-virologia;   
-idrobiologia e pescicoltura;   
-biologia dello sviluppo.   
-L'art. 112, relativo alle propedeuticita', e' modificato nel senso che i commi terzo e quinto sono abrogati e' sostituiti dal seguente:   
+Lo statuto della libera Universita' degli studi di Urbino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-  
-  
-Corso di laurea in scienze geologiche  
-  
-Non si puo essere ammessi se non si e superato  
-a sostenere l'esame di: l'esame di:  
-  
-fisica sperimentale istituzioni di matematiche  
-  
-petrografia mineralogia  
-  
-geologia chimica generale ed inorganica  
-con elementi di organica  
-petrografia  
-paleontologia  
-geologia applicata geologia  
-  
-fisica terrestre fisica sperimentale  
-geologia  
-  
-  
-Corso di laurea in scienze biologiche  
-  
-Non si puo essere ammessi se non si e superato  
-a sostenere l'esame di: l'esame di:  
-  
-fisica istituzioni di matematiche  
-  
-chimica organica chimica generale ed inorganica  
-anatomia comparata  
-chimica biologica fisica  
-chimica organica  
-fisiologia generale anatomia umana  
-  
+La tabella A, relativa ai posti di professore di ruolo, e' modificata nel senso che i posti di professore di ruolo della facolta' di economia e commercio sono aumentati da dodici a quattordici.  
+La tabella A-bis, relativa ai posti di professore aggregato, e' modificata nel senso che i due posti di professore aggregato della facolta' di economia e commercio sono soppressi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 maggio 1976
+### Dato a Roma, addi' 31 ottobre 1974
 
-LEONE MALFATTI
+LEONE MALFATTI - COLOMBO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 7 luglio 1976
+Registrato alla Corte dei conti, addi' 21 novembre 1975
 
-Atti di Governo, registro n. 7, foglio n. 47
+Atti di Governo, registro n. 13, foglio n. 76

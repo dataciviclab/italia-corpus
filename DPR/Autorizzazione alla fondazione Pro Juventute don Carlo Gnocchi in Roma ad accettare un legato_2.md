@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980 n. 96
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 gennaio 1977 n. 25
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980 n. 96
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 gennaio 1977 n. 25
+=============================================================
 
 Autorizzazione alla fondazione "Pro Juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-96. Decreto del Presidente della Repubblica 7 febbraio 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato consistente in saldi di conti correnti presso vari istituti di credito, titoli, obbligazioni, libretti al portatore, contanti in valuta italiana ed estera, obbligazioni in valuta estera, titoli azionari e monete auree, del valore complessivo di L. 155.950.287, disposto dal dott. Giuseppe Venditto a favore dell'opera pia Don Gnocchi, che ci identifica con la fondazione "Pro juventute Carlo Gnocchi", come ha fatto presente la fondazione medesima, con testamento olografo 23 agosto 1972, pubblicato in data 5 gennaio 1977, n. 21609 di repertorio, a rogito dott. Bruno Gallo, notaio in Chiusa Pesio (Cuneo), registrato a Cuneo in data 25 gennaio 1977, n. 432, vol. 276.  
+25. Decreto del Presidente della Repubblica 12 gennaio 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione". Pro Juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dal sig. Edoardo Calderini in favore dei Mutilatini don Gnocchi Santa Maria alla Rotonda Inverigo (Como) con testamento olografo 13 ottobre 1969, pubblicato a rogito del notaio dott. Alessandro Canali in data 2 ottobre 1971, n. 41941 di repertorio, n. 20587 di raccolta, registrato a Monza il 4 ottobre 1971 con il n. 5003, vol. 230, consistente nella somma di L. 1.000.000.  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 21 marzo 1980  
-Registro n. 2 Presidenza, foglio n. 343
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 9 febbraio 1977  
+Registro n. 2 Presidenza, foglio n. 38

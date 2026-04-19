@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1986 n. 1023
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 giugno 1975 n. 358
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1986 n. 1023
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 giugno 1975 n. 358
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in 
 Roma, ad accettare un legato.
@@ -13,8 +13,8 @@ Art. 1
 
 N.
 
-1023. Decreto del Presidente della Repubblica 27 dicembre 1986, col quale, sulla proposta del presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un immobile sito in Milano, via Montello, 4, distinto nel nuovo catasto edilizio urbano alla partita 44539, foglio 264, mappale 227 sub. 63, valutato con perizia di parte L. 9.000.000, valore elevato dall'ufficio tecnico erariale di Milano a L. 23.800.000, disposto dalla sig.ra Girola Fiorina con testamento olografo 14 gennaio 1982, pubblicato a rogito dott. Ulderico Brambilla, notaio in Milano, il 27 gennaio 1983, n. 9283 di repertorio e n. 1363 di raccolta, registrato a Milano il 9 febbraio 1983 al n. 3312.   
+358. Decreto del Presidente della Repubblica 24 giugno 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato consistente nella somma di lire 6.000.000 disposto dalla sig.ra Conti Welda ved. Della Valle a favore dell'istituto don Gnocchi, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, con testamento olografo 18 maggio 1970, pubblicato a rogito del dott. Roberto Zironi notaio in Lugo (Ravenna) il 20 novembre 1971, n. 47582 di repertorio, n. 6251 di raccolta, ed ivi registrato il 25 novembre 1971 con il n. 1517 I vol. n. 147.  
   
-Visto, il Guardasigilli: ROGNONI   
-Registrato alla Corte dei conti, addi' 18 febbraio 1987   
-Registro n. 4 Presidenza, foglio n. 3
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 30 luglio 1975  
+Atti di Governo, registro n. 11, foglio n. 40

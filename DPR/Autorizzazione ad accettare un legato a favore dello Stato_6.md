@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1977 n. 743
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1979 n. 921
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1977 n. 743
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1979 n. 921
+================================================================
 
 Autorizzazione ad accettare un legato a favore dello Stato.
 -----------------------------------------------------------
@@ -10,10 +10,8 @@ Autorizzazione ad accettare un legato a favore dello Stato.
 Art. 1
 ------
 
-N.
-
-743. Decreto del Presidente della Repubblica 9 maggio 1977, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato del legato disposto dal sig. Roberto Moschitti con testamento olografo 6 gennaio 1975, pubblicato con atto pubblico 14 agosto 1975, n. 147250 di repertorio, a rogito dell'avv. Isabella Cosentini, notaio in Napoli, consistente in una raccolta di 13 violini del XIII, XIX e XX secolo, i quali rivestono un importante interesse artistico e storico, da destinare al museo di Capodimonte in Napoli.  
+N. 921 del Presidente della Repubblica 14 settembre 1979, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata la accettazione a favore dello Stato del legato disposto dal sig. Amedeo Bocchi con testamento olografo 30 novembre 1976, pubblicato in data 23 maggio 1977, n. 45303 di repertorio, a rogito avv. Franco Galiani, notaio in Roma, consistente in una raccolta di sei dipinti, i quali rivestono un importante interesse artistico e storico, da destinare alla Galleria nazionale in Parma.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 7 ottobre 1977  
-Registro n. 14 Beni culturali, foglio n. 279
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 30 maggio 1980  
+Registro n. 9 Beni culturali, foglio n. 122  

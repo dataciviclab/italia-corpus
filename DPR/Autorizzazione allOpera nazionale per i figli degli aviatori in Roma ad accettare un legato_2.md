@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 aprile 1975 n. 268
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 262
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 aprile 1975 n. 268
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 262
+===============================================================
 
 Autorizzazione all'Opera nazionale per i figli degli aviatori, in Roma, ad accettare un legato.
 -----------------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione all'Opera nazionale per i figli degli aviatori, in Roma, ad accet
 Art. 1
 ------
 
-N.
+n.
 
-268. Decreto del Presidente della Repubblica 19 aprile 1975, col quale, sulla proposta del Ministro per la difesa, l'Opera nazionale per i figli degli aviatori, in Roma, viene autorizzata ad accettare il legato, consistente nella proprieta', gravata da usufrutto a favore del coniuge, che il gen. Virgilio Sala ha disposto con testamento olografo pubblicato per atto 11 luglio 1972, n. 165761/15587 di repertorio, a rogito dott. Michele Zanuso, notaio in Milano, dei beni sottospecificati: appartamento in Milano, via Domodossola n. 9, piano ottavo, di vani cinque ed accessori, distinto in catasto urbano di Milano, sezione di Porta Magenta, con il mappale 2351/sub 17; titoli (n. 640 azioni SIP, n. 848 azioni Montedison e n. 417 azioni SME) quotati in borsa complessivamente L. 2.500.000 circa all'atto del decesso del testatore.  
+262. Decreto del Presidente della Repubblica 10 febbraio 1986, col quale, sulla proposta del Ministro della difesa, l'Opera nazionale per i figli degli aviatori, in Roma, viene autorizzata ad accettare il legato, consistente in un appartamento sito in Roma, via Belluno n. 5, interno 5, censito al nuovo catasto edilizio urbano alla partita 52678, foglio 588, particella 121 sub 8, del valore stimato di L. 199.000.000, disposto dalla signora Vittoria Baldi con testamento olografo 5 giugno 1977, pubblicato in data 19 marzo 1984, n. 16869/4755 di repertorio, a rogito dott. Giancarlo Giuliani, notaio in Roma, registrato a Roma, in data 2 aprile 1984 al n. 14902, con l'onere, a carico dell'ente, di non alienare l'immobile e di utilizzare la relativa rendita per la istituzione di una borsa di studio a beneficio degli orfani degli aviatori.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 21 giugno 1975  
-Atti di Governo, registro n. 10, foglio n. 68
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 7 giugno 1986  
+Registro n. 17 Difesa, foglio n. 63

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1971 n. 613
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1966 n. 428
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1971 n. 613
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1966 n. 428
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933; numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,7 +20,7 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -32,272 +32,336 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 132: all'elenco degli insegnamenti complementari del corso di laurea in chimica - indirizzo organico biologico - sono aggiunti i seguenti:
+Relativo all'ordinamento del biennio di studi propedeutici della Facolta' di ingegneria, l'art. 185 e' abrogato e sostituito dal seguente:
 
-Proprieta' e tecnologie delle materie plastiche;
+Biennio di studi propedeutici
 
-Raffinazione e chimica del petrolio;
+Art. 185. - Gli insegnamenti fondamentali comuni a tutti i corsi di laurea sono i seguenti:
 
-Chimica delle alte temperature;
+1) Analisi matematica I;
 
-Catalisi (omogenea ed eterogenea);
+2) Geometria I;
 
-Termodinamica applicata;
+3) Fisica I;
 
-Cinetica chimica;
+4) Chimica;
 
-Cristallochimica;
+5) Disegno;
 
-Chimica dei composti metallo-organici;
+6) Analisi matematica II;
 
-Didattica della chimica;
+7) Meccanica razionale;
 
-Fotochimica organica;
+8) Fisica II;
 
-Meccanica quantistica;
+9) Geometria II (solo per i corsi di laurea in ingegneria civile).
 
-Psicologia;
+Per i corsi di laurea in ingegneria meccanica, elettrotecnica, elettronica, aeronautica e navale e meccanica, l'insegnamento di Geometria II e' sostituito con quello di:
 
-Psicologia dell'eta' evolutiva;
+9) Disegno meccanico.
 
-Applicazioni della psicologia alla didattica.
+Per il corso di laurea in ingegneria chimica l'insegnamento di Geometria II e' sostituito con quello di:
 
-Nello stesso articolo all'elenco degli insegnamenti complementari del suddetto corso di laurea - indirizzo inorganico-chimico-fisico - sono aggiunti i seguenti:
+9) Chimica organica.
 
-Proprieta' e tecnologie delle materie plastiche;
+A questi insegnamenti vanno aggiunti:
 
-Raffinazione e chimica del petrolio;
+per i corsi di laurea in Ingegneria civile:
 
-Chimica delle alte temperature;
+10) Disegno civile;
 
-Catalisi (omogenea ed eterogenea);
+per i corsi di laurea in Ingegneria meccanica ed aeronautica;
 
-Termodinamica applicata;
+10) Chimica applicata (obbligatorio sul piano nazionale);
 
-Cinetica chimica;
+per i corsi di laurea in Ingegneria elettrotecnica ed elettronica;
 
-Cristallochimica;
+10) Tecnologie generali dei materiali (obbligatorio sul piano della Facolta);
 
-Chimica dei composti metallo-organici;
+per il corso di laurea in Ingegneria navale e meccanica:
 
-Didattica della chimica;
+10) Chimica applicata (obbligatorio sul piano nazionale);
 
-Fotochimica organica;
+11) Tecnologie generali dei materiali (obbligatorio sul piano della Facolta).
 
-Meccanica quantistica;
+Art. 187, relativo agli insegnamenti obbligatori sul piano della Facolta' del corso di laurea in Ingegneria civile (Sezione edile) e' abrogato e sostituito dal seguente:
 
-Psicologia;
+b) obbligatori sul piano della Facolta':
 
-Psicologia dell'eta' evolutiva;
+1) Costruzioni di strade, ferrovie ed aeroporti;
 
-Applicazioni della psicologia alla didattica.
+2) Costruzioni edili;
 
-Art. 135: all'elenco degli insegnamenti complementari del corso di laurea in chimica industriale sono aggiunti i seguenti:
+3) Costruzioni idrauliche;
 
-Proprieta' e tecnologie delle materie plastiche;
+4) Complementi di tecnica delle costruzioni;
 
-Raffinazione e chimica del petrolio;
+5) Tecnica delle fondazioni per edili;
 
-Chimica delle alte temperature;
+6) Materie giuridiche ed amministrative;
 
-Catalisi (omogenea ed eterogenea);
+7) Principi di economia ed estimo;
 
-Termodinamica applicata;
+8) Tecnica urbanistica.
 
-Cinetica chimica;
+Nello stesso corso di laurea i tre gruppi di materie in scelta dello studente sono soppressi e sostituiti dai seguenti:
 
-Cristallochimica;
+c) gruppi di materie a scelta:
 
-Chimica dei composti metallo-organici;
+I) Indirizzo strutturale:
 
-Didattica della chimica;
+1) Complementi di scienza delle costruzioni;
 
-Fotochimica organica;
+2) Costruzioni di ponti;
 
-Meccanica quantistica;
+II) Indirizzo urbanistico:
 
-Psicologia;
+1) Tecnica ed economia dei trasporti;
 
-Psicologia dell'eta' evolutiva;
+2) Complementi di tecnica urbanistica.
 
-Applicazioni della psicologia alla didattica;
+Art. 188, relativo agli insegnamenti obbligatori sul piano della Facolta' del corso di laurea in Ingegneria civile (Sezione idraulica) e' abrogato e sostituito dal seguente:
 
-Laboratorio di operazioni fondamentali della chimica industriale;
+b) obbligatori sul piano della Facolta':
 
-Biochimica industriale.
+1) Acquedotti e fognature;
 
-Art. 141: all'elenco degli insegnamenti complementari del corso di laurea in fisica sono aggiunti i seguenti:
+2) Costruzioni di strade, ferrovie ed aeroporti;
 
-Tecniche astrofisiche;
+3) Complementi di idraulica;
 
-Fisica solare;
+4) Geologia applicata;
 
-Elettromagnetismo;
+5) Ingegneria sanitaria;
 
-\* Meccanica celeste;
+6) Materie giuridiche ed amministrative;
 
-Magnetofluidodinamica;
+7) Principi di economia ed estimo;
 
-Psicologia;
+8) Tecnica delle fondazioni e costruzioni in terra
 
-Psicologia dell'eta' evolutiva;
+Art. 189. - Nel corso di laurea in Ingegneria civile (sezione trasporti) il 2° gruppo di materie a scelta e' soppresso e sostituito dal seguente:
 
-Applicazioni della psicologia alla didattica;
+2) Esercizio:
 
-Fotobiologia.
+1) Complementi di tecnica ed economia dei trasporti;
 
-Art. 146: all'elenco degli insegnamenti complementari del corso di laurea in matematica - indirizzo generale - sono aggiunti i seguenti: \* Fisica solare;
+2) Tecnica urbanistica;
 
-Meccanica celeste;
+3) Tecnica della circolazione.
 
-Magnetofluidodinamica;
+Art. 193, relativo agli insegnamenti obbligatori su piano della Facolta' del corso di laurea in Ingegneria navale e meccanica e' abrogato e sostituito dal seguente
 
-Psicologia;
+b) obbligatori sul piano della Facolta':
 
-Psicologia dell'eta' evolutiva;
+1) Impianti elettrici ed elettronici di bordo;
 
-Applicazioni della psicologia alla didattica;
+2) Complementi di matematica;
 
-Elementi di chimica.
+3) Costruzioni di macchine;
 
-Nello stesso elenco l'insegnamento di "Astronomia" e' contrassegnato da un asterisco.
+4) Materie giuridiche ed amministrative;
 
-Art. 147: all'elenco degli insegnamenti complementari del corso di laurea in matematica - indirizzo didattico - sono aggiunti i seguenti:
+5) Macchine marine;
 
-\* Fisica solare;
+6) Progetto delle navi;
 
-Meccanica celeste;
+7) Statica della nave;
 
-Magnetofluidodinamica;
+8) Tecnologia della nave.
 
-Psicologia;
+Nello stesso corso di laurea i cinque gruppi di materie a scelta dello studente sono soppressi e sostituiti dai seguenti:
 
-Psicologia dell'eta' evolutiva;
+c) gruppi di materie a scelta:
 
-Applicazioni della psicologia alla didattica;
+I) Indirizzo navale:
 
-Elementi di chimica.
+1) Navi speciali;
 
-Nello stesso elenco l'insegnamento di "Astronomia" e' contrassegnato da un asterisco.
+2) Apparecchiature e strumenti di bordo;
 
-Art. 148: all'elenco degli insegnamenti complementari del corso di laurea in matematica - indirizzo applicativo - sono aggiunti i seguenti:
+II) Indirizzo meccanico:
 
-\* Fisica solare;
+1) Progetti di macchine;
 
-Meccanica celeste;
+2) Automazione delle navi;
 
-Magnetofluidodinamica;
+III) Indirizzo nucleare navale:
 
-Psicologia;
+1) Reattori nucleari;
 
-Psicologia dell'eta' evolutiva;
+2) Sicurezza delle navi nucleari;
 
-Applicazioni della psicologia alla didattica;
+IV) Indirizzo missilistico:
 
-Elementi di chimica.
+1) Elementi costruttivi di missili;
 
-Nello stesso elenco l'insegnamento di "Astronomia" e' contrassegnato da un asterisco.
+2) Razzi a propulsione spaziale;
 
-Art. 152: all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:
+V) Indirizzo tecnologico:
 
-Evoluzione biologica;
+1) Scienza dei metalli;
 
-Complementi di chimica;
+2) Metallurgia e metallografia.
 
-Complementi di fisica;
+Art. 196, relativo alle propedeuticita' di esami del corso di laurea in Ingegneria e' abrogato e sostituito dal seguente:
 
-Complementi di matematica;
+"Agli effetti della successione degli insegnamenti e dei relativi esami sono da considerarsi come propedeutiche:
 
-Biometria;
+1) la Geometria I e l'Analisi matematica I rispetto alla Geometria II, all'Analisi II, alla Meccanica razionale;
 
-Biochimica vegetale;
+2) la Fisica I rispetto alla Fisica II;
 
-Fotochimica organica;
+3) il Disegno I rispetto al Disegno civile e meccanico;
 
-Fotobiologia;
+4) il Disegno civile rispetto a tutte le materie del triennio;
 
-Psicologia;
+5) l'Aerodinamica rispetto alla Aeronautica generale, alla Aerodinamica II;
 
-Psicologia dell'eta' evolutiva;
+6) l'Aeronautica generale rispetto alla Manovra, prova in volo e strumenti ed ai Progetti di velivoli;
 
-Applicazioni della psicologia alla didattica.
+7) l'Architettura tecnica rispetto all'Architettura e composizione architettonica, alle Costruzioni edili;
 
-Art. 156: all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:
+8) i Complementi di idraulica rispetto agli Acquedotti e fognature, alle Bonifiche ed irrigazioni, agli impianti idroelettrici, alle Costruzioni marittime;
 
-Biochimica applicata;
+9) le Costruzioni idrauliche rispetto agli Acquedotti e fognature, alle Bonifiche ed irrigazioni, agli impianti idroelettrici, alle Costruzioni marittime;
 
-Evoluzione biologica;
+10) le Costruzioni navali mercantili rispetto alle Costruzioni navali militari;
 
-Complementi di chimica;
+11) le Costruzioni di strade, ferrovie ed aeroporti rispetto ai Complementi di costruzioni di strade, ferrovie ed aeroporti, alla Tecnica delle fondazioni e costruzioni in terra, alle Macchine ed organizzazione di cantiere, alla Tecnica della circolazione;
 
-Complementi di fisica;
+12) l'Elettronica applicata rispetto ai Controlli automatici, alla Elettronica nucleare, alla Radiotecnica e televisione, alla Telefonia e telegrafia, ai Calcolatori elettronici, Misure II (elettroniche);
 
-Complementi di matematica;
+13) l'Elettrotecnica rispetto alle Macchine elettriche, alla Elettronica applicata, alle Misure elettriche, agli Impianti idroelettrici, ai Campi elettromagnetici e circuiti, alle Misure e norme di collaudo, ai Servomeccanismi e automazione;
 
-Biometria;
+14) la Fisica tecnica rispetto alle Macchine e alla Meccanica applicata alle macchine e macchine;
 
-Istochimica;
+15) la Geologia applicata rispetto alle Costruzioni di strade e ferrovie ed aeroporti, alle Costruzioni idrauliche, alle Costruzioni di ponti, alla Tecnica delle fondazioni e costruzioni in terra;
 
-Biochimica vegetale;
+16) l'idraulica rispetto alle Costruzioni idrauliche, alla Architettura navale, ai Complementi di idraulica, alla Ingegneria sanitaria, alla Tecnica delle fondazioni e costruzioni in terra, alle Costruzioni di strade, ferrovie ed aeroporti;
 
-Fotochimica organica;
+17) le Macchine e le Costruzioni di macchine rispetto ai Motori per aeromobili, alle Macchine marine, ai progetti di macchine;
 
-Fotobiologia;
+18) le Macchine elettriche rispetto alle Costruzioni elettromeccaniche, agli Impianti elettrici, ai Controlli automatici, ai Reattori nucleari, alle Misure II (collaudi), alla Trazione elettrica;
 
-Tossicologia;
+19) la Meccanica applicata alle macchine rispetto alle Costruzioni di macchine, alle Macchine, alle Costruzioni aeronautiche, alle Misure e norme di collaudo, ai Servomeccanismi e automazione;
 
-Chimica e microscopia clinica;
+20) la Meccanica applicata alle Macchine e Macchine rispetto agli Acquedotti e fognature, alle Bonifiche ed irrigazioni, agli Impianti idroelettrici, ai Complementi di strade ferrovie e aeroporti, alle Macchine di organizzazione di cantiere, ai Complementi di tecnica ed economia dei trasporti, alla Trazione elettrica;
 
-Psicologia;
+21) la Scienza delle costruzioni rispetto alla Tecnica delle costruzioni, alle Costruzioni di strade ferrovie ed aeroporti, alle Costruzioni di ponti, alle Costruzioni di macchine, alle Costruzioni idrauliche, alle Costruzioni elettromeccaniche, alle Costruzioni aeronautiche, alle ostruzioni navali militari, alle Costruzioni di macchine elettriche, alle Costruzioni navali mercantili, alle Costruzioni edili, alle Costruzioni marittime, alle Costruzioni metalliche, ai Complementi di scienza delle costruzioni, alle Strutture speciali, alla Tecnica delle fondazioni e costruzioni in terra, alla Statica della nave, alla Tecnica delle fondazioni per civili edili;
 
-Psicologia dell'eta' evolutiva;
+22) la Tecnica delle costruzioni rispetto ai Complementi di tecnica delle costruzioni e alle Strutture speciali;
 
-Applicazioni della psicologia alla didattica.
+23) la Tecnica ed economia dei trasporti rispetto ai Complementi di tecnica ed economia dei trasporti, alla Trazione elettrica, alla Tecnica della circolazione;
 
-Art. 159: all'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti:
+24) la Tecnica urbanistica rispetto ai Complementi di tecnica urbanistica;
 
-Complementi di chimica;
+25) le Tecnologie generali rispetto agli Impianti meccanici, agli Impianti tecnologici;
 
-Complementi di fisica;
+26) la Topografia rispetto alle Costruzioni di strade ferrovie ed aeroporti;
 
-Complementi di matematica;
+27) le Macchine rispetto ai Servomeccanismi ed automazione;
 
-Psicologia;
+Gli esami delle materie propedeutiche sopra indicate devono essere sostenuti prima degli esami delle materie cui servono di preparazione".
 
-Psicologia dell'eta' evolutiva;
+Art. 197. - E' abrogato e sostituito dal seguente:
 
-Applicazione della psicologia alla didattica.
+"Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superati gli esami:
 
-Art. 163: dall'elenco degli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali e' soppresso il seguente:
+a) nelle materie obbligatorie sul piano nazionale;
 
-Istituto di fisica superiore.
+b) nelle materie obbligatorie sul piano della Facolta';
+
+c) in un sol gruppo di materie a scelta fra quelle indicate per il conseguimento della laurea.
+
+Non potra' sostituire qualche materia dal gruppo prescelto con altra presa da gruppo diverso.
+
+Art. 204, relativo agli Istituti della Facolta' di ingegneria e' abrogato e sostituito dal seguente:
+
+"Gli Istituti costituiti presso la Facolta' sono i seguenti:
+
+Acquedotti e fognature;
+
+Aerodinamica;
+
+Architettura e composizione architettonica e urbanistica;
+
+Architettura navale;
+
+Architettura tecnica;
+
+Chimica industriale;
+
+Costruzioni idrauliche;
+
+Costruzioni di macchine;
+
+Costruzioni di ponti;
+
+Costruzioni di strade, ferrovie ed aeroporti;
+
+Costruzioni navali mercantili;
+
+Disegno;
+
+Elettrochimica;
+
+Elettrotecnica;
+
+Fisica tecnica;
+
+Geologia applicata;
+
+Idraulica;
+
+Impianti chimici;
+
+Impianti meccanici;
+
+Macchine;
+
+Meccanica applicata alle macchine;
+
+Progetto di velivoli;
+
+Scienza delle costruzioni;
+
+Tecnica delle costruzioni;
+
+Tecnica delle fondazioni e costruzioni in terra;
+
+Tecnica ed economia dei trasporti;
+
+Tecnologie meccaniche;
+
+Tecnologia della nave.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 8 giugno 1971
+Dato a Roma, addi' 26 aprile 1966
 
 SARAGAT
 
-MISASI
+GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 17 agosto 1971 Atti del Governo, registro n. 243, foglio n. 127. - PASQUALUCCI
+alla Corte dei conti, addi' 18 giugno 1966 Atti del Governo, registro n. 203, foglio n. 146. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933; numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -305,147 +369,186 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Relativo all'ordinamento del biennio di studi propedeutici della Facolta' di ingegneria, l'art. 185 e' abrogato e sostituito dal seguente:  
   
-Art. 132: all'elenco degli insegnamenti complementari del corso di laurea in chimica - indirizzo organico biologico - sono aggiunti i seguenti:  
-Proprieta' e tecnologie delle materie plastiche;  
-Raffinazione e chimica del petrolio;  
-Chimica delle alte temperature;  
-Catalisi (omogenea ed eterogenea);  
-Termodinamica applicata;  
-Cinetica chimica;  
-Cristallochimica;  
-Chimica dei composti metallo-organici;  
-Didattica della chimica;  
-Fotochimica organica;  
-Meccanica quantistica;  
-Psicologia;  
-Psicologia dell'eta' evolutiva;  
-Applicazioni della psicologia alla didattica.  
-Nello stesso articolo all'elenco degli insegnamenti complementari del suddetto corso di laurea - indirizzo inorganico-chimico-fisico - sono aggiunti i seguenti:  
-Proprieta' e tecnologie delle materie plastiche;  
-Raffinazione e chimica del petrolio;  
-Chimica delle alte temperature;  
-Catalisi (omogenea ed eterogenea);  
-Termodinamica applicata;  
-Cinetica chimica;  
-Cristallochimica;  
-Chimica dei composti metallo-organici;  
-Didattica della chimica;  
-Fotochimica organica;  
-Meccanica quantistica;  
-Psicologia;  
-Psicologia dell'eta' evolutiva;  
-Applicazioni della psicologia alla didattica.  
+Biennio di studi propedeutici  
+Art. 185. - Gli insegnamenti fondamentali comuni a tutti i corsi di laurea sono i seguenti:  
+1) Analisi matematica I;  
+2) Geometria I;  
+3) Fisica I;  
+4) Chimica;  
+5) Disegno;  
+6) Analisi matematica II;  
+7) Meccanica razionale;  
+8) Fisica II;  
+9) Geometria II (solo per i corsi di laurea in ingegneria civile).  
+Per i corsi di laurea in ingegneria meccanica, elettrotecnica, elettronica, aeronautica e navale e meccanica, l'insegnamento di Geometria II e' sostituito con quello di:  
+9) Disegno meccanico.  
+Per il corso di laurea in ingegneria chimica l'insegnamento di Geometria II e' sostituito con quello di:  
+9) Chimica organica.  
+A questi insegnamenti vanno aggiunti:  
+per i corsi di laurea in Ingegneria civile:  
+10) Disegno civile;  
+per i corsi di laurea in Ingegneria meccanica ed aeronautica;  
+10) Chimica applicata (obbligatorio sul piano nazionale);  
+per i corsi di laurea in Ingegneria elettrotecnica ed elettronica;  
+10) Tecnologie generali dei materiali (obbligatorio sul piano della Facolta);  
+per il corso di laurea in Ingegneria navale e meccanica:  
+10) Chimica applicata (obbligatorio sul piano nazionale);  
+11) Tecnologie generali dei materiali (obbligatorio sul piano della Facolta).  
   
-Art. 135: all'elenco degli insegnamenti complementari del corso di laurea in chimica industriale sono aggiunti i seguenti:  
-Proprieta' e tecnologie delle materie plastiche;  
-Raffinazione e chimica del petrolio;  
-Chimica delle alte temperature;  
-Catalisi (omogenea ed eterogenea);  
-Termodinamica applicata;  
-Cinetica chimica;  
-Cristallochimica;  
-Chimica dei composti metallo-organici;  
-Didattica della chimica;  
-Fotochimica organica;  
-Meccanica quantistica;  
-Psicologia;  
-Psicologia dell'eta' evolutiva;  
-Applicazioni della psicologia alla didattica;  
-Laboratorio di operazioni fondamentali della chimica industriale;  
-Biochimica industriale.  
+Art. 187, relativo agli insegnamenti obbligatori sul piano della Facolta' del corso di laurea in Ingegneria civile (Sezione edile) e' abrogato e sostituito dal seguente:  
   
-Art. 141: all'elenco degli insegnamenti complementari del corso di laurea in fisica sono aggiunti i seguenti:  
-Tecniche astrofisiche;  
-Fisica solare;  
-Elettromagnetismo;  
-\* Meccanica celeste;  
-Magnetofluidodinamica;  
-Psicologia;  
-Psicologia dell'eta' evolutiva;  
-Applicazioni della psicologia alla didattica;  
-Fotobiologia.  
+b) obbligatori sul piano della Facolta':  
+1) Costruzioni di strade, ferrovie ed aeroporti;  
+2) Costruzioni edili;  
+3) Costruzioni idrauliche;  
+4) Complementi di tecnica delle costruzioni;  
+5) Tecnica delle fondazioni per edili;  
+6) Materie giuridiche ed amministrative;  
+7) Principi di economia ed estimo;  
+8) Tecnica urbanistica.  
   
-Art. 146: all'elenco degli insegnamenti complementari del corso di laurea in matematica - indirizzo generale - sono aggiunti i seguenti: \* Fisica solare;  
-Meccanica celeste;  
-Magnetofluidodinamica;  
-Psicologia;  
-Psicologia dell'eta' evolutiva;  
-Applicazioni della psicologia alla didattica;  
-Elementi di chimica.  
-Nello stesso elenco l'insegnamento di "Astronomia" e' contrassegnato da un asterisco.  
+Nello stesso corso di laurea i tre gruppi di materie in scelta dello studente sono soppressi e sostituiti dai seguenti:  
   
-Art. 147: all'elenco degli insegnamenti complementari del corso di laurea in matematica - indirizzo didattico - sono aggiunti i seguenti:  
-\* Fisica solare;  
-Meccanica celeste;  
-Magnetofluidodinamica;  
-Psicologia;  
-Psicologia dell'eta' evolutiva;  
-Applicazioni della psicologia alla didattica;  
-Elementi di chimica.  
-Nello stesso elenco l'insegnamento di "Astronomia" e' contrassegnato da un asterisco.  
+c) gruppi di materie a scelta:  
+I) Indirizzo strutturale:  
+1) Complementi di scienza delle costruzioni;  
+2) Costruzioni di ponti;  
+II) Indirizzo urbanistico:  
+1) Tecnica ed economia dei trasporti;  
+2) Complementi di tecnica urbanistica.  
   
-Art. 148: all'elenco degli insegnamenti complementari del corso di laurea in matematica - indirizzo applicativo - sono aggiunti i seguenti:  
-\* Fisica solare;  
-Meccanica celeste;  
-Magnetofluidodinamica;  
-Psicologia;  
-Psicologia dell'eta' evolutiva;  
-Applicazioni della psicologia alla didattica;  
-Elementi di chimica.  
-Nello stesso elenco l'insegnamento di "Astronomia" e' contrassegnato da un asterisco.  
+Art. 188, relativo agli insegnamenti obbligatori sul piano della Facolta' del corso di laurea in Ingegneria civile (Sezione idraulica) e' abrogato e sostituito dal seguente:  
   
-Art. 152: all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:  
-Evoluzione biologica;  
-Complementi di chimica;  
-Complementi di fisica;  
-Complementi di matematica;  
-Biometria;  
-Biochimica vegetale;  
-Fotochimica organica;  
-Fotobiologia;  
-Psicologia;  
-Psicologia dell'eta' evolutiva;  
-Applicazioni della psicologia alla didattica.  
+b) obbligatori sul piano della Facolta':  
+1) Acquedotti e fognature;  
+2) Costruzioni di strade, ferrovie ed aeroporti;  
+3) Complementi di idraulica;  
+4) Geologia applicata;  
+5) Ingegneria sanitaria;  
+6) Materie giuridiche ed amministrative;  
+7) Principi di economia ed estimo;  
+8) Tecnica delle fondazioni e costruzioni in terra  
   
-Art. 156: all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:  
-Biochimica applicata;  
-Evoluzione biologica;  
-Complementi di chimica;  
-Complementi di fisica;  
-Complementi di matematica;  
-Biometria;  
-Istochimica;  
-Biochimica vegetale;  
-Fotochimica organica;  
-Fotobiologia;  
-Tossicologia;  
-Chimica e microscopia clinica;  
-Psicologia;  
-Psicologia dell'eta' evolutiva;  
-Applicazioni della psicologia alla didattica.  
+Art. 189. - Nel corso di laurea in Ingegneria civile (sezione trasporti) il 2° gruppo di materie a scelta e' soppresso e sostituito dal seguente:  
   
-Art. 159: all'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti:  
-Complementi di chimica;  
-Complementi di fisica;  
-Complementi di matematica;  
-Psicologia;  
-Psicologia dell'eta' evolutiva;  
-Applicazione della psicologia alla didattica.  
+2) Esercizio:  
+1) Complementi di tecnica ed economia dei trasporti;  
+2) Tecnica urbanistica;  
+3) Tecnica della circolazione.  
   
-Art. 163: dall'elenco degli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali e' soppresso il seguente:  
-Istituto di fisica superiore.  
+Art. 193, relativo agli insegnamenti obbligatori su piano della Facolta' del corso di laurea in Ingegneria navale e meccanica e' abrogato e sostituito dal seguente  
+  
+b) obbligatori sul piano della Facolta':  
+1) Impianti elettrici ed elettronici di bordo;  
+2) Complementi di matematica;  
+3) Costruzioni di macchine;  
+4) Materie giuridiche ed amministrative;  
+5) Macchine marine;  
+6) Progetto delle navi;  
+7) Statica della nave;  
+8) Tecnologia della nave.  
+  
+Nello stesso corso di laurea i cinque gruppi di materie a scelta dello studente sono soppressi e sostituiti dai seguenti:  
+  
+c) gruppi di materie a scelta:  
+I) Indirizzo navale:  
+1) Navi speciali;  
+2) Apparecchiature e strumenti di bordo;  
+II) Indirizzo meccanico:  
+1) Progetti di macchine;  
+2) Automazione delle navi;  
+III) Indirizzo nucleare navale:  
+1) Reattori nucleari;  
+2) Sicurezza delle navi nucleari;  
+IV) Indirizzo missilistico:  
+1) Elementi costruttivi di missili;  
+2) Razzi a propulsione spaziale;  
+V) Indirizzo tecnologico:  
+1) Scienza dei metalli;  
+2) Metallurgia e metallografia.  
+  
+Art. 196, relativo alle propedeuticita' di esami del corso di laurea in Ingegneria e' abrogato e sostituito dal seguente:  
+"Agli effetti della successione degli insegnamenti e dei relativi esami sono da considerarsi come propedeutiche:  
+  
+1) la Geometria I e l'Analisi matematica I rispetto alla Geometria II, all'Analisi II, alla Meccanica razionale;  
+2) la Fisica I rispetto alla Fisica II;  
+3) il Disegno I rispetto al Disegno civile e meccanico;  
+4) il Disegno civile rispetto a tutte le materie del triennio;  
+5) l'Aerodinamica rispetto alla Aeronautica generale, alla Aerodinamica II;  
+6) l'Aeronautica generale rispetto alla Manovra, prova in volo e strumenti ed ai Progetti di velivoli;  
+7) l'Architettura tecnica rispetto all'Architettura e composizione architettonica, alle Costruzioni edili;  
+8) i Complementi di idraulica rispetto agli Acquedotti e fognature, alle Bonifiche ed irrigazioni, agli impianti idroelettrici, alle Costruzioni marittime;  
+9) le Costruzioni idrauliche rispetto agli Acquedotti e fognature, alle Bonifiche ed irrigazioni, agli impianti idroelettrici, alle Costruzioni marittime;  
+10) le Costruzioni navali mercantili rispetto alle Costruzioni navali militari;  
+11) le Costruzioni di strade, ferrovie ed aeroporti rispetto ai Complementi di costruzioni di strade, ferrovie ed aeroporti, alla Tecnica delle fondazioni e costruzioni in terra, alle Macchine ed organizzazione di cantiere, alla Tecnica della circolazione;  
+12) l'Elettronica applicata rispetto ai Controlli automatici, alla Elettronica nucleare, alla Radiotecnica e televisione, alla Telefonia e telegrafia, ai Calcolatori elettronici, Misure II (elettroniche);  
+13) l'Elettrotecnica rispetto alle Macchine elettriche, alla Elettronica applicata, alle Misure elettriche, agli Impianti idroelettrici, ai Campi elettromagnetici e circuiti, alle Misure e norme di collaudo, ai Servomeccanismi e automazione;  
+14) la Fisica tecnica rispetto alle Macchine e alla Meccanica applicata alle macchine e macchine;  
+15) la Geologia applicata rispetto alle Costruzioni di strade e ferrovie ed aeroporti, alle Costruzioni idrauliche, alle Costruzioni di ponti, alla Tecnica delle fondazioni e costruzioni in terra;  
+16) l'idraulica rispetto alle Costruzioni idrauliche, alla Architettura navale, ai Complementi di idraulica, alla Ingegneria sanitaria, alla Tecnica delle fondazioni e costruzioni in terra, alle Costruzioni di strade, ferrovie ed aeroporti;  
+17) le Macchine e le Costruzioni di macchine rispetto ai Motori per aeromobili, alle Macchine marine, ai progetti di macchine;  
+18) le Macchine elettriche rispetto alle Costruzioni elettromeccaniche, agli Impianti elettrici, ai Controlli automatici, ai Reattori nucleari, alle Misure II (collaudi), alla Trazione elettrica;  
+19) la Meccanica applicata alle macchine rispetto alle Costruzioni di macchine, alle Macchine, alle Costruzioni aeronautiche, alle Misure e norme di collaudo, ai Servomeccanismi e automazione;  
+20) la Meccanica applicata alle Macchine e Macchine rispetto agli Acquedotti e fognature, alle Bonifiche ed irrigazioni, agli Impianti idroelettrici, ai Complementi di strade ferrovie e aeroporti, alle Macchine di organizzazione di cantiere, ai Complementi di tecnica ed economia dei trasporti, alla Trazione elettrica;  
+21) la Scienza delle costruzioni rispetto alla Tecnica delle costruzioni, alle Costruzioni di strade ferrovie ed aeroporti, alle Costruzioni di ponti, alle Costruzioni di macchine, alle Costruzioni idrauliche, alle Costruzioni elettromeccaniche, alle Costruzioni aeronautiche, alle ostruzioni navali militari, alle Costruzioni di macchine elettriche, alle Costruzioni navali mercantili, alle Costruzioni edili, alle Costruzioni marittime, alle Costruzioni metalliche, ai Complementi di scienza delle costruzioni, alle Strutture speciali, alla Tecnica delle fondazioni e costruzioni in terra, alla Statica della nave, alla Tecnica delle fondazioni per civili edili;  
+22) la Tecnica delle costruzioni rispetto ai Complementi di tecnica delle costruzioni e alle Strutture speciali;  
+23) la Tecnica ed economia dei trasporti rispetto ai Complementi di tecnica ed economia dei trasporti, alla Trazione elettrica, alla Tecnica della circolazione;  
+24) la Tecnica urbanistica rispetto ai Complementi di tecnica urbanistica;  
+25) le Tecnologie generali rispetto agli Impianti meccanici, agli Impianti tecnologici;  
+26) la Topografia rispetto alle Costruzioni di strade ferrovie ed aeroporti;  
+27) le Macchine rispetto ai Servomeccanismi ed automazione;  
+Gli esami delle materie propedeutiche sopra indicate devono essere sostenuti prima degli esami delle materie cui servono di preparazione".  
+  
+Art. 197. - E' abrogato e sostituito dal seguente:  
+"Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superati gli esami:  
+a) nelle materie obbligatorie sul piano nazionale;  
+b) nelle materie obbligatorie sul piano della Facolta';  
+c) in un sol gruppo di materie a scelta fra quelle indicate per il conseguimento della laurea.  
+Non potra' sostituire qualche materia dal gruppo prescelto con altra presa da gruppo diverso.  
+  
+Art. 204, relativo agli Istituti della Facolta' di ingegneria e' abrogato e sostituito dal seguente:  
+"Gli Istituti costituiti presso la Facolta' sono i seguenti:  
+Acquedotti e fognature;  
+Aerodinamica;  
+Architettura e composizione architettonica e urbanistica;  
+Architettura navale;  
+Architettura tecnica;  
+Chimica industriale;  
+Costruzioni idrauliche;  
+Costruzioni di macchine;  
+Costruzioni di ponti;  
+Costruzioni di strade, ferrovie ed aeroporti;  
+Costruzioni navali mercantili;  
+Disegno;  
+Elettrochimica;  
+Elettrotecnica;  
+Fisica tecnica;  
+Geologia applicata;  
+Idraulica;  
+Impianti chimici;  
+Impianti meccanici;  
+Macchine;  
+Meccanica applicata alle macchine;  
+Progetto di velivoli;  
+Scienza delle costruzioni;  
+Tecnica delle costruzioni;  
+Tecnica delle fondazioni e costruzioni in terra;  
+Tecnica ed economia dei trasporti;  
+Tecnologie meccaniche;  
+Tecnologia della nave.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 giugno 1971
+### Dato a Roma, addi' 26 aprile 1966
 
-SARAGAT MISASI
+SARAGAT GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 17 agosto 1971
+Registrato alla Corte dei conti, addi' 18 giugno 1966
 
-Atti del Governo, registro n. 243, foglio n. 127. - PASQUALUCCI
+Atti del Governo, registro n. 203, foglio n. 146. - VILLA

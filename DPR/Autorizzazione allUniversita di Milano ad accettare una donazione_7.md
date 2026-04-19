@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1950 n. 608
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1951 n. 1720
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1950 n. 608
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1951 n. 1720
+================================================================
 
 Autorizzazione all'Universita' di Milano ad accettare una donazione.
 --------------------------------------------------------------------
@@ -12,7 +12,8 @@ Art. 1
 
 N.
 
-608. Decreto del Presidente della Repubblica 13 marzo 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Milano viene autorizzata ad accettare la donazione della somma di lire 400.000 nominali, in titoli di rendita italiana 5%, disposta in suo favore dal sig. Candido Capello, con atto pubblico amministrativo in data 17 giugno 1949, per l'istituzione di due premi di studio biennali da intitolarsi al nome del figlio "Dott. Amilcare Capello" e da conferirsi per concorso fra laureati in medicina da non oltre sei anni di tutte le Universita' italiane: uno al miglior lavoro in otorinolaringoiatria e l'altro al miglior lavoro in radiologia, ambedue nel campo della tubercolosi.  
+1720. Decreto del Presidente della Repubblica 4 novembre 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Milano viene autorizzata ad accettare la donazione di lire 500.000, in titoli dello Stato rendita 5%, disposta in suo favore dal dott. Pietro Venino, con atto pubblico amministrativo in data 10 giugno 1951, per l'istituzione di un premio di studio da intitolarsi e Premio prof. Vittorio Alpe" e da conferirsi ogni cinque anni all'autore del miglior lavoro sperimentale in agronomia.  
   
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 4 agosto 1950
+Visto, il Guardasigilli: ZOLI  
+Registrato alla Corte dei conti, addi' 2 febbraio 1952  
+Atti del Governo, registro n. 49, foglio n. 74. - FRASCA

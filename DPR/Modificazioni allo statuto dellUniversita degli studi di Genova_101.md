@@ -1,11 +1,117 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 luglio 1978 n. 662
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1237
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 luglio 1978 n. 662
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1237
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 155 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono apportate le seguenti modifiche:
+
+la scuola di specializzazione in chirurgia (prima scuola) muta la denominazione in quella di scuola di specializzazione in chirurgia generale (prima scuola);
+
+la scuola di specializzazione in chirurgia (seconda scuola) muta la denominazione in quella di scuola di specializzazione in chirurgia generale (seconda scuola);
+
+la scuola di specializzazione in clinica oculistica muta la denominazione in quella di scuola di specializzazione in oftalmologia.
+
+Gli articoli 182, 183, 184 e 187, relativi alla scuola di specializzazione in clinica oculistica che muta la denominazione in quella di scuola di specializzazione in oftalmologia, sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in oftalmologia
+
+Art. 182. - Presso l'istituto di clinica oculistica e' istituita la scuola di specializzazione in oftalmologia, che ha lo scopo di conferire la necessaria competenza a coloro che vogliano specialmente dedicarsi a questa branca della medicina.
+
+Art. 183. - Il corso ha la durata di quattro anni.
+
+Art. 184. - Il numero degli allievi che possono essere accolti nella scuola viene fissato in numero massimo di ventiquattro.
+
+Art. 187. - L'esame di diploma consiste nella presentazione di una tesi di specializzazione scritta su argomento di clinica oculistica preventivamente assegnato dalla direzione della scuola, nel sostenere la relativa discussione ed in una prova pratica sull'ammalato.
+
+Gli articoli 186 e 188, relativi alla suddetta scuola in oftalmologia, sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.
+
+Gli articoli 244, 245 e 250, relativi alla scuola di specializzazione in chirurgia (prima scuola) che muta la denominazione in quella di scuola di specializzazione in chirurgia generale (prima scuola), sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in chirurgia generale (prima scuola)
+
+Art. 244. - Presso la cattedra di clinica chirurgica generale e terapia chirurgica (B) e' istituita la scuola di specializzazione in chirurgia generale (prima scuola).
+
+Direttore della scuola e' il professore titolare della cattedra di clinica chirurgica generale e terapia chirurgica (B).
+
+Art. 245. - Gli anni necessari per il conseguimento del diploma sono cinque.
+
+Il numero massimo complessivo degli iscritti e' di quarantatre per tutti i cinque anni di corso.
+
+Art. 250. - Il direttore e gli insegnanti della scuola si accerteranno, durante l'anno accademico, dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.
+
+Alla fine del corso l'allievo dovra' sostenere un esame generale di profitto.
+
+Gli articoli 247, 248 e 249, relativi alla suddetta scuola in chirurgia generale (prima scuola), sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.
+
+Gli articoli 341 e 343, relativi alla scuola di specializzazione in psichiatria, sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in psichiatria
+
+Art. 341. - Presso l'istituto di clinica delle malattie nervose e mentali e' istituita la scuola di specializzazione in psichiatria, la quale ha lo scopo di conferire adeguata competenza teorica e pratica ai laureati in medicina e chirurgia, i quali intendano conseguire il diploma di specializzazione in psichiatria. La scuola ha la durata di anni quattro.
+
+Art. 343. - Il numero massimo di iscritti e' fissato in venticinque per i complessivi quattro anni di corso.
+
+Gli articoli 344 e 345, relativi alla suddetta scuola di specializzazione in psichiatria, sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.
+
+Gli articoli 383 e 388, relativi alla scuola di specializzazione in chirurgia (seconda scuola) che muta la denominazione in quella di scuola di specializzazione in chirurgia generale (seconda scuola), sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in chirurgia generale (seconda scuola)
+
+Art. 383. - Presso la cattedra di clinica chirurgica generale e terapia chirurgica (R) e' istituita la scuola di specializzazione in chirurgia generale (seconda scuola).
+
+Direttore della scuola e' il professore titolare della cattedra di clinica chirurgica generale e terapia chirurgica (R).
+
+Gli anni necessari per il conseguimento del diploma sono cinque.
+
+Il numero complessivo degli iscritti e' di trentasette per tutti i cinque anni di corso.
+
+Art. 388. - Il direttore e gli insegnanti della scuola si accerteranno, durante l'anno accademico, dell'operosita' scolastica degli allievi con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.
+
+Alla fine del corso l'allievo dovra' sostenere un esame generale di profitto.
+
+Gli articoli 385, 386 e 387, relativi alla suddetta scuola di specializzazione in chirurgia generale (seconda scuola), sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1977
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 15 luglio 1978 Registro n. 75 Istruzione, foglio n. 305
 
 Art. 1
 ------
@@ -16,54 +122,63 @@ Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ott
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro della pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 77 - all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunte le seguenti materie:  
-anatomia vegetale;  
-citologia ed embriologia vegetale;  
-didattica delle scienze naturali;  
-filosofia della scienza;  
-ecologia vegetale;  
-geologia del quaternario;  
-geopedologia;  
-meteorologia;  
-micologia;  
-paleontologia dei vertebrati;  
-entomologia.  
-Art. 78 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunte le seguenti materie:  
-endocrinologia comparata;  
-neurologia comparata;  
-fisiologia comparata;  
-citologia;  
-zoologia dei vertebrati;  
-protozoologia;  
-fisiologia cellulare;  
-anatomia vegetale;  
-citologia ed embriologia vegetale;  
-ecologia vegetale;  
-fitosociologia;  
-micologia;  
-entomologia;  
-zoogeografia;  
-planctologia.  
+Art. 155 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono apportate le seguenti modifiche:  
+la scuola di specializzazione in chirurgia (prima scuola) muta la denominazione in quella di scuola di specializzazione in chirurgia generale (prima scuola);  
+la scuola di specializzazione in chirurgia (seconda scuola) muta la denominazione in quella di scuola di specializzazione in chirurgia generale (seconda scuola);  
+la scuola di specializzazione in clinica oculistica muta la denominazione in quella di scuola di specializzazione in oftalmologia.  
+Gli articoli 182, 183, 184 e 187, relativi alla scuola di specializzazione in clinica oculistica che muta la denominazione in quella di scuola di specializzazione in oftalmologia, sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in oftalmologia  
+Art. 182. - Presso l'istituto di clinica oculistica e' istituita la scuola di specializzazione in oftalmologia, che ha lo scopo di conferire la necessaria competenza a coloro che vogliano specialmente dedicarsi a questa branca della medicina.  
+Art. 183. - Il corso ha la durata di quattro anni.  
+Art. 184. - Il numero degli allievi che possono essere accolti nella scuola viene fissato in numero massimo di ventiquattro.  
+Art. 187. - L'esame di diploma consiste nella presentazione di una tesi di specializzazione scritta su argomento di clinica oculistica preventivamente assegnato dalla direzione della scuola, nel sostenere la relativa discussione ed in una prova pratica sull'ammalato.  
+Gli articoli 186 e 188, relativi alla suddetta scuola in oftalmologia, sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.  
+Gli articoli 244, 245 e 250, relativi alla scuola di specializzazione in chirurgia (prima scuola) che muta la denominazione in quella di scuola di specializzazione in chirurgia generale (prima scuola), sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in chirurgia generale (prima scuola)  
+Art. 244. - Presso la cattedra di clinica chirurgica generale e terapia chirurgica (B) e' istituita la scuola di specializzazione in chirurgia generale (prima scuola).  
+Direttore della scuola e' il professore titolare della cattedra di clinica chirurgica generale e terapia chirurgica (B).  
+Art. 245. - Gli anni necessari per il conseguimento del diploma sono cinque.  
+Il numero massimo complessivo degli iscritti e' di quarantatre per tutti i cinque anni di corso.  
+Art. 250. - Il direttore e gli insegnanti della scuola si accerteranno, durante l'anno accademico, dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.  
+Alla fine del corso l'allievo dovra' sostenere un esame generale di profitto.  
+Gli articoli 247, 248 e 249, relativi alla suddetta scuola in chirurgia generale (prima scuola), sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.  
+Gli articoli 341 e 343, relativi alla scuola di specializzazione in psichiatria, sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in psichiatria  
+Art. 341. - Presso l'istituto di clinica delle malattie nervose e mentali e' istituita la scuola di specializzazione in psichiatria, la quale ha lo scopo di conferire adeguata competenza teorica e pratica ai laureati in medicina e chirurgia, i quali intendano conseguire il diploma di specializzazione in psichiatria. La scuola ha la durata di anni quattro.  
+Art. 343. - Il numero massimo di iscritti e' fissato in venticinque per i complessivi quattro anni di corso.  
+Gli articoli 344 e 345, relativi alla suddetta scuola di specializzazione in psichiatria, sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.  
+Gli articoli 383 e 388, relativi alla scuola di specializzazione in chirurgia (seconda scuola) che muta la denominazione in quella di scuola di specializzazione in chirurgia generale (seconda scuola), sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in chirurgia generale (seconda scuola)  
+Art. 383. - Presso la cattedra di clinica chirurgica generale e terapia chirurgica (R) e' istituita la scuola di specializzazione in chirurgia generale (seconda scuola).  
+Direttore della scuola e' il professore titolare della cattedra di clinica chirurgica generale e terapia chirurgica (R).  
+Gli anni necessari per il conseguimento del diploma sono cinque.  
+Il numero complessivo degli iscritti e' di trentasette per tutti i cinque anni di corso.  
+Art. 388. - Il direttore e gli insegnanti della scuola si accerteranno, durante l'anno accademico, dell'operosita' scolastica degli allievi con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.  
+Alla fine del corso l'allievo dovra' sostenere un esame generale di profitto.  
+Gli articoli 385, 386 e 387, relativi alla suddetta scuola di specializzazione in chirurgia generale (seconda scuola), sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 luglio 1978
+### Dato a Roma, addi' 31 ottobre 1977
 
-p. Il Presidente della Repubblica Il Presidente del Senato FANFANI PEDINI
+LEONE MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 20 ottobre 1978
+Registrato alla Corte dei conti, addi' 15 luglio 1978
 
-Registro n. 112 Istruzione, foglio n. 334
+Registro n. 75 Istruzione, foglio n. 305

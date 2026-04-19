@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 173
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1975 n. 580
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 173
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1975 n. 580
+================================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-173. Decreto del Presidente della Repubblica 10 febbraio 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella quota di 1/2 dei beni mobili, libretto a risparmio e conti correnti per complessive L. 127.895.497 - quota di un 1/2 uguale L. 63.943.738 meno L. 21.000.000 di passivita' restano L. 42.943.736 - disposto dal rev. Corengia Antonio con testamento olografo 10 maggio 1982, pubblicato in data 11 novembre 1983, n. 24222/8565 di repertorio, a rogito dott. Achille Cornelio, notaio in Como, registrato a Como in data 16 novembre 1983 al n. 5148.   
+580. Decreto del Presidente della Repubblica 29 settembre 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare un legato consistente in obbligazioni "E.N.E.L." per il valore nominale di L. 1.000.000, disposto dalla sig.ra Maria Cecchini in favore dell'Istituto don Gnocchi, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, con testamento olografo 2 marzo 1970, pubblicato in data 27 novembre 1973, n. 3311 di repertorio, n. 2400 di raccolta a rogito avv.  
+Domenico De Nigris notaio in Albano Laziale (Roma), e registrato ad Albano il 4 dicembre 1973, al n. 3286, mod. 3.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 22 aprile 1986   
-Registro n. 4 Presidenza, foglio n. 47
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 26 novembre 1975  
+Atti di Governo, registro n. 14, foglio n. 43

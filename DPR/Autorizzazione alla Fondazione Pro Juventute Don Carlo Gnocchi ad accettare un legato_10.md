@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 giugno 1963 n. 903
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1965 n. 204
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 giugno 1963 n. 903
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1965 n. 204
+==============================================================
 
 Autorizzazione alla "Fondazione Pro Juventute Don Carlo Gnocchi" ad accettare un legato.
 ----------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-903. Decreto del Presidente della Repubblica 2 giugno 1903, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi" viene autorizzata ad accettare un legato consistente nella somma di lire 1.500.000, disposto a suo favore dal defunto signor Adolfo Bellentani con testamento pubblico a rogito notaio dott. Camillo Aggazzotti di Modena, in data 31 ottobre 1961, n. 159 di repertorio, registrato in data 15 novembre 1961, rep. n. 65853,6224.  
+204. Decreto del Presidente della Repubblica 19 gennaio 1965, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi" viene autorizzata ad accettare un legato di L. 200.000 (duecentomila) "in cartelle Sarde", disposto dalla defunta signora Carlotta Mauri ved. Berti, con testamento olografo del 15 gennaio 1963, pubblicato per atto a rogito notaio dott. Nicola Scorza di Milano, in data 23 settembre 1963, n. 24910 del repertorio, n. 2061 della raccolta.  
   
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 27 giugno 1963  
-Atti del Governo, registro n. 171, foglio n. 39. - VILLA
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 26 marzo 1965  
+Atti del Governo, registro n. 191, foglio n. 131. - VILLA

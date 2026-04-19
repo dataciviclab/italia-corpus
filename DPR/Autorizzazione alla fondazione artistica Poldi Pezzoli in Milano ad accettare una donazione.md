@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 settembre 1976 n. 1016
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1976 n. 242
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 settembre 1976 n. 1016
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1976 n. 242
+===============================================================
 
 Autorizzazione alla fondazione artistica Poldi Pezzoli, in Milano, ad accettare una donazione.
 ----------------------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-1016. Decreto del Presidente della Repubblica 8 settembre 1976, col quale, sulla proposta del Ministro per i beni culturali e ambientali, la fondazione artistica Poldi Pezzoli, in Milano, viene autorizzata ad accettare la donazione del dipinto "Madonna con Bambino e angeli" di Giulio Cesare Procaccini disposta dal prof.  
-Marco Valsecchi con atto notarile 21 gennaio 1975, n. 8677/1221 di repertorio, a rogito dott. Francesco Cavallone, notaio in Carate Brianza, con destinazione al museo Poldi Pezzoli.   
+242. Decreto del Presidente della Repubblica 26 febbraio 1976, col quale, sulla proposta del Ministro per i beni culturali ed ambientali, la fondazione artistica Poldi Pezzoli, in Milano, viene autorizzata ad accettare la donazione disposta dalla sig.ra Annunziata Bologna con atto notarile 19 luglio 1972, n. 40367/8300 di repertorio, a rogito dott. Renato Fornoni, notaio in Milano, consistente in un divano francese del secolo XVIII e due specchiere veneziane del sec. XVIII.  
   
-Visto, il Guardasigilli: BONIFACIO   
-Registrato alla Corte dei conti, addi' 24 febbraio 1977   
-Registro n. 4 Beni culturali, foglio n. 43
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 10 maggio 1976  
+Atti di Governo, registro n. 5, foglio n. 87

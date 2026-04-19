@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1977 n. 567
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1969 n. 772
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1977 n. 567
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1969 n. 772
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -10,38 +10,233 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato Con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Cagliari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-L'art. 148, relativo alla scuola di specializzazione in chirurgia che muta la denominazione in scuola di specializzazione in chirurgia generale, e' abrogato e sostituito dal seguente:  
-"Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in chirurgia generale, con sede presso l'istituto di clinica chirurgica e terapia chirurgica.  
-La scuola conferisce il diploma in chirurgia generale".  
+L'art. 54, relativo al corso di laurea in fisica, e' abrogato e sostituito dal seguente:   
   
-L'art. 191, relativo alla scuola di specializzazione in terapia fisica e riabilitazione che muta la denominazione in scuola di specializzazione in fisioterapia, e' abrogato e sostituito dal seguente:  
-"Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in fisioterapia con sede presso l'istituto di clinica ortopedica. La scuola conferisce il diploma di specialista in fisioterapia".  
+Art. 54. - La facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Cagliari conferisce la laurea in fisica negli indirizzi didattico, generale ed applicativo. E' titolo di ammissione il diploma di maturita' classica, di maturita' scientifica o di licenza degli istituti tecnici industriali, agrari, nautici e per geometri ai sensi delle vigenti disposizioni di legge.   
+La durata del corso e' di quattro anni; al termine del primo biennio lo studente deve optare per uno dei tre indirizzi previsti.   
+Per il primo biennio, sono insegnamenti fondamentali, comuni ai tre indirizzi, obbligatori:   
+1° Anno:   
+1) Fisica generale I;   
+2) Analisi matematica I;   
+3) Geometria I;   
+4) Esperimentazione fisica (biennale);   
+5) Chimica con esercitazioni di laboratorio (corso per fisici).   
+2° Anno:   
+1) Fisica generale II;   
+2) Analisi matematica II;   
+3) Meccanica razionale;   
+4) Esperimentazione fisica (biennale).   
+Si richiedera', inoltre, alla fine del biennio la prova di conoscenza di due lingue straniere da scegliere tra: francese, inglese, russo e tedesco.   
+I corsi di fisica generale I e II, analisi matematiche I e II, geometria I e meccanica razionale sono accompagnati da esercitazioni (non di laboratorio) che ne fanno parte integrante; i corsi di fisica generale I e II, analisi matematica I e II, comportano esami distinti e sono da considerarsi il primo propedeutico al secondo.   
+Il corso di meccanica razionale, distinto da quello destinato agli allievi ingegneri, e' comune a quello tenuto per gli studenti di matematica. Per accedere al secondo biennio e' necessario che lo studente abbia superato gli esami dei seguenti corsi: analisi matematica I e II, fisica generale I e II. L'esame di meccanica razionale e' propedeutico a quelli dei corsi del secondo biennio.   
+Gli insegnamenti del secondo biennio sono i seguenti:   
+Laurea ad indirizzo didattico:   
+3° Anno:   
+1) Istituzioni di fisica teorica;   
+2) Metodi matematici della fisica;   
+3) Complementi di fisica generale I;   
+4) Storia della fisica;   
+5) Preparazione di esperienze didattiche I.   
+4° Anno:   
+1) Struttura della materia;   
+2) Complementi di fisica generale II;   
+3) Corso a scelta;   
+4) Preparazione di esperienze didattiche II.   
+I corsi di istituzioni di fisica teorica, metodi matematici della fisica, struttura della materia, complementi di fisica generale I e II, fisica superiore, sono accompagnati da esercitazioni (non di laboratorio) che ne fanno parte integrante.   
+Il corso a scelta dello studente puo' essere accompagnato, a seconda del suo carattere, da esercitazioni di laboratorio.   
+I corsi di complemento di fisica generale I e II e di preparazioni di esperienze didattiche comportano esami distinti e sono da considerarsi l'uno propedeutico all'altro.   
+  
+Corsi complementari   
+  
+Sono corsi complementari a scelta per la laurea a indirizzo didattico:   
+1) Acustica;   
+2) Algebra superiore;   
+3) Analisi funzionale;   
+4) Analisi superiore;   
+5) Astrofisica;   
+6) Astronomia;   
+7) Calcoli numerici e grafici;   
+8) Calcolo delle probabilita';   
+9) Cibernetica e teoria dell'informazione;   
+10) Conduzione elettrica nei gas;   
+11) Elettrologia;   
+12) Elettrotecnica;   
+13) Fisica dello stato solido;   
+14) Fisica matematica;   
+15) Fisica nucleare;   
+16) Fisica superiore;   
+17) Fisica teorica;   
+18) Fisica terrestre;   
+19) Istituzioni di analisi superiore;   
+20) Istituzioni di fisica matematica;   
+21) Istituzioni di fisica nucleare;   
+22) Matematiche superiori;   
+23) Meccanica analitica;   
+24) Meccanica quantistica;   
+25) Meccanica statistica;   
+26) Meccanica superiore;   
+27) Misure elettriche;   
+28) Onde elettromagnetiche;   
+29) Ottica;   
+30) Radioattivita';   
+31) Relativita';   
+32) Spettroscopia;   
+33) Chimica fisica;   
+34) Teoria delle funzioni;   
+35) Termodinamica.   
+Laurea ad indirizzo generale:   
+3° Anno:   
+1) Istituzioni di fisica teorica;   
+2) Metodi matematici della fisica;   
+3) Fisica superiore;   
+4) Laboratorio di fisica I;   
+5) Struttura della materia.   
+4° Anno:   
+1) Fisica teorica;   
+2) Laboratorio di fisica II;   
+3) Corso a scelta di fisica;   
+4) Corso a scelta di matematiche superiori.   
+I corsi di istituzione di fisica teorica, metodi matematici della fisica, fisica superiore, fisica teorica e il corso di matematiche superiori (a scelta) sono accompagnati da esercitazioni (non di laboratorio) che ne fanno parte integrante.   
+Il corso a scelta di fisica puo' essere accompagnato, a seconda del suo carattere, da esercitazioni di laboratorio.   
+I corsi di laboratorio di fisica I e laboratorio di fisica II sono da considerarsi il primo propedeutico al secondo.   
+I corsi di istituzioni di fisica teorica e metodi matematici della fisica sono propedeutici per il corso di fisica teorica.   
+I corsi di laboratorio di fisica comportano due esami distinti e l'uno e' propedeutico all'altro.   
+  
+Corsi complementari   
+  
+Sono corsi complementari a scelta per la laurea ad indirizzo generale:   
+1) Acustica;   
+2) Algebra superiore;   
+3) Analisi funzionale;   
+4) Analisi superiore;   
+5) Astrofisica;   
+6) Astronomia;   
+7) Calcoli numerici e grafici;   
+8) Calcolo delle probabilita';   
+9) Chimica fisica;   
+10) Teoria dei circuiti;   
+11) Elettronica applicata;   
+12) Elettronica quantistica;   
+13) Cibernetica e teoria dell'informazione;   
+14) Conduzione elettrica dei gas;   
+15) Elettrologia;   
+16) Elettronica;   
+17) Elettrotecnica;   
+18) Fisica dei neutroni;   
+19) Fisica dei reattori;   
+20) Fisica delle particelle elementari;   
+21) Fisica dello stato solido;   
+22) Fisica matematica;   
+23) Fisica nucleare;   
+24) Fisica terrestre;   
+25) Istituzioni di analisi superiore;   
+26) Istituzioni di fisica matematica;   
+27) Istituzioni di fisica nucleare;   
+28) Matematiche superiori;   
+29) Meccanica analitica;   
+30) Meccanica quantistica;   
+31) Meccanica superiore;   
+32) Misure elettriche;   
+33) Onde elettromagnetiche;   
+34) Ottica;   
+35) Ottica elettronica;   
+36) Radioattivita';   
+37) Relativita';   
+38) Spettroscopia;   
+39) Statistica matematica;   
+40) Storia della fisica;   
+41) Teoria delle funzioni;   
+42) Termodinamica;   
+43) Meccanica statistica.   
+Laurea ad indirizzo applicativo (orientamento in fisica dello stato solido):   
+3° Anno:   
+1) Struttura della materia;   
+2) Istituzioni di fisica teorica;   
+3) Metodi matematici della fisica;   
+4) Laboratorio di fisica I;   
+5) Corso a scelta.   
+4° Anno:   
+1) Laboratorio di fisica II;   
+2) Fisica dello stato solido;   
+3) Corso a scelta;   
+4) Corso a scelta.   
+I corsi di istituzioni di fisica teorica, metodi matematici della fisica, struttura della materia ed il corso di fisica dello stato solido, sono accompagnati da esercitazioni (non di laboratorio) che ne fanno parte integrante.   
+I corsi a scelta possono anche essere accompagnati, a seconda del loro carattere, da esercitazioni di laboratorio.   
+I corsi di laboratorio di fisica I e laboratorio di fisica II sono da considerarsi il primo propedeutico al secondo.   
+I corsi di struttura della materia, di metodi matematici della fisica e di istituzioni di fisica teorica sono propedeutici a quelli di fisica dello stato solido.   
+I corsi di laboratorio di fisica, specifici per l'indirizzo applicativo, comportano due esami distinti e l'uno e' propedeutico all'altro.   
+Ai sensi delle vigenti disposizioni di legge, lo studente deve, all'inizio del 3° anno proporre all'approvazione della facolta' l'elenco dei corsi complementari a sua scelta.   
+  
+Corsi complementari   
+  
+Sono corsi complementari a scelta per la laurea ad indirizzo applicativo (orientamento in fisica dello stato solido):   
+1) Acustica;   
+2) Biofisica;   
+3) Calcoli numerici e grafici;   
+4) Cibernetica e teoria dell'informazione;   
+5) Conduzione elettrica dei gas;   
+6) Cristallografia;   
+7) Elettrologia;   
+8) Elettronica;   
+9) Elettronica applicata;   
+10) Elettrotecnica;   
+11) Fisica degli stati condensati;   
+12) Fisica dei semi-conduttori;   
+13) Fisica matematica;   
+
+(( 14) Fisica molecolare;))
+
+  
+15) Fisica superiore;   
+16) Fisica tecnica;   
+17) Fisica teorica;   
+18) Meccanica quantistica dello stato solido;   
+19) Meccanica statistica;   
+20) Mineralogia;   
+21) Misure elettriche;   
+22) Onde elettromagnetiche;   
+23) Elettronica quantistica;   
+24) Chimica fisica;   
+25) Ottica;   
+26) Ottica elettronica;   
+27) Proprieta' magnetiche della materia;   
+28) Radioattivita';   
+29) Spettroscopia;   
+30) Strutturistica dello stato cristallino;   
+31) Spettroscopia dello stato solido;   
+32) Tecnologie dello stato solido;   
+33) Termodinamica;   
+34) Termotecnica.   
+Per ciascuno degli indirizzi previsti lo studente potra' chiedere l'argomento della tesi di laurea soltanto dopo aver superato tutti gli esami dei primi tre anni di corso e sostenuto, con esito favorevole, un colloquio di cultura generale in fisica.   
+L'esame di laurea consistera' nella discussione di una tesi scritta alla quale non si richiede necessariamente carattere di ricerca originale e nella esposizione e commento di due memorie di letteratura scientifica (tesine) scelte fra tre presentate dal candidato.   
+Superato l'esame di laurea lo studente consegue il titolo di dottore in fisica, indipendentemente dall'indirizzo prescelto del quale verra' fatta menzione soltanto nella carriera scolastica.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 giugno 1977
+### Dato a Roma, addi' 13 ottobre 1969
 
-LEONE MALFATTI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 30 luglio 1977
+Registrato alla Corte dei conti, addi' 5 novembre 1969
 
-Registro n. 92 Istruzione, foglio n. 40
+Atti del Governo, registro n. 230, foglio n. 5. - CARUSO

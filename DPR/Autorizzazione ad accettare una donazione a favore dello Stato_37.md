@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1977 n. 85
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1978 n. 612
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1977 n. 85
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1978 n. 612
 =============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-85. Decreto del Presidente della Repubblica 21 gennaio 1977, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Padova con atto 28 novembre 1966, n. 106119 di repertorio, a rogito notaio Giovanni Fazzutti, dell'appezzamento di terreno della superficie catastale di mq 51660 ed effettivamente di mq 51510, occorso per la realizzazione del nuovo carcere.  
+612. Decreto del Presidente della Repubblica 11 aprile 1978, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Nuoro con atto 31 gennaio 1972, n. 97535 di repertorio, a rogito notaio Bartolomeo Serra, delle aree di sedime e di rispetto, relative al palazzo di giustizia di Nuoro, costruito a cura e spese dello Stato.  
   
 Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 26 marzo 1977  
-Registro n. 15 Finanze, foglio n. 322
+Registrato alla Corte dei conti, addi' 7 luglio 1978  
+Registro n. 28 Finanze, foglio n. 50

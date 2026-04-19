@@ -1,69 +1,131 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1977 n. 511
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1970 n. 703
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1977 n. 511
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1970 n. 703
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 179. - L'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie e' modificato nel senso che gli insegnamenti di "Orticoltura e floricoltura" e di "Avicoltura e coniglicoltura" vengono trasformati da semestrali ad annuali.
+
+Nello stesso elenco sono inclusi i seguenti insegnamenti complementari:
+
+Sociologia rurale;
+
+Frutticultura industriale;
+
+Microbiologia del terreno;
+
+Attrezzature e impianti industriali;
+
+Biochimica vegetale;
+
+Igiene degli alimenti;
+
+Complementi di chimica analitica applicata alle industrie agrarie;
+
+Tecnologia delle conserve alimentari;
+
+Lingua inglese;
+
+Climatologia e metereologia (semestrale);
+
+Colture pregiate (semestrale);
+
+Diserbo chimico (semestrale);
+
+Giardini e tappeti erbosi (semestrale);
+
+Produzione e controllo delle sementi.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 3 agosto 1970
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 29 settembre 1970 Atti del Governo, registro n. 237, foglio n. 129. - CARUSO
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' degli studi di Padova e convalidati dal Consiglio superiore della pubblica istruzione;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 405 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la seguente:   
-scuola di specializzazione in microbiologia che conferisce il diploma di specialista in microbiologia.   
-L'art. 406, concernente l'ordinamento delle scuole di specializzazione in medicina e chirurgia, e' integrato con l'inserimento dell'ordinamento della scuola di specializzazione in microbiologia.   
-Scuola di specializzazione in microbiologia   
-E' istituita presso l'Universita' di Padova la scuola di specializzazione in microbiologia con sede presso l'istituto di microbiologia. La scuola ha indirizzo teorico e pratico e permette il conseguimento del diploma di specialista in microbiologia.   
-Sono ammessi alla scuola, con l'obbligo di frequenza, i laureati in medicina e chirurgia per un numero massimo di cinque per ogni anno di corso.   
-L'ammissione alla scuola avviene per titoli ed esami.   
-La durata dei corsi e' di tre anni e non e' suscettibile di abbreviazioni in alcun caso.   
-Alla fine di ciascun anno accademico gli specializzandi, che abbiano ottenuto le firme di frequenza, dovranno sostenere un esame di profitto nelle materie fondamentali il cui superamento e' condizione indispensabile per ottenere l'iscrizione all'anno successivo ed, alla fine dei corsi, per l'ammissione all'esame di diploma.   
-Questo consistera' nella presentazione e discussione di un elaborato scritto su un argomento relativo alle materie di insegnamento, concordato tra il diplomando ed il corpo docente della scuola.   
-Per quanto attiene alle tasse ed ai contributi valgono le regole generali contemplate nell'art. 400 dello statuto dell'Universita' di Padova.   
-Le materie di insegnamento fondamentali, distribuite per anno di corso, sono le seguenti:   
-1° Anno:   
-batteriologia generale e tecnica batteriologica;   
-chimica microbiologica;   
-immunologia;   
-analisi statistica del dosaggio biologico.   
-2° Anno:   
-virologia generale e tecnica virologica;   
-batteriologia speciale;   
-micologia;   
-protozoologia e parassitologia.   
-3° Anno:   
-genetica dei microrganismi;   
-virologia speciale;   
-microbiologia industriale;   
-microbiologia degli alimenti e dell'ambiente;   
-metodi e dosaggi microbiologici.   
-Lo studio teorico-pratico di tali materie realizzato attraverso lezioni, esercitazioni pratiche e discussioni, sara' completato da conferenze tenute da docenti invitati dalla direzione della scuola.   
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Art. 179. - L'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie e' modificato nel senso che gli insegnamenti di "Orticoltura e floricoltura" e di "Avicoltura e coniglicoltura" vengono trasformati da semestrali ad annuali.  
+Nello stesso elenco sono inclusi i seguenti insegnamenti complementari:  
+  
+Sociologia rurale;  
+Frutticultura industriale;  
+Microbiologia del terreno;  
+Attrezzature e impianti industriali;  
+Biochimica vegetale;  
+Igiene degli alimenti;  
+Complementi di chimica analitica applicata alle industrie agrarie;  
+Tecnologia delle conserve alimentari;  
+Lingua inglese;  
+Climatologia e metereologia (semestrale);  
+Colture pregiate (semestrale);  
+Diserbo chimico (semestrale);  
+Giardini e tappeti erbosi (semestrale);  
+Produzione e controllo delle sementi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 gennaio 1977
+### Dato a Roma, addi' 3 agosto 1970
 
-LEONE MALFATTI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 30 luglio 1977
+Registrato alla Corte dei conti, addi' 29 settembre 1970
 
-Registro n. 92 Istruzione, foglio n. 20
+Atti del Governo, registro n. 237, foglio n. 129. - CARUSO

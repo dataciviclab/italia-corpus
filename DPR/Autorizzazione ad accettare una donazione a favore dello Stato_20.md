@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1974 n. 473
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1976 n. 433
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1974 n. 473
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1976 n. 433
 =============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-473. Decreto del Presidente della Repubblica 27 giugno 1974, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dalla sig.ra Genzone Laura con atto 30 novembre 1972, n. 59196 di repertorio per notaio Renzo Lazzareschi, del terreno di mq 36, sito in comune di Lucca, frazione di S. Lorenzo a Vaccoli, localita' "ai Picchi".  
+433. Decreto del Presidente della Repubblica 2 aprile 1976, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione disposta a favore dello Stato dall'ente ospedaliero "Ospedale civile di Piacenza" e dall'ente morale "Ospizi civili di Piacenza" con atto 14 aprile 1975, n. 40605 di repertorio, a rogito dott. Alberto Vullo, notaio in Piacenza, del complesso monumentale sito in Alseno (Piacenza), denominato ex monastero di Chiaravalle, ivi compreso il chiostro, con esclusione del terreno agricolo entrostante il muro di cinta.  
   
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 26 settembre 1974  
-Atti di Governo, registro n. 5, foglio n. 90. - SCIARRETTA
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 16 giugno 1976  
+Atti di Governo, registro n. 6, foglio n. 79

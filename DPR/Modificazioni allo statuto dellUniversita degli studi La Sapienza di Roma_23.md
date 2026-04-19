@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1077
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 336
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1077
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 336
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 ------------------------------------------------------------------------------
@@ -33,30 +33,28 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' "La Sapienza" di Roma, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' "La Sapienza" di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
   
-Art. 127 - nell'elenco degli insegnamenti complementari del corso di laurea in farmacia sono inclusi i seguenti insegnamenti:   
-chimica dei prodotti dietetici;   
-chimica degli alimenti;   
-chimica dei prodotti cosmetici;   
-saggi e dosaggi farmacologici.   
-Art. 132 - nell'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologia farmaceutiche e' inserito l'insegnamento di "biologia molecolare".   
+Art. 32 - nell'elenco degli insegnamenti obbligatori per l'indirizzo politico-amministrativo, del corso di laurea in scienze politiche, e' inserito l'insegnamento di "diritto del lavoro e legislazione sociale" in luogo degli insegnamenti di "diritto tributario" o "diritto finanziario".   
+Nell'elenco degli insegnamenti complementari del medesimo corso di laurea in scienze politiche e' depennato l'insegnamento di "diritto del lavoro e legislazione sociale" e sono aggiunti i seguenti insegnamenti:   
+diritto tributario   
+diritto finanziario.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 dicembre 1983
+### Dato a Roma, addi' 26 aprile 1984
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 29 febbraio 1984
+Registrato alla Corte dei conti, addi' 9 luglio 1984
 
-Registro n. 13 Istruzione, foglio n. 67
+Registro n. 44 Istruzione, foglio n. 51

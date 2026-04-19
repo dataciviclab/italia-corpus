@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 agosto 1968 n. 1097
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1963 n. 1366
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 agosto 1968 n. 1097
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1963 n. 1366
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,17 +10,17 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1933, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,338 +30,236 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti suindicati, e' ulteriormente modificato come appresso:
 
-Art 59, relativo alle norme sulle propedeuticita' ed esami del corso di laurea in economia e commercio e' abrogato e sostituito dal seguente:
+Gli articoli dal n. 196 al n. 205 relativi agli Istituti di Caratteri distributivi degli edifici e di Fisica, Fisica tecnica e Impianti tecnici annessi alla Facolta' di architettura sono abrogati e sostituiti dai seguenti:
 
-"Agli effetti dell'iscrizione sono da considerare materie propedeutiche:
+Art. 196. - Sono costituiti presso la Facolta' di architettura i seguenti Istituti:
 
-a) le Istituzioni di diritto privato rispetto al Diritto commerciale, al Diritto privato comparato, al Diritto della navigazione;
+Istituto di Matematica;
 
-b) le Istituzioni di diritto pubblico rispetto al Diritto pubblico regionale, al Diritto pubblico comparato, al Diritto amministrativo degli enti territoriali, al Diritto tributario, alla Contabilita' di Stato, alla Organizzazione internazionale, alla Finanza degli enti locali, al Diritto amministrativo;
+Istituto di Caratteri stilistici e costruttivi dei monumenti;
 
-c) l'Economia politica primo anno di corso - rispetto all'Economia bancaria ed alla Storia delle dottrine economiche;
+Istituto di Composizione architettonica;
 
-d) l'Economia politica primo e secondo anno del corso - rispetto alla Teoria e politica dello sviluppo economico;
+Istituto di Scienza delle costruzioni;
 
-e) la Statistica primo anno del corso - rispetto alla Demografia;
+Istituto di Caratteri distributivi degli edifici;
 
-f) la Matematica generale - rispetto alla Matematica finanziaria;
+Istituto di Fisica;
 
-g) la Storia economica - rispetto alla Storia della banca, alla Storia ed istituzioni economiche afro-asiatiche, alla Storia dell'agricoltura, alla Storia del lavoro, alla Storia delle relazioni economiche internazionali, alla Sociologia;
+Istituto di Urbanistica.
 
-h) la Ragioneria generale ed applicata primo e secondo anno del corso rispetto alla Organizzazione aziendale e alla Ragioneria pubblica;
+Tali Istituti hanno lo scopo di promuovere e coordinare l'insegnamento e la ricerca nelle discipline di loro pertinenza. Essi utilizzano i locali, il personale e le dotazioni assegnati alle Cattedre che li costituiscono.
 
-i) il Diritto commerciale rispetto al Diritto industriale;
+Art. 197. - La Facolta' determina, con propria deliberazione, alla fine di ciascun anno e per l'anno accademico successivo quali siano gli insegnamenti ufficiali che si svolgono presso i singoli Istituti.
 
-l) la Tecnica industriale e commerciale - rispetto alla Tecnica del commercio internazionale, alla Economia e finanza delle imprese di assicurazione, alla Tecnica amministrativa delle imprese di pubblici servizi, alla Tecnica delle negoziazioni di borsa, alla Tecnica delle ricerche di mercato e della distribuzione generale;
+Art. 198. - Ogni Istituto e' retto da un direttore che e' responsabile dell'amministrazione e del funzionamento dell'Istituto stesso. Norme particolari al riguardo potranno essere stabilite dalla Facolta' nei casi in cui se ne ravvisi l'opportunita'.
 
-m) la Scienza delle finanze e diritto finanziario rispetto alla Economia e finanza della sicurezza sociale, alla Finanza degli enti locali;
+Art. 199. - Qualora fra gli insegnamenti assegnati ad un Istituto ve ne sia uno solo tenuto da un professore di ruolo, questi e' di diritto il direttore dell'Istituto.
 
-n) la Matematica generale e la Ragioneria generale ed applicata primo e secondo anno del corso rispetto ai Principi e tecnica degli ausiliari meccanografici od elettronici;
+Nel caso che vi siano piu' professori di ruolo, la Facolta', sentito il parere dei medesimi, designera', scegliendo fra di essi, il direttore dell'istituto che verra' nominato con decreto rettorale per un periodo di tre anni.
 
-o) le Istituzioni di diritto privato e le Istituzioni di diritto pubblico rispetto al Diritto del lavoro, al Diritto processuale civile, al Diritto internazionale;
+Se un Istituto manca di professore di ruolo, la direzione verra' affidata, di regola, ad un professore di ruolo di materia affine, designato dalla Facolta' e nominato con decreto rettorale per un periodo di tre anni.
 
-p) la Statistica primo e secondo anno del corso e l'Economia politica primo e secondo anno del corso rispetto alla Economia e politica agraria, alla Scienza delle finanze e diritto finanziario, alla Politica economica e finanziaria;
+Art. 200. - Possono essere addetti ad un Istituto, assistenti, tecnici, bibliotecari, personale amministrativo e subalterno e salariati appartenenti ai ruoli universitari.
 
-q) la Matematica generale e la Economia politica primo e secondo anno del corso rispetto alla Ricerca operativa;
+Art. 201. - E' facolta' del direttore di un Istituto di rilasciare a chi frequenta l'istituto per almeno sei mesi un attestato degli studi compiuti e dei risultati raggiunti nelle ricerche.
 
-r) la Matematica generale, l'Economia politica prime e secondo anno del corso, la Statistica primo e secondo anno del corso rispetto all'Econometria;
+Art. 202. - Ogni Istituto potra' eventualmente disporre, secondo modalita' intese ad assicurare il raggiungimento delle finalita' nel modo piu' idoneo, di fondi per la ricerca e di borse di studio provenienti da Enti pubblici o privati italiani e stranieri.
 
-s) la Economia politica primo e secondo anno del corso e la Geografia economica rispetto alla Economia dei trasporti;
+Art. 220. - Agli insegnamenti complementari del corso di laurea in Medicina veterinaria sono aggiunti quelli di:
 
-t) la Ragioneria generale ed applicata primo e secondo anno del corso e la Storia economica rispetto alla Storia della ragioneria;
+13) Semeiotica chirurgica;
 
-u) la Ragioneria generale ed applicata, il Diritto commerciale e la Tecnica industriale e commerciale rispetto alla Tecnica bancaria e professionale;
+14) Semeiotica medica;
 
-v) le Istituzioni di diritto privato, le Istituzioni di diritto pubblico ed il Diritto commerciale rispetto al Diritto pubblico dell'Economia, al Diritto fallimentare al Diritto e legislazione bancaria;
+15) Ematologia comparata;
 
-z) i Complementi di matematica per economisti rispetto all'Economia matematica.
+16) Patologia aviare.
 
-Analogamente gli esami delle materie propedeutiche debbono precedere quelli delle materie a cui servono di preparazione.
+Dopo l'art. 223, sono aggiunti i seguenti nuovi articoli relativi alla costituzione e la regolamentazione degli Istituti annessi alla Facolta' di medicina veterinaria con il conseguente spostamento della numerazione degli articoli successivi.
 
-Ai soli effetti degli esami, la tecnica bancaria e professionale e' propedeutica rispetto alla Tecnica del commercio internazionale, all'Economia e finanza delle imprese di assicurazione, alla Tecnica delle negoziazioni di borsa".
+Art. 224. - Sono costituiti presso la Facolta' di Medicina veterinaria, i seguenti Istituti:
 
-Art. 132. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica (indirizzo organico biologico ed inorganico-chimico-fisico) e' aggiunto quelle di: "Meccanismi delle reazioni organiche".
+Istituto di Anatomia normale veterinaria con istologia ed embriologia;
 
-Art. 135. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica industriale e' aggiunto quello di: "Meccanismi delle reazioni organiche".
+Istituto di Patologia generale ed Anatomia patologica;
 
-Art. 146. - All'elenco degli insegnamenti complementari del corso di laurea in matematica a indirizzo generale sono aggiunti i seguenti:
+Istituto di Patologia speciale e Clinica medica;
 
-Analisi funzionale;
+Istituto di Patologia speciale e Clinica chirurgica;
 
-Algebra omologica;
+Istituto di Malattie infettive, profilassi e polizia veterinaria;
 
-Topologia algebrica.
+Istituto di Zootecnica generale.
 
-Art. 147. - All'elenco degli insegnamenti complementari del corso di laurea in matematica ad indirizzo didattico sono aggiunti i seguenti:
+Tali Istituti hanno lo scopo di promuovere e coordinare l'insegnamento e la ricerca nelle discipline di loro pertinenza.
 
-Analisi funzionale;
+Art. 225. - La Facolta' determina, con propria deliberazione, alla fine di ciascun anno e per l'anno accademico successivo quali siano gli insegnamenti ufficiali che si svolgeranno presso i singoli Istituti.
 
-Algebra omologica;
+Art. 226. - Ogni Istituto e' retto da un direttore che e' responsabile della amministrazione e del funzionamento dell'Istituto stesso.
 
-Topologia algebrica.
+Norme particolari al riguardo potranno essere stabilite dalla Facolta' nei casi in cui se ne ravvisi l'opportunita'.
 
-Art. 148. - All'elenco degli insegnamenti complementari del corso di laurea in matematica ad indirizzo applicativo (orientamento numerico e meccanico) sono aggiunti i seguenti:
+Art. 227. - Qualora tra gli insegnamenti assegnati ad un Istituto ve ne sia uno solo tenuto da un professore di ruolo, questi e' di diritto il direttore dell'Istituto.
 
-Analisi funzionale;
+Nel caso che vi siano piu' professori di ruolo, la Facolta' sentito il parere dei medesimi, designera', scegliendo fra essi, il direttore dell'Istituto, che verra' nominato con decreto rettorale per un periodo di tre anni.
 
-Algebra omologica;
+Se un Istituto manca di professore di ruolo, la direzione verra' affidata di regola ad un professore di ruolo di materia affine, designato dalla Facolta' e nominato con decreto rettorale per un periodo di tre anni.
 
-Topologia algebrica;
+Art. 228. - Possono essere addetti ad un Istituto assistenti, tecnici, bibliotecari, personale amministrativo e subalterni appartenenti ai ruoli universitari.
 
-Teoria dei giochi.
+Art. 229. - E' facolta' del direttore di un Istituto di rilasciare a chi frequenta l'istituto per almeno sei mesi un attestato degli studi compiuti e dei risultati raggiunti nelle ricerche.
 
-Art. 152. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti i seguenti:
+Art. 230. - Ogni Istituto potra' eventualmente disporre, secondo modalita' intese ad assicurare il raggiungimento delle finalita' nel modo piu' idoneo, di fondi per la ricerca di borse di studio provenienti da Enti pubblici e privati italiani e stranieri.
 
-Biochimica applicata;
+Dopo l'art. 396, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione del "Corso di specializzazione in Teorie e tecniche per l'impiego dei calcolatori elettronici" con il conseguente spostamento della numerazione degli articoli successivi.
 
-Fisiologia cellulare;
+Corso di specializzazione in Teorie e tecniche per l'impiego dei calcolatori elettronici
 
-Fisiologia comparata;
+Art. 397. - Presso la Facolta' di ingegneria dell'Universita' degli studi di Napoli e' istituito un corso in "Teorie e tecniche per l'impiego dei calcolatori elettronici". La durata del corso e' di sei mesi. Esso si svolge presso il Centro di calcolo elettronico della Facolta' medesima.
 
-Fitogeografia;
+Art. 398. - Il direttore del corso ed i docenti sono designati all'inizio dell'anno accademico dal Consiglio della Facolta' di Ingegneria su proposta del preside della Facolta'.
 
-Citologia ed embriologia vegetale;
+Art. 399. - Al corso sono ammessi i laureati in Ingegneria, Matematica, Fisica, Chimica, Discipline nautiche, Economia e commercio.
 
-Ecologia vegetale;
+Del numero massimo delle iscrizioni e dell'accettazione delle domande giudica anno per anno il Consiglio di Facolta' su proposta del direttore del corso.
 
-Biologia vegetale applicata.
+Art. 400. - Il corso comprende i seguenti insegnamenti:
 
-Art. 156. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti i seguenti:
+1) Logica dei calcolatori elettronici;
 
-Biochimica applicata;
+2) Componenti per calcolatori elettronici;
 
-Fisiologia cellulare;
+3) Ricerca operativa e programmazione lineare;
 
-Fisiologia comparata;
+4) Elementi di Statistica; Metodi Montecarlo; Teoria delle code;
 
-Fitogeografia;
+5) Calcolo numerico ed elaborazione di dati;
 
-Citologia ed embriologia vegetale;
+6) Metodi di programmazione per calcolatori numerici;
 
-Ecologia vegetale;
+7) Calcolatori analogici e programmazione.
 
-Biologia vegetale applicata.
+Durante il corso i partecipanti saranno tenuti a compiere esercitazioni pratiche sui calcolatori in dotazione del Centro di calcolo della Facolta' di Ingegneria.
 
-Art. 159. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti i seguenti:
+Art. 401. - Il corso si conclude con esami consistenti in una prova scritta ed un colloquio di cultura generale sugli argomenti trattati.
 
-Geotecnica;
+Della Commissione d'esame fanno parte tutti i docenti del corso.
 
-Paleografia;
+Art. 402. - A coloro che hanno frequentato il corso e superati gli esami, sara' rilasciato un attestato.
 
-Storia della geologia;
-
-Biostratigrafia e Paleoecologia;
-
-Sismologia;
-
-Geofisica applicata.
-
-Art. 244. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti i seguenti:
-
-Acarologia e nematologia (semestrale);
-
-Allevamento vegetale (semestrale);
-
-Anatomia e sistematica dei legni;
-
-Assistenza, consulenza e divulgazione agricola;
-
-Biologia cellulare;
-
-Citotassonomia (semestrale);
-
-Cooperazione agricola;
-
-Demografia zootecnica (semestrale);
-
-Disegno (semestrale);
-
-Fertilizzanti e fertilizzazione (semestrale);
-
-Fisica del terreno (semestrale);
-
-Fisioclimatologia animale (semestrale);
-
-Fisiologia e tecnica della riproduzione (semestrale);
-
-Fisiologia vegetale;
-
-Fitogeografia ed ecologia vegetale;
-
-Fitoiatria;
-
-Genetica del miglioramento animale (semestrale);
-
-Igiene zootecnica (semestrale);
-
-Immunogenetica zootecnica (semestrale);
-
-Legislazione zootecnica e annonaria (semestrale);
-
-Micologia;
-
-Microbiologia lattiero-casearia;
-
-Nozioni di Scienza delle finanze (semestrale);
-
-Organizzazione comparata dei servizi zootecnici nella C.E.E. (semestrale);
-
-Organizzazione degli uffici di contabilita' ed elaborazione dei risultati contabili (semestrale);
-
-Pianificazione agricola;
-
-Riordinamento fondiario;
-
-Scienza dell'alimentazione del bestiame e tecnica mangimistica;
-
-Tecnica della meccanizzazione agricola;
-
-Zootecnica montana (semestrale);
-
-Zootecnica tropicale e subtropicale (semestrale).
+Art. 403. - Gli iscritti al corso sono tenuti a pagare le tasse di iscrizione, le sopratasse ed i contributi che vengono fissati annualmente dal Consiglio di amministrazione dell'Universita', su proposta del Consiglio di Facolta'.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 21 agosto 1968
+Roma, addi' 2 settembre 1963
 
-SARAGAT
+SEGNI
 
-SCAGLIA
+GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BOSCO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 2 ottobre 1968 Atti del Governo, registro n. 223, foglio n. 48. - GRECO
+alla Corte dei conti, addi' 16 ottobre 1963 Atti del Governo, registro n. 175, foglio n. 29. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1933, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-09-30;1652), e successive modificazioni;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti suindicati, e' ulteriormente modificato come appresso:  
   
-Art 59, relativo alle norme sulle propedeuticita' ed esami del corso di laurea in economia e commercio e' abrogato e sostituito dal seguente:  
-"Agli effetti dell'iscrizione sono da considerare materie propedeutiche:  
-a) le Istituzioni di diritto privato rispetto al Diritto commerciale, al Diritto privato comparato, al Diritto della navigazione;  
-b) le Istituzioni di diritto pubblico rispetto al Diritto pubblico regionale, al Diritto pubblico comparato, al Diritto amministrativo degli enti territoriali, al Diritto tributario, alla Contabilita' di Stato, alla Organizzazione internazionale, alla Finanza degli enti locali, al Diritto amministrativo;  
-c) l'Economia politica primo anno di corso - rispetto all'Economia bancaria ed alla Storia delle dottrine economiche;  
-d) l'Economia politica primo e secondo anno del corso - rispetto alla Teoria e politica dello sviluppo economico;  
-e) la Statistica primo anno del corso - rispetto alla Demografia;  
-f) la Matematica generale - rispetto alla Matematica finanziaria;  
-g) la Storia economica - rispetto alla Storia della banca, alla Storia ed istituzioni economiche afro-asiatiche, alla Storia dell'agricoltura, alla Storia del lavoro, alla Storia delle relazioni economiche internazionali, alla Sociologia;  
-h) la Ragioneria generale ed applicata primo e secondo anno del corso rispetto alla Organizzazione aziendale e alla Ragioneria pubblica;  
-i) il Diritto commerciale rispetto al Diritto industriale;  
-l) la Tecnica industriale e commerciale - rispetto alla Tecnica del commercio internazionale, alla Economia e finanza delle imprese di assicurazione, alla Tecnica amministrativa delle imprese di pubblici servizi, alla Tecnica delle negoziazioni di borsa, alla Tecnica delle ricerche di mercato e della distribuzione generale;  
-m) la Scienza delle finanze e diritto finanziario rispetto alla Economia e finanza della sicurezza sociale, alla Finanza degli enti locali;  
-n) la Matematica generale e la Ragioneria generale ed applicata primo e secondo anno del corso rispetto ai Principi e tecnica degli ausiliari meccanografici od elettronici;  
-o) le Istituzioni di diritto privato e le Istituzioni di diritto pubblico rispetto al Diritto del lavoro, al Diritto processuale civile, al Diritto internazionale;  
-p) la Statistica primo e secondo anno del corso e l'Economia politica primo e secondo anno del corso rispetto alla Economia e politica agraria, alla Scienza delle finanze e diritto finanziario, alla Politica economica e finanziaria;  
-q) la Matematica generale e la Economia politica primo e secondo anno del corso rispetto alla Ricerca operativa;  
-r) la Matematica generale, l'Economia politica prime e secondo anno del corso, la Statistica primo e secondo anno del corso rispetto all'Econometria;  
-s) la Economia politica primo e secondo anno del corso e la Geografia economica rispetto alla Economia dei trasporti;  
-t) la Ragioneria generale ed applicata primo e secondo anno del corso e la Storia economica rispetto alla Storia della ragioneria;  
-u) la Ragioneria generale ed applicata, il Diritto commerciale e la Tecnica industriale e commerciale rispetto alla Tecnica bancaria e professionale;  
-v) le Istituzioni di diritto privato, le Istituzioni di diritto pubblico ed il Diritto commerciale rispetto al Diritto pubblico dell'Economia, al Diritto fallimentare al Diritto e legislazione bancaria;  
-z) i Complementi di matematica per economisti rispetto all'Economia matematica.  
-Analogamente gli esami delle materie propedeutiche debbono precedere quelli delle materie a cui servono di preparazione.  
-Ai soli effetti degli esami, la tecnica bancaria e professionale e' propedeutica rispetto alla Tecnica del commercio internazionale, all'Economia e finanza delle imprese di assicurazione, alla Tecnica delle negoziazioni di borsa".  
-Art. 132. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica (indirizzo organico biologico ed inorganico-chimico-fisico) e' aggiunto quelle di: "Meccanismi delle reazioni organiche".  
-Art. 135. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica industriale e' aggiunto quello di: "Meccanismi delle reazioni organiche".  
-Art. 146. - All'elenco degli insegnamenti complementari del corso di laurea in matematica a indirizzo generale sono aggiunti i seguenti:  
-Analisi funzionale;  
-Algebra omologica;  
-Topologia algebrica.  
-Art. 147. - All'elenco degli insegnamenti complementari del corso di laurea in matematica ad indirizzo didattico sono aggiunti i seguenti:  
-Analisi funzionale;  
-Algebra omologica;  
-Topologia algebrica.  
-Art. 148. - All'elenco degli insegnamenti complementari del corso di laurea in matematica ad indirizzo applicativo (orientamento numerico e meccanico) sono aggiunti i seguenti:  
-Analisi funzionale;  
-Algebra omologica;  
-Topologia algebrica;  
-Teoria dei giochi.  
-Art. 152. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti i seguenti:  
-Biochimica applicata;  
-Fisiologia cellulare;  
-Fisiologia comparata;  
-Fitogeografia;  
-Citologia ed embriologia vegetale;  
-Ecologia vegetale;  
-Biologia vegetale applicata.  
-Art. 156. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti i seguenti:  
-Biochimica applicata;  
-Fisiologia cellulare;  
-Fisiologia comparata;  
-Fitogeografia;  
-Citologia ed embriologia vegetale;  
-Ecologia vegetale;  
-Biologia vegetale applicata.  
-Art. 159. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti i seguenti:  
-Geotecnica;  
-Paleografia;  
-Storia della geologia;  
-Biostratigrafia e Paleoecologia;  
-Sismologia;  
-Geofisica applicata.  
-Art. 244. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti i seguenti:  
-Acarologia e nematologia (semestrale);  
-Allevamento vegetale (semestrale);  
-Anatomia e sistematica dei legni;  
-Assistenza, consulenza e divulgazione agricola;  
-Biologia cellulare;  
-Citotassonomia (semestrale);  
-Cooperazione agricola;  
-Demografia zootecnica (semestrale);  
-Disegno (semestrale);  
-Fertilizzanti e fertilizzazione (semestrale);  
-Fisica del terreno (semestrale);  
-Fisioclimatologia animale (semestrale);  
-Fisiologia e tecnica della riproduzione (semestrale);  
-Fisiologia vegetale;  
-Fitogeografia ed ecologia vegetale;  
-Fitoiatria;  
-Genetica del miglioramento animale (semestrale);  
-Igiene zootecnica (semestrale);  
-Immunogenetica zootecnica (semestrale);  
-Legislazione zootecnica e annonaria (semestrale);  
-Micologia;  
-Microbiologia lattiero-casearia;  
-Nozioni di Scienza delle finanze (semestrale);  
-Organizzazione comparata dei servizi zootecnici nella C.E.E. (semestrale);  
-Organizzazione degli uffici di contabilita' ed elaborazione dei risultati contabili (semestrale);  
-Pianificazione agricola;  
-Riordinamento fondiario;  
-Scienza dell'alimentazione del bestiame e tecnica mangimistica;  
-Tecnica della meccanizzazione agricola;  
-Zootecnica montana (semestrale);  
-Zootecnica tropicale e subtropicale (semestrale).  
+Gli articoli dal n. 196 al n. 205 relativi agli Istituti di Caratteri distributivi degli edifici e di Fisica, Fisica tecnica e Impianti tecnici annessi alla Facolta' di architettura sono abrogati e sostituiti dai seguenti:  
+  
+Art. 196. - Sono costituiti presso la Facolta' di architettura i seguenti Istituti:  
+Istituto di Matematica;  
+Istituto di Caratteri stilistici e costruttivi dei monumenti;  
+Istituto di Composizione architettonica;  
+Istituto di Scienza delle costruzioni;  
+Istituto di Caratteri distributivi degli edifici;  
+Istituto di Fisica;  
+Istituto di Urbanistica.  
+Tali Istituti hanno lo scopo di promuovere e coordinare l'insegnamento e la ricerca nelle discipline di loro pertinenza. Essi utilizzano i locali, il personale e le dotazioni assegnati alle Cattedre che li costituiscono.  
+Art. 197. - La Facolta' determina, con propria deliberazione, alla fine di ciascun anno e per l'anno accademico successivo quali siano gli insegnamenti ufficiali che si svolgono presso i singoli Istituti.  
+Art. 198. - Ogni Istituto e' retto da un direttore che e' responsabile dell'amministrazione e del funzionamento dell'Istituto stesso. Norme particolari al riguardo potranno essere stabilite dalla Facolta' nei casi in cui se ne ravvisi l'opportunita'.  
+Art. 199. - Qualora fra gli insegnamenti assegnati ad un Istituto ve ne sia uno solo tenuto da un professore di ruolo, questi e' di diritto il direttore dell'Istituto.  
+Nel caso che vi siano piu' professori di ruolo, la Facolta', sentito il parere dei medesimi, designera', scegliendo fra di essi, il direttore dell'istituto che verra' nominato con decreto rettorale per un periodo di tre anni.  
+Se un Istituto manca di professore di ruolo, la direzione verra' affidata, di regola, ad un professore di ruolo di materia affine, designato dalla Facolta' e nominato con decreto rettorale per un periodo di tre anni.  
+Art. 200. - Possono essere addetti ad un Istituto, assistenti, tecnici, bibliotecari, personale amministrativo e subalterno e salariati appartenenti ai ruoli universitari.  
+Art. 201. - E' facolta' del direttore di un Istituto di rilasciare a chi frequenta l'istituto per almeno sei mesi un attestato degli studi compiuti e dei risultati raggiunti nelle ricerche.  
+Art. 202. - Ogni Istituto potra' eventualmente disporre, secondo modalita' intese ad assicurare il raggiungimento delle finalita' nel modo piu' idoneo, di fondi per la ricerca e di borse di studio provenienti da Enti pubblici o privati italiani e stranieri.  
+Art. 220. - Agli insegnamenti complementari del corso di laurea in Medicina veterinaria sono aggiunti quelli di:  
+13) Semeiotica chirurgica;  
+14) Semeiotica medica;  
+15) Ematologia comparata;  
+16) Patologia aviare.  
+Dopo l'art. 223, sono aggiunti i seguenti nuovi articoli relativi alla costituzione e la regolamentazione degli Istituti annessi alla Facolta' di medicina veterinaria con il conseguente spostamento della numerazione degli articoli successivi.  
+Art. 224. - Sono costituiti presso la Facolta' di Medicina veterinaria, i seguenti Istituti:  
+Istituto di Anatomia normale veterinaria con istologia ed embriologia;  
+Istituto di Patologia generale ed Anatomia patologica;  
+Istituto di Patologia speciale e Clinica medica;  
+Istituto di Patologia speciale e Clinica chirurgica;  
+Istituto di Malattie infettive, profilassi e polizia veterinaria;  
+Istituto di Zootecnica generale.  
+Tali Istituti hanno lo scopo di promuovere e coordinare l'insegnamento e la ricerca nelle discipline di loro pertinenza.  
+Art. 225. - La Facolta' determina, con propria deliberazione, alla fine di ciascun anno e per l'anno accademico successivo quali siano gli insegnamenti ufficiali che si svolgeranno presso i singoli Istituti.  
+Art. 226. - Ogni Istituto e' retto da un direttore che e' responsabile della amministrazione e del funzionamento dell'Istituto stesso.  
+Norme particolari al riguardo potranno essere stabilite dalla Facolta' nei casi in cui se ne ravvisi l'opportunita'.  
+Art. 227. - Qualora tra gli insegnamenti assegnati ad un Istituto ve ne sia uno solo tenuto da un professore di ruolo, questi e' di diritto il direttore dell'Istituto.  
+Nel caso che vi siano piu' professori di ruolo, la Facolta' sentito il parere dei medesimi, designera', scegliendo fra essi, il direttore dell'Istituto, che verra' nominato con decreto rettorale per un periodo di tre anni.  
+Se un Istituto manca di professore di ruolo, la direzione verra' affidata di regola ad un professore di ruolo di materia affine, designato dalla Facolta' e nominato con decreto rettorale per un periodo di tre anni.  
+Art. 228. - Possono essere addetti ad un Istituto assistenti, tecnici, bibliotecari, personale amministrativo e subalterni appartenenti ai ruoli universitari.  
+Art. 229. - E' facolta' del direttore di un Istituto di rilasciare a chi frequenta l'istituto per almeno sei mesi un attestato degli studi compiuti e dei risultati raggiunti nelle ricerche.  
+Art. 230. - Ogni Istituto potra' eventualmente disporre, secondo modalita' intese ad assicurare il raggiungimento delle finalita' nel modo piu' idoneo, di fondi per la ricerca di borse di studio provenienti da Enti pubblici e privati italiani e stranieri.  
+Dopo l'art. 396, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione del "Corso di specializzazione in Teorie e tecniche per l'impiego dei calcolatori elettronici" con il conseguente spostamento della numerazione degli articoli successivi.  
+  
+Corso di specializzazione in Teorie e tecniche per l'impiego dei calcolatori elettronici  
+  
+Art. 397. - Presso la Facolta' di ingegneria dell'Universita' degli studi di Napoli e' istituito un corso in "Teorie e tecniche per l'impiego dei calcolatori elettronici". La durata del corso e' di sei mesi. Esso si svolge presso il Centro di calcolo elettronico della Facolta' medesima.  
+Art. 398. - Il direttore del corso ed i docenti sono designati all'inizio dell'anno accademico dal Consiglio della Facolta' di Ingegneria su proposta del preside della Facolta'.  
+Art. 399. - Al corso sono ammessi i laureati in Ingegneria, Matematica, Fisica, Chimica, Discipline nautiche, Economia e commercio.  
+Del numero massimo delle iscrizioni e dell'accettazione delle domande giudica anno per anno il Consiglio di Facolta' su proposta del direttore del corso.  
+Art. 400. - Il corso comprende i seguenti insegnamenti:  
+1) Logica dei calcolatori elettronici;  
+2) Componenti per calcolatori elettronici;  
+3) Ricerca operativa e programmazione lineare;  
+4) Elementi di Statistica; Metodi Montecarlo; Teoria delle code;  
+5) Calcolo numerico ed elaborazione di dati;  
+6) Metodi di programmazione per calcolatori numerici;  
+7) Calcolatori analogici e programmazione.  
+Durante il corso i partecipanti saranno tenuti a compiere esercitazioni pratiche sui calcolatori in dotazione del Centro di calcolo della Facolta' di Ingegneria.  
+Art. 401. - Il corso si conclude con esami consistenti in una prova scritta ed un colloquio di cultura generale sugli argomenti trattati.  
+Della Commissione d'esame fanno parte tutti i docenti del corso.  
+Art. 402. - A coloro che hanno frequentato il corso e superati gli esami, sara' rilasciato un attestato.  
+Art. 403. - Gli iscritti al corso sono tenuti a pagare le tasse di iscrizione, le sopratasse ed i contributi che vengono fissati annualmente dal Consiglio di amministrazione dell'Universita', su proposta del Consiglio di Facolta'.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 agosto 1968
+### Roma, addi' 2 settembre 1963
 
-SARAGAT SCAGLIA
+SEGNI GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 2 ottobre 1968
+Registrato alla Corte dei conti, addi' 16 ottobre 1963
 
-Atti del Governo, registro n. 223, foglio n. 48. - GRECO
+Atti del Governo, registro n. 175, foglio n. 29. - VILLA

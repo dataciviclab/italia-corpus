@@ -1,83 +1,96 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1978 n. 877
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1981 n. 901
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1978 n. 877
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1981 n. 901
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ancona.
 ------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Ancona, approvato con [decreto del Presidente della Repubblica 4 ottobre 1971, n. 1330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-10-04;1330) e modificato con [decreto del Presidente della Repubblica 7 agosto 1973, n. 909](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-08-07;909), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ancona e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' di Ancona, approvato con [decreto del Presidente della Repubblica 4 ottobre 1971, n. 1330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-10-04;1330) e modificato con [decreto del Presidente della Repubblica 7 agosto 1973, n. 909](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-08-07;909), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ancona e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);  
-Sentito, il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Lo statuto dell'Universita' di Ancona, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Ancona, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Dopo l'art. 28 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in odontostomatologia:  
-  
-Scuola di specializzazione in odontostomatologia  
-  
-Art. 29. - La scuola di specializzazione in odontostomatologia ha sede presso la clinica odontoiatrica e conferisce il diploma di specialista in odontostomatologia.  
-Art. 30. - La direzione della scuola e' affidata al professore di ruolo della stessa materia di specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Art. 31. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Art. 32. - La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazione.  
-Art. 33. - Il numero massimo degli allievi e' di sette per anno di corso e complessivamente di ventuno iscritti per l'intero corso di studi.  
-Art. 34. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 35. - Il piano di studi e' il seguente:  
+Dopo l'art. 28 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia toracica.  
+Art. 29. - La scuola di specializzazione in chirurgia toracica ha sede presso l'istituto di patologia chirurgica e conferisce il diploma di specialista in chirurgia toracica.  
+Art. 30. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione e' affidata a professore associato che pure insegni nella scuola medesima.  
+Art. 31. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Art. 32. - La durata del corso di studi e' di 5 anni, non e' suscettibile di abbreviazione e prevede l'insegnamento di tutte le branche della chirurgia toracica, chirurgia polmonare, chirurgia cardiaca, chirurgia esofagea, chirurgia del mediastino e della parete toracica.  
+Art. 33. - Il numero massimo degli allievi e' complessivamente di trenta iscritti per l'intero corso di studi.  
+Art. 34. - L'ammissione al corso avviene per concorso per titoli ed esami.  
+Art. 35. - Le materie di insegnamento sono le seguenti:  
 1° Anno:  
-1) odontotecnica;  
-2) embriologia ed anatomia dentaria e maxillo-facciale;  
-3) microbiologia e igiene orale;  
-4) farmacologia odontostomatologica;  
-5) patologia odontostomatologica;  
-6) anestesia e chirurgia stomatologica;  
-7) odontoiatria conservativa (1° anno).  
-Esercitazioni pratiche.  
+1) embriologia, anatomia descrittiva e topografica del torace e degli organi endotoracici;  
+2) anatomia chirurgica del torace e degli organi endotoracici;  
+3) anatomia patologica delle malattie del torace (biennale I);  
+4) anestesia in chirurgia toracica.  
 2° Anno:  
-1) odontoiatria conservativa (2° anno);  
-2) clinica protesica dentaria e maxillo-facciale (1° anno);  
-3) parodontologia (1° anno);  
-4) anatomia e istopatologia odontostomatologica;  
-5) odontoiatria infantile;  
-6) radiologia odontostomatologica;  
-7) ortopedia dento-maxillo-facciale (1° anno);  
-8) chirurgia maxillo-facciale (1° anno).  
-Esercitazioni pratiche.  
-3° Anno:  
-1) clinica odontostomatologica;  
-2) chirurgia maxillo-facciale (2° anno);  
-3) medicina legale odontostomatologica e delle assicurazioni;  
-4) ortopedia dento-maxillo-facciale (2° anno);  
-5) clinica protesica dentaria e maxillo-facciale (2° anno);  
-6) parodontologia (2° anno).  
-Esercitazioni pratiche.  
-Art. 36. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere le prove di esame.  
-Art. 37. - Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.  
-Art. 38. - Ogni iscritto deve provvedere al proprio corredo di strumenti e materiale.  
-Al termine dei corsi di studi per il conseguimento del diploma di specialista in odontostomatologia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+1) fisiopatologia dell'apparato respiratorio;  
+2) fisiopatologia dell'apparato cardiocircolatorio;  
+3) semeiotica dell'apparato respiratorio, dell'esofago e del mediastino;  
+4) semeiotica dell'apparato cardiocircolatorio;  
+5) anatomia patologica delle malattie del torace (biennale II). 3° Anno:  
+1) patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (biennale I);  
+2) patologia e clinica chirurgica delle affezioni del cuore e dei grossi vasi endotoracici;  
+3) patologia e clinica chirurgica delle affezioni dell'esofago e del diaframma;  
+4) elementi di terapia medica delle cardio-angiopatie;  
+5) elementi di fisioterapia respiratoria;  
+6) diagnostica radiologica nelle malattie chirurgiche del torace.  
+4° Anno:  
+1) patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (biennale II);  
+2) tecnica operatoria per le affezioni della parete toracica, dell'apparato respiratorio, dell'esofago, del mediastino e del diaframma (biennale I);  
+3) tecnica operatoria delle affezioni del cuore, pericardio e grossi vasi endotoracici;  
+4) principi e tecniche della circolazione extracorporea.  
+5° Anno:  
+1) terapia intensiva e rianimazione in chirurgia toracica;  
+2) tecnica operatoria per le affezioni della parete toracica, dell'apparato respiratorio, dell'esofago, del mediastino e del diaframma (biennale II);  
+3) terapia chirurgica della tbc pleuropolmonare.  
+Art. 36. - Il corso si compone di lezioni, di esercitazioni pratiche, di conferenze riguardanti argomenti specialistici, di turni in corsia ed in sala operatoria.  
+La frequenza ai corsi, in corsia e in sala operatoria, alle esercitazioni e' obbligatoria. In caso contrario i candidati non possono ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.  
+Art. 37. - Alla fine di ciascun anno di corso gli specializzandi che abbiano ottenuto la firma di frequenza devono sostenere un esame di profitto sulle materie di insegnamento il cui superamento e' condizione necessaria ed indispensabile per ottenere l'iscrizione all'anno successivo e, per quelli che sono stati iscritti al quinto anno, per l'ammissione all'esame di diploma.  
+Durante il corso gli specializzandi frequenteranno la sala operatoria in maniera assidua, devono assistere a numerosi interventi di chirurgia toracica ed essere in grado di eseguirne essi stessi.  
+Art. 38. - Per tutti gli specializzandi che abbiano superato gli esami dei cinque anni, alla fine del quinto anno di corso ha luogo l'esame di diploma, consistente nella presentazione e discussione di una dissertazione scritta su un argomento di chirurgia toracica concordata con la direzione della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 ottobre 1978
+### Dato a Roma, 25 febbraio 1981
 
-PERTINI PEDINI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 23 dicembre 1978
+Registrato alla Corte dei conti, addi' 30 gennaio 1982
 
-Registro n. 133 Istruzione, foglio n. 254
+Registro n. 12 Istruzione, foglio n. 26

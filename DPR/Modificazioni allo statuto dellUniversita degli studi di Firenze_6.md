@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 768
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1952 n. 4543
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 768
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1952 n. 4543
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -10,17 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Firenze approvato con [regio decreto 13 ottobre 1927, numero 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e modificato con [regio decreto 30 ottobre 1930, n. 1820](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1820), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), modificato con i [regi decreti 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2230); [30 ottobre 1930, n. 1826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1826); [1 ottobre 1931, n. 1441](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-01;1441); [6 dicembre 1934, n. 2449](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-06;2449); [1 ottobre 1936, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2475); [27 ottobre 1937, n. 2620](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1937-10-27;2620); [5 maggio 1939, n. 1165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-05-05;1165); [12 ottobre 1939, n. 1712](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-10-12;1712); [26 ottobre 1940, n. 2057](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2057); [27 aprile 1942, n. 467](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-04-27;467); [24 ottobre 1942, n. 1439 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1439) [11 giugno 1950, n. 616](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;616); [30 ottobre 1950, n. 1127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1127); [30 ottobre 1950, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1304); [30 giugno 1951, n. 957](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-30;957); [27 ottobre 1951, n. 1681](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1681) e [23 gennaio 1952, n. 168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;168);
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico del leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,248 +28,234 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato per la parte relativa alle scuole e corsi di perfezionamento annessi alla Facolta' di scienze politiche "Cesare Alfieri".
 
-Art. 19. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto il seguente:
+L'ordinamento della Scuola di perfezionamento in studi politici internazionali, e' modificato nel modo seguente:
 
-Storia e sistemi delle relazioni fra Stato e Chiesa nell'eta' moderna.
+Scuola di perfezionamento in studi politici internazionali
 
-Art. 57. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:
+Art. 147. - Alla Scuola di perfezionamento in studi politici internazionali possono iscriversi i laureati in scienze politiche e sociali, in scienze politiche, in giurisprudenza, in economia e commercio, nonche' i laureati stranieri, la cui preparazione scientifica sia ritenuta idonea dal Consiglio della scuola.
 
-Corso di laurea in materie letterarie
+Art. 148. - La Scuola e' retta da un direttore, nominato per un biennio dal rettore della Universita' su proposta del Consiglio della facolta' di scienze politiche "Cesare Alfieri".
 
-1) Etnomusicologia;
+La nomina dei professori incaricati degli insegnamenti e' fatta, su proposta del direttore, dal Consiglio della facolta' di scienze politiche.
 
-2) Storia della musica;
+Il Consiglio della scuola e' costituito dal direttore e dai professori.
 
-3) Archivistica;
+Art. 149. - La Scuola rilascia, dopo due anni di corso e dopo che i candidati abbiano superato le prove nelle materie di cui all'articolo seguente, nonche' dopo l'esito favorevole dell'esame finale di cui all'art. 153, un diploma di perfezionamento in studi politici internazionali.
 
-4) Biblioteconomia e bibliografia;
+Art. 150. - Gli insegnamenti della Scuola sono i seguenti:
 
-5) Archeologia medioevale;
+1) Problemi di diritto internazionale pubblico (biennale);
 
-6) Istituzioni dei paesi di lingua inglese;
+2) Problemi di diritto internazionale privato, amministrativo, penale (biennale);
 
-7) Storia delle dottrine politiche;
+3) Problemi di diritto pubblico comparato (biennale);
 
-8) Dialettologia ispano-americana;
+4) Storia diplomatica contemporanea;
 
-9) Filosofia del linguaggio;
+5) Problemi economici, finanziari e monetari internazionali;
 
-10) Psicologia del linguaggio;
+6) Le organizzazioni internazionali;
 
-11) Fonetica generale e sperimentale;
+7) La comunita' internazionale nella storia del pensiero politico;
 
-12) Linguistica strutturale;
+8) Le ideologie politiche nelle relazioni internazionali.
 
-13) Lingua e letteratura catalana;
+Art. 151. - Gli insegnamenti sono integrati da conferenze e da brevi corsi di lezioni su particolari argomenti di attualita', secondo programmi fissati anno per anno dal Consiglio della facolta' di scienze politiche.
 
-14) Geografia umana;
+Art. 152. - Gli esami delle materie biennali devono essere sostenuti al termine di ogni anno e vertono sul programma svolto nell'anno accademico.
 
-15) Geografia regionale;
+Ogni Commissione per gli esami di profitto e' composta di tre professori designati dal direttore della Scuola.
 
-16) Geografia politica ed economica;
+Art. 153. - L'esame di diploma consiste nella discussione orale di una memoria originale, il cui argomento deve essere preventivamente approvato dal direttore della Scuola, dinanzi ad una Commissione composta di cinque professori, compreso il direttore che la presiede.
 
-17) Storia dell'arte greca e romana;
+Art. 154. - Le tasse e le sopratasse della Scuola tono stabilite dalle competenti autorita' accademiche.
 
-18) Storia del movimento sindacale;
+La Scuola di perfezionamento in studi corporativi e' trasformata in "Scuola di perfezionamento in studi sindacali e aziendali", con il seguente nuovo ordinamento:
 
-19) Storia della linguistica;
+Scuola di perfezionamento in studi sindacali e aziendali
 
-20) Semantica e lessicologia;
+Art. 155. - Alla Scuola di perfezionamento in studi sindacali e aziendali possono iscriversi i laureati in scienze politiche e sociali, in scienze politiche, in giurisprudenza, in economia e commercio.
 
-21) Filologia slava;
+Art. 156. - La Scuola e' retta da un direttore, nominato per un biennio dal rettore dell'Universita', su proposta del Consiglio della facolta' di scienze politiche "Cesare Alfieri".
 
-22) Lingua e letteratura giapponese.
+La nomina dei professori incaricati degli insegnamenti e' fatta dal Consiglio della facolta' di scienze politiche, su proposta del direttore della Scuola.
 
-Art. 58. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:
+Il Consiglio della scuola e' costituito dal direttore e dai professori.
 
-Corso di laurea in pedagogia
+Art. 157. - La Scuola rilascia, dopo due anni di corso e dopo che i candidati abbiano superato le prove nelle materie di cui all'articolo seguente, nonche' dopo l'esito favorevole dell'esame finale, di cui all'art. 159, un diploma di perfezionamento in studi sindacali e aziendali.
 
-1) Etnomusicologia;
+Art. 158. - Gli insegnamenti impartiti dalla Scuola sono:
 
-2) Metodologia dell'insegnamento della lingua inglese;
+1) Storia del sindacalismo e politica delle organizzazioni operaie;
 
-3) Metodologia dell'insegnamento della lingua spagnola;
+2) Problemi di economia e di politica economica;
 
-4) Didattica dell'insegnamento delle lingue moderne;
+3) Problemi di diritto commerciale e industriale;
 
-5) Psicologia del linguaggio;
+4) Problemi di diritto sindacale e del lavoro aziendale;
 
-6) Storia della filosofia moderna e contemporanea;
+5) Organizzazione tecnica e amministrativa delle imprese;
 
-7) Teoria e tecnica delle comunicazioni di massa;
+6) Struttura e tecnica delle organizzazioni sindacali;
 
-8) Psicologia dell'apprendimento;
+7) Problemi sociali del lavoro;
 
-9) Storia della scuola e delle istituzioni scolastiche;
+8) Psicotecnica;
 
-10) Psicodiagnostica;
+9) Statistica applicata all'aziende e alle organizzazioni sindacali;
 
-11) Psicologia sperimentale;
+10) Problemi di diritto pubblico comparato del lavoro.
 
-12) Pedagogia comparata;
+Gli insegnamenti sono integrati da esercitazioni, da esperienze pratiche, da conferenze e da brevi corsi di lezione su particolari argomenti, secondo programmi fissati anno per anno dal Consiglio della facolta' di scienze politiche.
 
-13) Ortopedagogia;
+Art. 159. - Ogni Commissione per gli esami di profitto e' composta di tre professori designati dal direttore fra gli insegnanti della Scuola.
 
-14) Letteratura per l'infanzia;
+L'esame di diploma consiste nella discussione orale di una memoria originale, il cui argomento deve essere preventivamente approvato dal direttore della Scuola, dinanzi ad una Commissione composta di sette professori, compreso il direttore che la presiede.
 
-15) Pedagogia sperimentale.
+Art. 160. - Le tasse e le sopratasse della Scuola sono stabilite dalle competenti autorita' accademiche.
 
-Art. 59. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:
+Il corso di perfezionamento in studi coloniali e' trasformato in "corso di perfezionamento sui problemi dell'emigrazione", con il seguente nuovo ordinamento:
 
-Corso di laurea in lingue e letterature straniere
+Corso di perfezionamento sui problemi dell'emigrazione
 
-1) Metodologia dell'insegnamento della lingua inglese;
+Art. 161. - Al corso di perfezionamento sui problemi dell'emigrazione, che ha la durata di un anno, possono iscriversi i laureati di qualunque Universita'.
 
-2) Metodologia dell'insegnamento della lingua spagnola;
+Art. 162. - Il direttore del corso e' nominato annualmente dal rettore dell'Universita', su proposta del Consiglio della facolta' di scienze politiche "Cesare Alfieri".
 
-3) Filologia inglese;
+La nomina dei professori incaricati degli insegnamenti e' fatta dal Consiglio della facolta' di scienze politiche su proposta del direttore.
 
-4) Istituzioni dei paesi di lingua inglese;
+Art. 163. - Dopo aver superato gli esami delle materie di cui all'articolo seguente e dopo l'esito favorevole dell'esame finale, viene rilasciato un certificato di frequenza e di esame.
 
-5) Dialettologia ispano-americana;
+Art. 164. - Gli insegnamenti del corso sono:
 
-6) Filosofia del linguaggio;
+1) Esperienze e problemi dell'emigrazione italiana;
 
-7) Didattica dell'insegnamento delle lingue moderne;
+2) Legislazione italiana e comparata sull'emigrazione all'estero;
 
-8) Psicologia del linguaggio;
+3) Tutela giuridica dell'emigrazione;
 
-9) Fonetica generale e sperimentale;
+4) Problemi economici e sociali dell'emigrazione interna;
 
-10) Linguistica strutturale;
+5) Problemi economici e finanziari dell'emigrazione all'estero;
 
-11) Lingua e letteratura catalana;
+6) Geografia economica e sociale in rapporto all'emigrazione.
 
-12) Storia della linguistica;
+Art. 165. - Gli insegnamenti sono integrati da esercitazioni e da conferenze su particolari argomenti, secondo programmi fissati anno per anno dal Consiglio della facolta' di scienze politiche.
 
-13) Semantica e lessicologia;
+Art. 166. - Ogni Commissione per gli esami di profitto e' composta di tre professori designati dal direttore fra gli insegnanti del corso.
 
-14) Filologia slava;
-
-15) Lingua e letteratura giapponese.
-
-Art. 65, relativo all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' modificato nel senso che l'insegnamento di "Biochimica clinica" muta la denominazione in quella di "Biochimica applicata".
-
-Art. 78. - All'elenco degli insegnamenti complementari del corso di laurea in matematica e' aggiunto il seguente:
-
-Strutture algebriche.
+Art. 167. - Le tasse e sopratasse del corso sono stabilite dalle competenti autorita' accademiche.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 2 ottobre 1972
+Dato a Roma, addi' 26 ottobre 1952
 
-LEONE
+EINAUDI
 
-SCALFARO
+SEGNI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: ZOLI
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 5 dicembre 1972 Atti del Governo, registro n. 253, foglio n. 108. - CARUSO
+alla Corte dei conti, addi' 24 aprile 1953 Atti del Governo, registro n. 76, foglio n. 46. - PALLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Firenze approvato con [regio decreto 13 ottobre 1927, numero 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e modificato con [regio decreto 30 ottobre 1930, n. 1820](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1820), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), modificato con i [regi decreti 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2230); [30 ottobre 1930, n. 1826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1826); [1 ottobre 1931, n. 1441](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-01;1441); [6 dicembre 1934, n. 2449](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-06;2449); [1 ottobre 1936, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2475); [27 ottobre 1937, n. 2620](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1937-10-27;2620); [5 maggio 1939, n. 1165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-05-05;1165); [12 ottobre 1939, n. 1712](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-10-12;1712); [26 ottobre 1940, n. 2057](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2057); [27 aprile 1942, n. 467](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-04-27;467); [24 ottobre 1942, n. 1439 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1439) [11 giugno 1950, n. 616](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;616); [30 ottobre 1950, n. 1127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1127); [30 ottobre 1950, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1304); [30 giugno 1951, n. 957](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-30;957); [27 ottobre 1951, n. 1681](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1681) e [23 gennaio 1952, n. 168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;168);  
+Veduto il testo unico del leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato per la parte relativa alle scuole e corsi di perfezionamento annessi alla Facolta' di scienze politiche "Cesare Alfieri".  
+L'ordinamento della Scuola di perfezionamento in studi politici internazionali, e' modificato nel modo seguente:  
   
-Art. 19. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto il seguente:  
-Storia e sistemi delle relazioni fra Stato e Chiesa nell'eta' moderna.  
-Art. 57. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:  
+Scuola di perfezionamento in studi politici internazionali  
   
-Corso di laurea in materie letterarie  
+Art. 147. - Alla Scuola di perfezionamento in studi politici internazionali possono iscriversi i laureati in scienze politiche e sociali, in scienze politiche, in giurisprudenza, in economia e commercio, nonche' i laureati stranieri, la cui preparazione scientifica sia ritenuta idonea dal Consiglio della scuola.  
+Art. 148. - La Scuola e' retta da un direttore, nominato per un biennio dal rettore della Universita' su proposta del Consiglio della facolta' di scienze politiche "Cesare Alfieri".  
+La nomina dei professori incaricati degli insegnamenti e' fatta, su proposta del direttore, dal Consiglio della facolta' di scienze politiche.  
+Il Consiglio della scuola e' costituito dal direttore e dai professori.  
+Art. 149. - La Scuola rilascia, dopo due anni di corso e dopo che i candidati abbiano superato le prove nelle materie di cui all'articolo seguente, nonche' dopo l'esito favorevole dell'esame finale di cui all'art. 153, un diploma di perfezionamento in studi politici internazionali.  
+Art. 150. - Gli insegnamenti della Scuola sono i seguenti:  
+1) Problemi di diritto internazionale pubblico (biennale);  
+2) Problemi di diritto internazionale privato, amministrativo, penale (biennale);  
+3) Problemi di diritto pubblico comparato (biennale);  
+4) Storia diplomatica contemporanea;  
+5) Problemi economici, finanziari e monetari internazionali;  
+6) Le organizzazioni internazionali;  
+7) La comunita' internazionale nella storia del pensiero politico;  
+8) Le ideologie politiche nelle relazioni internazionali.  
+Art. 151. - Gli insegnamenti sono integrati da conferenze e da brevi corsi di lezioni su particolari argomenti di attualita', secondo programmi fissati anno per anno dal Consiglio della facolta' di scienze politiche.  
+Art. 152. - Gli esami delle materie biennali devono essere sostenuti al termine di ogni anno e vertono sul programma svolto nell'anno accademico.  
+Ogni Commissione per gli esami di profitto e' composta di tre professori designati dal direttore della Scuola.  
+Art. 153. - L'esame di diploma consiste nella discussione orale di una memoria originale, il cui argomento deve essere preventivamente approvato dal direttore della Scuola, dinanzi ad una Commissione composta di cinque professori, compreso il direttore che la presiede.  
+Art. 154. - Le tasse e le sopratasse della Scuola tono stabilite dalle competenti autorita' accademiche.  
+La Scuola di perfezionamento in studi corporativi e' trasformata in "Scuola di perfezionamento in studi sindacali e aziendali", con il seguente nuovo ordinamento:  
   
-1) Etnomusicologia;  
-2) Storia della musica;  
-3) Archivistica;  
-4) Biblioteconomia e bibliografia;  
-5) Archeologia medioevale;  
-6) Istituzioni dei paesi di lingua inglese;  
-7) Storia delle dottrine politiche;  
-8) Dialettologia ispano-americana;  
-9) Filosofia del linguaggio;  
-10) Psicologia del linguaggio;  
-11) Fonetica generale e sperimentale;  
-12) Linguistica strutturale;  
-13) Lingua e letteratura catalana;  
-14) Geografia umana;  
-15) Geografia regionale;  
-16) Geografia politica ed economica;  
-17) Storia dell'arte greca e romana;  
-18) Storia del movimento sindacale;  
-19) Storia della linguistica;  
-20) Semantica e lessicologia;  
-21) Filologia slava;  
-22) Lingua e letteratura giapponese.  
-Art. 58. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:  
+Scuola di perfezionamento in studi sindacali e aziendali  
   
-Corso di laurea in pedagogia  
+Art. 155. - Alla Scuola di perfezionamento in studi sindacali e aziendali possono iscriversi i laureati in scienze politiche e sociali, in scienze politiche, in giurisprudenza, in economia e commercio.  
+Art. 156. - La Scuola e' retta da un direttore, nominato per un biennio dal rettore dell'Universita', su proposta del Consiglio della facolta' di scienze politiche "Cesare Alfieri".  
+La nomina dei professori incaricati degli insegnamenti e' fatta dal Consiglio della facolta' di scienze politiche, su proposta del direttore della Scuola.  
+Il Consiglio della scuola e' costituito dal direttore e dai professori.  
+Art. 157. - La Scuola rilascia, dopo due anni di corso e dopo che i candidati abbiano superato le prove nelle materie di cui all'articolo seguente, nonche' dopo l'esito favorevole dell'esame finale, di cui all'art. 159, un diploma di perfezionamento in studi sindacali e aziendali.  
+Art. 158. - Gli insegnamenti impartiti dalla Scuola sono:  
+1) Storia del sindacalismo e politica delle organizzazioni operaie;  
+2) Problemi di economia e di politica economica;  
+3) Problemi di diritto commerciale e industriale;  
+4) Problemi di diritto sindacale e del lavoro aziendale;  
+5) Organizzazione tecnica e amministrativa delle imprese;  
+6) Struttura e tecnica delle organizzazioni sindacali;  
+7) Problemi sociali del lavoro;  
+8) Psicotecnica;  
+9) Statistica applicata all'aziende e alle organizzazioni sindacali;  
+10) Problemi di diritto pubblico comparato del lavoro.  
+Gli insegnamenti sono integrati da esercitazioni, da esperienze pratiche, da conferenze e da brevi corsi di lezione su particolari argomenti, secondo programmi fissati anno per anno dal Consiglio della facolta' di scienze politiche.  
+Art. 159. - Ogni Commissione per gli esami di profitto e' composta di tre professori designati dal direttore fra gli insegnanti della Scuola.  
+L'esame di diploma consiste nella discussione orale di una memoria originale, il cui argomento deve essere preventivamente approvato dal direttore della Scuola, dinanzi ad una Commissione composta di sette professori, compreso il direttore che la presiede.  
+Art. 160. - Le tasse e le sopratasse della Scuola sono stabilite dalle competenti autorita' accademiche.  
+Il corso di perfezionamento in studi coloniali e' trasformato in "corso di perfezionamento sui problemi dell'emigrazione", con il seguente nuovo ordinamento:  
   
-1) Etnomusicologia;  
-2) Metodologia dell'insegnamento della lingua inglese;  
-3) Metodologia dell'insegnamento della lingua spagnola;  
-4) Didattica dell'insegnamento delle lingue moderne;  
-5) Psicologia del linguaggio;  
-6) Storia della filosofia moderna e contemporanea;  
-7) Teoria e tecnica delle comunicazioni di massa;  
-8) Psicologia dell'apprendimento;  
-9) Storia della scuola e delle istituzioni scolastiche;  
-10) Psicodiagnostica;  
-11) Psicologia sperimentale;  
-12) Pedagogia comparata;  
-13) Ortopedagogia;  
-14) Letteratura per l'infanzia;  
-15) Pedagogia sperimentale.  
-Art. 59. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:  
+Corso di perfezionamento sui problemi dell'emigrazione  
   
-Corso di laurea in lingue e letterature straniere  
-  
-1) Metodologia dell'insegnamento della lingua inglese;  
-2) Metodologia dell'insegnamento della lingua spagnola;  
-3) Filologia inglese;  
-4) Istituzioni dei paesi di lingua inglese;  
-5) Dialettologia ispano-americana;  
-6) Filosofia del linguaggio;  
-7) Didattica dell'insegnamento delle lingue moderne;  
-8) Psicologia del linguaggio;  
-9) Fonetica generale e sperimentale;  
-10) Linguistica strutturale;  
-11) Lingua e letteratura catalana;  
-12) Storia della linguistica;  
-13) Semantica e lessicologia;  
-14) Filologia slava;  
-15) Lingua e letteratura giapponese.  
-Art. 65, relativo all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' modificato nel senso che l'insegnamento di "Biochimica clinica" muta la denominazione in quella di "Biochimica applicata".  
-Art. 78. - All'elenco degli insegnamenti complementari del corso di laurea in matematica e' aggiunto il seguente:  
-Strutture algebriche.  
+Art. 161. - Al corso di perfezionamento sui problemi dell'emigrazione, che ha la durata di un anno, possono iscriversi i laureati di qualunque Universita'.  
+Art. 162. - Il direttore del corso e' nominato annualmente dal rettore dell'Universita', su proposta del Consiglio della facolta' di scienze politiche "Cesare Alfieri".  
+La nomina dei professori incaricati degli insegnamenti e' fatta dal Consiglio della facolta' di scienze politiche su proposta del direttore.  
+Art. 163. - Dopo aver superato gli esami delle materie di cui all'articolo seguente e dopo l'esito favorevole dell'esame finale, viene rilasciato un certificato di frequenza e di esame.  
+Art. 164. - Gli insegnamenti del corso sono:  
+1) Esperienze e problemi dell'emigrazione italiana;  
+2) Legislazione italiana e comparata sull'emigrazione all'estero;  
+3) Tutela giuridica dell'emigrazione;  
+4) Problemi economici e sociali dell'emigrazione interna;  
+5) Problemi economici e finanziari dell'emigrazione all'estero;  
+6) Geografia economica e sociale in rapporto all'emigrazione.  
+Art. 165. - Gli insegnamenti sono integrati da esercitazioni e da conferenze su particolari argomenti, secondo programmi fissati anno per anno dal Consiglio della facolta' di scienze politiche.  
+Art. 166. - Ogni Commissione per gli esami di profitto e' composta di tre professori designati dal direttore fra gli insegnanti del corso.  
+Art. 167. - Le tasse e sopratasse del corso sono stabilite dalle competenti autorita' accademiche.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 ottobre 1972
+### Dato a Roma, addi' 26 ottobre 1952
 
-LEONE SCALFARO
+EINAUDI SEGNI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: ZOLI
 
-Registrato alla Corte dei conti, addi' 5 dicembre 1972
+Registrato alla Corte dei conti, addi' 24 aprile 1953
 
-Atti del Governo, registro n. 253, foglio n. 108. - CARUSO
+Atti del Governo, registro n. 76, foglio n. 46. - PALLA

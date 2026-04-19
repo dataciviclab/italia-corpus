@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1985 n. 748
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 399
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1985 n. 748
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 399
+=============================================================
 
 Autorizzazione alla Lega italiana per la lotta contro i tumori, in 
 Roma, ad accettare un legato.
@@ -13,8 +13,9 @@ Art. 1
 
 N.
 
-748. Decreto del Presidente della Repubblica 1 ottobre 1985, col quale, sulla proposta del Ministro della sanita', la Lega italiana per la lotta contro i tumori, in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 3.000.000 da devolversi in favore del comitato femminile della sezione di Genova, disposto dal sig. Raffaele Milano con testamento olografo 14 febbraio 1974, pubblicato in data 7 gennaio 1975, n. 618/58 di repertorio, a rogito dott. Calogero Costa, notaio in Genova, registrato a Genova in data 9 gennaio 1975 al n. 627.   
+399. Decreto del Presidente della Repubblica 27 giugno 1983, col quale, sulla proposta del Ministro della sanita', la Lega italiana per la lotta contro i tumori, in Roma, viene autorizzata ad accettare il legato, consistente in 7.500 azioni della "Immobiliare Rione Vittoria" S.p.a. e in 475 azioni della "Immobiliare Rione S.  
+Gottardo" S.p.a., entrambe in Milano, disposto in favore della sezione provinciale di Genova dalla sig.ra Emilia Barbesti con testamento pubblico 24 giugno 1979, pubblicato in data 13 maggio 1980 n. 345683 di repertorio, a rogito dott. Carlo Emiliano Verde, notaio in Genova, registrato a Genova in data 28 maggio 1980 al n. 11332.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 23 novembre 1985   
-Registro n. 10 Sanita', foglio n. 75
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 18 agosto 1983  
+Registro n. 6 Sanita', foglio n. 269

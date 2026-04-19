@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 611
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1985 n. 995
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 611
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1985 n. 995
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
@@ -39,20 +39,27 @@ Articolo unico
 --------------
 
   
-Nell'art. 96, relativo al corso di laurea in architettura, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-progettazione ambientale;  
-progetti di strutture.  
+  
+Nell'art. 50, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari, sono aggiunti i seguenti nuovi insegnamenti:   
+andrologia;   
+virologia oncologica;   
+virologia applicata all'epidemiologia;   
+fisiopatologia del ricambio;   
+terapia medica sistematica;   
+tecnica e diagnostica citopatologica.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 maggio 1983
+### Dato a Roma, addi' 27 settembre 1985
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 15 ottobre 1983
+Registrato alla Corte dei conti, addi' 3 aprile 1986
 
-Registro n. 66 Istruzione, foglio n. 148
+Registro n. 23 Istruzione, foglio n. 70

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 895
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1382
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 895
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1382
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Urbino.
 ------------------------------------------------------------------
@@ -10,186 +10,63 @@ Modificazioni allo statuto dell'Universita' degli studi di Urbino.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Urbino, approvato con [regio decreto 8 febbraio 1925, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-08;230) e modificato con [regio decreto 31 ottobre 1929, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2475), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Urbino, approvato con [regio decreto 8 febbraio 1925, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-08;230), modificato con [regio decreto 31 ottobre 1929, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2475), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Urbino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Urbino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 33. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne e' aggiunto quello di "Lingua e letteratura ceca".   
+Art. 30 (gia' 26). - E' sostituito dal seguente:  
   
-Dopo l'art. 34 e con il conseguente spostamento della numerazione degli articoli successivi sono aggiunti i seguenti nuovi articoli relativi all'istituzione delle scuole di perfezionamento annesse alla facolta' di lettere e filosofia.   
+"Non si puo essere ammessi a se non si e superato l'esa- sostenere l'esame di: me di:  
   
-Scuole di perfezionamento della facolta' di lettere e filosofia   
+Biochimica applicata; Chimica generale e inorganica, chimica orga- nica;  
   
-Art. 35. - Presso l'Universita' degli studi di Urbino, nella facolta' di lettere e filosofia, sono costituite le seguenti scuole di perfezionamento:   
-Scuola di perfezionamento in filosofia;   
-Scuola di perfezionamento in storia medioevale e moderna;   
-Scuola di perfezionamento in storia dell'arte.   
+Chimica biologica; Chimica generale e inorganica, chimica orga- nica;  
   
-Art. 36. - Il consiglio della scuola si compone dei professori ufficiali titolari degli insegnamenti costitutivi e degli assistenti.   
-Il consiglio della scuola e' presieduto dal direttore eletto nel suo seno tra i professori ufficiali e nominato dal rettore per un biennio accademico.   
-Art. 37. - Possono essere ammessi alle singole scuole anche perfezionandi muniti di titoli di studi stranieri, purche' riconosciuti dallo Stato italiano e ritenuti equivalenti dal consiglio della scuola.   
-Art. 38. - I perfezionandi sono tenuti innanzitutto alla frequenza regolare e alla partecipazione attiva alle conferenze-colloquio del titolare della materia prescelta come centrale ed a partecipare assiduamente alla vita della scuola.   
-Inoltre devono frequentare i corsi, le esercitazioni e le altre attivita' organizzate dalla scuola e sostenere le eventuali prove scritte, orali e pratiche se e come verranno prescritte e consigliate dall'ordine annuale degli studi delle singole scuole.   
-Art. 39. - L'esame di diploma consiste nella discussione di una dissertazione scientifica, avente carattere di ricerca originale, su argomento che rientri nell'ambito dell'insegnamento in cui l'iscritto intende perfezionarsi.   
-Art. 40. - Su conforme parere del consiglio della scuola gli iscritti possono seguire corsi di insegnamento anche diversi da quelli costitutivi, purche' impartiti nelle facolta' della Universita' di Urbino.   
-Art. 41. - Le commissioni dei colloqui sono nominate dal direttore della scuola.   
-La commissione per gli esami di diploma e' nominata dal rettore, sentito il direttore della scuola, e si compone di sette membri, tra i quali sei professori ufficiali o fuori ruolo titolari degli insegnamenti costitutivi della scuola e un libero docente.   
+Chimica bromatologica; Chimica organica esercitazioni chimica farmaceutica II;  
   
-Art. 42. - Gli aspiranti all'ammissione dovranno presentare domanda in carta legale, al rettore della universita' corredata dei seguenti documenti:   
-a) certificato di nascita;   
-b) certificato di laurea con l'indicazione delle votazioni riportate negli esami;   
-c) altri titoli (borse di studio, assistentato, ecc.);   
-d) piano degli studi con l'indicazione delle materie opzionali e del programma di ricerca;   
-e) certificato rilasciato dall'ufficio delle imposte del reddito familiare;   
-f) ricevuta del versamento della tassa d'iscrizione.   
+Chimica farmaceutica Chimica generale e  
+I e II; inorganica, chimica orga- nica;  
   
-Art. 43. - Le tasse d'iscrizione, di frequenza e di esame ammontano, ogni anno, a complessive L. 60.000, suddivise come segue:   
+Esercitazioni da chimica Chimica generale e farmaceutica I; inorganica;  
   
+Esercitazioni di chimica Esercitazioni chimica farmaceutica II; farmaceutica I,  
+chimica organica;  
   
-a) tassa d'iscrizione . . . . . . . . . . . . . . . . . . . .L. 20.000  
-b) tassa di frequenza. . . . . . . . . . . . . . . . . . . . " 35.000  
-c) tassa di esame. . . . . . . . . . . . . . . . . . . . . . " 5.000  
+Esercitazioni di chimica Esercitazioni di chi- farmaceutica III; farmaceutica II;  
+chimica farmaceuticaIeII;  
   
+Farmacologia e farma- Fisiologia generale; cognosia; chimica farmaceutica I e II; botanica farma- ceutica,  
   
-Art. 44. - Non e' consentita la contemporanea iscrizione a piu' di una scuola di perfezionamento, ne' presso l'Universita' di Urbino, ne' altrove.   
-Art. 45. - Riguardo alle carriere scolastiche degli iscritti valgono, in quanto applicabili, le disposizioni regolamentari vigenti per gli studenti dei corsi di laurea.   
-Art. 46. - Il programma della scuola viene proposto dal direttore, approvato dal consiglio della scuola e reso pubblico.   
+Fisiologia generale; Anatomia umana, fisica chimica biologica;  
   
-Scuola di perfezionamento in filosofia   
+Idrologia; Chimica generale e  
+inorganica;  
   
-Art. 47. - Presso la facolta' di lettere e filosofia dell'Universita' e' costituita la scuola di perfezionamento in filosofia, della durata di due anni accademici.   
-La scuola ha lo scopo di incrementare gli studi filosofici, o di integrare o specializzare la preparazione dei laureati nell'ambito degli studi medesimi.   
-La scuola conferisce il diploma di perfezionamento in filosofia.   
-Titolo di ammissione e' la laurea in filosofia. Possono essere ammessi, su parere del consiglio della scuola, anche i laureati italiani e stranieri in lettere e in pedagogia di ogni altra facolta'. Ai fini della ammissione il consiglio della scuola puo' sottoporre gli aspiranti ad un colloquio preliminare.   
-Entro il 31 dicembre del 1° anno di corso gli iscritti devono presentare il piano di studio che diviene definitivo dopo che il direttore, su parere del consiglio della scuola, lo abbia approvato.   
-La scuola di filosofia prevede l'insegnamento delle seguenti discipline quali corsi costitutivi della scuola:   
+Tecnica e legislazione Chimica farmaceutica  
+farmaceutica. I e II".  
   
-1) Filosofia teoretica;   
-2) Filosofia morale;   
-3) Filosofia della storia;   
-4) Filosofia della religione;   
-5) Filosofia della scienza;   
-6) Filosofia del linguaggio;   
-7) Storia della filosofia;   
-8) Storia della filosofia antica;   
-9) Storia della filosofia medioevale;   
-10) Storia della filosofia moderna e contemporanea;   
-11) Storia della filosofia italiana;   
-12) Storia delle dottrine economiche;   
-13) Logica;   
-14) Pedagogia;   
-15) Storia della pedagogia;   
-16) Psicologia;   
-17) Psicologia sociale;   
-18) Psicologia dell'eta' evolutiva;   
-19) Estetica;   
-20) Sociologia;   
-21) Storia delle dottrine politiche;   
-22) Storia dei movimenti e dei partiti politici;   
-23) Economia politica;   
-24) Filosofia del diritto;   
-25) Religioni e filosofie dell'India e dell'Estremo oriente.   
-  
-Per essere ammessi a sostenere l'esame di diploma gli iscritti devono aver seguito per un biennio i corsi dell'insegnamento fondamentale in cui intendono perfezionarsi, e in almeno un altro insegnamento.   
-Gli iscritti devono inoltre aver superato un colloquio complessivo negli insegnamenti di cui abbiano seguito i corsi.   
-L'esame di diploma consiste nella discussione di una dissertazione, avente carattere di ricerca originale, su argomento che rientri nell'ambito dell'insegnamento in cui l'iscritto intende perfezionarsi.   
-  
-Scuola di perfezionamento in storia medioevale e moderna   
-  
-Art. 48. - Presso la facolta' di lettere e filosofia dell'Universita' degli studi di Urbino e' costituita la scuola di perfezionamento in storia medioevale e moderna della durata di due anni accademici.   
-La scuola ha lo scopo di incrementare gli studi storici e di integrare la preparazione dei laureati nell'ambito degli studi medesimi.   
-La scuola conferisce il diploma di perfezionamento in storia medioevale e moderna.   
-Titolo di ammissione sono la laurea in lettere e la laurea in filosofia.   
-Possono essere tuttavia ammessi, su parere del consiglio della scuola, anche i laureati italiani e stranieri di ogni altra facolta':   
-ai fini dell'ammissione il consiglio della scuola puo' sottoporre gli aspiranti ad un colloquio preliminare.   
-Entro il 31 dicembre del primo anno di corso gli iscritti devono presentare il piano di studio precedentemente concordato, e che diviene definitivo dopo che il direttore, su parere del consiglio della scuola, lo abbia approvato: tale piano deve essere comprensivo di almeno tre fra gli insegnamenti, e per un biennio ogni volta, attinenti al tema specifico della dissertazione.   
-La scuola prevede l'insegnamento delle seguenti discipline quali corsi costitutivi della scuola stessa:   
-  
-Economia politica;   
-Filologia e storia bizantina;   
-Filosofia del diritto;   
-Filosofia della scienza;   
-Filosofia della storia;   
-Geografia;   
-Letteratura latina medioevale;   
-Lingue straniere (almeno due);   
-Paleografia e diplomatica;   
-Sociologia;   
-Storia medioevale;   
-Storia delle dottrine politiche;   
-Storia economica;   
-Storia del diritto italiano;   
-Storia moderna;   
-Storia dell'Europa orientale;   
-Storia del Risorgimento;   
-Storia della scienza e della tecnica;   
-Storia contemporanea;   
-Storia delle religioni;   
-Storia del cristianesimo;   
-Storia dei paesi afro-asiatici;   
-Storia dei movimenti e dei partiti politici.   
-  
-Per essere ammessi a sostenere l'esame di diploma gli iscritti devono aver soddisfatto gli impegni contratti in conseguenza dell'approvazione del loro piano di studio da parte del direttore della scuola, e devono aver superato un colloquio complessivo al termine della loro partecipazione ai corsi scelti.   
-L'esame di diploma consiste nella discussione della dissertazione scientifica, avente carattere di ricerca originale, concordata con piano di studio.   
-  
-Scuola di perfezionamento in storia dell'arte   
-  
-Art. 49. - Presso l'Universita' degli studi di Urbino e' costituita la scuola di perfezionamento in storia dell'arte della durata di due anni accademici.   
-La scuola rilascia alla fine dei corsi un diploma di perfezionamento in storia dell'arte.   
-Possono essere iscritti alla scuola i laureati in lettere, in filosofia, in lingue e letterature straniere, in materie letterarie, in pedagogia. Inoltre possono iscriversi anche laureati stranieri in discipline affini, previo colloquio.   
-La scuola di perfezionamento in storia dell'arte prevede l'insegnamento delle seguenti discipline:   
-  
-Difesa del patrimonio artistico e legislazione protettiva;   
-Estetica;   
-Lingua straniera (tedesco o inglese o francese);   
-Museologia;   
-Paleografia;   
-Storia dell'arte classica;   
-Storia dell'arte paleocristiana e bizantina;   
-Storia dell'arte medioevale;   
-Storia dell'arte moderna;   
-Storia dell'arte contemporanea;   
-Storia dell'architettura e dell'urbanistica;   
-Storia dell'arte marchigiana;   
-Storia della critica e storiografia dell'arte;   
-Storia del cinema e della scenografia cinematografica;   
-Storia della letteratura italiana;   
-Storia della musica;   
-Storia medioevale e moderna;   
-Storia del teatro e della scenografia teatrale;   
-Tecnica e storia delle arti applicate;   
-Teoria e storia del restauro;   
-Tutela della natura e del paesaggio.   
-  
-L'insegnamento si svolge in forma di seminario di 30 lezioni per ciascuna materia, articolati secondo un calendario annuale. Si effettuano inoltre incontri di informazione con specialisti su temi che saranno preventivamente indicati.   
-Per conseguire il diploma di perfezionamento in storia dell'arte lo studente deve:   
-a) partecipare attivamente a tutti i seminari (che saranno indicati all'inizio dell'anno di studi) e agli incontri di informazione;   
-b) sostenere i colloqui di accertamento, alla fine della sessione, in 4 materie (il primo anno) e in 4 materie (il secondo anno), tra quelle indicate nel piano degli studi;   
-c) sostenere un colloquio finale su di una dissertazione scritta, avente carattere di originalita', su tema concordato con l'insegnante della materia prescelta tra quelle sulle quali lo studente ha gia' sostenuto l'esame.   
-La partecipazione e la frequenza sono obbligatorie per gli iscritti al corso e sono condizione per il conseguimento del diploma.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 19 ottobre 1960
 
-LEONE SCALFARO
+GRONCHI BOSCO
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 9 gennaio 1973
+Registrato alla Corte dei conti, addi' 24 novembre 1960
 
-Atti di Governo, registro n. 255, foglio n. 9 - VALENTINI
+Atti del Governo, registro n. 131, foglio n. 92. - VILLA

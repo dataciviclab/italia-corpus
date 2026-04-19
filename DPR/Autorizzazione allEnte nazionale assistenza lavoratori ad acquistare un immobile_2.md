@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 settembre 1972 n. 687
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1968 n. 914
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 settembre 1972 n. 687
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1968 n. 914
+=============================================================
 
 Autorizzazione all'Ente nazionale assistenza lavoratori ad acquistare un immobile.
 ----------------------------------------------------------------------------------
@@ -12,8 +12,14 @@ Art. 1
 
 N.
 
-687. Decreto del Presidente della Repubblica 26 settembre 1972, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Ente nazionale assistenza lavoratori (E.N.A.L.) viene autorizzato ad acquistare dal sig. Alfonso Granozio, al complessivo convenuto prezzo di L. 3.100.000 un immobile costituito dal terraneo sito nel comune di Giffoni Sei Casali (Salerno), frazione di Capitignano, della superficie di mq. 300 circa, dallo stabile ivi costruito, nonche' dalla piccola area tra il terraneo e la variante provinciale per Pupezzano, da destinare a sede del locale circolo E.N.A.L.  
+914. Decreto del Presidente della Repubblica 19 giugno 1968, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Ente nazionale assistenza lavoratori, viene autorizzato ad acquistare dal comune di Ravenna e per il prezzo di L. 70.000, un appezzamento di terreno, della superficie di mq. 700, sito in "Casal Borsetti", distinto in mappa del comune di Ravenna - sezione S.  
+Alberto, partita al rustico n. 1096, foglio 31, particella 58, per consentire la unificazione nello stesso ente della proprieta' del terreno e del fabbricato, adibito a sede del locale circolo E.N.A.L., che insiste sul terreno in parola.   
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 15 novembre 1972  
-Atti del Governo, registro n. 253, foglio n. 43. - CARUSO
+Visto, il Guardasigilli: GONELLA   
+Registrato alla Corte dei conti, addi' 16 agosto 1968   
+Atti del Governo, registro n. 222, foglio n. 69 - DI PRETORO   
+  
+---------------   
+Nota redazionale   
+Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'avviso di rettifica pubblicato in G.U. 10/09/1968, n. 230 durante il periodo di "vacatio legis".   
+E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.

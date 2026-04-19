@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 settembre 1970 n. 798
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1967 n. 1370
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 settembre 1970 n. 798
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1967 n. 1370
+==============================================================
 
 Autorizzazione all'Universita' degli studi di Pisa ad acquistare un immobile.
 -----------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-798. Decreto del Presidente della Repubblica 23 settembre 1970, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Pisa viene autorizzata ad acquistare, al prezzo complessivo di L. 144.000.000, dalla Societa' per azioni Lavorazione Pinoli di Milano, un immobile sito in Pisa, via Martiri n. 7.  
+1370. Decreto del Presidente della Repubblica 18 luglio 1967, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Pisa viene autorizzata ad acquistare dal comune di Pisa un complesso immobiliare sito in Pisa, via Pasquale Paoli, di mq. 4714, al prezzo di L. 125.000.000.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 9 novembre 1970  
-Atti del Governo, registro n. 238, foglio n. 44. - CARUSO
+Registrato alla Corte dei conti, addi' 25 gennaio 1968  
+Atti del Governo, registro n. 217, foglio n. 16. - GRECO

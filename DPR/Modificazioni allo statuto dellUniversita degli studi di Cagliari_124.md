@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1964 n. 892
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1982 n. 1193
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1964 n. 892
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1982 n. 1193
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,122 +20,141 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita', anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Cagliari e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 12. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di "Diritto fallimentare".
-
-Art. 27. - All'elenco degli Istituti annessi alla Facolta' di economia e commercio e' aggiunto il seguente:
-
-"Istituto di matematica finanziaria".
-
-Art. 35. - Dall'elenco degli insegnamenti complementari del corso di laurea in Materie letterarie e' soppresso quello di "Istituzioni giuridiche ed economiche della Sardegna" e sostituito con quello di "Storia delle istituzioni giuridiche ed economiche della Sardegna".
-
-Art. 36. - All'elenco degli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di:
-
-Storia della filosofia contemporanea;
-
-Storia della pedagogia;
-
-Storia e critica del cinema;
-
-Sociologia;
-
-Antropologia culturale;
-
-Psicologia dell'eta' evolutiva Storia delle istituzioni giuridiche ed economiche della Sardegna.
-
-L'insegnamento complementare di "Istituzioni giuridiche ed economiche della Sardegna", e' soppresso.
-
-Art. 37. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere e' aggiunto quello di:
-
-"Letteratura anglo-americana".
-
-Art. 49. - All'elenco degli Istituti della Facolta' di magistero sono aggiunti i seguenti:
-
-Istituto di pedagogia;
-
-Istituto di psicologia e sociologia.
-
-L'Istituto di "Pedagogia e sociologia" e' soppresso.
-
-Art. 50. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di:
-
-"Clinica chirurgica pediatrica".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 12 luglio 1964
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 7 ottobre 1964 Atti del Governo, registro n. 187, foglio n. 72. - VILLA
+Lo statuto dell'Universita' di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita', anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Art. 74 - gli insegnamenti del biennio propedeutico e del triennio di applicazione del corso di laurea in ingegneria meccanica, sono soppressi e sostituiti dai seguenti:  
   
-Decreta:  
+BIENNIO PROPEDEUTICO  
   
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 12. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di "Diritto fallimentare".  
-Art. 27. - All'elenco degli Istituti annessi alla Facolta' di economia e commercio e' aggiunto il seguente:  
-"Istituto di matematica finanziaria".  
-Art. 35. - Dall'elenco degli insegnamenti complementari del corso di laurea in Materie letterarie e' soppresso quello di "Istituzioni giuridiche ed economiche della Sardegna" e sostituito con quello di "Storia delle istituzioni giuridiche ed economiche della Sardegna".  
-Art. 36. - All'elenco degli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di:  
-Storia della filosofia contemporanea;  
-Storia della pedagogia;  
-Storia e critica del cinema;  
-Sociologia;  
-Antropologia culturale;  
-Psicologia dell'eta' evolutiva Storia delle istituzioni giuridiche ed economiche della Sardegna.  
-L'insegnamento complementare di "Istituzioni giuridiche ed economiche della Sardegna", e' soppresso.  
-Art. 37. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere e' aggiunto quello di:  
-"Letteratura anglo-americana".  
-Art. 49. - All'elenco degli Istituti della Facolta' di magistero sono aggiunti i seguenti:  
-Istituto di pedagogia;  
-Istituto di psicologia e sociologia.  
-L'Istituto di "Pedagogia e sociologia" e' soppresso.  
-Art. 50. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di:  
-"Clinica chirurgica pediatrica".  
+1° Anno:  
+1) analisi matematica I;  
+2) chimica;  
+3) disegno I;  
+4) fisica I;  
+5) geometria.  
+2° Anno:  
+6) analisi matematica II;  
+7) fisica II;  
+8) meccanica razionale;  
+9) disegno II;  
+  
+TRIENNIO  
+  
+10) chimica applicata;  
+11) disegno di macchine;  
+12) elettrotecnica;  
+13) fisica tecnica;  
+14) meccanica applicata alle macchine;  
+15) scienza delle costruzioni;  
+16) tecnologie meccaniche;  
+17) calcolo numerico;  
+18) costruzioni di macchine;  
+19) idraulica (meccanica dei fluidi);  
+20) macchine;  
+21) controlli automatici;  
+22) tecnica delle costruzioni;  
+23) impianti meccanici;  
+24) misure meccaniche, termiche e collaudi;  
+25) economia ed organizzazione aziendale;  
+26) progetti di macchine;  
+27-30) un gruppo di materie a scelta fra quelle elencate nell'art. 78.  
+
+Art. 2
+------
+
+  
+Art. 75 - Gli insegnamenti del biennio propedeutico e del triennio di applicazione del corso di laurea in ingegneria elettrotecnica sono soppressi e sostituiti dai seguenti:  
+  
+BIENNIO PROPEDEUTICO  
+  
+1° Anno:  
+1) analisi matematica I;  
+2) chimica;  
+3) disegno I;  
+4) fisica I;  
+5) geometria;  
+2° Anno:  
+6) analisi matematica II;  
+7) meccanica razionale;  
+8) fisica II;  
+9) metodi di osservazione e misure;  
+10) calcolo numerico;  
+  
+TRIENNIO  
+  
+11) scienza delle costruzioni;  
+12) meccanica applicata alle macchine;  
+13) fisica tecnica;  
+14) elettrotecnica;  
+15) idraulica;  
+16) misure elettriche;  
+17) macchine;  
+18) macchine elettriche;  
+19) impianti elettrici;  
+20) elettronica applicata;  
+21) economia ed organizzazione aziendale;  
+22) analisi dei sistemi;  
+23) complementi di elettrotecnica;  
+24) controlli automatici;  
+25) telecomunicazioni;  
+26-30) un gruppo di materie a scelta fra quelle elencate nell'art. 78.  
+
+Art. 3
+------
+
+  
+  
+Art. 78 - nell'elenco degli insegnamenti complementari sono inclusi i seguenti:   
+valorizzazione mineralurgica dei rifiuti urbani ed industriali; trattamento e valorizzazione dei combustibili fossili;   
+coltivazione e gestione delle cave;   
+sicurezza e salubrita' delle miniere e delle cave;   
+disegno e rilievo;   
+percezione e tecniche di rappresentazione;   
+tecniche della comunicazione;   
+teoria della plasticita';   
+instabilita' delle strutture;   
+pianificazione e programmazione dei trasporti;   
+trasporti speciali;   
+elementi tecnici dell'urbanistica;   
+affidabilita' strutturale degli elementi meccanici;   
+oliodinamica e pneumatica;   
+servizi di stabilimento;   
+sperimentazione sulle macchine a fluido;   
+teoria e tecnica della combustione;   
+complementi di matematica.   
+Nello stesso elenco, inoltre, cambiano denominazione i seguenti insegnamenti complementari:   
+da "complementi di mineralogia e petrografia" in complementi di giacimentologia e petrografia";   
+da "macchine II" in "complementi di macchine "; da "programmazione degli impianti meccanici e manutenzione programmati" in "gestione degli impianti meccanici";   
+da "termofluidodinamica delle macchine" in "fluidodinamica delle macchine".   
+Nello stesso elenco, infine, viene soppresso l'insegnamento complementare di "generatori di vapori e tecnica della combustione" e sostituito dal seguente: "generatori di vapore".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 luglio 1964
+### Dato a Roma, addi' 30 ottobre 1982
 
-SEGNI GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 7 ottobre 1964
+Registrato alla Corte dei conti, addi' 6 giugno 1983
 
-Atti del Governo, registro n. 187, foglio n. 72. - VILLA
+Registro n. 41 Istruzione, foglio n. 131

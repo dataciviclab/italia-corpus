@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1978 n. 624
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1974 n. 825
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1978 n. 624
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1974 n. 825
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -10,264 +10,200 @@ Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione,   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 564, primo comma, relativo alla scuola di specializzazione in terapia fisica e riabilitazione, che muta la denominazione in quella di scuola di specializzazione in fisioterapia, e' abrogato e sostituito dal seguente:  
-"Presso la clinica ortopedica dell'Universita' di Bologna e' istituita la scuola di specializzazione in fisioterapia, che conferisce il diploma di specialista in fisioterapia".  
-Gli articoli 571, 572, 573, 574, 575 e 576, relativi alla scuola di specializzazione in chirurgia toracica, sono abrogati e sostituiti dai seguenti:  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli da 473 a 478 relativi alla scuola di specializzazione in radiologia sono abrogati e sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi:   
   
-Scuola di specializzazione in chirurgia toracica  
+Scuola di specializzazione in radiologia   
   
-Art. 571. - Presso la facolta' di medicina e chirurgia e' istituita la scuola di specializzazione in chirurgia toracica della durata di cinque anni, che conferisce il diploma di specialista in chirurgia toracica.  
-La durata del corso di studi non e' suscettibile di abbreviazione e prevede l'insegnamento di tutte le branche della chirurgia toracica (chirurgia polmonare, chirurgia cardiaca, chirurgia esofagea, chirurgia del mediastino e della parete toracica).  
-Art. 572. - Possono essere ammessi alla scuola i laureati in medicina e chirurgia in possesso, almeno all'inizio del corso, dell'abilitazione all'esercizio professionale.  
-Il numero degli iscritti e' di quattro ogni anno di corso.  
-L'ammissione al corso avviene per titoli ed esami.  
-Art. 573. - Le materie d'insegnamento sono le seguenti:  
-1° Anno:  
-1) embriologia, anatomia descrittiva e topografica del torace e degli organi endotoracici;  
-2) anatomia chirurgica del torace e degli organi endotoracici;  
-3) anatomia patologica delle malattie del torace (I);  
-4) anestesia in chirurgia toracica.  
-2° Anno:  
-1) fisiopatologia dell'apparato respiratorio;  
-2) fisiopatologia dell'apparato cardiocircolatorio;  
-3) semeiotica dell'apparato respiratorio, dell'esofago e del mediastino;  
-4) semeiotica dell'apparato cardiocircolatorio;  
-5) anatomia patologica delle malattie del torace (II).  
-3° Anno:  
-1) patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (I);  
-2) patologia e clinica chirurgica delle affezioni, del cuore e dei grossi vasi endotoracici;  
-3) patologia e clinica chirurgica delle affezioni dell'esofago e del diaframma;  
-4) elementi di terapia medica delle cardio-angiopatie;  
-5) elementi di fisioterapia respiratoria;  
-6) diagnostica radiologica nelle malattie chirurgiche del torace.  
-4° Anno:  
-1) patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (II);  
-2) tecnica operatoria per le affezioni della parete toracica, dell'apparato respiratorio, dell'esofago, del mediastino e del diaframma (I);  
-3) tecnica operatoria delle affezioni del cuore, pericardio e grossi vasi endotoracici;  
-4) principi e tecniche della circolazione extracorporea.  
-5° Anno:  
-1) terapia intensiva e rianimazione in chirurgia toracica;  
-2) tecnica operatoria per le affezioni della parete toracica, dello apparato respiratorio, dell'esofago, del mediastino e del diaframma (II);  
-3) terapia chirurgica della TBC pleuro-polmonare.  
-Il corso si compone di lezioni, di esercitazioni pratiche, di periodi di internato, di conferenze riguardanti argomenti specialistici, di turni in corsia ed in sala operatoria.  
-Art. 574. - La frequenza ai corsi, agli internati, in corsia ed in sala operatoria, alle esercitazioni e' obbligatoria. In caso contrario gli specializzandi non potranno ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.  
-Art. 575. - Alla fine di ciascun anno di corso gli specializzandi che abbiano ottenuto la firma di frequenza dovranno sostenere un esame di profitto sulle materie di insegnamento il cui superamento e' condizione necessaria ed indispensabile per ottenere la iscrizione all'anno successivo, e, per quelli che sono stati iscritti al quinto anno, per l'ammissione all'esame di diploma. Durante il corso gli specializzandi frequenteranno la sala operatoria in maniera assidua, dovranno assistere a numerosi interventi di chirurgia toracica ed essere in grado di eseguirne essi stessi.  
-Art. 576. - Per tutti gli specializzandi che hanno superato gli esami al 5° anno ha luogo l'esame di diploma consistente nella presentazione e discussione di una dissertazione scritta su un argomento di chirurgia toracica concordato con la direzione della scuola.  
-Gli articoli 617, 618, 619, 620 e 621, relativi alla scuola di specializzazione in chirurgia cardiaca, che muta la denominazione in quella di scuola di specializzazione in cardioangiochirurgia, sono abrogati e sostituiti dai seguenti:  
+Art. 473. - La scuola rilascia i seguenti diplomi di specializzazione: in radiologia ed in radiologia diagnostica.   
+L'iscrizione alla scuola e' riservata ai laureati in medicina e chirurgia, che vi possono essere ammessi nel numero massimo di 70 compresi tutti gli anni di corso.   
+Art. 474. - Diploma di specializzazione in radiologia.   
+La durata del corso e' di 4 anni; le materie di insegnamento sono le seguenti:   
+a) Matematica, fisica, nozioni di statistica e informatica (annuale) comprendente:   
+1) Richiami di matematica e fisica generale;   
+2) Costituzione della materia;   
+3) Produzione, assorbimento e misura delle radiazioni;   
+4) Statistica applicata alla medicina;   
+5) Informatica e cibernetica applicata alla radiologia.   
+b) Radiodiagnostica (triennale) comprendente:   
+1) Principi generali di radiodiagnostica;   
+2) Apparecchi, strumenti e tecnica radiodiagnostica;   
+3) Tecnica e fisiologia applicata alla radiodiagnostica;   
+4) I mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;   
+5) Semeiotica radiologica;   
+6) Diagnostica differenziale radiologica;   
+7) Dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;   
+8) Dimostrazioni di casistica clinica.   
+c) Radiobiologia (annuale) comprendente:   
+1) Radiobiologia generale;   
+2) Danni da radiazioni e radiopatie.   
+d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:   
+1) Legislazione sanitaria applicata alla radiologia;   
+2) Compiti e responsabilita' medico legali del radiologo;   
+3) Radioprotezione fisica e dosimetria ad essa connessa;   
+4) Fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;   
+5) Radioprotezione clinica;   
+6) Problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.   
+e) Radioterapia e terapia fisica (triennale) comprendente:   
+1) Radiobiologia applicata;   
+2) Fondamenti generali di radioterapia e terapia fisica;   
+3) Istopatologia speciale dei tumori;   
+4) Nozioni sugli apparecchi e strumenti per la radioterapia;   
+5) Tecnica e metodica radio terapica;   
+6) Dosimetria;   
+7) Clinica radioterapica;   
+8) Fondamenti generali di chemioterapia oncologica;   
+9) Chemioterapia clinica dei tumori e sua associazione alla radioterapia;   
+10) Dimostrazione di casistica clinica.   
+f) Medicina nucleare (biennale) comprendente:   
+1) Elementi di medicina nucleare;   
+2) Istrumento, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare;   
+3) Dosimetria dei radioisotopi somministrati per via interna;   
+4) Diagnostica con radioisotopi somministrati per via interna;   
+5) Radioterapia metabolica;   
+6) Dimostrazione di casistica clinica.   
+Le materie d'insegnamento sono cosi' distribuite nei quattro anni di corso:   
   
-Scuola di specializzazione in cardioangiochirurgia  
+1° Anno (tronco comune):   
+Matematica, fisica, nozioni di statistica ed informatica;   
+Radiobiologia, protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;   
+Radiodiagnostica (I).   
   
-Art. 617. - Presso la facolta' di medicina e chirurgia e' istituita la scuola di specializzazione in cardioangiochirurgia della durata di cinque anni che conferisce il diploma di specialista in cardioangiochirurgia.  
-Non sono ammesse abbreviazioni di corso.  
-Possono essere ammessi alla scuola i laureati in medicina e chirurgia in possesso, almeno all'inizio del corso, del diploma di abilitazione professionale.  
-Il numero degli iscritti e' di tre per ogni anno.  
-Art. 618. Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) embriologia e teratologia;  
-2) anatomia descrittiva e topografica generale con particolare riguardo all'apparato cardiocircolatorio (biennale) I;  
-3) patologia chirurgica generale;  
-4) fisiologia dell'apparato cardiocircolatorio;  
-5) radiologia generale;  
-6) semeiotica clinica delle cardiopatie chirurgiche;  
-7) principi di informatica medica;  
-8) elementi di ingegneria medica.  
-2° Anno:  
-1) anatomia descrittiva e topografica generale con particolare riguardo all'apparato cardiocircolatorio (biennale) II;  
-2) clinica chirurgica generale;  
-3) anatomia ed istologia patologica con particolare riguardo all'apparato cardiocircolatorio (biennale) I;  
-4) cardioangioradiologia (biennale) I;  
-5) semeiotica strumentale delle cardiopatie chirurgiche;  
-6) elementi di anestesia e rianimazione;  
-7) fisiopatologia respiratoria;  
-8) fisiopatologia cardiocircolatoria (biennale) I;  
-9) patologia e clinica delle angiopatie chirurgiche.  
-3° Anno:  
-1) anatomia e istologia patologica con particolare riguardo all'apparato cardiocircolatorio (biennale) II;  
-2) cardioangioradiologia (biennale) II;  
-3) semeiotica di laboratorio delle cardiopatie chirurgiche;  
-4) semeiotica angiologica;  
-5) cardiologia medica (biennale) I;  
-6) terapia chirurgica e tecnica operatoria delle malattie del cuore e dei grossi vasi (triennale) I;  
-7) principi e tecniche della circolazione extra-corporea;  
-8) fisiopatologia cardiocircolatoria (biennale) Il;  
-9) patologia e clinica delle cardiopatie chirurgiche (biennale) I.  
-4° Anno:  
-1) cardiologia medica (biennale) II;  
-2) angiologia medica;  
-3) terapia chirurgica e tecnica operatoria delle malattie del cuore e dei grossi vasi (triennale) II;  
-4) terapia chirurgica e tecnica operatoria delle vasculopatie periferiche;  
-5) terapia intensiva (biennale) I;  
-6) patologia e clinica cardiologica pediatrica;  
-7) cardiochirurgia pediatrica (biennale) I;  
-8) patologia e clinica delle cardiopatie chirurgiche (biennale) II.  
-5° Anno:  
-1) terapia chirurgica e tecnica operatoria delle malattie del cuore e dei grossi vasi (triennale) III;  
-2) terapia intensiva (biennale) II;  
-3) cardiochirurgia pediatrica (biennale) II;  
-4) assistenza meccanica cardiocircolatoria.  
-Art. 619. - La frequenza alle lezioni e alle esercitazioni e' obbligatoria.  
-Gli allievi che non conseguono le attestazioni di frequenza non potranno essere ammessi a sostenere le prove di esami.  
-Art. 620. - Alla fine di ciascun anno di corso gli iscritti dovranno sostenere i relativi esami il cui superamento e' condizione necessaria ed indispensabile per ottenere l'iscrizione all'anno successivo; per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.  
-Art. 621. - Per conseguire il diploma di specializzazione i candidati, dopo avere superato gli esami di profitto, alla fine del 5° anno dovranno superare l'esame di diploma consistente nella discussione di una tesi scritta su un argomento attinente alla specializzazione e la cui scelta sia stata concordata fra diplomando e direttore della scuola.  
-Gli articoli 648, 649, 650, 651, 652 e 653, relativi alla scuola di specializzazione in chirurgia dell'infanzia, che muta la denominazione in quella di scuola di specializzione in chirurgia pediatrica, sono abrogati e sostituiti dai seguenti:  
+2° Anno:   
+Radiodiagnostica (II);   
+Radioterapia e terapia fisica (I).   
   
-Scuola di specializzazione in chirurgia pediatrica  
+3° Anno:   
+Radiodiagnostica (III);   
+Radioterapia e terapia fisica (II);   
+Medicina nucleare (I).   
   
-Art. 648. - Presso la facolta' di medicina e chirurgia dell'Universita' di Bologna e' istituita la scuola di specializzazione in chirurgia pediatrica, che conferisce il diploma di specialista in chirurgia pediatrica.  
-La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.  
-Art. 649. - La direzione della scuola e' affidata al professore di ruolo della stessa materia di specializzazione o, in carenza, al professore di ruolo di materia affine.  
-Art. 650. - Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.  
-Art. 651. - Il numero massimo degli allievi e' di quattro per anno di corso e complessivamente di venti iscritti per l'intero corso di studi.  
-L'ammissione al corso avviene per titoli ed esami.  
-Art. 652. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) embriologia e genetica delle malformazioni congenite;  
-2) anatomia patologica generale (biennale) I;  
-3) diagnostica radiologica e nucleare generale;  
-4) anestesiologia;  
-5) clinica pediatrica (biennale) I;  
-6) patologia e clinica chirurgica generale (biennale) I.  
-2° Anno:  
-1) patologia e clinica chirurgica generale (biennale) II;  
-2) rianimazione e terapia intensiva (biennale) I;  
-3) anatomia patologica generale (biennale) II;  
-4) diagnostica radiologica e nucleare delle malattie infantili;  
-5) clinica pediatrica (biennale) II.  
-3° Anno:  
-1) patologia e clinica chirurgica pediatrica (triennale) I;  
-2) endocrinologia pediatrica;  
-3) tecnica chirurgica generale;  
-4) rianimazione e terapia intensiva (biennale) Il;  
-5) chirurgia neonatale.  
-4° Anno:  
-1) patologia e clinica chirurgica pediatrica (triennale) II;  
-2) neurochirurgia pediatrica;  
-3) tecnica chirurgica pediatrica;  
-4) ortopedia pediatrica;  
-5) chirurgia plastica e ricostruttiva pediatrica.  
-5° Anno:  
-1) patologia e clinica chirurgica pediatrica (triennale) III;  
-2) otorinolaringoiatria pediatrica;  
-3) cardiochirurgia pediatrica;  
-4) urologia pediatrica.  
-La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.  
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
-Art. 653. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove d'esame sulle materie impartite durante l'anno ad eccezione delle discipline svolte in corsi pluriennali il cui esame sara' sostenuto alla fine dei corsi medesimi.  
-Al termine del corso di studi per il conseguimento del diploma di specialista in chirurgia pediatrica gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione. Gli articoli 665, 666, 667, 668, 669, 670, 671 e 672, relativi alla scuola di specializzazione in chirurgia d'urgenza e pronto soccorso, che muta la denominazione in quella di scuola di specializzazione in chirurgia generale d'urgenza e pronto soccorso, sono abrogati e sostituiti dai seguenti:  
+4° Anno:   
+Radioterapia e terapia fisica (III);   
+Medicina nucleare (II).   
   
-Scuola di specializzazione in chirurgia generale d'urgenza e pronto soccorso  
-Art. 665. - La scuola di specializzazione in chirurgia generale d'urgenza e di pronto soccorso ha sede presso la facolta' di medicina e chirurgia.  
-Il corso di studi per il conseguimento del diploma di specialista in chirurgia generale d'urgenza e di pronto soccorso ha la durata di cinque (5) anni accademici.  
-Art. 666. - Alla scuola possono iscriversi i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Il numero massimo degli iscritti e' di otto per anno di corso.  
-Non sono ammesse abbreviazioni di corso.  
-L'ammissione al corso avviene per titoli ed esami.  
-Art. 667. - La frequenza alle lezioni, esercitazioni e seminari e' obbligatoria per tutti gli iscritti. L'internato e' obbligatorio durante tutti i cinque anni di corso sotto forma di permanenza costante in istituto durante le ore dell'attivita'.  
-Art. 668. - Le materie di insegnamento sono le seguenti:  
-clinica chirurgica generale d'urgenza e di pronto soccorso;  
-patologia chirurgica;  
-anatomia chirurgica;  
-semeiotica;  
-anestesiologia;  
-ricerche di laboratorio;  
-anatomia patologica;  
-endoscopia;  
-fisiopatologia chirurgica;  
-chirurgia sperimentale;  
-trattamento pre e postoperatorio in chirurgia d'urgenza;  
-rianimazione;  
-chirurgia vascolare d'urgenza;  
-traumatologia dell'apparato locomotore;  
-neurotraumatologia;  
-terapia intensiva;  
-radiologia;  
-chirurgia ginecologica d'urgenza;  
-chirurgia pediatrica d'urgenza;  
-chirurgia plastica e riparatrice;  
-chirurgia toracica d'urgenza;  
-cardiochirurgia d'urgenza;  
-angioradiologia;  
-chirurgia urologica d'urgenza;  
-traumatologia maxillo-facciale;  
-trattamento del politraumatizzato;  
-medicina legale.  
-Art. 669. - Le materie di insegnamento sono cosi' distribuite:  
-1° Anno:  
-1) clinica chirurgica generale d'urgenza e di pronto soccorso I;  
-2) patologia chirurgica I;  
-3) anatomia chirurgica;  
-4) semeiotica I;  
-5) anestesiologia;  
-6) ricerche di laboratorio;  
-7) chirurgia sperimentale.  
-2° Anno:  
-8) clinica chirurgica generale d'urgenza e di pronto soccorso II;  
-9) patologia chirurgica II;  
-10) anatomia patologica II;  
-11) endoscopia;  
-12) fisiopatologia chirurgica I;  
-13) semeiotica II;  
-14) trattamento pre e postoperatorio in chirurgia d'urgenza;  
-15) rianimazione.  
-3° Anno:  
-16) clinica chirurgica generale d'urgenza e di pronto soccorso III;  
-17) patologia chirurgica III;  
-18) chirurgia vascolare d'urgenza;  
-19) traumatologia dell'apparato locomotore I;  
-20) neurotraumatologia I;  
-21) fisiopatologia chirurgica II;  
-22) terapia intensiva I;  
-23) radiologia.  
-4° Anno:  
-24) clinica chirurgica generale d'urgenza e di pronto soccorso IV;  
-25) chirurgia ginecologica d'urgenza;  
-26) chirurgia pediatrica d'urgenza;  
-27) chirurgia plastica e riparatrice I;  
-28) traumatologia dell'apparato locomotore II;  
-29) neurotraumatologia II;  
-30) chirurgia toracica d'urgenza;  
-31) terapia intensiva II.  
-5° Anno:  
-32) clinica chirurgica generale d'urgenza e di pronto soccorso V;  
-33) chirurgia plastica e riparatrice II;  
-34) chirurgia toracica d'urgenza;  
-35) cardiochirurgia d'urgenza;  
-36) chirurgia urologica d'urgenza;  
-37) angioradiologia;  
-38) traumatologia maxillo-facciale;  
-39) trattamento del politraumatizzato;  
-40) medicina legale.  
-Art. 670. - Alla fine di ogni anno gli specializzandi per poter ottenere l'ammissione all'anno successivo dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno di corso; per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.  
-Art. 671. - L'esame di diploma consiste nella discussione di una tesi su un tema preventivamente approvato dal direttore della scuola.  
-Il direttore della scuola e' il professore di ruolo della stessa materia della specializzazione o, in carenza, professore di ruolo di materia affine.  
-Art. 672. - Le norme per l'iscrizione, gli esami, le tasse, ecc. sono quelle generali per le scuole di specializzazione dell'Universita' di Bologna.  
+Art. 475 - Diploma di specializzazione in radiologia diagnostica. - La durata dei corsi e' di 3 anni (tre); gli insegnamenti sono i seguenti:   
+a) Matematica, fisica, nozioni di statistica e di informatica (annuale) comprendente:   
+1) Richiami di matematica e fisica generale;   
+2) Costituzione della materia;   
+3) Produzione, assorbimento e misura delle radiazioni;   
+4) Statistica applicata alla medicina;   
+5) Informatica e cibernetica applicata alla radiologia.   
+b) Radiodiagnostica (triennale) comprendente:   
+1) Principi generali di radiodiagnostica;   
+2) Apparecchi, strumenti e tecnica radiodiagnostica;   
+3) Tecnica e fisiologia applicata alla radiodiagnostica;   
+4) I mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;   
+5) Semeiotica radiologica;   
+6) Diagnostica differenziale radiologica;   
+7) Dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;   
+8) Dimostrazioni di casistica clinica.   
+c) Radiobiologia (annuale) comprendente:   
+1) Radiobiologia generale;   
+2) Danni da radiazioni e radiopatie.   
+d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:   
+1) Legislazione sanitaria applicata alla radiologia;   
+2) Compiti e responsabilita' medico-legali del radiologo;   
+3) radioprotezione fisica e dosimetria ad essa connessa;   
+4) Fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;   
+5) Radioprotezione chimica;   
+6) Problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.   
+  
+Le materie d'insegnamento sono cosi' distribuite nei tre anni di corso:   
+  
+1° Anno (tronco comune):   
+Matematica, fisica, nozioni di statistica ed informatica;   
+Radiobiologia;   
+Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;   
+Radiodiagnostica (I).   
+  
+2° Anno:   
+Radiodiagnostica (II).   
+  
+3° Anno:   
+Radiodiagnostica (III).   
+  
+Art. 476 - Disposizioni comuni ai due corsi. - I singoli insegnamenti saranno tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche, seminari, e, ove sia opportuno e possibile, da visite ad istituzioni di particolare interesse.   
+Gli iscritti sono tenuti ad un periodo di internato non inferiore a sei mesi per ogni anno di corso in istituti indicati dal consiglio della scuola con obblighi di frequenza uguali a quelli degli assistenti degli istituti stessi.   
+Gli iscritti ad entrambi i corsi sosterranno un esame in gruppo di materie in programma nell'anno precedente per essere ammessi all'anno successivo.   
+Per essere ammessi agli esami di diploma in radiologia od in radiologia diagnostica, gli iscritti debbono aver superato un esame in ciascuna materia di insegnamento ed elaborata una tesi scritta, su argomento radiologico, concordato con il direttore della scuola.   
+L'art. 561, relativo alla scuola di specializzazione in chirurgia vascolare, e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente:   
+"Alla scuola sono ammessi i laureati in medicina e chirurgia previo concorso interno per titoli ed esami".   
+Dopo l'art. 594, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in chirurgia d'urgenza e pronto soccorso:   
+  
+Scuola di specializzazione in chirurgia d'urgenza e pronto soccorso   
+  
+Art. 595. - Presso la facolta' di medicina e chirurgia dell'Universita' di Bologna e' istituita la scuola di specializzazione in "Chirurgia d'urgenza e di pronto soccorso" della durata di anni quattro, che conferisce il diploma di specializzazione in "Chirurgia d'urgenza e di pronto soccorso".   
+Art. 596. - Possono essere ammessi alla scuola i laureati in medicina e chirurgia. L'ammissione avviene per titoli ed esami.   
+Art. 597. - Il numero degli iscritti e' di 10 per ogni anno di corso e non potra' superare il numero di 40 (quaranta) per l'intero corso.   
+Art. 598. - Non sono concesse abbreviazioni di corso.   
+Art. 599. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+1) Chirurgia d'urgenza e di pronto soccorso (quadriennale) (I);  
+2) Chirurgia generale (quadriennale) (I);   
+3) Traumatologia dell'apparato locomotore (biennale (I);   
+4) Anestesiologia;   
+5) Ricerche di laboratorio in chirurgia d'urgenza;   
+6) Semeiotica chirurgica;   
+7) Radiologia;   
+8) Traumatologia maxillo-facciale.   
+2° Anno:   
+1) Chirurgia d'urgenza e di pronto soccorso (quadriennale) (II);   
+2) Chirurgia generale (quadriennale) (II);   
+3) Traumatologia dell'apparato locomotore (biennale) (II);   
+4) Chirurgia plastica-riparatrice (biennale) (I);   
+5) Anatomia chirurgica;   
+6) Trattamento pre e post-operatorio in chirurgia d'urgenza;   
+7) Chirurgia ginecologica d'urgenza;   
+8) Chirurgia urologica d'urgenza.   
+3° Anno:   
+1) Chirurgia d'urgenza e di pronto soccorso (quadriennale (III);   
+2) Chirurgia generale (quadriennale) (III);   
+3) Neurotraumatologia (biennale) (I);   
+4) Chirurgia plastica-riparatrice (biennale) (II);   
+5) Valutazione medico-legale delle lesioni chirurgiche;   
+6) Chirurgia toracica d'urgenza;   
+7) Chirurgia cardio-vascolare d'urgenza;   
+8) Chirurgia pediatrica d'urgenza.   
+4° Anno:   
+1) Chirurgia d'urgenza e di pronto soccorso (quadriennale) (IV);   
+2) Chirurgia generale (quadriennale) (IV);   
+3) Neurotraumatologia (biennale) (II);   
+4) Fisiopatologia del politraumatizzato;   
+5) Trattamento del politraumatizzato;   
+6) Rianimazione.   
+Art. 600. - La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.   
+L'internato e' obbligatorio durante tutti i quattro anni del corso, che si svolgera' presso l'istituto di chirurgia ove ha sede la direzione della Scuola sotto forma di permanenza costante in tale istituto durante le ore della sua attivita', con presenza giornaliera nei vari reparti.   
+Dall'Obbligo di tale internato, saranno esentati quegli allievi che, in qualita' di assistenti o di aiuti, prestino effettivamente servizio presso reparti di chirurgia d'urgenza e di pronto soccorso delle Universita' e di ospedali regionali e/o provinciali.   
+Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni e sui turni di servizio interno.   
+L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.   
+Art. 601. - Alla fine di ogni anno di corso gli iscritti sono tenuti a superare, in un unico gruppo, tutti gli esami relativi ai singoli insegnamenti di ciascun anno per il passaggio all'anno successivo. Gli esami biennali e quadriennali saranno sostenuti rispettivamente alla fine di ciascun corso biennale e quadriennale.   
+Gli esami possono essere sostenuti solamente in due sessioni annuali, una estiva ed una autunnale e comunque non oltre il 30 novembre dell'anno in corso.   
+Art. 602. - Per conseguire il diploma di specializzazione i candidati, dopo aver superato tutti gli esami di profitto, dovranno superare l'esame di diploma consistente nella discussione di una tesi scritta a carattere clinico o sperimentale su argomenti attinenti alla specialita'.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 maggio 1978
+### Dato a Roma, addi' 28 ottobre 1974
 
-LEONE PEDINI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 9 ottobre 1978
+Registrato alla Corte dei conti, addi' 27 gennaio 1975
 
-Registro n. 109 Istruzione, foglio n. 194
+Atti di Governo, registro n. 8, foglio n. 43

@@ -1,23 +1,134 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1974 n. 515
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 settembre 1962 n. 1580
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1974 n. 515
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 settembre 1962 n. 1580
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, numero 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), modificato con [regio decreto 26 ottobre 1940, n. 1909](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1909) e successivi;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;743);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare la nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art 46. - Agli insegnamenti complementari del corso di Laurea in Medicina e chirurgia e' aggiunto quello di "Gerontologia e geriatria".
+
+L'art. 70, relativo alla propedeuticita' del corso di laurea in Medicina veterinaria e' abrogato e sostituito dal seguente:
+
+Art. 70. - a) Due insegnamenti complementari a corso semestrale valgono per un insegnamento complementare a corso annuale.
+
+b) Per ottenere l'iscrizione al secondo biennio lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali del primo biennio ed almeno in tre da lui scelti tra i complementari.
+
+c) L'esame di "Chimica" deve precedere quello di Fisiologia generale e speciale degli animali domestici e Chimica biologica".
+
+d) L'esame di "Zoologia generale" deve precedere quello di "Anatomia degli animali domestici con Istologia ed Embriologia" ed anche quello di "Zootecnica speciale".
+
+e) L'esame di "Anatomia degli animali domestici con Istologia ed Embriologia" deve precedere quello di "Fisiologia generale e speciale degli animali domestici e Chimica biologica".
+
+f) Per l'Anatomia degli animali domestici con Istologia ed Embriologia (corso biennale) si deve superare, alla fine del primo anno, un colloquio vertente su argomenti di Osteologia, Artrologia e Miologia, ed alla fine del secondo anno, un esame comprendente una prova pratica sul cadavere, una prova di microscopio ed una prova teorica con votazione unica.
+
+g) Per la "Patologia generale ed Anatomia patologica" (corso biennale) deve superare alla fine del terzo anno un colloquio vertente sulla Patologia generale ed alla fine del quarto anno un esame unico di "Patologia generale ed anatomia patologica".
+
+h) L'esame di "Patologia generale ed Anatomia patologica" deve precedere quelli di "Patologia speciale medica", di "Patologia speciale chirurgica" di "Malattie infettive, profilassi e pulizia veterinaria" e di "Ispezione degli alimenti di origine animale".
+
+i) Gli insegnamenti di "Patologia speciale e Clinica medica" e di "Patologia speciale e Clinica chirurgica" comportano un esame teorico ed una prova pratica.
+
+l) L'esame di "Patologia speciale chirurgica" e quello di "Patologia speciale medica" devono precedere le rispettive prove pratiche di "Clinica chirurgica" e di "Clinica medica".
+
+m) Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami negli insegnamenti fondamentali del secondo biennio ed almeno in tre insegnamenti da lui scelti tra i complementari.
+
+n) L'esame di laurea consiste nella discussione orale di una dissertazione scritta e di tre tesine orali.
+
+o) Una delle tesine deve essere scelta nelle Discipline biologiche, una nelle Discipline di applicazione".
+
+Dopo l'art. 103, relativo alla Scuola, di specializzazione in Igiene generale e speciale e' aggiunto il seguente nuovo ordinamento di studi per il diploma di specialista in Chimica applicata all'igiene, con il conseguente spostamento della numerazione degli articoli successivi.
+
+Art. 104. - Il corso di studi per il conseguimento del diploma di specialista in Chimica applicata all'igiene ha la durata di due anni.
+
+Il numero massimo degli iscritti a ciascun anno di corso e' di 10.
+
+Le materie d'insegnamento sono:
+
+1° anno:
+
+1) Legislazione sanitaria;
+
+2) Microbiologia generale;
+
+3) Epidemiologia e profilassi generale;
+
+4) Analisi chimica qualitativa e quantitativa;
+
+5) Analisi organica e farmaceutica;
+
+6) Idrologia;
+
+2° anno:
+
+1) Regolamento d'igiene sugli alimenti, bevanda sostanze e prodotti agrari;
+
+2) Fisica applicata all'igiene;
+
+3) Chimica applicata all'igiene;
+
+4) Chimica bromatologica;
+
+5) Igiene generale.
+
+L'art. 114, relativo alla Scuola di specializzazione in Medicina del lavoro e' abrogato e sostituito dal seguente:
+
+"Il corso ha la durata di due anni. Il numero degli iscritti a ciascun anno dei due anni di corso sara' ai massimo di quindici".
+
+L'art. 118, relativo alla Scuola di specializzazione in Ostetricia e ginecologia, il secondo comma e' abrogato e sostituito dal seguente: "Il corso ha la durata di quattro anni. Il numero degli iscritti per ciascun anno di corso non sara' superiore ad otto".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 17 settembre 1962
+
+SEGNI
+
+GUI
+
+Visto, il Guardasigilli: BOSCO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 14 novembre 1962 Atti del Governo, registro n. 160, foglio n. 20, - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905), e Successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio-decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, numero 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), modificato con [regio decreto 26 ottobre 1940, n. 1909](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1909) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;743);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Riconosciuta la particolare necessita' di approvare la nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
@@ -25,18 +136,58 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Il primo comma dell'art. 142, relativo alla scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio, istituita con [decreto del Presidente della Repubblica 30 ottobre 1970, n. 1169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-10-30;1169), e' modificato nel senso che il numero degli iscritti da ammettere alla scuola suddetta e' fissato in quarantotto (48) per l'intero corso di studi.  
+Art 46. - Agli insegnamenti complementari del corso di Laurea in Medicina e chirurgia e' aggiunto quello di "Gerontologia e geriatria".  
+  
+L'art. 70, relativo alla propedeuticita' del corso di laurea in Medicina veterinaria e' abrogato e sostituito dal seguente:  
+Art. 70. - a) Due insegnamenti complementari a corso semestrale valgono per un insegnamento complementare a corso annuale.  
+b) Per ottenere l'iscrizione al secondo biennio lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali del primo biennio ed almeno in tre da lui scelti tra i complementari.  
+c) L'esame di "Chimica" deve precedere quello di Fisiologia generale e speciale degli animali domestici e Chimica biologica".  
+d) L'esame di "Zoologia generale" deve precedere quello di "Anatomia degli animali domestici con Istologia ed Embriologia" ed anche quello di "Zootecnica speciale".  
+e) L'esame di "Anatomia degli animali domestici con Istologia ed Embriologia" deve precedere quello di "Fisiologia generale e speciale degli animali domestici e Chimica biologica".  
+f) Per l'Anatomia degli animali domestici con Istologia ed Embriologia (corso biennale) si deve superare, alla fine del primo anno, un colloquio vertente su argomenti di Osteologia, Artrologia e Miologia, ed alla fine del secondo anno, un esame comprendente una prova pratica sul cadavere, una prova di microscopio ed una prova teorica con votazione unica.  
+g) Per la "Patologia generale ed Anatomia patologica" (corso biennale) deve superare alla fine del terzo anno un colloquio vertente sulla Patologia generale ed alla fine del quarto anno un esame unico di "Patologia generale ed anatomia patologica".  
+h) L'esame di "Patologia generale ed Anatomia patologica" deve precedere quelli di "Patologia speciale medica", di "Patologia speciale chirurgica" di "Malattie infettive, profilassi e pulizia veterinaria" e di "Ispezione degli alimenti di origine animale".  
+i) Gli insegnamenti di "Patologia speciale e Clinica medica" e di "Patologia speciale e Clinica chirurgica" comportano un esame teorico ed una prova pratica.  
+l) L'esame di "Patologia speciale chirurgica" e quello di "Patologia speciale medica" devono precedere le rispettive prove pratiche di "Clinica chirurgica" e di "Clinica medica".  
+m) Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami negli insegnamenti fondamentali del secondo biennio ed almeno in tre insegnamenti da lui scelti tra i complementari.  
+n) L'esame di laurea consiste nella discussione orale di una dissertazione scritta e di tre tesine orali.  
+o) Una delle tesine deve essere scelta nelle Discipline biologiche, una nelle Discipline di applicazione".  
+Dopo l'art. 103, relativo alla Scuola, di specializzazione in Igiene generale e speciale e' aggiunto il seguente nuovo ordinamento di studi per il diploma di specialista in Chimica applicata all'igiene, con il conseguente spostamento della numerazione degli articoli successivi.  
+  
+Art. 104. - Il corso di studi per il conseguimento del diploma di specialista in Chimica applicata all'igiene ha la durata di due anni.  
+Il numero massimo degli iscritti a ciascun anno di corso e' di 10.  
+Le materie d'insegnamento sono:  
+  
+1° anno:  
+1) Legislazione sanitaria;  
+2) Microbiologia generale;  
+3) Epidemiologia e profilassi generale;  
+4) Analisi chimica qualitativa e quantitativa;  
+5) Analisi organica e farmaceutica;  
+6) Idrologia;  
+  
+2° anno:  
+1) Regolamento d'igiene sugli alimenti, bevanda sostanze e prodotti agrari;  
+2) Fisica applicata all'igiene;  
+3) Chimica applicata all'igiene;  
+4) Chimica bromatologica;  
+5) Igiene generale.  
+  
+L'art. 114, relativo alla Scuola di specializzazione in Medicina del lavoro e' abrogato e sostituito dal seguente:  
+"Il corso ha la durata di due anni. Il numero degli iscritti a ciascun anno dei due anni di corso sara' ai massimo di quindici".  
+  
+L'art. 118, relativo alla Scuola di specializzazione in Ostetricia e ginecologia, il secondo comma e' abrogato e sostituito dal seguente: "Il corso ha la durata di quattro anni. Il numero degli iscritti per ciascun anno di corso non sara' superiore ad otto".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 aprile 1974
+### Dato a Roma, addi' 17 settembre 1962
 
-LEONE MALFATTI
+SEGNI GUI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 28 ottobre 1974
+Registrato alla Corte dei conti, addi' 14 novembre 1962
 
-Atti di Governo, registro n. 6, foglio n. 59. - SCIARRETTA
+Atti del Governo, registro n. 160, foglio n. 20, - VILLA

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1222
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1205
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1222
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1205
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
@@ -10,66 +10,275 @@ Modificazioni allo statuto dell'Universita' degli studi di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli Studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella legge. 2 gennaio 1936, n. 73;
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 120. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in neuropsichiatria infantile.
+
+Dopo l'art. 242 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in neuropsichiatria infantile.
+
+Scuola di specializzazione in neuropsichiatria infantile
+
+Art. 243. - La durata del corso e' di anni 4.
+
+La sede della scuola: a periodi alterni di due anni: presso la clinica delle malattie nervose e mentali e presso la clinica pediatrica.
+
+Alla direzione si alterneranno ogni due anni il direttore della clinica delle malattie nervose e mentali e il direttore della clinica pediatrica.
+
+La scuola e' retta secondo le norme del regolamento generale per le scuole di specializzazione dell'Universita' di Torino.
+
+Il numero delle iscrizioni e' di venti per ogni anno.
+
+L'ammissione e' per titoli ed esami.
+
+E' obbligatoria la frequenza alle lezioni e alle esercitazioni.
+
+L'internato e' obbligatorio per sei mesi in clinica pediatrica per gli studenti del 1° anno; di tre mesi in clinica delle malattie nervose e mentali e di tre mesi nell'istituto di clinica psichiatrica per gli studenti del 2° anno; di sei mesi per gli studenti del 3° anno e di sei mesi per gli studenti del 4° anno in clinica delle malattie nervose e mentali e in clinica pediatrica a periodi alterni di pari durata.
+
+Nei periodi di internato gli studenti frequenteranno anche istituti e centri specializzati collegati con le cliniche universitarie.
+
+Art. 244. - Le materie sono le seguenti:
+
+1° Anno:
+
+1) Anatomia ed embriologia del sistema nervoso;
+
+2) Fisiologia del sistema nervoso con particolare riguardo all'eta' evolutiva;
+
+3) Genetica;
+
+4) Endocrinologia dell'eta' evolutiva e auxologia;
+
+5) Patologia e clinica pediatrica;
+
+6) Tecniche di laboratorio.
+
+2° Anno:
+
+7) Anatomia patologica del sistema nervoso;
+
+8) Biochimica patologica del sistema nervoso;
+
+9) Psicologia dell'eta' evolutiva;
+
+10) Semeiotica e clinica neurologica;
+
+11) Semeiotica e clinica psichiatrica.
+
+3° Anno:
+
+12) Psicopatologia dell'eta' evolutiva;
+
+13) Semeiotica e clinica neurologica infantile;
+
+14) Psicodiagnostica dell'eta' evolutiva;
+
+15) Elettrofisiologia;
+
+16) Neuroradiologia;
+
+17) Neurochirurgia dell'eta' evolutiva;
+
+18) Semeiotica e clinica psichiatrica infantile (1° corso).
+
+4° Anno:
+
+19) Clinica psichiatrica infantile;
+
+20) Terapia generale delle malattie mentali infantili;
+
+21) Psicoterapia dell'eta' evolutiva;
+
+22) Foniatria;
+
+23) Psicopedagogia;
+
+24) Sociologia applicata alla popolazione infantile;
+
+25) Organizzazione diagnostico-assistenziale e legislazione;
+
+ESAMI
+
+1° Anno:
+
+1) Embriologia e anatomia del sistema nervoso;
+
+2) Fisiologia del sistema nervoso;
+
+3) Genetica, endocrinologia e auxologia;
+
+4) Patologia e clinica pediatrica.
+
+2° Anno:
+
+5) Anatomia e biochimica patologica del sistema nervoso;
+
+6) Psicologia dell'eta' evolutiva;
+
+7) Semeiotica e clinica neurologica;
+
+8) Semeiotica e clinica psichiatrica.
+
+3° Anno:
+
+9) Semeiotica e clinica neurologica infantile;
+
+10) Psicopatologia dell'eta' evolutiva;
+
+11) Psicodiagnostica dell'eta' evolutiva.
+
+4° Anno:
+
+12) Semeiotica e clinica psichiatrica infantile;
+
+13) Psicopedagogia;
+
+14) Organizzazione diagnostico-assistenziale e legislazione.
+
+Art. 245. - Norme:
+
+Per ottenere l'iscrizione al 2°, 3° e 4° anno di specializzazione gli iscritti dovranno aver sostenuto gli esami delle materie prescritte per l'anno precedente, tranne che per la clinica psichiatrica infantile il cui esame va sostenuto al 4° anno.
+
+Gli specialisti in clinica delle malattie nervose e mentali o in neurologia o in psichiatria, sono iscritti di ufficio al 2° anno della scuola e sono esentati dal sostenere gli esami di profitto numeri 1), 2), 5), 7), 8) e dall'espletare il periodo di internato in neurologia e psichiatria.
+
+Gli specialisti in clinica pediatrica sono iscritti d'ufficio al 2° anno della scuola e sono esentati dal sostenere esami di profitto numeri 3) e 4) e dall'espletare il periodo di internato del 1° anno.
+
+Per conseguire il diploma di specialista in neuropsichiatria infantile gli iscritti, al termine degli esami, dovranno presentare e discutere una dissertazione scritta su un argomento di neuropsichiatria infantile.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 30 ottobre 1970
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 19 gennaio 1971 Atti del Governo, registro n. 240, foglio n. 73. - CARUSO
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Art. 78 - il primo comma dell'art. 78, relativo al corso di laurea in fisica, e' soppresso e sostituito dal seguente nuovo comma:  
-Art. 78. - Sono insegnamenti fondamentali obbligatori a tutti gli indirizzi, per quel che riguarda il primo biennio, i seguenti:  
-1) fisica generale I;  
-2) analisi matematica I;  
-3) geometria I;  
-4) esperimentazioni fisica I;  
-5) fisica generale II;  
-6) analisi matematica II;  
-7) meccanica razionale;  
-8) chimica con esercitazioni di laboratorio (per fisici);  
-9) esperimentazioni fisica II.  
-E' soppresso, inoltre, l'ultimo comma dello stesso art. 78 e sostituito dal seguente nuovo comma:  
-"I corsi 4, 8, 9 comprendono esercitazioni sperimentali che gli studenti eseguiranno in laboratorio e comportano un esame finale".  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli Studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Art. 80 - il primo comma dell'art. 80 relativo al numero degli esami da sostenere per il corso di laurea in fisica e' soppresso e sostituito dal seguente nuovo comma:  
-"Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami dei diciotto insegnamenti di cui agli articoli precedenti".  
+Decreta:   
+  
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+  
+Art. 120. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in neuropsichiatria infantile.   
+  
+Dopo l'art. 242 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in neuropsichiatria infantile.   
+  
+Scuola di specializzazione in neuropsichiatria infantile   
+  
+Art. 243. - La durata del corso e' di anni 4.   
+La sede della scuola: a periodi alterni di due anni: presso la clinica delle malattie nervose e mentali e presso la clinica pediatrica.   
+Alla direzione si alterneranno ogni due anni il direttore della clinica delle malattie nervose e mentali e il direttore della clinica pediatrica.   
+La scuola e' retta secondo le norme del regolamento generale per le scuole di specializzazione dell'Universita' di Torino.   
+Il numero delle iscrizioni e' di venti per ogni anno.   
+L'ammissione e' per titoli ed esami.   
+E' obbligatoria la frequenza alle lezioni e alle esercitazioni.  
+L'internato e' obbligatorio per sei mesi in clinica pediatrica per gli studenti del 1° anno; di tre mesi in clinica delle malattie nervose e mentali e di tre mesi nell'istituto di clinica psichiatrica per gli studenti del 2° anno; di sei mesi per gli studenti del 3° anno e di sei mesi per gli studenti del 4° anno in clinica delle malattie nervose e mentali e in clinica pediatrica a periodi alterni di pari durata.   
+Nei periodi di internato gli studenti frequenteranno anche istituti e centri specializzati collegati con le cliniche universitarie.   
+  
+Art. 244. - Le materie sono le seguenti:   
+1° Anno:   
+1) Anatomia ed embriologia del sistema nervoso;   
+2) Fisiologia del sistema nervoso con particolare riguardo all'eta' evolutiva;   
+3) Genetica;   
+4) Endocrinologia dell'eta' evolutiva e auxologia;   
+5) Patologia e clinica pediatrica;   
+6) Tecniche di laboratorio.   
+2° Anno:   
+7) Anatomia patologica del sistema nervoso;   
+8) Biochimica patologica del sistema nervoso;   
+9) Psicologia dell'eta' evolutiva;   
+10) Semeiotica e clinica neurologica;   
+11) Semeiotica e clinica psichiatrica.   
+3° Anno:   
+12) Psicopatologia dell'eta' evolutiva;   
+13) Semeiotica e clinica neurologica infantile;   
+14) Psicodiagnostica dell'eta' evolutiva;   
+15) Elettrofisiologia;   
+16) Neuroradiologia;   
+17) Neurochirurgia dell'eta' evolutiva;   
+18) Semeiotica e clinica psichiatrica infantile (1° corso).   
+4° Anno:   
+19) Clinica psichiatrica infantile;   
+20) Terapia generale delle malattie mentali infantili;   
+21) Psicoterapia dell'eta' evolutiva;   
+22) Foniatria;   
+23) Psicopedagogia;   
+24) Sociologia applicata alla popolazione infantile;   
+25) Organizzazione diagnostico-assistenziale e legislazione;   
+  
+ESAMI   
+  
+1° Anno:   
+1) Embriologia e anatomia del sistema nervoso;   
+2) Fisiologia del sistema nervoso;   
+3) Genetica, endocrinologia e auxologia;   
+4) Patologia e clinica pediatrica.   
+2° Anno:   
+5) Anatomia e biochimica patologica del sistema nervoso;   
+6) Psicologia dell'eta' evolutiva;   
+7) Semeiotica e clinica neurologica;   
+8) Semeiotica e clinica psichiatrica.   
+3° Anno:   
+9) Semeiotica e clinica neurologica infantile;   
+10) Psicopatologia dell'eta' evolutiva;   
+11) Psicodiagnostica dell'eta' evolutiva.   
+4° Anno:   
+12) Semeiotica e clinica psichiatrica infantile;   
+13) Psicopedagogia;   
+14) Organizzazione diagnostico-assistenziale e legislazione.   
+  
+Art. 245. - Norme:   
+Per ottenere l'iscrizione al 2°, 3° e 4° anno di specializzazione gli iscritti dovranno aver sostenuto gli esami delle materie prescritte per l'anno precedente, tranne che per la clinica psichiatrica infantile il cui esame va sostenuto al 4° anno.   
+Gli specialisti in clinica delle malattie nervose e mentali o in neurologia o in psichiatria, sono iscritti di ufficio al 2° anno della scuola e sono esentati dal sostenere gli esami di profitto numeri 1), 2), 5), 7), 8) e dall'espletare il periodo di internato in neurologia e psichiatria.   
+Gli specialisti in clinica pediatrica sono iscritti d'ufficio al 2° anno della scuola e sono esentati dal sostenere esami di profitto numeri 3) e 4) e dall'espletare il periodo di internato del 1° anno.   
+Per conseguire il diploma di specialista in neuropsichiatria infantile gli iscritti, al termine degli esami, dovranno presentare e discutere una dissertazione scritta su un argomento di neuropsichiatria infantile.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1983
+### Dato a Roma, addi' 30 ottobre 1970
 
-PERTINI FALCUCCI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 28 aprile 1984
+Registrato alla Corte dei conti, addi' 19 gennaio 1971
 
-Registro n. 25 Istruzione, foglio n. 177
+Atti del Governo, registro n. 240, foglio n. 73. - CARUSO

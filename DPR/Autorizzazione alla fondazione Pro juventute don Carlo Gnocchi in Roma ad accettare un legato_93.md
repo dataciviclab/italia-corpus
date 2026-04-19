@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1975 n. 580
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 147
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1975 n. 580
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 147
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -10,11 +10,10 @@ Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad ac
 Art. 1
 ------
 
-N.
+n.
 
-580. Decreto del Presidente della Repubblica 29 settembre 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare un legato consistente in obbligazioni "E.N.E.L." per il valore nominale di L. 1.000.000, disposto dalla sig.ra Maria Cecchini in favore dell'Istituto don Gnocchi, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, con testamento olografo 2 marzo 1970, pubblicato in data 27 novembre 1973, n. 3311 di repertorio, n. 2400 di raccolta a rogito avv.  
-Domenico De Nigris notaio in Albano Laziale (Roma), e registrato ad Albano il 4 dicembre 1973, al n. 3286, mod. 3.  
+147. Decreto del Presidente della Repubblica 10 febbraio 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in una somma di L. 27.919.100, disposto dalla sig.ra Catenacci Luigia ved. Mariani con testamento olografo 20 aprile 1983, pubblicato in data 7 luglio 1983, n. 84384/9262 di repertorio, a rogito dott. Acquarone Domenico, notaio in Milano, registrato a Milano in data 21 luglio 1983 al n. 17621.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 26 novembre 1975  
-Atti di Governo, registro n. 14, foglio n. 43
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 22 aprile 1986  
+Registro n. 4 Presidenza, foglio n. 48

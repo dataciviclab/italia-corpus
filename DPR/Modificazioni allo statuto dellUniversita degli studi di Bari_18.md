@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 929
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 marzo 1958 n. 334
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 929
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 marzo 1958 n. 334
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,74 +10,36 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e modificato con [regio decreto 31 ottobre 1929, n. 2481](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2481), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successivi;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 64. - All'elenco degli insegnamenti complementari nel corso di laurea in farmacia e' aggiunto l'insegnamento complementare di "Psicobiologia e psicofarmacologia".  
-Art. 71. - All'elenco degli insegnamenti complementari nel corso di laurea in scienze agrarie sono aggiunti i seguenti insegnamenti:  
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 52. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di:   
+"Lingua e letteratura portoghese".   
+Art. 56. - Agli insegnamenti complementari del corso di laurea in filosofia e' aggiunto quello di:   
+"Filosofia della scienza".   
   
-Agrumicoltura (annuale);  
-Pomologia (annuale);  
-Tecnica dei frangiventi (semestrale);  
-Colture protette (semestrale);  
-Tecnica della fertilizzazione (annuale);  
-Tecnica agronomica dell'irrigazione (annuale);  
-Genetica vegetale (annuale);  
-Produzione e controllo delle sementi (semestrale);  
-Genetica vegetale quantitativa (semestrale);  
-Microbiologia industriale (semestrale);  
-Micotossicologia (semestrale);  
-Patologia delle sementi (semestrale);  
-Patologia dei prodotti e delle derrate agrarie (annuale);  
-Diserbanti (annuale);  
-Residui dei biocidi e biodegradazione (semestrale);  
-Fisiologia zootecnica (annuale);  
-Ovinicoltura (annuale);  
-Tecnica dell'alimentazione del bestiame (annuale);  
-Zooeconomia (annuale);  
-Edilizia zootecnica (semestrale);  
-Etnografia zootecnica e studio della popolazione (annuale);  
-Approvvigionamenti annonari (annuale);  
-Proprieta' fisico-meccaniche dei prodotti agricoli (annuale);  
-Impianti frigoriferi (annuale);  
-Macchine ed impianti di industrie agrarie (annuale);  
-Costruzione ed impianti per le coltivazioni protette (annuale);  
-Impianti idrici rurali (annuale);  
-Analisi contabile e gestione aziendale (annuale);  
-Istituzioni di statistica economico-agraria (annuale);  
-Programmazione economica in agricoltura (annuale);  
-Economia degli investimenti pubblici e privati in agricoltura (semestrale);  
-Tecnologia degli oli grassi e derivati (annuale);  
-Legislazione dei prodotti agrari e delle sostanze di uso agrario (annuale);  
-Industria della distillazione (annuale);  
-Principi e metodi di applicazione della lotta chimica contro gli insetti (annuale);  
-Entomologia ortofrutticola (annuale);  
-Tecniche di lotta biologica (annuale);  
-Chimica degli antiparassitari (annuale);  
-Pedologia (annuale);  
-Biochimica vegetale (annuale).  
 
-Il presente decreto munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 5 marzo 1958
 
-LEONE SCALFARO
+GRONCHI MORO
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 17 gennaio 1973
+Registrato alla Corte dei conti, addi' 11 aprile 1958
 
-Atti di Governo, registro n. 255, foglio n. 38. - VALENTINI
+Atti del Governo, registro n. 112, foglio n. 13. - DI PRETORO

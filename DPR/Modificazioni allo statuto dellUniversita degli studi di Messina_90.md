@@ -1,202 +1,112 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1980 n. 652
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1978 n. 637
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1980 n. 652
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1978 n. 637
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923), e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio universitario nazionale nei suoi pareri;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Veduto il [parere della sezione prima del Consiglio di Stato, n. 1902/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
-
-Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
-
-Sulla
------
-
-proposta, del Ministro della pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Lo statuto dell'Universita' di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 103, relativo alle norme generali delle scuole di specializzazione in medicina e chirurgia, e' integrato con il seguente nuovo comma:  
+Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923) e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
-Possono iscriversi alle scuole di specializzazione i laureati in medicina e chirurgia salvo diversi indirizzi; e' richiesto almeno all'inizio del corso il possesso della abilitazione all'esercizio professionale rilasciato dalla autorita' competente.  
-
-Art. 2
-------
-
+Decreta:  
   
-L'art. 104, relativo alle norme generali delle scuole di specializzazione in medicina e chirurgia, e' integrato con il seguente nuovo comma:  
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 76 - nel comma A, relativo al seminario chimico della facolta' di scienze matematiche, fisiche e naturali, il quarto comma e' abrogato e sostituito dal seguente:  
+"L'iscrizione al seminario e' consigliata per gli studenti del triennio di applicazione dei corsi di laurea in chimica (possono iscriversi anche gli studenti di altre facolta) nonche' i laureati e diplomati ed i laureandi fuori corso".  
+Nello stesso articolo relativo al seminario fisico il comma B e' abrogato e sostituito dal seguente:  
+"Il seminario fisico della facolta' di scienze ha lo scopo di diffondere la conoscenza della fisica pura ed applicata e di impartire ad allievi particolarmente distintisi nello studio e nella ricerca una preparazione supplementare atta alla completa valorizzazione delle loro capacita'. L'attivita' del seminario consiste in corsi di perfezionamento e di aggiornamento, esercitazioni, conferenze, discussioni, viaggi di istruzione e in quanto altro possa servire allo scopo indicato. Il seminario si avvale delle attrezzature didattiche e della biblioteca dell'istituto di fisica. Al seminario fisico appartengono i professori ufficiali di fisica della facolta' di scienze, i quali annualmente propongono al rettore la nomina di un consiglio di quattro membri e un direttore.  
+Il consiglio cura la pubblicazione dei testi di corsi di lezioni e di conferenze di particolare interesse, e presenta al rettore una relazione annua sull'attivita' svolta. L'iscrizione al seminario e' consigliata per gli studenti laureandi, in corso e fuori corso, e per i laureati. Agli iscritti al seminario viene rilasciato un attestato degli studi compiuti e del profitto dimostrato".  
+Dopo il seminario fisico e' istituito il seminario matematico:  
   
-L'ammissione alla scuola avviene per titoli ed esami.  
-
-Art. 3
-------
-
-  
-Gli articoli 110 e 111, relativi alle norme generali delle scuole di specializzazione di medicina e chirurgia, sono soppressi e sostituiti dal seguente nuovo articolo, con il conseguente spostamento della numerazione degli articoli successivi.  
-Art. 110. - Non sono consentite abbreviazioni di corso.  
-
-Art. 4
-------
-
-  
-L'art. 112, relativo alle norme generali delle scuole di specializzazione in medicina e chirurgia, e' soppresso e sostituito dal seguente nuovo articolo:  
-Art. 112. - Il numero degli allievi assegnati al corso non puo' essere superato, fatta eccezione per l'ammissione dei riprovati degli anni precedenti e di coloro che, per giustificato motivo, avessero interrotto la successione dei corsi, i quali ultimi saranno ammessi in soprannumero in analogia alla normativa prevista per la reiscrizione degli studenti ai corsi di laurea.  
-
-Art. 5
-------
-
-  
-Gli articoli 184, 185, 186, relativi alla scuola di specializzazione in microbiologia, sono soppressi e sostituiti dai seguenti:  
-Art. 184. - La scuola di specializzazione in microbiologia ha sede presso gli istituti di patologia generale e di microbiologia della facolta' di medicina dell'Universita' di Messina e conferisce il diploma di specialista in microbiologia con indirizzo tecnico.  
-La scuola di specializzazione in microbiologia ha lo scopo di allargare e approfondire sul piano scientifico la cultura di coloro che si dedicano allo studio di questa disciplina e di fornire, sul piano tecnico, una preparazione pratica scientifica.  
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia o al professore di ruolo o fuori ruolo di materia affine.  
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. E' contemplato un secondo indirizzo in tecniche microbiologiche al quale sono ammessi i laureati in medicina veterinaria, in scienze biologiche, in scienze naturali, in farmacia, in chimica e tecnologie farmaceutiche.  
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
-Il numero massimo degli allievi e' di trenta per anno di corso e complessivamente di centoventi iscritti per lo intero corso di studi.  
-L'ammissione al corso avviene per titoli ed esami.  
-Art. 185. - Le materie di insegnamento sono le seguenti:  
-  
-PRIMO BIENNIO  
-(comune ai due indirizzi)  
-  
-1° Anno:  
-1) batteriologia generale I;  
-2) tecniche batteriologiche;  
-3) immunologia generale;  
-4) genetica dei microrganismi.  
-2° Anno:  
-5) batteriologia generale II;  
-6) antibiotici e chemioterapici;  
-7) virologia generale;  
-8) immunologia generale e tecniche immunologiche;  
-9) dosaggio biologico ed analisi statistica.  
-  
-SECONDO BIENNIO  
-(indirizzo medico)  
-  
-3° Anno:  
-10) microrganismi patogeni e malattia;  
-11) batteriologia speciale I;  
-12) virologia speciale e tecniche virologiche;  
-13) micologia medica;  
-14) epidemiologia delle malattie infettive.  
-4° Anno:  
-15) batteriologia speciale II;  
-16) sierologia;  
-17) microbiologia degli alimenti;  
-18) microbiologia dell'ambiente;  
-19) protozoologia medica.  
-  
-SECONDO BIENNIO  
-(indirizzo in tecniche microbiologiche)  
-  
-3° Anno:  
-10) azione patogena dei microrganismi;  
-11) tecniche batteriologiche e batteriologia speciale I;  
-12) micologia generale e tecniche micologiche;  
-13) tecniche virologiche e virologia speciale;  
-14) protozoologia.  
-4° Anno:  
-15) tecniche batteriologiche e batteriologia speciale II;  
-16) microbiologia industriale;  
-17) esame microbiologico dell'ambiente;  
-18) controllo microbiologico degli ambienti;  
-19) tecniche sierologiche.  
-Il direttore puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari di conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola.  
-Art. 186. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
-Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale, l'esame e' sostenuto alla fine dei corsi medesimi. L'esame di diploma constera' di una discussione sopra una tesi scritta.  
-A coloro che abbiano superato l'esame finale viene rilasciato un diploma di specialista in microbiologia, e, per i non laureati in medicina e chirurgia, un diploma di specialista in microbiologia, con indirizzo tecnico.  
-
-Art. 6
-------
-
-  
-  
-Il secondo comma dell'art. 190 della scuola di specializzazione in chirurgia pediatrica di cui al [decreto del Presidente della Repubblica 18 febbraio 1978, n. 507](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-02-18;507), e soppresso e sostituito dal seguente:   
-Art. 190, secondo comma. - Il numero massimo degli allievi e' di venti iscritti per l'intero corso di studi. L'ammissione al corso avviene per titoli ed esami.   
-
-Art. 7
-------
-
-  
-  
-Dopo l'art. 186, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione della seguente scuola di specializzazione;   
-  
-Scuola di specializzazione in biochimica e chimica clinica   
-  
-Art. 187. - La scuola di specializzazione in biochimica e chimica clinica ha lo scopo di poter offrire una migliore qualificazione scientifica professionale a coloro che intendono dedicarsi alle discipline biochimiche con indirizzo medico-biologico.   
-Alla scuola, che ha la durata di tre anni, possono essere ammessi i laureati in medicina e chirurgia.   
-Il numero complessivo di specializzandi da ammettere alla scuola e' fissato in quarantacinque allievi ripartiti in quindici allievi per anno. L'ammissione alla scuola avviene per titoli ed esami.   
-La direzione della scuola viene assunta da un professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in mancanza, da un professore di ruolo o fuori ruolo di materia affine.   
-Art. 188. - Gli insegnamenti impartiti nei tre anni saranno i seguenti:   
-  
-INSEGNAMENTI FONDAMENTALI   
-  
-1° Anno:   
-1) biologia generale e speciale;   
-2) biologia molecolare;   
-3) biochimica analitica;   
-4) biometria.   
-2° Anno:   
-1) chimica clinica;   
-2) biochimica patologica;   
-3) enzimologia clinica;   
-4) biochimica dinamica.   
-3° Anno:   
-1) biochimica dei tessuti e degli organi;   
-2) biochimica ormonale;   
-3) biochimica farmacologica;   
-4) tossicologia.   
-  
-INSEGNAMENTI COMPLEMENTARI   
-  
-1) elementi di ematologia;   
-2) complementi di istologia patologica;   
-3) immunochimica;   
-4) igiene applicata al laboratorio di analisi chimico-cliniche;   
-5) elementi di legislazione sanitaria;   
-6) elementi di anatomia e fisiopatologia;   
-7) biofisica applicata con elementi di elettronica.   
-Art. 189. - Ogni materia di insegnamento e' anche materia d'esame il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo.   
-Per ottenere il diploma di specializzazione in biochimica e chimica clinica gli allievi devono superare quindi tutte le materie e almeno tre materie complementari (una per anno) scelte fra quelle indicate all'art. 188.   
-Alla fine dei tre anni gli allievi devono presentare una tesi scritta su tema concordato con il direttore della scuola e sostenere un esame di diploma. I candidati non riconosciuti idonei possono ripresentarsi dopo un altro anno di frequenza alla scuola.   
-A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista in biochimica e chimica clinica.   
+Comma C  
+"Il seminario matematico della facolta' di scienze ha lo scopo di diffondere la cultura matematica, di promuovere studi e ricerche nel campo della matematica pura ed applicata e di impartire ad allievi particolarmente distintisi nello studio e nella ricerca una preparazione supplementare atta alla completa valorizzazione delle loro capacita'.  
+L'attivita' del seminario consiste in esercitazioni, ricerche, conferenze, discussioni, comunicazioni scientifiche, viaggi di istruzione, corsi di preparazione e di aggiornamento e di quanto altro possa servire allo scopo indicato.  
+Al seminario matematico appartengono i professori ufficiali del corso di laurea in matematica della facolta' di scienze ed i professori di discipline matematiche degli altri corsi di laurea, i quali annualmente propongono al rettore la nomina di un consiglio di quattro membri e di un direttore, scelto fra i professori appartenenti al seminario.  
+L'iscrizione al seminario e' consigliata per gli studenti del secondo biennio dei corsi di laurea in matematica; possono altresi' iscriversi studenti di altri corsi di laurea o facolta' nonche' gia' laureati.  
+Il seminario matematico ha una propria raccolta di materiale didattico e scientifico affidata ad un responsabile nominato dal consiglio. Tale responsabile rimane in carica un anno.  
+Il seminario matematico pubblica, quando i fondi lo consentono, i corsi in esso tenuti, sotto la direzione di un comitato di redazione.  
+Agli iscritti al seminario puo' venire rilasciato un attestato degli studi compiuti e del profitto dimostrato.  
+Ai docenti che tengono i corsi puo' essere attribuito, sui fondi del seminario, un compenso forfettario.  
+La tassa di iscrizione e' fissata, per ciascun seminario, in L. 5.000 annue".  
+Art. 77 - all'elenco degli insegnamenti complementari del corso di laurea in matematica - ad indirizzo fisico - comune ai tre indirizzi sono aggiunti i seguenti:  
+elettrodinamica cosmica;  
+magnetofluidodinamica;  
+meccanica non lineare;  
+meccanica analitica;  
+teoria delle onde;  
+calcolo sensoriale ed applicazioni;  
+cosmologia.  
+Nello stesso articolo all'elenco degli insegnamenti complementari del corso di laurea in matematica - ad indirizzo matematico - sono aggiunti i seguenti:  
+teoria ed applicazioni delle macchine calcolatrici;  
+linguaggi formali e compilatori;  
+programmazione matematica;  
+metodi per il trattamento dell'informazione;  
+calcolo automatico e programmazione con applicazioni;  
+calcolatori elettronici e programmazione;  
+teoria dei gruppi.  
+Art. 78 - all'elenco degli insegnamenti complementari del corso di laurea in fisica sono aggiunti i seguenti:  
+Indirizzo generale:  
+biofisica, cibernetica e teoria delle informazioni;  
+fisica delle basse temperature;  
+fisica molecolare;  
+meccanica quantistica;  
+spettroscopia;  
+storia della fisica;  
+cristallografia.  
+Indirizzo didattico:  
+biofisica;  
+fisica delle basse temperature;  
+fisica molecolare;  
+meccanica quantistica;  
+spettroscopia;  
+storia della fisica;  
+cristallografia.  
+Indirizzo applicativo:  
+biofisica;  
+cibernetica e teoria delle informazioni;  
+fisica delle basse temperature;  
+fisica molecolare;  
+meccanica quantistica;  
+spettroscopia;  
+storia della fisica;  
+cristallografia;  
+geofisica applicata.  
+Art. 79 - all'elenco degli insegnamenti complementari del corso di laurea in chimica sono aggiunti i seguenti:  
+Indirizzo organico-biologico:  
+chimica degli eterociclici;  
+metodi fisici in chimica organica;  
+sperimentazione di didattica chimica.  
+Indirizzo inorganico-chimico fisico:  
+sperimentazione di didattica chimica;  
+stereochimica inorganica;  
+chimica nucleare;  
+termodinamica chimica;  
+chimica quantistica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 giugno 1980
+### Dato a Roma, addi' 15 marzo 1978
 
-PERTINI SARTI
+LEONE PEDINI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 8 ottobre 1980
+Registrato alla Corte dei conti, addi' 13 ottobre 1978
 
-Registro n. 92 Istruzione, foglio n. 138
+Registro n. 109 Istruzione, foglio n. 221

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1981 n. 832
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1973 n. 1180
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1981 n. 832
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1973 n. 1180
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,49 +20,117 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 30 - l'insegnamento di "Storia greca e romana" nel corso di laurea in lettere viene scisso nei due insegnamenti di "Storia greca" e "Storia romana".
+
+Art. 38 - all'elenco degli istituti annessi alla facolta' di lettere e filosofia e' aggiunto l'istituto di "Storia delle tradizioni popolari".
+
+Art. 41 - all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti insegnamenti:
+
+Storia della liturgia;
+
+Storia della chiesa medioevale;
+
+Storia della chiesa moderna e contemporanea;
+
+Epigrafia ed antichita' cristiane.
+
+Art. 43 - all'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti insegnamenti:
+
+Filosofia della religione;
+
+Storia della chiesa medioevale;
+
+Storia della chiesa moderna e contemporanea.
+
+Art. 59 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia, l'insegnamento di "Chirurgia d'urgenza" cambia denominazione in "Chirurgia d'urgenza e di pronto soccorso".
+
+Art. 62 - all'elenco degli istituti annessi alla facolta' di medicina e chirurgia e' aggiunto l'Istituto di "Antropologia criminale".
+
+L'art. 66, relativo al corso di laurea in farmacia, e' modificato nel senso che l'ultima frase: "... l'esame sull'insegnamento biennale di fisiologia generale viene sostenuto alla fine del biennio", e' abrogata e sostituita dalla seguente: "... l'insegnamento biennale di fisiologia generale comporta un esame alla fine di ogni anno: il primo sulla parte generale il secondo sulla parte speciale".
+
+Art. 123 - nell'elenco degli istituti annessi alla facolta' di ingegneria l'istituto di "Architettura e composizione architettonica" muta la denominazione in "Istituto di architettura e urbanistica".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Lussemburgo, ambasciata d'Italia, addi' 27 ottobre 1973
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: ZAGARI
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 29 ottobre 1974 Atti di Governo, registro n. 6, foglio n. 77. - SCIARRETTA
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-All'art. 66 relativo agli istituti della facolta' di farmacia e' aggiunto il seguente:  
-Istituto di biochimica, per gli insegnamenti di:  
-chimica biologica;  
-biochimica applicata;  
-chimica analitica clinica;  
-enzimologia;  
-biologia molecolare;  
-scienza dell'alimentazione.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Dopo l'art. 125, e con il conseguente spostamento della numerazione, e' aggiunto il seguente nuovo articolo relativo alla istituzione della biblioteca presso la facolta' di ingegneria:  
-"Alla facolta' e' annessa la biblioteca della facolta' di ingegneria con il fine di rendere disponibile a docenti e studenti documentazione scientifica e tecnica".  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Art. 30 - l'insegnamento di "Storia greca e romana" nel corso di laurea in lettere viene scisso nei due insegnamenti di "Storia greca" e "Storia romana".  
+  
+Art. 38 - all'elenco degli istituti annessi alla facolta' di lettere e filosofia e' aggiunto l'istituto di "Storia delle tradizioni popolari".  
+  
+Art. 41 - all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti insegnamenti:  
+  
+Storia della liturgia;  
+Storia della chiesa medioevale;  
+Storia della chiesa moderna e contemporanea;  
+Epigrafia ed antichita' cristiane.  
+  
+Art. 43 - all'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti insegnamenti:  
+  
+Filosofia della religione;  
+Storia della chiesa medioevale;  
+Storia della chiesa moderna e contemporanea.  
+  
+Art. 59 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia, l'insegnamento di "Chirurgia d'urgenza" cambia denominazione in "Chirurgia d'urgenza e di pronto soccorso".  
+  
+Art. 62 - all'elenco degli istituti annessi alla facolta' di medicina e chirurgia e' aggiunto l'Istituto di "Antropologia criminale".  
+  
+L'art. 66, relativo al corso di laurea in farmacia, e' modificato nel senso che l'ultima frase: "... l'esame sull'insegnamento biennale di fisiologia generale viene sostenuto alla fine del biennio", e' abrogata e sostituita dalla seguente: "... l'insegnamento biennale di fisiologia generale comporta un esame alla fine di ogni anno: il primo sulla parte generale il secondo sulla parte speciale".  
+  
+Art. 123 - nell'elenco degli istituti annessi alla facolta' di ingegneria l'istituto di "Architettura e composizione architettonica" muta la denominazione in "Istituto di architettura e urbanistica".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 marzo 1981
+### Dato a Lussemburgo, ambasciata d'Italia, addi' 27 ottobre 1973
 
-PERTINI BODRATO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 7 gennaio 1982
+Registrato alla Corte dei conti, addi' 29 ottobre 1974
 
-Registro n. 1 Istruzione, foglio n. 121
+Atti di Governo, registro n. 6, foglio n. 77. - SCIARRETTA

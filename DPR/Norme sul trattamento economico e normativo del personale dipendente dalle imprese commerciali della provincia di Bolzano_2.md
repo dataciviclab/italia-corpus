@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 866
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 1133
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 866
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 1133
+===============================================================
 
 Norme sul trattamento economico e normativo del personale dipendente dalle imprese commerciali della provincia di Bolzano.
 --------------------------------------------------------------------------------------------------------------------------
@@ -10,21 +10,17 @@ Norme sul trattamento economico e normativo del personale dipendente dalle impre
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
 
 Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
 Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
-Visto il contratto collettivo nazionale di lavoro 28 giugno 1958 per il personale dipendente dalle aziende commerciali;
+Visto il contratto collettivo nazionale di lavoro 28 giugno 1958, per il personale dipendente dalle aziende commerciali;
 
-Visti, per la provincia di Bolzano:
+Visto, per la provincia di Bolzano, il contratto collettivo integrativo 14 marzo 1959, e relative tabelle, stipulato tra l'Unione Provinciale delle Associazioni dei Commercianti, l'Unione Provinciale Frutta, l'Unione Provinciale Commercianti Vini all'Ingrosso e la Federazione Provinciale Lavoratori del Commercio - C.I.S.L. - la Camera Confederale del Lavoro - C.G.I.L., l'Unione italiana Lavoratori - U.I.L.;
 
-l'accordo collettivo integrativo 29 gennaio 1955, stipulato tra l'Unione Provinciale dei Commercianti e l'Unione Sindacale Provinciale - C.I.S.L. -, la Federazione Lavoratori del Commercio - C.I.S.L. -, la Camera Confederale del Lavoro - C.G.I.L. -, l'Unione italiana del Lavoro - U.I.L. -;
-
-l'accordo collettivo integrativo 2 gennaio 1957, stipulato tra l'Unione Provinciale dei Commercianti e la Federazione Provinciale dei sindacati Lavoratori Addetti al Commercio - C.I.S.L. -, la Camera Confederale del Lavoro - C.G.I.L. -, l'Unione italiana Lavoratori U.I.L. -;
-
-Vista la pubblicazione nell'apposito Bollettino, n. 20 e 21 della provincia di Bolzano, in data 6 ottobre 1961, degli accordi sopra indicati, depositati presso il Ministero del lavoro e della previdenza sociale, che ne ha accertato l'autenticita';
+Vista la pubblicazione nell'apposito Bollettino, n. 2 della provincia di Bolzano, in data 23 aprile 1960, del contratto collettivo integrativo sopra indicato, depositato presso il Ministero del lavoro e della previdenza sociale, che ne ha accertato l'autenticita';
 
 Sentito il Consiglio dei Ministri;
 
@@ -38,9 +34,9 @@ Articolo unico
 
   
   
-I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati, per la provincia di Bolzano, l'accordo collettivo integrativo 29 gennaio 1955 e l'accordo collettivo integrativo 2 gennaio 1957, relativi ai dipendenti dalle aziende commerciali, sono regolati da norme giuridiche uniformi alle clausole degli accordi anzidetti, annessi al presente decreto.  
+I rapporti di lavoro costituiti per le attivita' per le quali e' stato stipulato, per la provincia di Bolzano, il contratto collettivo integrativo 14 marzo 1959, relativo ai lavoratori dipendenti dalle aziende commerciali, sono regolati da norme giuridiche uniformi alle clausole del contratto anzidetto, annesso al presente decreto.  
 Dette norme sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i dipendenti dalle imprese commerciali della provincia di Bolzano.  
+I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese commerciali indicate nel contratto di cui al primo comma, della provincia di Bolzano.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
@@ -52,23 +48,15 @@ GRONCHI FANFANI - SULLO
 
 Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 19 giugno 1962
+Registrato alla Corte dei conti, addi' 14 luglio 1962
 
-Atti del Governo, registro n. 151, foglio n. 37. - VILLA
+Atti del Governo, registro n. 155, foglio n. 28. - VILLA
 
-Accordi collettivi
+Contratto Collettivo
 
-ACCORDO COLLETTIVO INTEGRATIVO 29 GENNAIO 1955 PER I DIPENDENTI DALLE AZIENDE COMMERCIALI DELLA PROVINCIA DI BOLZANO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U086600100010110001&dgu=1962-07-23&art.dataPubblicazioneGazzetta=1962-07-23&art.codiceRedazionale=062U0866)
+CONTRATTO COLLETTIVO INTEGRATIVO 14 MARZO 1959 PER I DIPENDENTI DALLE AZIENDE COMMERCIALI DELLA PROVINCIA DI BOLZANO.   
   
   
   
-  
-ACCORDO COLLETTIVO INTEGRATIVO 2 GENNAIO 1957 PER I DIPENDENTI   
-DALLE AZIENDE COMMERCIALI DELLA PROVINCIA DI BOLZANO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U086600100010110002&dgu=1962-07-23&art.dataPubblicazioneGazzetta=1962-07-23&art.codiceRedazionale=062U0866)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U113300100010110001&dgu=1962-08-13&art.dataPubblicazioneGazzetta=1962-08-13&art.codiceRedazionale=062U1133)
   

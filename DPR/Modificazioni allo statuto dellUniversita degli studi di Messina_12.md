@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 746
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1958 n. 878
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 746
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1958 n. 878
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
@@ -10,49 +10,36 @@ Modificazioni allo statuto dell'Universita' degli studi di Messina.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con regio decreto 26 ottobre 1940, in 1905, e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905) e successivi;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 28. - All'elenco degli insegnamenti complementari del corso di laurea in lettere vengono aggiunti i seguenti:  
-Storia del teatro;  
-Storia della critica letteraria;  
-Storia del cristianesimo.  
-Art. 33. - All'elenco degli insegnamenti complementari del corso di laurea in lingua e letterature straniere moderne (indirizzo europeo) sono aggiunti i seguenti:  
-Storia del teatro;  
-Storia della critica letteraria;  
-Storia del cristianesimo.  
-Art. 41. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere vengono aggiunti i seguenti:  
-Storia della lingua inglese;  
-Storia della lingua tedesca;  
-Lingue e letterature scandinave.  
-Art. 51, relativo all'elenco degli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali e' modificato nel senso che al punto a) dopo il seminario chimico viene aggiunto il "Seminario fisico".  
-Art. 52, relativo alle norme riguardanti il seminario classico e' integrato con il seguente comma:  
-"Il seminario fisico della facolta' di scienze ha lo scopo di diffondere la conoscenza della fisica, di promuovere studi e ricerche nel campo della fisica pura ed applicata e di impartire ad allievi particolarmente distintisi nello studio e nella ricerca una preparazione supplementare atta alla completa valorizzazione della loro capacita'. L'attivita' del seminario consiste in corsi di perfezionamento e di aggiornamento, esercitazione, conferenze, discussioni, viaggi di istruzione e in quanto altro possa servire allo scopo indicato. Il seminario si avvale delle attrezzature didattiche e della biblioteca dell'istituto di fisica. Al seminario fisico appartengono i professori ufficiali di fisica della facolta' di scienze, i quali annualmente propongono al rettore la nomina di un consiglio di quattro membri ed un direttore. Il consiglio cura la pubblicazione dei testi di corsi di lezioni e di conferenze di particolare interesse, e presenta al rettore una relazione annua sulla attivita' svolta. L'iscrizione al seminario e' consigliata per gli studenti laureandi, in corso o fuori corso, e per i laureati.  
-Agli iscritti puo' essere richiesto il versamento di contributi alle spese di pubblicazione dei testi, contributi che vengono stabiliti dal consiglio di amministrazione, su proposta del senato accademico udito il consiglio del seminario. Agli iscritti al seminario viene rilasciato un attestato degli studi compiuti e del profitto dimostrato.  
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 21. - Agli insegnamenti complementari del Corso di laurea in economia e commercio sono aggiunti i seguenti:   
+9) Tecnica delle ricerche di mercato e della distribuzione generale;   
+10) Tecnica amministrativa delle imprese di pubblici servizi;   
+11) Economia dei trasporti.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 settembre 1972
+### Dato a Roma, addi' 11 giugno 1958
 
-LEONE SCALFARO
+GRONCHI MORO
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 30 novembre 1972
+Registrato alla Corte dei conti, addi' 12 settembre 1958
 
-Atti del Governo, registro n. 253, foglio n. 97. - CARUSO
+Atti del Governo, registro n. 114, foglio n. 16. - RELLEVA

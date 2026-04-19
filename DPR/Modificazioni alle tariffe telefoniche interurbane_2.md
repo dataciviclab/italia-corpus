@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 marzo 1961 n. 413
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1964 n. 214
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 marzo 1961 n. 413
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1964 n. 214
+=============================================================
 
 Modificazioni alle tariffe telefoniche interurbane.
 ---------------------------------------------------
@@ -10,21 +10,17 @@ Modificazioni alle tariffe telefoniche interurbane.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Visto il Codice postale e delle telecomunicazioni, approvato con [regio decreti 27 febbraio 1936, n. 645](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645);
+Visto il Codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645);
 
 Visto il [regio decreto 19 luglio 1941, n. 1198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-07-19;1198);
 
 Visto l'art. 49 delle convenzioni stipulate con le Societa' concessionarie del servizio telefonico ad uso pubblico, approvate con [decreti del Presidente della Repubblica 14 dicembre 1957, numeri 1405](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-12-14;1405), [1406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-12-14;1406), [1407](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-12-14;1407), [1409 e 28 dicembre 1957](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-12-28;1409), [n. 1408](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-12-28;1408);
 
-Visto il [decreto del Presidente della Repubblica 23 marzo 1956, n. 432](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-03-23;432);
-
-Visto l'[art. 1 del decreto luogotenenziale 2 aprile 1946, n. 392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-02;392~art1);
-
-Visto l'[art. 2 del decreto legislativo 5 maggio 1948, n. 938](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-05;938~art2);
-
 Visto il [decreto del Presidente della Repubblica 22 settembre 1959, n. 770](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-09-22;770);
 
-Visti i provvedimenti del Comitato interministeriale del prezzi numeri 912 e [913 del 22 marzo 1961](http://www.normattiva.it/uri-res/N2Ls?urn:nir:comitato.interministeriale.prezzi:provvedimento:1961-03-22;913);
+Visto il decreto del Presidente della Repubblica 80 marzo 1961, n. 413;
+
+Visto il [provvedimento del Comitato interministeriale dei prezzi n. 1069 del 14 aprile 1964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:comitato.interministeriale.prezzi:provvedimento:1964-04-14;1069);
 
 Sentito il Consiglio dei Ministri;
 
@@ -37,59 +33,126 @@ Art. 1
 ------
 
   
-Le tariffe ordinarie per le comunicazioni interurbane interdistrettuali di cui al punto b), [primo comma, dello art. 2 del decreto del Presidente della Repubblica 22 settembre 1959, n. 770](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-09-22;770~art2-com1), sono sostituite dalle seguenti:  
-fino a 50 km....................................... L. 132  
-da oltre 50 km. fino a 100 km.................. " 204  
-da oltre 100 km. fino a 200 km.................. " 276  
-da oltre 200 km. fino a 400 km.................. " 348  
-da oltre 400 km. fino a 600 km.................. " 390  
-oltre 600 km....................................... " 420  
+L'[art. 3 del decreto del Presidente della Repubblica 22 settembre 1959, n. 770](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-09-22;770~art3), parzialmente modificato dagli [articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-03-30;413~art2) e [3 del decreto del Presidente della Repubblica 30 marzo 1961, n. 413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-03-30;413~art3), e' sostituito dal seguente:  
+"La tariffa di ciascuna comunicazione settoriale, distrettuale od interdistrettuale, effettuata in teleselezione da utente con il sistema di conteggio unitario, viene applicata mediante l'invio al contatore dell'apparecchio richiedente del seguente numero di impulsi:  
+Numero  
+degli impulsi per ogni unita '  
+  
+a) comunicazioni settoriali......................... 2  
+b) comunicazioni distrettuali:  
+fino a 25 km..................................... 5  
+da oltre 25 km. fino a 50 km..................... 7  
+oltre 50 km...................................... 12  
+c) comunicazioni interdistrettuali:  
+(escluse quelle di cui alla lettera d)  
+fino a 50 km..................................... 9  
+da oltre 50 km. fino a 100 km.................... 14  
+da oltre 100 km. fino a 200 km................... 18  
+da oltre 200 km. fino a 400 km................... 23  
+da oltre 400 km. fino a 600 km................... 26  
+oltre 600 km..................................... 28  
+d) comunicazioni interdistrettuali fra settori  
+coniugi di distretti diversi e fra distretti con  
+tigui i cui rispettivi centri siano a distanza  
+tariffaria non superiore a 25 km., purche in en  
+trambi i casi la lunghezza dei circuiti interur  
+bani impegnati non superi i 100 km.:  
+fino a 50 km..................................... 7  
+da oltre 50 km. fino a 100 km.................... 12  
+Valore di ciascun impulso: L. 15.  
+  
+La tariffa di ciascuna comunicazione settoriale, distrettuale od interdistrettuale effettuata in teleselezione da utente con il sistema di conteggio ritmico, viene applicata mediante l'invio al contatore dell'apparecchio richiedente del numero di impulsi indicato nella seguente tabella:  
+Ritmo  
+Numero degli impulsi degli Impulsi durante la alla risposta comunicazione dell'utente -  
+chiamato secondi  
+  
+a) comunicazioni settoriali.............. 1 60  
+b) comunicazioni distrettuali:  
+fino a 25 km.......................... 1 25  
+da oltre 25 km. fino a 50 km.......... 2 17,5  
+oltre 50 km........................... 2 10  
+c) comunicazioni interdistrettuali  
+(escluse quelle di cui alla lettera  
+d)  
+fino a 50 km.......................... 2 14  
+da oltre 50 km. fino a 100 km......... 2 10  
+da oltre 100 km. fino a 200 km........ 4 7,5  
+da oltre 200 km. fino a 400 km........ 4 6  
+da oltre 400 km. fino a 600 km........ 4 5  
+oltre 600 km.......................... 4 5  
+d) comunicazioni interdistrettuali  
+fra settori contigui di distretti di  
+versi e fra distretti contigui i cui  
+rispettivi centri siano a distanza ta  
+riffaria non superiore a 25 km., pur  
+che in entrambi i casi la lunghezza  
+dei circuiti interurbani impegnati non  
+superi i 100 Km.:  
+fino a 50 km.......................... 2 17,5  
+da oltre 50 km. fino a 100 km......... 2 10  
+Valore di ciascun impulso: L. 15".  
 
 Art. 2
 ------
 
   
-Il numero degli impulsi di cui all'art. 3, punto c), del [decreto del Presidente della Repubblica 22 settembre 1959, n. 770](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-09-22;770), per stabilire la tariffa di ciascuna comunicazione interdistrettuale effettuata in teleselezione da utente con il sistema di conteggio unitario, e' modificato come segue:  
-fino a 50 km....................................... 13  
-da oltre 50 km. fino a 100 km.................. 21  
-da oltre 100 km. fino a 200 km.................. 28  
-da oltre 200 km. fino a 400 km.................. 35  
-da oltre 400 km. fino a 600 km.................. 39  
-oltre 600 km....................................... 42  
+All'[art. 4 del decreto del Presidente della Repubblica 30 marzo 1961, n. 413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-03-30;413~art4), si aggiunge il seguente comma:  
+"Per le comunicazioni distrettuali od interdistrettuali effettuate in teleselezione da utente con il sistema di conteggio ritmico si applicano, con decorrenza 1 luglio 1961, le seguenti tariffe ridotte valevoli nei giorni festivi e nel periodo dalle ore ventitre alle ore sette dei giorni feriali:  
+Ritmo  
+Numero degli impulsi degli Impulsi durante la alla risposta comunicazione dell'utente -  
+chiamato secondi  
+  
+a) comunicazioni distrettuali:  
+fino a 25 km.......................... 1 50  
+da oltre 25 km. fino a 50 km......... 2 35  
+oltre 50 km........................... 2 20  
+b) comunicazioni interdistrettuali:  
+(escluse quelle di cui alla lettera  
+e)  
+fino a 50 km.......................... 2 28  
+da oltre 50 km. fino a 100 Km......... 2 20  
+da oltre 100 km. fino a 200 km........ 4 15  
+da oltre 200 km. fino a 400 km........ 4 12  
+da oltre 400 km. fino a 600 km........ 4 10  
+oltre 600 km.......................... 4 10  
+c) comunicazioni interdistrettuali fra  
+settori contigui di distretti diversi  
+e fra distretti contigui i cui rispet  
+tivi centri siano a distanza tariffa  
+ria non superiore a 25 km., purche in  
+entrambi i casi la lunghezza dei cir  
+cuiti interurbani impegnati non superi  
+i 100 km.:  
+fino a 50 km.......................... 2 85  
+da oltre 50 km. fino a 100 km......... 2 20  
+Valore di ciascun impulso: L. 15".  
 
 Art. 3
 ------
 
   
-Il ritmo degli impulsi di cui al punto c) del [secondo comma dell'art. 3 del decreto del Presidente della Repubblica 22 settembre 1959, n. 770](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-09-22;770~art3-com2), per stabilire la tariffa di ciascuna comunicazione interdistrettuale effettuata in teleselezione da utente con il sistema di conteggio ritmico, e' modificato come segue:  
-fino a 50 km................................secondi 9  
-da oltre 50 km. fino a 100 km........... " 6  
-da oltre 100 km. fino a 200 km........... " 4,5 da oltre 200 km. fino a 400 km........... " 3,5 da oltre 400 km. fino a 600 km........... " 3  
-oltre 600 km................................ " 3  
+Gli [articoli 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-09-22;770~art5) e [7 del decreto del Presidente della Repubblica 22 settembre 1959, n. 770](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-09-22;770~art7), sono sostituiti dai seguenti:  
+"Art. 5. - La tariffa per le comunicazioni nello ambito della rete urbana, effettuate da posti pubblici o da apparecchi a prepagamento, e' stabilita in L. 45 per ogni conversazione.  
+Per le comunicazioni in partenza da od in arrivo a posto telefonico pubblico impegnanti linee settoriali, distrettuali, od interdistrettuali, oltre alla relativa tariffa extraurbana e' dovuta, per ogni comunicazione, la tariffa di cui al comma precedente.  
+Per le comunicazioni in partenza da e in arrivo a posto telefonico pubblico nell'ambito del settore la tariffa di cui al primo comma e' applicata una sola volta".  
+"Art. 7. - Le comunicazioni distrettuali ed interdistrettuali tramite operatrice, richieste con la qualifica di "urgente", sono soggette ad una tariffa pari al doppio della tariffa ordinaria al netto della soprattassa di cui all'art. 6 che resta invariata".  
 
 Art. 4
 ------
 
   
-L'[art. 11 del decreto del Presidente della Repubblica 22 settembre 1959, n. 770](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-09-22;770~art11), e' sostituito dal seguente:  
-"Nei giorni festivi e nel periodo dalle ore ventitre' alle ore sette dei giorni feriali, la tariffa per le comunicazioni interurbane effettuate tramite operatrice e' ridotta alla meta' della tariffa normale, al netto della sopratassa di cui all'[art. 6 del decreto del Presidente della Repubblica 22 settembre 1959, n. 770](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-09-22;770~art6), che resta invariata".  
-
-Art. 5
-------
-
-  
-Le disposizioni del presente decreto si applicano dal 1 aprile 1961.  
+Le disposizioni del presente decreto, salvo quanto previsto nell'art. 2, si applicano dal 1 maggio 1961.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 marzo 1961
+### Dato a Roma, addi' 26 aprile 1964
 
-GRONCHI FANFANI - SPALLINO - TAVIANI
+SEGNI MORO - RUSSO - COLOMBO
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 26 maggio 1961
+Registrato alla Corte dei conti, addi' 23 aprile 1964
 
-Atti del Governo, registro n. 136, foglio n. 186. - VILLA.
+Atti del Governo, registro n. 183, foglio n. 21. - VILLA

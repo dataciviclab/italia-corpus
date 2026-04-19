@@ -1,346 +1,107 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1971 n. 1136
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1966 n. 375
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1971 n. 1136
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1966 n. 375
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938 n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 12. - All'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:
-
-Teoria generale del diritto;
-
-Sociologia del diritto.
-
-Art. 14. - Dall'elenco degli istituti annessi alla facolta' di giurisprudenza sono soppressi i seguenti:
-
-Istituto di studi africani;
-
-Istituto di storia politica;
-
-Istituto di scienze economiche e finanziarie.
-
-Art. 34 (ex 29). - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:
-
-Archeologia medioevale;
-
-Storia dell'Asia anteriore antica;
-
-Numismatica antica;
-
-Filologia micenea;
-
-Metrica greca e latina;
-
-Storia della lingua latina;
-
-Sfragistica;
-
-Filologia italiana;
-
-Letteratura comparata;
-
-Etnomusicologia;
-
-Lingua e letteratura catalana;
-
-Lingua e letteratura portoghese;
-
-Lingua e letteratura romena;
-
-Lingua e letteratura araba;
-
-Storia delle scoperte e delle esplorazioni geografiche;
-
-Storia dell'arte contemporanea;
-
-Geografia storica;
-
-Linguistica generale;
-
-Storia comparata delle lingue classiche;
-
-Semeiotica.
-
-Nello stesso elenco l'insegnamento di "Storia del teatro italiano" muta denominazione in quello di "Storia del teatro e dello spettacolo".
-
-Art. 35 (ex 30). - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:
-
-Storia delle istituzioni educative;
-
-Filosofia delle religioni.
-
-Art. 38 (ex 33). - L'ultimo comma e' abrogato e sostituito dal seguente:
-
-"L'istituto di studi sardi e' costituito dai professori di antichita' sarde, linguistica sarda, storia romana, storia medioevale, storia moderna, storia della Sardegna, storia delle tradizioni popolari, geografia, fra i quali il consiglio di facolta' nomina il direttore".
-
-Art. 50. - Dall'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' soppresso quello di "Clinica delle malattie tropicali e sub-tropicali".
-
-Art. 86 (ex 78), concernente la nomina dei direttori delle scuole di specializzazione della facolta' di lettere e filosofia e' abrogato e sostituito dal seguente:
-
-"Il direttore di ciascuna scuola viene nominato dalla facolta', con rotazione triennale, tra i professori di ruolo i cui insegnamenti siano compresi nell'istituto di studi sardi".
-
-Art. 90 (ex 82). - E' abrogato e sostituito dal seguente:
-
-Per ogni scuola e' fissato un numero minimo e un numero massimo di iscritti; il numero minimo e' di tre, il numero massimo di trenta, in ragione di quindici per ogni anno di corso. Ogni qualvolta se ne riconosce l'opportunita' per particolari contingenze la facolta' potra' sospendere le iscrizioni al primo anno di singole scuole, dietro proposta del direttore. Ai singoli anni di corso possono essere trasferiti da altre scuole a ordinamento paritetico allievi che dimostrino la iscrizione, la frequenza e gli esami sostenuti nella scuola di provenienza.
-
-Il giudizio di ammissione spetta al consiglio della scuola e deve essere ratificato dalla facolta' di lettere e filosofia.
-
-Art. 94 (ex 86). - E' aggiunta la seguente frase:
-
-Il piano di studi per la scuola di specializzazione in studi sardi viene definito nell'art. 101.
-
-Art. 101 (ex 93). - E' abrogato e sostituito dal seguente:
-
-Alla facolta' di lettere e filosofia, con sede presso l'istituto di studi sardi, e' annessa una scuola di specializzazione in studi sardi. La durata, del corso e' di 2 anni, vi sono ammessi i laureati della facolta' di lettere e filosofia, di magistero, di giurisprudenza, di scienze politiche, di economia e commercio.
-
-Le materie insegnate nella scuola sono le seguenti:
-
-Antichita' della Sardegna preistorica e protostorica;
-
-Antichita' della Sardegna punico - romana;
-
-Storia della Sardegna medioevale;
-
-Storia della Sardegna moderna e contemporanea;
-
-Storia dell'arte sarda;
-
-Linguistica sarda;
-
-Geografia e ambiente della Sardegna;
-
-Antropologia e sociologia della Sardegna;
-
-Etnografia e tradizioni popolari della Sardegna;
-
-Diritto regionale;
-
-Storia delle istituzioni giuridiche ed economiche della Sardegna;
-
-Storia della Sardegna punico-romana.
-
-Ai suddetti insegnamenti si aggiungono ad essi applicati, seminari di epigrafia, paleografia, statistica per le scienze sociali e di altre eventuali discipline attinenti agli interessi regionali del corso.
-
-La scuola si articola in tre orientamenti:
-
-Archeologico-artistico;
-
-Storico;
-
-Socio-antropologico.
-
-Sono insegnamenti fondamentali:
-
-Per l'orientamento archeologico-artistico:
-
-1° Anno:
-
-Antichita' della Sardegna preistorica e protostorica;
-
-Storia della Sardegna punico-romana.
-
-2° Anno:
-
-Antichita' della Sardegna punico-romana;
-
-Storia dell'arte sarda.
-
-Per l'orientamento storico:
-
-1° Anno:
-
-Storia della Sardegna punico-romana;
-
-Storia della Sardegna medioevale.
-
-2° Anno:
-
-Storia della Sardegna moderna e contemporanea;
-
-Linguistica sarda.
-
-Per l'orientamento socio antropologico:
-
-1° Anno:
-
-Geografia e ambiente della Sardegna;
-
-Linguistica sarda.
-
-2° Anno:
-
-Antropologia e sociologia della Sardegna;
-
-Etnografia e tradizioni popolari della Sardegna.
-
-Lo studente e' tenuto a sostenere gli esami fondamentali previsti in ciascun orientamento piu' altri quattro esami, due per ciascun anno di corso, scelti fra le materie insegnate nel corso; puo' inoltre frequentare i seminari applicati all'orientamento prescelto.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 18 ottobre 1971
-
-SARAGAT
-
-MISASI
-
-Visto, il Guardasigilli: COLOMBO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 22 dicembre 1971 Atti del Governo, registro n. 245, foglio n. 132. - VALENTINI
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938 n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con regio decreto 5 ottobre 1919, p. 1741, e successiva modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che - presso la Facolta' di ingegneria e' istituito il corso di laurea in ingegneria chimica.  
+Detto corso funzionera' gradualmente per quanto riguarda il triennio di applicazione, a decorrere dallo anno accademico 1966-67 e di conseguenza vengono apportate allo statuto dell'Universita' di Cagliari le seguenti modificazioni:  
+Art. 42. - La prima parte viene cosi' integrata:  
+Presso la Facolta' di ingegneria il quinquennio di studio da' adito alle seguenti lauree:  
+a) laurea in Ingegneria civile (sezione edile, idraulica e trasporti);  
+b) laurea In Ingegneria mineraria;  
+c) laurea in Ingegneria meccanica;  
+d) laurea in Ingegneria chimica.  
+Dopo l'art. 68 e con il conseguente spostamento della successiva numerazione vengono inseriti i seguenti nuovi articoli relativi all'ordinamento degli studi del corso di laurea in Ingegneria chimica.  
+Art. 69. - Il corso di laurea in Ingegneria chimica comprende i seguenti insegnamenti:  
+1° Anno:  
+1. Analisi matematica I - gruppo A;  
+2. Chimica - gruppo A;  
+3. Disegno I - gruppo A;  
+4. Fisica I - gruppo A;  
+5. Geometria - gruppo A;  
+2° Anno:  
+6. Analisi matematica II - gruppo A;  
+7. Disegno II - gruppo A;  
+8. Fisica II - gruppo A;  
+9. Meccanica razionale - gruppo A;  
+10. Chimica organica - gruppo B;  
   
-Art. 12. - All'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:   
-Teoria generale del diritto;   
-Sociologia del diritto.   
-Art. 14. - Dall'elenco degli istituti annessi alla facolta' di giurisprudenza sono soppressi i seguenti:   
-Istituto di studi africani;   
-Istituto di storia politica;   
-Istituto di scienze economiche e finanziarie.   
-Art. 34 (ex 29). - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:   
-Archeologia medioevale;   
-Storia dell'Asia anteriore antica;   
-Numismatica antica;   
-Filologia micenea;   
-Metrica greca e latina;   
-Storia della lingua latina;   
-Sfragistica;   
-Filologia italiana;   
-Letteratura comparata;   
-Etnomusicologia;   
-Lingua e letteratura catalana;   
-Lingua e letteratura portoghese;   
-Lingua e letteratura romena;   
-Lingua e letteratura araba;   
-Storia delle scoperte e delle esplorazioni geografiche;   
-Storia dell'arte contemporanea;   
-Geografia storica;   
-Linguistica generale;   
-Storia comparata delle lingue classiche;   
-Semeiotica.   
-Nello stesso elenco l'insegnamento di "Storia del teatro italiano" muta denominazione in quello di "Storia del teatro e dello spettacolo".   
-Art. 35 (ex 30). - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:   
-Storia delle istituzioni educative;   
-Filosofia delle religioni.   
-Art. 38 (ex 33). - L'ultimo comma e' abrogato e sostituito dal seguente:   
-"L'istituto di studi sardi e' costituito dai professori di antichita' sarde, linguistica sarda, storia romana, storia medioevale, storia moderna, storia della Sardegna, storia delle tradizioni popolari, geografia, fra i quali il consiglio di facolta' nomina il direttore".   
-Art. 50. - Dall'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' soppresso quello di "Clinica delle malattie tropicali e sub-tropicali".   
-Art. 86 (ex 78), concernente la nomina dei direttori delle scuole di specializzazione della facolta' di lettere e filosofia e' abrogato e sostituito dal seguente:   
-"Il direttore di ciascuna scuola viene nominato dalla facolta', con rotazione triennale, tra i professori di ruolo i cui insegnamenti siano compresi nell'istituto di studi sardi".   
-Art. 90 (ex 82). - E' abrogato e sostituito dal seguente:   
+Triennio di applicazione:  
   
-Per ogni scuola e' fissato un numero minimo e un numero massimo di iscritti; il numero minimo e' di tre, il numero massimo di trenta, in ragione di quindici per ogni anno di corso. Ogni qualvolta se ne riconosce l'opportunita' per particolari contingenze la facolta' potra' sospendere le iscrizioni al primo anno di singole scuole, dietro proposta del direttore. Ai singoli anni di corso possono essere trasferiti da altre scuole a ordinamento paritetico allievi che dimostrino la iscrizione, la frequenza e gli esami sostenuti nella scuola di provenienza.   
-Il giudizio di ammissione spetta al consiglio della scuola e deve essere ratificato dalla facolta' di lettere e filosofia.   
-Art. 94 (ex 86). - E' aggiunta la seguente frase:   
+11. Chimica applicata - gruppo A;  
+12. Chimica fisica - gruppo A;  
+13. Chimica industriale - gruppo A;  
+14. Elettrotecnica - gruppo A;  
+15. Fisica tecnica - gruppo A;  
+16. Impianti chimici - gruppo A;  
+17. Macchine - gruppo A;  
+18. Meccanica applicata alle macchine - gruppo A;  
+19. Principi di Ingegneria chimica - gruppo A;  
+20. Scienza delle costruzioni - gruppo A;  
+21. Chimica analitica - gruppo B;  
+22. Combustibili e lubrificanti (semestrale) - gruppo B;  
+23. Economia ed organizzazione aziendale - gruppo B;  
+24. Elettrochimica - gruppo B;  
+25. Idraulica - gruppo B;  
+26. Metallurgia - gruppo B;  
+27. Stechiometria industriale (semestrale) - gruppo B;  
+28. Strumentazione, misure e collaudi - gruppo B;  
   
-Il piano di studi per la scuola di specializzazione in studi sardi viene definito nell'art. 101.   
-Art. 101 (ex 93). - E' abrogato e sostituito dal seguente:   
+Gruppi di materie a scelta  
   
-Alla facolta' di lettere e filosofia, con sede presso l'istituto di studi sardi, e' annessa una scuola di specializzazione in studi sardi. La durata, del corso e' di 2 anni, vi sono ammessi i laureati della facolta' di lettere e filosofia, di magistero, di giurisprudenza, di scienze politiche, di economia e commercio.   
-Le materie insegnate nella scuola sono le seguenti:   
-Antichita' della Sardegna preistorica e protostorica;   
-Antichita' della Sardegna punico - romana;   
-Storia della Sardegna medioevale;   
-Storia della Sardegna moderna e contemporanea;   
-Storia dell'arte sarda;   
-Linguistica sarda;   
-Geografia e ambiente della Sardegna;   
-Antropologia e sociologia della Sardegna;   
-Etnografia e tradizioni popolari della Sardegna;   
-Diritto regionale;   
-Storia delle istituzioni giuridiche ed economiche della Sardegna;  
-Storia della Sardegna punico-romana.   
-Ai suddetti insegnamenti si aggiungono ad essi applicati, seminari di epigrafia, paleografia, statistica per le scienze sociali e di altre eventuali discipline attinenti agli interessi regionali del corso.   
-La scuola si articola in tre orientamenti:   
-Archeologico-artistico;   
-Storico;   
-Socio-antropologico.   
-Sono insegnamenti fondamentali:   
+Orientamento A:  
+29. Trattamento dei solidi - gruppo C;  
+30. Chimica degli alti polimeri - gruppo C;  
+31. Impianti petrolchimici - gruppo C.  
   
-Per l'orientamento archeologico-artistico:   
+Orientamento B:  
+29. Scienza dei metalli - gruppo C;  
+30. Tecnologie speciali metallurgiche - gruppo C;  
+31. Preparazione dei minerali - gruppo C.  
   
-1° Anno:   
-Antichita' della Sardegna preistorica e protostorica;   
-Storia della Sardegna punico-romana.   
-2° Anno:   
-Antichita' della Sardegna punico-romana;   
-Storia dell'arte sarda.   
-  
-Per l'orientamento storico:   
-  
-1° Anno:   
-Storia della Sardegna punico-romana;   
-Storia della Sardegna medioevale.   
-2° Anno:   
-Storia della Sardegna moderna e contemporanea;   
-Linguistica sarda.   
-  
-Per l'orientamento socio antropologico:   
-  
-1° Anno:   
-Geografia e ambiente della Sardegna;   
-Linguistica sarda.   
-2° Anno:   
-Antropologia e sociologia della Sardegna;   
-Etnografia e tradizioni popolari della Sardegna.   
-Lo studente e' tenuto a sostenere gli esami fondamentali previsti in ciascun orientamento piu' altri quattro esami, due per ciascun anno di corso, scelti fra le materie insegnate nel corso; puo' inoltre frequentare i seminari applicati all'orientamento prescelto.   
+Orientamento C:  
+29. Chimica organica - gruppo C;  
+30. Industrie agrarie e alimentari - gruppo C;  
+31. Tecnica del freddo - gruppo C.  
+Art. 70. - Le precedenze per gli insegnamenti del corso di laurea in ingegneria chimica sono le seguenti:  
+Chimica organica prima di Chimica fisica, Chimica analitica, Chimica applicata, Stechiometria industriale, Combustibili e Lubrificanti;  
+Chimica fisica, Chimica applicata e Chimica analitica prima di Principi di Ingegneria chimica, Chimica industriale, Metallurgia, Elettrochimica, Impianti chimici, Scienza dei metalli, Tecnologie speciali metallurgiche, Preparazione dei minerali, Chimica agraria, Industrie agrarie e alimentari, Chimica degli altri polimeri, Impianti petrolchimici;  
+Stechiometria industriale prima di Principi di Ingegneria chimica, Chimica industriale, Impianti petrolchimici;  
+Principi di Ingegneria chimica prima di Impianti chimici, Strumentazione, misure e collaudi, Impianti petrolchimici, Industrie agrarie e alimentari;  
+Fisica tecnica e Meccanica applicata alle Macchine prima di Macchine;  
+Macchine e idraulica prima di impianti chimici, Strumentazione, misure e collaudi, Impianti petrolchimici, Industrie agrarie e alimentari, Tecnica del freddo.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 ottobre 1971
+### Dato a Roma, addi' 26 aprile 1966
 
-SARAGAT MISASI
+SARAGAT GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 22 dicembre 1971
+Registrato alla Corte dei conti, addi' 1 giugno 1966
 
-Atti del Governo, registro n. 245, foglio n. 132. - VALENTINI
+Atti del Governo, registro n. 203, foglio n. 104. - VILLA

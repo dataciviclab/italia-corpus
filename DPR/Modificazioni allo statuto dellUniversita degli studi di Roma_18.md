@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1970 n. 1170
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 settembre 1955 n. 951
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1970 n. 1170
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 settembre 1955 n. 951
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -12,10 +12,11 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il, [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350); e modificato con [regi decreti 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-26;1734); [29 ottobre 1940, n. 2069](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-29;2069); [4 maggio 1942, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-05-04;565); [24 luglio 1942, n. 949](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-24;949); [24 agosto 1942, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-08-24;1098); [24 ottobre 1942, n. 1672; con decreto luogotenenziale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo.luogotenenziale:1942-10-24;1672) [8 febbraio 1946, n. 242; con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-02-08;242) [12 aprile 1947, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-12;461) e [31 dicembre 1947, n. 1758, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1758) [24 dicembre 1948, n. 1619](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-12-24;1619); [18 luglio 1949, n. 882](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-07-18;882); [20 ottobre 1949, n. 989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;989); [20 ottobre 1949, n. 991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;991); [20 ottobre 1949, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;1178); [30 ottobre 1949, n. 1152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1152); [11 giugno 1950, n. 622](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;622); [16 novembre 1950, n. 1313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-11-16;1313); [11 maggio 1951, n. 653](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-05-11;653); [27 ottobre 1951, n. 1813](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1813); [14 aprile 1952, n. 888](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-04-14;888); [16 agosto 1952, n. 2589](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-08-16;2589); [19 settembre 1952, n. 1697](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-19;1697); [11 marzo 1953, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;565); [12 maggio 1953, n. 570](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-05-12;570); [25 agosto 1953, n. 834](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;834); [26 ottobre 1954, n. 1232](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-26;1232); [12 febbraio 1955, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-12;34); [30 giugno 1955, n. 694](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-06-30;694) e [19 luglio 1955, n. 760](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-19;760);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 193, n. 1592;  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduto il [regio decreto 24 ottobre 1941, n. 1375](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-24;1375);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -24,55 +25,107 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-gli articoli da 698 a 708 relativi al corso di specializzazione in ingegneria dei controlli automatici che assume la denominazione di corso di specializzazione in ingegneria dei sistemi di controllo e calcolo automatici, sono abrogati e sostituiti dai seguenti:  
   
-Corso di specializzazione in ingegneria  
-dei sistemi di controllo e calcolo automatici  
+Dopo l'art. 82, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione del corso di laurea in chimica industriale, con il conseguente spostamento della numerazione degli articoli successivi.  
+Art. 83. - La durata del corso degli studi per la laurea in chimica industriale e' di cinque anni divisi in un biennio di studi propedeutici comune con la laurea in chimica e in un triennio di studi di applicazione.  
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.  
+Biennio di studi propedeutici Sono insegnamenti fondamentali:  
+1) Istituzioni di matematiche (biennale);  
+2) Chimica generale ed inorganica (biennale);  
+3) Chimica organica (biennale);  
+4) Chimica analitica;  
+5) Fisica sperimentale (biennale);  
+6) Mineralogia con esercitazioni pratiche (corso speciale per chimici);  
+7) Esercitazioni di matematiche (biennale);  
+8) Esercitazioni di preparazioni chimiche;  
+9) Esercitazioni di disegno di elementi di macchine;  
+10) Esercitazioni di analisi chimica qualitativa;  
+11) Esercitazioni di fisica sperimentale.  
+Triennio di studi di applicazione Sono insegnamenti fondamentali:  
+1) Chimica fisica (biennale);  
+2) Fisica tecnica;  
+3) Chimica industriale (biennale);  
+4) Esercitazioni di analisi chimica quantitativa;  
+5) Esercitazioni di chimica fisica (biennale);  
+6) Esercitazioni di chimica industriale (biennale);  
+7) Impianti industriali chimici con elementi di disegno (biennale);  
+8) Elementi di diritto, di economia e di legislazione sociale.  
+Sono insegnamenti complementari:  
+1) Analisi matematica (algebrica ed infinitesimale) (biennale);  
+2) Geometria analitica con elementi di proiettiva;  
+3) Meccanica razionale con elementi di statica grafica;  
+4) Fisica superiore;  
+5) Elettrotecnica;  
+6) Misure elettriche (corso speciale per chimici e chimici industriali);  
+7) Chimica agraria;  
+8) Chimica delle fermentazioni e batteriologia industriale;  
+9) Chimica organica industriale;  
+10) Elettrochimica;  
+11) Chimica applicata;  
+12) Siderurgia e metallurgia;  
+13) Scienza dei metalli;  
+14) Fisiologia ed igiene del lavoro industriale.  
+I tre insegnamenti complementari di "analisi matematica", di "geometria analitica con elementi di proiettiva" e di "meccanica razionale con elementi di statica grafica" possono sostituire l'unico insegnamento fondamentale di istituzioni di matematica" (biennale).  
+Per l'insegnamento di "analisi matematica" vale la norma stabilita per la laurea in scienze matematiche.  
+Per ottenere l'iscrizione al triennio di applicazione lo studente deve aver seguito i corsi e superato gli esami ma tutti gli insegnamenti fissati per il biennio di studi propedeutici, Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali del triennio di applicazione e almeno in quattro da lui scelti tra i complementari.  
+All'atto dell'iscrizione al primo anno del triennio di applicazione lo studente deve sottoporre all'approvazione della Facolta' l'elenco degli insegnamenti complementari prescelti. La scelta fatta in tal modo e' impegnativa e non puo' subire comunque variazioni durante il corso degli studi.  
+I laureati in chimica potranno essere ammessi al quarto anno di corso della laurea in chimica industriale e dovranno seguire i corsi e sostenere gli esami nelle seguenti materie fondamentali:  
+1) Chimica industriale (biennale);  
+2) Impianti industriali chimici con elementi di disegno (biennale);  
+3) Elementi di diritto, di economia e di legislazione sociale;  
+4) Fisica tecnica;  
+5) Esercitazioni di chimica industriale (biennale).  
+L'esame di fisica tecnica, eventualmente gia' sostenuto per la laurea in chimica, potra' essere convalidato agli effetti dell'iscrizione al 4° anno di corso per la laurea in chimica industriale.  
+Art. 84. - Norme comuni per le lauree in chimica ed in chimica industriale.  
+Tutti gli insegnamenti biennali comportano due esami distinti alla fine di ciascun anno di corso.  
+Ai fini della propedeuticita' degli esami dei diversi insegnamenti, vale la seguente tabella:  
+Non si puo essere ammessi se non si e superato l'esame di:  
+a sostenere l'esame di:  
   
-Art. 698. - Presso la facolta' di ingegneria e' istituito un corso di specializzazione in ingegneria dei sistemi di controllo e calcolo automatici, per la formazione di esperti nei diversi settori riguardanti la teoria e l'applicazione dell'automatica e dell'informatica.  
-Art. 699. - Il corso ha la durata di un anno; e' direttore del corso il professore titolare della cattedra di "Controlli automatici I". Il consiglio direttivo e' costituito dal direttore e dai docenti dei singoli insegnamenti.  
-Art. 700. - Al corso sono ammessi i laureati in ingegneria aeronautica, ingegneria chimica, ingegneria elettronica, ingegneria elettrotecnica, ingegneria meccanica, ingegneria mineraria, ingegneria nucleare; il consiglio del corso potra' ammettere laureati in altre discipline e laureati in Paesi stranieri.  
-Il consiglio direttivo delibera tempestivamente di anno in anno l'inizio e lo svolgimento delle lezioni, il numero degli iscritti e le norme per l'ammissione, nonche' il numero minimo di iscritti affinche' il corso stesso abbia luogo. L'ammissione al corso e' subordinata all'esito di un colloquio per quei laureati che non abbiano sostenuto un esame sui fondamenti dei sistemi di controllo automatico o su quelli di calcolo automatico o su materie affini. Il consiglio di facolta' potra' sospendere lo svolgimento del corso a partire dall'anno accademico successivo alla deliberazione.  
-Art. 701. - La frequenza ai singoli insegnamenti deve essere attestata dai rispettivi docenti secondo le modalita' stabilite dal consiglio del corso.  
-Art. 702. - Ciascun allievo puo' predisporre un piano di studi nell'ambito delle discipline elencate nel successivo articolo o insegnate presso l'Universita' di Roma.  
-Il numero degli insegnamenti deve essere almeno equivalente a sei insegnamenti annuali. Il piano di studi e' sottoposto all'approvazione del consiglio del corso.  
-Art. 703. - Gli insegnamenti impartiti sono annuali; alcuni di essi potranno essere suddivisi in insegnamenti semestrali. Essi sono:  
-1) Applicazioni gestionali degli elaboratori;  
-2) Automazione degli impianti industriali;  
-3) Bioingegneria;  
-4) Calcolatori elettronici;  
-5) Calcolo numerico con elementi di programmazione;  
-6) Compilatori e sistemi operativi;  
-7) Elettronica industriale;  
-8) Esercitazioni di linguaggi programmativi;  
-9) Misure e strumentazione automatica;  
-10) Modelli dei processi industriali;  
-11) Principi di economia ed econometria;  
-12) Ricerca operativa;  
-13) Sintesi dei sistemi di controllo;  
-14) Sistemi combinatori e sequenziali;  
-15) Sistemi aziendali;  
-16) Tecniche dei controlli automatici;  
-17) Tecniche digitali;  
-18) Teoria dell'identificazione e della stima;  
-19) Teoria dell'ottimizzazione;  
-20) Teoria della probabilita' e statistica;  
-21) Teoria dei sistemi.  
-Art. 704. - Gli insegnanti del corso sono proposti dal direttore che puo' sceglierli fra i professori di ruolo e fuori ruolo, fra i liberi docenti, fra gli aiuti e gli assistenti o anche fra persone di riconosciuta competenza delle rispettive specialita', ovvero giovarsi, per talune materie, di insegnamenti svolti presso una delle facolta'.  
-Tali proposte sono subordinate all'approvazione del consiglio di facolta' ed alle nomine provvede il rettore.  
-Art. 705. - Per la validita' del corso e cioe' per il conseguimento dell'attestato di cui all'art. 771 ciascun iscritto dovra' superare gli esami in tutti gli insegnamenti previsti nel suo piano di studi e dovra' svolgere un lavoro personale di carattere teorico o sperimentale.  
-Art. 706. - Agli iscritti che abbiano superato gli esami e abbiano ottenuto l'idoneita' per il lavoro personale eseguito viene rilasciato un attestato comprovante la carriera scolastica compiuta.  
+Chimica analitica Chimica generale ed inorganica I  
+  
+Chimica generale ed inor- Chimica generale ed inorganica I  
+ganica II  
+  
+Chimica organica I Chimica generale ed inorganica I  
+  
+Chimica organica II Chimica organica I  
+  
+Elettrochimica Chimica fisica I  
+  
+Esercitazioni di analisi Esercitazioni di analisi chimica  
+chimica applicata quantitativa  
+  
+Esercitazioni di analisi Esercitazioni di preparazioni  
+chimica qualitativa chimiche (I anno)  
+  
+Esercitazioni di prepara- Esercizi di chimica organica  
+zioni chimiche (IV anno) e di analisi organica  
+Esercizi di analisi chimica  
+Quantitativa  
+  
+Farmacologia Chimica biologica, fisiologia  
+Generale  
+  
+Fisica sperimentale II Fisica sperimentale I  
+  
+Istituzioni di matematiche II Istituzioni di matematiche I  
+  
+Mineralogia Chimica generale ed inorganica I  
+  
+Scienza dell'alimentazione Chimica bromatologica  
+  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1970
+### Dato a Roma, addi' 21 settembre 1955
 
-SARAGAT MISASI
+GRONCHI ROSSI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MORO
 
-Registrato alla Corte dei conti, addi' 9 gennaio 1971
+Registrato alla Corte dei conti, addi' 24 ottobre 1955
 
-Atti del Governo, registro n. 240, foglio n. 10. - CARUSO
+Atti del Governo, registro n. 93, foglio n. 75. - CARLOMAGNO

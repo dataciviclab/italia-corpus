@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1978 n. 586
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 946
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1978 n. 586
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 946
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,127 +20,81 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933; n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 93, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in diritto ed economia della banca presso la facolta' di giurisprudenza.
+Gli articoli da 124 a 129, relativi alla "Scuola di perfezionamento in diagnostica di laboratorio" che muta denominazione in quella di "Scuola di specializzazione per medici laboratoristi", sono abrogati e sostituiti dai seguenti:
 
-Titolo III
+Scuola di specializzazione per medici laboratoristi
 
-SCUOLE DI SPECIALIZZAZIONE
+Art. 124. - La scuola di specializzazione per medici laboratoristi ha lo scopo di preparare sul piano scientifico e tecnico i medici che intendono dedicarsi particolarmente alle analisi di laboratorio applicate alla clinica e rilascia il diploma di "specialista in analisi cliniche di laboratorio".
 
-ANNESSE ALLA FACOLTA' DI GIURISPRUDENZA
+Possono essere ammessi i laureati in medicina e chirurgia.
 
-Capo I
+Art. 125. - Il corso ha la durata di tre anni ed ha luogo negli istituti di chimica biologica e di microbiologia, ovvero in loro mancanza presso gli istituti ove le suddette cattedre hanno sede.
 
-Scuola di specializzazione
+Art. 126. - Gli iscritti al primo anno non potranno superare il numero di 15 con un numero complessivo nei tre anni di 45. Nel caso di domande eccedenti, la selezione verra' effettuata mediante concorso con norme che verranno precisate nel manifesto annuale.
 
-in diritto ed economia della banca
+Art. 127. - La direzione della scuola viene assunta dai professori di ruolo di chimica biologica e di microbiologia.
 
-Art. 94. - Alla facolta' di giurisprudenza e' annessa una scuola di specializzazione in diritto ed economia della banca, la quale si propone di promuovere la formazione scientifica e professionale nelle discipline bancarie.
-
-Art. 95. - La durata del corso di specializzazione e' biennale. Gli insegnamenti, che sono di ampiezza non inferiore a un normale corso universitario e si svolgono secondo le modalita' e i tempi fissati annualmente dal consiglio direttivo della scuola, sono i seguenti:
+Art. 128. - Gli insegnamenti impartiti dalla scuola sono distribuiti nei tre anni come segue:
 
 1° Anno:
 
-organizzazione e legislazione bancaria;
+1) fisiologia;
 
-diritto privato bancario I (contratti tipici);
+2) patologia generale;
 
-economia monetaria e creditizia;
+3) chimica biologica generale;
 
-tecnica bancaria;
+4) batteriologia generale;
 
-tutela giuridica del credito ed esecuzione esattoriale;
+5) nozioni di igiene applicate al laboratorio di analisi cliniche;
 
-titoli di credito;
+6) tecnica dei prelevamenti;
 
-diritto penale commerciale.
+7) tecnica di laboratorio.
 
 2° Anno:
 
-diritto degli scambi internazionali;
+8) batteriologia speciale;
 
-diritto privato bancario II (contratti atipici e della legislazione speciale);
+9) chimica biologica applicata;
 
-politica monetaria e finanziaria;
+10) fisico-chimica biologica;
 
-diritto delle procedure concorsuali;
+11) parassitologia e tecniche relative;
 
-legislazione e contratti di borsa;
+12) micologia.
 
-economia e tecnica della borsa;
+3° Anno:
 
-tecnica e diritto del bilancio.
+13) nozioni di statistica biologica;
 
-Ogni corso di insegnamento si conclude con una prova di esame individuale, sostenuta davanti a una commissione formata da tre docenti e presieduta dal titolare dell'insegnamento, mentre gli altri membri della commissione sono nominati dal direttore della scuola.
+14) nozioni di immunochimica applicata;
 
-L'insegnamento biennale ha due prove di esame.
+15) virologia e tecniche relative;
 
-La votazione e' in cinquantesimi.
+16) microscopia clinica;
 
-La frequenza ai corsi e' obbligatoria.
+17) immunologia e tecniche relative;
 
-Alla fine del biennio l'esame generale per il conseguimento del diploma di specializzazione consiste nella discussione su tre argomenti, di cui uno necessariamente giuridico ed un altro economico, assegnati con sorteggio al candidato alcuni giorni prima della prova di esame e sviluppati davanti alla commissione formata dai docenti di tutti i corsi.
+18) identificazione di tracce biologiche;
 
-La votazione e' in settantesimi.
+19) tecniche ematologiche di laboratorio.
 
-Annualmente il consiglio direttivo della scuola potra' deliberare lo svolgimento di attivita' didattiche complementari su materie particolari anche non rientranti negli insegnamenti previsti nel presente statuto. La partecipazione alle stesse non e' obbligatoria, ma potra' costituire titolo liberamente valutabile dalla commissione in sede di esame finale di diploma.
-
-Art. 96. - Possono accedere alla scuola i laureati in giurisprudenza o in economia e commercio o in scienze politiche o in scienze economiche e bancarie o in scienze bancarie e assicurative ovvero coloro che risultino in possesso di laurea riconosciuta equipollente dal consiglio direttivo della scuola.
-
-Art. 97. - Il consiglio direttivo potra' annualmente stabilire un limite numerico massimo per le iscrizioni al primo anno, tenuto conto delle attrezzature didattiche e scientifiche della scuola e del numero di borse di studio disponibili per gli iscritti.
-
-Art. 98. - I titolari degli insegnamenti e gli incaricati di attivita' didattiche complementari sono designati annualmente dal consiglio direttivo e nominati con decreto rettorale.
-
-Il consiglio fissa i relativi compensi in rapporto alle disponibilita' del bilancio.
-
-Art. 99. - La scuola e' retta da un consiglio presieduto dal direttore della scuola.
-
-Il consiglio e' formato da otto membri, nominati dal consiglio di facolta' secondo i seguenti criteri:
-
-un professore ufficiale di materie commercialistiche o privatistiche;
-
-un professore ufficiale di materie economiche;
-
-un terzo professore ufficiale;
-
-due assistenti o contrattisti, proposti dai rappresentanti delle categorie interessate.
-
-Un quinto membro e' eletto fra gli iscritti alla scuola attraverso apposita votazione degli stessi indetta dal consiglio direttivo.
-
-Un altro membro, non appartenente alle categorie dei docenti della facolta' o degli iscritti alla scuola, e' nominato dagli enti pubblici o privati finanziatori.
-
-E' infine membro di diritto il preside della facolta', che non potra' tuttavia essere nominato direttore della scuola.
-
-Nelle votazioni, in caso di parita' di voti, prevale il voto del direttore della scuola.
-
-I membri del consiglio durano in carica due anni e sono rieleggibili.
-
-La mancata nomina di alcuni componenti il consiglio non inficia la validita' e il funzionamento dello stesso, purche' sia in carica la maggioranza dei suoi membri.
-
-Spetta al consiglio direttivo decidere sulle questioni attinenti al funzionamento della scuola ed approva il bilancio annuale.
-
-L'ammontare delle tasse, soprattasse e contributi della scuola di specializzazione in diritto ed economia della banca e' fissato negli importi pari a quelli stabiliti per il corso di laurea in giurisprudenza.
-
-Il consiglio di facolta' nomina il direttore della scuola scegliendolo fra i professori membri del consiglio direttivo.
-
-Il direttore ha la rappresentanza della scuola, convoca il consiglio direttivo per gli adempimenti statutari, formula gli ordini del giorno delle sue sedute, predispone per l'approvazione il bilancio annuale.
-
-Art. 100. - I mezzi per il funzionamento della scuola sono tratti da contributi dell'Universita' e dello Stato, dalle sovvenzioni di enti pubblici e privati interessati, nonche' dalle tasse e contributi degli iscritti.
-
-Sara' curata, per quanto possibile, l'istituzione di un adeguato numero di borse di studio per gli iscritti.
+Art. 129. - Alla fine di ciascun anno scolastico gli specializzandi dovranno sostenere un esame di profitto, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo e, per quelli che sono iscritti all'ultimo anno, per poter accedere all'esame di diploma. Alla fine del terzo anno del corso ha luogo l'esame di diploma consistente nella preparazione e discussione di una dissertazione scritta su un argomento previamente concordato tra il diplomando e il direttore della scuola.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 6 marzo 1978
+Dato a Roma, addi' 31 ottobre 1975
 
 LEONE
 
@@ -151,97 +105,67 @@ Visto, il Guardasigilli: BONIFACIO
 Registrato
 ----------
 
-alla Corte dei conti, addi' 23 settembre 1978 Registro n. 104 Istruzione, foglio n. 280
+alla Corte dei conti, addi' 30 marzo 1976 Atti di Governo, registro n. 4, foglio n. 48
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933; n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
-  
+Sulla proposta del Ministro per la pubblica istruzione;   
 Decreta:   
-  
 Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli da 124 a 129, relativi alla "Scuola di perfezionamento in diagnostica di laboratorio" che muta denominazione in quella di "Scuola di specializzazione per medici laboratoristi", sono abrogati e sostituiti dai seguenti:   
   
-Dopo l'art. 93, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in diritto ed economia della banca presso la facolta' di giurisprudenza.   
+Scuola di specializzazione per medici laboratoristi   
   
-Titolo III   
-  
-SCUOLE DI SPECIALIZZAZIONE   
-ANNESSE ALLA FACOLTA' DI GIURISPRUDENZA   
-  
-Capo I   
-  
-Scuola di specializzazione   
-in diritto ed economia della banca   
-  
-  
-Art. 94. - Alla facolta' di giurisprudenza e' annessa una scuola di specializzazione in diritto ed economia della banca, la quale si propone di promuovere la formazione scientifica e professionale nelle discipline bancarie.   
-Art. 95. - La durata del corso di specializzazione e' biennale. Gli insegnamenti, che sono di ampiezza non inferiore a un normale corso universitario e si svolgono secondo le modalita' e i tempi fissati annualmente dal consiglio direttivo della scuola, sono i seguenti:   
+Art. 124. - La scuola di specializzazione per medici laboratoristi ha lo scopo di preparare sul piano scientifico e tecnico i medici che intendono dedicarsi particolarmente alle analisi di laboratorio applicate alla clinica e rilascia il diploma di "specialista in analisi cliniche di laboratorio".   
+Possono essere ammessi i laureati in medicina e chirurgia.   
+Art. 125. - Il corso ha la durata di tre anni ed ha luogo negli istituti di chimica biologica e di microbiologia, ovvero in loro mancanza presso gli istituti ove le suddette cattedre hanno sede.   
+Art. 126. - Gli iscritti al primo anno non potranno superare il numero di 15 con un numero complessivo nei tre anni di 45. Nel caso di domande eccedenti, la selezione verra' effettuata mediante concorso con norme che verranno precisate nel manifesto annuale.   
+Art. 127. - La direzione della scuola viene assunta dai professori di ruolo di chimica biologica e di microbiologia.   
+Art. 128. - Gli insegnamenti impartiti dalla scuola sono distribuiti nei tre anni come segue:   
 1° Anno:   
-organizzazione e legislazione bancaria;   
-diritto privato bancario I (contratti tipici);   
-economia monetaria e creditizia;   
-tecnica bancaria;   
-tutela giuridica del credito ed esecuzione esattoriale;   
-titoli di credito;   
-diritto penale commerciale.   
+1) fisiologia;   
+2) patologia generale;   
+3) chimica biologica generale;   
+4) batteriologia generale;   
+5) nozioni di igiene applicate al laboratorio di analisi cliniche;   
+6) tecnica dei prelevamenti;   
+7) tecnica di laboratorio.   
 2° Anno:   
-diritto degli scambi internazionali;   
-diritto privato bancario II (contratti atipici e della legislazione speciale);   
-politica monetaria e finanziaria;   
-diritto delle procedure concorsuali;   
-legislazione e contratti di borsa;   
-economia e tecnica della borsa;   
-tecnica e diritto del bilancio.   
-Ogni corso di insegnamento si conclude con una prova di esame individuale, sostenuta davanti a una commissione formata da tre docenti e presieduta dal titolare dell'insegnamento, mentre gli altri membri della commissione sono nominati dal direttore della scuola.   
-L'insegnamento biennale ha due prove di esame.   
-La votazione e' in cinquantesimi.   
-La frequenza ai corsi e' obbligatoria.   
-Alla fine del biennio l'esame generale per il conseguimento del diploma di specializzazione consiste nella discussione su tre argomenti, di cui uno necessariamente giuridico ed un altro economico, assegnati con sorteggio al candidato alcuni giorni prima della prova di esame e sviluppati davanti alla commissione formata dai docenti di tutti i corsi.   
-La votazione e' in settantesimi.   
-Annualmente il consiglio direttivo della scuola potra' deliberare lo svolgimento di attivita' didattiche complementari su materie particolari anche non rientranti negli insegnamenti previsti nel presente statuto. La partecipazione alle stesse non e' obbligatoria, ma potra' costituire titolo liberamente valutabile dalla commissione in sede di esame finale di diploma.   
-Art. 96. - Possono accedere alla scuola i laureati in giurisprudenza o in economia e commercio o in scienze politiche o in scienze economiche e bancarie o in scienze bancarie e assicurative ovvero coloro che risultino in possesso di laurea riconosciuta equipollente dal consiglio direttivo della scuola.   
-Art. 97. - Il consiglio direttivo potra' annualmente stabilire un limite numerico massimo per le iscrizioni al primo anno, tenuto conto delle attrezzature didattiche e scientifiche della scuola e del numero di borse di studio disponibili per gli iscritti.   
-Art. 98. - I titolari degli insegnamenti e gli incaricati di attivita' didattiche complementari sono designati annualmente dal consiglio direttivo e nominati con decreto rettorale.   
-Il consiglio fissa i relativi compensi in rapporto alle disponibilita' del bilancio.   
-Art. 99. - La scuola e' retta da un consiglio presieduto dal direttore della scuola.   
-Il consiglio e' formato da otto membri, nominati dal consiglio di facolta' secondo i seguenti criteri:   
-un professore ufficiale di materie commercialistiche o privatistiche;   
-un professore ufficiale di materie economiche;   
-un terzo professore ufficiale;   
-due assistenti o contrattisti, proposti dai rappresentanti delle categorie interessate.   
-Un quinto membro e' eletto fra gli iscritti alla scuola attraverso apposita votazione degli stessi indetta dal consiglio direttivo.   
-Un altro membro, non appartenente alle categorie dei docenti della facolta' o degli iscritti alla scuola, e' nominato dagli enti pubblici o privati finanziatori.   
-E' infine membro di diritto il preside della facolta', che non potra' tuttavia essere nominato direttore della scuola.   
-Nelle votazioni, in caso di parita' di voti, prevale il voto del direttore della scuola.   
-I membri del consiglio durano in carica due anni e sono rieleggibili.   
-La mancata nomina di alcuni componenti il consiglio non inficia la validita' e il funzionamento dello stesso, purche' sia in carica la maggioranza dei suoi membri.   
-Spetta al consiglio direttivo decidere sulle questioni attinenti al funzionamento della scuola ed approva il bilancio annuale.   
-L'ammontare delle tasse, soprattasse e contributi della scuola di specializzazione in diritto ed economia della banca e' fissato negli importi pari a quelli stabiliti per il corso di laurea in giurisprudenza.   
-Il consiglio di facolta' nomina il direttore della scuola scegliendolo fra i professori membri del consiglio direttivo.   
-Il direttore ha la rappresentanza della scuola, convoca il consiglio direttivo per gli adempimenti statutari, formula gli ordini del giorno delle sue sedute, predispone per l'approvazione il bilancio annuale.   
-Art. 100. - I mezzi per il funzionamento della scuola sono tratti da contributi dell'Universita' e dello Stato, dalle sovvenzioni di enti pubblici e privati interessati, nonche' dalle tasse e contributi degli iscritti.   
-Sara' curata, per quanto possibile, l'istituzione di un adeguato numero di borse di studio per gli iscritti.   
+8) batteriologia speciale;   
+9) chimica biologica applicata;   
+10) fisico-chimica biologica;   
+11) parassitologia e tecniche relative;   
+12) micologia.   
+3° Anno:   
+13) nozioni di statistica biologica;   
+14) nozioni di immunochimica applicata;   
+15) virologia e tecniche relative;   
+16) microscopia clinica;   
+17) immunologia e tecniche relative;   
+18) identificazione di tracce biologiche;   
+19) tecniche ematologiche di laboratorio.   
+Art. 129. - Alla fine di ciascun anno scolastico gli specializzandi dovranno sostenere un esame di profitto, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo e, per quelli che sono iscritti all'ultimo anno, per poter accedere all'esame di diploma. Alla fine del terzo anno del corso ha luogo l'esame di diploma consistente nella preparazione e discussione di una dissertazione scritta su un argomento previamente concordato tra il diplomando e il direttore della scuola.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 marzo 1978
+### Dato a Roma, addi' 31 ottobre 1975
 
 LEONE MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 23 settembre 1978
+Registrato alla Corte dei conti, addi' 30 marzo 1976
 
-Registro n. 104 Istruzione, foglio n. 280
+Atti di Governo, registro n. 4, foglio n. 48

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1978 n. 885
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1196
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1978 n. 885
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1196
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -10,75 +10,113 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Parma, approvato con [regio decreto 13 ottobre 1927, n. 279](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;279)° e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli da 344 a 353 compreso, relativi all'ordinamento della scuola speciale per ortottiste, che muta, la denominazione in quella di scuola speciale per ortottisti - assistenti di oftalmologia, sono abrogati e sostituiti dai seguenti:  
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Scuola speciale per ortottisti - assistenti di oftalmologia  
-Art. 344. - E' istituita presso la facolta' di medicina e chirurgia dell'Universita' di Parma una scuola speciale di preparazione per ortottisti - assistenti di oftalmologia che ha sede presso l'istituto policattedra di oftalmologia.  
-Art. 345. - La scuola ha lo scopo di dare una preparazione completa, teorico-pratica, istruendo gli allievi sui problemi della motilita' oculare, della ambliopia, delle tecniche diagnostiche della visione binoculare, del trattamento pre e post-operatorio dei pazienti strabici; dei problemi sui vizi di refrazione e della loro correzione e sulle tecniche diagnostiche in oftalmologia.  
-La durata del corso per conseguire il diploma di ortottista-assistente in oftalmologia e' di tre anni.  
-Ne sono titoli di ammissione il possesso di un diploma legalmente valido ai fini dell'iscrizione all'Universita' ai sensi dell'[art. 1 della legge n. 910 dell'11 dicembre 1969](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1) e la conoscenza di una lingua straniera (inglese, francese, tedesco, spagnolo).  
-Art. 346. - Gli aspiranti all'iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova di cultura generale e in una prova per la conoscenza della lingua straniera.  
-E' richiesto un certificato di sana e robusta costituzione, con particolare riguardo alla funzione visiva.  
-Art. 347. - Il numero degli iscritti alla scuola e' fissato in dieci allievi per anno di corso.  
-Art. 348. - Il consiglio di facolta' nomina annualmente, a direttore della scuola, un professore di ruolo o fuori ruolo di clinica oculistica.  
-Qualora, per qualsiasi motivo, non sia possibile provvedere secondo quanto stabilito dal comma precedente, il consiglio di facolta' affida la direzione della scuola a un docente che insegna o abbia insegnato nella scuola stessa.  
-Il consiglio della scuola si compone dei professori che vi tengono gli insegnamenti prescritti ed e' presieduto dal direttore.  
-Art. 349. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria. La frequenza e' obbligatoria.  
-Art. 350. - Il corso comprende lezioni ed esercitazioni pratiche.  
-Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-elementi di anatomia dell'apparato visivo e del S.N.C.;  
-fisiologia dell'occhio, della motilita' oculare, della visione binoculare;  
-ottica fisica e fisiopatologica;  
-ortottica I;  
-psicologia infantile.  
-2° Anno:  
-elementi di patologia oculare;  
-elementi di farmacologia oculare;  
-elementi di neurooftalmologia;  
-nozioni di chirurgia ed assistenza oftalmica;  
-ortottica II.  
-3° Anno:  
-tecniche semeiologiche dell'apparato visivo I (es. refrazione, contattologia, adattometria, campo visivo, senso cromatico);  
-tecniche semeiologiche ed elettrofisiologiche (tonometria e tonografia; ERG; EOG; EMG; ecografia, retinografia e fluoro-angiografia);  
-ortottica III;  
-nozioni di riabilitazione senso-motoria nell'eta' infantile;  
-legislazione sanitaria.  
-Art. 351. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo, per gli allievi, dell'internato per l'intero periodo di corso di studi nella clinica oculistica. La frequenza viene comprovata dall'attestazione rilasciata sul libretto di iscrizione dagli insegnanti e per l'attivita' pratica dal direttore della scuola. L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.  
-Art. 352. - Alla fine di ogni anno gli allievi devono sostenere un esame sulle materie di insegnamento.  
-Nel caso in cui i candidati non abbiano superato gli esami prescritti, essi rimarranno nella posizione di "ripetenti".  
-Art. 353. - Gli esami di profitto consistono in prove teoriche e pratiche.  
-Art. 354. - Alla fine del corso gli allievi debbono sostenere un esame di diploma che consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento, assegnata dal direttore della scuola e in una prova pratica stabilita da una commissione esaminatrice.  
-I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola ma se al secondo anno non sia loro riconosciuta l'idoneita' saranno senz'altro esclusi da ulteriori prove.  
-Art. 355. - Gli esami di profitto e di diploma si danno in due sessioni, la prima estiva che ha inizio subito dopo la chiusura annuale dei corsi e la seconda autunnale, nel mese che precede l'inizio del nuovo anno accademico.  
-Art. 356. - Le commissioni per gli esami di ammissione, di profitto e di diploma, sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Le commissioni per gli esami di ammissione sono composte da tre membri: direttore della scuola, presidente, e da due insegnanti della scuola stessa. Le commissioni per gli esami di profitto e di diploma sono costituite secondo quanto previsto dalle norme generali dello statuto riguardanti le scuole di specialita' della facolta' di medicina.  
-Art. 357. - Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni o contributi di enti pubblici o privati.  
+Dopo l'art. 32, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di notariato e della scuola di specializzazione nelle discipline del lavoro, annesse alla facolta' di giurisprudenza.   
+  
+Scuola di notariato   
+  
+Art. 33. - E' istituita presso la facolta' di giurisprudenza la "Scuola di notariato" annessa alla medesima facolta'.   
+La scuola ha lo scopo di integrare la preparazione scientifica dei laureati e di approfondire, nella ricerca, la conoscenza dei problemi del notariato a fini di specializzazione professionale.   
+Art. 34. - La scuola e' retta dal direttore.   
+Il direttore e' nominato dal rettore dell'Universita' di Parma su designazione della facolta' di giurisprudenza.   
+Il direttore puo' designare un vice-direttore che lo coadiuva e lo sostituisce in caso d'impedimento.   
+Art. 35. - Il consiglio della scuola e' composto dai professori docenti. Fanno anche parte del consiglio, quali membri di diritto, il presidente dell'ordine dei notai di Parma e il preside della facolta' di giurisprudenza dell'Universita' di Parma.   
+I docenti sono scelti fra i professori di ruolo, incaricati, liberi docenti, assistenti della facolta' di giurisprudenza dell'Universita' di Parma e fra notai iscritti all'ordine dei notai di Parma.   
+Gli incarichi d'insegnamento sono conferiti dal rettore dell'universita' su proposta del direttore della scuola, sentito il preside della facolta' di giurisprudenza per quanto concerne le nomine di professori di ruolo, incaricati, liberi docenti, assistenti dell'ateneo; sentito il presidente dell'ordine dei notai di Parma, per quanto concerne le nomine dei notai.   
+Art. 36. - Alla scuola possono iscriversi soltanto laureati in giurisprudenza.   
+Art. 37. - La scuola si distingue in due corsi della durata di un anno per ciascun corso.   
+Al termine di essi la scuola rilascia, dopo che i candidati abbiano superato le prove delle materie fondamentali di cui all'art. 40 e l'esame di diploma, un diploma di perfezionamento in "Discipline del notariato".   
+Art. 38. - Il consiglio puo' determinare, anno per anno, il numero massimo degli iscritti.   
+Il consiglio puo' anche deliberare che uno o entrambi i corsi non siano accesi nel caso di mancato raggiungimento di un numero minimo di iscritti.   
+Art. 39. - Gli insegnamenti fondamentali della scuola sono:   
+  
+1° Corso:   
+Ordinamento del notariato;   
+Diritto delle persone e diritto di famiglia;   
+Diritto successorio;   
+Diritti reali;   
+Obbligazioni e contratti;   
+Diritto tributario (1° anno).   
+  
+2° Corso:   
+Diritto delle societa';   
+Tutela dei diritti e legislazione sulla pubblicita';   
+Fallimento;   
+Titoli di credito;   
+Volontaria giurisdizione;   
+Diritto tributario (2° anno).   
+  
+Art. 40. - Con deliberazione del consiglio della scuola possono essere fissati altri insegnamenti integrativi a carattere monografico. Il consiglio determina anche se, per tali insegnamenti, debba sostenersi una prova d'esame.   
+Tutte le deliberazioni di cui al presente articolo debbono essere prese prima dell'inizio dei corsi.   
+Art. 41. - L'esame di diploma consiste nella discussione di una memoria originale su argomento preventivamente approvato dal direttore della scuola.   
+Art. 42. - Gli iscritti alla scuola sono tenuti a pagare le tasse, soprattasse e contributi, secondo quanto stabilito per gli studenti della facolta' di giurisprudenza, nonche' la tassa di diploma nella misura di L. 6.000 nei sensi dell'[art. 7 della legge 19 dicembre 1951, n. 1951](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-19;1951~art7).   
+Sono tenuti, altresi', a pagare un contributo speciale nella misura che sara' determinata dal consiglio di amministrazione, previo parere della facolta', su proposta del direttore della scuola.   
+Art. 43. - Le commissioni giudicatrici per gli esami sono composte di tre membri; quelle di diploma sono composte di cinque membri.   
+I membri sono nominati dal direttore fra i docenti della scuola.   
+  
+Scuola di specializzazione nelle discipline del lavoro   
+  
+Art. 44. - E' istituita presso la facolta' di giurisprudenza la "Scuola di specializzazione nelle discipline del lavoro" annessa alla medesima facolta'.   
+La scuola ha lo scopo di integrare la preparazione scientifica dei laureati e di approfondire, nella ricerca, la conoscenza dei problemi del lavoro, anche ai fini di specializzazione professionale.   
+Art. 45. - La scuola e' retta dal direttore.   
+E' direttore il professore titolare della cattedra di diritto del lavoro della facolta' di giurisprudenza.   
+Il direttore puo' designare un vice-direttore che lo coadiuva e lo sostituisce in caso di impedimento.   
+Art. 46. - Gli incarichi d'insegnamento sono conferiti dal rettore dell'Universita' di Parma, su proposta del direttore della scuola.   
+Art. 47. - I professori incaricati, sotto la presidenza del direttore costituiscono il consiglio della scuola.   
+Art. 48. - Alla scuola possono iscriversi soltanto i laureati in giurisprudenza, scienze politiche, economia e commercio.   
+Art. 49. - La scuola si distingue in due corsi della durata di un anno per ciascun corso.   
+Al termine di essi la scuola rilascia, dopo che i candidati abbiano superato le prove delle materie fondamentali di cui all'art. 53 e l'esame di diploma, un diploma di perfezionamento in diritto del lavoro.   
+Art. 50. - Il consiglio puo' determinare, anno per anno, il numero massimo di coloro che possono essere iscritti.   
+Il consiglio puo' anche deliberare che uno o entrambi i corsi non siano accesi nel caso di mancato raggiungimento minimo di iscritti.   
+Art. 51. - Gli insegnamenti della scuola sono:   
+  
+1° Corso:   
+Storia del diritto del lavoro;   
+Storia dei movimenti sindacali;   
+Economia del lavoro;   
+Diritto del lavoro;   
+Diritto sindacale e tecnica della contrattazione collettiva;   
+Elementi di medicina e psicologia del lavoro (semestrale).   
+  
+2° Corso:   
+Selezione del personale, valutazione delle mansioni e tecniche retributive;   
+Sociologia del lavoro;   
+Diritto della cooperazione;   
+Diritto internazionale del lavoro;   
+Diritto comparato del lavoro;   
+Diritto penale del lavoro (semestrale);   
+Diritto processuale del lavoro (semestrale).   
+  
+Art. 52. - Con deliberazione del consiglio della scuola, possono essere fissati altri insegnamenti integrativi a carattere monografico. Il consiglio determina anche se, per tali insegnamenti, debba sostenersi una prova d'esame. Tutte le deliberazioni di cui al presente articolo debbono essere prese prima dell'inizio dei corsi annuali.   
+Art. 53. - L'esame di diploma consiste nella discussione di una memoria originale su argomento preventivamente approvato dal direttore della scuola.   
+Art. 54. - Gli iscritti alla scuola sono tenuti a pagare le tasse, soprattasse e contributi, secondo quanto stabilito per gli studenti della facolta' di giurisprudenza, nonche' la tassa di diploma nella misura di L. 6.000 nei sensi dell'[art. 7 della legge 19 dicembre 1951, n. 1951](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-19;1951~art7).   
+Sono tenuti, altresi', a pagare un contributo speciale nella misura che sara' determinata dal consiglio di amministrazione, previo parere della facolta', su proposta del direttore della scuola.   
+Art. 55. - Le commissioni giudicatrici per gli esami speciali sono composte di tre membri; quelle di diploma sono composte di cinque membri. I membri sono nominati dal direttore fra docenti della scuola.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 ottobre 1978
+### Dato a Roma, addi' 31 ottobre 1972
 
-PERTINI PEDINI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 28 dicembre 1978
+Registrato alla Corte dei conti, addi' 13 settembre 1973
 
-Registro n. 135 Istruzione, foglio n. 301
+Atti di Governo, registro n. 260, foglio n. 11. - VALENTINI

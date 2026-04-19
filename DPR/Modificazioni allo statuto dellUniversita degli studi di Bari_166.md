@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1963 n. 1797
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1982 n. 233
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1963 n. 1797
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1982 n. 233
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con il [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,271 +18,79 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale:
 
-Sulla proposta del Ministero per la pubblica istruzione;
+Veduta la necessita' di adeguare le norme sulla direzione delle scuole di perfezionamento di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 9. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze politiche e' aggiunto quello di "Diritto pubblico dell'economia" mentre viene soppresso quello di "Istituzioni di diritto penale" .
+Articolo unico
+--------------
 
-Art. 11, concernente le norme di propedeuticita' per il corso di laurea in Scienze politiche modificato nel senso che il n. 1) e' aggiunta la propedeuticita' dell'esame di "Economia politica" verso quello di "Scienza delle finanze" .
-
-Art. 20. - All'elenco degli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti quelli di:
-
-Diritto industriale;
-
-Diritto tributario.
-
-Art. 24. - All'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere e' aggiunto quello di "Glottologia" .
-
-Art. 28, concernente l'elenco degli Istituti annessi alla Facolta' di Economia e commercio e' modificato nel senso che il n. 1) prende la seguente denominazione:
-
-1) Istituto di Merceologia (comprendente il laboratorio di merceologia, il museo merceologico ed il laboratorio per lo studio delle fonti di energia).
-
-Art. 33. - All'elenco degli Istituti della Facolta' di Medicina e chirurgia e' aggiunto il seguente:
-
-Istituto di Semeiotica medica.
-
-Art. 42. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti quelli di:
-
-Chimica biologica;
-
-Nematologia (semestrale);
-
-Virologia vegetale (semestrale).
-
-Art. 41, concernente le norme di propedeuticita' per il corso di laurea in Scienze agrarie e' modificato nel senso che il capoverso "Agli effetti della iscrizione e degli esami sono da considerarsi materie propedeutiche" e' abrogato e sostituito dal seguente: "Agli effetti degli esami sono da considerare materie propedeutiche" .
-
-Art. 80. - All'elenco degli insegnamenti complementari del corso di laurea in Matematica - indirizzo didattico - e' aggiunto quello di "Astronomia" .
-
-Art. 86, relativo agli esami di laurea in Scienze naturali, l'ultimo comma, e' sostituito dal seguente:
-
-"Dell'esame di laurea fa parte una prova orale di cultura, integrata da prove pratiche. Tale esame di cultura vertera' su argomenti a carattere generale nelle seguenti discipline:
-
-1) Botanica;
-
-2) Zoologia ed anatomia comparata;
-
-3) Mineralogia;
-
-4) Geologia".
-
-Art. 90, relativo agli esami di laurea in Scienze geologiche, l'ultimo comma e' sostituito dal seguente:
-
-"Dell'esame di laurea fa parte la prova di cultura, generale di cui al successivo art. 92 nelle seguenti discipline:
-
-1) Mineralogia;
-
-2) Petrografia;
-
-3) Geologia;
-
-4) Paleontologia".
-
-Art. 92, relativo alle norme comuni, il primo capoverso e' modificato nel modo seguente:
-
-"L'esame di laurea in Chimica, in Scienze naturali, in Scienze biologiche, in Scienze geologiche, consiste oltre che nell'esame di cultura generale ed oltre che nelle prove pratiche di cui agli articoli 84, 86, 90".
-
-Art. 94. - Dall'elenco degli Istituti della Facolta' di Scienze matematiche, fisiche e naturali e' soppresso lo Istituto di Fisiologia generale e chimica biologica, mentre vengono istituiti i seguenti:
-
-Istituto di Fisiologia generale;
-
-Istituto di Chimica biologica;
-
-Seminario di Studi biologici.
-
-Dopo l'art. 97 e con il conseguente spostamento della successiva numerazione vengono inseriti i seguenti nuovi articoli, relativi alla regolamentazione del Seminario di studi biologici.
-
-Seminario di studi biologici
-
-Art. 98. - Al Seminario di studi biologici partecipano i diversi Istituti del gruppo biologico della Facolta' di Scienze. Il titolare della cattedra di Chimica biologica e' responsabile dell'organizzazione e dell'attivita' di tale Seminario.
-
-Art. 99. - Il Seminario si propone di realizzare dei corsi utili e per un completamento di preparazione biologica per studenti e per laureati e per un'ampia discussione sui piu' recenti progressi delle Scienze biologiche. Il Seminario si propone inoltre di incrementare in una visione unitaria, la ricerca scientifica dei vari Istituti che ad esso partecipano attraverso conferenze, simposi, dimostrazioni pratiche, pubblicazioni ed ogni altra forma utile al raggiungimento di tali finalita' scientifiche. Esso utilizzera' le biblioteche degli istituti del gruppo biologico della Facolta' di Scienze.
-
-Dopo l'art. 105 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione del Centro di Microscopia elettronica e del Centro di calcolo.
-
-Centro di Microscopia elettronica
-
-Art. 106. - E' istituito presso l'Universita' di Bari un Centro di Microscopia elettronica; esso e' a disposizione delle varie Facolta' per ogni loro esigenza di ricerca e di insegnamento.
-
-Il Centro e' diretto da un Comitato esecutivo, composto da sei membri, designati dal Senato accademico su indicazione delle varie Facolta', e dal direttore tecnico del Centro.
-
-Il Comitato esecutivo e' nominato per due anni ed i suoi membri possono essere confermati. Ad esso spetta, il coordinamento delle esigenze di ricerca con le disponibilita' e le possibilita' di lavoro del Centro: esso e' inoltre responsabile della sua gestione tecnica ed amministrativa.
-
-Il Centro di Microscopia elettronica ha sede nei locali dell'Istituto di Anatomia ed Istologia patologica il cui direttore ha qualifica di direttore tecnico del Centro.
-
-Il Centro disporra' di un fondo destinato al mantenimento e miglioramento delle sue attrezzature e di un fondo per le spese di gestione. Detti fondi saranno costituiti:
-
-a) da una dotazione annuale stabilita, su proposta del rettore, dal Consiglio di amministrazione della Universita' di Bari;
-
-b) da fondi provenienti da Enti privati sia sotto forma di donazioni, sia in seguito a richieste del Comitato esecutivo del Centro;
-
-c) dal contributo dei vari ricercatori a titolo di rimborso totale o parziale delle spese sostenute dal Centro per le rispettive ricerche.
-
-Il funzionamento del Centro sara' disciplinato da un apposito regolamento.
-
-Centro di calcolo
-
-Art. 107. - E' istituito presso l'Universita' di Bari un Centro di calcolo.
-
-Scopo del Centro e' quello di istituire e fornire mezzi moderni di calcolo per l'attivita' scientifica e didattica degli Istituti dell'Universita'.
-
-Organo direttivo del Centro e' un Comitato, costituito da:
-
-1) un professore di ruolo del gruppo fisico-matematico della Facolta' di Scienze;
-
-2) un professore di ruolo del gruppo chimico-geomineralogico della Facolta' di Scienze;
-
-3) un professore di ruolo delle discipline generali della Facolta' di ingegneria;
-
-4) un professore di ruolo delle discipline applicative della Facolta' di ingegneria;
-
-5) un professore di ruolo del gruppo economicostatistico matematico della Facolta' di Economia e commercio;
-
-6) un professore di ruolo dei gruppi economico, di statistica metodologica o ingegneristico della Facolta' di Agraria.
-
-Il Comitato e' nominato dal rettore su proposta della Facolta' di appartenenza dei professori di cui sopra.
-
-Il Comitato elegge nel suo seno un presidente. E' eletto presidente colui che in prima votazione riporta un numero di voti pari almeno alla meta' piu' uno del numero dei componenti il Comitato. Nel caso si dovesse ripetere la votazione per la non conseguita maggioranza ed anche nella seconda si avesse un risultato di parita', verra' eletto come presidente il professore piu' anziano di ruolo tra i candidati.
-
-I membri del Comitato ed il presidente durano in carica due anni accademici.
-
-I membri del Comitato possono essere riproposti dalle rispettive Facolta'. In caso di sostituzione di un componente il Comitato, la Facolta' competente provvede alla designazione del suo successore a norma del precedente comma 3).
-
-Per la validita' delle riunioni del Comitato occorre la presenza di almeno quattro componenti.
-
-Per la validita' delle deliberazioni occorre la maggioranza dei voti dei presenti. A parita' di voti prevale il voto del presidente.
-
-Il presidente e' sostituito, in caso di assenza o impedimento, da un vice presidente. Questi e' nominato dal rettore su designazione fatta dallo stesso presidente, all'inizio del suo mandato, tra i membri del Comitato.
-
-Il funzionamento del Centro sara' disciplinato da apposito regolamento, da emanarsi dal rettore su proposta del Comitato. Il regolamento verra' approvato dal Senato accademico, sentito il parere delle Facolta' menzionate nel precedente comma 3).
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1963
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 11 dicembre 1963 Atti del Governo, registro n. 178, foglio n. 61. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con il [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministero per la pubblica istruzione;  
+L'art. 257, relativo alla scuola di specializzazione in psichiatria, e' sostituito dai seguenti:  
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 9. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze politiche e' aggiunto quello di "Diritto pubblico dell'economia" mentre viene soppresso quello di "Istituzioni di diritto penale" .  
-Art. 11, concernente le norme di propedeuticita' per il corso di laurea in Scienze politiche modificato nel senso che il n. 1) e' aggiunta la propedeuticita' dell'esame di "Economia politica" verso quello di "Scienza delle finanze" .  
-Art. 20. - All'elenco degli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti quelli di:  
-Diritto industriale;  
-Diritto tributario.  
-Art. 24. - All'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere e' aggiunto quello di "Glottologia" .  
-Art. 28, concernente l'elenco degli Istituti annessi alla Facolta' di Economia e commercio e' modificato nel senso che il n. 1) prende la seguente denominazione:  
-1) Istituto di Merceologia (comprendente il laboratorio di merceologia, il museo merceologico ed il laboratorio per lo studio delle fonti di energia).  
-Art. 33. - All'elenco degli Istituti della Facolta' di Medicina e chirurgia e' aggiunto il seguente:  
-Istituto di Semeiotica medica.  
-Art. 42. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti quelli di:  
-Chimica biologica;  
-Nematologia (semestrale);  
-Virologia vegetale (semestrale).  
-Art. 41, concernente le norme di propedeuticita' per il corso di laurea in Scienze agrarie e' modificato nel senso che il capoverso "Agli effetti della iscrizione e degli esami sono da considerarsi materie propedeutiche" e' abrogato e sostituito dal seguente: "Agli effetti degli esami sono da considerare materie propedeutiche" .  
-Art. 80. - All'elenco degli insegnamenti complementari del corso di laurea in Matematica - indirizzo didattico - e' aggiunto quello di "Astronomia" .  
-Art. 86, relativo agli esami di laurea in Scienze naturali, l'ultimo comma, e' sostituito dal seguente:  
-"Dell'esame di laurea fa parte una prova orale di cultura, integrata da prove pratiche. Tale esame di cultura vertera' su argomenti a carattere generale nelle seguenti discipline:  
-1) Botanica;  
-2) Zoologia ed anatomia comparata;  
-3) Mineralogia;  
-4) Geologia".  
-Art. 90, relativo agli esami di laurea in Scienze geologiche, l'ultimo comma e' sostituito dal seguente:  
-"Dell'esame di laurea fa parte la prova di cultura, generale di cui al successivo art. 92 nelle seguenti discipline:  
-1) Mineralogia;  
-2) Petrografia;  
-3) Geologia;  
-4) Paleontologia".  
-Art. 92, relativo alle norme comuni, il primo capoverso e' modificato nel modo seguente:  
-"L'esame di laurea in Chimica, in Scienze naturali, in Scienze biologiche, in Scienze geologiche, consiste oltre che nell'esame di cultura generale ed oltre che nelle prove pratiche di cui agli articoli 84, 86, 90".  
-Art. 94. - Dall'elenco degli Istituti della Facolta' di Scienze matematiche, fisiche e naturali e' soppresso lo Istituto di Fisiologia generale e chimica biologica, mentre vengono istituiti i seguenti:  
-Istituto di Fisiologia generale;  
-Istituto di Chimica biologica;  
-Seminario di Studi biologici.  
-Dopo l'art. 97 e con il conseguente spostamento della successiva numerazione vengono inseriti i seguenti nuovi articoli, relativi alla regolamentazione del Seminario di studi biologici.  
-  
-Seminario di studi biologici  
-  
-Art. 98. - Al Seminario di studi biologici partecipano i diversi Istituti del gruppo biologico della Facolta' di Scienze. Il titolare della cattedra di Chimica biologica e' responsabile dell'organizzazione e dell'attivita' di tale Seminario.  
-Art. 99. - Il Seminario si propone di realizzare dei corsi utili e per un completamento di preparazione biologica per studenti e per laureati e per un'ampia discussione sui piu' recenti progressi delle Scienze biologiche. Il Seminario si propone inoltre di incrementare in una visione unitaria, la ricerca scientifica dei vari Istituti che ad esso partecipano attraverso conferenze, simposi, dimostrazioni pratiche, pubblicazioni ed ogni altra forma utile al raggiungimento di tali finalita' scientifiche. Esso utilizzera' le biblioteche degli istituti del gruppo biologico della Facolta' di Scienze.  
-Dopo l'art. 105 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione del Centro di Microscopia elettronica e del Centro di calcolo.  
-  
-Centro di Microscopia elettronica  
-  
-Art. 106. - E' istituito presso l'Universita' di Bari un Centro di Microscopia elettronica; esso e' a disposizione delle varie Facolta' per ogni loro esigenza di ricerca e di insegnamento.  
-Il Centro e' diretto da un Comitato esecutivo, composto da sei membri, designati dal Senato accademico su indicazione delle varie Facolta', e dal direttore tecnico del Centro.  
-Il Comitato esecutivo e' nominato per due anni ed i suoi membri possono essere confermati. Ad esso spetta, il coordinamento delle esigenze di ricerca con le disponibilita' e le possibilita' di lavoro del Centro: esso e' inoltre responsabile della sua gestione tecnica ed amministrativa.  
-Il Centro di Microscopia elettronica ha sede nei locali dell'Istituto di Anatomia ed Istologia patologica il cui direttore ha qualifica di direttore tecnico del Centro.  
-Il Centro disporra' di un fondo destinato al mantenimento e miglioramento delle sue attrezzature e di un fondo per le spese di gestione. Detti fondi saranno costituiti:  
-a) da una dotazione annuale stabilita, su proposta del rettore, dal Consiglio di amministrazione della Universita' di Bari;  
-b) da fondi provenienti da Enti privati sia sotto forma di donazioni, sia in seguito a richieste del Comitato esecutivo del Centro;  
-c) dal contributo dei vari ricercatori a titolo di rimborso totale o parziale delle spese sostenute dal Centro per le rispettive ricerche.  
-Il funzionamento del Centro sara' disciplinato da un apposito regolamento.  
-  
-Centro di calcolo  
-  
-Art. 107. - E' istituito presso l'Universita' di Bari un Centro di calcolo.  
-Scopo del Centro e' quello di istituire e fornire mezzi moderni di calcolo per l'attivita' scientifica e didattica degli Istituti dell'Universita'.  
-Organo direttivo del Centro e' un Comitato, costituito da:  
-1) un professore di ruolo del gruppo fisico-matematico della Facolta' di Scienze;  
-2) un professore di ruolo del gruppo chimico-geomineralogico della Facolta' di Scienze;  
-3) un professore di ruolo delle discipline generali della Facolta' di ingegneria;  
-4) un professore di ruolo delle discipline applicative della Facolta' di ingegneria;  
-5) un professore di ruolo del gruppo economicostatistico matematico della Facolta' di Economia e commercio;  
-6) un professore di ruolo dei gruppi economico, di statistica metodologica o ingegneristico della Facolta' di Agraria.  
-Il Comitato e' nominato dal rettore su proposta della Facolta' di appartenenza dei professori di cui sopra.  
-Il Comitato elegge nel suo seno un presidente. E' eletto presidente colui che in prima votazione riporta un numero di voti pari almeno alla meta' piu' uno del numero dei componenti il Comitato. Nel caso si dovesse ripetere la votazione per la non conseguita maggioranza ed anche nella seconda si avesse un risultato di parita', verra' eletto come presidente il professore piu' anziano di ruolo tra i candidati.  
-I membri del Comitato ed il presidente durano in carica due anni accademici.  
-I membri del Comitato possono essere riproposti dalle rispettive Facolta'. In caso di sostituzione di un componente il Comitato, la Facolta' competente provvede alla designazione del suo successore a norma del precedente comma 3).  
-Per la validita' delle riunioni del Comitato occorre la presenza di almeno quattro componenti.  
-Per la validita' delle deliberazioni occorre la maggioranza dei voti dei presenti. A parita' di voti prevale il voto del presidente.  
-Il presidente e' sostituito, in caso di assenza o impedimento, da un vice presidente. Questi e' nominato dal rettore su designazione fatta dallo stesso presidente, all'inizio del suo mandato, tra i membri del Comitato.  
-Il funzionamento del Centro sara' disciplinato da apposito regolamento, da emanarsi dal rettore su proposta del Comitato. Il regolamento verra' approvato dal Senato accademico, sentito il parere delle Facolta' menzionate nel precedente comma 3).  
+Scuola di specializzazione in psichiatria  
+Art. 257. - La scuola di specializzazione in psichiatria ha sede presso l'istituto di clinica psichiatrica dell'Universita' di Bari e conferisce il diploma di specialista in psichiatria.  
+Art. 258. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+Art. 259. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Art. 260. - La durata del corso di studi e' di quattro anni. Non sono consentite abbreviazioni di corso.  
+Art. 261. - Il numero di allievi e' di otto per anno e complessivamente di trentadue iscritti per l'intero corso di studi.  
+Art. 262. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 263. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) metodologia del rapporto medico-paziente (annuale);  
+2) psicologia (annuale);  
+3) elementi di genetica e biochimica (annuale);  
+4) struttura e funzioni integrative del SNC (annuale);  
+5) neurologia clinica (annuale);  
+6) clinica psichiatrica I (quadriennale).  
+2° Anno:  
+1) psicopatologia e psicodinamica (annuale);  
+2) psicoterapia I (triennale);  
+3) psicofarmacologia (annuale);  
+4) psicofarmacoterapia (annuale);  
+5) clinica psichiatrica II (quadriennale).  
+3° Anno:  
+1) psicodiagnostica ed informatica psichiatrica (annuale);  
+2) psichiatria sociale I (biennale);  
+3) psichiatria infantile (annuale);  
+4) psicoterapia II (triennale);  
+5) clinica psichiatrica III (quadriennale).  
+4° Anno:  
+1) psicosomatica (annuale);  
+2) psichiatria sociale II (biennale);  
+3) psichiatria forense (annuale);  
+4) psicoterapia III (triennale);  
+5) clinica psichiatrica IV (quadriennale).  
+Art. 264. - E' obbligatoria la frequenza per undici mesi all'anno; tale periodo comprende sia la frequenza alle lezioni, sia esercitazioni pratiche nei reparti di degenza e nelle strutture ambulatoriali a disposizione della scuola. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Art. 265. - La scuola programma lo svolgimento dei corsi di insegnamento. Per il passaggio agli anni successivi e' obbligatorio il superamento degli esami per ogni singolo anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.  
+Le lezioni teoriche saranno integrate anche da seminari, anche interdisciplinari, da documentazioni cliniche e da esperienze effettuate nei vari settori della disciplina.  
+Alla fine dei quattro anni gli allievi che hanno frequentato i corsi saranno ammessi all'esame di diploma, consistente nella presentazione e discussione di una tesi scritta di argomento pertinente alla psichiatria valida a tutti gli effetti di legge.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1963
+### Dato a Roma, addi' 5 febbraio 1982
 
-SEGNI GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 11 dicembre 1963
+Registrato alla Corte dei conti, addi' 24 aprile 1982
 
-Atti del Governo, registro n. 178, foglio n. 61. - VILLA
+Registro n. 58 Istruzione, foglio n. 152

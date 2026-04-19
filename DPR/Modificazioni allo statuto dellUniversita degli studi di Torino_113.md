@@ -1,55 +1,97 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1982 n. 640
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1979 n. 312
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1982 n. 640
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1979 n. 312
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Lo statuto dell'Universita' di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Il primo comma dell'art. 176, relativo alla scuola di specializzazione in cardiologia, e' sostituito dal seguente:  
-"La scuola di specializzazione in cardiologia ha sede presso l'istituto di medicina interna e conferisce il diploma di specialista in cardiologia".  
-Nello stesso articolo, il quinto comma, e' sostituito dal seguente: "Il numero massimo degli allievi e' di quindici per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi".  
+Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 202 e 203, relativi alla scuola di specializzazione in radiologia, sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in radiologia  
+  
+Art. 202. - La scuola di specializzazione in radiologia ha sede presso l'istituto di radiologia dell'Universita' ed e' diretta da un professore di ruolo o fuori ruolo della stessa materia o, in carenza, di materia affine.  
+Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso di diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione per titoli ed esami.  
+Non sono ammesse abbreviazioni di corso.  
+La scuola conferisce i seguenti diplomi:  
+a) diploma di specialista in radiodiagnostica.  
+Gli anni di studio necessari per conseguire questo titolo sono quattro;  
+b) diploma di specialista in radioterapia oncologica.  
+Gli anni di studio necessari per conseguire questo titolo sono quattro.  
+La scuola ha un tronco comune di due anni identico per i diplomi in radiodiagnostica e radioterapia oncologica.  
+Art. 203. - Gli insegnamenti per il diploma di specialista in radiodiagnostica sono cosi' distribuiti nei quattro anni di corso:  
+1° Anno (comune alla specializzazione in radioterapia oncologica):  
+a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);  
+b) radiobiologia, legislazione e norme generali di radioprotezione;  
+c) tecniche di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;  
+d) nozioni di anatomia e fisiologia generale.  
+2° Anno: (comune alla radioterapia oncologica):  
+a) anatomia patologica;  
+b) apparecchiature e tecniche radiologiche;  
+c) semeiotica radiologica (integrata con la semeiotica clinica, isotopica e di laboratorio);  
+d) radiopatologia;  
+e) dosimetria applicata.  
+3° Anno:  
+a) tecniche speciali e relativa semeiotica (I);  
+b) radiodiagnostica speciale dei vari organi ed apparati (I).  
+4° Anno:  
+a) tecniche speciali e relativa semeiotica, (termografia, ecografia, xerografia, TAC) (II);  
+b) radiodiagnostica speciale dei vari organi ed apparati (II).  
+Gli insegnamenti per il diploma di specialista in radioterapia oncologica sono cosi' distribuiti nei quattro anni di corso:  
+1° Anno (comune alla specializzazione in radiodiagnostica):  
+a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);  
+b) radiobiologia, legislazione e norme generali di radioprotezione;  
+c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;  
+d) nozioni di anatomia e fisiologia generale.  
+2° Anno (comune a radiodiagnostica):  
+a) anatomia patologica;  
+b) apparecchiature e tecniche radiologiche;  
+c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);  
+d) radiopatologia;  
+e) dosimetria applicata.  
+3° Anno:  
+a) oncologia generale;  
+b) oncologia clinica (I);  
+c) tecniche radioterapiche.  
+4° Anno:  
+a) oncologia clinica (II);  
+b) fondamenti di terapia chirurgica dei tumori;  
+c) radioterapia clinica;  
+d) trattamento del canceroso in fase avanzata.  
+I singoli insegnamenti saranno tenuti da uno o piu' docenti a seconda di quanto ritenuto opportuno al loro migliore svolgimento.  
+Il numero massimo di iscritti in corso alla scuola e' di 60, da ripartirsi annualmente fra i vari corsi di diploma previsti dall'art. 2.  
+La frequenza pratica e' obbligatoria (10 mesi all'anno) e deve avvenire in reparti riconosciuti idonei. L'insegnamento verra' svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti ecc. Gli allievi, per essere ammessi a sostenere gli esami delle singole materie dovranno avere la firma di frequenza da parte del direttore della scuola.  
+Gli allievi al termine di ogni anno dovranno superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.  
+Gli allievi, per conseguire il diploma di specializzazione, oltre ad essere stati approvati in tutti gli esami, dovranno elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatta obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 maggio 1982
+### Dato a Roma, addi' 14 marzo 1979
 
-PERTINI BODRATO
+PERTINI PEDINI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 2 settembre 1982
+Registrato alla Corte dei conti, addi' 18 luglio 1979
 
-Registro n. 104 Istruzione, foglio n. 262
+Registro n. 56 Istruzione, foglio n. 82

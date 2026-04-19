@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 giugno 1972 n. 435
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 settembre 1969 n. 734
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 giugno 1972 n. 435
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 settembre 1969 n. 734
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 ottobre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-10-07;1540) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
@@ -25,30 +25,28 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 40. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto l'insegnamento di "Geografia regionale".  
-Art. 43. - All'elenco degli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di "Storia dell'arte bizantina e veneta".  
-Art. 44. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia e' aggiunto quello di "Storia dell'arte bizantina e veneta".  
-Art. 56, relativo agli istituti annessi alla facolta' di magistero, e' modificato nel senso che e' aggiunto l'istituto di lingua e letteratura latina.  
-Art. 58. All'elenco degli insegnamenti complementari del corso di laurea in chimica e' aggiunto quello di "Tecniche di programmazione".  
-Art. 59. - All'elenco degli insegnamenti complementari del corso di laurea in fisica sono aggiunti i seguenti:  
   
-Tecniche di programmazione;  
-Fisica planetaria.  
-  
-Art. 61. - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di "Tecniche di programmazione".  
-Art. 62. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto quello di "Tecniche di programmazione".  
-Art. 63. - All'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche e' aggiunto quello di "Tecniche di programmazione".  
+Art. 48. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:  
+Storia della critica letteraria;  
+Geografia della regione Friuli-Venezia Giulia;  
+Storia e critica del cinema;  
+Cultura greca;  
+Storia politica e delle istituzioni dell'Oriente;  
+Filosofia del linguaggio.  
+Art. 49. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:  
+Igiene;  
+Storia della letteratura italiana moderna e contemporanea.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 giugno 1972
+### Dato a Roma, addi' 23 settembre 1969
 
-LEONE MISASI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 5 agosto 1972
+Registrato alla Corte dei conti, addi' 27 ottobre 1969
 
-Atti del Governo, registro n. 250, foglio n. 118. - VALENTINI
+Atti del Governo, registro n. 229, foglio n. 140. - CARUSO

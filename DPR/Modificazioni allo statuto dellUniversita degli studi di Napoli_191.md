@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1966 n. 109
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 628
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1966 n. 109
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 628
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,258 +10,116 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090) e modificato con [regio decreto 13 ottobre 1927, n. 2281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2281), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
 Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 58. - Agli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti quelli di:
+Articolo unico
+--------------
 
-14) Ragioneria pubblica;
-
-15) Sociologia.
-
-Art. 102. - Nell'elenco degli Istituti annessi alla Facolta' di lettere e filosofia la denominazione dell'Istituto di storia della filosofia e' modificato in quella di:
-
-Istituto di storia della filosofia "Antonio Aliotta".
-
-Art. 132. - Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo organico-biologico) sono aggiunti quelli di:
-
-25) Chimica delle sostanze coloranti;
-
-26) Chimica microbiologica;
-
-27) Fitochimica;
-
-28) Biologia molecolare.
-
-Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo inorganico-chimico-fisico) e' aggiunto quello di:
-
-25) Biologia molecolare.
-
-Art. 141. - Agli insegnamenti complementari del corso di laurea in Fisica e' aggiunto quello di: "Biologia molecolare".
-
-Art. 156. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche e' aggiunto quello di:
-
-"Biologia molecolare".
-
-Art. 244. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti quelli di:
-
-12) Virologia vegetale;
-
-13) Fisiopatologia vegetale;
-
-14) Sociologia rurale;
-
-15) Miglioramento genetico delle piante coltivate Dopo l'art. 498 e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di perfezionamento in Strutturistica molecolare annessa alla Facolta' di scienze matematiche fisiche e naturali.
-
-Scuola di perfezionamento in Strutturistica molecolare
-
-Art. 499. - E' istituita presso la Facolta' di scienze matematiche, fisiche e naturali dell'Universita' degli studi di Napoli la Scuola di perfezionamento in Strutturistica molecolare, che ha la funzione di qualificare laureati in Chimica, Chimica industriale e altre discipline scientifiche, come ricercatori specializzati in quei settori piu' avanzati della chimica, che hanno come base lo studio della struttura molecolare con metodologie diverse.
-
-Art. 500. - La durata minima del corso degli studi e' di due anni.
-
-Art. 501. - La Scuola e' diretta da un Comitato direttivo costituito dai titolari di materie chimiche della Facolta' di scienze, il Comitato direttivo elegge nel suo seno un direttore e due vice-direttori.
-
-Art. 502. - I membri del Comitato direttivo e tutti gli insegnanti della Scuola formano il Consiglio della scuola, che provvede al coordinamento dei corsi e svolge tutte le funzioni previste nel presente statuto.
-
-Art. 503. - Alla Scuola sono ammessi, a giudizio de Comitato direttivo, i laureati in Chimica, Chimica industriale e in altre discipline scientifiche ai quali verra' conferita una borsa di studio.
-
-Il numero massimo degli allievi da ammettere alla Scuola e' di trenta ogni anno accademico.
-
-Art. 504. - Gli iscritti hanno l'obbligo di svolgere un programma di ricerche in uno dei laboratori e istituti della Facolta' di scienze e di frequentare i singoli corsi trimestrali e semestrali secondo un curriculum concordato per ogni allievo con il Consiglio della scuola, sulla base della preparazione e della precedente formazione scolastica. Tale curriculum potra' essere integrato a giudizio del Consiglio della scuola con insegnamenti fondamentali e complementari dei corsi di laurea della Facolta' di scienze dovra' essere contemplato l'obbligo di esame per almeno quattro insegnamenti.
-
-Art. 505. - Gli insegnamenti inclusi nel programma della Scuola sono:
-
-1) Biogenesi dei composti naturali;
-
-2) Calcolo numerico e programmazione elettronica;
-
-3) Chimica fisica macromolecolare;
-
-4) Chimica delle proteine;
-
-5) Chimica dei pigmenti naturali;
-
-6) Chimica quantistica;
-
-7) Cinetica e meccanismi di reazioni;
-
-8) Composti di coordinazione;
-
-9) Meccanica e termodinamica statistica;
-
-10) Metodi e meccanismi di polimerizzazione;
-
-11) Metodi moderni di sintesi e analisi organica;
-
-12) Moderne metodologie analitiche;
-
-13) Spettri vibrazionali e rotazionali;
-
-14) Spettroscopia di massa;
-
-15) Spettroscopia elettronica;
-
-16) Spettroscopia N.M.R. e E.S.R.;
-
-17) Stereochimica e analisi conformazionale;
-
-18) Stereochimica dei polimeri sintetici;
-
-19) Struttura di steroidi, terpeni e alcaloidi;
-
-20) Struttura e attivita' biologica;
-
-21) Struttura e meccanismi di azione degli enzimi;
-
-22) Struttura e proprieta' chimico-fisiche di bio-polimeri;
-
-23) Struttura e proprieta' fisiche di catalizzatori;
-
-24) Strutturistica roentgenografica;
-
-25) Equilibri in soluzione;
-
-26) Complessi polinucleari.
-
-Art. 506. - Gli insegnamenti elencati nel precedente articolo possono essere integrati da seminari.
-
-Art. 507. - La Scuola conferisce un diploma di perfezionamento in Strutturistica molecolare agli iscritti che:
-
-a) abbiano frequentato tutti i corsi stabiliti nel curriculum;
-
-b) abbiano ottenuto un giudizio di idoneita' nei corsi per i quali il Consiglio della scuola avesse stabilito un obbligo di esame;
-
-c) abbiano ricevuto il giudizio favorevole del Consiglio della scuola, presentando una dissertazione scritta su di un argomento originale, concordata con il direttore dell'Istituto o del laboratorio presso il quale la ricerca e' stata effettuata, una parte della quale almeno sia stata pubblicata o accettata per la pubblicazione in un periodico scientifico a larga diffusione.
-
-Art. 508. - Gli iscritti alla Scuola di perfezionamento sono tenuti a pagare le medesime tasse, soprattasse e contributi stabiliti per gli studenti della Facolta' di scienze della Universita' di Napoli, nonche' la tassa di diploma, nella misura di L. 6000, ai sensi della [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).
-
-Art. 509. - La Scuola dispone di una dotazione costituita da fondi provenienti da Enti pubblici e privati italiani e stranieri oltre che dalle tasse, soprattasse e contributi generali dovuti dagli iscritti; con tale dotazione si provvede al funzionamento didattico e scientifico, al conferimento delle borse di studio agli iscritti, alla retribuzione degli insegnanti e del personale addetto.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 14 febbraio 1966
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 15 marzo 1966 Atti del Governo, registro n. 202, foglio n. 44. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 58. - Agli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti quelli di:  
-14) Ragioneria pubblica;  
-15) Sociologia.  
-Art. 102. - Nell'elenco degli Istituti annessi alla Facolta' di lettere e filosofia la denominazione dell'Istituto di storia della filosofia e' modificato in quella di:  
-Istituto di storia della filosofia "Antonio Aliotta".  
-Art. 132. - Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo organico-biologico) sono aggiunti quelli di:  
-25) Chimica delle sostanze coloranti;  
-26) Chimica microbiologica;  
-27) Fitochimica;  
-28) Biologia molecolare.  
-Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo inorganico-chimico-fisico) e' aggiunto quello di:  
-25) Biologia molecolare.  
-Art. 141. - Agli insegnamenti complementari del corso di laurea in Fisica e' aggiunto quello di: "Biologia molecolare".  
-Art. 156. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche e' aggiunto quello di:  
-"Biologia molecolare".  
-Art. 244. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti quelli di:  
-12) Virologia vegetale;  
-13) Fisiopatologia vegetale;  
-14) Sociologia rurale;  
-15) Miglioramento genetico delle piante coltivate Dopo l'art. 498 e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di perfezionamento in Strutturistica molecolare annessa alla Facolta' di scienze matematiche fisiche e naturali.  
-Scuola di perfezionamento in Strutturistica molecolare  
-Art. 499. - E' istituita presso la Facolta' di scienze matematiche, fisiche e naturali dell'Universita' degli studi di Napoli la Scuola di perfezionamento in Strutturistica molecolare, che ha la funzione di qualificare laureati in Chimica, Chimica industriale e altre discipline scientifiche, come ricercatori specializzati in quei settori piu' avanzati della chimica, che hanno come base lo studio della struttura molecolare con metodologie diverse.  
-Art. 500. - La durata minima del corso degli studi e' di due anni.  
-Art. 501. - La Scuola e' diretta da un Comitato direttivo costituito dai titolari di materie chimiche della Facolta' di scienze, il Comitato direttivo elegge nel suo seno un direttore e due vice-direttori.  
-Art. 502. - I membri del Comitato direttivo e tutti gli insegnanti della Scuola formano il Consiglio della scuola, che provvede al coordinamento dei corsi e svolge tutte le funzioni previste nel presente statuto.  
-Art. 503. - Alla Scuola sono ammessi, a giudizio de Comitato direttivo, i laureati in Chimica, Chimica industriale e in altre discipline scientifiche ai quali verra' conferita una borsa di studio.  
-Il numero massimo degli allievi da ammettere alla Scuola e' di trenta ogni anno accademico.  
-Art. 504. - Gli iscritti hanno l'obbligo di svolgere un programma di ricerche in uno dei laboratori e istituti della Facolta' di scienze e di frequentare i singoli corsi trimestrali e semestrali secondo un curriculum concordato per ogni allievo con il Consiglio della scuola, sulla base della preparazione e della precedente formazione scolastica. Tale curriculum potra' essere integrato a giudizio del Consiglio della scuola con insegnamenti fondamentali e complementari dei corsi di laurea della Facolta' di scienze dovra' essere contemplato l'obbligo di esame per almeno quattro insegnamenti.  
-Art. 505. - Gli insegnamenti inclusi nel programma della Scuola sono:  
-1) Biogenesi dei composti naturali;  
-2) Calcolo numerico e programmazione elettronica;  
-3) Chimica fisica macromolecolare;  
-4) Chimica delle proteine;  
-5) Chimica dei pigmenti naturali;  
-6) Chimica quantistica;  
-7) Cinetica e meccanismi di reazioni;  
-8) Composti di coordinazione;  
-9) Meccanica e termodinamica statistica;  
-10) Metodi e meccanismi di polimerizzazione;  
-11) Metodi moderni di sintesi e analisi organica;  
-12) Moderne metodologie analitiche;  
-13) Spettri vibrazionali e rotazionali;  
-14) Spettroscopia di massa;  
-15) Spettroscopia elettronica;  
-16) Spettroscopia N.M.R. e E.S.R.;  
-17) Stereochimica e analisi conformazionale;  
-18) Stereochimica dei polimeri sintetici;  
-19) Struttura di steroidi, terpeni e alcaloidi;  
-20) Struttura e attivita' biologica;  
-21) Struttura e meccanismi di azione degli enzimi;  
-22) Struttura e proprieta' chimico-fisiche di bio-polimeri;  
-23) Struttura e proprieta' fisiche di catalizzatori;  
-24) Strutturistica roentgenografica;  
-25) Equilibri in soluzione;  
-26) Complessi polinucleari.  
-Art. 506. - Gli insegnamenti elencati nel precedente articolo possono essere integrati da seminari.  
-Art. 507. - La Scuola conferisce un diploma di perfezionamento in Strutturistica molecolare agli iscritti che:  
-a) abbiano frequentato tutti i corsi stabiliti nel curriculum;  
-b) abbiano ottenuto un giudizio di idoneita' nei corsi per i quali il Consiglio della scuola avesse stabilito un obbligo di esame;  
-c) abbiano ricevuto il giudizio favorevole del Consiglio della scuola, presentando una dissertazione scritta su di un argomento originale, concordata con il direttore dell'Istituto o del laboratorio presso il quale la ricerca e' stata effettuata, una parte della quale almeno sia stata pubblicata o accettata per la pubblicazione in un periodico scientifico a larga diffusione.  
-Art. 508. - Gli iscritti alla Scuola di perfezionamento sono tenuti a pagare le medesime tasse, soprattasse e contributi stabiliti per gli studenti della Facolta' di scienze della Universita' di Napoli, nonche' la tassa di diploma, nella misura di L. 6000, ai sensi della [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).  
-Art. 509. - La Scuola dispone di una dotazione costituita da fondi provenienti da Enti pubblici e privati italiani e stranieri oltre che dalle tasse, soprattasse e contributi generali dovuti dagli iscritti; con tale dotazione si provvede al funzionamento didattico e scientifico, al conferimento delle borse di studio agli iscritti, alla retribuzione degli insegnanti e del personale addetto.  
+Dopo l'art. 926, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia plastica afferente alla seconda facolta' di medicina e chirurgia.  
+Scuola di specializzazione in chirurgia plastica  
+Art. 927. - E' istituita presso l'Universita' di Napoli, seconda facolta' di medicina e chirurgia, la scuola di specializzazione in chirurgia plastica che conferisce il diploma di specialista in chirurgia plastica.  
+Art. 928. - La direzione della scuola ha sede presso la cattedra di chirurgia plastica ricostruttrice.  
+Art. 929. - La scuola ha lo scopo di provvedere alla formazione teorico-pratica di medici specialisti in chirurgia plastica.  
+Art. 930. - La durata del corso e' di cinque anni e non e' suscettibile di abbreviazioni.  
+Art. 931. - Il numero degli iscritti e' di tre per ogni anno e complessivamente di quindici per l'intero corso di studi.  
+Art. 932. - Alla scuola sono ammessi solo i laureati in medicina e chirurgia ed e' richiesto il diploma di abilitazione all'esercizio professionale, rilasciato dalle autorita' competenti.  
+Art. 933. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
+a) la tesi nella disciplina attinente alla specializzazione;  
+b) il voto di laurea;  
+c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
+d) le pubblicazioni nelle predette materie.  
+Il punteggio dei predetti titoli e' quello stabilito dal [decreto ministeriale del 16 settembre 1982, pubblicato nella Gazzetta Ufficiale n. 275 del 6 ottobre 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-10-06&numeroGazzetta=275). Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizioni utili nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
+Art. 934. - Le materie di insegnamento sono le seguenti, tutte afferenti alla seconda facolta' di medicina e chirurgia:  
+1° Anno:  
+chirurgia plastica;  
+anatomia ed embriologia;  
+patologia generale;  
+genetica;  
+anatomia e istologia patologica;  
+patologia e clinica chirurgica I;  
+chirurgia d'urgenza e pronto soccorso I;  
+biologia e clinica dei trapianti.  
+2° Anno:  
+chirurgia plastica;  
+anatomia chirurgica;  
+patologia e clinica chirurgica II;  
+chirurgia d'urgenza e pronto soccorso II;  
+anestesiologia e rianimazione;  
+biologia e clinica dei trapianti II;  
+fisiopatologia e clinica della malattia-ustione.  
+3° Anno:  
+chirurgia plastica;  
+malattia-ustione: terapia medica e chirurgica;  
+oncologia;  
+radiodiagnostica e radioterapia;  
+otorinolaringoiatria;  
+odontostomatologia ed ortopedia maxillo-facciale;  
+dermatologia;  
+patologia secondaria.  
+4° Anno:  
+chirurgia plastica;  
+malformazioni congenite;  
+chirurgia della mano I;  
+microchirurgia vascolare e nervosa;  
+chirurgia maxillo-facciale;  
+fisiochinesiterapia.  
+5° Anno:  
+chirurgia plastica;  
+chirurgia della mano II;  
+metodologia chirurgica differenziale;  
+criobiologia e crioterapia;  
+chirurgia estetica;  
+problemi psichiatrici e psicologici in chirurgia  
+plastica;  
+medicina legale.  
+Art. 935. - La frequenza ai corsi e' obbligatoria. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno del corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
+Art. 936. - Le attivita' pratiche previste consistono nell'attivita' ambulatoriale, di reparto, di sala operatoria. E' fatto obbligo agli allievi del primo biennio di presenziare ad un minimo di trenta sedute operatorie per anno; gli allievi del terzo, quarto e quinto anno dovranno partecipare quali primi assistenti ad un numero di cinquanta interventi per anno.  
+Inoltre e' fatto obbligo agli allievi di frequentare il reparto clinico, gli ambulatori per almeno undici mesi l'anno per tutti i cinque anni del corso, nonche' di frequentare almeno l'80% delle lezioni teoriche previste per ogni anno di corso.  
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere la prova di esame.  
+Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.  
+Art. 937. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio delle scuole di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.  
+A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.  
+Art. 938. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
+Art. 939. - Per la scuola di specializzazione in chirurgia plastica e' costituito un consiglio presieduto da un direttore e composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[articolo 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).  
+Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.  
+La direzione della scuola e' affidata a professore ordinario o straordinario che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 febbraio 1966
+### Dato a Selva di Valgardena, addi' 2 settembre 1983
 
-SARAGAT GUI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 15 marzo 1966
+Registrato alla Corte dei conti, addi' 25 ottobre 1983
 
-Atti del Governo, registro n. 202, foglio n. 44. - VILLA
+Registro n. 67 Istruzione, foglio n. 52

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 novembre 1982 n. 1052
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 agosto 1985 n. 565
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 novembre 1982 n. 1052
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 agosto 1985 n. 565
+=============================================================
 
 Autorizzazione al Consiglio nazionale delle ricerche, in Roma, ad acquistare un immobile.
 -----------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1052. Decreto del Presidente della Repubblica 27 novembre 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, il Consiglio nazionale delle ricerche (CNR), in Roma, viene autorizzato ad acquistare dalla Cassa di previdenza per i dirigenti della societa' Montecatini Edison, come da atto preliminare di compravendita 21 novembre 1979, n. 72736/32618 di repertorio, a rogito dott. Vincenzo Colapietro, notaio in Roma, al complessivo convenuto prezzo di L. 4.665.000.000, un complesso immobiliare sito in Milano, via Bassini n. 15 e via Corti numeri 8, 12, 14 e 20, consistente in un immobile di sette piani fuori terra, un seminterrato, un capannone, un fabbricato, un corpo interno, un corpo su via privata, una villetta in via Corti, un'autorimessa, una centrale elettrica, un cortile, un'area di mq. 805 e un'area coperta da costruzioni di mq. 3747, da destinare a sede di propri organi di ricerca.  
+565. Decreto del Presidente della Repubblica 8 agosto 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, il Consiglio nazionale delle ricerche, in Roma, viene autorizzato ad acquistare un immobile (mq 4.000 di terreno) sito in Camogli (Genova), di proprieta' dell'Istituto delle figlie di Maria Santissima dell'Orto (Gianelline), al prezzo convenuto di L. 22.000.000, al fine di realizzare la costruzione della sede dell'istituto di cibernetica e biofisica operante nella stessa citta'.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 24 gennaio 1983  
-Registro n. 1 Presidenza, foglio n. 164
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 11 ottobre 1985  
+Registro n. 9 Presidenza, foglio n. 70

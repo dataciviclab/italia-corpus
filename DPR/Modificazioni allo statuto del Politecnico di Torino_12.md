@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1960 n. 1909
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1967 n. 1010
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1960 n. 1909
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1967 n. 1010
+=================================================================
 
 Modificazioni allo statuto del Politecnico di Torino.
 -----------------------------------------------------
@@ -10,19 +10,17 @@ Modificazioni allo statuto del Politecnico di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto del Politecnico di Torino, approvato con [regio decreto 24 luglio 1942, n. 923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-07-24;923), modificato con [regio decreto 5 settembre 1942, n. 1391](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-09-05;1391) e successivi;
+Veduto lo statuto del Politecnico di Torino, approvato con [regio decreto 24 luglio 1942, n. 923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-07-24;923) e modificato con [regio decreto 5 settembre 1942, n. 1391](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-09-05;1391) e successiva modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche della Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche del politecnico anzidetto;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -34,418 +32,261 @@ Decreta:
 
 Lo statuto del Politecnico di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli da 1 a 9 sono abrogati e sostituiti dai seguenti:
+Art. 11. - All'elenco degli insegnamenti complementari del corso di laurea in architettura del triennio di applicazione sono aggiunti quelli di:
 
-TITOLO
-------
+Istituzioni di storia dell'arte;
 
-I ORDINAMENTO GENERALE DIDATTICO
+Strutture spaziali e relative sperimentazioni;
+
+Sociologia urbana ed economia dello spazio;
+
+Pianificazione territoriale urbanistica;
+
+Elementi tecnici dell'urbanistica.
+
+Art. 26. - Relativo agli esami di laurea e' modificato nel senso che il secondo comma e' abrogato e sostituito dal seguente:
+
+"Per gli studenti di architettura la tesi consiste nella elaborazione di un progetto architettonico ed urbanistico o di uno studio attinente alle materie indicate all'art. 29; il laureando, entro il mese di febbraio comunichera' al preside l'argomento della tesi e quelli di tre sottotesi vistati dai professori che assegnarono gli argomenti".
+
+Art. 27. - Il secondo comma e' abrogato e sostituito dal seguente: "Per gli studenti architetti la tesi e le sottotesi devono essere svolte con la guida dei professori che assegnarono gli argomenti".
+
+Art. 29. - E' abrogato e sostituito dal seguente:
+
+"Per gli studenti di architettura, l'argomento della tesi di laurea deve riguardare una delle seguenti materie:
+
+A - Composizione architettonica B - Urbanistica C - Caratteri distributivi degli edifici D - Caratteri stilistici e costruttivi dei monumenti E - Tecnologia dei materiali e tecnica delle costruzioni, o Scienza delle costruzioni.
+
+Gli studenti, unitamente alla tesi di laurea dovranno svolgere tre sottotesi su argomenti relativi ai seguenti gruppi di materie:
+
+I - Composizione architettonica - Estimo ed esercizio professionale 2 - Architettura degli interni, arredamento e decorazione - Caratteri distributivi degli edifici 3 - Caratteri stilistici e costruttivi dei monumenti - Restauro dei monumenti 4 - Urbanistica 5 - Tecnologia dei materiali e tecnica delle costruzioni - Scienza delle costruzioni 6 - Fisica tecnica - Impianti tecnici.
+
+Per coloro che scelgono le tesi B, C, D, E e' obbligatorio che una delle tre sottotesi sia del gruppo I e precisamente di composizione; per coloro che scelgono la tesi E e' obbligatorio che una delle tre sottotesi sia del gruppo 3; per coloro che scelgono la tesi A, B, C, D e' obbligatorio che una delle 3 sottotesi sia del gruppo 5.
+
+Le disposizioni contenute nell'art. 41 relative alla Scuola di perfezionamento in elettrotecnica "Galileo Ferraris" sono abrogate e sostituite dalle seguenti concernenti il ripristino del corso di perfezionamento in elettrotecnica "Galileo Ferraris".
+
+Corso di perfezionamento in elettrotecnica "Galileo Ferraris"
+
+Art. 41. - Il corso di perfezionamento in elettrotecnica "Galileo Ferraris" comprende i seguenti insegnamenti:
+
+Elettrotecnica generale e complementare; Misure elettriche;
+
+Impianti elettrici; Costruzioni elettromeccaniche; Comunicazioni elettriche;
+
+integrati da insegnamenti singoli su argomenti speciali.
+
+Il direttore del corso e' il titolare di elettrotecnica.
+
+In sua mancanza il direttore e' nominato dal Consiglio della facolta' di ingegneria.
+
+Il corso ha la durata di un anno accademico ed e' suddiviso in due sezioni: elettromeccanica e comunicazioni.
+
+Ad esso possono essere iscritti i laureati in ingegneria od in fisica.
+
+L'esame finale consiste in una prova scritta ed in una orale.
+
+A chi abbia compiuto il corso e superato tutti gli esami prescritti viene rilasciato un certificato degli esami superati.
+
+La Commissione esaminatrice e' composta di cinque professori di ruolo, di un libero docente e di un membro estraneo all'insegnamento, scelto fra gli ingegneri che ricoprano cariche direttive in uffici tecnici dello Stato o che abbiano raggiunta meritata fama nel libero esercizio della professione.
+
+Possono venire ammessi al corso anche gli ufficiali di artiglieria, genio e marina anche se sprovvisti del diploma di ingegnere".
+
+Art. 53. - Relativo alla scuola diretta a fini speciali in scienze ed arti grafiche e' modificato nel senso che il primo ed il secondo comma sono abrogati e sostituiti dai seguenti:
+
+"La durata del corso di studi e' di anni tre.
+
+Possono esservi ammessi i cittadini italiani in possesso del diploma di maturita' classica, scientifica o artistica o diploma di abilitazione tecnica o magistrale o di titoli ritenuti equipollenti dal Consiglio di facolta', nonche' gli stranieri in grado di dimostrare la conoscenza della lingua italiana aventi titoli riconosciuti equipollenti dal medesimo Consiglio di facolta'".
+
+Art. 56. - E' abrogato e sostituito dal seguente:
+
+"Le materie d'insegnamento sono:
+
+nel 10 anno di corso:
+
+Matematica Fisica Cultura generale nel campo della stampa Storia della scrittura Tipologia nel campo della stampa Disegno.
+
+nel 20 anno di corso:
+
+Merceologia nel campo della stampa Meccanica Tecniche della stampa Composizione della stampa Economia Studio degli stampati.
+
+nel 3° anno di corso:
+
+Aziendologia nel campo della stampa Diritto e legislazione nel campo della stampa Metodi della riproduzione grafica Prove sui materiali usati nella stampa Terminologia tecnica nel campo della stampa (1° quadrim.) Tecnica editoriale (20 quadrim.) Sono inoltre prescritte esercitazioni pratiche sia nella Scuola sia presso stabilimenti grafici".
+
+Art. 59. - E' abrogato e sostituito dal seguente:
+
+"Per essere ammessi al secondo corso, gli iscritti debbono aver ottenuto le attestazioni di frequenza in tutte le materie del primo corso e superato almeno quattro esami del I corso.
+
+Per essere ammessi al terzo corso, i provenienti dal 20 corso debbono aver ottenuto le attestazioni di frequenza in tutte le materie del 20 corso ed aver superato tutti gli esami del I corso ed almeno quattro del secondo".
+
+Art. 60. - Il primo comma e' abrogato e sostituito dal seguente:
+
+"Per essere ammessi a sostenere l'esame finale di diploma, consistente nella redazione di una monografia su argomento assegnato da docente della scuola scelto dal candidato e nella sua discussione, gli iscritti dovranno aver seguito tutti i tre corsi, superato gli esami su tutti gli insegnamenti di essi ed aver compiuto con esito favorevole le prescritte esercitazioni pratiche".
+
+Dopo l'art. 66 viene aggiunto il seguente nuovo articolo concernente la scuola di perfezionamento in elettrotecnica.
+
+Art. 67. - La scuola di perfezionamento in elettrotecnica ha la durata di due anni e comprende i seguenti insegnamenti impartiti presso il Politecnico di Torino per la laurea in ingegneria elettrotecnica:
+
+Complementi di matematica
+
+Elettrotecnica I
+
+Elettrotecnica II
+
+Misure elettriche
+
+Impianti elettrici I
+
+Macchine elettriche
+
+Controlli automatici
+
+Elettronica applicata
+
+Impianti elettrici II
+
+Misure sulle macchine e sugli impianti elettrici
+
+e due delle seguenti quattro materie, scelte tra quelle non ancora seguite dall'allievo nella precedente carriera scolastica:
+
+Costruzioni elettromeccaniche
+
+Applicazioni elettromeccaniche
+
+Impianti idroelettrici
+
+Impianti nucleo e termoelettrici.
+
+La distribuzione delle discipline suddette negli anni di corso e le relative precedenze sono stabilite annualmente nel piano degli studi.
+
+Inoltre saranno impartiti corsi di lezioni su argomenti speciali precisati ogni anno dal Consiglio di facolta' in base allo sviluppo della scienza elettrotecnica e indicati sull'apposito manifesto del corso.
+
+Gli insegnamenti saranno integrati da conferenze di carattere monografico, da esercitazioni e prove teoriche e sperimentali, da ricerche scientifiche e da visite e sopralluoghi.
+
+Alla scuola di perfezionamento in elettrotecnica possono essere iscritti i laureati in ingegneria ed in fisica e gli ufficiali delle forze armate che si trovino in possesso dei requisiti necessari per essere iscritti al terzo anno della facolta' di ingegneria.
+
+A domanda degli interessati, il direttore della scuola, su parere favorevole del Consiglio di facolta', puo' ammettere gli allievi direttamente al secondo anno, in base al loro curriculum di studi e ad eventuali esami di ammissione e puo' eventualmente esentarli da quegli esami prescritti nel programma che vengono riconosciuti equivalenti ad altri gia' da loro sostenuti.
+
+All'esame finale, consistente in una prova orale con discussione di un lavoro di carattere teorico e sperimentale svolto dal candidato, possono essere ammessi i laureati in ingegneria od in fisica".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 5 settembre 1967
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 7 novembre 1967 Atti del Governo, registro n. 214, foglio n. 118. - GRECO
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Il Politecnico di Torino e' costituito dalla Facolta' di architettura e dalla Facolta' di ingegneria, cui e' annessa una Scuola di ingegneria aeronautica diretta a fini speciali.   
-La Facolta' di architettura e' costituita su cinque anni comprendenti un biennio di studi propedeutici per gli allievi ed un triennio di applicazione per il conseguimento della laurea in Architettura.   
-La Facolta' di ingegneria e' costituita su cinque anni, dei quali i primi due con funzioni preminentemente propedeutica e comprende i seguenti corsi di laurea in Ingegneria:   
-1) Ingegneria civile (sezioni: edile, idraulica, trasporti);   
-2) Ingegneria meccanica;   
-3) Ingegneria elettrotecnica;   
-4) Ingegneria chimica;   
-5) Ingegneria aeronautica;   
-6) Ingegneria mineraria;   
-7) Ingegneria elettronica;   
-8) Ingegneria nucleare.   
-La Scuola di ingegneria aeronautica ha il fine speciale di fornire la preparazione scientifica necessaria per contribuire allo studio delle scienze aeronautiche e missilistiche e dare impulso alle ricerche in tali campi.   
+Veduto lo statuto del Politecnico di Torino, approvato con [regio decreto 24 luglio 1942, n. 923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-07-24;923) e modificato con [regio decreto 5 settembre 1942, n. 1391](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-09-05;1391) e successiva modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche del politecnico anzidetto;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-TITOLO II   
-FACOLTA' DI INGEGNERIA   
+Decreta:  
   
-Art. 2. - Per il conseguimento della laurea in Ingegneria civile sono obbligatori gli insegnamenti seguenti:   
-a) nel 1° anno del biennio propedeutico:   
-1) Analisi matematica I;   
-2) Geometria I;   
-3) Fisica I;   
-4) Chimica;   
-5) Disegno;   
-b) nei 2° anno del biennio propedeutico:   
-6) Analisi matematica II;   
-7) Geometria II;   
-8) Meccanica razionale;   
-9) Fisica II;   
-10) Disegno edile;   
-c) nel triennio:   
-11) scienza delle costruzioni;   
-12) Meccanica applicata alle macchine e macchine;   
-13) Fisica tecnica;   
-14) Elettrotecnica;   
-15) Idraulica;   
-16) Tecnologie del materiali e chimica applicata;   
-17) Tecnica delle costruzioni I;   
-18) Architettura tecnica I;   
-19) Topografia;   
-20) Litologia e geologia applicata;   
-21) Complementi di scienza delle costruzioni;   
-22) Architettura tecnica II;   
-23) Tecnica delle costruzioni II;   
-24) Costruzioni idrauliche;   
-25) Costruzioni di strade, ferrovie e aeroporti   
-e inoltre,   
-per la sezione edile:   
-26) Architettura e composizione architettonica;   
-per la sezione idraulica:   
-26) Costruzioni idrauliche;   
-per la sezione trasporti:   
-26) Costruzioni di strade, ferrovie e aeroporti.   
-A scelta dello studente uno dei seguenti gruppi:   
-Gruppo I:   
-27) Estimo ed esercizio della professione;   
-28) Urbanistica;   
-Gruppo II:   
-27) Economia e tecnica aziendale;   
-28) Impianti speciali tecnici.   
-La distribuzione delle discipline suddette negli anni in corso e le relative precedenze sono stabilite annualmente nel piano degli studi.   
+Lo statuto del Politecnico di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 11. - All'elenco degli insegnamenti complementari del corso di laurea in architettura del triennio di applicazione sono aggiunti quelli di:  
   
-Art. 3. - Per il conseguimento della laurea in Ingeneria meccanica sono obbligatori gli isegnamenti seguenti:   
-a) nel 1° anno del biennio propedeutico:   
-1) Analisi matematica I;   
-2) Geometria I;   
-3) Fisica I;   
-4) Chimica;   
-5) Disegno;   
-b) nel 2° anno del biennio propedeutico:   
-6) Analisi matematica II;   
-7) Geometria II;   
-8) Meccanica razionale;   
-9) Fisica II;   
-10) Disegno meccanico;   
-c) nel triennio:   
-11) Scienza delle costruzioni;   
-12) Meccanica applicata alle macchine:   
-13) Fisica tecnica;   
-14) Elettrotecnica;   
-15) Idraulica;   
-16) Chimica applicata;   
-17) Macchine I;   
-18) Costruzione di macchine;   
-19) Impianti meccanici;   
-20) Tecnologia meccanica;   
-21) Applicazione industriale dell'elettrotecnica: ;   
-22) Tecnica delle costruzioni;   
-23) Tecnologie dei materiali;   
-24) Macchine II;   
-25) Calcolo e progetto di macchine;   
-26) Economia, e tecnica aziendale;   
-e a scelta uno dei seguenti gruppi di materie;   
-A) (indirizzo termotecnico)   
-27) Impianti speciali termici;   
-28) Misure termiche e regolazione;   
-B) (indirizzo d'officina):   
-27) Attrezzature di produzione;   
-28) Comandi e regolazioni;   
-C) (indirizzo automobilistico)   
-27) Costruzioni automobilistiche;   
-28) Tecnica ed economia dei trasporti;   
-D) (indirizzo metrologico):   
-27) Metrologia generale e misure meccaniche;   
-28) Misure termiche e regolazioni.   
-La distribuzione delle discipline suddette negli anni di corso e le relative precedenze sono stabilite annualmente nel piano degli studi.   
+Istituzioni di storia dell'arte;  
+Strutture spaziali e relative sperimentazioni;  
+Sociologia urbana ed economia dello spazio;  
+Pianificazione territoriale urbanistica;  
+Elementi tecnici dell'urbanistica.  
+Art. 26. - Relativo agli esami di laurea e' modificato nel senso che il secondo comma e' abrogato e sostituito dal seguente:  
+"Per gli studenti di architettura la tesi consiste nella elaborazione di un progetto architettonico ed urbanistico o di uno studio attinente alle materie indicate all'art. 29; il laureando, entro il mese di febbraio comunichera' al preside l'argomento della tesi e quelli di tre sottotesi vistati dai professori che assegnarono gli argomenti".  
+Art. 27. - Il secondo comma e' abrogato e sostituito dal seguente: "Per gli studenti architetti la tesi e le sottotesi devono essere svolte con la guida dei professori che assegnarono gli argomenti".  
+Art. 29. - E' abrogato e sostituito dal seguente:  
+"Per gli studenti di architettura, l'argomento della tesi di laurea deve riguardare una delle seguenti materie:  
   
-Art. 4. - Per il conseguimento della laurea in Ingegneria elettrotecnica sono obbligatori gli insegnamenti seguenti:   
-a) nel 1° anno del biennio propedeutico:   
-1) Analisi matematica I;   
-2) Geometria I;   
-3) Fisica I;   
-4) Chimica;   
-5) Disegno;   
-b) Nel 2° anno del biennio propedeutico:   
-6) Analisi matematica II;   
-7) Geometria II;   
-8) Meccanica razionale;   
-9) Fisica II;   
-10) Disegno meccanico   
-c) nel triennio:   
-11) Scienza delle costruzioni;   
-12) Meccanica applicata alle macchine;   
-13) Fisica tecnica;   
-14) Elettrotecnica I;   
-15) Idraulica;   
-16) Misure elettriche;   
-17) Macchine;   
-18) Macchine elettriche;   
-19) Impianti elettrici I;   
-20) Elettronica applicata;   
-21) Materiali per l'elettrotecnica;   
-22) Complementi di matematica;   
-23) Elettrotecnica II;   
-24) Costruzione di macchine e tecnologie;   
-25) Comunicazioni elettriche;   
-26) Costruzioni idrauliche;   
-27) Impianti elettrici II;   
-A scelta dello studente uno dei seguenti gruppi:   
-Gruppo I:   
-28) Economia e tecnica aziendale;   
-29) Applicazioni elettromeccaniche;   
-Gruppo II:   
-28) Economia e tecnica aziendale;   
-29) Controlli automatici;   
-Gruppo III:   
-28) Controlli automatici;   
-29) Calcolatrici e logica dei circuiti.   
-La distribuzione delle discipline suddette negli anni di corso e le relative precedenze sono stabilite annualmente nel piano degli studi.   
+A - Composizione architettonica B - Urbanistica C - Caratteri distributivi degli edifici D - Caratteri stilistici e costruttivi dei monumenti E - Tecnologia dei materiali e tecnica delle costruzioni, o Scienza delle costruzioni.  
+Gli studenti, unitamente alla tesi di laurea dovranno svolgere tre sottotesi su argomenti relativi ai seguenti gruppi di materie:  
+I - Composizione architettonica - Estimo ed esercizio professionale 2 - Architettura degli interni, arredamento e decorazione - Caratteri distributivi degli edifici 3 - Caratteri stilistici e costruttivi dei monumenti - Restauro dei monumenti 4 - Urbanistica 5 - Tecnologia dei materiali e tecnica delle costruzioni - Scienza delle costruzioni 6 - Fisica tecnica - Impianti tecnici.  
+Per coloro che scelgono le tesi B, C, D, E e' obbligatorio che una delle tre sottotesi sia del gruppo I e precisamente di composizione; per coloro che scelgono la tesi E e' obbligatorio che una delle tre sottotesi sia del gruppo 3; per coloro che scelgono la tesi A, B, C, D e' obbligatorio che una delle 3 sottotesi sia del gruppo 5.  
+Le disposizioni contenute nell'art. 41 relative alla Scuola di perfezionamento in elettrotecnica "Galileo Ferraris" sono abrogate e sostituite dalle seguenti concernenti il ripristino del corso di perfezionamento in elettrotecnica "Galileo Ferraris".  
+Corso di perfezionamento in elettrotecnica "Galileo Ferraris"  
+Art. 41. - Il corso di perfezionamento in elettrotecnica "Galileo Ferraris" comprende i seguenti insegnamenti:  
   
-Art. 5. - Per il conseguimento della laurea in Ingegneria chimica sono obbligatori gli insegnamenti seguenti:   
-a) nel 1° anno del biennio propedeutico:   
-1) Analisi matematica I;   
-2) Geometria I;   
-3) Fisica I;   
-4) Chimica;   
-5) Disegno;   
-b) nel 2° anno del biennio propedeutico:   
-6) Analisi matematica II;   
-7) Geometria II;   
-8) Meccanica razionale;   
-9) Fisica II;   
-10) Chimica organica;   
-c) nel triennio:   
-11) Scienza delle costruzioni;   
-12) Meccanica applicata alle macchine;   
-13) Fisica tecnica;   
-14) Elettrotecnica;   
-15) Chimica fisica;   
-16) Chimica applicata;   
-17) Macchine;   
-18) Principi di ingegneria chimica;   
-19) Chimica industriale I;   
-20) Impianti chimici;   
-21) Chimica analitica;   
-22) Idraulica;   
-23) Costruzioni di macchine e tecnologie;   
-24) Chimica industriale II;   
-25) Elettrochimica;   
-26) Metallurgia e metallografia.   
-A scelta dello studente uno dei seguenti gruppi:   
-Gruppo I:   
-27) Economia e tecnica aziendale;   
-28) Misure chimiche e regolazioni;   
-Gruppo II:   
-27) Economia e tecnica aziendale;   
-28) Teoria e sviluppo dei processi chimici;   
-Gruppo III:   
-27) Tecnologie chimiche speciali;   
-28) Misure termiche e regolazioni.   
-La distribuzione delle discipline suddette negli anni di corso e le relative precedenze sono stabilite annualmente nel piano degli studi.   
+Elettrotecnica generale e complementare; Misure elettriche;  
+Impianti elettrici; Costruzioni elettromeccaniche; Comunicazioni elettriche;  
+integrati da insegnamenti singoli su argomenti speciali.  
+Il direttore del corso e' il titolare di elettrotecnica.  
+In sua mancanza il direttore e' nominato dal Consiglio della facolta' di ingegneria.  
+Il corso ha la durata di un anno accademico ed e' suddiviso in due sezioni: elettromeccanica e comunicazioni.  
+Ad esso possono essere iscritti i laureati in ingegneria od in fisica.  
+L'esame finale consiste in una prova scritta ed in una orale.  
+A chi abbia compiuto il corso e superato tutti gli esami prescritti viene rilasciato un certificato degli esami superati.  
+La Commissione esaminatrice e' composta di cinque professori di ruolo, di un libero docente e di un membro estraneo all'insegnamento, scelto fra gli ingegneri che ricoprano cariche direttive in uffici tecnici dello Stato o che abbiano raggiunta meritata fama nel libero esercizio della professione.  
+Possono venire ammessi al corso anche gli ufficiali di artiglieria, genio e marina anche se sprovvisti del diploma di ingegnere".  
+Art. 53. - Relativo alla scuola diretta a fini speciali in scienze ed arti grafiche e' modificato nel senso che il primo ed il secondo comma sono abrogati e sostituiti dai seguenti:  
+"La durata del corso di studi e' di anni tre.  
+Possono esservi ammessi i cittadini italiani in possesso del diploma di maturita' classica, scientifica o artistica o diploma di abilitazione tecnica o magistrale o di titoli ritenuti equipollenti dal Consiglio di facolta', nonche' gli stranieri in grado di dimostrare la conoscenza della lingua italiana aventi titoli riconosciuti equipollenti dal medesimo Consiglio di facolta'".  
+Art. 56. - E' abrogato e sostituito dal seguente:  
+"Le materie d'insegnamento sono:  
+nel 10 anno di corso:  
   
-Art. 6. - Per il conseguimento della laurea in Ingegneria aeronautica sono obbligatori gli insegnamenti seguenti:   
-a) nel 1° anno del biennio propedeutico:   
-1) Analisi matematica I;   
-2) Geometria I;   
-3) Fisica I;   
-4) Chimica;   
-5) Disegno;   
-b) nel 2° anno del biennio propedeutico:   
-6) Analisi matematica II;   
-7) Geometria II;   
-8) Meccanica razionale;   
-9) Fisica II;   
-10) Disegno meccanico;   
-c) nel triennio:   
-11) Scienza delle costruzioni;   
-12) Meccanica applicata alle macchine;   
-13) Fisica tecnica;   
-14) Elettrotecnica;   
-15) Aerodinamica;   
-16) Chimica applicata;   
-17) Motori per aeromobili;   
-18) Costruzioni aeronautiche;   
-19) Aeronautica generale;   
-20) Gasdinamica;   
-21) Tecnologia meccanica;   
-22) Macchine;   
-23) Costruzione di macchine;   
-24) Idraulica;   
-25) Progetto di aeromobili;   
-26) Costruzione di motori per aeromobili.   
-A scelta dello studente uno dei seguenti gruppi:   
-Gruppo I:   
-27) Tecnologia aeronautica;   
-28) Sistemi di guida e navigazione;   
-Gruppo II:   
-27) Tecnologia dei materiali;   
-28) Economia e tecnica aziendale;   
-Gruppo III:   
-27) Meccanica del volo;   
-28) Strumenti di bordo.   
-La distribuzione delle discipline suddette negli anni di corso e le relative precedenze sono stabilite annualmente nel piano degli studi.   
+Matematica Fisica Cultura generale nel campo della stampa Storia della scrittura Tipologia nel campo della stampa Disegno.  
+nel 20 anno di corso:  
   
-Art. 7. - Per il conseguimento della laurea in Ingegneria mineraria sono obbligatori gli insegnamenti seguenti:   
-a) nel 1° anno del biennio propedeutico:   
-1) Analisi matematica I;   
-2) Geometria I;   
-3) Fisica I;   
-4) Chimica;   
-5) Disegno;   
-b) nel 2° anno del biennio propedeutico:   
-6) Analisi matematica II;   
-7) Geometria II:   
-8) Meccanica, razionale;   
-9) Fisica II:   
-10) Disegno meccanico;   
-c) nel triennio:   
-11) Scienza delle costruzioni;   
-12) Meccanica applicata alle macchine;   
-13) Fisica tecnica;   
-14) Elettrotecnica;   
-15) Chimica, applicata;   
-16) Macchine;   
-17) Arte mineraria;   
-18) Topografia;   
-19) Geologia;   
-20) Giacimenti minerari;   
-21) Mineralogia e litologia;   
-22) Idraulica;   
-23) Tecnica della perforazione e sondaggi;   
-24) Costruzione di macchine e tecnologie;   
-25) Impianti minerari;   
-26) Geofisica mineraria;   
-27) Preparazione dei minerali;   
-e a scelta uno dei seguenti gruppi di materie:   
-A) (indirizzo esercizio miniere):   
-28) Tecnologie metallurgiche;   
-29) Tecnica delle costruzioni;   
-B) (indirizzo idrocarburi):   
-28) Tecnica dei giacimenti di idrocarburi;   
-29) Produzione degli idrocarburi;   
-C) (indirizzo prospezione):   
-28) Analisi dei minerali;   
-29) Prospezione geomineraria.   
-La distribuzione delle discipline suddette negli anni di corso e le relative precedenze sono stabilite annualmente nel piano degli studi.   
+Merceologia nel campo della stampa Meccanica Tecniche della stampa Composizione della stampa Economia Studio degli stampati.  
+nel 3° anno di corso:  
   
-Art. 8. - Per il conseguimento della laurea in Ingegneria elettronica sono obbligatori gli insegnamenti seguenti:   
-a) nel 1° anno del biennio propedeutico:   
-1) Analisi matematica I;   
-2) Geometria I;   
-3) Fisica I;   
-4) Chimica;   
-5) Disegno;   
-b) nel 2° anno del biennio propedeutico:   
-6) Analisi matematica II;   
-7) Geometria II;   
-8) Meccanica razionale;   
-9) Fisica II;   
-10) Disegno meccanico;   
-c) nel triennio:   
-11) Scienza delle costruzioni;   
-12) Meccanica delle macchine e macchine;   
-13) Fisica tecnica;   
-14) Elettrotecnica I;   
-15) Campi elettromagnetici e circuiti;   
-16) Misure elettriche;   
-17) Comunicazioni elettriche;   
-18) Elettronica applicata;   
-19) Controlli automatici;   
-20) Radiotecnica;   
-21) Materiali per l'elettrotecnica;   
-22) Complementi di matematica;   
-23) Elettrotecnica II;   
-24) Tecnologia meccanica;   
-25) Impianti elettrici:   
-26) Misure elettroniche;   
-27) Tecnica delle iperfrequenze.   
-A scelta dello studente uno dei seguenti gruppi:   
-Gruppo I:   
-28) Economia e tecnica aziendale;   
-29) Impianti radioelettronici;   
-Gruppo II:   
-28) Economia e tecnica aziendale;   
-29) Telefonia.   
-Gruppo III:   
-28) Telefonia;   
-29) Calcolatrici e logica dei circuiti.   
-La distribuzione delle discipline negli anni di corse e le relative precedenze sono stabilite annualmente nel piano degli studi.   
+Aziendologia nel campo della stampa Diritto e legislazione nel campo della stampa Metodi della riproduzione grafica Prove sui materiali usati nella stampa Terminologia tecnica nel campo della stampa (1° quadrim.) Tecnica editoriale (20 quadrim.) Sono inoltre prescritte esercitazioni pratiche sia nella Scuola sia presso stabilimenti grafici".  
+Art. 59. - E' abrogato e sostituito dal seguente:  
+"Per essere ammessi al secondo corso, gli iscritti debbono aver ottenuto le attestazioni di frequenza in tutte le materie del primo corso e superato almeno quattro esami del I corso.  
+Per essere ammessi al terzo corso, i provenienti dal 20 corso debbono aver ottenuto le attestazioni di frequenza in tutte le materie del 20 corso ed aver superato tutti gli esami del I corso ed almeno quattro del secondo".  
+Art. 60. - Il primo comma e' abrogato e sostituito dal seguente:  
+"Per essere ammessi a sostenere l'esame finale di diploma, consistente nella redazione di una monografia su argomento assegnato da docente della scuola scelto dal candidato e nella sua discussione, gli iscritti dovranno aver seguito tutti i tre corsi, superato gli esami su tutti gli insegnamenti di essi ed aver compiuto con esito favorevole le prescritte esercitazioni pratiche".  
+Dopo l'art. 66 viene aggiunto il seguente nuovo articolo concernente la scuola di perfezionamento in elettrotecnica.  
+Art. 67. - La scuola di perfezionamento in elettrotecnica ha la durata di due anni e comprende i seguenti insegnamenti impartiti presso il Politecnico di Torino per la laurea in ingegneria elettrotecnica:  
+Complementi di matematica  
+Elettrotecnica I  
+Elettrotecnica II  
+Misure elettriche  
+Impianti elettrici I  
+Macchine elettriche  
+Controlli automatici  
+Elettronica applicata  
+Impianti elettrici II  
+Misure sulle macchine e sugli impianti elettrici  
+e due delle seguenti quattro materie, scelte tra quelle non ancora seguite dall'allievo nella precedente carriera scolastica:  
   
-Art. 9. - Per il conseguimento della laurea in Ingegneria nucleare sono obbligatori gli insegnamenti seguenti:   
-a) nel 1° anno del biennio propedeutico:   
-1) Analisi matematica I;   
-2) Geometria I;   
-3) Fisica I;   
-4) Chimica;   
-5) Disegno;   
-b) nel 2° anno del biennio propedeutico:   
-6) Analisi matematica II;   
-7) Geometria II;   
-8) Meccanica razionale;   
-9) Fisica II;   
-10) Disegno meccanico;   
-c) nel triennio:   
-11) Scienza delle costruzioni;   
-12) Meccanica delle macchine;   
-13) Fisica tecnica;   
-14) Elettrotecnica;   
-15) Fisica atomica;   
-16) Macchine I;   
-17) Fisica nucleare;   
-18) Elettronica nucleare;   
-19) Fisica del reattore nucleare;   
-20) Impianti nucleari;   
-21) Chimica applicata;   
-22) Tecnologia meccanica;   
-23) Chimica degli impianti nucleari;   
-24) Costruzione di macchine;   
-25) Idraulica;   
-26) Macchine II;   
-27) Calcolo e progetto di macchine.   
-A scelta dello studente uno dei seguenti gruppi:   
-Gruppo I:   
-28) Tecnica delle costruzioni;   
-29) Economia e tecnica aziendale;   
-Gruppo II:   
-28) Impianti chimici;   
-29) Misure termiche e regolazioni.   
-La distribuzione delle discipline suddette negli anni di corso e le relative precedenze sono stabilite annualmente nel piano degli studi.   
-  
-L'art. 14 e' abrogato e sostituito dal seguente:   
-Titolo di ammissione ai corsi di laurea in Ingegneria e' il diploma di maturita' classica o scientifica.   
-Per essere ammesso al 2° anno del biennio propedeutico, lo studente dovra' aver superato almeno due degli esami numeri 1), 2), 3) e 4).   
-Per essere ammesso al triennio d'applicazione di Ingegneria, lo studente dovra' aver superato gli esami di tutte le discipline del biennio propedeutico, fatta eccezione dell'insegnamento obbligatorio n. 10) per ciascun corso di laurea.   
-  
-L'art. 18 e' abrogato e sostituito dal seguente:   
-Gli studenti della Facolta' d'Ingegneria devono indicare nella domanda di ammissione al 1° anno di corso di laurea a cui desiderano essere iscritti. Il successivo passaggio da uno ad un altro corso di laurea e' subordinato al parere favorevole del Consiglio di facolta', che fissera' l'ulteriore piano degli studi dell'allievo.   
-La scelta della sezione (per i civili) o degli indirizzi (ove ne sia prevista l'attuazione nel piano degli studi) avviene all'atto dell'iscrizione al 5° anno.   
-  
-L'art. 19 e' abrogato e sostituito dal seguente:   
-Coloro che hanno gia' conseguito una laurea in ingegneria e chiedono di essere iscritti ad altro corso di laurea possono essere ammessi al 4° o al 5° anno del nuovo corso di laurea, in base al parere del Consiglio di facolta', che provvedera' a fissare il piano degli studi del richiedente.   
-  
-L'art. 21 e' abrogato e sostituito dal seguente:   
-La concessione dell'attestazione di frequenza per gli allievi ingegneri spetta al professore ufficiale della materia sulla base degli accertamenti compiuti. Gli studenti di ingegneria per i quali manchi tale attestazione non sono ammessi al corrispondente esame e devono ripetere l'iscrizione per detta materia.   
-Per gli allievi architetti, alla fine di ciascuno dei due quadrimestri, ciascun professore trasmette alla Presidenza un giudizio sulla frequenza ed un giudizio sul profitto di ogni singolo allievo, accertati durante il quadrimestre stesso per mezzo di interrogatori e di prove scritte, grafiche e sperimentali, a seconda del carattere della materia di insegnamento. Qualora i giudizi di frequenza di ambedue i quadrimestri siano negativi, la iscrizione alla relativa materia e' resa nulla; la concessione di giudizi di frequenza favorevoli in ambedue i quadrimestri attesta la validita' del corso relativamente alla corrispondente materia; allo studente che manchi di uno dei giudizi di frequenza favorevoli puo' essere dal Consiglio di facolta' negato l'accesso alla sessione estiva del corrispondente anno accademico o anche invalidata la frequenza nella materia relativa con la conseguenza della necessita' di una nuova iscrizione.   
-  
-L'art. 22 e' abrogato e sostituito dal seguente:   
-Gli studenti di Ingegneria, oltre che agli insegnamenti dei rispettivi corsi di laurea, possono iscriversi a titolo libero a nomi piu' di due materie di altri corsi.   
-Possono inoltre iscriversi ad insegnamenti di lingue o a corsi di carattere culturale eventualmente predisposti dalla Facolta'.   
-  
-L'art. 25 e' abrogato e sostituito dal seguente:   
-Per essere ammesso all'esame di laurea in Ingegneria lo studente deve aver superato gli esami di tutti gli insegnamenti stabiliti nel presente statuto per il corso di laurea cui e' iscritto.   
-Per essere ammesso all'esame di laurea in Architettura lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali del triennio di applicazione ed in due almeno da lui scelti fra i complementari.   
-  
-L'art. 26 e' abrogato e sostituito dal seguente:   
-Per gli studenti di ingegneria, l'argomento della tesi di laurea, vistato dal professore relatore, deve essere trasmesso dal laureando al preside della Facolta' almeno quattro mesi prima dell'esame di laurea.   
-Per gli studenti di Architettura l'argomento della tesi di laurea deve essere approvato dal professore di Composizione architettonica; il laurendo entro il mese di febbraio comunichera' al preside tale argomento vistato dal professore di Composizione architettonica e da almeno altri tre professori particolarmente interessati nel progetto.   
-  
-L'art 27 e' abrogato e sostituito dal seguente:   
-Per gli allievi ingegneri la tesi deve essere svolta dall'allievo con la guida del professore che l'ha assegnata, eventualmente coadiuvato da altri professori che possono suggerire ai candidato particolari ricerche attinenti alla tesi stessa. La tesi consiste nell'elaborazione di un progetto o di uno studio di carattere tecnico.   
-Per gli allievi architetti la tesi deve essere svolta dall'allievo con la guida del professore di Composizione architettonica e di almeno tre altri professori particolarmente interessati alla tesi. La tesi consiste nella redazione di un progetto architettonico completo, sia sotto il punto di vista artistico sia sotto quello tecnico.   
+Costruzioni elettromeccaniche  
+Applicazioni elettromeccaniche  
+Impianti idroelettrici  
+Impianti nucleo e termoelettrici.  
+La distribuzione delle discipline suddette negli anni di corso e le relative precedenze sono stabilite annualmente nel piano degli studi.  
+Inoltre saranno impartiti corsi di lezioni su argomenti speciali precisati ogni anno dal Consiglio di facolta' in base allo sviluppo della scienza elettrotecnica e indicati sull'apposito manifesto del corso.  
+Gli insegnamenti saranno integrati da conferenze di carattere monografico, da esercitazioni e prove teoriche e sperimentali, da ricerche scientifiche e da visite e sopralluoghi.  
+Alla scuola di perfezionamento in elettrotecnica possono essere iscritti i laureati in ingegneria ed in fisica e gli ufficiali delle forze armate che si trovino in possesso dei requisiti necessari per essere iscritti al terzo anno della facolta' di ingegneria.  
+A domanda degli interessati, il direttore della scuola, su parere favorevole del Consiglio di facolta', puo' ammettere gli allievi direttamente al secondo anno, in base al loro curriculum di studi e ad eventuali esami di ammissione e puo' eventualmente esentarli da quegli esami prescritti nel programma che vengono riconosciuti equivalenti ad altri gia' da loro sostenuti.  
+All'esame finale, consistente in una prova orale con discussione di un lavoro di carattere teorico e sperimentale svolto dal candidato, possono essere ammessi i laureati in ingegneria od in fisica".  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella, Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1960
+### Dato a Roma, addi' 5 settembre 1967
 
-GRONCHI BOSCO
+SARAGAT GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 31 maggio 1961
+Registrato alla Corte dei conti, addi' 7 novembre 1967
 
-Atti del Governo, registro n. 196, foglio n. 187. - VILLA
+Atti del Governo, registro n. 214, foglio n. 118. - GRECO

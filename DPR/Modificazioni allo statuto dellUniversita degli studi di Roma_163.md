@@ -1,593 +1,106 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 agosto 1959 n. 798
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1972 n. 966
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 agosto 1959 n. 798
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1972 n. 966
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successivi;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla, proposta del Ministro per la pubblica istruzione;
-
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 36. - All'elenco degli Istituti costituiti presso la Facolta' di economia e commercio sono, aggiunti quelli di: "Istituto di tecnica amministrativa delle imprese di pubblici servizi", "Istituto di diritto pubblico", "Istituto di diritto privato".
-
-E' soppresso l'"Istituto di discipline giuridiche".
-
-Art. 38. - Agli insegnamenti complementari del corso di laurea in economia e commercio e' aggiunto quello di "diritto fallimentare".
-
-Art. 56. -- L'insegnamento della lingua e letteratura straniera moderna, alla quale lo studente intende principalmente dedicarsi, deve essere seguito per tutti i quattro anni, alla fine di ciascuno dei quali egli sara' sottoposto a un esame consistente in una, prova scritta e in una susseguente prova orale di anno in anno gradualmente progressive.
-
-Art. 61, relativo agli Istituti della Facolta' di lettere e filosofia, e' cosi' integrato: "E' inoltre aggregato alla Facolta' l'istituto del teatro".
-
-Art. 79. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di "neurochirurgia"; "neuropsichiatria infantile".
-
-Art. 114. - All'elenco degli Istituti costituiti presso la Facolta' di ingegneria sono aggiunti i seguenti: "Istituto di meccanica applicata alle macchine" e "Istituto di elettronica".
-
-Inoltre la cattedra di "costruzioni marittime" passa dall'Istituto di "idraulica" a quello di "costruzioni idrauliche".
-
-Art. 116. - Agli insegnamenti complementari del corso di laurea in ingegneria industriale sono aggiunti: l'insegnamento di "servomeccanismi" in sostituzione di quello di "costruzioni in legno, ferro e cemento armato" per gli allievi della sottosezione elettrotecnica;
-
-l'insegnamento di "elettronica applicata" in sostituzione di quello di: "elettronica";
-
-l'insegnamento biennale di "impianti industriali chimici", per la sottosezione chimica;
-
-l'insegnamento di "elettrotecnica" diventa biennale per la sottosezione elettrotecnica.
-
-Gli insegnamenti di "macchine", di "tecnologie speciali meccaniche" diventano biennali, ma con unico esame, per la sottosezione meccanica.
-
-Art. 121, relativo alle propedeuticita' degli esami di diversi insegnamenti e' cosi' integrato:
-
-Non si puo essere ammessi Se non si e superato l'esame all'esame di: di:
-
-Architettura e composizione Architettura e composizione
-
-architettonica II architettonica I. Architettura
-
-tecnica; Costruzioni in legno,
-
-ferro e cemento armato;
-
-Scienza delle costruzioni,
-
-Tecnica urbanistica.
-
-Comunicazioni elettriche Elettrotecnica I, ElettrotecnicaII Elettronica, Fisica tecnica.
-
-Elettrotecnica I: Fisica tecnica.
-
-Elettrotecnica II: Elettrotecnica I, Fisica tecnica.
-
-Impianti industriali Elettrotecnica I; Elettrotecnica II elettrici:
-
-Fisica tecnica Idraulica,Macchine
-
-Meccanica applicata alle macchine Scienza delle costruzioni,
-
-Tecnologie generali.
-
-Misure elettriche:
-
-Elettrotecnica I, Elettrotecnica II
-
-Elettronica, Fisica tecnica.
-
-Elettronica:
-
-Elettrotecnica I, Elettrotecnica II
-
-Fisica tecnica.
-
-Servomeccanismi:
-
-Elettrotecnica I, Elettrotecnica II
-
-Elettronica, Fisica tecnica.
-
-Meccanica applicata alle macchine Tecnica urbanistica: Architettura tecnica:
-
-Architettura
-
-e composizione architettonica I:
-
-Scienza delle costruzioni.
-
-Radiotecnica: Elettrotecnica I:
-
-Elettrotecnica II
-
-Elettronica; Fisica tecnica.
-
-Art. 138, relativo alla Scuola di ingegneria aeronautica e' abrogato e sostituito dal seguente: "Al termine degli studi la Scuola di ingegneria aeronautica conferisce la laurea in ingegneria aeronautica, con distinzione della specializzazione e dell'indirizzo prescelti dell'allievo".
-
-Art. 329. - L'insegnamento di tecniche nucleari (biennale) della Scuola di perfezionamento in fisica nucleare, e' scisso in due insegnamenti annuali cosi' denominati: tecniche nucleari I e tecniche nucleari II.
-
-Dopo l'art. 476, sono aggiunti i seguenti nuovi articoli, relativi all'istituzione della scuola di specializzazione in psicologia medica, della Scuola di perfezionamento in neuropsichiatria infantile e del corso di perfezionamento in reumatologia, con il conseguente spostamento della numerazione degli articoli successivi.
-
-Scuola di specializzazione in psicologia medica
-
-Art. 477. - E' istituita la Scuola, di specializzazione in psicologia medica con sede presso l'istituto di psicologia della Facolta' di medicina e chirurgia dell'Universita' di Roma.
-
-Finalita' della Scuola sono:
-
-1) contribuire all'approfondimento degli studi di psicologia in genere e in particolare a preparare il medico, sul piano informativo, ad affrontare i problemi della ricerca e dell'attivita' professionale in quei settori della psicologia nei quali egli puo' dare proficuamente la sua opera proprio in quanto medico e psicologo ad un tempo;
-
-2) contribuire alla qualifica e alla difesa del titolo professionale di psicologo.
-
-La durata del corso della Scuola e' di tre anni.
-
-L'ammissione alla Scuola e' limitata ai laureati in medicina e chirurgia.
-
-Agli allievi che avranno seguito con assiduita' e profitto i corsi della Scuola e avranno superato l'esame di diploma, verra' rilasciato un diploma di specialista in psicologia medica, valido a tutti gli effetti di legge.
-
-All'esame di diploma verranno ammessi i candidati che abbiano superato tutti gli esami di profitto.
-
-L'esame di diploma constera' della presentazione e discussione di una dissertazione scritta e eventualmente, di una o piu' prove pratiche stabilite dal Consiglio della scuola.
-
-Art. 478. - Il manifesto annuale previsto dall'articolo 452 stabilira', anno per anno il limite massimo di iscrizione, che non potra' in nessun caso superare il numero di venticinque. Nello stesso manifesto, verra' indicato, anno per anno il numero minimo di iscrizioni.
-
-Nel caso di domande eccedenti il numero massimo indicato nel manifesto annuale, il Consiglio della scuola procedera' all'accettazione delle domande attraverso un concorso di merito, le cui modalita' verranno fissate nello stesso manifesto annuale.
-
-Indipendentemente dalla limitazione delle iscrizioni, il Consiglio della scuola puo' subordinare l'ammissione ad una prova di idoneita'.
-
-L'inclusione della Scuola nello statuto non costituisce impegno ad impartire i relativi insegnamenti: l'impegno e' costituito dalla pubblicazione del manifesto annuale.
-
-Art. 479. - Vengono qui appresso elencate le materie di insegnamento con l'indicazione, per ciascuna di esse, del numero di anni durante i quali dovra' essere trattata, mentre il loro raggruppamento nei singoli anni di corso nonche' la loro eventuale scissione in piu' rami distinti verranno indicati nel manifesto annuale:
-
-1) introduzione storica alla psicologia e scuole odierne di psicologia (annuale);
-
-2) metodologia sperimentale, differenziale e clinica in psicologia (annuale) 3) metodologia statistica generale e statistica psicometrica (annuale);
-
-4) fondamenti biologici della personalita'. Psicofisiologia (biennale);
-
-5) psicologia generale e sistematica (biennale);
-
-6) psicologia sociale, collettiva e di gruppo (biennale);
-
-7) psicologia differenziale (biennale);
-
-8) psicologia genetica, auxologica e involutiva (biennale);
-
-9) psicologia clinica (problemi, campi speciali di applicazione, metodi diagnostici e di trattamento) (biennale);
-
-10) psicopatologia, igiene mentale e neuropsichiatria (biennale);
-
-11) studio psicologico e psicosociologico del malato. Medicina psicosomatica (annuale);
-
-12) psicologia del lavoro (biennale);
-
-13) psicologia scolastica (annuale);
-
-14) Psicologia pedagogica ed emendativa dell'adulto e del minore, individuale e sociale (annuale);
-
-15) psicologia criminologica, giudiziaria, penitenziaria (annuale);
-
-16) etica professionale (annuale).
-
-Gli insegnamenti elencati nel presente articolo saranno integrati da esercitazioni pratiche e, eventualmente, da seminari e conferenze.
-
-Art. 480. - Il direttore della Scuola e' il professore di ruolo titolare della cattedra di psicologia della Facolta' di medicina e chirurgia.
-
-Il direttore della Scuola, su conforme parere del Consiglio di Facolta', puo' proporre che un insegnante della, Scuola assuma le funzioni di vice-direttore, con l'incarico di coadiuvarlo e di sostituirlo: alla relativa nomina, provvede il rettore.
-
-Art. 481. - Gli iscritti alla Scuola sono tenuti a pagare le medesime tasse, soprattasse e contributi generali nella, misura stabilita dalle vigenti disposizioni di legge per gli studenti della Facolta' di medicina e chirurgia.
-
-La misura dei contributi per le esercitazioni di laboratorio e per le altre prestazioni, di cui gli iscritti usufruiscono durante il corso degli studi, e' fissata dal Consiglio di amministrazione dell'Universita' su proposta del Senato accademico, sentito il parere del Consiglio della Facolta' di medicina e chirurgia e il Consiglio della scuola.
-
-Art. 482. - Il direttore della Scuola compila ogni anno il relativo manifesto-programma che, previa approvazione della Facolta' di medicina e chirurgia, sara' reso di pubblica ragione.
-
-Nel manifesto viene specificato:
-
-a) l'ordine degli studi (distribuzione degli insegnamenti statutari nei vari anni del corso con i relativi docenti);
-
-b) l'ordine e l'eventuale raggruppamento degli esami di profitto;
-
-c) il numero limitato delle iscrizioni e le modalita' di concorso e di ammissione.
-
-Art. 483. - Non sono consentite abbreviazioni di corso, neppure nel caso di eventuali domande di trasferimento da Scuole di altre Universita'.
-
-Scuola di specializzazione in neuropsichiatria infantile
-
-Art. 484. - Finalita' della Scuola e titoli di ammissione sono quelli di cui agli articoli 342 e 343.
-
-Art. 485. - La durata dell'intero corso degli studi e' di quattro anni;
-
-Art. 486. - Il numero dei posti di ammissione e' di venti.
-
-La direzione della Scuola e' affidata a bienni alterni ai direttore della, Clinica pediatrica e al direttore della Clinica neuropsichiatrica.
-
-Art. 487. - Gli insegnamenti impartiti nella Scuola sono:
-
-1) anatomia e fisiologia dalla nascita alla puberta';
-
-2) genetica e scienze della costituzione e dello sviluppo (auxologia);
-
-3) anatomia, embriologia e fisiologia del sistema nervoso;
-
-4) alimentazione del bambino;
-
-5) semeiotica e clinica delle malattie del bambino;
-
-6) semeiotica e clinica delle malattie nervose e mentali;
-
-7) neuroradiologia e neurochirurgia infantile;
-
-8) psicologia e psicopatologia dell'eta' evolutiva;
-
-9) clinica psichiatrica infantile;
-
-10) psicoterapia e psicopedagogia.
-
-Art. 488. - Durante i quattro anni di corso, secondo il programma degli studi, la frequenza e' obbligatoria presso la Clinica delle malattie nervose e mentali e presso la Clinica pediatrica.
-
-Art. 489. - L'ordine degli stadi (distribuzione degli insegnamenti nei diversi anni del corso) e l'ordine e modalita' degli esami verranno stabiliti nel manifesto annuale.
-
-Art. 490. - A coloro che avranno superato l'esame di diploma, verra' rilasciato il diploma, di specialista in neuropsichiatria infantile.
-
-Corso di perfezionamento in rematologia
-
-Art. 491. - il corso ha la finalita' di preparare un personale selezionato per la lotta contro le malattie reumatiche.
-
-Art. 492. - Il corso ha la durata di un anno
-
-Art. 493. - Le materie di insegnamento sono le seguenti:
-
-1) nozioni di anatomia e fisiologia dell'apparato motore;
-
-2) anatomia patologica delle malattie reumatiche;
-
-3) nozioni di semeiotica con speciale riguardo alle malattie reumatiche;
-
-4) nozioni di radiologia osteo-articolare;
-
-5) clinica e terapia delle malattie reumatiche;
-
-6) nozioni di chirurgia ed ortopedia riguardanti le malattie reumatiche;
-
-7) aspetti sociali delle malattie reumatiche e loro profilassi;
-
-8) statistiche ed epidemiologia delle malattie reumatiche;
-
-9) nozioni di fisioterapia applicata alle malattie reumatiche.
-
-Art. 494. - Al corso saranno ammessi i laureati in medicina e chirurgia che saranno tenuti a pagare le medesime tasse, soprattasse e contributi generali nella misura stabilita dalle vigenti disposizioni di legge per gli studenti della. Facolta' di medicina e chirurgia.
-
-Art. 495. - Le modalita' degli esami e l'eventuale raggruppamento di essi verra' precisato nel manifesto annuale.
-
-Art. 496. - Il numero degli iscritti non potra' superare i venti e verra' precisato anno per anno nel manifesto annuale. In caso di eccedenza di domande, la selezione verra' effettuata mediante concorso per esame.
-
-Art. 497. - A coloro che avranno frequentato il corso e superato gli esami nonche' una prova di cultura generale comprensiva di un esame al letto del malato e della discussione di una dissertazione scritta preparata dal candidato, verra' rilasciato un attestato di frequenza e di esame.
-
-L'art. 502, contenente gli insegnamenti del corso di perfezionamento ingegneria nucleare, e' abrogato e sostituito dal seguente.
-
-Art. 502. - Gli insegnamenti impartiti nel corso sono i seguenti:
-
-1) fisica nucleare;
-
-2) fisica del reattore;
-
-3) tecniche e misura di fisica nucleare;
-
-4) problemi di sicurezza e dosimetria;
-
-5) ingegneria del reattore;
-
-6) tecnologia dei materiali impiegati negli impianti nucleari;
-
-7) termotecnica del reattore;
-
-8) chimica e chimica fisica dell'ingegneria nucleare.
-
-L'insegnamento di "ingegneria del reattore" si articola nelle seguenti parti:
-
-struttura e funzionamento del reattore;
-
-avviamento alla progettazione del reattore;
-
-reattori di ricerca, strumentali e prototipi;
-
-strumentazione nucleare e controllo.
-
-L'insegnamento di "tecnologia dei materiali impiegati negli impianti nucleari" si articola nelle seguenti parti:
-
-metallurgia dell'uranio, del torio, dei metalli strutturali e dei metalli di controllo. Tecnologia dei materiali non metallici;
-
-mutamenti nella struttura dei materiali per effetto delle radiazioni.
-
-L'insegnamento di "termotecnica dei reattori" si articola nelle seguenti parti:
-
-problemi termici e di moto dei fluidi nel reattore di potenza e schermatura del medesimo;
-
-installazioni termiche e meccaniche;
-
-sollecitazioni nelle strutture dei reattori nucleari.
-
-L'insegnamento di "chimica-fisica dell'ingegneria nucleare" si articola nelle seguenti parti:
-
-chimica del reattore nucleare;
-
-separazione degli isotopi dall'uranio;
-
-produzione dell'acqua pesante.
-
-Gli iscritti al corso che non siano in possesso della laurea in ingegneria industriale elettrotecnica dovranno, inoltre, seguire un ciclo di lezioni sulle seguenti materie:
-
-complementi di analisi;
-
-elettronica;
-
-teoria dei servomeccanismi.
-
-Il Consiglio del corso stabilisce la durata di ciascuno degli insegnamenti sopraelencati; stabilisce altresi' quali di essi dovranno essere completati con esercitazioni.
-
-Gli insegnamenti potranno venire integrati da conferenze e da visite ad impianti.
-
-L'art. 505, relativo al corso di perfezionamento in ingegneria nucleare e' abrogato e sostituito dal seguente:
-
-"Per la validita' del corso e cioe' per il conseguimento dell'attestato di cui all'art. 506, gli iscritti dovranno superare gli esami negli otto insegnamenti elencati nell'art. 502 e redigere un progetto o uno studio sulle materie di insegnamento.
-
-Su decisione del Consiglio del corso, gli insegnamenti numeri 3) e 4) di cui all'art. 502 potranno fare oggetto di un unico esame.
-
-Il progetto o studio finale verra' discusso alla presenza di una Commissione di cinque membri scelti fra i docenti del corso e presieduta dal direttore del corso stesso".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Napoli, addi' 20 agosto 1959
-
-GRONCHI
-
-MEDICI
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 5 ottobre 1959 Atti del Governo, registro n. 121, foglio n. 6. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla, proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
+  
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 411, 413, 414, 417, 418, relativi alla scuola di ricerca e di applicazione per la formazione di educatori di comunita' (scuola diretta a fini speciali) sono abrogati e sostituiti dai seguenti:  
   
-Art. 36. - All'elenco degli Istituti costituiti presso la Facolta' di economia e commercio sono, aggiunti quelli di: "Istituto di tecnica amministrativa delle imprese di pubblici servizi", "Istituto di diritto pubblico", "Istituto di diritto privato".  
-E' soppresso l'"Istituto di discipline giuridiche".  
+Scuola di ricerca e di applicazione per la formazione di educatori di comunita'  
   
-Art. 38. - Agli insegnamenti complementari del corso di laurea in economia e commercio e' aggiunto quello di "diritto fallimentare".  
+Art. 411. La scuola ha lo scopo di formare, attraverso una autentica integrazione personale di dati teorici, tecnici e sperimentali, giovani che, professionalmente preparati per la educazione di fanciulli adolescenti e giovani, presentanti o meno difficolta' di adattamento, tanto in comunita' educative come nell'ambiente naturale, siano in grado di assolvere compiti di animazione sociale e di assumere responsabilita' anche direttive in seno alle comunita' stesse o in seno ad organismi assistenziali-educativi.  
+La scuola rilascia il diploma di educatore di comunita', attestati di idoneita' e di diploma di educatore di comunita' speciali.  
+Un centro studi provvede alla documentazione e alla ricerca per assicurare un efficace funzionamento della scuola.  
+Art. 413. - La scuola e' diretta dal direttore dell'istituto di pedagogia della facolta' di magistero. In mancanza di esso o in caso di impedimento non temporaneo, il consiglio della facolta' affidera' la direzione della scuola ad altro professore di ruolo, fuori ruolo o incaricato della facolta'.  
+Il direttore e' coadiuvato dal direttore dei corsi ed assistito dal consiglio dei professori; in caso di assenza o impedimento temporaneo il direttore e' sostituito dal vicedirettore da lui designato.  
+Il direttore dei corsi e' nominato dal comitato direttivo, su proposta del direttore della scuola, tra persone esperte, docenti o meno della scuola stessa che abbiano acquisito esperienze professionali nella educazione specializzata.  
+Art. 414. - Il consiglio dei professori e' composto dai direttori della scuola, dal direttore dei corsi, dai docenti e dai monitori della scuola.  
+Il consiglio dei professori determina i corsi e i relativi piani di studio; coordina e approva i programmi dei singoli insegnamenti teorici e tecnico-pratici; esprime parere sul regolamento e relative modifiche e sulle proposte di conferimento degli incarichi di docenza e di monitorato; delibera su ogni altra questione disciplinare e didattica, su convocazione del direttore della scuola.  
+Art. 417. - Gli incarichi di insegnamento sono conferiti su proposta del direttore della scuola, ratificata dal comitato direttivo previo parere del consiglio dei professori, a docenti anche di altre facolta' ed in casi particolari ad esperti o cultori della materia.  
+L'assistenza ai tirocini professionali ed all'attivita' di gruppo e seminari e' curata dai monitori ed e' affidata ad esperti di educazione specializzata.  
+I singoli insegnamenti sono svolti, di regola, lungo l'intero anno accademico; il consiglio dei professori stabilisce di anno in anno quali insegnamenti possono essere svolti in un semestre o mediante seminari.  
+Art. 418. - Per il conseguimento dei diplomi e dello attestato, lo studente deve aver seguito i corsi e superato i relativi esami e prove pratiche.  
+L'esame finale per il conseguimento dei diplomi e dell'attestato consiste nella discussione su una dissertazione scritta connessa alla attivita' di studio, ricerca e applicazione svolta dal candidato durante la frequenza della scuola.  
+La commissione d'esame per il conseguimento dei diplomi o dell'attestato e' composta dal direttore della scuola e da altro professore di ruolo della facolta' da lui delegato che lo presiede e da sei docenti della scuola stessa.  
+Gli iscritti ai corsi di formazione della scuola sono tenuti al versamento annuo delle tasse, soprattasse e contributi nella misura prevista dalla legge vigente per gli studenti della facolta' di magistero.  
+La scuola puo' anche organizzare corsi di preparazione per il conseguimento di un attestato di idoneita' per educatori in servizio.  
+Il piano di studi, l'ammontare delle tasse, i titoli per l'ammissione ed ogni altro aspetto didattico sono stabiliti dal comitato direttivo.  
+Coloro che negli anni precedenti all'entrata in vigore del presente decreto hanno frequentato i corsi organizzati nelle more dell'applicazione del decreto stesso, possono ottenere l'attestato di idoneita' mediante la ridiscussione della tesina conclusiva del corso.  
+La scuola puo' organizzare, secondo i criteri stabiliti dal comitato direttivo, attivita' e corsi di aggiornamento e perfezionamento.  
+Dopo l'art. 754 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi "alla Scuola per tecnici di laboratorio di analisi cliniche" (scuola diretta a fini speciali).  
   
-Art. 56. -- L'insegnamento della lingua e letteratura straniera moderna, alla quale lo studente intende principalmente dedicarsi, deve essere seguito per tutti i quattro anni, alla fine di ciascuno dei quali egli sara' sottoposto a un esame consistente in una, prova scritta e in una susseguente prova orale di anno in anno gradualmente progressive.  
+Scuola per tecnici di laboratorio di analisi cliniche  
+(scuola diretta a fini speciali)  
   
-Art. 61, relativo agli Istituti della Facolta' di lettere e filosofia, e' cosi' integrato: "E' inoltre aggregato alla Facolta' l'istituto del teatro".  
-  
-Art. 79. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di "neurochirurgia"; "neuropsichiatria infantile".  
-  
-Art. 114. - All'elenco degli Istituti costituiti presso la Facolta' di ingegneria sono aggiunti i seguenti: "Istituto di meccanica applicata alle macchine" e "Istituto di elettronica".  
-Inoltre la cattedra di "costruzioni marittime" passa dall'Istituto di "idraulica" a quello di "costruzioni idrauliche".  
-  
-Art. 116. - Agli insegnamenti complementari del corso di laurea in ingegneria industriale sono aggiunti: l'insegnamento di "servomeccanismi" in sostituzione di quello di "costruzioni in legno, ferro e cemento armato" per gli allievi della sottosezione elettrotecnica;  
-l'insegnamento di "elettronica applicata" in sostituzione di quello di: "elettronica";  
-l'insegnamento biennale di "impianti industriali chimici", per la sottosezione chimica;  
-l'insegnamento di "elettrotecnica" diventa biennale per la sottosezione elettrotecnica.  
-Gli insegnamenti di "macchine", di "tecnologie speciali meccaniche" diventano biennali, ma con unico esame, per la sottosezione meccanica.  
-  
-Art. 121, relativo alle propedeuticita' degli esami di diversi insegnamenti e' cosi' integrato:  
-Non si puo essere ammessi Se non si e superato l'esame all'esame di: di:  
-  
-Architettura e composizione Architettura e composizione  
-architettonica II architettonica I. Architettura  
-tecnica; Costruzioni in legno,  
-ferro e cemento armato;  
-Scienza delle costruzioni,  
-Tecnica urbanistica.  
-Comunicazioni elettriche Elettrotecnica I, ElettrotecnicaII Elettronica, Fisica tecnica.  
-Elettrotecnica I: Fisica tecnica.  
-Elettrotecnica II: Elettrotecnica I, Fisica tecnica.  
-Impianti industriali Elettrotecnica I; Elettrotecnica II elettrici:  
-Fisica tecnica Idraulica,Macchine  
-Meccanica applicata alle macchine Scienza delle costruzioni,  
-Tecnologie generali.  
-Misure elettriche:  
-Elettrotecnica I, Elettrotecnica II  
-Elettronica, Fisica tecnica.  
-Elettronica:  
-Elettrotecnica I, Elettrotecnica II  
-Fisica tecnica.  
-Servomeccanismi:  
-Elettrotecnica I, Elettrotecnica II  
-Elettronica, Fisica tecnica.  
-Meccanica applicata alle macchine Tecnica urbanistica: Architettura tecnica:  
-Architettura  
-e composizione architettonica I:  
-Scienza delle costruzioni.  
-Radiotecnica: Elettrotecnica I:  
-Elettrotecnica II  
-Elettronica; Fisica tecnica.  
-  
-Art. 138, relativo alla Scuola di ingegneria aeronautica e' abrogato e sostituito dal seguente: "Al termine degli studi la Scuola di ingegneria aeronautica conferisce la laurea in ingegneria aeronautica, con distinzione della specializzazione e dell'indirizzo prescelti dell'allievo".  
-  
-Art. 329. - L'insegnamento di tecniche nucleari (biennale) della Scuola di perfezionamento in fisica nucleare, e' scisso in due insegnamenti annuali cosi' denominati: tecniche nucleari I e tecniche nucleari II.  
-Dopo l'art. 476, sono aggiunti i seguenti nuovi articoli, relativi all'istituzione della scuola di specializzazione in psicologia medica, della Scuola di perfezionamento in neuropsichiatria infantile e del corso di perfezionamento in reumatologia, con il conseguente spostamento della numerazione degli articoli successivi.  
-  
-Scuola di specializzazione in psicologia medica  
-  
-Art. 477. - E' istituita la Scuola, di specializzazione in psicologia medica con sede presso l'istituto di psicologia della Facolta' di medicina e chirurgia dell'Universita' di Roma.  
-Finalita' della Scuola sono:  
-1) contribuire all'approfondimento degli studi di psicologia in genere e in particolare a preparare il medico, sul piano informativo, ad affrontare i problemi della ricerca e dell'attivita' professionale in quei settori della psicologia nei quali egli puo' dare proficuamente la sua opera proprio in quanto medico e psicologo ad un tempo;  
-2) contribuire alla qualifica e alla difesa del titolo professionale di psicologo.  
-La durata del corso della Scuola e' di tre anni.  
-L'ammissione alla Scuola e' limitata ai laureati in medicina e chirurgia.  
-Agli allievi che avranno seguito con assiduita' e profitto i corsi della Scuola e avranno superato l'esame di diploma, verra' rilasciato un diploma di specialista in psicologia medica, valido a tutti gli effetti di legge.  
-All'esame di diploma verranno ammessi i candidati che abbiano superato tutti gli esami di profitto.  
-L'esame di diploma constera' della presentazione e discussione di una dissertazione scritta e eventualmente, di una o piu' prove pratiche stabilite dal Consiglio della scuola.  
-  
-Art. 478. - Il manifesto annuale previsto dall'articolo 452 stabilira', anno per anno il limite massimo di iscrizione, che non potra' in nessun caso superare il numero di venticinque. Nello stesso manifesto, verra' indicato, anno per anno il numero minimo di iscrizioni.  
-Nel caso di domande eccedenti il numero massimo indicato nel manifesto annuale, il Consiglio della scuola procedera' all'accettazione delle domande attraverso un concorso di merito, le cui modalita' verranno fissate nello stesso manifesto annuale.  
-Indipendentemente dalla limitazione delle iscrizioni, il Consiglio della scuola puo' subordinare l'ammissione ad una prova di idoneita'.  
-L'inclusione della Scuola nello statuto non costituisce impegno ad impartire i relativi insegnamenti: l'impegno e' costituito dalla pubblicazione del manifesto annuale.  
-  
-Art. 479. - Vengono qui appresso elencate le materie di insegnamento con l'indicazione, per ciascuna di esse, del numero di anni durante i quali dovra' essere trattata, mentre il loro raggruppamento nei singoli anni di corso nonche' la loro eventuale scissione in piu' rami distinti verranno indicati nel manifesto annuale:  
-1) introduzione storica alla psicologia e scuole odierne di psicologia (annuale);  
-2) metodologia sperimentale, differenziale e clinica in psicologia (annuale) 3) metodologia statistica generale e statistica psicometrica (annuale);  
-4) fondamenti biologici della personalita'. Psicofisiologia (biennale);  
-5) psicologia generale e sistematica (biennale);  
-6) psicologia sociale, collettiva e di gruppo (biennale);  
-7) psicologia differenziale (biennale);  
-8) psicologia genetica, auxologica e involutiva (biennale);  
-9) psicologia clinica (problemi, campi speciali di applicazione, metodi diagnostici e di trattamento) (biennale);  
-10) psicopatologia, igiene mentale e neuropsichiatria (biennale);  
-11) studio psicologico e psicosociologico del malato. Medicina psicosomatica (annuale);  
-12) psicologia del lavoro (biennale);  
-13) psicologia scolastica (annuale);  
-14) Psicologia pedagogica ed emendativa dell'adulto e del minore, individuale e sociale (annuale);  
-15) psicologia criminologica, giudiziaria, penitenziaria (annuale);  
-16) etica professionale (annuale).  
-Gli insegnamenti elencati nel presente articolo saranno integrati da esercitazioni pratiche e, eventualmente, da seminari e conferenze.  
-  
-Art. 480. - Il direttore della Scuola e' il professore di ruolo titolare della cattedra di psicologia della Facolta' di medicina e chirurgia.  
-Il direttore della Scuola, su conforme parere del Consiglio di Facolta', puo' proporre che un insegnante della, Scuola assuma le funzioni di vice-direttore, con l'incarico di coadiuvarlo e di sostituirlo: alla relativa nomina, provvede il rettore.  
-  
-Art. 481. - Gli iscritti alla Scuola sono tenuti a pagare le medesime tasse, soprattasse e contributi generali nella, misura stabilita dalle vigenti disposizioni di legge per gli studenti della Facolta' di medicina e chirurgia.  
-La misura dei contributi per le esercitazioni di laboratorio e per le altre prestazioni, di cui gli iscritti usufruiscono durante il corso degli studi, e' fissata dal Consiglio di amministrazione dell'Universita' su proposta del Senato accademico, sentito il parere del Consiglio della Facolta' di medicina e chirurgia e il Consiglio della scuola.  
-  
-Art. 482. - Il direttore della Scuola compila ogni anno il relativo manifesto-programma che, previa approvazione della Facolta' di medicina e chirurgia, sara' reso di pubblica ragione.  
-Nel manifesto viene specificato:  
-a) l'ordine degli studi (distribuzione degli insegnamenti statutari nei vari anni del corso con i relativi docenti);  
-b) l'ordine e l'eventuale raggruppamento degli esami di profitto;  
-c) il numero limitato delle iscrizioni e le modalita' di concorso e di ammissione.  
-  
-Art. 483. - Non sono consentite abbreviazioni di corso, neppure nel caso di eventuali domande di trasferimento da Scuole di altre Universita'.  
-  
-Scuola di specializzazione in neuropsichiatria infantile  
-  
-Art. 484. - Finalita' della Scuola e titoli di ammissione sono quelli di cui agli articoli 342 e 343.  
-  
-Art. 485. - La durata dell'intero corso degli studi e' di quattro anni;  
-  
-Art. 486. - Il numero dei posti di ammissione e' di venti.  
-La direzione della Scuola e' affidata a bienni alterni ai direttore della, Clinica pediatrica e al direttore della Clinica neuropsichiatrica.  
-  
-Art. 487. - Gli insegnamenti impartiti nella Scuola sono:  
-1) anatomia e fisiologia dalla nascita alla puberta';  
-2) genetica e scienze della costituzione e dello sviluppo (auxologia);  
-3) anatomia, embriologia e fisiologia del sistema nervoso;  
-4) alimentazione del bambino;  
-5) semeiotica e clinica delle malattie del bambino;  
-6) semeiotica e clinica delle malattie nervose e mentali;  
-7) neuroradiologia e neurochirurgia infantile;  
-8) psicologia e psicopatologia dell'eta' evolutiva;  
-9) clinica psichiatrica infantile;  
-10) psicoterapia e psicopedagogia.  
-  
-Art. 488. - Durante i quattro anni di corso, secondo il programma degli studi, la frequenza e' obbligatoria presso la Clinica delle malattie nervose e mentali e presso la Clinica pediatrica.  
-  
-Art. 489. - L'ordine degli stadi (distribuzione degli insegnamenti nei diversi anni del corso) e l'ordine e modalita' degli esami verranno stabiliti nel manifesto annuale.  
-  
-Art. 490. - A coloro che avranno superato l'esame di diploma, verra' rilasciato il diploma, di specialista in neuropsichiatria infantile.  
-  
-Corso di perfezionamento in rematologia  
-  
-Art. 491. - il corso ha la finalita' di preparare un personale selezionato per la lotta contro le malattie reumatiche.  
-  
-Art. 492. - Il corso ha la durata di un anno  
-  
-Art. 493. - Le materie di insegnamento sono le seguenti:  
-1) nozioni di anatomia e fisiologia dell'apparato motore;  
-2) anatomia patologica delle malattie reumatiche;  
-3) nozioni di semeiotica con speciale riguardo alle malattie reumatiche;  
-4) nozioni di radiologia osteo-articolare;  
-5) clinica e terapia delle malattie reumatiche;  
-6) nozioni di chirurgia ed ortopedia riguardanti le malattie reumatiche;  
-7) aspetti sociali delle malattie reumatiche e loro profilassi;  
-8) statistiche ed epidemiologia delle malattie reumatiche;  
-9) nozioni di fisioterapia applicata alle malattie reumatiche.  
-  
-Art. 494. - Al corso saranno ammessi i laureati in medicina e chirurgia che saranno tenuti a pagare le medesime tasse, soprattasse e contributi generali nella misura stabilita dalle vigenti disposizioni di legge per gli studenti della. Facolta' di medicina e chirurgia.  
-  
-Art. 495. - Le modalita' degli esami e l'eventuale raggruppamento di essi verra' precisato nel manifesto annuale.  
-  
-Art. 496. - Il numero degli iscritti non potra' superare i venti e verra' precisato anno per anno nel manifesto annuale. In caso di eccedenza di domande, la selezione verra' effettuata mediante concorso per esame.  
-  
-Art. 497. - A coloro che avranno frequentato il corso e superato gli esami nonche' una prova di cultura generale comprensiva di un esame al letto del malato e della discussione di una dissertazione scritta preparata dal candidato, verra' rilasciato un attestato di frequenza e di esame.  
-L'art. 502, contenente gli insegnamenti del corso di perfezionamento ingegneria nucleare, e' abrogato e sostituito dal seguente.  
-  
-Art. 502. - Gli insegnamenti impartiti nel corso sono i seguenti:  
-1) fisica nucleare;  
-2) fisica del reattore;  
-3) tecniche e misura di fisica nucleare;  
-4) problemi di sicurezza e dosimetria;  
-5) ingegneria del reattore;  
-6) tecnologia dei materiali impiegati negli impianti nucleari;  
-7) termotecnica del reattore;  
-8) chimica e chimica fisica dell'ingegneria nucleare.  
-L'insegnamento di "ingegneria del reattore" si articola nelle seguenti parti:  
-struttura e funzionamento del reattore;  
-avviamento alla progettazione del reattore;  
-reattori di ricerca, strumentali e prototipi;  
-strumentazione nucleare e controllo.  
-L'insegnamento di "tecnologia dei materiali impiegati negli impianti nucleari" si articola nelle seguenti parti:  
-metallurgia dell'uranio, del torio, dei metalli strutturali e dei metalli di controllo. Tecnologia dei materiali non metallici;  
-mutamenti nella struttura dei materiali per effetto delle radiazioni.  
-L'insegnamento di "termotecnica dei reattori" si articola nelle seguenti parti:  
-problemi termici e di moto dei fluidi nel reattore di potenza e schermatura del medesimo;  
-installazioni termiche e meccaniche;  
-sollecitazioni nelle strutture dei reattori nucleari.  
-L'insegnamento di "chimica-fisica dell'ingegneria nucleare" si articola nelle seguenti parti:  
-chimica del reattore nucleare;  
-separazione degli isotopi dall'uranio;  
-produzione dell'acqua pesante.  
-Gli iscritti al corso che non siano in possesso della laurea in ingegneria industriale elettrotecnica dovranno, inoltre, seguire un ciclo di lezioni sulle seguenti materie:  
-complementi di analisi;  
-elettronica;  
-teoria dei servomeccanismi.  
-Il Consiglio del corso stabilisce la durata di ciascuno degli insegnamenti sopraelencati; stabilisce altresi' quali di essi dovranno essere completati con esercitazioni.  
-Gli insegnamenti potranno venire integrati da conferenze e da visite ad impianti.  
-  
-L'art. 505, relativo al corso di perfezionamento in ingegneria nucleare e' abrogato e sostituito dal seguente:  
-"Per la validita' del corso e cioe' per il conseguimento dell'attestato di cui all'art. 506, gli iscritti dovranno superare gli esami negli otto insegnamenti elencati nell'art. 502 e redigere un progetto o uno studio sulle materie di insegnamento.  
-Su decisione del Consiglio del corso, gli insegnamenti numeri 3) e 4) di cui all'art. 502 potranno fare oggetto di un unico esame.  
-Il progetto o studio finale verra' discusso alla presenza di una Commissione di cinque membri scelti fra i docenti del corso e presieduta dal direttore del corso stesso".  
+Art. 755. - E' istituita presso l'istituto di microbiologia dell'Universita' di Roma una scuola di insegnamento teorico e pratico al fine di preparare il personale che aspira a svolgere, in qualita' di tecnico di laboratorio di analisi cliniche, ricerche a scopo scientifico clinico, diagnostico o di controllo presso pubblici ospedali, cliniche universitarie, enti sanitari, istituti di cura e laboratori pubblici e privati.  
+Art. 756. - La scuola e' diretta da un professore di ruolo di microbiologia nominato dal rettore su proposta del consiglio di facolta' di medicina e chirurgia.  
+Gli insegnanti della scuola vengono nominati annualmente dal rettore su proposta del direttore della scuola.  
+Art. 757. - Gli aspiranti all'ammissione alla scuola debbono essere in possesso del diploma di istruzione secondaria di primo grado e di un certificato attestante l'ammissione al terzo anno di scuola media superiore o titolo equipollente. Devono altresi' aver compiuto il sedicesimo anno di eta' alla data del 31 dicembre dell'anno accademico cui si riferisce la domanda di ammissione.  
+Art. 758. - Gli aspiranti all'iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova orale di cultura. Coloro che abbiano superato tale prova potranno essere ammessi fino ad un numero massimo di trenta per anno, secondo una graduatoria di merito sulla base del risultato della prova stessa.  
+Art. 759. - Il corso di studi e' della durata di anni tre.  
+Esso comprende lezioni teoriche, dimostrazioni, esercitazioni, conferenze, seminari e tirocini pratici la cui articolazione sara' attuata tenendo particolare conto dell'indirizzo della scuola ai fini della preparazione professionale.  
+Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) Organizzazione generale del laboratorio di ricerche cliniche;  
+2) Igiene generale e ospedaliera;  
+3) Anatomia umana normale;  
+4) Chimica;  
+5) Fisica;  
+6) Tecniche di laboratorio;  
+7) Tecniche istologiche e istochimica.  
+2° Anno:  
+1) Fisiologia umana;  
+2) Biochimica;  
+3) Analisi cliniche I;  
+4) Microbiologia e sierologia I;  
+5) Parassitologia;  
+6) Farmacologia;  
+7) Esami di particolari materiali organici.  
+3° Anno:  
+1) Patologia generale;  
+2) Analisi cliniche II ed enzimologia;  
+3) Microbiologia e sierologia II;  
+4) Ematologia;  
+5) Virologia;  
+6) Legislazione sanitaria;  
+7) Metodiche per l'automazione;  
+8) Metodiche per l'uso dei radioisotopi.  
+Art. 760. - La frequenza ai corsi e' obbligatoria.  
+Al termine di ciascun corso l'allievo dovra' superare il relativo esame di profitto che potra' essere sostenuto in due distinte sessioni, una estiva e l'altra autunnale, dinanzi ad una commissione composta da tre insegnanti con voto espresso in trentesimi.  
+Al termine del corso di studi gli allievi sosterranno un esame finale di abilitazione consistente in tre prove, scritta, orale e pratica, dinanzi ad una commissione esaminatrice composta da sette membri con voto espresso in settantesimi.  
+Art. 761. - Ai candidati che superino l'esame finale di abilitazione viene rilasciato un diploma di tecnico di laboratorio di analisi cliniche, soggetto a tassa di concessione governativa.  
+Art. 762. - Le entrate della scuola sono costituite dalle tasse, soprattasse e contributi scolastici e dai contributi erogati eventualmente dallo Stato, dall'universita', da enti e da privati.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Napoli, addi' 20 agosto 1959
+### Dato a Roma, addi' 30 ottobre 1972
 
-GRONCHI MEDICI
+LEONE SCALFARO
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 5 ottobre 1959
+Registrato alla Corte dei conti, addi' 27 gennaio 1973
 
-Atti del Governo, registro n. 121, foglio n. 6. - VILLA
+Atti di Governo, registro n. 255, foglio n. 72. - VALENTINI

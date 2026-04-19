@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1969 n. 710
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1973 n. 680
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1969 n. 710
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1973 n. 680
+=============================================================
 
 Autorizzazione all'Associazione italiana della croce rossa ad accettare un legato.
 ----------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-710. Decreto del Presidente della Repubblica 10 settembre 1969, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa, viene autorizzata ad accettare il legato di L. 10.000.000 disposto dalla signora Brambilla Lidia Maria vedova Carraro, con testamento olografo del 16 aprile 1963, depositato e pubblicato con verbale in data 25 settembre 1968, n. 109421 di repertorio a rogito notar dott. Guido Saya in Milano.  
+680. Decreto del Presidente della Repubblica 11 giugno 1973, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa viene autorizzata ad accettare il legato di L. 1.000.000, disposto dal dott. Bruno Pertici con testamento olografo, pubblicato il 2 maggio 1970, n. 16893 di rep. a rogito notaio Vincenzo Tavassi di Certaldo, a favore del sottocomitato C.R.I. di Certaldo.  
   
-Visto, il Guardasigilli: GAVA  
-Registrato alla Corte dei conti, addi' 21 ottobre 1969  
-Atti del Governo, registro n. 229, foglio n. 124. - CARUSO
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 7 novembre 1973  
+Atti di Governo, registro n. 262, foglio n. 12. - VALENTINI

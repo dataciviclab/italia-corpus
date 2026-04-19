@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 febbraio 1977 n. 820
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1969 n. 448
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 febbraio 1977 n. 820
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1969 n. 448
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,9 +20,9 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -30,214 +30,275 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuito dall'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Napoli approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-L'art. 189, relativo all'elenco degli insegnamenti complementari del corso di laurea in farmacia, e' abrogato e sostituito dal seguente:
+Art. 22. - Nell'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di "Diritto processuale costituzionale".
 
-Insegnamenti complementari:
+Art. 90. - Nell'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:
 
-Alla destra di ogni insegnamento e' indicato tra parentesi l'anno di corso a partire dal quale puo' essere sostenuto il relativo esame:
+Topografia antica della Campania e della Magna Grecia;
 
-1) chimica fisica (II);
+Linguistica generale;
 
-2) chimica bromatologica (III);
+Storia della critica d'arte.
 
-3) biochimica applicata (III);
+Art. 93. - Nell'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti quelli di:
 
-4) fisiologia vegetale (I);
+Psicologia dell'eta' evolutiva;
 
-5) biologia e zoologia generale (I);
+Psicologia sociale.
 
-6) igiene (I);
+Art. 98. - Nell'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne e' aggiunto quello di "Linguistica generale e storia della critica d'arte".
 
-7) mineralogia (I);
+Art. 102. - Nell'elenco degli istituti annessi alla facolta' di lettere e filosofia e' aggiunto quello di "Istituto di psicologia".
 
-8) scienza dell'alimentazione (III);
+Art. 204, relativo agli istituti annessi alla facolta' di Ingegneria e' modificato nel senso che gli istituti di chimica industriale e di impianti chimici mutano denominazione in quelli di:
 
-9) chimica farmaceutica applicata (III);
+Istituto di chimica industriale ed impianti chimici;
 
-10) istituzioni di matematica (I);
+Istituto di chimica applicata.
 
-11) idrologia chimica (II);
+Dopo l'art. 323 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi, alla istituzione del corso di perfezionamento in diritto ecclesiastico e canonico annesso alla facolta' di giurisprudenza.
 
-12) analisi chimica-tossicologica (III);
+Corso di perfezionamento in diritto ecclesiastico e canonico
 
-13) farmacotecnica galenica (IV);
+Art. 324. - E' istituito presso la facolta' di giurisprudenza il corso di perfezionamento in diritto ecclesiastico e in diritto canonico.
 
-14) microbiologia farmaceutica (III);
+Art. 325. - Al corso possono essere ammessi i laureati in giurisprudenza ed in scienze politiche.
 
-15) saggi e dosaggi farmacologici (III);
+Art. 326. - Il corso degli studi ha la durata di due anni, al termine del quale viene rilasciato un diploma di perfezionamento in diritto ecclesiastico e in diritto canonico.
 
-16) fitofarmacia (III);
+Art. 327. - La direzione del corso e' affidata al titolare designato dai professori ufficiali delle materie corrispondenti alle cattedre dell'istituto di diritto ecclesiastico e diritto canonico.
 
-17) metodi fisici in chimica organica (III);
+Art. 328. - Nel corso vengono impartiti i seguenti insegnamenti a carattere prevalentemente monografico:
 
-18) laboratorio di preparazione estrattiva e sintetica dei farmaci (IV);
+a) Fonti del diritto ecclesiastico (prospetto storico e assetto vigente);
 
-19) impianti dell'industria farmaceutica (IV);
+b) Organi dell'amministrazione ecclesiastica;
 
-20) chimica e tecnologia dei prodotti dietetici (IV);
+c) Problematica degli enti ecclesiastici;
 
-21) chimica e tecnologia dei prodotti cosmetici (IV);
+d) Amministrazione del patrimonio ecclesiastico;
 
-22) tossicologia (III);
+e) Casi controversi del matrimonio religioso;
 
-23) farmacognosia (II);
+f) Storia del diritto canonico (fonti ed istituti);
 
-24) patologia generale (III);
+g) Esegesi ed interpretazione delle fonti;
 
-25) chemioterapia (III);
+h) Diritto costituzionale della Chiesa;
 
-26) farmacologia applicata (IV);
+i) La Chiesa e le comunita' politiche (storia e dottrine canonistiche sui rapporti tra Chiesa e Stato);
 
-27) statistica e biometria (II);
+l) L'ordinamento patrimoniale della Chiesa;
 
-28) chimica delle fermentazioni (III);
+m) Diritto processuale canonico;
 
-29) chimica dei composti eterociclici (III);
+n) Diritto penale e canonico.
 
-30) biologia molecolare (II);
+Art. 329. - Il richiedente l'ammissione al corso dovra' proporsi un proprio piano biennale di studi redatto conformemente alle proprie finalita' e nei limiti degli insegnamenti sopraindicati, il quale sia stato approvato dal collegio dei professori ufficiali delle materie corrispondenti alle cattedre dell'istituto.
 
-31) enzimologia (III).
+Art. 330. - La frequenza biennale del corso di perfezionamento, il superamento di un colloquio finale di cultura generale e la discussione di una tesi scritta su argomento assegnato dai docenti daranno diritto al rilascio di un diploma di perfezionamento.
 
-Gli articoli 190, 191, 192, 193 e 194 sono abrogati e sostituiti dai seguenti:
+La tesi deve mirare a risolvere o a contribuire a risolvere, con contributi personali, una questione di rilevante interesse relativo ad uno dei campi di insegnamento.
 
-Art. 190. - Agli insegnamenti di analisi chimica-tossicologica, chimica biologica, chimica bromatologica, chimica farmaceutica applicata, farmacologia e farmacognosiafisiologia generale, igiene, laboratorio di preparazione estrattiva e sintetica dei farmaci, metodi fisici in chimica organica, saggi e dosaggi farmacologici, tecnica e legislazione farmaceutica sono annessi corsi di esercitazioni sperimentali.
+Art. 331. - Gli iscritti al corso sono tenuti a pagare le tasse, soprattasse e contributi, secondo quanto stabilito per gli studenti della facolta' di giurisprudenza, nonche' le tasse di diploma.
 
-Art. 191. - L'insegnamento biennale di chimica farmaceutica e tossicologica importa un esame al termine di ogni anno e quello triennale di esercitazioni di chimica farmaceutica e tossicologica importa ugualmente un esame al termine di ciascun anno di corso.
+Art. 347, relativo alla scuola di perfezionamento in storia dell'arte medioevale e moderna, e' cosi' modificato:
 
-Gli studenti non possono essere iscritti al terzo corso di esercitazioni di chimica farmaceutica e tossicologica se non hanno superato l'esame di chimica organica.
+E' titolo necessario per l'ammissione alla scuola di perfezionamento la laurea in lettere o in lingue e letterature straniere moderne (indirizzo europeo)".
 
-Gli studenti non possono sostenere:
+Art. 348. - Nell'elenco della scuola di perfezionamento in storia dell'arte medioevale e moderna l'insegnamento di "Estetica e critica d'arte" muta denominazione in quella di "Storia della critica d'arte".
 
-a) l'esame del primo corso di esercitazioni di chimica farmaceutica e tossicologica se non hanno superato l'esame di chimica generale ed inorganica;
+Dopo l'art. 514 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di perfezionamento in restauro dei monumenti annessa alla facolta' di architettura.
 
-b) gli esami del secondo e terzo corso di esercitazioni di chimica farmaceutica e tossicologica se non hanno superato l'esame di chimica organica e, rispettivamente, gli esami del primo corso e del secondo corso di esercitazioni di chimica farmaceutica e tossicologica;
+Scuola di perfezionamento in restauro dei monumenti
 
-c) l'esame di chimica organica se non hanno superato gli esami di chimica generale e inorganica e di fisica;
+Art. 515. - E' istituita, presso la facolta' di architettura, la scuola di perfezionamento in restauro dei monumenti, con lo scopo di incrementare la preparazione storico-artistica e tecnica dei professionisti, impegnati nell'attivita' di restauro e di tutela dei monumenti e nella pianificazione urbanistica dei centri antichi.
 
-d) gli esami di chimica farmaceutica e tossicologica se non hanno superato l'esame di chimica organica;
+In particolare, la scuola si propone anche di preparare gli architetti alle funzioni tecniche e scientifiche che vengono svolte presso la soprintendenza ai monumenti.
 
-e) l'esame di fisiologia generale se non hanno superato gli esami di anatomia umana e di chimica biologica;
+Art. 516. - La scuola svolge un corso di insegnamento della durata di due anni e rilascia un diploma di perfezionamento in restauro dei monumenti.
 
-f) l'esame di farmacologia e farmacognosia se non hanno superato l'esame di fisiologia generale;
+Art. 517. - Sono ammessi alla scuola i laureati in architettura ed ingegneria civile (sezione edile). Il numero massimo degli iscritti e' di 50 per ogni anno di corso.
 
-g) l'esame di tecnica e legislazione farmaceutica se non hanno superato gli esami di chimica farmaceutica e tossicologica I e II.
+Delle accettazioni delle domande giudica anno per anno il consiglio direttivo della scuola su proposta del direttore.
 
-Art. 192. - Per essere ammesso all'esame di laurea in farmacia lo studente, durante il quadriennio, deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in quattro complementari da lui scelti. Deve aver compiuto nel terzo o quarto anno un periodo semestrale di pratica presso una farmacia autorizzata il cui nominativo notifichera' all'inizio alla segreteria della facolta'. L'inizio ed il termine della pratica devono risultare da attestazioni rilasciate dal direttore della farmacia presso la quale lo studente l'ha esercitata. Tali dichiarazioni devono essere redatte in carta bollata e debitamente legalizzate.
+Art. 513. - Gli insegnamenti della scuola sono i seguenti:
 
-Art. 193. - L'esame di laurea in farmacia consta di due parti:
+a) Fondamentali:
 
-a) l'esposizione e la discussione orale di un argomento sorteggiato dal candidato in precedenza avente per oggetto temi interdisciplinari di interesse generale, cosi' da poter valutare la cultura generale del candidato nonche' la sua capacita' di sintesi;
+Teoria e storia del restauro dei monumenti;
 
-b) la discussione di una dissertazione scritta, preferibilmente di carattere sperimentale, svolta personalmente dal candidato nell'ambito degli insegnamenti seguiti su argomento concordato dal candidato stesso con il professore della disciplina cui si riferisce.
+Urbanistica dei centri antichi;
 
-La dissertazione deve presentarsi in segreteria almeno quindici giorni prima dell'inizio degli esami di laurea, insieme al titolo dell'argomento della discussione orale.
+Consolidamento ed adattamento degli edifici;
 
-Art. 194. - I laureati in chimica sono ammessi al terzo anno.
+Restauro dei dipinti, affreschi e mosaici;
 
-I laureati in scienze biologiche, scienze naturali, in scienze agrarie, in medicina e chirurgia, in medicina veterinaria ed i diplomati in farmacia sono ammessi al secondo anno a meno che abbiano frequentato in tutto o in parte i corsi pluriennali ottenendo la relativa attestazione di frequenza.
+Nozioni giuridiche ed amministrative.
 
-Tanto i laureati che i diplomati di cui al comma precedente hanno l'obbligo di uniformarsi ai dettami contenuti nel presente statuto circa la frequenza e gli esami di profitto inerenti agli insegnamenti fondamentali e complementari prescritti per l'ammissione all'esame di laurea.
+b) Complementari:
+
+Storia dell'architettura;
+
+Storia dell'arte;
+
+Cantieristica;
+
+Estimo e contabilita' dei lavori.
+
+Le lezioni relative agli insegnamenti suddetti saranno integrate da conferenze svolte da specialisti, dei vari settori.
+
+Il consiglio potra' anche istituire altri corsi non compresi nel suddetto elenco.
+
+Art. 519. - Ciascun insegnamento fondamentale comporta un unico esame alla fine del biennio; a tali esami sono ammessi gli allievi che abbiano frequentato almeno due terzi delle lezioni di ciascun corso. La frequenza viene attestata da ciascun docente.
+
+Le commissioni giudicatrici sono composte da tre insegnanti della scuola e sono presiedute ciascuna dal docente della materia in esame.
+
+Gli esami hanno luogo in due sessioni, estiva ed autunnale.
+
+L'iscritto che ha superato tutti gli esami degli insegnamenti fondamentali e di almeno due complementari e' ammesso all'esame di diploma.
+
+L'allievo che non abbia sostenuto le prove di esame nel termine prescritto, potra' ottenere l'iscrizione fuori corso soltanto per un anno.
+
+L'esame di diploma si sostiene dinanzi al consiglio direttivo riunito in commissione, che in nessun caso dovra' essere costituita da meno di cinque professori.
+
+Il candidato deve presentare una dissertazione scritta, accompagnata da eventuali altri elaborati, su di un tema scelto dall'allievo, d'accordo con il docente della materia, e deve discuterla davanti alla commissione, nell'ambito di un colloquio che dimostri la sua adeguata preparazione nella specializzazione.
+
+I candidati non riconosciuti idonei potranno presentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola. Nel caso che essi anche al secondo esame di diploma non siano riconosciuti idonei, saranno senz'altro esclusi da ogni ulteriore, prova.
+
+Art. 520. - La scuola e' retta da un consiglio direttivo, composto dai professori che insegnano nella scuola stessa, i quali eleggono tra loro il direttore che lo presiede per un triennio ed e' rieleggibile. Il consiglio stabilisce l'ordinamento e l'indirizzo degli studi nonche' il numero delle lezioni per ogni singolo insegnamento.
+
+Art. 521. - Gli incarichi di insegnamento sono conferiti su proposta del consiglio della facolta' di architettura, approvata dal senato accademico ed al consiglio di amministrazione dell'Universita' di Napoli. Gli insegnanti possono essere scelti tra i professori di ruolo e fuori ruolo, tra i liberi docenti e anche tra specialisti italiani o stranieri, di chiara e riconosciuta competenza.
+
+Art. 522. - Gli iscritti alla scuola di perfezionamento sono tenuti a pagare le tasse, le soprattasse, la tassa di diploma, nonche' tutti gli altri contributi stabiliti per gli studenti iscritti alla facolta' di architettura dell'Universita' di Napoli.
+
+Essi sono tenuti, altresi', a pagare un contributo speciale nella misura che sara' determinata annualmente dal consiglio di amministrazione, su proposta del consiglio direttivo della scuola.
+
+La tassa di diploma e' fissata nella misura di L. 6000, ai sensi della [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 24 febbraio 1977
+Dato a Roma, addi' 14 maggio 1969
 
-LEONE
+SARAGAT
 
-MALFATTI
+FERRARI AGGRADI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GAVA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 8 novembre 1977 Registro n. 125 Istruzione, foglio n. 31
+alla Corte dei conti, addi' 18 luglio 1969 Atti del Governo, registro n. 228, foglio n. 40. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuito dall'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 189, relativo all'elenco degli insegnamenti complementari del corso di laurea in farmacia, e' abrogato e sostituito dal seguente:  
-Insegnamenti complementari:  
-Alla destra di ogni insegnamento e' indicato tra parentesi l'anno di corso a partire dal quale puo' essere sostenuto il relativo esame:  
-1) chimica fisica (II);  
-2) chimica bromatologica (III);  
-3) biochimica applicata (III);  
-4) fisiologia vegetale (I);  
-5) biologia e zoologia generale (I);  
-6) igiene (I);  
-7) mineralogia (I);  
-8) scienza dell'alimentazione (III);  
-9) chimica farmaceutica applicata (III);  
-10) istituzioni di matematica (I);  
-11) idrologia chimica (II);  
-12) analisi chimica-tossicologica (III);  
-13) farmacotecnica galenica (IV);  
-14) microbiologia farmaceutica (III);  
-15) saggi e dosaggi farmacologici (III);  
-16) fitofarmacia (III);  
-17) metodi fisici in chimica organica (III);  
-18) laboratorio di preparazione estrattiva e sintetica dei farmaci (IV);  
-19) impianti dell'industria farmaceutica (IV);  
-20) chimica e tecnologia dei prodotti dietetici (IV);  
-21) chimica e tecnologia dei prodotti cosmetici (IV);  
-22) tossicologia (III);  
-23) farmacognosia (II);  
-24) patologia generale (III);  
-25) chemioterapia (III);  
-26) farmacologia applicata (IV);  
-27) statistica e biometria (II);  
-28) chimica delle fermentazioni (III);  
-29) chimica dei composti eterociclici (III);  
-30) biologia molecolare (II);  
-31) enzimologia (III).  
-Gli articoli 190, 191, 192, 193 e 194 sono abrogati e sostituiti dai seguenti:  
-Art. 190. - Agli insegnamenti di analisi chimica-tossicologica, chimica biologica, chimica bromatologica, chimica farmaceutica applicata, farmacologia e farmacognosiafisiologia generale, igiene, laboratorio di preparazione estrattiva e sintetica dei farmaci, metodi fisici in chimica organica, saggi e dosaggi farmacologici, tecnica e legislazione farmaceutica sono annessi corsi di esercitazioni sperimentali.  
-Art. 191. - L'insegnamento biennale di chimica farmaceutica e tossicologica importa un esame al termine di ogni anno e quello triennale di esercitazioni di chimica farmaceutica e tossicologica importa ugualmente un esame al termine di ciascun anno di corso.  
-Gli studenti non possono essere iscritti al terzo corso di esercitazioni di chimica farmaceutica e tossicologica se non hanno superato l'esame di chimica organica.  
-Gli studenti non possono sostenere:  
-a) l'esame del primo corso di esercitazioni di chimica farmaceutica e tossicologica se non hanno superato l'esame di chimica generale ed inorganica;  
-b) gli esami del secondo e terzo corso di esercitazioni di chimica farmaceutica e tossicologica se non hanno superato l'esame di chimica organica e, rispettivamente, gli esami del primo corso e del secondo corso di esercitazioni di chimica farmaceutica e tossicologica;  
-c) l'esame di chimica organica se non hanno superato gli esami di chimica generale e inorganica e di fisica;  
-d) gli esami di chimica farmaceutica e tossicologica se non hanno superato l'esame di chimica organica;  
-e) l'esame di fisiologia generale se non hanno superato gli esami di anatomia umana e di chimica biologica;  
-f) l'esame di farmacologia e farmacognosia se non hanno superato l'esame di fisiologia generale;  
-g) l'esame di tecnica e legislazione farmaceutica se non hanno superato gli esami di chimica farmaceutica e tossicologica I e II.  
-Art. 192. - Per essere ammesso all'esame di laurea in farmacia lo studente, durante il quadriennio, deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in quattro complementari da lui scelti. Deve aver compiuto nel terzo o quarto anno un periodo semestrale di pratica presso una farmacia autorizzata il cui nominativo notifichera' all'inizio alla segreteria della facolta'. L'inizio ed il termine della pratica devono risultare da attestazioni rilasciate dal direttore della farmacia presso la quale lo studente l'ha esercitata. Tali dichiarazioni devono essere redatte in carta bollata e debitamente legalizzate.  
-Art. 193. - L'esame di laurea in farmacia consta di due parti:  
-a) l'esposizione e la discussione orale di un argomento sorteggiato dal candidato in precedenza avente per oggetto temi interdisciplinari di interesse generale, cosi' da poter valutare la cultura generale del candidato nonche' la sua capacita' di sintesi;  
-b) la discussione di una dissertazione scritta, preferibilmente di carattere sperimentale, svolta personalmente dal candidato nell'ambito degli insegnamenti seguiti su argomento concordato dal candidato stesso con il professore della disciplina cui si riferisce.  
-La dissertazione deve presentarsi in segreteria almeno quindici giorni prima dell'inizio degli esami di laurea, insieme al titolo dell'argomento della discussione orale.  
-Art. 194. - I laureati in chimica sono ammessi al terzo anno.  
-I laureati in scienze biologiche, scienze naturali, in scienze agrarie, in medicina e chirurgia, in medicina veterinaria ed i diplomati in farmacia sono ammessi al secondo anno a meno che abbiano frequentato in tutto o in parte i corsi pluriennali ottenendo la relativa attestazione di frequenza.  
-Tanto i laureati che i diplomati di cui al comma precedente hanno l'obbligo di uniformarsi ai dettami contenuti nel presente statuto circa la frequenza e gli esami di profitto inerenti agli insegnamenti fondamentali e complementari prescritti per l'ammissione all'esame di laurea.  
+Lo statuto dell'Universita' degli studi di Napoli approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 22. - Nell'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di "Diritto processuale costituzionale".  
+Art. 90. - Nell'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:  
+Topografia antica della Campania e della Magna Grecia;  
+Linguistica generale;  
+Storia della critica d'arte.  
+Art. 93. - Nell'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti quelli di:  
+Psicologia dell'eta' evolutiva;  
+Psicologia sociale.  
+Art. 98. - Nell'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne e' aggiunto quello di "Linguistica generale e storia della critica d'arte".  
+Art. 102. - Nell'elenco degli istituti annessi alla facolta' di lettere e filosofia e' aggiunto quello di "Istituto di psicologia".  
+Art. 204, relativo agli istituti annessi alla facolta' di Ingegneria e' modificato nel senso che gli istituti di chimica industriale e di impianti chimici mutano denominazione in quelli di:  
+Istituto di chimica industriale ed impianti chimici;  
+Istituto di chimica applicata.  
+Dopo l'art. 323 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi, alla istituzione del corso di perfezionamento in diritto ecclesiastico e canonico annesso alla facolta' di giurisprudenza.  
+  
+Corso di perfezionamento in diritto ecclesiastico e canonico  
+  
+Art. 324. - E' istituito presso la facolta' di giurisprudenza il corso di perfezionamento in diritto ecclesiastico e in diritto canonico.  
+Art. 325. - Al corso possono essere ammessi i laureati in giurisprudenza ed in scienze politiche.  
+Art. 326. - Il corso degli studi ha la durata di due anni, al termine del quale viene rilasciato un diploma di perfezionamento in diritto ecclesiastico e in diritto canonico.  
+Art. 327. - La direzione del corso e' affidata al titolare designato dai professori ufficiali delle materie corrispondenti alle cattedre dell'istituto di diritto ecclesiastico e diritto canonico.  
+Art. 328. - Nel corso vengono impartiti i seguenti insegnamenti a carattere prevalentemente monografico:  
+a) Fonti del diritto ecclesiastico (prospetto storico e assetto vigente);  
+b) Organi dell'amministrazione ecclesiastica;  
+c) Problematica degli enti ecclesiastici;  
+d) Amministrazione del patrimonio ecclesiastico;  
+e) Casi controversi del matrimonio religioso;  
+f) Storia del diritto canonico (fonti ed istituti);  
+g) Esegesi ed interpretazione delle fonti;  
+h) Diritto costituzionale della Chiesa;  
+i) La Chiesa e le comunita' politiche (storia e dottrine canonistiche sui rapporti tra Chiesa e Stato);  
+l) L'ordinamento patrimoniale della Chiesa;  
+m) Diritto processuale canonico;  
+n) Diritto penale e canonico.  
+Art. 329. - Il richiedente l'ammissione al corso dovra' proporsi un proprio piano biennale di studi redatto conformemente alle proprie finalita' e nei limiti degli insegnamenti sopraindicati, il quale sia stato approvato dal collegio dei professori ufficiali delle materie corrispondenti alle cattedre dell'istituto.  
+Art. 330. - La frequenza biennale del corso di perfezionamento, il superamento di un colloquio finale di cultura generale e la discussione di una tesi scritta su argomento assegnato dai docenti daranno diritto al rilascio di un diploma di perfezionamento.  
+La tesi deve mirare a risolvere o a contribuire a risolvere, con contributi personali, una questione di rilevante interesse relativo ad uno dei campi di insegnamento.  
+Art. 331. - Gli iscritti al corso sono tenuti a pagare le tasse, soprattasse e contributi, secondo quanto stabilito per gli studenti della facolta' di giurisprudenza, nonche' le tasse di diploma.  
+Art. 347, relativo alla scuola di perfezionamento in storia dell'arte medioevale e moderna, e' cosi' modificato:  
+E' titolo necessario per l'ammissione alla scuola di perfezionamento la laurea in lettere o in lingue e letterature straniere moderne (indirizzo europeo)".  
+Art. 348. - Nell'elenco della scuola di perfezionamento in storia dell'arte medioevale e moderna l'insegnamento di "Estetica e critica d'arte" muta denominazione in quella di "Storia della critica d'arte".  
+Dopo l'art. 514 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di perfezionamento in restauro dei monumenti annessa alla facolta' di architettura.  
+  
+Scuola di perfezionamento in restauro dei monumenti  
+  
+Art. 515. - E' istituita, presso la facolta' di architettura, la scuola di perfezionamento in restauro dei monumenti, con lo scopo di incrementare la preparazione storico-artistica e tecnica dei professionisti, impegnati nell'attivita' di restauro e di tutela dei monumenti e nella pianificazione urbanistica dei centri antichi.  
+In particolare, la scuola si propone anche di preparare gli architetti alle funzioni tecniche e scientifiche che vengono svolte presso la soprintendenza ai monumenti.  
+Art. 516. - La scuola svolge un corso di insegnamento della durata di due anni e rilascia un diploma di perfezionamento in restauro dei monumenti.  
+Art. 517. - Sono ammessi alla scuola i laureati in architettura ed ingegneria civile (sezione edile). Il numero massimo degli iscritti e' di 50 per ogni anno di corso.  
+Delle accettazioni delle domande giudica anno per anno il consiglio direttivo della scuola su proposta del direttore.  
+Art. 513. - Gli insegnamenti della scuola sono i seguenti:  
+a) Fondamentali:  
+Teoria e storia del restauro dei monumenti;  
+Urbanistica dei centri antichi;  
+Consolidamento ed adattamento degli edifici;  
+Restauro dei dipinti, affreschi e mosaici;  
+Nozioni giuridiche ed amministrative.  
+b) Complementari:  
+Storia dell'architettura;  
+Storia dell'arte;  
+Cantieristica;  
+Estimo e contabilita' dei lavori.  
+Le lezioni relative agli insegnamenti suddetti saranno integrate da conferenze svolte da specialisti, dei vari settori.  
+Il consiglio potra' anche istituire altri corsi non compresi nel suddetto elenco.  
+Art. 519. - Ciascun insegnamento fondamentale comporta un unico esame alla fine del biennio; a tali esami sono ammessi gli allievi che abbiano frequentato almeno due terzi delle lezioni di ciascun corso. La frequenza viene attestata da ciascun docente.  
+Le commissioni giudicatrici sono composte da tre insegnanti della scuola e sono presiedute ciascuna dal docente della materia in esame.  
+Gli esami hanno luogo in due sessioni, estiva ed autunnale.  
+L'iscritto che ha superato tutti gli esami degli insegnamenti fondamentali e di almeno due complementari e' ammesso all'esame di diploma.  
+L'allievo che non abbia sostenuto le prove di esame nel termine prescritto, potra' ottenere l'iscrizione fuori corso soltanto per un anno.  
+L'esame di diploma si sostiene dinanzi al consiglio direttivo riunito in commissione, che in nessun caso dovra' essere costituita da meno di cinque professori.  
+Il candidato deve presentare una dissertazione scritta, accompagnata da eventuali altri elaborati, su di un tema scelto dall'allievo, d'accordo con il docente della materia, e deve discuterla davanti alla commissione, nell'ambito di un colloquio che dimostri la sua adeguata preparazione nella specializzazione.  
+I candidati non riconosciuti idonei potranno presentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola. Nel caso che essi anche al secondo esame di diploma non siano riconosciuti idonei, saranno senz'altro esclusi da ogni ulteriore, prova.  
+Art. 520. - La scuola e' retta da un consiglio direttivo, composto dai professori che insegnano nella scuola stessa, i quali eleggono tra loro il direttore che lo presiede per un triennio ed e' rieleggibile. Il consiglio stabilisce l'ordinamento e l'indirizzo degli studi nonche' il numero delle lezioni per ogni singolo insegnamento.  
+Art. 521. - Gli incarichi di insegnamento sono conferiti su proposta del consiglio della facolta' di architettura, approvata dal senato accademico ed al consiglio di amministrazione dell'Universita' di Napoli. Gli insegnanti possono essere scelti tra i professori di ruolo e fuori ruolo, tra i liberi docenti e anche tra specialisti italiani o stranieri, di chiara e riconosciuta competenza.  
+Art. 522. - Gli iscritti alla scuola di perfezionamento sono tenuti a pagare le tasse, le soprattasse, la tassa di diploma, nonche' tutti gli altri contributi stabiliti per gli studenti iscritti alla facolta' di architettura dell'Universita' di Napoli.  
+Essi sono tenuti, altresi', a pagare un contributo speciale nella misura che sara' determinata annualmente dal consiglio di amministrazione, su proposta del consiglio direttivo della scuola.  
+La tassa di diploma e' fissata nella misura di L. 6000, ai sensi della [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 febbraio 1977
+### Dato a Roma, addi' 14 maggio 1969
 
-LEONE MALFATTI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 8 novembre 1977
+Registrato alla Corte dei conti, addi' 18 luglio 1969
 
-Registro n. 125 Istruzione, foglio n. 31
+Atti del Governo, registro n. 228, foglio n. 40. - CARUSO

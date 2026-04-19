@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 gennaio 1963 n. 425
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 febbraio 1955 n. 124
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 gennaio 1963 n. 425
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 febbraio 1955 n. 124
+===============================================================
 
 Modificazioni allo statuto dell'Istituto universitario di magistero "G. Cuomo" di Salerno.
 ------------------------------------------------------------------------------------------
@@ -13,37 +13,35 @@ Art. 1
  IL PRESIDENTE DELLA REPUBBLICA  
   
 Veduto lo statuto dell'Istituto universitario di magistero "G.  
-Cuomo" di Salerno, approvato con [decreto del Presidente della Repubblica 9 ottobre 1951, n. 1300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-09;1300), e modificato con [decreto del Presidente della Repubblica 2 aprile 1957, n. 481](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-04-02;481) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Cuomo" di Salerno, approvato con [decreto del Presidente della Repubblica 9 ottobre 1951, n. 1300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-09;1300);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1993, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1993-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'istituto anzidetto;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Veduta la proposta di modifica allo statuto formulata dall'Istituto anzidetto;  
+Riconosciuta la particolare necessita' di approvare la nuova modifica proposta;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Istituto universitario di magistero "G. Cuomo" di Salerno, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 23. - Agli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti: "storia delle dottrine politiche", "Storia contemporanea", "Sociologia", "Antropologia culturale", "Filosofia della storia", "Diritto scolastico italiano e comparato", "Letteratura cristiana antica" e "Civilta' greca".  
-Agli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti: "Storia delle dottrine politiche", "Storia Contemporanea", "Sociologia", "Antropologia culturale", "Filosofia della storia", "Diritto scolastico italiano e comparato", "Letteratura cristiana antica" e "Civilta', greca".  
-Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti: "Storia delle dottrine politiche", "Storia contemporanea", "Sociologia", "Antropologia culturale", "Filosofia della storia", "Diritto scolastico italiano e comparato", "Letteratura cristiana antica" e "Civilta' greca".  
-L'art. 101 e' abrogato e sostituito dal seguente:  
-"Tutti i pagamenti si effettuano mediante mandati che debbono essere firmati dal presidente del Consiglio di amministrazione, dal direttore amministrativo e dal ragioniere. Il presidente puo' delegare la sua firma ad altro componente il Consiglio di amministrazione.  
-Ogni mandato di pagamento deve essere emesso in base al documento giustificativo della spesa, munito del visto del presidente del Consiglio di amministrazione dell'istituto e della firma, per accettazione, di chi ha odiato la spesa.  
-Tutti i mandati di pagamento con allegati i documenti giustificativi, debbono essere uniti all'originale del rendiconto consuntivo".  
+Lo statuto dell'Istituto universitario di magistero "G. Cuomo" di Salerno, approvato con il decreto sopraindicato, e' modificato come appresso:  
+Art. 23. - Agli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:  
+6) Storia della grammatica e della lingua italiana;  
+7) Storia del Risorgimento.  
+Agli insegnamenti complementari del corso di laurea in pedagogia e' aggiunto quello di:  
+6) Storia del Risorgimento.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Sassari, addi' 31 gennaio 1963
+### Dato a Roma, addi' 4 febbraio 1955
 
-SEGNI GUI
+EINAUDI ERMINI
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: DE PIETRO
 
-Registrato alla Corte dei conti, addi' 2 aprile 1963
+Registrato alla Corte dei conti, addi' 28 marzo 1955
 
-Atti del Governo, registro n. 167, foglio n. 67. - VILLA
+Atti del Governo, registro n. 89, foglio n. 189. - CARLOMAGNO

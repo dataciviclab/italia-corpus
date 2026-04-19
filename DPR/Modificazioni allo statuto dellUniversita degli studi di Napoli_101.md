@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 962
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1972 n. 384
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 962
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1972 n. 384
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090) e modificato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,121 +18,190 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto l'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio universitario nazionale nel suo parere;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sulla proposta del Ministro per la pubblica istruzione;
 
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Decreta:
 
-Sulla
------
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Art. 90: all'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:
 
-Articolo unico
---------------
+Filologia greca;
 
+Filologia semitica;
+
+Filologia latina;
+
+Didattica linguistica.
+
+Art. 93: all'elenco degli insegnamenti complementari del corso di laurea in filosofia e aggiunto quello di:
+
+Storia della pedagogia.
+
+Art. 102: all'elenco degli istituti annessi alla facolta'.
+
+di lettere e filosofia e' aggiunto quello di:
+
+Istituto di storia del Risorgimento e dell'eta' contemporanea.
+
+Art. 116: all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di:
+
+Chirurgia del cuore e dei grossi vasi;
+
+Chirurgia toraco-polmonare.
+
+Art. 132: all'elenco degli insegnamenti complementari del corso di laurea in chimica (indirizzo organico-biologico ed inorganico chimico-fisico) sono aggiunti i seguenti:
+
+Calcolo numerico (corso speciale per chimici e chimici industriali);
+
+Metodi matematici per la chimica.
+
+Dallo stesso elenco nel corso di laurea in chimica (indirizzo inorganico-chimico-fisico) e' soppresso l'insegnamento complementare di "Complementi di matematica".
+
+Art. 135: all'elenco degli insegnamenti complementari del corso di laurea in chimica industriale sono aggiunti i seguenti:
+
+Calcolo numerico (corso speciale per chimici e chimici industriali);
+
+Metodi matematici per la chimica.
+
+Art. 152, relativo al corso di laurea in scienze naturali, e' modificato nel senso che il quarto comma e' abrogato e sostituito dal seguente:
+
+"Gli insegnamenti di botanica (biennale), fisiologia generale (biennale), zoologia (biennale) comportano ognuno due esami distinti alla fine di ciascun anno di corso".
+
+Art. 156: all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto il seguente:
+
+Biochimica clinica.
+
+Nello stesso articolo il quarto comma e' abrogato e sostituito dal seguente:
+
+"Gli insegnamenti di botanica (biennale), fisiologia generale (biennale), zoologia (biennale) comportano ognuno due esami distinti alla fine di ciascun anno di corso".
+
+Art. 160 relativo al corso di laurea in scienze geologiche, e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente:
+
+"Gli esami di istituzioni di matematiche, di chimica generale ed inorganica con elementi di organica, di fisica sperimentale I sono da considerarsi propedeutici rispetto a tutti quelli del 3° e 4° anno, solo ai fini della successione degli stessi.
+
+Art. 163: l'elenco degli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali, e' modificato nel senso che vengono soppressi i seguenti:
+
+Istituto di fisica terrestre, con annesso osservatorio geofisico;
+
+Istituto di geologia, con annesso museo e al loro posto viene istituito il seguente:
+
+Istituto di geologia e geofisica; con annessi museo geologico e osservatorio geofisico.
+
+Art. 244: dall'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono soppressi i seguenti:
+
+Organizzazione comparata dei servizi zootecnici della C.E.E. (semestrale);
+
+Zootecnica tropicale e subtropicale (semestrale).
+
+Nello stesso elenco sono aggiunti i seguenti insegnamenti complementari:
+
+Propagazione delle piante legnose e tecnica vivaistica;
+
+Fisiopatologia delle produzioni animali;
+
+Idrobiologia e pescicoltura (semestrale);
+
+Psicologia e sociologia animale;
+
+Tecnologia delle produzioni animali.
+
+Nello stesso elenco la denominazione dell'insegnamento complementare di "Fisiologia e tecnica della riproduzione (semestrale)" viene modificata in quella di "Fisiologia e tecnica della riproduzione animale (semestrale)".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 7 giugno 1972
+
+LEONE
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 25 luglio 1972 Atti del Governo, registro n. 250, foglio n. 79. - CARUSO
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Lo statuto dell'Universita' di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Decreta:  
   
-Dopo l'art. 623, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in tossicologia forense presso la prima facolta' di medicina e chirurgia.   
-Scuola di specializzazione in tossicologia forense   
-Art. 624. - E' istituita presso l'istituto di medicina legale e delle assicurazioni della prima facolta' di medicina e chirurgia dell'Universita' di Napoli la scuola di specializzazione in tossicologia forense.   
-La scuola si propone lo scopo di mettere a disposizione di coloro che per diversi aspetti gia' si dedicano a questa disciplina uno strumento tecnico adeguato alle sempre piu' numerose e diversificate richieste di intervento nell'ambito della tossicologia.   
-La scuola di specializzazione rilascia i seguenti diplomi:   
-a) specialista in tossicologia forense con indirizzo medico;   
-b) specialista in tossicologia forense con indirizzo chimico.   
-Art. 625. - La durata della scuola e' di quattro anni.   
-Sono ammessi a frequentare detta scuola i laureati in medicina e chirurgia, in farmacia, in chimica e tecnologia farmaceutiche, in chimica, in scienze delle preparazioni alimentari, in scienze biologiche.   
-Il numero degli iscritti e' di venti, distribuiti per non oltre cinque iscritti per ogni anno. Nel caso di eccedenza di domande la selezione tra i richiedenti sara' attuata attraverso concorso interno basato su titoli e su prove d'esame.   
-Al momento dell'iscrizione al quarto anno i candidati saranno ripartiti a seconda del rispettivo indirizzo, essendo l'indirizzo medico esclusivamente riservato ai laureati in medicina e chirurgia e l'indirizzo chimico ai laureati in medicina e chirurgia, in farmacia, in chimica e tecnologia farmaceutiche, in chimica, in scienze delle preparazioni alimentari, in scienze biologiche.   
-Art. 626. - Le materie d'insegnamento sono:   
-1° Anno:   
-tossicologia forense;   
-medicina legale generale;   
-fondamenti di farmacologia;   
-principi di tossicologia generale;   
-elementi di chimica biologica;   
-elementi di fisiopatologia da agenti tossici chimici;   
-prelevamento e conservazione di reperti giudiziari;   
-legislazione in campo tossicologico;   
-elementi di diritto e di procedura penale;   
-struttura, organizzazione e funzioni del laboratorio chimico-tossicologico.   
-2° Anno:   
-tossicologia forense speciale I;   
-farmacocinetica;   
-principi di chimica farmaceutica;   
-biochimica molecolare;   
-elementi di farmacognosia e di micologia;   
-tecniche analitiche di base, attrezzatura e strumentazione del laboratorio chimico-tossicologico;   
-analisi tossicologiche I;   
-diagnosi di ubriachezza negli aspetti teorici, pratici e legislativi;   
-elementi di statistica;   
-controllo di qualita'.   
-3° Anno:   
-tossicologia forense speciale II;   
-analisi tossicologiche II;   
-tossicologia dell'ambiente e del lavoro;   
-tossicologia degli alimenti;   
-chimica bromatologica;   
-tossicologia delle sostanze dell'abuso;   
-elementi di tossicologia veterinaria;   
-analisi merceologiche;   
-microbiologia applicata alla tossicologia;   
-controllo di preparazioni farmaceutiche;   
-protezione e sicurezza nel laboratorio;   
-principi di analisi in tracce.   
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 90: all'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
+Filologia greca;  
+Filologia semitica;  
+Filologia latina;  
+Didattica linguistica.  
+Art. 93: all'elenco degli insegnamenti complementari del corso di laurea in filosofia e aggiunto quello di:  
+Storia della pedagogia.  
+Art. 102: all'elenco degli istituti annessi alla facolta'.  
+di lettere e filosofia e' aggiunto quello di:  
   
+Istituto di storia del Risorgimento e dell'eta' contemporanea.  
   
-INDIRIZZO MEDICO   
-  
-4° Anno:   
-diagnosi medico-legale di avvelenamento;   
-effetti tossici a lungo termine;   
-anatomia patologica in tossicologia;   
-clinica tossicologica e terapia;   
-diagnostica chimico-tossicologica d'urgenza;   
-patologia della terapia e responsabilita' professionale;   
-elementi di radioprotezione;   
-deontologia, legislazione sanitaria e aggiornamenti in tema di normativa.   
-  
-  
-INDIRIZZO CHIMICO   
-  
-4° Anno:   
-analisi inorganica e organica in tracce;   
-cromatografia;   
-spettroscopia;   
-tecniche immunologiche ed enzimatiche;   
-saggi e dosaggi biologici;   
-tecniche istochimiche applicate alla tossicologia;   
-metodi radiochimici ed elementi di radioprotezione;   
-automatizzazione e elementi di informatica.   
-  
-Esercitazioni pratiche affiancheranno gli insegnamenti indicati.   
-Art. 627. - La frequenza alle lezioni e alle esercitazioni e' obbligatoria; e' altresi' prevista la frequenza obbligatoria ai fini di apprendimento presso i laboratori di tossicologia dell'istituto di medicina legale (cattedra R) per l'intera durata dell'anno accademico.   
-Alla fine di ogni anno gli specializzandi che abbiano ottenuto la firma di frequenza dovranno sostenere un esame di profitto nelle materie d'insegnamento annuali.   
-L'esame di diploma consiste nella discussione di una dissertazione scritta e in una prova pratica su argomenti di tossicologia forense approvati dalla direzione della scuola.   
-Art. 628. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima. Insegnamenti potranno essere impartiti da specialisti di altre Universita' e di istituzioni non universitarie.   
-Art. 629. - La scuola dispone delle attrezzature, delle biblioteche, del materiale e delle altre opportunita' didattiche messe a disposizione dell'istituto di medicina legale e delle assicurazioni. E' previsto altresi' l'utilizzo di sedi esterne, universitarie e non, per lezioni specialistiche ed esercitazioni.   
+Art. 116: all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di:  
+Chirurgia del cuore e dei grossi vasi;  
+Chirurgia toraco-polmonare.  
+Art. 132: all'elenco degli insegnamenti complementari del corso di laurea in chimica (indirizzo organico-biologico ed inorganico chimico-fisico) sono aggiunti i seguenti:  
+Calcolo numerico (corso speciale per chimici e chimici industriali);  
+Metodi matematici per la chimica.  
+Dallo stesso elenco nel corso di laurea in chimica (indirizzo inorganico-chimico-fisico) e' soppresso l'insegnamento complementare di "Complementi di matematica".  
+Art. 135: all'elenco degli insegnamenti complementari del corso di laurea in chimica industriale sono aggiunti i seguenti:  
+Calcolo numerico (corso speciale per chimici e chimici industriali);  
+Metodi matematici per la chimica.  
+Art. 152, relativo al corso di laurea in scienze naturali, e' modificato nel senso che il quarto comma e' abrogato e sostituito dal seguente:  
+"Gli insegnamenti di botanica (biennale), fisiologia generale (biennale), zoologia (biennale) comportano ognuno due esami distinti alla fine di ciascun anno di corso".  
+Art. 156: all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto il seguente:  
+Biochimica clinica.  
+Nello stesso articolo il quarto comma e' abrogato e sostituito dal seguente:  
+"Gli insegnamenti di botanica (biennale), fisiologia generale (biennale), zoologia (biennale) comportano ognuno due esami distinti alla fine di ciascun anno di corso".  
+Art. 160 relativo al corso di laurea in scienze geologiche, e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente:  
+"Gli esami di istituzioni di matematiche, di chimica generale ed inorganica con elementi di organica, di fisica sperimentale I sono da considerarsi propedeutici rispetto a tutti quelli del 3° e 4° anno, solo ai fini della successione degli stessi.  
+Art. 163: l'elenco degli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali, e' modificato nel senso che vengono soppressi i seguenti:  
+Istituto di fisica terrestre, con annesso osservatorio geofisico;  
+Istituto di geologia, con annesso museo e al loro posto viene istituito il seguente:  
+Istituto di geologia e geofisica; con annessi museo geologico e osservatorio geofisico.  
+Art. 244: dall'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono soppressi i seguenti:  
+Organizzazione comparata dei servizi zootecnici della C.E.E. (semestrale);  
+Zootecnica tropicale e subtropicale (semestrale).  
+Nello stesso elenco sono aggiunti i seguenti insegnamenti complementari:  
+Propagazione delle piante legnose e tecnica vivaistica;  
+Fisiopatologia delle produzioni animali;  
+Idrobiologia e pescicoltura (semestrale);  
+Psicologia e sociologia animale;  
+Tecnologia delle produzioni animali.  
+Nello stesso elenco la denominazione dell'insegnamento complementare di "Fisiologia e tecnica della riproduzione (semestrale)" viene modificata in quella di "Fisiologia e tecnica della riproduzione animale (semestrale)".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 7 giugno 1972
 
-PERTINI BODRATO
+LEONE
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 9 febbraio 1982
+Registrato alla Corte dei conti, addi' 25 luglio 1972
 
-Registro n. 20 Istruzione, foglio n. 173
+Atti del Governo, registro n. 250, foglio n. 79. - CARUSO

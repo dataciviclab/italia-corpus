@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 agosto 1953 n. 1140
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1950 n. 273
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 agosto 1953 n. 1140
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1950 n. 273
+============================================================
 
 Autorizzazione alla Cassa scolastica della Scuola tecnica commerciale "T. Catullo" di Belluno ad accettare una donazione.
 -------------------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1140. Decreto del Presidente della Repubblica 25 agosto 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola tecnica commerciale con annessa scuola di avviamento professionale a tipo commerciale "T. Catullo" di Belluno, viene autorizzata ad accettare la donazione di nominali L. 25.000 in titoli di Stato, per istituire, col relativo reddito, un annuo premio di studio intitolato al nome di "Frescura Renato".  
+273. Decreto del Presidente della Repubblica 13 marzo 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola tecnica commerciale "T. Catullo" di Belluno, viene autorizzata ad accettare la donazione di nominali L. 24.000 in titoli di Stato, fatta dalla famiglia Praloran allo scopo di istituire un premio di studio intitolato al nome del prof. ing.  
+Francesco Praloran.  
   
-Visto, il Guardasigilli: AZARA  
-Registrato alla Carte dei conti, addi' 26 marzo 1954  
-Atti del Governo, registro n. 82, foglio n. 68. - CARLOMAGNO
+Visto, il Guardasigilli: PICCIONI  
+Registrato alla Corte dei conti, addi' 25 maggio 1950

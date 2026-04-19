@@ -1,255 +1,271 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1958 n. 900
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 999
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1958 n. 900
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 999
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successivi;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Dopo l'art. 149, relativo alla Facolta' di scienze matematiche, fisiche e naturali, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, concernenti lo Istituto di fisica teorica.
-
-Istituto di fisica teorica
-
-Art. 150. - E' costituito presso la Facolta' di scienze matematiche, fisiche e naturali della Universita' di Napoli l'Istituto di fisica teorica.
-
-L'Istituto di fisica teorica ha lo scopo di promuovere e coordinare l'insegnamento e la ricerca nei campi delle discipline fondamentali che costituiscono la fisica teorica.
-
-Art. 151. - L'Istituto e' diretto dal professore di ruolo, ed in caso di vacanza da persona designata dalla Facolta' di scienze.
-
-Art. 152. - Possono essere addetti all'Istituto assistenti appartenenti ai ruoli universitari, ed inoltre assistenti straordinari e volontari.
-
-Art. 153. - E' facolta' del direttore di rilasciare a chi frequenta l'Istituto per almeno sei mesi un attestato degli studi compiuti e dei risultati raggiunti nelle ricerche.
-
-Art. 154. - L'Istituto potra' eventualmente disporre, secondo modalita' stabilite dal direttore ed intese ad assicurare il raggiungimento delle finalita' nel modo piu' idoneo, di fondi per la ricerca e di borse di studio provenienti da enti pubblici e privati italiani o stranieri.
-
-Dopo l'art. 368, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della scuola di perfezionamento in fisica teorica e nucleare.
-
-FACOLTA' DI SCIENZE MATEMATICHE, FISICHE E NATURALI
-
-Scuola di perfezionamento in fisica teorica e nucleare
-
-Art. 369. - La scuola di perfezionamento in fisica teorica e nucleare istituita presso l'istituto di fisica teorica dell'Universita' di Napoli ha fine scientifico e rilascia il diploma di perfezionamento in fisica teorica e nucleare. Il corso degli studi ha la durata di due anni. Non sono consentite abbreviazioni di corso.
-
-Art. 370. - La scuola e' retta da un direttore assistito da un Consiglio; il direttore e' il direttore dello Istituto di fisica teorica dell'Universita', il Consiglio della scuola e' costituito da tutti gli insegnanti della scuola ed e' presieduto dal direttore.
-
-Gli insegnanti della scuola sono proposti dal direttore che puo' scegliere tra i professori di ruolo, tra i liberi docenti, tra gli assistenti o anche tra persone di riconosciuta competenza nella specialita'; tali proposte sono approvate dal Consiglio della Facolta' di scienze matematiche, fisiche e naturali.
-
-Art. 371. - Alla scuola di perfezionamento in fisica teorica e nucleare vengono ammessi soltanto i laureati in fisica, scienze matematiche, matematica e fisica, chimica ed ingegneria.
-
-E' data facolta' al direttore di stabilire, prima dello inizio di ogni anno accademico, un numero massimo di iscrizioni, oltre al quale potranno non essere accolte le domande eccedenti.
-
-Quando gli iscritti siano in numero molto limitato gli insegnamenti possono non avere carattere cattedratico ed essere svolti in quella diversa forma che e' consentita dall'indole di ciascuna disciplina.
-
-Art. 372. - La sorveglianza agli iscritti per tutto quanto riguarda la loro attivita' spetta al direttore della scuola, che a questo scopo sara' coadiuvato da un segretario nominato dal Consiglio della scuola di anno in anno.
-
-La frequenza ai singoli insegnamenti e' obbligatoria e dev'essere attestata dai rispettivi insegnanti.
-
-Art. 373. - Le Commissioni per gli esami di profitto sono formate dal professore della materia e da due altri insegnanti della scuola.
-
-Art. 374. - La Commissione per l'esame di diploma e' formata da cinque membri scelti dal direttore tra gli insegnanti della scuola stessa o cultori della materia: l'esame di diploma consistera' in un esame di cultura generale sugli insegnamenti della scuola e di una discussione sopra una dissertazione originale scritta.
-
-Art. 375. - I candidati non riconosciuti idonei potranno presentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola.
-
-Nel caso che anche alla seconda prova di esame di diploma non siano riconosciuti idonei, saranno senza altro esclusi da ogni ulteriore prova.
-
-Art. 376. - Gli insegnamenti impartiti dalla scuola sono:
-
-Corsi fondamentali:
-
-1) Meccanica analitica e relativistica;
-
-2) Meccanica quantistica;
-
-3) Fisica nucleare;
-
-4) Complementi di matematica (biennale);
-
-5) Teoria dei campi;
-
-6) Teoria delle reazioni nucleari.
-
-Corsi complementari:
-
-1) Fisica statistica;
-
-2) Particelle fondamentali;
-
-3) Teoria dei gruppi in fisica quantistica;
-
-4) Istituzioni di cibernetica.
-
-Corsi su argomenti monografici.
-
-Art. 377. - Gli iscritti alla scuola devono frequentare e sostenere l'esame delle sei materie fondamentali e di almeno due corsi complementari a scelta.
-
-L'ordine degli studi e' il seguente:
-
-Primo anno:
-
-1) Meccanica analitica e relativistica;
-
-2) Meccanica quantistica;
-
-3) Fisica nucleare;
-
-4) Complementi di matematica I.
-
-Corsi monografici.
-
-Secondo anno:
-
-1) Teoria dei campi;
-
-2) Teoria delle reazioni nucleari;
-
-3) Complementi di matematica II;
-
-4) Fisica statistica;
-
-5) Teoria dei gruppi in fisica quantistica;
-
-6) Particelle fondamentali;
-
-7) Istituzioni di cibernetica.
-
-Corsi monografici.
-
-Per adire al secondo anno gli iscritti alla scuola dovranno aver superato gli esami relativi agli insegnamenti del primo anno; per adire agli esami di diploma devono aver superato gli esami previsti dall'ordine degli studi ed una prova di cultura generale.
-
-Art. 378. - Presso la scuola di perfezionamento in fisica teorica e nucleare sara' istituito, a completamento degli insegnamenti, un seminario di fisica teorica e nucleare.
-
-Art. 379. - Gli iscritti alla scuola di perfezionamento sono tenuti a pagare le medesime tasse, soprattasse e contributi generali stabiliti dalle vigenti disposizioni di legge per gli studenti della Facolta'.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 18 giugno 1958
-
-GRONCHI
-
-MORO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 13 settembre 1958 Atti del Governo, registro n. 114, foglio n. 37. - RELLEVA
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successivi;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 546, 547 e 548, riguardanti la scuola di specializzazione in gerontologia e geriatria della prima facolta' di medicina e chirurgia che muta la denominazione in quella di scuola di specializzazione in geriatria e gerontologia, sono soppressi e sostituiti dai seguenti:  
   
-Dopo l'art. 149, relativo alla Facolta' di scienze matematiche, fisiche e naturali, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, concernenti lo Istituto di fisica teorica.   
+Scuola di specializzazione in geriatria e gerontologia  
   
-Istituto di fisica teorica   
+Art. 546. - La scuola di specializzazione in geriatria e gerontologia ha sede presso l'istituto di gerontologia e geriatria della prima facolta' di medicina e chirurgia dell'Universita' di Napoli e conferisce il diploma di specialista in geriatria e gerontologia.  
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
+Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami.  
+Art. 547. - Le materie d'insegnamento sono 19 seguenti:  
+1° Anno:  
+farmacologia;  
+principi e tecniche della riabilitazione nella patologia dell'apparato locomotore;  
+anatomia e istologia patologica I;  
+biologia della senescenza I;  
+fisiopatologia I;  
+geriatria sociale I;  
+semeiotica I;  
+principi e tecniche di materie specialistiche in geriatria I.  
+2° Anno:  
+principi e tecniche della riabilitazione cardiovascolare e respiratoria;  
+anatomia e istologia patologica II;  
+biologia della senescenza II;  
+fisiopatologia II;  
+geriatria sociale II;  
+semeiotica II;  
+radiologia e radioterapia I;  
+principi e tecniche di materie specialistiche in geriatria II. 3° Anno:  
+neurologia;  
+principi e tecniche della riabilitazione neurologica;  
+psicologia;  
+radiologia e radioterapia II;  
+principi e tecniche di materie specialistiche in geriatria III; clinica geriatrica I;  
+terapia medica I;  
+pratica geriatrica extraospedaliera I.  
+4° Anno:  
+chirurgia geriatrica;  
+formazione degli operatori geriatrici;  
+principi e tecniche della riabilitazione nel campo delle funzioni cerebrali superiori;  
+principi e tecniche di riattivazione, terapia occupazionale, geragogia;  
+psicogeriatria;  
+clinica geriatrica II;  
+terapia medica II;  
+pratica geriatrica extraospedaliera II  
+Art. 548. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.  
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in geriatria e gerontologia dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+Gli articoli 554, 555, 556 e 557, concernenti la scuola di specializzazione in nefrologia medica della prima facolta' di medicina e chirurgia che muta la denominazione di quella di scuola di specializzazione in nefrologia, sono soppressi e sostituiti dai seguenti:  
   
-Art. 150. - E' costituito presso la Facolta' di scienze matematiche, fisiche e naturali della Universita' di Napoli l'Istituto di fisica teorica.   
-L'Istituto di fisica teorica ha lo scopo di promuovere e coordinare l'insegnamento e la ricerca nei campi delle discipline fondamentali che costituiscono la fisica teorica.   
-Art. 151. - L'Istituto e' diretto dal professore di ruolo, ed in caso di vacanza da persona designata dalla Facolta' di scienze.   
-Art. 152. - Possono essere addetti all'Istituto assistenti appartenenti ai ruoli universitari, ed inoltre assistenti straordinari e volontari.   
-Art. 153. - E' facolta' del direttore di rilasciare a chi frequenta l'Istituto per almeno sei mesi un attestato degli studi compiuti e dei risultati raggiunti nelle ricerche.   
-Art. 154. - L'Istituto potra' eventualmente disporre, secondo modalita' stabilite dal direttore ed intese ad assicurare il raggiungimento delle finalita' nel modo piu' idoneo, di fondi per la ricerca e di borse di studio provenienti da enti pubblici e privati italiani o stranieri.   
-Dopo l'art. 368, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della scuola di perfezionamento in fisica teorica e nucleare.   
+Scuola di specializzazione in nefrologia  
   
-FACOLTA' DI SCIENZE MATEMATICHE, FISICHE E NATURALI   
+Art. 554. - La scuola di specializzazione in nefrologia ha sede presso la cattedra di nefrologia medica della prima facolta' di medicina e chirurgia dell'Universita' degli studi di Napoli e conferisce il diploma di specialista in nefrologia.  
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Art. 555. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
+Il numero massimo degli allievi e' di dieci per anno di corso e, complessivamente, di quaranta iscritti per l'intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami.  
+Art. 556. - Le materie d'insegnamento sono le seguenti:  
+1° Anno:  
+struttura ed ultrastruttura normale del rene;  
+aspetti biochimici della funzione renale;  
+fisiologia renale;  
+microbiologia ed immunologia applicate alla nefrologia;  
+genetica applicata alla nefrologia;  
+semeiotica renale I.  
+2° Anno:  
+struttura ed ultrastruttura patologica del rene;  
+patologia del ricambio idroelettrolitico;  
+insufficienza renale;  
+rene ed ipertensione arteriosa;  
+semeiotica renale II;  
+nefropatie tubulari.  
+3° Anno:  
+nefropatie glomerulari;  
+nefropatie interstiziali;  
+nefropatie vascolari;  
+terapia dietetica e dialitica I;  
+farmacologia d'interesse nefrologico.  
+4° Anno:  
+nefrouropatie calcolotiche, malformative e neoplastiche;  
+terapia dietetica e dialitica II;  
+fisiopatologia e clinica del trapianto renale;  
+aspetti di nefrologia nell'eta' pediatrica;  
+problemi chirurgici in nefrologia;  
+terapia medica delle nefropatie.  
+Art. 557. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.  
+Al termine del corso di studio per il conseguimento del diploma di specializzazione in nefrologia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+Dopo l'art. 652, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in urologia e fisiopatologia della riproduzione umana ed educazione demografica presso la seconda facolta' di medicina e chirurgia:  
   
-Scuola di perfezionamento in fisica teorica e nucleare   
+Scuola di specializzazione in urologia  
   
-Art. 369. - La scuola di perfezionamento in fisica teorica e nucleare istituita presso l'istituto di fisica teorica dell'Universita' di Napoli ha fine scientifico e rilascia il diploma di perfezionamento in fisica teorica e nucleare. Il corso degli studi ha la durata di due anni. Non sono consentite abbreviazioni di corso.   
-Art. 370. - La scuola e' retta da un direttore assistito da un Consiglio; il direttore e' il direttore dello Istituto di fisica teorica dell'Universita', il Consiglio della scuola e' costituito da tutti gli insegnanti della scuola ed e' presieduto dal direttore.   
-Gli insegnanti della scuola sono proposti dal direttore che puo' scegliere tra i professori di ruolo, tra i liberi docenti, tra gli assistenti o anche tra persone di riconosciuta competenza nella specialita'; tali proposte sono approvate dal Consiglio della Facolta' di scienze matematiche, fisiche e naturali.   
-Art. 371. - Alla scuola di perfezionamento in fisica teorica e nucleare vengono ammessi soltanto i laureati in fisica, scienze matematiche, matematica e fisica, chimica ed ingegneria.   
-E' data facolta' al direttore di stabilire, prima dello inizio di ogni anno accademico, un numero massimo di iscrizioni, oltre al quale potranno non essere accolte le domande eccedenti.   
-Quando gli iscritti siano in numero molto limitato gli insegnamenti possono non avere carattere cattedratico ed essere svolti in quella diversa forma che e' consentita dall'indole di ciascuna disciplina.   
-Art. 372. - La sorveglianza agli iscritti per tutto quanto riguarda la loro attivita' spetta al direttore della scuola, che a questo scopo sara' coadiuvato da un segretario nominato dal Consiglio della scuola di anno in anno.   
-La frequenza ai singoli insegnamenti e' obbligatoria e dev'essere attestata dai rispettivi insegnanti.   
-Art. 373. - Le Commissioni per gli esami di profitto sono formate dal professore della materia e da due altri insegnanti della scuola.   
-Art. 374. - La Commissione per l'esame di diploma e' formata da cinque membri scelti dal direttore tra gli insegnanti della scuola stessa o cultori della materia: l'esame di diploma consistera' in un esame di cultura generale sugli insegnamenti della scuola e di una discussione sopra una dissertazione originale scritta.   
-Art. 375. - I candidati non riconosciuti idonei potranno presentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola.   
-Nel caso che anche alla seconda prova di esame di diploma non siano riconosciuti idonei, saranno senza altro esclusi da ogni ulteriore prova.   
-Art. 376. - Gli insegnamenti impartiti dalla scuola sono:   
-Corsi fondamentali:   
-1) Meccanica analitica e relativistica;   
-2) Meccanica quantistica;   
-3) Fisica nucleare;   
-4) Complementi di matematica (biennale);   
-5) Teoria dei campi;   
-6) Teoria delle reazioni nucleari.   
-Corsi complementari:   
-1) Fisica statistica;   
-2) Particelle fondamentali;   
-3) Teoria dei gruppi in fisica quantistica;   
-4) Istituzioni di cibernetica.   
-Corsi su argomenti monografici.   
-Art. 377. - Gli iscritti alla scuola devono frequentare e sostenere l'esame delle sei materie fondamentali e di almeno due corsi complementari a scelta.   
-L'ordine degli studi e' il seguente:   
-Primo anno:   
-1) Meccanica analitica e relativistica;   
-2) Meccanica quantistica;   
-3) Fisica nucleare;   
-4) Complementi di matematica I.   
-Corsi monografici.   
-Secondo anno:   
-1) Teoria dei campi;   
-2) Teoria delle reazioni nucleari;   
-3) Complementi di matematica II;   
-4) Fisica statistica;   
-5) Teoria dei gruppi in fisica quantistica;   
-6) Particelle fondamentali;   
-7) Istituzioni di cibernetica.   
-Corsi monografici.   
-Per adire al secondo anno gli iscritti alla scuola dovranno aver superato gli esami relativi agli insegnamenti del primo anno; per adire agli esami di diploma devono aver superato gli esami previsti dall'ordine degli studi ed una prova di cultura generale.   
-Art. 378. - Presso la scuola di perfezionamento in fisica teorica e nucleare sara' istituito, a completamento degli insegnamenti, un seminario di fisica teorica e nucleare.   
-Art. 379. - Gli iscritti alla scuola di perfezionamento sono tenuti a pagare le medesime tasse, soprattasse e contributi generali stabiliti dalle vigenti disposizioni di legge per gli studenti della Facolta'.   
+Art. 653. - La scuola di specializzazione in urologia ha sede presso la cattedra di urologia della seconda facolta' di medicina e chirurgia e conferisce il diploma di specialista in urologia.  
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.  
+Il numero massimo degli allievi e' di due per anno di corso e complessivamente di dieci iscritti per l'intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami.  
+Art. 654. - Le materie di insegnamento e gli esami sono i seguenti: 
+
+|  |  |
+| --- | --- |
+| Insegnamenti | Esami |
+| 1° Anno: |  |
+| anatomia sistematica e topografica dell'apparato urinario e genitale maschile | anatomia sistematica e topografica dell'apparato urinario e genitale maschile |
+| fisiologia dell'apparato urinario e genitale maschile | fisiologia dell'apparato urinario e genitale maschile |
+| batteriologia in urologia | batteriologia in urologia |
+| semeiotica funzionale e strumentale dell'apparato uro-genitale I |  |
+| 2° Anno: |  |
+| semeiotica funzionale e strumentale dell'apparato uro-genitale II | semeiotica funzionale e strumentale dell'apparato uro-genitale |
+| le nefropatie mediche | le nefropatie mediche |
+| anatomia chirurgica dell'apparato urinario e genitale maschile | anatomia chirurgica dell'apparato urinario e genitale maschile |
+| patologia dell'apparato urinario e genitale maschile I |  |
+| radiologia dell'apparato urinario e genitale maschile I |  |
+| 3° Anno: |  |
+| patologia dell'apparato urinario e genitale maschile II | patologia dell'apparato urinario e genitale maschile |
+| radiologia dell'apparato urinario e genitale maschile II | radiologia dell'apparato urinario e genitale maschile |
+| le affezioni cutanee e veneree nei riguardi dell'urologia | le affezioni cutanee e veneree nei riguardi dell'urologia |
+| andrologia | andrologia |
+| 4° Anno: |  |
+| anatomia ed istologia patologica dell'apparato urinario e genitale maschile | anatomia ed istologia patologia dell'apparato urinario e genitale maschile |
+| farmacoterapia delle affezioni uro-genitali | farmacoterapia delle affezioni uro-genitali |
+| anestesia e trattamento pre e post-operatorio del malato urologico | anestesia e trattamento pre e post-operatorio del malato urologico |
+| nefrologia chirurgica | nefrologia chirurgica |
+| clinica urologica I |  |
+| procedimenti di chirurgia endoscopica I |  |
+| interventi e procedimenti operatori sull'apparato urinario e genitale maschile I |  |
+| 5° Anno: |  |
+| clinica urologica II | clinica urologica |
+| patologia e clinica urologica infantile | patologia e clinica urologica infantile |
+| urologia ginecologica | urologia ginecologica |
+| procedimenti di chirurgia endoscopica II | interventi e procedimenti operatori sull'apparato urinario e genitale |
+| chirurgia dell'intestino |  |
+| chirurgia vascolare maschile |  |
+| interventi e procedimenti |  |
+| operatori sull'apparato |  |
+
+  
+  
+Art. 655. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.  
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno ad eccezione delle discipline svolte in corsi pluriennali il cui esame sara' sostenuto alla fine dei corsi medesimi.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in urologia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+  
+Scuola di specializzazione in fisiopatologia della riproduzione umana ed educazione demografica  
+  
+Art. 656. - E' istituita presso la seconda facolta' di medicina e chirurgia dell'Universita' di Napoli la scuola di specializzazione in fisiopatologia della riproduzione umana ed educazione demografica.  
+La scuola di specializzazione in fisiopatologia della riproduzione umana ed educazione demografica ha la durata di quattro anni ed ha sede presso la cattedra di fisiopatologia ostetrica e ginecologica; la direzione e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruoli di materia affine.  
+Possono accedere alla scuola i laureati in medicina e chirurgia; il numero massimo di iscritti e' di dieci per ogni anno di corso.  
+L'ammissione viene stabilita mediante una prova scritta. L'esame di ammissione deve espletarsi entro il mese di dicembre.  
+Non sono consentite abbreviazioni di corso.  
+Art. 657. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+genetica medica;  
+anatomia normale ed embriologia dell'apparato genitale femminile e maschile;  
+embriologia e teratologia molecolare;  
+fisiobiologia della riproduzione;  
+endocrinologia della riproduzione.  
+2° Anno:  
+anatomia patologica ostetrica e ginecologica;  
+diagnostica ostetrica;  
+diagnostica genetica prenatale;  
+puericultura prenatale;  
+tecnica diagnostica di laboratorio in campo preconcezionale e ostetrico.  
+3° Anno:  
+patologia della riproduzione umana;  
+immunopatologia ostetrica;  
+gravidanza ad alto rischio;  
+monitoraggio endocrino della gravidanza;  
+monitoraggio biofisico e biochimico materno-fetale in gravidanza ed in travaglio;  
+contraccezione e pianificazione familiare;  
+principi di educazione demografica.  
+Art. 658. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Nessun titolo puo' esonerare dalla frequenza degli iscritti nei quattro anni di corso. Gli iscritti oltre all'obbligo della frequenza alle lezioni, esercitazioni, seminari, ecc., hanno anche quello dell'internato, per non meno di dieci mesi all'anno.  
+La scelta dei mesi di permesso e' facolta' del consiglio della scuola, a seconda dell'epoca delle lezioni e delle esigenze di servizio in clinica.  
+La frequenza degli iscritti deve essere convalidata e confermata dalla firma degli insegnanti delle rispettive materie.  
+Gli iscritti alla scuola debbono sostenere esami annuali di profitto e l'esame finale di diploma.  
+La sessione di esami di profitto e' unica, ed e' espletata nel mese di ottobre.  
+Non puo' essere iscritto all'anno successivo di corso chi non abbia superato tutte le materie del corso precedente.  
+Gli esami di profitto si danno per gruppi di materie alla fine di ciascun anno di corso, ed i membri della commissione sono proposti dal direttore della scuola.  
+Al termine dei quattro anni di corso per il conseguimento del diploma, gli specializzandi debbono presentare e discutere una dissertazione scritta con contributo personale.  
+L'ordinamento della scuola di specializzazione in malattie dell'apparato digerente della seconda facolta' di medicina e chirurgia, che muta la denominazione in quella di scuola di specializzazione in gastroenterologia ed endoscopia digestiva, istituita con [decreto del Presidente della Repubblica 24 ottobre 1975, n. 802](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1975-10-24;802), viene modificato nel modo seguente:  
+  
+Scuola di specializzazione in gastroenterologia ed endoscopia digestiva  
+  
+Art. 744. - La scuola di specializzazione in gastroenterologia ed endoscopia digestiva ha sede presso l'istituto di clinica medica generale e terapia medica della seconda facolta' di medicina e chirurgia e conferisce il diploma di specialista in gastroenterologia ed endoscopia digestiva.  
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
+Art. 745. - Il numero massimo degli allievi e' di nove per anno di corso e complessivamente di trentasei iscritti per l'intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami.  
+Art. 746. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+anatomia clinica;  
+farmacologia clinica;  
+chimica clinica, coprologia, parassitologia;  
+genetica;  
+biostatistica ed epidemiologia.  
+2° Anno:  
+clinica medica generale I;  
+clinica e terapia del tubo digerente, fegato e pancreas I;  
+anatomia ed istologia patologica I;  
+fisiopatologia e semeiotica digestiva I;  
+radiologia e medicina nucleare I;  
+scienza dell'alimentazione e dietetica.  
+3° Anno:  
+clinica medica generale II;  
+clinica e terapia del tubo digerente, fegato e pancreas II;  
+anatomia ed istologia patologica II;  
+fisiopatologia e semeiotica digestiva II;  
+radiologia e medicina nucleare II;  
+endoscopia digestiva I.  
+4° Anno:  
+clinica medica generale III;  
+clinica e terapia del tubo digerente, fegato e pancreas III;  
+endoscopia digestiva II;  
+terapia intensiva;  
+gastroenterologia pediatrica;  
+elementi di chirurgia del tubo digerente, fegato e pancreas.  
+Art. 747. - E' obbligatorio il tirocinio pratico durante il quadriennio di studi da svolgere nell'istituto clinico sede della scuola o in reparti ospedalieri di gastroenterologia, conforme alle scelte approvate dal consiglio della scuola.  
+Ogni scuola puo' aggiungere a queste materie fondamentali obbligatorie delle materie complementari con corsi semestrali in numero non superiore a sei per la totalita' del corso.  
+Per le materie biennali e triennali sara' dato l'esame alla fine del biennio o triennio.  
+Art. 748. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.  
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno; per le materie biennali o triennali, invece, sara' dato l'esame alla fine del biennio o del triennio.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in gastroenterologia ed endoscopia digestiva, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 giugno 1958
+### Dato a Roma, addi' 31 ottobre 1978
 
-GRONCHI MORO
+PERTINI PEDINI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 13 settembre 1958
+Registrato alla Corte dei conti, addi' 21 febbraio 1979
 
-Atti del Governo, registro n. 114, foglio n. 37. - RELLEVA
+Registro n. 9 Istruzione, foglio n. 15

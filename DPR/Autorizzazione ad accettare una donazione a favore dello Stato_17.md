@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1973 n. 1144
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1975 n. 728
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1973 n. 1144
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1975 n. 728
+==============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1144. Decreto del Presidente della Repubblica 5 settembre 1973, col quale, sulla proposta del Ministro per la difesa, viene autorizzata l'accettazione della donazione a favore dello Stato di un medagliere navale, disposta dall'avv. Angelo Ponzio con atto del notaio Gianfranco Troise, registrato a Taranto il 23 febbraio 1973 al n. 3407, da conservare in una sala del circolo Marina di Taranto intitolata al dottor Ugo Ponzio-De Quarto, numismatico navale, aperta alla visita di autorita', personalita', studiosi e amatori dell'arte numismatica.  
+728. Decreto del Presidente della Repubblica 30 ottobre 1975, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione di una donazione, consistente in una collezione d'arte egizia composta di sessantadue pezzi, disposta a favore dello Stato dalla sig.ra Negri Maria Teodora ved. Ronco con atto in data 30 marzo 1973, n. 34295 di repertorio, a rogito dott. Guglielmo Morini notaio in Torino, da destinare al museo egizio di Torino.  
   
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 7 ottobre 1974  
-Atti di Governo, registro n. 6, foglio n. 8. - SCIARRETTA
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 18 dicembre 1975  
+Atti di Governo, registro n. 15, foglio n. 49

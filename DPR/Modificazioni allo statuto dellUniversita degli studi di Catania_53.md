@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 491
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1970 n. 661
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 491
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1970 n. 661
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
@@ -10,213 +10,164 @@ Modificazioni allo statuto dell'Universita' degli studi di Catania.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Visto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Catania approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 176 - l'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola di specializzazione in ematologia clinica e di laboratorio muta la denominazione in quella di scuola di specializzazione in ematologia generale (clinica e laboratorio).
+Art. 157. - All'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia e' aggiunta la scuola in "Tisiologia".
 
-Gli articoli 227, 228, relativi alla scuola di specializzazione in ematologia clinica e di laboratorio, che muta la denominazione in quella di scuola di specializzazione in ematologia generale (clinica e laboratorio), sono soppressi e sostituiti dai seguenti:
+Dopo l'art. 213 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in tisiologia.
 
-Art. 227. - Presso la facolta' di medicina e chirurgia dell'Universita' di Catania e' istituita una scuola di specializzazione in ematologia generale (clinica e laboratorio).
+Scuola di specializzazione in tisiologia
 
-Art. 228. - Il corso di studi della scuola di specializzazione in ematologia generale (clinica e laboratorio) ha la durata di tre anni.
+Art. 214. - Il corso di studi della scuola di specializzazione in tisiologia ha la durata di tre anni.
 
-Gli articoli 242, 243, relativi alla scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio, sono soppressi e sostituiti dai seguenti:
+Alla scuola sono ammessi dieci iscritti per ogni anno di corso.
 
-Art. 242. - La scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio ha sede presso l'istituto di tisiologia e malattia dell'apparato respiratorio e conferisce il diploma di specialista in tisiologia e malattie dell'apparato respiratorio.
-
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo a fuori ruolo di materia affine.
-
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.
-
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
-
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
-
-Il numero massimo degli allievi e' di venticinque per anno di corso e complessivamente di cento iscritti per l'intero corso di studi.
-
-L'ammissione al corso avviene per titoli ed esami.
-
-Art. 243. - Le materie di insegnamento sono le seguenti:
+Art. 215. - Gli insegnamenti impartiti nella scuola sono i seguenti:
 
 1° Anno:
 
-anatomia e istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) I;
+Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);
 
-patologia della tubercolosi polmonare ed extrapolmonare;
+Patologia della tubercolosi polmonare ed extra-polmonare;
 
-patologia delle malattie dell'apparato respiratorio;
+Patologia delle malattie dell'apparato respiratorio;
 
-fisiologia e fisiopatologia generale dell'apparato respiratorio;
+Semeiotica fisica e funzionale dell'apparato respiratorio;
 
-semeiotica fisica e funzionale dell'apparato respiratorio;
+Microbiologia;
 
-microbiologia;
-
-epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.
+Epidemiologia e statistica della tubercolosi e delle malattie dell'apparato respiratorio.
 
 2° Anno:
 
-anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) II;
+Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);
 
-clinica della tubercolosi (triennale) I;
+Clinica della tubercolosi (biennale);
 
-clinica delle malattie dell'apparato respiratorio, (triennale) I;
+Clinica delle malattie dell'apparato respiratorio (biennale);
 
-fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;
+Fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;
 
-broncologia;
+Broncologia;
 
-i radiologia dell'apparato respiratorio;
+Radiologia dell'apparato respiratorio;
 
-profilassi della tubercolosi;
+Profilassi della tubercolosi;
 
-igiene e legislazione sociale.
+Igiene e legislazione sociale.
 
 3° Anno:
 
-clinica delle malattie dell'apparato respiratorio (triennale) II;
+Clinica della tubercolosi (biennale);
 
-clinica della tubercolosi (triennale) II;
+Clinica delle malattie dell'apparato respiratorio (biennale);
 
-chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;
+Chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;
 
-terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;
+Terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;
 
-terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.
+Terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.
 
-4° Anno:
+I corsi d'insegnamento sono integrati da turni obbligatori di internato nei reparti di degenza e nei laboratori di ricerca; da esercitazioni pratiche; da conferenze.
 
-clinica delle malattie dell'apparato respiratorio (triennale) III;
+Gli esami di profitto hanno luogo al termine di ogni anno di corso.
 
-clinica della tubercolosi (triennale) III.
-
-Gli insegnamenti complementari sono:
-
-immunologia clinica;
-
-cardiologia;
-
-medicina nucleare;
-
-malattie professionali dell'apparato respiratorio;
-
-terapia intensiva pneumologica.
-
-I corsi d'insegnamento sono integrati da conferenze, da esercitazioni pratiche, da seminari interdisciplinari (questi ultimi prevalentemente destinati al 4° anno) e da esercitazioni pratiche nei reparti per le quali gli allievi hanno l'obbligo di frequenza al pari delle lezioni.
-
-Alla fine di ogni anno di corso gli allievi dovranno superare una prova di esame sulle materie del rispettivo anno.
-
-Alla fine del 4° anno gli allievi dovranno sostenere l'esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione assegnata dal direttore della scuola o da uno degli insegnanti della scuola.
+Per il conseguimento del diploma di specializzazione e' prescritta la presentazione e la discussione di una dissertazione scritta.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 11 maggio 1979
+Dato a Roma, addi' 14 luglio 1970
 
-PERTINI
+SARAGAT
 
-SPADOLINI
+MISASI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 28 settembre 1979 Registro n. 71 Istruzione, foglio n. 108
+alla Corte dei conti, addi' 7 settembre 1970 Atti del Governo, registro n. 237, foglio n. 80. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Visto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 176 - l'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola di specializzazione in ematologia clinica e di laboratorio muta la denominazione in quella di scuola di specializzazione in ematologia generale (clinica e laboratorio).  
-Gli articoli 227, 228, relativi alla scuola di specializzazione in ematologia clinica e di laboratorio, che muta la denominazione in quella di scuola di specializzazione in ematologia generale (clinica e laboratorio), sono soppressi e sostituiti dai seguenti:  
-Art. 227. - Presso la facolta' di medicina e chirurgia dell'Universita' di Catania e' istituita una scuola di specializzazione in ematologia generale (clinica e laboratorio).  
-Art. 228. - Il corso di studi della scuola di specializzazione in ematologia generale (clinica e laboratorio) ha la durata di tre anni.  
-Gli articoli 242, 243, relativi alla scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio, sono soppressi e sostituiti dai seguenti:  
-Art. 242. - La scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio ha sede presso l'istituto di tisiologia e malattia dell'apparato respiratorio e conferisce il diploma di specialista in tisiologia e malattie dell'apparato respiratorio.  
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo a fuori ruolo di materia affine.  
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.  
-Il numero massimo degli allievi e' di venticinque per anno di corso e complessivamente di cento iscritti per l'intero corso di studi.  
-L'ammissione al corso avviene per titoli ed esami.  
-Art. 243. - Le materie di insegnamento sono le seguenti:  
+Lo statuto dell'Universita' degli studi di Catania approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 157. - All'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia e' aggiunta la scuola in "Tisiologia".  
+Dopo l'art. 213 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in tisiologia.  
+  
+Scuola di specializzazione in tisiologia  
+  
+Art. 214. - Il corso di studi della scuola di specializzazione in tisiologia ha la durata di tre anni.  
+Alla scuola sono ammessi dieci iscritti per ogni anno di corso.  
+Art. 215. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
 1° Anno:  
-anatomia e istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) I;  
-patologia della tubercolosi polmonare ed extrapolmonare;  
-patologia delle malattie dell'apparato respiratorio;  
-fisiologia e fisiopatologia generale dell'apparato respiratorio;  
-semeiotica fisica e funzionale dell'apparato respiratorio;  
-microbiologia;  
-epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.  
+Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);  
+Patologia della tubercolosi polmonare ed extra-polmonare;  
+Patologia delle malattie dell'apparato respiratorio;  
+Semeiotica fisica e funzionale dell'apparato respiratorio;  
+Microbiologia;  
+Epidemiologia e statistica della tubercolosi e delle malattie dell'apparato respiratorio.  
 2° Anno:  
-anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) II;  
-clinica della tubercolosi (triennale) I;  
-clinica delle malattie dell'apparato respiratorio, (triennale) I;  
-fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;  
-broncologia;  
-i radiologia dell'apparato respiratorio;  
-profilassi della tubercolosi;  
-igiene e legislazione sociale.  
+Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);  
+Clinica della tubercolosi (biennale);  
+Clinica delle malattie dell'apparato respiratorio (biennale);  
+Fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;  
+Broncologia;  
+Radiologia dell'apparato respiratorio;  
+Profilassi della tubercolosi;  
+Igiene e legislazione sociale.  
 3° Anno:  
-clinica delle malattie dell'apparato respiratorio (triennale) II;  
-clinica della tubercolosi (triennale) II;  
-chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;  
-terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;  
-terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.  
-4° Anno:  
-clinica delle malattie dell'apparato respiratorio (triennale) III;  
-clinica della tubercolosi (triennale) III.  
-Gli insegnamenti complementari sono:  
-immunologia clinica;  
-cardiologia;  
-medicina nucleare;  
-malattie professionali dell'apparato respiratorio;  
-terapia intensiva pneumologica.  
-I corsi d'insegnamento sono integrati da conferenze, da esercitazioni pratiche, da seminari interdisciplinari (questi ultimi prevalentemente destinati al 4° anno) e da esercitazioni pratiche nei reparti per le quali gli allievi hanno l'obbligo di frequenza al pari delle lezioni.  
-Alla fine di ogni anno di corso gli allievi dovranno superare una prova di esame sulle materie del rispettivo anno.  
-Alla fine del 4° anno gli allievi dovranno sostenere l'esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione assegnata dal direttore della scuola o da uno degli insegnanti della scuola.  
+Clinica della tubercolosi (biennale);  
+Clinica delle malattie dell'apparato respiratorio (biennale);  
+Chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;  
+Terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;  
+Terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.  
+I corsi d'insegnamento sono integrati da turni obbligatori di internato nei reparti di degenza e nei laboratori di ricerca; da esercitazioni pratiche; da conferenze.  
+Gli esami di profitto hanno luogo al termine di ogni anno di corso.  
+Per il conseguimento del diploma di specializzazione e' prescritta la presentazione e la discussione di una dissertazione scritta.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 maggio 1979
+### Dato a Roma, addi' 14 luglio 1970
 
-PERTINI SPADOLINI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 28 settembre 1979
+Registrato alla Corte dei conti, addi' 7 settembre 1970
 
-Registro n. 71 Istruzione, foglio n. 108
+Atti del Governo, registro n. 237, foglio n. 80. - CARUSO

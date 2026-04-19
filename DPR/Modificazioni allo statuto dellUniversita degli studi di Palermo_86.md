@@ -1,39 +1,83 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 marzo 1960 n. 357
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1980 n. 346
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 marzo 1960 n. 357
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1980 n. 346
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1983, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1983-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1939, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Nell'art. 35 dello statuto dell'Universita' di Palermo relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari sono aggiunti i seguenti:  
+storia economica;  
+epigrafia romana;  
+archeologia del medio e vicino Oriente;  
+storia dell'arte moderna;  
+storia della letteratura italiana moderna e contemporanea;  
+storia dell'arte islamica;  
+filologia greca medioevale e moderna;  
+teatro e drammaturgia dell'antichita'.  
+
+Art. 2
+------
+
   
-Decreta:  
+Nell'art. 36, relativo al corso di laurea in filosofia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti:  
+storia contemporanea;  
+filosofia della politica;  
+storia del teatro e dello spettacolo;  
+storia della filosofia moderna e contemporanea;  
+sociologia dell'educazione;  
+storia del pensiero sociologico;  
+etnologia.  
+Nello stesso elenco e' soppresso l'insegnamento complementare di biologia delle razze umane.  
+
+Art. 3
+------
+
   
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, a ulteriormente modificato come appresso:  
-Art. 57. - Agli insegnamenti complementari del corso di laurea in ingegneria e' aggiunto quello di "Elettronica applicata" mentre viene soppresso quello di "Radiotecnica".  
+Nell'art. 43, relativo al corso di laurea in lingue e letterature straniere moderne (indirizzo europeo), all'elenco degli insegnamenti complementari e' aggiunto il seguente:  
+didattica delle lingue moderne.  
   
-Il presente decreto, munito del sigillo dello stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.  
-  
-Dato a Roma, addi' 23 marzo 1960  
-  
-GRONCHI  
-  
-MEDICI   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 2 maggio 1960  
-Atti del Governo, registro n. 126, foglio n. 23. - VILLA  
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Dato a Roma, addi' 20 febbraio 1980
+
+PERTINI VALITUTTI
+
+Visto, il Guardasigilli: MORLINO
+
+Registrato alla Corte dei conti, addi' 26 giugno 1980
+
+Registro n. 61 Istruzione, foglio n. 311

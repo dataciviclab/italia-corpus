@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 maggio 1967 n. 511
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 febbraio 1965 n. 241
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 maggio 1967 n. 511
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 febbraio 1965 n. 241
+===============================================================
 
 Autorizzazione alla "Fondazione Pro Juventute Don Carlo Gnocchi", con sede in Roma, ad accettare un legato.
 -----------------------------------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-511. Decreto del Presidente della Repubblica 27 maggio 1967, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare il legato disposto in suo favore dal defunto sig. Guiot Umberto Michele Pietro - con testamento olografo del 15 ottobre 1964, pubblicato con verbale a rogito dott.  
-Gianfranco Franchini, notaio residente in Milano, in data 17 settembre 1965, n. 26085 di repertorio, n. 3604 di raccolta - consistente in azioni di diverse societa' per un ammontare indicato dalla Fondazione in L. 8.000.000 circa.  
+241. Decreto del Presidente della Repubblica 9 febbraio 1965 col quale, sulla proposta del Presidente del Consiglio dei Ministri la "Fondazione Pro Juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare un legato, consistente in lire 100.000 (centomila), disposto dalla defunta signora Emilia, Nardini vedova, Giletta, con testamento olografo del 31 maggio 1956.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 27 giugno 1967  
-Atti del Governo, registro n. 211, foglio n. 165. - GRECO
+Registrato alla Corte dei conti, addi' 8 aprile 1953  
+Atti del Governo, registro n. 192, foglio n. 21. - VILLA

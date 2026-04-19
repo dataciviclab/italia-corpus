@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1974 n. 667
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 aprile 1975 n. 458
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1974 n. 667
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 aprile 1975 n. 458
 =============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-667. Decreto del Presidente della Repubblica 22 luglio 1974, col quale, sulla proposta del Ministro per le finanze, di concerto con il Ministro per il lavoro e la previdenza sociale, viene autorizzata, per la minor superficie di mq 540 circa, l'accettazione della donazione a favore dello Stato disposta dal comune di Avezzano (L'Aquila) con atto 7 dicembre 1957, a rogito notaio Giovanni Stornelli, n. 8720 di repertorio, del terreno edificatorio, della superficie di mq 801, sito in detto comune alla via Orazio Mattei, catastalmente indicato in tale atto e sul quale e' gia' stato realizzato dal Ministero del lavoro e della previdenza sociale, mediante cantiere di lavoro, un edificio adibito a sede dell'ufficio comunale del lavoro.  
+458. Decreto del Presidente della Repubblica 28 aprile 1975, col quale, sulla proposta del Ministro per le finanze, di concerto con il Ministro per il lavoro e la previdenza sociale, viene autorizzata l'accettazione di una donazione a favore dello Stato, disposta dal comune di Forlimpopoli (Forli), con atto 18 settembre 1954, n. 591 di repertorio, a rogito notaio Vincenzo Santelmo, consistente in un suolo di mq 216, catastalmente indicato nell'atto suddetto e sul quale il Ministero del lavoro e della previdenza sociale, con le esercitazioni pratiche di un corso di qualificazione professionale, ha gia' realizzato un edificio adibito a sede dell'ufficio di collocamento di quel comune.  
   
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 7 dicembre 1974  
-Atti di Governo, registro n. 7, foglio n. 84. - SCIARRETTA
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 13 settembre 1975  
+Atti di Governo, registro n. 12, foglio n. 11

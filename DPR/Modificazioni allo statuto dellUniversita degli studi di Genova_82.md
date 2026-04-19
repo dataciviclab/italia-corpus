@@ -1,209 +1,196 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 393
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1973 n. 794
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 393
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1973 n. 794
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 17 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-17;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 155 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in igiene.
-
-Dopo l'art. 415, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in igiene:
-
-Scuola di specializzazione di igiene
-
-Art. 416. - La scuola di specializzazione in igiene ha sede presso l'istituto di igiene. Essa ha lo scopo di conferire adeguata preparazione teorica e pratica ai laureati che intendono dedicarsi alla carriera dei laboratori di sanita' pubblica e della progettazione di impianti tecnologici di ospedali, scuole, industrie.
-
-La scuola si articola nei seguenti due indirizzi:
-
-1) laboratorio di sanita' pubblica, al quale possono essere ammessi i laureati in chimica, chimica e tecnologie farmaceutiche, farmacia, scienze biologiche, scienze naturali e medicina veterinaria;
-
-2) igiene ed edilizia socio-sanitaria, al quale possono essere ammessi i laureati in architettura, fisica ed ingegneria.
-
-Art. 417. - Il numero massimo di allievi iscrivibili alla scuola e' di ottanta, suddivisi in quaranta per ciascun indirizzo.
-
-Art. 418. - Le materie di insegnamento per l'indirizzo laboratorio di sanita' pubblica sono le seguenti:
-
-1° Anno:
-
-metodologia statistica e biometria;
-
-microbiologia e parassitologia;
-
-epidemiologia e profilassi generale;
-
-legislazione ed organizzazione sanitaria;
-
-elementi di patologia generale;
-
-biochimica applicata;
-
-igiene dell'ambiente fisico e difesa ecologica.
-
-2° Anno:
-
-metodi e dosaggi chimici, fisici e biologici per il controllo dell'inquinamento ambientale;
-
-epidemiologia e profilassi delle malattie infettive e di quelle non infettive di importanza sociale;
-
-strumentazione e misure chimico-cliniche;
-
-accertamento diagnostico delle malattie infettive e parassitarie;
-
-ispezione e controllo degli alimenti;
-
-microscopia applicata all'igiene;
-
-elementi di informatica.
-
-Art. 419. - Le materie di insegnamento per l'indirizzo igiene ed edilizia socio-sanitaria sono le seguenti:
-
-1° Anno:
-
-metodologia statistica e biometria;
-
-elementi di epidemiologia e profilassi delle malattie infettive e non infettive di importanza sociale;
-
-legislazione sanitaria;
-
-igiene dell'ambiente fisico e difesa ecologica;
-
-organizzazione del territorio e programmazione sanitaria;
-
-principi di ingegneria del lavoro e della sicurezza.
-
-2° Anno:
-
-igiene edilizia e dell'aggregato urbano;
-
-igiene e tecnica delle costruzioni ospedaliere; arredamenti ed impianti tecnologici;
-
-edilizia ed arredamento scolastico;
-
-elementi di fisica tecnica applicata all'igiene;
-
-urbanistica ed insediamento industriale;
-
-approvvigionamento idrico e smaltimento dei rifiuti.
-
-Gli insegnamenti sono svolti sotto forma di lezioni integrate da dimostrazioni pratiche, da esercitazioni e da visite ad impianti e strutture interessanti la scuola di specializzazione.
-
-Art. 420. - L'esame di diploma, cui si e' ammessi dopo aver superato tutti gli esami del biennio, consta di una dissertazione scritta, elaborata sotto il controllo di un docente della scuola, su un argomento riguardante l'orientamento scelto.
-
-Agli allievi che abbiano ottenuto l'approvazione all'esame di diploma verra' rilasciato il diploma di specializzazione in igiene con la indicazione del relativo orientamento.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 11 maggio 1979
-
-PERTINI
-
-SPADOLINI
-
-Visto, il Guardasigilli: MORLINO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 28 luglio 1979 Registro n. 60 Istruzione, foglio n. 188
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 17 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-17;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 155 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in igiene.   
-Dopo l'art. 415, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in igiene:   
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Scuola di specializzazione di igiene   
+L'art. 122, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la scuola in "medicina costituzionalistica ed endocrinologia" muta la denominazione in quella di scuola di specializzazione in "endocrinologia".  
+Allo stesso elenco sono aggiunte le scuole di specializzazione in "chirurgia" (II scuola) e in "malattie dell'apparato digerente".  
+Gli articoli 234, 235, 236, relativi alla scuola di specializzazione in "medicina costituzionalistica ed endocrinologia" che muta la denominazione in quella di scuola di specializzazione in "endocrinologia", sono abrogati e sostituiti dai seguenti:  
   
-Art. 416. - La scuola di specializzazione in igiene ha sede presso l'istituto di igiene. Essa ha lo scopo di conferire adeguata preparazione teorica e pratica ai laureati che intendono dedicarsi alla carriera dei laboratori di sanita' pubblica e della progettazione di impianti tecnologici di ospedali, scuole, industrie.   
-La scuola si articola nei seguenti due indirizzi:   
-1) laboratorio di sanita' pubblica, al quale possono essere ammessi i laureati in chimica, chimica e tecnologie farmaceutiche, farmacia, scienze biologiche, scienze naturali e medicina veterinaria;   
-2) igiene ed edilizia socio-sanitaria, al quale possono essere ammessi i laureati in architettura, fisica ed ingegneria.   
-Art. 417. - Il numero massimo di allievi iscrivibili alla scuola e' di ottanta, suddivisi in quaranta per ciascun indirizzo.   
-Art. 418. - Le materie di insegnamento per l'indirizzo laboratorio di sanita' pubblica sono le seguenti:   
-1° Anno:   
-metodologia statistica e biometria;   
-microbiologia e parassitologia;   
-epidemiologia e profilassi generale;   
-legislazione ed organizzazione sanitaria;   
-elementi di patologia generale;   
-biochimica applicata;   
-igiene dell'ambiente fisico e difesa ecologica.   
-2° Anno:   
-metodi e dosaggi chimici, fisici e biologici per il controllo dell'inquinamento ambientale;   
-epidemiologia e profilassi delle malattie infettive e di quelle non infettive di importanza sociale;   
-strumentazione e misure chimico-cliniche;   
-accertamento diagnostico delle malattie infettive e parassitarie;   
-ispezione e controllo degli alimenti;   
-microscopia applicata all'igiene;   
-elementi di informatica.   
-Art. 419. - Le materie di insegnamento per l'indirizzo igiene ed edilizia socio-sanitaria sono le seguenti:   
-1° Anno:   
-metodologia statistica e biometria;   
-elementi di epidemiologia e profilassi delle malattie infettive e non infettive di importanza sociale;   
-legislazione sanitaria;   
-igiene dell'ambiente fisico e difesa ecologica;   
-organizzazione del territorio e programmazione sanitaria;   
-principi di ingegneria del lavoro e della sicurezza.   
-2° Anno:   
-igiene edilizia e dell'aggregato urbano;   
-igiene e tecnica delle costruzioni ospedaliere; arredamenti ed impianti tecnologici;   
-edilizia ed arredamento scolastico;   
-elementi di fisica tecnica applicata all'igiene;   
-urbanistica ed insediamento industriale;   
-approvvigionamento idrico e smaltimento dei rifiuti.   
-Gli insegnamenti sono svolti sotto forma di lezioni integrate da dimostrazioni pratiche, da esercitazioni e da visite ad impianti e strutture interessanti la scuola di specializzazione.   
-Art. 420. - L'esame di diploma, cui si e' ammessi dopo aver superato tutti gli esami del biennio, consta di una dissertazione scritta, elaborata sotto il controllo di un docente della scuola, su un argomento riguardante l'orientamento scelto.   
-Agli allievi che abbiano ottenuto l'approvazione all'esame di diploma verra' rilasciato il diploma di specializzazione in igiene con la indicazione del relativo orientamento.   
+Scuola di specializzazione in endocrinologia  
+  
+Art. 234. - La scuola di specializzazione in endocrinologia ha la durata di tre anni: essa ha sede presso l'istituto scientifico di medicina interna.  
+Alla scuola possono essere iscritti solo i laureati in medicina e chirurgia. Ad ogni anno accademico potra' essere ammesso un contingente di candidati non superiore a dieci.  
+Gli aspiranti saranno ammessi alla scuola in base alla classifica di un esame preliminare, che comprende una prova scritta ed una prova orale e che si svolgera' entro il mese di dicembre.  
+Gli iscritti alla scuola hanno l'obbligo di frequentare gli insegnamenti stabiliti secondo il programma del corso, nonche' l'istituto sede della scuola.  
+Coloro che non ottempereranno all'obbligo di frequenza ai corsi di insegnamento ed al servizio di corsia e di laboratorio, non potranno ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.  
+Alla fine di ciascun anno accademico coloro i quali abbiano ottenuto la prescritta attestazione di frequenza, potranno sostenere gli esami di profitto, il cui superamento e' condizione necessaria per l'iscrizione al corso successivo.  
+Al termine del terzo anno, per conseguire il diploma di specializzazione in endocrinologia, gli iscritti, oltre ad aver superato le prove di esame nelle singole materie, dovranno presentare una dissertazione scritta su un argomento di ordine endocrinologico (clinico o sperimentale), che sara' stabilito in base agli accordi presi con il direttore della scuola.  
+I candidati non riconosciuti idonei agli esami di ciascun corso e all'esame di diploma potranno sostenere le prove dopo un altro anno di frequenza.  
+Art. 235. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+Anatomia ed embriologia degli organi endocrini;  
+Fisiologia endocrina;  
+Biochimica endocrina;  
+Anatomia patologica delle malattie endocrine;  
+Semeiotica e diagnostica endocrina;  
+Antropologia differenziale ed antropometria (insegnamento facoltativo).  
+2° Anno:  
+Anatomia patologica delle malattie endocrine;  
+Semeiotica e diagnostica endocrina;  
+Patologia speciale medica e clinica delle malattie endocrine e delle auxopatie;  
+Eredopatologia endocrina;  
+Applicazioni della medicina nucleare alla semeiologia endocrina (insegnamento facoltativo).  
+3° Anno:  
+Patologia speciale medica e clinica delle malattie endocrine e delle auxopatie;  
+Terapia delle malattie endocrine;  
+Endocrinologia pediatrica (insegnamento facoltativo).  
+Art. 236. - Il candidato e' tenuto a seguire almeno una delle materie facoltative ed a superarne il relativo esame.  
+Il programma di ciascun anno sara' svolto in almeno 60 lezioni globali e sara' integrato da seminari, conferenze, esercitazioni.  
+Le norme per l'iscrizione, per le tasse ecc. sono quelle generali delle scuole di specializzazione e di perfezionamento riferite negli articoli da 122 a 137 dello statuto dell'Universita'.  
+Agli allievi che abbiano ottenuto l'approvazione nell'esame finale viene rilasciato il diploma di specializzazione in endocrinologia.  
+Dopo l'art. 275, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "chirurgia" e in "malattie dell'apparato digerente".  
+  
+Scuola di specializzazione in chirurgia  
+(II scuola)  
+  
+Art. 276. - Presso la cattedra di clinica chirurgica generale e terapia chirurgica (R) e' istituita la scuola di specializzazione in chirurgia.  
+Direttore della scuola e' il professore titolare della cattedra di clinica chirurgica generale e terapia chirurgica (R).  
+La scuola di specializzazione in chirurgia conferisce il diploma di specialista in chirurgia.  
+Alla scuola possono iscriversi soltanto i laureati in medicina e chirurgia.  
+Gli anni necessari per il conseguimento del diploma sono cinque.  
+Il numero complessivo degli iscritti e' di venticinque (25) per tutti i cinque anni di corso.  
+La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base di titoli ed esami.  
+Non sono consentite iscrizioni con abbreviazioni di corso.  
+Art. 277. - Le materie del corso sono le seguenti:  
+1) Anatomia chirurgica e corso di operazioni (biennale);  
+2) Anatomia e istologia patologica (biennale);  
+3) Anestesia e rianimazione;  
+4) Chirurgia cardiovascolare;  
+5) Chirurgia d'urgenza;  
+6) Chirurgia ginecologica;  
+7) Chirurgia pediatrica;  
+8) Chirurgia riparativa e plastica;  
+9) Chirurgia sperimentale;  
+10) Chirurgia toracica;  
+11) Chirurgia urologica;  
+12) Clinica chirurgica generale (quinquennale);  
+13) Fisiopatologia chirurgica;  
+14) Medicina legale;  
+15) Neurochirurgia;  
+16) Patologia speciale chirurgica (triennale);  
+17) Radiologia;  
+18) Ricerche di laboratorio;  
+19) Semeiotica chirurgica (biennale);  
+20) Semeiotica strumentale ed endoscopia;  
+21) Trattamento pre e post-operatorio;  
+22) Traumatologia ed ortopedia.  
+Le materie sopra elencate sono cosi' distribuite:  
+1° Anno:  
+Clinica chirurgica generale;  
+Patologia speciale chirurgica;  
+Semeiotica chirurgica;  
+Anatomia chirurgica e corso di operazioni;  
+Chirurgia sperimentale;  
+Anestesia e rianimazione;  
+Ricerche di laboratorio.  
+2° Anno:  
+Clinica chirurgica generale;  
+Patologia speciale chirurgica;  
+Semeiotica chirurgica;  
+Anatomia chirurgica e corso di operazioni;  
+Fisiopatologia chirurgica;  
+Trattamento pre e post-operatorio;  
+Anatomia e istologia patologica.  
+3° Anno:  
+Clinica chirurgica generale;  
+Patologia speciale chirurgica;  
+Semeiotica strumentale ed endoscopia;  
+Anatomia chirurgica e corso di operazioni;  
+Radiologia;  
+Anatomia e istologia patologica.  
+4° Anno:  
+Clinica chirurgica generale;  
+Chirurgia ginecologica;  
+Chirurgia urologica;  
+Neurochirurgia;  
+Traumatologia ed ortopedia;  
+Chirurgia pediatrica.  
+5° Anno:  
+Clinica chirurgica generale;  
+Chirurgia toracica;  
+Chirurgia cardiovascolare;  
+Chirurgia riparativa e plastica;  
+Chirurgia d'urgenza;  
+Medicina legale.  
+I corsi dovranno essere corredati da esercitazioni pratiche.  
+Art. 278. - Le norme di iscrizione, esami, pagamento tasse e tutte le altre norme generali sono quelle comprese negli articoli da 122 a 137 dello statuto dell'Universita'.  
+Art. 279. - La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.  
+L'internato e' obbligatorio durante i cinque anni del corso e si svolgera' presso la cattedra di clinica chirurgica e terapia chirurgica (R) sotto forma di permanenza costante nella detta cattedra durante le ore della sua attivita', con presenza giornaliera agli ambulatori ed ai reparti di degenza.  
+Dall'obbligo di tale internato saranno esentati quegli allievi che, in qualita' di assistenti e di aiuti, prestino effettivamente servizio presso reparti di chirurgia generale delle universita' e di ospedali di I e II categoria.  
+Art. 280. - Gli allievi hanno doveri ed attribuzioni analoghi a quelli degli assistenti. Gli specializzandi che abbiano compiuto il primo triennio e superato i relativi esami, potranno essere chiamati a prestare servizio presso il reparto operatorio.  
+Per i corsi che non siano della cattedra di clinica chirurgica generale e terapia chirurgica (R), possono essere stabiliti; su parere del direttore della scuola, periodi di continuativa frequenza presso i relativi reparti specialistici, qualora esistano quali reparti indipendenti.  
+Art. 281. - Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.  
+L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.  
+Alla fine del corso l'allievo, inoltre, dovra' sostenere un esame generale di profitto.  
+L'esame di diploma consistera' nella discussione di una tesi scritta su argomenti di chirurgia generale.  
+Agli iscritti alla scuola che avranno superato gli esami prescritti sara' rilasciato un diploma di specialista in chirurgia valido a tutti gli effetti di legge.  
+  
+Scuola di specializzazione in malattie dell'apparato digerente  
+  
+Art. 282. - La scuola di specializzazione in malattie dell'apparato digerente ha la durata di quattro anni.  
+Essa ha sede presso l'istituto scientifico di medicina interna.  
+Art. 283. - Alla scuola possono essere iscritti solo i laureati in medicina e chirurgia. Il numero degli specializzandi e' fissato in sedici (16) complessivi suddivisi nei quattro anni del corso.  
+La durata del corso potra' essere ridotta di un anno per i candidati in possesso di requisiti ritenuti idonei dalla direzione.  
+Gli aspiranti saranno ammessi alla scuola dopo il superamento di un esame preliminare che comprende una prova scritta ed una prova orale che si svolgera' entro il mese di dicembre.  
+Gli iscritti alla scuola hanno l'obbligo di frequentare gli insegnamenti secondo il programma del corso. Coloro che non ottemperano all'obbligo di frequenza ai corsi di insegnamento, al servizio di corsia e di laboratorio, non potranno ottenere l'attestazione di frequenza necessaria per la ammissione agli esami.  
+Art. 284. - Le materie fondamentali di insegnamento sono le seguenti:  
+1° Anno:  
+a) Anatomia patologica;  
+b) Fisiopatologia;  
+c) Chimica clinica;  
+d) Semeiotica fisica e strumentale;  
+e) Clinica medica.  
+2° Anno:  
+a) Semeiotica fisica e strumentale;  
+b) Semeiotica radiologica;  
+c) Malattie del tubo digerente;  
+d) Clinica e terapia medica.  
+3° Anno:  
+a) Malattie del fegato e del pancreas;  
+b) Clinica e terapia medica.  
+Agli insegnamenti fondamentali potranno essere aggiunti insegnamenti complementari con corsi semestrali ed in numero non superiore a sei.  
+4° Anno:  
+Tirocinio pratico da svolgersi presso l'istituto in cui ha sede la scuola stessa.  
+Art. 285. - Alla fine di ciascun anno scolastico coloro i quali abbiano ottenuto la prescritta attestazione di frequenza potranno sostenere gli esami di profitto il cui superamento e' condizione necessaria per l'iscrizione al corso successivo.  
+Gli esami consistono in prove scritte o in prove orali per ciascuna materia di insegnamento.  
+Al termine del corso, per conseguire il diploma di specializzazione, gli specializzandi, oltre ad aver superato le prove di esame nelle singole materie, dovranno presentare una dissertazione scritta su un argomento di patologia dell'apparato digerente, stabilito d'accordo con il direttore della scuola.  
+I candidati non riconosciuti idonei agli esami di ciascun corso e all'esame di diploma potranno sostenere de prove dopo un altro anno di frequenza.  
+Art. 286. - Le norme per la direzione, per le iscrizioni, per le tasse, ecc. sono quelle generali delle scuole di specializzazione e di perfezionamento, riferite negli articoli da 122 a 137 dello statuto dell'Universita'.  
+Agli allievi che abbiano ottenuto l'approvazione nell'esame finale viene rilasciato il diploma di specializzazione in malattie dell'apparato digerente.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 maggio 1979
+### Dato a Roma, addi' 29 settembre 1973
 
-PERTINI SPADOLINI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 28 luglio 1979
+Registrato alla Corte dei conti, addi' 14 dicembre 1973
 
-Registro n. 60 Istruzione, foglio n. 188
+Atti di Governo, registro n. 263, foglio n. 1. - CARUSO

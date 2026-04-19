@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 dicembre 1980 n. 1082
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 674
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 dicembre 1980 n. 1082
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 674
+=============================================================
 
 Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare una donazione.
 ------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1082. Decreto del Presidente della Repubblica 10 dicembre 1980, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare la donazione, consistente in un appartamento in Santo Stefano al Mare, composto di due camere, con servitu' perpetua di parcheggio nel cortile antistante, del valore periziato di L. 8.000.000, disposta dalla S.I.C.E. - Societa' immobiliare costruzioni edili di Odetto Pietro e C., con atto 25 luglio 1975, n. 5118/3053 di repertorio, a rogito dott. Dario Vietri, notaio in Ventimiglia (Imperia), rettificato parzialmente con successivo atto 6 marzo 1976, n. 6365/3471 di repertorio, a rogito dello stesso notaio, per i fini sociali dell'ente.  
+674. Decreto del Presidente della Repubblica 17 maggio 1986, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare la donazione, consistente in un locale sito in comune di Torriglia (Genova), piazza Gastaldi n. 6, del periziato valore di L. 13.000.000 in data 20 marzo 1984, come da nota dell'ufficio tecnico erariale di Genova, disposta dalla sig.ra Maria Lina Garbarino con atto 12 novembre 1983, a rogito dott. Luigi Stamigna, notaio in Genova e registrato a Genova in data 2 dicembre 1983 al n. 22260.   
   
-Visto, il Guardasigilli: SARTI  
-Registrato alla Corte dei conti, addi' 26 febbraio 1981  
-Registro n. 2 Sanita', foglio n. 216
+Visto, il Guardasigilli: ROGNONI   
+Registrato alla Corte dei conti, addi' 9 ottobre 1986   
+Registro n. 10 Sanita', foglio n. 68

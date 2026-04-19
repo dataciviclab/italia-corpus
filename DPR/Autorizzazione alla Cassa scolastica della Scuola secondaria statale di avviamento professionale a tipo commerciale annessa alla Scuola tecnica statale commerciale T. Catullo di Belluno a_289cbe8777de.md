@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1955 n. 933
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1955 n. 904
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1955 n. 933
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1955 n. 904
 =============================================================
 
 Autorizzazione alla Cassa scolastica della Scuola secondaria statale di avviamento professionale a tipo commerciale annessa alla Scuola tecnica statale commerciale "T. Catullo" di Belluno ad accettare una donazione.
@@ -12,7 +12,8 @@ Art. 1
 
 N.
 
-933. Decreto del Presidente della Repubblica 2 agosto 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola secondaria statale di avviamento professionale a tipo commerciale annessa alla Scuola tecnica statale commerciale "T. Catullo" di Belluno, viene autorizzata ad accettare la donazione di nominali L. 75.000 in titoli di Stato, fatta al fine di istituire, col relativo reddito, un premio di studio biennale intitolato "Rag. Zanasi Luigi Umberto detto Umberto   
+904. Decreto del Presidente della Repubblica 2 agosto 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola secondaria statale di avviamento professionale a tipo commerciale annessa alla Scuola tecnica statale commerciale "T. Catullo" di Belluno viene autorizzata ad accettare la donazione di nominali L. 65.000 in titoli di Stato, fatta al fine di istituire, col relativo reddito, un premio di studio biennale intitolato "Rocco Giuseppina di Antonio".  
+  
 Visto, il Guardasigilli: MORO  
-Registrato alla Corte del conti, addi' 15 ottobre 1955  
-Atti del Governo, registro n. 93, foglio n. 34. - CARLOMAGNO
+Registrato alla Corte dei conti, addi' 15 ottobre 1955  
+Atti del Governo, registro n. 93, foglio n. 33. - CARLOMAGNO

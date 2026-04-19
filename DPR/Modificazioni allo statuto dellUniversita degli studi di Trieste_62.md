@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1981 n. 902
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1978 n. 618
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1981 n. 902
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1978 n. 618
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
@@ -18,85 +18,189 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
-Veduto il [decreto del Presidente della Repubblica n. 382 dell'11 luglio 1980](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Veduta la necessita' di adeguare le norme sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appreso:
 
-Articolo unico
---------------
+Gli articoli da 112 a 120, relativi alla scuola di perfezionamento e di specializzazione in diritto del lavoro ed in organizzazione aziendale, che muta la denominazione in scuola di perfezionamento e di specializzazione in diritto del lavoro, sono soppressi e sostituiti dai seguenti:
 
+Scuola di perfezionamento in diritto del lavoro
+
+Art. 112. - La scuola di diritto del lavoro, annessa all'istituto di diritto del lavoro della facolta' di giurisprudenza, ha lo scopo di integrare la preparazione scientifica e professionale dei giovani, perfezionandoli e specializzandoli nelle discipline giuridiche attinenti al lavoro.
+
+Art. 113. - La scuola e' retta da un direttore e da un consiglio composto dai professori titolari degli insegnamenti fondamentali della scuola. Partecipano alle riunioni del consiglio per l'esame dei problemi concernenti il coordinamento dei programmi tutti i docenti della scuola.
+
+Direttore ne e' il professore titolare della cattedra di diritto del lavoro della facolta' di giurisprudenza o, in mancanza, un professore di ruolo nominato dal rettore su proposta della facolta' di giurisprudenza.
+
+Il direttore puo' designare tra i componenti del consiglio un vice direttore che lo coadiuva e lo sostituisce in caso di impedimento.
+
+La nomina dei docenti e' fatta dal rettore su designazione del consiglio della facolta' di giurisprudenza su proposta del consiglio della scuola.
+
+Art. 114. - Alla scuola possono essere iscritti i laureati in giurisprudenza, scienze politiche, economia e commercio.
+
+Possono essere iscritti anche coloro che siano in possesso di una laurea diversa e che abbiano sostenuto con esito positivo un colloquio di ammissione.
+
+La misura delle tasse, soprattasse e contributi vari per la scuola e' la seguente:
+
+tassa annuale d'iscrizione. . . . . . . . . . . . . . . . . L. 20.000 soprattassa annuale per esami di profitto. . . . . . . . . . L. 7.000 contributo di riscaldamento. . . . . . . . . . . . . . . . . L. 3.000 soprattassa per esami di diploma . . . . . . . . . . . . . . L. 3.000 tassa di diploma . . . . . . . . . . . . . . . . . . . . . . L. 6.000
+
+Art. 115. - La scuola ha la durata di due anni. Nel primo anno sono impartiti per incarico gli insegnamenti fondamentali insostituibili.
+
+Nel secondo anno gli studenti hanno l'obbligo di frequentare, secondo un piano presentato ed approvato al suo inizio, almeno tre tra i corsi organizzati in forma di seminario che siano effettivamente attivati. Il piano di studi formulato dagli studenti per il secondo anno deve essere approvato dal consiglio della scuola.
+
+Art. 116. - L'esame di diploma consiste in un colloquio generale sulle materie seguite dallo studente e nella discussione di una breve memoria originale, redatta anche in forma di nota a sentenza. La scuola rilascia un diploma di specializzazione. Il colloquio generale che lo studente deve sostenere, verte sulle materie fondamentali insostituibili e su quelle attivate in forma di seminario inserite nel piano individuale ai sensi dell'art. 115.
+
+Art. 117. - Gli insegnamenti fondamentali insostituibili nella scuola sono:
+
+1) diritto dell'impresa privata;
+
+2) diritto dell'impresa pubblica;
+
+3) diritto sindacale;
+
+4) diritto del lavoro;
+
+5) diritto della previdenza sociale (o della "sicurezza" sociale).
+
+Gli insegnamenti della scuola tra i quali vanno scelti quelli da attivare in forma di seminario sono:
+
+1) legislazione del lavoro;
+
+2) il lavoro marittimo e del personale di volo;
+
+3) il rapporto di pubblico impiego;
+
+4) diritto processuale del lavoro e della sicurezza sociale;
+
+5) diritto penale del lavoro;
+
+6) diritto internazionale del lavoro;
+
+7) diritto sociale europeo;
+
+8) storia del movimento sindacale;
+
+9) economia del lavoro;
+
+10) contratti speciali di lavoro;
+
+11) sociologia del lavoro;
+
+12) psicologia industriale;
+
+13) diritto comparato del lavoro;
+
+14) diritto sindacale comparato;
+
+15) diritto comparato della sicurezza sociale;
+
+16) problemi attuali di organizzazione sindacale.
+
+Gli insegnamenti sono integrati dallo svolgimento di conferenze, anche articolate, di letture collettive di monografie e di sentenze.
+
+Art. 118. - La scuola curera' la stampa di una rivista nella quale potranno essere pubblicate anche le memorie di diploma giudicate degne a tale fine.
+
+Art. 119. - La scuola potra' stabilire, su deliberazione del consiglio, rapporti continuativi con enti sindacali, con enti pubblici e pubbliche amministrazioni, con istituzioni attinenti alle materie del corso, ai fini della ricerca scientifica e della specializzazione professionale dei giovani.
+
+La scuola potra', inoltre, su deliberazione del consiglio, promuovere corsi intensivi di aggiornamento secondo le modalita' stabilite di volta in volta.
+
+Art. 120. - La scuola promuove l'assegnazione agli iscritti di borse e premi di studio secondo le modalita' stabilite per ciascun anno dal consiglio della facolta' di giurisprudenza su proposta del consiglio della scuola.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 18 febbraio 1978
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 9 ottobre 1978 Registro n. 109 Istruzione, foglio n. 191
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Dopo l'art. 120, con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli:  
+Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
-A) Scuola di specializzazione in pedagogia  
+Decreta:  
   
-Art. 121. - Alla facolta' di magistero dell'Universita' di Trieste e' annessa una scuola di specializzazione in pedagogia che conferisce il diploma di specializzazione nella ricerca pedagogica e nella sperimentazione.  
-Alla scuola vengono ammessi per concorso ogni anno cinquanta laureati in pedagogia in una facolta' di magistero o laureati con una tesi su argomento pedagogico o didattico in una facolta' umanistica o scientifica.  
-L'esame di ammissione consiste in una prova scritta e in un colloquio, entrambi valutati in trentesimi, e in base ai risultati delle prove sara' stabilita una graduatoria.  
-A parita' di condizioni nella graduatoria hanno precedenza di ammissione i laureati in pedagogia in una facolta' di magistero.  
-Art. 122. - Nella scuola sono impartiti i seguenti insegnamenti cosi' distribuiti per ciascun anno di corso:  
-1° Anno:  
-pedagogia;  
-psicologia pedagogica;  
-auxologia ed igiene;  
-due complementari.  
-2° Anno:  
-storia della pedagogia;  
-didattica;  
-un complementare.  
-Sono insegnamenti complementari:  
-filosofia del linguaggio;  
-istituzioni di diritto pubblico e legislazione scolastica;  
-metodologia e didattica degli audiovisivi;  
-pedagogia comparata;  
-sociologia dell'educazione;  
-storia della letteratura per l'infanzia.  
-Art. 123. - La scuola di specializzazione in pedagogia svolge la sua attivita' secondo le norme di cui al titolo 3, capitolo I, articoli 105, 106, 107, 108, 109, 110 e 111 dello statuto dell'Universita' di Trieste.  
-Ai sensi del suddetto art. 107, oltre agli insegnamenti di cui all'art. 122, presso la scuola potranno svolgersi cicli di conferenze e di esercitazioni su speciali materie stabilite annualmente dal consiglio di facolta'.  
-Su tali materie potra' sostenersi, in ciascun anno, la prova di esame sostitutiva di un esame su un insegnamento complementare di cui all'art. 122.  
-L'organizzazione della scuola e' affidata, nella facolta', all'istituto di pedagogia a cui fanno capo gli insegnamenti della scuola stessa.  
-Detto istituto porra' a disposizione della scuola quanto necessario per il suo funzionamento ed in particolare i corredi di carattere scientifico e bibliografico, i supporti ed i sussidi di carattere didattico gia' disponibili nella sede dell'istituto in misura sufficiente.  
-Salve restando le attribuzioni del preside e del consiglio della facolta' di magistero, la scuola e' retta da un direttore e da un consiglio costituito dai professori che vi insegnano.  
-Il direttore e' nominato dal rettore per un biennio e puo' essere confermato.  
-La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
-Art. 124. - Ai sensi dell'art. 111 dello statuto dell'Universita' di Trieste le tasse di iscrizione e le soprattasse della scuola sono le seguenti:  
+Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appreso:  
+Gli articoli da 112 a 120, relativi alla scuola di perfezionamento e di specializzazione in diritto del lavoro ed in organizzazione aziendale, che muta la denominazione in scuola di perfezionamento e di specializzazione in diritto del lavoro, sono soppressi e sostituiti dai seguenti:  
   
-1° Anno:  
-tassa di immatricolazione . . . . . . . . . . . . . . . . . L. 10.000 tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 50.000 tassa annuale di esami. . . . . . . . . . . . . . . . . . . L. 10.000 Totale. . . . . . . . . . . . . . . . . . . . . . . . . . . L. 70.000 Anni successivi:  
-tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 50.000 tassa annuale di esami. . . . . . . . . . . . . . . . . . . L. 10.000 Totale. . . . . . . . . . . . . . . . . . . . . . . . . . . L. 60.000 soprattassa di diploma. . . . . . . . . . . . . . . . . . . L. 10.000   
-Art. 125. - Il consiglio direttivo della scuola approva:  
-a) i programmi dei singoli corsi di insegnamento e la rispettiva durata;  
-b) l'iscrizione al secondo anno di corso degli allievi che abbiano sostenuto almeno due esami fondamentali ed un complementare del primo anno.  
-Art. 126. - L'esame di diploma consiste nella discussione orale di una dissertazione scritta su di un argomento di ricerca pedagogica e di sperimentazione assegnato da uno dei docenti della scuola sentito il parere del consiglio direttivo.  
-Il candidato non riconosciuto idoneo ad una prima prova dell'esame di diploma puo' ripresentarsi una seconda volta ma non nello stesso anno accademico.  
-Le commissioni di esame sono costituite da insegnanti della scuola secondo le norme vigenti degli esami universitari. Gli esami saranno svolti nelle sessioni di esame previste dalla legge.  
-Art. 127. - Per conseguire il diploma si richiede una frequenza di due anni, il superamento di tutti gli esami relativi al primo ed al secondo anno e dell'esame di diploma.  
+Scuola di perfezionamento in diritto del lavoro  
+Art. 112. - La scuola di diritto del lavoro, annessa all'istituto di diritto del lavoro della facolta' di giurisprudenza, ha lo scopo di integrare la preparazione scientifica e professionale dei giovani, perfezionandoli e specializzandoli nelle discipline giuridiche attinenti al lavoro.  
+Art. 113. - La scuola e' retta da un direttore e da un consiglio composto dai professori titolari degli insegnamenti fondamentali della scuola. Partecipano alle riunioni del consiglio per l'esame dei problemi concernenti il coordinamento dei programmi tutti i docenti della scuola.  
+Direttore ne e' il professore titolare della cattedra di diritto del lavoro della facolta' di giurisprudenza o, in mancanza, un professore di ruolo nominato dal rettore su proposta della facolta' di giurisprudenza.  
+Il direttore puo' designare tra i componenti del consiglio un vice direttore che lo coadiuva e lo sostituisce in caso di impedimento.  
+La nomina dei docenti e' fatta dal rettore su designazione del consiglio della facolta' di giurisprudenza su proposta del consiglio della scuola.  
+Art. 114. - Alla scuola possono essere iscritti i laureati in giurisprudenza, scienze politiche, economia e commercio.  
+Possono essere iscritti anche coloro che siano in possesso di una laurea diversa e che abbiano sostenuto con esito positivo un colloquio di ammissione.  
+La misura delle tasse, soprattasse e contributi vari per la scuola e' la seguente:  
+  
+tassa annuale d'iscrizione. . . . . . . . . . . . . . . . . L. 20.000 soprattassa annuale per esami di profitto. . . . . . . . . . L. 7.000 contributo di riscaldamento. . . . . . . . . . . . . . . . . L. 3.000 soprattassa per esami di diploma . . . . . . . . . . . . . . L. 3.000 tassa di diploma . . . . . . . . . . . . . . . . . . . . . . L. 6.000   
+Art. 115. - La scuola ha la durata di due anni. Nel primo anno sono impartiti per incarico gli insegnamenti fondamentali insostituibili.  
+Nel secondo anno gli studenti hanno l'obbligo di frequentare, secondo un piano presentato ed approvato al suo inizio, almeno tre tra i corsi organizzati in forma di seminario che siano effettivamente attivati. Il piano di studi formulato dagli studenti per il secondo anno deve essere approvato dal consiglio della scuola.  
+Art. 116. - L'esame di diploma consiste in un colloquio generale sulle materie seguite dallo studente e nella discussione di una breve memoria originale, redatta anche in forma di nota a sentenza. La scuola rilascia un diploma di specializzazione. Il colloquio generale che lo studente deve sostenere, verte sulle materie fondamentali insostituibili e su quelle attivate in forma di seminario inserite nel piano individuale ai sensi dell'art. 115.  
+Art. 117. - Gli insegnamenti fondamentali insostituibili nella scuola sono:  
+1) diritto dell'impresa privata;  
+2) diritto dell'impresa pubblica;  
+3) diritto sindacale;  
+4) diritto del lavoro;  
+5) diritto della previdenza sociale (o della "sicurezza" sociale).  
+Gli insegnamenti della scuola tra i quali vanno scelti quelli da attivare in forma di seminario sono:  
+1) legislazione del lavoro;  
+2) il lavoro marittimo e del personale di volo;  
+3) il rapporto di pubblico impiego;  
+4) diritto processuale del lavoro e della sicurezza sociale;  
+5) diritto penale del lavoro;  
+6) diritto internazionale del lavoro;  
+7) diritto sociale europeo;  
+8) storia del movimento sindacale;  
+9) economia del lavoro;  
+10) contratti speciali di lavoro;  
+11) sociologia del lavoro;  
+12) psicologia industriale;  
+13) diritto comparato del lavoro;  
+14) diritto sindacale comparato;  
+15) diritto comparato della sicurezza sociale;  
+16) problemi attuali di organizzazione sindacale.  
+Gli insegnamenti sono integrati dallo svolgimento di conferenze, anche articolate, di letture collettive di monografie e di sentenze.  
+Art. 118. - La scuola curera' la stampa di una rivista nella quale potranno essere pubblicate anche le memorie di diploma giudicate degne a tale fine.  
+Art. 119. - La scuola potra' stabilire, su deliberazione del consiglio, rapporti continuativi con enti sindacali, con enti pubblici e pubbliche amministrazioni, con istituzioni attinenti alle materie del corso, ai fini della ricerca scientifica e della specializzazione professionale dei giovani.  
+La scuola potra', inoltre, su deliberazione del consiglio, promuovere corsi intensivi di aggiornamento secondo le modalita' stabilite di volta in volta.  
+Art. 120. - La scuola promuove l'assegnazione agli iscritti di borse e premi di studio secondo le modalita' stabilite per ciascun anno dal consiglio della facolta' di giurisprudenza su proposta del consiglio della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 maggio 1981
+### Dato a Roma, addi' 18 febbraio 1978
 
-PERTINI BODRATO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 30 gennaio 1982
+Registrato alla Corte dei conti, addi' 9 ottobre 1978
 
-Registro n. 12 Istruzione, foglio n. 27
+Registro n. 109 Istruzione, foglio n. 191

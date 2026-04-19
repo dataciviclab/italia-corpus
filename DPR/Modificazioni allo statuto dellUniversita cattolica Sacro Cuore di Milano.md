@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 aprile 1986 n. 490
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1977 n. 514
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 aprile 1986 n. 490
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1977 n. 514
+==============================================================
 
 Modificazioni allo statuto dell'Universita' cattolica "Sacro Cuore" di Milano.
 ------------------------------------------------------------------------------
@@ -10,348 +10,390 @@ Modificazioni allo statuto dell'Universita' cattolica "Sacro Cuore" di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' cattolica "S. Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
+Veduto lo statuto dell'Universita' cattolica "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vista la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica "Sacro Cuore" di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
-Visto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione di concerto con il Ministro per il tesoro;
 
 Decreta:
 --------
 
-Lo statuto dell'Universita' cattolica "S. Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' cattolica "Sacro Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Art. 1
 ------
 
   
-  
-L'art. 145, relativo alla scuola di specializzazione in ematologia generale (clinica e laboratorio), che muta denominazione in scuola di specializzazione in ematologia, e' sostituito dai seguenti con il conseguente spostamento della numerazione degli articoli successivi:   
-  
-Scuola di specializzazione in ematologia   
-  
-Art. 145. - E' istituita la scuola di specializzazione in ematologia presso l'Universita' cattolica del Sacro Cuore di Milano.   
-La scuola ha lo scopo di fornire le competenze professionali relative alla patologia ematologica, alla terapia delle emolinfopatie e delle malattie emorragiche e trombotiche inclusa la terapia trasfusionale.   
-La scuola rilascia il titolo di specialista in ematologia.   
-Art. 146. - La scuola ha la durata di quattro anni.   
-Ciascun anno di corso prevede 800 ore di insegnamento e di attivita' pratiche guidate.   
-In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in quindici per ciascun anno di corso, per un totale di sessanta specializzandi.   
-Art. 147. - Per l'attuazione delle attivita' didattiche, programmate dal consiglio della scuola, provvede la facolta' di medicina e chirurgia "A. Gemelli".   
-Art. 148. - Sono ammessi alle prove per ottenere l'iscrizione i laureati in medicina e chirurgia. Per l'iscrizione alla scuola e' richiesto il possesso del diploma di abilitazione all'esercizio della professione.   
-Art. 149. - La scuola comprende cinque aree di insegnamento e tirocinio professionale:   
-a) fisiopatologia generale;   
-b) morfologia;   
-c) diagnostica di laboratorio;   
-d) diagnostica strumentale;   
-e) clinica.   
-Art. 150. - Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:   
-a) fisiopatologia generale:   
-biologia delle cellule staminali ematiche e del sistema monocitomacrofagico;   
-fisiopatologia generale del plasma;   
-genetica molecolare;   
-differenziazione cellulare;   
-immunita' umorale cellulare e naturale.   
-b) morfologia normale e patologica:   
-morfologia e citochimica dell'emolinfopoiesi;   
-istopatologia, istoimmunochimica degli organi emolinfopoietici; morfologia e immunoistochimica ultrastrutturale degli organi emolinfopoietici.   
-c) diagnostica di laboratorio:   
-principi e metodiche biochimico-cliniche;   
-principi e metodiche radioimmunologiche;   
-principi e metodiche immunologiche;   
-principi e metodiche per lo studio dell'emostasi;   
-inarcatori gruppo ematici;   
-principi e metodiche emoreologiche;   
-i marcatori gruppo-ematici nelle indagini medico-legali;   
-organizzazione di laboratorio;   
-strumentazione e controlli di qualita'.   
-d) diagnostica strumentale:   
-radiologia;   
-ultrasuonografia;   
-tomografia assiale computerizzata;   
-medicina nucleare;   
-endoscopia.   
-e) clinica:   
-fisiopatologia clinica e inquadramento nosografico dell'eritropoiesi, granulocitopoiesi, linfocitopoiesi e piastrinopoiesi;   
-fisiopatologia clinica e inquadramento nosografico delle malattie emorragiche e trombotiche;   
-clinica e terapia dei disordini della emostasi;   
-clinica e terapia dei disordini della mielopoiesi;   
-clinica e terapia dei disordini della linfopoiesi;   
-clinica e terapia delle immunodeficienze congenite e acquisite; profilassi e terapia delle infezioni nei pazienti immunodepressi;   
-profilassi e terapia delle malattie trasmesse con terapia trasfusionale;   
-trapianto di midollo osseo aiutologo e allogenico;   
-aspetti della raccolta di sangue e del frazionamento del sangue umano;   
-terapia trasfusionale;   
-emafaresi produttiva e terapeutica;   
-principi di chemioterapia antiblastica;   
-principi di radioterapia.   
-Art. 151. - L'attivita' didattica comprende ogni anno 800 ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in una attivita' didattica teorico-pratica comune per tutti gli studenti (400 ore come di seguito ripartite) ed in una attivita' didattica elettiva, prevalentemente di carattere tecnico-applicativo di ulteriori 400 ore rivolta all'apprendimento del curriculum corrispondente ad uno dei settori formativo-professionali (monte ore elettivo) (emolinfopatie, malattie emorragiche e trombotiche, immunoematologia e terapia trasfusionale, laboratorio di patologia clinica in ematologia).   
-La frequenza nelle diverse aree avviene pertanto come di seguito specificato:   
-  
-1° Anno:   
-Fisiopatologia generale (ore 200):   
-biologia delle cellule staminali ematiche e del sistema monocitomacrofagico. . . . . . . . . . . . . . . . . . . . . . ore 50 fisiopatologia generale del plasma . . . . . . . . . . . . . . ore 30 genetica molecolare. . . . . . . . . . . . . . . . . . . . . . ore 30 differenziazione cellulare . . . . . . . . . . . . . . . . . . ore 30 immunita' umorale cellulare e naturale . . . . . . . . . . . . ore 60 Morfologia normale e patologica (ore 100):   
-morfologia e citochimica dell'emolinfopoiesi . . . . . . . . . ore 40 istopatologia, isto-immunochimica degli organi emolinfopoietici. ore 30   
-morfologia e immunoistochimica ultrastrutturale degli organi emolinfopoietici . . . . . . . . . . . . . . . . . . . . . . . ore 30 Diagnostica di laboratorio (ore 100):   
-principi e metodiche biochimico-cliniche . . . . . . . . . . . ore 40 principi e metodiche radio-immunologiche. . . . . . . . . . . . ore 10 principi e metodiche immunologiche . . . . . . . . . . . . . . ore 20 principi e metodiche per lo studio dell'emostasi . . . . . . . ore 30 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-  
-2° Anno:   
-Morfologia normale e patologica (ore 150):   
-morfologia e citochimica della emolinfopoiesi. .ore 70   
-istopatologia, istoimmunochimica degli organi emolinfopoietici. . . .  
-. . . . ore 40 morfologia e immunoistochimica ultrastrutturale degli organi emolinfopoietici . . . . . . . . . . . . . . . . . . . . . . . ore 40 Diagnostica di laboratorio (ore 150):   
-principi e metodiche biochimico-cliniche . . . . . . . . . . . ore 50 principi e metodiche radio-immunologiche. . . . . . . . . . . . ore 10 principi e metodiche immunologiche . . . . . . . . . . . . . . ore 30 principi e metodiche per lo studio dell'emostasi . . . . . . . ore 60 Diagnostica strumentale (ore 100):   
-radiologia . . . . . . . . . . . . . . . . . . . . . . . . . . ore 60 ultrasuonografia . . . . . . . . . . . . . . . . . . . . . . . ore 20 tomografia assiale computerizzata. . . . . . . . . . . . . . . ore 20 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-  
-3° Anno:   
-Morfologia normale e patologica del sangue (ore 100):   
-morfologia e citochimica della emolinfopiesi . . . . . . . . . ore 40 istopatologia istoimmunochimica degli organi emolinfopoietici. ore 30 morfologia e immunoistochimica ultrastrutturale. . . . . . . . ore 30 Diagnostica di laboratorio (ore 100):   
-marcatori gruppo ematici . . . . . . . . . . . . . . . . . . . ore 60 principi e metodiche emoreologiche . . . . . . . . . . . . . . ore 20 marcatori gruppo ematici nelle indagini medico-legali. . . . . ore 20 Clinica (ore 200):   
-fisiopatologia clinica e inquadramento nosografico dell'eritropoiesi, granulocitopoiesi, linfocitopoiesi e piastrinopoiesi . . . . . ore 40 fisiopatologia clinica e inquadramento nosografico delle malattie emorragiche e trombotiche. . . . . . . . . . . . . . . . . . . ore 20 clinica e terapia dei disordini della emostasi . . . . . . . . ore 20 clinica e terapia dei disordini della mielopoiesi. . . . . . . ore 40 clinica e terapia dei disordini della linfopoiesi. . . . . . . ore 40 principi di chemioterapia antiblastica . . . . . . . . . . . . ore 20 principi di radioterapia . . . . . . . . . . . . . . . . . . . ore 20 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-  
-4° Anno:   
-Morfologia normale e patologica del sangue (ore 50):   
-morfologia e citochimica dell'emolinfopoiesi . . . . . . . . . ore 50 Diagnostica strumentale (ore 50):   
-medicina nucleare. . . . . . . . . . . . . . . . . . . . . . . ore 25 endoscopia . . . . . . . . . . . . . . . . . . . . . . . . . . ore 25 Clinica (ore 300):   
-clinica e terapia dei disordini della emostasi . . . . . . . . ore 20 clinica e terapia dei disordini della mielopoiesi. . . . . . . ore 50 clinica e terapia dei disordini della linfopoiesi. . . . . . . ore 50 clinica e terapia delle immunodeficienze congenite e acquisite. ore 20   
-profilassi e terapia delle infezioni nei pazienti immunodepressi. ore   
-20   
-profilassi e terapia delle malattie trasmesse con terapia trasfusionale. . . . . . . . . . . . . . . . . . . . . . . . . ore 20 trapianto di midollo osseo autologo e allogenico . . . . . . . ore 20 aspetti di raccolta di sangue e frazionamento del sangue umano. ore 20   
-terapia trasfusionale. . . . . . . . . . . . . . . . . . . . . ore 20 emaferesi produttiva e terapeutica . . . . . . . . . . . . . . ore 20 principi di chemioterapia antiblastica . . . . . . . . . . . . ore 20 principi di radioterapia . . . . . . . . . . . . . . . . . . . ore 20 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-  
-Art. 152. - Durante i quattro anni di corso e' richiesta la frequenza ai fini dell'apprendimento nei reparti di degenza di ematologia, nell'ambulatorio e Day Hospital, nei laboratori dei servizi di ematologia, emotrasfusione e emocoagulazione.   
-La frequenza nelle varie aree per complessive 800 ore annue, compreso il monte ore elettivo di 400 ore annue, avverra' secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienza e di formazione scientifica. Il consiglio della scuola ripartira' annualmente il monte ore elettivo.   
-Il consiglio della scuola predispone apposito libretto di formazione che consenta allo specializzando ed al consiglio stesso il controllo dell'attivita' svolta e dell'acquisizione dei progressi compiuti.   
+Il [decreto del Presidente della Repubblica 5 aprile 1974, n. 607](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-04-05;607), con il quale, tra l'altro, si modificava la tabella 1 annessa allo statuto dell'Universita' cattolica del Sacro Cuore di Milano, nel senso che l'organico dei professori di ruolo, per la facolta' di agraria, passava da 7 + 1 a 8 + 1, e' rettificato come al seguente art. 2, in quanto l'aumento di posto apportato con il decreto del Presidente della Repubblica in parola si riferiva ad un posto di ruolo convenzionato.  
 
 Art. 2
 ------
 
   
-  
-L'art. 146, relativo alla scuola di specializzazione in cardiologia, e' sostituito dai seguenti con il conseguente spostamento della numerazione degli articoli successivi.   
-Scuola di specializzazione in cardiologia   
-Art. 153 (ex art. 146). - E' istituita la scuola di specializzazione in cardiologia presso l'Universita' cattolica del Sacro Cuore di Milano. La scuola ha lo scopo di insegnare e di approfondire gli studi nel campo della cardiologia e di fornire le competenze professionali necessarie per il conseguimento del diploma che legittima l'assunzione della qualifica di specialista in cardiologia.   
-La scuola rilascia il titolo di specialista in cardiologia.   
-Art. 154. - La scuola ha la durata di quattro anni.   
-Ciascun anno di corso prevede 800 ore di insegnamento e di attivita' pratiche guidate.   
-In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in quattro per ciascun anno di corso, per un totale di sedici specializzandi.   
-Art. 155. - Per l'attuazione delle attivita' didattiche, programmate dal consiglio della scuola, provvede la facolta' di medicina e chirurgia "A. Gemelli".   
-Art. 156. - Sono ammessi alle prove per ottenere l'iscrizione i laureati in medicina e chirurgia.   
-Per l'iscrizione alla scuola e' richiesto il possesso del diploma di abilitazione all'esercizio della professione.   
-Art. 157. - La scuola comprende dieci aree di insegnamento e tirocinio professionale:   
-a) strutture e metabolismo del cuore e dei vasi;   
-b) fisiologia dell'apparato cardiovascolare;   
-c) fisiopatologia cardiorespiratoria;   
-d) medicina interna generale;   
-e) semeiotica generale cardiovascolare;   
-f) informatica medica e strumentazione biomedica;   
-g) metodologie diagnostiche non invasive;   
-h) metodologie diagnostiche invasive e cardiochirurgia;   
-i) patologia e clinica cardiovascolare;   
-l) farmacologia e terapia cardiovascolare.   
-Art. 158. - Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:   
-a) struttura e metabolismo del cuore e dei vasi:   
-anatomia umana normale ed embriologia dell'apparato cardiovascolare;   
-biochimica;   
-biofisica.   
-b) fisiologia dell'apparato cardiovascolare:   
-fisiologia dell'apparato cardiovascolare I;   
-fisiologia dell'apparato cardiovascolare II.   
-c) fisiopatologia cardiorespiratoria:   
-fisiopatologia cardiorespiratoria I;   
-fisiopatologia cardiorespiratoria II.   
-d) medicina interna generale:   
-fondamenti di semeiotica medica;   
-rapporti tra patologia dei vari apparati e patologia cardiovascolare.   
-e) semeiotica generale cardiovascolare:   
-semeiotica del ricambio idrosalino;   
-semeiotica fisica cardiovascolare I;   
-semeiotica fisica cardiovascolare II.   
-f) informatica medica e strumentazione biomedica:   
-informatica medica e strumentazione biomedica I;   
-informatica medica e strumentazione biomedica II.   
-g) metodologie diagnostiche non invasive;   
-indagini diagnostiche non invasive I (elettrocardiografia e vettocardiografia, fonocardiografia e poligrafia);   
-indagini diagnostiche non invasive II (semeiotica funzionale vascolare periferica, ergometria);   
-indagini diagnostiche non invasive III (elettrocardiografia dinamica, ecocardiografia, radiologia non contrastografica, TAC, risonanza magnetica nucleare RMN, metodiche radioisotopiche).   
-h) metodologie diagnostiche invasive e cardiochirurgia:   
-indagini diagnostiche invasive I (emodinamica, elettrofisiologia);   
-indagini diagnostiche invasive II (radiologia contrastografica);   
-cardiochirurgia.   
-i) patologia e clinica cardiovascolare:   
-anatomia patologica I;   
-anatomia patologica II;   
-patologia e clinica cardiovascolare I;   
-patologia e clinica cardiovascolare II;   
-patologia e clinica cardiovascolare III.   
-l) farmacologia e terapia cardiovascolare:   
-farmacologia cardiovascolare;   
-farmacologia e terapia cardiovascolare;   
-terapie intensive cardiologiche.   
-Art. 159. - L'attivita' didattica comprende ogni anno 800 ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in una attivita' didattica teorico-pratica comune per tutti gli studenti (400 ore come di seguito ripartite) ed in una attivita' didattica elettiva, prevalentemente di carattere tecnico-applicativo, di ulteriori 400 ore, rivolta all'apprendimento del curriculum corrispondente ad uno dei settori formativo-professionali (monte ore elettivo).   
-La frequenza nelle diverse aree avviene pertanto come di seguito specificato:   
-  
-1° Anno:   
-Struttura e metabolismo del cuore e dei vasi (ore 50):   
-anatomia umana normale ed embriologia dell'apparato cardiovascolare.  
-. . . . . . . . . . . . . . . . . . . . . . . ore 20 biochimica e biofisica . . . . . . . . . . . . . . . . . . . . ore 30 Fisiologia dell'apparato cardiovascolare (ore 50):   
-fisiologia dell'apparato cardiovascolare I.   
-Fisiopatologia cardiorespiratoria (ore 100):   
-fisiopatologia cardiorespiratoria I.   
-Medicina interna generale (ore 100):   
-fondamenti di semeiotica medica. . . . . . . . . . . . . . . . ore 50 rapporti tra patologia di vari apparati e patologia cardiovascolare.  
-. . . . . . . . . . . . . . . . . . . . . . . ore 50 Semeiotica generale cardiovascolare (ore 50):   
-semeiotica del ricambio idrosalino.   
-Informativa medica e strumentazione biomedica (ore 50):   
-informatica medica e strumentazione biomedica I.   
-Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-  
-2° Anno:   
-Fisiologia dell'apparato cardiovascolare (ore 50):   
-fisiologia dell'apparato cardiovascolare II.   
-Fisiologia cardiorespiratoria (ore 50):   
-fisiopatologia cardiorespiratoria II.   
-Semeiotica generale cardiovascolare (ore 50):   
-semeiotica fisica cardiovascolare II.   
-Informatica medica e strumentazione biomedica (ore 50):   
-informatica medica e strumentazione biomedica II.   
-Metodologie diagnostiche non invasive (ore 50):   
-indagini diagnostiche non invasive I.   
-Metodologie diagnostiche invasive e cardiochirurgia (ore 50):   
-indagini diagnostiche invasive I.   
-Patologia clinica cardiovascolare (ore 50):   
-anatomia patologica I. . . . . . . . . . . . . . . . . . . . . ore 20 patologia e clinica cardiovascolare I. . . . . . . . . . . . . ore 30 Farmacologia e terapia cardiovascolare (ore 50):   
-farmacologia cardiovascolare.   
-Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-  
-3° Anno:   
-Semeiotica generale e cardiovascolare (ore 50):   
-semeiotica fisica cardiovascolare II.   
-Metodologie diagnostiche non invasive (ore 100):   
-indagini diagnostiche non invasive II.   
-Metodologie diagnostiche invasive e cardiochirurgia (ore 50):   
-indagini diagnostiche invasive II.   
-Patologia e clinica cardiovascolare (ore 100):   
-anatomia patologica II. . . . . . . . . . . . . . . . . . . . . ore 20 patologia e clinica cardiovascolare II. . . . . . . . . . . . . ore 80 Farmacologia e terapia cardiovascolare (ore 100):   
-farmacologia e terapia cardiovascolare.   
-Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-  
-4° Anno:   
-Metodologie diagnostiche non invasive (ore 100):   
-indagini diagnostiche non invasive III.   
-Metodologie diagnostiche invasive e cardiochirurgia (ore 100):   
-cardiochirurgia.   
-Patologia e clinica cardiovascolare (ore 100):   
-patologia e clinica cardiovascolare III.   
-Farmacologia e terapia cardiovascolare (ore 100):   
-terapie intensive cardiologiche.   
-Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-  
-Art. 160. - Durante i quattro anni di corso e' richiesta la frequenza ai fini dell'apprendimento, della divisione di cardiologia, dell'ambulatorio del servizio di cardiologia e del laboratorio dell'istituto di cardiologia.   
-La frequenza nelle varie aree per complessive 800 ore annue, compreso il monte ore elettivo di 400 ore annue, avverra' secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienza e di formazione professionale. Il consiglio della scuola ripartira' annualmente il monte ore elettivo.   
-Il consiglio della scuola predispone apposito libretto di formazione, che consente allo specializzando ed al consiglio stesso il controllo dell'attivita' svolta e dell'acquisizione dei progressi compiuti per sostenere gli esami annuali e finali.   
+Sono approvate e rese esecutive le annesse convenzioni stipulate in Milano il 30 novembre 1973 e l'8 luglio 1974 per il finanziamento rispettivamente di un posto di professore di ruolo per l'insegnamento di industrie agrarie (enologia, caseificio, oleificio) e per un posto di professore di ruolo per l'insegnamento di valutazione zootecnica degli alimenti presso la facolta' di agraria dell'Universita' cattolica "Sacro Cuore" di Milano, e pertanto la tabella 1, per quanto riguarda l'organico di professori di ruolo della predetta facolta', e' modificato nel senso che viene portato a 7 + 3.  
 
 Art. 3
 ------
 
   
-Gli articoli 196 e 197, relativi alla scuola di specializzazione in odontostomatologia, sono sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi:  
   
-Scuola di specializzazione in odontostomatologia  
-Art. 196. - E' istituita la scuola di specializzazione in odontostomatologia presso l'Universita' cattolica del Sacro Cuore di Milano.  
-  
-La scuola rilascia il titolo di specialista in odontostomatologia.  
-Art. 197. - La scuola ha la durata di tre anni.  
-Ciascun anno di corso prevede 800 ore di insegnamento e di attivita' pratiche guidate.  
-In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in sei per ciascun anno di corso, per un totale di diciotto specializzandi.  
-Art. 198. - Per l'attuazione delle attivita' didattiche, programmate dal consiglio della scuola, provvede la facolta' di medicina e chirurgia "A. Gemelli".  
-Art. 199. - Sono ammessi alle prove per ottenere l'iscrizione i laureati in medicina e chirurgia.  
-Per l'iscrizione alla scuola e' richiesto il possesso del diploma di abilitazione all'esercizio della professione.  
-Art. 200. - La scuola comprende quattro aree di insegnamento e tirocinio professionale:  
-a) medica;  
-b) chirurgica;  
-c) stomatologica;  
-d) specialistica odontoiatrica.  
-Art. 201. - Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:  
-a) area medica:  
-farmacologia;  
-anestesiologia e rianimazione;  
-dermatologia;  
-medicina legale;  
-embriologia (dento-maxillo-facciale).  
-b) area chirurgica:  
-chirurgia odontostomatologica e tecniche di anestesia locale;  
-clinica chirurgica maxillo-facciale e tecniche operative.  
-c) area stomatologica:  
-odontostomatologia preventiva;  
-patologia oro-maxillo-facciale;  
-radiologia odontostomatologica;  
-paradontologia;  
-clinica odontostomatologica.  
-d) area specialistica odontoiatrica:  
-materiali dentali;  
-odontotecnica:  
-odontoiatria infantile;  
-endodonzia;  
-clinica protesica;  
-ortognatodonzia;  
-odontoiatria conservativa.  
-Art. 202. - L'attivita' didattica comprende ogni anno 800 ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in una attivita' didattica teorico-pratica comune per tutti gli studenti (400 ore come di seguito ripartite) ed in una attivita' didattica elettiva, prevalentemente di carattere tecnico applicativo, di ulteriori 400 ore rivolta all'apprendimento del curriculum corrispondente ad uno dei settori formativo-professionali (monte ore elettivo).  
-  
-La frequenza nelle diverse aree avviene pertanto come di seguito specificato:  
-  
-1° Anno:  
-Area medica (ore 70):  
-farmacologia . . . . . . . . . . . . . . . . . . . . . . . . . ore 20 anestesiologia e rianimazione. . . . . . . . . . . . . . . . . ore 20 dermatologia . . . . . . . . . . . . . . . . . . . . . . . . . ore 10 embriologia. . . . . . . . . . . . . . . . . . . . . . . . . . ore 20 Area chirurgica (ore 50):  
-chirurgia odontostomatologia e tecniche di anestesia locale.  
-Area stomatologica (ore 80):  
-patologia oro-maxillo-facciale . . . . . . . . . . . . . . . . ore 50 clinica odontostomatologica. . . . . . . . . . . . . . . . . . ore 30 Area specialistica odontoiatrica (ore 200):  
-materiali dentali. . . . . . . . . . . . . . . . . . . . . . . ore 50 odontotecnica. . . . . . . . . . . . . . . . . . . . . . . . . ore 50 odontoiatria conservativa . . . . . . . . . . . . . . . . . . ore 100 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-2° Anno:  
-Area chirurgica (ore 50):  
-chirurgia odontostomatologica e tecniche di anestesia locale.  
-Area stomatologica (ore 100):  
-odontostomatologia preventiva. . . . . . . . . . . . . . . . . ore 20 radiologia odontostomatologica . . . . . . . . . . . . . . . . ore 30 paradontologia . . . . . . . . . . . . . . . . . . . . . . . . ore 50 Area specialistica odontoiatrica (ore 250):  
-odontoiatria infantile . . . . . . . . . . . . . . . . . . . . ore 50 clinica protesica. . . . . . . . . . . . . . . . . . . . . . . ore 70 ortognatodonzia. . . . . . . . . . . . . . . . . . . . . . . . ore 50 odontoiatria conservativa. . . . . . . . . . . . . . . . . . . ore 80 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-3° Anno:  
-Area medica (ore 20):  
-medicina legale.  
-Area chirurgica (ore 30):  
-clinica chirurgica maxillo-facciale e tecniche operative.  
-Area stomatologica (ore 100):  
-paradontologia . . . . . . . . . . . . . . . . . . . . . . . . ore 30 clinica odontostomatologica. . . . . . . . . . . . . . . . . . ore 70 Area specialistica odontoiatrica (ore 250):  
-endodonzia . . . . . . . . . . . . . . . . . . . . . . . . . . ore 50 clinica protesica . . . . . . . . . . . . . . . . . . . . . . ore 100 ortognatodonzia . . . . . . . . . . . . . . . . . . . . . . . ore 100 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-Art. 203. - Durante i tre anni di corso e' richiesta la frequenza nei seguenti reparti: odontoiatria conservativa, odontoiatria infantile, endodonzia, protesi, ortognatodonzia, paradontologia, chirurgia orale, estrazioni, degenza, radiologia odontostomatologica.  
-La frequenza nelle varie aree per complessive 800 ore annue, compreso il monte ore elettivo di 400 ore annue, avverra' secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienza e di formazione scientifica.  
-Il consiglio della scuola predispone apposito libretto di formazione, che consenta allo specializzando ed al consiglio stesso il controllo dell'attivita' svolta e dall'acquisizione dei progressi compiuti.  
+E' approvata e resa esecutiva l'annessa convenzione, stipulata in Milano il 4 febbraio 1976, per il finanziamento di un posto di professore di ruolo per l'insegnamento di tecnica bancaria presso la facolta' di economia e commercio dell'Universita' cattolica "Sacro Cuore" di Milano, e pertanto la tabella 1, per quanto riguarda l'organico dei professori di ruolo della predetta facolta', e' modificata nel senso che viene portato a 16 + 1.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 aprile 1986
+### Dato a Roma, addi' 29 gennaio 1977
 
-COSSIGA
+LEONE MALFATTI - STAMMATI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: BONIFACIO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 30 luglio 1977
 
-Registrato alla Corte dei conti, addi' 25 luglio 1986
+Registro n. 92 Istruzione, foglio n. 22 Repertorio n. 31
 
-Registro n. 60 Istruzione, foglio n. 341
+Convenzione per l'istituzione di un posto di professore presso la facoltà di agraria- art. 1
+
+ REPUBBLICA ITALIANA   
+UNIVERSITA' CATTOLICA S. CUORE DI MILANO   
+  
+  
+CONVENZIONE TRA L'UNIVERSITA' CATTOLICA DEL SACRO CUORE E NUMERO UNDICI INDUSTRIE OPERANTI NEL SETTORE ENOLOGICO PER L'ISTITUZIONE DI UN POSTO CONVENZIONATO DI PROFESSORE DI RUOLO PRESSO LA FACOLTA' DI AGRARIA DELL'UNIVERSITA' CATTOLICA DEL SACRO CUORE.   
+  
+  
+L'anno 1973 (millenovecentosettantatre) il giorno 30 (trenta) del mese di novembre, alle ore undici, in Milano, in una sala del rettorato dell'Universita' cattolica del Sacro Cuore, in largo Gemelli, 1, dinnanzi a me dott. Giancarlo Brasca, nato a Mezzago (Milano) il 1 agosto 1920, residente a Milano, nella mia qualita' di direttore amministrativo dell'Universita' cattolica del Sacro Cuore, delegato a ricevere gli atti in forma pubblica, a norma dell'art. 129 del R.G.U. approvato con [regio decreto 6 aprile 1924, n. 674, con decreto](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674) del rettore in data 7 ottobre 1971, n. 1536, alla presenza dei testimoni:   
+sig. dott. Domenico Lofrese, nato a Acquaviva delle Fonti (Bari) il 6 febbraio 1932 e residente a Roma, via Trionfale, 8229;   
+sig, Sergio Dal Corso, nato a Venezia il 9 marzo 1930 e residente in Milano, via Mecenate, 7,   
+si sono personalmente costituiti i signori:   
+Lazzati prof. Giuseppe, nato a Milano il 22 giugno 1909, residente a Milano, il quale interviene al presente atto nella sua qualita' di rettore dell'Universita' cattolica del Sacro Cuore a cio' autorizzato con delibera della giunta direttiva del consiglio di amministrazione dell'Universita' cattolica del 28 novembre 1973;   
+De Marchi dott. Alberto, amministratore delegato della S.p.a.  
+Winefood, con sede in Corsico (Milano), via G. di Vittorio, 32, il quale mi dichiara di avere per tale sua qualita' i poteri per questo atto;   
+Morgante avv. Francesco, presidente della Soc. coop. a r.l.  
+Aziende agricole riunite "Torre Salsa", con sede in Siculiana (Agrigento), il quale mi dichiara di avere per tale sua qualita' i poteri per questo atto;   
+Bertolaso Luigino, amministratore delegato della S.p.a.  
+Bertolaso, con sede in Zimella (Verona), il quale mi dichiara di avere per tale sua qualita' i poteri per questo atto;   
+Dal Cin dott. Gildo, amministratore unico della S.r.l.  
+Laboratorio chimico dott. G. Dal Cin, con sede in Sesto S. Giovanni (Milano), viale Casiraghi, 422, il quale mi dichiara di avere per tale sua qualita' i poteri per questo atto;   
+Botta ing. Giorgio, presidente della S.a.s. Plastocoat, con sede in Torino, via Cumiana, 28, il quale mi dichiara di avere per tale sua qualita' i poteri per questo atto;   
+Sernagiotto Emilio, amministratore unico della S.p.a. Officine meccaniche Sernagiotto, con sede in Casteggio (Pavia), via Torino, 109, il quale mi dichiara di avere per tale sua qualita' i poteri per questo atto;   
+Zonin Giovanni, presidente della S.p.a. Zonin, con sede in Gambellara (Vicenza), il quale mi dichiara di avere per tale sua qualita' i poteri per questo atto;   
+Isolabella dott. Guido, presidente della S.p.a. E. Isolabella e Figlio, con sede in Milano, via Villoresi, 11/13, il quale mi dichiara di avere per tale sua qualita' i poteri per questo atto;   
+Ponti Franco, procuratore della S.p.a. Ponti, con sede in Ghemme (Novara), via E. Ferrari, 7, il quale mi dichiara di avere per tale sua qualita' i poteri per questo atto;   
+Denari duca Antonio Giuseppe, presidente della S.p.a. Premiata cantina sociale, con sede in Santa Maria della Versa (Pavia), iL quale mi dichiara di avere per tale sua qualita' i poteri per questo atto;   
+Agnetti Alberto, amministratore della S.p.a. Selip, con sede in Milano, via Ippolito Nievo, 23, il quale mi dichiara di avere per tale sua qualita' i poteri per questo atto;   
+  
+  
+Premesso   
+  
+  
+che le industrie qui costituite, nella piena consapevolezza dello sviluppo sempre piu' notevole che caratterizza l'enologia italiana e conseguentemente delle esigenze relative a tale settore e allo scopo di aggiornare continuamente il livello qualitativo della produzione onde consentire alle industrie enologiche italiane di essere sempre piu' inserite nella piu' vasta enologia europea, hanno considerato che a questi scopi si possa piu' facilmente pervenire mediante il convenzionamento di una cattedra della facolta' di agraria dell'Universita' cattolica del Sacro Cuore;   
+che nell'Universita' cattolica del Sacro Cuore e' svolto l'insegnamento di enologia con relativa sperimentazione scientifica come parte dell'insegnamento professato dalla cattedra di industrie agrarie (enologia, caseificio, oleificio) di cui costituisce l'aspetto piu' rilevante;   
+che per le esigenze sopra descritte e' possibile convenzionare la cattedra di industrie agrarie (enologia, caseificio, oleificio) affinche' ad essa sia preposto un professore di ruolo al fine di intensificare le attivita' di ricerca ed il pratico sfruttamento di esse;   
+  
+  
+Considerato   
+  
+  
+che l'attivita' della cattedra di industrie agrarie (enologia, caseificio, oleificio), come sopra strutturata, si articola prevalentemente nei settori:   
+a) della ricerca di carattere chimico-enologico, microbiologico, tecnologico (con riferimento ai procedimenti ed alle macchine per l'elaborazione dei vini);   
+b) della formazione tecnica intesa a fornire una previsione e visione unitaria relativa alla specializzazione enologica;   
+c) della divulgazione ed assistenza mediante la collaborazione tra le industrie qui costituite con interscambio di notizie e di esperienze per il tramite della cattedra che qui si convenziona.   
+Tutto cio' premesso e richiamato quale parte integrante della presente convenzione,   
+  
+  
+Si stipula e si conviene:   
+  
+  
+Art. 1.   
+  
+  
+Le industrie rappresentate come sopra, affinche' presso la facolta' di agraria dell'Universita' cattolica del Sacro Cuore venga attuato da un professore di ruolo l'insegnamento di industrie agrarie (enologia, caseificio, oleificio) si impegnano a versare all'Universita' medesima i seguenti contributi annui da destinare al finanziamento di un posto di professore di ruolo da istituire a tale uopo a norma degli articoli 63 e 100 del testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592):   
+  
+  
+S.p.a. Winefood ........................................ L. 1.500.000 Soc. coop. a r.l. Aziende agricole riunite  
+"Torre Salsa" .......................................... L. 1.000.000 S.p.a. Bertolaso ......... .......................... L. 1.000.000 S.r.l. Lab. ch. dott. G. Dal Cin ....................... L. 1.000.000 S.a.s. Plastocoat ...................................... L. 1.000.000 S.p.a. O.M. Sernagiotto ................................ L. 1.000.000 S.p.a. Zonin ..... ......................................L. 1.000.000 S.p.a. F. Isolabella e Figlio ...........................L. 700.000 S.p.a. Ponti ............................................L. 600.000 S.p.a. Cantina soc. di S. Maria V .......................L. 500.000 S.p.a. Selip ............................................L. 1.000.000   
+  
+  
+  
+e cosi' complessivamente:   
+a) L. 8.530.000 annue pari all'importo del costo medio del trattamento economico di attivita', a qualsiasi titolo, di professore universitario di ruolo;   
+b) L. 1.770.000 annue pari alla copertura degli oneri inerenti ai trattamenti di quiescenza e previdenza che possono eventualmente spettare al titolare del cennato posto nei casi previsti dalle vigenti disposizioni ovvero nell'ipotesi di cessazione del servizio conseguente al verificarsi di una delle condizioni previste dal successivo art. 5.   
+
+Convenzione per l'istituzione di un posto di professore presso la facoltà di agraria- art. 2
+
+ Art. 2.   
+  
+  
+I contributi di cui al precedente art. 1 debbono essere versati all'Universita' cattolica in una unica soluzione all'atto della nomina del titolare del posto e successivamente entro il mese di novembre di ciascun anno.   
+
+Convenzione per l'istituzione di un posto di professore presso la facoltà di agraria - art. 3
+
+ Art. 3.   
+  
+  
+Qualora il costo medio di un professore universitario di ruolo risulti per trattamento economico e di attivita' a qualsiasi titolo, di importo superiore a quello indicato nella lettera a) del precedente art. 1, sia che il posto convenzionato venga ricoperto mediante trasferimento di professore di ruolo in servizio presso altra sede, sia a seguito di miglioramenti economici o di carriera disposti dallo Stato, le industrie rappresentate si obbligano ad elevare il relativo contributo fino ad adeguarlo al nuovo costo medio e conseguentemente, ed in proporzione, anche il contributo di cui alla lettera b) dello stesso art. 1.   
+Nel caso in cui siano adottati provvedimenti che comportino maggiori oneri allo Stato per i trattamenti di quiescenza e previdenza a favore dei professori universitari, le industrie rappresentate si impegnano, altresi', ad adeguare proporzionalmente ed in corrispondenza quanto previsto alla lettera b) dell'art. 1.  
+L'aumento dei contributi suindicati avra' effetto dalla stessa data dalla quale decorreranno i miglioramenti di cui al presente articolo.   
+
+Convenzione per l'istituzione di un posto di professore presso la facoltà di agraria - art. 4
+
+ Art. 4.   
+  
+  
+La presente convenzione ha la durata di venti anni dalla decorrenza della nomina del primo titolare della cattedra di industrie agrarie (enologia, caseificio, oleificio) e si riterra' tacitamente rinnovata di venti anni in venti anni qualora non venga disdetta mediante lettera raccomandata con ricevuta di ritorno, almeno un anno prima della sua scadenza.   
+
+Convenzione per l'istituzione di un posto di professore presso la facoltà di agraria - art. 5
+
+ Art. 5.   
+  
+  
+La presente convenzione si intende decaduta:   
+a) qualora venga disdetta nei modi previsti dall'art. 4;   
+b) se vengano a cessare in tutto od in parte, per qualsiasi motivo ed in qualsiasi momento, i contributi in essa previsti;   
+c) se non vengano aumentati i predetti contributi a norma del precedente art. 3.   
+Al verificarsi di una delle anzidette condizioni, il posto di professore di ruolo si intendera' senz'altro soppresso ed il relativo titolare cessera' immediatamente dal servizio, salvo eventuali responsabilita', che potranno derivare agli enti sovventori dal mancato adempimento, nei casi previsti dalle leggi vigenti in materia di obbligazioni.   
+
+Convenzione per l'istituzione di un posto di professore presso la facoltà di agraria - art. 6
+
+ Art. 6.   
+  
+  
+La presente convenzione, essendo stipulata nell'interesse dell'Universita' cattolica, e' esente da ogni tassa ai sensi dell'[art. 45 della legge 24 luglio 1962, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-07-24;1073~art45).   
+Il presente atto viene pubblicato mediante lettura da me datane ai comparenti che lo trovano conforme alle proprie volonta' e lo sottoscrivono come funzionario delegato a ricevere gli atti in forma pubblica.   
+F.to: Giuseppe LAZZATI   
+Alberto De MARCHI   
+Francesco MORGANTE   
+Luigino BERTOLASO   
+Gildo DAL CIN   
+Giorgio BOTTA   
+Emilio SERNAGIOTTO   
+Giovanni ZONIN   
+Guido ISOLABELLA   
+Franco PONTI   
+Antonio Giuseppe DENARI   
+Alberto AGNETTI   
+Domenico LOFRESE, testimone   
+Sergio DAL CORSO, testimone   
+Giancarlo BRASCA, rogante   
+  
+Registrato a Milano il 13 dicembre 1973 - Ufficio del registro al n. 05754 A/S atti pubblici. - Esatte lire: esente.   
+  
+  
+Visto, d'ordine del Presidente della Repubblica   
+  
+  
+Il Ministro per la pubblica istruzione   
+MALFATTI   
+
+Convenzione per un posto di professore di ruolo presso la facoltà di agraria - art. 1
+
+ Repertorio n. 32   
+  
+  
+REPUBBLICA ITALIANA   
+UNIVERSITA' CATTOLICA DEL SACRO CUORE DI MILANO   
+  
+  
+CONVENZIONE FRA L'UNIVERSITA' CATTOLICA DEL SACRO CUORE E LE CAMERE DI COMMERCIO DI MILANO, BRESCIA, BERGAMO E PAVIA PER IL CONVENZIONAMENTO DI UN POSTO DI PROFESSORE DI RUOLO PRESSO LA FACOLTA' DI AGRARIA DELL'UNIVERSITA' CATTOLICA DEL SACRO CUORE.   
+  
+  
+L'anno 1974 (millenovecentosettantaquattro) il giorno 8 (otto) del mese di luglio alle ore 11,30 in Milano, in una sala del rettorato dell'Universita' cattolica del Sacro Cuore, in largo Gemelli 1, dinnanzi a me dott. Giancarlo Brasca, nato a Mezzage (Milano) il 1 agosto 1920, residente a Milano, nella mia qualita' di direttore amministrativo dell'Universita' cattolica del Sacro Cuore, delegato a ricevere gli atti in forma pubblica, a norma dell'art. 129 del R.G.U.   
+approvato con [regio decreto 6 aprile 1924, n. 674, con decreto](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674) del rettore in data 7 ottobre 1971, n. 1536, alla presenza dei testimoni:   
+Concolato Angela in Airoldi, nata a Milano il 30 giugno 1942 e residente a Milano, via Gorani, 5;   
+Corno Luigia in Todeschini, nata a Novate Milanese il 6 giugno 1947 e residente in Novate Milanese, via Repubblica, 92,   
+  
+  
+si sono personalmente costituiti i signori:   
+  
+  
+Lazzati prof. Giuseppe, nato a Milano il 22 giugno 1909 residente a Milano, il quale interviene al presente atto nella sua qualita' di rettore dell'Universita' cattolica del Sacro Cuore a cio' autorizzato con delibera della giunta direttiva del consiglio di amministrazione dell'Universita' cattolica del 28 novembre 1973;   
+Bonato prof. Corrado, nato ad Alessano (Lecce) il 22 dicembre 1911, domiciliato per la carica in Milano, via Meravigli, 9, presidente della camera di commercio, industria, artigianato e agricoltura di Milano, avente i poteri per questo atto (delibera della giunta camerale n. 544 del 24 agosto 1973);   
+Feroldi comm. prof. Franco, nato a Brescia il 1 novembre 1913, domiciliato per la carica in Brescia, via Einaudi, presidente della camera di commercio, industria, artigianato e agricoltura di Brescia, avente i poteri per questo atto (delibera della giunta camerale n. 151 del 20 aprile 1973);   
+Vicentini gr. uff. rag. Attilio, nato a Lecco il 23 novembre 1897, domiciliato per la carica in Bergamo, largo. Bellotti, presidente della camera di commercio, industria, artigianato e agricoltura di Bergamo, avente i poteri per questo atto (delibera della giunta camerale n. 344 del 10 settembre 1973);   
+Rodolfo dott. rag. Guido, nato a Vigevano il 6 settembre 1901, domiciliato per la carica in Pavia, via Mentana, membro delegato della giunta camerale della camera di commercio, industria, artigianato e agricoltura di Pavia, avente i poteri per questo atto (delibera della giunta camerale n. 202 del 27 aprile 1973);   
+  
+  
+Premesso   
+  
+  
+che gia' da tempo altri enti collaborano con la facolta' di agraria dell'Universita' cattolica per ricerche in ordine ai problemi connessi con la produzione e la trasformazione del latte;   
+che le camere di commercio firmatarie sentono la necessita' di avere costanti rapporti tecnici e scientifici a livello universitario per le esigenze attinenti alle proprie funzioni istituzionali e di conseguenza che esse ritengono cosa necessaria il fatto che la facolta' di agraria dell'Universita' cattolica per le esigenze qui evidenziate sia dotata di una cattedra orientata verso lo studio dei rapporti tra l'alimentazione del bestiame e le caratteristiche del latte mediante un'adeguata attivita' di ricerca di base ed applicativa, nonche' con una azione di assistenza e divulgazione;   
+che l'Universita' cattolica del Sacro Cuore per mezzo della sua facolta' di agraria si e' dichiarata ben disposta ad accettare la proposta di convenzionamento di una cattedra al fine di poter consentire alle camere di commercio la realizzazione delle aspirazioni di cui sopra;   
+  
+  
+Considerato   
+  
+  
+che e' gia' previsto nello statuto dell'Universita' cattolica e nell'ordinamento didattico della facolta' l'insegnamento di valutazione zootecnica degli alimenti e che lo stesso ben si presta a soddisfare le esigenze di cui alle premesse;   
+che dall'assegnazione a detta cattedra di un professore di ruolo sicuramente ne derivera' un vantaggio alle province interessate in relazione alla positiva e diretta incidenza che tale cattedra potra' esercitare nel settore della zootecnia alimentare.   
+Tutto cio' premesso e richiamato,   
+  
+  
+Si conviene e si stipula:   
+  
+  
+Art. 1.   
+  
+  
+Le camere di commercio di Milano, Brescia, Bergamo, Pavia, come sopra rappresentate, affinche' presso la facolta' di agraria dell'Universita' cattolica del Sacro Cuore venga pienamente attuato l'insegnamento di valutazione zootecnica degli alimenti si impegnano a versare all'Universita' medesima i seguenti contributi annui da destinare al finanziamento di un posto di professore di ruolo da istituire a tale uopo a norma degli articoli 65 e 100 del testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592):   
+d) L. 5.000.000 (cinquemilioni) pari all'importo (vigente al momento delle delibere delle camere di commercio) del costo medio per trattamento economico di attivita', a qualsiasi titolo, di professore universitario di ruolo;   
+b) L. 1.000.000 (un milione) pari al 20% del contributo di cui alla lettera a) (con la precisazione in parentesi), per la copertura degli oneri inerenti ai trattamenti di quiescenza o previdenza che possono eventualmente spettare al titolare del cennato posto nei casi previsti dalle vigenti disposizioni ovvero nell'ipotesi di cessazione del servizio conseguente al verificarsi di una delle condizioni previste dal successivo art. 6.   
+
+Convenzione per un posto di professore di ruolo presso la facoltà di agraria - art. 2
+
+ Art. 2.   
+  
+  
+I contributi di cui al precedente art. 1 vengono versati per le quote a fianco indicate da ciascuna delle camere di commercio di:   
+  
+  
+Milano . . . . . . . . . . . . . . . . . . . . . . . . . L. 1.500.000 Brescia. . . . . . . . . . . . . . . . . . . . . . . . . L. 1.500.000 Bergamo. . . . . . . . . . . . . . . . . . . . . . . . . L. 1.500.000 Pavia. . . . . . . . . . . . . . . . . . . . . . . . . . L. 1.500.000   
+
+Convenzione per un posto di professore di ruolo presso la facoltà di agraria - art. 3
+
+ Art. 3.   
+  
+  
+I contributi di cui ai precedenti articoli 1 e 2 debbono essere versati all'Universita' cattolica del Sacro Cuore in unica soluzione all'atto della nomina del titolare del posto e successivamente entro il mese di novembre di ciascun anno.   
+
+Convenzione per un posto di professore di ruolo presso la facoltà di agraria - art. 4
+
+ Art. 4.   
+  
+  
+Qualora il costo medio di un professore universitario di ruolo risulti per trattamento economico di attivita', a qualsiasi titolo, di importo superiore a quello indicato nella lettera a) del precedente art. 1, sia che il posto convenzionato venga ricoperto mediante trasferimento del professore di ruolo in servizio presso altra sede, sia a seguito di miglioramenti economici o di carriera disposti dallo Stato, le camere di commercio si obbligano ad elevare il relativo contributo fino ad adeguarlo al nuovo costo medio e conseguentemente, ed in proporzione, anche il contributo di cui alla lettera b) dello stesso art. 1.   
+Nel caso in cui siano adottati provvedimenti che comportino maggiori oneri allo Stato per i trattamenti di quiescenza e di previdenza a favore dei professori universitari, le camere di commercio si impegnano altresi' ad adeguare proporzionalmente ed in corrispondenza, l'aliquota del 20% indicata nell'art. 1, lettera b).   
+L'aumento dei contributi su indicati avra' effetto dalla stessa data dalla quale decorreranno i miglioramenti di cui al presente articolo.   
+
+Convenzione per un posto di professore di ruolo presso la facoltà di agraria - art. 5
+
+ Art. 5.   
+  
+  
+La presente convenzione ha la durata di anni venti dalla decorrenza della nomina del primo titolare della cattedra di valutazione zootecnica degli alimenti e si riterra' tacitamente rinnovata di venti anni in venti anni qualora non venga disdetta mediante lettera raccomandata con ricevuta di ritorno, almeno un anno prima della sua scadenza.   
+
+Convenzione per un posto di professore di ruolo presso la facoltà di agraria - art. 6
+
+ Art. 6.   
+  
+  
+La presente convenzione si intende decaduta:   
+a) qualora venga disdetta nei modi previsti dall'art. 5;   
+b) se vengano a cessare in tutto od in parte, per qualsiasi motivo od in qualsiasi momento, i contributi in essa previsti;   
+c) se non vengano aumentati i predetti contributi a norma del precedente art. 4. Al verificarsi di una delle anzidette condizioni, il posto di professore di ruolo si intendera' senz'altro soppresso ed il relativo titolare cessera' immediatamente dal servizio, salvo eventuali responsabilita' che potranno derivare all'ente sovventore dal mancato adempimento nei casi previsti dalle leggi vigenti in materia di obbligazioni.   
+
+Convenzione per un posto di professore di ruolo presso la facoltà di agraria - art. 7
+
+ Art. 7.   
+  
+  
+La presente convenzione e' stipulata nell'interesse dell'Universita' cattolica del Sacro Cuore, la quale dichiara di voler godere di ogni e qualsiasi norma di agevolazione fiscale di ordine alla registrazione.   
+
+Convenzione per un posto di professore di ruolo presso la facoltà di agraria - art. 8
+
+ Art. 8.   
+  
+  
+Le parti danno atto che a seguito del [decreto-legge 1 ottobre 1973, n. 580](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580), convertito in [legge 30 novembre 1973, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766), gli importi di cui all'art. 1 hanno gia' subito una variazione in aumento di cui l'Universita' cattolica del Sacro Cuore precisera' l'esatto ammontare all'atto della copertura della cattedra.   
+Il presente atto viene pubblicato mediante lettura da me datane ai comparenti che trovandolo conforme alla loro volonta' lo sottoscrivono con me ufficiale rogante e con i testimoni.   
+F.to: Giuseppe LAZZATI   
+Corrado BONATO   
+Franco FEROLDI   
+Attilio VICENTINI   
+Guido RODOLFO   
+Angela CONCOLATO in AIROLDI, teste   
+Luigia CORNO in TODESCHINI, teste Giancarlo BRASCA, rogante   
+  
+  
+Registrato a Milano il 30 luglio 1974 - Ufficio del registro, al n. 13755 A/3 atti pubblici. - Esatte lire: esente.   
+  
+  
+Visto, d'ordine del Presidente della Repubblica   
+  
+  
+Il Ministro per la pubblica istruzione   
+MALFATTI   
+
+Istituzione di un posto di professore presso la facoltà di economia e commercio- art. 1
+
+ Repertorio n. 32   
+  
+  
+REPUBBLICA ITALIANA   
+UNIVERSITA' CATTOLICA DEL SACRO CUORE DI MILANO   
+  
+  
+ISTITUZIONE DI UN POSTO CONVENZIONATO DI PROFESSORE Di RUOLO PRESSO LA FACOLTA' DI ECONOMIA E COMMERCIO DELL'UNIVERSITA' CATTOLICA DEL SACRO CUORE DI MILANO.   
+  
+  
+L'anno millenovecentosettantasei (1976), il giorno 4 (quattro) del mese di febbraio, alle ore 9,30, (nove e trenta) in una sala del rettorato dell'Universita' cattolica del Sacro Cuore, largo Gemelli, 1, Milano, avanti a me dott. Giancarlo Brasca, nato a Mezzago (Milano) il 1 agosto 1920, residente a Milano, nella mia qualita' di direttore amministrativo dell'Universita' cattolica del Sacro Cuore, delegato a ricevere gli atti in forma pubblica, ai sensi dell'art. 129 del R.G.U. approvato con [regio decreto 6 aprile 1924, n. 674, con decreto](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674) del rettore n. 3662 in data 1 agosto 1974, con rinuncia, previo mio consenso, di comune accordo dei testimoni, si sono personalmente costituiti i signori:   
+prof. Giuseppe Lazzati, nato a Milano il 22 giugno 1909, residente per la carica in Milano, largo Gemelli, 1, rettore dell'Universita' cattolica del Sacro Cuore, autorizzato al presente atto con delibera del consiglio di amministrazione dell'Universita' cattolica del Sacro Cuore in data 14 gennaio 1976 (allegato A);   
+dott, Giuseppe Vigorelli, nato a Novara l'8 ottobre 1923, residente in Milano, via Canova, 25, presidente dell'Associazione per lo sviluppo degli studi di banca e borsa, autorizzato al presente atto con delibera del consiglio di amministrazione dell'Associazione per lo sviluppo degli studi di banca e borsa in data 23 gennaio 1976 (allegato B);   
+con l'intervento del dott. Urbano Aletti, nato a Milano il 18 marzo 1923 e residente a Milano, via Santo Spirito, 14, vice presidente della predetta associazione, e del   
+dott. Giampaolo Finardi, nato a Cremona il 16 novembre 1925 e residente per la carica in Milano, corso Venezia, 56, vice presidente della predetta associazione;   
+  
+  
+Premesso   
+  
+  
+che l'Associazione per lo sviluppo degli studi di banca e borsa ha come scopo quello di sviluppare gli studi superiori e la ricerca nelle discipline bancarie e finanziarie promuovendo e potenziando l'attivita' didattica di specifici corsi di laurea;   
+che la predetta associazione ritiene necessario, per meglio realizzare i propri scopi, promuovere l'attribuzione ad un professore di ruolo della cattedra di tecnica bancaria presso la facolta' di economia e commercio dell'Universita' cattolica del Sacro Cuore;   
+che l'Universita' cattolica si e' dichiarata disponibile ad aderire a tale iniziativa accettando inoltre la proposta della associazione di versare in unica soluzione una somma corrispondente al costo medio di un professore di ruolo nei venti anni della durata di questa convenzione, secondo i calcoli tabellari e gli emolumenti spettanti, desunti dalle tabelle ufficiali del Ministero del tesoro e del Ministero della pubblica istruzione;   
+che il consiglio della facolta' di economia e commercio nella seduta del 15 novembre 1975 ha deliberato l'accettazione della proposta di convenzione e che analoga delibera e' stata poi adottata dal senato accademico dell'Universita' cattolica nella seduta del 9 gennaio 1976 e che il consiglio di amministrazione ha deliberato la medesima accettazione nella seduta del 14 gennaio 1976.   
+Tutto cio' premesso e richiamato,   
+  
+  
+Si conviene e si stipula quanto segue:   
+  
+  
+Art. 1.   
+  
+  
+L'Associazione per lo sviluppo degli studi di banca e borsa affinche' presso la facolta' di economia e commercio dell'Universita' cattolica del Sacro Cuore venga attuato l'insegnamento di tecnica bancaria si impegna a versare alla Universita' medesima un contributo destinato a finanziare un posto di professore di ruolo da istituire a tale uopo a norma degli articoli 63 e 100 del testo unico delle leggi sulla istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), pari all'importo complessivo del costo medio per trattamento economico di attivita', a qualsiasi titolo, di professore universitario di ruolo, per un periodo di venti anni.   
+
+Istituzione di un posto di professore presso la facoltà di economia e commercio - art. 2
+
+ Art. 2.   
+  
+  
+Il contributo di cui al precedente art. 1 deve essere versato all'Universita' cattolica del Sacro Cuore in unica soluzione anticipata prima della nomina del titolare del posto.   
+
+Istituzione di un posto di professore presso la facoltà di economia e commercio- art. 3
+
+ Art. 3.   
+  
+  
+La presente convenzione che garantisce la copertura ventennale della cattedra di tecnica bancaria a partire dalla data della nomina del primo titolare della cattedra, potra' essere rinnovata di venti anni in venti anni, qualora cio' venga espressamente richiesto dalla Associazione per lo sviluppo degli studi di banca e borsa mediante lettera raccomandata con ricevuta di ritorno da inviare almeno un anno prima della scadenza.   
+
+Istituzione di un posto di professore presso la facoltà di economia e commercio - art. 4
+
+ Art. 4.   
+  
+  
+Dichiarano le parti stipulanti che la presente convenzione ha come finalita' quelle culturali e di ricerca scientifica, come peraltro si evince dall'articolato che precede e pertanto l'Universita' cattolica chiede, in ordine alla registrazione, le agevolazioni fiscali del caso.   
+Il presente atto viene pubblicato mediante lettura da me datane ai comparenti che, trovandolo conforme alla loro volonta', lo sottoscrivono con me ufficiale rogante.   
+F.to: Giuseppe LAZZATI   
+Giuseppe VIGORELLI   
+Urbano ALETTI   
+Giampaolo FINARDI   
+Giancarlo BRASCA, rogante   
+  
+  
+Registrato a Milano il 20 febbraio 1976 - Ufficio del registro, al n. 2413 atti pubblici. - Esatte L. 6200.   
+  
+  
+Visto, d'ordine del Presidente della Repubblica   
+Il Ministro per la pubblica istruzione   
+MALFATTI   

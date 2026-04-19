@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 965
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 settembre 1977 n. 1201
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 965
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 settembre 1977 n. 1201
+=================================================================
 
 Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
 --------------------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
+Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,1118 +18,177 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione di concerto con il Ministro del tesoro;
 
 Decreta:
+--------
 
 Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-L'art. 108, relativo alla scuola di specializzazione in patologia generale, e' soppresso e sostituito dal seguente:
-
-Scuola di specializzazione in patologia generale
-
-Art. 108. - La scuola di specializzazione in patologia generale ha sede presso l'istituto di patologia generale.
-
-Il corso degli studi ha la durata di quattro anni, suddiviso in due bienni.
-
-La durata complessiva del corso di studi non e' suscettibile di abbreviazioni.
-
-La frequenza alla scuola e' obbligatoria.
-
-Gli allievi che non conseguono le attestazioni di frequenza non potranno essere ammessi a sostenere le singole prove di esame.
-
-Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia, ai quali, dopo aver superato l'esame finale, sara' rilasciato il diploma di "specialista in patologia generale".
-
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
-
-Alla scuola stessa vengono ammessi i laureati in medicina veterinaria, in scienze biologiche, in scienze naturali, in farmacia, in chimica e tecnologie farmaceutiche, ai quali, dopo aver superato l'esame finale, sara' rilasciato il diploma di "specialista in patologia generale con indirizzo tecnico".
-
-L'ammissione al corso di specializzazione avviene per titoli ed esami.
-
-Il numero massimo degli allievi e' di venti per anno di corso e complessivamente di ottanta iscritti per l'intero corso di studi.
-
-Le materie di insegnamento sono le seguenti:
-
-I BIENNIO
-
-(Propedeutico)
-
-1° Anno:
-
-istituzioni di patologia generale;
-
-patologia delle infezioni;
-
-epidemiologia e patologia ambientale;
-
-immunologia;
-
-parassitologia e diagnostica parassitologica.
-
-2° Anno:
-
-radiobiologia e patologia da radiazioni;
-
-oncologia generale;
-
-immunopatologia e analisi immunologiche;
-
-analisi chimico-cliniche;
-
-fisiopatologia generale I (metabolismo e sistema endocrino).
-
-II BIENNIO
-
-(Conseguimento per il diploma di "specialista in patologia generale")
-
-3° Anno:
-
-diagnostica di laboratorio di citopatologia e citogenetica;
-
-diagnostica di laboratorio di batteriologia e virologia;
-
-fisiopatologia generale II (termoregolazione, sistema cardiocircolatorio, sangue ed organi emopoietici)
-
-4° Anno:
-
-diagnostica oncologica diagnostica istopatologica;
-
-diagnostica ultrastrutturale;
-
-fisiopatologia generale III (fegato, sistema digerente, renale, respiratorio).
-
-II BIENNIO
-
-(Conseguimento per il diploma di "specialista in patologia generale con indirizzo tecnico")
-
-3° Anno:
-
-tecniche di batteriologia;
-
-tecniche di virologia;
-
-tecniche di citologia e citogenetica.
-
-4° Anno:
-
-statistica e biometria;
-
-culture in vitro: aspetti biologici ed applicativi;
-
-tecniche ematologiche;
-
-tecniche istologiche ed ultrastrutturali;
-
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, ad un professore di ruolo o fuori ruolo di materia affine.
-
-Il direttore puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari e conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola stessa.
-
-Per conseguire il relativo diploma di specializzazione, al termine del corso quadriennale, oltre ad aver superato tutti gli esami delle singole materie, e' obbligatorio sostenere l'esame finale su una dissertazione scritta, preferibilmente di carattere sperimentale.
-
-L'art. 109, relativo alla scuola di specializzazione in anestesiologia e rianimazione, che muta la denominazione in quella di scuola di specializzazione in anestesia e rianimazione, e' soppresso e sostituito dal seguente:
-
-Scuola di specializzazione in anestesia e rianimazione
-
-Art. 109. - La scuola di specializzazione in anestesia e rianimazione ha sede presso l'istituto di anestesiologia e rianimazione e conferisce il diploma di specialista in anestesia e rianimazione.
-
-La direzione della scuola e' affidata al professore di ruolo e fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
-
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.
-
-E' richiesto, almeno per l'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
-
-La durata del corso di studi e' di anni tre e non e' suscettibile di abbreviazioni.
-
-Il numero massimo degli allievi e' di venticinque per anno di corso e complessivamente di settantacinque iscritti per l'intero corso di studi.
-
-L'ammissione al corso avviene per titoli ed esami.
-
-Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-anatomia applicata all'anestesia ed alla rianimazione;
-
-biochimica applicata all'anestesia ed alla rianimazione;
-
-farmacologia applicata all'anestesia ed alla rianimazione;
-
-fisica applicata all'anestesia ed alla rianimazione;
-
-fisiologia applicata all'anestesia ed alla rianimazione;
-
-anestesiologia I;
-
-tecniche chirurgiche di interesse anestesiologico;
-
-aspetti medico-legali dell'anestesia e della rianimazione;
-
-esercitazioni pratiche.
-
-2° Anno:
-
-anestesiologia II;
-
-terapia antalgica;
-
-rianimazione I;
-
-esercitazioni pratiche.
-
-3° Anno:
-
-rianimazione II;
-
-tecniche speciali di anestesia;
-
-tecniche speciali di rianimazione;
-
-indagini diagnostiche attinenti alla specialita';
-
-esercitazioni pratiche.
-
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
-
-Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.
-
-Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.
-
-Al termine del corso di studi per il conseguimento del diploma di specialista in anestesia e rianimazione gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
-
-L'art. 110, relativo alla scuola di specializzazione in radiologia, e' soppresso e sostituito dal seguente:
-
-Scuola di specializzazione in radiologia
-
-Art. 110. - La scuola di specializzazione in radiologia ha sede presso l'istituto di radiologia ed e' diretta da un professore di ruolo o fuori ruolo della stessa materia, o in carenza, di materia affine. Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso di diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione per titoli ed esami.
-
-Non sono ammesse abbreviazioni di corso.
-
-La scuola conferisce i seguenti diplomi:
-
-a) diploma di specialista in radiodiagnostica: gli anni di studi necessari per conseguire questo titolo sono quattro;
-
-b) diploma di specialista in radioterapia oncologica: gli anni di studio necessari per conseguire questo titolo sono quattro.
-
-La scuola ha un tronco comune di due anni identico per i diplomi in radiodiagnostica e radioterapia oncologica.
-
-Gli insegnamenti per il diploma di specialista in radiodiagnostica sono cosi' distribuiti nei quattro anni di corso:
-
-1° Anno (comune alla specializzazione in radioterapia oncologica):
-
-fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);
-
-radiobiologia, legislazione e norme generali di radioprotezione;
-
-tecnica di acquisizione e memorizzazione dei dati;
-
-fotodocumentazioni e archiviazione;
-
-nozioni di anatomia e fisiologia generale.
-
-2° Anno (comune alla radioterapia oncologica):
-
-anatomia patologica;
-
-apparecchiature e tecniche radiologiche;
-
-semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);
-
-radiopatologia;
-
-dosimetria applicata.
-
-3° Anno:
-
-tecniche speciali e relativa semeiotica I;
-
-radiodiagnostica speciale dei vari organi ed apparati I.
-
-4° Anno:
-
-tecniche speciali e relativa semeiotica (termografia, ecografia, xerografia, TAC) II;
-
-radiodiagnostica speciale dei vari organi ed apparati II.
-
-Gli insegnamenti per il diploma di specialista in radioterapia oncologica sono cosi' distribuiti nei quattro anni di corso:
-
-1° Anno (comune alla specializzazione in radiodiagnostica):
-
-fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);
-
-radiobiologia, legislazione e norme generali di radioprotezione;
-
-tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;
-
-nozioni di anatomia e fisiologia generale.
-
-2° Anno (comune a radiodiagnostica):
-
-anatomia patologica;
-
-apparecchiature e tecniche radiologiche;
-
-semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);
-
-radiopatologia;
-
-dosimetria applicata.
-
-3° Anno:
-
-oncologia generale;
-
-oncologia clinica I;
-
-tecniche radioterapiche.
-
-4° Anno:
-
-oncologia clinica II;
-
-fondamenti di terapia chirurgica dei tumori;
-
-radioterapia clinica;
-
-trattamento del canceroso in fase avanzata.
-
-I singoli insegnamenti saranno tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento.
-
-Il numero massimo di iscritti in corso alla scuola e' di ottantaquattro da ripartirsi annualmente fra i vari corsi di diploma previsti dal presente statuto.
-
-La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei. L'insegnamento verra' svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti, ecc. Gli allievi, per essere ammessi a sostenere gli esami delle singole materie, dovranno avere la firma di frequenza da parte del direttore della scuola stessa.
-
-Gli allievi al termine di ogni anno dovranno superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.
-
-Gli allievi per conseguire il diploma di specializzazione, oltre ad essere stati approvati in tutti gli esami, dovranno elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.
-
-L'art. 111, relativo alla scuola di specializzazione in chirurgia vascolare, e' soppresso e sostituito dal seguente:
-
-Scuola di specializzazione in chirurgia vascolare
-
-Art. 111. - La scuola di specializzazione in chirurgia vascolare ha sede presso l'istituto di patologia speciale chirurgica e conferisce il diploma di specialista in chirurgia vascolare.
-
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia di specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
-
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.
-
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
-
-La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.
-
-Il numero massimo degli allievi e' complessivamente di cinquantaquattro iscritti per l'intero corso di studi.
-
-L'ammissione al corso avviene per titoli ed esami.
-
-Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-embriologia, anatomia macro e microscopica dell'apparato vascolare;
-
-fisiopatologia dell'apparato vascolare e della coagulazione sanguigna;
-
-anatomia patologica dell'apparato vascolare;
-
-semeiologia fisica e strumentale delle malattie vascolari;
-
-semeiologia radiologica delle malattie vascolari;
-
-vasculopatie di interesse medico e specialistico.
-
-2° Anno:
-
-patologia e clinica delle malattie del sistema arterioso;
-
-patologia e clinica delle malattie del sistema venoso;
-
-patologia e clinica delle malattie del sistema linfatico;
-
-patologia e clinica delle malattie dei piccoli vasi.
-
-3° Anno:
-
-nozioni di terapia medica delle malattie vascolari;
-
-terapia chirurgica delle malattie vascolari;
-
-chirurgia vascolare applicata a malattie dei vari organi I.
-
-4° Anno:
-
-informatica medica;
-
-rianimazione e terapia intensiva;
-
-patologia e clinica vascolare pediatrica I;
-
-epidemiologia delle malattie vascolari;
-
-elementi di legislazione sanitaria comunitaria;
-
-chirurgia vascolare applicata a malattie dei vari organi II.
-
-5° Anno:
-
-elementi di bioingegneria applicata al circolo;
-
-principi e tecnica di circolazione extracorporea;
-
-terapia intensiva;
-
-patologia e clinica vascolare pediatrica II;
-
-tecniche chirurgiche applicate alla patologia vascolare;
-
-chirurgia vascolare applicata a malattie dei vari organi III.
-
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.
-
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
-
-Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
-
-Al termine del corso di studi per il conseguimento del diploma di specialista in chirurgia vascolare gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione e dovranno sostenere una prova clinica.
-
-L'ultimo comma dell'art. 112, relativo alla scuola di specializzazione in ginecologia e ostetricia di cui al [decreto del Presidente della Repubblica 31 ottobre 1977, n. 1269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-10-31;1269), e' soppresso e sostituito dal seguente:
-
-"Al termine del corso di studi per il conseguimento del diploma di specialista in ginecologia e ostetricia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione".
-
-L'art. 114, relativo alla scuola di specializzazione in psichiatria, e' soppresso e sostituito dal seguente:
-
-Scuola di specializzazione in psichiatria
-
-Art. 114. - La scuola di specializzazione in psichiatria ha sede presso l'istituto di psicologia generale e clinica e conferisce il diploma di specialista in psichiatria.
-
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
-
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.
-
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
-
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
-
-Il numero massimo degli allievi e' di diciotto per anno di corso e complessivamente di settanta iscritti per l'intero corso di studi.
-
-L'ammissione al corso avviene per titoli ed esami.
-
-Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-metodologia del rapporto medico-paziente;
-
-psicologia;
-
-elementi di genetica e biochimica;
-
-struttura e funzioni integrative del SNC;
-
-neurologia clinica;
-
-clinica psichiatrica I.
-
-2° Anno:
-
-psicopatologia e psicodinamica;
-
-psicoterapia I;
-
-psicofarmacologia;
-
-psicofarmacoterapia;
-
-clinica psichiatrica II.
-
-3° Anno:
-
-psicodiagnostica ed informatica psichiatrica;
-
-psichiatria sociale I;
-
-psichiatria infantile;
-
-psicoterapia II;
-
-clinica psichiatrica III.
-
-4° Anno:
-
-psicosomatica;
-
-psichiatria sociale II;
-
-psichiatria forense;
-
-psicoterapia III;
-
-clinica psichiatrica IV.
-
-Note esplicative:
-
-1) Strutture e funzioni integrative del SNC: tale materia, annuale, e' comprensiva della anatomofisiologia del SNC e della psicofisiologia.
-
-2) Neurologia clinica: tale insegnamento annuale, deve essere comprensivo, eventualmente con sottodivisioni, di cenni di anatomia patologica del SN, di semeiologia neurologica, clinica e strumentale, di neuroradiologia.
-
-3) Clinica psichiatrica: tale materia, quadriennale, e' comprensiva anche di elementi di semeiotica psichiatrica, delle tecniche laboratoristiche, delle terapie biologiche.
-
-4) Psicoterapia: tale materia, triennale, comprende e considera nel corso dei tre anni, le tecniche e i principi fondamentali delle principali psicoterapie individuali, direttive e non direttive, i principi fondamentali e le dinamiche delle piu' importanti psicoterapie di gruppo, delle prassi psicoterapiche, socioterapiche e delle sociodinamiche delle istituzioni psichiatriche.
-
-5) Psicodiagnostica ed informatica psichiatrica: tale materia, annuale, e' comprensiva di cenni di statistica, dei reattivi mentali e psicodiagnostica e strumentale e di metodologia della ricerca psichiatrica.
-
-6) Psichiatria sociale: tale materia, biennale, con molte possibilita' di suddivisioni, e' comprensiva di elementi di sociologia, di antropologia culturale, di etologia, di ecologia psichiatrica, di epidemiologia psichiatrica, di psichiatria transculturale, di psichiatria preventiva e di igiene mentale, prassi ed organizzazione di assistenza psichiatrica sul territorio extra istituzionale.
-
-7) Psicosomatica: tale materia, annuale, e' comprensiva degli aspetti psichici delle malattie somatiche della cosiddetta medicina integrata, della endocrinologia in riferimento alla psichiatria, delle cosiddette malattie psicosomatiche.
-
-E' obbligatoria la frequenza per undici mesi all'anno; tale periodo comprende sia la frequenza alle lezioni, sia l'attivita' nei reparti di degenza e nelle strutture ambulatoriali a disposizione della scuola.
-
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
-
-La scuola programma lo svolgimento dei corsi di insegnamento. Per il passaggio agli anni successivi e' obbligatorio il superamento degli esami per ogni singolo anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
-
-Le lezioni teoriche sono integrate da seminari anche interdisciplinari, da documentazioni cliniche e da esperienze effettuate nei vari settori della disciplina.
-
-Alla fine dei quattro anni gli allievi che hanno frequentato i corsi saranno ammessi all'esame di diploma, consistente nella presentazione e discussione di una tesi scritta di argomento pertinente alla psichiatria, in una prova orale e in una prova pratica.
-
-Agli allievi che hanno ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specializzazione in psichiatria valido a tutti gli effetti di legge.
-
-L'art. 116, relativo alla scuola di specializzazione in medicina nucleare, e' soppresso e sostituito dal seguente:
-
-Scuola di specializzazione in medicina nucleare
-
-La scuola di specializzazione in medicina nucleare ha sede presso l'istituto di medicina nucleare ed e' diretta da un professore di ruolo o fuori ruolo della stessa materia o, in carenza, di materia affine.
-
-Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso del diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione.
-
-Non sono ammesse abbreviazioni di corso.
-
-La scuola conferisce il diploma di specialista in medicina nucleare.
-
-Gli anni di studio necessari per conseguire questo titolo sono tre.
-
-Gli insegnamenti per il conseguimento del diploma di specialista in medicina nucleare sono cosi' distribuiti nei tre anni di corso:
-
-1° Anno:
-
-fisica: con richiami di matematica, nozioni di statistica informatica e dosimetria;
-
-radiobiologia, legislazione e norme generali di radioprotezione;
-
-tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;
-
-nozioni di anatomia e fisiologia generale.
-
-2° Anno:
-
-teoria dei traccianti;
-
-elementi di radiochimica;
-
-applicazione di diagnostica I;
-
-tecniche di misura di radioattivita'.
-
-3° Anno:
-
-applicazioni di diagnostiche II;
-
-applicazioni terapeutiche;
-
-radioprotezione e legislazione applicata.
-
-I singoli insegnamenti saranno tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento.
-
-Il numero massimo di iscritti in corso alla scuola e' di sei per anno di corso e complessivamente di diciotto iscritti per l'intero corso di studi.
-
-La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei.
-
-L'insegnamento verra' svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti, ecc. Gli allievi per essere ammessi a sostenere gli esami delle singole materie, dovranno avere la firma di frequenza da parte del direttore della scuola stessa.
-
-Gli allievi al termine di ogni anno dovranno superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.
-
-Gli allievi per conseguire il diploma di specializzazione oltre ad essere stati approvati in tutti gli esami, dovranno elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.
-
-L'art. 119, relativo alla scuola di specializzazione in malattie dell'apparato digerente, che muta la denominazione in quella di scuola di specializzazione in gastroenterologia ed endoscopia digestiva, e' soppresso e sostituito dal seguente:
-
-Scuola di specializzazione in gastroenterologia ed endoscopia digestiva
-
-Art. 119. - La scuola di specializzazione in gastroenterologia ed endoscopia digestiva ha sede presso l'istituto di patologia speciale medica e conferisce il diploma di specialista in gastroenterologia ed endoscopia digestiva.
-
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
-
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.
-
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
-
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
-
-Il numero massimo degli allievi e' complessivamente di trenta iscritti per l'intero corso di studi.
-
-L'ammissione al corso avviene per titoli ed esami.
-
-Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-anatomia clinica;
-
-farmacologia clinica;
-
-chimica clinica, coprologia, parassitologia;
-
-genetica;
-
-biostatistica ed epidemiologia.
-
-2° Anno:
-
-clinica medica generale I;
-
-clinica e terapia del tubo digerente, fegato e pancreas I;
-
-anatomia ed istologia patologica I;
-
-fisiopatologia e semeiotica digestiva I;
-
-radiologia e medicina nucleare I;
-
-scienza dell'alimentazione e dietetica.
-
-3° Anno:
-
-clinica medica generale II;
-
-clinica e terapia del tubo digerente, fegato e pancreas II;
-
-anatomia ed istologia patologica II;
-
-fisiopatologia e semeiotica digestiva II;
-
-radiologia e medicina nucleare II;
-
-endoscopia digestiva I.
-
-4° Anno:
-
-clinica medica generale III;
-
-clinica e terapia del tubo digerente, fegato e pancreas III;
-
-endoscopia digestiva II;
-
-terapia intensiva;
-
-gastroenterologia pediatrica;
-
-elementi di chirurgia del tubo digerente, fegato e pancreas.
-
-E' obbligatorio il tirocinio pratico durante il quadriennio di studi da svolgere nell'istituto clinico sede della scuola o in reparti ospedalieri di gastroenterologia, conforme alle scelte approvate dal consiglio della scuola.
-
-Ogni scuola puo' aggiungere a queste materie fondamentali obbligatorie delle materie complementari con corsi semestrali in numero non superiore a sei per la totalita' del corso.
-
-Per le materie biennali e triennali sara' dato l'esame alla fine del biennio o triennio.
-
-La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.
-
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
-
-Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno; per le materie biennali e triennali, invece, sara' dato l'esame alla fine del biennio e del triennio.
-
-Al termine del corso di studi per il conseguimento del diploma di specialista in gastroenterologia ed endoscopia digestiva, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
-
-Dopo l'art. 155, e con il conseguente spostamento della numerazione degli articoli, e' inserito il seguente nuovo articolo relativo all'istituzione della scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio.
-
-Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio
-
-Art. 156. - La scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio ha sede presso l'istituto di clinica medica generale e conferisce il diploma di specialista in tisiologia e malattie dell'apparato respiratorio.
-
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
-
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.
-
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
-
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
-
-Il numero massimo degli allievi e' di otto per anno di corso e complessivamente di 32 iscritti per l'intero corso di studi.
-
-L'ammissione al corso avviene per titoli ed esami.
-
-Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-anatomia e istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio I;
-
-patologia della tubercolosi polmonare ed extra polmonare;
-
-patologia delle malattie dell'apparato respiratorio;
-
-fisiologia e fisiopatologia generale dell'apparato respiratorio;
-
-semeiotica fisica e funzionale dell'apparato respiratorio;
-
-microbiologia;
-
-epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.
-
-2° Anno:
-
-anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio II;
-
-clinica della tubercolosi I;
-
-clinica delle malattie dell'apparato respiratorio I;
-
-fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;
-
-broncologia;
-
-radiologia dell'apparato respiratorio;
-
-profilassi della tubercolosi;
-
-igiene e legislazione sociale.
-
-3° Anno:
-
-clinica delle malattie dell'apparato respiratorio II;
-
-clinica della tubercolosi II;
-
-chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;
-
-terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;
-
-terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.
-
-4° Anno:
-
-clinica delle malattie dell'apparato respiratorio III clinica della tubercolosi III.
-
-I corsi possono essere completati da insegnamenti complementari scelti tra i seguenti: immunologia clinica, cardiologia, medicina nucleare, malattie professionali dell'apparato respiratorio, terapia intensiva pneumologica.
-
-I corsi di insegnamento sono integrati da conferenze, da esercitazioni pratiche, da seminari interdisciplinari (questi ultimi prevalentemente destinati al 4° anno) e da turni di internato, per i quali gli allievi hanno l'obbligo di frequenza al pari delle lezioni.
-
-Alla fine del 4° anno gli allievi dovranno sostenere l'esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione assegnato dal direttore della scuola o da uno degli insegnanti della scuola.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1978
-
-PERTINI
-
-PEDINI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 30 gennaio 1979 Registro n. 4 Istruzione, foglio n. 14
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
-  
-Decreta:   
-  
-Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-L'art. 108, relativo alla scuola di specializzazione in patologia generale, e' soppresso e sostituito dal seguente:   
-  
-Scuola di specializzazione in patologia generale   
-  
-Art. 108. - La scuola di specializzazione in patologia generale ha sede presso l'istituto di patologia generale.   
-Il corso degli studi ha la durata di quattro anni, suddiviso in due bienni.   
-La durata complessiva del corso di studi non e' suscettibile di abbreviazioni.   
-La frequenza alla scuola e' obbligatoria.   
-Gli allievi che non conseguono le attestazioni di frequenza non potranno essere ammessi a sostenere le singole prove di esame.   
-Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia, ai quali, dopo aver superato l'esame finale, sara' rilasciato il diploma di "specialista in patologia generale".  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-Alla scuola stessa vengono ammessi i laureati in medicina veterinaria, in scienze biologiche, in scienze naturali, in farmacia, in chimica e tecnologie farmaceutiche, ai quali, dopo aver superato l'esame finale, sara' rilasciato il diploma di "specialista in patologia generale con indirizzo tecnico".   
-L'ammissione al corso di specializzazione avviene per titoli ed esami.   
-Il numero massimo degli allievi e' di venti per anno di corso e complessivamente di ottanta iscritti per l'intero corso di studi.   
-Le materie di insegnamento sono le seguenti:   
-  
-I BIENNIO   
-(Propedeutico)   
-  
-1° Anno:   
-istituzioni di patologia generale;   
-patologia delle infezioni;   
-epidemiologia e patologia ambientale;   
-immunologia;   
-parassitologia e diagnostica parassitologica.   
-2° Anno:   
-radiobiologia e patologia da radiazioni;   
-oncologia generale;   
-immunopatologia e analisi immunologiche;   
-analisi chimico-cliniche;   
-fisiopatologia generale I (metabolismo e sistema endocrino).   
-  
-II BIENNIO   
-(Conseguimento per il diploma di "specialista in patologia generale")   
-  
-3° Anno:   
-diagnostica di laboratorio di citopatologia e citogenetica;   
-diagnostica di laboratorio di batteriologia e virologia;   
-fisiopatologia generale II (termoregolazione, sistema cardiocircolatorio, sangue ed organi emopoietici)   
-4° Anno:   
-diagnostica oncologica diagnostica istopatologica;   
-diagnostica ultrastrutturale;   
-fisiopatologia generale III (fegato, sistema digerente, renale, respiratorio).   
-  
-II BIENNIO   
-(Conseguimento per il diploma di "specialista in patologia generale con indirizzo tecnico")   
-  
-3° Anno:   
-tecniche di batteriologia;   
-tecniche di virologia;   
-tecniche di citologia e citogenetica.   
-4° Anno:   
-statistica e biometria;   
-culture in vitro: aspetti biologici ed applicativi;   
-tecniche ematologiche;   
-tecniche istologiche ed ultrastrutturali;   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, ad un professore di ruolo o fuori ruolo di materia affine.   
-Il direttore puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari e conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola stessa.   
-Per conseguire il relativo diploma di specializzazione, al termine del corso quadriennale, oltre ad aver superato tutti gli esami delle singole materie, e' obbligatorio sostenere l'esame finale su una dissertazione scritta, preferibilmente di carattere sperimentale.   
-L'art. 109, relativo alla scuola di specializzazione in anestesiologia e rianimazione, che muta la denominazione in quella di scuola di specializzazione in anestesia e rianimazione, e' soppresso e sostituito dal seguente:   
-  
-Scuola di specializzazione in anestesia e rianimazione   
-  
-Art. 109. - La scuola di specializzazione in anestesia e rianimazione ha sede presso l'istituto di anestesiologia e rianimazione e conferisce il diploma di specialista in anestesia e rianimazione.   
-La direzione della scuola e' affidata al professore di ruolo e fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno per l'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di anni tre e non e' suscettibile di abbreviazioni.   
-Il numero massimo degli allievi e' di venticinque per anno di corso e complessivamente di settantacinque iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-anatomia applicata all'anestesia ed alla rianimazione;   
-biochimica applicata all'anestesia ed alla rianimazione;   
-farmacologia applicata all'anestesia ed alla rianimazione;   
-fisica applicata all'anestesia ed alla rianimazione;   
-fisiologia applicata all'anestesia ed alla rianimazione;   
-anestesiologia I;   
-tecniche chirurgiche di interesse anestesiologico;   
-aspetti medico-legali dell'anestesia e della rianimazione;   
-esercitazioni pratiche.   
-2° Anno:   
-anestesiologia II;   
-terapia antalgica;   
-rianimazione I;   
-esercitazioni pratiche.   
-3° Anno:   
-rianimazione II;   
-tecniche speciali di anestesia;   
-tecniche speciali di rianimazione;   
-indagini diagnostiche attinenti alla specialita';   
-esercitazioni pratiche.   
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
-Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.   
-Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in anestesia e rianimazione gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
-L'art. 110, relativo alla scuola di specializzazione in radiologia, e' soppresso e sostituito dal seguente:   
-  
-Scuola di specializzazione in radiologia   
-  
-Art. 110. - La scuola di specializzazione in radiologia ha sede presso l'istituto di radiologia ed e' diretta da un professore di ruolo o fuori ruolo della stessa materia, o in carenza, di materia affine. Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso di diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione per titoli ed esami.   
-Non sono ammesse abbreviazioni di corso.   
-La scuola conferisce i seguenti diplomi:   
-a) diploma di specialista in radiodiagnostica: gli anni di studi necessari per conseguire questo titolo sono quattro;   
-b) diploma di specialista in radioterapia oncologica: gli anni di studio necessari per conseguire questo titolo sono quattro.   
-La scuola ha un tronco comune di due anni identico per i diplomi in radiodiagnostica e radioterapia oncologica.   
-Gli insegnamenti per il diploma di specialista in radiodiagnostica sono cosi' distribuiti nei quattro anni di corso:   
-1° Anno (comune alla specializzazione in radioterapia oncologica):   
-fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);   
-radiobiologia, legislazione e norme generali di radioprotezione;   
-tecnica di acquisizione e memorizzazione dei dati;   
-fotodocumentazioni e archiviazione;   
-nozioni di anatomia e fisiologia generale.   
-2° Anno (comune alla radioterapia oncologica):   
-anatomia patologica;   
-apparecchiature e tecniche radiologiche;   
-semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);   
-radiopatologia;   
-dosimetria applicata.   
-3° Anno:   
-tecniche speciali e relativa semeiotica I;   
-radiodiagnostica speciale dei vari organi ed apparati I.   
-4° Anno:   
-tecniche speciali e relativa semeiotica (termografia, ecografia, xerografia, TAC) II;   
-radiodiagnostica speciale dei vari organi ed apparati II.   
-Gli insegnamenti per il diploma di specialista in radioterapia oncologica sono cosi' distribuiti nei quattro anni di corso:   
-1° Anno (comune alla specializzazione in radiodiagnostica):   
-fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);   
-radiobiologia, legislazione e norme generali di radioprotezione;   
-tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;   
-nozioni di anatomia e fisiologia generale.   
-2° Anno (comune a radiodiagnostica):   
-anatomia patologica;   
-apparecchiature e tecniche radiologiche;   
-semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);   
-radiopatologia;   
-dosimetria applicata.   
-3° Anno:   
-oncologia generale;   
-oncologia clinica I;   
-tecniche radioterapiche.   
-4° Anno:   
-oncologia clinica II;   
-fondamenti di terapia chirurgica dei tumori;   
-radioterapia clinica;   
-trattamento del canceroso in fase avanzata.   
-I singoli insegnamenti saranno tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento.   
-Il numero massimo di iscritti in corso alla scuola e' di ottantaquattro da ripartirsi annualmente fra i vari corsi di diploma previsti dal presente statuto.   
-La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei. L'insegnamento verra' svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti, ecc. Gli allievi, per essere ammessi a sostenere gli esami delle singole materie, dovranno avere la firma di frequenza da parte del direttore della scuola stessa.   
-Gli allievi al termine di ogni anno dovranno superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.   
-Gli allievi per conseguire il diploma di specializzazione, oltre ad essere stati approvati in tutti gli esami, dovranno elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.   
-L'art. 111, relativo alla scuola di specializzazione in chirurgia vascolare, e' soppresso e sostituito dal seguente:   
-  
-Scuola di specializzazione in chirurgia vascolare   
-  
-Art. 111. - La scuola di specializzazione in chirurgia vascolare ha sede presso l'istituto di patologia speciale chirurgica e conferisce il diploma di specialista in chirurgia vascolare.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia di specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.   
-Il numero massimo degli allievi e' complessivamente di cinquantaquattro iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-embriologia, anatomia macro e microscopica dell'apparato vascolare;   
-fisiopatologia dell'apparato vascolare e della coagulazione sanguigna;   
-anatomia patologica dell'apparato vascolare;   
-semeiologia fisica e strumentale delle malattie vascolari;   
-semeiologia radiologica delle malattie vascolari;   
-vasculopatie di interesse medico e specialistico.   
-2° Anno:   
-patologia e clinica delle malattie del sistema arterioso;   
-patologia e clinica delle malattie del sistema venoso;   
-patologia e clinica delle malattie del sistema linfatico;   
-patologia e clinica delle malattie dei piccoli vasi.   
-3° Anno:   
-nozioni di terapia medica delle malattie vascolari;   
-terapia chirurgica delle malattie vascolari;   
-chirurgia vascolare applicata a malattie dei vari organi I.   
-4° Anno:   
-informatica medica;   
-rianimazione e terapia intensiva;   
-patologia e clinica vascolare pediatrica I;   
-epidemiologia delle malattie vascolari;   
-elementi di legislazione sanitaria comunitaria;   
-chirurgia vascolare applicata a malattie dei vari organi II.   
-5° Anno:   
-elementi di bioingegneria applicata al circolo;   
-principi e tecnica di circolazione extracorporea;   
-terapia intensiva;   
-patologia e clinica vascolare pediatrica II;   
-tecniche chirurgiche applicate alla patologia vascolare;   
-chirurgia vascolare applicata a malattie dei vari organi III.   
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
-Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in chirurgia vascolare gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione e dovranno sostenere una prova clinica.   
-L'ultimo comma dell'art. 112, relativo alla scuola di specializzazione in ginecologia e ostetricia di cui al [decreto del Presidente della Repubblica 31 ottobre 1977, n. 1269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-10-31;1269), e' soppresso e sostituito dal seguente:   
-"Al termine del corso di studi per il conseguimento del diploma di specialista in ginecologia e ostetricia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione".   
-L'art. 114, relativo alla scuola di specializzazione in psichiatria, e' soppresso e sostituito dal seguente:   
-  
-Scuola di specializzazione in psichiatria   
-  
-Art. 114. - La scuola di specializzazione in psichiatria ha sede presso l'istituto di psicologia generale e clinica e conferisce il diploma di specialista in psichiatria.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
-Il numero massimo degli allievi e' di diciotto per anno di corso e complessivamente di settanta iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-metodologia del rapporto medico-paziente;   
-psicologia;   
-elementi di genetica e biochimica;   
-struttura e funzioni integrative del SNC;   
-neurologia clinica;   
-clinica psichiatrica I.   
-2° Anno:   
-psicopatologia e psicodinamica;   
-psicoterapia I;   
-psicofarmacologia;   
-psicofarmacoterapia;   
-clinica psichiatrica II.   
-3° Anno:   
-psicodiagnostica ed informatica psichiatrica;   
-psichiatria sociale I;   
-psichiatria infantile;   
-psicoterapia II;   
-clinica psichiatrica III.   
-4° Anno:   
-psicosomatica;   
-psichiatria sociale II;   
-psichiatria forense;   
-psicoterapia III;   
-clinica psichiatrica IV.   
-Note esplicative:   
-1) Strutture e funzioni integrative del SNC: tale materia, annuale, e' comprensiva della anatomofisiologia del SNC e della psicofisiologia.   
-2) Neurologia clinica: tale insegnamento annuale, deve essere comprensivo, eventualmente con sottodivisioni, di cenni di anatomia patologica del SN, di semeiologia neurologica, clinica e strumentale, di neuroradiologia.   
-3) Clinica psichiatrica: tale materia, quadriennale, e' comprensiva anche di elementi di semeiotica psichiatrica, delle tecniche laboratoristiche, delle terapie biologiche.   
-4) Psicoterapia: tale materia, triennale, comprende e considera nel corso dei tre anni, le tecniche e i principi fondamentali delle principali psicoterapie individuali, direttive e non direttive, i principi fondamentali e le dinamiche delle piu' importanti psicoterapie di gruppo, delle prassi psicoterapiche, socioterapiche e delle sociodinamiche delle istituzioni psichiatriche.   
-5) Psicodiagnostica ed informatica psichiatrica: tale materia, annuale, e' comprensiva di cenni di statistica, dei reattivi mentali e psicodiagnostica e strumentale e di metodologia della ricerca psichiatrica.   
-6) Psichiatria sociale: tale materia, biennale, con molte possibilita' di suddivisioni, e' comprensiva di elementi di sociologia, di antropologia culturale, di etologia, di ecologia psichiatrica, di epidemiologia psichiatrica, di psichiatria transculturale, di psichiatria preventiva e di igiene mentale, prassi ed organizzazione di assistenza psichiatrica sul territorio extra istituzionale.   
-7) Psicosomatica: tale materia, annuale, e' comprensiva degli aspetti psichici delle malattie somatiche della cosiddetta medicina integrata, della endocrinologia in riferimento alla psichiatria, delle cosiddette malattie psicosomatiche.   
-E' obbligatoria la frequenza per undici mesi all'anno; tale periodo comprende sia la frequenza alle lezioni, sia l'attivita' nei reparti di degenza e nelle strutture ambulatoriali a disposizione della scuola.   
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
-La scuola programma lo svolgimento dei corsi di insegnamento. Per il passaggio agli anni successivi e' obbligatorio il superamento degli esami per ogni singolo anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
-Le lezioni teoriche sono integrate da seminari anche interdisciplinari, da documentazioni cliniche e da esperienze effettuate nei vari settori della disciplina.   
-Alla fine dei quattro anni gli allievi che hanno frequentato i corsi saranno ammessi all'esame di diploma, consistente nella presentazione e discussione di una tesi scritta di argomento pertinente alla psichiatria, in una prova orale e in una prova pratica.   
-Agli allievi che hanno ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specializzazione in psichiatria valido a tutti gli effetti di legge.   
-L'art. 116, relativo alla scuola di specializzazione in medicina nucleare, e' soppresso e sostituito dal seguente:   
-  
-Scuola di specializzazione in medicina nucleare   
-  
-La scuola di specializzazione in medicina nucleare ha sede presso l'istituto di medicina nucleare ed e' diretta da un professore di ruolo o fuori ruolo della stessa materia o, in carenza, di materia affine.   
-Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso del diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione.   
-Non sono ammesse abbreviazioni di corso.   
-La scuola conferisce il diploma di specialista in medicina nucleare.   
-Gli anni di studio necessari per conseguire questo titolo sono tre.  
-Gli insegnamenti per il conseguimento del diploma di specialista in medicina nucleare sono cosi' distribuiti nei tre anni di corso:   
-1° Anno:   
-fisica: con richiami di matematica, nozioni di statistica informatica e dosimetria;   
-radiobiologia, legislazione e norme generali di radioprotezione;   
-tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;   
-nozioni di anatomia e fisiologia generale.   
-2° Anno:   
-teoria dei traccianti;   
-elementi di radiochimica;   
-applicazione di diagnostica I;   
-tecniche di misura di radioattivita'.   
-3° Anno:   
-applicazioni di diagnostiche II;   
-applicazioni terapeutiche;   
-radioprotezione e legislazione applicata.   
-I singoli insegnamenti saranno tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento.   
-Il numero massimo di iscritti in corso alla scuola e' di sei per anno di corso e complessivamente di diciotto iscritti per l'intero corso di studi.   
-La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei.   
-L'insegnamento verra' svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti, ecc. Gli allievi per essere ammessi a sostenere gli esami delle singole materie, dovranno avere la firma di frequenza da parte del direttore della scuola stessa.   
-Gli allievi al termine di ogni anno dovranno superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.   
-Gli allievi per conseguire il diploma di specializzazione oltre ad essere stati approvati in tutti gli esami, dovranno elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.   
-L'art. 119, relativo alla scuola di specializzazione in malattie dell'apparato digerente, che muta la denominazione in quella di scuola di specializzazione in gastroenterologia ed endoscopia digestiva, e' soppresso e sostituito dal seguente:   
-  
-Scuola di specializzazione in gastroenterologia ed endoscopia digestiva   
-  
-Art. 119. - La scuola di specializzazione in gastroenterologia ed endoscopia digestiva ha sede presso l'istituto di patologia speciale medica e conferisce il diploma di specialista in gastroenterologia ed endoscopia digestiva.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
-Il numero massimo degli allievi e' complessivamente di trenta iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-anatomia clinica;   
-farmacologia clinica;   
-chimica clinica, coprologia, parassitologia;   
-genetica;   
-biostatistica ed epidemiologia.   
-2° Anno:   
-clinica medica generale I;   
-clinica e terapia del tubo digerente, fegato e pancreas I;   
-anatomia ed istologia patologica I;   
-fisiopatologia e semeiotica digestiva I;   
-radiologia e medicina nucleare I;   
-scienza dell'alimentazione e dietetica.   
-3° Anno:   
-clinica medica generale II;   
-clinica e terapia del tubo digerente, fegato e pancreas II;   
-anatomia ed istologia patologica II;   
-fisiopatologia e semeiotica digestiva II;   
-radiologia e medicina nucleare II;   
-endoscopia digestiva I.   
-4° Anno:   
-clinica medica generale III;   
-clinica e terapia del tubo digerente, fegato e pancreas III;   
-endoscopia digestiva II;   
-terapia intensiva;   
-gastroenterologia pediatrica;   
-elementi di chirurgia del tubo digerente, fegato e pancreas.   
-E' obbligatorio il tirocinio pratico durante il quadriennio di studi da svolgere nell'istituto clinico sede della scuola o in reparti ospedalieri di gastroenterologia, conforme alle scelte approvate dal consiglio della scuola.   
-Ogni scuola puo' aggiungere a queste materie fondamentali obbligatorie delle materie complementari con corsi semestrali in numero non superiore a sei per la totalita' del corso.   
-Per le materie biennali e triennali sara' dato l'esame alla fine del biennio o triennio.   
-La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.   
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
-Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno; per le materie biennali e triennali, invece, sara' dato l'esame alla fine del biennio e del triennio.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in gastroenterologia ed endoscopia digestiva, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
-Dopo l'art. 155, e con il conseguente spostamento della numerazione degli articoli, e' inserito il seguente nuovo articolo relativo all'istituzione della scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio.   
-  
-Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio   
-  
-Art. 156. - La scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio ha sede presso l'istituto di clinica medica generale e conferisce il diploma di specialista in tisiologia e malattie dell'apparato respiratorio.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
-Il numero massimo degli allievi e' di otto per anno di corso e complessivamente di 32 iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-anatomia e istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio I;   
-patologia della tubercolosi polmonare ed extra polmonare;   
-patologia delle malattie dell'apparato respiratorio;   
-fisiologia e fisiopatologia generale dell'apparato respiratorio;   
-semeiotica fisica e funzionale dell'apparato respiratorio;   
-microbiologia;   
-epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.   
-2° Anno:   
-anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio II;   
-clinica della tubercolosi I;   
-clinica delle malattie dell'apparato respiratorio I;   
-fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;   
-broncologia;   
-radiologia dell'apparato respiratorio;   
-profilassi della tubercolosi;   
-igiene e legislazione sociale.   
-3° Anno:   
-clinica delle malattie dell'apparato respiratorio II;   
-clinica della tubercolosi II;   
-chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;   
-terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;   
-terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.   
-4° Anno:   
-clinica delle malattie dell'apparato respiratorio III clinica della tubercolosi III.   
-I corsi possono essere completati da insegnamenti complementari scelti tra i seguenti: immunologia clinica, cardiologia, medicina nucleare, malattie professionali dell'apparato respiratorio, terapia intensiva pneumologica.   
-I corsi di insegnamento sono integrati da conferenze, da esercitazioni pratiche, da seminari interdisciplinari (questi ultimi prevalentemente destinati al 4° anno) e da turni di internato, per i quali gli allievi hanno l'obbligo di frequenza al pari delle lezioni.   
-Alla fine del 4° anno gli allievi dovranno sostenere l'esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione assegnato dal direttore della scuola o da uno degli insegnanti della scuola.   
+Pertanto la tabella 1 annessa allo statuto, concernente i posti di ruolo dei professori, e' modificata nel senso che l'organico dei professori di ruolo della suddetta facolta' passa da 30 + 1 a 30 + 2.   
+Art. 2 - e' approvata e resa esecutiva l'allegata convenzione, stipulata in Milano il 2 dicembre 1976, tra l'Universita' cattolica del Sacro Cuore di Milano e la associazione laicale Oasi Maria SS. di Troina nonche' l'atto aggiuntivo della convenzione medesima stipulato in Milano il 2 febbraio 1978, tra i citati enti conventori, per il finanziamento del posto di professore di ruolo di cui all'art. 1.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1978
+### Dato a Roma, addi' 13 settembre 1977
 
-PERTINI PEDINI
+LEONE MALFATTI - STAMMATI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 30 gennaio 1979
+Registrato alla Corte dei conti, addi' 14 giugno 1978
 
-Registro n. 4 Istruzione, foglio n. 14
+Registro n. 64 Istruzione, foglio n. 21
+
+Istituzione di un posto convenzionato di professore di ruolo-art. 1
+
+ Repertorio n. 43/1976   
+  
+  
+ISTITUZIONE DI UN POSTO CONVENZIONATO DI PROFESSORE DI RUOLO PER L'INSEGNAMENTO DI FISIOPATOLOGIA CARDIOCIRCOLATORIA PRESSO LA FACOLTA' DI MEDICINA E CHIRURGIA DELL'UNIVERSITA' CATTOLICA DEL SACRO CUORE DI MILANO.   
+  
+  
+REPUBBLICA ITALIANA   
+  
+  
+L'anno millenovecentosettantasei (1976), il giorno due del mese di dicembre, alle ore quindici e trenta in una sala del rettorato dell'Universita' cattolica del Sacro Cuore, presso la sede di Roma, avanti a me dott. Giancarlo Brasca, nato a Mezzago (Milano) il 1 agosto 1920, residente a Milano, nella mia qualita' di direttore amministrativo dell'Universita' cattolica del Sacro Cuore, delegato a ricevere gli atti in forma pubblica, ai sensi dell'art. 129 del R.G.U. approvato con [regio decreto 6 aprile 1924, n. 674, con decreto](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674) del rettore n. 3662 in data 1 agosto 1974, con rinuncia, previo mio consenso, di comune accordo dei testimoni, si sono personalmente costituiti i signori:   
+prof. Giuseppe Lazzati, nato a Milano il 22 giugno 1909, residente per la carica in Milano, largo Gemelli, 1, rettore dell'Universita' cattolica del Sacro Cuore, autorizzato al presente atto con delibera del consiglio di amministrazione dell'Universita' cattolica del Sacro Cuore;   
+rev.do sac. Luigi Ferlauto, nato a Troina il 24 luglio 1922, residente in Troina, via Conte Ruggero, 73, presidente dell'associazione laicale Oasi Maria SS. di Troina, autorizzato al presente atto con delibera del consiglio di amministrazione dell'associazione;   
+  
+  
+Premesso   
+  
+  
+che gia' da tempo l'associazione laicale Oasi Maria SS. di Troina aveva espresso il desiderio di stabilire rapporti scientifici ed operativi con l'Universita' cattolica del Sacro Cuore;   
+che la predetta associazione, avendo appreso che nello statuto dell'Universita' cattolica e' previsto l'insegnamento della materia di fisiopatologia cardiocircolatoria per il corso di laurea della facolta' di medicina e chirurgia ed essendo particolarmente sensibile ed interessata a che detta materia possa essere insegnata da un professore di ruolo per la maggiore garanzia e serieta' degli studi e delle ricerche che dallo stesso puo' pervenire, ritiene necessario, per meglio realizzare i propri scopi, promuovere l'attribuzione di un posto di professore di ruolo alla predetta cattedra;   
+che la predetta associazione ritiene di poter contribuire al potenziamento degli studi e delle ricerche relative alle malattie cardiocircolatorie ed in particolare alle ricerche indirizzate allo studio delle correlazioni tra alterazioni cardiovascolari e patologia associata che interessano il mondo degli studi degli handicappati, stipulando apposita convenzione con l'Universita' cattolica;   
+che l'Universita' cattolica si e' dichiarata disponibile ad aderire a tale iniziativa e ad accettare il versamento da parte dell'associazione di una somma annuale per la durata della presente convenzione corrispondente al costo medio di un professore di ruolo, secondo i calcoli tabellari e gli emolumenti spettanti, desunti dalle tabelle ufficiali del Ministero del tesoro e del Ministero della pubblica istruzione;   
+che il consiglio della facolta' di medicina e chirurgia nella seduta del 22 marzo 1976 ha deliberato l'accettazione della proposta di convenzione e che analoga delibera e' stata poi adottata dal senato accademico dell'Universita' cattolica nella seduta del 30 marzo 1976 e che il consiglio di amministrazione ha deliberato la medesima accettazione nella seduta del 6 aprile 1976;   
+Tutto cio' premesso e richiamato si conviene e si stipula quanto segue:   
+  
+  
+Art. 1.   
+  
+  
+L'associazione laicale Oasi Maria SS. di Troina affinche' presso la facolta' di medicina e chirurgia dell'Universita' cattolica del Sacro Cuore venga attuato l'insegnamento di fisiopatologia cardiocircolatoria si impegna a versare annualmente all'Universita' medesima un contributo destinato a finanziare un posto di professore di ruolo da istituire a tale uopo a norma degli articoli 63 e 100 del testo unico delle leggi sulla istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), pari all'importo complessivo del costo medio per trattamento economico di attivita', a qualsiasi titolo, di professore universitario di ruolo, per un periodo di venti anni.   
+
+Istituzione di un posto convenzionato di professore di ruolo-art. 2
+
+ Art. 2.   
+  
+  
+Il contributo di cui al precedente art. 1 deve essere versato all'Universita' cattolica del Sacro Cuore annualmente, in unica soluzione anticipata prima dell'inizio dell'anno accademico, per venti anni, a partire dalla data della nomina del primo titolare della cattedra.   
+
+Istituzione di un posto convenzionato di professore di ruolo-art. 3
+
+ Art. 3.   
+  
+  
+L'associazione laicale Oasi Maria SS. di Troina mettera' a disposizione per la durata della convenzione i propri laboratori e le proprie attrezzature, particolarmente per le ricerche che mirano ad approfondire la incidenza che le alterazioni cardiovascolari hanno nelle patologie che affliggono gli handicappati psichici.   
+
+Istituzione di un posto convenzionato di professore di ruolo-art. 4
+
+ Art. 4.   
+  
+  
+La presente convenzione potra' essere rinnovata di venti anni in venti anni, qualora cio' venga espressamente richiesto dall'associazione laicale Oasi Maria SS. di Troina mediante lettera raccomandata con ricevuta di ritorno da inviare almeno un anno prima della scadenza.   
+
+Istituzione di un posto convenzionato di professore di ruolo-art. 5
+
+ Art. 5.   
+  
+  
+Dichiarano le parti stipulanti che la presente convenzione ha come finalita' quelle culturali e di ricerca scientifica, come peraltro si evince dall'articolato che precede e pertanto l'Universita' cattolica chiede, in ordine alla registrazione, le agevolazioni fiscali del caso.   
+  
+  
+Il presente atto viene pubblicato mediante lettura da me datane ai comparenti che, trovandolo conforme alla loro volonta', lo sottoscrivono con me ufficiale rogante.   
+L'atto consta di 2 (due) fogli scritti su cinque facciate intere e sei righe dalla sesta facciata, comprese le firme ed due postille.   
+  
+  
+F.to Giuseppe LAZZATI   
+Luigi FERLAUTO   
+Giancarlo BRASCA, rogante   
+  
+  
+Visto, d'ordine del Presidente della Repubblica   
+Il Ministro della pubblica istruzione   
+MALFATTI   
+
+Atto aggiuntivo alla convenzione stipulata il 2 dicembre 1976-art. 1
+
+ Repertorio n. 68/1978   
+  
+  
+ATTO AGGIUNTIVO   
+alla convenzione stipulata il 2 dicembre 1976, tra l'Universita' cattolica del Sacro Cuore e l'associazione laicale Oasi Maria SS. di Troina avente per oggetto: "Istituzione di un posto convenzionato di professore di ruolo per l'insegnamento di fisiopatologia cardiocircolatoria presso la facolta' di medicina e chirurgia dell'Universita' cattolica del Sacro Cuore".   
+  
+  
+REPUBBLICA ITALIANA   
+  
+  
+L'anno millenovecentosettantotto (1978) il giorno due (2) del mese di febbraio, alle ore dodici (12) in una sala del rettorato dell'Universita' cattolica del Sacro Cuore, presso la sede di Roma, avanti a me dott. Giancarlo Brasca, nato a Mezzago (Milano) il 1 agosto 1920, residente a Milano, nella mia qualita' di direttore amministrativo dell'Universita' cattolica del Sacro Cuore, delegato a ricevere gli atti in forma pubblica, ai sensi dell'art. 129 del R.G.U. approvato con [regio decreto 6 aprile 1924, n. 674, con decreto](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674) del rettore n. 3662 in data 1 agosto 1974, con rinuncia, previo mio consenso, di comune accordo dei testimoni, si sono personalmente costituiti i signori:   
+prof. Giuseppe Lazzati, nato a Milano il 22 giugno 1909, residente per la carica in Milano, largo Gemelli, 1, rettore dell'Universita' cattolica del Sacro Cuore, avente i poteri per questo atto;   
+rev.do sac. Luigi Ferlauto, nato a Troina il 24 luglio 1922, residente in Troina, via Conte Ruggero, 73, presidente dell'associazione laicale Oasi Maria SS. di Troina, avente i poteri per questo atto;   
+  
+  
+Premesso   
+  
+  
+che in data 2 dicembre 1976 e' stata stipulata una convenzione per l'istituzione di un posto convenzionato di professore di ruolo per l'insegnamento di fisiopatologia cardiocircolatoria, inviata al Ministero della pubblica istruzione per le doverose modifiche statutarie dell'Universita' cattolica del Sacro Cuore, e che il Ministero della pubblica istruzione con propria nota prot. n. 2832, pos. 2, del 22 novembre 1977, ha chiesto espressamente l'inserimento di alcune clausole relative alla convenzione in oggetto;   
+che per aderire alla detta richiesta del Ministero della pubblica istruzione, formulata su osservazioni del Ministero del tesoro, le parti convengono di stipulare il presente atto aggiuntivo, da intendersi come parte integrante della gia' richiamata convenzione; che l'associazione laicale Oasi Maria SS. di Troina e' associazione laicale con fini di culto e di religione, riconosciuta con [decreto del Presidente della Repubblica 24 giugno 1974, n. 471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-06-24;471), e che pertanto opera nell'ambito delle leggi e dei controlli previsti e che la consistenza patrimoniale dei beni immobili del predetto ente nonche' le fonti di entrata e gli oneri di gestione sono stati chiaramente evidenziati nelle annuali denuncie dei redditi e che non esiste alcun altro obbligo circa l'evidenziazione dei dati suddetti;   
+Tutto cio' premesso le parti come sopra costituite convengono e stipulano quanto segue:   
+  
+  
+Art. 1.   
+  
+  
+All'art. 1 della richiamata convenzione 2 dicembre 1976 e' aggiunto il seguente comma: "L'ente sovventore si impegna, in aggiunta a quanto stabilito al comma precedente, a versare all'Universita' cattolica del Sacro Cuore un'ulteriore aliquota pari al 20% del costo medio del posto di professore da destinare alla costituzione di apposito fondo per il trattamento di cessazione dal servizio che possa eventualmente spettare al titolare del posto stesso".   
+
+Atto aggiuntivo alla convenzione stipulata il 2 dicembre 1976-art. 2
+
+ Art. 2.   
+  
+  
+All'art. 4 della richiamata convenzione 2 dicembre 1976 e' aggiunto il seguente comma: "Convengono le parti contraenti che qualora la convenzione non venga rinnovata alla scadenza o qualora non siano aggiornati i contributi a carico dell'ente sovventore oppure vengano a cessare per qualsiasi motivo ed in qualunque momento i contributi medesimi, la convenzione si intendera' senz'altro decaduta con la conseguente soppressione del posto di cui trattasi e la immediata cessazione dal servizio del relativo titolare, salvo eventuali responsabilita' che potranno derivare all'ente sovventore dal mancato adempimento, nei casi previsti dalle leggi vigenti in materia di obbligazioni".   
+
+Atto aggiuntivo alla convenzione stipulata il 2 dicembre 1976-art. 3
+
+ Art. 3.   
+  
+  
+La presente convenzione essendo atto integrativo di altra convenzione stipulata il 2 dicembre 1976, rep. n. 43/1976 e registrata a Milano il 16 dicembre 1976, ufficio registro atti pubblici, A/2 n. 18839, serie I, verra' registrata con lo stesso regime tributario della gia' richiamata convenzione.   
+
+Atto aggiuntivo alla convenzione stipulata il 2 dicembre 1976-art. 4
+
+ Art. 4.   
+  
+  
+Dichiarano le parti stipulanti che il presente atto ha come finalita' quelle culturali e di ricerca scientifica, come peraltro si evince dall'articolato che precede e pertanto l'Universita' cattolica chiede, in ordine alla registrazione, le agevolazioni fiscali del caso.   
+  
+  
+Il presente atto viene pubblicato mediante lettura da me datane ai comparenti che, trovandolo conforme alla loro volonta', lo sottoscrivono con me ufficiale rogante.   
+L'atto consta di 2 (due) fogli scritti su quattro (4) facciate intere e n. tredici (13) righe della quinta facciata, comprese le firme e le postille.   
+  
+  
+F.to Giuseppe LAZZATI   
+Luigi FERLAUTO   
+Giancarlo BRASCA, rogante   
+  
+  
+Visto, d'ordine del Presidente della Repubblica   
+Il Ministro della pubblica istruzione   
+MALFATTI   

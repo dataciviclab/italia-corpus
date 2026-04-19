@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1954 n. 710
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 novembre 1952 n. 4566
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1954 n. 710
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 novembre 1952 n. 4566
+================================================================
 
 Autorizzazione all'Universita' di Napoli ad accettare una donazione.
 --------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-710. Decreto del Presidente della Repubblica 30 giugno 1934, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Napoli viene autorizzata ad accettare la donazione di L. 600.000 nominali, in obbligazioni di Credito fondiario del Banco di Napoli 5%, disposta in suo favore con atto pubblico amministrativo in data 8 maggio 1953 dal prof. Amedeo Ricci, nella sua qualita' di segretario economo del Comitato provvisorio per le onoranze a] prof. Giovanni Boeri e in nome e per conto del Comitato medesimo, per l'istituzione di un premio di studio biennale intitolato "Premio Giovanni Boeri" e da conferirsi mediante concorso a laureati in medicina e chirurgia nella Universita' di Napoli.  
+4566. Decreto del Presidente della Repubblica 2 novembre 1952, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Napoli viene autorizzata ad accettare la donazione di lire 1.000.000 in contante, da convertirsi in titoli di Stato rendita 5%, disposta in suo favore dal prof. Giotto Dainelli, per l'istituzione, con la rendita del capitale donato, di un premio di studio da denominarsi "Premio Giotto Dainelli" e da conferirsi annualmente, in seguito a concorso, a studiosi nel campo della geologia e della paleontologia.  
   
-Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 18 agosto 1954  
-Atti del Governo, registro n. 85, foglio n. 56. - TEMPESTA
+Visto, il Guardasigilli: ZOLI  
+Registrato alla Corte dei conti, addi' 3 giugno 1953  
+Atti del Governo, registro n. 77, foglio n. 7. - PALLA

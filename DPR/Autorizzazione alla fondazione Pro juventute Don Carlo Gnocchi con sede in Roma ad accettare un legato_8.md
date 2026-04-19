@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1973 n. 189
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1973 n. 100
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1973 n. 189
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1973 n. 100
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute Don Carlo Gnocchi", con sede in Roma, ad accettare un legato.
 -----------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-189. Decreto del Presidente della Repubblica 20 marzo 1973, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare il legato, disposto dalla signora Romini Clotilde, vedova Passerini, con testamento pubblico in data 11 maggio 1967, n. 62 di repertorio atti ultima volonta', reso noto con rogito del notaio dott. Alessandro Cirani di Casalmaggiore in data 30 aprile 1971 (n. 5332 di repertorio e n. 1061 di raccolta) e registrato a Casalmaggiore in data 12 maggio 1971 al n. 310, vol. 125, consistente nella somma di L. 1.500.000.  
+100. Decreto del Presidente della Repubblica 2 febbraio 1973, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare il legato, disposto dalla signora Vanda Maria Cesira Perme', ved. Peri, con testamento olografo in data 25 marzo 1970, depositato e pubblicato con verbale a rogito dott. Raffaello Meneghini, notaio in Milano, in data 10 agosto 1970 (n. 160623 di repertorio e n. 27062 d'archivio), registrato a Milano il 25 agosto 1970 al n. 9975/F, consistente nella meta' di un appartamento sito in Milano, via S. Sofia n. 22.   
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 2 maggio 1973  
-Atti di Governo, registro n. 258, foglio n. 3. - VALENTINI
+Visto, il Guardasigilli: GONELLA   
+Registrato alla Corte dei conti, addi' 3 aprile 1973   
+Atti di Governo, registro n. 257, foglio n. 33. - VALENTINI

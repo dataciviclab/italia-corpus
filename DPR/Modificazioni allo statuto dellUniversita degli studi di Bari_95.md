@@ -1,76 +1,74 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 1188
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1972 n. 537
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 1188
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1972 n. 537
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Rari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
-
-Veduto il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Nell'art. 54, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-ginecologia oncologica;  
-urologia ginecologica;  
-fisiopatologia digestiva;  
-fisiopatologia medica;  
-dermatologia sperimentale;  
-virologia clinica.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Nell'art. 91, relativo al corso di laurea in scienze della informazione, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-automazione e organizzazione sanitaria.  
-
-Art. 3
-------
-
+Decreta:   
   
-Nell'art. 130, relativo all'elenco degli insegnamenti complementari del corso di laurea in ingegneria, sono aggiunti i seguenti insegnamenti:  
-statica delle strutture prefabbricate.  
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 70. - All'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologia farmaceutiche e' aggiunto quello di:   
+  
+Psicobiologia e psicofarmacologia.   
+  
+Art. 71. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie e' aggiunto quello di:   
+  
+Impianti frigoriferi (annuale).   
+  
+Nello stesso articolo gli insegnamenti complementari di "Fitoiatria", "Nematologia", "Virologia vegetale", "Micologia", da semestrali diventano annuali.   
+Art. 81, relativo all'esame di laurea in matematica e' modificato nel senso che le lettere a) e b) dell'ottavo comma sono abrogate e sostituite dal seguente comma:   
+"Detto esame di laurea consta della esposizione e discussione di una dissertazione scritta (tesi), che per l'indirizzo generale deve essere relativa ad una ricerca originale di due argomenti (tesine orali)".   
+Art. 86, relativo all'esame di laurea in scienze naturali e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente:   
+"L'esame di laurea consiste nella discussione di una dissertazione scritta (tesi) e di almeno una fra due tesine svolte su argomenti scelti in discipline diverse da quella inerente alla dissertazione scritta.   
+Art. 88. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:   
+  
+Enzimologia;   
+Fotobiologia;   
+Psicologia sperimentale;   
+Farmacologia;   
+Tecnica fisiologica;   
+Genetica dei microrganismi;   
+Analisi chimico-cliniche;   
+Virologia.   
+  
+Nello stesso articolo l'ultimo comma relativo all'esame di laurea e' abrogato e sostituito dal seguente:   
+  
+"L'esame di laurea consiste nella discussione di una dissertazione scritta. Tale dissertazione deve essere presentata in segreteria, in triplice copia, entro e non oltre 15 giorni prima della data fissata per la seduta di laurea".   
+  
+Art. 92, relativo all'esame di laurea in chimica, in scienze naturali ed in scienze geologiche e' abrogato e sostituito dal seguente:   
+"L'esame di laurea in chimica, scienze naturali, scienze geologiche consiste, oltre che nelle prove pratiche e nell'esame di cultura generale di cui all'art. 84:   
+  
+a) nella discussione di una dissertazione scritta. Tale dissertazione deve essere presentata in segreteria, in triplice copia, almeno 15 giorni prima dell'inizio della seduta di laurea;   
+b) nella discussione di almeno un argomento scelto dal presidente della commissione fra due presentati dallo studente, concordati tra lui ed uno o piu' professori della facolta', e notificati alla segreteria con preavviso di almeno quindici giorni".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 maggio 1983
+### Dato a Roma, addi' 18 luglio 1972
 
-PERTINI FALCUCCI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 28 aprile 1984
+Registrato alla Corte dei conti, addi' 8 settembre 1972
 
-Registro n. 25 Istruzione, foglio n. 201
+Atti del Governo, registro n. 251, foglio n. 37. - VALENTINI

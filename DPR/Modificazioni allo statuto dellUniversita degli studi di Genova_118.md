@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1982 n. 827
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 1086
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1982 n. 827
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 1086
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
@@ -10,221 +10,124 @@ Modificazioni allo statuto dell'Universita' degli studi di Genova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio universitario nazionale nei suoi pareri;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla
+-----
 
-Decreta:
---------
-
-Lo statuto dell'Universita' di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+proposta del Ministro della pubblica istruzione; Decreta:
 
 Art. 1
 ------
 
   
-Art. 87 - nell'elenco degli insegnamenti complementari del corso di laurea in farmacia sono inseriti i seguenti insegnamenti:  
-chimica dei prodotti cosmetici;  
-chimica dei prodotti dietetici;  
-chimica analitica clinica;  
-farmacognosia;  
-patologia generale.  
-L'art. 89 e' soppresso.  
-L'art. 90 cambia, pertanto, la numerazione e diventa art. 89.  
-Dopo l'art. 89 e' inserito il seguente nuovo articolo:  
-Art. 90. - La frequenza e gli esami delle varie parti degli insegnamenti biennali di fisiologia generale e di chimica farmaceutica e tossicologica e triennali di esercitazioni di chimica farmaceutica e tossicologica, devono rispettivamente avvenire secondo l'ordine di successione.  
-Inoltre gli studenti non possono sostenere gli esami delle discipline sottoelencate (colonna A) se non hanno precedentemente superato quelli delle discipline indicate accanto (colonna B):  
   
+Lo statuto dell'Universita' di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli 196, 197, 198, 199, 200, 201 e 202, relativi alla scuola di specializzazione in clinica dermosifilopatica, che muta la denominazione in dermatologia e venereologia, sono soppressi e sostituiti dai seguenti con il conseguente spostamento della numerazione degli articoli successivi:   
   
-A B  
-Chimica organica Chimica generale ed inorganica  
----------------------------------------------------------------------  
-Esercitazioni di chimica Chimica generale ed inorganica  
-farmaceutica e tossicologica I  
----------------------------------------------------------------------  
-Esercitazioni di chimica Chimica organica  
-farmaceutica e tossicologica III  
----------------------------------------------------------------------  
-Chimica farmaceutica e Chimica organica  
-tossicologica I  
----------------------------------------------------------------------  
-Tecnica e legislazione farmaceutica Chimica organica  
----------------------------------------------------------------------  
-Chimica biologica Chimica organica  
----------------------------------------------------------------------  
-Fisiologia generale I Anatomia umana  
----------------------------------------------------------------------  
-Farmacologia e farmacognosia Botanica farmaceutica  
-Chimica biologica  
-Fisiologia generale II  
----------------------------------------------------------------------  
-Biochimica applicata Chimica organica  
----------------------------------------------------------------------  
-Chemioterapia Farmacologia e farmacognosia  
----------------------------------------------------------------------  
-Chimica analitica Chimica generale ed inorganica  
----------------------------------------------------------------------  
-Chimica degli alimenti Chimica organica  
-Eserc. di chimica farm. e  
-toss. II  
----------------------------------------------------------------------  
-Chimica degli oli essenziali Chimica organica  
----------------------------------------------------------------------  
-Chimica dei composti eterociclici Chimica organica  
----------------------------------------------------------------------  
-Chimica delle fermentazioni e Microbiologia  
-microbiologia industriale Chimica biologica  
----------------------------------------------------------------------  
-Chimica delle sostanze Chimica organica  
-organiche naturali  
----------------------------------------------------------------------  
-Chimica farmaceutica applicata Chimica organica  
----------------------------------------------------------------------  
-Chimica fisica Istituzioni di matematiche  
-Fisica  
-Chimica generale ed inorganica  
----------------------------------------------------------------------  
-Chimica tossicologica Chimica organica  
----------------------------------------------------------------------  
-Farmacologia molecolare Farmacologia e farmacognosia  
----------------------------------------------------------------------  
-Fitochimica Botanica farmaceutica  
-Chimica organica  
----------------------------------------------------------------------  
-Impianti dell'industria farmaceutica Fisica  
-Chimica generale ed inorganica  
----------------------------------------------------------------------  
-Microchimica Chimica generale ed inorganica  
----------------------------------------------------------------------  
-Scienza dell'alimentazione Anatomia umana  
----------------------------------------------------------------------  
-Chimica dei prodotti cosmetici Chimica organica  
----------------------------------------------------------------------  
-Chimica dei prodotti dietetici Chimica organica  
+Scuola di specializzazione in dermatologia e venereologia   
   
-Gli studenti non possono frequentare il corso e le esercitazioni di tecnica e legislazione farmaceutica se non hanno ottenuto l'attestazione di frequenza della I e della II parte delle esercitazioni di chimica farmaceutica e tossicologica.  
-Gli studenti non possono frequentare la III parte delle esercitazioni di chimica farmaceutica e tossicologica se non hanno superato l'esame di chimica organica.  
+Art. 196. - La scuola di specializzazione in dermatologia e venereologia ha sede presso la clinica dermatologica e conferisce il diploma di specialista in dermatologia e venereologia.   
+Art. 197. - La durata del corso di studi e' di tre anni.   
+Art. 198. - Il numero massimo degli allievi iscrivibili e' di ventiquattro complessivamente per l'intero corso di studi.   
+Art. 199. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+1) anatomia ed istologia normale della cute;   
+2) fisiologia della cute e degli annessi;   
+3) anatomia e fisiologia dell'apparato genitale;   
+4) microbiologia e parassitologia applicate;   
+5) tecniche di laboratorio applicate alla disciplina;   
+6) semeiotica dermatologica e venereologica.   
+2° Anno:   
+1) patologia delle malattie cutanee;   
+2) patologia delle infezioni veneree;   
+3) istopatologia e citologia dermatologica e venereologica;   
+4) immunopatologia cutanea;   
+5) dermatologia allergologica e professionale;   
+6) angiologia;   
+7) sessuologia.   
+3° Anno:   
+1) clinica delle malattie cutanee;   
+2) clinica delle infezioni veneree;   
+3) dermatologia pediatrica;   
+4) farmacologia e terapia;   
+5) fisioterapia dermatologica;   
+6) cosmetologia;   
+7) chirurgia plastica riparatrice;   
+8) igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.   
+Art. 200. - Il corso di lezioni deve essere impartito mediante almeno cinquanta lezioni annuali, comprensive delle varie materie e la frequenza giornaliera degli iscritti non deve essere inferiore alle quattro ore effettive per tutta la durata dell'anno accademico.  
+Gli specializzandi hanno percio' obblighi di frequenza obbligatoria ai fini di apprendimento onde seguire i corsi di lezioni e svolgere contemporaneamente esercitazioni pratiche nelle corsie, negli ambulatori e nei laboratori. Gli esami di profitto vengono sostenuti in due sessioni.   
+L'esame di diploma consiste nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato ventiquattro ore prima della prova.   
 
 Art. 2
 ------
 
   
   
-Art. 94 - nell'elenco degli insegnamenti fondamentali del corso di laurea in chimica e tecnologia farmaceutiche, l'insegnamento di chimica generale ed inorganica perde l'asterisco.   
-Nel medesimo art. 94, nell'elenco degli insegnamenti complementari sono inserite le seguenti discipline:   
-chimica analitica clinica;   
-farmacognosia;   
-patologia generale;   
-scienza dell'alimentazione.   
-Dopo l'art. 94, con il conseguente scorrimento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo.   
-Art. 95. - La frequenza e gli esami delle varie parti di chimica organica, chimica farmaceutica e tossicologica e di analisi chimico-farmaceutica, devono rispettivamente avvenire secondo l'ordine di successione.   
-Inoltre gli studenti non possono sostenere gli esami delle discipline sottoelencate (colonna A) se non hanno precedentemente superato quelli delle discipline indicate accanto (colonna B):   
+Gli articoli 247, 248, 249 e 250, relativi alla scuola di specializzazione in oncologia, sono soppressi e sostituiti dai seguenti con il conseguente spostamento della numerazione degli articoli successivi.   
   
+Scuola di specializzazione in oncologia   
   
+Art. 247. - La scuola di specializzazione in oncologia ha sede presso la cattedra di oncologia e conferisce il diploma di specialista in oncologia.   
+Art. 248. - La durata del corso di studi e' di tre anni.   
+Art. 249. - Il numero massimo degli allievi iscrivibili e' di settantacinque complessivamente per l'intero corso degli studi.   
+Art. 250. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+patologia generale dei tumori (I);   
+oncologia sperimentale (I);   
+anatomia ed istologia patologica dei tumori (I);   
+epidemiologia dei tumori;   
+cancerogenesi ambientale e professionale e prevenzione primaria;   
+immunologia dei tumori.   
+2° Anno:   
+patologia generale dei tumori (II);   
+oncologia sperimentale (II);   
+anatomia ed istologia patologica dei tumori (II);   
+citodiagnostica dei tumori;   
+prevenzione clinica e tecniche diagnostiche e di laboratorio; radiodiagnostica dei tumori;   
+oncologia medica (I);   
+oncologia chirurgica (I).   
+3° Anno:   
+oncologia medica (II);   
+oncologia chirurgica (II);   
+radioterapia dei tumori;   
+oncologia dell'apparato genitale femminile;   
+oncologia pediatrica;   
+principi di riabilitazione oncologica;   
+organizzazione della lotta contro i tumori.   
+Ogni scuola deve provvedere ad organizzare seminari e conferenze su specifici argomenti con l'integrazione di quelli elencati nello statuto.   
+Art. 251. - La frequenza alle lezioni ed alle esercitazioni pratiche, ai seminari e' obbligatoria per l'ammissione agli esami; il superamento degli esami di ciascun anno e' condizione indispensabile per l'iscrizione all'anno successivo. Per le materie a corso pluriennale l'esame e' unico.   
+
+Art. 3
+------
+
   
+L'art. 429, relativo al numero degli iscritti alla scuola di specializzazione in neurofisiopatologia, e' cosi' modificato:  
   
-A B  
-Chimica fisica Istituzioni di matematiche  
-Fisica  
-Chimica generale ed inorganica  
----------------------------------------------------------------------  
-Chimica organica I Chimica generale ed inorganica  
----------------------------------------------------------------------  
-Analisi chimico-farmaceutica I Chimica generale ed inorganica  
----------------------------------------------------------------------  
-Analisi chimico-farmaceutica III Chimica organica II  
----------------------------------------------------------------------  
-Chimica farmaceutica e Chimica organica II  
-tossicologica I  
----------------------------------------------------------------------  
-Metodi fisici in chimica organica Fisica  
-Chimica organica I  
----------------------------------------------------------------------  
-Fisiologia generale Anatomia umana  
----------------------------------------------------------------------  
-Chimica biologica Chimica organica I  
----------------------------------------------------------------------  
-Biochimica applicata Chimica organica I  
----------------------------------------------------------------------  
-Laboratorio di preparazione Chimica organica II  
-estrattiva e sintetica dei farmaci  
----------------------------------------------------------------------  
-Tecnica e legislazione farmaceutica Chimica organica II  
----------------------------------------------------------------------  
-Farmacologia e farmacognosia Botanica farmaceutica  
-Chimica biologica  
-Fisiologia generale  
----------------------------------------------------------------------  
-Saggi e dosaggi farmacologici Farmacologia e farmacognosia  
----------------------------------------------------------------------  
-Chimica degli alimenti Chimica organica II  
-Analisi chimico farmaceutica II  
----------------------------------------------------------------------  
-Impianti dell'industria farmaceutica Fisica  
-Chimica generale ed inorganica  
----------------------------------------------------------------------  
-Chimica farmaceutica applicata Chimica organica II  
----------------------------------------------------------------------  
-Chemioterapia Farmacologia e farmacognosia  
----------------------------------------------------------------------  
-Chimica analitica Chimica generale ed inorganica  
----------------------------------------------------------------------  
-Chimica degli oli essenziali Chimica organica II  
----------------------------------------------------------------------  
-Chimica dei composti eterociclici Chimica organica II  
----------------------------------------------------------------------  
-Chimica dei prodotti cosmetici Chimica organica II  
----------------------------------------------------------------------  
-Chimica dei prodotti dietetici Chimica organica II  
----------------------------------------------------------------------  
-Chimica delle fermentazioni e Microbiologia e igiene (o  
-microbiologia industriale microbiologia)  
-Chimica biologica  
----------------------------------------------------------------------  
-Chimica delle sostanze Chimica organica II  
-organiche naturali  
----------------------------------------------------------------------  
-Chimica tossicologica Chimica organica I  
----------------------------------------------------------------------  
-Farmacologia molecolare Farmacologia e farmacognosia  
----------------------------------------------------------------------  
-Fitochimica Botanica farmaceutica  
-Chimica organica II  
----------------------------------------------------------------------  
-Microchimica Chimica generale ed inorganica  
----------------------------------------------------------------------  
-Scienza dell'alimentazione Anatomia umana  
-  
-  
-Gli studenti non possono frequentare il corso e le esercitazioni di tecnica e legislazione farmaceutica se non hanno ottenuto l'attestazione di frequenza di analisi chimica farmaceutica I e II.   
-Gli studenti non possono frequentare il corso di analisi chimico farmaceutica III se non hanno superato l'esame di chimica organica I.   
+Il numero massimo degli allievi iscrivibili e' di quarantacinque complessivamente per l'intero corso di studi".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Selva di Val Gardena, addi' 2 agosto 1982
+### Dato a Roma, addi' 5 settembre 1980
 
-PERTINI BODRATO
+PERTINI SARTI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 29 ottobre 1982
+Registrato alla Corte dei conti, addi' 9 marzo 1981
 
-Registro n. 121 Istruzione, foglio n. 58
+Registro n. 22 Istruzione, foglio n. 294

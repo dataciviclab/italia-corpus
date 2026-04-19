@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1977 n. 784
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1970 n. 511
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1977 n. 784
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1970 n. 511
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
@@ -12,320 +12,138 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;   
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;   
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938; n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
 Sulla proposta del Ministro per la pubblica istruzione;   
   
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli 446 e 447, relativi alla scuola di specializzazione in radiologia della 1ª facolta' di medicina e chirurgia, sono abrogati e sostituiti dai seguenti:   
   
-Scuola di specializzazione in radiologia   
+Dopo l'art. 354 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione, presso la facolta' di lettere e filosofia, della scuola di specializzazione in "Psicologia".   
   
-Art. 46. - La scuola rilascia i seguenti diplomi di specializzazione:   
-1) radiologia;   
-2) radiologia diagnostica.   
-La scuola ha sede presso l'istituto di radiologia ed e' diretta dal professore titolare dell'insegnamento. La scuola e' riservata ai laureati in medicina e chirurgia che possono essere accolti in numero massimo di 10 per ciascun anno di corso per radiologia e 40 per radiologia diagnostica.   
-Art. 447. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia e' di quattro anni.   
-Gli insegnamenti sono i seguenti:   
+Scuola di specializzazione in psicologia   
   
-a) Matematica, fisica, nozioni di statistica ed informatica (annuale) comprendente:   
-1) richiami di matematica e fisica generale;   
-2) costituzione della materia;   
-3) produzione, assorbimento e misura delle radiazioni;   
-4) statistica applicata alla medicina;   
-5) informatica e cibernetica applicate alla radiologia.   
+Art. 355. - Presso la facolta' di lettere e filosofia e' istituita la "Scuola di specializzazione in psicologia" la quale e' articolata nei seguenti indirizzi:   
+a) Differenziale e scolastico;   
+b) Sociale;   
+c) Industriale e del lavoro.   
+Art. 356. - La durata del corso della scuola e' di tre anni. La frequenza e' obbligatoria. Non sono consentite abbreviazioni di corso se non nei casi previsti dallo art. 367; ne' e' consentita la contemporanea iscrizione a piu' indirizzi distinti, il numero massimo degli iscritti e' di venticinque per ogni anno di corso.   
+Art. 357. - La scuola conferisce il diploma di "Specialista in psicologia" con l'indicazione dell'indirizzo seguito.   
+Il diploma, valido a tutti gli effetti di legge, viene rilasciato all'allievo in rapporto all'indirizzo prescelto, seguito e concluso positivamente negli esami di profitto e di diploma.   
+Art. 358. - Titolo per l'ammissione alla scuola e' il diploma di laurea rilasciato da qualsiasi facolta' di una universita' italiana di Stato o ad essa parificata, ovvero un titolo straniero equipollente.   
+Art. 359. - Nella domanda di ammissione alla scuola deve essere specificato l'indirizzo che si desidera seguire.   
+Nel caso di domande di iscrizione eccedenti il numero massimo stabilito dal consiglio della scuola e indicato nell'art. 356 (in ogni caso non superiore a venticinque), il consiglio stesso procedera' all'accettazione delle domande attraverso un concorso di merito, le cui modalita' verranno fissate nello stesso manifesto annuale. Indipendentemente dalla limitazione delle iscrizioni, il consiglio della scuola puo' subordinare la ammissione ad una prova di idoneita'.   
+Art. 360. - Il corso e' costituito da lezioni teoriche, esercitazioni pratiche, tirocini, seminari, conferenze. L'attivita' didattica viene svolta per un numero di ore non inferiore alle venti settimanali, per tutta la durata dell'anno accademico.   
+Gli insegnamenti statutari sono suddivisi in tre gruppi:   
+a) insegnamenti comuni a tutti gli indirizzi sopra indicati; tali insegnamenti sono obbligatori per tutti gli allievi, qualunque sia l'indirizzo prescelto;   
+b) insegnamenti specifici, peculiari a ciascuno dei singoli indirizzi indicati nell'art. 355 e nel successivo art. 361; tali insegnamenti sono obbligatori nell'ambito dell'indirizzo prescelto;   
+c) insegnamenti integrativi.   
+Gli insegnamenti di cui ai punti a) e b) sono fissati nello statuto, il quale stabilisce altresi' la distribuzione degli insegnamenti stessi nei vari anni.   
+Gli insegnamenti di cui al punto c) vengono stabiliti anno per anno dal consiglio della scuola e pubblicati nel manifesto programma annuale, insieme all'elenco degli insegnamenti di cui ai punti a) e b).   
+Art. 361. - Gli insegnamenti comuni di cui al punto a) dell'articolo precedente sono:   
+1) Metodologia generale e speciale della ricerca psicologica (triennale: 1°, 2° e 3° anno);   
+2) Metodologia statistica generale e psicometria (annuale: 1°);   
+3) Psicologia generale (triennale: 1°, 2° e 3° anno);   
+4) Teorie della personalita' (biennale: 1° e 2° anno);   
+5) Psicologia dinamica (annuale: 2° anno);   
+6) Psicologia differenziale (annuale: 1° anno);   
+7) Psicologia sociale (biennale: 1° e 2° anno);   
+8) Tecniche psicodiagnostiche (biennale: 1° e 2° anno).   
+Gli insegnamenti specifici di cui al punto b) dello art. 360, sono:   
   
-b) Radiodiagnostica (triennale) comprendente:   
-1) principi generali di radiodiagnostica;   
-2) apparecchi, strumenti e tecnica radiodiagnostica;   
-3) tecnica e fisiologia applicate alla radiodiagnostica;   
-4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;   
-5) semeiotica radiologica;   
-6) diagnostica differenziale radiologica;   
-7) dimostrazioni autopiche di pazienti sottoposti ad esami radiologici;   
-8) dimostrazioni di casistica clinica.   
+A) Per l'indirizzo "differenziale e scolastico":   
+1) Fondamenti di biologia generale e di anatomia e fisiologia umana (biennale: 1° e 2° anno);   
+2) Psicologia dell'eta' evolutiva (triennale: 1°, 2° e 3° anno);   
+3) Pedagogia (annuale: 1° anno);   
+4) Istituzioni di psicopatologia e di igiene mentale (annuale: 1° anno);   
+5) Psicologia pedagogica (annuale: 1° anno);   
+6) Psicologia del disadattamento scolastico e professionale nell'eta' evolutiva (annuale: 2° anno);   
+7) Decimologia e tecniche della valutazione scolastica (annuale: 2° anno);   
+8) Tecniche psicodiagnostiche individuali e di gruppo (biennale: 2° e 3° anno);   
+9) Orientamento scolastico e professionale (annuale: 3° anno).   
   
-c) Radiobiologia (annuale) comprendente:   
-1) radiobiologia generale;   
-2) danni da radiazioni e radiopatie.   
+B) Per l'indirizzo "sociale":   
+1) Antropologia culturale (annuale: 1° anno);   
+2) Sociologia (annuale: 1° anno);   
+3) Psicologia della comunicazione (biennale: 1° e 2° anno);   
+4) Tecniche quantitative dell'indagine psico-sociale (annuale: 2° anno);   
+5) Ricerca motivazionale (annuale: 2° anno);   
+6) Psicologia sociale, corso avanzato (annuale: 3° anno);   
+7) Dinamiche di gruppo (annuale: 3° anno);   
+8) Tecniche di studio dell'opinione pubblica (annuale: 3°anno);   
+9) Patologia e controllo sociale (annuale: 3° anno).   
   
-d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:   
-1) legislazione sanitaria applicata alla radiologia;   
-2) compiti e responsabilita' medico-legali del radiologo;   
-3) radioprotezione fisica e dosimetria ad essa connessa;   
-4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;   
-5) radioprotezione chimica;   
-6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.   
-  
-e) Radioterapia e terapia fisica (triennale) comprendente:   
-1) radiobiologia applicata;   
-2) fondamenti generali di radioterapia e terapia fisica;   
-3) istopatologia speciale dei tumori;   
-4) nozioni sugli apparecchi e strumenti per la radioterapia;   
-5) tecnica e metodica radioterapica;   
-6) dosimetria;   
-7) clinica radioterapica;   
-8) fondamenti generali di chemioterapia oncologica;   
-9) chemioterapia clinica dei tumori e sua associazione alla radioterapia;   
-10) dimostrazione di casistica clinica.   
-  
-f) Medicina nucleare (biennale) comprendente:   
-1) elementi di medicina nucleare;   
-2) istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare;   
-3) dosimetria dei radioisotopi somministrati per via interna;   
-4) diagnostica con radioisotopi somministrati per via interna;   
-5) radioterapia metabolica;   
-6) dimostrazioni di casistica clinica.   
-  
-I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche, e ove opportuno e possibile, da visite ad istituzioni di particolare interesse sono cosi' distribuiti nei quattro anni di corso:   
-  
-1° Anno (tronco comune):   
-matematica, fisica, nozioni di statistica ed informatica;   
-radiobiologia, protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;   
-radiodiagnostica (I).   
-  
-2° Anno:   
-radiodiagnostica (II);   
-radioterapia e terapia fisica (I).   
-  
-3° Anno:   
-radiodiagnostica (III);   
-radioterapia e terapia fisica (II);   
-medicina nucleare (I).   
-  
-4° Anno:   
-radioterapia e terapia fisica (III);   
-medicina nucleare (II).   
-  
-La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni. Gli insegnamenti sono i seguenti:   
-  
-a) Matematica, fisica, nozioni di statistica e informatica (annuale) comprendente:   
-1) richiami di matematica e fisica generale;   
-2) costituzione della materia;   
-3) produzione, assorbimento e misura delle radiazioni;   
-4) statistica applicata alla medicina;   
-5) informatica e cibernetica applicata alla radiologia.   
-  
-b) Radiodiagnostica (triennale) comprendente:   
-1) principi generali di radiodiagnostica;   
-2) apparecchi, strumenti e tecnica radiodiagnostica;   
-3) tecnica e fisiologia applicate alla radiodiagnostica;   
-4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;   
-5) semeiotica radiologica;   
-6) diagnostica differenziale radiologica;   
-7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;   
-8) dimostrazioni di casistica clinica.   
-  
-c) Radiobiologia (annuale) comprendente:   
-1) radiobiologia generale;   
-2) danni da radiazioni e radiopatie.   
-  
-d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:   
-1) legislazione sanitaria applicata alla radiologia;   
-2) compiti e responsabilita' medico-legali del radiologo;   
-3) radioprotezione fisica e dosimetria ad essa connessa;   
-4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;   
-5) radioprotezione chimica;   
-6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.   
-  
-I singoli insegnamenti, tenuti da uno o piu' docenti a secondo di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:   
-  
-1° Anno (tronco comune):   
-matematica, fisica, nozioni di statistica ed informatica;   
-radiobiologia;   
-protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;   
-radiodiagnostica (I).   
-  
-2° Anno:   
-radiodiagnostica (II).   
-  
-3° Anno:   
-radiodiagnostica (III).   
-  
-Per essere ammessi agli esami di diploma in radiologia e radiologia diagnostica gli iscritti, oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia di insegnamento ed elaborata una tesi scritta su di un argomento radiologico concordato con il direttore della scuola.   
-Gli articoli 515, 516, 517, 518, relativi alla scuola di specializzazione in medicina dello sport della prima facolta' di medicina e chirurgia, sono abrogati e sostituiti dai seguenti:   
-  
-Scuola di specializzazione in medicina dello sport   
-  
-Art. 515. - La scuola di specializzazione in medicina dello sport dell'Universita' degli studi di Napoli si propone:   
-a) di valorizzare e approfondire gli studi biologici e di medicina applicata nel campo delle attivita' sportive, formative e di competizione, e dell'educazione fisica;   
-b) di preparare adeguatamente sotto l'aspetto teorico e dell'applicazione pratica, i medici che intendono dedicarsi alle attivita' attinenti a questa particolare branca della medicina applicata, conferendo ad essi il diploma di specialista in medicina dello sport.   
-Art. 516. - Il titolo richiesto per l'ammissione alla scuola e' la laurea in medicina e chirurgia.   
-Il corso di studi ha la durata di 3 anni, con frequenza obbligatoria; esso ha sede presso l'istituto di anatomia umana normale della la facolta' di medicina e chirurgia. Gli insegnamenti clinici e specialistici si svolgeranno presso i relativi istituti clinici e specialistici.   
-Il numero massimo degli allievi sara' di 40 per anno e complessivamente di 120 per l'intero corso.   
-L'ammissione ai corsi avviene per titoli. Nel caso di domande eccedenti il numero dei posti disponibili la selezione dei candidati avverra' in base ai risultati di un esame di ammissione.   
-Non sono previste abbreviazioni di corso.   
-Il direttore della scuola di specializzazione sara' uno dei professori universitari di ruolo delle materie di insegnamento incluse nello statuto della scuola e designato dalla facolta'.   
-Art. 517. - L'ordine degli studi e' il seguente:   
-  
-1° Anno:   
-1) anatomia dell'apparato locomotore;   
-2) fisiologia dell'apparato locomotore;   
-3) biochimica ed energetica muscolare;   
-4) antropometria e auxologia;   
-5) psicologia applicata allo sport;   
-6) storia dell'educazione fisica e dello sport;   
-7) sistematica delle attivita' sportivo-agonistiche e regolamenti sportivi.   
-  
-2° Anno:   
-1) fisiologia dell'esercizio fisico;   
-2) biomeccanica dell'esercizio fisico;   
-3) metodologia dell'allenamento sportivo;   
-4) scienza della nutrizione applicata all'attivita' sportiva;   
-5) fisiopatologia degli sports e semeiotica medicosportiva I;   
-6) farmacologia e tossicologia del doping;   
-7) igiene e medicina preventiva applicata all'attivita' sportiva;   
-8) traumatologia degli sports.   
-  
-3° Anno:   
-1) fisiologia applicata agli sport;   
-2) valutazione funzionale dello sportivo;   
-3) fisiopatologia degli sport e semeiotica medicosportiva II;   
-4) fisioterapia e rieducazione funzionale;   
-5) rianimazione e pronto soccorso;   
-6) medicina legale ed infortunistica legati agli sport;   
-7) fisiologia degli adattamenti agli ambienti straordinari.   
-  
-La scuola svolgera' brevi corsi integrativi di conferenze o seminari sopra argomenti e discipline che saranno stabiliti, secondo le possibilita' contingenti, dal consiglio dei docenti della scuola.  
-Saranno inoltre svolte esercitazioni pratiche in sede e sul campo.   
-Art. 518. - Alla fine di ogni anno di corso gli allievi dovranno sostenere un esame di profitto nelle materie d'insegnamento (art.  
-517) previste per ogni anno di corso ed articolate in un unico gruppo.   
-L'iscrizione agli anni successivi e' subordinata al superamento di tutti gli esami annuali.   
-Il diploma si consegue dopo aver superato tutte le prove di esame del triennio; la prova di diploma si svolge con la discussione su una dissertazione scritta concernente un tema assegnato o in ogni altro caso approvato dal direttore della scuola.   
-L'art. 558, relativo alla scuola di specializzazione in psichiatria della prima facolta' di medicina e chirurgia, e' modificato nel senso che il quarto e quinto comma sono abrogati e sostituiti dal seguente:   
-"Il numero degli iscritti non potra' superare quello massimo di dodici per i complessivi quattro anni di corso. Non sono previste abbreviazioni di corso".   
-L'art. 600, relativo alla scuola di specializzazione in chirurgia della seconda facolta' di medicina e chirurgia che muta la denominazione in scuola di specializzazione in chirurgia generale, e' modificato nel senso che il primo e il secondo comma sono abrogati e sostituiti dai seguenti:   
-Art. 600. - Alla seconda facolta' di medicina e chirurgia dell'Universita' degli studi di Napoli e' annessa la scuola di specializzazione in chirurgia generale, con sede presso la cattedra di clinica chirurgica generale e terapia chirurgica ed e' diretta dal titolare della cattedra medesima.   
-La scuola conferisce il diploma di specialista in chirurgia generale. La durata della scuola e' di cinque anni.   
-L'art. 653, relativo alla scuola di specializzazione in psichiatria della seconda facolta' di medicina e chirurgia, e' abrogato e sostituito dal seguente:   
-Art. 653. - Alla seconda facolta' di medicina e chirurgia dell'Universita' degli studi di Napoli e' annessa la scuola di specializzazione in psichiatria, con sede presso la cattedra di clinica psichiatrica, ed e' diretta da un professore ufficiale designato dal consiglio di facolta'. La durata della scuola e' di 4 anni. Il numero degli allievi da ammettere non puo' essere superiore a sei per ogni anno (totale ventiquattro iscritti). L'ammissione alla scuola avviene per concorso per titoli ed esami. Non sono previste abbreviazioni di corso.   
-Gli articoli 664, 665, 666, 667, relativi alla scuola di specializzazione in medicina dello sport della seconda facolta' di medicina e chirurgia, sono abrogati e sostituiti dai seguenti:   
-  
-Scuola di specializzazione in medicina dello sport   
-  
-Art. 664. - La scuola di specializzazione in medicina dello sport dell'Universita' degli studi di Napoli, seconda facolta' di medicina e chirurgia, si propone:   
-a) di valorizzare e approfondire gli studi biologici e di medicina applicata nel campo delle attivita' sportive, formative e di competizione, e della educazione fisica;   
-b) di preparare adeguatamente sotto l'aspetto teorico e della applicazione pratica i medici che intendono dedicarsi alle attivita' attinenti a questa particolare branca della medicina applicata, conferendo ad essi il diploma di specialista in medicina dello sport.   
-Art. 665. - Il titolo richiesto per l'ammissione alla scuola e' la laurea in medicina e chirurgia.   
-Il corso di studi ha la durata di 3 anni, con frequenza obbligatoria; esso ha la sua sede ufficiale presso l'istituto di anatomia umana normale. Gli insegnamenti clinici e specialistici si svolgeranno presso i relativi istituti clinici specialistici.   
-Il numero massimo degli allievi sara' di 15 per anno, complessivamente di 45 per l'intero corso.   
-L'ammissione ai corsi avviene per titoli. Nel caso di domande eccedenti il numero dei posti disponibili la selezione dei candidati avverra' in base ai risultati di un esame di ammissione.   
-Non sono previste abbreviazioni di corso.   
-La direzione della scuola e' affidata ad uno dei professori universitari di ruolo designato dalla facolta' nelle materie di insegnamento inclusa nello statuto della scuola stessa. E' obbligatoria la frequenza.   
-Art. 666. - L'ordine degli studi e' il seguente:   
-  
-1° Anno:   
-1) anatomia dell'apparato locomotore;   
-2) fisiologia dell'apparato locomotore;   
-3) biochimica ed energetica muscolare;   
-4) antropometria e auxologia;   
-5) psicologia applicata allo sport;   
-6) storia dell'educazione fisica e dello sport;   
-7) sistematica delle attivita' sportivo-agonistiche e regolamenti sportivi.   
-  
-2° Anno:   
-1) fisiologia dell'esercizio fisico;   
-2) biomeccanica dell'esercizio fisico;   
-3) metodologia dell'allenamento sportivo;   
-4) scienza della nutrizione applicata all'attivita' sportiva;   
-5) fisiopatologia degli sport e semeiotica medico sportiva I;   
-6) farmacologia e tossicologia del doping;   
-7) igiene e medicina preventiva applicata all'attivita' sportiva;   
-8) traumatologia degli sport.   
-  
-3° Anno:   
-1) fisiologia applicata agli sport;   
-2) valutazione funzionale dello sportivo;   
-3) fisiopatologia degli sport e semeiotica medico sportiva II;   
-4) fisioterapia e rieducazione funzionale;   
-5) rianimazione e pronto soccorso;   
-6) medicina legale ed infortunistica legata agli sport;   
-7) fisiologia dell'adattamento agli ambienti straordinari.   
-  
-La scuola svolgera' corsi integrativi di conferenze o seminari sopra argomenti e discipline che saranno stabiliti, secondo le possibilita' contingenti, dal consiglio dei docenti della scuola.  
-Saranno inoltre svolte esercitazioni pratiche in sede e sul campo.   
-Art. 667. - Alla fine di ogni anno gli allievi dovranno sostenere l'esame di profitto nelle materie di insegnamento (art. 666) previste per ogni anno di corso e articolate in un unico gruppo.   
-L'iscrizione agli anni successivi e' subordinata al superamento di tutti gli esami annuali. Il diploma si consegue dopo aver superato tutte le prove di esame del triennio; la prova di diploma si svolge con la discussione su una dissertazione scritta concernente un tema assegnato o in ogni altro caso approvato dal direttore della scuola.   
-La scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale della seconda facolta' di medicina e chirurgia di cui agli articoli 683, 684, 685 muta la denominazione in quella di scuola di specializzazione in otorinolaringoiatria.   
-Dopo l'art. 766, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in odontostomatologia.   
-  
-Scuola di specializzazione in odontostomatologia   
-  
-Art. 767. - Alla seconda facolta' di medicina e chirurgia dell'Universita' degli studi di Napoli e' annessa la scuola di specializzazione in odontostomatologia con sede presso la cattedra di clinica odontoiatrica e stomatologica.   
-La scuola della durata di tre anni conferisce il diploma di specialista in odontostomatologia.   
-Il numero degli allievi da ammettere a) 1° anno non puo' essere superiore a 10 (totale di 30 iscritti). La selezione dei candidati aspiranti alla ammissione alla scuola avverra' in base dei titoli e dei risultati di una prova scritta di esame.   
-Art. 768. - Le materie di insegnamento, tutte obbligatorie, sono le seguenti:   
-  
-embriologia ed anatomia dentaria e maxillo facciale;   
-microbiologia e igiene orale;   
-farmacologia odontostomatologica;   
-patologia odontostomatologica;   
-odontotecnica;   
-anestesia e chirurgia stomatologica;   
-odontoiatria conservativa (biennale);   
-clinica protesica dentaria e maxillo facciale (biennale);   
-parodontologia (biennale);   
-anatomia ed istologia odontostomatologica;   
-odontoiatria infantile;   
-radiobiologia odontostomatologica;   
-ortopedia dento-maxillo-facciale (biennale);   
-chirurgia maxillo-facciale (biennale);   
-clinica odontostomatologica;   
-medicina legale odontostomatologica e delle assicurazioni.   
-  
-Le materie di insegnamento sopra elencate sono cosi' distribuite:   
-1° Anno:   
-embriologia ed anatomia dentaria e maxillo-facciale;   
-microbiologia e igiene orale;   
-farmacologia odontostomatologica;   
-patologia odontostomatologica;   
-odontotecnica;   
-anestesia e chirurgia stomatologica;   
-odontoiatria conservativa I.   
-  
-2° Anno:   
-odontoiatria conservativa II;   
-clinica protesica dentaria e maxillo-facciale I;   
-parodontologia I;   
-anatomia e istopatologia odontostomatologica;   
-odontoiatria infantile;   
-radiologia odontostomatologica;   
-ortopedia dento-maxillo-facciale I;   
-chirurgia maxillo-facciale I.   
-  
-3° Anno:   
-clinica odontostomatologica;   
-chirurgia maxillo-facciale II;   
-medicina legale odontostomatologica e delle assicurazioni;   
-ortopedia dento-maxillo-facciale II;   
-clinica protesica dentaria e maxillo-facciale II;   
-parodontologia II.   
-  
-Gli insegnamenti devono essere integrati da esercitazioni pratiche.  
-Art. 769. - La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.   
-L'internato e' obbligatorio durante tutti i tre anni del corso e si svolgera' presso la clinica odontoiatrica e stomatologica sotto forma di permanenza costante durante le ore di attivita' con frequenza giornaliera negli ambulatori e nei reparti di degenza. Dall'obbligo di tale internato sono esentati quegli allievi che, in qualita' di aiuti o assistenti, prestino documentato servizio presso reparti di odontostomatologia, delle universita' o di ospedali di 1ª e 2ª categoria.   
-Gli allievi hanno attribuzioni e doveri analoghi a quelli degli assistenti.   
-Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico della operosita' scolastica degli allievi con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.   
-L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali. Questi ultimi saranno sostenuti alla fine di ogni anno di corso in una sessione unica (ottobre).   
-Alla fine del terzo anno, dopo aver superato gli esami di profitto, gli allievi saranno ammessi a sostenere l'esame di diploma che consiste nella discussione orale di una dissertazione scritta su un tema proposto in precedenza dall'insegnante della materia sulla quale verte l'argomento ed approvato preventivamente dal direttore della scuola.   
+C) Per l'indirizzo "industriale e del lavoro";   
+1) Fondamenti di biologia generale e di anatomia e fisiologia umana (biennale: 1° e 2° anno);   
+2) Istituzioni di psicopatologia e di igiene mentale (annuale: 1°);   
+3) Psicologia del lavoro (annuale: 1° anno);   
+4) Metodologia statistica e psicometria (corso avanzato, annuale: 2°);   
+5) Ergonomia (annuale: 1° anno);   
+6) Analisi e valutazione delle mansioni e profili professionali (annuale: 2° anno);   
+7) Psicologia del disadattamento lavorativo (annuale: 3° anno).   
+Gli insegnamenti "integrativi" (annuali) di cui al punto c) dell'art. 360, vanno scelti nell'ambito dello elenco che segue:   
+Storia della psicologia;   
+Filosofia della scienza;   
+Cibernetica;   
+Psicologia zoologica;   
+Psicolinguistica;   
+Organizzazione sanitaria;   
+Organizzazione scolastica;   
+Auxologia;   
+Neuropsichiatria infantile;   
+Pedagogia speciale e differenziale;   
+Igiene generale;   
+Medicina del lavoro;   
+Legislazione sanitaria;   
+Legislazione scolastica;   
+Legislazione del lavoro;   
+Deontologia professionale;   
+Sessuologia;   
+Psicogerontologia;   
+Statistica economica;   
+Psicologia della propaganda;   
+Psicologia dello sport;   
+Psicologia e pedagogia della comunicazione di massa;   
+Filmologia;   
+Istruzione programmata;   
+Psicologia della didattica e dell'apprendimento scolastico;   
+Infortunistica del lavoro;   
+Psicologia economica;   
+Storia delle idee;   
+Sociologia rurale.   
+Gli insegnamenti specifici di ciascuno dei quattro indirizzi, possono valere come integrativi per gli altri indirizzi che non li comprendano, sempre naturalmente nel caso che il funzionamento degli indirizzi stessi sia previsto dal manifesto-programma annuale.   
+Il manifesto-programma annuale indichera' quali indirizzi verranno realizzati e quali insegnamenti integrativi verranno impartiti dalla scuola, durante l'anno accademico.   
+L'eventuale scissione degli insegnamenti in piu' rami distinti, ai fini sia dell'insegnamento che degli esami di profitto, ovvero l'eventuale loro raggruppamento ai fini degli esami, risulteranno dal manifesto-programma annuale.   
+Art. 362. - Gli esami sono di profitto e di diploma.   
+Per essere ammesso agli esami annuali di profitto l'allievo deve aver frequentato assiduamente le lezioni, le esercitazioni, i tirocini, i seminari, ecc. svolti dalla scuola nel relativo anno di corso.   
+Per essere ammesso all'esame di diploma, l'allievo, oltre ad avere adempiuto a tutti gli obblighi di frequenza ed esame dei vari insegnamenti comuni e specifici, di almeno due degli insegnamenti integrativi, ed avere effettuato le esercitazioni prescritte, deve presentare una dissertazione scritta nonche' una relazione riassuntiva sulle esercitazioni e su eventuali tirocini effettuati nell'intero triennio.   
+L'esame di diploma consiste nella discussione della tesi e della relazione e, eventualmente, di una o piu' prove pratiche stabilite dal consiglio della scuola.   
+Art. 363. - Direttore della scuola e' il professore di ruolo di psicologia della facolta' di lettere e filosofia.   
+Il direttore della scuola, su conforme parere del consiglio della scuola stessa, puo' proporre che un docente di essa assuma le funzioni di vice direttore, con l'incarico annuale (riconfermabile) di coadiuvarlo e di sostituirlo; alla relativa nomina provvede il rettore.   
+Art. 364. - I docenti della scuola sono scelti tra i professori universitari di psicologia (di ruolo, fuori ruolo, aggregati, incaricati, liberi docenti), tra gli specialisti in psicologia e fra coloro che, per opere, uffici ed insegnamenti tenuti siano di riconosciuta competenza ed esperienza nelle discipline che formano oggetto dei corsi della scuola.   
+Alla nomina dei docenti provvede il rettore, su proposta presentata annualmente dal direttore della scuola e su parere conforme del consiglio della scuola stessa e della facolta'.   
+Art. 365. - Per i problemi riguardanti l'organizzazione didattica, il direttore e' assistito da un consiglio della scuola, composto: dal direttore stesso che lo presiede, dal vice direttore (se designato), che presiede le adunanze del consiglio in caso di assenza o impedimento del direttore; e dai docenti della scuola;   
+Su proposta del direttore e sentito il parere del consiglio, uno dei docenti assolve anche le funzioni di segretario delle adunanze del consiglio stesso: alla relativa nomina provvede il rettore.   
+Art. 366. - Le tasse, sopratasse e contributi annuali richiesti per l'iscrizione ai corsi corrispondono a quelli stabiliti per la facolta' di lettere e filosofia, piu' un contributo speciale, la cui entita' verra' fissata, anno per anno, dal consiglio di amministrazione su proposta del direttore della scuola, previa approvazione del consiglio di facolta' di lettere e filosofia. La tassa di diploma e' fissata nella misura di L. 6000 ai sensi dello [art. 7 della legge 8 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-08;1551~art7).   
+Art. 367. - E' prevista a domanda dell'interessato e non oltre il termine del secondo anno di corso, la possibilita' di passaggio da un indirizzo ad un altro.   
+L'accoglimento della relativa domanda ha luogo a giudizio insindacabile del consiglio della scuola e con piano di studio da stabilire caso per caso. Coloro che hanno compiuto l'intero triennio possono essere ammessi ad altro indirizzo con possibilita' di abbreviazione dei corsi per convalida di esami gia' sostenuti, secondo quanto sara' stabilito caso per caso dal consiglio della scuola.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 giugno 1977
+### Dato a Roma, addi' 12 maggio 1970
 
-LEONE MALFATTI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 25 ottobre 1977
+Registrato alla Corte dei conti, addi' 10 luglio 1970
 
-Registro n. 120 Istruzione, foglio n. 378
+Atti del Governo, registro n. 236, foglio n. 145. - CARUSO

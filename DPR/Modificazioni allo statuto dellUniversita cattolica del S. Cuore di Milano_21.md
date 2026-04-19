@@ -1,425 +1,70 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1969 n. 956
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1973 n. 1110
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1969 n. 956
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1973 n. 1110
+===============================================================
 
-Modificazioni allo statuto dell'Universita' cattolica del "S. Cuore" di Milano.
--------------------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' cattolica del "S. Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-dopo l'articolo 108 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Clinica dermosifilopatica", "Medicina nucleare", "Ortopedia e traumatologia", "Clinica pediatrica".
-
-Scuola di specializzazione in clinica dermosifilopatica
-
-Art. 109. - La scuola di specializzazione in clinica dermosifilopatica ha la durata di 3 anni. Alla scuola possono iscriversi, previo esame di ammissione, i laureati in medicina e chirurgia in numero totale di diciotto per i tre anni di corso.
-
-Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-1) Anatomia ed istologia della cute;
-
-2) Fisiologia della cute e degli annessi cutanei;
-
-3) Anatomia e fisiologia dell'apparato genitale;
-
-4) Microbiologia e parassitologia applicate;
-
-5) Tecnica di laboratorio con particolare riferimento alla sierologia applicata;
-
-6) Semeiotica dermatologica e venereologica.
-
-2° Anno:
-
-1) Patologia delle malattie cutanee;
-
-2) Patologia delle infezioni sessuali;
-
-3) Anatomia ed istologia patologica della cute;
-
-4) Anatomia patologica delle malattie veneree e sessuali;
-
-5) Angiologia;
-
-6) Sessuologia.
-
-3° Anno:
-
-1) Clinica delle malattie cutanee;
-
-2) Clinica delle infezioni sessuali;
-
-3) Farmacologia e terapia medicamentosa;
-
-4) Fisioterapia dermatologica;
-
-5) Cosmetologia;
-
-6) Chirurgia plastica riparatrice;
-
-7) Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.
-
-Gli esami di profitto degli specializzandi verranno espletati in tre gruppi e in tre sessioni distinte, ogni gruppo comprendente le materie proprie di ciascun anno di studio.
-
-L'esame di diploma consistera' nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato 24 ore prima della prova.
-
-Scuola di specializzazione in medicina nucleare
-
-Art. 110. - La scuola di specializzazione in medicina nucleare ha la durata di tre anni.
-
-Alla scuola possono iscriversi, previo esame di ammissione, i laureati in medicina e chirurgia, in numero totale di diciotto per i tre anni di corso.
-
-Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-1) Fondamenti di matematica e statistica;
-
-2) Fisica nucleare e delle radiazioni;
-
-3) Tecniche per le misure di radioattivita';
-
-4) Dosimetria.
-
-2° Anno:
-
-1) Teoria dei traccianti;
-
-2) Elementi di radiochimica;
-
-3) Applicazioni diagnostiche I;
-
-4) Elementi di radiobiologia.
-
-3° Anno:
-
-1) Applicazioni diagnostiche II;
-
-2) Applicazioni terapeutiche;
-
-3) Radioprotezione e legislazione.
-
-Scuola di specializzazione in ortopedia e traumatologia
-
-Art. 111. - La scuola di specializzazione in ortopedia e traumatologia ha la durata di tre anni. Alla scuola possono iscriversi, previo esame di ammissione, i laureati in medicina e chirurgia in numero totale di ventotto per i tre anni di corso.
-
-Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-1) Clinica ortopedica e traumatologica (triennale);
-
-2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);
-
-3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);
-
-4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);
-
-5) Anatomia e istologia dell'apparato locomotore;
-
-6) Fisiologia dell'apparato locomotore;
-
-7) Nozioni di chirurgia generale;
-
-8) Nozioni di pediatria.
-
-2° Anno:
-
-1) Clinica ortopedica e traumatologica (triennale);
-
-2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);
-
-3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);
-
-4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);
-
-5) Neuropatologia dell'apparato locomotore ed elettrodiagnostica;
-
-6) Anatomia ed istologia patologica dell'apparato locomotore;
-
-7) Anestesia e rianimazione.
-
-3° Anno:
-
-1) Clinica ortopedica e traumatologica (triennale);
-
-2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);
-
-3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);
-
-4) Apparato - terapia ortopedica;
-
-5) Fisiochinesiterapia;
-
-6) Infortunistica.
-
-Gli esami si svolgeranno per singole materie. Gli esami di clinica ortopedica e traumatologica, di tecnica operatoria cruenta ed incruenta ortopedica e traumatologica, di radiodiagnostica, saranno teorici e pratici. Per l'ammissione al corso successivo e' obbligatorio il superamento degli esami delle materie di ciascun corso.
-
-Per l'ammissione all'esame di diploma il candidato dovra' presentare una tesi a stampa o dattiloscritta su un argomento della specialita'.
-
-Scuola di specializzazione in clinica pediatrica
-
-Art. 112. - La scuola ha la durata di tre anni.
-
-Ad essa possono iscriversi previa valutazione dei titoli di studio e di carriera e previo superamento di un esame di ammissione i laureati in medicina e chirurgia in numero totale di diciotto per i tre anni di corso.
-
-Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-1) Clinica pediatrica (1°);
-
-2) Patologia pediatrica (1°);
-
-3) Puericultura (1°);
-
-4) Semeiotica pediatrica e tecnica diagnostica (1°);
-
-5) Auxologia normale e patologica;
-
-6) Psicologia dell'eta' evolutiva.
-
-2° Anno:
-
-1) Clinica pediatrica (2°);
-
-2) Patologia pediatrica (2°);
-
-3) Puericultura (2°);
-
-4) Semeiotica pediatrica e tecnica diagnostica (2°);
-
-5) Terapia pediatrica;
-
-6) Radiologia pediatrica;
-
-7) Malattie infettive dell'infanzia.
-
-3° Anno:
-
-1) Clinica pediatrica (3°);
-
-2) Neuropsichiatria e igiene mentale dell'infanzia.
-
-Le materie fondamentali potranno essere integrate a giudizio della direzione della scuola con insegnamenti scelti tra i seguenti:
-
-1) Chirurgia pediatrica;
-
-2) Ortopedia e traumatologia infantile;
-
-3) Odontoiatria;
-
-4) Clinica dermosifilopatica;
-
-5) Clinica oculistica;
-
-6) Clinica otorinolaringoiatrica;
-
-7) Cardiologia;
-
-8) Genetica,
-
-ed altre eventuali che la direzione della scuola puo' stabilire di anno in anno.
-
-Il direttore della scuola puo' disporre che si tengano un certo numero di conferenze e seminari su argomenti di interesse pediatrico.
-
-Il funzionamento della scuola si esplica mediante le attrezzature cliniche e scientifiche dell'istituto di clinica pediatrica presso il quale e' obbligatorio un periodo di internato di almeno dieci mesi per ogni anno di corso.
-
-Eventuali abbreviazioni di corso saranno decise dietro richieste dell'interessato dal consiglio della scuola.
-
-L'insegnamento avra' carattere prevalentemente pratico-dimostrativo.
-
-Alla fine di ogni anno di corso gli allievi dovranno sostenere prove teoriche e pratiche sulle materie di insegnamento.
-
-L'esame di diploma vertera' sulla discussione di tesi scritta compilata o sperimentale su argomento di pediatria concordato con la direzione della scuola.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 30 ottobre 1969
-
-SARAGAT
-
-FERRARI AGGRADI
-
-Visto, il Guardasigilli: GAVA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 17 dicembre 1969 Atti del Governo, registro n. 230, foglio n. 150. - CARUSO
+Modificazioni allo statuto dell'Universita' cattolica del S. Cuore di Milano.
+-----------------------------------------------------------------------------
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' cattolica del S. Cuore di Milano, approvato con [regio decreto 2 ottobre 1924, n. 1661](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-02;1661) e modificato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' cattolica del "S. Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-dopo l'articolo 108 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Clinica dermosifilopatica", "Medicina nucleare", "Ortopedia e traumatologia", "Clinica pediatrica".   
+Lo statuto dell'Universita' cattolica del S. Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 23 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia vengono aggiunti gli insegnamenti di:  
   
-Scuola di specializzazione in clinica dermosifilopatica   
+Virologia;  
+Medicina sportiva.  
+L'art. 96 e' modificato nel senso che la scuola di perfezionamento in filologia e antichita' classiche e papirologia, annessa alla facolta' di lettere e filosofia, muta denominazione in "Scuola di perfezionamento in filologia, antichita' classiche, papirologia e storia antica". Nello stesso articolo il primo comma viene abrogato e sostituito dal seguente:  
+"La scuola di perfezionamento in filologia, antichita' classiche, papirologia, storia antica, rilascia tre diplomi:  
+a) diploma di perfezionamento in filologia e antichita' classiche;  
+b) diploma di perfezionamento in papirologia;  
+c) diploma di perfezionamento in storia antica".  
   
-Art. 109. - La scuola di specializzazione in clinica dermosifilopatica ha la durata di 3 anni. Alla scuola possono iscriversi, previo esame di ammissione, i laureati in medicina e chirurgia in numero totale di diciotto per i tre anni di corso.   
-Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) Anatomia ed istologia della cute;   
-2) Fisiologia della cute e degli annessi cutanei;   
-3) Anatomia e fisiologia dell'apparato genitale;   
-4) Microbiologia e parassitologia applicate;   
-5) Tecnica di laboratorio con particolare riferimento alla sierologia applicata;   
-6) Semeiotica dermatologica e venereologica.   
-2° Anno:   
-1) Patologia delle malattie cutanee;   
-2) Patologia delle infezioni sessuali;   
-3) Anatomia ed istologia patologica della cute;   
-4) Anatomia patologica delle malattie veneree e sessuali;   
-5) Angiologia;   
-6) Sessuologia.   
-3° Anno:   
-1) Clinica delle malattie cutanee;   
-2) Clinica delle infezioni sessuali;   
-3) Farmacologia e terapia medicamentosa;   
-4) Fisioterapia dermatologica;   
-5) Cosmetologia;   
-6) Chirurgia plastica riparatrice;   
-7) Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.   
-Gli esami di profitto degli specializzandi verranno espletati in tre gruppi e in tre sessioni distinte, ogni gruppo comprendente le materie proprie di ciascun anno di studio.   
-L'esame di diploma consistera' nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato 24 ore prima della prova.   
+Dopo l'elenco degli insegnamenti impartiti per il conseguimento del diploma in papirologia e' aggiunto il seguente comma:  
   
-Scuola di specializzazione in medicina nucleare   
+"Le materie costitutive per conseguire il diploma di perfezionamento in storia antica sono:  
+Storia greca;  
+Storia romana;  
+Antichita' greca e romana;  
+Filologia greca e latina;  
+Papirologia;  
+Numismatica;  
+Storia della religione;  
+Storia delle origini cristiane;  
+Archeologia e storia dell'arte greca e romana;  
+Storia della filosofia antica;  
+Epigrafia greca e latina;  
+Topografia dell'Italia antica;  
+Etruscologia".  
   
-Art. 110. - La scuola di specializzazione in medicina nucleare ha la durata di tre anni.   
-Alla scuola possono iscriversi, previo esame di ammissione, i laureati in medicina e chirurgia, in numero totale di diciotto per i tre anni di corso.   
-Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) Fondamenti di matematica e statistica;   
-2) Fisica nucleare e delle radiazioni;   
-3) Tecniche per le misure di radioattivita';   
-4) Dosimetria.   
-2° Anno:   
-1) Teoria dei traccianti;   
-2) Elementi di radiochimica;   
-3) Applicazioni diagnostiche I;   
-4) Elementi di radiobiologia.   
-3° Anno:   
-1) Applicazioni diagnostiche II;   
-2) Applicazioni terapeutiche;   
-3) Radioprotezione e legislazione.   
-  
-Scuola di specializzazione in ortopedia e traumatologia   
-  
-Art. 111. - La scuola di specializzazione in ortopedia e traumatologia ha la durata di tre anni. Alla scuola possono iscriversi, previo esame di ammissione, i laureati in medicina e chirurgia in numero totale di ventotto per i tre anni di corso.   
-Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) Clinica ortopedica e traumatologica (triennale);   
-2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);   
-3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);   
-4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);   
-5) Anatomia e istologia dell'apparato locomotore;   
-6) Fisiologia dell'apparato locomotore;   
-7) Nozioni di chirurgia generale;   
-8) Nozioni di pediatria.   
-2° Anno:   
-1) Clinica ortopedica e traumatologica (triennale);   
-2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);   
-3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);   
-4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);   
-5) Neuropatologia dell'apparato locomotore ed elettrodiagnostica;   
-6) Anatomia ed istologia patologica dell'apparato locomotore;   
-7) Anestesia e rianimazione.   
-3° Anno:   
-1) Clinica ortopedica e traumatologica (triennale);   
-2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);   
-3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);   
-4) Apparato - terapia ortopedica;   
-5) Fisiochinesiterapia;   
-6) Infortunistica.   
-Gli esami si svolgeranno per singole materie. Gli esami di clinica ortopedica e traumatologica, di tecnica operatoria cruenta ed incruenta ortopedica e traumatologica, di radiodiagnostica, saranno teorici e pratici. Per l'ammissione al corso successivo e' obbligatorio il superamento degli esami delle materie di ciascun corso.   
-Per l'ammissione all'esame di diploma il candidato dovra' presentare una tesi a stampa o dattiloscritta su un argomento della specialita'.   
-  
-Scuola di specializzazione in clinica pediatrica   
-  
-Art. 112. - La scuola ha la durata di tre anni.   
-Ad essa possono iscriversi previa valutazione dei titoli di studio e di carriera e previo superamento di un esame di ammissione i laureati in medicina e chirurgia in numero totale di diciotto per i tre anni di corso.   
-Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) Clinica pediatrica (1°);   
-2) Patologia pediatrica (1°);   
-3) Puericultura (1°);   
-4) Semeiotica pediatrica e tecnica diagnostica (1°);   
-5) Auxologia normale e patologica;   
-6) Psicologia dell'eta' evolutiva.   
-2° Anno:   
-1) Clinica pediatrica (2°);   
-2) Patologia pediatrica (2°);   
-3) Puericultura (2°);   
-4) Semeiotica pediatrica e tecnica diagnostica (2°);   
-5) Terapia pediatrica;   
-6) Radiologia pediatrica;   
-7) Malattie infettive dell'infanzia.   
-3° Anno:   
-1) Clinica pediatrica (3°);   
-2) Neuropsichiatria e igiene mentale dell'infanzia.   
-Le materie fondamentali potranno essere integrate a giudizio della direzione della scuola con insegnamenti scelti tra i seguenti:   
-1) Chirurgia pediatrica;   
-2) Ortopedia e traumatologia infantile;   
-3) Odontoiatria;   
-4) Clinica dermosifilopatica;   
-5) Clinica oculistica;   
-6) Clinica otorinolaringoiatrica;   
-7) Cardiologia;   
-8) Genetica,   
-ed altre eventuali che la direzione della scuola puo' stabilire di anno in anno.   
-Il direttore della scuola puo' disporre che si tengano un certo numero di conferenze e seminari su argomenti di interesse pediatrico.   
-Il funzionamento della scuola si esplica mediante le attrezzature cliniche e scientifiche dell'istituto di clinica pediatrica presso il quale e' obbligatorio un periodo di internato di almeno dieci mesi per ogni anno di corso.   
-Eventuali abbreviazioni di corso saranno decise dietro richieste dell'interessato dal consiglio della scuola.   
-L'insegnamento avra' carattere prevalentemente pratico-dimostrativo.   
-Alla fine di ogni anno di corso gli allievi dovranno sostenere prove teoriche e pratiche sulle materie di insegnamento.   
-L'esame di diploma vertera' sulla discussione di tesi scritta compilata o sperimentale su argomento di pediatria concordato con la direzione della scuola.   
+L'art. 102, relativo alla scuola di specializzazione in psicologia, annessa alla facolta' di lettere e filosofia, e' integrato dal seguente primo comma:  
+"Alla scuola di specializzazione in psicologia puo' iscriversi un numero di allievi non superiore a 25 per anno".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1969
+### Dato a Roma, addi' 16 ottobre 1973
 
-SARAGAT FERRARI AGGRADI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 17 dicembre 1969
+Registrato alla Corte dei conti, addi' 31 maggio 1974
 
-Atti del Governo, registro n. 230, foglio n. 150. - CARUSO
+Atti di Governo, registro n. 3, foglio n. 57. - SCIARRETTA

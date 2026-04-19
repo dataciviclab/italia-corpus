@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1955 n. 220
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1985 n. 337
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1955 n. 220
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1985 n. 337
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
@@ -10,243 +10,96 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con i [regi decreti 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;1904); [4 maggio 1942, n. 557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-05-04;557); [5 settembre 1942, n. 1120 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-09-05;1120) [26 febbraio 1949, n. 612](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;612); [23 settembre 1949, n. 931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;931); [30 ottobre 1949, n. 1059](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1059); [5 aprile 1950, n. 284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-04-05;284); [30 ottobre 1950, n. 1277](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1277); [31 ottobre 1950, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1311); [18 aprile 1951, numero 934](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;934); [30 luglio 1951, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-07-30;1304); [27 ottobre 1951, numero 1680](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1680); [19 settembre 1952, n. 4551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-19;4551); [25 agosto 1953, n. 1117](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;1117); [26 aprile 1954, n. 738](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;738); [30 giugno 1954, n. 753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;753); [31 luglio 1954, n. 865](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-07-31;865); [24 agosto 1954, n. 987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-08-24;987) e [14 settembre 1954, n. 1056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1056);
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090), e modificato con [regio decreto 13 ottobre 1927, n. 2281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2281), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Vedute le proposte di modifiche dello statuito formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
 
-Decreta:
+Sentito il parere del Consiglio universitario nazionale;
 
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Sulla
+-----
 
-Art. 119 (gia' 99) relativo al corso di laurea in scienze biologiche e' aggiunto all'ultimo comma quanto segue:
+proposta del Ministro della pubblica istruzione; Decreta:
 
-"Gli esami del 1° e 2° anno sono da considerarsi propedeutici rispetto a quelli del 3° e 4° anno, solo ai fini della successione degli stessi".
+Articolo unico
+--------------
 
-Art. 123 (gia' 103) relativo al corso di laurea in scienze geologiche e' aggiunto all'ultimo comma quanto segue:
-
-"Gli esami del 1° e 2° anno sono da considerarsi propedeutici rispetto a quelli del 3° e 4° anno, solo ai fini della successione degli stessi".
-
-Art. 135 (gia' 107). - Agli insegnamenti complementari comuni a tutte le Sezioni e' aggiunto quello di 20) "Tecnica delle fondazioni e costruzioni in terra".
-
-Dopo l'attuale art. 225, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della "Scuola di specializzazione in fisiopatologia della riproduzione degli animali domestici" con il conseguente spostamento della numerazione degli articoli successivi.
-
-Scuola di specializzazione in fisiopatologia della riproduzione degli animali domestici
-
-Art. 226. - E' istituita presso la Facolta' di medicina veterinaria la scuola di specializzazione in fisiopatologia della riproduzione degli animali domestici, la quale ha lo scopo di approfondire ed aggiornare le conoscenze di fisiologia e di patologia dell'apparato genitale femminile e maschile, in relazione all'ostetricia, alla sterilita' ed alla fecondazione artificiale.
-
-Art. 227. - Alla scuola di specializzazione in fisiopatologia della riproduzione degli animali domestici, della durata di due anni, sono ammessi soli i laureati in medicina veterinaria, e ad essi si richiede la frequenza obbligatoria a tutti gli insegnamenti teorici ed alle esercitazioni pratiche.
-
-Art. 228. - Le materie d'insegnamento sono:
-
-1° anno:
-
-1) Anatomia e fisiologia dell'apparato genitale maschile e femminile;
-
-2) Fisiopatologia ostetrica;
-
-3) Zootecnia generale con particolare riferimento ai problemi della genetica;
-
-4) Patologia e anatomia patologica dell'apparato genitale maschile e femminile;
-
-5) Esercitazioni ostetrico-ginecologiche.
-
-2° anno:
-
-1) Clinica e terapia ostetrica;
-
-2) Diagnostica e terapia ginecologica ed esercitazioni di laboratorio;
-
-3) Basi scientifiche e tecnica della fecondazione artificiale;
-
-4) Zootecnia speciale e igiene zootecnica;
-
-5) Malattie infettive in diretta attinenza degli apparati genitali maschili e femminile.
-
-In parallelo agli insegnamenti della scuola, durante il corso, saranno svolte conferenze anche da parte di docenti di riconosciuta competenza nella specialita'.
-
-Art. 229. - Gli insegnamenti teorici e le esercitazioni pratiche verranno svolte dai professori presso la Facolta' ed eventualmente presso centri viciniori di cura della sterilita' bovina e di fecondazione artificiale.
-
-Art. 230. - Alla fine del primo e secondo anno i candidati dovranno sostenere un esame teorico e pratico sui programmi svolti. Per accedere al secondo anna della scuola di specializzazione, lo specializzando dovra' avere superato gli esami del primo anno.
-
-Superato gli esami dei singoli insegnamenti, gli iscritti dovranno sostenere innanzi ad una Commissione formata da sette membri, scelti fra gli insegnanti della scuola, una prova pratica completata da interrogazioni orali che i candidati dovranno superare ai fini del conseguimento del diploma, il quale dara' diritto alla qualifica di specialista, a norma dell'[art. 178 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art178).
-
-Art. 231. - Il direttore della scuola sara' il professore titolare dell'insegnamento dell'ostetricia e ginecologia veterinaria.
-
-Gli insegnanti della scuola saranno proposti dal direttore e le proposte approvate dal Consiglio di Facolta'.
-
-Art. 232. - Il Consiglio della scuola sara' composto dai professori chiamati a svolgere gli insegnamenti prescritti.
-
-Art. 233. - I programmi degli insegnamenti dovranno essere approvati dal Consiglio di Facolta'; l'inizio e il termine del corso, l'orario, la sede delle lezioni, delle esercitazioni pratiche relative, nonche' la data delle prove di esami di profitto e di diploma verranno stabilite dallo stesso Consiglio di Facolta'.
-
-Art. 234. - Il numero massimo e minimo di partecipanti al corso sara' stabilito di anno in anno; se sia inferiore al minimo stabilito, il Consiglio della Facolta' decidera' insindacabilmente sull'opportunita' di tenere il corso. Nel caso che il numero delle domande superi il massimo stabilito, il Consiglio si riserva, di scegliere, con giudizio insindacabile, i nominativi dei partecipanti al corso.
-
-Art. 235. - Gli iscritti sono tenuti al pagamento delle tasse e soprattasse stabilite per legge per gli studenti del corso di laurea in medicina veterinaria.
-
-L'ammontare dei contributi viene stabilito dal Consiglio di amministrazione, su proposta del Senato accademico, udite la Facolta' e scuola.
-
-La tassa di diploma e' fissata nella misura di L. 6000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, numero 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).
-
-L'art. 283 (gia 227) relativo alla scuola di perfezionamento in malattie infettive e' sostituito dal seguente:
-
-Ordinamento degli studi:
-
-1° anno:
-
-Batteriologia ed immunologia;
-
-Parassitologia;
-
-Semeiotica;
-
-Elementi di chimica clinica;
-
-Elementi di anatomia patologica;
-
-Elementi di radiognostica nelle malattie infettive.
-
-2° anno:
-
-Igiene e profilassi;
-
-Diagnostica di laboratorio (compreso le malattie da virus e da rickettsie);
-
-Fondamenti di patologia delle malattie da virus;
-
-Propedeutica clinica delle malattie infettive;
-
-Terapia generale e speciale delle malattie infettive;
-
-Clinica delle malattie infettive.
-
-3° anno:
-
-Clinica delle malattie infettive;
-
-Le malattie infettive in pediatria;
-
-Le malattie infettive in otorinolaringoiatria;
-
-Le malattie infettive in dermatologia;
-
-Le malattie infettive in neuropatologia.
-
-Durante il secondo ed il terzo corso gli specializzandi presteranno, in gruppi per periodi di tre mesi, servizio presso l'Ospedale Cotugno.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare,
-
-Dato a Napoli, addi' 16 febbraio 1955
-
-EINAUDI
-
-ERMINI
-
-Visto, il Guardasigilli: DE PIETRO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 2 aprile 1955 Atti del Governo, registro n. 90, foglio n. 7. - CARLOMAGNO
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con i [regi decreti 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;1904); [4 maggio 1942, n. 557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-05-04;557); [5 settembre 1942, n. 1120 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-09-05;1120) [26 febbraio 1949, n. 612](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;612); [23 settembre 1949, n. 931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;931); [30 ottobre 1949, n. 1059](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1059); [5 aprile 1950, n. 284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-04-05;284); [30 ottobre 1950, n. 1277](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1277); [31 ottobre 1950, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1311); [18 aprile 1951, numero 934](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;934); [30 luglio 1951, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-07-30;1304); [27 ottobre 1951, numero 1680](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1680); [19 settembre 1952, n. 4551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-19;4551); [25 agosto 1953, n. 1117](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;1117); [26 aprile 1954, n. 738](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;738); [30 giugno 1954, n. 753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;753); [31 luglio 1954, n. 865](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-07-31;865); [24 agosto 1954, n. 987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-08-24;987) e [14 settembre 1954, n. 1056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1056);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuito formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
   
 Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 119 (gia' 99) relativo al corso di laurea in scienze biologiche e' aggiunto all'ultimo comma quanto segue:  
-"Gli esami del 1° e 2° anno sono da considerarsi propedeutici rispetto a quelli del 3° e 4° anno, solo ai fini della successione degli stessi".  
-Art. 123 (gia' 103) relativo al corso di laurea in scienze geologiche e' aggiunto all'ultimo comma quanto segue:  
-"Gli esami del 1° e 2° anno sono da considerarsi propedeutici rispetto a quelli del 3° e 4° anno, solo ai fini della successione degli stessi".  
-Art. 135 (gia' 107). - Agli insegnamenti complementari comuni a tutte le Sezioni e' aggiunto quello di 20) "Tecnica delle fondazioni e costruzioni in terra".  
-Dopo l'attuale art. 225, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della "Scuola di specializzazione in fisiopatologia della riproduzione degli animali domestici" con il conseguente spostamento della numerazione degli articoli successivi.  
-Scuola di specializzazione in fisiopatologia della riproduzione degli animali domestici  
-Art. 226. - E' istituita presso la Facolta' di medicina veterinaria la scuola di specializzazione in fisiopatologia della riproduzione degli animali domestici, la quale ha lo scopo di approfondire ed aggiornare le conoscenze di fisiologia e di patologia dell'apparato genitale femminile e maschile, in relazione all'ostetricia, alla sterilita' ed alla fecondazione artificiale.  
-Art. 227. - Alla scuola di specializzazione in fisiopatologia della riproduzione degli animali domestici, della durata di due anni, sono ammessi soli i laureati in medicina veterinaria, e ad essi si richiede la frequenza obbligatoria a tutti gli insegnamenti teorici ed alle esercitazioni pratiche.  
-Art. 228. - Le materie d'insegnamento sono:  
-1° anno:  
-1) Anatomia e fisiologia dell'apparato genitale maschile e femminile;  
-2) Fisiopatologia ostetrica;  
-3) Zootecnia generale con particolare riferimento ai problemi della genetica;  
-4) Patologia e anatomia patologica dell'apparato genitale maschile e femminile;  
-5) Esercitazioni ostetrico-ginecologiche.  
-2° anno:  
-1) Clinica e terapia ostetrica;  
-2) Diagnostica e terapia ginecologica ed esercitazioni di laboratorio;  
-3) Basi scientifiche e tecnica della fecondazione artificiale;  
-4) Zootecnia speciale e igiene zootecnica;  
-5) Malattie infettive in diretta attinenza degli apparati genitali maschili e femminile.  
-In parallelo agli insegnamenti della scuola, durante il corso, saranno svolte conferenze anche da parte di docenti di riconosciuta competenza nella specialita'.  
-Art. 229. - Gli insegnamenti teorici e le esercitazioni pratiche verranno svolte dai professori presso la Facolta' ed eventualmente presso centri viciniori di cura della sterilita' bovina e di fecondazione artificiale.  
-Art. 230. - Alla fine del primo e secondo anno i candidati dovranno sostenere un esame teorico e pratico sui programmi svolti. Per accedere al secondo anna della scuola di specializzazione, lo specializzando dovra' avere superato gli esami del primo anno.  
-Superato gli esami dei singoli insegnamenti, gli iscritti dovranno sostenere innanzi ad una Commissione formata da sette membri, scelti fra gli insegnanti della scuola, una prova pratica completata da interrogazioni orali che i candidati dovranno superare ai fini del conseguimento del diploma, il quale dara' diritto alla qualifica di specialista, a norma dell'[art. 178 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art178).  
-Art. 231. - Il direttore della scuola sara' il professore titolare dell'insegnamento dell'ostetricia e ginecologia veterinaria.  
-Gli insegnanti della scuola saranno proposti dal direttore e le proposte approvate dal Consiglio di Facolta'.  
-Art. 232. - Il Consiglio della scuola sara' composto dai professori chiamati a svolgere gli insegnamenti prescritti.  
-Art. 233. - I programmi degli insegnamenti dovranno essere approvati dal Consiglio di Facolta'; l'inizio e il termine del corso, l'orario, la sede delle lezioni, delle esercitazioni pratiche relative, nonche' la data delle prove di esami di profitto e di diploma verranno stabilite dallo stesso Consiglio di Facolta'.  
-Art. 234. - Il numero massimo e minimo di partecipanti al corso sara' stabilito di anno in anno; se sia inferiore al minimo stabilito, il Consiglio della Facolta' decidera' insindacabilmente sull'opportunita' di tenere il corso. Nel caso che il numero delle domande superi il massimo stabilito, il Consiglio si riserva, di scegliere, con giudizio insindacabile, i nominativi dei partecipanti al corso.  
-Art. 235. - Gli iscritti sono tenuti al pagamento delle tasse e soprattasse stabilite per legge per gli studenti del corso di laurea in medicina veterinaria.  
-L'ammontare dei contributi viene stabilito dal Consiglio di amministrazione, su proposta del Senato accademico, udite la Facolta' e scuola.  
-La tassa di diploma e' fissata nella misura di L. 6000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, numero 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
-L'art. 283 (gia 227) relativo alla scuola di perfezionamento in malattie infettive e' sostituito dal seguente:  
-Ordinamento degli studi:  
-1° anno:  
-Batteriologia ed immunologia;  
-Parassitologia;  
-Semeiotica;  
-Elementi di chimica clinica;  
-Elementi di anatomia patologica;  
-Elementi di radiognostica nelle malattie infettive.  
-2° anno:  
-Igiene e profilassi;  
-Diagnostica di laboratorio (compreso le malattie da virus e da rickettsie);  
-Fondamenti di patologia delle malattie da virus;  
-Propedeutica clinica delle malattie infettive;  
-Terapia generale e speciale delle malattie infettive;  
-Clinica delle malattie infettive.  
-3° anno:  
-Clinica delle malattie infettive;  
-Le malattie infettive in pediatria;  
-Le malattie infettive in otorinolaringoiatria;  
-Le malattie infettive in dermatologia;  
-Le malattie infettive in neuropatologia.  
-Durante il secondo ed il terzo corso gli specializzandi presteranno, in gruppi per periodi di tre mesi, servizio presso l'Ospedale Cotugno.  
+Dopo l'art. 983, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in scienza e tecnica delle piante officinali.  
+  
+Scuola di specializzazione in scienza e tecnica delle piante officinali  
+  
+Art. 984. - E' istituita presso l'Universita' di Napoli la scuola di specializzazione in "scienza e tecnica delle piante officinali" che conferisce il diploma di specializzazione in scienza e tecnica delle piante officinali.  
+Art. 985. - La direzione della scuola ha sede presso la facolta' di farmacia dell'Universita' di Napoli.  
+Art. 986. - La scuola ha lo scopo di promuovere lo studio e la ricerca nel settore delle piante officinali.  
+Art. 987. - La durata del corso e' di due anni e non e' suscettibile di abbreviazione.  
+Art. 988. - Il numero degli iscritti e' di quindici per ogni anno e complessivamente di trenta per l'intero corso di studi.  
+Art. 989. - Alla scuola sono ammessi i laureati in farmacia, chimica e tecnologia farmaceutiche, scienze biologiche, scienze naturali, scienze agrarie, in possesso del diploma di abilitazione all'esercizio professionale ove previsto.  
+Art. 990. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
+a) la tesi nella disciplina attinente alla specializzazione;  
+b) il voto di laurea;  
+c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
+d) le pubblicazioni nelle predette materie.  
+Il punteggio dei predetti titoli e' quello stabilito dal [decreto ministeriale 16 settembre 1982, pubblicato nella Gazzetta Ufficiale n. 275 del 6 ottobre 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-10-06&numeroGazzetta=275).  
+Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
+Art. 991. - La commissione giudicatrice e' nominata dal rettore su proposta del consiglio di facolta' di farmacia. Essa e' composta dal direttore della scuola, che la presiede, e da due professori che insegnano nella scuola stessa. La commissione nel suo interno stabilisce chi deve espletare le funzioni di segretario.  
+Art. 992. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+complementi di botanica farmaceutica;  
+botanica fitognostica ed erboristica;  
+ecologia e fitogeografia;  
+complementi di agronomia e tecnica delle coltivazioni;  
+fitofarmacia;  
+complementi di chimica organica vegetale.  
+2° Anno:  
+farmacognosia generale e speciale;  
+farmacologia speciale delle droghe;  
+tecnica farmaceutica speciale per le preparazioni ricavate da droghe o da derivati di droghe;  
+genetica;  
+industria e commercio erboristico;  
+analisi delle piante medicinali;  
+identificazione di costituenti di piante medicinali.  
+Tutti gli insegnamenti afferiscono alla facolta' di farmacia. I titolari degli insegnamenti possono essere proposti anche tra i professori di ruolo di altre facolta', nei termini previsti dalla legislazione vigente.  
+Il consiglio della facolta' di farmacia, su proposta del consiglio della scuola, sentite le facolta' interessate, coordina annualmente le attivita' didattiche della scuola, e designa altresi' i professori a contratto cui affidare corsi specialistici, secondo quanto previsto dagli [articoli 7](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art7), [9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art9) e [25 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art25).  
+Per lo svolgimento dei suoi compiti e delle sue attivita', la scuola di specializzazione in "scienza e tecnica delle piante officinali" puo' disporre del personale docente e non docente afferente agli istituti e ai dipartimenti della facolta'.  
+Art. 993. - La frequenza ai corsi e' obbligatoria. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno in corso, esprime il giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
+Art. 994. - I corsi sono integrati da esercitazioni pratiche, da erborizzazione in campagna e da gite di istruzione. La frequenza e' obbligatoria sia per i corsi sia per le esercitazioni.  
+Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.  
+Art. 995. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su uno o piu' materie del corso. A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista in "scienza e tecnica delle piante officinali".  
+Art. 996. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge, i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
+Art. 997. - Per ciascuna scuola di specializzazione, anche se comprendente piu' indirizzi, e' costituito un unico consiglio presieduto da un direttore. Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).  
+Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti. Ad esso si applicano le norme generali sul funzionamento degli organi collegiali universitari.  
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo della facolta' di farmacia che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+Art. 998. - Il direttore e' nominato dal rettore su proposta del consiglio della scuola. Dura in carica tre anni ed e' rieleggibile.  
+Il direttore presiede il consiglio della scuola, vigila sul buon andamento di essa, trasmette al preside della facolta' di farmacia gli atti e le deliberazioni del consiglio stesso.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare,
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Napoli, addi' 16 febbraio 1955
+### Dato a Roma, addi' 25 febbraio 1985
 
-EINAUDI ERMINI
+PERTINI
 
-Visto, il Guardasigilli: DE PIETRO
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 2 aprile 1955
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Atti del Governo, registro n. 90, foglio n. 7. - CARLOMAGNO
+Registrato alla Corte dei conti, addi' 1 luglio 1985
+
+Registro n. 45 Istruzione, foglio n. 342

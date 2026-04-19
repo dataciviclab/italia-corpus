@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1973 n. 187
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1973 n. 58
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1973 n. 187
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1973 n. 58
+==============================================================
 
 Autorizzazione all'Universita' degli studi di Camerino ad acquistare un immobile.
 ---------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-187. Decreto del Presidente della Repubblica 16 febbraio 1973, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Camerino viene autorizzata ad acquistare un immobile sito in Camerino tra via Roma e via Fabio Filzi, denominato palazzo Battibocca, distinto in catasto al foglio n. 61, particelle 278/1-2-3-4-5-6, 285, 286, al prezzo di L. 98.000.000.  
+58. Decreto del Presidente della Repubblica 2 febbraio 1973, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Camerino viene autorizzata ad acquistare un immobile in corso di costruzione sito in Camerino, localita' "Le Mosse" descritto nel catasto al foglio n. 49, particella 219 porzione, nonche' la porzione di terreno destinata al foglio n. 49, particelle 243, 244, 249, 250 del catasto rustico, al prezzo di L. 290.000.000.  
   
 Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 2 maggio 1973  
-Atti di Governo, registro n. 258, foglio n. 1. - VALENTINI
+Registrato alla Corte dei conti, addi' 21 marzo 1973  
+Atti di Governo, registro n. 256, foglio n. 115. - VALENTINI

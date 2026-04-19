@@ -1,144 +1,89 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1970 n. 1475
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1970 n. 425
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1970 n. 1475
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1970 n. 425
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Dopo l'art. 194 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola per tecnici di cardiologia (scuola diretta a fini speciali) della durata di due anni.
-
-Scuola per tecnici di cardiologia
-
-Art. 195. - Presso l'istituto di clinica medica generale e terapia medica funziona una scuola per tecnici di cardiologia, la quale conduce al conseguimento di un diploma di tecnico di cardiologia.
-
-Il direttore della scuola viene designato di anno in anno dal consiglio di facolta' e puo' essere confermato.
-
-Il personale insegnante e' nominato di anno in anno dal consiglio di facolta' su proposta del direttore della scuola e viene scelto fra il personale universitario e i cultori della materia.
-
-Art. 196. - La scuola per tecnici di cardiologia ha la durata di due anni accademici, con frequenza obbligatoria.
-
-Art. 197. - Sono ammessi alla scuola per tecnici di cardiologia i cittadini italiani in possesso di licenza di scuola media inferiore con eta' minima di anni 16 ed eta' massima di anni 25, con le maggiorazioni di legge.
-
-I posti previsti sono in numero di 12 e qualora i concorrenti dovessero superare questa cifra, la scelta sara' operata a mezzo di concorso per titoli ed esami.
-
-Art. 198. - L'ammontare della tassa di iscrizione alla scuola per tecnici di cardiologia e' di L. 20.000 (ventimila) annue; nessuna altra tassa, sopratassa o contributo verra' richiesto agli iscritti.
-
-Art. 199. - Gli insegnamenti previsti presso la scuola di qualificazione professionale per tecnici cardiologici, sono:
-
-1° Anno:
-
-Tecnica elettrocardiografica;
-
-Tecnica fonocardiografica.
-
-2° Anno:
-
-Tecnica di attrezzatura, manutenzione ed uso di apparecchiature elettrocardiografiche, fonocardiografiche, fotopletismografiche ed oscillografiche;
-
-Tecnica emodinamica;
-
-Tecnica di emogasanalisi;
-
-Tecnica di biochimica cardiologica;
-
-Elementi tecnici di assistenza ai centri di monitoraggio.
-
-Art. 200. - Il profilo degli allievi e' accertato dagli insegnamenti durante il corso e mediante una prova finale d'esame al termine di esso.
-
-Il diploma di cui all'art. 195 verra' rilasciato a cura dell'Universita' di Modena.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 14 ottobre 1970
-
-SARAGAT
-
-MISASI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 24 giugno 1971 Atti del Governo, registro n. 242, foglio n. 143. - VALENTINI
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Dopo l'art. 194 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola per tecnici di cardiologia (scuola diretta a fini speciali) della durata di due anni.  
+L'art. 62 e' abrogato e sostituito dal seguente:   
+"La facolta' di farmacia conferisce:   
+a) la laurea in farmacia;   
+b) la laurea in chimica e tecnologia farmaceutiche".   
+Dopo l'art. 68 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente nuovo articolo relativo alla istituzione del corso di laurea in chimica e tecnologia farmaceutiche.   
   
-Scuola per tecnici di cardiologia  
+Laurea in chimica e tecnologia farmaceutiche   
   
-Art. 195. - Presso l'istituto di clinica medica generale e terapia medica funziona una scuola per tecnici di cardiologia, la quale conduce al conseguimento di un diploma di tecnico di cardiologia.  
-Il direttore della scuola viene designato di anno in anno dal consiglio di facolta' e puo' essere confermato.  
-Il personale insegnante e' nominato di anno in anno dal consiglio di facolta' su proposta del direttore della scuola e viene scelto fra il personale universitario e i cultori della materia.  
-Art. 196. - La scuola per tecnici di cardiologia ha la durata di due anni accademici, con frequenza obbligatoria.  
-Art. 197. - Sono ammessi alla scuola per tecnici di cardiologia i cittadini italiani in possesso di licenza di scuola media inferiore con eta' minima di anni 16 ed eta' massima di anni 25, con le maggiorazioni di legge.  
-I posti previsti sono in numero di 12 e qualora i concorrenti dovessero superare questa cifra, la scelta sara' operata a mezzo di concorso per titoli ed esami.  
-Art. 198. - L'ammontare della tassa di iscrizione alla scuola per tecnici di cardiologia e' di L. 20.000 (ventimila) annue; nessuna altra tassa, sopratassa o contributo verra' richiesto agli iscritti.  
-Art. 199. - Gli insegnamenti previsti presso la scuola di qualificazione professionale per tecnici cardiologici, sono:  
-1° Anno:  
-Tecnica elettrocardiografica;  
-Tecnica fonocardiografica.  
-2° Anno:  
-Tecnica di attrezzatura, manutenzione ed uso di apparecchiature elettrocardiografiche, fonocardiografiche, fotopletismografiche ed oscillografiche;  
-Tecnica emodinamica;  
-Tecnica di emogasanalisi;  
-Tecnica di biochimica cardiologica;  
-Elementi tecnici di assistenza ai centri di monitoraggio.  
-Art. 200. - Il profilo degli allievi e' accertato dagli insegnamenti durante il corso e mediante una prova finale d'esame al termine di esso.  
-Il diploma di cui all'art. 195 verra' rilasciato a cura dell'Universita' di Modena.  
+Art. 69. - La durata del corso degli studi per il conseguimento della laurea in chimica e tecnologia farmaceutiche e' di cinque anni, divisi in un biennio ed un triennio.   
+Titolo di ammissione e' quello previsto dalle vigenti disposizioni di legge.   
+Insegnamenti fondamentali:   
+Biennio:   
+1) Analisi chimica farmaceutica I (analisi qualitativa);   
+\* 2) Anatomia umana;   
+\* 3) Botanica farmaceutica;   
+\* 4) Chimica fisica;   
+\* 5) Chimica generale ed inorganica;   
+\*\*6) Chimica organica I;   
+\* 7) Fisica;   
+8) Fisiologia generale;   
+\*9) Istituzioni di matematiche;   
+10) Microbiologia e igiene.   
+Triennio:   
+11) Analisi chimica farmaceutica II (analisi quantitativa);   
+12) Analisi chimica farmaceutica III (analisi dei medicamenti); \* 13) Biochimica applicata;   
+\* 14) Chimica biologica;   
+\* 15) Chimica degli alimenti;   
+\* 16) Chimica farmaceutica applicata;   
+\* 17) Chimica farmaceutica e tossicologica I;   
+\* 18) Chimica farmaceutica e tossicologica II;   
+\*\*19) Chimica organica II;   
+\* 20) Farmacologia e farmacognosia;   
+21) Impianti dell'industria farmaceutica;   
+22) Laboratorio di preparazione estrattiva e sintetica dei farmaci;   
+23) Metodi fisici in chimica organica;   
+24) Saggi e dosaggi farmacologici;   
+\* 25) Tecnica e legislazione farmaceutica.   
+Insegnamenti complementari:   
+1) Complementi di chimica tossicologica;   
+2) Chimica dei prodotti cosmetici;   
+3) Chimica dei prodotti dietetici;   
+4) Microchimica;   
+\* 5) Mineralogia;   
+6) Zoologia e parassitologia.   
+Le materie segnate con un asterisco sono comuni alla laurea in farmacia; quelle segnate con due asterischi sono comuni alla laurea in chimica.   
+Per ottenere l'iscrizione al terzo anno di corso, lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per i due anni precedenti.   
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato tutti gli esami dei corsi fondamentali e almeno due esami, a scelta, fra i corsi complementari.   
+La prova di laurea comporta la discussione di una tesi sperimentale.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 ottobre 1970
+### Dato a Roma, addi' 12 maggio 1970
 
 SARAGAT MISASI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 24 giugno 1971
+Registrato alla Corte dei conti, addi' 30 giugno 1970
 
-Atti del Governo, registro n. 242, foglio n. 143. - VALENTINI
+Atti del Governo, registro n. 236, foglio n. 90. - CARUSO

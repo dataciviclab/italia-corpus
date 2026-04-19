@@ -1,90 +1,169 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1957 n. 1158
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 869
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1957 n. 1158
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 869
+=============================================================
 
 Modificazioni allo statuto dell'Istituto universitario di magistero di Catania.
 -------------------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Istituto universitario di magistero di Catania, approvato con [decreto del Presidente della Repubblica 18 settembre 1951, n. 1160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-09-18;1160), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduta la [legge 11 luglio 1980, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Istituto universitario di magistero di Catania e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione di concerto col Ministro del tesoro;
+
+Decreta:
+--------
+
+Lo statuto dell'Istituto universitario di magistero di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Istituto universitario di magistero di Catania, approvato con [decreto del Presidente della Repubblica 18 settembre 1951, n. 1160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-09-18;1160), e modificato con [decreti del Presidente della Repubblica 25 settembre 1955, n. 957](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-25;957) e [5 settembre 1956, n. 1489](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-09-05;1489);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Istituto anzidetto;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
+Le tabelle 2, 3, 4, 5, 6, 7 e 8, relative all'organico del personale non docente dell'Istituto, sono soppresse e sostituite dalle seguenti nuove tabelle:   
   
-Lo statuto dell'Istituto universitario di magistero di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 59 e 61 sono abrogati e sostituiti dai seguenti:  
-Art. 59. - L'Istituto ha un direttore amministrativo, il quale deve essere fornito di laurea in giurisprudenza o in scienze politiche o in economia e commercio. Il direttore amministrativo e' nominato con la qualifica iniziale di consigliere di 1ª classe dal Consiglio di amministrazione dell'istituto in seguito a pubblico concorso per esami e per titoli, con le norme vigenti per i concorsi nell'Amministrazione dello Stato e con l'obbligo di superare i seguenti esami scritti ed orali: scritti: a) una prova di diritto civile; b) una prova di diritto amministrativo o costituzionale; c) una prova di carattere pratico concernente servizi dell'amministrazione universitaria; orali: le prove verteranno oltre che sulle materie sopraindicate, sulle seguenti: a) diritto del lavoro; b) economia politica e scienza delle finanze; c) statistica metodologica e demografica; d) nozioni sull'amministrazione del patrimonio e sulla ontabilita' generale dello Stato; e) legislazione concernente l'ordinamento dell'istruzione universitaria.  
-La promozione del direttore amministrativo dalla qualifica di consigliere di 1ª classe a quella di direttore di sezione sara' conferita a giudizio del Consiglio di amministrazione dell'Istituto, per anzianita' congiunta al merito, dopo tre anni di effettivo servizio prestato nella qualifica inferiore. Dopo dieci anni di effettivo servizio nella qualifica di direttore di sezione, sara' conferita, sempre a giudizio del Consiglio di amministrazione dell'Istituto, la qualifica di direttore di divisione.  
-Art. 61. - All'amministrazione dell'Istituto sono assegnati posti di ruolo organico del personale di segreteria delle carriere direttive, di concetto ed esecutivo e del personale ausiliario di cui alla tabella n. 3 annessa al presente decreto.  
-All'Istituto e' inoltre assegnato per il funzionamento della biblioteca il posto organico di cui alla tabella n. 4 annessa al presente decreto.  
-Il personale di cui ai precedenti comma e' nominato dal Consiglio di amministrazione dell'Istituto con la qualifica iniziale prevista per ciascuna carriera in seguito a pubblico concorso con le norme e modalita' previste per il corrispondente personale dipendente dalle Amministrazioni dello Stato.  
-Per le promozioni del personale di cui al primo e secondo comma del presente articolo si applicano le disposizioni concernenti il corrispondente personale delle Amministrazione dello Stato eccettuato quanto concerne lo sviluppo di carriera del personale di segreteria, di concetto e di biblioteca esecutivo, per cui verranno osservate le modalita' di cui ai successivi comma.  
-Il vice ragioniere conseguira' le qualifiche di ragioniere aggiunto, di ragioniere e di primo ragioniere, rispettivamente, dopo 4, 6 e 5 anni di effettivo servizio nella qualifica inferiore, per anzianita' congiunta al merito su giudizio del Consiglio di amministrazione dell'Istituto.  
-Il vice aiutante di biblioteca conseguira' le qualifiche di aiutante aggiunto e di aiutante, rispettivamente dopo 4 e 6 anni di effettivo servizio nella qualifica inferiore su giudizio del Consiglio di amministrazione dell'istituto.  
-All'amministrazione dell'Istituto, su richiesta del Consiglio di amministrazione, puo' essere assegnato un adeguato numero di salariati con mansioni di subalterni scelti tra i propri dipendenti dall'Amministrazione comunale di Catania.  
-L'art. 62 e' abrogato.  
-Per effetto delle suindicate disposizioni la tabella n. 2 annessa allo statuto e' soppressa e sostituita dalle nuove tabelle numeri 2, 3 e 4 annesse al presente decreto.  
-Al capo undecimo: Disposizioni finali e transitorie, dopo l'art. 70 viene aggiunto il seguente nuovo articolo:  
-"Art. 71. - Il personale avventizio della carriera esecutiva (gia' di gruppo C) che in atto trovasi in servizio presso l'Istituto ed occupa posti di organico, viene nominato di ruolo, dopo un effettivo e lodevole servizio di due anni, dal Consiglio di amministrazione, mediante concorso interno per titoli e per esami".  
-La tabella n. 1 e' soppressa e sostituita da quella annessa al presente decreto.  
+TABELLA 2   
   
+ORGANICO DELLA CARRIERA DIRETTIVA DEGLI UFFICI AMMINISTRATIVI - QUALIFICHE DEL RUOLO AD ESAURIMENTO.   
+  
+
+|  |  |  |
+| --- | --- | --- |
+| Qualifica | Posti di ruolo | Totale posti |
+| Direttore amministrativo di 1ª classe | - | - |
+| Direttore amministrativo di 2ª classe | 1 | 1 |
+
+  
+  
+  
+  
+ORGANICO DELLE QUALIFICHE FUNZIONALI DELLA CARRIERA AMMINISTRATIVA   
+
+|  |  |  |
+| --- | --- | --- |
+| Qualifica | Posti di ruolo | Totale posti |
+| Qualifica VIII: |  |  |
+| Funzionario amministrativo | 5 | 5 |
+| Qualifica VII: |  |  |
+| Collaboratore amministrativo | 8 | 8 |
+| Qualifica VI: |  |  |
+| Assistente amministrativo | 4 | 4 |
+| Totale posti |  | 18 |
+
+  
+  
+  
+  
+TABELLA 3   
+  
+ORGANICO DELLA CARRIERA DIRETTIVA ORDINARIA DEI DIRETTORI DI RAGIONERIA - QUALIFICHE DEL RUOLO AD ESAURIMENTO.   
+  
+
+|  |  |  |
+| --- | --- | --- |
+| Qualifica | Posti di ruolo | Totale posti |
+| Ispettore generale di ragioneria | - | - |
+| Direttore di ragioneria di 1ª classe | 1 | 1 |
+
+  
+  
+  
+  
+ORGANICO DELLE QUALIFICHE FUNZIONALI DELLA CARRIERA CONTABILE   
+  
+
+|  |  |  |
+| --- | --- | --- |
+| Qualifica | Posti di ruolo | Totale posti |
+| Qualifica VIII: |  |  |
+| Funzionario contabile | 1 | 1 |
+| Qualifica VII: |  |  |
+| Collaboratore contabile | 2 | 2 |
+| Qualifica VI: |  |  |
+| Assistente contabile | 2 | 2 |
+| Totale posti |  | 6 |
+
+  
+  
+  
+  
+TABELLA 4   
+ORGANICO DELLE QUALIFICHE FUNZIONALI DELLA CARRIERA DI BIBLIOTECA   
+
+|  |  |  |
+| --- | --- | --- |
+| Qualifica | Posti di ruolo | Totale posti |
+| Qualifica VIII: |  |  |
+| Funzionario di biblioteca | 1 | 1 |
+| Qualifica VII: |  |  |
+| Collaboratore di biblioteca | 3 | 3 |
+| Qualifica VI: |  |  |
+| Assistente di biblioteca | 2 | 2 |
+| Totale posti |  | 6 |
+
+  
+  
+  
+  
+TABELLA 5   
+ORGANICO DELLE QUALIFICHE FUNZIONALI DEGLI OPERATORI E AGENTI AMMINISTRATIVI   
+  
+
+|  |  |  |
+| --- | --- | --- |
+| Qualifica | Posti di ruolo | Totale posti |
+| Qualifica V: |  |  |
+| Operatore amministrativo | 5 | 5 |
+| Qualifica IV: |  |  |
+| Agente amministrativo | 5 | 5 |
+| Totale posti |  | 10 |
+
+  
+  
+  
+  
+TABELLA 6   
+ORGANICO DELLE QUALIFICHE FUNZIONALI DEGLI AUSILIARI   
+  
+
+|  |  |  |
+| --- | --- | --- |
+| Qualifica | Posti di ruolo | Totale posti |
+| Qualifica III: |  |  |
+| Bidelli o conducenti | 12 | 12 |
+| Qualifica II: |  |  |
+| Usciere | 2 | 2 |
+| Totale posti |  | 14 |
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 settembre 1957
+### Dato a Roma, addi' 26 aprile 1984
 
-GRONCHI MORO
+PERTINI FALCUCCI - GORIA
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 7 dicembre 1957
+Registrato alla Corte dei conti, addi' 11 dicembre 1984
 
-Atti del Governo, registro n. 109, foglio n. 72. - RELLEVA
-
-Tabelle
-
- TABELLA N. 1   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=057U115800100010110001&dgu=1957-12-13&art.dataPubblicazioneGazzetta=1957-12-13&art.codiceRedazionale=057U1158)
-  
-  
-  
-  
-TABELLA N. 2   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=057U115800100010110002&dgu=1957-12-13&art.dataPubblicazioneGazzetta=1957-12-13&art.codiceRedazionale=057U1158)
-  
-  
-  
-  
-TABELLA N. 3   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=057U115800100010110003&dgu=1957-12-13&art.dataPubblicazioneGazzetta=1957-12-13&art.codiceRedazionale=057U1158)
-  
-  
-  
-  
-TABELLA N. 4   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=057U115800100010110004&dgu=1957-12-13&art.dataPubblicazioneGazzetta=1957-12-13&art.codiceRedazionale=057U1158)
-  
+Registro n. 74 Istruzione, foglio n. 382

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 490
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1985 n. 912
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 490
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1985 n. 912
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -39,19 +39,22 @@ Articolo unico
 --------------
 
   
-Nell'art. 81, relativo alla facolta' di scienze matematiche, fisiche e naturali, all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto il seguente nuovo insegnamento:  
-ecologia preistorica.  
+Nell'art. 49, relativo al corso di laurea in storia, all'elenco degli insegnamenti complementari per l'indirizzo moderno e' aggiunto il seguente nuovo insegnamento:  
+  
+storia dell'Unione Sovietica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 giugno 1983
+### Dato a Roma, addi' 22 ottobre 1985
 
-PERTINI FALCUCCI
+COSSIGA
 
-Visto, il Guardasigilli: DARIDA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 17 agosto 1983
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registro n. 59 Istruzione, foglio n. 128
+Registrato alla Corte dei conti, addi' 14 febbraio 1986
+
+Registro n. 9 Istruzione, foglio n. 127

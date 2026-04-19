@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1973 n. 743
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1972 n. 407
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1973 n. 743
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1972 n. 407
 =============================================================
 
 Modificazioni allo statuto dell'Universita' cattolica del "S. Cuore" di Milano.
@@ -10,13 +10,15 @@ Modificazioni allo statuto dell'Universita' cattolica del "S. Cuore" di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' cattolica del "S. Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
+Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
@@ -28,90 +30,251 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' cattolica del "S. Cuore" di Milano, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' cattolica del "S. Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso.
 
-Dopo l'art. 97, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in oculistica.
+L'art. 11, relativo al corso di laurea in scienze politiche, e' integrato con il seguente comma:
 
-Scuola di specializzazione in oculistica
+Gli insegnamenti a scelta del piano di studi di ciascun indirizzo potranno essere individuati dalla facolta' fra quelli obbligatori in un altro indirizzo ovvero nel seguente elenco:
 
-Art. 98. - Il corso di studi della scuola ha la durata di quattro anni. Il numero massimo degli iscritti e' di quindici per i 4 anni di corso.
+Contabilita' nazionale;
 
-Art. 99. - Gli insegnamenti impartiti nella scuola sono:
+Demografia;
 
-1° Anno:
+Diritto amministrativo internazionale;
 
-Anatomia ed istologia dell'apparato oculare;
+Diritto canonico;
 
-Nozioni di embriologia e genetica oculare;
+Diritto delle Comunita' europee;
 
-Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;
+Diritto diplomatico e consolare;
 
-Nozioni di ottica fisiologica esame della refrazione;
+Diritto ecclesiastico italiano e comparato;
 
-Microbiologia ed igiene oculare.
+Diritto dell'economia;
 
-2° Anno:
+Diritto degli enti locali;
 
-Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmoscopia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);
+Diritto finanziario;
 
-Farmacologia oculare, terapia fisica;
+Diritto internazionale del lavoro;
 
-Anatomia patologica oculare;
+Diritto internazionale privato;
 
-Patologia e clinica oculare (malattia delle palpebre e della congiuntiva, delle vie lacrimali, della cornea e della selera).
+Diritto del lavoro;
 
-3° Anno:
+Diritto parlamentare;
 
-Patologia e clinica oculare (malattia dell'uvea della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);
+Diritto pubblico comparato;
 
-Anomalie e patologia della motilita' oculare e della visione binoculare; ortottica e pleottica;
+Diritto regionale;
 
-Affezioni otorinolaringoiatriche e occhio;
+Diritto degli scambi internazionali;
 
-Tecnica operatoria (1ª parte).
+Diritto tributario;
 
-4° Anno:
+Dottrina dello Stato;
 
-Neuroftalmologia;
+Econometria;
 
-Malattie oculari in rapporto ad affezioni generali;
+Economia aziendale;
 
-Malattie professionali, infortunistica e medicina legale oculare;
+Economia e politica agraria;
 
-Tecnica operatoria (2ª parte).
+Economia e politica industriale;
 
-Art. 100. - E' obbligatoria la frequenza in istituto, la partecipazione alle lezioni ed alle esercitazioni.
+Economia, e politica monetaria;
 
-Alla fine di ogni anno gli iscritti, ottenuta firma di frequenza, dovranno sostenere un esame di profitto sulle materie svolte durante l'anno.
+Economia dei trasporti;
 
-Abbreviazioni di corso possono essere concesse a coloro che dimostrino, a giudizio del direttore della scuola, una particolare preparazione oftalmologica precedente alla iscrizione.
+Economia urbanistica;
 
-Per il conseguimento del diploma di specializzazione gli iscritti, dopo aver sostenuto favorevolmente gli esami dei quattro anni, dovranno presentare e discutere una tesi scritta su un argomento di interesse oftalmologico, previamente concordato con il direttore della scuola.
+Etnologia;
+
+Geografia economica;
+
+Geografia politica;
+
+Logica;
+
+Matematica generale;
+
+Matematica per le scienze sociali;
+
+Metodologia della ricerca storica;
+
+Organizzazione e amministrazione delle grandi aziende pubbliche e private;
+
+Organizzazione economica internazionale;
+
+Pedagogia;
+
+Pianificazione e organizzazione territoriale;
+
+Politica economica e finanziaria;
+
+Politica internazionale;
+
+Principi e tecnica delle applicazioni meccanografiche ed elettroniche;
+
+Programmazione economica;
+
+Psicologia;
+
+Psicologia sociale;
+
+Ricerca operativa;
+
+Scienza dell'amministrazione;
+
+Sistema e controllo della spesa pubblica;
+
+Sociologia delle comunicazioni;
+
+Sociologia delle comunita' locali;
+
+Sociologia del diritto;
+
+Sociologia dell'educazione;
+
+Sociologia della famiglia;
+
+Sociologia del lavoro e dell'industria;
+
+Sociologia politica;
+
+Sociologia religiosa;
+
+Sociologia rurale;
+
+Sociologia urbana;
+
+Statistica per la ricerca economica;
+
+Statistica per la ricerca sociale;
+
+Storia antica;
+
+Storia dei concordati;
+
+Storia delle costituzioni;
+
+Storia del diritto internazionale;
+
+Storia del diritto italiano;
+
+Storia delle dottrine economiche;
+
+Storia dell'espansione coloniale e della decolonizzazione;
+
+Storia del giornalismo;
+
+Storia ed istituzioni dell'Europa orientale;
+
+Storia ed istituzioni del mondo musulmano;
+
+Storia ed istituzioni dei paesi dell'Africa nera;
+
+Storia ed istituzioni dell'America latina;
+
+Storia ed istituzioni dei paesi asiatici;
+
+Storia delle istituzioni economiche;
+
+Storia delle istituzioni religiose;
+
+Storia medioevale;
+
+Storia del movimento sindacale;
+
+Storia dei partiti e dei movimenti politici;
+
+Storia degli Stati Uniti d'America;
+
+Storia della storiografia;
+
+Storia dei trattati e politica internazionale;
+
+Tecnica del commercio internazionale;
+
+Tecnica dell'organizzazione e dei servizi amministrativi;
+
+Teoria generale del diritto;
+
+Teoria delle organizzazioni complesse.
+
+Art. 14: all'elenco degli insegnamenti complementari del corso di laurea in lettere e' aggiunto il seguente:
+
+Storia del giornalismo.
+
+Art. 15: all'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:
+
+Istituzioni di filosofia;
+
+Biologia generale.
+
+Art. 16: all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne, sono aggiunti i seguenti:
+
+Lingua e letteratura cecoslovacca;
+
+Lingua e letteratura bulgara.
+
+Art. 17: all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:
+
+Geografia fisica;
+
+Ecologia.
+
+Art. 21: all'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:
+
+Chimica lattiero-casearia;
+
+Chimica agraria vegetale;
+
+Colture foraggere;
+
+Tecnologia lattiero-casearia;
+
+Principi economici della produzione agricola;
+
+Politica agraria della C.E.E.;
+
+Enzimologia;
+
+Tecnologie chimiche-agrarie degli antiparassitari;
+
+Parassitologia animale e difesa degli alimenti;
+
+Zoologia agraria;
+
+Valutazione zootecnica degli alimenti.
+
+Il secondo comma dell'art. 112, relativo alla scuola di specializzazione in clinica pediatrica istituita con [decreto del Presidente della Repubblica 30 ottobre 1969, n. 956](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-10-30;956), e' modificato nel senso che il numero degli iscritti e' aumentato a trentasei per i tre anni di corso.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 25 luglio 1973
+Dato a Roma, addi' 7 giugno 1972
 
 LEONE
 
-MALFATTI
+MISASI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 23 novembre 1973 Atti di Governo, registro n. 262, foglio n. 51. - VALENTINI
+alla Corte dei conti, addi' 25 luglio 1972 Atti del Governo, registro n. 250, foglio n. 78. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' cattolica del "S. Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;  
+Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -119,49 +282,133 @@ Sulla proposta del Ministro per la pubblica istruzione;
   
 Decreta:  
   
-Lo statuto dell'Universita' cattolica del "S. Cuore" di Milano, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' cattolica del "S. Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso.  
+L'art. 11, relativo al corso di laurea in scienze politiche, e' integrato con il seguente comma:  
+Gli insegnamenti a scelta del piano di studi di ciascun indirizzo potranno essere individuati dalla facolta' fra quelli obbligatori in un altro indirizzo ovvero nel seguente elenco:  
+Contabilita' nazionale;  
+Demografia;  
+Diritto amministrativo internazionale;  
+Diritto canonico;  
+Diritto delle Comunita' europee;  
+Diritto diplomatico e consolare;  
+Diritto ecclesiastico italiano e comparato;  
+Diritto dell'economia;  
+Diritto degli enti locali;  
+Diritto finanziario;  
+Diritto internazionale del lavoro;  
+Diritto internazionale privato;  
+Diritto del lavoro;  
+Diritto parlamentare;  
+Diritto pubblico comparato;  
+Diritto regionale;  
+Diritto degli scambi internazionali;  
+Diritto tributario;  
+Dottrina dello Stato;  
+Econometria;  
+Economia aziendale;  
+Economia e politica agraria;  
+Economia e politica industriale;  
+Economia, e politica monetaria;  
+Economia dei trasporti;  
+Economia urbanistica;  
+Etnologia;  
+Geografia economica;  
+Geografia politica;  
+Logica;  
+Matematica generale;  
+Matematica per le scienze sociali;  
+Metodologia della ricerca storica;  
+Organizzazione e amministrazione delle grandi aziende pubbliche e private;  
+Organizzazione economica internazionale;  
+Pedagogia;  
+Pianificazione e organizzazione territoriale;  
+Politica economica e finanziaria;  
+Politica internazionale;  
+Principi e tecnica delle applicazioni meccanografiche ed elettroniche;  
+Programmazione economica;  
+Psicologia;  
+Psicologia sociale;  
+Ricerca operativa;  
+Scienza dell'amministrazione;  
+Sistema e controllo della spesa pubblica;  
+Sociologia delle comunicazioni;  
+Sociologia delle comunita' locali;  
+Sociologia del diritto;  
+Sociologia dell'educazione;  
+Sociologia della famiglia;  
+Sociologia del lavoro e dell'industria;  
+Sociologia politica;  
+Sociologia religiosa;  
+Sociologia rurale;  
+Sociologia urbana;  
+Statistica per la ricerca economica;  
+Statistica per la ricerca sociale;  
+Storia antica;  
+Storia dei concordati;  
+Storia delle costituzioni;  
+Storia del diritto internazionale;  
+Storia del diritto italiano;  
+Storia delle dottrine economiche;  
+Storia dell'espansione coloniale e della decolonizzazione;  
+Storia del giornalismo;  
+Storia ed istituzioni dell'Europa orientale;  
+Storia ed istituzioni del mondo musulmano;  
+Storia ed istituzioni dei paesi dell'Africa nera;  
+Storia ed istituzioni dell'America latina;  
+Storia ed istituzioni dei paesi asiatici;  
+Storia delle istituzioni economiche;  
+Storia delle istituzioni religiose;  
+Storia medioevale;  
+Storia del movimento sindacale;  
+Storia dei partiti e dei movimenti politici;  
+Storia degli Stati Uniti d'America;  
+Storia della storiografia;  
+Storia dei trattati e politica internazionale;  
+Tecnica del commercio internazionale;  
+Tecnica dell'organizzazione e dei servizi amministrativi;  
+Teoria generale del diritto;  
+Teoria delle organizzazioni complesse.  
   
-Dopo l'art. 97, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in oculistica.  
+Art. 14: all'elenco degli insegnamenti complementari del corso di laurea in lettere e' aggiunto il seguente:  
+Storia del giornalismo.  
   
-Scuola di specializzazione in oculistica  
-Art. 98. - Il corso di studi della scuola ha la durata di quattro anni. Il numero massimo degli iscritti e' di quindici per i 4 anni di corso.  
-Art. 99. - Gli insegnamenti impartiti nella scuola sono:  
-1° Anno:  
-Anatomia ed istologia dell'apparato oculare;  
-Nozioni di embriologia e genetica oculare;  
-Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;  
-Nozioni di ottica fisiologica esame della refrazione;  
-Microbiologia ed igiene oculare.  
-2° Anno:  
-Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmoscopia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);  
-Farmacologia oculare, terapia fisica;  
-Anatomia patologica oculare;  
-Patologia e clinica oculare (malattia delle palpebre e della congiuntiva, delle vie lacrimali, della cornea e della selera).  
-3° Anno:  
-Patologia e clinica oculare (malattia dell'uvea della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);  
-Anomalie e patologia della motilita' oculare e della visione binoculare; ortottica e pleottica;  
-Affezioni otorinolaringoiatriche e occhio;  
-Tecnica operatoria (1ª parte).  
-4° Anno:  
-Neuroftalmologia;  
-Malattie oculari in rapporto ad affezioni generali;  
-Malattie professionali, infortunistica e medicina legale oculare;  
-Tecnica operatoria (2ª parte).  
-Art. 100. - E' obbligatoria la frequenza in istituto, la partecipazione alle lezioni ed alle esercitazioni.  
-Alla fine di ogni anno gli iscritti, ottenuta firma di frequenza, dovranno sostenere un esame di profitto sulle materie svolte durante l'anno.  
-Abbreviazioni di corso possono essere concesse a coloro che dimostrino, a giudizio del direttore della scuola, una particolare preparazione oftalmologica precedente alla iscrizione.  
-Per il conseguimento del diploma di specializzazione gli iscritti, dopo aver sostenuto favorevolmente gli esami dei quattro anni, dovranno presentare e discutere una tesi scritta su un argomento di interesse oftalmologico, previamente concordato con il direttore della scuola.  
+Art. 15: all'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:  
+Istituzioni di filosofia;  
+Biologia generale.  
+  
+Art. 16: all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne, sono aggiunti i seguenti:  
+Lingua e letteratura cecoslovacca;  
+Lingua e letteratura bulgara.  
+  
+Art. 17: all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:  
+Geografia fisica;  
+Ecologia.  
+  
+Art. 21: all'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:  
+Chimica lattiero-casearia;  
+Chimica agraria vegetale;  
+Colture foraggere;  
+Tecnologia lattiero-casearia;  
+Principi economici della produzione agricola;  
+Politica agraria della C.E.E.;  
+Enzimologia;  
+Tecnologie chimiche-agrarie degli antiparassitari;  
+Parassitologia animale e difesa degli alimenti;  
+Zoologia agraria;  
+Valutazione zootecnica degli alimenti.  
+  
+Il secondo comma dell'art. 112, relativo alla scuola di specializzazione in clinica pediatrica istituita con [decreto del Presidente della Repubblica 30 ottobre 1969, n. 956](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-10-30;956), e' modificato nel senso che il numero degli iscritti e' aumentato a trentasei per i tre anni di corso.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 luglio 1973
+### Dato a Roma, addi' 7 giugno 1972
 
-LEONE MALFATTI
+LEONE MISASI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 23 novembre 1973
+Registrato alla Corte dei conti, addi' 25 luglio 1972
 
-Atti di Governo, registro n. 262, foglio n. 51. - VALENTINI
+Atti del Governo, registro n. 250, foglio n. 78. - CARUSO

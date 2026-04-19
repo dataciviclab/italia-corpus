@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 557
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 giugno 1984 n. 561
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 557
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 giugno 1984 n. 561
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi "La Sapienza" di Roma, approvato con [regio decreto 14 ottobre 1926, n. 2319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2319), e successive modificazioni;
+Veduto lo statuto dell'Universita' "La Sapienza" di Roma, approvato con [regio decreto 14 ottobre 1926, n. 2319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2319), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -33,34 +33,24 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' degli studi "La Sapienza" di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' "La Sapienza" di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Art. 92 - nell'elenco degli insegnanti complementari del corso di laurea in medicina e chirurgia sono inseriti i seguenti insegnamenti: auxologia;  
-gastroenterologia pediatrica;  
-neonatologia;  
-biochimica cellulare;  
-metodologia biochimica;  
-ginecologia dell'infanzia e dell'adolescenza;  
-semeiotica ostetrica;  
-chimica clinica;  
-analisi biologiche e di laboratorio;  
-epidemiologia;  
-tossicologia forense.  
+Art. 53 - all'elenco degli insegnamenti complementari del corso di laurea in scienze statistiche e demografiche e' aggiunto l'insegnamento di "relazioni industriali".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 giugno 1983
+### Dato a Roma, addi' 21 giugno 1984
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 4 ottobre 1983
+Registrato alla Corte dei conti, addi' 24 agosto 1984
 
-Registro n. 65 Istruzione, foglio n. 5
+Registro n. 51 Istruzione, foglio n. 84

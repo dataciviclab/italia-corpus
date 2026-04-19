@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1954 n. 402
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1084
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1954 n. 402
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1084
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
@@ -10,9 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [regio decreto 12 ottobre 1927, n. 2255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-12;2255), e modificato con [regi decreti 15 novembre 1928, n. 2606](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-11-15;2606); [31 ottobre 1929, n. 2400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2400);
-
-1 ottobre 1931, n. 1372; 27 ottobre 1932, n. 2062; 27 dicembre 1934, n. 2448; 27 ottobre 1936, n. 2457; 27 marzo 1939, n. 1296; 9 maggio 1939, n. 1469; 26 ottobre 1940, n. 2065; 27 aprile 1942, n. 470 e 5 settembre 1942, n. 1266 e con [decreti del Presidente della Repubblica 30 ottobre 1949, n. 1028](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1028); [18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964); [25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207) e [10 febbraio 1953, n. 377](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;377);
+Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,214 +18,78 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 19. - Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di "esegesi delle fonti del diritto romano".
+Articolo unico
+--------------
 
-Art. 28. - E' sostituito dal seguente:
-
-"La Facolta' di scienze matematiche, fisiche e naturali, conferisce:
-
-a) la laurea in scienze matematiche;
-
-b) la laurea in matematica e fisica;
-
-c) la laurea in fisica;
-
-d) la laurea in chimica;
-
-e) la laurea in scienze naturali;
-
-f) la laurea in scienze biologiche.
-
-La Facolta' comprende inoltre il corso biennale di studi propedeutici per le lauree in ingegneria.
-
-La durata degli studi per i corsi di laurea in scienze matematiche, in matematica e fisica, in fisica, in scienze naturali e in scienze biologiche, e' di quattro anni.
-
-La durata degli studi per il corso di laurea: in chimica e' di cinque anni, divisi in un biennio di studi propedeutici e in un triennio di studi di applicazione.
-
-Titolo di ammissione a tutti i corsi di laurea e' il diploma di maturita' classica o di maturita' scientifica".
-
-Dopo l'art. 37 sono aggiunti i seguenti nuovi articoli relativi all'istituzione del corso di laurea in fisica, con lo spostamento della numerazione degli articoli successivi.
-
-Laurea in fisica
-
-Art. 38. - Le materie di insegnamento per la laurea in fisica sono le seguenti:
-
-Sono insegnamenti fondamentali:
-
-1) Analisi matematica (algebrica e infinitesimale) (biennale);
-
-2) Geometria analitica con elementi di proiettiva;
-
-3) Analisi superiore;
-
-4) Meccanica razionale - con elementi di statica grafica;
-
-5) Fisica sperimentale (biennale);
-
-6) Esercitazioni di fisica sperimentale (triennale)
-
-7) Fisica matematica;
-
-8) Fisica teorica;
-
-9) Fisica superiore;
-
-10) Chimica fisica;
-
-11) Chimica generale ed inorganica con elementi di organica;
-
-12) Preparazioni chimiche.
-
-Sono insegnamenti complementari:
-
-1) Chimica organica;
-
-2) Spettroscopia;
-
-3) Mineralogia;
-
-4) Astronomia;
-
-5) Calcolo delle probabilita';
-
-6) Fisica terrestre;
-
-7) Geodesia;
-
-8) Radioattivita'.
-
-Agli effetti dell'iscrizione e degli esami, sono da considerarsi materie propedeutiche rispetto a tutte le altre, le seguenti materie:
-
-analisi matematica (algebrica ed infinitesimale), geometria analitica con elementi di proiettiva, meccanica razionale con elementi di statica grafica, fisica sperimentale, chimica generale ed inorganica con elementi di organica, per cui lo studente deve superare gli esami di queste discipline, prima di essere ammesso agli altri esami.
-
-L'insegnamento biennale di "analisi matematica", importa due esami distinti.
-
-Gli insegnamenti di analisi matematica (algebrica ed infinitesimale), geometria analitica con elementi di proiettiva, e meccanica razionale comportano ognuno un corso annuale di esercizi.
-
-L'insegnamento biennale di "fisica sperimentale" importa un unico esame alla fine del biennio; le esercitazioni di fisica sperimentale (triennale) importano un esame alla fine di ogni anno.
-
-Art. 39. - I laureati in scienze matematiche, in matematica e fisica, sono iscritti al quarto anno del corso di laurea in fisica, con la convalida degli esami comuni superati.
-
-I laureati in ingegneria, possono essere ammessi al quarto anno di fisica purche' abbiano frequentato almeno due corsi del secondo biennio di scienze matematiche o di matematica e fisica.
-
-Coloro che siano forniti di altra laurea, purche' in possesso del diploma di maturita' valido per l'iscrizione al corso di laurea in fisica, possono essere iscritti al secondo anno di corso purche' abbiano frequentato un numero di corsi di scienze matematiche o di matematica e fisica ritenuto sufficiente dal Consiglio della facolta'.
-
-Il Consiglio di facolta' determina, caso per caso, quali fra gli esami gia' superati per il conseguimento di altra laurea, possono essere convalidati ai fini del conseguimento della laurea in fisica.
-
-Art. 40. - Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in due da lui scelti fra i complementari.
-
-Art. 41. - L'esame di laurea consiste in:
-
-discussione orale, in seduta di laurea, di una dissertazione scritta a carattere scientifico o di compilazione sulle scienze fisiche, su tema scelto dal candidato ed approvato dal professore della materia, depositato in segreteria in duplice copia almeno venti giorni prima del termine fissato per l'inizio dell'esame di laurea e in due tesine orali su tre scelte dal candidato tra le discipline insegnate per il conseguimento della laurea.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 8 febbraio 1954
-
-EINAUDI
-
-TOSATO
-
-Visto, il Guardasigilli: DE PIETRO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 3 Luglio 1954 Atti del Governo, registro n. 84, foglio n. 12. - CARLOMAGNO
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [regio decreto 12 ottobre 1927, n. 2255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-12;2255), e modificato con [regi decreti 15 novembre 1928, n. 2606](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1928-11-15;2606); [31 ottobre 1929, n. 2400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1929-10-31;2400);   
-[1 ottobre 1931, n. 1372](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-01;1372); [27 ottobre 1932, n. 2062](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-10-27;2062); [27 dicembre 1934, n. 2448](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-27;2448); [27 ottobre 1936, n. 2457](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-27;2457); [27 marzo 1939, n. 1296](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-03-27;1296); [9 maggio 1939, n. 1469](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-05-09;1469); [26 ottobre 1940, n. 2065](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2065); [27 aprile 1942, n. 470](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-04-27;470) e [5 settembre 1942, n. 1266 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-09-05;1266) [30 ottobre 1949, n. 1028](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1028); [18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964); [25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207) e [10 febbraio 1953, n. 377](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;377);   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Dopo l'art. 308, sono aggiunti i seguenti articoli relativi all'istituzione del centro di studi biomedici applicati allo sport:  
   
-Decreta:   
+Centro di studi biomedici applicati allo sport.  
   
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 19. - Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di "esegesi delle fonti del diritto romano".   
-Art. 28. - E' sostituito dal seguente:   
-"La Facolta' di scienze matematiche, fisiche e naturali, conferisce:   
-a) la laurea in scienze matematiche;   
-b) la laurea in matematica e fisica;   
-c) la laurea in fisica;   
-d) la laurea in chimica;   
-e) la laurea in scienze naturali;   
-f) la laurea in scienze biologiche.   
-La Facolta' comprende inoltre il corso biennale di studi propedeutici per le lauree in ingegneria.   
-La durata degli studi per i corsi di laurea in scienze matematiche, in matematica e fisica, in fisica, in scienze naturali e in scienze biologiche, e' di quattro anni.   
-La durata degli studi per il corso di laurea: in chimica e' di cinque anni, divisi in un biennio di studi propedeutici e in un triennio di studi di applicazione.   
-Titolo di ammissione a tutti i corsi di laurea e' il diploma di maturita' classica o di maturita' scientifica".   
-Dopo l'art. 37 sono aggiunti i seguenti nuovi articoli relativi all'istituzione del corso di laurea in fisica, con lo spostamento della numerazione degli articoli successivi.   
-  
-Laurea in fisica   
-  
-Art. 38. - Le materie di insegnamento per la laurea in fisica sono le seguenti:   
-Sono insegnamenti fondamentali:   
-1) Analisi matematica (algebrica e infinitesimale) (biennale);   
-2) Geometria analitica con elementi di proiettiva;   
-3) Analisi superiore;   
-4) Meccanica razionale - con elementi di statica grafica;   
-5) Fisica sperimentale (biennale);   
-6) Esercitazioni di fisica sperimentale (triennale)   
-7) Fisica matematica;   
-8) Fisica teorica;   
-9) Fisica superiore;   
-10) Chimica fisica;   
-11) Chimica generale ed inorganica con elementi di organica;   
-12) Preparazioni chimiche.   
-Sono insegnamenti complementari:   
-1) Chimica organica;   
-2) Spettroscopia;   
-3) Mineralogia;   
-4) Astronomia;   
-5) Calcolo delle probabilita';   
-6) Fisica terrestre;   
-7) Geodesia;   
-8) Radioattivita'.   
-Agli effetti dell'iscrizione e degli esami, sono da considerarsi materie propedeutiche rispetto a tutte le altre, le seguenti materie:   
-analisi matematica (algebrica ed infinitesimale), geometria analitica con elementi di proiettiva, meccanica razionale con elementi di statica grafica, fisica sperimentale, chimica generale ed inorganica con elementi di organica, per cui lo studente deve superare gli esami di queste discipline, prima di essere ammesso agli altri esami.   
-L'insegnamento biennale di "analisi matematica", importa due esami distinti.   
-Gli insegnamenti di analisi matematica (algebrica ed infinitesimale), geometria analitica con elementi di proiettiva, e meccanica razionale comportano ognuno un corso annuale di esercizi.   
-L'insegnamento biennale di "fisica sperimentale" importa un unico esame alla fine del biennio; le esercitazioni di fisica sperimentale (triennale) importano un esame alla fine di ogni anno.   
-Art. 39. - I laureati in scienze matematiche, in matematica e fisica, sono iscritti al quarto anno del corso di laurea in fisica, con la convalida degli esami comuni superati.   
-I laureati in ingegneria, possono essere ammessi al quarto anno di fisica purche' abbiano frequentato almeno due corsi del secondo biennio di scienze matematiche o di matematica e fisica.   
-Coloro che siano forniti di altra laurea, purche' in possesso del diploma di maturita' valido per l'iscrizione al corso di laurea in fisica, possono essere iscritti al secondo anno di corso purche' abbiano frequentato un numero di corsi di scienze matematiche o di matematica e fisica ritenuto sufficiente dal Consiglio della facolta'.   
-Il Consiglio di facolta' determina, caso per caso, quali fra gli esami gia' superati per il conseguimento di altra laurea, possono essere convalidati ai fini del conseguimento della laurea in fisica.   
-Art. 40. - Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in due da lui scelti fra i complementari.   
-Art. 41. - L'esame di laurea consiste in:   
-discussione orale, in seduta di laurea, di una dissertazione scritta a carattere scientifico o di compilazione sulle scienze fisiche, su tema scelto dal candidato ed approvato dal professore della materia, depositato in segreteria in duplice copia almeno venti giorni prima del termine fissato per l'inizio dell'esame di laurea e in due tesine orali su tre scelte dal candidato tra le discipline insegnate per il conseguimento della laurea.   
+Art. 309. - Presso l'Universita' di Ferrara e' istituito il centro di studi biomedici applicati allo sport.  
+Art. 310. - Gli scopi del centro sono:  
+a) lo studio dei meccanismi biologici che intervengono nell'attivita' motoria, dell'uomo;  
+b) lo studio dei meccanismi biologici impiegati nelle varie discipline sportive;  
+c) lo studio dei tipi di allenamento in grado di potenziare i meccanismi biologici delle varie discipline sportive;  
+d) l'identificazione di carenze di fattori nutrizionali in corso di attivita' fisica;  
+e) lo studio della prevenzione delle patologie osteomuscolo-tendinee dello sportivo;  
+f) il trasferimento alla educazione, rieducazione e riabilitazione fisica delle informazioni ottenute sui praticanti lo sport agonistico;  
+g) l'organizzazione di corsi teorico-pratici per la diffusione delle informazioni biomediche ottenute sia presso il centro che presso analoghi centri di ricerca italiani e stranieri.  
+Art. 311. - Organi di governo del centro sono:  
+a) il consiglio direttivo;  
+b) il direttore del centro.  
+Art. 312. - Il consiglio direttivo e' costituito da almeno tre professori di ruolo della facolta' di medicina e chirurgia dell'Universita' di Ferrara.  
+I membri del consiglio direttivo sono nominati dal rettore su proposta della facolta' di medicina e chirurgia, durano in carica un triennio e possono essere rinominati.  
+Il consiglio direttivo e' presieduto dal direttore del centro.  
+Art. 313. - Compiti del consiglio direttivo sono:  
+a) proporre al rettore la nomina del direttore del centro scelto tra i membri del consiglio stesso;  
+b) coordinare i programmi e l'attivita' del centro;  
+c) deliberare sulla relazione annuale del direttore del centro.  
+Il consiglio direttivo si riunisce in seduta ordinaria almeno una volta all'anno e ogni qualvolta il direttore lo ritenga opportuno o uno dei suoi membri ne faccia richiesta motivata al direttore.  
+Art. 314. - Il direttore del centro e' nominato dal rettore su proposta del consiglio direttivo, che lo sceglie tra i suoi membri.  
+Il direttore dura in carica tre anni e puo' essere rinominato.  
+Compiti del direttore sono:  
+a) curare l'attivita' del centro sulla base dei programmi elaborati dal consiglio direttivo;  
+b) dare esecuzione alle delibere del consiglio direttivo;  
+c) predisporre, quanto necessario per il buon funzionamento del centro stesso;  
+d) preparare alla fine di ogni anno una relazione sull'attivita' del centro che viene esaminata ed approvata dal consiglio direttivo ed inoltrata al rettore e al preside della facolta' di medicina e chirurgia.  
+Art. 315. - Il direttore del centro e' responsabile della gestione amministrativa e contabile del centro stesso, in conformita' alle norme del regolamento per l'amministrazione e la contabilita' generale dell'Universita' di Ferrara.  
+(Tit. IV).  
+Art. 316. - Il centro dispone per il suo funzionamento di contributi concessi dall'Universita' sul proprio bilancio.  
+Il centro potra' altresi' usufruire, per il tramite dell'amministrazione universitaria, di finanziamenti provenienti da erogazioni di enti pubblici e privati interessati alle finalita' istituzionali e scientifiche sia di base che applicate.  
+Art. 317. - Nell'ambito di rapporti convenzionali che l'Universita' potra' stipulare, ai sensi della normativa vigente, per il funzionamento del centro con enti pubblici e privati, potranno essere previste anche attivita' di ricerca di operatori sportivi e di studiosi italiani e stranieri di discipline biomediche applicate allo sport.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 febbraio 1954
+### Dato a Roma, addi' 31 dicembre 1985
 
-EINAUDI TOSATO
+COSSIGA
 
-Visto, il Guardasigilli: DE PIETRO
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 3 Luglio 1954
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Atti del Governo, registro n. 84, foglio n. 12. - CARLOMAGNO
+Registrato alla Corte dei conti, addi' 10 maggio 1986
+
+Registro n. 36 Istruzione, foglio n. 200

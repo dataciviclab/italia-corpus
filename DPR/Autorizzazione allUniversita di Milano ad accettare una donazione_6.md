@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1950 n. 1163
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1951 n. 1764
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1950 n. 1163
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1951 n. 1764
 ===============================================================
 
 Autorizzazione all'Universita' di Milano ad accettare una donazione.
@@ -12,7 +12,8 @@ Art. 1
 
 N.
 
-1163. Decreto del Presidente della Repubblica 25 ottobre 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Milano viene autorizzata ad accettare la donazione della somma di L. 100.000 nominali, in titoli di Stato 5% e di L. 10.000 in contanti, disposta in suo favore dal rag. Mario Ceccherini, con atto pubblico amministrativo in data 16 maggio 1947, per l'istituzione di un premio di studio biennale da intitolarsi al nome di "Arnaldo Ceccherini" e da conferirsi, ogni due anni, ad uno studente della Facolta' di giurisprudenza dell'Universita' stessa, bisognoso e meritevole.  
+1764. Decreto del Presidente della Repubblica 1 ottobre 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Milano viene autorizzata ad accettare la donazione della somma di L. 1.000.000 da investirsi in titoli di Stato 5%, disposta in suo favore dalla Societa' "Itala" Fabbrica cateteri e tubi flessibili di Somma Lombardo, coi atto pubblico amministrativo in data 13 aprile 1951, per l'istituzione con la rendita del capitale donato, di un premio di studio annuale da intitolarsi "Premio Angelo Bellini - Fabbrica cateteri - Itala" e da conferirsi al miglior lavoro scientifico, inedito, di argomento dermosifilopatico, presentato da un medico italiano regolarmente iscritto all'albo professionale.  
   
-Visto, il Guardasigilli: SEGNI  
-Registrato alla Corte dei conti, addi' 10 febbraio 1951
+Visto, il Guardasigilli: ZOLI  
+Registrato alla Corte dei conti, addi' 7 marzo 1952  
+Atti del Governo, registro n. 50, foglio n. 70. - FRASCA

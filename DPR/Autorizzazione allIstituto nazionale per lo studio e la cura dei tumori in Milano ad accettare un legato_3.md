@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1986 n. 675
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1986 n. 683
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1986 n. 675
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1986 n. 683
 =============================================================
 
 Autorizzazione all'Istituto nazionale per lo studio e la cura dei tumori, in Milano, ad accettare un legato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-675. Decreto del Presidente della Repubblica 8 luglio 1986, col quale, sulla proposta del Ministro della sanita', l'Istituto nazionale per lo studio e la cura dei tumori, in Milano, viene autorizzato ad accettare il legato, consistente nella somma di L. 10.000.000, disposto dal sig. Manito Bianchi con testamento olografo pubblicato in data 5 gennaio 1984, n. 107434 di repertorio, a rogito dott. Luigi Maneschi, notaio in Massa, registrato a Massa in data 24 gennaio 1984 al n. 209, da destinare al perseguimento dei propri fini istituzionali.   
+683. Decreto del Presidente della Repubblica 4 agosto 1986, col quale, sulla proposta del Ministro della sanita', l'Istituto nazionale per lo studio e la cura dei tumori, in Milano, viene autorizzato ad accettare il legato, consistente in un terreno sito nel comune di Borgomasino (Torino), del periziato valore di L. 22.000.000, come da nota dell'ufficio tecnico erariale di Torino del 23 novembre 1984, disposto dalla sig.ra Anna Pellegrino con testamento olografo 1 gennaio 1982, pubblicato in data 17 novembre 1982, n. 42927/18764 di repertorio, a rogito dott. Aldo Fabbi, notaio in Strambino (Torino), registrato a Ivrea (Torino) in data 1 dicembre 1982 al n. 5481.   
   
 Visto, il Guardasigilli: ROGNONI   
 Registrato alla Corte dei conti, addi' 9 ottobre 1986   
-Registro n. 10 Sanita', foglio n. 70
+Registro n. 10 Sanita', foglio n. 71

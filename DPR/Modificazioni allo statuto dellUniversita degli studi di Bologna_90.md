@@ -1,101 +1,86 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1979 n. 544
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 maggio 1972 n. 357
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1979 n. 544
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 maggio 1972 n. 357
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio universitario nazionale della pubblica istruzione nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale della pubblica istruzione;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA   
   
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Gli articoli da 210 a 225, relativi al corso di perfezionamento in diritto sanitario, che muta denominazione in scuola di perfezionamento in diritto sanitario, sono sostituiti dai seguenti con il conseguente spostamento della numerazione degli articoli successivi:   
+Decreta:   
   
-Scuola di perfezionamento in diritto sanitario   
-Art. 210. - Alla facolta' di giurisprudenza e' annessa una scuola di perfezionamento in diritto sanitario.   
-Art. 211. - La scuola ha lo scopo di conferire una preparazione specializzata a quanti ricoprono posti di responsabilita' in campo sanitario, o vi aspirino; nonche' a quanti desiderino acquisire scienza e consapevolezza della particolare posizione giuridica del settore.   
-Per gli scopi di cui alla seconda parte del precedente comma la scuola puo' anche organizzare corsi speciali, di durata varia, eventualmente su richiesta e d'intesa con il Ministero della sanita', le regioni e le unita' sanitarie locali interessate, volti all'approfondimento o all'aggiornamento delle conoscenze su argomenti specifici d'interesse giuridico sanitario.   
-Art. 212. - La scuola ha durata biennale e possono esservi iscritti, a norma dell'[art. 145 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art145), i laureati.   
-Gli allievi che abbiano frequentato il primo anno e sulle materie dello stesso abbiano sostenuto un colloquio finale con esito favorevole, possono ottenere un certificato di frequenza e profitto.   
-Art. 213. - Sono organi della scuola: il direttore e il consiglio dei professori.   
-Il direttore e' nominato dal rettore per un triennio su designazione del consiglio della facolta' di giurisprudenza fra i propri membri professori di ruolo o fuori ruolo, ed e' sempre riconfermabile.   
-Il consiglio dei professori, convocato e presieduto dal direttore, regola e coordina i programmi di insegnamento e fissa calendario e criteri per le lezioni e gli esami.   
-Art. 214. - Gli insegnamenti sono ripartiti come segue:   
-1° Anno - obbligatori:   
-diritto costituzionale e sanita' pubblica;   
-diritto amministrativo e sanita' pubblica;   
-organizzazione sanitaria italiana;   
-organizzazione sanitaria internazionale;   
-polizia sanitaria;   
-professioni e arti sanitarie;   
-responsabilita' sanitaria penale;   
-responsabilita' sanitaria civile;   
-deontologia sanitaria;   
-diritto farmaceutico;   
-ambiente di lavoro e sicurezza sociale;   
-diritto sanitario regionale;   
-organizzazione ospedaliera;   
-disciplina del rapporto di impiego sanitario.   
-2° Anno - complementari (almeno cinque, per non meno di trenta ore):   
-giustizia amministrativa;   
-tutela contro le radiazioni ionizzanti;   
-legislazione su alimenti e bevande;   
-sociologia sanitaria;   
-ricerca e programmazione sanitaria;   
-statistica sanitaria;   
-urbanistica ospedaliera;   
-disciplina antinquinamento e igiene degli abitati;   
-disciplina dei trapianti;   
-disciplina sulle droghe;   
-disciplina dei trattamenti sanitari;   
-legislazione sanitaria scolastica e sportiva;   
-legislazione sanitaria militare, marittima ed aerea.   
-Nel secondo anno l'insegnamento e' integrato da conferenze, seminari, visite di istruzione guidate.   
-Gli esami di profitto, sostenuti davanti ad apposite commissioni, devono riguardare distintamente le materie obbligatorie ed a scelta.   
-L'affidamento di ore di lezione avviene su proposta del direttore, fatta propria dal consiglio della facolta' di giurisprudenza.   
-Art. 215. - Finanziano la scuola: il Ministero della sanita' ([legge 3 dicembre 1962, n. 1711](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-03;1711)); le tasse di iscrizione e frequenza e le soprattasse d'esame; i contributi e le erogazioni a qualunque titolo dello Stato, di enti e di privati.   
-Tasse, soprattasse e contributi degli allievi sono disciplinati dagli articoli 193 e 194 dello statuto.   
+Lo statuto dell'Universita' di Bologna, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:   
+L'art. 343, relativo alla scuola di specializzazione in ingegneria mineraria, e' abrogato e sostituito dal seguente:   
+Art. 343. - Il piano degli studi della scuola e' il seguente:   
   
-Art. 216. - Gli allievi che abbiano frequentato il corso annuale di perfezionamento in diritto sanitario potranno, salvi gli esami di cui all'art. 214, terzo comma, ottenere la iscrizione al secondo anno   
-della scuola   
+1° Anno:   
+Mineralogia;   
+Geologia;   
+Giacimenti minerari;   
+Geofisica mineraria;   
+Arte mineraria;   
+Petrografia (sem.)   
+2° Anno:   
+Meccanica dei giacimenti di idrocarburi;   
+Tecnica dei sondaggi;   
+Legislazione mineraria (sem.);   
+e due corsi a scelta fra i seguenti:   
+Impianti minerari;   
+Preparazione dei minerali;   
+Meccanica delle rocce;   
+Produzione e trasporto degli idrocarburi;   
+Misure e controlli nei giacimenti di idrocarburi.   
+  
+Gli articoli 375 e 376 (gia' 227 e 228), relativi alla scuola di specializzazione in ingegneria e tecnica nucleare, sono abrogati e sostituiti dai seguenti:   
+Art. 375. - Le materie di insegnamento della scuola sono:   
+  
+1° Anno:   
+Metodi matematici dell'ingegneria nucleare;   
+Metodi quantistici della fisica nucleare;   
+Principi fisici di conversione diretta della energia;   
+Scienza dei materiali;   
+Teoria dei reattori nucleari;   
+Teoria molecolare dei gas e dei liquidi.   
+  
+2° Anno:   
+Dinamica e controllo dei reattori nucleari;   
+Effetti delle radiazioni sui materiali;   
+Fisica dei plasmi e fusione termonucleare;   
+Ingegneria dei sistemi nucleari;   
+Ingegneria del reattore nucleare;   
+Metodi avanzati di progettazione neutronica dei reattori nucleari;   
+Metodi sperimentali di fisica del reattore nucleare.   
+  
+Durante l'anno accademico verranno tenuti, secondo un piano fissato dal direttore della scuola, udito il consiglio della medesima, colloqui e seminari inerenti alle materie di insegnamento previsti.   
+Art. 376. - Per il conseguimento del diploma di specializzazione di cui al comma a) e b) dell'art. 372, gli iscritti dovranno seguire, superando i relativi esami, almeno quattro delle materie previste per il primo anno e quattro di quelle previste per il secondo anno (come sara' indicato, sentito l'iscritto, dal consiglio della scuola). Gli iscritti dovranno inoltre svolgere, durante il secondo anno di corso, un lavoro di ricerca o progetto nell'ambito e per conto della scuola e scrivere sotto forma di tesi, una relazione riguardante tale lavoro.   
+Per l'iscrizione al secondo anno di corso gli iscritti dovranno avere superato gli esami relativi ad almeno tre delle materie previste per il primo anno.   
+Per il conseguimento dell'attestato di frequenza e profitto di perfezionamento di cui al comma c) dell'art. 372 gli iscritti dovranno seguire, superando i relativi esami, almeno quattro delle sette materie previste nel precedente articolo per il 2° anno (come sara' indicato, sentito l'iscritto, dal consiglio della scuola).   
+Gli iscritti inoltre dovranno svolgere un lavoro di ricerca o progetto nell'ambito e per conto della scuola e scrivere, sotto forma di tesi, una relazione riguardante tale lavoro.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 ottobre 1979
+### Dato a Roma, addi' 10 maggio 1972
 
-PERTINI VALITUTTI
+LEONE MISASI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 30 ottobre 1979
+Registrato alla Corte dei conti, addi' 25 luglio 1972
 
-Registro n. 80 Istruzione, foglio n. 128
+Atti del Governo, registro n. 250, foglio n. 76. - CARUSO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 gennaio 1966 n. 40
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 dicembre 1965 n. 1566
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 gennaio 1966 n. 40
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 dicembre 1965 n. 1566
+================================================================
 
 Riconoscimento, agli effetti civili, della erezione della Parrocchia di Santa Barbara V. e M., nel comune di Iglesias (Cagliari).
 ---------------------------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-40. Decreto del Presidente della Repubblica 17 gennaio 1966, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Iglesias in data 1 maggio 1926, integrato con altro decreto del 7 maggio 1955 e con due dichiarazioni dell'11 gennaio 1965, relativo alla erezione della Parrocchia di Santa Barbara V. e M., in frazione Nebida del comune di Iglesias (Cagliari).  
+1566. Decreto del Presidente della Repubblica 6 dicembre 1965, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Iglesias in data 1 maggio 1926, integrato con altro decreto del 21 marzo 1963 e con due dichiarazioni entrambe del 1 agosto 1964, relativo alla erezione della Parrocchia di Santa Barbara V. e M. in frazione Monteponi del comune di Iglesias (Cagliari).  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 7 febbraio 1966  
-Atti del Governo, registro n. 201, foglio n. 33. - VILLA
+Registrato alla Corte dei conti, addi' 18 gennaio 1966  
+Atti del Governo, registro n. 199, foglio n. 91. - VILLA

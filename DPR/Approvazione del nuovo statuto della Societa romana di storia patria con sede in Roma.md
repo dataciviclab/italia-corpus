@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1961 n. 1570
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1950 n. 1161
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1961 n. 1570
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1950 n. 1161
 ===============================================================
 
 Approvazione del nuovo statuto della Societa' romana di storia patria, con sede in Roma.
@@ -12,8 +12,7 @@ Art. 1
 
 N.
 
-1570. Decreto del Presidente della Repubblica 17 ottobre 1961, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvato il nuovo statuto della Societa' romana di storia patria, con sede in Roma.  
+1161. Decreto del Presidente della Repubblica 25 ottobre 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvato il nuovo statuto della Societa' romana di storia patria, con sede in Roma.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 2 febbraio 1962  
-Atti del Governo, registro n. 143, foglio n. 113. - VILLA
+Visto, il Guardasigilli: PICCIONI  
+Registrato alla Corte dei conti, addi' 3 febbraio 1951

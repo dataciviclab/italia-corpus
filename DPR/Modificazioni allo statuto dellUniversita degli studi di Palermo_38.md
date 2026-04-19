@@ -1,113 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1969 n. 781
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 marzo 1968 n. 570
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1969 n. 781
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 marzo 1968 n. 570
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 122. - All'elenco delle scuole di specializzazione che conferiscono il diploma di specialista nelle discipline professionali medico-chirurgiche, e' aggiunta la scuola di specializzazione in odontoiatria e protesi dentaria.
-
-Dopo l'articolo 156 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in odontoiatria e protesi dentaria.
-
-Scuola di specializzazione in odontoiatria e protesi dentaria
-
-Art. 157. - Durata: tre anni. Numero massimo di iscritti: dieci per ogni anno di corso per un totale di 30 specializzandi.
-
-1° Anno:
-
-Embriologia ed anatomia dentaria e maxillo-facciale Microbiologia e igiene orale;
-
-Farmacologia;
-
-Patologia odontostomatologica;
-
-Odontotecnica;
-
-Anestesia e chirurgia stomatologica;
-
-Odontoiatria conservativa (biennale).
-
-2° Anno:
-
-Odontoiatria conservativa (biennale);
-
-Clinica protesica dentaria e maxillo-facciale (biennale);
-
-Parodontologia (biennale);
-
-Anatomia e istopatologia odontostomatologica;
-
-Odontoiatria infantile;
-
-Radiologia odontostomatologica;
-
-Ortopedia dento-maxillo-facciale (biennale);
-
-Chirurgia maxillo-facciale (biennale).
-
-3° Anno:
-
-Clinica odontostomatologica;
-
-Chirurgia maxillo-facciale (biennale);
-
-Medicina legale odontostomatologica e delle assicurazioni;
-
-Ortopedia dento-maxillo-facciale (biennale);
-
-Parodontologia (biennale);
-
-Clinica protesica dentaria e maxillo-facciale (biennale).
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 8 ottobre 1969
-
-SARAGAT
-
-FERRARI AGGRADI
-
-Visto, il Guardasigilli: GAVA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 6 novembre 1969 Atti del Governo, registro n. 230, foglio n. 11. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 14 ottobre 1926, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2240), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), Convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -116,46 +25,145 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 122. - All'elenco delle scuole di specializzazione che conferiscono il diploma di specialista nelle discipline professionali medico-chirurgiche, e' aggiunta la scuola di specializzazione in odontoiatria e protesi dentaria.  
-Dopo l'articolo 156 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in odontoiatria e protesi dentaria.  
   
-Scuola di specializzazione in odontoiatria e protesi dentaria  
+Art. 23. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di "Archeologia cristiana"; "Storia e critica del cinema"; "Storia della lingua francese"; "Filologia classica"; "Archivistica".  
   
-Art. 157. - Durata: tre anni. Numero massimo di iscritti: dieci per ogni anno di corso per un totale di 30 specializzandi.  
+Art. 24. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia e' aggiunto quello di "Storia della musica".  
+  
+Art. 60, relativo alla facolta' di ingegneria e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente:  
+"Presso la facolta' di ingegneria si seguono i seguenti corsi di laurea:  
+1) Ingegneria civile (sezione edile, idraulica, trasporti);  
+2) Ingegneria elettrotecnica;  
+3) Ingegneria meccanica;  
+4) Ingegneria nucleare;  
+5) Ingegneria aeronautica;  
+6) Ingegneria elettronica;  
+7) Ingegneria chimica".  
+  
+Art. 61. - Nell'elenco degli insegnamenti obbligatori sul piano della facolta' del corso di laurea in ingegneria civile - sezione edile - gli insegnamenti di "Progetti edili", "Estimo ed esercizio professionale (con nozioni giuridiche)" e "Tecnologie generali dei materiali" sono soppressi e sostituiti da quelli di "Acquedotti e fognature", "Estimo ed esercizio professionale".  
+Nello stesso corso di laurea i gruppi di materie a scelta sono soppressi e sostituiti dal seguente:  
+a) Indirizzo architettura ed urbanistica:  
+Caratteri distributivi degli edifici;  
+Elementi di composizione architettonica;  
+Urbanistica.  
+b) Indirizzo strutture:  
+Geotecnica;  
+Costruzione di ponti;  
+Tecnica delle vibrazioni.  
+c) Indirizzo stradale:  
+Progetti di costruzioni stradali e ferroviarie;  
+Macchine da cantiere ed impianti stradali;  
+Tecnologie generali dei materiali.  
+Nell'elenco degli insegnamenti obbligatori sul piano della facolta' del corso di laurea in ingegneria civile sezione idraulica, gli insegnamenti di "Impianti speciali idraulici"; "Progetti di costruzioni idrauliche e marittime" e "Tecnologie generali dei materiali" sono soppressi e sostituiti da quelli di "Bonifica e irrigazione"; "Acquedotti e fognature" e "Estimo ed esercizio professionale".  
+Nello stesso corso di laurea i gruppi di materie a scelta sono soppressi e sostituiti dai seguenti:  
+a) Indirizzo impianti:  
+Ingegneria sanitaria;  
+Impianti tecnici edili.  
+b) Indirizzo stradale:  
+Costruzione di ponti;  
+Progetti di costruzioni stradali e ferrovie.  
+Nell'elenco degli insegnamenti obbligatori sul piano della facolta' del corso di laurea in ingegneria civile - sezione trasporti, l'insegnamento di "Disegno di macchine" e' soppresso e sostituito da quello di "Macchine da cantiere e impianti stradali".  
+Nello stesso corso di laurea i gruppi di materie a scelta sono soppressi e sostituiti dai seguenti:  
+a) Indirizzo urbanistico:  
+Tecnica urbanistica;  
+Architettura tecnica II.  
+b) Indirizzo strutture:  
+Tecnica delle vibrazioni;  
+Progetti di strutture;  
+Geotecnica.  
+c) Indirizzo impianti:  
+Ingegneria sanitaria;  
+Acquedotti e fognature.  
+L'insegnamento obbligatorio sul piano della facolta' del corso di laurea in ingegneria meccanica di "Organizzazione aziendale e legislazione industriale" (contrassegnato col n. 19) assume la denominazione di "Organizzazione industriale".  
+Nello stesso art. 61 dopo il corso di laurea in ingegneria elettronica sono aggiunte le seguenti norme relative all'istituzione del corso di laurea in ingegneria chimica:  
+  
+LAUREA IN INGEGNERIA CHIMICA  
+  
+Biennio:  
 1° Anno:  
-Embriologia ed anatomia dentaria e maxillo-facciale Microbiologia e igiene orale;  
-Farmacologia;  
-Patologia odontostomatologica;  
-Odontotecnica;  
-Anestesia e chirurgia stomatologica;  
-Odontoiatria conservativa (biennale).  
+1) Analisi matematica I;  
+2) Geometria;  
+3) Fisica I;  
+4) Chimica I;  
+5) Disegno.  
+  
 2° Anno:  
-Odontoiatria conservativa (biennale);  
-Clinica protesica dentaria e maxillo-facciale (biennale);  
-Parodontologia (biennale);  
-Anatomia e istopatologia odontostomatologica;  
-Odontoiatria infantile;  
-Radiologia odontostomatologica;  
-Ortopedia dento-maxillo-facciale (biennale);  
-Chirurgia maxillo-facciale (biennale).  
-3° Anno:  
-Clinica odontostomatologica;  
-Chirurgia maxillo-facciale (biennale);  
-Medicina legale odontostomatologica e delle assicurazioni;  
-Ortopedia dento-maxillo-facciale (biennale);  
-Parodontologia (biennale);  
-Clinica protesica dentaria e maxillo-facciale (biennale).  
+6) Analisi matematica II;  
+7) Meccanica razionale;  
+8) Fisica 2°;  
+9) Disegno 2° (macchine);  
+10) Chimica 2° (organica).  
+  
+Triennio:  
+a) Insegnamenti obbligatori sul piano nazionale:  
+11) Scienza delle costruzioni;  
+12) Meccanica applicata alle macchine;  
+13) Fisica tecnica;  
+14) Elettrotecnica;  
+15) Chimica fisica;  
+16) Chimica applicata;  
+17) Macchine;  
+18) Principi di ingegneria chimica;  
+19) Chimica industriale;  
+20) Impianti chimici.  
+  
+b) Insegnamenti obbligatori sul piano della facolta':  
+21) Applicazioni di chimica e chimica analitica;  
+22) Tecnologie generali dei materiali;  
+23) Idraulica;  
+24) Elementi e costruzioni di macchine;  
+25) Controlli e servomeccanismi;  
+26) Chimica industriale 2°;  
+27) Metallurgia e metallografia;  
+28) Termodinamica e termocinetica applicate;  
+  
+c) Un gruppo di due materie scelte in uno dei seguenti indirizzi:  
+a) Indirizzo organico industriale-impiantistico:  
+29) Applicazioni di calcolo nella conduzione di impianti chimici;  
+30) Chimica macromolecolare;  
+31) Impianti elettrici a media e bassa tensione;  
+32) Tecnica del freddo;  
+33) Ingegneria sanitaria.  
+b) Indirizzo inorganico minerario:  
+34) Elettrochimica;  
+35) Impianti elettrici a media e bassa tensione;  
+36) Arte mineraria;  
+37) Geologia applicata all'ingegneria;  
+38) Preparazione meccanica dei minerali.  
+Allo stesso articolo, dopo l'ultimo comma sono aggiunte le seguenti propedeuticita', relative al corso di laurea in ingegneria chimica.  
+L'esame di macchine deve essere preceduto da fisica tecnica e meccanica applicata alle macchine.  
+L'esame di chimica industriale I deve essere preceduto da chimica applicata, chimica fisica, applicazioni di chimica e chimica analitica.  
+L'esame di principi d'ingegneria chimica deve essere preceduto da fisica tecnica.  
+L'esame di impianti chimici deve essere preceduto da idraulica, macchine, principi d'ingegneria chimica, elementi e costruzioni di macchine, tecnologie generali dei materiali.  
+L'esame di applicazioni di calcolo nella conduzione di impianti chimici deve essere preceduto da idraulica, macchine, principi di ingegneria chimica, chimica applicata.  
+L'esame di tecnica del freddo deve essere preceduto da fisica tecnica.  
+L'esame di arte mineraria deve essere preceduto da elettrotecnica, fisica tecnica, scienza delle costruzioni.  
+L'esame di impianti elettrici a media e bassa tensione, deve essere preceduto da elettrotecnica.  
+L'esame di termodinamica e termocinetica applicate deve essere preceduto da fisica tecnica.  
+L'esame di preparazione meccanica dei minerali deve essere preceduto da arte mineraria.  
+Art. 66, relativo alle propedeuticita' degli esami del triennio e' modificato nel senso che le norme di cui alle lettere a), b), d), e), h), 1) sono abrogate e sostituite dalle seguenti:  
+  
+a) gli esami di "Tecnica delle costruzioni" "Progetti di strutture" "Costruzioni di strade, ferrovie ed aeroporti" "Costruzioni idrauliche", "Costruzione di ponti", "Costruzioni di macchine", "Costruzioni aeronautiche", "Arte mineraria", "Analisi sperimentale delle tensioni", "Costruzioni di macchine elettriche", "Architettura tecnica Il", "Caratteri distributivi degli edifici", devono essere preceduti da quello di scienza delle costruzioni;  
+b) gli esami di macchine, costruzioni di macchine, motori d'aeromobili, progetti di macchine, costruzioni di macchine elettriche, devono essere preceduti dall'esame di meccanica applicata alle macchine.  
+L'esame di tecnologia meccanica deve essere preceduto dai seguenti: scienza delle costruzioni, meccanica applicata alle macchine, meccanica delle macchine e macchine, metallurgia e metallografia;  
+d) gli esami di architettura tecnica 11, caratteri distributivi degli edifici, architettura e composizione architettonica, devono essere preceduti dall'esame di architettura tecnica.  
+L'esame di architettura e composizione architettonica deve essere preceduto da quello di architettura tecnica II;  
+e) gli esami di costruzioni idrauliche, bonifica ed irrigazioni, acquedotti e fognature, complementi di idraulica (idraulica II), impianti tecnici edili, devono essere preceduti da quello di idraulica;  
+h) gli esami di tecnologie speciali, impianti meccanici, impianti industriali meccanici, tecnologie meccaniche applicate alle costruzioni navali, devono essere preceduti da quello di tecnologia meccanica;  
+l) l'esame di costruzioni di strade ferroviarie ed aeroporti deve essere preceduto da quello di progetti di costruzioni stradali e ferroviarie, che - a sua volta - deve essere preceduto da quello di geologia applicata all'ingegneria.  
+L'esame di macchine da cantiere ed impianti stradali deve essere preceduto da quelli di costruzioni di strade, ferrovie ed aeroporti e progetti di costruzioni stradali e ferroviarie.  
+Analogamente, l'esame di impianti di trasporto, circolazione e traffico deve essere preceduto da quello di tecnica ed economia dei trasporti.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 ottobre 1969
+### Dato a Roma, addi' 12 marzo 1963
 
-SARAGAT FERRARI AGGRADI
+SARAGAT GUI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 6 novembre 1969
+Registrato alla Corte dei conti, addi' 24 aprile 196
 
-Atti del Governo, registro n. 230, foglio n. 11. - CARUSO
+Atti del Governo, registro n. 219, foglio n. 55 - GRECO

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 giugno 1977 n. 579
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 aprile 1976 n. 466
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 giugno 1977 n. 579
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 aprile 1976 n. 466
 =============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-579. Decreto del Presidente della Repubblica 22 giugno 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare dalla sig.ra Mattia Luisa ved. Epifano, al convenuto prezzo di L. 14.000.000, un appartamento sito in Potenza, corso Garibaldi, 42, composto di 4 vani ed accessori per una superficie di mq 120, indicato in catasto alla partita 2970, foglio 48, particella 360/9, da adibire a sede della locale sezione provinciale. L'ufficio tecnico erariale di Potenza ha fatto presente che il valore di L. 16.000.000 attribuito all'immobile dal perito di parte geom. Canio Cillo puo' ritenersi congruo.  
+466. Decreto del Presidente della Repubblica 30 aprile 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare dai coniugi Lerino Nicola e Garo Giuseppa, al convenuto prezzo di L. 10.700.000, un appartamento sito in Reggio Calabria, via Torrione n. 2/N, angolo via Don Minzoni, di vani sei, identificato dalla particella 71 sub. 13 del foglio 122 del nuovo catasto edilizio urbano, da destinare a sede della locale sezione.  
   
 Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 17 agosto 1977  
-Registro n. 7 Presidenza, foglio n. 89
+Registrato alla Corte dei conti, addi' 30 giugno 1976  
+Atti di Governo, registro n. 7, foglio n. 33

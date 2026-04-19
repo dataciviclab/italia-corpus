@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1980 n. 241
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1986 n. 1022
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1980 n. 241
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1986 n. 1022
+================================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-241. Decreto del Presidente della Repubblica 14 aprile 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita', consistente in un immobile sito a Tizzano Val Parma (Parma), censito al nuovo catasto terreni al foglio 28, mappali 23 e 278, del valore di L. 4.000.000, e in buoni postali fruttiferi del valore di L. 1.504.900, disposta dalla sig.ra Colomba Brolli con testamento olografo 6 ottobre 1973, pubblicato in data 31 gennaio 1974, n. 17860/1902 di repertorio, a rogito dott. Ferruccio Brambilla, notaio in Milano, registrato a Busto Arsizio (Varese) in data 19 febbraio 1974, n. 418, vol. 154.  
+1022. Decreto del Presidente della Repubblica 27 dicembre 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente nella quota di 1/6 del ricavo della vendita di beni immobili siti in Grottaferrata (Roma) e di beni mobili rinvenuti nell'abitazione della de cuius in Roma, via Mecenate n. 59, e in Grottaferrata, per un importo di L. 72.212.600 al netto delle passivita', quota 1/6 L. 12.035.433, disposta dalla sig.ra Coratella Carmela a favore dell'opera "Mutilatini Don Gnocchi" di Roma, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale 20 novembre 1982 del consiglio di amministrazione della fondazione stessa, con testamento olografo 1 ottobre 1981, pubblicato a rogito dott.ssa Maria Festa, notaio in Roma, in data 1 marzo 1982, n. 13629/3252 di repertorio, registrato a Roma l'11 marzo 1982.   
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 5 giugno 1980  
-Registro n. 4 Presidenza, foglio n. 234
+Visto, il Guardasigilli: ROGNONI   
+Registrato alla Corte dei conti, addi' 18 febbraio 1987   
+Registro n. 4 Presidenza, foglio n. 2

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 876
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1958 n. 900
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 876
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1958 n. 900
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,19 +10,17 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -32,1174 +30,226 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli da 181 a 194, relativi ai corsi di laurea della facolta' di ingegneria, sono abrogati e sostituiti dai seguenti:
+Dopo l'art. 149, relativo alla Facolta' di scienze matematiche, fisiche e naturali, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, concernenti lo Istituto di fisica teorica.
 
-Art. 181. - La facolta' di ingegneria conferisce:
+Istituto di fisica teorica
 
-a) laurea in ingegneria civile (sezione edile, idraulica, trasporti);
+Art. 150. - E' costituito presso la Facolta' di scienze matematiche, fisiche e naturali della Universita' di Napoli l'Istituto di fisica teorica.
 
-b) laurea in ingegneria meccanica;
+L'Istituto di fisica teorica ha lo scopo di promuovere e coordinare l'insegnamento e la ricerca nei campi delle discipline fondamentali che costituiscono la fisica teorica.
 
-c) laurea in ingegneria elettrotecnica;
+Art. 151. - L'Istituto e' diretto dal professore di ruolo, ed in caso di vacanza da persona designata dalla Facolta' di scienze.
 
-d) laurea in ingegneria chimica;
+Art. 152. - Possono essere addetti all'Istituto assistenti appartenenti ai ruoli universitari, ed inoltre assistenti straordinari e volontari.
 
-e) laurea in ingegneria navale e meccanica;
+Art. 153. - E' facolta' del direttore di rilasciare a chi frequenta l'Istituto per almeno sei mesi un attestato degli studi compiuti e dei risultati raggiunti nelle ricerche.
 
-f) laurea in ingegneria aeronautica;
+Art. 154. - L'Istituto potra' eventualmente disporre, secondo modalita' stabilite dal direttore ed intese ad assicurare il raggiungimento delle finalita' nel modo piu' idoneo, di fondi per la ricerca e di borse di studio provenienti da enti pubblici e privati italiani o stranieri.
 
-g) laurea in ingegneria elettronica.
+Dopo l'art. 368, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della scuola di perfezionamento in fisica teorica e nucleare.
 
-Art. 182. - I titoli per l'ammissione alla facolta' di ingegneria sono quelli previsti dalla [legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910), e successive modificazioni.
+FACOLTA' DI SCIENZE MATEMATICHE, FISICHE E NATURALI
 
-Per il conferimento della laurea in ingegneria il corso degli studi e' di cinque anni e comprende ventinove insegnamenti.
+Scuola di perfezionamento in fisica teorica e nucleare
 
-L'ordinamento degli studi e' articolato in un biennio propedeutico (art. 183) e in un triennio di applicazione (articoli dal 185 al 193 relativi ai singoli corsi di laurea) ai sensi del [decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53).
+Art. 369. - La scuola di perfezionamento in fisica teorica e nucleare istituita presso l'istituto di fisica teorica dell'Universita' di Napoli ha fine scientifico e rilascia il diploma di perfezionamento in fisica teorica e nucleare. Il corso degli studi ha la durata di due anni. Non sono consentite abbreviazioni di corso.
 
-Ai sensi dell'[art. 7 del decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53~art7), [primo comma, e dell'art. 1 del decreto del Presidente della Repubblica 24 novembre 1970, n. 827](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-11-24;827~art1-com1), l'ordinamento del triennio per ogni corso di laurea e' cosi' costituito:
+Art. 370. - La scuola e' retta da un direttore assistito da un Consiglio; il direttore e' il direttore dello Istituto di fisica teorica dell'Universita', il Consiglio della scuola e' costituito da tutti gli insegnanti della scuola ed e' presieduto dal direttore.
 
-a) insegnamenti obbligatori comuni sul piano nazionale;
+Gli insegnanti della scuola sono proposti dal direttore che puo' scegliere tra i professori di ruolo, tra i liberi docenti, tra gli assistenti o anche tra persone di riconosciuta competenza nella specialita'; tali proposte sono approvate dal Consiglio della Facolta' di scienze matematiche, fisiche e naturali.
 
-b) insegnamenti obbligatori sul piano della facolta';
+Art. 371. - Alla scuola di perfezionamento in fisica teorica e nucleare vengono ammessi soltanto i laureati in fisica, scienze matematiche, matematica e fisica, chimica ed ingegneria.
 
-c) gruppi di materie a scelta dello studente.
+E' data facolta' al direttore di stabilire, prima dello inizio di ogni anno accademico, un numero massimo di iscrizioni, oltre al quale potranno non essere accolte le domande eccedenti.
 
-Le materie di cui alla lettera c) sono indicate nell'elenco di cui all'art. 194. Da tale elenco la facolta' trarra' per i singoli corsi di laurea le materie da attivare che chiedera' anno per anno sul manifesto degli studi raggruppate a costituire indirizzi di specializzazione.
+Quando gli iscritti siano in numero molto limitato gli insegnamenti possono non avere carattere cattedratico ed essere svolti in quella diversa forma che e' consentita dall'indole di ciascuna disciplina.
 
-Ferma restando l'articolazione del biennio propedeutico ([decreto del Presidente della Repubblica n. 53 del 31 gennaio 1960, art. 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53~art2)), il consiglio di facolta' provvedera' inoltre, anno per anno, a distribuire le materie tra i vari anni di corso, e a specificare le propedeuticita'.
+Art. 372. - La sorveglianza agli iscritti per tutto quanto riguarda la loro attivita' spetta al direttore della scuola, che a questo scopo sara' coadiuvato da un segretario nominato dal Consiglio della scuola di anno in anno.
 
-BIENNIO PROPEDEUTICO
+La frequenza ai singoli insegnamenti e' obbligatoria e dev'essere attestata dai rispettivi insegnanti.
 
-Art. 183. - Gli insegnamenti del biennio, a norma dell'[art. 2 del decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53~art2), sono:
+Art. 373. - Le Commissioni per gli esami di profitto sono formate dal professore della materia e da due altri insegnanti della scuola.
 
-a) per tutti i corsi di laurea:
+Art. 374. - La Commissione per l'esame di diploma e' formata da cinque membri scelti dal direttore tra gli insegnanti della scuola stessa o cultori della materia: l'esame di diploma consistera' in un esame di cultura generale sugli insegnamenti della scuola e di una discussione sopra una dissertazione originale scritta.
 
-1° Anno:
+Art. 375. - I candidati non riconosciuti idonei potranno presentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola.
 
-1) Analisi matematica I;
+Nel caso che anche alla seconda prova di esame di diploma non siano riconosciuti idonei, saranno senza altro esclusi da ogni ulteriore prova.
 
-2) Geometria I;
+Art. 376. - Gli insegnamenti impartiti dalla scuola sono:
 
-3) Fisica I;
+Corsi fondamentali:
 
-4) Chimica;
+1) Meccanica analitica e relativistica;
 
-5) Disegno.
+2) Meccanica quantistica;
 
-2° Anno:
+3) Fisica nucleare;
 
-6) Analisi matematica II;
+4) Complementi di matematica (biennale);
 
-7) Meccanica razionale;
+5) Teoria dei campi;
 
-8) Fisica II;
+6) Teoria delle reazioni nucleari.
 
-b) per i singoli corsi di laurea, al secondo anno, l'insegnamento di geometria II del citato articolo sara' sostituito come indicato nell'art. 184;
+Corsi complementari:
 
-c) per alcuni corsi di laurea, al secondo anno, saranno impartiti ai sensi del citato articolo, uno o piu' insegnamenti come indicato nell'art. 184.
+1) Fisica statistica;
 
-Art. 184. - Ai sensi dell'[art. 2 del decreto del Presidente della Repubblica n. 53 del 31 gennaio 1960](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53~art2), gli insegnamenti sostitutivi di geometria II per i singoli corsi di laurea sono:
+2) Particelle fondamentali;
 
-per il corso di laurea in ingegneria civile edile, idraulica, trasporti:
+3) Teoria dei gruppi in fisica quantistica;
 
-9) Tecnologie dei materiali e chimica applicata (insegnamento del triennio obbligatorio sul piano nazionale);
+4) Istituzioni di cibernetica.
 
-per il corso di laurea in ingegneria chimica:
+Corsi su argomenti monografici.
 
-9) Chimica organica;
+Art. 377. - Gli iscritti alla scuola devono frequentare e sostenere l'esame delle sei materie fondamentali e di almeno due corsi complementari a scelta.
 
-per i corsi di laurea in ingegneria meccanica, aeronautica e navale e meccanica:
+L'ordine degli studi e' il seguente:
 
-9) Disegno II (meccanico);
+Primo anno:
 
-per il corso di laurea in ingegneria elettrotecnica:
+1) Meccanica analitica e relativistica;
 
-9) Tecnologie generali dei materiali;
+2) Meccanica quantistica;
 
-per il corso di laurea in ingegneria elettronica:
+3) Fisica nucleare;
 
-9) Programmazione dei calcolatori elettronici (insegnamento del triennio obbligatorio sul piano della facolta' - v, art. 193).
+4) Complementi di matematica I.
 
-Al secondo anno vengono inoltre aggiunti i seguenti insegnamenti: per il corso di laurea in ingegneria civile edile:
+Corsi monografici.
 
-10) Disegno II (civile);
+Secondo anno:
 
-per il corso di laurea in ingegneria civile trasporti:
+1) Teoria dei campi;
 
-10) Probabilita' e statistica (insegnamento del triennio obbligatorio sul piano della facolta' - v, articolo 187);
+2) Teoria delle reazioni nucleari;
 
-per i corsi di laurea in ingegneria meccanica, aeronautica e navale e meccanica:
+3) Complementi di matematica II;
 
-10) Chimica applicata (insegnamento del triennio obbligatorio sul piano nazionale);
+4) Fisica statistica;
 
-per il corso di laurea in ingegneria chimica:
+5) Teoria dei gruppi in fisica quantistica;
 
-10) Chimica fisica (insegnamento del triennio obbligatorio sul piano nazionale);
+6) Particelle fondamentali;
 
-per il corso di laurea in ingegneria navale e meccanica:
+7) Istituzioni di cibernetica.
 
-11) Tecnologie generali dei materiali.
+Corsi monografici.
 
-TRIENNIO DI APPLICAZIONE
+Per adire al secondo anno gli iscritti alla scuola dovranno aver superato gli esami relativi agli insegnamenti del primo anno; per adire agli esami di diploma devono aver superato gli esami previsti dall'ordine degli studi ed una prova di cultura generale.
 
-Art. 185. - Gli insegnamenti per il conseguimento della laurea in ingegneria civile, sezione edile, sono i seguenti:
+Art. 378. - Presso la scuola di perfezionamento in fisica teorica e nucleare sara' istituito, a completamento degli insegnamenti, un seminario di fisica teorica e nucleare.
 
-a) obbligatori sul piano nazionale:
+Art. 379. - Gli iscritti alla scuola di perfezionamento sono tenuti a pagare le medesime tasse, soprattasse e contributi generali stabiliti dalle vigenti disposizioni di legge per gli studenti della Facolta'.
 
-11) Scienza delle costruzioni;
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-12) Meccanica applicata alle macchine e macchine;
+Dato a Roma, addi' 18 giugno 1958
 
-13) Fisica tecnica;
+GRONCHI
 
-14) Elettrotecnica;
+MORO
 
-15) Idraulica;
-
-16) Tecnica delle costruzioni;
-
-17) Architettura tecnica;
-
-18) Topografia;
-
-19) Architettura e composizione architettonica;
-
-b) obbligatori sul piano della facolta':
-
-20) Principi di geotecnica;
-
-21) Principi di economia ed estimo;
-
-22) Complementi di tecnica delle costruzioni;
-
-23) Costruzioni idrauliche.
-
-c) sei insegnamenti a scelta tratti dall'elenco di cui all'art. 194, raggruppati a costituire gli indirizzi di specializzazione di cui all'art. 182.
-
-Art. 186. - Gli insegnamenti per il conseguimento della laurea in ingegneria civile, sezione idraulica, sono i seguenti:
-
-a) obbligatori sul piano nazionale:
-
-10) Scienza delle costruzioni;
-
-11) Meccanica applicata alle macchine e macchine;
-
-12) Fisica tecnica;
-
-13) Elettrotecnica;
-
-14) Idraulica;
-
-15) Tecnica delle costruzioni;
-
-16) Architettura tecnica;
-
-17) Topografia;
-
-18) Costruzioni idrauliche;
-
-b) obbligatori sul piano della facolta':
-
-19) Complementi di idraulica;
-
-20) Costruzioni di strade, Ferrovie e aeroporti;
-
-21) Idrologia;
-
-22) Principi di economia ed estimo;
-
-23) Principi di geotecnica;
-
-c) sei insegnamenti a scelta tratti dall'elenco di cui all'art. 194, raggruppati a costituire gli indirizzi di specializzazione di cui all'art. 182.
-
-Art. 187. - Gli insegnamenti per il conseguimento della laurea in ingegneria civile, sezione trasporti, sono i seguenti:
-
-a) obbligatori sul piano nazionale:
-
-11) Scienza delle costruzioni;
-
-12) Meccanica applicata alle macchine e macchine
-
-13) Fisica tecnica;
-
-14) Elettrotecnica;
-
-15) Idraulica;
-
-16) Tecnica delle costruzioni;
-
-17) Architettura tecnica;
-
-18) Topografia;
-
-19) Costruzioni di strade, ferrovie ed aeroporti b) obbligatori sul piano della facolta';
-
-20) Principi di geotecnica;
-
-21) Costruzioni idrauliche;
-
-22) Principi di economia ed estimo;
-
-23) Tecnica ed economia dei trasporti;
-
-c) sei insegnamenti a scelta tratti dall'elenco di cui all'art. 194, raggruppati a costituire gli indirizzi di specializzazione di cui all'art. 182.
-
-Art. 188. - Gli insegnamenti per il conseguimento della laurea in ingegneria meccanica sono i seguenti:
-
-a) obbligatori sul piano nazionale:
-
-11) Scienza delle costruzioni;
-
-12) Meccanica applicata alle macchine;
-
-13) Fisica tecnica;
-
-14) Elettrotecnica;
-
-15) Idraulica;
-
-16) Macchine;
-
-17) Costruzioni di macchine;
-
-18) Impianti meccanici;
-
-19) Tecnologia meccanica;
-
-b) obbligatori sul piano della facolta':
-
-20) Chimica industriale;
-
-21) Gasdinamica;
-
-22) Misure e norme di collaudo;
-
-23) Programmazione dei calcolatori elettronici;
-
-24) Metallurgia e metallografia;
-
-c) cinque insegnamenti a scelta tratti dall'elenco di cui all'art. 194, raggruppati a costituire gli indirizzi di specializzazione di cui all'art. 182.
-
-Art. 189. - Gli insegnamenti per il conseguimento della laurea in ingegneria elettrotecnica sono i seguenti:
-
-a) obbligatori sul piano nazionale:
-
-10) Scienza delle costruzioni;
-
-11) Meccanica applicata alle macchine;
-
-12) Fisica tecnica;
-
-13) Elettrotecnica;
-
-14) Idraulica;
-
-15) Misure elettriche;
-
-16) Macchine;
-
-17) Macchine elettriche;
-
-18) Impianti elettrici;
-
-19) Elettronica applicata;
-
-b) obbligatori sul piano della facolta':
-
-20) Complementi di matematica;
-
-21) Controlli automatici;
-
-22) Programmazione dei calcolatori elettronici;
-
-23) Materie giuridiche ed amministrative;
-
-c) sei insegnamenti a scelta tratti dall'elenco di cui all'art. 194, raggruppati a costituire gli indirizzi di specializzazione di cui all'art. 182.
-
-Art. 190. - Gli insegnamenti per il conseguimento della laurea in ingegneria chimica sono i seguenti:
-
-a) obbligatori sul piano nazionale:
-
-11) Scienza delle costruzioni;
-
-12) Meccanica applicata alle macchine;
-
-13) Fisica tecnica;
-
-14) Elettrotecnica;
-
-15) Chimica applicata;
-
-16) Macchine;
-
-17) Principi di ingegneria chimica;
-
-18) Chimica industriale;
-
-19) Impianti chimici;
-
-b) obbligatori sul piano della facolta':
-
-20) Chimica II;
-
-21) Progetti di apparecchiature per l'industria chimica;
-
-22) Teoria e sviluppo dei processi chimici;
-
-23) Misure e controllo;
-
-24) Idraulica;
-
-c) cinque insegnamenti a scelta tratti dall'elenco di cui all'art. 194, raggruppati a costituire gli indirizzi di specializzazione di cui all'art. 182.
-
-Art. 191. - Gli insegnamenti per il conseguimento della laurea in ingegneria navale e meccanica sono i seguenti:
-
-a) obbligatori sul piano nazionale:
-
-12) Scienza delle costruzioni;
-
-13) Meccanica applicata alle macchine;
-
-14) Fisica tecnica;
-
-15) Elettrotecnica;
-
-16) Idraulica;
-
-17) Macchine;
-
-18) Costruzioni navali mercantili;
-
-19) Costruzioni navali militari;
-
-20) Architettura navale;
-
-b) obbligatori sul piano della facolta':
-
-21) Tecnologia della nave;
-
-22) Statica della nave;
-
-23) Costruzione di macchine;
-
-24) Macchine marine;
-
-c) cinque insegnamenti a scelta tratti dall'elenco di cui all'art. 194, raggruppati a costituire gli indirizzi di specializzazione di cui all'art. 182.
-
-Art. 192. - Gli insegnamenti per il conseguimento della laurea in ingegneria aeronautica sono i seguenti:
-
-a) obbligatori sul piano nazionale:
-
-11) Scienza delle costruzioni;
-
-12) Meccanica applicata alle macchine;
-
-13) Fisica tecnica;
-
-14) Elettrotecnica;
-
-15) Aerodinamica;
-
-16) Motori per aeromobili;
-
-17) Costruzioni aeronautiche;
-
-18) Aeronautica generale;
-
-19) Gasdinamica;
-
-b) obbligatori sul piano della facolta':
-
-20) Aerodinamica II;
-
-21) Impianti aeronautici e servomeccanismi;
-
-22) Meccanica del volo;
-
-23) Progetto di velivoli;
-
-c) sei insegnamenti a scelta tratti dall'elenco di cui all'art. 194, raggruppati a costituire gli indirizzi di specializzazione di cui all'art. 182.
-
-Art. 193. - Gli insegnamenti per il conseguimento della laurea in ingegneria elettronica sono i seguenti:
-
-a) obbligatori sul piano nazionale:
-
-10) Scienza delle costruzioni;
-
-11) Meccanica delle macchine e macchine;
-
-12) Fisica tecnica;
-
-13) Elettrotecnica;
-
-14) Campi elettromagnetici e circuiti;
-
-15) Misure elettriche;
-
-16) Comunicazioni elettriche;
-
-17) Elettronica applicata;
-
-18) Controlli automatici;
-
-19) Radiotecnica;
-
-b) obbligatori sul piano della facolta':
-
-20) Tecnologie generali dei materiali;
-
-21) Componenti elettronici;
-
-22) Complementi di matematica;
-
-23) Teoria dei sistemi;
-
-c) sei insegnamenti a scelta tratti dall'elenco di cui all'art. 194, raggruppati a costituire gli indirizzi di specializzazione di cui all'art. 182.
-
-Art. 194. - L'elenco degli insegnamenti di cui all'art. 182, quarto comma (materie a scelta dello studente), e' il seguente:
-
-Acustica applicata;
-
-Aeroelasticita';
-
-Aeronomia e meteorologia aeronautica;
-
-Acquedotti e fognature;
-
-Affidabilita' e controllo di qualita';
-
-Allestimento navale;
-
-Analisi e simulazione dei processi;
-
-Antenne;
-
-Apparecchiature elettriche ausiliarie;
-
-Applicazioni di elettronica;
-
-Applicazioni elettriche Apparecchiature e strumenti di bordo;
-
-Automazione delle navi;
-
-Azionamenti elettrici;
-
-Biomeccanica;
-
-Bonifiche e sistemazioni idrauliche;
-
-Calcolatori elettronici;
-
-Calcolo numerico;
-
-Cantieri navali;
-
-Chimica analitica e strumentazione;
-
-Chimica industriale organica;
-
-Cinetica chimica;
-
-Cinetica diffusionale;
-
-Collaudo e prove in volo;
-
-Combustione;
-
-Complementi di architettura navale;
-
-Complementi di calcolatori;
-
-Complementi di controllo;
-
-Complementi di costruzioni navali;
-
-Complementi di costruzioni di macchine;
-
-Complementi di costruzioni di strade;
-
-Complementi di macchine;
-
-Complementi di macchine elettriche;
-
-Complementi di meccanica del volo;
-
-Complementi di tecnica ed economia dei trasporti Complementi di tecnica urbanistica;
-
-Complementi di scienza delle costruzioni;
-
-Conservazione e riabilitazione degli edifici;
-
-Conversione diretta dell'energia;
-
-Corrosioni;
-
-Costruzioni automobilistiche;
-
-Costruzione di macchine utensili;
-
-Costruzione di ponti;
-
-Costruzioni edili;
-
-Costruzioni elettromeccaniche;
-
-Costruzioni marittime;
-
-Costruzioni metalliche;
-
-Costruzioni saldate;
-
-Dinamica delle costruzioni ed ingegneria sismica Dinamica del velivolo;
-
-Dinamica del volo spaziale;
-
-Dispositivi speciali a semiconduttori;
-
-Economia generale;
-
-Elementi costruttivi di missili;
-
-Elettromeccanica dei sistemi continui;
-
-Elettronica biomedica;
-
-Elettronica delle forme d'onde;
-
-Elettronica nucleare;
-
-Elettronica quantistica;
-
-Elettrochimica;
-
-Elementi di analisi funzionale ed applicazioni;
-
-Esercizio dei sistemi dei trasporti;
-
-Estimo navale;
-
-Fenomeni di trasporto in fluidi;
-
-Fisica III;
-
-Fisica matematica per ingegneria;
-
-Fondamenti degli equilibri non lineari;
-
-Fluidodinamica numerica;
-
-Gasdinamica sperimentale;
-
-Gas ionizzati;
-
-Generatori di vapore;
-
-Geologia applicata;
-
-Geometria II;
-
-Idrogeologia;
-
-Illuminotecnica;
-
-Impianti elettrici ed elettronici di bordo;
-
-Impianti idroelettrici;
-
-Impianti tecnici nell'edilizia;
-
-Impianti per l'elaborazione delle informazioni;
-
-Impianti per la produzione di energia;
-
-Impianti tecnologici;
-
-Impianti termotecnici;
-
-Infrastrutture ed impianti aeroportuali;
-
-Ingegneria dei sistemi aerospaziali;
-
-Ingegneria sanitaria;
-
-Istituzioni di fisica matematica;
-
-Istituzioni di meccanica superiore;
-
-Litologia e geologia;
-
-Macchine di sollevamento e trasporto;
-
-Macchine ed impianti elettrici;
-
-Macchine ed organizzazione di cantiere;
-
-Macchine per l'elaborazione delle informazioni;
-
-Materiali;
-
-Materiali ceramici speciali;
-
-Materiali polimerici;
-
-Meccanica dei fluidi non newtoniani;
-
-Meccanica dei mezzi plurifasici;
-
-Meccanica del veicolo;
-
-Microonde;
-
-Misure elettriche II (collaudi);
-
-Misure elettroniche;
-
-Misure termotecniche;
-
-Modelli matematici in urbanistica;
-
-Motori per autotrazione;
-
-Naviglio minore;
-
-Navi speciali;
-
-Opere di sostegno e costruzioni in terra;
-
-Organizzazione dei servizi aerei;
-
-Ottica ed interazioni;
-
-Plasmi e fusione controllata;
-
-Plasticita';
-
-Produzione e trasmissione dell'energia elettrica;
-
-Progettazione architettonica;
-
-Progetti elettronici;
-
-Progetti di impianti di trattamento;
-
-Progetto di macchine marine;
-
-Progetti di strutture per trasporti;
-
-Progetti di macchine;
-
-Progetto delle navi;
-
-Propagazione;
-
-Protezione ed affidabilita' dei servizi elettrici;
-
-Radioassistenza al volo;
-
-Razzi e propulsione spaziale;
-
-Reattori nucleari;
-
-Regime e protezione dei litorali;
-
-Regolazione e controlli industriali;
-
-Ricerca operativa;
-
-Servizi di stabilimento;
-
-Servomeccanismi ed automazione;
-
-Scienza dei metalli;
-
-Sicurezza del lavoro e tecniche antinfortunistiche.
-
-Sicurezza delle navi nucleari;
-
-Sistemi di guida e controllo aerospaziale;
-
-Sistemi di telecomunicazioni;
-
-Sistemi oleodinamici e pneumatici;
-
-Stabilita' dell'equilibrio e calcolo delle strutture di parete sottile;
-
-Stabilita' del territorio e consolidamenti;
-
-Strumentazione biomedica;
-
-Strutture speciali;
-
-Tecnica del freddo;
-
-Tecnica della produzione industriale;
-
-Tecnica delle fondazioni;
-
-Tecnica di cantiere e produttivita';
-
-Tecnica del traffico e della circolazione;
-
-Tecnica ed organizzazione della produzione aeronautica;
-
-Tecnica urbanistica;
-
-Tecniche di controllo dei processi aleatori;
-
-Tecniche di programmazione;
-
-Tecniche radar;
-
-Tecnologia dei polimeri;
-
-Telecomunicazioni numeriche;
-
-Telefonia e telegrafia;
-
-Teoria dell'informazione;
-
-Teoria delle reti;
-
-Teoria e tecnica delle sovrastrutture stradali e ferroviarie;
-
-Teoria statica della comunicazione;
-
-Teoria e tecnica delle vibrazioni;
-
-Trasmissione del calore;
-
-Trazione elettrica;
-
-Tribologia;
-
-Velivoli e involo verticale.
-
-Integrano l'elenco, ai fini della costituzione degli indirizzi di specializzazione relativi ai singoli corsi di laurea gli insegnamenti obbligatori su piano nazionale e della facolta' degli altri corsi di laurea.
-
-Gli insegnamenti di cui al presente articolo potranno avere svolgimento diverso per i diversi corsi di laurea e per i diversi indirizzi.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1974
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 3 marzo 1975 Atti di Governo, registro n. 8, foglio n. 150
+alla Corte dei conti, addi' 13 settembre 1958 Atti del Governo, registro n. 114, foglio n. 37. - RELLEVA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successivi;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le modifiche proposte;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
 Sulla proposta del Ministro per la pubblica istruzione;   
   
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli da 181 a 194, relativi ai corsi di laurea della facolta' di ingegneria, sono abrogati e sostituiti dai seguenti:   
   
-Art. 181. - La facolta' di ingegneria conferisce:   
-a) laurea in ingegneria civile (sezione edile, idraulica, trasporti);   
-b) laurea in ingegneria meccanica;   
-c) laurea in ingegneria elettrotecnica;   
-d) laurea in ingegneria chimica;   
-e) laurea in ingegneria navale e meccanica;   
-f) laurea in ingegneria aeronautica;   
-g) laurea in ingegneria elettronica.   
-Art. 182. - I titoli per l'ammissione alla facolta' di ingegneria sono quelli previsti dalla [legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910), e successive modificazioni.   
-Per il conferimento della laurea in ingegneria il corso degli studi e' di cinque anni e comprende ventinove insegnamenti.   
-L'ordinamento degli studi e' articolato in un biennio propedeutico (art. 183) e in un triennio di applicazione (articoli dal 185 al 193 relativi ai singoli corsi di laurea) ai sensi del [decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53).   
-Ai sensi dell'[art. 7 del decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53~art7), [primo comma, e dell'art. 1 del decreto del Presidente della Repubblica 24 novembre 1970, n. 827](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-11-24;827~art1-com1), l'ordinamento del triennio per ogni corso di laurea e' cosi' costituito:   
-a) insegnamenti obbligatori comuni sul piano nazionale;   
-b) insegnamenti obbligatori sul piano della facolta';   
-c) gruppi di materie a scelta dello studente.   
-Le materie di cui alla lettera c) sono indicate nell'elenco di cui all'art. 194. Da tale elenco la facolta' trarra' per i singoli corsi di laurea le materie da attivare che chiedera' anno per anno sul manifesto degli studi raggruppate a costituire indirizzi di specializzazione.   
-Ferma restando l'articolazione del biennio propedeutico ([decreto del Presidente della Repubblica n. 53 del 31 gennaio 1960, art. 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53~art2)), il consiglio di facolta' provvedera' inoltre, anno per anno, a distribuire le materie tra i vari anni di corso, e a specificare le propedeuticita'.   
+Dopo l'art. 149, relativo alla Facolta' di scienze matematiche, fisiche e naturali, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, concernenti lo Istituto di fisica teorica.   
   
-BIENNIO PROPEDEUTICO   
+Istituto di fisica teorica   
   
-Art. 183. - Gli insegnamenti del biennio, a norma dell'[art. 2 del decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53~art2), sono:   
-a) per tutti i corsi di laurea:   
-1° Anno:   
-1) Analisi matematica I;   
-2) Geometria I;   
-3) Fisica I;   
-4) Chimica;   
-5) Disegno.   
-2° Anno:   
-6) Analisi matematica II;   
-7) Meccanica razionale;   
-8) Fisica II;   
-b) per i singoli corsi di laurea, al secondo anno, l'insegnamento di geometria II del citato articolo sara' sostituito come indicato nell'art. 184;   
-c) per alcuni corsi di laurea, al secondo anno, saranno impartiti ai sensi del citato articolo, uno o piu' insegnamenti come indicato nell'art. 184.   
-Art. 184. - Ai sensi dell'[art. 2 del decreto del Presidente della Repubblica n. 53 del 31 gennaio 1960](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53~art2), gli insegnamenti sostitutivi di geometria II per i singoli corsi di laurea sono:   
-per il corso di laurea in ingegneria civile edile, idraulica, trasporti:   
-9) Tecnologie dei materiali e chimica applicata (insegnamento del triennio obbligatorio sul piano nazionale);   
-per il corso di laurea in ingegneria chimica:   
-9) Chimica organica;   
-per i corsi di laurea in ingegneria meccanica, aeronautica e navale e meccanica:   
-9) Disegno II (meccanico);   
-per il corso di laurea in ingegneria elettrotecnica:   
-9) Tecnologie generali dei materiali;   
-per il corso di laurea in ingegneria elettronica:   
-9) Programmazione dei calcolatori elettronici (insegnamento del triennio obbligatorio sul piano della facolta' - v, art. 193).   
-Al secondo anno vengono inoltre aggiunti i seguenti insegnamenti: per il corso di laurea in ingegneria civile edile:   
-10) Disegno II (civile);   
-per il corso di laurea in ingegneria civile trasporti:   
-10) Probabilita' e statistica (insegnamento del triennio obbligatorio sul piano della facolta' - v, articolo 187);   
-per i corsi di laurea in ingegneria meccanica, aeronautica e navale e meccanica:   
-10) Chimica applicata (insegnamento del triennio obbligatorio sul piano nazionale);   
-per il corso di laurea in ingegneria chimica:   
-10) Chimica fisica (insegnamento del triennio obbligatorio sul piano nazionale);   
-per il corso di laurea in ingegneria navale e meccanica:   
-11) Tecnologie generali dei materiali.   
+Art. 150. - E' costituito presso la Facolta' di scienze matematiche, fisiche e naturali della Universita' di Napoli l'Istituto di fisica teorica.   
+L'Istituto di fisica teorica ha lo scopo di promuovere e coordinare l'insegnamento e la ricerca nei campi delle discipline fondamentali che costituiscono la fisica teorica.   
+Art. 151. - L'Istituto e' diretto dal professore di ruolo, ed in caso di vacanza da persona designata dalla Facolta' di scienze.   
+Art. 152. - Possono essere addetti all'Istituto assistenti appartenenti ai ruoli universitari, ed inoltre assistenti straordinari e volontari.   
+Art. 153. - E' facolta' del direttore di rilasciare a chi frequenta l'Istituto per almeno sei mesi un attestato degli studi compiuti e dei risultati raggiunti nelle ricerche.   
+Art. 154. - L'Istituto potra' eventualmente disporre, secondo modalita' stabilite dal direttore ed intese ad assicurare il raggiungimento delle finalita' nel modo piu' idoneo, di fondi per la ricerca e di borse di studio provenienti da enti pubblici e privati italiani o stranieri.   
+Dopo l'art. 368, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della scuola di perfezionamento in fisica teorica e nucleare.   
   
-TRIENNIO DI APPLICAZIONE   
+FACOLTA' DI SCIENZE MATEMATICHE, FISICHE E NATURALI   
   
-Art. 185. - Gli insegnamenti per il conseguimento della laurea in ingegneria civile, sezione edile, sono i seguenti:   
-a) obbligatori sul piano nazionale:   
-11) Scienza delle costruzioni;   
-12) Meccanica applicata alle macchine e macchine;   
-13) Fisica tecnica;   
-14) Elettrotecnica;   
-15) Idraulica;   
-16) Tecnica delle costruzioni;   
-17) Architettura tecnica;   
-18) Topografia;   
-19) Architettura e composizione architettonica;   
-b) obbligatori sul piano della facolta':   
-20) Principi di geotecnica;   
-21) Principi di economia ed estimo;   
-22) Complementi di tecnica delle costruzioni;   
-23) Costruzioni idrauliche.   
-c) sei insegnamenti a scelta tratti dall'elenco di cui all'art. 194, raggruppati a costituire gli indirizzi di specializzazione di cui all'art. 182.   
-Art. 186. - Gli insegnamenti per il conseguimento della laurea in ingegneria civile, sezione idraulica, sono i seguenti:   
-a) obbligatori sul piano nazionale:   
-10) Scienza delle costruzioni;   
-11) Meccanica applicata alle macchine e macchine;   
-12) Fisica tecnica;   
-13) Elettrotecnica;   
-14) Idraulica;   
-15) Tecnica delle costruzioni;   
-16) Architettura tecnica;   
-17) Topografia;   
-18) Costruzioni idrauliche;   
-b) obbligatori sul piano della facolta':   
-19) Complementi di idraulica;   
-20) Costruzioni di strade, Ferrovie e aeroporti;   
-21) Idrologia;   
-22) Principi di economia ed estimo;   
-23) Principi di geotecnica;   
-c) sei insegnamenti a scelta tratti dall'elenco di cui all'art. 194, raggruppati a costituire gli indirizzi di specializzazione di cui all'art. 182.   
-Art. 187. - Gli insegnamenti per il conseguimento della laurea in ingegneria civile, sezione trasporti, sono i seguenti:   
-a) obbligatori sul piano nazionale:   
-11) Scienza delle costruzioni;   
-12) Meccanica applicata alle macchine e macchine   
-13) Fisica tecnica;   
-14) Elettrotecnica;   
-15) Idraulica;   
-16) Tecnica delle costruzioni;   
-17) Architettura tecnica;   
-18) Topografia;   
-19) Costruzioni di strade, ferrovie ed aeroporti b) obbligatori sul piano della facolta';   
-20) Principi di geotecnica;   
-21) Costruzioni idrauliche;   
-22) Principi di economia ed estimo;   
-23) Tecnica ed economia dei trasporti;   
-c) sei insegnamenti a scelta tratti dall'elenco di cui all'art. 194, raggruppati a costituire gli indirizzi di specializzazione di cui all'art. 182.   
-Art. 188. - Gli insegnamenti per il conseguimento della laurea in ingegneria meccanica sono i seguenti:   
-a) obbligatori sul piano nazionale:   
-11) Scienza delle costruzioni;   
-12) Meccanica applicata alle macchine;   
-13) Fisica tecnica;   
-14) Elettrotecnica;   
-15) Idraulica;   
-16) Macchine;   
-17) Costruzioni di macchine;   
-18) Impianti meccanici;   
-19) Tecnologia meccanica;   
-b) obbligatori sul piano della facolta':   
-20) Chimica industriale;   
-21) Gasdinamica;   
-22) Misure e norme di collaudo;   
-23) Programmazione dei calcolatori elettronici;   
-24) Metallurgia e metallografia;   
-c) cinque insegnamenti a scelta tratti dall'elenco di cui all'art. 194, raggruppati a costituire gli indirizzi di specializzazione di cui all'art. 182.   
-Art. 189. - Gli insegnamenti per il conseguimento della laurea in ingegneria elettrotecnica sono i seguenti:   
-a) obbligatori sul piano nazionale:   
-10) Scienza delle costruzioni;   
-11) Meccanica applicata alle macchine;   
-12) Fisica tecnica;   
-13) Elettrotecnica;   
-14) Idraulica;   
-15) Misure elettriche;   
-16) Macchine;   
-17) Macchine elettriche;   
-18) Impianti elettrici;   
-19) Elettronica applicata;   
-b) obbligatori sul piano della facolta':   
-20) Complementi di matematica;   
-21) Controlli automatici;   
-22) Programmazione dei calcolatori elettronici;   
-23) Materie giuridiche ed amministrative;   
-c) sei insegnamenti a scelta tratti dall'elenco di cui all'art. 194, raggruppati a costituire gli indirizzi di specializzazione di cui all'art. 182.   
-Art. 190. - Gli insegnamenti per il conseguimento della laurea in ingegneria chimica sono i seguenti:   
-a) obbligatori sul piano nazionale:   
-11) Scienza delle costruzioni;   
-12) Meccanica applicata alle macchine;   
-13) Fisica tecnica;   
-14) Elettrotecnica;   
-15) Chimica applicata;   
-16) Macchine;   
-17) Principi di ingegneria chimica;   
-18) Chimica industriale;   
-19) Impianti chimici;   
-b) obbligatori sul piano della facolta':   
-20) Chimica II;   
-21) Progetti di apparecchiature per l'industria chimica;   
-22) Teoria e sviluppo dei processi chimici;   
-23) Misure e controllo;   
-24) Idraulica;   
-c) cinque insegnamenti a scelta tratti dall'elenco di cui all'art. 194, raggruppati a costituire gli indirizzi di specializzazione di cui all'art. 182.   
-Art. 191. - Gli insegnamenti per il conseguimento della laurea in ingegneria navale e meccanica sono i seguenti:   
-a) obbligatori sul piano nazionale:   
-12) Scienza delle costruzioni;   
-13) Meccanica applicata alle macchine;   
-14) Fisica tecnica;   
-15) Elettrotecnica;   
-16) Idraulica;   
-17) Macchine;   
-18) Costruzioni navali mercantili;   
-19) Costruzioni navali militari;   
-20) Architettura navale;   
-b) obbligatori sul piano della facolta':   
-21) Tecnologia della nave;   
-22) Statica della nave;   
-23) Costruzione di macchine;   
-24) Macchine marine;   
-c) cinque insegnamenti a scelta tratti dall'elenco di cui all'art. 194, raggruppati a costituire gli indirizzi di specializzazione di cui all'art. 182.   
-Art. 192. - Gli insegnamenti per il conseguimento della laurea in ingegneria aeronautica sono i seguenti:   
-a) obbligatori sul piano nazionale:   
-11) Scienza delle costruzioni;   
-12) Meccanica applicata alle macchine;   
-13) Fisica tecnica;   
-14) Elettrotecnica;   
-15) Aerodinamica;   
-16) Motori per aeromobili;   
-17) Costruzioni aeronautiche;   
-18) Aeronautica generale;   
-19) Gasdinamica;   
-b) obbligatori sul piano della facolta':   
-20) Aerodinamica II;   
-21) Impianti aeronautici e servomeccanismi;   
-22) Meccanica del volo;   
-23) Progetto di velivoli;   
-c) sei insegnamenti a scelta tratti dall'elenco di cui all'art. 194, raggruppati a costituire gli indirizzi di specializzazione di cui all'art. 182.   
-Art. 193. - Gli insegnamenti per il conseguimento della laurea in ingegneria elettronica sono i seguenti:   
-a) obbligatori sul piano nazionale:   
-10) Scienza delle costruzioni;   
-11) Meccanica delle macchine e macchine;   
-12) Fisica tecnica;   
-13) Elettrotecnica;   
-14) Campi elettromagnetici e circuiti;   
-15) Misure elettriche;   
-16) Comunicazioni elettriche;   
-17) Elettronica applicata;   
-18) Controlli automatici;   
-19) Radiotecnica;   
-b) obbligatori sul piano della facolta':   
-20) Tecnologie generali dei materiali;   
-21) Componenti elettronici;   
-22) Complementi di matematica;   
-23) Teoria dei sistemi;   
-c) sei insegnamenti a scelta tratti dall'elenco di cui all'art. 194, raggruppati a costituire gli indirizzi di specializzazione di cui all'art. 182.   
-Art. 194. - L'elenco degli insegnamenti di cui all'art. 182, quarto comma (materie a scelta dello studente), e' il seguente:   
-Acustica applicata;   
-Aeroelasticita';   
-Aeronomia e meteorologia aeronautica;   
-Acquedotti e fognature;   
-Affidabilita' e controllo di qualita';   
-Allestimento navale;   
-Analisi e simulazione dei processi;   
-Antenne;   
-Apparecchiature elettriche ausiliarie;   
-Applicazioni di elettronica;   
-Applicazioni elettriche Apparecchiature e strumenti di bordo;   
-Automazione delle navi;   
-Azionamenti elettrici;   
-Biomeccanica;   
-Bonifiche e sistemazioni idrauliche;   
-Calcolatori elettronici;   
-Calcolo numerico;   
-Cantieri navali;   
-Chimica analitica e strumentazione;   
-Chimica industriale organica;   
-Cinetica chimica;   
-Cinetica diffusionale;   
-Collaudo e prove in volo;   
-Combustione;   
-Complementi di architettura navale;   
-Complementi di calcolatori;   
-Complementi di controllo;   
-Complementi di costruzioni navali;   
-Complementi di costruzioni di macchine;   
-Complementi di costruzioni di strade;   
-Complementi di macchine;   
-Complementi di macchine elettriche;   
-Complementi di meccanica del volo;   
-Complementi di tecnica ed economia dei trasporti Complementi di tecnica urbanistica;   
-Complementi di scienza delle costruzioni;   
-Conservazione e riabilitazione degli edifici;   
-Conversione diretta dell'energia;   
-Corrosioni;   
-Costruzioni automobilistiche;   
-Costruzione di macchine utensili;   
-Costruzione di ponti;   
-Costruzioni edili;   
-Costruzioni elettromeccaniche;   
-Costruzioni marittime;   
-Costruzioni metalliche;   
-Costruzioni saldate;   
-Dinamica delle costruzioni ed ingegneria sismica Dinamica del velivolo;   
-Dinamica del volo spaziale;   
-Dispositivi speciali a semiconduttori;   
-Economia generale;   
-Elementi costruttivi di missili;   
-Elettromeccanica dei sistemi continui;   
-Elettronica biomedica;   
-Elettronica delle forme d'onde;   
-Elettronica nucleare;   
-Elettronica quantistica;   
-Elettrochimica;   
-Elementi di analisi funzionale ed applicazioni;   
-Esercizio dei sistemi dei trasporti;   
-Estimo navale;   
-Fenomeni di trasporto in fluidi;   
-Fisica III;   
-Fisica matematica per ingegneria;   
-Fondamenti degli equilibri non lineari;   
-Fluidodinamica numerica;   
-Gasdinamica sperimentale;   
-Gas ionizzati;   
-Generatori di vapore;   
-Geologia applicata;   
-Geometria II;   
-Idrogeologia;   
-Illuminotecnica;   
-Impianti elettrici ed elettronici di bordo;   
-Impianti idroelettrici;   
-Impianti tecnici nell'edilizia;   
-Impianti per l'elaborazione delle informazioni;   
-Impianti per la produzione di energia;   
-Impianti tecnologici;   
-Impianti termotecnici;   
-Infrastrutture ed impianti aeroportuali;   
-Ingegneria dei sistemi aerospaziali;   
-Ingegneria sanitaria;   
-Istituzioni di fisica matematica;   
-Istituzioni di meccanica superiore;   
-Litologia e geologia;   
-Macchine di sollevamento e trasporto;   
-Macchine ed impianti elettrici;   
-Macchine ed organizzazione di cantiere;   
-Macchine per l'elaborazione delle informazioni;   
-Materiali;   
-Materiali ceramici speciali;   
-Materiali polimerici;   
-Meccanica dei fluidi non newtoniani;   
-Meccanica dei mezzi plurifasici;   
-Meccanica del veicolo;   
-Microonde;   
-Misure elettriche II (collaudi);   
-Misure elettroniche;   
-Misure termotecniche;   
-Modelli matematici in urbanistica;   
-Motori per autotrazione;   
-Naviglio minore;   
-Navi speciali;   
-Opere di sostegno e costruzioni in terra;   
-Organizzazione dei servizi aerei;   
-Ottica ed interazioni;   
-Plasmi e fusione controllata;   
-Plasticita';   
-Produzione e trasmissione dell'energia elettrica;   
-Progettazione architettonica;   
-Progetti elettronici;   
-Progetti di impianti di trattamento;   
-Progetto di macchine marine;   
-Progetti di strutture per trasporti;   
-Progetti di macchine;   
-Progetto delle navi;   
-Propagazione;   
-Protezione ed affidabilita' dei servizi elettrici;   
-Radioassistenza al volo;   
-Razzi e propulsione spaziale;   
-Reattori nucleari;   
-Regime e protezione dei litorali;   
-Regolazione e controlli industriali;   
-Ricerca operativa;   
-Servizi di stabilimento;   
-Servomeccanismi ed automazione;   
-Scienza dei metalli;   
-Sicurezza del lavoro e tecniche antinfortunistiche.   
-Sicurezza delle navi nucleari;   
-Sistemi di guida e controllo aerospaziale;   
-Sistemi di telecomunicazioni;   
-Sistemi oleodinamici e pneumatici;   
-Stabilita' dell'equilibrio e calcolo delle strutture di parete sottile;   
-Stabilita' del territorio e consolidamenti;   
-Strumentazione biomedica;   
-Strutture speciali;   
-Tecnica del freddo;   
-Tecnica della produzione industriale;   
-Tecnica delle fondazioni;   
-Tecnica di cantiere e produttivita';   
-Tecnica del traffico e della circolazione;   
-Tecnica ed organizzazione della produzione aeronautica;   
-Tecnica urbanistica;   
-Tecniche di controllo dei processi aleatori;   
-Tecniche di programmazione;   
-Tecniche radar;   
-Tecnologia dei polimeri;   
-Telecomunicazioni numeriche;   
-Telefonia e telegrafia;   
-Teoria dell'informazione;   
-Teoria delle reti;   
-Teoria e tecnica delle sovrastrutture stradali e ferroviarie;   
-Teoria statica della comunicazione;   
-Teoria e tecnica delle vibrazioni;   
-Trasmissione del calore;   
-Trazione elettrica;   
-Tribologia;   
-Velivoli e involo verticale.   
-Integrano l'elenco, ai fini della costituzione degli indirizzi di specializzazione relativi ai singoli corsi di laurea gli insegnamenti obbligatori su piano nazionale e della facolta' degli altri corsi di laurea.   
-Gli insegnamenti di cui al presente articolo potranno avere svolgimento diverso per i diversi corsi di laurea e per i diversi indirizzi.   
+Scuola di perfezionamento in fisica teorica e nucleare   
+  
+Art. 369. - La scuola di perfezionamento in fisica teorica e nucleare istituita presso l'istituto di fisica teorica dell'Universita' di Napoli ha fine scientifico e rilascia il diploma di perfezionamento in fisica teorica e nucleare. Il corso degli studi ha la durata di due anni. Non sono consentite abbreviazioni di corso.   
+Art. 370. - La scuola e' retta da un direttore assistito da un Consiglio; il direttore e' il direttore dello Istituto di fisica teorica dell'Universita', il Consiglio della scuola e' costituito da tutti gli insegnanti della scuola ed e' presieduto dal direttore.   
+Gli insegnanti della scuola sono proposti dal direttore che puo' scegliere tra i professori di ruolo, tra i liberi docenti, tra gli assistenti o anche tra persone di riconosciuta competenza nella specialita'; tali proposte sono approvate dal Consiglio della Facolta' di scienze matematiche, fisiche e naturali.   
+Art. 371. - Alla scuola di perfezionamento in fisica teorica e nucleare vengono ammessi soltanto i laureati in fisica, scienze matematiche, matematica e fisica, chimica ed ingegneria.   
+E' data facolta' al direttore di stabilire, prima dello inizio di ogni anno accademico, un numero massimo di iscrizioni, oltre al quale potranno non essere accolte le domande eccedenti.   
+Quando gli iscritti siano in numero molto limitato gli insegnamenti possono non avere carattere cattedratico ed essere svolti in quella diversa forma che e' consentita dall'indole di ciascuna disciplina.   
+Art. 372. - La sorveglianza agli iscritti per tutto quanto riguarda la loro attivita' spetta al direttore della scuola, che a questo scopo sara' coadiuvato da un segretario nominato dal Consiglio della scuola di anno in anno.   
+La frequenza ai singoli insegnamenti e' obbligatoria e dev'essere attestata dai rispettivi insegnanti.   
+Art. 373. - Le Commissioni per gli esami di profitto sono formate dal professore della materia e da due altri insegnanti della scuola.   
+Art. 374. - La Commissione per l'esame di diploma e' formata da cinque membri scelti dal direttore tra gli insegnanti della scuola stessa o cultori della materia: l'esame di diploma consistera' in un esame di cultura generale sugli insegnamenti della scuola e di una discussione sopra una dissertazione originale scritta.   
+Art. 375. - I candidati non riconosciuti idonei potranno presentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola.   
+Nel caso che anche alla seconda prova di esame di diploma non siano riconosciuti idonei, saranno senza altro esclusi da ogni ulteriore prova.   
+Art. 376. - Gli insegnamenti impartiti dalla scuola sono:   
+Corsi fondamentali:   
+1) Meccanica analitica e relativistica;   
+2) Meccanica quantistica;   
+3) Fisica nucleare;   
+4) Complementi di matematica (biennale);   
+5) Teoria dei campi;   
+6) Teoria delle reazioni nucleari.   
+Corsi complementari:   
+1) Fisica statistica;   
+2) Particelle fondamentali;   
+3) Teoria dei gruppi in fisica quantistica;   
+4) Istituzioni di cibernetica.   
+Corsi su argomenti monografici.   
+Art. 377. - Gli iscritti alla scuola devono frequentare e sostenere l'esame delle sei materie fondamentali e di almeno due corsi complementari a scelta.   
+L'ordine degli studi e' il seguente:   
+Primo anno:   
+1) Meccanica analitica e relativistica;   
+2) Meccanica quantistica;   
+3) Fisica nucleare;   
+4) Complementi di matematica I.   
+Corsi monografici.   
+Secondo anno:   
+1) Teoria dei campi;   
+2) Teoria delle reazioni nucleari;   
+3) Complementi di matematica II;   
+4) Fisica statistica;   
+5) Teoria dei gruppi in fisica quantistica;   
+6) Particelle fondamentali;   
+7) Istituzioni di cibernetica.   
+Corsi monografici.   
+Per adire al secondo anno gli iscritti alla scuola dovranno aver superato gli esami relativi agli insegnamenti del primo anno; per adire agli esami di diploma devono aver superato gli esami previsti dall'ordine degli studi ed una prova di cultura generale.   
+Art. 378. - Presso la scuola di perfezionamento in fisica teorica e nucleare sara' istituito, a completamento degli insegnamenti, un seminario di fisica teorica e nucleare.   
+Art. 379. - Gli iscritti alla scuola di perfezionamento sono tenuti a pagare le medesime tasse, soprattasse e contributi generali stabiliti dalle vigenti disposizioni di legge per gli studenti della Facolta'.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1974
+### Dato a Roma, addi' 18 giugno 1958
 
-LEONE MALFATTI
+GRONCHI MORO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 3 marzo 1975
+Registrato alla Corte dei conti, addi' 13 settembre 1958
 
-Atti di Governo, registro n. 8, foglio n. 150
+Atti del Governo, registro n. 114, foglio n. 37. - RELLEVA

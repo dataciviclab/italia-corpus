@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 novembre 1985 n. 881
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1974 n. 480
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 novembre 1985 n. 881
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1974 n. 480
+=============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione ad accettare una donazione a favore dello Stato.
 Art. 1
 ------
 
-n.
+N.
 
-881. Decreto del Presidente della Repubblica 13 novembre 1985, col quale, sulla proposta del Ministro della difesa, il Ministero della difesa viene autorizzato ad accettare la donazione, consistente in sei modelli originali storico-artistici di velieri antichi e di nove modelli di velieri antichi in battaglia, del valore approssimativo di L. 57.000.000, disposta dal prof. Pietro Montauti, con atto 30 gennaio 1985, n. 8598/2826 di repertorio, a rogito dott. Maurizio Tufani, notaio in Frascati (Roma) e registrato a Frascati in data 8 febbraio 1985 al n. 149.  
+480. Decreto del Presidente della Repubblica 22 luglio 1974, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato, consistente in un terreno di effettivi mq 235, disposta dal comune di Montichiari (Brescia), con atto 20 settembre 1972, n. 20997/10648 di repertorio, a rogito notaio Luigi Lechi, da destinare ad ampliamento del fabbricato demaniale in cui hanno sede i locali uffici finanziari.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 27 gennaio 1986  
-Registro n. 3 Difesa, foglio n. 272
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 26 settembre 1974  
+Atti di Governo, registro n. 5, foglio n. 88. - SCIARRETTA

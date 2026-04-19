@@ -1,72 +1,43 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969 n. 413
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1966 n. 287
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969 n. 413
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1966 n. 287
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la proposta di modifica dello statuto formulata dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla
------
-
-proposta del Ministro per la pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Presso l'Universita' degli studi di Perugia e' istituita la facolta' di economia e commercio.  
-L'attuale corso di laurea in economia e commercio, annesso alla facolta' di scienze politiche della stessa universita', passa a far parte della nuova facolta' di economia e commercio.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Per tale facolta' sono assegnati i seguenti posti di ruolo:  
-a) otto posti di professore, mediante trasferimento dall'organico di cui e' dotata la facolta' di scienze politiche della stessa universita' di Perugia e propriamente i posti assegnati alle cattedre di diritto commerciale; statistica; ragioneria generale ed applicata; merceologia; tecnica delle ricerche di mercato e della distribuzione generale; istituzioni di diritto pubblico; storia delle dottrine economiche; politica economica e finanziaria;  
-b) diciassette posti di assistente mediante trasferimento dall'organico di cui e' dotata la facolta' di scienze politiche della stessa Universita' di Perugia e propriamente i posti assegnati alle cattedre di matematica finanziaria (1); economia politica (2); merceologia (3); istituzioni di diritto privato (1); economia e politica agraria (1); istituzioni di diritto pubblico (1); tecniche delle ricerche di mercato e della distribuzione generale (1); ragioneria generale ed applicata (2); politica economica e finanziaria (1); diritto commerciale (1), tecnica bancaria professionale (1); statistica (1); tecnica industriale e commerciale (1).  
-
-Art. 3
-------
-
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Perugia, pertanto, approvato e modificato con i decreti suindicati, e' ulteriormente modificato come appresso:  
-  
-L'art. 15 e' abrogato e sostituito dal seguente: "La facolta' di scienze politiche conferisce, dopo un corso di studi della durata di quattro anni, la laurea in scienze politiche.  
-E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica".  
-Dopo l'art. 20 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente articolo, sotto il cap. IV.  
-Art. 21. - La facolta' di economia e commercio conferisce, dopo un corso di studi della durata di quattro anni, la laurea in economia e commercio.  
-E' titolo di ammissione il diploma di maturita' classica o scientifica; o il diploma di abilitazione per i provenienti dagli istituti tecnici commerciali, per geometri, industriali, agrari, nautici, per periti aziendali e corrispondenti in lingue estere, per il turismo, tecnici femminili.  
-Gli articoli 25 e 26 sono soppressi con il conseguente spostamento della successiva numerazione.  
+Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 56. - Agli insegnamenti complementari del corso di laurea in Medicina veterinaria e' aggiunto quello di:  
+18) Istituzioni matematiche.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo, a chiunque spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 maggio 1969
+### Dato a Roma, addi' 28 marzo 1966
 
-SARAGAT FERRARI AGGRADI
+SARAGAT GUI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 16 luglio 1969
+Registrato alla Corte dei conti, addi' 6 maggio 1966
 
-Atti del Governo, registro n. 228, foglio n. 28. - CARUSO
+Atti del Governo, registro n. 203, foglio n. 12. - VILLA

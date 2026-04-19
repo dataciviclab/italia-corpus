@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 ottobre 1957 n. 1002
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1977 n. 414
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 ottobre 1957 n. 1002
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1977 n. 414
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225) e successivi;
+Veduto lo statuto dell'Universita' di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -22,7 +22,7 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -32,648 +32,515 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 56. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: "semeiotica chirurgica" in sostituzione di "anatomia chirurgica e corso di operazioni".
+Art. 43 - l'elenco degli insegnamenti complementari del corso di laurea in scienze politiche, indirizzo storico politico, e' abrogato e sostituito dal seguente:
 
-Art. 64. - Nell'elenco degli Istituti annessi alla Facolta' di scienze matematiche, fisiche e naturali, e' compreso l'"Istituto e orto botanico".
+storia dell'Europa orientale;
 
-Gli articoli 162 e 169, riguardanti le norme generali relative alle scuole ed ai corsi di specializzazione e di perfezionamento annessi alla Facolta' di medicina e chirurgia, sono sostituiti dai seguenti:
+storia del movimento operaio e del sindacalismo;
 
-Norme generali riguardanti le scuole e i corsi di specializzazione e di perfezionamento annesse alla Facolta' di medicina e chirurgia.
+storia dei partiti e dei movimenti politici;
 
-Art. 162. - Viene cosi' modificato: "Alla scuola sono ammessi, salvo che non sia diversamente disposto nelle norme particolari delle scuole stesse, i laureati in medicina e chirurgia. Non e' ammessa l'iscrizione contemporanea a piu' scuole o corsi di perfezionamento o di specializzazione".
+storia della Chiesa nell'eta' moderna;
 
-Art. 169. - Viene cosi' modificato: "Per essere ammessi all'esame di diploma gli iscritti devono aver seguito i corsi e superato gli esami di profitto stabiliti per ciascuna scuola. Salvo disposizione diversa contenuta nelle norme particolari di ogni scuola, dovranno avere conseguito precedentemente l'abilitazione all'esercizio della professione di medico chirurgo. Devono, inoltre, essere in regola con il pagamento delle tasse, soprattasse e contributi".
+storia dell'Africa contemporanea;
 
-I seguenti articoli, concernenti gli ordinamenti delle scuole e corsi predetti, sono modificati come segue:
+storia degli Stati Uniti;
 
-Art. 173, relativo alla scuola di perfezionamento in pediatria.
+storia del Risorgimento;
 
-Le materie d'insegnamento sono le seguenti:
+storia dell'America latina;
 
-1° anno:
+storia del diritto italiano nell'eta' moderna;
 
-1) Fisiologia pediatrica;
+storia del pensiero politico moderno e contemporaneo;
 
-2) Semiologia fisica e funzionale;
+storia della filosofia.
 
-3) Patologia e clinica pediatrica;
+Art. 44 - l'elenco degli insegnamenti obbligatori sul piano della facolta' e di quelli complementari del corso di laurea in scienze politiche, indirizzo politico sociale, e' abrogato e sostituito dal seguente:
 
-4) Terapia.
+Obbligatori:
 
-2° anno:
+sociologia II;
 
-1) Patologia e clinica pediatrica;
+sociologia urbano-rurale;
 
-2) Terapia.
+sociologia del lavoro ed industriale;
 
-Gli insegnamenti saranno integrati da conferenze di embriologia e anatomia, patologia fetale, anatomia patologica, igiene microbiologia, oculistica, dermatologia, otorinolaringoiatria, ortopedia, odontoiatria su argomenti attinenti la specialita', scelti dal direttore della scuola.
+antropologia culturale;
 
-Art. 181, relativo alla scuola di specializzazione in otorinolaringoiatria.
+Storia della sociologia
 
-Le materie d'insegnamento sono le seguenti:
+Opzionali:
 
-1° anno:
+sociologia della famiglia e dell'educazione;
 
-1) Patologia e clinica delle malattie del naso orecchio e gola;
+sociologia della conoscenza;
 
-2) Semeiotica e tecnica, endoscopica.
+sociologia dello sviluppo;
 
-2° anno:
+sociologia delle comunicazioni;
 
-1) Patologia e clinica delle malattie del naso orecchio e gola;
+metodologia delle scienze sociali;
 
-2) Terapia medica.
+metodologia della ricerca sociale;
 
-3° anno:
+psicologia;
 
-1) Patologia e clinica delle malattie del naso orecchio e gola;
+psicologia sociale;
 
-2) Terapia chirurgica e tecnica operatoria.
+scienza della politica;
 
-Gli insegnamenti sono integrati dia conferenze di anatomia normale, anatomia ed istologia patologica fisiologia, patologia generale, microbiologia ed igiene.
+demografia.
 
-Art. 203, relativo alla scuola di specializzazione in medicina generale.
+L'art. 45, relativo al corso di laurea in scienze politiche, indirizzo politico amministrativo, e' modificato nel senso che nel primo comma la parola "cinque" e' abrogata e sostituita dalla seguente "quattro".
 
-Le materie d'insegnamento sono le seguenti:
+Nello stesso articolo l'elenco degli insegnamenti complementari e' abrogato e sostituito dal seguente:
 
-1° anno:
+diritto parlamentare;
 
-1) Clinica medica;
+diritto pubblico dell'economia;
 
-2) Anatomia ed istologia patologica;
+diritto e legislazione scolastica;
 
-3) Semeiologia fisica.
+diritto pubblico americano;
 
-2° anno:
+diritto regionale e degli enti locali;
 
-1) Clinica medica;
+istituzioni di diritto e procedura penale;
 
-2) Semeiologia fisica;
+organizzazione della pubblica amministrazione;
 
-3) Terapia clinica.
+storia delle istituzioni politiche;
 
-3° anno:
+teoria generale del diritto.
 
-1) Clinica medica;
+Art. 46 - l'elenco degli insegnamenti complementari del corso di laurea in scienze politiche, indirizzo politico economico, e' abrogato e sostituito dal seguente:
 
-2) Anatomia ed istologia patologica;
+economia e politica industriale;
 
-3) Semeiologia funzionale;
+geografia economica e politica;
 
-4) Terapia clinica.
+matematica per economisti;
 
-4° anno:
+storia delle dottrine economiche;
 
-1) Clinica medica;
+teoria dei prezzi e delle forme di mercato;
 
-2) Semeiologia funzionale;
+teoria e politica dello sviluppo economico;
 
-3) Terapia clinica.
+econometria;
 
-Gli insegnamenti saranno integrati da conferenze scelte dal direttore, attinenti alla fisiopatologia generale, epidemiologia e profilassi delle infezioni, eziologia generale ed immunologia.
+economia delle aziende pubbliche;
 
-Art. 210 e 211, relativi alla scuola di specializzazione in dermosifilopatica.
+analisi economica;
 
-Art. 210. - La scuola ha la durata di tre anni. Ha sede presso la clinica dermosifilopatica il cui professore di ruolo e' il direttore della scuola.
+sistemi economici comparati.
 
-Art. 211. - Le materie d'insegnamento sono le seguenti:
+Art. 47 - l'elenco degli insegnamenti obbligatori sul piano della facolta' e di quelli complementari del corso di laurea in scienze politiche, indirizzo politico internazionale, e' abrogato e sostituito dal seguente:
 
-1° anno:
+Obbligatori:
 
-1) Morfologia della cute e degli organi sessuali;
+diritto internazionale;
 
-2) Patologia generale della cute e degli organi sessuali;
+storia contemporanea;
 
-3) Semeiotica, patologia e clinica dermosifilopatica, venereologia clinica.
+storia ed istituzioni dei Paesi afro-asiatici;
 
-2° anno:
+storia delle relazioni internazionali;
 
-1) Semeiotica patologica e clinica dermosifilopatica;
+organizzazione internazionale.
 
-2) Terapia medica dermatologica, terapia venereologica e profilassi antivenerea;
+Opzionali:
 
-3) Radiologia esterna e terapia fisica.
+diritto delle Comunita' europee;
 
-3° anno:
+diritto diplomatico-consolare;
 
-1) Semeiotica, patologia, e clinica dermatologica;
+diritto internazionale del lavoro;
 
-2) Dottrina e pratica dell'udermia;
+diritto internazionale privato;
 
-3) Igiene della cute e terapia artodermica;
+diritto privato comparato;
 
-4) Artomorfia cutanea e chirurgia esterna.
+organizzazione economica internazionale;
 
-Articoli 223 e 224, relativi alla scuola di specializzazione in cardiologia e reumatologia.
+relazioni internazionali;
 
-Art. 223. - La scuola ha la durata di tre anni ed ha sede presso la clinica medica il cui professore di ruolo e' direttore della scuola.
+storia dell'Islam;
 
-Art. 224. - Le materie d'insegnamento sono le seguenti:
+storia dell'Asia orientale;
 
-1° anno:
+sistemi politici comparati.
 
-1) Patologia e clinica delle malattie cardiovascolari;
+L'art. 49, relativo alle norme sulla presentazione della dissertazione di laurea, e' abrogato e sostituito dal seguente:
 
-2) Semeiologia fisica e radiologia.
+I termini entro cui lo studente deve depositare nella segreteria il titolo della dissertazione di laurea, concordato con uno dei docenti della facolta', sia che si tratti di materia obbligatoria, sia che si riferisca a materia tra quelle indicate nei rispettivi indirizzi, vengono stabiliti con delibera del consiglio di facolta'.
 
-2° anno:
+Art. 62 - all'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:
 
-1) Patologia e clinica delle malattie cardiovascolari;
+archeologia e storia dell'arte tardo-romana;
 
-2) Patologia e clinica reumatologica;
+drammaturgia classica.
 
-3) Semeiologia radiologica e funzionale;
+Art. 88 - all'elenco degli insegnamenti complementari del corso di laurea in chimica, per i due indirizzi, sono aggiunti i seguenti: biopolimeri;
 
-4) Terapia clinica.
+chimica degli eterocicli;
 
-3° anno:
+chimica fisica organica.
 
-1) Patologia e clinica delle malattie cardiovascolari;
+Art. 90 - all'elenco degli insegnamenti complementari del corso di laurea in chimica industriale sono aggiunti i seguenti:
 
-2) Patologia e clinica reumatologica;
+biopolimeri:
 
-3) Semeiotica funzionale;
+chimica degli eterocicli;
 
-4) Terapia clinica.
+chimica fisica organica.
 
-Oltre gli insegnamenti suddetti, saranno tenute conferenze su argomenti attinenti alla scuola, scelti dal direttore (anatomia normale, anatomia patologica, fisiopatologia generale e speciale, farmacologia, medicina del lavoro) ed esercitazioni pratiche.
+Art. 96 - all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:
 
-Art. 227, relativo alla scuola di perfezionamento in tisiologia.
+serologia e paleoserologia dei gruppi umani;
 
-Le materie d'insegnamento sono le seguenti:
+etnologia;
 
-1° anno:
+algologia;
 
-1) Patologia e clinica tisiologica;
+micologia;
 
-2) Anatomia patologica;
+geografia regionale;
 
-3) Semelologia fisica e funzionale;
+didattica della chimica;
 
-4) Semeiologia radiologica;
+botanica sistematica;
 
-6) Terapia clinica.
+geologia stratigrafica.
 
-2° anno:
+Art. 101 - all'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti:
 
-1) Patologia e clinica tisiologica;
+geochimica degli isotopi;
 
-2) Semeiotica radiologica;
+paleoecologia.
 
-3) Terapia clinica.
+Art. 108 - e' modificato nel senso che il terzo comma relativo alle modalita' per il conseguimento della laurea in chimica e' soppresso.
 
-Gli allievi devono frequentare oltre i corsi d'insegnamento anche le esercitazioni stabilite dal direttore.
+L'art. 117, relativo alle propedeuticita' degli esami per il corso di laurea in farmacia e' modificato nel senso che il primo comma e' abrogato e sostituito dai seguenti:
 
-Art. 233, relativo alla scuola di specializzazione in igiene e sanita' pubblica.
+Lo studente non puo' iscriversi al laboratorio del 1° corso di esercitazioni di chimica farmaceutica e tossicologica se non ha superato l'esame di chimica generale ed inorganica; pertanto non puo' ottenere la firma di frequenza del suddetto corso.
 
-E' modificato come segue: "Al termine di ogni anno il perfezionando e' tenuto a sostenere un unico esame di profitto comprendente tutte le materie d'insegnamento impartite. Tale esame conste nello svolgimento di un tema scritto, d'una prova orale e di prova pratiche di laboratorio relative al programma svolto durante l'anno di corso".
+La frequenza del 1° corso di esercitazioni di chimica farmaceutica e tossicologica deve precedere quella del 2° corso e la frequenza del 2° quella del 3°.
 
-Il titolo della scuola di specializzazione in anestesia e' modificato in quello di "scuola di specializzazione in anestesiologia".
+Analoghe precedenze sono stabilite per i rispettivi esami.
 
-Alle scuole di perfezionamento e di specializzazione esistenti presso la Facolta' di medicina e chirurgia sono aggiunte le seguenti:
+L'esame di chimica generale inorganica deve precedere quelli di chimica organica e di esercitazioni di chimica farmaceutica e tossicologica 1° corso.
 
-Scuola di perfezionamento in immunoematologia
+Lo studente non puo' iscriversi al laboratorio del 3° corso di esercitazioni di chimica farmaceutica e tossicologica se non ha superato l'esame di chimica organica; pertanto non puo' ottenere la firma di frequenza del suddetto corso.
 
-Art. 253. - La scuola ha la durata di due anni, ha sede presso gli Istituti di medicina legale e di patologia generale. Fanno parte del Consiglio della scuola i professori ufficiali di medicina legale e di patologia generale, tra i quali il Consiglio di facolta' scegliera' ogni due anni il direttore della scuola.
+L'art. 124, relativo all'ordinamento degli studi per il conseguimento della laurea in chimica e tecnologia farmaceutiche e' modificato nel senso che prima dell'ultimo comma sono inseriti i seguenti nuovi commi:
 
-Art. 254. - Le materie d'insegnamento sono le seguenti:
+Lo studente non puo' iscriversi al laboratorio del 1° corso di analisi chimico-farmaceutica se non ha superato l'esame di chimica generale ed inorganica;
 
-1° anno:
+pertanto non puo' ottenere la firma di frequenza del suddetto corso.
 
-1) Biochimica e morfologia del sangue;
+Lo studente non puo' iscriversi al laboratorio del 3° corso di analisi chimico-farmaceutica se non ha superato l'esame di chimica organica 1°; pertanto non puo' ottenere la frequenza del suddetto corso.
 
-2) Gli antigeni individuali: gruppi e fattori ematici;
+L'art. 233, relativo all'importo delle tasse che gli iscritti al corso di specializzazione in discipline fitopatologiche sono tenuti a pagare e' abrogato e sostituito dal seguente:
 
-2° anno:
+Le tasse e soprattasse che gli iscritti sono tenuti a pagare, sono quelle stabilite per gli studenti in corso a norma della [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).
 
-1) Immunita' ed allergia dal punto di vista ematologico;
+La tassa di diploma e' fissata nella misura di L. 6.000.
 
-2) Organizzazione e metodologia trasfusionale;
+L'ammontare dei contributi viene stabilito anno per anno dal consiglio di amministrazione su proposta del senato accademico, udita la facolta'.
 
-3) Malattie da incompatibilita' gruppale.
+L'art. 242, relativo all'importo delle tasse che gli iscritti al corso di specializzazione sulla cooperazione agricola son tenuti a pagare e' abrogato e sostituito dal seguente:
 
-Le lezioni saranno integrate da esercitazioni pratiche e da conferenze attinenti alle materie d'insegnamento scelte dal direttore.
+Le tasse e soprattasse che gli iscritti sono tenuti a pagare non quelle stabilite per gli studenti in corso a norma della [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).
 
-Scuola di specializzazione in radiologia e terapia fisica
+La tassa di diploma e' fissata nella misura di L. 6.000.
 
-Art. 255. - La scuola ha la durata di due anni ed ha sede presso l'Istituto di radiologia il cui professore di ruolo e' il direttore della scuola.
+L'ammontare dei contributi viene stabilito anno per anno dal consiglio di amministrazione, su proposta del senato accademico, udita la facolta'.
 
-Art. 256. - Le materie d'insegnamento sono le seguenti:
+L'art. 251, relativo all'importo delle tasse che gli iscritti al corso di perfezionamento in assistenza e divulgazione agricola son tenuti a pagare e' abrogato e sostituito dal seguente:
 
-1° anno:
+Le tasse e soprattasse che gli iscritti sono tenuti a pagare sono quelle stabilite per gli studenti in corso a norma della [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).
 
-1) Fisica delle radiazioni ionizzanti;
+La tassa di diploma e' fissata nella misura di L. 6.000.
 
-2) Anatomia radiologica;
+L'ammontare dei contributi viene stabilito anno per anno dal consiglio di amministrazione su proposta del senato accademico, udita la facolta'.
 
-3) Tecnica radiologica;
+L'art. 416, relativo all'importo delle tasse che gli iscritti al corso di perfezionamento in alimentazione degli animali agricoli sono tenuti a pagare e' abrogata e sostituita dal seguente:
 
-4) Semeiotica e diagnostica radiologica.
+Le tasse e soprattasse che gli iscritti son tenuti a pagare sono quelle stabilite per gli studenti in corso a norma della [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).
 
-2° anno:
+La tassa di diploma e' fissata nella misura di L. 6.000.
 
-1) Radiobiologia;
+L'ammontare dei contributi viene stabilito anno per anno dal consiglio di amministrazione, su proposta del senato accademico, udita la facolta'.
 
-2) Tecnica Roentegenterapica;
+L'art. 425, relativo all'importo delle tasse che gli iscritti alla scuola di specializzazione in malattie di piccoli animali sono tenuti a pagare e' abrogato e sostituito dal seguente:
 
-3) Tecnica radiumterapica;
+Le tasse e soprattasse che gli iscritti sono tenuti a pagare sono quelle stabilite per gli studenti in corso a norma della [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).
 
-4) Elettroterapia.
+La tassa di diploma e' fissata nella misura di L. 6.000.
 
-I corsi sono integrati da esercitazioni pratiche e da conferenze su argomenti attinenti le materie d'insegnamento. Gli allievi sono tenuti alla frequenza continuativa nell'Istituto di radiologia.
+L'ammontare dei contributi viene stabilito anno per anno dal consiglio di amministrazione, su proposta del senato accademico, udita la facolta'.
 
-Scuola di specializzazione in idrologia medica
+Dopo l'art. 425, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla istituzione del corso di perfezionamento in patologia del cavallo, annesso alla facolta' di medicina veterinaria:
 
-Art. 257. - La scuola ha la durata di due anni ed ha sede nell'Istituto di idrologia, presso la clinica dermosifilopatica. Il direttore della scuola e' il professore di ruolo di clinica dermosifilopatica e professore ufficiale di idrologia. In sua assenza il direttore viene nominato dal Consiglio di facolta'. Fanno parte del Consiglio della scuola i professori, di ruolo di igiene, farmacologia, clinica medica, clinica chirurgica, clinica ostetrica ginecologica, clinica pediatrica, medicina legale.
+Corso di perfezionamento in patologia del cavallo
 
-Art. 258. - Le materie d'insegnamento sono le seguenti:
+Art. 426. - Alla facolta' di medicina veterinaria e' annesso un corso di perfezionamento in patologia del cavallo.
 
-1° anno:
+Il corso ha la durata di un anno. Esso e' retto da un consiglio costituito dai professori incaricati degli insegnamenti e ne e' direttore il preside della facolta' il quale puo' nominare un vice-direttore.
 
-1) Igiene idrologica;
+La facolta' designa annualmente i professori ai quali debbono essere affidati gli insegnamenti, le conferenze o i seminari.
 
-2) Farmacologia idrologica;
+Al corso sono ammessi i laureati in medicina veterinaria in numero massimo che viene fissato annualmente dal consiglio della facolta' di medicina veterinaria.
 
-3) Idrologia generale a) interna, b) esterna;
+Art. 427. - Gli insegnamenti, che verteranno principalmente sui problemi del cavallo sportivo e da competizione, sono i seguenti:
 
-4) Terapia idrologica;
+anatomia e fisiologia;
 
-5) Terapia fisica idrologica.
+anatomia patologica;
 
-2° anno:
+alimentazione e allevamento;
 
-1) Medicina interna e terapia idrologica;
+genetica;
 
-2) Idrologia ortopedica;
+patologia della riproduzione;
 
-3) Idrologia ginecologica;
+podologia e mascalcia;
 
-4) Idrologia pediatrica;
+malattie infettive;
 
-5) Medicina, preventiva e terapia idrologica.
+malattie parassitarie;
 
-Oltre ai corsi saranno tenute esercitazioni, attivita' dimostrative, conferenze a cui gli allievi sono tenuti ad assistere.
+clinica medica e terapia;
 
-Scuola di perfezionamento in puericultura e dietetica infantile
+chirurgia;
 
-Art. 259. - La scuola ha la durata di due anni, ha sede presso la clinica pediatrica, il cui professore di ruolo e direttore della scuola.
+tossicologia.
 
-Art. 260. - Le materie d'insegnamento sono le seguenti:
+Gli insegnamenti sopraindicati avranno la durata che per ciascuno di essi sara' fissata annualmente dal consiglio dei professori del corso e saranno svolti in parte sotto forma di lezioni e conferenze, in parte con esercitazioni pratiche.
 
-1° anno:
+Al termine del corso gli allievi devono superare gli esami di profitto che vengono sostenuti per singole materie o per gruppi di materie affini secondo quante prescritto dal consiglio dei professori.
 
-1) Fisiologia della nutrizione nell'infanzia;
+Le commissioni per gli esami di profitto vengono nominate dal preside e si compongono rispettivamente di tre o cinque membri, a seconda che si tratti di materia singola o di gruppi di materie.
 
-2) Alimentazione del lattante e del bambino fino all'adolescenza;
+Dopo aver superato gli esami di profitto gli allievi devono sostenere un esame finale consistente nella discussione di una dissertazione scritta, su argomento scelto dal candidato e approvato da un professore del corso.
 
-3) L'alimentazione nella patologia del bambino.
+La commissione per l'esame finale viene nominata dal preside e si compone di sette membri dei quali almeno quattro scelti tra i docenti del corso.
 
-2° anno:
+La facolta' rilascia un certificato di frequenza e di profitto in patologia del cavallo per gli allievi che hanno superato gli esami di profitto e gli esami finali.
 
-1) Auxologia;
+Art. 428. - Le tasse e soprattasse che gli iscritti sono tenuti a pagare sono quelle stabilite per gli studenti in corso a norma della [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).
 
-2) Psicologia del bambino;
+La tassa di diploma e' fissata nella misura di L. 6.000.
 
-3) Igiene-profilassi delle malattie infettive;
-
-4) Assistenza sociale all'infanzia.
-
-I corsi di insegnamento potranno essere integrati da conferenze scelte dalla Direzione.
-
-Scuola di specializzazione in igiene e medicina scolastica
-
-Art. 261. - La scuola ha la durata di due anni ed ha sede presso gli Istituti di igiene e clinica pediatrica. Fanno parte del Consiglio della scuola i professori ufficiali di igiene e clinica pediatrica, fra i quali il Consiglio di facolta' designa ogni due anni il direttore della scuola.
-
-Art. 262. - Le materie d'insegnamento sono le seguenti:
-
-1° anno:
-
-1) Demografia, statistica sanitaria e medicina sociale;
-
-2) Igiene dell'alimentazione;
-
-3) Igiene scolastica e legislazione scolastica;
-
-4) Patologia e clinica delle malattie proprie dell'eta' scolare (1° corso);
-
-5) Epidemiologia e profilassi delle malattie proprie dell'eta' scolare (1° corso);
-
-6) Diagnostica di laboratorio delle malattie infettive e parassitarie dell'eta' scolare.
-
-2° anno:
-
-1) Padagogia e artofrenia;
-
-2) Psicologia del lavoro mentale e psicologia sperimentale;
-
-3) Auxologia, ed educazione fisica;
-
-4) Patologia e clinica delle malattie proprie dell'eta' scolare (2° corso);
-
-5) Epidemiologia e profilassi delle malattie proprie dell'eta' scolare (2° corso);
-
-6) Fisiopatologia dell'eta' puberale.
-
-Gli insegnamenti sono integrati da esercitazioni teoriche e pratiche.
-
-Saranno altresi' tenute conferenze su argomenti attinenti all'igiene, all'organizzazione di assistenza medico scolastica e alla neuropsichiatria infantile.
-
-Art. 263. - Gli allievi sono tenuti a compiere turni di internato stabiliti dal direttore, che comportano un servizio identico a quello di assistente.
-
-Scuola di perfezionamento di igiene, tecnica e direzione ospedaliera
-
-Art. 264. - La scuola ha la durata di due anni e ha sede presso l'Istituto d'igiene.
-
-Il direttore della scuola e' il professore di ruolo d'igiene.
-
-Art. 265. - Le materie d'insegnamento sono le seguenti:
-
-1° anno:
-
-1) L'assistenza ospedaliera nel quadro dell'organizzazione sanitaria. Storia degli ospedali e delle costruzioni ospedaliere;
-
-2) Demografia, statistica sanitaria e medicina sociale;
-
-3) Epidemiologia e profilassi delle malattie infettive;
-
-4) Igiene e tecnica delle costruzioni ospedaliere, arredamento ed impianti sanitari (1° corso);
-
-5) Organizzazione e funzionamento degli ospedali generali (1° corso);
-
-6) Diagnostica di laboratorio delle malattie infettive e parassitarie.
-
-2° anno:
-
-1) Diritto amministrativo e legislazione ospedaliera;
-
-2) Igiene e tecnica delle costruzioni ospedaliere; arredamento ed impianti sanitari (2° corso);
-
-3) Organizzazione e funzionamento degli ospedali generali (2° corso);
-
-4) Legalizzazione e funzionamento degli ospedali speciali;
-
-5) Alimentazione e dietetica ospedaliera;
-
-6) Istruzione professionale del personale di assistenza immediata.
-
-Art. 266. - Gli insegnamenti sono accompagnati da esercitazioni pratiche presso l'Istituto di igiene, da visite ad ospedali ed impianti medico sanitari.
-
-Saranno tenute conferenze su argomenti attinenti alle discipline igieniche ed alla organizzazione dei servizi di assistenza ospedaliera.
-
-Art. 267. - Gli allievi sono tenuti a compiere periodi di internato stabiliti dal direttore della scuola, con obblighi di servizio identici a quelli di assistente volontario.
+L'ammontare dei contributi viene stabilito anno per anno dal consiglio di amministrazione, su proposta del senato accademico, udita la facolta'.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 3 ottobre 1957
+Dato a Roma, addi' 1 giugno 1977
 
-GRONCHI
+LEONE
 
-MORO
+MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 31 ottobre 1957 Atti del Governo, registro n. 108, foglio n. 126. - RELLEVA
+alla Corte dei conti, addi' 19 luglio 1977 Registro n. 81 Istruzione, foglio n. 375
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 56. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: "semeiotica chirurgica" in sostituzione di "anatomia chirurgica e corso di operazioni".  
-Art. 64. - Nell'elenco degli Istituti annessi alla Facolta' di scienze matematiche, fisiche e naturali, e' compreso l'"Istituto e orto botanico".  
-Gli articoli 162 e 169, riguardanti le norme generali relative alle scuole ed ai corsi di specializzazione e di perfezionamento annessi alla Facolta' di medicina e chirurgia, sono sostituiti dai seguenti:  
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 43 - l'elenco degli insegnamenti complementari del corso di laurea in scienze politiche, indirizzo storico politico, e' abrogato e sostituito dal seguente:   
+storia dell'Europa orientale;   
+storia del movimento operaio e del sindacalismo;   
+storia dei partiti e dei movimenti politici;   
+storia della Chiesa nell'eta' moderna;   
+storia dell'Africa contemporanea;   
+storia degli Stati Uniti;   
+storia del Risorgimento;   
+storia dell'America latina;   
+storia del diritto italiano nell'eta' moderna;   
+storia del pensiero politico moderno e contemporaneo;   
+storia della filosofia.   
+Art. 44 - l'elenco degli insegnamenti obbligatori sul piano della facolta' e di quelli complementari del corso di laurea in scienze politiche, indirizzo politico sociale, e' abrogato e sostituito dal seguente:   
+Obbligatori:   
+sociologia II;   
+sociologia urbano-rurale;   
+sociologia del lavoro ed industriale;   
+antropologia culturale;   
+Storia della sociologia   
+Opzionali:   
+sociologia della famiglia e dell'educazione;   
+sociologia della conoscenza;   
+sociologia dello sviluppo;   
+sociologia delle comunicazioni;   
+metodologia delle scienze sociali;   
+metodologia della ricerca sociale;   
+psicologia;   
+psicologia sociale;   
+scienza della politica;   
+demografia.   
+L'art. 45, relativo al corso di laurea in scienze politiche, indirizzo politico amministrativo, e' modificato nel senso che nel primo comma la parola "cinque" e' abrogata e sostituita dalla seguente "quattro".   
+Nello stesso articolo l'elenco degli insegnamenti complementari e' abrogato e sostituito dal seguente:   
+diritto parlamentare;   
+diritto pubblico dell'economia;   
+diritto e legislazione scolastica;   
+diritto pubblico americano;   
+diritto regionale e degli enti locali;   
+istituzioni di diritto e procedura penale;   
+organizzazione della pubblica amministrazione;   
+storia delle istituzioni politiche;   
+teoria generale del diritto.   
+Art. 46 - l'elenco degli insegnamenti complementari del corso di laurea in scienze politiche, indirizzo politico economico, e' abrogato e sostituito dal seguente:   
+economia e politica industriale;   
+geografia economica e politica;   
+matematica per economisti;   
+storia delle dottrine economiche;   
+teoria dei prezzi e delle forme di mercato;   
+teoria e politica dello sviluppo economico;   
+econometria;   
+economia delle aziende pubbliche;   
+analisi economica;   
+sistemi economici comparati.   
+Art. 47 - l'elenco degli insegnamenti obbligatori sul piano della facolta' e di quelli complementari del corso di laurea in scienze politiche, indirizzo politico internazionale, e' abrogato e sostituito dal seguente:   
+Obbligatori:   
+diritto internazionale;   
+storia contemporanea;   
+storia ed istituzioni dei Paesi afro-asiatici;   
+storia delle relazioni internazionali;   
+organizzazione internazionale.   
+Opzionali:   
+diritto delle Comunita' europee;   
+diritto diplomatico-consolare;   
+diritto internazionale del lavoro;   
+diritto internazionale privato;   
+diritto privato comparato;   
+organizzazione economica internazionale;   
+relazioni internazionali;   
+storia dell'Islam;   
+storia dell'Asia orientale;   
+sistemi politici comparati.   
+L'art. 49, relativo alle norme sulla presentazione della dissertazione di laurea, e' abrogato e sostituito dal seguente:   
   
-Norme generali riguardanti le scuole e i corsi di specializzazione e di perfezionamento annesse alla Facolta' di medicina e chirurgia.  
+I termini entro cui lo studente deve depositare nella segreteria il titolo della dissertazione di laurea, concordato con uno dei docenti della facolta', sia che si tratti di materia obbligatoria, sia che si riferisca a materia tra quelle indicate nei rispettivi indirizzi, vengono stabiliti con delibera del consiglio di facolta'.   
+Art. 62 - all'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:   
+archeologia e storia dell'arte tardo-romana;   
+drammaturgia classica.   
+Art. 88 - all'elenco degli insegnamenti complementari del corso di laurea in chimica, per i due indirizzi, sono aggiunti i seguenti: biopolimeri;   
+chimica degli eterocicli;   
+chimica fisica organica.   
+Art. 90 - all'elenco degli insegnamenti complementari del corso di laurea in chimica industriale sono aggiunti i seguenti:   
+biopolimeri:   
+chimica degli eterocicli;   
+chimica fisica organica.   
+Art. 96 - all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:   
+serologia e paleoserologia dei gruppi umani;   
+etnologia;   
+algologia;   
+micologia;   
+geografia regionale;   
+didattica della chimica;   
+botanica sistematica;   
+geologia stratigrafica.   
+Art. 101 - all'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti:   
+geochimica degli isotopi;   
+paleoecologia.   
+Art. 108 - e' modificato nel senso che il terzo comma relativo alle modalita' per il conseguimento della laurea in chimica e' soppresso.   
+L'art. 117, relativo alle propedeuticita' degli esami per il corso di laurea in farmacia e' modificato nel senso che il primo comma e' abrogato e sostituito dai seguenti:   
   
-Art. 162. - Viene cosi' modificato: "Alla scuola sono ammessi, salvo che non sia diversamente disposto nelle norme particolari delle scuole stesse, i laureati in medicina e chirurgia. Non e' ammessa l'iscrizione contemporanea a piu' scuole o corsi di perfezionamento o di specializzazione".  
-Art. 169. - Viene cosi' modificato: "Per essere ammessi all'esame di diploma gli iscritti devono aver seguito i corsi e superato gli esami di profitto stabiliti per ciascuna scuola. Salvo disposizione diversa contenuta nelle norme particolari di ogni scuola, dovranno avere conseguito precedentemente l'abilitazione all'esercizio della professione di medico chirurgo. Devono, inoltre, essere in regola con il pagamento delle tasse, soprattasse e contributi".  
-I seguenti articoli, concernenti gli ordinamenti delle scuole e corsi predetti, sono modificati come segue:  
-Art. 173, relativo alla scuola di perfezionamento in pediatria.  
-Le materie d'insegnamento sono le seguenti:  
-1° anno:  
-1) Fisiologia pediatrica;  
-2) Semiologia fisica e funzionale;  
-3) Patologia e clinica pediatrica;  
-4) Terapia.  
-2° anno:  
-1) Patologia e clinica pediatrica;  
-2) Terapia.  
-Gli insegnamenti saranno integrati da conferenze di embriologia e anatomia, patologia fetale, anatomia patologica, igiene microbiologia, oculistica, dermatologia, otorinolaringoiatria, ortopedia, odontoiatria su argomenti attinenti la specialita', scelti dal direttore della scuola.  
-Art. 181, relativo alla scuola di specializzazione in otorinolaringoiatria.  
-Le materie d'insegnamento sono le seguenti:  
-1° anno:  
-1) Patologia e clinica delle malattie del naso orecchio e gola;  
-2) Semeiotica e tecnica, endoscopica.  
-2° anno:  
-1) Patologia e clinica delle malattie del naso orecchio e gola;  
-2) Terapia medica.  
-3° anno:  
-1) Patologia e clinica delle malattie del naso orecchio e gola;  
-2) Terapia chirurgica e tecnica operatoria.  
-Gli insegnamenti sono integrati dia conferenze di anatomia normale, anatomia ed istologia patologica fisiologia, patologia generale, microbiologia ed igiene.  
-Art. 203, relativo alla scuola di specializzazione in medicina generale.  
-Le materie d'insegnamento sono le seguenti:  
-1° anno:  
-1) Clinica medica;  
-2) Anatomia ed istologia patologica;  
-3) Semeiologia fisica.  
-2° anno:  
-1) Clinica medica;  
-2) Semeiologia fisica;  
-3) Terapia clinica.  
-3° anno:  
-1) Clinica medica;  
-2) Anatomia ed istologia patologica;  
-3) Semeiologia funzionale;  
-4) Terapia clinica.  
-4° anno:  
-1) Clinica medica;  
-2) Semeiologia funzionale;  
-3) Terapia clinica.  
-Gli insegnamenti saranno integrati da conferenze scelte dal direttore, attinenti alla fisiopatologia generale, epidemiologia e profilassi delle infezioni, eziologia generale ed immunologia.  
-Art. 210 e 211, relativi alla scuola di specializzazione in dermosifilopatica.  
-Art. 210. - La scuola ha la durata di tre anni. Ha sede presso la clinica dermosifilopatica il cui professore di ruolo e' il direttore della scuola.  
-Art. 211. - Le materie d'insegnamento sono le seguenti:  
-1° anno:  
-1) Morfologia della cute e degli organi sessuali;  
-2) Patologia generale della cute e degli organi sessuali;  
-3) Semeiotica, patologia e clinica dermosifilopatica, venereologia clinica.  
-2° anno:  
-1) Semeiotica patologica e clinica dermosifilopatica;  
-2) Terapia medica dermatologica, terapia venereologica e profilassi antivenerea;  
-3) Radiologia esterna e terapia fisica.  
-3° anno:  
-1) Semeiotica, patologia, e clinica dermatologica;  
-2) Dottrina e pratica dell'udermia;  
-3) Igiene della cute e terapia artodermica;  
-4) Artomorfia cutanea e chirurgia esterna.  
-Articoli 223 e 224, relativi alla scuola di specializzazione in cardiologia e reumatologia.  
-Art. 223. - La scuola ha la durata di tre anni ed ha sede presso la clinica medica il cui professore di ruolo e' direttore della scuola.  
-Art. 224. - Le materie d'insegnamento sono le seguenti:  
-1° anno:  
-1) Patologia e clinica delle malattie cardiovascolari;  
-2) Semeiologia fisica e radiologia.  
-2° anno:  
-1) Patologia e clinica delle malattie cardiovascolari;  
-2) Patologia e clinica reumatologica;  
-3) Semeiologia radiologica e funzionale;  
-4) Terapia clinica.  
-3° anno:  
-1) Patologia e clinica delle malattie cardiovascolari;  
-2) Patologia e clinica reumatologica;  
-3) Semeiotica funzionale;  
-4) Terapia clinica.  
-Oltre gli insegnamenti suddetti, saranno tenute conferenze su argomenti attinenti alla scuola, scelti dal direttore (anatomia normale, anatomia patologica, fisiopatologia generale e speciale, farmacologia, medicina del lavoro) ed esercitazioni pratiche.  
-Art. 227, relativo alla scuola di perfezionamento in tisiologia.  
-Le materie d'insegnamento sono le seguenti:  
-1° anno:  
-1) Patologia e clinica tisiologica;  
-2) Anatomia patologica;  
-3) Semelologia fisica e funzionale;  
-4) Semeiologia radiologica;  
-6) Terapia clinica.  
-2° anno:  
-1) Patologia e clinica tisiologica;  
-2) Semeiotica radiologica;  
-3) Terapia clinica.  
-Gli allievi devono frequentare oltre i corsi d'insegnamento anche le esercitazioni stabilite dal direttore.  
-Art. 233, relativo alla scuola di specializzazione in igiene e sanita' pubblica.  
-E' modificato come segue: "Al termine di ogni anno il perfezionando e' tenuto a sostenere un unico esame di profitto comprendente tutte le materie d'insegnamento impartite. Tale esame conste nello svolgimento di un tema scritto, d'una prova orale e di prova pratiche di laboratorio relative al programma svolto durante l'anno di corso".  
-Il titolo della scuola di specializzazione in anestesia e' modificato in quello di "scuola di specializzazione in anestesiologia".  
-Alle scuole di perfezionamento e di specializzazione esistenti presso la Facolta' di medicina e chirurgia sono aggiunte le seguenti:  
+Lo studente non puo' iscriversi al laboratorio del 1° corso di esercitazioni di chimica farmaceutica e tossicologica se non ha superato l'esame di chimica generale ed inorganica; pertanto non puo' ottenere la firma di frequenza del suddetto corso.   
+La frequenza del 1° corso di esercitazioni di chimica farmaceutica e tossicologica deve precedere quella del 2° corso e la frequenza del 2° quella del 3°.   
+Analoghe precedenze sono stabilite per i rispettivi esami.   
+L'esame di chimica generale inorganica deve precedere quelli di chimica organica e di esercitazioni di chimica farmaceutica e tossicologica 1° corso.   
+Lo studente non puo' iscriversi al laboratorio del 3° corso di esercitazioni di chimica farmaceutica e tossicologica se non ha superato l'esame di chimica organica; pertanto non puo' ottenere la firma di frequenza del suddetto corso.   
+L'art. 124, relativo all'ordinamento degli studi per il conseguimento della laurea in chimica e tecnologia farmaceutiche e' modificato nel senso che prima dell'ultimo comma sono inseriti i seguenti nuovi commi:   
   
-Scuola di perfezionamento in immunoematologia  
+Lo studente non puo' iscriversi al laboratorio del 1° corso di analisi chimico-farmaceutica se non ha superato l'esame di chimica generale ed inorganica;   
+pertanto non puo' ottenere la firma di frequenza del suddetto corso.   
+Lo studente non puo' iscriversi al laboratorio del 3° corso di analisi chimico-farmaceutica se non ha superato l'esame di chimica organica 1°; pertanto non puo' ottenere la frequenza del suddetto corso.   
+L'art. 233, relativo all'importo delle tasse che gli iscritti al corso di specializzazione in discipline fitopatologiche sono tenuti a pagare e' abrogato e sostituito dal seguente:   
   
-Art. 253. - La scuola ha la durata di due anni, ha sede presso gli Istituti di medicina legale e di patologia generale. Fanno parte del Consiglio della scuola i professori ufficiali di medicina legale e di patologia generale, tra i quali il Consiglio di facolta' scegliera' ogni due anni il direttore della scuola.  
-Art. 254. - Le materie d'insegnamento sono le seguenti:  
-1° anno:  
-1) Biochimica e morfologia del sangue;  
-2) Gli antigeni individuali: gruppi e fattori ematici;  
-2° anno:  
-1) Immunita' ed allergia dal punto di vista ematologico;  
-2) Organizzazione e metodologia trasfusionale;  
-3) Malattie da incompatibilita' gruppale.  
-Le lezioni saranno integrate da esercitazioni pratiche e da conferenze attinenti alle materie d'insegnamento scelte dal direttore.  
+Le tasse e soprattasse che gli iscritti sono tenuti a pagare, sono quelle stabilite per gli studenti in corso a norma della [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).   
+La tassa di diploma e' fissata nella misura di L. 6.000.   
+L'ammontare dei contributi viene stabilito anno per anno dal consiglio di amministrazione su proposta del senato accademico, udita la facolta'.   
+L'art. 242, relativo all'importo delle tasse che gli iscritti al corso di specializzazione sulla cooperazione agricola son tenuti a pagare e' abrogato e sostituito dal seguente:   
   
-Scuola di specializzazione in radiologia e terapia fisica  
+Le tasse e soprattasse che gli iscritti sono tenuti a pagare non quelle stabilite per gli studenti in corso a norma della [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).   
+La tassa di diploma e' fissata nella misura di L. 6.000.   
+L'ammontare dei contributi viene stabilito anno per anno dal consiglio di amministrazione, su proposta del senato accademico, udita la facolta'.   
+L'art. 251, relativo all'importo delle tasse che gli iscritti al corso di perfezionamento in assistenza e divulgazione agricola son tenuti a pagare e' abrogato e sostituito dal seguente:   
   
-Art. 255. - La scuola ha la durata di due anni ed ha sede presso l'Istituto di radiologia il cui professore di ruolo e' il direttore della scuola.  
-Art. 256. - Le materie d'insegnamento sono le seguenti:  
-1° anno:  
-1) Fisica delle radiazioni ionizzanti;  
-2) Anatomia radiologica;  
-3) Tecnica radiologica;  
-4) Semeiotica e diagnostica radiologica.  
-2° anno:  
-1) Radiobiologia;  
-2) Tecnica Roentegenterapica;  
-3) Tecnica radiumterapica;  
-4) Elettroterapia.  
-I corsi sono integrati da esercitazioni pratiche e da conferenze su argomenti attinenti le materie d'insegnamento. Gli allievi sono tenuti alla frequenza continuativa nell'Istituto di radiologia.  
+Le tasse e soprattasse che gli iscritti sono tenuti a pagare sono quelle stabilite per gli studenti in corso a norma della [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).   
+La tassa di diploma e' fissata nella misura di L. 6.000.   
+L'ammontare dei contributi viene stabilito anno per anno dal consiglio di amministrazione su proposta del senato accademico, udita la facolta'.   
+L'art. 416, relativo all'importo delle tasse che gli iscritti al corso di perfezionamento in alimentazione degli animali agricoli sono tenuti a pagare e' abrogata e sostituita dal seguente:   
   
-Scuola di specializzazione in idrologia medica  
+Le tasse e soprattasse che gli iscritti son tenuti a pagare sono quelle stabilite per gli studenti in corso a norma della [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).   
+La tassa di diploma e' fissata nella misura di L. 6.000.   
+L'ammontare dei contributi viene stabilito anno per anno dal consiglio di amministrazione, su proposta del senato accademico, udita la facolta'.   
+L'art. 425, relativo all'importo delle tasse che gli iscritti alla scuola di specializzazione in malattie di piccoli animali sono tenuti a pagare e' abrogato e sostituito dal seguente:   
   
-Art. 257. - La scuola ha la durata di due anni ed ha sede nell'Istituto di idrologia, presso la clinica dermosifilopatica. Il direttore della scuola e' il professore di ruolo di clinica dermosifilopatica e professore ufficiale di idrologia. In sua assenza il direttore viene nominato dal Consiglio di facolta'. Fanno parte del Consiglio della scuola i professori, di ruolo di igiene, farmacologia, clinica medica, clinica chirurgica, clinica ostetrica ginecologica, clinica pediatrica, medicina legale.  
-Art. 258. - Le materie d'insegnamento sono le seguenti:  
-1° anno:  
-1) Igiene idrologica;  
-2) Farmacologia idrologica;  
-3) Idrologia generale a) interna, b) esterna;  
-4) Terapia idrologica;  
-5) Terapia fisica idrologica.  
-2° anno:  
-1) Medicina interna e terapia idrologica;  
-2) Idrologia ortopedica;  
-3) Idrologia ginecologica;  
-4) Idrologia pediatrica;  
-5) Medicina, preventiva e terapia idrologica.  
-Oltre ai corsi saranno tenute esercitazioni, attivita' dimostrative, conferenze a cui gli allievi sono tenuti ad assistere.  
+Le tasse e soprattasse che gli iscritti sono tenuti a pagare sono quelle stabilite per gli studenti in corso a norma della [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).   
+La tassa di diploma e' fissata nella misura di L. 6.000.   
+L'ammontare dei contributi viene stabilito anno per anno dal consiglio di amministrazione, su proposta del senato accademico, udita la facolta'.   
+Dopo l'art. 425, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla istituzione del corso di perfezionamento in patologia del cavallo, annesso alla facolta' di medicina veterinaria:   
   
-Scuola di perfezionamento in puericultura e dietetica infantile  
-  
-Art. 259. - La scuola ha la durata di due anni, ha sede presso la clinica pediatrica, il cui professore di ruolo e direttore della scuola.  
-Art. 260. - Le materie d'insegnamento sono le seguenti:  
-1° anno:  
-1) Fisiologia della nutrizione nell'infanzia;  
-2) Alimentazione del lattante e del bambino fino all'adolescenza;  
-3) L'alimentazione nella patologia del bambino.  
-2° anno:  
-1) Auxologia;  
-2) Psicologia del bambino;  
-3) Igiene-profilassi delle malattie infettive;  
-4) Assistenza sociale all'infanzia.  
-I corsi di insegnamento potranno essere integrati da conferenze scelte dalla Direzione.  
-  
-Scuola di specializzazione in igiene e medicina scolastica  
-  
-Art. 261. - La scuola ha la durata di due anni ed ha sede presso gli Istituti di igiene e clinica pediatrica. Fanno parte del Consiglio della scuola i professori ufficiali di igiene e clinica pediatrica, fra i quali il Consiglio di facolta' designa ogni due anni il direttore della scuola.  
-Art. 262. - Le materie d'insegnamento sono le seguenti:  
-1° anno:  
-1) Demografia, statistica sanitaria e medicina sociale;  
-2) Igiene dell'alimentazione;  
-3) Igiene scolastica e legislazione scolastica;  
-4) Patologia e clinica delle malattie proprie dell'eta' scolare (1° corso);  
-5) Epidemiologia e profilassi delle malattie proprie dell'eta' scolare (1° corso);  
-6) Diagnostica di laboratorio delle malattie infettive e parassitarie dell'eta' scolare.  
-2° anno:  
-1) Padagogia e artofrenia;  
-2) Psicologia del lavoro mentale e psicologia sperimentale;  
-3) Auxologia, ed educazione fisica;  
-4) Patologia e clinica delle malattie proprie dell'eta' scolare (2° corso);  
-5) Epidemiologia e profilassi delle malattie proprie dell'eta' scolare (2° corso);  
-6) Fisiopatologia dell'eta' puberale.  
-Gli insegnamenti sono integrati da esercitazioni teoriche e pratiche.  
-Saranno altresi' tenute conferenze su argomenti attinenti all'igiene, all'organizzazione di assistenza medico scolastica e alla neuropsichiatria infantile.  
-Art. 263. - Gli allievi sono tenuti a compiere turni di internato stabiliti dal direttore, che comportano un servizio identico a quello di assistente.  
-  
-Scuola di perfezionamento di igiene, tecnica e direzione ospedaliera   
-Art. 264. - La scuola ha la durata di due anni e ha sede presso l'Istituto d'igiene.  
-Il direttore della scuola e' il professore di ruolo d'igiene.  
-Art. 265. - Le materie d'insegnamento sono le seguenti:  
-1° anno:  
-1) L'assistenza ospedaliera nel quadro dell'organizzazione sanitaria. Storia degli ospedali e delle costruzioni ospedaliere;  
-2) Demografia, statistica sanitaria e medicina sociale;  
-3) Epidemiologia e profilassi delle malattie infettive;  
-4) Igiene e tecnica delle costruzioni ospedaliere, arredamento ed impianti sanitari (1° corso);  
-5) Organizzazione e funzionamento degli ospedali generali (1° corso);  
-6) Diagnostica di laboratorio delle malattie infettive e parassitarie.  
-2° anno:  
-1) Diritto amministrativo e legislazione ospedaliera;  
-2) Igiene e tecnica delle costruzioni ospedaliere; arredamento ed impianti sanitari (2° corso);  
-3) Organizzazione e funzionamento degli ospedali generali (2° corso);  
-4) Legalizzazione e funzionamento degli ospedali speciali;  
-5) Alimentazione e dietetica ospedaliera;  
-6) Istruzione professionale del personale di assistenza immediata.  
-Art. 266. - Gli insegnamenti sono accompagnati da esercitazioni pratiche presso l'Istituto di igiene, da visite ad ospedali ed impianti medico sanitari.  
-Saranno tenute conferenze su argomenti attinenti alle discipline igieniche ed alla organizzazione dei servizi di assistenza ospedaliera.  
-Art. 267. - Gli allievi sono tenuti a compiere periodi di internato stabiliti dal direttore della scuola, con obblighi di servizio identici a quelli di assistente volontario.  
+Corso di perfezionamento in patologia del cavallo   
+Art. 426. - Alla facolta' di medicina veterinaria e' annesso un corso di perfezionamento in patologia del cavallo.   
+Il corso ha la durata di un anno. Esso e' retto da un consiglio costituito dai professori incaricati degli insegnamenti e ne e' direttore il preside della facolta' il quale puo' nominare un vice-direttore.   
+La facolta' designa annualmente i professori ai quali debbono essere affidati gli insegnamenti, le conferenze o i seminari.   
+Al corso sono ammessi i laureati in medicina veterinaria in numero massimo che viene fissato annualmente dal consiglio della facolta' di medicina veterinaria.   
+Art. 427. - Gli insegnamenti, che verteranno principalmente sui problemi del cavallo sportivo e da competizione, sono i seguenti:   
+anatomia e fisiologia;   
+anatomia patologica;   
+alimentazione e allevamento;   
+genetica;   
+patologia della riproduzione;   
+podologia e mascalcia;   
+malattie infettive;   
+malattie parassitarie;   
+clinica medica e terapia;   
+chirurgia;   
+tossicologia.   
+Gli insegnamenti sopraindicati avranno la durata che per ciascuno di essi sara' fissata annualmente dal consiglio dei professori del corso e saranno svolti in parte sotto forma di lezioni e conferenze, in parte con esercitazioni pratiche.   
+Al termine del corso gli allievi devono superare gli esami di profitto che vengono sostenuti per singole materie o per gruppi di materie affini secondo quante prescritto dal consiglio dei professori.   
+Le commissioni per gli esami di profitto vengono nominate dal preside e si compongono rispettivamente di tre o cinque membri, a seconda che si tratti di materia singola o di gruppi di materie.   
+Dopo aver superato gli esami di profitto gli allievi devono sostenere un esame finale consistente nella discussione di una dissertazione scritta, su argomento scelto dal candidato e approvato da un professore del corso.   
+La commissione per l'esame finale viene nominata dal preside e si compone di sette membri dei quali almeno quattro scelti tra i docenti del corso.   
+La facolta' rilascia un certificato di frequenza e di profitto in patologia del cavallo per gli allievi che hanno superato gli esami di profitto e gli esami finali.   
+Art. 428. - Le tasse e soprattasse che gli iscritti sono tenuti a pagare sono quelle stabilite per gli studenti in corso a norma della [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).   
+La tassa di diploma e' fissata nella misura di L. 6.000.   
+L'ammontare dei contributi viene stabilito anno per anno dal consiglio di amministrazione, su proposta del senato accademico, udita la facolta'.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 ottobre 1957
+### Dato a Roma, addi' 1 giugno 1977
 
-GRONCHI MORO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 31 ottobre 1957
+Registrato alla Corte dei conti, addi' 19 luglio 1977
 
-Atti del Governo, registro n. 108, foglio n. 126. - RELLEVA
+Registro n. 81 Istruzione, foglio n. 375

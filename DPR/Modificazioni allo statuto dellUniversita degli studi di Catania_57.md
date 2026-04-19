@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1976 n. 1008
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 luglio 1971 n. 721
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1976 n. 1008
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 luglio 1971 n. 721
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Catania.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
+Visto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;.
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,9 +20,9 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -32,143 +32,314 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-L'art. 27, relative all'esame di laurea in economia e commercio, e' modificato nel senso che la norma contrassegnata con la lettera a) e' abrogata e sostituita dalla seguente:
+Art. 26: all'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:
 
-a) nella discussione orale di una dissertazione scritta su tema che rientri in uno degli insegnamenti fondamentali o complementari impartiti nella facolta', esclusi gli insegnamenti delle lingue straniere.
+Archeologia e antichita' della Magna Grecia;
 
-Art. 51 - all'elenco degli insegnamenti complementari per il corso di laurea in medicina e chirurgia l'insegnamento complementare di immunopatologia muta denominazione in quella di immunologia clinica.
+Civilta' indigene della Sicilia antica.
 
-Dopo l'art. 144, con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in economia aziendale e diritto dell'economia presso la facolta' di economia e commercio.
+Art. 40, relativo al corso di laurea in lingue e letterature straniere moderne e' modificato nel senso che alla alinea dell'ottavo comma e' aggiunto il seguente nuovo comma:
 
-Scuola di specializzazione in economia aziendale e diritto dell'economia
+"L'esame orale di ciascun corso potra' essere sostenuto anche in una sessione successiva a quella in cui e' stato superato il relativo esame scritto".
 
-Art. 145. - E' istituita presso la facolta' di economia e commercio una scuola di specializzazione in economia aziendale e diritto dell'economia. Gli iscritti al corso di specializzazione non possono superare il numero di 100.
+L'art. 43, relativo all'esame di laurea del corso di laurea in lingue e letterature straniere moderne, e' abrogato e sostituito dal seguente:
 
-La scuola, che ha sede presso i locali dell'Universita' si propone la formazione di personale dirigente specializzato per le amministrazioni pubbliche, per le imprese private e per gli istituti di credito.
+"L'esame di laurea consiste nella discussione, che il candidato sosterra' in gran parte nella lingua quadriennale prescelta, di una dissertazione scritta su un tema precedentemente approvato dal professore della, materia. La dissertazione deve essere presentata dallo studente, in quattro copie, almeno un mese prima della data dell'esame di laurea".
 
-Art. 146. - Il corso di studi avra' la durata di due anni.
+Art. 46: all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di:
 
-L'insegnamento sara' svolto mediante lezioni teoriche, conferenze ed esercitazioni pratiche sulle seguenti discipline:
+Chirurgia geriatrica;
 
-1) ragioneria generale ed applicata;
+Traumatologia della strada;
 
-2) diritto privato dell'economia;
+Chirurgia plastica;
 
-3) scienza delle finanze e diritto tributario;
+Tecniche chirurgiche complementari in terapia oncologica;
 
-4) diritto pubblico dell'economia;
+Chirurgia sperimentale;
 
-5) tecnica bancaria industriale e commerciale.
+Chirurgia cardiaca;
 
-I corsi saranno svolti secondo un programma unitario concordato, al principio dell'anno accademico, dal consiglio direttivo presieduto dal direttore della scuola.
+Chirurgia vascolare;
 
-Art. 147. - Gli organi della scuola sono:
+Dermatologia allergologica e professionale;
 
-1) il direttore, nominato per un quadriennio dal consiglio della facolta' di economia e commercio;
+Fisiopatologia respiratoria;
 
-2) il consiglio direttivo, composto da tre professori nominati dal consiglio della facolta' di economia e commercio tra il personale docente della scuola e da un rappresentante di ciascuno degli enti aderenti.
+Neuropsichiatria infantile;
 
-Art. 148. - Il direttore coordina l'attuazione del programma d'insegnamento deliberato dal consiglio direttivo e provvede a tutte quelle funzioni che non siano di competenza del consiglio direttivo della scuola.
+Genetica umana;
 
-Art. 149. - Il personale insegnante sara' costituito da almeno tre professori nominati dalla facolta' di economia e commercio. Il direttore puo' integrare il personale docente affidando l'incarico di svolgere conferenze, lezioni integrative o corsi di esercitazioni a magistrati, avvocati, dirigenti di aziende pubbliche o private ed a cultori delle materie d'insegnamento oggetto del corso.
+Scienza dell'alimentazione;
 
-Art. 150. - Alla scuola sono ammessi: laureati in scienze economiche e commerciali, in giurisprudenza, in scienze politiche ed in scienze statistiche ed attuariali.
+Ematologia;
 
-Art. 151. - L'iscrizione comporta il pagamento di una tassa annua di L. 20.000.
+Malattie del ricambio;
 
-Art. 152. - L'iscritto e' obbligato a frequentare assiduamente i corsi osservando tutte le norme regolamentari, didattiche e disciplinari.
+Tecnica e diagnostica istopatologica;
 
-Art. 153. - Al termine del corso, l'iscritto dovra' sostenere un esame orale dinnanzi alla commissione esaminatrice composta di tutti i docenti della scuola e presieduta dal direttore.
+Medicina preventiva dei lavoratori e psicotecnica;
 
-"L'esame comporta il pagamento di una tassa di esame di L. 7.000.
+Oncologia sperimentale;
 
-All'iscritto che abbia sostenuto con esito favorevole detto esame sara' rilasciato un diploma di specializzazione in economia aziendale e diritto dell'economia.
+Biochimica applicata;
 
-Art. 154. - Il diploma di specializzazione e' rilasciato in conformita' alle vigenti disposizioni.
+Reumatologia;
 
-Il diploma ha valore legale e costituisce titolo preferenziale in conformita' a quanto disposto dalla legge.
+Endocrinologia ginecologica;
 
-Il rilascio del diploma comporta il pagamento di una tassa di L. 6.000.
+Gastroenterologia;
 
-Art. 155. - A tutte le spese necessarie per il funzionamento della scuola, ivi compresi i compensi per il personale docente, si provvedera' con le entrate provenienti dalle tasse degli iscritti, dai contributi di enti pubblici e privati, dalle sovvenzioni governative e da eventuali contributi dell'Universita'.
+Medicina sociale;
+
+Immunopatologia;
+
+Statistica medica e biometria;
+
+Fisiopatologia cardiocircolatoria;
+
+Terapia fisica e riabilitazione;
+
+Puericultura prenatale.
+
+L'art. 79, relativo alle norme dell'esame di laurea in farmacia, e' abrogato e sostituito dal seguente:
+
+"L'esame di laurea in farmacia si da' in unica seduta alla fine del quarto anno. Il candidato deve dimostrare con un certificato regolare, rilasciato da una farmacia autorizzata, di aver compiuto un semestre di pratica farmaceutica.
+
+Il candidato deve inoltre presentare una dissertazione scritta su argomento preferibilmente sperimentale e discuterlo su relazione del direttore dell'istituto presso il quale la dissertazione stessa fu elaborata.
+
+Deve discutere inoltre una fra le due tesine, scelte su materie diverse da quelle trattate nella dissertazione principale.
+
+Deve sostenere infine una prova orale sulla pratica farmaceutica, l'arte del ricettare, la farmacopea, la legislazione farmaceutica" Gli articoli 130, 131, 132, 133, 134 relativi alla scuola di perfezionamento in archeologia classica e studi sul dramma antico sono abrogati e sostituiti nel modo seguente:
+
+Scuola di perfezionamento in archeologia classica e studi sul dramma antico
+
+Art. 130. - Al corso di perfezionamento in archeologia possono essere ammessi i laureati in lettere - indirizzo classico - delle universita' italiane a quello di perfezionamento in studi sul dramma antico anche i laureati in lettere - indirizzo moderno - e in filosofia, i quali abbiano superato almeno un esame di letteratura greca.
+
+Possono, inoltre, essere ammessi gli stranieri come studenti regolari purche' forniti di titolo che, a giudizio del consiglio direttivo della scuola, sia ritenuto equipollente alla laurea in lettere, ed abbiano seguito i corsi di studio sopra previsti.
+
+Il consiglio direttivo ha, inoltre, la facolta' di autorizzare la iscrizione ai singoli corsi di laureati in lettere - indirizzo moderno - i quali dimostrino di possedere una preparazione classica sufficiente per seguire i corsi ai quali hanno chiesto l'iscrizione.
+
+La preparazione viene accertata mediante un esame.
+
+Art. 131. - Sono insegnamenti del corso di perfezionamento in archeologia classica:
+
+Insegnamenti fondamentali:
+
+1) Archeologia e storia dell'arte greca e romana (biennale);
+
+2) Topografia antica;
+
+3) Paletnologia;
+
+4) Archeologia tardo-antica e alto medioevale.
+
+Insegnamenti complementari:
+
+1) Epigrafia greca e romana;
+
+2) Numismatica greca e romana;
+
+3) Archeologia e antichita' italiane;
+
+4) Antichita' greche e romane;
+
+5) Antichita' orientali;
+
+6) Storia dell'arte bizantina;
+
+7) Storia della Sicilia antica e medioevale;
+
+8) Filologia classica.
+
+Sono insegnamenti del corso di perfezionamento in studi sul dramma antico:
+
+Insegnamenti fondamentali:
+
+1) Storia del teatro greco e romano (biennale);
+
+2) Antichita' greche e romane.
+
+Insegnamenti complementari:
+
+1) Filologia classica;
+
+2) Storia antica;
+
+3) Storia delle religioni;
+
+4) Metrica classica;
+
+5) Musica e danza classica;
+
+6) Scenotecnica e regia teatrale;
+
+7) Scenografia;
+
+8) Storia del teatro classico nelle letterature moderne;
+
+9) Epigrafia greca e romana;
+
+10) Topografia antica;
+
+11) Archeologia e storia dell'arte greca e romana.
+
+Art. 132. - I corsi di perfezionamento in archeologia classica hanno la durata di due anni.
+
+All'inizio del primo anno gli studenti, d'accordo con il direttore della scuola, formuleranno un piano di studi che sara' sottoposto alla approvazione del consiglio direttivo. Oltre ai quattro insegnamenti fondamentali dovranno essere compresi nel piano di studi quattro fra gli insegnamenti complementari.
+
+Gli iscritti al corso di perfezionamento in archeologia che intendono specializzarsi in "Antichita' teatrali" hanno la facolta' di scegliere le quattro materie complementari fra gli insegnamenti del corso di perfezionamento in studi sul dramma antico.
+
+Art. 133. - Tutti gli insegnamenti del corso di perfezionamento in archeologia classica sono accompagnati da opportune esercitazioni.
+
+Sono, inoltre, previsti corsi di conferenze e seminari tenuti da insigni specialisti italiani e stranieri.
+
+La frequenza dei corsi e' obbligatoria.
+
+Tutti gli insegnamenti hanno particolare riferimento alla Sicilia.
+
+Le esercitazioni di carattere pratico si realizzano nella esplorazione archeologica e in saggi di scavo; la frequenza a dette esercitazioni e' obbligatoria per tutti e due gli anni di corso. Alla fine di ogni corso, l'allievo deve dimostrare di averle frequentate e, se ha partecipato a saggi di scavo, ne fara' oggetto di relazione.
+
+Art. 134. - I corsi di perfezionamento in studi sul dramma antico hanno la durata di due anni.
+
+All'inizio del primo anno gli studenti formuleranno, d'accordo col direttore della scuola, un piano di studi che sara' sottoposto all'approvazione del consiglio direttivo; oltre ai due insegnamenti fondamentali dovranno essere compresi nel piano di studi cinque fra gli insegnamenti complementari.
+
+Tutti gli insegnamenti dei corsi di perfezionamento in studi sul dramma antico debbono essere orientati su problemi del teatro classico e sono accompagnati da opportune esercitazioni e sopralluoghi nei teatri classici di maggiore rinomanza. Sono previsti, inoltre, ogni anno, speciali corsi di conferenze tenute da insigni studiosi italiani e stranieri.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 28 ottobre 1976
+Dato a Roma, addi' 6 luglio 1971
 
-LEONE
+SARAGAT
 
-MALFATTI
+MISASI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: COLOMBO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 19 febbraio 1977 Registro n. 18 Istruzione, foglio n. 71
+alla Corte dei conti, addi' 1 settembre 1971 Atti del Governo, registro n. 244, foglio n. 70. - PASQUALUCCI
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Visto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;.   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-L'art. 27, relative all'esame di laurea in economia e commercio, e' modificato nel senso che la norma contrassegnata con la lettera a) e' abrogata e sostituita dalla seguente:  
-a) nella discussione orale di una dissertazione scritta su tema che rientri in uno degli insegnamenti fondamentali o complementari impartiti nella facolta', esclusi gli insegnamenti delle lingue straniere.  
-Art. 51 - all'elenco degli insegnamenti complementari per il corso di laurea in medicina e chirurgia l'insegnamento complementare di immunopatologia muta denominazione in quella di immunologia clinica.  
-Dopo l'art. 144, con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in economia aziendale e diritto dell'economia presso la facolta' di economia e commercio.  
+Art. 26: all'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:   
+Archeologia e antichita' della Magna Grecia;   
+Civilta' indigene della Sicilia antica.   
+Art. 40, relativo al corso di laurea in lingue e letterature straniere moderne e' modificato nel senso che alla alinea dell'ottavo comma e' aggiunto il seguente nuovo comma:   
+"L'esame orale di ciascun corso potra' essere sostenuto anche in una sessione successiva a quella in cui e' stato superato il relativo esame scritto".   
+L'art. 43, relativo all'esame di laurea del corso di laurea in lingue e letterature straniere moderne, e' abrogato e sostituito dal seguente:   
+"L'esame di laurea consiste nella discussione, che il candidato sosterra' in gran parte nella lingua quadriennale prescelta, di una dissertazione scritta su un tema precedentemente approvato dal professore della, materia. La dissertazione deve essere presentata dallo studente, in quattro copie, almeno un mese prima della data dell'esame di laurea".   
+Art. 46: all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di:   
+Chirurgia geriatrica;   
+Traumatologia della strada;   
+Chirurgia plastica;   
+Tecniche chirurgiche complementari in terapia oncologica;   
+Chirurgia sperimentale;   
+Chirurgia cardiaca;   
+Chirurgia vascolare;   
+Dermatologia allergologica e professionale;   
+Fisiopatologia respiratoria;   
+Neuropsichiatria infantile;   
+Genetica umana;   
+Scienza dell'alimentazione;   
+Ematologia;   
+Malattie del ricambio;   
+Tecnica e diagnostica istopatologica;   
+Medicina preventiva dei lavoratori e psicotecnica;   
+Oncologia sperimentale;   
+Biochimica applicata;   
+Reumatologia;   
+Endocrinologia ginecologica;   
+Gastroenterologia;   
+Medicina sociale;   
+Immunopatologia;   
+Statistica medica e biometria;   
+Fisiopatologia cardiocircolatoria;   
+Terapia fisica e riabilitazione;   
+Puericultura prenatale.   
+L'art. 79, relativo alle norme dell'esame di laurea in farmacia, e' abrogato e sostituito dal seguente:   
+"L'esame di laurea in farmacia si da' in unica seduta alla fine del quarto anno. Il candidato deve dimostrare con un certificato regolare, rilasciato da una farmacia autorizzata, di aver compiuto un semestre di pratica farmaceutica.   
+Il candidato deve inoltre presentare una dissertazione scritta su argomento preferibilmente sperimentale e discuterlo su relazione del direttore dell'istituto presso il quale la dissertazione stessa fu elaborata.   
+Deve discutere inoltre una fra le due tesine, scelte su materie diverse da quelle trattate nella dissertazione principale.   
+Deve sostenere infine una prova orale sulla pratica farmaceutica, l'arte del ricettare, la farmacopea, la legislazione farmaceutica" Gli articoli 130, 131, 132, 133, 134 relativi alla scuola di perfezionamento in archeologia classica e studi sul dramma antico sono abrogati e sostituiti nel modo seguente:   
   
-Scuola di specializzazione in economia aziendale e diritto dell'economia  
+Scuola di perfezionamento in archeologia classica e studi sul dramma antico   
   
-Art. 145. - E' istituita presso la facolta' di economia e commercio una scuola di specializzazione in economia aziendale e diritto dell'economia. Gli iscritti al corso di specializzazione non possono superare il numero di 100.  
-La scuola, che ha sede presso i locali dell'Universita' si propone la formazione di personale dirigente specializzato per le amministrazioni pubbliche, per le imprese private e per gli istituti di credito.  
-Art. 146. - Il corso di studi avra' la durata di due anni.  
-L'insegnamento sara' svolto mediante lezioni teoriche, conferenze ed esercitazioni pratiche sulle seguenti discipline:  
-1) ragioneria generale ed applicata;  
-2) diritto privato dell'economia;  
-3) scienza delle finanze e diritto tributario;  
-4) diritto pubblico dell'economia;  
-5) tecnica bancaria industriale e commerciale.  
-I corsi saranno svolti secondo un programma unitario concordato, al principio dell'anno accademico, dal consiglio direttivo presieduto dal direttore della scuola.  
-Art. 147. - Gli organi della scuola sono:  
-1) il direttore, nominato per un quadriennio dal consiglio della facolta' di economia e commercio;  
-2) il consiglio direttivo, composto da tre professori nominati dal consiglio della facolta' di economia e commercio tra il personale docente della scuola e da un rappresentante di ciascuno degli enti aderenti.  
-Art. 148. - Il direttore coordina l'attuazione del programma d'insegnamento deliberato dal consiglio direttivo e provvede a tutte quelle funzioni che non siano di competenza del consiglio direttivo della scuola.  
-Art. 149. - Il personale insegnante sara' costituito da almeno tre professori nominati dalla facolta' di economia e commercio. Il direttore puo' integrare il personale docente affidando l'incarico di svolgere conferenze, lezioni integrative o corsi di esercitazioni a magistrati, avvocati, dirigenti di aziende pubbliche o private ed a cultori delle materie d'insegnamento oggetto del corso.  
-Art. 150. - Alla scuola sono ammessi: laureati in scienze economiche e commerciali, in giurisprudenza, in scienze politiche ed in scienze statistiche ed attuariali.  
-Art. 151. - L'iscrizione comporta il pagamento di una tassa annua di L. 20.000.  
-Art. 152. - L'iscritto e' obbligato a frequentare assiduamente i corsi osservando tutte le norme regolamentari, didattiche e disciplinari.  
-Art. 153. - Al termine del corso, l'iscritto dovra' sostenere un esame orale dinnanzi alla commissione esaminatrice composta di tutti i docenti della scuola e presieduta dal direttore.  
-"L'esame comporta il pagamento di una tassa di esame di L. 7.000.  
-All'iscritto che abbia sostenuto con esito favorevole detto esame sara' rilasciato un diploma di specializzazione in economia aziendale e diritto dell'economia.  
-Art. 154. - Il diploma di specializzazione e' rilasciato in conformita' alle vigenti disposizioni.  
-Il diploma ha valore legale e costituisce titolo preferenziale in conformita' a quanto disposto dalla legge.  
-Il rilascio del diploma comporta il pagamento di una tassa di L. 6.000.  
-Art. 155. - A tutte le spese necessarie per il funzionamento della scuola, ivi compresi i compensi per il personale docente, si provvedera' con le entrate provenienti dalle tasse degli iscritti, dai contributi di enti pubblici e privati, dalle sovvenzioni governative e da eventuali contributi dell'Universita'.  
+Art. 130. - Al corso di perfezionamento in archeologia possono essere ammessi i laureati in lettere - indirizzo classico - delle universita' italiane a quello di perfezionamento in studi sul dramma antico anche i laureati in lettere - indirizzo moderno - e in filosofia, i quali abbiano superato almeno un esame di letteratura greca.   
+Possono, inoltre, essere ammessi gli stranieri come studenti regolari purche' forniti di titolo che, a giudizio del consiglio direttivo della scuola, sia ritenuto equipollente alla laurea in lettere, ed abbiano seguito i corsi di studio sopra previsti.   
+Il consiglio direttivo ha, inoltre, la facolta' di autorizzare la iscrizione ai singoli corsi di laureati in lettere - indirizzo moderno - i quali dimostrino di possedere una preparazione classica sufficiente per seguire i corsi ai quali hanno chiesto l'iscrizione.  
+La preparazione viene accertata mediante un esame.   
+Art. 131. - Sono insegnamenti del corso di perfezionamento in archeologia classica:   
+Insegnamenti fondamentali:   
+1) Archeologia e storia dell'arte greca e romana (biennale);   
+2) Topografia antica;   
+3) Paletnologia;   
+4) Archeologia tardo-antica e alto medioevale.   
+Insegnamenti complementari:   
+1) Epigrafia greca e romana;   
+2) Numismatica greca e romana;   
+3) Archeologia e antichita' italiane;   
+4) Antichita' greche e romane;   
+5) Antichita' orientali;   
+6) Storia dell'arte bizantina;   
+7) Storia della Sicilia antica e medioevale;   
+8) Filologia classica.   
+Sono insegnamenti del corso di perfezionamento in studi sul dramma antico:   
+Insegnamenti fondamentali:   
+1) Storia del teatro greco e romano (biennale);   
+2) Antichita' greche e romane.   
+Insegnamenti complementari:   
+1) Filologia classica;   
+2) Storia antica;   
+3) Storia delle religioni;   
+4) Metrica classica;   
+5) Musica e danza classica;   
+6) Scenotecnica e regia teatrale;   
+7) Scenografia;   
+8) Storia del teatro classico nelle letterature moderne;   
+9) Epigrafia greca e romana;   
+10) Topografia antica;   
+11) Archeologia e storia dell'arte greca e romana.   
+Art. 132. - I corsi di perfezionamento in archeologia classica hanno la durata di due anni.   
+All'inizio del primo anno gli studenti, d'accordo con il direttore della scuola, formuleranno un piano di studi che sara' sottoposto alla approvazione del consiglio direttivo. Oltre ai quattro insegnamenti fondamentali dovranno essere compresi nel piano di studi quattro fra gli insegnamenti complementari.   
+Gli iscritti al corso di perfezionamento in archeologia che intendono specializzarsi in "Antichita' teatrali" hanno la facolta' di scegliere le quattro materie complementari fra gli insegnamenti del corso di perfezionamento in studi sul dramma antico.   
+Art. 133. - Tutti gli insegnamenti del corso di perfezionamento in archeologia classica sono accompagnati da opportune esercitazioni.  
+Sono, inoltre, previsti corsi di conferenze e seminari tenuti da insigni specialisti italiani e stranieri.   
+La frequenza dei corsi e' obbligatoria.   
+Tutti gli insegnamenti hanno particolare riferimento alla Sicilia.   
+Le esercitazioni di carattere pratico si realizzano nella esplorazione archeologica e in saggi di scavo; la frequenza a dette esercitazioni e' obbligatoria per tutti e due gli anni di corso. Alla fine di ogni corso, l'allievo deve dimostrare di averle frequentate e, se ha partecipato a saggi di scavo, ne fara' oggetto di relazione.   
+Art. 134. - I corsi di perfezionamento in studi sul dramma antico hanno la durata di due anni.   
+All'inizio del primo anno gli studenti formuleranno, d'accordo col direttore della scuola, un piano di studi che sara' sottoposto all'approvazione del consiglio direttivo; oltre ai due insegnamenti fondamentali dovranno essere compresi nel piano di studi cinque fra gli insegnamenti complementari.   
+Tutti gli insegnamenti dei corsi di perfezionamento in studi sul dramma antico debbono essere orientati su problemi del teatro classico e sono accompagnati da opportune esercitazioni e sopralluoghi nei teatri classici di maggiore rinomanza. Sono previsti, inoltre, ogni anno, speciali corsi di conferenze tenute da insigni studiosi italiani e stranieri.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1976
+### Dato a Roma, addi' 6 luglio 1971
 
-LEONE MALFATTI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 19 febbraio 1977
+Registrato alla Corte dei conti, addi' 1 settembre 1971
 
-Registro n. 18 Istruzione, foglio n. 71
+Atti del Governo, registro n. 244, foglio n. 70. - PASQUALUCCI

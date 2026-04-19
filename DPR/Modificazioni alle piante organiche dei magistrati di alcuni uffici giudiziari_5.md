@@ -1,58 +1,126 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1971 n. 1134
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1979 n. 123
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1971 n. 1134
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1979 n. 123
+============================================================
 
 Modificazioni alle piante organiche dei magistrati di alcuni uffici giudiziari.
 -------------------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Vista la tabella A relativa alla pianta organica dei magistrati giudicanti e del pubblico ministero addetti alla Corte di cassazione, allegata al [decreto presidenziale 9 marzo 1973, n. 184](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-03-09;184);
+
+Viste le tabelle B, C e D, relative alle piante organiche dei magistrati giudicanti e del pubblico ministero addetti alle corti di appello, ai tribunali ed alle preture, allegate al [decreto presidenziale 31 dicembre 1966, numero 1185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-12-31;1185), e successive variazioni;
+
+Considerata l'urgenza di potenziare l'organico dei magistrati dei seguenti uffici giudiziari per le unita' a fianco di ciascuno di essi indicate al fine di fronteggiare le accresciute esigenze di servizio: procura generale presso la Corte di cassazione: sostituti procuratori generali 2; procure generali presso le corti di appello di: Bologna - sostituti procuratori generali 1, Milano 1, Roma 1; Tribunali di:
+
+Bergamo, presidenti di sezione 1, Brescia 1 - giudici - Bergamo 1, Brescia 1, Modena 1, Monza 3, Padiva 2, Verona 2; procure della Repubblica di: Bergamo, sostituti 1, Brescia 1, Genova 2, Milano 4, Monza 2, Napoli 2, Roma 5, Padova 1, Taranto 1, Torino 2; uffici di sorveglianza di: Genova - giudici 1, Milano 1, Torino 1; Cuneo 1, Napoli 1, Roma 1, Sassari 1, Palermo 1;
+
+Considerato inoltre che e' necessario contestualmente ridurre l'organico dei magistrati dei seguenti uffici giudiziari delle unita' a fianco di ciascuno di essi indicate: corti di appello di: Perugia - presidenti di sezione 1, Potenza 1 - consiglieri, Cagliari 2, Caltanissetta 2, Campobasso 1, Lecce 3, Messina 1, Napoli 2, Palermo 1, Trieste 1, Venezia 1; tribunali di: Agrigento - presidenti di sezione 1, Lecce 1 - giudici - Alba 1, Arezzo 1, Ariano Irpino 1, Benevento 1, Cagliari 2, Caltanissetta 1, Casale Monferrato 1, Erma 1, Lagonegro 1, Lecce 1, Melfi 1, Modica 1; preture di: Avellino - pretori 1, Benevento 1, Bergamo 1, Cagliari 1, Civitavecchia 1, Erma 1, Lodi 1, Marsala 1, Monza 2, Orvieto 1, Padova 1, Pescia 1, Trento 1, Viterbo 1;
+
+Visto il parere espresso al riguardo dal Consiglio superiore della magistratura nella seduta del 22 febbraio 1979;
+
+Ritenuto peraltro che non puo' seguirsi integralmente la proposta dello stesso Consiglio superiore di non dare corso agli aumenti previsti in ragione di una unita' ciascuno, per gli uffici di sorveglianza di Cuneo, Napoli, Roma, Sassari e Palermo, poiche' a seguito di una piu' approfondita valutazione delle esigenze e tenuto conto degli indici di lavoro appare necessario incrementare gli organici dei menzionati uffici riducendo parimenti di una unita' ciascuno, quelli assegnati in aumento al tribunale di Monza ed alle procure della Repubblica di Milano e Torino rinviando, altresi', ad altra data l'aumento di una unita' ciascuno degli organici dei tribunali di Roma e Torino;
+
+Visto l'art. 1, ultimo comma, della [legge 4 gennaio 1963, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-01-04;1);
+
+Sulla
+-----
+
+proposta del Ministro di grazia e giustizia; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Viste le tabelle C e D allegate al [decreto presidenziale 31 dicembre 1966, n. 1185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-12-31;1185), e successive variazioni, relative alle piante organiche dei magistrati addetti ai tribunali e alle preture;  
-Riconosciuta la necessita' di potenziare di una unita' ciascuno l'organico dei magistrati del tribunale di Varese e delle preture di Adria e di Marano di Napoli per far fronte alle accresciute esigenze di servizio;  
-Constatato che per reperire i posti necessari occorre ridurre l'organico delle preture di Citta' di Castello, Noto e Ravenna, il cui carico di lavoro, valutato comparativamente, consente tale riduzione;  
-Visto il parere espresso al riguardo dal Consiglio superiore della magistratura nella seduta del 14 luglio 1971;  
-Visto l'art. 1, ultimo comma, della [legge 4 gennaio 1963, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-01-04;1);  
-Sulla proposta del Ministro Segretario di Stato per la grazia e giustizia;  
+La tabella A allegata al [decreto presidenziale 9 marzo 1973, n. 184](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-03-09;184), relativa ai magistrati giudicanti e del pubblico ministero addetti alla Corte di cassazione e' sostituita dalla tabella A annessa al presente decreto, vistata dal Ministro proponente.  
+
+Art. 2
+------
+
   
-Decreta:  
-  
-Le tabelle C e D allegate al [decreto presidenziale 31 dicembre 1966, n. 1185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-12-31;1185), e successive variazioni, relative alle piante organiche dei magistrati addetti ai tribunali e alle preture, sono modificate - per la parte relativa agli uffici cui si riferiscono - come dalle tabelle A e B allegate al presente decreto, vistate dal Ministro proponente.  
+Le tabelle B, C e D allegate al [decreto presidenziale 31 dicembre 1966, n. 1185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-12-31;1185), e successive variazioni, relative alle piante organiche dei magistrati giudicanti e del pubblico ministero addetti alle corti di appello, ai tribunali ed alle preture, sono modificate per la parte relativa agli uffici cui si riferiscono, come dalle tabelle B, C e D allegate al presente decreto, visitate dal Ministro proponente.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 settembre 1971
+### Dato a Roma, addi' 15 marzo 1979
 
-SARAGAT COLOMBO
+PERTINI BONIFACIO
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 27 dicembre 1971
+Registrato alla Corte dei conti, addi' 12 aprile 1979
 
-Atti del Governo, registro n. 245, foglio n. 138. - VALENTINI
+Registro n. 11 Giustizia, foglio n. 387
 
 Tabelle
 
  TABELLA A   
   
-Magistrati giudicanti e del pubblico ministero addetti ai tribunali   
+MAGISTRATI GIUDICANTI E DEL PUBBLICO MINISTERO   
+ADDETTI ALLA CORTE DI CASSAZIONE   
   
+Primo presidente. . . . . . . . . . . . . . . . . . . . . . . . . . 1 Presidente aggiunto . . . . . . . . . . . . . . . . . . . . . . . . 1   
+Presidenti di sezione e presidente supplente al Tribunale   
+superiore delle acque pubbliche. . . . . . . . . . . . . . . . . . 50 Consiglieri . . . . . . . . . . . . . . . . . . . . . . . . . . . 243 Procuratore generale. . . . . . . . . . . . . . . . . . . . . . . . 1 Avvocati generali . . . . . . . . . . . . . . . . . . . . . . . . . 6 Sostituti procuratori generali . . . . . . . . . . . . . . . . . . 37   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=071U113400100010110001&dgu=1972-01-03&art.dataPubblicazioneGazzetta=1972-01-03&art.codiceRedazionale=071U1134)
+TRIBUNALE SUPERIORE DELLE ACQUE PUBBLICHE   
   
+Presidente. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1   
   
-  
+Visto, il Ministro di grazia e giustizia   
+BONIFACIO   
   
 TABELLA B   
   
-Magistrati addetti alle preture   
+MAGISTRATI GIUDICANTI E DEL PUBBLICO MINISTERO ADDETTI ALLE CORTI DI APPELLO   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=071U113400100010110002&dgu=1972-01-03&art.dataPubblicazioneGazzetta=1972-01-03&art.codiceRedazionale=071U1134)
   
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=079U012300100010110001&dgu=1979-04-18&art.dataPubblicazioneGazzetta=1979-04-18&art.codiceRedazionale=079U0123)
+  
+  
+  
+  
+TABELLA C   
+  
+MAGISTRATI GIUDICANTI E DEL PUBBLICO MINISTERO ADDETTI AI TRIBUNALI   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=079U012300100010110002&dgu=1979-04-18&art.dataPubblicazioneGazzetta=1979-04-18&art.codiceRedazionale=079U0123)
+  
+  
+  
+  
+TABELLA D   
+MAGISTRATI ADDETTI ALLE PRETURE   
+  
+
+|  |  |  |
+| --- | --- | --- |
+| SEDI | Magistrati di appello in funzioni di pretore | Magistrati di tribunale aggiunti giudiziaria ed uditori in funzioni di pretore |
+| (Omissis). |  |  |
+| Avellino | 1 | 7 |
+| Benevento | 1 | 5 |
+| Bergamo | 1 | 9 |
+| Cagliari | 3 | 16 |
+| Civitavecchia | - | 3 |
+| Erma | 1 | 1 |
+| Lodi | - | 3 |
+| Marsala | - | 3 |
+| Monza | - | 14 |
+| Orvicto | - | 1 |
+| Padova | 1 | 10 |
+| Pescia | - | 1 |
+| Trento | 1 | 3 |
+
+  
+  
+  
+  
+Visto, il Ministro di grazia e giustizia   
+BONIFACIO   

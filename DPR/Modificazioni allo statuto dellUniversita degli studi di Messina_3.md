@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 945
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1954 n. 735
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 945
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1954 n. 735
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
@@ -10,7 +10,11 @@ Modificazioni allo statuto dell'Universita' degli studi di Messina.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1° ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con [regi decreti 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905);
+
+28 maggio 1942, n. 643 e con [decreto del Capo provvisorio dello Stato 22 giugno 1947, n. 774](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-06-22;774) e con [decreti del Presidente della Repubblica 5 agosto 1951, n. 1335](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-05;1335);
+
+27 ottobre 1951, n. 1827 e 30 luglio 1953, n. 999;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,68 +22,105 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
+Veduta la [legge 13 giugno 1952, n. 692](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-06-13;692);
+
+Veduta la [legge 3 novembre 1952, n. 1787](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-11-03;1787);
+
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 --------
 
-Lo statuto dell'Universita' di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 1
+------
 
   
+Dopo l'art. 19 sono aggiunti i seguenti nuovi articoli, con il conseguente spostamento della numerazione degli articoli successivi.  
   
-Nell'art. 64, relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:   
-1) archeologia della Magna Grecia;   
-2) critica del testo;   
-3) esegesi delle fonti di storia greca e romana;   
-4) storia della filologia classica;   
-5) storia della lingua greca;   
-6) storia della retorica classica;   
-7) storia della Sicilia antica;   
-8) storia economica e sociale del mondo antico;   
-9) topografia antica;   
-10) archeologia medioevale;   
-11) geografia storica;   
-12) storia del Rinascimento;   
-13) storia della Sicilia medievale.   
-Nell'art. 65, relativo al corso di laurea in filosofia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:   
-1) filosofia della religione;   
-2) storia della scienza;   
-3) storia della storiografia filosofica.   
-Nell'art. 69, relativo al corso di laurea in lingue e letterature straniere moderne (indirizzo moderno), all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:   
-1) glottodidattica;   
-2) letteratura dei Paesi di lingua inglese;   
-3) storia della lingua francese;   
-4) storia della lingua inglese;   
-5) storia della lingua spagnola;   
-6) storia della lingua tedesca.   
+Facolta' di economia e commercio  
+  
+Art. 20. - La Facolta' di economia e commercio conferisce la laurea in economia e commercio.  
+Art. 21. - La durata del corso degli studi per la laurea in economia e commercio e' di quattro anni.  
+E' titolo di ammissione il diploma di maturita' classica, di maturita' scientifica, di abilitazione per i provenienti dagli Istituti tecnici commerciali, industriali, agrari, nautici e per geometri.  
+Sono insegnamenti fondamentali:  
+1) Istituzioni di diritto privato;  
+2) Istituzioni di diritto pubblico;  
+3) Diritto commerciale (biennale);  
+4) Matematica generale;  
+5) Matematica finanziaria (biennale);  
+6) Statistica (biennale);  
+7) Economia politica (biennale);  
+8) Diritto del lavoro;  
+9) Scienza delle finanze e diritto finanziario;  
+10) Economia e politica agraria;  
+11) Politica economica e finanziaria;  
+12) Storia economica;  
+13) Geografia economica (biennale);  
+14) Ragioneria generale ed applicata (biennale);  
+15) Tecnica bancaria e professionale;  
+16) Tecnica industriale e commerciale;  
+17) Merceologia;  
+18) Lingua francese o spagnola (triennale);  
+19) Lingua inglese o tedesca (triennale).  
+Sono insegnamenti complementari:  
+1) Diritto della navigazione;  
+2) Diritto industriale;  
+3) Diritto amministrativo;  
+4) Storia delle esplorazioni geografiche;  
+5) Diritto processuale civile;  
+6) Legislazione bancaria;  
+7) Diritto civile.  
+Gli insegnamenti di "diritto commerciale" e di "geografia economica" comportano un unico esame alla fine del corso biennale; per gli altri insegnamenti biennali e' prescritto l'esame alla fine di ciascun corso annuale, dovendosi il primo corso considerare come propedeutico al secondo.  
+L'insegnamento triennale delle lingue estere comporta per ciascuna una prova scritta ed una orale alla fine del triennio.  
+Non puo' essere ammesso alla prova orale di lingua straniera lo studente che non abbia ottenuto la sufficienza nella prova scritta.  
+Lo studente che sia stato riprovato nella prova orale, o che per qualsiasi motivo non si sia presentato a sostenere la prova orale nella stessa sessione, dovra' ripetere, anche, la prova scritta.  
+Art. 22. - Sono dichiarati propedeutici i seguenti insegnamenti:  
+a) istituzioni di diritto privato, per il diritto commerciale, il diritto della navigazione e il diritto industriale;  
+b) istituzioni di diritto pubblico e istituzioni di diritto privato, per il diritto del lavoro;  
+c) matematica generale, per la matematica finanziaria e per la statistica;  
+d) economia politica, per la scienza delle finanze e diritto finanziario, per la politica economica e finanziaria e per l'economia e politica agraria;  
+e) ragioneria generale ed applicata, per la tecnica bancaria e professionale e per la tecnica industriale e commerciale.  
+Gli insegnamenti propedeutici debbono precedere rispettivamente per l'iscrizione e per l'esame, gli insegnamenti cui servono di preparazione.  
+Art. 23. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in due da lui scelti fra i complementari.  
+Art. 24. - L'esame di laurea consiste:  
+a) nella discussione orale di una dissertazione scritta su tema che rientri in uno degli insegnamenti fondamentali o complementari impartiti nella Facolta' esclusi gli insegnamenti di istituzioni di diritto privato, istituzioni di diritto pubblico e le lingue straniere;  
+b) nella discussione orale di due argomenti scelti dal candidato in materie diverse fra quelle impartite nella, Facolta', esclusa quella cui si riferisce la dissertazione scritta.  
+Art. 41. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:  
+14) "Antropologia".  
+Art. 46. - Agli insegnamenti complementari del corso di laurea in chimica (indirizzo organico-biologico) sono aggiunti quelli di:  
+13) "Storia della chimica;  
+14) Scienza dell'alimentazione".  
+Agli insegnamenti complementari del corso di laurea in chimica (indirizzo inorganico-chimico-fisico) sono aggiunti quelli di:  
+11) "Storia della chimica;  
+12) Geochimica;  
+13) Storia della medicina".  
+Art. 47. - Agli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:  
+17) "Patologia vegetale;  
+18) Etnologia;  
+19) Endocrinologia;  
+20) Paleontologia umana;  
+21) Biologia generale".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 giugno 1986
+### Dato a Roma, addi' 27 marzo 1954
 
-COSSIGA
+EINAUDI MARTINO
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DE PIETRO
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 23 agosto 1954
 
-Registrato alla Corte dei conti, addi' 30 dicembre 1986
-
-Registro n. 90 Istruzione, foglio n. 213
+Atti del Governo, registro n. 85, foglio n. 73. - TEMPESTA

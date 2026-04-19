@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 961
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 716
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 961
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 716
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
@@ -10,74 +10,171 @@ Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Pisa approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli da 202 a 211, relativi alla scuola di perfezionamento in fisica delle particelle elementari e struttura della materia, che muta denominazione in "scuola di perfezionamento in fisica" sono abrogati e sostituiti dai seguenti:   
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 250, 251, 252, 253, relativi alla "Scuola di perfezionamento in pediatria" che muta la denominazione in quella di "Scuola di specializzazione in clinica pediatrica", sono abrogati e sostituiti dai seguenti:  
   
-Scuola di perfezionamento in fisica   
+Scuola di specializzazione in clinica pediatrica  
   
-Art. 202. - La scuola di perfezionamento in fisica, istituita presso la facolta' di scienze matematiche, fisiche e naturali, ha fine scientifico e rilascia il diploma di perfezionamento in fisica.  
-La durata e' di due anni. Non sono consentite abbreviazioni di corso.   
-Art. 203. - La scuola e' retta da un direttore assistito da un consiglio; il direttore della scuola e' nominato dal rettore su designazione del consiglio della facolta' di scienze matematiche, fisiche e naturali.   
-Il direttore dura in carica un biennio ed e' confermabile.   
-Il consiglio della scuola e' costituito da tutti gli insegnanti i cui insegnamenti fanno parte della medesima ed e' presieduta dal direttore. Gli insegnanti della scuola sono proposti dal direttore che puo' sceglierli tra i professori di ruolo, tra i liberi docenti, tra gli assistenti o anche tra persone di riconosciuta competenza sella specialita'; le nomine sono subordinate all'approvazione del consiglio della facolta'.   
-All'inizio di ogni anno accademico il direttore, sentito il parere del consiglio, propone al consiglio della facolta' gli insegnamenti, scelti tra quelli elencati nell'art. 208, da attivare nel corso dello stesso anno accademico.   
-Art. 204. - Alla scuola di perfezionamento in fisica, vengono ammessi i laureati in fisica.   
-Possono altresi' essere ammessi i laureati in altre materie della facolta' di scienze matematiche, fisiche e naturali e ingegneria dietro parere favorevole del consiglio.   
-E' data facolta' al direttore di stabilire prima dello inizio di ogni anno accademico un numero massimo di iscrizioni oltre al quale non potranno essere accolte le domande eccedenti. Quando gli iscritti siano in numero molto limitato gli insegnamenti possono non avere il carattere cattedratico e essere svolti in quella diversa forma che e' consentita dall'indole di ciascuna disciplina.   
-Art. 205. - Il piano di studi di ogni iscritto e' stabilito dal direttore della scuola e ratificato dal consiglio, che si riunisce allo scopo almeno due volte l'anno.   
-Tale piano di studi comprende sei insegnamenti di quelli elencati nel seguente art. 208, divisi in due gruppi, l'uno relativo al primo anno e l'altro al secondo. Il piano di studi sara' cambiato, durante il suo svolgimento, qualora uno degli insegnamenti stabiliti nel piano non possa essere attivato.   
-Art. 206. - La commissione per l'esame di diploma e' formata da cinque membri nominati dal preside della facolta' di scienze su proposta del direttore della scuola. L'esame consistera' in una discussione su una dissertazione scritta contenente risultati originali ottenuti dal candidato. Il voto di diploma sara' assegnato sulla base dell'esito dell'esame e tenendo conto dei voti ottenuti nei vari corsi previsti nei piani di studio dei candidati.   
-Art. 207. - I candidati non riconosciuti idonei potranno presentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola.   
-Nel caso che anche alla seconda prova di esame di diploma essi non siano riconosciuti idonei, saranno senz'altro esclusi da ogni ulteriore prova.   
-Art. 208. - Gli insegnamenti impartiti dalla scuola sono:   
-1) complementi di meccanica quantistica;   
-2) complementi di elettromagnetismo;   
-3) complementi di struttura della materia;   
-4) complementi di fisica nucleare;   
-5) complementi di astrofisica;   
-6) meccanica statistica;   
-7) particelle elementari;   
-8) teoria dei campi;   
-9) elettrodinamica quantistica;   
-10) ottica quantistica;   
-11) spettroscopia a radiofrequenza;   
-12) spettroscopia dei solidi;   
-13) macchine acceleratrici;   
-14) tecniche sperimentali delle alte energie;   
-15) proprieta' dielettriche e magnetiche dei solidi;   
-16) corso monografico;   
-17) corso monografico.   
-Gli insegnamenti possono essere impartiti mediante gruppi di lezioni o corsi semestrali. Il corso semestrale comprende non meno di venticinque lezioni. Esso puo' essere istituito nel caso se ne ravvisi l'opportunita' in rapporto al programma della scuola, stabilito dal direttore, sentito il parere del consiglio.   
-Il corso viene proposto dalla facolta' su indicazione del direttore ed approvato dal rettore entro il mese di giugno.   
-Art. 209. - Ogni iscritto alla scuola di perfezionamento deve frequentare i corsi e superare gli esami dei piani di studi di cui all'art. 205.   
-Art. 210. - Gli iscritti alla scuola di perfezionamento sono tenuti a pagare le tasse e soprattasse previste per gli studenti in corso delle singole facolta' e determinate dalla [legge 18 dicembre 1951, n.   
-1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551). L'ammontare dei contributi viene stabilito dal consiglio di amministrazione su proposta del senato accademico, udito il parere della facolta' e della scuola.   
-Art. 211. - Presso la scuola di perfezionamento in fisica e' istituito, a completamento degli insegnamenti, un seminario di fisica con periodiche conferenze tenute da esperti invitati dal direttore della scuola.   
+Art. 250. - La scuola ha la durata di tre anni, ha sede nella clinica pediatrica il cui professore di ruolo e' il direttore della scuola.  
+Art. 251. - Le materie di insegnamento sono le seguenti:  
+A) Fondamentali.  
+1° Anno:  
+1) Clinica pediatrica (triennale);  
+2) Patologia pediatrica (biennale) (1° e 2° anno);  
+3) Puericultura (biennale) (1° e 2° anno);  
+4) Semeiotica pediatrica e tecnica diagnostica (biennale) (1° e 2° anno);  
+5) Auxologia normale e patologica (annuale);  
+6) Psicologia dell'eta' evolutiva (annuale);  
+2° Anno:  
+5) Terapia pediatrica (annuale);  
+6) Radiologia pediatrica (annuale);  
+7) Malattie infettive dell'infanzia (annuale);  
+3° Anno:  
+Neuropsichiatria ed igiene mentale dell'infanzia.  
+B) Complementari:  
+Chirurgia pediatrica;  
+Ortopedia e traumatologia infantile;  
+Odontoiatria;  
+Clinica dermosifilopatica;  
+Clinica oculistica;.  
+Clinica otorinolaringoiatrica;  
+Genetica;  
+Cardiologia.  
+Gli allievi sono tenuti a frequentare e a sostenere gli esami delle materie fondamentali, e di almeno 3 scelte fra le complementari, e a frequentare la clinica pediatrica in qualita' di interni per 10 mesi ogni anno.  
+Art. 252. - L'ammissione al corso avviene per concorso per esame e titoli. Puo' essere accordato un abbreviamento di un anno per coloro che siano in possesso di diploma di specializzazione in puericultura ed abbiano titoli di pediatria. Il numero massimo di iscritti e' di venti per ogni anno.  
+Art. 253. - Gli esami di profitto sono dati per gruppo alla fine di ogni anno di corso. Al termine del terzo anno gli iscritti dovranno superare l'esame di diploma presentando e discutendo una tesi scritta su argomento di pediatria.  
+Gli articoli 254, 255, 256, 257, relativi alla "Scuola di specializzazione in ostetricia e ginecologia", sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in ostetricia e ginecologia  
+  
+Art. 254. - La scuola ha la durata di quattro anni, ha sede presso la clinica ostetrico-ginecologica il cui professore di ruolo e' direttore della scuola.  
+Art. 255. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) Elementi di genetica ed eugenica;  
+2) Anatomia normale ed embriologica dell'apparato genitale femminile;  
+3) Fisiologia dell'apparato genitale femminile;  
+4) Endocrinologia fisiologica;  
+5) Fisiologia ostetrica;  
+6) Diagnostica ostetrica;  
+7) Clinica ostetrica e ginecologica.  
+2° Anno:  
+1) Tecnica operatoria ostetrica;  
+2) Diagnostica ginecologica;  
+3) Tecnica diagnostica di laboratorio nel campo ostetrico-ginecologico, esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);  
+4) Clinica ostetrico-ginecologica.  
+3° Anno:  
+1) Anatomia patologica ostetrica e ginecologica;  
+2) Istologia normale e patologica nel campo della specialita';  
+3) Puericultura prenatale;  
+4) Emoterapia nel campo ostetrico e ginecologico;  
+5) Anestesia e analgesia nel campo ostetrico e ginecologico;  
+6) Tecnica operatoria ginecologica;  
+7) Clinica ostetrica e ginecologica;  
+8) Terapia medica ostetrica e ginecologica.  
+4° Anno:  
+1) Puericultura postnatale e malattie del neonato;  
+2) Ostetricia e ginecologia forense;  
+3) Diagnostica roentgen, radioterapia in ostetricia e ginecologia;  
+4) Clinica ostetrica e ginecologica (esame alla fine del 4° anno);  
+5) Urologia ginecologica;  
+6) Chirurgia addominale estra genitale.  
+Art. 256. - La scuola accoglie dieci allievi per anno, gli iscritti devono frequentare le lezioni e le esercitazioni e devono prestare servizio nella clinica, analogo a quello degli assistenti per non meno di nove mesi all'anno.  
+Art. 257. - Alla fine di ogni anno avra' luogo un esame di profitto per gruppi di materie in una sola sessione con presentazione di casi clinici.  
+Alla fine del quadriennio ha luogo l'esame di diploma con presentazione di una dissertazione scritta.  
+Gli articoli 258, 259, 260, 261, relativi alla "Scuola di specializzazione in otorinolaringoiatria" che muta la denominazione in quella di "Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale", sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in otorinolaringoiatria e patologia cervico facciale  
+  
+Art. 258. - La scuola ha la durata di tre anni, ha sede presso la clinica otorinolaringoiatrica il cui professore di ruolo e' il direttore della scuola.  
+Art. 259. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) Anatomia;  
+2) Fisiologia;  
+3) Audiologia (1° anno);  
+4) Semeiotica otorinolaringoiatrica;  
+5) Tecnica di laboratorio;  
+6) Patologia e clinica otorinolaringoiatrica e cervicofacciale (1° anno);  
+7) Anatomia e istologia patologica otorinolaringoiatrica.  
+2° Anno:  
+1) Tecniche operatorie in otorinolaringoiatria;  
+2) Anestesiologia in otorinolaringoiatria;  
+3) Patologia e clinica otorinolaringoiatrica e cervicofacciale (2° anno);  
+4) Radiologia in rapporto con l'otorinolaringoiatria;  
+5) Pediatria in rapporto con l'otorinolaringoiatria;  
+6) Audiologia (2° anno);  
+7) Otoneurologia;  
+8) Foniatria.  
+3° Anno:  
+1) Patologia e clinica otorinolaringoiatrica e cervicofacciale;  
+2) Terapia medica e fisica in otorinolaringoiatria;  
+3) Neuropatologia in rapporto con l'otorinolaringoiatria;  
+4) Oculistica in rapporto con l'otorinolaringoiatria;  
+5) Chirurgia plastica;  
+6) Tracheo-broncoscopia;  
+7) Medicina legale ed infortunistica in otorinolaringoiatria.  
+Art. 260. - La scuola accoglie un numero massimo di iscritti di otto l'anno.  
+Gli allievi sono tenuti a seguire le lezioni e le esercitazioni ed a prestare servizio identico a quello degli assistenti per sei mesi dell'anno.  
+Art. 261. - Gli esami di profitto sono dati per gruppi di materie alla fine di ogni anno. Al termine del triennio avra' luogo l'esame di diploma su una dissertazione scritta.  
+Gli articoli 296, 297, 298, 299, 300, relativi alla "Scuola di specializzazione in odontoiatria e protesi dentaria" sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in odontoiatria e protesi dentaria  
+  
+Art. 296. - La scuola ha la durata di tre anni. Ha sede presso la clinica odontoiatrica il cui professore di ruolo e' direttore della scuola.  
+Art. 297. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) Embriologia e anatomia dentaria e maxillo facciale;  
+2) Microbiologia ed igiene orale;  
+3) Farmacologia;  
+4) Patologia odontostomatologica;  
+5) Odontotecnica;  
+6) Anestesia e chirurgia stomatologica;  
+7) Odontoiatria conservativa (1° anno) (biennale);  
+Esercitazioni pratiche.  
+2° Anno:  
+1) Odontoiatria conservativa (2° anno);  
+2) Clinica protesica dentaria e maxillo-facciale (1° anno) (biennale);  
+3) Paradontologia (1° anno) (biennale);  
+4) Anatomia e istologia odontostomatologica;  
+5) Odontoiatria infantile;  
+6) Radiologia odontostomatologica;  
+7) Ortopedia dento-maxillo-facciale (1° anno) (biennale);  
+8) Chirurgia maxillo-facciale (1° anno) (biennale);  
+Esercitazioni pratiche.  
+3° Anno:  
+1) Clinica odontostomatologica;  
+2) Chirurgia maxillo-facciale (1° anno);  
+3) Medicina legale odontostomatologica e delle assicurazioni;  
+4) Ortopedia dento-maxillo-facciale (2° anno);  
+5) Clinica protesica dentaria e maxillo-facciale (2° anno);  
+6) Paradeontologia (2° anno);  
+Esercitazioni pratiche.  
+Art. 298. - L'insegnamento verra' impartito con corsi dottrinali ed esercitazioni pratiche. Saranno tenute conferenze su argomenti inerenti la specialita'. Gli allievi saranno tenuti ad eseguire costruzioni di apparecchi che saranno giudicati alla fine di ogni anno.  
+Art. 299. - Gli iscritti hanno l'obbligo di frequentare le lezioni, le esercitazioni tecniche e gli ambulatori per l'intero anno scolastico. Il numero massimo e' di trentasei in tre anni.  
+Art. 300. - Alla fine di ogni anno gli iscritti dovranno sostenere un esame di profitto sulle materie di insegnamento.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1978
+### Dato a Roma, addi' 2 ottobre 1972
 
-PERTINI PEDINI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 30 gennaio 1979
+Registrato alla Corte dei conti, addi' 21 novembre 1972
 
-Registro n. 4 Istruzione, foglio n. 15
+Atti del Governo, registro n. 253, foglio n. 61. - CARUSO

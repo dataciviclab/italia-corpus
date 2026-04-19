@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1970 n. 408
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1964 n. 930
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1970 n. 408
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1964 n. 930
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -13,28 +13,30 @@ Art. 1
  IL PRESIDENTE DELLA REPUBBLICA  
   
 Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1392);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione.  
   
 Decreta:  
   
-L'[art. 2 del decreto presidenziale 28 luglio 1969, numero 606](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-07-28;606~art2), relativo alla istituzione della facolta' di scienze politiche dell'Universita' degli studi di Torino, e' integrato nel senso che, per i posti di ruolo, ai cinque posti di professore gia' trasferiti occorre aggiungere il posto assegnato alla cattedra di sociologia (in soprannumero ai sensi dell'[art. 5 della legge 24 febbraio 1967, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-24;62~art5)) con il relativo trasferimento del professore che tale cattedra occupa; e ai cinque posti di assistente gia' trasferiti occorre aggiungere altri quattro posti e propriamente i posti assegnati alle cattedre di sociologia, di diritto costituzionale italiano e comparato, di istituzioni di diritto pubblico, di scienza della politica.  
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 33. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di "Statistica medica" e di "Gerontologia e geriatria".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 marzo 1970
+### Dato a Roma, addi' 13 agosto 1964
 
-SARAGAT FERRARI AGGRADI
+Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 24 giugno 1970
+Registrato alla Corte dei conti, addi' 14 ottobre 1964
 
-Atti del Governo, registro n. 236, foglio n. 67. - CARUSO
+Atti del Governo, registro n. 187, foglio n. 124. - VILLA

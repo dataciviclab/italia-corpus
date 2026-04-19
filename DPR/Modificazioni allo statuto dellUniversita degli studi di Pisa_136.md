@@ -1,45 +1,142 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1953 n. 756
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 852
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1953 n. 756
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 852
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta, intese ad ottenere l'istituzione del corso di laurea in economia aziendale;
+
+Considerato che e' tuttora in atto la sperimentazione organizzativa e didattica di cui agli [articoli 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art81)-[93, del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art93);
+
+Considerato che le tabelle dell'ordinamento didattico universitario relative ai corsi di laurea sono in fase di riordinamento per effetto di apposite commissioni di studio, e che anzi alcune tabelle sono state gia' riordinate;
+
+Rilevata la necessita' di accogliere la richiesta dell'Universita' degli studi di Pisa di istituire il corso di laurea in economia aziendale presso la facolta' di economia e commercio, allo scopo di riequilibrare le iscrizioni presso gli omonimi corsi di laurea dell'Universita' Bocconi di Milano e dell'Universita' di Venezia, al fine di assicurare una migliore formazione degli studenti;
+
+Riconosciuta la particolare necessita' di approvare la modifica proposta in deroga al termine triennale di cui all'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con i [regi decreti 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2225); [20 settembre 1928, n. 2251](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1928-09-20;2251); [31 ottobre 1929, n. 2473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1929-10-31;2473); [30 ottobre 1930, n. 1916](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1916); [22 ottobre 1931, n. 1339](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-22;1339); [27 ottobre 1932, n. 2098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2098); [13 dicembre 1934, n. 2408](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-13;2408); [1 ottobre 1936, n. 2462](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2462); [27 ottobre 1937, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1937-10-27;2170); [5 ottobre 1939, n. 1744](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1744); [26 ottobre 1940, n. 2071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2071); [27 aprile 1942, n. 469](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;469) e [24 ottobre 1942, n. 1652, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1652) [30 dicembre 1947, n. 1689 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1689) [17 febbraio 1949, n. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-17;97); [30 ottobre 1949, n. 1169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1169); [31 ottobre 1950, n. 1309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1309); [11 aprile 1951, n. 566](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;566); [27 ottobre 1951, n. 1801](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1801); [25 marzo 1952, n. 872](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-03-25;872); [25 luglio 1952, n. 1351](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1351) e [12 settembre 1952, n. 3861](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-12;3861);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare Le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati e' cosi' ulteriormente modificato:  
-All'art. 46. - Il terzo comma e' sostituito dal seguente:  
-"I laureati in filosofia che aspirino alla laurea in lettere vengono ammessi al quarto anno; essi dovranno sostenere la prova scritta di latino (prescritta per gli studenti di lettere) che sara' classificata con apposito voto. Devono inoltre frequentare i corsi e superare gli esami delle seguenti discipline:  
-a) per l'indirizzo classico: letteratura latina, letteratura greca, archeologia, glottologia, geografia, storia greca (o, se tace in quell'anno il corso, altra disciplina classica indicata dal Consiglio della Facolta). Un insegnamento complementare;  
-b) per l'indirizzo moderno: filologia romanza, storia dell'arte mediovale e moderna, geografia, quattro insegnamenti, che non siano stati seguiti per la laurea in filosofia (si consigliano tra questi due lingue e letterature straniere)".  
-All'art. 53 relativo al corso di laurea in medicina e chirurgia, la denominazione dell'Istituto di "educazione fisica" e' sostituita con quella di "Istituto di fisiologia del lavoro e dello sport".  
+L'art. 52, relativo alle lauree che conferisce la facolta' di economia e commercio, e' soppresso e cosi' sostituito:   
+"Art. 52. - La facolta' di economia e commercio conferisce le lauree in:   
+economia e commercio;   
+economia aziendale".   
+- Dopo l'art. 55, con il conseguente scorrimento della numerazione degli articoli successivi, e' inserito il seguente articolo relativo all'ordinamento degli studi del corso di laurea in economia aziendale:   
+Art. 55. - La durata del corso degli studi per la laurea in economia aziendale e' di quattro anni.   
+Insegnamenti fondamentali:   
+1) sociologia;   
+2) istituzioni di diritto privato;   
+3) istituzioni di diritto pubblico;   
+4-5) economia politica I e II;   
+6) storia economica;   
+7) statistica metodologica;   
+8) economia aziendale;   
+9) metodologie e determinazioni quantitative di azienda;   
+10) diritto commerciale;   
+11) politica economica e scienza delle Finanze;   
+12) economia aziendale (corso progredito);   
+13) economia delle aziende industriali;   
+14) economia delle aziende commerciali;   
+15) economia delle aziende di credito;   
+16) organizzazione del lavoro;   
+17) matematica generale.   
+Insegnamenti complementari:   
+1) economia delle aziende industriali: corso progredito;   
+2) economia delle aziende di credito: corso progredito;   
+3) economia delle aziende commerciali: corso progredito;   
+4) statistica metodologica: corso progredito;   
+5) metodologia delle scienze sociali;   
+6) matematica finanziaria e attuariale;   
+7) direzione e analisi del processo decisionale;   
+8) organizzazione delle imprese industriali;   
+9) programmazione e controllo;   
+10) funzioni finanziarie;   
+11) funzioni commerciali;   
+12) funzioni di produzione;   
+13) amministrazione del personale e analisi delle mansioni;   
+14) economia dei settori di aziende industriali;   
+15) economia dei gruppi, delle concentrazioni e delle cooperazioni aziendali;   
+16) economia delle imprese pubbliche;   
+17) metodi quantitativi per le decisioni;   
+18) bilancio ed altre determinazioni di sintesi;   
+19) contabilita' industriale;   
+20) sistemi di informazioni e di controllo;   
+21) pianificazione a lungo periodo;   
+22) economia delle fonti di energia;   
+23) economia degli intermediari finanziari;   
+24) rilevazioni bancarie;   
+25) organizzazione delle aziende di credito;   
+26) economia del medio circolante;   
+27) economia del mercato mobiliare;   
+28) la gestione valutaria delle banche;   
+29) economia delle aziende del grande dettaglio;   
+30) tecnica delle ricerche di mercato;   
+31) costi di distribuzione e canali di distribuzione;   
+32) organizzazione commerciale;   
+33) economia e tecnica della pubblicita';   
+34) politiche dei prezzi;   
+35) tecnica del commercio internazionale;   
+36) economia delle aziende di assicurazione e di previdenza;   
+37) organizzazione del lavoro nelle amministrazioni pubbliche;   
+38) bilancio ed altre determinazioni di sintesi nelle amministrazioni pubbliche;   
+39) programmazione e pianificazione nella amministrazione pubblica;   
+40) localizzazione delle imprese industriali e commerciali;   
+41) costi e ricavi bancari;   
+42) economia delle aziende agrarie;   
+43) tecnologia dei processi produttivi;   
+44) diritto industriale;   
+45) diritto tributario;   
+46) diritto fallimentare;   
+47) diritto penale commerciale;,   
+48) diritto del lavoro e della previdenza sociale;   
+49) diritto bancario e della borsa;   
+50) diritto amministrativo;   
+51) diritto internazionale.   
+Per essere ammesso all'esame di laurea lo studente deve avere superato gli esami di tutti gli insegnamenti obbligatori fondamentali del corso di laurea e inoltre i nove insegnamenti complementari scelti fra gruppi di discipline indicate dalla facolta' per i singoli piani di studio, a seconda dell'indirizzo prescelto.   
+Gli studenti possono, tuttavia, previa approvazione della facolta', seguire un proprio piano degli studi, fatti salvi gli insegnamenti obbligatori, purche' esso comprenda insegnamenti impartiti nella facolta'.   
+Lo studente, inoltre, dovra' prima di sostenere l'esame di laurea, dar prova di corretta conoscenza di due lingue straniere, scelte fra quelle impartite negli istituti linguistici dell'Universita'.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 marzo 1953
+### Dato a Roma, addi' 4 ottobre 1986
 
-EINAUDI SEGNI
+COSSIGA
 
-Visto, il Guardasigilli: GONELLA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 12 ottobre 1953
+Visto, il Guardasigilli: ROGNONI
 
-Atti del Governo, registro n. 79, foglio n. 110. - PALLA
+Registrato alla Corte dei conti, addi' 27 novembre 1986
+
+Registro n. 86 Istruzione, foglio n. 141

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 978
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1069
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 978
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1069
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
@@ -10,142 +10,177 @@ Modificazioni allo statuto dell'Universita' degli studi di Genova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-07;1592) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2046](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2046), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio universitario nazionale nel suo parere;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sulla proposta del Ministro per la pubblica istruzione;
 
-Sulla
------
+Decreta:
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 122. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' aggiunta la Scuola in "Nefrologia medica" di nuova istituzione.
+
+Dopo l'art. 275 con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in nefrologia medica.
+
+Scuola di specializzazione in nefrologia medica
+
+Art. 276. - La scuola di specializzazione in nefrologia medica ha la durata di 3 anni. Essa ha sede presso l'Istituto scientifico di medicina interna.
+
+Art. 277. - Alla scuola possono essere iscritti solo i laureati in medicina e chirurgia. Il numero degli specializzandi e' fissato in dodici complessivi, suddivisi nei 3 anni di corso.
+
+Art. 278. - Le norme per l'iscrizione sono quelle previste per le scuole di specializzazione e perfezionamento riferite negli articoli da 122 a 137 dello statuto dell'universita'. Sara' comunque fatto un colloquio ai candidati alla iscrizione.
+
+Qualora le domande siano in soprannumero, la selezione dei candidati sara' fatta mediante concorso per titoli ed esami espletati da una commissione presieduta dal direttore della scuola.
+
+Art. 279. - Gli iscritti alla scuola hanno l'obbligo di frequentare gli insegnamenti secondo il programma del corso. Coloro che non ottemperano all'obbligo di frequenza ai corsi di insegnamento, al servizio di corsia di dialisi e di laboratorio, non potranno ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.
+
+Art. 280. - Gli insegnamenti impartiti saranno i seguenti, suddivisi nei tre anni di corso:
+
+1° Anno:
+
+Struttura ed ultrastruttura normale del rene;
+
+Aspetti biochimici della funzione renale;
+
+Fisiologia renale;
+
+Semeiologia renale (fisica, radiologica, funzionale);
+
+Microbiologia ed immunologia applicata alla nefrologia;
+
+Struttura ed ultrastruttura patologica del rene.
+
+2° Anno:
+
+Patologia del ricambio idro-salino;
+
+Insufficienza renale acuta e cronica;
+
+Nefropatie glomerulari;
+
+Nefropatie tubulari;
+
+Farmacologia di interesse nefrologico;
+
+Terapia dietetica e dialitica (1° anno).
+
+3° Anno:
+
+Nefropatie interstiziali;
+
+Nefropatie vascolari;
+
+Nefropatie malformative e neoplastiche;
+
+Terapia dietetica e dialitica (2° anno);
+
+Terapia generale delle nefropatie (antibiotica, antireattiva, sintomatica).
+
+Art. 281. - Alla fine di ciascun anno accademico coloro i quali abbiano ottenuto la prescritta attestazione di frequenza, potranno sostenere gli esami di profitto, il cui superamento e' condizione necessaria per la iscrizione al corso successivo.
+
+Gli esami consistono in prove scritte e in prove orali su ciascuna delle materie di insegnamento che sono oggetto di esame in ogni anno di corso.
+
+Art. 282. - Al termine del 3 anno, per conseguire il diploma di specializzazione, gli specializzandi, oltre ad aver superato le prove di esame nelle singole materie, dovranno presentare una dissertazione scritta su un argomento di nefrologia che sara' stabilito in base ad accordi con il direttore della scuola. I candidati non riconosciuti idonei agli esami di ciascun corso e all'esame di diploma potranno sostenere le prove dopo un altro anno di frequenza.
+
+Art. 283. - Le norme per la direzione, per le tasse, ecc., sono quelle generali delle scuole di specializzazione e di perfezionamento riferite negli articoli da 122 a 137 dello statuto dell'universita'.
+
+Art. 284. - Agli iscritti che abbiano ottenuto l'approvazione nell'esame finale viene rilasciato il diploma di specializzazione in nefrologia medica valido a tutti gli effetti legali.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1972
+
+LEONE
+
+SCALFARO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 3 marzo 1973 Atti di Governo, registro n. 256, foglio n. 47. - VALENTINI
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2046](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2046), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Lo statuto dell'universita' di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli 333, 334 e 335, relativi alla scuola di specializzazione in puericultura che muta la denominazione in scuola di specializzazione in pediatria preventiva e puericultura, sono sostituiti dai seguenti:   
+Decreta:   
   
-Scuola di specializzazione in pediatria preventiva e puericultura   
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 122. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' aggiunta la Scuola in "Nefrologia medica" di nuova istituzione.   
+Dopo l'art. 275 con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in nefrologia medica.   
   
-Art. 333. - Presso l'istituto di puericultura e medicina neonatale e' istituita la scuola di specializzazione in pediatria preventiva e puericultura.   
-La scuola si propone di conferire la preparazione teorico-pratica sia nel campo della neonatologia e patologia neonatale, sia nel campo della pratica pediatrica preventiva e sociale, con particolare riguardo alla prevalente funzione preventiva e sociale della medicina infantile sul territorio, che il pediatra e' chiamato a svolgere.   
-Art. 334. - Essa ha la durata di quattro anni ed e' articolata in due indirizzi:   
-a) neonatologia e patologia neonatale;   
-b) pediatria sociale.   
-Dopo un primo biennio comune ai due indirizzi, e' istituito un secondo biennio differenziato per ciascuno dei due indirizzi.   
-I medici che abbiano gia' conseguito la specializzazione in pediatria preventiva e puericultura con uno dei due indirizzi, potranno iscriversi direttamente al secondo biennio della scuola con l'altro indirizzo previsto dallo statuto.   
-Art. 335. - Il numero massimo degli allievi che possono essere iscritti e' di sessanta complessivamente pei l'intera durata del corso di studi, bienni orientative inclusi.   
-Art. 336. - Le materie di insegnamento sono:   
+Scuola di specializzazione in nefrologia medica   
   
-BIENNIO PROPEDEUTICO COMUNE   
+Art. 276. - La scuola di specializzazione in nefrologia medica ha la durata di 3 anni. Essa ha sede presso l'Istituto scientifico di medicina interna.   
+Art. 277. - Alla scuola possono essere iscritti solo i laureati in medicina e chirurgia. Il numero degli specializzandi e' fissato in dodici complessivi, suddivisi nei 3 anni di corso.   
+Art. 278. - Le norme per l'iscrizione sono quelle previste per le scuole di specializzazione e perfezionamento riferite negli articoli da 122 a 137 dello statuto dell'universita'. Sara' comunque fatto un colloquio ai candidati alla iscrizione.   
+Qualora le domande siano in soprannumero, la selezione dei candidati sara' fatta mediante concorso per titoli ed esami espletati da una commissione presieduta dal direttore della scuola.   
+Art. 279. - Gli iscritti alla scuola hanno l'obbligo di frequentare gli insegnamenti secondo il programma del corso. Coloro che non ottemperano all'obbligo di frequenza ai corsi di insegnamento, al servizio di corsia di dialisi e di laboratorio, non potranno ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.   
+Art. 280. - Gli insegnamenti impartiti saranno i seguenti, suddivisi nei tre anni di corso:   
   
 1° Anno:   
-1) anatomia e fisiologia dell'eta' evolutiva I;   
-2) elementi di ostetricia e ginecologia;   
-3) semeiotica infantile;   
-4) genetica medica;   
-5) elementi di laboratorio e biochimica clinica;   
-6) fisiologia della nutrizione;   
-7) metabolismo dell'eta' evolutiva I;   
-8) embriologia e fisiologia prenatali;   
-9) patologia infantile I;   
-10) alimentazione nell'eta' evolutiva.   
+Struttura ed ultrastruttura normale del rene;   
+Aspetti biochimici della funzione renale;   
+Fisiologia renale;   
+Semeiologia renale (fisica, radiologica, funzionale);   
+Microbiologia ed immunologia applicata alla nefrologia;   
+Struttura ed ultrastruttura patologica del rene.   
+  
 2° Anno:   
-1) anatomia e fisiologia dell'eta' evolutiva II;   
-2) metabolismo dell'eta' evolutiva II;   
-3) patologia infantile II;   
-4) auxologia normale;   
-5) malattie infettive e loro prevenzione;   
-6) patologia prenatale;   
-7) patologia perinatale;   
-8) elementi di clinica pediatrica;   
-9) dietologia infantile;   
-10) anatomia patologica infantile;   
-11) O.R.L. e audiologia infantile;   
-12) oculistica e ottica fisio-patologica infantile.   
-  
-INDIRIZZO DI NEONATOLOGIA E PATOLOGIA NEONATALE   
+Patologia del ricambio idro-salino;   
+Insufficienza renale acuta e cronica;   
+Nefropatie glomerulari;   
+Nefropatie tubulari;   
+Farmacologia di interesse nefrologico;   
+Terapia dietetica e dialitica (1° anno).   
   
 3° Anno:   
-1) clinica della gravidanza e del parto normale;   
-2) fisiologia embrio-fetale;   
-3) fisiologia neonatale;   
-4) biochimica neonatale;   
-5) immunologia neonatale;   
-6) diagnostica radiologica neonatale;   
-7) tecniche di laboratorio (con riferimento alla fisiopatologia neonatale);   
-8) patologia neonatale I;   
-9) assistenza al neonato sano ed ammalato;   
-10) semeiotica neonatale.   
-4° Anno:   
-1) patologia neonatale II;   
-2) il neonato a rischio;   
-3) farmacologia neonatale;   
-4) clinica e terapia neonatali;   
-5) rianimazione e terapia intensiva del neonato;   
-6) alimentazione del neonato sano e patologico;   
-7) anatomia patologica del feto e del neonato;   
-8) patologia chirurgica neonatale;   
-9) neurologia neonatale.   
+Nefropatie interstiziali;   
+Nefropatie vascolari;   
+Nefropatie malformative e neoplastiche;   
+Terapia dietetica e dialitica (2° anno);   
+Terapia generale delle nefropatie (antibiotica, antireattiva, sintomatica).   
   
-INDIRIZZO DI PEDIATRIA SOCIALE   
-  
-3° Anno:   
-1) adolescentologia I;   
-2) auxologia patologica ed endocrinologia infantile;   
-3) neuropsichiatria infantile;   
-4) epidemiologia, statistica medica e biometria;   
-5) epidemiologia e prevenzione di malattie di importanza sociale nell'eta' evolutiva;   
-6) igiene dell'alimentazione;   
-7) medicina scolastica e sua legislazione;   
-8) psicologia dell'eta' evolutiva;   
-9) fisioterapia e riabilitazione;   
-10) consulenza genetica sul territorio;   
-11) patologia e clinica delle malattie di importanza   
-sociale nell'eta' evolutiva.   
-4° Anno:   
-1) adolescentologia II;   
-2) medicina dello sport nell'eta' evolutiva;   
-3) odontologia e odontoiatria;   
-4) ortopedia e traumatologia nell'eta' evolutiva;   
-5) legislazione ed assistenza sociale per l'infanzia e   
-l'adolescenza;   
-6) informazione sanitaria;   
-7) servizi pubblici extra-ospedalieri di sanita' e assistenza per l'eta' evolutiva;   
-8) psicopedagogia;   
-9) sociologia applicata alla popolazione infantile.   
-Art. 337. - La frequenza alle lezioni, alle esercitazioni pratiche nei reparti e' obbligatoria: gli allievi che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le prove di esame.   
-Il tirocinio pratico durante il quarto anno della scuola, per l'indirizzo di neonatologia e patologia neonatale potra' essere svolto oltreche' presso l'istituto ove la scuola ha sede, presso strutture assistenziali che abbiano, a giudizio del consiglio della scuola, caratteristiche idonee allo scopo.   
-Tale tirocinio sara' attestato per iscritto dal responsabile di ciascuna struttura.   
-Il tirocinio pratico durante il quarto anno per l'indirizzo di pediatria sociale, e' previsto sia svolto almeno in parte, in accordo con le amministrazioni competenti (regioni, province, comuni) presso strutture assistenziali sul territorio (consultori, ecc.) che abbiano, a giudizio del consiglio della scuola, caratteristiche idonee allo scopo. Tale tirocinio sara' attestato dall'ente responsabile della struttura.   
-Alla fine di ciascun anno di corso gli allievi, per essere ammessi agli anni successivi, debbono superare le prove di esame teorico-pratiche sulle materie impartite durante l'anno; per le materie a corso biennale, l'esame sara' sostenuto sotto forma di colloquio, al termine di ciascun anno.   
-Superati gli esami finali, l'allievo sosterra' l'esame di diploma, che potra' essere costituito anche da una dissertazione orale su un argomento precedentemente concordato.   
-All'allievo risultato idoneo verra' rilasciato il diploma di specialista in pediatria preventiva e puericultura, con espressa menzione dell'indirizzo seguito, valido a tutti gli effetti di legge.   
+Art. 281. - Alla fine di ciascun anno accademico coloro i quali abbiano ottenuto la prescritta attestazione di frequenza, potranno sostenere gli esami di profitto, il cui superamento e' condizione necessaria per la iscrizione al corso successivo.   
+Gli esami consistono in prove scritte e in prove orali su ciascuna delle materie di insegnamento che sono oggetto di esame in ogni anno di corso.   
+Art. 282. - Al termine del 3 anno, per conseguire il diploma di specializzazione, gli specializzandi, oltre ad aver superato le prove di esame nelle singole materie, dovranno presentare una dissertazione scritta su un argomento di nefrologia che sara' stabilito in base ad accordi con il direttore della scuola. I candidati non riconosciuti idonei agli esami di ciascun corso e all'esame di diploma potranno sostenere le prove dopo un altro anno di frequenza.   
+Art. 283. - Le norme per la direzione, per le tasse, ecc., sono quelle generali delle scuole di specializzazione e di perfezionamento riferite negli articoli da 122 a 137 dello statuto dell'universita'.   
+Art. 284. - Agli iscritti che abbiano ottenuto l'approvazione nell'esame finale viene rilasciato il diploma di specializzazione in nefrologia medica valido a tutti gli effetti legali.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, 31 ottobre 1981
+### Dato a Roma, addi' 31 ottobre 1972
 
-PERTINI BODRATO
+LEONE SCALFARO
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 9 febbraio 1982
+Registrato alla Corte dei conti, addi' 3 marzo 1973
 
-Registro n. 20 Istruzione, foglio n. 170
+Atti di Governo, registro n. 256, foglio n. 47. - VALENTINI

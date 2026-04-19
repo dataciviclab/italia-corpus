@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1984 n. 532
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 1026
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1984 n. 532
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 1026
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -39,20 +39,26 @@ Articolo unico
 --------------
 
   
-  
-Nell'art. 62, relativo al corso di laurea in lettere della facolta' di lettere e filosofia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:   
-linguistica applicata.   
+Nell'art. 78, relativo al corso di laurea in medicina e chirurgia, agli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+fisiologia clinica;  
+fisiopatologia endocrina;  
+patologia urologica;  
+farmacologia cellulare;  
+chirurgia pediatrica;  
+fisiopatologia chirurgica;  
+semeiotica ostetrica;  
+fisiopatologia dell'emostasi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 giugno 1984
+### Dato a Roma, addi' 4 giugno 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 13 agosto 1984
+Registrato alla Corte dei conti, addi' 29 febbraio 1984
 
-Registro n. 49 Istruzione, foglio n. 304
+Registro n. 13 Istruzione, foglio n. 86

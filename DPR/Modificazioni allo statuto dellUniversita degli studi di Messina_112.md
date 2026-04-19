@@ -1,52 +1,72 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1957 n. 263
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1981 n. 476
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1957 n. 263
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1981 n. 476
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923) e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio universitario nazionale nei suoi pareri;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, numero 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con i [regi decreti 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;1905); [28 maggio 1942, n. 643 e con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-05-28;643) [22 giugno 1947, n. 774 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-06-22;774) [5 agosto 1951, n. 1335](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-05;1335); [27 ottobre 1951, n. 1827](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1827); [30 luglio 1953, n. 999](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;999); [8 febbraio 1954, n. 403](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-02-08;403); [27 marzo 1954, n. 735](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-27;735); [24 luglio 1955, n. 779](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-24;779); [28 giugno 1956, n. 764](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-06-28;764) e [5 settembre 1956, n. 1137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-09-05;1137);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la legge 11 aprile n. 312;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Lo statuto dell'Universita' di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Decreta:  
+L'art. 149 dello statuto dell'Universita' di Messina, di cui al [decreto del Presidente della Repubblica 18 febbraio 1978, n. 507](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-02-18;507), relativo alla scuola di specializzazione in anestesia e rianimazione, e' modificato nel senso che il numero degli iscritti e' stabilito in venticinque per anno di corso e complessivamente in settantacinque iscritti per l'intero corso di studi.  
+
+Art. 2
+------
+
   
-Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 24, primo comma, relativo alle modalita' dell'esame di laurea in economia e commercio, e' abrogato e sostituito dal seguente:  
-a) "Nella discussione orale di una dissertazione scritta su un tema che rientri in uno degli insegnamenti fondamentali o complementari impartiti nella Facolta', escluse le lingue straniere".  
-Art. 52. - Agli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di:  
-"scienza dell'alimentazione".  
-Art. 54. - Agli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto quello di:  
-"scienza dell'alimentazione".  
-Art. 64. - Agli insegnamenti complementari del corso di laurea in farmacia sono aggiunti quelli di:  
-7) Chimica tossicologica;  
-8) Fisiologia vegetale.  
-Art. 65. - E' aggiunto il seguente comma:  
-"I tre corsi annuali di esercitazioni di chimica farmaceutica e tossicologica sono propedeutici il primo rispetto al secondo e il secondo rispetto al terzo. Lo studente non puo' essere ammesso alla frequenza del primo corso di esercitazioni di chimica farmaceutica e tossicologica se non ha prima superato gli esami di chimica generale ed inorganica".  
+L'art. 175 dello statuto dell'Universita' di Messina, di cui al [decreto del Presidente della Repubblica 18 febbraio 1978, n. 507](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-02-18;507), relativo alla scuola di specializzazione in ginecologia ed ostetricia, e' modificato nel senso che il numero degli iscritti e' stabilito in quattordici per anno di corso.  
+
+Art. 3
+------
+
+  
+Gli articoli relativi alla scuola di specializzazione in malattie del rene, sangue e ricambio sono soppressi con il conseguente spostamento della numerazione successiva.  
+
+Art. 4
+------
+
+  
+L'art. 192 dello statuto dell'Universita' di Messina, di cui al [decreto del Presidente della Repubblica 12 settembre 1978, n. 864](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-09-12;864), relativo alla scuola di specializzazione in anatomia patologica, e' modificato nel senso che il numero degli iscritti e' stabilito in dodici per anno di corso.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 febbraio 1957
+### Dato a Roma, addi' 10 aprile 1981
 
-GRONCHI ROSSI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 30 aprile 1957
+Registrato alla Corte dei conti, addi' 30 luglio 1981
 
-Atti del Governo, registro n. 105, foglio n. 64. - RELLEVA
+Registro n. 73 Istruzione, foglio n. 301

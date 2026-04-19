@@ -1,49 +1,126 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1970 n. 1063
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1957 n. 1004
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1970 n. 1063
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1957 n. 1004
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successivi;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalla autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 17. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di: "Storia del cristianesimo".
+
+Art. 29. - Agli insegnamenti complementari del corso di laurea in fisica e' aggiunto quello di: "Elettronica".
+
+Art. 32. - Agli insegnamenti complementari del corso di laurea in matematica e fisica e' aggiunto quello di: "Teoria dei numeri".
+
+Art. 37. - Agli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto quello di: "Farmacologia".
+
+Art. 40. - Agli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti quelli di: "Geologia degli idrocarburi", "Esplorazione geologica del sottosuolo", "Sedimentologia", "Paleontologia umana e paletnologia".
+
+Art. 51. - Agli insegnamenti complementari del corso di laurea in medicina veterinaria e' aggiunto quello di: "Biochimica applicata".
+
+Gli articoli da 73 a 80, concernenti l'ordinamento della scuola di perfezionamento in filosofia, sono abrogati e sostituiti dai seguenti:
+
+Art. 73. - E' istituita presso la Facolta' di lettere e filosofia la scuola di perfezionamento in filosofia. La durata del corso degli studi e' di due anni.
+
+Art. 74. - Il direttore della scuola e' designato ogni triennio dal Consiglio di Facolta' nella persona di uno dei professori ordinari di discipline filosofiche.
+
+Art. 75. - Per l'iscrizione alla scuola e' richiesta la laurea in filosofia.
+
+Art. 76. - Per essere ammesso all'esame di diploma l'iscritto alla scuola deve aver seguito i corsi e superato gli esami in almeno cinque insegnamenti, da lui scelti fra quelli impartiti ufficialmente nella Facolta' di lettere e filosofia o in altre Facolta' dell'Ateneo; almeno due di questi insegnamenti debbono essere filosofici; lo iscritto alla scuola puo' seguire per un biennio uno o due di detti insegnamenti ed in tal caso puo' ridurre di uno o due il numero degli insegnamenti che deve scegliere. La scelta degli insegnamenti ed il relativo piano di studio debbono essere sottoposti, all'inizio del corso degli studi, all'approvazione del direttore della scuola e del professore della materia in cui l'iscritto intende sostenere l'esame di diploma.
+
+Art. 77. - L'esame di diploma consiste nella discussione di una dissertazione scritta, di carattere scientifico e di argomento filosofico, svolta su un tema fissato all'inizio del corso degli studi, d'intesa col professore della materia e con l'approvazione del direttore della scuola.
+
+Art. 78. - La Commissione degli esami di profitto e' quella prevista per i vari insegnamenti, secondo le disposizioni delle singole Facolta'. La Commissione degli esami di diploma, composta di sette membri, e' presieduta dal preside della Facolta' e ne fanno parte il direttore della scuola e cinque professori ufficiali da lui designati.
+
+Art. 79 - Per l'iscrizione alla scuola debbono essere versati le tasse e sopratasse e gli eventuali contributi speciali stabiliti anno per anno dal Consiglio di amministrazione dell'Universita', su proposta del senato accademico, uditi il Consiglio di Facolta' e la scuola.
+
+La tassa di diploma, da devolversi all'Erario, e' fissata nella misura di L. 6000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 16 ottobre 1957
+
+GRONCHI
+
+MORO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 30 ottobre 1957 Atti del Governo, registro n. 108, foglio n. 124. - RELLEVA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successivi;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalla autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-L'art. 13 dello statuto dell'Universita' degli studi di Milano di cui al [decreto del Presidente della Repubblica 3 agosto 1970, n. 701](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-08-03;701), concernente il riordinamento del corso di laurea in scienze politiche e' modificato nel senso che l'insegnamento di diritto internazionale II al n. 4) della lettera e) deve essere rettificato in quello di "Diritto delle comunita' europee"; inoltre gli insegnamenti n. 12) Diritto delle comunita' europee e n. 38) Storia dei rapporti tra Stato e Chiesa devono essere soppressi. Nello stesso articolo vengono aggiunti i seguenti insegnamenti complementari:  
-  
-Storia medioevale;  
-Storia della filosofia;  
-Storia delle istituzioni religiose;  
-Filosofia morale;  
-Diritto diplomatico e consolare;  
-Dottrina dello Stato;  
-Storia del diritto romano.  
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 17. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di: "Storia del cristianesimo".  
+Art. 29. - Agli insegnamenti complementari del corso di laurea in fisica e' aggiunto quello di: "Elettronica".  
+Art. 32. - Agli insegnamenti complementari del corso di laurea in matematica e fisica e' aggiunto quello di: "Teoria dei numeri".  
+Art. 37. - Agli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto quello di: "Farmacologia".  
+Art. 40. - Agli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti quelli di: "Geologia degli idrocarburi", "Esplorazione geologica del sottosuolo", "Sedimentologia", "Paleontologia umana e paletnologia".  
+Art. 51. - Agli insegnamenti complementari del corso di laurea in medicina veterinaria e' aggiunto quello di: "Biochimica applicata".  
+Gli articoli da 73 a 80, concernenti l'ordinamento della scuola di perfezionamento in filosofia, sono abrogati e sostituiti dai seguenti:  
+Art. 73. - E' istituita presso la Facolta' di lettere e filosofia la scuola di perfezionamento in filosofia. La durata del corso degli studi e' di due anni.  
+Art. 74. - Il direttore della scuola e' designato ogni triennio dal Consiglio di Facolta' nella persona di uno dei professori ordinari di discipline filosofiche.  
+Art. 75. - Per l'iscrizione alla scuola e' richiesta la laurea in filosofia.  
+Art. 76. - Per essere ammesso all'esame di diploma l'iscritto alla scuola deve aver seguito i corsi e superato gli esami in almeno cinque insegnamenti, da lui scelti fra quelli impartiti ufficialmente nella Facolta' di lettere e filosofia o in altre Facolta' dell'Ateneo; almeno due di questi insegnamenti debbono essere filosofici; lo iscritto alla scuola puo' seguire per un biennio uno o due di detti insegnamenti ed in tal caso puo' ridurre di uno o due il numero degli insegnamenti che deve scegliere. La scelta degli insegnamenti ed il relativo piano di studio debbono essere sottoposti, all'inizio del corso degli studi, all'approvazione del direttore della scuola e del professore della materia in cui l'iscritto intende sostenere l'esame di diploma.  
+Art. 77. - L'esame di diploma consiste nella discussione di una dissertazione scritta, di carattere scientifico e di argomento filosofico, svolta su un tema fissato all'inizio del corso degli studi, d'intesa col professore della materia e con l'approvazione del direttore della scuola.  
+Art. 78. - La Commissione degli esami di profitto e' quella prevista per i vari insegnamenti, secondo le disposizioni delle singole Facolta'. La Commissione degli esami di diploma, composta di sette membri, e' presieduta dal preside della Facolta' e ne fanno parte il direttore della scuola e cinque professori ufficiali da lui designati.  
+Art. 79 - Per l'iscrizione alla scuola debbono essere versati le tasse e sopratasse e gli eventuali contributi speciali stabiliti anno per anno dal Consiglio di amministrazione dell'Universita', su proposta del senato accademico, uditi il Consiglio di Facolta' e la scuola.  
+La tassa di diploma, da devolversi all'Erario, e' fissata nella misura di L. 6000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1970
+### Dato a Roma, addi' 16 ottobre 1957
 
-SARAGAT MISASI
+GRONCHI MORO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 23 dicembre 1970
+Registrato alla Corte dei conti, addi' 30 ottobre 1957
 
-Atti del Governo, registro n. 239, foglio n. 29. - CARUSO
+Atti del Governo, registro n. 108, foglio n. 124. - RELLEVA

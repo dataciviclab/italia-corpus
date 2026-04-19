@@ -1,267 +1,53 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1234
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 marzo 1955 n. 223
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1234
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 marzo 1955 n. 223
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-gli articoli da 138 a 141, relativi alla scuola di specializzazione in malattie dell'apparato digerente e del ricambio che muta la denominazione in scuola di specializzazione in malattie dell'apparato digerente;
-
-gli articoli da 164 a 166, relativi alla scuola di specializzazione in malattie del sangue che muta la denominazione in scuola di specializzazione in ematologia clinica e di laboratorio, sono abrogati e sostituiti dai seguenti:
-
-Scuola di specializzazione in malattie dell'apparato digerente
-
-Art. 138. - La scuola di specializzazione in malattie dell'apparato digerente conferisce un diploma di specialista in malattie dell'apparato digerente.
-
-Art. 139. - Alla scuola sono ammessi i laureati in medicina e chirurgia.
-
-Il numero dei posti e' fissato in 10 per il 1° corso; in 11 per il 2° corso, 3° e 4° corso.
-
-Art. 140. - La scuola, che ha sede presso la clinica medica, ha la durata di anni quattro di cui uno di tirocinio pratico.
-
-Art. 141. - Gli insegnamenti impartiti dalla scuola sono:
-
-1° Anno:
-
-Anatomia patologica;
-
-Fisiopatologia;
-
-Chimica clinica;
-
-Semeiotica fisica e strumentale (biennale);
-
-Clinica medica (triennale).
-
-2° Anno:
-
-Semeiotica fisica e strumentale (biennale);
-
-Semeiotica radiologica;
-
-Patologia speciale delle malattie del tubo digerente;
-
-Clinica medica (triennale).
-
-3° Anno:
-
-Patologia speciale delle malattie del fegato e del pancreas;
-
-Clinica medica (triennale).
-
-A queste materie fondamentali possono essere aggiunte materie complementari in numero non superiore a 4 per la totalita' del corso, secondo i particolari sviluppi di ricerca e di dottrina caratteristici della scuola.
-
-4° Anno:
-
-Internato: applicazione delle tecniche diagnostiche della specialita'.
-
-Gli insegnamenti saranno integrati da esercitazioni pratiche.
-
-L'esame di profitto si sosterra' alla fine dei singoli corsi e gli insegnamenti biennali e triennali importano un unico esame alla fine del corso.
-
-Gli allievi del 1°, del 2° e 3° anno, per essere ammessi rispettivamente al 2°, 3° e 4° anno, debbono aver ottenuto tutte le firme di frequenza dei corsi e devono avere superato tutti i relativi esami.
-
-Scuola di specializzazione in ematologia clinica e di laboratorio
-
-Art. 164. - La scuola di specializzazione in ematologia clinica e di laboratorio conferisce il diploma di specialista in ematologia e clinica di laboratorio.
-
-La durata del corso e' di tre anni. Il numero dei posti disponibili e' di dodici per anno di corso (totale 36 posti).
-
-La scuola ha sede presso l'istituto di patologia medica e metodologia clinica.
-
-La direzione della scuola di specializzazione in ematologia clinica e di laboratorio spetta di diritto al professore di ruolo dell'istituto di patologia medica e metodologia clinica: nel caso che tale cattedra non sia ricoperta da un professore di ruolo, la facolta' nomina un professore di ruolo scegliendolo fra i propri componenti.
-
-Art. 165. - Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-Morfologia e morfogenesi normale e patologica del sangue (biennale);
-
-Genetica ematologica (annuale);
-
-Fisiopatologia della coagulazione e dell'emostasi (annuale);
-
-Fisiopatologia ematologica (biennale);
-
-Biochimica ematologica (annuale);
-
-Fisiopatologia del plasma (annuale);
-
-Tecniche di laboratorio inerenti all'ematologia (triennale).
-
-2° Anno:
-
-Morfologia e morfogenesi normale e patologica del sangue (biennale);
-
-Fisiopatologia ematologica (biennale);
-
-Immunoematologia (annuale);
-
-Tecniche di laboratorio inerenti all'ematologia (triennale);
-
-Patologia speciale ematologica (biennale);
-
-Clinica delle emopatie (biennale);
-
-Anatomia e istologia patologica delle emopatie e fondamenti di oncologia (annuale).
-
-3° Anno:
-
-Tecniche di laboratorio inerenti all'ematologia (triennale);
-
-Nozioni di radiobiologia e di medicina nucleare applicate all'ematologia (annuale);
-
-Radiodiagnostica e radioterapia ematologica (annuale);
-
-Patologia speciale ematologica (biennale);
-
-Clinica delle emopatie (biennale);
-
-Terapia sistematica ematologica (annuale);
-
-Terapia trasfusionale (annuale).
-
-E' obbligatoria la frequenza alle lezioni, alle esercitazioni cliniche e di laboratorio annesse ai corsi.
-
-Art. 166. - L'esame di profitto si sostiene alla fine dell'anno in corso.
-
-Gli esami degli insegnamenti biennali e triennali si sostengono alla fine del biennio o del triennio.
-
-L'esame di diploma consiste nella discussione di una dissertazione.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 30 ottobre 1970
-
-SARAGAT
-
-MISASI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 19 gennaio 1971 Atti del Governo, registro n. 240, foglio n. 84. - CARUSO
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, numero 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con i [regi decreti 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2170); [30 ottobre 1930, n. 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1825); [10 ottobre 1931, numero 1336](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-10;1336); [27 ottobre 1932, n. 2073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2073); [6 dicembre 1934, n. 2291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2291); [1 ottobre 1936, n. 2088](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2088); [20 aprile 1939, numero 1075; con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1939-04-20;1075) [15 ottobre 1947, n. 1874](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-10-15;1874) e [30 dicembre 1947, n. 1877 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1877) [23 settembre 1949, n. 817](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;817); [28 aprile 1951, n. 955](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-28;955); [19 giugno 1951, n. 709](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-19;709) e [26 aprile 1954, n. 739](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;739);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-gli articoli da 138 a 141, relativi alla scuola di specializzazione in malattie dell'apparato digerente e del ricambio che muta la denominazione in scuola di specializzazione in malattie dell'apparato digerente;   
-gli articoli da 164 a 166, relativi alla scuola di specializzazione in malattie del sangue che muta la denominazione in scuola di specializzazione in ematologia clinica e di laboratorio, sono abrogati e sostituiti dai seguenti:   
-  
-Scuola di specializzazione in malattie dell'apparato digerente   
-  
-Art. 138. - La scuola di specializzazione in malattie dell'apparato digerente conferisce un diploma di specialista in malattie dell'apparato digerente.   
-Art. 139. - Alla scuola sono ammessi i laureati in medicina e chirurgia.   
-Il numero dei posti e' fissato in 10 per il 1° corso; in 11 per il 2° corso, 3° e 4° corso.   
-Art. 140. - La scuola, che ha sede presso la clinica medica, ha la durata di anni quattro di cui uno di tirocinio pratico.   
-Art. 141. - Gli insegnamenti impartiti dalla scuola sono:   
-1° Anno:   
-Anatomia patologica;   
-Fisiopatologia;   
-Chimica clinica;   
-Semeiotica fisica e strumentale (biennale);   
-Clinica medica (triennale).   
-2° Anno:   
-Semeiotica fisica e strumentale (biennale);   
-Semeiotica radiologica;   
-Patologia speciale delle malattie del tubo digerente;   
-Clinica medica (triennale).   
-3° Anno:   
-Patologia speciale delle malattie del fegato e del pancreas;   
-Clinica medica (triennale).   
-A queste materie fondamentali possono essere aggiunte materie complementari in numero non superiore a 4 per la totalita' del corso, secondo i particolari sviluppi di ricerca e di dottrina caratteristici della scuola.   
-4° Anno:   
-Internato: applicazione delle tecniche diagnostiche della specialita'.   
-Gli insegnamenti saranno integrati da esercitazioni pratiche.   
-L'esame di profitto si sosterra' alla fine dei singoli corsi e gli insegnamenti biennali e triennali importano un unico esame alla fine del corso.   
-Gli allievi del 1°, del 2° e 3° anno, per essere ammessi rispettivamente al 2°, 3° e 4° anno, debbono aver ottenuto tutte le firme di frequenza dei corsi e devono avere superato tutti i relativi esami.   
-  
-Scuola di specializzazione in ematologia clinica e di laboratorio   
-Art. 164. - La scuola di specializzazione in ematologia clinica e di laboratorio conferisce il diploma di specialista in ematologia e clinica di laboratorio.   
-La durata del corso e' di tre anni. Il numero dei posti disponibili e' di dodici per anno di corso (totale 36 posti).   
-La scuola ha sede presso l'istituto di patologia medica e metodologia clinica.   
-La direzione della scuola di specializzazione in ematologia clinica e di laboratorio spetta di diritto al professore di ruolo dell'istituto di patologia medica e metodologia clinica: nel caso che tale cattedra non sia ricoperta da un professore di ruolo, la facolta' nomina un professore di ruolo scegliendolo fra i propri componenti.   
-Art. 165. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-Morfologia e morfogenesi normale e patologica del sangue (biennale);   
-Genetica ematologica (annuale);   
-Fisiopatologia della coagulazione e dell'emostasi (annuale);   
-Fisiopatologia ematologica (biennale);   
-Biochimica ematologica (annuale);   
-Fisiopatologia del plasma (annuale);   
-Tecniche di laboratorio inerenti all'ematologia (triennale).   
-2° Anno:   
-Morfologia e morfogenesi normale e patologica del sangue (biennale);   
-Fisiopatologia ematologica (biennale);   
-Immunoematologia (annuale);   
-Tecniche di laboratorio inerenti all'ematologia (triennale);   
-Patologia speciale ematologica (biennale);   
-Clinica delle emopatie (biennale);   
-Anatomia e istologia patologica delle emopatie e fondamenti di oncologia (annuale).   
-3° Anno:   
-Tecniche di laboratorio inerenti all'ematologia (triennale);   
-Nozioni di radiobiologia e di medicina nucleare applicate all'ematologia (annuale);   
-Radiodiagnostica e radioterapia ematologica (annuale);   
-Patologia speciale ematologica (biennale);   
-Clinica delle emopatie (biennale);   
-Terapia sistematica ematologica (annuale);   
-Terapia trasfusionale (annuale).   
-E' obbligatoria la frequenza alle lezioni, alle esercitazioni cliniche e di laboratorio annesse ai corsi.   
-Art. 166. - L'esame di profitto si sostiene alla fine dell'anno in corso.   
-Gli esami degli insegnamenti biennali e triennali si sostengono alla fine del biennio o del triennio.   
-L'esame di diploma consiste nella discussione di una dissertazione.   
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 9. - Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di:  
+12) "Diritto internazionale privato e processuale".  
+Art. 48. - Agli insegnamenti complementari del corso di laurea in fisica e' aggiunto quello di: 11) "Fisica nucleare".  
+Art. 49. - Agli insegnamenti complementari dal corso di laurea in matematica e fisica e' aggiunto quello di:  
+13) "Fisica nucleare".  
+Art. 50. - Agli insegnamenti complementari del corso di laurea in chimica (indirizzo organico-biologico) sono aggiunti quelli di:  
+15) Chimica teorica;  
+16) Radiochimica.  
+Agli insegnamenti complementari del corso di laurea in chimica (indirizzo inorganico-chimico-fisico) sono aggiunti quelli di:  
+13) Chimica teorica;  
+14) Radiochimica;  
+15) Strutturistica chimica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1970
+### Dato a Roma, addi' 1 marzo 1955
 
-SARAGAT MISASI
+EINAUDI ERMINI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DE PIETRO
 
-Registrato alla Corte dei conti, addi' 19 gennaio 1971
+Registrato alla Corte dei conti, addi' 2 aprile 1955
 
-Atti del Governo, registro n. 240, foglio n. 84. - CARUSO
+Atti del Governo, registro n. 90, foglio n. 20. - CARLOMAGNO

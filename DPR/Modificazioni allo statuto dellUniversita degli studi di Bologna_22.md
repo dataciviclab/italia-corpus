@@ -1,67 +1,127 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 739
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 ottobre 1957 n. 1003
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 739
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 ottobre 1957 n. 1003
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), modificato con [regio decreto 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-12;2227) e successivi;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 79. - E' modificato come segue:
+
+Agli insegnamenti complementari del corso di laurea in chimica industriale sono aggiunti i seguenti:
+
+18) Chimica e tecnologia delle sostanze coloranti con applicazioni;
+
+19) Tecnologie chimico nucleari;
+
+20) Tecnologie chimiche speciali con esercitazioni;
+
+21) Microbiologia applicata con esercitazioni.
+
+All'art. 79, il quarto comma, dopo l'elenco degli insegnamenti complementari, e' abrogato e sostituito dal seguente:
+
+"Il corso di chimica fisica e' biennale, e dettato ad anni alterni. "I corsi di "chimica industriale", di "esercitazioni di chimica industriale" e di "esercitazioni di chimica fisica" sono biennali, e si compongono di una I e di una II parte, ciascuna delle quali e' annuale e comporta esame distinto: tali parti I e II sono quindi indipendenti e distinte l'una dall'altra a tutti gli effetti, e la prima parte non avente piu' carattere di propedeuticita' rispetto alla II. Il corso di "impianti chimici" biennale viene dettato in due corsi distinti, ove la II parte, a meno che la Facolta', in casi particolari e da esaminare di volta in volta, non ritenga altrimenti dovra' seguire la I parte del corso: l'esame della prima parte deve essere pero' sempre sostenuto prima di quello della II parte a meno che lo studente non preferisca sostenere un unico esame su entrambe le parti del corso biennale".
+
+Art. 84. - Il terzo comma e' abrogato.
+
+Art. 112. - Agli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:
+
+8) Metodologia statistica in agricoltura (semestrale);
+
+9) Tecnica della meccanizzazione agricola (semestrale);
+
+10) Terapia vegetale (semestrale);
+
+11) Tecnica commerciale dei prodotti agricoli.
+
+Art. 334. - La denominazione dell'insegnamento obbligatorio nella scuola di perfezionamento in cardiologia "fisiologia dell'apparato cardiovascolare" viene mutata in quella di "fisiopatologia dell'apparato cardiovascolare".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 3 ottobre 1957
+
+GRONCHI
+
+MORO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 31 ottobre 1957 Atti del governo, registro n. 108, foglio n. 125. - RELLEVA
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), modificato con [regio decreto 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-12;2227) e successivi;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Dopo l'art. 594, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina nucleare:  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Scuola di specializzazione in medicina nucleare  
-Art. 595. - Presso la facolta' di medicina e chirurgia e' istituita la scuola di specializzazione in medicina nucleare, con sede presso la cattedra di medicina nucleare, della durata di 3 anni, che conferisce il diploma di specialista in medicina nucleare.  
-Art. 596. - Gli insegnamenti impartiti nella scuola sono cosi' suddivisi nei tre anni di corso:  
-  
-1° Anno:  
-Fondamenti di matematica e statistica;  
-Fisica nucleare e delle radiazioni;  
-Tecniche delle misure di radioattivita';  
-Dosimetria.  
-  
-2° Anno:  
-Teoria dei traccianti;  
-Elementi di radiochimica;  
-Applicazioni diagnostiche I;  
-Elementi di radiobiologia.  
-  
-3° Anno:  
-Applicazioni diagnostiche II;  
-Applicazioni terapeutiche;  
-Radioprotezione e legislazione.  
-  
-Art. 597. - L'ammissione alla scuola avverra' sulla base di titoli ed esami.  
-Art. 598. - Il numero degli iscritti e' di 12 per ogni anno di corso. Ogni allievo ha l'obbligo di un internato effettivo della durata di almeno 4 mesi per ciascun anno di corso.  
-Art. 599. - Alla fine di ogni anno di corso gli iscritti sono tenuti a superare gli esami relativi ai singoli insegnamenti di ciascun anno per il passaggio all'anno successivo.  
-Art. 600. - Al termine del corso di studi per il conseguimento del diploma di specialista, gli allievi dovranno superare l'esame di diploma consistente nella dissertazione scritta su materie che sono state oggetto del corso.  
+Art. 79. - E' modificato come segue:   
+Agli insegnamenti complementari del corso di laurea in chimica industriale sono aggiunti i seguenti:   
+18) Chimica e tecnologia delle sostanze coloranti con applicazioni;   
+19) Tecnologie chimico nucleari;   
+20) Tecnologie chimiche speciali con esercitazioni;   
+21) Microbiologia applicata con esercitazioni.   
+All'art. 79, il quarto comma, dopo l'elenco degli insegnamenti complementari, e' abrogato e sostituito dal seguente:   
+"Il corso di chimica fisica e' biennale, e dettato ad anni alterni. "I corsi di "chimica industriale", di "esercitazioni di chimica industriale" e di "esercitazioni di chimica fisica" sono biennali, e si compongono di una I e di una II parte, ciascuna delle quali e' annuale e comporta esame distinto: tali parti I e II sono quindi indipendenti e distinte l'una dall'altra a tutti gli effetti, e la prima parte non avente piu' carattere di propedeuticita' rispetto alla II. Il corso di "impianti chimici" biennale viene dettato in due corsi distinti, ove la II parte, a meno che la Facolta', in casi particolari e da esaminare di volta in volta, non ritenga altrimenti dovra' seguire la I parte del corso: l'esame della prima parte deve essere pero' sempre sostenuto prima di quello della II parte a meno che lo studente non preferisca sostenere un unico esame su entrambe le parti del corso biennale".   
+Art. 84. - Il terzo comma e' abrogato.   
+Art. 112. - Agli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:   
+8) Metodologia statistica in agricoltura (semestrale);   
+9) Tecnica della meccanizzazione agricola (semestrale);   
+10) Terapia vegetale (semestrale);   
+11) Tecnica commerciale dei prodotti agricoli.   
+Art. 334. - La denominazione dell'insegnamento obbligatorio nella scuola di perfezionamento in cardiologia "fisiologia dell'apparato cardiovascolare" viene mutata in quella di "fisiopatologia dell'apparato cardiovascolare".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1974
+### Dato a Roma, addi' 3 ottobre 1957
 
-LEONE MALFATTI
+GRONCHI MORO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 27 gennaio 1975
+Registrato alla Corte dei conti, addi' 31 ottobre 1957
 
-Atti di Governo, registro n. 8, foglio n. 22
+Atti del governo, registro n. 108, foglio n. 125. - RELLEVA

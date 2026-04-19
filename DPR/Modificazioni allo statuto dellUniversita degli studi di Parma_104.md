@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1964 n. 110
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 1161
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1964 n. 110
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 1161
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -10,177 +10,78 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), Riconvertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 16. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di:
+Articolo unico
+--------------
 
-17) Organizzazione internazionale.
-
-Dopo l'art. 206, e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Odontoiatria e stomatologia.
-
-Scuola di specializzazione in Odontoiatria e stomatologia
-
-Art. 207. - E' istituita la Scuola di specializzazione in Odontoiatria e stomatologia.
-
-La Scuola e' sottoposta alle regolamentazioni generali fissate dallo statuto delle Scuole di specializzazione annesse alla Facolta' di medicina e chirurgia dell'Universita' degli studi di Parma.
-
-Art. 208. - La durata del corso degli studi per il conseguimento del diploma di specialista in Odontoiatria e stomatologia e' di 2 anni.
-
-Sono ammessi alla Scuola i laureati in Medicina e chirurgia e l'iscrizione per ogni anno accademico e' limitata a quindici allievi.
-
-Art. 209. Le materie di insegnamento sono cosi' ripartite:
-
-1° anno:
-
-1) Embriologia, Anatomia, Istologia e Fisiologia orale;
-
-2) Anatomia e istologia patologica;
-
-3) Microbiologia e igiene orale;
-
-4) Patologia speciale e semeiotica della bocca e dei denti;
-
-5) Chirurgia orale-dentale e anestesiologia;
-
-6) Odontoiatria conservatrice;
-
-7) Ortognatodonzia (I);
-
-8) Protesi fissa e odontotecnica (I) 9) Protesi mobile e odontotecnica (I) 10) Radiologia dentale.
-
-2° anno:
-
-1) Clinica stomatologica;
-
-2) Odontoiatria conservatrice;
-
-3) Ortognatodonzia (II);
-
-4) Protesi fissa e odontotecnica (II)
-
-5) Protesi mobile e odontotecnica (II)
-
-6) Chirurgia Maxillo-facciale;
-
-7) Parodontologia;
-
-8) Radiologia stomatologica.
-
-Art. 210. - Durante gli anni del corso saranno tenute anche lezioni e conferenze di carattere complementare su argomenti di Medicina e chirurgia generale, di Pediatria, di Dermatologia, di Otorinolaringoiatria, di Oculistica di Medicina legale, ecc.
-
-L'insegnamento teorico sara' integrato da esercitazioni pratiche delle varie discipline.
-
-Art. 211. - Alla fine di ciascun anno di corso gli allievi dovranno sostenere un esame di profitto teorico e pratico sulle materie che sono state oggetto di insegnamento.
-
-Art. 212. - Per il conseguimento del diploma di specialista in Odontoiatria e stomatologia l'allievo dovra' presentare e discutere una dissertazione scritta su un argomento della specialita', e superare una prova tecnica dinnanzi alla apposita Commissione.
-
-Art. 213. - Gli iscritti, durante i due anni di corso, hanno l'obbligo della frequenza a tutti gli insegnamenti teorici e pratici impartiti, nonche' agli internati stabiliti dal direttore.
-
-Art. 214. - Gli insegnanti della Scuola sono scelti fra i docenti del corso di laurea in Medicina e chirurgia. Per taluni particolari insegnamenti il direttore della Scuola puo' avvalersi di docenti di altra Facolta' o di esperti nella materia.
-
-Di uno stesso insegnamento genericamente indicato nell'elenco di cui all'art. 209 possono venire incaricati piu' docenti aventi specifica competenza nelle diverse parti del programma.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 18 febbraio 1964
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 18 marzo 1964 Atti del Governo, registro n. 182, foglio n. 48. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), Riconvertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Gli articoli 205, 206, 207, 208, relativi alla scuola di specializzazione in dermatologia e venereologia di cui al [decreto del Presidente della Repubblica 31 ottobre 1979, n. 979](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1979-10-31;979), sono soppressi e sostituiti dai seguenti:  
   
-Decreta:  
+Scuola di specializzazione in dermatologia e venereologia  
   
-Lo statuto dell'universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 16. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di:  
-17) Organizzazione internazionale.  
-Dopo l'art. 206, e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Odontoiatria e stomatologia.  
-  
-Scuola di specializzazione in Odontoiatria e stomatologia  
-  
-Art. 207. - E' istituita la Scuola di specializzazione in Odontoiatria e stomatologia.  
-La Scuola e' sottoposta alle regolamentazioni generali fissate dallo statuto delle Scuole di specializzazione annesse alla Facolta' di medicina e chirurgia dell'Universita' degli studi di Parma.  
-Art. 208. - La durata del corso degli studi per il conseguimento del diploma di specialista in Odontoiatria e stomatologia e' di 2 anni.  
-Sono ammessi alla Scuola i laureati in Medicina e chirurgia e l'iscrizione per ogni anno accademico e' limitata a quindici allievi.  
-Art. 209. Le materie di insegnamento sono cosi' ripartite:  
-1° anno:  
-1) Embriologia, Anatomia, Istologia e Fisiologia orale;  
-2) Anatomia e istologia patologica;  
-3) Microbiologia e igiene orale;  
-4) Patologia speciale e semeiotica della bocca e dei denti;  
-5) Chirurgia orale-dentale e anestesiologia;  
-6) Odontoiatria conservatrice;  
-7) Ortognatodonzia (I);  
-8) Protesi fissa e odontotecnica (I) 9) Protesi mobile e odontotecnica (I) 10) Radiologia dentale.  
-2° anno:  
-1) Clinica stomatologica;  
-2) Odontoiatria conservatrice;  
-3) Ortognatodonzia (II);  
-4) Protesi fissa e odontotecnica (II)  
-5) Protesi mobile e odontotecnica (II)  
-6) Chirurgia Maxillo-facciale;  
-7) Parodontologia;  
-8) Radiologia stomatologica.  
-Art. 210. - Durante gli anni del corso saranno tenute anche lezioni e conferenze di carattere complementare su argomenti di Medicina e chirurgia generale, di Pediatria, di Dermatologia, di Otorinolaringoiatria, di Oculistica di Medicina legale, ecc.  
-L'insegnamento teorico sara' integrato da esercitazioni pratiche delle varie discipline.  
-Art. 211. - Alla fine di ciascun anno di corso gli allievi dovranno sostenere un esame di profitto teorico e pratico sulle materie che sono state oggetto di insegnamento.  
-Art. 212. - Per il conseguimento del diploma di specialista in Odontoiatria e stomatologia l'allievo dovra' presentare e discutere una dissertazione scritta su un argomento della specialita', e superare una prova tecnica dinnanzi alla apposita Commissione.  
-Art. 213. - Gli iscritti, durante i due anni di corso, hanno l'obbligo della frequenza a tutti gli insegnamenti teorici e pratici impartiti, nonche' agli internati stabiliti dal direttore.  
-Art. 214. - Gli insegnanti della Scuola sono scelti fra i docenti del corso di laurea in Medicina e chirurgia. Per taluni particolari insegnamenti il direttore della Scuola puo' avvalersi di docenti di altra Facolta' o di esperti nella materia.  
-Di uno stesso insegnamento genericamente indicato nell'elenco di cui all'art. 209 possono venire incaricati piu' docenti aventi specifica competenza nelle diverse parti del programma.  
+Art. 205. - La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazioni.  
+Art. 206. - Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di trenta iscritti per l'intero corso di studi.  
+Art. 207. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) anatomia e istologia normale della cute;  
+2) fisiologia della cute e degli annessi;  
+3) anatomia e fisiologia dell'apparato genitale;  
+4) microbiologia e parassitologia applicate;  
+5) tecniche di laboratorio applicate alla disciplina;  
+6) semeiotica dermatologica e venereologica.  
+2° Anno:  
+1) patologia delle malattie cutanee;  
+2) patologia delle infezioni veneree;  
+3) istopatologia e citologia dermatologica e venereologica;  
+4) immunopatologia cutanea;  
+5) dermatologia allergologica e professionale;  
+6) angiologia;  
+7) sessuologia.  
+3° Anno:  
+1) clinica delle malattie cutanee;  
+2) clinica delle infezioni veneree;  
+3) dermatologia pediatrica;  
+4) farmacologia e terapia;  
+5) fisioterapia dermatologica;  
+6) cosmetologia;  
+7) chirurgia plastica riparatrice;  
+8) igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.  
+Art. 208. - Il corso di lezioni deve essere impartito mediante almeno cinquanta lezioni annuali, comprensive delle varie materie e la frequenza giornaliera degli iscritti non deve essere inferiore alle quattro ore effettive per tutta la durata dell'anno accademico.  
+Gli specializzandi avranno percio' obblighi di frequenza obbligatoria ai fini di apprendimento onde seguire i corsi di lezioni e svolgere contemporaneamente frequenza obbligatoria ai fini di apprendimento nelle corsie, negli ambulatori e nei laboratori.  
+Gli esami di profitto verranno sostenuti in due sessioni.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 febbraio 1964
+### Dato a Roma, addi' 22 settembre 1981
 
-SEGNI GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 18 marzo 1964
+Registrato alla Corte dei conti, addi' 10 agosto 1982
 
-Atti del Governo, registro n. 182, foglio n. 48. - VILLA
+Registro n. 99 Istruzione, foglio n. 174

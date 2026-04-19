@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1979 n. 736
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1971 n. 1135
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1979 n. 736
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1971 n. 1135
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Modena.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,36 +18,485 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Modena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-A proposta del Ministro della pubblica istruzione; Decreta:
+Sulla proposta del Ministro per la pubblica istruzione;
 
-Articolo unico
---------------
+Decreta:
 
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Gli articoli 126, 127, 128, 129, 130, 131 relativi alla "Scuola di specializzazione in clinica neuropsichiatrica" che muta la denominazione in quella di "Scuola di specializzazione in psichiatria", sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in psichiatria
+
+Art. 126. - La scuola di specializzazione in psichiatria conferisce il diploma di specialista in psichiatria.
+
+Art. 127. - La scuola ha sede presso la clinica delle malattie nervose e mentali dell'universita'.
+
+Art. 128. - Alla scuola sono ammessi i laureati in medicina e chirurgia in numero di dieci per anno.
+
+Art. 129. - La scuola ha la durata di anni quattro.
+
+Art. 130. - Gli insegnamenti impartiti nella scuola sono:
+
+1° Anno:
+
+1) Anatomia e istologia del sistema nervoso;
+
+2) Fisiologia del sistema nervoso;
+
+3) Biochimica del sistema nervoso;
+
+4) Genetica (elementi);
+
+5) Psicologia generale;
+
+6) Psicopatologia (I);
+
+7) Semeiotica psichiatrica.
+
+2° Anno (internato in neurologia):
+
+1) Anatomia e istologia patologica del sistema nervoso;
+
+2) Semeiotica neurologica;
+
+3) Patologia speciale e diagnostica radiologica;
+
+4) Neuroradiologia;
+
+5) Endocrinologia e neurologia vegetativa;
+
+6) Elettroencefalografia.
+
+3° Anno:
+
+1) Patologia speciale psichiatrica;
+
+2) Psicopatologia (II);
+
+3) Clinica psichiatrica (I);
+
+4) Psicologia clinica e psicodiagnostica;
+
+5) Psicofarmacologia;
+
+6) Psichiatria in rapporto con la patologia internistica;
+
+7) Esami di laboratorio.
+
+4° Anno:
+
+1) Clinica psichiatrica (II);
+
+2) Terapia psichiatrica generale;
+
+3) Psicoterapia;
+
+4) Neuropsichiatria infantile;
+
+5) Psichiatria forense e legislazione psichiatrica;
+
+6) Psichiatria sociale (del lavoro scolastico, igiene e profilassi mentale).
+
+Art. 131. - Internato obbligatorio per l'intero anno scolastico per il 1°, 3°, 4° anno in clinica psichiatrica sede della scuola.
+
+Tale internato puo' essere ridotto a non meno di quattro mesi all'anno per i medici che prestino servizio regolare in ospedale psichiatrico.
+
+L'internato e' obbligatorio per il secondo anno in neurologia (sede della scuola) per l'intero anno scolastico, salvo per i medici che prestino regolare servizio in ospedale psichiatrico, per i quali potra' essere ridotto a non meno di mesi sei, e per i medici che prestino regolare servizio in reparto neurologico per i quali potra' essere ridotto a non meno di mesi quattro.
+
+Esami obbligatori per il passaggio all'anno successivo.
+
+Per gli specialisti in neurologia, neuropsichiatria infantile, potra' esservi abbuono di due anni. Un abbuono di un anno potra' esservi per gli specialisti in materie affini (psicologia, medicina generale, neurochirurgia).
+
+Tali abbuoni possono essere concessi solo dopo aver superato l'esame di ammissione.
+
+Tutti gli abbuoni sopra citati, sono concessi a giudizio del direttore della scuola.
+
+Gli articoli 142, 143, 144, 145 relativi alla "Scuola di specializzazione in chirurgia generale" che muta la denominazione in quella di "Scuola di specializzazione in chirurgia" sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in chirurgia
+
+Art. 142. - La scuola di specializzazione in chirurgia conferisce il diploma di specialista in chirurgia. Essa ha sede presso la clinica chirurgica generale e terapia chirurgica.
+
+Art. 143. - La durata del corso degli studi e' di cinque anni.
+
+Art. 144. - Gli insegnamenti per ciascun anno di corso, sono i seguenti:
+
+1° Anno:
+
+Clinica chirurgica generale;
+
+Patologia speciale chirurgica;
+
+Semeiotica chirurgica;
+
+Anatomia chirurgica e corso di operazioni;
+
+Chirurgia sperimentale;
+
+Anestesia e rianimazione;
+
+Ricerche di laboratorio.
+
+2° Anno:
+
+Clinica chirurgica generale;
+
+Patologia speciale chirurgica;
+
+Semeiotica chirurgica;
+
+Anatomia chirurgica e corso di operazioni;
+
+Fisiopatologia chirurgica;
+
+Trattamento pre e post-operatorio;
+
+Anatomia e istologia patologica.
+
+3° Anno:
+
+Clinica chirurgica generale;
+
+Patologia speciale chirurgica;
+
+Semeiotica strumentale ed endoscopica;
+
+Anatomia chirurgica e corso di operazioni;
+
+Radiologia;
+
+Anatomia e istologia patologica.
+
+4° Anno:
+
+Clinica chirurgica generale;
+
+Chirurgia ginecologica;
+
+Chirurgia urologica;
+
+Neurochirurgia;
+
+Traumatologia e ortopedia;
+
+Chirurgia pediatrica.
+
+5° Anno:
+
+Clinica chirurgica generale;
+
+Chirurgia toracica;
+
+Chirurgia cardiovascolare;
+
+Chirurgia riparativa e plastica;
+
+Chirurgia d'urgenza;
+
+Medicina legale.
+
+Art. 145. - Alla scuola sono ammessi dodici allievi per anno.
+
+Non sono concesse abbreviazioni di corso.
+
+La frequenza alle lezioni e alle esercitazioni e' obbligatoria per tutti gli iscritti.
+
+L'internato e' obbligatorio durante tutti i cinque anni di corso.
+
+Esso si svolgera' presso la clinica chirurgica sotto forma di permanenza costante nella detta clinica nelle ore della sua attivita', con presenza giornaliera agli ambulatori e ai reparti di degenza.
+
+Dall'obbligo di tale internato saranno esentati quegli allievi che in qualita' di assistenti e di aiuti, prestino effettivamente servizio presso reparti di chirurgia generale delle universita' e di ospedali di I e II categoria. Per i corsi che non siano della clinica chirurgica generale, possono essere stabiliti, su parere del direttore della scuola, periodi di continuativa frequenza presse i relativi reparti specialistici, qualora esistano quali reparti indipendenti.
+
+L'allievo, per essere ammesso al corso immediatamente superiore, deve aver ottenuto tutte le firme di frequenza e deve aver superato tutti gli esami fondamentali del corso.
+
+Dopo l'art. 194 sono inseriti i seguenti nuovi articoli relativi alla istituzione della "Scuola di specializzazione in neurologia".
+
+Scuola di specializzazione in neurologia
+
+Art. 195. - La scuola di specializzazione in neurologia conferisce il diploma di specialista in neurologia.
+
+Art. 196. - La scuola ha sede presso la clinica delle malattie nervose e mentali dell'universita'.
+
+Art. 197. - Alla scuola sono ammessi i laureati in medicina e chirurgia, in numero di dieci per anno.
+
+La scuola ha la durata di quattro anni.
+
+Art. 198. - Gli insegnamenti impartiti nella scuola sono:
+
+1° Anno (internato, di psichiatria):
+
+1) Anatomia e istologia del sistema nervoso;
+
+2) Fisiologia del sistema nervoso;.
+
+3) Biochimica del sistema nervoso;
+
+4) Genetica (elementi);
+
+5) Psicologia generale;
+
+6) Psicopatologia;
+
+7) Semeiotica psichiatrica.
+
+2° Anno:
+
+1) Anatomia e istologia patologica del sistema nervoso;
+
+2) Semeiotica neurologica;
+
+3) Patologia speciale e diagnostica neurologica (I);
+
+4) Neuro-radiologia;
+
+5) Endocrinologia e neurologia vegetativa.
+
+3° Anno:
+
+1) Patologia speciale e diagnostica neurologica (II);
+
+2) Clinica neurologica (I);
+
+3) Elettroencefalografia;
+
+4) Elettromiografia, elettrodiagnostica e elettroterapia;
+
+5) Neuro-oftalmologia;
+
+6) Neuro-otologia;
+
+7) Esami di laboratorio.
+
+4° Anno:
+
+1) Clinica neurologica e terapia (II);
+
+2) Neurochirurgia;
+
+3) Terapia e clinica della riabilitazione;
+
+4) Neurotraumatologia anche sotto l'aspetto della medicina legale;
+
+5) Neurologia in rapporto alla patologia internistica.
+
+Art. 199. - Internato obbligatorio nel 2°, 3° e 4° anno di clinica neurologica sede della scuola.
+
+Tale internato potra' essere ridotto a non meno di quattro mesi per anno per i medici che prestino regolare servizio in reparto neurologico. Internato obbligatorio per l'intero anno scolastico in psichiatria nel 1° anno di corso.
+
+Tale internato potra' essere ridotto a non meno di mesi sei per i medici che prestino servizio in reparto neurologico e a non meno di mesi quattro per coloro che prestino servizio in ospedale psichiatrico.
+
+Esami obbligatori per il passaggio all'anno successivo.
+
+Un abbuono di due anni puo' essere concesso agli specialisti in psichiatria, neuropsichiatria infantile e neurochirurgia.
+
+Un anno di abbuono per gli specialisti in altre materie affini (medicina interna, otorinolaringoiatria, oculistica, radiologia).
+
+Gli abbuoni possono essere concessi solo superando un esame di ammissione.
+
+Tutti gli abbuoni, di cui sopra sono concessi a giudizio del direttore della scuola.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 18 ottobre 1971
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: COLOMBO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 21 dicembre 1971 Atti del Governo, registro n. 245, foglio n. 128. - VALENTINI
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-L'art. 254 dello statuto dell'Universita' di Modena, relativo al corso di perfezionamento in fisica, e' sostituito dal seguente:  
-"Presso la facolta' di scienze matematiche, fisiche e naturali, e' istituito un corso di perfezionamento in fisica ad indirizzo didattico il quale conduce al conseguimento ·di un attestato di perfezionamento in fisica ad indirizzo didattico.  
-Il corso ha lo scopo di approfondire la conoscenza dei problemi della didattica della fisica e di fornire esperienze nell'insegnamento della fisica.  
-Esso ha anche lo scopo di organizzare corsi di aggiornamento per docenti e di sviluppare gli studi sui problemi della didattica della fisica".  
-L'art. 258 e' sostituito dal seguente:  
-"Il corso comprende i seguenti insegnamenti: critica dei fondamenti della fisica generale; complementi di fisica generale; didattica della fisica; storia della fisica; aggiornamento sugli sviluppi della fisica; esperienze didattiche con laboratorio.  
-Esso consiste in lezioni teoriche ed esercitazioni, da tenere queste ultime anche presso scuole, previo accordo con le autorita' competenti, puo' mutuare insegnamenti della facolta' di scienze matematiche, fisiche e naturali ed eventualmente anche di altre facolta', su parere del consiglio di facolta'".  
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
+  
+Decreta:   
+  
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli 126, 127, 128, 129, 130, 131 relativi alla "Scuola di specializzazione in clinica neuropsichiatrica" che muta la denominazione in quella di "Scuola di specializzazione in psichiatria", sono abrogati e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in psichiatria   
+  
+Art. 126. - La scuola di specializzazione in psichiatria conferisce il diploma di specialista in psichiatria.   
+Art. 127. - La scuola ha sede presso la clinica delle malattie nervose e mentali dell'universita'.   
+Art. 128. - Alla scuola sono ammessi i laureati in medicina e chirurgia in numero di dieci per anno.   
+Art. 129. - La scuola ha la durata di anni quattro.   
+Art. 130. - Gli insegnamenti impartiti nella scuola sono:   
+1° Anno:   
+1) Anatomia e istologia del sistema nervoso;   
+2) Fisiologia del sistema nervoso;   
+3) Biochimica del sistema nervoso;   
+4) Genetica (elementi);   
+5) Psicologia generale;   
+6) Psicopatologia (I);   
+7) Semeiotica psichiatrica.   
+2° Anno (internato in neurologia):   
+1) Anatomia e istologia patologica del sistema nervoso;   
+2) Semeiotica neurologica;   
+3) Patologia speciale e diagnostica radiologica;   
+4) Neuroradiologia;   
+5) Endocrinologia e neurologia vegetativa;   
+6) Elettroencefalografia.   
+3° Anno:   
+1) Patologia speciale psichiatrica;   
+2) Psicopatologia (II);   
+3) Clinica psichiatrica (I);   
+4) Psicologia clinica e psicodiagnostica;   
+5) Psicofarmacologia;   
+6) Psichiatria in rapporto con la patologia internistica;   
+7) Esami di laboratorio.   
+4° Anno:   
+1) Clinica psichiatrica (II);   
+2) Terapia psichiatrica generale;   
+3) Psicoterapia;   
+4) Neuropsichiatria infantile;   
+5) Psichiatria forense e legislazione psichiatrica;   
+6) Psichiatria sociale (del lavoro scolastico, igiene e profilassi mentale).   
+Art. 131. - Internato obbligatorio per l'intero anno scolastico per il 1°, 3°, 4° anno in clinica psichiatrica sede della scuola.   
+Tale internato puo' essere ridotto a non meno di quattro mesi all'anno per i medici che prestino servizio regolare in ospedale psichiatrico.   
+L'internato e' obbligatorio per il secondo anno in neurologia (sede della scuola) per l'intero anno scolastico, salvo per i medici che prestino regolare servizio in ospedale psichiatrico, per i quali potra' essere ridotto a non meno di mesi sei, e per i medici che prestino regolare servizio in reparto neurologico per i quali potra' essere ridotto a non meno di mesi quattro.   
+Esami obbligatori per il passaggio all'anno successivo.   
+Per gli specialisti in neurologia, neuropsichiatria infantile, potra' esservi abbuono di due anni. Un abbuono di un anno potra' esservi per gli specialisti in materie affini (psicologia, medicina generale, neurochirurgia).   
+Tali abbuoni possono essere concessi solo dopo aver superato l'esame di ammissione.   
+Tutti gli abbuoni sopra citati, sono concessi a giudizio del direttore della scuola.   
+Gli articoli 142, 143, 144, 145 relativi alla "Scuola di specializzazione in chirurgia generale" che muta la denominazione in quella di "Scuola di specializzazione in chirurgia" sono abrogati e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in chirurgia   
+  
+Art. 142. - La scuola di specializzazione in chirurgia conferisce il diploma di specialista in chirurgia. Essa ha sede presso la clinica chirurgica generale e terapia chirurgica.   
+Art. 143. - La durata del corso degli studi e' di cinque anni.   
+Art. 144. - Gli insegnamenti per ciascun anno di corso, sono i seguenti:   
+1° Anno:   
+  
+Clinica chirurgica generale;   
+Patologia speciale chirurgica;   
+Semeiotica chirurgica;   
+Anatomia chirurgica e corso di operazioni;   
+Chirurgia sperimentale;   
+Anestesia e rianimazione;   
+Ricerche di laboratorio.   
+  
+2° Anno:   
+  
+Clinica chirurgica generale;   
+Patologia speciale chirurgica;   
+Semeiotica chirurgica;   
+Anatomia chirurgica e corso di operazioni;   
+Fisiopatologia chirurgica;   
+Trattamento pre e post-operatorio;   
+Anatomia e istologia patologica.   
+  
+3° Anno:   
+  
+Clinica chirurgica generale;   
+Patologia speciale chirurgica;   
+Semeiotica strumentale ed endoscopica;   
+Anatomia chirurgica e corso di operazioni;   
+Radiologia;   
+Anatomia e istologia patologica.   
+  
+4° Anno:   
+  
+Clinica chirurgica generale;   
+Chirurgia ginecologica;   
+Chirurgia urologica;   
+Neurochirurgia;   
+Traumatologia e ortopedia;   
+Chirurgia pediatrica.   
+  
+5° Anno:   
+  
+Clinica chirurgica generale;   
+Chirurgia toracica;   
+Chirurgia cardiovascolare;   
+Chirurgia riparativa e plastica;   
+Chirurgia d'urgenza;   
+Medicina legale.   
+  
+Art. 145. - Alla scuola sono ammessi dodici allievi per anno.   
+Non sono concesse abbreviazioni di corso.   
+La frequenza alle lezioni e alle esercitazioni e' obbligatoria per tutti gli iscritti.   
+L'internato e' obbligatorio durante tutti i cinque anni di corso.  
+Esso si svolgera' presso la clinica chirurgica sotto forma di permanenza costante nella detta clinica nelle ore della sua attivita', con presenza giornaliera agli ambulatori e ai reparti di degenza.   
+Dall'obbligo di tale internato saranno esentati quegli allievi che in qualita' di assistenti e di aiuti, prestino effettivamente servizio presso reparti di chirurgia generale delle universita' e di ospedali di I e II categoria. Per i corsi che non siano della clinica chirurgica generale, possono essere stabiliti, su parere del direttore della scuola, periodi di continuativa frequenza presse i relativi reparti specialistici, qualora esistano quali reparti indipendenti.   
+L'allievo, per essere ammesso al corso immediatamente superiore, deve aver ottenuto tutte le firme di frequenza e deve aver superato tutti gli esami fondamentali del corso.   
+Dopo l'art. 194 sono inseriti i seguenti nuovi articoli relativi alla istituzione della "Scuola di specializzazione in neurologia".   
+  
+Scuola di specializzazione in neurologia   
+  
+Art. 195. - La scuola di specializzazione in neurologia conferisce il diploma di specialista in neurologia.   
+Art. 196. - La scuola ha sede presso la clinica delle malattie nervose e mentali dell'universita'.   
+Art. 197. - Alla scuola sono ammessi i laureati in medicina e chirurgia, in numero di dieci per anno.   
+La scuola ha la durata di quattro anni.   
+Art. 198. - Gli insegnamenti impartiti nella scuola sono:   
+1° Anno (internato, di psichiatria):   
+1) Anatomia e istologia del sistema nervoso;   
+2) Fisiologia del sistema nervoso;.   
+3) Biochimica del sistema nervoso;   
+4) Genetica (elementi);   
+5) Psicologia generale;   
+6) Psicopatologia;   
+7) Semeiotica psichiatrica.   
+2° Anno:   
+1) Anatomia e istologia patologica del sistema nervoso;   
+2) Semeiotica neurologica;   
+3) Patologia speciale e diagnostica neurologica (I);   
+4) Neuro-radiologia;   
+5) Endocrinologia e neurologia vegetativa.   
+3° Anno:   
+1) Patologia speciale e diagnostica neurologica (II);   
+2) Clinica neurologica (I);   
+3) Elettroencefalografia;   
+4) Elettromiografia, elettrodiagnostica e elettroterapia;   
+5) Neuro-oftalmologia;   
+6) Neuro-otologia;   
+7) Esami di laboratorio.   
+4° Anno:   
+1) Clinica neurologica e terapia (II);   
+2) Neurochirurgia;   
+3) Terapia e clinica della riabilitazione;   
+4) Neurotraumatologia anche sotto l'aspetto della medicina legale;   
+5) Neurologia in rapporto alla patologia internistica.   
+Art. 199. - Internato obbligatorio nel 2°, 3° e 4° anno di clinica neurologica sede della scuola.   
+Tale internato potra' essere ridotto a non meno di quattro mesi per anno per i medici che prestino regolare servizio in reparto neurologico. Internato obbligatorio per l'intero anno scolastico in psichiatria nel 1° anno di corso.   
+Tale internato potra' essere ridotto a non meno di mesi sei per i medici che prestino servizio in reparto neurologico e a non meno di mesi quattro per coloro che prestino servizio in ospedale psichiatrico.   
+Esami obbligatori per il passaggio all'anno successivo.   
+Un abbuono di due anni puo' essere concesso agli specialisti in psichiatria, neuropsichiatria infantile e neurochirurgia.   
+Un anno di abbuono per gli specialisti in altre materie affini (medicina interna, otorinolaringoiatria, oculistica, radiologia).   
+Gli abbuoni possono essere concessi solo superando un esame di ammissione.   
+Tutti gli abbuoni, di cui sopra sono concessi a giudizio del direttore della scuola.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1979
+### Dato a Roma, addi' 18 ottobre 1971
 
-PERTINI VALITUTTI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 22 gennaio 1980
+Registrato alla Corte dei conti, addi' 21 dicembre 1971
 
-Registro n. 3 Istruzione, foglio n. 323
+Atti del Governo, registro n. 245, foglio n. 128. - VALENTINI

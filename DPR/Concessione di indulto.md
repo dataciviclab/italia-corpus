@@ -1,105 +1,38 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 dicembre 1990 n. 394
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1949 n. 930
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 dicembre 1990 n. 394
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1949 n. 930
 ===============================================================
 
 Concessione di indulto.
 -----------------------
 
-Entrata in vigore del decreto: 24/12/1990
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Visto l'[art. 79 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art79);
-
-Vista la [legge 21 dicembre 1990, n. 393](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-21;393);
-
-Sentito il Consiglio dei Ministri;
-
-Sulla
------
-
-proposta del Ministro di grazia e giustizia; Decreta:
-
 Art. 1
 ------
 
-1. E' concesso indulto nella misura non superiore a due anni per le pene detentive e non superiore a lire dieci milioni per le pene pecuniarie, sole o congiunte alle pene detentive.
-
-2. Non si applicano le esclusioni di cui all'ultimo comma dell'[art. 151 del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art151).
-
-AVVERTENZA:  
-Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.  
-Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
-Note alle premesse:  
-- L'[art. 79 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art79) e' cosi' formulato:  
-"Art. 79. - L'amnistia e l'indulto sono concessi dal Presidente della Repubblica su legge di delegazione delle Camere.  
-Non possono applicarsi ai reati commessi successivamente alla proposta di delegazione".  
-- La [legge n. 393/1990](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;393) delega il Presidente della Repubblica a concedere l'indulto.  
-Nota all'art. 1:  
-- L'ultimo comma dell'[art. 151 del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art151) prevede che: "L'amnistia non si applica ai recidivi, nei casi preveduti dai capoversi dell'art. 99, ne' ai delinquenti abituali, o professionali, o per tendenza salvo che il decreto disponga diversamente".
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
 
 Art. 2
 ------
 
-1. E' concesso indulto, per intero, per le pene accessorie temporanee, conseguenti a condanne per le quali e' applicato, anche solo in parte, l'indulto.
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
 
 Art. 3
 ------
 
-1. L'indulto non si applica alle pene:
-
-a) per i delitti previsti dai seguenti articoli del [codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398):  
-1) 285 (devastazione, saccheggio e strage);  
-2) 416- bis (associazione di tipo mafioso);  
-3) 422 (strage);  
-4) 630, commi primo, secondo e terzo (sequestro di persona a scopo di estorsione);  
-5) 648- bis (riciclaggio), limitatamente all'ipotesi che la sostituzione riguardi denaro, beni o altre utilita' provenienti dal delitto di sequestro di persona a scopo di estorsione o dai delitti concernenti la produzione o il traffico di sostanze stupefacenti o psicotrope;
-
-b) per i delitti previsti dai seguenti articoli della [legge 22 dicembre 1975, n. 685](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-12-22;685), recante disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, nel testo in vigore precedentemente alle modifiche di cui alla [legge 26 giugno 1990, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-26;162):  
-1) 71, commi primo, secondo e terzo (attivita' illecite), ove applicate le circostanze aggravanti specifiche di cui all'art. 74;  
-2) 75 (associazione per delinquere).
-
-Nota all'[art. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975;685~art3):  
-- L'[art. 74 della legge n. 685/1975](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975;685~art74), nel testo in vigore precedentemente alla sostituzione da parte dell'[art. 18 della legge n. 162/1990](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;162~art18), era il seguente:  
-"Art. 74 (Aggravanti specifiche). - Le pene previste per i delitti di cui all'art. 71 della presente legge sono aumentate da un terzo alla meta':  
-1) nei casi in cui le sostanze stupefacenti o psicotrope sono consegnate a persona di eta' minore o comunque destinate a persona di eta' minore per uso non terapeutico;  
-2) se il fatto e' commesso da tre o piu' persone, in concorso tra loro o se il colpevole fa parte di una associazione per delinquere;  
-3) nei casi previsti dai [numeri 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art112-num2), [3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art112-num3) e [4 dell'art. 112 del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art112-num4);  
-4) per chi ha indotto a commettere il reato, o a cooperare nella commissione del reato, persona dedita all'uso di sostanze stupefacenti o psicotrope;  
-5) se il fatto e' stato commesso da persona armata o travisata.  
-Se il fatto riguarda quantita' ingenti di sostanze stupefacenti o psicotrope le pene sono aumentate dalla meta' a due terzi.  
-Lo stesso aumento di pena si applica se il colpevole per commettere il delitto o per conseguirne per se' o per altri il profitto, il prezzo o l'impunita', ha fatto uso di armi.  
-Si applica la disposizione dell'ultimo comma dell'[art. 112 del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art112).  
-Le aggravanti previste nel presente articolo, eccettuata quella indicata nel secondo comma, si applicano anche al delitto previsto dall'art. 72".
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
 
 Art. 4
 ------
 
-1. Il beneficio dell'indulto e' revocato di diritto se chi ne ha usufruito commette, entro cinque anni dalla data di entrata in vigore del presente decreto, un delitto non colposo per il quale riporti condanna a pena detentiva non inferiore a due anni.
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
 
 Art. 5
 ------
 
-1. L'indulto ha efficacia per i reati commessi fino a tutto il giorno 24 ottobre 1989.
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
 
 Art. 6
 ------
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della  
-Repubblica italiana.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Dato a Roma, addi' 22 dicembre 1990
-
-COSSIGA
-
-ANDREOTTI, Presidente del Consiglio dei Ministri
-
-VASSALLI, Ministro di grazia e giustizia
-
-Visto, il Guardasigilli: VASSALLI
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))

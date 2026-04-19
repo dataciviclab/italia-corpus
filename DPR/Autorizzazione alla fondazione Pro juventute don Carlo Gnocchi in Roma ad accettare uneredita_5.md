@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1974 n. 263
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1976 n. 37
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1974 n. 263
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1976 n. 37
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un'eredita'.
@@ -12,9 +12,9 @@ Art. 1
 
 N.
 
-263. Decreto del Presidente della Repubblica 21 maggio 1974, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in beni mobili (denaro e titoli di credito) ed immobili (villino con terreno in Gallicano del valore presunto di L. 14.197.357), disposta dal sig. Alberto Bagnoli con testamento olografo del 15 maggio 1968, pubblicato a rogito del notaio avv.  
-Pietro Fea in data 20 ottobre 1972 (n. 547661 di repertorio, n. 11306 di raccolta), registrato a Roma il 6 novembre 1972 (n. 21028 vol. 2581).  
+37. Decreto del Presidente della Repubblica 23 gennaio 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dal sig. Gritti Angelo Arturo, consistente in beni immobili, mobili, titoli azionari e depositi bancari vari per un valore presunto di L. 246.772.931, giusta inventari del dott.  
+Rodolfo Parigi, notaio in Milano, in data 14 luglio 1973, n. 157830 di repertorio e n. 14848 di raccolta; 17 ottobre 1973, n. 159657 di repertorio e n. 15032 di raccolta; 31 ottobre 1973, n. 159981 di repertorio e n. 15070 di raccolta e 31 ottobre 1973, numero 159980 di repertorio e n. 15069 di raccolta, nonche' perizia di stima del geom. Dino Casiraghi in data 25 giugno 1974.  
   
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 2 luglio 1974  
-Atti di Governo, registro n. 4, foglio n. 37. - SCIARRETTA
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 1 marzo 1976  
+Atti di Governo, registro n. 3, foglio n. 50

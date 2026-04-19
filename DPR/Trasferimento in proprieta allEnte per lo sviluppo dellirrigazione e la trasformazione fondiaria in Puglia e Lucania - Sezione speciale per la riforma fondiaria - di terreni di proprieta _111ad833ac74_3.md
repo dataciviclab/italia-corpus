@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 novembre 1952 n. 2622
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 dicembre 1952 n. 4017
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 novembre 1952 n. 2622
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 dicembre 1952 n. 4017
 ================================================================
 
 Trasferimento in proprieta' all'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria - di terreni di proprieta' di Antinozzi Elena fu Antonio, in comune di Candela (Foggia).
@@ -18,11 +18,11 @@ In virtu' della delegazione concessa dagli [articoli 5 della legge 12 maggio 195
 
 Visto il proprio decreto 7 febbraio 1951, n. 67;
 
-Visto il piano particolareggiato di espropriazione compilato dall'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria - nei confronti di Antinozzi Elena fu Antonio, per i terreni ricadenti nel comune di Candela (provincia di Foggia);
+Visto il piano particolareggiato di espropriazione compilato dall'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania Sezione speciale per la riforma fondiaria, nei confronti di Antinozzi Elena fu Antonio, per i terreni ricadenti nel comune di Candela (provincia di Foggia);
 
 Considerato che la sunnominata non e' stata ammessa al beneficio di conservare definitivamente una parte dei terreni oggetto di esproprio, costituenti il terzo residuo di cui all'[art. 9 della legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841~art9), per non aver ottemperato a tutti gli adempimenti previsti in detto articolo;
 
-Udito il parere, in data 30 ottobre 1952, espresso dalla Commissione parlamentare, nominata a norma degli [articoli 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), ed 1 e 2 della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
+Udito il parere, in data 7 agosto 1951, espresso dalla Commissione parlamentare nominata a norma degli [articoli 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), ed 1 e 2 della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
 
 Sentito il Consiglio dei Ministri;
 
@@ -35,7 +35,7 @@ Art. 1
 ------
 
   
-E' approvato il piano particolareggiato di espropriazione compilato dall'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria - nei confronti di Antinozzi Elena fu Antonio, relativo ai terreni ricadenti nel comune di Candela (provincia di Foggia), per una superficie di ettari 1.95.06, specificamente descritti nell'elenco n. 1 allegato al presente decreto.  
+E' approvato il piano particolareggiato di espropriazione compilato dall'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria, nei confronti di Antinozzi Elena fu Antonio, relativo ai terreni ricadenti nel comune di Candela (provincia di Foggia), per una superficie di ettari 81.47.84, specificamente descritti nell'elenco n. 1 allegato al presente decreto.  
 
 Art. 2
 ------
@@ -59,23 +59,23 @@ L'elenco dei terreni, con l'indicazione dell'indennita' di espropriazione offert
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 novembre 1952
+### Dato a Roma, addi' 28, dicembre 1952
 
 EINAUDI DE GASPERI - FANFANI
 
 Visto, il Guardasigilli: ZOLI
 
-Registrato alla corte dei conti, addi' 20 dicembre 1952
+Registrato alla Corte dei conti, addi' 22 gennaio 1953
 
-Atti del Governo, registro n. 64, foglio n. 150. - PALLA
+Atti del Governo, registro n. 73, foglio n. 127. - PALLA
 
-Allegato 1
+Allegato n. 1
 
  ALLEGATO N. 1   
   
-Elenco dei terreni intestati alla ditta Antinozzi Elena fu Antonio, in comune di Candela (provincia di Foggia), trasferiti in proprieta' dell'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria a norma delle [leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841) e [decreti Presidenziale 7 febbraio 1951, n. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-02-07;67).   
+Elenco dei terreni intestati alla ditta Antinozzi Elena fu Antonio, in comune di Candela (provincia di Foggia), trasferiti in proprieta' dell'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - sezione speciale per la riforma fondiaria, a norma delle [leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841) e [decreto Presidenziale 7 febbraio 1951, n. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-02-07;67).   
   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=052U262200100010110001&dgu=1953-01-10&art.dataPubblicazioneGazzetta=1953-01-10&art.codiceRedazionale=052U2622)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=052U401700100010110001&dgu=1953-01-23&art.dataPubblicazioneGazzetta=1953-01-23&art.codiceRedazionale=052U4017)
   

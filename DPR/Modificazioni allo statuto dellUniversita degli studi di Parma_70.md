@@ -1,192 +1,96 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 1212
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1018
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 1212
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1018
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma, e convalidati dal Consiglio superiore nel suo parere;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 164 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta quella di ematologia clinica e di laboratorio.
-
-Il primo comma dell'art. 281, relativo alla scuola di specializzazione in chirurgia plastica, e' modificato nel senso che il numero degli iscritti e' stabilito in sette per anno di corso, per un totale di ventuno specializzandi.
-
-Il secondo comma dell'art. 288, relativo alla scuola di specializzazione in malattie dell'apparato cardiovascolare, e' modificato nel senso che il numero degli iscritti e' stabilito in sei per ogni anno di corso, per un totale di diciotto specializzandi.
-
-Dopo l'art. 291, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in ematologia clinica e di laboratorio di cui all'art. 164.
-
-Scuola di specializzazione in ematologia clinica e di laboratorio
-
-Art. 292. - La scuola ha la durata di tre anni.
-
-Art. 293. - Sono ammessi i laureati in medicina e chirurgia.
-
-Art. 294. - Il numero complessivo degli specializzandi da ammettere nella scuola nei tre anni di corso e' di 15 allievi.
-
-Art. 295. - Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-morfologia e morfogenesi normale e patologica del sangue;
-
-genetica ematologica;
-
-fisiopatologia ematologica;
-
-biochimica ematologica;
-
-fisiopatologia del plasma;
-
-tecniche di laboratorio inerenti all'ematologia;
-
-fisiopatologia della coagulazione e dell'emostasi.
-
-2° Anno:
-
-morfologia e morfogenesi normale e patologica del sangue;
-
-fisiopatologia ematologica;
-
-immunoematologia;
-
-tecniche di laboratorio inerenti all'ematologia;
-
-patologia speciale ematologica;
-
-clinica delle emopatie;
-
-anatomia e istologia patologica delle emopatie e fondamenti di oncologia.
-
-3° Anno:
-
-tecniche di laboratorio inerenti all'ematologia;
-
-nozioni di radiobiologia e di medicina nucleare applicata all'ematologia;
-
-radiodiagnostica e radioterapia ematologica;
-
-patologia speciale ematologica;
-
-clinica speciale ematologica;
-
-clinica delle emopatie;
-
-terapia sistematica ematologica;
-
-terapia trasfusionale.
-
-Art. 296. - Alla fine di ogni anno gli allievi dovranno sostenere un esame di profitto sul gruppo delle materie che sono state oggetto di insegnamento.
-
-Art. 297. - Alla fine del triennio gli allievi dovranno presentare una dissertazione scritta e sostenere un esame di diploma.
-
-Art. 298. - Il direttore della scuola, al di fuori dei docenti incaricati ufficialmente, puo' invitare studiosi competenti ad impartire lezioni o conferenze su argomenti di speciale interesse ematologico.
-
-Art. 299. - Gli iscritti alla scuola di specializzazione sono tenuti a pagare le tasse e soprattasse, secondo quanto stabilito per gli studenti della facolta' di medicina e chirurgia, nonche' la tassa di diploma nella misura di L. 6.000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7). Sono tenuti, altresi', al pagamento di speciali contributi nella misura che sara' determinata dal consiglio di amministrazione, previo parere della facolta', su proposta del direttore della scuola.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1975
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 20 dicembre 1976 Atti di Governo, registro n. 101, foglio n. 57
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma, e convalidati dal Consiglio superiore nel suo parere;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 164 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta quella di ematologia clinica e di laboratorio.  
-Il primo comma dell'art. 281, relativo alla scuola di specializzazione in chirurgia plastica, e' modificato nel senso che il numero degli iscritti e' stabilito in sette per anno di corso, per un totale di ventuno specializzandi.  
-Il secondo comma dell'art. 288, relativo alla scuola di specializzazione in malattie dell'apparato cardiovascolare, e' modificato nel senso che il numero degli iscritti e' stabilito in sei per ogni anno di corso, per un totale di diciotto specializzandi.  
-Dopo l'art. 291, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in ematologia clinica e di laboratorio di cui all'art. 164.  
-Scuola di specializzazione in ematologia clinica e di laboratorio  
-Art. 292. - La scuola ha la durata di tre anni.  
-Art. 293. - Sono ammessi i laureati in medicina e chirurgia.  
-Art. 294. - Il numero complessivo degli specializzandi da ammettere nella scuola nei tre anni di corso e' di 15 allievi.  
-Art. 295. - Le materie di insegnamento sono le seguenti:  
+  
+Dopo l'art. 298 e con il conseguente spostamento della numerazione degli articoli successivi vengono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola per tecnici fisioterapisti della riabilitazione (scuola diretta a fini speciali).  
+  
+Scuola per tecnici fisioterapisti della riabilitazione  
+(Scuola diretta a fini speciali)  
+  
+Art. 299. - La scuola per fisioterapisti viene istituita allo scopo di dare una preparazione completa teorico-pratica agli allievi, istruendoli su problemi della riabilitazione polivalente dei minorati fisici soprattutto per lesioni organiche del sistema osteoarticolare, del sistema nervoso e dell'apparato respiratorio, suscettibili di recupero funzionale e sociale mediante terapie fisiche, chinesiterapiche, occupazionali e del linguaggio.  
+Tali tecnici fisioterapisti potranno svolgere la loro funzione sotto la direzione e dietro indicazione medica.  
+Art. 300. - La scuola ha sede presso l'istituto di clinica ortopedica e traumatologica dell'Universita' degli studi di Parma. Il direttore della scuola e' il titolare piu' anziano della cattedra di clinica ortopedica e traumatologica dell'Universita' di Parma.  
+I docenti incaricati degli insegnamenti della scuola sono proposti dal direttore della scuola stessa, ratificati dal consiglio della facolta' di medicina e chirurgia e nominati dal rettore.  
+Il consiglio della scuola e' composto dal direttore e dai docenti incaricati degli insegnamenti.  
+Art. 301. - Il corso degli studi per il conseguimento del diploma di tecnici fisioterapisti ha la durata di tre anni: i primi due consistono in lezioni teoriche e pratiche su materie propedeutiche e tecniche, presso gli istituti cui fanno capo gli insegnamenti, il terzo in tirocini pratici presso centri di riabilitazione riconosciuti idonei a tale scopo dalla scuola.  
+Art. 302. - Il titolo di studio per l'ammissione alla scuola e' il diploma di scuola media superiore di durata quinquennale. I candidati debbono presentare certificato medico comprovante la sana e robusta costituzione fisica.  
+Alla scuola possono essere ammessi annualmente 15 allievi.  
+I candidati verranno sottoposti ad un esame di ammissione che consiste in una prova orale nella quale saranno saggiate sia le qualita' culturali che l'attitudine specialistica. Al termine di tale esame verra' stabilita una graduatoria per l'ammissione.  
+La commissione esaminatrice sara' composta dal direttore della scuola e da due professori nominati dal preside della facolta' di medicina e chirurgia.  
+Il candidato ammesso, che non si sara' presentato entro 5 giorni dall'inizio del corso, perdera' ogni diritto alla frequenza e al conseguimento del diploma e verra' sostituito con uno degli idonei non ammesso seguendo la graduatoria dell'esame di ammissione.  
+Art. 303. - L'ammontare delle tasse e contributi e' fissato in L. 63.000, di cui L. 23.000 come tassa di iscrizione e frequenza e L. 40.000 come contributi.  
+Art. 304. - Le materie di insegnamento e i corsi della scuola sono i seguenti:  
+  
 1° Anno:  
-morfologia e morfogenesi normale e patologica del sangue;  
-genetica ematologica;  
-fisiopatologia ematologica;  
-biochimica ematologica;  
-fisiopatologia del plasma;  
-tecniche di laboratorio inerenti all'ematologia;  
-fisiopatologia della coagulazione e dell'emostasi.  
+Nozioni generali di anatomia, fisiologia, patologia;  
+Anatomia e fisiologia del sistema nervoso;  
+Anatomia e fisiologia dell'apparato motore;  
+Anatomia e fisiologia dell'apparato respiratorio;  
+Anatomia e fisiologia dell'apparato circolatorio;  
+Servizio sociale e relazioni umane;  
+Tecnica infermieristica;  
+Psicologia e psicopatologia del minorato;  
+Chinesiologia e diagnostica dei disturbi del movimento;  
+Metodologia di fisioterapia;  
+Metodologia di terapia occupazionale;  
+Clinica della riabilitazione.  
+  
 2° Anno:  
-morfologia e morfogenesi normale e patologica del sangue;  
-fisiopatologia ematologica;  
-immunoematologia;  
-tecniche di laboratorio inerenti all'ematologia;  
-patologia speciale ematologica;  
-clinica delle emopatie;  
-anatomia e istologia patologica delle emopatie e fondamenti di oncologia.  
-3° Anno:  
-tecniche di laboratorio inerenti all'ematologia;  
-nozioni di radiobiologia e di medicina nucleare applicata all'ematologia;  
-radiodiagnostica e radioterapia ematologica;  
-patologia speciale ematologica;  
-clinica speciale ematologica;  
-clinica delle emopatie;  
-terapia sistematica ematologica;  
-terapia trasfusionale.  
-Art. 296. - Alla fine di ogni anno gli allievi dovranno sostenere un esame di profitto sul gruppo delle materie che sono state oggetto di insegnamento.  
-Art. 297. - Alla fine del triennio gli allievi dovranno presentare una dissertazione scritta e sostenere un esame di diploma.  
-Art. 298. - Il direttore della scuola, al di fuori dei docenti incaricati ufficialmente, puo' invitare studiosi competenti ad impartire lezioni o conferenze su argomenti di speciale interesse ematologico.  
-Art. 299. - Gli iscritti alla scuola di specializzazione sono tenuti a pagare le tasse e soprattasse, secondo quanto stabilito per gli studenti della facolta' di medicina e chirurgia, nonche' la tassa di diploma nella misura di L. 6.000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7). Sono tenuti, altresi', al pagamento di speciali contributi nella misura che sara' determinata dal consiglio di amministrazione, previo parere della facolta', su proposta del direttore della scuola.  
+Patologia e clinica del sistema nervoso;  
+Patologia e clinica dell'apparato motore;  
+Patologia e clinica dell'apparato respiratorio;  
+Anatomia, fisiologia, patologia degli organi della parola e dell'udito;  
+Neuropsichiatria infantile;  
+Riabilitazione geriatrica;  
+Nozioni di ortopedia e traumatologia;  
+Nozioni di reumatologia;  
+Elettroterapia e altre terapie fisiche;  
+Chinesiologia e diagnostica dei disturbi del movimento;  
+Metodologia di fisioterapia;  
+Metodologia di terapia occupazionale;  
+Metodologia di terapia del linguaggio;  
+Clinica della riabilitazione.  
+  
+Nel secondo anno viene dato particolare risalto alle dimostrazioni pratiche per tutte le materie di insegnamento presso i rispettivi istituti.  
+I corsi regolari saranno integrati da conferenze su argomenti specifici, proiezioni, visite ad altri istituti.  
+Art. 305. - Le commissioni per gli esami di profitto sono composte di tre membri nominati dal direttore.  
+Per essere ammessi a frequentare il 2° anno di studi, gli allievi devono avere superato almeno 2/13 degli, esami del 1° anno. Nel caso in cui gli allievi non abbiano superato gli esami prescritti del 1° anno, rimarranno nella posizione di fuori corso fino a quando non avranno assolto gli obblighi di cui sopra.  
+Art. 306. - Per essere ammessi a sostenere l'esame di diploma gli allievi dovranno aver seguito i corsi, superato gli esami in tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole le esercitazioni previste e l'anno di tirocinio.  
+L'esame per il conseguimento del diploma di tecnico fisioterapista consiste nella discussione di una tesi scritta su un tema preventivamente assegnato dal direttore della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1975
+### Dato a Roma, addi' 31 ottobre 1972
 
-LEONE MALFATTI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 20 dicembre 1976
+Registrato alla Corte dei conti, addi' 20 febbraio 1973
 
-Atti di Governo, registro n. 101, foglio n. 57
+Atti di Governo, registro n. 256, foglio n. 5. - VALENTINI

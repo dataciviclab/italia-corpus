@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1118
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1964 n. 1212
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1118
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1964 n. 1212
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -10,13 +10,13 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), modificato con [regio decreto 5 Ottobre 1939 n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847) e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
@@ -30,1759 +30,915 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato quanto appresso:
 
-Gli articoli da 177 a 188, relativi alla facolta' di ingegneria, sono abrogati e sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi.
+Art. 46, dopo il n. 4) e' aggiunto il n. 5) "Istituto di studi anglo-americani, comprendenti i Seminari delle discipline che abbiano comunque per oggetto lo studio di paesi anglosassoni e dell'America.
 
-Art. 177. - La facolta' di ingegneria conferisce le seguenti lauree:
+Alle attivita' dell'Istituto possono partecipare, nei limiti e nei modi stabiliti dal direttore, docenti o studiosi stranieri di dette discipline".
 
-1) Laurea in ingegneria civile (sezioni: edili, idraulica, trasporti);
+Art. 47, agli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti i seguenti:
 
-2) Laurea in ingegneria meccanica;
+Demografia;
 
-3) Laurea in ingegneria elettrotecnica;
+Statistica economica.
 
-4) Laurea in ingegneria elettronica;
+Art. 48, relativo alle modalita' di esami degli insegnamenti del corso di laurea in Economia e commercio, e modificato nel senso che dopo il secondo capoverso e' inserito il seguente comma:
 
-5) Laurea in ingegneria chimica.
+"Alla prova orale di lingue straniere non puo' essere ammesso lo studente che abbia riportato un voto inferiore a 18 trentesimi nella prova scritta. Il voto di approvazione assegnato alla prova scritta da' diritto a presentarsi alla prova orale solo nella stessa sessione".
 
-La durata del corso di studi e' di cinque anni, comprensivi del biennio di studi propedeutici e del triennio di studi applicativi.
+Art. 53, agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti i seguenti:
 
-Ciascun corso di laurea e' articolato in piu' indirizzi di specializzazione.
+Geografia storica;
 
-Art. 178. - Gli insegnamenti si distinguono, per ciascun corso di laurea, in:
+Assiriologia e archeologia orientale;
 
-a) obbligatori;
+Epigrafia greca;
 
-b) di indirizzo, a scelta dello studente per gruppi di materie.
+Etnologia;
 
-Gli insegnamenti possono essere pieni, detti anche annuali, e ridotti, detti anche semestrali.
+Sinologia;
 
-Gli insegnamenti di cui alla lettera a) sono indicati per ogni corso di laurea nel successivo art. 179.
+Museografia;
 
-Il consiglio di facolta' (a norma del [decreto del Presidente della Repubblica n. 827 del 27 settembre 1970](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-09-27;827)) fissa anno per anno, per ciascun corso di laurea:
+Fonetica;
 
-gli indirizzi di specializzazione che intende attuare;
+Dialettologia italiana;
 
-gli insegnamenti di cui alla lettera b), per ogni indirizzo, scegliendoli nell'elenco generale riportato nel successivo art. 180; il numero di ore a disposizione per ogni insegnamento, sia obbligatorio sia di indirizzo, e la ripartizione di esse nell'anno; la distribuzione degli insegnamenti negli anni di corso;
+Storia della critica;
 
-le propedeuticita';
+Storia delle tradizioni popolari.
 
-le procedure d'esame;
+Art. 70, agli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti i seguenti:
 
-le condizioni per l'iscrizione a ciascun anno di corso.
+Letteratura, italiana moderna e contemporanea;
 
-Il numero complessivo degli insegnamenti pieni (o il numero equivalente di insegnamenti pieni e ridotti) per ciascun corso quinquennale di laurea non sara' superiore a trenta ne' inferiore a ventisette. A tale fine, due insegnamenti ridotti equivalgono ad un insegnamento pieno.
+Storia del teatro e dello spettacolo;
 
-L'identita' di denominazione di insegnamenti impartiti in diversi indirizzi non comporta necessariamente identita' di programma o di trattazione.
+Storia della musica;
 
-In corrispondenza alla stessa denominazione, quando la sua ampiezza lo richieda, la materia puo' essere frazionata in piu' insegnamenti pieni, distinti, in successione di tempo, ognuno dei quali con validita' annuale.
+Storia delle tradizioni popolari;
 
-Alcuni insegnamenti potranno essere mutuati da altre facolta' dell'Universita' di Padova.
+Paleografia e diplomatica.
 
-Art. 179. - Gli insegnamenti obbligatori nei diversi corsi di laurea sono quelli qui di seguito elencati.
+Art. 71, agli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti i seguenti:
 
-Corso di laurea in ingegneria civile (sezione edile) Insegnamenti obbligatori sul piano nazionale:
+Storia della filosofia contemporanea;
 
-1) Analisi matematica I;
+Logica;
 
-2) Geometria I;
+Storia e metodologia delle scienze;
 
-3) Fisica I;
+Psicologia applicata.
 
-4) Chimica;
+Art. 74, e' modificato nel senso che nel secondo capoverso e' soppresso il seguente ultimo periodo:
 
-5) Disegno;
+"La prova deve precedere l'ultimo esame orale della relativa materia ed esclude da questo se non viene sostenuta con esito positivo".
 
-6) Analisi matematica II;
+Art. 76, il secondo capoverso e' abrogato e sostituito dal seguente:
 
-7) Meccanica razionale;
+"La prova scritta di Pedagogia, nel corso di diploma, puo' essere sostenuta solo dopo che si siano sostenuti i primi due esami di Pedagogia".
 
-8) Fisica II;
+Art. 82, agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di "Chirurgia plastica".
 
-9) Geometria II;
+Art. 89, agli insegnamenti complementari del corso di laurea in Chimica sono aggiunti i seguenti:
 
-10) Scienza delle costruzioni;
+Per l'indirizzo organico-biologico:
 
-11) Meccanica applicata alle macchine e macchine;
+Spettroscopia di risonanza magnetica elettronica e nucleare;
 
-12) Fisica tecnica;
+Petrochimica;
 
-13) Elettrotecnica;
+Cromatografia analitica e preparativa;
 
-14) Idraulica;
+Biopolimeri;
 
-15) Tecnologia dei materiali e chimica applicata;
+Lingua straniera tecnica.
 
-16) Tecnica delle costruzioni;
+Per l'indirizzo inorganico-chimico-fisico:
 
-17) Architettura tecnica;
+Spettroscopia e microonde;
 
-18) Topografia;
+Chimica cristalli difettivi;
 
-19) Architettura e composizione architettonica.
+Chimica analitica nucleare;
 
-Insegnamenti obbligatori sul piano della facolta':
+Microanalisi inorganica;
 
-20) Elementi di calcolo numerico e programmazione;
+Analisi organica strumentale;
 
-21) Complementi di scienza delle costruzioni;
+Lingua straniera tecnica.
 
-22) Composizione urbanistica;
+Art. 92, agli insegnamenti complementari del corso di laurea in Chimica industriale sono aggiunti i seguenti:
 
-23) Costruzione di ponti;
+Metallurgia nucleare;
 
-24) Geotecnica.
+Chimica e tecnologia dei materiali nucleari;
 
-Corso di laurea in ingegneria civile (sezione idraulica)
+Chimica analitica strumentale con esercitazioni;
 
-Insegnamenti obbligatori sul piano nazionale:
+Meccanismi di reazione in Chimica inorganica;
 
-1) Analisi matematica I;
+Tecnologie analitiche;
 
-2) Geometria I;
+Chimica dei combustibili e dei propellenti;
 
-3) Fisica I;
+Chimica e tecnologia del vetro e dei prodotti ceramici;
 
-4) Chimica;
+Disegno (corso speciale per chimici industriali);
 
-5) Disegno;
+Lingua straniera tecnica;
 
-6) Analisi matematica II;
+Chimica e tecnologia dei semiconduttori.
 
-7) Meccanica razionale;
+Dopo l'ultimo comma viene, inoltre, aggiunto il seguente "La scelta degli insegnamenti complementari caratterizza l'indirizzo di laurea in Chimica industriale che lo studente intende scegliere.
 
-8) Fisica II;
+Gli indirizzi per la laurea in Chimica industriale sono i seguenti:
 
-9) Elementi di calcolo numerico e programmazione;
+1) indirizzo nucleare;
 
-10) Scienza delle costruzioni;
+2) indirizzo organico;
 
-11) Meccanica applicata alle macchine e macchine;
+3) indirizzo inorganico-metallurgico;
 
-12) Fisica tecnica;
+4) indirizzo elettrochimico;
 
-13) Elettrotecnica;
+5) indirizzo petrochimico;
 
-14) Idraulica;
+6) indirizzo organico-macromolecolare;
 
-15) Tecnologia dei materiali e chimica applicata;
+7) indirizzo analitico".
 
-16) Tecnica delle costruzioni;
+Art. 95, agli insegnamenti complementari del corso di laurea in Fisica sono aggiunti i seguenti:
 
-17) Architettura tecnica;
+Per l'indirizzo didattico:
 
-18) Topografia;
+Elettrodinamica;
 
-19) Costruzioni idrauliche.
+Termodinamica;
 
-Insegnamenti obbligatori sul piano della facolta':
+Onde elettromagnetiche;
 
-20) Complementi di scienza delle costruzioni;
+Fisica atomica;
 
-21) Geotecnica;
+Istituzioni di fisica atomica Meccanica;
 
-22) Idromeccanica applicata;
+Acustica.
 
-23) Idrografia e idrologia;
+Per l'indirizzo applicativo:
 
-24) Costruzioni marittime.
+Istituzioni di fisica atomica;
 
-Corso di laurea in ingegneria civile (sezione trasporti)
+Onde elettromagnetiche;
 
-Insegnamenti obbligatori sul piano nazionale:
-
-1) Analisi matematica I;
-
-2) Geometria I;
-
-3) Fisica I;
-
-4) Chimica;
-
-5) Disegno;
-
-6) Analisi matematica II;
-
-7) Meccanica razionale;
-
-8) Fisica II;
-
-9) Geometria II;
-
-10) Scienza delle costruzioni;
-
-11) Meccanica applicata alle macchine e macchine;
-
-12) Fisica tecnica;
-
-13) Elettrotecnica;
-
-14) Idraulica;
-
-15) Tecnologia dei materiali e chimica applicata;
-
-16) Tecnica delle costruzioni;
-
-17) Architettura tecnica;
-
-18) Topografia;
-
-19) Costruzione di strade, ferrovie ed aeroporti.
-
-Insegnamenti obbligatori sul piano della facolta':
-
-20) Elementi di calcolo numerico e programmazione;
-
-21) Complementi di scienza delle costruzioni;
-
-22) Costruzione di ponti;
-
-23) Geotecnica;
-
-24) Tecnica ed economia dei trasporti.
-
-Corso di laurea in ingegneria meccanica
-
-Insegnamenti obbligatori sul piano nazionale:
-
-1) Analisi matematica I;
-
-2) Geometria I;
-
-3) Fisica I;
-
-4) Chimica;
-
-5) Disegno;
-
-6) Analisi matematica II;
-
-7) Meccanica razionale;
-
-8) Fisica II;
-
-9) Elementi di calcolo numerico e programmazione;
-
-10) Scienza delle costruzioni;
-
-11) Meccanica applicata alle macchine;
-
-12) Fisica tecnica;
-
-13) Elettrotecnica;
-
-14) Idraulica;
-
-15) Chimica applicata;
-
-16) Macchine;
-
-17) Costruzione di macchine;
-
-18) Impianti meccanici;
-
-19) Tecnologia meccanica.
-
-Insegnamenti obbligatori sul piano della facolta':
-
-20) Economia ed organizzazione aziendale;
-
-21) Misure meccaniche e termiche;
-
-22) Scienza dei materiali;
-
-23) Termodinamica applicata.
-
-Corso di laurea in ingegneria elettrotecnica
-
-Insegnamenti obbligatori sul piano nazionale:
-
-1) Analisi matematica I;
-
-2) Geometria I;
-
-3) Fisica I;
-
-4) Chimica;
-
-5) Disegno;
-
-6) Analisi matematica II;
-
-7) Meccanica razionale;
-
-8) Fisica II;
-
-9) Elementi di calcolo numerico e programmazione;
-
-10) Scienza delle costruzioni;
-
-11) Meccanica applicata alle macchine;
-
-12) Fisica tecnica;
-
-13) Elettrotecnica;
-
-14) Idraulica;
-
-15) Misure elettriche;
-
-16) Macchine;
-
-17) Macchine elettriche;
-
-18) Impianti elettrici;
-
-19) Elettronica applicata.
-
-Insegnamenti obbligatori sul piano della facolta':
-
-20) Metodi matematici per l'ingegneria;
-
-21) Controlli automatici;
-
-22) Trasmissione dell'energia elettrica;
-
-23) Economia ed organizzazione aziendale.
-
-Corso di laurea in ingegneria elettronica
-
-Insegnamenti obbligatori sul piano nazionale:
-
-1) Analisi matematica I;
-
-2) Geometria I;
-
-3) Fisica I;
-
-4) Chimica;
-
-5) Disegno;
-
-6) Analisi matematica II;
-
-7) Meccanica razionale;
-
-8) Fisica II;
-
-9) Elementi di calcolo numerico e programmazione
-
-10) Scienze delle costruzioni;
-
-11) Meccanica delle macchine e macchine;
-
-12) Fisica tecnica;
-
-13) Elettrotecnica;
-
-14) Campi elettromagnetici e circuiti;
-
-15) Misure elettriche;
-
-16) Comunicazioni elettriche;
-
-17) Elettronica applicata;
-
-18) Controlli automatici;
-
-19) Radiotecnica.
-
-Insegnamenti obbligatori sul piano della facolta':
-
-20) Metodi matematici per l'ingegneria;
-
-21) Statistica e calcolo delle probabilita';
-
-22) Misure elettroniche;
-
-23) Economia ed organizzazione aziendale.
-
-Corso di laurea in ingegneria chimica
-
-Insegnamenti obbligatori sul piano nazionale:
-
-1) Analisi matematica I;
-
-2) Geometria I;
-
-3) Fisica I;
-
-4) Chimica;
-
-5) Disegno;
-
-6) Analisi matematica II;
-
-7) Meccanica razionale;
-
-8) Fisica II;
-
-9) Chimica organica;
-
-10) Scienza delle costruzioni;
-
-11) Meccanica applicata alle macchine;
-
-12) Fisica tecnica;
-
-13) Elettrotecnica;
-
-14) Chimica applicata;
-
-15) Macchine;
-
-16) Chimica fisica;
-
-17) Chimica industriale;
-
-18) Principi di ingegneria chimica;
-
-19) Impianti chimici.
-
-Insegnamenti obbligatori sul piano della facolta':
-
-20) Elementi di calcolo numerico e programmazione;
-
-21) Teoria e sviluppo dei processi chimici;
-
-22) Strumentazione chimica;
-
-23) Economia ed organizzazione aziendale.
-
-Art. 180. - Elenco generale degli insegnamenti che possono essere impartiti (l'elenco comprende, per completezza, anche gli insegnamenti obbligatori gia' elencati all'art. 179):
-
-Acquedotti e fognature;
-
-Acustica applicata e illuminotecnica;
-
-Aerodinamica applicata;
-
-Affidabilita' e controllo statistico della qualita';
-
-Algebra e logica matematica;
-
-Analisi e simulazione dei processi;
-
-Analisi matematica I;
-
-Analisi matematica II;
-
-Analisi sperimentale delle tensioni;
-
-Apparecchi ed impianti di sollevamento e di trasporto;
-
-Applicazioni dei calcolatori elettronici;
-
-Architettura degli interni;
-
-Architettura e composizione architettonica;
-
-Architettura industriale;
-
-Architettura tecnica;
-
-Automazione ed organizzazione sanitaria;
-
-Automi e linguaggi formali;
-
-Bacini montani e conservazione del suolo;
-
-Biometria;
-
-Bioingegneria;
-
-Calcolatori elettronici;
-
-Calcolo automatico delle strutture;
-
-Calcolo numerico;
-
-Campi elettromagnetici e circuiti;
-
-Catalisi industriale;
-
-Centrali elettriche;
-
-Chimica;
-
-Chimica applicata;
-
-Chimica fisica;
-
-Chimica fisica applicata;
-
-Chimica industriale;
-
-Chimica organica;
-
-Cinetica chimica applicata;
-
-Compilatori e sistemi operativi;
-
-Complementi di architettura tecnica;
-
-Complementi di chimica industriale;
-
-Complementi di controlli automatici;
-
-Complementi di costruzione di macchine;
-
-Complementi di costruzioni idrauliche;
-
-Complementi di costruzioni stradali;
-
-Complementi di elettronica applicata;
-
-Complementi di fisica;
-
-Complementi di fisica tecnica;
-
-Complementi di macchine;
-
-Complementi di macchine elettriche;
-
-Complementi di ponti;
-
-Complementi di scienza delle costruzioni;
-
-Complementi di trasmissione dell'energia elettrica;
-
-Componenti elettronici;
-
-Composizione urbanistica;
-
-Comunicazioni elettriche;
-
-Controlli automatici;
-
-Controllo dei processi chimici;
-
-Controllo di processi;
-
-Conversione statica dell'energia elettrica;
-
-Corrosione e protezione dei materiali;
-
-Costruzione di apparati elettrici;
-
-Costruzione di apparecchi chimici;
-
-Costruzione di macchine;
-
-Costruzione di macchine elettriche;
-
-Costruzione di ponti;
-
-Costruzione di strade, ferrovie ed aeroporti;
-
-Costruzioni idrauliche;
-
-Costruzioni industriali;
-
-Costruzioni marittime;
-
-Criogenia;
-
-Difesa della natura e dell'ambiente;
-
-Dinamica delle costruzioni;
-
-Dinamica dei sistemi elettrici;
-
-Diritto del lavoro;
-
-Disegno I;
-
-Disegno II;
-
-Disegno di macchine;
-
-Economia applicata all'ingegneria;
-
-Economia delle fonti di energia;
-
-Economia ed estimo civile;
-
-Economia ed estimo industriale;
-
-Economia ed organizzazione aziendale;
-
-Economia urbana e regionale;
-
-Elaborazione automatica delle informazioni;
-
-Elementi costruttivi degli autoveicoli;
-
-Elementi costruttivi delle macchine;
-
-Elementi di calcolo numerico e programmazione;
-
-Elementi di economia e di econometria;
-
-Elementi di fisica nucleare;
-
-Elettromagnetismo;
-
-Elettronica applicata;
-
-Elettronica biomedica;
-
-Elettronica industriale;
-
-Elettronica quantistica;
-
-Elettrotecnica;
-
-Elettrotermia;
-
-Fisica I;
-
-Fisica II;
-
-Fisica dello stato solido;
-
-Fisica del plasma;
-
-Fisica molecolare;
-
-Fisica tecnica;
-
-Fluodinamica chimico-fisica;
-
-Forni per l'industria chimica;
-
-Gasdinamica;
-
-Gas ionizzati;
-
-Geodesia;
-
-Geologia applicata e meccanica delle rocce;
-
-Geometria I;
-
-Geometria II;
-
-Geotecnica;
-
-Idraulica;
-
-Idraulica agraria;
-
-Idrogeologia;
-
-Idrografia e idrologia;
-
-Idromeccanica applicata;
-
-Igiene applicata all'ingegneria;
-
-Impianti chimici;
-
-Impianti di trattamento delle acque e dei liquami;
-
-Impianti elettrici;
-
-Impianti idroelettrici;
-
-Impianti meccanici;
-
-Impianti nucleari;
-
-Impianti per telecomunicazioni;
-
-Impianti tecnici per l'edilizia;
-
-Impianti termotecnici;
-
-Industrializzazione edilizia;
-
-Infortunistica;
-
-Inquinamenti e depurazione dell'ambiente;
-
-Istituzioni di diritto pubblico e privato;
-
-Lavorazioni meccaniche;
-
-Lavorazioni per deformazione plastica;
-
-Legislazione urbanistica;
-
-Litologia e geologia;
-
-Macchinario idraulico;
-
-Macchine;
-
-Macchine elettriche;
-
-Macchine per la lavorazione dei metalli;
-
-Macchine speciali;
-
-Materiali e componenti per la termotecnica;
-
-Materiali per l'elettrotecnica;
-
-Meccanica agraria;
-
-Meccanica applicata alle macchine;
-
-Meccanica applicata alle macchine e macchine;
-
-Meccanica delle vibrazioni;
-
-Meccanica dei fluidi;
-
-Meccanica razionale;
-
-Metallurgia e metallografia;
-
-Metodi di osservazione e di misura;
-
-Metodi matematici per l'ingegneria;
-
-Microonde;
-
-Misure di proprieta' termodinamiche e di trasporto;
-
-Misure elettriche;
+Tecniche elettroniche;
 
 Misure elettroniche;
 
-Misure idrauliche;
-
-Misure meccaniche e termiche;
-
-Misure sulle macchine e sugli impianti elettrici;
-
-Misure sulle macchine e sugli impianti meccanici;
-
-Modelli e simulazione di sistemi;
-
-Motori a combustione interna per trazione;
-
-Navigazione interna;
-
-Opere in materiali sciolti;
-
-Organizzazione del lavoro;
-
-Organizzazione di officina;
-
-Organizzazione e meccanizzazione del cantiere;
-
-Ottica elettronica;
-
-Ottimizzazione;
-
-Pianificazione territoriale;
-
-Previsioni e ricerche di mercato;
-
-Principi di ingegneria chimica;
-
-Principi di regolazione automatica;
-
-Processi chimici bioinorganici;
-
-Produzione di energia elettrica per conversione diretta;
-
-Progettazione di sistemi numerici;
-
-Progetti di macchine;
-
-Progetti di strutture;
-
-Programmazione e controllo della produzione;
-
-Programmazione e controllo economico di gestione;
-
-Propagazione ed antenne;
-
-Propulsione marittima e aerea;
-
-Prove ad alta tensione;
-
-Radiotecnica;
-
-Reattori chimici;
-
-Regime e protezione dei litorali;
-
-Ricerca operativa;
-
-Rilievo e restauro;
-
-Risorse idriche;
-
-Scienza dei materiali;
-
-Scienza delle costruzioni;
-
-Siderurgia e fonderia;
-
-Similitudine chimica ed impianti pilota;
-
-Sintesi delle alte pressioni;
-
-Sistemazione dei corsi d'acqua;
-
-Sistemi combinatori e sequenziali;
-
-Sistemi di trasmissione di immagini;
-
-Sistemi informativi aziendali;
-
-Statistica e calcolo delle probabilita';
-
-Storia dell'architettura;
-
-Storia dell'urbanistica;
-
-Storia e metodologia della tecnica;
-
-Strumentazione biomedica;
-
-Strumentazione chimica;
-
-Strumentazione per impianti chimici;
-
-Strutture speciali in acciaio;
-
-Strutture speciali in cemento armato;
-
-Tecnica dei lavori idraulici;
-
-Tecnica del freddo;
-
-Tecnica della circolazione ed organizzazione dei trasporti;
-
-Tecnica delle alte tensioni;
-
-Tecnica delle costruzioni;
-
-Tecnica delle fondazioni;
-
-Tecnica del vuoto;
-
-Tecnica ed economia dei trasporti;
-
-Tecnica urbanistica;
-
-Tecnologia degli alti polimeri;
-
-Tecnologia dei fluidi non newtoniani;
-
-Tecnologia dei materiali e chimica applicata;
-
-Tecnologia dei materiali inorganici;
-
-Tecnologia delle reazioni organiche;
-
-Tecnologia del petrolio;
-
-Tecnologie elettriche;
-
 Tecnologie elettroniche;
 
-Tecnologie meccaniche;
+Comunicazioni elettriche;
 
-Telecomunicazioni;
+Teoria della conduzione;
 
-Telefonia e trasmissione dati;
+Campi elettromagnetici e circuiti;
 
-Teoria dei processi aleatori;
+Elettronica II;
 
-Teoria dei segnali;
+Elettrotecnica;
 
-Teoria dei sistemi;
+Misure elettriche.
 
-Teoria della identificazione;
+Per l'indirizzo generale:
 
-Teoria delle decisioni;
+Istituzioni di algebra superiore;
 
-Teoria delle reti elettriche;
+Matematiche complementari.
 
-Teoria e sviluppo dei processi chimici;
+Art. 107, agli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti i seguenti:
 
-Termodinamica applicata;
+Prospezioni geofisiche;
 
-Topografia;
+Geologia storica.
 
-Trasmissione dell'energia elettrica;
+Art. 113, e' abrogato e sostituito dal seguente:
 
-Trasporti aerei;
+"Appartengono alla Facolta' i seguenti istituti:
 
-Trasporti marittimi;
+Istituto di Botanica e di Fisiologia vegetale con annesso Orto botanico;
 
-Trasporti terrestri;
+Istituto di Chimica analitica e di Chimica analitica applicata;
 
-Trazione elettrica;
+Istituto di Chimica fisica, di Chimica teorica e di Elettrochimica;
 
-Vettori e veicoli spaziali;
+Istituto di Chimica generale e inorganica e di Chimica inorganica industriale;
 
-Viabilita' e traffico.
+Istituto di Chimica organica e di Chimica organica industriale;
 
-Art. 181. - Gli insegnamenti si svolgono sotto forma di lezioni e di esercitazioni pratiche di calcolo, disegno, progettazione, sperimentazione.
+Istituto di Disegno;
 
-La frequenza alle lezioni ed alle esercitazioni e' attestata con le modalita' disposte dal consiglio di facolta'.
+Istituto di Fisica "Galileo Galilei";
 
-Art. 182. - Il consiglio di facolta' delibera sulle domande di trasferimento da uno ad altro corso di laurea, nonche' sui piani di studio degli studenti provenienti da altre sedi o facolta'.
+Istituto di Fisica nucleare;
 
-Art. 183. - Gli esami di profitto possono avere forma orale e scritta ed essere integrati da prove grafiche e di laboratorio; possono comprendere la discussione di elaborati, progetti ed esperienze svolti dal candidato sotto la direzione ed il controllo degli insegnanti.
+Istituto di Fisica teorica e delle particelle elementari;
 
-Art. 184. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti prescritti per il corso di laurea prescelto. Lo studente deve presentare allo esame uno o piu' elaborati, attinenti alle materie della specialita' in cui intende laurearsi, svolti sotto il controllo degli insegnanti di tali materie, con le modalita' stabilite dal consiglio di facolta'.
+Istituto di Fisica terrestre, di Geodesia e di Geografia fisica;
 
-L'esame di laurea consiste nella discussione di detti elaborati, estesa in modo da accertare le cognizioni del candidato nelle materie fondamentali ed in quelle speciali attinenti alla laurea da lui scelta.
+Istituito e Museo di Anatomia comparata;
 
-Il consiglio di facolta' puo' anche disporre un accertamento della preparazione dello studente prima della laurea. Tale accertamento non ha carattere eliminatorio.
+Istituto e Museo di Antropologia e di Etnologia;
 
-Art. 185. - La facolta' e' articolata in istituti, da attuare, previo parere favorevole del consiglio di amministrazione, nell'ambito del seguente elenco:
+Istituto e Museo di Geologia, di Paleontologia e di Geologia applicata;
 
-Biblioteca centrale;
+Istituto e Museo di Mineralogia e di Giacimenti minerari;
 
-Istituto di architettura e di urbanistica;
+Istituto e Museo di Petrografie e di Geochimica;
 
-Istituto di chimica per ingegneria;
+Istituto e Museo di Zoologia e di Genetica;
 
-Istituto di chimica industriale;
+Istituto di Analisi matematica, di Meccanica razionale e di Fisica matematica;
 
-Istituto di costruzioni marittime e di geotecnica;
+Istituto di Algebra e di Geometria;
 
-Istituto di costruzioni, ponti e strade;
+Osservatorio Astrofisico di Asiago;
 
-Istituto di disegno;
+Seminario Chimico;
 
-Istituto di elettrotecnica e di elettronica;
+Seminario Fisico;
 
-Istituto di fisica per ingegneria;
+Seminario di Scienze biologiche;
 
-Istituto di fisica tecnica;
+Seminario di Scienze geologiche;
+
+Seminario Matematico;
+
+Stazione Idrobiologica di Chioggia.
+
+I due Istituti matematici e il Seminario hanno sede e biblioteca in comune.
+
+Art. 115, e' abrogato e sostituito dal seguente:
+
+"Al Seminario chimico appartengono i professori ufficiali di chimica della Facolta' di scienze i quali propongono al rettore la nomina di un Consiglio di quattro membri ed un direttore, scelto quest'ultimo fra i professori di ruolo della Facolta' appartenenti al Seminario e che fa parte di diritto del Consiglio. Il direttore ed il Consiglio restano in carica per un triennio".
+
+Art. 118, e' abrogato e sostituito dal seguente:
+
+"Il Seminario chimico ha una propria biblioteca ed una raccolta di materiale didattico. Il Consiglio del seminario delibera di anno in anno gli acquisti nuovi.
+
+Esso nomina nel suo seno un bibliotecario al quale e' affidata la sorveglianza sul materiale didattico e sui prestiti. Egli e' coadiuvato dagli assistenti degli Istituti chimici".
+
+Dopo l'art. 120, e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione del Seminario fisico:
+
+Seminario fisico
+
+Art. 121. - Il Seminario fisico ha lo scopo di diffondere la cultura e di promuovere studi e ricerche nel campo della fisica L'attivita' del Seminario consiste in cicli di lezioni esercitazioni, conferenze, discussioni, comunicazioni scientifiche ed in quanto altro possa servire allo scopo sopra indicato.
+
+Art. 122. - Al Seminario appartengono i professori ufficiali della Facolta' di scienze aventi insegnamenti di fisica.
+
+Art. 123. - Al Seminario e' preposto un direttore assistito da un Consiglio. Il direttore e' professore di ruolo di disciplina fisica della Facolta', nominato dal rettore su proposta del Consiglio di Facolta'. Fanno parte del Consiglio del Seminario tutti i professori di ruolo di discipline fisiche delle Facolta' di scienze e di ingegneria
+
+Art. 124. - L'iscrizione al Seminario e' obbligatoria per gli studenti del secondo biennio del corso per la laurea in Fisica.
+
+Possono iscriversi anche gli studenti di altri corsi di laurea, nonche' i laureati e i laureandi fuori corso.
+
+Art. 125. - A tutti gli iscritti e' fatto obbligo di versare all'atto dell'iscrizione i contributi che vengono stabiliti dal Consiglio di amministrazione su proposta del Senato accademico, udito il Consiglio del seminario.
+
+Art. 126. - Il Seminario fisico ha una propria biblioteca ed una raccolta di materiale didattico.
+
+Il Consiglio del seminario delibera di anno in anno gli acquisti nuovi.
+
+Esso nomina, nel suo seno un bibliotecario a cui e' affidata la sorveglianza sul materiale didattico e sui prestiti. Il bibliotecario resta in carica due anni ed 6 rieleggibile. Egli e' coadiuvato dagli assistenti di fisica.
+
+Art. 127. - Il Seminario fisico pubblica, quando i fondi lo consentano, un bollettino sotto la direzione di un Comitato di redazione.
+
+Art. 128. - Agli iscritti al Seminario puo' essere rilasciato un attestato degli studi compiuti e del profitto dimostrato.
+
+Gli articoli 130, 131 e 132 (ex 122, 123 e 124) relativi al Seminario di scienze biologiche, sono abrogati e sostituiti dai seguenti:
+
+Art. 130. - Il Seminario comprende una sezione di biologia animale e una sezione di biologia vegetale.
+
+Al Seminario e' preposto un direttore assistito da un Consiglio.
+
+Il direttore e' un professore di ruolo di disciplina biologica della Facolta', nominato dal rettore su proposta del Consiglio di Facolta'.
+
+Il direttore coordina l'attivita' delle due sezioni del Seminario.
+
+Fanno parte del Consiglio del seminario tutti i professori di ruolo di discipline biologiche della Facolta' di scienze e quelli delle Facolta' di medicina e di agraria che impartiscono insegnamenti fondamentali e complementari per la laurea in Scienze biologiche.
+
+Art. 131. - L'iscrizione al Seminario e' obbligatoria per tutti gli studenti del secondo biennio in corso e fuori corso della laurea in Scienze biologiche e per quelli dell'indirizzo biologico della laurea in Scienze naturali. Saranno assegnati alla sezione del Seminario corrispondente all'indirizzo seguito per internato in un Istituto di biologia vegetale o animale.
+
+Al Seminario possono iscriversi anche studenti di altri corsi di studi e di altre Facolta' (nonche' laureati e diplomati).
+
+Art. 132. - Gli iscritti versano una tassa di iscrizione il cui ammontare viene stabilito anno per anno dal Consiglio di amministrazione su proposta del Senato accademico, udito il Consiglio del seminario. Il direttore del Seminario ripartisce le somme disponibili per il funzionamento tra le due sezioni in proporzione al numero dei rispettivi iscritti.
+
+Gli articoli 134, 135 e 136 (ex 126, 127 e 128) relativi al Seminario di scienze geologiche, sono abrogati e sostituiti dai seguenti con il conseguente spostamento della successiva numerazione Art. 134. - Il Seminario di scienze geologiche ha lo scopo di approfondire la cultura geologica e di promuovere studi e ricerche nei campi delle scienze geologico-paleontologiche, mineralogico-petrograficihe, geografico-geofisiche, e delle scienze affini, pure ed applicate. L'attivita' del Seminario si svolge per mezzo di conferenze, convegni, comunicazioni, dimostrazioni scientifiche di laboratorio, escursioni di campagna, viaggi di studio e con qualsiasi altro mezzo possa servire allo scopo predetto.
+
+Art. 135. - Il Seminario si articola in tre sezioni:
+
+I - geologico paleontologica;
+
+II - mineralogico - petrografica;
+
+III - geografico - geofisica.
+
+Art. 136. - Al Seminario appartengono i professori ufficiali delle discipline geologiche, mineralogiche e geofisiche della Facolta' di scienze, che costituiscono il Consiglio direttivo, e propongono al rettore la nomina di un direttore del Seminario scelto tra i professori di ruolo e fuori ruolo facenti parte del Consiglio stesso.
+
+Il direttore resta in carica due anni ed e' coadiuvato dai capi delle sezioni direttamente designati dal Consiglio fra i propri membri.
+
+Art. 137. - L'iscrizione al Seminario e' obbligatoria per gli studenti del secondo biennio in corso e fuori corso della laurea in Scienze geologiche e per quelli dell'indirizzo abiologico della laurea in Scienze naturali.
+
+Possono iscriversi anche studenti di altri corsi di studi e di altre Facolta' (nonche' laureati e diplomati).
+
+Dopo l'art. 139, e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli, relativi alla istituzione del Seminario matematico:
+
+Seminario matematico
+
+Art. 140. - Il Seminario matematico ha lo scopo di diffondere la cultura matematica e di promuovere studi e ricerche matematiche.
+
+Art. 141. - Al Seminario e' preposto un direttore assistito da un Consiglio.
+
+Il direttore e' e' un professore di ruolo delle discipline matematiche della Facolta' di scienze o di ingegneria, nominato da rettore, su proposta dei Consigli delle due Facolta'; fanno parte del Consiglio del seminario i professori ufficiali delle discipline matematiche.
+
+Art. 142. - L'iscrizione al Seminario e' obbligatoria per gli studenti del secondo biennio del corso per la laurea in Matematica.
+
+Possono iscriversi anche gli studenti in altre Facolta', nonche' i laureati e i laureandi fuori corso.
+
+Art. 143. - A tutti gli iscritti e' fatto obbligo di versare all'atto dell'iscrizione i contributi che vengono stabiliti dal Consiglio di amministrazione su proposta del Senato accademico, udito il Consiglio del seminario.
+
+Art. 144. - Il Seminario matematico pubblica, quando i fondi lo consentono, un bollettino sotto la direzione di un Comitato di redazione.
+
+Art. 145. - Agli iscritti al Seminario puo' essere rilasciato un - certificato.
+
+Art. 147. - Agli insegnamenti complementari del corso di laurea in Farmacia e' aggiunto quello di "Farmacia industriale".
+
+Art. 153, agli insegnamenti complementari del corse di laurea in Scienze agrarie sono aggiunti i seguenti:
+
+Economia di mercato dei prodotti agricoli;
+
+Fisiopatologia vegetale;
+
+Metodologia statistica in agricoltura;
+
+Tecnica della meccanizzazione agricola;
+
+Tecniche della conservazione dei prodotti agricoli
+
+Art. 170, agli Istituti della Facolta' di ingegneria sono aggiunti i seguenti:
 
 Istituto di idraulica;
 
-Istituto di impianti chimici;
+Istituto di matematica applicata.
 
-Istituto di macchine;
+Dall'elenco degli stessi Istituti e' soppresso l'Istituto di idraulica e costruzioni idrauliche.
 
-Istituto di matematica applicata;
+Art. 202, all'elenco delle materie integrative per la Scuola di perfezionamento in Filologia moderna sono aggiunti i seguenti insegnamenti:
 
-Istituto di meccanica applicata alle macchine;
+Filologia medioevale e umanistica;
 
-Istituto di organizzazione aziendale;
+Storia della letteratura centro e sud americana;
 
-Istituto di scienza delle costruzioni ed annesso laboratorio per le prove di materiali da costruzione;
+Storia del teatro e dello spettacolo;
 
-Istituto di topografia.
+Storia della letteratura nord-americana;
 
-In rapporto alle esigenze funzionali, gli istituti possono essere raggruppati, per deliberazione del consiglio di facolta' approvata dal consiglio di amministrazione.
+Lingua e letteratura olandese e fiamminga;
 
-A ciascun istituto, o gruppo di istituti, e' preposto un direttore, designato dal consiglio di facolta'.
+Filologia italiana;
 
-Art. 186. - Alla facolta' di ingegneria sono annessi corsi di perfezionamento in alcune discipline (vedi titolo XIX).
+Storia della critica.
 
-Gli articoli da 348 a 368, relativi ai corsi di perfezionamento ed alla scuola di specializzazione in organizzazione aziendale, sono abrogati e sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi.
+Art. 219. - Il primo capoverso e' abrogato e sostituito dal seguente:
 
-Titolo XIX
+"Al ramo di perfezionamento in Pedagogia possono iscriversi i laureati nelle Facolta' di lettere e filosofia, magistero e lingue".
 
-Art. 348. - Sono annessi alla facolta' di ingegneria i seguenti corsi di perfezionamento, la cui attuazione viene decisa anno per anno dal consiglio di facolta':
+Gli articoli 220 e 221, relativi al ramo di perfezionamento in psicologia ed in psicotecnica della Facolta' di magistero, sono abrogati e sostituiti dai seguenti:
 
-1) Corso di perfezionamento in idraulica sperimentale presso l'istituto di idraulica;
+Art. 220. - Titolo di ammissione al ramo di perfezionamento in psicologia e' una delle lauree conferito dalla Facolta' di magistero, lettere e filosofia, Giurisprudenza, Scienze matematiche, fisiche e naturali, Medicina.
 
-2) Corso di perfezionamento in idrografia e idrologia, presso l'istituto di idraulica;
+Il numero dei candidati ammessi alla frequenza e' limitato ad un massimo di sei per anno.
 
-3) Corso di perfezionamento in tecnica del traffico, presso l'istituto di costruzioni, ponti e strade;
+Le materie costitutive per conseguire il diploma di perfezionamento nelle discipline psicologiche sono:
 
-4) Corso di perfezionamento in tecnica motoristica, presso l'istituto di macchine;
+Psicologia;
 
-5) Corso di perfezionamento in tecnica del freddo, presso l'istituto di fisica tecnica;
+Psicologia dell'eta' evolutiva;
 
-6) Corso di perfezionamento in elettrotecnica sperimentale, presso l'istituto di elettrotecnica e di elettronica;
+Metodologia delle scienze del comportamento.
 
-7) Corso di perfezionamento in elettronica sperimentale, presso l'istituto di elettrotecnica e di elettronica;
+Il curriculum degli studi di ogni singolo candidato sara' fissato dal Consiglio della scuola a completamento del corso di studi precedentemente seguito, e comprendere, oltre alle materie costitutive, altre discipline scelte fra le seguenti:
 
-8) Corso di perfezionamento in chimica industriale, presso l'istituto di chimica industriale;
+Psicologia sociale;
 
-9) Corso di perfezionamento in sistemi di controllo, presso l'istituto di elettrotecnica e di elettronica;
+Psicologia applicata;
 
-10) Corso di perfezionamento in sistemi di elaborazione e trasmissione dell'informazione, presso lo istituto di elettrotecnica e di elettronica;
+Psicologia pedagogica;
 
-11) Corso di perfezionamento in ingegneria del territorio, presso l'istituto di architettura ed urbanistica;
+Psicologia comparata;
 
-12). Corso di perfezionamento in geotecnica, presso l' istituto di costruzioni marittime e geotecnica.
+Storia della psicologia;
 
-Art. 349. - I corsi hanno la durata di un anno accademico e sono diretti dai rispettivi direttori d'istituto o da professori ufficiali da essi delegati con approvazione del consiglio.
+Psicologia dinamica;
 
-Art. 350. - Titoli di ammissione ai corsi sono, di regola, i seguenti:
+Psicologia industriale;
 
-« Idraulica sperimentale » e « idrografia e idrologia »: laurea in ingegneria civile, elettrotecnica o meccanica;
+Tecnica dei metodi proiettivi;
 
-per « tecnica del traffico »: laurea in ingegneria civile o meccanica;
+Tecnica dei tests;
 
-per « tecnica motoristica »: laurea in ingegneria meccanica;
+Psicometria;
 
-per «tecnica del freddo »: laurea in ingegneria meccanica, elettrotecnica o chimica;
+Psicopatologia Filosofia;
 
-per «elettrotecnica sperimentale» o «elettronica sperimentale »: laurea in ingegneria elettrotecnica od elettronica;
+Pedagogia;
 
-per «chimica industriale»: laurea in ingegneria chimica, in chimica o in chimica industriale;
+Psicopedagogia;
 
-per «sistemi di controllo» e « sistemi di elaborazione e trasmissione dell'informazione »: laurea in ingegneria elettrotecnica, elettronica, meccanica, in matematica o in fisica;
+Filosofia del linguaggio;
 
-per « ingegneria del territorio »: laurea in ingegneria civile, elettronica, in matematica, in scienze statistiche, in scienze economiche e commerciali, in architettura;
+Filosofia della scienza;
 
-per «geotecnica »: laurea in ingegneria civile,
+Storia della scienza Epistemologia;
 
-Art. 351. - Il numero massimo degli iscritti a ciascun corso viene fissato per ogni anno accademico dal consiglio di facolta' che giudica anche dell'accettazione delle domande di iscrizione.
+Sociologia;
 
-Il consiglio di facolta' puo', caso per caso, deliberare su proposta del direttore del corso, sull'ammissione di laureati in discipline diverse da quelle previste nonche' di laureati all'estero.
+Glottologia Antropologia;
 
-Art. 352. - Le modalita' di iscrizione e di svolgimento di ciascun corso sono approvate anno per anno con delibere del consiglio di facolta' su proposta del direttore del corso e sono rese note con apposito comunicato.
+Antropologia criminale;
 
-Art. 353. - Il profitto conseguito dall'allievo nei vari insegnamenti e l'eventuale attivita' di ricerca sperimentale vengono valutati in una o piu' prove d'esame da commissioni, composte dal direttore del corso, che ne e' il presidente, e da due membri designati dal consiglio di facolta'. L'esito favorevole della prova finale viene riconosciuto mediante rilascio di un certificato, attestante la specializzazione nella disciplina cui il corso si intitola.
+Istituzioni matematiche;
 
-Art. 354. - Le tasse di iscrizione e le soprattasse sono fissate in L. 40.000 annue; i contributi vengono annualmente fissati dal consiglio di amministrazione, su proposta del consiglio di facolta'.
+Statistica;
 
-Scuola di specializzazione in organizzazione aziendale
+Biologia generale;
 
-Art. 355. - Alla facolta' di ingegneria dell'Universita' degli studi di Padova e' annessa la scuola di specializzazione in organizzazione aziendale, con il compito di diffondere e promuovere la conoscenza dei principi e delle tecniche dell'organizzazione e della conduzione di imprese ed enti, e di effettuare ricerche nel campo degli studi di organizzazione aziendale.
+Genetica Anatomia;
 
-Il funzionamento della scuola e' assicurato dal consorzio universitario per gli studi di organizzazione aziendale, nel seguito denominato CUOA, costituito presso l'Universita' di Padova, con convenzione-statuto in data 20 luglio 1970, repertorio n. 1381.
+Fisiologia.
 
-Art. 356. - La scuola conferisce diplomi in organizzazione aziendale ed attestati di frequenza.
+I candidati che avranno superato gli esami prescritti dal Consiglio direttivo (complessivamente non meno di sei) e ottemperato all'obbligo dell'internato di due anni nell'Istituto di psicologia sperimentale, saranno ammessi a discutere la tesi di perfezionamento, consistente in un contributo originale di argomento psicologico.
 
-La durata dei corsi di diploma e' di due anni.
+Art. 221. - Titolo di ammissione al ramo di specializzazione in psicotecnica e orientamento professionale e' una delle lauree conferite dalle Facolta' di Magistero, Lettere e filosofia, Giurisprudenza, Scienze politiche, Statistica, Medicina, Scienze matematiche fisiche e naturali, Ingegneria, Agraria.
 
-Art. 357. - Alla scuola possono essere iscritti laureati in universita' italiane e straniere.
+Il numero dei candidati ammessi alla frequenza e' limitato al massimo di venti per anno. Le materie costitutive per ottenere il diploma di specializzazione in psicotecnica e orientamento professionale sono:
 
-Il consiglio della scuola puo' anche accogliere non laureati, con piani particolari di studio.
+Psicologia;
 
-Il numero degli iscritti, per ciascun anno di corso, e' determinato dal consiglio di amministrazione del CUOA.
+Psicologia dell'eta' evolutiva;
 
-La selezione dei candidati e' fatta da una commissione nominata dal direttore della scuola e che decide a suo insindacabile giudizio.
+Psicologia industriale;
 
-Art. 358. - Per il conseguimento del diploma sono fondamentali i seguenti insegnamenti:
+Psicometria;
 
-Comportamento organizzativo;
+Psicologia dinamica;
 
-Finanza e controllo aziendale;
+Tecnica dei tests;
 
-Marketing;
+Tecnica dei metodi proiettivi;
 
-Organizzazione della produzione;
+Tecnica delle interviste e dell'orientamento professionale.
 
-Organizzazione e politica aziendale;
+Il curriculum degli studi sara' fissato dal Consiglio della scuola per ogni singolo candidato, e comprendera' oltre alle materie costitutive, altre discipline scelte fra le seguenti:
 
-Relazioni industriali;
+Psicologia speciale;
 
-Metodi quantitativi.
+Psicologia pedagogica;
 
-Altri insegnamenti possono essere attivati fra seguenti:
+Psicologia applicata;
 
-Analisi dei sistemi aziendali;
+Diagnostica psicologica;
 
-Analisi delle strutture distributive;
+Analisi motivazionale;
 
-Automazione;
+Psicopatologia;
 
-Dinamica di gruppo;
+Psicologia medica;
 
-Economia delle aziende pubbliche;
+Psicopedagogia;
 
-Economia delle imprese bancarie; Economia ed organizzazione dellr aziende di distribuzione;
+Istituzioni matematiche;
 
-Economia industriale;
+Sociologia;
 
-Finanziamenti di impresa;
+Statistica;
 
-Fondamenti di legislazione aziendale;
+Antropologia;
 
-Informistica;
+E' obbligatorio un internato di almeno due mesi in un Centro di orientamento professionale o in un Centro di psicologia applicata giudicato idoneo dal Consiglio direttivo. Possono essere iscritti direttamente al secondo anno i candidati che dopo la laurea abbiano acquistato particolare competenza nelle applicazioni della psicologia.
 
-Istituzioni economiche europee;
+I candidati che avranno ottemperato all'obbligo della frequenza e dell'internato e superato gli esami prescritti dal Consiglio direttivo (complessivamente non meno di dodici), saranno ammessi a discutere una tesi di specializzazione consistente in un contributo originale in una delle materie del ramo di specializzazione".
 
-L'azienda ed il contesto socio-economico;
+Art. 344. - All'elenco delle Scuole di specializzazione della Facolta' di medicina e chirurgia e' aggiunta la seguente con il conseguente spostamento della successiva numerazione:
 
-Localizzazione industriale;
+25) Scuola di neurochirurgia, che conferisce il diploma di "Specialista in neurochirurgia".
 
-Marketing dei beni strumentali;
+Art. 345. - Dopo l'ordinamento della Scuola di specializzazione di Chirurgia dell'infanzia e' aggiunto il seguente ordinamento, relativo alla Scuola di specializzazione in Neurochirurgia:
 
-Marketing internazionale,
+Scuola di Neurochirurgia
 
-Matematiche aziendali;
+(durata del corso anni 4)
 
-Organizzazione del lavoro;
+La Scuola di specializzazione in Neurochirurgia ha sede presso l'Istituto di neurochirurgia.
 
-Politica sindacale;
+Potranno essere ammessi alla Scuola di specializzazione in Neurochirurgia i laureati in Medicina e chirurgia presso Universita' italiane. Il numero massimo degli allievi e' limitato ad un massimo di sei per ogni anno di corso.
 
-Politiche di ricerca e sviluppo;
+La durata del corso e' di anni 4.
 
-Politiche finanziarie internazionali;
+Le norme per l'iscrizione, per gli esami, per le tasse ecc. sono quelle generali per le Scuole di specializzazione e di perfezionamento riferite negli articoli relativi al presente statuto.
 
-Pubblicita' e promozione vendite;
+Non sono ammesse abbreviazioni di corso tranne su parere insindacabile del direttore della Scuola.
 
-Ricerca operativa;
+Al termine di ogni anno gli specializzandi per essere ammessi all'anno successivo devono essere in possesso della relativa documentazione di frequenza e devono aver superato gli esami di profitto.
 
-Sistema tributario e decisioni aziendali;
+Alla fine del 4° anno lo specializzando dovra' superare l'esame finale di diploma. Questo consistera' nella presentazione e discussione di una tesi scritta, preventivamente approvata, dal direttore della Scuola.
 
-Sistemi di elaborazione automatica delle informazioni;
+Agli specializzandi che abbiano ottenuto l'approvazione nell'esame finale verra' rilasciato un diploma con la qualifica di "Specialista in neurochirurgia".
 
-Sviluppo tecnologico nell'impresa;
+Per la durata del corso e' obbligatoria la frequenza presso l'Istituto di neurochirurgia.
 
-Tecnica della programmazione aziendale;
+Insegnamenti per i 4 anni di corso
 
-Tecnica delle prvisioni e ricerche di mercato;
+1° Anno:
 
-Tecnica delle revisioni aziendali;
+1) Anatomia del sistema nervoso;
 
-Tecniche di amministrazione del personale;
+2) Fisiologia del sistema nervoso;
 
-Teorie delle decisioni.
+3) Semeiotica e clinica neurologica;
 
-Il consiglio della scuola puo' stabilire particolari piani di studio, in relazione ai titoli di studio e professionali presentati dagli iscritti.
+4) Fondamenti di clinica psichiatrica.
 
-L'insegnamento delle materie sopra indicate e' impartito mediante analisi e discussioni di casi, esercitazioni pratiche, lezioni integrative, conferenze, partecipazione a progetti di ricerca.
+2° Anno:
 
-Art. 359. - Il profitto degli allievi e' riconosciuto dai docenti con accertamenti durante il corso e mediante prove d'esame al termine di esso.
+1) Elettroencefalografia in neurochirurgia;
 
-Al compimento del biennio, gli aspiranti al diploma debbono sostenere un colloquio generale e la discussione di una dissertazione scritta approvata da un docente della scuola.
+2) Neuro-oftalmologia;
 
-La commissione per l'esame di diploma e' composta dal direttore della scuola, che la presiede, da quattro docenti di essa e da due esperti in orgamzzazione aziendale.
+3) Otolaringologia in neurochirurgia;
 
-Agli iscritti sprovvisti di laurea o che abbiano seguito un piano di studi particolare viene rilasciato un attestato di frequenza con l'indicazione degli esami superati.
+4) Clinica neurochirurgica (triennale).
 
-Art. 360. - Gli organi della scuola sono:
+3° Anno:
 
-1) il direttore;
+1) Neuro-radiologia;
 
-2) il consiglio.
+2) Neuropatologia;
 
-Il direttore della scuola viene nominato dal rettore dell'Universita', su proposta del consiglio di amministrazione del CUOA. Egli dura in carica un biennio e puo' essere confermato; a uno dei docenti puo' essere conferita la qualifica di vice direttore.
+3) Fondamenti di anestesia neurochirurgica;
 
-Il consiglio e' formato, oltre che dal direttore che lo presiede dai docenti incaricati degli insegnamenti fondamentali, nominati dal rettore dell'Universita' su proposta dei direttore della scuola, sentito il consiglio della facolta' di ingegneria, approvata dal consiglio di amministrazione del CUOA.
+4) Clinica neurochirurgica (triennale).
 
-Il consiglio coordina ed approva i programmi d'insegnamento e delibera in ordine a tutti i problemi specifici della didattica anche per quanto concerne la disciplina, e fissa i criteri per la selezione dei candidati per ciascun anno di corso.
+4° Anno:
 
-Art. 361. - I docenti della scuola possono essere coadiuvati, nell'attivita' di insegnamento e di ricerca, da collaboratori cui vengono affidati compiti particolari dal direttore, d'intesa con il consiglio della scuola e con l'approvazione del consiglio di amministrazione del CUOA.
+1) Clinica neurochirurgica (triennale);
 
-Art. 362. - Gli iscritti alla scuola sono tenuti al versamento della tassa di iscrizione di L. 50.000 annue e dei contributi proposti dal consiglio di amministrazione del CUOA, nel rispetto dei regolamenti dell'Universita' degli studi di Padova.
+2) Tecnica operatoria del sistema nervoso.
 
-II presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+L'esame di clinica neurochirurgica sara' sostenuto alla fine del 4° anno.
 
-Dato a Roma, addi' 31 ottobre 1973
+Valgono tutte le norme di carattere generale relative alle Scuole di perfezionamento nelle specialita' medicochirurgiche previsto dal vigente statuto universitario.
 
-LEONE
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-MALFATTI
+Dato a Roma, addi' 13 agosto 1964
 
-Visto. il G1Iardasigilli: ZAGARI
+Per il Presidente della Repubblica
+
+Il Presidente del Senato
+
+MERZAGORA
+
+GUI
+
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte del conti, addi' 31 maggio 1974 Atti di Governo, registro n. 3, foglio n. 53. - SCIARREITA
+alla Corte dei conti, addi' 16 novembre 1964 Atti del Governo, registro n. 188, foglio n. 73. - DI PRETORO
 
-CAPO I Titolo XI FACOLTA' DI INGEGNERIA
----------------------------------------
+Art. 1
+------
 
-### Art. 1
+ IL PRESIDENTE DELLA REPUBBLICA  
+  
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), modificato con [regio decreto 5 Ottobre 1939 n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato quanto appresso:  
+Art. 46, dopo il n. 4) e' aggiunto il n. 5) "Istituto di studi anglo-americani, comprendenti i Seminari delle discipline che abbiano comunque per oggetto lo studio di paesi anglosassoni e dell'America.  
+Alle attivita' dell'Istituto possono partecipare, nei limiti e nei modi stabiliti dal direttore, docenti o studiosi stranieri di dette discipline".  
+Art. 47, agli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti i seguenti:  
+Demografia;  
+Statistica economica.  
+Art. 48, relativo alle modalita' di esami degli insegnamenti del corso di laurea in Economia e commercio, e modificato nel senso che dopo il secondo capoverso e' inserito il seguente comma:  
+"Alla prova orale di lingue straniere non puo' essere ammesso lo studente che abbia riportato un voto inferiore a 18 trentesimi nella prova scritta. Il voto di approvazione assegnato alla prova scritta da' diritto a presentarsi alla prova orale solo nella stessa sessione".  
+Art. 53, agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti i seguenti:  
+Geografia storica;  
+Assiriologia e archeologia orientale;  
+Epigrafia greca;  
+Etnologia;  
+Sinologia;  
+Museografia;  
+Fonetica;  
+Dialettologia italiana;  
+Storia della critica;  
+Storia delle tradizioni popolari.  
+Art. 70, agli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti i seguenti:  
+Letteratura, italiana moderna e contemporanea;  
+Storia del teatro e dello spettacolo;  
+Storia della musica;  
+Storia delle tradizioni popolari;  
+Paleografia e diplomatica.  
+Art. 71, agli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti i seguenti:  
+Storia della filosofia contemporanea;  
+Logica;  
+Storia e metodologia delle scienze;  
+Psicologia applicata.  
+Art. 74, e' modificato nel senso che nel secondo capoverso e' soppresso il seguente ultimo periodo:  
+"La prova deve precedere l'ultimo esame orale della relativa materia ed esclude da questo se non viene sostenuta con esito positivo".  
+Art. 76, il secondo capoverso e' abrogato e sostituito dal seguente:  
+"La prova scritta di Pedagogia, nel corso di diploma, puo' essere sostenuta solo dopo che si siano sostenuti i primi due esami di Pedagogia".  
+Art. 82, agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di "Chirurgia plastica".  
+Art. 89, agli insegnamenti complementari del corso di laurea in Chimica sono aggiunti i seguenti:  
+  
+Per l'indirizzo organico-biologico:  
+Spettroscopia di risonanza magnetica elettronica e nucleare;  
+Petrochimica;  
+Cromatografia analitica e preparativa;  
+Biopolimeri;  
+Lingua straniera tecnica.  
+  
+Per l'indirizzo inorganico-chimico-fisico:  
+Spettroscopia e microonde;  
+Chimica cristalli difettivi;  
+Chimica analitica nucleare;  
+Microanalisi inorganica;  
+Analisi organica strumentale;  
+Lingua straniera tecnica.  
+Art. 92, agli insegnamenti complementari del corso di laurea in Chimica industriale sono aggiunti i seguenti:  
+Metallurgia nucleare;  
+Chimica e tecnologia dei materiali nucleari;  
+Chimica analitica strumentale con esercitazioni;  
+Meccanismi di reazione in Chimica inorganica;  
+Tecnologie analitiche;  
+Chimica dei combustibili e dei propellenti;  
+Chimica e tecnologia del vetro e dei prodotti ceramici;  
+Disegno (corso speciale per chimici industriali);  
+Lingua straniera tecnica;  
+Chimica e tecnologia dei semiconduttori.  
+Dopo l'ultimo comma viene, inoltre, aggiunto il seguente "La scelta degli insegnamenti complementari caratterizza l'indirizzo di laurea in Chimica industriale che lo studente intende scegliere.  
+Gli indirizzi per la laurea in Chimica industriale sono i seguenti:  
+1) indirizzo nucleare;  
+2) indirizzo organico;  
+3) indirizzo inorganico-metallurgico;  
+4) indirizzo elettrochimico;  
+5) indirizzo petrochimico;  
+6) indirizzo organico-macromolecolare;  
+7) indirizzo analitico".  
+Art. 95, agli insegnamenti complementari del corso di laurea in Fisica sono aggiunti i seguenti:  
+  
+Per l'indirizzo didattico:  
+Elettrodinamica;  
+Termodinamica;  
+Onde elettromagnetiche;  
+Fisica atomica;  
+Istituzioni di fisica atomica Meccanica;  
+Acustica.  
+  
+Per l'indirizzo applicativo:  
+Istituzioni di fisica atomica;  
+Onde elettromagnetiche;  
+Tecniche elettroniche;  
+Misure elettroniche;  
+Tecnologie elettroniche;  
+Comunicazioni elettriche;  
+Teoria della conduzione;  
+Campi elettromagnetici e circuiti;  
+Elettronica II;  
+Elettrotecnica;  
+Misure elettriche.  
+  
+Per l'indirizzo generale:  
+Istituzioni di algebra superiore;  
+Matematiche complementari.  
+Art. 107, agli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti i seguenti:  
+Prospezioni geofisiche;  
+Geologia storica.  
+Art. 113, e' abrogato e sostituito dal seguente:  
+"Appartengono alla Facolta' i seguenti istituti:  
+Istituto di Botanica e di Fisiologia vegetale con annesso Orto botanico;  
+Istituto di Chimica analitica e di Chimica analitica applicata;  
+Istituto di Chimica fisica, di Chimica teorica e di Elettrochimica;  
+Istituto di Chimica generale e inorganica e di Chimica inorganica industriale;  
+Istituto di Chimica organica e di Chimica organica industriale;  
+Istituto di Disegno;  
+Istituto di Fisica "Galileo Galilei";  
+Istituto di Fisica nucleare;  
+Istituto di Fisica teorica e delle particelle elementari;  
+Istituto di Fisica terrestre, di Geodesia e di Geografia fisica;  
+Istituito e Museo di Anatomia comparata;  
+Istituto e Museo di Antropologia e di Etnologia;  
+Istituto e Museo di Geologia, di Paleontologia e di Geologia applicata;  
+Istituto e Museo di Mineralogia e di Giacimenti minerari;  
+Istituto e Museo di Petrografie e di Geochimica;  
+Istituto e Museo di Zoologia e di Genetica;  
+Istituto di Analisi matematica, di Meccanica razionale e di Fisica matematica;  
+Istituto di Algebra e di Geometria;  
+Osservatorio Astrofisico di Asiago;  
+Seminario Chimico;  
+Seminario Fisico;  
+Seminario di Scienze biologiche;  
+Seminario di Scienze geologiche;  
+Seminario Matematico;  
+Stazione Idrobiologica di Chioggia.  
+I due Istituti matematici e il Seminario hanno sede e biblioteca in comune.  
+Art. 115, e' abrogato e sostituito dal seguente:  
+"Al Seminario chimico appartengono i professori ufficiali di chimica della Facolta' di scienze i quali propongono al rettore la nomina di un Consiglio di quattro membri ed un direttore, scelto quest'ultimo fra i professori di ruolo della Facolta' appartenenti al Seminario e che fa parte di diritto del Consiglio. Il direttore ed il Consiglio restano in carica per un triennio".  
+Art. 118, e' abrogato e sostituito dal seguente:  
+"Il Seminario chimico ha una propria biblioteca ed una raccolta di materiale didattico. Il Consiglio del seminario delibera di anno in anno gli acquisti nuovi.  
+Esso nomina nel suo seno un bibliotecario al quale e' affidata la sorveglianza sul materiale didattico e sui prestiti. Egli e' coadiuvato dagli assistenti degli Istituti chimici".  
+Dopo l'art. 120, e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione del Seminario fisico:  
+  
+Seminario fisico  
+  
+Art. 121. - Il Seminario fisico ha lo scopo di diffondere la cultura e di promuovere studi e ricerche nel campo della fisica L'attivita' del Seminario consiste in cicli di lezioni esercitazioni, conferenze, discussioni, comunicazioni scientifiche ed in quanto altro possa servire allo scopo sopra indicato.  
+Art. 122. - Al Seminario appartengono i professori ufficiali della Facolta' di scienze aventi insegnamenti di fisica.  
+Art. 123. - Al Seminario e' preposto un direttore assistito da un Consiglio. Il direttore e' professore di ruolo di disciplina fisica della Facolta', nominato dal rettore su proposta del Consiglio di Facolta'. Fanno parte del Consiglio del Seminario tutti i professori di ruolo di discipline fisiche delle Facolta' di scienze e di ingegneria  
+Art. 124. - L'iscrizione al Seminario e' obbligatoria per gli studenti del secondo biennio del corso per la laurea in Fisica.  
+Possono iscriversi anche gli studenti di altri corsi di laurea, nonche' i laureati e i laureandi fuori corso.  
+Art. 125. - A tutti gli iscritti e' fatto obbligo di versare all'atto dell'iscrizione i contributi che vengono stabiliti dal Consiglio di amministrazione su proposta del Senato accademico, udito il Consiglio del seminario.  
+Art. 126. - Il Seminario fisico ha una propria biblioteca ed una raccolta di materiale didattico.  
+Il Consiglio del seminario delibera di anno in anno gli acquisti nuovi.  
+Esso nomina, nel suo seno un bibliotecario a cui e' affidata la sorveglianza sul materiale didattico e sui prestiti. Il bibliotecario resta in carica due anni ed 6 rieleggibile. Egli e' coadiuvato dagli assistenti di fisica.  
+Art. 127. - Il Seminario fisico pubblica, quando i fondi lo consentano, un bollettino sotto la direzione di un Comitato di redazione.  
+Art. 128. - Agli iscritti al Seminario puo' essere rilasciato un attestato degli studi compiuti e del profitto dimostrato.  
+Gli articoli 130, 131 e 132 (ex 122, 123 e 124) relativi al Seminario di scienze biologiche, sono abrogati e sostituiti dai seguenti:  
+Art. 130. - Il Seminario comprende una sezione di biologia animale e una sezione di biologia vegetale.  
+Al Seminario e' preposto un direttore assistito da un Consiglio.  
+Il direttore e' un professore di ruolo di disciplina biologica della Facolta', nominato dal rettore su proposta del Consiglio di Facolta'.  
+Il direttore coordina l'attivita' delle due sezioni del Seminario.  
+Fanno parte del Consiglio del seminario tutti i professori di ruolo di discipline biologiche della Facolta' di scienze e quelli delle Facolta' di medicina e di agraria che impartiscono insegnamenti fondamentali e complementari per la laurea in Scienze biologiche.  
+Art. 131. - L'iscrizione al Seminario e' obbligatoria per tutti gli studenti del secondo biennio in corso e fuori corso della laurea in Scienze biologiche e per quelli dell'indirizzo biologico della laurea in Scienze naturali. Saranno assegnati alla sezione del Seminario corrispondente all'indirizzo seguito per internato in un Istituto di biologia vegetale o animale.  
+Al Seminario possono iscriversi anche studenti di altri corsi di studi e di altre Facolta' (nonche' laureati e diplomati).  
+Art. 132. - Gli iscritti versano una tassa di iscrizione il cui ammontare viene stabilito anno per anno dal Consiglio di amministrazione su proposta del Senato accademico, udito il Consiglio del seminario. Il direttore del Seminario ripartisce le somme disponibili per il funzionamento tra le due sezioni in proporzione al numero dei rispettivi iscritti.  
+Gli articoli 134, 135 e 136 (ex 126, 127 e 128) relativi al Seminario di scienze geologiche, sono abrogati e sostituiti dai seguenti con il conseguente spostamento della successiva numerazione Art. 134. - Il Seminario di scienze geologiche ha lo scopo di approfondire la cultura geologica e di promuovere studi e ricerche nei campi delle scienze geologico-paleontologiche, mineralogico-petrograficihe, geografico-geofisiche, e delle scienze affini, pure ed applicate. L'attivita' del Seminario si svolge per mezzo di conferenze, convegni, comunicazioni, dimostrazioni scientifiche di laboratorio, escursioni di campagna, viaggi di studio e con qualsiasi altro mezzo possa servire allo scopo predetto.  
+Art. 135. - Il Seminario si articola in tre sezioni:  
+I - geologico paleontologica;  
+II - mineralogico - petrografica;  
+III - geografico - geofisica.  
+Art. 136. - Al Seminario appartengono i professori ufficiali delle discipline geologiche, mineralogiche e geofisiche della Facolta' di scienze, che costituiscono il Consiglio direttivo, e propongono al rettore la nomina di un direttore del Seminario scelto tra i professori di ruolo e fuori ruolo facenti parte del Consiglio stesso.  
+Il direttore resta in carica due anni ed e' coadiuvato dai capi delle sezioni direttamente designati dal Consiglio fra i propri membri.  
+Art. 137. - L'iscrizione al Seminario e' obbligatoria per gli studenti del secondo biennio in corso e fuori corso della laurea in Scienze geologiche e per quelli dell'indirizzo abiologico della laurea in Scienze naturali.  
+Possono iscriversi anche studenti di altri corsi di studi e di altre Facolta' (nonche' laureati e diplomati).  
+Dopo l'art. 139, e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli, relativi alla istituzione del Seminario matematico:  
+  
+Seminario matematico  
+  
+Art. 140. - Il Seminario matematico ha lo scopo di diffondere la cultura matematica e di promuovere studi e ricerche matematiche.  
+Art. 141. - Al Seminario e' preposto un direttore assistito da un Consiglio.  
+Il direttore e' e' un professore di ruolo delle discipline matematiche della Facolta' di scienze o di ingegneria, nominato da rettore, su proposta dei Consigli delle due Facolta'; fanno parte del Consiglio del seminario i professori ufficiali delle discipline matematiche.  
+Art. 142. - L'iscrizione al Seminario e' obbligatoria per gli studenti del secondo biennio del corso per la laurea in Matematica.  
+Possono iscriversi anche gli studenti in altre Facolta', nonche' i laureati e i laureandi fuori corso.  
+Art. 143. - A tutti gli iscritti e' fatto obbligo di versare all'atto dell'iscrizione i contributi che vengono stabiliti dal Consiglio di amministrazione su proposta del Senato accademico, udito il Consiglio del seminario.  
+Art. 144. - Il Seminario matematico pubblica, quando i fondi lo consentono, un bollettino sotto la direzione di un Comitato di redazione.  
+Art. 145. - Agli iscritti al Seminario puo' essere rilasciato un - certificato.  
+Art. 147. - Agli insegnamenti complementari del corso di laurea in Farmacia e' aggiunto quello di "Farmacia industriale".  
+Art. 153, agli insegnamenti complementari del corse di laurea in Scienze agrarie sono aggiunti i seguenti:  
+Economia di mercato dei prodotti agricoli;  
+Fisiopatologia vegetale;  
+Metodologia statistica in agricoltura;  
+Tecnica della meccanizzazione agricola;  
+Tecniche della conservazione dei prodotti agricoli  
+Art. 170, agli Istituti della Facolta' di ingegneria sono aggiunti i seguenti:  
+Istituto di idraulica;  
+Istituto di matematica applicata.  
+Dall'elenco degli stessi Istituti e' soppresso l'Istituto di idraulica e costruzioni idrauliche.  
+Art. 202, all'elenco delle materie integrative per la Scuola di perfezionamento in Filologia moderna sono aggiunti i seguenti insegnamenti:  
+Filologia medioevale e umanistica;  
+Storia della letteratura centro e sud americana;  
+Storia del teatro e dello spettacolo;  
+Storia della letteratura nord-americana;  
+Lingua e letteratura olandese e fiamminga;  
+Filologia italiana;  
+Storia della critica.  
+Art. 219. - Il primo capoverso e' abrogato e sostituito dal seguente:  
+"Al ramo di perfezionamento in Pedagogia possono iscriversi i laureati nelle Facolta' di lettere e filosofia, magistero e lingue".  
+Gli articoli 220 e 221, relativi al ramo di perfezionamento in psicologia ed in psicotecnica della Facolta' di magistero, sono abrogati e sostituiti dai seguenti:  
+Art. 220. - Titolo di ammissione al ramo di perfezionamento in psicologia e' una delle lauree conferito dalla Facolta' di magistero, lettere e filosofia, Giurisprudenza, Scienze matematiche, fisiche e naturali, Medicina.  
+Il numero dei candidati ammessi alla frequenza e' limitato ad un massimo di sei per anno.  
+Le materie costitutive per conseguire il diploma di perfezionamento nelle discipline psicologiche sono:  
+Psicologia;  
+Psicologia dell'eta' evolutiva;  
+Metodologia delle scienze del comportamento.  
+Il curriculum degli studi di ogni singolo candidato sara' fissato dal Consiglio della scuola a completamento del corso di studi precedentemente seguito, e comprendere, oltre alle materie costitutive, altre discipline scelte fra le seguenti:  
+Psicologia sociale;  
+Psicologia applicata;  
+Psicologia pedagogica;  
+Psicologia comparata;  
+Storia della psicologia;  
+Psicologia dinamica;  
+Psicologia industriale;  
+Tecnica dei metodi proiettivi;  
+Tecnica dei tests;  
+Psicometria;  
+Psicopatologia Filosofia;  
+Pedagogia;  
+Psicopedagogia;  
+Filosofia del linguaggio;  
+Filosofia della scienza;  
+Storia della scienza Epistemologia;  
+Sociologia;  
+Glottologia Antropologia;  
+Antropologia criminale;  
+Istituzioni matematiche;  
+Statistica;  
+Biologia generale;  
+Genetica Anatomia;  
+Fisiologia.  
+I candidati che avranno superato gli esami prescritti dal Consiglio direttivo (complessivamente non meno di sei) e ottemperato all'obbligo dell'internato di due anni nell'Istituto di psicologia sperimentale, saranno ammessi a discutere la tesi di perfezionamento, consistente in un contributo originale di argomento psicologico.  
+Art. 221. - Titolo di ammissione al ramo di specializzazione in psicotecnica e orientamento professionale e' una delle lauree conferite dalle Facolta' di Magistero, Lettere e filosofia, Giurisprudenza, Scienze politiche, Statistica, Medicina, Scienze matematiche fisiche e naturali, Ingegneria, Agraria.  
+Il numero dei candidati ammessi alla frequenza e' limitato al massimo di venti per anno. Le materie costitutive per ottenere il diploma di specializzazione in psicotecnica e orientamento professionale sono:  
+Psicologia;  
+Psicologia dell'eta' evolutiva;  
+Psicologia industriale;  
+Psicometria;  
+Psicologia dinamica;  
+Tecnica dei tests;  
+Tecnica dei metodi proiettivi;  
+Tecnica delle interviste e dell'orientamento professionale.  
+Il curriculum degli studi sara' fissato dal Consiglio della scuola per ogni singolo candidato, e comprendera' oltre alle materie costitutive, altre discipline scelte fra le seguenti:  
+Psicologia speciale;  
+Psicologia pedagogica;  
+Psicologia applicata;  
+Diagnostica psicologica;  
+Analisi motivazionale;  
+Psicopatologia;  
+Psicologia medica;  
+Psicopedagogia;  
+Istituzioni matematiche;  
+Sociologia;  
+Statistica;  
+Antropologia;  
+E' obbligatorio un internato di almeno due mesi in un Centro di orientamento professionale o in un Centro di psicologia applicata giudicato idoneo dal Consiglio direttivo. Possono essere iscritti direttamente al secondo anno i candidati che dopo la laurea abbiano acquistato particolare competenza nelle applicazioni della psicologia.  
+I candidati che avranno ottemperato all'obbligo della frequenza e dell'internato e superato gli esami prescritti dal Consiglio direttivo (complessivamente non meno di dodici), saranno ammessi a discutere una tesi di specializzazione consistente in un contributo originale in una delle materie del ramo di specializzazione".  
+Art. 344. - All'elenco delle Scuole di specializzazione della Facolta' di medicina e chirurgia e' aggiunta la seguente con il conseguente spostamento della successiva numerazione:  
+25) Scuola di neurochirurgia, che conferisce il diploma di "Specialista in neurochirurgia".  
+Art. 345. - Dopo l'ordinamento della Scuola di specializzazione di Chirurgia dell'infanzia e' aggiunto il seguente ordinamento, relativo alla Scuola di specializzazione in Neurochirurgia:  
+  
+Scuola di Neurochirurgia  
+(durata del corso anni 4)  
+  
+La Scuola di specializzazione in Neurochirurgia ha sede presso l'Istituto di neurochirurgia.  
+Potranno essere ammessi alla Scuola di specializzazione in Neurochirurgia i laureati in Medicina e chirurgia presso Universita' italiane. Il numero massimo degli allievi e' limitato ad un massimo di sei per ogni anno di corso.  
+La durata del corso e' di anni 4.  
+Le norme per l'iscrizione, per gli esami, per le tasse ecc. sono quelle generali per le Scuole di specializzazione e di perfezionamento riferite negli articoli relativi al presente statuto.  
+Non sono ammesse abbreviazioni di corso tranne su parere insindacabile del direttore della Scuola.  
+Al termine di ogni anno gli specializzandi per essere ammessi all'anno successivo devono essere in possesso della relativa documentazione di frequenza e devono aver superato gli esami di profitto.  
+Alla fine del 4° anno lo specializzando dovra' superare l'esame finale di diploma. Questo consistera' nella presentazione e discussione di una tesi scritta, preventivamente approvata, dal direttore della Scuola.  
+Agli specializzandi che abbiano ottenuto l'approvazione nell'esame finale verra' rilasciato un diploma con la qualifica di "Specialista in neurochirurgia".  
+Per la durata del corso e' obbligatoria la frequenza presso l'Istituto di neurochirurgia.  
+  
+Insegnamenti per i 4 anni di corso  
+  
+1° Anno:  
+1) Anatomia del sistema nervoso;  
+2) Fisiologia del sistema nervoso;  
+3) Semeiotica e clinica neurologica;  
+4) Fondamenti di clinica psichiatrica.  
+2° Anno:  
+1) Elettroencefalografia in neurochirurgia;  
+2) Neuro-oftalmologia;  
+3) Otolaringologia in neurochirurgia;  
+4) Clinica neurochirurgica (triennale).  
+3° Anno:  
+1) Neuro-radiologia;  
+2) Neuropatologia;  
+3) Fondamenti di anestesia neurochirurgica;  
+4) Clinica neurochirurgica (triennale).  
+4° Anno:  
+1) Clinica neurochirurgica (triennale);  
+2) Tecnica operatoria del sistema nervoso.  
+L'esame di clinica neurochirurgica sara' sostenuto alla fine del 4° anno.  
+Valgono tutte le norme di carattere generale relative alle Scuole di perfezionamento nelle specialita' medicochirurgiche previsto dal vigente statuto universitario.  
+  
 
- IL PRESIDENTE DELLA REPUBBLICA   
-  
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
-  
-Decreta:   
-  
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-Gli articoli da 177 a 188, relativi alla facolta' di ingegneria, sono abrogati e sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi.   
-  
-Art. 177. - La facolta' di ingegneria conferisce le seguenti lauree:   
-1) Laurea in ingegneria civile (sezioni: edili, idraulica, trasporti);   
-2) Laurea in ingegneria meccanica;   
-3) Laurea in ingegneria elettrotecnica;   
-4) Laurea in ingegneria elettronica;   
-5) Laurea in ingegneria chimica.   
-La durata del corso di studi e' di cinque anni, comprensivi del biennio di studi propedeutici e del triennio di studi applicativi.  
-Ciascun corso di laurea e' articolato in piu' indirizzi di specializzazione.   
-Art. 178. - Gli insegnamenti si distinguono, per ciascun corso di laurea, in:   
-a) obbligatori;   
-b) di indirizzo, a scelta dello studente per gruppi di materie.   
-Gli insegnamenti possono essere pieni, detti anche annuali, e ridotti, detti anche semestrali.   
-Gli insegnamenti di cui alla lettera a) sono indicati per ogni corso di laurea nel successivo art. 179.   
-Il consiglio di facolta' (a norma del [decreto del Presidente della Repubblica n. 827 del 27 settembre 1970](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-09-27;827)) fissa anno per anno, per ciascun corso di laurea:   
-gli indirizzi di specializzazione che intende attuare;   
-gli insegnamenti di cui alla lettera b), per ogni indirizzo, scegliendoli nell'elenco generale riportato nel successivo art. 180; il numero di ore a disposizione per ogni insegnamento, sia obbligatorio sia di indirizzo, e la ripartizione di esse nell'anno; la distribuzione degli insegnamenti negli anni di corso;   
-le propedeuticita';   
-le procedure d'esame;   
-le condizioni per l'iscrizione a ciascun anno di corso.   
-Il numero complessivo degli insegnamenti pieni (o il numero equivalente di insegnamenti pieni e ridotti) per ciascun corso quinquennale di laurea non sara' superiore a trenta ne' inferiore a ventisette. A tale fine, due insegnamenti ridotti equivalgono ad un insegnamento pieno.   
-L'identita' di denominazione di insegnamenti impartiti in diversi indirizzi non comporta necessariamente identita' di programma o di trattazione.   
-In corrispondenza alla stessa denominazione, quando la sua ampiezza lo richieda, la materia puo' essere frazionata in piu' insegnamenti pieni, distinti, in successione di tempo, ognuno dei quali con validita' annuale.   
-Alcuni insegnamenti potranno essere mutuati da altre facolta' dell'Universita' di Padova.   
-Art. 179. - Gli insegnamenti obbligatori nei diversi corsi di laurea sono quelli qui di seguito elencati.   
-Corso di laurea in ingegneria civile (sezione edile) Insegnamenti obbligatori sul piano nazionale:   
-1) Analisi matematica I;   
-2) Geometria I;   
-3) Fisica I;   
-4) Chimica;   
-5) Disegno;   
-6) Analisi matematica II;   
-7) Meccanica razionale;   
-8) Fisica II;   
-9) Geometria II;   
-10) Scienza delle costruzioni;   
-11) Meccanica applicata alle macchine e macchine;   
-12) Fisica tecnica;   
-13) Elettrotecnica;   
-14) Idraulica;   
-15) Tecnologia dei materiali e chimica applicata;   
-16) Tecnica delle costruzioni;   
-17) Architettura tecnica;   
-18) Topografia;   
-19) Architettura e composizione architettonica.   
-Insegnamenti obbligatori sul piano della facolta':   
-20) Elementi di calcolo numerico e programmazione;   
-21) Complementi di scienza delle costruzioni;   
-22) Composizione urbanistica;   
-23) Costruzione di ponti;   
-24) Geotecnica.   
-Corso di laurea in ingegneria civile (sezione idraulica)   
-Insegnamenti obbligatori sul piano nazionale:   
-1) Analisi matematica I;   
-2) Geometria I;   
-3) Fisica I;   
-4) Chimica;   
-5) Disegno;   
-6) Analisi matematica II;   
-7) Meccanica razionale;   
-8) Fisica II;   
-9) Elementi di calcolo numerico e programmazione;   
-10) Scienza delle costruzioni;   
-11) Meccanica applicata alle macchine e macchine;   
-12) Fisica tecnica;   
-13) Elettrotecnica;   
-14) Idraulica;   
-15) Tecnologia dei materiali e chimica applicata;   
-16) Tecnica delle costruzioni;   
-17) Architettura tecnica;   
-18) Topografia;   
-19) Costruzioni idrauliche.   
-Insegnamenti obbligatori sul piano della facolta':   
-20) Complementi di scienza delle costruzioni;   
-21) Geotecnica;   
-22) Idromeccanica applicata;   
-23) Idrografia e idrologia;   
-24) Costruzioni marittime.   
-Corso di laurea in ingegneria civile (sezione trasporti)   
-Insegnamenti obbligatori sul piano nazionale:   
-1) Analisi matematica I;   
-2) Geometria I;   
-3) Fisica I;   
-4) Chimica;   
-5) Disegno;   
-6) Analisi matematica II;   
-7) Meccanica razionale;   
-8) Fisica II;   
-9) Geometria II;   
-10) Scienza delle costruzioni;   
-11) Meccanica applicata alle macchine e macchine;   
-12) Fisica tecnica;   
-13) Elettrotecnica;   
-14) Idraulica;   
-15) Tecnologia dei materiali e chimica applicata;   
-16) Tecnica delle costruzioni;   
-17) Architettura tecnica;   
-18) Topografia;   
-19) Costruzione di strade, ferrovie ed aeroporti.   
-Insegnamenti obbligatori sul piano della facolta':   
-20) Elementi di calcolo numerico e programmazione;   
-21) Complementi di scienza delle costruzioni;   
-22) Costruzione di ponti;   
-23) Geotecnica;   
-24) Tecnica ed economia dei trasporti.   
-Corso di laurea in ingegneria meccanica   
-Insegnamenti obbligatori sul piano nazionale:   
-1) Analisi matematica I;   
-2) Geometria I;   
-3) Fisica I;   
-4) Chimica;   
-5) Disegno;   
-6) Analisi matematica II;   
-7) Meccanica razionale;   
-8) Fisica II;   
-9) Elementi di calcolo numerico e programmazione;   
-10) Scienza delle costruzioni;   
-11) Meccanica applicata alle macchine;   
-12) Fisica tecnica;   
-13) Elettrotecnica;   
-14) Idraulica;   
-15) Chimica applicata;   
-16) Macchine;   
-17) Costruzione di macchine;   
-18) Impianti meccanici;   
-19) Tecnologia meccanica.   
-Insegnamenti obbligatori sul piano della facolta':   
-20) Economia ed organizzazione aziendale;   
-21) Misure meccaniche e termiche;   
-22) Scienza dei materiali;   
-23) Termodinamica applicata.   
-Corso di laurea in ingegneria elettrotecnica   
-Insegnamenti obbligatori sul piano nazionale:   
-1) Analisi matematica I;   
-2) Geometria I;   
-3) Fisica I;   
-4) Chimica;   
-5) Disegno;   
-6) Analisi matematica II;   
-7) Meccanica razionale;   
-8) Fisica II;   
-9) Elementi di calcolo numerico e programmazione;   
-10) Scienza delle costruzioni;   
-11) Meccanica applicata alle macchine;   
-12) Fisica tecnica;   
-13) Elettrotecnica;   
-14) Idraulica;   
-15) Misure elettriche;   
-16) Macchine;   
-17) Macchine elettriche;   
-18) Impianti elettrici;   
-19) Elettronica applicata.   
-Insegnamenti obbligatori sul piano della facolta':   
-20) Metodi matematici per l'ingegneria;   
-21) Controlli automatici;   
-22) Trasmissione dell'energia elettrica;   
-23) Economia ed organizzazione aziendale.   
-Corso di laurea in ingegneria elettronica   
-Insegnamenti obbligatori sul piano nazionale:   
-1) Analisi matematica I;   
-2) Geometria I;   
-3) Fisica I;   
-4) Chimica;   
-5) Disegno;   
-6) Analisi matematica II;   
-7) Meccanica razionale;   
-8) Fisica II;   
-9) Elementi di calcolo numerico e programmazione   
-10) Scienze delle costruzioni;   
-11) Meccanica delle macchine e macchine;   
-12) Fisica tecnica;   
-13) Elettrotecnica;   
-14) Campi elettromagnetici e circuiti;   
-15) Misure elettriche;   
-16) Comunicazioni elettriche;   
-17) Elettronica applicata;   
-18) Controlli automatici;   
-19) Radiotecnica.   
-Insegnamenti obbligatori sul piano della facolta':   
-20) Metodi matematici per l'ingegneria;   
-21) Statistica e calcolo delle probabilita';   
-22) Misure elettroniche;   
-23) Economia ed organizzazione aziendale.   
-Corso di laurea in ingegneria chimica   
-Insegnamenti obbligatori sul piano nazionale:   
-1) Analisi matematica I;   
-2) Geometria I;   
-3) Fisica I;   
-4) Chimica;   
-5) Disegno;   
-6) Analisi matematica II;   
-7) Meccanica razionale;   
-8) Fisica II;   
-9) Chimica organica;   
-10) Scienza delle costruzioni;   
-11) Meccanica applicata alle macchine;   
-12) Fisica tecnica;   
-13) Elettrotecnica;   
-14) Chimica applicata;   
-15) Macchine;   
-16) Chimica fisica;   
-17) Chimica industriale;   
-18) Principi di ingegneria chimica;   
-19) Impianti chimici.   
-Insegnamenti obbligatori sul piano della facolta':   
-20) Elementi di calcolo numerico e programmazione;   
-21) Teoria e sviluppo dei processi chimici;   
-22) Strumentazione chimica;   
-23) Economia ed organizzazione aziendale.   
-Art. 180. - Elenco generale degli insegnamenti che possono essere impartiti (l'elenco comprende, per completezza, anche gli insegnamenti obbligatori gia' elencati all'art. 179):   
-  
-Acquedotti e fognature;   
-Acustica applicata e illuminotecnica;   
-Aerodinamica applicata;   
-Affidabilita' e controllo statistico della qualita';   
-Algebra e logica matematica;   
-Analisi e simulazione dei processi;   
-Analisi matematica I;   
-Analisi matematica II;   
-Analisi sperimentale delle tensioni;   
-Apparecchi ed impianti di sollevamento e di trasporto;   
-Applicazioni dei calcolatori elettronici;   
-Architettura degli interni;   
-Architettura e composizione architettonica;   
-Architettura industriale;   
-Architettura tecnica;   
-Automazione ed organizzazione sanitaria;   
-Automi e linguaggi formali;   
-Bacini montani e conservazione del suolo;   
-Biometria;   
-Bioingegneria;   
-Calcolatori elettronici;   
-Calcolo automatico delle strutture;   
-Calcolo numerico;   
-Campi elettromagnetici e circuiti;   
-Catalisi industriale;   
-Centrali elettriche;   
-Chimica;   
-Chimica applicata;   
-Chimica fisica;   
-Chimica fisica applicata;   
-Chimica industriale;   
-Chimica organica;   
-Cinetica chimica applicata;   
-Compilatori e sistemi operativi;   
-Complementi di architettura tecnica;   
-Complementi di chimica industriale;   
-Complementi di controlli automatici;   
-Complementi di costruzione di macchine;   
-Complementi di costruzioni idrauliche;   
-Complementi di costruzioni stradali;   
-Complementi di elettronica applicata;   
-Complementi di fisica;   
-Complementi di fisica tecnica;   
-Complementi di macchine;   
-Complementi di macchine elettriche;   
-Complementi di ponti;   
-Complementi di scienza delle costruzioni;   
-Complementi di trasmissione dell'energia elettrica;   
-Componenti elettronici;   
-Composizione urbanistica;   
-Comunicazioni elettriche;   
-Controlli automatici;   
-Controllo dei processi chimici;   
-Controllo di processi;   
-Conversione statica dell'energia elettrica;   
-Corrosione e protezione dei materiali;   
-Costruzione di apparati elettrici;   
-Costruzione di apparecchi chimici;   
-Costruzione di macchine;   
-Costruzione di macchine elettriche;   
-Costruzione di ponti;   
-Costruzione di strade, ferrovie ed aeroporti;   
-Costruzioni idrauliche;   
-Costruzioni industriali;   
-Costruzioni marittime;   
-Criogenia;   
-Difesa della natura e dell'ambiente;   
-Dinamica delle costruzioni;   
-Dinamica dei sistemi elettrici;   
-Diritto del lavoro;   
-Disegno I;   
-Disegno II;   
-Disegno di macchine;   
-Economia applicata all'ingegneria;   
-Economia delle fonti di energia;   
-Economia ed estimo civile;   
-Economia ed estimo industriale;   
-Economia ed organizzazione aziendale;   
-Economia urbana e regionale;   
-Elaborazione automatica delle informazioni;   
-Elementi costruttivi degli autoveicoli;   
-Elementi costruttivi delle macchine;   
-Elementi di calcolo numerico e programmazione;   
-Elementi di economia e di econometria;   
-Elementi di fisica nucleare;   
-Elettromagnetismo;   
-Elettronica applicata;   
-Elettronica biomedica;   
-Elettronica industriale;   
-Elettronica quantistica;   
-Elettrotecnica;   
-Elettrotermia;   
-Fisica I;   
-Fisica II;   
-Fisica dello stato solido;   
-Fisica del plasma;   
-Fisica molecolare;   
-Fisica tecnica;   
-Fluodinamica chimico-fisica;   
-Forni per l'industria chimica;   
-Gasdinamica;   
-Gas ionizzati;   
-Geodesia;   
-Geologia applicata e meccanica delle rocce;   
-Geometria I;   
-Geometria II;   
-Geotecnica;   
-Idraulica;   
-Idraulica agraria;   
-Idrogeologia;   
-Idrografia e idrologia;   
-Idromeccanica applicata;   
-Igiene applicata all'ingegneria;   
-Impianti chimici;   
-Impianti di trattamento delle acque e dei liquami;   
-Impianti elettrici;   
-Impianti idroelettrici;   
-Impianti meccanici;   
-Impianti nucleari;   
-Impianti per telecomunicazioni;   
-Impianti tecnici per l'edilizia;   
-Impianti termotecnici;   
-Industrializzazione edilizia;   
-Infortunistica;   
-Inquinamenti e depurazione dell'ambiente;   
-Istituzioni di diritto pubblico e privato;   
-Lavorazioni meccaniche;   
-Lavorazioni per deformazione plastica;   
-Legislazione urbanistica;   
-Litologia e geologia;   
-Macchinario idraulico;   
-Macchine;   
-Macchine elettriche;   
-Macchine per la lavorazione dei metalli;   
-Macchine speciali;   
-Materiali e componenti per la termotecnica;   
-Materiali per l'elettrotecnica;   
-Meccanica agraria;   
-Meccanica applicata alle macchine;   
-Meccanica applicata alle macchine e macchine;   
-Meccanica delle vibrazioni;   
-Meccanica dei fluidi;   
-Meccanica razionale;   
-Metallurgia e metallografia;   
-Metodi di osservazione e di misura;   
-Metodi matematici per l'ingegneria;   
-Microonde;   
-Misure di proprieta' termodinamiche e di trasporto;   
-Misure elettriche;   
-Misure elettroniche;   
-Misure idrauliche;   
-Misure meccaniche e termiche;   
-Misure sulle macchine e sugli impianti elettrici;   
-Misure sulle macchine e sugli impianti meccanici;   
-Modelli e simulazione di sistemi;   
-Motori a combustione interna per trazione;   
-Navigazione interna;   
-Opere in materiali sciolti;   
-Organizzazione del lavoro;   
-Organizzazione di officina;   
-Organizzazione e meccanizzazione del cantiere;   
-Ottica elettronica;   
-Ottimizzazione;   
-Pianificazione territoriale;   
-Previsioni e ricerche di mercato;   
-Principi di ingegneria chimica;   
-Principi di regolazione automatica;   
-Processi chimici bioinorganici;   
-Produzione di energia elettrica per conversione diretta;   
-Progettazione di sistemi numerici;   
-Progetti di macchine;   
-Progetti di strutture;   
-Programmazione e controllo della produzione;   
-Programmazione e controllo economico di gestione;   
-Propagazione ed antenne;   
-Propulsione marittima e aerea;   
-Prove ad alta tensione;   
-Radiotecnica;   
-Reattori chimici;   
-Regime e protezione dei litorali;   
-Ricerca operativa;   
-Rilievo e restauro;   
-Risorse idriche;   
-Scienza dei materiali;   
-Scienza delle costruzioni;   
-Siderurgia e fonderia;   
-Similitudine chimica ed impianti pilota;   
-Sintesi delle alte pressioni;   
-Sistemazione dei corsi d'acqua;   
-Sistemi combinatori e sequenziali;   
-Sistemi di trasmissione di immagini;   
-Sistemi informativi aziendali;   
-Statistica e calcolo delle probabilita';   
-Storia dell'architettura;   
-Storia dell'urbanistica;   
-Storia e metodologia della tecnica;   
-Strumentazione biomedica;   
-Strumentazione chimica;   
-Strumentazione per impianti chimici;   
-Strutture speciali in acciaio;   
-Strutture speciali in cemento armato;   
-Tecnica dei lavori idraulici;   
-Tecnica del freddo;   
-Tecnica della circolazione ed organizzazione dei trasporti;   
-Tecnica delle alte tensioni;   
-Tecnica delle costruzioni;   
-Tecnica delle fondazioni;   
-Tecnica del vuoto;   
-Tecnica ed economia dei trasporti;   
-Tecnica urbanistica;   
-Tecnologia degli alti polimeri;   
-Tecnologia dei fluidi non newtoniani;   
-Tecnologia dei materiali e chimica applicata;   
-Tecnologia dei materiali inorganici;   
-Tecnologia delle reazioni organiche;   
-Tecnologia del petrolio;   
-Tecnologie elettriche;   
-Tecnologie elettroniche;   
-Tecnologie meccaniche;   
-Telecomunicazioni;   
-Telefonia e trasmissione dati;   
-Teoria dei processi aleatori;   
-Teoria dei segnali;   
-Teoria dei sistemi;   
-Teoria della identificazione;   
-Teoria delle decisioni;   
-Teoria delle reti elettriche;   
-Teoria e sviluppo dei processi chimici;   
-Termodinamica applicata;   
-Topografia;   
-Trasmissione dell'energia elettrica;   
-Trasporti aerei;   
-Trasporti marittimi;   
-Trasporti terrestri;   
-Trazione elettrica;   
-Vettori e veicoli spaziali;   
-Viabilita' e traffico.   
-Art. 181. - Gli insegnamenti si svolgono sotto forma di lezioni e di esercitazioni pratiche di calcolo, disegno, progettazione, sperimentazione.   
-La frequenza alle lezioni ed alle esercitazioni e' attestata con le modalita' disposte dal consiglio di facolta'.   
-Art. 182. - Il consiglio di facolta' delibera sulle domande di trasferimento da uno ad altro corso di laurea, nonche' sui piani di studio degli studenti provenienti da altre sedi o facolta'.   
-Art. 183. - Gli esami di profitto possono avere forma orale e scritta ed essere integrati da prove grafiche e di laboratorio; possono comprendere la discussione di elaborati, progetti ed esperienze svolti dal candidato sotto la direzione ed il controllo degli insegnanti.   
-Art. 184. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti prescritti per il corso di laurea prescelto. Lo studente deve presentare allo esame uno o piu' elaborati, attinenti alle materie della specialita' in cui intende laurearsi, svolti sotto il controllo degli insegnanti di tali materie, con le modalita' stabilite dal consiglio di facolta'.   
-L'esame di laurea consiste nella discussione di detti elaborati, estesa in modo da accertare le cognizioni del candidato nelle materie fondamentali ed in quelle speciali attinenti alla laurea da lui scelta.   
-Il consiglio di facolta' puo' anche disporre un accertamento della preparazione dello studente prima della laurea. Tale accertamento non ha carattere eliminatorio.   
-Art. 185. - La facolta' e' articolata in istituti, da attuare, previo parere favorevole del consiglio di amministrazione, nell'ambito del seguente elenco:   
-  
-Biblioteca centrale;   
-Istituto di architettura e di urbanistica;   
-Istituto di chimica per ingegneria;   
-Istituto di chimica industriale;   
-Istituto di costruzioni marittime e di geotecnica;   
-Istituto di costruzioni, ponti e strade;   
-Istituto di disegno;   
-Istituto di elettrotecnica e di elettronica;   
-Istituto di fisica per ingegneria;   
-Istituto di fisica tecnica;   
-Istituto di idraulica;   
-Istituto di impianti chimici;   
-Istituto di macchine;   
-Istituto di matematica applicata;   
-Istituto di meccanica applicata alle macchine;   
-Istituto di organizzazione aziendale;   
-Istituto di scienza delle costruzioni ed annesso laboratorio per le prove di materiali da costruzione;   
-Istituto di topografia.   
-In rapporto alle esigenze funzionali, gli istituti possono essere raggruppati, per deliberazione del consiglio di facolta' approvata dal consiglio di amministrazione.   
-A ciascun istituto, o gruppo di istituti, e' preposto un direttore, designato dal consiglio di facolta'.   
-Art. 186. - Alla facolta' di ingegneria sono annessi corsi di perfezionamento in alcune discipline (vedi titolo XIX).   
-Gli articoli da 348 a 368, relativi ai corsi di perfezionamento ed alla scuola di specializzazione in organizzazione aziendale, sono abrogati e sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi.   
-Titolo XIX   
-Art. 348. - Sono annessi alla facolta' di ingegneria i seguenti corsi di perfezionamento, la cui attuazione viene decisa anno per anno dal consiglio di facolta':   
-1) Corso di perfezionamento in idraulica sperimentale presso l'istituto di idraulica;   
-2) Corso di perfezionamento in idrografia e idrologia, presso l'istituto di idraulica;   
-3) Corso di perfezionamento in tecnica del traffico, presso l'istituto di costruzioni, ponti e strade;   
-4) Corso di perfezionamento in tecnica motoristica, presso l'istituto di macchine;   
-5) Corso di perfezionamento in tecnica del freddo, presso l'istituto di fisica tecnica;   
-6) Corso di perfezionamento in elettrotecnica sperimentale, presso l'istituto di elettrotecnica e di elettronica;   
-7) Corso di perfezionamento in elettronica sperimentale, presso l'istituto di elettrotecnica e di elettronica;   
-8) Corso di perfezionamento in chimica industriale, presso l'istituto di chimica industriale;   
-9) Corso di perfezionamento in sistemi di controllo, presso l'istituto di elettrotecnica e di elettronica;   
-10) Corso di perfezionamento in sistemi di elaborazione e trasmissione dell'informazione, presso lo istituto di elettrotecnica e di elettronica;   
-11) Corso di perfezionamento in ingegneria del territorio, presso l'istituto di architettura ed urbanistica;   
-12). Corso di perfezionamento in geotecnica, presso l' istituto di costruzioni marittime e geotecnica.   
-Art. 349. - I corsi hanno la durata di un anno accademico e sono diretti dai rispettivi direttori d'istituto o da professori ufficiali da essi delegati con approvazione del consiglio.   
-Art. 350. - Titoli di ammissione ai corsi sono, di regola, i seguenti:   
-« Idraulica sperimentale » e « idrografia e idrologia »: laurea in ingegneria civile, elettrotecnica o meccanica;   
-per « tecnica del traffico »: laurea in ingegneria civile o meccanica;   
-per « tecnica motoristica »: laurea in ingegneria meccanica;   
-per «tecnica del freddo »: laurea in ingegneria meccanica, elettrotecnica o chimica;   
-per «elettrotecnica sperimentale» o «elettronica sperimentale »: laurea in ingegneria elettrotecnica od elettronica;   
-per «chimica industriale»: laurea in ingegneria chimica, in chimica o in chimica industriale;   
-per «sistemi di controllo» e « sistemi di elaborazione e trasmissione dell'informazione »: laurea in ingegneria elettrotecnica, elettronica, meccanica, in matematica o in fisica;   
-per « ingegneria del territorio »: laurea in ingegneria civile, elettronica, in matematica, in scienze statistiche, in scienze economiche e commerciali, in architettura;   
-per «geotecnica »: laurea in ingegneria civile,   
-Art. 351. - Il numero massimo degli iscritti a ciascun corso viene fissato per ogni anno accademico dal consiglio di facolta' che giudica anche dell'accettazione delle domande di iscrizione.   
-Il consiglio di facolta' puo', caso per caso, deliberare su proposta del direttore del corso, sull'ammissione di laureati in discipline diverse da quelle previste nonche' di laureati all'estero.   
-Art. 352. - Le modalita' di iscrizione e di svolgimento di ciascun corso sono approvate anno per anno con delibere del consiglio di facolta' su proposta del direttore del corso e sono rese note con apposito comunicato.   
-Art. 353. - Il profitto conseguito dall'allievo nei vari insegnamenti e l'eventuale attivita' di ricerca sperimentale vengono valutati in una o piu' prove d'esame da commissioni, composte dal direttore del corso, che ne e' il presidente, e da due membri designati dal consiglio di facolta'. L'esito favorevole della prova finale viene riconosciuto mediante rilascio di un certificato, attestante la specializzazione nella disciplina cui il corso si intitola.   
-Art. 354. - Le tasse di iscrizione e le soprattasse sono fissate in L. 40.000 annue; i contributi vengono annualmente fissati dal consiglio di amministrazione, su proposta del consiglio di facolta'.   
-Scuola di specializzazione in organizzazione aziendale   
-Art. 355. - Alla facolta' di ingegneria dell'Universita' degli studi di Padova e' annessa la scuola di specializzazione in organizzazione aziendale, con il compito di diffondere e promuovere la conoscenza dei principi e delle tecniche dell'organizzazione e della conduzione di imprese ed enti, e di effettuare ricerche nel campo degli studi di organizzazione aziendale.   
-Il funzionamento della scuola e' assicurato dal consorzio universitario per gli studi di organizzazione aziendale, nel seguito denominato CUOA, costituito presso l'Universita' di Padova, con convenzione-statuto in data 20 luglio 1970, repertorio n. 1381.   
-Art. 356. - La scuola conferisce diplomi in organizzazione aziendale ed attestati di frequenza.   
-La durata dei corsi di diploma e' di due anni.   
-Art. 357. - Alla scuola possono essere iscritti laureati in universita' italiane e straniere.   
-Il consiglio della scuola puo' anche accogliere non laureati, con piani particolari di studio.   
-Il numero degli iscritti, per ciascun anno di corso, e' determinato dal consiglio di amministrazione del CUOA.   
-La selezione dei candidati e' fatta da una commissione nominata dal direttore della scuola e che decide a suo insindacabile giudizio.   
-Art. 358. - Per il conseguimento del diploma sono fondamentali i seguenti insegnamenti:   
-Comportamento organizzativo;   
-Finanza e controllo aziendale;   
-Marketing;   
-Organizzazione della produzione;   
-Organizzazione e politica aziendale;   
-Relazioni industriali;   
-Metodi quantitativi.   
-Altri insegnamenti possono essere attivati fra seguenti:   
-Analisi dei sistemi aziendali;   
-Analisi delle strutture distributive;   
-Automazione;   
-Dinamica di gruppo;   
-Economia delle aziende pubbliche;   
-Economia delle imprese bancarie; Economia ed organizzazione dellr aziende di distribuzione;   
-Economia industriale;   
-Finanziamenti di impresa;   
-Fondamenti di legislazione aziendale;   
-Informistica;   
-Istituzioni economiche europee;   
-L'azienda ed il contesto socio-economico;   
-Localizzazione industriale;   
-Marketing dei beni strumentali;   
-Marketing internazionale,   
-Matematiche aziendali;   
-Organizzazione del lavoro;   
-Politica sindacale;   
-Politiche di ricerca e sviluppo;   
-Politiche finanziarie internazionali;   
-Pubblicita' e promozione vendite;   
-Ricerca operativa;   
-Sistema tributario e decisioni aziendali;   
-Sistemi di elaborazione automatica delle informazioni;   
-Sviluppo tecnologico nell'impresa;   
-Tecnica della programmazione aziendale;   
-Tecnica delle prvisioni e ricerche di mercato;   
-Tecnica delle revisioni aziendali;   
-Tecniche di amministrazione del personale;   
-Teorie delle decisioni.   
-Il consiglio della scuola puo' stabilire particolari piani di studio, in relazione ai titoli di studio e professionali presentati dagli iscritti.   
-L'insegnamento delle materie sopra indicate e' impartito mediante analisi e discussioni di casi, esercitazioni pratiche, lezioni integrative, conferenze, partecipazione a progetti di ricerca.   
-Art. 359. - Il profitto degli allievi e' riconosciuto dai docenti con accertamenti durante il corso e mediante prove d'esame al termine di esso.   
-Al compimento del biennio, gli aspiranti al diploma debbono sostenere un colloquio generale e la discussione di una dissertazione scritta approvata da un docente della scuola.   
-La commissione per l'esame di diploma e' composta dal direttore della scuola, che la presiede, da quattro docenti di essa e da due esperti in orgamzzazione aziendale.   
-Agli iscritti sprovvisti di laurea o che abbiano seguito un piano di studi particolare viene rilasciato un attestato di frequenza con l'indicazione degli esami superati.   
-Art. 360. - Gli organi della scuola sono:   
-1) il direttore;   
-2) il consiglio.   
-Il direttore della scuola viene nominato dal rettore dell'Universita', su proposta del consiglio di amministrazione del CUOA. Egli dura in carica un biennio e puo' essere confermato; a uno dei docenti puo' essere conferita la qualifica di vice direttore.   
-Il consiglio e' formato, oltre che dal direttore che lo presiede dai docenti incaricati degli insegnamenti fondamentali, nominati dal rettore dell'Universita' su proposta dei direttore della scuola, sentito il consiglio della facolta' di ingegneria, approvata dal consiglio di amministrazione del CUOA.   
-Il consiglio coordina ed approva i programmi d'insegnamento e delibera in ordine a tutti i problemi specifici della didattica anche per quanto concerne la disciplina, e fissa i criteri per la selezione dei candidati per ciascun anno di corso.   
-Art. 361. - I docenti della scuola possono essere coadiuvati, nell'attivita' di insegnamento e di ricerca, da collaboratori cui vengono affidati compiti particolari dal direttore, d'intesa con il consiglio della scuola e con l'approvazione del consiglio di amministrazione del CUOA.   
-Art. 362. - Gli iscritti alla scuola sono tenuti al versamento della tassa di iscrizione di L. 50.000 annue e dei contributi proposti dal consiglio di amministrazione del CUOA, nel rispetto dei regolamenti dell'Universita' degli studi di Padova.   
-II presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 31 ottobre 1973   
-LEONE   
-MALFATTI   
-Visto. il G1Iardasigilli: ZAGARI   
-Registrato alla Corte del conti, addi' 31 maggio 1974   
-Atti di Governo, registro n. 3, foglio n. 53. - SCIARREITA   
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Dato a Roma, addi' 13 agosto 1964
+
+Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato alla Corte dei conti, addi' 16 novembre 1964
+
+Atti del Governo, registro n. 188, foglio n. 73. - DI PRETORO

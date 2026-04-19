@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1984 n. 661
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1974 n. 286
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1984 n. 661
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1974 n. 286
+============================================================
 
 Autorizzazione all'Associazione nazionale alpini, in Milano, ad acquistare un immobile.
 ---------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-661. Decreto del Presidente della Repubblica 17 maggio 1984, col quale, sulla proposta del Ministro della difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad acquistare, al prezzo di L. 5.000.000, un terreno di mq 13.155 sito sul Monte Tomba, censito al nuovo catasto terreni del comune di Cavaso del Tomba (Treviso) per mq 8.125, foglio 5 (ex B-1), mappale 34 e foglio 6 (ex B-2), mappale 1, e al nuovo catasto terreni del comune di Alano del Piave (Belluno) per mq 5.030, foglio 39, mappale 101 di proprieta' dei signori Antonia e Giuseppe Foggiato.  
+286. Decreto del Presidente della Repubblica 2 marzo 1974, col quale, sulla proposta del Ministro per la difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad acquistare, per adibirla a sede della dipendente sezione di Biella, dall'impresa Cantone e Maggia, al prezzo di L. 27.000.000, l'unita' immobiliare situata parte al piano terreno e parte al piano seminterrato del fabbricato denominato condominio "Mimosa", in Biella, via Delleani n. 33, sulle particelle catastali indicate col mappale 56 sub L e 57 sub A del foglio 53; unita' meglio specificata nella scrittura privata stipulata dalle parti il 20 aprile 1972.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 14 settembre 1984  
-Registro n. 32 Difesa, foglio n. 332
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 11 luglio 1974  
+Atti di Governo, registro n. 4, foglio n. 50. - SCIARRETTA

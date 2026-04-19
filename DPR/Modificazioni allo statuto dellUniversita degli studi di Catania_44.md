@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1982 n. 246
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1968 n. 161
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1982 n. 246
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1968 n. 161
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Catania.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto n. 1073 del 20 aprile 1939](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073); e modificato con [regio decreto n. 1527 del 16 ottobre 1940](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Catania approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,48 +18,78 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti delle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 19. - Il penultimo comma e' abrogato e sostituito dal seguente:
 
+L'insegnamento triennale delle lingue estere comporta per ciascuna di esse un unico esame, con una prova scritta ed una orale, alla fine del triennio.
+
+Lo studente che non abbia ottenuto la sufficienza nella prova scritta, non puo' essere ammesso a sostenere la prova orale.
+
+Art. 28, relativo al corso di laurea in lettere, il primo comma e' abrogato e sostituito dal seguente:
+
+Gli insegnamenti di "storia greca" e di "storia romana" sono scissi nei due insegnamenti distinti e contemporanei di "storia greca" e di "storia romana" (con esercitazioni di epigrafia romana).
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 12 febbraio 1968
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 7 marzo 1963 Atti del Governo, registro n. 217, foglio n. 134. - GRECO
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Nell'art. 9, relativo al corso di laurea in giurisprudenza, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento: diritto processuale generale.  
-L'art. 10 e' soppresso e sostituito dal seguente:  
-"L'esame di laurea consiste nella presentazione e discussione di una dissertazione scritta su un tema tratto da uno degli insegnamenti del corso di laurea.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in tre da lui scelti tra i complementari.  
-L'insegnamento biennale di diritto amministrativo comporta un esame alla fine di ciascun anno di corso.  
-Il candidato puo' chiedere inoltre di svolgere oralmente uno o piu' argomenti da lui scelti in precedenza in materie diverse tra loro e da quelle della dissertazione scritta.  
-Tanto la dissertazione scritta, che, eventualmente, il titolo degli argomenti orali, debbono essere presentati in segreteria almeno quindici giorni prima della data fissata per gli esami di laurea.  
-Sono respinte le dissertazioni scritte ed i titoli degli argomenti orali che pervengono in segreteria con ritardo".  
-Nell'art. 11 e' soppressa la frase contrassegnata con la lettera f) e sostituita dalla seguente:  
-"Il diritto costituzionale per il diritto amministrativo e per il diritto ecclesiastico".  
+Veduto lo statuto dell'Universita' degli studi di Catania approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 19. - Il penultimo comma e' abrogato e sostituito dal seguente:  
+  
+L'insegnamento triennale delle lingue estere comporta per ciascuna di esse un unico esame, con una prova scritta ed una orale, alla fine del triennio.  
+Lo studente che non abbia ottenuto la sufficienza nella prova scritta, non puo' essere ammesso a sostenere la prova orale.  
+Art. 28, relativo al corso di laurea in lettere, il primo comma e' abrogato e sostituito dal seguente:  
+  
+Gli insegnamenti di "storia greca" e di "storia romana" sono scissi nei due insegnamenti distinti e contemporanei di "storia greca" e di "storia romana" (con esercitazioni di epigrafia romana).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 febbraio 1982
+### Dato a Roma, addi' 12 febbraio 1968
 
-PERTINI BODRATO
+SARAGAT GUI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 24 aprile 1982
+Registrato alla Corte dei conti, addi' 7 marzo 1963
 
-Registro n. 58 Istruzione, foglio n. 170
+Atti del Governo, registro n. 217, foglio n. 134. - GRECO

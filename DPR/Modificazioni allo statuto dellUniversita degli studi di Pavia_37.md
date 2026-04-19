@@ -1,196 +1,106 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1973 n. 1068
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1968 n. 1408
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1973 n. 1068
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1968 n. 1408
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla
------
-
-proposta del Ministro per la pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-All'elenco delle lauree e dei diplomi, di cui alla tabella 1, annessa al [regio decreto 30 settembre 1938, numero 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e' aggiunto il seguente: diploma di paleografia e filologia musicale.  
-Tale diploma potra' essere rilasciato a partire dall'anno accademico 1973-74 dalla scuola di paleografia e filologia musicale, annessa all'Universita' di Pavia.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) o modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti suindicati, e' ulteriormente modificato nel senso che gli articoli da 337 a 348, contenenti le norme relative all'ordinamento della scuola diretti a fini speciali in paleografia e filologia musicale, sono abrogati e sostituiti da quelli riportati nel testo annesso al presente decreto e vistati dal Ministro per la pubblica istruzione.  
+Decreta:   
+  
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+  
+Art. 46 (gia' 45), relativo alla facolta' di scienze matematiche, fisiche e naturali, l'ultimo comma e' abrogato e sostituito dai seguenti:   
+"Sono titoli di ammissione ai vari corsi di laurea della facolta' il diploma di maturita' classica e di maturita' scientifica, ed i diplomi degli istituti tecnici industriali, nautici, agrari, e per geometri, e, limitatamente ai corsi per le lauree in scienze biologiche, in scienze naturali e in chimica, il diploma degli istituti tecnici femminili.   
+La facolta' impartisce anche gli insegnamenti del biennio propedeutico d'ingegneria.   
+Titoli di ammissione al biennio propedeutico per le lauree in ingegneria sono il diploma di maturita' classica e scientifica, ed i diplomi degli istituti tecnici industriali, nautici e per geometri.   
+Art. 47 (gia' 46), relativo al corso di laurea in chimica, il secondo comma e' abrogato.   
+Nello stesso corso di laurea (indirizzo organico-biologico) sono aggiunti gli insegnamenti complementari di:   
+Chimica analitica strumentale;   
+Chimica delle sostanze organiche naturali.   
+Nello stesso corso di laurea (indirizzo inorganico-chimico-fisico) sono aggiunti gli insegnamenti complementari di:   
+Chimica analitica strumentale;   
+Cristallografia.   
+Dopo l'elenco degli insegnamenti complementari del corso di laurea in chimica, il 2° ed il 3° comma sono abrogati e sostituiti dal seguente: "Ciascuno dei tre insegnamenti di "Istituzioni di matematiche", di "Esercitazioni di matematiche" e di "Fisica sperimentale" importa due distinti esami annuali. L'esame relativo al primo corso deve precedere quello relativo al secondo".   
+Art. 48 (gia' 47), relativo al corso di laurea in fisica e' modificato come segue:   
+Il primo comma e' abrogato.   
+Dopo l'ottavo comma e' aggiunto il seguente: "I docenti delle discipline fisiche potranno attraverso opportuni colloqui, orientare la scelta dello studente".   
+L'elenco degli insegnamenti complementari dell'indirizzo generale per il quarto anno dello stesso corso di laurea e' abrogato e sostituito dal seguente:   
+4. Un corso scelto tra i seguenti: Algebra, Algebra superiore, Analisi funzionale, Analisi numerica, Analisi superiore, Astrofisica, Astronomia, Calcolo delle probabilita', Chimica fisica, Chimica teorica, Cibernetica e Teoria dell'informazione, Elettronica, Fisica dei neutroni, Fisica dello stato solido, Fisica dei plasmi, Fisica delle particelle elementari, Fisica matematica, Fisica nucleare, Geometria superiore, Istituzioni di analisi superiore, Istituzioni di fisica matematica, Istituzioni di fisica nucleare, Istituzioni di geometria superiore, Logica matematica, Matematiche superiori, Meccanica analitica, Meccanica quantistica, Meccanica statistica, Onde elettromagnetiche, Ottica, Ottica elettronica, Radioattivita', Relativita', Spettroscopia, Termodinamica, Teoria e applicazione delle macchine calcolatrici, Teoria quantistica dei campi, Topologia".   
+Dopo l'elenco degli insegnamenti del quarto anno indirizzo applicativo il secondo ed il terzo comma sono abrogati e sostituiti dai seguenti:   
+L'esame di "Meccanica razionale" deve precedere l'esame di "Istituzioni di fisica teorica".   
+Gli esami di "Struttura della materia", "Istituzioni di fisica teorica", "Metodi matematici della fisica" devono precedere l'esame di "fisica teorica".   
+Art. 49 (gia' 48), relativo al corso di laurea in Matematica, e' modificato nel senso che il primo comma e' abrogato; e l'insegnamento complementare di "Metodi matematici della fisica" dal primo gruppo passa a far parte del secondo gruppo.   
+Art. 50 (gia' 49), relativo al corso di laurea in scienze naturali, e' modificato come segue:   
+Il secondo comma e' stato abrogato.   
+All'elenco degli insegnamenti complementari del predetto corso di laurea sono aggiunti quelli di:   
+35) Entomologia;   
+36) Citologia animale;   
+37) Embriologia;   
+38) Istologia patologica.   
+Dopo l'elenco degli insegnamenti complementari il primo comma e' abrogato e sostituito dai seguenti:   
+Ciascuno dei due insegnamenti biennali di "Botanica" e di "Zoologia" comprende tanto la parte generale quanto quella sistematica e comporta due distinti esami annuali, uno alla fine del primo anno di corso ed uno alla fine del secondo anno.   
+L'insegnamento biennale di "Fisiologia generale" comporta due distinti esami annuali, uno alla fine del primo anno di corso ed uno alla fine del secondo anno.   
+Art. 51 (gia' 50), relativo al corso di laurea di scienze biologiche, e' modificato come segue:   
+Il secondo comma e' abrogato.   
+All'elenco degli insegnamenti complementari del predetto corso di laurea sono aggiunti quelli di:   
+34) Entomologia;   
+35) Micologia medica;   
+36) Fisiopatologia vegetale;   
+37) Citologia animale;   
+38) Embriologia;   
+39) Istologia patologica.   
+Dopo l'elenco degli insegnamenti complementari il primo comma e' abrogato e sostituito dai seguenti:   
+Ciascuno dei due insegnamenti biennali di "Botanica" e di "Zoologia" comprende tanto la parte generale quanto quella sistematica e comporta due distinti esami annuali, uno alla fine del primo anno di corso ed uno alla fine del secondo anno.   
+L'insegnamento biennale di "Fisiologia generale", comporta due distinti esami annuali, uno alla fine del primo anno di corso ed uno alla fine del secondo anno.   
+Art. 52 (gia' 51), relativo al corso di laurea in scienze geologiche, e' modificato come segue:   
+Il secondo comma e' abrogato.   
+Nello stesso corso di laurea le disposizioni riguardanti le propedeuticita' e gli esami sono modificate come segue:   
+Dopo il primo comma, e con il conseguente spostamento di quelli successivi, viene inserito il seguente:   
+  
+L'insegnamento di "Fisica sperimentale" comporta due distinti esami annuali. L'esame di "Fisica sperimentale I" deve precedere quello di 1 Fisica sperimentale II".   
+Il terzo comma e' modificato nel senso che all'insegnamento "Fisica sperimentale" (biennale) viene aggiunto I e II.   
+Il quarto comma e' abrogato e sostituito dal seguente:   
+"E' obbligatorio nel secondo biennio la frequenza (internato) per un biennio negli istituti di geologia o di paleontologia, o di mineralogia e petrografia per la preparazione di una dissertazione (tesi) sperimentale di laurea; e la frequenza (internato) per un anno nello istituto di mineralogia (per coloro che preparano la tesi in geologia e paleontologia) e di geologia o paleontologia per coloro che preparano la tesi in mineralogia e petrografia.   
+L'ultimo comma e' abrogato e sostituito dal seguente:   
+"Il corso di geologia comporta un gruppo di esercitazioni sul terreno".   
+Art. 53 (gia' 52), relativo al biennio propedeutico alla ingegneria il paragrafo a) concernente i titoli di ammissione viene soppresso.   
+Art. 54 (gia' 53), relativo alle norme generali e particolari a ciascun corso di studio, il secondo ed il terzo comma sono abrogati e sostituiti dai seguenti:   
+"Lo studente del corso di laurea in scienze naturali non puo' essere ammesso agli esami del terzo e quarto anno se non abbia superato almeno gli esami di: istituzioni di matematiche, chimica generale ed inorganica, chimica organica, fisica. Lo studente non puo' sostenere l'esame di geologia se non ha superato quello di mineralogia.   
+Lo studente del corso di laurea in scienze biologiche non puo' essere ammesso agli esami del 3° e 4° anno se non abbia superato almeno gli esami di: istituzioni di matematiche, fisica, chimica generale ed inorganica, chimica organica".   
+Art. 56 (gia' 55), relativo agli esami di laurea, per la laurea in chimica, al n. 3 le parole "un colloquio orale di cultura chimica" sono sostituite dalle seguenti:   
+"una prova di cultura chimica"; ed al n. 4 le parole "discussione sulla dissertazione e sulle prove pratiche" sono sostituite dalle seguenti: "Discussione sulla dissertazione scritta".   
+Per la laurea in scienze naturali, il n. 3 e' abrogato e sostituito dal seguente: "3. Discussione di almeno due su tre argomenti orali, o scritti liberamente scelti in materia diversa da quella della dissertazione scritta, in modo pero' da comprendere materie biologiche e abiologiche".   
+Per la laurea in scienze geologiche, i n. 1 e n. 2 sono abrogati e sostituiti dai seguenti:   
+1) Discussione della dissertazione sperimentale scritta in geologia o in paleontologia o in mineralogia o in petrografia, assegnata durante l'internato, da svolgersi nel secondo biennio di studi.   
+2) Discussione di una sottotesi sperimentale in geologia o paleontologia ove la dissertazione di laurea sia stata svolta in mineralogia e petrografia o viceversa.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 dicembre 1973
+### Dato a Roma, addi' 31 ottobre 1968
 
-LEONE MALFATTI
+SARAGAT SCAGLIA
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 10 aprile 1974
+Registrato alla Corte dei conti, addi' 15 febbraio 1969
 
-Atti di Governo, registro n. 2, foglio n. 73. - SCIARRETTA
-
-Allegato
-
- Statuto della scuola di paleografia e filologia musicale   
-(Scuola diretta a fini speciali)   
-  
-Art. 337. - La scuola di paleografia e filologia musicale si propone di fornire la preparazione scientifica, tecnica e professionale a coloro che intendono conoscere e interpretare direttamente le fonti musicali, specializzarsi nella storia della musica, prepararsi all'insegnamento di materie musicali nelle scuole medie e nei conservatori di musica, e dedicarsi al governo delle sezioni musicali delle biblioteche e degli archivi. La scuola di paleografia e filologia musicale conferisce il diploma di paleografia e filologia musicale.   
-  
-Art. 338. - Il direttore della scuola e' un professore di ruolo dell'Universita' di Pavia, eletto ogni tre anni dal consiglio della scuola di cui al successivo articolo.   
-  
-Art. 339. - Il consiglio della scuola e' costituito a norma delle vigenti disposizioni di legge che regolano la composizione degli organi universitari.   
-  
-Art. 340. - Alla scuola di paleografia e filologia musicale possono iscriversi coloro che sono muniti di un diploma di scuola secondaria superiore di durata quinquennale.   
-  
-Art. 341. - Gli insegnamenti della scuola sono quelli propri della scuola stessa, indicati nel presente statuto, e vengono impartiti da professori di ruolo della scuola stessa e da professori incaricati.   
-  
-Art. 342. - Otterranno la firma di frequenza gli iscritti che avranno presenziato almeno ai due terzi delle lezioni. La sorveglianza sugli iscritti, per tutto quanto riguarda la loro attivita' scolastica, spetta al direttore della scuola, mentre la frequenza ai singoli insegnamenti deve essere attestata dai rispettivi insegnanti.   
-  
-Art. 343. - Le commissioni per gli esami di profitto sono composte di tre membri nominati dal direttore. Per essere ammessi agli esami speciali, gli iscritti dovranno aver ottenuto le relative firme di frequenza alle lezioni. Per essere ammessi agli esami di diploma gli iscritti dovranno aver superato gli esami di profitto stabiliti dal programma della scuola. Dovranno inoltre essere pagate tutte le tasse, soprattasse e contributi. La commissione per l'esame di diploma e' composta di sette membri scelti dal rettore fra gli insegnanti della scuola. L'esame di diploma consiste in una discussione sopra una dissertazione originale scritta, scelta fra le materie di insegnamento della scuola, e sopra una tesi orale da scegliersi obbligatoriamente fra le materie letterarie se la dissertazione scritta verte su argomenti musicali, e fra quelle musicali se la dissertazione verte su argomenti letterari. I titoli della dissertazione di diploma e della tesi orale dovranno essere depositati presso la segreteria dell'Universita' almeno quindici giorni prima dell'esame.   
-  
-Art. 344. - Data la particolare finalita' dei singoli insegnamenti, anche coloro che sono gia' muniti di laurea e che abbiano sostenuto esami speciali di materie affini a quelle elencate nel piano degli studi della scuola, dovranno ugualmente sostenere tutti gli esami senza eccezione. A coloro che sono gia' provvisti di laurea in lettere o materie letterarie, il diploma di cui sopra e' equiparato a quelli conseguiti nei corsi di perfezionamento post-universitari.   
-  
-Art. 345. - Il corso della scuola ha la durata di due anni. Le materie di insegnamento sono le seguenti:   
-1) Storia della teoria musicale classica;   
-2) Storia della musica medievale e rinascimentale;   
-3) Teoria e storia della notazione musicale nel Medioevo (biennale);   
-4) Teoria e storia della notazione musicale nel Rinascimento (biennale);   
-5) Paleografia latina;   
-6) Storia della poesia per musica nel Medioevo (biennale);   
-7) Euristica e istituzioni medievali;   
-8) Storia degli strumenti musicali;   
-9) Interpretazione delle fonti musicali;   
-10) Bibliologia e storia della tradizione manoscritta;   
-11) Paleografia musicale bizantina;   
-12) e 13) Due insegnamenti complementari.   
-Sono materie complementari:   
-1) Storia e critica del testo musicale;   
-2) Storia della musica moderna;   
-3) Storia e tecnica della musica contemporanea;   
-4) Semiografia della musica moderna;   
-5) Storia dell'estetica;   
-6) Storia della teoria musicale medievale e rinascimentale;   
-7) Storia della teoria musicale moderna;   
-8) Storia della miniatura del manoscritto;   
-9) Storia delle forme metriche e ritmiche;   
-10) Storia del teatro;   
-11) Storia delle liturgie;   
-12) Semiologia della musica.   
-Gli studenti sprovvisti di diploma di compimento superiore rilasciato da un conservatorio di musica sono inoltre tenuti a frequentare appositi corsi di preparazione specifica musicale impartiti dalla scuola e a superare il relativo esame. Inoltre il consiglio della scuola stabilisce caso per caso se dovra' essere sostenuto anche un esame di lingua latina, tenuto conto del pregresso curriculum scolastico dello studente.   
-  
-Art. 346. - A coloro che hanno seguito e concluso il piano di studi, sara' rilasciato il diploma di paleografia e filologia musicale.   
-  
-Art. 347. - La scuola organizza anche un corso speciale di insegnamento ad indirizzo storico-didattico, al quale sono ammessi altresi' coloro che sono sprovvisti di un diploma di scuola secondaria superiore di durata quinquennale, ma che sono muniti di un diploma di compimento superiore (10° anno) rilasciato da un conservatorio di musica o da un liceo musicale pareggiato. Le materie di insegnamento di questo corso speciale sono le seguenti:   
-1) Metodologia ed esercitazioni di didattica musicale;   
-2) Storia della musica medievale e rinascimentale;   
-3) Teoria e storia della notazione musicale nel Medioevo (biennale);   
-4) Teoria e storia della notazione musicale nel Rinascimento (biennale);   
-5) Paleografia latina;   
-6) Storia della poesia per musica nel Medioevo (biennale);   
-7) Storia medievale;   
-8) Storia degli strumenti musicali;   
-9) Interpretazione delle fonti musicali;   
-10) Bibliologia e biblioteconomia;   
-11) Storia della musica greca e romana;   
-12) e 13) Due materie complementari.   
-Sono materie complementari:   
-1) Pedagogia;   
-2) Storia della musica moderna;   
-3) Storia e tecnica della musica contemporanea;   
-4) Semiografia della musica moderna;   
-5) Storia dell'estetica;   
-6) Storia della teoria musicale medievale e rinascimentale;   
-7) Storia della teoria musicale moderna;   
-8) Storia dell'arte;   
-9) Acustica musicale;   
-10) Storia del teatro;   
-11) Storia del cinema;   
-12) Storia delle forme metriche e ritmiche;   
-13) Etnomusicologia;   
-14) Semiologia della musica.   
-Gli studenti sprovvisti di diploma di scuola secondaria superiore di durata quinquennale sono inoltre tenuti a frequentare appositi corsi di cultura generale impartiti dalla scuola e a superare i relativi esami, consistenti in una prova scritta di italiano e in una versione in italiano di un brano latino: la prova orale vertera' sulle linee fondamentali della storia letteraria e della storia civile italiana. A coloro che hanno seguito e compiuto il piano di studi di questo corso speciale secondo le norme del precedente art. 343 sara' rilasciato un diploma di specializzazione nella storia e nella didattica della musica.   
-  
-Art. 348. - Ordine degli studi consigliato dalla scuola.   
-  
-1° Anno:   
-Storia della teoria musicale classica;   
-Storia della musica medievale e rinascimentale;   
-Teoria e storia della notazione musicale nel Medioevo (I);   
-Teoria e storia della notazione musicale nel Rinascimento (I);   
-Paleografia latina;   
-Storia della poesia per musica nel Medioevo (I);   
-Euristica e istituzioni medievali;   
-Storia degli strumenti musicali;   
-Un insegnamento complementare.   
-  
-2° Anno:   
-Interpretazione delle fonti musicali;   
-Bibliologia e storia della tradizione manoscritta;   
-Paleografia musicale bizantina;   
-Teoria e storia della notazione musicale nel Medioevo (II);   
-Teoria e storia della notazione musicale nel Rinascimento (II);   
-Storia della poesia per musica nel Medioevo (II);   
-Un insegnamento complementare.   
-  
-CORSO SPECIALE STORICO-DIDATTICO.   
-  
-1° Anno:   
-Storia della musica greca e romana;   
-Storia della musica medievale e rinascimentale;   
-Teoria e storia della notazione musicale nel Medioevo (I);   
-Teoria e storia della notazione musicale nel Rinascimento (I);   
-Paleografia latina;   
-Storia della poesia per musica nel Medioevo (I);   
-Storia medievale;   
-Storia degli strumenti musicali;   
-Un insegnamento complementare.   
-  
-2° Anno:   
-Metodologia ed esercitazioni di didattica musicale;   
-Interpretazione delle fonti musicali;   
-Bibliologia e biblioteconomia;   
-Teoria e storia della notazione musicale nel Medioevo (II);   
-Teoria e storia della notazione musicale nel Rinascimento (II);   
-Storia della poesia per musica nel Medioevo (II);   
-Una materia complementare.   
-I corsi biennali comportano un unico esame alla fine del biennio.  
-Solo i corsi di storia della poesia per musica nel Medioevo e di teoria e storia della notazione musicale nel Medioevo possono essere scissi in due esami annuali. La facolta' di scindere in due prove annuali l'esame di teoria e storia della notazione musicale nel Medioevo e' limitata agli studenti che sosterranno la prova nelle sessioni di esame relative all'anno in cui sono iscritti.   
-  
-Art. 349. - L'importo delle tasse a cui sono tenuti gli allievi e' il seguente:   
-tassa di immatricolazione L. 5.000; tassa annuale di iscrizione L. 18.000; tassa di diploma L. 6.000; soprattassa annuale per esami di profitto L. 7.000; soprattassa per esami di diploma L. 3.000.   
-La tassa annuale per gli studenti fuori corso che chiedono la ricognizione nella qualita' di studenti e' di L. 5.000 per i primi due anni fuori corso ed aumenta del 30% di detta somma per ogni anno successivo.   
-Contributo suppletivo per gli studenti appartenenti a famiglia con reddito annuo superiore a L. 3.000.000 (a favore dell'opera universitaria): L. 5.400.   
-  
-Art. 350. - Tutti gli studenti gia' iscritti alla scuola di paleografia e filologia musicale dell'Universita' di Parma possono iscriversi alla scuola di paleografia e filologia musicale dell'Universita' di Pavia, purche' siano muniti di un diploma di scuola secondaria superiore di durata quinquennale. Coloro che fossero sprovvisti di tale diploma saranno ammessi al corso speciale a indirizzo storico-didattico   
-  
-Visto, d'ordine del Presidente della Repubblica   
-  
-Il Ministro per la pubblica istruzione   
-MALFATTI   
+Atti del Governo, registro n. 225, foglio n. 51. - GRECO

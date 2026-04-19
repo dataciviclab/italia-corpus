@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1969 n. 145
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 settembre 1956 n. 1187
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1969 n. 145
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 settembre 1956 n. 1187
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -12,203 +12,35 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con i [regi decreti 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-12;2227); [4 settembre 1930, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-09-04;1312); [1 ottobre 1931, n. 1778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1778); [27 ottobre 1932, n. 2092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2092); [6 dicembre 1934, n. 2394](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2394); [1 ottobre 1936, n. 2502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2502); [12 maggio 1939, n. 1315](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-05-12;1315); [5 ottobre 1939, n. 1644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1644); [11 luglio 1941, n. 848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-07-11;848); [18 luglio 1942, n. 928; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-07-18;928) [16 maggio 1947 n. 694 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-05-16;694) [22 febbraio 1948, n. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-02-22;414); [30 luglio 1950, n. 1268](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-30;1268); [31 ottobre 1950, n. 1307](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1307); [5 agosto 1951, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-05;1311); [27 ottobre 1951, n. 1792](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1792); [3 ottobre 1952, n. 4541](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-03;4541); [11 marzo 1953, n. 545](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;545); [12 maggio 1953, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-05-12;547); [30 giugno 1954, n. 742](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;742); [30 giugno 1954, n. 755](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;755); [14 agosto 1954, n. 862](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-08-14;862); [14 settembre 1954, n. 1231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1231); [29 ottobre 1954, n. 1319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-29;1319); [29 ottobre 1954, n. 1457](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-29;1457); [1 marzo 1955, n. 222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-03-01;222); [24 luglio 1955, n. 799](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-24;799); [21 settembre 1955, n. 956](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-21;956), e [4 ottobre 1955, n. 961](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-10-04;961);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato nel senso che gli articoli dal 43 al 49, relativi alla facolta' di scienze politiche, sono abrogati e sostituiti dai seguenti con il conseguente spostamento della successiva numerazione.  
-  
-TITOLO V  
-Facolta' di scienze politiche  
-  
-Art. 43. - La facolta' di scienze politiche conferisce la laurea in scienze politiche.  
-Art. 44. - La durata del corso degli studi per la laurea in scienze politiche e' di quattro anni.  
-E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.  
-Il curriculum di studi si distingue in un biennio propedeutico comune ed un biennio progredito corrispondente agli indirizzi determinati dalla facolta'.  
-Superato l'esame di laurea, lo studente consegue il titolo di dottore in scienze politiche con l'indicazione dell'indirizzo prescelto.  
-All'inizio di ogni anno accademico, il consiglio di facolta' stabilisce e rende noto agli studenti quali insegnamenti verranno impartiti durante l'anno, nonche' la durata annuale o semestrale dei corsi ed il loro carattere obbligatorio ovvero opzionale.  
-Art. 45. - Nel biennio propedeutico comune sono previsti i seguenti corsi obbligatori:  
-1) Sociologia;  
-2) Economia politica;  
-3) Storia moderna;  
-4) Diritto costituzionale italiano e comparato;  
-5) Istituzioni di diritto pubblico;  
-6) Statistica;  
-7) Storia delle dottrine politiche;  
-8) Filosofia della politica;  
-9) Storia contemporanea.  
-Ciascuno studente deve sostenere, al piu' tardi alla fine del biennio propedeutico, due prove di esami dalle quali risulti la sua capacita' di leggere correntemente l'inglese ed un'altra lingua moderna scelta fra francese, portoghese, russo, spagnolo o tedesco.  
-Lo studente potra' aggiungere ai nove insegnamenti obbligatori sopra elencati del biennio propedeutico non piu' di un insegnamento del biennio progredito a scelta fra quelli indicati nello statuto ed in corrispondenza all'indirizzo prescelto. L'insegnamento cosi' anticipato e' detratto dal numero degli insegnamenti del biennio di specializzazione. - Art. 46. - Alla conclusione del primo biennio, ogni studente ha un colloquio orientativo con una commissione di facolta' per esaminare le modalita' del proseguimento dei suoi studi e per la scelta dell'indirizzo.  
-All'inizio di ogni anno accademico il consiglio di facolta' determina nell'ambito degli insegnamenti previsti negli elenchi seguenti, l'elenco delle materie non superiori a 15 corsi annuali per ogni indirizzo che saranno impartiti durante l'anno stesso.  
-Ogni studente puo' chiedere al consiglio di facolta' la approvazione di un piano di studi con materie di due o piu' indirizzi, sempreche' il numero di unita' annuali di insegnamento non sia inferiore a 10: questo piano e' concordato con le direzioni di tutti gli indirizzi tra i quali lo studente sceglie le materie che lo interessano.  
-Equivale alla frequenza di un corso non obbligatorio la ripetizione di un altro corso, quando il consiglio di facolta', su proposta della direzione dell'istituto, in considerazione delle innovazioni introdotte nel programma, lo autorizzi.  
-Agli effetti del computo complessivo delle unita' di insegnamento, due unita' semestrali equivalgono ad una annuale.  
-Art. 47. - All'inizio del 4° anno di corso lo studente deve depositare nella segreteria il titolo della dissertazione di laurea concordata con uno dei docenti della facolta', sia che si tratti di materia obbligatoria sia che si riferisca a materia tra quelle elencate nei rispettivi indirizzi.  
-Sulla dissertazione scritta si svolgera' una discussione atta a comprovare la capacita' del candidato. La commissione e' composta di 11 membri, essendo relatori oltre il professore di cui sopra un altro docente di materia affine della facolta'.  
-Art. 48. - Coloro che sono in possesso di altra laurea o diploma di studi superiori sono ammessi dal consiglio di facolta' ad un anno di corso da stabilirsi caso per caso.  
-In tali casi il consiglio di facolta' indica allo studente il piano di studi da ulteriormente seguire.  
-Art. 49. - La facolta' prevede i seguenti indirizzi di specializzazione:  
-A) Storico-politico;  
-D) Politico-sociale;  
-C) Politico-amministrativo;  
-D) Politico-economico.  
-A ciascun indirizzo corrisponde un istituto.  
-Gli istituti hanno ciascuno il proprio regolamento proposto dal consiglio direttivo ed approvato dal consiglio di facolta' e dagli organi accademici.  
-Art. 50. - Per essere ammessi all'esame di laurea, gli studenti debbono aver seguito i corsi e superato gli esami relativi a non meno di 21 corsi annuali, compresi quelli di lingue.  
-Qualora vengano istituiti corsi semestrali o trimestrali, il consiglio di facolta' stabilisce il valore da assegnare ai corsi stessi, in relazione al raggiungimento del numero di corsi necessario per l'ammissione all'esame di laurea.  
-Nel caso di corsi pluriennali di una stessa materia, ogni esame annuale viene computato ai fini del raggiungimento del numero minimo dei corsi stabilito al comma primo del presente articolo.  
-Art. 51. - L'indirizzo storico-politico e' articolato in dieci unita' di corso annuali complessive e in due gruppi di ricerca. Sei unita' di corso annuali sono scelte dallo studente in accordo con la direzione dell'istituto e il responsabile del lavoro di tesi.  
-Ogni anno il consiglio di facolta', sentite la direzione dell'istituto, rende obbligatorio per tutti gli studenti dell'indirizzo un numero di corsi, non superiore a quattro, da scegliersi tra quelli contenuti nell'elenco che qui segue:  
-  
-Corsi dell'indirizzo storico-politico  
-  
-1) Storia delle istituzioni politiche;  
-2) Scienza della politica;  
-3) Storia della Chiesa;  
-4) Dottrine giuridiche;  
-5) Storia moderna;  
-6) Metodologia della ricerca storica;  
-7) Politica comparata;  
-8) Relazioni internazionali;  
-9) Filosofia politica;  
-10) Storia ed istituzioni dei paesi afro-asiatici;  
-11) Storia dei trattati e delle relazioni internazionali;  
-12) Storia delle dottrine economiche;  
-13) Storia dei movimenti e partiti politici;  
-14) Storia ed istituzioni dei paesi di lingua spagnola;  
-15) Storia ed istituzioni dei paesi dell'Europa orientale;  
-16) Storia americana;  
-17) Storia del giornalismo;  
-18) Storia economica;  
-19) Storia delle istituzioni religiose;  
-20) Storia dei rapporti tra Stato e Chiesa;  
-21) Storia delle dottrine politiche (corso avanzato);  
-22) Filosofia del diritto;  
-23) Storia dell'amministrazione pubblica;  
-24) Diritto pubblico comparato;  
-25) Diritto internazionale;  
-26) Storia della filosofia;  
-27) Storia della filosofia moderna e contemporanea;  
-28) Storia del diritto italiano;  
-29) Storia medioevale;  
-30) Filosofia morale;  
-31) Organizzazione internazionale;  
-32) Storia dei movimenti sindacali;  
-33) Storia delle dottrine teologiche;  
-34) Dottrina dello Stato;  
-35) Analisi del linguaggio politico;  
-36) Storia politica e diplomatica dell'Asia orientale.  
-  
-Art. 52. - L'indirizzo politico-sociale (sociologico) e' articolato in dieci unita' di corso annuali complessive e in due gruppi di ricerca. Cinque unita' di corso annuali sono scelte dallo studente in accordo con la direzione dell'istituto e il responsabile del lavoro di tesi.  
-Ogni anno, il consiglio di facolta', sentita la direzione dell'istituto, si riserva di rendere obbligatorio per tutti gli studenti dell'indirizzo un numero di corsi, non superiore a cinque, da scegliersi tra quelli contenuti nello elenco che qui segue.  
-  
-Corsi dell'indirizzo politico-sociale  
-  
-1) Sociologia (corso avanzato);  
-2) Sociologia urbana e rurale;  
-3) Sociologia del lavoro e dell'industria;  
-4) Statistica per la ricerca sociale;  
-5) Tecniche di ricerca sociale;  
-6) Psicologia;  
-7) Storia del pensiero sociologico;  
-8) Psicologia dinamica;  
-9) Psicologia sociale;  
-10) Antropologia culturale;  
-11) Metodologia delle scienze sociali;  
-12) Sociologia politica;  
-13) Sociologia giuridica;  
-14) Geografia politica ed economica;  
-15) Demografia;  
-16) Pianificazione ed organizzazione territoriale;  
-17) Diritto degli enti locali;  
-18) Sociologia della conoscenza;  
-19) Tecniche psicometriche;  
-20) Sociologia dell'organizzazione;  
-21) Criminologia;  
-22) Legislazione sociale;  
-23) Sociologia della famiglia;  
-24) Sociologia delle comunicazioni;  
-25) Sociologia dell'educazione;  
-26) Sociologia economica;  
-27) Sociologia religiosa.  
-  
-Art. 53. - L'indirizzo politico-amministrativo e' articolato in undici unita' di corso annuali complessive e in due gruppi di ricerca. Quattro unita' di corso annuali sono scelte dallo studente in accordo con la direzione dell'istituto e il responsabile del lavoro di tesi.  
-Ogni anno il consiglio di facolta', sentita la direzione dell'istituto, si riserva di rendere obbligatorio per tutti gli studenti dell'indirizzo un numero di corsi, non superiore a sette, da scegliersi tra quelli contenuti nello elenco che qui segue.  
-  
-Corsi dell'indirizzo politico-amministrativo  
-  
-1) Scienza dell'amministrazione I;  
-2) Istituzioni di diritto privato;  
-3) Economia e politica del lavoro;  
-4) Psicologia del lavoro;  
-5) Teoria delle organizzazioni complesse I;  
-6) Politica finanziaria;  
-7) Teoria delle organizzazioni complesse II;  
-8) Tecnica della programmazione organizzativa;  
-9) Diritto amministrativo I;  
-10) Diritto del lavoro;  
-11) Diritto amministrativo II;  
-12) Economia industriale;  
-13) Scienza dell'amministrazione II;  
-14) Economia aziendale;  
-15) Ricerca operativa;  
-16) Contabilita' dello Stato e degli enti pubblici;  
-17) Diritto tributario;  
-18) Diritto pubblico dell'economia;  
-19) Sociologia del lavoro e dell'industria (mutuato da indirizzo sociologico);  
-20) Analisi comparativa delle organizzazioni;  
-21) Relazioni industriali;  
-22) Diritto delle comunita' europee.  
-  
-Art. 54. - L'indirizzo politico-economico e' articolato in dieci unita' di corso annuali complessive e in due gruppi di ricerca.  
-Cinque unita' di corso annuali sono scelte dallo studente in accordo con la direzione dell'istituto e il responsabile del lavoro di tesi.  
-Ogni anno il consiglio di facolta', sentita la direzione dell'istituto, si riserva di rendere obbligatorio un numero di corsi, non superiore a cinque, da scegliersi tra quelli contenuti nell'elenco che qui segue.  
-  
-Corsi dell'indirizzo politico-economico  
-  
-1) Economia politica (corso avanzato);  
-2) Statistica (corso avanzato);  
-3) Scienza delle finanze;  
-4) Economia internazionale;  
-5) Economia e politica monetaria;  
-6) Economia e politica industriale;  
-7) Teoria e politica dello sviluppo economico;  
-8) Istituzioni di matematica;  
-9) Matematica per economisti;  
-10) Economia e politica del lavoro;  
-11) Economia urbana e delle localizzazioni;  
-12) Economia e politica agraria;  
-13) Contabilita' nazionale;  
-14) Sistemi economici comparati;  
-15) Storia delle dottrine economiche;  
-16) Politica economica e finanziaria;  
-17) Econometrica;  
-18) Programmazione economica;  
-19) Storia economica;  
-20) Programmazione economica regionale;  
-21) Analisi economica;  
-22) Organizzazione economica internazionale.  
-  
-Art. 55. - Lo studente, iscritto a uno degli indirizzi del biennio progredito, fra gli insegnamenti a sua discrezione, puo' sceglierne tre fra altri insegnamenti della facolta' o di altre facolta' dell'Universita' di Bologna.  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 43. E' abrogata la norma di cui al decimo comma, in base alla quale gli insegnamenti fondamentali del corso di laurea in lettere: storia medioevale e storia moderna sono riuniti in un'unica cattedra.  
+Art. 55. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di "semeiotica chirurgica".  
+Art. 94. - Agli insegnamenti complementari del corso di laurea in ingegneria sono aggiunti quelli di:  
+50) "Elettronica";  
+51) "Psicotecnica".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 febbraio 1969
+### Dato a Roma, addi' 3 settembre 1956
 
-SARAGAT SULLO
+GRONCHI ROSSI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: MORO
 
-Registrato alla Corte dei conti, addi' 19 aprile 1969
+Registrato alla Corte dei conti, addi' 30 ottobre 1956
 
-Atti del Governo, registro n. 226, foglio n. 79. - GRECO
+Atti del Governo, registro n. 101, foglio n. 106. - CARLOMAGNO

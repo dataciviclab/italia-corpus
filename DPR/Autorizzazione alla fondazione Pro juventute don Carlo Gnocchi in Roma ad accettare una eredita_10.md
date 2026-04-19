@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1985 n. 553
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 novembre 1978 n. 855
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1985 n. 553
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 novembre 1978 n. 855
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-553. Decreto del Presidente della Repubblica 18 luglio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in titoli azionari, depositi bancari ed altri beni mobili al netto delle passivita' di lire 30.800.000, disposta dalla sig.ra Ogliari Agostina con testamento olografo 7 marzo 1972, pubblicato in data 30 dicembre 1980, n. 20080 di repertorio e n. 4413 di raccolta, a rogito dott. Italo Tarsia, notaio in Milano, registrato a Milano il 14 gennaio 1981 al n. 320.   
+855. Decreto del Presidente della Repubblica 23 novembre 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, un quarto dell'eredita' disposta dal prof. Manfredo Cagni a favore dei mutilatini don Gnocchi che si identificano con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, con testamento pubblico 10 gennaio 1972, pubblicato a rogito notaio dott. Giorgio Giuriani di Como in data 9 maggio 1972, n. 65077 di repertorio, n. 18612 di raccolta, ed ivi registrato il 29 maggio 1972 con il n. 2617 serie I, consistente nella somma di L. 6.749.023.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 11 ottobre 1985   
-Registro n. 9 Presidenza, foglio n. 72
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 27 dicembre 1978  
+Registro n. 8 Presidenza, foglio n. 129

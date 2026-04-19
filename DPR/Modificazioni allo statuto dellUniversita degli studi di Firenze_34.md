@@ -1,68 +1,141 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1971 n. 659
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1962 n. 946
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1971 n. 659
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1962 n. 946
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successivi;
+
+Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso.
+
+Dopo l'art. 186, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione del corso di perfezionamento in Economia del turismo, annesso alla Facolta' di economia e commercio, con il conseguente spostamento della numerazione degli articoli successivi.
+
+Corso di perfezionamento in Economia del turismo
+
+Art. 187. - E' istituito presso la Facolta' di economia e commercio dell'Universita' di Firenze un corso di perfezionamento in Economia del turismo.
+
+Art. 188. - Al corso sono ammessi i diplomati della scuola di Statistica ed i laureati di qualunque Facolta'. La durata del corso e' di un anno.
+
+Art. 180. - Le materie fondamentali d'insegnamento sono:
+
+1) Economia del turismo:
+
+2) Diritto italiano e comparato sul turismo;
+
+3) Tecnica economica delle imprese turistiche;
+
+4) Statistica del turismo;
+
+5) Pubblicita' e fattori di sviluppo del turismo;
+
+6) Geografia del turismo;
+
+7) Tecnica dei trasporti;
+
+8) Tecnica degli scambi valutari.
+
+I due primi insegnamenti hanno durata annuale; la durata degli altri e' stabilita all'inizio del corso dal direttore.
+
+Ad integrazione degli insegnamenti saranno tenute conferenze ed esercitazioni su argomenti particolari.
+
+Art. 190. - Il corso puo' essere utilizzato dagli Istituti della Facolta' per indagini ed esercitazioni su aspetti del turismo riguardanti le loro materie.
+
+Art. 191. - Gli iscritti debbono sostenere gli esami salle materie indicate e un colloquio finale sopra un argomento approvato dai direttore, con le modalita' stabilite per gli esami della Facolta'.
+
+Art. 192. - Il direttore e i docenti del corso sono nominati dal rettore dell'Universita', su proposta del Consiglio di facolta'.
+
+Art. 193. - Al finanziamento del corso sara' provveduto con le entrate provenienti dal pagamento delle tasse e soprattasse degli iscritti e dai contributi dell'Universita' e di altri Enti.
+
+Art. 194. - Il corso e' amministrato da un Consiglio composto da un rappresentante del rettore, del direttore e da tre rappresentanti degli Enti finanziatori.
+
+Il Consiglio di amministrazione del corso stabilisce le tasse di iscrizione e di esami, sentito il parere del Consiglio di facolta'.
+
+Art. 195. - Agli iscritti che abbiano superato gli esami speciali e sostenuto con esito favorevole il colloquio finale e' rilasciato un certificato.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 6 giugno 1962
+
+SEGNI
+
+GUI
+
+Visto, il Guardasigilli: BOSCO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 18 luglio 1962 Atti del Governo, registro n. 157, foglio n. 7. - VILLA
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successivi;  
+Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-L'art. 241, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la "Scuola di specializzazione in medicina tossicologica" muta la denominazione in quella di "Scuola di specializzazione in tossicologia medica".   
-L'art. 257, relativo alla "Scuola di specializzazione in medicina tossicologica" che assume la denominazione di "Scuola di specializzazione in tossicologia medica", e' abrogato e sostituito dal seguente:   
-  
-Scuola di specializzazione in tossicologia medica   
-  
-Art. 257. - La durata del corso degli studi per il conseguimento del diploma di specialista in tossicologia medica e' di tre anni.   
-Le materie di insegnamento sono cosi' suddivise nei tre anni di corso:   
-1° Anno:   
-Chimica tossicologica con esercizi;   
-Tossicologia generale;   
-Tossicologia sperimentale con esercizi, I.   
-2° Anno:   
-Tossicologia sistematica;   
-Caricerogenesi da agenti chimici;   
-Teratogenesi da agenti chimici;   
-Tossicologia sperimentale con esercizi, II;   
-Clinica e terapia delle malattie da agenti chimici, I.   
-3° Anno:   
-Diagnostica chimica delle malattie da agenti chimici;   
-Clinica e terapia delle malattie da agenti chimici, II;   
-Tecniche di rianimazione in tossicologia;   
-Legislazione, in campo tossicologico.   
-Durante i tre anni di frequenza alla scuola, tutti gli ammalati che vengono ricoverati nella clinica saranno seguiti e studiati dai laureati in medicina che sono iscritti al corso: casi interessanti di intossicazioni singole e collettive potranno essere oggetto di ricerche speciali e di pubblicazioni da parte di uno o piu' iscritti al corso a seconda del giudizio del direttore.   
-Alla fine del 1°, 2° e 3° anno, avranno luogo esami speciali sugli insegnamenti impartiti, e per ottenere il diploma i candidati dovranno superare un esame finale riassuntivo e discutere una tesi sperimentale (e clinica) su argomenti di tossicologia.   
-L'allievo e' tenuto alla frequenza obbligatoria delle lezioni e delle esercitazioni relative, oltre a partecipare a ricerche concernenti problemi di tossicologia.   
-Per l'iscrizione al corso di Specializzazione, i candidati dovranno dar prova di avere nozioni di cultura tossicologica nell'esame di ammissione.   
-Il numero degli iscritti e' stabilito in cinque per ogni anno di corso (totale quindici iscritti).   
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso.  
+Dopo l'art. 186, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione del corso di perfezionamento in Economia del turismo, annesso alla Facolta' di economia e commercio, con il conseguente spostamento della numerazione degli articoli successivi.  
+Corso di perfezionamento in Economia del turismo  
+Art. 187. - E' istituito presso la Facolta' di economia e commercio dell'Universita' di Firenze un corso di perfezionamento in Economia del turismo.  
+Art. 188. - Al corso sono ammessi i diplomati della scuola di Statistica ed i laureati di qualunque Facolta'. La durata del corso e' di un anno.  
+Art. 180. - Le materie fondamentali d'insegnamento sono:  
+1) Economia del turismo:  
+2) Diritto italiano e comparato sul turismo;  
+3) Tecnica economica delle imprese turistiche;  
+4) Statistica del turismo;  
+5) Pubblicita' e fattori di sviluppo del turismo;  
+6) Geografia del turismo;  
+7) Tecnica dei trasporti;  
+8) Tecnica degli scambi valutari.  
+I due primi insegnamenti hanno durata annuale; la durata degli altri e' stabilita all'inizio del corso dal direttore.  
+Ad integrazione degli insegnamenti saranno tenute conferenze ed esercitazioni su argomenti particolari.  
+Art. 190. - Il corso puo' essere utilizzato dagli Istituti della Facolta' per indagini ed esercitazioni su aspetti del turismo riguardanti le loro materie.  
+Art. 191. - Gli iscritti debbono sostenere gli esami salle materie indicate e un colloquio finale sopra un argomento approvato dai direttore, con le modalita' stabilite per gli esami della Facolta'.  
+Art. 192. - Il direttore e i docenti del corso sono nominati dal rettore dell'Universita', su proposta del Consiglio di facolta'.  
+Art. 193. - Al finanziamento del corso sara' provveduto con le entrate provenienti dal pagamento delle tasse e soprattasse degli iscritti e dai contributi dell'Universita' e di altri Enti.  
+Art. 194. - Il corso e' amministrato da un Consiglio composto da un rappresentante del rettore, del direttore e da tre rappresentanti degli Enti finanziatori.  
+Il Consiglio di amministrazione del corso stabilisce le tasse di iscrizione e di esami, sentito il parere del Consiglio di facolta'.  
+Art. 195. - Agli iscritti che abbiano superato gli esami speciali e sostenuto con esito favorevole il colloquio finale e' rilasciato un certificato.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 giugno 1971
+### Dato a Roma, addi' 6 giugno 1962
 
-SARAGAT MISASI
+SEGNI GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 21 agosto 1971
+Registrato alla Corte dei conti, addi' 18 luglio 1962
 
-Atti del Governo, registro n. 243, foglio n. 158. - PASQUALUCCI
+Atti del Governo, registro n. 157, foglio n. 7. - VILLA

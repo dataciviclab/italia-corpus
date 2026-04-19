@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 834
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1954 n. 1056
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 834
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1954 n. 1056
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,7 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090), e modificato con [regio decreto 13 ottobre 1927, n. 2281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2281), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regi decreti 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;1904); [4 maggio 1942, n. 557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-05-04;557); [5 settembre 1942, n. 1120 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-09-05;1120) [26 febbraio 1949, n 612](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;612); [23 settembre 1949, n. 931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;931);
+
+30 ottobre 1949, n. 1059; 5 aprile 1950, n. 284; 30 ottobre 1950, n. 1277; 31 ottobre 1950, n. 1311; 18 aprile 1951, n. 934, 30 luglio 1951, n. 1304; 27 ottobre 1951, n. 1680, 19 settembre 1952, n. 4551; 25 agosto 1953, n. 1117; 26 aprile 1954, n. 738; 30 giugno 1954, n. 753 e 31 luglio 1954, n. 865;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,162 +20,65 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
 Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 168. - Agli insegnamenti complementari del corso di laurea in medicina veterinaria e' aggiunto quello di: "Radiologia (semestrale)".
 
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Dogliani, addi' 14 settembre 1954
+
+EINAUDI
+
+MARTINO
+
+Visto, il Guardasigilli: DE PIETRO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 11 novembre 1954 Atti del Governo, registro n. 87, foglio n. 13. - CARLOMAGNO
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regi decreti 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;1904); [4 maggio 1942, n. 557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-05-04;557); [5 settembre 1942, n. 1120 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-09-05;1120) [26 febbraio 1949, n 612](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;612); [23 settembre 1949, n. 931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;931);  
+[30 ottobre 1949, n. 1059](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1059); [5 aprile 1950, n. 284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-04-05;284); [30 ottobre 1950, n. 1277](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1277); [31 ottobre 1950, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1311); [18 aprile 1951, n. 934](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;934), [30 luglio 1951, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-07-30;1304); [27 ottobre 1951, n. 1680](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1680), [19 settembre 1952, n. 4551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-19;4551); [25 agosto 1953, n. 1117](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;1117); [26 aprile 1954, n. 738](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;738); [30 giugno 1954, n. 753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;753) e [31 luglio 1954, n. 865](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-07-31;865);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Dopo l'art. 623, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in chirurgia maxillo-facciale afferente alla prima facolta' di medicina e chirurgia.   
+Decreta:  
   
-Scuola di specializzazione in chirurgia maxillo-facciale   
-  
-Art. 624. - E' istituita la scuola di specializzazione in chirurgia maxillo-facciale presso l'Universita' degli studi di Napoli, prima facolta' di medicina e chirurgia.   
-La scuola ha lo scopo di conferire una completa preparazione specialistica in chirurgia maxillo-facciale con le conseguenti possibilita' operative.   
-La scuola rilascia il titolo di specialista in chirurgia maxillo-facciale.   
-Art. 625. - La scuola ha la durata di 5 anni.   
-Ciascun anno di corso prevede 800 ore di insegnamento e di attivita' pratiche guidate.   
-In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in cinque per ciascun anno di corso, per un totale di venticinque specializzandi.   
-Art. 626. - Per l'attuazione delle attivita' didattiche programmate dal consiglio della scuola provvede la facolta' di medicina e chirurgia prima.   
-Art. 627. - Sono ammessi alle prove per ottenere l'iscrizione i laureati in medicina e chirurgia.   
-Per l'iscrizione alla scuola e' richiesto il possesso del diploma di abilitazione all'esercizio della professione.   
-Art. 628. - La scuola comprende sette aree di insegnamento e tirocinio professionale:   
-a) morfologia normale e patologica;   
-b) odontoiatria;   
-c) chirurgia;   
-d) otorinolaringoiatria;   
-e) anestesiologia e farmacologia;   
-f) maxillo-facciale;   
-g) radiologia.   
-Art. 629. - Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:   
-a) morfologia normale e patologica:   
-organizzazione macroscopica e aspetti ultrastrutturali del distretto maxillo-facciale;   
-embriologia;   
-anatomia e istologia del distretto maxillo-facciale;   
-diagnostica isto-citopatologica dei tumori;   
-b) odontoiatria:   
-gnatologia e protesi oro-maxillo-facciale;   
-ortognatodonzia e cefalometria;   
-patologia speciale odontostomatologica;   
-chirurgia orale;   
-c) chirurgia:   
-anatomia chirurgica del distretto maxillo-facciale;   
-nozioni generali di tecnica operatoria I;   
-nozioni generali di tecnica operatoria II;   
-diagnosi precoce dei tumori (tecnica bioptica e dell'esame citologico);   
-elementi di chirurgia plastica e ricostruttiva della faccia;   
-elementi di neurochirurgia;   
-d) otorinolaringoiatria:   
-elementi di otorinolaringoiatria;   
-e) anestesiologia e farmacologia:   
-anestesiologia e rianimazione;   
-nozioni di farmacologia e farmacoterapia;   
-f) maxillo-facciale:   
-patologia speciale chirurgica maxillo-facciale I;   
-patologia speciale chirurgica maxillo-facciale II;   
-patologia e clinica delle malformazioni e deformazioni maxillo-facciale;   
-patologia orbitaria;   
-terapia chirurgica delle lesioni delle ossa e delle A.T.M.;   
-terapia chirurgica delle lesioni dei tessuti molli della faccia;   
-terapia chirurgica delle malformazioni e deformazioni del distretto maxillo-facciale;   
-chirurgia ortopedica dei mascellari;   
-chirurgia oncologica maxillo-facciale;   
-traumatologia maxillo-facciale;   
-g) radiologia:   
-radiodiagnostica maxillo-facciale;   
-radioterapia.   
-Art. 630. - L'attivita' didattica comprende ogni anno 800 ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in un'attivita' didattica teorico-pratica comune per tutti gli studenti (400 ore come di seguito ripartite) ed in un'attivita' didattica elettiva, prevalentemente di carattere tecnico applicativo di ulteriori 400 ore, rivolta all'approfondimento del curriculum corrispondente ad uno dei settori formativo-professionale (monte ore elettivo).   
-La frequenza nelle diverse aree avviene pertanto come di seguito specificato.   
-1° Anno:   
-Morfologia normale e patologica - ore 70:   
-organizzazione macroscopica e aspetti ultrastrutturali del distretto maxillo-facciale - ore 20;   
-embriologia - ore 50.   
-Odontoiatria - ore 120:   
-gnatologia e protesi oro-maxillo-facciale - ore 60;   
-ortognatodonzia e cefalometria - ore 60.   
-Chirurgia - ore 160:   
-anatomia chirurgica del distretto maxillo-facciale - ore 80;   
-nozioni generali di tecnica operatoria I - ore 80.   
-Otorinolaringoiatria - ore 50:   
-elementi di otorinolaringoiatria.   
-Monte ore elettivo - ore 400.   
-2° Anno:   
-Morfologia normale e patologica - ore 60:   
-anatomia e istologia del distretto maxillo-facciale.   
-Odontoiatria - ore 60:   
-patologia speciale odontostomatologica.   
-Chirurgia - ore 90:   
-nozioni generali di tecnica operatoria II.   
-Anestesiologia e farmacologia - ore 110:   
-anestesiologia e rianimazione - ore 70;   
-nozioni di farmacologia e farmacoterapia - ore 40.   
-Maxillo-facciale - ore 80:   
-patologia speciale chirurgica maxillo-facciale.   
-Monte ore elettivo - ore 400.   
-3° Anno:   
-Morfologia normale e patologica - ore 80:   
-diagnostica istocitopatologica dei tumori.   
-Maxillo-facciale - ore 260:   
-patologia speciale chirurgica maxillo-facciale - ore 100;   
-patologia e clinica delle malformazioni e deformazioni maxillo-facciali - ore 100;   
-patologia orbitaria - ore 60.   
-Radiologia - ore 60:   
-radiodiagnostica maxillo-facciale;   
-Monte ore elettivo - ore 400.   
-4° Anno:   
-Odontoiatria - ore 80:   
-chirurgia orale.   
-Chirurgia - ore 100:   
-elementi di chirurgia plastica e ricostruttiva della faccia.   
-Maxillo-facciale - ore 160:   
-terapia chirurgica delle lesioni delle ossa e delle A.T.M. - ore 80;   
-terapia chirurgica delle malformazioni e deformazioni del distretto maxillo-facciale - ore 80.   
-Radiologia - ore 60:   
-radioterapia.   
-Monte ore elettivo - ore 400.   
-5° Anno:   
-Maxillo-facciale - ore 340:   
-terapia chirurgica delle lesioni dei tessuti molli della faccia - ore 100;   
-chirurgia ortopedica dei mascellari - ore 70;   
-chirurgia oncologica maxillo-facciale - ore 100;   
-traumatologia maxillo-facciale - ore 70.   
-Chirurgia - ore 60:   
-elementi di neurochirurgia.   
-Monte Ore elettivo - ore 400.   
-Art. 631 - Durante i cinque anni di corso e' richiesta la frequenza nei seguenti reparti, divisioni, ambulatori, laboratori: protesi oro-maxillo-facciale, odontostomatologia, ortognatodonzia, chirurgia generale, chirurgia oncologica, chirurgia plastica e ricostruttiva della faccia, degenza, ambulatorio, cefalometria, gipsometria, fotometria, kinesiografia ed elettromiografia, stomatognatica, traumatologia facciale, chirurgia orale, chirurgia maxillo-facciale.   
-La frequenza nelle varie aree per complessive 800 ore annue, compreso il monte ore elettivo di 400 ore annue, avverra' secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienza e di formazione professionale. Il consiglio della scuola ripartira' annualmente il monte ore elettivo.   
-Il consiglio della scuola predispone apposito libretto di formazione che consenta allo specializzando ed al consiglio stesso il controllo dell'attivita' svolta e delle acquisizioni dei progressi compiuti, per sostenere gli esami annuali e finali.   
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 168. - Agli insegnamenti complementari del corso di laurea in medicina veterinaria e' aggiunto quello di: "Radiologia (semestrale)".  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti, di osservarlo e di farlo osservare.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1985
+### Dato a Dogliani, addi' 14 settembre 1954
 
-COSSIGA
+EINAUDI MARTINO
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DE PIETRO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 11 novembre 1954
 
-Registrato alla Corte dei conti, addi' 21 gennaio 1986
-
-Registro n. 2 Istruzione, foglio n. 121
+Atti del Governo, registro n. 87, foglio n. 13. - CARLOMAGNO

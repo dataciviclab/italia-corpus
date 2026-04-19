@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1975 n. 964
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1975 n. 761
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1975 n. 964
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1975 n. 761
 =============================================================
 
 Trasferimento di un posto di assistente ordinario convenzionato presso la facolta' di medicina e chirurgia dell'Universita' di Ancona.
@@ -14,7 +14,7 @@ Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio
 
 Visto il [decreto legislativo 7 maggio 1948, n. 1172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;1172), ratificato, con modificazioni, con [legge 24 giugno 1950, n. 465](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-06-24;465);
 
-Visto il [decreto del Presidente della Repubblica 22 giugno 1973, n. 630](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-06-22;630), con il quale e' stata approvata e resa esecutiva la convenzione istitutiva di un posto di assistente ordinario alla cattedra di semeiotica chirurgica presso la facolta' di medicina e chirurgia dell'Universita' di Ancona;
+Visto il [decreto del Presidente della Repubblica 22 giugno 1973, n. 632](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-06-22;632), con il quale e' stata approvata e resa esecutiva la convenzione istitutiva di un posto di assistente ordinario alla cattedra di semeiotica medica presso la facolta' di medicina e chirurgia dell'Universita' di Ancona;
 
 Sulla
 -----
@@ -25,7 +25,10 @@ Articolo unico
 --------------
 
   
-Sono approvati e resi esecutivi gli annessi atti aggiuntivi stipulati in Ancona rispettivamente il 29 dicembre 1973 ed il 28 ottobre 1974, con i quali il posto di assistente ordinario convenzionato, istituito con [decreto del Presidente della Repubblica 22 giugno 1973, numero 630](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-06-22;630), presso la cattedra di semeiotica chirurgica della facolta' di medicina e chirurgia dell'Universita' di Ancona, viene trasferito alla cattedra di patologia speciale chirurgica e propedeutica clinica della facolta' e Universita' medesime, nonche' vengono maggiorati i contributi relativi al mantenimento del posto stesso, fermi restando ogni altro patto e clausola contenuti nella convenzione originaria.  
+  
+  
+Sono approvati e resi esecutivi gli annessi atti aggiuntivi stipulati in Ancona rispettivamente il 29 dicembre 1973 ed il 28 ottobre 1974, con i quali il posto di assistente ordinario convenzionato, istituito con [decreto del Presidente della Repubblica 22 giugno 1973 n. 632](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-06-22;632), presso la cattedra di semeiotica medica della facolta' di medicina e chirurgia dell'Universita' di Ancona, viene trasferito alla cattedra di patologia speciale medica e metodologia clinica della facolta' e universita' medesime, nonche' vengono maggiorati i contributi relativi al mantenimento del posto stesso, fermi restando ogni altro patto e clausola contenuti nella convenzione originaria.   
+  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
@@ -37,13 +40,13 @@ LEONE MALFATTI - COLOMBO
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 8 aprile 1976
+Registrato alla Corte dei conti, addi' 5 gennaio 1976
 
-Atti di Governo, registro n. 4, foglio n. 68
+Atti di Governo, registro n. 1, foglio n. 7
 
 Atto aggiuntivo alla Convenzione tra l'Universita' di Ancona e il Consorzio-art. 1
 
- Repertorio n. 34   
+ Repertorio n. 33   
   
   
 Repubblica italiana   
@@ -52,19 +55,19 @@ Repubblica italiana
 UNIVERSITA' DEGLI STUDI DI ANCONA   
   
   
-ATTO AGGIUNTIVO ALLA CONVENZIONE STIPULATA TRA L'UNIVERSITA' DEGLI STUDI DI ANCONA ED IL CONSORZIO PER IL POTENZIAMENTO DEGLI STUDI UNIVERSITARI DI ANCONA PER LA ISTITUZIONE DI UN POSTO DI ASSISTENTE PRESSO LA CATTEDRA DI SEMEIOTICA CHIRURGICA DELLA FACOLTA' DI MEDICINA E CHIRURGIA IN DATA 12 SETTEMBRE 1972, REGISTRATO IL 18 SETTEMBRE 1973, N. 1392 PRIVATI ESENTI.   
+ATTO AGGIUNTIVO ALLA CONVENZIONE STIPULATA TRA L'UNIVERSITA' DEGLI STUDI DI ANCONA E IL CONSORZIO PER IL POTENZIAMENTO DEGLI STUDI UNIVERSITARI DI ANCONA PER LA ISTITUZIONE DI UN POSTO DI ASSISTENTE PRESSO LA CATTEDRA DI SEMEIOTICA MEDICA DELLA FACOLTA' DI MEDICINA E CHIRURGIA IN DATA 12 SETTEMBRE 1972, REGISTRATO IL 18 SETTEMBRE 1972, AL N. 1394, PRIVATI ESENTI.   
   
   
 L'anno 1973 (millenovecentosettantatre) il giorno 29 (ventinove) del mese di dicembre nell'edificio comunale di Ancona si sono incontrati i signori:   
-prof. Alfredo Trifogli, nato ad Ancona il 22 settembre 1920, preside, nella qualita' di commissario governativo dell'Universita' degli studi di Ancona, giusto il decreto ministeriale del 28 apri le 1971, n. 11066 e riconfermato con nota ministeriale n. 1488 del 22 giugno 1973, autorizzato al presente atto con decreto n. 31 del 4 dicembre 1973, allegato in copia alla lettera A, domiciliato per la carica presso l'Universita' degli studi di Ancona, piazza Roma, 23;   
-dott. Rolando Ricciotti, nato a Chiaravalle (Ancona) il 15 febbraio 1916, funzionario delle ferrovie dello Stato nella sua qualita' di presidente del Consorzio per il potenziamento degli studi universitari di Ancona con sede in questa citta' presso l'amministrazione comunale, giusta delibera dell'assemblea consorziale del 22 dicembre 1971, ai sensi dell'art. 11 dello statuto, nell'interesse del Consorzio stesso ed a norma dell'art. 16 dello statuto, autorizzato al presente atto con [delibera n. 32 in data 6 dicembre 1973](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1973-12-06;32) del direttivo del Consorzio, allegato in copia sotto la lettera B.   
+prof. Alfredo Trifogli, nato ad Ancona il 22 settembre 1920, preside, nella qualita' di commissario governativo dell'Universita' degli studi di Ancona, giusto il [decreto ministeriale del 28 aprile 1971, n. 11066](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1971-04-28;11066), e riconfermato con nota ministeriale n. 1488 del 22 giugno 1973, autorizzato al presente atto con decreto n. 31 del 4 dicembre 1973, allegato in copia alla lettera A, domiciliato per la carica presso l'Universita' degli studi di Ancona, piazza Roma, 23;   
+dott. Rolando Ricciotti, nato a Chiaravalle (Ancona) il 15 febbraio 1916, funzionario delle ferrovie dello Stato, nella sua qualita' di presidente del consorzio per il potenziamento degli studi universitari di Ancona, con sede in questa citta' presso l'amministrazione comunale, giusta delibera dell'assemblea consorziale del 22 dicembre 1971, ai sensi dell'art. 11 dello statuto, nell'interesse del consorzio stesso ed a norma dello art. 16 dello statuto, autorizzato al presente atto con [delibera n. 32 in data 6 dicembre 1973](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1973-12-06;32) del direttivo del consorzio, allegato in copia sotto la lettera B.   
 Le parti, come sopra costituite, convengono e stipulano il seguente atto aggiuntivo:   
   
   
 Art. 1.   
   
   
-Il posto di assistente ordinario convenzionato presso la facolta' di medicina e chirurgia per la cattedra di semeiotica chirurgica viene trasferito dalla medesima alla cattedra di patologia speciale chirurgica e propedeutica clinica II, fermi restando i patti e le clausole contenuti nella convenzione di cui il presente atto e' parte integrante.   
+Il posto di assistente ordinario convenzionato presso la facolta' di medicina e chirurgia per la cattedra di semeiotica medica viene trasferito dalla medesima alla cattedra di patologia speciale medica e metodologia clinica II, fermi restando i patti e le clausole contenuti nella convenzione di cui il presente atto e' parte integrante.   
 
 Atto aggiuntivo alla Convenzione tra l'Universita' di Ancona e il Consorzio-art. 2
 
@@ -74,23 +77,20 @@ Atto aggiuntivo alla Convenzione tra l'Universita' di Ancona e il Consorzio-art.
 Il presente atto aggiuntivo verra' registrato in esenzione di tassa di registro, a norma dell'art. 45 della legge 24 luglio 1962 e [legge 10 novembre 1970, n. 868](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-11-10;868), in quanto non modifica sostanzialmente le condizioni economiche del precedente atto di cui e' parte integrante.   
   
   
-Alfredo TRIFOGLI   
-Rolando RICIOTTI   
+F.to Alfredo TRIFOGLI   
+Rolando RICCIOTTI   
   
   
-Registrato ad Ancona - Ufficio del registro atti privati, addi'   
-ottobre 1974, al n. 113 - Esente   
+Registrato ad Ancona, addi' 9 gennaio 1974 - Ufficio del registro atti privati, al n. 112. - Esente.   
   
   
 Visto, d'ordine del Presidente della Repubblica   
 Il Ministro per la pubblica istruzione   
-  
-  
 MALFATTI   
 
-Atto aggiuntivo a precedente atto del 29 dicembre 1973-art. 1
+Atto aggiuntivo al precedente atto aggiuntivo del 29 dicembre 1973-art. 1
 
- Repertorio n. 47   
+ Repertorio n. 46   
   
   
 Repubblica italiana   
@@ -99,22 +99,22 @@ Repubblica italiana
 UNIVERSITA' DEGLI STUDI DI ANCONA   
   
   
-ATTO AGGIUNTIVO A PRECEDENTE ATTO AGGIUNTIVO DEL 29 DICEMBRE 1973, REGISTRATO IL 9 GENNAIO 1974 AL N. 113 PRIVATI ESENTI, RELATIVO AL TRASFERIMENTO DEL POSTO CONVENZIONATO DI ASSISTENTE ORDINARIO DALLA CATTEDRA DI SEMEIOTICA CHIRURGICA ALLA CATTEDRA DI PATOLOGIA SPECIALE CHIRURGICA E PROPEDEUTICA CLINICA DELLA FACOLTA' DI MEDICINA E CHIRURGIA, ISTITUITO CON CONVENZIONE IN DATA 12 SETTEMBRE 1972 TRA L'UNIVERSITA' ED IL CONSORZIO PER IL POTENZIAMENTO DEGLI STUDI UNIVERSITARI CON SEDE IN ANCONA APPROVATA CON DECRETO DEL [PRESIDENTE DELLA REPUBBLICA 22 GIUGNO 1973, N. 630](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica::1973-06-22;630).   
+ATTO AGGIUNTIVO A PRECEDENTE ATTO AGGIUNTIVO DEL 29 DICEMBRE 1973, REGISTRATO IL 9 GENNAIO 1974 AL N. 112 PRIVATI ESENTI, RELATIVO AL TRASFERIMENTO DEL POSTO CONVENZIONATO DI ASSISTENTE ORDINARIO DALLA CATTEDRA DI SEMEIOTICA MEDICA ALLA CATTEDRA DI PATOLOGIA SPECIALE MEDICA E METODOLOGIA CLINICA DELLA FACOLTA' DI MEDICINA E CHIRURGIA, ISTITUITO CON CONVENZIONE IN DATA 12 SETTEMBRE 1972 TRA L'UNIVERSITA' ED IL CONSORZIO PER IL POTENZIAMENTO DEGLI STUDI UNIVERSITARI CON SEDE IN ANCONA APPROVATA CON DECRETO DEL [PRESIDENTE DELLA REPUBBLICA 22 GIUGNO 1973, N. 632](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica::1973-06-22;632).   
   
   
 L'anno 1974 (millenovecentosettantaquattro) il giorno ventotto (28) del mese di ottobre, nell'edificio comunale di Ancona si sono incontrati i signori:   
-prof. Alfredo Trifogli, nato ad Ancona il 22 settembre 1920, preside dell'istituto tecnico industriale statale di Ancona, nella qualita' di commissario governativo dell'Universita' di Ancona, giusto [decreto ministeriale 28 aprile 1971, n. 11066](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1971-04-28;11066), riconfermato con ministeriale n. 1488 del 22 giugno 1973, prorogato nelle funzioni con nota n. 1996 del 16 maggio 1974 e confermato sino al 31 ottobre 1974 con ministeriale del 29 agosto 1974, n. 3736, autorizzato al presente atto con decreto n. 571 del 12 ottobre 1974, domiciliato per la carica presso l'Universita' degli studi di Ancona, piazza Roma, 23;   
-dott. Rolando Ricciotti, nato a Chiaravalle (Ancona) il 15 febbraio 1916, pensionato delle ferrovie dello Stato nella sua qualita' di presidente del Consorzio per il potenziamento degli studi universitari di Ancona con sede nella stessa citta' presso la residenza municipale, giusta delibera dell'assemblea consorziale del 22 dicembre 1971, ai sensi dell'art. 11 dello statuto, nell'interesse del Consorzio stesso ed a norma dell'art. 16 dello statuto, autorizzato al presente atto con delibera in data 5 settembre 1974 del direttivo del Consorzio.   
+prof. Alfredo Trifogli, nato ad Ancona il 22 settembre 1920, preside dell'istituto tecnico industriale statale di Ancona, nella qualita' di commissario governativo dell'Universita' di Ancona, giusto [decreto ministeriale del 28 aprile 1971, n. 11066](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1971-04-28;11066), riconfermato con ministeriale n. 1488 del 22 giugno 1973, prorogato nelle funzioni con nota n. 1996 del 16 maggio 1974 e confermato sino al 31 ottobre 1974 con ministeriale del 29 agosto 1974, n. 3736, autorizzato al presente atto con decreto n. 571 del 12 ottobre 1974, domiciliato per la carica presso l'Universita' degli studi di Ancona, piazza Roma, 23;   
+dott. Rolando Ricciotti, nato a Chiaravalle (Ancona) il 15 febbraio 1916, pensionato delle ferrovie dello Stato nella sua qualita' di presidente del consorzio per il potenziamento degli studi universitari di Ancona, con sede nella stessa citta' presso la residenza municipale, giusta delibera dell'assemblea consorziale del 22 dicembre 1971, ai sensi dell'art. 11 dello statuto, nell'interesse del consorzio stesso ed a norma dell'articolo 16 dello statuto, autorizzato al presente atto con delibera in data 5 settembre 1974 del direttivo del consorzio.   
 Le parti, come sopra costituite, convengono e stipulano quanto segue:   
   
   
 Art. 1.   
   
   
-Il dott. Rolando Ricciotti, nella sua qualifica di presidente del Consorzio per il potenziamento degli studi universitari, con sede in Ancona conferma, a carico del Consorzio medesimo, l'assunzione dell'onere finanziario relativo al posto di assistente presso la cattedra di patologia speciale chirurgica e propedeutica clinica della facolta' di medicina e chirurgia, anche per quanto si riferisce all'aumento dei contributi di cui alle lettere a) e b) dell'art. 1 della convenzione in data 12 settembre 1972 previsto dal [decreto-legge 1 ottobre 1973, n. 580](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580), convertito con modifiche nella [legge 30 novembre 1973, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766).   
+Il dott. Rolando Ricciotti, nella sua qualifica di presidente del consorzio per il potenziamento degli studi universitari, con sede in Ancona, conferma, a carico del consorzio medesimo, l'assunzione dell'onere finanziario relativo al posto di assistente presso la cattedra di patologia speciale medica e metodologia clinica della facolta' di medicina e chirurgia, anche per quanto si riferisce all'aumento dei contributi di cui alle lettere a) e b) dell'art. 1 della convenzione in data 12 settembre 1972 previsto dal [decreto-legge 1 ottobre 1973, n. 580](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580), convertito con modifiche nella [legge 30 novembre 1973, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766).   
 Restano fermi gli altri patti e clausole contenute nella convenzione di cui il presente atto e' parte integrante.   
 
-Atto aggiuntivo a precedente atto del 29 dicembre 1973-art. 2
+Atto aggiuntivo al precedente atto aggiuntivo del 29 dicembre 1973-art. 2
 
  Art. 2.   
   
@@ -122,11 +122,11 @@ Atto aggiuntivo a precedente atto del 29 dicembre 1973-art. 2
 Il presente atto aggiuntivo verra' registrato in esenzione di tassa di registro, a norma dell'art. 45 della legge 24 luglio 1962 e [legge 10 novembre 1970, n. 868](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-11-10;868), in quanto non modifica sostanzialmente le condizioni del precedente atto di cui e' parte integrante.   
   
   
-Alfredo TRIFOGLI   
+F.to Alfredo TRIFOGLI   
 Rolando RICCIOTTI   
   
   
-Registrato ad Ancona - Ufficio del registro atti privati, addi' 31 ottobre 1974, al n. 1651 - Esente   
+Registrato ad Ancona, addi' 31 ottobre 1974 - Ufficio del registro atti privati, al n. 1650. - Esente.   
   
   
 Visto, d'ordine del Presidente della Repubblica   

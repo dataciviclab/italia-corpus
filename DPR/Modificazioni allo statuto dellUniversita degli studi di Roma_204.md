@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 agosto 1964 n. 896
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1979 n. 975
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 agosto 1964 n. 896
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1979 n. 975
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -10,115 +10,90 @@ Modificazioni allo statuto dell'Universita' degli studi di Roma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Roma approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successive modificazioni;
+Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652);
-
-e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Decreta:
+Sulla
+-----
 
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+proposta del Ministro della pubblica istruzione; Decreta:
 
-Art. 58. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere moderne (indirizzo europeo) e' aggiunto quello di "Letteratura moderna comparata".
+Articolo unico
+--------------
 
-Art. 67. - Agli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di:
-
-21) Didattica,
-
-22) Antropologia culturale.
-
-Art. 68. - La denominazione dell'insegnamento complementare di "Lingua e letteratura americana" inclusa tra le materie del corso di laurea in Lingue e letterature straniere e' cambiata in quella di "Letteratura anglo-americana".
-
-Art. 81. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di "Psichiatria".
-
-Art. 100. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti quelli di:
-
-29) Citologia ed embriologia vegetale;
-
-30) Fitogeografia;
-
-31) Micologia;
-
-32) Embriologia chimica;
-
-33) Citologia.
-
-Art. 202. - Agli insegnamenti costitutivi della Scuola nazionale di archeologia e' aggiunto quello di "Protostoria europea".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 agosto 1964
-
-Per il Presidente della Repubblica
-
-Il Presidente del Senato
-
-MERZAGORA
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 7 ottobre 1964 Atti del Governo, registro n. 187, foglio n. 77. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652);  
-e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione Sulla proposta del Ministro per la pubblica istruzione;  
+Dopo l'art. 243, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in politica ed economia dei trasporti, annessa alla facolta' di scienze politiche.  
   
-Decreta:  
+FACOLTA' DI SCIENZE POLITICHE  
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 58. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere moderne (indirizzo europeo) e' aggiunto quello di "Letteratura moderna comparata".  
-Art. 67. - Agli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di:  
-21) Didattica,  
-22) Antropologia culturale.  
-Art. 68. - La denominazione dell'insegnamento complementare di "Lingua e letteratura americana" inclusa tra le materie del corso di laurea in Lingue e letterature straniere e' cambiata in quella di "Letteratura anglo-americana".  
-Art. 81. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di "Psichiatria".  
-Art. 100. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti quelli di:  
-29) Citologia ed embriologia vegetale;  
-30) Fitogeografia;  
-31) Micologia;  
-32) Embriologia chimica;  
-33) Citologia.  
-Art. 202. - Agli insegnamenti costitutivi della Scuola nazionale di archeologia e' aggiunto quello di "Protostoria europea".  
+Scuola di specializzazione in politica ed economia dei trasporti  
+  
+Art. 244. - Presso la facolta' di scienze politiche e' istituita la scuola di specializzazione in economia e politica dei trasporti. Essa ha lo scopo di promuovere la conoscenza approfondita, anche sotto l'aspetto tecnico e pratico, delle discipline economiche, giuridiche, operative e sociali riguardanti le varie attinenze del fenomeno del trasporto e, particolarmente, di avviare gli iscritti alla conoscenza analitica delle organizzazioni strutturali e delle attivita' operative concernenti il trasporto sia sul piano internazionale generale, sia su quello europeo e su quello interno.  
+Art. 245. - Alla scuola possono iscriversi i laureati in giurisprudenza, in scienze politiche, in economia e commercio, in ingegneria civile, in scienze statistiche ed economiche, in scienze statistiche e demografiche, in scienze statistiche ed attuariali in qualsiasi Universita' italiana o Istituto universitario equiparato.  
+I laureati presso Universita' estere sono ammessi alla scuola alla condizione che il titolo sia riconosciuto equipollente dalle autorita' accademiche ai soli fini della ammissione alla scuola.  
+Art. 246. - I corsi della scuola hanno durata di due anni.  
+L'insegnamento e' impartito, oltre che con lezioni cattedratiche, anche mediante seminari, ricerche, visite ad impianti ed istituti specializzati, conferenze di esperti italiani e stranieri.  
+Art. 247. - Le materie fondamentali del piano di studi sono cosi' ripartite:  
+1° Anno:  
+1) questioni di diritto dei trasporti;  
+2) economia dei trasporti;  
+3) elementi di statistica applicata ai trasporti;  
+4) economia delle imprese private di trasporto;  
+5) economia delle aziende pubbliche di trasporto;  
+6) organizzazione internazionale dei trasporti.  
+2° Anno:  
+7) politica economica e politica dei trasporti;  
+8) tecniche di programmazione dei trasporti;  
+9) organizzazione e gestione dei trasporti in superficie;  
+10) elementi di diritto delle assicurazioni dei trasporti;  
+11) organizzazione e gestione dei trasporti marittimi ed aerei.  
+Ai predetti insegnamenti fondamentali possono essere aggiunte, a seconda delle esigenze della scuola, e con eventuale rotazione annuale, le seguenti ulteriori materie opzionali:  
+1) legislazione regionale comparata;  
+2) stato giuridico del personale del trasporto;  
+3) beni destinati al trasporto;  
+4) trasporti, infrastrutture, gestione del territorio;  
+5) trasporti multimodali;  
+6) trasporti privati (regime giuridico della circolazione);  
+7) diritto e tecniche doganali;  
+8) tutela dell'ambiente;  
+9) formazione dei bilanci delle aziende pubbliche di trasporto;  
+10) fondamenti di logica ed uso dei calcolatori;  
+11) ricerca operativa applicata ai trasporti.  
+Art. 248. - La scuola rilascia un diploma di specializzazione in politica ed economia dei trasporti. L'esame di diploma consiste nella presentazione e discussione di una dissertazione scritta innanzi ad una commissione composta da non meno di sette membri.  
+Per essere ammesso all'esame di diploma, si richiede che il candidato, iscritto alla scuola, abbia superato le prove di esame per tutti gli insegnamenti fondamentali, nonche' almeno tre delle materie opzionali, scelte tra quelle attivate dalla direzione della scuola.  
+Art. 249. - La scuola e' retta da un consiglio di professori del quale fanno parte, con voto deliberativo, i docenti titolari degli insegnamenti della scuola e, con voto consultivo, tutti gli altri docenti.  
+Il direttore, il quale sara' coadiuvato, nella gestione della scuola, da altri due docenti universitari, e' nominato dal consiglio di facolta' di scienze politiche dell'Universita' di Roma.  
+I docenti della scuola sono nominati dal rettore su proposta del direttore della scuola, approvata dal consiglio di facolta'.  
+Art. 250. - I proventi della scuola sono costituiti dalle tasse scolastiche, dagli eventuali contributi dello Stato, dell'Universita', di enti pubblici, di societa' a capitale pubblico o privato, di privati.  
+Tali proventi sono destinati a coprire: la spesa per gli stipendi ed assegni al personale insegnante, assistente e di segreteria della scuola; le altre spese competenti direttamente alla scuola (biblioteca, emeroteca, pubblicazioni scientifiche, ricerche, ecc.) la eventuale concessione di borse di studio a discenti, iscritti alla scuola, che siano meritevoli e di condizioni economiche non agiate.  
+Art. 251. - Gli iscritti alla scuola sono tenuti al pagamento della tassa di immatricolazione, delle tasse annuali di iscrizione, della tassa di diploma e di ogni altra soprattassa o contributo, nella misura e con le modalita' prescritte per gli studenti iscritti al corso di laurea in scienze politiche.  
+Art. 252. - L'attivita' didattica e scientifica della scuola viene svolta utilizzando i locali e le attrezzature dell'istituto di studi economici, finanziari e statistici della facolta' di scienze politiche dell'Universita' di Roma.  
+Art. 253. - Il direttore della scuola compila ogni anno il relativo manifesto-programma che, previa approvazione del consiglio dei professori, sara' reso di pubblica ragione.  
+Nel manifesto annuale puo' essere stabilito un numero minimo ed, eventualmente, un numero massimo di iscrizioni. Qualora non sia raggiunto il numero minimo fissato per gli iscritti, il consiglio dei professori puo' decidere che non vengano tenuti gli insegnamenti del 1° anno. Tuttavia, se taluno dei corsi venga comunque iniziato, dovra' essere proseguito, qualunque sia il numero degli iscritti, per la durata dell'intero corso.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 agosto 1964
+### Dato a Roma, addi' 30 ottobre 1979
 
-Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 7 ottobre 1964
+Registrato alla Corte dei conti, addi' 18 settembre 1980
 
-Atti del Governo, registro n. 187, foglio n. 77. - VILLA
+Registro n. 87 Istruzione, foglio n. 40

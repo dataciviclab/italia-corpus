@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 settembre 1980 n. 1127
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1982 n. 138
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 settembre 1980 n. 1127
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1982 n. 138
+==============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1127. Decreto del Presidente della Repubblica 1 settembre 1980, col quale, sulla proposta del Ministro degli affari esteri, di concerto con il Ministro delle finanze, il Ministero delle finanze viene autorizzato ad accettare la donazione di un immobile sito in Montevideo, calle Paraguay n. 1177, da tempo sede dell'Istituto italiano di cultura, disposta dall'associazione "Pro cultura italiana en el Uruguay S.A." con atto di donazione 25 maggio 1970.  
+138. Decreto del Presidente della Repubblica 29 gennaio 1982, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione di una donazione a favore dello Stato, consistente in una collezione composta di un gruppo di trentatre opere, da destinare alla soprintendenza speciale alla Galleria nazionale d'arte moderna e contemporanea di Roma, disposta dalle signorine Lucia e Elica Balla, con atto 4 dicembre 1980, n. 472 di repertorio, a rogito dott. Antonio Sgobbo, notaio in Roma.  
   
-Visto, il Guardasigilli: SARTI  
-Registrato alla Corte dei conti, addi' 16 gennaio 1981  
-Registro n. 1 Esteri, foglio n. 226
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 26 marzo 1982  
+Registro n. 9 Beni culturali, foglio n. 234

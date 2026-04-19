@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 febbraio 1977 n. 32
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1978 n. 342
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 febbraio 1977 n. 32
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1978 n. 342
+=============================================================
 
 Modificazioni alle condizioni e tariffe per i trasporti delle persone e delle cose sulle ferrovie dello Stato.
 --------------------------------------------------------------------------------------------------------------
@@ -12,15 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il [regio decreto-legge 11 ottobre 1934, n. 1948](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-10-11;1948), convertito nella [legge 4 aprile 1935, n. 911](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-04;911), e successive modificazioni;
 
-Visto il [regio decreto-legge 25 gennaio 1940, n. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1940-01-25;9), convertito nella [legge 13 maggio 1940, n. 674](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-13;674), e successive modificazioni;
+Visto il [regio decreto-legge 25 gennaio 1940, n. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1940-01-25;9), convertito nella [legge 13 maggio 1940,n. 674](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-13;674), e successive modificazioni;
 
 Vista la [legge 22 dicembre 1948, n. 1456](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-12-22;1456);
 
-Visti i [decreti interministeriali 12 aprile 1950, n. 4511](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1950-04-12;4511) e [23 luglio 1952, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1952-07-23;445), concernenti agevolazioni tariffarie per i viaggi sulle ferrovie dello Stato a favore di partecipanti a crociere marittime;
-
-Visti i [decreti interministeriali 1 agosto 1953, n. 614](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1953-08-01;614) e [28 giugno 1954, n. 5027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1954-06-28;5027), concernenti agevolazioni tariffarie per i viaggi sulle ferrovie dello Stato dei turisti americani;
-
-Sulla proposta del Ministro per i trasporti, di concerto con i Ministri per il bilancio e la programmazione economica, per il tesoro, per l'agricoltura e le foreste e per l'industria, il commercio e l'artigianato;
+Sulla proposta del Ministro dei trasporti, di concerto con i Ministri del bilancio e della programmazione economica, del tesoro, dell'agricoltura e delle foreste, dell'industria, del commercio e dell'artigianato;
 
 Sentito il Comitato interministeriale dei prezzi;
 
@@ -33,604 +29,765 @@ Art. 1
 ------
 
   
+Alle "Condizioni e tariffe per i trasporti delle persone sulle ferrovie dello Stato" sono apportate le seguenti modificazioni:  
+1) i prezzi delle basi chilometriche delle tariffe n. 1, n. 2, n. 3, n. 4, n. 5 e n. 6 sono sostituiti con quelli riportati nella tabella figurante nell'allegato n. 1 al presente decreto;  
+2) i prezzi delle basi chilometriche ed il diritto fisso della tariffa n. 1 bis sono sostituiti con quelli riportati nella tabella figurante nell'allegato n. 2 al presente decreto;  
+3) i prezzi della tariffa n. 15 sono sostituiti con quelli riportati nella tabella figurante nell'allegato n. 3 al presente decreto;  
+4) i prezzi delle basi chilometriche ed i diritti fissi della tariffa n. 21 sono sostituiti con quelli riportati nella tabella figurante nell'allegato n. 4 al presente decreto;  
+5) i prezzi delle basi chilometriche ed i diritti fissi della tariffa n. 21 bis sono sostituiti con quelli riportati nella tabella figurante nell'allegato n. 5 al presente decreto;  
+6) i prezzi delle basi chilometriche ed i diritti fissi delle tariffe n. 22 e n. 23 sono sostituiti con quelli riportati nella tabella figurante nell'allegato n. 6 al presente decreto;  
+7) i prezzi della tariffa n. 25 per biglietti chilometrici sono fissati in L. 87.600 e 49.200 rispettivamente per la prima e la seconda classe;  
+8) il prezzo del supplemento per l'occupazione di un posto cuccetta e' fissato in L. 4.200;  
+9) i diritti speciali, le tasse accessorie e i depositi cauzionali di cui all'allegato n. 1 alle predette "Condizioni e tariffe" sono sostituiti con quelli riportati nella tabella figurante nell'allegato n. 7 al presente decreto;  
+10) i supplementi di prezzo per l'occupazione di posti nelle carrozze letto circolanti in servizio interno e i diritti di ammissione dovuti dai portatori di documenti che legittimano l'esenzione dal pagamento del supplemento letto, previsti rispettivamente ai punti 3 e 7 dell'allegato n. 11 alle predette "Condizioni e tariffe", sono sostituiti con quelli riportati nella tabella figurante nell'allegato n. 8 al presente decreto;  
+11) le tasse, le soprattasse e i diritti, anche accessori, di ogni genere figuranti nel testo delle predette "Condizioni e tariffe" sono sostituiti con quelli riportati nell'allegato n. 9 al presente decreto;  
+12) il terzo capoverso dell'art. 4, paragrafo 3, e' sostituito dal seguente:  
+L'Azienda ammette, con le modalita' e per i treni indicati nell'orario ufficiale, la prenotazione dei posti nelle carrozze. Per determinati treni indicati nell'orario ufficiale, l'Azienda ha facolta' di prescrivere la prenotazione obbligatoria. La prenotazione puo' essere subordinata alla preventiva esibizione del biglietto di viaggio;  
+13) il limite di venti chilometri previsto all'art. 12, paragrafo 3, lettera a), e' modificato in trenta chilometri;  
+14) il primo capoverso dell'art. 19, paragrafo 4, e' sostituito dal seguente:  
   
-Alle "Condizioni e tariffe per i trasporti delle persone sulle ferrovie dello Stato" sono apportate le seguenti modificazioni:   
-1) i prezzi delle basi chilometriche delle tariffe n. 1, n. 2, n. 3, n. 4, n. 5, n. 6 e n. 21 sono aumentati del venti per cento;   
-2) i prezzi delle basi chilometriche della tariffa n. 1-bis per biglietti di supplemento rapido sono aumentati del dieci per cento; il diritto fisso viene stabilito in lire mille;   
-3) I prezzi della tariffa n. 15 per biglietti turistici di libera circolazione sono aumentati del trenta per cento;   
-4) i prezzi della tariffa n. 21-bis per biglietti di abbonamento ai supplementi per treni rapidi sono aumentati del dieci per cento;   
-5) i prezzi della tariffa n. 22 per biglietti di abbonamento ridotto sono aumentati del trenta per cento;   
-6) i prezzi della tariffa n. 23 per biglietti di abbonamento settimanale o festivo per impiegati, operai e braccianti sono aumentati: del quaranta per cento per la prima classe; del venti per cento per la seconda classe;   
-7) i prezzi della tariffa n. 25 per biglietti chilometrici sono fissati in L. 73.000 e 41.000 rispettivamente per la prima e la seconda classe;   
-8) il prezzo del supplemento per l'occupazione di un posto cuccetta previsto all'allegato 10 e' fissato in L. 3.500;   
-9) i supplementi di prezzo per l'utilizzazione di posti nelle carrozze letto circolanti in servizio interno, le condizioni per il rilascio degli abbonamenti alle carrozze letti ed i diritti di ammissione dovuti dai portatori di documenti che legittimano l'esenzione del pagamento del supplemento letto, previsti rispettivamente ai paragrafi 3, 6 e 7 dell'allegato 11, vengono sostituiti con quelli riportati nell'allegato 1 al presente decreto;   
-10) i prezzi minimi per viaggiatore, sia per adulti sia per ragazzi, e per qualsiasi tariffa, salvo quella n. 14, sono fissati in L. 300 per la prima ed in L. 200 per la seconda classe.   
-Fanno eccezione i prezzi minimi delle tariffe per biglietti di abbonamento che sono fissati in L. 1.000 per la prima ed in L. 500 per la seconda classe;   
-11) il diritto per la prenotazione posti nelle carrozze e' fissato, per posto e per treno, in:   
-a) L. 800 per i viaggi individuali;   
-b) L. 400 per i viaggi in comitiva;   
-12) il limite di eta' di 14 anni previsto dall'art. 7 per fruire della meta' prezzo e' modificato in 12 anni;   
-13) all'art. 36, paragrafo 1 e' aggiunto il seguente capoverso: "Quando il trasporto della comitiva rende necessaria l'effettuazione di apposito treno, al trasporto stesso si applicano le condizioni previste dalla tariffa n. 10";   
-14) il periodo 25 luglio-25 agosto, figurante all'articolo 36 paragrafo 1, lettera a), e' modificato in 25 giugno-31 agosto;   
-15) il settimo capoverso dell'art. 36, paragrafo 1, lettera a), e' sostituito dal seguente: "La Direzione generale delle ferrovie dello Stato ha facolta' di estendere le restrizioni della validita' dei biglietti per le comitive anche per il traffico internazionale, in relazione alle esigenze del mercato, alle condizioni dell'esercizio e comunque entro i limiti stabiliti per il traffico interno";   
-16) all'art. 49 va aggiunto il seguente capoverso:   
-"Per la vendita all'estero dei biglietti turistici di libera circolazione, la Direzione generale delle ferrovie dello Stato ha facolta' di esprimere in valuta estera il valore tariffario del biglietto e di garantire tale valore per periodi determinati dalla Direzione generale medesima, comunque di durata non superiore ai 18 mesi";   
-17) all'art. 53 va aggiunto il seguente capoverso:   
-"Per la vendita all'estero dei biglietti chilometrici, la Direzione generale delle ferrovie dello Stato ha la facolta' di esprimere in valuta estera il valore tariffario del biglietto e di garantire tale valore per periodi determinati dalla Direzione generale medesima, comunque di durata non superiore ai 18 mesi";   
-18) all'art. 63 e' aggiunto il seguente capoverso:   
-"Il Ministro per i trasporti ha facolta' di modificare i prezzi della presente tariffa in pari misura e con la stessa decorrenza delle variazioni apportate alle tariffe dei mezzi di superficie sulle corrispondenti relazioni";   
-19) gli importi relativi alle penalita', alle soprattasse, ai diritti accessori, di ogni genere, non superiori alle L. 10.000, sono aumentati fino alla misura massima del 50%; quelli superiori alle L. 10.000 sono aumentati del 20 per cento.   
+l'importo del prezzo calcolato secondo le basi di tariffa, degli eventuali diritti accessori e di ogni altra tassa o diritto inerenti al trasporto, viene arrotondato alle 100 lire superiori;  
+  
+15) il testo dell'art. 23 "Viaggi di doppia corsa", e' sostituito dal seguente:  
+  
+Par. 1 - Generalita'. - L'Azienda rilascia, per i viaggi da compiersi fra due qualsiasi stazioni, biglietti di doppia corsa alla tariffa competente al viaggiatore mediante il pagamento contemporaneo del viaggio di andata e di ritorno.  
+Par. 2 - Itinerari. - I biglietti di - doppia corsa sono rilasciati, sia per il viaggio di andata sia per quello di ritorno, per l'itinerario richiesto dal viaggiatore, nei limiti e alle condizioni stabiliti dall'art. 22, paragrafo 2, per i viaggi di corsa semplice.  
+Par. 3 - Modificazioni al contratto di trasporto. - Le modificazioni al contratto di trasporto si effettuano in base alle norme previste per i biglietti di corsa semplice all'art. 8, considerando separatamente ciascuna delle due corse.  
+Par. 4 - Prezzi. - Il prezzo del biglietto di doppia corsa e' stabilito, sulla base della tariffa competente al viaggiatore, sommando i prezzi previsti per il percorso di andata e per quello di ritorno. I prezzi stessi vengono peraltro stabiliti tassando separatamente ciascuna delle due corse quando i biglietti sono rilasciati per percorrere nel viaggio di andata una via diversa da quella del viaggio di ritorno.  
+Par. 5 - Validita'. - La validita' dei biglietti di doppia corsa si computa secondo i criteri di cui all'art. 22, paragrafo 3, calcolandola sulla semisomma della distanza complessiva, con un minimo di tre giorni ed un massimo di sei.  
+E' fatta eccezione per i biglietti rilasciati per una percorrenza complessiva di 100 km per i quali la validita' e' di un giorno.  
+I biglietti stessi scadono alle ore 24 dell'ultimo giorno di validita'.  
+Al viaggiatore che si trovi in treno allo spirare di tale termine, e' consentito proseguire il viaggio della corsa gia' impegnata fino alla relativa stazione di arrivo indicata sul biglietto, senza effettuare fermate intermedie.  
+Par. 6 - Inizio e termine dei viaggi. - I biglietti di doppia corsa sono validi per iniziare il viaggio di andata e quello di ritorno entro il periodo di validita' complessiva.  
+L'inizio del viaggio di ritorno non e' subordinato ad alcuna formalita'.  
+Par. 7 - Fermate intermedie. - I biglietti di doppia corsa danno diritto ad effettuare un numero illimitato di fermate, sia nel viaggio di andata sia in quello di ritorno.  
+L'uso delle fermate intermedie non e' subordinato ad alcuna speciale formalita' da parte del viaggiatore.  
+La durata delle fermate e' limitata soltanto dalla validita' del biglietto.  
+Par. 8 - Norme applicabili. - Per quanto non previsto dal presente articolo, valgono le norme sui biglietti di andata e ritorno;  
+16) le indicazioni "trenta giorni" e "sessanta giorni" figuranti agli articoli 37, 40 paragrafo 2, 43 paragrafo 10 e 45, paragrafo 6, sono modificate rispettivamente in, un mese e in due mesi;  
+17) le indicazioni "sessantesimo giorno" e "centottantesimo giorno" figuranti all'art. 50, paragrafo 2, sono modificate rispettivamente in due mesi e in sei mesi;  
+18) il testo dell'art. 54 e' sostituito dal seguente:  
+  
+i biglietti chilometrici sono rilasciati a vista dalle stazioni e dalle agenzie a cio' autorizzate e hanno la validita' di due mesi.  
+  
+La validita' decorre dal giorno in cui se ne inizia l'utilizzazione risultante dalla data della prima vidimazione. Tale data non puo' essere posteriore al mese successivo a quello di emissione;  
+19) gli articoli 62 e 64 sono soppressi.  
 
 Art. 2
-------
-
-  
-Le seguenti facilitazioni tariffarie, di cui ai decreti citati nelle premesse, sono revocate:  
-1) per i viaggi dei turisti americani nel periodo di bassa stagione;  
-2) per i viaggi dei partecipanti a crociere marittime.  
-
-Art. 3
 ------
 
   
   
 Alle "Condizioni e tariffe per i trasporti delle cose sulle ferrovie dello Stato" sono apportate le seguenti modificazioni:   
   
-I. - Alla parte II - Tariffe:   
+I. - Parte I - Condizioni:   
+A) Titolo I:   
+1) Art. 1: il testo del secondo alinea del paragrafo 4 e' sostituito dal seguente:   
+"Puo' anche accordare riduzioni di tasse accessorie o facilitazioni di altro genere, a parita' di condizioni e di circostanze, quando non vi si oppongano le esigenze del servizio".   
+2) Art. 3:   
+Par. 1: il secondo alinea e' sostituito dal seguente:   
+"Le spedizioni in piccole partite si distinguono in spedizioni di colli espressi e in spedizioni di messaggerie";   
+Par. 2: il secondo alinea e' sostituito dal seguente:   
+"Le spedizioni di messaggerie vengono inoltrate con treni merci celeri o con altri mezzi".   
+B) Titolo II:   
+1) Capo I, art. 11:   
+a) Par. 1:   
   
-A) Al capo I - Disposizioni generali per l'applicazione delle tariffe:   
+il punto sub b) e' soppresso;   
+nel punto sub d), la dizione "3 metri di lunghezza" e' modificata in "metri 2,5 di lunghezza";   
+il punto sub f) e' sostituito dal seguente:   
+"i velocipedi usati, con o senza motore ausiliario e i ciclomotori usati di cilindrata fino a 49 cc. Gli accessori sono ammessi solo se fissati al veicolo in modo stabile";   
+la elencazione dei punti c), d), e), f), g), e' modificata, rispettivamente, in b), c), d), e), f).   
   
-1) All'art. 61, paragrafo 2 - Tasse minime, il relativo testo e' sostituito col seguente:   
-"§ 2 - Tasse minime. - Per le spedizioni in piccole partite (art. 64, § 1) la tassa minima e' di L. 3.000, salvo le eccezioni stabilite nelle singole tariffe.   
-Per le spedizioni a carro (art. 64, § 2) la tassa minima per ogni carro e' la seguente:   
-a) nel servizio interno: L. 50.000;   
-b) nel servizio internazionale: L. 40.000.   
-Le suddette misure si riferiscono ai trasporti effettuati con carri a 2 o 3 assi. Per quelli effettuati con carri a carrelli od a 4 o piu' assi le stesse devono essere moltiplicate per il coefficiente previsto dallo art. 64, § 4.   
-Quando una spedizione sia costituita da piu' merci soggette a tasse minime diverse, la tassa minima a cui deve intendersi soggetta l'intera spedizione e' quella piu' elevata".   
-2) All'art. 64, il nuovo testo del paragrafo 3 - Pesi minimi tassabili - e il testo del nuovo paragrafo - Vincoli di peso -, che viene contraddistinto col n. 4, risultano nell'allegato 2 al presente decreto.   
-Di conseguenza l'attuale paragrafo 4 - Spedizioni di cose - di lunghezza eccezionale richiedenti l'utilizzazione di piu' carri - viene contraddistinto col n. 5.   
-3) All'art. 67, paragrafo 1, la tabella delle soprattasse, di cui al punto c), viene sostituita con quella riportata nell'allegato 3 al presente decreto.   
+b) Par. 3: il riferimento al comma g) e' modificato in f).   
+2) Capo II, art. 16: nel testo del paragrafo 1 la dizione "punti a), b), c), d) ed f)" e' modificata in "punti a), b), c), e)";   
+la parola "motocicli" e' sostituita con "ciclomotori".   
+C) Titolo III:   
+1) Capo I:   
+a) art. 18:   
   
-B) Al capo II - Art. 71 - Tariffe dei bagagli:   
+il testo del paragrafo 1 e' sostituito dal seguente:   
+"Sono ammesse al trasporto come "colli espressi", nei limiti di peso stabiliti dall'Amministrazione, le seguenti cose:   
   
-1) Al paragrafo 3 - Pesi fissi tassabili, il relativo testo e' sostituito col seguente:   
+pesci, crostacei, molluschi e frutti di mare, vivi, in appositi acquari;   
+pollame, cacciagione, selvaggina e piccoli animali da allevamento o da alimentazione, in gabbie, ceste o casse reticolate; carni macellate fresche, refrigerate o congelate;   
+pesci, crostacei e molluschi, morti; freschi o congelati;   
+latte fresco; burro; formaggio fresco, latticini e yogurt;   
+uova di pollame da cova;   
+materiale seminale bovino per la fecondazione artificiale;   
+pane fresco; paste da minestra fresche;   
+frutta, ortaggi e legumi in natura, freschi o congelati; funghi e tartufi freschi;   
+salumi freschi;   
+lieviti ed altri fermenti;   
+gelati od altri dolciumi deperibili;   
+fiori freschi recisi, comunque confezionati;   
+foglie ornamentali fresche;   
+semi di fungo (micelio);   
+schede meccanografiche; schedine (e bollini) per concorsi pronostici e relativo materiale pubblicitario;   
+specialita' e preparazioni medicinali;   
+sangue umano e plasma sanguigno;   
+materie radioattive;   
+anidride carbonica solida (ghiaccio secco);   
+pellicole cinematografiche non infiammabili in rotoli, per spettacoli e relativo materiale pubblicitario;   
+numerario, carte-valori e oggetti preziosi;   
+apparecchi e strumenti scientifici per ospedali e laboratori di analisi cliniche. Apparecchi ortopedici.   
+E' vietato introdurre nei colli espressi cose di cui all'art. 4, Par. 1, punti 1) e 3), nonche' tutte le cose pericolose e nocive di cui all'allegato 7, eccezion fatta per quelle sopra indicate.   
+L'Amministrazione, in relazione alle condizioni di esercizio, ha facolta' di apportare variazioni all'elenco di cui sopra, di consentirne deroghe per determinate relazioni di traffico e di prevederne l'inoltro soltanto con determinati treni";   
+e' inserito con la numerazione progressiva 2 il seguente paragrafo: "2 - Documento di trasporto. - Le spedizioni di colli espressi possono essere effettuate, a scelta dell'utente, con scontrino, debitamente compilato e rilasciato dall'Amministrazione, ovvero con la lettera di vettura per esse prevista (art. 25)";   
+la numerazione degli attuali paragrafi 2, 3 e 4 e' modificata, rispettivamente, in 3, 4 e 5;   
+e' inserito con la numerazione progressiva 6 il seguente paragrafo:   
+"6 - Disposizioni complementari. - Per le spedizioni di colli espressi effettuate con scontrino sono applicabili, per quanto non sia diversamente regolamentato dal presente capo, le norme di cui agli articoli 12, 13 e 14".   
+b) l'art. 18-bis e' sostituito dal seguente:   
   
+"Art. 18-bis - Messaggerie.   
+Par. 1 - Cose ammesse. - Sono ammesse al trasporto come "messaggerie", eventualmente sotto condizione (art. 4, Par. 2), tutte le cose ad eccezione:   
+a) di quelle previste dal par. 1 dell'art 4;   
+b) di quelle previste dalle tariffe speciali n. 106 e n. 108 - serie A;   
+c) di quelle pericolose e nocive che non siano specificatamente indicate nell'appendice V all'allegato n. 7;   
+d) di quelle soggette a rapido deperimento.   
+I singoli colli componenti le spedizioni di messaggerie non devono eccedere i limiti di kg 150 di peso e metri 4 di lunghezza.   
+Per le spedizioni da e per determinati scali, l'Amministrazione ha facolta' di modificare i limiti di peso e di dimensione di cui sopra nonche' di stabilire particolari limitazioni del peso ammesso per spedizione.   
+Par. 2 - Documento di trasporto. - Le spedizioni di messaggerie possono essere effettuate, a scelta dell'utente, con scontrino, debitamente compilato e rilasciato dall'Amministrazione, ovvero con la lettera di vettura per esse prevista (art. 25).   
+Le eventuali domande di rettifica delle indicazioni risultanti dallo scontrino debbono, sotto pena di decadenza, essere formulate all'atto della consegna del medesimo, salvo il disposto dell'art. 59, paragrafo 2.   
+Par. 3 - Accettazione. - Per l'accettazione delle spedizioni di messaggerie valgono le disposizioni previste dal successivo art. 35.   
+Nel caso in cui la spedizione sia effettuata con scontrino, il pagamento delle tasse e delle soprattasse dovute all'Amministrazione deve essere eseguito in partenza.   
+Par. 4 - Termini di resa. - Per il termine di resa delle spedizioni di messaggerie valgono le disposizioni del successivo art. 40.   
+Par. 5 - Riconsegna. - La riconsegna delle cose oggetto del trasporto avviene in base alle norme previste dal successivo art. 41.   
+Peraltro, per le spedizioni effettuate con scontrino, la riconsegna si effettua verso restituzione dello stesso e pagamento delle eventuali somme a carico. L'Amministrazione non e' tenuta ad assicurarsi che il presentatore dello scontrino ne sia legittimamente in possesso.   
+L'Amministrazione consegna le cose oggetto del trasporto anche all'utente che dichiari di avere smarrito lo scontrino purche' egli provi di essere l'avente diritto, rilasci ricevuta e, occorrendo, presti valida garanzia.   
+Per le somme a carico della spedizione che il possessore dello scontrino rifiuti di pagare all'atto della riconsegna, l'Amministrazione puo' esercitare il diritto di ritenzione e il privilegio richiamati all'art. 33, Par. 3.   
+Par. 6 - Termini per il ritiro. - Per il ritiro delle spedizioni di messaggerie i termini sono quelli stabiliti dal successivo art. 42".   
+c) art. 18-ter:   
   
-"§ 3 - Pesi fissi tassabili. - Le cose seguenti si tassano in base  
-al peso fisso per ciascuna di esse indicato:  
-motocicli usati di grande cilindrata, per ogni macchina . . . kg. 300 motocicli e motoscooters, usati, di media cilindrata, per ogni  
-macchina. . . . . . . . . . . . . . . . . . . . . . . . . . . " 200 motoleggere e motoscooters, usati, di piccola cilindrata, per ogni macchina. . . . . . . . . . . . . . . . . . . . . . . . . . . . " 150 motoleggere, motoscooters e ciclomotori, usati, di piccolissima cilindrata, per ogni macchina . . . . . . . . . . . . . . . . . ." 75 velocipedi usati senza motorino, per ogni unita' . . . . . . . . " 20  
-carrozzelle e tricicli (anche con motorino), usati, per persone impedite, per ogni apparecchio. . . . . . . . . . . . . . . . . "20 velocipedi e tricicli, usati, per bambini, per ogni unita' . . . ." 20  
-carrozzelle, passeggini e girelli, usati, per bambini, per ogni unita'. . . . . . . . . . . . . . . . . . . . . . . . . . . "20   
+il titolo e il testo del paragrafo 1 e quelli del paragrafo 5 sono soppressi;   
+l'ultimo comma del paragrafo 3 e' soppresso;   
+la numerazione dei paragrafi 2, 3 e 4 e' modificata, rispettivamente, in 1, 2 e 3.   
   
-2) Al paragrafo 4 - Autovetture accompagnate, il relativo testo e' sostituito con quello riportato nell'allegato 4 al presente decreto.   
+2) Capo III:   
+a) art. 25, Par. 2:   
   
-C) Al capo IV - Tariffe ordinarie - alla tariffa ordinaria n. 1, le tabelle di cui al titolo III - Prezzi, sono sostituite con quelle riportate nell'allegato 5 al presente decreto.   
+punto B: la dizione "a resa accelerata e di colli celeri" e' modificata in "di colli espressi e di messaggerie";   
+il punto C e' soppresso;   
   
-D) Al capo V - Tariffe speciali:   
+b) art. 27, Par. 1, comma b): la dizione "salva la facolta' di cui al successivo Par. 3" e' soppressa.   
+c) art. 29, Par. 2: il penultimo alinea e' soppresso.   
+d) art. 30, Par. 1: l'ultimo alinea e' soppresso.   
+e) art. 35:   
   
-1) Alla tariffa speciale n. 104 - Bestiame, le tabelle di cui al titolo III - Prezzi, sono sostituite con quelle riportate nell'allegato 6 al presente decreto.   
-2) Alla tariffa speciale n. 106 - Numerario, cartevalori e oggetti preziosi, al titolo III - Prezzi, l'importo della tassa sul valore per ogni cento chilometri indivisibili e per ogni mille lire indivisibili di L. 6,00 per i colli celeri e di L. 1,54 per i trasporti a carro, col minimo di L. 480 per spedizione e' elevato, rispettivamente, a L. 7,80 e a L. 2,00 col minimo di L. 1.000 per spedizione.   
-3) Alla tariffa speciale n. 107 - Giornali e altre pubblicazioni periodiche, la tabella di cui al titolo III - Prezzi, e' sostituita con quella riportata nell'allegato 7 al presente decreto.   
-4) Alla tariffa speciale n. 108 - Esplosivi e materie radioattive serie B, la tabella di cui al titolo III - Prezzi, e' sostituita con quella riportata nell'allegato 8 al presente decreto.   
-5) Alla tariffa speciale n. 109 - Feretri e resti umani, la tabella di cui al titolo III - Prezzi, e' sostituita con quella riportata nell'allegato 9 al presente decreto.   
-6) Il testo della tariffa speciale n. 110 - Spedizioni di "grandi containers" carichi o vuoti, e' sostituito con quello riportato nell'allegato 10 al presente decreto.   
-7) Il testo della tariffa speciale n. 111 - Spedizioni su determinate relazioni di traffico di "Rimorchi e semirimorchi stradali" carichi o vuoti, e' sostituito con quello riportato nell'allegato 11 al presente decreto.   
+il testo del paragrafo 2 e' sostituito dal seguente:   
+"L'Amministrazione accetta le spedizioni nei giorni feriali.   
+Qualora lo richiedano particolari situazioni di traffico o di esercizio, l'Amministrazione puo' non accettare, nei giorni di sabato, le spedizioni di messaggerie e le spedizioni a carro a resa ordinaria, anche limitatamente a determinate localita' o a determinate merci.   
+Nei giorni festivi riconosciuti dallo Stato, l'Amministrazione accetta le spedizioni per le quali sia richiesto e ammesso l'inoltro con treni viaggiatori o con treni merci celeri (art. 3) e quelle altre da essa stabilite eccettuate le spedizioni di messaggerie.   
+L'Amministrazione, quando lo ritenga necessario per eliminare gli inconvenienti derivanti al servizio da una straordinaria affluenza di spedizione o per conseguire una migliore utilizzazione del materiale rotabile durante i periodi di traffico piu' intenso, puo', in via temporanea, accettare tutte le spedizioni nei giorni festivi riconosciuti dallo Stato.   
+Quando l'Amministrazione si avvale della facolta' di cui al secondo e al quarto alinea del presente paragrafo, deve darne comunicazione al pubblico due giorni prima, esponendo apposito avviso nelle stazioni alle quali il provvedimento si riferisce".   
+Il testo del paragrafo 3 e' sostituito dal seguente:   
+"Il contratto di trasporto si intende concluso nel momento in cui l'agente incaricato dell'accettazione consegna allo speditore lo scontrino o gli restituisce la ricevuta di spedizione, dopo avervi apposto il bollo a data della stazione di partenza e la propria firma".   
+f) art. 37, Par. 1: l'ultimo alinea e' soppresso.   
+g) art. 38:   
   
-E) Al capo VI - Tariffe eccezionali:   
+Par. 1: il secondo e il terzo alinea sono soppressi;   
+nel testo del paragrafo 3, la dizione "o, quando del caso, il domiciliatario (art. 27, Par. 3)" e' soppressa;   
+nel testo del paragrafo 4, la dizione "o, quando del caso, il domiciliatario designato sulla lettera di vettura" e' soppressa.   
   
-1) Alla tariffa eccezionale n. 203 - Trasporto con navi-traghetto sulla relazione Messina Marittima-Villa S. Giovanni e Messina Marittima-Reggio Calabria Marittima di veicoli non caricati su carri ferroviari, le tabelle di cui alle serie A, B e C sono sostituite con quelle riportate nell'allegato 12 al presente decreto.   
-2) Alla tariffa eccezionale n. 204 - Cereali, farine alimentari e paste da minestra, la tabella di cui al titolo II - Prezzi, e' sostituita con quella riportata nell'allegato 13 al presente decreto.   
-3) Alla tariffa eccezionale n. 221 - Trasporto con navi-traghetto sulla relazione Civitavecchia-Golfo Aranci (o viceversa), di automezzi non caricati su carri ferroviari:   
-a) le tabelle di cui alle serie A, B e C sono sostituite con quelle riportate nell'allegato 14 al presente decreto;   
-b) alla condizione particolare 6ª:   
-il testo del secondo alinea e' sostituito con quello   
-riportato nell'allegato 15 al presente decreto;   
-il testo del terzo alinea e' soppresso.   
-4) Le tariffe eccezionali:   
-n. 205 - Sale comune e denaturato;   
-n. 208 - Fieno e paglia comune;   
-n. 213 - Piriti di ferro e ceneri di piriti di ferro;   
-n. 219 - Legna da ardere;   
-n. 254 - Spedizioni di merci varie caricate nello stesso carro (groupage),   
-sono soppresse.   
+h) art. 40:   
   
-F) Al capo VII - Prezzi:   
+Par. 1: il titolo del paragrafo e' sostituito dal seguente: "Termini di resa ordinari per i trasporti a carro";   
+Par. 2: il testo del comma d) e' sostituito dal seguente:   
+"d) di ore 24, salvo il caso previsto dal quarto alinea dell'art. 35, Par. 2:   
+per ogni giorno festivo riconosciuto dallo Stato;   
+per ogni giorno di sabato per il quale si applichi la disposizione di cui al secondo alinea dell'art. 35, Par. 2";   
+il titolo e il testo del paragrafo 4 sono sostituiti dal seguente:   
+"Par. 4 - Termini di resa per i trasporti di messaggerie. - L'Amministrazione deve mettere le cose oggetto del trasporto a disposizione del destinatario entro un termine massimo, decorrente dalla mezzanotte successiva alla consegna dello scontrino o della ricevuta di spedizione al mittente, computato nel modo seguente:   
+a) ore 12 per le operazioni terminali a partenza;   
+b) ore 12 per le operazioni terminali in arrivo;   
+c) ore 24 per i primi 300 km indivisibili di percorso;   
+d) ore 12 per ogni 400 km indivisibili successivi.   
+Per i trasporti in partenza e/o in arrivo in determinate stazioni espressamente indicate dall'Amministrazione, i termini di resa di cui alle lettere a) e b) sono ridotti della meta'.   
+Anche per i trasporti di cui al presente paragrafo valgono i termini supplementari stabiliti nel Par. 2, ai punti c), d), e), f), g), h), m), o), p), nonche' al punto a) limitatamente al periodo di 12 ore, per le spedizioni di cose che devono attraversare lo stretto di Messina, e di 24 ore, per le spedizioni di cose da trasportare con le navi traghetto FS da Civitavecchia a Golfo Aranci e viceversa".   
+i) art. 42, par. 2: il terzo e il quarto alinea sono sostituiti dai seguenti:   
+"E' fatta eccezione per le spedizioni in piccole partite di colli espressi e di messaggerie le quali devono essere ritirate entro 24 ore decorrenti dopo tre ore dall'arrivo della spedizione.   
+I termini per l'asportazione rimangono sospesi durante i giorni festivi riconosciuti dallo Stato".   
+l) art. 43: il testo del paragrafo 4 e' sostituito dal seguente:   
+"Agli effetti dell'applicazione delle tasse di sosta non si tiene conto dei giorni festivi riconosciuti dallo Stato e, nel caso previsto dal secondo alinea dell'art. 35, Par. 2, neanche dei giorni di sabato, allorche' detti giorni cadano, in tutto o in parte, nel periodo di giacenza delle spedizioni a carro a resa ordinaria e di quelle in piccole partite di messaggerie. E' fatto salvo il caso previsto dal quarto alinea dell'art. 35, Par. 2, qualora l'Amministrazione abbia dichiarato nel prescritto avviso che i termini per il carico e l'asportazione delle cose non rimangono sospesi nei giorni festivi".   
+D) Titolo IV:   
+1) Capo II, art. 54, Par. 4: tra il primo e il secondo alinea e' inserito il seguente:   
+"L'Amministrazione ha facolta' di ridurre l'ammontare delle soprattasse risultanti dall'applicazione del precedente punto b) se la ferrovia non abbia subito alcun danno, la sicurezza dell'esercizio non sia stata messa in pericolo e l'ammontare delle soprattasse stesse sia di entita' sproporzionata rispetto all'infrazione commessa".   
+2) Capo III, art. 56: il secondo alinea e' soppresso.   
+II. - Parte II - Tariffe:   
+A) Capo I:   
+1) Art. 61, Par. 2 - Tasse minime: gli importi di L. 3.000, di L. 50.000 e di L. 40.000 vengono elevati, rispettivamente, a L. 4.500, a L. 60.000 e a L. 48.000.   
+2) Art. 61, Par. 3, comma b): il testo del penultimo alinea e' sostituito dal seguente:   
+"L'importo relativo al prezzo di trasporto, calcolato come previsto al precedente alinea, con l'aggiunta di eventuali tasse, soprattasse, diritti o altre somme a qualsiasi titolo dovute, si arrotonda alle cento lire superiori".   
+3) Il titolo e il testo dell'art. 62 sono soppressi.   
+4) Art. 63, Par. 2: il testo dei commi a) e b) del primo alinea e' sostituito dal seguente:   
+"a) carri a 2 assi, esclusi quelli di cui al successivo comma b): L. 30.000;   
+b) carri a 3 o piu' assi od a carrelli;   
+carri coperti a 2 assi di capacita' superiore a 70 m\*m\*m (\*):  
+L. 45.000".   
+5) Art. 64:   
+Par. 2: il testo del comma d) e' sostituito dal seguente:   
+"d) quelle costituite di colli aventi lunghezza e/o peso unitario eccedenti i limiti stabiliti dall'articolo 18-bis";   
+il testo del comma i) e' sostituito dal seguente:   
+"i) quelle di veicoli di peso unitario superiore a kg 150, tassati in base alla T.S. 105";   
+6) Art. 65, Par. 3:   
+al secondo alinea, gli importi della tassa di percorso di L. 2.100 e di L. 10.500 sono elevati, rispettivamente, a L. 2.600 e a L.   
+13.000;   
+al terzo alinea, l'importo della tassa di L. 170 per carro e per chilometro e' elevato a L. 205.   
+7) Art. 66, Par. 4, primo alinea: il testo del comma a) viene sostituito dal seguente:   
+"a) se costituite esclusivamente da merci tassabili con le classi dalla 41 alla 87, sul peso totale delle merci stesse, in base alle classi 41, 47, 53 o 55 vincolate, rispettivamente, al peso minimo di 6, 10, 15 o 20 tonnellate";   
+8) Art. 67, Par. 1:   
+la tabella delle soprattasse, di cui al comma b), e' sostituita da quella riportata nell'allegato n. 10 al presente decreto;   
+la tabella delle soprattasse, di cui al comma c), e' sostituita da quella riportata nell'allegato n. 11 al presente decreto.   
+9) Art. 70: i testi del secondo e quarto alinea sono soppressi.   
+B) Capo II, art. 71:   
+1) Par. 1: il testo del secondo alinea e' soppresso.   
+2) Par. 2: gli importi di L. 230 e di L. 145 relativi all'utilizzazione dei bagagliai sono elevati, rispettivamente, a L. 280 e a L. 180.   
+3) Par. 3: il testo del paragrafo e' sostituito dal seguente: "Le cose seguenti si tassano in base al peso fisso per ciascuna di esse indicato:   
   
-1) Al titolo A) Spedizioni a bagaglio, la tabella di cui alla serie 1ª e' sostituita con quella riportata nell'allegato 16 al presente decreto.   
-2) Al titolo B) Spedizioni a carro:   
-a) al p.to 1 - Classi dalla n. 41 alla n. 87, le relative tabelle sono sostituite con quelle riportate nell'allegato 17 al presente decreto;   
-b) al p.to 2 - Classi dalla n. 601 alla n. 820, le relative tabelle sono sostituite con quelle riportate nell'allegato 18 al presente decreto.   
+ciclomotori usati di cilindrata fino a 49 cmc e velocipedi con motore ausiliario, usati, per ogni unita. . . . . . . . . . . . kg 75 velocipedi usati senza motorino, per ogni unita . . . . . . Kg 20 carrozzelle e tricicli (anche con motorino), usati, per persone impedite, per ogni apparecchio . . . . . . . . . . . . . . . . Kg. 20 velocipedi e tricicli, usati, per bambini, per ogni unita. Kg. 20 carrozzelle, passeggini e girelli, usati, per bambini, per ogni unita. . . . . . . . . . . . . . . . . . . . . . . . . . . . . Kg. 20   
   
-II. - Alla parte III - Nomenclatura e classificazione delle cose spedite a carro:   
+4) Par. 4: la tabella dei prezzi e' sostituita da quella riportata nell'allegato n. 12 al presente decreto.   
+C)Capo III art. 72:   
+1) Par. 1: il deposito di L. 185.000 per la richiesta ti treno speciale e' elevato a L. 222.000;   
+2) Par. 2: gli importi della tariffa del treno speciale di L. 3.450 e del relativo prezzo minimo di L. 185.000 sono elevati, rispettivamente, a L. 4.200 e a L. 222.000; la tassa di L. 170 per carro e per chilometro e' elevata a L. 205.   
+D) Capo IV, tariffa n. 1:   
+1) il testo del titolo II - resa, e' sostituito dal seguente: "Spedizioni di colli espressi. - I termini di resa sono quelli di cui all'art. 18, Par. 4.   
+Spedizioni di messaggerie. - I termini di resa sono quelli di cui all'art. 40, Par. 4".   
+2) Titolo III - prezzi, i titoli e le relative tabelle della serie A, B e C sono sostituiti da quelli riportati nell'allegato n. 13 al presente decreto.   
+3) Titolo IV: disposizioni comuni alla serie A, B, C riguardanti il peso tassabile, il riferimento alla serie C e' annullato.   
+4) Titolo IV: condizioni particolari, condizione particolare 3a - Consegna a domicilio: l'ultimo alinea e' soppresso.   
+E) Capo V:   
+1) Tariffa speciale n. 103: la tabella di cui al titolo III - prezzi, e' sostituita da quella riportata nell'allegato n. 14 al presente decreto.   
+2) Tariffa speciale n. 104: la tabella di cui al titolo III - prezzi, e' sostituita da quella riportata nell'allegato n. 15 al presente decreto.   
+3) Tariffa speciale n. 105:   
+titolo III: la tabella dei prezzi e' sostituita da quella riportata nell'allegato n. 16 al presente decreto;   
+titolo IV, condizione particolare 2a , comma d);   
+la tassa di L. 170 per carro e per chilometro e' elevata a L.  
+205.   
+4) Tariffa speciale n. 106, titolo III:   
+l'importo della tassa sul valore per ogni cento chilometri indivisibili e per ogni mille lire indivisibili di L. 7,80 e di L. 2,00 con il minimo di L. 1.000 per spedizione, e' elevato, rispettivamente, a L. 9,40, a L. 2,40 e a L. 1.200.   
+5) Tariffa speciale n. 107: la tabella di cui al titolo III - prezzi, e' sostituita da quella riportata nell'allegato n. 17 al presente decreto.   
+6) Tariffa speciale n. 108:   
+titolo III: la tabella dei prezzi e' sostituita da quella riportata nell'allegato n. 18 al presente decreto;   
+condizione particolare 2a : la tassa di sorveglianza di L. 1.200 e' elevata a L. 1.440;   
+condizione particolare 4a : la tassa di L. 170 per carro e per chilometro e' elevata a L. 205.   
+7) Tariffa speciale n. 109:   
+titolo III: la tabella dei prezzi e' sostituita da quella riportata nell'allegato n. 19 al presente decreto;   
+titolo IV, condizione particolare 2a : la tassa di L. 4.300 per il nolo di addobbi funebri e' elevata a L. 5.200.   
+8) Tariffa speciale n. 110, titolo III:   
+la tabella dei prezzi di cui al punto 4 e' sostituita da quella riportata nell'allegato n. 20 al presente decreto;   
+il testo del punto 12 e' sostituito dal seguente:   
+"12) Alla spedizione di due o piu' "grandi containers" carichi o vuoti, caricati nello stesso carro - se effettuata dallo stesso mittente allo stesso destinatario e dalla stessa stazione mittente alla stessa stazione destinataria - si applicano:   
+a) i prezzi competenti della categoria 40 se trattasi di due "grandi containers" carichi della categoria 20 il cui peso lordo complessivo non superi 36 tonn., oppure di due "grandi containers" vuoti della categoria 20;   
+b) i prezzi competenti della categoria 40 maggiorati del 50% se la somma delle categorie dei "grandi containers" concaricati e' superiore a 40 ma non eccede 60, oppure se trattasi di due "grandi containers" carichi della categoria 20 il cui peso lordo complessivo superiori 36 tonnellate;   
+c) i prezzi competenti della categoria 40 maggiorati dell'80% in tutti gli altri casi".   
+9) Tariffa speciale n. 111: la tabella di cui al titolo III - prezzi e' sostituita da quella riportata nell'allegato n. 21 al presente decreto.   
+F) Capo IV:   
+1) Tariffa eccezionale n. 201: la tabella di cui al titolo I - limiti di applicazione e prezzi e' sostituita da quella riportata nell'allegato n. 22 al presente decreto.   
+2) Tariffa eccezionale n. 203: le tabelle di cui alle serie A, B e C sono sostituite da quelle riportate nell'allegato n. 23 al presente decreto.   
+3) Tariffa eccezionale n. 204: la tabella di cui al titolo II - prezzi, e' sostituita da quella riportata nell'allegato n. 24 al presente decreto.   
+4) Tariffa eccezionale n. 209: la tabella e' sostituita da quella riportata nell'allegato n. 25 al presente decreto.   
+5) Tariffa eccezionale n. 216: la tabella e' sostituita da quella riportata nell'allegato n. 26 al presente decreto.   
+6) Tariffa eccezionale n. 221:   
+a) le tabelle di cui alle serie A, B e C sono sostituite da quelle riportate nell'allegato n. 27 al presente decreto;   
+b) condizione particolare 2a : la tassa di prenotazione di L. 1.700 dovuta per il traghettamento delle autovetture e' elevata a L. 2.100;   
+c) condizione particolare 6a :   
   
-A) Per le voci di nomenclatura, tassabili con le classi dalla 41 all'87:   
+il prezzo di L. 3.500 per gli adulti e di L. 1.750 per i ragazzi, e' elevato, rispettivamente, a L. 4.200 e a L. 2.100;   
+la tabella dei supplementi per i posti in poltrona o in cabina e' sostituita da quella riportata nell'Allegato n. 28 al presente decreto;   
   
-l) indicate nell'allegato 19 e' istituita la classe di prezzi vincolata al peso minimo di tonnellate 20 per spedizione, mediante slittamento di due classi rispetto a quelle previste, per ciascuna voce, per il vincolo di 15 tonnellate ed e' soppressa, ove prevista, la classe vincolata al peso minimo di tonnellate 6 per spedizione;   
-2) indicate nell'allegato 20 al presente decreto e' adottata la nuova classificazione che prevede l'introduzione del vincolo di peso di 20 tonnellate per ciascuna voce ivi indicata.   
+d) condizione particolare 7a :   
   
-B) Per le voci di nomenclatura relative alle merci tassabili con le classi dalla n. 601 alla n. 820 risultanti nell'allegato 21 al presente decreto e' adottata la nuova classificazione che prevede, per ciascuna voce ivi prevista, l'introduzione del vincolo di peso di 25 tonn. per le spedizioni effettuate con carri a 2 o 3 assi e di 37,5 tonn. per quelle effettuate con carri a carrelli od a 4 o piu' assi.   
+la tassa di L. 2.800 per ogni 25 chilogrammi indivisibili di bagaglio a mano eccedenti il peso di chilogrammi 50, e' elevata a L. 3.400;   
+la tassa di L. 1.400 per capo o di L. 1.060 per ogni 10 chilogrammi indivisibili, prevista per gli animali vivi trasportati dai passeggeri, e' elevata a L. 1.700 per capo o a L. 1.300 per ogni 10 chilogrammi indivisibili;   
   
-III. - All'allegato 1 il testo del progressivo 7 - diritto fisso - e' cosi' modificato:   
-"Per ogni spedizione rientrante fra quelle previste dall'art. 64, § 2:   
-a) L. 24.000 per i carri a 2 o 3 assi;   
-b) per i carri a carrelli od a 4 o piu' assi si deduce da quello di cui al precedente comma a), mediante la applicazione del coefficiente di cui all'art. 64, § 4".   
+e) condizione particolare 10a : il prezzo fisso di L. 12.000 previsto nel testo del primo e del secondo alinea e' elevato a L.  
+14.400.   
+7) Tariffa eccezionale n. 251, titolo III, nota (1):   
+il testo del comma c) e' sostituito dal seguente:   
+"I trasporti sono tassati sulla distanza complessiva fra la stazione di partenza ed il punto di confine in base alle tariffe interne";   
+il testo del penultimo alinea del comma e) e' soppresso.   
+G) Capo VII:   
+1) Titolo A) Spedizioni a bagaglio: la tabella di cui alla serie la e' sostituita da quella risultante nell'allegato n. 29 al presente decreto.   
+2) Titolo B) Spedizioni a carro:   
+a) punto 1 - classi dalla n. 41 alla n. 87: le tabelle dei prezzi sono sostituite da quelle risultanti dall'allegato n. 30 al presente decreto;   
+b) punto 2 - classi dalla 601 alla 820: le tabelle dei prezzi sono sostituite da quelle risultanti nell'allegato n. 31 al presente decreto.   
+III. - Parte III - Nomenclatura e classificazione delle cose spedite a carro: la classificazione relativa alle voci di nomenclatura riportate nell'allegato n. 32 al presente decreto e' sostituita da quella risultante, nello stesso allegato, in corrispondenza di ciascuna voce.   
+IV. - Allegati:   
+A) Allegato n. 1:   
+il testo delle tabelle delle tasse accessorie e sostituito da quello risultante nell'allegato n. 33 al presente decreto;   
+nella tabella per il computo della tassa per la dichiarazione dell'interesse alla riconsegna in servizio internazionale le tasse minime applicabili sono elevate, rispettivamente, da L. 2.800 a L. 4.000 e da L. 5.800 a L. 8.000.   
+B) Allegato n. 2: la tabella della tassa di utilizzazione, di cui al punto 9, e' sostituita da quella riportata nell'allegato n. 34 al presente decreto.   
+C) Allegato n. 2-ter:   
+1) Punto 2, lettera B): le penalita' per ogni 24 ore indivisibili previste, per la mancata restituzione o scambio, in L. 80 per le palette e in L. 130 per i paretali mobili, sono elevate, rispettivamente, a L. 100 e a L. 160.   
+2) Punto 5:   
+le tasse di noleggio per paletta o per paretale mobile stabilite in L. 80 per percorrenze fino a 500 chilometri e in L. 130 per percorrenze superiori a 500 chilometri, sono elevate, rispettivamente, a L. 100 e a L. 160;   
+la penalita' di L. 50 per ogni 24 ore indivisibili, prevista nel penultimo alinea, e' elevata a L. 60.   
+3) Punto 8: le penalita' per tardata restituzione previste nell'ultimo alinea nella misura di L. 60 e di L. 180 al giorno sono elevate, rispettivamente, a L. 70 e a L. 220.   
+D) Allegato n. 3: la tassa di lavatura prevista dagli articoli 2 e 7 nella misura di L. 18.800 e' elevata a L. 24.000.   
+E) Allegato n. 6: le tasse e i diritti di ogni genere in esso previsti sono sostituiti da quelli riportati nell'allegato n. 35 al presente decreto.   
+F) Allegato n. 7:   
+1) Art. 4: la dizione "In caso di inesatta dichiarazione" e' sostituita dalla seguente: "In caso di inesatta o incompleta dichiarazione...".   
+2) Art. 47: la tassa fissa per la ripulitura dei carri prevista in L. 1.000 e' elevata a L. 24.000.   
+3) Art. 135:   
+1) punto (2): la tassa di L. 170 per carro e per chilometro e' elevata a L. 205;   
+2) punto (3):   
   
-IV. - Sono aumentati del venti per cento gli altri prezzi di trasporto a carro (ivi compresi quelli per i treni speciali), i corrispettivi, le tasse, le soprattasse e gli altri diritti, anche accessori, di ogni genere.   
+a) comma a): la tassa di sosta prevista per le merci non sostanti sui carri in L. 100 per quintale indivisibile e il relativo minimo di L. 200 per spedizione sono elevati, rispettivamente, a L. 180 e a L. 360; la tassa di sosta prevista per le merci sostanti sui carri in L. 100 per quintale indivisibile e per ogni 24 ore ed i relativi minimi di L. 11.000 per carro per le prime 24 ore e di L. 16.000 per carro per ogni periodo di 24 ore successive sono elevati, rispettivamente, a L. 180, a L. 13.200 e a L. 19.200.   
+b) comma c): la tassa di L. 630 dovuta per la guardia speciale e' elevata a L. 800.   
+  
+G) Allegato n. 9: i corrispettivi di cui alle tariffe n. 1, 2 e 3 sono sostituiti da quelli riportati nell'allegato n. 36 al presente decreto.   
+V. - Appendice:   
+A) Punto 1° : le tariffe per il servizio di presa e consegna a domicilio delle merci spedite in piccole partite e dei bagagli sono sostituite da quelle riportate nell'allegato n. 37 al presente decreto.   
+B) Punto 2° :   
+1) Art. 4: la tabella dei corrispettivi per il trasporto dei carri ferroviari su strada ordinaria e' sostituita da quella risultante nell'allegato n. 38 al presente decreto.   
+2) Art. 6: la tassa di sosta del carrello di L. 3.100 per ogni ora di ritardo e il corrispettivo forfettario di L. 6.200 sono elevati, rispettivamente, a L. 3.750 e a L. 7.500.   
+C) Punto 3° : le misure minime di L. 50 per quintale/km e di L. 500 per spedizione e massime di L. 120 per quintale/km e di L. 1.200 per spedizione, previste al punto 6, sono elevate, rispettivamente, a L. 60, a L. 600, a L. 150 e a L. 1.500.   
+D) Punto 4° : il compenso di L. 160 per collo previsto nel testo della nota (6) per i trasporti interessanti la linea Tirano-confine Svizzero e' elevato a L. 200.   
+E) Punto 8° : la tassa di L. 4.700, prevista al comma quarto del titolo 1 e al comma terzo del titolo II, e' elevata a L. 15.000.   
+F) Punto 9° : la tabella delle soprattasse per l'uso di determinati binari di raccordo per carico e scarico in punti determinati da contabilizzare sui documenti di trasporto e' sostituita da quella riportata nell'allegato n. 39 al presente decreto.   
+G) Punto 14° , art. 12:   
+1) Il deposito per la richiesta dell'autotreno o dell'autocarro previsto al paragrafo 1 nelle misure di L. 6.400 e 3.200 e' elevato, rispettivamente, a L. 7.800 e a L. 3.900.   
+2) Le tasse di sosta, previste al paragrafo 4 nelle misure di L. 1.600, L. 2.100, L. 2.700 e L. 3.200 sono elevate, rispettivamente, a L. 2.000, a L. 2.600, a L. 3.300 e a L. 3.900.   
+H) Punto 15° : il diritto fisso di L. 550 e la tassa di L. 1.750, previsti al comma quarto, sono elevati, rispettivamente, a L. 1.000 e a L. 5.000.   
+
+Art. 3
+------
+
+  
+Nel testo delle "Condizioni e tariffe per i trasporti delle cose sulle ferrovie dello Stato" nonche' degli allegati e della appendice alle stesse, le dizioni "colli celeri" e "a resa accelerata e a resa ordinaria", riferentisi alle spedizioni in piccole partite devono essere modificate, rispettivamente, in "colli espressi" e in "di messaggerie".  
 
 Art. 4
 ------
 
   
-Il Ministro per i trasporti provvedera' ad emanare le norme di attuazione per l'adeguamento, all'aumento di cui ai precedenti articoli 1 e 3, delle basi di tariffa e degli altri prezzi di trasporto, nonche' delle tasse, soprattasse e diritti, anche accessori, di ogni genere, con gli opportuni arrotondamenti e per il coordinamento tra le varie disposizioni, nelle forme e nei limiti previsti dalle norme in vigore.  
-
-Art. 5
-------
-
-Il presente decreto entra in vigore il 1 marzo
+Il presente decreto entra in vigore il 16 luglio 1978.  
+Da tale data e per un periodo massimo di novanta giorni e' data facolta' all'Azienda autonoma delle ferrovie dello Stato di applicare alle spedizioni di merci a carro i prezzi in vigore dal 1 marzo 1977, aumentati:  
+del 15%, in caso di spedizioni tassabili con le classi di prezzo dalla 41 alla 87;  
+del 20%, in caso di spedizioni tassabili con le classi di prezzo dalla 601 alla 804 oppure in base alle tariffe speciali numeri 104, 108, 109, 110, 111.  
+  
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 febbraio 1977
+### Dato a Roma, addi' 7 giugno 1978
 
-LEONE ANDREOTTI - RUFFINI - MORLINO - STAMMATI - MARCORA - DONAT-CATTIN
+LEONE ANDREOTTI - COLOMBO - MORLINO - PANDOLFI MARCORA - DONAT-CATTIN
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 19 febbraio 1977
+Registrato alla Corte dei conti, addi' 5 luglio 1978
 
-Atti di Governo, registro n. 12, foglio n. 24
+Registro n. 2 Trasporti, foglio n. 136
 
 Allegato 1
 
  ALLEGATO 1   
   
-SERVIZIO DI CARROZZE LETTI   
-(Allegato 11 alle C.T.)   
-  
-§ 3. - SUPPLEMENTI - LETTO   
-  
-I supplementi di prezzo per l'utilizzazione di posti nelle carrozze letti, circolanti in servizio interno, sono stabiliti per ordine di posto e secondo la lunghezza della prefissata relazione di viaggio, nelle seguenti misure:   
-  
-  
-=====================================================================  
-| ORDINE DI POSTO  
-|-------------------------------------  
-| | | Singolo |  
-Km |Turistico| Doppio |speciale | Singolo  
-|---------|---------|---------|-------  
-| Lire | Lire | Lire | Lire  
----------------------------------------------------------------------  
-| | | |  
-0 - 750 . . . . . . . .| 11.000 | 13.000 | 18.000 | 28.000  
-751 - 1000 . . . . . . . .| 13.000 | 16.000 | 22.000 | 34.000  
-1001 - oltre . . . . . . . .| 15.000 | 18.000 | 25.000 | 38.000
+TARIFFE DAL N. 1 AL N. 6 PER VIAGGI DI CORSA SEMPLICE   
   
   
   
-  
-§ 6. - CARTA DI ABBONAMENTO CARROZZE LETTI   
-  
-Ai viaggiatori che effettuano, nel termine massimo di un anno, 10 viaggi in carrozze letti, con pagamento dei relativi supplementi a tariffa intera, viene accordato un bollettino gratuito per l'occupazione di un posto letto, su uno qualsiasi dei servizi interni di carrozze letti o su determinati servizi internazionali.   
-Il bollettino gratuito spettante al viaggiatore non e' rimborsabile.   
-Per quanto concerne le condizioni del rilascio e per l'utilizzazione della carta di abbonamento carrozze letti valgono le disposizioni internazionali previste in materia.   
-  
-§ 7. - DIRITTI D'AMMISSIONE   
-  
-I "diritti d'ammissione" dovuti dai portatori di carte o biglietti che legittimano l'esenzione dal pagamento del supplemento letto, sono stabiliti nelle seguenti misure:   
-  
-  
-posto letto turistico . . . . . . . . . . . . . . . . . . . .L. 1.000 posto letto doppio. . . . . . . . . . . . . . . . . . . . . . " 1.500 posto letto singolo speciale. . . . . . . . . . . . . . . . . " 1.700 posto letto singolo . . . . . . . . . . . . . . . . . . . . . " 2.000   
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034200100010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
   
 
 Allegato 2
 
  ALLEGATO 2   
   
-Art. 64.   
-  
-§ 3. - PESI MINIMI TASSABILI   
-  
-a) Spedizioni in piccole partite.   
-Per le spedizioni in piccole partite il peso minimo tassabile e' indicato nelle singole tariffe; in mancanza esso e' di kg 50.   
-b) Spedizioni a carro.   
-Per le spedizioni a carro, effettuate con carri a 2 o 3 assi, il peso minimo tassabile e' il piu' basso fra quelli indicati, per ciascuna voce merceologica, nella "Nomenclatura e classificazione delle cose spedite a carro" (parte III), ovvero nelle singole tariffe.   
-Per le spedizioni effettuate con carri dei tipi di cui al seguente prospetto i pesi minimi tassabili sono quelli ivi indicati:   
-
-|  |  |
-| --- | --- |
-| Tipi di carri utilizzati | Peso minimo tassabile per carro tonn. |
-| a) carri a carrelli od a 4 assi . . . . . . . | 15 |
-| b) carri con piu di 4 assi. . . . . . . . . . | 30 |
-| c) carri a piano di carico ribassato. . . . . | 5 tonn. per asse |
-
+TARIFFA N. 1-BIS   
+PER BIGLIETTI DI SUPPLEMENTO RAPIDO   
+Basi chilometriche in lire per viaggiatore valevoli per la formazione dei supplementi per l'utilizzazione dei treni rapidi   
   
   
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034200200010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
   
-  
-  
-§ 4. - VINCOLI DI PESO PER LA TASSAZIONE   
-DELLE SPEDIZIONI A CARRO   
-  
-I vincoli di peso per l'applicazione delle classi di tariffa sono i seguenti:   
-a) per i trasporti effettuati con carri a 2 o 3 assi, quelli indicati nella "Nomenclatura e classificazione delle cose spedite a carro" ovvero nelle singole tariffe, in corrispondenza di ciascuna delle classi fissate per ogni voce merceologica;   
-b) per i trasporti effettuati con carri a carrelli od a 4 o piu' assi, ove non siano espressamente indicati nella "Nomenclatura e classificazione delle cose spedite a carro" ovvero nelle singole tariffe, quelli che si deducono - ferme restando le classi di tariffa - dai vincoli di peso di cui al precedente comma a) mediante l'applicazione del coefficiente 1,5, salvo il rispetto dei pesi minimi indicati al precedente § 3.   
-Le spedizioni aventi un peso effettivo intermedio fra due vincoli di peso si tassano sul peso reale arrotondato con i prezzi delle classi stabilite per il vincolo di peso piu' basso ovvero sul vincolo di peso maggiore, a seconda che l'uno o l'altro modo di tassazione risulti piu' vantaggioso per l'utente.   
 
 Allegato 3
 
  ALLEGATO 3   
   
-Art. 67 - § 1   
-  
-c) carri isotermici e refrigeranti di proprieta' delle F.S. o di Amministrazioni estere, nonche' di proprieta' privata, anche se immatricolati in parchi di ferrovie estere:   
-
-|  |  |  |
-| --- | --- | --- |
-| Superficie utile di carico (\*) | Soprattassa | Soprattassa minima Lire |
-
+TARIFFA N. 15   
+PER BIGLIETTI TURISTICI DI LIBERA CIRCOLAZIONE   
+(Per viaggiatori stranieri ed italiani residenti all'estero)   
   
   
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034200300010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
   
-  
-(\*) Per i carri muniti di piano intermedio di carico, la superficie da considerare, agli effetti delle presenti disposizioni, e' quella del pavimento del carro. Nel caso di utilizzazione del detto piano intermedio, si applica la maggiorazione del 30% sulla soprattassa competente e sul relativo minimo.   
 
 Allegato 4
 
  ALLEGATO 4   
   
-Art. 71.   
-  
-§ 4. - AUTOVETTURE ACCOMPAGNATE   
-  
-Qualora l'Amministrazione, in base all'art. 16-bis e alle condizioni da essa stabilite, accetti al trasporto, per determinate relazioni, per determinati treni e in determinati giorni, autovetture accompagnate, in luogo dei prezzi di cui al precedente § 1, si applicano i prezzi seguenti:   
+TARIFFA N. 21   
+PER BIGLIETTI DI ABBONAMENTO ORDINARIO   
   
   
-=====================================================================  
-| BASI CHILOMETRICHE  
-|-------------------------------------  
-| Per un solo |  
-| percorso | Per piu percorsi  
-AUTOVETTURA |-------------------------------------  
-| ZONE DI PERCORRENZA  
-|-------------------------------------  
-| da 1 a | oltre | da 1 a | oltre  
-| 700 km | 700 km | 700 km | 700 km  
----------------------------------------------------------------------  
-| | | |  
-1) di lunghezza inferiore a | 47,19 | 35,39 | 42,46 | 31,86  
-m 3,81 | | | |  
-| | | |  
-2) di lunghezza da m 3,81 a | 56,63 | 42,46 | 50,97 | 38,22  
-m 4,42 | | | |  
-| | | |  
-3) di lunghezza oltre m 4,42 | 84,94 | 63,70 | 76,44 | 57,35  
-| | | |
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034200400010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
   
-  
-  
-  
-Nel caso di trasporti di autovetture in appoggio a biglietto di viaggio a pagamento per piu' persone, i prezzi di cui sopra sono ridotti nelle seguenti misure:   
-20% se in appoggio a biglietto per 3 persone;   
-30% se in appoggio a biglietto per 4 persone;   
-40% se in appoggio a biglietto per 5 o piu' persone.   
-I prezzi per piu' percorsi sono applicabili a condizione che tutti i percorsi richiesti siano effettuati entro due mesi dalla data di effettuazione del primo percorso e che gli scontrini relativi siano emessi contemporaneamente.   
-Per relazioni inferiori a km 300, la Direzione Generale delle ferrovie dello Stato ha facolta' di applicare condizioni e prezzi diversi da quelli di cui sopra; in tal caso, pero', i prezzi chilometrici non potranno essere inferiori a quelli suindicati e il prezzo complessivo di trasporto non potra' superare quello derivante dalla applicazione dei prezzi chilometrici suddetti per la distanza di km 300.   
 
 Allegato 5
 
  ALLEGATO 5   
   
-SERIE A - SPEDIZIONI DI COLLI CELERI   
-SERIE B - SPEDIZIONI IN PICCOLE PARTITE A RESA ACCELERATA   
-SERIE C - SPEDIZIONI IN PICCOLE PARTITE A RESA ORDINARIA   
+TARIFFA N. 21-BIS   
+PER BIGLIETTI DI ABBONAMENTO AI SUPPLEMENTI PER TRENI RAPIDI   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=077U003200500010110001&dgu=1977-02-22&art.dataPubblicazioneGazzetta=1977-02-22&art.codiceRedazionale=077U0032)
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034200500010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
   
 
 Allegato 6
 
  ALLEGATO 6   
   
-Prezzi della Tariffa speciale n. 104   
+TARIFFA N. 22   
+PER BIGLIETTI DI ABBONAMENTO RIDOTTO   
   
-BESTIAME   
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034200600010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=077U003200600010110001&dgu=1977-02-22&art.dataPubblicazioneGazzetta=1977-02-22&art.codiceRedazionale=077U0032)
+  
+TARIFFA N. 23   
+PER BIGLIETTI DI ABBONAMENTO SETTIMANALE O FESTIVO PER IMPIEGATI, OPERAI E BRACCIANTI   
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034200600010110002&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
   
 
 Allegato 7
 
  ALLEGATO 7   
   
-Prezzi della Tariffa speciale n. 107   
-  
-GIORNALI E ALTRE PUBBLICAZIONI PERIODICHE   
+DIRITTI SPECIALI - TASSE ACCESSORIE - DEPOSITI CAUZIONALI PREVISTI DALL'ALLEGATO 1 ALLE C.T. PERSONE   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=077U003200700010110001&dgu=1977-02-22&art.dataPubblicazioneGazzetta=1977-02-22&art.codiceRedazionale=077U0032)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034200700010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
   
 
 Allegato 8
 
  ALLEGATO 8   
   
-Prezzi della Tariffa speciale n. 108   
+SERVIZIO CARROZZE LETTI   
+(Allegato n. 11 alle C.T. persone)   
   
-ESPLOSIVI E MATERIE RADIOATTIVE   
-
-|  |  |
-| --- | --- |
-| PESO MINIMO PER CARRO | Prezzo per tonnellata e per chilometro Lire |
-| Kg 500 . . . . . . . . . . . . . . . . . | 168 |
-| Kg 2.500 . . . . . . . . . . . . . . . . . | 128 |
-| Kg 5.000 . . . . . . . . . . . . . . . . . | 101 |
-| Kg 10.000 . . . . . . . . . . . . . . . . . | 81 |
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034200800010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
+  
 
 Allegato 9
 
  ALLEGATO 9   
   
-Prezzi della Tariffa speciale n. 109   
-  
-FERETRI E RESTI UMANI   
+DIRITTI, TASSE, SOPRATTASSE E PENALITA' PREVISTI DALLE "CONDIZIONI E TARIFFE PER I TRASPORTI DELLE PERSONE SULLE FERROVIE DELLO STATO".   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=077U003200900010110001&dgu=1977-02-22&art.dataPubblicazioneGazzetta=1977-02-22&art.codiceRedazionale=077U0032)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034200900010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
   
 
 Allegato 10
 
  ALLEGATO 10   
   
-Tariffa speciale n. 110   
-  
-SPEDIZIONI DI "GRANDI CONTAINERS" CARICHI O VUOTI   
-  
-I. - LIMITI DI APPLICAZIONE   
-  
-La presente tariffa si applica, nei limiti e con le modalita' stabilite dall'Azienda, alle spedizioni di "grandi containers" aventi i seguenti requisiti:   
-a) struttura permanente e resistente tale da consentire l'impiego ripetuto nel tempo;   
-b) dispositivi atti a facilitarne il carico, lo scarico ed il trasbordo al fine di consentire il trasporto delle merci, senza rottura di carico, con uno o piu' modi di trasporto;   
-c) dimensioni:   
-lunghezza: minima m. 6,058; massima m. 12,192   
-larghezza massima: m. 2,438   
-altezza massima: m. 2,438.   
-  
-II. - RESA   
-  
-I termini di resa sono quelli stabiliti dall'art. 40, §§ da 1 a 3.   
-Quando i trasporti sono inoltrati con appositi treni containers ad orario fisso, i termini di resa sono commisurati all'orario di detti treni ai sensi dell'art. 40, § 5.   
-  
-III. - PREZZI   
-  
-1. - In relazione alla loro lunghezza i "grandi containers" si classificano in tre categorie:   
-categoria 20: m. 6,058 (20 piedi inglesi)   
-categoria 30: m. 9,125 (30 piedi inglesi)   
-categoria 40: m. 12,192 (40 piedi inglesi).   
-I "grandi containers" di lunghezza compresa fra m. 6,058 e m. 9,125 rientrano nella categoria 30 e quelli compresi fra m. 9,125 e m. 12,192 rientrano nella categoria 40.   
-2. - I "grandi containers" di dimensioni superiori a quelle massime previste dal Titolo I, lettera c) sono ugualmente soggetti alla presente tariffa senza pregiudizio, peraltro, dell'applicazione dell'art. 65 §§ 2, 3, 4 e 5.   
-3. - In relazione al loro peso, i "grandi containers" della categoria 20, se spediti isolatamente, si distinguono in:   
-leggeri, se di peso lordo non superiore a 18 tonn.   
-pesanti, se di peso lordo superiore a 18 tonn. ma non eccedente 24 tonn.   
-pesantissimi, se di peso lordo superiore a 24 tonn.   
-Ai "grandi containers" leggeri, pesanti e pesantissimi si applicano, rispettivamente, i prezzi della categoria 20, 30 e 40.   
-I "grandi containers" della categoria 30 di peso lordo superiore a 24 tonn., se spediti isolatamente, si tassano con i prezzi della categoria 40.   
-4. - I prezzi da applicare alle diverse categorie di "grandi containers", riportati nella seguente tabella, sono quelli della serie A per i trasporti a carico e della serie B per i trasporti a vuoto.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=077U003201000010110001&dgu=1977-02-22&art.dataPubblicazioneGazzetta=1977-02-22&art.codiceRedazionale=077U0032)
   
   
-5. - I prezzi della serie A prescindono dalla natura e dalla quantita' delle merci caricate nei "grandi containers".   
-6. - I prezzi della serie B si applicano alle spedizioni di "grandi containers" vuoti di proprieta', ivi compresi quelli nuovi di fabbrica.   
-7. - I "grandi containers" sia nel trasporto a carico che a vuoto, sono esenti dall'applicazione del diritto fisso di cui all'art. 61, § 5 e della soprattassa di cui all'art. 65, § 1.   
-8. - Le spedizioni di "grandi containers" inoltrate, a richiesta del mittente, con treni viaggiatori o con treni merci celeri sono soggette all'applicazione delle soprattasse di cui all'art. 69.   
-Nel caso di spedizioni di "grandi containers" isotermici, refrigeranti o frigoriferi, tali soprattasse sono ridotte al 40% per l'inoltro con treni viaggiatori diretti e al 20% per l'inoltro con treni viaggiatori locali o con treni merci celeri.   
-9. - Le spedizioni di "grandi containers" inoltrate con i treni di cui al precedente titolo II, secondo alinea, sono esenti dall'applicazione delle soprattasse di cui all'art. 69.   
-10. - Le operazioni di carico e di scarico spettano all'utente. Nei terminali FS appositamente attrezzati l'Azienda provvede a tali operazioni, direttamente o a mezzo concessionario, alle condizioni e prezzi previsti dall'Appendice punto 18°.   
-11. - Per le spedizioni di "grandi containers" carichi o vuoti effettuate con carri privati specializzati, immatricolati nel parco FS, l'Azienda accorda il rimborso del 10% delle tasse competenti in base alla presente tariffa.   
-12. - Alla spedizione di due o piu' "grandi containers" carichi o vuoti, caricati nello stesso carro - se effettuata dallo stesso mittente allo stesso destinatario e dalla stessa stazione mittente alla stessa stazione destinataria - si applicano:   
-i prezzi competenti della categoria 40 se trattasi di due "grandi containers" carichi della categoria 20 il cui peso lordo complessivo non superi 36 tonn., oppure di due "grandi containers" vuoti della categoria 20;   
-i prezzi competenti della categoria 40 maggiorati del 50% in tutti gli altri casi di concarico.   
-13. - Due "grandi containers" vuoti di "mezza altezza" della stessa categoria - se spediti sovrapposti l'uno all'altro dallo stesso mittente allo stesso destinatario e dalla stessa stazione mittente alla stessa stazione destinataria - si considerano come un "grande container" vuoto della medesima categoria.   
-Piu' flats vuoti della stessa categoria - se spediti smontati e sovrapposti l'uno all'altro, senza eccedere l'altezza massima di cui al precedente titolo I, c), dallo stesso mittente allo stesso destinatario e dalla stessa stazione mittente alla stessa stazione destinataria - si considerano come un "grande container" carico di categoria corrispondente a quella dei flats.   
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034201000010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
   
-IV. - CONDIZIONI PARTICOLARI   
-  
-1ª. - Per ciascun "grande container" carico o vuoto, va presentata una distinta lettera di vettura. Tuttavia e' consentita l'utilizzazione di una sola lettera di vettura quando trattisi di piu' "grandi containers" caricati nello stesso carro, spediti dallo stesso mittente allo stesso destinatario e dalla stessa stazione mittente alla stessa stazione destinataria.   
-2ª. - Sulla lettera di vettura devono essere indicati per ciascun "grande container":   
-la categoria, la marca ed il numero;   
-le dimensioni (lunghezza, larghezza e altezza) espresse in metri ed in piedi inglesi;   
-il tipo (cisterna, frigorifero, refrigerante, flats, ecc.);   
-la natura della merce caricata; per i "grandi containers" vuoti dovra' essere indicato: "container vuoto" oppure all'occorrenza "container vuoto nuovo di fabbrica"; il peso della merce, la tara ed il peso lordo espressi in kg.   
-3ª. - L'utente e' responsabile di tutte le conseguenze che possono derivare da un cattivo stato del "grande container", dalla inidoneita' dello stesso rispetto alla merce contenuta, nonche' dal suo sovraccarico.   
-4ª. - E' vietato il carico nei "grandi containers" delle merci pericolose e nocive di cui all'allegato 7, ad eccezione di quelle ascritte alla categoria 4ª.   
-L'Azienda si riserva la facolta' di ammettere al trasporto nei "grandi containers" altre categorie di merci pericolose e nocive, nel rispetto di tutte le norme previste dal citato allegato 7 e di altre eventuali particolari condizioni.   
-5ª. - Nel caso di spedizioni miste costituite da "grandi containers" di cui alla presente tariffa e da altre merci concaricate, la tassazione si effettua separatamente, per i "grandi containers" e per le altre merci, come se si trattasse di due distinte spedizioni a carro. Peraltro, alle altre merci concaricate potranno essere applicati, se piu' convenienti rispetto alla tassazione competente, i prezzi della classe 41 sul loro peso effettivo arrotondato, con il minimo di 3.000 kg., sempreche' si tratti di merci tassabili con le classi di prezzi dalla 41 alla 87 e dalla 601 in poi; non sara' dovuto, comunque, il diritto fisso di cui al § 5 dell'art. 61.   
-Qualora siano utilizzati carri dei tipi di cui al § 3 dell'art. 64, per la tassazione delle altre merci non si tiene conto dei pesi minimi tassabili ivi indicati.   
-Agli effetti dell'applicazione della tassa minima prevista dal § 2 dell'art. 61, si tiene conto dell'importo complessivo delle tasse della spedizione mista.   
-6ª. - Alle spedizioni di "grandi containers" non sono applicabili le disposizioni contenute nell'allegato 2, ad eccezione di quelle di cui ai punti 17°, 18° e 19°.   
 
 Allegato 11
 
  ALLEGATO 11   
   
-Tariffa speciale n. 111   
-  
-SPEDIZIONI SU DETERMINATE RELAZIONI DI TRAFFICO DI "RIMORCHI E SEMIRIMORCHI STRADALI" CARICHI O VUOTI   
-  
-I. - LIMITI DI APPLICAZIONE   
-  
-La presente tariffa si applica, nei limiti e con le modalita' stabilite dall'Azienda, alle spedizioni di rimorchi e semirimorchi stradali, carichi o vuoti, caricati su carri specializzati od a piano ribassato.   
-  
-II. - RESA   
-  
-I termini di resa sono quelli dell'art. 40, §§ da 1 a 3.   
-Quando i trasporti sono inoltrati con appositi treni ad orario fisso, adibiti esclusivamente all'inoltro di rimorchi e semirimorchi stradali, i termini di resa sono commisurati all'orario di detti treni ai sensi dell'art. 40, § 5.   
-  
-III. - PREZZI   
-  
-1. - In relazione alla loro lunghezza i rimorchi e semirimorchi stradali si classificano in due categorie:   
-fino a m. 9   
-oltre m. 9.   
-2. - I rimorchi e semirimorchi stradali che eccedono la sagoma limite od il peso assiale ammesso sono soggetti alla presente tariffa senza pregiudizio, peraltro, dell'applicazione dell'art. 65, §§ 2, 3, 4 e 5.   
-3. - I prezzi da applicare alle diverse categorie di lunghezza dei rimorchi e semirimorchi stradali, riportati nella seguente tabella, sono quelli della serie A per i trasporti a carico e della serie B per i trasporti a vuoto.   
-4. - I prezzi della serie A prescindono dalla natura e dalla quantita' delle merci caricate nei rimorchi e semirimorchi stradali.   
-5. - I prezzi della serie B si applicano:   
-a) in via di carteggio, nel caso che un rimorchio o semirimorchio stradale vuoto, oggetto di precedente trasporto a carico, venga spedito dalla stazione destinataria del trasporto a carico;   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=077U003201100010110001&dgu=1977-02-22&art.dataPubblicazioneGazzetta=1977-02-22&art.codiceRedazionale=077U0032)
   
   
-b) in via di rimborso, nel caso che un rimorchio o semirimorchio stradale vuoto sia destinato a prendere carico, sempreche' la stazione destinataria coincida con quella mittente del successivo trasporto a carico.   
-In entrambi i casi, l'applicazione dei prezzi della serie B e' inoltre subordinata alla condizione che la percorrenza del trasporto a vuoto non superi del 20% quella del corrispondente trasporto a carico e che il trasporto a vuoto od a carico sia effettuato entro novanta giorni dall'arrivo del trasporto a carico o di quello a vuoto.   
-I trasporti di rimorchi e semirimorchi stradali vuoti che non soddisfino alle condizioni di cui al presente punto, si tassano con i prezzi della tariffa speciale n. 105.   
-6. - I rimorchi e semirimorchi stradali, sia nel trasporto a carico che a vuoto, sono esenti dall'applicazione del diritto fisso di cui all'art. 61, § 5 e della soprattassa di cui all'art. 65, § 1.   
-7. - Le spedizioni di rimorchi e semirimorchi stradali inoltrate, a richiesta del mittente, con treni viaggiatori o con treni merci celeri sono soggette all'applicazione delle soprattasse di cui all'art. 69.   
-8. - Le spedizioni di rimorchi e semirimorchi stradali inoltrate con i treni di cui al precedente Titolo II, secondo allinea, sono esenti dall'applicazione delle soprattasse di cui all'art. 69.   
-9. - Le operazioni di carico o scarico spettano all'utente. Puo', tuttavia, provvedervi l'Azienda, direttamente od a mezzo di concessionario, dietro corresponsione delle tasse all'uopo previste dall'allegato 1.   
-10.- Per le spedizioni di rimorchi e semirimorchi stradali carichi o vuoti effettuate con carri privati specializzati od a piano ribassato, immatricolati nel parco FS, l'Azienda accorda il rimborso del 10% delle tasse di porto competenti in base alla presente tariffa.   
-11. - La spedizione di due o piu' rimorchi o semirimorchi stradali carichi o vuoti, caricati nello stesso carro - se effettuata dallo stesso mittente allo stesso destinatario e dalla stessa stazione mittente alla stessa stazione destinataria - si considera, agli effetti della tassazione, come costituita di uno solo di tali mezzi di lunghezza pari a quella complessivamente raggiunta dai due o piu' rimorchi o semirimorchi stradali concaricati.   
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034201100010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
   
-IV. - CONDIZIONI PARTICOLARI   
-  
-1ª. - Per ciascun rimorchio e semirimorchio stradale carico o vuoto, va presentata una distinta lettera di vettura. Tuttavia e' consentita l'utilizzazione di una sola lettera di vettura quando trattisi di piu' rimorchi e semirimorchi stradali caricati nello stesso carro, spediti dallo stesso mittente allo stesso destinatario e dalla stessa stazione mittente alla stessa stazione destinataria.   
-2ª. - Sulla lettera di vettura devono essere indicati per ciascun rimorchio o semirimorchio stradale:   
-la lunghezza espressa in metri;   
-gli estremi di immatricolazione;   
-la natura della merce caricata; per i rimorchi o semirimorchi stradali vuoti dovra' essere indicato, a seconda del caso, "rimorchio stradale vuoto" o "semirimorchio stradale vuoto";   
-il peso della merce, la tara ed il peso lordo espressi in kg.   
-3ª. - L'utente e' responsabile di tutte le conseguenze che possono derivare da un cattivo stato del rimorchio o semirimorchio stradale, dalla inidoneita' dello stesso rispetto alla merce contenuta, nonche' dal sovraccarico del rimorchio o semirimorchio stradale.   
-4ª. - E' vietato il carico nei rimorchi e semirimorchi stradali delle merci pericolose e nocive di cui all'allegato 7, ad eccezione di quelle ascritte alla categoria 4ª.   
-L'Azienda si riserva la facolta' di ammettere al trasporto nei rimorchi e semirimorchi stradali altre categorie di merci pericolose e nocive, nel rispetto di tutte le norme previste dal citato allegato 7 e di altre eventuali particolari condizioni.   
-5ª. - Nel caso di spedizioni miste costituite da rimorchi e semirimorchi stradali carichi o vuoti di cui alla presente tariffa e da altre merci concaricate, la tassazione si effettua separatamente, per i rimorchi e semirimorchi stradali e per le altre merci, come se si trattasse di due distinte spedizioni a carro.   
-Peraltro, alle altre merci concaricate potranno essere applicati, se piu' convenienti rispetto alla tassazione competente, i prezzi della classe 41 sul loro peso effettivo arrotondato, con il minimo di 3.000 kg., sempreche' si tratti di merci tassabili con le classi di prezzi dalla 41 alla 87 e dalla 601 in poi; non sara' dovuto, comunque, il diritto fisso di cui al § 5 dell'art. 61.   
-Qualora siano utilizzati carri dei tipi di cui al § 3 dell'art. 64, per la tassazione delle altre merci non si tiene conto dei pesi minimi tassabili ivi indicati.   
-Agli effetti dell'applicazione della tassa minima prevista dal § 2 dell'art. 61, si tiene conto dell'importo complessivo delle tasse della spedizione mista.   
 
 Allegato 12
 
  ALLEGATO 12   
   
-Tariffa eccezionale n. 203   
-  
-Serie A - AUTOVETTURE ANCHE CON RIMORCHIETTO PORTABAGAGLI (1)   
-Serie B - ALTRI AUTOVEICOLI (2)   
-Serie C - MOTOCICLI E VELOCIPEDI, NON IMBALLATI   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=077U003201200010110001&dgu=1977-02-22&art.dataPubblicazioneGazzetta=1977-02-22&art.codiceRedazionale=077U0032)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034201200010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
   
 
 Allegato 13
 
  ALLEGATO 13   
   
-Tariffa eccezionale n. 204   
-  
-CEREALI, FARINE E PASTE DA MINESTRA   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=077U003201300010110001&dgu=1977-02-22&art.dataPubblicazioneGazzetta=1977-02-22&art.codiceRedazionale=077U0032)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034201300010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
   
 
 Allegato 14
 
  ALLEGATO 14   
   
-Tariffa eccezionale n. 221   
-  
-Serie A - AUTOVETTURE ANCHE CON RIMORCHIETTO PORTABAGAGLI (1)   
-Serie B - AUTOPULLMAN, AUTOCARRI, MOTOFURGONI, MOTOCARRI E   
-RIMORCHI: VUOTI E CARICHI (2)   
-Serie C - MOTOCICLI   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=077U003201400010110001&dgu=1977-02-22&art.dataPubblicazioneGazzetta=1977-02-22&art.codiceRedazionale=077U0032)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034201400010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
   
 
 Allegato 15
 
  ALLEGATO 15   
   
-Tariffa eccezionale n. 221   
   
-CONDIZIONE PARTICOLARE 6ª   
   
-Il prezzo del biglietto di passaggio marittimo e' stabilito in L. 3.500 per gli adulti e in L. 1.750 per i ragazzi (dai 4 a 12 anni).  
-Per i posti in poltrona o in cabina sono dovuti i supplementi qui di seguito riportati valevoli sia per gli adulti che per i ragazzi:   
-
-|  |  |
-| --- | --- |
-| POSTO | Supplementi |
-| in poltrona reclinabile . . . . . . . . . . . L. | 1.900 |
-| in cabina doppia. . . . . . . . . . . . . . . " | 4.500 |
-| in cabina singola . . . . . . . . . . . . . . " | 7.500 |
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034201500010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
+  
 
 Allegato 16
 
  ALLEGATO 16   
   
-A) SPEDIZIONI A BAGAGLIO   
-  
-Serie 1ª   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=077U003201600010110001&dgu=1977-02-22&art.dataPubblicazioneGazzetta=1977-02-22&art.codiceRedazionale=077U0032)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034201600010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
   
 
 Allegato 17
 
  ALLEGATO 17   
   
-B) SPEDIZIONI A CARRO   
-  
-1. - Classi dalla n. 41 alla n. 87   
   
   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=077U003201700010110001&dgu=1977-02-22&art.dataPubblicazioneGazzetta=1977-02-22&art.codiceRedazionale=077U0032)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034201700010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
   
 
 Allegato 18
 
  ALLEGATO 18   
   
-2. - Classi dalla n. 601 alla n. 820   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=077U003201800010110001&dgu=1977-02-22&art.dataPubblicazioneGazzetta=1977-02-22&art.codiceRedazionale=077U0032)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034201800010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
   
 
 Allegato 19
 
  ALLEGATO 19   
   
-ELENCO DELLE VOCI DI NOMENCLATURA PER LE QUALI E' ISTITUITA LA CLASSE VINCOLATA AL PESO MINIMO DI 20 TONNELLATE PER SPEDIZIONE ED E' SOPPRESSA - OVE PREVISTA - LA CLASSE VINCOLATA AL PESO MINIMO DI 6 TONNELLATE PER SPEDIZIONE.   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=077U003201900010110001&dgu=1977-02-22&art.dataPubblicazioneGazzetta=1977-02-22&art.codiceRedazionale=077U0032)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034201900010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
   
 
 Allegato 20
 
  ALLEGATO 20   
   
-MERCE / TARIFFA ORDINARIA N. 2   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=077U003202000010110001&dgu=1977-02-22&art.dataPubblicazioneGazzetta=1977-02-22&art.codiceRedazionale=077U0032)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034202000010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
   
 
 Allegato 21
 
  ALLEGATO 21   
   
-MERCE / TARIFFA ORDINARIA N. 2   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=077U003202100010110001&dgu=1977-02-22&art.dataPubblicazioneGazzetta=1977-02-22&art.codiceRedazionale=077U0032)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034202100010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
+  
+
+Allegato 22
+
+ ALLEGATO 22   
+  
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034202200010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
+  
+
+Allegato 23
+
+ ALLEGATO 23   
+  
+TARIFFA ECCEZIONALE N. 203   
+TRASPORTO CON NAVI TRAGHETTO SULLA RELAZIONE MESSINA MARITTIMA - VILLA S. GIOVANNI (O VICEVERSA) E MESSINA MARITTIMA - REGGIO CALABRIA MARITTIMA (O VICEVERSA), DI VEICOLI NON CARICATI SU CARRI FERROVIARI   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034202300010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
+  
+
+Allegato 24
+
+ ALLEGATO 24   
+  
+TARIFFA ECCEZIONALE N. 204   
+CEREALI, FARINE E PASTE DA MINESTRA   
+(Omissis)   
+  
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034202400010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
+  
+
+Allegato 25
+
+ ALLEGATO 25   
+  
+TARIFFA ECCEZIONALE N. 209   
+LEGNAME   
+  
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034202500010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
+  
+
+Allegato 26
+
+ ALLEGATO 26   
+  
+TARIFFA ECCEZIONALE N. 216   
+FERTILIZZANTI - ANTIPARASSITARI E DISINFESTANTI   
+  
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034202600010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
+  
+
+Allegato 27
+
+ ALLEGATO 27   
+  
+TARIFFA ECCEZIONALE N. 221   
+TRASPORTO CON NAVI-TRAGHETTO, SULLA RELAZIONE CIVITAVECCHIA-GOLFO ARANCI (O VICEVERSA), DI VEICOLI NON CARICATI SU CARRI FERROVIARI   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034202700010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
+  
+
+Allegato 28
+
+ ALLEGATO 28   
+  
+TARIFFA ECCEZIONALE N. 221   
+  
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034202800010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
+  
+
+Allegato 29
+
+ ALLEGATO 29   
+  
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034202900010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
+  
+
+Allegato 30
+
+ ALLEGATO 30   
+  
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034203000010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
+  
+
+Allegato 31
+
+ ALLEGATO 31   
+  
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034203100010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
+  
+
+Allegato 32
+
+ ALLEGATO 32   
+  
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034203200010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
+  
+
+Allegato 33
+
+ ALLEGATO 33   
+  
+TASSE ACCESSORIE   
+  
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034203300010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
+  
+
+Allegato 34
+
+ ALLEGATO 34   
+  
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034203400010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
+  
+
+Allegato 35
+
+ ALLEGATO 35   
+  
+MODIFICAZIONI ALL'ALLEGATO 6   
+  
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034203500010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
+  
+
+Allegato 36
+
+ ALLEGATO 36   
+  
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034203600010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
+  
+
+Allegato 37
+
+ ALLEGATO 37   
+  
+APPENDICE PUNTO 1   
+TARIFFA PER IL SERVIZIO DI PRESA E CONSEGNA A DOMICILIO PER LE MERCI IN P.P.   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034203700010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
+  
+
+Allegato 38
+
+ ALLEGATO 38   
+  
+
+|  |  |
+| --- | --- |
+| Lunghezza del percorso fra la stazione e il domicilio dell'utente | Corrispettivo dovuto per il trasporto di un carro avente non piu' di 15 tonnellate di carico |
+| Fino a m 2000.... | L. 27.000 |
+
+  
+  
+  
+  
+Per i servizi effettuati nelle citta' di Torino, Milano, Genova, Bologna, Firenze, Roma, Napoli, Palermo e Catania e' dovuto un supplemento di L. 7.000 per ogni carro trasportato.   
+L'amministrazione e' autorizzata a stabilire analogo supplemento, nella misura di L. 3.600 per ogni carro trasportato, in localita' che abbiano una popolazione di almeno 100.000 abitanti o che presentino particolari difficolta' di circolazione.(1)   
+Per i carri aventi passo lungo (oltre 7 metri) e' dovuto un compenso supplementare di L. 4.700.   
+Per i carri con oltre 15 tonnellate di merce e' dovuto un compenso supplementare in ragione di L. 900 per ogni tonnellata indivisibile di maggiore carico.   
+
+Allegato 39
+
+ ALLEGATO 39   
+  
+9° - SOPRATTASSE   
+per l'uso di determinati binari di raccordo o per carico e scarico in punti determinati, da contabilizzare sui documenti di trasporto   
+  
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U034203900010110001&dgu=1978-07-07&art.dataPubblicazioneGazzetta=1978-07-07&art.codiceRedazionale=078U0342)
   

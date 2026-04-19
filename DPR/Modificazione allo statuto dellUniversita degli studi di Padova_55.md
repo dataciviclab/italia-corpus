@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 536
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1985 n. 1107
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 536
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1985 n. 1107
+===============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Padova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 14 ottobre 1926, n. 2133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2133), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto del 14 ottobre 1926, n. 2133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2133), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -22,11 +22,11 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
+Veduto il [decreto del Presidente della Repubblica 6 febbraio 1985, n. 216](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-02-06;216), relativo al riordinamento didattico del corso di laurea in psicologia;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta, intese a riordinare il corso di laurea in psicologia entro il termine di cui all'art. 2 del citato [decreto del Presidente della Repubblica 6 febbraio 1985, n. 216](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-02-06;216);
 
-Veduto il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
@@ -39,20 +39,149 @@ Articolo unico
 --------------
 
   
-  
-Nell'art. 168, relativo al corso di laurea in ingegneria, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:   
-matematica.   
+L'art. 76, relativo al corso di laurea in psicologia e' soppresso e sostituito dal seguente:  
+Art. 76. Laurea in psicologia. - Titolo di ammissione: quello previsto dal [primo comma dell'art. 1 della legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1-com1).  
+La durata del corso degli studi per la laurea in psicologia e' di cinque anni.  
+Il corso degli studi si distingue in un biennio propedeutico, inteso a fornire una preparazione di base comune, e in successivo triennio articolato in indirizzi destinati a offrire una preparazione professionale in un settore specifico di attivita' e le relative tecniche di ricerca.  
+Gli indirizzi in cui il triennio puo' articolarsi sono i seguenti:  
+1) indirizzo di psicologia generale e sperimentale;  
+2) indirizzo di psicologia dello sviluppo e dell'educazione;  
+3) indirizzo di psicologia clinica e di comunita';  
+4) indirizzo di psicologia del lavoro e delle organizzazioni.  
+L'attivazione e l'eventuale disattivazione degli indirizzi inseriti nello statuto delle singole universita' sono disposte dal rettore, su proposta del consiglio di corso di laurea.  
+Biennio propedeutico.  
+Nel corso del biennio propedeutico lo studente deve seguire nove insegnamenti comuni e tre insegnamenti opzionali, scelti tra quelli attivati dal corso di laurea. Gli insegnamenti del biennio vengono impartiti mediante corsi istituzionali.  
+Sono insegnamenti comuni:  
+psicologia generale;  
+psicologia dinamica;  
+psicologia della personalita' e delle differenze individuali;  
+psicologia dell'eta' evolutiva;  
+psicologia fisiologica;  
+psicologia sociale;  
+biologia generale;  
+fondamenti anatomo-fisiologici dell'attivita' psichica;  
+statistica psicometrica.  
+Sono insegnamenti complementari:  
+antropologia culturale;  
+etologia;  
+genetica umana;  
+metodologia delle scienze del comportamento;  
+pedagogia;  
+sociologia;  
+storia della filosofia contemporanea;  
+storia della psicologia.  
+Al termine del biennio lo studente deve inoltre sostenere una prova di lingua inglese consistente nella traduzione scritta in italiano di un brano tratto da un'opera di psicologia e in un colloquio diretto ad accertare la conoscenza del lessico psicologico. Ai fini della preparazione a questa prova il corso di laurea organizza appositi corsi, tenuti da docenti ufficiali, oppure cicli di esercitazioni affidati a lettori sotto la responsabilita' di un docente di altro corso di laurea o, ove istituito, del centro linguistico interfacolta'.  
+Triennio di indirizzo.  
+Per iscriversi al triennio lo studente deve aver superato tutti gli esami costitutivi comuni del biennio propedeutico e la prova di lingua inglese; gli esami opzionali devono essere superati entro il terzo anno.  
+La scelta dell'indirizzo da seguire avviene all'atto dell'iscrizione al terzo anno, e puo' essere modificata al momento dell'iscrizione al quarto o al quinto anno.  
+In caso di passaggio ad altro indirizzo lo studente ha l'obbligo di iscriversi a tutti gli insegnamenti costitutivi dell'indirizzo al quale si e' trasferito e di sostenere i relativi esami.  
+Ogni indirizzo comporta la frequenza di otto insegnamenti costitutivi e di cinque insegnamenti opzionali, di cui due possono essere stabiliti dal consiglio di corso di laurea.  
+Sono insegnamenti costitutivi per l'indirizzo di psicologia generale e sperimentale:  
+psicologia fisiologica (corso progredito);  
+neuropsicologia;  
+psicologia animale e comparata;  
+psicologia dell'apprendimento e della memoria;  
+psicologia della percezione;  
+psicologia del pensiero;  
+psicometria;  
+tecniche sperimentali di ricerca.  
+Sono insegnamenti costitutivi per l'indirizzo di psicologia dello sviluppo e dell'educazione:  
+psicologia dell'eta' evolutiva (corso progredito);  
+psicologia dell'educazione;  
+psicodinamica dello sviluppo e delle relazioni familiari;  
+psicopatologia generale e dell'eta' evolutiva;  
+tecniche di osservazione del comportamento infantile;  
+tecniche di ricerca psicologica e di analisi dei dati;  
+teoria e metodi di programmazione e di valutazione scolastica;  
+teoria e tecniche dei tests.  
+Sono insegnamenti costitutivi per l'indirizzo di psicologia clinica e di comunita':  
+psicologia dinamica (corso progredito);  
+psicologia clinica con elementi di psicoterapia individuale;  
+psicologia di comunita';  
+psicofisiologia clinica;  
+tecniche di ricerca psicologica e di analisi dei dati;  
+teorie e tecniche del colloquio psicologico;  
+teoria e tecniche della dinamica di gruppo;  
+teoria e tecniche dei tests di personalita'.  
+Sono insegnamenti costitutivi per l'indirizzo di psicologia del lavoro e delle organizzazioni:  
+psicologia sociale (corso progredito);  
+psicologia degli atteggiamenti e delle opinioni;  
+psicologia del lavoro;  
+psicologia delle organizzazioni;  
+psicologia dell'orientamento e della formazione professionale;  
+sociologia del lavoro;  
+metodologia della ricerca psico-sociale;  
+tecniche dell'intervista e del questionario.  
+Sono insegnamenti opzionali comuni a tutti gli indirizzi:  
+criminologia;  
+economia del lavoro;  
+elementi di programmazione ed elaborazione automatica dei dati;  
+epidemiologia dei disturbi psichici;  
+epistemologia genetica;  
+ergonomia;  
+fisica;  
+igiene mentale;  
+informatica;  
+legislazione del lavoro;  
+legislazione scolastica;  
+legislazione socio-sanitaria;  
+linguistica teorica;  
+logica;  
+medicina del lavoro;  
+metodologia dell'insegnamento;  
+neurofisiologia;  
+neuropsichiatria infantile;  
+neuropsicofarmacologia;  
+neuropsicologia clinica;  
+pedagogia sperimentale;  
+principi di medicina psicosomatica;  
+psichiatria;  
+psicobiologia dello sviluppo;  
+psicologia del sonno e del sogno;  
+psicolinguistica;  
+psicologia ambientale;  
+psicologia dell'arte e della letteratura;  
+psicologia dell'handicap e della riabilitazione;  
+psicologia delle comunicazioni di massa;  
+psicologia dello sport;  
+psicologia dello sviluppo del linguaggio e della comunicazione;  
+psicologia ed epidemiologia delle tossico-dipendenze;  
+psicologia e psicopatologia del comportamento sessuale;  
+psicologia gerontologica;  
+psicologia giuridica;  
+psicologia industriale;  
+psicopedagogia;  
+psicopedagogia del linguaggio e della comunicazione;  
+psicopedagogia differenziale;  
+psicosociologia delle istituzioni educative;  
+psicologia delle istituzioni sanitarie;  
+sociologia dell'educazione;  
+sociologia della comunicazione;  
+sociologia della famiglia;  
+sociologia industriale;  
+tecniche di analisi dei dati;  
+tecniche di indagine della personalita';  
+tecniche psicologiche di ricerca di mercato;  
+teoria e sistemi di intelligenza artificiale.  
+Per gli insegnamenti relativi alle "tecniche" di ricerca e per altri eventuali insegnamenti il consiglio di corso di laurea stabilisce le modalita' di svolgimento, la durata e le forme di controllo delle relative esperienze pratiche guidate. La verifica dell'esito positivo di tali esperienze e' condizione preliminare per poter sostenere l'esame.  
+Lo studente puo' sostituire uno o piu' insegnamenti opzionali del triennio con altrettanti insegnamenti costitutivi di indirizzi diversi da quello scelto, oppure - previa deliberazione del consiglio di corso di laurea - con altrettanti insegnamenti opzionali del biennio propedeutico di cui non abbia prima sostenuto l'esame, o ancora con insegnamenti, fino al massimo di due, di altri corsi di laurea dell'Ateneo.  
+Norme finali.  
+Lo studente e' tenuto a definire, all'inizio del quarto anno di corso, l'argomento della tesi di laurea in uno degli insegnamenti costitutivi dell'indirizzo e in un insegnamento opzionale coerente con tale indirizzo.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti costitutivi comuni e in tre insegnamenti opzionali del biennio propedeutico, negli insegnamenti costitutivi dell'indirizzo seguito e in cinque insegnamenti opzionali del triennio, e aver inoltre superato la prova di lingua inglese.  
+Il diploma di laurea reca l'indicazione dell'indirizzo seguito nel triennio.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 maggio 1983
+### Dato a Roma, addi' 19 ottobre 1985
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 28 settembre 1983
+Registrato alla Corte dei conti, addi' 10 giugno 1986
 
-Registro n. 63 Istruzione, foglio n. 136
+Registro n. 45 Istruzione, foglio n. 366

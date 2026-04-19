@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1961 n. 893
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1981 n. 554
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1961 n. 893
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1981 n. 554
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056) e successivi;
+Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,150 +18,73 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla
+-----
 
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Dopo l'art. 143, e con il conseguente spostamento della numerazione degli articoli successivi sono aggiunti i seguenti articoli relativi alla istituzione del Corso di perfezionamento in Clinica bovina, annesso alla Facolta' di medicina veterinaria:
-
-Corso di perfezionamento in Clinica bovina
-
-Art. 144. - Il direttore del corso di perfezionamento in Clinica bovina e' un professore di ruolo di una cattedra di Clinica dalla Facolta', il quale presiedera' il Consiglio dei professori formato dai docenti del corso stesso. Gli insegnanti del corso sono nominati dal rettore, su proposta del Consiglio di facolta', udito il direttore del corso.
-
-Art. 145. - Al corso di perfezionamento possono iscriversi i laureati in Medicina veterinaria, limitatamente al numero massimo di trenta.
-
-Ogni anno, entro il mese di maggio, la Facolta' stabilisce il numero dei posti disponibili al corso di perfezionamento.
-
-Gli aspiranti alla iscrizione al corso di perfezionamento dovranno presentare entro e non oltre il 30 ottobre alla segreteria della Facolta' domanda di ammissione, in bollo competente corredata dei documenti prescritti ed indicati nel manifesto che verra' pubblicato annualmente dall'Universita'.
-
-Qualora il numero degli aspiranti al corso superasse quello dei posti disponibili, si procedera' alla scelta dei partecipanti in base alla valutazione della carriera scolastica, della carriera scientifica, e pratica e di quei titoli che il candidato ritenga, opportuno presentare nel proprio interesse.
-
-I posti disponibili saranno conferiti in base a graduatoria, che risultera' da quanto sopra scritto.
-
-Art. 146. - Le tasse e le sopratasse per l'iscrizione al corso sono quelle stabilite per la Facolta' di medicina veterinaria.
-
-L'ammontare dei contributi sara' stabilito di anno in anno dal Consiglio di amministrazione, su proposta del Senato accademico e del Consiglio di facolta'.
-
-Le tasse, sopratasse e contributi possono essere pagati in due rate: la prima all'atto dell'iscrizione, la seconda entro il 31 marzo.
-
-Art. 147. - La sede del corso di perfezionamento e' fissata presso l'Istituto di patologia speciale e clinica medica della Facolta' di medicina veterinaria, via Celoria, 10.
-
-Le lezioni saranno tenute nelle aule degli Istituti clinici o in altri luoghi ritenuti idonei, a seconda delle esigenze dell'insegnamento.
-
-Art. 148. - La sorveglianza sugli iscritti, per tutto quanto riguarda la loro attivita', spetta al direttore del corso.
-
-Art. 149. - Il corso e' della durata di un anno accademico, e l'insegnamento si svolge normalmente secondo il calendario universitario durante il periodo delle lezioni.
-
-Al termine del corso i partecipanti dovranno sostenere un esame di profitto per le materie previste nel piano di studio.
-
-Art. 150. - Per ottenere l'attestato di frequenza e di profitto, l'allievo deve aver seguito i corsi e superato gli esami di profitto nonche' la discussione orale di una dissertazione scritta, su di un tema approvato in precedenza dal direttore del corso, corredata da rilievi clinici o sperimentali.
-
-Art. 151. - Le Commissioni per gli esami di profitto, composte di non meno di tre membri, compreso un libero docente, sono nominate dal direttore del corso.
-
-Art. 152. - Le materie d'insegnamento sono:
-
-"Semeiotica medica e metodologia clinica";
-
-"Clinica medica";
-
-"Clinica chirurgica";
-
-"Clinica ostetrica e ginecologica";
-
-"Terapia clinica".
-
-Durante il corso saranno tenute lezioni o conferenze su argomenti di:
-
-"Alimentazione";
-
-"Igiene zootecnica";
-
-"Anatomia patologica";
-
-"Medicina legale".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 3 luglio 1961
-
-GRONCHI
-
-BOSCO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 5 settembre 1961 Atti del Governo, registro n. 140, foglio n. 6. - VILLA
+proposta del Ministro della pubblica istruzione; Decreta:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Lo statuto dell'Universita' di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 148 - all'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola di specializzazione in patologia della riproduzione umana.  
+
+Art. 2
+------
+
   
-Decreta:  
+Dopo l'art. 264, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in patologia della riproduzione umana.  
   
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Dopo l'art. 143, e con il conseguente spostamento della numerazione degli articoli successivi sono aggiunti i seguenti articoli relativi alla istituzione del Corso di perfezionamento in Clinica bovina, annesso alla Facolta' di medicina veterinaria:  
+Scuola di specializzazione in patologia della riproduzione umana  
   
-Corso di perfezionamento in Clinica bovina  
-  
-Art. 144. - Il direttore del corso di perfezionamento in Clinica bovina e' un professore di ruolo di una cattedra di Clinica dalla Facolta', il quale presiedera' il Consiglio dei professori formato dai docenti del corso stesso. Gli insegnanti del corso sono nominati dal rettore, su proposta del Consiglio di facolta', udito il direttore del corso.  
-Art. 145. - Al corso di perfezionamento possono iscriversi i laureati in Medicina veterinaria, limitatamente al numero massimo di trenta.  
-Ogni anno, entro il mese di maggio, la Facolta' stabilisce il numero dei posti disponibili al corso di perfezionamento.  
-Gli aspiranti alla iscrizione al corso di perfezionamento dovranno presentare entro e non oltre il 30 ottobre alla segreteria della Facolta' domanda di ammissione, in bollo competente corredata dei documenti prescritti ed indicati nel manifesto che verra' pubblicato annualmente dall'Universita'.  
-Qualora il numero degli aspiranti al corso superasse quello dei posti disponibili, si procedera' alla scelta dei partecipanti in base alla valutazione della carriera scolastica, della carriera scientifica, e pratica e di quei titoli che il candidato ritenga, opportuno presentare nel proprio interesse.  
-I posti disponibili saranno conferiti in base a graduatoria, che risultera' da quanto sopra scritto.  
-Art. 146. - Le tasse e le sopratasse per l'iscrizione al corso sono quelle stabilite per la Facolta' di medicina veterinaria.  
-L'ammontare dei contributi sara' stabilito di anno in anno dal Consiglio di amministrazione, su proposta del Senato accademico e del Consiglio di facolta'.  
-Le tasse, sopratasse e contributi possono essere pagati in due rate: la prima all'atto dell'iscrizione, la seconda entro il 31 marzo.  
-Art. 147. - La sede del corso di perfezionamento e' fissata presso l'Istituto di patologia speciale e clinica medica della Facolta' di medicina veterinaria, via Celoria, 10.  
-Le lezioni saranno tenute nelle aule degli Istituti clinici o in altri luoghi ritenuti idonei, a seconda delle esigenze dell'insegnamento.  
-Art. 148. - La sorveglianza sugli iscritti, per tutto quanto riguarda la loro attivita', spetta al direttore del corso.  
-Art. 149. - Il corso e' della durata di un anno accademico, e l'insegnamento si svolge normalmente secondo il calendario universitario durante il periodo delle lezioni.  
-Al termine del corso i partecipanti dovranno sostenere un esame di profitto per le materie previste nel piano di studio.  
-Art. 150. - Per ottenere l'attestato di frequenza e di profitto, l'allievo deve aver seguito i corsi e superato gli esami di profitto nonche' la discussione orale di una dissertazione scritta, su di un tema approvato in precedenza dal direttore del corso, corredata da rilievi clinici o sperimentali.  
-Art. 151. - Le Commissioni per gli esami di profitto, composte di non meno di tre membri, compreso un libero docente, sono nominate dal direttore del corso.  
-Art. 152. - Le materie d'insegnamento sono:  
-"Semeiotica medica e metodologia clinica";  
-"Clinica medica";  
-"Clinica chirurgica";  
-"Clinica ostetrica e ginecologica";  
-"Terapia clinica".  
-Durante il corso saranno tenute lezioni o conferenze su argomenti di:  
-"Alimentazione";  
-"Igiene zootecnica";  
-"Anatomia patologica";  
-"Medicina legale".  
+Art. 265. - Presso l'istituto di clinica ostetrica e ginecologica II e' istituita la scuola di patologia della riproduzione umana, la quale ha lo scopo di conferire un'adeguata preparazione nella fisiologia della riproduzione e nei problemi ad essa collegati, nonche' di curare lo studio degli aspetti sociologici, demografici e della pianificazione familiare inerenti alla disciplina. Le norme generali sono quelle previste dallo statuto generale dell'Universita' di Milano (da art. 149 a art. 160).  
+Art. 266. - La durata del corso e' di tre anni, l'ammissione alla scuola avviene previo esame di concorso per titoli ed esami; il numero di posti disponibili e' fissato in venti per anno di corso.  
+Non e' ammessa la abbreviazione della durata del corso; gli iscritti hanno l'obbligo della frequenza alle lezioni, alle esercitazioni e ai seminari.  
+Art. 267. - Le materie di insegnamento sono:  
+1° Anno:  
+biologia generale della riproduzione;  
+embriologia e anatomia dell'apparato riproduttivo umano;  
+fisiologia della riproduzione umana;  
+genetica umana;  
+immunologia e patologia della riproduzione umana.  
+2° Anno:  
+fisiopatologia della riproduzione umana;  
+anatomia e istologia patologica dell'apparato riproduttivo;  
+endocrinologia ginecologica;  
+andrologia;  
+teratologia;  
+patologia della gravidanza;  
+urologia e patologia della riproduzione umana.  
+3° Anno:  
+nosografia della patologia della riproduzione umana;  
+diagnostica della patologia della riproduzione umana;  
+terapia medica della patologia della riproduzione umana;  
+trattamento chirurgico della patologia della riproduzione umana;  
+elementi di psicologia medica e sessuologia;  
+educazione sociologica e demografica.  
+Art. 268. - Gli iscritti alla scuola debbono sostenere esami annuali di profitto e l'esame finale di diploma.  
+La prova di profitto e' unica e viene espletata nel mese di ottobre. Gli esami si svolgono per gruppi di materie.  
+Per il conseguimento del diploma, il candidato deve presentare e discutere una dissertazione scritta con contributo personale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 luglio 1961
+### Dato a Roma, addi' 29 maggio 1981
 
-GRONCHI BOSCO
+PERTINI BODRATO
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 5 settembre 1961
+Registrato alla Corte dei conti, addi' 26 settembre 1981
 
-Atti del Governo, registro n. 140, foglio n. 6. - VILLA
+Registro n. 90 Istruzione, foglio n. 238

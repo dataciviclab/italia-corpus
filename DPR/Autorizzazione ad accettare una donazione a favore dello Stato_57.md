@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 marzo 1983 n. 302
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 aprile 1982 n. 469
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 marzo 1983 n. 302
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 aprile 1982 n. 469
+=============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,9 +12,9 @@ Art. 1
 
 N.
 
-302. Decreto del Presidente della Repubblica 21 marzo 1983, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione a favore dello Stato della donazione, consistente nel complesso monumentale denominato "Oratorio Madonna delle nevi" sito in Siena, disposta dai signori Cinughi de Pazzi con atto pubblico 30 ottobre 1981, n. 28449 di repertorio, a rogito dott.  
-Alberto Bartalini Bigi, notaio in Siena.  
+469. Decreto del Presidente della Repubblica 21 aprile 1982, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione, consistente in una collezione composta di un gruppo di diciannove opere le quali rivestono un importante interesse artistico, da destinare alla soprintendenza speciale alla Galleria nazionale d'arte moderna e contemporanea in Roma, disposta dai signori Francesco Pascali e Lucia Pomodoro, con atto di donazione 23 novembre 1978, n. 73338 di repertorio, a rogito dott.  
+Corrado Magarelli, notaio in Castellana Grotte (Bari).  
   
 Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 17 giugno 1983  
-Registro n. 32 Finanze, foglio n. 166
+Registrato alla Corte dei conti, addi' 12 luglio 1982  
+Registro n. 16 Beni culturali, foglio n. 368

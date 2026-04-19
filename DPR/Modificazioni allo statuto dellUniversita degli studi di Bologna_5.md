@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1110
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1951 n. 1792
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1110
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1951 n. 1792
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -10,72 +10,135 @@ Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regi decreti 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-12;2227); [4 settembre 1930, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-09-04;1312); [1 ottobre 1931, n. 1778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1778); [27 ottobre 1932, n. 2092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2092); [6 dicembre 1934, n. 2394](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2394); [1 ottobre 1936, n. 2502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2502); [12 maggio 1939, n. 1315](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-05-12;1315); [5 ottobre 1939, n. 1644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1644); [13 luglio 1941, n. 848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-07-13;848); [18 luglio 1942, n. 928](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-18;928) e [24 novembre 1942, n. 1595; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-11-24;1595) [16 maggio 1947, n. 694, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-05-16;694) [22 febbraio 1948, n. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-02-22;414); [30 luglio 1950, n. 1268](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-30;1268); [31 ottobre 1950, n. 1307](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1307) e [5 agosto 1951, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-05;1311);
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni;
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifica allo statuto formulate, dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati e ulteriormente modificato come appresso: "corso di perfezionamento in radiocomunicazioni" e' trasformato in: "corso di perfezionamento in radio e telecomunicazioni".
 
-Articolo unico
---------------
+Art. 164. - Il corso di perfezionamento in radio e telecomunicazioni ha la durata di un anno.
 
+Art. 165. - Possono essere iscritti al corso i laureati in ingegneria e in fisica. E' data tuttavia facolta' al Consiglio del corso di ammettere laureati in corsi di laurea affini ai precedenti.
+
+Art. 166. - Le materie di studio sono le seguenti:
+
+Corsi fondamentali:
+
+1) Radiotecnica generale
+
+2) Propagazione delle onde elettromagnetiche;
+
+3) Teoria dei circuiti;
+
+4) Telefonia;
+
+5) Tubi elettronici;
+
+6) Misure (con esercitazioni).
+
+Corsi complementari:
+
+1) Complementi di analisi matematica;
+
+2) Calcolo operatorio;
+
+3) Complementi di elettrotecnica;
+
+4) Tecnica degli impianti trasmittenti;
+
+5) Tecnica degli impianti riceventi;
+
+6) Esercitazioni varie.
+
+Tali insegnamenti potranno essere integrati con altri a carattere monografico o con conferenze su argomenti speciali, da affidarsi a tecnici di chiara fama.
+
+Art. 167. - Il corso di perfezionamento in radio e telecomunicazioni viene tenuto nell'Istituto di elettrotecnica e delle comunicazioni elettriche.
+
+Art. 168. - Al termine del corso e' rilasciato un certificato di frequenza e di esami.
+
+Per il conseguimento di tale certificato gli allievi, dopo aver frequentato regolarmente le lezioni e le esercitazioni, debbono aver sostenuto con esito favorevole l'esame di profitto relativo a ciascuno degli insegna menti fondamentali e di norma a quattro insegnamenti complementari fra quelli elencati all'art. 166, nonche' un colloquio in cui discutono una dissertazione scelta su argomento speciale.
+
+Art. 169. - La scelta delle materie complementari su cui sostenere l'esame verra' stabilita dal Consiglio del corso per ciascun iscritto in base alla sua precedente carriera scolastica. I laureati che non siano forniti di laurea in ingegneria, dovranno in ogni caso sostenere l'esame di complemento di elettrotecnica.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 27 ottobre 1951
+
+EINAUDI
+
+SEGNI
+
+Visto, il Guardasigilli: ZOLI
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 8 aprile 1952 Atti del Governo, registro n. 51, foglio n. 34. - FRASCA
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Nell'art. 57, relativo al corso di laurea in economia e commercio, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-complementi di matematica per economisti;  
-economia industriale;  
-finanza aziendale;  
-marketing;  
-revisione aziendale;  
-diritto penale commerciale;  
-contabilita' industriale;  
-economia e politica internazionale.  
-Nell'art. 67, relativo al corso di laurea in scienze statistiche e demografiche, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-analisi demografica;  
-demografia storica;  
-economia della popolazione;  
-genetica di popolazioni;  
-teorie della popolazione e modelli demografici;  
-metodologia statistica della ricerca sperimentale;  
-logica.  
-Nell'art. 68, relativo al corso di laurea in scienze statistiche ed economiche, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-rilevazioni statistiche ufficiali;  
-processi aleatori e teoria delle file d'attesa;  
-programmazione ed interpretazione statistica degli esperimenti;  
-analisi economica.  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regi decreti 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-12;2227); [4 settembre 1930, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-09-04;1312); [1 ottobre 1931, n. 1778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1778); [27 ottobre 1932, n. 2092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2092); [6 dicembre 1934, n. 2394](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2394); [1 ottobre 1936, n. 2502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2502); [12 maggio 1939, n. 1315](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-05-12;1315); [5 ottobre 1939, n. 1644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1644); [13 luglio 1941, n. 848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-07-13;848); [18 luglio 1942, n. 928](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-18;928) e [24 novembre 1942, n. 1595; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-11-24;1595) [16 maggio 1947, n. 694, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-05-16;694) [22 febbraio 1948, n. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-02-22;414); [30 luglio 1950, n. 1268](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-30;1268); [31 ottobre 1950, n. 1307](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1307) e [5 agosto 1951, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-05;1311);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni;  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifica allo statuto formulate, dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati e ulteriormente modificato come appresso: "corso di perfezionamento in radiocomunicazioni" e' trasformato in: "corso di perfezionamento in radio e telecomunicazioni".  
+Art. 164. - Il corso di perfezionamento in radio e telecomunicazioni ha la durata di un anno.  
+Art. 165. - Possono essere iscritti al corso i laureati in ingegneria e in fisica. E' data tuttavia facolta' al Consiglio del corso di ammettere laureati in corsi di laurea affini ai precedenti.  
+Art. 166. - Le materie di studio sono le seguenti:  
+Corsi fondamentali:  
+1) Radiotecnica generale  
+2) Propagazione delle onde elettromagnetiche;  
+3) Teoria dei circuiti;  
+4) Telefonia;  
+5) Tubi elettronici;  
+6) Misure (con esercitazioni).  
+Corsi complementari:  
+1) Complementi di analisi matematica;  
+2) Calcolo operatorio;  
+3) Complementi di elettrotecnica;  
+4) Tecnica degli impianti trasmittenti;  
+5) Tecnica degli impianti riceventi;  
+6) Esercitazioni varie.  
+Tali insegnamenti potranno essere integrati con altri a carattere monografico o con conferenze su argomenti speciali, da affidarsi a tecnici di chiara fama.  
+Art. 167. - Il corso di perfezionamento in radio e telecomunicazioni viene tenuto nell'Istituto di elettrotecnica e delle comunicazioni elettriche.  
+Art. 168. - Al termine del corso e' rilasciato un certificato di frequenza e di esami.  
+Per il conseguimento di tale certificato gli allievi, dopo aver frequentato regolarmente le lezioni e le esercitazioni, debbono aver sostenuto con esito favorevole l'esame di profitto relativo a ciascuno degli insegna menti fondamentali e di norma a quattro insegnamenti complementari fra quelli elencati all'art. 166, nonche' un colloquio in cui discutono una dissertazione scelta su argomento speciale.  
+Art. 169. - La scelta delle materie complementari su cui sostenere l'esame verra' stabilita dal Consiglio del corso per ciascun iscritto in base alla sua precedente carriera scolastica. I laureati che non siano forniti di laurea in ingegneria, dovranno in ogni caso sostenere l'esame di complemento di elettrotecnica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 dicembre 1985
+### Dato a Roma, addi' 27 ottobre 1951
 
-COSSIGA
+EINAUDI SEGNI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: ZOLI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 8 aprile 1952
 
-Registrato alla Corte dei conti, addi' 10 giugno 1986
-
-Registro n. 45 Istruzione, foglio n. 361
+Atti del Governo, registro n. 51, foglio n. 34. - FRASCA

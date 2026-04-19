@@ -1,73 +1,88 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1951 n. 1311
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 827
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1951 n. 1311
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 827
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con i [regi decreti 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-12;2227); [4 settembre 1930, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-09-04;1312); [1 ottobre 1931, n. 1778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1778); [27 ottobre 1932, n. 2092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2092); [6 dicembre 1934, n. 2394](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2394); [1 ottobre 1936, n. 2502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2502); [12 maggio 1939, n. 1315](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-05-12;1315); [5 ottobre 1939, n. 1644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1644); [11 luglio 1941, n. 848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-07-11;848); [18 luglio 1942, n. 928](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-18;928); [24 novembre 1942, n. 1595 e con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-11-24;1595) [16 maggio 1947, n. 694, del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-05-16;694), [22 febbraio 1948 n. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-02-22;414) e [30 luglio 1950, n. 1268](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-30;1268);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Gli articoli 340, 341, 342 e 343, relativi al corso di specializzazione in fisica sanitaria che muta la denominazione in scuola di specializzazione in fisica sanitaria afferente alle facolta' di scienze matematiche, fisiche e naturali, medicina e chirurgia e ingegneria, sono soppressi e sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi:  
+Scuola di specializzazione in fisica sanitaria  
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati e' cosi' ulteriormente modificato:  
-Dopo l'art. 176 vengono inseriti i seguenti nuovi articoli relativi alla istituzione di una scuola di specializzazione in fitopatologia con il conseguente spostamento della numerazione degli articoli successivi:  
-  
-Scuola di specializzazione in fitopatologia.  
-  
-Attuale art. 177. - Presso la Facolta' di agraria dell'Universita' di Bologna e' istituita una "scuola di specializzazione in fitopatologia" della durata di due anni.  
-Attuale art. 178: - Scopo della "scuola" e' di impartire ai laureati in scienze agrarie le cognizioni necessarie affinche' possano espletare la loro attivita' nel campo della fitopatologia (presso gli organi ministeriali addetti alla difesa delle piante, presso organizzazioni consortili, ecc.). La scuola conferira' il diploma di "specialista in fitopatologia", ai sensi dell'art. 125 del presente statuto.  
-Attuale art. 179. - Direttore della scuola e' il titolare della cattedra di entomologia o quello della cattedra di patologia vegetale.  
-Egli e' nominato dalla Facolta' di agraria per un anno ed e' sempre riconfermabile. Presiede il Consiglio della scuola, costituita a norma dell'art. 115, vigila sul buon funzionamento di essa ed e' tenuto a dare comunicazione al preside della Facolta' di agraria di tutti gli atti e di tutte le deliberazioni del Consiglio da lui presieduto.  
-Attuale art. 180. - Per il conseguimento del titolo di specialista e' obbligatoria la frequenza alle lezioni, alle esercitazioni, alle conferenze, ai colloqui, ecc. Nel secondo anno e' obbligatorio l'internato, o presso l'Istituto di entomologia, o presso l'Istituto di patologia vegetale.  
-Attuale art. 181. - Alla scuola possono iscriversi coloro che siano in possesso della laurea in scienze agrarie conseguita in una Universita' italiana.  
-Nel caso in cui pervengano domande di iscrizione in numero superiore a quello fissato dalla Facolta', in conformita' di quanto e' disposto dall'ultimo capoverso dell'art. 116, il Consiglio della scuola provvedera', a stabilire una graduatoria degli aspiranti tenendo conto dei titoli che comprovino una particolare disposizione agli studi biologici, dei voti riportati, durante il corso di laurea, negli esami di entomologia e di patologia vegetale nonche' delle eventuali trattazioni della materia in tesi od altre pubblicazioni.  
-Attuale art. 182. - Gli insegnamenti possono non avere carattere cattedratico ed essere svolti in quella diversa forma che e' consentita dall'indole di ciascuna disciplina.  
-Attuale art. 183. Gli insegnamenti impartiti nella scuola sono i seguenti:  
-1) Entomologia e zoologia (biennale);  
-2) Patologia vegetale (biennale);  
-3) Piante infestanti (annuale);  
-4) Applicazioni di biologia vegetale (annuale);  
-5) Chimica degli insetticidi, degli anticrittogamici, ecc. (annuale);  
-6) Meccanica dei mezzi di distribuzione degli insetticidi e degli anticrittogamici (semestrale);  
-7) Organizzazione economica e legislazione per la difesa delle piante (annuale).  
-Attuale art. 184. - I docenti dei singoli insegnamenti sono nominati, per incarico, anno per anno dal Consiglio di facolta' su proposta del direttore della scuola.  
-Attuale art. 185. - Alla fine del primo anno si sostengono i seguenti esami di profitto:  
-1) Piante infestanti;  
-2) Chimica degli insetticidi, degli anticrittogamici, ecc.;  
-3) Applicazioni di biologia vegetale;  
-4) Meccanica dei mezzi di distribuzione degli insetticidi e degli anticrittogamici.  
-Alla fine del secondo anno si sostengono i seguenti esami di profitto:  
-1) Entomologia e zoologia;  
-2) Patologia vegetale;  
-3) Organizzazione economica, e legislazione per la difesa delle piante.  
-L'esame di diploma, sara' costituito da un colloquio sostenuto dall'allievo dinanzi all'intero collegio dei professori insegnanti nella scuola di specializzazione.  
-Attuale art. 186. - Le tasse e sopratasse da pagarsi dagli iscritti alla scuola sono le stesse stabilite dalla legge per gli iscritti alla Facolta' di agraria.  
-Il contributo annuo che gli iscritti debbono corrispondere per le esercitazioni pratiche e per prestazioni di qualunque natura di cui usufruiscono durante l'anno di studio, e' stabilito, anno per anno, dal Consiglio di amministrazione dell'Universita', uditi il Consiglio di facolta' ed il Senato accademico.  
-Attuale art. 187. - Al finanziamento della scuola viene provveduto, oltre che con gli introiti di cui all'articolo precedente, con eventuali contributi da parte dei Ministero dell'agricoltura e di altri enti o privati che intendano cooperare all'attuazione dei fini che la scuola si propone di conseguire.  
+Art. 199 - istituita la scuola di specializzazione in fisica sanitaria presso l'Universita' di Bologna.  
+La scuola ha lo scopo di provvedere alla formazione dei fisici sanitari da impiegarsi presso unita' sanitarie locali, centri di. ricerca pubblici e privati, ospedali, centri nucleari e di controllo ecologico.  
+La scuola rilascia il titolo di specialista di fisica sanitaria.  
+Art. 200 - La scuola ha la durata di due anni.  
+Ciascun anno di corso prevede 250 ore di insegnamento e 150 ore di attivita' pratiche guidate.  
+In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in quindici per ciascun anno di corso, per un totale di trenta specializzandi.  
+Art. 201 - Ai sensi dell'art. 11 della normativa generale, concorrono al funzionamento della scuola le facolta' di scienze matematiche, fisiche e naturali, medicina e chirurgia e di ingegneria ed il dipartimento di fisica.  
+Nel manifesto annuale degli studi viene indicata la sede della direzione della scuola.  
+Art. 202 - Sono ammessi al concorso per ottenere l'iscrizione alla scuola i laureati in fisica, chimica, chimica industriale e ingegneria.  
+Sono altresi' ammessi al concorso per l'ammissione alla scuola coloro che siano in possesso del titolo di studio, conseguito presso Universita' straniere e che sia equipollente, ai sensi dell'[art. 352 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art352), e quelli richiesti nel comma precedente.  
+Art. 203 - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+complementi di Fisica;  
+elementi, di biologia, anatomia e fisiologia umana;  
+fisica e dosimetria delle radiazioni;  
+strumentazione e tecnologie biomediche;  
+radiazioni non ionizzanti.  
+2° Anno:  
+protezione personale e ambientale;  
+strumentazione e tecnologie biomediche;  
+fisica e dosimetria della radiazione;  
+informatica e statistica nelle applicazioni sanitarie;  
+normativa ed igiene industriale.  
+Art. 204 - Oltre le lezioni lo specializzando dovra' frequentare esercitazioni e attivita' pratiche presso il dipartimento di fisica, i servizi sanitari ospedalieri, e i centri di ricerca nazionali e internazionali.  
+Ai fini delle frequenze e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture del servizio socio-sanitario attinenti alla specializzazione.  
+Art. 205 - L'Universita', su proposta del consiglio della scuola, puo' stabilire convenzioni con enti pubblici e privati, con finalita' di sovvenzionamenti e di utilizzazione di strutture extrauniversitarie per lo svolgimento di attivita' didattiche ai sensi del [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382) e del [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Caprarola, addi' 5 agosto 1951
+### Dato a Roma, addi' 31 ottobre 1985
 
-EINAUDI SEGNI
+COSSIGA
 
-Visto, il Guardasigilli: ZOLI
+FALCUCCI, Ministro della pubblica, istruzione
 
-Registrato alla Corte dei conti, addi' 1 dicembre 1951
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Atti del Governo, registro n. 47, foglio n. 15. - FRASCA
+Registrato alla Corte dei conti, addi' 9 gennaio 1986
+
+Registro n. 1 Istruzione, foglio n. 200

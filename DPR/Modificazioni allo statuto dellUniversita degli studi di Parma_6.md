@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1985 n. 1002
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1954 n. 1135
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1985 n. 1002
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1954 n. 1135
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -10,105 +10,233 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di l'arma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), modificato con [regi decreti 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1772); [1 ottobre 1931, n. 1380](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1380); [26 ottobre 1933, n. 2401](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1933-10-26;2401); [13 dicembre 1934, n. 2423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-13;2423); [1 ottobre 1936, n. 2076](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2076); [20 aprile 1939, n. 1067](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-04-20;1067); [1 agosto 1941, n. 893](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-08-01;893); [26 marzo 1942, n. 330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-03-26;330); [5 settembre 1942, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1178); [21 gennaio 1943, n. 21, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1943-01-21;21) [30 dicembre 1947, n. 1735 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1735) [27 marzo 1948, n. 458](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-03-27;458); [30 ottobre 1949, n. 1002](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1002); [30 maggio 1950, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-05-30;615); [11 aprile 1951, n. 471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;471); [27 ottobre 1951, n. 1701](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1701); [31 agosto 1951, n. 1824](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-31;1824); [25 luglio 1952, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1350); [16 ottobre 1952, n. 4013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-16;4013) e [27 marzo 1954, n. 734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-27;734);
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge, 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+L'art. 110, relativo alla scuola di specializzazione in malattie veneree e della pelle, e' sostituito dal seguente:
 
+"La scuola ha la durata di due anni.
+
+L'iscrizione alla scuola e' limitata per ogni anno accademico a n. 10 allievi.
+
+Le materie d'insegnamento sono le seguenti:
+
+1° anno:
+
+Anatomia della cute, delle mucose, dell'apparato genito-urinario;
+
+Fisiologia della cute, delle mucose, dell'apparato genito-urinario;
+
+Fisiopatologia della cute, delle mucose, dell'apparato genito-urinario;
+
+Semeiotica generale delle malattie cutanee e veneree;
+
+Storia della specialita';
+
+Tecnica dei principali esami di laboratorio.
+
+2° anno:
+
+Anatomia e istologia patologica della specialita';
+
+Clinica delle malattie veneree (blenorragia-streptobacillosi, IV malattie e forme rare in genere);
+
+Clinica della sifilide recente;
+
+Clinica delle malattie cutanee;
+
+Profilassi;
+
+Nozioni introduttive di terapia;
+
+Clinica della sifilide tardiva;
+
+Clinica delle malattie cutanee piu' rare;
+
+Chimica biologica in rapporto con la specialita';
+
+Igiene e disposizioni relative;
+
+Medicina legale della specialita';
+
+Patologia medica in rapporto alla dermatologia ed alle malattie veneree;
+
+Patologia chirurgica in rapporto alla dermatologia ed alle malattie veneree".
+
+Dopo l'art. 116, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della "scuola di specializzazione in clinica delle malattie nervose e mentali" con il conseguente spostamento della numerazione degli articoli successivi.
+
+Scuola di specializzazione in clinica
+
+delle malattie nervose e mentali
+
+Art. 117. - E' istituita la scuola di specializzazione in clinica delle malattie nervose e mentali che ha sede presso la clinica delle malattie nervose e mentali della Facolta' di medicina e chirurgia.
+
+Sono ammessi i laureati in medicina e chirurgia.
+
+Art. 118. - La scuola ha la durata di tre anni.
+
+L'iscrizione per ogni anno accademico e' limitato a n. 10 allievi.
+
+Le materie di insegnamento sono:
+
+1° anno:
+
+1) Anatomia del sistema nervoso;
+
+2) Fisiologia del sistema nervoso;
+
+3) Psicopatologia.
+
+2° anno:
+
+1) Anatomia patologica delle malattie del sistema nervoso;
+
+2) Elettroencefalografia clinica;
+
+3) Neuropsichiatria infantile.
+
+3° anno:
+
+1) Neuropatologia clinica;
+
+2) Psichiatria clinica e tecnica manicomiale;
+
+3) Psichiatria forense;
+
+4) Craniologia Roentgen;
+
+5) Neurologia oculare;
+
+6) Neuropatologia otorinolaringoiatrica;
+
+7) Neurochirurgia.
+
+Art. 119. - Gli allievi del 2° e 3° corso dovranno seguire turni di internato ed esercitazioni di semeiotica secondo gli orari stabiliti dalla direzione della scuola.
+
+Art. 120. - Ogni materia di insegnamento e' anche materia d'esame alla fine dei singoli corsi. Alla fine dei tre anni gli allievi dovranno presentare una tesi scritta e sostenere un esame di diploma.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Dogliani, addi' 24 settembre 1954
+
+EINAUDI
+
+ERMINI
+
+Visto, il Guardasigilli: DE PIETRO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 2 dicembre 1964 Atti del Governo, registro n. 87, foglio n. 62. - CARLOMAGNO
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' degli studi di l'arma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), modificato con [regi decreti 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1772); [1 ottobre 1931, n. 1380](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1380); [26 ottobre 1933, n. 2401](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1933-10-26;2401); [13 dicembre 1934, n. 2423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-13;2423); [1 ottobre 1936, n. 2076](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2076); [20 aprile 1939, n. 1067](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-04-20;1067); [1 agosto 1941, n. 893](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-08-01;893); [26 marzo 1942, n. 330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-03-26;330); [5 settembre 1942, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1178); [21 gennaio 1943, n. 21, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1943-01-21;21) [30 dicembre 1947, n. 1735 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1735) [27 marzo 1948, n. 458](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-03-27;458); [30 ottobre 1949, n. 1002](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1002); [30 maggio 1950, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-05-30;615); [11 aprile 1951, n. 471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;471); [27 ottobre 1951, n. 1701](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1701); [31 agosto 1951, n. 1824](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-31;1824); [25 luglio 1952, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1350); [16 ottobre 1952, n. 4013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-16;4013) e [27 marzo 1954, n. 734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-27;734);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Gli articoli da 315 a 328, relativi alla scuola di specializzazione in "farmacia ospedaliera", afferente alla facolta' di farmacia, sono abrogati e sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi:   
+Decreta:  
   
-Scuola di specializzazione in farmacia ospedaliera   
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+L'art. 110, relativo alla scuola di specializzazione in malattie veneree e della pelle, e' sostituito dal seguente:  
+"La scuola ha la durata di due anni.  
+L'iscrizione alla scuola e' limitata per ogni anno accademico a n. 10 allievi.  
+Le materie d'insegnamento sono le seguenti:  
   
-Art. 315. - E' istituita presso l'Universita' degli studi di Parma la scuola di specializzazione in farmacia ospedaliera, che conferisce il diploma di specialista in farmacia ospedaliera.   
-Art. 316. - La direzione della scuola ha sede presso la facolta' di farmacia.   
-Art. 317. - La scuola ha lo scopo di assicurare ai laureati in discipline farmaceutiche l'acquisizione di competenze professionali specifiche necessarie ad esercitare la loro attivita' nella farmacia ospedaliera.   
-Art. 318. - La durata del corso e' di tre anni e non e' suscettibile di abbreviazioni.   
-Art. 319. - Il numero degli iscritti e' di dieci per ogni anno e complessivamente di trenta per l'intero corso di studi.   
-Art. 320. - Sono ammessi al concorso per ottenere l'iscrizione alla scuola i laureati in farmacia o in chimica e tecnologia farmaceutiche in possesso della abilitazione alla professione di farmacista.   
-Sono altresi' ammessi al concorso per l'ammissione alla scuola coloro che siano in possesso del titolo di studio, conseguito presso universita' straniere e che sia equipollente ai sensi dell'[art. 332 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art332), a quelli richiesti nel comma precedente.   
-Art. 321. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta, integrata eventualmente da un colloquio, e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:   
-a) la tesi in una disciplina attinente alla specializzazione;   
-b) il voto di laurea;   
-c) il voto riportato negli esami di profitto del corso di laurea nelle materie attinenti alla specializzazione;   
-d) le pubblicazioni nelle predette materie.   
-Il punteggio dei predetti titoli e' quello stabilito con decreto ministeriale del 16 settembre 1982.   
-Sono ammessi alla scuola coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nella graduatoria compilata sulla base del punteggio complessivo riportato.   
-Art. 322. - Le materie di insegnamento, tutte afferenti alla facolta' di farmacia, sono le seguenti:   
-1° Anno:   
-matematica e biostatistica;   
-patologia generale;   
-chimica farmaceutica generale;   
-immunologia;   
-microbiologia ed igiene;   
-controlli di qualita';   
-basi farmacologiche della terapia.   
-2° Anno:   
-informatica;   
-biofarmaceutica e farmacocinetica I;   
-tossicita', interazioni, effetti secondari dei farmaci;   
-radiochimica e radiobiologia;   
-tecnologia delle preparazioni magistrali;   
-chimica degli alimenti;   
-immunochimica.   
-3° Anno:   
-biofarmaceutica e farmacocinetica II;   
-farmacia clinica;   
-documentazione e informazione sui farmaci;   
-officina galenica;   
-scienza dell'alimentazione e nutrizione clinica;   
-legislazione sanitaria e ospedaliera, economia ed organizzazione.   
-Art. 323. - La frequenza ai corsi e' obbligatoria. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso.   
-Coloro che non superano questo esame potranno ripetere l'anno di corso una sola volta.   
-Art. 324. - I corsi di lezioni saranno accompagnati da attivita' pratiche finalizzate ai compiti specialistici del farmacista ospedaliero nel contesto socio-sanitario.   
-Potranno essere invitati a tenere lezioni, conferenze, seminari ed esercitazioni docenti di altre facolta' ed esperti, anche dall'estero.   
-Per ogni insegnamento e' richiesto da un minimo di 12 ad un massimo di 45 ore tra lezioni ed esercitazioni pratiche.   
-Le attivita' pratiche debbono rappresentare almeno il 25% del corso di insegnamento a cui afferiscono. Per l'ammissione agli esami e' richiesta la frequenza a tutte le esercitazioni pratiche e ad almeno ai 3/4 di ognuno dei corsi teorici. Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.   
-Art. 325. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studi della scuola di specializzazione si conclude con un esame finale consistente in una dissertazione scritta su una o piu' materie del corso.   
-A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.   
-Art. 326. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.   
-Art. 327. - Il consiglio della scuola e' composto dai docenti universitari di ruolo e fuori ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).   
-Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382. al consiglio di corso di laurea in materia di coordinamento degli insegnamenti.   
-La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.   
+1° anno:  
+Anatomia della cute, delle mucose, dell'apparato genito-urinario;  
+Fisiologia della cute, delle mucose, dell'apparato genito-urinario;  
+Fisiopatologia della cute, delle mucose, dell'apparato genito-urinario;  
+Semeiotica generale delle malattie cutanee e veneree;  
+Storia della specialita';  
+Tecnica dei principali esami di laboratorio.  
+  
+2° anno:  
+Anatomia e istologia patologica della specialita';  
+Clinica delle malattie veneree (blenorragia-streptobacillosi, IV malattie e forme rare in genere);  
+Clinica della sifilide recente;  
+Clinica delle malattie cutanee;  
+Profilassi;  
+Nozioni introduttive di terapia;  
+Clinica della sifilide tardiva;  
+Clinica delle malattie cutanee piu' rare;  
+Chimica biologica in rapporto con la specialita';  
+Igiene e disposizioni relative;  
+Medicina legale della specialita';  
+Patologia medica in rapporto alla dermatologia ed alle malattie veneree;  
+Patologia chirurgica in rapporto alla dermatologia ed alle malattie veneree".  
+  
+Dopo l'art. 116, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della "scuola di specializzazione in clinica delle malattie nervose e mentali" con il conseguente spostamento della numerazione degli articoli successivi.  
+  
+Scuola di specializzazione in clinica  
+delle malattie nervose e mentali  
+  
+Art. 117. - E' istituita la scuola di specializzazione in clinica delle malattie nervose e mentali che ha sede presso la clinica delle malattie nervose e mentali della Facolta' di medicina e chirurgia.  
+Sono ammessi i laureati in medicina e chirurgia.  
+  
+Art. 118. - La scuola ha la durata di tre anni.  
+L'iscrizione per ogni anno accademico e' limitato a n. 10 allievi.  
+Le materie di insegnamento sono:  
+  
+1° anno:  
+1) Anatomia del sistema nervoso;  
+2) Fisiologia del sistema nervoso;  
+3) Psicopatologia.  
+  
+2° anno:  
+1) Anatomia patologica delle malattie del sistema nervoso;  
+2) Elettroencefalografia clinica;  
+3) Neuropsichiatria infantile.  
+  
+3° anno:  
+1) Neuropatologia clinica;  
+2) Psichiatria clinica e tecnica manicomiale;  
+3) Psichiatria forense;  
+4) Craniologia Roentgen;  
+5) Neurologia oculare;  
+6) Neuropatologia otorinolaringoiatrica;  
+7) Neurochirurgia.  
+  
+Art. 119. - Gli allievi del 2° e 3° corso dovranno seguire turni di internato ed esercitazioni di semeiotica secondo gli orari stabiliti dalla direzione della scuola.  
+  
+Art. 120. - Ogni materia di insegnamento e' anche materia d'esame alla fine dei singoli corsi. Alla fine dei tre anni gli allievi dovranno presentare una tesi scritta e sostenere un esame di diploma.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 ottobre 1985
+### Dato a Dogliani, addi' 24 settembre 1954
 
-COSSIGA
+EINAUDI ERMINI
 
-Falcucci, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DE PIETRO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 2 dicembre 1964
 
-Registrato alla Corte dei conti, addi' 7 aprile 1986
-
-Registro n. 24 Istruzione, foglio n. 49
+Atti del Governo, registro n. 87, foglio n. 62. - CARLOMAGNO

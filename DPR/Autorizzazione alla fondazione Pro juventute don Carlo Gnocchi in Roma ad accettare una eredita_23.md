@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980 n. 120
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 agosto 1981 n. 520
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980 n. 120
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 agosto 1981 n. 520
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-120. Decreto del Presidente della Repubblica 7 febbraio 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita', consistente nella somma di L. 4.516.523, disposta dalla sig.ra Bice Buonamici ved. Ponzoni a favore dello istituto mutilatini don Gnocchi, che si identifica con la fondazione medesima, con testamento pubblico 14 novembre 1973, pubblicato in data 14 ottobre 1977, n. 16824 di repertorio, a rogito dott. Claudio Malberti, notaio in Corsico (Milano), registrato a Milano in data 25 ottobre 1977, n. A/ 4 5144.  
+520. Decreto del Presidente della Repubblica 6 agosto 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita', consistente in beni immobili, saldo libretto, buoni postali fruttiferi, contanti come da inventario redatto dal notaio dott.  
+Egidio Luoni in data 13 gennaio 1979 per un valore complessivo, al netto delle passivita', di L. 9.376.710, disposta dalla sig.ra Lattuada Rosa ved. Guglielmi con testamento olografo 10 luglio 1978, pubblicato con atto 17 aprile 1979, n. 15334/2541 di repertorio, a rogito dott. Egidio Luoni, notaio in Gallarate (Varese), registrato a Gallarate in data 23 aprile 1979 al n. 1148, vol. 226.  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 31 marzo 1980  
-Registro n. 3 Presidenza, foglio n. 5
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 12 settembre 1981  
+Registro n. 7 Presidenza, foglio n. 350

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1980 n. 774
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1971 n. 689
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1980 n. 774
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1971 n. 689
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Roma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,104 +20,221 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Roma, approvato e modificato con i decreti su indicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 20: all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:
+
+Diritto internazionale privato e processuale;
+
+Organizzazione internazionale.
+
+Art. 66: All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:
+
+Storia dell'arte antica;
+
+Archeologia cristiana;
+
+Museografia;
+
+Lingua inglese;
+
+Psicolinguistica;
+
+Metodologia dell'insegnamento linguistico;
+
+Storia della lingua latina;
+
+Storia del cristianesimo;
+
+Filosofia della religione;
+
+Filologia ibero-romanza;
+
+Letteratura umanistica;
+
+Geografia regionale.
+
+Art. 67: all'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:
+
+Storia dell'arte antica;
+
+Archeologia cristiana;
+
+Museografia;
+
+Lingua inglese;
+
+Psicolinguistica;
+
+Metodologia dell'insegnamento linguistico;
+
+Storia della lingua latina;
+
+Storia del cristianesimo;
+
+Filosofia della religione;
+
+Filologia ibero-romanza;
+
+Letteratura umanistica;
+
+Geografia regionale.
+
+Art. 68: all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:
+
+Storia dell'arte antica;
+
+Archeologia cristiana;
+
+Museografia;
+
+Lingua inglese;
+
+Psicolinguistica;
+
+Metodologia dell'insegnamento linguistico;
+
+Storia della lingua latina;
+
+Storia del cristianesimo;
+
+Filosofia della religione;
+
+Filologia ibero-romanza;
+
+Letteratura umanistica;
+
+Geografia regionale.
+
+Art. 87: e' modificato nel senso che l'istituto di botanica con annesso orto, presso la facolta' di scienze matematiche, fisiche e naturali, viene scisso in due distinti istituti con le denominazioni: "Istituto di botanica" e "Istituto dell'orto botanico".
+
+Art. 110: all'elenco degli istituti annessi alla facolta' di farmacia sono aggiunti i seguenti:
+
+Istituto di fisiologia generale;
+
+Istituto di chimica biologica.
+
+Art. 112: e' modificato nel senso che e' abrogata la propedeuticita' che prevede che non si puo' sostenere l'esame di igiene se non si sono superati gli esami di fisiologia generale, chimica generale ed inorganica e chimica organica. E' abolita inoltre la propedeuticita' dell'esame di fisiologia generale nei riguardi di fisica e di anatomia umana.
+
+Art. 380 (ex 369), relativo alla scuola di perfezionamento in filosofia e di preparazione all'insegnamento filosofico e' modificato nel senso che e' aggiunto il seguente comma:
+
+"Gli iscritti all'uno o all'altro dei due indirizzi possono chiedere la biennalizzazione di due insegnamenti - con facolta' di dare esami annuali - fermo restando il numero minimo di cinque esami per l'indirizzo a) e e di quattro esami per l'indirizzo b).
+
+Art. 382 (ex 371): e' aggiunto il seguente comma:
+
+"Nel biennio devono sostenersi almeno cinque esami da scegliersi fra gli insegnamenti sopraindicati".
+
+Art. 383 (ex 372): il secondo comma e' abrogato e sostituito dal seguente:
+
+"Nel biennio devono sostenersi almeno quattro esami - due per ogni anno di iscrizione - da scegliersi fra gli insegnamenti sottoindicati".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 8 giugno 1971
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: COLOMBO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 27 agosto 1971 Atti del Governo, registro n. 244, foglio n. 8. - PASQUALUCCI
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-All'art. 50, relativo alla facolta' di scienze statistiche, demografiche ed attuariali, dopo la laurea in scienze statistiche ed attuariali e' aggiunta:  
-laurea in scienze statistiche ed economiche.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Dopo l'art. 56, con il conseguente spostamento della numerazione degli articoli successivi, e' aggiunto il seguente nuovo articolo:  
-Art. 57. - La durata del corso degli studi per la laurea in scienze statistiche ed economiche e' di quattro anni.  
-Titoli di ammissione: quelli previsti dalle vigenti disposizioni.  
-I diplomati in statistica sono ammessi al terzo anno, ma il consiglio di facolta' provvedera' a prescrivere di volta in volta il piano di studi per adire la laurea.  
-Per le abbreviazioni di corso e il riconoscimento di esami in base ad altre lauree conseguite presso Universita' o Istituti superiori italiani e per i provenienti da altri corsi di laurea, decide il consiglio di facolta' caso per caso.  
-Sono insegnamenti fondamentali:  
-1) istituzioni di analisi matematica;  
-2) analisi matematica;  
-3) geometria analitica;  
-4) calcolo delle probabilita';  
-5) istituzioni di statistica;  
-6) statistica;  
-7) statistica metodologica;  
-8) demografia;  
-9)-10) economia politica (biennale);  
-11) politica economica e finanziaria;  
-12) istituzioni di statistica economica;  
-13) statistica economica;  
-14) economia d'azienda;  
-15) statistica aziendale e analisi di mercato;  
-16) controllo statistico della qualita' e statistica industriale;  
-17) istituzioni di diritto privato;  
-18) istituzioni di diritto pubblico;  
-19) teoria dei campioni.  
-Sono insegnamenti complementari:  
-1) analisi economica;  
-2) analisi economica II;  
-3) complementi di econometria;  
-4) contabilita' nazionale;  
-5) demografia investigativa;  
-6) econometria;  
-7) economia applicata;  
-8) economia industriale (I semestre);  
-9) economia industriale (II semestre);  
-10) economia internazionale;  
-11) economia del lavoro;  
-12) economia matematica;  
-13) economia monetaria;  
-14) economia della pianificazione economica;  
-15) economia pubblica;  
-16) geografia politica ed economica;  
-17) matematica finanziaria ed istituzioni di matematica attuariale;  
-18) metodi matematici di ottimizzazione;  
-19) metodologia della scienza;  
-20) politica economica e finanziaria II;  
-21) processi aleatori e teoria delle file di attesa;  
-22) metodologia statistica della ricerca sperimentale;  
-23) ragioneria generale (semestrale);  
-24) ricerca operativa;  
-25) scienza delle finanze;  
-26) statistica matematica;  
-27) storia economica;  
-28) storia delle dottrine economiche;  
-29) teoria dei giochi e delle decisioni;  
-30) teoria e politica dello sviluppo economico (I semestre);  
-31) teoria e politica dello sviluppo economico (II semestre);  
-32) teoria dei sistemi;  
-33) teoria delle informazioni;  
-34) elaborazione automatica dei dati.  
-Gli insegnamenti complementari possono essere scelti dallo studente anche fra le discipline impartite nel biennio per il diploma in statistica o fra quelle impartite in altre facolta' dell'ateneo, previa approvazione del preside della facolta'. Detta approvazione deve essere richiesta entro il 31 dicembre di ogni anno.  
-Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e in almeno tre complementari. Deve anche aver superato gli esami di due lingue straniere moderne, dei quali almeno uno di lingua francese o inglese o tedesca presso la facolta' di scienze politiche, e l'altro di lingua il cui insegnamento sia impartito presso qualsiasi facolta' dell'ateneo.  
-Per essere iscritto al secondo anno lo studente deve aver superato almeno due esami fondamentali del primo anno.  
-Per l'insegnamento biennale di economia politica e' prescritto l'esame alla fine di ciascun corso annuale, dovendosi il primo considerare propedeutico rispetto al secondo.  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 20: all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:  
+Diritto internazionale privato e processuale;  
+Organizzazione internazionale.  
+Art. 66: All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:  
+Storia dell'arte antica;  
+Archeologia cristiana;  
+Museografia;  
+Lingua inglese;  
+Psicolinguistica;  
+Metodologia dell'insegnamento linguistico;  
+Storia della lingua latina;  
+Storia del cristianesimo;  
+Filosofia della religione;  
+Filologia ibero-romanza;  
+Letteratura umanistica;  
+Geografia regionale.  
+Art. 67: all'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:  
+Storia dell'arte antica;  
+Archeologia cristiana;  
+Museografia;  
+Lingua inglese;  
+Psicolinguistica;  
+Metodologia dell'insegnamento linguistico;  
+Storia della lingua latina;  
+Storia del cristianesimo;  
+Filosofia della religione;  
+Filologia ibero-romanza;  
+Letteratura umanistica;  
+Geografia regionale.  
+Art. 68: all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:  
+Storia dell'arte antica;  
+Archeologia cristiana;  
+Museografia;  
+Lingua inglese;  
+Psicolinguistica;  
+Metodologia dell'insegnamento linguistico;  
+Storia della lingua latina;  
+Storia del cristianesimo;  
+Filosofia della religione;  
+Filologia ibero-romanza;  
+Letteratura umanistica;  
+Geografia regionale.  
+Art. 87: e' modificato nel senso che l'istituto di botanica con annesso orto, presso la facolta' di scienze matematiche, fisiche e naturali, viene scisso in due distinti istituti con le denominazioni: "Istituto di botanica" e "Istituto dell'orto botanico".  
+Art. 110: all'elenco degli istituti annessi alla facolta' di farmacia sono aggiunti i seguenti:  
+Istituto di fisiologia generale;  
+Istituto di chimica biologica.  
+Art. 112: e' modificato nel senso che e' abrogata la propedeuticita' che prevede che non si puo' sostenere l'esame di igiene se non si sono superati gli esami di fisiologia generale, chimica generale ed inorganica e chimica organica. E' abolita inoltre la propedeuticita' dell'esame di fisiologia generale nei riguardi di fisica e di anatomia umana.  
+Art. 380 (ex 369), relativo alla scuola di perfezionamento in filosofia e di preparazione all'insegnamento filosofico e' modificato nel senso che e' aggiunto il seguente comma:  
+"Gli iscritti all'uno o all'altro dei due indirizzi possono chiedere la biennalizzazione di due insegnamenti - con facolta' di dare esami annuali - fermo restando il numero minimo di cinque esami per l'indirizzo a) e e di quattro esami per l'indirizzo b).  
+Art. 382 (ex 371): e' aggiunto il seguente comma:  
+"Nel biennio devono sostenersi almeno cinque esami da scegliersi fra gli insegnamenti sopraindicati".  
+Art. 383 (ex 372): il secondo comma e' abrogato e sostituito dal seguente:  
+"Nel biennio devono sostenersi almeno quattro esami - due per ogni anno di iscrizione - da scegliersi fra gli insegnamenti sottoindicati".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 settembre 1980
+### Dato a Roma, addi' 8 giugno 1971
 
-PERTINI SARTI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 13 novembre 1980
+Registrato alla Corte dei conti, addi' 27 agosto 1971
 
-Registro n. 106 Istruzione, foglio n. 273
+Atti del Governo, registro n. 244, foglio n. 8. - PASQUALUCCI

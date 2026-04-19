@@ -1,108 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1958 n. 658
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1974 n. 791
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1958 n. 658
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1974 n. 791
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successivi;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 33. - Agli insegnamenti complementari del corso di laurea in economia e commercio e' aggiunto quello di: "ragioneria applicata alle aziende pubbliche".
-
-Art. 41. - Il primo comma e' cosi' modificato: "Lo studente non puo' presentarsi agli esami di "matematica finanziaria" ne' agli esami di "statistica" se non ha superato l'esame di "matematica generale"; ne' agli esami di "scienza delle finanze" e "diritto finanziario", di "storia economica", di "politica economica e finanziaria" e di "economia e politica agraria" se non ha prima superato, quelli di "economia politica"; ne' agli esami di "politica economica e finanziaria" se non ha superato quello di "scienza delle finanze"; ne' agli esami di "tecnica bancaria e professionale" e di "tecnica industriale e commerciale" se prima non ha superato quello di "ragioneria generale ed applicata", ne' agli esami di "diritto commerciale" e di "diritto del lavoro" se non ha superato gli esami di "istituzioni di diritto privato" e di "istituzioni di diritto pubblico".
-
-Art. 59. - Agli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto quello di: "storia della letteratura latina medioevale ed umanistica".
-
-Art. 61. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto quello di "storia della letteratura latina medioevale ed umanistica".
-
-Art. 78. - Agli insegnamenti complementari del corso di laurea in fisica sono aggiunti quelli di:
-
-"Radioattivita'";
-
-"Meccanica statistica";
-
-"Fisica dei solidi";
-
-"Meccanica superiore".
-
-Art. 80. - Agli insegnamenti complementari del corso di laurea in scienze matematiche e' aggiunto quello di "meccanica superiore".
-
-Art. 82. - Agli insegnamenti complementari del corso di laurea in matematica e fisica e' aggiunto quello di "meccanica superiore".
-
-Art. 84. - Agli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti quelli di: "paleontologia umana" e "biologia umana".
-
-Art. 86. - Agli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti quelli di: "paleontologia umana" e "biologia umana".
-
-Art. 88. - Agli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti quelli di: "paleontologia umana" e "biologia umana".
-
-Art. 108. - Agli insegnamenti complementari del corso di laurea in farmacia sono aggiunti quelli di: "biochimica applicata" e "scienza dell'alimentazione".
-
-Art. 109. - E' Aggiunto il seguente comma:
-
-"Gli esami delle materie di anatomia umana, fisiologia generale e chimica biologica devono precedere quelli di farmacologia".
-
-Art. 205. - Al corso di specializzazione annesso alla Facolta' di magistero costituito degli insegnamenti per le lingue francese, inglese e tedesca e' aggiunto quello per la lingua spagnola con il seguente ordinamento:
-
-4) per la lingua spagnola:
-
-1) storia della lingua spagnola e interpretazione di testi;
-
-2) esercitazioni pratiche di lingua, con particolare riguardo alla sintassi e allo stile spagnolo;
-
-3) un corso di lingua e letteratura spagnola della Facolta' di magistero che stabilira' la Facolta' stessa.
-
-L'insegnamento di ciascuna disciplina sara' integrato da esercitazioni, anche presso scuole pubbliche, e da lettura di testi.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 4 maggio 1958
-
-GRONCHI
-
-MORO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 27 giugno 1958 Atti del Governo, registro n. 112, foglio n. 255. - RELLEVA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -111,40 +24,40 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 33. - Agli insegnamenti complementari del corso di laurea in economia e commercio e' aggiunto quello di: "ragioneria applicata alle aziende pubbliche".  
-Art. 41. - Il primo comma e' cosi' modificato: "Lo studente non puo' presentarsi agli esami di "matematica finanziaria" ne' agli esami di "statistica" se non ha superato l'esame di "matematica generale"; ne' agli esami di "scienza delle finanze" e "diritto finanziario", di "storia economica", di "politica economica e finanziaria" e di "economia e politica agraria" se non ha prima superato, quelli di "economia politica"; ne' agli esami di "politica economica e finanziaria" se non ha superato quello di "scienza delle finanze"; ne' agli esami di "tecnica bancaria e professionale" e di "tecnica industriale e commerciale" se prima non ha superato quello di "ragioneria generale ed applicata", ne' agli esami di "diritto commerciale" e di "diritto del lavoro" se non ha superato gli esami di "istituzioni di diritto privato" e di "istituzioni di diritto pubblico".  
-Art. 59. - Agli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto quello di: "storia della letteratura latina medioevale ed umanistica".  
-Art. 61. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto quello di "storia della letteratura latina medioevale ed umanistica".  
-Art. 78. - Agli insegnamenti complementari del corso di laurea in fisica sono aggiunti quelli di:  
-"Radioattivita'";  
-"Meccanica statistica";  
-"Fisica dei solidi";  
-"Meccanica superiore".  
-Art. 80. - Agli insegnamenti complementari del corso di laurea in scienze matematiche e' aggiunto quello di "meccanica superiore".  
-Art. 82. - Agli insegnamenti complementari del corso di laurea in matematica e fisica e' aggiunto quello di "meccanica superiore".  
-Art. 84. - Agli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti quelli di: "paleontologia umana" e "biologia umana".  
-Art. 86. - Agli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti quelli di: "paleontologia umana" e "biologia umana".  
-Art. 88. - Agli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti quelli di: "paleontologia umana" e "biologia umana".  
-Art. 108. - Agli insegnamenti complementari del corso di laurea in farmacia sono aggiunti quelli di: "biochimica applicata" e "scienza dell'alimentazione".  
-Art. 109. - E' Aggiunto il seguente comma:  
-"Gli esami delle materie di anatomia umana, fisiologia generale e chimica biologica devono precedere quelli di farmacologia".  
-Art. 205. - Al corso di specializzazione annesso alla Facolta' di magistero costituito degli insegnamenti per le lingue francese, inglese e tedesca e' aggiunto quello per la lingua spagnola con il seguente ordinamento:  
-4) per la lingua spagnola:  
-1) storia della lingua spagnola e interpretazione di testi;  
-2) esercitazioni pratiche di lingua, con particolare riguardo alla sintassi e allo stile spagnolo;  
-3) un corso di lingua e letteratura spagnola della Facolta' di magistero che stabilira' la Facolta' stessa.  
-L'insegnamento di ciascuna disciplina sara' integrato da esercitazioni, anche presso scuole pubbliche, e da lettura di testi.  
+Art. 257 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in audiologia.  
+Dopo l'art. 289, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in audiologia.  
+Scuola di specializzazione in audiologia  
+Art. 290. - La scuola ha sede presso la cattedra di audiologia dell'Universita' di Firenze. La durata del corso e' fissata in tre anni.  
+Il numero degli iscritti alla scuola, complessivo per i tre anni, e' fissato ad un massimo di dodici (quattro per anno).  
+Art. 291. - Le materie di insegnamento sono:  
+1° Anno:  
+Nozioni di fisica acustica;  
+Anatomia dell'orecchio, delle vie e dei centri acustici e vestibolari;  
+Fisiologia dell'orecchio, delle vie e dei centri acustici e vestibolari;  
+Nozioni di psichiatria.  
+2° Anno:  
+Tecniche audiometriche;  
+Nozioni di neurologia;  
+Nozioni di vestibologia.  
+3° Anno:  
+Patologia dell'udito;  
+Terapia medica, chirurgica e protesica della sordita';  
+La sordita' sotto il profilo sociale;  
+La rieducazione dell'ipoacusico.  
+Art. 292. - Per accedere al 2° ed al 3° anno e' obbligatorio il superamento di tutti gli esami, rispettivamente del 1° e 2° anno. Gli esami possono essere sostenuti solamente in due sessioni annuali; una estiva ed una autunnale.  
+Art. 293. - Il direttore della scuola e dei corsi e' il titolare della cattedra di audiologia dell'Universita' di Firenze. Gli insegnanti sono proposti dal direttore della scuola e scelti tra i professori ufficiali della facolta' di medicina e chirurgia dell'Universita' di Firenze, tra i liberi docenti in audiologia ed in altre materie o tra cultori delle materie di insegnamento.  
+Il diploma di specialista in audiologia viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico o sperimentale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 maggio 1958
+### Dato a Roma, addi' 29 ottobre 1974
 
-GRONCHI MORO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 27 giugno 1958
+Registrato alla Corte dei conti, addi' 27 gennaio 1975
 
-Atti del Governo, registro n. 112, foglio n. 255. - RELLEVA
+Atti di Governo, registro n. 8, foglio n. 31

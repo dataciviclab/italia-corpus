@@ -1,66 +1,137 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1979 n. 991
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1976 n. 564
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1979 n. 991
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1976 n. 564
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-L'art. 175 dello statuto dell'Universita' di Bologna, relativo al corso di laurea in medicina veterinaria, e' sostituito dal seguente: "I corsi di chimica, anatomia veterinaria sistematica e comparata, fisiologia generale e speciale veterinaria e fisica biologica, anatomia patologica veterinaria generale e speciale, patologia e profilassi delle malattie infettive degli animali domestici, ispezione e controllo delle derrate alimentari di origine animale (carni, latte, pesci, uova), comportano due insegnamenti e due esami distinti (I e II parte); per ciascuno di tali insegnamenti l'esame relativo alla I parte deve precedere quello relativo alla II parte.  
-L'esame di zoologia deve precedere l'esame di anatomia veterinaria sistematica e comparata (I parte) il cui superamento insieme con quello di biochimica, e' condizione indispensabile per l'ammissione all'esame di fisiologia (I parte).  
-L'esame di patologia generale veterinaria deve seguire gli esami di anatomia veterinaria sistematica e comparata, gli esami di fisiologia generale e speciale veterinaria e fisica biologica e di microbiologia generale veterinaria (batteriologia, virologia, immunologia) e deve precedere quelli di anatomia patologica generale e speciale (I parte), di patologia e profilassi delle malattie infettive degli animali domestici (I parte), di patologia medica degli animali domestici (ruminanti, equini, carnivori, suini, pollame, conigli ecc.) di patologia chirurgica veterinaria e podologia e di ostetricia veterinaria.  
-Per essere ammessi agli esami di clinica medica veterinaria e di clinica chirurgica veterinaria lo studente dovra' aver superato gli esami corrispondenti alle rispettive patologia medica degli animali domestici (ruminanti, equidi, carnivori, suini, pollame, conigli ecc.) e patologia chirurgica veterinaria e podologia nonche' gli esami di patologia e profilassi delle malattie infettive degli animali domestici (II parte) e anatomia patologica veterinaria generale e speciale (II parte).  
-Gli esami di alimentazione e nutrizione animale, di farmacologia e farmacodinamica veterinaria, di anatomia patologica veterinaria generale e speciale (I parte) e di parassitologia (compresa micologia, protozoologia, entomologia, elmintologia) debbono precedere quello di patologia aviare.  
-L'esame di ostetricia veterinaria deve precedere quello di clinica ostetrica e ginecologia veterinaria.  
-Agli effetti dell'ammissione agli esami sono altresi' considerati propedeutici: "Anatomia veterinaria sistematica e comparata (I parte) per zootecnia: I igiene, aspetti esteriori degli animali, etnologia, zoologia per zootecnia II), genetica e allevamento, microbiologia generale veterinaria (batteriologia, virologia, immunologia) per patologia e profilassi delle malattie infettive degli animali domestici (I parte); propedeutica I) semeiologia medica veterinaria e metodologia clinica, per patologia medica degli animali domestici (ruminanti, equidi, carnivori, suini, pollame, conigli ecc.), propedeutica II) semeiologia chirurgica veterinaria e metodologia clinica per patologia chirurgica veterinaria e podologia, fisiologia generale e speciale veterinaria e fisica biologica (II parte) per farmacologia e farmacodinamica veterinaria, parassitologia (compresa micologia, protozoologia, entomologia, elmintologia) per malattie parassitarie degli animali domestici; anatomia patologica veterinaria generale e speciale (II parte) per ispezione e controllo delle derrate alimentari di origine animale (carni, latte, pesci, uova, ecc.) II".  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-L'art. 177 e' sostituito dal seguente: "Gli insegnamenti di clinica medica veterinaria di clinica chirurgica veterinaria di clinica ostetrica e ginecologia veterinaria di ispezione e controllo delle derrate alimentari di origine animale (carni, latte, pesci, uova) e delle materie del gruppo zootecnico (zootecnia II), genetica e allevamento e alimentazione e nutrizione animale) debbono essere completati da un tirocinio pratico della durata complessiva di almeno sei mesi presso istituti della facolta' di medicina veterinaria, o presso istituti sperimentali zooprofilattici dipendenti dal Ministero della sanita', o presso istituti zootecnici dipendenti dal Ministero dell'agricoltura e delle foreste o da amministrazioni provinciali o presso macelli riconosciuti idonei dalla facolta' di medicina veterinaria.  
-Il tirocinio pratico deve essere iniziato dopo la chiusura dei corsi di insegnamento del 5° anno e deve essere completato prima che i candidati si presentino a sostenere l'esame di abilitazione all'esercizio professionale.  
-Il periodo di tirocinio pratico e' utilizzabile ai fini del raggiungimento del numero delle ore richieste per gli insegnamenti clinici (clinica medica veterinaria, clinica chirurgica veterinaria, clinica ostetrica e ginecologica veterinaria, patologia aviare)".  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Gli articoli 564, 565, 566, 567, 568, relativi alla " Scuola di perfezionamento in fisiochinesiterapia ortopedica" che cambia la denominazione in quella di "Scuola di specializzazione in terapia fisica e riabilitazione" sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in terapia fisica e riabilitazione  
+  
+Art. 564. - Presso la clinica ortopedica dell'Universita' di Bologna e' istituita una scuola di specializzazione in terapia fisica e riabilitazione che conferisce il diploma di specialista in terapia fisica e riabilitazione.  
+Il direttore della scuola e' il direttore della clinica ortopedica.  
+I docenti del corso saranno scelti fra i professori della facolta' di medicina e chirurgia su designazione della facolta' stessa.  
+Art. 565. - Alla scuola sono ammessi i laureati in medicina e chirurgia.  
+Essa ha indirizzo teorico-pratico con lo scopo di specializzare nella terapia fisica e riabilitazione funzionale e professionale di tutti i motu e neurolesi.  
+L'ammissione alla scuola avviene attraverso concorso interno con esami ed eventuali prove pratiche.  
+Il numero degli ammessi non puo' superare i quindici per ogni anno di corso (per complessivi quarantacinque specializzandi).  
+Art. 566. - La durata del corso e' di tre anni.  
+Gli iscritti hanno l'obbligo di una frequenza continuata ed ininterrotta.  
+Il corso sara' integrato da lezioni, esercitazioni, dimostrazioni su malati, apparecchi fisiochinesiterapici ed ortopedici.  
+Art. 567. - Le materie di insegnamento sono cosi' suddivise:  
+  
+1° Anno:  
+principi di anatomia funzionale (propedeutico per tutte le materie di base degli anni successivi e per quelle facoltative);  
+fisiopatologia dell'apparato neuro-motore (come sopra).  
+  
+2° Anno:  
+semeiotica e clinica delle motulesioni neurologiche (propedeutico per le materie d'insegnamento di base del terzo anno);  
+semeiotica e clinica delle deformita' e motulesioni ortopediche (come sopra);  
+elettromiografia;  
+massoterapia e terapia manuale;  
+cinesiologia e cinesiterapia e ginnastica medica;  
+climatoterapia;  
+idroterapia e balneoterapia.  
+  
+3° Anno:  
+elettroterapia ed elettrologia;  
+terapia con onde corte ed altri mezzi fisici;  
+rieducazione respiratoria;  
+rieducazione motoria e riabilitazione in campo ortopedico e traumatologico;  
+problemi di riabilitazione geriatrica;  
+rieducazione motoria e riabilitazione in campo neurologico;  
+riqualificazione professionale;  
+medicina professionale;  
+medicina assicurativa;  
+problemi psicologici e psicopatologici della riabilitazione.  
+  
+Art. 568. - Alla fine del primo anno gli iscritti dovranno sostenere un esame di profitto nel gruppo di materie del primo corso.  
+Alla fine del secondo anno gli iscritti dovranno sostenere un esame di profitto nel gruppo delle materie del secondo anno.  
+Alla fine del terzo anno gli iscritti dovranno sostenere un esame di profitto nel gruppo di materie del terzo anno, ed un esame che dimostri la preparazione complessiva delle materie insegnate durante i tre anni di corso.  
+L'esame di diploma consiste nella discussione di una dissertazione scritta.  
+  
+Art. 610. - il terzo comma relativo alla scuola di specializzazione in malattie infettive e' abrogato e sostituito dal seguente:  
+"Potra' esservi ammesso per titoli ed esami un massimo di 18 allievi complessivamente".  
+  
+Dopo l'art. 678, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della 2ª scuola di specializzazione in malattie dell'apparato cardiovascolare.  
+  
+II Scuola di specializzazione in malattie dell'apparato cardiovascolare  
+  
+Art. 679. - La scuola di specializzazione in malattie dell'apparato cardiovascolare, della durata di tre anni, conferisce il diploma di specialista in malattie dell'apparato cardiovascolare.  
+Abbreviazioni di corso potranno essere concesse, a giudizio insindacabile del consiglio della scuola, soltanto a coloro che diano dimostrazione rigorosamente documentata di avere preparazione, servizi e attivita' scientifica nel campo specifico, di riconosciuto merito e svolti in ambienti qualificati. In ogni caso l'abbreviazione di corso deve essere rigorosamente e dettagliatamente motivata dal consiglio direttivo della scuola.  
+Art. 680. - Le materie di insegnamento sono le seguenti:  
+  
+1° Anno:  
+anatomia normale dell'apparato cardiovascolare;  
+fisiologia dell'apparato cardiovascolare e respiratorio;  
+fisiopatologia cardiovascolare e respiratoria (1° corso);  
+patologia cardiovascolare;  
+semeiologia fisica (1° corso);  
+semeiologia strumentale (1° corso).  
+  
+2° Anno:  
+fisiopatologia cardiovascolare e respiratoria (2° corso);  
+patologia cardiovascolare (2° corso);  
+semeiologia fisica (2° corso);  
+semeiologia strumentale (2° corso);  
+anatomia patologica dell'apparato cardiovascolare (1° corso);  
+radiologia;  
+farmacologia;  
+clinica medica e terapia medica (1° corso).  
+  
+3° Anno:  
+anatomia patologica dell'apparato cardiovascolare (2° corso);  
+clinica medica e terapia medica (2° corso);  
+chirurgia dell'apparato cardiovascolare.  
+  
+Insegnamenti facoltativi:  
+microbiologia (1° anno);  
+cardioreumatologia (1° anno);  
+problemi assicurativi e sociali (3° anno);  
+statistica (3° anno);  
+le unita' coronariche di terapia intensiva (3° anno);  
+cardiologia e medicina sportiva (3° anno);  
+compiti e modi della collaborazione medico-chirurgica in cardiologia (3° anno).  
+  
+Art. 681. - L'iscrizione alla scuola avviene per titoli. Nel caso che le domande di iscrizione superino il numero dei posti disponibili, l'ammissione avverra' per titoli ed esami.  
+Sono disponibili 10 posti per ciascun anno di corso. Il numero complessivo dei posti nei tre anni di corso non dovra' essere superiore ai 30 (10 per ogni anno di corso).  
+Art. 682. - Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni, le visite cliniche, gli ambulatori, le esercitazioni, nonche' di prestare, se richiesti, servizio nella clinica come medici interni.  
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere la prova di esame.  
+Art. 683. - Alla fine di ogni anno di corso gli iscritti sono tenuti a superare tutti gli esami relativi ai singoli insegnamenti fondamentali di ciascun anno per il passaggio all'anno successivo.  
+Gli esami di fisiopatologia cardiovascolare e respiratoria, di patologia cardiovascolare, di semeiologia fisica, di semeiologia strumentale dovranno essere superati alla fine del 1° corso e alla fine del 2° corso. Gli esami di anatomia patologica dell'apparato cardiovascolare e di clinica e terapia dovranno essere superati alla fine del 2° corso e alla fine del 3° corso.  
+Al termine del corso di studi per il conseguimento del diploma di specialista gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento di carattere cardiologico.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 ottobre 1979
+### Dato a Roma, addi' 10 maggio 1976
 
-PERTINI VALITUTTI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 19 dicembre 1980
+Registrato alla Corte dei conti, addi' 17 agosto 1976
 
-Registro n. 120 Istruzione, foglio n. 157
+Atti di Governo, registro n. 8, foglio n. 58

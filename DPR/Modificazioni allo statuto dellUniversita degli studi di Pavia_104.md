@@ -1,134 +1,128 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1980 n. 674
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 917
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1980 n. 674
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 917
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1701](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1701), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio universitario nazionale nel suo parere;   
-Sentito il parere del Consiglio universitario nazionale;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Dopo l'art. 337, e con lo spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo:  
   
-Decreta:   
+NORME GENERALI  
   
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-L'art. 58, relativo alla facolta' di medicina e chirurgia, e' cosi' riformulato:   
-La facolta' di medicina e chirurgia conferisce le seguenti lauree:   
-in medicina e chirurgia;   
-in odontoiatria e protesi dentaria.   
-Dopo l'art. 62, con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo:   
+Art. 338. - Le tasse e soprattasse che gli iscritti alle scuole dirette a fini speciali di pertinenza della facolta' di medicina e chirurgia sono tenuti a pagare sono quelle previste dall'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7). L'importo dei contributi speciali per biblioteche e per ogni scuola destinati a spese di laboratorio, di esercitazioni e di riscaldamento e' fissato annualmente dal consiglio di amministrazione su proposta del senato accademico, udita la facolta'.  
+
+Art. 2
+------
+
   
-Laurea in odontoiatria e protesi dentaria   
-Art. 63. - La durata del corso degli studi per la laurea in odontoiatria e protesi dentaria e' di cinque anni.   
-I titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge.   
-Il numero degli iscritti e' di venti per anno di corso.   
-L'accesso al corso di laurea verra' regolato da un esame di ammissione: il punteggio da attribuire nell'esame sara' cosi' ripartito: il 30% sara' riservato al voto riportato dal candidato nell'esame di Stato di licenza della scuola secondaria superiore ed il 70% sara' riservato alla prova di esame di ammissione al corso di laurea con tests a scelta multipla su argomenti di biologia generale, chimica, fisica e matematica, secondo i programmi della scuola secondaria superiore.   
-Sono insegnamenti fondamentali:   
-Biennio:   
-1) anestesia generale e speciale odontostomatologica (semestrale);   
-\*2) biologia generale applicata agli studi medici;   
-\*3) chimica;   
-\*4) chimica biologica;   
-5) farmacologia (semestrale);   
-\*6) fisica medica;   
-7) fisiologia umana e dell'apparato stomatognatico;   
-8) igiene e odontoiatria preventiva e sociale con epidemiologia (semestrale);   
-9) istituzioni di anatomia umana normale e dell'apparato stomatognatico;   
-10) istituzioni di anatomia e istologia patologica;   
-\*11) istologia e embriologia generale (compresa la citologia);   
-12) materiali dentari;   
-13) microbiologia (semestrale);   
-14) odontoiatria conservatrice (triennale 2°, 3°, 4° anno);   
-15) patologia generale.   
-Triennio:   
-16) chirurgia, speciale odontostomatologica (biennale 3°, 4° anno);   
-17) clinica odontostomatologica (biennale 4° e 5° anno);   
-18) medicina legale e delle assicurazioni e deontologia in odontostomatologia (semestrale);   
-19) neuropatologia e psicopatologia (semestrale);   
-20) ortognatodonzia e gnatologia (funzione masticatoria) (biennale 4° e 5° anno);   
-21) parodontologia (biennale 4° e 5° anno);   
-22) patologia speciale chirurgica e propedeutica clinica;   
-23) patologia speciale medica e metodologia clinica (compresa la pediatria);   
-24) patologia speciale odontostomatologica;   
-25) pedodonzia (semestrale);   
-26) protesi dentaria (triennale 3°, 4° e 5° anno);   
-27) radiologia generale e speciale odontostomatologica (semestrale).   
-Insegnamenti complementari:   
-\*1) chirurgia maxillo-facciale;   
-\*2) dermatologia e venereologia (semestrale);   
-\*3) otorinolaringoiatria (semestrale);   
-\*4) statistica sanitaria;   
-\*5) biometria e statistica medica;   
-\*6) scienza dell'alimentazione e dietologia;   
-\*7) storia della medicina;   
-\*8) fisiologia della nutrizione;   
-\*9) genetica medica;   
-\*10) medicina psicosomatica.   
-Gli insegnamenti segnati con asterisco (\*) sono mutuati dal corso di laurea in medicina e chirurgia.   
-Gli insegnamenti fondamentali sono teorici e pratici e la loro frequenza e' obbligatoria.   
-Gli insegnamenti specificatamente odontostomatologici di ordine clinico comportano anche un tirocinio pratico continuativo da espletare prima di sostenere i relativi esami.   
-Gli allievi che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le relative prove di esame.   
-Il tirocinio pratico relativo ad ogni insegnamento clinico deve prevedere da parte di componenti dell'organico una assistenza didattica adeguata al numero di studenti.   
+Gli articoli 347, 356, 368, 380, 388, 399, ultimo comma, e 415, relativi all'importo delle tasse per le seguenti scuole: di tecnici di istituti medico-biologici, di ortottisti, di terapisti della riabilitazione, di massaggiatori e massofisioterapisti, di dietologia e dietetica applicata, di tecnici di radiologia medica, di tecnici di igiene ambientale e del lavoro, sono soppressi.  
+
+Art. 3
+------
+
   
+L'art. 407 (ex 354), relativo all'ordinamento degli studi della scuola per tecnici di igiene ambientale e del lavoro, e' sostituito dal seguente:  
+Art. 407. - Il corso comprende lezioni teoriche ed esercitazioni pratiche. Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+chimica;  
+biologia generale;  
+fisica applicata all'igiene;  
+microbiologia;  
+nozioni di epidemiologia, demografia e statistica sanitaria; tecniche di prelevamento ed analisi di campioni di aria, suolo, alimenti (negli ambienti di vita e di lavoro).  
+2° Anno:  
+chimica analitica (microanalisi);  
+igiene dell'ambiente fisico e sociale;  
+nozioni di tecnologia del lavoro industriale ed agricolo;  
+nozioni di tossicologia;  
+organizzazione del lavoro;  
+legislazione ed organizzazione sanitaria.  
+Le esercitazioni pratiche sono biennali e comprendono:  
+1) tecniche di prelievo e/o rilevamento di:  
+aria;  
+acqua;  
+suolo;  
+liquidi biologici;  
+alimenti;  
+agenti fisici;  
+2) tecniche analitiche di:  
+aria;  
+acqua (analisi chimiche e batteriologiche);  
+suolo;  
+liquidi biologici;  
+agenti fisici.  
+
+Art. 4
+------
+
   
+Dopo l'art. 415, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli:  
   
-Non si puo' essere ammessi Se non si e' superato  
-a sostenere l'esame di: l'esame di:  
+Scuola per tecnici cosmetologi (scuola diretta a fini speciali)  
   
-Fisiologia umana e dell'apparato Istituzioni di anatomia  
-stomatologico umana normale e dell'apparato  
-stomatologico  
-Patologia generale Chimica  
-Biologia generale applicata  
-agli studi medici  
-Fisica medica  
-  
-Patologia speciale medica e Fisiologia umana e dell'appa- metodologia clinica rato stomatognatico  
-(compresa la pediatria) Patologia generale  
-Patologia speciale chirurgica  
-e propedeutica clinica  
-  
-Clinica odontostomatologica Patologia speciale medica e  
-metodologia clinica  
-(compresa la pediatria)  
-Patologia speciale chirurgica e propedeutica clinica.  
-Istituzioni di anatomia  
-e istologia patologica  
-Patologia speciale odon-  
-tostomatologica  
-Chirurgia speciale odon-  
-tostomatologica  
-  
-  
-Per essere ammesso a sostenere l'esame di laurea in odontoiatria e protesi dentaria, lo studente deve aver seguito i corsi ed aver superato gli esami in tutti gli insegnamenti fondamentali e almeno in due insegnamenti scelti tra i complementari ed avere inoltre seguito le prescritte esercitazioni cliniche, i tirocini pratici ed averne conseguito le relative attestazioni.   
-L'esame di laurea consiste nella discussione di una tesi scritta su argomenti di odontostomatologia da richiedere almeno all'inizio dell'ultimo anno di corso.   
-Per il trasferimento degli studenti iscritti al corso di laurea in medicina e chirurgia, le abbreviazioni di corso non possono superare l'ammissione oltre il secondo anno, subordinatamente al numero di posti resisi disponibili all'inizio del secondo anno, sempre che gli aspiranti abbiano superato gli esami di biologia generale applicata agli studi medici, chimica, fisica medica, istologia e embriologia generale (compresa la citologia).   
-Per i laureati in medicina e chirurgia le abbreviazioni di corso potranno essere concesse, sempre con iscrizione al secondo anno, subordinatamente al numero di posti resisi disponibili all'inizio del secondo anno, e dopo che sia trascorso un anno accademico dal conseguimento della laurea precedente.   
-Per esercitare la professione i laureati in odontoiatria e protesi dentaria devono superare un apposito esame di Stato.   
+Art. 416. - E' istituita presso l'istituto di clinica dermatologica dell'Universita' di Pavia una scuola per la preparazione di personale tecnico specializzato in cosmetologia. La scuola per cosmetologi ha lo scopo di impartire agli allievi con unita' di indirizzo e metodo scientifico tutte le nozioni teoriche e pratiche per ben esercitare l'attivita' di cosmetologo.  
+Art. 417. - La durata del corso degli studi della scuola di preparazione per cosmetologi e' di due anni accademici. Alla scuola possono essere ammessi allievi di ambo i sessi aventi il diploma di scuola media di secondo grado.  
+Art. 418. - Al primo anno della scuola si accede previo esame di cultura generale ed attitudinale davanti ad una commissione composta dal direttore della scuola e da due insegnanti della scuola stessa.  
+L'esame di ammissione avra' luogo entro il mese di ottobre di ciascun anno in un giorno stabilito dalla facolta' di medicina e chirurgia su proposta del direttore della scuola. In casi particolari e' possibile l'ammissione al secondo anno qualora il direttore della scuola ne ravvisi la necessita'.  
+Art. 419. - Il numero massimo degli allievi che possono essere ammessi ad ogni anno di corso della scuola e' di trenta.  
+Art. 420. - Il direttore della scuola e' il direttore dell'istituto di clinica dermatologica dell'Universita' di Pavia che puo' nominare direttore dei corsi uno dei docenti della scuola. La scuola e' sotto la vigilanza della facolta' di medicina e chirurgia. Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' di medicina e chirurgia e nominati dal rettore. Essi possono essere scelti fra i professori ufficiali, fra i docenti, fra gli aiuti e gli assistenti della facolta' di medicina e chirurgia o di altra facolta' dell'Universita' di Pavia o di altre universita', o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.  
+Art. 421. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+dermatologia estetica;  
+chimica cosmetologica;  
+igiene cosmetologica;  
+cosmetologia applicata;  
+nozioni di fisica.  
+2° Anno:  
+nozioni di patologia dermatologica;  
+massoterapia cosmetologica;  
+nozioni di dermatologia correttiva;  
+nozioni di chirurgia estetica.  
+Art. 422. - La frequenza alle lezioni teoriche e alle esercitazioni pratiche e' obbligatoria. Per la validita' dell'anno scolastico l'allievo deve partecipare ai due terzi delle lezioni sia teoriche che pratiche.  
+Art. 423. - Le lezioni verranno impartite agli allievi nelle aule messe a disposizione della clinica dermatologica. I programmi di insegnamento e gli orari vengono predisposti dal direttore della scuola ed approvati dal consiglio della facolta' di medicina e chirurgia. La sorveglianza degli iscritti, per quanto riguarda la loro attivita' pratica, spetta al direttore della scuola. Il tirocinio sara' compiuto dagli allievi sotto la guida degli insegnanti della scuola presso la clinica dermatologica di Pavia, nonche', qualora si rendesse necessario, presso altri istituti ed associazioni specialistiche.  
+Art. 424. - Per essere ammessi a sostenere gli esami di diploma gli allievi dovranno avere seguito il corso, superato gli esami di tutti gli insegnamenti prescritti e avere compiuto, con esito favorevole, tutte le esercitazioni pratiche previste. Non possono essere ammessi al secondo anno gli allievi che non hanno superato gli esami attinenti alle materie del primo anno.  
+Art. 425. - Le commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Le commissioni sono composte da tre membri: dal professore ufficiale della materia, presidente; dal professore ufficiale di materia affine e da un libero docente cultore della materia. Ogni commissario ha a disposizione dieci punti.  
+Art. 426. - L'esame di diploma consiste in un esame orale sui temi trattati durante il corso, ed eventualmente da una prova pratica stabilita dalla commissione esaminatrice. L'esame di diploma viene sostenuto davanti ad una commissione di cinque membri scelti fra i docenti della scuola nominati dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Ogni commissario ha a disposizione dieci punti. I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza nella scuola, ma se al secondo anno non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove. Agli allievi che avranno superato l'esame finale viene rilasciato il diploma di tecnico cosmetologo.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 settembre 1980
+### Dato a Roma, addi' 31 ottobre 1979
 
-PERTINI SARTI
+PERTINI VALITUTTI
 
 Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 21 ottobre 1980
+Registrato alla Corte dei conti, addi' 28 maggio 1980
 
-Registro n. 95 Istruzione, foglio n. 316
+Registrato n. 50 Istruzione, foglio n. 114

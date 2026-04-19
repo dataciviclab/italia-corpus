@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1977 n. 1209
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1977 n. 451
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1977 n. 1209
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1977 n. 451
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
@@ -18,89 +18,209 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara, e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-L'art. 144, relativo alla scuola di specializzazione in oncologia, e' soppresso e sostituito dal seguente:
+Art. 54 - all'elenco degli insegnamenti complementari del corso di laurea in matematica sono aggiunti i seguenti:
 
-Art. 144. - Potranno essere iscritti alla scuola i laureati in medicina e chirurgia, nel numero complessivo di 30 da ripartire nei tre anni di corso.
+Per gli indirizzi generale e didattico:
 
-Gli articoli 153, 154 e 155, relativi alla scuola di specializzazione in reumatologia, sono abrogati e sostituiti dai seguenti:
+istituzioni di algebra superiore;
 
-Art. 153. - La scuola di specializzazione in reumatologia, istituita presso la facolta' di medicina dell'Universita' di Ferrara, ha la durata di 4 anni accademici. Alla scuola possono iscriversi solo i laureati in medicina e chirurgia.
+teoria dei gruppi;
 
-Per l'ammissione e' previsto un concorso per titoli ed esami.
+algebra omologica;
 
-Art. 154. - Non potranno essere concesse per nessun titolo abbreviazioni di corso. Il numero complessivo degli iscritti nei quattro anni di corso non potra' essere superiore a 30.
+calcolo delle variazioni.
 
-Alla fine di ogni anno di corso saranno tenuti gli esami relativi agli insegnamenti impartiti come specificato nell'art. 155.
+Per l'indirizzo applicativo:
 
-Art. 155. - Le materie di insegnamento ed i relativi esami sono cosi' ripartiti:
+calcolo delle variazioni;
+
+ricerca operativa;
+
+istituzioni di algebra superiore.
+
+Art. 56 - il secondo comma e' soppresso e sostituito dal seguente: "L'esame di laurea puo' essere preceduto da un esame di cultura generale sulle scienze matematiche eventualmente comprendente anche una prova scritta".
+
+Art. 58 - all'elenco degli insegnamenti complementari del corso di laurea in fisica sono aggiunti i seguenti:
+
+cosmologia;
+
+fisica dell'atmosfera;
+
+fisica della radiazione;
+
+ottica quantistica;
+
+proprieta' magnetiche della materia;
+
+reologia;
+
+scienza e tecnologia dei materiali.
+
+Art. 61 - all'elenco degli insegnamenti complementari del corso di laurea in chimica sono aggiunti i seguenti:
+
+Per l'indirizzo organico-biologico:
+
+chimica dei composti elemento-organici;
+
+chimica dei composti di coordinazione;
+
+petrolchimica;
+
+chimica dei coloranti;
+
+analisi chimico-cliniche;
+
+cromatografia;
+
+applicazioni chimiche del calcolo automatico;
+
+chimica degli eterocicli;
+
+meccanismi di reazione in chimica organica;
+
+chimica fisica dello stato solido;
+
+chimica dell'inquinamento;
+
+cristallochimica.
+
+Per l'indirizzo inorganico chimico-fisico:
+
+chimica dei composti di coordinazione;
+
+chimica dei composti elemento-organici;
+
+tecnologie chimiche speciali;
+
+impianti industriali chimici;
+
+cromatografia;
+
+applicazioni chimiche del calcolo automatico;
+
+termodinamica statistica;
+
+chimica fisica dello stato solido;
+
+corrosione e protezione degli impianti industriali;
+
+chimica dell'inquinamento;
+
+cristallochimica.
+
+Art. 66 - all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:
+
+pedologia;
+
+paleobotanica;
+
+paleontologia dei vertebrati;
+
+sedimentologia;
+
+rilevamento geologico;
+
+geochimica.
+
+Art. 71 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:
+
+biometria;
+
+neurobiologia;
+
+zoologia dei vertebrati;
+
+biologia marina;
+
+idrobiologia e pescicoltura;
+
+etologia;
+
+citogenetica;
+
+fisiologia comparata;
+
+biochimica comparata;
+
+analisi biochimiche-cliniche;
+
+esperimentazioni chimiche;
+
+ecologia umana.
+
+Gli articoli 166, primo comma dell'art. 169, 171, quinto e sesto comma dell'art. 173 e 174, relativi alla scuola diretta a fini speciali di preparazione per tecnici di audiometria sono abrogati e sostituiti dai seguenti:
+
+Art. 166. - La durata del corso degli studi della scuola di preparazione per tecnici di audiometria e' di tre anni. L'indirizzo e' teorico-pratico. Il numero massimo complessivo degli iscritti alla scuola e' di quindici (cinque per anno di corso).
+
+Art. 169 - il primo comma e' sostituito dal seguente:
+
+"Il direttore della scuola e' un professore di ruolo degli insegnamenti che afferiscono all'istituto policattedra clinica otorinolaringoiatrica dell'Universita' di Ferrara".
+
+Art. 171. - Le materie di insegnamento sono le seguenti:
 
 1° Anno:
 
-1) anatomia, istologia e morfogenesi dell'apparato locomotore;
+1) anatomia degli organi e dei sismi audiofonoarticolatori;
 
-2) fisiologia e fisiopatologia dell'apparato locomotore;
+2) fisiologia degli organi e dei sistemi audiofonoarticolatori;
 
-3) biochimica di interesse reumatologico;
+3) elementi di fisica acustica e tecniche di fonometria;
 
-4) microbiologia in relazione alle malattie reumatiche;
+4) psicologia generale;
 
-5) immunologia reumatologica;
+5) elementi di audiologia;
 
-6) semeiotica fisica e strumentale in reumatologia (biennale). 2° Anno:
+6) elementi di fonetica e di linguistica.
 
-1) semeiotica fisica e strumentale in reumatologia (biennale);
+2° Anno:
 
-2) esami di laboratorio in reumatologia;
+1) tecniche audiometriche I;
 
-3) diagnostica radiologica delle reumo-artropatie;
+2) audiometria infantile;
 
-4) farmacologia reumatologica;
+3) neuropsichiatria infantile;
 
-5) anatomia e istologia patologica delle malattie reumatiche;
+4) tecniche di esplorazione vestibolare;
 
-6) clinica e terapia delle malattie reumatiche (triennale).
+5) audiometria di massa e prevenzione della sordita'.
 
 3° Anno:
 
-1) clinica e terapia ortopedica (biennale);
+1) tecniche audiometriche II;
 
-2) fisioterapia reumatologica;
+2) patologia dell'udito, del linguaggio e dell'organo dell'equilibrio;
 
-3) idro-climatologia di interesse reumatologico;
+3) tecniche di protesizzazione acustica;
 
-4) reumo-artropatie professionali;
+4) tecniche di audiometria obiettiva;
 
-5) clinica e terapia delle malattie reumatiche (triennale).
+5) elementi di logopedia.
 
-4° Anno:
+Art. 173 - i commi quinto e sesto sono sostituiti dal seguente:
 
-1) epidemiologia e aspetti sociali dei reumatismi;
+"L'esame di diploma consiste, a scelta del candidato, o nella discussione di una tesi scritta su argomento riguardante le materie di insegnamento, eventualmente integrata da una prova pratica stabilita dalla commissione esaminatrice, o in un esame generale teorico-pratico".
 
-2) riabilitazione del malato reumatico;
+Art. 174 - e' abrogato e sostituito dal seguente:
 
-3) clinica e terapia ortopedica (biennale);
+"Per essere ammessi a frequentare gli anni di corso successivi al primo, gli iscritti debbono aver superato gli esami dell'anno precedente. Alla fine del terzo anno di corso, per essere ammessi all'esame di diploma, gli iscritti debbono aver superato tutti gli esami prescritti".
 
-4) clinica e terapia delle malattie reumatiche (triennale).
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-L'[art. 157 del decreto del Presidente della Repubblica 25 luglio 1975, n. 478](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1975-07-25;478~art157), relativo alla scuola di specializzazione in oculistica che muta la denominazione in quella di scuola di specializzazione in oftalmologia, e' soppresso e sostituito dal seguente:
-
-Art. 157. - La scuola di specializzazione in oftalmologia, che conferisce il diploma di specialista in oftalmologia, ha sede presso la clinica oculistica dell'Universita' ed e' diretta dal direttore della clinica oculistica.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a, chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 7 ottobre 1977
+Dato a Roma, addi' 29 gennaio 1977
 
 LEONE
 
@@ -111,7 +231,7 @@ Visto, il Guardasigilli: BONIFACIO
 Registrato
 ----------
 
-alla Corte dei conti, addi' 27 giugno 1978 Registro n. 67 Istruzione, foglio n. 342
+alla Corte dei conti, addi' 26 luglio 1977 Registro n. 86 Istruzione, foglio n. 154
 
 Art. 1
 ------
@@ -122,59 +242,119 @@ Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presid
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara, e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 144, relativo alla scuola di specializzazione in oncologia, e' soppresso e sostituito dal seguente:  
-Art. 144. - Potranno essere iscritti alla scuola i laureati in medicina e chirurgia, nel numero complessivo di 30 da ripartire nei tre anni di corso.  
-Gli articoli 153, 154 e 155, relativi alla scuola di specializzazione in reumatologia, sono abrogati e sostituiti dai seguenti:  
-Art. 153. - La scuola di specializzazione in reumatologia, istituita presso la facolta' di medicina dell'Universita' di Ferrara, ha la durata di 4 anni accademici. Alla scuola possono iscriversi solo i laureati in medicina e chirurgia.  
-Per l'ammissione e' previsto un concorso per titoli ed esami.  
-Art. 154. - Non potranno essere concesse per nessun titolo abbreviazioni di corso. Il numero complessivo degli iscritti nei quattro anni di corso non potra' essere superiore a 30.  
-Alla fine di ogni anno di corso saranno tenuti gli esami relativi agli insegnamenti impartiti come specificato nell'art. 155.  
-Art. 155. - Le materie di insegnamento ed i relativi esami sono cosi' ripartiti:  
+Art. 54 - all'elenco degli insegnamenti complementari del corso di laurea in matematica sono aggiunti i seguenti:  
+Per gli indirizzi generale e didattico:  
+istituzioni di algebra superiore;  
+teoria dei gruppi;  
+algebra omologica;  
+calcolo delle variazioni.  
+Per l'indirizzo applicativo:  
+calcolo delle variazioni;  
+ricerca operativa;  
+istituzioni di algebra superiore.  
+Art. 56 - il secondo comma e' soppresso e sostituito dal seguente: "L'esame di laurea puo' essere preceduto da un esame di cultura generale sulle scienze matematiche eventualmente comprendente anche una prova scritta".  
+Art. 58 - all'elenco degli insegnamenti complementari del corso di laurea in fisica sono aggiunti i seguenti:  
+cosmologia;  
+fisica dell'atmosfera;  
+fisica della radiazione;  
+ottica quantistica;  
+proprieta' magnetiche della materia;  
+reologia;  
+scienza e tecnologia dei materiali.  
+Art. 61 - all'elenco degli insegnamenti complementari del corso di laurea in chimica sono aggiunti i seguenti:  
+Per l'indirizzo organico-biologico:  
+chimica dei composti elemento-organici;  
+chimica dei composti di coordinazione;  
+petrolchimica;  
+chimica dei coloranti;  
+analisi chimico-cliniche;  
+cromatografia;  
+applicazioni chimiche del calcolo automatico;  
+chimica degli eterocicli;  
+meccanismi di reazione in chimica organica;  
+chimica fisica dello stato solido;  
+chimica dell'inquinamento;  
+cristallochimica.  
+Per l'indirizzo inorganico chimico-fisico:  
+chimica dei composti di coordinazione;  
+chimica dei composti elemento-organici;  
+tecnologie chimiche speciali;  
+impianti industriali chimici;  
+cromatografia;  
+applicazioni chimiche del calcolo automatico;  
+termodinamica statistica;  
+chimica fisica dello stato solido;  
+corrosione e protezione degli impianti industriali;  
+chimica dell'inquinamento;  
+cristallochimica.  
+Art. 66 - all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:  
+pedologia;  
+paleobotanica;  
+paleontologia dei vertebrati;  
+sedimentologia;  
+rilevamento geologico;  
+geochimica.  
+Art. 71 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:  
+biometria;  
+neurobiologia;  
+zoologia dei vertebrati;  
+biologia marina;  
+idrobiologia e pescicoltura;  
+etologia;  
+citogenetica;  
+fisiologia comparata;  
+biochimica comparata;  
+analisi biochimiche-cliniche;  
+esperimentazioni chimiche;  
+ecologia umana.  
+Gli articoli 166, primo comma dell'art. 169, 171, quinto e sesto comma dell'art. 173 e 174, relativi alla scuola diretta a fini speciali di preparazione per tecnici di audiometria sono abrogati e sostituiti dai seguenti:  
+Art. 166. - La durata del corso degli studi della scuola di preparazione per tecnici di audiometria e' di tre anni. L'indirizzo e' teorico-pratico. Il numero massimo complessivo degli iscritti alla scuola e' di quindici (cinque per anno di corso).  
+Art. 169 - il primo comma e' sostituito dal seguente:  
+"Il direttore della scuola e' un professore di ruolo degli insegnamenti che afferiscono all'istituto policattedra clinica otorinolaringoiatrica dell'Universita' di Ferrara".  
+Art. 171. - Le materie di insegnamento sono le seguenti:  
 1° Anno:  
-1) anatomia, istologia e morfogenesi dell'apparato locomotore;  
-2) fisiologia e fisiopatologia dell'apparato locomotore;  
-3) biochimica di interesse reumatologico;  
-4) microbiologia in relazione alle malattie reumatiche;  
-5) immunologia reumatologica;  
-6) semeiotica fisica e strumentale in reumatologia (biennale). 2° Anno:  
-1) semeiotica fisica e strumentale in reumatologia (biennale);  
-2) esami di laboratorio in reumatologia;  
-3) diagnostica radiologica delle reumo-artropatie;  
-4) farmacologia reumatologica;  
-5) anatomia e istologia patologica delle malattie reumatiche;  
-6) clinica e terapia delle malattie reumatiche (triennale).  
+1) anatomia degli organi e dei sismi audiofonoarticolatori;  
+2) fisiologia degli organi e dei sistemi audiofonoarticolatori;  
+3) elementi di fisica acustica e tecniche di fonometria;  
+4) psicologia generale;  
+5) elementi di audiologia;  
+6) elementi di fonetica e di linguistica.  
+2° Anno:  
+1) tecniche audiometriche I;  
+2) audiometria infantile;  
+3) neuropsichiatria infantile;  
+4) tecniche di esplorazione vestibolare;  
+5) audiometria di massa e prevenzione della sordita'.  
 3° Anno:  
-1) clinica e terapia ortopedica (biennale);  
-2) fisioterapia reumatologica;  
-3) idro-climatologia di interesse reumatologico;  
-4) reumo-artropatie professionali;  
-5) clinica e terapia delle malattie reumatiche (triennale).  
-4° Anno:  
-1) epidemiologia e aspetti sociali dei reumatismi;  
-2) riabilitazione del malato reumatico;  
-3) clinica e terapia ortopedica (biennale);  
-4) clinica e terapia delle malattie reumatiche (triennale).  
-L'[art. 157 del decreto del Presidente della Repubblica 25 luglio 1975, n. 478](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1975-07-25;478~art157), relativo alla scuola di specializzazione in oculistica che muta la denominazione in quella di scuola di specializzazione in oftalmologia, e' soppresso e sostituito dal seguente:  
-Art. 157. - La scuola di specializzazione in oftalmologia, che conferisce il diploma di specialista in oftalmologia, ha sede presso la clinica oculistica dell'Universita' ed e' diretta dal direttore della clinica oculistica.  
+1) tecniche audiometriche II;  
+2) patologia dell'udito, del linguaggio e dell'organo dell'equilibrio;  
+3) tecniche di protesizzazione acustica;  
+4) tecniche di audiometria obiettiva;  
+5) elementi di logopedia.  
+Art. 173 - i commi quinto e sesto sono sostituiti dal seguente:  
+"L'esame di diploma consiste, a scelta del candidato, o nella discussione di una tesi scritta su argomento riguardante le materie di insegnamento, eventualmente integrata da una prova pratica stabilita dalla commissione esaminatrice, o in un esame generale teorico-pratico".  
+Art. 174 - e' abrogato e sostituito dal seguente:  
+"Per essere ammessi a frequentare gli anni di corso successivi al primo, gli iscritti debbono aver superato gli esami dell'anno precedente. Alla fine del terzo anno di corso, per essere ammessi all'esame di diploma, gli iscritti debbono aver superato tutti gli esami prescritti".  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a, chiunque spetti di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 ottobre 1977
+### Dato a Roma, addi' 29 gennaio 1977
 
 LEONE MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 27 giugno 1978
+Registrato alla Corte dei conti, addi' 26 luglio 1977
 
-Registro n. 67 Istruzione, foglio n. 342
+Registro n. 86 Istruzione, foglio n. 154

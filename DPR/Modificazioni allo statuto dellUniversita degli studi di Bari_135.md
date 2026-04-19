@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1164
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 320
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1164
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 320
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -18,75 +18,188 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 192 - l'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola di specializzazione in nefrologia medica muta la denominazione in quella di scuola di specializzazione in nefrologia.
+
+L'art. 245, relativo alla scuola di specializzazione in nefrologia medica, che muta la denominazione in quella di scuola di specializzazione in nefrologia, e' soppresso e sostituito dal seguente:
+
+Scuola di specializzazione in nefrologia
+
+La scuola di specializzazione in nefrologia ha sede presso l'istituto di nefrologia medica e conferisce il diploma di specialista in nefrologia.
+
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine. Nel caso specifico delle scuole di specializzazione in nefrologia solo per ragioni di forza maggiore le singole facolta', a seguito della mancanza di professori di ruolo o fuori ruolo della materia, o di materia affine disponibili possono proporre che la direzione della scuola sia assunta temporaneamente dal professore incaricato della stessa disciplina.
+
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.
+
+La durata del corso di studi e' di 4 anni e non e' suscettibile di abbreviazione.
+
+Il numero massimo degli allievi e' complessivamente di trenta iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+struttura ed ultrastruttura normale del rene;
+
+aspetti biochimici della funzione renale;
+
+fisiologia renale;
+
+microbiologia ed immunologia applicate alla nefrologia;
+
+genetica applicata alla nefrologia;
+
+semeiotica renale (1° anno).
+
+2° Anno:
+
+struttura ed ultrastruttura patologica del rene;
+
+((patologia del ricambio idroelettrolitico));
+
+insufficienza renale;
+
+rene ed ipertensione arteriosa;
+
+semeiotica renale (2° anno);
+
+nefropatie tubulari.
+
+3° Anno:
+
+nefropatie glomerulari;
+
+nefropatie interstiziali;
+
+nefropatie vascolari;
+
+terapie dietetica e dialitica (1° anno);
+
+farmacologia d'interesse nefrologico.
+
+4° Anno:
+
+nefropatie calcolotiche, malformative e neoplastiche;
+
+terapia dietetica e dialitica (2° anno);
+
+fisiopatologia e clinica del trapianto renale;
+
+aspetti di nefrologia nell'eta' pediatrica;
+
+problemi chirurgici in nefrologia;
+
+terapia medica delle nefropatie.
+
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in nefrologia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 11 maggio 1979
+
+PERTINI
+
+SPADOLINI
+
+Visto, il Guardasigilli: MORLINO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 18 luglio 1979 Registro n. 56 Istruzione, foglio n. 90
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-L'art. 35 dello statuto dell'Universita' di Bari, relativo agli istituti della facolta' di lettere e filosofia, e' sostituito dal seguente:  
-Gli istituti della facolta' di lettere e filosofia sono:  
-1) istituto di filologia classica;  
-2) istituto di storia dell'arte medioevale e moderna;  
-3) istituto di storia medioevale e moderna;  
-4) istituto di filosofia;  
-5) istituto di glottologia;  
-6) istituto di filologia moderna;  
-7) istituto di psicologia;  
-8) istituto di storia antica (greca e romana);  
-9) istituto di paleografia;  
-10) istituto di archeologia e storia dell'arte greca e romana;  
-11) istituto di filologia e lingue romanze;  
-12) istituto di civilta' preclassiche (con annesso museo paletnologico);  
-13) istituto di storia delle tradizioni popolari;  
-14) seminario di storia della scienza;  
-15) istituto di lingue e letterature straniere.  
-Ciascun istituto ha locali, attrezzature e biblioteca propri.  
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
+  
+Decreta:   
+  
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 192 - l'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola di specializzazione in nefrologia medica muta la denominazione in quella di scuola di specializzazione in nefrologia.   
+L'art. 245, relativo alla scuola di specializzazione in nefrologia medica, che muta la denominazione in quella di scuola di specializzazione in nefrologia, e' soppresso e sostituito dal seguente:   
+  
+Scuola di specializzazione in nefrologia   
+La scuola di specializzazione in nefrologia ha sede presso l'istituto di nefrologia medica e conferisce il diploma di specialista in nefrologia.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine. Nel caso specifico delle scuole di specializzazione in nefrologia solo per ragioni di forza maggiore le singole facolta', a seguito della mancanza di professori di ruolo o fuori ruolo della materia, o di materia affine disponibili possono proporre che la direzione della scuola sia assunta temporaneamente dal professore incaricato della stessa disciplina.   
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di 4 anni e non e' suscettibile di abbreviazione.   
+Il numero massimo degli allievi e' complessivamente di trenta iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+struttura ed ultrastruttura normale del rene;   
+aspetti biochimici della funzione renale;   
+fisiologia renale;   
+microbiologia ed immunologia applicate alla nefrologia;   
+genetica applicata alla nefrologia;   
+semeiotica renale (1° anno).   
+2° Anno:   
+struttura ed ultrastruttura patologica del rene;   
 
-Art. 2
-------
+((patologia del ricambio idroelettrolitico))
 
-  
-  
-L'art. 36 dello statuto dell'Universita' di Bari, relativo al seminario di storia della scienza presso la facolta' di lettere e filosofia, e' sostituito dal seguente:   
-Seminario di storia della scienza   
-E' istituito un seminario di storia della scienza che si propone di raggiungere le seguenti finalita':   
-1) favorire il progresso degli studi di storia della scienza;   
-2) organizzare attivita' formative e di ricerca riservata ai giovani laureati provenienti sia da facolta' letterarie-umanistiche che da facolta' tecnico-scientifiche;   
-3) ampliare e completare la formazione degli studenti e dei ricercatori, ed organizzare l'aggiornamento su temi e problemi di storia della scienza, in connessione con la storia civile, politica, economica, sociale, filosofica, letteraria;   
-4) istituire rapporti di collaborazione tra le facolta' umanistiche e quelle scientifiche, nonche' con le istituzioni e con gli enti di ricerca e programmazione operanti nel territorio.   
-A tale scopo il seminario promuove corsi di lezioni, convegni, conferenze, riunioni, esercitazioni ed ogni altra attivita' utile al raggiungimento delle proprie finalita', con la partecipazione di docenti, studiosi e ricercatori italiani e stranieri.   
-Il seminario puo' ricevere contributi dal Ministero della pubblica istruzione e dagli altri organi dello Stato, dal C.N.R. e da altri enti pubblici e privati da accreditare sul bilancio dell'Universita' di Bari.   
-Il seminario e' diretto da un consiglio formato: dal professore di storia della scienza della facolta' di lettere e filosofia, direttore; da un altro professore designato dal consiglio della facolta' di lettere e filosofia; da due professori designati rispettivamente dai consigli della facolta' di scienze e medicina. Il consiglio direttivo potra' cooptare docenti e studiosi in numero illimitato.   
-Il consiglio direttivo dura in carica tre anni ed elegge nel suo ambito un vice direttore ed un segretario.   
-Il consiglio puo' nominare un presidente onorario del seminario.   
-Il seminario sara' dotato di locali, attrezzature, biblioteche, museo-laboratorio propri e curera' proprie pubblicazioni e stampa.   
+;   
+insufficienza renale;   
+rene ed ipertensione arteriosa;   
+semeiotica renale (2° anno);   
+nefropatie tubulari.   
+3° Anno:   
+nefropatie glomerulari;   
+nefropatie interstiziali;   
+nefropatie vascolari;   
+terapie dietetica e dialitica (1° anno);   
+farmacologia d'interesse nefrologico.   
+4° Anno:   
+nefropatie calcolotiche, malformative e neoplastiche;   
+terapia dietetica e dialitica (2° anno);   
+fisiopatologia e clinica del trapianto renale;   
+aspetti di nefrologia nell'eta' pediatrica;   
+problemi chirurgici in nefrologia;   
+terapia medica delle nefropatie.   
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in nefrologia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 11 maggio 1979
 
-PERTINI BODRATO
+PERTINI SPADOLINI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 18 agosto 1982
+Registrato alla Corte dei conti, addi' 18 luglio 1979
 
-Registro n. 102 Istruzione, foglio n. 209
+Registro n. 56 Istruzione, foglio n. 90

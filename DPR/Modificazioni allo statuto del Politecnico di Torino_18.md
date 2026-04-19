@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1963 n. 1506
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1236
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1963 n. 1506
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1236
+===============================================================
 
 Modificazioni allo statuto del Politecnico di Torino.
 -----------------------------------------------------
@@ -10,102 +10,241 @@ Modificazioni allo statuto del Politecnico di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto del Politecnico di Torino, approvato con [regio decreto 24 luglio 1942, n. 923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-07-24;923), e modificato con [regio decreto 3 settembre 1942, n. 1391](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-09-03;1391) e successivi;
+Veduto lo statuto del Politecnico di Torino, approvato con [regio decreto 1 ottobre 1936, n. 2456](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;2456), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), le successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 3 febbraio 1963, n. 102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-03;102);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche del Politecnico anzidetto;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici del Politecnico di Torino e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
 Lo statuto del Politecnico di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-TITOLO
-------
-
-I Ordinamento generale didattico
-
-Art. 1
-------
+Articolo unico
+--------------
 
   
-«Il Politecnico di Torino e' costituito dalla Facolta' di architettura e dalla Facolta' di ingegneria, a cui e' annessa una Scuola di ingegneria aerospaziale diretta a fini speciali».   
-Il quinto comma e' abrogato e sostituito dal seguente:   
-«La Scuola di ingegneria aerospaziale ha il fine speciale di fornire la preparazione scientifica necessaria per contribuire allo studio delle scienze aeronautiche ed astronautiche e dare impulso alle ricerche in tali campi. Essa comprende due sezioni: Strutture, Propulsione».   
-Gli articoli 34, 35, 36, 37 e 38 relativi all'ordinamento della Scuola di ingegneria aeronautica sono abrogati e sostituiti dai seguenti:   
   
-TITOLO VII   
-Scuola diretta a fini speciali   
-Art. 34. - La Scuola di ingegneria aerospaziale ha la durata di due anni. Gli insegnamenti sono i seguenti:   
-a) comuni alle due sezioni:   
-1) Aerodinamica I;   
-2) Gasdinamica I;   
-3) Motori per aeromobili   
-b) per la Sezione Strutture:   
-4) Aerodinamica II:   
-5) Aeronautica generale;   
-6) Costruzioni aeronautiche I;   
-7) Costruzioni aeronautiche II;   
-8) Progetto di aeromobili I;   
-9) Progetto di aeromobili II;   
-10) Sperimentazione di volo;   
-11) Strumenti di bordo; e due insegnamenti da scegliersi uno in ciascuno dei seguenti gruppi di materie:   
-A)   
-12) Sistemi di guida e navigazione;   
-12) Tecnologie aeronautiche:   
-12) Tecnica degli endoreattori;   
-B)   
-13) Fisica dei fluidi;   
-13) Impianti motori astronautici;   
-c) per la Sezione Propulsione:   
-4) Costruzione di motori per aeromobili;   
-5) Dinamica del missile;   
-6) Gasdinamica II;   
-7) Misure fluidodinamiche;   
-8) Motori per missili;   
-9) Sistemi di guida e navigazione;   
-10) Strutture aeromissilistiche;   
-11) Tecnologie aeronautiche;   
-e due insegnamenti da scegliersi uno in ciascuno dei seguenti gruppi di materie:   
-A)   
-12) Aeronautica generale;   
-12) Costruzioni aeronautiche I;   
-12) Tecnica degli endoreattori;   
-B)   
-13) Costruzione di motori per missili;   
-13) Fisica dei fluidi.   
-La distribuzione delle discipline suddette negli anni di corso e le relative precedenze sono stabilite annualmente nel piano degli studi.   
-Art. 35. - Nella Scuola potranno inoltre essere impartiti gruppi di conferenze e di insegnamenti monografici.   
-Art. 36. - Al primo anno della Scuola possono essere iscritti quali studenti coloro che gia' siano forniti di una laurea in Ingegneria.   
-Per gli allievi muniti della laurea in Ingegneria aeronautica la durata degli studi presso la Scuola e' annuale, con gli obblighi di frequenza e di esame che saranno stabiliti dal Consiglio della Facolta'.   
-Potranno altresi' essere ammessi:   
-1) gli ufficiali del Genio aeronautico secondo quanto e' disposto dall'art. 146 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592).   
-2) gli stranieri, provvisti di titoli conseguiti presso scuole estere, ritenuti sufficienti dal Consiglio di Facolta'.   
-Art. 37. - Per il superamento degli esami di profitto e di laurea valgono le norme contenute nel titolo V del presente statuto.   
-Art. 38. - La distinzione fra le due Sezioni sul diploma di laurea sara' limitata ad un sottotitolo. Agli allievi non precedentemente laureati in una Facolta' di ingegneria italiana ammessi ai sensi dell'ultimo comma dell'art. 36, sara' rilasciato al termine un certificato degli esami superati.   
+Gli articoli 2 e seguenti, relativi al corso di laurea in architettura, con il conseguente spostamento della numerazione degli articoli successivi sono soppressi e sostituiti dai seguenti nuovi articoli:   
+Art. 2 - Scopi e fini istituzionali. - La facolta' di architettura ha il fine di promuovere gli studi e la ricerca nel campo dell'architettura e delle scienze del territorio e la formazione culturale e professionale degli studenti.   
+Essa prepara gli iscritti al conseguimento della laurea in architettura secondo indirizzi e attraverso percorsi formativi. La durata del corso di studi per il conseguimento della laurea in architettura e' di cinque anni e comprende ventotto insegnamenti annuali.   
+Art. 3 - Insegnamenti e aree disciplinari. - Gli insegnamenti propri del corso di laurea in architettura si articolano per aree disciplinari. Le aree disciplinari sono le seguenti:   
+1) area progettuale architettonica;   
+2) area della progettazione territoriale ed urbanistica;   
+3) area storico critica e del restauro;   
+4) area tecnologica;   
+5) area impiantistica;   
+6) area fisico-matematica;   
+7) area della scienza e della tecnica delle costruzioni;   
+8) area socio-economica;   
+9) area della rappresentazione.   
+Gli insegnamenti che costituiscono le singole aree sono i seguenti:   
+1) Area progettuale architettonica:   
+composizione architettonica (1ª annualita);   
+composizione architettonica (2ª annualita);   
+allestimento e museografia;   
+arredamento e architettura degli interni;   
+arte dei giardini;   
+caratteri tipologici dell'architettura;   
+normative e legislazione per l'edilizia;   
+progettazione architettonica (1ª annualita);   
+progettazione architettonica (2ª annualita);   
+scenografia;   
+teoria dei modelli per la progettazione;   
+teoria e tecniche della progettazione architettonica;   
+caratteri distributivi degli edifici;   
+progettazione urbana.   
+2) Area della progettazione territoriale ed urbanistica:   
+urbanistica (1ª annualita);   
+urbanistica (2ª annualita);   
+analisi di sistemi urbani;   
+analisi delle strutture urbanistiche e territoriali (1ª annualita);   
+analisi delle strutture urbanistiche e territoriali (2ª annualita);   
+diritto e legislazione urbanistica;   
+ecologia applicata;   
+geologia applicata ed idrogeologia;   
+gestione urbanistica del territorio;   
+organizzazione del territorio;   
+pianificazione del territorio;   
+progettazione urbanistica (1ª annualita);   
+progettazione urbanistica (2ª annualita);   
+teoria dell'urbanistica (1ª annualita);   
+teoria dell'urbanistica (2ª annualita);   
+assetto del paesaggio.   
+3) Area storico-critica e del restauro:   
+storia dell'architettura (1ª annualita);   
+storia dell'architettura (2ª annualita);   
+storia dell'urbanistica (1ª annualita);   
+storia dell'urbanistica (2ª annualita);   
+storia dell'architettura contemporanea;   
+storia dell'arte;   
+storia della citta' e del territorio;   
+storia della critica e della letteratura architettonica;   
+storia della scienza;   
+storia della tecnologia;   
+restauro architettonico;   
+restauro urbano;   
+teoria del restauro;   
+storia dell'architettura antica;   
+storia della cartografia;   
+storia del paesaggio urbano e rurale.   
+4) Area tecnologica:   
+tecnologia dell'architettura (1ª annualita);   
+tecnologia dell'architettura (2ª annualita);   
+cultura tecnologica della progettazione;   
+disegno industriale;   
+ergonomia;   
+igiene ambientale;   
+morfologia dei componenti;   
+progettazione ambientale;   
+sperimentazione di sistemi e componenti;   
+tecnica ed economia della produzione edilizia;   
+tecnologie dei materiali da costruzione;   
+tipologia strutturale;   
+unificazione edilizia e prefabbricazione;   
+organizzazione della produzione;   
+organizzazione del cantiere.   
+5) Area impiantistica:   
+fisica tecnica e impianti;   
+illuminotecnica; acustica e climatizzazione nell'edilizia;   
+impianti speciali di sicurezza;   
+impianti tecnici urbani;   
+ubicazione e distribuzione della produzione di energia;   
+impianti tecnici nell'edilizia.   
+6) Area fisico-matematica:   
+istituzioni di matematica;   
+calcolo numerico e programmazione;   
+elaborazione elettronica dei dati;   
+elaborazione elettronica della progettazione;   
+fisica;   
+geometria descrittiva;   
+istituzioni di statistica;   
+linguaggio per l'uso dei calcolatori;   
+matematica applicata;   
+modelli matematici per la programmazione territoriale.   
+7) Area della scienza e della tecnica delle costruzioni:   
+statica;   
+consolidamento e adattamento degli edifici;   
+costruzioni in zone sismiche;   
+dinamica delle costruzioni;   
+geotecnica e tecnica delle fondazioni;   
+progettazione di grandi strutture;   
+scienza delle costruzioni;   
+tecnica delle costruzioni (1ª annualita);   
+tecnica delle costruzioni (2ª annualita);   
+costruzioni metalliche.   
+8) Area socioeconomica:   
+estimo ed esercizio professionale;   
+economia urbana e regionale;   
+antropologia culturale;   
+demografia;   
+economia dei trasporti;   
+fondamenti di economia;   
+geografia urbana e regionale;   
+sociologia urbana e rurale;   
+geografia economica.   
+9) Area della rappresentazione:   
+disegno e rilievo;   
+applicazioni di geometria descrittiva;   
+cartografia tematica;   
+elementi di fotogrammetria;   
+interpretazione di immagini e telerilevamenti;   
+strumenti e metodi per il rilievo architettonico;   
+strumenti e tecniche di comunicazione visiva;   
+tecniche della cartografia automatica;   
+tecniche di rappresentazione dell'architettura;   
+topografia.   
+Art. 4 - Indirizzi di laurea, insegnamenti fondamentali e caratterizzanti. - Per il conseguimento della laurea in architettura sono previsti i seguenti quattro indirizzi di laurea:   
+1) progettazione architettonica;   
+2) tutela e recupero del patrimonio storico architettonico;   
+3) tecnologico;   
+4) urbanistico.   
+Nove insegnamenti annuali, i primi indicati per ciascuna delle aree indicate dall'art. 3, sono fondamentali, comuni a tutti gli indirizzi, e sono i seguenti:   
+1) composizione architettonica (1ª annualita);   
+2) urbanistica (1ª annualita);   
+3) storia dell'architettura (1ª annualita);   
+4) tecnologia dell'architettura (1ª annualita);   
+5) fisica tecnica e impianti;   
+6) istituzioni di matematica;   
+7) statica;   
+8) estimo ed esercizio professionale;   
+9) disegno e rilievo.   
+La facolta' di architettura del Politecnico di Torino, inoltre, definisce come fondamentali e caratterizzanti la sede i seguenti nove insegnamenti, che vengono parimenti ritenuti comuni a tutti gli indirizzi. Questi nove insegnamenti sono cosi' suddivisi: i primi sei sono specificamente indicati, mentre degli ultimi tre vengono indicate solo le aree disciplinari alle quali dovranno appartenere:   
+10) composizione architettonica (2ª annualita);   
+11) progettazione architettonica (1ª annualita);   
+12) teoria dell'urbanistica (1ª annualita);   
+13) storia dell'urbanistica (1ª annualita);   
+14) restauro architettonico;   
+15) scienza delle costruzioni;   
+16) un insegnamento dell'area 1;   
+17) un insegnamento dell'area 4;   
+18) un insegnamento dell'area 8.   
+Nel manifesto annuale degli studi la facolta' specifichera', quindi, in funzione degli indirizzi attivati e nell'ambito delle tabelle del decreto del Presidente della Repubblica n. 806, quali insegnamenti delle aree disciplinari 1, 4 e 8 dovranno essere considerati fondamentali e caratterizzanti per la formulazione dei piani di studio.   
+Art. 5 - Criteri per la scelta degli insegnamenti dei diversi indirizzi. - Ognuno dei quattro indirizzi indicati viene individuato attraverso nove insegnamenti, scelti per la formazione dei piani di studio delle aree disciplinari specificate dall'art. 3, secondo i seguenti criteri:   
+Per l'indirizzo di progettazione architettonica:   
+tre dall'area 1;   
+uno dall'area 2;   
+uno dall'area 3;   
+uno dall'area 4;   
+due dall'area 7;   
+uno dall'area 9.   
+Per l'indirizzo di tutela e recupero del patrimonio storico architettonico:   
+due dall'area 1;   
+uno dall'area 2;   
+tre dall'area 3;   
+uno dall'area 4;   
+uno dall'area 7;   
+uno dall'area 9.   
+Per l'indirizzo tecnologico:   
+uno dall'area 1;   
+uno dall'area 3;   
+tre dall'area 4;   
+uno dall'area 5;   
+uno dall'area 6;   
+uno dall'area 7;   
+uno dall'area 9.   
+Indirizzo urbanistico:   
+tre dall'area 2;   
+uno dall'area 3;   
+uno dall'area 4;   
+uno dall'area 6;   
+due dall'area 8;   
+uno dall'area 9.   
+Il ventottesimo insegnamento annuale verra' scelto dallo studente in base alle specifiche esigenze del piano individuale ed in conformita' con le indicazioni che verranno date dal manifesto annuale degli studi.   
+Per ciascun indirizzo di laurea la distribuzione degli insegnamenti negli anni di corso e le eventuali precedenze sono stabilite nel manifesto annuale degli studi.   
+Inoltre, per il corso di laurea in architettura, dovranno essere rispettate le seguenti propedeuticita':   
+A) Non si puo' sostenere l'esame di statica se non si e' superato l'esame di istituzioni di matematica;   
+B) Non si puo' sostenere l'esame di scienza delle costruzioni se non si e' superato l'esame di statica.   
+Art. 6 - Ammissione all'esame di laurea. - Per essere ammesso all'esame di laurea in architettura lo studente deve aver superato tutti gli esami nelle annualita' previste dal presente statuto. Il numero complessivo di dette annualita' e' di ventotto.   
+Lo studente, inoltre, dovra' essere sottoposto all'accertamento della conoscenza di almeno una lingua straniera fra quelle indicate dalla facolta' sul manifesto annuale degli studi, mediante colloquio e traduzione di testi scientifici, da effettuarsi prima dell'assegnazione delle tesi di laurea con docenti di discipline attinenti alla tesi stessa.   
+Art. 7 - Esame di laurea. - L'esame di laurea per gli studenti architetti consiste nella discussione pubblica della tesi. Tale discussione diretta a riconoscere la competenza del candidato sul processo critico, metodologico e progettuale seguito nello svolgimento della tesi, puo' investire l'intero ambito delle discipline che costituiscono il suo curriculum di studi.   
+Ogni laureando dovra' comunicare alla presidenza l'argomento della tesi di laurea vistato dal professore relatore e dagli eventuali correlatori entro il 15 dicembre del quinto anno di iscrizione in corso e fuori corso.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 settembre 1963
+### Dato a Roma, addi' 28 ottobre 1983
 
-SEGNI Gui
+PERTINI FALCUCCI
 
-Visto, Il Guardasigilli: BOSCO
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 15 novembre 1963.
+Registrato alla Corte dei conti, addi' 23 maggio 1984
 
-Atti del Governo, registro n. 176, foglio n. 3. - VILLA
+Registro n. 30 Istruzione, foglio n. 78

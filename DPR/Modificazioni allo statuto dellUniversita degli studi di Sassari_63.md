@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 884
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 740
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 884
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 740
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Sassari.
 -------------------------------------------------------------------
@@ -10,384 +10,747 @@ Modificazioni allo statuto dell'Universita' degli studi di Sassari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084), e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084) e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Sassari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 77 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in radiologia.
+Art. 77 - all'elenco delle scuole di specializzazione in medicina e chirurgia sono apportate le seguenti modifiche:
 
-Dopo l'art. 137 sono inseriti, con il conseguente spostamento della numerazione degli articoli successivi, i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in radiologia di cui all'art. 77.
+La scuola di specializzazione in ostetricia e ginecologia muta la denominazione in quella di scuola di specializzazione in ginecologia e ostetricia.
 
-Scuola di specializzazione in radiologia
+La scuola di specializzazione in ortopedia e traumatologia muta la denominazione in quella di scuola di specializzazione in ortopedia.
 
-Art. 138. - La scuola rilascia i seguenti diplomi di specializzazione: in radiologia e in radiologia diagnostica.
+Allo stesso elenco e' aggiunta la scuola di specializzazione in nefrologia.
 
-La scuola e' riservata ai laureati in medicina e chirurgia, che possono essere accolti in numero massimo di 5 per ciascun anno di corso per radiologia e radiologia diagnostica.
+Gli articoli 92, 93 e 94, relativi alla scuola di specializzazione in ostetricia e ginecologia che muta la denominazione in quella di scuola di specializzazione in ginecologia e ostetricia, sono soppressi e sostituiti dai seguenti:
 
-Art. 139. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia e' di 4 anni.
+Scuola di specializzazione in ginecologia e ostetricia
 
-Gli insegnamenti sono i seguenti:
+Art. 92. - La scuola di specializzazione in ginecologia ed ostetricia ha sede presso l'istituto di clinica ostetrica e conferisce il diploma di specialista in ginecologia ed ostetricia.
 
-a) matematica, fisica, nozioni di statistica e informatica (annuale) comprendente:
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
 
-1) richiami di matematica e fisica generale;
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
 
-2) costituzione della materia;
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
 
-3) produzione, assorbimento e misura delle radiazioni;
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
 
-4) statistica applicata alla medicina;
+Il numero massimo degli allievi e' di sei per anno di corso e complessivamente di ventiquattro iscritti per l'intero corso di studi.
 
-5) informatica e cibernetica applicata alla radiologia;
+L'ammissione al corso avviene per titoli ed esami.
 
-b) radiodiagnostica (triennale) comprendente:
+Art. 93. - Le materie di insegnamento sono le seguenti:
 
-1) principi generali di radiodiagnostica;
+1° Anno:
 
-2) apparecchi, strumenti e tecnica radiodiagnostica;
+a) elementi di genetica medica;
 
-3) tecnica e fisiologia applicate alla radiodiagnostica;
+b) elementi di embriologia: anatomia macro e micro dell'apparato genitale femminile; anatomia della pelvi;
 
-4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali, connessi con il loro impiego e loro terapia;
+c) elementi di fisiopatologia della riproduzione umana;
 
-5) semeiotica radiologica;
+d) fisiologia ostetrica;
 
-6) diagnostica differenziale radiologica;
+e) endocrinologia ginecologica ed ostetrica;
 
-7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;
+f) semeiotica e diagnostica ostetrica;
 
-8) dimostrazioni di casistica clinica;
+g) patologia ostetrica e ginecologica I;
 
-c) radiobiologia (annuale) comprendente:
-
-1) radiobiologia generale;
-
-2) danni da radiazioni e radiopatie;
-
-d) protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
-
-1) legislazione sanitaria applicata alla radiologia;
-
-2) compiti e responsabilita' medico-legali del radiologo;
-
-3) radioprotezione fisica e dosimetria ad essa connesse;
-
-4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;
-
-5) radioprotezione chimica;
-
-6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reperti radiologici;
-
-e) radioterapia e terapia fisica (triennale) comprendente:
-
-1) radiobiologia applicata;
-
-2) fondamenti generali di radioterapia fisica;
-
-3) istopatologia speciale dei tumori;
-
-4) nozioni sugli apparecchi e strumenti per la radioterapia;
-
-5) tecnica e metodica radioterapica;
-
-6) dosimetria;
-
-7) clinica radioterapica;
-
-8) fondamenti generali di chemioterapia oncologica;
-
-9) chemioterapia clinica dei tumori e sua associazione alla radioterapia;
-
-10) dimostrazioni di casistica clinica;
-
-f) medicina nucleare (biennale) comprendente:
-
-1) elementi di medicina nucleare;
-
-2) strumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare;
-
-3) dosimetria dei radioisotopi somministrati per via interna;
-
-4) diagnostica con radioisotopi somministrati per via interna;
-
-5) radioterapia metabolica;
-
-6) dimostrazioni di casistica clinica.
-
-I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro miglior svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ed istituzioni di particolare interesse, sono cosi' distribuiti nei quattro anni di corso.
-
-1° Anno (tronco-comune):
-
-matematica, fisica, nozioni di statistica ed informatica;
-
-radiobiologia;
-
-protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia; radiodiagnostica (1). 2° Anno:
-
-radiodiagnostica (2);
-
-radioterapia e terapia fisica (1).
-
-3° Anno:
-
-radiodiagnostica (3);
-
-radioterapia e terapia fisica (2);
-
-medicina nucleare (1).
-
-4° Anno:
-
-radioterapia e terapia fisica (3);
-
-medicina nucleare (2).
-
-Art. 140. - La durata dei singoli corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.
-
-Gli insegnamenti sono i seguenti:
-
-a) matematica, fisica, nozioni di statistica ed informatica (annuale) comprendente:
-
-1) richiami di matematica e fisica generale;
-
-2) costituzione della materia;
-
-3) produzione, assorbimento e misura delle radiazioni;
-
-4) statistica applicata alla medicina;
-
-5) informatica e cibernetica applicate alla radiologia;
-
-b) radiodiagnostica (triennale) comprendente:
-
-1) principi generali di radiodiagnostica;
-
-2) apparecchi, strumenti e tecnica radiodiagnostica;
-
-3) tecnica e fisiologia applicate alla radiodiagnostica;
-
-4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;
-
-5) semeiotica radiologica;
-
-6) diagnostica differenziale radiologica;
-
-7) dimostrazioni autoptiche di pazienti sottoposti ed esami radiologici;
-
-8) dimostrazioni di casistica clinica;
-
-c) radiobiologia (annuale) comprendente:
-
-1) radiobiologia generale;
-
-2) danni da radiazioni e radiopatie;
-
-d) protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendenti:
-
-1) legislazione sanitaria applicata alla radiologia;
-
-2) compiti e responsabilita' medico-legali del radiologo;
-
-3) radioprotezione fisica e dosimetria ad essa connessa;
-
-4) fattori che influenzano l'effetto biologico dalle radiazioni e problemi connessi con le radioprotezioni;
-
-5) radioprotezione chimica;
-
-6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.
-
-I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche sono cosi' distribuiti nei 3 anni di corso:
-
-1° Anno (tronco-comune):
-
-matematica, fisica, nozioni di statistica ed informatica;
-
-radiobiologia;
-
-protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;
-
-radiodiagnostica (1).
+h) lingua straniera (inglese) I.
 
 2° Anno:
 
-radiodiagnostica (2).
+a) semeiotica e diagnostica ginecologica;
+
+b) operazioni ostetriche I;
+
+c) anatomia ed istologia patologica della sfera genitale femminile;
+
+d) citologia ginecologica;
+
+e) patologia ostetrica e ginecologica II;
+
+f) diagnostica di laboratorio in ostetricia e ginecologia;
+
+g) lingua straniera (inglese) II.
 
 3° Anno:
 
-radiodiagnostica (3).
+a) puericultura prenatale;
 
-Per essere ammessi agli esami di diploma in radiologia e in radiologia diagnostica gli iscritti, oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia di insegnamento ed elaborata una tesi scritta su un argomento radiologico concordato con il direttore della scuola.
+b) immunologia ostetrica e ginecologica;
 
-Art. 141. - Le tasse di iscrizione e di frequenza sono fissate come segue:
+c) analgoanestesia e rianimazione in ostetricia;
 
-tassa di immatricolazione. . . . . . . . . . . . . . . . L. 6.000 tassa annuale di iscrizione . . . . . . . . . . . . . . L. 60.000 soprattassa esami di profitto. . . . . . . . . . . . . . L. 7.000 soprattassa esame di diploma . . . . . . . . . . . . . . L. 3.000 tassa annuale per fuori corso . . . . . . . . . . . . . L. 50.000
+d) operazioni ostetriche II;
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+e) operazioni ginecologiche I;
 
-Dato a Roma, addi' 31 ottobre 1975
+f) ostetricia e ginecologia forense;
 
-LEONE
+g) terapia medica in ostetricia e ginecologia;
 
-MALFATTI
+h) clinica ostetrica e ginecologica I;
 
-Visto, il Guardasigilli: REALE
+i) psicosomatica ostetrica e ginecologica;
+
+l) lingua straniera (inglese) III.
+
+4° Anno:
+
+a) neonatologia;
+
+b) urologia ginecologica;
+
+c) radiodiagnostica e terapia fisica in ostetricia e ginecologia;
+
+d) chirurgia addominale;
+
+e) operazioni ginecologiche II;
+
+f) clinica ostetrica e ginecologica II;
+
+g) lingua straniera (inglese) IV.
+
+Art. 94. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame nelle materie impartite durante l'anno. Per le materie a corsi pluriennali l'esame sara' sostenute alla fine dei corsi medesimi.
+
+Al termine del corso di studi per il conseguimento di diploma di specialista in ginecologia ed ostetricia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+Gli articoli 95, 96, 97, 98, 99 e 100, relativi alla scuola di specializzazione in pediatria, sono soppressi e sostituiti dai seguenti:
+
+Scuola di specializzazione in pediatria
+
+Art. 95. - La scuola di specializzazione in pediatria ha sede presso l'istituto di clinica pediatrica e conferisce il diploma di specialista in pediatria.
+
+Art. 96. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Art. 97. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
+
+Il numero massimo degli allievi e' di cinque per anno di corso e complessivamente di venti per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Art. 98. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+genetica;
+
+auxologia;
+
+alimentazione;
+
+epidemiologia;
+
+malattie infettive;
+
+clinica pediatrica I.
+
+2° Anno:
+
+radiologia;
+
+legislazione del minore;
+
+organizzazione sanitaria;
+
+psicologia pediatrica;
+
+oculistica e ortottica;
+
+otorino e foniatria;
+
+odonto;
+
+neonatologia I;
+
+chirurgia pediatrica I;
+
+pediatria preventiva e sociale I;
+
+clinica pediatrica II.
+
+3° Anno:
+
+neurologia;
+
+psichiatria infantile;
+
+nefrologia e urologia;
+
+ginecologia pediatrica;
+
+neonatologia II;
+
+chirurgia pediatrica II;
+
+pediatria preventiva e sociale II;
+
+cardiologia I;
+
+endocrinologia I;
+
+ematologia I;
+
+immunologia I;
+
+gastroenterologia I;
+
+clinica pediatrica III.
+
+4° Anno:
+
+oncologia;
+
+pneumologia;
+
+ortopedia e traumatologia;
+
+dermatologia;
+
+cardiologia II;
+
+endocrinologia II;
+
+ematologia II;
+
+immunologia II;
+
+gastroenterologia II;
+
+clinica pediatrica IV.
+
+Art. 99. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere le prove di esame.
+
+Art. 100. - Alla fine di ciascun anno di corso gli iscritti per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi. Al termine del corso di studi, per il conseguimento del diploma di specialista in pediatria, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+Gli articoli 109, 110, 111, 112, 113, 114, 115, 116, 117, 118 e 119, relativi alla scuola di specializzazione in ortopedia e traumatologia che muta la denominazione in quella di scuola di specializzazione in ortopedia, sono soppressi e sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi.
+
+Scuola di specializzazione in ortopedia
+
+Art. 109. - La scuola di specializzazione in ortopedia ha sede presso l'istituto della clinica ortopedica e conferisce il diploma di specialista in ortopedia. La scuola comprende un insegnamento teorico e pratico.
+
+Art. 110. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Art. 111. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso di diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.
+
+Art. 112. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni.
+
+Art. 113. - Il numero massimo degli allievi e' di cinque per anno di corso e complessivamente di venticinque iscritti per l'intero corso di studi.
+
+Art. 114. - L'ammissione al corso avviene per titoli ed esami.
+
+Art. 115. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+Insegnamento pratico:
+
+chirurgia generale;
+
+pronto soccorso generale;
+
+fisioterapia.
+
+Insegnamento teorico:
+
+anatomia dell'apparato locomotore I;
+
+fisiologia dell'apparato locomotore;
+
+semeiotica ortopedica;
+
+nozioni di chirurgia generale;
+
+bioingegneria dell'apparato locomotore I.
+
+2° Anno:
+
+Insegnamento pratico:
+
+chirurgia generale (con frequenza eventuale in reparti specialistici interessanti per l'apparato locomotore);
+
+reparti di pronto soccorso traumatologico;
+
+reparti di ortopedia e traumatologia.
+
+Insegnamento teorico:
+
+anatomia e istologia patologica dell'apparato locomotore I; patologia dell'apparato locomotore I;
+
+clinica ortopedia I;
+
+traumatologia dell'apparato locomotore I;
+
+radiologia I;
+
+nozioni di chirurgia d'urgenza e pronto soccorso;
+
+bioingegneria dell'apparato locomotore II.
+
+3° Anno:
+
+Insegnamento pratico:
+
+reparti di ortopedia e traumatologia (in particolare sale di degenza e sale gessi).
+
+Insegnamento teorico:
+
+anatomia e istologia patologica dell'apparato locomotore II;
+
+patologia dell'apparato locomotore II;
+
+clinica ortopedia II;
+
+traumatologia dell'apparato locomotore II;
+
+radiologia II;
+
+tecnica operatoria I;
+
+apparatoterapia e tecnica degli apparecchi gessati;
+
+elementi di reumatologia.
+
+4° Anno:
+
+Insegnamento pratico:
+
+reparti di ortopedia e traumatologia (frequenza nei reparti operatori).
+
+Insegnamento teorico:
+
+patologia dell'apparato locomotore III;
+
+clinica ortopedica III;
+
+traumatologia dell'apparato locomotore III;
+
+tecnica operatoria II;
+
+fisiokinesiterapia I;
+
+neuropatologia dell'apparato locomotore ed elettrodiagnostica;
+
+nozioni di medicina legale.
+
+5° Anno:
+
+Insegnamento pratico:
+
+reparti di ortopedia e traumatologia (frequenza nei reparti operatori);
+
+officine ortopediche.
+
+Insegnamento teorico:
+
+patologia dell'apparato locomotore IV;
+
+clinica ortopedica IV;
+
+traumatologia dell'apparato locomotore IV;
+
+tecnica operatoria III;
+
+fisioterapia II.
+
+Art. 116. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Art. 117. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie pratiche durante l'anno.
+
+Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi. Al termine del corso di studi per il conseguimento del diploma di specialista in ortopedia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+Dopo l'art. 137, e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in nefrologia.
+
+Scuola di specializzazione in nefrologia
+
+Art. 138. - La scuola di specializzazione in nefrologia ha sede presso l'istituto di patologia medica e conferisce il diploma di specialista in nefrologia.
+
+Art. 139. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine, in mancanza di questi la direzione della scuola puo' essere temporaneamente assunta dal professore incaricato della stessa disciplina.
+
+Art. 140. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+Art. 141. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
+
+Art. 142. - Il numero massimo degli allievi e' di quattro per anno di corso e complessivamente di sedici iscritti per l'intero corso di studi.
+
+Art. 143. - L'ammissione al corso avviene per titoli ed esami.
+
+Art. 144. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+struttura ed ultrastruttura normale del rene;
+
+aspetti biochimici della funzione renale;
+
+fisiologia renale;
+
+microbiologia ed immunologia applicata alla nefrologia;
+
+genetica applicata alla nefrologia;
+
+semeiotica renale I.
+
+2° Anno:
+
+struttura ed ultrastruttura patologica del rene;
+
+patologia del ricambio idroelettrolitico;
+
+insufficienza renale;
+
+rene e ipertensione arteriosa;
+
+semiotica renale;
+
+nefropatie tubulari.
+
+3° Anno:
+
+nefropatie glomerulari;
+
+nefropatie interstiziali;
+
+nefropatie vascolari;
+
+terapia dietetica e dialitica I;
+
+farmacologica di interesse nefrologico.
+
+4° Anno:
+
+nefrouropatie calcolotiche, malformative e neoplastiche;
+
+terapia dietetica e dialitica II;
+
+fisiopatologia e clinica del trapianto renale;
+
+aspetti di nefrologia nell'eta' pediatrica;
+
+problemi chirurgici in nefrologia;
+
+terapia medica delle nefropatie.
+
+Art. 145. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Art. 146. - Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in nefrologia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e de decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 12 settembre 1978
+
+PERTINI
+
+PEDINI
+
+Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 16 febbraio 1976 Atti di Governo, registro n. 3, foglio n. 9
+alla Corte dei conti, addi' 13 novembre 1978 Registro n. 121 Istruzione, foglio n. 168
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084), e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Sassari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084) e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Sassari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 77 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in radiologia.   
-Dopo l'art. 137 sono inseriti, con il conseguente spostamento della numerazione degli articoli successivi, i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in radiologia di cui all'art. 77.   
+Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Scuola di specializzazione in radiologia   
+Art. 77 - all'elenco delle scuole di specializzazione in medicina e chirurgia sono apportate le seguenti modifiche:  
+La scuola di specializzazione in ostetricia e ginecologia muta la denominazione in quella di scuola di specializzazione in ginecologia e ostetricia.  
+La scuola di specializzazione in ortopedia e traumatologia muta la denominazione in quella di scuola di specializzazione in ortopedia.  
+Allo stesso elenco e' aggiunta la scuola di specializzazione in nefrologia.  
+Gli articoli 92, 93 e 94, relativi alla scuola di specializzazione in ostetricia e ginecologia che muta la denominazione in quella di scuola di specializzazione in ginecologia e ostetricia, sono soppressi e sostituiti dai seguenti:  
   
-Art. 138. - La scuola rilascia i seguenti diplomi di specializzazione: in radiologia e in radiologia diagnostica.   
-La scuola e' riservata ai laureati in medicina e chirurgia, che possono essere accolti in numero massimo di 5 per ciascun anno di corso per radiologia e radiologia diagnostica.   
-Art. 139. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia e' di 4 anni.   
-Gli insegnamenti sono i seguenti:   
-a) matematica, fisica, nozioni di statistica e informatica (annuale) comprendente:   
-1) richiami di matematica e fisica generale;   
-2) costituzione della materia;   
-3) produzione, assorbimento e misura delle radiazioni;   
-4) statistica applicata alla medicina;   
-5) informatica e cibernetica applicata alla radiologia;   
-b) radiodiagnostica (triennale) comprendente:   
-1) principi generali di radiodiagnostica;   
-2) apparecchi, strumenti e tecnica radiodiagnostica;   
-3) tecnica e fisiologia applicate alla radiodiagnostica;   
-4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali, connessi con il loro impiego e loro terapia;   
-5) semeiotica radiologica;   
-6) diagnostica differenziale radiologica;   
-7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;   
-8) dimostrazioni di casistica clinica;   
-c) radiobiologia (annuale) comprendente:   
-1) radiobiologia generale;   
-2) danni da radiazioni e radiopatie;   
-d) protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:   
-1) legislazione sanitaria applicata alla radiologia;   
-2) compiti e responsabilita' medico-legali del radiologo;   
-3) radioprotezione fisica e dosimetria ad essa connesse;   
-4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;   
-5) radioprotezione chimica;   
-6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reperti radiologici;   
-e) radioterapia e terapia fisica (triennale) comprendente:   
-1) radiobiologia applicata;   
-2) fondamenti generali di radioterapia fisica;   
-3) istopatologia speciale dei tumori;   
-4) nozioni sugli apparecchi e strumenti per la radioterapia;   
-5) tecnica e metodica radioterapica;   
-6) dosimetria;   
-7) clinica radioterapica;   
-8) fondamenti generali di chemioterapia oncologica;   
-9) chemioterapia clinica dei tumori e sua associazione alla radioterapia;   
-10) dimostrazioni di casistica clinica;   
-f) medicina nucleare (biennale) comprendente:   
-1) elementi di medicina nucleare;   
-2) strumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare;   
-3) dosimetria dei radioisotopi somministrati per via interna;   
-4) diagnostica con radioisotopi somministrati per via interna;   
-5) radioterapia metabolica;   
-6) dimostrazioni di casistica clinica.   
-I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro miglior svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ed istituzioni di particolare interesse, sono cosi' distribuiti nei quattro anni di corso.   
-1° Anno (tronco-comune):   
-matematica, fisica, nozioni di statistica ed informatica;   
-radiobiologia;   
-protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia; radiodiagnostica (1). 2° Anno:   
-radiodiagnostica (2);   
-radioterapia e terapia fisica (1).   
-3° Anno:   
-radiodiagnostica (3);   
-radioterapia e terapia fisica (2);   
-medicina nucleare (1).   
-4° Anno:   
-radioterapia e terapia fisica (3);   
-medicina nucleare (2).   
-Art. 140. - La durata dei singoli corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.   
-Gli insegnamenti sono i seguenti:   
-a) matematica, fisica, nozioni di statistica ed informatica (annuale) comprendente:   
-1) richiami di matematica e fisica generale;   
-2) costituzione della materia;   
-3) produzione, assorbimento e misura delle radiazioni;   
-4) statistica applicata alla medicina;   
-5) informatica e cibernetica applicate alla radiologia;   
-b) radiodiagnostica (triennale) comprendente:   
-1) principi generali di radiodiagnostica;   
-2) apparecchi, strumenti e tecnica radiodiagnostica;   
-3) tecnica e fisiologia applicate alla radiodiagnostica;   
-4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;   
-5) semeiotica radiologica;   
-6) diagnostica differenziale radiologica;   
-7) dimostrazioni autoptiche di pazienti sottoposti ed esami radiologici;   
-8) dimostrazioni di casistica clinica;   
-c) radiobiologia (annuale) comprendente:   
-1) radiobiologia generale;   
-2) danni da radiazioni e radiopatie;   
-d) protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendenti:   
-1) legislazione sanitaria applicata alla radiologia;   
-2) compiti e responsabilita' medico-legali del radiologo;   
-3) radioprotezione fisica e dosimetria ad essa connessa;   
-4) fattori che influenzano l'effetto biologico dalle radiazioni e problemi connessi con le radioprotezioni;   
-5) radioprotezione chimica;   
-6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.   
-I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche sono cosi' distribuiti nei 3 anni di corso:   
-1° Anno (tronco-comune):   
-matematica, fisica, nozioni di statistica ed informatica;   
-radiobiologia;   
-protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;   
-radiodiagnostica (1).   
-2° Anno:   
-radiodiagnostica (2).   
-3° Anno:   
-radiodiagnostica (3).   
-Per essere ammessi agli esami di diploma in radiologia e in radiologia diagnostica gli iscritti, oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia di insegnamento ed elaborata una tesi scritta su un argomento radiologico concordato con il direttore della scuola.   
-Art. 141. - Le tasse di iscrizione e di frequenza sono fissate come segue:   
+Scuola di specializzazione in ginecologia e ostetricia  
   
-tassa di immatricolazione. . . . . . . . . . . . . . . . L. 6.000 tassa annuale di iscrizione . . . . . . . . . . . . . . L. 60.000 soprattassa esami di profitto. . . . . . . . . . . . . . L. 7.000 soprattassa esame di diploma . . . . . . . . . . . . . . L. 3.000 tassa annuale per fuori corso . . . . . . . . . . . . . L. 50.000   
+Art. 92. - La scuola di specializzazione in ginecologia ed ostetricia ha sede presso l'istituto di clinica ostetrica e conferisce il diploma di specialista in ginecologia ed ostetricia.  
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
+Il numero massimo degli allievi e' di sei per anno di corso e complessivamente di ventiquattro iscritti per l'intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami.  
+Art. 93. - Le materie di insegnamento sono le seguenti:  
+  
+1° Anno:  
+a) elementi di genetica medica;  
+b) elementi di embriologia: anatomia macro e micro dell'apparato genitale femminile; anatomia della pelvi;  
+c) elementi di fisiopatologia della riproduzione umana;  
+d) fisiologia ostetrica;  
+e) endocrinologia ginecologica ed ostetrica;  
+f) semeiotica e diagnostica ostetrica;  
+g) patologia ostetrica e ginecologica I;  
+h) lingua straniera (inglese) I.  
+  
+2° Anno:  
+a) semeiotica e diagnostica ginecologica;  
+b) operazioni ostetriche I;  
+c) anatomia ed istologia patologica della sfera genitale femminile;  
+d) citologia ginecologica;  
+e) patologia ostetrica e ginecologica II;  
+f) diagnostica di laboratorio in ostetricia e ginecologia;  
+g) lingua straniera (inglese) II.  
+  
+3° Anno:  
+a) puericultura prenatale;  
+b) immunologia ostetrica e ginecologica;  
+c) analgoanestesia e rianimazione in ostetricia;  
+d) operazioni ostetriche II;  
+e) operazioni ginecologiche I;  
+f) ostetricia e ginecologia forense;  
+g) terapia medica in ostetricia e ginecologia;  
+h) clinica ostetrica e ginecologica I;  
+i) psicosomatica ostetrica e ginecologica;  
+l) lingua straniera (inglese) III.  
+  
+4° Anno:  
+a) neonatologia;  
+b) urologia ginecologica;  
+c) radiodiagnostica e terapia fisica in ostetricia e ginecologia;  
+d) chirurgia addominale;  
+e) operazioni ginecologiche II;  
+f) clinica ostetrica e ginecologica II;  
+g) lingua straniera (inglese) IV.  
+  
+Art. 94. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame nelle materie impartite durante l'anno. Per le materie a corsi pluriennali l'esame sara' sostenute alla fine dei corsi medesimi.  
+Al termine del corso di studi per il conseguimento di diploma di specialista in ginecologia ed ostetricia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+Gli articoli 95, 96, 97, 98, 99 e 100, relativi alla scuola di specializzazione in pediatria, sono soppressi e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in pediatria  
+  
+Art. 95. - La scuola di specializzazione in pediatria ha sede presso l'istituto di clinica pediatrica e conferisce il diploma di specialista in pediatria.  
+Art. 96. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Art. 97. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.  
+Il numero massimo degli allievi e' di cinque per anno di corso e complessivamente di venti per l'intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami.  
+Art. 98. - Le materie di insegnamento sono le seguenti:  
+  
+1° Anno:  
+genetica;  
+auxologia;  
+alimentazione;  
+epidemiologia;  
+malattie infettive;  
+clinica pediatrica I.  
+  
+2° Anno:  
+radiologia;  
+legislazione del minore;  
+organizzazione sanitaria;  
+psicologia pediatrica;  
+oculistica e ortottica;  
+otorino e foniatria;  
+odonto;  
+neonatologia I;  
+chirurgia pediatrica I;  
+pediatria preventiva e sociale I;  
+clinica pediatrica II.  
+  
+3° Anno:  
+neurologia;  
+psichiatria infantile;  
+nefrologia e urologia;  
+ginecologia pediatrica;  
+neonatologia II;  
+chirurgia pediatrica II;  
+pediatria preventiva e sociale II;  
+cardiologia I;  
+endocrinologia I;  
+ematologia I;  
+immunologia I;  
+gastroenterologia I;  
+clinica pediatrica III.  
+  
+4° Anno:  
+oncologia;  
+pneumologia;  
+ortopedia e traumatologia;  
+dermatologia;  
+cardiologia II;  
+endocrinologia II;  
+ematologia II;  
+immunologia II;  
+gastroenterologia II;  
+clinica pediatrica IV.  
+  
+Art. 99. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere le prove di esame.  
+Art. 100. - Alla fine di ciascun anno di corso gli iscritti per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi. Al termine del corso di studi, per il conseguimento del diploma di specialista in pediatria, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+Gli articoli 109, 110, 111, 112, 113, 114, 115, 116, 117, 118 e 119, relativi alla scuola di specializzazione in ortopedia e traumatologia che muta la denominazione in quella di scuola di specializzazione in ortopedia, sono soppressi e sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi.  
+  
+Scuola di specializzazione in ortopedia  
+  
+Art. 109. - La scuola di specializzazione in ortopedia ha sede presso l'istituto della clinica ortopedica e conferisce il diploma di specialista in ortopedia. La scuola comprende un insegnamento teorico e pratico.  
+Art. 110. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Art. 111. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso di diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.  
+Art. 112. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni.  
+Art. 113. - Il numero massimo degli allievi e' di cinque per anno di corso e complessivamente di venticinque iscritti per l'intero corso di studi.  
+Art. 114. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 115. - Le materie di insegnamento sono le seguenti:  
+  
+1° Anno:  
+Insegnamento pratico:  
+chirurgia generale;  
+pronto soccorso generale;  
+fisioterapia.  
+Insegnamento teorico:  
+anatomia dell'apparato locomotore I;  
+fisiologia dell'apparato locomotore;  
+semeiotica ortopedica;  
+nozioni di chirurgia generale;  
+bioingegneria dell'apparato locomotore I.  
+  
+2° Anno:  
+Insegnamento pratico:  
+chirurgia generale (con frequenza eventuale in reparti specialistici interessanti per l'apparato locomotore);  
+reparti di pronto soccorso traumatologico;  
+reparti di ortopedia e traumatologia.  
+Insegnamento teorico:  
+anatomia e istologia patologica dell'apparato locomotore I; patologia dell'apparato locomotore I;  
+clinica ortopedia I;  
+traumatologia dell'apparato locomotore I;  
+radiologia I;  
+nozioni di chirurgia d'urgenza e pronto soccorso;  
+bioingegneria dell'apparato locomotore II.  
+  
+3° Anno:  
+Insegnamento pratico:  
+reparti di ortopedia e traumatologia (in particolare sale di degenza e sale gessi).  
+Insegnamento teorico:  
+anatomia e istologia patologica dell'apparato locomotore II;  
+patologia dell'apparato locomotore II;  
+clinica ortopedia II;  
+traumatologia dell'apparato locomotore II;  
+radiologia II;  
+tecnica operatoria I;  
+apparatoterapia e tecnica degli apparecchi gessati;  
+elementi di reumatologia.  
+  
+4° Anno:  
+Insegnamento pratico:  
+reparti di ortopedia e traumatologia (frequenza nei reparti operatori).  
+Insegnamento teorico:  
+patologia dell'apparato locomotore III;  
+clinica ortopedica III;  
+traumatologia dell'apparato locomotore III;  
+tecnica operatoria II;  
+fisiokinesiterapia I;  
+neuropatologia dell'apparato locomotore ed elettrodiagnostica;  
+nozioni di medicina legale.  
+  
+5° Anno:  
+Insegnamento pratico:  
+reparti di ortopedia e traumatologia (frequenza nei reparti operatori);  
+officine ortopediche.  
+Insegnamento teorico:  
+patologia dell'apparato locomotore IV;  
+clinica ortopedica IV;  
+traumatologia dell'apparato locomotore IV;  
+tecnica operatoria III;  
+fisioterapia II.  
+  
+Art. 116. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Art. 117. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie pratiche durante l'anno.  
+Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi. Al termine del corso di studi per il conseguimento del diploma di specialista in ortopedia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+Dopo l'art. 137, e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in nefrologia.  
+  
+Scuola di specializzazione in nefrologia  
+  
+Art. 138. - La scuola di specializzazione in nefrologia ha sede presso l'istituto di patologia medica e conferisce il diploma di specialista in nefrologia.  
+Art. 139. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine, in mancanza di questi la direzione della scuola puo' essere temporaneamente assunta dal professore incaricato della stessa disciplina.  
+Art. 140. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Art. 141. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
+Art. 142. - Il numero massimo degli allievi e' di quattro per anno di corso e complessivamente di sedici iscritti per l'intero corso di studi.  
+Art. 143. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 144. - Le materie di insegnamento sono le seguenti:  
+  
+1° Anno:  
+struttura ed ultrastruttura normale del rene;  
+aspetti biochimici della funzione renale;  
+fisiologia renale;  
+microbiologia ed immunologia applicata alla nefrologia;  
+genetica applicata alla nefrologia;  
+semeiotica renale I.  
+  
+2° Anno:  
+struttura ed ultrastruttura patologica del rene;  
+patologia del ricambio idroelettrolitico;  
+insufficienza renale;  
+rene e ipertensione arteriosa;  
+semiotica renale;  
+nefropatie tubulari.  
+  
+3° Anno:  
+nefropatie glomerulari;  
+nefropatie interstiziali;  
+nefropatie vascolari;  
+terapia dietetica e dialitica I;  
+farmacologica di interesse nefrologico.  
+  
+4° Anno:  
+nefrouropatie calcolotiche, malformative e neoplastiche;  
+terapia dietetica e dialitica II;  
+fisiopatologia e clinica del trapianto renale;  
+aspetti di nefrologia nell'eta' pediatrica;  
+problemi chirurgici in nefrologia;  
+terapia medica delle nefropatie.  
+  
+Art. 145. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Art. 146. - Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in nefrologia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e de decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1975
+### Dato a Roma, addi' 12 settembre 1978
 
-LEONE MALFATTI
+PERTINI PEDINI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 16 febbraio 1976
+Registrato alla Corte dei conti, addi' 13 novembre 1978
 
-Atti di Governo, registro n. 3, foglio n. 9
+Registro n. 121 Istruzione, foglio n. 168

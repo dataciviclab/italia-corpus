@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1986 n. 774
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 giugno 1953 n. 709
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1986 n. 774
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 giugno 1953 n. 709
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Catania.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regi decreti 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-16;1527); [15 aprile 1942, n. 424](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;424); [5 settembre 1942, n. 1235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1235); [24 ottobre 1942, n. 1596; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1596) [22 ottobre 1946, n. 423 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-22;423) [20 luglio 1948, n. 1160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-07-20;1160); [30 ottobre 1949, n. 994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;994); [30 ottobre 1949, n. 1167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1167); [30 ottobre 1950, n. 1305](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1305); [11 aprile 1951, n. 564](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;564); [27 ottobre 1951, n. 1793](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1793) e [11 febbraio 1952, n. 366](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-11;366);
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,150 +18,68 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' degli studi di Catania;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Considerato che e' tuttora in atto la sperimentazione organizzativa e didattica di cui agli [articoli 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art81) e [93 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art93);
-
-Considerato che le tabelle dell'ordinamento didattico universitario relative ai corsi di laurea sono in fase di riordinamento per effetto di apposite commissioni di studio e che anzi alcune tabelle sono gia' state riordinate;
-
-Rilevata quindi la necessita' di accogliere la richiesta dell'Universita' degli studi di Catania di istituire i corsi di laurea in ingegneria elettronica ed in ingegneria meccanica presso la facolta' di ingegneria;
-
-Rilevata anche la necessita' di adeguare le proposte degli organi accademici dell'Universita' di Catania alle tabelle dell'ordinamento didattico universitario;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati e cosi' ulteriormente modificato:
+
+Dopo l'attuale art. 34 e' aggiunto il seguente nuovo articolo relativo al corso di laurea in filosofia, con il conseguente spostamento della numerazione degli articoli successivi.
+
+Art. 15. - L'insegnamento di "storia della filosofia" e' propedeutico nell'iscrizione e nell'esame agli insegnamenti di "filosofia teoretica, filosofia morale e pedagogia".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 25 giugno 1953
+
+EINAUDI
+
+SEGNI
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 30 settembre 1953 Atti del Governo, registro n. 79, foglio n. 66. - PALLA
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regi decreti 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-16;1527); [15 aprile 1942, n. 424](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;424); [5 settembre 1942, n. 1235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1235); [24 ottobre 1942, n. 1596; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1596) [22 ottobre 1946, n. 423 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-22;423) [20 luglio 1948, n. 1160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-07-20;1160); [30 ottobre 1949, n. 994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;994); [30 ottobre 1949, n. 1167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1167); [30 ottobre 1950, n. 1305](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1305); [11 aprile 1951, n. 564](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;564); [27 ottobre 1951, n. 1793](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1793) e [11 febbraio 1952, n. 366](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-11;366);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Nell'art. 96, all'elenco delle lauree che conferisce la facolta' di ingegneria, sono aggiunte le seguenti lauree:   
-3) laurea in ingegneria elettronica;   
-4) laurea in ingegneria meccanica.   
-
-Art. 2
-------
-
+Decreta:  
   
-Dopo l'art. 103, con il conseguente scorrimento della numerazione degli articoli successivi, sono inseriti i seguenti articoli relativi all'ordinamento degli studi dei corsi di laurea in ingegneria elettronica ed in ingegneria meccanica:  
-Art. 104. Laurea in ingegneria elettronica. - Il corso di laurea in ingegneria elettronica comprende ventinove insegnamenti.  
-Biennio propedeutico:  
-1° Anno:  
-1) analisi matematica I;  
-2) geometria I;  
-3) fisica I;  
-4) chimica;  
-5) disegno.  
-2° Anno:  
-6) analisi matematica II;  
-7) geometria II;  
-8) meccanica razionale;  
-9) fisica II.  
-Triennio di applicazione:  
-1) componenti elettronici (\*);  
-2) scienza delle costruzioni;  
-3) meccanica delle macchine e macchine;  
-4) fisica tecnica;  
-5) elettrotecnica;  
-6) campi elettromagnetici e circuiti;  
-7) misure elettriche;  
-8) comunicazioni elettriche;  
-9) elettronica applicata;  
-10) controlli automatici;  
-11) radiotecnica;  
-12) teoria dei sistemi;  
-13) complementi di matematica;  
-14) sistemi per l'elaborazione dell'informazione.  
-Ai predetti insegnamenti e' da aggiungere un gruppo a scelta di sei materie, costituenti indirizzi di specializzazione che il consiglio di facolta' indichera' anno per anno nel manifesto degli studi.  
-Gli insegnamenti inseribili negli indirizzi di specializzazione sono:  
-programmazione dei calcolatori elettronici;  
-elettronica industriale;  
-tecnica della regolazione;  
-automazione;  
-modellistica e identificazione;  
-economia e tecnica aziendale;  
-tecnica delle microonde;  
-telefonia e trasmissione dei dati;  
-reti di calcolatori;  
-commutazione telegrafica e telefonica;  
-economia e tecnica aziendale;  
-calcolatori elettronici;  
-complementi di programmazione;  
-compilatori e sistemi operativi;  
-calcolatori elettronici II;  
-legislazione sul lavoro e sull'infortunistica.  
-Art. 105. - Per essere ammesso all'esame di laurea lo studente deve aver superato tutti gli esami degli insegnamenti prescritti nel piano ufficiale degli studi del corso di laurea e per l'indirizzo prescelto ovvero quelli previsti nel proprio piano individuale degli studi approvato dal consiglio di corso di laurea.  
-Lo studente deve presentare all'esame tesi, progetti o altri elaborati attinenti alle materie del corso di laurea in ingegneria elettronica, svolti sotto il controllo dei docenti di tali materie, con le modalita' stabilite dal consiglio di facolta'.  
-L'esame di laurea consiste nella discussione di detti elaborati, estesa in modo da accertare le conoscenze del candidato nelle materie attinenti al corso di laurea.  
-Art. 106. Laurea in ingegneria meccanica. - Il corso di laurea in ingegneria meccanica comprende ventinove insegnamenti.  
-Biennio propedeutico:  
-1° Anno:  
-1) analisi matematica I;  
-2) geometria I;  
-3) fisica I;  
-4) chimica;  
-5) disegno.  
-2° Anno:  
-6) analisi matematica II;  
-7) geometria II;  
-8) meccanica razionale;  
-9) fisica II.  
-Triennio di applicazione:  
-1) chimica applicata (\*);  
-2) scienza delle costruzioni;  
-3) meccanica applicata alle macchine;  
-4) fisica tecnica;  
-5) elettrotecnica;  
-6) idraulica;  
-7) macchine;  
-8) costruzioni di macchine;  
-9) impianti meccanici;  
-10) tecnologia meccanica;  
-11) calcolo e progetto di macchine;  
-12) dinamica e vibrazioni delle macchine;  
-13) misure meccaniche e termiche;  
-14) teoria dei sistemi.  
-Ai predetti insegnamenti e' da aggiungere un gruppo a scelta di sei materie, costituenti indirizzi di specializzazione che il consiglio di facolta' indichera' anno per anno nel manifesto degli studi.  
-Gli insegnamenti inseribili negli indirizzi di specializzazione sono:  
-programmazione dei calcolatori elettronici;  
-economia e tecnica aziendale;  
-disegno di macchine;  
-tecnica e progettazione automatica;  
-complementi di macchine;  
-legislazione sul lavoro e sull'infortunistica;  
-impianti termotecnici.  
-Art. 107. - Per essere ammesso all'esame di laurea lo studente deve aver superato tutti gli esami degli insegnamenti prescritti nel piano ufficiale degli studi del corso di laurea e per l'indirizzo prescelto, ovvero quelli previsti nel proprio piano individuale degli studi approvato dal consiglio di corso di laurea.  
-Lo studente deve presentare all'esame: tesi, progetti o altri elaborati attinenti alle materie del corso di laurea in ingegneria meccanica, svolti sotto il controllo dei docenti di tali materie, con le modalita' stabilite dal consiglio di facolta'.  
-(\*) Insegnamento anticipato al secondo anno ai sensi dell'[art. 2, comma terzo, del decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53~art2-com3).  
-L'esame di laurea consiste nella discussione di detti elaborati, estesa in modo da accertare le conoscenze del candidato nelle materie attinenti al corso di laurea.  
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati e cosi' ulteriormente modificato:  
+  
+Dopo l'attuale art. 34 e' aggiunto il seguente nuovo articolo relativo al corso di laurea in filosofia, con il conseguente spostamento della numerazione degli articoli successivi.  
+Art. 15. - L'insegnamento di "storia della filosofia" e' propedeutico nell'iscrizione e nell'esame agli insegnamenti di "filosofia teoretica, filosofia morale e pedagogia".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 agosto 1986
+### Dato a Roma, addi' 25 giugno 1953
 
-COSSIGA
+EINAUDI SEGNI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: GONELLA
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 30 settembre 1953
 
-Registrato alla Corte dei conti, addi' 10 novembre 1986
-
-Registro n. 83 Istruzione, foglio n. 38
+Atti del Governo, registro n. 79, foglio n. 66. - PALLA

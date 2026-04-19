@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 settembre 1956 n. 1381
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1979 n. 727
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 settembre 1956 n. 1381
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1979 n. 727
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -12,68 +12,80 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con i [regi decreti 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2169); [31 ottobre 1929, n. 2481](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1929-10-31;2481); [30 ottobre 1930, n. 1858](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1858); [22 ottobre 1931, n. 1422](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-22;1422); [27 ottobre 1932, n. 2082](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-10-27;2082); [13 dicembre 1934, n. 2404](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-13;2404); [1 ottobre 1936, n. 2020](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2020); [13 luglio 1939, n. 1168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-07-13;1168); [26 ottobre 1940, n. 2029](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2029); [24 ottobre 1942, n. 1785, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1785) [21 aprile 1949, n. 451](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;451); [31 ottobre 1950, n. 1293](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1293); [11 maggio 1951, n. 633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-05-11;633); [23 gennaio 1952, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;66); [25 giugno 1953, n. 753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-06-25;753); [30 luglio 1953, n. 758](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;758); [25 agosto 1953, n. 857](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;857); [25 agosto 1953, n. 992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;992); [14 settembre 1954, n. 1198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1198); [11 aprile 1955, n. 621](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-04-11;621); [31 agosto 1955, n. 896](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-08-31;896); [25 settembre 1955, n. 958](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-25;958) e [25 febbraio 1956, n. 298](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-02-25;298);  
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Veduta la [legge 3 novembre 1954, n. 1085](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-11-03;1085);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Dopo l'art. 278 sono istituiti i seguenti nuovi articoli relativi alla istituzione della scuola diretta a fini speciali di preparazione per tecnici di logopedia:  
   
-Al cap. III - Facolta' di economia e commercio - dopo l'ordinamento del corso di laurea in economia e commercio, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione del corso di laurea in lingue e letterature straniere, con il conseguente spostamento della numerazione degli articoli successivi.  
+Scuola di preparazione per tecnici di logopedia  
+(Scuola diretta a fini speciali)  
   
-Laurea in lingue e letterature straniere  
-Art. 20. - La durata del corso degli studi per la laurea in lingue e letterature straniere e' di quattro anni.  
-Titolo di ammissione: diploma di maturita' classica, di maturita' scientifica, di abilitazione magistrale o licenza, a norma dell'[art. 2 della legge 9 ottobre 1951, n. 1130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-10-09;1130~art2), dalla Scuola civica "Regina Margherita" di Genova, ora "Grazia Deledda", o dalla Scuola civica "Alessandro Manzoni" di Milano o dall'Istituto di cultura e lingue "Marcelline" di Milano.  
-Sono insegnamenti fondamentali:  
-1) lingua e letteratura italiana (biennale);  
-2) lingua e letteratura latina (biennale);  
-3) lingua e letteratura francese;  
-4) lingua e letteratura inglese;  
-5) lingua e letteratura tedesca;  
-6) lingua e letteratura spagnola;  
-7) filologia romanza;  
-8) filologia germanica;  
-9) storia (biennale);  
-10) geografia.  
-Sono insegnamenti complementari:  
-1) storia della filosofia;  
-2) filosofia;  
-3) pedagogia;  
-4) lingua e letteratura russa;  
-5) lingua serbo-croata;  
-6) lingua e letteratura araba;  
-7) lingua albanese;  
-8) istituzioni economiche e commerciali;  
-9) lingua e letteratura polacca;  
-10) storia del commercio con l'Oriente;  
-11) lingua e letteratura neo-greca;  
-12) lingua e letteratura portoghese.  
-Lo studente deve seguire per tutti i quattro anni l'insegnamento della lingua straniera alla quale intende dedicare i suoi studi e per due anni quello di un'altra delle lingue straniere; egli puo' inoltre seguire, pure per due anni, l'insegnamento di una terza lingua straniera, nel qual caso puo' diminuire di uno gli insegnamenti complementari.  
-Nel corso di "storia" (biennale) un anno deve essere dedicato alla storia medioevale ed un anno alla storia moderna, alternativamente.  
-Tutti gl'insegnamenti, sia annuali che pluriennali, comportano un esame alla fine di ciascun anno di corso.  
-E' obbligatoria una prova scritta di italiano, nonche' una di traduzione latina al secondo anno, indipendentemente dagli esami orali delle rispettive materie.  
-L'esame della lingua e letteratura straniera scelta come materia quadriennale consta, ogni anno, di una prova scritta e di una prova orale. La prova scritta per il quarto anno sara' di cultura generale.  
-Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superato gli esami in tutti gl'insegnamenti fondamentali ed almeno in tre da lui scelti fra i complementari.  
-Art. 21. - L'esame di laurea consiste nella discussione di una tesi scritta su argomento concordato almeno un anno prima con il professore della lingua scelta dallo studente come quadriennale. La tesi deve essere redatta nella lingua straniera; e' tuttavia concesso allo studente, secondo le indicazioni del professore della materia, di potere svolgere tutta la tesi o parte di essa in italiano. La discussione orale sulla tesi si svolgera' preferibilmente in lingua straniera.  
+Art. 279. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una scuola speciale di preparazione per tecnici di logopedia che ha sede presso la cattedra di bioacustica dell'Universita'.  
+Art. 280. - La durata del corso degli studi della scuola di preparazione per tecnici di logopedia e' di tre anni.  
+L'indirizzo e' teorico-pratico.  
+Il numero massimo complessivo degli iscritti alla scuola e' di quindici (cinque per anno di corso).  
+Art. 281. - Possono essere ammessi alla scuola coloro che siano in possesso del titolo di studio per l'ammissione all'universita' o a istituto di istruzione universitaria. Gli aspiranti devono, nei termini regolamentari, presentare apposita domanda su carta legale diretta al rettore e corredata dei prescritti documenti e sostenere un esame di ammissione che avra' luogo nei giorni stabiliti dal rettore con apposito manifesto.  
+Le domande di iscrizione ad anni successivi al primo vanno presentate nei termini regolamentari.  
+Art. 282. - Alla scuola si accede previo esame di cultura generale su argomenti facenti parte dei normali programmi dei licei e degli istituti di istruzione secondaria, con particolare riguardo alla parte dell'insegnamento di fisica acustica.  
+La commissione giudicatrice viene nominata dal preside della facolta' di medicina e chirurgia ed e' composta dal direttore della scuola, presidente, e da due membri scelti fra professori di ruolo, incaricati e liberi docenti.  
+Art. 283. - Il direttore della scuola e' il professore di ruolo di bioacustica dell'Universita' di Bari.  
+Gli incarichi di insegnamento sono conferiti dal rettore, su proposta del consiglio di facolta' di medicina e chirurgia, udito il direttore della scuola.  
+Art. 284. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria.  
+Le date di inizio e termine delle lezioni sono di regola eguali a quelle fissate per l'anno accademico. Tali date, tuttavia, possono essere spostate per ragioni speciali inerenti la natura dei corsi.  
+Art. 285. - Le materie di insegnamento sono:  
+1° Anno:  
+anatomia degli organi e dei sistemi audio-fono-articolatori;  
+elementi di fisica acustica e tecniche di fonometria;  
+psicologia generale;  
+elementi di audiologia;  
+elementi di fonetica e di linguistica;  
+fisiologia degli organi e dei sistemi audio-fono-articolatori. 2° Anno:  
+foniatria I;  
+tecniche di riabilitazione fonetica I;  
+semeiotica foniatrica;  
+fonetica sperimentale;  
+psicologia del linguaggio;  
+tecniche audiometriche.  
+3° Anno:  
+foniatria II;  
+tecniche di riabilitazione II;  
+riabilitazione protesica;  
+neuropsichiatria infantile;  
+tecniche di psicomotricita';  
+psicopedagogia.  
+Art. 286. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo per gli allievi di esercitazione pratica per un periodo di due anni nei reparti di audiologia e di logopedia della cattedra di bioacustica.  
+La frequenza viene comprovata dall'attestazione rilasciata dagli insegnanti sul libretto di iscrizione. L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.  
+Art. 287. - Le commissioni per gli esami di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Le commissioni per gli esami di profitto sono composte di tre membri: il direttore della scuola, presidente, e da due insegnanti della scuola stessa. La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro insegnanti della scuola stessa e da altri docenti. Ogni commissario ha a sua disposizione dieci punti.  
+L'esame di diploma consiste, a scelta del candidato, o nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento, eventualmente integrata da una prova pratica stabilita dalla commissione esaminatrice, o in un esame generale teorico-pratico.  
+I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola, ma se al secondo anno non sia loro riconosciuta la idoneita', saranno senz'altro esclusi da ulteriori prove.  
+Agli allievi che avranno superato l'esame finale, verra' rilasciato il diploma di tecnico di logopedia.  
+Art. 288. - Per poter essere ammessi a frequentare gli anni di corso successivi al primo, gli iscritti devono aver superato gli esami dell'anno precedente. Alla fine del terzo anno di corso, per essere ammessi all'esame di diploma, gli iscritti devono aver superato tutti gli esami prescritti.  
+Art. 289. - Gli esami di profitto e di diploma si danno in due sessioni; la prima, estiva, ha inizio subito dopo la chiusura annuale dei corsi e la seconda, un mese innanzi il principio del nuovo anno accademico.  
+Art. 290. - Il consiglio di amministrazione dell'Universita', su proposta della direzione della scuola, approvata dal consiglio di facolta', stabilira' di anno in anno l'ammontare dei contributi.  
+Le tasse e soprattasse annuali a carico degli iscritti resteranno cosi' destinate:  
+  
+tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 15.000 soprattassa annuale di esami . . . . . . . . . . . . . . . . L. 7.000 tassa erariale di diploma. . . . . . . . . . . . . . . . . . L. 6.000 tassa annuale di iscrizione studenti fuoricorso. . . . . . . L. 8.000   
+Art. 291. - Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni e contributi di enti pubblici o di privati.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 settembre 1956
+### Dato a Roma, addi' 9 ottobre 1979
 
-GRONCHI ROSSI
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 17 dicembre 1956
+Registrato alla Corte dei conti, addi' 16 gennaio 1980
 
-Atti del Governo, registro n. 102, foglio n. 106. - CARLOMAGNO
+Registro n. 2 Istruzione, foglio n. 103

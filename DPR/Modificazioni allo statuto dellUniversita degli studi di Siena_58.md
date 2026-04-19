@@ -1,85 +1,260 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979 n. 538
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1974 n. 782
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979 n. 538
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1974 n. 782
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831), e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Dopo l'art. 167 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia d'urgenza e pronto soccorso:
+
+Scuola di specializzazione in chirurgia d'urgenza e pronto soccorso
+
+Art. 168. - La scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso ha sede presso gli istituti di clinica chirurgica generale e terapia chirurgica, di patologia speciale chirurgica e di semeiotica chirurgica dell'Universita' di Siena.
+
+Il corso degli studi per il conseguimento del diploma di specialista in chirurgia generale d'urgenza e di pronto soccorso ha la durata di due anni accademici.
+
+Alla scuola possono iscriversi i laureati in medicina e chirurgia che abbiano superato con profitto gli esami del terzo anno della scuola di specializzazione in chirurgia e che saranno pertanto esclusi dalla prosecuzione di quest'ultima; gli specialisti in chirurgia generale e i docenti in branche chirurgiche a indirizzo clinico.
+
+Il numero massimo complessivo degli iscritti alla scuola e' di 15 (quindici) per ogni anno di corso per un totale di 30 (trenta) iscritti.
+
+Art. 169. - Le materie di insegnamento del corso sono le seguenti:
+
+1) Chirurgia generale d'urgenza e di pronto soccorso (biennale);
+
+2) Chirurgia cardio-vascolare d'urgenza;
+
+3) Chirurgia ginecologica d'urgenza;
+
+4) Chirurgia plastica e riparatrice (biennale);
+
+5) Chirurgia pediatrica d'urgenza;
+
+6) Chirurgia toracica d'urgenza (biennale);
+
+7) Chirurgia urologica d'urgenza;
+
+8) Fisiopatologia del politraumatizzato;
+
+9) Neurotraumatologia (biennale);
+
+10) Radiologia;
+
+11) Rianimazione;
+
+12) Ricerche di laboratorio in chirurgia d'urgenza;
+
+13) Semeiologia chirurgica nell'urgenza;
+
+14) Trattamento del politraumatizzato;
+
+15) Trattamento pre e post-operatorio in chirurgia d'urgenza;
+
+16) Traumatologia dell'apparato locomotore (biennale);
+
+17) Traumatologia maxillo-facciale;
+
+18) Valutazione medico-legale delle lesioni chirurgiche.
+
+Art. 170. - Le materie sopra elencate sono cosi' distribuite:
+
+1° Anno:
+
+1) Chirurgia generale d'urgenza e di pronto soccorso (biennale) (1°);
+
+2) Chirurgia cardio-vascolare d'urgenza;
+
+3) Chirurgia ginecologica d'urgenza;
+
+4) Chirurgia pediatrica d'urgenza;
+
+5) Chirurgia plastica e riparatrice (biennale) (1°);
+
+6) Chirurgia toracica d'urgenza (biennale) (1°);
+
+7) Neurotraumatologia (biennale) (1°);
+
+8) Ricerche di laboratorio in chirurgia d'urgenza;
+
+9) Radiologia;
+
+10) Semeiologia chirurgica d'urgenza;
+
+11) Traumatologia dell'apparato locomotore (biennale) (1°);
+
+12) Trattamento pre e post-operatorio in chirurgia d'urgenza.
+
+2° Anno:
+
+1) Chirurgia generale d'urgenza e di pronto soccorso (biennale) (2°);
+
+2) Chirurgia plastica e riparatrice (biennale) (2°);
+
+3) Chirurgia toracica d'urgenza (biennale) (2°);
+
+4) Chirurgia urologica d'urgenza;
+
+5) Neurotraumatologia (biennale) (2°);
+
+6) Traumatologia maxillo-facciale;
+
+7) Traumatologia dell'apparato locomotore (biennale) (2°);
+
+8) Fisiopatologia del politraumatizzato;
+
+9) Trattamento del politraumatizzato;
+
+10) Rianimazione;
+
+11) Valutazione medico-legale delle lesioni chirurgiche.
+
+Art. 171. - La frequenza alle lezioni ed alle esercitazioni e ai seminari e' obbligatoria per tutti gli iscritti.
+
+L'internato e' obbligatorio durante tutti i due anni del corso sotto forma di permanenza costante in istituto durante le ore della sua attivita'.
+
+Tale internato avra' la durata annuale di almeno sei mesi.
+
+Dall'obbligo di tale internato potranno essere esentati, valutato caso per caso, quegli allievi che, in qualita' di assistenti o di aiuti, prestino effettivamente servizio presso reparti di chirurgia d'urgenza e di pronto soccorso delle universita' e di ospedali generali regionali o provinciali.
+
+Alla fine del primo anno di corso gli specializzandi, per poter ottenere l'ammissione all'anno successivo, dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno in corso.
+
+L'esame di diploma consiste nella discussione di una tesi scritta su un tema preventivamente approvato dal direttore della scuola.
+
+Le norme per l'iscrizione, gli esami, le tasse, ecc. sono quelle generali per le scuole di specializzazione dell'Universita'.
+
+Art. 172. - La direzione della scuola sara' affidata dalla facolta' a turno ai tre direttori degli istituti di clinica chirurgica, di patologia chirurgica e di semeiotica chirurgica.
+
+Art. 173. - Tassa d'immatricolazione (1° anno di corso) L. 12.000; tassa d'iscrizione (ogni anno di corso) L. 100.000; sopratassa esami (ogni anno di corso) lire 16.000; contributi di laboratorio (ogni anno di corso) L. 14.000; tassa di diploma L. 20.000.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 28 ottobre 1974
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 27 gennaio 1975 Atti di Governo, registro n. 8, foglio n. 41
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831), e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Dopo l'art. 167 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia d'urgenza e pronto soccorso:  
   
-Dopo l'art. 227 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in logica matematica presso la facolta' di scienze matematiche, fisiche e naturali.   
+Scuola di specializzazione in chirurgia d'urgenza e pronto soccorso  
   
-SCUOLE DI SPECIALIZZAZIONE ANNESSE ALLA FACOLTA'   
-DI SCIENZE MATEMATICHE, FISICHE E NATURALI   
-  
-Scuola di specializzazione in logica matematica   
-Art. 228. - E' istituita presso l'Universita' di Siena una scuola di specializzazione in logica matematica. La scuola fa capo alla facolta' di scienze matematiche, fisiche e naturali.   
-Art. 229. - La durata della scuola e' di due anni: titolo di ammissione e' la laurea in matematica. Potranno essere ammessi anche studenti con altro tipo di laurea, con la modalita' prevista nell'articolo seguente.   
-Art. 230. - Per gli studenti che non sono in possesso della laurea in matematica, una commissione nominata dalla facolta' prescrivera', previo colloquio con l'interessato, una opportuna integrazione del piano di studi.   
-Art. 231. - Al primo anno sono insegnamenti obbligatori:   
-logica I;   
-ricorsivita' I;   
-teoria degli insiemi I.   
-Al secondo anno sono insegnamenti obbligatori:   
-logica II,   
-(e, inoltre, almeno due insegnamenti scelti dallo studente fra i seguenti):   
-complementi di logica;   
-logica applicata;   
-ricorsivita' II;   
-complementi di matematica;   
-algebra della logica;   
-storia della logica;   
-teoria degli insiemi II;   
-teoria dei modelli;   
-teoria della dimostrazione.   
-Art. 232. - Il corso si conclude con un esame finale che consiste nella discussione di una tesi scritta. La tesi deve avere carattere originale. Agli studenti che abbiano superato tale prova la scuola rilascia un diploma di specializzazione in logica matematica.   
-Art. 233. - La facolta' potra' stabilire anno per anno che altri insegnamenti impartiti nell'Universita' di Siena possano sostituire a tutti gli effetti alcuni fra gli insegnamenti elencati nell'art. 231.   
-Art. 234. - Ogni insegnamento comporta un esame da svolgersi con le modalita' previste per gli esami universitari in genere.   
-Art. 235. - I docenti della scuola sono nominati dalla facolta' e possono essere: a) cultori della materia retribuiti a carico dello Stato o della Universita', cui verra' attribuito l'incarico con le modalita' previste dalla legge per i professori incaricati; b) professori visitatori a carico del Consiglio nazionale delle ricerche.   
-Art. 236. - Nel prendere decisioni circa la scuola, la facolta' si avvale dell'opera di un consiglio della scuola costituito:   
-a) da tre esperti nominati dalla facolta' per un biennio;   
-b) dai docenti nella situazione a) di cui all'art. 235;   
-c) da due rappresentanti degli studenti.   
-Il consiglio nomina un direttore che entra a farne parte e dura in carica due anni. Il direttore esegue o fa eseguire, in stretto collegamento con il consiglio, le decisioni della facolta' e del consiglio stesso.   
-Art. 237. - L'ammontare delle tasse di frequenza alla scuola e' cosi' fissato:   
-  
-  
-tassa di immatricolazione (primo anno di corso) . . . . .L. 12.000 tassa di iscrizione (ogni anno di corso) . . . . . . . . L. 200.000 soprattassa esami (ogni anno di corso). . . . . . . . . .L. 16.000 contributi di biblioteca (ogni anno di corso) . . . . . .L. 14.000 tassa di diploma (ultimo anno di corso) . . . . . . . . .L. 20.000 tassa di trasferimento per altre sedi . . . . . . . . . .L. 10.000 tassa di registrazione congedi provenienti da altre sedi L. 2.000  
-rilascio diploma originale (oltre alla tassa erariale) per valore dello speciale stampato e delle spese inerenti alla compilazione da parte del calligrafo . . . . . . . . . . . . . . . . . . . L. 6.000  
-  
-  
-  
-Art. 238. - Per quanto riguarda i locali, i servizi di biblioteca, le aule, la scuola fa capo all'istituto di matematica della facolta' di scienze matematiche, fisiche e naturali ed al corso di laurea in matematica.   
+Art. 168. - La scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso ha sede presso gli istituti di clinica chirurgica generale e terapia chirurgica, di patologia speciale chirurgica e di semeiotica chirurgica dell'Universita' di Siena.  
+Il corso degli studi per il conseguimento del diploma di specialista in chirurgia generale d'urgenza e di pronto soccorso ha la durata di due anni accademici.  
+Alla scuola possono iscriversi i laureati in medicina e chirurgia che abbiano superato con profitto gli esami del terzo anno della scuola di specializzazione in chirurgia e che saranno pertanto esclusi dalla prosecuzione di quest'ultima; gli specialisti in chirurgia generale e i docenti in branche chirurgiche a indirizzo clinico.  
+Il numero massimo complessivo degli iscritti alla scuola e' di 15 (quindici) per ogni anno di corso per un totale di 30 (trenta) iscritti.  
+Art. 169. - Le materie di insegnamento del corso sono le seguenti:  
+1) Chirurgia generale d'urgenza e di pronto soccorso (biennale);  
+2) Chirurgia cardio-vascolare d'urgenza;  
+3) Chirurgia ginecologica d'urgenza;  
+4) Chirurgia plastica e riparatrice (biennale);  
+5) Chirurgia pediatrica d'urgenza;  
+6) Chirurgia toracica d'urgenza (biennale);  
+7) Chirurgia urologica d'urgenza;  
+8) Fisiopatologia del politraumatizzato;  
+9) Neurotraumatologia (biennale);  
+10) Radiologia;  
+11) Rianimazione;  
+12) Ricerche di laboratorio in chirurgia d'urgenza;  
+13) Semeiologia chirurgica nell'urgenza;  
+14) Trattamento del politraumatizzato;  
+15) Trattamento pre e post-operatorio in chirurgia d'urgenza;  
+16) Traumatologia dell'apparato locomotore (biennale);  
+17) Traumatologia maxillo-facciale;  
+18) Valutazione medico-legale delle lesioni chirurgiche.  
+Art. 170. - Le materie sopra elencate sono cosi' distribuite:  
+1° Anno:  
+1) Chirurgia generale d'urgenza e di pronto soccorso (biennale) (1°);  
+2) Chirurgia cardio-vascolare d'urgenza;  
+3) Chirurgia ginecologica d'urgenza;  
+4) Chirurgia pediatrica d'urgenza;  
+5) Chirurgia plastica e riparatrice (biennale) (1°);  
+6) Chirurgia toracica d'urgenza (biennale) (1°);  
+7) Neurotraumatologia (biennale) (1°);  
+8) Ricerche di laboratorio in chirurgia d'urgenza;  
+9) Radiologia;  
+10) Semeiologia chirurgica d'urgenza;  
+11) Traumatologia dell'apparato locomotore (biennale) (1°);  
+12) Trattamento pre e post-operatorio in chirurgia d'urgenza.  
+2° Anno:  
+1) Chirurgia generale d'urgenza e di pronto soccorso (biennale) (2°);  
+2) Chirurgia plastica e riparatrice (biennale) (2°);  
+3) Chirurgia toracica d'urgenza (biennale) (2°);  
+4) Chirurgia urologica d'urgenza;  
+5) Neurotraumatologia (biennale) (2°);  
+6) Traumatologia maxillo-facciale;  
+7) Traumatologia dell'apparato locomotore (biennale) (2°);  
+8) Fisiopatologia del politraumatizzato;  
+9) Trattamento del politraumatizzato;  
+10) Rianimazione;  
+11) Valutazione medico-legale delle lesioni chirurgiche.  
+Art. 171. - La frequenza alle lezioni ed alle esercitazioni e ai seminari e' obbligatoria per tutti gli iscritti.  
+L'internato e' obbligatorio durante tutti i due anni del corso sotto forma di permanenza costante in istituto durante le ore della sua attivita'.  
+Tale internato avra' la durata annuale di almeno sei mesi.  
+Dall'obbligo di tale internato potranno essere esentati, valutato caso per caso, quegli allievi che, in qualita' di assistenti o di aiuti, prestino effettivamente servizio presso reparti di chirurgia d'urgenza e di pronto soccorso delle universita' e di ospedali generali regionali o provinciali.  
+Alla fine del primo anno di corso gli specializzandi, per poter ottenere l'ammissione all'anno successivo, dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno in corso.  
+L'esame di diploma consiste nella discussione di una tesi scritta su un tema preventivamente approvato dal direttore della scuola.  
+Le norme per l'iscrizione, gli esami, le tasse, ecc. sono quelle generali per le scuole di specializzazione dell'Universita'.  
+Art. 172. - La direzione della scuola sara' affidata dalla facolta' a turno ai tre direttori degli istituti di clinica chirurgica, di patologia chirurgica e di semeiotica chirurgica.  
+Art. 173. - Tassa d'immatricolazione (1° anno di corso) L. 12.000; tassa d'iscrizione (ogni anno di corso) L. 100.000; sopratassa esami (ogni anno di corso) lire 16.000; contributi di laboratorio (ogni anno di corso) L. 14.000; tassa di diploma L. 20.000.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 giugno 1979
+### Dato a Roma, addi' 28 ottobre 1974
 
-PERTINI SPADOLINI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 23 ottobre 1979
+Registrato alla Corte dei conti, addi' 27 gennaio 1975
 
-Registro n. 77 Istruzione, foglio n. 44
+Atti di Governo, registro n. 8, foglio n. 41

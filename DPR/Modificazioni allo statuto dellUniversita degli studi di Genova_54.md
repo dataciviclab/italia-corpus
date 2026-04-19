@@ -1,22 +1,143 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 dicembre 1969 n. 1061
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1168
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 dicembre 1969 n. 1061
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1168
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+l'art. 122, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato, nel senso che la scuola di "Pediatria" muta la denominazione in quella di "Clinica pediatrica".
+
+Gli articoli 141, 142, 143, 144, 145 e 146 relativi alla scuola di specializzazione in pediatria che assume la denominazione di scuola di specializzazione in clinica pediatrica, sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in clinica pediatrica
+
+Art. 141. - Presso l'istituto di clinica pediatrica e' istituita la scuola di specializzazione in clinica pediatrica, che ha lo scopo di conferire la necessaria competenza a coloro che vogliono dedicarsi all'esercizio della medicina infantile. Il diploma, che viene rilasciato in seguito ad esame, attribuisce la qualifica di specialista in clinica pediatrica.
+
+Art. 142. - Materie d'insegnamento:
+
+1° Anno:
+
+Clinica pediatrica (triennale);
+
+Patologia pediatrica (biennale);
+
+Puericultura (biennale);
+
+Semeiotica pediatrica e tecnica diagnostica (biennale);
+
+Auxologia normale e patologica (annuale);
+
+Psicologia dell'eta' evolutiva (annuale).
+
+2° Anno:
+
+Clinica pediatrica;
+
+Patologia pediatrica;
+
+Puericultura;
+
+Semeiotica pediatrica e tecnica diagnostica;
+
+Terapia pediatrica (annuale);
+
+Radiologia pediatrica (annuale);
+
+Malattie infettive dell'infanzia (annuale).
+
+3° Anno:
+
+Clinica pediatrica;
+
+Neuropsichiatria ed igiene mentale dell'infanzia.
+
+Le materie fondamentali sopraelencate saranno integrate a giudizio del consiglio della scuola da almeno tre insegnamenti scelti fra i seguenti:
+
+Chirurgia pediatrica;
+
+Ortopedia e traumatologia infantile;
+
+Odontoiatria;
+
+Clinica dermosifilopatica;
+
+Clinica oculistica;
+
+Clinica otorinolaringoiatrica;
+
+Cardiologia;
+
+Genetica;
+
+ed altre eventuali che il consiglio della scuola puo' stabilire di anno in anno.
+
+Il direttore della scuola, inoltre, puo' disporre che si tengano un certo numero di conferenze su argomenti di interesse pediatrico.
+
+Art. 143. - Il corso ha la durata di 3 anni. L'insegnamento ha carattere essenzialmente dimostrativo e pratico. L'iscrizione direttamente al secondo anno del corso puo' essere consentita, a giudizio del consiglio della scuola, per i candidati che abbiano conseguito il diploma di specializzazione in puericultura o che abbiano titoli pediatrici.
+
+Art. 144. - Alla scuola di specializzazione in clinica pediatrica sono ammessi complessivamente settanta iscritti.
+
+Gli iscritti hanno l'obbligo di internato, obbligatorio per tutto il triennio nella clinica pediatrica.
+
+Sono concessi due mesi di ferie all'anno.
+
+E' obbligatoria l'assidua frequenza a tutti i corsi di insegnamento compresi quelli integrativi.
+
+Art. 145. - Al corso possono iscriversi solo i laureati in medicina e chirurgia. Le norme di iscrizione, pagamento tasse, esami, ecc. sono quelle generali delle scuole di specializzazione e di perfezionamento riferite negli articoli da 122 a 137 di questo statuto.
+
+Art. 146. - Per conseguire il diploma di specializzazione in pediatria gli iscritti al corso, dopo aver superato tutti gli esami e completata la frequenza obbligatoria, dovranno presentare e discutere una dissertazione scritta su di un argomento di pediatria.
+
+Il diploma di specialista cosi' conseguito e' valido a tutti gli effetti di legge.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 30 ottobre 1970
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 9 gennaio 1971 Atti del Governo, registro n. 240, foglio n. 18. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 318](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;318);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -25,25 +146,61 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 50. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
+l'art. 122, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato, nel senso che la scuola di "Pediatria" muta la denominazione in quella di "Clinica pediatrica".  
+Gli articoli 141, 142, 143, 144, 145 e 146 relativi alla scuola di specializzazione in pediatria che assume la denominazione di scuola di specializzazione in clinica pediatrica, sono abrogati e sostituiti dai seguenti:  
   
-Audiologia;  
-Ottica fisiopatologica;  
-Chirurgia vascolare;  
-Radiobiologia;  
-Chirurgia d'urgenza;  
-Tossicologia forense.  
+Scuola di specializzazione in clinica pediatrica  
+  
+Art. 141. - Presso l'istituto di clinica pediatrica e' istituita la scuola di specializzazione in clinica pediatrica, che ha lo scopo di conferire la necessaria competenza a coloro che vogliono dedicarsi all'esercizio della medicina infantile. Il diploma, che viene rilasciato in seguito ad esame, attribuisce la qualifica di specialista in clinica pediatrica.  
+Art. 142. - Materie d'insegnamento:  
+1° Anno:  
+Clinica pediatrica (triennale);  
+Patologia pediatrica (biennale);  
+Puericultura (biennale);  
+Semeiotica pediatrica e tecnica diagnostica (biennale);  
+Auxologia normale e patologica (annuale);  
+Psicologia dell'eta' evolutiva (annuale).  
+2° Anno:  
+Clinica pediatrica;  
+Patologia pediatrica;  
+Puericultura;  
+Semeiotica pediatrica e tecnica diagnostica;  
+Terapia pediatrica (annuale);  
+Radiologia pediatrica (annuale);  
+Malattie infettive dell'infanzia (annuale).  
+3° Anno:  
+Clinica pediatrica;  
+Neuropsichiatria ed igiene mentale dell'infanzia.  
+Le materie fondamentali sopraelencate saranno integrate a giudizio del consiglio della scuola da almeno tre insegnamenti scelti fra i seguenti:  
+Chirurgia pediatrica;  
+Ortopedia e traumatologia infantile;  
+Odontoiatria;  
+Clinica dermosifilopatica;  
+Clinica oculistica;  
+Clinica otorinolaringoiatrica;  
+Cardiologia;  
+Genetica;  
+ed altre eventuali che il consiglio della scuola puo' stabilire di anno in anno.  
+Il direttore della scuola, inoltre, puo' disporre che si tengano un certo numero di conferenze su argomenti di interesse pediatrico.  
+Art. 143. - Il corso ha la durata di 3 anni. L'insegnamento ha carattere essenzialmente dimostrativo e pratico. L'iscrizione direttamente al secondo anno del corso puo' essere consentita, a giudizio del consiglio della scuola, per i candidati che abbiano conseguito il diploma di specializzazione in puericultura o che abbiano titoli pediatrici.  
+Art. 144. - Alla scuola di specializzazione in clinica pediatrica sono ammessi complessivamente settanta iscritti.  
+Gli iscritti hanno l'obbligo di internato, obbligatorio per tutto il triennio nella clinica pediatrica.  
+Sono concessi due mesi di ferie all'anno.  
+E' obbligatoria l'assidua frequenza a tutti i corsi di insegnamento compresi quelli integrativi.  
+Art. 145. - Al corso possono iscriversi solo i laureati in medicina e chirurgia. Le norme di iscrizione, pagamento tasse, esami, ecc. sono quelle generali delle scuole di specializzazione e di perfezionamento riferite negli articoli da 122 a 137 di questo statuto.  
+Art. 146. - Per conseguire il diploma di specializzazione in pediatria gli iscritti al corso, dopo aver superato tutti gli esami e completata la frequenza obbligatoria, dovranno presentare e discutere una dissertazione scritta su di un argomento di pediatria.  
+Il diploma di specialista cosi' conseguito e' valido a tutti gli effetti di legge.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 dicembre 1969
+### Dato a Roma, addi' 30 ottobre 1970
 
-SARAGAT FERRARI AGGRADI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 15 gennaio 1970
+Registrato alla Corte dei conti, addi' 9 gennaio 1971
 
-Atti del Governo, registro n. 231, foglio n. 32. - CARUSO
+Atti del Governo, registro n. 240, foglio n. 18. - CARUSO

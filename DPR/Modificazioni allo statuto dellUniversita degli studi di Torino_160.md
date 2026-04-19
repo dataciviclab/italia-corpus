@@ -1,96 +1,121 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1954 n. 741
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 959
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1954 n. 741
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 959
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli, studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli stadi di Torino, approvato con [regio decreto 20 aprile 1939, n. 1118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1118) e modificato con i [regi decreti 12 gennaio 1941, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-01-12;34); [27 aprile 1942, n. 571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;571); [5 settembre 1942, n. 1237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1237) e [24 ottobre 1942, n. 1438, con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1438) [4 febbraio 1947, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-04;196) e [7 marzo 1947, n. 1727 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-03-07;1727) [26 febbraio 1949, n. 430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;430); [21 aprile 1949, n. 613](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;613); [1 settembre 1949, n. 816](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-01;816); [13 marzo 1950, n. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;599); [30 ottobre 1950, n. 1125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1125); [31 ottobre 1950, n. 1310](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1310); [30 giugno 1951, n. 1148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-30;1148); [27 ottobre 1951, n. 1794](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1794); [25 luglio 1952, n. 1352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1352); [16 ottobre 1952, n. 4554](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-16;4554); [26 ottobre 1952, n. 4506](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4506); [30 ottobre 1952, n. 4483](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-30;4483); [11 marzo 1953, n. 573](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;573); [11 marzo 1953, n. 576](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;576) e [12 ottobre 1953, n. 1046](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-10-12;1046);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
+Gli articoli da 192 a 202 relativi alle norme generali delle scuole di specializzazione sono soppressi.   
+
+Art. 2
+------
+
   
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 68, relativo al corso di laurea in medicina veterinaria al comma settimo e' aggiunto quanto appresso:  
-"L'insegnamento biennale di " patologia generale e anatomia patologica " comporta un esame alla fine di ciascun anno di corso".  
-Dopo l'art. 73, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione di una "Scuola di specializzazione in scienza e tecnologia dei polimeri" e di un "corso di perfezionamento in scienza dei polimeri", col conseguente spostamento della numerazione degli articoli successivi.  
+Dopo l'art. 191 e con il conseguente spostamento della numerazione degli articoli successivi sono aggiunti i seguenti nuovi articoli relativi alla istituzione delle norme generali relative a tutte le scuole di specializzazione.  
   
-SCUOLE E CORSI DI PERFEZIONAMENTO E DI SPECIALIZZAZIONE  
-ANNESSE ALLA FACOLTA' DI SCIENZE MATEMATICHE, FISICHE  
-E NATURALI.  
   
-Scuola di specializzazione in scienza e tecnologia dei polimeri.  
-Art. 74. - Alla Facolta' di scienze matematiche, fisiche e naturali e' annessa una scuola di specializzazione in scienza e tecnologia dei polimeri, avente lo scopo di dare, mediante corsi teorici e pratici, una preparazione specifica nella chimica e fisica della polimerizzazione e nelle tecnologie dei plastomeri, elastomeri, ecc., conferendo la qualifica di specialista a norma dell'[art. 178 del regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592~art178).  
-Art. 75. - Il corso della scuola ha la durata di due anni. Durante il biennio vengono impartiti insegnamenti teorici e svolte esercitazioni pratiche.  
-Art. 76. - Gli insegnamenti sono distinti in fondamentali e complementari.  
-Insegnamenti fondamentali:  
-Complementi di chimica;  
-Chimica fisica della polimerizzazione;  
-Tecnologia della polimerizzazione;  
-Chimica industriale degli alti polimeri;  
-Merceologia dei plastici.  
-Insegnamenti complementari:  
-Chimica colloidale;  
-Plastomeri;  
-Elastomeri;  
-Fibre tessili;  
-Vernici;  
-Biochimica e biofisica macromolecolare.  
-Verranno inoltre tenuti brevi cicli di lezioni su argomenti monografici e di attualita', conferenze, seminari.  
-L'insegnamento potra' eventualmente essere integrato da visite e da permanenza in stabilimenti specializzati.  
-Art. 77. - Sono ammessi alla scuola di specializzazione i laureati in chimica e chimica industriale, in fisica, in ingegneria chimica; i laureati in farmacia, in medicina e chirurgia e in scienze naturali dovranno previamente superare un colloquio di cultura in chimica e in fisica.  
-Art. 78. - Per ottenere il diploma e' necessario:  
-a) aver ottenuto la regolare frequenza ai corsi teorici e alle esercitazioni;  
-b) aver superato gli esami negli insegnamenti fondamentali e almeno due complementari;  
-c) aver superato l'esame di diploma, che consiste nella presentazione di una dissertazione scritta di carattere sperimentale, da sostenersi davanti ad una apposita Commissione costituita da sette insegnanti della scuola.  
-Art. 79. - Il Consiglio direttivo della scuola si compone di tutti gli insegnanti della medesima; esso fa le proposte relative all'ordinamento degli studi e dello insegnamento e da' pareri su tutti i provvedimenti riguardanti il corso stesso.  
-Art. 80. - Il direttore della scuola e' il direttore dell'istituto chimico.  
-Art. 81. - Gli iscritti alla scuola sono tenuti al pagamento di una tassa di iscrizione e di una sopratassa di esami pari a quella degli studenti per il corso di laurea in chimica industriale, di una tassa di diploma di L. 6000 e di un contributo di laboratorio; il cui ammontare sara' fissato anno per anno dal Consiglio di amministrazione della Universita' su proposta del Consiglio direttivo della scuola stessa.  
-Tasse e contributi serviranno al finanziamento della scuola stessa.  
+Titolo III  
+SCUOLE DI SPECIALIZZAZIONE  
   
-Corso di perfezionamento in scienza dei polimeri  
-Art. 82. - Alla Facolta' di scienze, matematiche, fisiche e naturali e' annesso un corso di perfezionamento in scienza dei polimeri avente lo scopo di dare una preparazione specifica nella chimica e nella fisica della polimerizzazione.  
-Art. 83. - Il corso e' annuale e consistera' di insegnamenti teorici e di esercitazioni di laboratorio.  
-Saranno impartiti i seguenti corsi:  
-Chimica macromolecolare;  
-Applicazioni pratiche degli alti polimeri;  
-Chimica colloidale;  
-Biochimica e biofisica macromolecolare;  
-Esercitazioni di laboratorio.  
-Verranno inoltre tenuti brevi cicli di lezioni su argomenti monografici e di attualita', conferenze, seminari.  
-L'insegnamento potra' essere eventualmente integrato da visite e da permanenze in stabilimenti specializzati.  
-Art 84. - Sono ammessi al corso di perfezionamento i laureati in chimica e chimica industriale, in fisica, in ingegneria chimica.  
-I laureati in farmacia, in medicina e chirurgia e in scienze naturali, dovranno previamente superare un colloquio di cultura generale in chimica e in fisica.  
-Art. 85. - In base alla regolare frequenza ai corsi teorici, alle esercitazioni e all'esito favorevole degli esami sostenuti negli insegnamenti verra' rilasciato un certificato di frequenza e di esame.  
-Art 86. - Il Consiglio direttivo del corso si compone di tutti gli insegnanti del medesimo; esso fa le proposte relative all'ordinamento degli studi e dello insegnamento e da' pareri su tutti i provvedimenti riguardanti il corso stesso.  
-Art. 87. - Il direttore del corso e' il direttore dell'Istituto chimico.  
-Art. 88. - Gli iscritti al corso di perfezionamento sono tenuti al pagamento di una tassa di iscrizione e di una sopratassa di esame pari a quella degli iscritti al corso per la laurea in chimica e di un contributo di laboratorio, il cui ammontare sara' fissato anno per anno dal Consiglio di amministrazione della Universita' su proposta del Consiglio direttivo del corso, L'art. 121 e' sostituito dal seguente:  
-"Per il conseguimento del diploma di perfezionamento in patologia generale si richiedono due anni di corso con internato. Alla scuola di perfezionamento vengono ammessi solo i laureati in medicina e chirurgia.  
-L'insegnamento si svolge nell'Istituto di patologia generale dell'Universita'. Gli iscritti alla scuola hanno l'obbligo di frequentare tutti gli insegnamenti teorici e le esercitazioni pratiche impartite dai professori".  
+Sezione I  
+Norme generali  
+  
+Art. 192. - Nell'Universita' di Torino sono istituite le scuole di specializzazione riportate nei successivi articoli.  
+Art. 193. - I concorsi di ammissione relativi a ciascuna scuola, con specificazione del numero degli iscrivibili, eventualmente per ogni singola sezione, sono banditi con decreto rettorale in tempo utile per il successivo anno accademico.  
+I candidati alle specializzazioni, per le quali e' requisito indispensabile il possesso dell'abilitazione professionale, possono partecipare "sub conditione" all'esame di ammissione; all'atto di regolare l'iscrizione debbono depositare anche il diploma di abilitazione.  
+L'eventuale differenza, fra il totale degli iscrivibili previsto per ciascuna scuola ed il corrispondente numero di posti effettivamente banditi, potra' essere destinata a concorrenti di cittadinanza straniera, limitatamente alle scuole per le quali non e' prevista l'esistenza di un albo professionale.  
+Il numero complessivo degli specializzandi di cittadinanza straniera non potra' essere comunque superiore al venti per cento di quelli di cittadinanza italiana.  
+Limitazioni e condizioni di ammissione per specializzandi stranieri sono incluse negli statuti specifici e riportate nel bando di concorso.  
+Art. 194. - Il concorso di ammissione, secondo quanto previsto dall'[art. 13 del decreto del Presidente della Repubblica n. 162/82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;162~art13), e' per esami e per titoli. Le scuole articolate in sezioni prevedono concorsi separati per ciascuna sezione.  
+L'esame consiste:  
+a) in una prova scritta intesa ad accertare la cultura generale dell'area di specializzazione;  
+b) in una eventuale prova orale, sempre sulle medesime tematiche, integrata, se del caso, da una prova pratica.  
+Il bando di concorso di ammissione a ciascuna scuola indichera' eventuali modalita' diverse, come le prove attraverso risposta a quesiti multipli, ed i programmi di esame.  
+Il candidato dovra' dare prova di buona conoscenza strumentale della lingua o delle lingue straniere secondo quanto indicato nel bando.  
+La valutazione dei titoli integrera' il punteggio, conseguito nell'esame di cui ai commi precedenti, in misura non superiore al 30% dello stesso.  
+Costituiscono titolo:  
+a) la tesi di laurea;  
+b) il voto di laurea;  
+c) il voto riportato negli esami di profitto nel corso di laurea in discipline attinenti la specializzazione ed indicate nel bando di concorso per ciascuno dei C.d.l. che danno accesso alla scuola;  
+d) le pubblicazioni scientifiche.  
+Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale del 16 settembre 1982, emanato ai sensi dell'[art. 13, quinto comma, del decreto del Presidente della Repubblica n. 162/82 e pubblicato nella Gazzetta Ufficiale n. 275 del 6 ottobre 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-10-06&numeroGazzetta=275).  
+Art. 195. - La commissione per l'esame di ammissione e' costituita da cinque professori di ruolo designati dal consiglio della scuola.  
+Nel caso di convenzione con enti pubblici o privati, che preveda, a carico di questi ultimi, la concessione di borse per frequentare la scuola, la commissione puo' essere integrata da un docente o cultore di materie attinenti alla scuola scelto dal consiglio della scuola entro una terna designata dagli erogatori.  
+Art. 196. - La commissione giudicatrice dell'esame finale per il conseguimento del diploma di specialista e' composta da cinque professori di ruolo della scuola.  
+Eventuali allargamenti che comportino integrazioni non superiori a due membri, e le modalita' relative sono definite dalle normative specifiche di ciascuna scuola.  
+Art. 197. - L'importo delle tasse e sovrattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione dell'Universita'.  
+Art. 198. - Sono organi della scuola il direttore ed il consiglio della scuola.  
+Art. 199. - Il direttore ha la responsabilita' della scuola. E' un professore di ruolo della scuola, di norma di prima fascia.  
+In caso di motivato impedimento dei professori di prima fascia la direzione e' affidata a professori di seconda fascia.  
+Il direttore e' eletto, con voto segreto, dal consiglio della scuola, di cui al successivo articolo; convoca il consiglio della scuola e lo presiede; ha nell'ambito della conduzione della scuola, le funzioni proprie dei presidenti di consiglio di corso di laurea.  
+Il direttore promuove, per la stipula attraverso il consiglio di amministrazione ed il rettore, le convenzioni per lo svolgimento delle attivita' di formazione.  
+Per la gestione dei fondi a disposizione della scuola si applicano le norme dettate per gli istituti dal regolamento per l'amministrazione e la contabilita' generale dell'Universita'.  
+Il direttore dura in carica tre anni ed e' rieleggibile.  
+Nel manifesto annuale degli studi viene indicata la sede della direzione della scuola.  
+Art. 200. - Il consiglio della scuola e' composto da tutti i docenti della scuola compresi gli eventuali docenti a contratto, e da una rappresentanza di tre specializzandi, eletta secondo quanto previsto dall'[art. 99 del decreto del Presidente della Repubblica n. 382/80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art99).  
+Art. 201. - Il consiglio della scuola ne conduce e coordina le attivita' con i consigli dei dipartimenti e delle facolta' interessati inclusi la designazione dei docenti, l'affidamento degli insegnamenti e le eventuali proposte di contratti.  
+In prima istituzione, i docenti che costituiscono il consiglio della scuola vengono designati in rapporto agli insegnamenti da attivare con apposita delibera dei consigli delle facolta' interessate, sentiti i consigli dei dipartimenti coinvolti.  
+Art. 202. - Lo specializzando e' tenuto a seguire tutti i corsi di lezioni ed a partecipare a tutte le attivita' pratiche ed alle esercitazioni previste, per ciascun anno di corso, dal manifesto degli studi nel quadro delle norme piu' sottoindicate.  
+La frequenza della scuola e' obbligatoria per tutti gli iscritti.  
+Modalita' di accertamento della frequenza sono determinate dal consiglio della scuola e rese note nel manifesto annuale degli studi, ovvero attraverso altre idonee forme.  
+Art. 203. - Alla fine di ciascun anno, lo specializzando deve superare un esame teorico-pratico sulle attivita' di formazione svolte nell'anno, valutato da una commissione, appositamente nominata e presieduta dal direttore della scuola, e costituita dai docenti della scuola delle discipline interessate dal programma di formazione dei candidati.  
+Coloro che non superano l'esame non possono essere ammessi al successivo anno di corso e debbono ripetere l'anno, perdendo il godimento della eventuale borsa di studio.  
+E' ammessa la ripetizione dell'anno per una sola volta.  
+Art. 204. - Il calendario dei corsi di studio e delle attivita' pratiche e' stabilito, anno per anno, dal consiglio della scuola, nel monte ore previsto dall'ordinamento di ogni singola scuola.  
+I corsi potranno articolarsi in cicli di lezioni, seminari e moduli di formazione, nell'ambito delle leggi vigenti.  
+Art. 205. - Il corso si conclude con un esame di diploma, che consiste nella discussione di una dissertazione scritta, che dimostri la preparazione scientifica e le capacita' operative collegate alla specifica professionalita': ;  
+Art. 206. - Nel caso di scuole di specializzazione istituite in base a convenzioni con altre Universita', per i docenti che debbano esplicare le previste attivita' didattiche in sede diversa da quella ordinaria di servizio, e che abbiano incluso tali attivita' nel proprio piano didattico annuale approvato dalla facolta' di appartenenza, e' prevista la corresponsione di un rimborso spesa relativo al trasporto e all'eventuale pernottamento.  
+Art. 207. (Norma transitoria). - Le scuole gia' funzionanti presso l'Universita' con il vecchio ordinamento sono progressivamente disattivate; le scuole di cui all'art. 192 sono progressivamente attivate a partire dall'anno accademico nel quale entra in vigore il riordinamento di ciascuna scuola.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti, di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Dogliani, addi' 26 aprile 1954
+### Dato a Roma, addi' 28 giugno 1986
 
-EINAUDI MARTINO
+COSSIGA
 
-Visto, il Guardasigilli: DE PIETRO
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 25 agosto 1954
+Visto, il Guardasigilli: ROGNONI
 
-Atti del Governo, registro n. 85, foglio n. 77. - TEMPESTA
+Registrato alla Corte dei conti, addi' 30 dicembre 1986
+
+Registro n. 90 Istruzione, foglio n. 214

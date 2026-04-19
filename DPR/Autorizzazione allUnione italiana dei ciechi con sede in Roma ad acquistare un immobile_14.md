@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 marzo 1971 n. 178
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1973 n. 871
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 marzo 1971 n. 178
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1973 n. 871
+==============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, con sede in Roma, ad acquistare un immobile.
 -------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-178. Decreto del Presidente della Repubblica 8 marzo 1971, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede centrale in Roma, viene autorizzata ad acquistare al convenuto complessivo prezzo di L. 18.500.000 dal sig. Michele Di Lisa le seguenti consistenze immobiliari facenti parte del fabbricato, in corso di ultimazione, sorgente su suolo che, rappresentato catastalmente al foglio n. 66 delle particelle 141-b di ca. 93, 142-B di ca. 52, 296 di ca. 90,227 di are 4,32 e 228 di are 3,68, e' pervenuto ad esso Di Lisa dai germani Quaranta Dante e Renato per atto 27 marzo 1968 del notaio Antonio Pisani di Salerno, ove e' stato registrato il 12 aprile 1968 al n. 1391 e trascritto il 2 maggio 1968 ai numeri 11726 d'ordine e 10279 di formalita': 1) locale terraneo di circa mq. 60 al netto dei muri perimetrali e dell'altezza minima netta di ml. 3,10, avente due ingressi l'uno dalla via Duca Guglielmo (e precisamente il secondo dall'angolo verso il palazzo Avella Taiani), l'altro dalla zona di rispetto parallela alla via Duca Guglielmo, confinante nel suo insieme, con via Duca Guglielmo (dalla quale riceve il detto primo accesso) con altro locale terraneo di proprieta' del venditore, con zona di rispetto verso proprieta' Quaranta (da cui riceve il secondo accesso) e con altro terraneo di proprieta' del venditore; 2) appartamento - di cinque vani ed accessori (avente l'estensione di circa mq. 144,34) al primo piano avente l'ingresso dalla prima porta a destra di chi sale le scale, confinante con via Duca Guglielmo, con zona di rispetto verso il palazzo Avella, con zona di rispetto verso la proprieta' Quaranta, con vanella con gabbia delle scale e con altro appartamento di proprieta' Quaranta. Detto appartamento comunica con il sottostante terraneo descritto innanzi sotto il n. 1) mediante scala a chiocciola in ferro.  
+871. Decreto del Presidente della Repubblica 8 ottobre 1973, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede in Roma, viene autorizzata ad acquistare dal signor Vincenzo Foschi, al prezzo di L. 6.200.000, un appartamento composto di vani cinque, un terrazzo al secondo piano e da un vano ad uso cantina nello scantinato, sito in Forli', piazzale della Vittoria n. 12, da destinare a sede della locale sezione provinciale.  
   
-Visto, il Guardasigilli: COLOMBO  
-Registrato alla Corte dei conti, addi' 21 aprile 1971  
-Atti del Governo, registro n. 241, foglio n. 153. - VALENTINI
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 22 dicembre 1973  
+Atti di Governo, registro n. 263, foglio n. 19. - CARUSO

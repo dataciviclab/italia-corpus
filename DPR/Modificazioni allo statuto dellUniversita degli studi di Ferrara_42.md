@@ -1,77 +1,148 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1949 n. 1028
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1971 n. 643
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1949 n. 1028
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1971 n. 643
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 19: all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:
+
+Diritto fallimentare;
+
+Diritto penale commerciale;
+
+Istituzioni di diritto pubblico;
+
+Scienza dell'amministrazione;
+
+Teoria generale del diritto;
+
+Storia dei sistemi di relazione fra Stato e Chiesa;
+
+Teoria generale del processo.
+
+Art. 38: all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:
+
+Scienza dell'ortogenesi;
+
+Scienza dell'alimentazione;
+
+Ottica fisiopatologica;
+
+Oncologia sperimentale;
+
+Biologia molecolare;
+
+Dermatologia sperimentale;
+
+Tossicologia;
+
+Virologia;
+
+Biofisica;
+
+Epidemiologia.
+
+Art. 141, relativo alla scuola di perfezionamento per la produzione dello zucchero e dell'alcool e' modificato nel senso che e' aggiunto il seguente nuovo comma:
+
+"Su proposta della facolta' di scienze matematiche, fisiche e naturali, udito il consiglio della scuola, il senato accademico puo' ammettere alla scuola candidati che presentino diplomi di laurea diversi da quelli stabiliti".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 8 giugno 1971
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: COLOMBO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 21 agosto 1971 Atti del Governo, registro n. 243, foglio n. 162: - PASQUALUCCI
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [regio decreto 12 ottobre 1927, n. 2255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-12;2255), e modificato con i [regi decreti 15 novembre 1928, n. 2606](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-11-15;2606); [31 dicembre 1929, n. 2400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-12-31;2400); [1 ottobre 1932, n. 1372](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-10-01;1372); [27 ottobre 1932, n. 2062](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-10-27;2062); [27 dicembre 1934, n. 2448](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-12-27;2448); [27 ottobre 1936, n. 2457](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-27;2457); [27 marzo 1939, n. 1296](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-03-27;1296); [9 maggio 1939, n. 1469](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-09;1469); [26 ottobre 1940, n. 2065](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2065); [27 aprile 1942, n. 470](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-04-27;470); [5 settembre 1942, n. 1266](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-09-05;1266);  
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652);  
-Vedute le proposte di modifica allo statuto formulante dalle autorita' accademiche della predetta Universita';  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Dopo l'art. 56 vengono aggiunti i seguenti nuovi articoli col conseguente spostamento della numerazione degli articoli successivi.  
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 19: all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:  
   
-SEZIONE V. - Scuola di perfezionamento  
-per la produzione dello zucchero e dell'alcool.  
+Diritto fallimentare;  
+Diritto penale commerciale;  
+Istituzioni di diritto pubblico;  
+Scienza dell'amministrazione;  
+Teoria generale del diritto;  
+Storia dei sistemi di relazione fra Stato e Chiesa;  
+Teoria generale del processo.  
   
-Art. 57. - E' istituita presso la Facolta' di scienze matematiche, fisiche e naturali una scuola di perfezionamento per l'industria dello zucchero e dell'alcool intitolata al nome di "Serafino Cevasco".  
-Art. 58. - La scuola ha la sua sede presso l'Universita' degli studi di Ferrara. Essa ha per scopo di impartire lezioni ed esercitazioni pratiche al fine del perfezionamento teorico-pratico nella tecnologia dello zucchero e dell'alcool.  
-Art. 59. - La scuola conferisce un diploma di perfezionamento nella tecnologia dello zucchero e dell'alcool.  
-Art. 60. - Il Consiglio della scuola e' composto da tutti gli insegnanti che la costituiscono ed e' presieduta dal direttore.  
-Il direttore della scuola e' nominato dal rettore su designazione del Consiglio della Facolta' di scienze matematiche, fisiche e naturali tra i professori di ruolo della Facolta' stessa.  
-Art. 61. - La scuola di perfezionamento impartisce i seguenti insegnamenti:  
-1) anatomia e fisiologia della bietola;  
-2) agronomia;  
-3) difesa antiparassitaria della bietola;  
-4) chimica agraria;  
-5) chimica degli zuccheri;  
-6) principi e metodi di misure chimico-fisiche, in zuccherificio con esercitazioni;  
-7) chimica delle fermentazioni;  
-8) microbiologia industriale;  
-9) tecnologia ed impianti dell'industria saccarifera;  
-10) teoria e pratica della depurazione dei sughi;  
-11) teoria e pratica della diffusione;  
-12) teoria e pratica della concentrazione e coltura dei sughi e sciroppi;  
-13) controllo della lavorazione;  
-14) chimica analitica di zuccherificio con esercitazioni.  
-Oltre ai predetti corsi possono essere tenute conferenze di aggiornamento nel campo dell'industria saccarifera.  
-Art. 62. - La durata degli studi del corso di perfezionamento e' di un anno.  
-Alla scuola possono essere ammessi i laureati in:  
-1) chimica;  
-2) chimica industriale;  
-3) ingegneria;  
-4) scienze agrarie.  
-Art. 63. - Il numero massimo degli allievi ammessi alla scuola per ogni anno e' di venti.  
-Art. 64. - I candidati all'ammissione alla scuola verranno scelti in base ad un concorso per titoli da valutarsi a giudizio insindacabile del Consiglio della scuola.  
-Art. 65. - Gli iscritti ai corsi sono tenuti alla frequenza ai corsi di lezione e di esercitazione. La frequenza e' comprovata dall'attestazione rilasciata dai professori sul libretto di iscrizione.  
-L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.  
-Art. 66. - Le lezioni e le esercitazioni sono tenute nei locali della Universita' e presso il laboratorio sperimentale della Societa' produttori zucchero di Ferrara.  
-Art. 67. - Gli iscritti ad corso sono tenuti al pagamento di una tassa di iscrizione e di una sopratassa di esami e di diploma nonche' di un contributo per le esercitazioni di laboratorio, il cui ammontare sara' fissato dal Consiglio di amministrazione dell'Universita' su proposta del Consiglio direttivo della scuola.  
-Art. 68. - Le spese relative al funzionamento della predetta scuola saranno a carico del bilancio ordinario dell'Universita' di Ferrara.  
+Art. 38: all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
+  
+Scienza dell'ortogenesi;  
+Scienza dell'alimentazione;  
+Ottica fisiopatologica;  
+Oncologia sperimentale;  
+Biologia molecolare;  
+Dermatologia sperimentale;  
+Tossicologia;  
+Virologia;  
+Biofisica;  
+Epidemiologia.  
+  
+Art. 141, relativo alla scuola di perfezionamento per la produzione dello zucchero e dell'alcool e' modificato nel senso che e' aggiunto il seguente nuovo comma:  
+"Su proposta della facolta' di scienze matematiche, fisiche e naturali, udito il consiglio della scuola, il senato accademico puo' ammettere alla scuola candidati che presentino diplomi di laurea diversi da quelli stabiliti".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Dogliani, addi' 30 ottobre 1949
+### Dato a Roma, addi' 8 giugno 1971
 
-EINAUDI GONELLA
+SARAGAT MISASI
 
-Visto, il Guardasigilli: GRASSI
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 17 gennaio 1950
+Registrato alla Corte dei conti, addi' 21 agosto 1971
 
-Atti del Governo, registro n. 31, foglio n. 40. - FRASCA
+Atti del Governo, registro n. 243, foglio n. 162: - PASQUALUCCI

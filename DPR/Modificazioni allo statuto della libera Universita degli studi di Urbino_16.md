@@ -1,163 +1,44 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1977 n. 512
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1974 n. 795
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1977 n. 512
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1974 n. 795
+=============================================================
 
 Modificazioni allo statuto della libera Universita' degli studi di Urbino.
 --------------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto della libera Universita' di Urbino, approvato con [regio decreto 8 febbraio 1925, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-08;230) e modificato con [regio decreto 31 ottobre 1929, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2475), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita', di Urbino e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;
-
-- Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Urbino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-L'art. 7, relativo al consiglio di amministrazione, e soppresso e sostituito dal seguente:
-
-Il consiglio di amministrazione si compone:
-
-a) dal rettore che lo presiede;
-
-b) di un rappresentante dei professori di ruolo per ogni facolta';
-
-c) di due rappresentanti dei professori incaricati stabilizzati;
-
-d) di un rappresentante degli assistenti di ruolo che non siano titolari di incarico stabilizzato;
-
-e) di un rappresentante del Governo, nominato dal Ministro per la pubblica istruzione;
-
-f) del direttore amministrativo;
-
-g) del sindaco e di un altro rappresentante del comune di Urbino; di tre rappresentanti dell'amministrazione provinciale e di due rappresentanti della regione;
-
-h) di un rappresentante della camera di commercio, artigianato, industria e agricoltura della provincia di Pesaro e Urbino;
-
-i) di due membri nominati, su terne proposte dal CNEL, dal rettore della libera Universita' degli studi di Urbino, uno dei quali appartenente alla categoria dei lavoratori e uno a quella degli imprenditori;
-
-l) di un membro nominato, su terna proposta dal CNR, dal Ministro per la pubblica istruzione d'intesa col Ministro per la ricerca scientifica;
-
-m) di due rappresentanti del personale non insegnante;
-
-n) di sei rappresentanti degli studenti.
-
-I membri di cui alla lettera 1) saranno scelti fra i cittadini che non abbiano con l'Universita' rapporto di lavoro, ne' contratti in corso, ne' liti pendenti.
-
-I membri di cui alla lettera g) dovranno essere scelti in modo che sia garantita la rappresentanza delle minoranze.
-
-Altri enti e privati, qualora concorrano al mantenimento della Universita' con un contributo superiore a lire 40 milioni a fondo perduto o un contributo annuo non inferiore a lire 10 milioni, hanno pure diritto di designare, ciascuno, un proprio rappresentante.
-
-Qualora venga nominato ai sensi dell'art. 8 del testo unico delle leggi sulla istruzione superiore il pro-rettore questi entrera' a far parte di pieno diritto del consiglio di amministrazione.
-
-Le funzioni di segretario del consiglio di amministrazione sono esercitate dal direttore amministrativo.
-
-Il consiglio di amministrazione dura in carica un biennio accademico: i componenti di esso possono essere confermati.
-
-L'art. 8 e' soppresso e sostituito dal seguente:
-
-Il consiglio di amministrazione ha competenza per stabilire su tutte le questioni interessanti l'Universita' tanto di ordine istituzionale che di ordine amministrativo, salve le attribuzioni proprie degli altri organi universitari a norma di legge e di regolamento.
-
-Esso, inoltre, e il suo presidente, esercitano ogni altra funzione ad essi devoluta dalla vigente normativa.
-
-Per la validita' delle riunioni e delle deliberazioni del consiglio di amministrazione si applicano parimenti le vigenti disposizioni di legge regolamentari.
-
-Art. 10 - Il primo comma e' soppresso e sostituito dal seguente:
-
-"I presidi delle facolta' sono eletti a maggioranza di voti fra i professori di ruolo dai professori di ruolo e dai professori stabilizzati e nominati dal rettore"
-
-Art. 11 - Il primo comma e' soppresso e sostituito dal seguente:
-
-"Il consiglio di facolta' e' composto dal preside che lo presiede, dai professori di ruolo, dai professori stabilizzati e dalle altre rappresentanze previste dalle vigenti norme per le universita' statali".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 29 gennaio 1977
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 30 luglio 1977 Registro n. 92 Istruzione, foglio n. 16
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto della libera Universita' di Urbino, approvato con [regio decreto 8 febbraio 1925, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-08;230) e modificato con [regio decreto 31 ottobre 1929, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2475), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto della libera Universita' degli studi di Urbino, approvato con [regio decreto 8 febbraio 1925, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-08;230), e modificato con [regio decreto 31 ottobre 1929, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2475), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduto il [decreto-legge 1 ottobre 1973, n. 580](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580), convertito nella [legge 30 novembre 1973, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita', di Urbino e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;  
-- Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione, di concerto con il Ministro per il tesoro;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Urbino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 7, relativo al consiglio di amministrazione, e soppresso e sostituito dal seguente:  
-Il consiglio di amministrazione si compone:  
-a) dal rettore che lo presiede;  
-b) di un rappresentante dei professori di ruolo per ogni facolta';  
-c) di due rappresentanti dei professori incaricati stabilizzati;  
-d) di un rappresentante degli assistenti di ruolo che non siano titolari di incarico stabilizzato;  
-e) di un rappresentante del Governo, nominato dal Ministro per la pubblica istruzione;  
-f) del direttore amministrativo;  
-g) del sindaco e di un altro rappresentante del comune di Urbino; di tre rappresentanti dell'amministrazione provinciale e di due rappresentanti della regione;  
-h) di un rappresentante della camera di commercio, artigianato, industria e agricoltura della provincia di Pesaro e Urbino;  
-i) di due membri nominati, su terne proposte dal CNEL, dal rettore della libera Universita' degli studi di Urbino, uno dei quali appartenente alla categoria dei lavoratori e uno a quella degli imprenditori;  
-l) di un membro nominato, su terna proposta dal CNR, dal Ministro per la pubblica istruzione d'intesa col Ministro per la ricerca scientifica;  
-m) di due rappresentanti del personale non insegnante;  
-n) di sei rappresentanti degli studenti.  
-I membri di cui alla lettera 1) saranno scelti fra i cittadini che non abbiano con l'Universita' rapporto di lavoro, ne' contratti in corso, ne' liti pendenti.  
-I membri di cui alla lettera g) dovranno essere scelti in modo che sia garantita la rappresentanza delle minoranze.  
-Altri enti e privati, qualora concorrano al mantenimento della Universita' con un contributo superiore a lire 40 milioni a fondo perduto o un contributo annuo non inferiore a lire 10 milioni, hanno pure diritto di designare, ciascuno, un proprio rappresentante.  
-Qualora venga nominato ai sensi dell'art. 8 del testo unico delle leggi sulla istruzione superiore il pro-rettore questi entrera' a far parte di pieno diritto del consiglio di amministrazione.  
-Le funzioni di segretario del consiglio di amministrazione sono esercitate dal direttore amministrativo.  
-Il consiglio di amministrazione dura in carica un biennio accademico: i componenti di esso possono essere confermati.  
-L'art. 8 e' soppresso e sostituito dal seguente:  
+Lo statuto della libera Universita' degli studi di Urbino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Il consiglio di amministrazione ha competenza per stabilire su tutte le questioni interessanti l'Universita' tanto di ordine istituzionale che di ordine amministrativo, salve le attribuzioni proprie degli altri organi universitari a norma di legge e di regolamento.  
-Esso, inoltre, e il suo presidente, esercitano ogni altra funzione ad essi devoluta dalla vigente normativa.  
-Per la validita' delle riunioni e delle deliberazioni del consiglio di amministrazione si applicano parimenti le vigenti disposizioni di legge regolamentari.  
-Art. 10 - Il primo comma e' soppresso e sostituito dal seguente:  
-"I presidi delle facolta' sono eletti a maggioranza di voti fra i professori di ruolo dai professori di ruolo e dai professori stabilizzati e nominati dal rettore"  
-Art. 11 - Il primo comma e' soppresso e sostituito dal seguente:  
-"Il consiglio di facolta' e' composto dal preside che lo presiede, dai professori di ruolo, dai professori stabilizzati e dalle altre rappresentanze previste dalle vigenti norme per le universita' statali".  
+La tabella A, relativa ai posti di professori di ruolo, e' modificata nel senso che i posti di professore di ruolo della facolta' di lettere e filosofia sono aumentati da 10 a 14; i posti di professore di ruolo della facolta' di magistero sono aumentati da 24 a 29.  
+La tabella A-bis, relativa ai posti di professore aggregato, e' modificata nel senso che i 5 posti di professore aggregato della facolta' di magistero e 4 posti di professore aggregato della facolta' di lettere e filosofia sono soppressi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 gennaio 1977
+### Dato a Roma, addi' 18 luglio 1974
 
-LEONE MALFATTI
+LEONE MALFATTI - COLOMBO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 30 luglio 1977
+Registrato alla Corte dei conti, addi' 27 gennaio 1975
 
-Registro n. 92 Istruzione, foglio n. 16
+Atti di Governo, registro n. 8, foglio n. 77

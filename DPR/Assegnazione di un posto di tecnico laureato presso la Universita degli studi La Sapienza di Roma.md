@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1984 n. 934
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 876
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1984 n. 934
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 876
+=============================================================
 
 Assegnazione di un posto di tecnico laureato presso la Universita' degli studi "La Sapienza" di Roma.
 -----------------------------------------------------------------------------------------------------
@@ -12,10 +12,8 @@ Art. 1
 
 N.
 
-934. Decreto del Presidente della Repubblica 14 settembre 1984, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato   
-alla sesta cattedra di anatomia e istologia patologica della   
-facolta' di medicina e chirurgia dell'Universita' "La Sapienza" di Roma.   
+876. Decreto del Presidente della Repubblica 26 aprile 1984, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato alla prima clinica delle malattie nervose e mentali (per le esigenze della quinta cattedra neurologica) della facolta' di medicina e chirurgia dell'Universita' "La Sapienza" di Roma.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 31 dicembre 1984   
-Registro n. 76 Istruzione, foglio n. 191
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 17 dicembre 1984  
+Registro n. 75 Istruzione, foglio n. 130

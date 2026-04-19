@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1969 n. 1116
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 marzo 1968 n. 670
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1969 n. 1116
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 marzo 1968 n. 670
+============================================================
 
 Autorizzazione alla "Fondazione pro juventute don Carlo Gnocchi", con sede in Roma, ad accettare una eredita'.
 --------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1116. Decreto del Presidente della Repubblica 23 dicembre 1969, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione pro juventute don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' che risulta ammontare a L. 7.187.000, costituita di vari titoli di rendita e denaro liquido, gravata da alcuni oneri e pesi, disposta dalla signora Marengo Giuseppina vedova Quarello con testamento pubblico a rogito dott. Giuseppe Motta, notaio in Montanaro (iscritto al collegio notarile dei distretti riuniti di Torino e di Pinerolo), in data 18 ottobre 1967, n. 1 del repertorio atti di ultima volonta', registrato con atto a rogito dello stesso notaio in data 25 novembre 1967, n. 119 di repertorio.  
+670. Decreto del Presidente della Repubblica 26 marzo 1968, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione pro juventute don Carlo Gnocchi" viene autorizzata ad accettare, col beneficio d'inventario, la quota di eredita' disposta dal defunto sig. Oreste Coccini, con testamento olografo del 20 maggio 1961 - pubblicato e depositato con atto a rogito dott. Giuseppe Gallizia, notaio residente in Milano, in data 14 febbraio 1964, n. 67439/23968 rep., n. 17275 arch.  
   
-Visto, il Guardasigilli: GAVA  
-Registrato alla Corte dei conti, addi' 2 febbraio 1970  
-Atti del Governo, registro n. 231, foglio n. 76. - CARUSO
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 14 maggio 1968  
+Atti del Governo, registro n. 219, foglio n. 144. - GRECO

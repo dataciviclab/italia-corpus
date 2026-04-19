@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1963 n. 666
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 1012
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1963 n. 666
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 1012
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -10,180 +10,156 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772) e successivi;
+Veduto lo statuto dell'Universita' di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica, istruzione;
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 55, relativo al corso di laurea in Chimica e' aggiunto il seguente comma: "Per essere ammesso all'esame di laurea lo studente deve inoltre aver sostenuto un colloquio di cultura generale nelle discipline chimiche davanti ad una Commissione nominata dal preside.
+Articolo unico
+--------------
 
-Tale colloquio, pero', non ha carattere preelusivo".
-
-Art. 56, relativo alle norme per l'esame di laurea e' modificato nel senso che e' abrogato il numero 2 che prescrive "un colloquio di cultura, di chimica".
-
-Art. 57. - Agli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti quelli di "Immunogenetica" e "Genetica dei microorganismi".
-
-Art. 59. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti quelli di "Immunogenetica" e "Genetica dei microorganismi".
-
-Art. 69. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti quelli di "Geofisica applicata", "Giacimenti minerari", "Petrografia applicata", "Petrotettonica", "Vulcanologia", "Analisi mineralogiche", "Sedimentologia", "Cristallografia strutturale" e "Micropaleontologia".
-
-Art. 73, relativo al corso di laurea in Scienze geologiche e' aggiunto il seguente comma: "Per essere ammesso all'esame di laurea lo studente deve inoltre avere sostenuto un colloquio di cultura generale nelle scienze geologiche (geologia, paleontologia, geografia, mineralogia, petrografia), da sostenersi davanti ad una Commissione nominata dal preside. Tale colloquio, pero', non ha carattere preclusivo".
-
-Art. 74, relativo alle norme per l'esame di laurea l'ultimo comma e' abrogato.
-
-Dopo l'art. 152 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Fisiocinesiterapia ortopedica con il conseguente spostamento della numerazione degli articoli successivi.
-
-Scuola di specializzazione in fisiocinesiterapia ortopedica
-
-Art. 153. - E' istituita la Scuola di specializzazione in Fisiocinesiterapia ortopedica, con sede presso la Clinica ortopedica della Facolta' di medicina e chirurgia, che conferisce il diploma di specialista in Fisiocinesiterapia ortopedica.
-
-Il direttore della Scuola e' il direttore della clinica ortopedica della Facolta' di medicina e chirurgia.
-
-I docenti saranno scelti fra i professori della Facolta' stessa.
-
-Art. 154. - Alla Scuola sono ammessi i laureati in medicina e chirurgia. Essa ha indirizzo teorico-pratico con lo scopo di specializzare nella rieducazione e riabilitazione funzionale e professionale di tutti i motulesi.
-
-Art. 155. - L'ammissione alla Scuola avviene attraverso concorso interno con esami.
-
-Il numero degli ammessi e' stabilito anno per anno dal direttore della Scuola e non puo' superare i venti.
-
-Art. 156. - La Scuola ha la durata di due anni.
-
-Art. 157. - Le materie di insegnamento sono:
-
-1° anno:
-
-1) Anatomia degli organi di movimento;
-
-2) Fisiologia degli organi di movimento;
-
-3) Anatomia patologica delle lesioni dell'apparato motore;
-
-4) Patologia delle motulesioni;
-
-5) Termoterapia;
-
-6) Massoterapia;
-
-7) Idroterapia, balneoterapia, fangoterapia.
-
-2° anno:
-
-1) Clinica delle motulesioni;
-
-2) Elettrodiagnosi ed elettroterapia;
-
-3) Ginnastica medica (profilattica e correttiva);
-
-4) Terapia del movimento e meccanoterapia;
-
-5) Rieducazione motoria e riabilitazione.
-
-Art. 158. - Le lezioni, le dimostrazioni e le esercitazioni si svolgeranno presso la Clinica, ortopedica in conformita' dell'orario che, al principio dell'anno, verra' stabilito dal direttore della Scuola.
-
-Art. 159. - Alla fine del primo anno gli allievi dovranno sostenere un esame di profitto nel gruppo di materie del primo corso.
-
-Alla fine del secondo anno gli allievi dovranno sostenere un esame di profitto nel gruppo di materie del secondo corso.
-
-L'esame di diploma consiste nella discussione di una dissertazione scritta.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 14 marzo 1963
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 13 maggio 1963 Atti del Governo, registro n. 169, foglio n. 22. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica, istruzione;  
+Art. 92 - all'elenco degli insegnamenti complementari del secondo gruppo del corso di laurea in matematica sono aggiunti i seguenti insegnamenti:  
+metodi probabilistici, statistici e processi stocastici;  
+teoria delle decisioni;  
+linguaggi formali e compilatori;  
+teoria degli algoritmi e della calcolabilita';  
+metodi per il trattamento dell'informazione;  
+documentazione automatica;  
+teoria dell'informazione;  
+riconoscimento automatico delle forme;  
+istituzioni di meccanica superiore;  
+meccanica dei continui;  
+analisi numerica;  
+complementi di analisi numerica.  
+Art. 99 - all'elenco degli insegnamenti complementari del corso di laurea in fisica sono aggiunti i seguenti insegnamenti:  
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 55, relativo al corso di laurea in Chimica e' aggiunto il seguente comma: "Per essere ammesso all'esame di laurea lo studente deve inoltre aver sostenuto un colloquio di cultura generale nelle discipline chimiche davanti ad una Commissione nominata dal preside.  
-Tale colloquio, pero', non ha carattere preelusivo".  
-Art. 56, relativo alle norme per l'esame di laurea e' modificato nel senso che e' abrogato il numero 2 che prescrive "un colloquio di cultura, di chimica".  
-Art. 57. - Agli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti quelli di "Immunogenetica" e "Genetica dei microorganismi".  
-Art. 59. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti quelli di "Immunogenetica" e "Genetica dei microorganismi".  
-Art. 69. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti quelli di "Geofisica applicata", "Giacimenti minerari", "Petrografia applicata", "Petrotettonica", "Vulcanologia", "Analisi mineralogiche", "Sedimentologia", "Cristallografia strutturale" e "Micropaleontologia".  
-Art. 73, relativo al corso di laurea in Scienze geologiche e' aggiunto il seguente comma: "Per essere ammesso all'esame di laurea lo studente deve inoltre avere sostenuto un colloquio di cultura generale nelle scienze geologiche (geologia, paleontologia, geografia, mineralogia, petrografia), da sostenersi davanti ad una Commissione nominata dal preside. Tale colloquio, pero', non ha carattere preclusivo".  
-Art. 74, relativo alle norme per l'esame di laurea l'ultimo comma e' abrogato.  
-Dopo l'art. 152 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Fisiocinesiterapia ortopedica con il conseguente spostamento della numerazione degli articoli successivi.  
-Scuola di specializzazione in fisiocinesiterapia ortopedica  
-Art. 153. - E' istituita la Scuola di specializzazione in Fisiocinesiterapia ortopedica, con sede presso la Clinica ortopedica della Facolta' di medicina e chirurgia, che conferisce il diploma di specialista in Fisiocinesiterapia ortopedica.  
-Il direttore della Scuola e' il direttore della clinica ortopedica della Facolta' di medicina e chirurgia.  
-I docenti saranno scelti fra i professori della Facolta' stessa.  
-Art. 154. - Alla Scuola sono ammessi i laureati in medicina e chirurgia. Essa ha indirizzo teorico-pratico con lo scopo di specializzare nella rieducazione e riabilitazione funzionale e professionale di tutti i motulesi.  
-Art. 155. - L'ammissione alla Scuola avviene attraverso concorso interno con esami.  
-Il numero degli ammessi e' stabilito anno per anno dal direttore della Scuola e non puo' superare i venti.  
-Art. 156. - La Scuola ha la durata di due anni.  
-Art. 157. - Le materie di insegnamento sono:  
-1° anno:  
-1) Anatomia degli organi di movimento;  
-2) Fisiologia degli organi di movimento;  
-3) Anatomia patologica delle lesioni dell'apparato motore;  
-4) Patologia delle motulesioni;  
-5) Termoterapia;  
-6) Massoterapia;  
-7) Idroterapia, balneoterapia, fangoterapia.  
-2° anno:  
-1) Clinica delle motulesioni;  
-2) Elettrodiagnosi ed elettroterapia;  
-3) Ginnastica medica (profilattica e correttiva);  
-4) Terapia del movimento e meccanoterapia;  
-5) Rieducazione motoria e riabilitazione.  
-Art. 158. - Le lezioni, le dimostrazioni e le esercitazioni si svolgeranno presso la Clinica, ortopedica in conformita' dell'orario che, al principio dell'anno, verra' stabilito dal direttore della Scuola.  
-Art. 159. - Alla fine del primo anno gli allievi dovranno sostenere un esame di profitto nel gruppo di materie del primo corso.  
-Alla fine del secondo anno gli allievi dovranno sostenere un esame di profitto nel gruppo di materie del secondo corso.  
-L'esame di diploma consiste nella discussione di una dissertazione scritta.  
+INDIRIZZO GENERALE  
+2° gruppo:  
+teorie quantistiche;  
+istituzioni di meccanica quantistica;  
+elettrodinamica.  
+Art. 107 - All'elenco degli insegnamenti complementari del corso di laurea in chimica, per l'indirizzo organico-biologico sono eliminati i seguenti insegnamenti:  
+chimica organica teorica;  
+chimica degli alti polimeri;  
+chimica dell'alimentazione.  
+Allo stesso elenco, sempre per l'indirizzo organico-biologico sono aggiunti i seguenti insegnamenti:  
+didattica chimica;  
+chimica fisica biologica;  
+chimica tossicologica;  
+chimica ambientale;  
+chimica organica industriale;  
+chimica macromolecolare;  
+fitochimica;  
+chimica organica superiore.  
+All'elenco degli insegnamenti complementari per l'indirizzo inorganico-chimico-fisico sono aggiunti i seguenti insegnamenti:  
+didattica chimica;  
+chimica fisica biologica;  
+chimica tossicologica;  
+chimica ambientale;  
+teoria degli elettroliti;  
+spettroscopia a radio frequenze;  
+analisi chimica applicata;  
+chimica analitica clinica;  
+chimica e tecnologia delle acque;  
+chimica fisica industriale;  
+chimica fisica dei polimeri;  
+catalisi;  
+termodinamica di processi irreversibili.  
+Art. 111 - all'elenco degli insegnamenti complementari del corso di laurea in chimica industriale, sono aggiunti i seguenti insegnamenti: spettroscopia molecolare;  
+storia della chimica;  
+chimica bromatologica;  
+chimica dei composti di coordinazione;  
+chimica fisica dello stato solido;  
+chimica fisica tecnica;  
+metodi fisici in chimica organica;  
+meccanismi di reazione in chimica inorganica;  
+chimica e tecnologia della catalisi;  
+catalisi;  
+chimica fisica dei polimeri.  
+Art. 117 - all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali, sono aggiunti i seguenti insegnamenti:  
+didattica delle scienze geologiche;  
+mineralogia sistematica;  
+esercitazioni di analisi chimica qualitativa;  
+chimica delle sostanze organiche naturali;  
+entomologia;  
+protozoologia.  
+Il secondo comma dell'art. 124, relativo al biennio di studi propedeutici per la laurea in ingegneria, e' soppresso e sostituito come segue:  
+Art. 124, secondo comma: "Al termine del secondo anno di corso lo studente, per essere ammesso al terzo anno di corso presso una qualunque facolta' di ingegneria e politecnico, dovra' aver superato tutti gli esami fondamentali comuni ai vari indirizzi, e l'esame obbligatorio (sul piano nazionale o della facolta), relativo all'indirizzo prescelto al momento dell'iscrizione al secondo corso".  
+Art. 125 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti insegnamenti:  
+bioclimatologia;  
+biochimica cellulare;  
+biochimica vegetale;  
+biologia delle popolazioni umane;  
+conservazione della natura e delle sue risorse;  
+genetica molecolare;  
+laboratorio di tecniche fisiologiche;  
+protozoologia.  
+Il secondo comma dell'art. 126 e' soppresso e sostituito come segue:  
+Art. 126, secondo comma: "L'insegnamento di zoologia importa due esami distinti, relativi ai due anni di insegnamento, nel primo dei quali viene trattata la parte generale, nel secondo la parte sistematica".  
+I commi secondo e terzo dell'art. 127 sono soppressi e sostituiti come segue:  
+Art. 127:  
+secondo comma: "La dissertazione deve essere presentata alla segreteria dell'Universita' almeno dieci giorni prima dell'esame di laurea";  
+terzo comma: "Per essere ammesso all'esame di laurea in scienze biologiche lo studente a meno di aver presentato un piano di studi approvato dal C.C.L., deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in tre da lui scelti fra i complementari".  
+Il primo comma dell'art. 128 e' soppresso e sostituito come segue:  
+Art. 128, primo comma: "L'esame di laurea comprende l'esposizione della tesi di laurea ed una discussione dei risultati conseguiti atta a dimostrare la preparazione culturale del candidato in ottemperanza all'art. 18 del presente statuto".  
+Art. 130 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono soppressi i seguenti insegnamenti:  
+chimica organica;  
+analisi matematica algebrica ed infinitesimale (biennale);  
+etnologia;  
+cristallografia strutturale;  
+genetica evoluzionistica.  
+Allo stesso elenco sono aggiunti i seguenti insegnamenti:  
+geologia matematica;  
+meccanica delle rocce;  
+paleobotanica;  
+termodinamica.  
+Gli articoli 131, 132, 133, secondo comma, 134, sono soppressi e sostituiti come segue:  
+Art. 131. - L'esame di istituzioni di matematiche deve precedere l'esame di fisica sperimentale primo anno.  
+L'esame di fisica sperimentale primo anno deve precedere l'esame di fisica sperimentale secondo anno.  
+L'esame di chimica generale ed inorganica con elementi di organica deve precedere l'esame di mineralogia.  
+L'esame di mineralogia deve precedere l'esame di petrografia.  
+Sono obbligatori due anni di internato al terzo e al quarto anno.  
+Annualmente la facolta', su proposta del consiglio di corso di laurea, indichera' i corsi complementari che saranno attivati nell'anno accademico, in conformita' con i disposti dell'[art. 9 del decreto del Presidente della Repubblica n. 382/80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art9).  
+Art. 132. - A meno di aver presentato un piano di studi autonomo, approvato dal consiglio di corso di laurea, lo studente per essere ammesso all'esame di laurea deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari.  
+Art. 133. - Per essere ammesso all'esame di laurea lo studente deve inoltre aver sostenuto un colloquio di cultura generale nelle scienze geologiche, da sostenersi davanti ad una commissione nominata dal preside.  
+L'esito di tale colloquio, pero', non ha carattere preclusivo.  
+Art. 134. - L'esame di laurea comprende:  
+1) la discussione orale della tesi di laurea;  
+2) la discussione orale di due su tre argomenti scelti dal candidato in materie d'insegnamento della facolta', diverse fra di loro e da quelle formate oggetto della tesi di laurea.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 marzo 1963
+### Dato a Roma, addi' 11 ottobre 1984
 
-SEGNI GUI
+PERTINI
 
-Visto, il Guardasigilli: BOSCO
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 13 maggio 1963
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Atti del Governo, registro n. 169, foglio n. 22. - VILLA
+Registrato alla Corte dei conti, addi' 30 gennaio 1985
+
+Registro n. 4 Istruzione, foglio n. 324

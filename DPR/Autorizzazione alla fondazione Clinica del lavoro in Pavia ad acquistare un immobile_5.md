@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 340
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 1032
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 340
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 1032
+===============================================================
 
 Autorizzazione alla fondazione "Clinica del lavoro", in Pavia, ad acquistare un immobile.
 -----------------------------------------------------------------------------------------
@@ -12,8 +12,13 @@ Art. 1
 
 N.
 
-340. Decreto del Presidente della Repubblica 26 aprile 1984, col quale, sulla proposta del Ministro della sanita', la fondazione "Clinica del lavoro", in Pavia, viene autorizzata ad acquistare, al prezzo di lire 180 milioni, un caseggiato con terreno circostante sito in contrada Nisco del comune di Cassano delle Murge (Bari), censito al nuovo catasto terreni alla partita 13578, foglio 39, particella 117, di proprieta' della provincia napoletana detta "Regni" dell'ordine dei frati predicatori di Napoli, come da atto di compravendita 2 settembre 1982, n. 21858 di repertorio, a rogito dott. Antonio de Luise, notaio in Santerano in Colle, registrato a Gioia del Colle in data 22 settembre 1982 al n. 6881, da destinare per l'ampliamento del centro medico di Cassano delle Murge.  
+1032. Decreto del Presidente della Repubblica 11 ottobre 1984, col quale, sulla proposta del Ministro della sanita', la fondazione   
+"Clinica del lavoro", in Pavia, viene autorizzata ad acquistare, al   
+prezzo di L. 41.679.000, un terreno sito in Cassano Murge (Bari), nelle adiacenze del centro medico di riabilitazione appartenente   
+alla fondazione stessa, di proprieta' del "Centro turistico   
+alberghiero del Circuito S.r.l.", come da atto di compravendita 13 giugno 1981, n. 19839 di repertorio, a rogito dott. Antonio de   
+Luise, notaio in Santeramo in Colle (Bari), registrato a Gioia del Colle (Bari), in data 3 luglio 1981 al n. 4734.   
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 30 giugno 1984  
-Registro n. 5 Sanita', foglio n. 185
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 31 gennaio 1985   
+Registro n. 1 Sanita', foglio n. 231

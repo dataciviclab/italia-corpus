@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 giugno 1975 n. 374
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 giugno 1975 n. 384
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 giugno 1975 n. 374
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 giugno 1975 n. 384
 =============================================================
 
 Autorizzazione ad accettare un lascito a favore dello Stato.
@@ -12,25 +12,8 @@ Art. 1
 
 N.
 
-374. Decreto del Presidente della Repubblica 24 giugno 1975, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione di un lascito disposto a favore dello Stato dalla sig.ra Carmela De Simone con testamento olografo datato 30 marzo 1972, n. 34666 di repertorio, a rogito dell'avv.  
-Gennaro Incoronato, notaio in Napoli, consistente in alcune opere d'arte di fattura napoletana di interesse artistico e   
-storico da destinare al museo di Capodimonte, in Napoli.(1)
-
-((2))
-
+384. Decreto del Presidente della Repubblica 24 giugno 1975, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione del lascito disposto a favore dello Stato dall'avv. Mario Baldi con testamento olografo datato 11 settembre 1972, pubblicato con atto pubblico in data 1 ottobre 1973, n. 5090 di repertorio, a rogito del dott. Ludovico Sani, notaio in Ferrara, consistente in trentacinque quadri antichi di notevole valore artistico notificati dalla soprintendenza di Bologna, da destinare alla pinacoteca nazionale di Ferrara.  
   
-Visto, il Guardasigilli: REALE   
-Registrato alla Corte dei conti, addi' 8 agosto 1975   
-Atti di Governo, registro n. 11, foglio n. 54
-
----------------
-
-AGGIORNAMENTO (1)
-
-La Corte Costituzionale, con sentenza 23-27 ottobre 2006, n. 341 (in G.U. 1a s.s. 02/11/2006, n. 1000) ha dichiarato "l'illegittimita' costituzionale dell'[art. 69, sesto comma, lettera a), della legge 26 luglio 1975, n. 374](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;374~art69-com6-leta) (Norme sull'ordinamento penitenziario e sull'esecuzione delle misure privative e limitative della liberta)".
-
----------------
-
-AGGIORNAMENTO (2)
-
-La Corte Costituzionale, con sentenza 23-27 ottobre 2006, n. 341 (in G.U. 1a s.s. 02/11/2006, n. 1000) come modificata dal Comunicato 23 ottobre 2006, n. 341 (in G.U. 1a s.s. 8/11/2006, n. 44) non prevede piu' l'illegittimita' costituzionale dell'art. 69, sesto comma, lettera a), del presente provvedimento.
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 8 agosto 1975  
+Atti di Governo, registro n. 11, foglio n. 53

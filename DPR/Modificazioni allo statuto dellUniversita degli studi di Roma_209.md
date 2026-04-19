@@ -1,146 +1,80 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1965 n. 1299
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 luglio 1980 n. 589
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1965 n. 1299
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 luglio 1980 n. 589
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+I commi secondo e terzo dell'art. 249, relativi alla scuola di perfezionamento in sociologia e ricerca sociale sono sostituiti dai seguenti:  
+"Qualora invece il consiglio ritenga insufficiente la preparazione specifica del candidato, potra' imporre l'obbligo di superare un certo numero di esami nel campo della statistica, della demografia, dell'economia, del diritto e della sociologia, fissando la propedeuticita' di ciascuno rispetto ai colloqui sugli insegnamenti specifici della scuola.  
+In tale caso il candidato non potra' essere iscritto al successivo anno di corso se non avra' superato insieme ad almeno due colloqui relativi ad insegnamenti della scuola, anche gli esami sugli eventuali insegnamenti ad essi propedeutici".  
+
+Art. 2
+------
+
   
-Decreta:  
+La scuola speciale per tecnici riabilitatori della neuro e psicomotricita' dell'eta' evolutiva muta la denominazione in quella di scuola speciale per terapisti della riabilitazione della neuro e psicomotricita' dell'eta' evolutiva.  
+Il primo comma dell'art. 878 e' sostituito dal seguente:  
+"La scuola speciale per terapisti della riabilitazione della neuro e psicomotricita' dell'eta' evolutiva ha sede presso l'istituto di neuropsichiatria infantile".  
+Il primo periodo dell'art. 879 e' sostituito dal seguente:  
+"La durata del corso degli studi per il conseguimento del diploma di terapista della riabilitazione della neuro e psicomotricita' dell'eta' evolutiva e' di tre anni accademici".  
+Il secondo comma dell'art. 880, relativo all'ammissione alla scuola di allievi privi del titolo di studio di scuola media superiore, e' soppresso.  
+Il primo comma dell'art. 884 e' modificato nel senso che, superato l'esame finale, si consegue il diploma di terapista della riabilitazione della neuro e psicomotricita' dell'eta' evolutiva.  
+
+Art. 3
+------
+
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Gli articoli 412, 413, 414 e 415, relativi all'ordinamento della Scuola di perfezionamento in Oculistica, con durata di anni tre, sono abrogati e sostituiti dai seguenti che portano la durata della Scuola ad anni quattro.  
-  
-Scuola di perfezionamento in Clinica oculistica  
-  
-Art. 412. - Il corso degli studi nella Scuola di perfezionamento in Oculistica ha la durata di quattro anni.  
-Art. 413. - Il numero massimo degli iscritti al 1 anno non puo' essere superiore a otto.  
-Art. 414. - Gli insegnamenti impartiti nella Scuola sono:  
-1° Anno:  
-1) Anatomia ed istologia dell'apparato oculare;  
-2) Nozioni di Embriologia e genetica oculare;  
-3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;  
-4) Nozioni di Ottica fisiologica, esame della refrazione;  
-5) Microbiologia ed igiene oculare.  
-2° Anno:  
-1) Semeiologia oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmoscopia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);  
-2) Farmacologia oculare. Terapia fisica;  
-3) Anatomia patologica oculare;  
-4) Patologia e clinica oculare (malattia delle palpebre e della congiuntiva, delle vie lacrimali, della cornea e della sclera).  
-3° Anno:  
-1) Patologia e clinica oculare (malattia dell'uvea della, retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);  
-2) Anomalie e patologia della motilita' oculare e della visione binoculare. Ortottica e pleottica;  
-3) Affezioni otorinolaringoiatriche e occhio;  
-4) Tecnica operatoria (1ª parte).  
-4° Anno:  
-1) Neuroftalmologia;  
-2) Malattie oculari in rapporto ad affezioni generali;  
-3) Malattie professionali, infortunistica e medicina legale oculare;  
-4) Tecnica operatoria (2ª parte);  
-5) Tesi di specializzazione.  
-Gli insegnamenti impartiti nella Scuola vengono integrati mediante conferenze, esercizi diagnostici ed operativi.  
-Art. 415. - Gli esami di profitto vengono dati per gruppi di materie alla fine di ogni anno, secondo quanto verra' stabilito nel manifesto della Scuola.  
-L'esame di diploma si svolge con le norme dell'articolo 398.  
-Dopo l'art. 601, e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Tecnologie alimentari.  
-  
-Scuola di specializzazione in Tecnologie alimentari  
-  
-Art. 602. - La Scuola di specializzazione in Tecnologie alimentari ha lo scopo di preparare i tecnici qualificati per la direzione delle industrie alimentari e per i laboratori di controllo di prodotti alimentari.  
-Art. 603. - La Scuola di specializzazione in Tecnologie alimentari ha sede nell'Istituto di Chimica farmaceutica e tossicologica, il cui direttore e' di diritto anche direttore della Scuola.  
-Art. 604. -- La durata del corso e' di due anni. Possono essere ammessi alla scuola i laureati in Farmacia, in Chimica ed in Scienze biologiche.  
-Art. 605. - Il numero degli iscritti alla Scuola e' fissato ad un massimo di 45 in ogni anno di corso, suddiviso in 15 per ciascun tipo di laurea.  
-So il numero delle domande e' eccedente, la scelta verra' fatta in base al voto di laurea.  
-Se nell'ambito dei posti per un tipo di laurea vi siano dei posti disponibili, tale disponibilita' viene ripartita fra gli aspiranti in eccedenza, muniti degli altri tipi di laurea.  
-Art. 606. - Le materie di insegnamento con relative esercitazioni pratiche sono le seguenti:  
-  
-Per i laureati in Farmacia  
-  
-1° Anno:  
-1) Chimica bromatologica I;  
-2) Chimica delle sostanze organiche naturali;  
-3) Microbiologia ed enzimologia industriale;  
-4) Analisi strumentale;  
-5) Industrie alimentari fondamentali;  
-6) Igiene alimentare.  
-2° Anno:  
-7) Chimica delle fermentazioni;  
-8) Impianti per industrie alimentari;  
-9) Industrie degli alimenti conservati;  
-10) Chimica bromatologica II;  
-11) Chimica degli additivi e conservazioni degli alimenti;  
-12) Ispezioni nelle industrie alimentari.  
-  
-Per i laureati in Chimica  
-  
-1° Anno:  
-1) Anatomia e fisiologia umana;  
-2) Chimica biologica;  
-3) Chimica bromatologica I;  
-4) Analisi strumentale;  
-5) Microbiologia ed enzimologia industriale;  
-6) Industrie alimentari fondamentali.  
-2° Anno:  
-7) Igiene alimentare;  
-8) Chimica delle fermentazioni;  
-9) Impianti per industrie alimentari;  
-10) Chimica bromatologica II;  
-11) Industrie degli alimenti conservati;  
-12) Chimica degli additivi e conservazione degli alimenti;  
-13) Ispezioni nelle industrie alimentari.  
-  
-Per i laureati in Scienze biologiche  
-  
-1° Anno:  
-1) Analisi qualitativa;  
-2) Analisi quantitativa;  
-3) Chimica bromatologica I;  
-4) Analisi strumentale;  
-5) Chimica delle sostanze organiche naturali;  
-6) Microbiologia ed enzimologia industriale;  
-7) Industrie alimentari fondamentali.  
-2° Anno:  
-8) Igiene alimentare;  
-9) Chimica delle fermentazioni;  
-10) Impianti per industrie alimentari;  
-11) Industrie degli alimenti conservati;  
-12) Chimica bromatologica II;  
-13) Chimica degli additivi e conservazione degli alimenti;  
-14) Ispezione nelle industrie alimentari.  
-  
-Non e' ammessa la convalida di qualsiasi esame superato nel corso per la laurea.  
-Art. 607. - Gli iscritti alla Scuola sono obbligati a frequentare le lezioni, le esercitazioni pratiche e le eventuali visite alle industrie di prodotti alimentari.  
-Art. 608. - Per conseguire il diploma di specialista in tecnologie alimentari, i candidati dovranno aver superato gli esami su tutte le materie prescritte ed un esame finale consistente nella discussione su una dissertazione scritta preferibilmente a carattere sperimentale.  
-Art. 609. - A coloro che avranno superato l'esame finale verra' rilasciato un diploma di specialista in Tecnologie alimentari.  
-Art. 610. - Il Consiglio della Scuola e' costituito dal preside della Facolta' di farmacia, dal direttore della Scuola e da tutti i professori che svolgono i corsi di insegnamento. La Commissione di diploma e' costituita da sette membri designati dal Consiglio della Scuola fra i professori incaricati dei vari corsi di insegnamento.  
-Art. 611. - La Scuola e' autorizzata ad accettare ed utilizzare per il suo funzionamento contributi offerti da enti, da industrie o da privati.  
+L'art. 909, relativo alla scuola di specializzazione in tecnologie alimentari e' sostituito dal seguente:  
+"La durata del corso e' di due anni. Possono essere ammessi alla scuola i laureati in farmacia, in chimica e tecnologia farmaceutiche, in chimica, in chimica industriale, in scienze biologiche ed in scienze agrarie".  
+I primi tre commi dell'art. 910 sono sostituiti dai seguenti:  
+"Il consiglio della scuola stabilisce entro il mese di luglio di ciascun anno il numero massimo di iscritti alla scuola in relazione alle disponibilita' di locali, di attrezzature, di personale; e determina inoltre la ripartizione dei posti disponibili per ogni tipo di laurea.  
+Per il primo anno di funzionamento tale numero e' fissato in un massimo di sessanta iscritti, e precisamente: diciotto laureati in farmacia, diciotto in chimica e; tecnologia farmaceutiche, sette in chimica, sette in chimica industriale, sei in scienze agrarie e quattro in scienze biologiche.  
+La scelta degli iscritti verra' effettuata sulla base dei titoli presentati".  
+L'art. 911, relativo all'ordinamento degli studi e' integrato nel senso che le materie di insegnamento per i laureati in farmacia si intendono anche per i laureati in chimica e tecnologia farmaceutiche, mentre le materie di insegnamento per i laureati in chimica si intendono anche per i laureati in chimica industriale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 ottobre 1965
+### Dato a Roma, addi' 1 luglio 1980
 
-SARAGAT GUI
+PERTINI SARTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 23 novembre 1965
+Registrato alla Corte dei conti, addi' 25 settembre 1980
 
-Atti del Governo, registro n. 198, foglio n. 59. - VILLA
+Registro n. 88 Istruzione, foglio n. 75

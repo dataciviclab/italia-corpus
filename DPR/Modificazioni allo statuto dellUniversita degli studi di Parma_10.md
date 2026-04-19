@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1969 n. 351
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1956 n. 1151
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1969 n. 351
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1956 n. 1151
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -10,90 +10,46 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1772); [1 ottobre 1931, n. 1380](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1380); [26 ottobre 1933, n. 2401](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1933-10-26;2401); [13 dicembre 1934, n. 2423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-13;2423); [1 ottobre 1936, n. 2076](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2076); [20 aprile 1939, n. 1067](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-04-20;1067); [1 agosto 1941, n. 893](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-08-01;893); [26 marzo 1942, n. 330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-03-26;330); [5 settembre 1942, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1178); [21 gennaio 1943, n. 21, e con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1943-01-21;21) [30 dicembre 1947, n. 1735; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1735) [27 marzo 1948, n. 458](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-03-27;458); [30 ottobre 1949, n. 1002](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1002); [30 maggio 1950, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-05-30;615); [11 aprile 1951, n. 471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;471); [27 ottobre 1951, n. 1701](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1701); [31 agosto 1951, n. 1824](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-31;1824); [25 luglio 1952, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1350); [16 ottobre 1952, n. 4013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-16;4013); [27 marzo 1954, n. 734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-27;734); [24 settembre 1954, n. 1135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-24;1135); [4 febbraio 1955, n. 116](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;116) e [24 luglio 1955, n. 801](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-24;801);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-Dopo l'art. 298 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola speciale di servizio sociale annessa alla facolta' di giurisprudenza.   
-  
-Scuola speciale di servizio sociale   
-  
-Art. 299. - Nella facolta' di giurisprudenza dell'Universita' degli studi di Parma e' istituita una scuola speciale di servizio sociale ai sensi e per gli effetti dello [art. 20, terzo comma, lettera a) del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20-com3-leta).   
-La scuola si propone di preparare all'esercizio della professione di assistente sociale mediante l'insegnamento teorico delle discipline necessarie e la sua integrazione con le opportune esercitazioni pratiche.   
-La scuola conferisce il diploma di assistente sociale.   
-Art. 300. - Per l'ammissione alla scuola e' richiesto il diploma di maturita' classica o scientifica o di abilitazione degli istituti tecnici e commerciali e degli istituti magistrali.   
-Art. 301. - I proventi della scuola, costituiti dalle tasse scolastiche, dagli eventuali contributi dello Stato, dell'universita', di enti pubblici e privati, sono amministrati separatamente dalle entrate universitarie. La scuola ha un proprio bilancio che viene approvato dal consiglio di amministrazione dell'universita', quale allegato del bilancio universitario.   
-Art. 302. - Il consiglio della scuola e' composto da un professore di ruolo della facolta' di giurisprudenza, nominato dal rettore su proposta della facolta', dai docenti della scuola, che siano professori di ruolo o incaricati nell'ateneo; da un rappresentante di ciascuno degli enti o privati finanziatori della scuola da questi designati, dal direttore delle esercitazioni e dei tirocini professionali, che funge anche da segretario.   
-Il consiglio delibera su tutte le proposte di natura didattica e disciplinare relative alla scuola.   
-Art. 303. - Il direttore della scuola e' il professore di ruolo della facolta' di giurisprudenza designato presidente del consiglio della scuola.   
-Il direttore ha la rappresentanza e la direzione della scuola e ne assicura la disciplina.   
-Art. 304. - I docenti, il direttore delle esercitazioni e dei tirocini professionali e il personale della scuola, sono nominati dal rettore sentito il direttore della scuola.   
-I docenti della scuola sono scelti tra i professori di ruolo, incaricati, liberi docenti e assistenti delle facolta' di giurisprudenza, economia e commercio, magistero e medicina e chirurgia dell'Universita' di Parma e fra coloro che, per opere, uffici o insegnamenti tenuti, siano di riconosciuta competenza ed esperienza nelle materie che formano oggetto dell'insegnamento.   
-L'assistenza alle esercitazioni e ai tirocini professionali e' affidata ad esperti di servizio sociale - I monitori - la cui attivita' e' coordinata dal direttore delle esercitazioni e dei tirocini professionali.   
-I docenti degli insegnamenti professionali, il direttore delle esercitazioni e dei tirocini professionali ed i monitori, debbono, di norma, possedere il diploma di "assistente sociale".   
-Art. 305. - Il corso degli studi per il conseguimento del diploma di assistente sociale ha la durata di tre anni.   
-Art. 306. - Ogni anno puo' essere stabilito un numero minimo di iscrizioni; qualora tale numero non sia raggiunto, il direttore della scuola ha la facolta' di non iniziare i corsi.   
-L'ammissione alla scuola ha luogo in seguito a concorso per soli esami.   
-Art. 307. - Le materie di insegnamento e i corsi della scuola sono i seguenti:   
-Gruppo A: insegnamenti culturali di base:   
-  
-Elementi di diritto pubblico;   
-Elementi di diritto privato;   
-Elementi di diritto del lavoro e legislazione sociale;   
-Diritto penale e legislazione minorile (sem.);   
-Legislazione assistenziale (sem.);   
-Elementi di economia politica e di storia sociale (bienn.);   
-Sociologia e antropologia culturale (bienn.);   
-Psicologia generale, differenziale, clinica;   
-Corso interdisciplinare sullo sviluppo psicofisico dell'individuo (bienn.);   
-Biologia e fisiologia umana;   
-Igiene e medicina sociale (sem.).   
-  
-Gruppo B: insegnamenti professionali:   
-  
-Corso introduttivo di servizio sociale;   
-Servizio sociale individuale (trienn.);   
-Servizio sociale di gruppo (bienn.);   
-Servizio sociale di comunita' (bienn.);   
-Amministrazione dei servizi sociali;   
-Metodologia della ricerca applicata al servizio sociale (trienn.);   
-Etica professionale.   
-  
-Le esercitazioni pratiche si svolgono nell'ambito dei singoli insegnamenti a scopo di illustrazione, applicazione ed integrazione della parte teorica.   
-I tirocini professionali, consistenti in esperienze concrete di servizio sociale, vengono effettuati, nei singoli anni di corso, presso enti e istituzioni adatti, sotto la guida di "supervisori".   
-Art. 308. - Le commissioni per gli esami di profitto sono composte di tre membri nominati dal direttore.   
-Per essere ammessi agli esami gli iscritti dovranno avere ottenuto le relative firme di frequenza alle lezioni.   
-Per essere ammessi agli esami di diploma gli iscritti dovranno avere superato gli esami di profitto stabiliti dal programma della scuola.   
-La commissione per l'esame di diploma e' composta di sette membri scelti dal rettore fra gli insegnanti della scuola.   
-L'esame di diploma consiste in una discussione sopra una dissertazione originale scelta fra le materie d'insegnamento della scuola.   
-L'argomento della dissertazione di diploma dovra' essere concordato con l'insegnante della materia prescelta, almeno quattro mesi prima della discussione.   
-Art. 309. - La scuola potra' avere un regolamento da approvare dal consiglio di amministrazione su proposta del consiglio della scuola.   
-  
-Norma transitoria   
-  
-Alla data di entrata in vigore delle presenti disposizioni, gli iscritti provenienti da altre scuole di servizio sociale, possono chiedere l'abbreviazione degli studi, in base agli esami sostenuti ed essere ammessi, a giudizio del consiglio della scuola, al 2° e al 3° anno di corso alla discussione della tesi di diploma.   
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 22. - Agli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti:  
+a) "demografia";  
+b) "organizzazione aziendale";  
+c) "contabilita' nazionale".  
+Art. 39. - Agli insegnamenti complementari del corso di laurea in fisica e' aggiunto quello di "fisica nucleare".  
+Art. 46. - Agli insegnamenti complementari del corso di laurea in matematica e fisica e' aggiunto quello di "fisica nucleare".  
+Art. 53. - Agli insegnamenti complementari del triennio di studi di applicazione del corso di laurea in chimica (indirizzo inorganico-chimico fisico e indirizzo organico-biologico) e' aggiunto quello di "strutturistica chimica".  
+Art. 58. - Il secondo comma e' sostituito dai seguenti:  
+"Gli esami di chimica generale ed inorganica e chimica organica devono precedere gli esami di zoologia e di fisiologia generale.  
+L'esame di chimica generale ed inorganica deve precedere l'esame di mineralogia".  
+Art. 70. - Agli insegnamenti complementari del corso di laurea in farmacia e' aggiunto quello di "biochimica applicata".  
+Art. 71. - E' sostituito dal seguente:  
+"Lo studente non puo' sostenere gli esami di fisiologia generale e di chimica biologica, se non dopo aver superato quelli di chimica generale ed inorganica, di fisica e di anatomia umana. Inoltre, l'esame di chimica generale ed inorganica deve precedere quelli di esercitazioni di chimica farmaceutica e tossicologica, l'esame di chimica organica deve precedere quello di chimica farmaceutica e tossicologica.  
+L'esame di farmacologia e farmacognosia non puo' essere sostenuto senza che lo studente abbia prima superato gli esami di fisiologia generale e di chimica biologica".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 maggio 1969
+### Dato a Roma, addi' 5 settembre 1956
 
-SARAGAT FERRARI AGGRADI
+GRONCHI ROSSI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: MORO
 
-Registrato alla Corte dei conti, addi' 5 luglio 1969
+Registrato alla Corte dei conti, addi' 18 ottobre 1956
 
-Atti del Governo, registro n. 227, foglio n. 116. - CARUSO
+Atti del Governo, registro n. 101, foglio n. 47. - CARLOMAGNO

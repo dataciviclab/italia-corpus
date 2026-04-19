@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 575
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1975 n. 575
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 575
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1975 n. 575
+================================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad acquistare un immobile.
 ----------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-575. Decreto del Presidente della Repubblica 16 luglio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare dai fratelli Romagnoli Giulia, Alfonso, Margherita e Mario, al convenuto prezzo di L. 63.000.000, ritenuto congruo dall'ufficio tecnico erariale di Piacenza, un immobile sito in detta citta', via Mazzini n. 51, distinto al nuovo catasto edilizio urbano alla partita 2970, foglio 15, mappale 65 sub 2, da destinare a sede sociale.  
+575. Decreto del Presidente della Repubblica 29 settembre 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare al prezzo di L. 15.000.000, un appartamento sito in Enna, via Longo, angolo via Manzoni, 15, composto di sei vani, di proprieta' del sig. Lunardo Giuseppe, distinto nel nuovo catasto edilizio urbano alla partita 8211, foglio 18 con il n. 410/14, da adibire a sede della locale sezione U.I.C.   
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 11 ottobre 1985  
-Registro n. 9 Presidenza, foglio n. 75
+Visto, il Guardasigilli: REALE   
+Registrato alla Corte dei conti, addi' 26 novembre 1975   
+Atti di Governo, registro n. 14, foglio n. 45

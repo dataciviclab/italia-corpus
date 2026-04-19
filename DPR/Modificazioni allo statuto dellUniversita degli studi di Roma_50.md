@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1973 n. 1161
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1963 n. 551
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1973 n. 1161
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1963 n. 551
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -12,10 +12,11 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successivi;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduto il [regio decreto 30 settembre 1935, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -23,54 +24,22 @@ Sulla proposta del Ministro per la pubblica istruzione;
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:  
-Gli articoli da 574 a 577, relativi alla "Scuola di perfezionamento in malattie del fegato e del ricambio" che muta la denominazione in quella di "Scuola di specializzazione in malattie del fegato e del ricambio", sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in malattie del fegato e del ricambio  
-  
-Art. 574. - Il corso degli studi della scuola di specializzazione in malattie del fegato e del ricambio ha la durata di tre anni.  
-Art. 575. - Il numero massimo degli iscritti da ammettere e' di otto complessivamente.  
-Art. 576. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
-  
-1° Anno:  
-Anatomia e istologia normale del fegato e delle vie biliari (biennale);  
-Fisiopatologia del fegato e delle vie biliari e del ricambio intermedio (biennale);  
-Clinica medica generale (triennale);  
-Malattie del fegato e delle vie biliari (triennale);  
-Malattie del ricambio (triennale);  
-Nozioni di microbiologia e parassitologia con particolare riguardo al fegato.  
-  
-2° Anno:  
-Anatomia e istologia patologica del fegato e delle vie biliari (biennale);  
-Fisiopatologia del fegato e delle vie biliari e del ricambio intermedio (biennale):  
-Diagnostica funzionale delle malattie del fegato e del ricambio;  
-Elementi di psicosomatica riguardo alla patologia del fegato e del ricambio;  
-Controllo radiologico del fegato e delle vie biliari;  
-Clinica medica generale (triennale);  
-Malattie del fegato e delle vie biliari (triennale);  
-Malattie del ricambio (triennale);  
-Terapia chirurgica delle malattie del fegato e de vie biliari (biennale);  
-  
-3° Anno:  
-Clinica medica generale (triennale);  
-Malattie del fegato e delle vie biliari (triennale);  
-Malattie del ricambio (triennale);  
-Principi di terapia generale e dietetica applicata alle malattie del fegato e delle vie biliari e del ricambio;  
-Terapia chirurgica delle malattie del fegato e delle vie biliari (biennale);  
-Terapia idrologica delle malattie del fegato e delle vie biliari e del ricambio.  
-  
-Art. 577. - A coloro che avranno superato l'esame di diploma ed una prova pratica stabilita dalla commissione esaminatrice, verra' rilasciato il diploma di specialista in malattie del fegato e del ricambio.  
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 36, e' modificato nel senso che l'Istituto di "Politica economica" annesso alla Facolta' di economia e commercio e' soppresso; mentre sono istituiti i due seguenti Istituti:  
+"Istituto di Politica economica e finanziaria";  
+"Istituto di Economia e politica agraria".  
+Art. 38. - Agli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti quelli di "Diritto tributario" e di "Tecnica dei crediti speciali".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Lussemburgo, ambasciata d'Italia, addi' 27 ottobre 1973
+### Dato a Roma, addi' 14 marzo 1963
 
-LEONE MALFATTI
+SEGNI GUI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 28 ottobre 1974
+Registrato alla Corte dei conti, addi' 24 aprile 1963
 
-Atti di Governo, registro n. 6, foglio, n. 75. - SCIARRETTA
+Atti del Governo, registro n. 168, foglio n. 36. - VILLA

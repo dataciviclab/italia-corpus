@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 156
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1970 n. 562
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 156
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1970 n. 562
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,125 +18,633 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio universitario nazionale nei suoi pareri;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sulla proposta del Ministro per la pubblica istruzione;
 
-Sulla
------
+Decreta:
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+"L'art. 122, relativo all'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia e' modificato nel senso che le scuole in "Medicina generale", "Otorinolaringoiatria", "Oculistica", "Anestesiologia" mutano rispettivamente le denominazioni in quelle di "Medicina interna", "Otorinolaringoiatria e patologia cervico-facciale", "Clinica oculistica", "Anestesiologia e rianimazione".
+
+L'art. 136, relativo alla scuola in medicina generale che assume la denominazione di scuola di specializzazione in medicina interna; gli articoli da 140 a 142, relativi alla scuola in otorinolaringoiatria che muta la denominazione in quella di otorinolaringoiatria e patologia cervico-facciale; l'art. 144, relativo alla scuola in clinica oculistica; l'art. 148, relativo alla scuola in medicina legale e delle assicurazioni; gli articoli 151 e 152, relativi alla scuola in anestesiologia che assume la denominazione di scuola in anestesiologia e rianimazione; l'art. 153, relativo alla scuola in medicina del lavoro; l'art. 154, relativo alla scuola in urologia, sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in medicina interna
+
+Art. 136. - Durata: 5 anni. Numero massimo di iscritti: sei per ogni anno di corso (totale: trenta iscritti).
+
+Insegnamenti impartiti nella scuola:
+
+1° Anno:
+
+Malattie infettive, distreattive e del sangue;
+
+Istituzioni di terapia;
+
+Anatomia ed istologia patologica (biennale);
+
+Clinica medica generale e terapia medica (quinquennale).
+
+2° Anno:
+
+Malattie dell'apparato cardiovascolare;
+
+Microbiologia e sierologia;
+
+Chimica clinica;
+
+Anatomia ed istologia patologica (biennale);
+
+Clinica medica generale e terapia medica (quinquennale).
+
+3° Anno:
+
+Malattie dell'apparato digerente;
+
+Malattie renali;
+
+Clinica medica generale e terapia medica (quinquennale).
+
+4° Anno:
+
+Malattie dell'apparato respiratorio;
+
+Malattie del sistema nervoso;
+
+Clinica medica generale e terapia medica (quinquennale).
+
+5° Anno:
+
+Malattie del ricambio, malattie delle ghiandole endocrine;
+
+Clinica medica generale e terapia medica (quinquennale).
+
+Insegnamenti complementari:
+
+Parassitologia medica;
+
+Genetica medica;
+
+Semeiotica dermatologica;
+
+Semeiotica oculistica;
+
+Semeiotica ginecologica;
+
+Radiologia.
+
+Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale
+
+Art. 140. - La durata della scuola e' di tre anni.
+
+Art. 141. - Il numero massimo degli Iscritti e' di quattro per ogni anno di corso (totale: dodici iscritti).
+
+Art. 142. - Gli insegnamenti impartiti nella scuola sono i seguenti:
+
+1° Anno:
+
+Anatomia;
+
+Fisiologia;
+
+Audiologia (biennale);
+
+Semeiotica otorinolaringoiatrica;
+
+Tecnica di laboratorio;
+
+Patologia otorinolaringoiatrica e cervico-facciale (triennale);
+
+Anatomia ed istologia patologica otorinolaringoiatrica.
+
+2° Anno:
+
+Tecniche operatorie in otorinolaringoiatria;
+
+Anestesiologia in otorinolaringoiatria;
+
+Patologia e clinica otorinolaringoiatrica e cervico facciale (triennale);
+
+Radiologia in rapporto con l'otorinolaringoiatria;
+
+Pediatria in rapporto con l'otorinolaringoiatria;
+
+Audiologia (biennale);
+
+Otoneurologia;
+
+Foniatria.
+
+3° Anno:
+
+Patologia e clinica otorinolaringoiatrica e cervico facciale (triennale);
+
+Terapia medica e fisica in otorinolaringoiatria;
+
+Neuropatologia in rapporto con l'otorinolaringoiatria;
+
+Chirurgia plastica;
+
+Tracheobroncoscopia;
+
+Medicina legale ed infortunistica in otorinolaringoiatria.
+
+Scuola di specializzazione in clinica oculistica
+
+Art. 144. - Durata: quattro anni. Numero massimo di iscritti: sei per ogni anno di corso (totale: ventiquattro iscritti).
+
+Insegnamenti impartiti nella scuola:
+
+1° Anno:
+
+Anatomia e istologia dell'apparato oculare;
+
+Nozioni di embriologia e genetica oculare;
+
+Fisiologia dell'occhio e nozioni di biochimica de tessuti e dei liquidi oculari;
+
+Nozioni di ottica fisiologica, esame della rifrazione Microbiologia ed igiene oculare.
+
+2° Anno:
+
+Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmologia, perimetria, campimetria, adottometria, senso cromatico, tonometria tonografia, esami elettrofunzionali, radiologia);
+
+Farmacologia oculare e terapia fisica;
+
+Anatomia patologica oculare;
+
+Patologia e clinica oculare (malattie delle palpebre della congiuntiva, delle vie lacrimali, della cornea e della sclera).
+
+3° Anno:
+
+Patologia e clinica oculare (malattie dell'uvea, della retina, del nervo e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);
+
+Anomalie e patologia della motilita' oculare e della visione binoculare;
+
+Ortottica e pleottica;
+
+Affezioni otorinolaringoiatriche e occhio;
+
+Tecnica operatoria (1ª parte).
+
+4° Anno:
+
+Neuroftalmologia;
+
+Malattie oculari in rapporto ad affezioni generali;
+
+Malattie professionali;
+
+Infortunistica e medicina legale oculare;
+
+Tecnica operatoria (2ª parte).
+
+Scuola di specializzazione in medicina legale e delle assicurazioni
+
+Art. 148. - Durata: tre anni. Numero massimo di iscritti: dieci per anno (totale: trenta iscritti).
+
+Insegnamenti impartiti nella scuola:
+
+1° Anno:
+
+Medicina legale generale;
+
+Elementi di diritto pubblico e privato;
+
+Tecnica e diagnostica anatomo-patologica generale e medico-legale;
+
+Traumatologia medico-legale;
+
+Semeiotica medico-legale.
+
+2° Anno:
+
+Deontologia medica;
+
+Neuropsichiatria medico-legale;
+
+Elementi di medicina criminologica e di medicina penitenziaria;
+
+Indagini di sopralluogo;
+
+Identificazione personale.
+
+3° Anno:
+
+Medicina legale civilistica e canonistica;
+
+Tossicologia medico-legale;
+
+Tecniche di laboratorio medico-legale ed ematologia forense;
+
+Ostetricia e ginecologia forensi;
+
+Elementi di legislazione del lavoro;
+
+Elementi di medicina del lavoro;
+
+Medicina delle assicurazioni;
+
+Medicina legale militare e pensionistica civile.
+
+Scuola di specializzazione in anestesiologia e rianimazione
+
+Art. 151. - Durata: tre anni. Numero massimo di iscritti: dieci per ogni anno di corso (totale: trenta iscritti).
+
+Art. 152. - Insegnamenti impartiti nella scuola:
+
+1° Anno:
+
+Anatomia, biochimica, farmacologia;
+
+Fisica, fisiologia applicata alla anestesiologia e rianimazione;
+
+Anestesiologia;
+
+Tecniche chirurgiche di interesse anestesiologico;
+
+Aspetti medico-legali dell'anestesia e della rianimazione.
+
+2° Anno:
+
+Anestesiologia;
+
+Terapia antalgica;
+
+Rianimazione.
+
+3° Anno:
+
+Rianimazione;
+
+Tecniche speciali di anestesia e rianimazione;
+
+Indagini diagnostiche attinenti alla specialita'.
+
+Scuola di specializzazione in medicina del lavoro
+
+Art. 153. - Durata: tre anni. Numero massimo di iscritti: dieci per anno (totale: trenta iscritti).
+
+Insegnamenti impartiti nella scuola:
+
+1° Anno:
+
+Fisiologia del lavoro ed ergonomia;
+
+Tecnologia ed igiene del lavoro;
+
+Patologia e clinica del lavoro;
+
+Psicologia del lavoro.
+
+2° Anno:
+
+Fisiologia del lavoro ed ergonomia;
+
+Tecnologia ed igiene del lavoro;
+
+Patologia e clinica del lavoro;
+
+Psicologia del lavoro;
+
+Tossicologia industriale e diagnostica di laboratorio;
+
+Infortunistica e pronto soccorso;
+
+Biometria e statistica sanitaria;
+
+Medicina preventiva dei lavoratori.
+
+3° Anno:
+
+Patologia e clinica del lavoro;
+
+Tecnologia ed igiene del lavoro;
+
+Infortunistica e pronto soccorso;
+
+Medicina legale e delle assicurazioni;
+
+Medicina preventiva dei lavoratori;
+
+Radiologia e medicina nucleare;
+
+Tossicologia industriale e diagnostica di laboratorio;
+
+Dermatologia professionale.
+
+Scuola di specializzazione in urologia
+
+Art. 154. - Durata: tre anni. Numero massimo di iscritti: sei per anno (totale: diciotto iscritti).
+
+1° Anno:
+
+Anatomia descrittiva e topografica dell'apparato uro-genitale;
+
+Fisiologia dell'apparato uro-genitale;
+
+Patologia dell'apparato urinario e genitale maschile;
+
+Nefropatie mediche;
+
+Semeiotica dell'apparato uro-genitale (funzionale e di laboratorio);
+
+Tecniche strumentali e semeiologia endoscopica;
+
+Batteriologia in urologia;
+
+Farmacoterapia delle affezioni uro-genitali.
+
+2° Anno:
+
+Patologia dell'apparato urinario e genitale maschile;
+
+Clinica urologica;
+
+Patologia genitale femminile di interesse urologico;
+
+Nefrologia chirurgica;
+
+Anatomia ed istologia patologica dell'apparato urogenitale;
+
+Semeiotica dell'apparato urogenitale (funzionale e di laboratorio);
+
+Tecniche strumentali e semeiologia endoscopica;
+
+Anatomia chirurgica dell'apparato uro-genitale;
+
+Radiologia dell'apparato urinario e genitale;
+
+Le affezioni cutanee e veneree nei riguardi della urologia;
+
+La anestesiologia ed il trattamento pre e postoperatorio del malato urologico.
+
+3° Anno:
+
+Clinica urologica;
+
+Patologia e clinica urologica infantile;
+
+Radiologia dell'apparato urinario e genitale;
+
+Tecniche operatorie sull'apparato urinario e genitale;
+
+Urologia ginecologica.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 1 giugno 1970
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 30 luglio 1970 Atti del Governo, registro n. 236, foglio n. 203. - CARUSO
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Lo statuto dell'Universita' di Palermo, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:  
-Art. 147 - all'elenco delle scuole di specializzazione in medicina e chirurgia sono aggiunte le seguenti nuove scuole: scuola di specializzazione in diabetologia e malattie del ricambio - scuola di specializzazione in geriatria e gerontologia.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Dopo l'art. 196, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in diabetologia e malattie del ricambio e della scuola di specializzazione in geriatria e gerontologia:  
+Decreta:   
   
-Scuola di specializzazione in diabetologia e malattie del ricambio  
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+"L'art. 122, relativo all'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia e' modificato nel senso che le scuole in "Medicina generale", "Otorinolaringoiatria", "Oculistica", "Anestesiologia" mutano rispettivamente le denominazioni in quelle di "Medicina interna", "Otorinolaringoiatria e patologia cervico-facciale", "Clinica oculistica", "Anestesiologia e rianimazione".   
+L'art. 136, relativo alla scuola in medicina generale che assume la denominazione di scuola di specializzazione in medicina interna; gli articoli da 140 a 142, relativi alla scuola in otorinolaringoiatria che muta la denominazione in quella di otorinolaringoiatria e patologia cervico-facciale; l'art. 144, relativo alla scuola in clinica oculistica; l'art. 148, relativo alla scuola in medicina legale e delle assicurazioni; gli articoli 151 e 152, relativi alla scuola in anestesiologia che assume la denominazione di scuola in anestesiologia e rianimazione; l'art. 153, relativo alla scuola in medicina del lavoro; l'art. 154, relativo alla scuola in urologia, sono abrogati e sostituiti dai seguenti:   
   
-Art. 197. - Viene istituita nella facolta' di medicina e chirurgia dell'Universita' di Palermo la scuola di specializzazione in diabetologia e malattie del ricambio con sede presso il reparto di patologia medica I.  
-Il corso di studi ha la durata di tre anni.  
-La durata complessiva del corso di studi non e' suscettibile di abbreviazione.  
-La frequenza alla scuola e' obbligatoria.  
-Gli allievi che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le singole prove di esame.  
-Alla scuola vengono ammessi i laureati in medicina e chirurgia, ai quali dopo aver superato l'esame finale, e' rilasciato il diploma di specialista in diabetologia e malattie del ricambio.  
-Il numero complessivo degli iscritti e' di quattro per ogni anno di corso.  
-L'ammissione al corso di specializzazione avviene per titoli ed esami.  
-Art. 198. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-anatomia e citomorfologia funzionale;  
-elementi di genetica del diabete e delle malattie del ricambio; metodi di analisi chimica e quantitativa;  
-patologia molecolare;  
-fisiopatologia clinica del diabete e delle malattie del ricambio;  
-elementi di biometria e statistica (complementare).  
-2° Anno:  
-patologia sperimentale metabolica;  
-semeiotica fisica e funzionale del diabete e delle malattie del ricambio;  
-clinica del diabete e delle malattie del ricambio (I);  
-medicina sociale e preventiva del diabete e delle malattie del ricambio;  
-neuropatologia del diabete e delle malattie del ricambio (complementare);  
-fisiopatologia e clinica ostetrica ginecologica del diabete e delle malattie del ricambio (complementare).  
-3° Anno:  
-clinica del diabete e delle malattie del ricambio (II);  
-farmacologia e terapia medica del diabete e delle malattie del ricambio;  
-dietologia del diabete e delle malattie del ricambio;  
-elementi di psicologia nel diabete e nelle malattie del ricambio (complementare);  
-oftalmologia del diabete e nelle malattie del ricambio (complementare).  
-Art. 199. - La direzione della scuola e' affidata ad un professore di ruolo o fuori ruolo o, in carenza, ad un professore di ruolo o fuori ruolo di materia affine.  
-Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni successivi devono superare le prove di esame sulle materie impartite durante l'anno.  
-Al termine del corso di studi per il conseguimento del diploma di specialista in diabetologia e malattie del ricambio devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+Scuola di specializzazione in medicina interna   
   
-Scuola di specializzazione in geriatria e gerontologia  
+Art. 136. - Durata: 5 anni. Numero massimo di iscritti: sei per ogni anno di corso (totale: trenta iscritti).   
+Insegnamenti impartiti nella scuola:   
+1° Anno:   
+Malattie infettive, distreattive e del sangue;   
+Istituzioni di terapia;   
+Anatomia ed istologia patologica (biennale);   
+Clinica medica generale e terapia medica (quinquennale).   
+2° Anno:   
+Malattie dell'apparato cardiovascolare;   
+Microbiologia e sierologia;   
+Chimica clinica;   
+Anatomia ed istologia patologica (biennale);   
+Clinica medica generale e terapia medica (quinquennale).   
+3° Anno:   
+Malattie dell'apparato digerente;   
+Malattie renali;   
+Clinica medica generale e terapia medica (quinquennale).   
+4° Anno:   
+Malattie dell'apparato respiratorio;   
+Malattie del sistema nervoso;   
+Clinica medica generale e terapia medica (quinquennale).   
+5° Anno:   
+Malattie del ricambio, malattie delle ghiandole endocrine;   
+Clinica medica generale e terapia medica (quinquennale).   
+Insegnamenti complementari:   
+Parassitologia medica;   
+Genetica medica;   
+Semeiotica dermatologica;   
+Semeiotica oculistica;   
+Semeiotica ginecologica;   
+Radiologia.   
   
-Art. 200. - La scuola di specializzazione in geriatria e gerontologia ha sede presso il reparto di geriatria e gerontologia e conferisce il diploma di specialista in geriatria e gerontologia.  
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
-Il numero massimo degli allievi e' di otto per anno di corso e complessivamente di trentadue iscritti per l'intero corso di studi.  
-L'ammissione al corso avviene per titoli ed esami.  
-Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-farmacologia (annuale);  
-principi e tecniche della riabilitazione della patologia dell'apparato locomotore (annuale);  
-anatomia e istologia patologica (biennale I);  
-biologia della senescenza (biennale I);  
-fisiopatologia (biennale I);  
-geriatria sociale (biennale I);  
-semeiotica (biennale I);  
-principi e tecniche di materie specialistiche in geriatria (triennale I).  
-2° Anno:  
-principi e tecniche della riabilitazione cardiovascolare e respiratoria (annuale);  
-anatomia e istologia patologica (biennale II);  
-biologia della senescenza (biennale II);  
-fisiopatologia (biennale II);  
-geriatria sociale (biennale II);  
-semeiotica (biennale II);  
-radiologia e radioterapia (biennale I);  
-principi e tecniche di materie specialistiche in geriatria (triennale II).  
-3° Anno:  
-neurologia (annuale);  
-principi e tecniche della riabilitazione neurologica (annuale); psicologia (annuale);  
-radiologia e radioterapia (biennale II);  
-principi e tecniche di materie specialistiche in geriatria (triennale III);  
-clinica geriatrica (biennale I);  
-terapia medica (biennale I);  
-pratica geriatrica extraospedaliera (biennale I).  
-4° Anno:  
-chirurgia geriatrica (annuale);  
-formazione degli operatori geriatrici (annuale);  
-principi e tecniche della riabilitazione nel campo delle funzioni cerebrali superiori (annuale);  
-principi e tecniche di riattivazione, terapia occupazionale;  
-geragogia (annuale);  
-psicogeriatria (annuale);  
-clinica geriatrica (biennale II);  
-terapia medica (biennale II);  
-pratica geriatrica extraospedaliera (biennale II).  
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
-Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.  
-Al termine del corso di studi per il conseguimento del diploma di specialista in geriatria e gerontologia devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale   
+  
+Art. 140. - La durata della scuola e' di tre anni.   
+Art. 141. - Il numero massimo degli Iscritti e' di quattro per ogni anno di corso (totale: dodici iscritti).   
+Art. 142. - Gli insegnamenti impartiti nella scuola sono i seguenti:   
+  
+1° Anno:   
+Anatomia;   
+Fisiologia;   
+Audiologia (biennale);   
+Semeiotica otorinolaringoiatrica;   
+Tecnica di laboratorio;   
+Patologia otorinolaringoiatrica e cervico-facciale (triennale);   
+Anatomia ed istologia patologica otorinolaringoiatrica.   
+  
+2° Anno:   
+Tecniche operatorie in otorinolaringoiatria;   
+Anestesiologia in otorinolaringoiatria;   
+Patologia e clinica otorinolaringoiatrica e cervico facciale (triennale);   
+Radiologia in rapporto con l'otorinolaringoiatria;   
+Pediatria in rapporto con l'otorinolaringoiatria;   
+Audiologia (biennale);   
+Otoneurologia;   
+Foniatria.   
+  
+3° Anno:   
+Patologia e clinica otorinolaringoiatrica e cervico facciale (triennale);   
+Terapia medica e fisica in otorinolaringoiatria;   
+Neuropatologia in rapporto con l'otorinolaringoiatria;   
+Chirurgia plastica;   
+Tracheobroncoscopia;   
+Medicina legale ed infortunistica in otorinolaringoiatria.   
+  
+Scuola di specializzazione in clinica oculistica   
+  
+Art. 144. - Durata: quattro anni. Numero massimo di iscritti: sei per ogni anno di corso (totale: ventiquattro iscritti).   
+Insegnamenti impartiti nella scuola:   
+1° Anno:   
+Anatomia e istologia dell'apparato oculare;   
+Nozioni di embriologia e genetica oculare;   
+Fisiologia dell'occhio e nozioni di biochimica de tessuti e dei liquidi oculari;   
+Nozioni di ottica fisiologica, esame della rifrazione Microbiologia ed igiene oculare.   
+2° Anno:   
+Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmologia, perimetria, campimetria, adottometria, senso cromatico, tonometria tonografia, esami elettrofunzionali, radiologia);   
+Farmacologia oculare e terapia fisica;   
+Anatomia patologica oculare;   
+Patologia e clinica oculare (malattie delle palpebre della congiuntiva, delle vie lacrimali, della cornea e della sclera).   
+3° Anno:   
+Patologia e clinica oculare (malattie dell'uvea, della retina, del nervo e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);   
+Anomalie e patologia della motilita' oculare e della visione binoculare;   
+Ortottica e pleottica;   
+Affezioni otorinolaringoiatriche e occhio;   
+Tecnica operatoria (1ª parte).   
+4° Anno:   
+Neuroftalmologia;   
+Malattie oculari in rapporto ad affezioni generali;   
+Malattie professionali;   
+Infortunistica e medicina legale oculare;   
+Tecnica operatoria (2ª parte).   
+  
+Scuola di specializzazione in medicina legale e delle assicurazioni   
+Art. 148. - Durata: tre anni. Numero massimo di iscritti: dieci per anno (totale: trenta iscritti).   
+Insegnamenti impartiti nella scuola:   
+1° Anno:   
+Medicina legale generale;   
+Elementi di diritto pubblico e privato;   
+Tecnica e diagnostica anatomo-patologica generale e medico-legale;   
+Traumatologia medico-legale;   
+Semeiotica medico-legale.   
+2° Anno:   
+Deontologia medica;   
+Neuropsichiatria medico-legale;   
+Elementi di medicina criminologica e di medicina penitenziaria;   
+Indagini di sopralluogo;   
+Identificazione personale.   
+3° Anno:   
+Medicina legale civilistica e canonistica;   
+Tossicologia medico-legale;   
+Tecniche di laboratorio medico-legale ed ematologia forense;   
+Ostetricia e ginecologia forensi;   
+Elementi di legislazione del lavoro;   
+Elementi di medicina del lavoro;   
+Medicina delle assicurazioni;   
+Medicina legale militare e pensionistica civile.   
+  
+Scuola di specializzazione in anestesiologia e rianimazione   
+  
+Art. 151. - Durata: tre anni. Numero massimo di iscritti: dieci per ogni anno di corso (totale: trenta iscritti).   
+Art. 152. - Insegnamenti impartiti nella scuola:   
+  
+1° Anno:   
+Anatomia, biochimica, farmacologia;   
+Fisica, fisiologia applicata alla anestesiologia e rianimazione;   
+Anestesiologia;   
+Tecniche chirurgiche di interesse anestesiologico;   
+Aspetti medico-legali dell'anestesia e della rianimazione.   
+  
+2° Anno:   
+Anestesiologia;   
+Terapia antalgica;   
+Rianimazione.   
+  
+3° Anno:   
+Rianimazione;   
+Tecniche speciali di anestesia e rianimazione;   
+Indagini diagnostiche attinenti alla specialita'.   
+  
+Scuola di specializzazione in medicina del lavoro   
+  
+Art. 153. - Durata: tre anni. Numero massimo di iscritti: dieci per anno (totale: trenta iscritti).   
+Insegnamenti impartiti nella scuola:   
+1° Anno:   
+Fisiologia del lavoro ed ergonomia;   
+Tecnologia ed igiene del lavoro;   
+Patologia e clinica del lavoro;   
+Psicologia del lavoro.   
+  
+2° Anno:   
+Fisiologia del lavoro ed ergonomia;   
+Tecnologia ed igiene del lavoro;   
+Patologia e clinica del lavoro;   
+Psicologia del lavoro;   
+Tossicologia industriale e diagnostica di laboratorio;   
+Infortunistica e pronto soccorso;   
+Biometria e statistica sanitaria;   
+Medicina preventiva dei lavoratori.   
+3° Anno:   
+Patologia e clinica del lavoro;   
+Tecnologia ed igiene del lavoro;   
+Infortunistica e pronto soccorso;   
+Medicina legale e delle assicurazioni;   
+Medicina preventiva dei lavoratori;   
+Radiologia e medicina nucleare;   
+Tossicologia industriale e diagnostica di laboratorio;   
+Dermatologia professionale.   
+  
+Scuola di specializzazione in urologia   
+  
+Art. 154. - Durata: tre anni. Numero massimo di iscritti: sei per anno (totale: diciotto iscritti).   
+  
+1° Anno:   
+Anatomia descrittiva e topografica dell'apparato uro-genitale;   
+Fisiologia dell'apparato uro-genitale;   
+Patologia dell'apparato urinario e genitale maschile;   
+Nefropatie mediche;   
+Semeiotica dell'apparato uro-genitale (funzionale e di laboratorio);   
+Tecniche strumentali e semeiologia endoscopica;   
+Batteriologia in urologia;   
+Farmacoterapia delle affezioni uro-genitali.   
+  
+2° Anno:   
+Patologia dell'apparato urinario e genitale maschile;   
+Clinica urologica;   
+Patologia genitale femminile di interesse urologico;   
+Nefrologia chirurgica;   
+Anatomia ed istologia patologica dell'apparato urogenitale;   
+Semeiotica dell'apparato urogenitale (funzionale e di laboratorio);   
+Tecniche strumentali e semeiologia endoscopica;   
+Anatomia chirurgica dell'apparato uro-genitale;   
+Radiologia dell'apparato urinario e genitale;   
+Le affezioni cutanee e veneree nei riguardi della urologia;   
+La anestesiologia ed il trattamento pre e postoperatorio del malato urologico.   
+  
+3° Anno:   
+Clinica urologica;   
+Patologia e clinica urologica infantile;   
+Radiologia dell'apparato urinario e genitale;   
+Tecniche operatorie sull'apparato urinario e genitale;   
+Urologia ginecologica.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 gennaio 1980
+### Dato a Roma, addi' 1 giugno 1970
 
-PERTINI VALITUTTI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 26 aprile 1980
+Registrato alla Corte dei conti, addi' 30 luglio 1970
 
-Registro n. 38 Istruzione, foglio n. 28
+Atti del Governo, registro n. 236, foglio n. 203. - CARUSO

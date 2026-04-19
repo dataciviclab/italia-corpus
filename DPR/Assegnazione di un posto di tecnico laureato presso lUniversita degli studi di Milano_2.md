@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 maggio 1985 n. 908
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1983 n. 381
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 maggio 1985 n. 908
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1983 n. 381
+============================================================
 
 Assegnazione di un posto di tecnico laureato presso l'Universita' degli studi di Milano.
 ----------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Assegnazione di un posto di tecnico laureato presso l'Universita' degli studi di
 Art. 1
 ------
 
-n.
+N.
 
-908. Decreto del Presidente della Repubblica 31 maggio 1985, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di fisiologia generale e chimica biologica (per le esigenze della cattedra di chimica biologica) della facolta' di farmacia dell'Universita' di Milano.  
+381. Decreto del Presidente della Repubblica 31 marzo 1983, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di fisiologia umana II della facolta' di medicina e chirurgia dell'Universita' di Milano.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 14 febbraio 1986  
-Registro n. 9 Istruzione, foglio n. 117
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 11 agosto 1983  
+Registro n. 58 Istruzione, foglio n. 135

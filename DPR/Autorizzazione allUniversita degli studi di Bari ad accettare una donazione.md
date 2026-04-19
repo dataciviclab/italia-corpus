@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1955 n. 734
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1950 n. 1175
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1955 n. 734
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1950 n. 1175
+===============================================================
 
 Autorizzazione all'Universita' degli studi di Bari ad accettare una donazione.
 ------------------------------------------------------------------------------
@@ -12,8 +12,7 @@ Art. 1
 
 N.
 
-734. Decreto del Presidente della Repubblica 30 giugno 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Bari viene autorizzata ad accettare la donazione della somma di L. 1.150.000 (un milionecentocinquantamila), disposta dal prof. dott. Vincenzo Bonomo, in nome e per conto di un apposito Comitato, per la istituzione, con la rendita derivante dalla suddetta liberalita', di una borsa di studio biennale intitolata al prof. Michele Fenicia.  
+1175. Decreto del Presidente della Repubblica 25 ottobre 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Bari viene autorizzata ad accettare la donazione della somma di L. 130.000 nominali, in titoli del Debito pubblico italiano, disposta in suo, favore dal prof. Giuseppe Sangiorgi, con atto pubblico amministrativo in data 28 ottobre 1949, per l'istituzione di un premio di studio annuo da intitolarsi al nome di "Giuseppe Sangiorgi" e da conferirsi per concorso fra laureati in medicina e chirurgia dell'Universita' medesima.  
   
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 11 agosto 1955  
-Atti del Governo, registro n. 92, foglio n. 70. - E. GRECO
+Visto, il Guardasigilli: SEGNI  
+Registrato alla Corte dei conti, addi' 31 gennaio 1951

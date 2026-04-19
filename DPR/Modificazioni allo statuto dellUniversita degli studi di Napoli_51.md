@@ -1,173 +1,180 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1971 n. 1352
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1963 n. 1371
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1971 n. 1352
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1963 n. 1371
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successivi;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 41. - Agli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti quelli di:
+
+Contabilita' di Stato;
+
+Organizzazione internazionale;
+
+Storia delle relazioni economiche internazionali.
+
+Art. 66. - Agli insegnamenti complementari del corso di laurea in Lettere e' aggiunto quello di "Storia della lingua latina".
+
+Art. 69. - Agli insegnamenti complementari del corso di laurea in Filosofia e' aggiunto quello di "Filosofia del linguaggio".
+
+Art. 75. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere moderne e' aggiunto quello di "Storia della lingua inglese".
+
+Art. 108. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di "Neurochirurgia".
+
+Dopo l'art. 223 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione degli Istituti annessi alla Facolta' di agraria, con il conseguente spostamento della numerazione degli articoli successivi:
+
+Art. 224. - Sono costituiti presso la Facolta' di agraria i seguenti Istituti:
+
+Istituto di Agronomia e coltivazioni erbacee;
+
+Istituto di Botanica generale e sistematica - Orto botanico;
+
+Istituto di Chimica agraria;
+
+Istituto di Coltivazioni arboree;
+
+Istituto di Economia e politica agraria;
+
+Istituto di Entomologia agraria;
+
+Istituto di Estimo e contabilita' agraria;
+
+Istituto di Industrie agrarie;
+
+Istituto di Ingegneria agraria;
+
+Istituto di Microbiologia agraria;
+
+Istituto di Mineralogia e geologia agraria;
+
+Istituto di Patologia vegetale;
+
+Istituto della produzione animale.
+
+Tali Istituti hanno lo scopo di promuovere e coordinare l'insegnamento e la ricerca nelle discipline di loro pertinenza.
+
+Art. 225. - La Facolta' determina, con propria deliberazione, alla fine di ciascun anno e per l'anno accademico successivo quali siano gli insegnamenti ufficiali che si svolgeranno presso i singoli Istituti.
+
+Art. 226. - Ogni Istituto e' retto da un direttore che e' responsabile della amministrazione e del funzionamento dell'Istituto stesso.
+
+Norme particolari al riguardo potranno essere stabilite dalla Facolta' nei casi in cui se ne ravvisi l'opportunita'.
+
+Art. 227. - Qualora fra gli insegnamenti assegnati ad un Istituto ve ne sia uno solo tenuto da un professore di ruolo, questi e' di diritto il direttore dell'Istituto.
+
+Nel caso che vi siano piu' professori di ruolo la Facolta', sentito il parere dei medesimi, designera', scegliendo fra di essi, il direttore dell'Istituto, che verra' nominato con decreto rettorale per un periodo di tre anni.
+
+Se un Istituto manca di professore di ruolo, la direzione verra' affidata di regola ad un professore di ruolo di materia affine, designato dalla Facolta' e nominato con decreto rettorale per un periodo di tre anni.
+
+Art. 228. - Possono essere addetti ad un Istituto assistenti, tecnici, bibliotecari, personale amministrativo e subalterni appartenenti ai ruoli universitari ed inoltre, quando esista un orto botanico o museo annesso, anche conservatori, curatori e preparatori, giardinieri, operai.
+
+Art. 229. - E' facolta' del direttore di un Istituto di rilasciare a chi frequenta l'Istituto per almeno sei mesi un attestato degli studi compiuti e dei risultati raggiunti nelle ricerche.
+
+Art. 230. - Ogni Istituto potra' eventualmente disporre, secondo modalita' intese ad assicurare il raggiungimento delle finalita' nel modo piu' idoneo, di fondi per la ricerca di borse di studio provenienti da enti pubblici o privati italiani e stranieri.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 2 settembre 1963
+
+SEGNI
+
+Visto, il Guardasigilli: BOSCO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 16 ottobre 1963 Atti del Governo, registro n. 175, foglio n. 30. - VILLA
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli 260, 261, 262, 263, 264 e 265, relativi allo ordinamento degli studi per il conseguimento della laurea in medicina veterinaria sono abrogati e sostituiti dai seguenti:   
-Art. 260. - La facolta' di medicina veterinaria conferisce la laurea in medicina veterinaria.   
-Art. 261. - La durata del corso degli studi e' di cinque anni.  
-Titolo di ammissione e' il diploma di maturita' classica o di maturita' scientifica, e il diploma degli istituti di istruzione secondaria di secondo grado ai sensi delle vigenti disposizioni di legge.   
-Art. 262. - I cinque anni di studio comportano obbligatoriamente l'insegnamento teorico e pratico di almeno 4500 ore sulle materie fondamentali, relative ad un insegnamento di base e ad un insegnamento veterinario specifico, e sulle materie complementari di cui al [decreto del Presidente della Repubblica 23 ottobre 1969, n. 987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-10-23;987), secondo la seguente suddivisione:   
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
+Art. 41. - Agli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti quelli di:  
+Contabilita' di Stato;  
+Organizzazione internazionale;  
+Storia delle relazioni economiche internazionali.  
+Art. 66. - Agli insegnamenti complementari del corso di laurea in Lettere e' aggiunto quello di "Storia della lingua latina".  
+Art. 69. - Agli insegnamenti complementari del corso di laurea in Filosofia e' aggiunto quello di "Filosofia del linguaggio".  
+Art. 75. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere moderne e' aggiunto quello di "Storia della lingua inglese".  
+Art. 108. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di "Neurochirurgia".  
+Dopo l'art. 223 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione degli Istituti annessi alla Facolta' di agraria, con il conseguente spostamento della numerazione degli articoli successivi:  
   
-Numero minimo di Ore  
-Insegnamenti fondamentali:  
-Fisica.............................................. 120  
-Chimica I........................................... 100  
-Chimica II.......................................... 100  
-Zoologia............................................ 120  
-Botanica............................................ 90  
-Metodi matematici applicati alle scienze biologiche  
-(bio-matematica)..................................... 30  
-Anatomia veterinaria sistematica e comparata I...... 100  
->Anatomia veterinaria sistematica e comparata II..... 100  
-Anatomia topografica veterinaria.................... 60  
-Teratologia......................................... 60  
-Istologia generale e speciale (anatomia microscopi-  
-ca).................................................. 80  
-Embriologia......................................... 40  
-Fisiologia generale e speciale veterinaria I e fisi-  
-ca biologica......................................... 100  
-Fisiologia generale e speciale veterinaria II e fi-  
-sica biologica....................................... 100  
-Biochimica.......................................... 100  
-Zootecnia I: igiene, aspetti esteriori degli anima-  
-li, etnologia........................................ 110  
-Zootecnia II: genetica e allevamento................ 60  
-Alimentazione e nutrizione animale.................. 130  
-Economia rurale e agronomia......................... 30  
-Farmacologia e farmacodinamia veterinaria........... 60  
-Farmacia e terapeutica generale veterinaria......... 45  
-Tossicologia veterinaria............................ 45  
-Anatomia patologica veterinaria generale e speciale  
-I.................................................... 75  
-Anatomia patologica veterinaria generale e speciale  
-II................................................... 75  
-Autopsie............................................ 50  
-Propedeutica I: semeiologia medica veterinaria e me-  
-todologia clinica.................................... 60  
-Propedeutica II: semeiologia chirurgica veterinaria  
-e metodologia clinica................................ 60  
-Patologia generale veterinaria...................... 50  
-Microbiologia generale veterinaria (batteriologia,  
-virologia, immunologia).............................. 60  
-Patologia e profilassi delle malattie infettive de-  
-gli animali domestici I.............................. 70  
-Patologia e profilassi delle malattie infettive de-  
-gli animali domestici II............................. 70  
-Parassitologia veterinaria (compresa micologia,  
-protozoologia, entomologia, elmintologia)............ 60  
-Malattie parassitarie degli animali domestici....... 50  
-Polizia sanitaria................................... 40  
-Medicina legale veterinaria, legislazione veterina-  
-ria e deontologia.................................... 40  
-Patologia medica degli animali domestici (ruminanti,  
-equidi, carnivori, suini, pollame, conigli, ecc.).... 150  
-Ostetricia veterinaria.............................. 80  
-Patologia della riproduzione e fecondazione artifi-  
-ciale................................................ 70  
-Patologia chirurgica veterinaria e podologia........ 80  
-Medicina operatoria veterinaria..................... 70  
-Ispezione e controllo delle derrate alimentari di  
-origine animale (carni, latte, pesci, uova, ecc.) I.. 80  
-Ispezione e controllo delle derrate alimentari di  
-origine animale (carni, latte, pesci, uova, ecc.) II. 70  
-Lavori pratici nei macelli.......................... 50  
-Clinica medica veterinaria.......................... 275  
-Clinica chirurgica veterinaria...................... 275  
-Clinica ostetrica e ginecologica veterinaria........ 275  
-Patologia aviare.................................... 275  
-Radiologia veterinaria.............................. 50  
-  
-  
-  
-Le ore che restano per raggiungere il numero previsto di 4500 dovranno essere ripartite fra tre insegnamenti complementari scelti dallo studente nel seguente elenco:   
-Insegnamenti complementari:   
-Anestesiologia;   
-Alpicultura;   
-Antropozoonosi;   
-Approvvigionamenti annonari, mercati ed industrie degli alimenti di origine animale;   
-Diagnostica di laboratorio;   
-Ecologia;   
-Ematologia clinica comparata;   
-Endocrinologia degli animali domestici;   
-Etnografia;   
-Fisioclimatologia;   
-Idrobiologia e pescicoltura;   
-Igiene del latte;   
-Igiene e controllo dei prodotti della pesca;   
-Istituzioni di matematica;   
-Istologia patologica;   
-Ittiopatologia;   
-Lingua straniera;   
-Oftalmologia comparata;   
-Patologia bovina;   
-Patologia tropicale veterinaria;   
-Storia della medicina veterinaria;   
-Tecnica conserviera;   
-Tecnica mangimistica;   
-Tecnologia avicola;   
-Virologia veterinaria;   
-Zoocolture.   
-La facolta' nell'ambito della propria autonomia didattica stabilisce annualmente i piani di studio per le materie comprese nell'insegnamento di base (fondamentali), per quelle comprese nei gruppi dell'insegnamento veterinario specifico (fondamentali), e per gli insegnamenti complementari; stabilisce, altresi', il numero delle ore da attribuire per lo svolgimento dei relativi corsi, e le modalita' di esami per singole materie o per gruppi.   
-Per il raggiungimento del numero delle ore richieste per gli insegnamenti clinici e' utilizzabile il periodo semestrale di tirocinio pratico post-laurea purche' questo sia svolto a tempo pieno e sotto il controllo diretto dell'autorita' competente.   
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami nelle singole materie fondamentali o comprese nei gruppi di materie fondamentali dell'insegnamento di base, dello insegnamento veterinario specifico e di tre altre materie da lui scelte fra gli insegnamenti complementari.   
-Gli insegnamenti di anatomia sistematica e comparata I, di fisiologia generale e speciale I, di anatomia patologica generale e speciale I, di patologia e profilassi delle malattie infettive I, di ispezione e controllo delle derrate alimentari di origine animale I, comportano alla fine dell'anno un esame sul programma svolto.   
-Gli insegnamenti di clinica medica, di clinica chirurgica, del gruppo zootecnia I e II e di ispezione e controllo delle derrate alimentari di origine animale debbono essere completati da un tirocinio pratico complessivo e continuativo di almeno sei mesi, presso gli istituti delle facolta' di medicina veterinaria, presso le stazioni sperimentali zooprofilattiche, presso gli istituti zootecnici del Ministero dell'agricoltura e foreste o delle amministrazioni provinciali, o presso macelli riconosciuti dalle facolta' di medicina veterinaria. Il tirocinio deve essere iniziato dopo la chiusura dei corsi di insegnamento del V anno e compiuto prima che i giovani si presentino a sostenere l'esame di abilitazione all'esercizio professionale.   
-L'insegnamento di zootecnia I: igiene, aspetti esteriori degli animali, etnologia corrisponde a quelli attuali di igiene zootecnica, di zoognostica e di zootecnica speciale; l'insegnamento di zootecnia II: genetica ed allevamenti, corrisponde a quello attuale di zootecnica generale.   
-Il consiglio di facolta', in ragione delle esigenze didattiche relative alle propedeuticita' di alcune materie dello stesso anno di corso, puo' autorizzare lo svolgimento di corsi intensivi con esami finali durante l'anno accademico.   
-Art. 263. - L'esame di laurea consiste:   
-a) nella discussione di una dissertazione scritta svolta su argomento consigliato dal professore della materia, alla quale la tesi si riferisce;   
-b) nella discussione di tre tesi assegnate al candidato e riguardanti le materie fondamentali o strettamente affini, esclusa quella che e' oggetto della dissertazione scritta.   
-Il preside designa una commissione di tre membri, della quale fa parte il professore che ha consigliato e diretto lo svolgimento della tesi, con l'incarico di esaminare la dissertazione, per riferire sul contenuto e sul valore di essa.   
-Art. 264. - Agli effetti della iscrizione, e rispettivamente anche degli esami, sono da considerarsi materie propedeutiche:   
-a) la fisica, la chimica, la zoologia, la botanica, l'istologia generale e speciale, l'embriologia rispetto all'anatomia sistematica e comparata;   
-b) la fisica, la chimica, la biochimica rispetto alla fisiologia generale e speciale;   
-c) la patologia generale rispetto all'anatomia patologica generale e speciale;   
-d) la propedeutica I: semeiologia medica e metodologia clinica, e la patologia medica degli animali domestici rispetto alla clinica medica;   
-e) la propedeutica II: semeiologia chirurgica e metodologia clinica; la patologia chirurgica e podologia, e la medicina operatoria rispetto alla clinica chirurgica;   
-f) l'ostetricia, la patologia della riproduzione e fecondazione artificiale rispetto alla clinica ostetrica e ginecologica;   
-g) la microbiologia generale rispetto alla patologia e profilassi delle malattie infettive.   
-Lo studente puo' richiedere ed essere ammesso a sostenere un esame di gruppo per materie affini in numero non superiore a tre.   
-Art. 265. - I laureati presso altre facolta', in base agli studi compiuti per il conseguimento dell'altra laurea, e per decreto del rettore, udito il consiglio dei professori della facolta', possono essere ammessi ad un anno successivo al primo con eventuale dispensa da iscrizione a corsi e da esami di materie comuni od affini.   
-  
-Norma transitoria   
-  
-Gli studenti in corso di laurea all'atto dell'entrata in vigore delle suddette modifiche di statuto possono optare per il corso di laurea in quattro o cinque anni.   
-All'uopo debbono presentare regolare domanda per integrare gli esami secondo quanto stabilira' caso per caso il consiglio di facolta'.   
+Art. 224. - Sono costituiti presso la Facolta' di agraria i seguenti Istituti:  
+Istituto di Agronomia e coltivazioni erbacee;  
+Istituto di Botanica generale e sistematica - Orto botanico;  
+Istituto di Chimica agraria;  
+Istituto di Coltivazioni arboree;  
+Istituto di Economia e politica agraria;  
+Istituto di Entomologia agraria;  
+Istituto di Estimo e contabilita' agraria;  
+Istituto di Industrie agrarie;  
+Istituto di Ingegneria agraria;  
+Istituto di Microbiologia agraria;  
+Istituto di Mineralogia e geologia agraria;  
+Istituto di Patologia vegetale;  
+Istituto della produzione animale.  
+Tali Istituti hanno lo scopo di promuovere e coordinare l'insegnamento e la ricerca nelle discipline di loro pertinenza.  
+Art. 225. - La Facolta' determina, con propria deliberazione, alla fine di ciascun anno e per l'anno accademico successivo quali siano gli insegnamenti ufficiali che si svolgeranno presso i singoli Istituti.  
+Art. 226. - Ogni Istituto e' retto da un direttore che e' responsabile della amministrazione e del funzionamento dell'Istituto stesso.  
+Norme particolari al riguardo potranno essere stabilite dalla Facolta' nei casi in cui se ne ravvisi l'opportunita'.  
+Art. 227. - Qualora fra gli insegnamenti assegnati ad un Istituto ve ne sia uno solo tenuto da un professore di ruolo, questi e' di diritto il direttore dell'Istituto.  
+Nel caso che vi siano piu' professori di ruolo la Facolta', sentito il parere dei medesimi, designera', scegliendo fra di essi, il direttore dell'Istituto, che verra' nominato con decreto rettorale per un periodo di tre anni.  
+Se un Istituto manca di professore di ruolo, la direzione verra' affidata di regola ad un professore di ruolo di materia affine, designato dalla Facolta' e nominato con decreto rettorale per un periodo di tre anni.  
+Art. 228. - Possono essere addetti ad un Istituto assistenti, tecnici, bibliotecari, personale amministrativo e subalterni appartenenti ai ruoli universitari ed inoltre, quando esista un orto botanico o museo annesso, anche conservatori, curatori e preparatori, giardinieri, operai.  
+Art. 229. - E' facolta' del direttore di un Istituto di rilasciare a chi frequenta l'Istituto per almeno sei mesi un attestato degli studi compiuti e dei risultati raggiunti nelle ricerche.  
+Art. 230. - Ogni Istituto potra' eventualmente disporre, secondo modalita' intese ad assicurare il raggiungimento delle finalita' nel modo piu' idoneo, di fondi per la ricerca di borse di studio provenienti da enti pubblici o privati italiani e stranieri.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1971
+### Dato a Roma, addi' 2 settembre 1963
 
-SARAGAT MISASI
+SEGNI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 23 febbraio 1972
+Registrato alla Corte dei conti, addi' 16 ottobre 1963
 
-Atti del Governo, registro n. 247, foglio n. 47. - VALENTINI
+Atti del Governo, registro n. 175, foglio n. 30. - VILLA

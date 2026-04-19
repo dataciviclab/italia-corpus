@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1980 n. 329
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1052
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1980 n. 329
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1052
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
@@ -10,70 +10,313 @@ Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 20 aprile 1939 n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 20 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-20;1471), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Perugia e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
---------
 
 Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+L'art. 112, relativo alla scuola di specializzazione in gastroenterologia che muta la denominazione in quella di scuola di specializzazione in gastroenterologia ed endoscopia digestiva, e' soppresso suo e sostituito dal seguente:
+
+Scuola di specializzazione in gastroenterologia ed endoscopia digestiva
+
+Art. 112. - La scuola di specializzazione in gastroenterologia ed endoscopia digestiva ha sede presso la clinica medica e conferisce il diploma di specialista in gastroenterologia ed endoscopia digestiva.
+
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+La durata del corso di studi e' di 4 anni e non e' suscettibile di abbreviazione.
+
+Il numero massimo degli allievi e' di 8 per anno di corso e complessivamente di 32 iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+anatomia clinica;
+
+farmacologia clinica;
+
+chimica clinica, coprologia, parassitologia;
+
+genetica;
+
+biostatistica ed epidemiologia.
+
+2° Anno:
+
+clinica medica generale (triennale) I;
+
+clinica e terapia del tubo digerente, fegato e pancreas (triennale) I;
+
+anatomia ed istologia patologica (biennale) I;
+
+fisiopatologia e semeiotica digestiva (biennale) I;
+
+radiologia e medicina nucleare (biennale) I;
+
+scienza dell'alimentazione e dietetica.
+
+3° Anno:
+
+clinica medica generale (triennale) II;
+
+clinica e terapia del tubo digerente, fegato e pancreas (triennale) II;
+
+anatomia ed istologia patologica (biennale) II;
+
+fisiopatologia e semeiotica digestiva (biennale) II;
+
+radiologia e medicina nucleare (biennale) II;
+
+endoscopia digestiva (biennale) I.
+
+4° Anno:
+
+clinica medica generale (triennale) III;
+
+clinica e terapia del tubo digerente, fegato e pancreas (triennale) III;
+
+endoscopia digestiva (biennale) II;
+
+terapia intensiva;
+
+gastroenterologia pediatrica;
+
+elementi di chirurgia del tubo digerente, fegato e pancreas.
+
+E' obbligatorio il tirocinio pratico durante il quadriennio di studi da svolgere presso la clinica medica dell'Universita' di Perugia o in reparti ospedalieri di gastroenterologia, conforme alle scelte che saranno deliberate dal consiglio della scuola.
+
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.
+
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno; per le materie biennali e triennali, invece, sara' dato l'esame alla fine del biennio o triennio. Al termine del corso di studi per il conseguimento del diploma di specialista in gastroenterologia ed endoscopia digestiva, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+L'art. 116, relativo alla scuola di specializzazione in malattie dell'apparato cardiovascolare che muta la denominazione in quella di scuola di specializzazione in cardiologia, e' soppresso e sostituito dal seguente:
+
+Scuola di specializzazione in cardiologia
+
+Art. 116. - La scuola di specializzazione in cardiologia ha sede presso la clinica medica e conferisce il diploma di specialista in cardiologia.
+
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+La durata del corso di studi e' di 4 anni e non e' suscettibile di abbreviazione.
+
+Il numero massimo degli allievi e' di 10 per anno di corso, e complessivamente di 40 iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per esami.
+
+Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+anatomia umana normale ed embriologia dell'apparato cardiovascolare;
+
+fisiologia dell'apparato cardiovascolare I;
+
+biochimica e biofisica;
+
+semeiotica fisica e strumentale dell'apparato cardiovascolare I;
+
+informatica medica e strumentazione biomedica I.
+
+2° Anno:
+
+anatomia patologica I;
+
+fisiologia dell'apparato cardiovascolare II;
+
+patologia e clinica cardiovascolare I;
+
+semeiotica fisica e strumentale dell'apparato cardiovascolare II;
+
+informatica medica e strumentazione biomedica II:
+
+radiologia I;
+
+aspetti sociali ed epidemiologici delle malattie cardiovascolari.
+
+3° Anno:
+
+anatomia patologica II;
+
+semeiotica fisica e strumentale dell'apparato cardiovascolare III;
+
+patologia e clinica cardiovascolare II;
+
+radiologia II;
+
+terapia medica e farmacologia clinica I.
+
+4° Anno:
+
+semeiotica fisica e strumentale dell'apparato cardiovascolare IV;
+
+patologia e clinica cardiovascolare III;
+
+terapia medica e farmacologia clinica II;
+
+terapia chirurgica;
+
+terapie intensive cardiologiche.
+
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.
+
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in cardiologia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento di carattere cardiologico.
+
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1978
+
+PERTINI
+
+PEDINI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 23 aprile 1979 Registro n. 27 Istruzione, foglio n. 37
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-L'art. 84, relativo agli insegnamenti complementari del corso di laurea in scienze agrarie, e' modificato nel senso che i seguenti insegnamenti:  
-microbiologia degli alimenti;  
-virologia (semestrale);  
-tecnica del diserbo (semestrale);  
-mutano rispettivamente la denominazione in quella di:  
-microbiologia dei prodotti alimentari;  
-virologia vegetale (semestrale);  
-tecnica di lotta alle malerbe (semestrale).  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 20 aprile 1939 n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 20 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-20;1471), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-L'art. 89, relativo all'ammissione agli esami di laurea, e' sostituito dal seguente:  
+Decreta:   
   
-Ai fini dell'ammissione agli esami di laurea e' fatto inoltre obbligo a coloro che stiano compiendo il secondo biennio, di frequentare una delle aziende della fondazione per l'istruzione agraria di Perugia collegata alla facolta'.  
-In dette aziende funzioneranno corsi di applicazione professionale, disciplinati da apposito regolamento approvato dal consiglio di amministrazione dell'Universita' su proposta della facolta'.  
-
-Art. 3
-------
-
+Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-L'art. 94, relativo alle modalita' degli esami di laurea, e' sostituito dal seguente:  
-L'esame di laurea consiste:  
-a) nella discussione orale della dissertazione scritta originale di un argomento scelto dal candidato sugli insegnamenti tenuti nel corso per la laurea in scienze agrarie;  
-b) nella discussione orale sopra uno tra due quesiti scelti ugualmente dal candidato.  
+L'art. 112, relativo alla scuola di specializzazione in gastroenterologia che muta la denominazione in quella di scuola di specializzazione in gastroenterologia ed endoscopia digestiva, e' soppresso suo e sostituito dal seguente:   
+  
+Scuola di specializzazione in gastroenterologia ed endoscopia digestiva   
+Art. 112. - La scuola di specializzazione in gastroenterologia ed endoscopia digestiva ha sede presso la clinica medica e conferisce il diploma di specialista in gastroenterologia ed endoscopia digestiva.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di 4 anni e non e' suscettibile di abbreviazione.   
+Il numero massimo degli allievi e' di 8 per anno di corso e complessivamente di 32 iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+anatomia clinica;   
+farmacologia clinica;   
+chimica clinica, coprologia, parassitologia;   
+genetica;   
+biostatistica ed epidemiologia.   
+2° Anno:   
+clinica medica generale (triennale) I;   
+clinica e terapia del tubo digerente, fegato e pancreas (triennale) I;   
+anatomia ed istologia patologica (biennale) I;   
+fisiopatologia e semeiotica digestiva (biennale) I;   
+radiologia e medicina nucleare (biennale) I;   
+scienza dell'alimentazione e dietetica.   
+3° Anno:   
+clinica medica generale (triennale) II;   
+clinica e terapia del tubo digerente, fegato e pancreas (triennale) II;   
+anatomia ed istologia patologica (biennale) II;   
+fisiopatologia e semeiotica digestiva (biennale) II;   
+radiologia e medicina nucleare (biennale) II;   
+endoscopia digestiva (biennale) I.   
+4° Anno:   
+clinica medica generale (triennale) III;   
+clinica e terapia del tubo digerente, fegato e pancreas (triennale) III;   
+endoscopia digestiva (biennale) II;   
+terapia intensiva;   
+gastroenterologia pediatrica;   
+elementi di chirurgia del tubo digerente, fegato e pancreas.   
+E' obbligatorio il tirocinio pratico durante il quadriennio di studi da svolgere presso la clinica medica dell'Universita' di Perugia o in reparti ospedalieri di gastroenterologia, conforme alle scelte che saranno deliberate dal consiglio della scuola.   
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno; per le materie biennali e triennali, invece, sara' dato l'esame alla fine del biennio o triennio. Al termine del corso di studi per il conseguimento del diploma di specialista in gastroenterologia ed endoscopia digestiva, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+L'art. 116, relativo alla scuola di specializzazione in malattie dell'apparato cardiovascolare che muta la denominazione in quella di scuola di specializzazione in cardiologia, e' soppresso e sostituito dal seguente:   
+  
+Scuola di specializzazione in cardiologia   
+  
+Art. 116. - La scuola di specializzazione in cardiologia ha sede presso la clinica medica e conferisce il diploma di specialista in cardiologia.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di 4 anni e non e' suscettibile di abbreviazione.   
+Il numero massimo degli allievi e' di 10 per anno di corso, e complessivamente di 40 iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per esami.   
+Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+anatomia umana normale ed embriologia dell'apparato cardiovascolare;   
+fisiologia dell'apparato cardiovascolare I;   
+biochimica e biofisica;   
+semeiotica fisica e strumentale dell'apparato cardiovascolare I;   
+informatica medica e strumentazione biomedica I.   
+2° Anno:   
+anatomia patologica I;   
+fisiologia dell'apparato cardiovascolare II;   
+patologia e clinica cardiovascolare I;   
+semeiotica fisica e strumentale dell'apparato cardiovascolare II;   
+informatica medica e strumentazione biomedica II:   
+radiologia I;   
+aspetti sociali ed epidemiologici delle malattie cardiovascolari.   
+3° Anno:   
+anatomia patologica II;   
+semeiotica fisica e strumentale dell'apparato cardiovascolare III;   
+patologia e clinica cardiovascolare II;   
+radiologia II;   
+terapia medica e farmacologia clinica I.   
+4° Anno:   
+semeiotica fisica e strumentale dell'apparato cardiovascolare IV;   
+patologia e clinica cardiovascolare III;   
+terapia medica e farmacologia clinica II;   
+terapia chirurgica;   
+terapie intensive cardiologiche.   
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in cardiologia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento di carattere cardiologico.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 febbraio 1980
+### Dato a Roma, addi' 31 ottobre 1978
 
-PERTINI VALITUTTI
+PERTINI PEDINI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 26 giugno 1980
+Registrato alla Corte dei conti, addi' 23 aprile 1979
 
-Registro n. 61 Istruzione, foglio n. 289
+Registro n. 27 Istruzione, foglio n. 37

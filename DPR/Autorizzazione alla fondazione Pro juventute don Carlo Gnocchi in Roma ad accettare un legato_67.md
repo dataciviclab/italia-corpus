@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 maggio 1981 n. 372
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 491
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 maggio 1981 n. 372
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 491
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-372. Decreto del Presidente della Repubblica 5 maggio 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nel 50% di titoli depositati presso il Banco Lariano di Merone (Como), valore nominale L. 8.200.000, disposto dalla sig.na Fernanda Fraccalossi in favore dei mutilatini di don Gnocchi, che si identificano con la fondazione "Pro juventute don Carlo Gnocchi" come risulta dal verbale del consiglio di amministrazione della fondazione in data 16 dicembre 1978, con testamento olografo del febbraio 1977, pubblicato in data 30 ottobre 1978, n. 48641 di repertorio e n. 10475 di raccolta, a rogito dott. Furio Giazzi, notaio in Erba (Como), registrato ad Erba il 15 novembre 1978 al n. 1301, vol. 7.  
+491. Decreto del Presidente della Repubblica 27 giugno 1983, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un appartamento sito in Milano, via Montevideo, 10, distinto nel nuovo catasto edilizio urbano alla partita 106818, foglio 472, mappale 56 sub 33, del valore periziato di L. 30.000.000 elevato dall'ufficio tecnico erariale di Milano a L. 85.000.000, disposto dalla sig.ra Invernizzi Francesca ved. Soffientini a favore della fondazione "Don Carlo Gnocchi", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione medesima in data 28 novembre 1980, con testamento olografo 15 aprile 1979, pubblicato il 26 settembre 1980, n. 1566 di repertorio e n. 86 di raccolta, a rogito avv. Nicola Malenza, notaio in Milano, registrato a Milano il 6 ottobre 1980 al n. 23220.  
   
 Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 3 luglio 1981  
-Registro n. 6 Presidenza, foglio n. 93
+Registrato alla Corte dei conti, addi' 8 settembre 1983  
+Registro n. 7 Presidenza, foglio n. 299

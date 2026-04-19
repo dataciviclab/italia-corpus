@@ -1,19 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 dicembre 1954 n. 1362
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1962 n. 307
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 dicembre 1954 n. 1362
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1962 n. 307
+===============================================================
 
-Autorizzazione all'Associazione nazionale fra mutilati ed invalidi del lavoro, con sede in Roma, ad acquistare un appartamento sito in Ferrara.
------------------------------------------------------------------------------------------------------------------------------------------------
+Autorizzazione all'Associazione nazionale fra mutilati ed invalidi del lavoro, con sede in Roma, ad acquistare un appartamento, sito in Ferrara.
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-1362. Decreto del Presidente della Repubblica 4 dicembre 1954, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Associazione nazionale fra mutilati ed invalidi del lavoro, con sede in Roma, viene autorizzata ad acquistare un appartamento sito in Ferrara, composto di due vani ed accessori, da adibire a sede della locale Associazione.  
+307. Decreto del Presidente della Repubblica 12 febbraio 1962, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Associazione nazionale fra mutilati ed invalidi del lavoro, con sede in Roma, viene autorizzata ad acquistare un appartamento, sito in Ferrara, via Contrada delle Rose n. 8, composto di vani tre ed accessori, al prezzo di L. 3.200.000 (tremilioniduecentomila), da adibire a sede della Sezione dell'Associazione di Ferrara.  
   
-Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte del conti, addi' 10 febbraio 1955  
-Atti del Governo, registro n. 88, foglio n. 129. - CARLOMAGNO
+Visto, il Guardasigilli: BOSCO  
+Registrato alla Corte dei conti, addi' 19 maggio 1962  
+Atti del Governo, registro n. 147, foglio n. 70. - VILLA

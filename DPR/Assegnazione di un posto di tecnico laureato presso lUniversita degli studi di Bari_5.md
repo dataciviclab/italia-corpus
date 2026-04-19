@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 736
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1986 n. 589
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 736
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1986 n. 589
 =============================================================
 
 Assegnazione di un posto di tecnico laureato presso l'Universita' degli studi di Bari.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-736. Decreto del Presidente della Repubblica 16 giugno 1983, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di statistica della facolta' di economia e commercio della Universita' di Bari.  
+589. Decreto del Presidente della Repubblica 4 giugno 1986, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di clinica chirurgica generale e terapia chirurgica della facolta' di medicina e chirurgia dell'Universita' di Bari.   
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 14 dicembre 1983  
-Registro n. 76 Istruzione, foglio n. 285
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei Conti, addi' 17 settembre 1986   
+Registro n. 71 Istruzione, foglio n. 185

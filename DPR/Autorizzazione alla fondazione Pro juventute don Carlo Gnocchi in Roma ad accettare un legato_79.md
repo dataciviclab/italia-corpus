@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1978 n. 447
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1984 n. 1007
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1978 n. 447
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1984 n. 1007
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,13 @@ Art. 1
 
 N.
 
-447. Decreto del Presidente della Repubblica 18 luglio 1978, col quale, sulla proposta del Presidente del Consiglio dei. Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Ghezzi Cornelia, con testamento olografo in data 3 ottobre 1975, pubblicato a rogito notaio dott. Ferruccio Brambilla l'11 marzo 1976 n. 25508/2813 di repertorio, registrato a Busto Arsizio il 29 marzo 1976 al n. 813, vol. 157 A.P. a favore dell'"Istituto piccoli mutilatini di don Gnocchi" che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, consistente in un appartamento sito in Milano, via Cucchiari n. 7, riportato al nuovo catasto edilizio urbano alla partita 102091, foglio 219, mappale 329 sub 34, per un valore presunto di lire 20.000.000.  
+1007. Decreto del Presidente della Repubblica 22 ottobre 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la   
+fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene   
+autorizzata ad accettare il legato, consistente nella somma di L. 35.000.000 con possibilita' di aumentare o diminuire tale importo in funzione del successivo realizzo delle attivita' da parte degli esecutori testamentari, disposto dalla sig.ra Gentili Andreina ved.   
+Pagnani, con testamento olografo 1 aprile 1981 pubblicato in data 3   
+dicembre 1981, n. 12044/2772 di repertorio, a rogito dott. Giuseppe   
+Ottolenghi, notaio in Roma, registrato a Roma in data 21 dicembre 1981, al numero 48308/I.A.   
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 8 agosto 1978  
-Registro n. 6 Presidenza, foglio n. 43
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 25 gennaio 1985   
+Registro n. 1 Presidenza, foglio n. 180

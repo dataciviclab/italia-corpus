@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 marzo 1968 n. 670
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1968 n. 830
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 marzo 1968 n. 670
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1968 n. 830
+=============================================================
 
 Autorizzazione alla "Fondazione pro juventute don Carlo Gnocchi", con sede in Roma, ad accettare una eredita'.
 --------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-670. Decreto del Presidente della Repubblica 26 marzo 1968, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione pro juventute don Carlo Gnocchi" viene autorizzata ad accettare, col beneficio d'inventario, la quota di eredita' disposta dal defunto sig. Oreste Coccini, con testamento olografo del 20 maggio 1961 - pubblicato e depositato con atto a rogito dott. Giuseppe Gallizia, notaio residente in Milano, in data 14 febbraio 1964, n. 67439/23968 rep., n. 17275 arch.  
+830. Decreto del Presidente della Repubblica 12 giugno 1968, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione pro juventute don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', costituita dai titoli depositati presso la Banca di credito di Milano, disposta dalla defunta signora Ossani Nancy in Capaldi, con testamento olografo del 14 febbraio 1962, pubblicato con verbale a rogito dott. avv. Renato Tabucchi, notaio in Cusano Milanino (iscritto nel collegio notarile di Milano), in data 7 gennaio 1964, n. 27403 di rep., n. 6149 di racc.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 14 maggio 1968  
-Atti del Governo, registro n. 219, foglio n. 144. - GRECO
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 16 luglio 1968  
+Atti del Governo, registro n. 221, foglio n. 21. - GRECO

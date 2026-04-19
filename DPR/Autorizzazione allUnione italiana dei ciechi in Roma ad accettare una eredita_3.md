@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1985 n. 188
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1982 n. 80
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1985 n. 188
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1982 n. 80
+=============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare una eredita'.
 ----------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-188. Decreto del Presidente della Repubblica 12 febbraio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in un immobile sito in Sanremo, via F. Alfano n. 56 del valore, attribuito con perizia di parte, di L. 176.000.000, ritenuto congruo dall'ufficio tecnico erariale di Imperia, disposta dalla sig.ra Alessandra Logaridis ved. Bozzaro con testamento olografo 30 settembre 1982, pubblicato in data 23 novembre 1982, n. 71518/11139 di repertorio, a rogito dott. Giovanni Saguato, notaio in Imperia.  
+80. Decreto del Presidente della Repubblica 29 gennaio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita', gravata di un legato di L. 200.000 a favore della chiesa di S. Abbondio di Cremona per S. messe, consistente in appartamento sito in Cremona, via Trieste, 132, censito al nuovo catasto edilizio urbano alla partita 1300, foglio 81, mappale 201, sub 8, del valore di L. 35.480.000, disposta dalla sig.na Irene Giuseppa Barbieri con testamento olografo 30 giugno 1976, pubblicato in data 3 aprile 1979, n. 17980 di repertorio, a rogito dott. Virgilio Rizzi, notaio in Cremona, registrato a Cremona in data 12 aprile 1979, al n. 1003.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 2 maggio 1985  
-Registro n. 4 Presidenza, foglio n. 88
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 10 marzo 1982  
+Registro n. 2 Presidenza, foglio n. 356

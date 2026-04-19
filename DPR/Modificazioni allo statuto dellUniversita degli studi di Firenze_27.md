@@ -1,69 +1,115 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 luglio 1971 n. 713
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 agosto 1959 n. 776
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 luglio 1971 n. 713
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 agosto 1959 n. 776
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e successivi;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 52. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di:
+
+"filologia medioevale ed umanistica".
+
+Art. 67. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di:
+
+"psichiatria";
+
+"neurochirurgia";
+
+"malattie infettive".
+
+Art. 108. - Agli insegnamenti complementari del corso di laurea in farmacia e' aggiunto quello di:
+
+"chimica farmaceutica applicata".
+
+Art. 123. - Agli insegnamenti complementari del corso di laurea in architettura (triennio di studi di applicazione) sono aggiunti quelli di:
+
+"forma e struttura dei ponti";
+
+"progettazione artistica per l'industria".
+
+Il presente decreto, munite del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Napoli, addi' 20 agosto 1959
+
+GRONCHI
+
+MEDICI
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 25 settembre 1959 Atti del Governo, registro n. 120, foglio n. 149. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e successivi;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appreso:  
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 31: all'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti:  
-Complementi matematici per le applicazioni economiche;  
-Controllo statistico della qualita' e statistica industriale (semestrale);  
-Diritto civile;  
-Diritto regionale;  
-Economia della popolazione (semestrale);  
-Economia matematica;  
-Economia regionale (semestrale);  
-Istituzioni di economia politica (biennale con unico esame finale);  
-Revisione aziendale (semestrale);  
-Statistica economica;  
-Storia delle teorie monetarie (semestrale);  
-Storia economica contemporanea;  
-Storia economica dell'antichita' (semestrale);  
-Tecnica amministrativa dell'impresa pubblica.  
-Nello stesso elenco gli insegnamenti di "Organizzazione internazionale" e di "Diritto internazionale" mutano denominazione rispettivamente in quella di: "Organizzazione economica internazionale" e di "Diritto internazionale pubblico e privato"; mentre l'insegnamento di: "Analisi di mercato" da annuale passa semestrale.  
-Art. 43: all'elenco degli insegnamenti complementari relativi alla scuola di statistica, annessa alla facolta' di economia e commercio, sono aggiunti i seguenti:  
-Analisi di mercato (semestrale);  
-Controllo statistico delle qualita' e statistica industriale (semestrale);  
-Demografia storica e storia delle popolazioni (semestrale);  
-Econometria;  
-Economia della popolazione (semestrale);  
-Principi e tecniche delle elaborazioni meccanografiche ed elettroniche;  
-Elementi di calcolo delle probabilita'.  
-Art. 59: all'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:  
-Pedagogia sperimentale;  
-Letteratura per l'infanzia.  
+Art. 52. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di:  
+"filologia medioevale ed umanistica".  
   
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Dato a Roma, addi' 6 luglio 1971
-
-SARAGAT MISASI
-
-Visto, il Guardasigilli: COLOMBO
-
-Registrato alla Corte dei conti, addi' 30 agosto 1971
-
-Atti del Governo, registro n. 244, foglio n. 44. - PASQUALUCCI
+Art. 67. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di:  
+"psichiatria";  
+"neurochirurgia";  
+"malattie infettive".  
+  
+Art. 108. - Agli insegnamenti complementari del corso di laurea in farmacia e' aggiunto quello di:  
+"chimica farmaceutica applicata".  
+  
+Art. 123. - Agli insegnamenti complementari del corso di laurea in architettura (triennio di studi di applicazione) sono aggiunti quelli di:  
+"forma e struttura dei ponti";  
+"progettazione artistica per l'industria".  
+  
+Il presente decreto, munite del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.  
+  
+Dato a Napoli, addi' 20 agosto 1959  
+  
+GRONCHI  
+  
+MEDICI   
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 25 settembre 1959  
+Atti del Governo, registro n. 120, foglio n. 149. - VILLA  

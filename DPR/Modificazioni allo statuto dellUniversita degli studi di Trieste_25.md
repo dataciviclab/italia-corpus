@@ -1,174 +1,81 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1972 n. 135
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1971 n. 469
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1972 n. 135
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1971 n. 469
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Dopo l'art. 124 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in oculistica.
-
-Scuola di specializzazione in oculistica
-
-Art. 125. - E' istituita la scuola di specializzazione in oculistica che conferisce il diploma in oculistica.
-
-La scuola ha sede presso la clinica oculistica.
-
-La durata del corso e' di anni quattro.
-
-Le materie impartite dalla scuola sono:
-
-1° Anno:
-
-1) Anatomia ed istologia dell'apparato oculare;
-
-2) Nozioni di embriologia e genetica oculare;
-
-3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;
-
-4) Nozioni di ottica fisiologia, esame della rifrazione;
-
-5) Microbiologia ed igiene oculare.
-
-2° Anno:
-
-1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, gonioscopia, oftalmoscopia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);
-
-2) Farmacologia oculare e terapia fisica;
-
-3) Nozioni di patologia generale e di anatomia patologica in rapporto all'oftalmologia;
-
-4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali; della cornea e della sclera).
-
-3° Anno:
-
-1) Patologia e clinica oculare (malattie dell'uvea, della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);
-
-2) Anomalie patologiche della motilita' oculare e della visione binoculare. Ortottica e pleottica;
-
-3) Tecnica operatoria ed anestesiologia (1ª parte);
-
-4) Affezioni otorinolaringoiatriche e patologia oculare.
-
-4° Anno:
-
-1) Neuroftalmologia;
-
-2) Malattie oculari in rapporto ad affezioni generali;
-
-3) Malattie professionali. Infortunistica e medicina legale oculare;
-
-4) Tecnica operatoria (2ª parte);
-
-5) Tesi di specializzazione.
-
-Art. 126. - Alla scuola sono ammessi i laureati in medicina e chirurgia ed il numero degli specializzandi e' di otto per i 4 anni di corso.
-
-Gli esami di profitto si danno alla fine di ciascun anno di corso.
-
-Alla fine del corso gli iscritti, oltre a presentare la dissertazione scritta ed a sostenere la relativa discussione, devono sostenere una prova pratica sull'ammalato.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 6 marzo 1972
-
-LEONE
-
-MISASI
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 20 aprile 1972 Atti del Governo, registro n. 248, foglio n. 64. - VALENTINI
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli 38, 39, 40, 41, 42, relativi alla facolta' di lingue e letterature straniere sono abrogati e sostituiti dai seguenti:   
   
-Dopo l'art. 124 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in oculistica.  
+Facolta' di lingue e letterature straniere   
   
-Scuola di specializzazione in oculistica  
-  
-Art. 125. - E' istituita la scuola di specializzazione in oculistica che conferisce il diploma in oculistica.  
-La scuola ha sede presso la clinica oculistica.  
-La durata del corso e' di anni quattro.  
-Le materie impartite dalla scuola sono:  
-1° Anno:  
-1) Anatomia ed istologia dell'apparato oculare;  
-2) Nozioni di embriologia e genetica oculare;  
-3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;  
-4) Nozioni di ottica fisiologia, esame della rifrazione;  
-5) Microbiologia ed igiene oculare.  
-2° Anno:  
-1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, gonioscopia, oftalmoscopia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);  
-2) Farmacologia oculare e terapia fisica;  
-3) Nozioni di patologia generale e di anatomia patologica in rapporto all'oftalmologia;  
-4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali; della cornea e della sclera).  
-3° Anno:  
-1) Patologia e clinica oculare (malattie dell'uvea, della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);  
-2) Anomalie patologiche della motilita' oculare e della visione binoculare. Ortottica e pleottica;  
-3) Tecnica operatoria ed anestesiologia (1ª parte);  
-4) Affezioni otorinolaringoiatriche e patologia oculare.  
-4° Anno:  
-1) Neuroftalmologia;  
-2) Malattie oculari in rapporto ad affezioni generali;  
-3) Malattie professionali. Infortunistica e medicina legale oculare;  
-4) Tecnica operatoria (2ª parte);  
-5) Tesi di specializzazione.  
-Art. 126. - Alla scuola sono ammessi i laureati in medicina e chirurgia ed il numero degli specializzandi e' di otto per i 4 anni di corso.  
-Gli esami di profitto si danno alla fine di ciascun anno di corso.  
-Alla fine del corso gli iscritti, oltre a presentare la dissertazione scritta ed a sostenere la relativa discussione, devono sostenere una prova pratica sull'ammalato.  
+Art. 38. - La facolta' di lingue e letterature straniere conferisce la laurea in lingue e letterature straniere.   
+Art. 39. - La durata del corso degli studi per la laurea in lingue e letterature straniere e' di quattro anni.   
+E' titolo di ammissione il diploma di maturita' classica, di maturita' scientifica, di abilitazione magistrale o licenza, a norma dell'[art. 2 della legge 9 ottobre 1951, numero 1130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-10-09;1130~art2), dalla scuola civica "Regina Margherita" di Genova, ora "Grazia Deledda", o dalla scuola civica "Alessandro Manzoni" di Milano o dall'istituto di cultura e lingue "Marcelline" di Milano ovvero licenza a norma della [legge 12 marzo 1957, n. 94](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-03-12;94), o dal liceo linguistico femminile "Santa Caterina da Siena" di Venezia o dal liceo linguistico "Orsoline del Sacro Cuore" di Cortina d'Ampezzo a norma del [decreto legislativo 1° settembre 1947, n. 1062](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-09-01;1062), e della [legge 9 ottobre 1951, n. 1130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-10-09;1130);   
+diploma di abilitazione per i provenienti dagli istituti tecnici di ogni tipo compresi gli istituti tecnici femminili e diploma della scuola di magistero professionale per la donna a norma e con le modalita' di cui alla [legge 25 luglio 1966, n. 602](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-25;602).   
+Art. 40. - Sono insegnamenti fondamentali:   
+1) lingua e letteratura italiana (biennale);   
+2) una lingua e letteratura straniera (quadriennale) da scegliersi tra: francese, inglese, tedesco, spagnolo o qualsiasi altra il cui insegnamento sia impartito nel corso di laurea;   
+3) una seconda lingua e letteratura straniera (triennale) da scegliersi tra quelle insegnate nel corso di laurea;   
+4) la filologia afferente la lingua scelta come quadriennale;   
+5) glottologia;   
+6) storia moderna e contemporanea;   
+7) geografia, soprattutto antropica.   
+Sono insegnamenti complementari:   
+1) lingua e letteratura latina;   
+2) storia della filosofia;   
+3) storia dell'arte;   
+4) didattica delle lingue moderne;   
+5) filologia slava;   
+6) lingua russa.   
+Inoltre la facolta' considera disponibili quali insegnamenti complementari e assegnabili per incarico o con cattedra tutti gli insegnamenti previsti nell'ordinamento degli studi delle facolta' di lingue, di lettere e filosofia, di magistero, di giurisprudenza e di scienze politiche.   
+Art. 41. - Oltre gli insegnamenti fondamentali, lo studente dovra' seguire, superando il relativo esame di ciascuno di essi, tre insegnamenti scelti fra le discipline insegnate nella facolta' (con esclusione di quelle pluriennali) ovvero, ma in questo caso previa approvazione dell'organo universitario competente, fra le discipline di altra facolta' della stessa sede universitaria.   
+Per le lingue eventualmente scelte dagli studenti come corsi annuali complementari, si dovra' fare solo un esame orale.   
+Per le lingue quadriennali e per quelle triennali gli iscritti sosterranno ogni anno una prova scritta ed una orale con voto unico.   
+La prova scritta per il 1° anno sara' costituita da un dettato semplice e da una traduzione su temi di carattere, generale, familiare e sociale.   
+Per il 2° anno da un dettato e una composizione elementare.   
+Per il 3° anno da un dettato e da una traduzione letteraria.   
+Per il 4° anno da un dettato e composizione letteraria.   
+In ogni anno di corso lo studente potra' sostenere la prova orale solo se avra' gia' superato la prova scritta.   
+La prova scritta e la prova orale non saranno collegate fra loro ossia sara' possibile ad ogni studente sostenere dette prove anche in differenti periodi dell'anno accademico sempre nell'ordine di anticipazione della prova scritta a quella orale.   
+L'anticipazione della prova orale rispetto a quella scritta non puo' essere consentita anche perche' la prova orale deve essere registrata seduta stante con tutte le firme della commissione, facendo voto unico con la prova scritta.   
+Le prove degli esami di materie linguistiche di ciascun anno non possono essere sostenute se non quando siano superate tutte le prove degli anni precedenti.   
+Gli esami di italiano consistono in due prove orali (una per ciascun anno di corso) ed in una prova scritta, che puo' essere sostenuta in uno qualsiasi degli anni di corso.   
+Tutti gli altri esami sono orali.   
+L'esame di storia e quello di geografia sono afferenti alla lingua scelta come quadriennale.   
+Art. 42. - Superati tutti gli esami fondamentali e complementari previsti dal piano degli studi, lo studente deve presentare un elaborato scritto su un argomento scelto tra una delle discipline di cui abbia superato gli esami, nel quadro della civilta' della lingua quadriennale.   
+Tale elaborato sara' discusso dinanzi ad una commissione di docenti.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 marzo 1972
+### Dato a Roma, addi' 3 maggio 1971
 
-LEONE MISASI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 20 aprile 1972
+Registrato alla Corte dei conti, addi' 20 luglio 1971
 
-Atti del Governo, registro n. 248, foglio n. 64. - VALENTINI
+Atti del Governo, registro n. 243, foglio n. 33. - CARUSO

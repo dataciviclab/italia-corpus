@@ -1,23 +1,118 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 796
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1964 n. 1295
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 796
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1964 n. 1295
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Dopo l'art. 197, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Oncologia annessa alla Facolta' di medicina e chirurgia con il conseguente spostamento della numerazione degli articoli successivi.
+
+Scuola di specializzazione in Oncologia
+
+Art. 188. - La Scuola di specializzazione in Oncologia (con speciale riguardo alla diagnosi ed alla terapia dei tumori), ha lo scopo di perfezionare le conoscenze scientifiche e cliniche di coloro che, nell'ambito dell'esercizio della medicina e chirurgia, intendono dedicarsi particolarmente allo studio, diagnosi e terapia dei tumori.
+
+La Scuola ha sede presso l'Istituto di oncologia di Torino ed e' diretta dal titolare della cattedra di Clinica chirurgica generale e terapia chirurgica dell'Universita'.
+
+Art. 199. - La durata del corso e di anni 2 e vi possono accedere non piu' di 20 iscritti per anno, preferibilmente scelti fra laureati, gia' in possesso di un titolo di specializzazione. Il corso di specializzazione in Oncologia comprende i seguenti insegnamenti:
+
+1° Anno:
+
+a) Patologia generale dei tumori;
+
+b) Biochimica dei tumori;
+
+c) Patologia oncologica speciale (in rapporto con i vari tessuti e vari agenti casuali);
+
+d) Clinica medica generale dei tumori;
+
+e) Diagnosi e terapia radiologica dei tumori;
+
+f) Clinica chirurgica generale dei tumori.
+
+2° Anno:
+
+a) Diagnostica istologica e citocariologica dei tumori;
+
+b) Diagnosi precoce dei tumori;
+
+c) Diagnosi precoce dei tumori genitali femminili;
+
+d) Diagnosi e terapia dei tumori otorinolaringologici;
+
+e) Chirurgia oncologica;
+
+f) Gli isotopi radioattivi (elementi generali, nozioni di tecnica radioisotopica, applicazioni cliniche);
+
+g) Riscontri anatomo-clinici;
+
+h) Terapia antalgica dei tumori;
+
+i) Registrazione epidemiologica dei tumori.
+
+Art. 200. - Le lezioni saranno tenute presso la clinica medica della Universita' di Torino, presso l'Istituto di anatomia patologica dell'Universita', presso la clinica ostetrica e ginecologica dell'Universita', presso la clinica otorinolaringologica dell'Universita', e presso l'Istituto di oncologia di Torino. Le esercitazioni avranno luogo nell'Istituto di clinica chirurgica generale, nell'Istituto di radiologia, nell'Istituto di chimica medica dell'Universita', nell'Istituto di oncologia di Torino, e presso la SORIN (Centri Ricerche Nucleari) di Saluggia.
+
+I corsi e le esercitazioni sono tenuti dai titolari della scuola di specializzazione e, secondo le necessita', dai professori di ruolo delle varie specialita' mediche e chirurgiche.
+
+Art. 201. - Gli studenti debbono ottemperare all'obbligo della frequenza, alle lezioni ed alle esercitazioni. Alla fine di ogni anno gli iscritti dovranno superare gli esami dei vari corsi, che saranno tenuti in una unica seduta estiva ed autunnale dai titolari di ogni corso.
+
+Per il conseguimento del diploma di specializzazione gli iscritti dovranno presentare e discutere una tesi di specializzazione su argomento oncologico, elaborata presso gli Istituti sopra menzionati, e sotto la sorveglianza di uno dei titolari dei corsi.
+
+Art. 202. - Gli iscritti alla Scuola sono tenuti al pagamento delle tasse e soprattasse stabilite, e al pagamento di contributi speciali a favore degli Istituti e delle Cliniche in cui si svolgono le lezioni e le esercitazioni.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 27 ottobre 1964
+
+Per il Presidente della Repubblica
+
+Il Presidente del Senato
+
+MERZAGORA
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 5 dicembre 1964 Atti del Governo, registro n. 188, foglio n. 188. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -25,62 +120,45 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 75. - E' abrogato e sostituito dal seguente: "La facolta' di farmacia conferisce la laurea in farmacia e la laurea in chimica e tecnologia farmaceutiche".  
-Dopo l'art. 81 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente nuovo articolo relativo all'istituzione del corso di laurea in chimica e tecnologia farmaceutiche annesso alla facolta' di farmacia.  
   
-Laurea in chimica e tecnologia farmaceutiche  
-  
-Art. 82. - Durata del corso degli studi: cinque anni, divisi in un biennio ed un triennio.  
-Titolo di ammissione: diploma di maturita' classica o scientifica.  
-Insegnamenti fondamentali:  
-Biennio:  
-1) analisi chimico farmaceutica I (analisi qualitativa);  
-(\*) 2) anatomia umana;  
-(\*) 3) botanica farmaceutica;  
-(\*) 4) chimica fisica;  
-(\*) 5) chimica generale ed inorganica;  
-(\*\*) 6) chimica organica I;  
-(\*) 7) fisica;  
-8) fisiologia generale;  
-(\*) 9) istituzioni di matematiche;  
-10) microbiologia e igiene.  
-Triennio:  
-11) analisi chimico farmaceutica II (analisi quantitativa);  
-12) analisi chimico farmaceutica 111 (analisi dei medicamenti); (\*) 13) biochimica applicata;  
-(\*) 14) chimica biologica;  
-(\*) 15) chimica degli alimenti;  
-(\*) 16) chimica farmaceutica applicata;  
-(\*) 17) chimica farmaceutica e tossicologia I;  
-(\*) 18) chimica farmaceutica e tossicologica II;  
-(\*\*) 19) chimica organica II;  
-(\*) 20) farmacologia e farmacognosia;  
-21) impianti dell'industria farmaceutica;  
-22) laboratorio di preparazione estrattiva e sintetica dei farmaci;  
-23) metodi fisici in chimica organica;  
-24) saggi e dosaggi farmacologici;  
-(\*) 25) tecnica e legislazione farmaceutica.  
-Insegnamenti complementari:  
-(\*) chimica delle fermentazioni e microbiologia industriale;  
-chimica delle sostanze organiche naturali;  
-(\*\*) complementi di chimica tossicologica;  
-(\*) microchimica;  
-chimica dei prodotti dietetici;  
-chimica dei prodotti cosmetici.  
-Le materie segnate con un asterisco sono comuni alla laurea in farmacia; quelle segnate con due asterischi sono comuni alla laurea in chimica.  
-Per ottenere l'iscrizione al terzo anno di corso, lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per i due precedenti.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato tutti gli esami dei corsi fondamentali e almeno due esami a scelta fra i corsi complementari.  
-La prova di laurea comporta la discussione di una tesi sperimentale.  
+Dopo l'art. 197, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Oncologia annessa alla Facolta' di medicina e chirurgia con il conseguente spostamento della numerazione degli articoli successivi.  
+Scuola di specializzazione in Oncologia  
+Art. 188. - La Scuola di specializzazione in Oncologia (con speciale riguardo alla diagnosi ed alla terapia dei tumori), ha lo scopo di perfezionare le conoscenze scientifiche e cliniche di coloro che, nell'ambito dell'esercizio della medicina e chirurgia, intendono dedicarsi particolarmente allo studio, diagnosi e terapia dei tumori.  
+La Scuola ha sede presso l'Istituto di oncologia di Torino ed e' diretta dal titolare della cattedra di Clinica chirurgica generale e terapia chirurgica dell'Universita'.  
+Art. 199. - La durata del corso e di anni 2 e vi possono accedere non piu' di 20 iscritti per anno, preferibilmente scelti fra laureati, gia' in possesso di un titolo di specializzazione. Il corso di specializzazione in Oncologia comprende i seguenti insegnamenti:  
+1° Anno:  
+a) Patologia generale dei tumori;  
+b) Biochimica dei tumori;  
+c) Patologia oncologica speciale (in rapporto con i vari tessuti e vari agenti casuali);  
+d) Clinica medica generale dei tumori;  
+e) Diagnosi e terapia radiologica dei tumori;  
+f) Clinica chirurgica generale dei tumori.  
+2° Anno:  
+a) Diagnostica istologica e citocariologica dei tumori;  
+b) Diagnosi precoce dei tumori;  
+c) Diagnosi precoce dei tumori genitali femminili;  
+d) Diagnosi e terapia dei tumori otorinolaringologici;  
+e) Chirurgia oncologica;  
+f) Gli isotopi radioattivi (elementi generali, nozioni di tecnica radioisotopica, applicazioni cliniche);  
+g) Riscontri anatomo-clinici;  
+h) Terapia antalgica dei tumori;  
+i) Registrazione epidemiologica dei tumori.  
+Art. 200. - Le lezioni saranno tenute presso la clinica medica della Universita' di Torino, presso l'Istituto di anatomia patologica dell'Universita', presso la clinica ostetrica e ginecologica dell'Universita', presso la clinica otorinolaringologica dell'Universita', e presso l'Istituto di oncologia di Torino. Le esercitazioni avranno luogo nell'Istituto di clinica chirurgica generale, nell'Istituto di radiologia, nell'Istituto di chimica medica dell'Universita', nell'Istituto di oncologia di Torino, e presso la SORIN (Centri Ricerche Nucleari) di Saluggia.  
+I corsi e le esercitazioni sono tenuti dai titolari della scuola di specializzazione e, secondo le necessita', dai professori di ruolo delle varie specialita' mediche e chirurgiche.  
+Art. 201. - Gli studenti debbono ottemperare all'obbligo della frequenza, alle lezioni ed alle esercitazioni. Alla fine di ogni anno gli iscritti dovranno superare gli esami dei vari corsi, che saranno tenuti in una unica seduta estiva ed autunnale dai titolari di ogni corso.  
+Per il conseguimento del diploma di specializzazione gli iscritti dovranno presentare e discutere una tesi di specializzazione su argomento oncologico, elaborata presso gli Istituti sopra menzionati, e sotto la sorveglianza di uno dei titolari dei corsi.  
+Art. 202. - Gli iscritti alla Scuola sono tenuti al pagamento delle tasse e soprattasse stabilite, e al pagamento di contributi speciali a favore degli Istituti e delle Cliniche in cui si svolgono le lezioni e le esercitazioni.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 giugno 1968
+### Dato a Roma, addi' 27 ottobre 1964
 
-SARAGAT GUI
+Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 17 luglio 1968
+Registrato alla Corte dei conti, addi' 5 dicembre 1964
 
-Atti del Governo, registro n. 221, foglio n. 36. - GRECO
+Atti del Governo, registro n. 188, foglio n. 188. - VILLA

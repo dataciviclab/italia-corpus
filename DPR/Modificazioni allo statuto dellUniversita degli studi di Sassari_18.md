@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 febbraio 1969 n. 22
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1966 n. 1099
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 febbraio 1969 n. 22
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1966 n. 1099
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Sassari.
 -------------------------------------------------------------------
@@ -13,11 +13,10 @@ Art. 1
  IL PRESIDENTE DELLA REPUBBLICA  
   
 Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084) e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -25,45 +24,73 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 25. - All'elenco degli istituti annessi alla facolta' di medicina e chirurgia e' aggiunto il seguente: "Istituto di clinica neurochirurgica".  
-Art. 26. - All'elenco degli insegnamenti complementari, del corso di laurea in medicina e' chirurgia sono aggiunti quelli di:  
-Psichiatria;  
-Neuropsichiatria infantile;  
-Fisiologia della nutrizione;  
-Tossicologia;  
-Gerontologia;  
-Anestesia e rianimazione.  
-Art. 39. - Nell'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie l'insegnamento di zoocultura e' soppresso e sono istituiti i seguenti:  
-Avicoltura e coniglicoltura;  
-Apicoltura e bachicoltura (semestrale);  
-Agrumicoltura;  
-Microbiologia lattiero-casearia;  
-Microbiologia del terreno;  
-Parassitologia animale dei vegetali;  
-Tecnica della meccanizzazione agricola (semestrale);  
-Urbanistica rurale;  
-Virologia vegetale;  
-Sociologia rurale (semestrale);  
-Economia del mercato dei prodotti agricoli.  
-Art. 48. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:  
-Chimica delle sostanze organiche naturali;  
-Biochimica fisica.  
-Art. 56, relativo alle propedeuticita' di esami per il corso di laurea in scienze biologiche e' abrogato e sostituito dal seguente:  
-1) l'esame di istituzioni di matematiche dovra' precedere l'esame di fisica e quello di genetica;  
-2) l'esame di chimica generale ed inorganica dovra' precedere l'esame di chimica organica;  
-3) l'esame di fisica dovra' precedere l'esame di chimica organica;  
-4) l'esame di chimica organica dovra' precedere quello di chimica biologica;  
-5) l'esame di istologia ed embriologia dovra' precedere gli esami di anatomia umana e di anatomia comparata;  
-6) l'esame di chimica biologica dovra' precedere lo esame di fisiologia generale.  
+  
+Dopo l'art. 87 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Ortopedia e traumatologia.  
+Scuola di specializzazione in Ortopedia e traumatologia  
+Art. 88. - La Scuola di specializzazione in Ortopedia e traumatologia ha sede presso l'istituto di clinica ortopedica e conferisce il diploma di specializzazione in Ortopedia e traumatologia.  
+Art. 89. - Il corso ha la durata di tre anni.  
+Le norme di iscrizione, esami, pagamento tasse, ecc., sono quelle generali delle scuole di specializzazione riferite nei precedenti articoli da 58 a 70 del presente statuto.  
+Art. 90. - Potranno essere ammessi alla Scuola i laureati in Medicina e chirurgia.  
+Art. 91. - Il numero massimo degli iscritti per ogni anno di corso non puo' essere superiore a otto.  
+Art. 92. - La frequenza e' obbligatoria nell'Istituto sede della Scuola per un periodo di almeno nove mesi, per ogni anno accademico.  
+E' in facolta' del direttore della Scuola di concedere una deroga a tale norma solo agli iscritti alla Scuola che facciano parte di cliniche ortopediche che non abbiano la Scuola di specializzazione o che siano assistenti di ruolo in divisione di ortopedia e traumatologia di ospedali di prima categoria. Per queste due categorie di iscritti il periodo di frequenza presso l'Istituto sede della Scuola puo' essere ridotto fino a non meno di un mese ogni anno.  
+Art. 93. - Per nessun motivo sono ammesse abbreviazioni della durata degli studi.  
+Art. 94. - Gli insegnamenti si svolgeranno con indirizzo prevalentemente pratico, dimostrativo, ma per ogni singola materia di insegnamento dovra' anche svolgersi un corso regolare di lezioni, il cui numero verra' fissato annualmente dal direttore della Scuola in accordo con i docenti delle singole materie.  
+Art. 95. - Le materie di insegnamento sono le seguenti:  
+1) Clinica ortopedica e traumatologica (triennale);  
+2) Patologia delle lezioni, deformita' e malattie degli organi di movimento (triennale);  
+3) Tecnica operatoria ortopedica e traumatologica cruenta ed incruenta (triennale);  
+4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);  
+5) Anatomia ed istologia dell'apparato locomotore;  
+6) Fisiologia dell'apparato locomotore;  
+7) Anatomia ed istologia patologica dell'apparato locomotore;  
+8) Nozioni di chirurgia generale;  
+9) Neuropatologia dell'apparato locomotore ed elettrodiagnostica;  
+10) Nozioni di pediatria;  
+11) Apparato e terapia ortopedica;  
+12) Fisiocinesiterapia;  
+13) Infortunistica;  
+14) Anestesia e rianimazione in ortopedia e traumatologia.  
+Art. 96. - Le materie di insegnamento sono cosi' suddivise:  
+1° Anno:  
+1) Clinica ortopedica e traumatologica (triennale);  
+9) Patologia delle lesioni, deformita' e malattie degli organi di movimento;  
+3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);  
+4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);  
+5) Anatomia, e istologia normale dell'apparato locomotore;  
+6) Fisiologia dell'apparato locomotore;  
+7) Nozioni di chirurgia generale;  
+8) Nozioni di pediatria.  
+2° Anno:  
+1) Clinica ortopedica e traumatologica (triennale);  
+2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);  
+3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (biennale);  
+4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);  
+5) Neuropatologia dell'apparato locomotore ed elettrodiagnostica;  
+6) Anatomia e istologia patologica dell'apparato locomotore:  
+7) Anestesia e rianimazione in ortopedia e traumatologia.  
+3° Anno:  
+1) Clinica ortopedica e traumatologica (triennale);  
+2) Patologia delle lesioni e deformita' e malattie degli organi di movimento;  
+3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);  
+4) Apparato-terapia ortopedica;  
+5) Fisiochinesiterapia;  
+6) Infortunistica.  
+Art. 97. - Gli esami si svolgeranno per singole materie.  
+Gli esami di Clinica ortopedica e traumatologica, di tecnica operatoria cruenta ed incruenta ortopedica e traumatologica, di radiodiagnostica saranno teorici e pratici.  
+Per l'ammissione al corso successivo e' obbligatorio il superamento degli esami delle materie, di ciascun corso.  
+Art. 98. - Per l'ammissione all'esame di diploma il candidato dovra' presentare una tesi a stampa o dattiloscritta su un argomento delle specialita'.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 febbraio 1969
+### Dato a Roma, addi' 24 ottobre 1966
 
-SARAGAT SULLO
+SARAGAT GUI
 
-Visto, il Guardasigilli: GAVA Registrato alla Corte dei conti addi' 28 febbraio 1969
+Visto, il Guardasigilli: REALE
 
-Atti del Governo, registro n. 225, foglio n. 103. - GRECO
+Registrato alla Corte dei conti, addi' 14 dicembre 1966
+
+Atti del Governo, registro n. 208, foglio n. 8, - VILLA

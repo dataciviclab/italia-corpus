@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1964 n. 1459
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1214
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1964 n. 1459
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1214
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
@@ -10,237 +10,231 @@ Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 57. - Nel gruppo di materie a scelta dello studente del corso di laurea in Ingegneria civile - Sezione edile, e' aggiunto il seguente nuovo indirizzo:
+Articolo unico
+--------------
 
-a) Indirizzo vibrazioni:
-
-Complementi di matematica;
-
-Tecnica delle vibrazioni ed acustica.
-
-Agli insegnamenti obbligatori sul piano della Facolta' del corso di laurea in Ingegneria civile - Sezione trasporti - gli insegnamenti di "Tecnologie meccaniche" e di "Elementi di macchine" sono soppressi e sostituiti con quelli di "Tecnologie generali da materiali" e di "Disegno di macchine".
-
-Tra gli insegnamenti obbligatori sul piano della Facolta' del corso di laurea in Ingegneria elettrotecnica gli insegnamenti di "Radiotecnica" e di "Costruzione di macchine" sono soppressi e sostituiti con quelli di "Costruzioni di macchine elettriche" e di "Elementi e costruzioni di macchine".
-
-Nello stesso corso di laurea ai gruppi di materie a scelta e' soppresso l'indirizzo elettromeccanico e sostituito con quello di:
-
-b) Indirizzo elettronico Radiotecnica;
-
-Complementi di comunicazioni elettriche.
-
-Agli insegnamenti obbligatori sul piano della Facolta' del corso di laurea in Ingegneria meccanica l'insegnamento di "Controlli e servomeccanismi" da semestrale passa annuale.
-
-Nello stesso corso di laurea l'insegnamento di "Organizzazione aziendale e legislazione industriale" e' soppresso e sostituito con quello di "Termodinamica e termocinetica applicate".
-
-Nello stesso corso di laurea l'Indirizzo laboratori di ricerca muta denominazione con quello di "Indirizzo di meccanica sperimentale".
-
-Nello stesso corso di laurea e' aggiunto il seguente nuovo indirizzo:
-
-Indirizzo vibrazioni:
-
-Complementi di matematica;
-
-Tecnica delle vibrazioni ed acustica.
-
-Agli insegnamenti obbligatori sul piano della Facolta' del corso di laurea in Ingegneria nucleare l'insegnamento di "Controlli e servomeccanismi" da semestrale passa annuale. Nello stesso corso di laurea l'insegnamento obbligatorio di "Costruzione di macchine" e' soppresso e sostituito con quello di "Elementi e costruzioni di macchine".
-
-Agli insegnamenti obbligatori sul piano della Facolta' del corso di laurea in Ingegneria aeronautica l'insegnamento di "Controlli e servomeccanismi" da semestrale passa annuale.
-
-Nello stesso corso di laurea gli insegnamenti obbligatori di "Elettronica applicata" e di "Strumentazione ed assistenza al volo" (semestrale) sono soppressi e sostituiti con quelli di "Principi ed elementi di navigazione ed assistenza al volo" e di "Strumentazione ed impianti di bordo per aeromobili" (semestrale).
-
-Nel gruppo c) di materie a scelta del corso di laurea in Ingegneria elettronica l'insegnamento di "Tecnica della programmazione" viene sostituito con quello di "Elettronica dei circuiti a scatto".
-
-Nello stesso corso di laurea ai gruppi di materie a scelta viene aggiunto il seguente:
-
-e) Indirizzo vibrazioni:
-
-Complementi di matematica;
-
-Tecnica delle vibrazioni ed acustica.
-
-Per i corsi di laurea in Ingegneria elettrotecnica nucleare, Aeronautica e di Elettronica, l'insegnamento - obbligatorio sul piano della Facolta' - di "Tecnologie meccaniche" e soppresso e sostituito con quello di "Tecnologia meccanica".
-
-Art. 62, relativo alla precedenza e' cosi' modificato:
-
-Nell'elenco degli esami di cui alla lettera m) del corso di laurea in Ingegneria nucleare e' abolita la propedeuticita' dell'insegnamento di "Controlli e servomeccanismi" rispetto a quelli di "Elettronica nucleare" e di "Fisica del reattore".
-
-Dopo l'art. 69 e' aggiunto il seguente nuovo articolo con il conseguente spostamento della numerazione degli articoli successivi.
-
-Art. 70. - Gli Istituti di "Architettura tecnica" e di "Architettura e composizione architettonica e urbanistica" sono riuniti in un unico Istituto: "Istituto di architettura tecnica".
-
-Dopo l'art. 126 sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di perfezionamento in Scienze nucleari applicate all'Ingegneria annesso alla Facolta' d'ingegneria.
-
-Corso di perfezionamento in Scienze nucleari applicate all'ingegneria
-
-Art. 127. - E' istituito presso la Facolta' di ingegneria il corso di perfezionamento in Scienze nucleari applica all'ingegneria.
-
-Il corso e' regolato da un Consiglio direttivo, costituito da un direttore e dai professori di ruolo che vi tengono corsi regolari; il direttore e nominato dal rettore su proposta del Consiglio di facolta'.
-
-Il Consiglio determina, anno per anno, in accordo con il Consiglio di facolta' e udito, qualora occorra, gli Enti che contribuiscono al finanziamento del corso:
-
-a) la durata e la distribuzione dei singoli insegnamenti anche in rapporto all'esperienza didattica e all'evoluzione tecnica;
-
-b) il numero di allievi che possono essere ammessi ed i requisiti per l'ammissione;
-
-c) le proposte da sottoporre al Consiglio di amministrazione circa l'ammontare dei contributi richiesti per l'iscrizione al corso e circa l'impiego dei fondi per il funzionamento del corso stesso;
-
-d) le proposte circa la composizione della Commissione di esame che sara' nominata dal preside, sentito il Consiglio di facolta' e circa la composizione della Commissione delegata a svolgere i colloqui per la accettazione.
-
-Art. 128. - Al corso possono essere iscritti i laureati in Ingegneria, in Fisica, in Chimica, in Matematica e Fisica; la loro accettazione e condizionata dall'esito di in colloquio atto ad accertare la preparazione; vi possono essere ammessi anche aspiranti aventi titoli accademici diversi dai precedenti; previa deliberazione della Facolta' e sempre subordinatamente all'esito del colloquio predetto.
-
-Gli insegnamenti del corso sono scelti fra i seguenti:
-
-1) Richiami di fisica atomica;
-
-2) Fisica nucleare;
-
-3) Fisica del reattore ed esercitazioni con il reattore AGN 201;
-
-4) Rivelatori e misure nucleari con laboratorio;
-
-5) Elettronica della fisica nucleare con laboratorio;
-
-6) Problemi di termomeccanica;
-
-7) Effetti delle radiazioni sui materiali;
-
-8) Impianti nucleari;
-
-9) Isotopi e tecnologie chimiche con laboratorio;
-
-10) Dosimetria biologica e problemi di sicurezza.
-
-Potranno essere inclusi altri insegnamenti che vengono svolti presso l'Universita' di Palermo, come corsi regolari, e cicli di conferenze.
-
-Art. 129. - Il corso di perfezionamento ha durata annuale.
-
-Alla fine del corso, nelle sessioni estiva e autunnale, si svolgera' l'esame, vertente sul gruppo delle materie d'insegnamento.
-
-La Commissione esaminatrice, nominata dal preside, sentito il Consiglio di facolta', su proposta del Consiglio direttivo del corso, e' costituita da un numero di membri compreso fra 5 e 11.
-
-A coloro che hanno frequentato il corso e superato l'esame e' rilasciato un certificato di studi e di profitto.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1964
-
-Per il Presidente della Repubblica
-
-Il Presidente del Senato MERZAGORA GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 5 gennaio 1965 Atti del Governo, registro n. 189, foglio n. 62. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 57. - Nel gruppo di materie a scelta dello studente del corso di laurea in Ingegneria civile - Sezione edile, e' aggiunto il seguente nuovo indirizzo:  
-a) Indirizzo vibrazioni:  
-Complementi di matematica;  
-Tecnica delle vibrazioni ed acustica.  
-Agli insegnamenti obbligatori sul piano della Facolta' del corso di laurea in Ingegneria civile - Sezione trasporti - gli insegnamenti di "Tecnologie meccaniche" e di "Elementi di macchine" sono soppressi e sostituiti con quelli di "Tecnologie generali da materiali" e di "Disegno di macchine".  
-Tra gli insegnamenti obbligatori sul piano della Facolta' del corso di laurea in Ingegneria elettrotecnica gli insegnamenti di "Radiotecnica" e di "Costruzione di macchine" sono soppressi e sostituiti con quelli di "Costruzioni di macchine elettriche" e di "Elementi e costruzioni di macchine".  
-Nello stesso corso di laurea ai gruppi di materie a scelta e' soppresso l'indirizzo elettromeccanico e sostituito con quello di:  
-b) Indirizzo elettronico Radiotecnica;  
-Complementi di comunicazioni elettriche.  
-Agli insegnamenti obbligatori sul piano della Facolta' del corso di laurea in Ingegneria meccanica l'insegnamento di "Controlli e servomeccanismi" da semestrale passa annuale.  
-Nello stesso corso di laurea l'insegnamento di "Organizzazione aziendale e legislazione industriale" e' soppresso e sostituito con quello di "Termodinamica e termocinetica applicate".  
-Nello stesso corso di laurea l'Indirizzo laboratori di ricerca muta denominazione con quello di "Indirizzo di meccanica sperimentale".  
-Nello stesso corso di laurea e' aggiunto il seguente nuovo indirizzo:  
-Indirizzo vibrazioni:  
-Complementi di matematica;  
-Tecnica delle vibrazioni ed acustica.  
-Agli insegnamenti obbligatori sul piano della Facolta' del corso di laurea in Ingegneria nucleare l'insegnamento di "Controlli e servomeccanismi" da semestrale passa annuale. Nello stesso corso di laurea l'insegnamento obbligatorio di "Costruzione di macchine" e' soppresso e sostituito con quello di "Elementi e costruzioni di macchine".  
-Agli insegnamenti obbligatori sul piano della Facolta' del corso di laurea in Ingegneria aeronautica l'insegnamento di "Controlli e servomeccanismi" da semestrale passa annuale.  
-Nello stesso corso di laurea gli insegnamenti obbligatori di "Elettronica applicata" e di "Strumentazione ed assistenza al volo" (semestrale) sono soppressi e sostituiti con quelli di "Principi ed elementi di navigazione ed assistenza al volo" e di "Strumentazione ed impianti di bordo per aeromobili" (semestrale).  
-Nel gruppo c) di materie a scelta del corso di laurea in Ingegneria elettronica l'insegnamento di "Tecnica della programmazione" viene sostituito con quello di "Elettronica dei circuiti a scatto".  
-Nello stesso corso di laurea ai gruppi di materie a scelta viene aggiunto il seguente:  
-e) Indirizzo vibrazioni:  
-Complementi di matematica;  
-Tecnica delle vibrazioni ed acustica.  
-Per i corsi di laurea in Ingegneria elettrotecnica nucleare, Aeronautica e di Elettronica, l'insegnamento - obbligatorio sul piano della Facolta' - di "Tecnologie meccaniche" e soppresso e sostituito con quello di "Tecnologia meccanica".  
-Art. 62, relativo alla precedenza e' cosi' modificato:  
-Nell'elenco degli esami di cui alla lettera m) del corso di laurea in Ingegneria nucleare e' abolita la propedeuticita' dell'insegnamento di "Controlli e servomeccanismi" rispetto a quelli di "Elettronica nucleare" e di "Fisica del reattore".  
-Dopo l'art. 69 e' aggiunto il seguente nuovo articolo con il conseguente spostamento della numerazione degli articoli successivi.  
-Art. 70. - Gli Istituti di "Architettura tecnica" e di "Architettura e composizione architettonica e urbanistica" sono riuniti in un unico Istituto: "Istituto di architettura tecnica".  
-Dopo l'art. 126 sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di perfezionamento in Scienze nucleari applicate all'Ingegneria annesso alla Facolta' d'ingegneria.  
-Corso di perfezionamento in Scienze nucleari applicate all'ingegneria  
-Art. 127. - E' istituito presso la Facolta' di ingegneria il corso di perfezionamento in Scienze nucleari applica all'ingegneria.  
-Il corso e' regolato da un Consiglio direttivo, costituito da un direttore e dai professori di ruolo che vi tengono corsi regolari; il direttore e nominato dal rettore su proposta del Consiglio di facolta'.  
-Il Consiglio determina, anno per anno, in accordo con il Consiglio di facolta' e udito, qualora occorra, gli Enti che contribuiscono al finanziamento del corso:  
-a) la durata e la distribuzione dei singoli insegnamenti anche in rapporto all'esperienza didattica e all'evoluzione tecnica;  
-b) il numero di allievi che possono essere ammessi ed i requisiti per l'ammissione;  
-c) le proposte da sottoporre al Consiglio di amministrazione circa l'ammontare dei contributi richiesti per l'iscrizione al corso e circa l'impiego dei fondi per il funzionamento del corso stesso;  
-d) le proposte circa la composizione della Commissione di esame che sara' nominata dal preside, sentito il Consiglio di facolta' e circa la composizione della Commissione delegata a svolgere i colloqui per la accettazione.  
-Art. 128. - Al corso possono essere iscritti i laureati in Ingegneria, in Fisica, in Chimica, in Matematica e Fisica; la loro accettazione e condizionata dall'esito di in colloquio atto ad accertare la preparazione; vi possono essere ammessi anche aspiranti aventi titoli accademici diversi dai precedenti; previa deliberazione della Facolta' e sempre subordinatamente all'esito del colloquio predetto.  
-Gli insegnamenti del corso sono scelti fra i seguenti:  
-1) Richiami di fisica atomica;  
-2) Fisica nucleare;  
-3) Fisica del reattore ed esercitazioni con il reattore AGN 201;  
-4) Rivelatori e misure nucleari con laboratorio;  
-5) Elettronica della fisica nucleare con laboratorio;  
-6) Problemi di termomeccanica;  
-7) Effetti delle radiazioni sui materiali;  
-8) Impianti nucleari;  
-9) Isotopi e tecnologie chimiche con laboratorio;  
-10) Dosimetria biologica e problemi di sicurezza.  
-Potranno essere inclusi altri insegnamenti che vengono svolti presso l'Universita' di Palermo, come corsi regolari, e cicli di conferenze.  
-Art. 129. - Il corso di perfezionamento ha durata annuale.  
-Alla fine del corso, nelle sessioni estiva e autunnale, si svolgera' l'esame, vertente sul gruppo delle materie d'insegnamento.  
-La Commissione esaminatrice, nominata dal preside, sentito il Consiglio di facolta', su proposta del Consiglio direttivo del corso, e' costituita da un numero di membri compreso fra 5 e 11.  
-A coloro che hanno frequentato il corso e superato l'esame e' rilasciato un certificato di studi e di profitto.  
+Gli articoli 92 e seguenti, relativi al corso di laurea in architettura, sono soppressi e sostituiti dai seguenti articoli:  
+Art. 92. - La facolta' di architettura promuove e sviluppa gli studi sull'architettura relativi alla conoscenza, alla progettazione, alla costruzione e alla gestione dell'ambiente al fine di assicurare la formazione, il progresso della ricerca teorica e applicata e la promozione culturale specifica nell'ambito della citta' e del territorio.  
+Art. 93. - La facolta' comprende il corso di laurea in architettura. Al termine del corso degli studi, la cui durata e' di cinque anni, conferisce il titolo di dottore in architettura.  
+Art. 94. - I titoli di studio che danno diritto all'ammissione al primo anno della facolta' sono quelli previsti dalle leggi vigenti.  
+Art. 95. - Il corso di laurea e' articolato nei seguenti indirizzi:  
+1) progettazione architettonica;  
+2) tutela e recupero del patrimonio storico-architettonico;  
+3) tecnologico;  
+4) urbanistico.  
+La facolta' indica nel manifesto annuale degli studi gli indirizzi attivati, specificandone i contenuti scientifici e didattici e gli obiettivi di formazione professionale.  
+Art. 96. - Gli insegnamenti attivati o attivabili nella facolta' sono quelli compresi nell'elenco che segue, articolato per aree disciplinari.  
+1) Area progettuale architettonica:  
+composizione architettonica (1ª annualita);  
+composizione architettonica (2ª annualita);  
+allestimento e museografia;  
+arredamento e architettura degli interni;  
+arte dei giardini;  
+caratteri tipologici dell'architettura;  
+normative e legislazione per l'edilizia;  
+progettazione architettonica (1ª annualita);  
+progettazione architettonica (2ª annualita);  
+scenografia;  
+teoria dei modelli per la progettazione;  
+teoria e tecniche della progettazione architettonica.  
+2) Area della progettazione territoriale e urbanistica:  
+urbanistica (1ª annualita);  
+urbanistica (2ª annualita);  
+analisi di sistemi urbani;  
+analisi delle strutture urbanistiche e territoriali (1ª annualita);  
+analisi delle strutture urbanistiche e territoriali (2ª annualita);  
+diritto e legislazione urbanistica;  
+ecologia applicata;  
+geologia applicata ed idrogeologia;  
+gestione urbanistica del territorio;  
+organizzazione del territorio;  
+pianificazione del territorio;  
+progettazione urbanistica (1ª annualita);  
+progettazione urbanistica (2ª annualita);  
+teoria dell'urbanistica (1ª annualita);  
+teoria dell'urbanistica (2ª annualita);  
+assetto del paesaggio;  
+infrastrutture di viabilita' e trasporto.  
+3) Area storico-critica e del restauro:  
+storia dell'architettura (1ª annualita);  
+storia dell'architettura (2ª annualita);  
+storia dell'urbanistica (1ª annualita);  
+storia dell'urbanistica (2ª annualita);  
+storia dell'architettura contemporanea;  
+storia dell'arte;  
+storia della citta' e del territorio;  
+storia della critica e della letteratura architettonica;  
+storia della scienza;  
+storia della tecnologia;  
+restauro architettonico;  
+restauro urbano;  
+teoria del restauro;  
+storia dell'architettura (3ª annualita).  
+4) Area tecnologica:  
+tecnologia dell'architettura (1ª annualita);  
+tecnologia dell'architettura (2ª annualita);  
+cultura tecnologica della progettazione;  
+disegno industriale;  
+ergonomia;  
+igiene ambientale;  
+morfologia dei componenti;  
+progettazione ambientale;  
+sperimentazione di sistemi e componenti;  
+tecnica ed economia della produzione edilizia;  
+tecnologie dei materiali da costruzione;  
+tipologia strutturale;  
+unificazione edilizia e prefabbricazione;  
+disegno industriale (2ª annualita);  
+tecnologie del recupero edilizio.  
+5) Area impiantistica:  
+fisica tecnica e impianti;  
+illuminotecnica, acustica e climatizzazione nell'edilizia;  
+impianti speciali di sicurezza;  
+impianti tecnici urbani;  
+ubicazione e distribuzione della produzione della energia;  
+impianti tecnici per l'edilizia.  
+6) Area fisico-matematica:  
+istituzioni di matematica;  
+calcolo numerico e programmazione;  
+elaborazione elettronica dei dati;  
+elaborazione elettronica della progettazione;  
+fisica;  
+geometria descrittiva;  
+istituzioni di statica;  
+linguaggio per l'uso dei calcolatori;  
+matematica applicata;  
+teoria dei sistemi;  
+modelli matematici per la programmazione territoriale.  
+7) Area della scienza e tecnica delle costruzioni:  
+statica;  
+consolidamento ed adattamento degli edifici;  
+costruzioni in zone sismiche;  
+dinamica delle costruzioni;  
+geotecnica e tecnica delle fondazioni;  
+scienza delle costruzioni;  
+complementi di scienza delle costruzioni;  
+tecnica delle costruzioni (1ª annualita);  
+tecnica delle costruzioni (2ª annualita).  
+8) Area socio-economica:  
+estimo ed esercizio professionale;  
+economia urbana e regionale;  
+antropologia culturale;  
+demografia;  
+economia dei trasporti;  
+fondamenti di economia;  
+geografia urbana e regionale;  
+sociologia urbana e rurale;  
+fondamenti di economia politica e di politica economica.  
+9) Area della rappresentazione:  
+disegno e rilievo;  
+applicazioni di geometria descrittiva;  
+cartografia tematica;  
+elementi di fotogrammetria;  
+interpretazione di immagini e telerilevamenti;  
+strumenti e metodi per il rilievo architettonico;  
+strumenti e tecniche di comunicazione visiva;  
+tecniche della cartografia automatica;  
+tecniche di rappresentazione dell'architettura;  
+topografia;  
+rappresentazione dei fenomeni territoriali;  
+fotogrammetria e cartografia.  
+Art. 97. - Nella facolta' sono fondamentali i seguenti insegnamenti di durata annuale:  
+1) composizione architettonica (1ª annualita);  
+2) urbanistica (1ª annualita);  
+3) storia dell'architettura (1ª annualita);  
+4) tecnologia dell'architettura (1ª annualita);  
+5) fisica tecnica e impianti;  
+6) istituzioni di matematica;  
+7) statica;  
+8) estimo ed esercizio professionale;  
+9) disegno e rilievo.  
+Sono inoltre attivati i seguenti insegnamenti di durata annuale, caratterizzanti il corso di laurea in architettura:  
+1) teoria e tecniche della progettazione architettonica;  
+2) composizione architettonica (2ª annualita);  
+3) progettazione architettonica (1ª annualita);  
+4) urbanistica (2ª annualita);  
+5) storia dell'architettura contemporanea;  
+6) restauro architettonico;  
+7) disegno industriale;  
+8) scienza delle costruzioni;  
+9) geografia urbana e regionale.  
+I piani di studio per il conseguimento della laurea in architettura dovranno comprendere trenta insegnamenti.  
+I diciotto insegnamenti sopra elencati saranno comuni a tutti gli indirizzi. I rimanenti individueranno gli indirizzi e saranno attinti dalle singole aree nel modo indicato piu' sotto.  
+Art. 98. - Gli insegnamenti individuanti gli indirizzi dovranno essere scelti come segue:  
+1) Indirizzo progettazione architettonica:  
+tre annualita' dell'area progettuale architettonica;  
+una annualita' dell'area della progettazione territoriale e urbanistica;  
+una annualita' dell'area storico-critica e del restauro;  
+una annualita' dell'area tecnologica;  
+due annualita' dell'area della scienza e tecnica delle costruzioni;  
+una annualita' dell'area della rappresentazione.  
+2) Indirizzo, tutela e recupero del patrimonio storico-architettonico:  
+due annualita' dell'area progettuale architettonica;  
+una annualita' dell'area della progettazione territoriale e urbanistica;  
+tre annualita' dell'area storico-critica e del restauro;  
+una annualita' dell'area tecnologica;  
+una annualita' dell'area della scienza e tecnica delle costruzioni;  
+una annualita' dell'area della rappresentazione.  
+3) Indirizzo tecnologico:  
+una annualita' dell'area progettuale architettonica;  
+una annualita' dell'area storico-critica e del restauro;  
+tre annualita' dell'area tecnologica;  
+una annualita' dell'area impiantistica;  
+una annualita' dell'area fisico-matematica;  
+una annualita' dell'area della scienza e tecnica delle costruzioni;  
+una annualita' dell'area della rappresentazione.  
+4) Indirizzo urbanistico:  
+tre annualita' dell'arca della progettazione territoriale e urbanistica;  
+una annualita' dell'area storico-critica e del restauro;  
+una annualita' dell'area tecnologica;  
+una annualita' dell'area fisico-matematica;  
+due annualita' dell'area socio-economica;  
+una annualita' dell'area della rappresentazione.  
+Art. 99. - Le precedenze di esame da rispettare saranno le seguenti:  
+Non potranno essere ammessi a sostenere l'esame di statica ne' l'esame di fisica tecnica e impianti gli studenti che non avranno precedentemente superato l'esame di istituzioni di matematica.  
+Non potranno essere ammessi a sostenere l'esame di scienza delle costruzioni coloro che non avranno precedentemente superato l'esame di statica.  
+Tre annualita' saranno scelte dallo studente in una rosa da specificare nel manifesto annuale degli studi.  
+Art. 100. - Gli insegnamenti sono svolti mediante lezioni, eventualmente integrate da seminari, laboratori, esercitazioni pratiche, conferenze, visite, ecc. Gli esami di profitto consistono in colloqui sui temi svolti nei corsi, eventualmente integrati da discussioni sulle esercitazioni svolte durante il corso e da prove grafiche o scritte.  
+Art. 101. - Per essere ammesso all'esame di laurea lo studente deve avere superato le prove di esame relative agli insegnamenti indicati nel piano di studio.  
+Lo studente inoltre dovra' essere sottoposto all'accertamento della conoscenza di almeno una lingua straniera fra quelle indicate dalla facolta' nel manifesto annuale degli studi, mediante colloquio e traduzione di testi scientifici, da effettuarsi prima dell'assegnazione della tesi di laurea con docenti di discipline attinenti alla tesi stessa.  
+L'esame di laurea consiste nella valutazione dell'attivita' svolta e del profitto conseguito dal candidato durante il corso degli studi e nella discussione di una tesi riguardante il campo disciplinare della facolta'.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1964
+### Dato a Roma, addi' 28 ottobre 1983
 
-Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 5 gennaio 1965
+Registrato alla Corte dei conti, addi' 28 aprile 1984
 
-Atti del Governo, registro n. 189, foglio n. 62. - VILLA
+Registro n. 25 Istruzione, foglio n. 164

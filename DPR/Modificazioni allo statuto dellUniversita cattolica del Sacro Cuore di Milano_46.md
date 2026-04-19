@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1980 n. 1011
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1260
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1980 n. 1011
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1260
+===============================================================
 
 Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
 --------------------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
+Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,79 +18,821 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
---------
 
 Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+L'art. 102, relativo alle norme generali per le scuole di specializzazione in medicina e chirurgia, e' modificato nel senso che il secondo e terzo comma sono abrogati e sostituiti dai seguenti:
 
+"La durata dei corsi di specializzazione non e' suscettibile di abbreviazioni.
+
+La frequenza ai corsi teorico-pratici e l'internato sono obbligatori. Alle scuole di specializzazione possono iscriversi solo i laureati in medicina e chirurgia".
+
+Art. 103, primo comma - e' modificato nel senso che la scuola di specializzazione in ematologia clinica e di laboratorio muta la denominazione in quella di scuola di specializzazione in ematologia generale.
+
+Nello stesso art. 103 il quarto ed il quinto comma sono soppressi.
+
+L'art. 104, relativo alla scuola di specializzazione in malattie dell'apparato cardiovascolare, che muta la denominazione in quella di scuola di specializzazione in cardiologia, e' abrogato e sostituito dal seguente:
+
+Scuola di specializzazione in cardiologia
+
+Art. 104. - La scuola di specializzazione in cardiologia ha sede presso l'istituto di patologia speciale medica della facolta' di medicina e chirurgia dell'Universita' cattolica del Sacro Cuore e conferisce il diploma di specialista in cardiologia.
+
+La direzione della scuola e' affidata al professore di ruolo e fuori ruolo della stessa materia o della materia di cui la cardiologia e' parte. Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
+
+Il numero massimo degli allievi e' di quindici per anno di corso, e complessivamente di sessanta iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+1) anatomia umana normale ed embriologia dell'apparato cardiovascolare;
+
+2) fisiologia dell'apparato cardiovascolare (I);
+
+3) biochimica e biofisica;
+
+4) semeiotica fisica e strumentale dell'apparato cardiovascolare (I);
+
+5) informatica medica e strumentazione biomedica (I);
+
+2° Anno:
+
+1) anatomia patologica (I)
+
+2) fisiologia dell'apparato cardiovascolare (II);
+
+3) patologia e clinica cardiovascolare (I);
+
+4) semeiotica fisica e strumentale dell'apparato cardiovascolare (II);
+
+5) informatica medica e strumentazione biomedica (II);
+
+6) radiologia (I);
+
+7) aspetti sociali ed epidemiologici delle malattie cardiovascolari.
+
+3° Anno:
+
+1) anatomia patologica (II);
+
+2) semeiotica fisica e strumentale dell'apparato cardiovascolare (III);
+
+3) patologia e clinica cardiovascolare (Il);
+
+4) radiologia (II);
+
+5) terapia medica e farmacologia clinica (I).
+
+4° Anno:
+
+1) semeiotica fisica e strumentale dell'apparato cardiovascolare (IV);
+
+2) patologia e clinica cardiovascolare (III);
+
+3) terapia medica e farmacologia clinica (II);
+
+4) terapia chirurgica;
+
+5) terapie intensive cardiologiche.
+
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.
+
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in cardiologia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta su un argomento di carattere cardiologico.
+
+L'art. 105, secondo comma, relativo alla scuola di specializzazione in oncologia, e' modificato nel senso che il numero degli iscritti e' stabilito in quarantacinque (45) per l'intero corso di studi.
+
+Art. 106, primo comma - e' modificato nel senso che la scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale muta la denominazione in quella di scuola di specializzazione in otorinolaringoiatria.
+
+Nello stesso art. 106 il settimo comma e' soppresso.
+
+L'art. 108, relativo alla scuola di specializzazione in patologia generale, e' modificato nel senso che il terzo comma e' soppresso.
+
+Nello stesso art. 108 le denominazioni delle materie di insegnamento del 1° anno di corso "biologia generale (cause patogene: fisiche, chimiche e biologiche)" e "patologia delle infezioni" sono modificate nel modo seguente:
+
+eziologia generale (cause patogene: fisiche, chimiche e biologiche);
+
+patologia delle infezioni.
+
+L'art. 109, terzo comma, relativo alla scuola di specializzazione in anestesiologia e rianimazione, e' modificato nel senso che il numero degli iscritti e' stabilito in settantacinque per l'intero corso di studi.
+
+Art. 110, secondo comma - il numero degli iscritti da ammettere alla scuola di specializzazione in radiologia e' stabilito in ottantaquattro (84) per l'intero corso di studi.
+
+L'art. 111, primo comma, relativo alla scuola di specializzazione in chirurgia vascolare, e' modificato nel senso che il numero degli iscritti e' stabilito in cinquantaquattro (54) per l'intero corso di studi.
+
+L'art. 112, relativo alla scuola di specializzazione in ostetricia e ginecologia, che muta la denominazione in quella di scuola di specializzazione in ginecologia ed ostetricia, e' abrogato e sostituito dal seguente:
+
+Scuola di specializzazione in ginecologia e ostetricia
+
+Art. 112. - La scuola di specializzazione in ginecologia ed ostetricia ha sede presso l'istituto di clinica ostetrica e ginecologica e conferisce il diploma di specialista in ginecologia e ostetricia.
+
+La direzione della scuola e' affidata al professore di ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
+
+Il numero massimo degli allievi e' di dodici per anno di corso e complessivamente di quarantotto iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+elementi di genetica medica;
+
+elementi di embriologia; anatomia macro e micro dell'apparato genitale femminile; anatomia delle pelvi;
+
+elementi di fisiopatologia della riproduzione umana;
+
+fisiologia ostetrica;
+
+endocrinologia ginecologica ed ostetrica;
+
+semeiotica e diagnostica ostetrica;
+
+patologia ostetrica e ginecologica (I);
+
+lingua straniera (inglese) (I).
+
+2° Anno:
+
+semeiotica e diagnostica ginecologica;
+
+operazioni ostetriche (I);
+
+anatomia ed istologia patologica della sfera genitale femminile;
+
+citologia ginecologica;
+
+patologia ostetrica e ginecologica (II);
+
+diagnostica di laboratorio in ostetricia e ginecologia;
+
+lingua straniera (inglese) (II).
+
+3° Anno:
+
+puericultura prenatale;
+
+immunologia ostetrica e ginecologica;
+
+analgo-anestesia e rianimazione in ostetricia;
+
+operazioni ostetriche (II);
+
+operazioni ginecologiche (I);
+
+ostetricia e ginecologia forense;
+
+terapia medica in ostetricia e ginecologia;
+
+clinica ostetrica e ginecologica (I);
+
+psicosomatica ostetrica e ginecologica;
+
+lingua straniera (inglese) (III).
+
+4° Anno:
+
+neonatologia;
+
+urologia ginecologica;
+
+radio-diagnostica e terapia fisica in ostetricia e ginecologia; chirurgia addominale;
+
+operazioni ginecologiche (II);
+
+clinica ostetrica e ginecologica;
+
+lingua straniera (inglese) (IV).
+
+La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.
+
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in ginecologia ed ostetricia, gli interessati dovranno superare l'esame di diploma su un argomento attinente alla specializzazione.
+
+L'art. 113, relativo alla scuola di specializzazione in neurologia, e' modificato nel senso che il sesto comma e' soppresso.
+
+L'art. 114, relativo alla scuola di specializzazione in psichiatria, e' modificato nel senso che il quinto comma e' soppresso.
+
+L'art. 119, secondo comma, relativo alla scuola di specializzazione in malattie dell'apparato digerente, e' modificato nel senso che il numero degli iscritti e' stabilito in trenta (30) per l'intero corso di studi.
+
+L'art. 125, relativo alla scuola di specializzazione in endocrinologia, e' modificato nel senso che il terzo comma e' soppresso.
+
+Gli articoli 126, 127 e 128, relativi alla scuola di specializzazione in medicina del lavoro, sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in medicina del lavoro
+
+Art. 126. - La scuola di specializzazione in medicina del lavoro ha sede presso l'istituto di medicina del lavoro e conferisce il diploma di specialista in medicina del lavoro.
+
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
+
+Il numero massimo degli allievi e' di quindici per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Art. 127. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+igiene del lavoro (I);
+
+fisiologia del lavoro ed ergonomia (I);
+
+tecnologia industriale;
+
+statistica medica e biometria;
+
+tecniche di laboratorio.
+
+2° Anno:
+
+patologia e clinica delle malattie da lavoro (I);
+
+igiene del lavoro (II);
+
+fisiologia del lavoro ed ergonomia (II);
+
+psicologia del lavoro;
+
+tossicologia industriale.
+
+3° Anno:
+
+patologia e clinica delle malattie da lavoro (Il);
+
+prevenzione degli infortuni e delle malattie da lavoro (I);
+
+epidemiologia delle malattie da lavoro;
+
+radiobiologia e radioprotezione;
+
+dermatologia professionale.
+
+4° Anno:
+
+patologia e clinica delle malattie da lavoro (III);
+
+prevenzione degli infortuni e delle malattie da lavoro (II);
+
+pronto soccorso;
+
+medicina legale e delle assicurazioni;
+
+organizzazione dei servizi di medicina e igiene del lavoro.
+
+Art. 128. - Le materie fondamentali anzidette potranno essere integrate con insegnamenti facoltativi stabiliti, su proposta del direttore della scuola, di anno in anno.
+
+La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.
+
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno.
+
+Per le materie biennali o triennali l'esame sara' sostenuto alla fine del biennio o del triennio.
+
+I corsi saranno integrati ogni anno da periodi obbligatori di tirocinio in servizi di medicina del lavoro e di igiene industriale.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in medicina del lavoro, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione.
+
+L'art. 129, secondo comma, relativo alla scuola di specializzazione in medicina interna, e' modificato nel senso che il numero degli iscritti e' stabilito in settantacinque (75) per l'intero corso di studi.
+
+Nello stesso art. 129 il quinto e sesto comma sono soppressi.
+
+L'art. 137, relative alla scuola di specializzazione in microbiologia, e' modificato nel senso che il terzo comma e' soppresso.
+
+La scuola di specializzazione in oculistica di cui agli articoli 138, 139, 140, muta la denominazione in quella di scuola di specializzazione in oftalmologia.
+
+Gli articoli 148, 149, 150, 151, 152, 153, relativi alla scuola di specializzazione in chirurgia plastica ricostruttiva, che muta la denominazione in quella di scuola di specializzazione in chirurgia plastica, sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in chirurgia plastica
+
+Art. 148. - La scuola di specializzazione in chirurgia plastica ha sede presso l'istituto di clinica chirurgica e conferisce il diploma di specialista in chirurgia plastica.
+
+Art. 149. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo della materia affine.
+
+Art. 150. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto almeno all'inizio del corso il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente.
+
+La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni.
+
+Il numero massimo degli allievi e' di quattro (4) per anno di corso e complessivamente di venti iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Art. 151. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+anatomia ed embriologia con particolare riguardo al capo, al collo, arti superiori ed inferiori, organi genitali;
+
+patologia generale (infezioni, flogosi, immunita', etiopatogenesi delle malformazioni congenite, neoplasie maligne e benigne);
+
+anatomia ed istopatologia, con particolare riferimento alla malattia-ustione e alle neoplasie maligne e benigne;
+
+anestesiologia e rianimazione: concetti generali;
+
+patologia secondaria;
+
+guarigione delle ferite;
+
+principi e regole pratiche di chirurgia (strumenti, sterilita', emostasi);
+
+trapianti I;
+
+autoinnesti: indicazioni per l'utilizzazione terapeutica di cute, derma, grasso, fascia, cartilagine, ossa, tendini, segmenti nervosi e tessuti composti;
+
+semeiologia del sistema nervoso periferico.
+
+2° Anno:
+
+anatomia chirurgica;
+
+tecniche e procedure operatorio in chirurgia generale e in chirurgia plastica;
+
+trapianti II;
+
+omoinnesti: concetti generali (con particolare riferimento agli aspetti genetici e immunitari);
+
+tipizzazione dei tessuti;
+
+utilizzazione clinica degli omoinnesti;
+
+etero-innesti: estensione e limiti della loro utilizzazione clinica;
+
+traumatologia dei tessuti molli;
+
+traumi complessi interessanti cute, tessuti molli e ossa;
+
+shock emorragico;
+
+shock traumatico;
+
+shock da ustione;
+
+malattia-ustione: fisiopatologia e clinica I;
+
+inserti non biologici: estensione e limiti della loro utilizzazione clinica.
+
+3° Anno:
+
+malattia-ustione: terapia medica e chirurgica II;
+
+lesioni da raggi;
+
+elementi di chirurgia addominale;
+
+elementi di otorinolaringoiatria;
+
+elementi di stomatologia;
+
+elementi di ortopedia generale;
+
+dermatologia generale, con specifico riferimento alle malattie o lesioni congenite di competenza plastica, passibili di trattamento chirurgico I;
+
+elementi di genetica.
+
+4° Anno:
+
+metodologia chirurgica differenziale;
+
+malformazioni congenite del volto, delle mani e degli organi genitali;
+
+agenesie;
+
+chirurgia riparatrice e ricostruttiva della mano;
+
+trattamento chirurgico delle lesioni del volto e delle fratture del massiccio facciale;
+
+trattamento chirurgico delle deformita' congenite e acquisite del naso, delle labbra, del mento, della mandibola, del palato, del pavimento dell'orbita, del padiglione auricolare;
+
+metodologia chirurgica differenziale applicata ai danni anatomici e funzionali derivanti dalla paralisi del settimo;
+
+chirurgia d'urgenza;
+
+dermatologia generale con specifico riferimento alle malattie o lesioni congenite di competenza plastica, passabili di trattamento chirurgico II.
+
+5° Anno:
+
+patologia traumatica delle arterie e dei nervi periferici;
+
+elementi di chirurgia vascolare;
+
+microchirurgia vascolare e nervosa;
+
+elementi di criobiologia e crioterapia;
+
+elementi di fisio-chinesiterapia;
+
+problemi psichiatrici e psicologici in chirurgia plastica;
+
+medicina legale e delle assicurazioni, con particolare riferimento alle deformita' anatomiche e alle menomazioni funzionali di origine traumatica.
+
+Art. 152. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.
+
+Gli allievi che non conseguono l'attestazione di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+E' fatto obbligo agli allievi del primo biennio a presenziare ad un minimo di trenta sedute operatorie per anno; gli allievi del 3°, 4°, 5° anno dovranno partecipare quali primi assistenti ad un numero di cinquanta interventi per anno.
+
+Art. 153. - Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno; per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in chirurgia plastica, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+La scuola di specializzazione in odontoiatria e protesi dentaria di cui agli articoli 154, 155 muta la denominazione in quella di scuola di specializzazione in odontostomatologia.
+
+Dopo l'art. 155, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina legale e delle assicurazioni.
+
+Scuola di specializzazione in medicina legale e delle assicurazioni Art. 156. - Presso l'istituto di medicina legale e delle assicurazioni e' istituita la scuola di specializzazione in medicina legale e delle assicurazioni.
+
+La durata del corso di studi e' di anni 3 (tre).
+
+Direttore della scuola e' il titolare della cattedra di medicina legale e delle assicurazioni.
+
+Alla scuola possono iscriversi solo i laureati in medicina e chirurgia in numero limitato a quindici per l'intero corso di studi.
+
+Art. 157. - Le materie di insegnamento della scuola sono:
+
+1° Anno:
+
+medicina legale generale;
+
+elementi di diritto pubblico e privato;
+
+tecnica e diagnostica anatomo-patologica generale e medico-legale;
+
+traumatologia medico-legale;
+
+semeiotica medico-legale.
+
+2° Anno:
+
+medicina legale penalistica;
+
+deontologia medica;
+
+neuropsichiatria medico-legale;
+
+elementi di medicina criminologica e di medicina penitenziaria; indagini di sopralluogo;
+
+identificazione personale.
+
+3° Anno:
+
+medicina legale civilista e canonistica;
+
+tossicologia medico-legale;
+
+tecniche di laboratorio medico-legale ed ematologia forense;
+
+ostetricia e ginecologia forense;
+
+elementi di legislazione del lavoro;
+
+medicina delle assicurazioni;
+
+medicina legale militare e pensionistica civile.
+
+Art. 158. - Gli insegnamenti hanno carattere essenzialmente dimostrativo e di pratica esercitazione e saranno integrati da periodi di internato della durata di almeno sei mesi per anno.
+
+Possono essere organizzate inoltre conferenze pratiche da tenersi da docenti di altre materie che abbiano attinenza con gli scopi della scuola.
+
+Art. 159. - Alla fine di ogni anno di corso gli allievi, i quali abbiano frequentato il corso stesso, dovranno sostenere e superare tutti gli esami previsti dal piano degli studi ai fini dell'iscrizione all'anno successivo.
+
+Alla fine del triennio gli allievi, i quali abbiano frequentato i corsi ed eseguito le esercitazioni, saranno ammessi alle prove di esame per il conseguimento del diploma.
+
+Gli esami consisteranno in una prova orale teorica e pratica sulle materie di insegnamento e nella discussione di una dissertazione sopra un argomento attinente all'insegnamento della scuola.
+
+I candidati non riconosciuti idonei all'esame di diploma si potranno ripresentare dopo un altro anno di frequenza alla scuola; se al secondo esame non sara' loro riconosciuta l'idoneita', verranno senz'altro esclusi da ulteriori prove.
+
+Art. 160. - Agli allievi i quali abbiano ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specializzazione in medicina legale e delle assicurazioni, valido a tutti gli effetti di legge.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1977
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 9 agosto 1978 Registro n. 89 Istruzione, foglio n. 199
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA   
   
+Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Dopo l'art. 184, con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola diretta a fini speciali per la preparazione di personale tecnico specializzato in cosmetologia.   
+Decreta:   
   
-Scuola per la preparazione di personale tecnico specializzato in cosmetologia   
+Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+L'art. 102, relativo alle norme generali per le scuole di specializzazione in medicina e chirurgia, e' modificato nel senso che il secondo e terzo comma sono abrogati e sostituiti dai seguenti:   
+"La durata dei corsi di specializzazione non e' suscettibile di abbreviazioni.   
+La frequenza ai corsi teorico-pratici e l'internato sono obbligatori. Alle scuole di specializzazione possono iscriversi solo i laureati in medicina e chirurgia".   
+Art. 103, primo comma - e' modificato nel senso che la scuola di specializzazione in ematologia clinica e di laboratorio muta la denominazione in quella di scuola di specializzazione in ematologia generale.   
+Nello stesso art. 103 il quarto ed il quinto comma sono soppressi.   
+L'art. 104, relativo alla scuola di specializzazione in malattie dell'apparato cardiovascolare, che muta la denominazione in quella di scuola di specializzazione in cardiologia, e' abrogato e sostituito dal seguente:   
   
-Art. 185. - E' istituita presso l'istituto di clinica dermosifilopatica della facolta' di medicina e chirurgia dell'Universita' cattolica del Sacro Cuore una scuola per la preparazione di personale tecnico specializzato in cosmetologia. La scuola ha lo scopo di impartire agli allievi con unita' di indirizzo e metodo scientifico tutte le nozioni teoriche e pratiche per ben esercitare l'attivita' di cosmetologo.   
-Art. 186. - La durata del corso degli studi della scuola e' di due anni accademici. Alla scuola possono essere ammessi allievi di ambo i sessi aventi il diploma di scuola media di 2° grado che abbiano compiuto il 17° anno di eta'.   
-Art. 187. - Al primo anno della scuola si accede previo esame di cultura generale ed attitudinale davanti ad una commissione composta dal direttore della scuola e da due insegnanti della scuola stessa.  
-L'esame di ammissione avra' luogo entro il mese di ottobre di ciascun anno in un giorno stabilito dalla facolta' di medicina e chirurgia su proposta del direttore della scuola.   
-Art. 188. - Il numero massimo degli allievi che possono essere ammessi ad ogni anno di corso della scuola e' di trenta.   
-Art. 189. - Il direttore della scuola e' il direttore dell'istituto di clinica dermosifilopatica dell'Universita' cattolica del Sacro Cuore che puo' nominare direttore dei corsi uno dei docenti della scuola. La scuola e' sotto la vigilanza della facolta' di medicina e chirurgia. Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' di medicina e chirurgia e nominati dal rettore.   
-Essi possono essere scelti fra i professori ufficiali, tra i docenti, tra gli aiuti e gli assistenti della facolta' di medicina e chirurgia e di altra facolta' dell'Universita' cattolica del Sacro Cuore o di altre Universita', o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.   
-Art. 190. - Le materie di insegnamento sono le seguenti:   
+Scuola di specializzazione in cardiologia   
+Art. 104. - La scuola di specializzazione in cardiologia ha sede presso l'istituto di patologia speciale medica della facolta' di medicina e chirurgia dell'Universita' cattolica del Sacro Cuore e conferisce il diploma di specialista in cardiologia.   
+La direzione della scuola e' affidata al professore di ruolo e fuori ruolo della stessa materia o della materia di cui la cardiologia e' parte. Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
+Il numero massimo degli allievi e' di quindici per anno di corso, e complessivamente di sessanta iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Le materie di insegnamento sono le seguenti:   
 1° Anno:   
-dermatologia estetica;   
-chimica cosmetologica;   
-igiene cosmetologica;   
-cosmetologia applicata;   
-nozioni di fisica.   
+1) anatomia umana normale ed embriologia dell'apparato cardiovascolare;   
+2) fisiologia dell'apparato cardiovascolare (I);   
+3) biochimica e biofisica;   
+4) semeiotica fisica e strumentale dell'apparato cardiovascolare (I);   
+5) informatica medica e strumentazione biomedica (I);   
 2° Anno:   
-nozioni di patologia dermatologica;   
-massoterapia cosmetologica;   
-nozioni di dermatologia correttiva.   
-Art. 191. - La frequenza alle lezioni teoriche e alle esercitazioni pratiche e' obbligatoria. Per la validita' dell'anno scolastico l'allievo deve partecipare ai due terzi delle lezioni sia teoriche che pratiche.   
-Art. 192. - Le lezioni verranno impartite agli allievi nelle aule messe a disposizione della clinica dermosifilopatica. I programmi di insegnamento e gli orari vengono predisposti dal direttore della scuola ed approvati dal consiglio della facolta' di medicina e chirurgia. La sorveglianza degli iscritti, per quanto riguarda la loro attivita' pratica, spetta al direttore della scuola. Il tirocinio sara' compiuto dagli allievi sotto la guida degli insegnanti della scuola, presso l'istituto di clinica dermosifilopatica dell'Universita' cattolica del Sacro Cuore, nonche' presso la sezione di fisioterapia (clinica ortopedica), l'istituto di biochimica, l'istituto di farmacologia.   
-Art. 193. - Per essere ammessi a sostenere gli esami di diploma gli allievi dovranno avere seguito i corsi, superati gli esami in tutti gli insegnamenti prescritti e avere compiuto, con esito favorevole, tutte le esercitazioni pratiche previste. Non possono essere ammessi al secondo anno gli allievi che non hanno superato gli esami attinenti alle materie del primo corso.   
-Art. 194. - Le commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Le commissioni sono composte da tre membri: dal professore ufficiale della materia, presidente, dal professore ufficiale della materia affine e da un libero docente cultore della materia.   
-Ogni commissario ha a disposizione 10 punti.   
-Art. 195. - L'esame di diploma consiste in un esame orale sui temi trattati durante i corsi ed eventualmente in una prova pratica stabilita dalla commissione esaminatrice. L'esame di diploma viene sostenuto davanti a una commissione di cinque membri scelti fra i docenti della scuola nominati dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Ogni commissario ha a disposizione 10 punti; i candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza nella scuola, ma se al secondo esame non sara' loro riconosciuta l'idoneita', essi saranno senz'altro esclusi da ulteriori prove. Agli allievi che avranno superato l'esame finale viene rilasciato il diploma di tecnico cosmetologo.   
-Art. 196. - Alle spese occorrenti per il funzionamento della scuola si provvede con contributi eventualmente concessi da Ministeri, dalle regioni, da enti pubblici e privati e dalle seguenti tasse, soprattasse e contributi degli iscritti:   
+1) anatomia patologica (I)   
+2) fisiologia dell'apparato cardiovascolare (II);   
+3) patologia e clinica cardiovascolare (I);   
+4) semeiotica fisica e strumentale dell'apparato cardiovascolare (II);   
+5) informatica medica e strumentazione biomedica (II);   
+6) radiologia (I);   
+7) aspetti sociali ed epidemiologici delle malattie cardiovascolari.   
+3° Anno:   
+1) anatomia patologica (II);   
+2) semeiotica fisica e strumentale dell'apparato cardiovascolare (III);   
+3) patologia e clinica cardiovascolare (Il);   
+4) radiologia (II);   
+5) terapia medica e farmacologia clinica (I).   
+4° Anno:   
+1) semeiotica fisica e strumentale dell'apparato cardiovascolare (IV);   
+2) patologia e clinica cardiovascolare (III);   
+3) terapia medica e farmacologia clinica (II);   
+4) terapia chirurgica;   
+5) terapie intensive cardiologiche.   
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in cardiologia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta su un argomento di carattere cardiologico.   
+L'art. 105, secondo comma, relativo alla scuola di specializzazione in oncologia, e' modificato nel senso che il numero degli iscritti e' stabilito in quarantacinque (45) per l'intero corso di studi.   
+Art. 106, primo comma - e' modificato nel senso che la scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale muta la denominazione in quella di scuola di specializzazione in otorinolaringoiatria.   
+Nello stesso art. 106 il settimo comma e' soppresso.   
+L'art. 108, relativo alla scuola di specializzazione in patologia generale, e' modificato nel senso che il terzo comma e' soppresso.   
+Nello stesso art. 108 le denominazioni delle materie di insegnamento del 1° anno di corso "biologia generale (cause patogene: fisiche, chimiche e biologiche)" e "patologia delle infezioni" sono modificate nel modo seguente:   
+eziologia generale (cause patogene: fisiche, chimiche e biologiche);   
+patologia delle infezioni.   
+L'art. 109, terzo comma, relativo alla scuola di specializzazione in anestesiologia e rianimazione, e' modificato nel senso che il numero degli iscritti e' stabilito in settantacinque per l'intero corso di studi.   
+Art. 110, secondo comma - il numero degli iscritti da ammettere alla scuola di specializzazione in radiologia e' stabilito in ottantaquattro (84) per l'intero corso di studi.   
+L'art. 111, primo comma, relativo alla scuola di specializzazione in chirurgia vascolare, e' modificato nel senso che il numero degli iscritti e' stabilito in cinquantaquattro (54) per l'intero corso di studi.   
+L'art. 112, relativo alla scuola di specializzazione in ostetricia e ginecologia, che muta la denominazione in quella di scuola di specializzazione in ginecologia ed ostetricia, e' abrogato e sostituito dal seguente:   
   
+Scuola di specializzazione in ginecologia e ostetricia   
+Art. 112. - La scuola di specializzazione in ginecologia ed ostetricia ha sede presso l'istituto di clinica ostetrica e ginecologica e conferisce il diploma di specialista in ginecologia e ostetricia.   
+La direzione della scuola e' affidata al professore di ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
+Il numero massimo degli allievi e' di dodici per anno di corso e complessivamente di quarantotto iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+elementi di genetica medica;   
+elementi di embriologia; anatomia macro e micro dell'apparato genitale femminile; anatomia delle pelvi;   
+elementi di fisiopatologia della riproduzione umana;   
+fisiologia ostetrica;   
+endocrinologia ginecologica ed ostetrica;   
+semeiotica e diagnostica ostetrica;   
+patologia ostetrica e ginecologica (I);   
+lingua straniera (inglese) (I).   
+2° Anno:   
+semeiotica e diagnostica ginecologica;   
+operazioni ostetriche (I);   
+anatomia ed istologia patologica della sfera genitale femminile;   
+citologia ginecologica;   
+patologia ostetrica e ginecologica (II);   
+diagnostica di laboratorio in ostetricia e ginecologia;   
+lingua straniera (inglese) (II).   
+3° Anno:   
+puericultura prenatale;   
+immunologia ostetrica e ginecologica;   
+analgo-anestesia e rianimazione in ostetricia;   
+operazioni ostetriche (II);   
+operazioni ginecologiche (I);   
+ostetricia e ginecologia forense;   
+terapia medica in ostetricia e ginecologia;   
+clinica ostetrica e ginecologica (I);   
+psicosomatica ostetrica e ginecologica;   
+lingua straniera (inglese) (III).   
+4° Anno:   
+neonatologia;   
+urologia ginecologica;   
+radio-diagnostica e terapia fisica in ostetricia e ginecologia; chirurgia addominale;   
+operazioni ginecologiche (II);   
+clinica ostetrica e ginecologica;   
+lingua straniera (inglese) (IV).   
+La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in ginecologia ed ostetricia, gli interessati dovranno superare l'esame di diploma su un argomento attinente alla specializzazione.   
+L'art. 113, relativo alla scuola di specializzazione in neurologia, e' modificato nel senso che il sesto comma e' soppresso.   
+L'art. 114, relativo alla scuola di specializzazione in psichiatria, e' modificato nel senso che il quinto comma e' soppresso.   
+L'art. 119, secondo comma, relativo alla scuola di specializzazione in malattie dell'apparato digerente, e' modificato nel senso che il numero degli iscritti e' stabilito in trenta (30) per l'intero corso di studi.   
+L'art. 125, relativo alla scuola di specializzazione in endocrinologia, e' modificato nel senso che il terzo comma e' soppresso.   
+Gli articoli 126, 127 e 128, relativi alla scuola di specializzazione in medicina del lavoro, sono abrogati e sostituiti dai seguenti:   
   
+Scuola di specializzazione in medicina del lavoro   
+Art. 126. - La scuola di specializzazione in medicina del lavoro ha sede presso l'istituto di medicina del lavoro e conferisce il diploma di specialista in medicina del lavoro.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.   
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
+Il numero massimo degli allievi e' di quindici per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Art. 127. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+igiene del lavoro (I);   
+fisiologia del lavoro ed ergonomia (I);   
+tecnologia industriale;   
+statistica medica e biometria;   
+tecniche di laboratorio.   
+2° Anno:   
+patologia e clinica delle malattie da lavoro (I);   
+igiene del lavoro (II);   
+fisiologia del lavoro ed ergonomia (II);   
+psicologia del lavoro;   
+tossicologia industriale.   
+3° Anno:   
+patologia e clinica delle malattie da lavoro (Il);   
+prevenzione degli infortuni e delle malattie da lavoro (I);   
+epidemiologia delle malattie da lavoro;   
+radiobiologia e radioprotezione;   
+dermatologia professionale.   
+4° Anno:   
+patologia e clinica delle malattie da lavoro (III);   
+prevenzione degli infortuni e delle malattie da lavoro (II);   
+pronto soccorso;   
+medicina legale e delle assicurazioni;   
+organizzazione dei servizi di medicina e igiene del lavoro.   
+Art. 128. - Le materie fondamentali anzidette potranno essere integrate con insegnamenti facoltativi stabiliti, su proposta del direttore della scuola, di anno in anno.   
+La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno.   
+Per le materie biennali o triennali l'esame sara' sostenuto alla fine del biennio o del triennio.   
+I corsi saranno integrati ogni anno da periodi obbligatori di tirocinio in servizi di medicina del lavoro e di igiene industriale.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in medicina del lavoro, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione.   
+L'art. 129, secondo comma, relativo alla scuola di specializzazione in medicina interna, e' modificato nel senso che il numero degli iscritti e' stabilito in settantacinque (75) per l'intero corso di studi.   
+Nello stesso art. 129 il quinto e sesto comma sono soppressi.   
+L'art. 137, relative alla scuola di specializzazione in microbiologia, e' modificato nel senso che il terzo comma e' soppresso.   
+La scuola di specializzazione in oculistica di cui agli articoli 138, 139, 140, muta la denominazione in quella di scuola di specializzazione in oftalmologia.   
+Gli articoli 148, 149, 150, 151, 152, 153, relativi alla scuola di specializzazione in chirurgia plastica ricostruttiva, che muta la denominazione in quella di scuola di specializzazione in chirurgia plastica, sono abrogati e sostituiti dai seguenti:   
   
-tassa di immatricolazione (da versare  
-una volta sola) . . . . . . . . . . . . . . . . . . . . . . .L. 50.000  
-tassa annuale di iscrizione . . . . . . . . . . . . . . . . .L. 20.000  
-soprattassa annuale di esame. . . . . . . . . . . . . . . . .L. 10.000  
-contributi di laboratorio. . . . . . . . . . . . . . . . . .L. 100.000  
-tassa erariale di diploma. . . . . . . . . . . . . . . . . . .L. 6.000  
-libretto e tessera. . . . . . . . . . . . . . . . . . . . . .L. 10.000  
-L. 200.000  
-  
-  
+Scuola di specializzazione in chirurgia plastica   
+Art. 148. - La scuola di specializzazione in chirurgia plastica ha sede presso l'istituto di clinica chirurgica e conferisce il diploma di specialista in chirurgia plastica.   
+Art. 149. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo della materia affine.   
+Art. 150. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto almeno all'inizio del corso il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente.   
+La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni.   
+Il numero massimo degli allievi e' di quattro (4) per anno di corso e complessivamente di venti iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Art. 151. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+anatomia ed embriologia con particolare riguardo al capo, al collo, arti superiori ed inferiori, organi genitali;   
+patologia generale (infezioni, flogosi, immunita', etiopatogenesi delle malformazioni congenite, neoplasie maligne e benigne);   
+anatomia ed istopatologia, con particolare riferimento alla malattia-ustione e alle neoplasie maligne e benigne;   
+anestesiologia e rianimazione: concetti generali;   
+patologia secondaria;   
+guarigione delle ferite;   
+principi e regole pratiche di chirurgia (strumenti, sterilita', emostasi);   
+trapianti I;   
+autoinnesti: indicazioni per l'utilizzazione terapeutica di cute, derma, grasso, fascia, cartilagine, ossa, tendini, segmenti nervosi e tessuti composti;   
+semeiologia del sistema nervoso periferico.   
+2° Anno:   
+anatomia chirurgica;   
+tecniche e procedure operatorio in chirurgia generale e in chirurgia plastica;   
+trapianti II;   
+omoinnesti: concetti generali (con particolare riferimento agli aspetti genetici e immunitari);   
+tipizzazione dei tessuti;   
+utilizzazione clinica degli omoinnesti;   
+etero-innesti: estensione e limiti della loro utilizzazione clinica;   
+traumatologia dei tessuti molli;   
+traumi complessi interessanti cute, tessuti molli e ossa;   
+shock emorragico;   
+shock traumatico;   
+shock da ustione;   
+malattia-ustione: fisiopatologia e clinica I;   
+inserti non biologici: estensione e limiti della loro utilizzazione clinica.   
+3° Anno:   
+malattia-ustione: terapia medica e chirurgica II;   
+lesioni da raggi;   
+elementi di chirurgia addominale;   
+elementi di otorinolaringoiatria;   
+elementi di stomatologia;   
+elementi di ortopedia generale;   
+dermatologia generale, con specifico riferimento alle malattie o lesioni congenite di competenza plastica, passibili di trattamento chirurgico I;   
+elementi di genetica.   
+4° Anno:   
+metodologia chirurgica differenziale;   
+malformazioni congenite del volto, delle mani e degli organi genitali;   
+agenesie;   
+chirurgia riparatrice e ricostruttiva della mano;   
+trattamento chirurgico delle lesioni del volto e delle fratture del massiccio facciale;   
+trattamento chirurgico delle deformita' congenite e acquisite del naso, delle labbra, del mento, della mandibola, del palato, del pavimento dell'orbita, del padiglione auricolare;   
+metodologia chirurgica differenziale applicata ai danni anatomici e funzionali derivanti dalla paralisi del settimo;   
+chirurgia d'urgenza;   
+dermatologia generale con specifico riferimento alle malattie o lesioni congenite di competenza plastica, passabili di trattamento chirurgico II.   
+5° Anno:   
+patologia traumatica delle arterie e dei nervi periferici;   
+elementi di chirurgia vascolare;   
+microchirurgia vascolare e nervosa;   
+elementi di criobiologia e crioterapia;   
+elementi di fisio-chinesiterapia;   
+problemi psichiatrici e psicologici in chirurgia plastica;   
+medicina legale e delle assicurazioni, con particolare riferimento alle deformita' anatomiche e alle menomazioni funzionali di origine traumatica.   
+Art. 152. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.   
+Gli allievi che non conseguono l'attestazione di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+E' fatto obbligo agli allievi del primo biennio a presenziare ad un minimo di trenta sedute operatorie per anno; gli allievi del 3°, 4°, 5° anno dovranno partecipare quali primi assistenti ad un numero di cinquanta interventi per anno.   
+Art. 153. - Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno; per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in chirurgia plastica, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+La scuola di specializzazione in odontoiatria e protesi dentaria di cui agli articoli 154, 155 muta la denominazione in quella di scuola di specializzazione in odontostomatologia.   
+Dopo l'art. 155, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina legale e delle assicurazioni.   
+Scuola di specializzazione in medicina legale e delle assicurazioni Art. 156. - Presso l'istituto di medicina legale e delle assicurazioni e' istituita la scuola di specializzazione in medicina legale e delle assicurazioni.   
+La durata del corso di studi e' di anni 3 (tre).   
+Direttore della scuola e' il titolare della cattedra di medicina legale e delle assicurazioni.   
+Alla scuola possono iscriversi solo i laureati in medicina e chirurgia in numero limitato a quindici per l'intero corso di studi.   
+Art. 157. - Le materie di insegnamento della scuola sono:   
+1° Anno:   
+medicina legale generale;   
+elementi di diritto pubblico e privato;   
+tecnica e diagnostica anatomo-patologica generale e medico-legale;   
+traumatologia medico-legale;   
+semeiotica medico-legale.   
+2° Anno:   
+medicina legale penalistica;   
+deontologia medica;   
+neuropsichiatria medico-legale;   
+elementi di medicina criminologica e di medicina penitenziaria; indagini di sopralluogo;   
+identificazione personale.   
+3° Anno:   
+medicina legale civilista e canonistica;   
+tossicologia medico-legale;   
+tecniche di laboratorio medico-legale ed ematologia forense;   
+ostetricia e ginecologia forense;   
+elementi di legislazione del lavoro;   
+medicina delle assicurazioni;   
+medicina legale militare e pensionistica civile.   
+Art. 158. - Gli insegnamenti hanno carattere essenzialmente dimostrativo e di pratica esercitazione e saranno integrati da periodi di internato della durata di almeno sei mesi per anno.   
+Possono essere organizzate inoltre conferenze pratiche da tenersi da docenti di altre materie che abbiano attinenza con gli scopi della scuola.   
+Art. 159. - Alla fine di ogni anno di corso gli allievi, i quali abbiano frequentato il corso stesso, dovranno sostenere e superare tutti gli esami previsti dal piano degli studi ai fini dell'iscrizione all'anno successivo.   
+Alla fine del triennio gli allievi, i quali abbiano frequentato i corsi ed eseguito le esercitazioni, saranno ammessi alle prove di esame per il conseguimento del diploma.   
+Gli esami consisteranno in una prova orale teorica e pratica sulle materie di insegnamento e nella discussione di una dissertazione sopra un argomento attinente all'insegnamento della scuola.   
+I candidati non riconosciuti idonei all'esame di diploma si potranno ripresentare dopo un altro anno di frequenza alla scuola; se al secondo esame non sara' loro riconosciuta l'idoneita', verranno senz'altro esclusi da ulteriori prove.   
+Art. 160. - Agli allievi i quali abbiano ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specializzazione in medicina legale e delle assicurazioni, valido a tutti gli effetti di legge.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 settembre 1980
+### Dato a Roma, addi' 31 ottobre 1977
 
-PERTINI SARTI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 21 gennaio 1981
+Registrato alla Corte dei conti, addi' 9 agosto 1978
 
-Registro n. 4 Istruzione, foglio n. 241
+Registro n. 89 Istruzione, foglio n. 199

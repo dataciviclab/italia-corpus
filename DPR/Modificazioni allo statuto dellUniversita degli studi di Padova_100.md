@@ -1,70 +1,57 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1981 n. 196
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1115
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1981 n. 196
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1115
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Gli articoli 340, 341 e 342, relativi alla scuola di specializzazione in chimica nucleare della facolta' di scienze matematiche, fisiche e naturali, sono cosi' modificati:   
-Art. 340. - La scuola e' retta da un direttore nominato dal rettore su designazione del consiglio della facolta' di scienze matematiche, fisiche e naturali. Il direttore dura in carica due anni. Puo' essere riconfermato ed e' coadiuvato da un consiglio direttivo costituito da quattro professori di ruolo di discipline chimiche impartite presso la facolta' di scienze matematiche, fisiche e naturali, designati dal consiglio di facolta'.   
-Art. 341. - Al corso di specializzazione si possono iscrivere i laureati in chimica, chimica industriale, fisica, ingegneria chimica e ingegneria nucleare.   
-Art. 342. - I corsi sono biennali e comprendono le seguenti materie:   
-1° Anno:   
-chimica nucleare generale;   
-almeno tre corsi semestrali con esercitazioni a scelta tra tutti i corsi elencati nell'articolo successivo.   
-2° Anno:   
-chimica nucleare applicata;   
-legislazione nucleare;   
-almeno tre corsi semestrali con esercitazioni, a scelta tra tutti i corsi elencati nell'articolo successivo.   
-Ogni anno gli allievi presentano il piano di studi prescelto che deve essere approvato dal consiglio direttivo.   
-All'art. 343, relativo alla medesima scuola, nell'elenco dei corsi semestrali con esercitazioni il corso di tecniche sul dosaggio delle radiazioni e sulle protezioni cambia la denominazione in quella di "tecniche sul dosaggio delle radiazioni" e nel medesimo elenco sono aggiunti i seguenti nuovi corsi:   
-21) elementi di matematica statistica;   
-22) effetti biologici delle radiazioni;   
-23) radioprotezione in campo nucleare e medico.   
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 98 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
+Medicina preventiva dei lavoratori;  
+Psicopatologia generale;  
+Citopatologia;  
+Tecnica e diagnostica delle autopsie;  
+Chirurgia gastroenterologica;  
+Nefrologia chirurgica.  
+L'art. 381, relativo all'ordinamento della scuola per tecnici di laboratorio di igiene e microbiologia, e' modificato nel senso che viene aggiunto il seguente ultimo comma: "Le tasse e soprattasse che gli iscritti sono tenuti a versare sono fissate come segue:  
+  
+tassa di immatricolazione. . . . . . . . . . . . . . . . L. 2.000 tassa di iscrizione . . . . . . . . . . . . . . . . . . L. 50.000 soprattassa esami . . . . . . . . . . . . . . . . . . . L. 10.000 tassa erariale di diploma. . . . . . . . . . . . . . . . L. 1.200 soprattassa diploma. . . . . . . . . . . . . . . . . . . L. 2.000   
+I contributi sono determinati, di anno in anno, dal consiglio di amministrazione, su proposta del senato accademico, sentito il consiglio della facolta' di medicina e chirurgia".  
+Lo stesso articolo, relativo all'ordinamento della scuola per tecnici di fisiochinesiterapia e' modificato nel senso che viene aggiunto il seguente ultimo comma:  
+"Le tasse e soprattasse che gli iscritti sono tenuti a versare sono fissate come segue:  
+  
+tassa di immatricolazione. . . . . . . . . . . . . . . . L. 2.000 tassa di iscrizione . . . . . . . . . . . . . . . . . . L. 50.000 soprattassa esami . . . . . . . . . . . . . . . . . . . L. 10.000 tassa erariale di diploma. . . . . . . . . . . . . . . . L. 1.200 soprattassa diploma. . . . . . . . . . . . . . . . . . . L. 2.000   
+I contributi sono determinati, di anno in anno, dal consiglio di amministrazione, su proposta del senato accademico, sentito il consiglio della facolta' di medicina e chirurgia".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 gennaio 1981
+### Dato a Roma, addi' 31 ottobre 1973
 
-PERTINI BODRATO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 30 aprile 1981
+Registrato alla Corte dei conti, addi' 31 maggio 1974
 
-Registro n. 38 Istruzione, foglio n. 3
+Atti di Governo, registro n. 3, foglio n. 50. - SCIARRETTA

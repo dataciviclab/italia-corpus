@@ -1,352 +1,60 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1973 n. 1181
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 febbraio 1961 n. 241
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1973 n. 1181
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 febbraio 1961 n. 241
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Gli articoli da 91 a 95, relativi alla scuola di specializzazione in clinica pediatrica, sono abrogati e sostituiti dai seguenti:
-
-Scuola di specializzazione in clinica pediatrica
-
-Art. 91. - L'ammissione al corso e' per esami e per titoli; titolo necessario per l'ammissione al corso e' la laurea in medicina e chirurgia; la durata del corso e' di tre anni.
-
-Art. 92. - Il numero complessivo degli iscritti e' trentacinque per i tre anni di corso. L'internato e' obbligatorio con non piu' di due mesi di ferie all'anno.
-
-Art. 93. - L'iscrizione direttamente al 2° anno del corso puo' essere consentita, a giudizio del consiglio della scuola per i candidati che abbiano conseguito il diploma di specializzazione in puericultura o che abbiano titoli pediatrici.
-
-Art. 94. - Le materie d'insegnamento sono le seguenti:
-
-1° Anno:
-
-Clinica pediatrica (triennale);
-
-Patologia pediatrica (biennale);
-
-Puericultura (biennale);
-
-Semeiotica pediatrica e tecnica diagnostica (biennale);
-
-Auxologia normale e patologica (annuale);
-
-Psicologia dell'eta' evolutiva (annuale).
-
-2° Anno:
-
-Clinica pediatrica;
-
-Patologia pediatrica;
-
-Puericultura;
-
-Semeiotica pediatrica e tecnica diagnostica;
-
-Terapia pediatrica (annuale);
-
-Radiologia pediatrica (annuale);
-
-Malattie infettive dell'infanzia (annuale).
-
-3° Anno:
-
-Clinica pediatrica;
-
-Neuropsichiatria ed igiene mentale dell'infanzia.
-
-Le materie fondamentali sopra elencate saranno integrate a giudizio del consiglio di ciascuna scuola con almeno tre insegnamenti scelti tra i seguenti:
-
-Chirurgia pediatrica;
-
-Ortopedia e traumatologia infantile;
-
-Odontoiatria;
-
-Clinica dermosifilopatica;
-
-Clinica oculistica;
-
-Clinica otorinolaringoiatrica;
-
-Cardiologia;
-
-Genetica,
-
-ed altre eventuali che il consiglio della scuola puo' stabilire di anno in anno.
-
-Il direttore della scuola, inoltre, puo' disporre che si tengano un certo numero di conferenze su argomenti d'interesse pediatrico.
-
-Art. 95. - Per conseguire il diploma di specializzazione in clinica pediatrica, gli iscritti al corso dopo aver superato tutti gli esami e completata la frequenza obbligatoria, dovranno presentare e discutere una dissertazione scritta su un argomento di pediatria.
-
-Gli articoli da 117 a 122, relativi alla scuola di specializzazione in ostetricia e ginecologia, sono abrogati e sostituiti dai seguenti:
-
-Scuola di specializzazione in ostetricia e ginecologia
-
-Art. 117. - Il corso di specializzazione in ostetricia e ginecologia ha la durata di quattro anni. L'ammissione alla scuola avviene a seguito di concorso per titolo ed esami. Sono da considerarsi titoli preferenziali a parita' di risultato dell'esame di ammissione:
-
-Il voto di laurea in medicina e chirurgia;
-
-aver frequentato come studente interno una clinica ostetrica e ginecologica delle universita';
-
-aver svolto la tesi di laurea nella clinica ostetrica e ginecologica;
-
-documentazione di eventuali servizi prestati in grossi reparti ospedalieri della specialita';
-
-eventuali pubblicazioni.
-
-L'esame di ammissione deve espletarsi entro il mese di dicembre.
-
-Art. 118. - Il numero degli iscritti e' di trentacinque per i quattro anni di corso.
-
-Art. 119. - Per nessun motivo il corso di quattro anni puo' essere abbreviato.
-
-Nessun titolo puo' esonerare dalla frequenza gli iscritti nei quattro anni di corso.
-
-Gli iscritti oltre all'obbligo di frequenza delle lezioni, esercitazioni, seminari ecc., devono prestare servizio analogo a quello degli assistenti per non meno di nove mesi all'anno.
-
-Art. 120. - Gli iscritti alla scuola debbono sostenere esami, annuali di profitto e l'esame finale di diploma.
-
-La sessione di esami di profitto e' unica, ed e' espletata nel mese di ottobre. Non puo' essere iscritto all'anno successivo di corso chi non abbia superato le materie fondamentali della specialita'.
-
-Art. 121. - Il programma di studi e' il seguente:
-
-1° Anno:
-
-Elementi di genetica e di eugenica;
-
-Anatomia normale ed embriologia dell'apparato genitale femminile;
-
-Fisiologia dell'apparato genitale femminile;
-
-Endocrinologia fisiologica;
-
-Fisiologia ostetrica;
-
-Diagnostica ostetrica;
-
-Clinica ostetrica e ginecologica.
-
-2° Anno:
-
-Tecnica operatoria ostetrica;
-
-Diagnostica ginecologica;
-
-Tecnica, diagnostica di laboratorio nei campi ostetrico-ginecologico esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);
-
-Clinica ostetrica e ginecologica.
-
-3° Anno:
-
-Anatomia patologica ostetrica e ginecologica;
-
-Istologia normale e patologica nel campo della specialita';
-
-Puericultura prenatale;
-
-Emoterapia nel campo ostetrico e ginecologico;
-
-Anestesia e analgesia nel campo ostetrico e ginecologico;
-
-Tecnica operatoria ginecologica;
-
-Clinica ostetrica e ginecologica;
-
-Terapia medica ostetrica e ginecologica.
-
-4° Anno:
-
-Puericultura postnatale e malattie del neonato;
-
-Ostetricia e ginecologia forense;
-
-Diagnostico roentgen, radioterapia, in ostetricia e ginecologia;
-
-Clinica ostetrica e ginecologica (esame alla fine del quarto anno);
-
-Urologia ginecologica;
-
-Chirurgia addominale extra genitale.
-
-Gli esami si fanno per gruppi di materie e i membri della commissione saranno proposti dai direttori delle scuole.
-
-Art. 122. - A giudizio del consiglio della scuola formulato sulla base del rendimento di ogni iscritto gli specializzandi potranno essere esonerati dal pagamento delle tasse.
-
-Per il conseguimento del diploma, l'iscritto deve presentare e discutere una dissertazione scritta con contributo personale.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 29 settembre 1973
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: ZAGARI
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 30 ottobre 1974 Atti di Governo, registro n. 6, foglio n. 84. - SCIARRETTA
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduto il [decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli da 91 a 95, relativi alla scuola di specializzazione in clinica pediatrica, sono abrogati e sostituiti dai seguenti:   
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Scuola di specializzazione in clinica pediatrica   
-  
-Art. 91. - L'ammissione al corso e' per esami e per titoli; titolo necessario per l'ammissione al corso e' la laurea in medicina e chirurgia; la durata del corso e' di tre anni.   
-  
-Art. 92. - Il numero complessivo degli iscritti e' trentacinque per i tre anni di corso. L'internato e' obbligatorio con non piu' di due mesi di ferie all'anno.   
-  
-Art. 93. - L'iscrizione direttamente al 2° anno del corso puo' essere consentita, a giudizio del consiglio della scuola per i candidati che abbiano conseguito il diploma di specializzazione in puericultura o che abbiano titoli pediatrici.   
-  
-Art. 94. - Le materie d'insegnamento sono le seguenti:   
-  
-1° Anno:   
-Clinica pediatrica (triennale);   
-Patologia pediatrica (biennale);   
-Puericultura (biennale);   
-Semeiotica pediatrica e tecnica diagnostica (biennale);   
-Auxologia normale e patologica (annuale);   
-Psicologia dell'eta' evolutiva (annuale).   
-  
-2° Anno:   
-Clinica pediatrica;   
-Patologia pediatrica;   
-Puericultura;   
-Semeiotica pediatrica e tecnica diagnostica;   
-Terapia pediatrica (annuale);   
-Radiologia pediatrica (annuale);   
-Malattie infettive dell'infanzia (annuale).   
-  
-3° Anno:   
-Clinica pediatrica;   
-Neuropsichiatria ed igiene mentale dell'infanzia.   
-  
-Le materie fondamentali sopra elencate saranno integrate a giudizio del consiglio di ciascuna scuola con almeno tre insegnamenti scelti tra i seguenti:   
-Chirurgia pediatrica;   
-Ortopedia e traumatologia infantile;   
-Odontoiatria;   
-Clinica dermosifilopatica;   
-Clinica oculistica;   
-Clinica otorinolaringoiatrica;   
-Cardiologia;   
-Genetica,   
-ed altre eventuali che il consiglio della scuola puo' stabilire di anno in anno.   
-Il direttore della scuola, inoltre, puo' disporre che si tengano un certo numero di conferenze su argomenti d'interesse pediatrico.   
-  
-Art. 95. - Per conseguire il diploma di specializzazione in clinica pediatrica, gli iscritti al corso dopo aver superato tutti gli esami e completata la frequenza obbligatoria, dovranno presentare e discutere una dissertazione scritta su un argomento di pediatria.   
-Gli articoli da 117 a 122, relativi alla scuola di specializzazione in ostetricia e ginecologia, sono abrogati e sostituiti dai seguenti:   
-  
-Scuola di specializzazione in ostetricia e ginecologia   
-  
-Art. 117. - Il corso di specializzazione in ostetricia e ginecologia ha la durata di quattro anni. L'ammissione alla scuola avviene a seguito di concorso per titolo ed esami. Sono da considerarsi titoli preferenziali a parita' di risultato dell'esame di ammissione:   
-  
-Il voto di laurea in medicina e chirurgia;   
-aver frequentato come studente interno una clinica ostetrica e ginecologica delle universita';   
-aver svolto la tesi di laurea nella clinica ostetrica e ginecologica;   
-documentazione di eventuali servizi prestati in grossi reparti ospedalieri della specialita';   
-eventuali pubblicazioni.   
-L'esame di ammissione deve espletarsi entro il mese di dicembre.   
-  
-Art. 118. - Il numero degli iscritti e' di trentacinque per i quattro anni di corso.   
-  
-Art. 119. - Per nessun motivo il corso di quattro anni puo' essere abbreviato.   
-Nessun titolo puo' esonerare dalla frequenza gli iscritti nei quattro anni di corso.   
-Gli iscritti oltre all'obbligo di frequenza delle lezioni, esercitazioni, seminari ecc., devono prestare servizio analogo a quello degli assistenti per non meno di nove mesi all'anno.   
-  
-Art. 120. - Gli iscritti alla scuola debbono sostenere esami, annuali di profitto e l'esame finale di diploma.   
-La sessione di esami di profitto e' unica, ed e' espletata nel mese di ottobre. Non puo' essere iscritto all'anno successivo di corso chi non abbia superato le materie fondamentali della specialita'.   
-  
-Art. 121. - Il programma di studi e' il seguente:   
-  
-1° Anno:   
-Elementi di genetica e di eugenica;   
-Anatomia normale ed embriologia dell'apparato genitale femminile;   
-Fisiologia dell'apparato genitale femminile;   
-Endocrinologia fisiologica;   
-Fisiologia ostetrica;   
-Diagnostica ostetrica;   
-Clinica ostetrica e ginecologica.   
-  
-2° Anno:   
-Tecnica operatoria ostetrica;   
-Diagnostica ginecologica;   
-Tecnica, diagnostica di laboratorio nei campi ostetrico-ginecologico esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);   
-Clinica ostetrica e ginecologica.   
-  
-3° Anno:   
-Anatomia patologica ostetrica e ginecologica;   
-Istologia normale e patologica nel campo della specialita';   
-Puericultura prenatale;   
-Emoterapia nel campo ostetrico e ginecologico;   
-Anestesia e analgesia nel campo ostetrico e ginecologico;   
-Tecnica operatoria ginecologica;   
-Clinica ostetrica e ginecologica;   
-Terapia medica ostetrica e ginecologica.   
-  
-4° Anno:   
-Puericultura postnatale e malattie del neonato;   
-Ostetricia e ginecologia forense;   
-Diagnostico roentgen, radioterapia, in ostetricia e ginecologia;   
-Clinica ostetrica e ginecologica (esame alla fine del quarto anno);   
-Urologia ginecologica;   
-Chirurgia addominale extra genitale.   
-Gli esami si fanno per gruppi di materie e i membri della commissione saranno proposti dai direttori delle scuole.   
-  
-Art. 122. - A giudizio del consiglio della scuola formulato sulla base del rendimento di ogni iscritto gli specializzandi potranno essere esonerati dal pagamento delle tasse.   
-Per il conseguimento del diploma, l'iscritto deve presentare e discutere una dissertazione scritta con contributo personale.   
+L'art. 55, relativo al corso biennale di studi propedeutici per la laurea in ingegneria e' abrogato e sostituito dal seguente:  
+Art. 55. - Il titolo di ammissione per il biennio di studi propedeutici per la laurea in ingegneria e' il diploma di Maturita' classica, o di Maturita' scientifica.  
+Sono insegnamenti fondamentali:  
+1° anno:  
+1) Analisi matematica I;  
+2) Geometria I;  
+3) Fisica I; - 5) Disegno I.  
+2° anno:  
+1) Analisi matematica II;  
+2) Geometria II;  
+3) Meccanica razionale;  
+4) Fisica II;  
+5) Disegno II;  
+6) Mineralogia.  
+Gli studenti del 1° anno di corso potranno ottenere la iscrizione al 2° anno di corso qualora abbiano superato almeno due fra i quattro seguenti esami:  
+Analisi matematica I, Geometria I, Fisica I, Chimica.  
+Al termine del 2° anno di corso lo studente per essere ammesso al 3° anno di corso dovra' aver superato gli esami di tutte le discipline del biennio propedeutico fatta eccezione degli insegnamenti aggiunti ai sensi del [comma terzo dell'art. 2 del decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53~art2-com3).  
+I due esami di fisica comprendono la parte riguardante le relative esercitazioni.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 settembre 1973
+### Dato a Roma, addi' 28 febbraio 1961
 
-LEONE MALFATTI
+GRONCHI BOSCO
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 30 ottobre 1974
+Registrato alla Corte dei conti, addi' 17 aprile 1961
 
-Atti di Governo, registro n. 6, foglio n. 84. - SCIARRETTA
+Atti del Governo, registro n. 136, foglio n. 33. - VILLA

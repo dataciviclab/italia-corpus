@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 aprile 1980 n. 261
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1963 n. 884
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 aprile 1980 n. 261
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1963 n. 884
 =============================================================
 
 Modificazioni allo statuto dell'Istituto universitario navale di Napoli.
@@ -10,126 +10,234 @@ Modificazioni allo statuto dell'Istituto universitario navale di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Istituto universitario navale di Napoli, approvato con [regio decreto 16 gennaio 1933, n. 1570](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-01-16;1570) e modificato con [regio decreto 16 ottobre 1934, n. 2081](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-10-16;2081), e successive modificazioni;
+Veduto lo statuto dell'Istituto universitario navale di Napoli, approvato con [decreto del Presidente della Repubblica 13 ottobre 1959, n. 1218](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-10-13;1218);
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 9 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-09;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1935, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'istituto universitario anzidetto;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Istituto universitario anzidetto;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte; Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Istituto universitario navale di Napoli e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Istituto universitario navale di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Istituto universitario navale di Napoli, approvato con il decreto sopraindicato e' modificato come appresso;
 
-Articolo unico
---------------
+Dopo l'art. 3, e con il conseguente spostamento della successiva numerazione, viene inserito il seguente nuovo articolo:
 
+Art. 4. - Nelle Facolta' di cui all'articolo precedente, sono costituiti, secondo il criterio dell'affinita' degli insegnamenti gli Istituti scientifici specificati negli articoli seguenti.
+
+Scopo degli Istituti e' di addestrare e di perfezionare studenti e studiosi nelle discipline a cui gli Istituti stessi si riferiscono e di contribuire al progresso delle dette discipline con ricerche e pubblicazioni e con altre iniziative che vengano giudicate opportune dai rispettivi direttori.
+
+Direttore di ciascun Istituto e' uno dei professori di ruolo. Se dell'istituto fanno parte soltanto professori incaricati, potra' essere nominato direttore il preside o altro professore di ruolo della Facolta'.
+
+I direttori degli Istituti di cui al comma precedente vengono nominati dal rettore, su designazione del Consiglio della Facolta', per un triennio accademico professore di ruolo, annualmente, se professore incaricato, e possono essere confermati.
+
+Gli articoli 14 e 15 relativi agli insegnamenti e alle propedeuticita' del corso di laurea in discipline nautiche sono abrogati e sostituiti dai seguenti:
+
+Art. 14. - Sono insegnamenti fondamentali:
+
+1) Analisi matematica (biennale);
+
+2) Geometria analitica con elementi di proiettiva:
+
+3) Meccanica nazionale con elementi di statica grafica e disegno;
+
+4) Fisica sperimentale (biennale);
+
+5) Chimica generale ed inorganica con elementi di organica;
+
+6) Complementi di matematica;
+
+7) Astronomia generale e sferica;
+
+8) Geodesia e idrografia:
+
+9) Astronomia nautica;
+
+10) Arte navale (biennale);
+
+11) Navigazione e magnetismo navale (biennale);
+
+12) Meteorologia, e oceanografia;
+
+13) Elementi di architettura e costruzione navale;
+
+14) Misure elettriche e radioelettriche;
+
+15) Navigazione aerea;
+
+16) Elettrotecnica;
+
+17) Teoria e tecnica delle onde elettromagnetiche;
+
+18) Radiotecnica;
+
+19) Lingua straniera (biennale);
+
+Sono insegnamenti complementari:
+
+1) Metodi di osservazione e misura;
+
+2) Statistica applicata ai fenomeni naturali;
+
+3) Aeronautica generale;
+
+4) Assistenza al volo e controllo del traffico aereo;
+
+5) Metereologia sinotica e previsioni del tempo;
+
+6) Tecnica del radar e dei radioaiuti alla navigazione;
+
+7) Magnetismo terrestre;
+
+8) Misure oceanografiche.
+
+Lo studente, al termine dei primi due anni di corso, deve dare prova di conoscenza della lingua straniera, Per essere ammesso al l'esame di laurea, lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali e almeno di due, da lui scelti fra i complementari.
+
+Art. 15. Lo studente non puo' sostenere gli esami di: Complementi di matematica; Arte navale, 2° corso, Navigazione e magnetismo navale (biennale), Metereologia e oceanografia, Astronomia generale e sferica, Elettrotecnica, Radiotecnica, Geodesia e idrografia, Elementi di architettura e costruzione navale, Teoria e tecnica delle onde elettromagnetiche Misure elettriche e radioelettriche, ove non abbia superato gli esami di: Analisi matematica (biennale), Fisica sperimentale (biennale), Geometria analitica con elementi di proiettiva, Meccanica razionale e lingua straniera. ne' l'esame di Radiotecnica non abbia, superato quello di Elettrotecnica, ne' quelli di Misure elettriche e di teoria e tecnica delle onde elettromagnetiche, ove non a abbia superato quelli di Elettrotecnica e radiotecnica, ne' l'esame di Meteorologia sinottica ove non abbia superato quello di Meteorologia e oceanografia, ne' l'esame di Statistica applicata ai fenomeni naturali, ove non abbia superato quello di Analisi matematica (biennale), ne' l'esame di Astronomia nautica ove non abbia superato quello di Astronomia generale e sferica.
+
+Dopo l'art. 17, e con il conseguente spostamento o della successiva numerazione, viene inserito il seguente nuovo articolo
+
+Art. 18. Nella Facolta' di Scienze nautiche sono costituiti i seguenti istituiti scientifici:
+
+di Astronomia nautica e navigazione, comprendente gli insegnamenti di Navigazione aerea, di Astronomia nautica, di Aeronautica generale, di Assistenza al volo e controllo del traffico aereo;
+
+di Meteorologia e oceanografia, comprendente il detto insegnamento e quelli di Misure oceanografiche di meteorologia sinottica e previsione del tempo:
+
+di Teoria e tecnica delle onde elettromagnetiche comprendente il detto insegnamento e quelli di Elettrotecnica, di Radiotecnica, di Misture elettriche e radioelettriche, di Tecnica del radar e dei radioaiuti alla navigazione;
+
+di Fisica sperimentale.
+
+Art. 20. - Agli insegnamenti complementari del corso di laurea in Scienze economico-marittime sono aggiunti quelli di:
+
+6) Diritto della previdenza sociale;
+
+7) Diritto delle assicurazioni.
+
+Dopo l'art. 23 e' aggiunto il seguente nuovo articolo
+
+Art. 24. - Nella Facolta' di Economia marittima sono costituiti i seguenti Istituti scientifici:
+
+di Merceologia;
+
+di Economia dei trasporti marittimi, comprendente gli insegnamenti di Economia politica, di Economia dei trasporti marittimi e di Statistica;
+
+di Diritto pubblico, comprendente oltre il su detto insegnamento, quelli di Diritto amministrativo e di Diritto internazionale;
+
+di Diritto della navigazione, comprendente oltre il suddetto insegnamento quello di Diritto del lavoro. marittimo e portuale;
+
+di Diritto commerciale, comprendente oltre il su detto insegnamento, quelli di Istituzione di diritto privato e di Diritto industriale.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 29 maggio 1963
+
+SEGNI
+
+GUI
+
+Visto, il Guardasigilli BOSCO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 28 giugno 1963 Atti del Governo, registro n. 171, foglio n. 53. - VILLA
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Gli articoli 13, 14, 15, 16, 17 e 18, relativi alla facolta' di scienze nautiche, sono sostituiti dai seguenti:  
-Art. 13. - La facolta' di scienze nautiche conferisce la laurea in discipline nautiche, articolata in tre distinti indirizzi:  
-ambiente marino fisico;  
-geodetico;  
-navigazione radioelettronica.  
-La durata del corso di studi per il conseguimento della suddetta laurea e' di cinque anni.  
-Sono titoli di ammissione: il diploma di maturita' classica, di maturita' scientifica ed il diploma di abilitazione per i provenienti dagli istituti tecnici-nautici e industriali (meccanici, elettricisti, radiotecnici, aeronautici e navalmeccanici).  
-Per gli studenti provenienti da altre facolta' o da altre universita', sempre che in possesso di uno dei titoli di ammissione indicati nel terzo comma del presente articolo, e per quelli provenienti da universita' straniere, le autorita' accademiche prendono, caso per caso, i provvedimenti relativi alla loro carriera scolastica.  
-Art. 14. - Sono insegnamenti fondamentali per tutti e tre gli indirizzi:  
-1) analisi matematica I;  
-2) analisi matematica II;  
-3) calcolo numerico e programmazione;  
-4) chimica;  
-5) complementi di matematica per le applicazioni;  
-6) fisica I;  
-7) fisica II;  
-8) geometria analitica con elementi di proiettiva;  
-9) istituzioni di elettromagnetismo;  
-10) istituzioni di navigazione;  
-11) meccanica razionale;  
-12) teoria dei sistemi;  
-13) comunicazioni elettriche.  
-Sono insegnamenti fondamentali per ciascuno dei seguenti indirizzi:  
-A) Indirizzo ambiente marino fisico;  
-14) elettronica applicata;  
-15) geologia marina applicata;  
-16) meccanica dei fluidi;  
-17) metereologia;  
-18) misure elettriche;  
-19) oceanografia;  
-20) protezione dell'ambiente marino.  
-B) Indirizzo geodetico:  
-14) astronomia generale e sferica;  
-15) astronomia nautica;  
-16) geodesia e idrografia;  
-17) metereologia e oceanografia;  
-18) navigazione;  
-19) teoria e manovra della nave;  
-20) topografia.  
-C) Indirizzo navigazione radioelettronica:  
-14) applicazioni di elettronica;  
-15) misure elettriche e radioelettriche;  
-16) navigazione;  
-17) navigazione aerea;  
-18) radiotecnica;  
-19) radar e radioaiuti alla navigazione;  
-20) teoria e tecnica delle onde elettromagnetiche.  
+Veduto lo statuto dell'Istituto universitario navale di Napoli, approvato con [decreto del Presidente della Repubblica 13 ottobre 1959, n. 1218](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-10-13;1218);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 9 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-09;73);  
+Veduto il [regio decreto 30 settembre 1935, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'istituto universitario anzidetto;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte; Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Istituto universitario navale di Napoli, approvato con il decreto sopraindicato e' modificato come appresso;  
+Dopo l'art. 3, e con il conseguente spostamento della successiva numerazione, viene inserito il seguente nuovo articolo:  
+  
+Art. 4. - Nelle Facolta' di cui all'articolo precedente, sono costituiti, secondo il criterio dell'affinita' degli insegnamenti gli Istituti scientifici specificati negli articoli seguenti.  
+Scopo degli Istituti e' di addestrare e di perfezionare studenti e studiosi nelle discipline a cui gli Istituti stessi si riferiscono e di contribuire al progresso delle dette discipline con ricerche e pubblicazioni e con altre iniziative che vengano giudicate opportune dai rispettivi direttori.  
+Direttore di ciascun Istituto e' uno dei professori di ruolo. Se dell'istituto fanno parte soltanto professori incaricati, potra' essere nominato direttore il preside o altro professore di ruolo della Facolta'.  
+I direttori degli Istituti di cui al comma precedente vengono nominati dal rettore, su designazione del Consiglio della Facolta', per un triennio accademico professore di ruolo, annualmente, se professore incaricato, e possono essere confermati.  
+Gli articoli 14 e 15 relativi agli insegnamenti e alle propedeuticita' del corso di laurea in discipline nautiche sono abrogati e sostituiti dai seguenti:  
+  
+Art. 14. - Sono insegnamenti fondamentali:  
+1) Analisi matematica (biennale);  
+2) Geometria analitica con elementi di proiettiva:  
+3) Meccanica nazionale con elementi di statica grafica e disegno;  
+4) Fisica sperimentale (biennale);  
+5) Chimica generale ed inorganica con elementi di organica;  
+6) Complementi di matematica;  
+7) Astronomia generale e sferica;  
+8) Geodesia e idrografia:  
+9) Astronomia nautica;  
+10) Arte navale (biennale);  
+11) Navigazione e magnetismo navale (biennale);  
+12) Meteorologia, e oceanografia;  
+13) Elementi di architettura e costruzione navale;  
+14) Misure elettriche e radioelettriche;  
+15) Navigazione aerea;  
+16) Elettrotecnica;  
+17) Teoria e tecnica delle onde elettromagnetiche;  
+18) Radiotecnica;  
+19) Lingua straniera (biennale);  
+  
 Sono insegnamenti complementari:  
-1) aerofotogrammetria;  
-2) aeronautica generale;  
-3) antenne e propagazione;  
-4) arte navale;  
-5) assistenza al volo e controllo del traffico aereo;  
-6) chimica marina;  
-7) costruzioni marittime;  
-8) disegno;  
-9) economia e politica dell'ambiente;  
-10) elettroacustica subacquea;  
-11) elettrotecnica;  
-12) epistemologia;  
-13) geofisica marina;  
-14) geotecnica marina;  
-15) lingua inglese (laboratorio) biennale con esame unico;  
-16) metereologia sinottica e previsioni del tempo;  
-17) metodi di osservazioni e misura;  
-18) misure astrogeodetiche;  
-19) misure oceanografiche;  
-20) navigazione spaziale;  
-21) navi speciali;  
-22) oceanografia costiera;  
-23) scienza dell'educazione;  
-24) sicurezza della nave;  
-25) statistica applicata;  
-26) tecnica catastale;  
-27) tecnica ed economia aziendale;  
-28) tecniche aeronautiche;  
-29) tecniche operative in navigazione aerea;  
-30) telediagnostica ambientale.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superati gli esami di tutti gli insegnamenti fondamentali comuni e quelli dell'indirizzo prescelto ed almeno di sei complementari.  
-Art. 15. - La facolta' predispone all'inizio di ogni anno accademico un piano di studi consigliato per ciascun indirizzo.  
-Art. 16. - L'esame di laurea consiste nella discussione di una dissertazione scritta su tema assegnato dal professore della materia e precedentemente approvato dalla facolta'. La dissertazione, in triplice copia, e i titoli dei temi orali, debbono essere depositati in segreteria almeno un mese prima della data stabilita per l'esame di laurea.  
-Art. 17. - Nella facolta' di scienze nautiche e' costituito un unico istituto scientifico organizzato con propri servizi sulla base di un regolamento di funzionamento approvato dal consiglio di facolta' e dal consiglio di amministrazione per le parti di rispettiva competenza.  
+1) Metodi di osservazione e misura;  
+2) Statistica applicata ai fenomeni naturali;  
+3) Aeronautica generale;  
+4) Assistenza al volo e controllo del traffico aereo;  
+5) Metereologia sinotica e previsioni del tempo;  
+6) Tecnica del radar e dei radioaiuti alla navigazione;  
+7) Magnetismo terrestre;  
+8) Misure oceanografiche.  
+  
+Lo studente, al termine dei primi due anni di corso, deve dare prova di conoscenza della lingua straniera, Per essere ammesso al l'esame di laurea, lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali e almeno di due, da lui scelti fra i complementari.  
+  
+Art. 15. Lo studente non puo' sostenere gli esami di: Complementi di matematica; Arte navale, 2° corso, Navigazione e magnetismo navale (biennale), Metereologia e oceanografia, Astronomia generale e sferica, Elettrotecnica, Radiotecnica, Geodesia e idrografia, Elementi di architettura e costruzione navale, Teoria e tecnica delle onde elettromagnetiche Misure elettriche e radioelettriche, ove non abbia superato gli esami di: Analisi matematica (biennale), Fisica sperimentale (biennale), Geometria analitica con elementi di proiettiva, Meccanica razionale e lingua straniera. ne' l'esame di Radiotecnica non abbia, superato quello di Elettrotecnica, ne' quelli di Misure elettriche e di teoria e tecnica delle onde elettromagnetiche, ove non a abbia superato quelli di Elettrotecnica e radiotecnica, ne' l'esame di Meteorologia sinottica ove non abbia superato quello di Meteorologia e oceanografia, ne' l'esame di Statistica applicata ai fenomeni naturali, ove non abbia superato quello di Analisi matematica (biennale), ne' l'esame di Astronomia nautica ove non abbia superato quello di Astronomia generale e sferica.  
+Dopo l'art. 17, e con il conseguente spostamento o della successiva numerazione, viene inserito il seguente nuovo articolo  
+  
+Art. 18. Nella Facolta' di Scienze nautiche sono costituiti i seguenti istituiti scientifici:  
+di Astronomia nautica e navigazione, comprendente gli insegnamenti di Navigazione aerea, di Astronomia nautica, di Aeronautica generale, di Assistenza al volo e controllo del traffico aereo;  
+di Meteorologia e oceanografia, comprendente il detto insegnamento e quelli di Misure oceanografiche di meteorologia sinottica e previsione del tempo:  
+di Teoria e tecnica delle onde elettromagnetiche comprendente il detto insegnamento e quelli di Elettrotecnica, di Radiotecnica, di Misture elettriche e radioelettriche, di Tecnica del radar e dei radioaiuti alla navigazione;  
+di Fisica sperimentale.  
+  
+Art. 20. - Agli insegnamenti complementari del corso di laurea in Scienze economico-marittime sono aggiunti quelli di:  
+6) Diritto della previdenza sociale;  
+7) Diritto delle assicurazioni.  
+  
+Dopo l'art. 23 e' aggiunto il seguente nuovo articolo  
+  
+Art. 24. - Nella Facolta' di Economia marittima sono costituiti i seguenti Istituti scientifici:  
+di Merceologia;  
+di Economia dei trasporti marittimi, comprendente gli insegnamenti di Economia politica, di Economia dei trasporti marittimi e di Statistica;  
+di Diritto pubblico, comprendente oltre il su detto insegnamento, quelli di Diritto amministrativo e di Diritto internazionale;  
+di Diritto della navigazione, comprendente oltre il suddetto insegnamento quello di Diritto del lavoro. marittimo e portuale;  
+di Diritto commerciale, comprendente oltre il su detto insegnamento, quelli di Istituzione di diritto privato e di Diritto industriale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 aprile 1980
+### Dato a Roma, addi' 29 maggio 1963
 
-PERTINI VALITUTTI
+SEGNI GUI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli BOSCO
 
-Registrato alla Corte dei conti, addi' 16 giugno 1980
+Registrato alla Corte dei conti, addi' 28 giugno 1963
 
-Registro n. 56 Istruzione, foglio n. 153
+Atti del Governo, registro n. 171, foglio n. 53. - VILLA

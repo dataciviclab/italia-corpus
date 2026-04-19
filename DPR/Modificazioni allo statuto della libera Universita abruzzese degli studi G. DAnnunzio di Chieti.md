@@ -1,124 +1,339 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1967 n. 1526
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 settembre 1966 n. 1291
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1967 n. 1526
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 settembre 1966 n. 1291
 =================================================================
 
 Modificazioni allo statuto della libera Universita' abruzzese degli studi "G. D'Annunzio" di Chieti.
 ----------------------------------------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto della libera Universita' abruzzese degli studi "G. D'Annunzio" di Chieti, approvato con [decreto del Presidente della Repubblica 8 maggio 1965, n. 1007](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-05-08;1007);
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto della libera Universita' abruzzese degli studi "G.
+
+D'Annunzio" di Chieti, approvato con il decreto sopraindicato, e' modificato come appresso:
+
+Art. 14. - All'elenco degli insegnamenti complementari del corso di laurea in Lettere sono aggiunti i seguenti:
+
+Filosofia medioevale e umanistica;
+
+Lingua e letteratura neo-greca;
+
+Lingua e letteratura serbo-croata.
+
+Art. 15. - All'elenco degli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti i seguenti:
+
+Filosofia della religione;
+
+Filosofia della scienza.
+
+Art. 23, relativo agli Istituti della Facolta' di lettere e filosofia e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente:
+
+"Ciascuno di questi avra' un proprio regolamento, deliberato dalla Facolta'".
+
+Art. 25. - All'elenco degli insegnamenti complementari del corso di laurea in Economia e commercio e' aggiunto quello di:
+
+"Tecnica conserviera dei prodotti agricoli ed ittici".
+
+Art. 29. - All'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere sono aggiunti i seguenti:
+
+Lingua e letteratura serbo-croata;
+
+Letteratura anglo-americana;
+
+Filologia slava.
+
+Nello stesso elenco l'insegnamento di "Lingua serbocroata" e' soppresso.
+
+Nello stesso articolo, il primo comma dopo l'elenco degli insegnamenti e' abrogato e sostituito dal seguente:
+
+"Lo studente deve seguire per tutti i quattro anni l'insegnamento della lingua alla quale intende dedicare i suoi studi e per due anni quelli di un'altra delle lingue straniere.
+
+Il cambiamento della lingua quadriennale puo' essere deciso dallo studente entro e non oltre l'iscrizione al 20 anno e la lingua precedentemente scelta come quadriennale deve rimanere biennale. Il cambiamento della lingua biennale puo' essere deciso entro e non oltre un anno di frequenza della lingua medesima.
+
+Lo studente puo', inoltre, seguire per due anni l'insegnamento di una terza lingua straniera, nel qual caso puo' diminuire di uno gli insegnamenti complementari".
+
+Dopo l'art. 29 e con il conseguente spostamento della numerazione degli articoli successivi e' inserito il seguente nuovo articolo:
+
+Art. 30. - Fanno parte della Facolta' di economia e commercio i seguenti Istituti:
+
+Corso di laurea in Economia e commercio
+
+1) Istituto di Scienze per gli insegnamenti di
+
+economiche Economia politica, Scienza
+
+delle finanze, Politica
+
+economica e finanziaria,
+
+St. economica, Geografia
+
+economica e Economia e
+
+politica agraria.
+
+2) Istituto di Ragioneria e per le cattedre di
+
+tecnica Ragioneria, Tecnica industriale
+
+e commerciale, Tecnica
+
+bancaria e professionale.
+
+3) Istituto di Matematica per le cattedre di
+
+Matematica generale
+
+finanziaria e attuariale.
+
+4) Istituto di Statistica per la relativa cattedra.
+
+5) Istituto di Diritto per tutti gli insegnamenti
+
+giuridici impartiti nella
+
+Facolta'.
+
+6) Laboratorio di per la relativa cattedra.
+
+Merceologia
+
+Corso di laurea in Lingue e letterature straniere
+
+7) Istituto di Filologia per le cattedre di Lingua
+
+moderna e letteratura italiana e
+
+Filologia romanza.
+
+8) Istituto di Lingue e comprendente le cattedre
+
+letterature romanze di Lingue e filologie
+
+relative.
+
+9) Istituto di Lingue comprendente le cattedre
+
+e letterature germaniche di Lingue e filologie
+
+relative.
+
+10) Istituto di Lingue e let- comprendente le cattedre
+
+terature slave di Lingue e filologie relative
+
+Art. 32 (gia' 31). - All'elenco degli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti i seguenti:
+
+Esegesi delle fonti del diritto romano;
+
+Diritto privato comparato;
+
+Diritto canonico;
+
+Diritto d'autore.
+
+Art. 33 (gia' 32), il secondo comma e' abrogato e sostituito dal seguente: "L'esame di laurea consiste nella discussione di una dissertazione scritta, svolta dal candidato sopra un tema vertente su una delle materie comprese nel piano di studi della Facolta' e di cui il candidato abbia sostenuto l'esame".
+
+Art. 35(gia' 34), relativo alla propedeuticita' degli esami e' modificato nel senso che per le materie complementari sono aggiunte le seguenti:
+
+Non si puo sostenere se non si e superato
+
+l'esame di: l'esame di:
+
+Diritto costituzionale Diritto costituzionale;
+
+comparato;
+
+Diritto pubblico Diritto costituzionale;
+
+regionale;
+
+Diritto industriale; Diritto commerciale;
+
+Diritto fallimentare; Diritto processuale civile;
+
+Diritto privato Istituzioni di diritto
+
+comparato. privato.
+
+Dopo l'art. 35, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli:
+
+Art. 36. - "La Facolta' di giurisprudenza comprende i seguenti istituti:
+
+1) Diritto privato; 2) Diritto pubblico; 3) Storia del diritto;
+
+4) Filosofia del diritto e Dottrina dello Stato; 5) Diritto e procedura penale; 6) Economia e finanza; 7) Diritto del lavoro.
+
+Ciascuno degli Istituti avra' un regolamento proprie deliberato dalla Facolta'".
+
+Art. 37. - "Con regolamento deliberato dalla Facolta' e nel numero e per l'importo fissato dal Consiglio di amministrazione su proposta della Facolta' stessa possono essere istituite, anno per anno, borse di perfezionamento".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 20 settembre 1966
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 2 febbraio 1967 Atti del Governo, registro n. 209, foglio n. 11. - VILLA
+
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-  
-IL PRESIDENTE DELLA REPUBBLICA  
-  
-  
-Veduto lo statuto della libera Universita' abruzzese "G.D'Annunzio" di Chieti, approvato con [decreto del Presidente della Repubblica 8 maggio 1965, n. 1007](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-05-08;1007) e modificato con [decreto del Presidente della Repubblica 20 settembre 1966, n. 1291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-09-20;1291);  
+Veduto lo statuto della libera Universita' abruzzese degli studi "G. D'Annunzio" di Chieti, approvato con [decreto del Presidente della Repubblica 8 maggio 1965, n. 1007](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-05-08;1007);  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione, di concerto col Ministro per il tesoro;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto della libera Universita' abruzzese degli studi "G.  
-D'Annunzio" di Chieti, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che la tabella C annessa allo statuto e' abrogata e sostituita dalla seguente:  
+D'Annunzio" di Chieti, approvato con il decreto sopraindicato, e' modificato come appresso:  
   
-Numero dei ex coef-  
-posti ficiente  
+Art. 14. - All'elenco degli insegnamenti complementari del corso di laurea in Lettere sono aggiunti i seguenti:  
+Filosofia medioevale e umanistica;  
+Lingua e letteratura neo-greca;  
+Lingua e letteratura serbo-croata.  
   
+Art. 15. - All'elenco degli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti i seguenti:  
+Filosofia della religione;  
+Filosofia della scienza.  
   
-a) Carriera direttiva:  
+Art. 23, relativo agli Istituti della Facolta' di lettere e filosofia e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente:  
+"Ciascuno di questi avra' un proprio regolamento, deliberato dalla Facolta'".  
   
-Direttore amministrativo 1 500  
+Art. 25. - All'elenco degli insegnamenti complementari del corso di laurea in Economia e commercio e' aggiunto quello di:  
+"Tecnica conserviera dei prodotti agricoli ed ittici".  
   
-Direttore di sezione 3 402  
+Art. 29. - All'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere sono aggiunti i seguenti:  
+Lingua e letteratura serbo-croata;  
+Letteratura anglo-americana;  
+Filologia slava.  
+Nello stesso elenco l'insegnamento di "Lingua serbocroata" e' soppresso.  
+Nello stesso articolo, il primo comma dopo l'elenco degli insegnamenti e' abrogato e sostituito dal seguente:  
+"Lo studente deve seguire per tutti i quattro anni l'insegnamento della lingua alla quale intende dedicare i suoi studi e per due anni quelli di un'altra delle lingue straniere.  
+Il cambiamento della lingua quadriennale puo' essere deciso dallo studente entro e non oltre l'iscrizione al 20 anno e la lingua precedentemente scelta come quadriennale deve rimanere biennale. Il cambiamento della lingua biennale puo' essere deciso entro e non oltre un anno di frequenza della lingua medesima.  
+Lo studente puo', inoltre, seguire per due anni l'insegnamento di una terza lingua straniera, nel qual caso puo' diminuire di uno gli insegnamenti complementari".  
+Dopo l'art. 29 e con il conseguente spostamento della numerazione degli articoli successivi e' inserito il seguente nuovo articolo:  
   
-Consigliere di 1a classe 325  
-Consigliere di 2a classe 1 271  
-Consigliere di 3a classe 229  
+Art. 30. - Fanno parte della Facolta' di economia e commercio i seguenti Istituti:  
+Corso di laurea in Economia e commercio  
+1) Istituto di Scienze per gli insegnamenti di  
+economiche Economia politica, Scienza  
+delle finanze, Politica  
+economica e finanziaria,  
+St. economica, Geografia  
+economica e Economia e  
+politica agraria.  
   
+2) Istituto di Ragioneria e per le cattedre di  
+tecnica Ragioneria, Tecnica industriale  
+e commerciale, Tecnica  
+bancaria e professionale.  
   
-b) Personale della biblioteca (carriera direttiva):  
+3) Istituto di Matematica per le cattedre di  
+Matematica generale  
+finanziaria e attuariale.  
   
+4) Istituto di Statistica per la relativa cattedra.  
   
-Bibliotecario di 2a classe 1 402  
+5) Istituto di Diritto per tutti gli insegnamenti  
+giuridici impartiti nella  
+Facolta'.  
   
-Bibliotecario di 3a classe 325  
-Bibliotecario aggiunto. 1 271  
-bibliotecario 229  
+6) Laboratorio di per la relativa cattedra.  
+Merceologia  
   
+Corso di laurea in Lingue e letterature straniere  
   
-c) Personale della biblioteca (carriera di concetto):  
+7) Istituto di Filologia per le cattedre di Lingua  
+moderna e letteratura italiana e  
+Filologia romanza.  
   
-Bibliotecario principale 1 325  
+8) Istituto di Lingue e comprendente le cattedre  
+letterature romanze di Lingue e filologie  
+relative.  
   
-Aiuto bibliotecario 271  
-Aiuto bibliotecario aggiunto 3 229  
-Aiuto vice bibliotecario 202  
+9) Istituto di Lingue comprendente le cattedre  
+e letterature germaniche di Lingue e filologie  
+relative.  
   
+10) Istituto di Lingue e let- comprendente le cattedre  
+terature slave di Lingue e filologie relative  
   
-d) Personale della ragioneria (carriera di concetto):  
+Art. 32 (gia' 31). - All'elenco degli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti i seguenti:  
+Esegesi delle fonti del diritto romano;  
+Diritto privato comparato;  
+Diritto canonico;  
+Diritto d'autore.  
   
-Primo ragioniere 1 325  
+Art. 33 (gia' 32), il secondo comma e' abrogato e sostituito dal seguente: "L'esame di laurea consiste nella discussione di una dissertazione scritta, svolta dal candidato sopra un tema vertente su una delle materie comprese nel piano di studi della Facolta' e di cui il candidato abbia sostenuto l'esame".  
   
-Ragioniere 271  
-Ragioniere aggiunto 4 229  
-Vice ragioniere economo 202  
+Art. 35(gia' 34), relativo alla propedeuticita' degli esami e' modificato nel senso che per le materie complementari sono aggiunte le seguenti:  
+Non si puo sostenere se non si e superato  
+l'esame di: l'esame di:  
   
+Diritto costituzionale Diritto costituzionale;  
+comparato;  
+Diritto pubblico Diritto costituzionale;  
+regionale;  
+Diritto industriale; Diritto commerciale;  
+Diritto fallimentare; Diritto processuale civile;  
+Diritto privato Istituzioni di diritto  
+comparato. privato.  
+Dopo l'art. 35, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli:  
+Art. 36. - "La Facolta' di giurisprudenza comprende i seguenti istituti:  
+1) Diritto privato; 2) Diritto pubblico; 3) Storia del diritto;  
+4) Filosofia del diritto e Dottrina dello Stato; 5) Diritto e procedura penale; 6) Economia e finanza; 7) Diritto del lavoro.  
+Ciascuno degli Istituti avra' un regolamento proprie deliberato dalla Facolta'".  
   
-e) Personale di segreteria (carriera di concetto):  
-  
-Primo segretario 1 325  
-  
-Segretario 271  
-Segretario aggiunto 6 229  
-Vice segretario 202  
-  
-  
-f) Personale degli uffici tecnici (carriera di concetto):  
-  
-Tecnico coadiutore di la classe 1 325  
-  
-Tecnico coadiutore di 2a classe 271  
-Tecnico coadiutore di 3a classe 2 229  
-Tecnico coadiutore aggiunto 202  
-  
-  
-g) Personale di segreteria (carriera esecutiva):  
-  
-Primo archivista 1 229  
-  
-Archivista 202  
-Archivista aggiunto 12 180  
-Applicato 157  
-  
-  
-h) Carriera ausiliaria:  
-  
-Usciere capo 3 173  
-  
-Usciere di 2a classe 15 159  
-Usciere di 3a classe 151  
-  
-Autista 2 159  
-Portiere 151  
+Art. 37. - "Con regolamento deliberato dalla Facolta' e nel numero e per l'importo fissato dal Consiglio di amministrazione su proposta della Facolta' stessa possono essere istituite, anno per anno, borse di perfezionamento".  
   
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 settembre 1967
+### Dato a Roma, addi' 20 settembre 1966
 
-Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI - COLOMBO
+SARAGAT GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 22 luglio 1968
+Registrato alla Corte dei conti, addi' 2 febbraio 1967
 
-Atti del Governo, registro n. 222, foglio n. 7. - GRECO
+Atti del Governo, registro n. 209, foglio n. 11. - VILLA

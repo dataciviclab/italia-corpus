@@ -1,192 +1,320 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1970 n. 942
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1962 n. 401
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1970 n. 942
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1962 n. 401
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Dopo l'art. 110 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di perfezionamento in diritto regionale.
-
-Scuola di perfezionamento in diritto regionale
-
-Art. 111. - E' istituita presso la facolta' di giurisprudenza una scuola di perfezionamento in diritto regionale, che ha per fine di indirizzare allo studio dei problemi specifici che interessano il diritto regionale.
-
-Art. 112. - Alla scuola di perfezionamento sono ammessi i laureati in giurisprudenza, scienze politiche ed economia e commercio.
-
-Art. 113. - Il corso di studio ha la durata di due anni.
-
-Art. 114. - Gli insegnamenti impartiti nella scuola sono:
-
-1° Anno:
-
-Diritto costituzionale;
-
-Storia del diritto pubblico regionale;
-
-Diritto amministrativo I;
-
-Politica economica regionale I;
-
-Diritto tributario.
-
-2° Anno:
-
-Ordinamento e legislazione regionale;
-
-Diritto amministrativo II;
-
-Politica economica regionale II;
-
-Diritto tributario regionale;
-
-Statistica e demografia.
-
-Art. 115. - L'insegnamento delle discipline di cui al piano di studi contemplate nel precedente articolo e' affidato per incarico a professori titolari, a liberi docenti e cultori con deliberazione della facolta' di giurisprudenza.
-
-Art. 116. - Gli insegnamenti e le esercitazioni della scuola di perfezionamento sono tenuti distinti da quelli per gli studenti del corso di giurisprudenza.
-
-Art. 117. - Gli insegnamenti possono avere, oltre che carattere di lezioni cattedratiche, quella forma che e' consentita dalla indole di ciascuna disciplina; sono inoltre tenute conferenze sugli argomenti oggetto del corso.
-
-Art. 118. - Il programma della scuola viene compilato ogni anno dal direttore e deve essere approvato dai docenti della scuola; cosi' pure gli orari settimanali di insegnamento e di esercitazioni. I corsi di insegnamento si uniformano al calendario dell'universita'.
-
-Art. 119. - Gli esami di profitto vengono sostenuti dagli allievi alla fine di ogni anno di corso e si svolgono per singole discipline.
-
-Le commissioni relative vengono nominate dal direttore della scuola.
-
-Gli esami si svolgono secondo le norme vigenti per gli esami di profitto delle facolta' universitarie.
-
-L'iscritto che non abbia superato gli esami prescritti per il primo anno non viene ammesso all'anno successivo.
-
-Art. 120. - Per le materie a corso pluriennale l'esame e' unico e deve essere sostenuto alla fine del corso.
-
-Art. 121. - L'esame di diploma consiste nella discussione di una dissertazione originale scritta.
-
-Art. 122. - La commissione per l'esame di diploma, nominata dal rettore su proposta del direttore e' costituita dal direttore, che la presiede, e da altri quattro docenti della scuola stessa.
-
-Art. 123. - Tutti gli atti e i documenti relativi alla scuola di perfezionamento in diritto regionale sono conservati dalla segreteria dell'universita' che rilascia i certificati richiesti dagli interessati.
-
-Art. 124. - In base al risultato dell'esame di diploma la segreteria dell'universita' rilascera' il relativo diploma di perfezionamento, che dovra' essere munito della firma del rettore, di quella del direttore della scuola e del direttore amministrativo, oltre che del timbro a secco dell'universita'.
-
-Art. 125. - Per la carriera scolastica, gli esami e la disciplina degli allievi valgono, in quanto applicabili, le disposizioni del regolamento approvato con regio decreto 4 giugno 1938, e successive modificazioni.
-
-Art. 126. - Gli iscritti devono pagare per tasse d'immatricolazione L. 10.000 e, annualmente, le somme seguenti:
-
-per tassa di iscrizione L. 20.000; per contributi di esercitazioni e di seminario L. 15.000; per contributo di biblioteca L. 3000; per soprattasse esami di profitto L. 5000.
-
-I diplomati dovranno inoltre pagare L. 3000 per soprattasse di diploma. Coloro i quali conseguono il diploma di perfezionamento sono tenuti al versamento delle tasse di diploma in L. 6000, tasse, soprattasse e contributi sono versati alla cassa dell'universita'. La tassa di diploma va invece versata all'erario.
-
-Art. 127. Il provento delle tasse di immatricolazione e di iscrizione va devoluto per meta' alla scuola e per l'altra meta' va incamerato dall'universita'. Il provento dei contributi per esercitazioni devoluto al "Circolo giuridico Sampolo". Il contributo di biblioteca va devoluto interamente alla biblioteca della facolta' di giurisprudenza. Il provento delle soprattasse per gli esami di profitto e diploma va ripartito ai sensi del [decreto del Presidente della Repubblica 1 dicembre 1952, n. 5512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-12-01;5512).
-
-Art. 128. - Il direttore della scuola e' il preside della facolta' di giurisprudenza o un professore da lui delegato ed e' investito di tutti i poteri di direzione sia dal punto di vista didattico, che dal punto di vista amministrativo.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 27 settembre 1970
-
-SARAGAT
-
-MISASI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 5 dicembre 1970 Atti del Governo, registro n. 238, foglio n. 210. - CARUSO
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Veduto il [decreto del Presidente della Repubblica 26 luglio 1960, n. 1692](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-07-26;1692);  
+Veduta la [legge 21 luglio 1961, n. 685](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-21;685);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 110 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di perfezionamento in diritto regionale.   
+Art. 37. - Il primo comma e' abrogato e sostituito dal seguente:  
+La Facolta' di scienze matematiche, fisiche e naturali conferisce le seguenti lauree:  
+1) Laurea in chimica;  
+2) Laurea in fisica;  
+3) Laurea, in matematica;  
+4) Laurea in scienze naturali;  
+5) Laurea in scienze biologiche;  
+6) Laurea in scienze geologiche.  
+L'art. 39, relativo al corso di studi per la laurea in fisica e' abrogato e sostituito dal seguente:  
   
-Scuola di perfezionamento in diritto regionale   
+Laurea in fisica  
   
-Art. 111. - E' istituita presso la facolta' di giurisprudenza una scuola di perfezionamento in diritto regionale, che ha per fine di indirizzare allo studio dei problemi specifici che interessano il diritto regionale.   
-Art. 112. - Alla scuola di perfezionamento sono ammessi i laureati in giurisprudenza, scienze politiche ed economia e commercio.   
-Art. 113. - Il corso di studio ha la durata di due anni.   
-Art. 114. - Gli insegnamenti impartiti nella scuola sono:   
-1° Anno:   
-Diritto costituzionale;   
-Storia del diritto pubblico regionale;   
-Diritto amministrativo I;   
-Politica economica regionale I;   
-Diritto tributario.   
-2° Anno:   
-Ordinamento e legislazione regionale;   
-Diritto amministrativo II;   
-Politica economica regionale II;   
-Diritto tributario regionale;   
-Statistica e demografia.   
-Art. 115. - L'insegnamento delle discipline di cui al piano di studi contemplate nel precedente articolo e' affidato per incarico a professori titolari, a liberi docenti e cultori con deliberazione della facolta' di giurisprudenza.   
-Art. 116. - Gli insegnamenti e le esercitazioni della scuola di perfezionamento sono tenuti distinti da quelli per gli studenti del corso di giurisprudenza.   
-Art. 117. - Gli insegnamenti possono avere, oltre che carattere di lezioni cattedratiche, quella forma che e' consentita dalla indole di ciascuna disciplina; sono inoltre tenute conferenze sugli argomenti oggetto del corso.   
-Art. 118. - Il programma della scuola viene compilato ogni anno dal direttore e deve essere approvato dai docenti della scuola; cosi' pure gli orari settimanali di insegnamento e di esercitazioni. I corsi di insegnamento si uniformano al calendario dell'universita'.   
-Art. 119. - Gli esami di profitto vengono sostenuti dagli allievi alla fine di ogni anno di corso e si svolgono per singole discipline.   
-Le commissioni relative vengono nominate dal direttore della scuola.  
-Gli esami si svolgono secondo le norme vigenti per gli esami di profitto delle facolta' universitarie.   
-L'iscritto che non abbia superato gli esami prescritti per il primo anno non viene ammesso all'anno successivo.   
-Art. 120. - Per le materie a corso pluriennale l'esame e' unico e deve essere sostenuto alla fine del corso.   
-Art. 121. - L'esame di diploma consiste nella discussione di una dissertazione originale scritta.   
-Art. 122. - La commissione per l'esame di diploma, nominata dal rettore su proposta del direttore e' costituita dal direttore, che la presiede, e da altri quattro docenti della scuola stessa.   
-Art. 123. - Tutti gli atti e i documenti relativi alla scuola di perfezionamento in diritto regionale sono conservati dalla segreteria dell'universita' che rilascia i certificati richiesti dagli interessati.   
-Art. 124. - In base al risultato dell'esame di diploma la segreteria dell'universita' rilascera' il relativo diploma di perfezionamento, che dovra' essere munito della firma del rettore, di quella del direttore della scuola e del direttore amministrativo, oltre che del timbro a secco dell'universita'.   
-Art. 125. - Per la carriera scolastica, gli esami e la disciplina degli allievi valgono, in quanto applicabili, le disposizioni del regolamento approvato con regio decreto 4 giugno 1938, e successive modificazioni.   
-Art. 126. - Gli iscritti devono pagare per tasse d'immatricolazione L. 10.000 e, annualmente, le somme seguenti:   
-per tassa di iscrizione L. 20.000; per contributi di esercitazioni e di seminario L. 15.000; per contributo di biblioteca L. 3000; per soprattasse esami di profitto L. 5000.   
-I diplomati dovranno inoltre pagare L. 3000 per soprattasse di diploma. Coloro i quali conseguono il diploma di perfezionamento sono tenuti al versamento delle tasse di diploma in L. 6000, tasse, soprattasse e contributi sono versati alla cassa dell'universita'. La tassa di diploma va invece versata all'erario.   
-Art. 127. Il provento delle tasse di immatricolazione e di iscrizione va devoluto per meta' alla scuola e per l'altra meta' va incamerato dall'universita'. Il provento dei contributi per esercitazioni devoluto al "Circolo giuridico Sampolo". Il contributo di biblioteca va devoluto interamente alla biblioteca della facolta' di giurisprudenza. Il provento delle soprattasse per gli esami di profitto e diploma va ripartito ai sensi del [decreto del Presidente della Repubblica 1 dicembre 1952, n. 5512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-12-01;5512).   
-Art. 128. - Il direttore della scuola e' il preside della facolta' di giurisprudenza o un professore da lui delegato ed e' investito di tutti i poteri di direzione sia dal punto di vista didattico, che dal punto di vista amministrativo.   
+Art. 37. - La durata del corso degli studi per la laurea in Fisica e' di quattro anni.  
+Titolo di ammissione: diploma di maturita' classica o scientifica.  
+Possono inoltre essere ammessi i diplomati degli istituti tecnici industriali, agrari, nautici e per geometri, ai sensi delle vigenti disposizioni di legge.  
+Il corso di studi comprende i tre indirizzi: generale, didattico, applicativo.  
+  
+Sono insegnamenti fondamentali obbligatori a tutti gli indirizzi per il primo biennio:  
+I Anno:  
+Fisica generale I;  
+Esperimentazioni di fisica (biennale);  
+Analisi matematica I;  
+Geometria I.  
+II Anno:  
+Fisica generale II;  
+Analisi matematica II;  
+Meccanica razionale;  
+Chimica con esercitazioni di laboratorio (per fisici).  
+  
+Per ciascuno dei corsi elencati vi e' un esame orale, finale distinto. Nell'esame orale per ogni materia fondamentale, il cui corso e' accompagnato da esercitazioni (non di laboratorio) che ne costituiscono parte integrante, si terra' conto delle risposte date per iscritto di alcuni semplici quesiti. Ove le risposte a tali quesiti risultassero assolutamente insufficienti, la Commissione puo' decidere di non proseguire l'esame. E' richiesta, alla fine del biennio una prova di conoscenza della lingua inglese e di una delle seguenti, a scelta dello studente: francese, russo, tedesco.  
+I corsi di Fisica generale I e II, Analisi matematica I e II constano di due corsi distinti, il primo propedeutico al secondo, sia per la frequenza sia per gli esami. Come stabilito dalla legge il corso di Meccanica razionale (incluse le relative esercitazioni non di laboratorio) e' distinto da quello destinato agli allievi ingegneri, e i corsi di Esperimentazioni di fisica (biennali) di Chimica con esercitazioni di laboratorio (per fisici) devono avere carattere pratico, in modo da portate i singoli studenti a sperimentare con le proprie mani. Gli altri corsi sono accompagnati da esercitazioni non di laboratorio, che ne fanno parte integrante.  
+L'esame di Esperimentazioni di fisica I non potra' essere sostenuto se lo studente non abbia prima superato quello di Fisica generale I; analogamente dicasi per l'esame di Esperimentazioni di fisica II nei riguardi della Fisica generale II.  
+Possono essere iscritti ai corsi comuni agli indirizzi del secondo biennio soltanto gli studenti che abbiano superato gli esami di Fisica generale I e II, Analisi matematica I e II.  
+Gli insegnamenti per il secondo biennio sono i seguenti:  
+  
+Indirizzo generale  
+III Anno:  
+Struttura della materia;  
+Istituzioni di fisica teorica;  
+Metodi matematici della fisica;  
+Laboratorio di fisica, III anno;  
+Un corso a scelta di materie matematiche superiori (indicate con l'asterisco nell'elenco allegato).  
+IV Anno  
+Fisica superiore;  
+Fisica teorica;  
+Laboratorio di fisica, IV anno;  
+Un corso a scelta (vedasi elenco allegato).  
+  
+Gli studenti possono sostenere esami del III anno solo se essi abbiano superato tutti quelli del primo biennio.  
+L'esame di Laboratorio di fisica IV potra' essere sostenuto solo se sia stato superato quello di Laboratorio di fisica III. Il corso di Struttura della materia va inteso come una esposizione delle proprieta' degli atomi, delle molecole e degli stati condensati della materia. I corsi di Struttura della materia. Istituzioni di fisica teorica, Metodi matematici della fisica, Fisica superiore e Fisica teorica possono essere accompagnati da esercitazioni (non di laboratorio) che ne fanno parte integrante.  
+Per i suddetti cinque corsi nell'esame orale potra' essere tenuto conto delle risposte date per iscritto di alcuni semplici quesiti.  
+Ove le risposte a tali quesiti risultassero assolutamente insufficienti, la Commissione puo' decidere di non proseguire l'esame.  
+  
+Elenco dei corsi complementari (a scelta) per l'indirizzo generale:  
+Fisica atomica;  
+Fisica molecolare;  
+Fisica dello stato solido;  
+Proprieta', magnetiche dei solidi;  
+Struttura elettronica dei solidi;  
+Magnetismo elettronico e molecolare;  
+Fisica del plasma;  
+Fisica delle basse temperature;  
+Fisica statistica;  
+Istituzioni di fisica nucleare;  
+Fisica nucleare;  
+Teoria delle reazioni nucleari;  
+Fisica delle particelle elementari;  
+(\*) Cibernetica e teoria delle informazioni;  
+(\*) Calcolo delle probabilita';  
+(\*) Analisi superiore;  
+(\*) Matematiche superiori;  
+(\*) Meccanica analitica;  
+(\*) Meccanica statistica;  
+(\*) Teoria dei campi;  
+(\*) Teoria dei gruppi e applicazioni fisiche;  
+(\*) Teoria della relativita'.  
+  
+Indirizzo applicativo  
+III Anno:  
+Struttura della materia;  
+Metodi matematici della fisica;  
+Istituzioni di fisica teorica;  
+Laboratorio di fisica, III anno;  
+Un corso a scelta (vedasi elenco allegato).  
+IV Anno:  
+Laboratorio di fisica, IV anno;  
+Tre corsi a scelta (vedasi elenco allegato).  
+  
+Il carattere dell'indirizzo applicativo (per esempio, in Elettronica, Fisica dello stato solido, Biofisica, Fisica nucleare applicata, ecc.) sara' determinato dai corsi a scelta. Gli studenti che vogliono essere iscritti all'indirizzo applicativo, dovranno proporre dei curriculum che dovranno essere firmati, per l'applicazione, dal direttore dell'Istituto di fisica, e in detti curricula saranno fissati i corsi scelti e le eventuali precedenze negli esami. I curricula dovranno poi essere approvati dal Consiglio di Facolta'. Gli studenti potranno sostenere gli esami del III anno soltanto se essi hanno superato tutti quelli del primo biennio.  
+  
+Elenco dei corsi (a scelta) per l'indirizzo applicativo:  
+Elettronica nucleare;  
+Elettronica generale;  
+Elettronica applicata;  
+Teoria dei circuiti;  
+Teoria dei controlli;  
+Calcolatrici elettroniche;  
+Strumentazione elettronica;  
+Elaborazione e trasmissione delle informazioni;  
+Ricerca operativa;  
+Cibernetica e teoria delle informazioni;  
+Onde elettromagnetiche;  
+Economia ed organizzazione industriale;  
+Fisica atomica;  
+Fisica molecolare;  
+Fisica dello stato solido;  
+Semiconduttori e transistors;  
+Fisica delle basse temperature;  
+Spettroscopia;  
+Geofisica generale;  
+Fisica dei neutroni Istituzioni di fisica nucleare;  
+Fisica del plasma;  
+Fisica nucleare applicata;  
+Radioisotopi e loro impiego;  
+Chimica fisica;  
+Chimica biologica;  
+Chimica organica;  
+Biologia generale;  
+Genetica.  
+Indirizzo didattico  
+III Anno:  
+Struttura della materia;  
+Metodi matematici della fisica;  
+Complementi di fisica generale I;  
+Preparazione di esperienze didattiche I;  
+Istituzioni di fisica nucleare (in sostituzione di Storia della fisica).  
+IV Anno:  
+Istituzioni di fisica teorica;  
+Complementi di fisica generale II;  
+Preparazione di esperienze didattiche II;  
+Un corso a scelta (vedasi elenco allegato).  
+  
+Gli studenti possono sostenere gli esami del III anno solo se hanno superato tutti quelli del primo biennio.  
+Per gli esami orali delle materie fondamentali potra' essere seguita la stessa procedura gia' indicata per l'indirizzo generale.  
+  
+Elenco dei corsi (a scelta) per l'indirizzo didattico:  
+Onde elettromagnetiche;  
+Elettronica generale;  
+Elettrotecnica;  
+Fisica statistica;  
+Doceologia;  
+Ottica;  
+Fisica atomica;  
+Fisica molecolare;  
+Meccanica statistica;  
+Cibernetica e teoria delle informazioni;  
+Calcolo delle probabilita';  
+Istituzioni di analisi superiore;  
+Fisica delle particelle elementari;  
+Teoria della relativita';  
+Teoria delle reazioni nucleari.  
+  
+Per tutti e tre gli indirizzi l'esame di laurea consiste in tre prove: 1° esame di cultura generale in Fisica, 2ª esposizione e commento di una memoria della letteratura scientifica (tesina) tra due scelte dal candidato, in materie del corso di laurea di cui abbia superato l'esamne, diverse fra di loro e da quella della tesi, 3ª discussione di una tesi scritta.  
+Superato l'esame di laurea lo studente consegue il titolo di dottore in Fisica, indipendentemente dall'indirizzo prescelto del quale verra' fatta menzione soltanto nella carriera scolastica.  
+L'art. 40, relativo al corso di studi per la laurea in Scienze matematiche e' abrogato e sostituito dal seguente:  
+  
+Laurea in matematica  
+  
+Art. 40. - La durata del corso degli studi per la laurea in Matematica e' di quattro anni.  
+Titolo di ammissione: diploma di maturita' classica o scientifica.  
+Possono inoltre essere ammessi i diplomati di Istituti tecnici industriali, agrari, nautici e per geometri ai sensi delle vigenti disposizioni di legge.  
+Il corso di studi si distingue in tre indirizzi: generale, didattico, applicativo.  
+Lo studente deve dichiarare all'atto dell'iscrizione al III anno, quale dei tre indirizzi intende scegliere. Una Commissione di docenti delle discipline matematiche, designata dalla Facolta', e della quale dovranno in ogni caso far parte i professori di ruolo, potra', attraverso opportuni colloqui, consigliare gli studenti sulla scelta dell'indirizzo, e cio' se gli studenti lo chiedono, e comunque in modo non vincolante.  
+  
+Insegnamenti ed esami.  
+a) sono insegnamenti fondamentali obbligatori per tutti e tre gli indirizzi, per il primo biennio:  
+I Anno:  
+Analisi matematica I;  
+Geometria I;  
+Algebra;  
+Fisica generale I.  
+II Anno:  
+Analisi matematica II;  
+Geometria II;  
+Meccanica razionale;  
+Fisica generale II.  
+Per ciascuno degli insegnamenti elencati vi e' un esame finale. Gli insegnamenti elencati sono accompagnati ciascuno da un corso di esercitazioni che ne e' parte integrante. I corsi di Analisi matematica, Geometria, Fisica generale, consistono ognuno di due parti annuali distinte: la prima propedeutica alla seconda, e con due esami annuali distinti. Il corso di Meccanica razionale (incluse le relative esercitazioni non di laboratorio) e' distinto da quello destinato agli allievi ingegneri.  
+Potranno essere iscritti al II anno soltanto quegli studenti che abbiano superato almeno due degli esami di Analisi matematica I, Geometria I, Algebra.  
+b) Sono insegnamenti fondamentali obbligatori, comuni a tutti e tre gli indirizzi per il III anno:  
+1) Istituzioni di geometria superiore;  
+2) Istituzioni di analisi superiore;  
+3) Metodi matematici della fisica.  
+c) Nel secondo biennio, oltre agli insegnamenti 1, 2 e 3 della lettera b) comuni ai tre indirizzi, debbono essere seguiti altri quattro insegnamenti, di cui uno al III anno e gli altri tre al IV.  
+Di questi quattro insegnamenti due sono fondamentali obbligatori, e due complementari, a scelta dello studente.  
+I due insegnamenti fondamentali sono per ciascun indirizzo i seguenti:  
+Per l'indirizzo generale:  
+4) Fisica matematica;  
+5) Calcolo delle probabilita';  
+Per l'indirizzo didattico:  
+4) Matematiche complementari (con esercitazioni);  
+5) Calcolo delle probabilita';  
+Per l'indirizzo applicativo:  
+4) Calcolo delle probabilita';  
+5) Geodesia (con esercitazioni).  
+I due insegnamenti complementari saranno scelti nell'annesso elenco, uno nel primo gruppo (a carattere fisico) e uno nel secondo gruppo, di materie complementari relative all'indirizzo prescelto.  
+Per ciascuno degli insegnamenti del secondo biennio, sia fondamentali che complementari, vi e' un esame finale.  
+Per tutti gli insegnamenti, sia del primo che del secondo biennio, che sono accompagnati da un corso di esercitazioni che ne e' parte integrante, l'esame consta di due prove: una orale relativa all'insegnamento propriamente detto, una scritta o pratica a seconda del carattere delle esercitazioni. L'ordine delle due prove puo' essere qualunque e nessuna delle due prove e' eliminatoria rispetto all'altra.  
+Esame di laurea: L'esame di laurea consta di due parti:  
+a) un esame di cultura generale sulle scienze matematiche;  
+b) discussione di un lavoro scritto e di due tesine orali in materie diverse fra loro e diverse da quelle su cui verte il lavoro scritto.  
+Per l'indirizzo generale il lavoro scritto dovra' essere una ricerca originale. Superato l'esame di laurea, lo studente consegue il titolo di dottore in Matematica, indipendentemente dall'indirizzo prescelto, del quale verra' fatta menzione soltanto nella carriera scolastica.  
+  
+Materie complementari.  
+  
+Per l'indirizzo generale  
+I Gruppo:  
+Struttura della materia;  
+Complementi di fisica generale;  
+Fisica superiore;  
+Istituzioni di fisica teorica;  
+Astronomia;  
+Geodesia;  
+Geofisica;  
+Meccanica superiore;  
+Meccanica statistica.  
+II Gruppo:  
+Matematiche complementari;  
+Topologia;  
+Geometria differenziale;  
+Teoria delle funzioni;  
+Algebra superiore:  
+Matematiche superiori;  
+Statistica matematica;  
+Geometria superiore;  
+Logica matematica;  
+Analisi funzionale;  
+Teoria dei numeri;  
+Storia della matematica;  
+Matematiche elementari da un punto di vista superiore;  
+Analisi superiore;  
+Teoria e applicazioni delle macchine calcolatrici;  
+Cibernetica e teoria delle informazioni.  
+  
+Per l'indirizzo didattico  
+I Gruppo:  
+Struttura della materia;  
+Complementi di fisica generale;  
+Preparazione di esperienze didattiche;  
+Fisica superiore;  
+Istituzioni di fisica teorica;  
+Astronomia;  
+Geodesia;  
+Fisica matematica;  
+Meccanica superiore.  
+II gruppo:  
+Topologia;  
+Geometria differenziale;  
+Matematiche superiori;  
+Geometria superiore;  
+Logica matematica;  
+Teoria dei numeri;  
+Storia della matematica;  
+Matematiche elementari da un punto di vista superiore;  
+Analisi superiore;  
+Calcoli numerici e grafici;  
+Teoria e applicazioni delle macchine calcolatrici;  
+Matematica finanziaria ed attuariale.  
+  
+Per l'indirizzo applicativo  
+I Gruppo:  
+Complementi di fisica generale;  
+Astronomia;  
+Geofisica;  
+Meccanica statistica;  
+Onde elettromagnetiche  
+II gruppo:  
+Geometria differenziale;  
+Statistica matematica;  
+Logica matematica;  
+Analisi superiore;  
+Calcoli numerici e grafici;  
+Teoria e applicazioni delle macchine calcolatrici;  
+Cibernetica e teoria delle informazioni;  
+Ricerca operativa;  
+Matematica finanziaria e attuariale.  
+  
+L'art. 41, relativo al corso di studi per la laurea in Matematica e Fisica e soppresso.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 settembre 1970
+### Dato a Roma, addi' 9 marzo 1962
 
-SARAGAT MISASI
+GRONCHI GUI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 5 dicembre 1970
+Registrato alla Corte dei conti, addi' 6 giugno 1962
 
-Atti del Governo, registro n. 238, foglio n. 210. - CARUSO
+Atti del Governo, registro n. 148, foglio n. 103. - VILLA

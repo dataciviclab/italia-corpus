@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1968 n. 1218
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1964 n. 1306
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1968 n. 1218
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1964 n. 1306
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
@@ -10,15 +10,13 @@ Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240) e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2210), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936 n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -30,71 +28,118 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 18, relativo al corso di laurea in economia e commercio e' modificato nel senso che l'insegnamento complementare di "statistica aziendale" e' soppresso e sostituito da quello di "ricerca operativa";
+Art. 96, e' sostituito dal seguente:
 
-Art. 74. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti quelli di:
+"La durata di ciascuna Scuola e' fissata come segue:
 
-Sociologia rurale (semestrale)
+cinque anni per le Scuole di specializzazione in Medicina generale ed in chirurgia generale;
 
-Economia montana e forestale (semestrale)
+quattro anni per quelle di Ostetricia e ginecologia;
 
-Storia dell'agricoltura (semestrale)
+tre anni per quelle di Ortopedia, Oculistica, Malattie nervose e mentali. Otorinolaringoiatria, Pediatria e Puericoltura, Radiologia medica e Radioterapia, Medicina legale e delle assicurazioni, Medicina del lavoro, Urologia;
 
-Politica agraria comparata (semestrale)
+due anni per quelle di Malattie cutanee e veneree. Tisiologia e malattie polmonari, Igiene, Anestesiologia".
 
-Cooperazione agricola (semestrale)
+Art. 98, e' sostituito dal seguente:
 
-Entomologia forestale (semestrale)
+"Il corso delle lezioni sara' impartito dal direttore della Scuola e da un corpo insegnanti che verra' scelto ogni anno dalla Facolta' stessa, su proposta del direttore della Scuola tra i professori titolari e incaricati, tra i liberi docenti e gli assistenti di ruolo".
 
-Acarologia (semestrale)
+Art. 101 e' sostituito dal seguente:
 
-Nematologia (semestrale)
+"Il programma dei corsi e il numero delle lezioni sara' coordinato dalla Facolta' su proposta dei direttori della Scuola".
 
-Chimica delle fermentazioni (semestrale)
+Art. 108, i primi due commi sono abrogati e sostituiti dai seguenti:
 
-Chimica e tecnologia degli alimenti (semestrale)
+"Gli specializzandi dovranno ottenere la firma di frequenza relativa ai singoli corsi di lezione e alla fine dovranno sostenere un esame per ogni singolo corso di lezioni.
 
-Alimentazione del bestiame (semestrale)
+I riprovati in non piu' di due materie potranno essere ammessi all'anno successivo, mantenendo l'obbligo di superare tali esami alla prima sessione.
 
-Agrumicoltura (semestrale)
+Le Commissioni per gli esami di profitto, composte di non meno di 3 membri, compreso un libero docente sono nominate dal preside su proposta del direttore della Scuola".
 
-Meccanizzazione dell'agricoltura (semestrale)
+L'art. 118, relativo all'ordinamento della Scuola di specializzazioni in Pediatria e' abrogato e sostituito da seguente nuovo ordinamento.
 
-Virologia (semestrale)
+Scuola di specializzazione in Pediatria e puericoltura
 
-Chimica biologica (semestrale)
+Art. 118. - I Anno: Fisio-patologia della nutrizione e della crescita, Anatomia ed istologia patologica, Diagnostica di laboratorio, Puericultura.
 
-Metodologia statistica in agricoltura (semestrale).
+II Anno: Ortopedia e chirurgia infantile. Dermato-venercologia, Semeiotica pediatrica, Clinica pediatrica.
 
-Nel predetto corso di laurea gli insegnamenti complementari di "tecnica commerciale dei prodotti agricoli" e di "genetica" sono soppressi e sostituiti da quelli di "tecnica della conservazione dei prodotti agricoli" e di "genetica agraria".
+III Anno: Otorinolaringolatria, Neuropsichiatria infantile, Legislazione sanitaria ed igiene scolastica.
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Particolarita' di terapia nell'eta' infantile, Clinica pediatrica.
 
-Dato a Roma, addi' 18 ottobre 1968
+L'art. 121, relativo all'ordinamento della Scuola di specializzazione in Medicina legale e delle assicurazioni e' abrogato e sostituito dal seguente:
 
-SARAGAT
+Scuola di specializzazione in Medicina legale e delle assicurazioni
 
-SCAGLIA
+Art. 121. - I Anno: Tecnica delle autopsie e diagnostica anatomo-patologica, Tecnica delle autopsie giudiziarie, Microscopia legata alla medicina legale (laboratorio); Questioni medico-legali in rapporto al diritto penale e civile, Elementi di Diritto pubblico e privato, Elementi di Diritto processuale penale e civile.
 
-Visto, il Guardasigilli: GONELLA
+II Anno: Elementi di legislazione del lavoro e delle assicurazioni, Tecnica delle perizie medico-legali, Semeiotica medica negli operai assicurati ed infortunistica, Chimica e tossicologia forense, Traumatologia forense (semeiotica), Malattie del lavoro.
+
+III Anno: Medicina legale assicurativa, Infortunistica medico-legale, Elementi di matematica attuariale e tecnica delle assicurazioni, Invalidita' e rieducazione professionale, Polizia scientifica e medico giudiziaria, Psicologia forense e antropologia criminale.
+
+L'art. 122, relativo all'ordinamento della Scuola di specializzazione in Radiologia medica e radioterapia e' abrogato e sostituito dal seguente.
+
+Scuola di specializzazione in Radiologia medica e radioterapia
+
+Art. 122. - I Anno: Fisica delle radiazioni, Tecnica radiodiagnostica, Proiettica radiografica, Tecnica radioterapica, Radiobiologia (biennale), Elettrobiologia e terapia.
+
+II Anno: Diagnostica radiologica (biennale), Radiobiologia, Radioterapia (biennale), Medicina nucleare (biennale), Dosimetria.
+
+III Anno: Diagnostica radiologica, Radioterapia, Medicina nucleare, Patologia da radiazioni, Radioprotezioni.
+
+Gli articoli dal n. 126 al 134 relativi alla Scuola di specializzazione in Medicina del lavoro sono abrogati e sostituiti dal seguente nuovo ordinamento:
+
+Scuola di specializzazione in Medicina del lavoro
+
+Art. 126. - I Anno: Fisiologia del lavoro, Igiene del lavoro, Tecnologia, Psicologia del lavoro e psicotecnica, Patologia del lavoro, Tecnica e diagnostica di laboratorio.
+
+II Anno: Clinica del lavoro, Tossicologia professionale, Anatomia patologica delle malattie professionali, Radiologia, Medicina preventiva.
+
+III Anno: Clinica del lavoro, Infortunistica, Dermatologia professionale, Neuropatologia professionale, Medicina assicurativa e valutazione di danno.
+
+Gli articoli dal n. 135 al n. 144, relativi alla Scuola di specializzazione in Urologia sono abrogati e sostituiti dal seguente nuovo ordinamento.
+
+Scuola di specializzazione in Urologia
+
+Art. 127. - I Anno: Anatomia, delle vie urinarie, Fisiopatologia della funzione urinaria (reni, ureteri, vescica, prostata), Tecnica urologica ed endoscopica.
+
+II Anno: Semeiotica e diagnostica urologica, Radiologia urologica, Anatomia patologica delle vie urinarie.
+
+III Anno: Patologia e terapia medica e chirurgica delle vie urinarie, Tecnica operatoria chirurgica ed urologica.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica.
+
+italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1964
+
+Per il Presidente della Repubblica
+
+Il Presidente del Senato
+
+MERZAGORA
+
+GUI
+
+Visto, Il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 4 dicembre 1968 Atti del Governo, registro n. 224, foglio n. 20. - GRECO
+alla Corte dei conti, addi' 11 dicembre 1964 Atti del Governo, registro n. 189, foglio n. 4. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240) e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2210), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936 n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -102,38 +147,67 @@ Sulla proposta del Ministro per la pubblica istruzione;
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 18, relativo al corso di laurea in economia e commercio e' modificato nel senso che l'insegnamento complementare di "statistica aziendale" e' soppresso e sostituito da quello di "ricerca operativa";  
-Art. 74. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti quelli di:  
+Lo statuto dell'universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 96, e' sostituito dal seguente:  
+"La durata di ciascuna Scuola e' fissata come segue:  
+cinque anni per le Scuole di specializzazione in Medicina generale ed in chirurgia generale;  
+quattro anni per quelle di Ostetricia e ginecologia;  
+tre anni per quelle di Ortopedia, Oculistica, Malattie nervose e mentali. Otorinolaringoiatria, Pediatria e Puericoltura, Radiologia medica e Radioterapia, Medicina legale e delle assicurazioni, Medicina del lavoro, Urologia;  
+due anni per quelle di Malattie cutanee e veneree. Tisiologia e malattie polmonari, Igiene, Anestesiologia".  
+Art. 98, e' sostituito dal seguente:  
+"Il corso delle lezioni sara' impartito dal direttore della Scuola e da un corpo insegnanti che verra' scelto ogni anno dalla Facolta' stessa, su proposta del direttore della Scuola tra i professori titolari e incaricati, tra i liberi docenti e gli assistenti di ruolo".  
+Art. 101 e' sostituito dal seguente:  
+"Il programma dei corsi e il numero delle lezioni sara' coordinato dalla Facolta' su proposta dei direttori della Scuola".  
+Art. 108, i primi due commi sono abrogati e sostituiti dai seguenti:  
+"Gli specializzandi dovranno ottenere la firma di frequenza relativa ai singoli corsi di lezione e alla fine dovranno sostenere un esame per ogni singolo corso di lezioni.  
+I riprovati in non piu' di due materie potranno essere ammessi all'anno successivo, mantenendo l'obbligo di superare tali esami alla prima sessione.  
+Le Commissioni per gli esami di profitto, composte di non meno di 3 membri, compreso un libero docente sono nominate dal preside su proposta del direttore della Scuola".  
+L'art. 118, relativo all'ordinamento della Scuola di specializzazioni in Pediatria e' abrogato e sostituito da seguente nuovo ordinamento.  
   
-Sociologia rurale (semestrale)  
-Economia montana e forestale (semestrale)  
-Storia dell'agricoltura (semestrale)  
-Politica agraria comparata (semestrale)  
-Cooperazione agricola (semestrale)  
-Entomologia forestale (semestrale)  
-Acarologia (semestrale)  
-Nematologia (semestrale)  
-Chimica delle fermentazioni (semestrale)  
-Chimica e tecnologia degli alimenti (semestrale)  
-Alimentazione del bestiame (semestrale)  
-Agrumicoltura (semestrale)  
-Meccanizzazione dell'agricoltura (semestrale)  
-Virologia (semestrale)  
-Chimica biologica (semestrale)  
-Metodologia statistica in agricoltura (semestrale).  
-Nel predetto corso di laurea gli insegnamenti complementari di "tecnica commerciale dei prodotti agricoli" e di "genetica" sono soppressi e sostituiti da quelli di "tecnica della conservazione dei prodotti agricoli" e di "genetica agraria".  
+Scuola di specializzazione in Pediatria e puericoltura  
+  
+Art. 118. - I Anno: Fisio-patologia della nutrizione e della crescita, Anatomia ed istologia patologica, Diagnostica di laboratorio, Puericultura.  
+II Anno: Ortopedia e chirurgia infantile. Dermato-venercologia, Semeiotica pediatrica, Clinica pediatrica.  
+III Anno: Otorinolaringolatria, Neuropsichiatria infantile, Legislazione sanitaria ed igiene scolastica.  
+Particolarita' di terapia nell'eta' infantile, Clinica pediatrica.  
+L'art. 121, relativo all'ordinamento della Scuola di specializzazione in Medicina legale e delle assicurazioni e' abrogato e sostituito dal seguente:  
+  
+Scuola di specializzazione in Medicina legale e delle assicurazioni   
+Art. 121. - I Anno: Tecnica delle autopsie e diagnostica anatomo-patologica, Tecnica delle autopsie giudiziarie, Microscopia legata alla medicina legale (laboratorio); Questioni medico-legali in rapporto al diritto penale e civile, Elementi di Diritto pubblico e privato, Elementi di Diritto processuale penale e civile.  
+II Anno: Elementi di legislazione del lavoro e delle assicurazioni, Tecnica delle perizie medico-legali, Semeiotica medica negli operai assicurati ed infortunistica, Chimica e tossicologia forense, Traumatologia forense (semeiotica), Malattie del lavoro.  
+III Anno: Medicina legale assicurativa, Infortunistica medico-legale, Elementi di matematica attuariale e tecnica delle assicurazioni, Invalidita' e rieducazione professionale, Polizia scientifica e medico giudiziaria, Psicologia forense e antropologia criminale.  
+L'art. 122, relativo all'ordinamento della Scuola di specializzazione in Radiologia medica e radioterapia e' abrogato e sostituito dal seguente.  
+  
+Scuola di specializzazione in Radiologia medica e radioterapia  
+  
+Art. 122. - I Anno: Fisica delle radiazioni, Tecnica radiodiagnostica, Proiettica radiografica, Tecnica radioterapica, Radiobiologia (biennale), Elettrobiologia e terapia.  
+II Anno: Diagnostica radiologica (biennale), Radiobiologia, Radioterapia (biennale), Medicina nucleare (biennale), Dosimetria.  
+III Anno: Diagnostica radiologica, Radioterapia, Medicina nucleare, Patologia da radiazioni, Radioprotezioni.  
+Gli articoli dal n. 126 al 134 relativi alla Scuola di specializzazione in Medicina del lavoro sono abrogati e sostituiti dal seguente nuovo ordinamento:  
+  
+Scuola di specializzazione in Medicina del lavoro  
+  
+Art. 126. - I Anno: Fisiologia del lavoro, Igiene del lavoro, Tecnologia, Psicologia del lavoro e psicotecnica, Patologia del lavoro, Tecnica e diagnostica di laboratorio.  
+II Anno: Clinica del lavoro, Tossicologia professionale, Anatomia patologica delle malattie professionali, Radiologia, Medicina preventiva.  
+III Anno: Clinica del lavoro, Infortunistica, Dermatologia professionale, Neuropatologia professionale, Medicina assicurativa e valutazione di danno.  
+Gli articoli dal n. 135 al n. 144, relativi alla Scuola di specializzazione in Urologia sono abrogati e sostituiti dal seguente nuovo ordinamento.  
+  
+Scuola di specializzazione in Urologia  
+  
+Art. 127. - I Anno: Anatomia, delle vie urinarie, Fisiopatologia della funzione urinaria (reni, ureteri, vescica, prostata), Tecnica urologica ed endoscopica.  
+II Anno: Semeiotica e diagnostica urologica, Radiologia urologica, Anatomia patologica delle vie urinarie.  
+III Anno: Patologia e terapia medica e chirurgica delle vie urinarie, Tecnica operatoria chirurgica ed urologica.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica.
+---------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 ottobre 1968
+### italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-SARAGAT SCAGLIA
+Dato a Roma, addi' 31 ottobre 1964 Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, Il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 4 dicembre 1968
+Registrato alla Corte dei conti, addi' 11 dicembre 1964
 
-Atti del Governo, registro n. 224, foglio n. 20. - GRECO
+Atti del Governo, registro n. 189, foglio n. 4. - VILLA

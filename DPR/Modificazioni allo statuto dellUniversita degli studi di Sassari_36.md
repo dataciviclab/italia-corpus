@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1002
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1972 n. 810
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1002
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1972 n. 810
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Sassari.
 -------------------------------------------------------------------
@@ -24,19 +24,19 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 51. - All'elenco degli istituti annessi alla facolta' di medicina veterinaria e' aggiunto l'istituto di biochimica applicata.  
+Art. 40, relativo alle propedeuticita' di esami del corso di laurea in medicina e chirurgia e' modificato nel senso che prima dell'ultimo comma e' inserito il seguente:  
+"L'esame di fisiologia umana deve precedere gli esami di patologia generale, di farmacologia e di tutti gli esami di insegnamenti clinici; l'esame di patologia generale deve precedere tutti gli esami di insegnamenti clinici".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 28 ottobre 1972
 
 LEONE SCALFARO
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 12 febbraio 1973
+Registrato alla Corte dei conti, addi' 19 dicembre 1972
 
-Atti di Governo, registro n. 255, foglio n. 103. - VALENTINI
+Atti di Governo, registro n. 254, luglio n. 37. - CARUSO

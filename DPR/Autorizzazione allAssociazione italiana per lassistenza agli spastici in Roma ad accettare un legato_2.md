@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1985 n. 815
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1982 n. 511
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1985 n. 815
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1982 n. 511
+=============================================================
 
 Autorizzazione all'Associazione italiana per l'assistenza agli spastici, in Roma, ad accettare un legato.
 ---------------------------------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-815. Decreto del Presidente della Repubblica 30 ottobre 1985, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana per l'assistenza agli spastici, in Roma, viene autorizzata ad accettare il legato, consistente in un appartamento sito in Monza, via Massimo d'Azeglio, n. 15, del periziato valore di L. 51.000.000 (nota U.T.E. di Milano 30 maggio 1983), da utilizzare per il perseguimento dei fini istituzionali, disposto dalla sig.ra Elena Citterio con testamento olografo 3 settembre 1981, pubblicato in data 24 settembre 1981, n. 7971 di repertorio, a rogito dott.  
-Carlo Maria Giovenzane, notaio in Monza (Milano), registrato a Monza in data 1 ottobre 1981 al n. 10398.   
+511. Decreto del Presidente della Repubblica 14 maggio 1982, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana per l'assistenza agli spastici, in Roma, viene autorizzata ad accettare il legato, a favore della sezione di Milano, consistente in lire 5.000.000, disposto dalla sig.ra Jole Saltamerenda Sirtoli con testamento olografo 12 maggio 1972, pubblicato in data 10 aprile 1978, n. 48578 di repertorio, a rogito dott. Enrico Masini, notaio in Milano, registrato a Milano in data 17 novembre 1978 al n. 19567.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 23 dicembre 1985   
-Registro n. 10 Sanita', foglio n. 306
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 23 luglio 1982  
+Registro n. 5 Sanita', foglio n. 141

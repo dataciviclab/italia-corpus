@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1964 n. 1028
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1981 n. 745
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1964 n. 1028
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1981 n. 745
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
@@ -10,240 +10,91 @@ Modificazioni allo statuto dell'Universita' degli studi di Modena.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170) e successive modificazioni.
+Veduto lo statuto dell'Universita' di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Modena e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Decreta:
+Sulla
+-----
 
-Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:
+proposta del Ministro della pubblica istruzione; Decreta:
 
-Art. 9. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:
+Articolo unico
+--------------
 
-20) Diritto dell'economia;
-
-21) Dottrina generale del processo;
-
-22) Diritto tributario.
-
-Art. 41. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di:
-
-11) Urologia;
-
-12) Gerontologia.
-
-Art. 49. - Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo organico-biologico) sono aggiunti quelli di:
-
-16) Chimica organica applicata;
-
-17) Chimica delle sostanze coloranti;
-
-18) Spettrochimica;
-
-19) Chimica macromolecolare.
-
-Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo inorganico-chimico-fisico) sono aggiunti quelli di:
-
-15) Chimica inorganica applicata;
-
-16) Siderurgia e metallurgia;
-
-17) Esercitazioni di tecniche e sintesi speciali inorganiche.
-
-L'insegnamento complementare di "Spettroscopia" (corso speciale per chimici) cambia denominazione con quello di "Spettroscopia molecolare".
-
-Art. 51. - Al secondo comma relativo al corso di laurea in Scienze naturali e' abrogata la seguente propedeuticita':
-
-"Non potra' sostenere l'esame di "Anatomia comparata" se non avra' superato quello di "Zoologia"".
-
-Art. 52. - L'ultimo comma e' abrogato e sostituito dal seguente:
-
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari ed inoltre lo studente deve aver sostenuto una prova pratica davanti ad una sottocommissione di tre membri, nominata dal presidente della Commissione di laurea, la quale ne riferisce alla Commissione di laurea.
-
-Art. 53. - Al terzo comma relativo al corso di laurea in Scienze biologiche e' abrogata la seguente propedeuticita':
-
-"Non potra', sostenere l'esame di "Anatomia comparata" se non avra' superato quello di "Zoologia"".
-
-Art. 58, relativo al corso di laurea in Chimica e' abrogato e sostituito dal seguente:
-
-Per essere ammesso all'esame di laurea in Chimica il candidato deve sostenere, inoltre, prima della prova orale, una prova pratica di analisi qualitativa e di analisi quantitativa. Per tale prova una sottocommissione, nominata dal preside, formata da tre membri della Commissione di laurea e presieduta dal professore di Chimica generale, verifica preliminarmente l'esito della prova pratica, e ne riferisce alla Commissione di laurea.
-
-Il terzo comma e' abrogato, Dopo l'art. 188 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Ortopedia e traumatologia.
-
-Scuola di specializzazione in Ortopedia e traumatologia
-
-Art. 189. - La Scuola di specializzazione in Ortopedia e traumatologia conferisce il diploma di specialista in Ortopedia e traumatologia.
-
-Art. 190. - La Scuola ha sede presso la Clinica ortopedica della Universita'.
-
-Art. 191. - Alla. Scuola sono ammessi i laureati in medicina e chirurgia.
-
-Art. 192. - La, Scuola ha la durata di tre anni e vi sono 10 (dieci) posti disponibili per ogni anno.
-
-Art. 193. - Gli insegnamenti impartiti dalla Scuola sono:
-
-1° Anno:
-
-1) Clinica ortopedica (biennale);
-
-2) Traumatologia dell'apparato locomotore (biennale);
-
-3) Semeiotica clinica ortopedica e traumatologica;
-
-4) Pediatria ortopedica.
-
-2° Anno:
-
-1) Clinica ortopedica (biennale);
-
-2) Traumatologia dell'apparato locomotore (biennale);
-
-3) Diagnostica radiologica dell'apparato locomotore;
-
-4) Tecnica degli interventi incruenti e cruenti in Ortopedia e traumatologia;
-
-5) Chirurgia plastica ricostruttiva dall'apparato locomotore e chirurgia della mano.
-
-3° Anno:
-
-1) Apparato terapia ortopedica e traumatologica;
-
-2) Neuropatologia dell'apparato locomotore;
-
-3) Infortunistica;
-
-4) Fisio-chinesiterapia;
-
-5) Elettrodiagnostica ed elettromiografia.
-
-Art. 194. - Durante i tre anni del corso e' obbligatorio l'internato in Clinica ortopedica.
-
-L'internato comporta la partecipazione alla attivita' di reparto, di ambulatorio di sala gessi, e di sala operatoria della Clinica ortopedica.
-
-Art. 195. - L'allievo del primo anno per essere ammesso al secondo deve aver superato tutti gli esami del primo anno.
-
-L'allievo del secondo anno per essere ammesso al terzo deve aver superato i due esami biennali e tutti gli altri esami del secondo anno.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 19 settembre 1964
-
-Per il Presidente della Repubblica
-
-Il Presidente del Senato
-
-MERZAGORA
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 22 ottobre 1964 Atti del Governo, registro n. 187, foglio n. 147 - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170) e successive modificazioni.  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Lo statuto dell'Universita' di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Decreta:  
+Dopo l'art. 253, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in medicina interna.  
   
-Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:  
+Scuola di specializzazione in medicina interna  
   
-Art. 9. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:  
-20) Diritto dell'economia;  
-21) Dottrina generale del processo;  
-22) Diritto tributario.  
-Art. 41. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di:  
-11) Urologia;  
-12) Gerontologia.  
-Art. 49. - Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo organico-biologico) sono aggiunti quelli di:  
-16) Chimica organica applicata;  
-17) Chimica delle sostanze coloranti;  
-18) Spettrochimica;  
-19) Chimica macromolecolare.  
-Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo inorganico-chimico-fisico) sono aggiunti quelli di:  
-15) Chimica inorganica applicata;  
-16) Siderurgia e metallurgia;  
-17) Esercitazioni di tecniche e sintesi speciali inorganiche.  
-L'insegnamento complementare di "Spettroscopia" (corso speciale per chimici) cambia denominazione con quello di "Spettroscopia molecolare".  
-Art. 51. - Al secondo comma relativo al corso di laurea in Scienze naturali e' abrogata la seguente propedeuticita':  
-"Non potra' sostenere l'esame di "Anatomia comparata" se non avra' superato quello di "Zoologia"".  
-Art. 52. - L'ultimo comma e' abrogato e sostituito dal seguente:  
-  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari ed inoltre lo studente deve aver sostenuto una prova pratica davanti ad una sottocommissione di tre membri, nominata dal presidente della Commissione di laurea, la quale ne riferisce alla Commissione di laurea.  
-Art. 53. - Al terzo comma relativo al corso di laurea in Scienze biologiche e' abrogata la seguente propedeuticita':  
-"Non potra', sostenere l'esame di "Anatomia comparata" se non avra' superato quello di "Zoologia"".  
-Art. 58, relativo al corso di laurea in Chimica e' abrogato e sostituito dal seguente:  
-  
-Per essere ammesso all'esame di laurea in Chimica il candidato deve sostenere, inoltre, prima della prova orale, una prova pratica di analisi qualitativa e di analisi quantitativa. Per tale prova una sottocommissione, nominata dal preside, formata da tre membri della Commissione di laurea e presieduta dal professore di Chimica generale, verifica preliminarmente l'esito della prova pratica, e ne riferisce alla Commissione di laurea.  
-Il terzo comma e' abrogato, Dopo l'art. 188 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Ortopedia e traumatologia.  
-  
-Scuola di specializzazione in Ortopedia e traumatologia  
-  
-Art. 189. - La Scuola di specializzazione in Ortopedia e traumatologia conferisce il diploma di specialista in Ortopedia e traumatologia.  
-Art. 190. - La Scuola ha sede presso la Clinica ortopedica della Universita'.  
-Art. 191. - Alla. Scuola sono ammessi i laureati in medicina e chirurgia.  
-Art. 192. - La, Scuola ha la durata di tre anni e vi sono 10 (dieci) posti disponibili per ogni anno.  
-Art. 193. - Gli insegnamenti impartiti dalla Scuola sono:  
+Art. 254. - E' istituita presso la facolta' di medicina e chirurgia dell'Universita' di Modena la scuola di specializzazione in medicina interna che ha sede presso la cattedra di clinica medica generale e terapia medica I e conferisce il diploma di specialista in medicina interna. La direzione della scuola e' affidata al professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione e' affidata al professore associato che pure insegni nella scuola medesima. Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Art. 255. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione. Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di cinquanta iscritti per l'intero corso di studi.  
+Art. 256. - L'ammissione alla scuola avviene per titoli ed esami.  
+Art. 257. - Le materie di insegnamento sono le seguenti:  
 1° Anno:  
-1) Clinica ortopedica (biennale);  
-2) Traumatologia dell'apparato locomotore (biennale);  
-3) Semeiotica clinica ortopedica e traumatologica;  
-4) Pediatria ortopedica.  
+malattie infettive disreattive e del sangue;  
+istituzione di terapia;  
+anatomia ed istologia patologica I (biennale);  
+clinica medica generale e terapia medica I (quinquennale).  
 2° Anno:  
-1) Clinica ortopedica (biennale);  
-2) Traumatologia dell'apparato locomotore (biennale);  
-3) Diagnostica radiologica dell'apparato locomotore;  
-4) Tecnica degli interventi incruenti e cruenti in Ortopedia e traumatologia;  
-5) Chirurgia plastica ricostruttiva dall'apparato locomotore e chirurgia della mano.  
+malattie dell'apparato cardiovascolare;  
+microbiologia e sierologia;  
+chimica clinica;  
+anatomia e istologia patologica II (biennale);  
+clinica medica generale e terapia medica II (quinquennale).  
 3° Anno:  
-1) Apparato terapia ortopedica e traumatologica;  
-2) Neuropatologia dell'apparato locomotore;  
-3) Infortunistica;  
-4) Fisio-chinesiterapia;  
-5) Elettrodiagnostica ed elettromiografia.  
-Art. 194. - Durante i tre anni del corso e' obbligatorio l'internato in Clinica ortopedica.  
-L'internato comporta la partecipazione alla attivita' di reparto, di ambulatorio di sala gessi, e di sala operatoria della Clinica ortopedica.  
-Art. 195. - L'allievo del primo anno per essere ammesso al secondo deve aver superato tutti gli esami del primo anno.  
-L'allievo del secondo anno per essere ammesso al terzo deve aver superato i due esami biennali e tutti gli altri esami del secondo anno.  
+malattie dell'apparato digerente;  
+malattie renali;  
+clinica medica generale e terapia medica III (quinquennale).  
+4° Anno:  
+malattie dell'apparato respiratorio;  
+malattie del sistema nervoso;  
+clinica medica generale e terapia medica IV (quinquennale).  
+5° Anno:  
+malattie del ricambio;  
+malattie delle ghiandole endocrine;  
+clinica medica generale e terapia medica V (quinquennale).  
+Gli insegnamenti fondamentali sono integrati, a giudizio del consiglio della scuola, da almeno tra insegnamenti scelti fra i seguenti, che possono essere stabiliti di anno in anno:  
+Insegnamenti complementari:  
+parassitologia medica;  
+genetica medica;  
+semeiotica dermatologica;  
+radiologia;  
+semeiotica oculistica;  
+semeiotica ginecologica.  
+Art. 258. - La frequenza alle lezioni e' obbligatoria.  
+Gli allievi che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le prove di esame alla fine di ogni anno di corso. Gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno; per le materie pluriennali, invece, sara' dato l'esame alla fine dei corsi medesimi.  
+Art. 259. - Al termine del corso di studi per il conseguimento del diploma di specialista in medicina interna, gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+Art. 260. - Le norme generali per l'iscrizione, gli esami, le tasse ecc., sono quelle che regolano le scuole di specializzazione dell'Universita' di Modena.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 settembre 1964
+### Dato a Roma, addi' 29 maggio 1981
 
-Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 22 ottobre 1964
+Registrato alla Corte dei conti, addi' 11 dicembre 1981
 
-Atti del Governo, registro n. 187, foglio n. 147 - VILLA
+Registro n. 123 Istruzione, foglio n. 380

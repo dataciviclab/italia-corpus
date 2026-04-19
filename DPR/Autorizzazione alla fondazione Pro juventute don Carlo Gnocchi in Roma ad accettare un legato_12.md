@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 147
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1976 n. 34
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 147
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1976 n. 34
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad ac
 Art. 1
 ------
 
-n.
+N.
 
-147. Decreto del Presidente della Repubblica 10 febbraio 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in una somma di L. 27.919.100, disposto dalla sig.ra Catenacci Luigia ved. Mariani con testamento olografo 20 aprile 1983, pubblicato in data 7 luglio 1983, n. 84384/9262 di repertorio, a rogito dott. Acquarone Domenico, notaio in Milano, registrato a Milano in data 21 luglio 1983 al n. 17621.  
+34. Decreto del Presidente della Repubblica 23 gennaio 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Angela Ripamonti con testamento olografo 8 luglio 1969, pubblicato a rogito dott. Pietro Gaetani, notaio in Lecco (Como), in data 11 ottobre 1973, n. 40734 di repertorio, n. 17996 di raccolta, registrato a Lecco il 15 ottobre 1973 col n. 1836, vol. 211, consistente nella somma di L. 5.000.000.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 22 aprile 1986  
-Registro n. 4 Presidenza, foglio n. 48
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 3 marzo 1976  
+Atti di Governo, registro n. 3, foglio n. 57

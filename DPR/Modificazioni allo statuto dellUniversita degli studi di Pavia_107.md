@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1980 n. 420
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 febbraio 1980 n. 341
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1980 n. 420
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 febbraio 1980 n. 341
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,145 +18,244 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio universitario nazionale nei suoi pareri;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
-
-Veduto il [parere della sezione prima del Consiglio di Stato n. 1902/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
-
-Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
 
 Sulla
 -----
 
 proposta del Ministro della pubblica istruzione; Decreta:
 
-Art. 1
-------
+Articolo unico
+--------------
 
   
   
-Lo statuto dell'Universita' di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli 261 e 262, relativi alla scuola di specializzazione in patologia generale, sono soppressi e sostituiti dai seguenti:   
-  
-Scuola di specializzazione in patologia generale   
-  
-Art. 261. - La scuola di specializzazione in patologia generale ha sede presso l'istituto di patologia generale.   
-Il corso degli studi ha la durata di quattro anni, suddiviso in due bienni.   
-La durata complessiva del corso di studi non e' suscettibile di abbreviazione.   
-La frequenza alla scuola e' obbligatoria.   
-Gli allievi che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le singole prove di esame.   
-Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia, ai quali, dopo aver superato l'esame finale, e' rilasciato il diploma di "specialista in patologia generale". E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.   
-Alla scuola stessa vengono ammessi i laureati in medicina veterinaria, in scienze biologiche, in scienze naturali, in farmacia, in chimica e tecnologia farmaceutiche, ai quali, dopo aver superato l'esame finale, e' rilasciato il diploma di "specialista in patologia generale con indirizzo tecnico".   
-L'ammissione al corso di specializzazione avviene per titoli ed esami.   
-Il numero massimo degli allievi e' di trenta per anno di corso e complessivamente di centoventi iscritti per l'intero corso di studi.   
-Art. 262. - Le materie di insegnamento sono le seguenti:   
-  
-I BIENNIO   
-(Propedeutico)   
+Gli articoli 90, 91, 92, 93, 94 dello statuto dell'Universita' di Pavia, relativi all'ordinamento degli studi per il conseguimento delle lauree di ingegneria, sono sostituiti dai seguenti:   
+Art. 90. - Sono insegnamenti del biennio:   
 1° Anno:   
-1) istituzioni di patologia generale;   
-2) patologia delle infezioni;   
-3) epidemiologia e patologia ambientale;   
-4) immunologia;   
-5) parassitologia e diagnostica parassitologica.   
+\* 1) analisi matematica I;   
+\* 2) geometria;   
+\* 3) fisica I;   
+\* 4) chimica;   
+\* 5) disegno.   
 2° Anno:   
-6) radiobiologia e patologia da radiazioni;   
-7) oncologia generale;   
-8) immunopatologia e analisi immunologiche;   
-9) analisi chimico-cliniche;   
-10) fisiopatologia generale I corso (metabolismo e sistema endocrino).   
-  
-II BIENNIO   
-(Conseguimento per il diploma di "specialista in patologia generale") 3° Anno:   
-11) diagnostica di laboratorio di citopatologia e citogenetica;   
-12) diagnostica di laboratorio di batteriologia e virologia;   
-13) fisiopatologia generale II corso (termoregolazione, sistema cardiocircolatorio, sangue ed organi emopoietici).   
-4° Anno:   
-14) diagnostica oncologica;   
-15) diagnostica istopatologica;   
-16) diagnostica ultrastrutturale;   
-17) fisiopatologia generale III corso (fegato, sistema digerente, renale, respiratorio).   
-  
-II BIENNIO   
-(Conseguimento per il diploma di "specialista in patologia generale con indirizzo tecnico")   
-3° Anno:   
-11) tecniche di batteriologia;   
-12) tecniche di virologia;   
-13) tecniche di citologia e citogenetica.   
-4° Anno:   
-14) statistica e biometria;   
-15) colture in vitro: aspetti biologici ed applicativi;   
-16) tecniche ematologiche;   
-17) tecniche istologiche ed ultrastrutturali.   
-La direzione della scuola e' affidata ad un professore di ruolo o fuori ruolo della stessa materia di specializzazione o, in carenza, ad un professore di ruolo o fuori ruolo di materia affine.   
-Il direttore puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari e conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola stessa.   
-Per conseguire il relativo diploma di specializzazione, al termine del corso quadriennale, oltre ad aver superato tutti gli esami delle singole materie, e' obbligatorio sostenere l'esame finale su una dissertazione scritta, preferibilmente di carattere sperimentale.   
-
-Art. 2
-------
-
-  
-  
-Dopo l'art. 270, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in gastroenterologia ed endoscopia digestiva:   
-  
-Scuola di specializzazione in gastroenterologia ed endoscopia digestiva   
-  
-Art. 271. - La scuola di specializzazione in gastroenterologia ed endoscopia digestiva ha sede presso la clinica medica I della Universita' di Pavia e conferisce il diploma di specialista in gastroenterologia ed endoscopia digestiva.   
-Art. 272. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Art. 273. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-Art. 274. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
-Art. 275. - Il numero massimo degli allievi e' di cinque per anno di corso e complessivamente di venti iscritti per l'intero corso di studi.   
-Art. 276. - L'ammissione al corso avviene per titoli ed esami.   
-Art. 277. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-anatomia clinica;   
-farmacologia clinica;   
-chimica clinica, coprologia, parassitologia;   
-genetica;   
-biostatistica ed epidemiologia.   
-2° Anno:   
-clinica medica generale (triennale) I;   
-clinica e terapia del tubo digerente, fegato e pancreas (triennale) I;   
-anatomia ed istologia patologica (biennale) I;   
-fisiopatologia e semeiotica digestiva (biennale) I;   
-radiologia e medicina nucleare (biennale) I;   
-scienza dell'alimentazione e dietetica.   
-3° Anno:   
-clinica medica generale (triennale) II;   
-clinica e terapia del tubo digerente, fegato e pancreas (triennale) II;   
-anatomia ed istologia patologica (biennale) II;   
-fisiopatologia e semeiotica digestiva (biennale) II;   
-radiologia e medicina nucleare (biennale) II;   
-endoscopia digestiva (biennale) I.   
-4° Anno:   
-clinica medica generale (triennale) III;   
-clinica e terapia del tubo digerente, fegato e pancreas (triennale) III;   
-endoscopia digestiva (biennale) II;   
-terapia intensiva;   
-gastroenterologia pediatrica;   
-elementi di chirurgia del tubo digerente, fegato e pancreas.   
-Art. 278. - E' obbligatorio il tirocinio pratico durante il quadriennio di studi da svolgere nell'istituto clinico sede della scuola o in reparti ospedalieri di gastroenterologia, conforme alle scelte approvate dal consiglio della scuola.   
-Ogni scuola puo' aggiungere a queste materie fondamentali obbligatorie delle materie complementari con corsi semestrali, il numero non superiore a sei per la totalita' del corso.   
-Art. 279. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
-Art. 280. - Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno; per le materie biennali e triennali, invece, e' dato l'esame alla fine del biennio e triennio.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in gastroenterologia ed endoscopia digestiva, gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+\* 1) analisi matematica II;   
+\* 2) fisica II;   
+\* 3) meccanica razionale.   
+Corso di laurea in ingegneria elettrotecnica:   
+\* 4) fisica tecnica;   
+5) tecnologie generali dei materiali.   
+Corso di laurea in ingegneria elettronica:   
+\* 4) elettrotecnica;   
+\* 5) fisica tecnica.   
+Corso di laurea in ingegneria civile:   
+4) disegno II;   
+\* 5) elettrotecnica (ed impianti elettrici).   
+Corso di laurea in ingegneria chimica:   
+4) complementi di chimica generale ed inorganica;   
+5) chimica organica;   
+\* 6) elettrotecnica (ed impianti elettrici).   
+Corso di laurea in ingegneria meccanica:   
+\* 4) disegno degli elementi di macchine;   
+5) tecnologia meccanica;   
+6) chimica applicata.   
+Gli studenti del primo anno di corso potranno ottenere l'iscrizione al secondo anno di corso qualora abbiano superato almeno due fra i quattro seguenti esami:   
+analisi matematica I; geometria I, fisica I, chimica. Al termine del secondo anno di corso, lo studente, per essere iscritto al terzo anno, oltre che essere in possesso delle attestazioni di frequenza di tutte le discipline previste per il primo e secondo anno, dovra' aver superato i relativi esami, fatta eccezione degli eventuali insegnamenti aggiuntivi. Lo studente tuttavia che sia in debito, oltreche' degli esami per i detti insegnamenti aggiunti, anche di un solo esame, a sua scelta, del secondo anno di corso, potra' ugualmente essere iscritto al terzo anno, con l'obbligo di superare tale esame prima di sostenere qualsiasi esame del triennio di applicazione.   
+I due esami di fisica comprendono la parte riguardante le relative esercitazioni.   
+Gli insegnamenti segnati con l'asterisco sono obbligatori sul piano nazionale.   
+Art. 91. - Per il corso di laurea in ingegneria elettrotecnica sono insegnamenti del triennio:   
+a) Obbligatori sul piano nazionale:   
+1) elettrotecnica;   
+2) idraulica;   
+3) scienza delle costruzioni;   
+4) meccanica applicata alle macchine;   
+5) macchine elettriche;   
+6) impianti elettrici I;   
+7) misure elettriche;   
+8) elettronica applicata;   
+9) macchine.   
+b) Obbligatori sul piano della facolta':   
+10) calcolo numerico e programmazione;   
+11) controlli automatici;   
+12) teoria dei sistemi;   
+13) impianti elettrici II.   
+c) Un gruppo di materie a scelta tra quelle elencate nell'art. 94 e negli articoli 92 e 93.   
+Art. 92. - Per il corso di laurea in ingegneria elettronica sono insegnamenti del triennio:   
+a) Obbligatori sul piano nazionale:   
+1) scienza delle costruzioni;   
+2) meccanica delle macchine e macchine;   
+3) campi elettromagnetici e circuiti;   
+4) elettronica applicata;   
+5) misure elettriche;   
+6) comunicazioni elettriche;   
+7) radiotecnica;   
+8) controlli automatici.   
+b) Obbligatori sul piano della facolta':   
+9) programmazione di calcolatori elettronici;   
+10) elettronica numerica;   
+11) metodi matematici per l'ingegneria;   
+12) teoria dei sistemi;   
+13) calcolatori elettronici.   
+c) Un gruppo di materie a scelta tra quelle elencate nell'art. 94 e negli articoli 91 e 93.   
+Art. 93. - Per il corso di laurea in ingegneria civile, (che si articola nelle due sezioni: "idraulica" e "trasporti") sono insegnamenti del triennio:   
+a) Obbligatori sul piano nazionale:   
+1) scienza delle costruzioni;   
+2) meccanica applicata alle macchine e macchine;   
+3) fisica tecnica;   
+4) idraulica;   
+5) tecnologie dei materiali e chimica applicata;   
+6) tecnica delle costruzioni;   
+7) architettura tecnica;   
+8) topografia.   
+Per "idraulica":   
+9) costruzioni idrauliche.   
+Per "trasporti":   
+9) costruzioni di strade, ferrovie ed aeroporti.   
+b) Obbligatori sul piano della facolta' per "idraulica":   
+10) geologia applicata;   
+11) acquedotti e fognature;   
+12) ingegneria sanitaria;   
+13) idraulica II.   
+Obbligatori sul piano della facolta' per "trasporti":   
+10) geologia applicata;   
+11) geotecnica;   
+12) costruzioni di ponti e grandi strutture;   
+13) tecnica ed economia dei trasporti.   
+c) Un gruppo di materie a scelta tra quelle elencate nell'art. 94 e negli articoli 91 e 92.   
+Art. 94. - Sono insegnamenti complementari ai sensi dell'[art. 1 del decreto del Presidente della Repubblica del 27 settembre 1970, n. 827](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-09-27;827~art1), i seguenti:   
+affidabilita' e controllo statistico della qualita' (sem.);   
+analisi dei sistemi;   
+analisi dei sistemi elettrici di potenza;   
+analisi numerica;   
+antenne e propagazione;   
+automazione sanitaria;   
+azionamenti elettrici;   
+biomeccanica;   
+bonifica e irrigazione;   
+calcolatori per il controllo dei processi;   
+calcolo automatico delle strutture;   
+centrali elettriche;   
+chimica tisica;   
+chimica e biologia sanitaria;   
+complementi di architettura tecnica;   
+complementi di matematica;   
+complementi di programmazione;   
+complementi di scienza delle costruzioni;   
+controllo dei processi;   
+costruzione di apparecchi elettrici;   
+costruzioni elettroniche;   
+costruzione di macchine;   
+costruzione di macchine elettriche;   
+costruzioni marittime;   
+costruzioni metalliche;   
+dinamica delle macchine elettriche;   
+dinamica delle strutture;   
+dinamica e vibrazioni delle macchine;   
+dispositivi elettronici;   
+ecologia (sem.);   
+economia applicata all'ingegneria;   
+economia urbana e delle localizzazioni;   
+elaborazione dati biomedici;   
+elettronica biologica;   
+elettronica di potenza;   
+elettronica industriale;   
+elettronica quantistica;   
+elettrotecnica industriale;   
+ergotecnica;   
+estimo (sem.);   
+fenomeni aleatori e rumore;   
+fisica dei semiconduttori;   
+fisica III;   
+fonti e conversioni energetiche;   
+fotogrammetria;   
+idraulica fluviale;   
+idrogeologia (sem.);   
+idrologia tecnica;   
+igiene applicata all'ingegneria (sem.);   
+impianti elettrici di potenza;   
+impianti elettrici industriali;   
+impianti per l'elaborazione dell'informazione;   
+impianti speciali idraulici;   
+impianti tecnici;   
+informatica del territorio;   
+informatica industriale;   
+infrastrutture idrauliche;   
+ingegneria, del territorio;   
+ingegneria sismica e problemi dinamici speciali;   
+inquinamento atmosferico (sem.);   
+macchine elettriche speciali;   
+macchine fluidodinamiche;   
+materiali e tecnologie elettroniche;   
+materie giuridiche e legislazione dei lavori pubblici;   
+meccanica dei fluidi;   
+meccanica delle rocce;   
+metodi non convenzionali di trasformazione e di accumulo dell'energia;   
+metodi probabilistici, statistici e processi stocastici;   
+microonde;   
+misure ad alta frequenza;   
+misure e controlli per processi fluidodinamici;   
+misure elettroniche;   
+misure sulle macchine e sugli impianti;   
+modelli matematici;   
+modelli per sistemi idrici (sem.);   
+optoelettronica;   
+organizzazione aziendale (sem.);   
+ottimizzazione ed identificazione;   
+principi di processo di trattamento degli effluenti;   
+progetti di strutture;   
+progetto di componenti e circuiti integrati;   
+reti logiche e tecniche digitali;   
+ricerca operativa;   
+rifiuti solidi (sem.);   
+risorse idriche;   
+scienza dei materiali;   
+scienza e valorizzazione dei beni culturali;   
+sicurezza del lavoro;   
+sistemi biologici;   
+sistemi di comunicazioni elettriche;   
+sistemi di regolazione;   
+sistemi di trasporto;   
+sistemi elettroottici;   
+sistemi per l'elaborazione dell'informazione;   
+strumentazione biomedica;   
+strumentazione elettronica;   
+tecnica ed economia dei trasporti II;   
+tecnica del traffico;   
+tecnica delle alte frequenze;   
+tecnica delle alte tensioni;   
+tecnica delle costruzioni II;   
+tecnica delle fondazioni;   
+tecnica telegrafica e telefonica;   
+tecnica urbanistica I;   
+tecnica urbanistica II;   
+tecniche elettromagnetiche e di diagnostica ambientale;   
+tecnologie delle acque di approvvigionamento e di rifiuto I;   
+tecnologie delle acque di approvvigionamento e di rifiuto II;   
+teoria della plasticita';   
+teoria dell'informazione;   
+teoria delle reti;   
+teoria e applicazione dei campi elettrici e magnetici;   
+trasduttori e strumentazione speciale;   
+trasporti speciali;   
+trazione elettrica.   
+Dall'elenco delle materie complementari la facolta' trarra', per i singoli corsi di laurea, le materie da attivare che indichera' anno per anno nel manifesto degli studi. In tale manifesto pero' le materie non figureranno isolate ma raggruppate a costituire indirizzi di specializzazione relativi a ciascun corso di laurea. Per ciascun indirizzo potranno al massimo essere prescritti sei corsi annuali (o equivalenti).   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 marzo 1980
+### Dato a Roma, addi' 27 febbraio 1980
 
 PERTINI VALITUTTI
 
 Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 29 luglio 1980
+Registrato alla Corte dei conti, addi' 26 giugno 1980
 
-Registro n. 72 Istruzione, foglio n. 271
+Registro n. 61 Istruzione, foglio n. 290

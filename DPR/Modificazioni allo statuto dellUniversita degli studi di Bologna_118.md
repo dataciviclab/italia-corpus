@@ -1,1147 +1,172 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1234
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 822
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1234
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 822
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-L'art. 97, relativo al corso di laurea in medicina e chirurgia, e' modificato nel senso che l'insegnamento complementare di oncologia sperimentale muta la denominazione in quella di oncologia.
-
-Gli articoli 146, 147 e 148, relativi all'ordinamento degli studi per il conseguimento delle varie lauree della facolta' di ingegneria, sono abrogati e sostituiti dai seguenti:
-
-Art. 146. - Nel primo anno di corso saranno impartiti, per tutti i corsi di laurea, i seguenti insegnamenti:
-
-analisi matematica I;
-
-geometria;
-
-fisica I;
-
-chimica;
-
-disegno.
-
-Per essere iscritto al secondo corso lo studente dovra' aver superato due almeno fra i quattro seguenti esami:
-
-analisi matematica I;
-
-geometria;
-
-fisica I;
-
-chimica.
-
-Nel secondo anno di corso saranno impartiti, per tutti i corsi di laurea, i seguenti insegnamenti:
-
-analisi matematica II;
-
-meccanica razionale;
-
-fisica II,
-
-oltre ad altri insegnamenti, diversi per i singoli corsi di laurea, che verranno inclusi, con l'annotazione secondo l'anno, negli elenchi delle materie relative ai corsi di laurea stessi.
-
-Per essere iscritti al terzo anno di corso gli studenti di tutti i corsi di laurea, ad eccezione dei corsi di laurea in ingegneria elettronica, chimica, elettrotecnica e nucleare, devono aver superato tutti gli esami relativi agli insegnamenti del primo anno e gli esami di almeno tre dei seguenti insegnamenti del secondo anno:
-
-analisi matematica II;
-
-fisica II;
-
-disegno II.
-
-Gli studenti dei corsi di laurea in ingegneria elettrotecnica ed elettronica, per essere iscritti al terzo anno, devono aver superato tutti gli esami relativi agli insegnamenti del primo anno e gli esami di almeno tre dei seguenti insegnamenti del secondo anno:
-
-analisi matematica II;
-
-meccanica razionale;
-
-fisica II;
-
-metodi di osservazione e misura.
-
-Gli studenti del corso di laurea in ingegneria chimica, per essere iscritti al terzo anno, devono aver superato tutti gli esami relativi agli insegnamenti del primo anno e gli esami di almeno tre dei seguenti insegnamenti del secondo anno:
-
-analisi matematica II;
-
-meccanica razionale;
-
-fisica II;
-
-chimica applicata.
-
-Gli studenti del corso di laurea in ingegneria nucleare, per essere iscritti al terzo anno, devono aver superato tutti gli esami relativi agli insegnamenti del primo anno e gli esami di almeno tre dei seguenti insegnamenti del secondo anno:
-
-analisi matematica II;
-
-meccanica razionale;
-
-fisica II;
-
-fisica atomica.
-
-Lo studente che sia stato iscritto al terzo anno e abbia superato soltanto tre degli esami relativi agli insegnamenti del secondo anno, elencati nei cinque precedenti commi, ha l'obbligo di superare il quarto esame prima di sostenere qualsiasi esame del triennio di applicazione.
-
-Art. 147. - Gli insegnamenti tenuti per i singoli corsi di laurea oltre a quelli gia' elencati come comuni a tutti i corsi stessi durante il primo ed il secondo anno, si distinguono in:
-
-a) obbligatori sul piano nazionale;
-
-b) obbligatori sul piano della facolta';
-
-c) a scelta per gruppi da parte degli studenti.
-
-Gli insegnamenti stessi sono qui sotto elencati per i diversi corsi di laurea.
-
-Due insegnamenti semestrali sono equivalenti ad un insegnamento annuale.
-
-Laurea in ingegneria civile (Sezione edile, idraulica, trasporti) 2° Anno:
-
-b) disegno II;
-
-b) litologia e geologia;
-
-a) tecnologia dei materiali e chimica applicata.
-
-Triennio di applicazione:
-
-a) architettura tecnica;
-
-a) elettrotecnica;
-
-a) fisica tecnica;
-
-a) idraulica;
-
-a) meccanica applicata alle macchine e macchine;
-
-a) scienza delle costruzioni;
-
-a) tecnica delle costruzioni;
-
-a) topografia.
-
-Sezione edile:
-
-a) architettura e composizione architettonica;
-
-b) costruzione di strade, ferrovie e aeroporti;
-
-b) fondamenti di economia ed estimo;
-
-b) tecnica urbanistica.
-
-Sei insegnamenti (annuali o equivalenti) a scelta dello studente, tratti da uno dei gruppi di indirizzo indicati, anno per anno, nel manifesto degli studi.
-
-Sezione idraulica:
-
-b) costruzione di strade, ferrovie e aeroporti;
-
-a) costruzioni idrauliche;
-
-b) idrologia e idrografia;
-
-b) impianti idraulici;
-
-b) tecnica della progettazione idraulica.
-
-Cinque insegnamenti (annuali o equivalenti) a scelta dello studente, tratti da uno dei gruppi di indirizzo indicati, anno per anno, nel manifesto degli studi.
-
-Sezione trasporti:
-
-b) costruzione di ponti;
-
-a) costruzione di strade, ferrovie e aeroporti;
-
-b) fondamenti di economia ed estimo;
-
-b) tecnica ed economia dei trasporti;
-
-b) tecnica urbanistica.
-
-Cinque insegnamenti (annuali o equivalenti) a scelta dello studente tratti da uno dei gruppi di indirizzo indicati, anno per anno, nel manifesto degli studi.
-
-Laurea in ingegneria meccanica
-
-2° Anno:
-
-b) disegno II;
-
-a) chimica applicata.
-
-Triennio di applicazione:
-
-b) complementi di macchine;
-
-a) costruzione di macchine;
-
-b) dinamica e controllo delle macchine a fluido;
-
-b) economia e organizzazione aziendale;
-
-a) elettrotecnica;
-
-a) fisica tecnica;
-
-a) idraulica;
-
-a) impianti meccanici;
-
-a) macchine;
-
-b) meccanica applicata alle macchine;
-
-b) macchine utensili;
-
-b) misure meccaniche e termiche;
-
-b) progetti di macchine;
-
-a) scienza delle costruzioni;
-
-a) tecnologia meccanica.
-
-Quattro insegnamenti (annuali o equivalenti) a scelta dello studente tratti da uno dei gruppi di indirizzo indicati, anno per anno, nel manifesto degli studi.
-
-Laurea in ingegneria elettrotecnica
-
-2° Anno:
-
-b) calcolo numerico e programmazione;
-
-b) metodi di osservazione e misura.
-
-Triennio di applicazione:
-
-b) controlli automatici;
-
-b) economia dell'ingegneria;
-
-a) elettronica applicata;
-
-a) elettrotecnica I;
-
-b) elettrotecnica II;
-
-a) fisica tecnica;
-
-a) idraulica;
-
-a) impianti elettrici;
-
-a) macchine;
-
-a) macchine elettriche;
-
-a) meccanica applicata alle macchine;
-
-a) misure elettriche;
-
-a) scienza delle costruzioni;
-
-b) tecnologie elettriche.
-
-Cinque insegnamenti (annuali o equivalenti) a scelta dello studente, tratti da uno dei gruppi di indirizzo indicati, anno per anno, nel manifesto degli studi.
-
-Laurea in ingegneria chimica
-
-2° Anno:
-
-a) chimica applicata;
-
-a) chimica organica.
-
-Triennio di applicazione:
-
-b) calcolo numerico e programmazione;
-
-a) chimica fisica;
-
-a) chimica industriale;
-
-a) elettrotecnica;
-
-a) fisica tecnica;
-
-a) impianti chimici;
-
-b) impianti chimici II;
-
-a) macchine;
-
-a) meccanica applicata alle macchine;
-
-a) principi di ingegneria chimica;
-
-b) principi di ingegneria chimica II;
-
-b) scienza dei materiali;
-
-a) scienza delle costruzioni;
-
-b) strumentazione chimica.
-
-Cinque insegnamenti (annuali o equivalenti) a scelta dello studente, tratti da uno dei gruppi di indirizzo indicati, anno per anno, nel manifesto degli studi.
-
-Laurea in ingegneria mineraria
-
-2° Anno:
-
-a) chimica applicata;
-
-b) disegno II;
-
-b) mineralogia e petrografia.
-
-Triennio di applicazione:
-
-a) arte mineraria;
-
-a) elettrotecnica;
-
-a) fisica tecnica;
-
-b) geofisica mineraria;
-
-a) geologia;
-
-a) giacimenti minerari;
-
-b) idraulica;
-
-a) macchine;
-
-a) meccanica applicata alle macchine;
-
-b) meccanica dei giacimenti di idrocarburi;
-
-b) meccanica delle rocce;
-
-a) scienza delle costruzioni;
-
-b) tecnica dei sondaggi;
-
-a) topografia.
-
-Quattro insegnamenti (annuali o equivalenti) a scelta dello studente, tratti da uno dei gruppi di indirizzo indicati, anno per anno, nel manifesto degli studi.
-
-Laurea in ingegneria elettronica
-
-2° Anno:
-
-b) calcolo numerico e programmazione;
-
-b) metodi di osservazione e misura.
-
-Triennio di applicazione:
-
-a) campi elettromagnetici e circuiti I;
-
-b) complementi di matematiche;
-
-a) comunicazioni elettriche I;
-
-a) controlli automatici I;
-
-b) economia ed organizzazione aziendale;
-
-a) elettronica applicata I;
-
-b) elettronica applicata II;
-
-a) elettrotecnica I;
-
-a) fisica tecnica;
-
-a) meccanica delle macchine e macchine;
-
-a) misure elettriche;
-
-a) radiotecnica;
-
-b) reti logiche;
-
-a) scienza delle costruzioni;
-
-b) teoria dei sistemi.
-
-Quattro insegnamenti (annuali o equivalenti) a scelta dello studente, tratti da uno dei gruppi di indirizzo indicati, anno per anno, nel manifesto degli studi.
-
-Laurea in ingegneria nucleare
-
-2° Anno:
-
-a) fisica atomica.
-
-Triennio di applicazione:
-
-b) cinetica e controllo del reattore nucleare;
-
-b) elementi di ingegneria del reattore nucleare;
-
-a) elettronica nucleare;
-
-a) elettrotecnica;
-
-a) fisica del reattore nucleare;
-
-a) fisica nucleare;
-
-a) fisica tecnica;
-
-a) impianti nucleari;
-
-a) macchine;
-
-a) meccanica delle macchine;
-
-b) misura delle radiazioni e protezione;
-
-b) problemi matematici dei reattori nucleari;
-
-a) scienza delle costruzioni;
-
-b) termotecnica del reattore.
-
-Sei insegnamenti (annuali o equivalenti) a scelta dello studente tratti da uno dei gruppi di indirizzo indicati, anno per anno, nel manifesto degli studi.
-
-Art. 148. - Insegnamenti a scelta:
-
-acquedotti e fognature (semestrale);
-
-acustica applicata e illuminotecnica;
-
-aerodinamica;
-
-analisi dei processi chimici;
-
-analisi dei sistemi dell'ingegneria chimica;
-
-analisi di sicurezza degli impianti nucleari;
-
-analisi funzionale;
-
-analisi numerica;
-
-analisi sperimentale delle tensioni;
-
-analisi strutturale con l'elaboratore elettronico;
-
-applicazioni industriali dell'elettrotecnica;
-
-automazione e organizzazione sanitaria;
-
-bioautomatica;
-
-biomeccanica e biomacchine;
-
-calcolatori elettronici;
-
-calcolo delle macchine elettriche;
-
-calcolo delle probabilita' e processi stocastici;
-
-calcolo termomeccanico di componenti nucleari;
-
-campi elettromagnetici e circuiti II;
-
-caratteri distributivi degli edifici;
-
-centrali elettriche;
-
-chimica e tecnologia dei prodotti ceramici;
-
-chimica fisica II;
-
-chimica fisica dei materiali elettrici;
-
-chimica fisica dei materiali nucleari;
-
-chimica fisica dei polimeri;
-
-cicli di fabbricazione;
-
-ciclo di combustibile nucleare;
-
-codici di calcolo per reattori nucleari;
-
-combustibili nucleari;
-
-complementi di arte mineraria;
-
-complementi di costruzione di macchine;
-
-complementi di costruzione di strade, ferrovie ed aeroporti;
-
-complementi di idraulica;
-
-complementi di idrologia;
-
-complementi di macchine elettriche;
-
-complementi di meccanica applicata;
-
-complementi di misure elettriche;
-
-complementi di neutronica;
-
-complementi di scienza delle costruzioni;
-
-complementi di tecnica delle costruzioni;
-
-complementi di tecnica ed economia dei trasporti;
-
-complementi di tecnica urbanistica;
-
-complementi di topografia;
-
-comportamento meccanico dei materiali negli impianti nucleari;
-
-comunicazioni elettriche;
-
-comunicazioni elettriche II;
-
-conservazione edilizia e tecnologia del restauro;
-
-consolidamento dei terreni;
-
-controlli automatici II;
-
-controlli idraulici e pneumatici;
-
-controllo dei processi;
-
-costruzione di apparecchiature chimiche;
-
-costruzione di macchine automatiche;
-
-costruzioni aeronautiche;
-
-costruzioni elettromeccaniche;
-
-costruzioni marittime e fluviali;
-
-costruzioni nucleari;
-
-costruzioni per l'industria;
-
-difesa e conservazione del suolo;
-
-dinamica e controllo delle apparecchiature chimiche;
-
-economia dell'energia;
-
-elementi di architettura tecnica;
-
-elementi di fisica e di ingegneria dei plasmi;
-
-elettroacustica;
-
-elettronica applicata III;
-
-elettronica industriale;
-
-elettronica quantistica;
-
-esercizio delle reti elettriche di energia;
-
-fenomeni chimici e di trasporto nell'inquinamento;
-
-fisica matematica;
-
-fluidodinamica;
-
-fondamenti di economia politica;
-
-fotogrammetria;
-
-gasdinamica;
-
-generatori di vapore;
-
-geoingegneria ambientale;
-
-geotecnica (semestrale);
-
-gestione dell'informazione;
-
-grandi utilizzazioni dell'energia elettrica;
-
-idraulica fluviale;
-
-idrogeologia applicata (semestrale);
-
-impianti chimici III;
-
-impianti di controllo del traffico;
-
-impianti idroelettrici e di rivalutazione dell'energia;
-
-impianti minerari;
-
-impianti tecnici civili;
-
-impianti tecnici industriali;
-
-ingegneria sanitaria;
-
-ingegneria sismica (semestrale);
-
-linguaggi di programmazione;
-
-legislazione mineraria (semestrale);
-
-macchine e circuiti pneumatici;
-
-macchine ed impianti elettrici;
-
-macchine oleodinamiche;
-
-materiali speciali per l'elettrotecnica;
-
-meccanica quantistica;
-
-meccanica statistica applicata;
-
-metallurgia e metallografia;
-
-metodi di ottimizzazione;
-
-microelettronica;
-
-microonde;
-
-misure e controlli nei giacimenti di idrocarburi;
-
-misure e modelli idraulici;
-
-misure e regolazione degli impianti elettrici;
-
-motori a combustione interna;
-
-neutronica applicata;
-
-organizzazione della produzione;
-
-pianificazione degli impianti meccanici;
-
-pianificazione delle risorse idriche;
-
-preparazione dei minerali;
-
-principi di diritto (semestrale);
-
-principi di ingegneria chimica III;
-
-processi chimici unitari;
-
-processi industriali applicati all'edilizia;
-
-produzione e trasporto degli idrocarburi;
-
-progettazione assistita di strutture meccaniche;
-
-progettazione automatica dei circuiti elettronici;
-
-progetti di strutture;
-
-progetto termomeccanico del nocciolo;
-
-programmazione dello sviluppo e dell'assetto del territorio;
-
-proprieta' fisiche e tecnologiche degli alti polimeri;
-
-proprieta' termodinamiche e di trasporto;
-
-psicologia e organizzazione del lavoro;
-
-reattori avanzati;
-
-ricerca operativa;
-
-scienza dei metalli;
-
-sistemi per l'elaborazione dell'informazione;
-
-statistica applicata;
-
-storia dell'architettura e dell'urbanistica;
-
-strumentazione biomedica;
-
-strumentazione elettronica;
-
-strumentazione e regolazione degli impianti nucleari;
-
-strumentazione industriale;
-
-sviluppo e disegno degli impianti chimici;
-
-tecnica della circolazione;
-
-tecnica della pianificazione dei trasporti;
-
-tecnica delle alte tensioni;
-
-tecnica delle fondazioni (semestrale);
-
-tecnica ed organizzazione dei cantieri;
-
-tecniche di analisi territoriale;
-
-tecnologia chimica del disinquinamento;
-
-tecnologie dei materiali;
-
-tecnologie dei materiali nucleari;
-
-tecnologie dei sistemi di controllo;
-
-tecnologie elettroniche;
-
-tecnologie generali;
-
-tecnologie speciali;
-
-tecnologie tessili;
-
-teoria dei sistemi e del controllo;
-
-teoria e sviluppo dei processi chimici;
-
-trazione e propulsione;
-
-trazione elettrica;
-
-turbomacchine.
-
-Integrano l'elenco, ai fini della costituzione dei gruppi di indirizzo dei singoli corsi di laurea o sezioni, gli insegnamenti di tipo a) e di tipo b) di altri corsi di laurea o sezioni, previsti nell'art. 147. Gli insegnamenti di cui al presente articolo cosi' come quelli di cui agli articoli 146 e 147, potranno avere svolgimento diverso per i diversi corsi di laurea, sezioni e indirizzi.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1977
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 15 luglio 1978 Registro n. 75 Istruzione, foglio n. 303
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-L'art. 97, relativo al corso di laurea in medicina e chirurgia, e' modificato nel senso che l'insegnamento complementare di oncologia sperimentale muta la denominazione in quella di oncologia.   
-Gli articoli 146, 147 e 148, relativi all'ordinamento degli studi per il conseguimento delle varie lauree della facolta' di ingegneria, sono abrogati e sostituiti dai seguenti:   
-Art. 146. - Nel primo anno di corso saranno impartiti, per tutti i corsi di laurea, i seguenti insegnamenti:   
-analisi matematica I;   
-geometria;   
-fisica I;   
-chimica;   
-disegno.   
-Per essere iscritto al secondo corso lo studente dovra' aver superato due almeno fra i quattro seguenti esami:   
-analisi matematica I;   
-geometria;   
-fisica I;   
-chimica.   
-Nel secondo anno di corso saranno impartiti, per tutti i corsi di laurea, i seguenti insegnamenti:   
-analisi matematica II;   
-meccanica razionale;   
-fisica II,   
-oltre ad altri insegnamenti, diversi per i singoli corsi di laurea, che verranno inclusi, con l'annotazione secondo l'anno, negli elenchi delle materie relative ai corsi di laurea stessi.   
-Per essere iscritti al terzo anno di corso gli studenti di tutti i corsi di laurea, ad eccezione dei corsi di laurea in ingegneria elettronica, chimica, elettrotecnica e nucleare, devono aver superato tutti gli esami relativi agli insegnamenti del primo anno e gli esami di almeno tre dei seguenti insegnamenti del secondo anno:   
-analisi matematica II;   
-fisica II;   
-disegno II.   
-Gli studenti dei corsi di laurea in ingegneria elettrotecnica ed elettronica, per essere iscritti al terzo anno, devono aver superato tutti gli esami relativi agli insegnamenti del primo anno e gli esami di almeno tre dei seguenti insegnamenti del secondo anno:   
-analisi matematica II;   
-meccanica razionale;   
-fisica II;   
-metodi di osservazione e misura.   
-Gli studenti del corso di laurea in ingegneria chimica, per essere iscritti al terzo anno, devono aver superato tutti gli esami relativi agli insegnamenti del primo anno e gli esami di almeno tre dei seguenti insegnamenti del secondo anno:   
-analisi matematica II;   
-meccanica razionale;   
-fisica II;   
-chimica applicata.   
-Gli studenti del corso di laurea in ingegneria nucleare, per essere iscritti al terzo anno, devono aver superato tutti gli esami relativi agli insegnamenti del primo anno e gli esami di almeno tre dei seguenti insegnamenti del secondo anno:   
-analisi matematica II;   
-meccanica razionale;   
-fisica II;   
-fisica atomica.   
-Lo studente che sia stato iscritto al terzo anno e abbia superato soltanto tre degli esami relativi agli insegnamenti del secondo anno, elencati nei cinque precedenti commi, ha l'obbligo di superare il quarto esame prima di sostenere qualsiasi esame del triennio di applicazione.   
-Art. 147. - Gli insegnamenti tenuti per i singoli corsi di laurea oltre a quelli gia' elencati come comuni a tutti i corsi stessi durante il primo ed il secondo anno, si distinguono in:   
-a) obbligatori sul piano nazionale;   
-b) obbligatori sul piano della facolta';   
-c) a scelta per gruppi da parte degli studenti.   
-Gli insegnamenti stessi sono qui sotto elencati per i diversi corsi di laurea.   
-Due insegnamenti semestrali sono equivalenti ad un insegnamento annuale.   
-Laurea in ingegneria civile (Sezione edile, idraulica, trasporti) 2° Anno:   
-b) disegno II;   
-b) litologia e geologia;   
-a) tecnologia dei materiali e chimica applicata.   
-Triennio di applicazione:   
-a) architettura tecnica;   
-a) elettrotecnica;   
-a) fisica tecnica;   
-a) idraulica;   
-a) meccanica applicata alle macchine e macchine;   
-a) scienza delle costruzioni;   
-a) tecnica delle costruzioni;   
-a) topografia.   
-Sezione edile:   
-a) architettura e composizione architettonica;   
-b) costruzione di strade, ferrovie e aeroporti;   
-b) fondamenti di economia ed estimo;   
-b) tecnica urbanistica.   
-Sei insegnamenti (annuali o equivalenti) a scelta dello studente, tratti da uno dei gruppi di indirizzo indicati, anno per anno, nel manifesto degli studi.   
-Sezione idraulica:   
-b) costruzione di strade, ferrovie e aeroporti;   
-a) costruzioni idrauliche;   
-b) idrologia e idrografia;   
-b) impianti idraulici;   
-b) tecnica della progettazione idraulica.   
-Cinque insegnamenti (annuali o equivalenti) a scelta dello studente, tratti da uno dei gruppi di indirizzo indicati, anno per anno, nel manifesto degli studi.   
-Sezione trasporti:   
-b) costruzione di ponti;   
-a) costruzione di strade, ferrovie e aeroporti;   
-b) fondamenti di economia ed estimo;   
-b) tecnica ed economia dei trasporti;   
-b) tecnica urbanistica.   
-Cinque insegnamenti (annuali o equivalenti) a scelta dello studente tratti da uno dei gruppi di indirizzo indicati, anno per anno, nel manifesto degli studi.   
-Laurea in ingegneria meccanica   
-2° Anno:   
-b) disegno II;   
-a) chimica applicata.   
-Triennio di applicazione:   
-b) complementi di macchine;   
-a) costruzione di macchine;   
-b) dinamica e controllo delle macchine a fluido;   
-b) economia e organizzazione aziendale;   
-a) elettrotecnica;   
-a) fisica tecnica;   
-a) idraulica;   
-a) impianti meccanici;   
-a) macchine;   
-b) meccanica applicata alle macchine;   
-b) macchine utensili;   
-b) misure meccaniche e termiche;   
-b) progetti di macchine;   
-a) scienza delle costruzioni;   
-a) tecnologia meccanica.   
-Quattro insegnamenti (annuali o equivalenti) a scelta dello studente tratti da uno dei gruppi di indirizzo indicati, anno per anno, nel manifesto degli studi.   
-Laurea in ingegneria elettrotecnica   
-2° Anno:   
-b) calcolo numerico e programmazione;   
-b) metodi di osservazione e misura.   
-Triennio di applicazione:   
-b) controlli automatici;   
-b) economia dell'ingegneria;   
-a) elettronica applicata;   
-a) elettrotecnica I;   
-b) elettrotecnica II;   
-a) fisica tecnica;   
-a) idraulica;   
-a) impianti elettrici;   
-a) macchine;   
-a) macchine elettriche;   
-a) meccanica applicata alle macchine;   
-a) misure elettriche;   
-a) scienza delle costruzioni;   
-b) tecnologie elettriche.   
-Cinque insegnamenti (annuali o equivalenti) a scelta dello studente, tratti da uno dei gruppi di indirizzo indicati, anno per anno, nel manifesto degli studi.   
-Laurea in ingegneria chimica   
-2° Anno:   
-a) chimica applicata;   
-a) chimica organica.   
-Triennio di applicazione:   
-b) calcolo numerico e programmazione;   
-a) chimica fisica;   
-a) chimica industriale;   
-a) elettrotecnica;   
-a) fisica tecnica;   
-a) impianti chimici;   
-b) impianti chimici II;   
-a) macchine;   
-a) meccanica applicata alle macchine;   
-a) principi di ingegneria chimica;   
-b) principi di ingegneria chimica II;   
-b) scienza dei materiali;   
-a) scienza delle costruzioni;   
-b) strumentazione chimica.   
-Cinque insegnamenti (annuali o equivalenti) a scelta dello studente, tratti da uno dei gruppi di indirizzo indicati, anno per anno, nel manifesto degli studi.   
-Laurea in ingegneria mineraria   
-2° Anno:   
-a) chimica applicata;   
-b) disegno II;   
-b) mineralogia e petrografia.   
-Triennio di applicazione:   
-a) arte mineraria;   
-a) elettrotecnica;   
-a) fisica tecnica;   
-b) geofisica mineraria;   
-a) geologia;   
-a) giacimenti minerari;   
-b) idraulica;   
-a) macchine;   
-a) meccanica applicata alle macchine;   
-b) meccanica dei giacimenti di idrocarburi;   
-b) meccanica delle rocce;   
-a) scienza delle costruzioni;   
-b) tecnica dei sondaggi;   
-a) topografia.   
-Quattro insegnamenti (annuali o equivalenti) a scelta dello studente, tratti da uno dei gruppi di indirizzo indicati, anno per anno, nel manifesto degli studi.   
-Laurea in ingegneria elettronica   
-2° Anno:   
-b) calcolo numerico e programmazione;   
-b) metodi di osservazione e misura.   
-Triennio di applicazione:   
-a) campi elettromagnetici e circuiti I;   
-b) complementi di matematiche;   
-a) comunicazioni elettriche I;   
-a) controlli automatici I;   
-b) economia ed organizzazione aziendale;   
-a) elettronica applicata I;   
-b) elettronica applicata II;   
-a) elettrotecnica I;   
-a) fisica tecnica;   
-a) meccanica delle macchine e macchine;   
-a) misure elettriche;   
-a) radiotecnica;   
-b) reti logiche;   
-a) scienza delle costruzioni;   
-b) teoria dei sistemi.   
-Quattro insegnamenti (annuali o equivalenti) a scelta dello studente, tratti da uno dei gruppi di indirizzo indicati, anno per anno, nel manifesto degli studi.   
-Laurea in ingegneria nucleare   
-2° Anno:   
-a) fisica atomica.   
-Triennio di applicazione:   
-b) cinetica e controllo del reattore nucleare;   
-b) elementi di ingegneria del reattore nucleare;   
-a) elettronica nucleare;   
-a) elettrotecnica;   
-a) fisica del reattore nucleare;   
-a) fisica nucleare;   
-a) fisica tecnica;   
-a) impianti nucleari;   
-a) macchine;   
-a) meccanica delle macchine;   
-b) misura delle radiazioni e protezione;   
-b) problemi matematici dei reattori nucleari;   
-a) scienza delle costruzioni;   
-b) termotecnica del reattore.   
-Sei insegnamenti (annuali o equivalenti) a scelta dello studente tratti da uno dei gruppi di indirizzo indicati, anno per anno, nel manifesto degli studi.   
-Art. 148. - Insegnamenti a scelta:   
-acquedotti e fognature (semestrale);   
-acustica applicata e illuminotecnica;   
-aerodinamica;   
-analisi dei processi chimici;   
-analisi dei sistemi dell'ingegneria chimica;   
-analisi di sicurezza degli impianti nucleari;   
-analisi funzionale;   
-analisi numerica;   
-analisi sperimentale delle tensioni;   
-analisi strutturale con l'elaboratore elettronico;   
-applicazioni industriali dell'elettrotecnica;   
-automazione e organizzazione sanitaria;   
-bioautomatica;   
-biomeccanica e biomacchine;   
-calcolatori elettronici;   
-calcolo delle macchine elettriche;   
-calcolo delle probabilita' e processi stocastici;   
-calcolo termomeccanico di componenti nucleari;   
-campi elettromagnetici e circuiti II;   
-caratteri distributivi degli edifici;   
-centrali elettriche;   
-chimica e tecnologia dei prodotti ceramici;   
-chimica fisica II;   
-chimica fisica dei materiali elettrici;   
-chimica fisica dei materiali nucleari;   
-chimica fisica dei polimeri;   
-cicli di fabbricazione;   
-ciclo di combustibile nucleare;   
-codici di calcolo per reattori nucleari;   
-combustibili nucleari;   
-complementi di arte mineraria;   
-complementi di costruzione di macchine;   
-complementi di costruzione di strade, ferrovie ed aeroporti;   
-complementi di idraulica;   
-complementi di idrologia;   
-complementi di macchine elettriche;   
-complementi di meccanica applicata;   
-complementi di misure elettriche;   
-complementi di neutronica;   
-complementi di scienza delle costruzioni;   
-complementi di tecnica delle costruzioni;   
-complementi di tecnica ed economia dei trasporti;   
-complementi di tecnica urbanistica;   
-complementi di topografia;   
-comportamento meccanico dei materiali negli impianti nucleari;   
-comunicazioni elettriche;   
-comunicazioni elettriche II;   
-conservazione edilizia e tecnologia del restauro;   
-consolidamento dei terreni;   
-controlli automatici II;   
-controlli idraulici e pneumatici;   
-controllo dei processi;   
-costruzione di apparecchiature chimiche;   
-costruzione di macchine automatiche;   
-costruzioni aeronautiche;   
-costruzioni elettromeccaniche;   
-costruzioni marittime e fluviali;   
-costruzioni nucleari;   
-costruzioni per l'industria;   
-difesa e conservazione del suolo;   
-dinamica e controllo delle apparecchiature chimiche;   
-economia dell'energia;   
-elementi di architettura tecnica;   
-elementi di fisica e di ingegneria dei plasmi;   
-elettroacustica;   
-elettronica applicata III;   
-elettronica industriale;   
-elettronica quantistica;   
-esercizio delle reti elettriche di energia;   
-fenomeni chimici e di trasporto nell'inquinamento;   
-fisica matematica;   
-fluidodinamica;   
-fondamenti di economia politica;   
-fotogrammetria;   
-gasdinamica;   
-generatori di vapore;   
-geoingegneria ambientale;   
-geotecnica (semestrale);   
-gestione dell'informazione;   
-grandi utilizzazioni dell'energia elettrica;   
-idraulica fluviale;   
-idrogeologia applicata (semestrale);   
-impianti chimici III;   
-impianti di controllo del traffico;   
-impianti idroelettrici e di rivalutazione dell'energia;   
-impianti minerari;   
-impianti tecnici civili;   
-impianti tecnici industriali;   
-ingegneria sanitaria;   
-ingegneria sismica (semestrale);   
-linguaggi di programmazione;   
-legislazione mineraria (semestrale);   
-macchine e circuiti pneumatici;   
-macchine ed impianti elettrici;   
-macchine oleodinamiche;   
-materiali speciali per l'elettrotecnica;   
-meccanica quantistica;   
-meccanica statistica applicata;   
-metallurgia e metallografia;   
-metodi di ottimizzazione;   
-microelettronica;   
-microonde;   
-misure e controlli nei giacimenti di idrocarburi;   
-misure e modelli idraulici;   
-misure e regolazione degli impianti elettrici;   
-motori a combustione interna;   
-neutronica applicata;   
-organizzazione della produzione;   
-pianificazione degli impianti meccanici;   
-pianificazione delle risorse idriche;   
-preparazione dei minerali;   
-principi di diritto (semestrale);   
-principi di ingegneria chimica III;   
-processi chimici unitari;   
-processi industriali applicati all'edilizia;   
-produzione e trasporto degli idrocarburi;   
-progettazione assistita di strutture meccaniche;   
-progettazione automatica dei circuiti elettronici;   
-progetti di strutture;   
-progetto termomeccanico del nocciolo;   
-programmazione dello sviluppo e dell'assetto del territorio;   
-proprieta' fisiche e tecnologiche degli alti polimeri;   
-proprieta' termodinamiche e di trasporto;   
-psicologia e organizzazione del lavoro;   
-reattori avanzati;   
-ricerca operativa;   
-scienza dei metalli;   
-sistemi per l'elaborazione dell'informazione;   
-statistica applicata;   
-storia dell'architettura e dell'urbanistica;   
-strumentazione biomedica;   
-strumentazione elettronica;   
-strumentazione e regolazione degli impianti nucleari;   
-strumentazione industriale;   
-sviluppo e disegno degli impianti chimici;   
-tecnica della circolazione;   
-tecnica della pianificazione dei trasporti;   
-tecnica delle alte tensioni;   
-tecnica delle fondazioni (semestrale);   
-tecnica ed organizzazione dei cantieri;   
-tecniche di analisi territoriale;   
-tecnologia chimica del disinquinamento;   
-tecnologie dei materiali;   
-tecnologie dei materiali nucleari;   
-tecnologie dei sistemi di controllo;   
-tecnologie elettroniche;   
-tecnologie generali;   
-tecnologie speciali;   
-tecnologie tessili;   
-teoria dei sistemi e del controllo;   
-teoria e sviluppo dei processi chimici;   
-trazione e propulsione;   
-trazione elettrica;   
-turbomacchine.   
-Integrano l'elenco, ai fini della costituzione dei gruppi di indirizzo dei singoli corsi di laurea o sezioni, gli insegnamenti di tipo a) e di tipo b) di altri corsi di laurea o sezioni, previsti nell'art. 147. Gli insegnamenti di cui al presente articolo cosi' come quelli di cui agli articoli 146 e 147, potranno avere svolgimento diverso per i diversi corsi di laurea, sezioni e indirizzi.   
+Dopo l'art. 297 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in psicologia.   
+Scuola di specializzazione in psicologia   
+Art. 298. - Presso l'istituto di pedagogia della facolta' di magistero e' istituita la scuola di specializzazione in psicologia la quale e' articolata nei seguenti indirizzi:   
+a) differenziale e scolastico;   
+b) industriale e del lavoro;   
+c) sociale.   
+Art. 299. - La durata del corso della scuola e' di tre anni. La frequenza e' obbligatoria. Non sono consentite abbreviazioni di corso se non nei casi previsti dall'art. 315; ne' e' consentita la contemporanea iscrizione a piu' indirizzi distinti.   
+Art. 300. - La scuola conferisce il diploma di specialista in psicologia con l'indicazione dell'indirizzo seguito. Il diploma valido a tutti gli effetti di legge viene rilasciato all'allievo in rapporto all'indirizzo prescelto, seguito e concluso positivamente negli esami di profitto e diploma.   
+Art. 301. - Titoli per l'ammissione alla scuola sono:   
+il diploma di laurea rilasciato da qualsiasi facolta' Universita' italiana di Stato o ad essa parificata, ovvero un titolo straniero equipollente.   
+Art. 302. - Nelle domande di ammissione alla scuola deve essere specificato l'indirizzo che si desideri seguire. Nel caso di domande di iscrizione eccedenti il numero massimo stabilito dalla scuola e indicato ne manifesto-programma annuale di cui all'art. 313, il consiglio stesso procedera' all'accettazione delle domande attraverso un concorso di merito, le cui modalita' verranno fissate nello stesso manifesto annuale. Indipendentemente dalla limitazione delle iscrizioni, il consiglio della scuola puo' subordinare l'ammissione ad una prova di idoneita'.   
+Il numero massimo complessivo degli iscritti non puo' superare 75 unita'.   
+Art. 303. - Il corso e' costituito da lezioni teoriche esercitazioni pratiche, tirocini, seminari, conferenze. La attivita' didattica viene svolta per un numero di ore non inferiore alle 20 settimanali, per tutta la durata dell'anno accademico.   
+Gli insegnamenti statutari sono divisi in tre gruppi:   
+a) insegnamenti comuni a tutti gli indirizzi sopra indicati; tali insegnamenti sono obbligatori per tutti gli allievi, qualunque sia l'indirizzo prescelto;   
+b) insegnamenti specifici, peculiari a ciascuno de singoli indirizzi indicati nell'art. 298 e nel successivo art. 304; tali insegnamenti sono obbligatori nell'ambito dell'indirizzo prescelto;   
+c) insegnamenti integrativi.   
+Gli insegnamenti di cui al punto a) e b) sono fissati nel successivo art. 304, il quale stabilisce altresi' la distribuzione degli insegnamenti stessi nei vari anni.   
+Gli insegnamenti di cui al punto c) vengono stabiliti anno per anno dal consiglio della scuola e pubblicati nel manifesto-programma annuale, insieme allo elenco degli insegnamenti di cui ai punti a) e b).   
+Art. 304. - Gli insegnamenti di cui al punto a) dell'articolo precedente sono:   
+1) Metodologia generale e speciale della ricerca psicologica (triennale: 1°, 2°, 3° anno);   
+2) Metodologia statistica generale e psicometria (annuale: 1° anno);   
+3) Psicologia generale (triennale: 1°, 2°, 3° anno);   
+4) Teoria della personalita' (biennale: 1° e 2° anno);   
+5) Psicologia dinamica (annuale: 2° anno);   
+6) Psicologia differenziale (annuale: 1° anno);   
+7) Psicologia sociale (biennale: 1° e 2° anno);   
+8) Tecniche psicodiagnostiche (biennale: 1° e 2° anno).   
+Gli insegnamenti specifici di cui al punto b) dell'articolo precedente, sono:   
+A) Per l'indirizzo "differenziale e scolastico":   
+1) Fondamenti di biologia generale e di anatomia e fisiologia umana (biennale: 1° e 2° anno);   
+2) Psicologia dell'eta' evolutiva (triennale: 1°, 2° e 3° anno);   
+3) Pedagogia (annuale: 1° anno);   
+4) Istituzioni di psicopatologia e di igiene mentale (annuale: 1° anno);   
+5) Psicologia pedagogica (annuale: 1° anno);   
+6) Psicologia del disadattamento scolastico e professionale nell'eta' evolutiva (annuale: 2° anno);   
+7) Docimologia e tecniche della valutazione scolastica (annuale: 2° anno);   
+8) Tecniche psicodiagnostiche individuali e di gruppo (biennale: 2° e 3° anno);   
+9) Orientamento scolastico e professionale (annuale: 3° anno).   
+B) Per l'indirizzo "industriale e del lavoro":   
+1) Fondamenti di biologia generale e di anatomia e fisiologia umana (biennale: 1° e 2° anno);   
+2) Istituzioni di psicopatologia e di igiene mentale (annuale: 1° anno);   
+3) Psicologia del lavoro (annuale: 1° anno);   
+4) Metodologia statistica e psicometrica (corso avanzato, annuale: 2° anno);   
+5) Ergonomia (annuale: 1° anno);   
+6) Analisi e valutazione delle mansioni e profili professionali (annuale: 2° anno);   
+7) Psicologia del disadattamento lavorativo (annuale: 3° anno).   
+C) Per l'indirizzo "sociale":   
+1) Antropologia culturale (annuale: 1° anno);   
+2) Sociologia (annuale: 1° anno);   
+3) Psicologia delle comunicazioni (biennale: 1° e 2° anno);   
+4) Tecniche quantitative dell'indagine psicosociale (annuale: 2° anno);   
+5) Ricerca motivazionale (annuale: 2° anno);   
+6) Psicologia sociale (corso avanzato, annuale: 3° anno);   
+7) Dinamiche di gruppo (annuale: 3° anno);   
+8) Tecniche di studio dell'opinione pubblica (annuale: 3° anno);   
+9) Patologia e controllo sociale (annuale: 3° anno).   
+Gli insegnamenti annuali "integrativi" di cui al punto c) dell'articolo precedente, vanno scelti nell'ambito dell'elenco che segue:   
+1) Storia della psicologia;   
+2) Filosofia della scienza;   
+3) Cibernetica;   
+4) Psicologia zoologica;   
+5) Psicolinguistica;   
+6) Organizzazione sanitaria;   
+7) Organizzazione scolastica;   
+8) Auxologia;   
+9) Neuropsichiatria infantile;   
+10) Pedagogia speciale e differenziale;   
+11) Igiene generale;   
+12) Medicina del lavoro;   
+13) Legislazione sanitaria;   
+14) Legislazione scolastica;   
+15) Deontologia professionale;   
+16) Sessuologia;   
+17) Psicogerontologia;   
+18) Statistica economica;   
+19) Psicologia della propaganda;   
+20) Psicologia dello sport;   
+21) Psicologia e pedagogia della comunicazione di massa;   
+22) Filmologia;   
+23) Istruzione programmata;   
+24) Psicologia della didattica e dell'apprendimento scolastico;  
+25) Infortunistica del lavoro;   
+26) Psicologia economica;   
+27) Psicologia clinica;   
+28) Psicologia criminologica, giudiziaria e penitenziaria;   
+29) Edilizia scolastica;   
+30) Etologia.   
+Gli insegnamenti specifici di ciascuno dei tre indirizzi, possono valere come integrativi per gli altri indirizzi che non li comprendono, sempre naturalmente nel caso che il funzionamento degli indirizzi stessi sia previsto dal manifesto-programma annuale.   
+Il manifesto-programma annuale, di cui all'art. 313 indichera' quali indirizzi verranno realizzati e quali insegnamenti integrativi verranno impartiti dalla scuola, durante l'anno accademico.   
+L'eventuale scissione degli insegnamenti in piu' rami distinti, sia ai fini dell'insegnamento che degli esami di profitto, ovvero l'eventuale, loro raggruppamento ai fini degli esami, risulteranno dal manifesto-programma annuale di cui all'art. 313.   
+Art. 305. - Gli esami sono di profitto e di diploma.   
+Per essere ammessi agli esami annuali di profitto l'allievo deve aver frequentato assiduamente le lezioni, le esercitazioni, i tirocini, i seminari, ecc. svolti dalla scuola nel relativo anno di corso.   
+Per essere ammesso all'esame di diploma, l'allievo, oltre ad aver adempiuto a tutti gli obblighi di frequenza ed esame dei vari insegnamenti comuni e specifici e di almeno due degli insegnamenti integrativi, ed aver effettuato le esercitazioni prescritte, deve presentare una dissertazione scritta nonche' una relazione riassuntiva sulle esercitazioni e su eventuali tirocini effettuati nell'intero triennio.   
+L'esame di diploma consiste nella discussione della tesi e della relazione e, eventualmente, di una o piu' prove pratiche stabilite dal consiglio della scuola.   
+Art. 306. - Direttore della scuola e' il professore di ruolo titolare della cattedra di psicologia dell'eta' evolutiva della facolta' di magistero.   
+Il direttore della scuola, su conforme parere del consiglio della scuola stessa puo' proporre che un docente di essa assuma le funzioni di vicedirettore, con l'incarico annuale (riconfermabile) di coadiuvarlo e di sostituirlo; alla relativa nomina provvedera' il rettore.   
+Art. 307. - I docenti della scuola sono scelti tra i professori universitari di psicologia (di ruolo, fuori ruolo, aggregati, incaricati, liberi docenti), fra gli specializzati in psicologia o fra coloro che, per opere, uffici e insegnamenti tenuti, siano di riconosciuta competenza ed esperienza nelle discipline che formano oggetto dei corsi della scuola.   
+Alla nomina dei docenti provvede il rettore, su proposta presentata annualmente dal direttore della scuola e su parere conforme del consiglio della scuola stessa e della facolta'.   
+Art. 308. - Per i problemi riguardanti l'organizzazione didattica il direttore e' assistito da un consiglio della scuola composto: dal direttore stesso che lo presiede, dal vicedirettore (se designato), che presiede le adunanze del consiglio in caso di assenza o di impedimento del direttore, e da tutti i docenti che abbiano avuto regolare nomina rettorale.   
+Su proposta del direttore e sentito il parere del consiglio, uno dei docenti assolve anche le funzioni di segretario delle adunanze del consiglio stesso; alla relativa nomina provvede il rettore.   
+Art. 309. - Spetta al consiglio della scuola:   
+1) determinare, coordinare, approvare i programmi dei corsi teorici, delle esercitazioni, dei tirocini, dei seminari, ecc., relativi sia agli insegnamenti comuni, sia a quelli specifici, sia a quelli integrativi;   
+2) esprimere il proprio parere sulle proposte del direttore della scuola relativamente alla designazione dei docenti, da sottoporre quindi alla nomina rettorale, dopo l'approvazione della facolta';   
+3) determinare, coordinare, approvare gli orari dei vari insegnamenti, esercitazioni, seminari, ecc., e il diario, e le modalita' degli esami, sia di profitto che di diploma e la composizione delle relative commissioni;   
+4) stabilire le eventuali prove pratiche da far sostenere agli allievi in occasione dell'esame di diploma;   
+5) deliberare sulle domande di trasferimento di allievi di scuole di specializzazione in psicologia da una Universita' o facolta' ad un'altra e deliberare circa il passaggio da un indirizzo all'altro della scuola stessa conformemente a quanto stabilito dall'art. 314, determinandone gli eventuali ulteriori obblighi di frequenza e di esame;   
+6) determinare il numero massimo (in ogni caso non superiore a 25) ed eventualmente il numero minimo degli allievi che possono essere iscritti al primo anno di corso, tenendo conto che il numero degli allievi frequentanti contemporaneamente i tre corsi non superi i 75;   
+7) stabilire la composizione della commissione per l'esame di concorso di merito di cui al comma secondo dell'art. 302 e della commissione per le eventuali prove di idoneita' di cui al comma terzo del medesimo art. 302, nonche' le modalita' dei rispettivi concorsi o prove.   
+Art. 310. Il funzionamento amministrativo della scuola e' determinato, in armonia con le vigenti disposizioni sulle scuole di specializzazione, da un regolamento interno emanato dal rettore su proposta del direttore della scuola.   
+Art. 311. - Le entrate della scuola sono costituite dalle tasse, sopratasse e contributi scolastici e dai contributi erogati eventualmente dallo Stato, dalla Universita', da enti e da privati.   
+Art. 312. - Gli iscritti alla scuola sono tenuti al pagamento delle tasse, soprattasse e contributi generali nella misura stabilita dall'art. 192 dello statuto.   
+La misura dei contributi per le esercitazioni pratiche e per le altre prestazioni, di cui gli iscritti fruiscono durante il corso di studi, e' fissata dal consiglio di amministrazione dell'Universita' su proposta del senato accademico, sentito il parere del consiglio della facolta' di magistero e del consiglio della scuola.   
+Art. 313. - Il direttore della scuola, sulla base delle deliberazioni del consiglio della scuola, compila ogni anno il relativo manifesto-programma che, previa approvazione della facolta' di magistero, sara' reso di pubblica ragione.   
+Nel manifesto viene specificato:   
+1) l'indirizzo o gli indirizzi della scuola che saranno aperti nell'imminente anno accademico;   
+2) il numero massimo (in ogni caso non superiore a 25) e, eventualmente quello minimo, di domande di iscrizione che verranno accettate, tenuto conto che il numero complessivo degli iscritti frequentanti contemporaneamente i tre corsi non superi le 75 unita';   
+3) le modalita' del concorso di merito in caso di domande eccedenti il numero massimo di iscrizioni consentite;   
+4) l'eventuale indicazione di prove di idoneita' per l'ammissione alla scuola, conformemente al comma terzo dell'art. 302;   
+5) l'ordine degli studi con l'indicazione:   
+a) dell'eventuale scissione degli insegnamenti elencati nell'art. 304 in piu' rami distinti, ai fini dello insegnamento e degli esami di profitto;   
+b) dell'eventuale raggruppamento degli insegnamenti ai fini dell'esame di profitto;   
+c) della distribuzione degli insegnamenti nei vari anni di corso;   
+d) degli insegnamenti integrativi che verranno impartiti nell'anno;   
+e) dei docenti, per ciascun insegnamento ed anno di corso;   
+6) le modalita' e le condizioni degli esami di profitto e di diploma;   
+7) le tasse, le sopratasse e i contributi generali e speciali dovuti dagli allievi.   
+Art. 314. - L'inclusione della scuola nello statuto dell'Universita' non costituisce impegno ad impartire i relativi corsi: l'impegno e' costituito dalla pubblicazione del manifesto-programma annuale. Cio' vale, sia per la scuola nel suo insieme sia per i singoli indirizzi.   
+Art. 315. - E' prevista, a domanda dell'interessato e non oltre il termine del 2° anno di corso, la possibilita' di passaggio da un indirizzo ad un altro. L'accoglimento della relativa domanda, sempre subordinato alle condizioni previste dall'art. 314, ha luogo a giudizio insindacabile del consiglio della scuola e con piano di studi da stabilire caso per caso. Coloro che hanno compiuto l'intero triennio possono essere ammessi ad altro indirizzo con possibilita' di abbreviazione dei corsi, per convalida di esami gia' sostenuti, secondo quanto sara' stabilito caso per caso dal consiglio della scuola.   
+E' prevista l'ammissione al 20 anno di corso per coloro che hanno superato gli esami del 10 anno in una diversa scuola di specializzazione per convalida degli esami a giudizio insindacabile del consiglio della scuola.   
+Art. 316. - Norme transitorie: all'inizio del funzionamento della scuola, il direttore e' autorizzato a prendere tutte quelle decisioni e deliberazioni che, di norma, sono demandate al consiglio della scuola.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1977
+### Dato a Roma, addi' 31 ottobre 1974
 
 LEONE MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 15 luglio 1978
+Registrato alla Corte dei conti, addi' 27 gennaio 1975
 
-Registro n. 75 Istruzione, foglio n. 303
+Atti di Governo, registro n. 8, foglio n. 63

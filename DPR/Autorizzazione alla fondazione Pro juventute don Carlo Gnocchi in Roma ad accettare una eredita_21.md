@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1977 n. 796
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1980 n. 1043
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1977 n. 796
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1980 n. 1043
 ================================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-796. Decreto del Presidente della Repubblica 27 settembre 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.ra Zilli Margherita ved. Gritti, con testamento olografo del 14 maggio 1974 pubblicato a rogito del notaio Ferruccio Brambilla il 25 settembre 1974, n. 19605/2121 di repertorio, registrato a Busto Arsizio il 10 ottobre 1974 al n. 2080, vol. 155 A.P., consistente in un bene immobile sito in Milano, via Marocco, 3, distinto nel nuovo catasto edilizio urbano alla partita 24243 foglio 232, mappale 149 sub 1 e 2 e mappale 147 sub 1÷29, del valore presunto di L. 96.500.000, beni mobili consistenti in suppellettili e oggetti vari per un valore presunto di L. 2.360.050. Detti beni, al netto delle passivita', ammontano a L. 94.550.660.   
+1043. Decreto del Presidente della Repubblica 3 dicembre 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in beni mobili ed immobili per un valore al netto delle passivita' di L. 11.168.550, disposta dalla sig.na Jamoretti Amelia con testamento olografo 17 ottobre 1976, pubblicato in data 6 maggio 1977, n. 11/4 di repertorio, a rogito dott. Ulderico Brambilla, notaio in Milano, registrato a Milano in data 23 maggio 1977, n. 6248, serie I.  
   
-Visto, il Guardasigilli: BONIFACIO   
-Registrato alla Corte dei conti, addi' 26 ottobre 1977   
-Registro n. 8 Presidenza, foglio n. 255
+Visto, il Guardasigilli: SARTI  
+Registrato alla Corte dei conti, addi' 5 febbraio 1981  
+Registro n. 1 Presidenza, foglio n. 321

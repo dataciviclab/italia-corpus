@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1981 n. 348
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 dicembre 1983 n. 1119
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1981 n. 348
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 dicembre 1983 n. 1119
+================================================================
 
 Autorizzazione all'Accademia nazionale dei Lincei, in Roma, ad accettare una donazione.
 ---------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-348. Decreto del Presidente della Repubblica 2 maggio 1981, col quale, sulla proposta del Ministro per i beni culturali e ambientali, l'Accademia nazionale dei Lincei, in Roma, viene autorizzata ad accettare la donazione disposta dal prof. Giulio Ansaldi con atto pubblico 12 aprile 1978, n. 71322/31977 di repertorio, a rogito dott. Vincenzo Colapietro, notaio in Roma, consistente in una biblioteca privata d'arte, integrata da volumi di carattere storico, letterario e di cultura varia.  
+1119. Decreto del Presidente della Repubblica 19 dicembre 1983, col quale, sulla proposta del Ministro per i beni culturali e ambientali, l'Accademia nazionale dei Lincei, in Roma, viene autorizzata ad accettare la donazione, consistente nella somma di L. 300.000.000, per la costituzione di un fondo intestato al dott.  
+Giuseppe Guelfi per l'assegnazione di borse di perfezionamento a giovani laureati in scienze biologiche o in medicina e chirurgia, che intendano eseguire ricerche presso istituti di scienze biologiche e biomediche dell'Universita' di Firenze, Pisa, Siena o presso la Scuola normale superiore di Pisa, disposta dalla sig.ra Emma Collavoli vedova Guelfi, con atto 15 luglio 1982, n. 4745/1267 di repertorio, a rogito dott. Giuseppe Ramondelli, notaio in Roma, e registrato a Roma in data 23 luglio 1982, n. 28895.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 26 giugno 1981  
-Registro n. 12 Beni culturali, foglio n. 166
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 31 marzo 1984  
+Registro n. 15 Beni culturali, foglio n. 228

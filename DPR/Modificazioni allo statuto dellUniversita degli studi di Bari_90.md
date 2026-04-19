@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1049
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1971 n. 1318
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1049
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1971 n. 1318
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
@@ -10,143 +10,407 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 13 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-13;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
+Sulla proposta del Ministro per la pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
+Decreta:
 
-Veduta la necessita' di adeguare le norme sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Sulla
------
+L'art. 174, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la scuola in "Malattie nervose e mentali" e' soppressa e sostituita dalla scuola in "Psichiatria" di nuova istituzione. Allo stesso articolo e' aggiunta la scuola di specializzazione in "Neurologia".
 
-proposta del Ministro della pubblica istruzione; Decreta:
+L'art. 192, relativo alla scuola di specializzazione in malattie nervose e mentali che muta denominazione in quella di "Scuola di specializzazione in psichiatria" e' abrogato e sostituito dal seguente:
+
+Scuola di specializzazione in psichiatria
+
+Art. 192. - La scuola ha sede presso l'istituto di clinica delle malattie nervose e mentali (Cattedra di psichiatria nella astanteria neuropsichiatrica).
+
+La scuola ha la durata di quattro anni di corso. Ad essa possono essere iscritti soltanto laureati in medicina e chirurgia.
+
+L'ammissione alla scuola avviene per concorso per titoli ed esame.
+
+Il numero degli iscritti non potra' superare quello massimo di ventiquattro per i complessivi quattro anni di corso.
+
+Un'abbreviazione di due anni di corso puo' essere concessa agli specialisti in neurologia od in neuropsichiatria infantile.
+
+Un'abbreviazione di un anno di corso puo' essere concessa agli specialisti in altre materie affini (psicologia, neurochirurgia, medicina interna).
+
+Le abbreviazioni di corso, concesse a giudizio del consiglio della scuola, comportano da parte dell'allievo il superamento di un esame sulle discipline previste per l'insegnamento negli anni di corso dei quali si ottiene l'abbreviazione.
+
+Le materie d'insegnamento sono le seguenti:
+
+1° Anno:
+
+Anatomia ed istologia del sistema nervoso;
+
+Fisiologia del sistema nervoso;
+
+Biochimica del sistema nervoso;
+
+Genetica (elementi);
+
+Psicologia generale;
+
+Psicopatologia I;
+
+Semeiotica psichiatrica.
+
+2° Anno:
+
+Anatomia ed istologia patologica del sistema nervoso;
+
+Semeiotica neurologica;
+
+Patologia speciale e diagnostica neurologica;
+
+Neuroradiologia;
+
+Endocrinologia e neurologia vegetativa;
+
+Elettroencefalografia.
+
+3° Anno:
+
+Patologia speciale psichiatrica;
+
+Psicopatologia II;
+
+Clinica psichiatrica I;
+
+Psicologia clinica e psicodiagnostica;
+
+Psicofarmacologia;
+
+Psichiatria in rapporto con la patologia internistica;
+
+Esami di laboratorio.
+
+4° Anno:
+
+Clinica psichiatrica II;
+
+Terapia psichiatrica generale;
+
+Psicoterapia;
+
+Neuropsichiatria infantile;
+
+Psichiatria forense e legislazione psichiatrica;
+
+Psichiatria sociale (del lavoro, scolastica, igiene e profilassi mentale).
+
+E' obbligatorio l'internato presso i reparti ed ambulatori della cattedra di psichiatria (astanteria neuropsichiatrica) durante il primo, il terzo ed il quarto anno di corso per l'intero anno accademico. Tale internato potra' essere ridotto a non meno di mesi quattro per anno per i medici che prestino regolare servizio in ospedali psichiatrici provinciali, od a non meno di mesi sei per i medici che prestino regolare servizio in altre istituzioni d'assistenza primariamente psichiatrica delle province e delle regioni.
+
+E' obbligatorio l'internato presso i reparti neurologici della clinica per le malattie nervose e mentali, durante il secondo anno di corso per l'intero anno accademico; tale internato potra' essere ridotto a non meno di mesi sei per i medici che prestino regolare servizio in ospedale psichiatrico, ed a non meno di mesi quattro per i medici che prestino regolare servizio in reparto neurologico.
+
+L'esame di diploma di specializzazione consiste nella discussione di una dissertazione scritta su argomento di psichiatria, preventivamente concordato con il direttore della scuola.
+
+Dopo l'art. 223 sono inseriti i seguenti articoli relativi alla istituzione della "Scuola di specializzazione in neurologia" e della "Scuola diretta a fini speciali per ortottiste".
+
+Scuola di specializzazione in neurologia
+
+Art. 224. - La scuola ha sede presso l'istituto di clinica delle malattie nervose e mentali.
+
+La durata del corso e' di quattro anni.
+
+L'ammissione alla scuola avviene con concorso per titoli e per esami.
+
+Il numero complessivo degli iscritti non potra' superare quello di quaranta.
+
+Un'abbreviazione di due anni di corso puo' essere concessa agli specialisti in psichiatria, neuropsichiatria infantile e neurochirurgia. Un'abbreviazione di un anno di corso puo' essere concessa agli specialisti in altre materie affini (Otorinolaringoiatria, oculistica, medicina interna e radiologia). Le abbreviazioni di corso, concesse a giudizio del consiglio della scuola, comportano da parte dell'allievo il superamento di un esame sulle discipline previste per insegnamento negli anni di corso dei quali si ottiene l'abbuono.
+
+Gli insegnamenti impartiti nella scuola sono i seguenti:
+
+1° Anno:
+
+Anatomia ed istologia del sistema nervoso;
+
+Fisiologia del sistema nervoso;
+
+Biochimica del sistema nervoso;
+
+Genetica (elementi);
+
+Psicologia generale;
+
+Psicopatologia;
+
+Semeiotica psichiatrica.
+
+2° Anno:
+
+Anatomia ed istologia patologica del sistema nervoso;
+
+Semiotica neurologica;
+
+Patologia speciale e diagnostica neurologica I;
+
+Neuroradiologia;
+
+Endocrinologia e neurologia vegetativa.
+
+3° Anno:
+
+Patologia speciale e diagnostica neurologica II;
+
+Clinica neurologica e terapia I;
+
+Elettroencefalografia;
+
+Elettromiografia, elettrodiagnostica ed elettroterapia;
+
+Neurooftalmologia;
+
+Neuro-otologia;
+
+Esami di laboratorio.
+
+4° Anno:
+
+Clinica neurologica e terapia II;
+
+Neurochirurgia;
+
+Teoria e clinica della riabilitazione;
+
+Neurotraumatologia anche sotto l'aspetto della medicina legale;
+
+Neurologia in rapporto alla patologia internistica.
+
+E' obbligatorio l'internato, presso i reparti della cattedra di psichiatria (astanteria neuropsichiatrica), durante il primo anno di corso per l'intero anno accademico. Tale internato potra' essere ridotto a non meno di mesi sei per allievi che prestino servizio in reparti neurologici, ed a non meno di mesi quattro per coloro che prestino servizio in ospedale psichiatrico.
+
+E' obbligatorio l'internato, presso la clinica delle malattie nervose e mentali, durante il secondo, terzo e quarto anno di corso per l'intero anno accademico. Tale internato potra' essere ridotto a non meno di mesi quattro per anno per gli allievi che prestino regolare servizio in reparto neurologico.
+
+L'esame di diploma di specializzazione consiste nella discussione di una dissertazione scritta su argomento preventivamente concordato con il direttore della scuola.
+
+Scuola per ortottiste
+
+(Scuola diretta a fini speciali)
+
+Art. 225. - La scuola speciale per ortottiste ha sede presso la clinica oculistica.
+
+La durata del corso per il conseguimento del diploma di ortottista e' di due anni.
+
+La scuola ha lo scopo di preparare le allieve perche' possano coadiuvare i medici oculistici nel campo della diagnosi e della terapia dei difetti di rifrazione, dei disturbi della motilita' oculare in genere e in particolare dell'ambliopia.
+
+Possono essere ammesse alla scuola le aspiranti, di eta' non inferiore ai 17 anni e non superiore ai 30, in possesso di un diploma di scuola media superiore o del diploma di scuola media inferiore integrato da quello di assistente sanitaria o di ostetrica. I necessari requisiti di buona condotta morale, civile e penale saranno accertati d'ufficio.
+
+Il numero complessivo delle iscritte alla scuola non puo' essere superiore a otto.
+
+Chi aspira all'iscrizione al primo anno, dovra' entro il 30 ottobre presentare domanda in carta legale, corredata anche di certificato medico di sana e robusta costituzione fisica e dovra' sostenere un esame di ammissione consistente in una prova di cultura generale, dinanzi ad una commissione composta di tre professori ufficiali della facolta' tra cui il direttore della scuola.
+
+Il direttore della scuola e' di diritto il titolare della cattedra di clinica oculistica.
+
+Gli insegnanti della scuola sono proposti dal consiglio della facolta' di medicina e chirurgia udito il direttore della scuola.
+
+Art. 226. - Le materie di insegnamento sono:
+
+1° Anno:
+
+Anatomia e fisiologia generale;
+
+Anatomia e fisiologia dell'apparato oculare;
+
+Ottica fisica e fisiologica, vizi di rifrazione;
+
+Ortotottica (I parte).
+
+2° Anno:
+
+Ortottica (II parte);
+
+Elementi di patologia oculare;
+
+Nozioni di infermieristica oculare.
+
+Le allieve devono sostenere gli esami di profitto alla fine di ciascun anno. Esse hanno l'obbligo di frequenza alle lezioni teoriche ed alle esercitazioni pratiche.
+
+Non puo' essere iscritto all'anno successivo di corso chi non abbia superato gli esami di profitto dell'anno precedente. E' prevista la posizione di fuori corso.
+
+Per essere ammesse a sostenere l'esame di diploma le allieve dovranno aver seguito i corsi e superato gli esami in tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole tutte le esercitazioni pratiche previste.
+
+Le commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Esse sono composte dal professore ufficiale della materia, presidente, di un professore ufficiale di materia affine e di un libero docente o cultore della materia.
+
+L'esame per il conseguimento del diploma di ortottista consiste in un colloquio su di un tema preventivamente assegnato dal direttore della scuola, dinanzi ad una commissione di cinque membri, composta dal direttore della scuola e di altri quattro membri, designati dal preside della facolta' di medicina e chirurgia, scelti fra gli insegnanti della scuola.
+
+Gli iscritti alla scuola sono tenuti al pagamento delle seguenti tasse:
+
+Tassa annuale di iscrizione . . . . . . . . . . . . . . L. 15.000 Soprattassa annuale d'esami. . . . . . . . . . . . . . . L. 5.000 Tassa di diploma . . . . . . . . . . . . . . . . . . . . L. 6.000
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 30 ottobre 1971
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: COLOMBO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 17 febbraio 1972 Atti del Governo, registro n. 247, foglio n. 18. - VALENTINI
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Lo statuto dell'Universita' di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-All'art. 192, relativo alle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, la scuola di specializzazione in puericultura muta la denominazione in scuola di specializzazione in pediatria preventiva e puericultura.  
-
-Art. 2
-------
-
+Decreta:   
   
-L'art. 258, relativo alla scuola di specializzazione in puericultura, che muta la denominazione in scuola di specializzazione in pediatria preventiva e puericultura, e' sostituito dal seguente:  
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Scuola di specializzazione in pediatria preventiva e puericultura  
+L'art. 174, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la scuola in "Malattie nervose e mentali" e' soppressa e sostituita dalla scuola in "Psichiatria" di nuova istituzione. Allo stesso articolo e' aggiunta la scuola di specializzazione in "Neurologia".   
+L'art. 192, relativo alla scuola di specializzazione in malattie nervose e mentali che muta denominazione in quella di "Scuola di specializzazione in psichiatria" e' abrogato e sostituito dal seguente:   
   
-Presso l'istituto di puericultura dell'Universita' di Bari e' istituita una scuola di specializzazione in pediatria preventiva e puericultura. Alla scuola stessa possono iscriversi esclusivamente i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. La scuola si propone di conferire la preparazione teorico-pratica, sia nel campo della neonatologia e patologia neonatale, sia nel campo della pratica pediatrica preventiva e sociale, con particolare riguardo alla prevalente funzione preventiva e sociale della medicina infantile sul territorio, che il pediatra e' chiamato a svolgere.  
-Essa ha la durata di quattro anni ed e' articolata in due indirizzi:  
-a) neonatologia e patologia neonatale;  
-b) pediatria sociale.  
-Dopo un primo biennio comune ai due indirizzi, e' istituito un secondo biennio differenziato per ciascuno dei due indirizzi. I medici che abbiano gia' conseguito la specializzazione in pediatria preventiva e puericultura con uno dei due indirizzi, potranno iscriversi direttamente al secondo biennio della scuola con l'altro indirizzo previsto dallo statuto.  
-Il numero massimo degli allievi che possono essere iscritti e' di quindici complessivamente per l'intera durata del corso di studi, bienni orientativi inclusi.  
-La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento, la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
-L'ammissione al corso avviene per titoli ed esami.  
-Le materie di insegnamento sono:  
-BIENNIO PROPEDEUTICO COMUNE:  
-1° Anno:  
-1) anatomia e fisiologia dell'eta' evolutiva I;  
-2) elementi di ostetricia e ginecologia;  
-3) semeiotica infantile;  
-4) genetica medica;  
-5) elementi di laboratorio e biochimica clinica;  
-6) fisiologia della nutrizione;  
-7) metabolismo dell'eta' evolutiva I;  
-8) embriologia e fisiologia prenatali;  
-9) patologia infantile I;  
-10) alimentazione nell'eta' evolutiva.  
-2° Anno:  
-1) anatomia e fisiologia dell'eta' evolutiva II;  
-2) metabolismo dell'eta' evolutiva II;  
-3) patologia infantile II;  
-4) auxologia normale;  
-5) malattie infettive e loro prevenzione;  
-6) patologia prenatale;  
-7) patologia perinatale;  
-8) elementi di clinica pediatrica;  
-9) dietologia infantile;  
-10) anatomia patologica infantile;  
-11) O.R.L. e audiologia infantili;  
-12) oculistica e ottica fisio-patologica infantili.  
-INDIRIZZO DI NEONATOLOGIA E PATOLOGIA NEONATALE:  
-3° Anno:  
-1) clinica della gravidanza e del parto neonatale;  
-2) fisiopatologia embrio-fetale;  
-3) fisiologia neonatale;  
-4) biochimica neonatale;  
-5) immunologia neonatale;  
-6) diagnostica radiologica neonatale;  
-7) tecniche di laboratorio (con riferimento alla fisiopatologia neonatale);  
-8) patologia neonatale I;  
-9) assistenza al neonato sano ed ammalato;  
-10) semeiotica neonatale.  
-4° Anno:  
-1) patologia neonatale II;  
-2) il neonato a rischio;  
-3) farmacologia neonatale;  
-4) clinica e terapia neonatali;  
-5) rianimazione e terapia intensiva del neonato;  
-6) alimentazione del neonato sano e patologico;  
-7) anatomia patologica del feto e del neonato;  
-8) patologia chirurgica neonatale;  
-9) neurologia neonatale.  
-INDIRIZZO DI PEDIATRIA SOCIALE:  
-3° Anno:  
-1) adolescentologia I;  
-2) auxologia patologica ed endocrinologia infantile;  
-3) neuropsichiatria infantile;  
-4) epidemiologia, statistica medica e biometria;  
-5) epidemiologia e prevenzione di malattie di importanza sociale e nell'eta' evolutiva;  
-6) igiene dell'alimentazione;  
-7) medicina scolastica e sua legislazione;  
-8) psicologia dell'eta' evolutiva;  
-9) fisioterapia genetica sul territorio;  
-10) consulenza genetica sul territorio;  
-11) patologia e clinica delle malattie di importanza sociale nell'eta' evolutiva.  
-4° Anno:  
-1) adolescentologia II;  
-2) medicina dello sport nell'eta' evolutiva;  
-3) odontologia ed odontoiatria;  
-4) ortopedia e traumatologia nell'eta' evolutiva;  
-5) legislazione ed assistenza sociale per l'infanzia e l'adolescenza;  
-6) informazione sanitaria;  
-7) servizi pubblici extra-ospedalieri di sanita' e assistenza per l'eta' evolutiva;  
-8) psicopedagogia;  
-9) sociologia applicata alla popolazione infantile.  
-Le norme generali per l'iscrizione, gli esami, le tasse, ecc. sono quelle che regolano le scuole di specializzazione dell'Universita' di Bari.  
-La frequenza alle lezioni, alle esercitazioni pratiche nei reparti e' obbligatoria; gli allievi che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le prove di esame.  
-Il tirocinio pratico durante il quarto anno della scuola per l'indirizzo di neonatologia e patologia neonatale potra' essere svolto oltreche' presso l'istituto ove la scuola ha sede presso strutture assistenziali che abbiano, a giudizio del consiglio della scuola, caratteristiche idonee allo scopo. Tale tirocinio sara' attestato per iscritto dal responsabile di ciascuna struttura.  
-Il tirocinio pratico durante il quarto anno per l'indirizzo in pediatria sociale e' previsto sia svolto almeno in parte, in accordo con le amministrazioni competenti (regioni, province, comuni) presso strutture assistenziali sul territorio (consultori, ecc.), che abbiano, a giudizio del consiglio della scuola, caratteristiche idonee allo scopo. Tale tirocinio sara' attestato dall'ente responsabile della struttura.  
-Alla fine di ciascun anno di corso gli allievi, per essere ammessi agli anni successivi, debbono superare le prove di esame teorico-pratiche sulle materie impartite durante l'anno; per le materie a corso biennale, l'esame sara' sostenuto sotto forma di colloquio, al termine di ciascun anno. Superati gli esami finali, l'allievo sosterra' l'esame di diploma, che potra' essere costituito da una dissertazione orale su un argomento precedentemente concordato.  
-All'allievo risultato idoneo verra' rilasciato il diploma di specialista in pediatria preventiva e puericultura, con espressa menzione dell'indirizzo seguito, valido a tutti gli effetti di legge.  
+Scuola di specializzazione in psichiatria   
+  
+Art. 192. - La scuola ha sede presso l'istituto di clinica delle malattie nervose e mentali (Cattedra di psichiatria nella astanteria neuropsichiatrica).   
+La scuola ha la durata di quattro anni di corso. Ad essa possono essere iscritti soltanto laureati in medicina e chirurgia.   
+L'ammissione alla scuola avviene per concorso per titoli ed esame.   
+Il numero degli iscritti non potra' superare quello massimo di ventiquattro per i complessivi quattro anni di corso.   
+Un'abbreviazione di due anni di corso puo' essere concessa agli specialisti in neurologia od in neuropsichiatria infantile.  
+Un'abbreviazione di un anno di corso puo' essere concessa agli specialisti in altre materie affini (psicologia, neurochirurgia, medicina interna).   
+Le abbreviazioni di corso, concesse a giudizio del consiglio della scuola, comportano da parte dell'allievo il superamento di un esame sulle discipline previste per l'insegnamento negli anni di corso dei quali si ottiene l'abbreviazione.   
+Le materie d'insegnamento sono le seguenti:   
+1° Anno:   
+Anatomia ed istologia del sistema nervoso;   
+Fisiologia del sistema nervoso;   
+Biochimica del sistema nervoso;   
+Genetica (elementi);   
+Psicologia generale;   
+Psicopatologia I;   
+Semeiotica psichiatrica.   
+2° Anno:   
+Anatomia ed istologia patologica del sistema nervoso;   
+Semeiotica neurologica;   
+Patologia speciale e diagnostica neurologica;   
+Neuroradiologia;   
+Endocrinologia e neurologia vegetativa;   
+Elettroencefalografia.   
+3° Anno:   
+Patologia speciale psichiatrica;   
+Psicopatologia II;   
+Clinica psichiatrica I;   
+Psicologia clinica e psicodiagnostica;   
+Psicofarmacologia;   
+Psichiatria in rapporto con la patologia internistica;   
+Esami di laboratorio.   
+4° Anno:   
+Clinica psichiatrica II;   
+Terapia psichiatrica generale;   
+Psicoterapia;   
+Neuropsichiatria infantile;   
+Psichiatria forense e legislazione psichiatrica;   
+Psichiatria sociale (del lavoro, scolastica, igiene e profilassi mentale).   
+E' obbligatorio l'internato presso i reparti ed ambulatori della cattedra di psichiatria (astanteria neuropsichiatrica) durante il primo, il terzo ed il quarto anno di corso per l'intero anno accademico. Tale internato potra' essere ridotto a non meno di mesi quattro per anno per i medici che prestino regolare servizio in ospedali psichiatrici provinciali, od a non meno di mesi sei per i medici che prestino regolare servizio in altre istituzioni d'assistenza primariamente psichiatrica delle province e delle regioni.   
+E' obbligatorio l'internato presso i reparti neurologici della clinica per le malattie nervose e mentali, durante il secondo anno di corso per l'intero anno accademico; tale internato potra' essere ridotto a non meno di mesi sei per i medici che prestino regolare servizio in ospedale psichiatrico, ed a non meno di mesi quattro per i medici che prestino regolare servizio in reparto neurologico.   
+L'esame di diploma di specializzazione consiste nella discussione di una dissertazione scritta su argomento di psichiatria, preventivamente concordato con il direttore della scuola.   
+Dopo l'art. 223 sono inseriti i seguenti articoli relativi alla istituzione della "Scuola di specializzazione in neurologia" e della "Scuola diretta a fini speciali per ortottiste".   
+  
+Scuola di specializzazione in neurologia   
+  
+Art. 224. - La scuola ha sede presso l'istituto di clinica delle malattie nervose e mentali.   
+La durata del corso e' di quattro anni.   
+L'ammissione alla scuola avviene con concorso per titoli e per esami.   
+Il numero complessivo degli iscritti non potra' superare quello di quaranta.   
+Un'abbreviazione di due anni di corso puo' essere concessa agli specialisti in psichiatria, neuropsichiatria infantile e neurochirurgia. Un'abbreviazione di un anno di corso puo' essere concessa agli specialisti in altre materie affini (Otorinolaringoiatria, oculistica, medicina interna e radiologia). Le abbreviazioni di corso, concesse a giudizio del consiglio della scuola, comportano da parte dell'allievo il superamento di un esame sulle discipline previste per insegnamento negli anni di corso dei quali si ottiene l'abbuono.   
+Gli insegnamenti impartiti nella scuola sono i seguenti:   
+1° Anno:   
+Anatomia ed istologia del sistema nervoso;   
+Fisiologia del sistema nervoso;   
+Biochimica del sistema nervoso;   
+Genetica (elementi);   
+Psicologia generale;   
+Psicopatologia;   
+Semeiotica psichiatrica.   
+2° Anno:   
+Anatomia ed istologia patologica del sistema nervoso;   
+Semiotica neurologica;   
+Patologia speciale e diagnostica neurologica I;   
+Neuroradiologia;   
+Endocrinologia e neurologia vegetativa.   
+3° Anno:   
+Patologia speciale e diagnostica neurologica II;   
+Clinica neurologica e terapia I;   
+Elettroencefalografia;   
+Elettromiografia, elettrodiagnostica ed elettroterapia;   
+Neurooftalmologia;   
+Neuro-otologia;   
+Esami di laboratorio.   
+4° Anno:   
+Clinica neurologica e terapia II;   
+Neurochirurgia;   
+Teoria e clinica della riabilitazione;   
+Neurotraumatologia anche sotto l'aspetto della medicina legale;  
+Neurologia in rapporto alla patologia internistica.   
+E' obbligatorio l'internato, presso i reparti della cattedra di psichiatria (astanteria neuropsichiatrica), durante il primo anno di corso per l'intero anno accademico. Tale internato potra' essere ridotto a non meno di mesi sei per allievi che prestino servizio in reparti neurologici, ed a non meno di mesi quattro per coloro che prestino servizio in ospedale psichiatrico.   
+E' obbligatorio l'internato, presso la clinica delle malattie nervose e mentali, durante il secondo, terzo e quarto anno di corso per l'intero anno accademico. Tale internato potra' essere ridotto a non meno di mesi quattro per anno per gli allievi che prestino regolare servizio in reparto neurologico.   
+L'esame di diploma di specializzazione consiste nella discussione di una dissertazione scritta su argomento preventivamente concordato con il direttore della scuola.   
+  
+Scuola per ortottiste   
+(Scuola diretta a fini speciali)   
+  
+Art. 225. - La scuola speciale per ortottiste ha sede presso la clinica oculistica.   
+La durata del corso per il conseguimento del diploma di ortottista e' di due anni.   
+La scuola ha lo scopo di preparare le allieve perche' possano coadiuvare i medici oculistici nel campo della diagnosi e della terapia dei difetti di rifrazione, dei disturbi della motilita' oculare in genere e in particolare dell'ambliopia.   
+Possono essere ammesse alla scuola le aspiranti, di eta' non inferiore ai 17 anni e non superiore ai 30, in possesso di un diploma di scuola media superiore o del diploma di scuola media inferiore integrato da quello di assistente sanitaria o di ostetrica. I necessari requisiti di buona condotta morale, civile e penale saranno accertati d'ufficio.   
+Il numero complessivo delle iscritte alla scuola non puo' essere superiore a otto.   
+Chi aspira all'iscrizione al primo anno, dovra' entro il 30 ottobre presentare domanda in carta legale, corredata anche di certificato medico di sana e robusta costituzione fisica e dovra' sostenere un esame di ammissione consistente in una prova di cultura generale, dinanzi ad una commissione composta di tre professori ufficiali della facolta' tra cui il direttore della scuola.   
+Il direttore della scuola e' di diritto il titolare della cattedra di clinica oculistica.   
+Gli insegnanti della scuola sono proposti dal consiglio della facolta' di medicina e chirurgia udito il direttore della scuola.   
+Art. 226. - Le materie di insegnamento sono:   
+1° Anno:   
+Anatomia e fisiologia generale;   
+Anatomia e fisiologia dell'apparato oculare;   
+Ottica fisica e fisiologica, vizi di rifrazione;   
+Ortotottica (I parte).   
+2° Anno:   
+Ortottica (II parte);   
+Elementi di patologia oculare;   
+Nozioni di infermieristica oculare.   
+Le allieve devono sostenere gli esami di profitto alla fine di ciascun anno. Esse hanno l'obbligo di frequenza alle lezioni teoriche ed alle esercitazioni pratiche.   
+Non puo' essere iscritto all'anno successivo di corso chi non abbia superato gli esami di profitto dell'anno precedente. E' prevista la posizione di fuori corso.   
+Per essere ammesse a sostenere l'esame di diploma le allieve dovranno aver seguito i corsi e superato gli esami in tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole tutte le esercitazioni pratiche previste.   
+Le commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Esse sono composte dal professore ufficiale della materia, presidente, di un professore ufficiale di materia affine e di un libero docente o cultore della materia.   
+L'esame per il conseguimento del diploma di ortottista consiste in un colloquio su di un tema preventivamente assegnato dal direttore della scuola, dinanzi ad una commissione di cinque membri, composta dal direttore della scuola e di altri quattro membri, designati dal preside della facolta' di medicina e chirurgia, scelti fra gli insegnanti della scuola.   
+Gli iscritti alla scuola sono tenuti al pagamento delle seguenti tasse:   
+  
+Tassa annuale di iscrizione . . . . . . . . . . . . . . L. 15.000 Soprattassa annuale d'esami. . . . . . . . . . . . . . . L. 5.000 Tassa di diploma . . . . . . . . . . . . . . . . . . . . L. 6.000   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 30 ottobre 1971
 
-PERTINI BODRATO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 24 febbraio 1982
+Registrato alla Corte dei conti, addi' 17 febbraio 1972
 
-Registro n. 30 Istruzione, foglio n. 374
+Atti del Governo, registro n. 247, foglio n. 18. - VALENTINI

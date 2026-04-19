@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1977 n. 916
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1976 n. 468
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1977 n. 916
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1976 n. 468
+=============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-916. Decreto del Presidente della Repubblica 19 ottobre 1977, col quale, sulla proposta del Ministro per i beni culturali ed ambientali, viene autorizzata l'accettazione di un legato a favore dello Stato e, per esso, della biblioteca Angelica di Roma, disposta dallo scrittore Arnaldo Bocelli con testamento olografo pubblicato in data 7 dicembre 1974, n. 22280/10173 di repertorio a rogito dott. Vincenzo Papi, notaio in Roma, consistente nella sua raccolta bibliografica.  
+468. Decreto del Presidente della Repubblica 12 maggio 1976, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione disposta dagli eredi del pittore tedesco Karl Guglielmo Diefenbach con atto notarile 11 giugno 1971, n. 7087 di repertorio, a rogito dott. Guido Rega, notaio in Napoli, consistente in trentuno dipinti di cui trenta sono del pittore Karl Guglielmo Diefenbach ed uno, che riproduce il ritratto del pittore stesso, eseguito da E. Ximenes e in cinque gessi dello stesso artista, opere destinate alla Certosa di Capri.  
   
 Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 14 dicembre 1977  
-Registro n. 17 Beni culturali, foglio n. 309
+Registrato alla Corte dei conti, addi' 30 giugno 1976  
+Atti di Governo, registro n. 7, foglio n. 37

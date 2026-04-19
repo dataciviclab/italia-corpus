@@ -1,19 +1,150 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1972 n. 1050
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 settembre 1969 n. 1326
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1972 n. 1050
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 settembre 1969 n. 1326
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734);
+
+e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 113, relativo al corso di laurea in farmacia e' integrato con il seguente comma:
+
+"L'insegnamento biennale di fisiologia generale comporta due esami distinti alla fine di ciascun anno di corso".
+
+Art. 144, relativo all'esame di laurea in architettura e' abrogato e sostituito dal seguente:
+
+"L'esame di laurea consiste in un colloquio sull'attivita' svolta durante il corso di studi e nella discussione della tesi, la quale riguarda una ricerca progettuale che necessariamente implica anche l'elaborazione d'un progetto.
+
+Per sostenere gli esami il candidato deve presentare richiesta al preside, fin dall'inizio del quarto anno di corso e non oltre sei mesi prima dell'appello prescelto, indicando fra i professori ufficiali il relatore o i relatori.
+
+Il consiglio di facolta' esamina la domanda, designa il relatore o i relatori; questi d'accordo con il candidato, definiscono il tema, ne seguono lo sviluppo, consigliando eventuali correlatori esterni, e ne garantiscono l'originalita' e la validita' davanti alla commissione giudicatrice".
+
+Dopo l'art. 377, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della scuola speciale di ricerca e di applicazione per assistenti educatori di comunita' educative speciali.
+
+Scuola speciale di ricerca e di applicazione per assistenti educatori di comunita' educative speciali
+
+(Scuola diretta a fini speciali)
+
+Art. 378. - Presso l'istituto di pedagogia della facolta' di magistero dell'Universita' di Roma, e' istituita una scuola speciale di ricerca e di applicazione per assistenti educatori di comunita' educative speciali ai sensi dell'[art. 20, terzo comma, lettera a) del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20-com3-leta).
+
+Art. 379. - La scuola ha lo scopo di formare, attraverso un'autentica integrazione personale di dati teorici, tecnici e sperimentali, giovani che, professionalmente preparati per la educazione di fanciulli adolescenti e giovani, qualunque sia la natura ed il grado del loro disadattamento, sia in comunita' educative come nell'ambiente naturale, siano in grado di assolvere compiti di animazione sociale e di assumere responsabilita' direttive in seno alle comunita' stesse o in seno ad organismi assistenziali-educativi.
+
+Un centro studi provvede alla documentazione e alla ricerca per assicurare un efficace funzionamento della scuola. La scuola rilascia il diploma di assistente educatore, attestati di idoneita' e attestati di qualificazione speciale.
+
+Art. 380. - La scuola e' diretta dal direttore dell'istituto di pedagogia della facolta' di magistero. In mancanza di esso o in caso di impedimento non temporaneo, il consiglio della facolta' affidera' la direzione della scuola ad altro professore di ruolo della facolta'.
+
+Il direttore e' coadiuvato dal direttore dei corsi ed assistito dal consiglio della scuola; in caso di assenza o impedimento temporaneo il direttore e' sostituito dal vice direttore da lui designato.
+
+Art. 381. - Il consiglio della scuola e' composto dal direttore dei corsi e dai docenti della scuola. Le deliberazioni di carattere tecnico riguardanti la formazione professionale degli allievi, sono adottate con l'intervento di un componente designato dall'Associazione professionale degli educatori (A.N.E.G.I.D.) e di non piu' di sette membri designati da amministrazioni pubbliche e private interessate alla formazione degli educatori.
+
+Art. 382. - Il consiglio e' convocato dal direttore, esso ratifica la designazione del vice direttore; determina i corsi e i relativi piani di studi, fissa il calendario; delibera sulle domande di iscrizione e sul prolungamento di questa; affida la direzione dei corsi a un cultore di discipline affini, docente o meno della scuola purche' abbia acquisito esperienze professionali nella educazione specializzata; sceglie i monitori per l'assistenza ai tirocini, esperti di educazione specializzata provvisti di norma del diploma di assistente educatore, delibera su ogni altra questione di natura didattica e disciplinare; formula proposte per la concessione di borse e assegni agli studenti bisognosi e meritevoli e per altre questioni di ordine amministrativo e finanziario riguardanti la scuola.
+
+Art. 383. - La scuola si articola in corsi di formazione della durata di due anni. La varieta' e l'orientamento dei corsi, la distribuzione degli insegnamenti tra i due anni di ciascun corso sono stabiliti dal consiglio della scuola.
+
+Possono essere ammessi coloro che siano in possesso di un titolo di scuola media superiore.
+
+L'ammissione e' subordinata al superamento di prove atte a permettere una valutazione delle attitudini del candidato ad esercitare la professione ed a trarre profitto dalla formazione. Il limite numerico sara' fissato dal consiglio della scuola.
+
+Agli studenti fuori corso puo' essere consentito il prolungamento dell'iscrizione per un periodo che non superi la durata del corso stesso.
+
+Gli esami sostenuti nei corsi universitari per le materie di insegnamento della scuola, possono essere convalidati.
+
+Art. 384. - La scuola puo' anche organizzare corsi di preparazione per educatori, in attivita' di servizio e corsi di qualificazione speciale per educatori gia' in possesso del diploma speciale. Gli insegnamenti della scuola hanno carattere teorico e tecnico pratico.
+
+Sono insegnamenti teorici dei corsi di formazione:
+
+1) Antropologia culturale;
+
+2) Etica professionale;
+
+3) Psicologia dell'eta' evolutiva con elementi di psicologia generale;
+
+4) Psicologia sociale con elementi di psicologia dinamica;
+
+5) Pedagogia generale e teoria della scuola;
+
+6) Pedagogia speciale;
+
+7) Sociologia;
+
+8) Auxologia;
+
+9) Igiene;
+
+10) Igiene mentale;
+
+11) Istituzioni di diritto pubblico.
+
+Sono insegnamenti tecnici e pratici dei corsi di formazione:
+
+1) Tecniche educative ed organizzative della vita in istituto;
+
+2) Seminari di cultura generale;
+
+3) Ricerche sociali e studio dell'ambiente;
+
+4) Attivita' di gruppo;
+
+5) Tirocinio professionale.
+
+Art. 385. - Gli incarichi di insegnamento sono conferiti, previa proposta del direttore della scuola, a docenti anche di altre facolta' e ad esperti della materia. L'assistenza ai tirocini professionali e' curata da monitori ed e' affidata ad esperti di educazione specializzata; l'attivita' dei monitori e' coordinata dal titolare dell'insegnamento di tirocinio professionale.
+
+I singoli insegnamenti sono svolti, di regola, lungo l'intero anno scolastico; il consiglio della scuola stabilisce di anno in anno quali insegnamenti possono essere svolti in un semestre o mediante seminari.
+
+Art. 386. - Per il conseguimento del diploma o dell'attestato di qualificazione speciale, lo studente deve aver seguito i corsi e superato i relativi esami e prove pratiche. L'esame consiste nella discussione su una dissertazione scritta connessa all'attivita' di studio di ricerca e di applicazione svolta dal candidato durante la frequenza della scuola.
+
+La commissione di esame e' composta dal direttore della scuola o da altro professore di ruolo della facolta' da lui delegato che la presiede, e da sei docenti della scuola stessa di cui tre degli insegnamenti tecnico pratici.
+
+Gli iscritti alla scuola sono tenuti al versamento annuo delle tasse, sopratasse e contributi nella misura prevista dalla legge vigente per gli studenti della facolta' di magistero.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 23 settembre 1969
+
+SARAGAT
+
+FERRARI AGGRADI
+
+Visto, il Guardasigilli: GAVA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 17 giugno 1970 Atti del Governo, registro 236, foglio n. 31. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734);   
+e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
@@ -24,236 +155,65 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli da 633 a 640 relativi alla "Scuola di specializzazione in chirurgia toracica" sono abrogati e sostituiti dai seguenti:   
   
-Scuola di specializzazione in chirurgia toracica   
+Art. 113, relativo al corso di laurea in farmacia e' integrato con il seguente comma:   
+"L'insegnamento biennale di fisiologia generale comporta due esami distinti alla fine di ciascun anno di corso".   
+Art. 144, relativo all'esame di laurea in architettura e' abrogato e sostituito dal seguente:   
+"L'esame di laurea consiste in un colloquio sull'attivita' svolta durante il corso di studi e nella discussione della tesi, la quale riguarda una ricerca progettuale che necessariamente implica anche l'elaborazione d'un progetto.   
+Per sostenere gli esami il candidato deve presentare richiesta al preside, fin dall'inizio del quarto anno di corso e non oltre sei mesi prima dell'appello prescelto, indicando fra i professori ufficiali il relatore o i relatori.   
+Il consiglio di facolta' esamina la domanda, designa il relatore o i relatori; questi d'accordo con il candidato, definiscono il tema, ne seguono lo sviluppo, consigliando eventuali correlatori esterni, e ne garantiscono l'originalita' e la validita' davanti alla commissione giudicatrice".   
+Dopo l'art. 377, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della scuola speciale di ricerca e di applicazione per assistenti educatori di comunita' educative speciali.   
   
-Art. 633. - La scuola di specializzazione in chirurgia toracica ha la durata di 4 anni e prevede l'insegnamento di tutte le branche della chirurgia toracica: chirurgia polmonare, chirurgia cardiaca, chirurgia esofagea, chirurgia del mediastino e della parete toracica.   
-Art. 634. - Alla scuola possono accedere i laureati in medicina e chirurgia che abbiano almeno 3 anni di frequenza in una scuola di specializzazione in chirurgia generale e medici che, a giudizio del consiglio degli insegnanti della scuola stessa, abbiano acquisito sufficiente pratica in chirurgia generale attraverso servizi prestati in reparti chirurgici.   
-Art. 635. - Coloro che siano in possesso del diploma di specializzazione in chirurgia generale e di libera docenza in una disciplina chirurgica (clinica chirurgica, patologia speciale chirurgica, semeiotica chirurgica, anatomia chirurgica) possono essere ammessi al 2° anno di corso previo esame integrativo vertente sulle materie del primo anno di corso.   
-In nessun'altra circostanza puo' essere concessa abbreviazione di corso.   
-Art. 636. - Il numero degli iscritti alla scuola e' fissato in quaranta (40) per i quattro anni di corso (10 per ogni anno).   
-Art. 637. - Il corso si compone di insegnamenti fondamentali, di esercitazioni pratiche, di periodi di internato, di conferenze riguardanti argomenti specialistici, di turni in corsia ed in sala operatoria. La frequenza ai corsi, agli internati in corsia ed in sala operatoria, alle esercitazioni, e' obbligatoria. In caso contrario i candidati non potranno ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.   
-Art. 638. - Alla fine di ciascun anno accademico gli specializzandi che abbiano ottenuto la firma di frequenza dovranno sostenere un esame di profitto nelle materie fondamentali, il cui superamento e' condizione necessaria ed indispensabile per ottenere l'iscrizione all'anno successivo e per quelli che sono stati iscritti al 4° anno, per l'ammissione all'esame di diploma.   
-Nell'ultimo anno di corso gli specializzandi frequenteranno la sala operatoria in maniera assidua, dovranno assistere a numerosi interventi di chirurgia toracica ed essere in grado di eseguirne essi stessi.   
-La loro preparazione tecnica sara' convalidata o meno alla fine del corso dal direttore della scuola di specializzazione.   
-Art. 639. - Per tutti gli specializzandi che abbiano superato gli esami dei quattro anni, alla fine del quarto anno di corso ha luogo l'esame di diploma, consistente nella presentazione e discussione di una dissertazione scritta su di un argomento di chirurgia toracica (polmonare, cardiaca, esofagea, mediastinica) precedentemente concordata tra il direttore della scuola ed il diplomando all'inizio del terzo o quarto anno.   
-La tesi deve essere approvata dallo stesso direttore e depositata presso la direzione almeno 15 giorni prima dell'esame di diploma.   
-Il candidato dovra' sostenere inoltre una prova clinica.   
-I candidati non riconosciuti idonei all'esame di diploma dovranno ripresentarsi all'esame dopo un altro anno di frequenza alla scuola.  
-Se al secondo esame non sia riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.   
-Art. 640. - Le materie di insegnamento sono:   
-1° Anno:   
-1) Embriologia, anatomia descrittiva e topografica del torace e degli organi endotoracici (parete toracica, apparato respiratorio, diaframma, mediastino, organi mediastinici, cuore e grossi vasi endotoracici) (annuale);   
-2) Anatomia chirurgica del torace e degli organi endotoracici (annuale);   
-3) Anatomia patologica delle malattie del torace (annuale);   
-4) Anestesia e rianimazione nella chirurgia toracopolmonare ed in cardio-chirurgia (annuale).   
-2° Anno:   
-1) Fisiopatologia dell'apparato respiratorio e valutazione funzionale (annuale);   
-2) Fisiopatologia dell'apparato cardio-circolatorio (annuale);   
-3) Semeiotica e diagnostica clinica e strumentale dell'apparato respiratorio, dell'esofago, del mediastino (annuale);   
-4) Semeiotica e diagnostica clinica e strumentale dell'apparato cardio-circolatorio (annuale);   
-5) Diagnostica radiologica toraco-polmonare, del cuore e dei grossi vasi endotoracici (annuale).   
-3° Anno:   
-1) Patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino, e della parete toracica (biennale);   
-2) Patologia e clinica chirurgica delle affezioni del cuore e dei grossi vasi endotoracici (biennale);   
-3) Patologia e clinica chirurgica delle affezioni dell'esofago e del diaframma (annuale);   
-4) Terapia chirurgica della tubercolosi polmonare (annuale);   
-5) Elementi di terapia medica delle cardio-angiopatie (annuale);   
-6) Elementi di fisioterapia respiratoria (annuale).   
-4° Anno:   
-1) Patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (biennale);   
-2) Patologia e clinica chirurgica delle affezioni del cuore e dei grossi vasi endotoracici (biennale);   
-3) Tecnica operatoria per le affezioni della parete toracica, dell'apparato respiratorio, dell'esofago, del mediastino e del diaframma (annuale);   
-4) Tecnica operatoria delle affezioni del cuore, pericardio e grossi vasi endotoracici (annuale);   
-5) Principi e tecniche della circolazione extracorporea e della ipotermia (annuale).   
-Dopo l'art. 711 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Genetica medica", in "Gerontologia medica", in "Chirurgia d'urgenza e pronto soccorso" e della 2ª scuola in neurologia.   
+Scuola speciale di ricerca e di applicazione per assistenti educatori di comunita' educative speciali   
+(Scuola diretta a fini speciali)   
   
-Scuola di specializzazione in genetica medica   
-  
-Art. 712. - E' istituita la scuola di specializzazione in genetica medica. Finalita' della scuola e' quella di contribuire all'approfondimento dei problemi genetici della medicina, particolarmente nel campo della clinica nonche' della medicina preventiva.   
-Art. 713. - La durata del corso e' di tre anni.   
-L'ammissione alla scuola e' consentita ai laureati in medicina e chirurgia. Il consiglio della scuola puo' decidere inoltre l'ammissione di laureati in altre materie scientifiche.   
-Art. 714. - Gli insegnamenti costitutivi della scuola sono i seguenti:   
-1° Anno:   
-1) Biologia generale;   
-2) Patologia generale;   
-3) Chimica biologica;   
-4) Genetica generale;   
-5) Genetica statistica.   
-2° Anno:   
-1) Biologia molecolare;   
-2) Genetica umana;   
-3) Farmacogenetica;   
-4) Genetica clinica I;   
-5) Laboratorio di genetica clinica I.   
-3° Anno:   
-1) Citogenetica;   
-2) Eugenetica;   
-3) Genetica clinica II;   
-4) Laboratorio di genetica clinica II.   
-I corsi saranno integrati da esercitazioni pratiche.   
-Art. 715. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.   
-Art. 716. - Il numero degli iscritti e' stabilito in centocinquanta (150) per i tre anni di corso.   
-Art. 717. - Gli esami di diploma verranno sostenuti secondo le norme fissate dall'art. 463 dello statuto dell'Universita' di Roma.   
-A coloro che avranno superato l'esame di diploma verra' rilasciato il diploma di specialista in genetica medica.   
-  
-Scuola di specializzazione in gerontologia e geriatria   
-  
-Art. 718. - La scuola di specializzazione in gerontologia e geriatria conferisce il diploma di specialista in gerontologia e geriatria.   
-La scuola ha la durata di tre anni.   
-Art. 719. - Alla scuola sono ammessi i laureati in medicina e chirurgia per un numero complessivo di ventiquattro (24) allievi ripartiti in otto (8) per ogni anno.   
-L'ammissione alla scuola e' per esame.   
-Art. 720. - Le materie d'insegnamento sono:   
-1° Anno:   
-1) Biologia della senescenza (annuale);   
-2) Fisiopatologia della senescenza (biennale I);   
-3) Semeiologia della senescenza (biennale I);   
-4) Anatomia patologica (biennale I);   
-5) Farmacologia e farmacoterapia (annuale).   
-2° Anno:   
-1) Fisiopatologia della senescenza (biennale II);   
-2) Semeiologia della senescenza (biennale II);   
-3) Anatomia patologica (biennale II);   
-4) Clinica geriatrica e terapia (biennale I);   
-5) Chirurgia geriatrica (annuale);   
-6) Radiologia e radioterapia (annuale);   
-7) Neurologia (annuale).   
-3° Anno:   
-1) Clinica geriatrica e terapia (biennale II);   
-2) Tecniche di riabilitazione (annuale);   
-3) Psichiatria (annuale);   
-4) Medicina sociale (annuale).   
-Durante il terzo anno sono previste conferenze di aggiornamento su problemi speciali.   
-Art. 721. - Gli allievi sono tenuti a seguire le lezioni teoriche, le esercitazioni ed i turni di internato stabiliti dal direttore della scuola.   
-Alla fine di ogni anno gli allievi che abbiano ottenuto la prescritta attestazione di frequenza dovranno sostenere un esame di profitto.   
-Alla fine del triennio gli allievi dovranno presentare una dissertazione scritta e sostenere un esame di diploma.   
-  
-Scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso   
-  
-Art. 722. - La scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso conferisce il diploma di specialista in chirurgia d'urgenza e di pronto soccorso.   
-Gli anni necessari per il conseguimento del diploma sono quattro.   
-Art. 723. - Il numero massimo complessivo degli iscritti alla scuola e' di 15 per ogni anno di corso, per un totale di 60 (sessanta) iscritti.   
-La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base di titoli ed esami.   
-Art. 724. - Le materie del corso sono le seguenti:   
-1) Anatomia chirurgica;   
-2) Anestesiologia;   
-3) Chirurgia cardio-vascolare d'urgenza;   
-4) Chirurgia d'urgenza e di pronto soccorso (quadriennale);   
-5) Chirurgia generale (quadriennale);   
-6) Chirurgia ginecologica d'urgenza;   
-7) Chirurgia plastica e riparatrice (biennale);   
-8) Chirurgia pediatrica d'urgenza;   
-9) Chirurgia toracica d'urgenza;   
-10) Chirurgia urologica d'urgenza;   
-11) Fisiopatologia del politraumatizzato;   
-12) Neurotraumatologia (biennale);   
-13) Radiologia;   
-14) Rianimazione;   
-15) Ricerche di laboratorio in chirurgia d'urgenza;   
-16) Semeiotica chirurgica;   
-17) Trattamento del politraumatizzato;   
-18) Trattamento pre e post-operatorio in chirurgia;   
-19) Traumatologia dell'apparato locomotore (biennale);   
-20) Traumatologia maxillo-facciale;   
-21) Valutazione medico-legale delle lesioni chirurgiche.   
-Art. 725. - Le materie sopra elencate sono cosi' distribuite:   
-1° Anno:   
-1) Chirurgia d'urgenza e di pronto soccorso (quadriennale) (I);  
-2) Chirurgia generale (quadriennale) (I);   
-3) Traumatologia dell'apparato locomotore (biennale) (I);   
-4) Anestesiologia;   
-5) Ricerche di laboratorio in chirurgia d'urgenza;   
-6) Semeiotica chirurgica;   
-7) Radiologia;   
-8) Traumatologia maxillo-facciale.   
-2° Anno:   
-1) Chirurgia d'urgenza e di pronto soccorso (quadriennale) (II);   
-2) Chirurgia generale (quadriennale) (II);   
-3) Traumatologia dell'apparato locomotore (biennale) (II);   
-4) Chirurgia plastica-riparatrice (biennale) (I);   
-5) Anatomia chirurgica;   
-6) Trattamento pre e post-operatorio in chirurgia d'urgenza;   
-7) Chirurgia ginecologica d'urgenza;   
-8) Chirurgia urologica d'urgenza.   
-3° Anno:   
-1) Chirurgia d'urgenza e di pronto soccorso (quadriennale) (III);   
-2) Chirurgia generale (quadriennale) (III);   
-3) Neurotraumatologia (biennale) (I);   
-4) Chirurgia plastico-riparatrice (biennale) (II);   
-5) Valutazione medico-legale delle lesioni chirurgiche;   
-6) Chirurgia toracica d'urgenza;   
-7) Chirurgia cardio-vascolare d'urgenza;   
-8) Chirurgia pediatrica d'urgenza.   
-4° Anno:   
-1) Chirurgia d'urgenza e di pronto soccorso (quadriennale) (IV);   
-2) Chirurgia generale (quadriennale) (IV);   
-3) Neurotraumatologia (biennale) (II);   
-4) Fisiopatologia del politraumatizzato;   
-5) Trattamento del politraumatizzato;   
-6) Rianimazione.   
-Art. 726. - Per le materie ad insegnamento pluriennale gli esami di profitto devono essere sostenuti al termine dei relativi corsi.   
-Art. 727. - La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.   
-L'internato e' obbligatorio durante tutti i quattro anni del corso, che si svolgera' presso l'istituto di chirurgia d'urgenza e di pronto soccorso sotto forma di permanenza costante in tale istituto durante le ore della sua attivita', con presenza giornaliera nei vari reparti.   
-Dall'obbligo di tale internato saranno esentati quegli allievi che, in qualita' di assistenti o di aiuti, prestino effettivamente servizio presso reparti di chirurgia di urgenza e di pronto soccorso delle universita' e di ospedali di 1a e 2ª categoria.   
-Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.   
-L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.   
-Art. 728. - Alla fine del corso l'allievo, inoltre, dovra' sostenere un esame generale di profitto.   
-  
-Scuola di specializzazione in neurologia   
-(2ª Scuola)   
-  
-Art. 729. - La seconda scuola di specializzazione in neurologia ha sede presso l'istituto di clinica delle malattie nervose e mentali II ed ha lo scopo di conferire adeguata competenza teorica e pratica ai laureati in medicina e chirurgia che intendono conseguire il diploma di specializzazione in neurologia.   
-Il corso degli studi ha la durata di 4 anni.   
-Il numero massimo di iscritti e' fissato a 18 (diciotto) per i complessivi quattro anni di corso. Sono esclusi da detto computo gli specializzandi "fuori corso".   
-L'ammissione al corso avviene per titoli ed esami;   
-per i gia' specialisti in psichiatria e neuropsichiatria infantile e neurochirurgia potra' esservi abbuono di due anni e per gli specialisti in altre materie affini (medicina interna, otorinolaringoiatria, oculistica, radiologia) di un anno.   
-Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola e dopo il superamento di un esame di ammissione da parte del candidato.   
-Art. 730. - Le materie di insegnamento sono:   
-1) Anatomia e istologia del sistema nervoso;   
-2) Fisiologia del sistema nervoso;   
-3) Biochimica del sistema nervoso;   
-4) Elementi di genetica;   
-5) Psicopatologia;   
-6) Semeiotica psichiatrica;   
-7) Psicologia generale.   
-2° Anno:   
-1) Anatomia e istologia patologica del sistema nervoso;   
-2) Semeiotica neurologica;   
-3) Patologia speciale e diagnostica neurologica (I);   
-4) Neuroradiologia;   
-5) Endocrinologia e neurologia vegetativa.   
-3° Anno:   
-1) Patologia speciale e diagnostica neurologica (II);   
-2) Clinica neurologica (I);   
-3) Elettroencefalografia;   
-4) Elettromiografia, elettrodiagnostica ed elettroterapia;   
-5) Neuro-oftalmologia;   
-6) Neuro-otologia;   
-7) Esami di laboratorio.   
-4° Anno:   
-1) Clinica neurologica e terapia (II);   
-2) Neurochirurgia;   
-3) Teoria e clinica della riabilitazione;   
-4) Neuro-traumatologia anche sotto l'aspetto della medicina legale;   
-5) Neurologia in rapporto alla patologia internistica.   
-Tutte le discipline vengono svolte sotto forma di lezioni, dimostrazioni pratiche, illustrazioni di casi clinici, a seconda delle esigenze didattiche delle discipline stesse.   
-Art. 731. - Gli iscritti hanno l'obbligo di frequentare assiduamente per tutti e quattro gli anni i corsi e prestare quotidianamente servizio nei reparti psichiatrici dell'istituto di clinica delle malattie nervose e mentali II per il 1° anno, nei reparti neurologici dello stesso istituto per il 2°, 3°, 4° anno, con diritto ad un mese di vacanza all'anno.   
-Per i medici che prestano servizio regolare in reparti neurologici di altri ospedali la frequenza nei reparti neurologici della clinica delle malattie nervose e mentali II potra' essere ridotta di non piu' di sei mesi allo anno, per quelli che prestano servizio in ospedali psichiatrici potra' essere di non piu' di quattro mesi.   
-Per il passaggio agli anni successivi e' obbligatorio il superamento di un esame finale per ogni singolo anno.   
-Art. 732. - Alla fine dei quattro anni gli allievi che hanno frequentato i corsi saranno ammessi allo esame di diploma consistente nella presentazione e discussione di una tesi scritta di argomento pertinente alla neurologia.   
-Agli allievi che avranno ottenuto l'approvazione nello esame di diploma verra' rilasciato il diploma di specializzazione in neurologia valido a tutti gli effetti di legge.   
+Art. 378. - Presso l'istituto di pedagogia della facolta' di magistero dell'Universita' di Roma, e' istituita una scuola speciale di ricerca e di applicazione per assistenti educatori di comunita' educative speciali ai sensi dell'[art. 20, terzo comma, lettera a) del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20-com3-leta).   
+Art. 379. - La scuola ha lo scopo di formare, attraverso un'autentica integrazione personale di dati teorici, tecnici e sperimentali, giovani che, professionalmente preparati per la educazione di fanciulli adolescenti e giovani, qualunque sia la natura ed il grado del loro disadattamento, sia in comunita' educative come nell'ambiente naturale, siano in grado di assolvere compiti di animazione sociale e di assumere responsabilita' direttive in seno alle comunita' stesse o in seno ad organismi assistenziali-educativi.   
+Un centro studi provvede alla documentazione e alla ricerca per assicurare un efficace funzionamento della scuola. La scuola rilascia il diploma di assistente educatore, attestati di idoneita' e attestati di qualificazione speciale.   
+Art. 380. - La scuola e' diretta dal direttore dell'istituto di pedagogia della facolta' di magistero. In mancanza di esso o in caso di impedimento non temporaneo, il consiglio della facolta' affidera' la direzione della scuola ad altro professore di ruolo della facolta'.   
+Il direttore e' coadiuvato dal direttore dei corsi ed assistito dal consiglio della scuola; in caso di assenza o impedimento temporaneo il direttore e' sostituito dal vice direttore da lui designato.   
+Art. 381. - Il consiglio della scuola e' composto dal direttore dei corsi e dai docenti della scuola. Le deliberazioni di carattere tecnico riguardanti la formazione professionale degli allievi, sono adottate con l'intervento di un componente designato dall'Associazione professionale degli educatori (A.N.E.G.I.D.) e di non piu' di sette membri designati da amministrazioni pubbliche e private interessate alla formazione degli educatori.   
+Art. 382. - Il consiglio e' convocato dal direttore, esso ratifica la designazione del vice direttore; determina i corsi e i relativi piani di studi, fissa il calendario; delibera sulle domande di iscrizione e sul prolungamento di questa; affida la direzione dei corsi a un cultore di discipline affini, docente o meno della scuola purche' abbia acquisito esperienze professionali nella educazione specializzata; sceglie i monitori per l'assistenza ai tirocini, esperti di educazione specializzata provvisti di norma del diploma di assistente educatore, delibera su ogni altra questione di natura didattica e disciplinare; formula proposte per la concessione di borse e assegni agli studenti bisognosi e meritevoli e per altre questioni di ordine amministrativo e finanziario riguardanti la scuola.   
+Art. 383. - La scuola si articola in corsi di formazione della durata di due anni. La varieta' e l'orientamento dei corsi, la distribuzione degli insegnamenti tra i due anni di ciascun corso sono stabiliti dal consiglio della scuola.   
+Possono essere ammessi coloro che siano in possesso di un titolo di scuola media superiore.   
+L'ammissione e' subordinata al superamento di prove atte a permettere una valutazione delle attitudini del candidato ad esercitare la professione ed a trarre profitto dalla formazione. Il limite numerico sara' fissato dal consiglio della scuola.   
+Agli studenti fuori corso puo' essere consentito il prolungamento dell'iscrizione per un periodo che non superi la durata del corso stesso.   
+Gli esami sostenuti nei corsi universitari per le materie di insegnamento della scuola, possono essere convalidati.   
+Art. 384. - La scuola puo' anche organizzare corsi di preparazione per educatori, in attivita' di servizio e corsi di qualificazione speciale per educatori gia' in possesso del diploma speciale. Gli insegnamenti della scuola hanno carattere teorico e tecnico pratico.   
+Sono insegnamenti teorici dei corsi di formazione:   
+1) Antropologia culturale;   
+2) Etica professionale;   
+3) Psicologia dell'eta' evolutiva con elementi di psicologia generale;   
+4) Psicologia sociale con elementi di psicologia dinamica;   
+5) Pedagogia generale e teoria della scuola;   
+6) Pedagogia speciale;   
+7) Sociologia;   
+8) Auxologia;   
+9) Igiene;   
+10) Igiene mentale;   
+11) Istituzioni di diritto pubblico.   
+Sono insegnamenti tecnici e pratici dei corsi di formazione:   
+1) Tecniche educative ed organizzative della vita in istituto;   
+2) Seminari di cultura generale;   
+3) Ricerche sociali e studio dell'ambiente;   
+4) Attivita' di gruppo;   
+5) Tirocinio professionale.   
+Art. 385. - Gli incarichi di insegnamento sono conferiti, previa proposta del direttore della scuola, a docenti anche di altre facolta' e ad esperti della materia. L'assistenza ai tirocini professionali e' curata da monitori ed e' affidata ad esperti di educazione specializzata; l'attivita' dei monitori e' coordinata dal titolare dell'insegnamento di tirocinio professionale.   
+I singoli insegnamenti sono svolti, di regola, lungo l'intero anno scolastico; il consiglio della scuola stabilisce di anno in anno quali insegnamenti possono essere svolti in un semestre o mediante seminari.   
+Art. 386. - Per il conseguimento del diploma o dell'attestato di qualificazione speciale, lo studente deve aver seguito i corsi e superato i relativi esami e prove pratiche. L'esame consiste nella discussione su una dissertazione scritta connessa all'attivita' di studio di ricerca e di applicazione svolta dal candidato durante la frequenza della scuola.   
+La commissione di esame e' composta dal direttore della scuola o da altro professore di ruolo della facolta' da lui delegato che la presiede, e da sei docenti della scuola stessa di cui tre degli insegnamenti tecnico pratici.   
+Gli iscritti alla scuola sono tenuti al versamento annuo delle tasse, sopratasse e contributi nella misura prevista dalla legge vigente per gli studenti della facolta' di magistero.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 ottobre 1972
+### Dato a Roma, addi' 23 settembre 1969
 
-LEONE SCALFARO
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 27 febbraio 1973
+Registrato alla Corte dei conti, addi' 17 giugno 1970
 
-Atti di Governo, registro n. 256, foglio n. 39. - VALENTINI
+Atti del Governo, registro 236, foglio n. 31. - CARUSO

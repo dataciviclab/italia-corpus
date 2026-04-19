@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1982 n. 653
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1982 n. 897
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1982 n. 653
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1982 n. 897
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
@@ -39,47 +39,25 @@ Articolo unico
 --------------
 
   
-Nell'art. 25, relativo al corso di laurea in giurisprudenza, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-diritto agrario;  
-diritto delle assicurazioni;  
-diritto dei trasporti;  
-teoria generale del processo;  
-diritti dell'uomo;  
-introduzione alle scienze giuridiche;  
-diritto penale dell'economia;  
-giustizia costituzionale;  
-diritto processuale amministrativo;  
-diritto statuale dei culti;  
-diritto della sicurezza sociale;  
-storia delle codificazioni;  
-storia del diritto e della procedura penale;  
-storia del diritto della navigazione;  
-storia del diritto commerciale;  
-storia del diritto costituzionale e amministrativo;  
-diritto pubblico romano;  
-diritto processuale comparato;  
-diritto delle assicurazioni marittime ed aeronautiche;  
-organizzazioni internazionali;  
-diritto ecclesiastico comparato;  
-diritto dell'esecuzione penale;  
-diritto penitenziario;  
-criminologia;  
-diritto pubblico dell'economia;  
-diritto processuale tributario;  
-diritto del lavoro nei Paesi della CEE;  
-diritto della sicurezza sociale nei Paesi della CEE;  
-diritto del lavoro nei sistemi socialisti.  
+Nell'art. 82, concernente il corso di laurea in scienze geologiche, dopo il quinto comma sono inseriti i nuovi seguenti commi:  
+  
+Lo studente per sostenere l'esame di mineralogia con esercitazioni, dovra' aver superato gli esami di chimica generale ed inorganica con elementi di organica con esercitazioni; di fisica sperimentale I con esercitazioni; di istituzioni di matematica con esercitazioni.  
+Per sostenere l'esame di petrografia con esercitazioni dovra' aver superato l'esame di mineralogia con esercitazioni.  
+Per sostenere l'esame di geologia con esercitazioni dovra' aver superato l'esame di petrografia con esercitazioni.  
+Per sostenere l'esame di fisica sperimentale II con esercitazioni dovra' aver superato l'esame di istituzioni di matematica con esercitazioni e fisica sperimentale I con esercitazioni.  
+L'esame di fisica terrestre deve essere preceduto dagli esami di mineralogia e fisica.  
+Per sostenere gli esami di discipline ad indirizzo professionale o specialistico dovra' aver superato gli esami propedeutici relativi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 giugno 1982
+### Dato a Roma, addi' 9 settembre 1982
 
 PERTINI BODRATO
 
 Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 2 settembre 1982
+Registrato alla Corte dei conti, addi' 26 novembre 1982
 
-Registro n. 104 Istruzione, foglio n. 260
+Registro n. 128 Istruzione, foglio n. 330

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 1116
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 908
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 1116
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 908
 ==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bologna.
@@ -39,21 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 118, relativo al corso di laurea in scienze geologiche, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-paleontologia stratigrafica;  
-complementi di mineralogia e pietrografia;  
-speleologia.  
+Nell'art. 51, relativo al corso di laurea in scienze politiche, all'elenco degli insegnamenti dell'indirizzo storico-politico e' aggiunto il seguente nuovo insegnamento:  
+storia economica e sociale dell'eta' moderna e contemporanea.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 giugno 1983
+### Dato a Roma, addi' 28 ottobre 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 22 marzo 1984
+Registrato alla Corte dei conti, addi' 30 gennaio 1984
 
-Registro n. 17 Istruzione, foglio n. 357
+Registro n. 5 Istruzione, foglio n. 17

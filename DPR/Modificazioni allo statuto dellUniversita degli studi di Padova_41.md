@@ -1,178 +1,80 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1968 n. 780
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1965 n. 1297
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1968 n. 780
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1965 n. 1297
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 105](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;105).3 e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), a successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduta la [legge 25 luglio 1966, n. 602](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-25;602);
-
-Vedute le proposte avanzate dalle autorita' accademiche dell'Universita' di Padova intese ad ottenere l'istituzione del corso di laurea in astronomia presso la facolta' di scienze matematiche, fisiche e naturali;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla
------
-
-proposta del Ministro per la pubblica Istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Presso la facolta' di scienze matematiche, fisiche e naturali puo' essere istituito il corso di laurea in astronomia.  
-Il titolo di studio per l'ammissione al predetto corso di laurea, la durata e l'ordinamento del corso medesimo sono stabiliti dalla tabella annessa al presente decreto firmato, d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione.  
-All'elenco delle lauree e dei diplomi, di cui alla tabella I, annessa al [regio decreto 30 settembre 1938, numero 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e' aggiunta la laurea in astronomia.  
-La tabella 11, annessa al citato regio decreto n. 1652, e' integrata nel senso che la facolta' di scienze matematiche, fisiche e naturali rilascia anche la laurea in astronomia.  
-Dopo la tabella XXII, annessa al citato regio decreto n. 1652, e' inserita, assumendo il numero XXII-bis, la tabella allegata al presente decreto (allegato A).  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1817](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1817) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938; n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-A decorrere dall'anno accademico 1968 -69 e' istituito presso la facolta' di scienze matematiche, fisiche e naturali dell'Universita' degli studi di Padova il corso di laurea in astronomia.  
-
-Art. 3
-------
-
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti suindicati, e' ulteriormente modificato nel senso che dopo l'art. 110, e con il conseguente spostamento della successiva numerazione, viene aggiunto l'art. 111, contenente le norme relative all'ordinamento del corso di studi per il conseguimento della laurea in astronomia secondo l'ordinamento riportato nell'annessa tabella e con le precisazioni seguenti:  
-"Gli esami di fisica generale I, analisi matematica I, geometria, chimica, sono propedeutici a quelli di astronomia, fisica generale II, analisi matematica II, meccanica razionale".  
-I due insegnamenti richiesti dal n. 5 dell'ordinamento sono i seguenti:  
-"per l'indirizzo fisico: istituzioni di fisica teorica";  
-"per l'indirizzo matematico: meccanica celeste".  
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati 6 ulteriormente modificato come appresso:  
+Art. 47. - All'elenco degli insegnamenti complementari del corso di laurea in Economia e commercio e aggiunto quello di "Diritto della sicurezza sociale".  
+Art. 51, relativo agli istituti appartenenti alla Facolta' di economia e commercio e' cosi' modificato:  
+"Appartengono alla Facolta' i seguenti istituti:  
+  
+Istituto di Economia e politica economica;  
+Istituto di Storia economica;  
+Istituto di Economia e politica agraria;  
+Istituto di Diritto privato;  
+Istituto di Diritto pubblico;  
+Istituto di Statistica e ricerca operativa;  
+Istituto di Matematica;  
+Istituto di Ragioneria e tecnica economica;  
+Istituto di Merceologia;  
+Istituto di Lingue straniere;  
+Biblioteca della Facolta'".  
+Art. 356, e' modificato nel senso che l'ordinamento della Scuola di specializzazione in Oculistica della durata di tre anni e' abrogato e sostituito dal seguente della durata di anni quattro.  
+Scuola di specializzazione in Oculistica (durata del corso anni quattro):  
+1° Anno:  
+1) Anatomia ed istologia dell'apparato oculare;  
+2) Nozioni di Embriologia e genetica oculare;  
+3) Fisiologia dell'occhio e nozioni di Biochimica dei tessuti e dei liquidi oculari;  
+4) Nozioni di Ottica fisiologica, esame della refrazione;  
+5) Microbiologia ed igiene oculare.  
+2°Anno:  
+1) Semeiotica oculare, e mezzi di indagine dell'apparato oculare (biomicroscopia, gonioscopia, oftalmoscopia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);  
+2) Farmacologia oculare e terapia fisica;  
+3) Nozioni di Patologia generale e di anatomia patologica in rapporto all'oftalmologia;  
+4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della sclera).  
+3° Anno:  
+1) Patologia e clinica oculare (malattie dell'uvea, della retina, del nervo ottico e delle vie ottiche, dell'occhio della sua totalita' e dell'orbita, glaucoma);  
+2) Anomalie e patologia della motilita' oculare e della visione binoculare. Ortottica e pleottica;  
+3) Tecnica operatoria ed anestesiologia (la parte).  
+4° Anno:  
+1) Neuroftalmologia;  
+2) Malattie oculari in rapporto ad affezioni generali;  
+3) Malattie professionali. Infortunistica e medicina legale oculare;  
+4) Tecnica operatoria (2ª parte);  
+Il numero complessivo degli iscritti ai quattro anni del corso e' di venticinque.  
+Gli esami di profitto si danno alla fine di ciascun anno di corso.  
+Alla fine del corso gli iscritti, oltre a presentare la dissertazione scritta ed a sostenere la relativa discussione a norma dell'art. 354, devono sostenere una prova pratica sull'ammalato.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti osservarlo e di farlo osservare.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 maggio 1968
+### Dato a Roma, addi' 27 ottobre 1965
 
 SARAGAT GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 6 luglio 1968
+Registrato alla Corte dei conti, addi' 23 novembre 1965
 
-Atti del Governo, registro n. 220, foglio n. 105. - GRECO
-
-Allegato A
-
- ALLEGATO A   
-  
-TABELLA XXII-bis   
-Laurea in astronomia   
-  
-1) durata del corso: quattro anni.   
-2) titolo di ammissione: diploma di maturita' classica, di   
-maturita' scientifica.   
-Diploma di abilitazione per i provenienti dagli istituti tecnici, industriali, nautici, agrari e per geometri.   
-3) sono insegnamenti fondamentali, obbligatori per il primo   
-biennio:   
-  
-1. astronomia;   
-2. fisica generale I;   
-3. fisica generale II;   
-4. analisi matematica I;   
-5. analisi matematica II;   
-6. geometria I;   
-7. chimica;   
-8. meccanica razionale;   
-  
-Si richiedera' inoltre alla fine del primo biennio la prova di   
-conoscenza di due lingue straniere di importanza scientifica. Le singole facolta' fisseranno l'ordine di propedeuticita' dei precedenti esami.   
-I corsi di fisica generale I e II, analisi matematica I e II, non devono essere considerati come corsi biennali: essi constano di due corsi distinti, l'uno propedeutico all'altro e con esami distinti.   
-I corsi numeri 1, 2, 3, 4, 5, 6, 7, 8 sono accompagnati da   
-esercitazioni che ne fanno parte integrante. Per ciascuno dei corsi elencati vi e' un esame finale.   
-4) Gli insegnamenti obbligatori per il secondo biennio sono i   
-seguenti:   
-  
-1. complementi di astronomia;   
-2. astrofisica;   
-3. struttura della materia;   
-4-5 esercitazioni di astronomia (biennale)   
-  
-A giudizio della facolta', le esercitazioni di astronomia potranno essere sostituite con il laboratorio di fisica biennale del corso di laurea in fisica.   
-5) Nel secondo biennio, oltre agli insegnamenti di cui al   
-precedente paragrafo, dovranno essere impartite altre quattro discipline, di cui una dovra' essere ad indirizzo fisico e una ad indirizzo matematico.   
-Le singole facolta' indicheranno nei loro statuti due dei predetti quattro insegnamenti. I rimanenti due saranno insegnamenti complementari che lo studente potra' scegliere da un elenco preparato dalla facolta'. Le proposte della facolta' dovranno essere approvate dalla I sezione del Consiglio superiore della pubblica istruzione.   
-6) Elenco a carattere orientativo di insegnamenti entro cui   
-potranno essere scelti i quattro insegnamenti di cui al paragrafo 5:   
-  
-Astrofisica teorica;   
-Astrometria;   
-Astronautica;   
-Calcolo delle probabilita';   
-Calcolo numerici e grafici;   
-Chimica fisica;   
-Chimica organica;   
-Conduzione elettrica nei gas;   
-Cosmologia;   
-Elettrodinamica;   
-Elettronica;   
-Elettronica applicata;   
-Fisica del sistema solare;   
-Fisica del plasma;   
-Fisica solare;   
-Fisica dello spazio;   
-Fisica matematica;   
-Fisica nucleare;   
-Fisica superiore;   
-Fisica teorica;   
-Geofisica;   
-Geodesia;   
-Istituzioni di analisi superiore;   
-Istituzioni di fisica teorica;   
-Istituzioni di fisica nucleare;   
-Istituzioni di fisica matematica.   
-Matematiche complementari;   
-Matematiche superiori;   
-Meccanica analitica;   
-Meccanica celeste;   
-Meccanica quantistica;   
-Meccanica statistica;   
-Meccanica superiore;   
-Metodi matematici per la fisica;   
-Metodi matematici per l'astronomia;   
-Ottica;   
-Ottica elettronica;   
-Radioastronomia;   
-Relativita';   
-Spettroscopia;   
-Statistica stellare;   
-Storia dell'astronomia;   
-Storia delle matematiche;   
-Teoria delle funzioni;   
-Teoria delle orbite;   
-Teoria e applicazione delle macchine calcolatrici.   
-  
-7) Potranno iscriversi ai corsi del secondo biennio soltanto quegli   
-studenti che abbiano superato gli esami di analisi matematica I e II, fisica I, meccanica razionale, astronomia generale, geometria I.   
-8) L'esame di laurea dovra' comprendere in ogni caso, secondo le   
-modalita' stabilite dalle singole facolta', un lavoro scritto e la discussione di tesine orali.   
-A giudizio delle singole facolta' potra' richiedersi anche un esame   
-di cultura generale.   
-Superato l'esame di laurea lo studente consegue il titolo di   
-dottore in astronomia.   
-  
-Visto, d'ordine del Presidente della Repubblica   
-  
-Il Ministro per la pubblica istruzione   
-GUI   
+Atti del Governo, registro n. 198, foglio n. 61. - VILLA

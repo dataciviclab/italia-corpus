@@ -1,99 +1,95 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1966 n. 995
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1982 n. 664
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1966 n. 995
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1982 n. 664
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Perugia e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936 n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle Autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 59, relativo alla Facolta' di scienze matematiche, fisiche e naturali: il primo e secondo comma sono abrogati e sostituiti dal seguente:  
-"La Facolta' di scienze matematiche, fisiche e naturali conferisce le lauree in Scienze naturali, In Scienze biologiche, in Chimica, in Matematica. La durata del corso degli studi e' di anni quattro per le lauree In Scienze naturali, in Scienze biologiche ed in Matematica e di cinque anni per la laurea in Chimica".  
-Dopo l'art. 69 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in Matematica.  
-Art. 70. - Il corso degli studi per la laurea in Matematica si distingue in due indirizzi: didattico ed applicativo.  
-Sono insegnamenti fondamentali comuni al due indirizzi per il primo biennio:  
-1° Anno:  
-Analisi matematica I  
-Geometria I  
-Algebra  
-Fisica generale I  
-2° Anno;  
-Analisi matematica II  
-Geometria II  
-Meccanica razionale  
-Fisica generale II  
-Per ciascuno degli insegnamenti elencati vi e' un esame finale.  
-Gli insegnamenti fondamentali sopra elencati sono accompagnati ciascuno da un corso di esercitazioni che ne e' parte integrante.  
-Potranno essere iscritti al secondo anno soltanto quegli studenti che abbiano superato almeno due degli esami di Analisi matematica I", "Geometria I", "Algebra".  
-Sono insegnamenti fondamentali obbligatori comuni ai due indirizzi per il terzo anno:  
-Istituzioni di analisi superiore;  
-Istituzioni di geometria superiore;  
-Istituzioni di fisica matematica.  
-Sono altresi' insegnamenti fondamentali nel terzo anno:  
-Matematiche complementari (per l'indirizzo didattico);  
-Analisi numerica (per l'indirizzo applicativo).  
-e nel quarto anno:  
-Matematica finanziaria ed attuariale (per l'indirizzo didattico);  
-Calcolo delle probabilita' (per l'indirizzo applicativo).  
-Durante il quarto anno lo studente, oltre ai suddetti insegnamenti fondamentali, deve seguire altri due corsi, uno almeno dei quali ad indirizzo fisico, scelti fra i seguenti insegnamenti complementari:  
-1) Analisi numerica;  
-2) Calcolo delle probabilita';  
-3) Matematiche complementari;  
-4) Matematica finanziaria ed attuariale;  
-5) Analisi funzionale;  
-6) Matematiche elementari da un punto di vista superiore;  
-7) Teoria dei numeri;  
-8) Teoria delle funzioni;  
-9) Topologia;  
-10) Esperienze didattiche;  
-11) Pedagogia;  
-12) Statistica matematica;  
-13) Storia delle matematiche;  
-14) Calcolatori elettronici (\*);  
-15) Chimica con esercitazioni di laboratorio (\*);  
-16) Complementi di fisica generale (\*);  
-17) Istituzioni di fisica teorica (\*);  
-18) Meccanica superiore (\*);  
-19) Struttura della materia (\*).  
-  
-Gli insegnamenti segnati con asterisco si intendono ad indirizzo fisico. Ciascuno dei primi quattro insegnamenti dell'elenco e' complementare solo per quello dei due indirizzi per il quale non e' scelto come fondamentale.  
-Art. 71. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di profitto in tutti gli insegnamenti fondamentali prescritti e nei due da lui scelti fra i complementari.  
-L'esame di laurea comprende:  
-a) un preliminare esame di cultura generale sulle scienze matematiche;  
-b) la discussione di un lavoro scritto su una tesi aderente all'indirizzo prescelto;  
-c) la discussione di una tesina orale scelta dalla Commissione fra due assegnate.  
-Superato l'esame di laurea lo studente consegue il titolo di dottore in Matematica, indipendentemente dall'indirizzo prescelto, del quale verra' fatta menzione solo nella carriera scolastica.  
-Art. 72. - Per l'iscrizione di coloro che siano gia' forniti di una laurea, il Consiglio di facolta' decidera' caso per caso sull'anno di iscrizione.  
-Il Consiglio decidera' altresi' sugli esami e sulle frequenze che possono essere convalidate.  
+Nell'art. 17, relativo al corso di laurea in scienze politiche, all'elenco degli insegnamenti complementari riguardanti il biennio di specializzazione, sono aggiunti i seguenti insegnamenti:  
+analisi del linguaggio politico;  
+contabilita' pubblica;  
+demografia storica;  
+diritto dell'economia;  
+diritto finanziario;  
+econometria;  
+economia dei Paesi socialisti;  
+economia monetaria e creditizia;  
+geografia storica;  
+informatica;  
+istituzioni giuridiche dell'Europa orientale;  
+lingua araba moderna;  
+lingua cinese;  
+matematica per le scienze economiche e sociali;  
+metodologia delle scienze sociali;  
+metodologia delle scienze storiche;  
+organizzazioni economiche internazionali;  
+psicologia sociale;  
+scienza della politica;  
+sociologia della conoscenza;  
+sociologia delle comunicazioni;  
+sociologia dell'educazione;  
+sociologia dell'organizzazione;  
+sociologia politica;  
+sociologia urbana e rurale;  
+storia della civilta' materiale;  
+storia dell'Africa a sud del Sahara;  
+storia dell'Africa e dell'Asia mediterranea;  
+storia dell'agricoltura;  
+storia dell'America del Nord;  
+storia dell'America latina;  
+storia del pensiero politico contemporaneo;  
+storia e sistemi delle relazioni fra Stato e Chiesa nell'eta' moderna e contemporanea;  
+storia urbana.  
+Nel medesimo art. 17 sono soppressi i seguenti insegnamenti:  
+contabilita' dello Stato e degli enti pubblici;  
+diritto commerciale;  
+matematica per le scienze sociali;  
+storia dei rapporti fra Stato e Chiesa.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 ottobre 1966
+### Dato a Roma, addi' 15 luglio 1982
 
-SARAGAT GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 22 novembre 1966
+Registrato alla Corte dei conti, addi' 9 settembre 1982
 
-Atti del Governo, registro n. 207, foglio n. 56. - VILLA
+Registro n. 105 Istruzione, foglio n. 216
